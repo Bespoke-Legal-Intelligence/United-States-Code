@@ -1,6 +1,0 @@
-### §768. Officers
-
-The officers of the corporation shall be a national commander, a national senior vice commander, a national junior vice commander, a national quartermaster, a national adjutant (which latter two offices may be held by one person), a national judge advocate, nine regional vice commanders, and such other officers as may be prescribed in the constitution and bylaws. The officers of the corporation shall be selected in such manner and for such terms and with such duties and titles as may be prescribed in the constitution and bylaws of the corporation.
-
-(Pub. L. 85–530, §8, July 18, 1958, 72 Stat. 373.)
-

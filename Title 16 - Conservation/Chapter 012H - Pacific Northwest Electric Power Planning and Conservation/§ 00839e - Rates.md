@@ -14,7 +14,7 @@
 
 #### (b) General application of rates to meet general requirements
 
-(1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric power acquired by the Administrator under section 839c(c) of this title and then from other resources.
+(1) The Administrator shall establish a rate or rates of general application for electric power sold to meet the general requirements of public body, cooperative, and Federal agency customers within the Pacific Northwest, and loads of electric utilities under section 839c(c) of this title. Such rate or rates shall recover the costs of that portion of the Federal base system resources needed to supply such loads until such sales exceed the Federal base system resources. Thereafter, such rate or rates shall recover the cost of additional electric power as needed to supply such loads, first from the electric poweracquired by the Administrator under section 839c(c) of this title and then from other resources.
 
 (2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customer if, the Administrator assumes that—
 
@@ -44,7 +44,7 @@
 
 > &emsp;were not achieved.
 
-(3) Any amounts not charged to public body, cooperative, and Federal agency customers byreason of paragraph (2) of this subsection shall be recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs or benefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
+(3) Any amounts not charged to public body, cooperative, and Federal agency customers by reason of paragraph (2) of this subsection shall be recovered through supplemental rate charges for all other power sold by the Administrator to all customers. Rates charged public body, cooperative, or Federal agency customers pursuant to this subsection shall not include any costs or benefits of a net revenue surplus or deficiency occurring for the period ending June 30, 1985, to the extent such surplus or deficiency is caused by—
 
 &emsp;(A) a difference between actual power deliveries and power deliveries projected for the purpose of establishing rates to direct service industrial customers under subsection (c)(1) of this subsection, and
 
@@ -94,7 +94,7 @@ Except to the extent that the allocation of costs and benefits is governed by pr
 
 #### (h) Surcharges
 
-Notwithstanding any other provision of this section (except the provisions of subsection (a)of this section), the Administrator shall adjust power rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in such manner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
+Notwithstanding any other provision of this section (except the provisions of subsection (a) of this section), the Administrator shall adjust power rates to include any surcharges arising under section 839b(f) of this title, and shall allocate any revenues from such charges in such manner as the Administrator determines will help achieve the purposes of section 839b(f) of this title.
 
 #### (i) Procedures
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of this chapter, all rates or rate schedules
 
 #### (<i>l</i>) Rates for sales outside United States; negotiations
 
-In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) of this section shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than the rates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also affordnotice of any rates negotiated pursuant to this subsection.
+In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) of this section shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than the rates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
 
 #### (m) Impact aid payments; formula
 

@@ -16,7 +16,7 @@ Receipts for payments by the United States of America for or on account of such 
 
 Within thirty days after September 26, 1980, the Secretary of the Treasury shall cancel, without consideration, receipts for payments for or on account of the stock of the Corporation outstanding on September 26, 1980, and such receipts shall cease to be liabilities of the Corporation.
 
-(Feb. 16, 1938, ch. 30, title V, §504, 52 Stat. 72; Aug. 25, 1949, ch. 512, §§4, 6, 63 Stat. 665; June 16, 1977, Pub. L. 95–47, 91 Stat. 228; Nov. 15, 1977, Pub. L. 95–181, §1, 91 Stat. 1373; Sept. 26, 1980, Pub. L. 96–365, title I, §101, 94 Stat. 1312; Oct. 13, 1994, Pub. L. 103–354, title I, §102(b)(2), (4)(C), 108 Stat. 3180, 3181.)
+(Feb. 16, 1938, ch. 30, title V, §504, 52 Stat. 72; Aug. 25, 1949, ch. 512, §§4, 6, 63 Stat. 665; Pub. L. 95–47, June 16, 1977, 91 Stat. 228; Pub. L. 95–181, §1, Nov. 15, 1977, 91 Stat. 1373; Pub. L. 96–365, title I, §101, Sept. 26, 1980, 94 Stat. 1312; Pub. L. 103–354, title I, §102(b)(2), (4)(C), Oct. 13, 1994, 108 Stat. 3180, 3181.)
 
 #### Amendments
 

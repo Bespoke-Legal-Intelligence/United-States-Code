@@ -22,9 +22,9 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 &emsp;(B) when an individual first receives an appointment as an employee, the request shall be effective on the day of appointment, if the individual makes the request at the time of appointment; and
 
-&emsp;(C) when an individual first becomes a Member, the request shall be effective on the day such individual takes the oath of office as a Member, if the individual makes the request at such time.
+&emsp;(C) when an individual first becomes a Member, the request shall be effective on the day such individual takes the oath of office as aMember, if the individual makes the request at such time.
 
-(2) A Member or employee may change the State designated by such Member or employee for purposes of having withholdings made, andmay request that the withholdings be remitted in accordance with such change. A Member or employee also may revoke any request of such Member or employee for withholding. Any change in the State designated or revocation is effective on the first day of the month in which the request or the revocation is processed by the Chief Administrative Officer, but in no event later than on the first day of the first month beginning after the day on which such request or revocation is received by the Chief Administrative Officer.
+(2) A Member or employee may change the State designated by such Member or employee for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. A Member or employee also may revoke any request of such Member or employee for withholding. Any change in the State designated or revocation is effective on the first day of the month in which the request or the revocation is processed by the Chief Administrative Officer, but in no event later than on the first day of the first month beginning after the day on which such request or revocation is received by the Chief Administrative Officer.
 
 #### (e) Provisions as not imposing duty, burden, requirement or penalty on United States, House, or any officer or employee of United States; effect of filing paper, form, or document with Chief Administrative Officer
 
@@ -55,10 +55,6 @@ Subsec. (c)(1). Pub. L. 104–186, §204(4)(D), substituted “Chief Administrat
 Subsec. (c)(2). Pub. L. 104–186, §204(4)(E), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms, as the case may be,” in two places.
 
 Subsecs. (d), (e). Pub. L. 104–186, §204(4)(F), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms” wherever appearing.
-
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of this title.
 
 #### Cross References
 

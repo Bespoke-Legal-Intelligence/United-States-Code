@@ -8,7 +8,7 @@ Authority.—The Secretary of Defense may authorize an element of the Department
 
 Limitations.—(1) A contract may not be entered into under subsection (a) in an amount in excess of $50,000.
 
-(2) Supplies provided under a contract entered into under subsection (a) shall be provided from the stocks of the exchange store on hand as of the date the contract is entered into with that exchange store.
+(2) Supplies provided under a contract entered into under subsection (a) shall be provided fromthe stocks of the exchange store on hand as of the date the contract is entered into with that exchange store.
 
 (3) A contract entered into with an exchange store under subsection (a) may not provide for the procurement of services not regularly provided by that exchange store.
 

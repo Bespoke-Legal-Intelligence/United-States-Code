@@ -172,7 +172,7 @@ Section 529 \[title III, §303\] of Pub. L. 101–509 provided that: “Nothing 
 
 #### Ex. Ord. No. 12748. Providing for Federal Pay Administration
 
-Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281, provided:
+Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, as amended by Ex. Ord. No. 12883, Nov. 29, 1993, 58 F.R. 63281; Ex. Ord. No. 13106, §8, Dec. 7, 1998, 63 F.R. 68152, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Employees Pay Comparability Act of 1990 (hereinafter “FEPCA”), as incorporated in section 529 of Public Law 101–509 \[see Short Title of 1990 Amendment note above\], and sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
 
@@ -188,7 +188,7 @@ Sec. 2. <i>Locality-based Comparability Payments</i>. (a) The Secretary of Labor
 
 (b) The head of each executive agency employing personnel under a statutory pay system, as defined in section 5302(1) of title 5, United States Code, as amended by FEPCA, shall provide such information and assistance as may be requested by the President's Pay Agent in carrying out the provisions of section 5304 of title 5, United States Code.
 
-(c) The President's Pay Agent, as designated in subsection (a), is hereby authorized and designated to exercise the authorities of the President under section 5304(h) \[5 U.S.C. 5304(h)\] concerning the extension of locality-based comparability payments to certain categories of positions not otherwise covered.
+(c) The President's Pay Agent, as designated in subsection (a), is hereby authorized and designated to exercise the authorities of the President under section 5304(g)–(h) \[5 U.S.C. 5304(g), (h)\] concerning the extension of locality-based comparability payments to certain categories of positions not otherwise covered.
 
 Sec. 3. <i>Special Pay Authority</i>. (a) The Office of Personnel Management is hereby authorized and designated, pursuant to section 5305(a) of title 5, United States Code, as amended by section 101 of FEPCA, to exercise the authorities of the President under section 5305 of title 5, United States Code, concerning higher rates of pay.
 

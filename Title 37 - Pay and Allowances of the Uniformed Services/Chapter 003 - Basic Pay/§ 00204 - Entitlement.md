@@ -142,7 +142,7 @@ In subsection (d), the words “for the purposes of this section” are substitu
 
 In subsection (e), the words “or active duty for training” are omitted as covered by the words “active duty” as defined in section 101(18) of this revised title.
 
-In subsection (f), the words “is appointed” are substituted for the words “has been or may be commissioned”. The words “under the laws appointing such graduates to the Army” and the last 16 words of section 308a of existing title 37 are omitted as surplusage. The words “to the date of his acceptance of and qualification under his commission” are omitted, since the member concerned would continue to be entitled tobasic pay after that acceptance and qualification. The words “or the United States Naval Academy” are inserted to reflect section 541 of title 10, under which graduates of that Academy may be appointed in the Army or the Air Force.
+In subsection (f), the words “is appointed” are substituted for the words “has been or may be commissioned”. The words “under the laws appointing such graduates to the Army” and the last 16 words of section 308a of existing title 37 are omitted as surplusage. The words “to the date of his acceptance of and qualification under his commission” are omitted, since the member concerned would continue to be entitled to basic pay after that acceptance and qualification. The words “or the United States Naval Academy” are inserted to reflect section 541 of title 10, under which graduates of that Academy may be appointed in the Army or the Air Force.
 
 In subsection (i), the inclusion of the Coast Guard Reserve is based on the authority contained in section 755(c) of title 14.
 
@@ -210,5 +210,5 @@ No increase in allowances while dependent entitled to basic pay, see section 421
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 206, 301, 301a, 304, 316, 411h, 421, 707 of this title; title 5 sections 4102, 8334, 8422; title 22 section 4045; title 50 section 2082.
+This section is referred to in sections 206, 301, 301a, 304, 316, 402, 411h, 421, 707 of this title; title 5 sections 4102, 8334, 8422; title 22 section 4045; title 50 section 2082.
 

@@ -22,11 +22,13 @@ Limitations.—A standard under this section—
 
 (c)
 
-Exemptions.—For good cause, the Secretary may exempt from any part of a standard—
+Exemptions.—For good cause, the Secretary may exempt from all or any part of a standard—
 
-&emsp;(1) a multipurpose passenger vehicle; or
+&emsp;(1) a multipurpose passenger vehicle;
 
-&emsp;(2) a make, model, or class of a passenger motor vehicle manufactured for a special use, if the standard would interfere unreasonably with the special use of the vehicle.
+&emsp;(2) a make, model, or class of a passenger motor vehicle manufactured for a special use, if the standard would interfere unreasonably with the special use of the vehicle; or
+
+&emsp;(3) a passenger motor vehicle for which an application for an exemption under section 30013(b) <sup>1</sup> of this title has been filed in accordance with the requirements of that section.
 
 (d)
 
@@ -46,13 +48,13 @@ Procedures.—Section 553 of title 5 applies to a standard prescribed under this
 
 (f)
 
-Effective Date.—The Secretary shall prescribe an effective date for a standard under this section. That date may not be earlier than the date the standard is prescribed nor later than 18 months after the date the standard is prescribed. However, the Secretary may prescribe a later date when the Secretary submits to Congress and publishes the reasons for the later date. Astandard only applies to a passenger motor vehicle or passenger motor vehicle equipment manufactured on or after the effective date.
+Effective Date.—The Secretary shall prescribe an effective date for a standard under this section. That date may not be earlier than the date the standard is prescribed nor later than 18 months after the date the standard is prescribed. However, the Secretary may prescribe a later date when the Secretary submits to Congress and publishes the reasons for the later date. A standard only applies to a passenger motor vehicle or passenger motor vehicle equipment manufactured on or after the effective date.
 
 (g)
 
 Research.—The Secretary shall conduct research necessary to carry out this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1042.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1042; Pub. L. 105–277, div. A, §101(g) \[title III, §351(b)(1)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–476.)
 
 Historical and Revision Notes
 
@@ -114,7 +116,15 @@ In subsection (e), the words “Section 553 of title 5 applies to a standard pre
 
 In subsection (f), the words “However, the Secretary may prescribe a later date when the Secretary submits” are substituted for “unless the Secretary presents” for clarity. The word “reasons” is substituted for “a detailed explanation of the reasons” to eliminate unnecessary words.
 
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–277, §101(g) \[title III, §351(b)(1)(A)\], substituted “all or any part of a standard” for “any part of a standard” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 105–277, §101(g) \[title III, §351(b)(1)(B)–(D)\], added par. (3).
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 32503, 32504, 32506, 32507, 32508, 32511 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “30113(b)”.</i>
 

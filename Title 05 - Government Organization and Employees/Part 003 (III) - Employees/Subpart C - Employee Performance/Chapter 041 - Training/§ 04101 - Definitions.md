@@ -66,7 +66,7 @@ In paragraph (6)(C), the word “agency” is omitted as unnecessary and to avoi
 
 In paragraph (6)(E), the words “individuals other than civilian or military personnel of the Government” are substituted for “an individual not a civilian or military officer or employee of the Government of the United States or of the municipal government of the District of Columbia” to conform to paragraph (5).
 
-The definition of “Commission” in former section 2302(4) is omitted as unnecessary as the title “Civil Service Commission” is fully set out the first time it is used in each section of this chapter.
+The definition of “Commission” in former section 2302(4) is omitted as unnecessary as the title “CivilService Commission” is fully set out the first time it is used in each section of this chapter.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

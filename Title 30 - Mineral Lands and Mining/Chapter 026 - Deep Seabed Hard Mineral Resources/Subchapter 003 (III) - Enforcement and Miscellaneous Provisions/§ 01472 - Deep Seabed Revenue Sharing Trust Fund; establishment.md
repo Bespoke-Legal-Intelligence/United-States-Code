@@ -8,11 +8,11 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (1) In general
 
-&emsp;There are hereby appropriated to the Trust Fund amounts determined by the Secretary of the Treasury to be equivalent to the amounts of the taxes received in the Treasury under section 4495 of title 26.
+&emsp;There are hereby appropriated to the Trust Fund amounts determined by the Secretary of the Treasury to be equivalent to the amounts of the taxes received in the Treasury under section 4495 <sup>1</sup> of title 26.
 
 #### (2) Method of transfer
 
-&emsp;The amounts appropriated by paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in paragraph (1) received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amount required to be transferred.
+&emsp;The amounts appropriated by paragraph (1) shall be transferred at least quarterly fromthe general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in paragraph (1) received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amount required to be transferred.
 
 #### (c) Management of Trust Fund
 
@@ -44,9 +44,13 @@ If an international deep seabed treaty is not in effect with respect to the Unit
 
 #### (f) International deep seabed treaty
 
-For purposes of this section, the term “international deep seabed treaty” has the meaning given to such term by section 4498(b) of title 26.
+For purposes of this section, the term “international deep seabed treaty” has the meaning given to such term by section 4498(b) <sup>1</sup> of title 26.
 
 (Pub. L. 96–283, title IV, §403, June 28, 1980, 94 Stat. 584; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### References in Text
+
+Sections 4495 and 4498 of title 26, referred to in subsecs. (b)(1) and (f), were repealed by Pub. L. 105–34, title XIV, §1432(b)(1), Aug. 5, 1997, 111 Stat. 1050.
 
 #### Codification
 
@@ -55,4 +59,6 @@ Section was enacted as part of title IV of Pub. L. 96–283, and not as part of 
 #### Amendments
 
 1986—Subsec. (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

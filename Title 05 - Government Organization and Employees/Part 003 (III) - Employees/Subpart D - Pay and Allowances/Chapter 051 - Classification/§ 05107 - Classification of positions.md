@@ -34,5 +34,5 @@ Amendment by section 906(a)(2), (3) of Pub. L. 95–454, substituting reference 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5111, 5112 of this title; title 12 section 4523; title 36 section 5202.
+This section is referred to in sections 5111, 5112 of this title; title 12 section 4523; title 36 section 151304.
 

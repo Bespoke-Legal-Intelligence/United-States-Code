@@ -14,7 +14,7 @@ General.—Section 30112(a) of this title does not apply to a motor vehicle impo
 
 &emsp;(1) whose assigned place of employment was outside the United States as of October 31, 1988, and who has not had an assigned place of employment in the United States from that date through the date the vehicle is imported into the United States;
 
-&emsp;(2) who previously had not imported a motor vehicle into the United States under this section or section 108(g) of the National Traffic and Motor Vehicle Safety Act of 1966 or, before October 31, 1988, under section 108(b)(3) of that Act;
+&emsp;(2) who previously had not imported a motor vehicle into the United States under this section or section 108(g) of the National Traffic and Motor Vehicle Safety Act of 1966 or, beforeOctober 31, 1988, under section 108(b)(3) of that Act;
 
 &emsp;(3) who acquired, or made a binding contract to acquire, the vehicle before October 31, 1988;
 

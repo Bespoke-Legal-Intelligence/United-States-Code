@@ -58,7 +58,7 @@ Pub. L. 98–223, §203(c)(1)(B), added subsec. (b).
 
 #### Effective Date of 1980 Amendment
 
-Section 802(a)(6) of Pub. L. 96–466 provided that: “The amendments made by sections 102 and 103 \[amendingthis section and section 1795 \[now 3695\] of this title\] shall become effective on October 1, 1980.”
+Section 802(a)(6) of Pub. L. 96–466 provided that: “The amendments made by sections 102 and 103 \[amending this section and section 1795 \[now 3695\] of this title\] shall become effective on October 1, 1980.”
 
 Amendment by section 801(e) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 

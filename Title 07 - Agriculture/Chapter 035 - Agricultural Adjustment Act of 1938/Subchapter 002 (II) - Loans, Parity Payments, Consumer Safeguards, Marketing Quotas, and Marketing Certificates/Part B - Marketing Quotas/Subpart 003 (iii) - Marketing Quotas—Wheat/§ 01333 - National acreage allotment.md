@@ -2,13 +2,13 @@
 
 The Secretary shall proclaim a national acreage allotment for each crop of wheat. The amount of the national acreage allotment for any crop of wheat shall be the number of acres which the Secretary determines on the basis of the projected national yield and expected underplantings (acreage other than that not harvested because of program incentives) of farm acreage allotments will produce an amount of wheat equal to the national marketing quota for wheat for the marketing year for such crop, or if a national marketing quota was not proclaimed, the quota which would have been determined if one had been proclaimed.
 
-(Feb. 16, 1938, ch. 30, title III, §333, 52 Stat. 53; June 20, 1938, ch. 518, 52 Stat. 775; July 26, 1939, ch. 377, 53 Stat. 1125; July 3, 1948, ch. 827, title II, §207(b), 62 Stat. 1257; Sept. 27, 1962, Pub. L. 87–703, title III, §312, 76 Stat. 620; Nov. 3, 1965, Pub. L. 89–321, title V, §501(2), 79 Stat. 1199; Dec. 23, 1985, Pub. L. 99–198, title III, §303, 99 Stat. 1379.)
+(Feb. 16, 1938, ch. 30, title III, §333, 52 Stat. 53; June 20, 1938, ch. 518, 52 Stat. 775; July 26, 1939, ch. 377, 53 Stat. 1125; July 3, 1948, ch. 827, title II, §207(b), 62 Stat. 1257; Pub. L. 87–703, title III, §312, Sept. 27, 1962, 76 Stat. 620; Pub. L. 89–321, title V, §501(2), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 99–198, title III, §303, Dec. 23, 1985, 99 Stat. 1379.)
 
 #### Amendments
 
 1985—Pub. L. 99–198 amended section generally, temporarily substituting provisions relating to the establishment and determination of a marketing quota apportionment factor for each crop of wheat for which a national marketing quota is proclaimed under section 1332 of this title for provisions relating to the proclamation and determination of a national acreage allotment for each crop of wheat. See Effective and Termination Dates of 1985 Amendment note below.
 
-1965—Pub. L. 89–321 substituted projected national yield for expected yield in the determination of the basis to be used in arriving at the national acreage allotment, inserted limiting parenthetical reference to acreage other than that harvested because of program incentives, and struck out references to expected production on the increases in acreage allotments for farms based upon small-farm base acreages pursuant to section 1335 of this title and to the expected production on the increased acreages resulting from the small-farm exemption pursuant to section 1335 of this title.
+1965—Pub. L. 89–321 substituted projected national yield for expected yield in the determination of the basis to be used in arriving at the national acreage allotment, inserted limiting parenthetical reference to acreage other than that harvested because of programincentives, and struck out references to expected production on the increases in acreage allotments for farms based upon small-farm base acreages pursuant to section 1335 of this title and to the expected production on the increased acreages resulting from the small-farm exemption pursuant to section 1335 of this title.
 
 1962—Pub. L. 87–703 substituted provision for proclamation of a national acreage allotment at the time of proclamation of the national marketing quota in an amount that would be the number of acres which on the basis of expected yields would, together with the expected production on increases in acreage allotments for small farms and on increased acreages resulting from the small-farm exemption, make available a supply equal to the national marketing quota for provision for determination of the national acreage allotment as such acreage as on the basis of the national average yield would produce an amount, which, with estimated carryover and imports, would make available a supply equal to a normal year's domestic consumption and exports plus 30 per centum and prescribing a national acreage allotment for wheat for 1938 at sixty-two million five hundred thousand acres and for any year at not less than fifty-five million acres.
 
@@ -50,7 +50,7 @@ Pub. L. 91–524, title IV, §404(2), Nov. 30, 1970, 84 Stat. 1366, as amended b
 
 #### 1965 Crop Acreage Allotment
 
-Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequatesupply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
+Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequate supply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
 
 #### Cross References
 

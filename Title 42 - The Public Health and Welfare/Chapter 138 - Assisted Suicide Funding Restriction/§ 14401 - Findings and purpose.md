@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The Federal Government provides financial support for the provision of and paymentfor health care services, as well as for advocacy activities to protect the rights of individuals.
+&emsp;(1) The Federal Government provides financial support for the provision of and payment for health care services, as well as for advocacy activities to protect the rights of individuals.
 
 &emsp;(2) Assisted suicide, euthanasia, and mercy killing have been criminal offenses throughout the United States and, under current law, it would be unlawful to provide services in support of such illegal activities.
 

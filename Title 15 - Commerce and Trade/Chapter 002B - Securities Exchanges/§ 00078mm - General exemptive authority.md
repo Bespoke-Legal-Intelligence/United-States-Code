@@ -14,7 +14,7 @@
 
 The Commission may not, under this section, exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions from section 78<i>o</i>–5 of this title or the rules or regulations issued thereunder or (for purposes of section 78<i>o</i>–5 of this title and the rules and regulations issued thereunder) from any definition in paragraph (42), (43), (44), or (45) of section 78c(a) of this title.
 
-(June 6, 1934, ch. 404, title I, §36, as added Oct. 11, 1996, Pub. L. 104–290, title I, §105(b), 110 Stat. 3424.)
+(June 6, 1934, ch. 404, title I, §36, as added Pub. L. 104–290, title I, §105(b), Oct. 11, 1996, 110 Stat. 3424.)
 
 #### References in Text
 

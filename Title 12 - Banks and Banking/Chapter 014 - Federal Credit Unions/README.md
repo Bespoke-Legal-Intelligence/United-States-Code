@@ -14,7 +14,7 @@
 | [1752\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001752%20-%20Definitions.md) | Definitions. |
 | [1752a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001752a%20-%20National%20Credit%20Union%20Administration.md) | National Credit Union Administration. |
 | (a) | Establishment; management under National Credit Union Administration Board. |
-| (b) | Membership of Board; designation of Chairman. |
+| (b) | Membership and appointment of Board. |
 | (c) | Term of office. |
 | (d) | Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress. |
 | (e) | Functions of Chairman. |
@@ -30,8 +30,21 @@
 | [1756\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001756%20-%20Reports%20and%20examinations.md) | Reports and examinations. |
 | [1756a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001756a%20-%20Omitted.md) | Omitted. |
 | [1757\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001757%20-%20Powers.md) | Powers. |
+| [1757a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001757a%20-%20Limitation%20on%20member%20business%20loans.md) | Limitation on member business loans. |
+| (a) | In general. |
+| (b) | Exceptions. |
+| (c) | Definitions. |
+| (d) | Effect on existing loans. |
+| (e) | Consultation and cooperation with State credit union supervisors. |
 | [1758\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001758%20-%20Bylaws.md) | Bylaws. |
 | [1759\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001759%20-%20Membership.md) | Membership. |
+| (a) | In general. |
+| (b) | Membership field. |
+| (c) | Exceptions. |
+| (d) | Multiple common-bond credit union group requirements. |
+| (e) | Additional membership eligibility provisions. |
+| (f) | Criteria for approval of expansion of multiple common-bond credit unions. |
+| (g) | Regulations required for community credit unions. |
 | [1760\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001760%20-%20Members%E2%80%99%20meetings.md) | Members’ meetings. |
 | [1761\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001761%20-%20Management.md) | Management. |
 | (a) | Board of directors, credit committee, and supervisory committee; election to board. |
@@ -43,7 +56,7 @@
 | (a) | Members; meetings; lines of credit and approval of loans; delegation to loan officers. |
 | (b) | Review and reversal of loan refusals; review by board in lieu of committee; limitation on disbursements by loan officers. |
 | [1761d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001761d%20-%20Supervisory%20committee%3B%20powers%20and%20duties%3B%20suspension%20of%20members%3B%20passbook.md) | Supervisory committee; powers and duties; suspension of members; passbook. |
-| [1762\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001762%20-%20Reserves.md) | Reserves. |
+| [1762\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001762%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93219%2C%20title%20III%2C%20%C2%A7301%28g%29%283%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%20931.md) | Repealed. |
 | [1763\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001763%20-%20Dividends.md) | Dividends. |
 | [1764\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001764%20-%20Expulsion%20and%20withdrawal.md) | Expulsion and withdrawal. |
 | (a) | Expulsion by two-thirds vote. |
@@ -108,6 +121,8 @@
 | (c) | Court orders enforcing subpenas; immunity. |
 | (d) | Administration acceptance of State board reports; reports of Board furnished to State board. |
 | (e) | Flood insurance compliance by insured credit unions. |
+| (f) | Access to liquidity. |
+| (g) | Sharing information with Federal reserve banks. |
 | [1785\.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001785%20-%20Requirements%20governing%20insured%20credit%20unions.md) | Requirements governing insured credit unions. |
 | (a) | Advertisement of insured status; exemptions; regulation of signs. |
 | (b) | Restrictions. |
@@ -126,7 +141,7 @@
 | (e) | Opinion of Board as to unsound condition of credit union; notice of charges; hearing; order to cease and desist; judicial review. |
 | (f) | Temporary cease and desist order; injunctive procedure. |
 | (g) | Removal and prohibition authority. |
-| (h) | Board's self-appointment as conservator; consultation with State; authority. |
+| (h) | Board's appointment of conservator; consultation with State; authority. |
 | (i) | Suspension or removal of institution-affiliated party charged with crime. |
 | (j) | Jurisdiction of hearing; procedure; judicial review. |
 | (k) | Jurisdiction and enforcement; penalty. |
@@ -141,6 +156,13 @@
 | (t) | Regulation of certain forms of benefits to institution-affiliated parties. |
 | (u) | Foreign investigations. |
 | (v) | Termination of insurance for money laundering or cash transaction reporting offenses. |
+| [1786a.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001786a%20-%20Regulation%20and%20examination%20of%20credit%20union%20organizations%20and%20service%20providers.md) | Regulation and examination of credit union organizations and service providers. |
+| (a) | Regulation and examination of credit union organizations. |
+| (b) | Applicability of section 1786. |
+| (c) | Service performed by contract or otherwise. |
+| (d) | Administration by Board. |
+| (e) | Definitions. |
+| (f) | Expiration of authority. |
 | [1787\.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001787%20-%20Payment%20of%20insurance.md) | Payment of insurance. |
 | (a) | Liquidation by Board; bond; appointment of agent; fees to be fixed by Board. |
 | (b) | Powers and duties of Board as conservator or liquidating agent. |
@@ -180,6 +202,22 @@
 | (c) | Remedies. |
 | (d) | Limitations. |
 | [1790c.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001790c%20-%20Reward%20for%20information%20leading%20to%20recoveries%20or%20civil%20penalties.md) | Reward for information leading to recoveries or civil penalties. |
+| [1790d.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001790d%20-%20Prompt%20corrective%20action.md) | Prompt corrective action. |
+| (a) | Resolving problems to protect Fund. |
+| (b) | Regulations required. |
+| (c) | Net worth categories. |
+| (d) | Risk-based net worth requirement for complex credit unions. |
+| (e) | Earnings-retention requirement applicable to credit unions that are not well capitalized. |
+| (f) | Net worth restoration plan required. |
+| (g) | Restrictions on undercapitalized credit unions. |
+| (h) | More stringent treatment based on other supervisory criteria. |
+| (i) | Action required regarding critically undercapitalized credit unions. |
+| (j) | Review required when Fund incurs material loss. |
+| (k) | Appeals process. |
+| (<i>l</i>) | Consultation and cooperation with State credit union supervisors. |
+| (m) | Corporate credit unions exempted. |
+| (n) | Other authority not affected. |
+| (<i>o</i>) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -219,7 +257,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 18 section 709; title 42 section 5318a.
+This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742, 4909 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 18 section 709; title 42 section 5318a.
 
 
 ---

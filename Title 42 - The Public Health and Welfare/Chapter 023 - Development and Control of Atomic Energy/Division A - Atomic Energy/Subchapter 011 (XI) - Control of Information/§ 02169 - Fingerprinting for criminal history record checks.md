@@ -38,11 +38,11 @@ For purposes of administering this section, the Commission shall prescribe, subj
 
 &emsp;(A) a portion of the amounts collected under this subsection in any fiscal year may be retained and used by the Commission to carry out this section; and
 
-&emsp;(B) the remaining portion of the amounts collected under this subsection in such fiscal year may be transferred periodically to the Attorney General and used by the Attorney General to carry out this section.
+&emsp;(B) the remaining portion of the amounts collected under this subsection in such fiscalyear may be transferred periodically to the Attorney General and used by the Attorney General to carry out this section.
 
 (3) Any amount made available for use under paragraph (2) shall remain available until expended.
 
-(Aug. 1, 1946, ch. 724, title I, §149, as added Aug. 27, 1986, Pub. L. 99–399, title VI, §606(a), 100 Stat. 876; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §149, as added Pub. L. 99–399, title VI, §606(a), Aug. 27, 1986, 100 Stat. 876; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Effective Date
 

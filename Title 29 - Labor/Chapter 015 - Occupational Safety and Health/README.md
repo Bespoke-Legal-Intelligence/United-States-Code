@@ -26,6 +26,7 @@
 | (e) | Employer and authorized employee representatives to accompany Secretary or his authorized representative on inspection of workplace; consultation with employees where no authorized employee representative is present. |
 | (f) | Request for inspection by employees or representative of employees; grounds; procedure; determination of request; notification of Secretary or representative prior to or during any inspection of violations; procedure for review of refusal by representative of Secretary to issue citation for alleged violations. |
 | (g) | Compilation, analysis, and publication of reports and information; rules and regulations. |
+| (h) | Use of results of enforcement activities. |
 | [658\.](%C2%A7%2000658%20-%20Citations.md) | Citations. |
 | (a) | Authority to issue; grounds; contents; notice in lieu of citation for de minimis violations. |
 | (b) | Posting. |
@@ -95,6 +96,7 @@
 | (a) | Authority of Secretary of Health and Human Services to conduct education and informational programs; consultations. |
 | (b) | Authority of Secretary of Labor to conduct short-term training of personnel. |
 | (c) | Authority of Secretary of Labor to establish and supervise education and training programs and consult and advise interested parties. |
+| (d) | Compliance assistance program. |
 | [671\.](%C2%A7%2000671%20-%20National%20Institute%20for%20Occupational%20Safety%20and%20Health.md) | National Institute for Occupational Safety and Health. |
 | (a) | Statement of purpose. |
 | (b) | Establishment; Director; appointment; term. |

@@ -20,7 +20,7 @@ The amount referred to in subsection (a)(2) of this section is the product of—
 
 &emsp;&emsp;(B) an amount equal to the population living in urbanized areas of the United States, as indicated by the sum of the respective amounts determined for the States under subparagraph (A).
 
-(July 1, 1944, ch. 373, title V, §524, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 517; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4728.)
+(July 1, 1944, ch. 373, title V, §524, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 517; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4728.)
 
 #### Prior Provisions
 

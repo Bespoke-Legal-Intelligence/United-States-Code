@@ -2,7 +2,7 @@ Part A—State Program Improvement Grants for Children with Disabilities
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1408, 1409, 1411, 1412, 1418, 1419, 1421, 1424a, 1461, 1491n of this title.
+This part is referred to in sections 1411, 1412, 1419, 1461, 1482, 1485 of this title.
 
 
 ---

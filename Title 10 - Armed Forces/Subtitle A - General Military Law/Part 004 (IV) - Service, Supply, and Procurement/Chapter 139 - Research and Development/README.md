@@ -32,13 +32,13 @@
 
 Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c)(2), Feb. 10, 1996, 110 Stat. 390, 443, 444, struck out items 2352 “Contracts: notice to Congress required for contracts performed over period exceeding 10 years”, 2356 “Contracts: delegations”, and 2370 “Biological Defense Research Program”.
 
-1994—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 “Research and development projects” for “Research projects” and in item 2371 “Research projects: transactions other than contracts and grants” for “Advanced research projects: cooperative agreements and other transactions”, and struck out item 2355 “Contracts: vouchering procedures” and item 2369 “Product evaluation activity”.
+1994—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 “Research and development projects” for “Research projects” and in item 2371 “Research projects: transactions other than contracts and grants” for “Advanced research projects: cooperative agreements and other transactions”, and struck out item2355 “Contracts: vouchering procedures” and item 2369 “Product evaluation activity”.
 
 1993—Pub. L. 103–160, div. A, title II, §214(b), title VIII, §828(a)(2), (c)(2), Nov. 30, 1993, 107 Stat. 1586, 1713, 1714, struck out item 2362 “Testing requirements: wheeled or tracked armored vehicles” and added items 2370a and 2373.
 
 1992—Pub. L. 102–484, div. A, title VIII, §821(c)(2), div. D, title XLII, §4271(b)(3), Oct. 23, 1992, 106 Stat. 2460, 2696, struck out items 2363 “Encouragement of technology transfer” and 2365 “Competitive prototype strategy requirement: major defense acquisition programs”.
 
-1991—Pub. L. 102–190, div. A, title VIII, §§802(a)(2), 803(a)(2), 821(c)(2), Dec. 5, 1991, 105 Stat. 1414, 1415, 1431, substituted item 2352 for former item 2352 “Contracts:limited to five-year terms”, struck out item 2368 “Critical technologies research”, and substituted item 2372 for former item 2372 “Independent research and development”.
+1991—Pub. L. 102–190, div. A, title VIII, §§802(a)(2), 803(a)(2), 821(c)(2), Dec. 5, 1991, 105 Stat. 1414, 1415, 1431, substituted item 2352 for former item 2352 “Contracts: limited to five-year terms”, struck out item 2368 “Critical technologies research”, and substituted item 2372 for former item 2372 “Independent research and development”.
 
 Pub. L. 102–25, title VII, §701(e)(5), Apr. 6, 1991, 105 Stat. 114, inserted period at end of item 2366.
 

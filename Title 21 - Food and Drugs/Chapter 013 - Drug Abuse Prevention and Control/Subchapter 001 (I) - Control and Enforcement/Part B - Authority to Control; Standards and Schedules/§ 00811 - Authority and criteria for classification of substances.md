@@ -20,7 +20,7 @@ The Attorney General shall, before initiating proceedings under subsection (a) o
 
 #### (c) Factors determinative of control or removal from schedules
 
-In making any finding under subsection (a) of this section or under subsection (b) of section812 of this title, the Attorney General shall consider the following factors with respect to each drug or other substance proposed to be controlled or removed from the schedules:
+In making any finding under subsection (a) of this section or under subsection (b) of section 812 of this title, the Attorney General shall consider the following factors with respect to each drug or other substance proposed to be controlled or removed from the schedules:
 
 &emsp;(1) Its actual or relative potential for abuse.
 
@@ -58,7 +58,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;&emsp;(ii) request the Secretary of State to transmit a notice of qualified acceptance, within the period specified in the Convention, pursuant to paragraph 7 of article 2 of the Convention, to the Secretary-General of the United Nations;
 
-&emsp;&emsp;(iii) request the Secretary of State to transmit a notice of qualified acceptance asprescribed in clause (ii) and request the Secretary of State to ask for a review by the Economic and Social Council of the United Nations, in accordance with paragraph 8 of article 2 of the Convention, of the scheduling decision; or
+&emsp;&emsp;(iii) request the Secretary of State to transmit a notice of qualified acceptance as prescribed in clause (ii) and request the Secretary of State to ask for a review by the Economic and Social Council of the United Nations, in accordance with paragraph 8 of article 2 of the Convention, of the scheduling decision; or
 
 &emsp;&emsp;(iv) in the case of a schedule notice, request the Secretary of State to take appropriate action under the Convention to initiate proceedings to remove the drug or substance from the schedules under the Convention or to transfer the drug or substance to a schedule under the Convention different from the one specified in the schedule notice.
 
@@ -70,7 +70,7 @@ In making any finding under subsection (a) of this section or under subsection (
 
 &emsp;(ii) the drug or substance subject to such decision is not required to be controlled under schedule IV or V to carry out the minimum United States obligations under paragraph 7 of article 2 of the Convention,
 
-> the order issued under this subparagraph with respect to such drug or substance shall expire upon receipt by the United States of the review decision. If, as a result of action taken pursuant to action initiated under a request transmitted under clause (iv) of paragraph (3)(C), the drug or substance with respect to which such action was taken is not required to be controlled under schedule IV or V, the order issued under this paragraph with respect to such drug or substance shall expire upon receipt by the United States of a notice of the action taken with respect to such drug or substance under the Convention.
+> the order issued under this subparagraph with respect to such drug or substance shall expireupon receipt by the United States of the review decision. If, as a result of action taken pursuant to action initiated under a request transmitted under clause (iv) of paragraph (3)(C), the drug or substance with respect to which such action was taken is not required to be controlled under schedule IV or V, the order issued under this paragraph with respect to such drug or substance shall expire upon receipt by the United States of a notice of the action taken with respect to such drug or substance under the Convention.
 
 (C) An order issued under subparagraph (A) or (B) may be issued without regard to the findings required by subsection (a) of this section or by section 812(b) of this title and without regard to the procedures prescribed by subsection (a) or (b) of this section.
 
@@ -82,7 +82,7 @@ The Attorney General may, without regard to the findings required by subsection 
 
 #### (f) Abuse potential
 
-If, at the time a new-drug application is submitted to the Secretary for any drug having astimulant, depressant, or hallucinogenic effect on the central nervous system, it appears that such drug has an abuse potential, such information shall be forwarded by the Secretary to the Attorney General.
+If, at the time a new-drug application is submitted to the Secretary for any drug having a stimulant, depressant, or hallucinogenic effect on the central nervous system, it appears that such drug has an abuse potential, such information shall be forwarded by the Secretary to the Attorney General.
 
 #### (g) Exclusion of non-narcotic substances sold over the counter without a prescription; dextromethorphan; exemption of substances lacking abuse potential
 
@@ -110,7 +110,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 (4) The Attorney General shall transmit notice of an order proposed to be issued under paragraph (1) to the Secretary of Health and Human Services. In issuing an order under paragraph (1), the Attorney General shall take into consideration any comments submitted by the Secretary in response to a notice transmitted pursuant to this paragraph.
 
-(5) An order issued under paragraph (1) with respect to a substance shall be vacated upon the conclusion of a subsequent rulemaking proceeding initiated under subsection (a) of this section with respect to such substance.
+(5) An order issued under paragraph (1) with respect to a substance shall be vacated upon theconclusion of a subsequent rulemaking proceeding initiated under subsection (a) of this section with respect to such substance.
 
 (6) An order issued under paragraph (1) is not subject to judicial review.
 

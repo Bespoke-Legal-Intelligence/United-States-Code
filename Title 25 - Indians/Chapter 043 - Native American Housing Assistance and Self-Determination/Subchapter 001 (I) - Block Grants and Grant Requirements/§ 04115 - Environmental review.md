@@ -42,7 +42,7 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(4) specify that the certifying officer—
 
-&emsp;&emsp;(A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a) of this section; and
+&emsp;&emsp;(A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretaryinsofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a) of this section; and
 
 &emsp;&emsp;(B) is authorized and consents on behalf of the tribe and such officer to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the certifying officer as such an official.
 
@@ -55,4 +55,8 @@ The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 9
 #### Effective Date
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 12 section 1715z–13a.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A person who has filed a declaration that meets the requirements of sections 4201 through 4204 of this title shall have the rights stated in this section.
+A person who has filed a declaration that meets the requirements of sections 4201 through4204 of this title shall have the rights stated in this section.
 
 #### (b) Civil action
 

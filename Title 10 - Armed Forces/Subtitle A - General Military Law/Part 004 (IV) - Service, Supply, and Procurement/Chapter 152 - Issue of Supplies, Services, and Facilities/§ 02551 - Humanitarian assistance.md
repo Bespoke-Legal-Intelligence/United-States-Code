@@ -68,6 +68,10 @@ Subsec. (f). Pub. L. 104–106, §1312(6), added subsec. (f). Former subsec. (f)
 
 Subsec. (g). Pub. L. 104–106, §1312(5), redesignated subsec. (g) as (e).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Notifications Regarding Humanitarian Relief
 
 Notification provided to appropriate congressional committees with respect to assistance under this section to include detailed description of items for which transportation is provided that are excess nonlethal supplies of Department of Defense, including quantity, acquisition value, and value at time of transportation of such items, see section 1504(c) of Pub. L. 103–160, set out in a Humanitarian and Civic Assistance note under section 401 of this title.

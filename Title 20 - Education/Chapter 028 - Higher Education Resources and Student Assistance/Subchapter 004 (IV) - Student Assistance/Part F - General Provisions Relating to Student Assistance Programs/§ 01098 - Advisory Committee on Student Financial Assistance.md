@@ -14,7 +14,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the Congress in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the Congress in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -64,11 +64,13 @@ The Advisory Committee shall—
 
 (2) Any member appointed to fill a vacancy occurring prior to the expiration of the term of a predecessor shall be appointed only for the remainder of such term. A member of the Advisory Committee shall, upon request, continue to serve after the expiration of a term until a successor has been appointed. A member of the Advisory Committee may be reappointed to successive terms on the Advisory Committee.
 
-(3) The Advisory Committee shall elect a Chairman and a Vice Chairman from among its members.
+(3) No officers or full-time employees of the Federal Government shall serve as members of the Advisory Committee.
 
-(4) Six members of the Advisory Committee shall constitute a quorum.
+(4) The Advisory Committee shall elect a Chairman and a Vice Chairman from among its members.
 
-(5) The Advisory Committee shall meet at the call of the Chairman or a majority of its members.
+(5) Six members of the Advisory Committee shall constitute a quorum.
+
+(6) The Advisory Committee shall meet at the call of the Chairman or a majority of its members.
 
 #### (f) Submission to Department for comment
 
@@ -76,19 +78,17 @@ The Advisory Committee may submit its proposed recommendations to the Department
 
 #### (g) Compensation and expenses
 
-(1) Members of the Advisory Committee who are officers or full-time employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States; but they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
-
-(2) Members of the Advisory Committee who are not officers or full-time employees of the United States may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
+Members of the Advisory Committee may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
 #### (h) Personnel and resources
 
-(1) The Advisory Committee may appoint such personnel as may be necessary by the Chairman without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but no individual so appointed shall be paid in excess of the rate authorized for GS–18 of the General Schedule.
+(1) The Advisory Committee may appoint such personnel as may be determined necessary by the Chairman without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but no individual so appointed shall be paid in excess of the rate authorized for GS–18 of the General Schedule. The Advisory Committee may appoint not more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.
 
 (2) In carrying out its duties under this chapter, the Advisory Committee shall consult with other Federal agencies, representatives of State and local governments, and private organizations to the extent feasible.
 
 (3)(A) The Advisory Committee is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality information, suggestions, estimates, and statistics for the purpose of this section and each such department, bureau, agency, board, commission, office, independent establishment, or instrumentality is authorized and directed, to the extent permitted by law, to furnish such information, suggestions, estimates, and statistics directly to the Advisory Committee, upon request made by the Chairman.
 
-(B) The Advisory Committee may enter into contracts for the acquisition of information,suggestions, estimates, and statistics for the purpose of this section.
+(B) The Advisory Committee may enter into contracts for the acquisition of information, suggestions, estimates, and statistics for the purpose of this section.
 
 (4) The Advisory Committee is authorized to obtain the services of experts and consultants without regard to section 3109 of title 5 and to set pay in accordance with such section.
 
@@ -98,43 +98,27 @@ The Advisory Committee may submit its proposed recommendations to the Department
 
 #### (i) Availability of funds
 
-In each fiscal year not less than $750,000, shall be available from the amount appropriated for each such fiscal year from salaries and expenses of the Department for the costs of carrying out the provisions of this section.
+In each fiscal year not less than $800,000, shall be available from the amount appropriated for each such fiscal year from salaries and expenses of the Department for the costs of carrying out the provisions of this section.
 
 #### (j) Special analyses and activities
 
-The committee shall—
+The Advisory Committee shall—
 
-&emsp;(1) monitor and evaluate the program modifications resulting from the enactment of the Higher Education Amendments of 1992, especially as such amendments relate to the need analysis;
+&emsp;(1) monitor and evaluate the modernization of student financial aid systems and delivery processes, including the implementation of a performance-based organization within the Department, and report to Congress regarding such modernization on not less than an annual basis, including recommendations for improvement;
 
-&emsp;(2) monitor and evaluate the implementation, pursuant to section 1090 of this title, of a Free Application for Federal Student Aid and the process for determining eligibility and awards for programs under this subchapter and part C of subchapter I of chapter 34 of title 42, including a simplified reapplication process;
+&emsp;(2) assess the adequacy of current methods for disseminating information about programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and recommend improvements, as appropriate, regarding early needs assessment and information for first-year secondary school students;
 
-&emsp;(3) assess the adequacy of current methods for disseminating information about programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and recommend improvements, as appropriate, regarding early needs assessment and information for first-year high school students; and
+&emsp;(3) assess and make recommendations concerning the feasibility and degree of use of appropriate technology in the application for, and delivery and management of, financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, as well as policies that promote use of such technology to reduce cost and enhance service and program integrity, including electronic application and reapplication, just-in-time delivery of funds, reporting of disbursements and reconciliation;
 
-&emsp;(4) assess the adequacy of methods of monitoring student debt burden.
+&emsp;(4) assess the implications of distance education on student eligibility and other requirements for financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, and make recommendations that will enhance access to postsecondary education through distance education while maintaining access, through on-campus instruction at eligible institutions, and program integrity; and
+
+&emsp;(5) make recommendations to the Secretary regarding redundant or outdated provisions of and regulations under this chapter, consistent with the Secretary's requirements under section 1099c–2 of this title.
 
 #### (k) Term of Committee
 
-Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 1998.
+Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2004.
 
-#### (<i>l</i>) Student loan program simplification study
-
-(1) The Advisory Committee shall conduct a thorough study of means of simplifying all aspects of the loan programs under part B of this subchapter. In carrying out the study, the Advisory Committee shall examine, at a minimum—
-
-&emsp;(A) reduction of paperwork burdens experienced by financial aid administrators resulting from the current structure of such loan programs;
-
-&emsp;(B) promotion of simplification and standardization of forms, procedures, and all other aspects of guaranty agency operations for the purpose of facilitating data exchanges with such agencies (including the National Student Loan Database) and facilitating Department of Education oversight;
-
-&emsp;(C) simplification of the repayment process to minimize borrower confusion, including encouragement of single holder ownership of all of an individual's loans;
-
-&emsp;(D) encouragement of efficient utilization of loan programs to minimize multiple program borrowing in postsecondary education; and
-
-&emsp;(E) other proposals which are designed to reduce the administrative burdens on, and paperwork required of, students, educational institutions, guaranty agencies, lenders, secondary markets, and the Secretary submitted in response to a general solicitation by the Advisory Committee.
-
-(2) The Advisory Committee shall consult with the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate in carrying out the study required by this subsection.
-
-(3) The Advisory Committee shall, not later than 1 year after July 23, 1992, prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report on the study required by this subsection.
-
-(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478.)
+(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754.)
 
 #### References in Text
 
@@ -142,9 +126,7 @@ Section 1233g of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (h)(1), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-This chapter, referred to in subsec. (h)(2), was in the original “the Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
-
-The Higher Education Amendments of 1992, referred to in subsec. (j)(1), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (h)(2) and (j)(5), was in the original “the Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -157,6 +139,34 @@ July 23, 1992, referred to in subsec. (<i>l</i>)(3), was in the original “the 
 A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97 Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–244, §490C(1), substituted “, expenditures and staffing levels” for “and expenditures” in second sentence and inserted “Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary.” after third sentence.
+
+Subsec. (e)(3) to (6). Pub. L. 105–244, §490C(2), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+
+Subsec. (g). Pub. L. 105–244, §490C(3), substituted “Members of the Advisory Committee may each” for
+
+“(1) Members of the Advisory Committee who are officers or full-time employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States; but they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
+
+“(2) Members of the Advisory Committee who are not officers or full-time employees of the United States may each”.
+
+Subsec. (h)(1). Pub. L. 105–244, §490C(4), inserted “determined” after “as may be” and inserted at end “The Advisory Committee may appoint not more than 1 full-time equivalent, nonpermanent, consultant without regard to the provisions of title 5. The Advisory Committee shall not be required by the Secretary to reduce personnel to meet agency personnel reduction goals.”
+
+Subsec. (i). Pub. L. 105–244, §490C(5), substituted “$800,000” for “$750,000”.
+
+Subsec. (j). Pub. L. 105–244, §490C(6), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: “The committee shall—
+
+&emsp;“(1) monitor and evaluate the program modifications resulting from the enactment of the Higher Education Amendments of 1992, especially as such amendments relate to the need analysis;
+
+&emsp;“(2) monitor and evaluate the implementation, pursuant to section 1090 of this title, of a Free Application for Federal Student Aid and the process for determining eligibility and awards for programs under this subchapter and part C of subchapter I of chapter 34 of title 42, including a simplified reapplication process;
+
+&emsp;“(3) assess the adequacy of current methods for disseminating information about programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and recommend improvements, as appropriate, regarding early needs assessment and information for first-year high school students; and
+
+&emsp;“(4) assess the adequacy of methods of monitoring student debt burden.”
+
+Subsec. (k). Pub. L. 105–244, §490C(7), substituted “2004” for “1998”.
+
+Subsec. (<i>l</i>). Pub. L. 105–244, §490C(8), struck out heading and text of subsec. (<i>l</i>) which directed Advisory Committee to conduct a study of means of simplifying all aspects of loan programs under part B of this subchapter.
 
 1993—Subsec. (d)(1). Pub. L. 103–208, §2(h)(45), struck out “sections 1070a–1 through 1070a–5 of this title and” after “established under”.
 
@@ -180,13 +190,13 @@ Subsec. (i). Pub. L. 100–50, §15(17), substituted “In each fiscal year not 
 
 Subsec. (j). Pub. L. 100–50, §15(18), added subsec. (j).
 
-#### Change of Name
+#### Effective Date of 1998 Amendment
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -34,7 +34,7 @@ Requirement for Competition.—The Secretary of Defense or the Secretary of a mi
 
 “(b)
 
-Inapplicability of OMB Circular A–76.—The use of Office of Management and Budget Circular A–76shall not apply to a performance change under subsection (a).”
+Inapplicability of OMB Circular A–76.—The use of Office of Management and Budget Circular A–76 shall not apply to a performance change under subsection (a).”
 
 1993—Pub. L. 103–160, §346, amended section, as amended by Pub. L. 103–160, §1182(a)(7), (h), by designating existing provisions as subsec. (a), inserting heading, striking out “threshold” before “value”, substituting “to performance by a contractor unless the Secretary uses competitive procedures for the selection of the contractor to perform such workload” for “unless the Secretary uses competitive procedures to make the change”, and adding subsec. (b).
 

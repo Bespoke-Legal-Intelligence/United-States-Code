@@ -4,5 +4,5 @@ Section, Pub. L. 97–35, title V, §583, Aug. 13, 1981, 95 Stat. 476; Pub. L. 9
 
 #### Effective Date of Repeal
 
-Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
+Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.
 

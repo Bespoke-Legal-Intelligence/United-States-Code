@@ -22,7 +22,7 @@ A State may expend payments received under section 300ee–11(a) of this title�
 
 &emsp;(10) to make grants to public entities, and to nonprofit private entities concerned with acquired immune deficiency syndrome, for the purpose of the development, establishment, and expansion of programs for education directed toward individuals at increased risk of infection with the etiologic agent for such syndrome and activities to reduce the risks of exposure to such etiologic agent, with preference to programs directed toward populations in which there is significant evidence of such infection.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2502, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3094; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(b), 102 Stat. 4242; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2502, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3094; amended Pub. L. 100–690, title II, §2619(b), Nov. 18, 1988, 102 Stat. 4242; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Prior Provisions
 

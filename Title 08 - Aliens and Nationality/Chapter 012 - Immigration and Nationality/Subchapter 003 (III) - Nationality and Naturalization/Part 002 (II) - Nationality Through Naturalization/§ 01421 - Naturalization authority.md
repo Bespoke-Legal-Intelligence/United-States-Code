@@ -80,7 +80,7 @@ A person whose application for naturalization under this subchapter is denied, a
 
 A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; July 7, 1958, Pub. L. 85–508, §25, 72 Stat. 351; Mar. 18, 1959, Pub. L. 86–3, §20(c), 73 Stat. 13; Sept. 26, 1961, Pub. L. 87–301, §17, 75 Stat. 656; Oct. 24, 1988, Pub. L. 100–525, §9(s), 102 Stat. 2621; Nov. 29, 1990, Pub. L. 101–649, title IV, §401(a), 104 Stat. 5038; Dec. 12, 1991, Pub. L. 102–232, title I, §102(a), title III, §305(a), 105 Stat. 1734, 1749; Oct. 25, 1994, Pub. L. 103–416, title II, §219(u), 108 Stat. 4318.)
+(June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Section 102(c) of title I of Pub. L. 102–232 provided that: “The amendments made by this title \[amendingthis section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\].”
+Section 102(c) of title I of Pub. L. 102–232 provided that: “The amendments made by this title \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\].”
 
 Amendment by section 305(a) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 

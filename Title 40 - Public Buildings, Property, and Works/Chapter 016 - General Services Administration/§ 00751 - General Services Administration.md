@@ -18,7 +18,7 @@ There shall be in the General Services Administration a Deputy Administrator of 
 
 The Administrator shall have authority to prescribe regulations to carry out this Act.
 
-(June 30, 1949, ch. 288, title I, §101, 63 Stat. 379; Pub. L. 99–500, §101(m) \[title VIII, §832\], Oct. 18,1986, 100 Stat. 1783–308, 1783–345, and Pub. L. 99–591, §101(m) \[title VIII, §832\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–345.)
+(June 30, 1949, ch. 288, title I, §101, 63 Stat. 379; Pub. L. 99–500, §101(m) \[title VIII, §832\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–345, and Pub. L. 99–591, §101(m) \[title VIII, §832\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–345.)
 
 #### References in Text
 

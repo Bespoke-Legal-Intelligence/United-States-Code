@@ -16,7 +16,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 #### (d) Tender offer by owner of more than five per centum of class of securities; exceptions
 
-(1) It shall be unlawful for any person, directly or indirectly, by use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, to make a tender offer for, or a request or invitation for tenders of, any class of any equity security which is registered pursuant to section 78<i>l</i> of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78<i>l</i>(g)(2)(G) of this title, or any equity security issued by a a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], if, after consummation thereof, such person would, directly or indirectly, be the beneficial owner of more than 5 per centum of such class, unless at the time copies of the offer or request or invitation are first published or sent or given to security holders such person has filed with the Commission a statement containing such of the information specified in section 78m(d) of this title, and such additional information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. All requests or invitations for tenders or advertisements making a tender offer or requesting or inviting tenders of such a security shall be filed as a part of such statement and shall contain such of the information contained in such statement as the Commission may by rules and regulations prescribe. Copies of any additional material soliciting or requesting such tender offers subsequentto the initial solicitation or request shall contain such information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors, and shall be filed with the Commission not later than the time copies of such material are first published or sent or given to security holders. Copies of all statements, in the form in which such material is furnished to security holders and the Commission, shall be sent to the issuer not later than the date such material is first published or sent or given to any security holders.
+(1) It shall be unlawful for any person, directly or indirectly, by use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, to make a tender offer for, or a request or invitation for tenders of, any class of any equity security which is registered pursuant to section 78<i>l</i> of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78<i>l</i>(g)(2)(G) of this title, or any equity security issued by a a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], if, after consummation thereof, such person would, directly or indirectly, be the beneficial owner of more than 5 per centum of such class, unless at the time copies of the offer or request or invitation are first published or sent or given to security holders such person has filed with the Commission a statement containing such of the information specified in section 78m(d) of this title, and such additional information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. All requests or invitations for tenders or advertisements making a tender offer or requesting or inviting tenders of such a security shall be filed as a part of such statement and shall contain such of the information contained in such statement as the Commission may by rules and regulations prescribe. Copies of any additional material soliciting or requesting such tender offers subsequent to the initial solicitation or request shall contain such information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors, and shall be filed with the Commission not later than the time copies of such material are first published or sent or given to security holders. Copies of all statements, in the form in which such material is furnished to security holders and the Commission, shall be sent to the issuer not later than the date such material is first published or sent or given to any security holders.
 
 (2) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for purposes of this subsection.
 
@@ -48,7 +48,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 #### (g) Filing fees
 
-(1)(A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of acompany, the person making such filing, other than a company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], shall pay to the Commission the following fees:
+(1)(A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], shall pay to the Commission the following fees:
 
 &emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee of 1/50 of 1 per centum of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
 
@@ -60,7 +60,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 (3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee of 1/50 of 1 per centum of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
 
-(4) Notwithstanding any other provision of law, the Commission may impose fees, charges, or prices for matters not involving any acquisition, merger, consolidation sale, or other disposition of assets described in this subsection, as authorized by section 9701 of title 31, or otherwise.
+(4) Notwithstanding any other provision of law, the Commission may impose fees, charges, or prices for matters not involving any acquisition, merger, consolidation, sale, or other disposition of assets described in this subsection, as authorized by section 9701 of title 31, or otherwise.
 
 #### (h) Proxy solicitations and tender offers in connection with limited partnership rollup transactions
 
@@ -88,7 +88,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;&emsp;(ii) the conflicts of interest, if any, of the general partner;
 
-&emsp;&emsp;&emsp;(iii) whether it is expected that there will be a significant difference between theexchange values of the limited partnerships and the trading price of the securities to be issued in the limited partnership rollup transaction;
+&emsp;&emsp;&emsp;(iii) whether it is expected that there will be a significant difference between the exchange values of the limited partnerships and the trading price of the securities to be issued in the limited partnership rollup transaction;
 
 &emsp;&emsp;&emsp;(iv) the valuation of the limited partnerships and the method used to determine the value of the interests of the limited partners to be exchanged for the securities in the limited partnership rollup transaction;
 
@@ -160,11 +160,11 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;(F) a transaction, except as the Commission may otherwise provide by rule for the protection of investors, in which the securities offered to investors are securities of another entity that are reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title, if—
 
-&emsp;&emsp;&emsp;(i) such other entity was formed, and such class of securities was reported and regularly traded, not less than 12 months before the date on which soliciting material is mailed to investors; and
+&emsp;&emsp;&emsp;(i) such other entity was formed, and such class of securities was reported and regularly traded, not less than 12 monthsbefore the date on which soliciting material is mailed to investors; and
 
 &emsp;&emsp;&emsp;(ii) the securities of that entity issued to investors in the transaction do not exceed 20 percent of the total outstanding securities of the entity, exclusive of any securities of such class held by or for the account of the entity or a subsidiary of the entity.
 
-(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Aug. 20, 1964, Pub. L. 88–467, §5, 78 Stat. 569; July 29, 1968, Pub. L. 90–439, §3, 82 Stat. 455; Dec. 22, 1970, Pub. L. 91–567, §§3–5, 84 Stat. 1497; June 6, 1983, Pub. L. 98–38, §2(b), 97 Stat. 205; Dec. 28, 1985, Pub. L. 99–222, §2, 99 Stat. 1737; Nov. 15, 1990, Pub. L. 101–550, title III, §302, 104 Stat. 2721; Dec. 17, 1993, Pub. L. 103–202, title III, §302(a), 107 Stat. 2359.)
+(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
 
@@ -175,6 +175,8 @@ The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1),
 The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (g)(4). Pub. L. 105–353 substituted “consolidation, sale,” for “consolidation sale,”.
 
 1993—Subsec. (h). Pub. L. 103–202 added subsec. (h).
 

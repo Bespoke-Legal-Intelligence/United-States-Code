@@ -2,7 +2,7 @@
 
 Whoever, being a clerk of a district court of the United States, willfully refuses or neglects to make or forward any report, certificate, statement, or document as required by law, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(11), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 104–294, title VI, §601(a)(11), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

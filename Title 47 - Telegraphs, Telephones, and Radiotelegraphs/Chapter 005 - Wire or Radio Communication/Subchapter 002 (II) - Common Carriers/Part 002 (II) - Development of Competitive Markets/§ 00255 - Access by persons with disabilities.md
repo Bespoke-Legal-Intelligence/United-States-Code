@@ -36,5 +36,5 @@ Nothing in this section shall be construed to authorize any private right of act
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 251 of this title.
+This section is referred to in section 251 of this title; title 29 section 792.
 

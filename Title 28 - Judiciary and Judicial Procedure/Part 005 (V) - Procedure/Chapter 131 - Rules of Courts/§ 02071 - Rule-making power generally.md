@@ -44,9 +44,9 @@ This amendment clarifies section 2071 of title 28, U.S.C., by giving express rec
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–702 designated existing provisions as subsec. (a), substituted “under section 2072 of this title” for “by the Supreme Court”, and added subsecs. (b) to (f).
+1988—Pub. L. 100–702 designated existing provisions as subsec. (a), substituted “under section 2072 of this title” for “by the Supreme Court”, and added subsecs. (b) to (f).
 
-<b>1949</b>—Act May 24, 1949, expressed recognition to the Supreme Court's power to prescribe its own rules and give a better description of its procedural rules.
+1949—Act May 24, 1949, expressed recognition to the Supreme Court's power to prescribe its own rules and give a better description of its procedural rules.
 
 #### Effective Date of 1988 Amendment
 
@@ -114,5 +114,5 @@ Tax Court rules, see section 7453 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 332, 604, 2077 of this title; title 42 section 300aa–12.
+This section is referred to in sections 331, 332, 604, 651, 652, 653, 654, 657, 2077 of this title; title 42 section 300aa–12.
 

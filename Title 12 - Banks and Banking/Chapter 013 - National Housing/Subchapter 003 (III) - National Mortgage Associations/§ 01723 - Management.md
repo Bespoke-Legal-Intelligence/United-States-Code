@@ -24,7 +24,7 @@ Prior provisions on the subject of this section were contained in section 1716 o
 
 1976—Subsec. (a). Pub. L. 94–375 substituted provision establishing, in the Department of Housing and Urban Development, the position of president of the Government National Mortgage Association, to be filled by the President, by and with the consent of the Senate, for provision that the Secretary appoint the president of the Association.
 
-1968—Subsec. (a). Pub. L. 90–448, §802(y)(1)–(6), designated existing provisions as subsec. (a), inserted provisions directing that the powers and duties of the Government National Mortgage Association shall be vested in the Secretary of Housing and Urban Development and that the Association shall be administered under the direction of the Secretary, and empowering the Secretary to adopt, amend, and repeal bylaws, and struck out provisions which related to the Board of Directors of the Federal National Mortgage Association.
+1968—Subsec. (a). Pub. L. 90–448, §802(y)(1)–(6), designated existing provisions as subsec. (a), inserted provisions directing that the powers and duties of the Government National Mortgage Association shall be vested in the Secretary of Housing and Urban Developmentand that the Association shall be administered under the direction of the Secretary, and empowering the Secretary to adopt, amend, and repeal bylaws, and struck out provisions which related to the Board of Directors of the Federal National Mortgage Association.
 
 Subsec. (b). Pub. L. 90–448, §802(y)(7), added subsec. (b).
 

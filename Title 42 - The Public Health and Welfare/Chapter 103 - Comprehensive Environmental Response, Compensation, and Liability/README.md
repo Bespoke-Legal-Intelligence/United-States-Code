@@ -286,7 +286,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 300h–6, 300h–7, 6972, 11004 of this title; title 10 sections 2701, 2703, 2810; title 16 sections 410yy–3, 426n, 545b; title 26 sections 9507, 9508; title 30 section 1240a; title 33 sections 1272, 1321, 2701; title 43 sections 869–2, 1474b–1.
+This chapter is referred to in sections 300h–6, 300h–7, 6972, 11004 of this title; title 10 sections 2701, 2703, 2810; title 16 sections 410yy–3, 426n, 460<i>lll</i>, 460<i>lll</i>–46, 545b; title 26 sections 9507, 9508; title 30 section 1240a; title 33 sections 1272, 1321, 2701; title 43 sections 869–2, 1474b–1.
 
 
 ---

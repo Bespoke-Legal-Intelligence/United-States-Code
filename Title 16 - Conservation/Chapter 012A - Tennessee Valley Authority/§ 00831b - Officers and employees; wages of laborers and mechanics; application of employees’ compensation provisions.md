@@ -10,7 +10,7 @@ Where such work as is described in the two preceding paragraphs is done directly
 
 Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend to persons given employment under the provisions of this chapter.
 
-(May 18, 1933, ch. 32, §3, 48 Stat. 59; June 6, 1972, Pub. L. 92–310, title II, §225(a), 86 Stat. 206.)
+(May 18, 1933, ch. 32, §3, 48 Stat. 59; Pub. L. 92–310, title II, §225(a), June 6, 1972, 86 Stat. 206.)
 
 #### References in Text
 

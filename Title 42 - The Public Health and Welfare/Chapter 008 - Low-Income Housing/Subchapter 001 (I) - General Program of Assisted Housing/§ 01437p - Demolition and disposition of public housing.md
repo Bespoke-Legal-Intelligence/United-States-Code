@@ -1,58 +1,140 @@
 ### §1437p. Demolition and disposition of public housing
 
-#### (a) Obsolescence; best-interests transfers; use of proceeds
+#### (a) Applications for demolition and disposition
 
-The Secretary may not approve an application by a public housing agency for permission, with or without financial assistance under this chapter, to demolish or dispose of a public housing project or a portion of a public housing project unless the Secretary has determined that—
+Except as provided in subsection (b) of this section, upon receiving an application by a public housing agency for authorization, with or without financial assistance under this subchapter, to demolish or dispose of a public housing project or a portion of a public housing project (including any transfer to a resident-supported nonprofit entity), the Secretary shall approve the application, if the public housing agency certifies—
 
-&emsp;(1) in the case of an application proposing demolition of a public housing project or a portion of a public housing project, the project or portion of the project is obsolete as to physical condition, location, or other factors, making it unusable for housing purposes, and no reasonable program of modifications is feasible to return the project or portion of the project to useful life; or in the case of an application proposing the demolition of only a portion of a project, the demolition will help to assure the useful life of the remaining portion of the project;
+&emsp;(1) in the case of—
 
-&emsp;(2) in the case of an application proposing disposition of real property of a public housing agency by sale or other transfer—
+&emsp;&emsp;(A) an application proposing demolition of a public housing project or a portion of a public housing project, that—
 
-&emsp;&emsp;(A)(i) the property's retention is not in the best interests of the tenants or the public housing agency because developmental changes in the area surrounding the project adversely affect the health or safety of the tenants or the feasible operation of the project by the public housing agency, because disposition allows the acquisition, development, or rehabilitation of other properties which will be more efficiently or effectively operated as low-income housing projects and which will preserve the total amount of low-income housing stock available in the community, or because of other factors which the Secretary determines are consistent with the best interests of the tenants and public housing agency and which are not inconsistent with other provisions of this chapter; and
+&emsp;&emsp;&emsp;(i) the project or portion of the public housing project is obsolete as to physical condition, location, or other factors, making it unsuitable for housing purposes; and
 
-&emsp;&emsp;(ii) for property other than dwelling units, the property is excess to the needs of a project or the disposition is incidental to, or does not interfere with, continued operation of a project; and
+&emsp;&emsp;&emsp;(ii) no reasonable program of modifications is cost-effective to return the public housing project or portion of the project to useful life; and
 
-&emsp;&emsp;(B) the net proceeds of the disposition will be used for (i) the payment of development cost for the project and for the retirement of outstanding obligations issued to finance original development or modernization of the project, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition, and (ii) to the extent that any proceeds remain after the application of proceeds in accordance with clause (i), the provision of housing assistance for low-income families through such measures as modernization of low-income housing, or the acquisition, development, or rehabilitation of other properties to operate as low-income housing; or
+&emsp;&emsp;(B) an application proposing the demolition of only a portion of a public housing project, that the demolition will help to ensure the viability of the remaining portion of the project;
 
-&emsp;(3) in the case of an application proposing demolition or disposition of any portion of a public housing project, assisted at any time under section 1437c(j)(2) of this title—
+&emsp;(2) in the case of an application proposing disposition by sale or other transfer of a public housing project or other real property subject to this subchapter—
 
-&emsp;&emsp;(A) such assistance has not been provided for the portion of the project to be demolished or disposed within the 10-year period ending upon submission of the application; or
+&emsp;&emsp;(A) the retention of the property is not in the best interests of the residents or the public housing agency because—
 
-&emsp;&emsp;(B) the property's retention is not in the best interest of the tenants or the public housing agency because of extraordinary changes in the area surrounding the project or other extraordinary circumstances of the project.
+&emsp;&emsp;&emsp;(i) conditions in the area surrounding the public housing project adversely affect the health or safety of the residents or the feasible operation of the project by the public housing agency; or
 
-#### (b) Consultation with tenants and tenant councils; opportunity to purchase; relocation assistance
+&emsp;&emsp;&emsp;(ii) disposition allows the acquisition, development, or rehabilitation of other properties that will be more efficiently or effectively operated as low-income housing;
 
-The Secretary may not approve an application or furnish assistance under this section or under this chapter unless—
+&emsp;&emsp;(B) the public housing agency has otherwise determined the disposition to be appropriate for reasons that are—
 
-&emsp;(1) the application from the public housing agency has been developed in consultation with tenants and tenant councils, if any, who will be affected by the demolition or disposition, and the tenant councils, resident management corporation, and tenant cooperative of the project or portion of the project covered by the application, if any, have been given appropriate opportunities to purchase the project or portion of the project covered by the application, and contains a certification by appropriate local government officials that the proposed activity is consistent with the applicable housing assistance plan; and
+&emsp;&emsp;&emsp;(i) in the best interests of the residents and the public housing agency;
 
-&emsp;(2) all tenants to be displaced as a result of the demolition or disposition will be given assistance by the public housing agency and are relocated to other decent, safe, sanitary, and affordable housing, which is, to the maximum extent practicable, housing of their choice, including housing assisted under section 1437f of this title, and the public housing agency provides for the payment of the relocation expenses of each tenant to be displaced, ensures that the rent paid by the tenant following relocation will not exceed the amount permitted under this chapter and shall not commence demolition or disposition of any unit until the tenant of the unit is relocated.
+&emsp;&emsp;&emsp;(ii) consistent with the goals of the public housing agency and the public housing agency plan; and
 
-#### (c) Financial assistance; contributions
+&emsp;&emsp;&emsp;(iii) otherwise consistent with this subchapter; or
 
-Notwithstanding any other provision of law, the Secretary is authorized to make available financial assistance for applications approved under this section using available contributions authorized under section 1437c of this title.
+&emsp;&emsp;(C) for property other than dwelling units, the property is excess to the needs of a public housing project or the disposition is incidental to, or does not interfere with, continued operation of a public housing project;
 
-#### (d) Conditions for agency action
+&emsp;(3) that the public housing agency has specifically authorized the demolition or disposition in the public housing agency plan, and has certified that the actions contemplated in the public housing agency plan comply with this section;
 
-A public housing agency shall not take any action to demolish or dispose of a public housing project or a portion of a public housing project without obtaining the approval of the Secretary and satisfying the conditions specified in subsections (a) and (b) of this section: <i>Provided</i>, That nothing in this section shall prevent a public housing agency from consolidating occupancy within or among buildings of a public housing project, or among projects, or with other housing for the purpose of improving the living conditions of or providing more efficient services to its tenants.
+&emsp;(4) that the public housing agency—
 
-#### (e) Set-asides for replacement housing
+&emsp;&emsp;(A) will notify each family residing in a project subject to demolition or disposition 90 days prior to the displacement date, except in cases of imminent threat to health or safety, consistent with any guidelines issued by the Secretary governing such notifications, that—
 
-(1) In each of fiscal years 1993 and 1994, the Secretary may reserve from any budget authority appropriated for such year for assistance under section 1437f of this title that is available for families not currently receiving such assistance not more than 10 percent of such budget authority for providing replacement housing for units demolished or disposed of pursuant to this section.
+&emsp;&emsp;&emsp;(i) the public housing project will be demolished or disposed of;
 
-(2) In each of fiscal years 1993 and 1994, the Secretary may reserve from any budget authority appropriated for such year for development of public housing under section 1437c(a)(2) of this title not more than the lesser of 30 percent of such budget authorization or $150,000,000, for providing replacement housing for units demolished or disposed of pursuant to this section.
+&emsp;&emsp;&emsp;(ii) the demolition of the building in which the family resides will not commence until each resident of the building is relocated; and
 
-#### (f) Construction on original site or in same neighborhood
+&emsp;&emsp;&emsp;(iii) each family displaced by such action will be offered comparable housing—
 
-Notwithstanding any other provision of law, replacement housing units for public housing units demolished may be built on the original public housing site or in the same neighborhood if the number of such replacement units is significantly fewer than the number of units demolished. No one may rely on the preceding sentence as the basis for reconsidering a final order of a court issued, or a settlement approved, by a court.
+&emsp;&emsp;&emsp;&emsp;(I) that meets housing quality standards;
 
-#### (g) Applicability to disposition of public housing project in accordance with approved homeownership program
+&emsp;&emsp;&emsp;&emsp;(II) that is located in an area that is generally not less desirable than the location of the displaced person's housing; and
 
-The provisions of this section shall not apply to the disposition of a public housing project in accordance with an approved homeownership program under subchapter II–A of this chapter.
+&emsp;&emsp;&emsp;&emsp;(III) which may include—
 
-(Sept. 1, 1937, ch. 896, title I, §18, as added Nov. 30, 1983, Pub. L. 98–181, title II, §214(a), 97 Stat. 1184; amended Feb. 5, 1988, Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), 101 Stat. 1824, 1837, 1867; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 28, 1990, Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, 104 Stat. 4159, 4194–4196, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), 106 Stat. 3688, 3693, 3694; July 27, 1995, Pub. L. 104–19, title I, §1002(a), 109 Stat. 235; Apr. 26, 1996, Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], 110 Stat. 1321–257, 1321–278; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.)
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) tenant-based assistance, except that the requirement under this clause regarding offering of comparable housing shall be fulfilled by use of tenant-based assistance only upon the relocation of such family into such housing;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) project-based assistance; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) occupancy in a unit operated or assisted by the public housing agency at a rental rate paid by the family that is comparable to the rental rate applicable to the unit from which the family is vacated;
+
+&emsp;&emsp;(B) will provide for the payment of the actual and reasonable relocation expenses of each resident to be displaced;
+
+&emsp;&emsp;(C) will ensure that each displaced resident is offered comparable housing in accordance with the notice under subparagraph (A); and <sup>1</sup>
+
+&emsp;&emsp;(D) will provide any necessary counseling for residents who are displaced; and
+
+&emsp;&emsp;(E) will not commence demolition or complete disposition until all residents residing in the building are relocated;
+
+&emsp;(5) that the net proceeds of any disposition will be used—
+
+&emsp;&emsp;(A) unless waived by the Secretary, for the retirement of outstanding obligations issued to finance the original public housing project or modernization of the project; and
+
+&emsp;&emsp;(B) to the extent that any proceeds remain after the application of proceeds in accordance with subparagraph (A), for—
+
+&emsp;&emsp;&emsp;(i) the provision of low-income housing or to benefit the residents of the public housing agency; or
+
+&emsp;&emsp;&emsp;(ii) leveraging amounts for securing commercial enterprises, on-site in public housing projects of the public housing agency, appropriate to serve the needs of the residents; and
+
+&emsp;(6) that the public housing agency has complied with subsection (c) of this section.
+
+#### (b) Disapproval of applications
+
+The Secretary shall disapprove an application submitted under subsection (a) of this section if the Secretary determines that—
+
+&emsp;(1) any certification made by the public housing agency under that subsection is clearly inconsistent with information and data available to the Secretary or information or data requested by the Secretary; or
+
+&emsp;(2) the application was not developed in consultation with—
+
+&emsp;&emsp;(A) residents who will be affected by the proposed demolition or disposition;
+
+&emsp;&emsp;(B) each resident advisory board and resident council, if any, of the project (or portion thereof) that will be affected by the proposed demolition or disposition; and
+
+&emsp;&emsp;(C) appropriate government officials.
+
+#### (c) Resident opportunity to purchase in case of proposed disposition
+
+#### (1) In general
+
+&emsp;In the case of a proposed disposition of a public housing project or portion of a project, the public housing agency shall, in appropriate circumstances, as determined by the Secretary, initially offer the property to any eligible resident organization, eligible resident management corporation, or nonprofit organization acting on behalf of the residents, if that entity has expressed an interest, in writing, to the public housing agency in a timely manner, in purchasing the property for continued use as low-income housing.
+
+#### (2) Timing
+
+#### (A) Expression of interest
+
+&emsp;&emsp;A resident organization, resident management corporation, or other resident-supported nonprofit entity referred to in paragraph (1) may express interest in purchasing property that is the subject of a disposition, as described in paragraph (1), during the 30-day period beginning on the date of notification of a proposed sale of the property.
+
+#### (B) Opportunity to arrange purchase
+
+&emsp;&emsp;If an entity expresses written interest in purchasing a property, as provided in subparagraph (A), no disposition of the property shall occur during the 60-day period beginning on the date of receipt of that written notice (other than to the entity providing the notice), during which time that entity shall be given the opportunity to obtain a firm commitment for financing the purchase of the property.
+
+#### (d) Replacement units
+
+Notwithstanding any other provision of law, replacement public housing units for public housing units demolished in accordance with this section may be built on the original public housing location or in the same neighborhood as the original public housing location if the number of the replacement public housing units is significantly fewer than the number of units demolished.
+
+#### (e) Consolidation of occupancy within or among buildings
+
+Nothing in this section may be construed to prevent a public housing agency from consolidating occupancy within or among buildings of a public housing project, or among projects, or with other housing for the purpose of improving living conditions of, or providing more efficient services to, residents.
+
+#### (f) De minimis exception to demolition requirements
+
+Notwithstanding any other provision of this section, in any 5-year period a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned by the public housing agency, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents or the demolished unit was beyond repair.
+
+#### (g) Uniform Relocation and Real Property Acquisition Act
+
+The Uniform Relocation and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\] shall not apply to activities under this section.
+
+#### (h) Relocation and replacement
+
+Of the amounts appropriated for tenant-based assistance under section 1437f of this title in any fiscal year, the Secretary may use such sums as are necessary for relocation and replacement housing for dwelling units that are demolished and disposed of from the public housing inventory (in addition to other amounts that may be available for such purposes).
+
+(Sept. 1, 1937, ch. 896, title I, §18, as added Pub. L. 98–181, title II, §214(a), Nov. 30, 1983, 97 Stat. 1184; amended Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), Feb. 5, 1988, 101 Stat. 1824, 1837, 1867; renumbered title I, Pub. L. 100–358, §5, June 29,1988, 102 Stat. 681; Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, Nov. 28, 1990, 104 Stat. 4159, 4194–4196, 4236; Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), Oct. 28, 1992, 106 Stat. 3688, 3693, 3694; Pub. L. 104–19, title I, §1002(a), July 27, 1995, 109 Stat. 235; Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title V, §531(a), Oct. 21, 1998, 112 Stat. 2570.)
+
+#### References in Text
+
+The Uniform Relocation and Real Property Acquisition Policies Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
+
+1998—Pub. L. 105–276 amended section generally. Prior to amendment, subsec. (a) required the Secretary to make certain determinations before approving the demolition or disposition of all or part of a public housing project; subsec. (b) required public housing agency consultation with tenants and provision of relocation assistance; subsec. (c) authorized financial assistance using section 1437c contributions; subsec. (d) provided that agency would not be prevented from consolidating occupancy within or among buildings or projects; subsec. (e) provided set-asides for replacement housing in fiscal years 1993 and 1994; subsec. (f) authorized construction on original site if number of new units would be less than number of demolished units; and subsec. (g) declared that this section did not apply to dispositions in accordance with approved homeownership program under subchapter II–A of this chapter.
 
 1996—Subsec. (f). Pub. L. 104–134 inserted at end “No one may rely on the preceding sentence as the basis for reconsidering a final order of a court issued, or a settlement approved, by a court.”
 
@@ -104,7 +186,7 @@ Subsec. (a)(2)(B). Pub. L. 101–625, §572, substituted “low-income families�
 
 Pub. L. 101–625, §512(a), inserted before first comma “, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition”.
 
-Subsec. (b)(1). Pub. L. 101–625, §412(a), substituted “disposition, and the tenant councils, resident management corporation, and tenant cooperative, if any, have been given appropriate opportunities to purchase the project or portion of the project covered by the application,” for “disposition”.
+Subsec. (b)(1). Pub. L. 101–625, §412(a), substituted “disposition, and the tenant councils, resident management corporation, and tenant cooperative, if any, havebeen given appropriate opportunities to purchase the project or portion of the project covered by the application,” for “disposition”.
 
 Subsec. (c)(2). Pub. L. 101–625, §513(b), inserted at end “As part of each annual budget request for the Department of Housing and Urban Development, the Secretary shall submit to the Congress a report—”, and added subpars. (A) and (B).
 
@@ -124,6 +206,10 @@ Pub. L. 100–242, §112(b)(9), substituted “contributions authorized under se
 
 Subsec. (d). Pub. L. 100–242, §121(d), added subsec. (d) and struck out former subsec. (d) which read as follows: “The provisions of this section shall not apply to the conveyance of units in a public housing project for the purpose of providing homeownership opportunities for lower income families capable of assuming the responsibilities of homeownership.”
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §531(c), Oct. 21, 1998, 112 Stat. 2574, provided that: “This section \[amending this section and section 1437aaa–3 of this title and enacting provisions set out as a note under section 1437aaa–3 of this title\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
@@ -135,4 +221,10 @@ Section 512(b) of Pub. L. 101–625 provided that: “The amendment made by this
 #### Replacement Housing Demonstration Program
 
 Section 513(a) of Pub. L. 101–625 directed Secretary of Housing and Urban Development to carry out a program to demonstrate the effectiveness of replacing public housing dwelling units eligible for demolition or disposition with 5-year certificate assistance provided under 42 U.S.C. 1437f, with Secretary to carry out the demonstration only with respect to public housing dwelling units owned or operated by the public housing authority for Saint Louis, Missouri, that before the termination of the demonstration program under this subsection are approved for demolition or disposition, and with the demonstration program to terminate at end of Sept. 30, 1992.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1437c–1, 1437d, 1437t, 1437v, 1437z–4, 1437z–5, 1437bbb–4 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

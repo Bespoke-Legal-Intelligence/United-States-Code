@@ -6,7 +6,7 @@
 
 (c) The Secretary may sell medical and hospital supplies to the Armed Forces Retirement Home.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 580; Dec. 12, 1980, Pub. L. 96–513, title V, §514(17)(A), (B), 94 Stat. 2936; Nov. 5, 1990, Pub. L. 101–510, div. A, title XV, §1533(a)(8)(A), (B), 104 Stat. 1735.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 580; Pub. L. 96–513, title V, §514(17)(A), (B), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 101–510, div. A, title XV, §1533(a)(8)(A), (B), Nov. 5, 1990, 104 Stat. 1735.)
 
 Historical and Revision Notes
 
@@ -66,9 +66,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Cross References
 
-American National Red Cross—
-
-&emsp;&emsp;Generally, see section 1 et seq. of Title 36, Patriotic Societies and Observances.
-
-&emsp;&emsp;Equipment for instruction and practice, see section 2542 of this title.
+American National Red Cross, equipment for instruction and practice, see section 2542 of this title.
 

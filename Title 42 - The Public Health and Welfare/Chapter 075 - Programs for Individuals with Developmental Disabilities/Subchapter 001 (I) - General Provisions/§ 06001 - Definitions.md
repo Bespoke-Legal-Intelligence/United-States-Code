@@ -154,7 +154,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) eliminate or reduce the factors that cause or predispose individuals to developmental disabilities or that increase the prevalence of developmental disabilities;
 
-&emsp;&emsp;(B) increase the early identification of existing problems to eliminate circumstances that create or increase functional limitations; and
+&emsp;&emsp;(B) increase the early identification of existing problems to eliminate circumstancesthat create or increase functional limitations; and
 
 &emsp;&emsp;(C) mitigate against the effects of developmental disabilities throughout the individual's lifespan.
 
@@ -300,5 +300,5 @@ Amendment by Pub. L. 100–146 effective Oct. 1, 1987, see section 601 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437a, 1471, 3035n, 6024, 6042, 6862, 8013, 9877, 11382 of this title; title 25 section 4103.
+This section is referred to in sections 1437a, 1471, 3035n, 6024, 6042, 6862, 8013, 9877, 11382 of this title; title 25 section 4103; title 29 section 794e.
 

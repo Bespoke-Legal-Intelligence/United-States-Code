@@ -20,5 +20,5 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 825, 903, 904, 906, 922 of this title.
+This section is referred to in sections 903, 904, 906, 922 of this title.
 

@@ -20,7 +20,7 @@
 
 (4)(A) The Administrator shall pay to persons awarded scholarships under this section such stipends (including such allowances for subsistence and other expenses for such persons and their dependents) as he may determine to be consistent with prevailing practices under comparable supported programs.
 
-(B) The Administrator shall (in addition to the stipends paid to persons under paragraph (1)) pay to the institution of higher education at which such person is pursuing his course of study such amount as he may determine to be consistent with prevailing practices under comparable federally supported programs.
+(B) The Administrator shall (in addition to the stipends paid to persons under paragraph (1)) pay to the institution of higher education atwhich such person is pursuing his course of study such amount as he may determine to be consistent with prevailing practices under comparable federally supported programs.
 
 (5) A person awarded a scholarship under the provisions of this section shall continue to receive the payments provided in this section only during such periods as the Administrator finds that he is maintaining satisfactory proficiency and devoting full time to study or research in the field in which such scholarship was awarded in an institution of higher education, and is not engaging in gainful employment other than employment approved by the Administrator by or pursuant to regulation.
 
@@ -30,5 +30,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1260, 1262, 1375 of this title.
+This section is referred to in sections 1260, 1262 of this title.
 

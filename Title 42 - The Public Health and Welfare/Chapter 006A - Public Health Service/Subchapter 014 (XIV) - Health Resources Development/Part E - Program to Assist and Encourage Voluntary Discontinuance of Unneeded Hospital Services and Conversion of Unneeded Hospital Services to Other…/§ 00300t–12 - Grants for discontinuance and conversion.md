@@ -72,7 +72,7 @@ For purposes of this part, the term “hospital” means, with respect to any fi
 
 > but such term does not include a Federal hospital or a psychiatric hospital (as described in section 1861(f)(1) of the Social Security Act \[42 U.S.C. 1395x(f)(1)\]).
 
-(July 1, 1944, ch. 373, title XVI, §1642, as added Oct. 4, 1979, Pub. L. 96–79, title III, §301(a), 93 Stat. 637; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(July 1, 1944, ch. 373, title XVI, §1642, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93 Stat. 637; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### References In Text
 
@@ -82,7 +82,7 @@ Section 300<i>l</i>–2, of this title, referred to in subsec. (b)(2)(A), was re
 
 The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
-Section 292e of this title, referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title. Provisions relating to records and audits requirements are now contained in section 295<i>o</i> of this title.
+Section 292e of this title, referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
 
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

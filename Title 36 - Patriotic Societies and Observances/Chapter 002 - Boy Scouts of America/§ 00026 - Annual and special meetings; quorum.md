@@ -1,6 +1,0 @@
-### §26. Annual and special meetings; quorum
-
-An annual meeting of the incorporators, their associates and successors, shall be held once in every year after the year of incorporation, at such time and place as shall be prescribed in the bylaws, when the annual reports of the officers and executive board shall be presented and members of the executive board elected for the ensuing year. Special meetings of the corporation may be called upon such notice as may be prescribed in the bylaws. The number of members which shall constitute a quorum at any annual or special meeting shall be prescribed in the bylaws. The members and executive board shall have power to hold their meetings and keep the seal, books, documents, and papers of the corporation within or without the District of Columbia.
-
-(June 15, 1916, ch. 148, §6, 39 Stat. 228.)
-

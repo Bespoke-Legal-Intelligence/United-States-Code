@@ -10,3 +10,7 @@ In the event that any State fails to submit a plan that is approved under sectio
 
 (Pub. L. 97–300, title III, §321, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1536.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+

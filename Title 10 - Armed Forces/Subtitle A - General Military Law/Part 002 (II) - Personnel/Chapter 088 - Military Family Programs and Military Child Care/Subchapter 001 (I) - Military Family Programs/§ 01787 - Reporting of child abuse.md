@@ -16,5 +16,5 @@ Section 3(1) of the Child Abuse Prevention and Treatment Act, referred to in sub
 
 #### Plan for Implementation of Accreditation Requirement
 
-Section 568(c) of Pub. L. 104–106 provided that: “The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a plan for carrying out the requirements of section 1787 of title 10, United States Code, as added by subsection (a). The plan shall be submitted not later than April 1, 1997.”
+Section 568(c) of Pub. L. 104–106 directed Secretary of Defense to submit to Congress, not later than Apr. 1, 1997, a plan for carrying out the requirements of this section.
 

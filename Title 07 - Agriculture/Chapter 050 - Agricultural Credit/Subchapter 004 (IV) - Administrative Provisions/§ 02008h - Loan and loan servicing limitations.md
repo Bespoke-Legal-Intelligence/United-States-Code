@@ -4,23 +4,59 @@
 
 The Secretary may not make a direct operating loan under subchapter II of this chapter to a borrower who is delinquent on any loan made or guaranteed under this chapter.
 
-#### (b) Loans prohibited for borrowers that have received debt forgiveness
+#### (b) Prohibition of loans for borrowers that have received debt forgiveness
 
-#### (1) In general
+#### (1) Prohibitions
 
-&emsp;Except as provided in paragraph (2), the Secretary may not make or guarantee a loan under this chapter to a borrower who received debt forgiveness on a loan made or guaranteed under this chapter.
+&emsp;Except as provided in paragraph (2)—
 
-#### (2) Exception
+&emsp;&emsp;(A) the Secretary may not make a loan under this chapter to a borrower that has received debt forgiveness on a loan made or guaranteed under this chapter; and
 
-&emsp;The Secretary may make a direct or guaranteed farm operating loan for paying annual farm or ranch operating expenses of a borrower who was restructured with a write-down under section 2001 of this title.
+&emsp;&emsp;(B) the Secretary may not guarantee a loan under this chapter to a borrower that has received—
+
+&emsp;&emsp;&emsp;(i) debt forgiveness after April 4, 1996, on a loan made or guaranteed under this chapter; or
+
+&emsp;&emsp;&emsp;(ii) received debt forgiveness on more than 3 occasions on or before April 4, 1996.
+
+#### (2) Exceptions
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may make a direct or guaranteed farm operating loan for paying annual farm or ranch operating expenses of a borrower who—
+
+&emsp;&emsp;&emsp;(i) was restructured with a write-down under section 2001 of this title; or
+
+&emsp;&emsp;&emsp;(ii) is current on payments under a confirmed reorganization plan under chapters <sup>1</sup> 11, 12, or 13 of title 11.
+
+#### (B) Emergency loans
+
+&emsp;&emsp;The Secretary may make an emergency loan under section 1961 of this title to a borrower that—
+
+&emsp;&emsp;&emsp;(i) on or before April 4, 1996, received not more than 1 debt forgiveness on a loan made or guaranteed under this chapter; and
+
+&emsp;&emsp;&emsp;(ii) after April 4, 1996, has not received debt forgiveness on a loan made or guaranteed under this chapter.
 
 #### (c) No more than 1 debt forgiveness for borrower on direct loan
 
 The Secretary may not provide to a borrower debt forgiveness on a direct loan made under this chapter if the borrower has received debt forgiveness on another direct loan made under this chapter.
 
-(Pub. L. 87–128, title III, §373, as added Pub. L. 104–127, title VI, §648(b), Apr. 4, 1996, 110 Stat. 1104.)
+(Pub. L. 87–128, title III, §373, as added Pub. L. 104–127, title VI, §648(b), Apr. 4, 1996, 110 Stat. 1104; amended Pub. L. 105–277, div. A, title I, §101(a) \[title VIII, §801\], Oct. 21, 1998, 112 Stat. 2681, 2681–37.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–277 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the Secretary may not make or guarantee a loan under this chapter to a borrower who received debt forgiveness on a loan made or guaranteed under this chapter.
+
+“(2)
+
+Exception.—The Secretary may make a direct or guaranteed farm operating loan for paying annual farm or ranch operating expenses of a borrower who was restructured with a write-down under section 2001 of this title.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “chapter”.</i>
 

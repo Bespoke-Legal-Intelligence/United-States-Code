@@ -12,7 +12,7 @@ Whenever the Administrator determines that a State having primary enforcement re
 
 Neither section 136w–1 of this title nor this section shall limit the authority of the Administrator to enforce this subchapter, where the Administrator determines that emergency conditions exist that require immediate action on the part of the Administrator and the State authority is unwilling or unable adequately to respond to the emergency.
 
-(June 25, 1947, ch. 125, §27, as added Sept. 30, 1978, Pub. L. 95–396, §24(2), 92 Stat. 837; amended Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(p), 102 Stat. 2683.)
+(June 25, 1947, ch. 125, §27, as added Pub. L. 95–396, §24(2), Sept. 30, 1978, 92 Stat. 837; amended Pub. L. 100–532, title VIII, §801(p), Oct. 25, 1988, 102 Stat. 2683.)
 
 #### Prior Provisions
 

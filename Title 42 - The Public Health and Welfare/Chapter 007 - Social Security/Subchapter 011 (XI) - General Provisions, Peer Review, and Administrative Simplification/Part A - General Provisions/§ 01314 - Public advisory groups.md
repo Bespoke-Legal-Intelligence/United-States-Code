@@ -38,11 +38,11 @@ Members of the Council or of any advisory committee appointed under this section
 
 &emsp;(B) during the period of such appointment, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter with which such person, during such period, is or was directly connected by reason of such appointment.
 
-(Aug. 14, 1935, ch. 531, title XI, §1114, as added July 25, 1962, Pub. L. 87–543, title I, §121, 76 Stat. 190; amended Jan. 2, 1968, Pub. L. 90–248, title IV, §403(e), 81 Stat. 932; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), 98 Stat. 1168, 1170.)
+(Aug. 14, 1935, ch. 531, title XI, §1114, as added Pub. L. 87–543, title I, §121, July 25, 1962, 76 Stat. 190; amended Pub. L. 90–248, title IV, §403(e), Jan. 2, 1968, 81 Stat. 932; Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), July 18, 1984, 98 Stat. 1168, 1170.)
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (b) and\(f), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (b) and (f), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 

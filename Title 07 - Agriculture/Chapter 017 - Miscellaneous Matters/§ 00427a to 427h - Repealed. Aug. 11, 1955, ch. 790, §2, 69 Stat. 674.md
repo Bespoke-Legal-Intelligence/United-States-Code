@@ -1,6 +1,6 @@
 ### §§427a to 427h. Repealed. Aug. 11, 1955, ch. 790, §2, 69 Stat. 674
 
-Sections 427a to 427c, act June 29, 1935, ch. 338, title I, §§2–4, 49 Stat. 437, authorized research by experiment stations, appropriations, and allocation of appropriations. See sections 361a to 361c of this title.
+Sections 427a to 427c, act June 29, 1935, ch. 338, title I, §§2–4, 49 Stat. 437, authorized research by experimentstations, appropriations, and allocation of appropriations. See sections 361a to 361c of this title.
 
 Section 427d, acts June 29, 1935, ch. 338, title I, §5, 49 Stat. 437; Sept. 21, 1944, ch. 412, title I, §105, 58 Stat. 735, related to allocation of appropriations. See section 361c of this title.
 

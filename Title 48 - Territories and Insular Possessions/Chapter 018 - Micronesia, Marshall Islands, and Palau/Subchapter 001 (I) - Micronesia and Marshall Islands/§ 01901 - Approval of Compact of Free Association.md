@@ -50,7 +50,7 @@ For purposes of implementation of the Compact and this joint resolution, each of
 
 (2) Any agreement concluded with the Federated States of Micronesia or the Marshall Islands pursuant to sections 1902 and 1903 of this title and any agreement which would amend, change, or terminate any subsidiary agreement or portion thereof as set forth in paragraph (4) of this subsection shall be submitted to the Congress. No such agreement shall take effect until after the expiration of 30 days after the date such agreement is so submitted (excluding days on which either House of Congress is not in session).
 
-(3) No agreement described in paragraph (2) shall take effect if a joint resolution of disapproval is enacted during the period specified in paragraph (2). For the purpose of expediting the consideration of such a joint resolution, a motion to proceed to the consideration of any such joint resolution after it has been reported by an appropriate committee shall be treated as highly privileged in the House of Representatives. Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of Public Law 94–329.
+(3) No agreement described in paragraph (2) shall take effect if a joint resolution of disapproval is enacted during the period specified in paragraph (2). For the purpose of expediting the consideration of such a joint resolution, a motion to proceed to the consideration of any such joint resolution after it has been reported by an appropriate committee shall be treated ashighly privileged in the House of Representatives. Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of Public Law 94–329.
 
 (4) The subsidiary agreements or portions thereof referred to in paragraph (2) are as follows:
 
@@ -116,7 +116,7 @@ Pub. L. 99–239 which enacted this subchapter and chapter 19 of this title cont
 
 “Whereas the Compact of Free Association was approved by majorities of the peoples of the Federated States of Micronesia and the Marshall Islands in United Nations-observed plebiscites conducted on June 21, 1983 and September 7, 1983, respectively; and
 
-“Whereas the Compact of Free Association has been approved by the Governments of the Federated States of Micronesia and the Marshall Islands in accordance with their respective constitutional processes, thus completing fully for the Federated States of Micronesia and the Marshall Islands their domestic approval processes with respect to the Compact as contemplated in Compact Section 411”.
+“Whereas the Compact of Free Association has been approved by the Governments of the Federated States of Micronesia and the Marshall Islands in accordancewith their respective constitutional processes, thus completing fully for the Federated States of Micronesia and the Marshall Islands their domestic approval processes with respect to the Compact as contemplated in Compact Section 411”.
 
 #### Compact of Free Association
 
@@ -128,7 +128,7 @@ Section 201 of Pub. L. 99–239 provided that: “The Compact of Free Associatio
 
 I74“the government of the united states of america and the governments of the marshall islands and the federated states of micronesia
 
-“Affirming that their Governments and their relationships as Governments are founded upon respect forhuman rights and fundamental freedoms for all, and that the peoples of the Trust Territory of the Pacific Islands have the right to enjoy self-government; and
+“Affirming that their Governments and their relationships as Governments are founded upon respect for human rights and fundamental freedoms for all, and that the peoples of the Trust Territory of the Pacific Islands have the right to enjoy self-government; and
 
 “Affirming the common interests of the United States of America and the peoples of the Trust Territory of the Pacific Islands in creating close and mutually beneficial relationships through two free and voluntary associations of their respective Governments; and
 
@@ -136,7 +136,7 @@ I74“the government of the united states of america and the governments of the 
 
 “Recognizing that their previous relationship has been based upon the International Trusteeship System of the United Nations Charter, and in particular Article 76 of the Charter; and that pursuant to Article 76 of the Charter, the peoples of the Trust Territory have progressively developed their institutions of self-government, and that in the exercise of their sovereign right to self-determination they have, through their freely-expressed wishes, adopted Constitutions appropriate to their particular circumstances; and
 
-“Recognizing  their  common  desire  to terminate the Trusteeship and establish two new government-to-government relationships each of which is in accordance  with  a  new  political  status  based  on  the freely-expressed wishes of peoples of the Trust Territory of the Pacific Islands and appropriate to their particular circumstances; and
+“Recognizing their common desire to terminate the Trusteeship and establish two new government-to-government relationships each of which is in accordance with a new political status based on the freely-expressed wishes of peoples of the Trust Territory of the Pacific Islands and appropriate to their particular circumstances; and
 
 “Recognizing that the peoples of the Trust Territory of the Pacific Islands have and retain their sovereignty and their sovereign right to self-determination and the inherent right to adopt and amend their own Constitutions and forms of government and that the approval of the entry of their respective Governments into this Compact of Free Association by the peoples of the Trust Territory of the Pacific Islands constitutes an exercise of their sovereign right to self-determination;
 
@@ -186,7 +186,7 @@ I74“the government of the united states of america and the governments of the 
 
 #### “Section 124
 
-“The Government of the United States may assist or act on behalf of the Government of the Marshall Islands or the Federated States of Micronesia in the area of foreign affairs as may be requested and mutually agreed from time to time. The Government of the United States shall not be responsible to third parties for the actions of the Government of the Marshall Islands or the Federated States of Micronesia undertaken with the assistance or through the agency of the Government of the United States pursuant to this Section unless expressly agreed.
+“The Government of the United States may assist or act on behalf of the Government of the Marshall Islands or the Federated States of Micronesia in the area of foreign affairs as may be requested and mutuallyagreed from time to time. The Government of the United States shall not be responsible to third parties for the actions of the Government of the Marshall Islands or the Federated States of Micronesia undertaken with the assistance or through the agency of the Government of the United States pursuant to this Section unless expressly agreed.
 
 #### “Section 125
 
@@ -252,7 +252,7 @@ I74“the government of the united states of america and the governments of the 
 
 #### “Section 143
 
-“(a) The privileges set forth in Sections 141 and 142 shall not apply to any person who takes an affirmativestep to preserve or acquire a citizenship or nationality other than that of the Marshall Islands, the Federated States of Micronesia or the United States.
+“(a) The privileges set forth in Sections 141 and 142 shall not apply to any person who takes an affirmative step to preserve or acquire a citizenship or nationality other than that of the Marshall Islands, the Federated States of Micronesia or the United States.
 
 “(b) Every person having the privileges set forth in Sections 141 and 142 who possesses a citizenship or nationality other than that of the Marshall Islands, the Federated States of Micronesia or the United States ceases to have these privileges two years after the effective date of this Compact, or within six months after becoming 21 years of age, whichever comes later, unless such person executes an oath of renunciation of that other citizenship or nationality.
 
@@ -304,7 +304,7 @@ I74“the government of the united states of america and the governments of the 
 
 &emsp;“(2) shall apply the National Environmental Policy Act of 1969, 83 Stat. 852, 42 U.S.C. 4321 et seq., to its activities under the Compact and its related agreements as if the Marshall Islands and the Federated States of Micronesia were the United States;
 
-&emsp;“(3) shall comply also, in the conduct of any activity requiring the preparation of an Environmental Impact Statement under Section 161(a)(2), with standards substantively similar to those required by the following laws of the United States, taking into account the particular environments of the Marshall Islands and the Federated States of Micronesia: the Endangered Species Act of 1973, 87 Stat. 884, 16 U.S.C.1531 et seq.; the Clean Air Act, 77 Stat. 392, 42 U.S.C. Supp. 7401 et seq.; the Clean Water Act (Federal Water Pollution Control Act), 86 Stat. 896, 33 U.S.C. 1251 et seq.; the Ocean Dumping Act (Title I of the Marine Protection, Research and Sanctuaries Act of 1972), 86 Stat. 1053, 33 U.S.C. 1411 et seq.; the Toxic Substances Control Act, 90 Stat. 2003, 15 U.S.C. 2601 et seq.; the Resources Conservation and Recovery Act of 1976, 90 Stat. 2796, 42 U.S.C. 6901 et seq.; and such other environmental protection laws of the United States as may be mutually agreed from time to time with the Government of the Marshall Islands or the Federated States of Micronesia; and
+&emsp;“(3) shall comply also, in the conduct of any activity requiring the preparation of an Environmental Impact Statement under Section 161(a)(2), with standards substantively similar to those required by the following laws of the United States, taking into account the particular environments of the Marshall Islands and the Federated States of Micronesia: the Endangered Species Act of 1973, 87 Stat. 884, 16 U.S.C. 1531 et seq.; the Clean Air Act, 77 Stat. 392, 42 U.S.C. Supp. 7401 et seq.; the Clean Water Act (Federal Water Pollution Control Act), 86 Stat. 896, 33 U.S.C. 1251 et seq.; the Ocean Dumping Act (Title I of the Marine Protection, Research and Sanctuaries Act of 1972), 86 Stat. 1053, 33 U.S.C. 1411 et seq.; the Toxic Substances Control Act, 90 Stat. 2003, 15 U.S.C. 2601 et seq.; the Resources Conservation and Recovery Act of 1976, 90 Stat. 2796, 42 U.S.C. 6901 et seq.; and such other environmental protection laws of the United States as may be mutually agreed from time to time with the Government of the Marshall Islands or the Federated States of Micronesia; and
 
 &emsp;“(4) shall develop, prior to conducting any activity requiring the preparation of an Environmental Impact Statement under Section 161(a)(2), appropriate mechanisms, including regulations or other judicially reviewable standards and procedures, to regulate its activities governed by Section 161(a)(3) in the Marshall Islands and the Federated States of Micronesia in a manner appropriate to the special governmental relationship set forth in this Compact. The agencies of the Government of the United States designated by law to administer the laws set forth in Section 161(a)(3) shall participate as appropriate in the development of any regulation, standard or procedure under this Section, and the Government of the United States shall provide the affected Government of the Marshall Islands or the Federated States of Micronesia with the opportunity to comment during such development.
 
@@ -566,7 +566,7 @@ I74“the government of the united states of america and the governments of the 
 
 #### “Section 236
 
-“Except as otherwise provided, approval of this Compact by the Government of the United States shall constitute a pledge of the full faith and credit of the United States for the full payment of the sums and amounts specified in Articles I and III of this Title. The obligation of the United States under Articles I and III of this Title shall be enforceable in the United States Claims Court \[now United States Court of FederalClaims\], or its successor court, which shall have jurisdiction in cases arising under this Section, notwithstanding the provisions of 28 U.S.C. 1502, and which court's decisions shall be reviewable as provided by the laws of the United States.
+“Except as otherwise provided, approval of this Compact by the Government of the United States shall constitute a pledge of the full faith and credit of the United States for the full payment of the sums and amounts specified in Articles I and III of this Title. The obligation of the United States under Articles I and III of this Title shall be enforceable in the United States Claims Court \[now United States Court of Federal Claims\], or its successor court, which shall have jurisdiction in cases arising under this Section, notwithstanding the provisions of 28 U.S.C. 1502, and which court's decisions shall be reviewable as provided by the laws of the United States.
 
 #### “Article IV
 
@@ -624,7 +624,7 @@ I74“the government of the united states of america and the governments of the 
 
 #### “Section 311
 
-“(a) The Government of the United States has full authority and responsibility for security and defense matters in or relating to the Marshall Islands and the Federated States of Micronesia.
+“(a) The Government of the United States has full authority and responsibility for security and defensematters in or relating to the Marshall Islands and the Federated States of Micronesia.
 
 “(b) This authority and responsibility includes:
 
@@ -634,7 +634,7 @@ I74“the government of the united states of america and the governments of the 
 
 &emsp;“(3) the option to establish and use military areas and facilities in the Marshall Islands and the Federated States of Micronesia, subject to the terms of the separate agreements referred to in Sections 321 and 323.
 
-“(c) The Government of the United States confirms that it shall act in accordance with the principles ofinternational law and the Charter of the United Nations in the exercise of this authority and responsibility.
+“(c) The Government of the United States confirms that it shall act in accordance with the principles of international law and the Charter of the United Nations in the exercise of this authority and responsibility.
 
 #### “Section 312
 
@@ -778,7 +778,7 @@ I74“the government of the united states of america and the governments of the 
 
 #### “Section 412
 
-“A plebiscite shall be conducted in each of the Marshall Islands and the Federated States of Micronesiafor the free and voluntary choice by the peoples of the Trust Territory of the Pacific Islands of their future political status through informed and democratic processes. The Marshall Islands and the Federated States of Micronesia shall each be considered a voting jurisdiction, and the plebiscite shall be conducted under fair and equitable standards in each voting jurisdiction. The Administering Authority of the Trust Territory of the Pacific Islands, after consultation with the Governments of the Marshall Islands and the Federated States of Micronesia, shall fix the date on which the plebiscite shall be called in each voting jurisdiction. The plebiscite shall be called jointly by the Administering Authority of the Trust Territory of the Pacific Islands and the other Signatory Government concerned. The results of the plebiscite in each voting jurisdiction shall be determined by a majority of the valid ballots cast in that voting jurisdiction.
+“A plebiscite shall be conducted in each of the Marshall Islands and the Federated States of Micronesia for the free and voluntary choice by the peoples of the Trust Territory of the Pacific Islands of their future political status through informed and democratic processes. The Marshall Islands and the Federated States of Micronesia shall each be considered a voting jurisdiction, and the plebiscite shall be conducted under fair and equitable standards in each voting jurisdiction. The Administering Authority of the Trust Territory of the Pacific Islands, after consultation with the Governments of the Marshall Islands and the Federated States of Micronesia, shall fix the date on which the plebiscite shall be called in each voting jurisdiction. The plebiscite shall be called jointly by the Administering Authority of the Trust Territory of the Pacific Islands and the other Signatory Government concerned. The results of the plebiscite in each voting jurisdiction shall be determined by a majority of the valid ballots cast in that voting jurisdiction.
 
 #### “Article II
 
@@ -832,11 +832,11 @@ I74“the government of the united states of america and the governments of the 
 
 #### “Section 442
 
-“This Compact may be terminated by the Government of the United States as to the Government of the Marshall Islands or the Federated States of Micronesia subject to Section 452, such termination to be effective on the date specified in the notice of termination by the Government of the United States but not earlier than six months following delivery of such notice. The time specified in the notice of termination may be extended.
+“This Compact may be terminated by the Government of the United States as to the Government of the Marshall Islands or the Federated States of Micronesiasubject to Section 452, such termination to be effective on the date specified in the notice of termination by the Government of the United States but not earlier than six months following delivery of such notice. The time specified in the notice of termination may be extended.
 
 #### “Section 443
 
-“This Compact shall be terminated, pursuant to their respective constitutional processes, by the Government of the Marshall Islands or the Federated States of Micronesia subject to Section 453 if the people represented by such Government vote in a plebiscite to terminate. Such Government shall notify the Government of the United States of its intention to call such a plebiscite which shall take place not earlier than three months after delivery of such notice. The plebiscite shall be administered by such Government in accordance with its constitutional and legislative processes, but the Government of the United States may send its own observers and invite observers from a mutually agreed party. If a majority of the valid ballots cast in the plebiscite favors termination, such Government shall, upon certification of the results of the plebiscite, give notice of termination to the Government of the United States,such termination to be effective on the date specified in such notice but not earlier than three months following the date of delivery of such notice. The time specified in the notice of termination may be extended.
+“This Compact shall be terminated, pursuant to their respective constitutional processes, by the Government of the Marshall Islands or the Federated States of Micronesia subject to Section 453 if the people represented by such Government vote in a plebiscite to terminate. Such Government shall notify the Government of the United States of its intention to call such a plebiscite which shall take place not earlier than three months after delivery of such notice. The plebiscite shall be administered by such Government in accordance with its constitutional and legislative processes, but the Government of the United States may send its own observers and invite observers from a mutually agreed party. If a majority of the valid ballots cast in the plebiscite favors termination, such Government shall, upon certification of the results of the plebiscite, give notice of termination to the Government of the United States, such termination to be effective on the date specified in such notice but not earlier than three months following the date of delivery of such notice. The time specified in the notice of termination may be extended.
 
 #### “Article V
 
@@ -908,7 +908,7 @@ I74“the government of the united states of america and the governments of the 
 
 &emsp;“(4) ‘Broadcasting Station’ means a station in the broadcasting service.
 
-“(f) ‘Frequency Assignment’ means the same as ‘Frequency Assignment’ means in the 1976 Edition of the Radio Regulations of the International Telecommunications Union (ISBN 92–61–0081–5).
+“(f) ‘Frequency Assignment’ means the same as ‘Frequency Assignment’ means in the 1976 Edition of theRadio Regulations of the International Telecommunications Union (ISBN 92–61–0081–5).
 
 “(g) ‘Habitual Residence’ means a place of general abode or a principal, actual dwelling place of a continuing or lasting nature; provided, however, that this term shall not apply to the residence of any person who entered the United States for the purpose of full-time studies as long as such person maintains that status, or who has been physically present in the United States, the Marshall Islands, or the Federated States of Micronesia for less than one year, or who is a dependent of a resident representative, as described in Section 152.
 
@@ -918,7 +918,7 @@ I74“the government of the united states of america and the governments of the 
 
 &emsp;“(2) ‘Certificate of Actual Residence’ means a certificate issued to a naturalized citizen by the Government which has naturalized him stating that the citizen has complied with the actual residence requirement of Section 141(a)(3).
 
-“(i) ‘Military Areas and Facilities’ means those areas and facilities in the Marshall Islands or the FederatedStates of Micronesia reserved or acquired by the Government of the Marshall Islands or the Federated States of Micronesia for use by the Government of the United States, as set forth in the separate agreements referred to in Section 321.
+“(i) ‘Military Areas and Facilities’ means those areas and facilities in the Marshall Islands or the Federated States of Micronesia reserved or acquired by the Government of the Marshall Islands or the Federated States of Micronesia for use by the Government of the United States, as set forth in the separate agreements referred to in Section 321.
 
 “(j) ‘Capital Account’ means, for each year of the Compact, those portions of the total grant assistance provided in Article I of Title Two, adjusted by Section 217, which are to be obligated for:
 
@@ -974,7 +974,7 @@ I74“the government of the united states of america and the governments of the 
 
 “(a) The Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia agree that they have full authority under their respective Constitutions to enter into this Compact and its related agreements and to fulfill all of their respective responsibilities in accordance with the terms of this Compact and its related agreements. The Governments pledge that they are so committed.
 
-“(b) Each of the Governments of the United States, the Marshall Islands and the Federated States of Micronesia shall take all necessary steps, of a general or particular character, to ensure, not later than the effective date of this Compact, the conformity of its laws, regulations and administrative procedures with the provisions of this Compact.
+“(b) Each of the Governments of the United States, the Marshall Islands and the Federated States of Micronesia shall take all necessary steps, of a general or particular character, to ensure, not later than the effective date of this Compact, the conformity of itslaws, regulations and administrative procedures with the provisions of this Compact.
 
 “(c) Without prejudice to the effects of this Compact under international law, this Compact has the force and effect of a statute under the laws of the United States.
 
@@ -1072,7 +1072,7 @@ Section 243.—Section 243 of the Compact shall be construed and applied as if i
 
 “The relief from liability referred to in the second sentence of section 254(a) of the Compact means only—
 
-&emsp;“(1) relief in the form of the foreign tax credit (or deduction in lieu thereof) available with respect to the income taxes of a possession of the United States, and
+&emsp;“(1) relief in the form of the foreign tax credit (or deduction in lieu thereof) available with respect tothe income taxes of a possession of the United States, and
 
 &emsp;“(2) relief in the form of the exclusion under section 911 of the Internal Revenue Code of 1986 \[26 U.S.C. 911\].
 
@@ -1140,7 +1140,7 @@ Sec. 3. <i>Interagency Group on Freely Associated State Affairs and the Office o
 
 (d) If any department or agency charged by this Order with implementation of the Compact or other laws of the United States with respect to the Freely Associated States concludes that noncompliance sanctions pursuant to section 105(g) of the Act \[48 U.S.C. 1905(g)\] are appropriate, it shall make appropriate recommendations to the Interagency Group. The Interagency Group shall consider these recommendations and report its findings to the President for his review in making that determination.
 
-(e)(1) The Secretary of State shall be responsible for the conduct of United States relations with the Freely Associated States, carry out related matters, and provide appropriate support to the Interagency Group,bearing in mind the continued special relationship between the United States and the Freely Associated States.
+(e)(1) The Secretary of State shall be responsible for the conduct of United States relations with the Freely Associated States, carry out related matters, and provide appropriate support to the Interagency Group, bearing in mind the continued special relationship between the United States and the Freely Associated States.
 
 (2) The Secretaries of Defense and Interior may, to the extent permitted by law, delegate any or all of their respective authorities and responsibilities as described in this Order to the Secretary of State or his or her designee. The Secretary of State or his or her designee shall serve as Executive Secretary of the Interagency Group.
 

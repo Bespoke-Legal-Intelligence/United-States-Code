@@ -56,7 +56,7 @@
 
 (e) A person covered by this section may elect to receive inpatient medical care either in (1) Government facilities, under the conditions prescribed in sections 1074 and 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under this section. However, under joint regulations issued by the administering Secretaries, the right to make this election may be limited for those persons residing in an area where adequate facilities of the uniformed service are available. In addition, subsections (b) and (c) of section 1080 of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section.
 
-(f) The provisions of section 1079(h) of this title shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
+(f) The provisions of section 1079(h) of this title shall apply to payments for services by anindividual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
 (g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
 
@@ -86,7 +86,7 @@ Subsec. (e). Pub. L. 104–201 substituted “inpatient medical care” for “b
 
 1994—Subsec. (d)(3). Pub. L. 103–337 added par. (3) and struck out former par. (3) which read as follows: “If a person described in paragraph (2) receives medical or dental care for which payment may be made under both title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and a plan contracted for under subsection (a), the amount payable for that care under the plan may not exceed the difference between—
 
-&emsp;“(A) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on theperson if payment for that care were made solely under that title; and
+&emsp;“(A) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under that title; and
 
 &emsp;“(B) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under the plan.”
 
@@ -200,11 +200,37 @@ Section 2 of Pub. L. 96–173 provided that: “The amendment made by the first 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–485 applicable with respect to claims submitted for payment for services provided on or after the first day of the first calendar year beginning after Oct. 20, 1978, see section 806(b) of Pub. L. 95–485, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 95–485 applicable with respect to claims submitted for payment for services providedon or after the first day of the first calendar year beginning after Oct. 20, 1978, see section 806(b) of Pub. L. 95–485, set out as a note under section 1079 of this title.
 
 #### Effective Date
 
 For effective date of section, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Transitional Authority To Provide Continued Health Care Coverage for Certain Persons Unaware of Loss of CHAMPUS Eligibility
+
+Pub. L. 105–261, div. A, title VII, §704, Oct. 17, 1998, 112 Stat. 2057, provided that:
+
+“(a)
+
+Transitional Coverage.—The administering Secretaries may continue eligibility of a person described in subsection (b) for health care coverage under the Civilian Health and Medical Program of the Uniformed Services based on a determination that such continuation is appropriate to assure health care coverage for any such person who may have been unaware of the loss of eligibility to receive health benefits under that program.
+
+“(b)
+
+Persons Eligible.—A person shall be eligible for transitional health care coverage under subsection (a) if the person—
+
+&emsp;“(1) is a person described in paragraph (1) of subsection (d) of section 1086 of title 10, United States Code;
+
+&emsp;“(2) in the absence of such paragraph, would be eligible for health benefits under such section; and
+
+&emsp;“(3) satisfies the criteria specified in subparagraphs (A) and (B) of paragraph (2) of such subsection.
+
+“(c)
+
+Extent of Transitional Authority.—The authority to continue eligibility under this section shall apply with respect to health care services provided between October 1, 1998, and July 1, 1999.
+
+“(d)
+
+Definition.—In this section, the term ‘administering Secretaries’ has the meaning given that term in section 1072(3) of title 10, United States Code.”
 
 #### Waiver of Collection of Payments Due From Certain Persons Unaware of Loss of CHAMPUS Eligibility
 
@@ -248,9 +274,9 @@ Pub. L. 103–160, div. A, title VII, §704, Nov. 30, 1993, 107 Stat. 1687, prov
 
 #### Coverage of Care Provided Since September 30, 1991
 
-Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection\(a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
+Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1098, 1100, 1104, 1105 of this title; title 38 section 1713; title 42 sections 300e–1, 1395cc.
+This section is referred to in sections 1072, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1098, 1100, 1104, 1105 of this title; title 38 section 1713; title 42 sections 300e–1, 1395cc, 1395ggg.
 

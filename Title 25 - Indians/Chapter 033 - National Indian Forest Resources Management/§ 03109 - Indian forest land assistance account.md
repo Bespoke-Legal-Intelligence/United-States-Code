@@ -22,7 +22,7 @@ At the request of an Indian tribe, the Secretary may establish a special Indian 
 
 #### (c) Audits
 
-At the request of an Indian tribe or upon the Secretary's own volition, the Secretary mayconduct audits of the Indian forest land assistance account and shall publish the results of such audit.
+At the request of an Indian tribe or upon the Secretary's own volition, the Secretary may conduct audits of the Indian forest land assistance account and shall publish the results of such audit.
 
 (Pub. L. 101–630, title III, §310, Nov. 28, 1990, 104 Stat. 4538.)
 

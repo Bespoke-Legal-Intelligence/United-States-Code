@@ -8,9 +8,7 @@
 
 &emsp;&emsp;(A) to coordinate Federal, State, and local law enforcement programs to control fraud and abuse with respect to health plans,
 
-&emsp;&emsp;(B) to conduct investigations, audits, evaluations, and inspections
-
-relating to the delivery of and payment for health care in the United States,
+&emsp;&emsp;(B) to conduct investigations, audits, evaluations, and inspections relating to the delivery of and payment for health care in the United States,
 
 &emsp;&emsp;(C) to facilitate the enforcement of the provisions of sections 1320a–7, 1320a–7a, and 1320a–7b of this title and other statutes applicable to health care fraud and abuse,
 
@@ -70,7 +68,7 @@ For purposes of this section, the term “health plan” means a plan or program
 
 &emsp;(3) a membership agreement with a health maintenance organization or other prepaid health plan.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128C, as added Aug. 21, 1996, Pub. L. 104–191, title II, §201(a), 110 Stat. 1992.)
+(Aug. 14, 1935, ch. 531, title XI, §1128C, as added Pub. L. 104–191, title II, §201(a), Aug. 21, 1996, 110 Stat. 1992.)
 
 #### References in Text
 

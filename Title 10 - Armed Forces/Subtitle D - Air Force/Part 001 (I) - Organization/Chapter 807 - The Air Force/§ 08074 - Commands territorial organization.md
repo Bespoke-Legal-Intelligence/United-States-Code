@@ -6,7 +6,7 @@
 
 (c) The Military Air Transport Service is redesignated as the Military Airlift Command.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495; Aug. 6, 1958, Pub. L. 85–599, §4(f), 72 Stat. 517; June 11, 1965, Pub. L. 89–37, title III, §306(a), 79 Stat. 129; Oct. 1, 1986, Pub. L. 99–433, title V, §523, 100 Stat. 1063.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495; Pub. L. 85–599, §4(f), Aug. 6, 1958, 72 Stat. 517; Pub. L. 89–37, title III, §306(a), June 11, 1965, 79 Stat. 129; Pub. L. 99–433, title V, §523, Oct. 1, 1986, 100 Stat. 1063.)
 
 Historical and Revision Notes
 

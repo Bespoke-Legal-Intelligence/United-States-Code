@@ -56,7 +56,7 @@ References to Committees With New Names.—Except as provided in subsection (c),
 
 &emsp;“(2) the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall be treated as referring to the Committee on Banking and Financial Services of the House of Representatives;
 
-&emsp;“(3) the Committee on Education and Labor of the House of Representatives shall be treated as referring to the Committee on Economic and Educational Opportunities \[now Committee on Education and the Workforce\] of the House of Representatives;
+&emsp;“(3) the Committee on Education and Labor of the House of Representatives shall be treated as referring to the Committee on Economic and Educational Opportunities of the House of Representatives;
 
 &emsp;“(4) the Committee on Energy and Commerce of the House of Representatives shall be treated as referring to the Committee on Commerce of the House of Representatives;
 
@@ -84,7 +84,7 @@ References to Abolished Committees.—Any reference in any provision of law enac
 
 &emsp;&emsp;“(A) the Committee on Agriculture of the House of Representatives, in the case of a provision of law relating to inspection of seafood or seafood products;
 
-&emsp;&emsp;“(B) the Committee on National Security of the House of Representatives, in the case of a provision of law relating to interoceanic canals, the Merchant Marine Academy and State Maritime Academies, or national security aspects of merchant marine;
+&emsp;&emsp;“(B) the Committee on National Security of the House of Representatives, in the case of a provisionof law relating to interoceanic canals, the Merchant Marine Academy and State Maritime Academies, or national security aspects of merchant marine;
 
 &emsp;&emsp;“(C) the Committee on Resources of the House of Representatives, in the case of a provision of law relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography;
 

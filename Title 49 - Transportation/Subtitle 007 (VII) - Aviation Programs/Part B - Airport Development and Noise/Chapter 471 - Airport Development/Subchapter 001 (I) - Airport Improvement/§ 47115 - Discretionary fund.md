@@ -80,7 +80,7 @@ Special rule.—For a fiscal year in which the amount credited to the fund under
 
 &emsp;&emsp;(A) 1/3 shall be made available to airports for which apportionments are made under section 47114(d) of this title.
 
-&emsp;&emsp;(B) 1/3 shall be made available for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c)(1) of this title.
+&emsp;&emsp;(B) 1/3 shall be made available for airport noise compatibility planning under section47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c)(1) of this title.
 
 &emsp;&emsp;(C) 1/3 shall be made available to current or former military airports for which grants may be made under section 47117(e)(1)(B) of this title.
 
@@ -89,10 +89,6 @@ Special rule.—For a fiscal year in which the amount credited to the fund under
 Priority for Letters of Intent.—In making grants in a fiscal year with funds made available under this section, the Secretary shall fulfill intentions to obligate under section 47110(e).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397.)
-
-#### Amendment of Subsections (f) and (g)
-
-<i>For termination of amendment by section 125 of Pub. L. 104–264, see Effective and Termination Dates of 1996 Amendments note below.</i>
 
 Historical and Revision Notes
 
@@ -180,7 +176,7 @@ Subsec. (d)(4) to (6). Pub. L. 104–264, §145(a)(2), (3), added pars. (4) to (
 
 Subsec. (f). Pub. L. 104–287, §5(81)(B), which directed that subsec. (f), as enacted by Pub. L. 103–429, be redesignated (g), could not be executed because of amendment by Pub. L. 104–264, §122, which struck out that subsec. See below.
 
-Pub. L. 104–264, §§122, 125, temporarily struck out subsec. (f), relating to minimum amount to be credited, which read as follows:
+Pub. L. 104–264, §122, struck out subsec. (f), relating to minimum amount to be credited, which read as follows:
 
 “(f)
 
@@ -188,11 +184,11 @@ Minimum Amount To Be Credited.—(1) In a fiscal year, at least $325,000,000 of 
 
 “(2) In a fiscal year in which the amount credited under subsection (a) of this section is less than $325,000,000, the total amount calculated under paragraph (3) of this subsection shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals $325,000,000.
 
-“(3) For a fiscal year, the total amount available to reduce to carry out paragraph (2) of this subsection is the total of the amounts determined under sections 47114(c)(1)(A) and (2) and (d) and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.” See Effective and Termination Dates of 1996 Amendments note below.
+“(3) For a fiscal year, the total amount available to reduce to carry out paragraph (2) of this subsection is the total of the amounts determined under sections 47114(c)(1)(A) and (2) and (d) and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.”
 
 Subsec. (f)(2). Pub. L. 104–287, §5(81)(A), substituted “August 23, 1994” for “the date of the enactment of this subsection”.
 
-Subsec. (g). Pub. L. 104–264, §§122, 125, temporarily added subsec. (g). See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (g). Pub. L. 104–264, §122, added subsec. (g).
 
 Subsec. (h). Pub. L. 104–264, §145(b), added subsec. (h).
 
@@ -200,13 +196,11 @@ Subsec. (h). Pub. L. 104–264, §145(b), added subsec. (h).
 
 Pub. L. 103–305 added subsec. (f) relating to consideration of diversion of revenues in awarding discretionary grants.
 
-#### Effective and Termination Dates of 1996 Amendments
+#### Effective Date of 1996 Amendments
 
 Amendment by section 5(81)(B) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-Amendment by section 122 of Pub. L. 104–264 to cease to be effective Sept. 30, 1998, and on and after such date this section to read as if such amendment had not been enacted, see section 125 of Pub. L. 104–264 set out as a note under section 47114 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 (b) Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Sept. 2, 1958, Pub. L. 85–861, §1(10)(C), 72 Stat. 1440; Sept. 28, 1971, Pub. L. 92–129, title VI, §601, 85 Stat. 361; Dec. 12, 1980, Pub. L. 96–513, title V, §501(7), 94 Stat. 2907; renumbered §12203 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), 108 Stat. 2965, 2990, 3017; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(a)(6), 110 Stat. 495.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Pub. L. 85–861, §1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, §601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, §501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered §12203 and amended Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(6), Feb. 10, 1996, 110 Stat. 495.)
 
 Historical and Revision Notes<br>1956
 

@@ -24,5 +24,5 @@ Section was enacted as part of the Rehabilitation Amendments of 1984, and not as
 
 #### Change of Name
 
-The National Council on the Handicapped was established by section 780 of this title and was redesignated the National Council on Disability by an amendment to that section by Pub. L. 100–630, title II, §205(b), Nov. 7, 1988, 102 Stat. 3310.
+The National Council on the Handicapped was established by former section 780 of this title and was redesignated the National Council on Disability by an amendment to that section by Pub. L. 100–630, title II, §205(b), Nov. 7, 1988, 102 Stat. 3310.
 

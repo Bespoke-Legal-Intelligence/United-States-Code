@@ -20,7 +20,7 @@ It shall be unlawful for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his age;
 
-&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
+&emsp;(2) to limit, segregate, or classify its membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, orwould limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's age;
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -94,9 +94,9 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 (5) Paragraph (1) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
 
-(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals.
+(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m) of this section..<sup>1</sup>
 
-(7) Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of section 411(b)(1)(H) of title 26 and subparagraphs (C) and (D) <sup>1</sup> of section 411(b)(2) of title 26 shall apply with respect to the requirements of this subsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
+(7) Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of section 411(b)(1)(H) of title 26 and subparagraphs (C) and (D) <sup>2</sup> of section 411(b)(2) of title 26 shall apply with respect to the requirements of this subsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
 
 (8) A plan shall not be treated as failing to meet the requirements of this section solely because such plan provides a normal retirement age described in section 1002(24)(B) of this title and section 411(a)(8)(B) of title 26.
 
@@ -110,7 +110,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual's age if such action is taken—
 
-&emsp;(1) with respect to the employment of an individual as a firefighter or as a law enforcement officer, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 <sup>1</sup> if the individual was discharged after the date described in such section, and the individual has attained—
+&emsp;(1) with respect to the employment of an individual as a firefighter or as a law enforcement officer, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 <sup>2</sup> if the individual was discharged after the date described in such section, and the individual has attained—
 
 &emsp;&emsp;(A) the age of hiring or retirement, respectively, in effect under applicable State or local law on March 3, 1983; or
 
@@ -180,13 +180,23 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
 &emsp;&emsp;(B) for which an individual who has attained the later of age 62 or normal retirement age is eligible.
 
-(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.)
+#### (m) Voluntary retirement incentive plans
+
+Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providingfor unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+
+&emsp;(1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
+
+&emsp;(2) such supplemental benefits are in addition to any retirement or severance benefits which have been offered generally to employees serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure), independent of any early retirement or exit-incentive plan, within the preceding 365 days; and
+
+&emsp;(3) any employee who attains the minimum age and satisfies all non-age-based conditions for receiving a benefit under the plan has an opportunity lasting not less than 180 days to elect to retire and to receive the maximum benefit that could then be elected by a younger but otherwise similarly situated employee, and the plan does not require retirement to occur sooner than 180 days after such election.
+
+(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835.)
 
 #### References in Text
 
@@ -197,6 +207,10 @@ Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, refe
 The Social Security Act, referred to in subsec. (<i>l</i>)(1)(B)(ii), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (i)(6). Pub. L. 105–244, §941(b), inserted “or it is a plan permitted by subsection (m) of this section.” after “accruals”.
+
+Subsec. (m). Pub. L. 105–244, §941(a), added subsec. (m).
 
 1996—Subsec. (j). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(1)\]\], reenacted subsec. (j) of this section, as in effect immediately before Dec. 31, 1993.
 
@@ -253,6 +267,18 @@ Subsec. (g)(1). Pub. L. 98–369 inserted “, and any employee's spouse aged 6
 1982—Subsec. (g). Pub. L. 97–248 added subsec. (g) relating to entitlement to coverage under group health plans.
 
 1978—Subsec. (f)(2). Pub. L. 95–256 provided that no seniority system or employee benefit plan require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of the individual.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–244, title IX, §941(d), Oct. 7, 1998, 112 Stat. 1835, provided that:
+
+“(1)
+
+In general.—This section \[amending this section and enacting provisions set out as a note below\] shall take effect on the date of enactment of this Act \[Oct. 7, 1998\].
+
+“(2)
+
+Effect on causes of action existing before date of enactment.—The amendment made by subsection (a) \[amending this section\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] prior to the date of enactment of this Act.”
 
 #### Effective Date of 1996 Amendment
 
@@ -332,7 +358,7 @@ Abrogation of right to receive benefits.—An election of coverage under the new
 
 &emsp;“(3)
 
-State assistance.—The Equal Employment Opportunity Commission, the Secretary of Labor, and the Secretary of the Treasury shall, on request, provide to States assistance in identifying and securing independent technical advice to assist in complying with this subsection.
+State assistance.—The Equal Employment Opportunity Commission, the Secretary of Labor, and the Secretary of the Treasury shall, on request, provide to States assistance in identifying and securingindependent technical advice to assist in complying with this subsection.
 
 &emsp;“(4)
 
@@ -360,7 +386,7 @@ Discrimination in Employee Pension Benefit Plans.—Nothing in this title \[amen
 
 “(e)
 
-Continued Benefit Payments.—Notwithstanding any other provision of this section, on and after the effective date of this title and the amendments made by this title (as determined in accordance with subsections (a), (b), and (c)), this title and the amendmentsmade by this title shall not apply to a series of benefit payments made to an individual or the individual's representative that began prior to the effective date and that continue after the effective date pursuant to an arrangement that was in effect on the effective date, except that no substantial modification to such arrangement may be made after the date of enactment of this Act \[Oct. 16, 1990\] if the intent of the modification is to evade the purposes of this Act.”
+Continued Benefit Payments.—Notwithstanding any other provision of this section, on and after the effective date of this title and the amendments made by this title (as determined in accordance with subsections (a), (b), and (c)), this title and the amendments made by this title shall not apply to a series of benefit payments made to an individual or the individual's representative that began prior to the effective date and that continue after the effective date pursuant to an arrangement that was in effect on the effective date, except that no substantial modification to such arrangement may be made after the date of enactment of this Act \[Oct. 16, 1990\] if the intent of the modification is to evade the purposes of this Act.”
 
 #### Effective Date of 1989 Amendment
 
@@ -432,7 +458,7 @@ Interagency Coordination.—The regulations and rulings issued by the Secretary 
 
 “(e)
 
-Final Regulations.—The Secretary of Labor, the Secretary of the Treasury, and the Equal Employment Opportunity Commission shall each issue before February 1, 1988, such final regulations as may be necessary to carry out the amendments made by this subtitle.”
+Final Regulations.—The Secretary of Labor, the Secretary of the Treasury, and the Equal Employment Opportunity Commission shall each issue beforeFebruary 1, 1988, such final regulations as may be necessary to carry out the amendments made by this subtitle.”
 
 Amendment by Pub. L. 99–272 effective May 1, 1986, see section 9201(d)(2) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 1395p of Title 42, The Public Health and Welfare.
 
@@ -448,11 +474,21 @@ Section 116(c) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1978 Amendment
 
-Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of thissection \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
+Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
 
 #### Regulations
 
 Section 104 of title I of Pub. L. 101–433 provided that: “Notwithstanding section 9 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 628), the Equal Employment Opportunity Commission may issue such rules and regulations as the Commission may consider necessary or appropriate for carrying out this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\], and the amendments made by this title, only after consultation with the Secretary of the Treasury and the Secretary of Labor.”
+
+#### Construction of 1998 Amendment
+
+Pub. L. 105–244, title IX, §941(c), Oct. 7, 1998, 112 Stat. 1835, provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall affect the application of section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623) with respect to—
+
+&emsp;“(1) any plan described in subsection (m) of section 4 of such Act (as added by subsection (a)), for any period prior to enactment of such Act \[Dec. 15, 1967\];
+
+&emsp;“(2) any plan not described in subsection (m) of section 4 of such Act (as added by subsection (a)); or
+
+&emsp;“(3) any employer other than an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\]).”
 
 #### Construction of 1996 Amendment
 
@@ -534,5 +570,7 @@ Authorization of Appropriations.—There is authorized to be appropriated $5,000
 
 This section is referred to in section 626 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

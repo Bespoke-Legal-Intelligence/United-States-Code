@@ -6,7 +6,7 @@ A deepwater port and a storage facility serviced directly by that deepwater port
 
 #### (b) Discrimination prohibition; exceptions
 
-A licensee is not discriminating under this section and is not subject to common carrierregulations under subsection (a) of this section when that licensee—
+A licensee is not discriminating under this section and is not subject to common carrier regulations under subsection (a) of this section when that licensee—
 
 &emsp;(1) is subject to effective competition for the transportation of oil from alternative transportation systems; and
 
@@ -26,7 +26,7 @@ The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch
 
 1996—Subsec. (a). Pub. L. 104–324, §507(a), inserted “and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued,” after “subtitle IV of title 49,”.
 
-Subsec. (b). Pub. L. 104–324, §507(b), substituted “A licensee is not discriminating under this section and” for “A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee”.
+Subsec. (b). Pub. L. 104–324, §507(b), substituted “A licensee is not discriminating under this section and” for“A licensee under this chapter shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued. However, a licensee”.
 
 1984—Subsec. (a). Pub. L. 98–419 substituted provision that a deepwater port and a storage facility serviced directly by that deepwater port shall operate as a common carrier under applicable provisions of part I of the Interstate Commerce Act and subtitle IV of title 49 except as provided by subsec. (b), for provision that such port and such facilities were subject to regulations as a common carrier in accordance with the Interstate Commerce Act, as amended, for purposes of chapter 39 of title 18 and former sections 1 to 27 of title 49.
 

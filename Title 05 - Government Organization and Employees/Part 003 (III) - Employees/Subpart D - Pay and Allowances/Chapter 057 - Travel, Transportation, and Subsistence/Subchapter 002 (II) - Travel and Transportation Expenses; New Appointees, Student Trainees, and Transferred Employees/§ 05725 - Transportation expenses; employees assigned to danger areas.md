@@ -1,6 +1,6 @@
 ### §5725. Transportation expenses; employees assigned to danger areas
 
-(a) When an employee of the United States is on duty, or is transferred or assigned to duty, ata place designated by the head of the agency concerned as inside a zone—
+(a) When an employee of the Government is on duty, or is transferred or assigned to duty, at a place designated by the head of the agency concerned as inside a zone—
 
 &emsp;(1) from which his immediate family should be evacuated; or
 
@@ -10,7 +10,7 @@
 
 (b) When the employee is assigned to a duty station from which his immediate family is not excluded by the restrictions in subsection (a) of this section, Government funds may be used to transport his immediate family and household goods and personal effects from the designated or alternate location to the duty station.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 503.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 503; Pub. L. 105–264, §6(6), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -29,6 +29,10 @@ Sept. 23, 1960, ch. 1010, §1(c), 64 Stat. 985.
 The word “employee” is substituted for “civilian officers and employees” in view of the definition of “employee” in sections 5721 and 2105.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

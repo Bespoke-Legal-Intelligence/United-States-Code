@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary shall prescribe such regulations as the Secretary may deem necessary to carry out this chapter and the National School Lunch Act \[42 U.S.C. 1751 et seq.\], including regulations relating to the service of food in participating schools and service institutions in competition with the programs authorized under this chapter and the National School Lunch Act.
+The Secretary shall prescribe such regulations as the Secretary may deem necessary to carry out this chapter and the National School LunchAct \[42 U.S.C. 1751 et seq.\], including regulations relating to the service of food in participating schools and service institutions in competition with the programs authorized under this chapter and the National School Lunch Act.
 
 #### (b) Sale of competitive foods
 
@@ -24,7 +24,7 @@ The National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281
 
 “(2) The Secretary shall develop and provide to State agencies, for distribution to private elementary schools and to public elementary schools through local educational agencies, model language that bans the sale of competitive foods of minimal nutritional value anywhere on elementary school grounds before the end of the last lunch period.
 
-“(3) The Secretary shall provide to State agencies, for distribution to private secondary schools and topublic secondary schools through local educational agencies, a copy of regulations (in existence on the effective date of this paragraph) concerning the sale of competitive foods of minimal nutritional value.
+“(3) The Secretary shall provide to State agencies, for distribution to private secondary schools and to public secondary schools through local educational agencies, a copy of regulations (in existence on the effective date of this paragraph) concerning the sale of competitive foods of minimal nutritional value.
 
 “(4) Paragraphs (2) and (3) shall not apply to a State that has in effect a ban on the sale of competitive foods of minimal nutritional value in schools in the State.”
 

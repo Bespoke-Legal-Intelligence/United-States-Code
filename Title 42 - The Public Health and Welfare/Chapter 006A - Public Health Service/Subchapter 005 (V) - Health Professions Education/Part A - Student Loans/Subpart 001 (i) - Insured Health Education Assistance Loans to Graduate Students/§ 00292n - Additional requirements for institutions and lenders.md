@@ -28,7 +28,7 @@ The Secretary shall require an eligible institution to record, and make availabl
 
 Each participating eligible institution must have, at the beginning of each academic year, a workshop concerning the provisions of this subpart that all student borrowers shall be required to attend.
 
-(July 1, 1944, ch. 373, title VII, §715, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2009.)
+(July 1, 1944, ch. 373, title VII, §715, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2009.)
 
 #### Section Referred to in Other Sections
 

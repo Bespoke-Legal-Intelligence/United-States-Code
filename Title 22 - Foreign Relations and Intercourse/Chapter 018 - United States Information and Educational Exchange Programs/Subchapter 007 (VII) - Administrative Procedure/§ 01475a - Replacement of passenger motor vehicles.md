@@ -14,5 +14,5 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, i
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–60 effective Oct. 1, 1979, and applicable only with respect to funds appropriated after Aug. 15, 1979, where new authorities provide for expenditures of appropriated funds, see section 209 of Pub. L. 96–60, set out as an Effective Date note under section 1469 of this title.
+Amendment by Pub. L. 96–60 effective Oct. 1, 1979, and applicable only with respect to funds appropriated after Aug. 15, 1979, where new authorities provide for expenditures of appropriated funds, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Immigrants; nonimmigrants
 
-Under the conditions hereinafter prescribed and subject to the limitations prescribed in thischapter or regulations issued thereunder, a consular officer may issue (1) to an immigrant who has made proper application therefor, an immigrant visa which shall consist of the application provided for in section 1202 of this title, visaed by such consular officer, and shall specify the foreign state, if any, to which the immigrant is charged, the immigrant's particular status under such foreign state, the preference, immediate relative, or special immigrant classification to which the alien is charged, the date on which the validity of the visa shall expire, and such additional information as may be required; and (2) to a nonimmigrant who has made proper application therefor, a nonimmigrant visa, which shall specify the classification under section 1101(a)(15) of this title of the nonimmigrant, the period during which the nonimmigrant visa shall be valid, and such additional information as may be required.
+Under the conditions hereinafter prescribed and subject to the limitations prescribed in this chapter or regulations issued thereunder, a consular officer may issue (1) to an immigrant who has made proper application therefor, an immigrant visa which shall consist of the application provided for in section 1202 of this title, visaed by such consular officer, and shall specify the foreign state, if any, to which the immigrant is charged, the immigrant's particular status under such foreign state, the preference, immediate relative, or special immigrant classification to which the alien is charged, the date on which the validity of the visa shall expire, and such additional information as may be required; and (2) to a nonimmigrant who has made proper application therefor, a nonimmigrant visa, which shall specify the classification under section 1101(a)(15) of this title of the nonimmigrant, the period during which the nonimmigrant visa shall be valid, and such additional information as may be required.
 
 #### (b) Registration; photographs; waiver of requirement
 
@@ -18,7 +18,7 @@ Prior to the issuance of an immigrant visa to any alien, the consular officer sh
 
 #### (e) Surrender of visa
 
-Each immigrant shall surrender his immigrant visa to the immigration officer at the port of entry, who shall endorse on the visa the date and the port of arrival, the identity of the vessel or other means of transportation by which the immigrant arrived, and such other endorsements as may be by regulations required.
+Each immigrant shall surrender his immigrant visa to the immigration officer at the port of entry, who shall endorse on the visa the date and the port of arrival, the identity of the vesselor other means of transportation by which the immigrant arrived, and such other endorsements as may be by regulations required.
 
 #### (f) Surrender of documents
 
@@ -26,7 +26,7 @@ Each nonimmigrant shall present or surrender to the immigration officer at the p
 
 #### (g) Nonissuance of visas or other documents
 
-No visa or other documentation shall be issued to an alien if (1) it appears to the consular officer, from statements in the application, or in the papers submitted therewith, that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law, (2) the application fails to comply with the provisions of this chapter, or the regulations issued thereunder, or (3) the consular officer knows or has reason to believe that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law: <i>Provided</i>, That a visa or other documentation may be issued to an alien who is within the purview of section 1182(a)(4) of this title, if such alien is otherwise entitled to receive a visa or other documentation, upon receipt of notice by the consular officer from the Attorney General of the giving of a bond or undertaking providing indemnity as in the case of aliens admitted under section 1183 of this title: <i>Provided further</i>, That a visa may be issued to an alien defined in section1101(a)(15)(B) or (F) of this title, if such alien is otherwise entitled to receive a visa, upon receipt of a notice by the consular officer from the Attorney General of the giving of a bond with sufficient surety in such sum and containing such conditions as the consular officer shall prescribe, to insure that at the expiration of the time for which such alien has been admitted by the Attorney General, as provided in section 1184(a) of this title, or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States.
+No visa or other documentation shall be issued to an alien if (1) it appears to the consular officer, from statements in the application, or in the papers submitted therewith, that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law, (2) the application fails to comply with the provisions of this chapter, or the regulations issued thereunder, or (3) the consular officer knows or has reason to believe that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law: <i>Provided</i>, That a visa or other documentation may be issued to an alien who is within the purview of section 1182(a)(4) of this title, if such alien is otherwise entitled to receive a visa or other documentation, upon receipt of notice by the consular officer from the Attorney General of the giving of a bond or undertaking providing indemnity as in the case of aliens admitted under section 1183 of this title: <i>Provided further</i>, That a visa may be issued to an alien defined in section 1101(a)(15)(B) or (F) of this title, if such alien is otherwise entitled to receive a visa, upon receipt of a notice by the consular officer from the Attorney General of the giving of a bond with sufficient surety in such sum and containing such conditions as the consular officer shall prescribe, to insure that at the expiration of the time for which such alien has been admitted by the Attorney General, as provided in section 1184(a) of this title, or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States.
 
 #### (h) Nonadmission upon arrival
 
@@ -36,7 +36,7 @@ Nothing in this chapter shall be construed to entitle any alien, to whom a visa 
 
 After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title for action taken in reliance on such visas or other documentation, unless they received due notice of such revocation prior to the alien's embarkation.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Sept. 26, 1961, Pub. L. 87–301, §4, 75 Stat. 651; Oct. 3, 1965, Pub. L. 89–236, §§11(a), (b), 17, 79 Stat. 918, 919; Dec. 29, 1981, Pub. L. 97–116, §18(f), 95 Stat. 1620; Nov. 14, 1986, Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), 100 Stat. 3656, renumbered §5(a), Oct. 24, 1988, Pub. L. 100–525, §8(d)(1), 102 Stat. 2617; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(9), 104 Stat. 5083; Dec. 12, 1991, Pub. L. 102–232, title III, §302(e)(8)(C), 105 Stat. 1746; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, 110 Stat. 3009–618, 3009–621, 3009–700.)
+(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700.)
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Effective Date of 1986 Amendment
 
-Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of thistitle\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
+Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
 
 #### Effective Date of 1981 Amendment
 
@@ -152,7 +152,7 @@ Treatment of Children.—In this section, the term ‘child’ has the meaning g
 
 #### Cuban Political Prisoners and Immigrants
 
-Pub. L. 100–204, title IX, §903, Dec. 22, 1987, 101 Stat. 1401, as amended by Pub. L. 104–208, div. C, title III, §308(g)(7)(C)(iii), Sept. 30, 1996, 110 Stat. 3009–624, provided that:
+Pub. L. 100–204, title IX, §903, Dec. 22, 1987, 101 Stat. 1401, as amended by Pub. L. 104–208, div. C, title III,§308(g)(7)(C)(iii), Sept. 30, 1996, 110 Stat. 3009–624, provided that:
 
 “(a)
 

@@ -46,7 +46,7 @@ Coverage under certain circumstances.—Clause (ii) shall not apply with respect
 
 &emsp;(iii) an officer, employee, or agent of the District of Columbia having official custody of public funds and lawfully investing or depositing the same in time and savings deposits in an insured depository institution in the District of Columbia;
 
-&emsp;(iv) an officer, employee, or agent of the Commonwealth of Puerto Rico, of the Virgin Islands, of American Samoa, of the Trust Territory of the Pacific Islands, or of Guam, or of any county, municipality, or political subdivision thereof having official custody of public funds and lawfully investing or depositing the same in time and savings deposits in an insured depository institution in the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam, respectively; or
+&emsp;(iv) an officer, employee, or agent of the Commonwealth of Puerto Rico, of the Virgin Islands, of American Samoa, of the Trust Territory of the Pacific Islands, or of Guam, or of any county, municipality, or political subdivision thereof having official custody of publicfunds and lawfully investing or depositing the same in time and savings deposits in an insured depository institution in the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam, respectively; or
 
 &emsp;(v) an officer, employee, or agent of any Indian tribe (as defined in section 1452(c) of title 25) or agency thereof having official custody of tribal funds and lawfully investing or depositing the same in time and savings deposits in an insured depository institution;
 
@@ -220,7 +220,7 @@ Availability of rtc funding.—At any time before the end of the 2-year period b
 
 &emsp;&emsp;&emsp;(I) utilizing staff counsel when such utilization would provide the same level of quality in legal services as the use of outside counsel at the same or a lower estimated cost; and
 
-&emsp;&emsp;&emsp;(II) employing outside counsel only if the use of outside counsel would provide the most practicable, efficient, and cost-effective resolution to the action and onlyunder a negotiated fee, contingent fee, or competitively bid fee agreement.
+&emsp;&emsp;&emsp;(II) employing outside counsel only if the use of outside counsel would provide the most practicable, efficient, and cost-effective resolution to the action and only under a negotiated fee, contingent fee, or competitively bid fee agreement.
 
 &emsp;(G)
 
@@ -312,7 +312,7 @@ Accounting for use of facilities and resources.—The Corporation shall keep a f
 
 &emsp;&emsp;(ii)
 
-Accounting for holding and managing assets and liabilities.—The Corporationshall keep a full and complete accounting of all costs and expenses associated with the holding and management of any asset or liability specified in subparagraph (A)(ii).
+Accounting for holding and managing assets and liabilities.—The Corporation shall keep a full and complete accounting of all costs and expenses associated with the holding and management of any asset or liability specified in subparagraph (A)(ii).
 
 &emsp;&emsp;(iii)
 
@@ -352,7 +352,7 @@ Definitions.—For purposes of subparagraph (A)—
 
 &emsp;&emsp;(i)
 
-Benefit-responsive withdrawals or transfers.—The term “benefit-responsive withdrawals or transfers” means any withdrawal or transfer of funds (consisting of any portion of the principal and any interest credited at a rate guaranteed by the insured depository institution investment contract) during the period in which any guaranteed rate is in effect, without substantial penalty or adjustment, to pay benefits provided by the employee benefit plan or to permit a plan participant or beneficiary to redirect the investment of his or her account balance.
+Benefit-responsive withdrawals or transfers.—The term “benefit-responsive withdrawals or transfers” means any withdrawal or transfer of funds (consisting of any portion of the principal and any interest credited at a rate guaranteed by the insured depository institution investment contract) during the period in which any guaranteedrate is in effect, without substantial penalty or adjustment, to pay benefits provided by the employee benefit plan or to permit a plan participant or beneficiary to redirect the investment of his or her account balance.
 
 &emsp;&emsp;(ii)
 
@@ -390,7 +390,7 @@ For the purposes of this chapter an insured depository institution shall be deem
 
 #### (C) Corporation not subject to any other agency
 
-&emsp;&emsp;When acting as conservator or receiver pursuant to an appointment described insubparagraph (A), the Corporation shall not be subject to the direction or supervision of any other agency or department of the United States or any State in the exercise of the Corporation's rights, powers, and privileges.
+&emsp;&emsp;When acting as conservator or receiver pursuant to an appointment described in subparagraph (A), the Corporation shall not be subject to the direction or supervision of any other agency or department of the United States or any State in the exercise of the Corporation's rights, powers, and privileges.
 
 #### (D) Depository institution in conservatorship subject to banking agency supervision
 
@@ -534,7 +534,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;(ii) on or after the date determined by the Chairperson of the Thrift Depositor Protection Oversight Board under section 1441a(b)(3)(A)(ii) of this title, the Resolution Trust Corporation shall be appointed if the Resolution Trust Corporation had been placed in control of the depository institution at any time before such date; and
 
-&emsp;&emsp;&emsp;(iii) on or after the date determined by the Chairperson of the Thrift Depositor Protection Oversight Board under section 1441a(b)(3)(A)(ii) of this title, the Corporation shall be appointed unless the Resolution Trust Corporation is required to be appointed under clause (ii).
+&emsp;&emsp;&emsp;(iii) on or after the date determined by the Chairperson of the Thrift DepositorProtection Oversight Board under section 1441a(b)(3)(A)(ii) of this title, the Corporation shall be appointed unless the Resolution Trust Corporation is required to be appointed under clause (ii).
 
 #### (7) Judicial review
 
@@ -682,7 +682,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (ii) Authority of Board of Directors
 
-&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, or with the written approval of, the Board of Directors or their designees (or, in the case of a subpoena or subpoena duces tecum issued by the Resolution Trust Corporation under this subparagraph and section 1441a(b)(4) <sup>3</sup> of this title, only by, or with the written approval of, the Board of Directors of such Corporation or their designees).
+&emsp;&emsp;&emsp;A subpoena or subpoena duces tecum may be issued under clause (i) only by, or with the written approval of, the Board of Directors or their designees (or, in the case of a subpoena or subpoena duces tecum issued by the Resolution Trust Corporation under this subparagraph and section 1441a(b)(4) <sup>3</sup> of this title, only by, or withthe written approval of, the Board of Directors of such Corporation or their designees).
 
 #### (iii) Rule of construction
 
@@ -762,7 +762,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (iii) Mailing of notice sufficient
 
-&emsp;&emsp;&emsp;The requirements of clause (i) shall be deemed to be satisfied if the notice of any determination with respect to any claim is mailed to the last address of the claimant which appears—
+&emsp;&emsp;&emsp;The requirements of clause (i) shall be deemed to be satisfied if the notice of anydetermination with respect to any claim is mailed to the last address of the claimant which appears—
 
 &emsp;&emsp;&emsp;&emsp;(I) on the depository institution's books;
 
@@ -808,7 +808,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;&emsp;(I) may treat the portion of such claim which exceeds an amount equal to the fair market value of such property or other asset as an unsecured claim against the institution; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may not make any payment with respect to such unsecured portion of theclaim other than in connection with the disposition of all claims of unsecured creditors of the institution.
+&emsp;&emsp;&emsp;&emsp;(II) may not make any payment with respect to such unsecured portion of the claim other than in connection with the disposition of all claims of unsecured creditors of the institution.
 
 #### (iii) Exceptions
 
@@ -930,7 +930,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (B) Exception to contemporaneous execution requirement
 
-&emsp;&emsp;Notwithstanding section 1823(e)(2) <sup>4</sup> of this title, any agreement relating to an extension of credit between a Federal home loan bank or Federal Reserve bank and any insured depository institution which was executed before the extension of credit by such bank to such institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (A).
+&emsp;&emsp;Notwithstanding section 1823(e)(2) <sup>4</sup> of this title, any agreement relating to an extension of credit between a Federal home loan bank or Federal Reserve bank and any insured depository institution which was executed before the extension of credit by such bank to such institution shall be treated as having been executed contemporaneouslywith such extension of credit for purposes of subparagraph (A).
 
 #### (10) Payment of claims
 
@@ -1062,7 +1062,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any tort claim described in clause (ii) for which the statute of limitation applicable under State law with respect to such claim has expired not more than 5 years before the appointment of the Corporation as conservator or receiver, theCorporation may bring an action as conservator or receiver on such claim without regard to the expiration of the statute of limitation applicable under State law.
+&emsp;&emsp;&emsp;In the case of any tort claim described in clause (ii) for which the statute of limitation applicable under State law with respect to such claim has expired not more than 5 years before the appointment of the Corporation as conservator or receiver, the Corporation may bring an action as conservator or receiver on such claim without regard to the expiration of the statute of limitation applicable under State law.
 
 #### (ii) Claims described
 
@@ -1134,7 +1134,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (D) Rights under this paragraph
 
-&emsp;&emsp;The rights under this paragraph of the Corporation and any conservator describedin subparagraph (A) shall be superior to any rights of a trustee or any other party (other than any party which is a Federal agency) under title 11.
+&emsp;&emsp;The rights under this paragraph of the Corporation and any conservator described in subparagraph (A) shall be superior to any rights of a trustee or any other party (other than any party which is a Federal agency) under title 11.
 
 #### (18) Attachment of assets and other injunctive relief
 
@@ -1164,7 +1164,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (1) Authority to repudiate contracts
 
-&emsp;In addition to any other rights a conservator or receiver may have, the conservator or receiver for any insured depository institution may disaffirm or repudiate any contract or lease—
+&emsp;In addition to any other rights a conservator or receiver may have, the conservator or receiver for any insured depository institutionmay disaffirm or repudiate any contract or lease—
 
 &emsp;&emsp;(A) to which such institution is a party;
 
@@ -1256,7 +1256,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (A) In general
 
-&emsp;&emsp;If the conservator or receiver repudiates any contract (which meets the requirements of each paragraph of section 1823(e) of this title) for the sale of real property and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
+&emsp;&emsp;If the conservator or receiver repudiates any contract (which meets the requirements of each paragraph of section 1823(e) of this title) for the sale of real property and thepurchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
 
 &emsp;&emsp;&emsp;(i) treat the contract as terminated by such repudiation; or
 
@@ -1374,7 +1374,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;The term “swap agreement”—
 
-&emsp;&emsp;&emsp;&emsp;(I) means any agreement, including the terms and conditions incorporated byreference in any such agreement, which is a rate swap agreement, basis swap, commodity swap, forward rate agreement, interest rate future, interest rate option purchased, forward foreign exchange agreement, rate cap agreement, rate floor agreement, rate collar agreement, currency swap agreement, cross-currency rate swap agreement, currency future, or currency option purchased or any other similar agreement, and
+&emsp;&emsp;&emsp;&emsp;(I) means any agreement, including the terms and conditions incorporated by reference in any such agreement, which is a rate swap agreement, basis swap, commodity swap, forward rate agreement, interest rate future, interest rate option purchased, forward foreign exchange agreement, rate cap agreement, rate floor agreement, rate collar agreement, currency swap agreement, cross-currency rate swap agreement, currency future, or currency option purchased or any other similar agreement, and
 
 &emsp;&emsp;&emsp;&emsp;(II) includes any combination of such agreements and any option to enter into any such agreement.
 
@@ -1408,7 +1408,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;&emsp;(II) the depository institution in default;
 
-&emsp;&emsp;&emsp;(ii) all claims of such person or any affiliate of such person against such depository institution under any such contract (other than any claim which, under the terms of any such contract, is subordinated to the claims of general unsecured creditors of such institution);
+&emsp;&emsp;&emsp;(ii) all claims of such person or any affiliate of such person against such depository institution under any such contract (other than any claim which, under the terms of any such contract, is subordinated to theclaims of general unsecured creditors of such institution);
 
 &emsp;&emsp;&emsp;(iii) all claims of such depository institution against such person or any affiliate of such person under any such contract; and
 
@@ -1616,7 +1616,7 @@ A director or officer of an insured depository institution may be held personall
 
 &emsp;(3) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by an insured depository institution or its affiliate in connection with assistance provided under section 1823 of this title,
 
-> for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence) including intentional tortious conduct, as such terms are defined and determined under applicable State law. Nothing in this paragraph shall impair or affect any right of the Corporation under other applicable law.
+> for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence) including intentional tortious conduct, as such terms are defined and determined under applicable State law. Nothing in this paragraph shallimpair or affect any right of the Corporation under other applicable law.
 
 #### (<i>l</i>) Damages
 
@@ -1686,7 +1686,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (15) Issuance of stock
 
-&emsp;(A) Whenever in the judgment of the Board of Directors it is desirable to do so, the Corporation shall cause capital stock of the new bank to be offered for sale on such terms and conditions as the Board of Directors shall deem advisable in an amount sufficient, in the opinion of the Board of Directors, to make possible the conduct of the business of the new bank on a sound basis, but in no event less than that required by section 51 of this title for the organization of a national bank in the place where such new bank is located.
+&emsp;(A) Whenever in the judgment of the Board of Directors it is desirable to do so, the Corporation shall cause capital stock of the new bank to be offered for sale on such terms and conditions as the Board of Directors shall deem advisable in an amount sufficient, in the opinion of the Board of Directors, to make possible the conduct of the business of the new bank on a sound basis, but in no event lessthan that required by section 51 of this title for the organization of a national bank in the place where such new bank is located.
 
 &emsp;(B) The stockholders of the insured bank in default shall be given the first opportunity to purchase any shares of common stock so offered.
 
@@ -1712,7 +1712,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (A) Purpose
 
-&emsp;&emsp;When 1 or more insured banks are in default, or when the Corporation anticipates that 1 or more insured banks may become indefault, the Corporation may, in its discretion, organize, and the Office of the Comptroller of the Currency shall charter, 1 or more national banks with respect thereto with the powers and attributes of national banking associations, subject to the provisions of this subsection, to be referred to as bridge banks.
+&emsp;&emsp;When 1 or more insured banks are in default, or when the Corporation anticipates that 1 or more insured banks may become in default, the Corporation may, in its discretion, organize, and the Office of the Comptroller of the Currency shall charter, 1 or more national banks with respect thereto with the powers and attributes of national banking associations, subject to the provisions of this subsection, to be referred to as bridge banks.
 
 #### (B) Authorities
 
@@ -1746,7 +1746,7 @@ In any proceeding related to any claim against an insured depository institution
 
 &emsp;&emsp;&emsp;(i) the amount which is reasonably necessary to operate such bridge bank will not exceed the amount which is reasonably necessary to save the cost of liquidating, including paying the insured accounts of, 1 or more insured banks in default or in danger of default with respect to which the bridge bank is chartered;
 
-&emsp;&emsp;&emsp;(ii) the continued operation of such insured bank or banks in default or in danger of default with respect to which the bridge bank is chartered is essential to provide adequate banking services in the community where each such bank in default or in danger of default is located; or
+&emsp;&emsp;&emsp;(ii) the continued operation of such insured bank or banks in default or in danger of default with respect to which thebridge bank is chartered is essential to provide adequate banking services in the community where each such bank in default or in danger of default is located; or
 
 &emsp;&emsp;&emsp;(iii) the continued operation of such insured bank or banks in default or in danger of default with respect to which the bridge bank is chartered is in the best interest of the depositors of such bank or banks in default or in danger of default or the public.
 
@@ -1880,7 +1880,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (B) By out-of-State holding company
 
-&emsp;&emsp;Any depository institution, including an out-of-State depository institution, or any out-of-State depository institution holding company may acquire and retain the capital stock or assets of, or otherwise acquire and retain a bridge bank if the bridge bank at any time had assets aggregating $500,000,000 or more, as determined by the Corporation on the basis of the bridge bank's reports of condition or on the basis of the last available reports of condition of any insured bank in default, which institution has been acquired, or whose assets have been acquired, by the bridge bank. The acquiring entity may acquire the bridge bank only in the same manner and to the same extent as such entity may acquire an insured bank in default under section 1823(f)(2) of this title.
+&emsp;&emsp;Any depository institution, including an out-of-State depository institution, or anyout-of-State depository institution holding company may acquire and retain the capital stock or assets of, or otherwise acquire and retain a bridge bank if the bridge bank at any time had assets aggregating $500,000,000 or more, as determined by the Corporation on the basis of the bridge bank's reports of condition or on the basis of the last available reports of condition of any insured bank in default, which institution has been acquired, or whose assets have been acquired, by the bridge bank. The acquiring entity may acquire the bridge bank only in the same manner and to the same extent as such entity may acquire an insured bank in default under section 1823(f)(2) of this title.
 
 #### (9) Duration of bridge bank
 
@@ -1908,7 +1908,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (B) Charter conversion
 
-&emsp;&emsp;Following the sale of a majority of the capital stock of the bridge bank as provided in paragraph (10)(B), the Corporation mayamend the charter of the bridge bank to reflect the termination of the status of the bridge bank as such, whereupon the bank shall remain a national bank, with all of the rights, powers, and privileges thereof, subject to all laws and regulations applicable thereto.
+&emsp;&emsp;Following the sale of a majority of the capital stock of the bridge bank as provided in paragraph (10)(B), the Corporation may amend the charter of the bridge bank to reflect the termination of the status of the bridge bank as such, whereupon the bank shall remain a national bank, with all of the rights, powers, and privileges thereof, subject to all laws and regulations applicable thereto.
 
 #### (C) Sale of stock
 
@@ -1938,7 +1938,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (B) Procedures
 
-&emsp;&emsp;The Comptroller of the Currency shall appoint the Corporation receiver for a bridge bank upon certification by the Board of Directors to the Comptroller of the Currency of its determination to dissolve the bridge bank. The Corporation as such receiver shall wind up the affairs of the bridge bank in conformity with the provisions of law relating to the liquidation of closed national banks. With respect to any such bridge bank, the Corporation as such receiver shall have all the rights, powers, and privileges and shall perform the duties related to the exercise of such rights, powers, or privileges granted by law to a receiver of any insured depository institution and notwithstanding any other provision of law in the exercise of such rights, powers, and privileges the Corporation shall not be subject to the direction or supervision of any State agency or other Federal agency.
+&emsp;&emsp;The Comptroller of the Currency shall appoint the Corporation receiver for a bridge bank upon certification by the Board of Directors to the Comptroller of the Currency of its determination to dissolve the bridge bank. The Corporation as such receiver shallwind up the affairs of the bridge bank in conformity with the provisions of law relating to the liquidation of closed national banks. With respect to any such bridge bank, the Corporation as such receiver shall have all the rights, powers, and privileges and shall perform the duties related to the exercise of such rights, powers, or privileges granted by law to a receiver of any insured depository institution and notwithstanding any other provision of law in the exercise of such rights, powers, and privileges the Corporation shall not be subject to the direction or supervision of any State agency or other Federal agency.
 
 #### (13) Multiple bridge banks
 
@@ -2052,7 +2052,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (3) Rule of construction
 
-&emsp;Paragraph (1) shall not be construed as implying that any person waives any privilegeapplicable to any information because paragraph (1) does not apply to the transfer or use of that information.
+&emsp;Paragraph (1) shall not be construed as implying that any person waives any privilege applicable to any information because paragraph (1) does not apply to the transfer or use of that information.
 
 #### (u) Purchase rights of tenants
 
@@ -2088,7 +2088,7 @@ Subject to subsection (u) of this section, in selling any real property (other t
 
 #### (1) Authority
 
-&emsp;In selling any eligible commercial real properties of the Corporation, the Corporation shall give preference, among offers to purchase the property that will result in the same net present value proceeds, to any offer—
+&emsp;In selling any eligible commercial real properties of the Corporation, the Corporationshall give preference, among offers to purchase the property that will result in the same net present value proceeds, to any offer—
 
 &emsp;&emsp;(A) that is made by a public agency or nonprofit organization; and
 
@@ -2106,7 +2106,7 @@ Subject to subsection (u) of this section, in selling any real property (other t
 
 &emsp;&emsp;The terms “nonprofit organization” and “public agency” have the same meanings as in section 1831q(p) of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[11\], 64 Stat. 884; Pub. L. 89–695, title III, §301(c), (d), Oct. 16, 1966, 80 Stat. 1055; Pub. L. 91–151, title I, §7(a)(3), (4), Dec. 23, 1969, 83 Stat. 375; Pub. L. 93–495, title I, §§101(a)(3), 102(a)(3), (4), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(17)–(22), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title XIV, §1401(a), Nov. 10, 1978, 92 Stat. 3712; Pub. L. 96–153, title III, §323(a), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(a)(1)(C), (D), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §103(c), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §113(j), (k), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §§503(a), 507, Aug. 10, 1987, 101 Stat. 629, 634; Pub. L. 101–73, title II, §§201(a), 211–214, title IX, §909, Aug. 9, 1989, 103 Stat. 187, 218–246, 477; Pub. L. 101–647, title XXV, §§2521(a)(1), 2526(a), 2527(a), 2528(a), 2532(b), 2534(a), Nov. 29, 1990, 104 Stat. 4863, 4875, 4877, 4880, 4882; Pub. L. 102–233, title I, §102, title II, §202(a), (b), title III, §302(a), Dec. 12, 1991, 105 Stat. 1761, 1766, 1767; Pub. L. 102–242, title I, §§123(a), 133(a), (e), 141(b), (d), 161(a), (e), title II, §241(c)(1), title III, §311(a)(1), (b)(1), (2), (5)(B), (C), title IV, §§416, 426, 446, Dec. 19, 1991, 105 Stat. 2252, 2270, 2272, 2277, 2285, 2286, 2331, 2363, 2364, 2366, 2376, 2378, 2382; Pub. L. 102–550, title XV, §§1501(a), 1544, title XVI, §§1603(e)(1), 1604(c)(2), 1606(c), 1611(b), Oct. 28, 1992, 106 Stat. 4044, 4069, 4081, 4083, 4088, 4090; Pub. L. 103–66, title III, §3001(a), (b), Aug. 10, 1993, 107 Stat. 336; Pub. L. 103–204, §§3(d), 4(b), 8(a)–(f), (i), 11, 15(b), 16(b), 17(b), 20, 27(b), 38(b), Dec. 17, 1993, 107 Stat. 2379, 2380, 2384–2389, 2399–2401, 2404, 2410, 2416; Pub. L. 103–325, title III, §325, title IV, §411(c)(2)(A), title VI, §602(a)(21)–(33), Sept. 23, 1994, 108 Stat. 2228,2253, 2289; Pub. L. 103–328, title II, §201(a), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 103–394, title V, §501(c)(2), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 104–208, div. A, title II, §§2602, 2704(d)(1)–(4), (6)(C), (14)(H), (I), 2705, Sept. 30, 1996, 110 Stat. 3009–469, 3009–487, 3009–488, 3009–492, 3009–495; Pub. L. 104–316, title I, §106(i), Oct. 19, 1996, 110 Stat. 3831.)
+(Sept. 21, 1950, ch. 967, §2\[11\], 64 Stat. 884; Pub. L. 89–695, title III, §301(c), (d), Oct. 16, 1966, 80 Stat. 1055; Pub. L. 91–151, title I, §7(a)(3), (4), Dec. 23, 1969, 83 Stat. 375; Pub. L. 93–495, title I, §§101(a)(3), 102(a)(3), (4), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(17)–(22), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title XIV, §1401(a), Nov. 10, 1978, 92 Stat. 3712; Pub. L. 96–153, title III, §323(a), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(a)(1)(C), (D), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §103(c), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §113(j), (k), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §§503(a), 507, Aug. 10, 1987, 101 Stat. 629, 634; Pub. L. 101–73, title II, §§201(a), 211–214, title IX, §909, Aug. 9, 1989, 103 Stat. 187, 218–246, 477; Pub. L. 101–647, title XXV, §§2521(a)(1), 2526(a), 2527(a), 2528(a), 2532(b), 2534(a), Nov. 29, 1990, 104 Stat. 4863, 4875, 4877, 4880, 4882; Pub. L. 102–233, title I, §102, title II, §202(a), (b), title III, §302(a), Dec. 12, 1991, 105 Stat. 1761, 1766, 1767; Pub. L. 102–242, title I, §§123(a), 133(a), (e), 141(b), (d), 161(a), (e), title II, §241(c)(1), title III, §311(a)(1), (b)(1), (2), (5)(B), (C), title IV, §§416, 426, 446, Dec. 19, 1991, 105 Stat. 2252, 2270, 2272, 2277, 2285, 2286, 2331, 2363, 2364, 2366, 2376, 2378, 2382; Pub. L. 102–550, title XV, §§1501(a), 1544, title XVI, §§1603(e)(1), 1604(c)(2), 1606(c), 1611(b), Oct. 28, 1992, 106 Stat. 4044, 4069, 4081, 4083, 4088, 4090; Pub. L. 103–66, title III, §3001(a), (b), Aug. 10, 1993, 107 Stat. 336; Pub. L. 103–204, §§3(d), 4(b), 8(a)–(f), (i), 11, 15(b), 16(b), 17(b), 20, 27(b), 38(b), Dec. 17, 1993, 107 Stat. 2379, 2380, 2384–2389, 2399–2401, 2404, 2410, 2416; Pub. L. 103–325, title III, §325, title IV, §411(c)(2)(A), title VI, §602(a)(21)–(33), Sept. 23, 1994, 108 Stat. 2228, 2253, 2289; Pub. L. 103–328, title II, §201(a), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 103–394, title V, §501(c)(2), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 104–208, div. A, title II, §§2602, 2704(d)(1)–(4), (6)(C), (14)(H), (I), 2705, Sept. 30, 1996, 110 Stat. 3009–469, 3009–487, 3009–488, 3009–492, 3009–495; Pub. L. 104–316, title I, §106(i), Oct. 19, 1996, 110 Stat. 3831.)
 
 #### Amendment of Section
 
@@ -2214,7 +2214,7 @@ Subsec. (d)(14)(C). Pub. L. 103–328 added subpar. (C).
 
 Subsec. (d)(16)(B)(iv). Pub. L. 103–325, §602(a)(25), substituted “disposition” for “dispositions”.
 
-Subsec. (e)(8)(D). Pub. L. 103–394 substituted “section 741” for “section 741(7)” in cl. (ii)(I), “section 761” for “section 761(4)” in cl. (iii), “section 101” for “section 101(24)” in cl. (iv), “section 101” for “section 101(41)” incl. (v)(I), and “section 101” for “section 101(50)” in cl. (viii).
+Subsec. (e)(8)(D). Pub. L. 103–394 substituted “section 741” for “section 741(7)” in cl. (ii)(I), “section 761” for “section 761(4)” in cl. (iii), “section 101” for “section 101(24)” in cl. (iv), “section 101” for “section 101(41)” in cl. (v)(I), and “section 101” for “section 101(50)” in cl. (viii).
 
 Subsec. (e)(8)(D)(v)(I). Pub. L. 103–325, §602(a)(26), substituted “title 15),” for “title 15,”.
 
@@ -2268,7 +2268,7 @@ Subsec. (a)(6)(J). Pub. L. 103–204, §8(e), substituted “Subject to subparag
 
 Subsec. (a)(6)(K). Pub. L. 103–204, §8(f), added subpar. (K).
 
-Subsec. (c)(6)(B)(i). Pub. L. 103–204, §27(b)(1), substituted “such date as is determined by the Chairperson of the Thrift Depositor Protection Oversight Board under section 1441a(b)(3)(A)(ii) of this title” for “October 1, 1993”.
+Subsec. (c)(6)(B)(i). Pub. L. 103–204, §27(b)(1), substituted “such date as is determined by the Chairperson of the Thrift Depositor Protection OversightBoard under section 1441a(b)(3)(A)(ii) of this title” for “October 1, 1993”.
 
 Subsec. (c)(6)(B)(ii). Pub. L. 103–204, §27(b)(2), (3), substituted “on or after the date determined by the Chairperson of the Thrift Depositor Protection Oversight Board under section 1441a(b)(3)(A)(ii) of this title” for “after September 30, 1993” and “before such date” for “on or before such date”.
 
@@ -2312,7 +2312,7 @@ Subsec. (t). Pub. L. 102–550, §1544, added subsec. (t).
 
 1991—Subsec. (a)(1). Pub. L. 102–242, §311(b)(1), added par. (1) and struck out former par. (1) which read as follows: “The Corporation shall insure the deposits of all insured depository institutions as provided in this chapter. The maximum amount of the insured deposit of any depositor shall be $100,000.”
 
-Subsec. (a)(2)(A). Pub. L. 102–242, §311(b)(5)(B), in closing provisions, substituted “such depositor shall, forthe purpose of determining the amount of insured deposits under this subsection, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the United States or any public unit referred to in clause (ii), (iii), (iv), or (v) and the deposit of any such depositor shall be insured in an amount not to exceed $100,000 per account” for “his deposit shall be insured” before “in an amount not to exceed $100,000 per account.”
+Subsec. (a)(2)(A). Pub. L. 102–242, §311(b)(5)(B), in closing provisions, substituted “such depositor shall, for the purpose of determining the amount of insured deposits under this subsection, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the United States or any public unit referred to in clause (ii), (iii), (iv), or (v) and the deposit of any such depositor shall be insured in an amount not to exceed $100,000 per account” for “his deposit shall be insured” before “in an amount not to exceed $100,000 per account.”
 
 Subsec. (a)(2)(B). Pub. L. 102–242, §311(b)(5)(C), substituted “(B)” for “(b)” as subpar. designation.
 
@@ -2456,7 +2456,7 @@ Subsec. (i). Pub. L. 96–221, §308(a)(1)(D), substituted “$100,000” for �
 
 Subsec. (c). Pub. L. 95–369, §6(c)(17), inserted “insured Federal branch of a foreign bank” after “any insured national bank”.
 
-Subsec. (e). Pub. L. 95–369, §6(c)(18), (19), inserted “or any insured branch (other than a Federal branch) of a foreign bank” after “(except a District bank)”, and substituted “such insured State bank or insured branch of a foreign bank” for “such insured State bank”.
+Subsec. (e). Pub. L. 95–369, §6(c)(18), (19), inserted “or any insured branch (other than a Federal branch) of aforeign bank” after “(except a District bank)”, and substituted “such insured State bank or insured branch of a foreign bank” for “such insured State bank”.
 
 Subsec. (f). Pub. L. 95–369, §6(c)(20), inserted “or insured branch of a foreign bank” after “Whenever an insured bank”.
 
@@ -2478,7 +2478,7 @@ Subsec. (i). Pub. L. 89–695, §301(d), substituted “$15,000” for “$10,00
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, set out as a note under section 1441a of this title.
+Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, set out as a note under section 1441a of this title. Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -2496,7 +2496,7 @@ Section 3001(c) of Pub. L. 103–66 provided that: “The amendments made by thi
 
 Amendment by section 1501(a) of Pub. L. 102–550 effective Dec. 20, 1992, see section 1501(c) of Pub. L. 102–550, set out as a note under section 1786 of this title.
 
-Amendment by sections 1603(e)(1), 1604(c)(2), and 1606(c) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19,1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
+Amendment by sections 1603(e)(1), 1604(c)(2), and 1606(c) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
 
 Section 1611(b)(2) of Pub. L. 102–550 provided that the amendment made by that section is effective one year after Dec. 19, 1991.
 
@@ -2554,7 +2554,7 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1402 of Pub. 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 101(a)(3) and 102(a)(3), (4) of Pub. L. 93–495 effective on thirtieth day beginning after Oct. 28, 1974, and amendment by section 102(a)(3), (4) of Pub. L. 93–495 not applicable to any claim arising out of the closing of any bank prior to such effective date, see sections 101(g) and 102(a)(3), (4) of Pub. L. 93–495, set out as a note under section 1813 of this title.
+Amendment by sections 101(a)(3) and 102(a)(3), (4) of Pub. L. 93–495 effective on thirtieth day beginning afterOct. 28, 1974, and amendment by section 102(a)(3), (4) of Pub. L. 93–495 not applicable to any claim arising out of the closing of any bank prior to such effective date, see sections 101(g) and 102(a)(3), (4) of Pub. L. 93–495, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -2618,7 +2618,7 @@ In general.—Immediately before the merger of the Bank Insurance Fund and the S
 
 &emsp;“(2)
 
-Definition.—For purposes of this subsection, the term ‘reserve ratio’ means the ratio of the networth of the Savings Association Insurance Fund to the aggregate estimated amount of deposits insured by the Savings Association Insurance Fund.”
+Definition.—For purposes of this subsection, the term ‘reserve ratio’ means the ratio of the net worth of the Savings Association Insurance Fund to the aggregate estimated amount of deposits insured by the Savings Association Insurance Fund.”
 
 #### GAO Report
 
@@ -2658,7 +2658,7 @@ Section 311(d) of Pub. L. 102–242 provided that:
 
 “(1)
 
-In general.—The Federal Deposit Insurance Corporation, in conjunction with such consultants and technical experts as the Corporation determines to be appropriate, shall conduct a study of the cost and feasibility of tracking the insured and uninsured deposits of any individual and the exposure, under any Act of Congress or any regulation of any appropriate Federal banking agency, of the Federal Government with respect to all insured depository institutions.
+In general.—The Federal Deposit Insurance Corporation, in conjunction with such consultants and technical experts as the Corporation determines to be appropriate, shall conduct a study of the cost and feasibility of tracking the insured and uninsured deposits of any individual and the exposure, under any Act ofCongress or any regulation of any appropriate Federal banking agency, of the Federal Government with respect to all insured depository institutions.
 
 “(2)
 
@@ -2722,7 +2722,7 @@ Successor.—An entity is a successor of a failed depository institution during 
 
 &emsp;“(2)
 
-Failed depository institution.—The term ‘failed depository institution’ means any depository institution (as defined in section 3(c) of the FederalDeposit Insurance Act \[12 U.S.C. 1813(c)\]) for which a receiver has been appointed.
+Failed depository institution.—The term ‘failed depository institution’ means any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)\]) for which a receiver has been appointed.
 
 &emsp;“(3)
 

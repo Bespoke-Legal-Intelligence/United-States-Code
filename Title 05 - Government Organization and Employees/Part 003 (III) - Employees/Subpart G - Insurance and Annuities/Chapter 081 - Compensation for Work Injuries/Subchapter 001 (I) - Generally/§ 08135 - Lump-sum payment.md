@@ -8,7 +8,7 @@
 
 &emsp;(3) the Secretary of Labor determines that it is for the best interest of the beneficiary.
 
-> The probability of the death of the beneficiary before the expiration of the period during which he is entitled to compensation shall be determined according to the most current United States Life Tables, as developed by the United States Department of Health, Education, and Welfare, which shall be updated from time to time, but the lump-sum payment to a widow orwidower of the deceased employee may not exceed 60 months’ compensation. The probability of the happening of any other contingency affecting the amount or duration of compensation shall be disregarded.
+> The probability of the death of the beneficiary before the expiration of the period during which he is entitled to compensation shall be determined according to the most current United States Life Tables, as developed by the United States Department of Health, Education, and Welfare, which shall be updated from time to time, but the lump-sum payment to a widow or widower of the deceased employee may not exceed 60 months’ compensation. The probability of the happening of any other contingency affecting the amount or duration of compensation shall be disregarded.
 
 (b) On remarriage before reaching age 55 a widow or widower entitled to compensation under section 8133 of this title, shall be paid a lump sum equal to twenty-four times the monthly compensation payment (excluding compensation on account of another individual) to which he was entitled immediately before the remarriage.
 

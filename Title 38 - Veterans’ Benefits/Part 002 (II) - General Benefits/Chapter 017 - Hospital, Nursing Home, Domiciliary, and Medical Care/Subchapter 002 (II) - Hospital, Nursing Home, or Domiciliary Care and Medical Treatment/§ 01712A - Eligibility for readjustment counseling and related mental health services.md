@@ -34,7 +34,7 @@
 
 (g)(1)(A) Except as provided in subparagraph (C) of this paragraph, the Secretary may close or relocate a center in existence on January 1, 1988, only as described in the national plan required by paragraph (3) of this subsection (or in a revision to such plan under paragraph (4) of this subsection in which the closure or relocation of that center is proposed).
 
-(B) A closure or relocation of a center which is proposed in such national plan may be carried out only after the end of the 120-day period beginning on the date on which the national plan is submitted. A closure or relocation of a center not proposed in such plan may be carried out only after the end of the 60-day period beginning on the date the Secretary submits a revision to such plan in which the closure or relocation of that center is proposed.
+(B) A closure or relocation of a center which is proposed in such national plan may be carried out only after the end of the 120-day period beginning on the date on which the national planis submitted. A closure or relocation of a center not proposed in such plan may be carried out only after the end of the 60-day period beginning on the date the Secretary submits a revision to such plan in which the closure or relocation of that center is proposed.
 
 (C) The Secretary may relocate a center in existence on January 1, 1988, without regard to the national plan (including any revision to such plan) if such relocation is to a new location away from a Department general health-care facility when such relocation is necessitated by circumstances beyond the control of the Department. Such a relocation may be carried out only after the end of the 30-day period beginning on the date on which the Secretary notifies the Committees on Veterans’ Affairs of the Senate and the House of Representatives of the proposed relocation, of the circumstances making it necessary, and of the reason for the selection of the new site for the center.
 
@@ -78,7 +78,7 @@
 
 (i) For the purposes of this section:
 
-&emsp;(1) The term “center” means a facility (including a Resource Center designated under subsection (h)(3)(A) of this section) which is operated by the Department for the provision of services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.
+&emsp;(1) The term “center” means a facility (including a Resource Center designated under subsection (h)(3)(A) of this section) which is operated by the Department for the provisionof services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.
 
 &emsp;(2) The term “Department general health-care facility” means a health-care facility which is operated by the Department for the furnishing of health-care services under this chapter, not limited to services provided through the program established under this section.
 
@@ -152,7 +152,7 @@ Subsec. (i). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for 
 
 &emsp;“(A) the orderly, gradual transition, by October 1, 1989, of that part of the program established under this section for the provision of readjustment counseling services by Veterans’ Administration personnel from a program providing such services primarily through centers located in facilities situated apart from the health-care facilities operated by the Veterans’ Administration for the provision of other health-care services under other provisions of this chapter to a program providing readjustment counseling services primarily through such health-care facilities; and
 
-&emsp;“(B) the continued availability after such date of readjustment counseling and related mental health services under this section to veterans eligible for the provision of such counseling and services who request such counseling.”
+&emsp;“(B) the continued availability after such date of readjustment counseling and related mental healthservices under this section to veterans eligible for the provision of such counseling and services who request such counseling.”
 
 Subsec. (g)(1)(A). Pub. L. 100–687, §1501(a)(1), substituted “Except as provided in subparagraph (C) of this paragraph, the” for “The”.
 
@@ -354,7 +354,7 @@ Considerations.—In developing the plan referred to in subsection (a), the Secr
 
 &emsp;“(6) the treatment needs of veterans suffering from post-traumatic stress disorder who are women, of such veterans who are ethnic minorities (including Native Americans, Native Hawaiians, Asian-Pacific Islanders, and Native Alaskans), and of such veterans who suffer from substance abuse problems in addition to post-traumatic stress disorder; and
 
-&emsp;“(7) the recommendations of the Special Committee on Post-Traumatic-Stress Disorder with respect to (A) specialized inpatient and outpatient programs of the Department for the treatment of post-traumatic stress disorder, and (B) with respect to the establishment of educational programs that are designed foreach of the various levels of education, training, and experience of the various mental health professionals involved in the treatment of veterans suffering from post-traumatic stress disorder.
+&emsp;“(7) the recommendations of the Special Committee on Post-Traumatic-Stress Disorder with respect to (A) specialized inpatient and outpatient programs of the Department for the treatment of post-traumatic stress disorder, and (B) with respect to the establishment of educational programs that are designed for each of the various levels of education, training, and experience of the various mental health professionals involved in the treatment of veterans suffering from post-traumatic stress disorder.
 
 “(c)
 
@@ -394,7 +394,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 “(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department of Veterans Affairs to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department of Veterans Affairs.
 
-“(3) The Special Committee shall also advise the Chief Medical Director \[now Under Secretary for Health\] regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment of PTSD (A) in designated PTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department of Veterans Affairs.
+“(3) The Special Committee shall also advise the Chief Medical Director \[now Under Secretary for Health\] regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment of PTSD (A) in designatedPTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department of Veterans Affairs.
 
 “(4) The Special Committee shall also make recommendations to the Chief Medical Director \[now Under Secretary for Health\] for guidance with respect to PTSD regarding—
 
@@ -428,5 +428,5 @@ Section 103(b) of Pub. L. 96–22, as amended by Pub. L. 102–83, §§5(c)(2), 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1703, 4102A, 4103, 4103A, 4104, 4214, 7306 of this title; title 29 section 1721.
+This section is referred to in sections 1703, 1710, 4102A, 4103, 4103A, 4104, 4214, 7306 of this title; title 29 sections 1721, 2913.
 

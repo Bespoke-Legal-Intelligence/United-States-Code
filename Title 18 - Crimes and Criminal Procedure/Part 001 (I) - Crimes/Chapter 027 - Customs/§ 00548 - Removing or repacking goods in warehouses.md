@@ -4,7 +4,7 @@ Whoever fraudulently conceals, removes, or repacks merchandise in any bonded war
 
 Merchandise so concealed, removed, or repacked, or packages upon which any marks or numbers have been so altered, defaced, or obliterated, shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 717; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

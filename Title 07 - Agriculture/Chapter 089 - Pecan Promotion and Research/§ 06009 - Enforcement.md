@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The district courts of the United States shall have jurisdiction specifically to enforce, and toprevent and restrain a person from violating, this chapter or any plan or regulation issued under this chapter.
+The district courts of the United States shall have jurisdiction specifically to enforce, and to prevent and restrain a person from violating, this chapter or any plan or regulation issued under this chapter.
 
 #### (b) Referral to Attorney General
 

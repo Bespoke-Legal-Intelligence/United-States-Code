@@ -16,7 +16,7 @@ The United States Fish and Wildlife Service established by subsection (b) of thi
 
 All functions and responsibilities placed in the Department of the Interior or any official thereof by this Act shall be included among the functions and responsibilities of the Secretary of the Interior, as the head of the Department, and shall be carried out under his direction pursuant to such procedures or delegations of authority as he may deem advisable and in the public interest.
 
-(Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; Oct. 4, 1961, Pub. L. 87–367, title I, §103(14), 75 Stat. 788; Oct. 11, 1962, Pub. L. 87–793, §607(a)(5), 76 Stat. 849; Apr. 22, 1974, Pub. L. 93–271, §1, 88 Stat. 92.)
+(Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; Pub. L. 87–367, title I, §103(14), Oct. 4, 1961, 75 Stat. 788; Pub. L. 87–793, §607(a)(5), Oct. 11, 1962, 76 Stat. 849; Pub. L. 93–271, §1, Apr. 22, 1974, 88 Stat. 92.)
 
 #### References in Text
 

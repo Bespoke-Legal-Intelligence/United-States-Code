@@ -74,7 +74,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1881\.](Subchapter%20002%20%28II%29%20-%20Trade%20Agreements/Part%20006%20%28VI%29%20-%20General%20Provisions/%C2%A7%2001881%20-%20Most-favored-nation%20principle.md) | Most-favored-nation principle. |
+| [1881\.](Subchapter%20002%20%28II%29%20-%20Trade%20Agreements/Part%20006%20%28VI%29%20-%20General%20Provisions/%C2%A7%2001881%20-%20Normal%20trade%20relations.md) | Normal trade relations. |
 | 1882 to 1884. Repealed. |  |
 | [1885\.](Subchapter%20002%20%28II%29%20-%20Trade%20Agreements/Part%20006%20%28VI%29%20-%20General%20Provisions/%C2%A7%2001885%20-%20Termination%20of%20proclamations.md) | Termination of proclamations. |
 | [1886\.](Subchapter%20002%20%28II%29%20-%20Trade%20Agreements/Part%20006%20%28VI%29%20-%20General%20Provisions/%C2%A7%2001886%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93618%2C%20title%20VI%2C%20%C2%A7602%28d%29%2C%20Jan.%203%2C%201975%2C%2088%20Stat.%202072.md) | Repealed. |

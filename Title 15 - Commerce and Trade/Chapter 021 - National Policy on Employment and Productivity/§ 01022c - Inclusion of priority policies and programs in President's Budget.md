@@ -34,7 +34,7 @@ To contribute to the achievement of the goals under the Full Employment and Bala
 
 &emsp;(L) such other priority policies and programs as the President deems appropriate.
 
-(Feb. 20, 1946, ch. 33, §6, as added Oct. 27, 1978, Pub. L. 95–523, title I, §106, 92 Stat. 1895.)
+(Feb. 20, 1946, ch. 33, §6, as added Pub. L. 95–523, title I, §106, Oct. 27, 1978, 92 Stat. 1895.)
 
 #### References in Text
 

@@ -102,7 +102,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 “(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section.”
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service per</i><i>formed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 
@@ -114,7 +114,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 &emsp;“(A) for periods assumed to be creditable service under section 4048(a) of this title or section 4049(e) of this title, or
 
-&emsp;“(B) for any extra period of creditable service provided under section 4057 of this title for service of aparticipant at an unhealthful post unless the former spouse resided with the participant at that post during that period.”
+&emsp;“(B) for any extra period of creditable service provided under section 4057 of this title for service of a participant at an unhealthful post unless the former spouse resided with the participant at that post during that period.”
 
 1986—Subsecs. (a), (b), (f), (h), (i)(1), (j)(1). Pub. L. 99–335 substituted “part” for “subchapter” wherever appearing.
 

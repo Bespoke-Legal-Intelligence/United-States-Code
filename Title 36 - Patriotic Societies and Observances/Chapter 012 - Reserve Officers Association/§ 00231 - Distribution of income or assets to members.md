@@ -1,6 +1,0 @@
-### §231. Distribution of income or assets to members
-
-No part of the income or assets of the corporation shall inure to any member or officer thereof, or be distributable to any such person except upon dissolution and final liquidation of the corporation when, after the discharge or satisfaction of all outstanding obligations and liabilities, the remaining assets of the corporation shall be divided equally among the then active members and officers.
-
-(June 30, 1950, ch. 431, §11, 64 Stat. 314.)
-

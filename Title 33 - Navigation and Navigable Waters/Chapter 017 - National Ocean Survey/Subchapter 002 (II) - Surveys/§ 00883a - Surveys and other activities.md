@@ -34,7 +34,7 @@ Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amen
 
 “(a)
 
-Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle\[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
+Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle \[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
 
 “(b)
 
@@ -110,7 +110,7 @@ Recovery of Costs.—The costs of reproducing and distributing maps prepared und
 
 #### “SEC. 3204. CONTRACT AUTHORITY.
 
-“The Director may, subject to appropriations, enter into contracts and agreements on a reimbursable or cost-sharing basis with other Federal agencies, State governments, local governments, and private entities, to carry out this subtitle.
+“The Director may, subject to appropriations, enter into contracts and agreements on a reimbursable orcost-sharing basis with other Federal agencies, State governments, local governments, and private entities, to carry out this subtitle.
 
 #### “SEC. 3205. DEFINITIONS.
 

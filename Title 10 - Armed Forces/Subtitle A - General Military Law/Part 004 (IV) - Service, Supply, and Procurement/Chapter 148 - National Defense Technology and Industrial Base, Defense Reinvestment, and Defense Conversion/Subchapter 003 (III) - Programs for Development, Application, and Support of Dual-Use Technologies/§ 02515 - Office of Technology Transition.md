@@ -42,6 +42,10 @@ A prior section 2515, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), 
 
 1996—Subsec. (d). Pub. L. 104–106 substituted “Annual Report” for “Reporting Requirement” in heading, designated existing provisions as par. (1), substituted “The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time” for “The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time”, and added par. (2).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Schedule for Establishment of Office of Technology Transition
 
 Section 4225(b) of Pub. L. 102–484 provided that: “The Office of Technology Transition shall commence operations within 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”

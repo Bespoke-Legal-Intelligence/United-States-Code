@@ -2,7 +2,7 @@
 
 The purpose of this part is to support a comprehensive system for the acquisition and use by elementary and secondary schools in the United States of technology and technology-enhanced curricula, instruction, and administrative support resources and services to improve the delivery of educational services. Such system shall include—
 
-&emsp;(1) national leadership with respect to the need for, and the provision of, appropriate technology-enhanced curriculum, instruction, and administrative programs to improvelearning in the United States, and to promote equal access for all students to educational opportunities in order to achieve the National Education Goals by the year 2000;
+&emsp;(1) national leadership with respect to the need for, and the provision of, appropriate technology-enhanced curriculum, instruction, and administrative programs to improve learning in the United States, and to promote equal access for all students to educational opportunities in order to achieve the National Education Goals by the year 2000;
 
 &emsp;(2) funding mechanisms which will support the development, interconnection, implementation, improvement, and maintenance of an effective educational technology infrastructure, including activities undertaken by State and local educational agencies to promote and provide equipment, training for teachers and school library and media personnel, and technical support;
 
@@ -14,7 +14,7 @@ The purpose of this part is to support a comprehensive system for the acquisitio
 
 &emsp;(6) development and evaluation of new and emerging educational technologies, telecommunications networks, and state-of-the-art educational technology products that promote the use of advanced technologies in the classroom and school library media center;
 
-&emsp;(7) assessment data regarding state-of-the-art uses of technologies in United States education upon which commercial and noncommercial telecommunications entities, and governments can rely for decisionmaking about the need for, and provision of, appropriate technologies for education in the United States;
+&emsp;(7) assessment data regarding state-of-the-art uses of technologies in United States education upon which commercial and noncommercial telecommunications entities, andgovernments can rely for decisionmaking about the need for, and provision of, appropriate technologies for education in the United States;
 
 &emsp;(8) ensuring that uses of educational technology are consistent with the overall national technology policy established by the President, and ensuring that Federal technology-related policies and programs will facilitate the use of technology in education;
 

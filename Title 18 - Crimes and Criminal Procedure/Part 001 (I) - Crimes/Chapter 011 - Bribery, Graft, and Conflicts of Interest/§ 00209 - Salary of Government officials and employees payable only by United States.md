@@ -26,7 +26,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f), is
 
 A prior section 209, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer of a bribe to a witness, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by section 201.
 
-Provisions similar to those comprising this section were contained in section 1914 of this title prior to therepeal of such section and the general amendment of this chapter by Pub. L. 87–849.
+Provisions similar to those comprising this section were contained in section 1914 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
 

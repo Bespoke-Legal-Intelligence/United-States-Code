@@ -12,6 +12,9 @@
 | (b) | Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative agreements to improve Federal programs affecting rural areas; public hearings and comments. |
 | (c) | Rural development strategy and annual updates; preparation and scope; purposes; time for updates; public hearings and suggestions and recommendations; transmittal to Congressional committees; analysis of budgetary considerations and factors; evaluation and recommendations regarding implementation and revisions. |
 | (d) | Strategy implementation; goals. |
+| 2204b–1. | Rural development. |
+| (a) | Congressional commitment. |
+| (b) | Location of Federal facilities. |
 | [2204c.](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md) | Water management for rural areas. |
 | (a) | In general. |
 | (b) | Activities. |
@@ -133,6 +136,7 @@
 | [2268\.](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md) | Public lands; relinquishment. |
 | [2269\.](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md) | Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations. |
 | [2270\.](%C2%A7%2002270%20-%20Authority%20of%20Office%20of%20Inspector%20General.md) | Authority of Office of Inspector General. |
+| [2270a.](%C2%A7%2002270a%20-%20Office%20of%20Inspector%20General%3B%20transfer%20of%20forfeiture%20funds%20for%20law%20enforcement%20activities.md) | Office of Inspector General; transfer of forfeiture funds for law enforcement activities. |
 | [2271\.](%C2%A7%2002271%20-%20Marketing%20education%20programs%20for%20small%20and%20medium%20size%20family%20farm%20operations.md) | Marketing education programs for small and medium size family farm operations. |
 | [2271a.](%C2%A7%2002271a%20-%20Advanced%20marketing%20training%20for%20farmers%20and%20ranchers.md) | Advanced marketing training for farmers and ranchers. |
 | [2272\.](%C2%A7%2002272%20-%20Volunteers%20for%20Department%20of%20Agriculture%20programs.md) | Volunteers for Department of Agriculture programs. |
@@ -181,6 +185,7 @@
 | [2279c.](%C2%A7%2002279c%20-%20Student%20internship%20programs.md) | Student internship programs. |
 | (a) | Student intern subsistence program. |
 | (b) | Cooperation with associations of colleges and universities. |
+| [2279d.](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md) | Compensatory damages in claims under Rehabilitation Act of 1973. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -195,6 +200,7 @@
 - [&sect; 02204 - General duties of Secretary; advisory functions; research and development](%C2%A7%2002204%20-%20General%20duties%20of%20Secretary%3B%20advisory%20functions%3B%20research%20and%20development.md)
 - [&sect; 02204a - Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities](%C2%A7%2002204a%20-%20Rural%20development%3B%20utilization%20of%20non-Federal%20offices%3B%20location%20of%20field%20units%3B%20interchange%20of%20personnel%20and%20facilities.md)
 - [&sect; 02204b - Rural development policy](%C2%A7%2002204b%20-%20Rural%20development%20policy.md)
+- [&sect; 02204b&#8211;1 - Rural development](%C2%A7%2002204b%E2%80%931%20-%20Rural%20development.md)
 - [&sect; 02204c - Water management for rural areas](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md)
 - [&sect; 02204d - Encouragement of private contracting](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md)
 - [&sect; 02204e - Office of Risk Assessment and Cost-Benefit Analysis](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md)
@@ -285,6 +291,7 @@
 - [&sect; 02268 - Public lands; relinquishment](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md)
 - [&sect; 02269 - Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury&#8230;](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md)
 - [&sect; 02270 - Authority of Office of Inspector General](%C2%A7%2002270%20-%20Authority%20of%20Office%20of%20Inspector%20General.md)
+- [&sect; 02270a - Office of Inspector General; transfer of forfeiture funds for law enforcement activities](%C2%A7%2002270a%20-%20Office%20of%20Inspector%20General%3B%20transfer%20of%20forfeiture%20funds%20for%20law%20enforcement%20activities.md)
 - [&sect; 02271 - Marketing education programs for small and medium size family farm operations](%C2%A7%2002271%20-%20Marketing%20education%20programs%20for%20small%20and%20medium%20size%20family%20farm%20operations.md)
 - [&sect; 02271a - Advanced marketing training for farmers and ranchers](%C2%A7%2002271a%20-%20Advanced%20marketing%20training%20for%20farmers%20and%20ranchers.md)
 - [&sect; 02272 - Volunteers for Department of Agriculture programs](%C2%A7%2002272%20-%20Volunteers%20for%20Department%20of%20Agriculture%20programs.md)
@@ -299,3 +306,4 @@
 - [&sect; 02279a - Fair and equitable treatment of socially disadvantaged producers](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md)
 - [&sect; 02279b - Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md)
 - [&sect; 02279c - Student internship programs](%C2%A7%2002279c%20-%20Student%20internship%20programs.md)
+- [&sect; 02279d - Compensatory damages in claims under Rehabilitation Act of 1973](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md)

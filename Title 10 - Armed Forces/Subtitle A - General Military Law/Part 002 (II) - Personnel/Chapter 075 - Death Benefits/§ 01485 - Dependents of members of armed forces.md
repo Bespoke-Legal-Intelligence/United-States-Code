@@ -6,7 +6,7 @@
 
 (c) Reimbursement for mortuary services and supplies furnished under this section shall be collected and credited to appropriations available, at the time of reimbursement, for those services and supplies.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 114; Aug. 28, 1965, Pub. L. 89–150, §1(1), 79 Stat. 585.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 114; Pub. L. 89–150, §1(1), Aug. 28, 1965, 79 Stat. 585.)
 
 Historical and Revision Notes
 

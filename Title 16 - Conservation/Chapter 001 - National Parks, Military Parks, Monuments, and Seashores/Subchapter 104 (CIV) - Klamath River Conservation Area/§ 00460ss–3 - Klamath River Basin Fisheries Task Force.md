@@ -72,7 +72,7 @@ An individual who is a member of the Council is not ineligible for appointment a
 
 #### (1) Procedures
 
-&emsp;The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. Theprocedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
+&emsp;The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. The procedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
 
 #### (2) Chairman
 

@@ -6,7 +6,7 @@ Any labeling, advertisement, or other representation subject to this chapter whi
 
 &emsp;(2) it conforms to the number of generations designated by the certificate, if the certificate contains such a designation.
 
-(Aug. 9, 1939, ch. 615, title I, §102, as added Aug. 1, 1958, Pub. L. 85–581, §4, 72 Stat. 476; amended Oct. 17, 1969, Pub. L. 91–89, §2, 83 Stat. 134; Dec. 24, 1970, Pub. L. 91–577, title III, §142(b), 84 Stat. 1558.)
+(Aug. 9, 1939, ch. 615, title I, §102, as added Pub. L. 85–581, §4, Aug. 1, 1958, 72 Stat. 476; amended Pub. L. 91–89, §2, Oct. 17, 1969, 83 Stat. 134; Pub. L. 91–577, title III, §142(b), Dec. 24, 1970, 84 Stat. 1558.)
 
 #### References in Text
 

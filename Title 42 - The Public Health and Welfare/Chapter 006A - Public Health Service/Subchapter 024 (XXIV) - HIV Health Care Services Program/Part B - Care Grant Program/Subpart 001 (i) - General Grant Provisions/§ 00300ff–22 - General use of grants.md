@@ -14,7 +14,7 @@ A State may use amounts provided under grants made under this part—
 
 > Services described in paragraph (1) shall be delivered through consortia designed as described in paragraph (2), where such consortia exist, unless the State demonstrates to the Secretary that delivery of such services would be more effective when other delivery mechanisms are used. In making a determination regarding the delivery of services, the State shall consult with appropriate representatives of service providers and recipients of services who would be affected by such determination, and shall include in its demonstration to the Secretary the findings of the State regarding such consultation.
 
-(July 1, 1944, ch. 373, title XXVI, §2612, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 586; amended May 20, 1996, Pub. L. 104–146, §3(c)(2), 110 Stat. 1354.)
+(July 1, 1944, ch. 373, title XXVI, §2612, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354.)
 
 #### Codification
 

@@ -18,7 +18,7 @@ This subchapter is referred to in sections 7232, 7341 of this title.
 - [&sect; 07136 - Economic Regulatory Administration; appointment of Administrator; compensation; qualifications; functions](%C2%A7%2007136%20-%20Economic%20Regulatory%20Administration%3B%20appointment%20of%20Administrator%3B%20compensation%3B%20qualifications%3B%20functions.md)
 - [&sect; 07137 - Functions of Comptroller General](%C2%A7%2007137%20-%20Functions%20of%20Comptroller%20General.md)
 - [&sect; 07138 - Repealed. Pub. L. 100&#8211;504, title I, &sect;102(e)(1)(A), Oct. 18, 1988, 102 Stat. 2517](%C2%A7%2007138%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93504%2C%20title%20I%2C%20%C2%A7102%28e%29%281%29%28A%29%2C%20Oct.%2018%2C%201988%2C%20102%20Stat.%202517.md)
-- [&sect; 07139 - Office of Energy Research; establishment; appointment of Director; compensation; duties](%C2%A7%2007139%20-%20Office%20of%20Energy%20Research%3B%20establishment%3B%20appointment%20of%20Director%3B%20compensation%3B%20duties.md)
+- [&sect; 07139 - Office of Science; establishment; appointment of Director; compensation; duties](%C2%A7%2007139%20-%20Office%20of%20Science%3B%20establishment%3B%20appointment%20of%20Director%3B%20compensation%3B%20duties.md)
 - [&sect; 07140 - Leasing Liaison Committee; establishment; composition](%C2%A7%2007140%20-%20Leasing%20Liaison%20Committee%3B%20establishment%3B%20composition.md)
 - [&sect; 07141 - Office of Minority Economic Impact](%C2%A7%2007141%20-%20Office%20of%20Minority%20Economic%20Impact.md)
 - [&sect; 07142 - National Atomic Museum](%C2%A7%2007142%20-%20National%20Atomic%20Museum.md)

@@ -14,7 +14,7 @@ The words defined in this section shall have the following meaning when found in
 
 “Banks” means the types of banks and other financial institutions referred to in section 57a(f)(2) of this title.
 
-(Sept. 26, 1914, ch. 311, §4, 38 Stat. 719; Mar. 21, 1938, ch. 49, §2, 52 Stat. 111; Dec. 19, 1991, Pub. L. 102–242, title II, §212(g)(1), 105 Stat. 2302.)
+(Sept. 26, 1914, ch. 311, §4, 38 Stat. 719; Mar. 21, 1938, ch. 49, §2, 52 Stat. 111; Pub. L. 102–242, title II, §212(g)(1), Dec. 19, 1991, 105 Stat. 2302.)
 
 #### References in Text
 

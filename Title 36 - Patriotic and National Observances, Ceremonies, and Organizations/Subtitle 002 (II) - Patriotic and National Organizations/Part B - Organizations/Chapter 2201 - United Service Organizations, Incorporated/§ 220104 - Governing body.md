@@ -1,0 +1,50 @@
+### §220104. Governing body
+
+(a)
+
+Board of Governors.—(1) The board of governors is the governing body of the corporation. The board is responsible for the general policies and program of the corporation and for the control of the affairs and property of the corporation.
+
+(2) The board shall be elected by the members of the corporation for the term and in the classes provided in the bylaws of the corporation. The board includes—
+
+&emsp;(A) six members appointed by the President;
+
+&emsp;(B) the Secretary of State or the Secretary's designee; and
+
+&emsp;(C) representatives of the civilian organizations listed in section 220102(4) of this title, and of the public at large, as provided in the bylaws.
+
+(3) The corporation may have other governing bodies or committees as provided in the bylaws.
+
+(b)
+
+Officers.—(1) The office of honorary chairman of the corporation shall be offered to the President. On acceptance, the honorary chairman shall be invited to preside at meetings of the corporation that the honorary chairman deems appropriate and convenient.
+
+(2) The corporation may have other officers as provided in the bylaws.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1460.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+220104(a)
+
+36:1305(b), (c).
+
+Dec. 29, 1979, Pub. L. 96–165, §5(b)–(d), 93 Stat. 1270.
+
+220104(b)
+
+36:1305(d).
+
+In subsection (a)(1), the words “The board of governors is the governing body of the corporation” are substituted for “The management of the corporation shall be entrusted to a board of governors” for consistency in the revised title.
+
+In subsection (a)(2), the text of 36:1305(b) (2d sentence) and the word “Thereafter” are omitted as executed and obsolete.
+
+In subsection (b)(1), the word “offered” is substituted for “tendered” to use a more common word.
+

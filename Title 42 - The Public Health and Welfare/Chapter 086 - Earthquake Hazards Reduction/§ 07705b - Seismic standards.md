@@ -58,5 +58,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 23 section 307.
+This section is referred to in title 23 section 502.
 

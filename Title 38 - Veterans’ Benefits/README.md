@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 1997 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 1998 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -5618,7 +5618,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 5 sections 7511, 8347; title 7 section 2012; title 10 sections 1408, 1450, 1451, 12319; title 26 section 6103; title 29 section 1721; title 42 sections 290dd–1, 290dd–2, 410, 424a, 10008; title 50 section 2031.
+This title is referred to in title 5 sections 7511, 8347; title 7 section 2012; title 10 sections 1408, 1450, 1451, 12319; title 26 section 6103; title 29 sections 1721, 2913; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
 
 ### <b>PART I—GENERAL PROVISIONS</b>
 
@@ -5684,7 +5684,7 @@ This title is referred to in title 5 sections 7511, 8347; title 7 section 2012; 
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>71.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20071%20-%20Board%20of%20Veterans%E2%80%99%20Appeals/README.md) | <b>Board of Veterans’ Appeals</b> | <b>7101</b> |
-| [<b>72.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20072%20-%20United%20States%20Court%20of%20Veterans%20Appeals/README.md) | <b>United States Court of Veterans Appeals</b> | <b>7251</b> |
+| [<b>72.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20072%20-%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims/README.md) | <b>United States Court of Appeals for Veterans Claims</b> | <b>7251</b> |
 | [<b>73.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20073%20-%20Veterans%20Health%20Administration%E2%80%94Organization%20and%20Functions/README.md) | <b>Veterans Health Administration—Organization and Functions</b> | <b>7301</b> |
 | [<b>74.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20074%20-%20Veterans%20Health%20Administration%E2%80%94Personnel/README.md) | <b>Veterans Health Administration—Personnel</b> | <b>7401</b> |
 | [<b>76.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/Chapter%20076%20-%20Health%20Professionals%20Educational%20Assistance%20Program/README.md) | <b>Health Professionals Educational Assistance Program</b> | <b>7601</b> |
@@ -5710,6 +5710,8 @@ This title is referred to in title 5 sections 7511, 8347; title 7 section 2012; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted “Appeals for Veterans Claims” for “Veterans Appeals” in item for chapter 72.
 
 1996—Pub. L. 104–204, title IV, §421(b)(2), Sept. 26, 1996, 110 Stat. 2926, added item for chapter 18.
 

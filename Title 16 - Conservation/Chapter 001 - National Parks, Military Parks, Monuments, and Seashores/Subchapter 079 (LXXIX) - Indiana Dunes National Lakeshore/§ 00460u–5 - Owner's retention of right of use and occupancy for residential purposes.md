@@ -14,13 +14,13 @@
 
 (B) The retention of rights under subparagraph (A) shall be available only to individuals who are homeowners of record as of July 1, 1986, who have attained the age of majority as of that date and who make a bona fide written offer not later than July 1, 1991, to sell to the Secretary.
 
-(3)(A) In the case of improved property included within the boundaries of the lakeshore after October 1, 1991, that was not included within such boundaries on or before that date, an individual who is an owner of record of such property as of that date may retain a right of use and occupancy of such improved property for noncommercial residential purposes for a term ending at either of the following:
+(3)(A) In the case of improved property included within the boundaries of the lakeshore after October 1, 1991, that was not included within such boundaries on or before that date, an individual who is an owner of record of such property may retain a right of use and occupancy of such improved property for noncommercial residential purposes for a term ending, subject to subparagraph (B), at either of the following:
 
 &emsp;(i) A fixed term not to extend beyond October 1, 2020, or such lesser fixed term as the owner may elect at the time of acquisition.
 
 &emsp;(ii) A term ending at the death of the owner or the owner's spouse, whichever occurs later. The owner or owners shall elect the term to be reserved.
 
-(B) Subparagraph (A) shall apply only to improved property owned by an individual who—
+(B) Subparagraph (A)(ii) shall apply only to improved property owned by an individual who—
 
 &emsp;(i) was an owner of record of the property as of October 1, 1991;
 
@@ -36,7 +36,7 @@ Upon his determination that the property, or any portion thereof, has ceased to 
 
 With respect to improved properties acquired prior to December 28, 1980, and upon which a valid existing right of use and occupancy has been reserved for a term of not more than twenty years, the Secretary may, in his discretion, extend the term of such retained right for a period of not more than nine years upon receipt of payment prior to September 30, 1983, from the holder of the retained right. The amount of such payment shall be equivalent to the amount discounted from the purchase price paid by the Secretary for the identical period of time under the terms of the original sale adjusted by a general index adopted by the Secretary reflecting overall value trends within Indiana Dunes National Lakeshore between the time of the original sale and the time of the retained right of extension offered by this subsection.
 
-(Pub. L. 89–761, §5, formerly §6, Nov. 5, 1966, 80 Stat. 1311; renumbered §5 and amended Pub. L. 94–549, §1(4), (9), Oct. 18, 1976, 90 Stat. 2529, 2533; Pub. L. 96–612, §1(6), (7), Dec. 28, 1980, 94 Stat. 3576; Pub. L. 99–583, §1(c), Oct. 29, 1986, 100 Stat. 3319; Pub. L. 102–430, §4(b), (c), Oct. 23, 1992, 106 Stat. 2208, 2209.)
+(Pub. L. 89–761, §5, formerly §6, Nov. 5, 1966, 80 Stat. 1311; renumbered §5 and amended Pub. L. 94–549, §1(4), (9), Oct. 18, 1976, 90 Stat. 2529, 2533; Pub. L. 96–612, §1(6), (7), Dec. 28, 1980, 94 Stat. 3576; Pub. L. 99–583, §1(c), Oct. 29, 1986, 100 Stat. 3319; Pub. L. 102–430, §4(b), (c), Oct. 23, 1992, 106 Stat. 2208, 2209; Pub. L. 105–277, div. A, §101(e) \[title I, §141\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–266.)
 
 #### References in Text
 
@@ -47,6 +47,10 @@ The effective date of this sentence, referred to in subsec. (b), probably refers
 A prior section 5 of Pub. L. 89–761 was classified to section 460u–4 of this title, prior to repeal by Pub. L. 94–549, §1(9).
 
 #### Amendments
+
+1998—Subsec. (a)(3)(A). Pub. L. 105–277, §101(e) \[title I, §141(1)\], in introductory provisions, struck out “as of that date” after “record of such property” and inserted “, subject to subparagraph (B),” after “term ending”.
+
+Subsec. (a)(3)(B). Pub. L. 105–277, §101(e) \[title I, §141(2)\], substituted “Subparagraph (A)(ii)” for “Subparagraph (A)” in introductory provisions.
 
 1992—Subsec. (a)(1). Pub. L. 102–430, §4(c), substituted a comma for a period after first reference to “626–91014”.
 

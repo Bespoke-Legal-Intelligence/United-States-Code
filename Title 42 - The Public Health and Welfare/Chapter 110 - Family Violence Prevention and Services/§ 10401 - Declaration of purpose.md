@@ -20,3 +20,7 @@ Par. (2). Pub. L. 102–295, §302(2), inserted “, courts, legal, social serv
 
 Section 301 of title III of Pub. L. 98–457 provided that: “This title \[enacting this chapter\] may be cited as the ‘Family Violence Prevention and Services Act’.”
 
+#### Study of Training Needs of Health Professionals
+
+Pub. L. 105–392, title IV, §407(b), Nov. 13, 1998, 112 Stat. 3589, provided that: “The Secretary of Health and Human Services shall request that the Institute of Medicine conduct a study concerning the training needs of health professionals with respect to the detection and referral of victims of family or acquaintance violence. Not later than 2 years after the date of enactment of this Act \[Nov. 13, 1998\], the Institute of Medicine shall prepare and submit to Congress a report concerning the study conducted under this subsection.”
+

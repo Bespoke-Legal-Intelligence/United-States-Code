@@ -1,6 +1,6 @@
 ### §610. Report to Congress; uncompleted projects; building project surveys
 
-(a) Upon the request of either House of Congress, or any committee thereof, and within a reasonable time, the Administrator shall submit a report showing the location, space, cost, and status, of each public building the construction, alteration, or acquisition of which is to be under authority of this chapter and which was uncompleted as of the date of the request, or as of such other date as the request may designate.
+(a) Upon the request of either House of Congress, or any committee thereof, and within a reasonable time, the Administrator shall submit a report showing the location, space, cost, and status, of each public building the construction, alteration, or acquisition of which is to be underauthority of this chapter and which was uncompleted as of the date of the request, or as of such other date as the request may designate.
 
 (b) The Administrator and the United States Postal Service are authorized and directed to make such building project surveys as may be requested by resolution by either the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, and within a reasonable time shall make a report thereon to the Congress. Such report shall contain all other information required to be included in a prospectus of the proposed public building project under section 606(a) of this title.
 
@@ -18,7 +18,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Transfer of Functions
 
-In subsec. (b), “United States Postal Service” substituted for “Postmaster General” pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a noteunder section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
+In subsec. (b), “United States Postal Service” substituted for “Postmaster General” pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 
 #### Cross References
 

@@ -2,7 +2,7 @@
 
 On and after May 23, 1908, twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term “moneys received” shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
-(May 23, 1908, ch. 192, 35 Stat. 260; Mar. 1, 1911, ch. 186, §13, 36 Stat. 963; June 30, 1914, ch. 131, 38 Stat. 441; Sept. 21, 1944, ch. 412, title II, §212, 58 Stat. 737; Apr. 24, 1950, ch. 97, §17(b), 64 Stat. 87; Oct. 22, 1976, Pub. L. 94–588, §16, 90 Stat. 2961.)
+(May 23, 1908, ch. 192, 35 Stat. 260; Mar. 1, 1911, ch. 186, §13, 36 Stat. 963; June 30, 1914, ch. 131, 38 Stat. 441; Sept. 21, 1944, ch. 412, title II, §212, 58 Stat. 737; Apr. 24, 1950, ch. 97, §17(b), 64 Stat. 87; Pub. L. 94–588, §16, Oct. 22, 1976, 90 Stat. 2961.)
 
 #### References in Text
 
@@ -30,7 +30,7 @@ July 1, 1941, ch. 267, 55 Stat. 423.
 
 #### Amendments
 
-1976—Pub. L. 94–588 inserted provision that beginning Oct. 1, 1976, the term “moneys received” would include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract, and that the Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
+1976—Pub. L. 94–588 inserted provision that beginning Oct. 1, 1976, the term “moneys received” would includeall collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract, and that the Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
 1950—Act Apr. 24, 1950, struck out second proviso relating to limitation paid county.
 
@@ -60,7 +60,7 @@ Applicable percentage.—The term ‘applicable percentage’ means—
 
 &emsp;“(2) 25-
 
-percent payments to states.—The term ‘25-percent payments to States’ means the 25 percentpayments authorized by the Act of May 23, 1908 (35 Stat. 260, chapter 192; 16 U.S.C. 500) for the States of Washington, Oregon, and California for the benefit of counties in which national forests are situated and that are affected by decisions related to the northern spotted owl.
+percent payments to states.—The term ‘25-percent payments to States’ means the 25 percent payments authorized by the Act of May 23, 1908 (35 Stat. 260, chapter 192; 16 U.S.C. 500) for the States of Washington, Oregon, and California for the benefit of counties in which national forests are situated and that are affected by decisions related to the northern spotted owl.
 
 &emsp;“(3)
 
@@ -112,5 +112,5 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1402.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 90d, 253, 460p–2, 460bbb–10, 472a, 499, 508b, 544<i>l</i>, 577g, 577g–1, 580k, 1683 of this title; title 7 section 6617; title 31 section 6903.
+This section is referred to in sections 90d, 253, 460p–2, 460bbb–10, 460<i>lll</i>–12, 472a, 508b, 535a, 544<i>l</i>, 577g, 577g–1, 580k, 1683 of this title; title 7 section 6617; title 31 section 6903.
 

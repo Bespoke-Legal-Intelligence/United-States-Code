@@ -16,7 +16,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 &emsp;(B) the pizzas are to be served in public or private nonprofit institutions.
 
-(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect publichealth. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
+(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect public health. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
 
 #### (d) Adulteration and misbranding provisions applicable to inspection-free articles
 

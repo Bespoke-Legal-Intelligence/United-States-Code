@@ -16,6 +16,10 @@ Congress finds that—
 
 (Pub. L. 103–55, §2, July 28, 1993, 107 Stat. 276.)
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–287, §1, Oct. 27, 1998, 112 Stat. 2776, provided that: “This Act \[amending section 5902 of this title and enacting provisions set out as a note under section 5902 of this title\] may be cited as the ‘Armored Car Reciprocity Amendments of 1998’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 103–55 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Armored Car Industry Reciprocity Act of 1993’.”

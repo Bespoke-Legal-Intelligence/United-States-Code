@@ -22,3 +22,7 @@ In approving such plans, the Secretary shall ensure—
 
 The Indian Judgment Funds Use or Distribution Act, referred to in subsec. (b), probably means the Indian Tribal Judgment Funds Use or Distribution Act, Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, as amended, which is classified generally to chapter 16 (§1401 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1300d–24 of this title.
+

@@ -12,7 +12,7 @@ As a condition of receipt of funds under this subchapter, a State shall assure t
 
 As a condition of receipt of funds under this subchapter, a local government or private nonprofit entity shall assure the Secretary that services funded under this subchapter will be integrated with each other, that programs will be coordinated with other available programs (including Medicaid) and that the continuity of care of individuals with HIV is enhanced.
 
-(July 1, 1944, ch. 373, title XXVI, §2675, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §401, 104 Stat. 620; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(34), 106 Stat. 3506.)
+(July 1, 1944, ch. 373, title XXVI, §2675, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 102–531, title III, §312(d)(34), Oct. 27, 1992, 106 Stat. 3506.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ The withdrawals and reservations of the public lands made by Public Land Orders 
 
 #### (b) Effective date
 
-This section shall become effective upon the relinquishment by the State of Alaska of selections made on November 14, 1978, pursuant to the Alaska Statehood Act which are located within the boundaries of conservation system units, national conservation areas, national recreation areas, and forest additions, established, designated, or expanded by this Act.
+This section shall become effective upon the relinquishment by the State of Alaska of selections made on November 14, 1978, pursuant to the Alaska Statehood Act which are located within the boundaries of conservation systemunits, national conservation areas, national recreation areas, and forest additions, established, designated, or expanded by this Act.
 
 (Pub. L. 96–487, title XIII, §1322, Dec. 2, 1980, 94 Stat. 2487.)
 

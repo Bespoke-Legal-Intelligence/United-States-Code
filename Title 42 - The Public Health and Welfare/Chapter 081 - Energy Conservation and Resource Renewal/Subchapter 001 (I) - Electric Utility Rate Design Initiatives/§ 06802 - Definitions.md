@@ -16,9 +16,11 @@ As used in this subchapter:
 
 &emsp;(7) The term “utility regulatory commission” means any State agency or Federal agency which has authority to fix, modify, approve, or disapprove rates for the sale of electric energy by any electric utility (other than by such agency).
 
-(Pub. L. 94–385, title II, §202, Aug. 14, 1976, 90 Stat. 1142; Pub. L. 95–617, title I, §143, Nov. 9, 1978, 92 Stat. 3134.)
+(Pub. L. 94–385, title II, §202, Aug. 14, 1976, 90 Stat. 1142; Pub. L. 95–617, title I, §143, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 105–388, §5(b)(2), Nov. 13, 1998, 112 Stat. 3479.)
 
 #### Amendments
+
+1998—Par. (1). Pub. L. 105–388 made technical amendment by striking heading and designation which had been inserted by Pub. L. 95–617.
 
 1978—Par. (1). Pub. L. 95–617 substituted “The term ‘Secretary’ means the Secretary of Energy” for “The term ‘Administrator’ means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this subchapter”.
 

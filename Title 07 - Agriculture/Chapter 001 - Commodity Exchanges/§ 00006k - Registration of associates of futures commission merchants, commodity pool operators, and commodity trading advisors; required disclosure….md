@@ -10,7 +10,7 @@
 
 (5) It shall be unlawful for any registrant to permit a person to become or remain an associated person of such registrant, if the registrant knew or should have known of facts regarding such associated person that are set forth as statutory disqualifications in section 12a(2) of this title, unless such registrant has notified the Commission of such facts and the Commission has determined that such person should be registered or temporarily licensed.
 
-(Sept. 21, 1922, ch. 369, §4k, as added Oct. 23, 1974, Pub. L. 93–463, title II, §204(a), 88 Stat. 1396; amended Sept. 30, 1978, Pub. L. 95–405, §7, 92 Stat. 869; Jan. 11, 1983, Pub. L. 97–444, title II, §212, 96 Stat. 2303.)
+(Sept. 21, 1922, ch. 369, §4k, as added Pub. L. 93–463, title II, §204(a), Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 95–405, §7, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §212, Jan. 11, 1983, 96 Stat. 2303.)
 
 #### Amendments
 

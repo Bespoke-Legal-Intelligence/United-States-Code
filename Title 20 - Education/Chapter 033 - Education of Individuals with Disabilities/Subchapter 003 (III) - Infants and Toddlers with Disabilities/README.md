@@ -1,12 +1,8 @@
 ### SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES
 
-#### Codification
-
-Part C of the Individuals with Disabilities Education Act (part C of title VI of Pub. L. 91–230), comprising this subchapter, was originally enacted by Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 175, and amended by Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 95–49, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, Dec. 2, 1983, 97 Stat. 1357; Pub. L. 99–457, Oct. 8, 1986, 100 Stat. 1145; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–421, Oct. 16, 1992, 106 Stat. 2151; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. Such part is shown herein, however, as having been added by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37, without reference to such intervening amendments. The prior part C, which was classified to former subchapter III (§§1421–1427) of this chapter, was repealed by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
-
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1406, 1408, 1409, 1411, 1412, 1418, 1419, 1421, 1424a, 1452, 1454, 1461, 1491n of this title; title 42 section 6024.
+This subchapter is referred to in sections 1406, 1411, 1412, 1418, 1419, 1452, 1454, 1461, 1473, 1474, 1481, 1482 of this title; title 42 section 6024.
 
 
 ---

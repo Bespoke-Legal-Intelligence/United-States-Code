@@ -1,6 +1,0 @@
-### §169e. Steelmark Month
-
-The month of May of each year is hereby designated as “Steelmark Month” in recognition of the tremendous contribution made by the steel industry in the United States to the national security and defense of our country. The President is requested to issue a proclamation calling upon all people of the United States for the observance of such month with appropriate proceedings and ceremonies.
-
-(Pub. L. 89–703, Nov. 2, 1966, 80 Stat. 1099.)
-

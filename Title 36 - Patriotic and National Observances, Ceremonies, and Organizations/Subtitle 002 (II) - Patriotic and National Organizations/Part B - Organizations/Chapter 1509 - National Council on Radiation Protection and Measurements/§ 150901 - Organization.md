@@ -1,0 +1,30 @@
+### §150901. Organization
+
+(a)
+
+Federal Charter.—National Council on Radiation Protection and Measurements (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b)
+
+Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1395.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+150901
+
+36:4501.
+
+July 14, 1964, Pub. L. 88–376, §1, 78 Stat. 320.
+
+This section is substituted for the source provision for consistency in the revised title and to eliminate unnecessary and executed words.
+

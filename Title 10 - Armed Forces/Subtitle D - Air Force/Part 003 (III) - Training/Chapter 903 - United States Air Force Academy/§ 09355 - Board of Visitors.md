@@ -26,7 +26,7 @@
 
 (h) While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Dec. 23, 1980, Pub. L. 96–579, §13(c), 94 Stat. 3369; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), 110 Stat. 443, 503.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Pub. L. 96–579, §13(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503.)
 
 Historical and Revision Notes
 
@@ -91,4 +91,8 @@ In subsection (h), the words “called for consultation by the Board in connecti
 Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

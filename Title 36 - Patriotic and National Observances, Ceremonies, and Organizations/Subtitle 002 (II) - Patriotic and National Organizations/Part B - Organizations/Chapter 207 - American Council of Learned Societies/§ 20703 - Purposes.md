@@ -1,0 +1,28 @@
+### §20703. Purposes
+
+The purposes of the corporation are as provided in the articles of incorporation and include—
+
+&emsp;(1) the advancement of the humanistic studies in all fields of learning; and
+
+&emsp;(2) the maintenance and strengthening of relations among the national societies devoted to those studies.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1289.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+20703
+
+36:1903.
+
+June 1, 1982, Pub. L. 97–192, §3, 96 Stat. 109.
+
+The word “objects” is omitted as included in “purposes”. The words “and the corporation shall function as authorized by the laws of the State or States where it is incorporated” are omitted as unnecessary.
+

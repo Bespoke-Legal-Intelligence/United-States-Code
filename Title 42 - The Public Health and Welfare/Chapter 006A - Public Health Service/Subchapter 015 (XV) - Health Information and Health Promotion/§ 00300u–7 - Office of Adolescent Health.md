@@ -50,7 +50,7 @@ For purposes of this section, the term “adolescent health”, with respect to 
 
 &emsp;(3) with respect to which there has been insufficient clinical research involving adolescents as subjects or insufficient clinical data on adolescents.
 
-(July 1, 1944, ch. 373, title XVII, §1708, as added Oct. 27, 1992, Pub. L. 102–531, title III, §302, 106 Stat. 3483.)
+(July 1, 1944, ch. 373, title XVII, §1708, as added Pub. L. 102–531, title III, §302, Oct. 27, 1992, 106 Stat. 3483.)
 
 #### Prior Provisions
 

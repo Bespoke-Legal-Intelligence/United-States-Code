@@ -18,7 +18,7 @@
 
 (3) The United States Postal Service shall pay the contributions required under this subsection with respect to any individual who—
 
-&emsp;(A) first becomes an annuitant by reason of retirement from employment with the UnitedStates Postal Service after December 31, 1989; or
+&emsp;(A) first becomes an annuitant by reason of retirement from employment with the United States Postal Service after December 31, 1989; or
 
 &emsp;(B) commences receiving compensation under subchapter I of chapter 81 of this title (because of disease or injury to the individual) after December 31, 1989, if the position last held by the individual before commencing to receive such compensation was within the United States Postal Service.
 

@@ -34,11 +34,33 @@ Pub. L. 99–570, title VI, §6001, Oct. 27, 1986, 100 Stat. 3207–157, provide
 
 For assignment of certain emergency preparedness functions to the Director of the Office of Personnel Management, see Parts 1, 2, and 22 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
+#### Continuation of Random Drug Testing Program for Certain Department of Defense Employees
+
+Pub. L. 105–261, div. A, title XI, §1108, Oct. 17, 1998, 112 Stat. 2142, provided that:
+
+“(a)
+
+Continuation of Existing Program.—The Secretary of Defense shall continue to actively carry out the drug testing program, originally required by section 3(a) of Executive Order No. 12564 (51 Fed. Reg. 32889; September 15, 1986) \[set out below\], involving civilian employees of the Department of Defense who are considered to be employees in sensitive positions. The Secretary shall comply with the drug testing procedures prescribed pursuant to section 4 of the Executive order.
+
+“(b)
+
+Testing Upon Reasonable Suspicion of Illegal Drug Use.—The Secretary of Defense shall ensure that the drug testing program referred to in subsection (a) authorizes the testing of a civilian employee of the Department of Defense for illegal drug use when there is a reasonable suspicion that the employee uses illegal drugs.
+
+“(c)
+
+Notification to Applicants.—The Secretary of Defense shall notify persons who apply for employment with the Department of Defense that, as a condition of employment by the Department, the person may be required to submit to drug testing under the drug testing program required by Executive Order No. 12564 (51 Fed. Reg. 32889; September 15, 1986) pursuant to the terms of the Executive order.
+
+“(d)
+
+Definitions.—In this section, the terms ‘illegal drugs’ and ‘employee in a sensitive position’ have the meanings given such terms in section 7 of Executive Order No. 12564 (51 Fed. Reg. 32889; September 15, 1986).”
+
 #### Annual Certification of Drug-Free Workplace Plan Administrators
 
-Pub. L. 105–61, title VI, §621, Oct. 10, 1997, 111 Stat. 1313, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
+Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §634\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 105–61, title VI, §621, Oct. 10, 1997, 111 Stat. 1313.
 
 Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §623\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–358.
 
@@ -60,7 +82,7 @@ Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, u
 
 #### Agency Acceptance of Donations for Federal Employees
 
-Pub. L. 102–368, title XI, §901, Sept. 23, 1992, 106 Stat. 1156, effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity within areas designated as disaster areas pursuant to President's declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
+Pub. L. 102–368, title XI, §901, Sept. 23, 1992, 106 Stat. 1156, effective through Sept. 30, 1993, authorized Federal agencies to accept gifts of property, money, or anything else of value from non-Federal sources for extraordinary and unanticipated expenses incurred by agency employees in their personal capacity withinareas designated as disaster areas pursuant to President's declaration of a disaster resulting from Hurricane Andrew, Typhoon Omar, and Hurricane Iniki, directed agencies to establish written procedures to implement this program, and authorized agencies to accept gifts designated for individual employees.
 
 #### Restriction on Availability of Funds To Administer or Implement Drug Testing
 
@@ -464,7 +486,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, provided:
 
-By the authority vested in me as President of the United States by the Constitution and laws of the United States of America, including section 301 of title3, United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Ethics Pledges</i>. (a) Every senior appointee in every executive agency appointed on or after January 20, 1993, shall sign, and upon signing shall be contractually committed to, the following pledge (“senior appointee pledge”) upon becoming a senior appointee:
 
@@ -568,7 +590,7 @@ Sec. 4. <i>Administration</i>. (a) The head of every executive agency shall esta
 
 (d) In order to promote clarity and fairness in the application of paragraph 3 of the senior appointee pledge:
 
-(1) the Attorney General shall, within six months after the issuance of this order, publish in the Federal Register a “Statement of Covered Activities,” based on the statute, applicable regulations and published guidelines, and any other material reflecting the Attorney General's current interpretation of the law, describing in sufficient detail to provide adequate guidance the activities on behalf of a foreign government or foreign political party which, if undertaken as of January 20, 1993, would require a person to register as an agent for such foreign government or political party under the Foreign Agents Registration Act of 1938, as amended; and
+(1) the Attorney General shall, within six months after the issuance of this order, publish in the Federal Register a “Statement of Covered Activities,” based on the statute, applicable regulations and published guidelines, and any other material reflecting the Attorney General's current interpretation of the law, describing in sufficient detail to provide adequate guidance the activities on behalf of a foreign government or foreign political party which, if undertaken as of January 20,1993, would require a person to register as an agent for such foreign government or political party under the Foreign Agents Registration Act of 1938, as amended; and
 
 (2) the Attorney General's “Statement of Covered Activities” shall be presumed to be the definitive statement of the activities in which the senior appointee agrees not to engage under paragraph 3 of the pledge.
 

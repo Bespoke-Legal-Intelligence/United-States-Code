@@ -156,11 +156,11 @@ The Secretary shall make grants to the States, based on the population of childr
 
 #### (i) Establishment of panels by States receiving minimum allotment
 
-&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section 5116b(b)(1)(A) of this title for a fiscal year shall establish not less than 1 citizen review panel.
+&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section5116b(b)(1)(A) of this title for a fiscal year shall establish not less than 1 citizen review panel.
 
 #### (ii) Designation of existing entities
 
-&emsp;&emsp;&emsp;A State may designate as panels for purposes of this subsection one or more existing entities established under State orFederal law, such as child fatality panels or foster care review panels, if such entities have the capacity to satisfy the requirements of paragraph (4) and the State ensures that such entities will satisfy such requirements.
+&emsp;&emsp;&emsp;A State may designate as panels for purposes of this subsection one or more existing entities established under State or Federal law, such as child fatality panels or foster care review panels, if such entities have the capacity to satisfy the requirements of paragraph (4) and the State ensures that such entities will satisfy such requirements.
 
 #### (2) Membership
 
@@ -248,13 +248,13 @@ Each State to which a grant is made under this section shall annually work with 
 
 &emsp;(10) The number of child protective services workers responsible for intake, assessment, and investigation of child abuse and neglect reports relative to the number of reports investigated in the previous year.
 
-&emsp;(11) The number of children reunited with their families or receiving family preservation services that, within five years, result in subsequent substantiated reports of child abuse and neglect, including the death of the child.
+&emsp;(11) The number of children reunited with their families or receiving family preservationservices that, within five years, result in subsequent substantiated reports of child abuse and neglect, including the death of the child.
 
 &emsp;(12) The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
 
 #### (e) Annual report by Secretary
 
-Within 6 months after receiving the State reports under subsection (d) of this section, theSecretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse.
+Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse.
 
 (Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079.)
 

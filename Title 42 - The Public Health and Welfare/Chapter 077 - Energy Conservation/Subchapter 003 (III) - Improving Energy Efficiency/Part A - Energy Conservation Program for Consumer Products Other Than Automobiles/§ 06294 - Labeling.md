@@ -10,7 +10,7 @@
 
 (C)(i) Not later than 18 months after October 24, 1992, the Commission shall prescribe labeling rules under this section applicable to general service fluorescent lamps, medium base compact fluorescent lamps, and general service incandescent lamps. Except as provided in clause (ii), such rules shall provide that the labeling of any general service fluorescent lamp, medium base compact fluorescent lamp, and general service incandescent lamp manufactured after the 12-month period beginning on the date of the publication of such rule shall indicate conspicuously on the packaging of the lamp, in a manner prescribed by the Commission under subsection (b) of this section, such information as the Commission deems necessary to enable consumers to select the most energy efficient lamps which meet their requirements. Labeling information for incandescent lamps shall be based on performance when operated at 120 volts input, regardless of the rated lamp voltage.
 
-(ii) If the Secretary determines that compliance with the standards specified in section 6295(j) of this title for any lamp will result in the discontinuance of the manufacture of such lamp, the Commission may exempt such lamp from the labeling rules prescribed under clause (i).
+(ii) If the Secretary determines that compliance with the standards specified in section 6295(i) of this title for any lamp will result in the discontinuance of the manufacture of such lamp, the Commission may exempt such lamp from the labeling rules prescribed under clause (i).
 
 (D)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
@@ -112,7 +112,7 @@ The Secretary and the Commission shall consult with each other on a continuing b
 
 Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
 
-(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822.)
+(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### References in Text
 
@@ -121,6 +121,8 @@ This chapter, referred to in subsecs. (a)(2)(D)(ii), (E)(ii) and (c)(8)(C), was 
 The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(2)(C)(ii). Pub. L. 105–388 substituted “section 6295(i)” for “section 6295(j)”.
 
 1992—Subsec. (a)(2)(C) to (E). Pub. L. 102–486, §123(e)(1), added subpars. (C) to (E).
 

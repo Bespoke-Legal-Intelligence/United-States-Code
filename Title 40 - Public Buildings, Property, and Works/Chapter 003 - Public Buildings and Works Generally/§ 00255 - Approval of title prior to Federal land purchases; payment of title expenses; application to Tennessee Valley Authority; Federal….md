@@ -42,5 +42,5 @@ Purchase contract agreements, applicability of section to, see section 356 of th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 356 of this title; title 7 section 2250a; title 10 sections 2852, 18239; title 16 sections 343b, 430a, 441i, 571c; title 22 section 1471; title 36 section 138b; title 38 section 115; title 42 sections 1502, 1594a, 2224, 5196; title 50 App. section 460.
+This section is referred to in section 356 of this title; title 7 section 2250a; title 10 sections 2852, 18239; title 16 sections 343b, 430a, 441i, 571c; title 22 section 1471; title 36 section 2103; title 38 section 115; title 42 sections 1502, 1594a, 2224, 5196; title 50 App. section 460.
 

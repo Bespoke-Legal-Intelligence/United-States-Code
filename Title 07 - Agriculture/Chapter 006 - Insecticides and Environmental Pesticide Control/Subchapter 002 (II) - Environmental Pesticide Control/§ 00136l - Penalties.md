@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who violates any provision of this subchapter may be assessed a civil penalty by the Administrator of not more than $5,000 for each offense.
+&emsp;Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who violates any provision of this subchapter may be assessed a civil penalty by theAdministrator of not more than $5,000 for each offense.
 
 #### (2) Private applicator
 
@@ -42,7 +42,7 @@
 
 &emsp;When construing and enforcing the provisions of this subchapter, the act, omission, or failure of any officer, agent, or other person acting for or employed by any person shall in every case be also deemed to be the act, omission, or failure of such person as well as that of the person employed.
 
-(June 25, 1947, ch. 125, §14, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 992; amended Sept. 30, 1978, Pub. L. 95–396, §17, 92 Stat. 832; Oct. 25, 1988, Pub. L. 100–532, title VI, §604, 102 Stat. 2678; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(8), 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §14, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 992; amended Pub. L. 95–396, §17, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §604, Oct. 25, 1988, 102 Stat. 2678; Pub. L. 102–237, title X, §1006(a)(8), Dec. 13, 1991, 105 Stat. 1895.)
 
 #### Amendments
 

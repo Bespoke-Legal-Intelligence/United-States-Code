@@ -6,7 +6,7 @@ The Coast Guard may expend operating expense funds for recruiting activities, in
 
 &emsp;(2) gain support of recruiting objectives from those who may assist in the recruiting effort.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 531; Oct. 19, 1996, Pub. L. 104–324, title II, §206(b), 110 Stat. 3908.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 531; Pub. L. 104–324, title II, §206(b), Oct. 19, 1996, 110 Stat. 3908.)
 
 #### Historical and Revision Notes
 

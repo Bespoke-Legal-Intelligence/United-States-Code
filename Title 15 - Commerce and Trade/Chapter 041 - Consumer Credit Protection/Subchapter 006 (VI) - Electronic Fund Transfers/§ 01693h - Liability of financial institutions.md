@@ -2,7 +2,7 @@
 
 #### (a) Action or failure to act proximately causing damages
 
-Subject to subsections (b) and (c) of this section, a financial institution shall be liable to aconsumer for all damages proximately caused by—
+Subject to subsections (b) and (c) of this section, a financial institution shall be liable to a consumer for all damages proximately caused by—
 
 &emsp;(1) the financial institution's failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timely manner when properly instructed to do so by the consumer, except where—
 

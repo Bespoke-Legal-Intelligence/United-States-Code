@@ -18,7 +18,7 @@ The Secretary may not pay a claim under subsection (a) that—
 
 A claim may be paid under this section only if the claimant accepts the amount of settlement in complete satisfaction of the claim.
 
-(June 17, 1930, ch. 497, title IV, §630, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §670, 107 Stat. 2216.)
+(June 17, 1930, ch. 497, title IV, §630, as added Pub. L. 103–182, title VI, §670, Dec. 8, 1993, 107 Stat. 2216.)
 
 #### Section Referred to in Other Sections
 

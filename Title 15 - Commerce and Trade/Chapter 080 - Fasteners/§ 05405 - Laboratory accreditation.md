@@ -36,7 +36,7 @@ Existing Institute accreditation procedures stated in part 7 of title 15, Code o
 
 #### (e) Recommendations to consensus standards organizations
 
-The Director shall periodically transmit to appropriate consensus standards organizations any information or recommendations that may be useful in the establishment or application bysuch organizations of standards and specifications for fasteners.
+The Director shall periodically transmit to appropriate consensus standards organizations any information or recommendations that may be useful in the establishment or application by such organizations of standards and specifications for fasteners.
 
 (Pub. L. 101–592, §6, Nov. 16, 1990, 104 Stat. 2947; Pub. L. 104–113, §11(e), Mar. 7, 1996, 110 Stat. 781.)
 

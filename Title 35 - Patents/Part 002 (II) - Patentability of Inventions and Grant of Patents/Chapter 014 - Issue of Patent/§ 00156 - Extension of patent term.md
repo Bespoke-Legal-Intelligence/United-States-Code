@@ -120,7 +120,7 @@
 
 &emsp;(i) in the case of a patent which claims a product, be limited to any use then under regulatory review;
 
-&emsp;(ii) in the case of a patent which claims a method of using a product, be limited to anyuse claimed by the patent then under regulatory review; and
+&emsp;(ii) in the case of a patent which claims a method of using a product, be limited to any use claimed by the patent then under regulatory review; and
 
 &emsp;(iii) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make the product then under regulatory review.
 
@@ -204,7 +204,7 @@
 
 &emsp;(6) A period determined under any of the preceding paragraphs is subject to the following limitations:
 
-&emsp;&emsp;(A) If the patent involved was issued after the date of the enactment of this section, the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
+&emsp;&emsp;(A) If the patent involved was issued after the date of the enactment of this section,the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
 
 &emsp;&emsp;(B) If the patent involved was issued before the date of the enactment of this section and—
 
@@ -228,7 +228,7 @@ The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), and (g)(2)(B), (3)(B)(ii), (6)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i) and (f)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i) and (f)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Sections 503, 505, 512, and 515 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B) and (g)(1)(B), (3)(B), are classified, respectively, to sections 353, 355, 360b, and 360e of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to section 357 of Title 21, prior to repeal by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
@@ -290,7 +290,7 @@ Subsec. (f)(1)(A). Pub. L. 100–670, §201(g)(1), struck out “human” before
 
 Subsec. (f)(2). Pub. L. 100–670, §201(g)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘human drug product’ means the active ingredient of a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act) including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.”
 
-Subsec. (f)(4)(B), (C). Pub. L. 100–670, §201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Priorto amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
+Subsec. (f)(4)(B), (C). Pub. L. 100–670, §201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Prior to amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
 
 Subsec. (f)(7), (8). Pub. L. 100–670, §201(g)(3), added pars. (7) and (8).
 

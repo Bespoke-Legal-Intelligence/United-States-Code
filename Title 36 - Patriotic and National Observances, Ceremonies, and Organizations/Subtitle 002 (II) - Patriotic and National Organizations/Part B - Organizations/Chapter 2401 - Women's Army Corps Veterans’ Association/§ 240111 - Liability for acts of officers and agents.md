@@ -1,0 +1,22 @@
+### §240111. Liability for acts of officers and agents
+
+The corporation is liable for the acts of its officers or agents acting within the scope of their authority.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1490.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+240111
+
+36:3109.
+
+Oct. 30, 1984, Pub. L. 98–584, §9, 98 Stat. 3098.
+

@@ -10,7 +10,7 @@ Annual reports.—The Secretary shall require Class I and Class II motor carrier
 
 &emsp;(2)
 
-Other reports.—The Secretary may require motor carriers, freight forwarders, brokers, lessors, and associations, or classes of them as the Secretary may prescribe, to file quarterly, periodic, or special reports with theSecretary and to respond to surveys concerning their operations.
+Other reports.—The Secretary may require motor carriers, freight forwarders, brokers, lessors, and associations, or classes of them as the Secretary may prescribe, to file quarterly, periodic, or special reports with the Secretary and to respond to surveys concerning their operations.
 
 (b)
 
@@ -38,7 +38,7 @@ From public release.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall allow, upon request, a filer of a report under subsection (a) that is not a publicly held corporation or that is not subject to financial reporting requirements of the Securities and Exchange Commission, an exemption from the public release of such report.
+In general.—The Secretary shall allow, upon request, a filer of a report undersubsection (a) that is not a publicly held corporation or that is not subject to financial reporting requirements of the Securities and Exchange Commission, an exemption from the public release of such report.
 
 &emsp;&emsp;(B)
 

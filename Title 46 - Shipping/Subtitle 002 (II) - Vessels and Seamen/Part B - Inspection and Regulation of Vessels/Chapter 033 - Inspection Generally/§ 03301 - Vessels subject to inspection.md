@@ -112,6 +112,24 @@ Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 
 Pub. L. 98–498, title II, §210, Oct. 19, 1984, 98 Stat. 2303, provided that: “This subtitle \[subtitle A (§§210–214) of title II of Pub. L. 98–498, enacting section 2306 of this title, amending sections 2301, 3309, 3311, 3318, 6101, and 6103 of this title and section 183 of the Appendix to this title, and enacting provisions set out as notes under section 2306 of this title and section 183 of the Appendix to this title\] may be cited as the ‘Maritime Safety Act of 1984’.”
 
+#### Pilot Program
+
+Pub. L. 105–383, title IV, §412(b), Nov. 13, 1998, 112 Stat. 3432, provided that:
+
+“(1)
+
+In general.—The Secretary may establish a pilot program to exempt a vessel of at least 300 gross tons as measured under chapter 143 or chapter 145 of title 46, United States Code, from the requirement to be inspected under section 3301(7) of title 46, United States Code, as a seagoing motor vessel, if—
+
+&emsp;“(A) the vessel does not carry any cargo or passengers for hire;
+
+&emsp;“(B) the vessel does not engage in commercial service, commercial fisheries, or oceanographic research; and
+
+&emsp;“(C) the vessel does not engage in towing.
+
+“(2)
+
+Expiration of authority.—The authority to grant the exemptions under this subsection expires 2 years after the date of the enactment of this Act \[Nov. 13, 1998\]. Any specific exemptions granted under this subsection shall nonetheless remain in effect.”
+
 #### Small Passenger Vessel Pilot Inspection Program With State of Minnesota
 
 Section 1122 of Pub. L. 104–324 provided that:

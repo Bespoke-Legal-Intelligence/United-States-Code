@@ -2,7 +2,7 @@
 
 The general purpose of the National Institute of Child Health and Human Development (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to maternal health, child health, mental retardation, human growth and development, including prenatal development, population research, and special health problems and requirements of mothers and children.
 
-(July 1, 1944, ch. 373, title IV, §448, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 856.)
+(July 1, 1944, ch. 373, title IV, §448, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856.)
 
 #### National Commission to Prevent Infant Mortality; Composition; Voluntary Services; Duration
 

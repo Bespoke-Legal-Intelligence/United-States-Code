@@ -6,7 +6,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (1) All information in the consumer's file at the time of the request, except that nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
 
-(2) The sources of the information; except that the sources of information acquired solely for use in preparing an investigative consumer report and actually used for no other purpose need not be disclosed: <i>Provided</i>, That in the event an action is brought under this subchapter, such sources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought.
+(2) The sources of the information; except that the sources of information acquired solely for use in preparing an investigative consumer report and actually used for no other purpose need not be disclosed: <i>Provided</i>, That in the event an action is brought under this subchapter, suchsources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought.
 
 (3)(A) Identification of each person (including each end-user identified under section 1681e(e)(1) of this title) that procured a consumer report—
 
@@ -19,6 +19,12 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 &emsp;(i) the name of the person or, if applicable, the trade name (written in full) under which such person conducts business; and
 
 &emsp;(ii) upon request of the consumer, the address and telephone number of the person.
+
+(C) Subparagraph (A) does not apply if—
+
+&emsp;(i) the end user is an agency or department of the United States Government that procures the report from the person for purposes of determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) of this title); and
+
+&emsp;(ii) the head of the agency or department makes a written finding as prescribed under section 1681b(b)(4)(A) of this title.
 
 (4) The dates, original payees, and amounts of any checks upon which is based any adverse characterization of the consumer, included in the file at the time of the disclosure.
 
@@ -60,13 +66,15 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;No disclosures shall be required under this subsection until the date on which the Federal Trade Commission prescribes the form and content of such disclosures under paragraph (3).
 
-(Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, §2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439.)
+(Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, §2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, §4(a), Nov. 2, 1998, 112 Stat. 3210.)
 
 #### References in Text
 
-For the effective date of this subchapter, referred to in subsec. (b), see section 504(d) of Pub. L. 90–321, setout as an Effective Date note under section 1681 of this title.
+For the effective date of this subchapter, referred to in subsec. (b), see section 504(d) of Pub. L. 90–321, set out as an Effective Date note under section 1681 of this title.
 
 #### Amendments
+
+1998—Subsec. (a)(3)(C). Pub. L. 105–347 added subpar. (C).
 
 1996—Subsec. (a). Pub. L. 104–208, §2408(e)(5)(A), in introductory provisions substituted “, and subject to section 1681h(a)(1) of this title” for “and proper identification of any consumer”.
 
@@ -83,6 +91,10 @@ Subsec. (a)(5). Pub. L. 104–208, §2408(c), added par. (5).
 Subsec. (c). Pub. L. 104–208, §2408(d)(1), added subsec. (c).
 
 1994—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1996 Amendment
 

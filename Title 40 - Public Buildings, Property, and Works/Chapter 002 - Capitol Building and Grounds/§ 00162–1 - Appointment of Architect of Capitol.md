@@ -28,3 +28,7 @@ Subsec. (a)(2)(D). Pub. L. 104–19, §701(3), substituted “Oversight of the H
 
 Subsec. (b). Pub. L. 104–19, §701(1), substituted “office” for “Office” in first sentence.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

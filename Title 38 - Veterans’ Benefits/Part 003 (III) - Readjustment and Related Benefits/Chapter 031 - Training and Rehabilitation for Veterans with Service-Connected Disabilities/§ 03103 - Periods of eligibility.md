@@ -18,7 +18,7 @@
 
 &emsp;(1) that such veteran had not previously been rehabilitated to the point of employability;
 
-&emsp;(2) that such veteran had previously been rehabilitated to the point of employability but (A) the need for such services had arisen out of a worsening of such veteran's service-connected disability that precludes such veteran from performing the duties of the occupation for which such veteran was previously trainedin a vocational rehabilitation program under this chapter, or (B) the occupation for which such veteran had been so trained is not suitable in view of such veteran's current employment handicap and capabilities; or
+&emsp;(2) that such veteran had previously been rehabilitated to the point of employability but (A) the need for such services had arisen out of a worsening of such veteran's service-connected disability that precludes such veteran from performing the duties of the occupation for which such veteran was previously trained in a vocational rehabilitation program under this chapter, or (B) the occupation for which such veteran had been so trained is not suitable in view of such veteran's current employment handicap and capabilities; or
 
 &emsp;(3) under regulations which the Secretary shall prescribe, that an extension of the period of eligibility of such veteran is necessary to accomplish the purposes of a rehabilitation program for such veteran.
 

@@ -52,7 +52,7 @@ As used in this section—
 
 #### (h) Migrant farmworker housing
 
-Notwithstanding the provisions of subsection (a)(3) of this section, the Secretary may, upon a finding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
+Notwithstanding the provisions of subsection (a)(3) of this section, the Secretary may, upon afinding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
 
 #### (i) Farm labor housing
 
@@ -78,7 +78,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;The Secretary may provide the following assistance for housing under this subsection:
 
-&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition,substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
+&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
@@ -174,11 +174,11 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;(D) The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 
-(July 15, 1949, ch. 338, title V, §516, as added Sept. 2, 1964, Pub. L. 88–560, title V, §503(a), 78 Stat. 796; amended Dec. 31, 1970, Pub. L. 91–609, title VIII, §801(c), (d), 84 Stat. 1806; Oct. 31, 1978, Pub. L. 95–557, title V, §505, 92 Stat. 2112; Dec. 21, 1979, Pub. L. 96–153, title V, §509, 93 Stat. 1136; Oct. 8, 1980, Pub. L. 96–399, title V, §507(d), 94 Stat. 1670; Nov. 30, 1983, Pub. L. 98–181, title V, §513, 97 Stat. 1247; Feb. 5, 1988, Pub. L. 100–242, title III, §305(b), 101 Stat. 1895; Nov. 7, 1988, Pub. L. 100–628, title X, §1043(b), 102 Stat. 3273; Nov. 28, 1990, Pub. L. 101–625, title VII, §714(a), 104 Stat. 4292.)
+(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §513, Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292.)
 
 #### References in Text
 
-The Davis-Bacon Act, as amended, referred to in subsec. (f), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+The Davis-Bacon Act, as amended, referred to in subsec. (f), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, asamended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -212,7 +212,7 @@ Subsec. (g)(1). Pub. L. 91–609, §801(c), substituted “structures (including
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1483, 1484, 4851b, 8011 of this title; title 7 section 2204f; title 20 section 244.
+This section is referred to in sections 1483, 1484, 1490a, 4851b, 8011 of this title; title 7 section 2204f; title 20 section 244.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

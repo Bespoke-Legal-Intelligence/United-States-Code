@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements and Submission.—Except as provided in this section and sections 60114 and 60121 of this title, the Secretary of Transportation may not prescribe or enforce safety standards and practices for an intrastate pipeline facility or intrastate pipeline transportation to the extent that the safety standards and practices are regulated by a State authority (including a municipality if the standards andpractices apply to intrastate gas pipeline transportation) that submits to the Secretary annually a certification for the facilities and transportation that complies with subsections (b) and (c) of this section.
+General Requirements and Submission.—Except as provided in this section and sections 60114 and 60121 of this title, the Secretary of Transportation may not prescribe or enforce safety standards and practices for an intrastate pipeline facility or intrastate pipeline transportation to the extent that the safety standards and practices are regulated by a State authority (including a municipality if the standards and practices apply to intrastate gas pipeline transportation) that submits to the Secretary annually a certification for the facilities and transportation that complies with subsections (b) and (c) of this section.
 
 (b)
 
@@ -46,7 +46,7 @@ Monitoring.—The Secretary may monitor a safety program established under this 
 
 (f)
 
-Rejections of Certification.—If after receiving a certification the Secretary decides the State authority is not enforcing satisfactorily compliance with applicable safety standards prescribed under this chapter, the Secretary may reject the certification, assert United States Government jurisdiction, or take other appropriate action to achieve adequate enforcement. The Secretary shall give the authority notice and an opportunity for a hearing before taking final action under this subsection. When notice is given, the burden of proof is on the authority to demonstrate that it is enforcing satisfactorily compliance with the prescribed standards.
+Rejections of Certification.—If after receiving a certification the Secretary decides theState authority is not enforcing satisfactorily compliance with applicable safety standards prescribed under this chapter, the Secretary may reject the certification, assert United States Government jurisdiction, or take other appropriate action to achieve adequate enforcement. The Secretary shall give the authority notice and an opportunity for a hearing before taking final action under this subsection. When notice is given, the burden of proof is on the authority to demonstrate that it is enforcing satisfactorily compliance with the prescribed standards.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1309; Pub. L. 104–304, §20(a), Oct. 12, 1996, 110 Stat. 3804.)
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) Heavy emphasis shall be given to those technologies which utilize renewable or essentially inexhaustible energy sources.
 
-&emsp;(5) The potential for production of net energy by the proposed technology at the stage of commercial application shall be analyzed and considered in evaluating proposals.
+&emsp;(5) The potential for production of net energy by the proposed technology at the stageof commercial application shall be analyzed and considered in evaluating proposals.
 
 (b) The Congress further directs that the execution of the comprehensive research, development, and demonstration program shall conform to the following principles:
 

@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) wetlands play an integral role in maintaining the quality of life through material contributions to our national economy, food supply, water supply and quality, flood control, and fish, wildlife, and plant resources, and thus to the health, safety, recreation, and economic well-being of all our citizens of the Nation;
 
-&emsp;(2) wetlands provide habitat essential for the breeding, spawning, nesting, migration, wintering and ultimate survival of a major portion of the migratory and resident fish and wildlife of the Nation; including migratory birds, endangered species, commercially and recreationally important finfish, shellfish and other aquatic organisms, and contain manyunique species and communities of wild plants;
+&emsp;(2) wetlands provide habitat essential for the breeding, spawning, nesting, migration, wintering and ultimate survival of a major portion of the migratory and resident fish and wildlife of the Nation; including migratory birds, endangered species, commercially and recreationally important finfish, shellfish and other aquatic organisms, and contain many unique species and communities of wild plants;
 
 &emsp;(3) the migratory bird treaty obligations of the Nation with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere require Federal protection of wetlands that are used by migratory birds for breeding, wintering or migration and needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
 
@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(5) wetlands enhance the water quality and water supply of the Nation by serving as groundwater recharge areas, nutrient traps, and chemical sinks;
 
-&emsp;(6) wetlands provide a natural means of flood and erosion control by retaining water during periods of high runoff, thereby protecting against loss of life and property;
+&emsp;(6) wetlands provide a natural means of flood and erosion control by retaining water duringperiods of high runoff, thereby protecting against loss of life and property;
 
 &emsp;(7) wetlands constitute only a small percentage of the land area of the United States, are estimated to have been reduced by half in the contiguous States since the founding of our Nation, and continue to disappear by hundreds of thousands of acres each year;
 

@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 &emsp;(1) The terms defined in section 2510 of title 18 have, respectively, the meanings stated in that section.
 
-&emsp;(2) The term “call-identifying information” means dialing or signaling information that identifies the origin, direction, destination, or termination of each communication generated or received by a subscriber by means of any equipment, facility, or service of a telecommunications carrier.
+&emsp;(2) The term “call-identifying information” means dialing or signaling information that identifies the origin, direction, destination, or termination of each communication generated or received by a subscriber by means of anyequipment, facility, or service of a telecommunications carrier.
 
 &emsp;(3) The term “Commission” means the Federal Communications Commission.
 

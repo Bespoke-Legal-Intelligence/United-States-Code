@@ -42,7 +42,7 @@ Senior Military Colleges.—The senior military colleges are the following:
 
 &emsp;(6) North Georgia College and State University.
 
-(Added Pub. L. 104–106, div. A, title V, §545(a), Feb. 10, 1996, 110 Stat. 317; amended Pub. L.105–85, div. A, title V, §544(d)–(f)(1), Nov. 18, 1997, 111 Stat. 1745, 1746.)
+(Added Pub. L. 104–106, div. A, title V, §545(a), Feb. 10, 1996, 110 Stat. 317; amended Pub. L. 105–85, div. A, title V, §544(d)–(f)(1), Nov. 18, 1997, 111 Stat. 1745, 1746.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 Under such conditions as he may prescribe, the Secretary of the Army may issue arms, tentage, and equipment that he considers necessary for proper military training, to any educational institution at which no unit of the Reserve Officers’ Training Corps is maintained, but which has a course in military training prescribed by the Secretary and which has at least 100 physically fit students over 14 years of age.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 260; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(b(3)(C), 99 Stat. 736.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 260; Pub. L. 99–145, title XIII, §1301(b(3)(C), Nov. 8, 1985, 99 Stat. 736.)
 
 Historical and Revision Notes
 

@@ -1,6 +1,0 @@
-### §57. Corporation created
-
-Major General John A. Lejeune, United States Marine Corps, retired, honorary national commandant; Maurice A. Illch, national commandant; Roy S. Taylor, senior national vice commandant; Kenneth B. Collings, junior national vice commandant; Alexander F. Ormsby, national judge advocate; Reverend John H. Clifford, national chaplain; Edward A. Walker, national sergeant at arms; John B. Hinckley, Junior, national adjutant and paymaster; John E. Brock, national chief of staff, are created a body corporate of the name “Marine Corps League.”
-
-(Aug. 4, 1937, ch. 564, §1, 50 Stat. 558.)
-

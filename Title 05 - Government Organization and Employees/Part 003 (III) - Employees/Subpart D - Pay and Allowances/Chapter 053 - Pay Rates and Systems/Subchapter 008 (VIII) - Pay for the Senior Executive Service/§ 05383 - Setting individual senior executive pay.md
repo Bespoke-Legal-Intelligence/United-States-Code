@@ -34,7 +34,7 @@
 
 “(B) Any amount paid under this paragraph during a fiscal year shall be taken into account for purposes of applying the limitation under paragraph (1) of this subsection with respect to such fiscal year.
 
-“(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of this title, under which payment under this paragraph shall be made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph.”
+“(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of thistitle, under which payment under this paragraph shall be made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph.”
 
 1991—Subsec. (e). Pub. L. 102–175 added subsec. (e).
 
@@ -46,7 +46,7 @@
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, seesection 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report
 

@@ -182,7 +182,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;(D) in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
 
-&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as beingsubject to an effective financing statement or notice; and
+&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
 
 &emsp;&emsp;(ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 

@@ -2,7 +2,7 @@
 
 Whoever violates any safe conduct or passport duly obtained and issued under authority of the United States shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(3), title XXXIII, §330016(1)(I), 108 Stat. 2030, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, §130009(a)(3), title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147.)
 
 #### Historical and Revision Notes
 

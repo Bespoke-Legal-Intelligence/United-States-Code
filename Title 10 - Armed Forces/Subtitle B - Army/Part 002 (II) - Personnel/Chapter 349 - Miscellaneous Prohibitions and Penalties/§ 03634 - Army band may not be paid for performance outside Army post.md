@@ -12,7 +12,7 @@ Recordings.—(1) Any Army band designated as a special band may produce recordi
 
 (3) The Secretary of the Army shall prescribe regulations governing the accounting of such proceeds.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 207; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §327(a), 104 Stat. 1531.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 207; Pub. L. 101–510, div. A, title III, §327(a), Nov. 5, 1990, 104 Stat. 1531.)
 
 Historical and Revision Notes
 
@@ -37,8 +37,4 @@ Pub. L. 93–571, Dec. 31, 1974, 88 Stat. 1868, authorized United States Army, N
 #### Amendments
 
 1990—Pub. L. 101–510 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), no” for “No”, and added subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 974 of this title.
 

@@ -14,7 +14,7 @@ Coupons issued to eligible households shall be simple in design and shall includ
 
 #### (d) Coupon level inventories; monitorship; monthly operations report
 
-The Secretary shall develop an appropriate procedure for determining and monitoring the level of coupon inventories in the hands of coupon issuers for the purpose of providing that such inventories are at proper levels (taking into consideration the historical and projected volume of coupon distribution by such issuers). Such procedures shall provide that coupon inventories in the hands of such issuers are not in excess of the reasonable needs of such issuers taking into consideration the ease with whichsuch coupon inventories may be resupplied. The Secretary shall require each coupon issuer at intervals prescribed by the Secretary, but not less often than monthly, to send to the Secretary or the Secretary's designee, which may include the State agency, a written report of the issuer's operations during such period. In addition to other information deemed by the Secretary to be appropriate, the Secretary shall require that the report contain an oath, or affirmation, signed by the coupon issuer, or in the case of a corporation or other entity not a natural person, by an appropriate official of the coupon issuer, certifying that the information contained in the report is true and correct to the best of such person's knowledge and belief.
+The Secretary shall develop an appropriate procedure for determining and monitoring the level of coupon inventories in the hands of coupon issuers for the purpose of providing that such inventories are at proper levels (taking into consideration the historical and projected volume of coupon distribution by such issuers). Such procedures shall provide that coupon inventories in the hands of such issuers are not in excess of the reasonable needs of such issuers taking into consideration the ease with which such coupon inventories may be resupplied. The Secretary shall require each coupon issuer at intervals prescribed by the Secretary, but not less often than monthly, to send to the Secretary or the Secretary's designee, which may include the State agency, a written report of the issuer's operations during such period. In addition to other information deemed by the Secretary to be appropriate, the Secretary shall require that the report contain an oath, or affirmation, signed by the coupon issuer, or in the case of a corporation or other entity not a natural person, by an appropriate official of the coupon issuer, certifying that the information contained in the report is true and correct to the best of such person's knowledge and belief.
 
 #### (e) Delivery and control procedures
 
@@ -216,7 +216,7 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 &emsp;Section 2025(c) of this title shall not apply to benefits issued under this subsection.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216.)
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050;Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216.)
 
 #### References in Text
 
@@ -262,7 +262,7 @@ Subsec. (h). Pub. L. 99–198, §1518, added subsec. (h).
 
 Subsec. (g). Pub. L. 97–253, §162, added subsec. (g).
 
-1981—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer tocomply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
+1981—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
 1977—Pub. L. 95–113 substituted revised provisions relating to issuance and use of coupons for provisions relating to value of the coupon allotment which are now covered by section 2017 of this title.
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking intoaccount need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1977 Amendment
 

@@ -32,7 +32,7 @@ Time for Notification.—Notification required under section 30118 of this title
 
 (d)
 
-Means of Providing Notification.—(1) Notification required under section 30118 of thistitle about a motor vehicle shall be sent by first class mail—
+Means of Providing Notification.—(1) Notification required under section 30118 of this title about a motor vehicle shall be sent by first class mail—
 
 &emsp;(A) to each person registered under State law as the owner and whose name and address are reasonably ascertainable by the manufacturer through State records or other available sources; or
 

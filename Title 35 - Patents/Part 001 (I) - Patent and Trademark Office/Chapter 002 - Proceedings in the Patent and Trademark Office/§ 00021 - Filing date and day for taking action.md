@@ -2,7 +2,7 @@
 
 (a) The Commissioner may by rule prescribe that any paper or fee required to be filed in the Patent and Trademark Office will be considered filed in the Office on the date on which it was deposited with the United States Postal Service or would have been deposited with the United States Postal Service but for postal service interruptions or emergencies designated by the Commissioner.
 
-(b) When the day, or the last day, for taking any action or paying any fee in the UnitedStates Patent and Trademark Office falls on Saturday, Sunday, or a Federal holiday within the District of Columbia, the action may be taken, or the fee paid, on the next succeeding secular or business day.
+(b) When the day, or the last day, for taking any action or paying any fee in the United States Patent and Trademark Office falls on Saturday, Sunday, or a Federal holiday within the District of Columbia, the action may be taken, or the fee paid, on the next succeeding secular or business day.
 
 (July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §12, Aug. 27, 1982, 96 Stat. 321.)
 

@@ -1,0 +1,194 @@
+### §300u–6. Office of Minority Health
+
+#### (a) In general
+
+There is established an Office of Minority Health within the Office of Public Health and Science. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section.
+
+#### (b) Duties
+
+With respect to improving the health of racial and ethnic minority groups, the Secretary, acting through the Deputy Assistant Secretary for Minority Health (in this section referred to as the “Deputy Assistant Secretary”), shall carry out the following:
+
+&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all other activities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
+
+&emsp;(2) Enter into interagency agreements with other agencies of the Public Health Service.
+
+&emsp;(3) Support research, demonstrations and evaluations to test new and innovative models.
+
+&emsp;(4) Increase knowledge and understanding of health risk factors.
+
+&emsp;(5) Develop mechanisms that support better information dissemination, education, prevention, and service delivery to individuals from disadvantaged backgrounds, including individuals who are members of racial or ethnic minority groups.
+
+&emsp;(6) Ensure that the National Center for Health Statistics collects data on the health status of each minority group.
+
+&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of the individuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
+
+&emsp;(8) Support a national minority health resource center to carry out the following:
+
+&emsp;&emsp;(A) Facilitate the exchange of information regarding matters relating to health information and health promotion, preventive health services, and education in the appropriate use of health care.
+
+&emsp;&emsp;(B) Facilitate access to such information.
+
+&emsp;&emsp;(C) Assist in the analysis of issues and problems relating to such matters.
+
+&emsp;&emsp;(D) Provide technical assistance with respect to the exchange of such information (including facilitating the development of materials for such technical assistance).
+
+&emsp;(9) Carry out programs to improve access to health care services for individuals with limited proficiency in speaking the English language. Activities under the preceding sentence shall include developing and evaluating model projects.
+
+#### (c) Advisory Committee
+
+#### (1) In general
+
+&emsp;The Secretary shall establish an advisory committee to be known as the Advisory Committee on Minority Health (in this subsection referred to as the “Committee”).
+
+#### (2) Duties
+
+&emsp;The Committee shall provide advice to the Deputy Assistant Secretary carrying out this section, including advice on the development of goals and specific program activities under paragraphs (1) through (9) of subsection (b) of this section for each racial and ethnic minority group.
+
+#### (3) Chair
+
+&emsp;The chairperson of the Committee shall be selected by the Secretary from among the members of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
+
+#### (4) Composition
+
+&emsp;(A) The Committee shall be composed of 12 voting members appointed in accordance with subparagraph (B), and nonvoting, ex officio members designated in subparagraph (C).
+
+&emsp;(B) The voting members of the Committee shall be appointed by the Secretary from among individuals who are not officers or employees of the Federal Government and who have expertise regarding issues of minority health. The racial and ethnic minority groups shall be equally represented among such members.
+
+&emsp;(C) The nonvoting, ex officio members of the Committee shall be such officials of the Department of Health and Human Services as the Secretary determines to be appropriate.
+
+#### (5) Terms
+
+&emsp;Each member of the Committee shall serve for a term of 4 years, except that the Secretary shall initially appoint a portion of the members to terms of 1 year, 2 years, and 3 years.
+
+#### (6) Vacancies
+
+&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
+
+#### (7) Compensation
+
+&emsp;Members of the Committee who are officers or employees of the United States shall serve without compensation. Members of the Committee who are not officers or employees of the United States shall receive compensation, for each day (including travel time) they are engaged in the performance of the functions of the Committee. Such compensation may not be in an amount in excess of the daily equivalent of the annual maximum rate of basic pay payable under the General Schedule (under title 5) for positions above GS–15.
+
+#### (d) Certain requirements regarding duties
+
+#### (1) Recommendations regarding language as impediment to health care
+
+&emsp;The Deputy Assistant Secretary for Minority Health shall consult with the Director of the Office of International and Refugee Health, the Director of the Office of Civil Rights, and the Directors of other appropriate departmental entities regarding recommendations for carrying out activities under subsection (b)(9) of this section.
+
+#### (2) Equitable allocation regarding activities
+
+&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that services provided under such subsection are equitably allocated among all groups served under this section by the Secretary.
+
+#### (3) Cultural competency of services
+
+&emsp;The Secretary shall ensure that information and services provided pursuant to subsection (b) of this section are provided in the language, educational, and cultural context that is most appropriate for the individuals for whom the information and services are intended.
+
+#### (e) Grants and contracts regarding duties
+
+#### (1) In general
+
+&emsp;In carrying out subsection (b) of this section, the Secretary acting through the Deputy Assistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
+
+#### (2) Process for making awards
+
+&emsp;The Deputy Assistant Secretary shall ensure that awards under paragraph (1) are made, to the extent practical, only on a competitive basis, and that a grant is awarded for a proposal only if the proposal has been recommended for such an award through a process of peer review.
+
+#### (3) Evaluation and dissemination
+
+&emsp;The Deputy Assistant Secretary, directly or through contracts with public and private entities, shall provide for evaluations of projects carried out with awards made under paragraph (1) during the preceding 2 fiscal years. The report shall be included in the report required under subsection (f) of this section for the fiscal year involved.
+
+#### (f) Reports
+
+#### (1) In general
+
+&emsp;Not later than February 1 of fiscal year 1999 and of each second year thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this section during the preceding 2 fiscal years and evaluating the extent to which such activities have been effective in improving the health of racial and ethnic minority groups. Each such report shall include the biennial reports submitted under subsections (e)(3) and (f)(2) <sup>1</sup> of this section for such years by the heads of the Public Health Service agencies.
+
+#### (2) Agency reports
+
+&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the Deputy Assistant Secretary a report summarizing the minority health activities of each of the respective agencies.
+
+#### (g) Definitions
+
+For purposes of this section:
+
+&emsp;(1) The term “racial and ethnic minority group” means American Indians (including Alaska Natives, Eskimos, and Aleuts); Asian Americans and Pacific Islanders; Blacks; and Hispanics.
+
+&emsp;(2) The term “Hispanic” means individuals whose origin is Mexican, Puerto Rican, Cuban, Central or South American, or any other Spanish-speaking country.
+
+#### (h) Funding
+
+(1) <sup>2</sup>
+
+Authorization of appropriations.—For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
+
+(July 1, 1944, ch. 373, title XVII, §1707, as added Pub. L. 101–527, §2, Nov. 6, 1990, 104 Stat. 2312; amended Pub. L. 101–557, title IV, §401(a)(1), Nov. 15, 1990, 104 Stat. 2770; Pub. L. 105–392, title II, §201(a), (c), Nov. 13, 1998, 112 Stat. 3582, 3585.)
+
+#### References in Text
+
+The General Schedule, referred to in subsec. (c)(7), is set out under section 5332 of Title 5, Government Organization and Employees.
+
+Subsections (e)(3) and (f)(2) of this section, referred to in subsec. (f)(1), was in the original “sections 201(e)(3) and 201(f)(2)”, and was translated to reflect the probable intent of Congress, because section 201 of act July 1, 1944, which is classified to section 202 of this title, does not contain subsections, and subsections (e)(3) and (f)(2) of this section require biennial reporting.
+
+#### Prior Provisions
+
+A prior section 300u–6, act July 1, 1944, ch. 373, title XVII, §1707, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3593; amended July 10, 1979, Pub. L. 96–32, §6(k), 93 Stat. 84, related to project grants to State Councils on Physical Fitness for physical fitness improvement, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+
+#### Amendments
+
+1998—Pub. L. 105–392, §201(c)(1), struck out “Establishment of” before “Office” in section catchline.
+
+Subsec. (a). Pub. L. 105–392, §201(c)(2), substituted “Public Health and Science” for “the Assistant Secretary for Health”.
+
+Subsecs. (b) to (h). Pub. L. 105–392, §201(a), added subsecs. (b) to (h) and struck out former subsecs. (b) to (f), which related, respectively, to duties of Secretary, certain requirements regarding duties, grants and contracts regarding duties, reports, and funding.
+
+1990—Subsec. (b)(8). Pub. L. 101–557 added par. (8).
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1990 Amendment
+
+Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of the Disadvantaged Minority Health Improvement Act of 1990 \[Nov. 6, 1990\].”
+
+#### Termination of Advisory Committees
+
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### Congressional Findings
+
+Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
+
+&emsp;“(1) racial and ethnic minorities are disproportionately represented among individuals from disadvantaged backgrounds;
+
+&emsp;“(2) the health status of individuals from disadvantaged backgrounds, including racial and ethnic minorities, in the United States is significantly lower than the health status of the general population of the United States;
+
+&emsp;“(3) minorities suffer disproportionately high rates of cancer, stroke, heart diseases, diabetes, substance abuse, acquired immune deficiency syndrome, and other diseases and disorders;
+
+&emsp;“(4) the incidence of infant mortality among minorities is almost double that for the general population;
+
+&emsp;“(5) Blacks, Hispanics, and Native Americans constitute approximately 12 percent, 7.9 percent, and 0.01 percent, respectively, of the population of the United States;
+
+&emsp;“(6) Blacks, Hispanics, and Native Americans in the United States constitute approximately 3 percent, 4 percent, and less than 0.01 percent, respectively, of physicians, 2.7 percent, 1.7 percent, and less than 0.01 percent, respectively, of dentists, and 4.5 percent, 1.6 percent, and less than 0.01 percent, respectively, of nurses;
+
+&emsp;“(7) the number of individuals who are from disadvantaged backgrounds in health professions should be increased for the purpose of improving the access of other such individuals to health services;
+
+&emsp;“(8) minority health professionals have historically tended to practice in low-income areas and to serve minorities;
+
+&emsp;“(9) minority health professionals have historically tended to engage in the general practice of medicine and specialties providing primary care;
+
+&emsp;“(10) reports published in leading medical journals indicate that access to health care among minorities can be substantially improved by increasing the number of minority health professionals;
+
+&emsp;“(11) increasing the number of minorities serving on the faculties of health professions schools can be an important factor in attracting minorities to pursue a career in the health professions;
+
+&emsp;“(12) diversity in the faculty and student body of health professions schools enhances the quality of education for all students attending the schools;
+
+&emsp;“(13) the Report of the Secretary's Task Force on Black and Minority Health (prepared for the Secretary of Health and Human Services and issued in 1985) described the health status problems of minorities, and made recommendations concerning measures that should be implemented by the Secretary with respect to improving the health status of minorities through programs for providing health information and education; and
+
+&emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services, should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
+

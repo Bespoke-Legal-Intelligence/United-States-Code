@@ -34,7 +34,7 @@ Section 3616, Pub. L. 96–294, title V, §518, June 30, 1980, 94 Stat. 735, aut
 
 Section 3617, Pub. L. 96–294, title V, §519, June 30, 1980, 94 Stat. 736, provided for submission of reports to Congress.
 
-Section 3618, Pub. L. 96–294, title V, §520, June 30, 1980, 94 Stat. 736; Pub. L. 98–181, title IV, §463(e), Nov. 30, 1983, 97 Stat. 1234; Pub. L. 98–479, title I, §104(d)(2)(A), Oct. 17, 1984, 98 Stat. 2226, provided for promulgation of rules and regulations to implement this chapter.
+Section 3618, Pub. L. 96–294, title V, §520, June 30, 1980, 94 Stat. 736; Pub. L. 98–181, title IV, §463(e), Nov. 30, 1983, 97 Stat. 1234; Pub. L. 98–479, title I,§104(d)(2)(A), Oct. 17, 1984, 98 Stat. 2226, provided for promulgation of rules and regulations to implement this chapter.
 
 Section 3619, Pub. L. 96–294, title V, §521, June 30, 1980, 94 Stat. 737, established penalties relating to disclosure of facts or statements required by this chapter.
 

@@ -42,13 +42,13 @@ The State disbursement unit shall use automated procedures, electronic processes
 
 #### (2) Permissive retention of arrearages
 
-&emsp;The State disbursement unit may delay the distribution of collections toward arrearages until the resolution of any timely appeal with respect to such arrearages.
+&emsp;The State disbursement unit may delay the distribution of collections toward arrearagesuntil the resolution of any timely appeal with respect to such arrearages.
 
 #### (d) “Business day” defined
 
 As used in this section, the term “business day” means a day on which State offices are open for regular business.
 
-(Aug. 14, 1935, ch. 531, title IV, §454B, as added Aug. 22, 1996, Pub. L. 104–193, title III, §312(b), 110 Stat. 2207; amended Aug. 5, 1997, Pub. L. 105–33, title V, §5549, 111 Stat. 633.)
+(Aug. 14, 1935, ch. 531, title IV, §454B, as added Pub. L. 104–193, title III, §312(b), Aug. 22, 1996, 110 Stat. 2207; amended Pub. L. 105–33, title V, §5549, Aug. 5, 1997, 111 Stat. 633.)
 
 #### References in Text
 

@@ -24,7 +24,7 @@ The Central Intelligence Agency Information Act, referred to in subsec. (b), is 
 
 #### Prior Provisions
 
-A prior section 3511, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822; amended Pub. L. 99–500, §101(m) \[title VIII, §818\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–339, and Pub. L. 99–591, §101(m) \[title VIII, §818\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–339, related to establishment and operation of a Federal InformationLocator System prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3511, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822; amended Pub. L. 99–500, §101(m) \[title VIII, §818\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–339, and Pub. L. 99–591, §101(m) \[title VIII, §818\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–339, related to establishment and operation of a Federal Information Locator System prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3511, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided for penalty for failure to furnish information, prior to the general amendment of this chapter by Pub. L. 96–511.
 

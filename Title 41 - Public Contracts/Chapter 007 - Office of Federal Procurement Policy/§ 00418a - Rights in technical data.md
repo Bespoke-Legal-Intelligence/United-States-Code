@@ -28,7 +28,7 @@ The following factors shall be considered in prescribing regulations pursuant to
 
 &emsp;&emsp;(C) in part with Federal funds and in part at private expense.
 
-&emsp;(2) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Actof 1982 (Public Law 97–219; 15 U.S.C. 638 note), and the declaration of policy in section 631 of title 15.
+&emsp;(2) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (Public Law 97–219; 15 U.S.C. 638 note), and the declaration of policy in section 631 of title 15.
 
 &emsp;(3) The interest of the United States in increasing competition and lowering costs by developing and locating alternative sources of supply and manufacture.
 

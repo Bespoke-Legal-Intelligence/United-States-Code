@@ -1,0 +1,106 @@
+### §2912. Migrant and seasonal farmworker programs
+
+#### (a) In general
+
+Every 2 years, the Secretary shall, on a competitive basis, make grants to, or enter into contracts with, eligible entities to carry out the activities described in subsection (d) of this section.
+
+#### (b) Eligible entities
+
+To be eligible to receive a grant or enter into a contract under this section, an entity shall have an understanding of the problems of eligible migrant and seasonal farmworkers (including dependents), a familiarity with the area to be served, and the ability to demonstrate a capacity to administer effectively a diversified program of workforce investment activities (including youth activities) and related assistance for eligible migrant and seasonal farmworkers.
+
+#### (c) Program plan
+
+#### (1) In general
+
+&emsp;To be eligible to receive a grant or enter into a contract under this section, an entity described in subsection (b) of this section shall submit to the Secretary a plan that describes a 2-year strategy for meeting the needs of eligible migrant and seasonal farmworkers in the area to be served by such entity.
+
+#### (2) Contents
+
+&emsp;Such plan shall—
+
+&emsp;&emsp;(A) identify the education and employment needs of the population to be served and the manner in which the services to be provided will strengthen the ability of the eligible migrant and seasonal farmworkers and dependents to obtain or retain unsubsidized employment or stabilize their unsubsidized employment;
+
+&emsp;&emsp;(B) describe the related assistance and supportive services to be provided and the manner in which such assistance and services are to be integrated and coordinated with other appropriate services; and
+
+&emsp;&emsp;(C) describe the indicators of performance to be used to assess the performance of such entity in carrying out the activities assisted under this section.
+
+#### (3) Administration
+
+&emsp;Grants and contracts awarded under this section shall be centrally administered by the Department of Labor and competitively awarded by the Secretary using procedures consistent with standard Federal Government competitive procurement policies.
+
+#### (4) Competition
+
+#### (A) In general
+
+&emsp;&emsp;The competition for grants made and contracts entered into under this section shall be conducted every 2 years.
+
+#### (B) Exception
+
+&emsp;&emsp;Notwithstanding subparagraph (A), if a recipient of such a grant or contract has performed satisfactorily under the terms of the grant agreement or contract, the Secretary may waive the requirement for such competition for such recipient upon receipt from the recipient of a satisfactory 2-year plan described in paragraph (1) for the succeeding 2-year grant or contract period. The Secretary may exercise the waiver authority of the preceding sentence not more than once during any 4-year period with respect to any single recipient.
+
+#### (d) Authorized activities
+
+Funds made available under this section and section 2852(b)(1)(A)(iii) of this title shall be used to carry out workforce investment activities (including youth activities) and provide related assistance for eligible migrant and seasonal farmworkers, which may include employment, training, educational assistance, literacy assistance, an English language program, worker safety training, housing, supportive services, dropout prevention activities, followup services for those individuals placed in employment, self-employment and related business enterprise development education as needed by eligible migrant and seasonal farmworkers and identified pursuant to the plan required by subsection (c) of this section, and technical assistance relating to capacity enhancement in such areas as management information technology.
+
+#### (e) Consultation with Governors and local boards
+
+In making grants and entering into contracts under this section, the Secretary shall consult with the Governors and local boards of the States in which the eligible entities will carry out the activities described in subsection (d) of this section.
+
+#### (f) Regulations
+
+The Secretary shall consult with eligible migrant and seasonal farmworkers groups andStates in establishing regulations to carry out this section, including performance measures for eligible entities that take into account the economic circumstances and demographics of eligible migrant and seasonal farmworkers.
+
+#### (g) Compliance with single audit requirements; related requirement
+
+Grants and contracts entered into under this section shall be subject to the requirements of chapter 75 of subtitle V of title 31 (enacted by the Single Audit Act of 1984) and charging of costs under this section shall be subject to appropriate circulars issued by the Office of Management and Budget.
+
+#### (h) Definitions
+
+In this section:
+
+#### (1) Disadvantaged
+
+&emsp;The term “disadvantaged”, used with respect to a farmworker, means a farmworker whose income, for 12 consecutive months out of the 24 months prior to application for the program involved, does not exceed the higher of—
+
+&emsp;&emsp;(A) the poverty line (as defined in section 334(a)(2)(B)) <sup>1</sup> for an equivalent period; or
+
+&emsp;&emsp;(B) 70 percent of the lower living standard income level, for an equivalent period.
+
+#### (2) Eligible migrant and seasonal farmworkers
+
+&emsp;The term “eligible migrant and seasonal farmworkers” means individuals who are eligible migrant farmworkers or are eligible seasonal farmworkers.
+
+#### (3) Eligible migrant farmworker
+
+&emsp;The term “eligible migrant farmworker” means—
+
+&emsp;&emsp;(A) an eligible seasonal farmworker described in paragraph (4)(A) whose agricultural labor requires travel to a job site such that the farmworker is unable to return to a permanent place of residence within the same day; and
+
+&emsp;&emsp;(B) a dependent of the farmworker described in subparagraph (A).
+
+#### (4) Eligible seasonal farmworker
+
+&emsp;The term “eligible seasonal farmworker” means—
+
+&emsp;&emsp;(A) a disadvantaged person who, for 12 consecutive months out of the 24 months prior to application for the program involved, has been primarily employed in agricultural labor that is characterized by chronic unemployment or underemployment; and
+
+&emsp;&emsp;(B) a dependent of the person described in subparagraph (A).
+
+(Pub. L. 105–220, title I, §167, Aug. 7, 1998, 112 Stat. 1025; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+
+#### References in Text
+
+The Single Audit Act of 1984, referred to in subsec. (g), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+
+Section 334, referred to in subsec. (h)(1)(A), is section 334 of Pub. L. 105–220, which is set out as a note under section 2701 of this title. However, section 334 does not contain a subsec. (a)(2)(B) and does not define the term “poverty line”. “Poverty line” is defined for purposes of this chapter in section 2801 of this title.
+
+#### Amendments
+
+1998—Subsec. (d). Pub. L. 105–277 inserted “and section 2852(b)(1)(A)(iii) of this title” after “this section”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2852, 2915, 2919 of this title; title 20 section 1070d–2.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

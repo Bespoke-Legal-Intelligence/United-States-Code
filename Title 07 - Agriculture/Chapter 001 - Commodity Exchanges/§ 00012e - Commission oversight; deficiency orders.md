@@ -92,7 +92,7 @@ Violation of a final deficiency order issued under subsection (c) of this sectio
 
 &emsp;Any contract market that has petitioned the Commission to rescind, modify, or delay any proposed deficiency order issued under subsection (b) of this section may obtain judicial review of any final such deficiency order only in the United States Court of Appeals for the circuit in which the party seeking review resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, under the standards applicable to rulemaking proceedings under section 553 of title 5.
 
-(Sept. 21, 1922, ch. 369, §8e, as added Oct. 28, 1992, Pub. L. 102–546, title II, §202(a), 106 Stat. 3598.)
+(Sept. 21, 1922, ch. 369, §8e, as added Pub. L. 102–546, title II, §202(a), Oct. 28, 1992, 106 Stat. 3598.)
 
 #### References in Text
 

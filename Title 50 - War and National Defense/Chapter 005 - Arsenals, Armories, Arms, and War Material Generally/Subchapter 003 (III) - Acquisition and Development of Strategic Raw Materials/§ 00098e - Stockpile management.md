@@ -36,7 +36,7 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 #### (d) Waiver; notification of proposed disposal of materials
 
-(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of theSenate and the Committee on National Security of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
 
 (2) Materials in the stockpile may be disposed of under subsection (a)(5) of this section only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
 
@@ -48,7 +48,7 @@ The President may acquire leasehold interests in property, for periods not in ex
 
 #### Prior Provisions
 
-A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941, ch. 135, 55 Stat. 206; July 23, 1946,ch. 590, 60 Stat. 598; Ex. Ord. No. 9809, eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to transfer of surplus materials to stock piles, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98c(b) of this title.
+A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941, ch. 135, 55 Stat. 206; July 23, 1946, ch. 590, 60 Stat. 598; Ex. Ord. No. 9809, eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to transfer of surplus materials to stock piles, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98c(b) of this title.
 
 Provisions similar to those in this section were contained in former section 98b of this title prior to repeal by Pub. L. 96–41.
 
@@ -83,6 +83,10 @@ Subsec. (d)(1). Pub. L. 101–189, §3314(2), substituted “paragraph (1) or (2
 1986—Subsec. (a)(3). Pub. L. 99–661 substituted “a form more” for “the form most”.
 
 1981—Subsec. (a)(6). Pub. L. 97–35 inserted reference to section 98d(b) of this title.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Delegation of Functions
 

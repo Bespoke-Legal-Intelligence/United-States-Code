@@ -30,7 +30,7 @@
 
 &emsp;(E) “civil action brought by or against the United States” includes an appeal by a party, other than the United States, from a decision of a contracting officer rendered pursuant to a disputes clause in a contract with the Government or pursuant to the Contract Disputes Act of 1978;
 
-&emsp;(F) “court” includes the United States Court of Federal Claims and the United States Court of Veterans Appeals;
+&emsp;(F) “court” includes the United States Court of Federal Claims and the United States Court of Appeals for Veterans Claims;
 
 &emsp;(G) “final judgment” means a judgment that is final and not appealable, and includes an order of settlement;
 
@@ -46,7 +46,7 @@
 
 (f) If the United States appeals an award of costs or fees and other expenses made against the United States under this section and the award is affirmed in whole or in part, interest shall be paid on the amount of the award as affirmed. Such interest shall be computed at the rate determined under section 1961(a) of this title, and shall run from the date of the award through the day before the date of the mandate of affirmance.
 
-(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, §1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, §204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, §292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, §301(a), title V, §§502(b), 506(a), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, §1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, §232, Mar. 29, 1996, 110 Stat. 863.)
+(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, §1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, §204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, §292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, §301(a), title V, §§502(b), 506(a), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, §1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, §232, Mar. 29, 1996, 110 Stat. 863; Pub. L. 105–368, title V, §512(b)(1)(B), Nov. 11, 1998, 112 Stat. 3342.)
 
 #### Historical and Revision Notes
 
@@ -74,7 +74,9 @@ Section 7430 of the Internal Revenue Code of 1986, referred to in subsec. (e), i
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d)(1)(D). Pub. L. 104–121, §232(a), added subpar. (D).
+1998—Subsec. (d)(2)(F). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+
+1996—Subsec. (d)(1)(D). Pub. L. 104–121, §232(a), added subpar. (D).
 
 Subsec. (d)(2)(A)(ii). Pub. L. 104–121, §232(b)(1), substituted “$125” for “$75”.
 
@@ -82,9 +84,9 @@ Subsec. (d)(2)(B). Pub. L. 104–121, §232(b)(2), inserted before semicolon at 
 
 Subsec. (d)(2)(I). Pub. L. 104–121, §232(b)(3)–(5), added subpar. (I).
 
-<b>1995</b>—Subsec. (d)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
+1995—Subsec. (d)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Attorney General shall report annually to the Congress on the amount of fees and other expenses awarded during the preceding fiscal year pursuant to this subsection. The report shall describe the number, nature, and amount of the awards, the claims involved in the controversy, and any other relevant information which may aid the Congress in evaluating the scope and impact of such awards.”
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572, §301(a), designated existing provisions as par. (1) and added par. (2).
+1992—Subsec. (a). Pub. L. 102–572, §301(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d)(2)(F). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
@@ -92,9 +94,9 @@ Pub. L. 102–573, §506(a), inserted before semicolon at end “and the United 
 
 Subsec. (d)(5). Pub. L. 102–572, §502(b), substituted “The Attorney General shall report annually to the Congress on” for “The Director of the Administrative Office of the United States Courts shall include in the annual report prepared pursuant to section 604 of this title,”.
 
-<b>1986</b>—Subsecs. (d)(2)(B), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsecs. (d)(2)(B), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1985</b>—Subsecs. (a), (b). Pub. L. 99–80, §2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
+1985—Subsecs. (a), (b). Pub. L. 99–80, §2(a)(1), substituted “or any agency or any official of the United States” for “or any agency and any official of the United States”.
 
 Subsec. (d). Pub. L. 99–80, §6, repealed amendment made by Pub. L. 96–481, §204(c), and provided that subsec. (d) was effective on or after Aug. 5, 1985, as if it had not been repealed by section 204(c). See 1980 Amendment note and Revival of Previously Repealed Provisions note below.
 
@@ -114,11 +116,15 @@ Subsec. (d)(4). Pub. L. 99–80, §2(d), amended par. (4) generally. Prior to am
 
 Subsec. (f). Pub. L. 99–80, §2(e), added subsec. (f).
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–248 added subsec. (e).
+1982—Subsec. (e). Pub. L. 97–248 added subsec. (e).
 
-<b>1980</b>—Pub. L. 96–481, §204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, §204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
+1980—Pub. L. 96–481, §204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, §204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
 
-<b>1966</b>—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
+1966—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1996 Amendment
 
@@ -126,9 +132,9 @@ Amendment by Pub. L. 104–121 applicable to civil actions and adversary adjudic
 
 #### Effective Date of 1992 Amendment
 
-Section 506(b) of Pub. L. 102–572 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any case pending before the United States Court of Veterans Appeals on the date of the enactment of this Act \[Oct. 29, 1992\], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
+Section 506(b) of Pub. L. 102–572 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any case pending before the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on the date of the enactment of this Act \[Oct. 29, 1992\], to any appeal filed in that court on or after such date, and to any appeal from that court that is pending on such date in the United States Court of Appeals for the Federal Circuit.”
 
-Section 506(d) of Pub. L. 102–572 provided that: “This section \[amending this section and enacting provisions set out under this section\], and the amendment made by this section, shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
+Section 506(d) of Pub. L. 102–572 provided that: “This section \[amending this section and enacting provisionsset out under this section\], and the amendment made by this section, shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\].”
 
 Amendment by section 902(b)(1) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
@@ -136,7 +142,7 @@ Amendment by sections 301(a) and 502(b) of Pub. L. 102–572 effective Jan. 1, 1
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–80 applicable to cases pending on or commenced on or after Aug. 5, 1985, but withprovision for additional applicability to certain prior cases and to prior board of contracts appeals cases, see section 7 of Pub. L. 99–80, set out as a note under section 504 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 99–80 applicable to cases pending on or commenced on or after Aug. 5, 1985, but with provision for additional applicability to certain prior cases and to prior board of contracts appeals cases, see section 7 of Pub. L. 99–80, set out as a note under section 504 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1982 Amendment
 

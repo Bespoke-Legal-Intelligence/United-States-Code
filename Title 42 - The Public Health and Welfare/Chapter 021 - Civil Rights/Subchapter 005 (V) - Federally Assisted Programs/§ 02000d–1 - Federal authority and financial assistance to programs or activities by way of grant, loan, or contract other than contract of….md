@@ -32,7 +32,7 @@ Delegation of Function
 
 1–101. The function vested in the President by Section 602 of the Civil Rights Act of 1964 (42 U.S.C. 2000d–1), relating to the approval of rules, regulations, and orders of general applicability, is hereby delegated to the Attorney General.
 
-1–102. The function vested in the President by Section 902 of the Education Amendments of 1972 (20 U.S.C.1682), relating to the approval of rules, regulations, and orders of general applicability, is hereby delegated to the Attorney General.
+1–102. The function vested in the President by Section 902 of the Education Amendments of 1972 (20 U.S.C. 1682), relating to the approval of rules, regulations, and orders of general applicability, is hereby delegated to the Attorney General.
 
 #### 1–2.
 
@@ -90,7 +90,7 @@ General Provisions
 
 1–501. Executive Order No. 11764 is revoked. The present regulations of the Attorney General relating to the coordination of enforcement of Title VI of the Civil Rights Act of 1964 \[this subchapter\] shall continue in effect until revoked or modified (28 CFR 42.401 to 42.415).
 
-1–502. Executive Order No. 11914 is revoked. The present regulations of the Secretary of Health and Human Services relating to the coordination of the implementation of Section 504 of the Rehabilitation Act of 1973, as amended \[29 U.S.C. 794\], shall be deemed to have been issued by the Attorney General pursuant to this Order and shall continue in effect until revoked or modified by the Attorney General.
+1–502. Executive Order No. 11914 is revoked. The present regulations of the Secretary of Health and Human Services relating to the coordination of the implementation of Section 504 of the Rehabilitation Act of 1973, as amended \[29 U.S.C. 794\], shall be deemed tohave been issued by the Attorney General pursuant to this Order and shall continue in effect until revoked or modified by the Attorney General.
 
 1–503. Nothing in this Order shall vest the Attorney General with the authority to coordinate the implementation and enforcement by Executive agencies of statutory provisions relating to equal employment.
 

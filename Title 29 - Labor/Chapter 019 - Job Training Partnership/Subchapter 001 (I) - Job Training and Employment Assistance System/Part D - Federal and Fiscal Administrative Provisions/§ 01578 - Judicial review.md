@@ -2,7 +2,7 @@
 
 #### (a) Review by Court of Appeals of Secretary's final order; review petition, final order record, expeditious review; scope of review
 
-(1) With respect to any final order by the Secretary under section 1576 of this title wherebythe Secretary determines to award, to not award, or to only conditionally award, financial assistance, with respect to any final order of the Secretary under section 1576 of this title with respect to a corrective action or sanction imposed under section 1574 of this title, and with respect to a denial of an appeal under section 1511(4)(C) of this title or 1515(b)(2) of this title, any party to a proceeding which resulted in such final order may obtain review of such final order in the United States Court of Appeals having jurisdiction over the applicant or recipient of funds, by filing a review petition within 30 days of such final order.
+(1) With respect to any final order by the Secretary under section 1576 of this title whereby the Secretary determines to award, to not award, or to only conditionally award, financial assistance, with respect to any final order of the Secretary under section 1576 of this title with respect to a corrective action or sanction imposed under section 1574 of this title, and with respect to a denial of an appeal under section 1511(4)(C) of this title or 1515(b)(2) of this title, any party to a proceeding which resulted in such final order may obtain review of such final order in the United States Court of Appeals having jurisdiction over the applicant or recipient of funds, by filing a review petition within 30 days of such final order.
 
 (2) The clerk of the court shall transmit a copy of the review petition to the Secretary who shall file the record upon which the final order was entered as provided in section 2112 of title 28. Review petitions unless ordered by the court, shall not stay the Secretary's order. Petitions under this chapter shall be heard expeditiously, if possible within ten days of the filing of a reply brief.
 
@@ -13,6 +13,10 @@
 The court shall have jurisdiction to make and enter a decree affirming, modifying, or setting aside the order of the Secretary in whole or in part. The court's judgment shall be final, subject to certiorari review by the Supreme Court of the United States as provided in section 1254(1) of title 28.
 
 (Pub. L. 97–300, title I, §168, Oct. 13, 1982, 96 Stat. 1353.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Section Referred to in Other Sections
 

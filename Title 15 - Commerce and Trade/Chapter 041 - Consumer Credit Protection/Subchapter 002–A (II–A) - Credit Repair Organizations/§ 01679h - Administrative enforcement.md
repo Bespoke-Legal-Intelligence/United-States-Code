@@ -34,7 +34,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (A) Notice to Commission
 
-&emsp;&emsp;The State shall serve prior written notice of any civil action under paragraph (1) uponthe Federal Trade Commission and provide the Commission with a copy of its complaint, except in any case where such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action.
+&emsp;&emsp;The State shall serve prior written notice of any civil action under paragraph (1) upon the Federal Trade Commission and provide the Commission with a copy of its complaint, except in any case where such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action.
 
 #### (B) Intervention
 

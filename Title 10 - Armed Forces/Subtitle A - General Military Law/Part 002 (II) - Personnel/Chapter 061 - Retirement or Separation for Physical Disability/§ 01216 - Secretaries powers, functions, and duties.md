@@ -24,7 +24,7 @@
 
 > by reason of unfitness to perform the duties of his office, grade, rank, or rating unless the determination of the Secretary concerned with respect to unfitness is first approved by the Secretary of Defense on the recommendation of the Assistant Secretary of Defense for Health Affairs.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Mar. 4, 1976, Pub. L. 94–225, §2(a), 90 Stat. 202; Dec. 12, 1980, Pub. L. 96–513, title V, §511(45), 94 Stat. 2924; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(25), 98 Stat. 2623; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(7), 100 Stat. 3992; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(2), 103 Stat. 1603; Feb. 10, 1996, Pub. L. 104–106, div. A, title IX, §903(f)(2), 110 Stat. 402; Sept. 23, 1996, Pub. L. 104–201, div. A, title IX, §901, 110 Stat. 2617.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 94–225, §2(a), Mar. 4, 1976, 90 Stat. 202; Pub. L. 96–513, title V, §511(45), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–525, title XIV, §1405(25), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(7), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 104–106, div. A, title IX, §903(f)(2), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
 
 Historical and Revision Notes
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1976 Amendment
 
-Section 2(b) of Pub. L. 94–225 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
+Section 2(b) of Pub. L. 94–225 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect tounfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
 
 #### Ex. Ord. No. 10122. Regulations Governing Disability Pay, Hospitalization and Reexamination
 

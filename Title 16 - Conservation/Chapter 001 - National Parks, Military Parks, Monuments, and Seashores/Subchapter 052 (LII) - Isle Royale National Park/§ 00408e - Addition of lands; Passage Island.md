@@ -12,7 +12,7 @@ Subject to valid existing rights the following-described lands, in addition to t
 
 (b) Gull Islands, containing approximately six acres, located in section 19, township 68 north, range 31 west, in Keweenaw County, Michigan.
 
-(Mar. 6, 1942, ch. 152, §1, 56 Stat. 138; July 27, 1942, ch. 526, 56 Stat. 722; Oct. 20, 1976, Pub. L. 94–567, §4(a)(1), 90 Stat. 2694.)
+(Mar. 6, 1942, ch. 152, §1, 56 Stat. 138; July 27, 1942, ch. 526, 56 Stat. 722; Pub. L. 94–567, §4(a)(1), Oct. 20, 1976, 90 Stat. 2694.)
 
 #### Amendments
 

@@ -98,7 +98,7 @@ For purposes of this section:
 
 #### (1) Disposition to purchasers
 
-&emsp;In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms asthe Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a) of this section, only to a purchaser determined by the Secretary to be capable of—
+&emsp;In carrying out this section, the Secretary may dispose of a multifamily housing project owned by the Secretary on a negotiated, competitive bid, or other basis, on such terms as the Secretary deems appropriate considering the low-income character of the project and consistent with the goals in subsection (a) of this section, only to a purchaser determined by the Secretary to be capable of—
 
 &emsp;&emsp;(A) satisfying the conditions of the disposition plan developed under paragraph (2) for the project;
 
@@ -150,7 +150,7 @@ For purposes of this section:
 
 &emsp;In carrying out this section, the Secretary may—
 
-&emsp;&emsp;(A) contract for management services for a multifamily housing project that is owned by the Secretary (or for which the Secretary is mortgagee in possession) with for-profit and nonprofit entities and public agencies (including public housing authorities) on a negotiated, competitive bid, or other basisat a price determined by the Secretary to be reasonable, with a manager the Secretary has determined is capable of—
+&emsp;&emsp;(A) contract for management services for a multifamily housing project that is owned by the Secretary (or for which the Secretary is mortgagee in possession) with for-profit and nonprofit entities and public agencies (including public housing authorities) on a negotiated, competitive bid, or other basis at a price determined by the Secretary to be reasonable, with a manager the Secretary has determined is capable of—
 
 &emsp;&emsp;&emsp;(i) implementing a sound financial and physical management program that is designed to enable the project to meet anticipated operating and maintenance expenses to ensure that the project will remain in decent, safe, and sanitary condition and in compliance with any standards under applicable State or local laws, rules, ordinances, or regulations relating to the physical condition of the project and any such standards established by the Secretary;
 
@@ -268,11 +268,11 @@ In disposing of multifamily housing property under this section, consistent with
 
 #### (B) Very low-income tenants
 
-&emsp;&emsp;If, as a result of actions taken pursuant to this paragraph, the rents charged to any very low-income families residing in the project who are otherwise required (pursuant to subparagraph (A), (B), or (D) of paragraph (1)) to receive project-based assistance undersection 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] exceed the amount payable as rent under section 3(a) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)\], the Secretary shall provide tenant-based assistance under section 8 of such Act to such families.
+&emsp;&emsp;If, as a result of actions taken pursuant to this paragraph, the rents charged to any very low-income families residing in the project who are otherwise required (pursuant to subparagraph (A), (B), or (D) of paragraph (1)) to receive project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] exceed the amount payable as rent under section 3(a) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)\], the Secretary shall provide tenant-based assistance under section 8 of such Act to such families.
 
 #### (f) Discretionary assistance
 
-In addition to the actions required under subsection (e) of this section for a subsidized, formerly subsidized, or unsubsidized multifamily housing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a) of this section, take one or more of the following actions:
+In addition to the actions required under subsection (e) of this section for a subsidized, formerly subsidized, or unsubsidized multifamilyhousing project, the Secretary may, pursuant to the disposition plan and the goals in subsection (a) of this section, take one or more of the following actions:
 
 #### (1) Discounted sales price
 
@@ -362,7 +362,7 @@ For each multifamily housing project disposed of under this section, the Secreta
 
 &emsp;(1) for a period of 2 years beginning upon the date of the acquisition of the project by the purchaser under such disposition, the rent for the unit occupied by the family may not be increased above the rent charged immediately before acquisition;
 
-&emsp;(2) such family shall be considered displaced for purposes of the preferences for assistance under sections 6(c)(4)(A)(i), 8(d)(1)(A)(i), and 8(<i>o</i>)(3)(B) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(c)(4)(A)(i), 1437f(d)(1)(A)(i), and 1437f(<i>o</i>)(3)(B)\]; and
+&emsp;(2) such family shall be considered displaced for purposes of any system of preferences established pursuant to section 6(c)(4)(A), 8(d)(1)(A), or 8(<i>o</i>)(6)(A) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(c)(4)(A), 1437f(d)(1)(A), and 1437f(<i>o</i>)(6)(A)\]; and
 
 &emsp;(3) notice shall be provided to such family, not later than the date of the acquisition of the project by the purchaser—
 
@@ -398,7 +398,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 #### (2) Right of first refusal
 
-&emsp;During the 90-day period, the Secretary may not sell or offer to sell the multifamily housing project other than to a party notified under paragraph (1), unless the unit of general local government and the designated State agency or agencies notify the Secretary that they will not make an offer to purchase the project. The Secretary shall accept a bona fide offer to purchase the project made during such period if it complies with the terms and conditions of the disposition plan for the project or is otherwise acceptable to the Secretary.
+&emsp;During the 90-day period, the Secretary may not sell or offer to sell the multifamily housing project other than to a party notified under paragraph (1), unless the unit of general local government and the designated State agency or agencies notify the Secretary that they will not make an offer to purchase the project. The Secretary shall accept a bona fide offer to purchase the project made during suchperiod if it complies with the terms and conditions of the disposition plan for the project or is otherwise acceptable to the Secretary.
 
 #### (3) Procedure
 
@@ -490,7 +490,7 @@ Not later than June 1 of each year, the Secretary shall submit to the Congress a
 
 &emsp;(14) a description of the activities carried out under subsection (i) of this section during the preceding year.
 
-(Pub. L. 95–557, title II, §203, Oct. 31, 1978, 92 Stat. 2088; Pub. L. 96–153, title II, §208, Dec. 21, 1979, 93 Stat. 1109; Pub. L. 96–399, title II, §213, Oct. 8, 1980, 94 Stat. 1636; Pub. L. 100–242, title I, §181, Feb. 5, 1988, 101 Stat. 1868; Pub. L. 100–628, title X, §1010, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–235, title II, §204(a), Dec. 15, 1989, 103 Stat. 2039; Pub. L. 101–625, title V, §579, Nov. 28, 1990, 104 Stat. 4245; Pub. L. 103–120, §6(c)(2), Oct. 27, 1993, 107 Stat. 1149; Pub. L. 103–233, title I, §101(b), Apr. 11, 1994, 108 Stat. 343.)
+(Pub. L. 95–557, title II, §203, Oct. 31, 1978, 92 Stat. 2088; Pub. L. 96–153, title II, §208, Dec. 21, 1979, 93 Stat. 1109; Pub. L. 96–399, title II, §213, Oct. 8, 1980, 94 Stat. 1636; Pub. L. 100–242, title I, §181, Feb. 5, 1988, 101 Stat. 1868; Pub. L. 100–628, title X, §1010, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–235, title II, §204(a), Dec. 15, 1989, 103 Stat. 2039; Pub. L. 101–625, title V, §579, Nov. 28, 1990, 104 Stat. 4245; Pub. L. 103–120, §6(c)(2), Oct. 27, 1993, 107 Stat. 1149; Pub. L. 103–233, title I, §101(b), Apr. 11, 1994, 108 Stat. 343; Pub. L. 105–276, title V, §514(b)(2)(C), Oct. 21, 1998, 112 Stat. 2548.)
 
 #### References in Text
 
@@ -518,7 +518,9 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 #### Amendments
 
-1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
+1998—Subsec. (g)(2). Pub. L. 105–276 substituted “any system of preferences established pursuant to section 6(c)(4)(A), 8(d)(1)(A), or 8(<i>o</i>)(6)(A)” for “the preferences for assistance under sections 6(c)(4)(A)(i), 8(d)(1)(A)(i), and 8(<i>o</i>)(3)(B)”.
+
+1994—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) torules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (<i>l</i>) to project-based assistance.
 
 1993—Subsec. (<i>l</i>). Pub. L. 103–120 added subsec. (<i>l</i>).
 
@@ -578,9 +580,9 @@ Subsec. (c)(3). Pub. L. 96–399, §213(c), added par. (3).
 
 Subsec. (d)(2)(B), (C). Pub. L. 96–399, §213(d), inserted exception for tenants of above-moderate income.
 
-Subsec. (f). Pub. L. 96–399, §213(e), substituted provisions respecting applicability to projects assisted or insured under this chapter, or subject to loans under section 1701q of this title or section 1452b of title 42, or projects acquired by the Secretary pursuant to any other provision of law, for provisions respecting applicability to assistance under section 1715z-1 of this title,the proviso of section 1715<i>l</i>(d)(5) of this title, or section 101 of the Housing and Urban Development Act of 1965, and projects insured under this chapter.
+Subsec. (f). Pub. L. 96–399, §213(e), substituted provisions respecting applicability to projects assisted or insured under this chapter, or subject to loans under section 1701q of this title or section 1452b of title 42, or projects acquired by the Secretary pursuant to any other provision of law, for provisions respecting applicability to assistance under section 1715z-1 of this title, the proviso of section 1715<i>l</i>(d)(5) of this title, or section 101 of the Housing and Urban Development Act of 1965, and projects insured under this chapter.
 
-1979—Subsec. (d)(2). Pub. L. 96–153 substituted “assure for any such tenant (who continues to meet applicable qualification standards) the right” for “seek to assure the maximum opportunity for any such tenant”.
+1979—Subsec. (d)(2). Pub. L. 96–153 substituted “assure for any such tenant (who continues to meet applicablequalification standards) the right” for “seek to assure the maximum opportunity for any such tenant”.
 
 #### Regulations
 

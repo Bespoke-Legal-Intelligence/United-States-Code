@@ -2,7 +2,7 @@
 
 Any enlisted member who is retired under any provision of section 353, 354, 355, or 357 of this title shall be retired from active service with highest grade or rating held by him while on active duty in which, as determined by the Secretary, his performance of duty was satisfactory, but not lower than his permanent grade or rating.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 522; Aug. 3, 1950, ch. 536, §21, 64 Stat. 407; Oct. 12, 1982, Pub. L. 97–295, §2(9), 96 Stat. 1302; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), 98 Stat. 2865; July 1, 1986, Pub. L. 99–348, title II, §205(b)(8), 100 Stat. 700.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 522; Aug. 3, 1950, ch. 536, §21, 64 Stat. 407; Pub. L. 97–295, §2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–557, §15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–348, title II, §205(b)(8), July 1, 1986, 100 Stat. 700.)
 
 #### Historical and Revision Notes
 

@@ -18,7 +18,7 @@
 
 (d) The Secretary shall provide for the accounting, budgeting, and other fiscal procedures that are necessary and reasonable to carry out this section properly and efficiently. Records related to amounts allocated under this chapter shall be made available to the Secretary and the Comptroller General to conduct audits.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596; Pub. L. 98–369, div. A, title X, §1011(f), July 18, 1984, 98Stat. 1013; Pub. L. 101–595, title III, §312(d), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 104–324, title VII, §746(a)(3), (4), Oct. 19, 1996, 110 Stat. 3943.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596; Pub. L. 98–369, div. A, title X, §1011(f), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(d), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 104–324, title VII, §746(a)(3), (4), Oct. 19, 1996, 110 Stat. 3943.)
 
 Historical and Revision Notes
 
@@ -42,5 +42,5 @@ Section 13108 sets forth the manner that the Secretary shall compute the amounts
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
+Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept.30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
 

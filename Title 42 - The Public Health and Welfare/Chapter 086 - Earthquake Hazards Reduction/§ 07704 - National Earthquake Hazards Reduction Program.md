@@ -366,5 +366,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7703, 7706 of this title; title 23 section 307.
+This section is referred to in sections 7703, 7706 of this title; title 23 section 502.
 

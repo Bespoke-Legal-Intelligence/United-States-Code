@@ -12,7 +12,7 @@
 
 #### (3) Condition of certification
 
-&emsp;As a condition of certification, the Secretary may require the lender to undertake to service the guaranteed loan using standards that are not less stringent than generally accepted banking standards concerning loan servicing that are used by prudent commercial or cooperative lenders.
+&emsp;As a condition of certification, the Secretary may require the lender to undertake toservice the guaranteed loan using standards that are not less stringent than generally accepted banking standards concerning loan servicing that are used by prudent commercial or cooperative lenders.
 
 #### (4) Guarantee
 

@@ -1,6 +1,6 @@
 ### §3713. Authorization of appropriations
 
-(a)(1) There is authorized to be appropriated to the Secretary for the purposes of carrying out sections 3704, 3710(g), and 3711 of this title not to exceed $3,400,000 for the fiscal year ending September 30, 1988.
+(a)(1) There is authorized to be appropriated to the Secretary for the purposes of carrying outsections 3704, 3710(g), and 3711 of this title not to exceed $3,400,000 for the fiscal year ending September 30, 1988.
 
 (2) Of the amount authorized under paragraph (1) of this subsection, $2,400,000 is authorized only for the Office of Productivity, Technology, and Innovation; $500,000 is authorized only for the purpose of carrying out the requirements of the Japanese technical literature program established under section 3704(d) of this title; and $500,000 is authorized only for the patent licensing activities of the National Technical Information Service.
 

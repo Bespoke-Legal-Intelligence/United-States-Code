@@ -14,7 +14,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (1) Investigation and report to management
 
-&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a)of this section applies, the independent public accountant detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the accountant shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a) of this section applies, the independent public accountant detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the accountant shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;&emsp;(A)(i) determine whether it is likely that an illegal act has occurred; and
 
@@ -44,7 +44,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (4) Report after resignation
 
-&emsp;If an independent public accountant resigns from an engagement under paragraph (3)(A), the accountant shall, not later than 1 business day following the failure by the issuer to notify the Commission under paragraph (3), furnish to the Commission a copy of the accountant's report (or the documentation of any oral report given).
+&emsp;If an independent public accountant resigns from an engagement under paragraph (3)(A), the accountant shall, not later than 1 businessday following the failure by the issuer to notify the Commission under paragraph (3), furnish to the Commission a copy of the accountant's report (or the documentation of any oral report given).
 
 #### (c) Auditor liability limitation
 
@@ -62,7 +62,7 @@ Except as provided in subsection (d) of this section, nothing in this section sh
 
 As used in this section, the term “illegal act” means an act or omission that violates any law, or any rule or regulation having the force of law.
 
-(June 6, 1934, ch. 404, title I, §10A, as added Dec. 22, 1995, Pub. L. 104–67, title III, §301(a), 109 Stat. 762.)
+(June 6, 1934, ch. 404, title I, §10A, as added Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat. 762.)
 
 #### References in Text
 
@@ -78,5 +78,5 @@ Section 301(b) of Pub. L. 104–67 provided that: “The amendment made by subse
 
 #### Construction
 
-Section 203 of Pub. L. 104–67 provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting orotherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
+Section 203 of Pub. L. 104–67 provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
 

@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 120 days following the termination of the Conference, a final report of the Conference, containing such findings and recommendations as may be made by the Conference, shall be submitted to the President. The final report shall be made public and, not later than 90 days after receipt by the President, transmitted to the Congress togetherwith a statement of the President containing recommendations for implementing the report.
+&emsp;Not later than 120 days following the termination of the Conference, a final report of the Conference, containing such findings and recommendations as may be made by the Conference, shall be submitted to the President. The final report shall be made public and, not later than 90 days after receipt by the President, transmitted to the Congress together with a statement of the President containing recommendations for implementing the report.
 
 #### (2) Publication and distribution
 

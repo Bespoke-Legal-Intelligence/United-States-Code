@@ -2,7 +2,7 @@
 
 #### (a) Determination of amount
 
-The Secretary shall periodically determine the amount which should be paid under this part toeach provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the General Accounting Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
+The Secretary shall periodically determine the amount which should be paid under this part to each provider of services with respect to the services furnished by it, and the provider of services shall be paid, at such time or times as the Secretary believes appropriate (but not less often than monthly) and prior to audit or settlement by the General Accounting Office, from the Federal Hospital Insurance Trust Fund, the amounts so determined, with necessary adjustments on account of previously made overpayments or underpayments; except that no such payments shall be made to any provider unless it has furnished such information as the Secretary may request in order to determine the amounts due such provider under this part for the period with respect to which the amounts are being paid or any prior period.
 
 #### (b) Conditions
 
@@ -60,7 +60,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;(B) the merging or consolidating hospitals or campuses would each meet the requirement of paragraph (1)(B)(i) if such hospitals or campuses were treated as independent hospitals for purposes of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 297; amended Dec. 31, 1975, Pub. L. 94–182, title I, §112(a)(2), 89 Stat. 1055; Oct. 25, 1977, Pub. L. 95–142, §2(a)(2), 91 Stat. 1175; Oct. 19, 1980, Pub. L. 96–473, §6(i), 94 Stat. 2266; Sept. 3, 1982, Pub. L. 97–248, title I, §§117(a)(1), 148(b), 96 Stat. 354, 394; Oct. 21, 1986, Pub. L. 99–509, title IX, §9311(a)(1), 100 Stat. 1996; Dec. 19, 1989, Pub. L. 101–239, title VI, §6021(a), 103 Stat. 2166; Aug. 5, 1997, Pub. L. 105–33, title IV, §4603(b), 111 Stat. 470.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470.)
 
 #### Amendments
 

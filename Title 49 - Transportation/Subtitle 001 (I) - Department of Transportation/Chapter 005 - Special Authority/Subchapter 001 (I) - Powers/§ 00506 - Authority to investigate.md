@@ -4,7 +4,7 @@
 
 (b) A person, including a governmental authority, may file with the Secretary a complaint about a violation of this chapter by a carrier referred to in subsection (a) of this section. The complaint must state the facts that are the subject of the violation. The Secretary may dismiss a complaint the Secretary determines does not state reasonable grounds for investigation and action. However, the Secretary may not dismiss a complaint made against a rail carrier because of the absence of direct damage to the complainant.
 
-(c) The Secretary shall make a written report of each proceeding involving a rail carrier ormotor carrier conducted and furnish a copy to each party to that proceeding. The report shall include the findings, conclusions, and the order of the Secretary. The Secretary may have the reports published for public use. A published report of the Secretary is competent evidence of its contents.
+(c) The Secretary shall make a written report of each proceeding involving a rail carrier or motor carrier conducted and furnish a copy to each party to that proceeding. The report shall include the findings, conclusions, and the order of the Secretary. The Secretary may have the reports published for public use. A published report of the Secretary is competent evidence of its contents.
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2434.)
 
@@ -56,7 +56,7 @@ In subsections (a) and (b), the text of 49:304(a)(3) (last sentence 1st–7th wo
 
 Subsection (a) is patterned after 49:304(c). The words “violating this chapter” are substituted for “failed to comply with any such provision or requirement” for clarity.
 
-In subsection (b), the text of 49:13(2) (last sentence) is omitted because 49:13(3) is not included in the specific enumeration of 49:1655(f)(2)(B)(ii). The words “referred to in subsection (a) of this section” are added for clarity.
+In subsection (b), the text of 49:13(2) (last sentence) is omitted because 49:13(3) is not included in the specific enumeration of 49:1655(f)(2)(B)(ii). The words “referredto in subsection (a) of this section” are added for clarity.
 
 Subsection (c) does not apply to motor carriers of migrant workers and motor private carriers because 49:304(d) applies only to motor carriers and 49:304(a)(3) and (3a) do not apply 49:304(d) to motor carriers of migrant workers and motor private carriers. The word “proceeding” is substituted for “investigation” for clarity and to conform to other sections of the revised title. The word “findings” is added for clarity. The word “decision” is omitted as covered by “conclusions”. The words “or requirement” are omitted as covered by “order”. The words “in the premises” are omitted as surplus. The words “and in case damages are awarded, such report shall include the findings of fact on which the award is made” are omitted as not applicable to this chapter. The words “entered of record”, “and decisions in such form and manner as may be best adapted for public information and use”, and “in all courts of the United States and of the several States without any further proof or authentication thereof” are omitted as surplus. The text of 49:14(3) (last sentence) is omitted as unnecessary.
 

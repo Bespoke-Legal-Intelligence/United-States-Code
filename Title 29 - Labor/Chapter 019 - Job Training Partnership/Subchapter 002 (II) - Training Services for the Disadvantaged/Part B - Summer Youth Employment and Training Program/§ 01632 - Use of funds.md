@@ -42,7 +42,7 @@ Funds available under this part may be used for—
 
 #### (B) Recent assessment
 
-&emsp;&emsp;A new assessment, or a factor of such assessment, of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program (such as a regular high school academic program).
+&emsp;&emsp;A new assessment, or a factor of such assessment, of a participant is not required ifthe program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program (such as a regular high school academic program).
 
 #### (2) Service strategy
 
@@ -66,7 +66,7 @@ Funds available under this part may be used for—
 
 #### (A) Work experience
 
-&emsp;&emsp;Work experience provided under this part, to the extent feasible, shall include contextual learning opportunities which integratethe development of general competencies with the development of academic skills.
+&emsp;&emsp;Work experience provided under this part, to the extent feasible, shall include contextual learning opportunities which integrate the development of general competencies with the development of academic skills.
 
 #### (B) Classroom training
 
@@ -81,6 +81,10 @@ Service delivery areas shall make followup services available for participants i
 In conducting the program assisted under this part, service delivery areas shall establish linkages with the appropriate educational agencies responsible for service to participants. Such linkages shall include arrangements to ensure that there is a regular exchange of information relating to the progress, problems and needs of participants, including the results of assessments of the skill levels of participants.
 
 (Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061; amended Pub. L. 103–227, title X, §1016(a)(1)–(2)(B), Mar. 31, 1994, 108 Stat. 267; Pub. L. 104–193, title I, §110(n)(8), Aug. 22, 1996, 110 Stat. 2174.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Prior Provisions
 

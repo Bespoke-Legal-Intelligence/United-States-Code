@@ -6,7 +6,7 @@ General.—In this chapter—
 
 &emsp;(1) “existing liquefied natural gas facility”—
 
-&emsp;&emsp;(A) means a liquefied natural gas facility for which an application to approve the site,construction, or operation of the facility was filed before March 1, 1978, with—
+&emsp;&emsp;(A) means a liquefied natural gas facility for which an application to approve the site, construction, or operation of the facility was filed before March 1, 1978, with—
 
 &emsp;&emsp;&emsp;(i) the Federal Energy Regulatory Commission (or any predecessor); or
 
@@ -344,7 +344,7 @@ The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(A)(ii), (9)(A) a
 
 Subsec. (a)(1) to (20). Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end of pars. (1) to (20).
 
-Subsec. (a)(21)(B). Pub. L. 104–304, §3(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “does not include gathering gas in a rural area outside a populated area designated by the Secretary as a nonrural area;”.
+Subsec. (a)(21)(B). Pub. L. 104–304, §3(a)(2), added subpar. (B) and struck out former subpar. (B) which readas follows: “does not include gathering gas in a rural area outside a populated area designated by the Secretary as a nonrural area;”.
 
 Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end.
 

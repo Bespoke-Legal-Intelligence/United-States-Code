@@ -16,11 +16,19 @@ The United States Central Authority is authorized to issue such regulations as m
 
 The United States Central Authority may, to the extent authorized by the Social Security Act \[42 U.S.C. 301 et seq.\], obtain information from the Parent Locator Service.
 
-(Pub. L. 100–300, §7, Apr. 29, 1988, 102 Stat. 439.)
+#### (e) Grant authority
+
+The United States Central Authority is authorized to make grants to, or enter into contracts or agreements with, any individual, corporation, other Federal, State, or local agency, or private entity or organization in the United States for purposes of accomplishing its responsibilities under the Convention and this chapter.
+
+(Pub. L. 100–300, §7, Apr. 29, 1988, 102 Stat. 439; Pub. L. 105–277, div. G, title XXII, §2213, Oct. 21, 1998, 112 Stat. 2681–812.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (e). Pub. L. 105–277 added subsec. (e).
 
 #### Ex. Ord. No. 12648. Implementation of Convention on Civil Aspects of International Child Abduction
 

@@ -4,7 +4,7 @@ As used in this part:
 
 &emsp;(1) The term “charter school” means a public school that—
 
-&emsp;&emsp;(A) in accordance with an enabling State statute, is exempted from significant State or local rules that inhibit the flexible operation and management of public schools, but not from any rules relating to the other requirements of this paragraph;
+&emsp;&emsp;(A) in accordance with a specific State statute authorizing the granting of charters to schools, is exempted from significant State or local rules that inhibit the flexible operation and management of public schools, but not from any rules relating to the other requirements of this paragraph;
 
 &emsp;&emsp;(B) is created by a developer as a public school, or is adapted by a developer from an existing public school, and is operated under public supervision and direction;
 
@@ -16,15 +16,17 @@ As used in this part:
 
 &emsp;&emsp;(F) does not charge tuition;
 
-&emsp;&emsp;(G) complies with the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\];
+&emsp;&emsp;(G) complies with the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], title VI ofthe Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\];
 
-&emsp;&emsp;(H) admits students on the basis of a lottery, if more students apply for admission than can be accommodated;
+&emsp;&emsp;(H) is a school to which parents choose to send their children, and that admits students on the basis of a lottery, if more students apply for admission than can be accommodated;
 
 &emsp;&emsp;(I) agrees to comply with the same Federal and State audit requirements as do other elementary and secondary schools in the State, unless such requirements are specifically waived for the purpose of this program;
 
-&emsp;&emsp;(J) meets all applicable Federal, State, and local health and safety requirements; and
+&emsp;&emsp;(J) meets all applicable Federal, State, and local health and safety requirements;
 
-&emsp;&emsp;(K) operates in accordance with State law.
+&emsp;&emsp;(K) operates in accordance with State law; and
+
+&emsp;&emsp;(L) has a written performance contract with the authorized public chartering agency in the State that includes a description of how student performance will be measured in charter schools pursuant to State assessments that are required of other schools and pursuant to any other assessments mutually agreeable to the authorized public chartering agency and the charter school.
 
 &emsp;(2) The term “developer” means an individual or group of individuals (including a public or private nonprofit organization), which may include teachers, administrators and other school staff, parents, or other members of the local community in which a charter school project will be carried out.
 
@@ -32,7 +34,7 @@ As used in this part:
 
 &emsp;(4) The term “authorized public chartering agency” means a State educational agency, local educational agency, or other public entity that has the authority pursuant to State law and approved by the Secretary to authorize or approve a charter school.
 
-(Pub. L. 89–10, title X, §10306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3829.)
+(Pub. L. 89–10, title X, §10310, formerly §10306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3829; renumbered §10310 and amended, Pub. L. 105–278, §3(g)(1), (h), Oct. 22, 1998, 112 Stat. 2687, 2688.)
 
 #### References in Text
 
@@ -44,7 +46,15 @@ The Education Amendments of 1972, referred to in par. (1)(G), is Pub. L. 92–31
 
 The Individuals with Disabilities Education Act, referred to in par. (1)(G), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
+#### Amendments
+
+1998—Par. (1)(A). Pub. L. 105–278, §3(h)(1), which directed amendment of subpar. (A) by substituting “a specific State statute authorizing the granting of charters to schools” for “an enabling statute”, was executed by making the substitution for “an enabling State statute”, to reflect the probable intent of Congress.
+
+Par. (1)(H). Pub. L. 105–278, §3(h)(2), inserted “is a school to which parents choose to send their children, and that” before “admits”.
+
+Par. (1)(L). Pub. L. 105–278, §3(h)(3)–(5), added subpar. (L).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8064 of this title.
+This section is referred to in sections 2302, 8064 of this title.
 

@@ -10,5 +10,5 @@ Subject to sections 300g–4 and 300g–5 of this title, national primary drinki
 
 &emsp;(4) which is not a carrier which conveys passengers in interstate commerce.
 
-(July 1, 1944, ch. 373, title XIV, §1411, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1662.)
+(July 1, 1944, ch. 373, title XIV, §1411, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1662.)
 

@@ -2,31 +2,55 @@
 
 #### (a) Classroom teachers
 
-#### (1) Degree requirements
+#### (1) Professional requirements
 
-&emsp;The Secretary shall ensure that not later than September 30, 1996, each Head Start classroom in a center-based program is assigned one teacher who has—
+&emsp;The Secretary shall ensure that each Head Start classroom in a center-based program is assigned one teacher who has demonstrated competency to perform functions that include—
 
-&emsp;&emsp;(A) a child development associate (CDA) credential that is appropriate to the age of the children being served in center-based programs;
+&emsp;&emsp;(A) planning and implementing learning experiences that advance the intellectual and physical development of children, including improving the readiness of children for school by developing their literacy and phonemic, print, and numeracy awareness, their understanding and use of language, their understanding and use of increasingly complex and varied vocabulary, their appreciation of books, and their problem solving abilities;
 
-&emsp;&emsp;(B) a State-awarded certificate for preschool teachers that meets or exceeds the requirements for a child development associate credential;
+&emsp;&emsp;(B) establishing and maintaining a safe, healthy learning environment;
 
-&emsp;&emsp;(C) an associate, a baccalaureate, or an advanced degree in early childhood education; or
+&emsp;&emsp;(C) supporting the social and emotional development of children; and
 
-&emsp;&emsp;(D) a degree in a field related to early childhood education with experience in teaching preschool children and a State-awarded certificate to teach in a preschool program.
+&emsp;&emsp;(D) encouraging the involvement of the families of the children in a Head Start program and supporting the development of relationships between children and their families.
 
-#### (2) Waiver
+#### (2) Degree requirements
 
-&emsp;On request, the Secretary shall grant a 180-day waiver of the requirements of paragraph (1) with respect to an individual who—
+#### (A) In general
 
-&emsp;&emsp;(A) is first employed after September 30, 1996, by a Head Start agency as a teacher for a Head Start classroom;
+&emsp;&emsp;The Secretary shall ensure that not later than September 30, 2003, at least 50 percent of all Head Start teachers nationwide in center-based programs have—
 
-&emsp;&emsp;(B) is enrolled in a program that grants any credential, certificate, or degree specified in subparagraph (A), (B), (C), or (D) of paragraph (1); and
+&emsp;&emsp;&emsp;(i) an associate, baccalaureate, or advanced degree in early childhood education; or
 
-&emsp;&emsp;(C) will receive such credential under the terms of such program not later than 180 days after beginning employment as a teacher with such agency.
+&emsp;&emsp;&emsp;(ii) an associate, baccalaureate, or advanced degree in a field related to early childhood education, with experience in teaching preschool children.
 
-#### (3) Limitation
+#### (B) Progress
 
-&emsp;The Secretary may not grant more than one such waiver with respect to such individual.
+&emsp;&emsp;The Secretary shall require Head Start agencies to demonstrate continuing progress each year to reach the result described in subparagraph (A).
+
+#### (3) Alternative credentialing requirements
+
+&emsp;The Secretary shall ensure that, for center-based programs, each Head Start classroom that does not have a teacher that meets the requirements of clause (i) or (ii) of paragraph (2)(A) is assigned one teacher who has—
+
+&emsp;&emsp;(A) a child development associate credential that is appropriate to the age of the children being served in center-based programs;
+
+&emsp;&emsp;(B) a State-awarded certificate for preschool teachers that meets or exceeds the requirements for a child development associate credential; or
+
+&emsp;&emsp;(C) a degree in a field related to early childhood education with experience inteaching preschool children and a State-awarded certificate to teach in a preschool program.
+
+#### (4) Waiver
+
+#### (A) In general
+
+&emsp;&emsp;On request, the Secretary shall grant a 180-day waiver of the requirements of paragraph (3), for a Head Start agency that can demonstrate that the agency has unsuccessfully attempted to recruit an individual who has a credential, certificate, or degree described in paragraph (3), with respect to an individual who—
+
+&emsp;&emsp;&emsp;(i) is enrolled in a program that grants any such credential, certificate, or degree; and
+
+&emsp;&emsp;&emsp;(ii) will receive such credential, certificate, or degree under the terms of such program not later than 180 days after beginning employment as a teacher with such agency.
+
+#### (B) Limitation
+
+&emsp;&emsp;The Secretary may not grant more than one such waiver with respect to such individual.
 
 #### (b) Mentor teachers
 
@@ -40,7 +64,7 @@
 
 &emsp;&emsp;(A) provide technical assistance and training to enable Head Start agencies to establish such positions;
 
-&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A),to Head Start programs that have substantial numbers of new classroom staff, that are experiencing difficulty in meeting applicable education standards, or that lack staff of a similar cultural background to that of the participating children and their families;
+&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A), to Head Start programs that have substantial numbers of new classroom staff or that are experiencing difficulty in meeting applicable education standards;
 
 &emsp;&emsp;(C) encourage Head Start programs to give priority consideration for such positions to Head Start teachers at the appropriate level of career advancement in such programs; and
 
@@ -92,7 +116,7 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 #### (4) Selection of Fellows
 
-&emsp;Head Start Fellowships shall be awarded on a competitive basis to individuals (other than Federal employees) selected from among applicants who are working, on the date of application, in local Head Start programs or otherwise working in the field of child development and children and family services.
+&emsp;Head Start Fellowships shall be awarded on a competitive basis to individuals (other thanFederal employees) selected from among applicants who are working, on the date of application, in local Head Start programs or otherwise working in the field of child development and children and family services.
 
 #### (5) Duration
 
@@ -114,9 +138,19 @@ In order to improve the quality and effectiveness of staff providing in-home and
 
 Not later than 1 year after May 18, 1994, the Secretary, in consultation with appropriate public agencies, private agencies, and organizations and with individuals with expertise in the field of children and family services, shall develop model staffing plans to provide guidance to local Head Start agencies and programs on the numbers, types, responsibilities, and qualifications of staff required to operate a Head Start program.
 
-(Pub. L. 97–35, title VI, §648A, as added Pub. L. 103–252, title I, §115, May 18, 1994, 108 Stat. 643.)
+(Pub. L. 97–35, title VI, §648A, as added Pub. L. 103–252, title I, §115, May 18, 1994, 108 Stat. 643; amended Pub. L. 105–285, title I, §115, Oct. 27, 1998, 112 Stat. 2722.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–285, §115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
+
+Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
 
 #### Effective Date
 
 Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 9835, 9837 of this title.
 

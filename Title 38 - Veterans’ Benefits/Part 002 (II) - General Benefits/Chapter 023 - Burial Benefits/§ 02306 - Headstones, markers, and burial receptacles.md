@@ -12,23 +12,35 @@
 
 (5) Any individual who at the time of death was entitled to retired pay under chapter 67 <sup>1</sup> of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
-(b) The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating any veteran—
+(b)(1) The Secretary shall furnish, when requested, an appropriate memorial headstone ormarker for the purpose of commemorating an eligible individual whose remains are unavailable. Such a headstone or marker shall be furnished for placement in a national cemetery area reserved for that purpose under section 2403 of this title, a veterans’ cemetery owned by a State, or, in the case of a veteran, in a State, local, or private cemetery.
 
-&emsp;(1) whose remains have not been recovered or identified,
+(2) For purposes of paragraph (1), an eligible individual is any of the following:
 
-&emsp;(2) whose remains were buried at sea, whether by the veteran's own choice or otherwise,
+&emsp;(A) A veteran.
 
-&emsp;(3) whose remains were donated to science, or
+&emsp;(B) The spouse or surviving spouse of a veteran.
 
-&emsp;(4) whose remains were cremated and the ashes scattered without interment of any portion of the ashes,
+(3) For purposes of paragraph (1), the remains of an individual shall be considered to be unavailable if the individual's remains—
 
-> for placement by the applicant in a national cemetery area reserved for such purpose under the provisions of section 2403 of this title or in a State, local, or private cemetery.
+&emsp;(A) have not been recovered or identified;
+
+&emsp;(B) were buried at sea, whether by the individual's own choice or otherwise;
+
+&emsp;(C) were donated to science; or
+
+&emsp;(D) were cremated and the ashes scattered without interment of any portion of the ashes.
+
+(4) For purposes of this subsection:
+
+&emsp;(A) The term “veteran” includes an individual who dies in the active military, naval, or air service.
+
+&emsp;(B) The term “surviving spouse” includes an unremarried surviving spouse whose subsequent remarriage was terminated by death or divorce.
 
 (c) A headstone or marker furnished under subsection (a) or (b) of this section may be of any material, including but not limited to marble, granite, bronze, or slate, requested by the person entitled to request such headstone or marker if the material requested is determined by the Secretary (1) to be cost effective, and (2) in a case in which the headstone or marker is to be placed in a national cemetery, to be aesthetically compatible with the area of the cemetery in which it is to be placed.
 
-(d)(1) The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery within the National Cemetery System in which remains are interred in a casket. The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
+(d)(1) The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket. The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
 
-(2) The use of outer burial receptacles in a cemetery within the National Cemetery System or in the Arlington National Cemetery shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs or Secretary of the Army, respectively.
+(2) The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration or in the Arlington National Cemetery shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs or Secretary of the Army, respectively.
 
 (3) Regulations or procedures under paragraph (2) may specify that—
 
@@ -42,13 +54,33 @@
 
 (4) Regulations or procedures under paragraph (2) may provide for the use of a voucher system, or other system of reimbursement approved by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army), for payment for outer burial receptacles other than grave liners provided under such regulations or procedures.
 
-(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332.)
+(e)(1) When the Secretary has furnished a headstone or marker under subsection (a) for the unmarked grave of an individual, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate headstone or marker under that subsection for the surviving spouse of such individual.
+
+(2) When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, or air service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse of such individual.
+
+(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338.)
 
 #### References in Text
 
 Chapter 67 of title 10, referred to in subsec. (a)(5), was transferred to part II of subtitle E of Title 10, Armed Forces, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–368, §401(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating any veteran—
+
+&emsp;“(1) whose remains have not been recovered or identified,
+
+&emsp;“(2) whose remains were buried at sea, whether by the veteran's own choice or otherwise,
+
+&emsp;“(3) whose remains were donated to science, or
+
+&emsp;“(4) whose remains were cremated and the ashes scattered without interment of any portion of the ashes,
+
+> for placement by the applicant in a national cemetery area reserved for such purpose under the provisions of section 2403 of this title or in a State, local, or private cemetery.”
+
+Subsec. (d)(1), (2). Pub. L. 105–368, §403(c)(2), substituted “under the control of the National Cemetery Administration” for “within the National Cemetery System”.
+
+Subsec. (e). Pub. L. 105–368, §401(b), added subsec. (e).
 
 1996—Pub. L. 104–275, §213(b)(1), substituted “burial receptacles” for “grave liners” in section catchline.
 
@@ -70,7 +102,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2403” for “1003” 
 
 1989—Subsecs. (a) to (c). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 101–237, §501, substituted “cost of acquiring” for “actual costs incurred by or on behalf ofsuch person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
+Subsec. (d). Pub. L. 101–237, §501, substituted “cost of acquiring” for “actual costs incurred by or on behalf of such person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
 
 Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 
@@ -91,6 +123,10 @@ Subsec. (e). Pub. L. 100–322, §344(a), added subsec. (e).
 1978—Subsec. (b). Pub. L. 95–479 struck out “dying in the service, and” after “to commemorate any veteran”.
 
 Subsecs. (c), (d). Pub. L. 95–476 added subsecs. (c) and (d).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–368, title IV, §401(d), Nov. 11, 1998, 112 Stat. 3335, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to deaths occurring after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -120,7 +156,7 @@ Section 10(c) of Pub. L. 93–43 provided that: “Clause (2) of section 5(a) \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 113 of this title.
+This section is referred to in sections 113, 2403 of this title; title 46 section 11201.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

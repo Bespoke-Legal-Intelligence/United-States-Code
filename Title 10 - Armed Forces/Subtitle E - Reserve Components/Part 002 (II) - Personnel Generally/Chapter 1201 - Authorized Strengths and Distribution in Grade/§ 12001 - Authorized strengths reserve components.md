@@ -2,7 +2,7 @@
 
 (a) Whenever the authorized strength of a reserve component (other than the Coast Guard Reserve) is not prescribed by law, it shall be prescribed by the President.
 
-(b) Subject to the authorized strength of the reserve component concerned, the authorized strength of each reserve component (other than the Coast Guard Reserve) in members in each grade is that which the Secretary concerned determines to be necessary to provide for mobilization requirements. The Secretary shall review these determinations at least once each year and revise them if he considers it necessary. However, a member of the reserve componentconcerned may not, as a result of such a determination, be reduced in the member's reserve grade without the member's consent.
+(b) Subject to the authorized strength of the reserve component concerned, the authorized strength of each reserve component (other than the Coast Guard Reserve) in members in each grade is that which the Secretary concerned determines to be necessary to provide for mobilization requirements. The Secretary shall review these determinations at least once each year and revise them if he considers it necessary. However, a member of the reserve component concerned may not, as a result of such a determination, be reduced in the member's reserve grade without the member's consent.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2983.)
 
@@ -16,55 +16,61 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
-Pub. L. 105–85, div. A, title IV, §§411, 412, Nov. 18, 1997, 111 Stat. 1719, 1720, provided that:
+Pub. L. 105–261, div. A, title IV, §§411, 412, Oct. 17, 1998, 112 Stat. 1997, provided that:
 
 #### “SEC. 411. END STRENGTHS FOR SELECTED RESERVE.
 
 “(a)
 
-In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 1998, as follows:
+In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 1999, as follows:
 
-&emsp;“(1) The Army National Guard of the United States, 361,516.
+&emsp;“(1) The Army National Guard of the United States, 357,223.
 
-&emsp;“(2) The Army Reserve, 208,000.
+&emsp;“(2) The Army Reserve, 208,003.
 
-&emsp;“(3) The Naval Reserve, 94,294.
+&emsp;“(3) The Naval Reserve, 90,843.
 
-&emsp;“(4) The Marine Corps Reserve, 42,000.
+&emsp;“(4) The Marine Corps Reserve, 40,018.
 
-&emsp;“(5) The Air National Guard of the United States, 108,002.
+&emsp;“(5) The Air National Guard of the United States, 106,992.
 
-&emsp;“(6) The Air Force Reserve, 73,447.
+&emsp;“(6) The Air Force Reserve, 74,243.
 
 &emsp;“(7) The Coast Guard Reserve, 8,000.
 
 “(b)
 
+Waiver Authority.—The Secretary of Defense may vary an end strength authorized by subsection (a) by not more than 2 percent.
+
+“(c)
+
 Adjustments.—The end strengths prescribed by subsection (a) for the Selected Reserve of any reserve component shall be proportionately reduced by—
 
-&emsp;“(1) the total authorized strength of units organized to serve as units of the Selected Reserve of such component which are on active duty (other than for training) at the end of the fiscal year, and
+&emsp;“(1) the total authorized strength of units organized to serve as units of the Selected Reserve of such component which are on active duty (other than for training) at the end of the fiscal year; and
 
-&emsp;“(2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty (other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year.
+&emsp;“(2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty\(other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year.
 
 > Whenever such units or such individual members are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be proportionately increased by the total authorized strengths of such units and by the total number of such individual members.
 
 #### “SEC. 412. END STRENGTHS FOR RESERVES ON ACTIVE DUTY IN SUPPORT OF THE RESERVES.
 
-“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 1998, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
+“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 1999, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
 
-&emsp;“(1) The Army National Guard of the United States, 22,310.
+&emsp;“(1) The Army National Guard of the United States, 21,986.
 
-&emsp;“(2) The Army Reserve, 11,500.
+&emsp;“(2) The Army Reserve, 12,807.
 
-&emsp;“(3) The Naval Reserve, 16,136.
+&emsp;“(3) The Naval Reserve, 15,590.
 
-&emsp;“(4) The Marine Corps Reserve, 2,559.
+&emsp;“(4) The Marine Corps Reserve, 2,362.
 
-&emsp;“(5) The Air National Guard of the United States, 10,671.
+&emsp;“(5) The Air National Guard of the United States, 10,931.
 
-&emsp;“(6) The Air Force Reserve, 867.”
+&emsp;“(6) The Air Force Reserve, 992.”
 
 Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 105–85, div. A, title IV, §§411, 412, Nov. 18, 1997, 111 Stat. 1719, 1720.
 
 Pub. L. 104–201, div. A, title IV, §§411, 412, Sept. 23, 1996, 110 Stat. 2506, 2507.
 
@@ -142,7 +148,7 @@ Definition.—For purposes of this section, the term ‘force structure allowanc
 
 #### Limitation on Reduction in Number of Reserve Component Medical Personnel
 
-Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as amended by Pub. L. 103–337, div. A, titleVII, §716, Oct. 5, 1994, 108 Stat. 2803, prohibited Secretary of Defense from reducing number of medical personnel in any reserve component below number of such personnel in that component on Sept. 30, 1992, unless Secretary certified to Congress that number of such personnel to be reduced in particular military department was excess to current and projected needs for personnel in Selected Reserve of that department, and required that assessment of such needs be consistent with wartime requirements for Selected Reserve personnel identified in final report on comprehensive study of military medical care system prepared pursuant to section 733 of Pub. L. 102–190, formerly set out as a note under section 1071 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(3), Feb. 10, 1996, 110 Stat. 327.
+Pub. L. 102–484, div. A, title V, §518, Oct. 23, 1992, 106 Stat. 2407, as amended by Pub. L. 103–337, div. A, title VII, §716, Oct. 5, 1994, 108 Stat. 2803, prohibited Secretary of Defense from reducing number of medical personnel in any reserve component below number of such personnel in that component on Sept. 30, 1992, unless Secretary certified to Congress that number of such personnel to be reduced in particular military department was excess to current and projected needs for personnel in Selected Reserve of that department, and required that assessment of such needs be consistent with wartime requirements for Selected Reserve personnel identified in final report on comprehensive study of military medical care system prepared pursuant to section 733 of Pub. L. 102–190, formerly set out as a note under section 1071 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(3), Feb. 10, 1996, 110 Stat. 327.
 
 #### Pilot Program for Active Component Support of Reserves
 
@@ -152,7 +158,7 @@ Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, pro
 
 “(2) Each such presentation shall include, with respect to the period covered by the report, the following information:
 
-&emsp;“(A) The promotion rate for officers considered for promotion from within the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade and the same competitive category, shown for all officers of the Army.
+&emsp;“(A) The promotion rate for officers considered for promotion from within the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade andthe same competitive category, shown for all officers of the Army.
 
 &emsp;“(B) The promotion rate for officers considered for promotion from below the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared in the same manner as specified in subparagraph (A).”
 
@@ -196,7 +202,7 @@ Pub. L. 98–525, title V, §552(a)–(e), (g), Oct. 19, 1984, 98 Stat. 2530, as
 
 “(2) As part of the report under subsection (a)(2), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the study carried out under paragraph (1).
 
-“(c) It is the sense of Congress that the number of members of the Army Reserve and of the Army National Guard assigned to full-time manning duty should be increased to 14 percent of the total membership ofthe Army Reserve and of the Army National Guard, respectively, by fiscal year 1989.
+“(c) It is the sense of Congress that the number of members of the Army Reserve and of the Army National Guard assigned to full-time manning duty should be increased to 14 percent of the total membership of the Army Reserve and of the Army National Guard, respectively, by fiscal year 1989.
 
 “(d)(1)(A) The Secretary of Defense, acting through the Assistant Secretary of Defense for Reserve Affairs, shall conduct a study of the benefits of a longer training program for certain units of the reserve components and shall conduct a test of such a program. The test program should begin at the earliest realistic date.
 

@@ -12,6 +12,10 @@ It is the purpose of programs assisted under this part—
 
 (Pub. L. 97–300, title II, §251, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Prior Provisions
 
 A prior section 1630, Pub. L. 97–300, title II, §251, as added Pub. L. 99–496, §8(a)(2), Oct. 16, 1986, 100 Stat. 1263, stated purpose of summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.

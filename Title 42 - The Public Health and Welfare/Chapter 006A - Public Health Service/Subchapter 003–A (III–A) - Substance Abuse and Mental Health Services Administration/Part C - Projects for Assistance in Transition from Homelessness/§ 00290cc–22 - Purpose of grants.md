@@ -98,11 +98,11 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 &emsp;&emsp;(C) to make cash payments to intended recipients of mental health or substance abuse services.
 
-(July 1, 1944, ch. 373, title V, §522, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 516; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4726.)
+(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

@@ -30,7 +30,7 @@ A prior section 15 of Pub. L. 93–400 amended sections 474, 481, and 487 of Tit
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Test Program for Executive Agencies
 
@@ -114,7 +114,7 @@ Measurable Test Criteria.—The Administrator shall require each agency conducti
 
 Test Plan.—At least 270 days before a test may be conducted under this section, the Administrator shall—
 
-&emsp;“(1) provide a detailed test plan, including lists of any regulations that are to be waived, and any written determination under subsection (h)(1)(B) to the Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives and the Committee on Governmental Affairs of the Senate;
+&emsp;“(1) provide a detailed test plan, including lists of any regulations that are to be waived, and any written determination under subsection (h)(1)(B) to the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs of the Senate;
 
 &emsp;“(2) provide a copy of the plan to the appropriate authorization and appropriations committees of the House of Representatives and the Senate; and
 

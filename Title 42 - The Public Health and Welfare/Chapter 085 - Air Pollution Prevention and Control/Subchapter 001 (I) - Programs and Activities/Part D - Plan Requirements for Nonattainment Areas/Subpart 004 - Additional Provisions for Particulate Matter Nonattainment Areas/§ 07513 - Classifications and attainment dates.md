@@ -2,7 +2,7 @@
 
 #### (a) Initial classifications
 
-Every area designated nonattainment for PM–10 pursuant to section 7407(d) of this titleshall be classified at the time of such designation, by operation of law, as a moderate PM–10 nonattainment area (also referred to in this subpart as a “Moderate Area”) at the time of such designation. At the time of publication of the notice under section 7407(d)(4) of this title (relating to area designations) for each PM–10 nonattainment area, the Administrator shall publish a notice announcing the classification of such area. The provisions of section 7502(a)(1)(B) of this title (relating to lack of notice-and-comment and judicial review) shall apply with respect to such classification.
+Every area designated nonattainment for PM–10 pursuant to section 7407(d) of this title shall be classified at the time of such designation, by operation of law, as a moderate PM–10 nonattainment area (also referred to in this subpart as a “Moderate Area”) at the time of such designation. At the time of publication of the notice under section 7407(d)(4) of this title (relating to area designations) for each PM–10 nonattainment area, the Administrator shall publish a notice announcing the classification of such area. The provisions of section 7502(a)(1)(B) of this title (relating to lack of notice-and-comment and judicial review) shall apply with respect to such classification.
 
 #### (b) Reclassification as Serious
 
@@ -20,7 +20,7 @@ Every area designated nonattainment for PM–10 pursuant to section 7407(d) of t
 
 &emsp;&emsp;(A) the area shall be reclassified by operation of law as a Serious Area; and
 
-&emsp;&emsp;(B) the Administrator shall publish a notice in the Federal Register no later than 6 months following the attainment date, identifying the area as having failed to attain and identifying the reclassification described under subparagraph (A).
+&emsp;&emsp;(B) the Administrator shall publish a notice in the Federal Register no later than 6 months following the attainment date, identifying the area as having failed to attainand identifying the reclassification described under subparagraph (A).
 
 #### (c) Attainment dates
 
@@ -50,13 +50,13 @@ Upon application by any State, the Administrator may extend the attainment date 
 
 #### (f) Waivers for certain areas
 
-The Administrator may, on a case-by-case basis, waive any requirement applicable to anySerious Area under this subpart where the Administrator determines that anthropogenic sources of PM–10 do not contribute significantly to the violation of the PM–10 standard in the area. The Administrator may also waive a specific date for attainment of the standard where the Administrator determines that nonanthropogenic sources of PM–10 contribute significantly to the violation of the PM–10 standard in the area.
+The Administrator may, on a case-by-case basis, waive any requirement applicable to any Serious Area under this subpart where the Administrator determines that anthropogenic sources of PM–10 do not contribute significantly to the violation of the PM–10 standard in the area. The Administrator may also waive a specific date for attainment of the standard where the Administrator determines that nonanthropogenic sources of PM–10 contribute significantly to the violation of the PM–10 standard in the area.
 
-(July 14, 1955, ch. 360, title I, §188, as added Nov. 15, 1990, Pub. L. 101–549, title I, §105(a), 104 Stat. 2458.)
+(July 14, 1955, ch. 360, title I, §188, as added Pub. L. 101–549, title I, §105(a), Nov. 15, 1990, 104 Stat. 2458.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7509a, 7513a of this title.
+This section is referred to in sections 7509a, 7513a of this title; title 23 section 149.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

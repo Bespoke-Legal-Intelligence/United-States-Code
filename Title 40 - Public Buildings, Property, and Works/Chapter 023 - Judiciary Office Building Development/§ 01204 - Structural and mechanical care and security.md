@@ -16,7 +16,7 @@ Upon occupancy by the United States of the building and other improvements const
 
 #### (3) Reimbursement
 
-&emsp;The Architect shall transfer from the account established by section 1207 of this title such amounts as may be necessary to reimburse the United States Capitol Police for expenses incurred in providing exterior security under this subsection. The United States Capitol Police may accept amounts transferred by the Architect under this paragraph, and such amounts shall be credited to the appropriation account charged by the United States Capitol Police in executing the performance of security duties.
+&emsp;The Architect shall transfer from the account established by section 1207 of this title such amounts as may be necessary to reimburse the United States Capitol Police for expenses incurred in providing exterior security under this subsection. The United States Capitol Police may accept amounts transferred by the Architect under this paragraph, and suchamounts shall be credited to the appropriation account charged by the United States Capitol Police in executing the performance of security duties.
 
 #### (c) Authority of Capitol Police
 

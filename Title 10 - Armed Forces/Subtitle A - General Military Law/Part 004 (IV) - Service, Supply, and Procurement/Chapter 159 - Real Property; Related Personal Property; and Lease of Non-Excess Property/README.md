@@ -35,7 +35,7 @@
 | [2688\.](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md) | Utility systems: conveyance authority. |
 | [2689\.](%C2%A7%2002689%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md) | Development of geothermal energy on military lands. |
 | [2690\.](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md) | Fuel sources for heating systems; prohibition on converting certain heating facilities. |
-| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease%20from%20other%20agencies.md) | Restoration of land used by permit or lease from other agencies. |
+| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md) | Restoration of land used by permit or lease. |
 | [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
 | [2693\.](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md) | Conveyance of certain property. |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
@@ -51,6 +51,8 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. B, title XXVIII, §2812(b)(2), Oct. 17, 1998, 112 Stat. 2206, struck out “from other agencies” after “lease” in item 2691.
 
 1997—Pub. L. 105–85, div. A, title III, §§343(g)(3), 371(c)(2), title X, §§1061(c)(2), 1062(b), div. B, title XXVIII, §§2811(b)(2), 2812(b), 2813(b), 2814(a)(2), Nov. 18, 1997, 111 Stat. 1688, 1705, 1891, 1892, 1992–1995, inserted “of military departments” after “property” in item 2667, added item 2667a, substituted “$500,000” for “$200,000” in item 2672, added items 2686 and 2688, substituted “Storage, treatment, and” for “Storage and” in item 2692, and added items 2695 and 2696.
 
@@ -72,7 +74,7 @@ Pub. L. 101–510, div. A, title XIV, §1481(h)(2), div. B, title XXVIII, §2804
 
 Pub. L. 100–180, div. A, title XI, §1112(b)(3), Dec. 4, 1987, 101 Stat. 1147, inserted “or security-guard” before “functions” in item 2693.
 
-1986—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted“Fuel sources for heating systems” for “Restriction on fuel sources for new heating systems” in item 2690 and added item 2693.
+1986—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted “Fuel sources for heating systems” for “Restriction onfuel sources for new heating systems” in item 2690 and added item 2693.
 
 Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a “Sale and replacement of nonexcess real property”, eff. Oct. 1, 1986.
 
@@ -168,7 +170,7 @@ Real property—
 - [&sect; 02688 - Utility systems conveyance authority](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md)
 - [&sect; 02689 - Development of geothermal energy on military lands](%C2%A7%2002689%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md)
 - [&sect; 02690 - Fuel sources for heating systems; prohibition on converting certain heating facilities](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md)
-- [&sect; 02691 - Restoration of land used by permit or lease from other agencies](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease%20from%20other%20agencies.md)
+- [&sect; 02691 - Restoration of land used by permit or lease](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md)
 - [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
 - [&sect; 02693 - Conveyance of certain property](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)

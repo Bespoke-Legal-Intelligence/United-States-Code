@@ -4,7 +4,7 @@
 
 (b) Any offense referred to in subsection (a) of this section that is not defined and punished by Federal law in force within the exclusive jurisdiction of the United States shall be defined and punished in accordance with the laws of the State in which such offense was committed as are in force at the time of such offense.
 
-(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, §26, 63 Stat. 94; Nov. 2, 1966, Pub. L. 89–707, §1, 80 Stat. 1100; Apr. 11, 1968, Pub. L. 90–284, title V, §501, 82 Stat. 80; May 29, 1976, Pub. L. 94–297, §2, 90 Stat. 585; Oct. 12, 1984, Pub. L. 98–473, title II, §1009, 98 Stat. 2141; May 15, 1986, Pub. L. 99–303, 100 Stat. 438; Nov. 10, 1986, Pub. L. 99–646, §87(c)(5), 100 Stat. 3623; Nov. 14, 1986, Pub. L. 99–654, §3(a)(5), 100 Stat. 3663; Nov. 18, 1988, Pub. L. 100–690, title VII, §7027, 102 Stat. 4397; Sept. 13, 1994, Pub. L. 103–322, title XVII, §170201(e), title XXXIII, §330021(1), 108 Stat. 2043, 2150.)
+(June 25, 1948, ch. 645, 62 Stat. 758; May 24, 1949, ch. 139, §26, 63 Stat. 94; Pub. L. 89–707, §1, Nov. 2, 1966, 80 Stat. 1100; Pub. L. 90–284, title V, §501, Apr. 11, 1968, 82 Stat. 80; Pub. L. 94–297, §2, May 29, 1976, 90 Stat. 585; Pub. L. 98–473, title II, §1009, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 99–303, May 15, 1986, 100 Stat. 438; Pub. L. 99–646, §87(c)(5), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(5), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, §7027, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title XVII, §170201(e), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2043, 2150.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ The 1932 amendment of section 548 of title 18, U.S.C., 1940 ed., constituting th
 
 Words “Indian country” were substituted for language relating to jurisdiction extending to reservations and rights-of-way, in view of definitive section 1151 of this title.
 
-Paul W. Hyatt, president, board of commissioners, Idaho State Bar, recommended that said section 548 be considered with other sections in title 25, Indians, U.S.C., 1940 ed., and revised to insure certainty as to questions of jurisdiction, and punishment on conviction. Insofar as the recommendation came within the scope of this revision, it was followed.
+Paul W. Hyatt, president, board of commissioners, Idaho State Bar, recommended that said section 548 beconsidered with other sections in title 25, Indians, U.S.C., 1940 ed., and revised to insure certainty as to questions of jurisdiction, and punishment on conviction. Insofar as the recommendation came within the scope of this revision, it was followed.
 
 The proviso in said section 548 of title 18, U.S.C., 1940 ed., which provided that rape should be defined in accordance with the laws of the State in which the offense was committed, was changed to include burglary so as to clarify the punishment for that offense.
 
@@ -46,7 +46,7 @@ Pub. L. 99–303 inserted section catchline which had been eliminated by general
 
 1984—Pub. L. 98–473 amended section generally, inserting offenses of maiming, involuntary sodomy and a felony committed under section 661 of this title and striking out reference to larceny in first par., and inserting “, involuntary sodomy,” after “burglary” in third par.
 
-1976—Pub. L. 94–297 made changes in phraseology, added offense of kidnapping to the enumerated list of offenses subjecting any Indian to the same laws and penalties as all other persons, struck out applicability to assault with a dangerous weapon and assault resulting in serious bodily injury from paragraph coveringthe offenses of burglary and incest only, and substituted paragraph, relating to offenses in addition to offenses of burglary and incest, for paragraph relating to offenses of rape and assault with intent to commit rape.
+1976—Pub. L. 94–297 made changes in phraseology, added offense of kidnapping to the enumerated list of offenses subjecting any Indian to the same laws and penalties as all other persons, struck out applicability to assault with a dangerous weapon and assault resulting in serious bodily injury from paragraph covering the offenses of burglary and incest only, and substituted paragraph, relating to offenses in addition to offenses of burglary and incest, for paragraph relating to offenses of rape and assault with intent to commit rape.
 
 1968—Pub. L. 90–284 inserted offense of assault resulting in serious bodily injury.
 

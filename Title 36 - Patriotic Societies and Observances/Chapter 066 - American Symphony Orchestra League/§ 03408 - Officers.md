@@ -1,8 +1,0 @@
-### §3408. Officers
-
-(a) The officers of the corporation shall be a president, one or more vice presidents (as may be prescribed in the constitution and bylaws of the corporation), a secretary, and a treasurer, and one or more assistant secretaries and assistant treasurers as may be provided in the constitution and bylaws.
-
-(b) The officers of the corporation shall be elected in such manner and for such terms and with such duties as may be prescribed in the constitution and bylaws of the corporation.
-
-(Pub. L. 87–817, §8, Oct. 15, 1962, 76 Stat. 932.)
-

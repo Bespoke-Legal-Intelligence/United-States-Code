@@ -2,7 +2,7 @@
 
 (a)
 
-Air Carriers.—Subject to subsection (b) of this section, an air carrier authorized by its certificate to transport mail by aircraft in foreign air transportation or between places in Alaska shall—
+Air Carriers.—Subject to subsection (b) of this section, an air carrier authorized by its certificate to transport mail by aircraft in foreign air transportation shall—
 
 &emsp;(1) provide facilities and services necessary and adequate to provide that transportation; and
 
@@ -10,17 +10,13 @@ Air Carriers.—Subject to subsection (b) of this section, an air carrier author
 
 (b)
 
-Maximum Mail Load.—The Secretary of Transportation may prescribe the maximum mail load for a schedule or for an aircraft or type of aircraft for the transportation of mail by aircraft in foreign air transportation or between places in Alaska. If the Postal Service tenders to an air carrier mail exceeding the maximum load for transportation by the carrier under a schedule designated or required to be established for the transportation of mail under section 41902(c) of this title, the carrier, as nearly in accordance with the schedule as the Secretary decides is possible, shall—
+Maximum Mail Load.—The Secretary of Transportation may prescribe the maximum mail load for a schedule or for an aircraft or type of aircraft for the transportation of mail by aircraft in foreign air transportation. If the Postal Service tenders to an air carrier mail exceeding the maximum load for transportation by the carrier under a schedule designated or required to be established for the transportation of mail under section 41902(c) of this title, the carrier, as nearly in accordance with the schedule as the Secretary decides is possible, shall—
 
 &emsp;(1) provide facilities sufficient to transport the mail to the extent the Secretary decides the carrier reasonably is able to do so; and
 
 &emsp;(2) transport that mail.
 
 (Pub. L. 103–272, §§1(e), 4(k)(1), July 5, 1994, 108 Stat. 1154, 1370.)
-
-#### Amendment of Section
-
-<i>Pub. L. 103–272, §4(k)(1), July 5, 1994, 108 Stat. 1370, provided that, effective Jan. 1, 1999, this section is amended by substituting “transportation” for “transportation or between places in Alaska” wherever appearing.</i>
 
 Historical and Revision Notes
 
@@ -91,6 +87,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(8); added Oct. 4, 1984,
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984, Pub. L. 98–443, §3(f), 98 Stat. 1704; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §1601(b)(3) of Federal Aviation Act of 1958), 102 Stat. 2155.
 
 Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
+
+#### Amendments
+
+1994—Pub. L. 103–272, §4(k)(1), substituted “foreign air transportation” for “foreign air transportation or between places in Alaska” in introductory provisions of subsecs. (a) and (b).
 
 #### Effective Date of 1994 Amendment
 

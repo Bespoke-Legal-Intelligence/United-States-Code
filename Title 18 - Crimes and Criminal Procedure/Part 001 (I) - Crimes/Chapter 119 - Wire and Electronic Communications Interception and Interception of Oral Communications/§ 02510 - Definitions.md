@@ -154,7 +154,7 @@ Certain Activities Under Procedures Approved by the Attorney General.—Nothing 
 
 Section 801 of Pub. L. 90–351 provided that: “On the basis of its own investigations and of published studies, the Congress makes the following findings:
 
-“(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There hasbeen extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
+“(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
 
 “(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
 
@@ -168,7 +168,7 @@ Section 804 of Pub. L. 90–351, as amended by Pub. L. 91–452, title XII, §12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2711, 3127, 3504 of this title; title 15 section 1114; title 47 section 1001.
+This section is referred to in sections 2711, 3127, 3504 of this title; title 15 section 1114; title 42 section 13032; title 47 section 1001.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

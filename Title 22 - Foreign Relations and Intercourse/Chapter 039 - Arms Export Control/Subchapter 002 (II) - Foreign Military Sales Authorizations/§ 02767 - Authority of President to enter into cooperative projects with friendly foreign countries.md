@@ -20,7 +20,7 @@ As used in this section—
 
 &emsp;&emsp;(A) for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
 
-&emsp;&emsp;(B) for concurrent production in the United States and in the country of anotherparticipant of a defense article jointly developed in accordance with subparagraph (A); or
+&emsp;&emsp;(B) for concurrent production in the United States and in the country of another participant of a defense article jointly developed in accordance with subparagraph (A); or
 
 &emsp;&emsp;(C) for procurement by the United States of a defense article or defense service from another participant to the agreement; and
 
@@ -112,7 +112,7 @@ Pub. L. 99–145, §1102(a)(1), which enacted a general amendment of this sectio
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

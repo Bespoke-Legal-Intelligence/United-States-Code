@@ -2,13 +2,15 @@
 
 #### (a) Rates and sources; deposits in Fund
 
-(1) Except as provided in subsection (h) of this section, 7 percent of the basic salary received by each participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the Department.
+(1) Except as otherwise provided in this section, 7 percent of the basic salary received byeach participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the Department.
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
 &emsp;(A) the Department shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8334(a)(1) of title 5. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amount deducted and withheld from basic salary and amounts contributed by the Department.
 
-&emsp;(B) The Department shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) <sup>1</sup> of title 5. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amounts deducted and withheld from basicsalary and amounts contributed by the Department.
+&emsp;(B) The Department shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) <sup>1</sup> of title 5. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amounts deducted and withheld from basic salary and amounts contributed by the Department.
+
+(3) For service as a special agent, paragraph (1) shall be applied by substituting for “7 percent” the percentage that applies to law enforcement officers under section 8334(a)(1) of title 5.
 
 #### (b) Consent to deduction; discharge and acquittance of claims and demands
 
@@ -45,13 +47,15 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 > Special contributions for refunds under subparagraph (B) shall equal the amount of the refund received by the participant.
 
-(2) Notwithstanding paragraph (1), a special contribution for prior nondeposit service as a National Guard technician which would be creditable toward retirement under subchapter III of chapter 83 of title 5, and for which a special contribution has not been made, shall be equal to the special contribution for such service computed in accordance with the schedule in paragraph (1) multiplied by the percentage of such service that is creditable under section 4056 of this title.
+(2) Notwithstanding paragraph (1), a special contribution for prior nondeposit service as a National Guard technician which would be creditable toward retirement under subchapter III of chapter 83 of title 5, and for which a special contribution has not been made, shall be equal to the special contribution for such service computed in accordance with the schedule in paragraph (1) multiplied by the percentage of suchservice that is creditable under section 4056 of this title.
 
 (3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. <sup>2</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
 (4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
 
 (5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or section 4071e of this title and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
+
+(6) Subject to paragraph (4) and subsection (h) of this section, for purposes of applying this subsection with respect to prior service as a special agent, the percentages of basic pay set forth in section 8334(c) of title 5, with respect to a law enforcement officer, shall apply instead of the percentages set forth in paragraph (1).
 
 #### (e) Contribution for military or naval service
 
@@ -83,11 +87,11 @@ A participant or survivor may make a special contribution at any time before rec
 
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
-(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661.)
+(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407.)
 
 #### Amendment of Section
 
-<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
+<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note</i><i>under section 4067 of this title, provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
 #### References in Text
 
@@ -98,6 +102,12 @@ Sections 206(b)(3) and 203(a)(3) of the Federal Employees’ Retirement Contribu
 The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–382, §2(b)(2), substituted “Except as otherwise provided in this section,” for “Except as provided in subsection (h) of this section,”.
+
+Subsec. (a)(3). Pub. L. 105–382, §2(b)(1), added par. (3).
+
+Subsec. (d)(6). Pub. L. 105–382, §2(c), added par. (6).
 
 1997—Subsec. (d). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
 
@@ -122,6 +132,10 @@ Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” fo
 Pub. L. 99–335, §405(a)(2), added subsec. (h).
 
 1983—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: “Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, set out as a note under section 4044 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -183,7 +197,7 @@ Foreign service criminal investigators/inspectors of the office of the inspector
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4043, 4046, 4051, 4055, 4056, 4061, 4062, 4063, 4071c of this title.
+This section is referred to in sections 4043, 4046, 4051, 4055, 4056, 4061, 4062, 4063, 4071c of this title; title 5 section 5545a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

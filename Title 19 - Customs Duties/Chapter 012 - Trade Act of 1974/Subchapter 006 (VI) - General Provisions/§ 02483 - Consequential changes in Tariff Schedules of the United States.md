@@ -36,7 +36,7 @@ Proc. No. 6914, Aug. 26, 1996, 61 F.R. 45851, provided:
 
 5\. In paragraph (3) of Proclamation 6763 of December 23, 1994, I delegated my authority under section 404(d)(3) of the Trade Act \[probably means section 404(d)(3) of the URAA, 19 U.S.C. 3601(d)(3)\] to the United States Trade Representative (USTR). I have determined that it is appropriate to authorize the USTR to exercise my authority under section 604 of the Trade Act \[19 U.S.C. 2483\] to embody in the HTS the substance of any action taken by the USTR under section 404(d)(3) of the URAA.
 
-NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and thelaws of the United States, including but not limited to section 301 of title 3, United States Code, section 404(d)(3) of the URAA, and section 604 of the Trade Act do proclaim that:
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to section 301 of title 3, United States Code, section 404(d)(3) of the URAA, and section 604 of the Trade Act do proclaim that:
 
 (1) Additional U.S. notes to chapter 4 of the HTS are modified as specified in the Annex to this proclamation.
 

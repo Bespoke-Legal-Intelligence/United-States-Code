@@ -12,7 +12,7 @@ As used in this part—
 
 &emsp;(5) The term “ultimate purchaser” means, with respect to any new motor vehicle or new motor vehicle engine, the first person who in good faith purchases such new motor vehicle or new engine for purposes other than resale.
 
-&emsp;(6) The term “commerce” means (A) commerce between any place in any State and anyplace outside thereof; and (B) commerce wholly within the District of Columbia.
+&emsp;(6) The term “commerce” means (A) commerce between any place in any State and any place outside thereof; and (B) commerce wholly within the District of Columbia.
 
 &emsp;(7)
 
@@ -34,7 +34,7 @@ Nonroad engine.—The term “nonroad engine” means an internal combustion eng
 
 Nonroad vehicle.—The term “nonroad vehicle” means a vehicle that is powered by a nonroad engine and that is not a motor vehicle or a vehicle used solely for competition.
 
-(July 14, 1955, ch. 360, title II, §216, formerly §208, as added Oct. 20, 1965, Pub. L. 89–272, title I, §101(8), 79 Stat. 994; renumbered §212, and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 503; renumbered §213, and amended Dec. 31, 1970, Pub. L. 91–604, §§8(a), 10(d), 11(a)(2)(A), 84 Stat. 1694, 1703, 1705; renumbered §214, June 22, 1974, Pub. L. 93–319, §10, 88 Stat. 261; renumbered §216, Aug. 7, 1977, Pub. L. 95–95, title II, §224(d), 91 Stat. 767; Nov. 15, 1990, Pub. L. 101–549, title II, §223, 104 Stat. 2503.)
+(July 14, 1955, ch. 360, title II, §216, formerly §208, as added Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 994; renumbered §212, and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 503; renumbered §213, and amended Pub. L. 91–604, §§8(a), 10(d), 11(a)(2)(A), Dec. 31, 1970, 84 Stat. 1694, 1703, 1705; renumbered §214, Pub. L. 93–319, §10, June 22, 1974, 88 Stat. 261; renumbered §216, Pub. L. 95–95, title II, §224(d), Aug. 7, 1977, 91 Stat. 767; Pub. L. 101–549, title II, §223, Nov. 15, 1990, 104 Stat. 2503.)
 
 #### Codification
 

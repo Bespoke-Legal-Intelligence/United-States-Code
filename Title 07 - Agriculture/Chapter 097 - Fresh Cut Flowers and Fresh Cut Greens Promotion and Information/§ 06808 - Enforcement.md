@@ -30,7 +30,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (3) Notice and hearing
 
-&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect to the violation. Any such hearing shall be conducted in accordance with section 6809(b)(2) of this title and shall be held within the United States judicial district in which the residence or principal place of business of the person is located.
+&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect to the violation. Any such hearing shall be conducted in accordance with section 6809(b)(2) of this title and shall be held within the UnitedStates judicial district in which the residence or principal place of business of the person is located.
 
 #### (4) Finality
 
@@ -70,7 +70,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (1) In general
 
-&emsp;If a person fails to pay a civil penalty assessed under subsection (c) or (e) of this section after the penalty has become final and unappealable, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney Generalfor recovery of the amount assessed in any United States district court in which the person resides or conducts business.
+&emsp;If a person fails to pay a civil penalty assessed under subsection (c) or (e) of this section after the penalty has become final and unappealable, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any United States district court in which the person resides or conducts business.
 
 #### (2) Scope of review
 

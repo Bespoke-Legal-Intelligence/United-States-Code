@@ -24,13 +24,13 @@
 
 &emsp;&emsp;(F) develop, and update annually, a comprehensive building needs plan for the features of the John F. Kennedy Center for the Performing Arts in existence on July 21, 1994;
 
-&emsp;&emsp;(G) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;
+&emsp;&emsp;(G) with respect to the building and site of the John F. Kennedy Center for the Performing Arts, plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary to maintain the functionality of the building and site at current standards of life, safety, security, and accessibility;
 
 &emsp;&emsp;(H) provide—
 
 &emsp;&emsp;&emsp;(i) information and interpretation; and
 
-&emsp;&emsp;&emsp;(ii) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and
+&emsp;&emsp;&emsp;(ii) with respect to the building and site of the John F. Kennedy Center for the Performing Arts, all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operations of, the building and site, in a manner consistent with requirements for high quality operations; and
 
 &emsp;&emsp;(I) ensure that safe and convenient access to the site of the John F. Kennedy Center for the Performing Arts is provided for pedestrians and vehicles.
 
@@ -58,7 +58,7 @@
 
 #### (F) Maintenance of grounds
 
-&emsp;&emsp;The Board shall manage and operate the grounds of the John F. Kennedy Center for the Performing Arts in a manner consistentwith National Park Service regulations and agreements in effect on July 21, 1994. No change in the management and operation of the grounds may be made without the express approval of Congress and of the Secretary of the Interior.
+&emsp;&emsp;The Board shall manage and operate the grounds of the John F. Kennedy Center for the Performing Arts in a manner consistent with National Park Service regulations and agreements in effect on July 21, 1994. No change in the management and operation of the grounds may be made without the express approval of Congress and of the Secretary of the Interior.
 
 #### (b) Restriction on additional memorials
 
@@ -76,9 +76,13 @@
 
 (3) For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
 
-(Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, §3(a), Nov. 19, 1997, 111 Stat. 2149.)
+(Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, §3(a), Nov. 19, 1997, 111 Stat. 2149; Pub. L. 105–226, §§2, 3, Aug. 12, 1998, 112 Stat. 1513.)
 
 #### Amendments
+
+1998—Subsec. (a)(1)(G). Pub. L. 105–226, §2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
+
+Subsec. (a)(1)(H)(ii). Pub. L. 105–226, §3, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and”.
 
 1997—Subsec. (a)(1)(I). Pub. L. 105–95 added subpar. (I).
 
@@ -97,6 +101,26 @@
 1983—Pub. L. 98–205 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1964—Pub. L. 88–260 struck out “and” at end of par. (3), substituted “John F. Kennedy Center for the Performing Arts” for “Cultural Center” in par. (4), and added par. (5).
+
+#### Access to John F. Kennedy Center for the Performing Arts
+
+Pub. L. 105–178, title I, §1214(a), June 9, 1998, 112 Stat. 204, provided that:
+
+“(1)
+
+Study.—The Secretary \[of Transportation\], in cooperation with the District of Columbia, the John F. Kennedy Center for the Performing Arts, and the Department of the Interior and in consultation with other interested persons, shall conduct a study of methods to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
+
+“(2)
+
+Report.—Not later than September 30, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results of the study with an assessment of the impacts (including environmental, aesthetic, economic, and historical impacts) associated with the implementation of each of the methods examined under the study.
+
+“(3)
+
+Authorization of appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection $500,000 for fiscal year 1998.
+
+“(4)
+
+Applicability of title 23, united states code.—Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United StatesCode; except that the Federal share of the cost of activities conducted using such funds shall be 100 percent and such funds shall remain available until expended.”
 
 #### Section Referred to in Other Sections
 

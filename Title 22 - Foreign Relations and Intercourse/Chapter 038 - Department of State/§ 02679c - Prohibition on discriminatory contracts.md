@@ -32,7 +32,7 @@ Definitions.—As used in this clause—
 
 &emsp;“(1) the term ‘foreign person’ means any person other than a United States person as defined in paragraph (2); and
 
-&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
+&emsp;“(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concernwhich is controlled in fact by such domestic concern, as determined under regulations of the President.
 
 “(b)
 
@@ -52,11 +52,15 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 (2) Upon complaint of any foreign or United States person of a violation of the certification as required by this section, filed with the Secretary of State, the Department of State shall investigate such complaint, and if such complaint is found to be correct and a violation of the certification has been found, all contracts with such violator shall be terminated for default as soon as practicable, and, for a period of two years thereafter, the State Department shall not enter into any contracts with such a violator.
 
-#### (e) United States Information Agency
+(Pub. L. 103–236, title V, §565, Apr. 30, 1994, 108 Stat. 484; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(3), Oct. 21, 1998, 112 Stat. 2681–790.)
 
-The provisions of this section shall apply to the United States Information Agency in the same manner and extent to which such provisions apply to the Department of State. In theapplication of this section to the United States Information Agency, the Director of the United States Information Agency or a designee shall have the authorities and responsibilities of the Secretary of State.
+#### Amendments
 
-(Pub. L. 103–236, title V, §565, Apr. 30, 1994, 108 Stat. 484.)
+1998—Subsec. (e). Pub. L. 105–277 struck out heading and text of subsec. (e). Text read as follows: “The provisions of this section shall apply to the United States Information Agency in the same manner and extent to which such provisions apply to the Department of State. In the application of this section to the United States Information Agency, the Director of the United States Information Agency or a designee shall have the authorities and responsibilities of the Secretary of State.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Short Title
 

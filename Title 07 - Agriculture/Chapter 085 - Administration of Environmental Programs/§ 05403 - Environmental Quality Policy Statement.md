@@ -52,5 +52,5 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5402, 5502 of this title.
+This section is referred to in section 5402 of this title.
 

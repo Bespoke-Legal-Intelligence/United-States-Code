@@ -32,7 +32,7 @@ If, at any time, the President finds that there are reasonable grounds to believ
 
 (1) A petition may be filed with the President by an entity described in section 2251(a)(1) of this title requesting the President to initiate consultations provided for by the safeguard arrangements of any agreement entered into under section 2435 of this title with respect to imports of an article which is the product of the country which is the other party to such agreement.
 
-(2) If the President determines that there are reasonable grounds to believe, with respect to imports of such article, that market disruptionexists with respect to an article produced by a domestic industry, he shall initiate consultations with such country with respect to such imports.
+(2) If the President determines that there are reasonable grounds to believe, with respect to imports of such article, that market disruption exists with respect to an article produced by a domestic industry, he shall initiate consultations with such country with respect to such imports.
 
 #### (e) Definitions; factors determining existence of market disruption
 

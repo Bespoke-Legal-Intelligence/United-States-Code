@@ -34,7 +34,7 @@ When used in this chapter—
 
 (i) The term “Federal land manager” means, with respect to any lands in the United States, the Secretary of the department with authority over such lands.
 
-(j) Except as otherwise expressly provided, the terms “major stationary source” and “major emitting facility” mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tonsper year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
+(j) Except as otherwise expressly provided, the terms “major stationary source” and “major emitting facility” mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tons per year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
 
 (k) The terms “emission limitation” and “emission standard” mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design, equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
 
@@ -78,7 +78,7 @@ Federal Implementation Plan.—The term “Federal implementation plan” means 
 
 Stationary Source.—The term “stationary source” means generally any source of an air pollutant except those emissions resulting directly from an internal combustion engine for transportation purposes or from a nonroad engine or nonroad vehicle as defined in section 7550 of this title.
 
-(July 14, 1955, ch. 360, title III, §302, formerly §9, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 400, renumbered Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 504; Dec. 31, 1970, Pub. L. 91–604, §15(a)(1), (c)(1), 84 Stat. 1710, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §218(c), title III, §301, 91 Stat. 761, 769; Nov. 16, 1977, Pub. L. 95–190, §14(a)(76), 91 Stat. 1404; Nov. 15, 1990, Pub. L. 101–549, title I, §§101(d)(4), 107(a), (b), 108(j), 109(b), title III, §302(e), title VII, §709, 104 Stat. 2409, 2464, 2468, 2470, 2574, 2684.)
+(July 14, 1955, ch. 360, title III, §302, formerly §9, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §15(a)(1), (c)(1), Dec. 31, 1970, 84 Stat. 1710, 1713; Pub. L. 95–95, title II, §218(c), title III, §301, Aug. 7, 1977, 91 Stat. 761, 769; Pub. L. 95–190, §14(a)(76), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title I, §§101(d)(4), 107(a), (b), 108(j), 109(b), title III, §302(e), title VII, §709, Nov. 15, 1990, 104 Stat. 2409, 2464, 2468, 2470, 2574, 2684.)
 
 #### Codification
 

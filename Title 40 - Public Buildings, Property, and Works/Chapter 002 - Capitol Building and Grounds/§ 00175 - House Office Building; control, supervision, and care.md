@@ -22,7 +22,7 @@ Joint Resolution May 28, 1908, provided that it should be designated the House O
 
 Pub. L. 104–197, title III, §307, Sept. 16, 1996, 110 Stat. 2413, provided that:
 
-“(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight, positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading ‘
+“(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading ‘
 
 capitol buildings’ to the appropriation for salaries and expenses of the House of Representatives for the Office of the Clerk under the heading ‘
 
@@ -34,7 +34,7 @@ salaries, officers and employees’.
 
 #### 501 First Street SE., District of Columbia; Disposal of Real Property
 
-Pub. L. 104–99, title I, §121, Jan. 26, 1996, 110 Stat. 30, provided that:
+Pub. L. 104–99, title I, §121, Jan. 26, 1996, 110 Stat. 30, as amended by Pub. L. 105–275, title I, §110, Oct. 21, 1998, 112 Stat. 2440, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ Disposal of Real Property.—
 
 &emsp;“(1)
 
-In general.—The Architect of the Capitol shall dispose of by sale at fair market value all right, title,and interest of the United States in and to the parcel of real property described in paragraph (9), including all improvements to such real property. Such disposal shall be made by quitclaim deed.
+In general.—The Architect of the Capitol shall dispose of by sale at fair market value all right, title, and interest of the United States in and to the parcel of real property described in paragraph (9), including all improvements to such real property. Such disposal shall be made by quitclaim deed.
 
 &emsp;“(2)
 
@@ -50,7 +50,7 @@ House office building commission.—The Architect of the Capitol shall carry out
 
 &emsp;“(3)
 
-Procedures.—Notwithstanding any other provision of law, the disposal under paragraph (1) shall be made in accordance with such procedures as the Architect of the Capitol determines appropriate.
+Procedures.—Notwithstanding any other provision of law, the disposal under paragraph (1) shallbe made in accordance with such procedures as the Architect of the Capitol determines appropriate.
 
 &emsp;“(4)
 
@@ -90,9 +90,11 @@ Availability of funds.—Funds in the account established by paragraph (1) shall
 
 &emsp;&emsp;“(A) payment of expenses associated with relocating the tenants of the property to be disposed of under subsection (a)(1);
 
-&emsp;&emsp;“(B) payment of expenses associated with renovating facilities under the jurisdiction of the Architect for the purpose of accommodating such tenants; and
+&emsp;&emsp;“(B) payment of expenses associated with renovating facilities under the jurisdiction of the Architect for the purpose of accommodating such tenants;
 
-&emsp;&emsp;“(C) reimbursement of expenses incurred for advertising and marketing activities related to the disposal under subsection (a)(1) in a total amount of not to exceed $75,000.
+&emsp;&emsp;“(C) reimbursement of expenses incurred for advertising and marketing activities related to the disposal under subsection (a)(1) in a total amount of not to exceed $75,000; and
+
+&emsp;&emsp;“(D) reimbursement of expenses incurred by the Chief Administrative Officer of the House of Representatives to cover the costs of furnishings and furniture to accommodate the needs of the House of Representatives Child Care Center.
 
 > &emsp;Funds made available under this paragraph shall not be subject to any fiscal year limitation.
 
@@ -128,7 +130,7 @@ Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 483, provided in part: “Tha
 
 Pub. L. 104–53, title III, §306, Nov. 19, 1995, 109 Stat. 536, provided that:
 
-“(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight, positions in connection with House parking activities and related funding shall be transferred from the appropriation ‘Architect of the Capitol, Capitol buildings and grounds, House office buildings’ to the appropriation ‘House of Representatives, salaries, officers and employees, Office of the Sergeant at Arms’: <i>Provided</i>, That the position of Superintendent of Garages shall be subject to authorization in annual appropriations Acts.
+“(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight \[now Committee on House Administration\], positions in connection with House parking activities and related funding shall be transferred from the appropriation ‘Architect of the Capitol, Capitol buildings and grounds, House office buildings’ to the appropriation ‘House of Representatives, salaries, officers and employees, Office of the Sergeant at Arms’: <i>Provided</i>, That the position of Superintendent of Garages shall be subject to authorization in annual appropriations Acts.
 
 “(b) For purposes of section 8339(m) of title 5, United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (<i>o</i>) of such section.
 
@@ -184,7 +186,7 @@ Pub. L. 95–577, Nov. 2, 1978, 92 Stat. 2470, directed Architect of the Capitol
 
 #### Additional Parking Space for House Employees
 
-House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, §221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight of the House of Representatives is authorized:
+House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into permanent law by Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282, and amended by Pub. L. 104–186, title II, §221(4)(B), Aug. 20, 1996, 110 Stat. 1749, provided: “That the chairman, Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives is authorized:
 
 &emsp;“(1) to lease or to otherwise provide additional indoor and outdoor parking facilities for employees of the House of Representatives in an area or areas in the District of Columbia outside but adjacent to the limits of the United States Capitol Grounds;
 
@@ -200,11 +202,11 @@ Pub. L. 93–305, title I, ch. VIII, §801, June 8, 1974, 88 Stat. 206, authoriz
 
 #### Inclusion of Additional Areas and Buildings
 
-For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note under section 193a of this title.
+For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order ofthe House Office Building Commission affecting the Capitol grounds and buildings, set out as a note under section 193a of this title.
 
 #### Compensation of Superintendent of Garages of House Office Buildings
 
-Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, as amended by Pub. L. 102–90, title I, §105, Aug. 14, 1991, 105 Stat. 460; Pub. L. 104–186, title II, §221(4)(A), Aug. 20, 1996, 110 Stat. 1748, provided: “That upon enactment of this Act \[Oct. 1, 1988\], the pay for the position of Superintendent of Garages shall be equivalent to the pay payable for positions at step 1 of level 12 of the House Employees Schedule, subject to the further increases authorized under section 5306(a)(1)(B) of title 5, United States Code, relating to the implementation of salary comparability policy, and subject to any increase which may be allowed by the Committee on House Oversight based on performance exceeding an acceptable level of competence over a 52-week period (except that no such performance-based increase shall affect the waiting period or effective date of any longevity step-increase or increase under such section 5306(a)(1)(B)).”
+Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, as amended by Pub. L. 102–90, title I, §105, Aug. 14, 1991, 105 Stat. 460; Pub. L. 104–186, title II, §221(4)(A), Aug. 20, 1996, 110 Stat. 1748, provided: “That upon enactment of this Act \[Oct. 1, 1988\], the pay for the position of Superintendent of Garages shall be equivalent to the pay payable for positions at step 1 of level 12 of the House Employees Schedule, subject to the further increases authorized under section 5306(a)(1)(B) of title 5, United States Code, relating to the implementation of salary comparability policy, and subject to any increase which may be allowed by the Committee on House Oversight \[now Committee on House Administration\] based on performance exceeding an acceptable level of competence over a 52-week period (except that no such performance-based increase shall affect the waiting period or effective date of any longevity step-increase or increase under such section 5306(a)(1)(B)).”
 
 Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 542, provided that on and after April 1, 1973, the compensation of the Superintendent of Garages was to be at the gross annual rate of $25,000 subject to the further increases authorized under 5 U.S.C. 5307(a)(1)(B).
 

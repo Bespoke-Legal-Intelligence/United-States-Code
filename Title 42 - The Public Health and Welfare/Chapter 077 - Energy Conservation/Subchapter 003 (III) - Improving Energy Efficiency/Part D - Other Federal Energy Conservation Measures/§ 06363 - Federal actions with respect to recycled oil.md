@@ -20,7 +20,7 @@ As used in this section:
 
 &emsp;(2) The term “recycled oil” means—
 
-&emsp;&emsp;(A) used oil from which physical and chemical contaminants acquired through usehave been removed by re-refining or other processing, or
+&emsp;&emsp;(A) used oil from which physical and chemical contaminants acquired through use have been removed by re-refining or other processing, or
 
 &emsp;&emsp;(B) any blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives,
 

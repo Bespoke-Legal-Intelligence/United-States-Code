@@ -36,7 +36,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 18 months after October 26, 1992, the Director of the National Institute for Occupational Safety and Health (hereafter in this section referred to as the “Director”), in cooperation with the Secretary of Labor, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for Toxic Substances and Disease Registry, and the heads of other Federal Government agencies as determined to be appropriate by the Director, shall conduct a study to evaluate the potential for, the prevalence of, and the issues related to the contamination of workers’ homes with hazardous chemicals and substances, including infectious agents, transported from the workplaces of such workers.
+&emsp;&emsp;Not later than 18 months after October 26, 1992, the Director of the National Institute for Occupational Safety and Health (hereafter in this section referred to as the “Director”), in cooperation with the Secretary of Labor, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for Toxic Substances and Disease Registry, and the heads of other Federal Government agencies as determined to be appropriate by the Director, shall conduct a study to evaluate the potential for,the prevalence of, and the issues related to the contamination of workers’ homes with hazardous chemicals and substances, including infectious agents, transported from the workplaces of such workers.
 
 #### (B) Matters to be evaluated
 
@@ -102,7 +102,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 #### (C) Construction
 
-&emsp;&emsp;Nothing in this section shall be construed as precluding any government agency from investigating issues related to home contamination using existing procedures until such time as a final strategy is developed or from taking actions in addition to those proposed in the strategy after its completion.
+&emsp;&emsp;Nothing in this section shall be construed as precluding any government agency frominvestigating issues related to home contamination using existing procedures until such time as a final strategy is developed or from taking actions in addition to those proposed in the strategy after its completion.
 
 #### (3) Implementation of investigative strategy
 

@@ -2,13 +2,13 @@
 
 (a) In the performance of its functions, the Central Intelligence Agency is authorized to—
 
-&emsp;(1) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) <sup>1</sup> and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title, and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraph may be expended for the purposes and under the authority of sections 403a to 403s of this title without regard to limitations of appropriations from which transferred;
+&emsp;(1) Transfer to and receive from other Government agencies such sums as may be approved by the Office of Management and Budget, for the performance of any of the functions or activities authorized under paragraphs (2) and (3) of section 403(a) of this title, subsections (c)(6) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title, and any other Government agency is authorized to transfer to or receive from the Agency such sums without regard to any provisions of law limiting or prohibiting transfers between appropriations. Sums transferred to the Agency in accordance with this paragraph may be expended for the purposes and under the authority of sections 403a to 403s of this title without regard to limitations of appropriations from which transferred;
 
 &emsp;(2) Exchange funds without regard to section 3651 of the Revised Statutes;
 
 &emsp;(3) Reimburse other Government agencies for services of personnel assigned to the Agency, and such other Government agencies are authorized, without regard to provisions of law to the contrary, so to assign or detail any officer or employee for duty with the Agency;
 
-&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of Agency personnel and of defectors, their families, and other persons in the United States under Agency auspices;
+&emsp;(4) Authorize personnel designated by the Director to carry firearms to the extent necessary for the performance of the Agency's authorized functions, except that, within the United States, such authority shall be limited to the purposes of protection of classified materials and information, the training of Agency personnel and other authorized persons in the use of firearms, the protection of Agency installations and property, and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices;
 
 &emsp;(5) Make alterations, improvements, and repairs on premises rented by the Agency, and pay rent therefor;
 
@@ -28,15 +28,13 @@
 
 &emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying termination costs with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
 
-&emsp;(C) funds available for termination liability shall remain available to satisfy rental obligations with respect to such lease in subsequentfiscal years in the event such lease is not terminated early, but only to the extent those funds are in excess of the amount of termination liability at the time of their use to satisfy such rental obligations; and
+&emsp;(C) funds available for termination liability shall remain available to satisfy rental obligations with respect to such lease in subsequent fiscal years in the event such lease is not terminated early, but only to the extent those funds are in excess of the amount of termination liability at the time of their use to satisfy such rental obligations; and
 
 &emsp;(D) funds appropriated for a fiscal year may be used to make payments on such lease, for a maximum of 12 months, beginning any time during such fiscal year.
 
-(June 20, 1949, ch. 227, §5, formerly §6, 63 Stat. 211; June 26, 1951, ch. 151, 65 Stat. 89; renumbered §5, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 88–448, title IV, §402(a)(28), Aug. 19, 1964, 78 Stat. 494; Pub. L. 97–89, title V, §502, Dec. 4, 1981, 95 Stat. 1153; Pub. L. 98–215, title IV, §401, Dec. 9, 1983, 97 Stat. 1477; Pub. L. 103–178, title V, §501(1), Dec. 3, 1993, 107 Stat. 2038; Pub. L. 105–107, title IV, §401(a), Nov. 20, 1997, 111 Stat. 2257.)
+(June 20, 1949, ch. 227, §5, formerly §6, 63 Stat. 211; June 26, 1951, ch. 151, 65 Stat. 89; renumbered §5, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 88–448, title IV, §402(a)(28), Aug. 19, 1964, 78 Stat. 494; Pub. L. 97–89, title V, §502, Dec. 4, 1981, 95 Stat. 1153; Pub. L. 98–215, title IV, §401, Dec. 9, 1983, 97 Stat. 1477; Pub. L. 103–178, title V, §501(1), Dec. 3, 1993, 107 Stat. 2038; Pub. L. 105–107, title IV, §401(a), Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title IV, §§401, 403(a)(1), Oct. 20, 1998, 112 Stat. 2403, 2404.)
 
 #### References in Text
-
-Subsection (c)(5) of section 403–3 of this title, referred to in subsec. (a)(1), was redesignated subsection (c)(6) by Pub. L. 104–293, title VIII, §807(a)(2), Oct. 11, 1996, 110 Stat. 3480.
 
 Section 3651 of the Revised Statutes, referred to in subsec. (a)(2), was classified to section 543 of former Title 31, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, the first section of which enacted Title 31, Money and Finance.
 
@@ -45,6 +43,10 @@ Section 3651 of the Revised Statutes, referred to in subsec. (a)(2), was classif
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–272, §403(a)(1), substituted “paragraphs (2) and (3) of section 403(a)” for “subparagraphs (B) and (C) of section 403(a)(2)” and “(c)(6)” for “(c)(5)” and made technical amendments to references in original act which appear in text as references to sections 403, 403–3, 403–4 of this title.
+
+Subsec. (a)(4). Pub. L. 105–272, §401, substituted “and the protection of current and former Agency personnel and their immediate families, defectors and their immediate families,” for “and the protection of Agency personnel and of defectors, their families,”.
 
 1997—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for “without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: <i>Provided</i>, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency's functions or to the security of its activities; and”, and added par. (7) and subsec. (b).
 
@@ -72,9 +74,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 105–56, title VIII, §8071(b), Oct. 8, 1997, 111 Stat. 1235, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 105–262, title VIII, §8065(b), Oct. 17, 1998, 112 Stat. 2312, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–56, title VIII, §8071(b), Oct. 8, 1997, 111 Stat. 1235.
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8080(b)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
 
@@ -85,6 +89,4 @@ Pub. L. 103–335, title VIII, §8154(b), Sept. 30, 1994, 108 Stat. 2658.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 403a, 403e of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

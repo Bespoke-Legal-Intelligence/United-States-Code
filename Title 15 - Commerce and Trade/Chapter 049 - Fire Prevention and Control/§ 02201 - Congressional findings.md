@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, has made an exhaustive and comprehensive examination of the Nation's fire problem, has made detailed findings as to the extent of this problem in terms of human suffering and loss of life and property, and has made ninety thoughtful recommendations.
 
-&emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
+&emsp;(2) The United States today has the highest per capita rate of death and property loss fromfire of all the major industrialized nations in the world.
 
 &emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) The fire service and the civil defense program in each locality would both benefit from closer cooperation.
 
-&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generallygive insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated to the fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
+&emsp;(7) The Nation's fire problem is exacerbated by (A) the indifference with which some Americans confront the subject; (B) the Nation's failure to undertake enough research and development into fire and fire-related problems; (C) the scarcity of reliable data and information; (D) the fact that designers and purchasers of buildings and products generally give insufficient attention to fire safety; (E) the fact that many communities lack adequate building and fire prevention codes; and (F) the fact that local fire departments spend about 95 cents of every dollar appropriated to the fire services on efforts to extinguish fires and only about 5 cents on fire prevention.
 
 &emsp;(8) There is a need for improved professional training and education oriented toward improving the effectiveness of the fire services, including an increased emphasis on preventing fires and on reducing injuries to firefighters.
 
@@ -102,7 +102,7 @@ Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment not
 
 #### Waiver of Federal Liability
 
-Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of orinjury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
+Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
 
 #### Effect on Certain Requirements
 
@@ -162,7 +162,7 @@ The National Fire Prevention and Control Administration and the National Academy
 
 #### Sec. 302. Incidental Transfers
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations andother funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 303. Interim Officers
 
@@ -170,7 +170,7 @@ The President may authorize any persons who, immediately prior to the effective 
 
 #### Sec. 304. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before April1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Pursuant to Ex. Ord. 12127, Mar. 31, 1979, 44 F.R. 19367, this Reorg. Plan is effective Apr. 1, 1979\]
 

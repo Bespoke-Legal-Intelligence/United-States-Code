@@ -80,7 +80,7 @@ The administering authority shall verify all information relied upon in making�
 
 &emsp;&emsp;(B) no verification was made under this subparagraph during the 2 immediately preceding reviews and determinations under section 1675(a) of this title of the same order, finding, or notice, except that this clause shall not apply if good cause for verification is shown.
 
-(June 17, 1930, ch. 497, title VII, §782, as added Dec. 8, 1994, Pub. L. 103–465, title II, §231(a), 108 Stat. 4893.)
+(June 17, 1930, ch. 497, title VII, §782, as added Pub. L. 103–465, title II, §231(a), Dec. 8, 1994, 108 Stat. 4893.)
 
 #### Effective Date
 

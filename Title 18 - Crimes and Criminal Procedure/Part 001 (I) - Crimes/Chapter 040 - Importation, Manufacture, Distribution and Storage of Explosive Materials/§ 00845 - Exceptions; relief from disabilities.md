@@ -34,7 +34,7 @@
 
 #### References in Text
 
-The date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
+The date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in subsec.\(c)(2), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ The goals of the Program are to ensure that all regulations and rulings that are
 
 &emsp;(3) improves compliance.
 
-(June 17, 1930, ch. 497, title IV, §412, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §631(2), 107 Stat. 2189.)
+(June 17, 1930, ch. 497, title IV, §412, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2189.)
 
 #### Section Referred to in Other Sections
 

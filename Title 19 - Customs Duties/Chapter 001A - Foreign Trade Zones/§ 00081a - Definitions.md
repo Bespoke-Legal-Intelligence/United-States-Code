@@ -20,7 +20,7 @@ When used in this chapter—
 
 (i) The term “zone” means a “foreign-trade zone” as provided in this chapter.
 
-(June 18, 1934, ch. 590, §1, 48 Stat. 998; Sept. 23, 1996, Pub. L. 104–201, div. A, title IX, §910, 110 Stat. 2621.)
+(June 18, 1934, ch. 590, §1, 48 Stat. 998; Pub. L. 104–201, div. A, title IX, §910, Sept. 23, 1996, 110 Stat. 2621.)
 
 #### Amendments
 

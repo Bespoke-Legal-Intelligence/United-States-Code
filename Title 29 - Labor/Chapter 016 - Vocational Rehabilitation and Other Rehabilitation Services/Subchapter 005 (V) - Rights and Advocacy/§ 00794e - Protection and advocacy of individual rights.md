@@ -1,26 +1,40 @@
 ### §794e. Protection and advocacy of individual rights
 
-#### (a) Purpose
+#### (a) Purpose and construction
 
-The purpose of this section is to support a system in each State to protect the legal and human rights of individuals with disabilities who—
+#### (1) Purpose
 
-&emsp;(1) need services that are beyond the scope of services authorized to be provided by the client assistance program under section 732 of this title; and
+&emsp;The purpose of this section is to support a system in each State to protect the legal and human rights of individuals with disabilities who—
 
-&emsp;(2) are ineligible for protection and advocacy programs under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.).
+&emsp;&emsp;(A) need services that are beyond the scope of services authorized to be provided by the client assistance program under section 732 of this title; and
+
+&emsp;&emsp;(B)(i) are ineligible for protection and advocacy programs under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) because the individuals do not have a developmental disability, as defined in section 102 of such Act \[42 U.S.C. 6001\]; and
+
+&emsp;&emsp;(ii) are ineligible for services under the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.) because the individuals are not individuals with mental illness, as defined in section 102 of such Act (42 U.S.C. 10802).
+
+#### (2) Construction
+
+&emsp;This section shall not be construed to require the provision of protection and advocacy services that can be provided under the Assistive Technology Act of 1998 \[29 U.S.C. 3001 et seq.\].
 
 #### (b) Appropriations less than $5,500,000
 
-For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a) of this section.
+For any fiscal year in which the amount appropriated to carry out this section is less than$5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1) of this section.
 
 #### (c) Appropriations of $5,500,000 or more
 
-#### (1) Technical assistance
+#### (1) Reservations
 
-&emsp;For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $5,500,000, the Commissioner shall set aside not less than 1.8 percent and not more than 2.2 percent of the amount to provide training and technical assistance to the systems established under this section.
+#### (A) Technical assistance
+
+&emsp;&emsp;For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $5,500,000, the Commissioner shall set aside not less than 1.8 percent and not more than 2.2 percent of the amount to provide training and technical assistance to the systems established under this section.
+
+#### (B) Grant for the eligible system serving the American Indian consortium
+
+&emsp;&emsp;For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $10,500,000, the Commissioner shall reserve a portion, and use the portion to make a grant for the eligible system serving the American Indian consortium. The Commission shall make the grant in an amount of not less than $50,000 for the fiscal year.
 
 #### (2) Allotments
 
-&emsp;For any such fiscal year, after the reservation required by paragraph (1) has been made, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for such individuals.
+&emsp;For any such fiscal year, after the reservations required by paragraph (1) have been made, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for individuals referred to in subsection (b) of this section.
 
 #### (3) Systems within States
 
@@ -30,21 +44,21 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (B) Minimums
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except as provided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or one-third of one percent of the remainder for the fiscal year for which the allotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or one-third of one percent of such remainder shall be increased to the greater of the two amounts.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except as provided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or 1/3 of 1 percent of the remainder for the fiscal year for which the allotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or 1/3 of 1 percent of such remainder shall be increased to the greater of the two amounts.
 
 #### (4) Systems within other jurisdictions
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of paragraph (3)(B), Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.
+&emsp;&emsp;For the purposes of paragraph (3)(B), Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall not be considered to be States.
 
 #### (B) Allotment
 
-&emsp;&emsp;The eligible system within a jurisdiction described in subparagraph (A) shall be allotted under paragraph (3)(A) not less than $50,000 for the fiscal year for which the allotment is made, except that the Republic of Palau may receive such allotment under this section only until the Compact of Free Association with Palau takes effect.
+&emsp;&emsp;The eligible system within a jurisdiction described in subparagraph (A) shall be allotted under paragraph (3)(A) not less than $50,000 for the fiscal year for which the allotment is made.
 
 #### (5) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1994, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index For All Urban Consumers published by the Secretary of Labor under section 720(c)(1) of this title, the Commissioner shall increase the minimum allotment under paragraphs (3)(B) and (4)(B) by such percentage change in the Consumer Price Index For All Urban Consumers.
+&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (d) Proportional reduction
 
@@ -62,81 +76,79 @@ In order to receive assistance under this section, an eligible system shall subm
 
 &emsp;(2) have the same general authorities, including access to records and program income, as are set forth in part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.);
 
-&emsp;(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State who are ineligible for protection and advocacy programs under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.) or client assistance programs under section 732 of this title;
+&emsp;(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1) of this section;
 
-&emsp;(4) provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State;
+&emsp;(4) provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State or the American Indian consortium;
 
-&emsp;(5) develop a statement of objectives and priorities on an annual basis, and provide to the public, including individuals with disabilities and, as appropriate, their representatives, an opportunity to comment on the objectives and priorities established by, and activities of, the system including—
+&emsp;(5) develop a statement of objectives and priorities on an annual basis, and provide to the public, including individuals with disabilities and, as appropriate, the individuals’ representatives, an opportunity to comment on the objectives and priorities established by, and activities of, the system including—
 
 &emsp;&emsp;(A) the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
 &emsp;&emsp;(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.), and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 (42 U.S.C. 10801 et seq.);
 
-&emsp;(6) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system;
+&emsp;(6) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system; and
 
-&emsp;(7) provide assurances to the Commissioner that funds made available under this section will be used to supplement and not supplant the non-Federal funds that would otherwise be made available for the purpose for which Federal funds are provided; and
-
-&emsp;(8) not use allotments provided under this section in a manner inconsistent with section 14404 of title 42.
+&emsp;(7) provide assurances to the Commissioner that funds made available under this section will be used to supplement and not supplant the non-Federal funds that would otherwise be made available for the purpose for which Federal funds are provided.
 
 #### (g) Carryover and direct payment
 
 #### (1) Direct payment
 
-&emsp;Notwithstanding any other provision of law, the Commissioner shall pay directly to any system that complies with the provisions of this section, the amount of the allotment of the State involved under this section, unless the State provides otherwise.
+&emsp;Notwithstanding any other provision of law, the Commissioner shall pay directly to any system that complies with the provisions of this section, the amount of the allotment of the State or the grant for the eligible system that serves the American Indian consortium involved under this section, unless the State or American Indian consortium provides otherwise.
 
 #### (2) Carryover
 
-&emsp;Any amount paid to a State for a fiscal year that remains unobligated at the end of such year shall remain available to such State for obligation during the next fiscal year for the purposes for which such amount was paid.
+&emsp;Any amount paid to an eligible system that serves a State or American Indian consortium for a fiscal year that remains unobligated at the end of such year shall remain available to such system that serves the State or American Indian consortium for obligation during the next fiscal year for the purposes for which such amount was paid.
 
 #### (h) Limitation on disclosure requirements
 
 For purposes of any audit, report, or evaluation of the performance of the program established under this section, the Commissioner shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 
-#### (i) Ineligibility for additional funds
-
-Notwithstanding subsection (n) of this section, a protection and advocacy system that—
-
-&emsp;(1) received funds for fiscal year 1992, under section 796g <sup>1</sup> of this title, as in effect on the day before October 29, 1992, to carry out a project; and
-
-&emsp;(2) receives a continuation award for such project for fiscal year 1993,
-
-> shall not be eligible to receive additional funds under this section for fiscal year 1993.
-
-#### (j) Administrative cost
+#### (i) Administrative cost
 
 In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) of this section for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
 
-#### (k) Delegation
+#### (j) Delegation
 
 The Commissioner may delegate the administration of this program to the Commissioner of the Administration on Developmental Disabilities within the Department of Health and Human Services.
 
-#### (<i>l</i>) Report
+#### (k) Report
 
-The Commissioner shall annually prepare and submit to the Committee on Education andLabor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
+The Commissioner shall annually prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the types of services and activities being undertaken by programs funded under this section, the total number of individuals served under this section, the types of disabilities represented by such individuals, and the types of issues being addressed on behalf of such individuals.
 
-#### (m) Authorization of appropriations
+#### (<i>l</i>) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, and 1997.
+There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-#### (n) Eligibility for assistance
+#### (m) Definitions
 
-As used in this section, the term “eligible system” means a protection and advocacy system that is established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) and that meets the requirements of subsection (f) of this section.
+As used in this section:
 
-(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28.)
+#### (1) Eligible system
+
+&emsp;The term “eligible system” means a protection and advocacy system that is established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.) and that meets the requirements of subsection (f) of this section.
+
+#### (2) American Indian consortium
+
+&emsp;The term “American Indian consortium” means a consortium established as described in section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
+
+(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsecs. (a)(2), (f)(2), (3), (5)(B), and (n), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. Part C of the Act is classified generally to subchapter III (§6041 et seq.) of chapter 75 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsecs. (a)(1)(B)(i), (f)(2),\(5)(B), and (m)(1), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and amended, which is classified generally to chapter 75 (§6000 et seq.) of Title 42, The Public Health and Welfare. Part C of the Act is classified generally to subchapter III (§6041 et seq.) of chapter 75 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6000 of Title 42 and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(2) and (f)(3), (5)(B), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
-For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsec. (c)(4)(B), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-Section 796g of this title, referred to in subsec. (i)(1), was repealed by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
-
 #### Amendments
+
+1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to protection and advocacy of individual rights.
+
+Subsec. (a)(2). Pub. L. 105–394 substituted “the Assistive Technology Act of 1998” for “the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (42 U.S.C. 2201 et seq.)”.
 
 1997—Subsec. (f)(8). Pub. L. 105–12 added par. (8).
 
@@ -174,15 +186,11 @@ Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out hea
 
 Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committeeon Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
-
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 718, 718b, 2202, 2212 of this title.
+This section is referred to in sections 716, 718, 3002 of this title; title 42 section 14404.
 

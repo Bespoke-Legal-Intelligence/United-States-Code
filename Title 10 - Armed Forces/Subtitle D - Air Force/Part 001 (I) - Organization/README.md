@@ -1,11 +1,6 @@
 ## PART I—ORGANIZATION
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>801.</b>](Chapter%20801%20-%20Definitions/README.md) | <b>Definitions. \[No present sections.\]</b> |  |
 | [<b>803.</b>](Chapter%20803%20-%20Department%20of%20the%20Air%20Force/README.md) | <b>Department of the Air Force</b> | <b>8011</b> |

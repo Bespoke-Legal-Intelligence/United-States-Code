@@ -38,7 +38,7 @@ Each such demand shall—
 
 &emsp;&emsp;(B) identify an antitrust investigator who shall conduct the examination and the custodian to whom the transcript of such examination shall be submitted.
 
-> Any such demand which is an express demand for any product of discovery shall not be returned or returnable until twenty days after acopy of such demand has been served upon the person from whom the discovery was obtained.
+> Any such demand which is an express demand for any product of discovery shall not be returned or returnable until twenty days after a copy of such demand has been served upon the person from whom the discovery was obtained.
 
 #### (c) Protected material or information; demand for product of discovery superseding disclosure restrictions except trial preparation materials
 
@@ -48,7 +48,7 @@ Each such demand shall—
 
 &emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this chapter.
 
-(2) Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this chapter) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege, including without limitation any right or privilege which may be invoked to resist discovery of trial preparation materials, to which the person making such disclosure may be entitled.
+(2) Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this chapter) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand doesnot constitute a waiver of any right or privilege, including without limitation any right or privilege which may be invoked to resist discovery of trial preparation materials, to which the person making such disclosure may be entitled.
 
 #### (d) Service; jurisdiction
 
@@ -92,7 +92,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 (3) The oral testimony of any person taken pursuant to a demand served under this section shall be taken in the judicial district of the United States within which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the antitrust investigator conducting the examination and such person.
 
-(4) When the testimony is fully transcribed, the antitrust investigator or the officer shall afford the witness (who may be accompanied by counsel) a reasonable opportunity to examine the transcript; and the transcript shall be read to or by the witness, unless such examination and reading are waived by the witness. Any changes in form or substance which the witness desires to make shall be entered and identified upon the transcript by the officer or the antitrust investigator with a statement of the reasons given by the witness for making such changes. The transcript shall then be signed by the witness, unless the witness in writing waives the signing, is ill, cannot be found, or refuses to sign. If the transcript is not signed by the witness within thirty days of his being afforded a reasonable opportunity to examine it, the officer or the antitrust investigator shall sign it and state on the record the fact of the waiver, illness, absence of the witness, or the refusal to sign, together with the reason, if any, given therefor.
+(4) When the testimony is fully transcribed, the antitrust investigator or the officer shall afford the witness (who may be accompanied by counsel) a reasonable opportunity to examine the transcript; and the transcript shall be read to or by the witness, unless such examination and reading are waived by the witness. Any changes in form or substance which the witness desires to make shall be entered and identifiedupon the transcript by the officer or the antitrust investigator with a statement of the reasons given by the witness for making such changes. The transcript shall then be signed by the witness, unless the witness in writing waives the signing, is ill, cannot be found, or refuses to sign. If the transcript is not signed by the witness within thirty days of his being afforded a reasonable opportunity to examine it, the officer or the antitrust investigator shall sign it and state on the record the fact of the waiver, illness, absence of the witness, or the refusal to sign, together with the reason, if any, given therefor.
 
 (5) The officer shall certify on the transcript that the witness was duly sworn by him and that the transcript is a true record of the testimony given by the witness, and the officer or antitrust investigator shall promptly deliver it or send it by registered or certified mail to the custodian.
 

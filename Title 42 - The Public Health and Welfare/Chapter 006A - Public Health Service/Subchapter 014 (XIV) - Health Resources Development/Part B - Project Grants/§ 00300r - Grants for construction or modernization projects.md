@@ -30,7 +30,7 @@
 
 (3) There are authorized to be appropriated for grants under paragraph (1) $15,000,000 for the fiscal year ending September 30, 1981, and $15,000,000 for the fiscal year ending September 30, 1982.
 
-(July 1, 1944, ch. 373, title XVI, §1610, formerly §1625, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2268; amended Aug. 1, 1977, Pub. L. 95–83, title I, §103(b), 91 Stat. 383; renumbered §1610 and amended Oct. 4, 1979, Pub. L. 96–79, title II, §§201(c), 203(b), 93 Stat. 631, 635.)
+(July 1, 1944, ch. 373, title XVI, §1610, formerly §1625, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2268; amended Pub. L. 95–83, title I, §103(b), Aug. 1, 1977, 91 Stat. 383; renumbered §1610 and amended Pub. L. 96–79, title II, §§201(c), 203(b), Oct. 4, 1979, 93 Stat. 631, 635.)
 
 #### Prior Provisions
 

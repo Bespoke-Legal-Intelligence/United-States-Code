@@ -30,7 +30,7 @@ The Chairperson, with the advice of the National Council on the Humanities (here
 
 &emsp;(8) support the publication of scholarly works in the humanities;
 
-&emsp;(9) insure that the benefit of its programs will also be available to our citizens wheresuch programs would otherwise be unavailable due to geographic or economic reasons; and
+&emsp;(9) insure that the benefit of its programs will also be available to our citizens where such programs would otherwise be unavailable due to geographic or economic reasons; and
 
 &emsp;(10) foster programs and projects that provide access to, and preserve materials important to research, education, and public understanding of, the humanities.
 
@@ -72,7 +72,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;&emsp;(I) a description of the level of participation during the most recent preceding year for which information is available by scholars and scholarly organizations in programs receiving financial assistance under this subsection;
 
-&emsp;&emsp;(II) for the most recent preceding year for which information is available, a descriptionof the extent to which the programs receiving financial assistance under this subsection are available to all people and communities in the State; and
+&emsp;&emsp;(II) for the most recent preceding year for which information is available, a description of the extent to which the programs receiving financial assistance under this subsection are available to all people and communities in the State; and
 
 &emsp;&emsp;(III) a description of programs receiving financial assistance under this subsection that exist or are being developed to secure wider participation of scholars and scholarly organizations identified under subclause (I) of this clause or that address the availability of the humanities to all people or communities identified under subclause (II) of this clause.
 
@@ -118,13 +118,13 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by theChairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
 &emsp;(B) 44 per centum of the amount of such excess for such fiscal year shall be allotted in equal amounts among the States and grant recipients which have plans approved by the Chairperson; and
 
-&emsp;(C) 22 per centum of the amount of such excess for such fiscal year shall be allotted among the States and grant recipients which have plans approved by the Chairperson in amounts which bear the same ratio to such excess as the population of the State for which the plan is approved (or, in the case of a grantrecipient other than a State, the population of the State in which such grant recipient is located) bears to the population of all the States.
+&emsp;(C) 22 per centum of the amount of such excess for such fiscal year shall be allotted among the States and grant recipients which have plans approved by the Chairperson in amounts which bear the same ratio to such excess as the population of the State for which the plan is approved (or, in the case of a grant recipient other than a State, the population of the State in which such grant recipient is located) bears to the population of all the States.
 
 (5)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (4) for any fiscal year—
 
@@ -268,13 +268,13 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 99–194, §107(6), added subsecs. (j) to (<
 
 1980—Subsec. (c). Pub. L. 96–496, §109(c), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in last sentence.
 
-Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by States wishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
+Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by Stateswishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
 
 Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans for provisions relating to the appointment of grant recipient members.
 
 Subsec. (f)(4). Pub. L. 96–496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “such States and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
 
-Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State forany fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
+Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
 
 Subsec. (f)(5)(B). Pub. L. 96–496, §104(a)(4)(B), inserted “State agency or”.
 

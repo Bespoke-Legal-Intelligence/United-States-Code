@@ -36,9 +36,13 @@ Nothing in this part shall be construed to establish a right for a participant t
 
 (Pub. L. 97–300, title II, §254, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1062; amended Pub. L. 103–227, title X, §1016(a)(2)(C), Mar. 31, 1994, 108 Stat. 268.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (b)(2)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, asamended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The National School Lunch Act, referred to in subsec. (b)(2)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Prior Provisions
 

@@ -46,6 +46,10 @@ A service delivery area conducting a program assisted under this part may add on
 
 (Pub. L. 97–300, title II, §203, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1055; amended Pub. L. 104–193, title I, §110(n)(5), Aug. 22, 1996, 110 Stat. 2174.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Prior Provisions
 
 A prior section 1603, Pub. L. 97–300, title II, §203, Oct. 13, 1982, 96 Stat. 1360; Pub. L. 97–404, §2, Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §7, Oct. 16, 1986, 100 Stat. 1263; Pub. L. 99–570, title XI, §11004(b), Oct. 27, 1986, 100 Stat. 3207–169, related to eligibility for training services for the disadvantaged, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.

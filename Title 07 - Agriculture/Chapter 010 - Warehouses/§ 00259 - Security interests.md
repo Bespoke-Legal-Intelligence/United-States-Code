@@ -38,7 +38,7 @@ Except as provided in subsection (b) of this section, for all agricultural produ
 
 (3) The fees shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incurred in carrying out subsection (c) of this section and this subsection. Any sums collected or received by the Secretary under this chapter and deposited to the fund and any late payment penalties collected by the Secretary and credited to the fund may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. The interest earned on the sums and any late payment penalties collected by the Secretary shall be credited to the fund and shall be available without fiscal year limitations for the expenses of the Service incurred in carrying out subsection (c) of this section and this subsection.
 
-(Aug. 11, 1916, ch. 313, pt. C, §17, 39 Stat. 488; Mar. 20, 1986, Pub. L. 99–260, §14, 100 Stat. 54; Nov. 28, 1990, Pub. L. 101–624, title V, §508(a), 104 Stat. 3441; Dec. 13, 1991, Pub. L. 102–237, title X, §1009, 105 Stat. 1898; Oct. 28, 1992, Pub. L. 102–553, §1, 106 Stat. 4140.)
+(Aug. 11, 1916, ch. 313, pt. C, §17, 39 Stat. 488; Pub. L. 99–260, §14, Mar. 20, 1986, 100 Stat. 54;Pub. L. 101–624, title V, §508(a), Nov. 28, 1990, 104 Stat. 3441; Pub. L. 102–237, title X, §1009, Dec. 13, 1991, 105 Stat. 1898; Pub. L. 102–553, §1, Oct. 28, 1992, 106 Stat. 4140.)
 
 #### References in Text
 

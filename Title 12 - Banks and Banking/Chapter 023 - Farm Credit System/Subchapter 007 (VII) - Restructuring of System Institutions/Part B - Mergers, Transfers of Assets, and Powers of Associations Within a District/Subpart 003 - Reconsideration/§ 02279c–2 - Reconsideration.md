@@ -34,7 +34,7 @@ A stockholder vote in favor of—
 
 &emsp;&emsp;(A) a voluntary merger, transfer, or termination shall not take effect until the expiration of 60 days after the date on which the stockholders were notified of the final result of the vote; and
 
-&emsp;&emsp;(B) a special meeting of the stockholders of the affected banks or associations shall be held during the period referred to in subparagraph (A) to reconsider the vote.
+&emsp;&emsp;(B) a special meeting of the stockholders of the affected banks or associations shall beheld during the period referred to in subparagraph (A) to reconsider the vote.
 
 #### (4) Vote on reconsideration
 
@@ -64,7 +64,7 @@ A stockholder vote in favor of—
 
 &emsp;&emsp;&emsp;(i) the loans of the members of the new association will be transferred from the current association to such new association;
 
-&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the current association held by members of the new association will be retired at book valueand the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
+&emsp;&emsp;&emsp;(ii) the stock, participation certificates, and other similar equities of the current association held by members of the new association will be retired at book value and the proceeds of such will be transferred to the new association, and an equivalent amount of stock, participation certificates, and other similar equities will be issued to the members by the new association; and
 
 &emsp;&emsp;&emsp;(iii) the other assets of the current association will be distributed equitably among the current association and any resulting new association.
 

@@ -36,3 +36,7 @@ Provisions of an Executive order issued pursuant to this section shall modify, s
 
 A prior section 292 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §213, Oct. 17, 1976, 90 Stat. 2471, 2472, related to authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Open Enrollment Season for Participants in the Central Intelligence Agency Retirement and Disability System
+
+The Director to provide an open enrollment period for employee participants in the Central Intelligence Agency Retirement and Disability System to elect the Federal Employees’ Retirement System, see Ex. Ord. No. 13105, §2, Nov. 2, 1998, 63 F.R. 60201, set out as a note under section 4067 of Title 22, Foreign Relations and Intercourse.
+

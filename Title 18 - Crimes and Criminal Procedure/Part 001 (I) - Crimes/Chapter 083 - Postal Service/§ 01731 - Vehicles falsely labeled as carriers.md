@@ -4,7 +4,7 @@ It shall be unlawful to paint, print, or in any manner to place upon or attach t
 
 Whoever violates, and every owner, receiver, lessee, or managing operator who suffers, or permits the violation of, any provision of this section, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -54,6 +54,86 @@ Section 1 of Pub. L. 104–121 provided that: “This Act \[enacting sections 80
 
 Section 1 of Pub. L. 96–354 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Regulatory Flexibility Act’.”
 
+#### Assessment of Federal Regulations and Policies on Families
+
+Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §654\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that:
+
+“(a)
+
+Purposes.—The purposes of this section are to—
+
+&emsp;“(1) require agencies to assess the impact of proposed agency actions on family well-being; and
+
+&emsp;“(2) improve the management of executive branch agencies.
+
+“(b)
+
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘agency’ has the meaning given the term ‘Executive agency’ by section 105 of title 5, United States Code, except such term does not include the General Accounting Office; and
+
+&emsp;“(2) the term ‘family’ means—
+
+&emsp;&emsp;“(A) a group of individuals related by blood, marriage, adoption, or other legal custody who live together as a single household; and
+
+&emsp;&emsp;“(B) any individual who is not a member of such group, but who is related by blood, marriage, or adoption to a member of such group, and over half of whose support in a calendar year is received from such group.
+
+“(c)
+
+Family Policymaking Assessment.—Before implementing policies and regulations that may affect family well-being, each agency shall assess such actions with respect to whether—
+
+&emsp;“(1) the action strengthens or erodes the stability or safety of the family and, particularly, the marital commitment;
+
+&emsp;“(2) the action strengthens or erodes the authority and rights of parents in the education, nurture, and supervision of their children;
+
+&emsp;“(3) the action helps the family perform its functions, or substitutes governmental activity for the function;
+
+&emsp;“(4) the action increases or decreases disposable income or poverty of families and children;
+
+&emsp;“(5) the proposed benefits of the action justify the financial impact on the family;
+
+&emsp;“(6) the action may be carried out by State or local government or by the family; and
+
+&emsp;“(7) the action establishes an implicit or explicit policy concerning the relationship between the behavior and personal responsibility of youth, and the norms of society.
+
+“(d)
+
+Governmentwide Family Policy Coordination and Review.—
+
+&emsp;“(1)
+
+Certification and rationale.—With respect to each proposed policy or regulation that may affect family well-being, the head of each agency shall—
+
+&emsp;&emsp;“(A) submit a written certification to the Director of the Office of Management and Budget and to Congress that such policy or regulation has been assessed in accordance with this section; and
+
+&emsp;&emsp;“(B) provide an adequate rationale for implementation of each policy or regulation that may negatively affect family well-being.
+
+&emsp;“(2)
+
+Office of management and budget.—The Director of the Office of Management and Budget shall—
+
+&emsp;&emsp;“(A) ensure that policies and regulations proposed by agencies are implemented consistent with this section; and
+
+&emsp;&emsp;“(B) compile, index, and submit annually to the Congress the written certifications received pursuant to paragraph (1)(A).
+
+&emsp;“(3)
+
+Office of policy development.—The Office of Policy Development shall—
+
+&emsp;&emsp;“(A) assess proposed policies and regulations in accordance with this section;
+
+&emsp;&emsp;“(B) provide evaluations of policies and regulations that may affect family well-being to the Director of the Office of Management and Budget; and
+
+&emsp;&emsp;“(C) advise the President on policy and regulatory actions that may be taken to strengthen the institutions of marriage and family in the United States.
+
+“(e)
+
+Assessments Upon Request by Members of Congress.—Upon request by a Member of Congress relating to a proposed policy or regulation, an agency shall conduct an assessment in accordance with subsection (c), and shall provide a certification and rationale in accordance with subsection (d).
+
+“(f)
+
+Judicial Review.—This section is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.”
+
 #### Small Business Regulatory Fairness
 
 Sections 201 to 224 of title II of Pub. L. 104–121 provided that:
@@ -218,7 +298,7 @@ Study.—The Office of Technology Assessment shall conduct a study of the effect
 
 “(b)
 
-Report.—Not later than 12 months after the date of enactment of this title \[Nov. 15, 1990\], the Office of Technology Assessment shall transmit to Congress a report on the results of the study conducted under subsection (a) together with its recommendations on how to address the problems facing small businesses in rural areas.”
+Report.—Not later than 12 months after the date of enactment of this title \[Nov. 15, 1990\], the Office of Technology Assessment shall transmit to Congress areport on the results of the study conducted under subsection (a) together with its recommendations on how to address the problems facing small businesses in rural areas.”
 
 #### Congressional Findings and Declaration of Purpose
 
@@ -252,41 +332,9 @@ Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, which established requirements
 
 Ex. Ord. No. 12498, Jan. 4, 1985, 50 F.R. 1036, which established a regulatory planning process by which to develop and publish a regulatory program for each year, was revoked by Ex. Ord. No. 12866, §11, Sept. 30, 1993, 58 F.R. 51735, set out below.
 
-#### Ex. Ord. No. 12606. Family Considerations in Policy Formulation and Implementation
+#### Executive Order No. 12606
 
-Ex. Ord. No. 12606, Sept. 2, 1987, 52 F.R. 34188, provided:
-
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to ensure that the autonomy and rights of the family are considered in the formulation and implementation of policies by Executive departments and agencies, it is hereby ordered as follows:
-
-Section 1. <i>Family Policymaking Criteria</i>. In formulating and implementing policies and regulations that may have significant impact on family formation, maintenance, and general well-being, Executive departments and agencies shall, to the extent permitted by law, assess such measures in light of the following questions:
-
-(a) Does this action by government strengthen or erode the stability of the family and, particularly, the marital commitment?
-
-(b) Does this action strengthen or erode the authority and rights of parents in the education, nurture, and supervision of their children?
-
-(c) Does this action help the family perform its functions, or does it substitute governmental activity for the function?
-
-(d) Does this action by government increase or decrease family earnings? Do the proposed benefits of this action justify the impact on the family budget?
-
-(e) Can this activity be carried out by a lower level of government or by the family itself?
-
-(f) What message, intended or otherwise, does this program send to the public concerning the status of the family?
-
-(g) What message does it send to young people concerning the relationship between their behavior, their personal responsibility, and the norms of our society?
-
-Sec. 2. <i>Governmentwide Family Policy Coordination and Review.</i>
-
-(a) Executive departments and agencies shall identify proposed regulatory and statutory provisions that may have significant potential negative impact on the family well-being and provide adequate rationale on why such proposal should be submitted. The head of the department or agency, shall certify in writing that, to the extent permitted by law, such measure has been assessed in light of the criteria in Section 1 of this Order and how such measures will enhance family well-being. Such certification shall be transmitted to the Office of Management and Budget. Departments and agencies shall give careful consideration to family-related concerns and their impact in notices of proposed rulemaking and messages transmitting legislative proposals to the Congress.
-
-(b) The Office of Management and Budget shall, to the extent permitted by law, take action to ensure that the policies of the Executive departments and agencies are applied in light of the criteria set forth in Section 1 of this Order.
-
-(c) The Office of Policy Development shall assess existing and proposed policies and regulations that impact family well-being in light of the criteria established by Section 1 of this Order, provide evaluations on those measures that have significant potential impact on the family to the Office of Management and Budget, and advise the President on policy and regulatory actions that may be taken to strengthen the institutions of marriage and family in America.
-
-Sec. 3. <i>Report</i>. The Office of Policy Development shall submit preliminary reports including specific recommendations to the Domestic Policy Council and shall submit a final report to the President no later than 180 days from the date of this Order. Each year thereafter, a report, including recommendations shall be submitted, through the Domestic Policy Council to the President.
-
-Sec. 4. <i>Judicial Review</i>. This Order is intended to improve the internal management of the Executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12606, Sept. 2, 1987, 52 F.R. 34188, which provided criteria for Executive departments and agencies to follow in making policies and regulations to ensure consideration of effect of those policies and regulations on autonomy and rights of the family, was revoked by Ex. Ord. No. 13045, §7, Apr. 21, 1997, 62 F.R. 19888, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Ex. Ord. No. 12612. Federalism Considerations in Policy Formulation and Implementation
 
@@ -364,7 +412,7 @@ Sec. 6. <i>Agency Implementation</i>. (a) The head of each Executive department 
 
 (c) Each Federalism Assessment shall accompany any submission concerning the policy that is made to the Office of Management and Budget pursuant to Executive Order No. 12291 \[formerly set out above\] or OMB Circular No. A–19, and shall:
 
-(1) Contain the designated official's certification that the policy has been assessed in light of the principles,criteria, and requirements stated in sections 2 through 5 of this Order;
+(1) Contain the designated official's certification that the policy has been assessed in light of the principles, criteria, and requirements stated in sections 2 through 5 of this Order;
 
 (2) Identify any provision or element of the policy that is inconsistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order;
 
@@ -379,6 +427,8 @@ Sec. 7. <i>Government-wide Federalism Coordination and Review</i>. (a) In implem
 Sec. 8. <i>Judicial Review</i>. This Order is intended only to improve the internal management of the Executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Ex. Ord. No. 13083, §7(c), May 14, 1998, 63 F.R. 27653, set out below, which directed the revocation of Ex. Ord. No. 12612, effective 90 days after May 14, 1998, was suspended by Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, set out below.\]
 
 #### Ex. Ord. No. 12630. Governmental Actions and Interference With Constitutionally Protected Property Rights
 
@@ -526,7 +576,7 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles.</i>
 
 (8) Each agency shall identify and assess alternative forms of regulation and shall, to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt.
 
-(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out thosemandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State, local, and tribal regulatory and other governmental functions.
+(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out those mandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State, local, and tribal regulatory and other governmental functions.
 
 (10) Each agency shall avoid regulations that are inconsistent, incompatible, or duplicative with its other regulations or those of other Federal agencies.
 
@@ -616,7 +666,7 @@ Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on
 
 Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below shall apply to all regulatory actions, for both new and existing regulations, by agencies other than those agencies specifically exempted by the Administrator of OIRA:
 
-(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in mostcases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
 
 (2) Within 60 days of the date of this Executive order, each agency head shall designate a Regulatory Policy Officer who shall report to the agency head. The Regulatory Policy Officer shall be involved at each stage of the regulatory process to foster the development of effective, innovative, and least burdensome regulations and to further the principles set forth in this Executive order.
 
@@ -670,7 +720,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 (B) All substantive communications between OIRA personnel and persons not employed by the executive branch of the Federal Government regarding a regulatory action under review shall be governed by the following guidelines: (i) A representative from the issuing agency shall be invited to any meeting between OIRA personnel and such person(s);
 
-(ii) OIRA shall forward to the issuing agency, within 10 working days of receipt of the communication(s), all written communications, regardless of format, between OIRA personnel and any person who is not employed by the executive branch of the Federal Government, and the dates and names of individuals involved in all substantive oral communications (including meetings to which an agency representative was invited, but did not attend, and telephone conversations between OIRA personnel and any such persons); and
+(ii) OIRA shall forward to the issuing agency, within 10 working days of receipt of the communication(s), all written communications, regardless of format, between OIRA personnel and any person who is not employed by the executive branch of the Federal Government, andthe dates and names of individuals involved in all substantive oral communications (including meetings to which an agency representative was invited, but did not attend, and telephone conversations between OIRA personnel and any such persons); and
 
 (iii) OIRA shall publicly disclose relevant information about such communication(s), as set forth below in subsection (b)(4)(C) of this section.
 
@@ -714,7 +764,7 @@ THEREFORE, by the authority vested in me as President by the Constitution and th
 
 Section 1. <i>Reduction of Unfunded Mandates</i>. (a) To the extent feasible and permitted by law, no executive department or agency (“agency”) shall promulgate any regulation that is not required by statute and that creates a mandate upon a State, local, or tribal government, unless:
 
-(1) funds necessary to pay the direct costs incurred by the State, local, or tribal government in complyingwith the mandate are provided by the Federal Government; or
+(1) funds necessary to pay the direct costs incurred by the State, local, or tribal government in complying with the mandate are provided by the Federal Government; or
 
 (2) the agency, prior to the formal promulgation of regulations containing the proposed mandate, provides to the Director of the Office of Management and Budget a description of the extent of the agency's prior consultation with representatives of affected State, local, and tribal governments, the nature of their concerns, any written communications submitted to the agency by such units of government, and the agency's position supporting the need to issue the regulation containing the mandate.
 
@@ -739,6 +789,162 @@ Sec. 5. <i>Scope</i>. (a) Executive agency means any authority of the United Sta
 Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 Sec. 7. <i>Effective Date</i>. This order shall be effective 90 days after the date of this order.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Ex. Ord. No. 13083, §7(c), May 14, 1998, 63 F.R. 27653, set out below, which directed the revocation of Ex. Ord. No. 12875, effective 90 days after May 14, 1998, was suspended by Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, set out below.\]
+
+#### Ex. Ord. No. 13083. Federalism
+
+Ex. Ord. No. 13083, May 14, 1998, 63 F.R. 27651, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to guarantee the division of governmental responsibilities, embodied in the Constitution, between the Federal Government and the States that was intended by the Framers and application of those principles by the Executive departments and agencies in the formulation and implementation of policies, it is hereby ordered as follows:
+
+Section 1. <i>Definitions</i>. For purposes of this order:
+
+(a) “State” or “States” refer to the States of the United States of America, individually or collectively, and, where relevant, to State governments, including units of local government and other political subdivisions established by the States.
+
+(b) “Policies that have federalism implications” refers to Federal regulations, proposed legislation, and other policy statements or actions that have substantial direct effects on the States or on the relationship, or the distribution of power and responsibilities, between the Federal Government and the States.
+
+(c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
+
+Sec. 2. <i>Fundamental Federalism Principles</i>. In formulating and implementing policies that have federalism implications, agencies shall be guided by the following fundamental federalism principles:
+
+(a) The structure of government established by the Constitution is premised upon a system of checks and balances.
+
+(b) The Constitution created a Federal Government of supreme, but limited, powers. The sovereign powers not granted to the Federal Government are reserved to the people or to the States, unless prohibited to the States by the Constitution.
+
+(c) Federalism reflects the principle that dividing power between the Federal Government and the States serves to protect individual liberty. Preserving State authority provides an essential balance to the power of the Federal Government, while preserving the supremacy of Federal law provides an essential balance to the power of the States.
+
+(d) The people of the States are at liberty, subject only to the limitations in the Constitution itself or in Federal law, to define the moral, political, and legal character of their lives.
+
+(e) Our constitutional system encourages a healthy diversity in the public policies adopted by the people of the several States according to their own conditions, needs, and desires. States and local governments are often uniquely situated to discern the sentiments of the people and to govern accordingly.
+
+(f) Effective public policy is often achieved when there is competition among the several States in the fashioning of different approaches to public policy issues. The search for enlightened public policy is often furthered when individual States and local governments are free to experiment with a variety of approaches to public issues. Uniform, national approaches to public policy problems can inhibit the creation of effective solutions to those problems.
+
+(g) Policies of the Federal Government should recognize the responsibility of—and should encourage opportunities for—States, local governments, private associations, neighborhoods, families, and individuals to achieve personal, social, environmental, and economic objectives through cooperative effort.
+
+Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the fundamental federalism principles set forth in section 2 of this order, agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
+
+(a) There should be strict adherence to constitutional principles. Agencies should closely examine the constitutional and statutory authority supporting any Federal action that would limit the policymaking discretion of States and local governments, and should carefully assess the necessity for such action.
+
+(b) Agencies may limit the policymaking discretion of States and local governments only after determining that there is constitutional and legal authority for the action.
+
+(c) With respect to Federal statutes and regulations administered by States and local governments, the Federal Government should grant States and local governments the maximum administrative discretion possible. Any Federal oversight of such State and local administration should not unnecessarily intrude on State and local discretion.
+
+(d) It is important to recognize the distinction between matters of national or multi-state scope (which may justify Federal action) and matters that are merely common to the States (which may not justify Federal action because individual States, acting individually or together, may effectively deal with them). Matters of national or multi-state scope that justify Federal action may arise in a variety of circumstances, including:
+
+(1) When the matter to be addressed by Federal action occurs interstate as opposed to being contained within one State's boundaries.
+
+(2) When the source of the matter to be addressed occurs in a State different from the State (or States) where a significant amount of the harm occurs.
+
+(3) When there is a need for uniform national standards.
+
+(4) When decentralization increases the costs of government thus imposing additional burdens on the taxpayer.
+
+(5) When States have not adequately protected individual rights and liberties.
+
+(6) When States would be reluctant to impose necessary regulations because of fears that regulated business activity will relocate to other States.
+
+(7) When placing regulatory authority at the State or local level would undermine regulatory goals because high costs or demands for specialized expertise will effectively place the regulatory matter beyond the resources of State authorities.
+
+(8) When the matter relates to Federally owned or managed property or natural resources, trust obligations, or international obligations.
+
+(9) When the matter to be regulated significantly or uniquely affects Indian tribal governments.
+
+Sec. 4. <i>Consultation</i>. (a) Each agency shall have an effective process to permit elected officials and other representatives of State and local governments to provide meaningful and timely input in the development of regulatory policies that have federalism implications.
+
+(b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that is not required by statute, that has federalism implications, and that imposes substantial direct compliance costs on States and local governments, unless:
+
+&emsp;(1) funds necessary to pay the direct costs incurred by the State or local government in complying with the regulation are provided by the Federal Government; or
+
+&emsp;(2) the agency, prior to the formal promulgation of the regulation,
+
+&emsp;&emsp;(A) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a description of the extent of the agency's prior consultation with representatives of affected States and local governments, a summary of the nature of their concerns, and the agency's position supporting the need to issue the regulation; and
+
+&emsp;&emsp;(B) makes available to the Director of the Office of Management and Budget any written communications submitted to the agency by States or local governments.
+
+Sec. 5. <i>Increasing Flexibility for State and Local Waivers</i>. (a) Agencies shall review the processes under which States and local governments apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
+
+(b) Each agency shall, to the extent practicable and permitted by law, consider any application by a State or local government for a waiver of statutory or regulatory requirements in connection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the State or local level in cases in which the proposed waiver is consistent with applicable Federal policy objectives and is otherwise appropriate.
+
+(c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency. If the application for a waiver is not granted, the agency shall provide the applicant with timely written notice of the decision and the reasons therefor.
+
+(d) This section applies only to statutory or regulatory requirements that are discretionary and subject to waiver by the agency.
+
+Sec. 6. <i>Independent Agencies</i>. Independent regulatory agencies are encouraged to comply with the provisions of this order.
+
+Sec. 7. <i>General Provisions</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+(b) This order shall supplement but not supersede the requirements contained in Executive Order 12866 (“Regulatory Planning and Review”) \[set out above\], Executive Order 12988 (“Civil Justice Reform”) \[28 U.S.C. 519 note\], and OMB Circular A–19.
+
+(c) Executive Order 12612 of October 26, 1987, and Executive Order 12875 of October 26, 1993, are revoked.
+
+(d) The consultation and waiver provisions in sections 4 and 5 of this order shall complement the Executive order entitled, “Consultation and Coordination with Indian Tribal Governments,” being issued on this day.
+
+(e) This order shall be effective 90 days after the date of this order.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13095. Suspension of Executive Order 13083
+
+Ex. Ord. No. 13095, Aug. 5, 1998, 63 F.R. 42565, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to enable full and adequate consultation with State and local elected officials, their representative organizations, and other interested parties, it is hereby ordered that Executive Order 13083 \[set out above\], entitled “Federalism,” is suspended.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13107. Implementation of Human Rights Treaties
+
+Ex. Ord. No. 13107, Dec. 10, 1998, 63 F.R. 68991, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and bearing in mind the obligations of the United States pursuant to the International Covenant on Civil and Political Rights (ICCPR), the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT), the Convention on the Elimination of All Forms of Racial Discrimination (CERD), and other relevant treaties concerned with the protection and promotion of human rights to which the United States is now or may become a party in the future, it is hereby ordered as follows:
+
+Section 1. <i>Implementation of Human Rights Obligations</i>. (a) It shall be the policy and practice of the Government of the United States, being committed to the protection and promotion of human rights and fundamental freedoms, fully to respect and implement its obligations under the international human rights treaties to which it is a party, including the ICCPR, the CAT, and the CERD.
+
+(b) It shall also be the policy and practice of the Government of the United States to promote respect for international human rights, both in our relationships with all other countries and by working with and strengthening the various international mechanisms for the promotion of human rights, including, <i>inter alia</i>, those of the United Nations, the International Labor Organization, and the Organization of American States.
+
+Sec. 2. <i>Responsibility of Executive Departments and Agencies</i>. (a) All executive departments and agencies (as defined in 5 U.S.C. 101–105, including boards and commissions, and hereinafter referred to collectively as “agency” or “agencies”) shall maintain a current awareness of United States international human rights obligations that are relevant to their functions and shall perform such functions so as to respect and implement those obligations fully. The head of each agency shall designate a single contact officer who will be responsible for overall coordination of the implementation of this order. Under this order, all such agencies shall retain their established institutional roles in the implementation, interpretation, and enforcement of Federal law and policy.
+
+(b) The heads of agencies shall have lead responsibility, in coordination with other appropriate agencies, for questions concerning implementation of human rights obligations that fall within their respective operating and program responsibilities and authorities or, to the extent that matters do not fall within the operating and program responsibilities and authorities of any agency, that most closely relate to their general areas of concern.
+
+Sec. 3. <i>Human Rights Inquiries and Complaints</i>. Each agency shall take lead responsibility, in coordination with other appropriate agencies, for responding to inquiries, requests for information, and complaints about violations of human rights obligations that fall within its areas of responsibility or, if the matter does not fall within its areas of responsibility, referring it to the appropriate agency for response.
+
+Sec. 4. <i>Interagency Working Group on Human Rights Treaties</i>. (a) There is hereby established an Interagency Working Group on Human Rights Treaties for the purpose of providing guidance, oversight, and coordination with respect to questions concerning the adherence to and implementation of human rights obligations and related matters.
+
+(b) The designee of the Assistant to the President for National Security Affairs shall chair the Interagency Working Group, which shall consist of appropriate policy and legal representatives at the Assistant Secretary level from the Department of State, the Department of Justice, the Department of Labor, the Department of Defense, the Joint Chiefs of Staff, and other agencies as the chair deems appropriate. The principal members may designate alternates to attend meetings in their stead.
+
+(c) The principal functions of the Interagency Working Group shall include:
+
+(i) coordinating the interagency review of any significant issues concerning the implementation of this order and analysis and recommendations in connection with pursuing the ratification of human rights treaties, as such questions may from time to time arise;
+
+(ii) coordinating the preparation of reports that are to be submitted by the United States in fulfillment of treaty obligations;
+
+(iii) coordinating the responses of the United States Government to complaints against it concerning alleged human rights violations submitted to the United Nations, the Organization of American States, and other international organizations;
+
+(iv) developing effective mechanisms to ensure that legislation proposed by the Administration is reviewed for conformity with international human rights obligations and that these obligations are taken into account in reviewing legislation under consideration by the Congress as well;
+
+(v) developing recommended proposals and mechanisms for improving the monitoring of the actions by the various States, Commonwealths, and territories of the United States and, where appropriate, of Native Americans and Federally recognized Indian tribes, including the review of State, Commonwealth, and territorial laws for their conformity with relevant treaties, the provision of relevant information for reports and other monitoring purposes, and the promotion of effective remedial mechanisms;
+
+(vi) developing plans for public outreach and education concerning the provisions of the ICCPR, CAT, CERD, and other relevant treaties, and human rights-related provisions of domestic law;
+
+(vii) coordinating and directing an annual review of United States reservations, declarations, and understandings to human rights treaties, and matters as to which there have been nontrivial complaints or allegations of inconsistency with or breach of international human rights obligations, in order to determine whether there should be consideration of any modification of relevant reservations, declarations, and understandings to human rights treaties, or United States practices or laws. The results and recommendations of this review shall be reviewed by the head of each participating agency;
+
+(viii) making such other recommendations as it shall deem appropriate to the President, through the Assistant to the President for National Security Affairs, concerning United States adherence to or implementation of human rights treaties and related matters; and
+
+(ix) coordinating such other significant tasks in connection with human rights treaties or international human rights institutions, including the Inter-American Commission on Human Rights and the Special Rapporteurs and complaints procedures established by the United Nations Human Rights Commission.
+
+(d) The work of the Interagency Working Group shall not supplant the work of other interagency entities, including the President's Committee on the International Labor Organization, that address international human rights issues.
+
+Sec. 5. <i>Cooperation Among Executive Departments and Agencies</i>. All agencies shall cooperate in carrying out the provisions of this order. The Interagency Working Group shall facilitate such cooperative measures.
+
+Sec. 6. <i>Judicial Review, Scope, and Administration</i>. (a) Nothing in this order shall create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+(b) This order does not supersede Federal statutes and does not impose any justiciable obligations on the executive branch.
+
+(c) The term “treaty obligations” shall mean treaty obligations as approved by the Senate pursuant to Article II, section 2, clause 2 of the United States Constitution.
+
+(d) To the maximum extent practicable and subject to the availability of appropriations, agencies shall carry out the provisions of this order.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -812,7 +1018,7 @@ A. <i>Actions</i>: This memorandum directs the designated department and agency 
 
 2\. <i>Cutting Frequency of Reports</i>. (a) Each agency shall reduce by one-half the frequency of the regularly scheduled reports that the public is required, by rule or by policy, to provide to the Government (from quarterly to semiannually, from semiannually to annually, etc.), unless the department or agency head determines that such action is not legally permissible; would not adequately protect health, safety, or the environment; would be inconsistent with achieving regulatory flexibility or reducing regulatory burdens; or would impede the effective administration of the agency's program. The duty to make such determinations shall be nondelegable.
 
-(b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take toimplement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
+(b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take to implement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
 
 B. <i>Application and Scope</i>: 1. The Director may issue further guidance as necessary to carry out the purposes of this memorandum.
 
@@ -821,6 +1027,40 @@ B. <i>Application and Scope</i>: 1. The Director may issue further guidance as n
 3\. This memorandum is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 4\. The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Plain Language in Government Writing
+
+Memorandum of President of the United States, June 1, 1998, 63 F.R. 31885, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+The Vice President and I have made reinventing the Federal Government a top priority of my Administration. We are determined to make the Government more responsive, accessible, and understandable in its communications with the public.
+
+The Federal Government's writing must be in plain language. By using plain language, we send a clear message about what the Government is doing, what it requires, and what services it offers. Plain language saves the Government and the private sector time, effort, and money.
+
+Plain language requirements vary from one document to another, depending on the intended audience. Plain language documents have logical organization, easy-to-read design features, and use:
+
+&emsp;• common, everyday words, except for necessary technical terms;
+
+&emsp;• “you” and other pronouns;
+
+&emsp;• the active voice; and
+
+&emsp;• short sentences.
+
+To ensure the use of plain language, I direct you to do the following:
+
+&emsp;• By October 1, 1998, use plain language in all new documents, other than regulations, that explain how to obtain a benefit or service or how to comply with a requirement you administer or enforce. For example, these documents may include letters, forms, notices, and instructions. By January 1, 2002, all such documents created prior to October 1, 1998, must also be in plain language.
+
+&emsp;• By January 1, 1999, use plain language in all proposed and final rulemaking documents published in the Federal Register, unless you proposed the rule before that date. You should consider rewriting existing regulations in plain language when you have the opportunity and resources to do so.
+
+The National Partnership for Reinventing Government will issue guidance to help you comply with these directives and to explain more fully the elements of plain language. You should also use customer feedback and common sense to guide your plain language efforts.
+
+I ask the independent agencies to comply with these directives.
+
+This memorandum does not confer any right or benefit enforceable by law against the United States or its representatives. The Director of the Office of Management and Budget will publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

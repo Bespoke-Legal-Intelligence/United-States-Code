@@ -8,7 +8,7 @@ The President is authorized and directed to assure that adequate stocks of food 
 
 The Secretary of Agriculture shall utilize funds appropriated under section 612c of title 7, to purchase food commodities necessary to provide adequate supplies for use in any area of the United States in the event of a major disaster or emergency in such area.
 
-(Pub. L. 93–288, title IV, §413, formerly §410, May 22, 1974, 88 Stat. 157; renumbered §413, Pub. L.100–707, title I, §106(h), Nov. 23, 1988, 102 Stat. 4705.)
+(Pub. L. 93–288, title IV, §413, formerly §410, May 22, 1974, 88 Stat. 157; renumbered §413, Pub. L. 100–707, title I, §106(h), Nov. 23, 1988, 102 Stat. 4705.)
 
 #### Prior Provisions
 

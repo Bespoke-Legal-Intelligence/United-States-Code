@@ -10,7 +10,7 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§1671 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 1600 of this title and Tables.
 
-The Soil and Water Resources Conservation Act of 1977, referred to in text, is Pub. L. 95–192, Nov. 18, 1977, 91 Stat. 1407, which is classified generally to chapter 40 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Soil and Water Resources Conservation Act of 1977, referred to in text, is Pub. L. 95–192, Nov. 18, 1977, 91 Stat. 1407, which is classified generally to chapter 40 (§2001 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 #### Amendments
 

@@ -28,7 +28,7 @@ The purposes of this subchapter are—
 
 A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State, and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.
 
-(July 14, 1955, ch. 360, title I, §101, formerly §1, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 392; renumbered §101 and amended Oct. 20, 1965, Pub. L. 89–272, title I, §101(2), (3), 79 Stat. 992; Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 485; Nov. 15, 1990, Pub. L. 101–549, title I, §108(k), 104 Stat. 2468.)
+(July 14, 1955, ch. 360, title I, §101, formerly §1, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 392; renumbered §101 and amended Pub. L. 89–272, title I, §101(2), (3), Oct. 20, 1965, 79 Stat. 992; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 485; Pub. L. 101–549, title I, §108(k), Nov. 15, 1990, 104 Stat. 2468.)
 
 #### Codification
 
@@ -80,13 +80,17 @@ Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov.
 
 &emsp;“(B) nine months after the date of promulgation by the Administrator of the Environmental Protection Administration of any regulations under an amendment made by this Act which are necessary for the approval of such plan revision.”
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–286, §1, Oct. 27, 1998, 112 Stat. 2773, provided that: “This Act \[amending section 7511b of this title and enacting provisions set out as a note under section 7511b of this title\] may be cited as the ‘Border Smog Reduction Act of 1998’.”
+
 #### Short Title of 1990 Amendment
 
 Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, is popularly known as the “Clean Air Act Amendments of 1990”. See Tables for classification.
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–23, §1, July 17, 1981, 95 Stat. 139, provided: “That this Act \[amending sections 7410 and 7413 of thistitle\] may be cited as the ‘Steel Industry Compliance Extension Act of 1981’.”
+Pub. L. 97–23, §1, July 17, 1981, 95 Stat. 139, provided: “That this Act \[amending sections 7410 and 7413 of this title\] may be cited as the ‘Steel Industry Compliance Extension Act of 1981’.”
 
 #### Short Title of 1977 Amendment
 
@@ -126,7 +130,7 @@ Section 810 of Pub. L. 101–549 provided that: “Before implementing a provisi
 
 #### Radon Assessment and Mitigation
 
-Pub. L. 99–499, title I, §118(k), Oct. 17, 1986, 100 Stat. 1659, provided that:
+Pub. L. 99–499, title I, §118(k), Oct. 17, 1986, 100 Stat. 1659, as amended by Pub. L. 105–362, title V, §501(i), Nov. 10, 1998, 112 Stat. 3284, provided that:
 
 “(1)
 
@@ -151,10 +155,6 @@ Radon mitigation demonstration program.—
 Demonstration program.—The Administrator shall conduct a demonstration program to test methods and technologies of reducing or eliminating radon gas and radon daughters where it poses a threat to human health. The Administrator shall take into consideration any demonstration program underway in the Reading Prong of Pennsylvania, New Jersey, and New York and at other sites prior to enactment. The demonstration program under this section shall be conducted in the Reading Prong, and at such other sites as the Administrator considers appropriate.
 
 &emsp;“(B)
-
-Annual reports.—The Administrator shall submit annual reports not later than February 1 of each year (beginning February 1, 1987) on the status of the demonstration program carried out under this subsection and on any such demonstration program initiated prior to enactment.
-
-&emsp;“(C)
 
 Liability.—Liability, if any, for persons undertaking activities pursuant to the radon mitigation demonstration program authorized under this subsection shall be determined under principles of existing law.
 

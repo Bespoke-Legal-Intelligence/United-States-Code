@@ -44,6 +44,10 @@ Par. (8). Pub. L. 104–186, §211(2)(H), substituted “means a State of the Un
 
 Par. (9). Pub. L. 104–186, §211(1)(A), (C), redesignated former subsec. (i) as par. (9).
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date
 
 Section 19 of Pub. L. 91–138 provided that: “The provisions of, and the repeals made by, this Act \[enacting this chapter and repealing sections 201 to 226 of this title\] shall apply with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after the date of enactment of this Act \[Dec. 5, 1969\].”

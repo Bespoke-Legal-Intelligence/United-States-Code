@@ -26,15 +26,15 @@ The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–5
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316 substituted “Secretary of the Treasury” for “General Accounting Office”.
+1996—Subsec. (a). Pub. L. 104–316 substituted “Secretary of the Treasury” for “General Accounting Office”.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (b). Pub. L. 97–164, §139(k)(2), struck out the comma after “shall be discharged” thereby correcting a technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
+1978—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
 
 Subsec. (b). Pub. L. 95–563, §14(f), inserted provision relating to discharge of partial judgments.
 

@@ -12,7 +12,7 @@ Subject to subsection (d) of this section, a State may elect to carry out a Simp
 
 If a State elects to carry out a Program, within the State or a political subdivision of the State—
 
-&emsp;(1) a household in which no members receive assistance under a State program fundedunder part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) may not participate in the Program;
+&emsp;(1) a household in which no members receive assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) may not participate in the Program;
 
 &emsp;(2) a household in which all members receive assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) shall automatically be eligible to participate in the Program;
 

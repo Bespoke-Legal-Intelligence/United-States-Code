@@ -64,7 +64,7 @@
 
 #### (I) Deadline
 
-&emsp;&emsp;Any repayment required under subparagraph (G) or (H) shall be due at the end of the marketing year for the crop with respect to which the payments were made.
+&emsp;&emsp;Any repayment required under subparagraph (G) or (H) shall be due at the end ofthe marketing year for the crop with respect to which the payments were made.
 
 #### (J) Noncompliance
 
@@ -84,7 +84,7 @@
 
 #### (b), (c) Repealed. Pub. L. 104–127, title I, §171(b)(2)(G), Apr. 4, 1996, 110 Stat. 938
 
-(Oct. 31, 1949, ch. 792, title I, §114, formerly §107C, as added Sept. 8, 1982, Pub. L. 97–253, title I, §120, 96 Stat. 766; amended Dec. 23, 1985, Pub. L. 99–198, title X, §1002, 99 Stat. 1446; Dec. 22, 1987, Pub. L. 100–203, title I, §1110, 101 Stat. 1330–6; Dec. 19, 1989, Pub. L. 101–239, title I, §1003(b)(1), 103 Stat. 2108; Nov. 5, 1990, Pub. L. 101–508, title I, §1102(d), 104 Stat. 1388–2; renumbered §114 and amended Nov. 28, 1990, Pub. L. 101–624, title XI, §§1121(a), (c), 1161(a)(1), 104 Stat. 3500, 3503, 3520; Dec. 13, 1991, Pub. L. 102–237, titleI, §109, 105 Stat. 1828; Aug. 10, 1993, Pub. L. 103–66, title I, §1101(b)(1), 107 Stat. 314; Apr. 4, 1996, Pub. L. 104–127, title I, §171(b)(2)(G), 110 Stat. 938.)
+(Oct. 31, 1949, ch. 792, title I, §114, formerly §107C, as added Pub. L. 97–253, title I, §120, Sept. 8, 1982, 96 Stat. 766; amended Pub. L. 99–198, title X, §1002, Dec. 23, 1985, 99 Stat. 1446; Pub. L. 100–203, title I, §1110, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 101–239, title I, §1003(b)(1), Dec. 19, 1989, 103 Stat. 2108; Pub. L. 101–508, title I, §1102(d), Nov. 5, 1990, 104 Stat. 1388–2; renumbered §114 and amended Pub. L. 101–624, title XI, §§1121(a), (c), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3500, 3503, 3520; Pub. L. 102–237, title I, §109, Dec. 13, 1991, 105 Stat. 1828; Pub. L. 103–66, title I, §1101(b)(1), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §171(b)(2)(G), Apr. 4, 1996, 110 Stat. 938.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Application.—This subparagraph shall apply if—
 
 #### Advance Deficiency Payments
 
-Pub. L. 99–509, title I, §1021, Oct. 21, 1986, 100 Stat. 1877, required Secretary of Agriculture to make advance deficiency payments available for 1987 crops of wheat, feed grains, upland cotton, and rice, and provided that percentage of projected payment rate used in computing such payments shall not be less than (1) 40 percent in the case of wheat and feed grains, and (2) 30 percent in the case of rice and upland cotton.
+Pub. L. 99–509, title I, §1021, Oct. 21, 1986, 100 Stat. 1877, required Secretary of Agriculture to make advance deficiency payments available for 1987 crops ofwheat, feed grains, upland cotton, and rice, and provided that percentage of projected payment rate used in computing such payments shall not be less than (1) 40 percent in the case of wheat and feed grains, and (2) 30 percent in the case of rice and upland cotton.
 
 #### Section Referred to in Other Sections
 

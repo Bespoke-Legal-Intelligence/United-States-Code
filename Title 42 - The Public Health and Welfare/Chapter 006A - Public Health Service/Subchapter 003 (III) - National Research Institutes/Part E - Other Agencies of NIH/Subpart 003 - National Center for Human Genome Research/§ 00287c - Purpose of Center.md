@@ -30,7 +30,7 @@ The Director of the Center may conduct and support research training—
 
 (2) With respect to providing funds under subsection (a)(6) of this section for proposals to address the ethical issues associated with the genome project, paragraph (1) shall not apply for a fiscal year if the Director of the Center certifies to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, that the Director has determined that an insufficient number of such proposals meet the applicable requirements of sections 289 and 289a of this title.
 
-(July 1, 1944, ch. 373, title IV, §485B, as added June 10, 1993, Pub. L. 103–43, title XV, §1521(2), 107 Stat. 180.)
+(July 1, 1944, ch. 373, title IV, §485B, as added Pub. L. 103–43, title XV, §1521(2), June 10, 1993, 107 Stat. 180.)
 
 #### Prior Provisions
 
@@ -38,7 +38,7 @@ A prior section 287c, act July 1, 1944, ch. 373, title IV, §483, as added Nov. 
 
 A prior section 287c–1, act July 1, 1944, ch. 373, title IV, §484, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 867, and amended, which related to specific authorities of the Director of the Center, was renumbered section 464W of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–1 of this title.
 
-A prior section 287c–2, act July 1, 1944, ch. 373, title IV, §485, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99Stat. 867, and amended, which related to the advisory council for the Center, was renumbered section 464X of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–2 of this title.
+A prior section 287c–2, act July 1, 1944, ch. 373, title IV, §485, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 867, and amended, which related to the advisory council for the Center, was renumbered section 464X of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–2 of this title.
 
 A prior section 287c–3, act July 1, 1944, ch. 373, title IV, §486, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 869, and amended, which related to biennial report of activities of the Center, was renumbered section 464Y of act July 1, 1944, by Pub. L. 103–43, title XV, §1511(b)(2), June 10, 1993, 107 Stat. 179, and transferred to section 285q–3 of this title.
 

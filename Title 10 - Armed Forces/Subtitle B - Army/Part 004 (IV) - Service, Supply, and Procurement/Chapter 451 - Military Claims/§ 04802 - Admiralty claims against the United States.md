@@ -12,7 +12,7 @@
 
 (c) In any case where the amount to be paid is not more than $100,000, the Secretary of the Army may delegate his authority under subsection (a) to any person in the Department of the Army designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 271; July 7, 1965, Pub. L. 89–67, 79 Stat. 212; Aug. 29, 1972, Pub. L. 92–417, §1(1), 86 Stat. 654; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1633, 103 Stat. 1608.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 271; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(1), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
 
 Historical and Revision Notes
 

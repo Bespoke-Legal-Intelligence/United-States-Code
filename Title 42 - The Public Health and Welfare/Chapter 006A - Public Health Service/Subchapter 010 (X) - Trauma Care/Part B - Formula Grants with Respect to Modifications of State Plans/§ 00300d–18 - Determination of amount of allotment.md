@@ -66,7 +66,7 @@ Subject to the extent of amounts made available in appropriations Acts, the amou
 
 &emsp;&emsp;(B) the percentage determined under subsection (b)(2) of this section for the State.
 
-(July 1, 1944, ch. 373, title XII, §1218, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2924.)
+(July 1, 1944, ch. 373, title XII, §1218, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2924.)
 
 #### Section Referred to in Other Sections
 

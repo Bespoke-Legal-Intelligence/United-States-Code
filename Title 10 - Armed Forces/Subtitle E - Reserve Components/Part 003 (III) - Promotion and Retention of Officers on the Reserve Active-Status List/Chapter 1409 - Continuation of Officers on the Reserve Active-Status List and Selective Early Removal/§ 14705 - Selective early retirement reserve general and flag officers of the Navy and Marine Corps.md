@@ -6,17 +6,27 @@ Authority To Consider.—An officer in the Naval Reserve in an active status ser
 
 (b)
 
-Boards.—If the Secretary of the Navy determines that consideration for early retirement under this section is necessary, the Secretary shall convene a board under section 14101(b) of this title to recommend an appropriate number of officers for early retirement.
+Boards.—(1) If the Secretary of the Navy determines that consideration of officers for early retirement under this section is necessary, the Secretary shall convene a continuation board under section 14101(b) of this title to recommend an appropriate number of officers for early retirement.
+
+(2) In the case of such a board convened to consider officers in the grade of rear admiral or major general, the Secretary of the Navy may appoint the board without regard to section 14102(b) of this title. In doing so, however, the Secretary shall ensure that—
+
+&emsp;(A) each regular commissioned officer appointed to the board holds a grade higher than the grade of rear admiral or major general; and
+
+&emsp;(B) at least one member of the board is a reserve officer who holds the grade of rear admiral or major general.
 
 (c)
 
 Separation Under Section 14514.—An officer selected for early retirement under this section shall be separated in accordance with section 14514 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, §515, Oct. 17, 1998, 112 Stat. 2008.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 6389(f)(3) of this title, prior to repeal by Pub. L. 103–337, §1628(4).
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted “of officers” after “consideration” and “continuation” after “shall convene a”, and added par. (2).
 
 #### Section Referred to in Other Sections
 

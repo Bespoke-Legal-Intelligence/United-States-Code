@@ -8,11 +8,11 @@
 
 (d) The Secretary may fix compensation on a piece-price basis without limitation as to the amount earned per diem, and payments may be made to enumerators for the use of private automobiles on official business without regard to section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), but at rates not in excess of the rates provided by that Act.
 
-(e) The Secretary may authorize the expenditure of necessary sums for travel expenses of persons selected for appointment for attendance at training courses held by the Department of Commerce with respect to any of the work provided for by law.
+(e) The Secretary may authorize the expenditure of necessary sums for travel expenses of persons selected for appointment for attendance at training courses held by the Department ofCommerce with respect to any of the work provided for by law.
 
 (f) Notwithstanding any other provision of law prohibiting the expenditure of public money for telephone service, the Secretary, under such regulations as he shall prescribe, may authorize reimbursement for tolls or charges for telephone service from private residences or private apartments to the extent such charges are determined by the Secretary to have been incurred to facilitate the collection of information in connection with the censuses and surveys authorized by this title.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1015; Sept. 13, 1960, Pub. L. 86–769, §3, 74 Stat. 911; Aug. 31, 1964, Pub. L. 88–535, 78 Stat. 744.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1015; Pub. L. 86–769, §3, Sept. 13, 1960, 74 Stat. 911; Pub. L. 88–535, Aug. 31, 1964, 78 Stat. 744.)
 
 #### Historical and Revision Notes
 

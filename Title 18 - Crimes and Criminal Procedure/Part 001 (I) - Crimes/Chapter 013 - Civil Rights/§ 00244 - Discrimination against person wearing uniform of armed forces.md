@@ -1,8 +1,8 @@
 ### §244. Discrimination against person wearing uniform of armed forces
 
-Whoever, being a proprietor, manager, or employee of a theater or other public place of entertainment or amusement in the District of Columbia, or in any Territory, or Possession of the United States, causes any person wearing the uniform of any of the armed forces of the United States to be discriminated against because of that uniform, shall be fined under this title.
+Whoever, being a proprietor, manager, or employee of a theater or other public place of entertainment or amusement in the District of Columbia, or in any Territory, or Possession of the United States, causes any person wearing the uniform of any of the armed forces of the UnitedStates to be discriminated against because of that uniform, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 697; May 24, 1949, ch. 139, §5, 63 Stat. 90; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 697; May 24, 1949, ch. 139, §5, 63 Stat. 90; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 5\] substitutes, in section 244 of title 18, U.S.C., “any of the armed forces of the United States” for the enumeration of specific branches and thereby includes the Air Force, formerly part of theArmy. This clarification is necessary because of the establishment of the Air Force as a separate branch of the Armed Forces by the act of July 26, 1947.
+This section \[section 5\] substitutes, in section 244 of title 18, U.S.C., “any of the armed forces of the United States” for the enumeration of specific branches and thereby includes the Air Force, formerly part of the Army. This clarification is necessary because of the establishment of the Air Force as a separate branch of the Armed Forces by the act of July 26, 1947.
 
 #### Amendments
 

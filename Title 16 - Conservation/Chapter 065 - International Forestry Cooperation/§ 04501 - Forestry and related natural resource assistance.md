@@ -32,7 +32,7 @@ In support of forestry and related natural resource activities outside of the Un
 
 &emsp;(4) engage in scientific exchange and cooperative research with foreign governmental, educational, technical and research institutions; and
 
-&emsp;(5) cooperate with domestic and international organizations that further international programs for the management and protection of forests, rangelands, wildlife and fisheries, and related natural resource activities.
+&emsp;(5) cooperate with domestic and international organizations that further international programs for the management andprotection of forests, rangelands, wildlife and fisheries, and related natural resource activities.
 
 #### (c) Eligible countries
 

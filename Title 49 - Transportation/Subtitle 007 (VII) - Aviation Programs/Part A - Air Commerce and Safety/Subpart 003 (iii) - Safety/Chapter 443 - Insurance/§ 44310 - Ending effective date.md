@@ -1,8 +1,8 @@
 ### §44310. Ending effective date
 
-The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after December 31, 1998.
+The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after March 31, 1999.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641; Pub. L. 105–277, div. C, title I, §110(c)(2), Oct. 21, 1998, 112 Stat. 2681–588.)
 
 Historical and Revision Notes
 
@@ -23,6 +23,8 @@ Aug. 23, 1958, Pub. L. 85–726, §1312, 72 Stat. 806; July 20, 1961, Pub. L. 87
 The words “is not effective after” are substituted for “shall expire at the termination of” for clarity and consistency in the revised title.
 
 #### Amendments
+
+1998—Pub. L. 105–277 substituted “March 31, 1999” for “December 31, 1998”.
 
 1997—Pub. L. 105–137 substituted “December 31, 1998” for “September 30, 2002”.
 

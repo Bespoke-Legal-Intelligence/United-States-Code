@@ -4,7 +4,7 @@ Whoever, whether a corporation, partnership, unincorporated company, association
 
 This section shall not make unlawful the use of any such design or insignia which was lawful on August 31, 1948.
 
-(June 25, 1948, ch. 645, 62 Stat. 733; Oct. 31, 1951, ch. 655, §21a, 65 Stat. 719; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(E), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 733; Oct. 31, 1951, ch. 655, §21a, 65 Stat. 719; Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

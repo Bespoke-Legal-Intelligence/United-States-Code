@@ -10,7 +10,7 @@ The Secretary shall prescribe rules governing the accrual of leave by enrollees.
 
 #### (c) Termination readjustment allowance: minimum period; advances; misconduct penalty; payment in case of death
 
-The Secretary may provide each former enrollee upon termination, a readjustment allowance at a rate not to exceed, for the fiscal year ending September 30, 1983, $110 for each month of satisfactory participation in the Job Corps. No enrollee shall be entitled to a readjustment allowance unless he has remained in the program at least 90 days, except in unusual circumstances as determined by the Secretary. The Secretary may, from time to time, advance to or on behalf of an enrollee such portions of his readjustment allowances as the Secretary deems necessary to meet extraordinary financial obligations incurred by that enrollee. The Secretary is authorized, pursuant to rules or regulations, to reduce the amount of an enrollee's readjustment allowance as a penalty for misconduct during participation in the Job Corps. In the event of an enrollee's death during his period of service, the amount of any unpaid readjustment allowance shall be paid in accordance with the provisions of section 5582 of title 5.
+The Secretary may provide each former enrollee upon termination, a readjustment allowance at a rate not to exceed, for the fiscal year ending September 30, 1983, $110 for each month of satisfactory participation in the Job Corps. No enrollee shall be entitled to a readjustment allowance unless he has remained in the program at least 90 days, except in unusual circumstances as determined by the Secretary. The Secretary may, from time to time, advance to or on behalf of an enrollee such portions of his readjustment allowances as the Secretary deems necessary to meet extraordinary financial obligations incurred by that enrollee. The Secretary is authorized, pursuant to rules or regulations,to reduce the amount of an enrollee's readjustment allowance as a penalty for misconduct during participation in the Job Corps. In the event of an enrollee's death during his period of service, the amount of any unpaid readjustment allowance shall be paid in accordance with the provisions of section 5582 of title 5.
 
 #### (d) Remittance to dependents; supplement
 
@@ -21,6 +21,10 @@ Such portion of the readjustment allowance as prescribed by the Secretary may be
 In addition to child care assistance provided under section 1698(e) of this title, the Secretary shall provide enrollees who otherwise could not participate in the Job Corps with allowances to pay for child care costs, such as food, clothing, and health care for the child. Allowances under this subsection may only be provided during the first 2 months of an enrollee's participation in the program.
 
 (Pub. L. 97–300, title IV, §429, Oct. 13, 1982, 96 Stat. 1374; Pub. L. 103–239, title VII, §731, May 4, 1994, 108 Stat. 607; Pub. L. 104–193, title I, §110(n)(11), Aug. 22, 1996, 110 Stat. 2174.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Amendments
 

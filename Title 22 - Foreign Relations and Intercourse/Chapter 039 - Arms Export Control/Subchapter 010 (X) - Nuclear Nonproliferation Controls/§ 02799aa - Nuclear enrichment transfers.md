@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, no funds made available to
 
 &emsp;(1) the supplying country and receiving country have reached agreement to place all such equipment, materials, or technology, upon delivery, under multilateral auspices and management when available; and
 
-&emsp;(2) the recipient country has entered into an agreement with the International Atomic Energy Agency to place all such equipment, materials, technology, and all nuclear fuel and facilities in such country under the safeguards system of such Agency.
+&emsp;(2) the recipient country has entered into an agreement with the International Atomic Energy Agency to place all such equipment, materials, technology, and all nuclear fuel andfacilities in such country under the safeguards system of such Agency.
 
 #### (b) Certification by President of necessity of continued assistance; disapproval by Congress
 

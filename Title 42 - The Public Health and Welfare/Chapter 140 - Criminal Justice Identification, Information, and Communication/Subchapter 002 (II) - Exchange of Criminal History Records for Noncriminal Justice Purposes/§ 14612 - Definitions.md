@@ -1,0 +1,30 @@
+### §14612. Definitions
+
+In this subchapter:
+
+#### (1) Attorney General
+
+&emsp;The term “Attorney General” means the Attorney General of the United States.
+
+#### (2) Compact
+
+&emsp;The term “Compact” means the National Crime Prevention and Privacy Compact set forth in section 14616 of this title.
+
+#### (3) Council
+
+&emsp;The term “Council” means the Compact Council established under Article VI of the Compact.
+
+#### (4) FBI
+
+&emsp;The term “FBI” means the Federal Bureau of Investigation.
+
+#### (5) Party State
+
+&emsp;The term “Party State” means a State that has ratified the Compact.
+
+#### (6) State
+
+&emsp;The term “State” means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+(Pub. L. 105–251, title II, §213, Oct. 9, 1998, 112 Stat. 1874.)
+

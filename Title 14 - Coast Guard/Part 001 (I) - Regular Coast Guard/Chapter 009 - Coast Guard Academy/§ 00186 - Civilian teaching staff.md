@@ -4,7 +4,7 @@
 
 (b) The compensation of persons employed under this section is as prescribed by the Secretary.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 509; Sept. 3, 1954, ch. 1263, §32, 68 Stat. 1238; May 14, 1960, Pub. L. 86–474, §1(9), 74 Stat. 145; June 9, 1966, Pub. L. 89–444, §1(9), 80 Stat. 195; Oct. 18, 1976, Pub. L. 94–546, §1(14), 90 Stat. 2520.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 509; Sept. 3, 1954, ch. 1263, §32, 68 Stat. 1238; Pub. L. 86–474, §1(9), May 14, 1960, 74 Stat. 145; Pub. L. 89–444, §1(9), June 9, 1966, 80 Stat. 195; Pub. L. 94–546, §1(14), Oct. 18, 1976, 90 Stat. 2520.)
 
 #### Historical and Revision Notes
 

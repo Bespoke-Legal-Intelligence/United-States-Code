@@ -62,7 +62,7 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Director shall obligate not less than 15 percent to carry out health services research relating to alcohol abuse and alcoholism.
 
-(July 1, 1944, ch. 373, title IV, §464H, as added and amended July 10, 1992, Pub. L. 102–321, title I, §122(a), (b), 106 Stat. 358, 359; Aug. 26, 1992, Pub. L. 102–352, §2(a)(1), 106 Stat. 938.)
+(July 1, 1944, ch. 373, title IV, §464H, as added and amended Pub. L. 102–321, title I, §122(a), (b), July 10, 1992, 106 Stat. 358, 359; Pub. L. 102–352, §2(a)(1), Aug. 26, 1992, 106 Stat. 938.)
 
 #### Codification
 
@@ -76,7 +76,7 @@ In subsec. (b)(9), “section 3324(a) and (b) of title 31” substituted for ref
 
 Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of section 290bb of this title to subsec. (b) of this section, substituted “(b)
 
-Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
+Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) Incarrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
 
 Subsecs. (c), (d). Pub. L. 102–321, §122(b)(2)(B), added subsecs. (c) and (d).
 

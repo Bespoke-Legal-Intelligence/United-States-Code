@@ -6,7 +6,7 @@
 
 (c) This section and sections 960 and 961 of this title shall not apply to any subject or citizen of any foreign prince, state, colony, district, or people who is transiently within the United States and enlists or enters himself on board any vessel of war, letter of marque, or privateer, which at the time of its arrival within the United States was fitted and equipped as such, or hires or retains another subject or citizen of the same foreign prince, state, colony, district, or people who is transiently within the United States to enlist or enter himself to serve such foreign prince, state, colony, district, or people on board such vessel of war, letter of marque, or privateer, if the United States shall then be at peace with such foreign prince, state, colony, district, or people.
 
-(June 25, 1948, ch. 645, 62 Stat. 745; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

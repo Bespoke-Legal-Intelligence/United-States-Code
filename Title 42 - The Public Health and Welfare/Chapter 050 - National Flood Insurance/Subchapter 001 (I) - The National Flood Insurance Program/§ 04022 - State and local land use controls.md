@@ -22,7 +22,7 @@
 
 #### (C) Prohibition on disaster relief
 
-&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shall not be eligible for disaster relief assistanceunder any program administered by the Director or any other Federal agency.
+&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shallnot be eligible for disaster relief assistance under any program administered by the Director or any other Federal agency.
 
 #### (D) Definitions
 

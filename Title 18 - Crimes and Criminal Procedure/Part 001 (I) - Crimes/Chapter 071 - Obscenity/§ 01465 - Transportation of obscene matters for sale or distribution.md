@@ -4,7 +4,7 @@ Whoever knowingly transports or travels in, or uses a facility or means of, inte
 
 The transportation as aforesaid of two or more copies of any publication or two or more of any article of the character described above, or a combined total of five such publications and articles, shall create a presumption that such publications or articles are intended for sale or distribution, but such presumption shall be rebuttable.
 
-(Added June 28, 1955, ch. 190, §3, 69 Stat. 183; amended Nov. 18, 1988, Pub. L. 100–690, title VII, §§7521(c), 7522(b), 102 Stat. 4489, 4494; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Feb. 8, 1996, Pub. L. 104–104, title V, §507(b), 110 Stat. 137.)
+(Added June 28, 1955, ch. 190, §3, 69 Stat. 183; amended Pub. L. 100–690, title VII, §§7521(c), 7522(b), Nov. 18, 1988, 102 Stat. 4489, 4494; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–104, title V, §507(b), Feb. 8, 1996, 110 Stat. 137.)
 
 #### References in Text
 

@@ -36,7 +36,7 @@ Additional Powers.—(1) The Board may—
 
 (c)
 
-Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not require the Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress.
+Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not requirethe Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress.
 
 (d)
 
@@ -150,7 +150,7 @@ In subsection (b)(1)(H), the words “public or private” are omitted as surplu
 
 Subsection (b)(2) is substituted for “and to apply the funds received to the Board's appropriations” for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c), the word “submits” is substituted for “submits or transmits” for consistency. The words “Director of the Office of Management and Budget” aresubstituted for “Office of Management and Budget” because of 31:502(a).
+In subsection (c), the word “submits” is substituted for “submits or transmits” for consistency. The words “Director of the Office of Management and Budget” are substituted for “Office of Management and Budget” because of 31:502(a).
 
 In subsection (d), the word “appropriate” is substituted for “necessary or appropriate” to eliminate unnecessary words.
 

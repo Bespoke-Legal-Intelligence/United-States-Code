@@ -2,7 +2,7 @@
 
 The Corporation, in consultation with the Director, shall ensure that no amounts appropriated under section 12681 of this title are utilized to carry out this division.
 
-(Pub. L. 101–610, title I, §165, formerly §195N, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §165 andamended Pub. L. 103–82, title I, §104(b), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 840, 918.)
+(Pub. L. 101–610, title I, §165, formerly §195N, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §165 and amended Pub. L. 103–82, title I, §104(b), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 840, 918.)
 
 #### Codification
 

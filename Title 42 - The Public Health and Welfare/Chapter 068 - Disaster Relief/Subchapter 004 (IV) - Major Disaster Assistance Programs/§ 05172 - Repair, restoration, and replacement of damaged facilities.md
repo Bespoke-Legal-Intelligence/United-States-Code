@@ -102,7 +102,7 @@ For purposes of this section, associated expenses include the following:
 
 #### (5) Other labor costs
 
-&emsp;Base and overtime wages for an applicant's employees and extra hires performing eligiblework plus fringe benefits on such wages to the extent that such benefits were being paid before the disaster.
+&emsp;Base and overtime wages for an applicant's employees and extra hires performing eligible work plus fringe benefits on such wages to the extent that such benefits were being paid before the disaster.
 
 (Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699.)
 
@@ -122,5 +122,5 @@ A prior section 406 of Pub. L. 93–288 was renumbered section 409 by Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3232, 5154, 5159, 5189, 5204a, 5204c of this title; title 16 section 1536.
+This section is referred to in sections 5154, 5159, 5189, 5204a, 5204c of this title; title 16 section 1536.
 

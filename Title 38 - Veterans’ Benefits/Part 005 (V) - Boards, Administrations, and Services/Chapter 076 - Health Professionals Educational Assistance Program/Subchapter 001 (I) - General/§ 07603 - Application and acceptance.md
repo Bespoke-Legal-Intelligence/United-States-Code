@@ -1,8 +1,10 @@
 ### §7603. Application and acceptance
 
-(a) To apply to participate in the Educational Assistance Program, an individual shall submit to the Secretary an application for such participation together with an agreement described in section 7604 of this title under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
+(a)(1) To apply to participate in the Educational Assistance Program under subsection <sup>1</sup> II, III, V, or VI of this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in section 7604 of this title under which the participant agrees to serve a period of obligated service in the Veterans Health Administration as provided in the agreement in return for payment of educational assistance as provided in the agreement.
 
-(b)(1) An individual becomes a participant in the Educational Assistance Program upon the Secretary's approval of the individual's application and the Secretary's acceptance of the agreement.
+(2) To apply to participate in the Educational Assistance Program under subchapter VII of this chapter, an individual shall submit to the Secretary an application for such participation.
+
+(b)(1) An individual becomes a participant in the Educational Assistance Program upon the Secretary's approval of the individual's application and the Secretary's acceptance of the agreement (if required).
 
 (2) Upon the Secretary's approval of an individual's participation in the program, the Secretary shall promptly notify the individual of that approval. Such notice shall be in writing.
 
@@ -16,9 +18,13 @@
 
 (d) In selecting applicants for acceptance in the Educational Assistance Program, the Secretary shall give priority to the applications of individuals who have previously received educational assistance under the program and have not completed the course of education or training undertaken under such program.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4303; renumbered §7603 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4303; renumbered §7603 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 105–368, title VIII, §805(3), Nov. 11, 1998, 112 Stat. 3359.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–368, §805(3)(A), designated existing provisions as par. (1), substituted “To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter,” for “To apply to participate in the Educational Assistance Program,”, and added par. (2).
+
+Subsec. (b)(1). Pub. L. 105–368, §805(3)(B), inserted “(if required)” before period at end.
 
 1994—Subsecs. (a), (c)(1)(B). Pub. L. 103–446 substituted “Veterans Health Administration” for “Department of Medicine and Surgery”.
 
@@ -32,5 +38,7 @@ Subsecs. (b) to (d). Pub. L. 102–83 substituted “Secretary” for “Adminis
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7612, 7616, 7617, 7622, 7623, 7652, 7653, 7654 of this title.
+This section is referred to in sections 7612, 7616, 7617, 7622, 7623, 7652, 7653, 7654, 7672, 7674, 7675 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
 

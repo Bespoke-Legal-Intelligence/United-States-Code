@@ -46,7 +46,7 @@ The Chairman of the Commission shall be appointed by the President, by and with 
 
 (2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
-(July 1, 1944, ch. 373, title XVIII, §1801, as added Nov. 9, 1978, Pub. L. 95–622, title III, §301, 92 Stat. 3437; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 25, 1988, Pub. L. 100–527, §10(1), 102 Stat. 2640.)
+(July 1, 1944, ch. 373, title XVIII, §1801, as added Pub. L. 95–622, title III, §301, Nov. 9, 1978, 92 Stat. 3437; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–527, §10(1), Oct. 25, 1988, 102 Stat. 2640.)
 
 #### Amendments
 
@@ -62,11 +62,11 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payableunder specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Appointment of Initial Members
 
-Section 302(a) of Pub. L. 95–622 directed President to initially appoint members to President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research (established under the amendment made by section 301) \[enacting this subchapter\] not later than 90 days after Nov. 9, 1978.
+Section 302(a) of Pub. L. 95–622 directed President to initially appoint members to President's Commissionfor the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research (established under the amendment made by section 301) \[enacting this subchapter\] not later than 90 days after Nov. 9, 1978.
 
 #### Executive Order No. 12184
 

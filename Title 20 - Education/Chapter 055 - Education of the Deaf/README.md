@@ -47,7 +47,7 @@
 | [4352\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004352%20-%20Gifts.md) | Gifts. |
 | [4353\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004353%20-%20Audit.md) | Audit. |
 | (a) | General Accounting Office authority. |
-| (b) | Independent audit. |
+| (b) | Independent financial and compliance audit. |
 | (c) | Limitations regarding expenditure of funds. |
 | [4354\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004354%20-%20Reports.md) | Reports. |
 | [4355\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004355%20-%20Monitoring%2C%20evaluation%2C%20and%20reporting.md) | Monitoring, evaluation, and reporting. |
@@ -68,9 +68,7 @@
 | (g) | Definitions. |
 | (h) | Authorization of appropriations. |
 | (i) | Effective date. |
-| [4358\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004358%20-%20Scholarship%20program.md) | Scholarship program. |
-| (a) | In general. |
-| (b) | Authorization of appropriations. |
+| [4358\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004358%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93244%2C%20title%20IX%2C%20%C2%A7920%2C%20Oct.%207%2C%201998%2C%20112%20Stat.%201831.md) | Repealed. |
 | [4359\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004359%20-%20Oversight%20and%20effect%20of%20agreements.md) | Oversight and effect of agreements. |
 | (a) | Oversight activities. |
 | (b) | Construction of agreements. |
@@ -79,7 +77,15 @@
 | (b) | Tuition surcharge. |
 | (c) | Reduction of surcharge. |
 | (d) | “Developing country” defined. |
-| [4360\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004360%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [4359b.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004359b%20-%20Research%20priorities.md) | Research priorities. |
+| (a) | Research priorities. |
+| (b) | Research reports. |
+| [4360\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004360%20-%20National%20study%20on%20the%20education%20of%20the%20deaf.md) | National study on the education of the deaf. |
+| (a) | Conduct of study. |
+| (b) | Public input and consultation. |
+| (c) | Report. |
+| (d) | Authorization of appropriations. |
+| [4360a.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004360a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Gallaudet University. |
 | (b) | National Technical Institute for the Deaf. |
 | [4361\.](Subchapter%20002%20%28II%29%20-%20General%20Provisions/%C2%A7%2004361%20-%20Supervision%20of%20public%20business%20of%20Gallaudet%20University.md) | Supervision of public business of Gallaudet University. |

@@ -12,7 +12,7 @@
 
 &emsp;(4) with respect to which a notice is filed with the Secretary of Labor and received by him not later than 10 days after September 2, 1974, except that, for reasonable cause shown, such notice may be filed with the Secretary of Labor and received by him not later than October 31, 1974, stating that the plan is a plan described in paragraphs (1), (2), and (3).
 
-> The corporation shall not pay benefits guaranteed under this subchapter with respect to a plan described in the preceding sentence unlessthe corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter or for the purpose of avoiding the liability which might be imposed under subtitle D of this subchapter if the plan terminated on or after September 2, 1974. The provisions of subtitle D of this subchapter do not apply in the case of such a plan which terminates before September 2, 1974. For purposes of determining whether a plan is a plan described in paragraph (2), the provisions of section 1348 of this title shall not apply, but the corporation shall make the determination on the basis of the date on which benefits ceased to accrue or on any other reasonable basis consistent with the purposes of this subsection.
+> The corporation shall not pay benefits guaranteed under this subchapter with respect to a plan described in the preceding sentence unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter or for the purpose of avoiding the liability which might be imposed under subtitle D of this subchapter if the plan terminated on or after September 2, 1974. The provisions of subtitle D of this subchapter do not apply in the case of such a plan which terminates before September 2, 1974. For purposes of determining whether a plan is a plan described in paragraph (2), the provisions of section 1348 of this title shall not apply, but the corporation shall make the determination on the basis of the date on which benefits ceased to accrue or on any other reasonable basis consistent with the purposes of this subsection.
 
 (c)(1) Except as provided in paragraphs (2), (3), and (4), the corporation shall not pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980. Whenever the corporation exercises the authority granted under paragraph (2) or (3), the corporation shall notify the Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives, and the Committee on Labor and Human Resources and the Committee on Finance of the Senate.
 
@@ -30,7 +30,7 @@
 
 &emsp;(C) the participating employers and employee organization or organizations had no reasonable recourse other than termination.
 
-(4) If the corporation determines, under paragraph (2) or (3), that it will pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980, the corporation—
+(4) If the corporation determines, under paragraph (2) or (3), that it will pay benefits guaranteed under this subchapter with respect to amultiemployer plan which terminates before August 1, 1980, the corporation—
 
 &emsp;(A) may establish requirements for the continuation of payments which commenced before January 2, 1974, with respect to retired participants under the plan,
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(ii) had notified a local union representative on May 14, 1980, that the employer had tentatively decided to discontinue operations and relocate to a new facility in another State, and
 
-&emsp;(B) all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had been entered into, and construction of the new facility had begun before September 26, 1980,
+&emsp;(B) all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had beenentered into, and construction of the new facility had begun before September 26, 1980,
 
 > any withdrawal liability incurred by the employer pursuant to part 1 of subtitle E of this subchapter as a result of the complete or partial withdrawal of the employer from the multiemployer plan before June 30, 1981, shall be void.
 

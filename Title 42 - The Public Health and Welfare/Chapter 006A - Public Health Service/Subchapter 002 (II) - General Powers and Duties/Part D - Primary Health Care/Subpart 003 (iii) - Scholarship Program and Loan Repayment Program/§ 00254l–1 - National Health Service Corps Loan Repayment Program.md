@@ -14,7 +14,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(1)(A) must <sup>1</sup> have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner,<sup>2</sup> or physician assistant;
 
-&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession; or
+&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, behavioral and mental health, or other health profession; or
 
 &emsp;(C) be enrolled as a full-time student—
 
@@ -60,7 +60,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(A) the Secretary shall consider the extent of the demonstrated interest of the applicants for the contracts in providing primary health services; and
 
-&emsp;(B) may consider such other factors regarding the applicants as the Secretary determinesto be relevant to selecting qualified individuals to participate in such Program.
+&emsp;(B) may consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
 
 (2) In providing contracts under the Loan Repayment Program, the Secretary shall give priority—
 
@@ -182,13 +182,15 @@ Not later than March 1 of each year, the Secretary shall submit to the Congress 
 
 &emsp;(8) the effectiveness of the Secretary in recruiting health professionals to participate in the Loan Repayment Program, and in encouraging and assisting such professionals with respect to providing primary health services to health professional shortage areas after the completion of the period of obligated service under such Program.
 
-(July 1, 1944, ch. 373, title III, §338B, as added Dec. 1, 1987, Pub. L. 100–177, title II, §201(3), 101 Stat. 992; amended Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 16, 1990, Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], 104 Stat. 3023–3026, 3035.)
+(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562.)
 
 #### Prior Provisions
 
 A prior section 338B of act July 1, 1944, was renumbered section 338C by section 201(2) of Pub. L. 100–177 and is classified to section 254m of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(B). Pub. L. 105–392 substituted “behavioral and mental health, or other health profession” for “or other health profession”.
 
 1990—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
 
@@ -212,7 +214,7 @@ Subsec. (b)(1). Pub. L. 101–597, §202(b)(1)(A), amended par. (1) generally. P
 
 &emsp;“(i) a degree in medicine, osteopathic medicine, dentistry, or other health profession;
 
-&emsp;“(ii) completed an approved graduate training program in medicine, osteopathic medicine, dentistry, orother health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and
+&emsp;“(ii) completed an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and
 
 &emsp;“(iii) a license to practice medicine, osteopathic medicine, dentistry, or other health profession in a State;”.
 
@@ -282,7 +284,7 @@ Section 205 of title II of Pub. L. 100–177 provided that: “Not later than 18
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q–1, 288–2, 288–4, 288–5, 293b of this title; title 25 section 1616a.
+This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q–1, 288–2, 288–4, 288–5 of this title; title 25 section 1616a.
 
 <i><sup>1</sup></i><i> So in original. The word “must” probably should not appear.</i>
 

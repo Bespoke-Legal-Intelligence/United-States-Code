@@ -8,7 +8,7 @@ For the purposes of this subchapter—
 
 &emsp;(3) “Interim Council” means the governing body of the Coquille Tribe which serves pursuant to section 715f of this title;
 
-&emsp;(4) “Member” means those persons eligible for enrollment under section 715e of this title and after the adoption of a tribal constitution, those persons added to the roll pursuant to such constitution;
+&emsp;(4) “Member” means those persons eligible for enrollment under section 715e of this titleand after the adoption of a tribal constitution, those persons added to the roll pursuant to such constitution;
 
 &emsp;(5) “service area” means the area composed of Coos, Curry, Douglas, Jackson, and Lane Counties in the State of Oregon;
 

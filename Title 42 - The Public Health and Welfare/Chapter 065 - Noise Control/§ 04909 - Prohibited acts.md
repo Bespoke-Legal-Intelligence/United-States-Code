@@ -6,7 +6,7 @@
 
 &emsp;(2)(A) The removal or rendering inoperative by any person, other than for purposes of maintenance, repair, or replacement, of any device or element of design incorporated into any product in compliance with regulations under section 4905 of this title, prior to its sale or delivery to the ultimate purchaser or while it is in use, or (B) the use of a product after such device or element of design has been removed or rendered inoperative by any person.
 
-&emsp;(3) In the case of a manufacturer, to distribute in commerce any new product manufactured after the effective date of a regulationprescribed under section 4907(b) of this title (requiring information respecting noise) which is applicable to such product, except in conformity with such regulation.
+&emsp;(3) In the case of a manufacturer, to distribute in commerce any new product manufactured after the effective date of a regulation prescribed under section 4907(b) of this title (requiring information respecting noise) which is applicable to such product, except in conformity with such regulation.
 
 &emsp;(4) The removal by any person of any notice affixed to a product or container pursuant to regulations prescribed under section 4907(b) of this title, prior to sale of the product to the ultimate purchaser.
 

@@ -10,5 +10,5 @@
 
 &emsp;(3) a combination of care services and prevention services.
 
-(July 1, 1944, ch. 373, title XX, §2003, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §955(a), 95 Stat. 582.)
+(July 1, 1944, ch. 373, title XX, §2003, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 582.)
 

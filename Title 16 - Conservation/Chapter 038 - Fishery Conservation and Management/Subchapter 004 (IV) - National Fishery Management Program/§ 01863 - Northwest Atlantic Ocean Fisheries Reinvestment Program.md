@@ -16,7 +16,7 @@
 
 (2)
 
-Consultation.—In establishing and implementing the Northwest Fisheries Reinvestment Program, the Secretary shall consult with representatives of the commercial fishing industry, the seafood processing industry, and the academic community (including the National Sea Grant Program).
+Consultation.—In establishing and implementing the Northwest Fisheries Reinvestment Program, the Secretary shall consult with representatives of the commercial fishing industry,the seafood processing industry, and the academic community (including the National Sea Grant Program).
 
 (3)
 

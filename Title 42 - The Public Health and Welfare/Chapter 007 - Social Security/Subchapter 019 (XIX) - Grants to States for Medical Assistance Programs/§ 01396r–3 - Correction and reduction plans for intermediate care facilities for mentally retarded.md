@@ -28,7 +28,7 @@ The reduction plan must—
 
 &emsp;(3) describe the necessary safeguards that will be applied to protect the health and welfare of the former residents of the facility who are to receive home or community services, including adequate standards for consumer and provider participation and assurances that applicable State licensure and applicable State and Federal certification requirements will be met in providing such home or community services;
 
-&emsp;(4) provide that residents of the affected facility who are eligible for medical assistancewhile in the facility shall, at their option, be placed in another setting (or another part of the affected facility) so as to retain their eligibility for medical assistance;
+&emsp;(4) provide that residents of the affected facility who are eligible for medical assistance while in the facility shall, at their option, be placed in another setting (or another part of the affected facility) so as to retain their eligibility for medical assistance;
 
 &emsp;(5) specify the actions which will be taken to protect the health and safety of, and to provide active treatment for, the residents who remain in the affected facility while the reduction plan is in effect;
 
@@ -68,7 +68,7 @@ The reduction plan must—
 
 The provisions of this section shall apply only to plans of correction and reduction plans approved by the Secretary by January 1, 1990.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1922, formerly §1919, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9516(a), 100 Stat. 213; renumbered §1922 and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4211(a)(2), 4212(e)(5), 101 Stat. 1330–182; amended July 1, 1988, Pub. L. 100–360, title IV, §411(<i>l</i>)(6)(E), 102 Stat. 804; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8433(a), 102 Stat. 3804.)
+(Aug. 14, 1935, ch. 531, title XIX, §1922, formerly §1919, as added Pub. L. 99–272, title IX, §9516(a), Apr. 7, 1986, 100 Stat. 213; renumbered §1922 and amended Pub. L. 100–203, title IV, §§4211(a)(2), 4212(e)(5), Dec. 22, 1987, 101 Stat. 1330–182; amended Pub. L. 100–360, title IV, §411(<i>l</i>)(6)(E), July 1, 1988, 102 Stat. 804; Pub. L. 100–647, title VIII, §8433(a), Nov. 10, 1988, 102 Stat. 3804.)
 
 #### Prior Provisions
 

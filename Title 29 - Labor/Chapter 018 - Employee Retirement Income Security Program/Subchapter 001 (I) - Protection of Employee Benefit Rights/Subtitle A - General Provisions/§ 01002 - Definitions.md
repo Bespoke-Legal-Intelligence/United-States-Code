@@ -132,7 +132,7 @@ For purposes of this subchapter:
 
 (25) The term “vested liabilities” means the present value of the immediate or deferred benefits available at normal retirement age for participants and their beneficiaries which are nonforfeitable.
 
-(26) The term “current value” means fair market value where available and otherwise the fairvalue as determined in good faith by a trustee or a named fiduciary (as defined in section 1102(a)(2) of this title) pursuant to the terms of the plan and in accordance with regulations of the Secretary, assuming an orderly liquidation at the time of such determination.
+(26) The term “current value” means fair market value where available and otherwise the fair value as determined in good faith by a trustee or a named fiduciary (as defined in section 1102(a)(2) of this title) pursuant to the terms of the plan and in accordance with regulations of the Secretary, assuming an orderly liquidation at the time of such determination.
 
 (27) The term “present value”, with respect to a liability, means the value adjusted to reflect anticipated events. Such adjustments shall conform to such regulations as the Secretary of the Treasury may prescribe.
 
@@ -174,7 +174,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(I) retains the employee's accrued benefit or account for the payment of benefits to the employee or his beneficiaries pursuant to the terms of the plan; or
 
-&emsp;&emsp;(II) receives contributions on the employee's behalf after the employee's separationfrom such service, but only for a period of 5 years after such separation, unless the employee is disabled (within the meaning of the disability provisions of the church plan or, if there are no such provisions in the church plan, within the meaning of section 72(m)(7) of title 26) at the time of such separation from service.
+&emsp;&emsp;(II) receives contributions on the employee's behalf after the employee's separation from such service, but only for a period of 5 years after such separation, unless the employee is disabled (within the meaning of the disability provisions of the church plan or, if there are no such provisions in the church plan, within the meaning of section 72(m)(7) of title 26) at the time of such separation from service.
 
 (D)(i) If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26 fails to meet one or more of the requirements of this paragraph and corrects its failure to meet such requirements within the correction period, the plan shall be deemed to meet the requirements of this paragraph for the year in which the correction was made and for all prior years.
 
@@ -366,7 +366,7 @@ Section 1(c) of Pub. L. 105–72 provided that: “The amendments made by subsec
 
 Amendment by Pub. L. 104–290 effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290, as amended, set out as a note under section 80b–2 of Title 15, Commerce and Trade.
 
-Section 308(b)(2) of Pub. L. 104–290 which provided that the amendment made by paragraph (1), amending this section, which ceased to be effective 2 years after Oct. 11, 1996, was superseded by section 1(c) of Pub. L. 105–72, set out as an Effective Date of 1997 Amendment note above.
+Section 308(b)(2) of Pub. L. 104–290 which provided that the amendment made by paragraph (1), amending this section, ceased to be effective 2 years after Oct. 11, 1996, was superseded by section 1(c) of Pub. L. 105–72, set out as an Effective Date of 1997 Amendment note above.
 
 #### Effective Date of 1991 Amendment
 
@@ -416,7 +416,7 @@ Amendment of par. (33) by Pub. L. 96–364 effective Jan. 1, 1974, see section 4
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry outamendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
 #### Availability of Documents Via Filing Depository
 
@@ -430,7 +430,7 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1056, 1081, 1082, 1143a, 1144, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 sections 77b, 662; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 4980D, 9702, 9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 3058k.
+This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1056, 1081, 1082, 1143a, 1144, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 sections 77b, 662; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 4980D, 9702, 9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 1320d, 3058k.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

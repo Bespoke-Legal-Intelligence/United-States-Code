@@ -84,7 +84,6 @@
 | (f) | Policy. |
 | (g) | Pre-conveyance loans to Corporation. |
 | (h) | Loans for payment of obligations. |
-| (i) | Electrification. |
 | [722\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Railway%20Association/%C2%A7%2000722%20-%20Records%2C%20audit%2C%20and%20examination.md) | Records, audit, and examination. |
 | (a) | Records. |
 | (b) | Audit and examination. |
@@ -266,7 +265,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 802, 823, 824, 1101, 1341 of this title; title 49 sections 24901, 24904, 24907.
+This chapter is referred to in sections 802, 1101, 1341 of this title; title 49 sections 24901, 24904, 24907.
 
 
 ---

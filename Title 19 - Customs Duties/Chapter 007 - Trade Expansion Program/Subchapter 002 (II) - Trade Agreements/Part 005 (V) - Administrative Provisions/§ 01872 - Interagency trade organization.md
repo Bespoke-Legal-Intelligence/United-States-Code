@@ -26,7 +26,7 @@
 
 &emsp;(F) The Secretary of Labor.
 
-> The Trade Representative may invite representatives from other agencies, as appropriate, to attend particular meetings if subject matters of specific functional interest to such agencies areunder consideration. It shall meet at such times and with respect to such matters as the President or the Chairman shall direct.
+> The Trade Representative may invite representatives from other agencies, as appropriate, to attend particular meetings if subject matters of specific functional interest to such agencies are under consideration. It shall meet at such times and with respect to such matters as the President or the Chairman shall direct.
 
 #### (b) Duties
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 903 of Pub. L.
 
 #### Establishment of Interagency Group
 
-For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapter 19 of the North American Free Trade Agreement as well as the oversight of the United States Section established under section 3315 of this title, see section 3432(c)(2) of this title.
+For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapter19 of the North American Free Trade Agreement as well as the oversight of the United States Section established under section 3315 of this title, see section 3432(c)(2) of this title.
 
 For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapters 18 and 19 of the United States-Canada Free-Trade Agreement, see section 405 of Pub. L. 100–449, set out in a note under section 2112 of this title.
 

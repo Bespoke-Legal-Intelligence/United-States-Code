@@ -2,7 +2,7 @@
 
 There is established in the Department of the Treasury an entity to be known as the “Enterprise for the Americas Facility” (hereafter referred to in this subchapter as the “Facility”).
 
-(July 10, 1954, ch. 469, title VI, §601, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3658.)
+(July 10, 1954, ch. 469, title VI, §601, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3658.)
 
 #### Effective Date
 

@@ -14,7 +14,7 @@ Penalty.—A person violating paragraph (1) of this subsection is liable to the 
 
 (b)
 
-Limitation on Statutory Construction.—This part does not prevent a carrier or broker providing transportation subject to jurisdiction under chapter 135 from giving information—
+Limitation on Statutory Construction.—This part does not prevent a carrier or brokerproviding transportation subject to jurisdiction under chapter 135 from giving information—
 
 &emsp;(1) in response to legal process issued under authority of a court of the United States or a State;
 

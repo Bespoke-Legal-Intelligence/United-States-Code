@@ -54,7 +54,7 @@ In the analysis of sections under this chapter heading, a new item, “14. Appli
 
 1958—Pub. L. 85–921, §4, Sept. 2, 1958, 72 Stat. 1771, added item 15.
 
-#### Commission on Advancement of Federal Law Enforcement
+#### Commission on the Advancement of Federal Law Enforcement
 
 Pub. L. 104–132, title VIII, §806, Apr. 24, 1996, 110 Stat. 1305, provided that:
 
@@ -198,15 +198,17 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 11534
 
-Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Council on Organized Crime, wasrevoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Council on Organized Crime, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 86–710 without corresponding amendment of part analysis.</i>
+<i><sup>1</sup></i><i> So in original. First word only of item should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. First word only of item should be capitalized.</i>
+<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 86–710 without corresponding amendment of part analysis.</i>
 
-<i><sup>3</sup></i><i> Editorially supplied. Chapter 119 added by Pub. L. 90–351 without corresponding amendment of part analysis.</i>
+<i><sup>3</sup></i><i> So in original. First word only of item should be capitalized.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “2721”.</i>
+<i><sup>4</sup></i><i> Editorially supplied. Chapter 119 added by Pub. L. 90–351 without corresponding amendment of part analysis.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “2721”.</i>
 
 
 ---

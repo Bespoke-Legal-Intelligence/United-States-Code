@@ -22,7 +22,7 @@
 
 &emsp;(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service.
 
-> The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation.
+> The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Officerecords, whether or not such copies are certified, on the basis of the cost of such preparation.
 
 (b) In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 &emsp;“(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;
 
-&emsp;“(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its firstterm under section 304(a), including the issuance of a certificate of registration if registration is made, $6;
+&emsp;“(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, $6;
 
 &emsp;“(3) for the issuance of a receipt for a deposit under section 407, $2;
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 &emsp;“(8) for the issuance, under section 706, of an additional certificate of registration, $4;
 
-&emsp;“(9) for the issuance of any other certification, $4; the Register of Copyrights has discretion, on the basis of their cost, to fix the fees for preparing copies of Copyright Office records, whether they are to be certified or not;
+&emsp;“(9) for the issuance of any other certification, $4; the Register of Copyrights has discretion, on thebasis of their cost, to fix the fees for preparing copies of Copyright Office records, whether they are to be certified or not;
 
 &emsp;“(10) for the making and reporting of a search as provided by section 705, and for any related services, $10 for each hour or fraction of an hour consumed;
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 97–366, §1(2), struck out provision that, before making 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, see section 102(g) of Pub. L. 102–307, set out as a note under section 101 of this title.
+Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
 
 #### Effective Date of 1990 Amendment
 

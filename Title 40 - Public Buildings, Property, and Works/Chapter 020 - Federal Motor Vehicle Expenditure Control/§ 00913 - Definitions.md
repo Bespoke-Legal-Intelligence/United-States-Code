@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(4) the term “Comptroller General” means the Comptroller General of the United States; and
 
-&emsp;(5) the term “motor vehicle” means any vehicle self-propelled or drawn by mechanical power, except that such term does not include any vehicle designed or used for military field training, combat, or tactical purposes, or any other special purpose vehicle exempted from the requirements of this chapter by the Administrator.
+&emsp;(5) the term “motor vehicle” means any vehicle self-propelled or drawn by mechanicalpower, except that such term does not include any vehicle designed or used for military field training, combat, or tactical purposes, or any other special purpose vehicle exempted from the requirements of this chapter by the Administrator.
 
 (Pub. L. 99–272, title XV, §15313, Apr. 7, 1986, 100 Stat. 338.)
 

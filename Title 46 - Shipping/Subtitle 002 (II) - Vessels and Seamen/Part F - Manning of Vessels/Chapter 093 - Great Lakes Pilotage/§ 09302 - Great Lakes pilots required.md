@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in subsections (d), (e), and (f) of this section, each vessel of the United States operating on register and each foreign vessel shall engage a United States or Canadian registered pilot for the route being navigated who shall—
 
-&emsp;(A) in waters of the Great Lakes designated by the President, direct the navigation of thevessel subject to the customary authority of the master; and
+&emsp;(A) in waters of the Great Lakes designated by the President, direct the navigation of the vessel subject to the customary authority of the master; and
 
 &emsp;(B) in waters of the Great Lakes not designated by the President, be on board and available to direct the navigation of the vessel at the discretion of and subject to the customary authority of the master.
 
@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 Section 9302 sets forth the requirements for pilots on the waters of the Great Lakes under the jurisdiction of the United States or Canada.
 
-Subsection (a) requires each United States vessel sailing on register and each foreign vessel to engage a United States or Canadian registered pilot who shall direct the navigation of the vessel in designated waters of the Great Lakes or be available to direct the navigation of the vessel in undesignated waters of the Great Lakes. The President must make the designation with regard to public interest, effective use of navigable waters, marine safety, and United States foreign relations. The direction of the vessel by an authorized pilot is subject to the customary authority of the master.
+Subsection (a) requires each United States vessel sailing on register and each foreign vessel to engage a United States or Canadian registered pilot who shall direct the navigation of the vessel in designated waters of the Great Lakes or be available to direct the navigation of the vessel in undesignated waters of the Great Lakes. The President must make the designation withregard to public interest, effective use of navigable waters, marine safety, and United States foreign relations. The direction of the vessel by an authorized pilot is subject to the customary authority of the master.
 
 Subsection (b) provides that a crewmember licensed for Great Lakes navigation under section 7101 or equivalent Canadian law may serve as the pilot on undesignated waters.
 
@@ -74,7 +74,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 (1) <i>District 1</i>. All United States waters of the St. Lawrence River between the international boundary at St. Regis and a line at the head of the river running (at approximately 127° true) between Carruthers Point Light and South Side Light extended to the New York shore.
 
-(2) <i>District 2</i>. All United States waters of Lake Erie westward of a line running (at approximately 026° true)from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within the arc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°0530N.
+(2) <i>District 2</i>. All United States waters of Lake Erie westward of a line running (at approximately 026° true) from Sandusky Pierhead Light at Cedar Point to Southeast Shoal Light; all waters contained within the arc of a circle of one mile radius eastward of Sandusky Pierhead Light; the Detroit River; Lake St. Clair; the St. Clair River, and northern approaches thereto south of latitude 43°0530N.
 
 (3) <i>District 3</i>. All United States waters of the St. Marys River, Sault Sainte Marie Locks and approaches thereto between latitude 45°59N. at the southern approach and longitude 84°33W. at the northern approach.
 

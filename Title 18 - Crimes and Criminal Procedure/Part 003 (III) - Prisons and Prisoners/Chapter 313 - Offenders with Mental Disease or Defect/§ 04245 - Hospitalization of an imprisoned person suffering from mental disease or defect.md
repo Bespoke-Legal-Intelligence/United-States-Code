@@ -20,7 +20,7 @@ Determination and Disposition.—If, after the hearing, the court finds by a pre
 
 Discharge.—When the director of the facility in which the person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the term of imprisonment imposed upon the person has not expired, the court shall order that the person be reimprisoned until the expiration of his sentence of imprisonment.
 
-(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2062.)
+(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2062.)
 
 #### Amendments
 

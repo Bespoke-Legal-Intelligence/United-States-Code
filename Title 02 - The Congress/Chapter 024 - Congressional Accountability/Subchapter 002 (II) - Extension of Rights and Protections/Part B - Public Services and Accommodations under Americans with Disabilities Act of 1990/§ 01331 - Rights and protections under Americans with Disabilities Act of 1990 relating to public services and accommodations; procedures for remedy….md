@@ -84,7 +84,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 &emsp;On the basis of each periodic inspection, the General Counsel shall, at least once every Congress, prepare and submit a report—
 
-&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore ofthe Senate, and the Office of the Architect of the Capitol, or other entity responsible, for correcting the violation of this section uncovered by such inspection, and
+&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Office of the Architect of the Capitol, or other entity responsible, for correcting the violation of this section uncovered by such inspection, and
 
 &emsp;&emsp;(B) containing the results of the periodic inspection, describing any steps necessary to correct any violation of this section, assessing any limitations in accessibility to and usability by individuals with disabilities associated with each violation, and the estimated cost and time needed for abatement.
 

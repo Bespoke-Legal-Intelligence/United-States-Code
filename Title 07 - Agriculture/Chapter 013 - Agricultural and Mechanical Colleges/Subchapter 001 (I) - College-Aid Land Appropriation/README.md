@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 322, 323, 329, 331, 341, 343, 361a, 1926, 2204c, 2662, 2663, 2664, 3103, 3123, 3124a, 3703 of this title; title 16 sections 551c, 582a–1, 1672; title 20 section 1060; title 22 section 2220a; title 42 sections 1788, 10303.
+This subchapter is referred to in sections 322, 323, 329, 331, 341, 343, 361a, 361c, 1926, 2204c, 2662, 2663, 2664, 3103, 3123, 3124a, 3703, 7601 of this title; title 16 sections 551c, 582a–1, 1672; title 20 section 1060; title 22 section 2220a; title 42 sections 1788, 10303.
 
 
 ---

@@ -42,6 +42,10 @@ The Governor shall make a final designation of service delivery areas within the
 
 (Pub. L. 97–300, title I, §101, Oct. 13, 1982, 96 Stat. 1327; Pub. L. 99–496, §2, Oct. 16, 1986, 100 Stat. 1261; Pub. L. 102–367, title I, §111, Sept. 7, 1992, 106 Stat. 1026.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 The Comprehensive Employment and Training Act, referred to in subsec. (a)(4)(A)(iii), is Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of this title, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified principally to this chapter. Provisions of the Comprehensive Employment and Training Act relating to prime sponsors were classified to section 811 of this title prior to its repeal.
@@ -56,7 +60,11 @@ The Comprehensive Employment and Training Act, referred to in subsec. (a)(4)(A)(
 
 Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
 
+#### References to Comprehensive Employment and Training Act Deemed References to Job Training Partnership Act or Workforce Investment Act of 1998
+
+References to a provision of the Comprehensive Employment and Training Act, effective Aug. 7, 1998, are deemed to refer to the corresponding provision of the Job Training Partnership Act, Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, or of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998, see section 2940(a) of this title. For classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Short Title notes set out under section 1501 of this title and section 9201 of Title 20, Education, and Tables.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1503, 1512, 1513, 1515, 1518, 1578, 1602, 1642, 1661a of this title.
+This section is referred to in sections 1503, 1512, 1513, 1515, 1518, 1578, 1602, 1642, 1661a, 2831 of this title.
 

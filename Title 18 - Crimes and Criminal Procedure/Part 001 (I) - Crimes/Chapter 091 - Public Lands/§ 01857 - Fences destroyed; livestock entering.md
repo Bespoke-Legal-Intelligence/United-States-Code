@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not apply to unreserved public lands.
 
-(June 25, 1948, ch. 645, 62 Stat. 788; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 788; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

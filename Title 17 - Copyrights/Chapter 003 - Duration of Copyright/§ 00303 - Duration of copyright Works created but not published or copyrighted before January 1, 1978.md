@@ -1,10 +1,10 @@
 ### §303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978
 
-(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.
+(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term ofcopyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2047.
 
 (b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, §11, Nov. 13, 1997, 111 Stat. 1534.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, §11, Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, §102(c), Oct. 27, 1998, 112 Stat. 2827.)
 
 #### Historical and Revision Notes
 
@@ -18,11 +18,13 @@ A special problem under this provision is what to do with works whose ordinary s
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–298 substituted “December 31, 2047” for “December 31, 2027” in second sentence.
+
 1997—Pub. L. 105–80 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Cross References
 
-Duration and renewal of registration of trade-marks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
+Duration and renewal of registration of trademarks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
 
 Duration of term of patents, see section 154 of Title 35, Patents.
 

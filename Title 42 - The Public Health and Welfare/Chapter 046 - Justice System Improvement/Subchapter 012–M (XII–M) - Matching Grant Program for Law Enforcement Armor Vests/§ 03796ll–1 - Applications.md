@@ -1,0 +1,20 @@
+### §3796<i>ll</i>–1. Applications
+
+#### (a) In general
+
+To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Director of the Bureau of Justice Assistance in such form and containing such information as the Director may reasonably require.
+
+#### (b) Regulations
+
+Not later than 90 days after June 16, 1998, the Director of the Bureau of Justice Assistance shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
+
+#### (c) Eligibility
+
+A unit of local government that receives funding under the Local Law Enforcement Block Grant program (described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) during a fiscal year in which it submits an application under this subchapter shall not be eligible for a grant under this subchapter unless the chief executive officer of such unit of local government certifies and provides an explanation to the Director that the unit of local government considered or will consider using funding received under the block grant program for any or all of the costs relating to the purchase of armor vests, but did not, or does not expect to use such funds for such purpose.
+
+(Pub. L. 90–351, title I, §2502, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 514.)
+
+#### References in Text
+
+The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance”, 111 Stat. 2452, are not classified to the Code.
+

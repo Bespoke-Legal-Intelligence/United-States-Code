@@ -28,7 +28,7 @@ Authority.—This agreement, denoted a Self-Determination Contract (referred to 
 
 &emsp;“(2)
 
-Purpose.—Each provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and each provision of this Contract shall be liberally construed for the benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from theFederal Government to the Contractor: (List functions, services, activities, and programs).
+Purpose.—Each provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and each provision of this Contract shall be liberally construed for the benefit of the Contractor to transfer the funding and the following related functions, services, activities, and programs (or portions thereof), that are otherwise contractable under section 102(a) of such Act, including all related administrative functions, from the Federal Government to the Contractor: (List functions, services, activities, and programs).
 
 “(b)
 
@@ -100,7 +100,7 @@ Responsibilities of contractor.—The Contractor shall be responsible for managi
 
 &emsp;&emsp;&emsp;“(i) the Contractor agrees to one or more additional visits; or
 
-&emsp;&emsp;&emsp;“(ii) the appropriate official determines that there is reasonable cause to believethat grounds for reassumption of the Contract, suspension of Contract payments, or other serious Contract performance deficiency may exist.
+&emsp;&emsp;&emsp;“(ii) the appropriate official determines that there is reasonable cause to believe that grounds for reassumption of the Contract, suspension of Contract payments, or other serious Contract performance deficiency may exist.
 
 > &emsp;&emsp;No additional visit referred to in clause (ii) shall be made until such time as reasonable advance notice that includes a description of the nature of the problem that requires the additional visit has been given to the Contractor.
 
@@ -130,7 +130,7 @@ Confiscated or excess property.—The Secretary shall assist the Contractor in o
 
 &emsp;&emsp;“(F)
 
-Screener identification card.—A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not later than the effective date of this Contract. The designated official shall, upon request, assist the Contractor in securing the use of the card.
+Screener identification card.—A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not later than the effective date of this Contract. The designated official shall, upon request, assistthe Contractor in securing the use of the card.
 
 &emsp;&emsp;“(G)
 

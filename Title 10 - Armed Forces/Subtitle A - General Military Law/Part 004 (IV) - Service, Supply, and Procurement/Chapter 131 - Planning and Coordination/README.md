@@ -13,22 +13,25 @@
 | [2209\.](%C2%A7%2002209%20-%20Management%20funds.md) | Management funds. |
 | [2210\.](%C2%A7%2002210%20-%20Proceeds%20of%20sales%20of%20supplies%20credit%20to%20appropriations.md) | Proceeds of sales of supplies: credit to appropriations. |
 | [2211\.](%C2%A7%2002211%20-%20Reimbursement%20for%20equipment%2C%20material%2C%20or%20services%20furnished%20members%20of%20the%20United%20Nations.md) | Reimbursement for equipment, material, or services furnished members of the United Nations. |
-| \[2212. | Repealed.\] |
+| [2212\.](%C2%A7%2002212%20-%20Obligations%20for%20contract%20services%20reporting%20in%20budget%20object%20classes.md) | Obligations for contract services: reporting in budget object classes. |
 | [2213\.](%C2%A7%2002213%20-%20Limitation%20on%20acquisition%20of%20excess%20supplies.md) | Limitation on acquisition of excess supplies. |
 | [2214\.](%C2%A7%2002214%20-%20Transfer%20of%20funds%20procedure%20and%20limitations.md) | Transfer of funds: procedure and limitations. |
 | [2215\.](%C2%A7%2002215%20-%20Transfer%20of%20funds%20to%20other%20departments%20and%20agencies%20limitation.md) | Transfer of funds to other departments and agencies: limitation. |
 | [2216\.](%C2%A7%2002216%20-%20Defense%20Modernization%20Account.md) | Defense Modernization Account. |
-| [2216a.](%C2%A7%2002216a%20-%20Defense%20Business%20Operations%20Fund.md) | Defense Business Operations Fund. |
+| \[2216a. | Repealed.\] |
 | [2217\.](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md) | Comparable budgeting for common procurement weapon systems. |
 | [2218\.](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md) | National Defense Sealift Fund. |
 | [2219\.](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md) | Retention of morale, welfare, and recreation funds by military installations: limitation. |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
-| [2221\.](%C2%A7%2002221%20-%20Fisher%20House%20trust%20funds.md) | Fisher House trust funds. |
+| \[2221. | Repealed.\] |
 | [2222\.](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md) | Biennial financial management improvement plan. |
+| [2223\.](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md) | Information technology: additional responsibilities of Chief Information Officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title III, §331(a)(2), title IX, §§906(f)(1), 911(a)(2), title X, §1008(b), Oct. 17, 1998, 112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
 
 1997—Pub. L. 105–85, div. A, title X, §1008(a)(2), Nov. 18, 1997, 111 Stat. 1871, added item 2222.
 
@@ -78,15 +81,16 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02209 - Management funds](%C2%A7%2002209%20-%20Management%20funds.md)
 - [&sect; 02210 - Proceeds of sales of supplies credit to appropriations](%C2%A7%2002210%20-%20Proceeds%20of%20sales%20of%20supplies%20credit%20to%20appropriations.md)
 - [&sect; 02211 - Reimbursement for equipment, material, or services furnished members of the United Nations](%C2%A7%2002211%20-%20Reimbursement%20for%20equipment%2C%20material%2C%20or%20services%20furnished%20members%20of%20the%20United%20Nations.md)
-- [&sect; 02212 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2454(c)(1), Oct. 13, 1994, 108 Stat. 3326](%C2%A7%2002212%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72454%28c%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203326.md)
+- [&sect; 02212 - Obligations for contract services reporting in budget object classes](%C2%A7%2002212%20-%20Obligations%20for%20contract%20services%20reporting%20in%20budget%20object%20classes.md)
 - [&sect; 02213 - Limitation on acquisition of excess supplies](%C2%A7%2002213%20-%20Limitation%20on%20acquisition%20of%20excess%20supplies.md)
 - [&sect; 02214 - Transfer of funds procedure and limitations](%C2%A7%2002214%20-%20Transfer%20of%20funds%20procedure%20and%20limitations.md)
 - [&sect; 02215 - Transfer of funds to other departments and agencies limitation](%C2%A7%2002215%20-%20Transfer%20of%20funds%20to%20other%20departments%20and%20agencies%20limitation.md)
 - [&sect; 02216 - Defense Modernization Account](%C2%A7%2002216%20-%20Defense%20Modernization%20Account.md)
-- [&sect; 02216a - Defense Business Operations Fund](%C2%A7%2002216a%20-%20Defense%20Business%20Operations%20Fund.md)
+- [&sect; 02216a - Repealed. Pub. L. 105&#8211;261, div. A, title X, &sect;1008(b), Oct. 17, 1998, 112 Stat. 2117](%C2%A7%2002216a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71008%28b%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202117.md)
 - [&sect; 02217 - Comparable budgeting for common procurement weapon systems](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md)
 - [&sect; 02218 - National Defense Sealift Fund](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md)
 - [&sect; 02219 - Retention of morale, welfare, and recreation funds by military installations limitation](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
-- [&sect; 02221 - Fisher House trust funds](%C2%A7%2002221%20-%20Fisher%20House%20trust%20funds.md)
+- [&sect; 02221 - Repealed. Pub. L. 105&#8211;261, div. A, title IX, &sect;906(f)(1), Oct. 17, 1998, 112 Stat. 2096](%C2%A7%2002221%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7906%28f%29%281%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202096.md)
 - [&sect; 02222 - Biennial financial management improvement plan](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md)
+- [&sect; 02223 - Information technology additional responsibilities of Chief Information Officers](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md)

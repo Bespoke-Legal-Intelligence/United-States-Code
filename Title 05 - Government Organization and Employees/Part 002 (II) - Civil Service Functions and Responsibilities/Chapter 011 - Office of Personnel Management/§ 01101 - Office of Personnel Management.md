@@ -1,6 +1,6 @@
 ### §1101. Office of Personnel Management
 
-The Office of Personnel Management is an independent establishment in the executive branch. The Office shall have an official seal, which shall be judicially noticed, and shall have its principal office in the District of Columbia, and may have field offices in other appropriate locations.
+The Office of Personnel Management is an independent establishment in the executivebranch. The Office shall have an official seal, which shall be judicially noticed, and shall have its principal office in the District of Columbia, and may have field offices in other appropriate locations.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 398; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1119.)
 
@@ -142,7 +142,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(7) The option for a donor to write in the name of a voluntary agency or federated group not listed in the campaign brochure to receive that individual's contribution in a local campaign shall be eliminated.
 
-“(8) The name of any individual making a designated contribution in a campaign shall, upon request of the recipient voluntary agency or federated group, be released to such agency or group, unless the contributorindicates that his or her name is not to be released. Under no circumstance may the names of contributors be sold or otherwise released by such agency or group.
+“(8) The name of any individual making a designated contribution in a campaign shall, upon request of the recipient voluntary agency or federated group, be released to such agency or group, unless the contributor indicates that his or her name is not to be released. Under no circumstance may the names of contributors be sold or otherwise released by such agency or group.
 
 “(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combined Federal campaign organization code numbers corresponding to each such agency and group.
 
@@ -274,7 +274,7 @@ The Director may delegate, from time to time, to the head of any agency employin
 
 (f) The Chairman of the Board shall designate representatives to chair boards of review established pursuant to 5 U.S.C. 3383(b).
 
-(g) The Board may from time to time conduct special studies relating to the Civil Service, and to other merit systems in the Executive Branch and report to the President and the Congress whether the public interest in a workforce free of personnel practices prohibited by law or regulations is being adequately protected. Incarrying out this function the Board shall make such inquiries as may be necessary, and, to the extent permitted by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed. The Board shall make such recommendations to the President and the Congress as it deems appropriate.
+(g) The Board may from time to time conduct special studies relating to the Civil Service, and to other merit systems in the Executive Branch and report to the President and the Congress whether the public interest in a workforce free of personnel practices prohibited by law or regulations is being adequately protected. In carrying out this function the Board shall make such inquiries as may be necessary, and, to the extent permitted by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed. The Board shall make such recommendations to the President and the Congress as it deems appropriate.
 
 (h) The Board may delegate the performance of any of its administrative functions to any officer or employee of the Board.
 
@@ -346,7 +346,7 @@ The decisions of the Authority on any matter within its jurisdiction shall be fi
 
 #### Sec. 306. Other Provisions
 
-Unless and until modified, revised, or revoked, all policies, regulations, and procedures established, anddecisions issued, under Executive Order 11491, as amended \[set out under 5 U.S.C. 7101\], shall remain in full force and effect. There is hereby expressly reserved to the President the power to modify the functions transferred to the Federal Labor Relations Authority and the Federal Service Impasses Panel pursuant to Section 304 of this Plan.
+Unless and until modified, revised, or revoked, all policies, regulations, and procedures established, and decisions issued, under Executive Order 11491, as amended \[set out under 5 U.S.C. 7101\], shall remain in full force and effect. There is hereby expressly reserved to the President the power to modify the functions transferred to the Federal Labor Relations Authority and the Federal Service Impasses Panel pursuant to Section 304 of this Plan.
 
 #### Sec. 307. Savings Provision
 
@@ -398,7 +398,7 @@ The Plan I submit today would consolidate the central policymaking functions in 
 
 The cost of replacing the Civil Service Commission can be paid by our present resources. The reorganization itself would neither increase nor decrease the costs of personnel management throughout the government. But taken together with the substantive reforms I have proposed, this Plan will greatly improve the government's ability to manage programs, speed the delivery of Federal services to the public, and aid in executing other reorganizations I will propose to the Congress, by improving Federal personnel management.
 
-Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head andone or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
+Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
 I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
 
@@ -668,13 +668,13 @@ by substituting for Rule V—Regulations, Investigations, and Enforcement, a new
 
 (a) The Director is authorized to ensure enforcement of the civil service laws, rules, and regulations, and all applicable Executive orders, by:
 
-(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds thatthe employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
+(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
 (2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutional jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 
 (b) Whenever the Director issues specific instructions as to separation or other corrective action with regard to an employee, including cancellation of a personnel action, the head of the agency concerned shall comply with the Director's instructions.
 
-(c) If the agency head fails to comply with the specific instructions of the Director as to separation or other corrective action with regard to an employee, including cancellation of a personnel action, the Director may certify to the Comptroller General of the United States the agency's failure to act together with such additional information as the Comptroller General may require, and shall furnish a copy of such certification to the head of the agency concerned. The individual with respect to whom such separation or other corrective action was instructed shall be entitled thereafter to no pay or only to such pay as appropriate to effectuate the Director's instructions.
+(c) If the agency head fails to comply with the specific instructions of the Director as to separation or other corrective action with regard to an employee, including cancellation of a personnel action, the Director may certify to the Comptroller General of the United States the agency's failure to act together with such additional information as the Comptroller General may require, and shall furnish a copy of such certificationto the head of the agency concerned. The individual with respect to whom such separation or other corrective action was instructed shall be entitled thereafter to no pay or only to such pay as appropriate to effectuate the Director's instructions.
 
 “Sec. 5.4. <i>Information and Testimony</i>. When required by the Office, the Merit Systems Protection Board, or the Special Counsel of the Merit Systems Protection Board, or by authorized representatives of these bodies, agencies shall make available to them, or to their authorized representatives, employees to testify in regard to matters inquired of under the civil service laws, rules, and regulations, and records pertinent to these matters. All such employees, and all applicants or eligibles for positions covered by these rules, shall give to the Office, the Merit Systems Protection Board, the Special Counsel, or to their authorized representatives, all information, testimony, documents, and material in regard to the above matters, the disclosure of which is not otherwise prohibited by law or regulation. These employees, applicants, and eligibles shall sign testimony given under oath or affirmation before an officer authorized by law to administer oaths. Employees are performing official duty when testifying or providing evidence pursuant to this section.”.
 
@@ -852,7 +852,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12157
 
-Ex. Ord. No. 12157, Sept. 14, 1979, 44 F.R. 54035, which related to the President's Management ImprovementCouncil, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to this title.
+Ex. Ord. No. 12157, Sept. 14, 1979, 44 F.R. 54035, which related to the President's Management Improvement Council, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to this title.
 
 <i><sup>1</sup></i><i> As amended July 11, 1978.</i>
 

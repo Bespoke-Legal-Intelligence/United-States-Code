@@ -32,9 +32,9 @@
 
 &emsp;&emsp;(xii) Department of Commerce.
 
-> The Chairperson <sup>1</sup> and vice-chairperson of the Access Board shall be elected by majority vote of the members of the Access Board to serve for terms of one year. When the chairperson is a member of the general public, the vice-chairperson shall be a Federal official; and when the chairperson is a Federal official, the vice-chairperson shall be a member of the general public. Upon the expiration of the term as chairperson of a member who is a Federal official, the subsequent chairperson shall be a member of the general public; and vice versa.
+> The chairperson and vice-chairperson of the Access Board shall be elected by majority vote of the members of the Access Board to serve for terms of one year. When the chairperson is a member of the general public, the vice-chairperson shall be a Federal official; and when the chairperson is a Federal official, the vice-chairperson shall be a member of the general public. Upon the expiration of the term as chairperson of a member who is a Federal official, the subsequent chairperson shall be a member of the general public; and vice versa.
 
-(2)(A)(i) The term of office of each appointed member of the Access Board shall be 4 years, except as provided in clause (ii). Each year, the terms of office of at least three appointed members of the board <sup>2</sup> shall expire.
+(2)(A)(i) The term of office of each appointed member of the Access Board shall be 4 years, except as provided in clause (ii). Each year, the terms of office of at least three appointed members of the board <sup>1</sup> shall expire.
 
 (ii)(I) One member appointed for a term beginning December 4, 1992 shall serve for a term of 3 years.
 
@@ -52,7 +52,7 @@
 
 (4) No individual appointed under paragraph (1)(A) of this subsection who has served as a member of the Access Board may be reappointed to the Access Board more than once unless such individual has not served on the Access Board for a period of two years prior to the effective date of such individual's appointment.
 
-(5)(A) Members of the Access Board who are not regular full-time employees of the United States shall, while serving on the business of the Access Board, be entitled to receive compensation at rates fixed by the President, but not to exceed the daily equivalent of the rate of pay for level IV of the Executive Schedule under section 5315 of title 5, including travel time, for each day they are engaged in the performance of their duties as members of the Access Board; and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
+(5)(A) Members of the Access Board who are not regular full-time employees of the UnitedStates shall, while serving on the business of the Access Board, be entitled to receive compensation at rates fixed by the President, but not to exceed the daily equivalent of the rate of pay for level IV of the Executive Schedule under section 5315 of title 5, including travel time, for each day they are engaged in the performance of their duties as members of the Access Board; and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 
 (B) Members of the Access Board who are employed by the Federal Government shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 
@@ -66,9 +66,17 @@ It shall be the function of the Access Board to—
 
 &emsp;(1) ensure compliance with the standards prescribed pursuant to the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968; 42 U.S.C. 4151 et seq.) (including the application of such Act to the United States Postal Service), including enforcing all standards under such Act, and ensuring that all waivers and modifications to the standards are based on findings of fact and are not inconsistent with the provisions of this section;
 
-&emsp;(2) develop advisory guidelines for, and provide appropriate technical assistance to, individuals or entities with rights or duties under regulations prescribed pursuant to this subchapter or titles II and III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and 12181 et seq.) with respect to overcoming architectural, transportation, and communication barriers;
+&emsp;(2) develop advisory information for, and provide appropriate technical assistance to, individuals or entities with rights or duties under regulations prescribed pursuant to this subchapter or titles II and III of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq. and 12181 et seq.) with respect to overcoming architectural, transportation, and communication barriers;
 
-&emsp;(3) establish and maintain minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;
+&emsp;(3) establish and maintain—
+
+&emsp;&emsp;(A) minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968;
+
+&emsp;&emsp;(B) minimum guidelines and requirements for the standards issued pursuant to titles II and III of the Americans with Disabilities Act of 1990;
+
+&emsp;&emsp;(C) guidelines for accessibility of telecommunications equipment and customer premises equipment under section 255 of title 47; and
+
+&emsp;&emsp;(D) standards for accessible electronic and information technology under section 794d of this title;
 
 &emsp;(4) promote accessibility throughout all segments of society;
 
@@ -80,17 +88,23 @@ It shall be the function of the Access Board to—
 
 &emsp;(8) make to the President and to the Congress reports that shall describe in detail the results of its investigations under paragraphs (5) and (6);
 
-&emsp;(9) make to the President and to the Congress such recommendations for legislative and administrative changes as the Access Board determines to be necessary or desirable to eliminate the barriers described in paragraph (5); and
+&emsp;(9) make to the President and to the Congress such recommendations for legislative and administrative changes as the Access Board determines to be necessary or desirable to eliminate the barriers described in paragraph (5);
 
-&emsp;(10) ensure that public conveyances, including rolling stock, are readily accessible to, and usable by, individuals with physical disabilities.
+&emsp;(10) ensure that public conveyances, including rolling stock, are readily accessible to, and usable by, individuals with physical disabilities; and
+
+&emsp;(11) carry out the responsibilities specified for the Access Board in section 794d of this title.
 
 #### (c) Additional functions; transportation barriers and housing needs; transportation and housing plans and proposals
 
 The Access Board shall also (1)(A) determine how and to what extent transportation barriers impede the mobility of individuals with disabilities and aged individuals with disabilities and consider ways in which travel expenses in connection with transportation to and from work for individuals with disabilities can be met or subsidized when such individuals are unable to use mass transit systems or need special equipment in private transportation, and (B) consider the housing needs of individuals with disabilities; (2) determine what measures are being taken, especially by public and other nonprofit agencies and groups having an interest in and a capacity to deal with such problems, (A) to eliminate barriers from public transportation systems (including vehicles used in such systems), and to prevent their incorporation in new or expanded transportation systems, and (B) to make housing available and accessible to individuals with disabilities or to meet sheltered housing needs; and (3) prepare plans and proposals for such further actions as may be necessary to the goals of adequate transportation and housing for individuals with disabilities, including proposals for bringing together in a cooperative effort, agencies, organizations, and groups already working toward such goals or whose cooperation is essential to effective and comprehensive action.
 
-#### (d) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
+#### (d) Electronic and information technology accessibility training
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b) of this section. Except as provided in paragraph (3) of subsection (e) of this section, the provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to procedures under this section, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+Beginning in fiscal year 2000, the Access Board, after consultation with the Secretary, representatives of such public and private entities as the Access Board determines to be appropriate (including the electronic and information technology industry), targeted individuals (as defined in section 3002 of this title), and State information technology officers, shall provide training for Federal and State employees on any obligations related to section 794d of this title.
+
+#### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
+
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b) of this section. Except as provided in paragraph (3) of subsection (f) of this section, the provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
@@ -100,7 +114,7 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 > Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the executive director may appear for and represent the Access Board in any civil litigation brought under this section.
 
-#### (e) Appointment of executive director, administrative law judges, and other personnel; provisions applicable to administrative law judges; authority and duties of executive director; finality of orders of compliance
+#### (f) Appointment of executive director, administrative law judges, and other personnel; provisions applicable to administrative law judges; authority and duties of executive director; finality of orders of compliance
 
 (1) There shall be appointed by the Access Board an executive director and such other professional and clerical personnel as are necessary to carry out its functions under this chapter. The Access Board is authorized to appoint as many administrative law judges as are necessary for proceedings required to be conducted under this section. The provisions applicable to administrative law judges appointed under section 3105 of title 5 shall apply to administrative law judges appointed under this subsection.
 
@@ -108,53 +122,79 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 (3) For the purpose of this section, an order of compliance issued by an administrative law judge shall be deemed to be an order of the Access Board and shall be the final order for the purpose of judicial review.
 
-#### (f) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
+#### (g) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
 (1)(A) In carrying out the technical assistance responsibilities of the Access Board under this section, the Board may enter into an interagency agreement with another Federal department or agency.
 
-(B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing suchtechnical assistance may be transferred to such department or agency.
+(B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing such technical assistance may be transferred to such department or agency.
 
 (C) The Access Board may arrange to carry out the technical assistance responsibilities of the Board under this section through such other departments and agencies for such periods as the Board determines to be appropriate.
 
 (D) The Access Board shall establish a procedure to ensure separation of its compliance and technical assistance responsibilities under this section.
 
-(2) The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisory and technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,<sup>3</sup> but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
+(2) The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisory and technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,<sup>2</sup> but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title5 for persons in the Government service employed intermittently.
 
-#### (g) Reports to Congress; reports on transportation barriers and housing needs
+#### (h) Reports to Congress; reports on transportation barriers and housing needs
 
 (1) The Access Board shall, at the end of each fiscal year, report its activities during the preceding fiscal year to the Congress. Such report shall include an assessment of the extent of compliance with the Acts cited in subsection (b) of this section, along with a description and analysis of investigations made and actions taken by the Access Board, and the reports and recommendations described in paragraphs (8) and (9) of such subsection.
 
-(2) The Access Board shall, at the same time that the Access Board transmits the report required under section 7(b) of the Act commonly known as the Architectural Barriers Act of 1968 (42 U.S.C. 4157(b)), transmit the report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+(2) The Access Board shall, at the same time that the Access Board transmits the report required under section 7(b) of the Act commonly known as the Architectural Barriers Act of 1968 (42 U.S.C. 4157(b)), transmit the report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
-#### (h) Grants and contracts to aid Access Board in carrying out its functions; acceptance of gifts, devises, and bequests of property; report to Congress on accessibility of federally funded buildings; joint transmittal
+#### (i) Grants and contracts to aid Access Board in carrying out its functions; acceptance of gifts, devises, and bequests of property; report to Congress on accessibility of federally funded buildings; joint transmittal
 
 (1) The Access Board may make grants to, or enter into contracts with, public or private organizations to carry out its duties under subsections (b) and (c) of this section.
 
-(2)(A) The Access Board may accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal, for the purpose of aiding and facilitating the functions of the Access Board under paragraphs (5) and (7) of subsection (b) of this section. Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Chairperson.<sup>3</sup> Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests. For purposes of Federal income, estate, or gift taxes, property accepted under this section shall be considered as a gift, devise, or bequest to the United States.
+(2)(A) The Access Board may accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal, for the purpose of aiding and facilitating the functions of the Access Board under paragraphs (2) and (4) of subsection (b) of this section. Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Chairperson.<sup>2</sup> Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests. For purposes of Federal income, estate, or gift taxes, property accepted under this section shall be considered as a gift, devise, or bequest to the United States.
 
 (B) The Access Board shall publish regulations setting forth the criteria the Board will use in determining whether the acceptance of gifts, devises, and bequests of property, both real and personal, would reflect unfavorably upon the ability of the Board or any employee to carry out the responsibilities or official duties of the Board in a fair and objective manner, or would compromise the integrity of or the appearance of the integrity of a Government program or any official involved in that program.
 
 (3) The Access Board shall, at the same time that the Access Board transmits the report required under section 7(b) of the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designated and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968) \[42 U.S.C. 4157(b)\] transmit that report to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
 
-#### (i) Authorization of appropriations
+#### (j) Authorization of appropriations
 
-There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1993 through 1997.
+There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727.)
+(Pub. L. 93–112, title V, §502, Sept. 26, 1973, 87 Stat. 391; Pub. L. 93–516, title I, §§110, 111(n)–(q), Dec. 7, 1974, 88 Stat. 1619, 1621, 1622; Pub. L. 93–651, title I, §§110, 111(n)–(q), Nov. 21, 1974, 89 Stat. 2–4, 2–6, 2–7; Pub. L. 94–230, §§10, 11(b)(13), Mar. 15, 1976, 90 Stat. 212, 214; Pub. L. 95–251, §2(a)(8), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–602, title I, §118, Nov. 6, 1978, 92 Stat. 2979; Pub. L. 96–374, title XIII, §1321, Oct. 3, 1980, 94 Stat. 1499; Pub. L. 98–221, title I, §151, Feb. 22, 1984, 98 Stat. 28; Pub. L. 99–506, title I, §103(d)(2)(C), title VI, §601, title X, §1002(e)(2)(B)–(D), Oct. 21, 1986, 100 Stat. 1810, 1829, 1844; Pub. L. 100–630, title II, §206(b), Nov. 7, 1988, 102 Stat. 3311; Pub. L. 102–52, §6, June 6, 1991, 105 Stat. 262; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(30), title V, §504, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(b), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title IV, §408(a)(2), Aug. 7, 1998, 112 Stat. 1202; Pub. L. 105–394, title II, §203(a), Nov. 13, 1998, 112 Stat. 3653.)
 
 #### References in Text
 
 Executive level IV, referred to in subsec. (a)(1)(B), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3), (7) and (d)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Titles II and III of the Act are classified generally to subchapters II (§12131 et seq.) and III (§12181 et seq.), respectively, of chapter 126 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
-
-#### Codification
-
-For history of Pub. L. 93–651, which enacted amendments identical to Pub. L. 93–516, see Codification note set out under section 701 of this title.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Titles II and III of the Act are classified generally to subchapters II (§12131 et seq.) and III (§12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–220, §408(a)(2)(A), substituted “chairperson and” for “Chairperson and” in concluding provisions.
+
+Subsec. (b)(2). Pub. L. 105–220, §408(a)(2)(B)(i), substituted “information” for “guidelines”.
+
+Subsec. (b)(3). Pub. L. 105–220, §408(a)(2)(B)(ii), added par. (3) and struck out former par. (3) which read as follows: “establish and maintain minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;”.
+
+Subsec. (b)(11). Pub. L. 105–220, §408(a)(2)(B)(iii)–(v), added par. (11).
+
+Subsec. (d). Pub. L. 105–394, §203(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 105–220, §408(a)(2)(C), substituted “procedures under this subsection” for “procedures under this section”.
+
+Subsec. (e). Pub. L. 105–394, §203(a)(1), (3), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (e)” in second sentence of par. (1). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 105–394, §203(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 105–394, §203(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (g)(2). Pub. L. 105–220, §408(a)(2)(D), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
+
+Subsec. (h). Pub. L. 105–394, §203(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2)(A). Pub. L. 105–220, §408(a)(2)(E), substituted “paragraphs (2) and (4)” for “paragraphs (5) and (7)”.
+
+Subsec. (i). Pub. L. 105–394, §203(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Pub. L. 105–220, §408(a)(2)(F), substituted “fiscal years 1999 through 2003” for “fiscal years 1993 through 1997”.
+
+Subsec. (j). Pub. L. 105–394, §203(a)(1), redesignated subsec. (i) as (j).
 
 1993—Subsec. (a)(5)(A). Pub. L. 103–73 substituted “level IV of the Executive Schedule under section 5315” for “level 4 of the Senior Executive Service Schedule under section 5382”.
 
@@ -200,7 +240,7 @@ Subsec. (i). Pub. L. 102–569, §504(h), substituted “fiscal years 1993 throu
 
 Subsec. (i). Pub. L. 102–52 substituted “1987 through 1992” for “1987, 1988, 1989, 1990, and 1991”.
 
-1988—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designatedby the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
+1988—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) readas follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
 
 Subsec. (a)(3). Pub. L. 100–630, §206(b)(2), substituted “the member” for “he”.
 
@@ -262,7 +302,7 @@ Subsec. (e). Pub. L. 95–602, §118(d), designated existing provisions as par. 
 
 Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendment to subsec. (e) by section 2(a)(8) of Pub. L. 95–251 (although prior in time to the amendment by Pub. L. 95–602) requiring such substitution wherever appearing in text.
 
-Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
+Subsec. (h). Pub. L. 95–602, §118(e), added subsec. (h). Former subsec. (h), which authorized appropriations forcarrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
 
 Subsec. (i). Pub. L. 95–602, §118(e), added subsec. (i).
 
@@ -308,11 +348,9 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 776, 794b of this title; title 42 sections 4157, 12185; title 49 section 40103.
+This section is referred to in sections 794b, 794d of this title; title 42 sections 4157, 12185; title 49 section 40103.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Access Board”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Access Board”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

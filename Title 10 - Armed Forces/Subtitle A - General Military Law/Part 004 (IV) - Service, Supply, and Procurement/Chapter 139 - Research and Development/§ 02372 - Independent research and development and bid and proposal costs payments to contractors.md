@@ -38,7 +38,7 @@ Adjusted Maximum Reimbursement Amount.—For purposes of subsection (c)(2), the 
 
 (e)
 
-Waiver of Adjusted Maximum Reimbursement Amount.—The Secretary of Defense may waive the applicability of any limitation prescribed under subsection (c)(2) to any contractorfor a fiscal year to the extent that the Secretary determines that allowing the contractor to exceed the contractor's adjusted maximum reimbursement amount for such year—
+Waiver of Adjusted Maximum Reimbursement Amount.—The Secretary of Defense may waive the applicability of any limitation prescribed under subsection (c)(2) to any contractor for a fiscal year to the extent that the Secretary determines that allowing the contractor to exceed the contractor's adjusted maximum reimbursement amount for such year—
 
 &emsp;(1) is necessary to reimburse such contractor at least to the extent that would have been allowed under regulations as in effect on December 4, 1991; or
 

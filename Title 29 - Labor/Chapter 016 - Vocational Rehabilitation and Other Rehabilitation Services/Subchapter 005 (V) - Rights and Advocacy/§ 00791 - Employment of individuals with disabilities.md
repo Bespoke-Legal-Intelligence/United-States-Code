@@ -2,11 +2,11 @@
 
 #### (a) Interagency Committee on Employees who are Individuals with Disabilities; establishment; membership; co-chairmen; availability of other Committee resources; purpose and functions
 
-There is established within the Federal Government an Interagency Committee on Employees who are Individuals with Disabilities (hereinafter in this section referred to as the “Committee”), comprised of such members as the President may select, including the following (or their designees whose positions are Executive Level IV or higher): the Chairman of the Equal Employment Opportunity Commission (hereafter in this section referred to as the “Commission”), the Director of the Office of Personnel Management, the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services. Either the Director of the Office of Personnel Management and the Chairman of the Commission shall serve as co-chairpersons of the Committee or the Director or Chairman shall serve as the sole chairperson of the Committee, as the Director and Chairman jointly determine, from time to time, to be appropriate. The resources of the President's Committees on Employment of People With Disabilities and on Mental Retardation shall be made fully available to the Committee. It shall be the purpose and function of the Committee (1) to provide a focus for Federal and other employment of individuals with disabilities, and to review, on a periodic basis, in cooperation with the Commission, the adequacy of hiring, placement, and advancement practices with respect to individuals with disabilities, by each department, agency, and instrumentality in the executive branch of Government, and to insure that the special needs of such individuals are being met; and (2) to consult with the Commission to assist the Commission to carry out its responsibilities under subsections (b), (c), and (d) of this section. On the basis of such review and consultation, the Committee shall periodically make to the Commission such recommendations for legislative and administrative changes as it deems necessary or desirable. The Commission shall timely transmit to the appropriate committees of Congress any such recommendations.
+There is established within the Federal Government an Interagency Committee on Employees who are Individuals with Disabilities (hereinafter in this section referred to as the “Committee”), comprised of such members as the President may select, including the following (or their designees whose positions are Executive Level IV or higher): the Chairman of the Equal Employment Opportunity Commission (hereafter in this section referred to as the “Commission”), the Director of the Office of Personnel Management, the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services. Either the Director of the Office of Personnel Management and the Chairman of the Commission shall serve as co-chairpersons of the Committee or the Director or Chairman shall serve as the sole chairperson of the Committee, as the Director and Chairman jointly determine, from time to time, to be appropriate. The resources of the President's Committees on Employment of People With Disabilities and on Mental Retardation shall be made fully available to the Committee. It shall be the purpose and function of the Committee (1) to provide a focus for Federal and other employment of individuals with disabilities, and to review, on a periodic basis, in cooperation with the Commission, the adequacy of hiring, placement, and advancement practices with respect to individuals with disabilities, by each department, agency, and instrumentality in the executive branch of Government and the Smithsonian Institution, and to insure that the special needs of such individuals are being met; and (2) to consult with the Commission to assist the Commission to carry out its responsibilities under subsections (b), (c), and (d) of this section. On the basis of such review and consultation, the Committee shall periodically make to the Commission such recommendations for legislative and administrative changes as it deems necessary or desirable. The Commission shall timely transmit to the appropriate committees of Congress any such recommendations.
 
 #### (b) Federal agencies; affirmative action program plans
 
-Each department, agency, and instrumentality (including the United States Postal Service and the Postal Rate Commission) in the executive branch shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, or instrumentality. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Such plan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
+Each department, agency, and instrumentality (including the United States Postal Service and the Postal Rate Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Such plan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
 
 #### (c) State agencies; rehabilitated individuals, employment
 
@@ -14,11 +14,11 @@ The Commission, after consultation with the Committee, shall develop and recomme
 
 #### (d) Report to Congressional committees
 
-The Commission, after consultation with the Committee, shall, on June 30, 1974, and at the end of each subsequent fiscal year, make a complete report to the appropriate committees of the Congress with respect to the practices of and achievements in hiring, placement, and advancement of individuals with disabilities by each department, agency, and instrumentality and the effectiveness of the affirmative action programs required by subsection (b) of this section, together with recommendations as to legislation which have been submitted to the Commission under subsection (a) of this section, or other appropriate action to insure the adequacy of such practices. Such report shall also include an evaluation by the Committee of the effectiveness of the activities of the Commission under subsections (b) and (c) of this section.
+The Commission, after consultation with the Committee, shall, on June 30, 1974, and at the end of each subsequent fiscal year, make a complete report to the appropriate committees of the Congress with respect to the practices of and achievements in hiring, placement, and advancement of individuals with disabilities by each department, agency, and instrumentality and the Smithsonian Institution and the effectiveness of the affirmative action programs required by subsection (b) of this section, together with recommendations as to legislation which have been submitted to the Commission under subsection (a) of this section, or other appropriate action toinsure the adequacy of such practices. Such report shall also include an evaluation by the Committee of the effectiveness of the activities of the Commission under subsections (b) and (c) of this section.
 
 #### (e) Federal work experience without pay; non-Federal status
 
-An individual who, as a part of an individualized written rehabilitation program under a State plan approved under this chapter, participates in a program of unpaid work experience in a Federal agency, shall not, by reason thereof, be considered to be a Federal employee or to be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
+An individual who, as a part of an individualized plan for employment under a State plan approved under this chapter, participates in a program of unpaid work experience in a Federal agency, shall not, by reason thereof, be considered to be a Federal employee or to be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
 
 #### (f) Federal agency cooperation; special consideration for positions on President's Committee on Employment of People With Disabilities
 
@@ -30,7 +30,7 @@ An individual who, as a part of an individualized written rehabilitation program
 
 The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727.)
+(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202.)
 
 #### References in Text
 
@@ -43,6 +43,16 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub.
 Prior similar provisions were set out in section 38 of this title.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–220, §408(a)(1)(A), substituted “President's Committees on Employment of People With Disabilities” for “President's Committees on Employment of the Handicapped” in third sentence.
+
+Pub. L. 105–220, §341(c)(1), inserted “and the Smithsonian Institution” after “Government” in fourth sentence.
+
+Subsec. (b). Pub. L. 105–220, §341(c)(2), in first sentence, inserted “and the Smithsonian Institution” after “in the executive branch” and substituted “such department, agency, instrumentality, or Institution” for “such department, agency, or instrumentality”.
+
+Subsec. (d). Pub. L. 105–220, §341(c)(3), inserted “and the Smithsonian Institution” after “instrumentality”.
+
+Subsec. (e). Pub. L. 105–220, §408(a)(1)(B), substituted “individualized plan for employment” for “individualized written rehabilitation program”.
 
 1993—Subsec. (a). Pub. L. 103–73 in first sentence inserted comma after “Veterans Affairs”.
 
@@ -60,7 +70,9 @@ Subsec. (g). Pub. L. 102–569, §503(b), added subsec. (g).
 
 1991—Subsec. (a). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-1988—Subsec. (a). Pub. L. 100–630, §206(a)(1)–(4), inserted “(hereafter in this section referred to as the ‘Commission’)” after first reference to “Equal Employment Opportunity Commission” and substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing, “Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services” for “Secretaries of Labor and Education and Health and Human Services” in first sentence, “co-chairpersons” for “co-chairmen” in second sentence, “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence which was executed to third sentence as the probable intent of Congress, and “Commission” for “Office” in cl. (2).
+1988—Subsec. (a). Pub. L. 100–630, §206(a)(3)(C), which directed substitution of “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence, could not be executed because the words did not appear in second sentence.
+
+Pub. L. 100–630, §206(a)(1)–(3)(B), (4), inserted “(hereafter in this section referred to as the ‘Commission’)” after first reference to “Equal Employment Opportunity Commission” and substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing, “Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services” for “Secretaries of Labor and Education and Health and Human Services” in first sentence, “co-chairpersons” for “co-chairmen” in second sentence, and “Commission” for “Office” in cl. (2).
 
 Subsec. (b). Pub. L. 100–630, §206(a)(2), (5), substituted “submit to the Commission” for “submit to the Equal Employment Opportunity Commission”, “employees with handicaps” for “handicapped employees”, and “Commission, if the Commission determines” for “Office, if the Office determines”.
 
@@ -86,9 +98,29 @@ Subsec. (b). Pub. L. 98–221, §104(b)(3)(C), (D), substituted “Office of Per
 
 Subsec. (c). Pub. L. 98–221, §104(b)(3)(C), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (d). Pub. L. 98–221, §104(b)(3)(C), (E), substituted “Office of Personnel Management” for “Civil Service Commission” in two places and “the activitiesof the Office of Personnel Management” for “Civil Service Commission's activities”.
+Subsec. (d). Pub. L. 98–221, §104(b)(3)(C), (E), substituted “Office of Personnel Management” for “Civil Service Commission” in two places and “the activities of the Office of Personnel Management” for “Civil Service Commission's activities”.
 
 Subsec. (f)(1). Pub. L. 98–221, §104(b)(3)(F), substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, set out as a note under section 633a of this title.
+
+#### Effective Date of 1992 Amendment
+
+Pub. L. 102–569, title I, §138, Oct. 29, 1992, 106 Stat. 4397, as amended by Pub. L. 103–73, title I, §102(3), Aug. 11, 1993, 107 Stat. 718, provided that:
+
+“(a)
+
+Effective Date.—Except as provided in subsection (b), this title \[enacting sections 718 to 718b, 725 to 728a, and 740 to 744 of this title, amending this section and sections 701, 705 to 707, 709, 711 to 715, 717, 720 to 724, 730 to 732, 740, 741, 750, 761a to 762, 770, 772 to 776, 777a, 777b, 777d to 777f, 780, 781, 783, 792 to 794, 795, 795d, 795e, and 795h of this title, repealing section 752 of this title, enacting provisions set out as notes under section 712 of this title, and amending provisions set out as a note under section 701 of this title\] and the amendments made by this title shall take effect on the date of enactment of this Act \[Oct. 29, 1992\].
+
+“(b)
+
+Compliance.—Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] shall comply with the amendments made by this subtitle \[subtitle B (§§121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of this title\], as soon as is practicable after the date of enactment of this Act \[Oct. 29, 1992\], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], but not later than October 1, 1993.”
+
+#### Effective Date of 1986 Amendment
+
+Pub. L. 99–506, title X, §1006, Oct. 21, 1986, 100 Stat. 1846, provided that: “Except as otherwise provided in this Act \[see Short Title of 1986 Amendment note set out under section 701 of this title\], this Act shall take effect on the date of its enactment \[Oct. 21, 1986\].”
 
 #### Executive Order No. 10640
 
@@ -154,7 +186,7 @@ Sec. 2. <i>Functions of the Committee</i>. The President's Committee shall provi
 
 Sec. 3. <i>Executive Committee</i>. (a) There is hereby established the Executive Committee of the President's Committee on Employment of People with Disabilities. The Executive Committee shall be composed of the Chairman of the President's Committee, who shall also be the Chairman of the Executive Committee, the Vice Chair of the President's Committee, and so many additional members as will provide an Executive Committee of not less than 15 and not more than 30 members. The said additional members shall be appointed for a term of 3 years by the Chairman of the President's Committee from among the members of the President's Committee or otherwise. The Chairman of the President's Committee may at any time terminate the service of any member of the Executive Committee.
 
-(b) The Executive Committee shall advise and assist the Chairman of the President's Committee in the conduct of the business of the President's Committee and, as authorized by the President's Committee or theChairman thereof (with due regard for the responsibilities of other Federal agencies), shall study the problems of people with disabilities in obtaining and retaining suitable employment, invite authorities in the various professional, technical, and other pertinent fields to advise it in the exploration of those problems, and review plans and projects for advocating the employment of people with disabilities.
+(b) The Executive Committee shall advise and assist the Chairman of the President's Committee in the conduct of the business of the President's Committee and, as authorized by the President's Committee or the Chairman thereof (with due regard for the responsibilities of other Federal agencies), shall study the problems of people with disabilities in obtaining and retaining suitable employment, invite authorities in the various professional, technical, and other pertinent fields to advise it in the exploration of those problems, and review plans and projects for advocating the employment of people with disabilities.
 
 Sec. 4. <i>Advisory Council</i>. There is hereby established the Advisory Council on Employment of People with Disabilities, which shall advise the President's Committee with respect to the responsibilities of the Committee. The Council shall be composed of the Chairman of the President's Committee, who shall also be the Chairman of the Council, and of the following-named officers, or their respective alternates: Secretary of State, Secretary of the Treasury; Secretary of Defense; The Attorney General; Secretary of the Interior; Secretary of Agriculture; Secretary of Commerce; Secretary of Labor; Secretary of Health and Human Services; Secretary of Housing and Urban Development; Secretary of Transportation; Secretary of Education; Chairman, Equal Employment Opportunity Commission; Administrator of General Services; Director, Office of Personnel Management; Director, United States Information Agency; Administrator of Veterans’ Affairs; and the Postmaster General.
 
@@ -170,7 +202,7 @@ Sec. 5. <i>Administrative and Incidental Matters</i>. (a) The President's Commit
 
 (f) All members (including the Chairman and Vice Chairs) of the President's Committee, the Executive Committee, and the Advisory Council shall serve without compensation. The Chairman and the Vice Chairs of the President's Committee may receive transportation and per diem allowances as authorized by law for persons serving without compensation. Persons with disabilities serving as Chairman or Vice Chairs may be compensated for attendant expenses, consistent with government procedures and practices.
 
-(g) Employees of the President's Committee shall be appointed, subject to law, and shall be directed by the Chairman of the Committee. To such extent as may be mutually arranged by the Chairman of the Committee and the Secretary of Labor, employees of the Committee shall be subject to the administrative rules, regulations, and procedures of the Department of Labor.
+(g) Employees of the President's Committee shall be appointed, subject to law, and shall be directed by the Chairman of the Committee. To such extent as may be mutually arranged by the Chairman of the Committeeand the Secretary of Labor, employees of the Committee shall be subject to the administrative rules, regulations, and procedures of the Department of Labor.
 
 (h) The Department of Labor is requested to make available to the President's Committee necessary office space and to furnish the Committee, under such arrangements respecting financing as may be appropriate, necessary equipment, supplies, and services. The estimates of appropriations for the operations of the Committee shall be included within the framework of the appropriations structure of the Department of Labor, in such manner as the Director of the Office of Management and Budget may prescribe. The Chairman of the Committee, in cooperation with the Assistant Secretary for Administration and Management of the Department of Labor, shall be responsible for the preparation and justification of the estimates of appropriations for the Committee.
 
@@ -182,7 +214,9 @@ Sec. 7. <i>Prior Orders; Transition</i>. (a) To the extent that this Order is in
 
 (c) The tenure of persons as members of the Committee in pursuance of the provisions of Section 7(b) of this Order, (i), in the case of persons appointed to the predecessor Committee by the President, shall be at the pleasure of the President, and (ii), in the case of other members, shall be for periods equal to their respective unexpired terms under Executive Order No. 11480, as amended, but shall also be subject to the provisions of the last sentence of Section 1(b) of this Order.
 
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 706, 794a of this title; title 2 sections 1202, 1311; title 3 sections 411, 421; title 5 sections 2302, 3102, 7702; title 22 sections 3905, 4131; title 38 section 4214; title 42 section 1981a.
+This section is referred to in sections 705, 794a, 794d of this title; title 2 sections 1202, 1311; title 3 sections 411, 421; title 5 sections 2302, 3102, 7702; title 22 sections 3905, 4131; title 38 section 4214; title 42 section 1981a.
 

@@ -48,5 +48,5 @@ As used in this section, the term “dietary supplement” has the meaning given
 
 There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1994 and such sums as may be necessary for each subsequent fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §485C, as added Oct. 25, 1994, Pub. L. 103–417, §13(a), 108 Stat. 4334.)
+(July 1, 1944, ch. 373, title IV, §485C, as added Pub. L. 103–417, §13(a), Oct. 25, 1994, 108 Stat. 4334.)
 

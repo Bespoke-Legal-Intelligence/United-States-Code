@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, no order issued for any fiscal year 
 
 #### (h) Cost share assistance
 
-In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling lands in the conservation reserve program.
+In addition to any payment under this subpart, an owner or operator may receive costshare assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling lands in the conservation reserve program.
 
 (Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, §322, Aug. 11, 1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605.)
 

@@ -34,7 +34,7 @@
 
 #### (ii) 1992 crops
 
-&emsp;&emsp;&emsp;In the case of each of the 1992 crops of upland cotton and rice, if the producers on a farm did not participate in the production adjustment program established for the 1990 and 1991 crops of upland cotton and rice, respectively, the crop acreage base for the 1992 crop shall be equal to the average of the acreage planted and considered planted to such crop for harvest on the farm in each of the 5 crop years preceding the 1992 crop year, excluding all crop years in which planted and considered planted acreage was not established for the farm. Any crop acreage base established in accordance with this subparagraph shall not exceed a number of acres equal to the average of the acreage planted and considered planted to such crop for harvest on the farm in each of the 2 crop years preceding the 1992 crop year.
+&emsp;&emsp;&emsp;In the case of each of the 1992 crops of upland cotton and rice, if the producers on a farm did not participate in the production adjustment program established for the 1990 and 1991 crops of upland cotton and rice, respectively, the crop acreage base for the 1992 crop shall be equal to the average of the acreage planted and considered planted to such crop for harvest on the farm in each of the 5 crop years preceding the 1992 crop year, excluding all crop years in which planted and considered planted acreage was not established for the farm. Any crop acreage base established in accordance with this subparagraph shall not exceed a number of acresequal to the average of the acreage planted and considered planted to such crop for harvest on the farm in each of the 2 crop years preceding the 1992 crop year.
 
 #### (c) Acreage considered planted
 
@@ -44,7 +44,7 @@ For purposes of this Act, acreage considered planted to a program crop shall con
 
 &emsp;(2) any acreage on the farm that producers were prevented from planting to the crop because of drought, flood, or other natural disaster, or other condition beyond the control of the producers;
 
-&emsp;(3) acreage in an amount equal to the difference between the permitted acreage for a program crop and the acreage planted to the crop, if the acreage considered to be planted is devoted to conservation uses or the production of commodities permitted by the Secretary under the programs established for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, and rice established under sections 1445b–3a(c)(1)(E), 1444f(c)(1)(E),1444–2(c)(1)(D),<sup>1</sup> and 1441–2(c)(1)(D) of this title, respectively;
+&emsp;(3) acreage in an amount equal to the difference between the permitted acreage for a program crop and the acreage planted to the crop, if the acreage considered to be planted is devoted to conservation uses or the production of commodities permitted by the Secretary under the programs established for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, and rice established under sections 1445b–3a(c)(1)(E), 1444f(c)(1)(E), 1444–2(c)(1)(D),<sup>1</sup> and 1441–2(c)(1)(D) of this title, respectively;
 
 &emsp;(4) acreage in an amount equal to the difference between the permitted acreage for a program crop and the acreage planted to the crop, if the acreage considered to be planted is devoted to the production of commodities in accordance with section 1464 of this title;
 
@@ -94,7 +94,7 @@ A producer who is eligible to receive a deficiency payment for any program crop 
 
 #### (A) In general
 
-&emsp;&emsp;For the 1992 through 1997 crop years, the county committee shall allow an eligible producer to increase individual crop acreage bases on the farm, subject to subsection (a)(2) of this section, above the levels of base that would otherwise be established under this section, in order to restore the total of crop acreage bases on the farm for the 1992 through 1997 crop years to the same level as the total of crop acreage bases on the farm for the 1990 crop year.
+&emsp;&emsp;For the 1992 through 1997 crop years, the county committee shall allow an eligible producer to increase individual crop acreage bases on the farm, subject to subsection (a)(2) of this section, above the levels of basethat would otherwise be established under this section, in order to restore the total of crop acreage bases on the farm for the 1992 through 1997 crop years to the same level as the total of crop acreage bases on the farm for the 1990 crop year.
 
 #### (B) “Eligible producer” defined
 
@@ -108,7 +108,7 @@ A producer who is eligible to receive a deficiency payment for any program crop 
 
 &emsp;&emsp;The Secretary shall issue regulations to carry out this paragraph.
 
-(Oct. 31, 1949, ch. 792, title V, §503, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1461; amended Aug. 11, 1988, Pub. L. 100–387, title III, §302(a), 102 Stat. 947; Aug. 14, 1989, Pub. L. 101–81, §2, 103 Stat. 563; Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3491; Dec. 13, 1991, Pub. L. 102–237, title I, §112(a), (b), 105 Stat. 1836; Aug. 10, 1993, Pub. L. 103–66, title I, §1101(b)(2)(A), 107 Stat. 314.)
+(Oct. 31, 1949, ch. 792, title V, §503, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 100–387, title III, §302(a), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–81, §2, Aug. 14, 1989, 103 Stat. 563; Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3491; Pub. L. 102–237, title I, §112(a), (b), Dec. 13, 1991, 105 Stat. 1836; Pub. L. 103–66, title I, §1101(b)(2)(A), Aug. 10, 1993, 107 Stat. 314.)
 
 #### References in Text
 

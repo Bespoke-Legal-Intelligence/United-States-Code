@@ -6,7 +6,7 @@
 
 (c) Appointments as Reserves in permanent warrant officer grades are for an indefinite term and are held during the pleasure of the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §597; Nov. 8, 1985, Pub. L. 99–145, title V, §531(b), 99 Stat. 633; Dec. 5, 1991, Pub. L. 102–190, div. A, title XI, §1131(2), 105 Stat. 1505; renumbered §12241, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), 108 Stat. 2991.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §597; Pub. L. 99–145, title V, §531(b), Nov. 8, 1985, 99 Stat. 633; Pub. L. 102–190, div. A, title XI, §1131(2), Dec. 5, 1991, 105 Stat. 1505; renumbered §12241, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), Oct. 5, 1994, 108 Stat. 2991.)
 
 Historical and Revision Notes
 

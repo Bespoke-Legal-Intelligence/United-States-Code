@@ -28,7 +28,7 @@ Requirement for Direct Communication From Area Offices.—The Secretary of Energ
 
 Defense Programs Reorganization Plan and Report.—(1) The Secretary of Energy shall develop a plan to reorganize the field activities and management of the national security functions of the Department of Energy.
 
-“(2) Not later than 120 days after the date of the enactment of this Act \[Sept. 23, 1996\], the Secretary shall submit to Congress a report on the plan developed under paragraph (1). The report shall specifically identify all significant functions performed by the operations offices relating to any of the facilities and laboratories covered by this section and which of those functions could be performed—
+“(2) Not later than 120 days after the date of the enactment of this Act \[Sept. 23, 1996\], the Secretary shall submit to Congress a report on the plan developedunder paragraph (1). The report shall specifically identify all significant functions performed by the operations offices relating to any of the facilities and laboratories covered by this section and which of those functions could be performed—
 
 &emsp;“(A) by the area offices of the Department of Energy located at the facilities and laboratories covered by this section; or
 

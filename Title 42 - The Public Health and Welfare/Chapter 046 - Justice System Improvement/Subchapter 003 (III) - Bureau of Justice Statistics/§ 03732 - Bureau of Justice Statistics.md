@@ -118,6 +118,84 @@ Subsec. (d)(5). Pub. L. 98–473, §605(b)(3)(B)–(D), added par. (5).
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 
+#### Crime Victims With Disabilities Awareness
+
+Pub. L. 105–301, Oct. 27, 1998, 112 Stat. 2838, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Crime Victims With Disabilities Awareness Act’.
+
+#### “SEC. 2. FINDINGS; PURPOSES.
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) although research conducted abroad demonstrates that individuals with developmental disabilities are at a 4 to 10 times higher risk of becoming crime victims than those without disabilities, there have been no significant studies on this subject conducted in the United States;
+
+&emsp;“(2) in fact, the National Crime Victim's Survey, conducted annually by the Bureau of Justice Statistics of the Department of Justice, does not specifically collect data relating to crimes against individuals with developmental disabilities;
+
+&emsp;“(3) studies in Canada, Australia, and Great Britain consistently show that victims with developmental disabilities suffer repeated victimization because so few of the crimes against them are reported, and even when they are, there is sometimes a reluctance by police, prosecutors, and judges to rely on the testimony of a disabled individual, making individuals with developmental disabilities a target for criminal predators;
+
+&emsp;“(4) research in the United States needs to be done to—
+
+&emsp;&emsp;“(A) understand the nature and extent of crimes against individuals with developmental disabilities;
+
+&emsp;&emsp;“(B) describe the manner in which the justice system responds to crimes against individuals with developmental disabilities; and
+
+&emsp;&emsp;“(C) identify programs, policies, or laws that hold promises for making the justice system more responsive to crimes against individuals with developmental disabilities; and
+
+&emsp;“(5) the National Academy of Science Committee on Law and Justice of the National Research Council is a premier research institution with unique experience in developing seminal, multidisciplinary studies to establish a strong research base from which to make public policy.
+
+“(b)
+
+Purposes.—The purposes of this Act are—
+
+&emsp;“(1) to increase public awareness of the plight of victims of crime who are individuals with developmental disabilities;
+
+&emsp;“(2) to collect data to measure the extent of the problem of crimes against individuals with developmental disabilities; and
+
+&emsp;“(3) to develop a basis to find new strategies to address the safety and justice needs of victims of crime who are individuals with developmental disabilities.
+
+#### “SEC. 3. DEFINITION OF DEVELOPMENTAL DISABILITY.
+
+“In this Act, the term ‘developmental disability’ has the meaning given the term in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001).
+
+#### “SEC. 4. STUDY.
+
+“(a)
+
+In General.—The Attorney General shall conduct a study to increase knowledge and information about crimes against individuals with developmental disabilities that will be useful in developing new strategies to reduce the incidence of crimes against those individuals.
+
+“(b)
+
+Issues Addressed.—The study conducted under this section shall address such issues as—
+
+&emsp;“(1) the nature and extent of crimes against individuals with developmental disabilities;
+
+&emsp;“(2) the risk factors associated with victimization of individuals with developmental disabilities;
+
+&emsp;“(3) the manner in which the justice system responds to crimes against individuals with developmental disabilities; and
+
+&emsp;“(4) the means by which States may establish and maintain a centralized computer database on the incidence of crimes against individuals with disabilities within a State.
+
+“(c)
+
+National Academy of Sciences.—In carrying out this section, the Attorney General shall consider contracting with the Committee on Law and Justice of the National Research Council of the National Academy of Sciences to provide research for the study conducted under this section.
+
+“(d)
+
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 27, 1998\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a report describing the results of the study conducted under this section.
+
+#### “SEC. 5. NATIONAL CRIME VICTIM'S SURVEY.
+
+“Not later than 2 years after the date of enactment of this Act, as part of each National Crime Victim's Survey, the Attorney General shall include statistics relating to—
+
+&emsp;“(1) the nature of crimes against individuals with developmental disabilities; and
+
+&emsp;“(2) the specific characteristics of the victims of those crimes.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5603 of this title.

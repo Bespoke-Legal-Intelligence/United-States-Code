@@ -8,7 +8,7 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 (1) The system implementation plan shall prescribe the specific number and types of positions needed by the District government at the end of the service coordination period.
 
-(2) Notwithstanding section 3503 of title 5, employees of the Hospital shall only be transferredto District employment under the provisions of this section.
+(2) Notwithstanding section 3503 of title 5, employees of the Hospital shall only be transferred to District employment under the provisions of this section.
 
 #### (c) Retention list; reemployment priority list; right-of-first-refusal; retention registers; employee appeals
 

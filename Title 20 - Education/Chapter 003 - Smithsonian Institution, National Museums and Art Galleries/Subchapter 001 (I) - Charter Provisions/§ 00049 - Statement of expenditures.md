@@ -1,6 +1,6 @@
 ### §49. Statement of expenditures
 
-The Secretary shall submit to Congress annually at the beginning of each regular session thereof a detailed statement of the expenditures of the preceding fiscal year, under appropriations for “International Exchanges,” “NorthAmerican Ethnology,” and the “National Museum.”
+The Secretary shall submit to Congress annually at the beginning of each regular session thereof a detailed statement of the expenditures of the preceding fiscal year, under appropriations for “International Exchanges,” “North American Ethnology,” and the “National Museum.”
 
 (Oct. 2, 1888, ch. 1069, 25 Stat. 529.)
 

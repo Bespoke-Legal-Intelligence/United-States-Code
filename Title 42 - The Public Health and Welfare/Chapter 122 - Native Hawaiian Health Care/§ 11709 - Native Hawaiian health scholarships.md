@@ -4,7 +4,7 @@
 
 Subject to the availability of funds appropriated under the authority of subsection (c) of this section, the Secretary shall provide funds through a direct grant or a cooperative agreement to Kamehameha School/Bishop Estate for the purpose of providing scholarship assistance to students who—
 
-&emsp;(1) meet the requirements of section 254b <sup>1</sup> of this title, and
+&emsp;(1) meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title, and
 
 &emsp;(2) are Native Hawaiians.
 
@@ -12,13 +12,31 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 (1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title, provided that—
 
-&emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of health care professional to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
+&emsp;(A) the provision of scholarships in each type of health care profession training shall correspond to the need for each type of health care professional identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title to serve the Native Hawaiian health care systems, as identified by Papa Ola Lokahi;
 
-&emsp;(B) to the maximum extent practicable, the Secretary shall select scholarship recipients from a list of eligible applicants submitted by the Kamehameha Schools/Bishop Estate;
+&emsp;(B) the primary health services covered under the scholarship assistance program under this section shall be the services included under the definition of that term under section 11711(8) of this title;
 
-&emsp;(C) the obligated service requirement for each scholarship recipient shall be fulfilled through service, in order of priority, in (i) any one of the five Native Hawaiian health care systems, or (ii) health professions shortage areas, medically underserved areas, or geographic areas or facilities similarly designated by the United States Public Health Service in the State of Hawaii; and
+&emsp;(C) to the maximum extent practicable, the Secretary shall select scholarship recipients from a list of eligible applicants submitted by the Kamehameha Schools/Bishop Estate;
 
-&emsp;(D) the provision of counseling, retention and other support services shall not be limited to scholarship recipients, but shall also include recipients of other scholarship and financial aid programs enrolled in appropriate health professions training programs.
+&emsp;(D) the obligated service requirement for each scholarship recipient shall be fulfilled through the full-time clinical or nonclinical practice of the health profession of the scholarship recipient, in an order of priority that would provide for practice—
+
+&emsp;&emsp;(i) first, in any one of the five Native Hawaiian health care systems; and
+
+&emsp;&emsp;(ii) second, in—
+
+&emsp;&emsp;&emsp;(I) a health professional shortage area or medically underserved area located in the State of Hawaii; or
+
+&emsp;&emsp;&emsp;(II) a geographic area or facility that is—
+
+&emsp;&emsp;&emsp;&emsp;(aa) located in the State of Hawaii; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) has a designation that is similar to a designation described in subclause (I) made by the Secretary, acting through the Public Health Service;
+
+&emsp;(E) the provision of counseling, retention and other support services shall not be limited to scholarship recipients, but shall also include recipients of other scholarship and financial aid programs enrolled in appropriate health professions training programs,<sup>1</sup>
+
+&emsp;(F) the obligated service of a scholarship recipient shall not be performed by the recipient through membership in the National Health Service Corps; and
+
+&emsp;(G) the requirements of sections 254d through 254k of this title, section 254m of this title, other than subsection (b)(5) of that section, and section 254n of this title applicable to scholarship assistance provided under section 254<i>l</i> of this title shall not apply to the scholarship assistance provided under subsection (a) of this section.
 
 (2) The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 
@@ -26,11 +44,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2001 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
 
-(Pub. L. 100–579, §10, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
-
-#### References in Text
-
-Section 254b of this title, referred to in subsec. (a)(1), was in the original a reference to section 329 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Section 2 of Pub. L. 104–299 enacted a new section 330 of act July 1, 1944, which is classified to section 254b of this title.
+(Pub. L. 100–579, §10, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; amended Pub. L. 105–256, §12, Oct. 14, 1998, 112 Stat. 1899.)
 
 #### Codification
 
@@ -42,5 +56,23 @@ A prior section 11709, Pub. L. 100–579, §11, Oct. 31, 1988, 102 Stat. 2923; P
 
 A prior section 10 of Pub. L. 100–579 repealed section 1621d of Title 25, Indians.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title” for “meet the requirements of section 254<i>l</i> of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
+
+Subsec. (b)(1)(A). Pub. L. 105–256, §12(b)(1), inserted “identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title” after “health care professional”.
+
+Subsec. (b)(1)(B). Pub. L. 105–256, §12(b)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (b)(1)(C). Pub. L. 105–256, §12(b)(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(1)(D). Pub. L. 105–256, §12(b)(4), added subpar. (D) and struck out former subpar. (D) which read as follows: “the obligated service requirement for each scholarship recipient shall be fulfilled through service, in order of priority, in (i) any one of the five Native Hawaiian health care systems, or (ii) health professions shortage areas, medically underserved areas, or geographic areas or facilities similarly designated by the United States Public Health Service in the State of Hawaii; and”.
+
+Pub. L. 105–256, §12(b)(2), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+
+Subsec. (b)(1)(E). Pub. L. 105–256, §12(b)(2), redesignated subpar. (D) as (E).
+
+Subsec. (b)(1)(F), (G). Pub. L. 105–256, §12(b)(5), (6), added subpars. (F) and (G).
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

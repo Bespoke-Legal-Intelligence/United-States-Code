@@ -8,7 +8,7 @@ In addition, such vessel, her tackle, apparel, furniture, equipment, and her car
 
 The Secretary of the Treasury is authorized to promulgate regulations upon compliance with which vessels engaged in the coastwise trade or fisheries or used solely for pleasure may be relieved from complying with this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 747; Dec. 8, 1993, Pub. L. 103–182, title VI, §687, 107 Stat. 2221; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–182, title VI, §687, Dec. 8, 1993, 107 Stat. 2221; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -104,11 +104,15 @@ Definitions.—In this section:
 
 #### Codification
 
-Another section 2216 was renumbered section 2216a of this title.
+Another section 2216 was renumbered section 2216a of this title and subsequently repealed.
 
 #### Prior Provisions
 
 A prior section 2216, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to annual reports on budgeting for inflation, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(8), Nov. 5, 1990, 104 Stat. 1668.
+
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives and Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date
 

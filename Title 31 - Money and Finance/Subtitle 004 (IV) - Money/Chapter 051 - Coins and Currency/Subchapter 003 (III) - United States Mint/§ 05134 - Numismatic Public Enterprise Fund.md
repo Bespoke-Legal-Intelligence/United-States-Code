@@ -252,7 +252,7 @@ Quarterly Financial Reports.—
 
 &emsp;(1)
 
-In general.—Not later than the 30th day of each month following each calendar quarter through and including the final period of sales with respect to any commemorative coin program authorized on or after the date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997, the Mint shall submit to the Congress a quarterly financial report in accordance with this subsection.
+In general.—Not later than the 30th day of each month following each calendar quarter through and including the final period of sales with respect to any commemorative coin program authorized on or after the date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997,the Mint shall submit to the Congress a quarterly financial report in accordance with this subsection.
 
 &emsp;(2)
 
@@ -280,7 +280,7 @@ Requirements.—Each report submitted under paragraph (1) shall include, with re
 
 #### References in Text
 
-Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992, referred to in subsec. (b),is section 221(b) of Pub. L. 102–390, which is set out below.
+Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992, referred to in subsec. (b), is section 221(b) of Pub. L. 102–390, which is set out below.
 
 The date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997, referred to in subsec. (g)(1), is the date of enactment of section 101(f) of title I of div. A of Pub. L. 104–208, which was approved Sept. 30, 1996.
 

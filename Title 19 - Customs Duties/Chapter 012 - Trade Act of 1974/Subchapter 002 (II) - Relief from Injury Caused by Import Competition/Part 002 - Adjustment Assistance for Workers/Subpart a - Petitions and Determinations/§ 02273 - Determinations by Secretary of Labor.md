@@ -18,7 +18,7 @@ Upon reaching his determination on a petition, the Secretary shall promptly publ
 
 #### (d) Termination of certification
 
-Whenever the Secretary determines, with respect to any certification of eligibility of the workers of a firm or subdivision of the firm, that total or partial separations from such firm or subdivision are no longer attributable to the conditions specified in section 2272 of this title, he shall terminate such certification and promptly have notice of such termination published in the Federal Register together with hisreasons for making such determination. Such termination shall apply only with respect to total or partial separations occurring after the termination date specified by the Secretary.
+Whenever the Secretary determines, with respect to any certification of eligibility of the workers of a firm or subdivision of the firm, that total or partial separations from such firm or subdivision are no longer attributable to the conditions specified in section 2272 of this title, he shall terminate such certification and promptly have notice of such termination published in the Federal Register together with his reasons for making such determination. Such termination shall apply only with respect to total or partial separations occurring after the termination date specified by the Secretary.
 
 (Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151.)
 

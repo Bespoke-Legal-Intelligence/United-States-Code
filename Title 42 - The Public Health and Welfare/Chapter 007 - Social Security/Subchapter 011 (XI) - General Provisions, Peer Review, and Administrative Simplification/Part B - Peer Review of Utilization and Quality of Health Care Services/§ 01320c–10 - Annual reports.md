@@ -14,7 +14,7 @@ The Secretary shall submit to the Congress not later than April 1 of each year, 
 
 &emsp;(6) descriptions of the criteria upon which decisions are made, and the selection and relative weights of such criteria.
 
-(Aug. 14, 1935, ch. 531, title XI, §1161, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 392.)
+(Aug. 14, 1935, ch. 531, title XI, §1161, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 392.)
 
 #### Prior Provisions
 

@@ -24,7 +24,7 @@ This section corrects a typographical error in section 2003 of title 28, U.S.C.
 
 #### Amendments
 
-<b>1949</b>—Act May 24, 1949, corrected spelling of “realty” in first par.
+1949—Act May 24, 1949, corrected spelling of “realty” in first par.
 
 #### Federal Rules of Civil Procedure
 

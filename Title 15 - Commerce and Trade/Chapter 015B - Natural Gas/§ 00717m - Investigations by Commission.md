@@ -18,7 +18,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (e) Testimony of witnesses
 
-The testimony of any witness may be taken at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentaryevidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
+The testimony of any witness may be taken at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
 
 #### (f) Deposition of witnesses in a foreign country
 
@@ -28,7 +28,7 @@ If a witness whose testimony may be desired to be taken by deposition be in a fo
 
 Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(June 21, 1938, ch. 556, §14, 52 Stat. 828; Oct. 15, 1970, Pub. L. 91–452, title II, §218, 84 Stat. 929.)
+(June 21, 1938, ch. 556, §14, 52 Stat. 828; Pub. L. 91–452, title II, §218, Oct. 15, 1970, 84 Stat. 929.)
 
 #### Amendments
 

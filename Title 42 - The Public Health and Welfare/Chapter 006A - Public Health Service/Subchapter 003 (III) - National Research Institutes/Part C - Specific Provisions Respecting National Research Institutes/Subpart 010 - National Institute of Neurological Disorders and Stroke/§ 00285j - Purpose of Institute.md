@@ -2,7 +2,7 @@
 
 The general purpose of the National Institute of Neurological Disorders and Stroke (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to neurological disease and disorder and stroke.
 
-(July 1, 1944, ch. 373, title IV, §457, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 857; amended Oct. 28, 1988, Pub. L. 100–553, §2(3), 102 Stat. 2769; Nov. 4, 1988, Pub. L. 100–607, title I, §101(3), 102 Stat. 3049; Nov. 18, 1988, Pub. L. 100–690, title II, §2613(b)(2), 102 Stat. 4238; Aug. 16, 1989, Pub. L. 101–93, §5(a), 103 Stat. 611.)
+(July 1, 1944, ch. 373, title IV, §457, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 857; amended Pub. L. 100–553, §2(3), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(3), Nov. 4, 1988, 102 Stat. 3049; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 101–93, §5(a), Aug. 16, 1989, 103 Stat. 611.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 > A State may adopt any requirements respecting conflicts of interest for such boards or bodies or heads of executive agencies, or any other entities which are more stringent than the requirements of paragraph (1) and (2), and the Administrator shall approve any such more stringent requirements submitted as part of an implementation plan.
 
-(July 14, 1955, ch. 360, title I, §128, as added Aug. 7, 1977, Pub. L. 95–95, title I, §125, 91 Stat. 725.)
+(July 14, 1955, ch. 360, title I, §128, as added Pub. L. 95–95, title I, §125, Aug. 7, 1977, 91 Stat. 725.)
 
 #### Effective Date
 

@@ -52,7 +52,7 @@ This chapter, referred to in text, is title XIII of Pub. L. 90–448, Aug. 1, 19
 
 1983—Subsec. (a)(1). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 
-Subsec. (a)(6). Pub. L. 98–181, §451(d)(8), substituted definition of “Director” as the Director of the Federal Emergency Management Agency for definition of “Secretary” as the Secretary of Housing and Urban Development.
+Subsec. (a)(6). Pub. L. 98–181, §451(d)(8), substituted definition of “Director” as the Director of the FederalEmergency Management Agency for definition of “Secretary” as the Secretary of Housing and Urban Development.
 
 Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary”.
 

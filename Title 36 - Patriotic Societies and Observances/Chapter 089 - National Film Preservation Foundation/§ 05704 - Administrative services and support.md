@@ -1,6 +1,0 @@
-### §5704. Administrative services and support
-
-The Librarian may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses under section 5702 of this title, not to exceed the current per diem rates for the Federal Government, and the Foundation shall reimburse the Librarian therefor. Amounts so reimbursed shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services.
-
-(Pub. L. 104–285, title II, §205, Oct. 11, 1996, 110 Stat. 3385.)
-

@@ -12,7 +12,7 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 (2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges and universities in the program provided for by this section.
 
-(3) The Federal Acquisition Regulation shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of theSmall Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
+(3) The Federal Acquisition Regulation shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of the Small Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
 
 (b)
 
@@ -34,7 +34,7 @@ Amount.—(1) With respect to the Department of Defense, the requirements of sub
 
 Types of Assistance.—(1) To attain the goal specified in subsection (a)(1), the head of an agency shall provide technical assistance to the entities referred to in that subsection and, in the case of historically Black colleges and universities and minority institutions, shall also provide infrastructure assistance.
 
-(2) Technical assistance provided under this section shall include information about the program, advice about agency procurement procedures, instruction in preparation of proposals, and other such assistance as the head of the agency considers appropriate. If the resources of the agency are inadequate to provide such assistance, the head of the agency may enter into contracts with minority private sector entities with experience and expertise in the design, development, and delivery of technical assistance services to eligible individuals, business firms and institutions, acquisition agencies, and prime contractors. Agency contracts with such entities shall be awarded annually, based upon, among other things, the number of minority small business concerns, historically Black colleges and universities, and minority institutions that each such entity brings into the program.
+(2) Technical assistance provided under this section shall include information about the program, advice about agency procurement procedures, instruction in preparation of proposals, and other such assistance as the head of the agency considers appropriate. If the resources of the agency are inadequate to provide such assistance, the head of the agency may enter into contracts with minority private sector entities with experience and expertise in the design, development, and delivery of technical assistance services to eligible individuals, business firmsand institutions, acquisition agencies, and prime contractors. Agency contracts with such entities shall be awarded annually, based upon, among other things, the number of minority small business concerns, historically Black colleges and universities, and minority institutions that each such entity brings into the program.
 
 (3) Infrastructure assistance provided by the Department of Defense under this section to historically Black colleges and universities and to minority institutions may include programs to do the following:
 
@@ -82,7 +82,13 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;(2) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency shall make advance payments under section 2307 of this title to contractors described in subsection (a). The Federal Acquisition Regulation shall provide guidance to contracting officers for making advance payments to entities described in subsection (a)(1) under such section.
 
-&emsp;(3) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
+&emsp;(3)(A) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may, except as provided in subparagraph (B), enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
+
+&emsp;(B)(i) The Secretary of Defense may not exercise the authority under subparagraph (A) to enter into a contract for a price exceeding fair market cost if the regulations implementing that authority are suspended under clause (ii) with respect to that contract.
+
+&emsp;(ii) At the beginning of each fiscal year, the Secretary shall determine, on the basis of the most recent data, whether the Department of Defense achieved the 5 percent goal described in subsection (a) during the fiscal year to which the data relates. Upon determining that the Department achieved the goal for the fiscal year to which the data relates, the Secretary shall issue a suspension, in writing, of the regulations that implement the authority under subparagraph (A). Such a suspension shall be in effect for the one-year period beginning 30 days after the date on which the suspension is issued and shall apply with respect to contracts awarded pursuant to solicitations issued during that period.
+
+&emsp;(iii) For purposes of clause (ii), the term “most recent data” means data relating to the most recent fiscal year for which data are available.
 
 &emsp;(4) To the extent practicable, the head of an agency shall maximize the number of minority small business concerns, historically Black colleges and universities, and minority institutions participating in the program.
 
@@ -144,7 +150,7 @@ Annual Report.—(1) Not later than December 15 of each year, the head of the ag
 
 (3) The report required under paragraph (1) shall also include the following:
 
-&emsp;(A) The aggregate differential between the fair market price of all contracts awarded pursuant to subsection (e)(3) and the estimated fair market price of all such contracts had such contracts been entered into using full and open competitive procedures.
+&emsp;(A) The aggregate differential between the fair market price of all contracts awarded pursuant to subsection (e)(3) and the estimatedfair market price of all such contracts had such contracts been entered into using full and open competitive procedures.
 
 &emsp;(B) An analysis of the impact that subsection (a) shall have on the ability of small business concerns not owned and controlled by socially and economically disadvantaged individuals to compete for contracts with the agency.
 
@@ -166,13 +172,13 @@ Effective Date.—(1) This section applies in the Department of Defense to each 
 
 (2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2000.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080.)
 
 #### References in Text
 
 Section 3(p) of the Small Business Act, referred to in subsecs. (a)(1)(A) and (f)(1), is classified to section 632(p) of Title 15, Commerce and Trade.
 
-Section 8(a) of the Small Business Act, referred to in subsec. (e)(3), is classified to section 637(a) of Title 15, Commerce and Trade.
+Section 8(a) of the Small Business Act, referred to in subsec. (e)(3)(A), is classified to section 637(a) of Title 15, Commerce and Trade.
 
 #### Codification
 
@@ -183,6 +189,8 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
+
+1998—Subsec. (e)(3). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted “, except as provided in subparagraph (B),” after “the head of an agency may” in first sentence, and added subpar. (B).
 
 1997—Subsec. (a)(1)(A). Pub. L. 105–135, §604(a)(1), inserted before semicolon at end “, and qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)”.
 
@@ -204,7 +212,7 @@ Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. P
 
 Subsec. (f)(2). Pub. L. 103–160, §811(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall prescribe regulations which provide for the following:
 
-&emsp;“(A) A requirement that a business which represents itself as an entity described in subsection\(a)(1) and is seeking a Department of Defense contract maintain its status as an entity at the time of contract award.
+&emsp;“(A) A requirement that a business which represents itself as an entity described in subsection (a)(1) and is seeking a Department of Defense contract maintain its status as an entity at the time of contract award.
 
 &emsp;“(B) A prohibition on the award of a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(<i>o</i>)(1) of the Small Business Act (15 U.S.C. 644(<i>o</i>)(1)).”
 

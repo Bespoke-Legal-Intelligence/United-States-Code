@@ -54,7 +54,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (2) Notice; hearing
 
-&emsp;If the administering authority permits the posting of a bond or other security in lieu of the deposit of estimated antidumping duties under paragraph (1), it shall—
+&emsp;If the administering authority permits the posting of a bond or other security in lieu ofthe deposit of estimated antidumping duties under paragraph (1), it shall—
 
 &emsp;&emsp;(A) publish notice of its action in the Federal Register, and
 
@@ -82,7 +82,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;After publication of the antidumping duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title.
 
-(June 17, 1930, ch. 497, title VII, §736, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 172; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(7), 100 Stat. 2922; Aug. 23, 1988, Pub. L. 100–418, title I, §1325, 102 Stat. 1201; Dec. 8, 1994, Pub. L. 103–465, title II, §§218(b)(2), 219(c)(9), 233(a)(1)(C), (2)(A)(iii), (5)(W)–(Y), 108 Stat. 4855, 4857, 4898, 4900.)
+(June 17, 1930, ch. 497, title VII, §736, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 172; amended Pub. L. 99–514, title XVIII, §1886(a)(7), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §1325, Aug. 23, 1988, 102 Stat. 1201; Pub. L. 103–465, title II, §§218(b)(2), 219(c)(9), 233(a)(1)(C), (2)(A)(iii), (5)(W)–(Y), Dec. 8, 1994, 108 Stat. 4855, 4857, 4898, 4900.)
 
 #### Amendments
 

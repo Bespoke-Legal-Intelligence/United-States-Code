@@ -10,7 +10,7 @@
 
 (c) Under such regulations as he may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after he becomes 62 years of age.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Sept. 7, 1962, Pub. L. 87–649, §6(f)(3), 76 Stat. 494; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115; Dec. 5, 1991, Pub. L. 102–190, div. A, title XI, §1116, 105 Stat. 1503.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 102–190, div. A, title XI, §1116, Dec. 5, 1991, 105 Stat. 1503.)
 
 Historical and Revision Notes
 
@@ -62,7 +62,7 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §14(b)(2)), 14(b)(2), (e) (as
 
 In subsection (a), the words “has at least” are substituted for the words “has completed”. The words “and is not so continued on active service” and “on that date which” are omitted as surplusage. 10:600<i>l</i>(b)(2) (last 16 words of last sentence) and 34:430(b)(2) (last 16 words of last sentence) are omitted as covered by section 1315 of this title.
 
-In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
+In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” aresubstituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 
 In subsection (c), the words “the Secretary concerned may defer the retirement” are substituted for the words “in the discretion of the Secretary \* \* \* be continued on active service”. The words “but not later than” are substituted for the words “but not beyond that date which is”.
 

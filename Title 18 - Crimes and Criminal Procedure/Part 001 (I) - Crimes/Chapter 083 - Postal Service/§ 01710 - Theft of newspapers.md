@@ -2,7 +2,7 @@
 
 Whoever, being a Postal Service officer or employee, takes or steals any newspaper or package of newspapers from any post office or from any person having custody thereof, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Aug. 12, 1970, Pub. L. 91–375, §6(j)(20), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, §6(j)(20), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

@@ -8,7 +8,7 @@
 
 #### (2) Funding
 
-&emsp;The Assistance Fund shall be funded through the issuance of debt obligations and payments, as provided in section 2278b–6 of this title, and payments, as provided in section 2278b–8 of this title.
+&emsp;The Assistance Fund shall be funded through the issuance of debt obligations and payments,as provided in section 2278b–6 of this title, and payments, as provided in section 2278b–8 of this title.
 
 #### (b) Financial Assistance Corporation Trust Fund
 

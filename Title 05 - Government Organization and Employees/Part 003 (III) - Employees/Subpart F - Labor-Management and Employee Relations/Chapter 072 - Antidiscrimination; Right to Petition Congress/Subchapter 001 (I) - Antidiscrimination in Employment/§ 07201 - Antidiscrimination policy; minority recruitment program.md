@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) “underrepresentation” means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutes a lower percentage of the total number of employees within the employment category than the percentage that the minority constituted within the labor force of the United States, as determined under the most recent decennial or mid-decade census, or current population survey, under title 13, and
+&emsp;(1) “underrepresentation” means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutesa lower percentage of the total number of employees within the employment category than the percentage that the minority constituted within the labor force of the United States, as determined under the most recent decennial or mid-decade census, or current population survey, under title 13, and
 
 &emsp;(2) “category of civil service employment” means—
 

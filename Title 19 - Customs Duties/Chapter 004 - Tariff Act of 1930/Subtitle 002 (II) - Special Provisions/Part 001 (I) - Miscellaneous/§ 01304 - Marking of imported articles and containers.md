@@ -28,9 +28,9 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 &emsp;&emsp;(I) Such article was produced more than twenty years prior to its importation into the United States;
 
-&emsp;&emsp;(J) Such article is of a class or kind with respect to which the Secretary of the Treasury has given notice by publication in the weekly Treasury Decisions within two yearsafter July 1, 1937, that articles of such class or kind were imported in substantial quantities during the five-year period immediately preceding January 1, 1937, and were not required during such period to be marked to indicate their origin: <i>Provided</i>, That this subdivision shall not apply after September 1, 1938, to sawed lumber and timbers, telephone, trolley, electric-light, and telegraph poles of wood, and bundles of shingles; but the President is authorized to suspend the effectiveness of this proviso if he finds such action required to carry out any trade agreement entered into under the authority of sections 1351, 1352, 1353, 1354 of this title, as extended; or
+&emsp;&emsp;(J) Such article is of a class or kind with respect to which the Secretary of the Treasury has given notice by publication in the weekly Treasury Decisions within two years after July 1, 1937, that articles of such class or kind were imported in substantial quantities during the five-year period immediately preceding January 1, 1937, and were not required during such period to be marked to indicate their origin: <i>Provided</i>, That this subdivision shall not apply after September 1, 1938, to sawed lumber and timbers, telephone, trolley, electric-light, and telegraph poles of wood, and bundles of shingles; but the President is authorized to suspend the effectiveness of this proviso if he finds such action required to carry out any trade agreement entered into under the authority of sections 1351, 1352, 1353, 1354 of this title, as extended; or
 
-&emsp;&emsp;(K) Such article cannot be marked after importation except at any expense which is economically prohibitive, and the failure to mark the article before importation was not due to any purpose of the importer, producer, seller, or shipper to avoid compliance with this section.
+&emsp;&emsp;(K) Such article cannot be marked after importation except at any expense which iseconomically prohibitive, and the failure to mark the article before importation was not due to any purpose of the importer, producer, seller, or shipper to avoid compliance with this section.
 
 #### (b) Marking of containers
 
@@ -124,11 +124,11 @@ Any person who, with intent to conceal the information given thereby or containe
 
 &emsp;(2) upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.
 
-(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Oct. 30, 1984, Pub. L. 98–573, title II, §207, 98 Stat. 2976; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(1), 100 Stat. 2924; Aug. 23, 1988, Pub. L. 100–418, title I, §1907(a)(1), 102 Stat. 1314; Dec. 8, 1993, Pub. L. 103–182, title II, §207(a), 107 Stat. 2096; Oct. 11, 1996, Pub. L. 104–295, §14(a), (b), 110 Stat. 3521, 3522.)
+(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f), (g), and (j)(1)(B)(ii), is not setout in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f), (g), and (j)(1)(B)(ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 
@@ -136,7 +136,7 @@ Provisions dealing with the subject matter of this section and former section 13
 
 #### Amendments
 
-1996—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+1996—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f)as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
 Subsec. (i). Pub. L. 104–295, §14(a)(1), (b), redesignated subsec. (g) as (i) and substituted “subsection (h) of this section” for “subsection (f) of this section”.
 
@@ -212,7 +212,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 &emsp;“(B) The amendments made to the Tariff Act of 1930 by subsection (c) of section 212 \[no subsec. (c) of section 212 was enacted\] shall take effect on such date of enactment \[Oct. 30, 1984\].
 
-“(2) A license in effect on the date of enactment of this Act \[Oct. 30, 1984\] under section 641 of the Tariff Act of 1930 (as in effect before such date of enactment) shall continue in force as a license to transact customsbusiness as a customs broker, subject to all the provisions of section 212 and such licenses shall be accepted as permits for the district or districts covered by that license.
+“(2) A license in effect on the date of enactment of this Act \[Oct. 30, 1984\] under section 641 of the Tariff Act of 1930 (as in effect before such date of enactment) shall continue in force as a license to transact customs business as a customs broker, subject to all the provisions of section 212 and such licenses shall be accepted as permits for the district or districts covered by that license.
 
 “(3) Any proceeding for revocation or suspension of a license instituted under section 641 of the Tariff Act of 1930 before the date of the enactment of this Act \[Oct. 30, 1984\] shall continue and be governed by the law in effect at the time the proceeding was instituted.
 

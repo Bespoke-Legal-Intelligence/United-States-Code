@@ -22,7 +22,7 @@ Section 649, act June 22, 1936, ch. 690, §907, 49 Stat. 1751, related to eviden
 
 Section 650, act June 22, 1936, ch. 690, §908, 49 Stat. 1753, placed limitations on allowance of claims and interest.
 
-Section 651, act June 22, 1936, ch. 690, §909, 49 Stat. 1753, provided that, in absence of fraud or mistake,findings of fact and conclusions of law of Commissioner was conclusive on any other administrative or accounting officer.
+Section 651, act June 22, 1936, ch. 690, §909, 49 Stat. 1753, provided that, in absence of fraud or mistake, findings of fact and conclusions of law of Commissioner was conclusive on any other administrative or accounting officer.
 
 Section 652, act June 22, 1936, ch. 690, §910, 49 Stat. 1753, related to liability of collectors.
 

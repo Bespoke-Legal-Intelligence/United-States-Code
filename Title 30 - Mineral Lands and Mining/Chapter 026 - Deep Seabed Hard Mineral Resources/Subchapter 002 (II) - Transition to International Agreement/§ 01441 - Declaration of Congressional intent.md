@@ -2,7 +2,7 @@
 
 It is the intent of Congress—
 
-&emsp;(1) that any international agreement to which the United States becomes a partyshould, in addition to promoting other national oceans objectives—
+&emsp;(1) that any international agreement to which the United States becomes a party should, in addition to promoting other national oceans objectives—
 
 &emsp;&emsp;(A) provide assured and nondiscriminatory access, under reasonable terms and conditions, to the hard mineral resources of the deep seabed for United States citizens, and
 

@@ -108,5 +108,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1144, 1162, 1163, 1165 of this title; title 38 sections 4317, 4318; title 42 sections 1396a, 1396b, 1396g–1.
+This section is referred to in sections 1144, 1162, 1163, 1165 of this title; title 38 sections 4317, 4318; title 42 sections 1396a, 1396b, 1396g–1, 1397ee.
 

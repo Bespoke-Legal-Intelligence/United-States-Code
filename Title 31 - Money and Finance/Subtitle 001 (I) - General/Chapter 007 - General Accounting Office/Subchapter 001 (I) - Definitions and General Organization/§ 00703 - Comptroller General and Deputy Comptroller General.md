@@ -22,7 +22,7 @@
 
 &emsp;(1) carries out duties and powers prescribed by the Comptroller General; and
 
-&emsp;(2) acts for the Comptroller General when the Comptroller General is absent or unable toserve or when the office of Comptroller General is vacant.
+&emsp;(2) acts for the Comptroller General when the Comptroller General is absent or unable to serve or when the office of Comptroller General is vacant.
 
 (d) The Comptroller General shall designate an officer or employee of the General Accounting Office to act as Comptroller General when the Comptroller General and Deputy Comptroller General are absent or unable to serve or when the offices of Comptroller General and Deputy Comptroller General are vacant.
 
@@ -124,7 +124,7 @@ In subsection (f), before clause (1), the words “basic pay” are substituted 
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1988 Amendment
 

@@ -38,7 +38,7 @@ Education personnel who are under the direction and supervision of the Director 
 
 &emsp;(iv) a system for the conduct of routine preventive maintenance.
 
-(B) The appropriate education line officers shall make arrangements for the maintenance of education facilities with the local supervisors of the Bureau maintenance personnel who are under the authority of the agency superintendent or area directors, respectively. The local supervisors of Bureau maintenance personnel shall take appropriate action to implement the decisions made by the appropriate education line officers, except that no funds under this chapter may be authorized for expenditure unless such appropriate education line officer is assured that the necessary maintenance has been, orwill be, provided in a reasonable manner. Subject to the requirements of subsection (b) of this section, nothing in this Act shall be construed to require the provision of separate operations and maintenance personnel for the Office.
+(B) The appropriate education line officers shall make arrangements for the maintenance of education facilities with the local supervisors of the Bureau maintenance personnel who are under the authority of the agency superintendent or area directors, respectively. The local supervisors of Bureau maintenance personnel shall take appropriate action to implement the decisions made by the appropriate education line officers, except that no funds under this chapter may be authorized for expenditure unless such appropriate education line officer is assured that the necessary maintenance has been, or will be, provided in a reasonable manner. Subject to the requirements of subsection (b) of this section, nothing in this Act shall be construed to require the provision of separate operations and maintenance personnel for the Office.
 
 (3) The requirements of this subsection shall be implemented not later than July 1, 1995.
 
@@ -54,7 +54,7 @@ For the purpose of this section the term “functions” includes powers and dut
 
 #### References in Text
 
-This Act, referred to in subsecs. (b) and (d)(2)(B), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsecs. (b) and (d)(2)(B), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, asamended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
@@ -62,5 +62,5 @@ A prior section 2006, Pub. L. 95–561, title XI, §1126, Nov. 1, 1978, 92 Stat.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2019, 2504 of this title.
+This section is referred to in section 2504 of this title.
 

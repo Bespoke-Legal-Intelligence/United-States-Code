@@ -448,7 +448,7 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 &emsp;The Secretary shall establish a limitation on the amount of Federal medical assistance available to any State during the State's election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1929, as added Nov. 5, 1990, Pub. L. 101–508, title IV, §4711(b), 104 Stat. 1388–174.)
+(Aug. 14, 1935, ch. 531, title XIX, §1929, as added Pub. L. 101–508, title IV, §4711(b), Nov. 5, 1990, 104 Stat. 1388–174.)
 
 #### Codification
 

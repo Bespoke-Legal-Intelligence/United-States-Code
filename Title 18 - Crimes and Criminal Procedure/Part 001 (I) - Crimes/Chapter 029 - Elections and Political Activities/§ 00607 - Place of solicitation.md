@@ -4,7 +4,7 @@
 
 (b) The prohibition in subsection (a) shall not apply to the receipt of contributions by persons on the staff of a Senator or Representative in, or Delegate or Resident Commissioner to, the Congress, provided, that such contributions have not been solicited in any manner which directs the contributor to mail or deliver a contribution to any room, building, or other facility referred to in subsection (a), and provided that such contributions are transferred within seven days of receipt to a political committee within the meaning of section 302(e) of the Federal Election Campaign Act of 1971.
 
-(June 25, 1948, ch. 645, 62 Stat. 722; Jan. 8, 1980, Pub. L. 96–187, title II, §201(a)(5), 93 Stat. 1367; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 96–187, title II, §201(a)(5), Jan. 8, 1980, 93 Stat. 1367; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

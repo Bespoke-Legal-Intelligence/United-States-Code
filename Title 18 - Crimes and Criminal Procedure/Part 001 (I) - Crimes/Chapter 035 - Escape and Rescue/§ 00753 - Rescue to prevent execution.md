@@ -2,7 +2,7 @@
 
 Whoever, by force, sets at liberty or rescues any person found guilty in any court of the United States of any capital crime, while going to execution or during execution, shall be fined under this title or imprisoned not more than twenty-five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 735; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(O), 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 735; Pub. L. 103–322, title XXXIII, §330016(1)(O), Sept. 13, 1994, 108 Stat. 2148.)
 
 #### Historical and Revision Notes
 

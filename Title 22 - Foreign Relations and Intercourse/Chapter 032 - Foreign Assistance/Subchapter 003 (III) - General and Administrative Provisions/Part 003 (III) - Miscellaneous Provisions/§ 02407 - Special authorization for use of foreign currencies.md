@@ -12,7 +12,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 “Section 1306 of title 31” substituted in text for “section 1415 of the Supplemental Appropriation Act, 1953, \[31 U.S.C. 724\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-

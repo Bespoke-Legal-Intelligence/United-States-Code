@@ -8,7 +8,7 @@
 
 #### (b) Warrants
 
-For purposes of enforcing the provisions of this subchapter and upon a showing to an officer or court of competent jurisdiction that there is reason to believe that the provisions of this subchapter have been violated, officers or employees duly designated by the Administrator are empowered to obtain and to execute warrants authorizing—
+For purposes of enforcing the provisions of this subchapter and upon a showing to an officeror court of competent jurisdiction that there is reason to believe that the provisions of this subchapter have been violated, officers or employees duly designated by the Administrator are empowered to obtain and to execute warrants authorizing—
 
 &emsp;(1) entry, inspection, and copying of records for purposes of this section or section 136f of this title;
 
@@ -30,7 +30,7 @@ For purposes of enforcing the provisions of this subchapter and upon a showing t
 
 &emsp;Nothing in this subchapter shall be construed as requiring the Administrator to institute proceedings for prosecution of minor violations of this subchapter whenever the Administrator believes that the public interest will be adequately served by a suitable written notice of warning.
 
-(June 25, 1947, ch. 125, §9, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 988; amended Oct. 25, 1988, Pub. L. 100–532, title III, §302, 102 Stat. 2669; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(b)(1), (3)(H), (I), 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, §9, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 988; amended Pub. L. 100–532, title III, §302, Oct. 25, 1988, 102 Stat. 2669; Pub. L. 102–237, title X, §1006(b)(1), (3)(H), (I), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 #### Prior Provisions
 

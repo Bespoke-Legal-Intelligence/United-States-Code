@@ -38,7 +38,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 (2) Nothing in this chapter (other than paragraph (3) of this subsection) shall be deemed to authorize the Commission to prescribe the duration of written warranties given or to require that a consumer product or any of its components be warranted.
 
-(3) The Commission may prescribe rules for extending the period of time a written warranty or service contract is in effect to correspond with any period of time in excess of a reasonable period (not less than 10 days) during which the consumer is deprived of the use of such consumer product by reason of failure of the product to conform with the written warranty or by reason of the failure of the warrantor (or service contractor) to carry out such warranty (or service contract) within the period specified in the warranty (or service contract).
+(3) The Commission may prescribe rules for extending the period of time a written warranty or service contract is in effect to correspond with any period of time in excess of a reasonable period (not less than 10 days) during which theconsumer is deprived of the use of such consumer product by reason of failure of the product to conform with the written warranty or by reason of the failure of the warrantor (or service contractor) to carry out such warranty (or service contract) within the period specified in the warranty (or service contract).
 
 #### (c) Prohibition on conditions for written or implied warranty; waiver by Commission
 

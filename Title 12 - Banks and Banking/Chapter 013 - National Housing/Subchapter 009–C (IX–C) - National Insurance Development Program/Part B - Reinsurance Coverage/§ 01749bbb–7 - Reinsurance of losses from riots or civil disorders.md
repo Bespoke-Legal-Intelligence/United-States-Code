@@ -16,7 +16,7 @@ Reinsurance coverage under this section may be provided immediately following Au
 
 #### (c) Participation in State plan or pool
 
-No reinsurance shall be offered to any insurer or pool in a State after the expiration of the written binder entered into under subsection (b) of this section, unless there is in effect in such State a plan as set forth under part A and the insurer or pool is participating in such plan, and unless, in the case of an insurer in a State where a pool has been established pursuant to State Law, the insurer is participating in such a pool.
+No reinsurance shall be offered to any insurer or pool in a State after the expiration of the written binder entered into under subsection (b)of this section, unless there is in effect in such State a plan as set forth under part A and the insurer or pool is participating in such plan, and unless, in the case of an insurer in a State where a pool has been established pursuant to State Law, the insurer is participating in such a pool.
 
 (June 27, 1934, ch. 847, title XII, §1221, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 560; amended Pub. L. 91–609, title VI, §602(c), Dec. 31, 1970, 84 Stat. 1789; Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230.)
 

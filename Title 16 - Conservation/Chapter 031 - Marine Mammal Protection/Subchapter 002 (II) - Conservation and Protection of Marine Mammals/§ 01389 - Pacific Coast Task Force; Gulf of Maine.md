@@ -64,7 +64,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 > The Secretary shall conclude this investigation and prepare a report on its results no later than October 1, 1995.
 
-(2) Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, on behalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine andFisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(2) Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, on behalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (3) The Secretary shall make the report and the recommendations submitted under paragraph (2) available to the public for review and comment for a period of 90 days.
 
@@ -112,7 +112,7 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 1531 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (i)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -20,7 +20,7 @@
 
 The Secretary shall develop procedures to coordinate evaluations under this section, to the extent feasible, with evaluations by the States of the effectiveness of programs under this subpart.
 
-(Aug. 14, 1935, ch. 531, title IV, §435, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(a)(2), 107 Stat. 654.)
+(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654.)
 
 #### References in Text
 

@@ -26,5 +26,5 @@ There are authorized to be appropriated to carry out this section—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14214 of this title.
+This section is referred to in sections 14071, 14214 of this title.
 

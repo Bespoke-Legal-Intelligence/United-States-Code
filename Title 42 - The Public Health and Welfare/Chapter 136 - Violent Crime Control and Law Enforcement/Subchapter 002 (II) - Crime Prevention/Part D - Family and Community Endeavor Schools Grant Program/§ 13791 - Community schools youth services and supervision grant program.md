@@ -38,11 +38,11 @@ In this section—
 
 &emsp;“poverty line” means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title <sup>1</sup> applicable to a family of the size involved.
 
-&emsp;“public school” means a public elementary school, as defined in section 1141(i) of title 20, and a public secondary school, as defined in section 1141(d) of title 20.
+&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20, and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
 
 &emsp;“Secretary” means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
 
-&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern MarianaIslands, American Samoa, Guam, and the United States Virgin Islands.
+&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands.
 
 #### (c) Program authority
 
@@ -88,7 +88,7 @@ In this section—
 
 &emsp;&emsp;(A) shall use funds made available through the grant to provide, to children in the eligible community, services and activities that—
 
-&emsp;&emsp;&emsp;(i) <sup>2</sup> shall include supervised sports programs, and extracurricular and academic programs, that are offered—
+&emsp;&emsp;&emsp;(i) <sup>3</sup> shall include supervised sports programs, and extracurricular and academic programs, that are offered—
 
 &emsp;&emsp;&emsp;&emsp;(I) after school and on weekends and holidays, during the school year; and
 
@@ -126,7 +126,7 @@ In this section—
 
 &emsp;&emsp;(A) describe the activities and services to be provided through the program for which the grant is sought;
 
-&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organization determines will best accomplish the objectives of this section;
+&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organizationdetermines will best accomplish the objectives of this section;
 
 &emsp;&emsp;(C) contain a comprehensive plan for the program that is designed to achieve identifiable goals for children in the eligible community;
 
@@ -176,7 +176,7 @@ In this section—
 
 &emsp;&emsp;(M) contain an assurance that the program will maintain an average attendance rate of not less than 75 percent of the participants enrolled in the program, or will enroll additional participants in the program;
 
-&emsp;&emsp;(N) contain an assurance that the community-based organization will comply with any evaluation under subsection (m) <sup>3</sup> of this section, any research effort authorized under Federal law, and any investigation by the Secretary;
+&emsp;&emsp;(N) contain an assurance that the community-based organization will comply with any evaluation under subsection (m) <sup>4</sup> of this section, any research effort authorized under Federal law, and any investigation by the Secretary;
 
 &emsp;&emsp;(O) contain an assurance that the community-based organization shall prepare and submit to the Secretary an annual report regarding any program conducted under this section;
 
@@ -206,7 +206,7 @@ In this section—
 
 #### (1) Establishment
 
-&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designing and implementing community-based programs.
+&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designingand implementing community-based programs.
 
 #### (2) Composition
 
@@ -274,7 +274,7 @@ The Secretary shall conduct a thorough evaluation of the programs assisted under
 
 &emsp;(4) the number of such children being processed by the juvenile justice system.
 
-(Pub. L. 103–322, title III, §30401, Sept. 13, 1994, 108 Stat. 1846.)
+(Pub. L. 103–322, title III, §30401, Sept. 13, 1994, 108 Stat. 1846; Pub. L. 105–244, title I, §102(a)(13)(N), Oct. 7, 1998, 112 Stat. 1621.)
 
 #### References in Text
 
@@ -282,13 +282,25 @@ This subchapter, referred to in subsec. (b), was in the original “this title�
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
+Section 1001 of title 20, referred to in subsec. (b), does not have a subsec. (d) or (i) and does not define “elementary school” or “secondary school”. However, such terms are defined in section 1003 of Title 20, Education.
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–244 substituted “section 1001(i)” for “section 1141(i)” and “section 1001(d)” for “section 1141(d)” in definition for “public school”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13793, 14214 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>2</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be subsection “(k)”.</i>
+<i><sup>3</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be subsection “(k)”.</i>
 

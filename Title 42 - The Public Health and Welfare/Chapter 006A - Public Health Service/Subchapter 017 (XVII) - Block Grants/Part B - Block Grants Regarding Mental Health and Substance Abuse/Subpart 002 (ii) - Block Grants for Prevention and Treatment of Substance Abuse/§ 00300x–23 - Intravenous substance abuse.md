@@ -18,7 +18,7 @@
 
 A funding agreement for a grant under section 300x–21 of this title is that the State involved, in providing amounts from the grant to any entity for treatment services for intravenous drug abuse, will require the entity to carry out activities to encourage individuals in need of such treatment to undergo treatment.
 
-(July 1, 1944, ch. 373, title XIX, §1923, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 390.)
+(July 1, 1944, ch. 373, title XIX, §1923, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 390.)
 
 #### Prior Provisions
 

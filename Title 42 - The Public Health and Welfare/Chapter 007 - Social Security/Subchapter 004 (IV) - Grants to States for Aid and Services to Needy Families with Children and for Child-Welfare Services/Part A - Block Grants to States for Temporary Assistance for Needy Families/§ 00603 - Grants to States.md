@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) the Federal share of expenditures for the fiscal year with respect to child care pursuant to subsections (g) and (i) of former section 602 of this title (as in effect on September 30, 1995), as reported by the State on ACF Form 231; and
 
-&emsp;&emsp;&emsp;&emsp;(V) the Federal obligations made to the State under section 603 of this title for the fiscal year with respect to the State program operated under part F of this subchapter (as in effect on September 30, 1995), as determined by the Secretary, including additional obligationsor reductions in obligations made after the close of the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(V) the Federal obligations made to the State under section 603 of this title for the fiscal year with respect to the State program operated under part F of this subchapter (as in effect on September 30, 1995), as determined by the Secretary, including additional obligations or reductions in obligations made after the close of the fiscal year; and
 
 &emsp;&emsp;&emsp;(ii) in the case of a State to which section 1308 of this title applies, the lesser of—
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;Each qualifying State shall, subject to subparagraph (F), be entitled to receive from the Secretary—
 
-&emsp;&emsp;&emsp;(i) for fiscal year 1998 a grant in an amount equal to 2.5 percent of the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994; and
+&emsp;&emsp;&emsp;(i) for fiscal year 1998 a grant in an amount equal to 2.5 percent of the total amount required to be paid to the Stateunder former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994; and
 
 &emsp;&emsp;&emsp;(ii) for each of fiscal years 1999, 2000, and 2001, a grant in an amount equal to the sum of—
 
@@ -222,7 +222,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall make a grant pursuant to this paragraph to each State for each bonus year for which the State is a high performing State.
+&emsp;&emsp;The Secretary shall make a grant pursuant to this paragraph to each State for eachbonus year for which the State is a high performing State.
 
 #### (B) Amount of grant
 
@@ -280,7 +280,7 @@
 
 #### (ii) Welfare-to-work State
 
-&emsp;&emsp;&emsp;A State shall be considered a welfare-to-work State for a fiscal year for purposes ofthis paragraph if the Secretary of Labor determines that the State meets the following requirements:
+&emsp;&emsp;&emsp;A State shall be considered a welfare-to-work State for a fiscal year for purposes of this paragraph if the Secretary of Labor determines that the State meets the following requirements:
 
 &emsp;&emsp;&emsp;&emsp;(I) The State has submitted to the Secretary of Labor and the Secretary of Health and Human Services (in the form of an addendum to the State plan submitted under section 602 of this title) a plan which—
 
@@ -292,7 +292,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) contains assurances by the Governor of the State that the private industry council (and any alternate agency designated by the Governor under item (ee)) for a service delivery area in the State will coordinate the expenditure of any funds provided under this subparagraph for the benefit of the service delivery area with the expenditure of the funds provided to the State under paragraph (1); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agencydesignated by the Governor to so administer the funds.
 
 &emsp;&emsp;&emsp;&emsp;(II) The State has provided to the Secretary of Labor an estimate of the amount that the State intends to expend during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant (excluding expenditures described in section 609(a)(7)(B)(iv) of this title (other than subclause (III) thereof)) pursuant to this paragraph.
 
@@ -326,7 +326,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (F) for the immediately preceding fiscal year that has not been obligated; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any available amount for the immediately preceding fiscal year that has not been obligated by a State or sub-State entity.
+&emsp;&emsp;&emsp;&emsp;(II) any available amount for the immediately preceding fiscal year that has not been obligated by a State, other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State.
 
 #### (v) State percentage
 
@@ -366,7 +366,7 @@
 
 #### (I) Private industry councils
 
-&emsp;&emsp;&emsp;&emsp;The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as described in section 103(c) of the Job Training Partnership Act \[29 U.S.C. 1513(c)\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
+&emsp;&emsp;&emsp;&emsp;The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as described in section 103(c) of the Job Training Partnership Act \[29 U.S.C. 1513(c)\] or defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
 
 #### (II) Enforcement of coordination of expenditures with other expenditures under this part
 
@@ -384,6 +384,10 @@
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the number of adult recipients of assistance under a State program funded under this part for a fiscal year shall be determined using data for the most recent 12-month period for which such data is available before the beginning of the fiscal year.
 
+#### (ix) Reversion of unallotted formula funds
+
+&emsp;&emsp;&emsp;If at the end of any fiscal year any funds available under this subparagraph have not been allotted due to a determination by the Secretary that any State has not met the requirements of clause (ii), such funds shall be transferred to the General Fund of the Treasury of the United States.
+
 #### (B) Competitive grants
 
 #### (i) In general
@@ -394,7 +398,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) expanding the base of knowledge about programs aimed at moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) moving recipients of assistance under State programs funded underthis part who are least job ready into unsubsidized employment; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment, even in labor markets that have a shortage of low-skill jobs.
 
@@ -456,9 +460,9 @@
 
 #### (ii) Required beneficiaries
 
-&emsp;&emsp;&emsp;An entity that operates a project with funds provided under this paragraph shall expend at least 70 percent of all funds provided to the project for the benefit of recipients of assistance under the program funded under this part of the State in which the entity is located, or for the benefit of noncustodial parents of minors whose custodial parent is such a recipient, who meet the requirements of each of the following subclauses:
+&emsp;&emsp;&emsp;An entity that operates a project with funds provided under this paragraph shall expend at least 70 percent of all funds provided to the project for the benefit of recipients of assistance under the program funded under this part of the State in which the entity is located, or for the benefit of noncustodial parents, who meet the requirements of each of the following subclauses:
 
-&emsp;&emsp;&emsp;&emsp;(I) At least 2 of the following apply to the recipient:
+&emsp;&emsp;&emsp;&emsp;(I) At least 2 of the following apply to the recipient or the noncustodial parent:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) The individual has not completed secondary school or obtained a certificate of general equivalency, and has low skills in reading or mathematics.
 
@@ -466,9 +470,9 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) The individual has a poor work history.
 
-&emsp;&emsp;&emsp;&emsp;(II) The individual—
+&emsp;&emsp;&emsp;&emsp;(II) The recipient or the minor children of the noncustodial parent—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has received assistance under the State program funded under thispart (whether in effect before or after the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first apply to the State) for at least 30 months (whether or not consecutive); or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has received assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first apply to the State) for at least 30 months (whether or not consecutive); or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) within 12 months, will become ineligible for assistance under the State program funded under this part by reason of a durational limit on such assistance, without regard to any exemption provided pursuant to section 608(a)(7)(C) of this title that may apply to the individual.
 
@@ -476,7 +480,7 @@
 
 &emsp;&emsp;&emsp;An entity that operates a project with funds provided under this paragraph may expend not more than 30 percent of all funds provided to the project for programs that provide assistance in a form described in clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) to recipients of assistance under the program funded under this part of the State in which the entity is located who have characteristics associated with long-term welfare dependence (such as school dropout, teen pregnancy, or poor work history), including, at the option of the State, by providing assistance in such form as a condition of receiving assistance under the State program funded under this part; or
+&emsp;&emsp;&emsp;&emsp;(I) to recipients of assistance under the program funded under this part of the State in which the entity is located whohave characteristics associated with long-term welfare dependence (such as school dropout, teen pregnancy, or poor work history), including, at the option of the State, by providing assistance in such form as a condition of receiving assistance under the State program funded under this part; or
 
 &emsp;&emsp;&emsp;&emsp;(II) to individuals—
 
@@ -528,11 +532,11 @@
 
 #### (ii) Private industry council
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council (or successor entity) established for the service delivery area pursuant to the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+&emsp;&emsp;&emsp;As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Area <sup>1</sup> of 1998 \[29 U.S.C. 2801 et seq.\], as appropriate.
 
 #### (iii) Service delivery area
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “service delivery area” shall have the meaning given such term (or the successor to such term) for purposes of the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+&emsp;&emsp;&emsp;As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998 \[29 U.S.C. 2801\], as appropriate.
 
 #### (E) Set-aside for successful performance bonus
 
@@ -622,7 +626,7 @@
 
 #### (II) Prohibition against violation of contracts
 
-&emsp;&emsp;&emsp;&emsp;A work activity engaged in under a program operated with funds providedunder this paragraph shall not violate an existing contract for services or a collective bargaining agreement, and such a work activity that would violate a collective bargaining agreement shall not be undertaken without the written concurrence of the labor organization and employer concerned.
+&emsp;&emsp;&emsp;&emsp;A work activity engaged in under a program operated with funds provided under this paragraph shall not violate an existing contract for services or a collective bargaining agreement, and such a work activity that would violate a collective bargaining agreement shall not be undertaken without the written concurrence of the labor organization and employer concerned.
 
 #### (III) Other prohibitions
 
@@ -630,7 +634,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) when any other individual is on layoff from the same or any substantially equivalent job;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the employer has terminated the employment of any regular employee or otherwise caused an involuntary reduction in its workforce with the intention of filling the vacancy so created with the participant; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the employer has terminated the employment of any regular employee or otherwise caused an involuntary reduction in its workforce withthe intention of filling the vacancy so created with the participant; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) if the employer has caused an involuntary reduction to less than full time in hours of any employee in the same or a substantially equivalent job.
 
@@ -710,7 +714,7 @@
 
 #### (ii) Payments to all States
 
-&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years 1997 through 2001 shall not exceed the total amount appropriated pursuant to paragraph (2).
+&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years1997 through 2001 shall not exceed the total amount appropriated pursuant to paragraph (2).
 
 #### (4) “Eligible month” defined
 
@@ -814,7 +818,19 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2115; amended Oct. 19, 1996, Pub. L. 104–327, §1(b), 110 Stat. 4002; Aug. 5, 1997, Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), 111 Stat. 577, 606, 620; Nov. 13, 1997, Pub. L. 105–78, title VI, §608, 111 Stat. 1522; Nov. 19, 1997, Pub. L. 105–89, title IV, §404(a), (b), 111 Stat. 2134.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928.)
+
+#### Amendment of Subsection (a)(5)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(22), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (a)(5) of this section is amended as follows:</i>
+
+<i>(1) in subparagraph (A)(vii)(I), by striking “described in section 103(c) of the Job Training Partnership Act or”; and</i>
+
+<i>(2) in subparagraph (D)—</i>
+
+<i>(A) in clause (ii), by striking “the Job Training Partnership Act or”; and</i>
+
+<i>(B) in clause (iii), by striking “shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate”.</i>
 
 #### References in Text
 
@@ -824,6 +840,8 @@ Section 103(a) of the Personal Responsibility and Work Opportunity Reconciliatio
 
 The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(ii), (iii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
 Titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(5)(B), are titles IV (§400 et seq.) and VIII (§801 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, 2308. For complete classification of these titles to the Code, see Tables.
 
 #### Prior Provisions
@@ -831,6 +849,22 @@ Titles IV and VIII of the Personal Responsibility and Work Opportunity Reconcili
 A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
+
+1998—Subsec. (a)(5)(A)(iv)(II). Pub. L. 105–306 substituted “, other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State” for “or sub-State entity”.
+
+Subsec. (a)(5)(A)(vii)(I). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(A)\], substituted “(as described in section 103(c) of the Job Training Partnership Act or defined in section 101 of the Workforce Investment Act of 1998)” for “(as described in section 103(c) of the Job Training Partnership Act)”.
+
+Subsec. (a)(5)(A)(ix). Pub. L. 105–277, §101(f) \[title I, §102\], added cl. (ix).
+
+Subsec. (a)(5)(C)(ii). Pub. L. 105–200, §408(1), struck out “of minors whose custodial parent is such a recipient” after “noncustodial parents” in introductory provisions.
+
+Subsec. (a)(5)(C)(ii)(I). Pub. L. 105–200, §408(2), inserted “or the noncustodial parent” after “recipient” in introductory provisions.
+
+Subsec. (a)(5)(C)(ii)(II). Pub. L. 105–200, §408(3), substituted “The recipient or the minor children of the noncustodial parent—” for “The individual—” in introductory provisions.
+
+Subsec. (a)(5)(D)(ii). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(i)\], substituted “means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to the Job Training Partnership Act or title I of the Workforce Investment Area of 1998, as appropriate” for “means, with respect to a service delivery area, the private industry council (or successor entity) established for the service delivery area pursuant to the Job Training Partnership Act”.
+
+Subsec. (a)(5)(D)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(ii)\], substituted “shall have the meaning given such term for purposes of the Job Training Partnership Act or shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate” for “shall have the meaning given such term (or the successor to such term) for purposes of the Job Training Partnership Act”.
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -848,7 +882,7 @@ If 5 eligible States.—If there are 5 eligible States for a bonus year, the amo
 
 If fewer than 5 eligible States.—If there are fewer than 5 eligible States for a bonus year, the amount of the grant shall be $25,000,000.”
 
-Subsec. (a)(2)(C)(i)(I)(aa). Pub. L. 105–33, §5502(b)(3)(A)(i), substituted “illegitimacy ratio of theState for” for “number of out-of-wedlock births that occurred in the State during” and “illegitimacy ratio of the State for” for “number of such births that occurred during”.
+Subsec. (a)(2)(C)(i)(I)(aa). Pub. L. 105–33, §5502(b)(3)(A)(i), substituted “illegitimacy ratio of the State for” for “number of out-of-wedlock births that occurred in the State during” and “illegitimacy ratio of the State for” for “number of such births that occurred during”.
 
 Pub. L. 105–33, §5502(a)(2), inserted at end “In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to the magnitude of the corresponding decrease for any such territory.”
 
@@ -894,6 +928,12 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.”
 
 Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted “the sum of” before “the expenditures” and “, and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990” before “; exceeds”.
 
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–306, §6(b), Oct. 28, 1998, 112 Stat. 2928, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 5001 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
+
+Amendment by section 101(f) \[title VIII, §405(d)(30)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(22)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1997 Amendments
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
@@ -908,9 +948,11 @@ Section 1(d) of Pub. L. 104–327 provided that: “The amendments made by this 
 
 #### Effective Date
 
-Subsec. (a)(1)(C), (D) of this section effective Oct. 1, 1996, and remainder of this section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Subsec. (a)(1)(C), (D) of this section effective Oct. 1, 1996, and remainder of this section effective July 1,1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 602, 604, 605, 606, 607, 608, 609, 611, 611a, 612, 613, 615, 618, 673, 1308, 1319 of this title.
+This section is referred to in sections 602, 604, 605, 606, 607, 608, 609, 611, 611a, 612, 613, 615, 618, 673, 1308, 1319 of this title; title 7 section 2025; title 29 sections 2841, 2864.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Act”.</i>
 

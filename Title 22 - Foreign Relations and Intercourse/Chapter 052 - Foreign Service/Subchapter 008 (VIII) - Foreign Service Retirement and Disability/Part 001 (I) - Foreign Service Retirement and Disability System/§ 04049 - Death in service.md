@@ -54,5 +54,5 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4009, 4056, 4066 of this title.
+This section is referred to in sections 4009, 4046, 4056, 4066 of this title.
 

@@ -2,7 +2,7 @@
 
 Temporary quarters may be furnished on a rental basis to transient members of the naval service with their dependents, for periods not exceeding 60 days, without loss of entitlement to basic allowance for housing under section 403 of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Nov. 18, 1997, Pub. L. 105–85, div. A, title VI, §603(d)(2)(E), 111 Stat. 1783.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Pub. L. 105–85, div. A, title VI, §603(d)(2)(E), Nov. 18, 1997, 111 Stat. 1783.)
 
 Historical and Revision Notes
 

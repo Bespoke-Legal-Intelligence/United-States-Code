@@ -6,7 +6,7 @@
 
 (c) Any branch, office, or officer designated by the Secretary may sell medical and hospital supplies to the Armed Forces Retirement Home.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 259; June 4, 1968, Pub. L. 90–329, 82 Stat. 170; Dec. 12, 1980, Pub. L. 96–513, title V, §512(18)(A), (B), 94 Stat. 2930; Nov. 5, 1990, Pub. L. 101–510, div. A, title XV, §1533(a)(5)(A), (B), 104 Stat. 1734.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 259; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §512(18)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 101–510, div. A, title XV, §1533(a)(5)(A), (B), Nov. 5, 1990, 104 Stat. 1734.)
 
 Historical and Revision Notes
 
@@ -65,8 +65,6 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Cross References
-
-American National Red Cross, see section 1 et seq. of Title 36, Patriotic Societies and Observances.
 
 Armed Forces Retirement Home, see section 401 et seq. of Title 24, Hospitals and Asylums.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established for the House of Representatives a single allowance, to be known asthe “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
+There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
 
 #### (b) Merger
 
@@ -25,6 +25,10 @@ This section shall take effect on September 1, 1995 and shall apply with respect
 #### Prior Provisions
 
 A prior section 57b, Pub. L. 104–53, title III, §314, Nov. 19, 1995, 109 Stat. 538, provided that, effective Sept. 1, 1995, Committee on House Oversight of House of Representatives had authority to combine House of Representatives Clerk Hire Allowance, Official Expenses Allowance, and Official Mail Allowance into single allowance, to be known as the “Members’ Representational Allowance” and to prescribe regulations relating to allocations, expenditures, and other matters with respect to Members’ Representational Allowance.
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Cross References
 

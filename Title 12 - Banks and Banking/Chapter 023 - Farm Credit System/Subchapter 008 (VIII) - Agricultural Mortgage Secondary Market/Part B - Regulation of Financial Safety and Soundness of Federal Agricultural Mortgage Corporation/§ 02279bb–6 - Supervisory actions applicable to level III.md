@@ -18,7 +18,7 @@
 
 #### (B) Standard for approval
 
-&emsp;&emsp;If the Corporation is classified as within level III, the Director may approve a payment of dividends by the Corporation only if the Director determines that the payment (i) will enhance the ability of the Corporation to meet the risk-based capital level andthe minimum capital level promptly, (ii) will contribute to the long-term safety and soundness of the Corporation, or (iii) is otherwise in the public interest.
+&emsp;&emsp;If the Corporation is classified as within level III, the Director may approve a payment of dividends by the Corporation only if the Director determines that the payment (i) will enhance the ability of the Corporation to meet the risk-based capital level and the minimum capital level promptly, (ii) will contribute to the long-term safety and soundness of the Corporation, or (iii) is otherwise in the public interest.
 
 #### (3) Reclassification from level III to level IV
 

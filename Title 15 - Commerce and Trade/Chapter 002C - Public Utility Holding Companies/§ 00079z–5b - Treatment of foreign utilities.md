@@ -60,11 +60,11 @@ Nothing in this section shall—
 
 #### (1) Filing of reports
 
-&emsp;A public utility company that is an associate company of a foreign utility company shall file with the Commission such reports (with respect to such foreign utility company) as the Commission may by rules, regulations, or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers.
+&emsp;A public utility company that is an associate company of a foreign utility companyshall file with the Commission such reports (with respect to such foreign utility company) as the Commission may by rules, regulations, or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers.
 
 #### (2) Notice of acquisitions
 
-&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate companyof a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
+&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate company of a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
 
 #### (f) Prohibition on assumption of liabilities
 
@@ -86,7 +86,7 @@ Nothing in this section shall—
 
 No public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates shall pledge or encumber any utility assets or utility assets of any subsidiary thereof for the benefit of an associate foreign utility company.
 
-(Aug. 26, 1935, ch. 687, title I, §33, as added Oct. 24, 1992, Pub. L. 102–486, title VII, §715, 106 Stat. 2912.)
+(Aug. 26, 1935, ch. 687, title I, §33, as added Pub. L. 102–486, title VII, §715, Oct. 24, 1992, 106 Stat. 2912.)
 
 #### References in Text
 

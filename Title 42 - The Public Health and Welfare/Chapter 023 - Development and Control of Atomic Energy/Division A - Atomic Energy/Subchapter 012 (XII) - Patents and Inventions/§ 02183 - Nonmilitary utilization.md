@@ -2,7 +2,7 @@
 
 #### (a) Declaration of public interest
 
-The Commission may, after giving the patent owner an opportunity for a hearing, declare any patent to be affected with the public interest if (1) the invention or discovery covered by the patent is of primary importance in the production or utilization of special nuclear material or atomic energy; and (2) the licensing of such invention or discovery under this section is of primary importance to effectuate the policies and purposes of this chapter.
+The Commission may, after giving the patent owner an opportunity for a hearing, declare anypatent to be affected with the public interest if (1) the invention or discovery covered by the patent is of primary importance in the production or utilization of special nuclear material or atomic energy; and (2) the licensing of such invention or discovery under this section is of primary importance to effectuate the policies and purposes of this chapter.
 
 #### (b) Action by Commission
 
@@ -62,11 +62,11 @@ The owner of the patent affected by a declaration or a finding made by the Commi
 
 The provisions of this section shall apply to any patent the application for which shall have been filed before September 1, 1979.
 
-(Aug. 1, 1946, ch. 724, title I, §153, as added Aug. 20, 1954, ch. 1073, §1, 68 Stat. 945; amended June 23, 1959, Pub. L. 86–50, §114, 73 Stat. 87; Aug. 1, 1964, Pub. L. 88–394, §1, 78 Stat. 376; Dec. 24, 1969, Pub. L. 91–161, §1, 83 Stat. 444; Aug. 17, 1974, Pub. L. 93–377, §6, 88 Stat. 475; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §153, as added Aug. 20, 1954, ch. 1073, §1, 68 Stat. 945; amended Pub. L. 86–50, §114, June 23, 1959, 73 Stat. 87; Pub. L. 88–394, §1, Aug. 1, 1964, 78 Stat. 376; Pub. L. 91–161, §1, Dec. 24, 1969, 83 Stat. 444; Pub. L. 93–377, §6, Aug. 17, 1974, 88 Stat. 475; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1811(c)(1), (2) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1811(c)(1), (2) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
@@ -84,5 +84,5 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2184, 2186, 2187, 2239, 2297c–4 of this title.
+This section is referred to in sections 2184, 2186, 2187, 2239 of this title.
 

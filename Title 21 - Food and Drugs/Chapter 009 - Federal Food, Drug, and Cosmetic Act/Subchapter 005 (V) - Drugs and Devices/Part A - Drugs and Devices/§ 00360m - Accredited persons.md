@@ -126,7 +126,7 @@ Implementation of program.—Not later than 5 years after the date of the enactm
 
 &emsp;“(B)
 
-Evaluation of program.—Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(c)\] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the ComptrollerGeneral shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act \[21 U.S.C. 301 et seq.\] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
+Evaluation of program.—Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360m(c)\] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the Comptroller General shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act \[21 U.S.C. 301 et seq.\] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
 
 “(2)
 

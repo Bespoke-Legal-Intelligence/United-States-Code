@@ -14,7 +14,7 @@ The Commission may, in its discretion and upon a showing that such information i
 
 #### (d) Records obtained from foreign securities authorities
 
-Except as provided in subsection (e) of this section, the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Except as provided in subsection (e) of this section, the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding.For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Savings provision
 
@@ -24,7 +24,7 @@ Nothing in this section shall—
 
 &emsp;(2) authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
-(June 6, 1934, ch. 404, title I, §24, 48 Stat. 901; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 4, 1975, Pub. L. 94–29, §19, 89 Stat. 158; Nov. 15, 1990, Pub. L. 101–550, title II, §202(a), 104 Stat. 2715.)
+(June 6, 1934, ch. 404, title I, §24, 48 Stat. 901; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 94–29, §19, June 4, 1975, 89 Stat. 158; Pub. L. 101–550, title II, §202(a), Nov. 15, 1990, 104 Stat. 2715.)
 
 #### References in Text
 

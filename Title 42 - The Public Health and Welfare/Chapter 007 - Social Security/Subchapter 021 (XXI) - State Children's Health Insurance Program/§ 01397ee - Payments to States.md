@@ -120,7 +120,7 @@ The Secretary may make payments under this section for each quarter on the basis
 
 Nothing in this section or subsections (e) and (f) of section 1397dd of this title shall be construed as preventing a State from claiming as expenditures in the quarter expenditures that were incurred in a previous quarter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 560; amended Nov. 19, 1997, Pub. L. 105–100, title I, §162(5), (7), 111 Stat. 2189, 2190.)
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ It is the purpose of this part—
 
 &emsp;(2) to provide financial assistance to enable educational agencies and institutions to meet the requirements of title IX of the Educational Amendments of 1972 \[20 U.S.C. 1681 et seq.\]; and
 
-&emsp;(3) to promote equity in education for women and girls who suffer from multipleforms of discrimination based on sex, race, ethnic origin, limited-English proficiency, disability, or age.
+&emsp;(3) to promote equity in education for women and girls who suffer from multiple forms of discrimination based on sex, race, ethnic origin, limited-English proficiency, disability, or age.
 
 (Pub. L. 89–10, title V, §5202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3696.)
 

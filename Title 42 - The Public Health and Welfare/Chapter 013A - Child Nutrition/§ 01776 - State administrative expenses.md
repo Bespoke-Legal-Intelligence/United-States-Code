@@ -8,19 +8,25 @@
 
 (3) The Secretary shall allocate to each State for its administrative costs incurred under the program authorized by section 17 of the National School Lunch Act \[42 U.S.C. 1766\] in any fiscal year an amount, based upon funds expended under that program in the second preceding fiscal year, equal to (A) 20 percent of the first $50,000, (B) 10 percent of the next $100,000, (C) 5 percent of the next $250,000, and (D) 21/2 percent of any remaining funds. If an agency in the State other than the State educational agency administers such program, the State shall ensure that an amount equal to no less than the funds due the State under this paragraph is provided to such agency for costs incurred by such agency in administering the program, except as provided in paragraph (5). The Secretary may adjust any State's allocation to reflect changes in the size of its program.
 
-(4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
+(4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the National School Lunch Act\[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
 
 (5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
 
-(B)(i) In the fiscal year 1991 and each succeeding fiscal year, any amounts appropriated that are not obligated or expended during such fiscal year and are not carried over for the succeeding fiscal year under subparagraph (A) shall be returned to the Secretary. From any amounts returned to the Secretary under the preceding sentence:
+(B)
 
-&emsp;(I) The Secretary shall allocate, for the purpose of providing grants on an annual basis to public entities and private nonprofit organizations participating in projects under section 17B of the National School Lunch Act \[42 U.S.C. 1766b\], not more than $4,000,000 in fiscal year 1995 and each subsequent fiscal year. Subject to the maximum allocation for the projects for each fiscal year, at the beginning of fiscal year 1995 and each subsequent fiscal year, the Secretary shall allocate, from funds available under this section that have not been otherwise allocated to the States, an amount equal to the estimates by the Secretary of funds to be returned under this clause, but not less than $1,000,000 in each fiscal year. To the extent that amounts returned to the Secretary are less than estimated or are insufficient to meet the needs of the projects, the Secretary may, subject to the maximum allocations established in this subclause, allocate amounts to meet the needs of the projects from funds available under this section that have not been otherwise allocated to States.
+Reallocation of funds.—
 
-&emsp;(II) After making the allocations under subclause (I), the Secretary shall allocate, for purposes of administrative costs, any remaining amounts among States that demonstrate a need for such amounts.
+&emsp;(i)
 
-(ii) In any fiscal year in which amounts returned to the Secretary under the first sentence of clause (i) are insufficient to provide the complete allocation described in clause (i)(I), all of such amounts shall be allocated for the purpose described in clause (i)(I).
+Return to secretary.—For each fiscal year, any amounts appropriated that are not obligated or expended during the fiscal year and are not carried over for the succeeding fiscal year under subparagraph (A) shall be returned to the Secretary.
 
-(6) Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act \[42 U.S.C. 1761(k)(1)\]shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs.
+&emsp;(ii)
+
+Reallocation by secretary.—The Secretary shall allocate, for purposes of administrative costs, any remaining amounts among States that demonstrate a need for the amounts.
+
+(6)
+
+Use of administrative funds.—Funds available to a State under this subsection and under section 13(k)(1) of the National School Lunch Act (42 U.S.C. 1761(k)(1)) may be used by the State for the costs of administration of the programs authorized under this chapter (except for the programs authorized under sections 1786 and 1790 of this title) and the National School Lunch Act (42 U.S.C. 1751 et seq.) without regard to the basis on which the funds were earned and allocated.
 
 (7) Where the Secretary is responsible for the administration of programs under this chapter or the National School Lunch Act \[42 U.S.C. 1751 et seq.\], the amount of funds that would be allocated to the State agency under this section and under section 13(k)(1) of the National School Lunch Act \[42 U.S.C. 1761(k)(1)\] shall be retained by the Secretary for the Secretary's use in the administration of such programs.
 
@@ -52,19 +58,25 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (g) Authorization of appropriations
 
-For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 1998, there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
+For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending beforeOctober 1, 2003, there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
 
-(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302.)
+(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 105–336, title II, §202, Oct. 31, 1998, 112 Stat. 3158.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsecs. (a)(2), (4), (7), (8), (9)(A) and (f), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The National School Lunch Act, referred to in subsecs. (a)(2), (4), (6) to (8), (9)(A) and (f), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1998—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting present provisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities and private nonprofit organizations participating in projects under former section 1766b of this title.
+
+Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs.”
+
+Subsec. (g). Pub. L. 105–336, §202(c), substituted “2003” for “1998”.
 
 1996—Subsec. (e). Pub. L. 104–193, §724(b), substituted “the initial fiscal year a plan” for “each year an annual plan” and inserted at end “After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.”
 
@@ -122,6 +134,10 @@ Subsec. (i). Pub. L. 96–499, §201(b)(2), substituted “September 30, 1984”
 
 1968—Pub. L. 90–302 inserted the programs under sections 1759a and 1761 of this title to the enumeration of programs in which appropriated funds could be used for administrative expenses of local school districts in supervising and giving technical assistance and added section 1761 to the enumeration of sections covering programs of additional activities under which funds could be advanced only in amounts and to the extent determined necessary by the Secretary.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of this title.
@@ -144,5 +160,5 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1755, 1766b, 1775, 1776a, 1776b of this title.
+This section is referred to in sections 1755, 1775 of this title.
 

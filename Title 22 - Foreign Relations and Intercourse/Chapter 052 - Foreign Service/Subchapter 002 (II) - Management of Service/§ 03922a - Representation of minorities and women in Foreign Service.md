@@ -2,7 +2,7 @@
 
 #### (a) Development of program
 
-The head of each agency utilizing the Foreign Service personnel system shall develop, consistent with section 7201 of title 5, a plan designedto increase significantly the number of members of minority groups and women in the Foreign Service in that agency.
+The head of each agency utilizing the Foreign Service personnel system shall develop, consistent with section 7201 of title 5, a plan designed to increase significantly the number of members of minority groups and women in the Foreign Service in that agency.
 
 #### (b) Emphasis on mid-levels
 
@@ -17,6 +17,22 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 #### Amendments
 
 1987—Subsec. (c). Pub. L. 100–204 struck out subsec. (c) which read as follows: “The head of each agency utilizing the Foreign Service personnel system shall report annually to the Congress on the plan developed pursuant to this section as part of the report required to be submitted pursuant to section 3905(d)(2) of this title. Subsequent reports pursuant to that section shall include reports on the implementation of these plans, giving particular attention to the progress being made in increasing, through advancement and promotion, the numbers of members of minority groups and women in the mid-levels of the Foreign Service.”
+
+#### Report Concerning Minorities and the Foreign Service
+
+Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2318, Oct. 21, 1998, 112 Stat. 2681–829, provided that: “The Secretary of State shall during each of calendar years 1998 and 1999 submit a report to the Congress concerning minorities and the Foreign Service officer corps. In addition to such other information as is relevant to this issue, the report shall include the following data for the last preceding examination and promotion cycles for which such information is available (reported in terms of real numbers and percentages and not as ratios):
+
+&emsp;“(1) The numbers and percentages of all minorities taking the written Foreign Service examination.
+
+&emsp;“(2) The numbers and percentages of all minorities successfully completing and passing the written Foreign Service examination.
+
+&emsp;“(3) The numbers and percentages of all minorities successfully completing and passing the oral Foreign Service examination.
+
+&emsp;“(4) The numbers and percentages of all minorities entering the junior officers class of the Foreign Service.
+
+&emsp;“(5) The numbers and percentages of all minority Foreign Service officers at each grade.
+
+&emsp;“(6) The numbers of and percentages of minorities promoted at each grade of the Foreign Service officer corps.”
 
 #### Mid-Level Women and Minority Placement Program
 
@@ -50,7 +66,7 @@ Findings.—The Congress finds that the Department of State and other Foreign Se
 
 A More Representative Foreign Service.—The Secretary of State and the head of each of the other agencies utilizing the Foreign Service personnel system—
 
-&emsp;“(1) shall substantially increase their efforts to implement effectively the plans required by section 152(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 \[22 U.S.C. 3922a(a)\], so that the Foreign Service becomes truly representative of the American people throughout all levels of the Foreign Service; and
+&emsp;“(1) shall substantially increase their efforts to implement effectively the plans required by section 152(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 \[22 U.S.C. 3922a(a)\], so that the Foreign Service becomes truly representative ofthe American people throughout all levels of the Foreign Service; and
 
 &emsp;“(2) shall ensure that those plans effectively address the need to promote increased numbers of qualified women and members of minority groups into the senior levels of the Foreign Service.
 

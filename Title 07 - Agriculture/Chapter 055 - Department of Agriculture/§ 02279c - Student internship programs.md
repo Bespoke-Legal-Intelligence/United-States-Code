@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) is employed by the Department of Agriculture (referred to in this section as the “Department”) to assist scientific, professional, administrative, or technical employees of the Department; and
 
-&emsp;&emsp;(B) is a student in good standing at an institution of higher education (as defined in section 1141 of title 20) pursuing a course of study related to the field in which the person is employed by the Department.
+&emsp;&emsp;(B) is a student in good standing at an institution of higher education (as defined in section 1001 of title 20) pursuing a course of study related to the field in which the person is employed by the Department.
 
 #### (2) Payment of certain expenses by the Secretary
 
@@ -18,7 +18,7 @@
 
 #### (1) Authority to cooperate
 
-&emsp;Notwithstanding chapter 63 of title 31, the Secretary may enter into cooperative agreements on an annual basis with 1 or more associations of institutions of higher education (as defined in section 1141 of title 20) for the purpose of providing for Department participation in internship programs for graduate and undergraduate students who are selected by the associations from students attending member institutions of the associations and other institutions of higher education.
+&emsp;Notwithstanding chapter 63 of title 31, the Secretary may enter into cooperative agreements on an annual basis with 1 or more associations of institutions of higher education (as defined in section 1001 of title 20) for the purpose of providing for Department participation in internship programs for graduate and undergraduate students who are selected by the associations from students attending member institutions of the associations and other institutions of higher education.
 
 #### (2) Internship program
 
@@ -40,7 +40,7 @@
 
 #### (A) Number
 
-&emsp;&emsp;A cooperative agreement entered into under paragraph (1) shall specify the number of students that the Department will host each year and a list of work assignments to be provided for the students.
+&emsp;&emsp;A cooperative agreement entered into under paragraph (1) shall specify the number of students that the Department will hosteach year and a list of work assignments to be provided for the students.
 
 #### (B) Selection
 
@@ -48,7 +48,7 @@
 
 #### (5) Cost reimbursement
 
-&emsp;From such amounts as the Secretary determines are available each fiscal year for internship programs, and subject to such regulations as the Secretary may issue, the Secretary may reimburse a cooperating association for theDepartment share of all direct and indirect costs of an internship program, including student stipends, transportation costs to the internship site, and other costs of an internship program.
+&emsp;From such amounts as the Secretary determines are available each fiscal year for internship programs, and subject to such regulations as the Secretary may issue, the Secretary may reimburse a cooperating association for the Department share of all direct and indirect costs of an internship program, including student stipends, transportation costs to the internship site, and other costs of an internship program.
 
 #### (6) Lead agency
 
@@ -66,5 +66,13 @@
 
 &emsp;A student who participates in an internship program shall not be considered a Federal employee, except for purposes of chapter 81 of title 5, and chapter 171 of title 28.
 
-(Pub. L. 104–127, title IX, §922, Apr. 4, 1996, 110 Stat. 1193.)
+(Pub. L. 104–127, title IX, §922, Apr. 4, 1996, 110 Stat. 1193; Pub. L. 105–244, title I, §102(a)(1)(A), Oct. 7, 1998, 112 Stat. 1617.)
+
+#### Amendments
+
+1998—Subsecs. (a)(1)(B), (b)(1). Pub. L. 105–244 substituted “section 1001 of title 20)” for “section 1141 of title 20)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 

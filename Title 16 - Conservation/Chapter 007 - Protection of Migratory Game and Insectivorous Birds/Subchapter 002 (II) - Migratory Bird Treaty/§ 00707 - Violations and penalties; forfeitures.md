@@ -1,6 +1,6 @@
 ### §707. Violations and penalties; forfeitures
 
-(a) Except as otherwise provided in this section, any person, association, partnership, or corporation who shall violate any provisions of said conventions or of this subchapter, or who shall violate or fail to comply with any regulation made pursuant to this subchapter shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined not more than $500 or be imprisoned not more than six months, or both.
+(a) Except as otherwise provided in this section, any person, association, partnership, or corporation who shall violate any provisions of said conventions or of this subchapter, or who shall violate or fail to comply with any regulation made pursuant to this subchapter shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined not more than $15,000 or be imprisoned not more than six months, or both.
 
 (b) Whoever, in violation of this subchapter, shall knowingly—
 
@@ -8,11 +8,17 @@
 
 &emsp;(2) sell, offer for sale, barter or offer to barter, any migratory bird shall be guilty of a felony and shall be fined not more than $2,000 or imprisoned not more than two years, or both.
 
-(c) All guns, traps, nets and other equipment, vessels, vehicles, and other means of transportation used by any person when engaged in pursuing, hunting, taking, trapping, ensnaring, capturing, killing, or attempting to take, capture, or kill any migratory bird in violation of this subchapter with the intent to offer for sale, or sell, or offer for barter, or barter such bird in violation of this subchapter shall be forfeited to the United States and may be seized and held pending the prosecution of any person arrested for violating this subchapter and upon conviction for such violation, such forfeiture shall be adjudicated as a penalty in addition to any other provided for violation of this subchapter. Such forfeited property shall be disposed of and accounted for by, and under the authority of, the Secretary of the Interior.
+(c) Whoever violates section 704(b)(2) of this title shall be fined under title 18, imprisoned not more than 1 year, or both.
 
-(July 3, 1918, ch. 128, §6, 40 Stat. 756; June 20, 1936, ch. 634, §2, 49 Stat. 1556; Sept. 8, 1960, Pub. L. 86–732, 74 Stat. 866; Nov. 10, 1986, Pub. L. 99–645, title V, §501, 100 Stat. 3590.)
+(d) All guns, traps, nets and other equipment, vessels, vehicles, and other means of transportation used by any person when engaged in pursuing, hunting, taking, trapping, ensnaring, capturing, killing, or attempting to take, capture, or kill any migratory bird in violation of this subchapter with the intent to offer for sale, or sell, or offer for barter, or barter such bird in violation of this subchapter shall be forfeited to the United States and may be seized and held pending the prosecution of any person arrested for violating this subchapter and upon conviction for such violation, such forfeiture shall be adjudicated as a penalty in addition to any other provided for violation of this subchapter. Such forfeited property shall be disposed of and accounted for by, and under the authority of, the Secretary of the Interior.
+
+(July 3, 1918, ch. 128, §6, 40 Stat. 756; June 20, 1936, ch. 634, §2, 49 Stat. 1556; Pub. L. 86–732, Sept. 8, 1960, 74 Stat. 866; Pub. L. 99–645, title V, §501, Nov. 10, 1986, 100 Stat. 3590; Pub. L. 105–312, title I, §103, Oct. 30, 1998, 112 Stat. 2956.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–312, §103(1), substituted “$15,000” for “$500”.
+
+Subsecs. (c), (d). Pub. L. 105–312, §103(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1986—Subsec. (b). Pub. L. 99–645 substituted “shall knowingly” for “shall” in introductory provisions.
 

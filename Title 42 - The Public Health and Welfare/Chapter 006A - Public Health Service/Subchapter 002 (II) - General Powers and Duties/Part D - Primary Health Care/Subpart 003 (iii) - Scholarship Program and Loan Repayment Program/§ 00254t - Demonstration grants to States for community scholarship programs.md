@@ -30,7 +30,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (1) In general
 
-&emsp;With respect to the costs of providing any scholarship pursuant to subsection (c) of this section, the Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that—
+&emsp;With respect to the costs of providing any scholarship pursuant to subsection (c) of this section, the Secretary may not make a grantunder subsection (a) of this section unless the State involved agrees that—
 
 &emsp;&emsp;(A) 40 percent of the costs of the scholarship will be paid from the grant made under subsection (a) of this section to the State; and
 
@@ -50,7 +50,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (e) Specifications regarding scholarship contract
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the State will make a grantto a community organization for a contract described in subsection (c) of this section only if—
+The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the State will make a grant to a community organization for a contract described in subsection (c) of this section only if—
 
 &emsp;(1) the individual who is to receive the scholarship under the contract is a resident of the health manpower shortage area in which the community organization is located;
 
@@ -92,7 +92,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (g) Estimates regarding allocations between urban and rural areas
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved submits to the Secretary, as part of the application required in subsection (h) of this section, an estimate of the amount of the grant that will be expended regarding the provision of primary health care in urban health manpower shortage areas of the State, and an estimate of the amount of the grant that will be expended regarding the provision of such care in rural health manpower shortage areas of the State.
+The Secretary may not make a grant under subsection (a) of this section unless the State involved submits to the Secretary, as part of the application required in subsection (h) of this section, an estimate of the amount of the grant that will be expended regarding the provision ofprimary health care in urban health manpower shortage areas of the State, and an estimate of the amount of the grant that will be expended regarding the provision of such care in rural health manpower shortage areas of the State.
 
 #### (h) Requirement of application
 
@@ -108,7 +108,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 &emsp;(A) Before making a grant under subsection (a) of this section to a State for a fiscal year, the Secretary shall determine the number of contracts provided under subsection (c) of this section with respect to which there has been an initial breach by the community organizations or individuals involved during the fiscal year preceding the fiscal year for which the State is applying to receive the grant.
 
-&emsp;(B) In the case of a State with 1 or more initial breaches for purposes of subparagraph (A), the Secretary shall reduce the amount of agrant under subsection (a) of this section to the State for the fiscal year involved by an amount equal to the sum of—
+&emsp;(B) In the case of a State with 1 or more initial breaches for purposes of subparagraph (A), the Secretary shall reduce the amount of a grant under subsection (a) of this section to the State for the fiscal year involved by an amount equal to the sum of—
 
 &emsp;&emsp;(i) an amount equal to the expenditures of Federal funds made regarding the contracts involved; and
 
@@ -162,7 +162,7 @@ For purposes of this section:
 
 &emsp;(C) With respect to any fiscal year for which the Secretary is unable to comply with subparagraph (A), the Secretary shall, not later than April 1 of the subsequent fiscal year, submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report stating the fact of such noncompliance and an explanation of the reasons underlying such noncompliance.
 
-(July 1, 1944, ch. 373, title III, §338L, as added Nov. 6, 1990, Pub. L. 101–527, §8, 104 Stat. 2328.)
+(July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 101–527, §8, Nov. 6, 1990, 104 Stat. 2328.)
 
 #### References in Text
 

@@ -10,11 +10,11 @@ Same Powers and Restrictions Under Other Laws.—To ensure that the Metropolitan
 
 (b)
 
-Inapplicability of Certain Laws.—The Metropolitan Washington Airports and the Airports Authority are not subject to the requirements of any law solely by reason of the retention of the United States Government of the fee simple title to those airports.
+Inapplicability of Certain Laws.—The Metropolitan Washington Airports and the Airports Authority are not subject to the requirements of any law solely by reason of the retention by the United States Government of the fee simple title to those airports.
 
 (c)
 
-Police Power.—Virginia shall have concurrent police power authority over the Metropolitan Washington Airports, and the courts of Virginia may exercise jurisdiction over Washington National Airport.
+Police Power.—Virginia shall have concurrent police power authority over the Metropolitan Washington Airports, and the courts of Virginia may exercise jurisdiction over Ronald Reagan Washington National Airport.
 
 (d)
 
@@ -24,13 +24,13 @@ Planning.—(1) The authority of the National Capital Planning Commission under 
 
 &emsp;(A) the Commission and the Advisory Council on Historic Preservation before undertaking any major alterations to the exterior of the main terminal at Washington Dulles International Airport; and
 
-&emsp;(B) the Commission before undertaking development that would alter the skyline of Washington National Airport when viewed from the opposing shoreline of the Potomac River or from the George Washington Parkway.
+&emsp;(B) the Commission before undertaking development that would alter the skyline of Ronald Reagan Washington National Airport when viewed from the opposing shoreline of the Potomac River or from the George Washington Parkway.
 
 (e)
 
-Operation Limitations.—The Administrator of the Federal Aviation Administration may not increase the number of instrument flight rule takeoffs and landings authorized for air carriers by the High Density Rule (14 CFR 93.121 et seq.) at Washington National Airport on October 18, 1986, and may not decrease the number of those takeoffs and landings except for reasons of safety.
+Operation Limitations.—The Administrator of the Federal Aviation Administration may not increase the number of instrument flight rule takeoffs and landings authorized for air carriers by the High Density Rule (14 CFR 93.121 et seq.) at Ronald Reagan Washington National Airport on October 18, 1986, and may not decrease the number of those takeoffs and landings except for reasons of safety.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 105–225, §7(c)(1)(D), Aug. 12, 1998, 112 Stat. 1511.)
 
 Historical and Revision Notes
 
@@ -115,6 +115,16 @@ Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in subsec. (a)(2), was 
 The First Supplemental Civil Functions Appropriations Act, 1941, referred to in subsec. (a)(2), is act Oct. 9, 1940, ch. 780, 54 Stat. 1030. For complete classification of this Act to the Code, see Tables.
 
 Act of September 7, 1950, ch. 905, 64 Stat. 770, referred to in subsec. (a)(2), was classified to subchapter II (§2421 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–225 substituted “retention by” for “retention of”.
+
+Subsecs. (c), (d)(2)(B), (e). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–225 effective Nov. 20, 1997, see section 7(c)(3) of Pub. L. 105–225, set out as a note under section 49106 of this title.
 
 #### Section Referred to in Other Sections
 

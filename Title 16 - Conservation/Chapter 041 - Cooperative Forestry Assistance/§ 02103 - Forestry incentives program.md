@@ -22,7 +22,7 @@ Individual forest management plans developed by the landowner in cooperation wit
 
 #### (f) Cost sharing for implementation of appropriate forestry practices and measures set forth in agreement; apportionment; maximum amount
 
-In return for the agreement by the landowner, the Secretary shall agree to share the cost of implementing those forestry practices and measures set forth in the agreement for which the Secretary determines that cost sharing is appropriate. The portion of such cost (including labor) to be shared shall be that portion that the Secretary determines is necessary and appropriate to implement the forestry practices and measures under the agreement, but not more than 75 percent of the actual costs incurred by the landowner. The maximum amount any individual may receive annually under the programauthorized by this section shall be determined by the Secretary in consultation with the committee described in section 2109(c) of this title.
+In return for the agreement by the landowner, the Secretary shall agree to share the cost of implementing those forestry practices and measures set forth in the agreement for which the Secretary determines that cost sharing is appropriate. The portion of such cost (including labor) to be shared shall be that portion that the Secretary determines is necessary and appropriate to implement the forestry practices and measures under the agreement, but not more than 75 percent of the actual costs incurred by the landowner. The maximum amount any individual may receive annually under the program authorized by this section shall be determined by the Secretary in consultation with the committee described in section 2109(c) of this title.
 
 #### (g) Prerequisites for distribution of funds available for cost sharing
 
@@ -60,5 +60,5 @@ Subsec. (k). Pub. L. 101–624, §1214, added subsec. (k).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2103b, 2108 of this title; title 7 section 6962; title 26 section 126.
+This section is referred to in sections 2103b, 2106b, 2108 of this title; title 7 section 6962; title 26 section 126.
 

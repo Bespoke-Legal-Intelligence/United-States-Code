@@ -12,6 +12,10 @@
 
 (Pub. L. 97–300, title I, §172, as added Pub. L. 99–496, §4, Oct. 16, 1986, 100 Stat. 1261.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Codification
 
 Another section 172 of Pub. L. 97–300 was redesignated section 173 and is classified to section 1583 of this title.

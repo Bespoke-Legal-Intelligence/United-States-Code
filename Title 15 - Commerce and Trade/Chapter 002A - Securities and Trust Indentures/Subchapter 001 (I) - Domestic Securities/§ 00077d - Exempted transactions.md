@@ -36,7 +36,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;(6) transactions involving offers or sales by an issuer solely to one or more accredited investors, if the aggregate offering price of an issue of securities offered in reliance on this paragraph does not exceed the amount allowed under section 77c(b) of this title, if there is no advertising or public solicitation in connection with the transaction by the issuer or anyone acting on the issuer's behalf, and if the issuer files such notice with the Commission as the Commission shall prescribe.
 
-(May 27, 1933, ch. 38, title I, §4, 48 Stat. 77; June 6, 1934, ch. 404, title II, §203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §6, 68 Stat. 684; Aug. 20, 1964, Pub. L. 88–467, §12, 78 Stat. 580; June 4, 1975, Pub. L. 94–29, §30, 89 Stat. 169; Oct. 21, 1980, Pub. L. 96–477, title VI, §602, 94 Stat. 2294.)
+(May 27, 1933, ch. 38, title I, §4, 48 Stat. 77; June 6, 1934, ch. 404, title II, §203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §6, 68 Stat. 684; Pub. L. 88–467, §12, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §30, June 4, 1975, 89 Stat. 169; Pub. L. 96–477, title VI, §602, Oct. 21, 1980, 94 Stat. 2294.)
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Trust Indenture Act of 1939, application to transactions exempted by this sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77r, 77r–1, 80a–24 of this title; title 12 sections 24, 1464, 1757; title 26 section 67.
+This section is referred to in sections 77p, 77r, 77r–1, 78bb, 80a–24 of this title; title 12 sections 24, 1464, 1757; title 26 section 67.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -50,17 +50,95 @@ In order to facilitate the administration of the national park system, the Secre
 
 &emsp;Enter <sup>3</sup> into cooperative agreements with public or private educational institutions, States, and their political subdivisions, for the purpose of developing adequate, coordinated, cooperative research and training programs concerning the resources of the National Park System, and, pursuant to any such agreements, to accept from and make available to the cooperator such technical and support staff, financial assistance for mutually agreed upon research projects, supplies and equipment, facilities, and administrative services relating to cooperative research units as the Secretary deems appropriate; except that this paragraph shall not waive any requirements for research projects that are subject to the Federal procurement regulations.
 
-(Pub. L. 91–383, §3, Aug. 18, 1970, 84 Stat. 826; Pub. L. 94–458, §1, Oct. 7, 1976, 90 Stat. 1939; Pub. L. 104–333, div. I, title VII, §703, title VIII, §818, Nov. 12, 1996, 110 Stat. 4185, 4201.)
+#### (k) Leases
+
+#### (1) In general
+
+&emsp;&emsp;Except as provided in paragraph (2) and subject to paragraph (3), the Secretary may enter into a lease with any person or governmental entity for the use of buildings and associated property administered by the Secretary as part of the National Park System.
+
+#### (2) Prohibited activities
+
+&emsp;&emsp;The Secretary may not use a lease under paragraph (1) to authorize the lessee to engage in activities that are subject to authorization by the Secretary through a concessions contract, commercial use authorization, or similar instrument.
+
+#### (3) Use
+
+&emsp;&emsp;Buildings and associated property leased under paragraph (1)—
+
+&emsp;&emsp;&emsp;(A) shall be used for an activity that is consistent with the purposes established by law for the unit in which the building is located;
+
+&emsp;&emsp;&emsp;(B) shall not result in degradation of the purposes and values of the unit; and
+
+&emsp;&emsp;&emsp;(C) shall be compatible with National Park Service programs.
+
+#### (4) Rental amounts
+
+#### (A) In general
+
+&emsp;&emsp;&emsp;With respect to a lease under paragraph (1)—
+
+&emsp;&emsp;&emsp;&emsp;(i) payment of fair market value rental shall be required; and
+
+&emsp;&emsp;&emsp;&emsp;(ii) section 303b of title 40 shall not apply.
+
+#### (B) Adjustment
+
+&emsp;&emsp;&emsp;The Secretary may adjust the rental amount as appropriate to take into account any amounts to be expended by the lessee for preservation, maintenance, restoration, improvement, or repair and related expenses.
+
+#### (C) Regulation
+
+&emsp;&emsp;&emsp;The Secretary shall promulgate regulations implementing this subsection that includes provisions to encourage and facilitate competition in the leasing process and provide for timely and adequate public comment.
+
+#### (5) Special account
+
+#### (A) Deposits
+
+&emsp;&emsp;&emsp;Rental payments under a lease under paragraph (1) shall be deposited in a special account in the Treasury of the United States.
+
+#### (B) Availability
+
+&emsp;&emsp;&emsp;Amounts in the special account shall be available until expended, without further appropriation, for infrastructure needs at units of the National Park System, including—
+
+&emsp;&emsp;&emsp;&emsp;(i) facility refurbishment;
+
+&emsp;&emsp;&emsp;&emsp;(ii) repair and replacement;
+
+&emsp;&emsp;&emsp;&emsp;(iii) infrastructure projects associated with park resource protection; and
+
+&emsp;&emsp;&emsp;&emsp;(iv) direct maintenance of the leased buildings and associated properties.
+
+#### (C) Accountability and results
+
+&emsp;&emsp;&emsp;The Secretary shall develop procedures for the use of the special account that ensure accountability and demonstrated results consistent with this Act.
+
+#### (<i>l</i>) Cooperative management agreements
+
+#### (1) In general
+
+&emsp;&emsp;Where a unit of the National Park System is located adjacent to or near a State or local park area, and cooperative management between the National Park Service and a State or local government agency of a portion of either park will allow for more effective and efficient management of the parks, the Secretary may enter into an agreement with a State or local government agency to provide for the cooperative management of the Federal and State or local park areas. The Secretary may not transfer administration responsibilities for any unit of the National Park System under this paragraph.
+
+#### (2) Provision of goods and services
+
+&emsp;&emsp;Under a cooperative management agreement, the Secretary may acquire from and provide to a State or local government agency goods and services to be used by the Secretary and the State or local governmental agency in the cooperative management of land.
+
+#### (3) Assignment
+
+&emsp;&emsp;An assignment arranged by the Secretary under section 3372 of title 5 of a Federal, State, or local employee for work in any Federal, State, or local land or an extension of such an assignment may be for any period of time determined by the Secretary and the State or local agency to be mutually beneficial.
+
+(Pub. L. 91–383, §3, Aug. 18, 1970, 84 Stat. 826; Pub. L. 94–458, §1, Oct. 7, 1976, 90 Stat. 1939; Pub. L. 104–333, div. I, title VII, §703, title VIII, §818, Nov. 12, 1996, 110 Stat. 4185, 4201; Pub. L. 105–391, title VIII, §802(a), Nov. 13, 1998, 112 Stat. 3522.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g), is act June 30,1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+This Act, referred to in subsec. (k)(5)(C), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, popularly known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 In subsec. (c), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 5703)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsecs. (k), (<i>l</i>). Pub. L. 105–391 added subsecs. (k) and (<i>l</i>).
 
 1996—Subsec. (g). Pub. L. 104–333, §703, inserted provisions relating to Glacier Bay and substituted “interpretive demonstrations” for “interpretive demonstrations and park programs”.
 

@@ -12,11 +12,9 @@ The Board shall consist of fifteen voting members as follows:
 
 &emsp;(2) The Secretary of Defense (or if the Secretary so designates, another officer of the Department of Defense who was appointed with the advice and consent of the Senate).
 
-&emsp;(3) The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).
+&emsp;(3) The president of the National Defense University (or if the president so designates, the vice president of the National Defense University).
 
-&emsp;(4) The president of the National Defense University (or if the president so designates, the vice president of the National Defense University).
-
-&emsp;(5) Eleven individuals appointed by the President, by and with the advice and consent of the Senate.
+&emsp;(4) Twelve individuals appointed by the President, by and with the advice and consent of the Senate.
 
 #### (c) Political affiliation
 
@@ -78,15 +76,25 @@ A director appointed by the President under subsection (b)(5) of this section sh
 
 While away from his home or regular place of business in the performance of duties for the Institute, a director shall be allowed travel expenses, including a per diem in lieu of subsistence, not to exceed the expenses allowed persons employed intermittently in Government service under section 5703(b) <sup>1</sup> of title 5.
 
-(Pub. L. 98–525, title XVII, §1706, Oct. 19, 1984, 98 Stat. 2654.)
+(Pub. L. 98–525, title XVII, §1706, Oct. 19, 1984, 98 Stat. 2654; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(1), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
+#### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
+
+Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
+
 #### Change of Name
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out asa note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

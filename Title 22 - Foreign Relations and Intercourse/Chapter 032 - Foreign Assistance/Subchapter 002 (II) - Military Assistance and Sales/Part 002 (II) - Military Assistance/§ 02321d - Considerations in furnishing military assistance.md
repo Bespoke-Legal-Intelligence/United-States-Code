@@ -1,6 +1,6 @@
 ### §2321d. Considerations in furnishing military assistance
 
-Decisions to furnish military assistance made under subchapter II of this chapter shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account his opinion as to whether such assistance will—
+Decisions to furnish military assistance made under subchapter II of this chapter shall take into account whether such assistance will—
 
 &emsp;(1) contribute to an arms race;
 
@@ -8,7 +8,7 @@ Decisions to furnish military assistance made under subchapter II of this chapte
 
 &emsp;(3) prejudice the development of bilateral or multilateral arms control arrangements.
 
-(Pub. L. 87–195, pt. II, §511, as added Pub. L. 92–226, pt. II, §201(f), Feb. 7, 1972, 86 Stat. 25; amended Pub. L. 94–141, title I, §150(c), Nov. 29, 1975, 89 Stat. 760.)
+(Pub. L. 87–195, pt. II, §511, as added Pub. L. 92–226, pt. II, §201(f), Feb. 7, 1972, 86 Stat. 25; amended Pub. L. 94–141, title I, §150(c), Nov. 29, 1975, 89 Stat. 760; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(b), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
 
@@ -16,5 +16,11 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 #### Amendments
 
+1998—Pub. L. 105–277 substituted “take into account” for “be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account his opinion as to” in introductory provisions.
+
 1975—Pub. L. 94–141 substituted “be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account his opinion as to” for “take into account”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

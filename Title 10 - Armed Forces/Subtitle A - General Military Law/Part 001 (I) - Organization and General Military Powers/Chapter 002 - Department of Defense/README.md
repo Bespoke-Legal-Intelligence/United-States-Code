@@ -11,12 +11,15 @@
 | [115a.](%C2%A7%2000115a%20-%20Annual%20manpower%20requirements%20report.md) | Annual manpower requirements report. |
 | \[115b. | Renumbered.\] |
 | [116\.](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md) | Annual operations and maintenance report. |
-| \[117, 118. | Repealed.\] |
+| [117\.](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md) | Readiness reporting system: establishment; reporting to congressional committees. |
+| \[118. | Repealed.\] |
 | [119\.](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md) | Special access programs: congressional oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title III, §373(a)(2), Oct. 17, 1998, 112 Stat. 1992, added item 117.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(1), Oct. 5, 1994, 108 Stat. 3013, struck out item 115b “Annual report on National Guard and reserve component equipment”.
 
@@ -50,5 +53,6 @@ This chapter is referred to in title 20 section 1087vv.
 - [&sect; 00115a - Annual manpower requirements report](%C2%A7%2000115a%20-%20Annual%20manpower%20requirements%20report.md)
 - [&sect; 00115b - Renumbered &sect;10541](%C2%A7%2000115b%20-%20Renumbered%20%C2%A710541.md)
 - [&sect; 00116 - Annual operations and maintenance report](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md)
-- [&sect; 00117, 118 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(1), (2), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2000117%2C%20118%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%281%29%2C%20%282%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
+- [&sect; 00117 - Readiness reporting system establishment; reporting to congressional committees](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md)
+- [&sect; 00118 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(2), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2000118%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%282%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
 - [&sect; 00119 - Special access programs congressional oversight](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md)

@@ -26,11 +26,11 @@ The standards of responsibility prescribed by this section are not to be constru
 
 No State may establish or enforce a law which prohibits an individual from bringing a civil action against a vaccine manufacturer for damages for a vaccine-related injury or death if such civil action is not barred by this part.
 
-(July 1, 1944, ch. 373, title XXI, §2122, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3773; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4302(b)(1), 101 Stat. 1330–221.)
+(July 1, 1944, ch. 373, title XXI, §2122, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3773; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221.)
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2), is act June 25, 1938, ch. 675, 52 Stat.1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

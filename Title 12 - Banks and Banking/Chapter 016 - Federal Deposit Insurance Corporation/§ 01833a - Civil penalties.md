@@ -36,7 +36,7 @@ A civil action to recover a civil penalty under this section shall be commenced 
 
 #### (e) Burden of proof
 
-In a civil action to recover a civil penalty under this section, the Attorney General must establish the right to recovery by a preponderance of the evidence.
+In a civil action to recover a civil penalty under this section, the Attorney General mustestablish the right to recovery by a preponderance of the evidence.
 
 #### (f) Administrative subpoenas
 
@@ -48,7 +48,7 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 &emsp;&emsp;(B) take evidence; and
 
-&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers,correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
+&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers, correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
 
 #### (2) Procedures applicable
 

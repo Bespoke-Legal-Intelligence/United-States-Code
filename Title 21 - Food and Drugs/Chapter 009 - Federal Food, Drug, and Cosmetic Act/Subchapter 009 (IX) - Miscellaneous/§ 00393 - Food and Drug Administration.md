@@ -162,7 +162,7 @@ Regulations.—If, in the opinion of the Secretary, the use of elemental, organi
 
 #### Management Activities Study
 
-Pub. L. 102–571, title II, §205, Oct. 29, 1992, 106 Stat. 4502, directed Comptroller General to conduct a study of management of activities of the Food and Drug Administration that are related to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances and submit an interim report to Congress, not later than 6 months after Oct. 29, 1992, with a final report to be submitted not later than 12 months after Oct. 29, 1992.
+Pub. L. 102–571, title II, §205, Oct. 29, 1992, 106 Stat. 4502, directed Comptroller General to conduct a studyof management of activities of the Food and Drug Administration that are related to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances and submit an interim report to Congress, not later than 6 months after Oct. 29, 1992, with a final report to be submitted not later than 12 months after Oct. 29, 1992.
 
 #### Congressional Findings
 

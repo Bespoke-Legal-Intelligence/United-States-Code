@@ -14,7 +14,7 @@ In addition to the functions specified in section 18f of this title, the Secreta
 
 The Secretary shall ensure that museum collections are treated in a careful and deliberate manner that protects the public interest. Prior to taking any action under subsection (a) of this section, the Secretary shall establish a systematic review and approval process, including consultation with appropriate experts, that meets the highest standards of the museum profession for all actions taken under this section.
 
-(July 1, 1955, ch. 259, §2, as added Nov. 12, 1996, Pub. L. 104–333, div. I, title VIII, §804(a)(2), 110 Stat. 4187.)
+(July 1, 1955, ch. 259, §2, as added Pub. L. 104–333, div. I, title VIII, §804(a)(2), Nov. 12, 1996, 110 Stat. 4187.)
 
 #### Section Referred to in Other Sections
 

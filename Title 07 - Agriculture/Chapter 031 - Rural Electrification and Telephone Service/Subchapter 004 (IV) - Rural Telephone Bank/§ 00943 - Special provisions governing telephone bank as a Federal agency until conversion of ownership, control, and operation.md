@@ -22,7 +22,7 @@ Until the ownership, control, and operation of the telephone bank is converted a
 
 &emsp;the telephone bank shall be subject to the provisions of sections 517, 519, and 2679 of title 28.
 
-(May 20, 1936, ch. 432, title IV, §403, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 31; amended Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(9), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title IV, §403, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 31; amended Pub. L. 103–354, title II, §235(a)(9), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### References in Text
 

@@ -4,6 +4,30 @@ Whenever any deceased Senator or Member of the House of Representatives shall be
 
 (May 23, 1876, ch. 103, 19 Stat. 54.)
 
+#### National Trust Endowment for Care and Maintenance of Congressional Cemetery
+
+Pub. L. 105–275, title II, §209, Oct. 21, 1998, 112 Stat. 2448, provided that:
+
+“(a)
+
+Grant for Care and Maintenance of Congressional Cemetery.—In order to assist in the perpetual care and maintenance of the historic Congressional Cemetery, the Architect of the Capitol shall make a grant to the National Trust for Historic Preservation (hereafter in this section referred to as the ‘National Trust’) in accordance with an agreement entered into by the Architect of the Capitol with the National Trust and the Association for the Preservation of Historic Congressional Cemetery (hereafter in this section referred to as the ‘Association’) which contains the terms and conditions described in subsection (b) and such other provisions as the Architect may deem necessary or desirable for the implementation of this section or for the protection of the interests of the Federal Government.
+
+“(b)
+
+Terms and Conditions of Agreement.—The terms and conditions described in this subsection are as follows:
+
+&emsp;“(1) Upon receipt of the amounts provided under the grant made under subsection (a), the National Trust shall deposit the amounts in a permanently restricted account in its endowment and shall administer, invest, and manage such grant funds in the same manner as other National Trust endowment funds.
+
+&emsp;“(2) The National Trust shall make distributions to the Association from the amounts deposited in the endowment pursuant to paragraph (1), in accordance with its regularly established spending rate, for the care and maintenance of the Cemetery (other than the cost of personnel), except that the National Trust may only make such distributions incrementally and proportionately upon receipt by the National Trust of contributions from the Association which incrementally match the amounts provided under the grant made under subsection (a) and which are to be added to the permanently restricted account described in paragraph (1).
+
+&emsp;“(3) The Association shall use such distributions from the endowment and the match for the care and maintenance of Congressional Cemetery, except that the Association may not use such distributions for nonroutine restoration or capital projects.
+
+&emsp;“(4) The Association, or any successor thereto, shall maintain adequate records and accounts of all financial transactions and operations carried out with such distributions, and such records shall be available at all times for audit and investigation by the Architect of the Capitol and the Comptroller General.
+
+“(c)
+
+No Title in United States.—Nothing in this section shall be construed to vest title to the Congressional Cemetery in the United States.”
+
 #### Congressional Cemetery; Restoration and Preservation; Grants to the Association for the Preservation of Historic Congressional Cemetery
 
 Pub. L. 97–245, Aug. 26, 1982, 96 Stat. 313, provided: “That the Congress finds and declares that—

@@ -6,7 +6,7 @@ The Secretary may acquire land and interests in land within the boundaries of th
 
 #### (b) Transfers from other agencies
 
-The Secretary of Commerce may transfer the Liberty Ship SS Jeremiah O'Brien to the Secretary for inclusion in the historic fleet of the park. Any other Federal property located withinthe boundaries of the park which is under the administrative jurisdiction of another department or agency of the United States may, with the concurrence of the head of the administering department or agency, be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the park.
+The Secretary of Commerce may transfer the Liberty Ship SS Jeremiah O'Brien to the Secretary for inclusion in the historic fleet of the park. Any other Federal property located within the boundaries of the park which is under the administrative jurisdiction of another department or agency of the United States may, with the concurrence of the head of the administering department or agency, be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the park.
 
 #### (c) State and local lands
 

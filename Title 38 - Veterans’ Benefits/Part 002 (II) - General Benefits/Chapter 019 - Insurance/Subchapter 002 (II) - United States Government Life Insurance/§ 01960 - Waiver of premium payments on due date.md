@@ -4,7 +4,7 @@
 
 (b) All premiums the payment of which when due is waived as provided in this section shall bear interest at the rate of 5 percent per annum, compounded annually, from the due date of each premium, and if not paid by the insured shall be deducted from the insurance in any settlement thereunder, or when the same matures either because of permanent total disability or death. In the event any lien or other indebtedness established by this section or prior corresponding provision of law exists against any policy of United States Government life insurance in excess of the then cash surrender value thereof at the time of the termination of such policy of insurance for any reason other than by death or total permanent disability the Secretary is authorized to transfer and pay from the military and naval insurance appropriation to the United States Government Life Insurance Fund a sum equal to the amount such lien or indebtedness exceeds the then cash surrender value.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, §760; Pub. L. 97–295, §4(28), Oct. 12, 1982, 96 Stat. 1307;Pub. L. 99–576, title VII, §701(34), Oct. 28, 1986, 100 Stat. 3293; renumbered §1960 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, §760; Pub. L. 97–295, §4(28), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(34), Oct. 28, 1986, 100 Stat. 3293; renumbered §1960 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

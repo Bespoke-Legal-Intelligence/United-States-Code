@@ -14,7 +14,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(5)(A) an estimate of the aggregate dollar value and quantity of defense articles and defense services, military education and training, grant military assistance, and credits and guarantees, to be furnished by the United States to each foreign country and international organization in the next fiscal year; and
 
-&emsp;(B) for each country that is proposed to be furnished credits or guaranties under this chapter in the next fiscal year and that hasbeen approved for cash flow financing (as defined in subsection (d) <sup>1</sup> of this section) in excess of $100,000,000 as of October 1 of the current fiscal year—
+&emsp;(B) for each country that is proposed to be furnished credits or guaranties under this chapter in the next fiscal year and that has been approved for cash flow financing (as defined in subsection (d) <sup>1</sup> of this section) in excess of $100,000,000 as of October 1 of the current fiscal year—
 
 &emsp;&emsp;(i) the amount of such approved cash flow financing,
 
@@ -60,7 +60,7 @@ The information required by subsection (a)(4) of this section shall be transmitt
 
 As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113,title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411.)
+(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411.)
 
 #### References in Text
 

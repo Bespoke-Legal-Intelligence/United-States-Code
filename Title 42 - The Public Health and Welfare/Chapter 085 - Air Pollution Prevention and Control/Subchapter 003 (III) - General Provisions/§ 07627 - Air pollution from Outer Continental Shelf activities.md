@@ -44,7 +44,7 @@
 
 #### (b) Requirements for other offshore areas
 
-For portions of the United States Gulf Coast Outer Continental Shelf that are adjacent to the States not covered by subsection (a) of this section which are Texas, Louisiana, Mississippi, and Alabama, the Secretary shall consult with the Administrator to assure coordination of air pollution control regulation for Outer Continental Shelf emissions and emissions in adjacent onshore areas. Concurrently with this obligation, the Secretary shall complete within 3 years of November 15, 1990, a research study examining the impacts of emissions from Outer Continental Shelf activities in such areas that fail to meet the national ambient air quality standards for either ozone or nitrogen dioxide. Based on the results of this study, the Secretary shall consult with the Administrator and determine if any additional actions are necessary. There are authorized to be appropriated such sums as may be necessary to provide funding for the study required under this section.
+For portions of the United States Gulf Coast Outer Continental Shelf that are adjacent to theStates not covered by subsection (a) of this section which are Texas, Louisiana, Mississippi, and Alabama, the Secretary shall consult with the Administrator to assure coordination of air pollution control regulation for Outer Continental Shelf emissions and emissions in adjacent onshore areas. Concurrently with this obligation, the Secretary shall complete within 3 years of November 15, 1990, a research study examining the impacts of emissions from Outer Continental Shelf activities in such areas that fail to meet the national ambient air quality standards for either ozone or nitrogen dioxide. Based on the results of this study, the Secretary shall consult with the Administrator and determine if any additional actions are necessary. There are authorized to be appropriated such sums as may be necessary to provide funding for the study required under this section.
 
 #### (c) Coastal waters
 
@@ -52,7 +52,7 @@ For portions of the United States Gulf Coast Outer Continental Shelf that are ad
 
 (2) The regulatory requirements of section 7412(n) <sup>1</sup> of this title shall apply to the coastal waters of the States which are subject to subsection (a) of this section, to the same extent and in the same manner as such requirements apply to the Great Lakes, the Chesapeake Bay, and their tributary waters.
 
-(July 14, 1955, ch. 360, title III, §328, as added Nov. 15, 1990, Pub. L. 101–549, title VIII, §801, 104 Stat. 2685.)
+(July 14, 1955, ch. 360, title III, §328, as added Pub. L. 101–549, title VIII, §801, Nov. 15, 1990, 104 Stat. 2685.)
 
 #### References in Text
 

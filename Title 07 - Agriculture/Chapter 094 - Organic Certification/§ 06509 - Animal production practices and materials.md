@@ -54,7 +54,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (1) In general
 
-&emsp;For a farm to be certified under this chapter as an organic farm with respect to the livestock produced by such farm, producers onsuch farm shall keep adequate records and maintain a detailed, verifiable audit trail so that each animal (or in the case of poultry, each flock) can be traced back to such farm.
+&emsp;For a farm to be certified under this chapter as an organic farm with respect to the livestock produced by such farm, producers on such farm shall keep adequate records and maintain a detailed, verifiable audit trail so that each animal (or in the case of poultry, each flock) can be traced back to such farm.
 
 #### (2) Records
 

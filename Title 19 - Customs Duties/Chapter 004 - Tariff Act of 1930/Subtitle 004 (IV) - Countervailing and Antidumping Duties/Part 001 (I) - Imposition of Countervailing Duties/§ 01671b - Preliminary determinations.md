@@ -46,7 +46,7 @@ General rule.—In making a determination under this subsection, the administeri
 
 &emsp;(B)
 
-Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (other than a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance with section 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
+Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (other than a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance withsection 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 &emsp;(C)
 
@@ -142,7 +142,7 @@ If the preliminary determination of the administering authority under subsection
 
 #### (2) Suspension of liquidation
 
-&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended toapply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
 &emsp;&emsp;(A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
@@ -172,7 +172,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 > &emsp;There may be an extension of time for the making of a final determination under this subsection only if the administering authority determines that such additional time is necessary to make the required determination concerning upstream subsidization.
 
-(June 17, 1930, ch. 497, title VII, §703, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 152; amended Nov. 30, 1983, Pub. L. 98–181, title VI, §650(b), 97 Stat. 1266; Oct. 30, 1984, Pub. L. 98–573, title VI, §§603, 613(c), 98 Stat. 3024, 3036; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(3), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(a)(2), 1326(d)(1), 102 Stat. 1200, 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§212(b)(1)(A), (C), (D), (F), 214(a)(1), 215(a), 233(a)(5)(C), (6)(A)(iii), (iv), (B), 263(a), 264(a), (c)(1), (2), 270(a)(1)(B)–(D), (b)(1)(B), 283(a), 108 Stat. 4847, 4848, 4850, 4852, 4899, 4901, 4911, 4912, 4914, 4917, 4930; Oct. 11, 1996, Pub. L. 104–295, §20(b)(5), 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §703, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 152; amended Pub. L. 98–181, title VI, §650(b), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 98–573, title VI, §§603, 613(c), Oct. 30, 1984, 98 Stat. 3024, 3036; Pub. L. 99–514, title XVIII, §1886(a)(3), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(a)(2), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1200, 1204; Pub. L. 103–465, title II, §§212(b)(1)(A), (C), (D), (F), 214(a)(1), 215(a), 233(a)(5)(C), (6)(A)(iii), (iv), (B), 263(a), 264(a), (c)(1), (2), 270(a)(1)(B)–(D), (b)(1)(B), 283(a), Dec. 8, 1994, 108 Stat. 4847, 4848, 4850, 4852, 4899, 4901, 4911, 4912, 4914, 4917, 4930; Pub. L. 104–295, §20(b)(5), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Pub. L. 103–465, §233(a)(5)(B), (6)(A)(iii), substituted “initiated” for 
 
 Pub. L. 103–465, §212(b)(1)(C)(i)(II), (III), substituted “based upon the information” for “based upon the best information” and struck out at end “If the determination of the administering authority under this subsection is affirmative, the determination shall include an estimate of the net subsidy.”
 
-Pub. L. 103–465, §212(b)(1)(C)(i)(I), as amended by Pub. L. 104–295, substituted “65 days after the date on which the administering authority initiates an investigationunder section 1671a(c) of this title” for “85 days after the date on which a petition is filed under section 1671a(b) of this title”.
+Pub. L. 103–465, §212(b)(1)(C)(i)(I), as amended by Pub. L. 104–295, substituted “65 days after the date on which the administering authority initiates an investigation under section 1671a(c) of this title” for “85 days after the date on which a petition is filed under section 1671a(b) of this title”.
 
 Subsec. (b)(2). Pub. L. 103–465, §270(a)(1)(C), substituted “countervailable subsidy” for “subsidy”.
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
 #### Uruguay Round Agreements: Entry Into Force
 
-The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

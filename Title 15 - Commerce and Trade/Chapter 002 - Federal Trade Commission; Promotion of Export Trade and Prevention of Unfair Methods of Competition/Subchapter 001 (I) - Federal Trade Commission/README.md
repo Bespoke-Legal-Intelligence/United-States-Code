@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 18a, 64, 65, 68, 68a, 68c, 68d, 68e, 68f, 68g, 69, 69a, 69d, 69f, 69g, 69h, 70a, 70c, 70d, 70e, 70f, 70g, 70h, 638, 640, 1012, 1013, 1172, 1191, 1192, 1194, 1195, 1197, 1291, 1460, 1607, 1679h, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 1802, 2079, 2101, 2103, 2106, 2311, 2821, 2823, 3301, 3503, 5713, 5723, 6105 of this title; title 10 section 7430; title 12 section 1831t; title 16 section 2602; title 19 section 2485; title 21 section 378; title 30 sections 184, 1413; title 40 section 488; title 42 sections 2135, 5417, 5909, 6202, 6294, 6315, 6325, 8235f; title 43 sections 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 sections 10706, 32908; title 50 App. sections 1941a, 2158.
+This subchapter is referred to in sections 18a, 64, 65, 68, 68a, 68c, 68d, 68e, 68f, 68g, 69, 69a, 69d, 69f, 69g, 69h, 70a, 70c, 70d, 70e, 70f, 70g, 70h, 638, 640, 1012, 1013, 1172, 1191, 1192, 1194, 1195, 1197, 1291, 1460, 1607, 1679h, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 1802, 2079, 2101, 2103, 2106, 2311, 2821, 2823, 3301, 3503, 5713, 5723, 6105, 6505 of this title; title 10 section 7430; title 12 section 1831t; title 16 section 2602; title 19 section 2485; title 21 section 378; title 30 sections 184, 1413; title 40 section 488; title 42 sections 2135, 5417, 5909, 6202, 6294, 6315, 6325, 8235f; title 43 sections 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 sections 10706, 32908; title 50 App. sections 1941a, 2158.
 
 
 ---

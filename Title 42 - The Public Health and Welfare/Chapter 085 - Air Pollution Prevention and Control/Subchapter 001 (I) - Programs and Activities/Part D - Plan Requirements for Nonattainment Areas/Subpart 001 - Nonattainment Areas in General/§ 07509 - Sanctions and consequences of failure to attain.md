@@ -62,7 +62,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 (3) The attainment date applicable to the revision required under paragraph (1) shall be the same as provided in the provisions of section 7502(a)(2) of this title, except that in applying such provisions the phrase “from the date of the notice under section 7509(c)(2) of this title” shall be substituted for the phrase “from the date such area was designated nonattainment under section 7407(d) of this title” and for the phrase “from the date of designation as nonattainment”.
 
-(July 14, 1955, ch. 360, title I, §179, as added Nov. 15, 1990, Pub. L. 101–549, title I, §102(g), 104 Stat. 2420.)
+(July 14, 1955, ch. 360, title I, §179, as added Pub. L. 101–549, title I, §102(g), Nov. 15, 1990, 104 Stat. 2420.)
 
 #### Section Referred to in Other Sections
 

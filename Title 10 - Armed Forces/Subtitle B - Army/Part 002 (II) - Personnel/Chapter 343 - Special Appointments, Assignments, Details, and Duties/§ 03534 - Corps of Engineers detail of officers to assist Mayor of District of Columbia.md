@@ -2,7 +2,7 @@
 
 The President may detail not more than three officers assigned to the Corps of Engineers to assist the Mayor of the District of Columbia in discharging his duties.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 201; Oct. 22, 1968, Pub. L. 90–623, §2(5), 82 Stat. 1314; Pub. L. 96–513, title V, §512(5)(A), (B), Dec. 12, 1980, 94 Stat. 2929.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 201; Pub. L. 90–623, §2(5), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §512(5)(A), (B), Dec. 12, 1980, 94 Stat. 2929.)
 
 Historical and Revision Notes
 

@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;(2) the term “Council” means the United States Alternative Fuels Council established under subsection (e)(1) of this section.
 
-(Pub. L. 94–163, title III, §400DD, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2445; amended Pub. L. 102–486, title IV, §402(2), (3), Oct. 24, 1992, 106 Stat. 2876.)
+(Pub. L. 94–163, title III, §400DD, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2445;amended Pub. L. 102–486, title IV, §402(2), (3), Oct. 24, 1992, 106 Stat. 2876.)
 
 #### References in Text
 

@@ -44,7 +44,7 @@ The catch-all clause at the end of the section will enable the Register to obtai
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, see section 102(g) of Pub. L. 102–307, set out as a note under section 101 of this title.
+Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
 
 #### Cross References
 

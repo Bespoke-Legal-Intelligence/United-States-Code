@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 #### (4) Emergency response employees
 
-&emsp;The term “emergency response employees” means firefighters, law enforcement officers,paramedics, emergency medical technicians, funeral-service practitioners, and other individuals (including employees of legally organized and recognized volunteer organizations, without regard to whether such employees receive nominal compensation) who, in the course of professional duties, respond to emergencies in the geographic area involved.
+&emsp;The term “emergency response employees” means firefighters, law enforcement officers, paramedics, emergency medical technicians, funeral-service practitioners, and other individuals (including employees of legally organized and recognized volunteer organizations, without regard to whether such employees receive nominal compensation) who, in the course of professional duties, respond to emergencies in the geographic area involved.
 
 #### (5) Employer of emergency response employees
 
@@ -50,7 +50,7 @@ For purposes of this subchapter:
 
 &emsp;The term “State”, except as otherwise specifically provided, means each of the 50 States, the District of Columbia, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the Republic of the Marshall Islands.
 
-(July 1, 1944, ch. 373, title XXVI, §2676, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §401, 104 Stat. 620; amended May 20, 1996, Pub. L. 104–146, §12(a), (c)(8), 110 Stat. 1373, 1374.)
+(July 1, 1944, ch. 373, title XXVI, §2676, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104Stat. 620; amended Pub. L. 104–146, §12(a), (c)(8), May 20, 1996, 110 Stat. 1373, 1374.)
 
 #### Amendments
 

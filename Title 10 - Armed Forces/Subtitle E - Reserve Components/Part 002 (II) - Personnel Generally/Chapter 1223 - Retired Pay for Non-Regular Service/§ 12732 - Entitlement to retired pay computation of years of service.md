@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(D) Points credited for the year under section 2126(b) of this title.
 
-> &emsp;For the purpose of clauses (A), (B), (C), and (D), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+> &emsp;For the purpose of clauses (A), (B), (C), and (D), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the UnitedStates, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -72,7 +72,7 @@
 
 &emsp;(7) Service in any status other than that as commissioned officer, warrant officer, nurse, flight officer, aviation midshipman, appointed aviation cadet, or enlisted member, and that described in clauses (I) and (J) of subsection (a)(1).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Sept. 2, 1958, Pub. L. 85–861, §33(a)(9), 72 Stat. 1565; Aug. 25, 1959, Pub. L. 86–197, §1(1)–(3), 73 Stat. 425; Oct. 8, 1964, Pub. L. 88–636, §1, 78 Stat. 1034; Dec. 26, 1974, Pub. L. 93–545, §1, 88 Stat. 1741; Dec. 12, 1980, Pub. L. 96–513, title V, §511(48), 94 Stat. 2924; renumbered §12732 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3000; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §543(b)(1), 110 Stat. 2522.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522.)
 
 Historical and Revision Notes<br>1956
 
@@ -236,7 +236,7 @@ Pub. L. 87–482, June 12, 1962, 76 Stat. 95, provided: “That any person who w
 
 “
 
-Sec. 2. Creditable constructive service for a person qualified under section 1 hereof shall be applied when providing retirement benefits under the Army and Air Force Vitalization and Retirement Equalization Act of 1948, as amended, or any other Act under which the individual may be entitled to retirement from the Armed Forces.
+Sec. 2. Creditable constructive service for a person qualified under section 1 hereof shall be applied when providing retirement benefits under the Army and AirForce Vitalization and Retirement Equalization Act of 1948, as amended, or any other Act under which the individual may be entitled to retirement from the Armed Forces.
 
 “
 

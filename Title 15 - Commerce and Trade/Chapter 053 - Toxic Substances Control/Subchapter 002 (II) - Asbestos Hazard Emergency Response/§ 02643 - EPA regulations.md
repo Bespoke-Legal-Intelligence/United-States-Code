@@ -78,7 +78,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (e) Implementation
 
-The Administrator shall promulgate regulations requiring the implementation of responseactions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protection of both workers and building occupants for the following phases of activity:
+The Administrator shall promulgate regulations requiring the implementation of response actions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protection of both workers and building occupants for the following phases of activity:
 
 &emsp;(1) Inspection.
 
@@ -138,7 +138,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (2) Statement by contractor
 
-&emsp;A local educational agency may require each management plan to contain a statementsigned by an accredited asbestos contractor that such contractor has prepared or assisted in the preparation of such plan, or has reviewed such plan, and that such plan is in compliance with the applicable regulations and standards promulgated or adopted pursuant to this section and other applicable provisions of law. Such a statement may not be signed by a contractor who, in addition to preparing or assisting in preparing the management plan, also implements (or will implement) the management plan.
+&emsp;A local educational agency may require each management plan to contain a statement signed by an accredited asbestos contractor that such contractor has prepared or assisted in the preparation of such plan, or has reviewed such plan, and that such plan is in compliance with the applicable regulations and standards promulgated or adopted pursuant to this section and other applicable provisions of law. Such a statement may not be signed by a contractor who, in addition to preparing or assisting in preparing the management plan, also implements (or will implement) the management plan.
 
 #### (3) Warning labels
 
@@ -182,7 +182,7 @@ Any change made in the “Guidance for Controlling Asbestos-Containing Material 
 
 #### (m) Waiver
 
-The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State, may waive some or all of the requirements of this section and section 2644 of this title with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and section 2644 of this title.
+The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State,may waive some or all of the requirements of this section and section 2644 of this title with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and section 2644 of this title.
 
 (Pub. L. 94–469, title II, §203, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2972; amended Pub. L. 101–637, §13, Nov. 28, 1990, 104 Stat. 4593.)
 

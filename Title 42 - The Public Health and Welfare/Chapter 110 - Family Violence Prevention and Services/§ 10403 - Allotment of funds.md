@@ -2,7 +2,7 @@
 
 #### (a) Proportionality of allotment; minimum allotment
 
-From the sums appropriated under section 10409 of this title for grants to States for any fiscal year, each State shall be allotted for payment in a grant authorized under section 10402(a) of this title an amount which bears thesame ratio to such sums as the population of such State bears to the population of all States, except that—
+From the sums appropriated under section 10409 of this title for grants to States for any fiscal year, each State shall be allotted for payment in a grant authorized under section 10402(a) of this title an amount which bears the same ratio to such sums as the population of such State bears to the population of all States, except that—
 
 &emsp;(1) each State shall be allotted not less than 1 percent of the amounts available for grants under section 10402(a) of this title for the fiscal year for which the allotment is made, or $400,000, whichever is the lessor <sup>1</sup> amount; and
 

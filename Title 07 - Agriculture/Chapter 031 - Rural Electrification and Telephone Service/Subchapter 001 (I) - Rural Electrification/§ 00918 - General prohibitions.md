@@ -6,7 +6,7 @@ The Secretary and the Governor of the telephone bank shall not deny or reduce an
 
 #### (b) Loan origination fees
 
-The Secretary and the Governor of the telephone bank may not charge any fee or chargenot expressly provided in this chapter in connection with any loan made or guaranteed under this chapter.
+The Secretary and the Governor of the telephone bank may not charge any fee or charge not expressly provided in this chapter in connection with any loan made or guaranteed under this chapter.
 
 #### (c) Consultants
 
@@ -30,7 +30,7 @@ The Secretary and the Governor of the telephone bank may not charge any fee or c
 
 &emsp;Nothing in this subsection shall limit the authority of the Secretary to retain the services of consultants from funds made available to the Secretary or otherwise.
 
-(May 20, 1936, ch. 432, title I, §18, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2353, 104 Stat. 4039; amended Nov. 1, 1993, Pub. L. 103–129, §2(c)(4), 107 Stat. 1364; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title I, §18, as added Pub. L. 101–624, title XXIII, §2353, Nov. 28, 1990, 104 Stat. 4039; amended Pub. L. 103–129, §2(c)(4), Nov. 1, 1993, 107 Stat. 1364; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

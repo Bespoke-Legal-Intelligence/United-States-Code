@@ -24,7 +24,7 @@ Merit Competition.—Applications for assistance under this section shall be eva
 
 Selection Criteria.—The Secretary shall select institutions for the award of financial assistance under this section from among institutions submitting applications for such assistance that—
 
-&emsp;(1) demonstrate that the proposed activities are of an appropriate scale and a sufficientquality to ensure long term improvement in the applicant's capability to serve the education and training needs of United States manufacturing firms in the same region as the applicant;
+&emsp;(1) demonstrate that the proposed activities are of an appropriate scale and a sufficient quality to ensure long term improvement in the applicant's capability to serve the education and training needs of United States manufacturing firms in the same region as the applicant;
 
 &emsp;(2) demonstrate a significant level of industry involvement and support;
 

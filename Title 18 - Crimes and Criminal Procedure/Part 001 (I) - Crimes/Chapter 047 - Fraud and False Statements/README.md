@@ -28,7 +28,7 @@
 | [1025\.](%C2%A7%2001025%20-%20False%20pretenses%20on%20high%20seas%20and%20other%20waters.md) | False pretenses on high seas and other waters. |
 | [1026\.](%C2%A7%2001026%20-%20Compromise%2C%20adjustment%2C%20or%20cancellation%20of%20farm%20indebtedness.md) | Compromise, adjustment, or cancellation of farm indebtedness. |
 | [1027\.](%C2%A7%2001027%20-%20False%20statements%20and%20concealment%20of%20facts%20in%20relation%20to%20documents%20required%20by%20the%20Employee%20Retirement%20Income%20Security%20Act%20of%201974.md) | False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974. |
-| [1028\.](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents.md) | Fraud and related activity in connection with identification documents. |
+| [1028\.](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents%20and%20information.md) | Fraud and related activity in connection with identification documents and information. |
 | [1029\.](%C2%A7%2001029%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20access%20devices.md) | Fraud and related activity in connection with access devices. |
 | [1030\.](%C2%A7%2001030%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20computers.md) | Fraud and related activity in connection with computers. |
 | [1031\.](%C2%A7%2001031%20-%20Major%20fraud%20against%20the%20United%20States.md) | Major fraud against the United States. |
@@ -40,6 +40,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–318, §3(h)(2), Oct. 30, 1998, 112 Stat. 3009, inserted “and information” at end of item 1028.
 
 1996—Pub. L. 104–294, title VI, §601(f)(8), Oct. 11, 1996, 110 Stat. 3500, substituted “veteran's facilities” for “veterans’ facilities” in item 1024.
 
@@ -112,7 +114,7 @@ This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>
 - [&sect; 01025 - False pretenses on high seas and other waters](%C2%A7%2001025%20-%20False%20pretenses%20on%20high%20seas%20and%20other%20waters.md)
 - [&sect; 01026 - Compromise, adjustment, or cancellation of farm indebtedness](%C2%A7%2001026%20-%20Compromise%2C%20adjustment%2C%20or%20cancellation%20of%20farm%20indebtedness.md)
 - [&sect; 01027 - False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974](%C2%A7%2001027%20-%20False%20statements%20and%20concealment%20of%20facts%20in%20relation%20to%20documents%20required%20by%20the%20Employee%20Retirement%20Income%20Security%20Act%20of%201974.md)
-- [&sect; 01028 - Fraud and related activity in connection with identification documents](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents.md)
+- [&sect; 01028 - Fraud and related activity in connection with identification documents and information](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents%20and%20information.md)
 - [&sect; 01029 - Fraud and related activity in connection with access devices](%C2%A7%2001029%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20access%20devices.md)
 - [&sect; 01030 - Fraud and related activity in connection with computers](%C2%A7%2001030%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20computers.md)
 - [&sect; 01031 - Major fraud against the United States](%C2%A7%2001031%20-%20Major%20fraud%20against%20the%20United%20States.md)

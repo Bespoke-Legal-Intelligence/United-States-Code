@@ -1,6 +1,6 @@
 ### §3729. Loan fee
 
-(a)(1) Except as provided in subsection (c)(1) of this section, a fee shall be collected from each veteran obtaining a housing loan guaranteed, insured, or made under this chapter, and from each person obtaining a loan under section 3733(a) of this title, and no such loan may be guaranteed, insured, or made under this chapter until the fee payable under this section has been remitted to the Secretary.
+(a)(1) Except as provided in subsection (c) of this section, a fee shall be collected from each veteran obtaining a housing loan guaranteed, insured, or made under this chapter, and from each person obtaining a loan under section 3733(a) of this title, and no such loan may be guaranteed, insured, or made under this chapter until the fee payable under this section has been remitted to the Secretary.
 
 (2) Except as provided in paragraphs (4) and (5) of this subsection, the amount of such fee shall be 1.25 percent of the total loan amount, except that—
 
@@ -28,7 +28,9 @@
 
 (3) The amount of the fee to be collected under paragraph (1) of this subsection may be included in the loan and paid from the proceeds thereof.
 
-(4) With respect to a loan closed after September 30, 1993, and before October 1, 2002, for which a fee is collected under paragraph (1), the amount of such fee, as computed under paragraph (2), shall be increased by 0.75 percent of the total loan amount other than in the case of a loan described in subparagraph (A), (D)(ii), (E), or (F) of paragraph (2).
+(4)(A) With respect to a loan closed during the period specified in subparagraph (B) for which a fee is collected under paragraph (1), the amount of such fee, as computed under paragraph (2), shall be increased by 0.75 percent of the total loan amount other than in the case of a loan described in subparagraph (A), (D)(ii), (E), or (F) of paragraph (2).
+
+(B) The specified period for purposes of subparagraph (A) is the period beginning on October 1, 1993, and ending on September 30, 2002, except that in the case of a loan described in subparagraph (D) of paragraph (2), such period ends on September 30, 2003.
 
 (5)(A) Except as provided in subparagraph (B) of this paragraph, notwithstanding paragraphs (2) and (4) of this subsection, after a veteran has obtained an initial loan pursuant to section 3710 of this title, the amount of such fee with respect to any additional loan obtained under this chapter by such veteran shall be 3 percent of the total loan amount.
 
@@ -36,17 +38,23 @@
 
 (C) This paragraph applies with respect to a loan closed after September 30, 1993, and before October 1, 2002.
 
-(b) Except as provided in subsection (c) of this section, a fee shall be collected from a person assuming a loan to which section 3714 of this title applies. The amount of the fee shall be equal to0.50 percent of the balance of the loan on the date of the transfer of the property.
+(b) Except as provided in subsection (c) of this section, a fee shall be collected from a person assuming a loan to which section 3714 of this title applies. The amount of the fee shall be equal to 0.50 percent of the balance of the loan on the date of the transfer of the property.
 
-(c)(1) A fee may not be collected under this section from a veteran who is receiving compensation (or who but for the receipt of retirement pay would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
+(c) A fee may not be collected under this section from a veteran who is receiving compensation (or who but for the receipt of retirement pay would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
 
-(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required to be credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
-
-(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapter that are closed during fiscal year 1990 shall be made in October 1990.
-
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669.)
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–368, §602(e)(1)(D)(ii), substituted “(c)” for “(c)(1)”.
+
+Subsec. (a)(4). Pub. L. 105–368, §603(b), designated existing provisions as subpar. (A), substituted “during the period specified in subparagraph (B)” for “after September 30, 1993, and before October 1, 2002,”, and added subpar. (B).
+
+Subsec. (c). Pub. L. 105–368, §603(e)(1)(D)(i), struck out “(1)” before “A fee may not” and struck out pars. (2) and (3) which read as follows:
+
+“(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required to be credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
+
+“(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapter that are closed during fiscal year 1990 shall be made in October 1990.”
 
 1997—Subsec. (a)(2)(A). Pub. L. 105–33, §8032(1)(A), struck out “or 3733(a)” after “section 3711”.
 
@@ -108,7 +116,7 @@ Subsec. (c). Pub. L. 101–239 substituted “September 30, 1990” for “Septe
 
 1988—Subsec. (d). Pub. L. 100–322 substituted “section 1814” for “section 1817A”.
 
-1987—Subsec. (b). Pub. L. 100–198, §2(b), substituted “of any veteran (including a person who died in the active military, naval, or air service) who died from aservice-connected disability” for “described in section 1801(b)(2) of this title”.
+1987—Subsec. (b). Pub. L. 100–198, §2(b), substituted “of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability” for “described in section 1801(b)(2) of this title”.
 
 Subsec. (c). Pub. L. 100–198, §2(a), and Pub. L. 100–203, amended subsec. identically, substituting “September 30, 1989” for “September 30, 1987”.
 
@@ -117,6 +125,10 @@ Subsec. (d). Pub. L. 100–198, §10(c), added subsec. (d).
 1984—Subsec. (a). Pub. L. 98–369, §2511(a)(1), inserted “and from each person obtaining a loan from the Administrator to finance the purchase of real property from the Administrator,” after “under this chapter,”, struck out “one-half of” before “one percent of the total loan amount”, and struck out “to the veteran” after “in the loan”.
 
 Subsecs. (c), (d). Pub. L. 98–367, §2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -138,7 +150,17 @@ Section 406(b) of Pub. L. 97–253, as amended by Pub. L. 102–83, §5(c)(2), A
 
 #### Ratification of Actions by Secretary of Veterans Affairs and by Secretary of the Treasury Between Oct. 1, 1990, and June 13, 1991
 
-For provisions ratifying any failure by the Secretary of Veterans Affairs or the Secretary of the Treasury to act under subsec. (a)(3) of this section during the period beginning Oct. 1, 1990, and ending June 13, 1991, see section 15(b) of Pub. L. 102–54, set out as a note under section 3725 of this title.
+Section 15(b) of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+
+“(1) Any action of the Secretary of Veterans Affairs or the Secretary of the Treasury—
+
+&emsp;“(A) that was taken during the period beginning on October 1, 1990, and ending on the date of the enactment of this Act \[June 13, 1991\]; and
+
+&emsp;“(B) that would have been an action carried out under section 3725(c)(3) \[formerly 1825(c)(3)\] of title 38, United States Code, if the amendment made by paragraph (2) of subsection (a) of this section had been made before October 1, 1990,
+
+> is hereby ratified.
+
+“(2) Any failure to act by the Secretary of Veterans Affairs or the Secretary of the Treasury during such period under section 3729(a)(3) \[formerly 1829(a)(3)\] of such title is hereby ratified.”
 
 #### Ratification of Actions of Secretary of Veterans Affairs During Transition Periods
 
@@ -164,5 +186,5 @@ Pub. L. 99–576, title IV, §409, Oct. 28, 1986, 100 Stat. 3283, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3703, 3724, 3725, 3733, 3734, 3735 of this title.
+This section is referred to in sections 3703, 3722, 3734, 3735 of this title.
 

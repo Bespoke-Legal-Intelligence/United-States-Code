@@ -54,19 +54,7 @@ Section 112(a)(2) of Pub. L. 94–424 provided that: “The authority granted by
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Presidential Authority During Fiscal Years 1990 and 1991
 
-Pub. L. 100–461, title V, §572, Oct. 1, 1988, 102 Stat. 2268–44, provided that: “During fiscal years 1990 and 1991, the President may use the authority of paragraphs (A) and (B) of section 124(c)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151v(c)(1)(A), (B)\] with respect to such aggregate amounts of principal and interest payable during each of these fiscal years as the President may determine, or at any time after September 30, 1989, the President may, if he determines it is in the national interest to do so, use the authority of those paragraphs with respect to such aggregate amounts of outstanding principal and interest payable at any time after that date as the President may determine. The authority provided in this section may be exercised with respect to any country described in the last sentence of this section and may be exercised notwithstanding section 124(c)(2) of that Act. In exercising the authority provided in this section, the President may waive the requirement that equivalent amounts of local currencies be deposited into local currency accounts in accordance with paragraph (A) of section 124(c)(1) of that Act, to the extent that the President determines that sufficient local currencies are otherwise available to achieve development objectives. This section applies with respect to any relatively least developed country, or any country in Sub-Saharan Africa (without regard to whether that country is a relatively least developed country within the meaning of section 124(a) of that Act), if—
-
-&emsp;“(1) an International Monetary Fund standby agreement is in effect with respect to that country; or
-
-&emsp;“(2) a structural adjustment program of the International Bank for Reconstruction and Development or of the International Development Association is in effect with respect to that country; or
-
-&emsp;“(3) a structural adjustment facility or enhanced structural adjustment facility with the International Monetary Fund is in effect with respect to that country.”
-
-\[Functions of President under section 572 of Pub. L. 100–461, set out above, delegated to Director of United States International Development Cooperation Agency, pursuant to section 1–102(a)(8), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
+Pub. L. 100–461, title V, §572, Oct. 1, 1988, 102 Stat. 2268–44, provided that during fiscal years 1990 and 1991, President could use authority of paragraphs (A) and (B) of subsection (c)(1) of this section with respect to such aggregate amounts of principal and interest payable during each of those fiscal years as President determined, or at any time after Sept. 30, 1989, President could, if he determined it was in national interest to do so, use authority of those paragraphs with respect to such aggregate amounts of outstanding principal and interest payable at any time after that date, and that such authority could be exercised with respect to specified countries, and be exercised notwithstanding subsection (c)(2) of this section.
 

@@ -108,7 +108,7 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 &emsp;&emsp;(C) does not condition membership in the association on any health status-related factor relating to an individual (including an employee of an employer or a dependent of an employee);
 
-&emsp;&emsp;(D) makes health insurance coverage offered through the association available toall members regardless of any health status-related factor relating to such members (or individuals eligible for coverage through a member);
+&emsp;&emsp;(D) makes health insurance coverage offered through the association available to all members regardless of any health status-related factor relating to such members (or individuals eligible for coverage through a member);
 
 &emsp;&emsp;(E) does not make health insurance coverage offered through the association available other than in connection with a member of the association; and
 
@@ -224,7 +224,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;Any reference in this subsection to an employer shall include a reference to any predecessor of such employer.
 
-(July 1, 1944, ch. 373, title XXVII, §2791, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1972.)
+(July 1, 1944, ch. 373, title XXVII, §2791, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1972.)
 
 #### References in Text
 

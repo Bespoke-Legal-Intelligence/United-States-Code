@@ -16,7 +16,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(E) in the case of an individual who enrolls pursuant to subsection (e) of section 1395p of this title, the July 1 following the month in which he so enrolls; or
 
-&emsp;(3)(A) in the case of an individual who is deemed to have enrolled on or before the lastday of the third month of his initial enrollment period, the first day of the month in which he first meets the applicable requirements of section 1395<i>o</i> of this title or July 1, 1973, whichever is later, or
+&emsp;(3)(A) in the case of an individual who is deemed to have enrolled on or before the last day of the third month of his initial enrollment period, the first day of the month in which he first meets the applicable requirements of section 1395<i>o</i> of this title or July 1, 1973, whichever is later, or
 
 &emsp;(B) in the case of an individual who is deemed to have enrolled on or after the first day of the fourth month of his initial enrollment period, as prescribed under subparagraphs (B), (C), (D), and (E) of paragraph (2) of this subsection.
 
@@ -30,7 +30,7 @@ An individual's coverage period shall continue until his enrollment has been ter
 
 > The termination of a coverage period under paragraph (1) shall (except as otherwise provided in section 1395v(e) of this title) take effect at the close of the month following the month in which the notice is filed. The termination of a coverage period under paragraph (2) shall take effect on a date determined under regulations, which may be determined so as to provide a grace period in which overdue premiums may be paid and coverage continued. The grace period determined under the preceding sentence shall not exceed 90 days; except that it may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period.
 
-Where an individual who is deemed to have enrolled for medical insurance pursuant to section 1395p(f) of this title files a notice before the first day of the month in which his coverage period begins advising that he does not wish to be so enrolled, the termination of the coverage period resulting from such deemed enrollment shall take effect with the first day of the month the coverage would have been effective. Where an individual who is deemed enrolled for medical insurance benefits pursuant to section 1395p(f) of this title files a notice requesting termination of his deemed coverage in or after the month in which such coverage becomes effective, the termination of such coverage shall take effect at the close of the month following the month in which the notice is filed.
+Where an individual who is deemed to have enrolled for medical insurance pursuant to section 1395p(f) of this title files a notice before the first day of the month in which his coverage period begins advising that he does not wish to be so enrolled, the termination of the coverage period resulting from such deemed enrollment shalltake effect with the first day of the month the coverage would have been effective. Where an individual who is deemed enrolled for medical insurance benefits pursuant to section 1395p(f) of this title files a notice requesting termination of his deemed coverage in or after the month in which such coverage becomes effective, the termination of such coverage shall take effect at the close of the month following the month in which the notice is filed.
 
 #### (c) Termination
 
@@ -48,7 +48,7 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 &emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 305; amended Jan. 2, 1968, Pub. L. 90–248, title I, §145(c), 81 Stat. 859; Oct. 30, 1972, Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), 86 Stat. 1373, 1378, 1447; Dec. 5, 1980, Pub. L. 96–499, title IX, §§945(c)(1), 947(b), 94 Stat. 2642, 2643; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), 95 Stat. 792, 802; July 18, 1984, Pub. L. 98–369, div. B, title III, §2338(c), 98 Stat. 1092; Apr. 7, 1986, Pub. L. 99–272, title IX, §9201(c)(2), 100 Stat. 171; Oct. 21, 1986, Pub. L. 99–509, title IX, §9344(b)(1), 100 Stat. 2042; Oct. 31, 1994, Pub. L. 103–432, title I, §147(f)(1)(B), 108 Stat. 4430; Aug. 5, 1997, Pub. L. 105–33, title IV, §4581(b)(2), 111 Stat. 465.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 92–603, §§206(c), 257(a), inserted provisions relating 
 
 Subsecs. (c), (d). Pub. L. 92–603, §202(c)(3)(C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1968—Subsec. (b). Pub. L. 90–248 struck out “, during a general enrollment period described in section 1395p(e) of this title,” after “notice” in par. (1), and substituted in first sentence following par. (2) “the calendar quarter following the calendar quarter” for “December 31 of the year”.
+1968—Subsec. (b). Pub. L. 90–248 struck out “, during a general enrollment period described in section 1395p(e) of this title,” after “notice” in par. (1), andsubstituted in first sentence following par. (2) “the calendar quarter following the calendar quarter” for “December 31 of the year”.
 
 #### Effective Date of 1997 Amendment
 

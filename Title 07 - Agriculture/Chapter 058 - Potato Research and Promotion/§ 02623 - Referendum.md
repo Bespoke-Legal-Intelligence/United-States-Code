@@ -10,7 +10,7 @@ No plan issued under this chapter shall be effective unless the Secretary determ
 
 #### (c) Amendments
 
-The failure of potato producers and importers to approve an amendment to any plan issuedunder this chapter shall not be deemed to invalidate such plan.
+The failure of potato producers and importers to approve an amendment to any plan issued under this chapter shall not be deemed to invalidate such plan.
 
 #### (d) Penalties for disclosure of confidential information, ballots and reports
 

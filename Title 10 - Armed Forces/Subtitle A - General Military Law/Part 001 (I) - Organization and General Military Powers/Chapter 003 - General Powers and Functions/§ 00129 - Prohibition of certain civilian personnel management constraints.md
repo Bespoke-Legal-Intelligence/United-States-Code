@@ -1,6 +1,6 @@
 ### §129. Prohibition of certain civilian personnel management constraints
 
-(a) The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the workload required to carry out the functions and activities of the department and (2) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years,end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.
+(a) The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the workload required to carry out the functions and activities of the department and (2) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.
 
 (b) The number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense may not be—
 
@@ -53,6 +53,10 @@ Subsec. (e). Pub. L. 104–201, §1603(2), added subsec. (e).
 1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 Pub. L. 99–433 renumbered section 140b of this title as this section.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

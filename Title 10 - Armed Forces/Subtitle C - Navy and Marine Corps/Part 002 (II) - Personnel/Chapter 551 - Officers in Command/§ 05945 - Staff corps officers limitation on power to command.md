@@ -2,7 +2,7 @@
 
 An officer in a staff corps may command only such activities as are appropriate to his corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 371; Nov. 8, 1967, Pub. L. 90–130, §1(21), 81 Stat. 380.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 371; Pub. L. 90–130, §1(21), Nov. 8, 1967, 81 Stat. 380.)
 
 Historical and Revision Notes
 

@@ -10,7 +10,7 @@
 
 #### (A) Cane sugar
 
-&emsp;&emsp;The Secretary shall make allocations for cane sugar after a hearing, if requested by interested parties, and on such notice as the Secretary by regulation may prescribe, in such manner and in such quantities as to provide a fair, efficient, and equitable distribution of the allocations by taking into consideration processing capacity, past marketings of sugar, and the ability of each processor to market sugar covered by that portion of the allotment allocated. Each such allocation shall be subject to adjustment under section 1359cc(g) of this title.
+&emsp;&emsp;The Secretary shall make allocations for cane sugar after a hearing, if requested by interested parties, and on such notice as theSecretary by regulation may prescribe, in such manner and in such quantities as to provide a fair, efficient, and equitable distribution of the allocations by taking into consideration processing capacity, past marketings of sugar, and the ability of each processor to market sugar covered by that portion of the allotment allocated. Each such allocation shall be subject to adjustment under section 1359cc(g) of this title.
 
 #### (B) Beet sugar
 
@@ -20,7 +20,7 @@
 
 Except as otherwise provided in section 1359ee of this title, a State cane sugar allotment established under section 1359cc(f) of this title for a fiscal year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.
 
-(Feb. 16, 1938, ch. 30, title III, §359d, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3483; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(f), 105 Stat. 1833.)
+(Feb. 16, 1938, ch. 30, title III, §359d, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3483; amended Pub. L. 102–237, title I, §111(f), Dec. 13, 1991, 105 Stat. 1833.)
 
 #### Amendments
 

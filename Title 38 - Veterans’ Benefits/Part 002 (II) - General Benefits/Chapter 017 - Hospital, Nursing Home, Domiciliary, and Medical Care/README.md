@@ -35,6 +35,7 @@
 | [1720B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720B%20-%20Respite%20care.md) | Respite care. |
 | [1720C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720C%20-%20Noninstitutional%20alternatives%20to%20nursing%20home%20care.md) | Noninstitutional alternatives to nursing home care. |
 | [1720D.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720D%20-%20Counseling%20and%20treatment%20for%20sexual%20trauma.md) | Counseling and treatment for sexual trauma. |
+| [1720E.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720E%20-%20Nasopharyngeal%20radium%20irradiation.md) | Nasopharyngeal radium irradiation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,6 +104,8 @@
 
 #### Amendments
 
+1998—Pub. L. 105–368, title IX, §901(b), Nov. 11, 1998, 112 Stat. 3360, added item 1720E.
+
 1997—Pub. L. 105–114, title II, §§202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted “Treatment and rehabilitative services for persons with drug or alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in item 1720A, struck out “: pilot program” after “home care” in item 1720C, and added item for subchapter VII and items 1771 to 1774.
 
 Pub. L. 105–33, title VIII, §8023(a)(2), Aug. 5, 1997, 111 Stat. 667, added item 1729A.
@@ -147,7 +150,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1976—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
-1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
+1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted“Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 
 Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “Arrests for crimes in hospitals and domiciliary reservations”.
 
@@ -169,7 +172,7 @@ Third party tort liability to United States for hospital and medical care, excep
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5315, 5503, 7333, 8107, 8153 of this title; title 31 section 3803; title 42 sections 1320d, 2651, 14402.
+This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5315, 5503, 7333, 8107, 8153 of this title; title 10 section 2641a; title 31 section 3803; title 42 sections 1320d, 1395w–21, 2651, 14402.
 
 
 ---

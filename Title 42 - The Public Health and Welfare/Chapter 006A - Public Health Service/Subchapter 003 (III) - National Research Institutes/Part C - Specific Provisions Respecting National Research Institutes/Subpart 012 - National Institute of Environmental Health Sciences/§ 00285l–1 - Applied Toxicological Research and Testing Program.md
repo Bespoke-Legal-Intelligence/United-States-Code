@@ -16,5 +16,5 @@
 
 &emsp;(6) to integrate related activities of the Department of Health and Human Services.
 
-(July 1, 1944, ch. 373, title IV, §463A, as added June 10, 1993, Pub. L. 103–43, title XIII, §1301(a), 107 Stat. 169.)
+(July 1, 1944, ch. 373, title IV, §463A, as added Pub. L. 103–43, title XIII, §1301(a), June 10, 1993, 107 Stat. 169.)
 

@@ -24,7 +24,7 @@ The Advisory Committee shall consist of 13 members, who shall be appointed by th
 
 &emsp;(C) One member shall be selected from a list of persons recommended by the Governor of the State of Kansas.
 
-&emsp;(5) One member shall be a range management specialist representing institutions of higher education (as defined in section 1141(a) of title 20) in the State of Kansas.
+&emsp;(5) One member shall be a range management specialist representing institutions of higher education (as defined in section 1001 of title 20) in the State of Kansas.
 
 #### (d) Terms
 
@@ -70,11 +70,19 @@ Each member of the Advisory Committee shall serve without compensation, except t
 
 The rechartering provisions of section 14(b) of the Federal Advisory Committee Act (15 U.S.C. App.) shall not apply to the Advisory Committee.
 
-(Pub. L. 104–333, div. I, title X, §1007, Nov. 12, 1996, 110 Stat. 4208.)
+(Pub. L. 104–333, div. I, title X, §1007, Nov. 12, 1996, 110 Stat. 4208; Pub. L. 105–244, title I, §102(a)(4), Oct. 7, 1998, 112 Stat. 1618.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1998—Subsec. (c)(5). Pub. L. 105–244 substituted “section 1001 of title 20)” for “section 1141(a) of title 20)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Termination of Advisory Committees
 

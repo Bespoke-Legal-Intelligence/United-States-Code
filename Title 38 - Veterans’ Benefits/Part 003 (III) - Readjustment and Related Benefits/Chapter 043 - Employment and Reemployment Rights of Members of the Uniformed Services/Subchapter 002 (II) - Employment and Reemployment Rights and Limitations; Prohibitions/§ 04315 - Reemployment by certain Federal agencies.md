@@ -40,5 +40,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4313, 4325 of this title.
+This section is referred to in sections 4313, 4319, 4325 of this title.
 

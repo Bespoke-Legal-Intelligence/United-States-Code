@@ -28,7 +28,7 @@
 
 #### (b) Phase-in of requirements
 
-The plan revision required under this section shall contain provisions requiring that at least aspecified percentage of all new covered fleet vehicles in model year 1998 and thereafter purchased by each covered fleet operator in each covered area shall be clean-fuel vehicles and shall use clean alternative fuels when operating in the covered area. For the applicable model years (MY) specified in the following table and thereafter, the specified percentage shall be as provided in the table for the vehicle types set forth in the table:
+The plan revision required under this section shall contain provisions requiring that at least a specified percentage of all new covered fleet vehicles in model year 1998 and thereafter purchased by each covered fleet operator in each covered area shall be clean-fuel vehicles and shall use clean alternative fuels when operating in the covered area. For the applicable model years (MY) specified in the following table and thereafter, the specified percentage shall be as provided in the table for the vehicle types set forth in the table:
 
 Clean Fuel Vehicle Phase-in Requirements for Fleets
 
@@ -70,7 +70,7 @@ Notwithstanding the model years for which clean-fuel vehicle standards are appli
 
 #### (d) Choice of vehicles and fuel
 
-The plan revision under this subsection shall provide that the choice of clean-fuel vehicles and clean alternative fuels shall be made by the covered fleet operator subject to the requirements of this subsection.
+The plan revision under this subsection shall provide that the choice of clean-fuel vehiclesand clean alternative fuels shall be made by the covered fleet operator subject to the requirements of this subsection.
 
 #### (e) Availability of clean alternative fuel
 
@@ -108,7 +108,7 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 #### (4) Standards for issuing credits for cleaner vehicles
 
-&emsp;Solely for purposes of issuing credits under paragraph (1)(B), the Administrator shall establish under this paragraph standards for Ultra-Low Emission Vehicles (“ULEV”s) and Zero Emissions Vehicles (“ZEV”s) which shall be more stringent than those otherwise applicable to clean-fuel vehicles under this part. The Administrator shall certify clean fuel <sup>2</sup> vehicles as complying with such more stringent standards, and administer and enforce such more stringent standards, in the same manner as in the case of the otherwise applicableclean-fuel vehicle standards established under this section. The standards established by the Administrator under this paragraph for vehicles under 8,500 lbs. GVWR or greater shall conform as closely as possible to standards which are established by the State of California for ULEV and ZEV vehicles in the same class. For vehicles of 8,500 lbs. GVWR or more, the Administrator shall promulgate comparable standards for purposes of this subsection.
+&emsp;Solely for purposes of issuing credits under paragraph (1)(B), the Administrator shall establish under this paragraph standards for Ultra-Low Emission Vehicles (“ULEV”s) and Zero Emissions Vehicles (“ZEV”s) which shall be more stringent than those otherwise applicable to clean-fuel vehicles under this part. The Administrator shall certify clean fuel <sup>2</sup> vehicles as complying with such more stringent standards, and administer and enforce such more stringent standards, in the same manner as in the case of the otherwise applicable clean-fuel vehicle standards established under this section. The standards established by the Administrator under this paragraph for vehicles under 8,500 lbs. GVWR or greater shall conform as closely as possible to standards which are established by the State of California for ULEV and ZEV vehicles in the same class. For vehicles of 8,500 lbs. GVWR or more, the Administrator shall promulgate comparable standards for purposes of this subsection.
 
 #### (5) Early fleet credits
 
@@ -122,7 +122,7 @@ At any facility owned or operated by a department, agency, or instrumentality of
 
 The Administrator shall by rule, within 1 year after November 15, 1990, ensure that certain transportation control measures including time-of-day or day-of-week restrictions, and other similar measures that restrict vehicle usage, do not apply to any clean-fuel vehicle that meets the requirements of this section. This subsection shall apply notwithstanding subchapter I of this chapter.
 
-(July 14, 1955, ch. 360, title II, §246, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2520.)
+(July 14, 1955, ch. 360, title II, §246, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2520.)
 
 #### Section Referred to in Other Sections
 

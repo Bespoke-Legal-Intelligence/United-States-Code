@@ -1,10 +1,10 @@
 ### §18237. Supervision of construction: compliance with State law
 
-(a) Any construction, expansion, rehabilitation, or conversion under section 18233(a)(1) ofthis title may be performed under the supervision of the Chief of Engineers of the Army or the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate.
+(a) Any construction, expansion, rehabilitation, or conversion under section 18233(a)(1) of this title may be performed under the supervision of the Chief of Engineers of the Army or the head of such office or agency in the Department of the Navy as the Secretary of the Navy may designate.
 
 (b) The construction, expansion, rehabilitation, or conversion of facilities in a State under paragraph (2), (3), (4), (5), or (6) of section 18233(a) of this title shall be done according to the laws of that jurisdiction and under the supervision of its officials, subject to the inspection and approval of the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 123, §2237; Sept. 2, 1958, Pub. L. 85–861, §1(41), 72 Stat. 1457; Nov. 2, 1966, Pub. L. 89–718, §19, 80 Stat. 1118; July 12, 1982, Pub. L. 97–214, §3(d)(2), 96 Stat. 170; renumbered §18237 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (9), div. B, title XXVIII, §2852, 108 Stat. 3010, 3011, 3072; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(b)(37), 110 Stat. 498.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 123, §2237; Pub. L. 85–861, §1(41), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 89–718, §19, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 97–214, §3(d)(2), July 12, 1982, 96 Stat. 170; renumbered §18237 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (9), div. B, title XXVIII, §2852, Oct. 5, 1994, 108 Stat. 3010, 3011, 3072; Pub. L. 104–106, div. A, title XV, §1501(b)(37), Feb. 10, 1996, 110 Stat. 498.)
 
 Historical and Revision Notes<br>1956
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 85–861 added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 

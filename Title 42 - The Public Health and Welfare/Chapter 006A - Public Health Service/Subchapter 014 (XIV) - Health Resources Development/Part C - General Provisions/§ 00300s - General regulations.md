@@ -2,7 +2,7 @@
 
 The Secretary shall by regulation—
 
-&emsp;(1) prescribe the manner in which he shall determine the priority among projects forwhich assistance is available under part A or B, based on the relative need of different areas for such projects and giving special consideration—
+&emsp;(1) prescribe the manner in which he shall determine the priority among projects for which assistance is available under part A or B, based on the relative need of different areas for such projects and giving special consideration—
 
 &emsp;&emsp;(A) to projects for medical facilities serving areas with relatively small financial resources and for medical facilities serving rural communities,
 
@@ -16,11 +16,11 @@ The Secretary shall by regulation—
 
 &emsp;(2) prescribe for medical facilities projects assisted under part A or B general standards of construction, modernization, and equipment, which standards may vary on the basis of the class of facilities and their location; and
 
-&emsp;(3) prescribe the general manner in which each entity which receives financial assistance under part A or B or has received financial assistance under part A or B or subchapter IV of this chapter shall be required to comply with the assurances required to be made at the time such assistance was received and the means by which such entity shall be required to demonstrate compliance with such assurances.
+&emsp;(3) prescribe the general manner in which each entity which receives financial assistanceunder part A or B or has received financial assistance under part A or B or subchapter IV of this chapter shall be required to comply with the assurances required to be made at the time such assistance was received and the means by which such entity shall be required to demonstrate compliance with such assurances.
 
 > An entity subject to the requirements prescribed pursuant to paragraph (3) respecting compliance with assurances made in connection with receipt of financial assistance shall submit periodically to the Secretary data and information which reasonably supports the entity's compliance with such assurances. The Secretary may not waive the requirement of the preceding sentence.
 
-(July 1, 1944, ch. 373, title XVI, §1620, as added Oct. 4, 1979, Pub. L. 96–79, title II, §202(b), 93 Stat. 632.)
+(July 1, 1944, ch. 373, title XVI, §1620, as added Pub. L. 96–79, title II, §202(b), Oct. 4, 1979, 93 Stat. 632.)
 
 #### Prior Provisions
 

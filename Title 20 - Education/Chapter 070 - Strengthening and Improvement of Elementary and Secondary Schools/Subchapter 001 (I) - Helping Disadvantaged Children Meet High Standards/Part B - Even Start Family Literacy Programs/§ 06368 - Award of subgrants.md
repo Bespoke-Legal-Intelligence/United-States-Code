@@ -60,11 +60,15 @@
 
 #### (3) Continuing eligibility
 
-&emsp;In awarding subgrant funds to continue a program under this part for the second, third, or fourth year, the State educational agency shall review the progress being made toward meeting the objectives of the program after the conclusion of the startup period, if any.
+&emsp;In awarding subgrant funds to continue a program under this part for the second, third, or fourth year, the State educational agency shall evaluate the program based on the indicators of program quality developed by the State under section 6369a of this title. Such evaluation shall take place after the conclusion of the startup period, if any.
 
 #### (4) Insufficient progress
 
-&emsp;The State educational agency may refuse to award subgrant funds if such agency finds that sufficient progress has not been made toward meeting such objectives, but only after affording the applicant notice and an opportunity for a hearing.
+&emsp;The State educational agency may refuse to award subgrant funds if such agency finds that the eligible entity has not sufficiently improved the performance of the program, as evaluated based on the indicators of program quality developed by the State under section 6369a of this title, after—
+
+&emsp;&emsp;(A) providing technical assistance to the eligible entity; and
+
+&emsp;&emsp;(B) affording the eligible entity notice and an opportunity for a hearing.
 
 #### (5) Grant renewal
 
@@ -72,5 +76,11 @@
 
 &emsp;(B) The Federal share of any subgrant renewed under subparagraph (A) shall not exceed 50 percent in any fiscal year.
 
-(Pub. L. 89–10, title I, §1208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3583.)
+(Pub. L. 89–10, title I, §1208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3583; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(c)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409.)
+
+#### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–277 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In awarding subgrant funds to continue a program under this part for the second, third, or fourth year, the State educational agency shall review the progress being made toward meeting the objectives of the program after the conclusion of the startup period, if any.”
+
+Subsec. (b)(4). Pub. L. 105–277 amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The State educational agency mayrefuse to award subgrant funds if such agency finds that sufficient progress has not been made toward meeting such objectives, but only after affording the applicant notice and an opportunity for a hearing.”
 

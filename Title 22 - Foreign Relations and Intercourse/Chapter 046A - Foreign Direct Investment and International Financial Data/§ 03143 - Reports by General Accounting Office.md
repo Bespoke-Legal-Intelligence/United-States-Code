@@ -34,7 +34,7 @@ In preparing any report under this section, the Comptroller General shall not—
 
 &emsp;(2) combine, match, or use in any other way individually identifiable data or information maintained by any of the Federal statistical agencies referred to in subsection (c) of this section with any other individually identifiable confidential data or information that is not collected by such statistical agencies.
 
-> Before issuing any such report, the Comptroller General shall in each instance submit the report to the head or heads of the agency or agencies from which confidential or identifiable information described in the preceding sentence was obtained. The agency or agencies concerned shallpromptly review the report for the purpose of assuring that the confidentiality of such information and identity is maintained, and for any other purpose, and shall provide the Comptroller General with appropriate comments or other suggestions within 10 working days after receiving the report.
+> Before issuing any such report, the Comptroller General shall in each instance submit the report to the head or heads of the agency or agencies from which confidential or identifiable information described in the preceding sentence was obtained. The agency or agencies concerned shall promptly review the report for the purpose of assuring that the confidentiality of such information and identity is maintained, and for any other purpose, and shall provide the Comptroller General with appropriate comments or other suggestions within 10 working days after receiving the report.
 
 #### (e) Right of access
 
@@ -58,5 +58,5 @@ Subsec. (b)(1). Pub. L. 104–316, §111(c)(2)(C), substituted “reports issued
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committeeon Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -4,21 +4,13 @@
 
 An order issued by the Secretary under section 7463 of this title shall provide for the establishment of a National Kiwifruit Board that consists of the following 11 members:
 
-&emsp;(1) 6 members who are producers (or representatives of producers) and who are not exempt from an assessment under section 7465(b) of this title.
+&emsp;(1) 10 members who are producers, exporters, or importers (or their representatives), based on a proportional representation of the level of domestic production and imports of kiwifruit (as determined by the Secretary).
 
-&emsp;(2) 4 members who are importers (or representatives of importers) and who are not exempt from an assessment under section 7465(b) of this title or are exporters (or representatives of exporters).
-
-&emsp;(3) 1 member appointed from the general public.
+&emsp;(2) 1 member appointed from the general public.
 
 #### (b) Adjustment of membership
 
-#### (1) In general
-
-&emsp;Subject to the 11-member limit and to paragraph (2), the Secretary may adjust membership on the Board to accommodate changes in production and import levels of kiwifruit.
-
-#### (2) Number of producer members
-
-&emsp;Producers shall comprise not less than 51 percent of the membership of the Board.
+Subject to the 11-member limit, the Secretary may adjust membership on the Board to accommodate changes in production and import levels of kiwifruit.
 
 #### (c) Appointment and nomination
 
@@ -28,11 +20,11 @@ An order issued by the Secretary under section 7463 of this title shall provide 
 
 #### (2) Producers
 
-&emsp;The members referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by producers.
+&emsp;The members who are producers referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by producers.
 
 #### (3) Importers and exporters
 
-&emsp;The members referred to in subsection (a)(2) of this section shall be appointed from individuals nominated by importers or exporters.
+&emsp;The members who are importers or exporters referred to in subsection (a)(1) of this section shall be appointed from individuals nominated by importers or exporters.
 
 #### (4) Public representative
 
@@ -40,7 +32,7 @@ An order issued by the Secretary under section 7463 of this title shall provide 
 
 #### (5) Failure to nominate
 
-&emsp;If producers, importers, and exporters fail to nominate individuals for appointment, the Secretary may appoint members and alternates on a basis provided for in the order. If the Board fails to nominate a public representative, the member may be appointed by the Secretary without a nomination.
+&emsp;If producers, importers, and exporters fail to nominate individuals for appointment, the Secretary may appoint members and alternates on a basis provided for in the order. If the Board fails to nominate a public representative, the member and alternate may be appointed by the Secretary without a nomination.
 
 #### (d) Alternates
 
@@ -82,7 +74,25 @@ The Board shall—
 
 &emsp;(6) employ or contract with a manager and staff to assist in administering the order, except that, to reduce administrative costs and increase efficiency, the Board shall seek, to the extent practicable, to employ or contract with personnel who are already associated with organizations involved in promoting kiwifruit that are chartered by a State, the District of Columbia, or the Commonwealth of Puerto Rico.
 
-(Pub. L. 104–127, title V, §555, Apr. 4, 1996, 110 Stat. 1066.)
+(Pub. L. 104–127, title V, §555, Apr. 4, 1996, 110 Stat. 1066; Pub. L. 105–185, title VI, §603(b), June 23, 1998, 112 Stat. 585.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–185, §603(b)(1), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) 6 members who are producers (or representatives of producers) and who are not exempt from an assessment under section 7465(b) of this title.
+
+“(2) 4 members who are importers (or representatives of importers) and who are not exempt from an assessment under section 7465(b) of this title or are exporters (or representatives of exporters).
+
+“(3) 1 member appointed from the general public.”
+
+Subsec. (b). Pub. L. 105–185, §603(b)(2), struck out par. (1) designation and heading, struck out “and to paragraph (2)” after “11-member limit”, and struck out heading and text of par. (2). Text read as follows: “Producers shall comprise not less than 51 percent of the membership of the Board.”
+
+Subsec. (c)(2). Pub. L. 105–185, §603(b)(3)(A), inserted “who are producers” after “members”.
+
+Subsec. (c)(3). Pub. L. 105–185, §603(b)(3)(B), inserted “who are importers or exporters” after “members” and substituted “(a)(1)” for “(a)(2)”.
+
+Subsec. (c)(5). Pub. L. 105–185, §603(b)(3)(C), inserted “and alternate” before “may be appointed” in second sentence.
 
 #### Section Referred to in Other Sections
 

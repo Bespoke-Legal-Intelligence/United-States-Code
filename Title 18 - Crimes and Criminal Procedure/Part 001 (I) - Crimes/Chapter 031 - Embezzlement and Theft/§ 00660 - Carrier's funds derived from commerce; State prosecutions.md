@@ -6,7 +6,7 @@ The offense shall be deemed to have been committed not only in the district wher
 
 A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution hereunder for the same act or acts.
 
-(June 25, 1948, ch. 645, 62 Stat. 730; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 730; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

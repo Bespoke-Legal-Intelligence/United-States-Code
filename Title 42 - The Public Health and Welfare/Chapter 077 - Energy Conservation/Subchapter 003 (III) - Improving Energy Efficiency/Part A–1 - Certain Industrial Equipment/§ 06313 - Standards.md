@@ -48,7 +48,7 @@
 
 (5) Each storage water heater, instantaneous water heater, and unfired water storage tank manufactured on or after January 1, 1994, shall meet the following standard levels:
 
-&emsp;(A) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of electric storage water heaters shall be 0.30 + (27/Measured Storage Volume \[in gallons\]).
+&emsp;(A) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of electric storage water heaters shall be0.30 + (27/Measured Storage Volume \[in gallons\]).
 
 &emsp;(B) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of gas- and oil-fired storage water heaters with input ratings of 155,000 Btu per hour or less shall be 1.30 + (114/Measured Storage Volume \[in gallons\]). The minimum thermal efficiency of such units shall be 78 percent.
 

@@ -18,13 +18,13 @@ Section 877a, Pub. L. 89–10, title VI, §608, as added Pub. L. 90–247, title
 
 Section 877b, Pub. L. 89–10, title VI, §609, as added Pub. L. 90–247, title I, §151(5), Jan. 2, 1968, 81 Stat. 801, related to model centers for deaf-blind children: Congressional declaration of purpose; authorization of Secretary to make grants and contracts; considerations governing making of grants or contracts; necessary services to be provided by centers; payment of costs of research, development, training and dissemination; definition of “construction”; recovery of payments; determination of children who are both deaf and blind; manner of payment, adjustment of overpayments and underpayments; and authorization of appropriations of $1,000,000; $3,000,000; and $7,000,000 for fiscal years ending June 30, 1968, 1969, and 1970, respectively.
 
-Section 877c, Pub. L. 89–10, title VI, §610, as added Pub. L. 90–247, title I, §151(5), Jan. 2, 1968, 81 Stat. 803,authorized grants or contracts to improve recruitment of educational personnel and dissemination of information concerning educational opportunities for handicapped.
+Section 877c, Pub. L. 89–10, title VI, §610, as added Pub. L. 90–247, title I, §151(5), Jan. 2, 1968, 81 Stat. 803, authorized grants or contracts to improve recruitment of educational personnel and dissemination of information concerning educational opportunities for handicapped.
 
 Section 878, Pub. L. 89–10, title VI, §611, formerly §608, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207; renumbered §611, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for National Advisory Committee on Handicapped Children: membership; functions, annual report, recommendations; compensation, travel and per diem expenses; advisory professional and technical personnel.
 
 Section 879, Pub. L. 89–10, title VI, §612, formerly §609, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1208; renumbered §612, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for a bureau for education and training of the handicapped.
 
-Section 880, Pub. L. 89–10, title VI, §613, formerly §610, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1208; renumbered §613, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for labor standards requirement (prevailing wage rates).
+Section 880, Pub. L. 89–10, title VI, §613, formerly §610, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966,80 Stat. 1208; renumbered §613, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for labor standards requirement (prevailing wage rates).
 
 Section 880a, Pub. L. 89–10, title VI, §614, formerly §602, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1204; renumbered §614, Pub. L. 90–247, title I, §152(a), Jan. 2, 1968, 81 Stat. 803, defined “handicapped children”.
 

@@ -22,7 +22,7 @@
 
 &emsp;(E) an evaluation of ways to ensure adequate rail service for subterminal facilities described in clause (D) of this paragraph, including an evaluation of the use and feasibility of contract rates;
 
-&emsp;(F) an assessment of the ways that subterminal facilities can enhance the operation of small capacity shipping and storage facilities within the State or region;
+&emsp;(F) an assessment of the ways that subterminal facilities can enhance the operationof small capacity shipping and storage facilities within the State or region;
 
 &emsp;(G) an assessment of other actions being taken or considered in such State or region for the improvement of agricultural transportation, including an evaluation of the use being made of shuttle or collector trains and combinations of rail and barge service;
 
@@ -30,7 +30,7 @@
 
 &emsp;(I) an assessment of the overall transportation system in the State or region and future plans for that overall system, including the adequacy of highways and bridges; and
 
-&emsp;(J) consideration of the feasibility and advisability of the ownership and operation of rail branch lines by farmer-owned cooperatives, and the role that such cooperatives might play in any overall planning for the restructuringand rehabilitation of rail service and marketing facilities within the State or region.
+&emsp;(J) consideration of the feasibility and advisability of the ownership and operation of rail branch lines by farmer-owned cooperatives, and the role that such cooperatives might play in any overall planning for the restructuring and rehabilitation of rail service and marketing facilities within the State or region.
 
 #### (b) Plan review commissions
 

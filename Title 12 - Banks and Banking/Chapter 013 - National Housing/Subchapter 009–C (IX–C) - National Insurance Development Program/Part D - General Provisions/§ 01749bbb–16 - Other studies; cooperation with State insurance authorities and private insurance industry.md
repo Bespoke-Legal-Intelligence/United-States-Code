@@ -12,7 +12,7 @@
 
 (b) To such extent and under such circumstances as may be practicable and feasible, the Director shall conduct any study authorized under this section in cooperation with State insurance authorities and the private insurance industry.
 
-(June 27, 1934, ch. 847, title XII, §1246, formerly §1236, as added Pub. L. 90–448, title XI, §1103,Aug. 1, 1968, 82 Stat. 565; renumbered §1246, Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230.)
+(June 27, 1934, ch. 847, title XII, §1246, formerly §1236, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 565; renumbered §1246, Pub. L. 91–609, title VI, §602(d), Dec. 31, 1970, 84 Stat. 1789; amended Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230.)
 
 #### Amendments
 

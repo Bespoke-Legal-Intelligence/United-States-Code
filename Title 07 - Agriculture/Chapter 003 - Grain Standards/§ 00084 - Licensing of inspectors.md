@@ -28,7 +28,7 @@ The Secretary shall provide for the periodic rotation of supervisory personnel a
 
 The Secretary shall develop and effectuate standards for the recruiting, training, and supervising of official inspection personnel and appropriate work production standards for such personnel, which shall be applicable to the Secretary, all State agencies under delegation of authority pursuant to this chapter, and all official agencies and all persons licensed or authorized to perform functions under this chapter: <i>Provided</i>, That persons licensed or authorized on October 21, 1976, to perform any official function under this chapter, shall be exempted from the uniform recruiting and training provisions of this subsection and regulations or standards issued pursuant thereto if the Secretary determines that such persons are technically and professionally qualified for the duties to which they will be assigned and they agree to complete whatever additional training the Secretary deems necessary.
 
-(Aug. 11, 1916, ch. 313, pt. B, §8, 39 Stat. 485; Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 764; Oct. 21, 1976, Pub. L. 94–582, §10, 90 Stat. 2877; Sept. 29, 1977, Pub. L. 95–113, title XVI, §§1604(g), 1606(f), 91 Stat. 1028, 1030; Nov. 24, 1993, Pub. L. 103–156, §§6, 12(g), 107 Stat. 1526, 1528; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), (8), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §8, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 764; Pub. L. 94–582, §10, Oct. 21, 1976, 90 Stat. 2877; Pub. L. 95–113, title XVI, §§1604(g), 1606(f), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §§6, 12(g), Nov. 24, 1993, 107 Stat. 1526, 1528; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 103–156, §12(g)(2), substituted “the Administrator” 
 
 Subsec. (a)(2)(B). Pub. L. 95–113, §1604(g)(1)(B), substituted “weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports” for “weighing of grain”.
 
-Subsec. (a)(3). Pub. L. 95–113, §1604(g)(1)(C), substituted “any person or governmental agency specifiedsampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
+Subsec. (a)(3). Pub. L. 95–113, §1604(g)(1)(C), substituted “any person or governmental agency specified sampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
 
 Subsec. (e). Pub. L. 95–113, §1604(g)(2), inserted provisions authorizing the Administrator to compensate the personnel at any rate within the appropriate grade of the General Schedule as the Administrator deems necessary without regard to section 5333 of title 5.
 

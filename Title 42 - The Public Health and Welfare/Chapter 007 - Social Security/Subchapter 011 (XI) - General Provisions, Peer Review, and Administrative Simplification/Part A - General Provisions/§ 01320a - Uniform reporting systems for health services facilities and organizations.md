@@ -28,9 +28,9 @@ The Secretary shall—
 
 #### (c) Availability of information to appropriate agencies and organizations
 
-The Secretary shall provide information obtained through use of the uniform reporting systems described in subsection (a) of this section in a useful manner and format to appropriate agencies and organizations, including health systems agencies (designated under section 300<i>l</i>–4 <sup>1</sup> of this title) and State health planning and development agencies (designated under section 300m <sup>1</sup> of this title), as may be necessary to carry out such agencies’ and organizations’ functions.
+The Secretary shall provide information obtained through use of the uniform reporting systems described in subsection (a) of this section in a useful manner and format to appropriate agencies and organizations, including healthsystems agencies (designated under section 300<i>l</i>–4 <sup>1</sup> of this title) and State health planning and development agencies (designated under section 300m <sup>1</sup> of this title), as may be necessary to carry out such agencies’ and organizations’ functions.
 
-(Aug. 14, 1935, ch. 531, title XI, §1121, as added Oct. 25, 1977, Pub. L. 95–142, §19(a), 91 Stat. 1203.)
+(Aug. 14, 1935, ch. 531, title XI, §1121, as added Pub. L. 95–142, §19(a), Oct. 25, 1977, 91 Stat. 1203.)
 
 #### References in Text
 

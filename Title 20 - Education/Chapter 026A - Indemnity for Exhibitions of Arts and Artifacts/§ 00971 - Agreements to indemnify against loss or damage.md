@@ -6,7 +6,7 @@ The Federal Council on the Arts and Humanities (hereinafter in this chapter refe
 
 &emsp;(1) in accordance with the provisions of this chapter; and
 
-&emsp;(2) on such terms and conditions as the Council shall prescribe, by regulation, in orderto achieve the purposes of this chapter and, consistent with such purposes, to protect the financial interest of the United States.
+&emsp;(2) on such terms and conditions as the Council shall prescribe, by regulation, in order to achieve the purposes of this chapter and, consistent with such purposes, to protect the financial interest of the United States.
 
 #### (b) Council as “agency”
 

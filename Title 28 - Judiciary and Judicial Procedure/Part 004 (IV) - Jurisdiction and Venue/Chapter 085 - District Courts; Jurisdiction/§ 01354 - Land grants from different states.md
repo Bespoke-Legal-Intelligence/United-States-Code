@@ -1,6 +1,6 @@
 ### §1354. Land grants from different states
 
-The district courts shall have original jurisdiction of actions between citizens of the samestate claiming lands under grants from different states.
+The district courts shall have original jurisdiction of actions between citizens of the same state claiming lands under grants from different states.
 
 (June 25, 1948, ch. 646, 62 Stat. 934.)
 

@@ -12,7 +12,7 @@ For law enforcement or other purposes and under conditions prescribed by the Sec
 
 #### <i>Revised section 12504</i>
 
-This section requires that the Secretary make available information maintained in the vessel identification system to a State participating in the system for law enforcement or other purposes. The Secretary may make available information in the system to others, under conditions the Secretary may prescribe. At first, the Secretary may elect to deal only with the States. However, the Committee firmly expects that information will be made available through computer terminals in satellite offices or direct computer access bymodem. In this manner, boating organizations or financial or documentation services could retrieve data without paper transactions for a fee.
+This section requires that the Secretary make available information maintained in the vessel identification system to a State participating in the system for law enforcement or other purposes. The Secretary may make available information in the system to others, under conditions the Secretary may prescribe. At first, the Secretary may elect to deal only with the States. However, the Committee firmly expects that information will be made available through computer terminals in satellite offices or direct computer access by modem. In this manner, boating organizations or financial or documentation services could retrieve data without paper transactions for a fee.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §2635. Medical emergency helicopter transportation assistance and limitation of individual liability
 
-(a) The Secretary of Defense is authorized to assist the Department of Health and Human Services and the Department of Transportation in providing medical emergency helicopter transportation services to civilians. Any resources provided under this section shall beunder such terms and conditions, including reimbursement, as the Secretary of Defense deems appropriate and shall be subject to the following specific limitations:
+(a) The Secretary of Defense is authorized to assist the Department of Health and Human Services and the Department of Transportation in providing medical emergency helicopter transportation services to civilians. Any resources provided under this section shall be under such terms and conditions, including reimbursement, as the Secretary of Defense deems appropriate and shall be subject to the following specific limitations:
 
 &emsp;(1) Assistance may be provided only in areas where military units able to provide such assistance are regularly assigned, and military units shall not be transferred from one area to another for the purpose of providing such assistance.
 

@@ -16,7 +16,7 @@ Act of August 28, 1937, referred to in subsec. (b)(2), is act Aug. 28, 1937, ch.
 
 #### Codification
 
-Subsec. (b)(2) of this section is comprised of second and third sentences of section 401(b)(2) of Pub. L. 94–579. The first sentence of such section 401(b)(2) amended section 315i(b) of this title.
+Subsec. (b)(2) of this section is comprised of second and third sentences of section 401(b)(2) of Pub. L. 94–579.The first sentence of such section 401(b)(2) amended section 315i(b) of this title.
 
 #### Amendments
 

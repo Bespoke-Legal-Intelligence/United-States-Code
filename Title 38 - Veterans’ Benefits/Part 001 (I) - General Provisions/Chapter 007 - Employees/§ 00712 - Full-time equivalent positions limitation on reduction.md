@@ -1,6 +1,6 @@
 ### §712. Full-time equivalent positions: limitation on reduction
 
-(a) Notwithstanding any other provision of law, the number of full-time equivalent positions in the Department of Veterans Affairs during the period beginning on the date of the enactment of this section and ending on September 30, 1999, may not (except as provided in subsection (c)) be less than 224,377.
+(a) Notwithstanding any other provision of law, the number of full-time equivalent positions in the Department of Veterans Affairs during the period beginning on November 2, 1994, and ending on September 30, 1999, may not (except as provided in subsection (c)) be less than 224,377.
 
 (b) In determining the number of full-time equivalent positions in the Department of Veterans Affairs during a fiscal year for purposes of ensuring under section 5(b) of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 108 Stat. 115; 5 U.S.C. 3101 note) that the total number of full-time equivalent positions in all agencies of the Federal Government during a fiscal year covered by that section does not exceed the limit prescribed for that fiscal year under that section, the total number of full-time equivalent positions in the Department of Veterans Affairs during that fiscal year shall be the number equal to—
 
@@ -20,13 +20,15 @@
 
 (d) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report, through the year 2000, on the number and type of full-time equivalent positions in the Department that are reduced under this section. The report shall include a justification for the reductions and shall be submitted with the materials provided in support of the budget for the Department contained in the President's budget submitted to Congress for a fiscal year pursuant to section 1105 of title 31.
 
-(Added Pub. L. 103–446, title XI, §1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, §303, Oct. 9, 1996, 110 Stat. 3194; Pub. L. 105–33, title VIII, §8023(e), Aug. 5, 1997, 111 Stat. 667.)
+(Added Pub. L. 103–446, title XI, §1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, §303, Oct. 9, 1996, 110 Stat. 3194; Pub. L. 105–33, title VIII, §8023(e), Aug. 5, 1997, 111 Stat. 667; Pub. L. 105–368, title X, §1005(b)(1), Nov. 11, 1998, 112 Stat. 3364.)
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsecs. (a) and (c)(2), is the date of enactment of Pub. L. 103–446, which was approved Nov. 2, 1994.
+The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 103–446, which was approved Nov. 2, 1994.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–368, which directed amendment of subsec. (a) by substituting “November 2, 1994,” for “the date of enactment of this section”, was executed by making the substitution for “the date of the enactment of this section”, to reflect the probable intent of Congress.
 
 1997—Subsec. (b)(2)(B), (C). Pub. L. 105–33 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The number of such positions held during that fiscal year by persons involved in medical care cost recovery activities under section 1729 of this title.”
 

@@ -22,13 +22,11 @@
 
 (1) The elementary and secondary education programs shall—
 
-&emsp;(A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing;
+&emsp;(A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
 
-&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section; and
+&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
 
-&emsp;(C) establish and publish priorities for research, development, and demonstration through a process that allows for public input.
-
-(2) To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(b) <sup>1</sup> of the Individuals with Disabilities Education Act. Such educational environments shall include—
+(2) To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1)(A) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(a)(1)(A)\]. Such educational environments shall include—
 
 &emsp;(A) regular classes;
 
@@ -40,35 +38,63 @@
 
 &emsp;(E) separate, public or private, residential schools and homebound or hospital environments.
 
-(3) If a local educational agency, intermediate educational unit, or State educational agency refers a child to, or places a child in, one of the elementary or secondary education programs to meet its obligation to make available a free appropriate public education under part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\], the agency or unit shall be responsible for ensuring that the special education and related services provided to the child by the education program are in accordance with part B of that Act and that the child is provided the rights and procedural safeguards under section 615 of that Act \[20 U.S.C. 1415\].
+(3) If a local educational agency, educational service agency, or State educational agency refers a child to, or places a child in, one of the elementary or secondary education programs to meet its obligation to make available a free appropriate public education under part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\], the agency or unit shall be responsible for ensuring that the special education and related services provided to the child by the education program are in accordance with part B of that Act and that the child is provided the rights and procedural safeguards under section 615 of that Act \[20 U.S.C. 1415\].
 
 (4) If the parents or guardian places a child in one of the elementary or secondary education programs, the University shall—
 
-&emsp;(A) notify the appropriate local educational agency, intermediate educational unit, or State educational agency of that child's attendance in the program;
+&emsp;(A) notify the appropriate local educational agency, educational service agency, or State educational agency of that child's attendance in the program;
 
-&emsp;(B) work with local educational agencies, intermediate educational units, and State educational agencies, where appropriate, to ensure a smooth transfer of the child to and from that program; and
+&emsp;(B) work with local educational agencies, educational service agencies, and State educational agencies, where appropriate, to ensure a smooth transfer of the child to and from that program; and
 
 &emsp;(C) provide the child a free appropriate public education in accordance with part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\] and procedural safeguards in accordance with the following provisions of section 615 of such Act \[20 U.S.C. 1415\]:
 
-&emsp;&emsp;(i) Subparagraphs (A), (C), (D), and (E) of paragraph (1) of subsection (b), and paragraph (2) of such subsection.
+&emsp;&emsp;(i) Paragraphs (1), and (3) through (6) of subsection (b).
 
-&emsp;&emsp;(ii) Subsection (d), except the portion of paragraph (4) requiring that findings and decisions be transmitted to a State advisory panel.
+&emsp;&emsp;(ii) Subsections (c) through (g).
 
-&emsp;&emsp;(iii) Paragraphs (1) through (3) of subsection (e). Paragraph (3) of such subsection is not applicable to a decision by the University to refuse to admit or to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days notice to the child's parents and to the local educational agency in which the child resides.
+&emsp;&emsp;(iii) Subsection (h), except for the matter in paragraph (4) pertaining to transmission of findings and decisions to a State advisory panel.
 
-&emsp;&emsp;(iv) Subsection (f).
+&emsp;&emsp;(iv) Paragraphs (1) and (2) of subsection (i).
 
-(Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733.)
+&emsp;&emsp;(v) Subsection (j)—
+
+&emsp;&emsp;&emsp;(I) except that such subsection shall not be applicable to a decision by the University to refuse to admit a child; or
+
+&emsp;&emsp;&emsp;(II) to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days written notice to the child's parents and to the local educational agency in which the child resides, unless the dismissal involves a suspension, expulsion, or other change in placement covered under section 615(k) \[20 U.S.C. 1415(k)\].
+
+&emsp;&emsp;(vi) Subsections (k) through (m).
+
+(Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, §912, Oct. 7, 1998, 112 Stat. 1829.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. Section 618 of the Act was classified to section 1418 of this title and was omitted in the general amendment of subchapter II of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 618 of the Act, which is classified to section 1418 of this title. Provisions similar to those formerly appearing in subsec. (b) of that section are now contained in subsec. (a). For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Codification
 
 Section is also set out in D.C. Code, §31–1841.3a.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–244, §912(1), inserted “and” after semicolon in subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “establish and publish priorities for research, development, and demonstration through a process that allows for public input.”
+
+Subsec. (b)(2). Pub. L. 105–244, §912(2), in introductory provisions, substituted “paragraph (1)(B)” for “paragraph (1)” and “section 618(a)(1)(A)” for “section 618(b)”.
+
+Subsec. (b)(3). Pub. L. 105–244, §912(3), substituted “educational service agency” for “intermediate educational unit”.
+
+Subsec. (b)(4)(A). Pub. L. 105–244, §912(4)(A), substituted “educational service agency” for “intermediate educational unit”.
+
+Subsec. (b)(4)(B). Pub. L. 105–244, §912(4)(B), substituted “educational service agencies” for “intermediate educational units”.
+
+Subsec. (b)(4)(C). Pub. L. 105–244, §912(5), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide the child a free appropriate public education in accordance with part B of the Individuals with Disabilities Education Act and procedural safeguards in accordance with the following provisions of section 615 of such Act:
+
+&emsp;“(i) Subparagraphs (A), (C), (D), and (E) of paragraph (1) of subsection (b), and paragraph (2) of such subsection.
+
+&emsp;“(ii) Subsection (d), except the portion of paragraph (4) requiring that findings and decisions be transmitted to a State advisory panel.
+
+&emsp;“(iii) Paragraphs (1) through (3) of subsection (e). Paragraph (3) of such subsection is not applicable to a decision by the University to refuse to admit or to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days notice to the child's parents and to the local educational agency in which the child resides.
+
+&emsp;“(iv) Subsection (f).”
 
 1993—Pub. L. 103–73, §203(d)(1), substituted “education” for “educational” in section catchline.
 
@@ -78,9 +104,15 @@ Subsec. (b)(1). Pub. L. 103–73, §203(d)(3), substituted “infants, children,
 
 Subsec. (b)(4). Pub. L. 103–73, §203(d)(4), substituted “program” for “programs” in subpar. (A), “the child to and from that program” for “students to and from those programs” in subpar. (B), and “a decision” for “decisions” in subpar. (C)(iii).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4359b of this title.
 

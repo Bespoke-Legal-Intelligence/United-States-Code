@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 49f, 1502, 1516, 1518, 1531, 1533, 1551, 1574, 1735, 1784a, 2102 of this title; title 19 section 2311; title 20 sections 2420a, 2468.
+This subchapter is referred to in sections 1502, 1516, 1518, 1531, 1533, 1551, 1574, 1735, 1784a, 2831 of this title; title 19 section 2311.
 
 
 ---

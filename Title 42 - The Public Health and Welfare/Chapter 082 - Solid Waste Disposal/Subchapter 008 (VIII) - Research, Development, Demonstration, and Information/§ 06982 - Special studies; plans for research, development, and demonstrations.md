@@ -82,7 +82,7 @@ The Administrator shall conduct research and report on the economics of, and imp
 
 &emsp;(E) the need for further research, development, and demonstration in the area of resource conservation.
 
-(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall consider and evaluate alternative strategies with respect to—
+(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall considerand evaluate alternative strategies with respect to—
 
 &emsp;(A) the product categories on which such charges would be imposed;
 
@@ -156,7 +156,7 @@ The Administrator shall conduct a detailed and comprehensive study and submit a 
 
 #### (<i>o</i>) Cement kiln dust waste
 
-The Administrator shall conduct a detailed and comprehensive study of the adverse effectson human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
+The Administrator shall conduct a detailed and comprehensive study of the adverse effects on human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
 
 &emsp;(1) the source and volumes of such materials generated per year;
 
@@ -224,7 +224,7 @@ The Administrator shall conduct detailed, comprehensive studies of methods to ex
 
 &emsp;(7) methods to coordinate use of a landfill owned by one municipality by nearby municipalities, and to establish equitable rates for such use, taking into account the need to provide future landfill capacity to replace that so used.
 
-> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
+> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October 1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
 
 (Pub. L. 89–272, title II, §8002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2831; amended Pub. L. 95–609, §7(t), Nov. 8, 1978, 92 Stat. 3083; H. Res. 549, Mar. 25, 1980; Pub. L. 96–482, §29, Oct. 21, 1980, 94 Stat. 2349; Pub. L. 98–616, title II, §224(c), title VII, §702, Nov. 8, 1984, 98 Stat. 3253, 3289.)
 

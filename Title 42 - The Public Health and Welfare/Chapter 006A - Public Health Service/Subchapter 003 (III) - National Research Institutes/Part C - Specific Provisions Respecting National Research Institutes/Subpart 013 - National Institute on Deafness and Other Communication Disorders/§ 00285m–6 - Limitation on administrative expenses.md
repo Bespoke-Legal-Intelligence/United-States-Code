@@ -2,7 +2,7 @@
 
 With respect to amounts appropriated for a fiscal year for the National Institutes of Health, the limitation established in section 284c(a)(1) of this title on the expenditure of such amounts for administrative expenses shall apply to administrative expenses of the National Institute on Deafness and Other Communication Disorders.
 
-(July 1, 1944, ch. 373, title IV, §464F, as added Oct. 28, 1988, Pub. L. 100–553, §2(4), 102 Stat. 2774, and Nov. 18, 1988, Pub. L. 100–690, title II, §2613(a)(1), 102 Stat. 4238; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2613(b)(2), 102 Stat. 4238; June 10, 1993, Pub. L. 103–43, title IV, §403(b)(2), 107 Stat. 158.)
+(July 1, 1944, ch. 373, title IV, §464F, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2774, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4238; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 103–43, title IV, §403(b)(2), June 10, 1993, 107 Stat. 158.)
 
 #### Codification
 

@@ -148,5 +148,5 @@ Departmental provisions—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 sections 115, 351, 1030, 6001; title 28 section 451; title 31 sections 1343, 1344;title 36 section 175; title 41 sections 403, 601; title 42 sections 8262c, 10156, 10222.
+This section is referred to in title 4 section 7; title 18 sections 115, 351, 1030, 6001; title 28 section 451; title 31sections 1343, 1344; title 41 sections 403, 601; title 42 sections 8262c, 10156, 10222.
 

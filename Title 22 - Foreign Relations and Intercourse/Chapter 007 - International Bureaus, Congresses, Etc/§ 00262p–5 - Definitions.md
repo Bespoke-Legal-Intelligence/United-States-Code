@@ -10,7 +10,7 @@ For purposes of this title and titles XIV and XV—
 
 #### References in Text
 
-This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–2 of this title, title XV is classified to sections 262<i>o</i> and 262<i>o</i>–1 of this title, and title XVI is classified to sections 262p to 262p–5 of this title. For complete classification of these titles to the Code, see Tables.
+This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–3 of this title, title XV is classified to sections 262<i>o</i> to 262<i>o</i>–2 of this title, and title XVI is classified to sections 262p to 262p–5 of this title. For complete classification of these titles to the Code, see Tables.
 
 #### Codification
 

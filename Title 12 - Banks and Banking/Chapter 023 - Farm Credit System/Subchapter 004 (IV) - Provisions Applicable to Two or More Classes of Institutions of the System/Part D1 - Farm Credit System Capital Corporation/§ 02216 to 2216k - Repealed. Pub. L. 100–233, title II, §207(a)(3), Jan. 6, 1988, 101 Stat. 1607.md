@@ -1,6 +1,6 @@
 ### §§2216 to 2216k. Repealed. Pub. L. 100–233, title II, §207(a)(3), Jan. 6, 1988, 101 Stat. 1607
 
-Section 2216, Pub. L. 92–181, title IV, §4.28A, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1680, provided for chartering of Farm Credit System CapitalCorporation by Farm Credit Administration and revoked charter of Farm Credit System Capital Corporation which had been issued under part D of this subchapter. See sections 2278a et seq. and 2278b et seq. of this title.
+Section 2216, Pub. L. 92–181, title IV, §4.28A, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1680, provided for chartering of Farm Credit System Capital Corporation by Farm Credit Administration and revoked charter of Farm Credit System Capital Corporation which had been issued under part D of this subchapter. See sections 2278a et seq. and 2278b et seq. of this title.
 
 Section 2216a, Pub. L. 92–181, title IV, §4.28B, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1680, set out purposes of Capital Corporation. See sections 2278a–1 and 2278b–1 of this title.
 

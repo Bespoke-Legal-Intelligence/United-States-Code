@@ -14,7 +14,7 @@ A person who claims to be a national, but not a citizen, of the United States ma
 
 > the individual shall be furnished by the Secretary of State with a certificate of non-citizen national status, but only if the individual is at the time within the United States or its outlying possessions.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §341, 66 Stat. 263; Dec. 29, 1981, Pub. L. 97–116, §18(p), 95 Stat. 1621; Aug. 27, 1986, Pub. L. 99–396, §16(a), 100 Stat. 843; Nov. 14, 1986, Pub. L. 99–653, §22, 100 Stat. 3658; Oct. 24, 1988, Pub. L. 100–525, §8(q), 102 Stat. 2618; Dec. 12, 1991, Pub. L. 102–232, title III, §305(m)(8), 105 Stat. 1750; Oct. 25, 1994, Pub. L. 103–416, title I, §102(b), 108 Stat. 4307.)
+(June 27, 1952, ch. 477, title III, ch. 2, §341, 66 Stat. 263; Pub. L. 97–116, §18(p), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 99–396, §16(a), Aug. 27, 1986, 100 Stat. 843; Pub. L. 99–653, §22, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(q), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 102–232, title III, §305(m)(8), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(b), Oct. 25, 1994, 108 Stat. 4307.)
 
 #### References in Text
 

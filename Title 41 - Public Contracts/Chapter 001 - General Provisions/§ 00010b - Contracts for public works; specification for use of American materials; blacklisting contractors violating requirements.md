@@ -14,7 +14,7 @@ Subsec. (b). Pub. L. 100–418, §§7004, 7005(c)(2), temporarily substituted �
 
 #### Termination Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing reportrequired by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L.100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
 
 #### Prohibition on Use of Funds for Construction Contracts With Contractors of Foreign Countries Which Deny United States Contractors Fair Opportunities in Construction Projects of That Country's Government
 
@@ -24,7 +24,7 @@ Pub. L. 101–516, title III, §340, Nov. 5, 1990, 104 Stat. 2187.
 
 Pub. L. 101–514, title V, §511, Nov. 5, 1990, 104 Stat. 2098.
 
-Pub. L. 100–202, §109, Dec. 22, 1987, 101 Stat. 1329–434.
+Pub. L. 100–202, §109, Dec. 22, 1987, 101 Stat. 1329–434; Pub. L. 105–362, title XIV, §1401(d), Nov. 10, 1998, 112 Stat. 3294.
 
 #### Section Referred to in Other Sections
 

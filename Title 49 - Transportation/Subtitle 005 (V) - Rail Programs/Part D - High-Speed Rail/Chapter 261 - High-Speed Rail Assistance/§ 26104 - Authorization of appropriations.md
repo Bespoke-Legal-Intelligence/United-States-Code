@@ -18,7 +18,35 @@ Fiscal Year 1997.—(1) There are authorized to be appropriated to the Secretary
 
 (d)
 
+Fiscal Year 1998.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 1998, for carrying out section 26101 (including payment of administrative expenses related thereto).
+
+(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 1998, for carrying out section 26102 (including payment of administrative expenses related thereto).
+
+(e)
+
+Fiscal Year 1999.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 1999, for carrying out section 26101 (including payment of administrative expenses related thereto).
+
+(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 1999, for carrying out section 26102 (including payment of administrative expenses related thereto).
+
+(f)
+
+Fiscal Year 2000.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 2000, for carrying out section 26101 (including payment of administrative expenses related thereto).
+
+(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 2000, for carrying out section 26102 (including payment of administrative expenses related thereto).
+
+(g)
+
+Fiscal Year 2001.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 2001, for carrying out section 26101 (including payment of administrative expenses related thereto).
+
+(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 2001, for carrying out section 26102 (including payment of administrative expenses related thereto).
+
+(h)
+
 Funds to Remain Available.—Funds made available under this section shall remain available until expended.
 
-(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618.)
+(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(a), June 9, 1998, 112 Stat. 469.)
+
+#### Amendments
+
+1998—Subsecs. (d) to (h). Pub. L. 105–178 added subsecs. (d) to (g) and redesignated former subsec. (d) as (h).
 

@@ -35,3 +35,4 @@ Part I—Common Carrier Regulation
 - [&sect; 00228 - Regulation of carrier offering of pay-per-call services](%C2%A7%2000228%20-%20Regulation%20of%20carrier%20offering%20of%20pay-per-call%20services.md)
 - [&sect; 00229 - Communications Assistance for Law Enforcement Act compliance](%C2%A7%2000229%20-%20Communications%20Assistance%20for%20Law%20Enforcement%20Act%20compliance.md)
 - [&sect; 00230 - Protection for private blocking and screening of offensive material](%C2%A7%2000230%20-%20Protection%20for%20private%20blocking%20and%20screening%20of%20offensive%20material.md)
+- [&sect; 00231 - Restriction of access by minors to materials commercially distributed by means of World Wide Web that are harmful to minors](%C2%A7%2000231%20-%20Restriction%20of%20access%20by%20minors%20to%20materials%20commercially%20distributed%20by%20means%20of%20World%20Wide%20Web%20that%20are%20harmful%20to%20minors.md)

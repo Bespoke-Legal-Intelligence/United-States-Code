@@ -54,6 +54,14 @@ Section 4302(c) requires the Secretary to consider certain objectives in develop
 
 Section 4302(d) exempts dealer demonstration boats from the requirement of having to be named by a licensed individual when demonstrating boats to prospective purchasers or other business invitees when no fees are charged. The Secretary may require that boats so used be under control of a licensed individual.
 
+#### Availability and Use of EPIRBs for Recreational Vessels
+
+Pub. L. 105–383, title III, §309, Nov. 13, 1998, 112 Stat. 3422, provided that: “The Secretary of Transportation, through the Coast Guard and in consultation with the National Transportation Safety Board and recreational boating organizations, shall, within 24 months of the date of the enactment of this Act \[Nov. 13, 1998\], assess and report to Congress on the use of emergency position indicating beacons (EPIRBs) and similar devices by operators of recreational vessels on the IntracoastalWaterway and operators of recreational vessels beyond the Boundary Line. The assessment shall at a minimum—
+
+&emsp;“(1) evaluate the current availability and use of EPIRBs and similar devices by the operators of recreational vessels and the actual and potential contribution of such devices to recreational boating safety; and
+
+&emsp;“(2) provide recommendations on policies and programs to encourage the availability and use of EPIRBS \[sic\] and similar devices by the operators of recreational vessels.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4303, 4306, 4310, 8905, 13110 of this title.

@@ -54,5 +54,5 @@ Authority of President under subsec. (a) of this section to make recommendations
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 137.
+This section is referred to in title 26 section 139.
 

@@ -4,6 +4,10 @@ It is the purpose of the programs assisted under this part to improve the long-t
 
 (Pub. L. 97–300, title II, §261, as added Pub. L. 102–367, title II, §206, Sept. 7, 1992, 106 Stat. 1063.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Effective Date
 
 Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.

@@ -2,7 +2,7 @@
 
 No assistance shall be furnished by the United States Government to a country under sections 2151a through 2151d of this title until the country provides assurances to the President, and the President is satisfied, that such country will provide at least 25 per centum of the costs of the entire program, project, or activity with respect to which such assistance is to be furnished, except that such costs borne by such country may be provided on an “inkind” basis.
 
-(Pub. L. 87–195, pt. I, §110, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amended Pub. L. 94–161, title III, §307, Dec. 20, 1975, 89 Stat. 859; Pub. L. 95–88, title I, §106, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §112(b), Oct. 6, 1978, 92 Stat. 949; Pub. L. 99–83, title XII, §1211(a)(3), Aug. 8, 1985, 99 Stat. 279.)
+(Pub. L. 87–195, pt. I, §110, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amendedPub. L. 94–161, title III, §307, Dec. 20, 1975, 89 Stat. 859; Pub. L. 95–88, title I, §106, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §112(b), Oct. 6, 1978, 92 Stat. 949; Pub. L. 99–83, title XII, §1211(a)(3), Aug. 8, 1985, 99 Stat. 279.)
 
 #### References to Sections 2151a Through 2151d Deemed To Include Section 2293
 
@@ -29,10 +29,6 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

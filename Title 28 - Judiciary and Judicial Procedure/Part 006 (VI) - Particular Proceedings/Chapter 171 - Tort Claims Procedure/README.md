@@ -21,9 +21,9 @@ As printed in this report, this chapter should have read “173” and not “17
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–506, §9(b), July 18, 1966, 80 Stat. 308, substituted “claims” for “claims of $2,500 or less” in item 2672.
+1966—Pub. L. 89–506, §9(b), July 18, 1966, 80 Stat. 308, substituted “claims” for “claims of $2,500 or less” in item 2672.
 
-<b>1959</b>—Pub. L. 86–238, §1(2), Sept. 8, 1959, 73 Stat. 472, substituted “$2,500” for “$1,000” in item 2672.
+1959—Pub. L. 86–238, §1(2), Sept. 8, 1959, 73 Stat. 472, substituted “$2,500” for “$1,000” in item 2672.
 
 #### Cross References
 
@@ -43,7 +43,7 @@ Venue in tort claims actions, see section 1402 of this title.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 995, 1346 of this title; title 2 section 190g; title 5 sections 3102, 3111, 3373, 3374, 5564; title 7 sections 2272, 2279b, 2279c; title 10 sections 1588, 2113, 2360, 2904; title 12 sections 209, 4621; title 14 sections 93, 821, 823a; title 15 sections 637, 4102, 4105; title 16 sections 450ss–3, 565a–2, 698u–3, 742f, 742<i>l</i>, 773a, 1421e, 1703, 3602, 3640, 4604, 5608, 5708; title 19 section 1630; title 20 sections 76<i>l</i>, 4420; title 22 sections 2124c, 2504, 3508, 3761, 4606; title 23 section 307; title 24 sections 421, 422; title 25 sections 450k, 1638c, 1680c, 2020, 3115, 3733; title 29 section 1706; title 31 sections 3723, 3724; title 32 section 509; title 33 section 569c; title 37 section 554; title 39 section 409; title 42 sections 233, 2021d, 2212, 2297c–5, 3788, 5055, 7142, 12620, 12651b, 12651g, 12655n; title 43 section 1737; title 46 App. section 740; title 48 section 1905; title 49 sections 106, 20107.
+This chapter is referred to in sections 677, 995, 1346 of this title; title 2 section 190g; title 5 sections 3102, 3111, 3373, 3374, 5564; title 7 sections 2272, 2279b, 2279c; title 10 sections 1588, 2113, 2360, 2904; title 12 sections 209, 4621; title 14 sections 93, 821, 823a; title 15 sections 637, 4102, 4105; title 16 sections 450ss–3, 565a–2, 670c, 698u–3, 742f, 742<i>l</i>, 773a, 1421e, 1703, 3602, 3640, 4604, 5608, 5708; title 19 section 1630; title 20 sections 76<i>l</i>, 4420; title 22 sections 2124c, 2504, 3508, 3761, 4606; title 24 sections 421, 422; title 25 sections 450k, 1638c, 1680c, 2020, 3115, 3733; title 29 section 1706; title 31 sections 3723, 3724; title 32 section 509; title 33 section 569c; title 37 section 554; title 39 section 409; title 42 sections 233, 2021d, 2212, 2297c–5, 3788, 5055, 7142, 12620, 12651b, 12651g, 12655n; title 43 section 1737; title 46 App. section 740; title 48 section 1905; title 49 sections 106, 20107.
 
 
 ---

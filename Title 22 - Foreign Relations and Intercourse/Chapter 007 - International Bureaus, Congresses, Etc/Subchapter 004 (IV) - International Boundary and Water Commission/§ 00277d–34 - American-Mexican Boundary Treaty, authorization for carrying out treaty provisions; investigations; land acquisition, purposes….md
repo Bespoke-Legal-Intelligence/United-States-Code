@@ -4,7 +4,7 @@ In connection with the treaty between the United States of America and the Unite
 
 &emsp;(1) to conduct technical and other investigations relating to—
 
-&emsp;&emsp;(A) the demarcation, mapping, monumentation, channel relocation, rectification, improvement, stabilization, and other matters relating to the preservation of the river boundaries between the United States and Mexico;
+&emsp;&emsp;(A) the demarcation, mapping, monumentation, channel relocation, rectification,improvement, stabilization, and other matters relating to the preservation of the river boundaries between the United States and Mexico;
 
 &emsp;&emsp;(B) the establishment and delimitation of the maritime boundaries in the Gulf of Mexico and in the Pacific Ocean;
 

@@ -112,9 +112,13 @@ If changes in labor market conditions, funding, or other factors require substan
 
 (Pub. L. 97–300, title I, §104, Oct. 13, 1982, 96 Stat. 1331; Pub. L. 100–628, title VII, §714(a), Nov. 7, 1988, 102 Stat. 3255; Pub. L. 102–235, §4, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §113, Sept. 7, 1992, 106 Stat. 1027.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(4)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(4)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
 
@@ -142,5 +146,5 @@ Amendment by Pub. L. 102–235 not to be construed to require, sanction, or auth
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1513, 1515, 1531, 1532, 1551, 1604, 1632 of this title; title 20 section 2323.
+This section is referred to in sections 1513, 1515, 1531, 1532, 1551, 1604, 1632 of this title.
 

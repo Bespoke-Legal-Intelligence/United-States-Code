@@ -4,7 +4,7 @@ For the purposes of this chapter:
 
 &emsp;(1) The term “Antarctica” means the area south of the Antarctic Convergence as defined in section 2432(1) of this title.
 
-&emsp;(2) The term “Antarctic mineral resource activity” means prospecting, exploration, or development in Antarctica of mineral resources, but does not include scientific research within the meaning of article III of the Antarctic Treaty, done at Washington on December 1, 1959.
+&emsp;(2) The term “Antarctic mineral resource activity” means prospecting, exploration, or development in Antarctica of mineral resources, but does not include scientific research withinthe meaning of article III of the Antarctic Treaty, done at Washington on December 1, 1959.
 
 &emsp;(3) The term “development” means any activity, including logistic support, which takes place following exploration, the purpose of which is the exploitation of specific mineral resource deposits, including processing, storage, and transport activities.
 

@@ -14,7 +14,7 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 &emsp;(6) to provide to any blind licensee dissatisfied with any action arising from the operation or administration of the vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title.
 
-(June 20, 1936, ch. 638, §3, 49 Stat. 1560; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(e), 68 Stat. 664; Dec. 7, 1974, Pub. L. 93–516, title II, §204, 88 Stat. 1625; Nov. 21, 1974, Pub. L. 93–651, title II, §204, 89 Stat. 2–10.)
+(June 20, 1936, ch. 638, §3, 49 Stat. 1560; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(e), 68 Stat. 664; Pub. L. 93–516, title II, §204, Dec. 7, 1974, 88 Stat. 1625; Pub. L. 93–651, title II, §204, Nov. 21, 1974, 89 Stat. 2–10.)
 
 #### Codification
 
@@ -28,7 +28,7 @@ Pursuant to an order of the United States District Court for the District of Col
 
 Par. (2). Pub. L. 93–516, §204(a)(2), substituted “vending facility” for “vending stand” in two places. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Par. (3). Pub. L. 93–516, §204(a)(2), (b), (c), in provisions preceding subpar. (A), substituted “the net proceeds of the operation of the vending facilities” for “the proceeds of the operation of the vending stands”, in subpar. (D), substituted “vending facilities” for“vending stands”, added subpar. (E), and in proviso following subpar. (E) substituted “the net proceeds of any vending facility” for “the proceeds of any vending stand”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Par. (3). Pub. L. 93–516, §204(a)(2), (b), (c), in provisions preceding subpar. (A), substituted “the net proceeds of the operation of the vending facilities” for “the proceeds of the operation of the vending stands”, in subpar. (D), substituted “vending facilities” for “vending stands”, added subpar. (E), and in proviso following subpar. (E) substituted “the net proceeds of any vending facility” for “the proceeds of any vending stand”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 Par. (6). Pub. L. 93–516, §204(a)(3), substituted “vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title” for “vending stand program an opportunity for a fair hearing”. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 

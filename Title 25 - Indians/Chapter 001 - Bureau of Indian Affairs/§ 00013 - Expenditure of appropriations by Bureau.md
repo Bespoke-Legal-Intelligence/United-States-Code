@@ -20,9 +20,9 @@ For the purchase of horse-drawn and motor-propelled passenger-carrying vehicles 
 
 And for general and incidental expenses in connection with the administration of Indian affairs.
 
-Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an “institution of higher education” under section 1201 of the Higher Education Act of 1965 \[20 U.S.C. 1141\], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an “institution of higher education” under section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
-(Nov. 2, 1921, ch. 115, 42 Stat. 208; Pub. L. 94–482, title IV, §410, Oct. 12, 1976, 90 Stat. 2233.)
+(Nov. 2, 1921, ch. 115, 42 Stat. 208; Pub. L. 94–482, title IV, §410, Oct. 12, 1976, 90 Stat. 2233; Pub. L. 105–244, title I, §102(a)(8)(A), Oct. 7, 1998, 112 Stat. 1619.)
 
 #### References in Text
 
@@ -30,7 +30,13 @@ The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov.
 
 #### Amendments
 
+1998—Pub. L. 105–244, which directed substitution of “101” for “1201” in the last paragraph of “section 410 of the Act entitled ‘An Act authorizing appropriations and expenditures for the administration of Indian Affairs, and for other purposes’, approved November 2, 1921 (25 U.S.C. 13) (commonly known as the Snyder Act)”, was executed to last paragraph of this section, which is the act of Nov. 2, 1921, ch. 115, commonly known as the Snyder Act, to reflect the probable intent of Congress. This section was amended by section 410 of Pub. L. 94–482 to add the last paragraph.
+
 1976—Pub. L. 94–482 inserted provisions relating to postsecondary schools administered by the Secretary of the Interior for Indians.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1976 Amendment
 
@@ -62,5 +68,5 @@ Pub. L. 95–561, title XI, §1103(a), Nov. 1, 1978, 92 Stat. 2316, as amended b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13–1, 13a, 155b, 458cc, 861c, 903a, 1300i–1, 1616, 1616<i>l</i>, 1621, 1621a, 1621h, 1631, 1652, 1653, 1654, 1661, 1665c, 1809, 1813, 1912, 1933, 2306, 2808, 3303, 3322 of this title; title 20 section 2397e; title 40 App. section 214; title 42 section 1382.
+This section is referred to in sections 13–1, 13a, 155b, 458cc, 861c, 903a, 1300i–1, 1616, 1616<i>l</i>, 1621, 1621a, 1621h, 1631, 1652, 1653, 1654, 1661, 1665c, 1809, 1813, 1912, 1933, 2306, 2808, 3303, 3322 of this title; title 20 section 2327; title 40 App. section 214; title 42 section 1382.
 

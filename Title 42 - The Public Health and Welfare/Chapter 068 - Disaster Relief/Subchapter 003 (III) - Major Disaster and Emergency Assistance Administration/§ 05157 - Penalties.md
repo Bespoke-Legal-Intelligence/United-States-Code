@@ -14,7 +14,7 @@ The President shall expeditiously refer to the Attorney General for appropriate 
 
 #### (d) Civil penalty
 
-Any individual who knowingly violates any order or regulation issued under this chapter shall be subject to a civil penalty of not more than $5,000 for each violation.
+Any individual who knowingly violates any order or regulation issued under this chaptershall be subject to a civil penalty of not more than $5,000 for each violation.
 
 (Pub. L. 93–288, title III, §314, as added Pub. L. 100–707, title I, §105(k), Nov. 23, 1988, 102 Stat. 4694.)
 

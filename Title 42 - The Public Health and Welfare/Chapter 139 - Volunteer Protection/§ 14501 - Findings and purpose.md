@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 &emsp;(7) clarifying and limiting the liability risk assumed by volunteers is an appropriate subject for Federal legislation because—
 
-&emsp;&emsp;(A) of the national scope of the problems created by the legitimate fears of volunteers about frivolous, arbitrary, or capricious lawsuits;
+&emsp;&emsp;(A) of the national scope of the problems created by the legitimate fears of volunteersabout frivolous, arbitrary, or capricious lawsuits;
 
 &emsp;&emsp;(B) the citizens of the United States depend on, and the Federal Government expends funds on, and provides tax exemptions and other consideration to, numerous social programs that depend on the services of volunteers;
 

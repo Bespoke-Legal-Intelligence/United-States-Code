@@ -51,6 +51,9 @@
 | [2217\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002217%20-%20Limitation%20on%20applicability%20of%20certain%20provisions%20in%20reports.md) | Limitation on applicability of certain provisions in reports. |
 | [2218\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002218%20-%20General%20applicability%20of%20cost%20sharing.md) | General applicability of cost sharing. |
 | [2219\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002219%20-%20Definitions.md) | Definitions. |
+| [2220\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002220%20-%20Rivers%20and%20harbors%20and%20other%20waterways%20projects%20for%20benefit%20of%20navigation%2C%20flood%20control%2C%20hurricane%20protection%2C%20beach%20erosion%20control%2C%20and%E2%80%A6.md) | Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and other purposes. |
+| (a) | Congressional declaration of policy; purchase of indebtedness and loans to local interests to meet contribution requirements. |
+| (b) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

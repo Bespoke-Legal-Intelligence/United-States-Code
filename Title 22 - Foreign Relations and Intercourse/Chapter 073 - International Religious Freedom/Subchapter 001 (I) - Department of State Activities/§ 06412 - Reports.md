@@ -1,0 +1,88 @@
+### §6412. Reports
+
+#### (a) Portions of annual Human Rights Reports
+
+The Ambassador at Large shall assist the Secretary of State in preparing those portions of the Human Rights Reports that relate to freedom of religion and freedom from discrimination based on religion and those portions of other information provided Congress under sections 2151n and 2304 of this title that relate to the right to freedom of religion.
+
+#### (b) Annual Report on International Religious Freedom
+
+#### (1) Deadline for submission
+
+&emsp;On September 1 of each year or the first day thereafter on which the appropriate House of Congress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
+
+#### (A) Status of religious freedom
+
+&emsp;&emsp;A description of the status of religious freedom in each foreign country, including—
+
+&emsp;&emsp;&emsp;(i) trends toward improvement in the respect and protection of the right to religious freedom and trends toward deterioration of such right;
+
+&emsp;&emsp;&emsp;(ii) violations of religious freedom engaged in or tolerated by the government of that country; and
+
+&emsp;&emsp;&emsp;(iii) particularly severe violations of religious freedom engaged in or tolerated by the government of that country.
+
+#### (B) Violations of religious freedom
+
+&emsp;&emsp;An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecution by governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, and the existence of government policies concerning—
+
+&emsp;&emsp;&emsp;(i) limitations or prohibitions on, or lack of availability of, openly conducted, organized religious services outside of the premises of foreign diplomatic missions or consular posts; and
+
+&emsp;&emsp;&emsp;(ii) the forced religious conversion of minor United States citizens who have been abducted or illegally removed from the United States, and the refusal to allow such citizens to be returned to the United States.
+
+#### (C) United States policies
+
+&emsp;&emsp;A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
+
+#### (D) International agreements in effect
+
+&emsp;&emsp;A description of any binding agreement with a foreign government entered into by the United States under section 6441(b) or 6442(c) of this title.
+
+#### (E) Training and guidelines of Government personnel
+
+&emsp;&emsp;A description of—
+
+&emsp;&emsp;&emsp;(i) the training described in section 6472(a) and (b) of this title and section 6473(b) and (c) of this title on violations of religious freedom provided to immigration judges and consular, refugee, immigration, and asylum officers; and
+
+&emsp;&emsp;&emsp;(ii) the development and implementation of the guidelines described in sections 6472(c) and 6473(a) of this title.
+
+#### (F) Executive Summary
+
+&emsp;&emsp;An Executive Summary to the Annual Report highlighting the status of religious freedom in certain foreign countries and including the following:
+
+#### (i) Countries in which the United States is actively promoting religious freedom
+
+&emsp;&emsp;&emsp;An identification of foreign countries in which the United States is actively promoting religious freedom. This section of the report shall include a description of United States actions taken to promote the internationally recognized right to freedom of religion and oppose violations of such right under title IV and title V of this Act during the period covered by the Annual Report. Any country designated as a country of particular concern for religious freedom under section 6442(b)(1) of this title shall be included in this section of the report.
+
+#### (ii) Countries of significant improvement in religious freedom
+
+&emsp;&emsp;&emsp;An identification of foreign countries the governments of which have demonstrated significant improvement in the protection and promotion of the internationally recognized right to freedom of religion during the period covered by the Annual Report. This section of the report shall include a description of the nature of the improvement and an analysis of the factors contributing to such improvement, including actions taken by the United States under this chapter.
+
+#### (2) Classified addendum
+
+&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required by paragraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
+
+#### (c) Preparation of reports regarding violations of religious freedom
+
+#### (1) Standards and investigations
+
+&emsp;The Secretary of State shall ensure that United States missions abroad maintain a consistent reporting standard and thoroughly investigate reports of violations of the internationally recognized right to freedom of religion.
+
+#### (2) Contacts with nongovernmental organizations
+
+&emsp;In compiling data and assessing the respect of the right to religious freedom for the Human Rights Reports, the Annual Report on International Religious Freedom, and the Executive Summary, United States mission personnel shall, as appropriate, seek out and maintain contacts with religious and human rights nongovernmental organizations, with the consent of those organizations, including receiving reports and updates from such organizations and, when appropriate, investigating such reports.
+
+(Pub. L. 105–292, title I, §102, Oct. 27, 1998, 112 Stat. 2792.)
+
+#### References in Text
+
+Titles I, IV, and V of this Act, referred to in subsec. (b)(1)(C), (F)(i), are titles I, IV, and V of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2791, 2800, 2811. Titles I and IV are classified principally to this subchapter (§6411 et seq.) and subchapter III (§6441 et seq.) of this chapter, respectively. Title V amended sections 2151n, 2452, 3965, 4013, and 6202 of this title and enacted provisions set out as a note under section 2151n of this title. For complete classification of titles I, IV, and V to the Code, see Tables.
+
+This chapter, referred to in subsec. (b)(1)(F)(ii), (2), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+
+#### Codification
+
+Section is comprised of section 102 of Pub. L. 105–292. Subsec. (d) of section 102 of Pub. L. 105–292 amended sections 2151n and 2304 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6402, 6411 of this title.
+

@@ -2,7 +2,7 @@
 
 For purposes of applying this part to American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, individuals licensed to practice medicine in those places shall be considered to be physicians and doctors of medicine.
 
-(Aug. 14, 1935, ch. 531, title XI, §1163, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 393.)
+(Aug. 14, 1935, ch. 531, title XI, §1163, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 393.)
 
 #### Prior Provisions
 

@@ -62,15 +62,25 @@ The advisory committee shall present to the Secretary an annual report on its ac
 
 #### (h) Reimbursement for expenses
 
-Nongovernmental members of the advisory committee shall serve without pay, but, to theextent funds are available pursuant to section 1261(d)(1)(B) of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+Nongovernmental members of the advisory committee shall serve without pay, but, to the extent funds are available pursuant to section 1261(d)(1)(B) <sup>1</sup> of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 #### (i) Report to Congress
 
 Not later than 4 years after December 18, 1991, the Secretary shall prepare and submit to the Committee on Environment and Public Works of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, a study which summarizes the annual reports of the National Recreational Trails Advisory Committee, describes the allocation and utilization of moneys under this chapter, and contains recommendations for changes in Federal policy to advance the purposes of this chapter.
 
-(Pub. L. 102–240, title I, §1303, Dec. 18, 1991, 105 Stat. 2068; Pub. L. 104–59, title III, §§325(h), 337(e), Nov. 28, 1995, 109 Stat. 592, 603.)
+#### (j) Termination
+
+The advisory committee established by this section shall terminate on September 30, 2000.
+
+(Pub. L. 102–240, title I, §1303, Dec. 18, 1991, 105 Stat. 2068; Pub. L. 104–59, title III, §§325(h), 337(e), Nov. 28, 1995, 109 Stat. 592, 603; Pub. L. 105–178, title I, §1112(d), June 9, 1998, 112 Stat. 151.)
+
+#### References in Text
+
+Section 1261 of this title, referred to in subsec. (h), was repealed by Pub. L. 105–178, title I, §1112(c), June 9, 1998, 112 Stat. 151.
 
 #### Amendments
+
+1998—Subsec. (j). Pub. L. 105–178 added subsec. (j).
 
 1995—Subsec. (b). Pub. L. 104–59, §337(e)(1)(A), substituted “12” for “11” in introductory provisions.
 
@@ -79,10 +89,6 @@ Subsec. (b)(2) to (5). Pub. L. 104–59, §337(e)(1)(B), (C), added par. (2) and
 Subsec. (c). Pub. L. 104–59, §337(e)(2), substituted “(b)(3)” for “(b)(2)”.
 
 Subsec. (i). Pub. L. 104–59, §325(h), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
-
-#### Termination of Advisory Committees
-
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -15,7 +15,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–322, title XXXIII, §330023(a)(1), Sept. 13, 1994, 108 Stat. 2150, substituted “Freedom of accessto clinic entrances” for “Blocking access to reproductive health services” in item 248.
+1994—Pub. L. 103–322, title XXXIII, §330023(a)(1), Sept. 13, 1994, 108 Stat. 2150, substituted “Freedom of access to clinic entrances” for “Blocking access to reproductive health services” in item 248.
 
 Pub. L. 103–259, §4, May 26, 1994, 108 Stat. 697, added item 248.
 

@@ -1,10 +1,10 @@
 ### §3532. Computation of educational assistance allowance
 
-(a)(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $404 for full-time, $304 for three-quarter-time, or $202 for half-time pursuit.
+(a)(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $485 for full-time, $365 for three-quarter-time, or $242 for half-time pursuit.
 
-(2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $404 per month for a full-time course, whichever is the lesser.
+(2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $485 per month for a full-time course, whichever is the lesser.
 
-(b) The educational assistance allowance to be paid on behalf of an eligible person who is pursuing a full-time program of education which consists of institutional courses and alternate phases of training in a business or industrial establishment with the training in the business or industrial establishment being strictly supplemental to the institutional portion, shall be computed at the rate of $404 per month.
+(b) The educational assistance allowance to be paid on behalf of an eligible person who is pursuing a full-time program of education which consists of institutional courses and alternate phases of training in a business or industrial establishment with the training in the business or industrial establishment being strictly supplemental to the institutional portion, shall be computed at the rate of $485 per month.
 
 (c)(1) An eligible person who is enrolled in an educational institution for a “farm cooperative” program consisting of institutional agricultural courses prescheduled to fall within forty-four weeks of any period of twelve consecutive months and who pursues such program on—
 
@@ -16,15 +16,21 @@
 
 > shall be eligible to receive an educational assistance allowance at the appropriate rate provided in paragraph (2) of this subsection, if such eligible person is concurrently engaged in agricultural employment which is relevant to such institutional agricultural courses as determined under standards prescribed by the Secretary. In computing the foregoing clock hour requirements there shall be included the time involved in field trips and individual and group instruction sponsored and conducted by the educational institution through a duly authorized instructor of such institution in which the person is enrolled.
 
-(2) The monthly educational assistance allowance to be paid on behalf of an eligible person pursuing a farm cooperative program under this chapter shall be $327 for full-time, $245 for three-quarter-time, and $163 for half-time pursuit.
+(2) The monthly educational assistance allowance to be paid on behalf of an eligible person pursuing a farm cooperative program under this chapter shall be $392 for full-time, $294 for three-quarter-time, and $196 for half-time pursuit.
 
 (d) If a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person under this section shall be paid at the rate of $0.50 for each dollar.
 
 (e) In the case of an eligible person who is pursuing a program of education under this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony, the educational assistance allowance shall be paid in the same manner prescribed in section 3482(g) of this title for incarcerated veterans, except that the references therein to the monthly educational assistance allowance prescribed for a veteran with no dependents shall be deemed to refer to the applicable allowance payable to an eligible person under corresponding provisions of this chapter or chapter 36 of this title, as determined by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, §1732; Pub. L. 89–222, §1, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(a), (b), title II, §210, Mar. 25, 1970, 84 Stat. 77, 78, 83; Pub. L. 92–540, title I, §103(1)–(3), Oct. 24, 1972, 86 Stat. 1075, 1076; Pub. L. 93–508, title I, §103(1)–(3), title II, §208, Dec. 3, 1974, 88 Stat. 1580, 1584; Pub. L. 93–602, title II, §204(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §§301(1), 308, Oct. 15, 1976, 90 Stat. 2389, 2390; Pub. L. 95–202, title I, §103(1), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§202(1), 212(1), title III, §330, title VI, §602(b), Oct. 17, 1980, 94 Stat. 2188, 2190, 2198, 2209; Pub. L. 98–543, title II, §203(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(1)–(7), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2078, 2079, 2092; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3532 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §316(b), Oct. 29, 1992, 106 Stat. 4334; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 104–275, title I, §105(c), Oct. 9, 1996, 110 Stat. 3327.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, §1732; Pub. L. 89–222, §1, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(a), (b), title II, §210, Mar. 25, 1970, 84 Stat. 77, 78, 83; Pub. L. 92–540, title I, §103(1)–(3), Oct. 24, 1972, 86 Stat. 1075, 1076; Pub. L. 93–508, title I, §103(1)–(3), title II, §208, Dec. 3, 1974, 88 Stat. 1580, 1584; Pub. L. 93–602, title II, §204(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §§301(1), 308, Oct. 15, 1976, 90 Stat. 2389, 2390; Pub. L. 95–202, title I, §103(1), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§202(1), 212(1), title III, §330, title VI, §602(b), Oct. 17, 1980, 94 Stat. 2188, 2190, 2198, 2209; Pub. L. 98–543, title II, §203(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(1)–(7), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2078, 2079, 2092; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3532 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §316(b), Oct. 29, 1992, 106 Stat. 4334; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 104–275, title I, §105(c), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–178, title VIII, §8210(a), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–178, §8210(a)(1), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404”, “$365” for “$304”, and “$242” for “$202”.
+
+Subsecs. (a)(2), (b). Pub. L. 105–178, §8210(a)(2), (3), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404”.
+
+Subsec. (c)(2). Pub. L. 105–178, §8210(a)(4), as added by Pub. L. 105–206, §9014(b), substituted “$392” for “$327”, “$294” for “$245”, and “$196” for “$163”.
 
 1996—Subsec. (b). Pub. L. 104–275 substituted “$404” for “$327”.
 
@@ -99,6 +105,12 @@ Subsec. (c). Pub. L. 91–219, §210, substituted provision that if a program of
 1965—Subsec. (a). Pub. L. 89–222, §1(a), substituted “$130”, “$95”, and “$60” for “$110”, “$80”, and “$50”, respectively.
 
 Subsec. (b). Pub. L. 89–222, §1(b), substituted “$105” for “$90”.
+
+#### Effective Date of 1998 Amendments
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
+Pub. L. 105–178, title VIII, §8210(e), as added by Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866, provided that: “The amendments made by this section \[amending this section and sections 3534, 3542, and 3687 of this title\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998.”
 
 #### Effective Date of 1994 Amendment
 

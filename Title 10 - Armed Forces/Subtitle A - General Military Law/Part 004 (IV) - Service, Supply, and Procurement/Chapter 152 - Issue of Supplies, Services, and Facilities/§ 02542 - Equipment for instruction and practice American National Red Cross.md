@@ -28,8 +28,6 @@ The word “may” is substituted for the words “is authorized \* \* \* at h
 
 #### Cross References
 
-American National Red Cross, see section 1 et seq. of Title 36, Patriotic Societies and Observances.
-
 Cooperation and assistance to armed forces by American National Red Cross, see section 2602 of this title.
 
 Sale of medical supplies and ordnance property to American National Red Cross, see sections 4624, 4625, 9624, 9625 of this title.

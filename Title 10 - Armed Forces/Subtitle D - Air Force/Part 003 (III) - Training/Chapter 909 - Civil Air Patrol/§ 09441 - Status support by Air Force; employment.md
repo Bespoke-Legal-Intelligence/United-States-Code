@@ -2,7 +2,7 @@
 
 (a) The Civil Air Patrol is a volunteer civilian auxiliary of the Air Force.
 
-(b) To assist the Civil Air Patrol in the fulfillment of its objectives as set forth in section 2 of the Act of July 1, 1946 (36 U.S.C. 202), the Secretary of the Air Force may, under regulations prescribed by him with the approval of the Secretary of Defense—
+(b) To assist the Civil Air Patrol in the fulfillment of its objectives as set forth in section 40302 of title 36, the Secretary of the Air Force may, under regulations prescribed by him with the approval of the Secretary of Defense—
 
 &emsp;(1) give, lend, or sell to the Civil Air Patrol without regard to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)—
 
@@ -34,7 +34,7 @@
 
 &emsp;(12) furnish articles of the Air Force uniform to Civil Air Patrol cadets without cost to such cadets.
 
-(c) The Secretary may use the services of the Civil Air Patrol in fulfilling the noncombat mission of the Department of the Air Force, and for purposes of determining the civil liability of theCivil Air Patrol (or any member thereof) with respect to any act or omission committed by the Civil Air Patrol (or any member thereof) in fulfilling such mission, the Civil Air Patrol shall be deemed to be an instrumentality of the United States.
+(c) The Secretary may use the services of the Civil Air Patrol in fulfilling the noncombat mission of the Department of the Air Force, and for purposes of determining the civil liability of the Civil Air Patrol (or any member thereof) with respect to any act or omission committed by the Civil Air Patrol (or any member thereof) in fulfilling such mission, the Civil Air Patrol shall be deemed to be an instrumentality of the United States.
 
 (d)(1) The Secretary of the Air Force may authorize the Civil Air Patrol to employ, as administrators and liaison officers, persons retired from service in the Air Force whose qualifications are approved under regulations prescribed by the Secretary and who request such employment.
 
@@ -42,7 +42,7 @@
 
 (3) A person employed pursuant to paragraph (1) may not, while so employed, be considered to be on active duty or inactive-duty training for any purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 572; Sept. 8, 1980, Pub. L. 96–342, title X, §1007(a), (b)(1), 94 Stat. 1121, 1122; Dec. 12, 1980, Pub. L 96–513, title V, §514(12), 94 Stat. 2935; Oct. 19, 1984, Pub. L. 98–525, title XV, §1533(a), 98 Stat. 2632; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(28), title XIV, §1458(a), 99 Stat. 740, 763; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1365(a), 100 Stat. 4002; Oct. 5, 1994, Pub. L. 103–337, div. A, title X, §1062, 108 Stat. 2847.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 572; Pub. L. 96–342, title X, §1007(a), (b)(1), Sept. 8, 1980, 94 Stat. 1121, 1122; Pub. L 96–513, title V, §514(12), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 98–525, title XV, §1533(a), Oct. 19, 1984, 98 Stat. 2632; Pub. L. 99–145, title XIII, §1303(a)(28), title XIV, §1458(a), Nov. 8, 1985, 99 Stat. 740, 763; Pub. L. 99–661, div. A, title XIII, §1365(a), Nov. 14, 1986, 100 Stat. 4002; Pub. L. 103–337, div. A, title X, §1062, Oct. 5, 1994, 108 Stat. 2847; Pub. L. 105–225, §4(a)(3), Aug. 12, 1998, 112 Stat. 1499.)
 
 Historical and Revision Notes
 
@@ -77,6 +77,8 @@ In subsection (b), the words “Materials”, “other equipment”, and “and 
 The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (b)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act related to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–225 substituted “section 40302 of title 36” for “section 2 of the Act of July 1, 1946 (36 U.S.C. 202)” in introductory provisions.
 
 1994—Subsec. (b)(8) to (12). Pub. L. 103–337, §1062(a), added par. (8) and redesignated former pars. (8) to (11) as (9) to (12), respectively.
 
@@ -124,7 +126,7 @@ Regulations.—Within 45 days, the Secretary of the Air Force shall issue such r
 
 “(b)
 
-Reports.—The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and theCommittee on National Security and the Committee on Appropriations of the House of Representatives, quarterly reports which include a detailed description of the activities of the Civil Air Patrol in support of the Federal, State, and local government agencies’ drug interdiction and eradication programs. The first report shall be submitted on the last day of the first quarter ending not less than 150 days after the date of the enactment \[Nov. 18, 1988\].”
+Reports.—The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security \[now Committee on Armed Services\] and the Committee on Appropriations of the House of Representatives, quarterly reports which include a detailed description of the activities of the Civil Air Patrol in support of the Federal, State, and local government agencies’ drug interdiction and eradication programs. The first report shall be submitted on the last day of the first quarter ending not less than 150 days after the date of the enactment \[Nov. 18, 1988\].”
 
 #### Participation in Drug Interdiction Efforts
 
@@ -140,11 +142,11 @@ Sense of Congress.—It is the sense of Congress that—
 
 “(b)
 
-Authorization.—In addition to any other amounts appropriated for the Civil Air Patrol for fiscal year 1987, there are authorized to be appropriated for the Civil Air Patrol, out of any unobligated and uncommitted balances of appropriations for the Department of Defense for fiscal year 1986 which are carried forward into fiscal year 1987, $7,000,000 for the acquisition of the major items of equipment needed by the Civil Air Patrol for drug interdiction surveillance and reporting missions.
+Authorization.—In addition to any other amounts appropriated for the Civil Air Patrol for fiscal year 1987, there are authorized to be appropriated for the Civil Air Patrol, out of any unobligated and uncommitted balances of appropriations for the Department of Defense for fiscal year 1986 which are carried forwardinto fiscal year 1987, $7,000,000 for the acquisition of the major items of equipment needed by the Civil Air Patrol for drug interdiction surveillance and reporting missions.
 
 “(c)
 
-Reports.—(1) The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives quarterly reports which contain the following information:
+Reports.—(1) The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security \[now Committee on Armed Services\] and the Committee on Appropriations of the House of Representatives quarterly reports which contain the following information:
 
 &emsp;“(A) A description of the manner in which any funds are used under subsection (b).
 

@@ -102,7 +102,7 @@
 
 &emsp;Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.
 
-(June 25, 1947, ch. 125, §15, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 993; amended Oct. 25, 1988, Pub. L. 100–532, title V, §501(a), 102 Stat. 2674.)
+(June 25, 1947, ch. 125, §15, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 993; amended Pub. L. 100–532, title V, §501(a), Oct. 25, 1988, 102 Stat. 2674.)
 
 #### Amendments
 

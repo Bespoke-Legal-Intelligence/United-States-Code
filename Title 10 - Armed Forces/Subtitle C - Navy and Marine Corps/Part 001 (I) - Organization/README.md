@@ -1,11 +1,6 @@
 ## PART I—ORGANIZATION
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>501.</b>](Chapter%20501%20-%20Definitions/README.md) | <b>Definitions</b> | <b>5001</b> |
 | [<b>503.</b>](Chapter%20503%20-%20Department%20of%20the%20Navy/README.md) | <b>Department of the Navy</b> | <b>5011</b> |

@@ -8,7 +8,7 @@ Notwithstanding section 7543(a) of this title, any State which has plan provisio
 
 > Nothing in this section or in subchapter II of this chapter shall be construed as authorizing any such State to prohibit or limit, directly or indirectly, the manufacture or sale of a new motor vehicle or motor vehicle engine that is certified in California as meeting California standards, or to take any action of any kind to create, or have the effect of creating, a motor vehicle or motor vehicle engine different than a motor vehicle or engine certified in California under California standards (a “third vehicle”) or otherwise create such a “third vehicle”.
 
-(July 14, 1955, ch. 360, title I, §177, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 750; amended Nov. 15, 1990, Pub. L. 101–549, title II, §232, 104 Stat. 2529.)
+(July 14, 1955, ch. 360, title I, §177, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 750; amended Pub. L. 101–549, title II, §232, Nov. 15, 1990, 104 Stat. 2529.)
 
 #### Amendments
 

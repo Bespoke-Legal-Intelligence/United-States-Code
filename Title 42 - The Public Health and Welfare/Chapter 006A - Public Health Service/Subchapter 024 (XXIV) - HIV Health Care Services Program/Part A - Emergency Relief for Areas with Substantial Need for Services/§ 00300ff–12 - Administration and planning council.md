@@ -12,7 +12,7 @@
 
 &emsp;&emsp;To receive assistance under section 300ff–11(a) of this title, the chief elected official of the eligible area involved shall—
 
-&emsp;&emsp;&emsp;(i) establish, through intergovernmental agreements with the chief elected officials of the political subdivisions described insubparagraph (B), an administrative mechanism to allocate funds and services based on—
+&emsp;&emsp;&emsp;(i) establish, through intergovernmental agreements with the chief elected officials of the political subdivisions described in subparagraph (B), an administrative mechanism to allocate funds and services based on—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of AIDS cases in such subdivisions;
 
@@ -120,7 +120,7 @@
 
 #### (A) Models
 
-&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this part and public and private experts in grievance procedures, arbitration, and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) of this section and grantees under this part. Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
+&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this part and public and private experts in grievance procedures, arbitration,and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) of this section and grantees under this part. Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
 
 #### (B) Review
 
@@ -130,7 +130,7 @@
 
 &emsp;To be eligible to receive funds under this part, a grantee shall develop grievance procedures that are determined by the Secretary to be consistent with the model procedures developed under paragraph (1)(A). Such procedures shall include a process for submitting grievances to binding arbitration.
 
-(July 1, 1944, ch. 373, title XXVI, §2602, as added Aug. 18, 1990, Pub. L. 101–381, title I, §101(3), 104 Stat. 577; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(26), 106 Stat. 3505; May 20, 1996, Pub. L. 104–146, §3(b)(1), 110 Stat. 1347.)
+(July 1, 1944, ch. 373, title XXVI, §2602, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 577; amended Pub. L. 102–531, title III, §312(d)(26), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §3(b)(1), May 20, 1996, 110 Stat. 1347.)
 
 #### Prior Provisions
 

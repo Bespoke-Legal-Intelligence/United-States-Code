@@ -6,7 +6,7 @@ In responding orally to any inquiry about the cost of credit, a creditor, regard
 
 #### Amendments
 
-1980—Pub. L. 96–221 substituted provisions relating to use of annual percentage rate in oral disclosures by creditors, for provisions setting forth requirements for advertisements concerning consumer credit repayable in more than four installments.
+1980—Pub. L. 96–221 substituted provisions relating to use of annual percentage rate in oral disclosures by creditors, for provisions setting forth requirements foradvertisements concerning consumer credit repayable in more than four installments.
 
 #### Effective Date of 1980 Amendment
 

@@ -28,9 +28,9 @@ There are excepted from the transfer made by subsection (a) hereof—
 
 &emsp;(x) all submerged lands within the Virgin Islands National Park established by sections 398 to 398b of title 16, including the lands described in sections 398c and 398d of title 16; and
 
-&emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described in Presidential Proclamation 3448 dated December 28, 1961.
+&emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described inPresidential Proclamation 3448 dated December 28, 1961.
 
-> Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any ofthe lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
+> Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
 
 #### (c) Submittal to Congressional committees of proposals for conveyance of retained lands or rights
 

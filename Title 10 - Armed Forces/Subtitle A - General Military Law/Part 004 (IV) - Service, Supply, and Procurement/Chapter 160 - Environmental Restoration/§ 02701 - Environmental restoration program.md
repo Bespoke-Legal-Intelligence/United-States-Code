@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsibleperson in accordance with section 122 of CERCLA (relating to settlements).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 of CERCLA (relating to settlements).
 
 &emsp;(3)
 
@@ -110,7 +110,7 @@ Applicability.—(1) Subsections (h) and (i) shall not apply to bonds executed b
 
 (2) Subsections (h) and (i) shall not apply to bonds to which section 119(g) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(g)) applies.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35),Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483.)
 
 #### References in Text
 
@@ -169,6 +169,18 @@ Pub. L. 102–484, §331(b), substituted “December 31, 1995” for “December
 Section 1504(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in Pub. L. 103–337 as enacted.
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Settlement of Claims of Foreign Governments for Environmental Cleanup of Overseas Sites Formerly Used by Department of Defense
+
+Pub. L. 105–261, div. A, title III, §321, Oct. 17, 1998, 112 Stat. 1962, provided that:
+
+“(a)
+
+Notice of Negotiations.—The President shall notify Congress before entering into any negotiations for the ex-gratia settlement of the claims of a government of another country against the United States for environmental cleanup of sites in that country that were formerly used by the Department of Defense.
+
+“(b)
+
+Authorization Required for Use of Funds for Payment of Settlement.—No funds may be used for any payment under an ex-gratia settlement of any claims described in subsection (a) unless the use of the funds for that purpose is specifically authorized by law or international agreement, including a treaty.”
 
 #### Recovery and Sharing of Costs of Environmental Restoration at Department of Defense Sites
 
@@ -276,7 +288,7 @@ Deadlines.—For each defense site for which the Secretary intends to develop a 
 
 “(g)
 
-Definition of Defense Site.—For purposes of this section, the term ‘defense site’ means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft under the jurisdiction of the Department of Defense, or (B) any site or area under the jurisdiction of the Department of Defense where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
+Definition of Defense Site.—For purposes of this section, the term ‘defense site’ means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft under the jurisdiction of the Department of Defense, or (B) any site or areaunder the jurisdiction of the Department of Defense where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
 
 “(h)
 
@@ -314,7 +326,7 @@ Identification of Military Facilities With Environmental Training Expertise.—A
 
 #### Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults
 
-Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857, provided that:
+Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, §102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(8), (f)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, provided that:
 
 “(a)
 
@@ -338,7 +350,7 @@ Use of Grant Funds.—(1) An institution of higher education receiving a grant u
 
 &emsp;“(A) Appropriate State and local agencies.
 
-&emsp;“(B) Private industry councils (as described in section 102 of the Job Training Partnership Act (29 U.S.C. 1512)).
+&emsp;“(B) Private industry councils as described in section 102 of the Job Training Partnership Act \[29 U.S.C. 1512\] or local workforce investment boards established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\].
 
 &emsp;“(C) Community-based organizations (as defined in section 4(5) of such Act (29 U.S.C. 1503(5)).
 
@@ -352,7 +364,7 @@ Use of Grant Funds.—(1) An institution of higher education receiving a grant u
 
 Eligible Individuals.—A program established or conducted using funds provided under subsection (a) may provide education and training in environmental restoration and waste management to—
 
-&emsp;“(1) individuals who have been terminated or laid off from employment (or have received notice of termination or lay off) as a consequence of reductions in expenditures by the United States for defense, the cancellation, termination, or completion of a defense contract, or the closure or realignment of a military installation under a base closure law, as determined in accordance with regulations prescribed by the Secretary; or
+&emsp;“(1) individuals who have been terminated or laid off from employment (or have received notice of termination or lay off) as a consequence of reductions in expenditures by the United States for defense, thecancellation, termination, or completion of a defense contract, or the closure or realignment of a military installation under a base closure law, as determined in accordance with regulations prescribed by the Secretary; or
 
 &emsp;“(2) individuals who have attained the age of 16 but not the age of 25.
 
@@ -382,7 +394,7 @@ Elements of Education and Training Program.—In establishing or conducting an e
 
 &emsp;“(5) To the extent practicable, the institution of higher education shall select instructors for the education and training program from institutions of higher education, appropriate community programs, and industry and labor.
 
-&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs andthe education and training program conducted by the consortium.
+&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs and the education and training program conducted by the consortium.
 
 “(f)
 
@@ -434,7 +446,7 @@ Environmental restoration.—The term ‘environmental restoration’ means acti
 
 &emsp;“(3)
 
-Institution of higher education.—The term ‘institution of higher education’ has the meaning given such term in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)).
+Institution of higher education.—The term ‘institution of higher education’ has the meaning given such term in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\].
 
 &emsp;“(4)
 
@@ -444,9 +456,11 @@ Secretary.—The term ‘Secretary’ means the Secretary of Defense.
 
 Conforming Repeal.—Section 4452 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484; 10 U.S.C. 2701 note) is repealed.”
 
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(7), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 1333(c)(2)(B) of Pub. L. 103–160 is amended by substituting “local” for “Private industry councils as described in section 102 of the Job Training Partnership Act or local”.\]
+
 #### Environmental Education Opportunities Program
 
-Pub. L. 103–160, div. A, title XIII, §1334, Nov. 30, 1993, 107 Stat. 1801, provided that:
+Pub. L. 103–160, div. A, title XIII, §1334, Nov. 30, 1993, 107 Stat. 1801, as amended by Pub. L. 105–244, title I, §102(a)(2)(E), Oct. 7, 1998, 112 Stat. 1617, provided that:
 
 “(a)
 
@@ -522,7 +536,7 @@ Eligible Individuals.—Individuals eligible for scholarships under the program 
 
 “(e)
 
-Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships under this section tosuch eligible individuals as the Secretary determines appropriate pursuant to regulations or policies promulgated by the Secretary.
+Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships under this section to such eligible individuals as the Secretary determines appropriate pursuant to regulations or policies promulgated by the Secretary.
 
 “(B) In awarding a scholarship under this section, the Secretary shall—
 
@@ -564,7 +578,7 @@ Coordination of Benefits.—Any scholarship assistance provided to an individual
 
 “(i)
 
-Report to Congress.—Not later than January 1, 1995, the Secretary of Defense, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall submit to the Congress a report describing the activities undertaken under the program authorized by subsection (a) and containing recommendations for future activities under the program.
+Report to Congress.—Not later than January 1, 1995, the Secretary of Defense, in consultation with theSecretary of Energy and the Administrator of the Environmental Protection Agency, shall submit to the Congress a report describing the activities undertaken under the program authorized by subsection (a) and containing recommendations for future activities under the program.
 
 “(j)
 
@@ -584,7 +598,7 @@ Definitions.—For purposes of this section:
 
 &emsp;“(2) The term ‘hazardous substance research centers’ means the hazardous substance research centers described in section 311(d) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9660(d)). Such term includes the Great Plains and Rocky Mountain Hazardous Substance Research Center, the Northeast Hazardous Substance Research Center, the Great Lakes and Mid-Atlantic Hazardous Substance Research Center, the South and Southwest Hazardous Substance Research Center, and the Western Region Hazardous Substance Research Center.
 
-&emsp;“(3) The term ‘institution of higher education’ has the same meaning given such term in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)).”
+&emsp;“(3) The term ‘institution of higher education’ has the same meaning given such term in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\].”
 
 #### Training and Employment of Department of Defense Employees To Carry Out Environmental Restoration at Military Installations To Be Closed
 
@@ -694,7 +708,7 @@ Report.—The Secretary of Defense shall include in each Report on Allied Contri
 
 #### Environmental Scholarship and Fellowship Programs for Department of Defense
 
-Section 4451 of Pub. L. 102–484 provided that:
+Section 4451 of Pub. L. 102–484, as amended by Pub. L. 105–244, title I, §102(a)(2)(F), Oct. 7, 1998, 112 Stat. 1617, provided that:
 
 “(a)
 
@@ -704,7 +718,7 @@ Establishment.—The Secretary of Defense (hereinafter in this section referred 
 
 Eligibility.—To be eligible to participate in the scholarship or fellowship program, an individual must—
 
-&emsp;“(1) be accepted for enrollment or be currently enrolled as a full-time student at an institution of higher education (as defined in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a));
+&emsp;“(1) be accepted for enrollment or be currently enrolled as a full-time student at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\]);
 
 &emsp;“(2) be pursuing a program of education that leads to an appropriate higher education degree in engineering, biology, chemistry, or another qualifying field related to environmental activities, as determined by the Secretary;
 
@@ -790,7 +804,7 @@ Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in s
 
 #### Grants to Institutions of Higher Education To Provide Training in Environmental Restoration and Hazardous Waste Management
 
-Section 4452 of Pub. L. 102–484 authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in section 1141(a) of Title 20, Education, to provide education andtraining in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
+Section 4452 of Pub. L. 102–484 authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
 
 #### Policies and Report on Overseas Environmental Compliance
 
@@ -872,7 +886,7 @@ DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In additio
 
 “(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
 
-“(3) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committeewith a list of all military specifications, standards, and other requirements that do not specify use of methyl chloroform, HCFCs, or carbon tetrachloride but cannot be met without the use of one or more of such substances.
+“(3) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that do not specify use of methyl chloroform, HCFCs, or carbon tetrachloride but cannot be met without the use of one or more of such substances.
 
 “(b)
 

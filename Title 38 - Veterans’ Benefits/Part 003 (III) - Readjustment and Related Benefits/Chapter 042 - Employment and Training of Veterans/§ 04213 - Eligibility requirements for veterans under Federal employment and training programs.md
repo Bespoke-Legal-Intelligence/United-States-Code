@@ -1,8 +1,12 @@
 ### §4213. Eligibility requirements for veterans under Federal employment and training programs
 
-Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.), or any other employment or training (or related) program financed in whole or in part with Federal funds.
+Any (1) amounts received as pay or allowances by any person while serving on active duty, (2) period of time during which such person served on such active duty, and (3) amounts received under chapters 11, 13, 30, 31, 35, and 36 of this title by an eligible veteran, any amounts received by an eligible person under chapters 13 and 35 of such title, and any amounts received by an eligible person under chapter 106 of title 10, shall be disregarded in determining eligibility under any public service employment program, any emergency employment program, any job training program assisted under the Economic Opportunity Act of 1964, any employment or training program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998, or any other employment or training (or related) program financed in whole or in part with Federal funds.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675.)
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1098, §2013; amended Pub. L. 96–466, title VIII, §801(k)(1), (2)(A), Oct. 17, 1980, 94 Stat. 2217; Pub. L. 102–54, §14(c)(10), June 13, 1991, 105 Stat. 285; renumbered §4213, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VII, §702(b), Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(21)(C), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, this section is amended by striking “the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
@@ -10,7 +14,11 @@ The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, 
 
 The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
 #### Amendments
+
+1998—Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(C)\], substituted “program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “program assisted under the Job Training Partnership Act (29 U.S.C. 1501 et seq.),”.
 
 1994—Pub. L. 103–446, §702(b)(3), substituted “eligibility under” for “the needs or qualifications of participants in”.
 
@@ -23,6 +31,10 @@ Pub. L. 103–446, §702(b)(1), which directed substitution of “chapters 11, 1
 Pub. L. 102–54 substituted “the Job Training Partnership Act (29 U.S.C. 1501 et seq.)” for “the Comprehensive Employment and Training Act”.
 
 1980—Pub. L. 96–466 substituted “Federal employment and” for “certain Federal manpower” in section catchline, and substituted “an eligible veteran” for “a veteran (as defined in section 101(2) of this title) who served on active duty for a period of more than 180 days or was discharged or released from active duty for a service-connected disability” and “any employment or training program assisted under the Comprehensive Employment and Training Act, or any other employment or” for “any manpower training program assisted under the Manpower Development and Training Act of 1962, or any other manpower” in text.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(29)(C)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(21)(C)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

@@ -10,7 +10,7 @@ Title.—When a negotiable bill of lading is negotiated—
 
 &emsp;&emsp;(B) the consignor and consignee had the ability to convey to such a purchaser; and
 
-&emsp;(2) the common carrier issuing the bill becomes obligated directly to the person towhom the bill is negotiated to hold possession of the goods under the terms of the bill the same as if the carrier had issued the bill to that person.
+&emsp;(2) the common carrier issuing the bill becomes obligated directly to the person to whom the bill is negotiated to hold possession of the goods under the terms of the bill the same as if the carrier had issued the bill to that person.
 
 (b)
 

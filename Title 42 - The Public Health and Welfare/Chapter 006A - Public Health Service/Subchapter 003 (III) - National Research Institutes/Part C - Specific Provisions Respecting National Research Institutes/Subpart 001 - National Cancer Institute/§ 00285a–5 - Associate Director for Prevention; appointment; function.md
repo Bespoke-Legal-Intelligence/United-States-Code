@@ -4,5 +4,5 @@
 
 (b) The Associate Director for Prevention shall prepare for inclusion in the biennial report made under section 284b of this title a description of the prevention activities of the Institute, including a description of the staff and resources allocated to those activities.
 
-(July 1, 1944, ch. 373, title IV, §416, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 836.)
+(July 1, 1944, ch. 373, title IV, §416, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 836.)
 

@@ -1,6 +1,0 @@
-### §272. Completion of organization
-
-The persons named in section 271 of this title are authorized to meet to complete the organization of the corporation by the selection of officers, the adoption of regulations and bylaws, and the doing of such other acts as may be necessary for such purpose.
-
-(Aug. 30, 1950, ch. 823, §2, 64 Stat. 563.)
-

@@ -4,7 +4,7 @@
 
 (b) Any warrant officer of the Army who has at least 40 years of service computed under section 3926(a) of this title shall be retired upon his request.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 227; Dec. 12, 1980, Pub. L. 96–513, title V, §502(17), 94 Stat. 2910.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 227; Pub. L. 96–513, title V, §502(17), Dec. 12, 1980, 94 Stat. 2910.)
 
 Historical and Revision Notes
 

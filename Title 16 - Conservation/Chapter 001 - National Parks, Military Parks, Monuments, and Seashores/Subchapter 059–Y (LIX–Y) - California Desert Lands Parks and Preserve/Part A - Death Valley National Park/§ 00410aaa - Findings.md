@@ -20,7 +20,7 @@ The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964,
 
 #### Short Title
 
-Section 1 of Pub. L. 103–433 provided that: “Sections 1 and 2, and titles I through IX of this Act \[enacting this subchapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘California Desert Protection Act of 1994’.”
+Section 1 of Pub. L. 103–433 provided that: “Sections 1 and 2, and titles I through IX of this Act \[enacting this subchapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title anda table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘California Desert Protection Act of 1994’.”
 
 #### Findings and Policy
 

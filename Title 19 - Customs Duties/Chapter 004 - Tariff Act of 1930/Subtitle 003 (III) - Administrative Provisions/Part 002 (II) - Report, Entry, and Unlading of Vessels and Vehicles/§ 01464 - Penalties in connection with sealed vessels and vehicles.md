@@ -6,7 +6,7 @@ If the master of such vessel or the person in charge of any such vehicle fails t
 
 #### Prior Provisions
 
-Provisions somewhat similar to those in this section, with a further provision for seizure of the vessel, car,or vehicle with its contents, and a provision that nothing therein should prevent sales of cargo prior to arrival, to be delivered per manifest and after due inspection, were contained in R.S. §3104, which was superseded in part by act Sept. 21, 1922, ch. 356, title IV, §464, 42 Stat. 957, and was repealed by section 642 thereof. Section 464 of the 1922 act was superseded by section 464 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions somewhat similar to those in this section, with a further provision for seizure of the vessel, car, or vehicle with its contents, and a provision that nothing therein should prevent sales of cargo prior to arrival, to be delivered per manifest and after due inspection, were contained in R.S. §3104, which was superseded in part by act Sept. 21, 1922, ch. 356, title IV, §464, 42 Stat. 957, and was repealed by section 642 thereof. Section 464 of the 1922 act was superseded by section 464 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Cross References
 

@@ -136,7 +136,7 @@ In general.—In issuing export credit guarantees under this section in connecti
 
 “(2)
 
-Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extent that the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
+Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extentthat the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
 
 1992—Subsecs. (a), (b). Pub. L. 102–511, §709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
 
@@ -158,7 +158,7 @@ Section 1542 of title XV of Pub. L. 101–624, as amended by Pub. L. 102–237, 
 
 “(a)
 
-Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2002 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to theamounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2002 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 “(b)
 
@@ -222,7 +222,7 @@ Reports to secretary.—A team that receives assistance under subparagraph (B) s
 
 &emsp;&emsp;“(F)
 
-Advisory committee.—To provide the Secretary with information that may be useful to the Secretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
+Advisory committee.—To provide the Secretary with information that may be useful to theSecretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
 
 &emsp;&emsp;“(G)
 

@@ -16,7 +16,7 @@ Nonapplication.—This section does not apply to—
 
 &emsp;&emsp;(B) holding, without knowing about the noncompliance and before the vehicle or equipment is first purchased in good faith other than for resale, a certificate issued by a manufacturer or importer stating the vehicle or equipment complies with applicable standards prescribed under this chapter;
 
-&emsp;(3) a motor vehicle or motor vehicle equipment intended only for export, labeled for export on the vehicle or equipment and on theoutside of any container of the vehicle or equipment, and exported;
+&emsp;(3) a motor vehicle or motor vehicle equipment intended only for export, labeled for export on the vehicle or equipment and on the outside of any container of the vehicle or equipment, and exported;
 
 &emsp;(4) a motor vehicle the Secretary of Transportation decides under section 30141 of this title is capable of complying with applicable standards prescribed under this chapter;
 

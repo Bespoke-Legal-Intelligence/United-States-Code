@@ -14,7 +14,7 @@
 
 #### (B) Priority consideration
 
-&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; NewYork-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York.
+&emsp;&emsp;The Administrator shall give priority consideration under this section to Long Island Sound, New York and Connecticut; Narragansett Bay, Rhode Island; Buzzards Bay, Massachusetts; Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor); Puget Sound, Washington; New York-New Jersey Harbor, New York and New Jersey; Delaware Bay, Delaware and New Jersey; Delaware Inland Bays, Delaware; Albemarle Sound, North Carolina; Sarasota Bay, Florida; San Francisco Bay, California; Santa Monica Bay, California; Galveston Bay, Texas; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York.
 
 #### (3) Boundary dispute exception
 
@@ -36,7 +36,7 @@ The purposes of any management conference convened with respect to an estuary un
 
 &emsp;(6) monitor the effectiveness of actions taken pursuant to the plan; and
 
-&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17, 1983, to determine whether such assistance program or project would be consistent with and further the purposes and objectives of the plan prepared under this section.
+&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17,1983, to determine whether such assistance program or project would be consistent with and further the purposes and objectives of the plan prepared under this section.
 
 > For purposes of paragraph (7), such programs and projects shall not be limited to the assistance programs and development projects subject to Executive Order 12372, but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the plan developed under this section.
 
@@ -108,7 +108,7 @@ There are authorized to be appropriated to the Administrator not to exceed $12,0
 
 &emsp;In order to determine the need to convene a management conference under this section or at the request of such a management conference, the Administrator shall coordinate and implement, through the National Marine Pollution Program Office and the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration, as appropriate, for one or more estuarine zones—
 
-&emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations in pollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
+&emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations inpollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
 
 &emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baseline studies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
 
@@ -130,15 +130,17 @@ There are authorized to be appropriated to the Administrator not to exceed $12,0
 
 #### (k) Definitions
 
-For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
+For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(3) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151.)
+(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283.)
 
 #### References in Text
 
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
 #### Amendments
+
+1998—Subsec. (k). Pub. L. 105–362 substituted “section 1254(n)(3)” for “section 1254(n)(4)”.
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–653, §1004, and Pub. L. 100–688, §2001(1), made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
 

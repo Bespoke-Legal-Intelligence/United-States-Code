@@ -10,7 +10,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;(3) employers (including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) <sup>1</sup> of this title) <sup>2</sup> in such State are required, effective September 30, 1988, to make quarterly wage reports to a State agency (which may be the agency administering the State's unemployment compensation law) except that the Secretary of Labor (in consultation with the Secretary of Health and Human Services and the Secretary of Agriculture) may waive the provisions of this paragraph if he determines that the State has in effect an alternative system which is as effective and timely for purposes of providing employment related income and eligibility data for the purposes described in paragraph (2), and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission;
 
-&emsp;(4) the State agencies administering the programs listed in subsection (b) of this section adhere to standardized formats and procedures established by the Secretary of Health and Human Services (in consultation with the Secretary of Agriculture) under which—
+&emsp;(4) the State agencies administering the programs listed in subsection (b) of this section adhere to standardized formats and procedures established by the Secretary of Health andHuman Services (in consultation with the Secretary of Agriculture) under which—
 
 &emsp;&emsp;(A) the agencies will exchange with each other information in their possession which may be of use in establishing or verifying eligibility or benefit amounts under any other such program;
 
@@ -126,7 +126,7 @@ Each Federal agency responsible for administration of a program described in sub
 
 Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1137, as added July 18, 1984, Pub. L. 98–369, div. B, title VI, §2651(a), 98 Stat. 1147; amended Oct. 21, 1986, Pub. L. 99–509, title IX, §9101, 100 Stat. 1972; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 6, 1986, Pub. L. 99–603, title I, §121(a)(1), 100 Stat. 3384; July 1, 1988, Pub. L. 100–360, title IV, §411(k)(15)(A), 102 Stat. 799; Oct. 31, 1994, Pub. L. 103–432, title II, §231, 108 Stat. 4462; Aug. 22, 1996, Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), 110 Stat. 2168, 2212; Sept. 30, 1996, Pub. L. 104–208, div. C, title V, §507(a), 110 Stat. 3009–673.)
+(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673.)
 
 #### References in Text
 

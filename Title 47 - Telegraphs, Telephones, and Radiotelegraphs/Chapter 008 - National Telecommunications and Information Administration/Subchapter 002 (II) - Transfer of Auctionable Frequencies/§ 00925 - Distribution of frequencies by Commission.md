@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 105–33, §3002(e)(4)(B), added subsec. (c).
 
 #### Accelerated Availability for Auction of 1,710–1,755 Megahertz From Initial Reallocation Report
 
-Section 3002(b) of Pub. L. 105–33 provided that: “The band of frequencies located at 1,710–1,755 megahertz identified in the initial reallocation report under section 113(a) of the National Telecommunications and Information Administration Act (47 U.S.C. 923(a)) shall, notwithstanding the timetable recommended under section 113(e) of such Act and section 115(b)(1) of such Act \[47 U.S.C. 925(b)(1)\], be available in accordance with this subsection for assignment for commercial use. The Commission shall assign licenses for such use by competitive bidding commenced after January 1, 2001, pursuant to section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)).”
+Section 3002(b) of Pub. L. 105–33 provided that: “The band of frequencies located at 1,710–1,755 megahertzidentified in the initial reallocation report under section 113(a) of the National Telecommunications and Information Administration Act (47 U.S.C. 923(a)) shall, notwithstanding the timetable recommended under section 113(e) of such Act and section 115(b)(1) of such Act \[47 U.S.C. 925(b)(1)\], be available in accordance with this subsection for assignment for commercial use. The Commission shall assign licenses for such use by competitive bidding commenced after January 1, 2001, pursuant to section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)).”
 
 #### Commission Obligation To Make Additional Spectrum Available by Auction
 

@@ -4,7 +4,7 @@ Whoever broadcasts by means of any radio or television station for which a licen
 
 Each day's broadcasting shall constitute a separate offense.
 
-(June 25, 1948, ch. 645, 62 Stat. 763; Nov. 7, 1988, Pub. L. 100–625, §3(a)(4), 102 Stat. 3206; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 100–625, §3(a)(4), Nov. 7, 1988, 102 Stat. 3206; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

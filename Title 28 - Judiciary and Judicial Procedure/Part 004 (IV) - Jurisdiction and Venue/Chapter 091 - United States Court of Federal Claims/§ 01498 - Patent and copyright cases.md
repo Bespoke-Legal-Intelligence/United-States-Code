@@ -16,9 +16,13 @@ Except as otherwise provided by law, no recovery shall be had for any infringeme
 
 (d) Hereafter, whenever a plant variety protected by a certificate of plant variety protection under the laws of the United States shall be infringed by the United States, by a corporation owned or controlled by the United States, or by a contractor, subcontractor, or any person, firm, or corporation acting for the Government, and with the authorization and consent of the Government, the exclusive remedy of the owner of such certificate shall be by action against the United States in the Court of Federal Claims for the recovery of his reasonable and entire compensation as damages for such infringement: <i>Provided</i>, That a Government employee shall have a right of action against the Government under this subsection except where he was in a position to order, influence, or induce use of the protected plant variety by the Government: <i>Provided, however</i>, That this subsection shall not confer a right of action on any certificate owner or any assignee of such owner with respect to any protected plant variety made by a person while in the employment or service of the United States, where such variety was prepared as a part of the official functions of the employee, or in the preparation of which Government time, material, or facilities were used: <i>And provided further</i>, That before such action against the United States has been instituted, the appropriate corporation owned or controlled by the United States or the head of the appropriate agency of the Government, as the case may be, is authorized to enter into an agreement with the certificate owner in full settlement and compromise, for the damages accrued to him by reason of such infringement and to settle the claim administratively out of available appropriations.
 
-(e) Subsections (b) and (c) of this section apply to exclusive rights in mask works under chapter 9 of title 17 to the same extent as such subsections apply to copyrights.
+(e) Subsections (b) and (c) of this section apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; May 24, 1949, ch. 139, §87, 63 Stat. 102; Oct. 31, 1951, ch. 655, §50(c), 65 Stat. 727; July 17, 1952, ch. 930, 66 Stat. 757; Pub. L. 86–726, §§1, 4, Sept. 8, 1960, 74 Stat. 855, 856; Pub. L. 91–577, title III, §143(d), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 94–553, title I, §105(c), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–164, title I, §133(d), Apr. 2, 1982, 96 Stat. 40; Pub. L. 100–702, title X, §1020(a)(6), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–308, §1(a), Oct. 19, 1996, 110 Stat. 3814; Pub. L. 105–147, §3, Dec. 16, 1997, 111 Stat. 2680.)
+(June 25, 1948, ch. 646, 62 Stat. 941; May 24, 1949, ch. 139, §87, 63 Stat. 102; Oct. 31, 1951, ch. 655, §50(c), 65 Stat. 727; July 17, 1952, ch. 930, 66 Stat. 757; Pub. L. 86–726, §§1, 4, Sept. 8, 1960, 74 Stat. 855, 856; Pub. L. 91–577, title III, §143(d), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 94–553, title I, §105(c), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–164, title I, §133(d), Apr. 2, 1982, 96 Stat. 40; Pub. L. 100–702, title X, §1020(a)(6), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–308, §1(a), Oct. 19, 1996, 110 Stat. 3814; Pub. L. 105–147, §3, Dec. 16, 1997, 111 Stat. 2680; Pub. L. 105–304, title V, §503(d), Oct. 28, 1998, 112 Stat. 2917.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 505 of Pub. L. 105–304, see Effective and Termination Dates of 1998 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -44,33 +48,39 @@ Hereafter, referred to in subsec. (d), probably means after the date of enactmen
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–147, §3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
+1998—Subsec. (e). Pub. L. 105–304, §§503(d), 505, temporarily inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”. See Effective and Termination Dates of 1998 Amendment note below.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–308 inserted at end of first par. “Reasonable and entire compensation shall include the owner's reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding the preceding sentences, unless the action has been pending for more than 10 years from the time of filing to the time that the owner applies for such costs and fees, reasonable and entire compensation shall not include such costs and fees if the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.”
+1997—Subsec. (b). Pub. L. 105–147, §3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1996—Subsec. (a). Pub. L. 104–308 inserted at end of first par. “Reasonable and entire compensation shall include the owner's reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding the preceding sentences, unless the action has been pending for more than 10 years from the time of filing to the time that the owner applies for such costs and fees, reasonable and entire compensation shall not include such costs and fees if the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.”
+
+1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsecs. (b), (d). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–702 added subsec. (e).
+1988—Subsec. (e). Pub. L. 100–702 added subsec. (e).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–168, §133(d)(1), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–168, §133(d)(1), substituted “United States Claims Court” for “Court of Claims”.
 
 Subsecs. (b), (d). Pub. L. 97–164, §133(d)(2), substituted “Claims Court” for “Court of Claims”.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–553 substituted “section 504(c) of title 17” for “section 101(b) of title 17”.
+1976—Subsec. (b). Pub. L. 94–553 substituted “section 504(c) of title 17” for “section 101(b) of title 17”.
 
-<b>1970</b>—Subsec. (d). Pub. L. 91–577 added subsec. (d).
+1970—Subsec. (d). Pub. L. 91–577 added subsec. (d).
 
-<b>1960</b>—Pub. L. 86–726, §4, substituted “Patent and copyright cases” for “Patent cases” in section catchline.
+1960—Pub. L. 86–726, §4, substituted “Patent and copyright cases” for “Patent cases” in section catchline.
 
 Pub. L. 86–726, §1, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-<b>1952</b>—Act July 17, 1952, allowed Government employees to maintain patent suits against the United States in certain instances.
+1952—Act July 17, 1952, allowed Government employees to maintain patent suits against the United States in certain instances.
 
-<b>1951</b>—Act Oct. 31, 1951, inserted second par.
+1951—Act Oct. 31, 1951, inserted second par.
 
-<b>1949</b>—Act May 29, 1949, conformed first par. of section to original law.
+1949—Act May 29, 1949, conformed first par. of section to original law.
+
+#### Effective and Termination Dates of 1998 Amendment
+
+Amendment by Pub. L. 105–304 effective Oct. 28, 1998, and to remain in effect until the end of the 2-year period beginning on such date, see section 505 of Pub. L. 105–304, set out as an Effective and Termination Dates note under section 1301 of Title 17, Copyrights.
 
 #### Effective Date of 1996 Amendment
 

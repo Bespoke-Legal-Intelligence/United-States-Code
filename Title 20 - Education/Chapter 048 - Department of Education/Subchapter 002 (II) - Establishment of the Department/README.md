@@ -24,3 +24,4 @@
 - [&sect; 03423d - Office of Bilingual Education and Minority Languages Affairs](%C2%A7%2003423d%20-%20Office%20of%20Bilingual%20Education%20and%20Minority%20Languages%20Affairs.md)
 - [&sect; 03424 - Federal Interagency Committee on Education](%C2%A7%2003424%20-%20Federal%20Interagency%20Committee%20on%20Education.md)
 - [&sect; 03425 - Office of Educational Technology](%C2%A7%2003425%20-%20Office%20of%20Educational%20Technology.md)
+- [&sect; 03426 - Liaison for Proprietary Institutions of Higher Education](%C2%A7%2003426%20-%20Liaison%20for%20Proprietary%20Institutions%20of%20Higher%20Education.md)

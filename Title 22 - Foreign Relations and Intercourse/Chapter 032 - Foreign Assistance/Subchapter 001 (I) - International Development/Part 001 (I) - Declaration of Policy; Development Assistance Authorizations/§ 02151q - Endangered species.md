@@ -6,7 +6,7 @@ The Congress finds the survival of many animal and plant species is endangered b
 
 #### (b) Remedial measures
 
-In order to preserve biological diversity, the President is authorized to furnish assistance under subchapter I of this chapter, notwithstanding section 2420 of this title, to assist countries in protecting and maintaining wildlife habitats and in developing sound wildlife management and plant conservation programs. Special efforts should be made to establish and maintain wildlife sanctuaries, reserves, andparks; to enact and enforce anti-poaching measures; and to identify, study, and catalog animal and plant species, especially in tropical environments.
+In order to preserve biological diversity, the President is authorized to furnish assistanceunder subchapter I of this chapter, notwithstanding section 2420 of this title, to assist countries in protecting and maintaining wildlife habitats and in developing sound wildlife management and plant conservation programs. Special efforts should be made to establish and maintain wildlife sanctuaries, reserves, and parks; to enact and enforce anti-poaching measures; and to identify, study, and catalog animal and plant species, especially in tropical environments.
 
 #### (c) Funding level
 
@@ -70,7 +70,7 @@ A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88,
 
 1989—Subsec. (b). Pub. L. 101–167 inserted “, notwithstanding section 2420 of this title,” after “subchapter I of this chapter”.
 
-1986—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary ofState, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
+1986—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
 
 Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows: “Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries.”
 

@@ -6,7 +6,7 @@
 
 (c) The director of admissions of the Academy shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Aug. 6, 1958, Pub. L. 85–600, §1(20), 72 Stat. 523; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §515(a)(2), 103 Stat. 1441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–600, §1(20), Aug. 6, 1958, 72 Stat. 523; Pub. L. 101–189, div. A, title V, §515(a)(2), Nov. 29, 1989, 103 Stat. 1441.)
 
 Historical and Revision Notes
 

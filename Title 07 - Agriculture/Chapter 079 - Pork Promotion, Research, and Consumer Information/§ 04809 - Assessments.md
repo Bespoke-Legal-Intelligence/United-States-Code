@@ -18,7 +18,7 @@
 
 &emsp;(C) in the case of subparagraph (C) of paragraph (1), the importer referred to in such subparagraph.
 
-(3) A person is not required to pay an assessment for a porcine animal, pork, or pork product under paragraph (1) if such person proves to the Board that an assessment was paid previously under such paragraph by a person for such porcine animal (of the same category described in subparagraph (A), (B), or (C) of section 4802(8) of this title), pork, or pork product.
+(3) A person is not required to pay an assessment for a porcine animal, pork, or pork product under paragraph (1) if such person proves to the Board that an assessment was paid previously under such paragraph by a person forsuch porcine animal (of the same category described in subparagraph (A), (B), or (C) of section 4802(8) of this title), pork, or pork product.
 
 #### (b) Rate of assessment; increase; waiver of collection of assessment
 
@@ -86,7 +86,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;&emsp;(iv) administrative costs incurred by the Secretary to carry out this chapter,<sup>4</sup> including any expenses incurred for the conduct of a referendum under this chapter.<sup>4</sup>
 
-&emsp;(4)(A) Each State's share of refunds shall be determined by multiplying the aggregate amount of refunds received by producers in such State by the percentage applicable to such State pursuant to paragraph (1)(A)(ii).
+&emsp;(4)(A) Each State's share of refunds shall be determined by multiplying the aggregateamount of refunds received by producers in such State by the percentage applicable to such State pursuant to paragraph (1)(A)(ii).
 
 &emsp;(B) The National Pork Producers Council's share of refunds shall be determined by multiplying its applicable percent of the aggregate amount of assessments by the product of—
 

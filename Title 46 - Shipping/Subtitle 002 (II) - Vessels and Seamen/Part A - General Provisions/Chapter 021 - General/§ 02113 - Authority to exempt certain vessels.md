@@ -8,7 +8,7 @@ If the Secretary decides that the application of a provision of part B, C, F, or
 
 &emsp;(3) establish different operating and equipment requirements for vessels defined in section 2101(42)(A) of this title;
 
-&emsp;(4) establish different structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages if the owner of the vessel—
+&emsp;(4) establish different structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not morethan 150 passengers on domestic voyages if the owner of the vessel—
 
 &emsp;&emsp;(A) makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
 

@@ -54,7 +54,7 @@ Economic Regulation.—In carrying out subpart II of this part and those provisi
 
 (b)
 
-All-Cargo Air Transportation Considerations.—In carrying out subpart II of this partand those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others and in addition to the matters referred to in subsection (a) of this section, as being in the public interest for all-cargo air transportation:
+All-Cargo Air Transportation Considerations.—In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others and in addition to the matters referred to in subsection (a) of this section, as being in the public interest for all-cargo air transportation:
 
 &emsp;(1) encouraging and developing an expedited all-cargo air transportation system provided by private enterprise and responsive to—
 
@@ -246,6 +246,10 @@ Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3)
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–155, §1, Feb. 11, 1998, 112 Stat. 5, provided that: “This Act \[amending section 48102 of this title and enacting provisions set out as a note under section 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Authorization Act of 1998’.”
+
 #### Short Title of 1997 Amendment
 
 Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: “This Act \[amending sections 40102, 44302, 44305, 44306, 44308, and 44310 of this title and enacting provisions set out as a note under section 44310 of this title\] may be cited as the ‘Aviation Insurance Reauthorization Act of 1997’.”
@@ -338,7 +342,7 @@ Initiation.—Not later than 30 days after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Assessment criteria.—The Administrator shall provide to the independent entity estimates of the financial requirements of the Administration for the period described in paragraph (1), using as a base the fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
+Assessment criteria.—The Administrator shall provide to the independent entity estimates of the financial requirements of the Administration for the period described in paragraph (1), using as a basethe fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
 
 &emsp;“(3)
 
@@ -464,7 +468,7 @@ Additional recommendations.—The aviation funding task force report may also ma
 
 &emsp;&emsp;&emsp;“(iv) the elimination of unneeded programs; and
 
-&emsp;&emsp;&emsp;“(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, andrevolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
+&emsp;&emsp;&emsp;“(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, and revolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
 
 &emsp;&emsp;“(D)
 
@@ -580,11 +584,11 @@ Publication.—The Secretary shall cause a copy of the report to be printed in t
 
 &emsp;“(2)
 
-Report by the administrator based on final report of aviation safety task force.—Not later than 30 days after receiving the report of the aviation safety task force, the Administrator shall transmit the report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
+Report by the administrator based on final report of aviation safety task force.—Not later than 30 days after receiving the report of the aviation safety task force, the Administrator shall transmitthe report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
 
 “(d)
 
-GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the mannerin which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
+GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the manner in which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
 
 “(e)
 

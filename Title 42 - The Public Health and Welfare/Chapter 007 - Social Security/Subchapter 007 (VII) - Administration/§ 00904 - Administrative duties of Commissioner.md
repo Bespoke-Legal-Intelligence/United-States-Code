@@ -38,7 +38,7 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 &emsp;(B) the Commissioner shall disclose to the Secretary or to any State any record or information requested in writing by the Secretary to be so disclosed for the purpose of administering any program administered by the Secretary, if records or information of such type were so disclosed under applicable rules, regulations, and procedures in effect before August 15, 1994.
 
-(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and information provided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
+(2) The Commissioner and the Secretary shall enter into an agreement under which the Commissioner provides the Secretary data concerning the quality of the services and informationprovided to beneficiaries of the programs under subchapters XVIII and XIX of this chapter and the administrative services provided by the Social Security Administration in support of such programs. Such agreement shall stipulate the type of data to be provided and the terms and conditions under which the data are to be provided.
 
 (3) The Commissioner and the Secretary shall periodically review the need for exchanges of information not referred to in paragraph (1) or (2) and shall enter into such agreements as may be necessary and appropriate to provide information to each other or to States in order to meet the programmatic needs of the requesting agencies.
 
@@ -48,7 +48,7 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 (5) The Commissioner and the Secretary shall each ensure that timely action is taken to establish any necessary routine uses for disclosures required under paragraph (1) or agreed to pursuant to paragraph (3).
 
-(Aug. 14, 1935, ch. 531, title VII, §704, 49 Stat. 636; Aug. 28, 1950, ch. 809, title IV, §402(b), 64 Stat. 558; Apr. 21, 1976, Pub. L. 94–273, §33, 90 Stat. 380; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171; Aug. 15, 1994, Pub. L. 103–296, title I, §104(a), 108 Stat. 1470.)
+(Aug. 14, 1935, ch. 531, title VII, §704, 49 Stat. 636; Aug. 28, 1950, ch. 809, title IV, §402(b), 64 Stat. 558; Pub. L. 94–273, §33, Apr. 21, 1976, 90 Stat. 380; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §104(a), Aug. 15, 1994, 108 Stat. 1470.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ The civil service laws, referred to in subsec. (a)(1), are classified generally 
 
 #### Amendments
 
-1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretaryshall make a full report to Congress, within one hundred and twenty days after the beginning of each regular session, of the administration of the functions with which he is charged under this chapter. In addition to the number of copies of such report authorized by other law to be printed, there is hereby authorized to be printed not more than five thousand copies of such report for use by the Secretary for distribution to Members of Congress and to State and other public or private agencies or organizations participating in or concerned with the social security program.”
+1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall make a full report to Congress, within one hundred and twenty days after the beginning of each regular session, of the administration of the functions with which he is charged under this chapter. In addition to the number of copies of such report authorized by other law to be printed, there is hereby authorized to be printed not more than five thousand copies of such report for use by the Secretary for distribution to Members of Congress and to State and other public or private agencies or organizations participating in or concerned with the social security program.”
 
 1984—Pub. L. 98–369 substituted “Secretary” for “Administrator”.
 

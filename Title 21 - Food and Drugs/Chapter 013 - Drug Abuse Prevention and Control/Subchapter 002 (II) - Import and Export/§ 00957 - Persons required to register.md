@@ -56,7 +56,7 @@ Section 1104 of Pub. L. 91–513, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 &emsp;“(C) who is registered on such day under section 510 of the Federal Food, Drug, and Cosmetic Act \[section 360 of this title\] or under section 4722 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4722 of title 26\],
 
-> shall, with respect to each establishment for which such registration is in effect under any such section, be deemed to have a provisional registration under section 1008 \[section 958 of this title\] for the import or export (as the case may be) of controlled substances.
+> shall, with respect to each establishment for which such registration is in effect under any such section, bedeemed to have a provisional registration under section 1008 \[section 958 of this title\] for the import or export (as the case may be) of controlled substances.
 
 “(2) During the period his provisional registration is in effect under this section, the registration number assigned such person under such section 510 or under such section 4722 (as the case may be) shall be his registration number for purposes of part A of this title \[this subchapter\].
 

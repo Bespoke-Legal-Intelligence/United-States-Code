@@ -10,13 +10,13 @@ The Commission is authorized, if so requested, prior to any solicitation of secu
 
 #### (c) Enjoinder of plan of reorganization
 
-Any district court of the United States in the State of incorporation of a registered investment company, or any such court for the district in which such company maintains its principal place of business, is authorized to enjoin the consummation of any plan of reorganization of such registered investment company upon proceedings instituted by the Commission (which is authorized so to proceed upon behalf of security holders of such registered company, or any class thereof), if such court shall determine that any such plan is not fair and equitable to all security holders.
+Any district court of the United States in the State of incorporation of a registered investment company, or any such court for the district in which such company maintains its principal place of business, is authorized to enjointhe consummation of any plan of reorganization of such registered investment company upon proceedings instituted by the Commission (which is authorized so to proceed upon behalf of security holders of such registered company, or any class thereof), if such court shall determine that any such plan is not fair and equitable to all security holders.
 
 #### (d) Application of section to reorganizations under title 11
 
 Nothing contained in this section shall in any way affect or derogate from the powers of the courts of the United States and the Commission with reference to reorganizations contained in title 11.
 
-(Aug. 22, 1940, ch. 686, title I, §25, 54 Stat. 826; Dec. 14, 1970, Pub. L. 91–547, §14, 84 Stat. 1424; Nov. 6, 1978, Pub. L. 95–598, title III, §310(c), 92 Stat. 2676.)
+(Aug. 22, 1940, ch. 686, title I, §25, 54 Stat. 826; Pub. L. 91–547, §14, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 95–598, title III, §310(c), Nov. 6, 1978, 92 Stat. 2676.)
 
 #### Amendments
 

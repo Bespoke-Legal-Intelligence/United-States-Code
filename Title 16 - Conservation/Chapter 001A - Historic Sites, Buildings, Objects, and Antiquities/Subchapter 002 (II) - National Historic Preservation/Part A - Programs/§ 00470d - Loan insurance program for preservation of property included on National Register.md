@@ -74,7 +74,7 @@ In subsec. (c), “December 12, 1980” substituted for “the date of enactment
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–515 substituted provision authorizing the Secretary to establish and maintain a program by which he, upon application of a private lender, insure loans made by such lender to finance any project for the preservation of a property included on the National Register for provision prohibiting grants to surveys or projects receiving assistance from any other Federal program or activity.
+1980—Subsec. (a). Pub. L. 96–515 substituted provision authorizing the Secretary to establish and maintain aprogram by which he, upon application of a private lender, insure loans made by such lender to finance any project for the preservation of a property included on the National Register for provision prohibiting grants to surveys or projects receiving assistance from any other Federal program or activity.
 
 Subsec. (b). Pub. L. 96–515 substituted provision prescribing loan qualifications for provision authorizing the President, in order to assure consistency in policies and actions and coordination of planning, acquisition, and development assistance to States with other related Federal programs, to issue regulations as deemed desirable.
 

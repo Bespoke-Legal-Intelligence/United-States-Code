@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(2) the Great Lakes need to be carefully managed and protected to meet current and future needs within the Great Lakes basin and Canadian provinces;
 
-&emsp;(3) any new diversions of Great Lakes water for use outside of the Great Lakes basin willhave significant economic and environmental impacts, adversely affecting the use of this resource by the Great Lakes States and Canadian provinces; and
+&emsp;(3) any new diversions of Great Lakes water for use outside of the Great Lakes basin will have significant economic and environmental impacts, adversely affecting the use of this resource by the Great Lakes States and Canadian provinces; and
 
 &emsp;(4) four of the Great Lakes are international waters and are defined as boundary waters in the Boundary Waters Treaty of 1909 between the United States and Canada, and as such any new diversion of Great Lakes water in the United States would affect the relations of the Government of the United States with the Government of Canada.
 

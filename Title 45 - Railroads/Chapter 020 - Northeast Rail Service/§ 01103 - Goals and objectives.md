@@ -22,7 +22,7 @@ It is the goal of this subtitle to provide Conrail the opportunity to become pro
 
 &emsp;(B) Agreements under this subparagraph may provide for reductions in wage increases and for changes in fringe benefits common to agreement employees, including vacations and holidays.
 
-&emsp;(C) The cost reductions required under this subparagraph in the first year of the agreement may be deferred, but the aggregate cost reductions should be no less than an average of $200,000,000 per year for each of the first three one-year periods beginning April 1, 1981.
+&emsp;(C) The cost reductions required under this subparagraph in the first year of the agreement may be deferred, but the aggregate costreductions should be no less than an average of $200,000,000 per year for each of the first three one-year periods beginning April 1, 1981.
 
 &emsp;(D) The amount of cost reductions provided under this paragraph shall be calculated by subtracting the cost of an agreement entered into under this paragraph from (i) the cost that would otherwise result from the application of the national agreement reached by railroad industry and its employees, or (ii) until such national agreement is reached, the cost which the United States Railway Association estimates would result from the application of such a national agreement.
 

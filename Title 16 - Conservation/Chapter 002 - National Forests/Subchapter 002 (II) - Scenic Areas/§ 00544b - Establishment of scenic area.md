@@ -4,7 +4,21 @@
 
 (1) There is hereby established the Columbia River Gorge National Scenic Area.
 
-(2) The boundaries of the scenic area shall be generally depicted on the map entitled “Boundary Map, Columbia River Gorge National Scenic Area,” numbered NSA–001 sheets 1 and 2, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service.
+(2)
+
+Boundaries.—
+
+&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the boundaries of the scenic area shall be generally depicted on the map entitled “Boundary Map, Columbia River Gorge National Scenic Area,” numbered NSA–001 sheets 1 and 2, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service.
+
+&emsp;(B)
+
+Exclusions.—The scenic area shall not include the approximately 29 acres of land owned by the Port of Camas-Washougal in the South 1/2 of Section 16, Township 1 North, Range 4 East, and the North 1/2 of Section 21, Township 1 North, Range 4 East, Willamete <sup>1</sup> Meridian, Clark County, Washington, that consists of—
+
+&emsp;&emsp;(i) the approximately 19 acres of Port land acquired from the Corps of Engineers under the Second Supplemental Appropriations Act, 1984 (Public Law 98–396); and
+
+&emsp;&emsp;(ii) the approximately 10 acres of adjacent Port land to the west of the land described in clause (i).
 
 #### (b) Special management areas
 
@@ -46,9 +60,15 @@ The Secretary, in consultation with the Commission, may make minor revisions in 
 
 &emsp;(D) revision of urban area boundaries would not result in the significant reduction of agricultural lands, forest lands, or open spaces.
 
-(Pub. L. 99–663, §4, Nov. 17, 1986, 100 Stat. 4276; Pub. L. 103–437, §6(d)(34), Nov. 2, 1994, 108 Stat. 4585.)
+(Pub. L. 99–663, §4, Nov. 17, 1986, 100 Stat. 4276; Pub. L. 103–437, §6(d)(34), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 105–277, div. A, §101(e) \[title III, §354(a)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303.)
+
+#### References in Text
+
+The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(B)(i), is Pub. L. 98–396, Aug. 22, 1984, 98 Stat. 1369. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–277 inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted “Except as provided in subparagraph (B), the boundaries” for “The boundaries”, and added subpar. (B).
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committees on Agriculture and”.
 
@@ -56,7 +76,17 @@ The Secretary, in consultation with the Commission, may make minor revisions in 
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Congressional Intent of 1998 Amendment
+
+Pub. L. 105–277, div. A, §101(e) \[title III, §354(b)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303, provided that: “The amendment made by subsection (a) \[amending this section\]—
+
+&emsp;“(1) is intended to achieve the intent of Congress set forth in Public Law 98–396 \[see Tables for classification\]; and
+
+&emsp;“(2) is not intended to set a precedent regarding adjustment or amendment of any boundaries of the Columbia River Gorge National Scenic Area or any other provisions of the Columbia River Gorge National Scenic Area Act \[see Short Title note set out under section 544 of this title\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 544, 544a, 544c to 544i, 544<i>l</i> to 544p of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Willamette”.</i>
 

@@ -2,7 +2,7 @@
 
 Whoever forcibly rescues, dispossesses, or attempts to rescue or dispossess any property, articles, or objects after the same shall have been taken, detained, or seized by any officer or other person under the authority of any revenue law of the United States, or by any person authorized to make searches and seizures, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

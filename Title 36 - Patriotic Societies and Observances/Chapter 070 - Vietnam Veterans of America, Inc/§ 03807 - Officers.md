@@ -1,6 +1,0 @@
-### §3807. Officers
-
-Except as provided in section 3808 of this title, the officers of the corporation, and the election of such officers, shall be as provided in the constitution and bylaws of the corporation and in conformity with the laws of the State in which it is incorporated.
-
-(Pub. L. 99–318, §7, May 23, 1986, 100 Stat. 475.)
-

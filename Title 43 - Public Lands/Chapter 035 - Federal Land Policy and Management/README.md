@@ -266,7 +266,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1635, 1783, 1785, 1903 of this title; title 10 section 7439; title 16 sections 79b, 410ii–3, 410aaa–77, 460mm–1, 460mm–2, 460uu–22, 460uu–44, 460uu–45, 460uu–46, 460xx–1, 460ccc–2, 460ddd, 1248, 1261, 3209, 3210, 4804, 4805; title 25 section 713f; title 30 section 28j.
+This chapter is referred to in sections 1635, 1783, 1785, 1903 of this title; title 10 section 7439; title 16 sections 79b, 410ii–3, 410aaa–77, 460mm–1, 460mm–2, 460uu–22, 460uu–44, 460uu–45, 460uu–46, 460xx–1, 460ccc–2, 460ddd, 1248, 3209, 3210, 4804, 4805; title 23 section 206; title 25 section 713f; title 30 section 28j.
 
 
 ---

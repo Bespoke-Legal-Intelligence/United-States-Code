@@ -4,7 +4,7 @@
 
 Definitions.—
 
-&emsp;“conviction” includes a finding, under State or Federal law, that a person has committed an act of juvenile delinquency involving a violent or controlled substances felony.
+&emsp;“conviction” includes a finding, under State or Federal law, that a person has committedan act of juvenile delinquency involving a violent or controlled substances felony.
 
 &emsp;“criminal street gang” means an ongoing group, club, organization, or association of 5 or more persons—
 
@@ -18,7 +18,7 @@ Definitions.—
 
 (b)
 
-Penalty.—The sentence of a person convicted of an offense described in subsection (c)shall be increased by up to 10 years if the offense is committed under the circumstances described in subsection (d).
+Penalty.—The sentence of a person convicted of an offense described in subsection (c) shall be increased by up to 10 years if the offense is committed under the circumstances described in subsection (d).
 
 (c)
 

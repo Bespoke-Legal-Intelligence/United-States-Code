@@ -54,7 +54,7 @@ For purposes of this section:
 
 &emsp;(2) The term “protection of human subjects” includes the protection of the health, safety, and privacy of individuals.
 
-(July 1, 1944, ch. 373, title XVIII, §1802, as added Nov. 9, 1978, Pub. L. 95–622, title III, §301, 92 Stat. 3439; amended July 10, 1979, Pub. L. 96–32, §4, 93 Stat. 82.)
+(July 1, 1944, ch. 373, title XVIII, §1802, as added Pub. L. 95–622, title III, §301, Nov. 9, 1978, 92 Stat. 3439; amended Pub. L. 96–32, §4, July 10, 1979, 93 Stat. 82.)
 
 #### Amendments
 

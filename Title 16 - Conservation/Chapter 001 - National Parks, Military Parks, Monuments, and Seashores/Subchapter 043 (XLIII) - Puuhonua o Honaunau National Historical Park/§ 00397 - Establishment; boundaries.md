@@ -8,7 +8,7 @@ Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 947
 
 Beginning at a one and one-half-inch pipe in concrete monument called “Kalani”, at the southeast corner of this parcel, the northeast corner of parcel 3, and on the common boundary of the lands of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station “Lae-O-Kanoni” being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east, and running by azimuths measured clockwise from true south:
 
-1\. Seventy-nine degrees thirty-three minutes fifteen seconds six hundred and eighty feet along the land of Kiilae, L. C. Aw. 8521–B to G. D. Hueu and passing over a rock called “Kuwaia”, marked K+K at six hundred seventy-three and two-tenths feet to high-water mark; thence along high-water mark, along seacoast for the next three courses, the direct azimuths and distances between points at seacoast being:
+1\. Seventy-nine degrees thirty-three minutes fifteen seconds six hundred and eighty feet along the land of Kiilae, L. C. Aw. 8521–B to G. D. Hueu and passing over a rock called “Kuwaia”, marked K+K at six hundred seventy-three andtwo-tenths feet to high-water mark; thence along high-water mark, along seacoast for the next three courses, the direct azimuths and distances between points at seacoast being:
 
 2\. One hundred and thirty-five degrees fifty-one minutes three thousand nine hundred seventy-six and one-tenth feet;
 
@@ -80,9 +80,9 @@ parcel 3
 
 Being portion of L. C. Aw. 8521–B to G. D. Hueu, being portion of the Ahupuaa of Kiilae.
 
-Beginning at a one and one-half-inch pipe in concrete monument called “Kalani” at the northeast corner of this parcel, the southeast corner of parcel 1, on the common boundary of the land of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station “Lae-O-Kanoni” being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east and running by azimuths measured clockwise from true south:
+Beginning at a one and one-half-inch pipe in concrete monument called “Kalani” at the northeast corner of this parcel, the southeastcorner of parcel 1, on the common boundary of the land of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station “Lae-O-Kanoni” being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east and running by azimuths measured clockwise from true south:
 
-1\. Three hundred thirty-eight degrees forty-nine minutes thirty seconds five hundred ninety-five and four-tenths feet along the remainder of L. C. Aw. 8521–B to G. D. Hueu to the eightthousand foot south coordinates line referred to Government Survey Triangulation Station “Lae-O-Kanoni”;
+1\. Three hundred thirty-eight degrees forty-nine minutes thirty seconds five hundred ninety-five and four-tenths feet along the remainder of L. C. Aw. 8521–B to G. D. Hueu to the eight thousand foot south coordinates line referred to Government Survey Triangulation Station “Lae-O-Kanoni”;
 
 2\. Ninety degree no minutes one thousand ninety-nine and seven-tenths feet along same and along said eight thousand foot south coordinates line and across school grant 7 Apana 6 to high-water mark;
 
@@ -92,7 +92,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called “Kalani�
 
 Area, ten and twenty-five one-hundredths acres.
 
-(July 26, 1955, ch. 385, §1, 69 Stat. 376; Nov. 10, 1978, Pub. L. 95–625, title III, §305, 92 Stat. 3477.)
+(July 26, 1955, ch. 385, §1, 69 Stat. 376; Pub. L. 95–625, title III, §305, Nov. 10, 1978, 92 Stat. 3477.)
 
 #### Amendments
 

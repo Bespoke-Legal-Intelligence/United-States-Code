@@ -24,7 +24,7 @@ A grant may be made or contract entered into under section 300 or 300a of this t
 
 (2) In the case of any grant or contract under section 300 of this title, such assurances shall provide for the review and approval of the suitability of such materials, prior to their distribution, by an advisory committee established by the grantee or contractor in accordance with the Secretary's regulations. Such a committee shall include individuals broadly representative of the population or community to which the materials are to be made available.
 
-(July 1, 1944, ch. 373, title X, §1006, as added Dec. 24, 1970, Pub. L. 91–572, §6(c), 84 Stat. 1507; amended July 29, 1975, Pub. L. 94–63, title II, §204(c), (d), 89 Stat. 308; Nov. 8, 1978, Pub. L. 95–613, §1(a)(2), 92 Stat. 3093.)
+(July 1, 1944, ch. 373, title X, §1006, as added Pub. L. 91–572, §6(c), Dec. 24, 1970, 84 Stat. 1507; amended Pub. L. 94–63, title II, §204(c), (d), July 29, 1975, 89 Stat. 308; Pub. L. 95–613, §1(a)(2), Nov. 8, 1978, 92 Stat. 3093.)
 
 #### Amendments
 

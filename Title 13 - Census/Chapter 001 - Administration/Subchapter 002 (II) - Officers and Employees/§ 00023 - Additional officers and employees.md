@@ -4,9 +4,9 @@
 
 (b) In addition to employees of the Department of Commerce, employees of other departments and independent offices of the Government may, with the consent of the head of the respective department or office, be employed and compensated for field work in connection with the work provided for by law without regard to section 301 of the Dual Compensation Act.
 
-(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees of private organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
+(c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees ofprivate organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by section 9 of this title.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Sept. 13, 1960, Pub. L. 86–769, §2, 74 Stat. 911; Aug. 19, 1964, Pub. L. 88–448, title IV, §401(p), 78 Stat. 492; Oct. 17, 1976, Pub. L. 94–521, §12(b), 90 Stat. 2465.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Pub. L. 86–769, §2, Sept. 13, 1960, 74 Stat. 911; Pub. L. 88–448, title IV, §401(p), Aug. 19, 1964, 78 Stat. 492; Pub. L. 94–521, §12(b), Oct. 17, 1976, 90 Stat. 2465.)
 
 #### Historical and Revision Notes
 
@@ -56,9 +56,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Temporary Positions Relating to 1990 Decennial Census
 
-Pub. L. 105–119, title II, §204, Nov. 26, 1997, 111 Stat. 2479, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses paid before October 1, 1992, as authorized by section 8501 of title 5, United States Code, for services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population.”
+Pub. L. 105–277, div. A, §101(b) \[title II, §204\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–86, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses paid before October 1, 1992, as authorized by section 8501 of title 5, United States Code, for services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–119, title II, §204, Nov. 26, 1997, 111 Stat. 2479.
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title II, §204\], Sept. 30, 1996, 110 Stat. 3009, 3009–39.
 

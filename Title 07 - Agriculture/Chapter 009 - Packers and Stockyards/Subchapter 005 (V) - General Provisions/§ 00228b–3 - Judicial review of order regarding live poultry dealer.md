@@ -2,7 +2,7 @@
 
 #### (a) Finality of order unless appeal to court of appeals; time limit; bond
 
-An order made under section 228b–2 of this title shall be final and conclusive unless within 30 days after service the live poultry dealer appeals to the court of appeals for the circuit inwhich he has his principal place of business, by filing with the clerk of such court a written petition praying that the Secretary's order be set aside or modified in the manner stated in the petition, together with a bond in such sum as the court may determine, conditioned that such live poultry dealer will pay the costs of the proceedings if the court so directs.
+An order made under section 228b–2 of this title shall be final and conclusive unless within 30 days after service the live poultry dealer appeals to the court of appeals for the circuit in which he has his principal place of business, by filing with the clerk of such court a written petition praying that the Secretary's order be set aside or modified in the manner stated in the petition, together with a bond in such sum as the court may determine, conditioned that such live poultry dealer will pay the costs of the proceedings if the court so directs.
 
 #### (b) Notification of appeal to Secretary; filing of record with court
 
@@ -32,7 +32,7 @@ If the court of appeals affirms or modifies the order of the Secretary, its decr
 
 The court of appeals shall have jurisdiction which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28, if such writ is duly applied for within 60 days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction, unless so ordered by the Supreme Court.
 
-(Aug. 15, 1921, ch. 64, title IV, §412, as added Nov. 23, 1987, Pub. L. 100–173, §9(2), 101 Stat. 921.)
+(Aug. 15, 1921, ch. 64, title IV, §412, as added Pub. L. 100–173, §9(2), Nov. 23, 1987, 101 Stat. 921.)
 
 #### Effective Date
 

@@ -14,19 +14,25 @@
 
 &emsp;(2) For each health benefits plan, a percentage, not to exceed 3 percent of the contributions toward the plan, determined by the Office to be reasonably adequate to provide a contingency reserve.
 
-> The Office, from time to time and in amounts it considers appropriate, may transfer unused funds for administrative expenses to the contingency reserves of the plans then under contract with the Office. When funds are so transferred, each contingency reserve shall be credited in proportion to the total amount of the subscription charges paid and accrued to the plan for the contract term immediately before the contract term in which the transfer is made. The incomederived from dividends, rate adjustments, or other refunds made by a plan shall be credited to its contingency reserve. The contingency reserves may be used to defray increases in future rates, or may be applied to reduce the contributions of enrollees and the Government to, or to increase the benefits provided by, the plan from which the reserves are derived, as the Office from time to time shall determine.
+> The Office, from time to time and in amounts it considers appropriate, may transfer unused funds for administrative expenses to the contingency reserves of the plans then under contract with the Office. When funds are so transferred, each contingency reserve shall be credited in proportion to the total amount of the subscription charges paid and accrued to the plan for the contract term immediately before the contract term in which the transfer is made. The income derived from dividends, rate adjustments, or other refunds made by a plan shall be credited to its contingency reserve. The contingency reserves may be used to defray increases in future rates, or may be applied to reduce the contributions of enrollees and the Government to, or to increase the benefits provided by, the plan from which the reserves are derived, as the Office from time to time shall determine.
 
 (c) The Secretary of the Treasury may invest and reinvest any of the money in the Fund in interest-bearing obligations of the United States, and may sell these obligations for the purposes of the Fund. The interest on and the proceeds from the sale of these obligations become a part of the Fund.
 
-(d) When the assets, liabilities, and membership of employee organizations sponsoring or underwriting plans approved under section 8903(3) or 8903a of this title are merged, the assets (including contingency reserves) and liabilities of the plans sponsored or underwritten by the merged organizations shall be transferred at the beginning of the contract term next following the date of the merger to the plan sponsored or underwritten by the successor organization. Each employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title affected by a merger shall be transferred to the plan sponsored or underwritten by the successor organization unless he enrolls in another plan under this chapter. If the successor organization is an organization described in section 8901(8)(B) of this title, any employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title so transferred may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless that individual is a full member of such organization (as determined under section 8903a(d) of this title).
+(d) When the assets, liabilities, and membership of employee organizations sponsoring or underwriting plans approved under section 8903(3) or 8903a of this title are merged, the assets (including contingency reserves) and liabilities of the plans sponsored or underwritten by the merged organizations shall be transferred at the beginning of the contract term next following the date of the merger to the plan sponsored or underwritten by the successor organization. Each employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title affected by a merger shall be transferred to the plan sponsored or underwritten by the successor organization unless he enrolls in another plan under this chapter. If the successor organization is an organization described in section 8901(8)(B) of this title, any employee, annuitant, former spouse, or person having continued coverage under section 8905a ofthis title so transferred may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless that individual is a full member of such organization (as determined under section 8903a(d) of this title).
 
-(e) Except as provided by subsection (d) of this section, when a plan described by section 8903(3) or (4) or 8903a of this title is discontinued under this chapter, the contingency reserve of that plan shall be credited to the contingency reserves of the plans continuing under this chapter for the contract term following that in which termination occurs, each reserve to be credited in proportion to the amount of the subscription charges paid and accrued to the plan for the year of termination.
+(e)(1) Except as provided by subsection (d) of this section, when a plan described by section 8903(3) or (4) or 8903a of this title is discontinued under this chapter, the contingency reserve of that plan shall be credited to the contingency reserves of the plans continuing under this chapter for the contract term following that in which termination occurs, each reserve to be credited in proportion to the amount of the subscription charges paid and accrued to the plan for the year of termination.
+
+(2) Any crediting required under paragraph (1) pursuant to the discontinuation of any plan under this chapter shall be completed by the end of the second contract year beginning after such plan is so discontinued.
+
+(3) The Office shall prescribe regulations in accordance with which this subsection shall be applied in the case of any plan which is discontinued before being credited with the full amount to which it would otherwise be entitled based on the discontinuation of any other plan.
 
 (f)(1) No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
 
 (2) Paragraph (1) shall not be construed to exempt any carrier or underwriting or plan administration subcontractor of an approved health benefits plan from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such carrier or underwriting or plan administration subcontractor from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(6), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, §2(e), (f), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §101, Feb. 27, 1986, 100 Stat. 14; Pub. L. 100–654, title II, §202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(b), (c), Nov. 5, 1990, 104 Stat. 1388–330.)
+(g) The fund described in subsection (a) is available to pay costs that the Office incurs for activities associated with implementation of the demonstration project under section 1108 of title 10.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(6), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, §2(e), (f), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §101, Feb. 27, 1986, 100 Stat. 14; Pub. L. 100–654, title II, §202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(b), (c), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 105–261, div. A, title VII, §721(b)(4), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 105–266, §6(b)(1), Oct. 19, 1998, 112 Stat. 2369.)
 
 Historical and Revision Notes
 
@@ -59,6 +65,10 @@ In subsection (e), the word “is” is substituted for “is or has been” as 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of the report.
 
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–266 designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
 1990—Subsec. (a). Pub. L. 101–508, §7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
 
@@ -93,6 +103,14 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Disposal of Amounts Remaining as of October 19, 1998, in Contingency Reserve of Discontinued Plan
+
+Pub. L. 105–266, §6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that: “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance with section 8909(e) of title 5, United States Code, as amended by this subsection, by—
+
+&emsp;“(A) the deadline set forth in section 8909(e) of such title (as so amended); or
+
+&emsp;“(B) if later, the end of the 6-month period beginning on such date of enactment.”
 
 #### Amounts To Be Refunded From Carriers’ Special Reserves
 
@@ -156,5 +174,5 @@ Definitions.—For the purpose of this section—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6386, 8905, 8906 of this title; title 22 sections 4069c, 4069c–1; title 25 section 450i; title 50 section 403p.
+This section is referred to in sections 6386, 8903b, 8905, 8906 of this title; title 22 sections 4069c, 4069c–1; title 25 section 450i; title 50 section 403p.
 

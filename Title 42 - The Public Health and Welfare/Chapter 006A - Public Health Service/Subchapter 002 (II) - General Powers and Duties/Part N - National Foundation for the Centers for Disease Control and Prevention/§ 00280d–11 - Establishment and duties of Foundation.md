@@ -46,7 +46,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (2) Executive director
 
-&emsp;The Foundation shall have an executive director (in this part referred to as the “Director”), who shall be appointed by the Board, who shall serve at the pleasure of the Board, and for whom the Board shall establish the rate of compensation. Subject to compliance with the policies and bylaws established by the Board pursuant to paragraph (1), the Director shall be responsible for the daily operations of the Foundation in carrying out subsection (b) of this section.
+&emsp;The Foundation shall have an executive director (in this part referred to as the “Director”), who shall be appointed by the Board, who shall serve at the pleasure of the Board, and for whom the Board shall establish the rate of compensation. Subject to compliance with the policies and bylaws established bythe Board pursuant to paragraph (1), the Director shall be responsible for the daily operations of the Foundation in carrying out subsection (b) of this section.
 
 #### (3) Nonprofit status
 
@@ -60,7 +60,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (1) Certain bylaws
 
-&emsp;(A) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensurethat the bylaws of the Foundation include bylaws for the following:
+&emsp;(A) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensure that the bylaws of the Foundation include bylaws for the following:
 
 &emsp;&emsp;(i) Policies for the selection of the officers, employees, agents, and contractors of the Foundation.
 
@@ -268,7 +268,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (9) Grant for establishment of Committee
 
-&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) of this section for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
+&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) of this section for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than 180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
 
 &emsp;(B) The grant referred to in subparagraph (A) may be made to an entity only if the entity agrees that—
 
@@ -278,7 +278,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(C) The Secretary may make a grant referred to in subparagraph (A) only if the applicant for the grant makes an agreement that the grant will not be expended for any purpose other than carrying out subparagraph (B). Such a grant may be made only if an application for the grant is submitted to the Secretary containing such agreement, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Secretary determines to be necessary to carry out this paragraph.
 
-(July 1, 1944, ch. 373, title III, §399F, as added Oct. 27, 1992, Pub. L. 102–531, title II, §201, 106 Stat. 3474.)
+(July 1, 1944, ch. 373, title III, §399F, as added Pub. L. 102–531, title II, §201, Oct. 27, 1992, 106 Stat. 3474.)
 
 #### References in Text
 

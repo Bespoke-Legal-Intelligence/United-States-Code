@@ -14,7 +14,7 @@ For the purposes of this Act—
 
 (f) “Total supply” of any nonbasic agricultural commodity for any marketing year shall be the carry-over at the beginning of such marketing year, plus the estimated production of the commodity in the United States during the calendar year in which such marketing year begins and the estimated imports of the commodity into the United States during such marketing year.
 
-(g) “Carry-over” of any nonbasic agricultural commodity for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any part of the crop or production of such commodity which was produced in the United States during the calendar year then current. The carryover of any such commodity may also include the quantity of such commodity in processed form on hand in the United States at the beginning of such marketing year, if the Secretary determines that the inclusion of such processed quantity of the commodity is necessary to effectuate the purposes of this Act.
+(g) “Carry-over” of any nonbasic agricultural commodity for any marketing year shall be the quantity of the commodity on hand in the United States at the beginning of such marketing year, not including any part of the crop orproduction of such commodity which was produced in the United States during the calendar year then current. The carryover of any such commodity may also include the quantity of such commodity in processed form on hand in the United States at the beginning of such marketing year, if the Secretary determines that the inclusion of such processed quantity of the commodity is necessary to effectuate the purposes of this Act.
 
 (h) “Normal supply” of any nonbasic agricultural commodity for any marketing year shall be (1) the estimated domestic consumption of the commodity for the marketing year for which such normal supply is being determined, plus (2) the estimated exports of the commodity for such marketing year, plus (3) an allowance for carry-over. The allowance for carry-over shall be the average carry-over of the commodity for the five marketing years immediately preceding the marketing year in which such normal supply is determined, adjusted for surpluses or deficiencies caused by abnormal conditions, changes in marketing conditions, or the operation of any agricultural program. In determining normal supply, the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
 
@@ -26,11 +26,11 @@ For the purposes of this Act—
 
 (2) References made to the terms “price support”, “price support operations”, and “price support program” in such sections and in section 1421(a) of this title shall be considered as applying as well to loan and purchase operations for wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice under this Act.
 
-(3) Notwithstanding any other provision of law, this subsection shall be effective only for the 1991 through 1995 crops of wheat, feed grains,upland cotton, extra long staple cotton, honey, oilseeds and rice.
+(3) Notwithstanding any other provision of law, this subsection shall be effective only for the 1991 through 1995 crops of wheat, feed grains, upland cotton, extra long staple cotton, honey, oilseeds and rice.
 
 (<i>l</i>) “Producer” shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
-(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Nov. 3, 1965, Pub. L. 89–321, title IV, §402(b), 79 Stat. 1197; Oct. 11, 1968, Pub. L. 90–559, §1(4), 82 Stat. 996; Nov. 30, 1970, Pub. L. 91–524, title IV, §408, title VI, §§604, 607, 84 Stat. 1367, 1378; Aug. 10, 1973, Pub. L. 93–86, §1(22), 87 Stat. 235; Feb. 16, 1976, Pub. L. 94–214, title III, §§303, 304, 90 Stat. 187, 188; Sept. 29, 1977, Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, 91 Stat. 927, 939, 944; Dec. 22, 1981, Pub. L. 97–98, title XI, §1104, 95 Stat. 1264; Dec. 23, 1985, Pub. L. 99–198, title X, §1018, 99 Stat. 1459; Nov. 28, 1990, Pub. L. 101–624, title XI, §1131, 104 Stat. 3511.)
+(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ Subsec. (m). Pub. L. 94–214, §304, temporarily added subsec. (m). See Effecti
 
 1973—Subsec. (b). Pub. L. 93–86 substituted “1971 through 1977” for “1971, 1972, and 1973” in proviso requiring that for such designated crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
-1970—Subsec. (b). Pub. L. 91–524, §604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
+1970—Subsec. (b). Pub. L. 91–524, §604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which afarm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k) and (<i>l</i>). See Effective and Termination Dates of 1970 Amendment note below.
 
@@ -100,7 +100,7 @@ Sections 408 and 607 of Pub. L. 91–524, as amended by section 1(15), (22) of P
 
 #### Effective and Termination Dates of 1965 Amendment
 
-Section 402(b) of Pub. L. 89–321, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided thatthe amendment made by that section is effective only for 1966 through 1970 crops.
+Section 402(b) of Pub. L. 89–321, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by that section is effective only for 1966 through 1970 crops.
 
 #### Inapplicability of Section
 

@@ -10,9 +10,9 @@ Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a
 
 (2) When a petition is filed under paragraph (1) of this subsection, the clerk of the court immediately shall send a copy of the petition to the Board. The Board shall file with the court a record of the proceeding in which the order was issued.
 
-(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm,amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief by staying the order or taking other appropriate action when cause for its action exists. Findings of fact by the Board, if supported by substantial evidence, are conclusive.
+(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief by staying the order or taking other appropriate action when cause for its action exists. Findings of fact by the Board, if supported by substantial evidence, are conclusive.
 
-(4) In reviewing an order under this subsection, the court may consider an objection to an order of the Board only if the objection was made in the proceeding conducted by the Board or if there was a reasonable ground for not making the objection in the proceeding.
+(4) In reviewing an order under this subsection, the court may consider an objection toan order of the Board only if the objection was made in the proceeding conducted by the Board or if there was a reasonable ground for not making the objection in the proceeding.
 
 (5) A decision by a court under this subsection may be reviewed only by the Supreme Court under section 1254 of title 28.
 

@@ -46,7 +46,7 @@ The permitting authority of a State shall allow a source to offset by alternativ
 
 &emsp;(4) The source will comply with an alternative measure, imposed by the permitting authority, designed to offset any emission increases beyond permitted levels not directly offset by the source. In lieu of imposing any alternative offset measures, the permitting authority may impose an emissions fee to be paid to such authority of a State which shall be an amount no greater than 1.5 times the average cost of stationary source control measures adopted in that area during the previous 3 years. The permitting authority shall utilize the fees in a manner that maximizes the emissions reductions in that area.
 
-(July 14, 1955, ch. 360, title I, §173, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 748; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(57), (58), 91 Stat. 1403; Nov. 15, 1990, Pub. L. 101–549, title I, §102(c), 104 Stat. 2415.)
+(July 14, 1955, ch. 360, title I, §173, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 748; amended Pub. L. 95–190, §14(a)(57), (58), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §102(c), Nov. 15, 1990, 104 Stat. 2415.)
 
 #### References in Text
 

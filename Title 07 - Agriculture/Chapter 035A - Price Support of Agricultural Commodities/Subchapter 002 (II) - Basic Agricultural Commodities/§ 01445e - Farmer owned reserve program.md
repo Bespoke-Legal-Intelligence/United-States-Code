@@ -8,7 +8,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (1) Price support loans
 
-&emsp;In carrying out this program, the Secretary shall provide extended price support loans forwheat and feed grains. An extended loan shall only be made to a producer after the expiration of a 9-month price support loan (hereafter in this section referred to as the “original loan”) made in accordance with this subchapter.
+&emsp;In carrying out this program, the Secretary shall provide extended price support loans for wheat and feed grains. An extended loan shall only be made to a producer after the expiration of a 9-month price support loan (hereafter in this section referred to as the “original loan”) made in accordance with this subchapter.
 
 #### (2) Level of loans
 
@@ -92,7 +92,7 @@ The Secretary may establish maximum quantities of wheat and feed grains that may
 
 #### (3) Mandatory entry
 
-&emsp;The Secretary shall make extended loans available to producers of wheat or feed grains if the conditions specified in subparagraphs\(A) and (B) of paragraph (2) are met for wheat or feed grains, respectively.
+&emsp;The Secretary shall make extended loans available to producers of wheat or feed grains if the conditions specified in subparagraphs (A) and (B) of paragraph (2) are met for wheat or feed grains, respectively.
 
 #### (4) Content of announcement
 
@@ -134,7 +134,7 @@ In announcing the terms and conditions of the producer storage program under thi
 
 Notwithstanding any other provision of law, this section shall become effective December 1, 1990.
 
-(Oct. 31, 1949, ch. 792, title I, §110, as added Sept. 29, 1977, Pub. L. 95–113, title XI, §1101, 91 Stat. 951; amended Apr. 11, 1980, Pub. L. 96–234, §§1, 2, 94 Stat. 333; Dec. 3, 1980, Pub. L. 96–494, title II, §§203(a), 204, 205, 94 Stat. 2571, 2572; July 23, 1981, Pub. L. 97–24, §2, 95 Stat. 143; Dec. 22, 1981, Pub. L. 97–98, title X, §1001, 95 Stat. 1257; Dec. 23, 1985, Pub. L. 99–198, title X, §1012(a), 99 Stat. 1455; Dec. 22, 1987, Pub. L. 100–203, title I, §1108, 101 Stat. 1330–6; Aug. 11, 1988, Pub. L. 100–387, title III, §303(b), 102 Stat. 947; Nov. 28, 1990, Pub. L. 101–624, title XI, §1123, title XX, §2010, 104 Stat. 3503, 3932; Dec. 13, 1991, Pub. L. 102–237, title I, §113(7), 105 Stat. 1837.)
+(Oct. 31, 1949, ch. 792, title I, §110, as added Pub. L. 95–113, title XI, §1101, Sept. 29, 1977, 91 Stat. 951; amended Pub. L. 96–234, §§1, 2, Apr. 11, 1980, 94 Stat. 333; Pub. L. 96–494, title II, §§203(a), 204, 205, Dec. 3, 1980, 94 Stat. 2571, 2572; Pub. L. 97–24, §2, July 23, 1981, 95 Stat. 143; Pub. L. 97–98, title X, §1001, Dec. 22, 1981, 95 Stat. 1257; Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat.1455; Pub. L. 100–203, title I, §1108, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 100–387, title III, §303(b), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–624, title XI, §1123, title XX, §2010, Nov. 28, 1990, 104 Stat. 3503, 3932; Pub. L. 102–237, title I, §113(7), Dec. 13, 1991, 105 Stat. 1837.)
 
 #### Amendments
 
@@ -182,7 +182,7 @@ Subsec. (c). Pub. L. 97–98 substituted provision prescribing rate of interest 
 
 Subsec. (d). Pub. L. 97–98 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Subsec. (e). Pub. L. 97–98 redesignated former subsec. (d) as (e) and substituted provision authorizing Secretary to place an upper limit on the amount of wheat and feed grains placed in the reserve, with such upper limit not less than seven hundred million bushels for wheat and one billion bushels for feed grains, for provision authorizing the maximum amount of wheat stored as not less than three hundred million bushels nor more than seven hundred million bushels, with authority for Secretary to adjust this amount as necessary to meet commitments by the United States pursuant to international agreements. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 97–98 redesignated former subsec. (d) as (e) and substituted provision authorizing Secretary to place an upper limit on the amount of wheat and feed grains placed in the reserve, with such upper limit not less than seven hundred million bushels for wheat and one billion bushels for feed grains, for provision authorizing the maximum amount of wheat storedas not less than three hundred million bushels nor more than seven hundred million bushels, with authority for Secretary to adjust this amount as necessary to meet commitments by the United States pursuant to international agreements. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 97–98 redesignated former subsec. (e) as (f) and substituted in provision preceding par. (1) “the program authorized” for “the extended loan program authorized”, “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of the third sentence of subsection (b) of this section. The foregoing restriction” for “clause (6) of the second sentence of subsection (b) of this section: <i>Provided</i>, That such restriction” and in provision following par. (3) “clause (5) of the third sentence” for “clause (5) of the second sentence”. Former subsec. (f) redesignated (g).
 
@@ -196,7 +196,7 @@ Subsec. (i). Pub. L. 97–98 redesignated former subsec. (h) as (i) and substitu
 
 Subsec. (b)(3). Pub. L. 96–494, §203(a)(2), inserted provisions requiring Secretary to waive interest on loans made on the 1980 and 1981 crops of wheat and feed grains.
 
-Subsec. (b)(5). Pub. L. 96–494, §204, substituted “for the commodity has attained a specified level” for “of wheat has attained a specified level which is not less than 140 per centum nor more than 160 per centum ofthe then current level of price support for wheat or such appropriate level for feed grains”.
+Subsec. (b)(5). Pub. L. 96–494, §204, substituted “for the commodity has attained a specified level” for “of wheat has attained a specified level which is not less than 140 per centum nor more than 160 per centum of the then current level of price support for wheat or such appropriate level for feed grains”.
 
 Subsec. (b)(6). Pub. L. 96–494, §204, substituted “such appropriate level, as determined by the Secretary” for “175 per centum of the then current level of the price support for wheat or such appropriate level for feed grains as determined by the Secretary under this Act”.
 
@@ -244,7 +244,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Comparability of Storage Payments
 
-Section 1124 of Pub. L. 101–624, as amended by Pub. L. 102–237, title I, §114(a)(1), Dec. 13, 1991, 105 Stat. 1838, provided that: “In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking into account the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section.”
+Section 1124 of Pub. L. 101–624, as amended by Pub. L. 102–237, title I, §114(a)(1), Dec. 13, 1991, 105 Stat. 1838, provided that: “In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking intoaccount the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section.”
 
 #### Repayment of Loans Without Penalty
 

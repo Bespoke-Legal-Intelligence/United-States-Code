@@ -4,7 +4,7 @@
 
 (b) Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component of his armed force to complete the service required by subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Sept. 2, 1958, Pub. L. 85–861, §§1(12), 36B(3), 72 Stat. 1440, 1570; Nov. 2, 1966, Pub. L. 89–718, §5, 80 Stat. 1115; July 30, 1977, Pub. L. 95–79, title VIII, §803(a), 91 Stat. 333; Nov. 9, 1979, Pub. L. 96–107, title VIII, §805(b), 93 Stat. 813; Dec. 12, 1980, Pub. L. 96–513, title V, §511(18), 94 Stat. 2921; Sept. 24, 1983, Pub. L. 98–94, title X, §1022(b)(1), 97 Stat. 670.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670.)
 
 Historical and Revision Notes<br>1956
 
@@ -50,7 +50,7 @@ In subsection (a), the word “male” is inserted, since the source statute (Un
 
 In subsection (b), the words “who is not a Reserve” are inserted, since the eight year obligation for Reserves is covered by subsection (a). The words “active duty” are substituted for the words “active training and service”. The last eight words are substituted for the words “and shall serve therein for the remainder of the period which he is required to serve under this paragraph”. The words “physically and mentally” and 50 App.:454(d)(3) (last 15 words of 2d sentence) are omitted as surplusage.
 
-In \[former\] subsection (c), the words “who is released from active duty” are inserted for clarity. The words “shall become a member” are substituted for the words “it shall be the duty of such person to enlist, enroll, or accept appointment in, or accept assignment to”. The words “there is a vacancy” are substituted for the words “enlistment, enrollment, or appointment in, or assignment to”. 50 App.:454(d)(3) (last sentence) is omitted as surplusage.
+In \[former\] subsection (c), the words “who is released from active duty” are inserted for clarity. The words “shall become a member” are substituted for the words “it shall be the duty of such person to enlist, enroll, or accept appointment in, or accept assignment to”. The words “there is a vacancy” are substituted for the words “enlistment, enrollment, or appointment in, orassignment to”. 50 App.:454(d)(3) (last sentence) is omitted as surplusage.
 
 1958
 

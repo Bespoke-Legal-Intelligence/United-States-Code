@@ -18,7 +18,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;The term “Bell operating company”—
 
-&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond StateTelephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
+&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New JerseyBell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
 
 &emsp;&emsp;(B) includes any successor or assign of any such company that provides wireline telephone exchange service; but
 
@@ -94,7 +94,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (22) Interstate communication
 
-&emsp;The term “interstate communication” or “interstate transmission” means communication or transmission (A) from any State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, to any other State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, (B) from or to the United States to or from the Canal Zone, insofar as such communication or transmission takes place within the United States, or (C) between points within theUnited States but through a foreign country; but shall not, with respect to the provisions of subchapter II of this chapter (other than section 223 of this title), include wire or radio communication between points in the same State, Territory, or possession of the United States, or the District of Columbia, through any place outside thereof, if such communication is regulated by a State commission.
+&emsp;The term “interstate communication” or “interstate transmission” means communication or transmission (A) from any State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, to any other State, Territory, or possession of the United States (other than the Canal Zone), or the District of Columbia, (B) from or to the United States to or from the Canal Zone, insofar as such communication or transmission takes place within the United States, or (C) between points within the United States but through a foreign country; but shall not, with respect to the provisions of subchapter II of this chapter (other than section 223 of this title), include wire or radio communication between points in the same State, Territory, or possession of the United States, or the District of Columbia, through any place outside thereof, if such communication is regulated by a State commission.
 
 #### (23) Land station
 
@@ -148,13 +148,13 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (34) Radio officer
 
-&emsp;(A) The term “radio officer” on a ship of the United States means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's license as prescribed and issued by the Commission. When such person is employed to operate a radiotelegraph station aboard a ship of the United States, he is also required to be licensed as a “radio officer” in accordance with chapter 71 of title 46.
+&emsp;(A) The term “radio officer” on a ship of the United States means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's license as prescribed and issued by the Commission. When such person is employed to operate a radiotelegraph station aboard a ship of the United States, he isalso required to be licensed as a “radio officer” in accordance with chapter 71 of title 46.
 
 &emsp;(B) “Radio officer” on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding at least a first or second class radiotelegraph operator's certificate complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force.
 
 #### (35) Radio station
 
-&emsp;The term “radio station” or “station” means a station equipped to engage in radiocommunication or radio transmission of energy.
+&emsp;The term “radio station” or “station” means a station equipped to engage in radio communication or radio transmission of energy.
 
 #### (36) Radiotelegraph auto alarm
 
@@ -366,5 +366,5 @@ Service or other valuable consideration as used in provisions relating to disclo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 224, 225, 271, 273, 274, 332, 541, 556, 557, 741 of this title; title 7 section 924; title 15 section 78c; title 18 section 2510; title 22 section 1465ff.
+This section is referred to in sections 224, 225, 271, 273, 274, 332, 541, 556, 557, 741 of this title; title 7 section 924; title 15 section 78c; title 17 section 1202; title 18 sections 1029, 2510; title 22 section 1465ff.
 

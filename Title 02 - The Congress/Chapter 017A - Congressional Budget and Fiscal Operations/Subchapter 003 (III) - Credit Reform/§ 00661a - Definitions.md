@@ -58,7 +58,7 @@ A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, w
 
 #### Amendments
 
-1997—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
+1997—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment formore than 90 days, including the sale of a government asset on credit terms” after “another lender”.
 
 Par. (5)(A). Pub. L. 105–33, §10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
 

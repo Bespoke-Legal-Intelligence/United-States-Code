@@ -4,5 +4,5 @@
 
 (b) Amounts appropriated under subsection (a) of this section and made available for grants or contracts under any of sections 286b–3 through 286b–7 of this title shall remain available until the end of the fiscal year following the fiscal year for which the amounts were appropriated.
 
-(July 1, 1944, ch. 373, title IV, §468, as added June 10, 1993, Pub. L. 103–43, title XIV, §1402(a), 107 Stat. 170.)
+(July 1, 1944, ch. 373, title IV, §468, as added Pub. L. 103–43, title XIV, §1402(a), June 10, 1993, 107 Stat. 170.)
 

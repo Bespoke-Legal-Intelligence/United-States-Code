@@ -2,7 +2,7 @@
 
 The Institute is authorized to exercise its functions for the Government of the United States and for international organizations of which the United States is a member; for governments of friendly countries; for any State or municipal government within the United States; or for any scientific society, educational institution, firm, corporation, or individual within the United States or friendly countries engaged in manufacturing or other pursuits requiring the use of standards or standard measuring instruments: <i>Provided</i>, That the exercise of these functions for international organizations, governments of friendly countries and scientific societies, educational institutions, firms, corporations, or individuals therein shall be in coordination with other agencies of the United States Government, in particular the Department of State in respect to foreign entities. All requests for the services of the Institute shall be made in accordance with the rules and regulations herein established.
 
-(Mar. 3, 1901, ch. 872, §3, 31 Stat. 1449; June 22, 1972, Pub. L. 92–317, §3(c), 86 Stat. 235; Aug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433.)
+(Mar. 3, 1901, ch. 872, §3, 31 Stat. 1449; Pub. L. 92–317, §3(c), June 22, 1972, 86 Stat. 235; Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
 
 #### References in Text
 

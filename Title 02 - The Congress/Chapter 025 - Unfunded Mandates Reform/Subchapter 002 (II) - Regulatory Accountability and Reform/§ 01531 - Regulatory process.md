@@ -12,7 +12,3 @@ Section 209 of title II of Pub. L. 104–4 provided that: “This title \[enacti
 
 For provisions stating regulatory philosophy and principles and setting forth regulatory organization, procedures, and guidelines for centralized review of new and existing regulations to make the regulatory process more efficient, see Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, set out as a note under section 601 of Title 5, Government Organization and Employees.
 
-#### Enhancing Intergovernmental Partnership
-
-For provisions relating to reduction of unfunded mandates and increasing flexibility for State and local waivers, see Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, set out as a note under section 601 of Title 5, Government Organization and Employees.
-

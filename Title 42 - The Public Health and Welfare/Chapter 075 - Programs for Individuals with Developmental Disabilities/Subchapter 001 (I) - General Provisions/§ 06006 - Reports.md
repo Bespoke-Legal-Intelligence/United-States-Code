@@ -26,7 +26,7 @@ By January 1 of each year, each State Developmental Disabilities Council shall p
 
 #### (b) Protection and advocacy system reports
 
-By January 1 of each year, each protection and advocacy system established in a State pursuant to subchapter III of this chapter shall prepare and transmit to the Secretary a report which describes the activities, accomplishments, and expenditures of the system during the preceding fiscal year, including a description of the system's priorities for such fiscal year, the process used to obtain public input, the nature of such input, and how such input was used.
+By January 1 of each year, each protection and advocacy system established in a State pursuant to subchapter III of this chapter shall prepare and transmit to the Secretary a reportwhich describes the activities, accomplishments, and expenditures of the system during the preceding fiscal year, including a description of the system's priorities for such fiscal year, the process used to obtain public input, the nature of such input, and how such input was used.
 
 #### (c) Secretary reports
 
@@ -86,7 +86,7 @@ Subsec. (c)(1)(C). Pub. L. 103–230, §108(b)(3)(E)(ii), added subpar. (C) and 
 
 Subsec. (c)(1)(D). Pub. L. 103–230, §108(b)(3)(E)(iii), substituted “individuals” for “persons”.
 
-Subsec. (c)(2). Pub. L. 103–230, §108(b)(3)(B), (F), inserted heading and in text substituted “include and analyze” for “use and include”, struck out “to the Secretary” after “information submitted”, and realigned margins.
+Subsec. (c)(2). Pub. L. 103–230, §108(b)(3)(B), (F), inserted heading and in text substituted “include andanalyze” for “use and include”, struck out “to the Secretary” after “information submitted”, and realigned margins.
 
 1990—Subsec. (a)(4). Pub. L. 101–496, §6(1)(A), substituted “any intermediate care facility for the mentally retarded in such State, and with respect to each annual survey report prepared pursuant to section 1396a(a)(31)(C) of this title and each correction or reduction plan prepared pursuant to section 1396r–3 of this title” for “each annual survey report and plan of corrections for cited deficiencies prepared pursuant to section 1396a(a)(31)(B) of this title with respect to any intermediate care facility for the mentally retarded in such State”.
 

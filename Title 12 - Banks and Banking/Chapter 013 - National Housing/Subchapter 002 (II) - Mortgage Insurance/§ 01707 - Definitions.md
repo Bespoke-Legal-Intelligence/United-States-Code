@@ -50,7 +50,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Improvement of Financing for Multifamily Housing
 
-Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, as amended by Pub. L. 103–233, title III, §307, Apr. 11, 1994, 108 Stat. 373; Pub. L. 104–120, §8, Mar. 28, 1996, 110 Stat. 836; Pub. L. 104–134, title I, §101(e) \[title II, §205\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–284; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–18, title II, §10003, June 12, 1997, 111 Stat. 201, provided that:
+Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, as amended by Pub. L. 103–233, title III, §307, Apr. 11, 1994, 108 Stat. 373; Pub. L. 104–120, §8, Mar. 28, 1996, 110 Stat. 836; Pub. L. 104–134, title I, §101(e) \[title II, §205\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–284; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–18, title II, §10003, June 12, 1997, 111 Stat. 201; Pub. L. 105–276, title II, §211, Oct. 21, 1998, 112 Stat. 2486, provided that:
 
 #### “SEC. 541. SHORT TITLE.
 
@@ -60,7 +60,7 @@ Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, as amende
 
 “(a)
 
-In General.—The Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall carry out programs through the Federal Housing Administration to demonstrate the effectiveness of providing new forms of Federal credit enhancement for multifamily loans. In carrying out demonstration programs, the Secretary shall include an evaluation of the effectiveness of entering into partnerships or other contractual arrangements including reinsurance and risk-sharing agreements with State or local housing finance agencies, the Federal Housing Finance Board, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, qualified financial institutions, and other State or local mortgage insurance companies or bank lending consortia.
+In General.—The Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) shall carry out programs through the FederalHousing Administration to demonstrate the effectiveness of providing new forms of Federal credit enhancement for multifamily loans. In carrying out demonstration programs, the Secretary shall include an evaluation of the effectiveness of entering into partnerships or other contractual arrangements including reinsurance and risk-sharing agreements with State or local housing finance agencies, the Federal Housing Finance Board, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, qualified financial institutions, and other State or local mortgage insurance companies or bank lending consortia.
 
 “(b)
 
@@ -132,11 +132,11 @@ Eligibility standards.—The Secretary shall establish and enforce standards for
 
 &emsp;“(5)
 
-Funding.—Using any authority provided in appropriation Acts to insure loans under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 7,500 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress.
+Funding.—Using any authority provided in appropriation Acts to insure loans under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 7,500 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress, and not more than an additional 25,000 units during fiscal year 1999.
 
 &emsp;“(6)
 
-Fees.—The Secretary shall establish and collect premiums and fees under this subsection as theSecretary determines appropriate to (A) achieve the purpose of this subsection, and (B) compensate the Federal Housing Administration for the risks assumed and related administrative costs.
+Fees.—The Secretary shall establish and collect premiums and fees under this subsection as the Secretary determines appropriate to (A) achieve the purpose of this subsection, and (B) compensate the Federal Housing Administration for the risks assumed and related administrative costs.
 
 &emsp;“(7)
 
@@ -208,7 +208,7 @@ Mortgage insurance premiums.—The Secretary shall establish a schedule of insur
 
 &emsp;“(4)
 
-Limitation on insurance authority.—Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996 and not more than an additional 7,500 units during fiscal year 1997. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to the Congress.
+Limitation on insurance authority.—Using any authority provided by appropriations Acts to insure mortgages under the National Housing Act \[12 U.S.C. 1701 et seq.\], the Secretary may enter into commitments under this subsection with respect to mortgages on not more than 12,000 units during fiscal year 1996, not more than an additional 7,500 units during fiscal year 1997 and not more than an additional 25,000 units during fiscal year 1999. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to the Congress.
 
 &emsp;“(5)
 
@@ -236,7 +236,7 @@ Environmental reviews.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages under subsection (c)(2), and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
+In general.—(I) In order to assure that the policies of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most effectively implemented in connection with the insurance of mortgages undersubsection (c)(2), and to assure to the public undiminished protection of the environment, the Secretary may, under such regulations, in lieu of the environmental protection procedures otherwise applicable, provide for agreements to endorse for insurance mortgages under subsection (c)(2) upon the request of qualified housing finance agencies under this subsection, if the State or unit of general local government, as designated by the Secretary in accordance with regulations, assumes all of the responsibilities for environmental review, decisionmaking, and action pursuant to such Act, and such other provisions of law as the regulations of the Secretary may specify, that would otherwise apply to the Secretary with respect to the insurance of mortgages on particular properties.
 
 &emsp;&emsp;&emsp;“(II) The Secretary shall issue regulations to carry out this subparagraph only after consultation with the Council on Environmental Quality. Such regulations shall, among other matters, provide—
 
@@ -310,11 +310,11 @@ Federal national mortgage association.—The Federal National Mortgage Associati
 
 &emsp;“(2)
 
-Federal home loan mortgage corporation.—The Federal Home Loan Mortgage Corporation, in consultation with representatives of its seller-servicers and State housing finance agencies, shall carry out an independent assessment of alternative methods for achieving the purposes of this section and shall submit a report containing any findings and recommendations, including any recommendations for legislative or administrative action, simultaneously to the Secretary and the Congress not later than 12 months after the date of the enactment of this Act \[Oct. 28, 1992\].
+Federal home loan mortgage corporation.—The Federal Home Loan Mortgage Corporation, in consultation with representatives of its seller-servicers and State housing finance agencies, shall carry out an independent assessment of alternative methods for achieving the purposes of this section and shall submit a report containing any findings and recommendations, including any recommendationsfor legislative or administrative action, simultaneously to the Secretary and the Congress not later than 12 months after the date of the enactment of this Act \[Oct. 28, 1992\].
 
 &emsp;“(3)
 
-Secretary.—The Secretary shall submit to the Congress, and publish, reports under this paragraphassessing the activities carried out under each of the pilot programs. The Secretary shall submit and publish a preliminary report under this paragraph not later than 9 months after the date of the implementation of each of the pilot programs, and a final report not later than 24 months after the date of implementation on which the pilot program is initiated, which shall include any recommendations by the Secretary for legislative changes to achieve the purposes of this section.
+Secretary.—The Secretary shall submit to the Congress, and publish, reports under this paragraph assessing the activities carried out under each of the pilot programs. The Secretary shall submit and publish a preliminary report under this paragraph not later than 9 months after the date of the implementation of each of the pilot programs, and a final report not later than 24 months after the date of implementation on which the pilot program is initiated, which shall include any recommendations by the Secretary for legislative changes to achieve the purposes of this section.
 
 &emsp;“(4)
 
@@ -442,7 +442,7 @@ Rules and regulations.—The Task Force may adopt such rules and regulations as 
 
 &emsp;“(2)
 
-Access to data.—The members of the Task Force representing the Comptroller of the Currency, the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Secretary of Housing and Urban Development, the Federal Housing Finance Board, the Federal National Mortgage Association, and the Federal Home Loan MortgageCorporation shall make available to the Task Force a representative sample of multifamily housing mortgage loans in order for the Task Force to make its findings and recommendations, except that—
+Access to data.—The members of the Task Force representing the Comptroller of the Currency,the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Secretary of Housing and Urban Development, the Federal Housing Finance Board, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation shall make available to the Task Force a representative sample of multifamily housing mortgage loans in order for the Task Force to make its findings and recommendations, except that—
 
 &emsp;&emsp;“(A) all information obtained shall be used only for the purposes authorized in this section;
 
@@ -524,7 +524,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 &emsp;&emsp;“(D) the Federal Housing Finance Board.”
 
-\[Amendment by Pub. L. 104–120 to subtitle C of title V of Pub. L. 102–550, set out above, to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective Date of 1996 Amendment note under section 1437d of Title 42, The Public Health and Welfare.\]
+\[Amendment by Pub. L. 104–120 to subtitle C of title V of Pub. L. 102–550, set out above, to be construed to have become effective Oct. 1, 1995, see section 13(a) ofPub. L. 104–120, set out as an Effective Date of 1996 Amendment note under section 1437d of Title 42, The Public Health and Welfare.\]
 
 #### Section Referred to in Other Sections
 

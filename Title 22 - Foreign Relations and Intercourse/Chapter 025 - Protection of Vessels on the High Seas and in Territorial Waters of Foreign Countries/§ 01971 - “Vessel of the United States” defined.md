@@ -26,7 +26,7 @@ Section 238(b) of Pub. L. 96–561 provided that the amendment made by that sect
 
 #### Effective Date of 1978 Amendment
 
-Section 14(b) of Pub. L. 95–541 provided that the amendment made by section 14(a) of Pub. L. 95–541, amending this section, was to take effect Jan. 1, 1978, prior to the general amendment by Pub. L. 104–227, title I, §107, Oct. 2, 1996, 110 Stat. 3042.
+Section 14(b) of Pub. L. 95–541 provided that the amendment made by section 14(a) of Pub. L. 95–541,amending this section, was to take effect Jan. 1, 1978, prior to the general amendment by Pub. L. 104–227, title I, §107, Oct. 2, 1996, 110 Stat. 3042.
 
 #### Short Title
 

@@ -40,7 +40,7 @@
 
 #### (c) Licit opium producing countries
 
-The President may make a certification under subsection (b)(1)(A) of this section with respect to a major illicit drug producing country, ormajor drug-transit country, that is a producer of licit opium only if the President determines that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit markets and to prevent illicit cultivation and production.
+The President may make a certification under subsection (b)(1)(A) of this section with respect to a major illicit drug producing country, or major drug-transit country, that is a producer of licit opium only if the President determines that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit markets and to prevent illicit cultivation and production.
 
 #### (d) Congressional review
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 103–447, §101(g)(1)(D), substituted “that such country
 
 Subsec. (d). Pub. L. 103–447, §101(g)(1)(E), substituted “30 calendar days” for “45 calendar days”.
 
-Subsec. (g). Pub. L. 103–447, §101(g)(1)(F), substituted “Senate procedures” for “Congressional review procedures” in heading, struck out designation and headingof par. (1), and struck out heading and text of par. (2). Text read as follows: “For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.”
+Subsec. (g). Pub. L. 103–447, §101(g)(1)(F), substituted “Senate procedures” for “Congressional review procedures” in heading, struck out designation and heading of par. (1), and struck out heading and text of par. (2). Text read as follows: “For the purpose of expediting the consideration and enactment of joint resolutions under this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.”
 
 Subsec. (h). Pub. L. 103–447, §101(g)(1)(G), struck out “for fiscal years 1993 and 1994” after “drug producing countries” in heading and substituted “November 1” for “January 1” in text.
 
@@ -116,29 +116,33 @@ Subsec. (i). Pub. L. 103–447, §101(g)(1)(H), amended heading and text of subs
 
 #### Certification for Major Illicit Drug Producing and Drug Transit Countries
 
-Determination of President of the United States, No. 98–15, Feb. 26, 1998, 63 F.R. 12937, provided:
+Determination of President of the United States, No. 99–15, Feb. 26, 1999, 64 F.R. 11319, provided:
 
-By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2291j(b)(1)(A)\], (“the Act”), I hereby determine and certify that the following major illicit drug producing and/or major illicit drug transit countries/dependent territories have cooperated fully with the United States, or have taken adequate steps on their own, to achieve full compliance with the goals and objectives of the 1988 United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances:
+Memorandum for the Secretary of State
 
-&emsp;Aruba, The Bahamas, Belize, Bolivia, Brazil, China, Dominican Republic, Ecuador, Guatemala, Haiti, Hong Kong, India, Jamaica, Laos, Malaysia, Mexico, Panama, Peru, Taiwan, Thailand, Venezuela, and Vietnam.
+By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2291j(b)(1)(A)\] (“the Act”), I hereby determine and certify that the following major illicit drug producing and/or major illicit drug transit countries/dependent territories have cooperated fully with the United States, or have taken adequate steps on their own, to achieve full compliance with the goals and objectives of the 1988 United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances:
+
+&emsp;Aruba, The Bahamas, Belize, Bolivia, Brazil, China, Colombia, Dominican Republic, Ecuador, Guatemala, Hong Kong, India, Jamaica, Laos, Mexico, Pakistan, Panama, Peru, Taiwan, Thailand, Venezuela, and Vietnam.
 
 By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine that it is in the vital national interests of the United States to certify the following major illicit drug producing and/or major illicit drug transit countries:
 
-&emsp;Cambodia, Colombia, Pakistan, and Paraguay.
+&emsp;Cambodia, Haiti, Nigeria, and Paraguay.
 
 Analysis of the relevant U.S. vital national interests, as required under section 490(b)(3) of the Act, is attached \[not set out in the Code\].
 
 I have determined that the following major illicit drug producing and/or major illicit drug transit countries do not meet the standards set forth in section 490(b) for certification:
 
-&emsp;Afghanistan, Burma, Iran, and Nigeria.
+&emsp;Afghanistan, Burma.
 
-In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 1998. Given that the performance of each of these countries/dependent territories has differed, I have attached an explanatory statement for each of the countries/dependent territories subject to this determination \[not set out in the Code\].
+In making these determinations, I have considered the factors set forth in section 490 of the Act. Given that the performance of each of these countries/dependent territories has differed, I have attached an explanatory statement for each of the countries/dependent territories subject to this determination \[not set out in the Code\].
 
 You are hereby authorized and directed to report this determination to the Congress immediately and to publish it in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior certifications for major narcotics producing and transit countries were contained in the following:
+
+Determination of President of the United States, No. 98–15, Feb. 26, 1998, 63 F.R. 12937.
 
 Determination of President of the United States, No. 97–18, Feb. 28, 1997, 62 F.R. 11589.
 
@@ -162,5 +166,5 @@ Determination of President of the United States, No. 88–10, Feb. 29, 1988, 53 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291e, 2291h of this title; title 12 section 635; title 18 section 981; title 19 sections 1616a, 3202; title 21 section 881.
+This section is referred to in sections 2291e, 2291h of this title; title 12 section 635; title 18 section 981; title 19 sections 1616a, 3202; title 21 sections 881, 1703.
 

@@ -28,7 +28,7 @@
 
 &emsp;(7) inform the parties as to the availability of one or more alternative means of dispute resolution, and encourage use of such methods;
 
-&emsp;(8) require the attendance at any conference held pursuant to paragraph (6) of at least onerepresentative of each party who has authority to negotiate concerning resolution of issues in controversy;
+&emsp;(8) require the attendance at any conference held pursuant to paragraph (6) of at least one representative of each party who has authority to negotiate concerning resolution of issues in controversy;
 
 &emsp;(9) dispose of procedural requests or similar matters;
 
@@ -108,5 +108,5 @@ Securities and Exchange Commission, delegation of functions by, see section 78d�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1220, 1405; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4906, 6802, 6804; title 8 sections 1182, 1375; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 185, 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 section 422; title 42 sections 300h–2, 1320a–7c, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in sections 553, 554, 557, 558, 706, 3105 of this title; title 2 sections 501, 502, 1220, 1405; title 7 sections 86, 87e, 87f–1, 1359ii, 2023, 2707, 3804, 3805, 4604, 4906, 6802, 6804; title 8 sections 1182, 1375; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 1536, 2602, 3636; title 20 section 1234; title 21 sections 321, 342, 379e, 1041; title 22 sections 1037a, 4136; title 30 sections 185, 811, 1415; title 33 sections 907, 1319, 1321; title 39 sections 404, 3624, 3661; title 41 section 422; title 42 sections 300h–2, 1320a–7c, 2241, 7171, 7407, 7413, 7502, 7511a, 7524, 7607, 9612, 11504; title 46 sections 7702, 9303; title 47 section 155; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
 

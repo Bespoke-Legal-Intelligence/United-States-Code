@@ -38,7 +38,7 @@
 
 #### (B) Reduction of allotment
 
-&emsp;&emsp;Notwithstanding subparagraph (A), if the aggregate of the amounts to be allotted toeach State pursuant to subparagraph (A) in any fiscal year exceeds the total amount appropriated under section 6030 of this title for such fiscal year, the amount to be allotted to a State for such fiscal year shall be an amount which bears the same ratio to the amount which is to be allotted to the State pursuant to such subparagraph as the total amount appropriated under section 6030 of this title for such fiscal years bears to the total of the amount required to be appropriated under such section for allotments to provide each State with the allotment required by such subparagraph.
+&emsp;&emsp;Notwithstanding subparagraph (A), if the aggregate of the amounts to be allotted to each State pursuant to subparagraph (A) in any fiscal year exceeds the total amount appropriated under section 6030 of this title for such fiscal year, the amount to be allotted to a State for such fiscal year shall be an amount which bears the same ratio to the amount which is to be allotted to the State pursuant to such subparagraph as the total amount appropriated under section 6030 of this title for such fiscal years bears to the total of the amount required to be appropriated under such section for allotments to provide each State with the allotment required by such subparagraph.
 
 #### (4) Minimum allotment for appropriations in excess of $75,000,000
 
@@ -92,7 +92,7 @@ Whenever the State plan approved in accordance with section 6022 of this title p
 
 The amount of an allotment to a State for a fiscal year which the Secretary determines will not be required by the State during the period for which it is available for the purpose for which allotted shall be available for reallotment by the Secretary from time to time, on such date or dates as the Secretary may fix (but not earlier than thirty days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register), to other States with respect to which such a determination has not been made, in proportion to the original allotments of such States for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period; and the total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount so reallotted to a State for a fiscal year shall be deemed to be a part of its allotment under subsection (a) of this section for such fiscal year.
 
-(Pub. L. 88–164, title I, §125, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2676; amendedPub. L. 100–146, title II, §205, Oct. 29, 1987, 101 Stat. 850; Pub. L. 101–496, §13, Oct. 31, 1990, 104 Stat. 1197; Pub. L. 103–230, title II, §206, Apr. 6, 1994, 108 Stat. 310.)
+(Pub. L. 88–164, title I, §125, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2676; amended Pub. L. 100–146, title II, §205, Oct. 29, 1987, 101 Stat. 850; Pub. L. 101–496, §13, Oct. 31, 1990, 104 Stat. 1197; Pub. L. 103–230, title II, §206, Apr. 6, 1994, 108 Stat. 310.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Subsec. (a)(4). Pub. L. 100–146, §205(a)(3)–(5), in introductory provisions
 
 Subsec. (a)(6). Pub. L. 100–146, §205(a)(6), added par. (6).
 
-Subsec. (b). Pub. L. 100–146, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Whenever the State plan approved in accordance with section 6022 of this title provides for participation of more than one State agency in administering or supervising the administration of designated portions of the State plan, the State may apportion its allotment among such agencies in a manner which, tothe satisfaction of the Secretary, is reasonably related to the responsibilities assigned to such agencies in carrying out the purposes of the State plan. Funds so apportioned to State agencies may be combined with other State or Federal funds authorized to be spent for other purposes, provided the purposes of the State plan will receive proportionate benefit from the combination.”
+Subsec. (b). Pub. L. 100–146, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Whenever the State plan approved in accordance with section 6022 of this title provides for participation of more than one State agency in administering or supervising the administration of designated portions of the State plan, the State may apportion its allotment among such agencies in a manner which, to the satisfaction of the Secretary, is reasonably related to the responsibilities assigned to such agencies in carrying out the purposes of the State plan. Funds so apportioned to State agencies may be combined with other State or Federal funds authorized to be spent for other purposes, provided the purposes of the State plan will receive proportionate benefit from the combination.”
 
 #### Effective Date of 1987 Amendment
 

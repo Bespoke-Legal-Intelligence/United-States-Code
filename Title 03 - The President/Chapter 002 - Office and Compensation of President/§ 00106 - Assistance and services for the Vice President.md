@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5; and
 
-&emsp;(2) to procure, as provided in appropriation Acts, temporary or intermittent services ofexperts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5.
+&emsp;(2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5.
 
 > Notwithstanding such section 3109(b), temporary services of any expert or consultant described in such section 3109(b) may be procured under paragraph (2) of this subsection for a period in excess of one year if the Vice President determines such procurement is necessary.
 
@@ -88,5 +88,5 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 114 of this title; title 18 sections 207, 1751; title 26 section 3121; title 31 section 3524; title 42 section 410.
+This section is referred to in sections 114, 115 of this title; title 18 sections 207, 1751; title 26 section 3121; title 31 section 3524; title 42 section 410.
 

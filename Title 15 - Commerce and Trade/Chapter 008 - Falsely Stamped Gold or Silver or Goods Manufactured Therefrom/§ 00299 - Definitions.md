@@ -6,7 +6,7 @@
 
 (c) The term “jewelry trade association” means an organization, consisting primarily of persons actively engaged in the jewelry or a related business, the purposes and activities of which are primarily directed to the improvement of business conditions in the jewelry or related businesses.
 
-(June 13, 1906, ch. 3289, §6, 34 Stat. 262; July 31, 1970, Pub. L. 91–366, §1(c), (d), 84 Stat. 690.)
+(June 13, 1906, ch. 3289, §6, 34 Stat. 262; Pub. L. 91–366, §1(c), (d), July 31, 1970, 84 Stat. 690.)
 
 #### Amendments
 

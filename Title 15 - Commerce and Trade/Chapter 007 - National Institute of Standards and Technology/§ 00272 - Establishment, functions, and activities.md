@@ -50,7 +50,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(6) prepare, certify, and sell standard reference materials for use in ensuring the accuracy of chemical analyses and measurements of physical and other properties of materials;
 
-&emsp;(7) in furtherance of the purposes of this chapter, accept research associates, cash donations, and donated equipment from industry, and also engage with industry in research to develop new basic and generic technologies for traditional and new products and for improved production and manufacturing;
+&emsp;(7) in furtherance of the purposes of this chapter, accept research associates, cash donations, and donated equipment from industry, and also engage with industry in research todevelop new basic and generic technologies for traditional and new products and for improved production and manufacturing;
 
 &emsp;(8) study and develop fundamental scientific understanding and improved measurement, analysis, synthesis, processing, and fabrication methods for chemical substances and compounds, ferrous and nonferrous metals, and all traditional and advanced materials, including processes of degradation;
 
@@ -64,7 +64,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(13) study computer systems (as that term is defined in section 278g–3(d) of this title) and their use to control machinery and processes;
 
-&emsp;(14) perform research to develop standards and test methods to advance the effective useof computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
+&emsp;(14) perform research to develop standards and test methods to advance the effective use of computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
 
 &emsp;(15) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
 
@@ -86,7 +86,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278<i>l</i>, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
 
-(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; June 22, 1972, Pub. L. 92–317, §3(b), 86 Stat. 235; Jan. 8, 1988, Pub. L. 100–235, §3(1), 101 Stat. 1724; Aug. 23, 1988, Pub. L. 100–418, title V, §5112(a), 102 Stat. 1428; Feb. 14, 1992, Pub. L. 102–245, title II, §201(e), 106 Stat. 19; Mar. 7, 1996, Pub. L. 104–113, §12(a), (b), 110 Stat. 782.)
+(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782.)
 
 #### Amendments
 
@@ -105,6 +105,42 @@ Par. (20). Pub. L. 100–235 added par. (20).
 1972—Par. (19). Pub. L. 92–317 inserted provisions authorizing use of National Bureau of Standards personnel for teaching and training activities without additional compensation.
 
 1950—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
+
+#### Enhancement of Science and Mathematics Programs
+
+Pub. L. 105–309, §6, Oct. 30, 1998, 112 Stat. 2936, provided that:
+
+“(a)
+
+Definitions.—In this section—
+
+&emsp;“(1)
+
+Educationally useful federal equipment.—The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools.
+
+&emsp;“(2)
+
+School.—The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12.
+
+“(b)
+
+Sense of the Congress.—
+
+&emsp;“(1)
+
+In general.—It is the sense of the Congress that the Director of the National Institute of Standards and Technology should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 484 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
+
+&emsp;“(2)
+
+Reports.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 1998\], and annually thereafter, the Director of the National Institute of Standards and Technology shall prepare and submit to the President a report. The President shall submit the report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
+
+&emsp;&emsp;“(B)
+
+Contents of report.—The report prepared by the Director under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
 
 #### Transmittal of Plan for Standards Conformity to Congress
 
@@ -136,7 +172,7 @@ Pub. L. 100–519, title I, §112, Oct. 24, 1988, 102 Stat. 2592, provided that:
 
 “(a)
 
-Program.—The Secretary, acting through the Director of the National Institute of Standards andTechnology and other appropriate officials, shall seek funding for and establish, within 6 months after the date of the enactment of this Act \[Oct. 24, 1988\], a program to assist other countries in the development of their domestic standards which are compatible with standards in general use in the United States. After the program is established, it shall be funded through voluntary contributions from the private sector to fully reimburse the United States for expenses incurred during fiscal years 1989 and 1990. The program shall begin on a pilot basis focusing on one or two countries or groups of countries which are major United States trading partners and have expressed interest in such program. The Secretary shall ensure that contributions which are earmarked by country are spent to assist the development of standards by that country or group of countries.
+Program.—The Secretary, acting through the Director of the National Institute of Standards and Technology and other appropriate officials, shall seek funding for and establish, within 6 months after the date of the enactment of this Act \[Oct. 24, 1988\], a program to assist other countries in the development of their domestic standards which are compatible with standards in general use in the United States. After the program is established, it shall be funded through voluntary contributions from the private sector to fully reimburse the United States for expenses incurred during fiscal years 1989 and 1990. The program shall begin on a pilot basis focusing on one or two countries or groups of countries which are major United States trading partners and have expressed interest in such program. The Secretary shall ensure that contributions which are earmarked by country are spent to assist the development of standards by that country or group of countries.
 
 “(b)
 

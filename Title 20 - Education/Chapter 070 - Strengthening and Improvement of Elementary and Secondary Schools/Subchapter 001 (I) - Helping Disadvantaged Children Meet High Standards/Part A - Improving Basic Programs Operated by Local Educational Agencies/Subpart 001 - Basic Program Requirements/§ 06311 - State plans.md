@@ -18,7 +18,7 @@
 
 &emsp;(B) If a State has State content standards or State student performance standards developed under title III of the Goals 2000: Educate America Act \[20 U.S.C. 5881 et seq.\] and an aligned set of assessments for all students developed under such title, or, if not developed under such title, adopted under another process, the State shall use such standards and assessments, modified, if necessary, to conform with the requirements of subparagraphs (A) and (D) of this paragraph, and paragraphs (2) and (3).
 
-&emsp;(C) If a State has not adopted State content standards and State student performance standards for all students, the State plan shall include a strategy and schedule for developing State content standards and State student performance standards for elementary and secondary school children served under this part in subjects as determined by the State, but including at least mathematics and reading or language arts by the end of the one-year period described in paragraph (6), which standards shall include the same knowledge, skills, and levels of performance expected of all children.
+&emsp;(C) If a State has not adopted State content standards and State student performance standards for all students, the State plan shall include a strategy and schedule for developing State content standards and State student performance standards for elementary and secondary school children served under this part in subjects as determined by the State, but including at least mathematics and reading orlanguage arts by the end of the one-year period described in paragraph (6), which standards shall include the same knowledge, skills, and levels of performance expected of all children.
 
 &emsp;(D) Standards under this paragraph shall include—
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(H) provide individual student interpretive and descriptive reports, which shall include scores, or other information on the attainment of student performance standards; and
 
-&emsp;&emsp;(I) enable results to be disaggregated within each State, local educational agency, and school by gender, by each major racial and ethnic group, by English proficiency status, by migrant status, by students with disabilities as compared to nondisabled students, and by economically disadvantaged students as compared to students who are not economically disadvantaged.
+&emsp;&emsp;(I) enable results to be disaggregated within each State, local educational agency, and school by gender, by each major racial and ethnic group, by English proficiency status,by migrant status, by students with disabilities as compared to nondisabled students, and by economically disadvantaged students as compared to students who are not economically disadvantaged.
 
 #### (4) Special rule
 
@@ -100,7 +100,7 @@
 
 &emsp;(A) A State that does not have challenging State content standards and challenging State student performance standards, in at least mathematics and reading or language arts, shall develop such standards within one year of receiving funds under this part after the first fiscal year for which such State receives such funds after October 20, 1994.
 
-&emsp;(B) A State that does not have assessments that meet the requirements of paragraph (3) in at least mathematics and reading or languagearts shall develop and test such assessments within four years (one year of which shall be used for field testing such assessment), of receiving funds under this part after the first fiscal year for which such State receives such funds after October 20, 1994, and shall develop benchmarks of progress toward the development of such assessments that meet the requirements of paragraph (3), including periodic updates.
+&emsp;(B) A State that does not have assessments that meet the requirements of paragraph (3) in at least mathematics and reading or language arts shall develop and test such assessments within four years (one year of which shall be used for field testing such assessment), of receiving funds under this part after the first fiscal year for which such State receives such funds after October 20, 1994, and shall develop benchmarks of progress toward the development of such assessments that meet the requirements of paragraph (3), including periodic updates.
 
 &emsp;(C) The Secretary may extend for one additional year the time for testing new assessments under subparagraph (B) upon the request of the State and the submission of a strategy to correct problems identified in the field testing of such new assessments.
 
@@ -134,7 +134,7 @@ Each State plan shall contain assurances that—
 
 &emsp;(ii) where educational service agencies do not exist, the State educational agency will consider providing professional development and technical assistance through other cooperative agreements such as through a consortium of local educational agencies;
 
-&emsp;(2) the State educational agency will notify local educational agencies and the public of the standards and assessments developed under this section, and of the authority to operate schoolwide programs, and will fulfill the State educational agency's responsibilities regarding local educational agency improvement and school improvement under section 6317 of this title, including such corrective actions as are necessary;
+&emsp;(2) the State educational agency will notify local educational agencies and the public of the standards and assessments developedunder this section, and of the authority to operate schoolwide programs, and will fulfill the State educational agency's responsibilities regarding local educational agency improvement and school improvement under section 6317 of this title, including such corrective actions as are necessary;
 
 &emsp;(3) the State educational agency will provide the least restrictive and burdensome regulations for local educational agencies and individual schools participating in a program assisted under this part;
 
@@ -154,7 +154,7 @@ Each State plan shall contain assurances that—
 
 &emsp;&emsp;(B) appoint individuals to the peer review process who are representative of State educational agencies, local educational agencies, teachers, and parents;
 
-&emsp;&emsp;(C) following an initial peer review, approve a State plan the Secretary determinesmeets the requirements of subsections (a), (b), and (c) of this section;
+&emsp;&emsp;(C) following an initial peer review, approve a State plan the Secretary determines meets the requirements of subsections (a), (b), and (c) of this section;
 
 &emsp;&emsp;(D) if the Secretary determines that the State plan does not meet the requirements of subsection (a), (b), or (c) of this section, immediately notify the State of such determination and the reasons for such determination;
 

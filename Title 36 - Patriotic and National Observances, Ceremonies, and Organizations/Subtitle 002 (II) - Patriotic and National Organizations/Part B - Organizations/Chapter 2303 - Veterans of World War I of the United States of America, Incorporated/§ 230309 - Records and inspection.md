@@ -1,0 +1,34 @@
+### §230309. Records and inspection
+
+(a)
+
+Records.—The corporation shall keep—
+
+&emsp;(1) correct and complete records of account; and
+
+&emsp;(2) minutes of the proceedings of its national convention and board of administration.
+
+(b)
+
+Inspection.—A member, or an agent or attorney of the member, may inspect the records of the corporation for any proper purpose, at any reasonable time.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1485.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+230309
+
+36:774.
+
+July 18, 1958, Pub. L. 85–530, §14, 72 Stat. 374.
+
+In this section, the word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
+

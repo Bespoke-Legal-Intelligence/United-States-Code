@@ -2,7 +2,7 @@
 
 This chapter may be cited as the “Rural Electrification Act of 1936”.
 
-(May 20, 1936, ch. 432, title I, §1, 49 Stat. 1363; 1939 Reorg. Plan No. II, §5, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434; Oct. 28, 1949, ch. 776, §2, 63 Stat. 948; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(1), 108 Stat. 3220.)
+(May 20, 1936, ch. 432, title I, §1, 49 Stat. 1363; 1939 Reorg. Plan No. II, §5, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434; Oct. 28, 1949, ch. 776, §2, 63 Stat. 948; Pub. L. 103–354, title II, §235(a)(1), Oct. 13, 1994, 108 Stat. 3220.)
 
 #### Amendments
 

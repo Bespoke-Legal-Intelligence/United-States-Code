@@ -1,6 +1,0 @@
-### §185. Transferred
-
-#### Codification
-
-Section, act Apr. 17, 1952, ch. 216, 66 Stat. 64, which related to National Day of Prayer, was transferred to section 169h of this title.
-

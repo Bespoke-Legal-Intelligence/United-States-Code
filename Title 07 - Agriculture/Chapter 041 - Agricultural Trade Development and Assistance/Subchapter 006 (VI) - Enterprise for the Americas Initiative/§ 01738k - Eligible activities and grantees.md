@@ -32,7 +32,7 @@ Grants may be made by the body referred to in section 1738f(c) of this title fro
 
 In providing assistance from an Environmental Fund, the body established under section 1738f(c) of this title within the eligible country shall give priority to projects that are run by nongovernmental organizations and other private entities, and that involve local communities in their planning and execution.
 
-(July 10, 1954, ch. 469, title VI, §612, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3661; amended Dec. 13, 1991, Pub. L. 102–237, title III, §306, 105 Stat. 1856.)
+(July 10, 1954, ch. 469, title VI, §612, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3661; amended Pub. L. 102–237, title III, §306, Dec. 13, 1991, 105 Stat. 1856.)
 
 #### References in Text
 

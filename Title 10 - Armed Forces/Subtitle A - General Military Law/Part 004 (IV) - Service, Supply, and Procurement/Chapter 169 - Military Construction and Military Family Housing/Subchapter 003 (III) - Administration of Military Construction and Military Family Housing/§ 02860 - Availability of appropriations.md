@@ -24,9 +24,11 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Availability of Appropriations for Five Years
 
-Pub. L. 105–45, §117, Sept. 30, 1997, 111 Stat. 1147, provided that: “Notwithstanding any other provision of law, any funds appropriated to a military department or defense agency for the construction of military projects may be obligated for a military construction project or contract, or for any portion of such a project or contract, at any time before the end of the fourth fiscal year after the fiscal year for which funds for such project were appropriated if the funds obligated for such project: (1) are obligated from funds available for military construction projects and (2) do not exceed the amount appropriated for such project, plus any amount by which the cost of such project is increased pursuant to law.”
+Pub. L. 105–237, §117, Sept. 20, 1998, 112 Stat. 1558, provided that: “Notwithstanding any other provision of law, any funds appropriated to a military department or defense agency for the construction of military projects may be obligated for a military construction project or contract, or for any portion of such a project or contract, at any time before the end of the fourth fiscal year after the fiscal year for which funds for such project were appropriated if the funds obligated for such project: (1) are obligated from funds available for military construction projects; and (2) do not exceed the amount appropriated for such project, plus any amount by which the cost of such project is increased pursuant to law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–45, §117, Sept. 30, 1997, 111 Stat. 1147.
 
 Pub. L. 104–196, §117, Sept. 16, 1996, 110 Stat. 2391.
 
@@ -48,9 +50,11 @@ Pub. L. 100–447, §124, Sept. 27, 1988, 102 Stat. 1835.
 
 #### Transfer of Funds for Foreign Currency Fluctuations
 
-Pub. L. 105–45, §118, Sept. 30, 1997, 111 Stat. 1147, provided that: “During the five-year period after appropriations available to the Department of Defense for military construction and family housing operation and maintenance and construction have expired for obligation, upon a determination that such appropriations will not be necessary for the liquidation of obligations or for making authorized adjustments to such appropriations for obligations incurred during the period of availability of such appropriations, unobligated balances of such appropriations may be transferred into the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’ to be merged with and to be available for the same time period and for the same purposes as the appropriation to which transferred.”
+Pub. L. 105–237, §118, Sept. 20, 1998, 112 Stat. 1559, provided that: “During the 5-year period after appropriations available to the Department of Defense for military construction and family housing operation and maintenance and construction have expired for obligation, upon a determination that such appropriations will not be necessary for the liquidation of obligations or for making authorized adjustments to such appropriations for obligations incurred during the period of availability of such appropriations, unobligated balances of such appropriations may be transferred into the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’ to be merged with and to be available for the same time period and for the same purposes as the appropriation to which transferred.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–45, §118, Sept. 30, 1997, 111 Stat. 1147.
 
 Pub. L. 104–196, §118, Sept. 16, 1996, 110 Stat. 2392.
 

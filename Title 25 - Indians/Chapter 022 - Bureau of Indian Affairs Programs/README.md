@@ -101,9 +101,9 @@
 | [2014\.](%C2%A7%2002014%20-%20Bureau%20education%20policies.md) | Bureau education policies. |
 | [2015\.](%C2%A7%2002015%20-%20Uniform%20education%20procedures%20and%20practices.md) | Uniform education procedures and practices. |
 | [2016\.](%C2%A7%2002016%20-%20Recruitment%20of%20Indian%20educators.md) | Recruitment of Indian educators. |
-| [2017\.](%C2%A7%2002017%20-%20Annual%20report.md) | Annual report. |
+| [2017\.](%C2%A7%2002017%20-%20Biennial%20report.md) | Biennial report. |
 | [2018\.](%C2%A7%2002018%20-%20Rights%20of%20Indian%20students.md) | Rights of Indian students. |
-| [2019\.](%C2%A7%2002019%20-%20Regulations.md) | Regulations. |
+| [2019\.](%C2%A7%2002019%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VIII%2C%20%C2%A7801%28c%29%285%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203288.md) | Repealed. |
 | [2020\.](%C2%A7%2002020%20-%20Voluntary%20services.md) | Voluntary services. |
 | [2021\.](%C2%A7%2002021%20-%20Proration%20of%20pay.md) | Proration of pay. |
 | (a) | Election of employee. |
@@ -134,7 +134,7 @@
 
 #### Codification
 
-Part B of title XI of the Education Amendments of 1978, comprising this chapter, was originally enacted as part B of title XI of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2316, and amended by 1978 Reorg. Plan No. 2, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 97–375, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 99–89, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–228, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207; Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130; Pub. L. 100–427, Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, May 24, 1990, 104 Stat. 206; Pub. L. 102–531, Oct. 27, 1992, 106 Stat. 3469. Part B of title XI of the Act is shown herein, however, as having been added by Pub. L. 103–382 without reference to such intervening amendments because of the extensive amendment of the part's provisions by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979.
+Part B of title XI of the Education Amendments of 1978, comprising this chapter, was originally enacted as part B of title XI of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2316, and amended by 1978 Reorg. Plan No. 2, eff. Jan.1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 97–375, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 99–89, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–228, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207; Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130; Pub. L. 100–427, Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, May 24, 1990, 104 Stat. 206; Pub. L. 102–531, Oct. 27, 1992, 106 Stat. 3469. Part B of title XI of the Act is shown herein, however, as having been added by Pub. L. 103–382 without reference to such intervening amendments because of the extensive amendment of the part's provisions by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979.
 
 #### Chapter Referred to in Other Sections
 
@@ -161,9 +161,9 @@ This chapter is referred to in sections 2503, 2504, 2505 of this title; title 20
 - [&sect; 02014 - Bureau education policies](%C2%A7%2002014%20-%20Bureau%20education%20policies.md)
 - [&sect; 02015 - Uniform education procedures and practices](%C2%A7%2002015%20-%20Uniform%20education%20procedures%20and%20practices.md)
 - [&sect; 02016 - Recruitment of Indian educators](%C2%A7%2002016%20-%20Recruitment%20of%20Indian%20educators.md)
-- [&sect; 02017 - Annual report](%C2%A7%2002017%20-%20Annual%20report.md)
+- [&sect; 02017 - Biennial report](%C2%A7%2002017%20-%20Biennial%20report.md)
 - [&sect; 02018 - Rights of Indian students](%C2%A7%2002018%20-%20Rights%20of%20Indian%20students.md)
-- [&sect; 02019 - Regulations](%C2%A7%2002019%20-%20Regulations.md)
+- [&sect; 02019 - Repealed. Pub. L. 105&#8211;362, title VIII, &sect;801(c)(5), Nov. 10, 1998, 112 Stat. 3288](%C2%A7%2002019%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VIII%2C%20%C2%A7801%28c%29%285%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203288.md)
 - [&sect; 02020 - Voluntary services](%C2%A7%2002020%20-%20Voluntary%20services.md)
 - [&sect; 02021 - Proration of pay](%C2%A7%2002021%20-%20Proration%20of%20pay.md)
 - [&sect; 02022 - Extracurricular activities](%C2%A7%2002022%20-%20Extracurricular%20activities.md)

@@ -2,9 +2,21 @@
 
 #### (a) Grants-in-aid; “institution” defined; guidelines for institutions providing care to children outside of school hours; eligibility
 
-The Secretary may carry out a program to assist States through grants-in-aid and other means to initiate and maintain nonprofit food service programs for children in institutions providing child care. For purposes of this section, the term “institution” means any public or private nonprofit organization providing nonresidential child care, including, but not limited to, child care centers, settlement houses, recreational centers, Head Start centers, and institutions providing child care facilities for children with handicaps; and such term shall also mean any other private organization providing nonresidential day care services for which it receives compensation from amounts granted to the States under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\] (but only if such organization receives compensation under such title for at least 25 percent of its enrolled children or 25 percent of its licensed capacity, whichever is less). In addition, the term “institution” shall include programs developed to provide day care outside school hours for schoolchildren, and public or nonprofit private organizations that sponsor family or group day care homes. Reimbursement may be provided under this section only for meals or supplements served to children not over 12 years of age (except that such age limitation shall not be applicable for children of migrant workers if 15 years of age or less or for children with handicaps). The Secretary may establish separate guidelines for institutions that provide care to school children outside of school hours. For purposes of determining eligibility—
+The Secretary may carry out a program to assist States through grants-in-aid and other means to initiate and maintain nonprofit food service programs for children in institutions providing child care. For purposes of this section, the term “institution” means any public or private nonprofit organization providing nonresidential child care, including, but not limited to, child care centers, settlement houses, recreational centers, Head Start centers, and institutions providing child care facilities for children with disabilities; and such term shall also mean any other private organization providing nonresidential day care services for which it receives compensation from amounts granted to the States under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\] (but only if such organization receives compensation under such title for at least 25 percent of its enrolled children or 25 percent of its licensed capacity, whichever is less). In addition, the term “institution” shall include programs developed to provide day care outside school hours for schoolchildren, public or nonprofit private organizations that sponsor family or group day care homes, and emergency shelters (as provided in subsection (t) of this section). Except as provided in subsection (r) of this section, reimbursement may be provided under this section only for meals or supplements served to children not over 12 years of age (except that such age limitation shall not be applicable for children of migrant workers if 15 years of age or less or for children with disabilities). The Secretary may establish separate guidelines for institutions that provide care to school children outside of school hours. For purposes of determining eligibility—
 
-&emsp;(1) no institution, other than a family or group day care home sponsoring organization, or family or group day care home shall be eligible to participate in the program unless it has Federal, State, or local licensing or approval, or is complying with appropriate renewal procedures as prescribed by the Secretary and the State has no information indicating that the institution's license will not be renewed; or where Federal, State, or local licensing or approval is not available, it receives funds under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\] or otherwise demonstrates that it meets either any applicable State or local government licensing or approval standards or approval standards established by the Secretary after consultation with the Secretary of Health and Human Services; and
+&emsp;(1) an institution (except a school or family or group day care home sponsoring organization) or family or group day care home shall—
+
+&emsp;&emsp;(A)(i) be licensed, or otherwise have approval, by the appropriate Federal, State, or local licensing authority; or
+
+&emsp;&emsp;(ii) be in compliance with appropriate procedures for renewing participation in the program, as prescribed by the Secretary, and not be the subject of information possessed by the State indicating that the license of the institution or home will not be renewed;
+
+&emsp;&emsp;(B) if Federal, State, or local licensing or approval is not available—
+
+&emsp;&emsp;&emsp;(i) meet any alternate approval standards established by the appropriate State or local governmental agency; or
+
+&emsp;&emsp;&emsp;(ii) meet any alternate approval standards established by the Secretary after consultation with the Secretary of Health and Human Services; or
+
+&emsp;&emsp;(C) if the institution provides care to school children outside of school hours and Federal, State, or local licensing or approval is not required for the institution, meet State or local health and safety standards; and
 
 &emsp;(2) no institution shall be eligible to participate in the program unless it satisfies the following criteria:
 
@@ -12,7 +24,7 @@ The Secretary may carry out a program to assist States through grants-in-aid and
 
 &emsp;&emsp;(B) has not been seriously deficient in its operation of the child care food program, or any other program under this chapter or the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], for a period of time specified by the Secretary;
 
-&emsp;&emsp;(C) will provide adequate supervisory and operational personnel for overall monitoring and management of the child care food program; and
+&emsp;&emsp;(C) will provide adequate supervisory and operational personnel for overall monitoringand management of the child care food program; and
 
 &emsp;&emsp;(D) in the case of a family or group day care home sponsoring organization that employs more than one employee, the organization does not base payments to an employee of the organization on the number of family or group day care homes recruited.
 
@@ -32,21 +44,23 @@ For the fiscal year ending September 30, 1979, and for each subsequent fiscal ye
 
 (5) A child shall be considered automatically eligible for benefits under this section without further application or eligibility determination, if the child is enrolled as a participant in a Head Start program authorized under the Head Start Act (42 U.S.C. 9831 et seq.), on the basis of a determination that the child is a member of a family that meets the low-income criteria prescribed under section 645(a)(1)(A) of the Head Start Act (42 U.S.C. 9840(a)(1)(A)).
 
-(6)(A) A child who has not yet entered kindergarten shall be considered automatically eligible for benefits under this section without further application or eligibility determination if the child is enrolled as a participant in the Even Start program under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.).<sup>1</sup>
-
-(B) Subparagraph (A) shall apply only with respect to the provision of benefits under this section for the period beginning September 1, 1995, and ending September 30, 1997.
+(6) A child who has not yet entered kindergarten shall be considered automatically eligible for benefits under this section without further application or eligibility determination if the child is enrolled as a participant in the Even Start program under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.).<sup>1</sup>
 
 #### (d) Requirements for approval; notification; reapplication
 
-(1) Any eligible public institution shall be approved for participation in the child care food program upon its request. Any eligible private institution shall be approved for participation if it (A) has tax exempt status under title 26 or, under conditions established by the Secretary, is moving toward compliance with the requirements for tax exempt status, or (B) is currently operating a Federal program requiring nonprofit status. Family or group day care homes need not have individual tax exempt certification if they are sponsored by an institution that has tax exempt status, or, under conditions established by the Secretary, such institution is moving toward compliance with the requirements for tax exempt status or is currently operating a Federal program requiring nonprofit status. An institution applying for participation under this section shall be notified of approval or disapproval in writing within thirty days after the date its completed application is filed. If an institution submits an incomplete application to the State, the State shall so notify the institution within fifteen days of receipt of the application.
+(1) Any eligible public institution shall be approved for participation in the child care food program upon its request. Any eligible private institution shall be approved for participation if it has been visited by a State agency prior to approval and it (A) has tax exempt status under title 26 or, under conditions established by the Secretary, is moving toward compliance with the requirements for tax exempt status, or (B) is currently operating a Federal program requiring nonprofit status. Family or group day care homes need not have individual tax exempt certification if they are sponsored by an institution that has tax exempt status, or, under conditions established by the Secretary, such institution is moving toward compliance with the requirements for tax exempt status or is currently operating a Federal program requiring nonprofit status. An institution moving toward compliance with the requirement for tax exempt status shall be allowed to participate in the child and adult care food program for a period of not more than 180 days, except that a State agency may grant a single extension of not to exceed an additional 90 days if the institution demonstrates, to the satisfaction of the State agency, that the inability of the institution to obtain tax exempt status within the 180-day period is due to circumstances beyond the control of the institution. An institution applying for participation under this section shall be notified of approval or disapproval in writing within thirty days after the date its completed application is filed.
 
-(2)(A) The Secretary shall develop a policy that allows institutions providing child care that participate in the program under this section, at the option of the State agency, to reapply for assistance under this section at 3-year intervals.
+(2)(A) The Secretary shall develop a policy that—
+
+&emsp;(i) allows institutions providing child care that participate in the program under this section, at the option of the State agency, to reapply for assistance under this section at 3-year intervals; and
+
+&emsp;(ii) requires periodic site visits to private institutions that the State agency determines have a high probability of program abuse.
 
 (B) Each State agency that exercises the option authorized by subparagraph (A) shall confirm on an annual basis that each such institution is in compliance with the licensing or approval provisions of subsection (a)(1) of this section.
 
 #### (e) Hearing
 
-(1) Except as provided in paragraph (2), the State shall provide, in accordance with regulations issued by the Secretary, a fair hearing and a prompt determination to any institution aggrieved by the action of the State as it affects the participation of such institution in the program authorized by this section, or its claim for reimbursement under this section.
+(1) Except as provided in paragraph (2), the State shall provide, in accordance with regulations issued by the Secretary, a fair hearing and a prompt determination to any institution aggrieved by the action of the State as it affectsthe participation of such institution in the program authorized by this section, or its claim for reimbursement under this section.
 
 (2) A State is not required to provide a hearing to an institution concerning a State action taken on the basis of a Federal audit determination.
 
@@ -112,11 +126,11 @@ Factors.—Except as provided in subclause (II), with respect to meals or supple
 
 &emsp;&emsp;&emsp;&emsp;(bb)
 
-Adjustments.—The factors shall be adjusted on July 1, 1997, and each July 1 thereafter, to reflect changes in the Consumer Price Index for food at home for the most recent 12-month period for which the data are available. The reimbursement factors under this item shall be rounded down to the nearest lower cent increment and based on the unrounded adjustment for the preceding 12-month period.
+Adjustments.—The factors shall be adjusted on July 1, 1997, and each July1 thereafter, to reflect changes in the Consumer Price Index for food at home for the most recent 12-month period for which the data are available. The reimbursement factors under this item shall be rounded down to the nearest lower cent increment and based on the unrounded adjustment for the preceding 12-month period.
 
 &emsp;&emsp;&emsp;&emsp;(cc)
 
-Reimbursement.—A family or group day care home shall be provided reimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home providerunless the children meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title.
+Reimbursement.—A family or group day care home shall be provided reimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home provider unless the children meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -162,7 +176,7 @@ Minimum verification requirements.—The Secretary may establish any minimum ver
 
 &emsp;(B) Family or group day care home sponsoring organizations shall also receive reimbursement for their administrative expenses in amounts not exceeding the maximum allowable levels prescribed by the Secretary. Such levels shall be adjusted July 1 of each year to reflect changes in the Consumer Price Index for all items for the most recent 12-month period for which such data are available.
 
-&emsp;(C)(i) Reimbursement for administrative expenses shall also include start-up funds to finance the administrative expenses for such institutions to initiate successful operation under the program and expansion funds to finance the administrative expenses for such institutions to expand into low-income or rural areas. Institutions that have received start-up funds may also apply at a later date for expansion funds. Such start-up funds and expansion funds shall be in addition to other reimbursement to such institutions for administrative expenses. Start-up funds and expansion funds shall be payable to enable institutions satisfying the criteria of subsection (d) of this section, and any other standards prescribed by the Secretary, to develop an application for participation in the program as a family or group day care home sponsoring organization or to implement the program upon approval of the application. Such start-up funds and expansion funds shall be payable in accordance with the procedures prescribed by the Secretary. The amount of start-up funds and expansion funds payable to an institution shall be not less than the institution's anticipated reimbursement for administrative expenses under the program for one month and not more than the institution's anticipated reimbursement for administrative expenses under the program for two months.
+&emsp;(C)(i) Reimbursement for administrative expenses shall also include start-up funds to finance the administrative expenses for such institutions to initiate successful operationunder the program and expansion funds to finance the administrative expenses for such institutions to expand into low-income or rural areas. Institutions that have received start-up funds may also apply at a later date for expansion funds. Such start-up funds and expansion funds shall be in addition to other reimbursement to such institutions for administrative expenses. Start-up funds and expansion funds shall be payable to enable institutions satisfying the criteria of subsection (d) of this section, and any other standards prescribed by the Secretary, to develop an application for participation in the program as a family or group day care home sponsoring organization or to implement the program upon approval of the application. Such start-up funds and expansion funds shall be payable in accordance with the procedures prescribed by the Secretary. The amount of start-up funds and expansion funds payable to an institution shall be not less than the institution's anticipated reimbursement for administrative expenses under the program for one month and not more than the institution's anticipated reimbursement for administrative expenses under the program for two months.
 
 &emsp;(ii) Funds for administrative expenses may be used by family or group day care home sponsoring organizations to assist unlicensed family or group day care homes in becoming licensed.
 
@@ -226,7 +240,7 @@ Use of data from preceding school year.—In determining for a fiscal year or ot
 
 Duration of determination.—For purposes of this section, a determination that a family or group day care home is located in an area that qualifies the home as a tier I family or group day care home (as the term is defined in subparagraph (A)(ii)(I)), shall be in effect for 3 years (unless the determination is made on the basis of census data, in which case the determination shall remain in effect until more recent census data are available) unless the State agency determines that the area in which the home is located no longer qualifies the home as a tier I family or group day care home.
 
-(4) By the first day of each month of operation, the State may provide advance payments for the month to each approved institution in an amount that reflects the full level of valid claims customarily received from such institution for one month's operation. In the case of a newly participating institution, the amount of the advance shall reflect the State's best estimate of the level of valid claims such institutions will submit. If the State has reason to believe that an institution will not be able to submit a valid claim covering the period for which such an advance has been made, the subsequent month's advance payment shall be withheld until the State receives a valid claim. Payments advanced to institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance payment.
+(4) By the first day of each month of operation, the State may provide advance payments for the month to each approved institution in an amount that reflects the full level of valid claims customarily received from such institution for one month's operation. In the case of anewly participating institution, the amount of the advance shall reflect the State's best estimate of the level of valid claims such institutions will submit. If the State has reason to believe that an institution will not be able to submit a valid claim covering the period for which such an advance has been made, the subsequent month's advance payment shall be withheld until the State receives a valid claim. Payments advanced to institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance payment.
 
 #### (g) Meals served by participating institutions; compliance assistance
 
@@ -242,7 +256,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 (1)(A) The Secretary shall donate agricultural commodities produced in the United States for use in institutions participating in the child care food program under this section.
 
-(B) The value of the commodities donated under subparagraph (A) (or cash in lieu of commodities) to each State for each school year shall be, at a minimum, the amount obtained by multiplying the number of lunches and suppers served in participating institutions in that State during the preceding school year by the rate for commodities or cash in lieu of commodities established under section 1755(e) of this title for the school year concerned.
+(B) The value of the commodities donated under subparagraph (A) (or cash in lieu of commodities) to each State for each school year shall be, at a minimum, the amount obtained by multiplying the number of lunches and suppers served in participating institutions in that State during the preceding school year by the rate for commodities or cash in lieu of commodities established under section 1755(c) of this title for the school year concerned.
 
 (C) After the end of each school year, the Secretary shall—
 
@@ -256,7 +270,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 #### (i) Availability of money for audits
 
-The Secretary shall make available for each fiscal year to States administering the child care food program, for the purpose of conducting audits of participating institutions, an amount up to 2 percent of the funds used by each State in the program under this section, during the second preceding fiscal year.
+The Secretary shall make available for each fiscal year to States administering the child care food program, for the purpose of conducting audits of participating institutions, an amount up to 1.5 percent (except, in the case of each of fiscal years 2005 through 2007, 1 percent) of the funds used by each State in the program under this section, during the second preceding fiscal year.
 
 #### (j) Standard form agreement regulations
 
@@ -280,7 +294,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (<i>o</i>) Participation of older persons and chronically impaired disabled persons
 
-(1) For purposes of this section, adult day care centers shall be considered eligible institutionsfor reimbursement for meals or supplements served to persons 60 years of age or older or to chronically impaired disabled persons, including victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction. Reimbursement provided to such institutions for such purposes shall improve the quality of meals or level of services provided or increase participation in the program. Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.
+(1) For purposes of this section, adult day care centers shall be considered eligible institutions for reimbursement for meals or supplements served to persons 60 years of age or older or to chronically impaired disabled persons, including victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction. Reimbursement provided to such institutions for such purposes shall improve the quality of meals or level of services provided or increase participation in the program. Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.
 
 (2) For purposes of this subsection—
 
@@ -352,25 +366,135 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;(v) less than 1 percent of child care centers participating in the child care food program receive assistance under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\].
 
-(4) Such project shall—
+#### (q) Management support
 
-&emsp;(A) commence not earlier than May 1, 1990, and not later than June 30, 1990; and
+#### (1) Technical and training assistance
 
-&emsp;(B) terminate on September 30, 1998.
+&emsp;In addition to the training and technical assistance that is provided to State agencies under other provisions of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), the Secretary shall provide training and technical assistance in order to assist the State agencies in improving their program management and oversight under this section.
 
-(5) Notwithstanding paragraph (4)(B), the Secretary shall continue until September 30, 1998, the two pilot projects established under this subsection to the extent, and in such amounts, as are provided for in advance in appropriations Acts.
+#### (2) Funding
 
-(June 4, 1946, ch. 281, §17, as added Oct. 7, 1975, Pub. L. 94–105, §16, 89 Stat. 522; amended Nov. 10, 1977, Pub. L. 95–166, §§3, 19(d), 91 Stat. 1332, 1345; Nov. 10, 1978, Pub. L. 95–627, §2, 92 Stat. 3603; Dec. 5, 1980, Pub. L. 96–499, title II, §§207(a), 208(b), (c), 94 Stat. 2602; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), 95 Stat. 528, 532, 534; Oct. 18, 1986, Pub. L. 99–500, title III, §§361, 372(a), 100 Stat. 1783–367, 1783–369, and Oct. 30, 1986, Pub. L. 99–591, title III, §§361, 372(a), 100 Stat. 3341–370, 3341–372; Nov. 14, 1986, Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), 100 Stat. 4079, 4080; Nov. 29, 1987, Pub. L. 100–175, title IV, §401, 101 Stat. 972; Sept. 19, 1988, Pub. L. 100–435, title II, §§211, 214, 102 Stat. 1657, 1659; Oct. 1, 1988, Pub. L. 100–460, title VI, §641, 102 Stat. 2265; Nov. 10, 1989, Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), 103 Stat. 883, 907, 909, 915, 916; Aug. 14, 1992, Pub. L. 102–342, title II, §§202, 203, 106 Stat. 913; Sept. 30, 1992, Pub. L. 102–375, title VIII, §811(a), 106 Stat. 1295; Dec. 2, 1993, Pub. L. 103–171, §3(b)(4), 107 Stat. 1991; Nov. 2, 1994, Pub. L. 103–448, title I, §§105(c), 109(b), 116, 108 Stat. 4702, 4705, 4714; Aug. 22, 1996, Pub. L. 104–193, title VII, §708(a)–(j), 110 Stat. 2293–2299.)
+&emsp;For each of fiscal years 1999 through 2003, the Secretary shall reserve to carry out paragraph (1) $1,000,000 of the amounts made available to carry out this section.
+
+#### (r) Program for at-risk school children
+
+#### (1) Definition of at-risk school child
+
+&emsp;In this subsection, the term “at-risk school child” means a school child who—
+
+&emsp;&emsp;(A) is not more than 18 years of age, except that the age limitation provided by this subparagraph shall not apply to a child described in section 1760(d)(1)(A) of this title; and
+
+&emsp;&emsp;(B) participates in a program authorized under this section operated at a site located in a geographical area served by a school in which at least 50 percent of the children enrolled are certified as eligible to receive free or reduced price school meals under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+
+#### (2) Participation in child and adult care food program
+
+&emsp;An institution may participate in the program authorized under this section only if the institution provides supplements under a program—
+
+&emsp;&emsp;(A) organized primarily to provide care to at-risk school children during after-school hours, weekends, or holidays during the regular school year; and
+
+&emsp;&emsp;(B) with an educational or enrichment purpose.
+
+#### (3) Administration
+
+&emsp;Except as otherwise provided in this subsection, the other provisions of this section apply to an institution described in paragraph (2).
+
+#### (4) Supplement reimbursement
+
+#### (A) Limitations
+
+&emsp;&emsp;An institution may claim reimbursement under this subsection only for—
+
+&emsp;&emsp;&emsp;(i) a supplement served under a program organized primarily to provide care to at-risk school children during after-school hours, weekends, or holidays during the regular school year; and
+
+&emsp;&emsp;&emsp;(ii) one supplement per child per day.
+
+#### (B) Rate
+
+&emsp;&emsp;A supplement shall be reimbursed under this subsection at the rate established for a free supplement under subsection (c)(3) of this section.
+
+#### (C) No charge
+
+&emsp;&emsp;A supplement claimed for reimbursement under this subsection shall be served without charge.
+
+#### (s) Information concerning the special supplemental nutrition program for women, infants, and children
+
+#### (1) In general
+
+&emsp;The Secretary shall provide each State agency administering a child and adult care food program under this section with information concerning the special supplemental nutrition program for women, infants, and children authorized under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).
+
+#### (2) Requirements for State agencies
+
+&emsp;Each State agency shall ensure that each participating family and group day care home and child care center (other than an institution providing care to school children outside school hours)—
+
+&emsp;&emsp;(A) receives materials that include—
+
+&emsp;&emsp;&emsp;(i) a basic explanation of the importance and benefits of the special supplemental nutrition program for women, infants, and children;
+
+&emsp;&emsp;&emsp;(ii) the maximum State income eligibility standards, according to family size, for the program; and
+
+&emsp;&emsp;&emsp;(iii) information concerning how benefits under the program may be obtained;
+
+&emsp;&emsp;(B) receives periodic updates of the information described in subparagraph (A); and
+
+&emsp;&emsp;(C) provides the information described in subparagraph (A) to parents of enrolled children at enrollment.
+
+#### (t) Participation by emergency shelters
+
+#### (1) Definition of emergency shelter
+
+&emsp;In this subsection, the term “emergency shelter” means—
+
+&emsp;&emsp;(A) an emergency shelter (as defined in section 11351 of this title); or
+
+&emsp;&emsp;(B) a site operated by the shelter.
+
+#### (2) Administration
+
+&emsp;Except as otherwise provided in this subsection, an emergency shelter shall be eligible to participate in the program authorized under this section in accordance with the terms and conditions applicable to eligible institutions described in subsection (a) of this section.
+
+#### (3) Licensing requirements
+
+&emsp;The licensing requirements contained in subsection (a)(1) of this section shall not apply to an emergency shelter.
+
+#### (4) Health and safety standards
+
+&emsp;To be eligible to participate in the program authorized under this section, an emergency shelter shall comply with applicable State or local health and safety standards.
+
+#### (5) Meal or supplement reimbursement
+
+#### (A) Limitations
+
+&emsp;&emsp;An emergency shelter may claim reimbursement under this subsection—
+
+&emsp;&emsp;&emsp;(i) only for a meal or supplement served to children residing at an emergency shelter, if the children are—
+
+&emsp;&emsp;&emsp;&emsp;(I) not more than 12 years of age;
+
+&emsp;&emsp;&emsp;&emsp;(II) children of migrant workers, if the children are not more than 15 years of age; or
+
+&emsp;&emsp;&emsp;&emsp;(III) children with disabilities; and
+
+&emsp;&emsp;&emsp;(ii) for not more than 3 meals, or 2 meals and a supplement, per child per day.
+
+#### (B) Rate
+
+&emsp;&emsp;A meal or supplement eligible for reimbursement shall be reimbursed at the rate at which free meals and supplements are reimbursed under subsection (c) of this section.
+
+#### (C) No charge
+
+&emsp;&emsp;A meal or supplement claimed for reimbursement shall be served without charge.
+
+(June 4, 1946, ch. 281, §17, as added Pub. L. 94–105, §16, Oct. 7, 1975, 89 Stat. 522; amended Pub. L. 95–166, §§3, 19(d), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §2, Nov. 10, 1978, 92 Stat. 3603; Pub. L. 96–499, title II, §§207(a), 208(b), (c), Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), Aug. 13, 1981, 95 Stat. 528, 532, 534; Pub. L. 99–500, title III, §§361, 372(a), Oct. 18, 1986, 100 Stat. 1783–367, 1783–369, and Pub. L. 99–591, title III, §§361, 372(a), Oct. 30, 1986, 100 Stat. 3341–370, 3341–372; Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), Nov. 14, 1986, 100 Stat. 4079, 4080; Pub. L. 100–175, title IV, §401, Nov. 29, 1987, 101 Stat. 972; Pub. L. 100–435, title II, §§211, 214, Sept. 19, 1988, 102 Stat. 1657, 1659; Pub. L. 100–460, title VI, §641, Oct. 1, 1988, 102 Stat. 2265; Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), Nov. 10, 1989, 103 Stat. 883, 907, 909, 915, 916; Pub. L. 102–342, title II, §§202, 203, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–375, title VIII, §811(a), Sept. 30, 1992, 106 Stat. 1295; Pub. L. 103–171, §3(b)(4), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–448, title I, §§105(c), 109(b), 116, Nov. 2, 1994, 108 Stat. 4702, 4705, 4714; Pub. L. 104–193, title VII, §708(a)–(j), Aug. 22, 1996, 110 Stat. 2293–2299; Pub. L. 105–336, title I, §§101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, 112 Stat. 3144, 3149–3153.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a), (<i>o</i>)(2)(B), (5)(B), and (p)(3)(A)(ii), (B)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a)(2)(B) and (f)(3)(A)(ii)(I)(bb), (E)(ii)(I), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(2)(B), (f)(3)(A)(ii)(I)(bb), (E)(ii)(I), (q)(1), and (r)(1)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 The Head Start Act, referred to in subsec. (c)(5), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
-Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(6)(A), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6361 et seq. of Title 20.
+Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(6), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6361 et seq. of Title 20.
 
 Section 708(e)(1) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (f)(3)(D)(i)(II)(bb), is section 708(e)(1) of Pub. L. 104–193, title VII, Aug. 22, 1996, 110 Stat. 2294, which amended this section.
 
@@ -387,6 +511,42 @@ October 1, 1988, referred to in subsec. (<i>o</i>)(3)(A) \[formerly (p)(3)(A)\],
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–336, §107(j)(3)(C), substituted “children with disabilities” for “children with handicaps” in two places in introductory provisions.
+
+Pub. L. 105–336, §107(j)(2)(B), in third sentence of introductory provisions, substituted “public” for “and public” and inserted, “, and emergency shelters (as provided in subsection (t) of this section)” before period at end.
+
+Pub. L. 105–336, §107(a)(1), in fourth sentence of introductory provisions, substituted “Except as provided in subsection (r) of this section, reimbursement” for “Reimbursement”.
+
+Subsec. (a)(1). Pub. L. 105–336, §107(a)(2), added par. (1) and struck out former par. (1) which read as follows: “no institution, other than a family or group day care home sponsoring organization, or family or group day care home shall be eligible to participate in the program unless it has Federal, State, or local licensing or approval, or is complying with appropriate renewal procedures as prescribed by the Secretary and the State has no information indicating that the institution's license will not be renewed; or where Federal, State, or local licensing or approval is not available, it receives funds under title XX of the Social Security Act or otherwise demonstrates that it meets either any applicable State or local government licensing or approval standards or approval standards established by the Secretary after consultation with the Secretary of Health and Human Services; and”.
+
+Subsec. (c)(6). Pub. L. 105–336, §107(b), struck out “(A)” before “A child” and struck out subpar. (B) which read as follows: “Subparagraph (A) shall apply only with respect to the provision of benefits under this section for the period beginning September 1, 1995, and ending September 30, 1997.”
+
+Subsec. (d)(1). Pub. L. 105–336, §107(c)(1), (d), inserted “has been visited by a State agency prior to approval and it” after “if it” in second sentence, inserted “An institution moving toward compliance with the requirement for tax exempt status shall be allowed to participate in the child and adult care food program for a period of not more than 180 days, except that a State agency may grant a single extension of not to exceed an additional 90 days if the institution demonstrates, to the satisfaction of the State agency, that the inability of the institution to obtain tax exempt status within the 180-day period is due to circumstances beyond the control of the institution.” after third sentence, and struck out at end “If an institution submits an incomplete application to the State, the State shall so notify the institution within fifteen days of receipt of the application.”
+
+Subsec. (d)(2)(A). Pub. L. 105–336, §107(c)(2), substituted “policy that—” for “policy that”, inserted “(i)” before “allows institutions”, substituted “; and” for period at end, and added cl. (ii).
+
+Subsec. (h)(1)(B). Pub. L. 105–336, §101(b), substituted “1755(c)” for “1755(e)”.
+
+Subsec. (i). Pub. L. 105–336, §107(e), substituted “1.5 percent (except, in the case of each of fiscal years 2005 through 2007, 1 percent)” for “2 percent”.
+
+Subsec. (p)(4), (5). Pub. L. 105–336, §107(f), struck out pars. (4) and (5) which read as follows:
+
+“(4) Such project shall—
+
+&emsp;“(A) commence not earlier than May 1, 1990, and not later than June 30, 1990; and
+
+&emsp;“(B) terminate on September 30, 1998.
+
+“(5) Notwithstanding paragraph (4)(B), the Secretary shall continue until September 30, 1998, the two pilot projects established under this subsection to the extent, and in such amounts, as are provided for in advance in appropriations Acts.”
+
+Subsec. (q). Pub. L. 105–336, §107(g), added subsec. (q).
+
+Subsec. (r). Pub. L. 105–336, §107(h), added subsec. (r).
+
+Subsec. (s). Pub. L. 105–336, §107(i), added subsec. (s).
+
+Subsec. (t). Pub. L. 105–336, §107(j)(1), added subsec. (t).
 
 1996—Subsec. (a). Pub. L. 104–193, §708(a), substituted “initiate and maintain nonprofit food service programs” for “initiate, maintain, and expand nonprofit food service programs” in first sentence.
 
@@ -552,7 +712,7 @@ Subsec. (h). Pub. L. 95–627 substituted provisions relating to donations of ag
 
 Subsec. (i). Pub. L. 95–627 substituted provisions relating to information required from State plans for provisions requiring adequate accounts and general record-keeping by States, State educational agencies, and participating institutions.
 
-Subsec. (j). Pub. L. 95–627 substituted provisions relating to the availability of Federal funds to the Statesfor audits of participating institutions for provisions relating to food service equipment assistance and the apportionment of unused funds.
+Subsec. (j). Pub. L. 95–627 substituted provisions relating to the availability of Federal funds to the States for audits of participating institutions for provisions relating to food service equipment assistance and the apportionment of unused funds.
 
 Subsec. (k). Pub. L. 95–627 substituted provisions relating to the use of a standard form of agreement and the issuance of regulations pertaining to such use for provisions relating to the issuance of rules and regulations to carry out this section by the Secretary.
 
@@ -561,6 +721,12 @@ Subsecs. (<i>l</i>) to (r). Pub. L. 95–627 added subsecs. (<i>l</i>) to (r).
 1977—Subsec. (e). Pub. L. 95–166, §19(d), substituted in last sentence “school year” for “fiscal year” in three instances.
 
 Subsec. (j)(1). Pub. L. 95–166, §3, substituted “food service equipment assistance” for “nonfood assistance”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 107(j)(1), (2)(B) of Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of Pub. L. 105–336, set out as a note under section 1761 of this title.
+
+Amendment by sections 101(b) and 107(a)–(i), (j)(3)(C) of Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -688,7 +854,7 @@ Section 503 of Pub. L. 100–435, as amended by Pub. L. 101–147, title I, §10
 
 Section 330(b) of title III of Pub. L. 99–500 and Pub. L. 99–591 and section 4210(b) of Pub. L. 99–661 provided that:
 
-“(1) The Secretary of Agriculture shall review and revise the nutrition requirements for meals served under the breakfast program authorized under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and section 17 of the National School Lunch Act (42 U.S.C. 1766) to improve the nutritional quality of the meals, taking into consideration both the findings of the National Evaluation of School Nutrition Programs and the need to provide increased flexibility in meal planning to local food authorities.
+“(1) The Secretary of Agriculture shall review and revise the nutrition requirements for meals served underthe breakfast program authorized under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and section 17 of the National School Lunch Act (42 U.S.C. 1766) to improve the nutritional quality of the meals, taking into consideration both the findings of the National Evaluation of School Nutrition Programs and the need to provide increased flexibility in meal planning to local food authorities.
 
 “(2) Not later than 180 days after the date of enactment of this title \[Oct. 18, 1986\], the Secretary of Agriculture shall promulgate regulations to implement the revisions.”
 
@@ -698,7 +864,7 @@ Section 208(a) of Pub. L. 96–499 related to adjustments required under the for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1752, 1759a, 1760, 1766a, 1766b, 1769, 1769f, 1773, 1776, 1788 of this title.
+This section is referred to in sections 1752, 1758, 1759a, 1760, 1766a, 1769f, 1773, 1776 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

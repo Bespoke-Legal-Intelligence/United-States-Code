@@ -6,7 +6,7 @@ There is hereby established at the seat of government an executive department to
 
 #### (b) General duties of Secretary
 
-The Secretary shall, among his responsibilities, advise the President with respect to Federal programs and activities relating to housing and urban development; develop and recommend to the President policies for fostering the orderly growth and development of the Nation's urban areas; exercise leadership at the direction of the President in coordinating Federal activities affecting housing and urban development; provide technical assistance and information, including a clearinghouse service to aid State, county, town, village, or other local governments in developing solutions to community and metropolitan development problems; consult and cooperate with State Governors and State agencies, including, when appropriate, holding informal public hearings, with respect to Federal and State programs for assistingcommunities in developing solutions to community and metropolitan development problems and for encouraging effective regional cooperation in the planning and conduct of community and metropolitan development programs and projects; encourage comprehensive planning by the State aud <sup>1</sup> local governments with a view to coordinating Federal, State, and local urban and community development activities; encourage private enterprise to serve as large a part of the Nation's total housing and urban development needs as it can and develop the fullest cooperation with private enterprise in achieving the objectives of the Department; and conduct continuing comprehensive studies, and make available findings, with respect to the problems of housing and urban development.
+The Secretary shall, among his responsibilities, advise the President with respect to Federal programs and activities relating to housing and urban development; develop and recommend to the President policies for fostering the orderly growth and development of the Nation's urban areas; exercise leadership at the direction of the President in coordinating Federal activities affecting housing and urban development; provide technical assistance and information, including a clearinghouse service to aid State, county, town, village, or other local governments in developing solutions to community and metropolitan development problems; consult and cooperate with State Governors and State agencies, including, when appropriate, holding informal public hearings, with respect to Federal and State programs for assisting communities in developing solutions to community and metropolitan development problems and for encouraging effective regional cooperation in the planning and conduct of community and metropolitan development programs and projects; encourage comprehensive planning by the State aud <sup>1</sup> local governments with a view to coordinating Federal, State, and local urban and community development activities; encourage private enterprise to serve as large a part of the Nation's total housing and urban development needs as it can and develop the fullest cooperation with private enterprise in achieving the objectives of the Department; and conduct continuing comprehensive studies, and make available findings, with respect to the problems of housing and urban development.
 
 #### (c) Denial or limitation of benefits of departmental programs, functions, or activities on basis of population or corporate status of community
 
@@ -22,7 +22,7 @@ The Secretary shall—
 
 &emsp;(3) provide, whenever possible, for the consolidation of periodic reports required under programs referred to in paragraph (1) into one summary report submitted at such intervals as may be designated by the Secretary.
 
-(Pub. L. 89–174, §3, Sept. 9, 1965, 79 Stat. 667; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 100–242, title VII, §705, Feb. 5, 1988, 101 Stat. 1963.)
+(Pub. L. 89–174, §3, Sept. 9, 1965, 79 Stat. 667; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub.L. 100–242, title VII, §705, Feb. 5, 1988, 101 Stat. 1963.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ Nomination and appointment of Secretary of Housing and Urban Development any tim
 
 #### Order of Succession
 
-For order of succession in event of vacancy in office of Secretary, or during his absence or disability, see Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of vacancy in office of Secretary, or during his absence or disability, see Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Office of Lead Based Paint Abatement and Poisoning Prevention
 
@@ -64,7 +64,7 @@ WHEREAS our Nation has become predominantly urban in character and is confronted
 
 WHEREAS the living standards and general welfare of its people depend upon the solution of the problems of urban life; and
 
-WHEREAS the Congress has provided in the Department of Housing and Urban Development Act \[seeShort Title note under section 3531 of this title\] that the Secretary of Housing and Urban Development (hereinafter referred to as the Secretary) shall “advise the President with respect to Federal programs and activities relating to housing and urban development; develop and recommend to the President policies for fostering the orderly growth and development of the Nation's urban areas; and exercise leadership at the direction of the President in coordinating Federal activities affecting housing and urban development”; and
+WHEREAS the Congress has provided in the Department of Housing and Urban Development Act \[see Short Title note under section 3531 of this title\] that the Secretary of Housing and Urban Development (hereinafter referred to as the Secretary) shall “advise the President with respect to Federal programs and activities relating to housing and urban development; develop and recommend to the President policies for fostering the orderly growth and development of the Nation's urban areas; and exercise leadership at the direction of the President in coordinating Federal activities affecting housing and urban development”; and
 
 WHEREAS such activities are closely interrelated with other important Federal activities affecting urban areas so that there is a need for maximum consultation and cooperation among Federal departments and agencies in their administration of programs having impact on urban areas; and
 

@@ -80,7 +80,7 @@ The Secretary of the Treasury, in consultation with the Secretary of State, the 
 
 For purposes of this section, the term “multilateral development bank” means any of the institutions named in section 262m–2(b) of this title, and the International Finance Corporation.
 
-(Pub. L. 95–118, title XIII, §1307, formerly §1308, as added and renumbered §1307, Pub. L. 101–240, title V, §§521, 541(f)(4), Dec. 19, 1989, 103 Stat. 2511, 2519; Pub. L. 105–118, title V, §560(b), Nov. 26, 1997, 111 Stat. 2426.)
+(Pub. L. 95–118, title XIII, §1307, formerly §1308, as added and renumbered §1307, Pub. L. 101–240, title V, §§521, 541(f)(4), Dec. 19, 1989, 103 Stat. 2511, 2519; amended Pub. L. 105–118, title V, §560(b), Nov. 26, 1997, 111 Stat. 2426.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ A proposed report of the Conference which shall include a statement of comprehen
 
 #### (b) Response to proposed report
 
-The chief executive officers of the States, after reviewing and soliciting recommendations and comments on the proposed report of theConference, shall submit to the Secretary, not later than 180 days after receiving such report, their views and findings on the recommendations of the Conference.
+The chief executive officers of the States, after reviewing and soliciting recommendations and comments on the proposed report of the Conference, shall submit to the Secretary, not later than 180 days after receiving such report, their views and findings on the recommendations of the Conference.
 
 #### (c) Final report
 

@@ -4,7 +4,7 @@
 
 The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal year unless—
 
-&emsp;(1) the State involved submits to the Secretary a description of the purposes for whichthe State intends to expend the payments for the fiscal year;
+&emsp;(1) the State involved submits to the Secretary a description of the purposes for which the State intends to expend the payments for the fiscal year;
 
 &emsp;(2) the description identifies the populations, areas, and localities in the State with a need for the services for which amounts may be provided by the State under this part;
 
@@ -22,7 +22,7 @@ The Secretary may not make payments under section 300ee–11(a) of this title fo
 
 The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that, in developing and carrying out the description required in subsection (a) of this section, the State will provide public notice with respect to the description (including any revisions) and will facilitate comments from interested persons.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2503, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3095; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(c), 102 Stat. 4242; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2503, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3095; amended Pub. L. 100–690, title II, §2619(c), Nov. 18, 1988, 102 Stat. 4242; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Prior Provisions
 

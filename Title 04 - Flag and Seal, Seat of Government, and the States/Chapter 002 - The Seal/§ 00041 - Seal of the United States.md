@@ -6,5 +6,5 @@ The seal heretofore used by the United States in Congress assembled is declared 
 
 #### Cross References
 
-National motto, see section 186 of Title 36, Patriotic Societies and Observances.
+National motto, see section 302 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 

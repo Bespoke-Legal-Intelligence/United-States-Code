@@ -2,7 +2,7 @@
 
 Whoever pays or offers or promises any money or thing of value, to any person, firm, or corporation in consideration of the use or promise to use any influence to procure any appointive office or place under the United States for any person, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 694, §210, formerly §214; renumbered §210, Oct. 23, 1962, Pub. L. 87–849, §1(b), 76 Stat. 1125; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 694, §210, formerly §214; renumbered §210, Pub. L. 87–849, §1(b), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

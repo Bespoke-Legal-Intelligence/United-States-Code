@@ -42,7 +42,7 @@ Investigations.—
 
 &emsp;&emsp;(A)
 
-Reasonableness.—The Board may suspend and investigate the reasonableness of any rate, rule, classification, or rate adjustment of general application made pursuant to an agreement under this section.
+Reasonableness.—The Board may suspend and investigate the reasonableness ofany rate, rule, classification, or rate adjustment of general application made pursuant to an agreement under this section.
 
 &emsp;&emsp;(B)
 
@@ -126,7 +126,7 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28),Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204.)
 
 #### Historical and Revision Notes
 

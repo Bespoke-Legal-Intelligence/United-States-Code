@@ -87,6 +87,7 @@
 | [1977\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001977%20-%20Veterans%E2%80%99%20Group%20Life%20Insurance.md) | Veterans’ Group Life Insurance. |
 | [1978\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001978%20-%20Reinstatement.md) | Reinstatement. |
 | [1979\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001979%20-%20Incontestability.md) | Incontestability. |
+| [1980\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001980%20-%20Option%20to%20receive%20accelerated%20death%20benefit.md) | Option to receive accelerated death benefit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -106,6 +107,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–368, title III, §302(a)(2), Nov. 11, 1998, 112 Stat. 3333, added item 1980.
 
 1996—Pub. L. 104–275, title IV, §405(b)(3), Oct. 9, 1996, 110 Stat. 3339, substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN'S GROUP” in subchapter III heading and “Servicemembers’ Group” for “Servicemen's Group” in item 1974.
 

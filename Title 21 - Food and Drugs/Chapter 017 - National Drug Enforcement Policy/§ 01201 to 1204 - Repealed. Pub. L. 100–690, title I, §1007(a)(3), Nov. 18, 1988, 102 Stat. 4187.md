@@ -10,7 +10,7 @@ Section 1204, Pub. L. 98–473, title II, §1305, Oct. 12, 1984, 98 Stat. 2170, 
 
 #### Effective Date of Repeal
 
-Section 1007(a)(3) of Pub. L. 100–690 provided that the repeal of this chapter is effective on 30th day after first Director of National Drug Control Policy is confirmed by the Senate. See section 1501 et seq. of this title.
+Section 1007(a)(3) of Pub. L. 100–690 provided that the repeal of this chapter is effective on 30th day after first Director of National Drug Control Policy is confirmed by the Senate.
 
 #### Short Title
 

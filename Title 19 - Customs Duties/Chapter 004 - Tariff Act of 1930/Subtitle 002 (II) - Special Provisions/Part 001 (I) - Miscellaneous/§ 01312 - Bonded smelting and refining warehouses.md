@@ -18,7 +18,7 @@ The several charges against such bond may be canceled in whole or in part—
 
 &emsp;(3) upon the transfer of the bond charges to another bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, or
 
-&emsp;(4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+&emsp;(4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product ofsmelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
 
 &emsp;&emsp;(A) the total amount of customs duties owed on the materials on importation into the United States, or
 
@@ -58,13 +58,13 @@ For purposes of this section—
 
 &emsp;&emsp;(B) for the treatment of unwrought metal or metal waste and scrap to remove impurities or undesired components; and
 
-&emsp;(3) the term “product of smelting or refining” means metals or metal-bearing materials resulting directly from smelting or refining processes, but does not include metal-bearing ores of chapter 26 of the Harmonized Tariff Schedule of the United States.
+&emsp;(3) the term “product of smelting or refining” means metals or metal-bearing materialsresulting directly from smelting or refining processes, but does not include metal-bearing ores of chapter 26 of the Harmonized Tariff Schedule of the United States.
 
 #### (g) Supervision and cost of labor under this section
 
-Labor performed and services rendered pursuant to this section shall be under the supervision of an officer of the customs, to be appointed by the Secretary of the Treasury and at the expense of the manufacturer. The Secretary of the Treasury is authorized to make such rulesand regulations as may be necessary to carry out the provisions of this section.
+Labor performed and services rendered pursuant to this section shall be under the supervision of an officer of the customs, to be appointed by the Secretary of the Treasury and at the expense of the manufacturer. The Secretary of the Treasury is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
 
-(June 17, 1930, ch. 497, title III, §312, 46 Stat. 692; May 24, 1962, Pub. L. 87–456, title III, §301(b), 76 Stat. 75; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(h)(1), 102 Stat. 1157; Sept. 28, 1988, Pub. L. 100–449, title II, §204(c)(2), 102 Stat. 1862; Dec. 8, 1993, Pub. L. 103–182, title II, §203(b)(2), 107 Stat. 2088.
+(June 17, 1930, ch. 497, title III, §312, 46 Stat. 692; Pub. L. 87–456, title III, §301(b), May 24, 1962, 76 Stat. 75; Pub. L. 100–418, title I, §1214(h)(1), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 100–449, title II, §204(c)(2), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 103–182, title II, §203(b)(2), Dec. 8, 1993, 107 Stat. 2088.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the U
 
 #### Effective and Termination Dates of 1988 Amendments
 
-Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 

@@ -12,5 +12,5 @@ The costs of all decontamination and decommissioning activities of the Departmen
 
 The annual cost of remedial action at the Department's gaseous diffusion facilities shall be paid from the Fund to the extent the amount available in the Fund is sufficient. To the extent the amount in the Fund is insufficient, the Department shall be responsible for the cost of remedial action. No provision of this division may be construed to relieve in any way the responsibility or liability of the Department for remedial action under applicable Federal and State laws and regulations.
 
-(Aug. 1, 1946, ch. 724, title II, §1803, as added Oct. 24, 1992, Pub. L. 102–486, title XI, §1101, 106 Stat. 2954.)
+(Aug. 1, 1946, ch. 724, title II, §1803, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2954.)
 

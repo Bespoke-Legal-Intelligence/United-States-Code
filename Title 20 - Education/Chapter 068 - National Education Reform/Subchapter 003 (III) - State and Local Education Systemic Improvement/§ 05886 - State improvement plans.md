@@ -14,7 +14,7 @@ Each State educational agency, with broad-based classroom teacher input, shall e
 
 &emsp;(1) shall include—
 
-&emsp;&emsp;(A) a process for developing or adopting State content standards and State student performance standards for all students, which process shall include coordinating the standards developed pursuant to section 115 of the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2325\];
+&emsp;&emsp;(A) a process for developing or adopting State content standards and State student performance standards for all students, which process shall include coordinating the standards developed pursuant to section 115 of the Carl D. Perkins Vocational and Applied Technology Education Act; <sup>1</sup>
 
 &emsp;&emsp;(B) a process for developing and implementing valid, nondiscriminatory, and reliable State assessments—
 
@@ -194,13 +194,13 @@ Each State improvement plan shall include a process for periodically reviewing a
 
 #### (2) Special rule
 
-&emsp;(A) <sup>1</sup> If, before March 31, 1994, a State has made substantial progress in developing a plan that meets the intent and purposes of this section, but was developed by a panel that does not meet the requirements of paragraphs (1) through (3) <sup>2</sup> of subsection (b) of this section, the Secretary may, at the request of the Governor and the State educational agency, treat such panel as meeting the requirements of this subchapter if the Secretary determines that there has been statewide involvement of educators, parents, students, advocacy groups, and other interested members of the public in the development of the plan.
+&emsp;(A) <sup>2</sup> If, before March 31, 1994, a State has made substantial progress in developing a plan that meets the intent and purposes of this section, but was developed by a panel that does not meet the requirements of paragraphs (1) through (3) <sup>3</sup> of subsection (b) of this section, the Secretary may, at the request of the Governor and the State educational agency, treat such panel as meeting the requirements of this subchapter if the Secretary determines that there has been statewide involvement of educators, parents, students, advocacy groups, and other interested members of the public in the development of the plan.
 
 (Pub. L. 103–227, title III, §306, Mar. 31, 1994, 108 Stat. 160; Pub. L. 104–134, title I, §101(d) \[title VII, §§702(a), 703(a)(9), 705(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (<i>l</i>), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (c)(1)(A) and (<i>l</i>), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. Section 115 of the Act was classified to section 2325 of this title prior to the general amendment of Pub. L. 88–210 by Pub. L. 105–332. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 Subsection (b) of this section, referred to in subsec. (q)(2)(A), was amended generally by Pub. L. 104–134, title I, §101(d) \[title VII, §702(a)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, and, as so amended, no longer contains pars. (1) through (3).
 
@@ -218,7 +218,9 @@ Subsec. (<i>o</i>). Pub. L. 104–134, §101(d) \[title VII, §703(a)(9)\], stru
 
 This section is referred to in sections 5885, 5887, 5888, 5890, 5891, 5892, 5894, 5895, 5897 of this title.
 
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 &emsp;(4) The term “consignee” means a consignee as defined in section 1483 <sup>1</sup> of this title.
 
-&emsp;(5) The term “Convention” means the Convention on the means of prohibiting and preventing the illicit import, export, and transfer of ownership of cultural property adopted by the General Conference of the United NationsEducational, Scientific, and Cultural Organization at its sixteenth session.
+&emsp;(5) The term “Convention” means the Convention on the means of prohibiting and preventing the illicit import, export, and transfer of ownership of cultural property adopted by the General Conference of the United Nations Educational, Scientific, and Cultural Organization at its sixteenth session.
 
 &emsp;(6) The term “cultural property” includes articles described in article 1(a) through (k) of the Convention whether or not any such article is specifically designated as such by any State Party for the purposes of such article.
 
@@ -72,7 +72,7 @@ Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97�
 
 #### Codification
 
-Section 2605 of this title, referred to in par. (3), was in original “section 206” and was translated as section 2605 of this title, which is section 306 of Pub. L. 97–446, as the probable intent of Congress.
+Section 2605 of this title, referred to in par. (3), was in original “section 206” and was translated as section2605 of this title, which is section 306 of Pub. L. 97–446, as the probable intent of Congress.
 
 #### Effective Date
 

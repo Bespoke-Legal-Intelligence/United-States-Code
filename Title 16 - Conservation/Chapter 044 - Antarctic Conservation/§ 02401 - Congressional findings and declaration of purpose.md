@@ -16,7 +16,7 @@ The Congress finds that—
 
 #### (b) Purpose
 
-The purpose of this chapter is to provide for the conservation and protection of the fauna and flora of Antarctica, and of the ecosystem upon which such fauna and flora depend, consistent with the Antarctic Treaty and the Protocol.
+The purpose of this chapter is to provide for the conservation and protection of the faunaand flora of Antarctica, and of the ecosystem upon which such fauna and flora depend, consistent with the Antarctic Treaty and the Protocol.
 
 (Pub. L. 95–541, §2, Oct. 28, 1978, 92 Stat. 2048; Pub. L. 104–227, title I, §101, Oct. 2, 1996, 110 Stat. 3034.)
 

@@ -16,7 +16,7 @@
 
 &emsp;expenses authorized in writing by the Joint Committee on Printing for inspection of Government printing activities.
 
-> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by him and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
+> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair andreasonable values as jointly determined by him and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
 
 (b) The fund shall be—
 

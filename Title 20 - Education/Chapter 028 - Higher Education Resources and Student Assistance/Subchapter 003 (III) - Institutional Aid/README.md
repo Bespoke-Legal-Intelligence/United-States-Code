@@ -6,7 +6,7 @@ Title III of the Higher Education Act of 1965, comprising this subchapter, was o
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1132i–2, 1134r, 7476 of this title.
+This subchapter is referred to in section 7476 of this title.
 
 
 ---
@@ -17,4 +17,6 @@ This subchapter is referred to in sections 1132i–2, 1134r, 7476 of this title.
 - [Part A - Strengthening Institutions](Part%20A%20-%20Strengthening%20Institutions/README.md)
 - [Part B - Strengthening Historically Black Colleges and Universities](Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/README.md)
 - [Part C - Endowment Challenge Grants for Institutions Eligible for Assistance under Part a or Part B](Part%20C%20-%20Endowment%20Challenge%20Grants%20for%20Institutions%20Eligible%20for%20Assistance%20under%20Part%20a%20or%20Part%20B/README.md)
-- [Part D - General Provisions](Part%20D%20-%20General%20Provisions/README.md)
+- [Part D - Historically Black College and University Capital Financing](Part%20D%20-%20Historically%20Black%20College%20and%20University%20Capital%20Financing/README.md)
+- [Part E - Minority Science and Engineering Improvement Program](Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/README.md)
+- [Part F - General Provisions](Part%20F%20-%20General%20Provisions/README.md)

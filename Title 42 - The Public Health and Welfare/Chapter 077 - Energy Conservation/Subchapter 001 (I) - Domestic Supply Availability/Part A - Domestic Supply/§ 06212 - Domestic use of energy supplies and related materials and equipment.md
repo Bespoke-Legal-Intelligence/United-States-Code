@@ -6,7 +6,7 @@ The President may, by rule, under such terms and conditions as he determines to 
 
 &emsp;(1) coal, petroleum products, natural gas, or petrochemical feedstocks, and
 
-&emsp;(2) supplies of materials or equipment which he determines to be necessary (A) to maintain or further exploration, production, refining, ortransportation of energy supplies, or (B) for the construction or maintenance of energy facilities within the United States.
+&emsp;(2) supplies of materials or equipment which he determines to be necessary (A) to maintain or further exploration, production, refining, or transportation of energy supplies, or (B) for the construction or maintenance of energy facilities within the United States.
 
 #### (b) Exemptions
 
@@ -20,7 +20,7 @@ In order to implement any rule promulgated under subsection (a) of this section,
 
 #### (d) Restrictions and national interest
 
-Any finding by the President pursuant to subsection (a) or (b) of this section and any action taken by the Secretary of Commerce pursuant thereto shall take into account the national interest as related to the need to leave uninterrupted or unimpaired—
+Any finding by the President pursuant to subsection (a) or (b) of this section and any action taken by the Secretary of Commerce pursuantthereto shall take into account the national interest as related to the need to leave uninterrupted or unimpaired—
 
 &emsp;(1) exchanges in similar quantity for convenience or increased efficiency of transportation with persons or the government of a foreign state,
 
@@ -43,6 +43,8 @@ The President shall submit quarterly reports to the Congress concerning the admi
 (Pub. L. 94–163, title I, §103, Dec. 22, 1975, 89 Stat. 877; Pub. L. 96–72, §22(b)(1), Sept. 29, 1979, 93 Stat. 535.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a), (b), and (e)(3), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
 

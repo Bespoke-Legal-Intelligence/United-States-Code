@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
 
-&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) afterreasonable efforts by the employer to qualify the person.
+&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
 &emsp;(2) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for more than 90 days—
 
@@ -50,5 +50,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4312, 4314, 4315 of this title; title 2 section 1316; title 3 section 416.
+This section is referred to in sections 4312, 4314, 4315, 4319 of this title; title 2 section 1316; title 3 section 416.
 

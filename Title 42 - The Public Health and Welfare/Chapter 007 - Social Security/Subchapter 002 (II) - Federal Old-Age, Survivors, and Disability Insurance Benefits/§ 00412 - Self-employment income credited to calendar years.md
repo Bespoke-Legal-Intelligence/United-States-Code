@@ -14,7 +14,7 @@
 
 > For purposes of clause (2), the calendar month in which a taxable year ends shall be treated as included completely within that taxable year.
 
-(Aug. 14, 1935, ch. 531, title II, §212, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 504; amended Dec. 20, 1977, Pub. L. 95–216, title III, §351(b), 91 Stat. 1549.)
+(Aug. 14, 1935, ch. 531, title II, §212, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 504; amended Pub. L. 95–216, title III, §351(b), Dec. 20, 1977, 91 Stat. 1549.)
 
 #### Amendments
 

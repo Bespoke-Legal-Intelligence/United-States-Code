@@ -114,9 +114,9 @@ A principal is liable for penalties and assessments under subsection (a) of this
 
 #### (<i>l</i>) Protection of ongoing criminal investigations
 
-As soon as the Inspector General, Social Security Administration, has reason to believe that fraud was involved in the application of an individual for monthly insurance benefits under subchapter II of this chapter or for benefits undersubchapter XVI of this chapter, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
+As soon as the Inspector General, Social Security Administration, has reason to believe thatfraud was involved in the application of an individual for monthly insurance benefits under subchapter II of this chapter or for benefits under subchapter XVI of this chapter, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
 
-(Aug. 14, 1935, ch. 531, title XI, §1129, as added and amended Aug. 15, 1994, Pub. L. 103–296, title I, §108(b)(10)(A), title II, §206(b)(1), (e)(1), 108 Stat. 1483, 1509, 1515.)
+(Aug. 14, 1935, ch. 531, title XI, §1129, as added and amended Pub. L. 103–296, title I, §108(b)(10)(A), title II, §206(b)(1), (e)(1), Aug. 15, 1994, 108 Stat. 1483, 1509, 1515.)
 
 #### References in Text
 

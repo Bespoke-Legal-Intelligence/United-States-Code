@@ -18,11 +18,21 @@
 
 &emsp;(2) the number of career appointees awarded the rank of Distinguished Executive may not exceed 1 percent of the Senior Executive Service.
 
-(e)(1) Receipt by a career appointee of the rank of Meritorious Executive entitles such individual to a lump-sum payment of $10,000, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title.
+(e)(1) Receipt by a career appointee of the rank of Meritorious Executive entitles such individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title.
 
-(2) Receipt by a career appointee of the rank of Distinguished Executive entitles the individual to a lump-sum payment of $20,000, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title.
+(2) Receipt by a career appointee of the rank of Distinguished Executive entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title.
 
-(Added Pub. L. 95–454, title IV, §406(a), Oct. 13, 1978, 92 Stat. 1170.)
+(Added Pub. L. 95–454, title IV, §406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §631(a), (b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
+
+#### Amendments
+
+1998—Subsec. (e)(1). Pub. L. 105–277, §101(h) \[title VI, §631(a)\], substituted “an amount equal to 20 percent of annual basic pay” for “$10,000”.
+
+Subsec. (e)(2). Pub. L. 105–277, §101(h) \[title VI, §631(b)\], substituted “an amount equal to 35 percent of annual basic pay” for “$20,000”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §631(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
 
 #### Effective Date
 

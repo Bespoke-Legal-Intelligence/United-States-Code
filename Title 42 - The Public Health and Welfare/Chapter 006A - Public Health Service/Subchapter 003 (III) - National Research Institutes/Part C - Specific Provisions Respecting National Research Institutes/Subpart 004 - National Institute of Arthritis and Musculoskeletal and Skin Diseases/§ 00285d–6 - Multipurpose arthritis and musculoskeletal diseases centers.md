@@ -48,7 +48,7 @@ Support of a center under this section may be for a period of not to exceed five
 
 Not later than October 1, 1993, the Director shall establish a multipurpose arthritis and musculoskeletal disease center for the purpose of expanding the level of research into the cause, diagnosis, early detection, prevention, control, and treatment of, and rehabilitation of children with arthritis and musculoskeletal diseases.
 
-(July 1, 1944, ch. 373, title IV, §441, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 851; amendedNov. 4, 1988, Pub. L. 100–607, title I, §137, 102 Stat. 3056; June 10, 1993, Pub. L. 103–43, title VII, §701(c), 107 Stat. 162.)
+(July 1, 1944, ch. 373, title IV, §441, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 851; amended Pub. L. 100–607, title I, §137, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 103–43, title VII, §701(c), June 10, 1993, 107 Stat. 162.)
 
 #### Amendments
 

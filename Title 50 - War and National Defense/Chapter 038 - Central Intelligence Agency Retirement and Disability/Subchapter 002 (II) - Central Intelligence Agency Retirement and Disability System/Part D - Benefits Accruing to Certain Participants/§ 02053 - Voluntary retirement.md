@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 233 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048, related to voluntary retirement and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 233 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048, related to voluntary retirement and was set out as a note under section 403 of this titleprior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

@@ -16,7 +16,3 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 A prior section 232 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432 as amended by Pub. L. 87–565, pt. I, §105, Aug. 1, 1962, 76 Stat. 257; Pub. L. 88–633, pt. I, §104, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 90–137, pt. I, §105, Nov. 14, 1967, 81 Stat. 451, authorized appropriations for surveys of investment opportunities, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-

@@ -70,7 +70,7 @@ TABLE 1
 
 (2) Any reference in this subpart to “next higher classification” or comparable terms shall be considered a reference to the classification related to the next higher set of design values in table 1.
 
-(July 14, 1955, ch. 360, title I, §181, as added Nov. 15, 1990, Pub. L. 101–549, title I, §103, 104 Stat. 2423.)
+(July 14, 1955, ch. 360, title I, §181, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2423.)
 
 #### Exemptions for Stripper Wells
 
@@ -84,7 +84,7 @@ Section 819 of Pub. L. 101–549 provided that: “Notwithstanding any other pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7509a, 7511a, 7511d, 7521, 7545, 7607 of this title.
+This section is referred to in sections 7509a, 7511a, 7511b, 7511d, 7521, 7545, 7607 of this title; title 23 section 149.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “terms”.</i>
 

@@ -2,7 +2,7 @@
 
 In times of war or national emergency, the Commandant may order any enlisted member on the retired list to active duty.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 522; Aug. 3, 1950, ch. 536, §18, 64 Stat. 407; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 522; Aug. 3, 1950, ch. 536, §18, 64 Stat. 407; Pub. L. 98–557, §15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 

@@ -40,7 +40,7 @@
 
 (d) Copies of instruments granting easements over public lands under this section shall be furnished to the Secretary of the Interior.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(38), 98 Stat. 2624; Sept. 23, 1996, Pub. L. 104–201, div. B, title XXVIII, §2861, 110 Stat. 2804.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804.)
 
 Historical and Revision Notes
 

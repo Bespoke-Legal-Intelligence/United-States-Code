@@ -2,7 +2,7 @@
 
 Every contract between the Department of Housing and Urban Development and any person or local body (including any corporation or public or private agency or body) for a loan, advance, grant, or contribution under the United States Housing Act of 1937, as amended \[42 U.S.C. 1437 et seq.\], the Housing Act of 1949, as amended \[42 U.S.C. 1441 et seq.\], or any other Act shall provide that such person or local body shall keep such records as the Department of Housing and Urban Development shall from time to time prescribe, including records which permit a speedy and effective audit and will fully disclose the amount and the disposition by such person or local body of the proceeds of the loan, advance, grant, or contribution, or any supplement thereto, the capital cost of any construction project for which any such loan, advance, grant, or contribution is made, and the amount of any private or other non-Federal funds used or grants-in-aid made for or in connection with any such project. No mortgage covering new or rehabilitated multifamily housing (as defined in section 1715r of title 12) shall be insured unless the mortgagor certifies that he will keep such records as are prescribed by the Secretary of Housing and Urban Development at the time of the certification and that they will be kept in such form as to permit a speedy and effective audit. The Department of Housing and Urban Development and the Comptroller General of the United States shall have access to and the right to examine and audit such records. This section shall become effective on the first day after the first full calendar month following the date of approval of the Housing Act of 1961.
 
-(Aug. 2, 1954, ch. 649, title VIII, §814, 68 Stat. 647; June 30, 1961, Pub. L. 87–70, title IX, §908, 75 Stat. 191; May 25, 1967, Pub. L. 90–19, §10(h), 81 Stat. 23.)
+(Aug. 2, 1954, ch. 649, title VIII, §814, 68 Stat. 647; Pub. L. 87–70, title IX, §908, June 30, 1961, 75Stat. 191; Pub. L. 90–19, §10(h), May 25, 1967, 81 Stat. 23.)
 
 #### References in Text
 
@@ -20,7 +20,7 @@ Section was formerly classified to sections 1446 of this title and 1715s of Titl
 
 #### Amendments
 
-1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner” in second sentence and “Department ofHousing and Urban Development” for “Housing and Home Finance Agency (or any official or constituent thereof)” and “Housing and Home Finance Agency (or such official or constituent thereof)” in first sentence and for “Housing and Home Finance Agency or any official or constituent agency thereof” in third sentence, respectively.
+1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner” in second sentence and “Department of Housing and Urban Development” for “Housing and Home Finance Agency (or any official or constituent thereof)” and “Housing and Home Finance Agency (or such official or constituent thereof)” in first sentence and for “Housing and Home Finance Agency or any official or constituent agency thereof” in third sentence, respectively.
 
 1961—Pub. L. 87–70 required record keeping provisions in contracts under the Housing Act of 1949 and in contracts under any other act, prohibited insurance of mortgages covering new or rehabilitated multifamily housing unless the mortgagor certifies that he will keep records, and empowered the Comptroller General to examine and audit records, and substituted “Housing Act of 1961” for “Housing Act of 1954”.
 

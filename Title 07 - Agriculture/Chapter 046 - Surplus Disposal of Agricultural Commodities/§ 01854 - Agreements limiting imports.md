@@ -2,7 +2,7 @@
 
 The President may, whenever he determines such action appropriate, negotiate with representatives of foreign governments in an effort to obtain agreements limiting the export from such countries and the importation into the United States of any agricultural commodity or product manufactured therefrom or textiles or textile products, and the President is authorized to issue regulations governing the entry or withdrawal from warehouse of any such commodity, product, textiles, or textile products to carry out any such agreement. In addition, if a multilateral agreement, including but not limited to the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of title 19, has been or is concluded under the authority of this section among countries accounting for a significant part of world trade in the articles with respect to which the agreement was concluded, the President may also issue, in order to carry out such agreement, regulations governing the entry or withdrawal from warehouse of the same articles which are the products of countries not parties to the agreement, or countries to which the United States does not apply the agreement. Nothing herein shall affect the authority provided under section 624 of this title.
 
-(May 28, 1956, ch. 327, title II, §204, 70 Stat. 200; June 19, 1962, Pub. L. 87–488, 76 Stat. 104; Dec. 8, 1994, Pub. L. 103–465, title III, §332, 108 Stat. 4947; Oct. 11, 1996, Pub. L. 104–295, §20(c)(8), 110 Stat. 3528.)
+(May 28, 1956, ch. 327, title II, §204, 70 Stat. 200; Pub. L. 87–488, June 19, 1962, 76 Stat. 104; Pub. L. 103–465, title III, §332, Dec. 8, 1994, 108 Stat. 4947; Pub. L. 104–295, §20(c)(8), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Section 1. The Secretary of the Treasury, with the concurrence of the Secretary 
 
 (a) to prevent the importation into the Customs Territory of the United States, except for the Commonwealth of Puerto Rico, of certain cheeses, originating in member states of the European Communities, upon which restitution payments have been made for export to (1) Puerto Rico, the Virgin Islands, other United States possessions and territories or (2) any country other than the United States;
 
-(b) to prevent the importation of such cheeses into the Commonwealth of Puerto Rico if such cheeses are imported into the Commonwealth of Puerto Rico for transshipment to other areas of the Customs Territory of the United States.
+(b) to prevent the importation of such cheeses into the Commonwealth of Puerto Rico if such cheeses areimported into the Commonwealth of Puerto Rico for transshipment to other areas of the Customs Territory of the United States.
 
 Sec. 2. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of issuing regulations delegated to the Secretary of the Treasury by Section 1 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
 

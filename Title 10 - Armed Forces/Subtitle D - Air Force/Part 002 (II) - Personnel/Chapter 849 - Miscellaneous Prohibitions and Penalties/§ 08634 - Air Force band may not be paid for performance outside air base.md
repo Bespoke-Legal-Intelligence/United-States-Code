@@ -12,7 +12,7 @@ Recordings.—(1) Any Air Force band designated as a special band may produce re
 
 (3) The Secretary of the Air Force shall prescribe regulations governing the accounting of such proceeds.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 532; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §327(c), 104 Stat. 1532.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 532; Pub. L. 101–510, div. A, title III, §327(c), Nov. 5, 1990, 104 Stat. 1532.)
 
 Historical and Revision Notes
 
@@ -37,8 +37,4 @@ The last six words are substituted for 10:905 (last 14 words).
 #### American Revolution Bicentennial; Recordings for Commercial Sale
 
 Authorization for Air Force Band to participate in the production of a collection of recordings for commercial sale in connection with the American Revolution Bicentennial, and for Secretary of Defense to enter into contracts for the production and sale of the collection of recordings, see Pub. L. 93–571, Dec. 31, 1974, 88 Stat. 1868, set out as a note under section 3634 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 974 of this title.
 

@@ -4,7 +4,7 @@
 
 Promoting Safety.—The Administrator of the Federal Aviation Administration shall promote safe flight of civil aircraft in air commerce by prescribing—
 
-&emsp;(1) minimum standards required in the interest of safety for appliances and for the design, material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers;
+&emsp;(1) minimum standards required in the interest of safety for appliances and for the design,material, construction, quality of work, and performance of aircraft, aircraft engines, and propellers;
 
 &emsp;(2) regulations and minimum standards in the interest of safety for—
 
@@ -30,7 +30,7 @@ Prescribing Minimum Safety Standards.—The Administrator may prescribe minimum 
 
 (c)
 
-Reducing and Eliminating Accidents.—The Administrator shall carry out this chapterin a way that best tends to reduce or eliminate the possibility or recurrence of accidents in air transportation. However, the Administrator is not required to give preference either to air transportation or to other air commerce in carrying out this chapter.
+Reducing and Eliminating Accidents.—The Administrator shall carry out this chapter in a way that best tends to reduce or eliminate the possibility or recurrence of accidents in air transportation. However, the Administrator is not required to give preference either to air transportation or to other air commerce in carrying out this chapter.
 
 (d)
 
@@ -137,6 +137,98 @@ This amends 49:44701(d) and (e) to correct erroneous cross-references.
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Aviation Medical Assistance
+
+Pub. L. 105–170, Apr. 24, 1998, 112 Stat. 47, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Aviation Medical Assistance Act of 1998’.
+
+#### “SEC. 2. MEDICAL KIT EQUIPMENT AND TRAINING.
+
+“Not later than 1 year after the date of the enactment of this Act \[Apr. 24, 1998\], the Administrator of the Federal Aviation Administration shall reevaluate regulations regarding: (1) the equipment required to be carried in medical kits of aircraft operated by air carriers; and (2) the training required of flight attendants in the use of such equipment, and, if the Administrator determines that such regulations should be modified as a result of such reevaluation, shall issue a notice of proposed rulemaking to modify such regulations.
+
+#### “SEC. 3. REPORTS REGARDING DEATHS ON AIRCRAFT.
+
+“(a)
+
+In General.—During the 1-year period beginning on the 90th day following the date of the enactment of this Act \[Apr. 24, 1998\], a major air carrier shall make a good faith effort to obtain, and shall submit quarterly reports to the Administrator of the Federal Aviation Administration on, the following:
+
+&emsp;“(1) The number of persons who died on aircraft of the air carrier, including any person who was declared dead after being removed from such an aircraft as a result of a medical incident that occurred on such aircraft.
+
+&emsp;“(2) The age of each such person.
+
+&emsp;“(3) Any information concerning cause of death that is available at the time such person died on the aircraft or is removed from the aircraft or that subsequently becomes known to the air carrier.
+
+&emsp;“(4) Whether or not the aircraft was diverted as a result of the death or incident.
+
+&emsp;“(5) Such other information as the Administrator may request as necessary to aid in a decision as to whether or not to require automatic external defibrillators in airports or on aircraft operated by air carriers, or both.
+
+“(b)
+
+Format.—The Administrator may specify a format for reports to be submitted under this section.
+
+#### “SEC. 4. DECISION ON AUTOMATIC EXTERNAL DEFIBRILLATORS.
+
+“(a)
+
+In General.—Not later than 120 days after the last day of the 1-year period described in section 3, the Administrator of the Federal Aviation Administration shall make a decision on whether or not to require automatic external defibrillators on passenger aircraft operated by air carriers and whether or not to require automatic external defibrillators at airports.
+
+“(b)
+
+Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, or both, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
+
+“(c)
+
+Contents.—If the Administrator decides that automatic external defibrillators should be required—
+
+&emsp;“(1) on passenger aircraft operated by air carriers, the proposed rulemaking or recommendation shall include—
+
+&emsp;&emsp;“(A) the size of the aircraft on which such defibrillators should be required;
+
+&emsp;&emsp;“(B) the class flights (whether interstate, overseas, or foreign air transportation or any combination thereof) on which such defibrillators should be required;
+
+&emsp;&emsp;“(C) the training that should be required for air carrier personnel in the use of such defibrillators; and
+
+&emsp;&emsp;“(D) the associated equipment and medication that should be required to be carried in the aircraft medical kit; and
+
+&emsp;“(2) at airports, the proposed rulemaking or recommendation shall include—
+
+&emsp;&emsp;“(A) the size of the airport at which such defibrillators should be required;
+
+&emsp;&emsp;“(B) the training that should be required for airport personnel in the use of such defibrillators; and
+
+&emsp;&emsp;“(C) the associated equipment and medication that should be required at the airport.
+
+“(d)
+
+Limitation.—The Administrator may not require automatic external defibrillators on helicopters and on aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less.
+
+“(e)
+
+Special Rule.—If the Administrator decides that automatic external defibrillators should be required at airports, the proposed rulemaking or recommendation shall provide that the airports are responsible for providing the defibrillators.
+
+#### “SEC. 5. LIMITATIONS ON LIABILITY.
+
+“(a)
+
+Liability of Air Carriers.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in obtaining or attempting to obtain the assistance of a passenger in an in-flight medical emergency, or out of the acts or omissions of the passenger rendering the assistance, if the passenger is not an employee or agent of the carrier and the carrier in good faith believes that the passenger is a medically qualified individual.
+
+“(b)
+
+Liability of Individuals.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
+
+#### “SEC. 6. DEFINITIONS.
+
+“In this Act—
+
+&emsp;“(1) the terms ‘air carrier’, ‘aircraft’, ‘airport’, ‘interstate air transportation’, ‘overseas air transportation’, and ‘foreign air transportation’ have the meanings such terms have under section 40102 of title 49, United States Code;
+
+&emsp;“(2) the term ‘major air carrier’ means an air carrier certificated under section 41102 of title 49, United States Code, that accounted for at least 1 percent of domestic scheduled-passenger revenues in the 12 months ending March 31 of the most recent year preceding the date of the enactment of this Act \[Apr. 24, 1998\], as reported to the Department of Transportation pursuant to part 241 of title 14 of the Code of Federal Regulations; and
+
+&emsp;“(3) the term ‘medically qualified individual’ includes any person who is licensed, certified, or otherwise qualified to provide medical care in a State, including a physician, nurse, physician assistant, paramedic, and emergency medical technician.”
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(4) purchase, maintenance, operation, and hire of aircraft: <i>Provided</i>, That aircraft for administrative purposes may be purchased only as specifically provided for in an appropriation or other Act;
 
-&emsp;(5) purchase and hire of passenger motor vehicles: <i>Provided</i>, That, except as may otherwise be provided in an appropriation or other Act, passenger motor vehicles for administrative purposes outside the United States may be purchased for replacement only, and such vehicles may be exchanged or sold and replaced by an equal number of such vehicles, and the cost, including exchange allowance, of each such replacement shall not exceed the current market price in the United States of a mid-sized sedan or station wagon meeting the requirements established by the General Services Administration for a Class III vehicle of United States manufacture (or, if the replacement vehicle is a right-hand drive vehicle, 120 percent of that price) in the case of an automobile for the chief of any special mission or staff outside the United States established under section 2391 of this title: <i>Provided further</i>, That passenger motor vehicles, other than one for the official use of the head of the agency primarily responsible for administering subchapter I of this chapter, may be purchased for use in the United States only as may be specifically provided in an appropriation or other Act;
+&emsp;(5) purchase and hire of passenger motor vehicles: <i>Provided</i>, That, except as may otherwise be provided in an appropriation or other Act, passenger motor vehicles for administrative purposes outside the United States may be purchased for replacement only, and such vehicles may be exchanged or sold and replaced by an equal number of such vehicles,and the cost, including exchange allowance, of each such replacement shall not exceed the current market price in the United States of a mid-sized sedan or station wagon meeting the requirements established by the General Services Administration for a Class III vehicle of United States manufacture (or, if the replacement vehicle is a right-hand drive vehicle, 120 percent of that price) in the case of an automobile for the chief of any special mission or staff outside the United States established under section 2391 of this title: <i>Provided further</i>, That passenger motor vehicles, other than one for the official use of the head of the agency primarily responsible for administering subchapter I of this chapter, may be purchased for use in the United States only as may be specifically provided in an appropriation or other Act;
 
 &emsp;(6) entertainment (not to exceed $25,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act);
 
@@ -174,9 +174,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under subsec. (i), to extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense by section 1–301(b) of Ex. Ord. No. 12163.
+Functions of President under subsec. (i), to extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense by section 1–301(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

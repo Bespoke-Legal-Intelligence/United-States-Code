@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the agency has actually accepted such property or services before such 7th day; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of a brand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspectand test the property furnished or evaluate the services performed; or
+&emsp;&emsp;&emsp;&emsp;(II) the contract (except in the case of a contract for the procurement of a brand-name commercial item for authorized resale) specifies a longer acceptance period, as determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed; or
 
 &emsp;&emsp;(B) on the date of the invoice, if the agency has failed to annotate the invoice with the date of receipt at the time of actual receipt by the place or person designated by the agency to first receive such invoice.
 
@@ -32,9 +32,21 @@
 
 (b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible for carrying out this chapter as it applies to contracts of the Authority.
 
-(c) This chapter, except section 3906 of this title, applies to the United States Postal Service. However, the Postmaster General shall be responsible for issuing the implementing procurement regulations, solicitation provisions, and contract clauses for the United States Postal Service.
+(c) This chapter applies to the United States Postal Service. However, the Postmaster General shall be responsible for issuing the implementing procurement regulations, solicitation provisions, and contract clauses for the United States Postal Service.
 
-(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, §2(a)–(c)(1), Oct. 17, 1988, 102 Stat. 2455.)
+(d)(1) Notwithstanding subsection (a)(1) of this section, this chapter, except section 3907 of this title, applies to the District of Columbia Courts.
+
+(2) A claim for an interest penalty not paid under this chapter may be filed in the same manner as claims are filed with respect to contracts to provide property or services for the District of Columbia Courts.
+
+(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year or after a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
+
+(B) If a claim for an interest penalty is filed in the manner described in paragraph (2) and interest is not available for such claims under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts, interest will accrue under this chapter as provided in paragraph (A) and from the date the claim is filed until the date the claim is paid.
+
+(4) Paragraph (3) of this subsection does not prevent an interest penalty from accruing on a claim if such interest is available for such claim under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts. Such interest may accrue on an unpaid contract payment and on the unpaid penalty under this chapter.
+
+(5) Except as provided in section 3904 of this title, this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and any interest payable for the period during which the dispute is being resolved, is subject to the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts.
+
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, §2(a)–(c)(1), Oct. 17, 1988, 102 Stat. 2455; Pub. L. 105–277, div. A, §101(c) \[title I, §162(a)\], Oct. 21, 1998, 112 Stat. 2681–121, 2681–148; Pub. L. 105–362, title XIII, §1301(c)(2)(A), Nov. 10, 1998, 112 Stat. 3293.)
 
 Historical and Revision Notes
 
@@ -65,6 +77,10 @@ In subsection (a)(6), the words “real or personal” are omitted as surplus. T
 In subsection (b), the words “the authority of” are omitted as surplus.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–362 struck out “, except section 3906 of this title,” after “This chapter”.
+
+Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
 1988—Subsec. (a)(4). Pub. L. 100–496, §2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the head of an agency is deemed to receive an invoice on the later of the dates that—
 

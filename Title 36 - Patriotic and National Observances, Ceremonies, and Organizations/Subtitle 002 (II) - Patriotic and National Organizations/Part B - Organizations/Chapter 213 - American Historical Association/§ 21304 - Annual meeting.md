@@ -1,0 +1,24 @@
+### §21304. Annual meeting
+
+The corporation may hold its annual meeting in a place the members of the corporation select.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1295.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+21304
+
+36:20 (3d sentence words after 2d comma).
+
+Jan. 4, 1889, ch. 20, (3d sentence words after 2d comma), 25 Stat. 640.
+
+The words “members of the corporation” are substituted for “said incorporators” to reflect the probable intent.
+

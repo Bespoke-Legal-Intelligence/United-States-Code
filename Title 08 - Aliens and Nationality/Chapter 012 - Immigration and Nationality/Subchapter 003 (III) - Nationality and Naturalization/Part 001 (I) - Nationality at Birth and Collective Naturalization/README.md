@@ -1,7 +1,5 @@
 Part I—Nationality at Birth and Collective Naturalization
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “1229b(b)(2)”.</i>
-
 
 ---
 

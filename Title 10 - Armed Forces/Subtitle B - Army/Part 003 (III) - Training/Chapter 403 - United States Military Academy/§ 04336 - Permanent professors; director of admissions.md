@@ -4,7 +4,7 @@
 
 (b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Aug. 6, 1958, Pub. L. 85–600, §1(11), 72 Stat. 523; Sept. 2, 1958, Pub. L. 85–861, §33(a)(46)(B), 72 Stat. 1567; Oct. 30, 1978, Pub. L. 95–551, §§2, 4(a), 92 Stat. 2069; Dec. 12, 1980, Pub. L. 96–513, title II, §218(a), title V, §502(25), 94 Stat. 2886, 2911; Oct. 19, 1984, Pub. L. 98–525, title V, §533(d)(1), 98 Stat. 2528.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 85–600, §1(11), Aug. 6, 1958, 72 Stat. 523; Pub. L. 85–861, §33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 95–551, §§2, 4(a), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title II, §218(a), title V, §502(25), Dec. 12, 1980, 94 Stat. 2886, 2911; Pub. L. 98–525, title V, §533(d)(1), Oct. 19, 1984, 98 Stat. 2528.)
 
 Historical and Revision Notes<br>1956
 

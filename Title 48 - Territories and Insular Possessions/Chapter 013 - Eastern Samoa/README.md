@@ -14,7 +14,7 @@
 | [1666\.](%C2%A7%2001666%20-%20Extension%20of%20scientific%2C%20technical%2C%20and%20other%20assistance%3B%20grant-in-aid%20program%20restriction%3B%20limitations%20on%20expenditures.md) | Extension of scientific, technical, and other assistance; grant-in-aid program restriction; limitations on expenditures. |
 | [1667\.](%C2%A7%2001667%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93576%2C%20title%20I%2C%20%C2%A7103%2C%20Oct.%2016%2C%201968%2C%2082%20Stat.%201091.md) | Repealed. |
 | [1668\.](%C2%A7%2001668%20-%20Reporting%20duties%20of%20Governor%20and%20transfer%20of%20functions%20from%20government%20comptroller%20for%20American%20Samoa%20to%20Inspector%20General%2C%20Department%20of%E2%80%A6.md) | Reporting duties of Governor and transfer of functions from government comptroller for American Samoa to Inspector General, Department of the Interior. |
-| (a) | Comprehensive annual financial report; contents; transmittal; other reports; written statement of actions taken or contemplated on Federal audit recommendations. |
+| (a) | Comprehensive annual financial report; contents; other reports. |
 | (b) | Functions, powers, and duties transferred. |
 | (c) | Scope of authority transferred. |
 | (d) | Transfer of personnel, assets, etc., of office of government comptroller for American Samoa to Office of Inspector General, Department of the Interior. |

@@ -22,7 +22,3 @@ Oct. 20, 1972, Pub. L. 92–513, §101, 86 Stat. 948.
 
 The words “The Congress finds that it is necessary” are omitted as surplus. The word “maintenance” is substituted for “promulgation” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32510 of this title.
-

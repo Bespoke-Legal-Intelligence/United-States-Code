@@ -6,7 +6,7 @@
 
 (c) As used in this section—
 
-&emsp;(1) The term “scheme in commerce” means any scheme effectuated in whole or in partthrough the use in interstate or foreign commerce of any facility for transportation or communication;
+&emsp;(1) The term “scheme in commerce” means any scheme effectuated in whole or in part through the use in interstate or foreign commerce of any facility for transportation or communication;
 
 &emsp;(2) The term “sporting contest” means any contest in any sport, between individual contestants or teams of contestants (without regard to the amateur or professional status of the contestants therein), the occurrence of which is publicly announced before its occurrence;
 

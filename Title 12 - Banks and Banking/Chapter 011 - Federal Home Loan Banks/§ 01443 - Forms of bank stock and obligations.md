@@ -6,7 +6,7 @@ Any stock, debentures, bonds, notes, or other obligations issued under the autho
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “In order that the Federal Home Loan Banks may be supplied with such forms of stock, debentures, and bonds as may be necessary under this chapter, the Secretary of the Treasury is authorized to prepare such forms thereof as shall be suitable and approved by the board, which shall be held in the Treasury subject to delivery, upon order of the board. The engraved plates, dies, and bed pieces executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The board shall reimburse the Secretary of the Treasury for any expense incurred in the preparation, custody, and delivery of such stock, debentures, and bonds.”
+1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “In order that the Federal Home Loan Banks may be supplied with such forms of stock, debentures, and bonds as may be necessary under this chapter, the Secretary of the Treasury is authorized to prepare such forms thereof as shall be suitable and approved by the board, whichshall be held in the Treasury subject to delivery, upon order of the board. The engraved plates, dies, and bed pieces executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The board shall reimburse the Secretary of the Treasury for any expense incurred in the preparation, custody, and delivery of such stock, debentures, and bonds.”
 
 #### Section Referred to in Other Sections
 

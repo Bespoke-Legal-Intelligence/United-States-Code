@@ -72,7 +72,7 @@ If the Administrator determines that a smelter to which an order is issued under
 
 &emsp;(4) take any appropriate combination of such actions.
 
-(July 14, 1955, ch. 360, title I, §119, as added Aug. 7, 1977, Pub. L. 95–95, title I, §117(b), 91 Stat. 712; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(25)–(27), 91 Stat. 1401.)
+(July 14, 1955, ch. 360, title I, §119, as added Pub. L. 95–95, title I, §117(b), Aug. 7, 1977, 91 Stat. 712; amended Pub. L. 95–190, §14(a)(25)–(27), Nov. 16, 1977, 91 Stat. 1401.)
 
 #### References in Text
 

@@ -1,5 +1,5 @@
 
-8 U.S.C.<br>United States Code, 1997 Edition<br>Title 8 - ALIENS AND NATIONALITY<br>From the U.S. Government Publishing Office, www.gpo.gov
+8 U.S.C.<br>United States Code, 1998 Edition<br>Title 8 - ALIENS AND NATIONALITY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 8—ALIENS AND NATIONALITY
 

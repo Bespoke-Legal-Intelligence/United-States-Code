@@ -42,13 +42,13 @@
 
 #### (2) Report
 
-&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees ofCongress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
+&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees of Congress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
 
 (Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsec. (a)(3)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
 

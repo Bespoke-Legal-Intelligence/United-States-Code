@@ -6,7 +6,7 @@ For each Bureau district office and National Forest headquarters office in the s
 
 #### (b) Functions
 
-The function of grazing advisory boards established pursuant to this section shall be to offeradvice and make recommendations to the head of the office involved concerning the development of allotment management plans and the utilization of range-betterment funds.
+The function of grazing advisory boards established pursuant to this section shall be to offer advice and make recommendations to the head of the office involved concerning the development of allotment management plans and the utilization of range-betterment funds.
 
 #### (c) Appointment and terms of members
 

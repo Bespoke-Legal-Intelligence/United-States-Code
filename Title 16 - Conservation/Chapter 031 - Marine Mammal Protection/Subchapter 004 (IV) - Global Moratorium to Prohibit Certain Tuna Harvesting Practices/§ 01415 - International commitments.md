@@ -62,7 +62,7 @@ The Secretary, in consultation with the Secretary of State, shall—
 
 #### Repeal of Section and Enactment of New Section
 
-<i>Pub. L. 105–42, §§6(c), 8, Aug. 15, 1997, 111 Stat. 1130, 1134, 1139, provided that, effective</i><i>upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, this section is repealed and a new section 1415 is added reading as follows:</i>
+<i>Pub. L. 105–42, §§6(c), 8, Aug. 15, 1997, 111 Stat. 1130, 1134, 1139, provided that, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, this section is repealed and a new section 1415 is added reading as follows:</i>
 
 #### §1415. Reports by Secretary
 

@@ -48,5 +48,5 @@
 
 &emsp;&emsp;(B) receiving standard data elements through a health care clearinghouse.
 
-(Aug. 14, 1935, ch. 531, title XI, §1175, as added Aug. 21, 1996, Pub. L. 104–191, title II, §262(a), 110 Stat. 2027.)
+(Aug. 14, 1935, ch. 531, title XI, §1175, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2027.)
 

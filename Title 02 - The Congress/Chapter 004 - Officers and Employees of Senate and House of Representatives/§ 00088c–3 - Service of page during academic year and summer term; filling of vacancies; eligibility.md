@@ -32,7 +32,7 @@ Subsec. (b)(2). Pub. L. 104–186, §204(40)(E), substituted “semesters or ter
 
 #### Effective Date
 
-Section effective June 29, 1983, except that subsecs. (a)(1)(A) and (b)(2) applicable to terms beginning after Nov. 30, 1983, see note set out under section 88c–2 of this title.
+Section effective June 29, 1983, except that subsecs. (a)(1)(A) and (b)(2) applicable to terms beginning afterNov. 30, 1983, see note set out under section 88c–2 of this title.
 
 #### Section Referred to in Other Sections
 

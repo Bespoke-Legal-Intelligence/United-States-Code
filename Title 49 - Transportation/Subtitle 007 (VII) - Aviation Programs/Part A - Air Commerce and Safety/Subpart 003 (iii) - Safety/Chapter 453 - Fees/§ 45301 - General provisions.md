@@ -18,7 +18,7 @@ Authorization and impact considerations.—In establishing fees under subsection
 
 &emsp;&emsp;(A) is authorized to recover in fiscal year 1997 $100,000,000; and
 
-&emsp;&emsp;(B) shall ensure that each of the fees required by subsection (a) is directly relatedto the Administration's costs of providing the service rendered. Services for which costs may be recovered include the costs of air traffic control, navigation, weather services, training and emergency services which are available to facilitate safe transportation over the United States, and other services provided by the Administrator or by programs financed by the Administrator to flights that neither take off nor land in the United States.
+&emsp;&emsp;(B) shall ensure that each of the fees required by subsection (a) is directly related to the Administration's costs of providing the service rendered. Services for which costs may be recovered include the costs of air traffic control, navigation, weather services, training and emergency services which are available to facilitate safe transportation over the United States, and other services provided by the Administrator or by programs financed by the Administrator to flights that neither take off nor land in the United States.
 
 &emsp;(2)
 

@@ -66,7 +66,7 @@ Rate of basic pay to be used.—The rate of basic pay to be used under paragraph
 
 (d)
 
-Retirement for Members of the Navy and Marine Corps.—In the case of a member whose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
+Retirement for Members of the Navy and Marine Corps.—In the case of a memberwhose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
 
 &nbsp;
 
@@ -140,6 +140,14 @@ In general.—For the purposes of subsections (b) through (e), in determining th
 
 &emsp;(2)
 
+Exception for members reduced in grade or who do not serve satisfactorily.—Paragraph (1) does not apply in the case of a member who, while or after serving in a position specified in that paragraph and by reason of conduct occurring on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999—
+
+&emsp;&emsp;(A) in the case of an enlisted member, is reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or other administrative process; or
+
+&emsp;&emsp;(B) in the case an officer, is not certified by the Secretary of Defense under section 1370(c) of this title as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
+
+&emsp;(3)
+
 Definitions.—In this subsection:
 
 &emsp;&emsp;(A) The term “Chief of Service” means any of the following:
@@ -166,13 +174,19 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(v) Master Chief Petty Officer of the Coast Guard.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050.)
+
+#### References in Text
+
+The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 105–261 which was approved Oct. 17, 1998.
 
 #### Prior Provisions
 
 A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
+
+1998—Subsec. (i)(2), (3). Pub. L. 105–261 added par. (2) and redesignated former par. (2) as (3).
 
 1997—Subsec. (b)(1). Pub. L. 105–85 substituted “3962 and 8962” for “3962(b) and 8962(b)” in footnote 3 in table.
 
@@ -192,7 +206,7 @@ Subsec. (i). Pub. L. 100–180, §1314(b)(6), inserted “and Vice Chairmen” a
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1991 Amendment
 

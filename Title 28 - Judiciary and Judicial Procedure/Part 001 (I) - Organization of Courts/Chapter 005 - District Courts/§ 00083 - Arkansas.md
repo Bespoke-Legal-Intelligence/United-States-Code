@@ -72,5 +72,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
+1961—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
 

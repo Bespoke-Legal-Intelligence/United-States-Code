@@ -8,7 +8,7 @@ Any person or party aggrieved by an order issued by the Commission under this ch
 
 The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
 
-(Aug. 26, 1935, ch. 687, title I, §24, 49 Stat. 834; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1958, Pub. L. 85–791, §15, 72 Stat. 946; Dec. 4, 1987, Pub. L. 100–181, title IV, §403, 101 Stat. 1259.)
+(Aug. 26, 1935, ch. 687, title I, §24, 49 Stat. 834; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §15, Aug. 28, 1958, 72 Stat. 946; Pub. L. 100–181, title IV, §403, Dec. 4, 1987, 101 Stat. 1259.)
 
 #### Amendments
 

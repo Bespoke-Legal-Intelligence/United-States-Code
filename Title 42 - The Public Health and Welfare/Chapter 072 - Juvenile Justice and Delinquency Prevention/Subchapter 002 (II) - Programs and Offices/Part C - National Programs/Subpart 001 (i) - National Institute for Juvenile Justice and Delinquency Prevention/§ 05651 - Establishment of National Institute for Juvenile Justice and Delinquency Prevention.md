@@ -18,7 +18,7 @@ It shall be the purpose of the Institute to provide—
 
 &emsp;(1) a coordinating center for the collection, preparation, and dissemination of useful data regarding the prevention, treatment, and control of juvenile delinquency; and
 
-&emsp;(2) appropriate training (including training designed to strengthen and maintain the family unit) for representatives of Federal, State, local law enforcement officers, teachers and special education personnel <sup>1</sup> recreation andpark personnel,,<sup>2</sup> family counselors, child welfare workers, juvenile judges and judicial personnel, probation personnel, prosecutors and defense attorneys, correctional personnel (including volunteer lay personnel), persons associated with law-related education, youth workers, and representatives of private agencies and organizations with specific experience in the prevention, treatment, and control of juvenile delinquency.
+&emsp;(2) appropriate training (including training designed to strengthen and maintain the family unit) for representatives of Federal, State, local law enforcement officers, teachers and special education personnel <sup>1</sup> recreation and park personnel,,<sup>2</sup> family counselors, child welfare workers, juvenile judges and judicial personnel, probation personnel, prosecutors and defense attorneys, correctional personnel (including volunteer lay personnel), persons associated with law-related education, youth workers, and representatives of private agencies and organizations with specific experience in the prevention, treatment, and control of juvenile delinquency.
 
 #### (e) Additional powers
 

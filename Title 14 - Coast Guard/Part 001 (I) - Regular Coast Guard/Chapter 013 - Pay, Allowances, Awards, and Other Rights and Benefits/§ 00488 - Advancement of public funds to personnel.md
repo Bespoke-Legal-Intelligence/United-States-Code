@@ -2,7 +2,7 @@
 
 The Commandant, under regulations prescribed by the Secretary, may advance public funds to personnel when required to meet expenses of members detailed on emergency shore duty. Funds so advanced shall not exceed a reasonable estimate of the actual expenditures to be made and for which reimbursement is authorized by law.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 534; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(I), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 534; Pub. L. 98–557, §15(a)(3)(I), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 

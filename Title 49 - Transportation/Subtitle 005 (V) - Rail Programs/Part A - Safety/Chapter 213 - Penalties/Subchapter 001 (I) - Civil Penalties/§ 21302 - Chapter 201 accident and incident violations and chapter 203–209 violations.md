@@ -4,7 +4,7 @@
 
 Penalty.—(1) Subject to section 21304 of this title, a person violating a regulation prescribed or order issued under chapter 201 of this title related to accident and incident reporting or investigation, or violating chapters 203–209 of this title or a regulation or requirement prescribed or order issued under chapters 203–209, is liable to the United States Government for a civil penalty. An act by an individual that causes a railroad carrier to be in violation is a violation. A separate violation occurs for each day the violation continues.
 
-(2) The Secretary of Transportation imposes a civil penalty under this subsection. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury toindividuals, or has caused death or injury, the amount may be not more than $20,000.
+(2) The Secretary of Transportation imposes a civil penalty under this subsection. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $20,000.
 
 (3) The Secretary may compromise the amount of the civil penalty under section 3711 of title 31. In determining the amount of a compromise, the Secretary shall consider—
 

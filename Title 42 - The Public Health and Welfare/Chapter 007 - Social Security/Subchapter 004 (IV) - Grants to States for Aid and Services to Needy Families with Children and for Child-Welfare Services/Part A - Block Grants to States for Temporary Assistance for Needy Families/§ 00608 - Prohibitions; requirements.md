@@ -340,7 +340,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §408, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2134; amended Aug. 5, 1997, Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), 111 Stat. 591, 593, 610, 620, 626, 642.)
+(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642.)
 
 #### References in Text
 
@@ -376,7 +376,7 @@ Subsec. (a)(1). Pub. L. 105–33, §5505(a), amended heading and text of par. (1
 
 &emsp;&emsp;“(ii) a pregnant individual; and
 
-&emsp;“(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by theFederal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies).”
+&emsp;“(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or notconsecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies).”
 
 Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted “ceases to receive assistance under” for “leaves” in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted “after such date” for “after the date the family leaves the program” in introductory provisions of subpar. (A).
 
@@ -412,7 +412,7 @@ Amendment by section 5505 of Pub. L. 105–33 effective as if included in sectio
 
 Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 
-Section 5557 of title V of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title V, §5557, Aug. 5, 1997, 111 Stat. 637, as amended by Pub. L. 105–200, title IV, §410(e)(1), July 16, 1998, 112 Stat. 673, provided that:
 
 “(a)
 
@@ -420,7 +420,9 @@ In General.—Except as provided in subsection (b), the amendments made by this 
 
 “(b)
 
-Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall take effect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112).”
+Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall take effect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112). The amendment made by section 5536(1)(A) \[amending section 666 of this title\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select.”
+
+\[Pub. L. 105–200, title IV, §410(e)(2), July 16, 1998, 112 Stat. 673, provided that: “The amendment made by paragraph (1) \[amending section 5557 of Pub. L. 105–33, set out above\] shall take effect as if included in the enactment of section 5557 of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 637).”\]
 
 Section 5581(a) of Pub. L. 105–33 provided that the amendment made by that section is effective July 1, 1997.
 

@@ -1,0 +1,40 @@
+### §220526. Restricted amateur athletic competitions
+
+(a)
+
+Exclusive Jurisdiction.—An amateur sports organization that conducts amateur athletic competition shall have exclusive jurisdiction over that competition if participation is restricted to a specific class of amateur athletes, such as high school students, college students, members of the Armed Forces, or similar groups or categories.
+
+(b)
+
+Sanctions for International Competition.—An amateur sports organization under subsection (a) of this section shall obtain a sanction from the appropriate national governing body if the organization wishes to—
+
+&emsp;(1) conduct international amateur athletic competition in the United States; or
+
+&emsp;(2) sponsor international amateur athletic competition to be held outside the United States.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1475.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+220526(a)
+
+36:396 (1st sentence).
+
+Sept. 21, 1950, ch. 975, title II, §206, as added Nov. 8, 1978, Pub. L. 95–606, §2, 92 Stat. 3058.
+
+220526(b)
+
+36:396 (last sentence).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 220523 of this title.
+

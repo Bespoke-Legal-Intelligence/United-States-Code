@@ -3,7 +3,7 @@
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>71.</b>](Chapter%20071%20-%20Board%20of%20Veterans%E2%80%99%20Appeals/README.md) | <b>Board of Veterans’ Appeals</b> | <b>7101</b> |
-| [<b>72.</b>](Chapter%20072%20-%20United%20States%20Court%20of%20Veterans%20Appeals/README.md) | <b>United States Court of Veterans Appeals</b> | <b>7251</b> |
+| [<b>72.</b>](Chapter%20072%20-%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims/README.md) | <b>United States Court of Appeals for Veterans Claims</b> | <b>7251</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Veterans%20Health%20Administration%E2%80%94Organization%20and%20Functions/README.md) | <b>Veterans Health Administration—Organization and Functions</b> | <b>7301</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Veterans%20Health%20Administration%E2%80%94Personnel/README.md) | <b>Veterans Health Administration—Personnel</b> | <b>7401</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Health%20Professionals%20Educational%20Assistance%20Program/README.md) | <b>Health Professionals Educational Assistance Program</b> | <b>7601</b> |
@@ -13,6 +13,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted “Appeals for Veterans Claims” for “Veterans Appeals” in item for chapter 72.
 
 1991—Pub. L. 102–83, §2(d)(3), Aug. 6, 1991, 105 Stat. 402, added item for chapter 77.
 
@@ -30,7 +32,7 @@ Pub. L. 100–322, title II, §216(e)(2), May 20, 1988, 102 Stat. 530, added ite
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Chapter 071 - Board of Veterans&#8217; Appeals](Chapter%20071%20-%20Board%20of%20Veterans%E2%80%99%20Appeals/README.md)
-- [Chapter 072 - United States Court of Veterans Appeals](Chapter%20072%20-%20United%20States%20Court%20of%20Veterans%20Appeals/README.md)
+- [Chapter 072 - United States Court of Appeals for Veterans Claims](Chapter%20072%20-%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims/README.md)
 - [Chapter 073 - Veterans Health Administration&#8212;Organization and Functions](Chapter%20073%20-%20Veterans%20Health%20Administration%E2%80%94Organization%20and%20Functions/README.md)
 - [Chapter 074 - Veterans Health Administration&#8212;Personnel](Chapter%20074%20-%20Veterans%20Health%20Administration%E2%80%94Personnel/README.md)
 - [Chapter 075 - Renumbered Chapter 78 and Transferred](Chapter%20075%20-%20Renumbered%20Chapter%2078%20and%20Transferred/README.md)

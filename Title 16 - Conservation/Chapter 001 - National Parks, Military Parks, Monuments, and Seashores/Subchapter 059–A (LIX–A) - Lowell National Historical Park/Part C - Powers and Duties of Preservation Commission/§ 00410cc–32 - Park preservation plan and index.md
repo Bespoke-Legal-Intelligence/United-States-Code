@@ -6,7 +6,7 @@
 
 (2) Within eighteen months after the date on which the Commission conducts its first meeting, the Commission shall submit to the Secretary a park preservation plan which meets the requirements of subsection (c) of this section. The Secretary shall, within ninety days after the date on which such plan is submitted to the Secretary, approve or disapprove such plan. The Secretary may not approve such plan unless the Secretary determines that such plan would adequately carry out the purpose of this subchapter.
 
-(3) If the Secretary disapproves a park preservation plan, the Secretary shall advise the Commission of the reasons for such disapproval together with the recommendations of the Secretary for revision of such plan. Within such period as the Secretary may designate, the Commission shall submit a revised park preservation plan to the Secretary. The Secretary shall approve or disapprove any revised park preservation plan in the same manner as required in paragraph (2) of this subsection for the approval or disapproval of the original park preservation plan.
+(3) If the Secretary disapproves a park preservation plan, the Secretary shall advise the Commission of the reasons for such disapproval together with the recommendations of the Secretary for revision of such plan. Within such period as the Secretary may designate, the Commission shall submit a revised park preservation plan to the Secretary. The Secretary shall approve or disapprove any revised park preservation plan in the same manner as required in paragraph (2) of this subsection for the approvalor disapproval of the original park preservation plan.
 
 (4) If the Secretary approves a park preservation plan, the Secretary shall publish notice of such approval in the Federal Register and shall forward copies of the approved plan to the Congress.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iii) is determined by the Secretary to be of national significance;
 
-> &emsp;and would be subject to demolition or major alteration in a manner inconsistent with thepurpose of this subchapter unless acquired by the Commission.
+> &emsp;and would be subject to demolition or major alteration in a manner inconsistent with the purpose of this subchapter unless acquired by the Commission.
 
 #### (c) Requirements for plan
 

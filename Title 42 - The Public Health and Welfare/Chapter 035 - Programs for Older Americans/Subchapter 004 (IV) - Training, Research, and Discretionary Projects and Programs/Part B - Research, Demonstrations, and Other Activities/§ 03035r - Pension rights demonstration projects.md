@@ -120,7 +120,7 @@ The Assistant Secretary may award grants under subsection (c) or (d) of this sec
 
 &emsp;&emsp;(A) summarizes the distribution of funds authorized for grants under this section and the expenditure of such funds;
 
-&emsp;&emsp;(B) summarizes the scope and content of training and assistance provided under a program carried out under this section and the degree to which the training and assistance can be replicated;
+&emsp;&emsp;(B) summarizes the scope and content of training and assistance provided under aprogram carried out under this section and the degree to which the training and assistance can be replicated;
 
 &emsp;&emsp;(C) outlines the problems that individuals participating in programs funded under this section encountered concerning rights related to pension and other retirement benefits; and
 
@@ -142,7 +142,7 @@ The Social Security Act, referred to in subsec. (a)(2)(A), is act Aug. 14, 1935,
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(2)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to theCode, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Prior Provisions
 

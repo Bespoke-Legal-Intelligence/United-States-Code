@@ -18,7 +18,7 @@ The requirements of subparts 1 and 3 shall not apply to any group health plan (a
 
 #### (A) Election to be excluded
 
-&emsp;&emsp;If the plan sponsor of a nonfederal <sup>1</sup> governmental plan which is a group health plan to which the provisions of subparts 1 through 3 otherwise apply makes an election under this subparagraph (in such form and manner as the Secretary may by regulations prescribe), then the requirements of such subparts insofar as they apply directly togroup health plans (and not merely to group health insurance coverage) shall not apply to such governmental plans for such period except as provided in this paragraph.
+&emsp;&emsp;If the plan sponsor of a nonfederal <sup>1</sup> governmental plan which is a group health plan to which the provisions of subparts 1 through 3 otherwise apply makes an election under this subparagraph (in such form and manner as the Secretary may by regulations prescribe), then the requirements of such subparts insofar as they apply directly to group health plans (and not merely to group health insurance coverage) shall not apply to such governmental plans for such period except as provided in this paragraph.
 
 #### (B) Period of election
 
@@ -88,7 +88,7 @@ For purposes of this part—
 
 > &emsp;if such individual is, or may become, eligible to receive a benefit under the plan or such individual's beneficiaries may be eligible to receive any such benefit.
 
-(July 1, 1944, ch. 373, title XXVII, §2721, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1967; amended Sept. 26, 1996, Pub. L. 104–204, title VI, §604(b)(1), 110 Stat. 2940.)
+(July 1, 1944, ch. 373, title XXVII, §2721, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1967; amended Pub. L. 104–204, title VI, §604(b)(1), Sept. 26, 1996, 110 Stat. 2940.)
 
 #### References in Text
 

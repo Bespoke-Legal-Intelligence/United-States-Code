@@ -2,7 +2,7 @@
 
 The concealment of assets of a debtor in a case under title 11 shall be deemed to be a continuing offense until the debtor shall have been finally discharged or a discharge denied, and the period of limitations shall not begin to run until such final discharge or denial of discharge.
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Nov. 6, 1978, Pub. L. 95–598, title III, §314(k), 92 Stat. 2678.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 95–598, title III, §314(k), Nov. 6, 1978, 92 Stat. 2678.)
 
 #### Historical and Revision Notes
 

@@ -18,7 +18,7 @@ Whenever, in the judgment of the Administrator or as identified under section 13
 
 #### (B) Reasonable progress
 
-&emsp;&emsp;The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for toxic pollutants for a single period not to exceed 5 years if the applicant demonstrates to the satisfaction of the Administrator that such modified requirements (i) will represent the maximum degree of control within the economic capability of the owner and operatorof the source, and (ii) will result in reasonable further progress beyond the requirements of section 1311(b)(2) of this title toward the requirements of subsection (a) of this section.
+&emsp;&emsp;The Administrator, with the concurrence of the State, may issue a permit which modifies the effluent limitations required by subsection (a) of this section for toxic pollutants for a single period not to exceed 5 years if the applicant demonstrates to the satisfaction of the Administrator that such modified requirements (i) will represent the maximum degree of control within the economic capability of the owner and operator of the source, and (ii) will result in reasonable further progress beyond the requirements of section 1311(b)(2) of this title toward the requirements of subsection (a) of this section.
 
 #### (c) Delay in application of other limitations
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 100–4, §308(e)(1), amended subsec. (b) generally. Prior 
 
 “(1) Prior to establishment of any effluent limitation pursuant to subsection (a) of this section, the Administrator shall issue notice of intent to establish such limitation and within ninety days of such notice hold a public hearing to determine the relationship of the economic and social costs of achieving any such limitation or limitations, including any economic or social dislocation in the affected community or communities, to the social and economic benefits to be obtained (including the attainment of the objective of this chapter) and to determine whether or not such effluent limitations can be implemented with available technology or other alternative control strategies.
 
-“(2) If a person affected by such limitation demonstrates at such hearing that (whether or not such technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of this chapter), such limitation shall not become effective and the Administrator shall adjust such limitation as it applies to such person.”
+“(2) If a person affected by such limitation demonstrates at such hearing that (whether or not such technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of thischapter), such limitation shall not become effective and the Administrator shall adjust such limitation as it applies to such person.”
 
 #### Section Referred to in Other Sections
 

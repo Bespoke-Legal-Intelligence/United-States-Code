@@ -14,7 +14,7 @@ The Congress declares that the principal purpose of United States bilateral deve
 
 Assistance under this part should be used not only for the purpose of transferring financial resources to developing countries, but also to help countries solve development problems in accordance with a strategy that aims to insure wide participation of the poor in the benefits of development on a sustained basis. Moreover, assistance shall be provided in a prompt and effective manner, using appropriate United States institutions for carrying out this strategy. In order to achieve these objectives and the broad objectives set forth in section 2151 of this title and in subsection (a) of this section, bilateral development assistance authorized by this chapter shall be carried out in accordance with the following principles:
 
-&emsp;(1) Development is primarily the responsibility of the people of the developing countries themselves. Assistance from the United States shall be used in support of, rather than substitution for, the self-help efforts that are essential to successful development programs and shall be concentrated in those countries thattake positive steps to help themselves. Maximum effort shall be made, in the administration of subchapter I of this chapter, to stimulate the involvement of the people in the development process through the encouragement of democratic participation in private and local governmental activities and institution building appropriate to the requirements of the recipient countries.
+&emsp;(1) Development is primarily the responsibility of the people of the developing countries themselves. Assistance from the United States shall be used in support of, rather than substitution for, the self-help efforts that are essential to successful development programs and shall be concentrated in those countries that take positive steps to help themselves. Maximum effort shall be made, in the administration of subchapter I of this chapter, to stimulate the involvement of the people in the development process through the encouragement of democratic participation in private and local governmental activities and institution building appropriate to the requirements of the recipient countries.
 
 &emsp;(2) Development planning must be the responsibility of each sovereign country. United States assistance should be administered in a collaborative style to support the development goals chosen by each country receiving assistance.
 
@@ -60,7 +60,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 #### (c) Worldwide cooperative effort to overcome aspects of absolute poverty
 
-The Congress, recognizing the desirability of overcoming the worst aspects of absolute poverty by the end of this century by, among other measures, substantially lowering infant mortality and birth rates, and increasing life expectancy, food production, literacy, and employment, encourages the President to explore withother countries, through all appropriate channels, the feasibility of a worldwide cooperative effort to overcome the worst aspects of absolute poverty and to assure self-reliant growth in the developing countries by the year 2000.
+The Congress, recognizing the desirability of overcoming the worst aspects of absolute poverty by the end of this century by, among other measures, substantially lowering infant mortality and birth rates, and increasing life expectancy, food production, literacy, and employment, encourages the President to explore with other countries, through all appropriate channels, the feasibility of a worldwide cooperative effort to overcome the worst aspects of absolute poverty and to assure self-reliant growth in the developing countries by the year 2000.
 
 (Pub. L. 87–195, pt. I, §102, as added Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 938; amended Pub. L. 96–53, title I, §104(a), Aug. 14, 1979, 93 Stat. 360; Pub. L. 99–83, title III, §301, Aug. 8, 1985, 99 Stat. 213.)
 
@@ -91,10 +91,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
-
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -29,7 +29,7 @@
 
 (2) With respect to the fiscal year beginning on October 1, 1994, the Secretary shall provide a percentage increase in the monthly rates payable under paragraph (1) of this subsection equal to the percentage by which the Consumer Price Index (all items, United States city average published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1994, exceeds such Consumer Price Index for the 12-month period ending June 30, 1993.
 
-(3) With respect to any fiscal year beginning on or after October 1, 1995, the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, themonthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
+(3) With respect to any fiscal year beginning on or after October 1, 1995, the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
 
 &emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 

@@ -12,7 +12,7 @@
 | :--- | ---: |
 | [7911\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007911%20-%20Definitions.md) | Definitions. |
 | [7912\.](Subchapter%20001%20%28I%29%20-%20Remedial%20Action%20Program/%C2%A7%2007912%20-%20Processing%20site%20designations.md) | Processing site designations. |
-| (a) | Specific and other site locations; remedial action; consultations; boundaries; Grand Junction, Colorado site restriction. |
+| (a) | Specific and other site locations; remedial action; consultations; boundaries; Grand Junction, Colorado, site restriction. |
 | (b) | Health hazard assessment; priorities for remedial action. |
 | (c) | Notification. |
 | (d) | Finality of determinations. |

@@ -18,11 +18,11 @@ No State educational agency shall receive any payment under this part for any fi
 
 &emsp;(7) provide assurances—
 
-&emsp;&emsp;(A) that to the extent consistent with the number of immigrant children and youth enrolled in the nonpublic elementary or secondary schools within the district served by a local educational agency, such agency, after consultation with appropriate officials of such schools, shall provide for the benefit of such children and youth secular, neutral, and nonideological services, materials, and equipment necessary for the education of such children and youth;
+&emsp;&emsp;(A) that to the extent consistent with the number of immigrant children and youth enrolled in the nonpublic elementary or secondary schools within the district served by a local educational agency, such agency,after consultation with appropriate officials of such schools, shall provide for the benefit of such children and youth secular, neutral, and nonideological services, materials, and equipment necessary for the education of such children and youth;
 
 &emsp;&emsp;(B) that the control of funds provided under this part to any materials, equipment, and property repaired, remodeled, or constructed with those funds shall be in a public agency for the uses and purposes provided in this part, and a public agency shall administer such funds and property; and
 
-&emsp;&emsp;(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency, or corporation who or which, in the provision of such services, is independent of such nonpublic elementary or secondary school and of any religious organization, and such employment or contract shall be under the control and supervision ofsuch public agency, and the funds provided under this paragraph shall not be commingled with State or local funds;
+&emsp;&emsp;(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency, or corporation who or which, in the provision of such services, is independent of such nonpublic elementary or secondary school and of any religious organization, and such employment or contract shall be under the control and supervision of such public agency, and the funds provided under this paragraph shall not be commingled with State or local funds;
 
 &emsp;(8) provide that funds reserved under subsection (e) of section 7544 of this title be awarded on a competitive basis based on merit and need in accordance with such subsection; and
 

@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4204, 4205, 4206, 4211 of this title.
+This section is referred to in sections 4204, 4205, 4206 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

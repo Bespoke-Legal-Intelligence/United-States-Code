@@ -58,7 +58,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;&emsp;(ii) the contract must meet the requirement of section 1320c–2(b)(3) of this title, and
 
-&emsp;&emsp;(iii) the level of effort expended under the contract shall be, to the extent practicable, not less than the level of effort that would otherwise be required under the third sentence of subparagraph (B) if this subparagraph did not apply.
+&emsp;&emsp;(iii) the level of effort expended under the contract shall be, to the extent practicable,not less than the level of effort that would otherwise be required under the third sentence of subparagraph (B) if this subparagraph did not apply.
 
 &emsp;(5) The organization shall consult with nurses and other professional health care practitioners (other than physicians described in section 1395x(r)(1) of this title) and with representatives of institutional and noninstitutional providers of health care services, with respect to the organization's responsibility for the review under paragraph (1) of the professional activities of such practitioners and providers.
 
@@ -74,7 +74,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;&emsp;(i) offer to provide, several times each year, for a physician representing the organization to meet (at a hospital or at a regional meeting) with medical and administrative staff of each hospital (the services of which are reviewed by the organization) respecting the organization's review of the hospital's services for which payment may be made under subchapter XVIII of this chapter, and
 
-&emsp;&emsp;(ii) publish (not less often than annually) and distribute to providers and practitionerswhose services are subject to review a report that describes the organization's findings with respect to the types of cases in which the organization has frequently determined that (I) inappropriate or unnecessary care has been provided, (II) services were rendered in an inappropriate setting, or (III) services did not meet professionally recognized standards of health care.
+&emsp;&emsp;(ii) publish (not less often than annually) and distribute to providers and practitioners whose services are subject to review a report that describes the organization's findings with respect to the types of cases in which the organization has frequently determined that (I) inappropriate or unnecessary care has been provided, (II) services were rendered in an inappropriate setting, or (III) services did not meet professionally recognized standards of health care.
 
 &emsp;(7) The organization, to the extent necessary and appropriate to the performance of the contract, shall—
 
@@ -112,7 +112,7 @@ Any utilization and quality control peer review organization entering into a con
 
 &emsp;(15) During each year of the contract entered into under section 1320c–2(b) of this title, the organization shall perform significant on-site review activities, including on-site review in at least 20 percent of the rural hospitals in the organization's area.
 
-&emsp;(16) The organization shall provide for a review and report to the Secretary when requested by the Secretary under section 1395dd(d)(3) of this title. The organization shall provide reasonable notice of the reviewto the physician and hospital involved. Within the time period permitted by the Secretary, the organization shall provide a reasonable opportunity for discussion with the physician and hospital involved, and an opportunity for the physician and hospital to submit additional information, before issuing its report to the Secretary under such section.
+&emsp;(16) The organization shall provide for a review and report to the Secretary when requested by the Secretary under section 1395dd(d)(3) of this title. The organization shall provide reasonable notice of the review to the physician and hospital involved. Within the time period permitted by the Secretary, the organization shall provide a reasonable opportunity for discussion with the physician and hospital involved, and an opportunity for the physician and hospital to submit additional information, before issuing its report to the Secretary under such section.
 
 #### (b) Review by physicians; physician's family defined
 
@@ -148,7 +148,7 @@ Each contract under this part shall require that the utilization and quality con
 
 &emsp;(B) the attending physician has not agreed with the hospital's determination,
 
-> the hospital may request the appropriate peer review organization to review under subsection (a) of this section the validity of the hospital's determination. If the hospital requests such a review, it shall also notify the patient that the review has been requested.
+> the hospital may request the appropriate peer review organization to review under subsection (a) of this section the validity of the hospital'sdetermination. If the hospital requests such a review, it shall also notify the patient that the review has been requested.
 
 (3)(A) If a patient (or a patient's representative)—
 
@@ -178,7 +178,7 @@ Each contract under this part shall require that the utilization and quality con
 
 The Secretary, in consultation with appropriate experts, shall identify methods that would be available to assist peer review organizations (under subsection (a)(4) of this section) in identifying those cases which are more likely than others to be associated with a quality of services which does not meet professionally recognized standards of health care.
 
-(Aug. 14, 1935, ch. 531, title XI, §1154, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 385; amended Jan. 12, 1983, Pub. L. 97–448, titleIII, §309(b)(3), (4), 96 Stat. 2408, 2409; Apr. 7, 1986, Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), 100 Stat. 193, 196, 200, 201; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), 100 Stat. 2040, 2043, 2044–2047; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), 101 Stat. 1330–135 to 1330–137, 1330–139, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), 102 Stat. 775, 791; July 1, 1988, Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), 102 Stat. 724, 775, 791; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(25)(B), 102 Stat. 2421; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), 103 Stat. 2257; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Oct. 31, 1994, Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), 108 Stat. 4440, 4441, 4444, 4450.)
+(Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3), (4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, 108 Stat. 4440, 4441, 4444, 4450.)
 
 #### Prior Provisions
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Section 203(g) of Pub. L. 100–360, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395k to 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 203(g) of Pub. L. 100–360, which had provided that the amendments made by section 203 of Pub. L. 100–360 (amending this section and sections 1395h, 1395k to 1395n, 1395w–2, 1395x, 1395z, and 1395aa of this title) were to apply to items and services furnished on orafter January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(e)(3), (j)(2), (3), (4)(C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 

@@ -14,7 +14,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 &emsp;(C) the Administrator of General Services.
 
-(2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 486(d)\], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
+(2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 486(d)\], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy forthat agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
 
 #### (c) Functions
 
@@ -38,7 +38,7 @@ Subject to the authority, direction, and control of the head of the agency conce
 
 &emsp;(1) approve or disapprove all regulations that are, after 60 days after November 17, 1988, proposed for public comment, promulgated in final form, or otherwise made effective by such agency relating to procurement before such regulation may be promulgated in final form, or otherwise made effective, except that such official may grant an interim approval, without review, for not more than 60 days for a procurement regulation in urgent and compelling circumstances;
 
-&emsp;(2) carry out the responsibilities of such agency set forth in chapter 35 of title 44 foreach information collection request (as that term is defined in section 3502(11) <sup>1</sup> of title 44) that relates to procurement rules or regulations; and
+&emsp;(2) carry out the responsibilities of such agency set forth in chapter 35 of title 44 for each information collection request (as that term is defined in section 3502(11) <sup>1</sup> of title 44) that relates to procurement rules or regulations; and
 
 &emsp;(3) eliminate or reduce (A) any redundant or unnecessary levels of review and approval, in the procurement system of such agency, and (B) redundant or unnecessary procurement regulations which are unique to that agency.
 

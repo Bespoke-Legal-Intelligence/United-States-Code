@@ -18,13 +18,13 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–294 made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
+1996—Subsec. (a). Pub. L. 104–294 made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §280005(c)(1), (2), in second sentence, substituted “Chair” for “Chairman” and in fifth sentence, substituted “the Attorney General's designee” for “his designee”.
+1994—Subsec. (a). Pub. L. 103–322, §280005(c)(1), (2), in second sentence, substituted “Chair” for “Chairman” and in fifth sentence, substituted “the Attorney General's designee” for “his designee”.
 
 Pub. L. 103–322, §280005(a), as amended by Pub. L. 104–294, in second sentence, substituted “and three of whom shall be designated by the President as Vice Chairs.” for the period at end, in fourth sentence, substituted “, and of the three Vice Chairs, no more than two shall be members of the same political party.” for the period at end, and in last sentence, substituted “Chair, Vice Chairs,” for “Chairman”.
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–22 struck out “in regular active service” after “Federal judges”.
+1985—Subsec. (a). Pub. L. 99–22 struck out “in regular active service” after “Federal judges”.
 
 #### Effective Date of 1996 Amendment
 
@@ -36,7 +36,7 @@ Chapter effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 #### Composition of Members of Commission During First Five-Year Period
 
-For provisions directing that, notwithstanding the provisions of this section, during the five-year periodfollowing Oct. 12, 1984, the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+For provisions directing that, notwithstanding the provisions of this section, during the five-year period following Oct. 12, 1984, the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

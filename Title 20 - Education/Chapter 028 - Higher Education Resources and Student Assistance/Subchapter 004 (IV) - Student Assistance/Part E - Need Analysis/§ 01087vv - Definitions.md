@@ -38,7 +38,7 @@ The term “untaxed income and benefits” means—
 
 &emsp;(13) payments to individual retirement accounts and Keogh accounts excluded from income for Federal income tax purposes; and
 
-&emsp;(14) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, railroad retirement benefits, or Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] noneducational benefits.
+&emsp;(14) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, railroad retirement benefits, or Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] noneducational benefits or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 #### (c) Veteran and veterans’ education benefits
 
@@ -126,15 +126,13 @@ The term “current balance of checking and savings accounts” does not include
 
 #### (j) Other financial assistance; tuition prepayment plans
 
-(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including veterans’ education benefits as defined in subsection (c) of this section.
+(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including veterans’ education benefits as defined in subsection (c) of this section, and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\].
 
 (2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087<i>ll</i> of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
 
 (B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance.
 
-(3) Notwithstanding paragraph (1), a national service educational award or post-service benefit under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\] shall not be treated as financial assistance for purposes of section 1087kk(3) of this title.
-
-(4) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26 shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
+(3) Notwithstanding paragraph (1), a tax credit taken under section 25A of title 26 shall not be treated as estimated financial assistance for purposes of section 1087kk(3) of this title.
 
 #### (k) Dependents
 
@@ -162,17 +160,23 @@ The term “current balance of checking and savings accounts” does not include
 
 The term “business assets” means property that is used in the operation of a trade or business, including real estate, inventories, buildings, machinery, and other equipment, patents, franchise rights, and copyrights.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+
+#### Amendment of Subsection (b)(14)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(12)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, subsection (b)(14) is amended by striking “Job Training Partnership Act noneducational benefits or”.</i>
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(2), and (j)(3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended sections 1070a–6 and 1087vv of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(2), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended sections 1070a–6 and 1087vv of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Social Security Act, referred to in subsecs. (b)(2) and (e)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Job Training Partnership Act, referred to in subsec. (b)(14), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+The Workforce Investment Act of 1998, referred to in subsec. (b)(14), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Title 10, chapter 2, referred to in subsec. (c)(2)(A), relates to the organization of the Department of Defense. For provisions relating to the Reserve Officer Training Corps, see chapters 102 and 103 of Title 10, Armed Forces.
 
@@ -189,6 +193,12 @@ Public Law 96–342, section 903, referred to in subsec. (c)(2)(J), is set out a
 Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1998—Subsec. (b)(14). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(B)\], substituted “Job Training Partnership Act noneducational benefits or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act noneducational benefits”.
+
+Subsec. (j)(1). Pub. L. 105–244, §479(1), inserted before period at end “, and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990”.
+
+Subsec. (j)(3), (4). Pub. L. 105–244, §479(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Notwithstanding paragraph (1), a national service educational award or post-service benefit under title I of the National and Community Service Act of 1990 shall not be treated as financial assistance for purposes of section 1087kk(3) of this title.”
 
 1997—Subsec. (a)(2). Pub. L. 105–78, §609(j), substituted “program by an individual, no” for “program by an individual, and no” and inserted “and no portion of any tax credit taken under section 25A of title 26,” before “shall be included”.
 
@@ -228,13 +238,19 @@ Subsec. (d)(2)(F). Pub. L. 100–50, §14(28)(F), substituted “annual total re
 
 Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
+#### Effective Date of 1998 Amendments
+
+Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+
+Amendment by section 101(f) \[title VIII, §405(d)(15)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
@@ -254,5 +270,5 @@ Section 406(b)(5), formerly section 406(b)(4), of Pub. L. 99–498, renumbered P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1070a–11, 1078, 1087kk, 1087<i>oo</i>, 1087pp, 1087qq, 1087tt of this title; title 42 sections 12604, 12651d.
+This section is referred to in sections 1070a–11, 1078, 1087kk, 1087<i>oo</i>, 1087pp, 1087qq of this title; title 42 sections 12604, 12651d.
 

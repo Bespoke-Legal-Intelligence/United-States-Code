@@ -12,13 +12,15 @@ In this chapter—
 
 &emsp;(2) “executive agency” has the same meaning given that term in section 105 of title 5.
 
-&emsp;(3) “launch” means to place or try to place a launch vehicle and any payload—
+&emsp;(3) “launch” means to place or try to place a launch vehicle or reentry vehicle and any payload from Earth—
 
 &emsp;&emsp;(A) in a suborbital trajectory;
 
 &emsp;&emsp;(B) in Earth orbit in outer space; or
 
-&emsp;&emsp;(C) otherwise in outer space.
+&emsp;&emsp;(C) otherwise in outer space,
+
+> &emsp;including activities involved in the preparation of a launch vehicle or payload for launch, when those activities take place at a launch site in the United States.
 
 &emsp;(4) “launch property” means an item built for, or used in, the launch preparation or launch of a launch vehicle.
 
@@ -36,25 +38,37 @@ In this chapter—
 
 &emsp;&emsp;(B) a suborbital rocket.
 
-&emsp;(8) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle, including components of the vehicle specifically designed or adapted for that object.
+&emsp;(8) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
 
 &emsp;(9) “person” means an individual and an entity organized or existing under the laws of a State or country.
 
-&emsp;(10) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+&emsp;(10) “reenter” and “reentry” mean to return or attempt to return, purposefully, a reentry vehicle and its payload, if any, from Earth orbit or from outer space to Earth.
 
-&emsp;(11) “third party” means a person except—
+&emsp;(11) “reentry services” means—
 
-&emsp;&emsp;(A) the United States Government or the Government's contractors or subcontractors involved in launch services;
+&emsp;&emsp;(A) activities involved in the preparation of a reentry vehicle and its payload, if any, for reentry; and
+
+&emsp;&emsp;(B) the conduct of a reentry.
+
+&emsp;(12) “reentry site” means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
+
+&emsp;(13) “reentry vehicle” means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
+
+&emsp;(14) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+
+&emsp;(15) “third party” means a person except—
+
+&emsp;&emsp;(A) the United States Government or the Government's contractors or subcontractors involved in launch services or reentry services;
 
 &emsp;&emsp;(B) a licensee or transferee under this chapter;
 
-&emsp;&emsp;(C) a licensee's or transferee's contractors, subcontractors, or customers involved in launch services; or
+&emsp;&emsp;(C) a licensee's or transferee's contractors, subcontractors, or customers involved in launch services or reentry services; or
 
-&emsp;&emsp;(D) the customer's contractors or subcontractors involved in launch services.
+&emsp;&emsp;(D) the customer's contractors or subcontractors involved in launch services or reentry services.
 
-&emsp;(12) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+&emsp;(16) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1331; Pub. L. 104–287, §5(92), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(3), Oct. 28, 1998, 112 Stat. 2846.)
 
 Historical and Revision Notes
 
@@ -119,6 +133,18 @@ In clause (11), before subclause (A), the words “or entity” are omitted as s
 This amends 49:70102(6) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1331).
 
 #### Amendments
+
+1998—Par. (3). Pub. L. 105–303, §102(a)(3)(A), substituted “or reentry vehicle and any payload from Earth” for “and any payload” in introductory provisions and a comma for the period at end of subpar. (C) and inserted concluding provisions.
+
+Par. (8). Pub. L. 105–303, §102(a)(3)(B), inserted “or reentry vehicle” after “means of a launch vehicle”.
+
+Pars. (10) to (13). Pub. L. 105–303, §102(a)(3)(D), added pars. (10) to (13). Former pars. (10) to (12) redesignated (14) to (16), respectively.
+
+Par. (14). Pub. L. 105–303, §102(a)(3)(C), redesignated par. (10) as (14).
+
+Par. (15). Pub. L. 105–303, §102(a)(3)(C), (E), redesignated par. (11) as (15) and inserted “or reentry services” after “launch services” wherever appearing.
+
+Par. (16). Pub. L. 105–303, §102(a)(3)(C), redesignated par. (12) as (16).
 
 1996—Par. (6). Pub. L. 104–287 substituted “facilities at that location” for “facilities”.
 

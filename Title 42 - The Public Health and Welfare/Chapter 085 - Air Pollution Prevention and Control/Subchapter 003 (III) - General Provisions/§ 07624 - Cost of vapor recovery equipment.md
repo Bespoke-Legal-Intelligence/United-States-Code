@@ -8,7 +8,7 @@ The regulations under this chapter applicable to vapor recovery with respect to 
 
 The regulations of the Administrator referred to in subsection (a) of this section shall permit a lease of a retail outlet to provide for payment by the lessee of the cost of procurement and installation of vapor recovery equipment over a reasonable period (as determined in accordance with such regulations), if the owner of such outlet does not sell, trade in, or otherwise dispense any product at wholesale or retail at such outlet.
 
-(July 14, 1955, ch. 360, title III, §323, formerly §324, as added Aug. 7, 1977, Pub. L. 95–95, title III, §314(a), 91 Stat. 788; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(82), 91 Stat. 1404; renumbered §323 and amended July 2, 1980, Pub. L. 96–300, §1(b), (c), 94 Stat. 831.)
+(July 14, 1955, ch. 360, title III, §323, formerly §324, as added Pub. L. 95–95, title III, §314(a),Aug. 7, 1977, 91 Stat. 788; amended Pub. L. 95–190, §14(a)(82), Nov. 16, 1977, 91 Stat. 1404; renumbered §323 and amended Pub. L. 96–300, §1(b), (c), July 2, 1980, 94 Stat. 831.)
 
 #### Prior Provisions
 

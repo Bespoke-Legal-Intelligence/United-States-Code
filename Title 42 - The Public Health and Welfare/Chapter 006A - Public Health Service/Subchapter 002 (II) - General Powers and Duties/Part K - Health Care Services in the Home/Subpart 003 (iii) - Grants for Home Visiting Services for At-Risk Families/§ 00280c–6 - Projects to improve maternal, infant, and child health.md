@@ -120,7 +120,7 @@ Each grantee under subsection (a) of this section shall provide outreach and cas
 
 #### (h) Confidentiality
 
-In accordance with applicable State law, an entity receiving a grant under subsection (a) of this section shall maintain confidentiality with respect to services provided to families under this section.
+In accordance with applicable State law, an entity receiving a grant under subsection (a) ofthis section shall maintain confidentiality with respect to services provided to families under this section.
 
 #### (i) Certain assurances
 
@@ -132,7 +132,7 @@ The Secretary may award a grant under subsection (a) of this section only if the
 
 &emsp;&emsp;(B) to other eligible families, for at least 2 years; and
 
-&emsp;(2) the entity will coordinate with public health and related social service agencies toprevent duplication of effort and improve the delivery of comprehensive health and related social services.
+&emsp;(2) the entity will coordinate with public health and related social service agencies to prevent duplication of effort and improve the delivery of comprehensive health and related social services.
 
 #### (j) Submission to Secretary of certain information
 
@@ -216,7 +216,7 @@ The Secretary may make a grant under subsection (a) of this section only if—
 
 &emsp;The Secretary shall, directly or through contracts with public or private entities—
 
-&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a)of this section in reducing the incidence of children born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
+&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) of this section in reducing the incidence of children born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
 
 &emsp;&emsp;(B) not less than once during each 3-year period, prepare and submit to the appropriate committees of Congress a report concerning the results of such evaluations.
 
@@ -256,7 +256,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there is authorized to be appropriated $30,000,000 for each of the fiscal years 1993 and 1994.
 
-(July 1, 1944, ch. 373, title III, §399, as added July 10, 1992, Pub. L. 102–321, title V, §502(2), 106 Stat. 427; amended Nov. 2, 1994, Pub. L. 103–448, title II, §204(w)(2)(D), 108 Stat. 4746.)
+(July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746.)
 
 #### References in Text
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L.102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

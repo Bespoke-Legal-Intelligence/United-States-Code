@@ -16,7 +16,7 @@ Military Ranges.—(1) In the case of a rifle range referred to in subsection (a
 
 Regulations.—Regulations to carry out this section with respect to a rifle range shall be prescribed, subject to the approval of the Secretary concerned, by the authorities controlling the rifle range.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 236; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(b)(3)(A), 99 Stat. 735; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §328(e), 104 Stat. 1533; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, §380(b)(1), 106 Stat. 2390.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 236; Pub. L. 99–145, title XIII, §1301(b)(3)(A), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–510, div. A, title III, §328(e), Nov. 5, 1990, 104 Stat. 1533; Pub. L. 102–484, div. A, title III, §380(b)(1), Oct. 23, 1992, 106 Stat. 2390.)
 
 Historical and Revision Notes
 
@@ -62,7 +62,7 @@ Regulations.—Regulations to carry out this section shall be prescribed by the 
 
 “(a) The Secretary of the Army shall submit annually to Congress recommendations and estimates for the establishment and maintenance of indoor and outdoor rifle ranges under a plan to provide facilities for rifle practice in all sections of the country.
 
-“(b) All rifle ranges established under subsection (a) and all rifle ranges already constructed, in whole or in part with funds provided by the United States, may be used by members of the armed forces and by all able-bodied persons capable of bearing arms, under regulations prescribed by the authorities controlling those ranges and approved by the Secretary.”
+“(b) All rifle ranges established under subsection (a) and all rifle ranges already constructed, in whole or inpart with funds provided by the United States, may be used by members of the armed forces and by all able-bodied persons capable of bearing arms, under regulations prescribed by the authorities controlling those ranges and approved by the Secretary.”
 
 1985—Subsec. (b). Pub. L. 99–145 substituted “persons” for “males”.
 

@@ -6,7 +6,7 @@ As used in this subpart:
 
 #### (1) Family preservation services
 
-&emsp;The term “family preservation services” means services for children and families designed to help families (including adoptive andextended families) at risk or in crisis, including—
+&emsp;The term “family preservation services” means services for children and families designed to help families (including adoptive and extended families) at risk or in crisis, including—
 
 &emsp;&emsp;(A) service programs designed to help children—
 
@@ -76,7 +76,7 @@ As used in this subpart:
 
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §431, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(a)(2), 107 Stat. 650; amended Nov. 19, 1997, Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), 111 Stat. 2131, 2132.)
+(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132.)
 
 #### References in Text
 

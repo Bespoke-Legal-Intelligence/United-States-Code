@@ -24,7 +24,7 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 #### Effective Date
 
-Section 205 of title II of Pub. L. 99–170 provided that: “This title \[enacting this section and sections 2466a to 2466c of this title\] shall apply to flights of the Space Transportation System beginning on and after October 1, 1988.”
+Section 205 of title II of Pub. L. 99–170 provided that: “This title \[enacting this section and sections 2466a to2466c of this title\] shall apply to flights of the Space Transportation System beginning on and after October 1, 1988.”
 
 #### Section Referred to in Other Sections
 

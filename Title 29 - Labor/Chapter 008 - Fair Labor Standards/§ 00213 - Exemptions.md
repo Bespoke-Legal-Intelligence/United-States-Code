@@ -18,7 +18,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
-&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part ofwhich circulation is within the county where published or counties contiguous thereto; or
+&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
 
 &emsp;(9) Repealed. Pub. L. 93–259, §23(a)(1), Apr. 8, 1974, 88 Stat. 69.
 
@@ -78,7 +78,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
-&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used inthe operation of a farm, if no more than five employees are employed in the establishment in such operations; or
+&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used in the operation of a farm, if no more than five employees are employed in the establishment in such operations; or
 
 &emsp;(15) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
 
@@ -120,7 +120,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) of this title,
 
-&emsp;(B) is twelve years or thirteen years of age and (i) such employment is with the consent of his parent or person standing in the place of his parent, or (ii) his parent or such person is employed on the same farm as such employee, or
+&emsp;(B) is twelve years or thirteen years of age and (i) such employment is with the consent of his parent or person standing in the place ofhis parent, or (ii) his parent or such person is employed on the same farm as such employee, or
 
 &emsp;(C) is fourteen years of age or older.
 
@@ -180,7 +180,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(II) on any fatality of an employee under the age of 18 resulting from the employee's contact with a scrap paper baler or paper box compactor during the loading, operation, or unloading of the baler or compactor.
 
-(ii) The reports described in clause (i) shall be used by the Secretary to determine whether or not the implementation of subparagraph (A) has had any effect on the safety of children.
+(ii) The reports described in clause (i) shall be used by the Secretary to determine whether ornot the implementation of subparagraph (A) has had any effect on the safety of children.
 
 (iii) The reports described in clause (i) shall provide—
 
@@ -200,6 +200,40 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 (vi) The reporting requirements of this subparagraph shall expire 2 years after August 6, 1996.
 
+(6) In the administration and enforcement of the child labor provisions of this chapter, employees who are under 17 years of age may not drive automobiles or trucks on public roadways. Employees who are 17 years of age may drive automobiles or trucks on public roadways only if—
+
+&emsp;(A) such driving is restricted to daylight hours;
+
+&emsp;(B) the employee holds a State license valid for the type of driving involved in the job performed and has no records of any moving violation at the time of hire;
+
+&emsp;(C) the employee has successfully completed a State approved driver education course;
+
+&emsp;(D) the automobile or truck is equipped with a seat belt for the driver and any passengers and the employee's employer has instructed the employee that the seat belts must be used when driving the automobile or truck;
+
+&emsp;(E) the automobile or truck does not exceed 6,000 pounds of gross vehicle weight;
+
+&emsp;(F) such driving does not involve—
+
+&emsp;&emsp;(i) the towing of vehicles;
+
+&emsp;&emsp;(ii) route deliveries or route sales;
+
+&emsp;&emsp;(iii) the transportation for hire of property, goods, or passengers;
+
+&emsp;&emsp;(iv) urgent, time-sensitive deliveries;
+
+&emsp;&emsp;(v) more than two trips away from the primary place of employment in any single day for the purpose of delivering goods of the employee's employer to a customer (other than urgent, time-sensitive deliveries);
+
+&emsp;&emsp;(vi) more than two trips away from the primary place of employment in any single day for the purpose of transporting passengers (other than employees of the employer);
+
+&emsp;&emsp;(vii) transporting more than three passengers (including employees of the employer); or
+
+&emsp;&emsp;(viii) driving beyond a 30 mile radius from the employee's place of employment; and
+
+&emsp;(G) such driving is only occasional and incidental to the employee's employment.
+
+> For purposes of subparagraph (G), the term “occasional and incidental” is no more than one-third of an employee's worktime in any workday and no more than 20 percent of an employee's worktime in any workweek.
+
 #### (d) Delivery of newspapers and wreathmaking
 
 The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
@@ -214,7 +248,7 @@ The provisions of sections 206, 207, 211, and 212 of this title shall not apply 
 
 #### (g) Certain employment in retail or service establishments, agriculture
 
-The exemption from section 206 of this title provided by paragraph (6) of subsection (a) of this section shall not apply with respect to any employee employed by an establishment (1) which controls, is controlled by, or is under common control with, another establishment the activities of which are not related for a common business purpose to, but materially support the activities of the establishment employing such employee; and (2) whose annual gross volume of sales made or business done, when combined with the annual gross volume of sales made or business done by each establishment which controls, is controlled by, or is under common control with, the establishment employing such employee, exceeds $10,000,000 (exclusive of excise taxes at the retail level which are separately stated).
+The exemption from section 206 of this title provided by paragraph (6) of subsection (a) of this section shall not apply with respect to any employee employed by an establishment (1) which controls, is controlled by, or is under common control with, another establishment the activities of which are not related for a common business purpose to, but materially support the activities of the establishment employingsuch employee; and (2) whose annual gross volume of sales made or business done, when combined with the annual gross volume of sales made or business done by each establishment which controls, is controlled by, or is under common control with, the establishment employing such employee, exceeds $10,000,000 (exclusive of excise taxes at the retail level which are separately stated).
 
 #### (h) Maximum hour requirement: fourteen workweek limitation
 
@@ -268,7 +302,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 > &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
-(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477.)
+(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137.)
 
 #### References in Text
 
@@ -283,6 +317,8 @@ In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for �
 In subsec. (b)(1), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]”, on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+
+1998—Subsec. (c)(6). Pub. L. 105–334 added par. (6).
 
 1997—Subsec. (b)(12). Pub. L. 105–78 substituted “water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year” for “water for agricultural purposes”.
 
@@ -330,7 +366,7 @@ Subsec. (j). Pub. L. 95–151, §7(b), added subsec. (j).
 
 Subsec. (a)(9). Pub. L. 93–259, §23(a)(1), repealed exemption provision respecting any employee employed by an establishment which is a motion picture theater. See subsec. (b)(27) of this section.
 
-Subsec. (a)(11). Pub. L. 93–259, §10(a), repealed exemption provision respecting any employee or proprietor in a retail or service establishment which qualifies as an exempt retail or service establishment under former par. (2) of subsec. (a) with respect to whom provisions of sections 206 and 207 of this title would not otherwiseapply, engaged in handling telegraphic messages for public under an agency or contract arrangement with a telegraph company where telegraph message revenue of such agency does not exceed $500 a month.
+Subsec. (a)(11). Pub. L. 93–259, §10(a), repealed exemption provision respecting any employee or proprietor in a retail or service establishment which qualifies as an exempt retail or service establishment under former par. (2) of subsec. (a) with respect to whom provisions of sections 206 and 207 of this title would not otherwise apply, engaged in handling telegraphic messages for public under an agency or contract arrangement with a telegraph company where telegraph message revenue of such agency does not exceed $500 a month.
 
 Subsec. (a)(13). Pub. L. 93–259, §23(b)(1), repealed exemption provision respecting any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to mill, processing plant, railroad, or other transportation terminal, if number of employees employed by his employer in such forestry or lumbering operations does not exceed eight. See subsec. (b)(28) of this section.
 
@@ -344,7 +380,7 @@ Subsec. (b)(4). Pub. L. 93–259, §11(a), effective May 1, 1974, inserted “wh
 
 Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
 
-Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
+Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receivescompensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
 
 Subsec. (b)(10). Pub. L. 93–259, §14, incorporated existing paragraph in provisions designated as subpar. (A), struck out from the list references to trailers and aircraft, inserted reference to implements, and added subpar. (B) incorporating references to trailers and aircraft.
 
@@ -438,7 +474,7 @@ Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwaj
 
 Subsec. (a)(2). Pub. L. 87–30, §9, inserted conditional provision, including subclauses (i) to (iv).
 
-Subsec. (a)(5). Pub. L. 87–30, §9, inserted “propagating” and “or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations” after “taking” and “life”, respectively, and substituted “loading and unloading when performed by any such employee” for “including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the aboveproducts or byproducts thereof”. See subsec. (b)(4) of this section.
+Subsec. (a)(5). Pub. L. 87–30, §9, inserted “propagating” and “or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations” after “taking” and “life”, respectively, and substituted “loading and unloading when performed by any such employee” for “including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof”. See subsec. (b)(4) of this section.
 
 Subsec. (a)(7). Pub. L. 87–30, §9, substituted “Secretary” for “Administrator”.
 
@@ -496,6 +532,22 @@ Subsec. (d). Act Oct. 26, 1949, added par. (d).
 
 1939—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–334, §2(b), Oct. 31, 1998, 112 Stat. 3138, provided that:
+
+“(1)
+
+In general.—This Act \[amending this section and enacting provisions set out as a note under section 201 of this title\] shall become effective on the date of the enactment of this Act \[Oct. 31, 1998\].
+
+“(2)
+
+Exception.—The amendment made by subsection (a) \[amending this section\] defining the term ‘occasional and incidental’ shall also apply to any case, action, citation, or appeal pending on the date of the enactment of this Act unless such case, action, citation, or appeal involves property damage or personal injury.”
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–329 effective on first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of Title 5, Government Organization and Employees.
@@ -539,10 +591,6 @@ Section 20(c)(2), (3) of Pub. L. 93–259 provided that the amendments made by t
 Section 21(b)(2), (3) of Pub. L. 93–259 provided that the amendment and repeal made by that section are effective one year and two years after May 1, 1974, respectively.
 
 Amendment by sections 7(b)(3), (4), 9(b), 10(a), (b)(1), 11(a), 12(a), 13(a), 14, 15(a), 17, 18, 20(a), (b)(1), (c)(1), 21(b)(1), 22, 23, and 25(b) of Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
-
-#### Effective Date of 1995 Amendment
-
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective Date of 1966 Amendments
 
@@ -598,5 +646,5 @@ Section 3 of act Aug. 3, 1956, provided that: “Section 13(b)(1) of the Fair La
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 206, 216, 218, 795, 1803, 2612 of this title; title 5 sections 5343, 5349, 5545a; title 42 sections 300e–9, 1437t, 3056, 8009, 8011.
+This section is referred to in sections 206, 216, 218, 1803, 2612 of this title; title 5 sections 5343, 5349, 5545a; title 42 sections 300e–9, 1437t, 3056, 8009, 8011.
 

@@ -50,15 +50,13 @@ The Commission may, in the public interest or for the protection of investors, i
 
 #### (f) Exemption authority
 
-The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (c) <sup>1</sup> of this section, if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
+The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (e) of this section, if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
 
-(Aug. 22, 1940, ch. 686, title I, §31, 54 Stat. 838; Oct. 11, 1996, Pub. L. 104–290, title II, §207, 110 Stat. 3430.)
-
-#### References in Text
-
-Subsection (c) of this section, referred to in subsec. (f), was redesignated subsec. (e) of this section by Pub. L. 104–290, title II, §207(2), Oct. 11, 1996, 110 Stat. 3431.
+(Aug. 22, 1940, ch. 686, title I, §31, 54 Stat. 838; Pub. L. 104–290, title II, §207, Oct. 11, 1996, 110 Stat. 3430; Pub. L. 105–353, title III, §301(c)(6), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–353 substituted “subsection (e)” for “subsection (c)”.
 
 1996—Subsecs. (a), (b). Pub. L. 104–290, §207(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -87,6 +85,4 @@ Falsification of reports and records, see section 80a–33 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–2, 80a–6, 80a–33, 80a–48, 80a–56, 80a–63 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

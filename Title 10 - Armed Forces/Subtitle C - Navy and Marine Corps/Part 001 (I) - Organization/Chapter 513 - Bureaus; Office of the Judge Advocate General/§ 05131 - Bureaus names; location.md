@@ -6,7 +6,7 @@ There are in the executive part of the Department of the Navy the following bure
 
 (2) Bureau of Naval Personnel.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Aug. 18, 1959, Pub. L. 86–174, §§1(1), 2(1), 73 Stat. 395; Nov. 2, 1966, Pub. L. 89–718, §35(1), 80 Stat. 1120.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Pub. L. 86–174, §§1(1), 2(1), Aug. 18, 1959, 73 Stat. 395; Pub. L. 89–718, §35(1), Nov. 2, 1966, 80 Stat. 1120.)
 
 Historical and Revision Notes
 
@@ -26,7 +26,7 @@ The bureaus are listed alphabetically for convenience. This listing has no effec
 
 #### Amendments
 
-1966—Pub. L. 89–718 struck out cls. (3) to (6) which related to the Bureau of Naval Weapons, the Bureau of Ships, the Bureau of Supplies and Accounts, and the Bureau of Yards and Docks, respectively.
+1966—Pub. L. 89–718 struck out cls. (3) to (6) which related to the Bureau of Naval Weapons, the Bureau ofShips, the Bureau of Supplies and Accounts, and the Bureau of Yards and Docks, respectively.
 
 1959—Pub. L. 86–174 inserted reference to Bureau of Naval Weapons and struck out reference to Bureau of Aeronautics and Bureau of Ordnance.
 

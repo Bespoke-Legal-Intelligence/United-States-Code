@@ -1,6 +1,6 @@
 ### §8262a. Report by General Services Administration
 
-Not later than one year after October 24, 1992, and annually thereafter, the Administrator of General Services shall report to the Committee on Governmental Affairs and the Committee on Energy and Natural Resources of the Senate andthe Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives on the activities of the General Services Administration conducted pursuant to this subtitle.<sup>1</sup>
+Not later than one year after October 24, 1992, and annually thereafter, the Administrator of General Services shall report to the Committee on Governmental Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives on the activities of the General Services Administration conducted pursuant to this subtitle.<sup>1</sup>
 
 (Pub. L. 102–486, title I, §154, Oct. 24, 1992, 106 Stat. 2852.)
 
@@ -16,7 +16,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 

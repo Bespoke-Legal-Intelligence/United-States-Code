@@ -16,7 +16,7 @@ Upon application of a State or political subdivision thereof, the Secretary may 
 
 #### (c) Scope
 
-For purposes of subsection (a) of this section, a reference to a State requirement that relatesto the packaging or labeling of a cosmetic means any specific requirement relating to the same aspect of such cosmetic as a requirement specifically applicable to that particular cosmetic or class of cosmetics under this chapter for packaging or labeling, including any State requirement relating to public information or any other form of public communication.
+For purposes of subsection (a) of this section, a reference to a State requirement that relates to the packaging or labeling of a cosmetic means any specific requirement relating to the same aspect of such cosmetic as a requirement specifically applicable to that particular cosmetic or class of cosmetics under this chapter for packaging or labeling, including any State requirement relating to public information or any other form of public communication.
 
 #### (d) No effect on product liability law
 

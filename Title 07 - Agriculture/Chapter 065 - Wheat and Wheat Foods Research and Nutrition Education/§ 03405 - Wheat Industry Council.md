@@ -32,7 +32,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (h) Investment of assessment funds
 
-&emsp;that the Council, with the approval of the Secretary, may invest, pending disbursement pursuant to a plan or project, funds collected through assessments authorized under this title in, and only in, obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank which is a member of the Federal Reserve System, or inobligations fully guaranteed as to principal and interest by the United States;
+&emsp;that the Council, with the approval of the Secretary, may invest, pending disbursement pursuant to a plan or project, funds collected through assessments authorized under this title in, and only in, obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank which is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States;
 
 #### (i) Lobbying restriction
 
@@ -40,7 +40,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (j) Reimbursement of expenses
 
-&emsp;that the Council members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
+&emsp;that the Council members, and alternates therefor, shall serve without compensation,but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
 
 (Pub. L. 95–113, title XVII, §1706, Sept. 29, 1977, 91 Stat. 1034.)
 

@@ -24,3 +24,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Another section 620G of Pub. L. 87–195 is classified to section 2377 of this title.
 
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of State, with Secretary of State required to consult with Secretary of Defense, by section 1–201(a)(13) of Ex. Ord. No. 12163, as amended, set out as a note under section 2381 of this title.
+

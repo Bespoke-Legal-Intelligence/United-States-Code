@@ -6,7 +6,7 @@ Before adoption of any plan for remedial action to be undertaken by the Presiden
 
 &emsp;(1) Publish a notice and brief analysis of the proposed plan and make such plan available to the public.
 
-&emsp;(2) Provide a reasonable opportunity for submission of written and oral comments and an opportunity for a public meeting at or near the facility at issue regarding the proposed plan and regarding any proposed findings under section 9621(d)(4) of this title (relating to cleanup standards). The President or the State shall keep a transcript of the meetingand make such transcript available to the public.
+&emsp;(2) Provide a reasonable opportunity for submission of written and oral comments and an opportunity for a public meeting at or near the facility at issue regarding the proposed plan and regarding any proposed findings under section 9621(d)(4) of this title (relating to cleanup standards). The President or the State shall keep a transcript of the meeting and make such transcript available to the public.
 
 > The notice and analysis published under paragraph (1) shall include sufficient information as may be necessary to provide a reasonable explanation of the proposed plan and alternative proposals considered.
 
@@ -38,7 +38,7 @@ For the purposes of this section, publication shall include, at a minimum, publi
 
 #### (2) Amount
 
-&emsp;The amount of any grant under this subsection may not exceed $50,000 for a single grant recipient. The President may waive the $50,000 limitation in any case where such waiver is necessary to carry out the purposes of this subsection. Each grant recipient shall be required, as a condition of the grant, to contribute at least 20 percent of the total of costs of the technical assistance for which such grant is made. The President may waive the 20 percent contribution requirement if the grant recipient demonstrates financial need and such waiver is necessary to facilitate public participation in the selection of remedial action at the facility. Not more than one grant may be made under this subsection with respect to a single facility, but the grant may be renewed to facilitate public participation at all stages of remedial action.
+&emsp;The amount of any grant under this subsection may not exceed $50,000 for a single grant recipient. The President may waive the $50,000 limitation in any case where such waiver is necessary to carry out the purposes of this subsection. Each grant recipient shall be required, as a condition of the grant, to contribute at least 20 percent of the total of costsof the technical assistance for which such grant is made. The President may waive the 20 percent contribution requirement if the grant recipient demonstrates financial need and such waiver is necessary to facilitate public participation in the selection of remedial action at the facility. Not more than one grant may be made under this subsection with respect to a single facility, but the grant may be renewed to facilitate public participation at all stages of remedial action.
 
 (Pub. L. 96–510, title I, §117, as added Pub. L. 99–499, title I, §117, Oct. 17, 1986, 100 Stat. 1654.)
 

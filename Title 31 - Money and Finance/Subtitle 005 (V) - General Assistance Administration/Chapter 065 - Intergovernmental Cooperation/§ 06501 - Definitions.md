@@ -116,7 +116,7 @@ Oct. 16, 1968, Pub. L. 90–577, §§101–107, 109, 110, 82 Stat. 1098, 1100, 1
 
 42:4201(4).
 
-In clause (1), the word “assistance” is substituted for “ ‘Federal assistance’, ‘Federal assistance programs’, or ‘federally assisted programs’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “the transfer of anything of value for a public purpose of support or stimulation that is (A) authorized by a law of the United States” are substituted for “programs that provide assistance” for consistency with section 6101(3) of the revised title. The words “section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (PublicLaw 93–198, 87 Stat. 813, D.C. Code §47–3406)” are substituted for “article VI of the District of Columbia Revenue Act of 1947 (D.C. Code secs. 47–2501a and 47–2501b)” because the former has superseded the latter.
+In clause (1), the word “assistance” is substituted for “ ‘Federal assistance’, ‘Federal assistance programs’, or ‘federally assisted programs’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “the transfer of anything of value for a public purpose of support or stimulation that is (A) authorized by a law of the United States” are substituted for “programs that provide assistance” for consistency with section 6101(3) of the revised title. The words “section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 813, D.C. Code §47–3406)” are substituted for “article VI of the District of Columbia Revenue Act of 1947 (D.C. Code secs. 47–2501a and 47–2501b)” because the former has superseded the latter.
 
 Clause (3) restates the source provisions because of the definition of “executive agency” in section 102 of the revised title.
 
@@ -142,7 +142,7 @@ This amends 31:6501(1)(B) to clarify the section as enacted by the Act of Sept. 
 
 #### References in Text
 
-The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended,which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 #### Amendments
 

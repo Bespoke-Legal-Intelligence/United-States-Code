@@ -48,7 +48,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 (1) With respect to a vessel operating in Alaska, this section does not prohibit, nor may the State of Alaska make it a violation of law for there to occur, the repair, transport, possession, or use of any gambling device on board a vessel which provides sleeping accommodations for all of its passengers and that is on a voyage or segment of a voyage described in paragraph (2), except that such State may, within its boundaries—
 
-&emsp;(A) prohibit the use of a gambling device on a vessel while it is docked or anchored or while it is operating within 3 nautical miles of a port at which it is scheduled to call; and
+&emsp;(A) prohibit the use of a gambling device on a vessel while it is docked or anchored orwhile it is operating within 3 nautical miles of a port at which it is scheduled to call; and
 
 &emsp;(B) require the gambling devices to remain on board the vessel.
 
@@ -60,7 +60,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;(C) is of at least 60 hours duration.
 
-(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Mar. 9, 1992, Pub. L. 102–251, title II, §202(b), 106 Stat. 61; Oct. 9, 1996, Pub. L. 104–264, title XII, §1222, 110 Stat. 3286; Oct. 19, 1996, Pub. L. 104–324, title XI, §1106, 110 Stat. 3967.)
+(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Pub. L. 102–251, title II, §202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, §1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, §1106, Oct. 19, 1996, 110 Stat. 3967.)
 
 #### Amendments
 

@@ -34,7 +34,7 @@ The regulations prescribed under subsection (a) of this section for any species 
 
 #### (d) Procedure
 
-Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both theSecretary's determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed by law with respect to agency rulemaking, the Secretary shall publish and make available to the public either before or concurrent with the Publication of notice in the Federal Register of his intention to prescribe regulations under this section—
+Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both the Secretary's determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed by law with respect to agency rulemaking, the Secretary shall publish and make available to the public either before or concurrent with the Publication of notice in the Federal Register of his intention to prescribe regulations under this section—
 
 &emsp;(1) a statement of the estimated existing levels of the species and population stocks of the marine mammal concerned;
 

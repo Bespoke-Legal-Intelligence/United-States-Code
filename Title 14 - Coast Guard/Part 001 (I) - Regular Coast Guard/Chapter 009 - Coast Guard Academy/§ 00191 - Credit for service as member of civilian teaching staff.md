@@ -1,8 +1,8 @@
 ### §191. Credit for service as member of civilian teaching staff
 
-Service as a member of the civilian teaching staff at the Academy in addition to creditable services authorized by any other law in any of the military services rendered prior to an appointment as professor, associate professor, assistant professor, or instructor shall be credited in computing length of service as a professor, associate professor, assistant professor, or instructor for purposes of pay and allowances.
+Service as a member of the civilian teaching staff at the Academy in addition to creditable services authorized by any other law in any of the military services rendered prior to an appointment as professor, associate professor, assistant professor, or instructor shall be creditedin computing length of service as a professor, associate professor, assistant professor, or instructor for purposes of pay and allowances.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 510; May 14, 1960, Pub. L. 86–474, §1(14), 74 Stat. 146.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 510; Pub. L. 86–474, §1(14), May 14, 1960, 74 Stat. 146.)
 
 #### Historical and Revision Notes
 

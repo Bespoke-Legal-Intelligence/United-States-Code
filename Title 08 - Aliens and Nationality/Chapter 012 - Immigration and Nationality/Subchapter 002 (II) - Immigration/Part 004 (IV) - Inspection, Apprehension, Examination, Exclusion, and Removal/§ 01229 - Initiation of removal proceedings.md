@@ -68,7 +68,7 @@ Service by mail under this section shall be sufficient if there is proof of atte
 
 (2) Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §239, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §304(a)(3), 110 Stat. 3009–587.)
+(June 27, 1952, ch. 477, title II, ch. 4, §239, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–587.)
 
 #### Prior Provisions
 

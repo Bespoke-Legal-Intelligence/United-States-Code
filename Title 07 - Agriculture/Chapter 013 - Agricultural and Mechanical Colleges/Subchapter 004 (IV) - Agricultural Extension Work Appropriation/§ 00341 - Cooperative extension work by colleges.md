@@ -2,7 +2,7 @@
 
 In order to aid in diffusing among the people of the United States useful and practical information on subjects relating to agriculture, uses of solar energy with respect to agriculture, home economics, and rural energy, and to encourage the application of the same, there may be continued or inaugurated in connection with the college or colleges in each State, Territory, or possession, now receiving, or which may hereafter receive, the benefits of subchapters I and II of this chapter, agricultural extension work which shall be carried on in cooperation with the United States Department of Agriculture: <i>Provided</i>, That in any State, Territory, or possession in which two or more such colleges have been or hereafter may be established, the appropriations hereinafter made to such State, Territory, or possession shall be administered by such college or colleges as the legislature of such State, Territory, or possession may direct. For the purposes of this subchapter, the term “solar energy” means energy derived from sources (other than fossil fuels) and technologies included in the Federal Non-Nuclear <sup>1</sup> Energy Research and Development Act of 1974, as amended \[42 U.S.C. 5901 et seq.\].
 
-(May 8, 1914, ch. 79, §1, 38 Stat. 372; June 26, 1953, ch. 157, §1, 67 Stat. 83; Sept. 29, 1977, Pub. L. 95–113, title XIV, §1447(1), (2), 91 Stat. 1011; June 30, 1980, Pub. L. 96–294, title II, §256(1), 94 Stat. 708.)
+(May 8, 1914, ch. 79, §1, 38 Stat. 372; June 26, 1953, ch. 157, §1, 67 Stat. 83; Pub. L. 95–113, title XIV, §1447(1), (2), Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–294, title II, §256(1), June 30, 1980, 94 Stat. 708.)
 
 #### References in Text
 
@@ -26,7 +26,9 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Short Title
 
-Act May 8, 1914, as amended, which is classified to this subchapter, is popularly known as the “Smith-Lever Act” and the “Agricultural Extension Work Act”.
+Act May 8, 1914, ch. 79, §11, as added by Pub. L. 105–185, §3(a), June 23, 1998, 112 Stat. 525, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Smith-Lever Act’.”
+
+Act May 8, 1914, as amended, is also popularly known as the “Agricultural Extension Work Act”.
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated annually, from money in the Treasury of the United States not otherwise appropriated, such sums as are necessary for the administration of this subchapter and for the maintenance of laboratory or other facilities provided for carrying out the purposes of this subchapter.
 
-(July 2, 1940, ch. 516, §7, 54 Stat. 725; Oct. 20, 1965, Pub. L. 89–280, §1, 79 Stat. 1012; Oct. 19, 1979, Pub. L. 96–89, §1, 93 Stat. 697; July 22, 1983, Pub. L. 98–57, §1, 97 Stat. 293.)
+(July 2, 1940, ch. 516, §7, 54 Stat. 725; Pub. L. 89–280, §1, Oct. 20, 1965, 79 Stat. 1012; Pub. L. 96–89, §1, Oct. 19, 1979, 93 Stat. 697; Pub. L. 98–57, §1, July 22, 1983, 97 Stat. 293.)
 
 #### Codification
 

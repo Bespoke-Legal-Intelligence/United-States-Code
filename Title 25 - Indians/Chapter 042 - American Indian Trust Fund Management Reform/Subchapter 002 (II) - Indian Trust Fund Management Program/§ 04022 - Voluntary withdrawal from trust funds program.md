@@ -24,5 +24,5 @@ Beginning on the date funds are withdrawn pursuant to this section, any trust re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4023 of this title.
+This section is referred to in sections 1300d–24, 4023 of this title.
 

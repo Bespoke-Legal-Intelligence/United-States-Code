@@ -18,7 +18,7 @@ As used in this subchapter—
 
 (h) The term “Territory” includes the insular possessions of the United States and also any Territory of the United States.
 
-(Oct. 14, 1940, ch. 871, §2, 54 Stat. 1128; May 5, 1980, Pub. L. 96–242, §1, 94 Stat. 344.)
+(Oct. 14, 1940, ch. 871, §2, 54 Stat. 1128; Pub. L. 96–242, §1, May 5, 1980, 94 Stat. 344.)
 
 #### References in Text
 

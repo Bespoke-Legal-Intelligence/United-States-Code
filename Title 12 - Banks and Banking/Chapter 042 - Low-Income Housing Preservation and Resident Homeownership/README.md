@@ -128,7 +128,7 @@ Subtitle C of the Low-Income Housing Preservation and Resident Homeownership Act
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1715z–1 of this title; title 42 sections 8107, 12742, 12877.
+This chapter is referred to in sections 1715z–1, 1715z–1b of this title; title 42 sections 1437n, 8107, 12742, 12877.
 
 
 ---

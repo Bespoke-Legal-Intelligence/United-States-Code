@@ -2,7 +2,7 @@
 
 Whoever, being master or commander of a vessel of the United States, while abroad, maliciously and without justifiable cause forces any officer or mariner of such vessel on shore, in order to leave him behind in any foreign port or place, or refuses to bring home again all such officers and mariners of such vessel whom he carried out with him, as are in a condition to return and willing to return, when he is ready to proceed on his homeward voyage, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 801; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 801; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

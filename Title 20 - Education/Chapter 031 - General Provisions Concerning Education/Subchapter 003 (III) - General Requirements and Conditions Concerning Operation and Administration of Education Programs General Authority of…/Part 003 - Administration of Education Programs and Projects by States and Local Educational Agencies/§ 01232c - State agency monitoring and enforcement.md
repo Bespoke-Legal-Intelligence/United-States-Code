@@ -28,7 +28,7 @@ Any withholding of payments under subsection (b)(3) of this subsection <sup>1</
 
 #### Prior Provisions
 
-A prior section 1232c, Pub. L. 90–247, title IV, §434, formerly §424, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §434 and amended Pub. L. 92–318, title III, §301(a)(1), title V, §501, June 23, 1972, 86 Stat. 326, 345; Pub. L. 93–380, title V, §§510, 511(a), Aug. 21, 1974, 88 Stat. 568, 569; Pub. L. 94–482, title V, §501(f)(1), Oct. 12, 1976, 90 Stat. 2237, related to administration of education programs and projects, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
+A prior section 1232c, Pub. L. 90–247, title IV, §434, formerly §424, as added Pub. L. 91–230, title IV,§401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §434 and amended Pub. L. 92–318, title III, §301(a)(1), title V, §501, June 23, 1972, 86 Stat. 326, 345; Pub. L. 93–380, title V, §§510, 511(a), Aug. 21, 1974, 88 Stat. 568, 569; Pub. L. 94–482, title V, §501(f)(1), Oct. 12, 1976, 90 Stat. 2237, related to administration of education programs and projects, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
 
 A prior section 440 of Pub. L. 90–247 was renumbered section 446, and is classified to section 1232i of this title.
 

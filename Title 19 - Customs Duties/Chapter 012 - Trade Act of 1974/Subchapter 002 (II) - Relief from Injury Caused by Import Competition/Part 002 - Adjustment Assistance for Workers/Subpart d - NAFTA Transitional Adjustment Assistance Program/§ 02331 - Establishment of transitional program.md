@@ -60,7 +60,7 @@ Workers covered by certification issued by the Secretary under subsection (c) of
 
 &emsp;(1) Employment services described in section 2295 of this title.
 
-&emsp;(2) Training described in section 2296 of this title, except that notwithstanding the provisions of section 2296(a)(2)(A) of this title, the total amount of payments for training under this subpart for any fiscal year shall not exceed $30,000,000.
+&emsp;(2) Training described in section 2296 of this title, except that notwithstanding the provisions of section 2296(a)(2)(A) of this title, the total amount of payments for training under this subpart for the period beginning October 1, 1998, and ending June 30, 1999, shall not exceed $15,000,000.
 
 &emsp;(3) Trade readjustment allowances described in sections 2291 through 2294 of this title, except that—
 
@@ -82,7 +82,7 @@ Workers covered by certification issued by the Secretary under subsection (c) of
 
 The provisions of subpart C of this part shall apply to the administration of the program under this subpart in the same manner and to the same extent as such provisions apply to the administration of the program under subparts A and B of this part, except that the agreement between the Secretary and the States described in section 2311 of this title shall specify the procedures that will be used to carry out the certification process under subsection (c) of this section and the procedures for providing relevant data by the Secretary to assist the States in making preliminary findings under subsection (b) of this section.
 
-(Pub. L. 93–618, title II, §250, as added Pub. L. 103–182, title V, §502, Dec. 8, 1993, 107 Stat. 2149.)
+(Pub. L. 93–618, title II, §250, as added Pub. L. 103–182, title V, §502, Dec. 8, 1993, 107 Stat. 2149; amended Pub. L. 105–277, div. J, title I, §1012(b), Oct. 21, 1998, 112 Stat. 2681–901.)
 
 #### Termination of Section
 
@@ -91,6 +91,10 @@ The provisions of subpart C of this part shall apply to the administration of th
 #### Prior Provisions
 
 A prior section 250 of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2029, provided for judicial review for workers or groups aggrieved by a final determination by the Secretary under section 2273 of this title, and was classified to section 2322 of this title, prior to repeal by Pub. L. 96–417.
+
+#### Amendments
+
+1998—Subsec. (d)(2). Pub. L. 105–277 substituted “for the period beginning October 1, 1998, and ending June 30, 1999, shall not exceed $15,000,000” for “for any fiscal year shall not exceed $30,000,000”.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Administration of Federal lands
 
-(1) <sup>1</sup> The Secretary shall administer Federal lands within the special management areas in accordance with sections 544 to 544p of this title and other laws, rules and regulations applicable to the national forest system. In addition, theconstruction of roads and the management, utilization and harvest of timber on Federal lands within the special management areas also shall be subject to Forest Service visual resource management guidelines. The Secretary shall utilize lands acquired through exchange in calculating the allowable sales quantity on the Gifford Pinchot and Mount Hood National Forests.
+(1) <sup>1</sup> The Secretary shall administer Federal lands within the special management areas in accordance with sections 544 to 544p of this title and other laws, rules and regulations applicable to the national forest system. In addition, the construction of roads and the management, utilization and harvest of timber on Federal lands within the special management areas also shall be subject to Forest Service visual resource management guidelines. The Secretary shall utilize lands acquired through exchange in calculating the allowable sales quantity on the Gifford Pinchot and Mount Hood National Forests.
 
 #### (b) Withdrawal of Federal lands
 
@@ -50,7 +50,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (j) Concurrence by Secretary
 
-(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concur with the Commission's tentative determination of consistency with the management plan unless the Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
+(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concurwith the Commission's tentative determination of consistency with the management plan unless the Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
 
 (2)
 

@@ -90,7 +90,7 @@ Nothing in this section shall be construed to prohibit the purchase of insurance
 
 The corporation may provide by regulation rules not inconsistent with this section governing the establishment and maintenance of funds, but only to the extent necessary to carry out the purposes of this part (other than section 1402 of this title).
 
-(Pub. L. 93–406, title IV, §4223, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1241; amended Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445.)
+(Pub. L. 93–406, title IV, §4223, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1241;amended Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445.)
 
 #### References in Text
 

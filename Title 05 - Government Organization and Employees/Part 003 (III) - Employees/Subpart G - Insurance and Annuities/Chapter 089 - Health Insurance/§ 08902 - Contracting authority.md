@@ -1,6 +1,6 @@
 ### §8902. Contracting authority
 
-(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 5 of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
+(a) The Office of Personnel Management may contract with qualified carriers offering plansdescribed by section 8903 or 8903a of this title, without regard to section 5 of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
 
 (b) To be eligible as a carrier for the plan described by section 8903(2) of this title, a company must be licensed to issue group health insurance in all the States and the District of Columbia.
 
@@ -12,7 +12,7 @@
 
 (d) Each contract under this chapter shall contain a detailed statement of benefits offered and shall include such maximums, limitations, exclusions, and other definitions of benefits as the Office considers necessary or desirable.
 
-(e) The Office may prescribe reasonable minimum standards for health benefits plans described by section 8903 or 8903a of this title and for carriers offering the plans. Approval of a plan may be withdrawn only after notice and opportunity for hearing to the carrier concerned without regard to subchapter II of chapter 5 and chapter 7 of this title. The Office may terminate the contract of a carrier effective at the end of the contract term, if the Office finds that at notime during the preceding two contract terms did the carrier have 300 or more employees and annuitants, exclusive of family members, enrolled in the plan.
+(e) The Office may prescribe reasonable minimum standards for health benefits plans described by section 8903 or 8903a of this title and for carriers offering the plans. Approval of a plan may be withdrawn only after notice and opportunity for hearing to the carrier concerned without regard to subchapter II of chapter 5 and chapter 7 of this title. The Office may terminate the contract of a carrier effective at the end of the contract term, if the Office finds that at no time during the preceding two contract terms did the carrier have 300 or more employees and annuitants, exclusive of family members, enrolled in the plan.
 
 (f) A contract may not be made or a plan approved which excludes an individual because of race, sex, health status, or, at the time of the first opportunity to enroll, because of age.
 
@@ -26,11 +26,13 @@
 
 (k)(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
 
-(2) The provisions of this subsection shall not apply to comprehensive medical plans as described in section 8903(4) of this title.
+(2) Nothing in this subsection shall be considered to preclude a health benefits plan from providing direct access or direct payment or reimbursement to a provider in a health care practice or profession other than a practice or profession listed in paragraph (1), if such provider is licensed or certified as such under Federal or State law.
+
+(3) The provisions of this subsection shall not apply to comprehensive medical plans as described in section 8903(4) of this title.
 
 (<i>l</i>) The Office shall contract under this chapter for a plan described in section 8903(4) of this title with any qualified health maintenance carrier which offers such a plan. For the purpose of this subsection, “qualified health maintenance carrier” means any qualified carrier which is a qualified health maintenance organization within the meaning of section 1310(d)(1) <sup>1</sup> of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)).
 
-(m)(1) The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.
+(m)(1) The terms of any contract under this chapter which relate to the nature, provision, orextent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
 (2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
 
@@ -52,7 +54,7 @@
 
 (<i>o</i>) A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370.)
 
 Historical and Revision Notes
 
@@ -78,13 +80,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (<i>l</i>), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (<i>o</i>), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42, The Public Health and Welfare, and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (<i>o</i>), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 #### Codification
 
 Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sections 2701 to 2706 of Title 44, Public Printing and Documents, and provisions set out as a note under section 2102 of Title 44.
 
 #### Amendments
+
+1998—Subsec. (k)(2), (3). Pub. L. 105–266, §8, added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former par. (1) which read as follows: “The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.”
 
 1997—Subsec. (<i>o</i>). Pub. L. 105–12 added subsec. (<i>o</i>).
 
@@ -197,6 +203,10 @@ Amendment by Pub. L. 94–460 effective Oct. 8, 1976, see section 118 of Pub. L.
 Section 2 of Pub. L. 93–363 provided that: “The amendment made by this Act \[amending this section\] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act \[July 30, 1974\].”
 
 Section 4(c) of Pub. L. 93–246 provided that: “Section 3 \[amending this section\] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act \[Jan. 31, 1974\].”
+
+#### Full Disclosure in Health Plan Contracts
+
+Pub. L. 105–266, §5, Oct. 19, 1998, 112 Stat. 2368, provided that: “The Office of Personnel Management shall encourage carriers offering health benefits plans described by section 8903 or section 8903a of title 5, United States Code, with respect to contractual arrangements made by such carriers with any person for purposes of obtaining discounts from providers for health care services or supplies furnished to individuals enrolled in such plan, to seek assurance that the conditions for such discounts are fully disclosed to the providers who grant them.”
 
 #### Rate Reduction for Medicare Eligible Federal Annuitants
 

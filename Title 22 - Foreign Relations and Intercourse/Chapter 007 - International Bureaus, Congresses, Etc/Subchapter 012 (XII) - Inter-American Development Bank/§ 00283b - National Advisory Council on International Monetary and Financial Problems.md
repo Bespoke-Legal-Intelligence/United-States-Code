@@ -1,6 +1,6 @@
 ### §283b. National Advisory Council on International Monetary and Financial Problems
 
-The provisions of section 286b of this title shall apply with respect to the Bank to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
+The provisions of section 286b of this title shall apply with respect to the Bank to the sameextent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
 (Pub. L. 86–147, §4, Aug. 7, 1959, 73 Stat. 299; Pub. L. 101–240, title V, §541(e)(2), Dec. 19, 1989, 103 Stat. 2518.)
 

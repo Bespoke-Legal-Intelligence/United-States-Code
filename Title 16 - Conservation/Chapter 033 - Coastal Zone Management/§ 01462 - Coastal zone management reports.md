@@ -38,7 +38,7 @@ Section 16 of Pub. L. 94–370 provided that:
 
 > The Secretary of Commerce shall, not later than April 30, 1977, submit a report to the Congress of the findings, comments, and recommendations (if any) which result from such review and evaluation.
 
-“(b) The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall not promulgatefinal regulations concerning the national shellfish safety program before June 30, 1977. At least 60 days prior to the promulgation of any such regulations, the Secretary of Health, Education, and Welfare, in consultation with the Secretary of Commerce, shall publish an analysis (1) of the economic impact of such regulations on the domestic shellfish industry, and (2) the cost of such national shellfish safety program relative to the benefits that it is expected to achieve.”
+“(b) The Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall not promulgate final regulations concerning the national shellfish safety program before June 30, 1977. At least 60 days prior to the promulgation of any such regulations, the Secretary of Health, Education, and Welfare, in consultation with the Secretary of Commerce, shall publish an analysis (1) of the economic impact of such regulations on the domestic shellfish industry, and (2) the cost of such national shellfish safety program relative to the benefits that it is expected to achieve.”
 
 #### Section Referred to in Other Sections
 

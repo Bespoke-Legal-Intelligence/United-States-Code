@@ -16,7 +16,7 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702, §1006(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director may, by written election filed with the Chief Justice of the United States within six months after the date on which he takes office, waive coverage under subchapter III (relating to civil service retirement) of chapter 83, Title 5, United States Code, and bring himself within the purview of this section. Such waiver and election shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
+1988—Subsec. (a). Pub. L. 100–702, §1006(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director may, by written election filed with the Chief Justice of the United States within six months after the date on which he takes office, waive coverage under subchapter III (relating to civil service retirement) of chapter 83, Title 5, United States Code, and bring himself within the purview of this section. Such waiver and election shall not operate to foreclose to the Director, upon separation from service other than by retirement, such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
 
 Subsec. (e). Pub. L. 100–702, §1004(a), added subsec. (e).
 

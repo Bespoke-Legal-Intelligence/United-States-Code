@@ -2,7 +2,11 @@
 
 This chapter shall be effective only during a national emergency declared by Congress or the President and for six months after the termination thereof or until such earlier time as Congress, by concurrent resolution, may designate.
 
-(Pub. L. 85–804, §5, Aug. 28, 1958, 72 Stat. 973.)
+(Pub. L. 85–804, §4, formerly §5, Aug. 28, 1958, 72 Stat. 973; renumbered §4, Pub. L. 105–362, title IX, §901(r)(1)(B), Nov. 10, 1998, 112 Stat. 3291.)
+
+#### Prior Provisions
+
+A prior section 4 of Pub. L. 85–804 was classified to section 1434 of this title prior to repeal by Pub. L. 105–362.
 
 #### Nonapplicability of National Emergencies Act
 

@@ -1,8 +1,0 @@
-### §1078. Officers
-
-(a) The officers of the corporation shall be a chairman of the board of directors, a president, a vice president, and a secretary-treasurer. The duties of the officers shall be as prescribed in the constitution and bylaws of the corporation.
-
-(b) Officers shall be elected annually at the annual meeting of the corporation.
-
-(Pub. L. 88–378, §8, July 16, 1964, 78 Stat. 326.)
-

@@ -8,7 +8,7 @@ In carrying out the purposes of this chapter, the Board—
 
 &emsp;(3) may adopt bylaws, rules, and regulations necessary for the administration of its functions under this chapter; and
 
-&emsp;(4) may, subject to the laws and regulations governing appointments in the civil service,appoint and fix the compensation of such personnel as may be necessary to carry out its functions.
+&emsp;(4) may, subject to the laws and regulations governing appointments in the civil service, appoint and fix the compensation of such personnel as may be necessary to carry out its functions.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1292; Pub. L. 98–497, title II, §202(a), Oct. 19, 1984, 98 Stat. 2293.)
 

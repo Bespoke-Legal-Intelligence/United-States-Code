@@ -2,7 +2,7 @@
 
 Whoever knowingly and willfully files any false or fraudulent entry or claim for the payment of drawback, allowance, or refund of duties upon the exportation of merchandise, or knowingly or willfully makes or files any false affidavit, abstract, record, certificate, or other document, with a view to securing the payment to himself or others of any drawback, allowance, or refund of duties, on the exportation of merchandise, greater than that legally due thereon, shall be fined under this title or imprisoned not more than two years, or both, and such merchandise or the value thereof shall be forfeited.
 
-(June 25, 1948, ch. 645, 62 Stat. 718; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 718; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

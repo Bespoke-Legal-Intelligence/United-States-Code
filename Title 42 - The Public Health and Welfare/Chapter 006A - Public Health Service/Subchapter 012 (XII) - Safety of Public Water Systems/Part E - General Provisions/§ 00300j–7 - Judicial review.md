@@ -18,7 +18,7 @@ The United States district courts shall have jurisdiction of actions brought to 
 
 In any judicial proceeding in which review is sought of a determination under this subchapter required to be made on the record after notice and opportunity for hearing, if any party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such term and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
 
-(July 1, 1944, ch. 373, title XIV, §1448, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1689; amended June 19, 1986, Pub. L. 99–339, title III, §303, 100 Stat. 667; Aug. 6, 1996, Pub. L. 104–182, title I, §113(c), 110 Stat. 1636.)
+(July 1, 1944, ch. 373, title XIV, §1448, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1689; amended Pub. L. 99–339, title III, §303, June 19, 1986, 100 Stat. 667; Pub. L. 104–182, title I, §113(c), Aug. 6, 1996, 110 Stat. 1636.)
 
 #### Amendments
 

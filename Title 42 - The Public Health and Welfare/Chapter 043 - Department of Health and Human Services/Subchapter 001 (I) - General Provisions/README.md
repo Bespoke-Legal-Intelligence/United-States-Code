@@ -19,7 +19,7 @@
 - [&sect; 03506 - Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services](%C2%A7%2003506%20-%20Travel%20and%20subsistence%20expenses%20of%20officers%20and%20employees%20in%20connection%20with%20attendance%20at%20meetings%20or%20in%20performing%20advisory%20services.md)
 - [&sect; 03507 - Transfer of personnel and household goods; delegation of Secretary's authority](%C2%A7%2003507%20-%20Transfer%20of%20personnel%20and%20household%20goods%3B%20delegation%20of%20Secretary%27s%20authority.md)
 - [&sect; 03508 - Omitted](%C2%A7%2003508%20-%20Omitted.md)
-- [&sect; 03509 - Annual report on advisory councils](%C2%A7%2003509%20-%20Annual%20report%20on%20advisory%20councils.md)
+- [&sect; 03509 - Repealed. Pub. L. 105&#8211;362, title VI, &sect;601(a)(2)(C), Nov. 10, 1998, 112 Stat. 3285](%C2%A7%2003509%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VI%2C%20%C2%A7601%28a%29%282%29%28C%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203285.md)
 - [&sect; 03510, 3511 - Transferred](%C2%A7%2003510%2C%203511%20-%20Transferred.md)
 - [&sect; 03512 - Office to assist small manufacturers of medical devices; establishment](%C2%A7%2003512%20-%20Office%20to%20assist%20small%20manufacturers%20of%20medical%20devices%3B%20establishment.md)
 - [&sect; 03513 - Working capital fund; establishment; amount; use; reimbursement](%C2%A7%2003513%20-%20Working%20capital%20fund%3B%20establishment%3B%20amount%3B%20use%3B%20reimbursement.md)

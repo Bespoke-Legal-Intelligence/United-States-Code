@@ -16,7 +16,7 @@ Application for insurance of member accounts shall be made immediately by each F
 
 &emsp;(4) to provide protection and indemnity against burglary, defalcation, and other similar insurable losses, of the type, in the form, and in an amount at least equal to that required by the laws under which the credit union is organized and operates;
 
-&emsp;(5) to maintain such regular reserves as may be required by the laws of the State, district, territory, or other jurisdiction pursuant to which it is organized and operated, in the case of a State-chartered credit union, or as may be required by section 1762 of this title, in the case of a Federal credit union;
+&emsp;(5) to maintain such regular reserves as may be required by the laws of the State, district, territory, or other jurisdiction pursuant to which it is organized and operated, in the case of a State-chartered credit union, or as may be required by section 1762 <sup>1</sup> of this title, in the case of a Federal credit union;
 
 &emsp;(6) to maintain such special reserves as the Board, by regulation or in special cases, may require for protecting the interest of members or to assure that all insured credit unions maintain regular reserves which are not less than those required under subchapter I of this chapter;
 
@@ -72,6 +72,8 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
+Section 1762 of this title, referred to in subsec. (b)(5), was repealed by Pub. L. 105–219, title III, §301(g)(3), Aug. 7, 1998, 112 Stat. 931.
+
 Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (e)(3), is section 1404(e)(1)(A) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
 #### Amendments
@@ -107,4 +109,6 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 461, 1782 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

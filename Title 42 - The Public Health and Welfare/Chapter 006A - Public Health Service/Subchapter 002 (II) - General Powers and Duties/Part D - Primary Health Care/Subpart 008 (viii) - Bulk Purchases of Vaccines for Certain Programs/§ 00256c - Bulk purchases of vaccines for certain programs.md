@@ -22,7 +22,7 @@ In carrying out subsection (a) of this section, the Secretary, in the discretion
 
 This section may not be construed as requiring any State to reduce or terminate the supply of vaccines provided by the State to any of the entities described in subsection (a)(2) of this section.
 
-(July 1, 1944, ch. 373, title III, §340C, formerly §340B, as added Oct. 27, 1992, Pub. L. 102–531, title III, §305, 106 Stat. 3494; renumbered §340C, June 10, 1993, Pub. L. 103–43, title XX, §2008(i)(2)(A)(ii), 107 Stat. 213; amended Oct. 11, 1996, Pub. L. 104–299, §4(a)(2), 110 Stat. 3645.)
+(July 1, 1944, ch. 373, title III, §340C, formerly §340B, as added Pub. L. 102–531, title III, §305,Oct. 27, 1992, 106 Stat. 3494; renumbered §340C, Pub. L. 103–43, title XX, §2008(i)(2)(A)(ii), June 10, 1993, 107 Stat. 213; amended Pub. L. 104–299, §4(a)(2), Oct. 11, 1996, 110 Stat. 3645.)
 
 #### Amendments
 

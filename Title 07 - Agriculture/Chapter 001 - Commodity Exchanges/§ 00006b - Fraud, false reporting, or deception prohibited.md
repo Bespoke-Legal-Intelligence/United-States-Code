@@ -20,7 +20,7 @@ Nothing in this section or in any other section of this chapter shall be constru
 
 Nothing in this section shall apply to any activity that occurs on a board of trade, exchange, or market, or clearinghouse for such board of trade, exchange, or market, located outside the United States, or territories or possessions of the United States, involving any contract of sale of a commodity for future delivery that is made, or to be made, on or subject to the rules of such board of trade, exchange, or market.
 
-(Sept. 21, 1922, ch. 369, §4b, as added June 15, 1936, ch. 545, §5, 49 Stat. 1493; amended Feb. 19, 1968, Pub. L. 90–258, §5, 82 Stat. 27; Oct. 23, 1974, Pub. L. 93–463, title IV, §405, 88 Stat. 1413; Nov. 10, 1986, Pub. L. 99–641, title I, §101, 100 Stat. 3557; Oct. 28, 1992, Pub. L. 102–546, title IV, §402(3), 106 Stat. 3624.)
+(Sept. 21, 1922, ch. 369, §4b, as added June 15, 1936, ch. 545, §5, 49 Stat. 1493; amended Pub. L. 90–258, §5, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title IV, §405, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 99–641, title I, §101, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title IV, §402(3), Oct. 28, 1992, 106 Stat. 3624.)
 
 #### Amendments
 

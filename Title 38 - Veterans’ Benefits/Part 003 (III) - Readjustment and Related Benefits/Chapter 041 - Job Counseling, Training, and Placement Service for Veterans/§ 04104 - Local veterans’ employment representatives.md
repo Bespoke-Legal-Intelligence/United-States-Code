@@ -12,7 +12,7 @@
 
 (B) In the case of a service delivery point (other than a local employment service office described in subparagraph (A) of this paragraph) at which employment services are offered under the Wagner-Peyser Act, the head of such service delivery point shall be responsible for ensuring compliance with the provisions of this title providing for priority services for veterans and priority referral of veterans to Federal contractors.
 
-(3) For the purposes of this subsection, an individual shall be considered to be registered forassistance with a local employment service office during a program year if the individual—
+(3) For the purposes of this subsection, an individual shall be considered to be registered for assistance with a local employment service office during a program year if the individual—
 
 &emsp;(A) registered, or renewed such individual's registration, for assistance with the office during that program year; or
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section
 
 #### Pilot Program To Integrate and Streamline Functions of Local Veterans’ Employment Representatives
 
-Pub. L. 104–275, title III, §303, Oct. 9, 1996, 110 Stat. 3332, provided that:
+Pub. L. 104–275, title III, §303, Oct. 9, 1996, 110 Stat. 3332, as amended by Pub. L. 105–368, title X, §1005(c)(1), Nov. 11, 1998, 112 Stat. 3366, provided that:
 
 “(a)
 
@@ -110,7 +110,7 @@ Authority To Conduct Pilot Program.—In order to assess the effects on the time
 
 “(b)
 
-Authorities Under Chapter 41.—To implement the pilot program, the Secretary of Labor may suspend or limit application of those provisions of chapter 41 of title 38, United States Code (other than sections \[sic\] 4104(b)(1) and (c)) that pertain to the Local Veterans’ Employment Representative Program in States designated by the Secretary under subsection (d), except that the Secretary may use the authority of such chapter, as the Secretary may determine, in conjunction with the authority of this section, to carry out the pilot program. The Secretary may collect such data as the Secretary considers necessary for assessment of the pilot program. The Secretary shall measure and evaluate on a continuing basis the effectiveness of the pilot program in achieving its stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services.
+Authorities Under Chapter 41.—To implement the pilot program, the Secretary of Labor may suspend or limit application of those provisions of chapter 41 of title 38, United States Code (other than subsections (b)(1) and (c) of section 4104) that pertain to the Local Veterans’ Employment Representative Program in States designated by the Secretary under subsection (d), except that the Secretary may use the authority of such chapter, as the Secretary may determine, in conjunction with the authority of this section, to carry out the pilot program. The Secretary may collect such data as the Secretary considers necessary for assessment of the pilot program. The Secretary shall measure and evaluate on a continuing basis the effectiveness of the pilot program in achieving its stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services.
 
 “(c)
 

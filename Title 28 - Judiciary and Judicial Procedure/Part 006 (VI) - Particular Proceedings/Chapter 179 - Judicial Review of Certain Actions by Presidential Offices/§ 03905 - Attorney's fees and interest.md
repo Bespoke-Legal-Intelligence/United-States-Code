@@ -6,7 +6,7 @@ Attorney's Fees.—If a covered employee, with respect to any claim under chapte
 
 (b)
 
-Interest.—In any proceeding under section 1296 or section 1346(g), the same interest to compensate for delay in payment shall be madeavailable as would be appropriate if awarded under section 717(d) of the Civil Rights Act of 1964.
+Interest.—In any proceeding under section 1296 or section 1346(g), the same interest to compensate for delay in payment shall be made available as would be appropriate if awarded under section 717(d) of the Civil Rights Act of 1964.
 
 (c)
 

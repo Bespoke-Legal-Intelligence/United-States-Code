@@ -12,7 +12,7 @@ The Secretary, in consultation with Governors, State legislatures, State and loc
 
 &emsp;(5) on May 1, 1999, and annually thereafter, prepare and submit to the Congress a report on the performance of each State on each outcome measure, which shall examine the reasons for high performance and low performance and, where possible, make recommendations as to how State performance could be improved.
 
-(Aug. 14, 1935, ch. 531, title IV, §479A, as added Nov. 19, 1997, Pub. L. 105–89, title II, §203(a), 111 Stat. 2126.)
+(Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126.)
 
 #### References in Text
 

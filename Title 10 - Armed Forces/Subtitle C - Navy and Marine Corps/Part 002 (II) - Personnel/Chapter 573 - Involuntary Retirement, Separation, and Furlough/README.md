@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “Naval Reserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”.
+1994—Pub. L. 103–337, div. A, title XVI, §1673(b)(4), Oct. 5, 1994, 108 Stat. 3016, struck out items 6391 “NavalReserve and Marine Corps Reserve; officers: retirement at age 62”, 6392 “Retention in active status of certain officers”, 6397 “Naval Reserves; officers in the Nurse Corps: elimination from active status”, 6403 “Naval Reserve and Marine Corps Reserve; women officers: elimination from active status”, and 6410 “Naval Reserve and Marine Corps Reserve; officers: elimination from active status to provide a flow of promotion”.
 
 1987—Pub. L. 100–180, div. A, title VII, §717(b)(2), Dec. 4, 1987, 101 Stat. 1114, added item 6392.
 

@@ -26,6 +26,10 @@ The selection of service providers shall be made on a competitive basis to the e
 
 (Pub. L. 97–300, title I, §107, Oct. 13, 1982, 96 Stat. 1335; Pub. L. 102–367, title I, §116, Sept. 7, 1992, 106 Stat. 1034.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–367, §116(a), inserted “, (in accordance with guidelines established by the Secretary)” after “demonstrated performance” and inserted after first sentence “In addition, consideration shall be given to demonstrated performance in making available appropriate supportive services, including child care.”

@@ -2,7 +2,7 @@
 
 It shall be unlawful for any person, against whom there is outstanding any order of the Commission prohibiting him from trading on or subject to the rules of any contract market, to make or cause to be made in contravention of such order, any contract for future delivery of any commodity, on or subject to the rules of any contract market.
 
-(Sept. 21, 1922, ch. 369, §8b, as added Feb. 19, 1968, Pub. L. 90–258, §24, 82 Stat. 33; amended Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), 88 Stat. 1392.)
+(Sept. 21, 1922, ch. 369, §8b, as added Pub. L. 90–258, §24, Feb. 19, 1968, 82 Stat. 33; amended Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392.)
 
 #### Amendments
 

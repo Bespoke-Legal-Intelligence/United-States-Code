@@ -26,7 +26,7 @@ Pub. L. 105–81, Nov. 13, 1997, 111 Stat. 1537, provided that:
 
 &emsp;“(2) as the population continues to grow in Teton County, Wyoming, undeveloped land near the Park becomes more scarce;
 
-&emsp;“(3) the loss of open space around Teton Park has negative impacts on wildlife migration routes in the area and on visitors to the Park, and its repercussions can be felt throughout the entire region;
+&emsp;“(3) the loss of open space around Teton Park has negative impacts on wildlife migration routes in thearea and on visitors to the Park, and its repercussions can be felt throughout the entire region;
 
 &emsp;“(4) a few ranches make up Teton Valley's remaining open space, and the ranches depend on grazing in Grand Teton National Park for summer range to maintain operations;
 
@@ -42,7 +42,7 @@ Pub. L. 105–81, Nov. 13, 1997, 111 Stat. 1537, provided that:
 
 “(a)
 
-In General.—The Secretary of the Interior shall conduct a study concerning grazing use and open spacein Grand Teton National Park, Wyoming, and associated use of certain agricultural and ranch lands within and adjacent to the Park, including—
+In General.—The Secretary of the Interior shall conduct a study concerning grazing use and open space in Grand Teton National Park, Wyoming, and associated use of certain agricultural and ranch lands within and adjacent to the Park, including—
 
 &emsp;“(1) base land having appurtenant grazing privileges within Grand Teton National Park, Wyoming, remaining after January 1, 1990, under the Act entitled ‘An Act to establish a new Grand Teton National Park in the State of Wyoming, and for other purposes’, approved September 14, 1950 (16 U.S.C. 406d–1 et seq.); and
 

@@ -12,7 +12,7 @@ Whenever the Attorney General determines, upon application of the Administrator�
 
 > the Attorney General may so certify to a district court of the United States, which may issue an order requiring the person who owns such patent to license it on such reasonable terms and conditions as the court, after hearing, may determine. Such certification may be made to the district court for the district in which the person owning the patent resides, does business, or is found.
 
-(July 14, 1955, ch. 360, title III, §308, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1708.)
+(July 14, 1955, ch. 360, title III, §308, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1708.)
 
 #### Codification
 

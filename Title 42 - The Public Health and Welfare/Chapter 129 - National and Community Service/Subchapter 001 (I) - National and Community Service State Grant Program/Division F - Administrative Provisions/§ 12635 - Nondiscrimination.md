@@ -22,11 +22,11 @@ Any assistance provided under this subchapter shall constitute Federal financial
 
 #### (2) Exception
 
-&emsp;Paragraph (1) shall not apply to the employment, with assistance provided under this subchapter, of any member of the staff, of aproject that receives assistance under this subchapter, who was employed with the organization operating the project on the date the grant under this subchapter was awarded.
+&emsp;Paragraph (1) shall not apply to the employment, with assistance provided under this subchapter, of any member of the staff, of a project that receives assistance under this subchapter, who was employed with the organization operating the project on the date the grant under this subchapter was awarded.
 
 #### (d) Rules and regulations
 
-The Chief Executive Officer shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
+The Chief Executive Officer shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis,until notice and an opportunity to be heard can be provided.
 
 (Pub. L. 101–610, title I, §175, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §115, Sept. 21, 1993, 107 Stat. 862.)
 

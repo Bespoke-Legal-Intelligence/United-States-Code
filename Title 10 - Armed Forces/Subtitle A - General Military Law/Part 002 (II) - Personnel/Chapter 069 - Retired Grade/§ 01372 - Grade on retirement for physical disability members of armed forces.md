@@ -10,7 +10,7 @@ Unless entitled to a higher retired grade under some other provision of law, any
 
 &emsp;(4) The temporary grade to which he would have been promoted had it not been for the physical disability for which he is retired, if eligibility for that promotion was required to be based on cumulative years of service or years of service in grade and the disability was discovered as a result of a physical examination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §577, 110 Stat. 2536.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 104–201, div. A, title V, §577, Sept. 23, 1996, 110 Stat. 2536.)
 
 Historical and Revision Notes
 

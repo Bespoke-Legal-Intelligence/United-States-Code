@@ -16,7 +16,7 @@ The Administrator shall continue the Chesapeake Bay Program and shall establish 
 
 #### (1) Authority
 
-&emsp;The Administrator shall, at the request of the Governor of a State affected by the interstate management plan developed pursuant to the Chesapeake Bay Program (hereinafter in this section referred to as the “plan”), make a grant for the purpose of implementing the management mechanisms contained in the plan if such State has, within 1 year after February 4, 1987, approved and committed to implement all or substantially all aspects of the plan. Such grants shall be made subject to such terms and conditions as the Administrator considers appropriate.
+&emsp;The Administrator shall, at the request of the Governor of a State affected by the interstate management plan developed pursuant to the Chesapeake Bay Program (hereinafter in this section referred to as the “plan”), make agrant for the purpose of implementing the management mechanisms contained in the plan if such State has, within 1 year after February 4, 1987, approved and committed to implement all or substantially all aspects of the plan. Such grants shall be made subject to such terms and conditions as the Administrator considers appropriate.
 
 #### (2) Submission of proposal
 

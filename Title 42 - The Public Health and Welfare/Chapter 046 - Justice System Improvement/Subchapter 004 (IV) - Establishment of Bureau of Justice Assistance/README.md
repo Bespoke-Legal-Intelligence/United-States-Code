@@ -54,7 +54,7 @@ Section 3748, Pub. L. 90–351, title I, §408, as added Pub. L. 91–644, title
 
 Section 3750, Pub. L. 90–351, title I, §451, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1885; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209, set out Congressional statement of purpose in providing a system of grants for correctional institutions and facilities.
 
-Section 3750a, Pub. L. 90–351, title I, §452, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1885; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209, related to applications for grants and their incorporation into comprehensive State plans.
+Section 3750a, Pub. L. 90–351, title I, §452, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1885;amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209, related to applications for grants and their incorporation into comprehensive State plans.
 
 Section 3750b, Pub. L. 90–351, title I, §453, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1886; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 209; Pub. L. 94–503, title I, §118, Oct. 15, 1976, 90 Stat. 2417, set out required contents of an application for a grant for correctional institutions and facilities.
 

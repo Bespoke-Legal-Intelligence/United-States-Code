@@ -32,7 +32,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (d) Financial mechanisms
 
-(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
+(1) Pursuant to the agreements under subsection (a) of this section, the Secretary,through the Agency for International Development, shall—
 
 &emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects utilizing United States renewable energy technologies, and services related thereto, in developing countries;
 

@@ -4,7 +4,7 @@
 
 (b) Commissioned officers may be appointed as United States Deputy Marshals in Alaska.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 545; June 25, 1959, Pub. L. 86–70, §11, 73 Stat. 143; Oct. 12, 1982, Pub. L. 97–295, §2(18), 96 Stat. 1302.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 545; Pub. L. 86–70, §11, June 25, 1959, 73 Stat. 143; Pub. L. 97–295, §2(18), Oct. 12, 1982, 96 Stat. 1302.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +22,7 @@ This amends 14:634(b) to reflect the effect of 28:631(c) and sections 401(a) and
 
 #### Amendments
 
-1982—Subsec. (b). Pub. L. 97–295 struck out “United States Commissioners or” after “appointed as” and last sentence which provided that any commissioned officer appointed as United States Commissioner in Alaska shall not be required to execute a bond for the faithful performance of his official duties as such Commissioner.
+1982—Subsec. (b). Pub. L. 97–295 struck out “United States Commissioners or” after “appointed as” and last sentence which provided that any commissioned officer appointed as United States Commissioner in Alaska shall not be required to execute a bond for thefaithful performance of his official duties as such Commissioner.
 
 1959—Subsec. (b). Pub. L. 86–70 substituted “in Alaska” for “in and for the territory of Alaska” in two places.
 

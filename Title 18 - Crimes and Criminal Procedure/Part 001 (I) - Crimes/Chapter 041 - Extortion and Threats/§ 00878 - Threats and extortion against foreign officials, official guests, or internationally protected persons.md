@@ -1,6 +1,6 @@
 ### §878. Threats and extortion against foreign officials, official guests, or internationally protected persons
 
-(a) Whoever knowingly and willfully threatens to violate section 112, 1116, or 1201 shall be fined under this title or imprisoned not more than five years, or both, except that imprisonment for a threatened assault shall not exceed three years.
+(a) Whoever knowingly and willfully threatens to violate section 112, 1116, or 1201 shall be fined under this title or imprisoned not more thanfive years, or both, except that imprisonment for a threatened assault shall not exceed three years.
 
 (b) Whoever in connection with any violation of subsection (a) or actual violation of section 112, 1116, or 1201 makes any extortionate demand shall be fined under this title or imprisoned not more than twenty years, or both.
 

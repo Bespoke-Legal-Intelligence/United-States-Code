@@ -90,7 +90,7 @@
 
 &emsp;(ii) as if the survivor had attained age 60 and made application for those benefits under subsection (e) or (f) of section 202 of such Act, as the case may be.
 
-(B) Any computation or determination under this paragraph shall be made in accordance with the applicable provisions of the Social Security Act, except that in computing any primary insurance amount under section 215 of such Act for purposes of determining an amount underthis subsection, subparagraphs (A) and (C) of section 8421(b)(2) shall apply.
+(B) Any computation or determination under this paragraph shall be made in accordance with the applicable provisions of the Social Security Act, except that in computing any primary insurance amount under section 215 of such Act for purposes of determining an amount under this subsection, subparagraphs (A) and (C) of section 8421(b)(2) shall apply.
 
 (4) A supplementary annuity under this subsection—
 
@@ -110,7 +110,7 @@
 
 (6) An amount payable under this subsection shall be adjusted under section 8462 and shall otherwise be treated under this chapter in the same way as an amount payable under subsection (a).
 
-(g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsection referred to as a “disability annuitant”) is determined under subsection (a) to be entitled to an annuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
+(g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsectionreferred to as a “disability annuitant”) is determined under subsection (a) to be entitled to an annuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
 
 (2)(A) Except as provided in subparagraph (B), the amount on which the annuity of the widow or widower of a disability annuitant is based shall be the amount of the annuity to which such disability annuitant was entitled, as computed under section 8452 (including appropriate reduction under subsection (a)(2) of such section and any adjustments under section 8462 allowed under section 8452), as of the day before the date of the disability annuitant's death.
 

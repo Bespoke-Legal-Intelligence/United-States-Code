@@ -18,7 +18,7 @@ Eligibility for award of contracts under this chapter or of any other contract b
 
 #### (c) Contracts for construction, etc., in United States
 
-Contracts for construction, alteration, or repair in the United States for or on behalf of any foreign mission (as defined in section 202(a)(4) <sup>1</sup> of title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4302(a)(4)) may, pursuant to the authority of that title \[22 U.S.C. 4301 et seq.\], only be awarded to or performed by bidders qualifying under subsection (a) (1) or (2) or by nationals of the country for which the contract is being performed who are granted the right of entry into the United States for that purpose.
+Contracts for construction, alteration, or repair in the United States for or on behalf of any foreign mission (as defined in section 202(a)(4) <sup>1</sup>of title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4302(a)(4)) may, pursuant to the authority of that title \[22 U.S.C. 4301 et seq.\], only be awarded to or performed by bidders qualifying under subsection (a) (1) or (2) or by nationals of the country for which the contract is being performed who are granted the right of entry into the United States for that purpose.
 
 #### (d) Discretionary determinations by Secretary of State
 
@@ -37,4 +37,8 @@ Title II of the State Department Basic Authorities Act of 1956, referred to in s
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4852 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “internationally-agreed-upon”.</i>
 

@@ -2,5 +2,5 @@
 
 Any person violating any provision of section 473c–1 of this title shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-(Mar. 3, 1927, ch. 337, §3c–2, as added July 5, 1960, Pub. L. 86–588, 74 Stat. 329.)
+(Mar. 3, 1927, ch. 337, §3c–2, as added Pub. L. 86–588, July 5, 1960, 74 Stat. 329.)
 

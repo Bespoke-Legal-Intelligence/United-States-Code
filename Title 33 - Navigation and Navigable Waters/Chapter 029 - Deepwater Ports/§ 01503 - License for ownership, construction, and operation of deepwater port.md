@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-No person may engage in the ownership, construction, or operation of a deepwater port except in accordance with a license issued pursuant to this chapter. No person may transport or otherwise transfer any oil between a deepwater port and the United States unless such port has been so licensed and the license is in force.
+No person may engage in the ownership, construction, or operation of a deepwater port except in accordance with a license issued pursuant to this chapter. No person may transport orotherwise transfer any oil between a deepwater port and the United States unless such port has been so licensed and the license is in force.
 
 #### (b) Issuance, transfer, amendment, or reinstatement
 
@@ -48,7 +48,7 @@ If an application is made under this chapter for a license to construct a deepwa
 
 #### (e) Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements
 
-(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter <sup>2</sup> or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.<sup>2</sup> To the extent practicable, conditions required to carry out the provisions and requirements of this chapter <sup>2</sup> shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter <sup>2</sup> or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.<sup>2</sup> To the extent practicable, conditions required to carry out the provisions and requirements of this chapter <sup>2</sup> shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port's operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with section 1509(a) of this title, rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required byany Federal department or agency under this chapter.
 
 (2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
 
@@ -86,7 +86,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug
 
 1996—Subsec. (a). Pub. L. 104–324, §504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
 
-&emsp;“(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in theconstruction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
+&emsp;“(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
 
 &emsp;“(2) for the transshipment of commodities or materials, to the United States, other than oil,
 

@@ -44,7 +44,7 @@
 
 #### (1) General authority
 
-&emsp;The foreclosure commissioner may, before or at the time of the foreclosure sale, adjourn orcancel the foreclosure sale if the commissioner determines, in the commissioner's discretion, that—
+&emsp;The foreclosure commissioner may, before or at the time of the foreclosure sale, adjourn or cancel the foreclosure sale if the commissioner determines, in the commissioner's discretion, that—
 
 &emsp;&emsp;(A) circumstances are not conducive to a sale which is fair to the mortgagor and the Secretary; or
 

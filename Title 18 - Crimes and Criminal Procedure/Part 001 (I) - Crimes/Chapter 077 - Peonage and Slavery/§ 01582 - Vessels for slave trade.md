@@ -1,8 +1,8 @@
 ### §1582. Vessels for slave trade
 
-Whoever, whether as master, factor, or owner, builds, fits out, equips, loads, or otherwise prepares or sends away any vessel, in any port or place within the United States, or causes such vessel to sail from any such port or place, for the purpose of procuring any person from any foreign kingdom or country to be transported and held, sold, or otherwise disposed of as a slave, or held to service or labor, shall be fined under this title or imprisoned not more than seven years, or both.
+Whoever, whether as master, factor, or owner, builds, fits out, equips, loads, or otherwise prepares or sends away any vessel, in any port or place within the United States, or causes such vessel to sail from any such port or place, for the purpose of procuring any person from any foreign kingdom or country to be transported and held, sold, or otherwise disposed of as a slave, or held to service or labor, shall be finedunder this title or imprisoned not more than seven years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 772; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

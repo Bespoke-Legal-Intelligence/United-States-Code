@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(Q) the National Writing Project has become a model for programs in other fields, such as science, mathematics, history, literature, foreign languages, and the performing arts, and the development of programs in other fields should continue with the support of Federal funds; and
 
-&emsp;&emsp;(R) each of the 50 States should participate in the National Teacher Training Project byestablishing regional teacher training sites in early childhood development, mathematics, science, English, civics and government, foreign languages, and arts to serve all teachers within the State.
+&emsp;&emsp;(R) each of the 50 States should participate in the National Teacher Training Project by establishing regional teacher training sites in early childhood development, mathematics, science, English, civics and government, foreign languages, and arts to serve all teachers within the State.
 
 #### (3) Definitions
 

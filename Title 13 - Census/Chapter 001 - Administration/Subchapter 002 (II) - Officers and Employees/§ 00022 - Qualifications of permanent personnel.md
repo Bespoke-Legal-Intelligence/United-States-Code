@@ -2,7 +2,7 @@
 
 All permanent officers and employees of the Bureau shall be citizens of the United States.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Sept. 13, 1960, Pub. L. 86–769, §1, 74 Stat. 911.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Pub. L. 86–769, §1, Sept. 13, 1960, 74 Stat. 911.)
 
 #### Historical and Revision Notes
 

@@ -26,7 +26,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;(9) Any necessary temporary relocation of tenants during rehabilitation.
 
-&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance under section 1437g of this title, with adjustments comparable to those that would have been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
+&emsp;(10) Funding of operating expenses and replacement reserves of the project covered by the homeownership program, except that the amount of assistance for operating expenses shall not exceed the amount the project would have received if it had continued to receive such assistance from the Operating Fund, with adjustments comparable to those that would have been made under section 1437g of this title, and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program.
 
 &emsp;(11) Implementation of a replacement housing plan.
 
@@ -86,7 +86,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
 
-&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, where applicable, by a resident council or other entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
+&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitationand (ii) acquisition (I) of the property, where applicable, by a resident council or other entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
 &emsp;&emsp;(H) if the applicant is not a public housing agency, the proposed sales price, if any, the basis for such price determination, and terms to the applicant;
 
@@ -132,7 +132,7 @@ The Secretary may approve applications for grants under this subchapter only for
 
 The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved. The Secretary may approve the application for an implementation grant with a statement that the application for the section 8 \[42 U.S.C. 1437f\] assistance for replacement housing and for residents of the project not purchasing units is conditionally approved, subject to the availability of appropriations in subsequent fiscal years.
 
-(Sept. 1, 1937, ch. 896, title III, §303, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4150; amended Oct. 28, 1992, Pub. L. 102–550, title I, §181(b), (c), (g)(1), title X, §1012(h)(2), 106 Stat. 3735, 3736, 3906.)
+(Sept. 1, 1937, ch. 896, title III, §303, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4150; amended Pub. L. 102–550, title I, §181(b), (c), (g)(1), title X, §1012(h)(2), Oct. 28, 1992, 106 Stat. 3735, 3736, 3906; Pub. L. 105–276, title V, §519(c)(1), Oct. 21, 1998, 112 Stat. 2561.)
 
 #### References in Text
 
@@ -144,9 +144,11 @@ The Civil Rights Act of 1964, referred to in subsec. (d)(2)(M), is Pub. L. 88–
 
 The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(M), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (f)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (f)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this titleand sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(10). Pub. L. 105–276 substituted “such assistance from the Operating Fund” for “such assistance under section 1437g of this title”.
 
 1992—Subsec. (b)(2). Pub. L. 102–550, §181(g)(1)(A), struck out “(not including scattered site single family housing of a public housing agency)” after “public housing project”.
 
@@ -163,6 +165,10 @@ Subsec. (c)(1). Pub. L. 102–550, §181(b)(1), inserted “and replacement hous
 Subsec. (c)(3). Pub. L. 102–550, §181(b)(2), added par. (3).
 
 Subsec. (e)(8). Pub. L. 102–550, §181(c), struck out “of the type assisted under this subchapter” after “rental housing” and “appreciably” before “reduce”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 #### Section Referred to in Other Sections
 

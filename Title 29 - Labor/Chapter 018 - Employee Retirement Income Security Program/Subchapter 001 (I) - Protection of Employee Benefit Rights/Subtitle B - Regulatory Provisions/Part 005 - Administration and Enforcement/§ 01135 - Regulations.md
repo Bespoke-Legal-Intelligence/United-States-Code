@@ -14,9 +14,9 @@ Regulatory Treatment of Assets of Real Estate Entities.—
 
 &emsp;“(1)
 
-In general.—Except as a defense, no rule or regulation adopted pursuant to the Secretary's proposed regulation defining ‘plan assets’ for purposes of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] (50 Fed. Reg. 961, January 8, 1985, as modified by 50 Fed. Reg. 6361, February 15, 1985), or any reproposal thereof prior to the adoption of the regulations required to be issued in accordance with subsection (d), shall apply to any asset of a real estate entity in which a plan, account, or arrangement subject to such Act invests if—
+In general.—Except as a defense, no rule or regulation adopted pursuant to the Secretary's proposed regulation defining ‘plan assets’ for purposes of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] (50 Fed. Reg. 961, January 8, 1985, as modified by 50 Fed. Reg. 6361, February 15,1985), or any reproposal thereof prior to the adoption of the regulations required to be issued in accordance with subsection (d), shall apply to any asset of a real estate entity in which a plan, account, or arrangement subject to such Act invests if—
 
-&emsp;&emsp;“(A) any interest in the entity is first offered to a plan, account, or arrangement subject to such Actinvesting in the entity (hereinafter in this section referred to as a ‘plan investor’) on or before the date which is 120 days after the date of publication of such rule or regulation as a final rule or regulation;
+&emsp;&emsp;“(A) any interest in the entity is first offered to a plan, account, or arrangement subject to such Act investing in the entity (hereinafter in this section referred to as a ‘plan investor’) on or before the date which is 120 days after the date of publication of such rule or regulation as a final rule or regulation;
 
 &emsp;&emsp;“(B) no plan investor acquires an interest in the entity from an issuer or underwriter at any time on or after the date which is 270 days after the date of publication of such rule or regulation as a final rule or regulation (except pursuant to a contract or subscription binding on the plan investor and entered into, or tendered, before the expiration of such 270-day period, or pursuant to the exercise, on or before December 31, 1990, of a warrant which was the subject of an effective registration under the Securities Act of 1933 (15 U.S.C. 77q et seq.) \[15 U.S.C. 77a et seq.\] prior to the date of the enactment of this section \[Apr. 7, 1986\]); and
 
@@ -88,7 +88,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 “(c)
 
-No Effect on Secretary's Authority Other Than As Provided.—Except as provided in subsection (a), nothing in this section shall limit the authority of the Secretary of Labor to issue regulations or otherwise interpret section 3(21) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(21)\].
+No Effect on Secretary's Authority Other Than As Provided.—Except as provided in subsection\(a), nothing in this section shall limit the authority of the Secretary of Labor to issue regulations or otherwise interpret section 3(21) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(21)\].
 
 “(d)
 

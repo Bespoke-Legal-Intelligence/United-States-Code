@@ -12,7 +12,7 @@ Except as provided in subsection (c) of this section, each person who owns or co
 
 #### (c) Applicability to providers of housing on a commercial basis to the general public
 
-This section does not apply to any person who, in the ordinary course of that person's business, regularly provides housing on a commercial basis to the general public and who provides housing to migrant agricultural workers of the same character and on the same or comparable terms and conditions as is provided to the general public.
+This section does not apply to any person who, in the ordinary course of that person's business, regularly provides housing on a commercial basis to the general public and who provideshousing to migrant agricultural workers of the same character and on the same or comparable terms and conditions as is provided to the general public.
 
 (Pub. L. 97–470, title II, §203, Jan. 14, 1983, 96 Stat. 2591.)
 

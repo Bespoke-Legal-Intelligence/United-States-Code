@@ -54,7 +54,7 @@ Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, s
 
 #### Foreign Contractors
 
-Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising the authority provided in the amendment of this section by Pub. L. 89–607 to exempt certain contracts with foreigncontractors from the requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. (11) of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. (11) of Part I of Ex. Ord. No. 10789, eff. Nov. 14, 1958, 23 F.R. 8897, as amended, set out as a note under section 1431 of Title 50, War and National Defense.
+Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising the authority provided in the amendment of this section by Pub. L. 89–607 to exempt certain contracts with foreign contractors from the requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. (11) of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. (11) of Part I of Ex. Ord. No. 10789, eff. Nov. 14, 1958, 23 F.R. 8897, as amended, set out as a note under section 1431 of Title 50, War and National Defense.
 
 #### Executive Order No. 12800
 

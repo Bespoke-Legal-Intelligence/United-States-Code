@@ -8,7 +8,7 @@ The Secretary shall submit to the President and to the Congress an annual report
 
 Each such report shall contain—
 
-&emsp;(1) an analysis of the trends within language, international, and area studies, along with a survey of such areas as the Secretary determines are receiving inadequate attention;
+&emsp;(1) an analysis of the trends within language, international, area, and counterproliferation studies, along with a survey of such areas as the Secretary determines are receiving inadequate attention;
 
 &emsp;(2) the effect on those trends of activities under the program required by this chapter;
 
@@ -36,9 +36,11 @@ The first report under this section shall be submitted at the time the budget fo
 
 During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
 
-(Pub. L. 102–183, title VIII, §806, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 103–178, title III, §311(b)(1), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(f)(3), Sept. 23, 1996, 110 Stat. 2667.)
+(Pub. L. 102–183, title VIII, §806, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 103–178, title III, §311(b)(1), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(f)(3), Sept. 23, 1996, 110 Stat. 2667; Pub. L. 105–272, title III, §305(a)(4), Oct. 20, 1998, 112 Stat. 2401.)
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–272 substituted “area, and counterproliferation” for “and area”.
 
 1996—Subsec. (b)(5) to (7). Pub. L. 104–201 struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 

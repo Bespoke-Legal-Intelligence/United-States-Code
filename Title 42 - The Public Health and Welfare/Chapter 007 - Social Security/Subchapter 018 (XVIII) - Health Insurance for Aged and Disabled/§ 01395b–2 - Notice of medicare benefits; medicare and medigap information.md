@@ -28,7 +28,7 @@ The notice provided under subsection (a) of this section shall include—
 
 &emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added July 1, 1988, Pub. L. 100–360, title II, §223(a), 102 Stat. 747; amended Oct. 31, 1994, Pub. L. 103–432, title I, §171(j)(1), 108 Stat. 4450; Aug. 5, 1997, Pub. L. 105–33, title IV, §4311(a)(1), 111 Stat. 384.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384.)
 
 #### References in Text
 

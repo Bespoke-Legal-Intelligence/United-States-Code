@@ -38,7 +38,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;(B) has an understanding of and expertise in the type of official activities that one or more such persons were engaged in at the time such person or persons disappeared.
 
-(4) The Secretary who appoints a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, with the same qualifications as specified in section 1503(c)(4) of this title.
+(4) The Secretary who appoints a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board ajudge advocate, or appoint to the board an attorney, with the same qualifications as specified in section 1503(c)(4) of this title.
 
 (e)
 
@@ -52,7 +52,7 @@ Duties of Board.—A board appointed under this section to conduct an inquiry in
 
 &emsp;(4) determine on the basis of the activities under paragraphs (1) and (2) whether the status of the person should be continued or changed; and
 
-&emsp;(5) submit to the Secretary concerned a report describing the findings and conclusions ofthe board, together with a recommendation for a determination by the Secretary concerning the whereabouts and status of the person.
+&emsp;(5) submit to the Secretary concerned a report describing the findings and conclusions of the board, together with a recommendation for a determination by the Secretary concerning the whereabouts and status of the person.
 
 (f)
 
@@ -100,7 +100,7 @@ Availability of Information to Boards.—(1) In conducting proceedings in an inq
 
 &emsp;(B) release the information in a manner not requiring the removal of markings indicating the classified nature of the information.
 
-(3)(A) If a request for information under paragraph (2) covers classified information that cannot be declassified, or if the classification markings cannot be removed before release from the information covered by the request, or if the material cannot be summarized in a manner that prevents the release of classified information, the classified information shall be made available only to the president of the board making the request and the counsel for the missing person appointed under subsection (f).
+(3)(A) If a request for information under paragraph (2) covers classified information that cannot be declassified, or if the classification markings cannot be removed before release from the information covered by the request, or if the material cannot be summarized in a manner that prevents the release of classified information, the classified information shall be made available only to the president of the boardmaking the request and the counsel for the missing person appointed under subsection (f).
 
 (B) The president of a board shall close to persons who do not have appropriate security clearances the proceeding of the board at which classified information is discussed. Participants at a proceeding of a board at which classified information is discussed shall comply with all applicable laws and regulations relating to the disclosure of classified information. The Secretary concerned shall assist the president of a board in ensuring that classified information is not compromised through board proceedings.
 
@@ -112,7 +112,7 @@ Recommendation on Status.—(1) Upon completion of an inquiry under this section
 
 (j)
 
-Report.—A board appointed under this section shall submit to the Secretary concerned areport on the inquiry carried out by the board, together with the evidence considered by the board during the inquiry. The report may include a classified annex.
+Report.—A board appointed under this section shall submit to the Secretary concerned a report on the inquiry carried out by the board, together with the evidence considered by the board during the inquiry. The report may include a classified annex.
 
 (k)
 

@@ -16,7 +16,41 @@ As used in this subchapter:
 
 &emsp;(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category's discretionary spending limit for new budget authority or outlays for that year, as the case may be.
 
-&emsp;(4) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
+&emsp;(4)(A) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
+
+&emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Transportation Equity Act for the 21st Century:
+
+&emsp;&emsp;(i) 69–8083–0–7–401 (Federal-Aid Highways).
+
+&emsp;&emsp;(ii) 69–8020–0–7–401 (Highway Traffic Safety Grants).
+
+&emsp;&emsp;(iii) 69–8048–0–7–401 (National Motor Carrier Safety Program).
+
+&emsp;&emsp;(iv) 69–8016–0–7–401 (Operations and Research NHTSA).
+
+&emsp;(C) The term “mass transit category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century or for which appropriations are provided pursuant to authorizations contained in that Act (except that appropriations provided pursuant to section 5338(h) of title 49, as amended by the Transportation Equity Act for the 21st Century, shall not be included in this category):
+
+&emsp;&emsp;(i) 69–8191–0–7–401 (Mass Transit Capital Fund).
+
+&emsp;&emsp;(ii) 69–8350–0–7–401 (Trust Fund Share of Expenses).
+
+&emsp;&emsp;(iii) 69–1129–0–1–401 (Formula Grants).
+
+&emsp;&emsp;(iv) 69–1120–0–1–401 (Administrative Expenses).
+
+&emsp;&emsp;(v) 69–1136–0–1–401 (University Transportation Centers).
+
+&emsp;&emsp;(vi) 69–1137–0–1–401 (Transit Planning and Research).
+
+> &emsp;Such term also refers to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
+
+&emsp;(D)
+
+Special rule.—(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefense category outlays or discretionary category outlays.
+
+&emsp;(ii) If the obligation limitations for accounts in the highway or mass transit category provided in an appropriation Act for a fiscal year exceed the obligation limitations set forth in section 8103 of the Transportation Equity Actfor the 21st Century for that year, as adjusted, the estimated outlays flowing for each outyear from such excess obligations calculated pursuant to clause (iii) shall be attributed to the discretionary category in that outyear.
+
+&emsp;(iii) For purposes of clause (ii), outlays from excess obligations shall be determined using the average of the spendout rates for that category in the baseline.
 
 &emsp;(5) The term “baseline” means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
 
@@ -54,7 +88,7 @@ As used in this subchapter:
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865.)
 
 #### Termination of Section
 
@@ -64,7 +98,13 @@ As used in this subchapter:
 
 House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, June 5, 1997, 111 Stat. 2710, which is not classified to the Code.
 
-The Balanced Budget Act of 1997, referred to in subsec. (c)(4), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(A), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
+
+The Transportation Equity Act for the 21st Century, referred to in subsec. (c)(4)(B), (C), (D)(ii), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. Section 8103 of the Act is set out as a note under section 901 of this title. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of Title 23, Highways, and Tables.
+
+Section 14 of Public Law 96–184, referred to in subsec. (c)(4)(C), probably means section 14 of Pub. L. 91–143, as added by Pub. L. 96–184, §2, Jan. 3, 1980, 93 Stat. 1320, which is not classified to the Code.
+
+Public Law 101–551, referred to in subsec. (c)(4)(C), is Pub. L. 101–551, Nov. 15, 1990, 104 Stat. 2733, which is not classified to the Code.
 
 The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
@@ -75,6 +115,10 @@ Subsection (a) of this section, which provided a partial table of contents for t
 Pub. L. 101–508, §13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to section 907(12) of this title, to subsec. (c)(21) (now (c)(19)) of this section.
 
 #### Amendments
+
+1998—Subsec. (c)(4). Pub. L. 105–178, §8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+
+Subsec. (c)(4)(C). Pub. L. 105–178, §8101(f), as added by Pub. L. 105–206, §9013(b), in introductory provisions, substituted “Century or” for “Century and” and “as amended by the Transportation Equity Act for the 21st Century” for “as amended by this section”, and inserted concluding provisions.
 
 1997—Subsec. (a). Pub. L. 105–33, §§10204(a)(2), 10208(a)(2), amended table of contents. See Codification note above.
 
@@ -126,6 +170,10 @@ Subsec. (c)(21). Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19)
 
 1990—Subsec. (c)(21). Pub. L. 101–508, §13101(b), redesignated section 907(12) of this title as par. (21).
 
+#### Effective Date of 1998 Amendment
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
 #### Effective and Termination Dates
 
 Pub. L. 103–66, title XIV, §14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, §10212(b), Aug. 5, 1997, 111 Stat. 712.
@@ -136,7 +184,7 @@ Section 275 of title II of Pub. L. 99–177, as amended by Pub. L. 100–119, ti
 
 In General.—
 
-&emsp;“(1) Except as provided in paragraph (2) and in subsections (b) and (c), this title and the amendments made by this title \[see Short Title note below\] shall become effective on the date of the enactment of this title \[Dec. 12, 1985\] and shall apply with respect to fiscal years beginning after September 30, 1985.
+&emsp;“(1) Except as provided in paragraph (2) and in subsections (b) and (c), this title and the amendments made by this title \[see Short Title note below\] shallbecome effective on the date of the enactment of this title \[Dec. 12, 1985\] and shall apply with respect to fiscal years beginning after September 30, 1985.
 
 &emsp;“(2)(A) The amendment made by section 201(a)(2) \[amending section 622(2) of this title\], and the amendment made by section 201(b) \[ ( \] insofar as it relates to subsections (c), (f), and (g) of section 302 of the Congressional Budget Act of 1974 \[section 633(c), (f), and (g) of this title\] and to subsections (c), (d), and (g) of section 310 of that Act \[section 641(c), (d), and (g) of this title\]), shall become effective April 15, 1986.
 
@@ -174,7 +222,7 @@ Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of th
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
-Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects oractivities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
+Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
 
 #### Waivers and Suspensions in the Senate
 
@@ -230,7 +278,7 @@ Sec. 2. <i>Establishment of Direct Spending Targets.</i>
 
 (a) <i>In General</i>. The initial direct spending targets for each of fiscal years 1994 through 1997 shall equal total outlays for all direct spending except net interest and deposit insurance as determined by the Director of the Office of Management and Budget (Director) under subsection (b).
 
-(b) <i>Initial Report by Director</i>. (1) Not later than 30 days after the date of enactment of the Omnibus Budget Reconciliation Act of 1993 (OBRA) \[Aug. 10, 1993\], the Director shall submit a report to the Congress settingforth projected direct spending targets for each of fiscal years 1994 through 1997.
+(b) <i>Initial Report by Director</i>. (1) Not later than 30 days after the date of enactment of the Omnibus Budget Reconciliation Act of 1993 (OBRA) \[Aug. 10, 1993\], the Director shall submit a report to the Congress setting forth projected direct spending targets for each of fiscal years 1994 through 1997.
 
 (2) The Director's projections shall be based on legislation enacted as of 5 days before the report is submitted under paragraph (1). To the extent feasible, the Director shall use the same economic and technical assumptions used in preparing the concurrent resolution on the budget for fiscal year 1994 (H.Con.Res. 64).
 

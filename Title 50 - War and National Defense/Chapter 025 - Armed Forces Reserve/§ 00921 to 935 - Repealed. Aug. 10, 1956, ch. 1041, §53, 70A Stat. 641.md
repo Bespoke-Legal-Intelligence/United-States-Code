@@ -20,7 +20,7 @@ Section 929, act July 9, 1952, ch. 608, pt. II, §209, 66 Stat. 484, related to 
 
 Section 930, act July 9, 1952, ch. 608, pt. II, §210, 66 Stat. 485, related to composition of Standby Reserve. See section 10141 of Title 10.
 
-Section 931, act July 9, 1952, ch. 608, pt. II, §211, 66 Stat. 485, provided for inactive status list in StandbyReserve, regulations governing transfer, limitation on benefits. See sections 10152, 10153, and 12734 of Title 10.
+Section 931, act July 9, 1952, ch. 608, pt. II, §211, 66 Stat. 485, provided for inactive status list in Standby Reserve, regulations governing transfer, limitation on benefits. See sections 10152, 10153, and 12734 of Title 10.
 
 Section 932, act July 9, 1952, ch. 608, pt. II, §212, 66 Stat. 485, prescribed status of members of reserve components. See section 10141 of Title 10.
 

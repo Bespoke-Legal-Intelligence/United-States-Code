@@ -10,7 +10,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(1) training law enforcement officers and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of sexual assault and domestic violence;
 
-&emsp;(2) developing, training, or expanding units of law enforcement officers and prosecutors specifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
+&emsp;(2) developing, training, or expanding units of law enforcement officers and prosecutorsspecifically targeting violent crimes against women, including the crimes of sexual assault and domestic violence;
 
 &emsp;(3) developing and implementing more effective police and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of sexual assault and domestic violence;
 
@@ -26,7 +26,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 #### Prior Provisions
 
-A prior section 2001 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Section Referred to in Other Sections
 

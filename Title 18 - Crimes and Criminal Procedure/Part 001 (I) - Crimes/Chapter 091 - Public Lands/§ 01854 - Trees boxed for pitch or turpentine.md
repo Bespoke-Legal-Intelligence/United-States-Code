@@ -6,7 +6,7 @@ Whoever buys, trades for, or in any manner acquires any pitch, turpentine, or ot
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 788; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 788; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

@@ -80,5 +80,5 @@ The following sections of this chapter shall apply to States under this subchapt
 
 &emsp;(G) Section 1320b–2 of this title (relating to periods within which claims must be filed).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 565.)
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565.)
 

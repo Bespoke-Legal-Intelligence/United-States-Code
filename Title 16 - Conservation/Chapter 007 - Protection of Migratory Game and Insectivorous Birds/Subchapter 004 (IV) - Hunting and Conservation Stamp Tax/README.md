@@ -23,3 +23,4 @@ This subchapter is referred to in sections 668dd, 670b, 670i of this title; titl
 - [&sect; 00718h - Cooperation with States and Territories](%C2%A7%2000718h%20-%20Cooperation%20with%20States%20and%20Territories.md)
 - [&sect; 00718i - Repealed. July 30, 1956, ch. 782, &sect;3(c), 70 Stat. 722](%C2%A7%2000718i%20-%20Repealed.%20July%2030%2C%201956%2C%20ch.%20782%2C%20%C2%A73%28c%29%2C%2070%20Stat.%20722.md)
 - [&sect; 00718j - Crediting of funds received as fees for entering migratory-bird hunting and conservation stamp contest](%C2%A7%2000718j%20-%20Crediting%20of%20funds%20received%20as%20fees%20for%20entering%20migratory-bird%20hunting%20and%20conservation%20stamp%20contest.md)
+- [&sect; 00718k - Use of fees collected for Federal migratory bird permits](%C2%A7%2000718k%20-%20Use%20of%20fees%20collected%20for%20Federal%20migratory%20bird%20permits.md)

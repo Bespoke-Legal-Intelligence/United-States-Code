@@ -14,11 +14,11 @@ The Administrator of General Services shall prescribe policies and methods for t
 
 #### (d) Direct settlement by contracting agency
 
-Any contracting agency may settle directly termination claims of subcontractors to the extent that it deems such action necessary or desirable for the expeditious and equitable settlement of such claims. In making such termination settlements any contracting agency may discharge the claim of the subcontractor by payment or may purchase such claim, and may agree to assume, or indemnify the subcontractor against, any claims by any person in connection with such claim or the termination settlement. Any contracting agency undertaking to settle the termination claim of any subcontractor shall deliver to the subcontractor and the war contractor liable to him written notice stating its acceptance of responsibility for settling his claim and the conditions applicable thereto, which may include the release, or assignment to the contracting agency, of his claim against the war contractor liable to him; upon consent thereto by the subcontractor, the Government shall become liable for the settlement of his claims upon the conditions specified in the notice.
+Any contracting agency may settle directly termination claims of subcontractors to the extent that it deems such action necessary or desirable for the expeditious and equitable settlement of such claims. In making such termination settlements any contracting agency may discharge the claim of the subcontractor by payment or may purchase such claim, and may agree to assume, or indemnify the subcontractor against, any claims by any person in connection with such claim or the termination settlement. Any contracting agency undertaking to settle the termination claim of any subcontractor shall deliver to the subcontractor and the war contractor liable to him written notice stating its acceptance of responsibility for settling his claim and the conditions applicable thereto, which may include the release, or assignment to the contracting agency, of his claim against the war contractor liable to him; upon consent thereto by the subcontractor, the Government shall become liable for the settlement of hisclaims upon the conditions specified in the notice.
 
 #### (e) Amount of settlement
 
-Any contracting agency may make settlements with subcontractors in accordance withany of the provisions of this chapter without regard to any limitation on the amount payable by the Government to the prime contractor.
+Any contracting agency may make settlements with subcontractors in accordance with any of the provisions of this chapter without regard to any limitation on the amount payable by the Government to the prime contractor.
 
 #### (f) Equitable payments
 

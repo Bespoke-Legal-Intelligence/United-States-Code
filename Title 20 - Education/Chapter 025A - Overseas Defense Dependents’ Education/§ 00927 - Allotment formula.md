@@ -26,7 +26,7 @@ Any regulation under subsection (a) of this section shall be issued, and shall b
 
 #### (1) Children with disabilities
 
-&emsp;Notwithstanding the provisions of section 921(b)(3) of this title, the provisions of part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\], other than thefunding and reporting provisions, shall apply to all schools operated by the Department of Defense under this chapter, including the requirement that children with disabilities, aged 3 to 5, inclusive, receive a free appropriate public education by academic year 1993–1994.
+&emsp;Notwithstanding the provisions of section 921(b)(3) of this title, the provisions of part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\], other than the funding and reporting provisions, shall apply to all schools operated by the Department of Defense under this chapter, including the requirement that children with disabilities, aged 3 to 5, inclusive, receive a free appropriate public education by academic year 1993–1994.
 
 #### (2) Infants and toddlers with disabilities
 

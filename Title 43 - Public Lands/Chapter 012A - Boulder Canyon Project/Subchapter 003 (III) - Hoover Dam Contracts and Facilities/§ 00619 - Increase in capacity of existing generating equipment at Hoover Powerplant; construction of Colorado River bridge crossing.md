@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to increase the capacity of existing
 
 #### (b) Construction of Colorado River bridge crossing; authorization of Secretary
 
-The Secretary of the Interior is authorized to construct a Colorado River bridge crossing, including suitable approach spans, immediately downstream from Hoover Dam for the purpose of alleviating traffic congestion and reducing safety hazards. This bridge shall not be a part of the Boulder Canyon project and shall neither be funded nor repaid from the Colorado River Dam Fund or the Lower Colorado River Basin Development Fund.
+The Secretary of the Interior is authorized to construct a Colorado River bridge crossing, including suitable approach spans, immediately downstream from Hoover Dam for the purpose of alleviating traffic congestion and reducing safety hazards. This bridge shall not be a part of the Boulder Canyon project and shall neither befunded nor repaid from the Colorado River Dam Fund or the Lower Colorado River Basin Development Fund.
 
 (Pub. L. 98–381, title I, §101, Aug. 17, 1984, 98 Stat. 1333.)
 

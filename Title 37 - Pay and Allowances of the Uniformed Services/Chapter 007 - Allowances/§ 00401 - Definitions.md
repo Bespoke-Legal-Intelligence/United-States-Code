@@ -48,7 +48,7 @@ Other Definitions.—For purposes of subsection (a):
 
 &emsp;&emsp;(A) a stepchild of the member (except that such term does not include a stepchild after the divorce of the member from the stepchild's parent by blood);
 
-&emsp;&emsp;(B) an adopted child of the member, including a child placed in the home of the member by a placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the child by the member; and
+&emsp;&emsp;(B) an adopted child of the member, including a child placed in the home of themember by a placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the child by the member; and
 
 &emsp;&emsp;(C) an illegitimate child of the member if the member's parentage of the child is established in accordance with criteria prescribed in regulations by the Secretary concerned.
 

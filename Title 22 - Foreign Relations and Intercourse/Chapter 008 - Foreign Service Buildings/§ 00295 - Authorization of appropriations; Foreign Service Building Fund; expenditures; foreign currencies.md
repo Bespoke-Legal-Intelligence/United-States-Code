@@ -90,7 +90,7 @@
 
 (3) There are hereby authorized to be appropriated to the Secretary of State such additional or supplemental amounts as may be necessary for increases in salary, pay, retirement, or other employee benefits authorized by law.
 
-(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49, Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; 1977 Reorg. Plan No. 2, §§1, 7(a)(18), 9(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1638, 1639; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
+(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49, Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
 
 #### References in Text
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 86–723 effective on first day of first pay period which b
 
 #### Transfer of Functions
 
-“United States Information Agency” substituted for “International Communication Agency” in subsecs. (d)(1)(F), (f)(1)(F), (g)(1)(F), and (h)(1)(C), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “International Communication Agency” substituted for “United States Information Agency” pursuant to Reorg. Plan No. 2 of 1977, §§1, 7(a)(18), 9(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1638, 1639, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which established International Communication Agency, transferred functions vested in Secretary of State under subsecs. (d)(1)(F), (f)(1)(F), (g)(1)(F), and (h)(1)(F) of this section to Director of International Communication Agency, and abolished United States Information Agency. Subsec. (h)(1)(F) of this section was repealed by Pub. L. 95–45, and similar provisions are contained in subsec. (h)(1)(C) of this section.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

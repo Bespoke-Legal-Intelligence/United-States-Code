@@ -58,7 +58,7 @@ A State educational agency may use not more than 4 percent of the amount reserve
 
 &emsp;&emsp;(i) 70 percent of such amount to local educational agencies, based on the relative enrollments in public and private nonprofit elementary and secondary schools within the boundaries of such agencies; and
 
-&emsp;&emsp;(ii) 30 percent of such amount to local educational agencies that the State educational agency determines have the greatest need for additional funds to carry out drug and violence prevention programs authorized by this subpart.
+&emsp;&emsp;(ii) 30 percent of such amount to local educational agencies that the State educationalagency determines have the greatest need for additional funds to carry out drug and violence prevention programs authorized by this subpart.
 
 &emsp;(B) Where appropriate and to the extent consistent with the needs assessment conducted by the State, not less than 25 percent of the amount distributed under subparagraph (A)(ii) for a fiscal year shall be distributed to local educational agencies located in rural and urban areas.
 

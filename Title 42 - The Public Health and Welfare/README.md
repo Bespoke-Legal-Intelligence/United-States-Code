@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 1997 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 1998 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -167,6 +167,8 @@
 | [<b>137.</b>](Chapter%20137%20-%20Management%20of%20Rechargeable%20Batteries%20and%20Batteries%20Containing%20Mercury/README.md) | <b>Management of Rechargeable Batteries and Batteries Containing Mercury</b> | <b>14301</b> |
 | [<b>138.</b>](Chapter%20138%20-%20Assisted%20Suicide%20Funding%20Restriction/README.md) | <b>Assisted Suicide Funding Restriction</b> | <b>14401</b> |
 | [<b>139.</b>](Chapter%20139%20-%20Volunteer%20Protection/README.md) | <b>Volunteer Protection</b> | <b>14501</b> |
+| [<b>140.</b>](Chapter%20140%20-%20Criminal%20Justice%20Identification%2C%20Information%2C%20and%20Communication/README.md) | <b>Criminal Justice Identification, Information, and Communication</b> | <b>14601</b> |
+| [<b>141.</b>](Chapter%20141%20-%20Commercial%20Space%20Opportunities%20and%20Transportation%20Services/README.md) | <b>Commercial Space Opportunities and Transportation Services</b> | <b>14701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -337,3 +339,5 @@
 - [Chapter 137 - Management of Rechargeable Batteries and Batteries Containing Mercury](Chapter%20137%20-%20Management%20of%20Rechargeable%20Batteries%20and%20Batteries%20Containing%20Mercury/README.md)
 - [Chapter 138 - Assisted Suicide Funding Restriction](Chapter%20138%20-%20Assisted%20Suicide%20Funding%20Restriction/README.md)
 - [Chapter 139 - Volunteer Protection](Chapter%20139%20-%20Volunteer%20Protection/README.md)
+- [Chapter 140 - Criminal Justice Identification, Information, and Communication](Chapter%20140%20-%20Criminal%20Justice%20Identification%2C%20Information%2C%20and%20Communication/README.md)
+- [Chapter 141 - Commercial Space Opportunities and Transportation Services](Chapter%20141%20-%20Commercial%20Space%20Opportunities%20and%20Transportation%20Services/README.md)

@@ -2,7 +2,7 @@
 
 #### (a) Demonstration projects covering storm waters, advanced waste treatment and water purification methods, and joint treatment systems for municipal and industrial wastes
 
-The Administrator is authorized to conduct in the Environmental Protection Agency, and tomake grants to any State, municipality, or intermunicipal or interstate agency for the purpose of assisting in the development of—
+The Administrator is authorized to conduct in the Environmental Protection Agency, and to make grants to any State, municipality, or intermunicipal or interstate agency for the purpose of assisting in the development of—
 
 &emsp;(1) any project which will demonstrate a new or improved method of preventing, reducing, and eliminating the discharge into any waters of pollutants from sewers which carry storm water or both storm water and pollutants; or
 
@@ -24,7 +24,7 @@ In carrying out the provisions of this section, the Administrator shall conduct,
 
 &emsp;(1) waste management methods applicable to point and nonpoint sources of pollutants to eliminate the discharge of pollutants, including, but not limited to, elimination of runoff of pollutants and the effects of pollutants from inplace or accumulated sources;
 
-&emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recycling water and confining pollutants so they will not migrate to cause water or other environmental pollution; and
+&emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recyclingwater and confining pollutants so they will not migrate to cause water or other environmental pollution; and
 
 &emsp;(3) improved methods and procedures to identify and measure the effects of pollutants on the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
 
@@ -50,7 +50,7 @@ Federal grants under subsections (c) and (d) of this section shall not exceed 75
 
 #### (h) Authorization of appropriations
 
-For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscalyear ending June 30, 1974, and the fiscal year ending June 30, 1975, and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e) of this section.
+For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e) of this section.
 
 #### (i) Assistance for research and demonstration projects
 

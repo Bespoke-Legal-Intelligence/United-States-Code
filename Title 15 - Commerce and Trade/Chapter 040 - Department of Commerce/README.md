@@ -33,6 +33,10 @@
 | (c) | Budget line item. |
 | (d) | Omitted. |
 | (e) | Chesapeake Executive Council. |
+| [1511e.](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md) | Office of Space Commercialization. |
+| (a) | Establishment. |
+| (b) | Director. |
+| (c) | Functions of Office; duties of Director. |
 | [1512\.](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md) | Powers and duties of Department. |
 | [1513\.](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md) | Duties and powers vested in Department. |
 | [1514\.](%C2%A7%2001514%20-%20Basic%20authority%20for%20performance%20of%20certain%20functions%20and%20activities%20of%20Department.md) | Basic authority for performance of certain functions and activities of Department. |
@@ -77,6 +81,7 @@
 | (c) | Exemption. |
 | (d) | “Nondiscretionary assistance program” defined. |
 | [1540\.](%C2%A7%2001540%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
+| [1541\.](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md) | Administrative Law Judges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -104,6 +109,7 @@
 - [&sect; 01511b - United States fishery trade officers](%C2%A7%2001511b%20-%20United%20States%20fishery%20trade%20officers.md)
 - [&sect; 01511c - Estuarine Programs Office](%C2%A7%2001511c%20-%20Estuarine%20Programs%20Office.md)
 - [&sect; 01511d - Chesapeake Bay Estuarine Resources Office](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Estuarine%20Resources%20Office.md)
+- [&sect; 01511e - Office of Space Commercialization](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md)
 - [&sect; 01512 - Powers and duties of Department](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md)
 - [&sect; 01513 - Duties and powers vested in Department](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md)
 - [&sect; 01514 - Basic authority for performance of certain functions and activities of Department](%C2%A7%2001514%20-%20Basic%20authority%20for%20performance%20of%20certain%20functions%20and%20activities%20of%20Department.md)
@@ -136,3 +142,4 @@
 - [&sect; 01538 - Notice of reprogramming](%C2%A7%2001538%20-%20Notice%20of%20reprogramming.md)
 - [&sect; 01539 - Financial assistance](%C2%A7%2001539%20-%20Financial%20assistance.md)
 - [&sect; 01540 - Cooperative agreements](%C2%A7%2001540%20-%20Cooperative%20agreements.md)
+- [&sect; 01541 - Administrative Law Judges](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md)

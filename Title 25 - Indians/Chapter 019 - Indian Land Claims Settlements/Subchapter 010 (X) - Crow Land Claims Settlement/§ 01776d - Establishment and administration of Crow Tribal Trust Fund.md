@@ -56,7 +56,7 @@ At the request of the Secretary, the Secretary of the Treasury shall invest all 
 
 #### (3) Prohibition
 
-&emsp;No portion of the Crow Tribal Trust Fund or the interest earned on the Crow Tribal TrustFund may be distributed to members of the Crow Tribe on a per capita basis.
+&emsp;No portion of the Crow Tribal Trust Fund or the interest earned on the Crow Tribal Trust Fund may be distributed to members of the Crow Tribe on a per capita basis.
 
 #### (e) Use of interest for economic development
 

@@ -2,7 +2,7 @@
 
 The President may delegate his authority to award the medal of honor, Air Force cross, and distinguished-service medal, to a commanding general of a separate air force or higher unit in the field.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 541; July 6, 1960, Pub. L. 86–593, §1(3), 74 Stat. 332.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 541; Pub. L. 86–593, §1(3), July 6, 1960, 74 Stat. 332.)
 
 Historical and Revision Notes
 

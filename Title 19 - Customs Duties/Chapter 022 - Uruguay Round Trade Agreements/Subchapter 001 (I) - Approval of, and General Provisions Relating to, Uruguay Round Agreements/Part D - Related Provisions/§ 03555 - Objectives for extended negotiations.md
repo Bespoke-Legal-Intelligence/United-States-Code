@@ -6,7 +6,7 @@ The principal negotiating objective of the United States in the extended negotia
 
 &emsp;(1) offering commitments to provide national treatment and market access in each of the financial services subsectors, and
 
-&emsp;(2) making such commitments on a most-favored-nation basis.
+&emsp;(2) making such commitments on a normal trade relations basis.
 
 #### (b) Trade in basic telecommunications services
 
@@ -42,7 +42,11 @@ The principal negotiating objective of the United States in the extended negotia
 
 &emsp;&emsp;(E) the term “US–EC bilateral agreement” means the Agreement Concerning the Application of the GATT Agreement on Trade in Civil Aircraft Between the European Economic Community and the Government of the United States of America on trade in large civil aircraft, entered into on July 17, 1992.
 
-(Pub. L. 103–465, title I, §135, Dec. 8, 1994, 108 Stat. 4840.)
+(Pub. L. 103–465, title I, §135, Dec. 8, 1994, 108 Stat. 4840; Pub. L. 105–206, title V, §5003(b)(5), July 22, 1998, 112 Stat. 790.)
+
+#### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–206 substituted “normal trade relations” for “most-favored-nation”.
 
 #### Effective Date
 

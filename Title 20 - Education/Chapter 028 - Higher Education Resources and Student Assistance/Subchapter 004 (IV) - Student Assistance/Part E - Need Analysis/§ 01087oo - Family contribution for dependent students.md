@@ -22,7 +22,7 @@ The parents’ contribution from adjusted available income is equal to the amoun
 
 &emsp;(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e) of this section; and
 
-&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the family members who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -226,7 +226,7 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 #### (3) Remarried parents
 
-&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection,has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
+&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
 
 &emsp;&emsp;(A) the student's parent and the stepparent are married as of the date of application for the award year concerned; and
 
@@ -256,9 +256,11 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 &emsp;&emsp;(C) an allowance for social security taxes determined in accordance with paragraph (4);
 
-&emsp;&emsp;(D) an income protection allowance of $1,750; and
+&emsp;&emsp;(D) an income protection allowance of $2,200 (or a successor amount prescribed by the Secretary under section 1087rr of this title);
 
-&emsp;&emsp;(E) the amount of any tax credit taken by the student under section 25A of title 26.
+&emsp;&emsp;(E) the amount of any tax credit taken by the student under section 25A of title 26; and
+
+&emsp;&emsp;(F) an allowance for parents’ negative available income, determined in accordance with paragraph (6).
 
 #### (3) Allowance for State and other income taxes
 
@@ -287,6 +289,10 @@ Percentages for Computation of State and Other Tax Allowance
 
 &emsp;The student's available income (determined in accordance with paragraph (1) of this subsection) is assessed at 50 percent.
 
+#### (6) Allowance for parents’ negative available income
+
+&emsp;The allowance for parents’ negative available income is the amount, if any, by which the sum of the amounts deducted under subparagraphs (A) through (F) of subsection (c)(1) of this section exceeds the sum of the parents’ total income (as defined in section 1087vv of this title) and the parents’ contribution from assets (as determined in accordance with subsection (d) of this section).
+
 #### (h) Student contribution from assets
 
 The student contribution from assets is determined by calculating the net assets of the student and multiplying such amount by 35 percent, except that the result shall not be less than zero.
@@ -307,9 +313,23 @@ For periods of enrollment other than 9 months, the parents’ contribution from 
 
 &emsp;&emsp;(D) the original parents’ contribution from adjusted available income is increased by the product of the monthly adjustment amount multiplied by the number of months greater than 9 for which the student will be enrolled.
 
-(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523.)
+#### (j) Adjustments to student's contribution for enrollment periods of less than nine months
+
+For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g) of this section) is determined, for purposes other than subpart 2 of part A of this subchapter, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
+
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729.)
 
 #### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–244, §473(a), which directed insertion of “, excluding the student's parents,” after “number of family members”, was executed by making the insertion after “number of the family members” to reflect the probable intent of Congress.
+
+Subsec. (g)(2)(D). Pub. L. 105–244, §473(b)(1)(A), substituted “$2,200 (or a successor amount prescribed by the Secretary under section 1087rr of this title);” for “$1,750; and”.
+
+Subsec. (g)(2)(F). Pub. L. 105–244, §473(b)(1)(B), (C), added subpar. (F).
+
+Subsec. (g)(6). Pub. L. 105–244, §473(b)(2), added par. (6).
+
+Subsec. (j). Pub. L. 105–244, §473(c), added subsec. (j).
 
 1997—Subsec. (c)(1)(F). Pub. L. 105–78, §609(g)(1), added subpar. (F).
 
@@ -365,9 +385,13 @@ Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former
 
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

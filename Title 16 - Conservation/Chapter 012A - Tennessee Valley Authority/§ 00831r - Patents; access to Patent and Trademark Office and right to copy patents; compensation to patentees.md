@@ -2,7 +2,7 @@
 
 The Corporation, as an instrumentality and agency of the Government of the United States for the purpose of executing its constitutional powers, shall have access to the Patent and Trademark Office of the United States for the purpose of studying, ascertaining, and copying all methods, formula, and scientific information (not including access to pending applications for patents) necessary to enable the Corporation to use and employ the most efficacious and economical process for the production of fixed nitrogen, or any essential ingredient of fertilizer, or any method of improving and cheapening the production of hydroelectric power, and any owner of a patent whose patent rights may have been thus in any way copied, used, infringed, or employed by the exercise of this authority by the Corporation shall have as the exclusive remedy a cause of action against the Corporation to be instituted and prosecuted on the equity side of the appropriate district court of the United States, for the recovery of reasonable compensation for such infringement. The Commissioner of Patents and Trademarks shall furnish to the Corporation, at its request and without payment of fees, copies of documents on file in his office: <i>Provided</i>, That the benefits of this section shall not apply to any art, machine, method of manufacture, or composition of matter, discovered or invented by such employee during the time of his employment or service with the Corporation or with the Government of the United States.
 
-(May 18, 1933, ch. 32, §19, 48 Stat. 68; Jan. 2, 1975, Pub. L. 93–596, §3, 88 Stat. 1949.)
+(May 18, 1933, ch. 32, §19, 48 Stat. 68; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Change of Name
 

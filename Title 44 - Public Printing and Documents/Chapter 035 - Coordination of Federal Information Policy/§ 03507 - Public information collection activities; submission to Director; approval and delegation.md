@@ -1,6 +1,6 @@
 ### §3507. Public information collection activities; submission to Director; approval and delegation
 
-(a) An agency shall not conduct or sponsor the collection of information unless in advance of the adoption or revision of the collection of information—
+(a) An agency shall not conduct or sponsor the collection of information unless in advance ofthe adoption or revision of the collection of information—
 
 &emsp;(1) the agency has—
 
@@ -32,7 +32,7 @@
 
 &emsp;(3) the agency has obtained from the Director a control number to be displayed upon the collection of information.
 
-(b) The Director shall provide at least 30 days for public comment prior to making a decisionunder subsection (c), (d), or (h), except as provided under subsection (j).
+(b) The Director shall provide at least 30 days for public comment prior to making a decision under subsection (c), (d), or (h), except as provided under subsection (j).
 
 (c)(1) For any proposed collection of information not contained in a proposed rule, the Director shall notify the agency involved of the decision to approve or disapprove the proposed collection of information.
 
@@ -140,7 +140,7 @@
 
 A prior section 3507, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2819; amended Pub. L. 99–500, §101(m) \[title VIII, §817\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–338, and Pub. L. 99–591, §101(m) \[title VIII, §817\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–338, related to submission to Director of public information collection request for an approval or delegation to a senior official of an agency prior to the general amendment of this chapter by Pub. L. 104–13.
 
-Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, provided for cooperation of agencies in making information available, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3510(a) of this title.
+Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, provided for cooperation of agenciesin making information available, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3510(a) of this title.
 
 #### Amendments
 

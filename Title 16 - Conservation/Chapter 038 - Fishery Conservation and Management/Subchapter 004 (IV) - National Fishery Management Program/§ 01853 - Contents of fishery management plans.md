@@ -4,7 +4,7 @@
 
 Any fishery management plan which is prepared by any Council, or by the Secretary, with respect to any fishery, shall—
 
-&emsp;(1) contain the conservation and management measures, applicable to foreign fishingand fishing by vessels of the United States, which are—
+&emsp;(1) contain the conservation and management measures, applicable to foreign fishing and fishing by vessels of the United States, which are—
 
 &emsp;&emsp;(A) necessary and appropriate for the conservation and management of the fishery, to prevent overfishing and rebuild overfished stocks, and to protect, restore, and promote the long-term health and stability of the fishery;
 
@@ -30,7 +30,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(7) describe and identify essential fish habitat for the fishery based on the guidelines established by the Secretary under section 1855(b)(1)(A) of this title, minimize to the extent practicable adverse effects on such habitat caused by fishing, and identify other actions to encourage the conservation and enhancement of such habitat;
 
-&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
+&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary forsuch review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
 
 &emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and describe the likely effects, if any, of the conservation and management measures on—
 
@@ -50,7 +50,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors; and
 
-&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fisheryare necessary, allocate any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery.
+&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery.
 
 #### (b) Discretionary provisions
 
@@ -96,7 +96,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(8) require that one or more observers be carried on board a vessel of the United States engaged in fishing for species that are subject to the plan, for the purpose of collecting data necessary for the conservation and management of the fishery; except that such a vessel shall not be required to carry an observer on board if the facilities of the vessel for the quartering of an observer, or for carrying out observer functions, are so inadequate or unsafe that the health or safety of the observer or the safe operation of the vessel would be jeopardized;
 
-&emsp;(9) assess and specify the effect which the conservation and management measures of the plan will have on the stocks of naturally spawning anadromous fish in the region;
+&emsp;(9) assess and specify the effect which the conservation and management measures of theplan will have on the stocks of naturally spawning anadromous fish in the region;
 
 &emsp;(10) include, consistent with the other provisions of this chapter, conservation and management measures that provide harvest incentives for participants within each gear group to employ fishing practices that result in lower levels of bycatch or in lower levels of the mortality of bycatch;
 
@@ -152,7 +152,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 #### Amendment of Subsection (b)(1)(A)
 
-<i>Pub. L. 102–251, title III, §§301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.</i>
+<i>Pub. L. 102–251, title III, §§301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between</i><i>the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.</i>
 
 #### References in Text
 
@@ -180,7 +180,7 @@ Subsec. (b)(8). Pub. L. 104–297, §108(c)(4), substituted “require that one 
 
 Subsec. (b)(10) to (12). Pub. L. 104–297, §108(c)(5)–(7), added pars. (10) and (11) and redesignated former par. (10) as (12).
 
-Subsec. (c). Pub. L. 104–297, §108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneouslywith the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title.”
+Subsec. (c). Pub. L. 104–297, §108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title.”
 
 Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck out former subsecs. (d) relating to confidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
 
@@ -270,7 +270,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 #### Existing Quota Plans
 
-Section 108(i) of Pub. L. 104–297 provided that: “Nothing in this Act \[see Short Title of 1996 Amendment note under section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
+Section 108(i) of Pub. L. 104–297 provided that: “Nothing in this Act \[see Short Title of 1996 Amendment noteunder section 1801 of this title\] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
 
 #### Section Referred to in Other Sections
 

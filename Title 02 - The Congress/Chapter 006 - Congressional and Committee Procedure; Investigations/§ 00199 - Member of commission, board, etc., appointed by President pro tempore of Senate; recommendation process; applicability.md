@@ -4,7 +4,7 @@
 
 &emsp;(1) upon recommendation of the Majority Leader of the Senate, if such provision of law specifies that the appointment is to be made on the basis of the appointee's affiliation with the majority political party,
 
-&emsp;(2) upon the recommendation of the Minority Leader of the Senate, if such provision oflaw specifies that the appointment is to be made on the basis of the appointee's affiliation with the minority party, and
+&emsp;(2) upon the recommendation of the Minority Leader of the Senate, if such provision of law specifies that the appointment is to be made on the basis of the appointee's affiliation with the minority party, and
 
 &emsp;(3) upon the joint recommendation of the Majority Leader of the Senate and the Minority Leader of the Senate, if such provision of law does not specify that the appointment is to be made on the appointee's affiliation with the majority or minority political party.
 

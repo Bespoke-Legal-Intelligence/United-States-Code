@@ -12,7 +12,7 @@ The purpose of this part is to improve the quality of service and to help meet c
 
 &emsp;(5) establishing and supporting multidisciplinary centers of gerontology (including centers of gerontology to improve, enhance, and expand minority personnel and training programs) and providing special emphasis that will improve, enhance, and expand existing training programs.
 
-(Pub. L. 89–73, title IV, §410, as added Pub. L. 98–459, title IV, §402, Oct. 9, 1984, 98 Stat. 1781;amended Pub. L. 100–175, title I, §134(c)(2), Nov. 29, 1987, 101 Stat. 941; Pub. L. 102–375, title IV, §403, Sept. 30, 1992, 106 Stat. 1244.)
+(Pub. L. 89–73, title IV, §410, as added Pub. L. 98–459, title IV, §402, Oct. 9, 1984, 98 Stat. 1781; amended Pub. L. 100–175, title I, §134(c)(2), Nov. 29, 1987, 101 Stat. 941; Pub. L. 102–375, title IV, §403, Sept. 30, 1992, 106 Stat. 1244.)
 
 #### Amendments
 

@@ -96,7 +96,7 @@ The Commission is authorized—
 
 &emsp;(F) A person aggrieved by an order issued under this paragraph may obtain review of such order in the same manner and on the same terms and conditions as are provided in section 8(b) of this title.
 
-(Sept. 21, 1922, ch. 369, §8a, as added June 15, 1936, ch. 545, §10, 49 Stat. 1500; amended Aug. 5, 1955, ch. 574, 69 Stat. 535; Feb. 19, 1968, Pub. L. 90–258, §§20–23, 82 Stat. 32, 33; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), title II, §§204(c), 205(c), 213–215, 88 Stat. 1392, 1397, 1400, 1404; Sept. 30, 1978, Pub. L. 95–405, §17, 92 Stat. 874; Jan. 11, 1983, Pub. L. 97–444, title I, §104, title II, §§223–225, 96 Stat. 2297, 2310–2315; Oct. 28, 1992, Pub. L. 102–546, title II, §§207(b)(3), (4), 208, 209(b)(6), 227, title IV, §402(10), 106 Stat. 3604, 3607, 3618, 3625.)
+(Sept. 21, 1922, ch. 369, §8a, as added June 15, 1936, ch. 545, §10, 49 Stat. 1500; amended Aug. 5, 1955, ch. 574, 69 Stat. 535; Pub. L. 90–258, §§20–23, Feb. 19, 1968, 82 Stat. 32, 33; Pub. L. 93–463, title I, §103(a), title II, §§204(c), 205(c), 213–215, Oct. 23, 1974, 88 Stat. 1392, 1397, 1400, 1404; Pub. L. 95–405, §17, Sept. 30, 1978, 92 Stat. 874; Pub. L. 97–444, title I, §104, title II, §§223–225, Jan. 11, 1983, 96 Stat. 2297, 2310–2315; Pub. L. 102–546, title II, §§207(b)(3), (4), 208, 209(b)(6), 227, title IV, §402(10), Oct. 28, 1992, 106 Stat. 3604, 3607, 3618, 3625.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Par. (2)(G). Pub. L. 102–546, §208(d), substituted “this paragraph and para
 
 Par. (3). Pub. L. 102–546, §209(b)(6)(B), made technical amendment to reference to section 9 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
 
-Par. (3)(D). Pub. L. 102–546, §208(e), inserted “pleaded guilty to or” after “person”, substituted “section,” for “section within ten years preceding the filing of the application or at any time thereafter,” and “felony of the type specified in paragraph (2)(D) of this section more” for “felony, including a felony of the type specified in paragraph (2)(D) of this section, more”.
+Par. (3)(D). Pub. L. 102–546, §208(e), inserted “pleaded guilty to or” after “person”, substituted “section,” for “section within ten years preceding the filing of the application or at any time thereafter,” and “felony of the type specified in paragraph (2)(D) of this section more”for “felony, including a felony of the type specified in paragraph (2)(D) of this section, more”.
 
 Par. (3)(E). Pub. L. 102–546, §208(f)(1), (2), inserted “pleaded guilty to or” after “person” and struck out “within ten years preceding the filing of the application for registration or at any time thereafter” before “of any misdemeanor”.
 

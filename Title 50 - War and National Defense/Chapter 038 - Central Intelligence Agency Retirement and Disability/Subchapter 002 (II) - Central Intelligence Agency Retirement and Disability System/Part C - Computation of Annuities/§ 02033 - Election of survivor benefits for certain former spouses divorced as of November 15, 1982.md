@@ -2,7 +2,7 @@
 
 #### (a) Former spouses as of November 15, 1982
 
-A participant, former participant, or retired participant in the system who on November 15, 1982, had a former spouse may, by a spousal agreement, elect to receive a reduced annuity and provide a survivor annuity for such former spouse under section 2032(b) of this title.
+A participant, former participant, or retired participant in the system who on November 15,1982, had a former spouse may, by a spousal agreement, elect to receive a reduced annuity and provide a survivor annuity for such former spouse under section 2032(b) of this title.
 
 #### (b) Time for making election
 

@@ -32,9 +32,11 @@ There is established in the Treasury of the United States a separate fund to be 
 
 &emsp;(I) Disposal of hazardous materials that are stored in the stockpile and authorized for disposal by law.
 
-&emsp;(J) Pay of employees of the National Defense Stockpile program.
+&emsp;(J) Performance of environmental remediation, restoration, waste management, or compliance activities at locations of the stockpile that are required under a Federal law or are undertaken by the Government under an administrative decision or negotiated agreement.
 
-&emsp;(K) Other expenses of the National Defense Stockpile program.
+&emsp;(K) Pay of employees of the National Defense Stockpile program.
+
+&emsp;(L) Other expenses of the National Defense Stockpile program.
 
 (3) Moneys in the fund shall remain available until expended.
 
@@ -52,13 +54,15 @@ If, during a fiscal year, the National Defense Stockpile Manager barters materia
 
 &emsp;(3) not increase or decrease the balance in the fund.
 
-(June 7, 1939, ch. 190, §9, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 97–35, title II, §203(d), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3203(a), Nov. 14, 1986, 100 Stat. 4067; Pub. L. 100–180, div. C, title II, §3204, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 101–189, div. C, title XXXIII, §3312(b), Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(c), Nov. 5, 1990, 104 Stat. 1845; Pub. L. 102–190, div. C, title XXXIII, §3311(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 102–484, div. C, title XXXIII, §3313, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3313, Nov. 30, 1993, 107 Stat. 1962.)
+(June 7, 1939, ch. 190, §9, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 97–35, title II, §203(d), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3203(a), Nov. 14, 1986, 100 Stat. 4067; Pub. L. 100–180, div. C, title II, §3204, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 101–189, div. C, title XXXIII, §3312(b), Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(c), Nov. 5, 1990, 104 Stat. 1845; Pub. L. 102–190, div. C, title XXXIII, §3311(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 102–484, div. C, title XXXIII, §3313, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3313, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 105–261, div. C, title XXXIII, §3304, Oct. 17, 1998, 112 Stat. 2264.)
 
 #### Prior Provisions
 
 A prior section 98h, act June 7, 1939, ch. 190, §9, as added July 23, 1946, ch. 590, 60 Stat. 600, related to disposition of receipts, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98h(b)(1) of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(2)(J) to (L). Pub. L. 105–261 added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
 
 1993—Subsec. (b)(2)(J), (K). Pub. L. 103–160, §3313(a), added subpars. (J) and (K).
 
@@ -100,7 +104,7 @@ Pub. L. 99–500, §101(m) \[title V, §520\], Oct. 18, 1986, 100 Stat. 1783–3
 
 #### Deposit of Funds Accruing From Naval Petroleum Reserves
 
-Pub. L. 98–525, title IX, §905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, §1611(a), Nov. 8, 1985, 99 Stat. 776, provided that: “There shall be deposited into the National Defense Stockpile Transaction Fund established under section 9 of the Act (50 U.S.C. 98h) 30 percent of all money accruing to theUnited States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves (less amounts spent for exploration, development and operation of those reserves and related expenses during that period). Moneys deposited into the Fund under this subsection shall be deemed to have been covered into the Fund under section 9(b) of the Act.”
+Pub. L. 98–525, title IX, §905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, §1611(a), Nov. 8, 1985, 99 Stat. 776, provided that: “There shall be deposited into the National Defense Stockpile Transaction Fund established under section 9 of the Act (50 U.S.C. 98h) 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves (less amounts spent for exploration, development and operation of those reserves and related expenses during that period). Moneys deposited into the Fund under this subsection shall be deemed to have been covered into the Fund under section 9(b) of the Act.”
 
 #### Section Referred to in Other Sections
 

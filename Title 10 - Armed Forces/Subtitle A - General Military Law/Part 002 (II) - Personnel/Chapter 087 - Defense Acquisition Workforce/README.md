@@ -1,11 +1,6 @@
 ### <b>CHAPTER 87—DEFENSE ACQUISITION WORKFORCE</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20General%20Authorities%20and%20Responsibilities/README.md) | <b>General Authorities and Responsibilities</b> | <b>1701</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Defense%20Acquisition%20Positions/README.md) | <b>Defense Acquisition Positions</b> | <b>1721</b> |
@@ -21,7 +16,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 41 section 433.
+This chapter is referred to in section 1552 of this title; title 41 section 433.
 
 
 ---

@@ -6,11 +6,11 @@ For the purpose of computing the retired pay of a person under this chapter, the
 
 &emsp;(2) The person's days of full-time service under sections 316, 502, 503, 504, and 505 of title 32 while performing annual training duty or while attending a prescribed course of instruction at a school designated as a service school by law or by the Secretary concerned.
 
-&emsp;(3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than 60 days in any one year of service before the year of service that includes September 23, 1996,and not more than 75 days in any subsequent year of service.
+&emsp;(3) One day for each point credited to the person under clause (B), (C), or (D) of section 12732(a)(2) of this title, but not more than 60 days in any one year of service before the year of service that includes September 23, 1996, and not more than 75 days in any subsequent year of service.
 
 &emsp;(4) 50 days for each year before July 1, 1949, and proportionately for each fraction of a year, of service (other than active service) in a reserve component of an armed force, in the Army or the Air Force without component, or in any other category covered by section 12732(a)(1) of this title, except a regular component.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Sept. 2, 1958, Pub. L. 85–861, §33(a)(10), 72 Stat. 1565; renumbered §12733 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3002; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §§531(a), 543(b)(2), 110 Stat. 2517, 2522; Nov. 18, 1997, Pub. L. 105–85, div. A, title X, §1073(a)(67), (c)(4), 111 Stat. 1904.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 103, §1333; Pub. L. 85–861, §33(a)(10), Sept. 2, 1958, 72 Stat. 1565; renumbered §12733 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3002; Pub. L. 104–201, div. A, title V, §§531(a), 543(b)(2), Sept. 23, 1996, 110 Stat. 2517, 2522; Pub. L. 105–85, div. A, title X, §1073(a)(67), (c)(4), Nov. 18, 1997, 111 Stat. 1904.)
 
 Historical and Revision Notes<br>1956
 

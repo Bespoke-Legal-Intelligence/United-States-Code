@@ -14,7 +14,7 @@ When used in this chapter the term—
 
 “In service” means any time from the beginning of preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight.
 
-(Added July 14, 1956, ch. 595, §1, 70 Stat. 538; amended Oct. 12, 1984, Pub. L. 98–473, title II, §§1010, 2013(a), 98 Stat. 2141, 2187; Nov. 18, 1988, Pub. L. 100–690, title VII, §7015, 102 Stat. 4395; Pub. L. 103–272, §5(e)(1), July 5, 1994, 108 Stat. 1373.)
+(Added July 14, 1956, ch. 595, §1, 70 Stat. 538; amended Pub. L. 98–473, title II, §§1010, 2013(a), Oct. 12, 1984, 98 Stat. 2141, 2187; Pub. L. 100–690, title VII, §7015, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–272, §5(e)(1), July 5, 1994, 108 Stat. 1373.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Section 2015 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98
 
 #### Short Title of 1984 Amendment
 
-Section 2011 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section\] may be cited as the ‘Aircraft Sabotage Act’.”
+Section 2011 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473 provided that: “This part\[amending this section, section 32 of this title, and sections 1301, 1471, and 1472 of former Title 49, Transportation, and enacting provisions set out as notes under this section\] may be cited as the ‘Aircraft Sabotage Act’.”
 
 #### Statement of Findings and Purpose for 1984 Amendment
 

@@ -1,0 +1,36 @@
+### §151901. Organization
+
+(a)
+
+Federal Charter.—National Fund for Medical Education (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b)
+
+Place of Incorporation and Domicile.—The corporation is declared to be incorporated and domiciled in the District of Columbia.
+
+(c)
+
+Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1407.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+151901D36:601.DAug. 28, 1954, ch. 1036, §§1, 2, 4(1), 68 Stat. 891, 892.
+
+&nbsp;
+
+36:602.
+
+36:604(1).
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
+

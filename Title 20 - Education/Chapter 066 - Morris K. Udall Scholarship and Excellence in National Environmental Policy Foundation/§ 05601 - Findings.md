@@ -12,6 +12,10 @@ The Congress finds that—
 
 (Pub. L. 102–259, §3, Mar. 19, 1992, 106 Stat. 78.)
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–156, §1, Feb. 11, 1998, 112 Stat. 8, provided that: “This Act \[enacting sections 5607a and 5607b of this title and amending sections 5602 to 5607, 5608, and 5609 of this title\] may be cited as the ‘Environmental Policy and Conflict Resolution Act of 1998’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 102–259 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Morris K. Udall Scholarship and Excellence in National Environmental and Native American Public Policy Act of 1992’.”

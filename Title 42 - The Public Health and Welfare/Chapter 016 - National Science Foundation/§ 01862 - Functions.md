@@ -36,15 +36,17 @@ In exercising the authority and discharging the functions referred to in the for
 
 #### (f) Annual report to the President and Congress
 
-The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it may deem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
+The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it maydeem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
 
 #### (g) Support of access to computer networks
 
 In carrying out subsection (a)(4) of this section, the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
 
-(May 10, 1950, ch. 171, §3, 64 Stat. 149; July 11, 1958, Pub. L. 85–510, §1, 72 Stat. 353; Sept. 8, 1959, Pub. L. 86–232, §1, 73 Stat. 467; July 18, 1968, Pub. L. 90–407, §1, 82 Stat. 360; Aug. 10, 1972, Pub. L. 92–372, §8, 86 Stat. 528; Oct. 13, 1972, Pub. L. 92–484, §10(b), 86 Stat. 802; Apr. 21, 1976, Pub. L. 94–273, §11(3), 90 Stat. 378; Aug. 15, 1977, Pub. L. 95–99, §12(a), formerly §14(a), 91 Stat. 835, renumbered §12(a), Nov. 22, 1985, Pub. L. 99–159, title I, §109(h), 99 Stat. 890; Nov. 22, 1985, Pub. L. 99–159, title I, §§109(e)(2), 110(a)(1)–(11), 99 Stat. 890, 891; Aug. 21, 1986, Pub. L. 99–383, §7(a), 100 Stat. 814; Oct. 23, 1992, Pub. L. 102–476, §4, 106 Stat. 2300; Nov. 4, 1992, Pub. L. 102–588, title II, §217, 106 Stat. 5117.)
+(May 10, 1950, ch. 171, §3, 64 Stat. 149; Pub. L. 85–510, §1, July 11, 1958, 72 Stat. 353; Pub. L. 86–232, §1, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §1, July 18, 1968, 82 Stat. 360; Pub. L. 92–372, §8, Aug. 10, 1972, 86 Stat. 528; Pub. L. 92–484, §10(b), Oct. 13, 1972, 86 Stat. 802; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–99, §12(a), formerly §14(a), Aug. 15, 1977, 91 Stat. 835, renumbered §12(a), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, 99 Stat. 890, 891; Pub. L. 99–383, §7(a), Aug. 21, 1986, 100 Stat. 814; Pub. L. 102–476, §4, Oct. 23, 1992, 106 Stat. 2300; Pub. L. 102–588, title II, §217, Nov. 4, 1992, 106 Stat. 5117; Pub. L. 105–207, title II, §202(e), July 29, 1998, 112 Stat. 875.)
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–207 struck out the subsec. (g) enacted by Pub. L. 102–588. See 1992 Amendment note below.
 
 1992—Subsec. (g). Pub. L. 102–476 and Pub. L. 102–588 amended section identically, adding subsec. (g).
 
@@ -102,7 +104,7 @@ Subsec. (b). Pub. L. 90–407 redesignated former subsec. (a)(3) as (b) and subs
 
 Subsec. (c). Pub. L. 90–407 added subsec. (c). Former subsec. (c) redesignated (f).
 
-Subsec. (d). Pub. L. 90–407 redesignated former subsec. (a)(1) as (d) and substituted provisions authorizing the Board and the Director to recommend and encourage national policies promoting basic research and education in the sciences for provisions authorizing and directing the Foundation to develop and encourage such policies.
+Subsec. (d). Pub. L. 90–407 redesignated former subsec. (a)(1) as (d) and substituted provisions authorizing theBoard and the Director to recommend and encourage national policies promoting basic research and education in the sciences for provisions authorizing and directing the Foundation to develop and encourage such policies.
 
 Subsec. (e). Pub. L. 90–407 redesignated former subsec. (b) as (e), substituted “the foregoing subsections” for “subsection (a) of this section”, “strengthen research” for “strengthen basic research”, and struck out reference to the territories and possessions of the United States.
 
@@ -115,6 +117,38 @@ Subsec. (f). Pub. L. 90–407 redesignated former subsec. (c) as (f) and struck 
 #### Transfer of National Science Foundation Programs
 
 For transfer of all programs relating to science education of the National Science Foundation or the Director thereof under this chapter, with certain exceptions, to the Secretary of Education, see section 3444 of Title 20, Education.
+
+#### Improving United States Understanding of Science, Engineering, and Technology in East Asia
+
+Pub. L. 105–244, title VIII, §831, Oct. 7, 1998, 112 Stat. 1820, provided that:
+
+“(a)
+
+Establishment.—The Director of the National Science Foundation is authorized, beginning in fiscal year 2000, to carry out an interdisciplinary program of education and research on East Asian science, engineering, and technology. The Director shall carry out the interdisciplinary program in consultation with the Secretary of Education.
+
+“(b)
+
+Purposes.—The purposes of the program established under this section shall be to—
+
+&emsp;“(1) increase understanding of East Asian research, and innovation for the creative application of science and technology to the problems of society;
+
+&emsp;“(2) provide scientists, engineers, technology managers, and students with training in East Asian languages, and with an understanding of research, technology, and management of innovation, in East Asian countries;
+
+&emsp;“(3) provide program participants with opportunities to be directly involved in scientific and engineering research, and activities related to the management of scientific and technological innovation, in East Asia; and
+
+&emsp;“(4) create mechanisms for cooperation and partnerships among United States industry, universities, colleges, not-for-profit institutions, Federal laboratories (within the meaning of section 4(6) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(6))), and government, to disseminate the results of the program assisted under this section for the benefit of United States research and innovation.
+
+“(c)
+
+Participation by Federal Scientists, Engineers, and Managers.—Scientists, engineers, and managers of science and engineering programs in Federal agencies and the Federal laboratories shall be eligible to participate in the program assisted under this section on a reimbursable basis.
+
+“(d)
+
+Requirement for Merit Review.—Awards made under the program established under this section shall only be made using a competitive, merit-based review process.
+
+“(e)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2000.”
 
 #### Status of Scientific Instrumentation; Current and Projected Needs for Scientific and Technological Instrumentation; Development of Indices, Correlates, or Other Suitable Measures or Indicators
 
@@ -256,5 +290,5 @@ Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1862b, 1873 of this title; title 20 section 1135b.
+This section is referred to in sections 1862b, 1873 of this title; title 8 section 1356; title 20 section 1067a.
 

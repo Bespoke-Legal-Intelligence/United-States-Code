@@ -10,13 +10,13 @@ The producer of honey shall be personally liable for the repayment of a loan or 
 
 #### (c) Extent of personal liability
 
-The loan contracts of the Commodity Credit Corporation entered into with producers ofhoney shall clearly indicate the extent to which a producer of honey may be personally liable for repayment of a loan under this section.
+The loan contracts of the Commodity Credit Corporation entered into with producers of honey shall clearly indicate the extent to which a producer of honey may be personally liable for repayment of a loan under this section.
 
 #### (d) Promulgation of regulations
 
 The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a) of this section.
 
-(Oct. 31, 1949, ch. 792, title IV, §405A, as added Oct. 1, 1988, Pub. L. 100–460, title VI, §634(b), 102 Stat. 2263; amended Nov. 28, 1990, Pub. L. 101–624, title X, §1002, title XI, §1161(d), 104 Stat. 3490, 3521.)
+(Oct. 31, 1949, ch. 792, title IV, §405A, as added Pub. L. 100–460, title VI, §634(b), Oct. 1, 1988, 102 Stat. 2263; amended Pub. L. 101–624, title X, §1002, title XI, §1161(d), Nov. 28, 1990, 104 Stat. 3490, 3521.)
 
 #### References in Text
 

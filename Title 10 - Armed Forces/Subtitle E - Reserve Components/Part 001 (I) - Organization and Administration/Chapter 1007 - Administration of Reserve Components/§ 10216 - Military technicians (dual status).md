@@ -56,7 +56,7 @@ Unit Membership Requirement.—(1) Unless specifically exempted by law, each ind
 
 Dual Status Requirement.—(1) Funds appropriated for the Department of Defense may not (except as provided in paragraph (2)) be used for compensation as a military technician of any individual hired as a military technician after February 10, 1996, who is no longer a member of the Selected Reserve.
 
-(2) The Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is nolonger a member of the Selected Reserve for a period not to exceed six months following the individual's loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
+(2) The Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period not to exceed six months following the individual's loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
 
 (Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736.)
 

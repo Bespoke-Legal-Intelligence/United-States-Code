@@ -82,7 +82,7 @@ Pub. L. 101–508, §13112(a)(10), in closing provisions, substituted “except 
 
 > except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection” for “would otherwise result in a deficit for such fiscal year that exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title (except to the extent that paragraph (1) of section 632(i) of this title or section 635(b) of this title, as the case may be, does not apply by reason of paragraph (2) of such subsection)”.
 
-1985—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, striking out references to sections 641 and 651 of this title, and inserting provisions relating to nonconsideration in Senate of any bill, resolution, etc., resulting in a fiscal year deficit exceeding maximum deficit amount specified in section 622(7) of this title, with certain exceptions.
+1985—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, striking out references to sections 641 and 651 of this title, and inserting provisions relating to nonconsideration in Senate of any bill, resolution, etc., resulting in a fiscal year deficit exceeding maximumdeficit amount specified in section 622(7) of this title, with certain exceptions.
 
 Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, substituting provisions setting forth exceptions in the House of Representatives for certain bills, etc., under subsec. (a) of this section, for provisions relating to determination of outlays and revenues.
 

@@ -18,7 +18,7 @@
 
 (e) The Secretary of the Navy may terminate any appointment made under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 328; Dec. 12, 1980, Pub. L. 96–513, title III, §326, 94 Stat. 2894; Dec. 5, 1991, Pub. L. 102–190, div. A, title XI, §1113(c), (d)(2)(A), 105 Stat. 1502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 328; Pub. L. 96–513, title III, §326, Dec. 12, 1980, 94 Stat. 2894; Pub. L. 102–190, div. A, title XI, §1113(c), (d)(2)(A), Dec. 5, 1991, 105 Stat. 1502.)
 
 Historical and Revision Notes
 

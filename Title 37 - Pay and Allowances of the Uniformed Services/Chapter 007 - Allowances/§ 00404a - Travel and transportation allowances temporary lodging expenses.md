@@ -42,7 +42,7 @@ Section 122(c) of Pub. L. 97–60 provided that: “The amendments made by this 
 
 #### Prohibition on Payment of Temporary Lodging Expenses; Exception
 
-Pub. L. 99–500, §101(c) \[title IX, §9097\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–117, and Pub. L. 99–591, §101(c) \[title IX, §9097\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–117, provided that: “None of the funds appropriated by this Act shall be available to pay temporary lodging expenses pursuant to section 404a(a) of title 37, United States Code: <i>Provided</i>, That during fiscal year 1987, this provision shall not apply to those military personnel with dependents in grades E–4 and below.”
+Pub. L. 99–500, §101(c) \[title IX, §9097\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–117, and Pub. L. 99–591, §101(c) \[title IX, §9097\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–117, provided that: “None of the funds appropriated by thisAct shall be available to pay temporary lodging expenses pursuant to section 404a(a) of title 37, United States Code: <i>Provided</i>, That during fiscal year 1987, this provision shall not apply to those military personnel with dependents in grades E–4 and below.”
 
 #### Section Referred to in Other Sections
 

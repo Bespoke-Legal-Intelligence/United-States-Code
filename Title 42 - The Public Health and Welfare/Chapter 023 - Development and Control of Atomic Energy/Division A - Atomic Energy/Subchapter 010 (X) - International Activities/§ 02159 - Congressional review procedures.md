@@ -6,11 +6,11 @@ Not later than forty-five days of continuous session of Congress after the date 
 
 #### (b) Consideration of resolution by respective Houses of Congress
 
-When the relevant committee or committees have reported such a resolution (or have beendischarged from further consideration of such a resolution pursuant to subsection (a) of this section) or when a resolution has been introduced and placed on the appropriate calendar pursuant to subsection (a) of this section, as the case may be, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
+When the relevant committee or committees have reported such a resolution (or have been discharged from further consideration of such a resolution pursuant to subsection (a) of this section) or when a resolution has been introduced and placed on the appropriate calendar pursuant to subsection (a) of this section, as the case may be, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 
 #### (c) Debate
 
-Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than ten hours, which shall be divided equally between individuals favoring and individuals opposing the resolution. A motion further to limit debate is in order and not debatable. An amendment to a motion to postpone, or a motion to recommit the resolution, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to shall not be in order. No amendment to any concurrent resolution pursuant to the procedures of this section is in order except as provided in subsection (d) of this section.
+Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than ten hours, which shall be divided equally between individuals favoring and individuals opposing the resolution. A motion further to limit debate is inorder and not debatable. An amendment to a motion to postpone, or a motion to recommit the resolution, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to shall not be in order. No amendment to any concurrent resolution pursuant to the procedures of this section is in order except as provided in subsection (d) of this section.
 
 #### (d) Vote on final approval
 
@@ -64,7 +64,7 @@ This section is enacted by Congress—
 
 &emsp;(B) the vote on final passage shall be on the joint resolution of the other House.
 
-(Aug. 1, 1946, ch. 724, title I, §130, as added Mar. 10, 1978, Pub. L. 95–242, title III, §308, 92 Stat. 139; amended July 12, 1985, Pub. L. 99–64, title III, §301(c), 99 Stat. 160; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; Nov. 2, 1994, Pub. L. 103–437, §15(f)(5), 108 Stat. 4592.)
+(Aug. 1, 1946, ch. 724, title I, §130, as added Pub. L. 95–242, title III, §308, Mar. 10, 1978, 92 Stat. 139; amended Pub. L. 99–64, title III, §301(c), July 12, 1985, 99 Stat. 160; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(5), Nov. 2, 1994, 108 Stat. 4592.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Subsec. (i). Pub. L. 99–64, §301(c)(2)(B), added subsec. (i).
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives and Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

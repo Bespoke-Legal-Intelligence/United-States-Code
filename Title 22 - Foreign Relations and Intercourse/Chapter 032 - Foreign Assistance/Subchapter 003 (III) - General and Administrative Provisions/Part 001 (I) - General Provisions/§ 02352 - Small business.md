@@ -6,7 +6,7 @@ Insofar as practicable and to the maximum extent consistent with the accomplishm
 
 &emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, as far in advance as possible, with respect to purchases proposed to be financed with such funds;
 
-&emsp;(2) by causing to be made available to prospective purchasers in the countries and areasreceiving assistance under this chapter information as to such commodities, articles, and services produced by small independent enterprises in the United States; and
+&emsp;(2) by causing to be made available to prospective purchasers in the countries and areas receiving assistance under this chapter information as to such commodities, articles, and services produced by small independent enterprises in the United States; and
 
 &emsp;(3) by providing for additional services to give small business better opportunities to participate in the furnishing of such commodities, articles, and services financed with such funds.
 
@@ -30,9 +30,7 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under subsec. (a), to extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense by section 1–301(b) of Ex. Ord. No. 12163.
+Functions of President under subsec. (a), to extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense by section 1–301(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 #### Office in Agency for International Development
 
@@ -40,7 +38,5 @@ For location of the Office of Small Business, provided for in subsec. (b), in th
 
 #### Procurements From Small Businesses
 
-Pub. L. 94–329, title VI, §602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development \[now Director of the United States International Development Cooperation Agency\] shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administration shall lend all available assistance to the Agency for the purposes of carrying out this section.”
-
-\[Functions vested in the agency primarily responsible for administering subchapter I of this chapter or in its Administrator by section 602 of Pub. L. 94–329 were transferred to the Director of the United States International Development Cooperation Agency by Reorg. Plan No. 2 of 1979, §6(b)(2), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, §1–101, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title.\]
+Pub. L. 94–329, title VI, §602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administration shall lend all available assistance to the Agency for the purposes of carrying out this section.”
 

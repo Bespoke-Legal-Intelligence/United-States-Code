@@ -2,7 +2,7 @@
 
 #### (a) Air pollutant list; publication and revision by Administrator; issuance of air quality criteria for air pollutants
 
-(1) For the purpose of establishing national primary and secondary ambient air qualitystandards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
+(1) For the purpose of establishing national primary and secondary ambient air quality standards, the Administrator shall within 30 days after December 31, 1970, publish, and shall from time to time thereafter revise, a list which includes each air pollutant—
 
 &emsp;(A) emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare;
 
@@ -98,16 +98,6 @@ The Administrator shall, after consultation with the Secretary of Transportation
 
 &emsp;(C) the environmental, energy, and economic impact of such processes, procedures, and methods.
 
-(3) The Secretary of Transportation and the Administrator shall submit to Congress by January 1, 1993, and every 3 years thereafter a report that—
-
-&emsp;(A) reviews and analyzes existing State and local air quality-related transportation programs, including specifically any analyses of whether adequate funding is available to complete transportation projects identified in State implementation plans in the time required by applicable State implementation plans and any Federal efforts to promote those programs;
-
-&emsp;(B) evaluates the extent to which the Department of Transportation's existing air quality-related transportation programs and such Department's proposed budget will achieve the goals of and compliance with this chapter; and
-
-&emsp;(C) recommends what, if any, changes to such existing programs and proposed budget as well as any statutory authority relating to air quality-related transportation programs that would improve the achievement of the goals of and compliance with this chapter.
-
-(4) In each report to Congress after the first report required under paragraph (3), the Secretary of Transportation shall include a description of the actions taken to implement the changes recommended in the preceding report.
-
 #### (g) Assessment of risks to ecosystems
 
 The Administrator may assess the risks to ecosystems from exposure to criteria air pollutants (as identified by the Administrator in the Administrator's sole discretion).
@@ -116,7 +106,7 @@ The Administrator may assess the risks to ecosystems from exposure to criteria a
 
 The Administrator shall make information regarding emission control technology available to the States and to the general public through a central database. Such information shall include all control technology information received pursuant to State plan provisions requiring permits for sources, including operating permits for existing sources.
 
-(July 14, 1955, ch. 360, title I, §108, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1678; amended Aug. 7, 1977, Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), 91 Stat. 689, 790; Nov. 15, 1990, Pub. L. 101–549, title I, §§108(a)–(c), (<i>o</i>), 111, 104 Stat. 2465, 2466, 2469, 2470.)
+(July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L.101–549, title I, §§108(a)–(c), (<i>o</i>), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
 
 #### Codification
 
@@ -129,6 +119,8 @@ Section was formerly classified to section 1857c–3 of this title.
 A prior section 108 of act July 14, 1955, was renumbered section 115 by Pub. L. 91–604 and is classified to section 7415 of this title.
 
 #### Amendments
+
+1998—Subsec. (f)(3), (4). Pub. L. 105–362 struck out par. (3), which required reports by the Secretary of Transportation and the Administrator to be submitted to Congress by Jan. 1, 1993, and every 3 years thereafter, reviewing and analyzing existing State and local air quality related transportation programs, evaluating achievement of goals, and recommending changes to existing programs, and par. (4), which required that in each report after the first report the Secretary of Transportation include a description of the actions taken to implement the changes recommended in the preceding report.
 
 1990—Subsec. (e). Pub. L. 101–549, §108(a), inserted first sentence and struck out former first sentence which read as follows: “The Administrator shall, after consultation with the Secretary of Transportation and the Secretary of Housing and Urban Development and State and local officials and within 180 days after August 7, 1977, and from time to time thereafter, publish guidelines on the basic program elements for the planning process assisted under section 7505 of this title.”
 

@@ -28,11 +28,11 @@ Whenever and to the extent that the Administrator has been or hereafter may be a
 
 &emsp;(12) to acquire, by purchase, condemnation, or otherwise, real estate and interests therein;
 
-&emsp;(13) to enter into leases of Federal buildings sites and additions to sites, including improvements thereon, until they are needed for construction purposes, at their fair rental value and upon such other terms and conditions as the Administrator deems in the public interest pursuant to the provisions of section 484(e) of this title. Such leases may be negotiated without public advertising for bids if the lessee is the former owner from whom the property was acquired by the United States or his tenant in possession, and the lease is negotiated incident to or in connection with the acquisition of the property. Rentals received under leases executed pursuant to this paragraph may be deposited into the Buildings Management Fund established by subsection (f) of this section;
+&emsp;(13) to enter into leases of Federal building sites and additions to sites, including improvements thereon, until they are needed for construction purposes, at their fair rental value and upon such other terms and conditions as the Administrator deems in the public interest pursuant to the provisions of section 484(e) of this title. Such leases may be negotiated without public advertising for bids if the lessee is the former owner from whom the property was acquired by the United States or his tenant in possession, and the lease is negotiated incident to or in connection with the acquisition of the property. Rentals received under leases executed pursuant to this paragraph may be deposited into the Buildings Management Fund established by subsection (f) of this section;
 
 &emsp;(14) to enter into contracts for periods not exceeding five years for the inspection, maintenance, and repair of fixed equipment in such buildings which are federally owned;
 
-&emsp;(15) to render direct assistance to and perform special services for the Inaugural Committee (as defined in section 721 of title 36) during an inaugural period in connection with Presidential inaugural operations and functions, including employment of personal services without regard to the civil service and classification laws; provide Government-owned and leased space for personnel and parking; pay overtime to guard and custodial forces; erect and remove stands and platforms; provide and operate first-aid stations; provide furniture and equipment; and provide other incidental services in the discretion of the Administrator;
+&emsp;(15) to render direct assistance to and perform special services for the Inaugural Committee (as defined in section 501 of title 36) during an inaugural period in connection with Presidential inaugural operations and functions, including employment of personal services without regard to the civil service and classification laws; provide Government-owned and leased space for personnel and parking; pay overtime to guard and custodial forces; erect and remove stands and platforms; provide and operate first-aid stations; provide furniture and equipment; and provide other incidental services in the discretion of the Administrator;
 
 &emsp;(16) to enter into leases of space on major pedestrian access levels and courtyards and rooftops of any public building with persons, firms, or organizations engaged in commercial, cultural, educational, or recreational activities (as defined in section 612a of this title). The Administrator shall establish a rental rate for such leased space equivalent to the prevailing commercial rate for comparable space devoted to a similar purpose in the vicinity of the public building. Such leases may be negotiated without competitive bids, but shall contain such terms and conditions and be negotiated pursuant to such procedures as the Administrator deems necessary to promote competition and to protect the public interest;
 
@@ -176,6 +176,8 @@ Prior to its amendment by the Public Buildings Amendments of 1972, referred to i
 
 In subsecs. (a)(6), (b), and (c), “chapter 91 of title 31” substituted for “the Government Corporation Control Act \[31 U.S.C. 841 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
+“Section 501 of title 36” substituted in subsec. (a)(15) for “the Act of August 6, 1956, 70 Stat. 1049”, on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+
 Section was formerly classified to section 239a of Title 41, Public Contracts.
 
 #### Amendments
@@ -224,11 +226,31 @@ Amendment by Pub. L. 92–313 effective June 16, 1972, and effective date of app
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
 #### Delegation of Functions
 
 Authority of Administrator of General Services under subsec. (i) of this section to prescribe regulations relating to the installation, repair, and replacement of sidewalks delegated to Administrator of General Services, see section 1(20) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Flexiplace Work Telecommuting Programs
+
+Pub. L. 105–277, div. A, §101(h) \[title VI, §630\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–522, provided that:
+
+“(a)
+
+Flexiplace Work Telecommuting Programs.—For fiscal year 1999 and each fiscal year thereafter, of the funds made available to each Executive agency for salaries and expenses, at a minimum $50,000 shall be available only for the necessary expenses of the Executive agency to carry out a flexiplace work telecommuting program.
+
+“(b)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1)
+
+Executive agency.—The term ‘Executive agency’ means the following list of departments and agencies: Department of State, Treasury, Defense, Justice, Interior, Labor, Health and Human Services, Agriculture, Commerce, Housing and Urban Development, Transportation, Energy, Education, Veterans’ Affairs, General Services Administration, Office of Personnel Management, Small Business Administration, Social Security Administration, Environmental Protection Agency, U.S. Postal Service.
+
+&emsp;“(2)
+
+Flexiplace work telecommuting program.—The term ‘flexiplace work telecommuting program’ means a program under which employees of an Executive agency are permitted to perform all or a portion of their duties at a flexiplace work telecommuting center established under section 210(<i>l</i>) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(<i>l</i>)) or other Federal law.”
 
 #### Prohibition on Use of Appropriated Funds for Purchase of Electricity in Manner Inconsistent With State Law
 
@@ -270,7 +292,7 @@ All functions with respect to acquiring space in buildings by lease, and all fun
 
 Transfer of Office Building Management Functions
 
-All functions with respect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, are hereby transferred from the respective agencies in which now vested to the Administrator of General Services, exclusive, however, of all such functions with respect to—
+All functions with respect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-officepurposes, are hereby transferred from the respective agencies in which now vested to the Administrator of General Services, exclusive, however, of all such functions with respect to—
 
 (a) any building located in any foreign country;
 
@@ -286,7 +308,7 @@ All functions with respect to the operation, maintenance, and custody of office 
 
 Performance of Transferred Functions
 
-(a) The Administrator of General Services may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any agency or employee, of the GeneralServices Administration of any function transferred to such Administrator by the provisions of this reorganization plan.
+(a) The Administrator of General Services may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any agency or employee, of the General Services Administration of any function transferred to such Administrator by the provisions of this reorganization plan.
 
 (b) When authorized by the Administrator of General Services, any function transferred to him by the provisions of this reorganization plan may be performed by the head of any agency of the executive branch of the Government or, subject to the direction and control of any such agency head, by such officers, employees, and organizational units under the jurisdiction of such agency head as such agency head may designate: <i>Provided</i>, That functions with respect to post-office buildings shall not be delegated under the authority of this subsection to the head of any agency other than the Postmaster General.
 
@@ -322,11 +344,11 @@ The assignment of space in Government-owned buildings outside of Washington is a
 
 This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of a number of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
 
-Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs of the Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amply safeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
+Also, the plan excludes the Post Office Department from the transfer of leasing authority since the Department has a highly developed organization for this purpose, and it limits the transfer of space assignment authority in post-office buildings to the space not occupied by the Department. Further, it gives the needs of the Post Office Department priority in the assignment of space in post-office buildings. Thus, the plan amplysafeguards the interests of the Post Office Department while making it possible to include the general office space in post-office buildings in any given city with other similar space under Federal control in planning and executing an efficient program for housing Government agencies in that area.
 
 In addition, the plan transfers to the General Services Administration the operation, maintenance, and custody of office buildings owned or leased by the Government, including those post-office buildings which are not used predominantly for post-office purposes. This will make it possible to establish a single organization for the operation and maintenance of Government office buildings in principal cities in the field as has proved desirable in the National Capital. Since many post offices are in fact primarily large office buildings, the plan includes in this transfer the post-office buildings which are not used predominantly for post-office purposes. This will relieve the Post Office Department of a considerable expenditure for building operation and maintenance which properly should not be charged against postal revenues.
 
-While the plan effects a broad transfer of functions with respect to leasing and assignment of space and the operation and maintenance of office buildings, it specifically authorizes the Administrator of General Services to delegate the performance of any part of these functions to other agencies subject to such regulations as he deems desirable for economical and effective administration. In this the plan follows the pattern adopted by the Federal Property and Administrative Services Act of 1949 for other branches of property management. In large urban centers where numerous Federal units are located unified administration ofspace activities by the General Services Administration will normally be advantageous. On the other hand, in the smaller communities it will no doubt be desirable to delegate the work back to the agencies directly affected, to be carried on under standards laid down by the Administrator of General Services. The plan provides ample flexibility for working out the most effective administrative arrangement for each type of situation.
+While the plan effects a broad transfer of functions with respect to leasing and assignment of space and the operation and maintenance of office buildings, it specifically authorizes the Administrator of General Services to delegate the performance of any part of these functions to other agencies subject to such regulations as he deems desirable for economical and effective administration. In this the plan follows the pattern adopted by the Federal Property and Administrative Services Act of 1949 for other branches of property management. In large urban centers where numerous Federal units are located unified administration of space activities by the General Services Administration will normally be advantageous. On the other hand, in the smaller communities it will no doubt be desirable to delegate the work back to the agencies directly affected, to be carried on under standards laid down by the Administrator of General Services. The plan provides ample flexibility for working out the most effective administrative arrangement for each type of situation.
 
 The fundamental soundness and economy of centralized administration of building space have been amply demonstrated in the National Capital. By virtue of unified control it has been possible since the war to accomplish far-reaching changes which have consolidated agencies in much fewer locations, released many of the rented buildings, and greatly reduced the cost of housing the Government establishment. Similar procedures applied in the larger centers of field activity should produce substantial savings.
 
@@ -394,7 +416,7 @@ Administrator of General Services
 
 1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition and utilization of Federally owned and leased space. In particular, the Administrator shall:
 
-(a) Select, acquire, and manage Federal space in a manner which will foster the policies and programs of the Federal government and improve the management and administration of government activities.
+(a) Select, acquire, and manage Federal space in a manner which will foster the policies and programs ofthe Federal government and improve the management and administration of government activities.
 
 (b) Issue regulations, standards, and criteria for the selection, acquisition, and management of Federally owned and leased space.
 

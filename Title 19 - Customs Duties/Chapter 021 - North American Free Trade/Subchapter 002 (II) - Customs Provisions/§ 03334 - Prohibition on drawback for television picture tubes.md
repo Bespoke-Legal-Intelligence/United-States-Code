@@ -12,5 +12,5 @@ Notwithstanding any other provision of law, no customs duties may be refunded, w
 
 #### Effective Date
 
-Section effective on the date the North American Free Trade Agreement enters into force with respect tothe United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as a note under section 3331 of this title.
+Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as a note under section 3331 of this title.
 

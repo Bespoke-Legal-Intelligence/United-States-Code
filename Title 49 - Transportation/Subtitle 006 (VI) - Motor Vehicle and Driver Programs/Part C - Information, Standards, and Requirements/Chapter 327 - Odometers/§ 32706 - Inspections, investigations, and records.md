@@ -20,7 +20,7 @@ Entry, Inspection, and Impoundment.—(1) In carrying out subsection (a) of this
 
 (c)
 
-Reasonable Compensation.—When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denialof use, or reduction in value, of the vehicle or equipment.
+Reasonable Compensation.—When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle or equipment.
 
 (d)
 

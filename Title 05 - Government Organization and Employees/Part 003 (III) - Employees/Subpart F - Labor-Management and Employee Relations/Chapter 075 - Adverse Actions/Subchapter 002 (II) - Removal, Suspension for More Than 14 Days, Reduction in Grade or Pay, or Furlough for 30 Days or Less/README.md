@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 4303, 7541, 7701 of this title; title 10 section 1599c; title 22 section 3701; title 39 section 1005.
+This subchapter is referred to in sections 2302, 4303, 7541, 7701, 9503 of this title; title 22 section 3701; title 39 section 1005.
 
 
 ---

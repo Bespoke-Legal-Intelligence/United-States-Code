@@ -22,7 +22,7 @@
 
 &emsp;(A) operate as a business;
 
-&emsp;(B) alienate land or any interest in land received from the settlor Native Corporation (except if the recipient of the land is the settlor corporation); or
+&emsp;(B) alienate land or any interest in land received from the settlor Native Corporation (except if the recipient of the land is the settlor corporation or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres); or
 
 &emsp;(C) discriminate in favor of a group of individuals composed only or principally of employees, officers, or directors of the settlor Native Corporation.
 
@@ -74,7 +74,11 @@
 
 (7) Except where otherwise expressly provided, no provision of this section shall be construed to require shareholder approval of an action where shareholder approval would not be required under the laws of the State.
 
-(Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804.)
+(Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804; amended Pub. L. 105–333, §13, Oct. 31, 1998, 112 Stat. 3135.)
+
+#### Amendments
+
+1998—Subsec. (b)(1)(B). Pub. L. 105–333 inserted “or the land is conveyed for a homesite by the Trust to a beneficiary of the Trust who is also a legal resident under Alaska law of the Native village of the settlor corporation and the conveyance does not exceed 1.5 acres” after “settlor corporation”.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a) The Supreme Court may appoint a librarian, whose salary it shall fix, and who shall be subject to removal by the Court.
 
-(b) The librarian shall, with the approval of the Chief Justice, appoint necessary assistantsand fix their compensation and make rules governing the use of the library.
+(b) The librarian shall, with the approval of the Chief Justice, appoint necessary assistants and fix their compensation and make rules governing the use of the library.
 
 (c) He shall select and acquire by purchase, gift, bequest, or exchange, such books, pamphlets, periodicals, microfilm and other processed copy as may be required by the Court for its official use and for the reasonable needs of its bar.
 
@@ -18,5 +18,5 @@ Under this section the marshal will not be required to certify to expenditures f
 
 #### Amendments
 
-<b>1972</b>—Subsec. (d). Pub. L. 92–310 struck out sentence which required the librarian to furnish a bond.
+1972—Subsec. (d). Pub. L. 92–310 struck out sentence which required the librarian to furnish a bond.
 

@@ -4,9 +4,14 @@
 | :--- | ---: |
 | [2331\.](%C2%A7%2002331%20-%20Definitions.md) | Definitions. |
 | [2332\.](%C2%A7%2002332%20-%20Criminal%20penalties.md) | Criminal penalties. |
-| [2332a.](%C2%A7%2002332a%20-%20Use%20of%20weapons%20of%20mass%20destruction.md) | Use of weapons of mass destruction. |
+| [2332a.](%C2%A7%2002332a%20-%20Use%20of%20certain%20weapons%20of%20mass%20destruction.md) | Use of weapons of mass destruction.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2332b.](%C2%A7%2002332b%20-%20Acts%20of%20terrorism%20transcending%20national%20boundaries.md) | Acts of terrorism transcending national boundaries. |
-| [2332c.](%C2%A7%2002332c%20-%20Use%20of%20chemical%20weapons.md) | Use of chemical weapons. |
+| \[2332c. | Repealed.\] |
 | [2332d.](%C2%A7%2002332d%20-%20Financial%20transactions.md) | Financial transactions. |
 | [2332e.](%C2%A7%2002332e%20-%20Requests%20for%20military%20assistance%20to%20enforce%20prohibition%20in%20certain%20emergencies.md) | Requests for military assistance to enforce prohibition in certain emergencies. |
 | [2333\.](%C2%A7%2002333%20-%20Civil%20remedies.md) | Civil remedies. |
@@ -22,13 +27,15 @@
 
 #### Codification
 
-Pub. L. 101–519, §132, Nov. 5, 1990, 104 Stat. 2250, known as the “Antiterrorism Act of 1990”, amended this chapter by adding sections 2331 and 2333 to 2338 and by amending former section 2331 and renumbering it as section 2332. Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155, as amended by Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643, repealed section 132 of Pub. L. 101–519, effective Nov. 5, 1990, and provided that effective Nov. 5, 1990, this chapter is amended to read as if section 132 of Pub. L. 101–519 had not been enacted.
+Pub. L. 101–519, §132, Nov. 5, 1990, 104 Stat. 2250, known as the “Antiterrorism Act of 1990”, amended this chapter by adding sections 2331 and 2333 to 2338 andby amending former section 2331 and renumbering it as section 2332. Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155, as amended by Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643, repealed section 132 of Pub. L. 101–519, effective Nov. 5, 1990, and provided that effective Nov. 5, 1990, this chapter is amended to read as if section 132 of Pub. L. 101–519 had not been enacted.
 
 #### Prior Provisions
 
 Another chapter 113B, consisting of sections 2340 to 2340B, was renumbered chapter 113C.
 
 #### Amendments
+
+1998—Pub. L. 105–277, div. I, title II, §201(c)(2), Oct. 21, 1998, 112 Stat. 2681–871, struck out item 2332c “Use of chemical weapons”.
 
 1996—Pub. L. 104–294, title VI, §605(q), Oct. 11, 1996, 110 Stat. 3510, redesignated item 2332d, relating to requests for military assistance to enforce prohibition in certain emergencies, as item 2332e, and moved the item to follow item 2332d, relating to financial transactions.
 
@@ -46,6 +53,8 @@ Pub. L. 103–322, title VI, §60023(b), title XXV, §250002(a)(1), (b)(2), Sept
 
 1988—Pub. L. 100–690, title VII, §7062, Nov. 18, 1988, 102 Stat. 4404, added item 2331.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 105–277 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -53,9 +62,9 @@ Pub. L. 103–322, title VI, §60023(b), title XXV, §250002(a)(1), (b)(2), Sept
 
 - [&sect; 02331 - Definitions](%C2%A7%2002331%20-%20Definitions.md)
 - [&sect; 02332 - Criminal penalties](%C2%A7%2002332%20-%20Criminal%20penalties.md)
-- [&sect; 02332a - Use of weapons of mass destruction](%C2%A7%2002332a%20-%20Use%20of%20weapons%20of%20mass%20destruction.md)
+- [&sect; 02332a - Use of certain weapons of mass destruction](%C2%A7%2002332a%20-%20Use%20of%20certain%20weapons%20of%20mass%20destruction.md)
 - [&sect; 02332b - Acts of terrorism transcending national boundaries](%C2%A7%2002332b%20-%20Acts%20of%20terrorism%20transcending%20national%20boundaries.md)
-- [&sect; 02332c - Use of chemical weapons](%C2%A7%2002332c%20-%20Use%20of%20chemical%20weapons.md)
+- [&sect; 02332c - Repealed. Pub. L. 105&#8211;277, div. I, title II, &sect;201(c)(1), Oct. 21, 1998, 112 Stat. 2681&#8211;871](%C2%A7%2002332c%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20I%2C%20title%20II%2C%20%C2%A7201%28c%29%281%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93871.md)
 - [&sect; 02332d - Financial transactions](%C2%A7%2002332d%20-%20Financial%20transactions.md)
 - [&sect; 02332e - Requests for military assistance to enforce prohibition in certain emergencies](%C2%A7%2002332e%20-%20Requests%20for%20military%20assistance%20to%20enforce%20prohibition%20in%20certain%20emergencies.md)
 - [&sect; 02333 - Civil remedies](%C2%A7%2002333%20-%20Civil%20remedies.md)

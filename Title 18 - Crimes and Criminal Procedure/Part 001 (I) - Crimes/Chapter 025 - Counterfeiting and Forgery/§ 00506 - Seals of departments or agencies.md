@@ -18,7 +18,7 @@
 
 &emsp;(3) with fraudulent intent, possessed, sold, offered for sale, furnished, offered to furnish, given away, offered to give away, transported, offered to transport, imported, or offered to import,
 
-> with the intent or effect of facilitating an alien's application for, or receipt of, a Federalbenefit to which the alien is not entitled, the penalties which may be imposed for each offense under subsection (a) shall be two times the maximum fine, and 3 times the maximum term of imprisonment, or both, that would otherwise be imposed for an offense under subsection (a).
+> with the intent or effect of facilitating an alien's application for, or receipt of, a Federal benefit to which the alien is not entitled, the penalties which may be imposed for each offense under subsection (a) shall be two times the maximum fine, and 3 times the maximum term of imprisonment, or both, that would otherwise be imposed for an offense under subsection (a).
 
 (c) For purposes of this section—
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) each instance of forgery, counterfeiting, mutilation, or alteration shall constitute a separate offense under this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 714; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title V, §561, 110 Stat. 3009–681.)
+(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title V, §561, Sept. 30, 1996, 110 Stat. 3009–681.)
 
 #### Historical and revision Notes
 

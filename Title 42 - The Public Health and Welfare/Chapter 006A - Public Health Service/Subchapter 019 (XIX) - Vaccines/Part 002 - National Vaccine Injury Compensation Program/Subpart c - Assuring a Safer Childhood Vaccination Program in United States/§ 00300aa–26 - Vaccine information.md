@@ -34,7 +34,7 @@ On and after a date determined by the Secretary which is—
 
 > each health care provider who administers a vaccine set forth in the Vaccine Injury Table shall provide to the legal representatives of any child or to any other individual to whom such provider intends to administer such vaccine a copy of the information materials developed pursuant to subsection (a) of this section, supplemented with visual presentations or oral explanations, in appropriate cases. Such materials shall be provided prior to the administration of such vaccine.
 
-(July 1, 1944, ch. 373, title XXI, §2126, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3775; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4302(b)(1), 101 Stat. 1330–221; Dec. 19, 1989, Pub. L. 101–239, title VI, §6601(p), 103 Stat. 2292; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(15), 106 Stat. 3505; Dec. 14, 1993, Pub. L. 103–183, title VII, §708, 107 Stat. 2242.)
+(July 1, 1944, ch. 373, title XXI, §2126, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3775; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(p), Dec. 19, 1989, 103 Stat. 2292; Pub. L. 102–531, title III, §312(d)(15), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–183, title VII, §708, Dec. 14, 1993, 107 Stat. 2242.)
 
 #### Codification
 

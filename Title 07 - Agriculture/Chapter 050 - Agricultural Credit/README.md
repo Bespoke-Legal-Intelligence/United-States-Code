@@ -21,7 +21,10 @@
 | (a) | In general. |
 | (b) | Priority. |
 | (c) | Loan maximum. |
-| [1925\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001925%20-%20Limitation%20on%20amount%20of%20loan.md) | Limitation on amount of loan. |
+| [1925\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001925%20-%20Limitations%20on%20amount%20of%20farm%20ownership%20loans.md) | Limitations on amount of farm ownership loans. |
+| (a) | In general. |
+| (b) | Determination of value. |
+| (c) | Inflation percentage. |
 | [1926\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926%20-%20Water%20and%20waste%20facility%20loans%20and%20grants.md) | Water and waste facility loans and grants. |
 | (a) | Criteria; definitions; limitation on allowable uses of Federal funds; inclusion of interest or other income in gross income on sale of insured loan. |
 | (b) | Curtailment or limitation of service prohibited. |
@@ -119,7 +122,9 @@
 | (b) | Guaranteed loans. |
 | (c) | Hazard insurance requirement. |
 | (d) | Private reserve. |
-| [1943\.](Subchapter%20002%20%28II%29%20-%20Operating%20Loans/%C2%A7%2001943%20-%20Limitations%20and%20prohibitions%20on%20loans.md) | Limitations and prohibitions on loans. |
+| [1943\.](Subchapter%20002%20%28II%29%20-%20Operating%20Loans/%C2%A7%2001943%20-%20Limitations%20on%20amount%20of%20operating%20loans.md) | Limitations on amount of operating loans. |
+| (a) | In general. |
+| (b) | Inflation percentage. |
 | [1944\.](Subchapter%20002%20%28II%29%20-%20Operating%20Loans/%C2%A7%2001944%20-%20Soil%20conservation%20district%20loans%3B%20limitation%3B%20purchase%20of%20conservation%20equipment.md) | Soil conservation district loans; limitation; purchase of conservation equipment. |
 | [1945\.](Subchapter%20002%20%28II%29%20-%20Operating%20Loans/%C2%A7%2001945%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VI%2C%20%C2%A7613%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201089.md) | Repealed. |
 | [1946\.](Subchapter%20002%20%28II%29%20-%20Operating%20Loans/%C2%A7%2001946%20-%20Liability%20of%20borrower.md) | Liability of borrower. |
@@ -148,7 +153,7 @@
 | (a) | Maximum amount of loan. |
 | (b) | Interest rates. |
 | (c) | Interest subsidies. |
-| (d) | Repayment; security; repayment period extension; review. |
+| (d) | Repayment. |
 | (e) | Grant eligibility. |
 | [1965\.](Subchapter%20003%20%28III%29%20-%20Emergency%20Loans/%C2%A7%2001965%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93334%2C%20title%20I%2C%20%C2%A7120%2C%20Aug.%204%2C%201978%2C%2092%20Stat.%20427.md) | Repealed. |
 | [1966\.](Subchapter%20003%20%28III%29%20-%20Emergency%20Loans/%C2%A7%2001966%20-%20Emergency%20Credit%20Revolving%20Fund%20utilization.md) | Emergency Credit Revolving Fund utilization. |
@@ -318,7 +323,7 @@
 | [2008g.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008g%20-%20Payment%20of%20interest%20as%20condition%20of%20loan%20servicing%20for%20borrowers.md) | Payment of interest as condition of loan servicing for borrowers. |
 | [2008h.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008h%20-%20Loan%20and%20loan%20servicing%20limitations.md) | Loan and loan servicing limitations. |
 | (a) | Delinquent borrowers prohibited from obtaining direct operating loans. |
-| (b) | Loans prohibited for borrowers that have received debt forgiveness. |
+| (b) | Prohibition of loans for borrowers that have received debt forgiveness. |
 | (c) | No more than 1 debt forgiveness for borrower on direct loan. |
 | [2008i.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008i%20-%20Short%20form%20certification%20of%20farm%20program%20borrower%20compliance.md) | Short form certification of farm program borrower compliance. |
 | [2008j.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008j%20-%20National%20Sheep%20Industry%20Improvement%20Center.md) | National Sheep Industry Improvement Center. |

@@ -42,11 +42,11 @@ The running of the limitation period under subsection (b) of this section shall 
 
 &emsp;(B)(i) A subpoena for the purposes of this section which requires a lessee or its designee to produce records necessary to determine the proper reporting and payment of an obligation due the Secretary may be issued only by an Assistant Secretary of the Interior or an Acting Assistant Secretary of the Interior who is a schedule C employee (as defined by section 213.3301 of title 5, Code of Federal Regulations), or the Director or Acting Director of the respective bureau or agency, and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such subpoena, but may not delegate such authority to any other person.
 
-&emsp;(ii) A subpoena described in clause (i) may only be issued against a lessee or its designee during the limitation period provided in this section and only after the Secretary or a delegated State has in writing requested the records from the lessee or its designee related to the obligation which is the subject of the subpoena and has determined that—
+&emsp;(ii) A subpoena described in clause (i) may only be issued against a lessee or its designeeduring the limitation period provided in this section and only after the Secretary or a delegated State has in writing requested the records from the lessee or its designee related to the obligation which is the subject of the subpoena and has determined that—
 
 &emsp;&emsp;(I) the lessee or its designee has failed to respond within a reasonable period of time to the Secretary's or the applicable delegated State's written request for such records necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
 
-&emsp;&emsp;(II) the lessee or its designee has in writing denied the Secretary's or the applicable delegated State's written request to producesuch records in the lessee's or its designee's possession or control necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
+&emsp;&emsp;(II) the lessee or its designee has in writing denied the Secretary's or the applicable delegated State's written request to produce such records in the lessee's or its designee's possession or control necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
 
 &emsp;&emsp;(III) the lessee or its designee has unreasonably delayed in producing records necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or the applicable delegated State's responsibilities under this chapter after the Secretary's or delegated State's written request.
 
@@ -78,13 +78,13 @@ The running of the limitation period under subsection (b) of this section shall 
 
 &emsp;(C) An order to perform a restructured accounting shall not mean or be construed to include any other action by or on behalf of the Secretary or a delegated State.
 
-&emsp;(D) If a lessee or its designee fails to substantially comply with the requirement to perform a restructured accounting pursuant to this subsection, a notice shall be issued to the lessee or its designee that the lessee or its designee has not substantially complied with the requirements to perform a restructured accounting. A lessee or its designee shall be given a reasonable time within which to perform the restructured accounting. Such notice may be issued under this section only by an Assistant Secretary of the Interior or an acting Assistant Secretary of the Interior who is a schedule C employee (as defined by section 213.3301 of title 5, Code of Federal Regulations) and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such notice, which may not be delegated to any other person.
+&emsp;(D) If a lessee or its designee fails to substantially comply with the requirement to perform a restructured accounting pursuant to this subsection, a notice shall be issued to the lessee or its designee that the lessee or its designee has not substantially complied with the requirements to perform a restructured accounting. A lessee or its designee shall be given a reasonable time within which to perform the restructured accounting. Such notice may be issued under this section only by an Assistant Secretary of the Interior or an acting Assistant Secretary of the Interior who is a schedule C employee (as defined by section 213.3301 of title 5, Code of Federal Regulations) and may not be delegated to any other person.If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such notice, which may not be delegated to any other person.
 
 #### (e) Termination of limitations period
 
 An action or an enforcement of an obligation by the Secretary or delegated State or a lessee or its designee shall be barred under this section prior to the running of the seven-year period provided in subsection (b) of this section in the event—
 
-&emsp;(1) the Secretary or a delegated State has notified the lessee or its designee in writingthat a time period is closed to further audit; or
+&emsp;(1) the Secretary or a delegated State has notified the lessee or its designee in writing that a time period is closed to further audit; or
 
 &emsp;(2) the Secretary or a delegated State and a lessee or its designee have so agreed in writing.
 
@@ -122,7 +122,7 @@ In the event a demand subject to this section is properly and timely commenced, 
 
 #### (k) Implementation of final decision
 
-In the event a judicial proceeding or demand subject to this section is timely commenced andthereafter the limitation period in this section lapses during the pendency of such proceeding, any party to such proceeding shall not be barred from taking such action as is required or necessary to implement a final unappealable judicial or administrative decision, including any action required or necessary to implement such decision by the recovery or recoupment of an underpayment or overpayment by means of refund or credit.
+In the event a judicial proceeding or demand subject to this section is timely commenced and thereafter the limitation period in this section lapses during the pendency of such proceeding, any party to such proceeding shall not be barred from taking such action as is required or necessary to implement a final unappealable judicial or administrative decision, including any action required or necessary to implement such decision by the recovery or recoupment of an underpayment or overpayment by means of refund or credit.
 
 #### (<i>l</i>) Stay of payment obligation pending review
 

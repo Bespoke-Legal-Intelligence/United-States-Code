@@ -4,10 +4,6 @@
 
 Purchase of real estate for future military parks, see section 455c of this title.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. There is no section “3(D)”.</i>
-
 
 ---
 
@@ -53,6 +49,7 @@ Purchase of real estate for future military parks, see section 455c of this titl
 - [&sect; 00423n - Acceptance of lands and funds; acquisition of lands](%C2%A7%2000423n%20-%20Acceptance%20of%20lands%20and%20funds%3B%20acquisition%20of%20lands.md)
 - [&sect; 00423o - Administration, protection, and development](%C2%A7%2000423o%20-%20Administration%2C%20protection%2C%20and%20development.md)
 - [&sect; 00424 - Chickamauga and Chattanooga National Military Park](%C2%A7%2000424%20-%20Chickamauga%20and%20Chattanooga%20National%20Military%20Park.md)
+- [&sect; 00424&#8211;1 - Acquisition of land](%C2%A7%2000424%E2%80%931%20-%20Acquisition%20of%20land.md)
 - [&sect; 00424a - Acceptance of donations of lands](%C2%A7%2000424a%20-%20Acceptance%20of%20donations%20of%20lands.md)
 - [&sect; 00424a&#8211;1 - Acceptance of donations of lands and other property on Signal Mountain](%C2%A7%2000424a%E2%80%931%20-%20Acceptance%20of%20donations%20of%20lands%20and%20other%20property%20on%20Signal%20Mountain.md)
 - [&sect; 00424a&#8211;2 - Conveyance of portion of park to Georgia](%C2%A7%2000424a%E2%80%932%20-%20Conveyance%20of%20portion%20of%20park%20to%20Georgia.md)

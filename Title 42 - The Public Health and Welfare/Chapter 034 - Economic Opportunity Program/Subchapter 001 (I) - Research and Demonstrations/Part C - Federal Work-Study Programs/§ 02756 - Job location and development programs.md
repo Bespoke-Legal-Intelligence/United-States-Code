@@ -16,7 +16,7 @@ Agreements under subsection (a) of this section shall—
 
 &emsp;(3) provide satisfactory assurance that funds available under this section will not be used for the location or development of jobs for students to obtain upon graduation, but rather for the location and development of jobs available to students during and between periods of attendance at such institution;
 
-&emsp;(4) provide satisfactory assurance that the location or development of jobs pursuant to programs assisted under this section will not result in the displacement of employed workers or impair existing contracts for services;
+&emsp;(4) provide satisfactory assurance that the location or development of jobs pursuant toprograms assisted under this section will not result in the displacement of employed workers or impair existing contracts for services;
 
 &emsp;(5) provide satisfactory assurance that Federal funds used for the purpose of this section can realistically be expected to help generate student wages exceeding, in the aggregate, the amount of such funds, and that if such funds are used to contract with another organization, appropriate performance standards are part of such contract; and
 
@@ -28,7 +28,7 @@ Agreements under subsection (a) of this section shall—
 
 Section was originally enacted, as section 126 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 516. As such, it had been amended by Pub. L. 89–329, title IV, §441(1), Nov. 8, 1965, 79 Stat. 1249.
 
-Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, asoriginally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been struck out. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
+Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been struck out. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 
 #### Prior Provisions
 

@@ -7,8 +7,10 @@
 | (a) | Secretary of State. |
 | (b) | Under Secretaries. |
 | (c) | Assistant Secretaries. |
-| (d) | Deputy Assistant Secretaries. |
-| (e) | Other senior officials. |
+| (d) | Other senior officials. |
+| (e) | Coordinator for Counterterrorism. |
+| (f) | Qualifications of officer having primary responsibility for personnel management. |
+| (g) | Qualifications of officer having primary responsibility for diplomatic security. |
 | 2652, 2652a. Repealed. |  |
 | [2652b.](%C2%A7%2002652b%20-%20Assistant%20Secretary%20of%20State%20for%20South%20Asian%20Affairs.md) | Assistant Secretary of State for South Asian Affairs. |
 | (a) | Establishment of position. |
@@ -44,6 +46,10 @@
 | [2656h.](%C2%A7%2002656h%20-%20International%20credit%20reports.md) | International credit reports. |
 | (a) | Report on loan criteria. |
 | (b) | Reports on loans. |
+| [2656i.](%C2%A7%2002656i%20-%20Counterdrug%20and%20anticrime%20activities%20of%20Department%20of%20State.md) | Counterdrug and anticrime activities of Department of State. |
+| (a) | Counterdrug and law enforcement strategy. |
+| (b) | Information on international criminals. |
+| (c) | Overseas coordination of counterdrug and anticrime programs, policy, and assistance. |
 | [2657\.](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md) | Custody of seals and property. |
 | [2658\.](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md) | Repealed. |
 | [2659\.](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md) | State statutes to be procured. |
@@ -66,11 +72,15 @@
 | (c) | Financial liability of disbursing agent or official. |
 | [2668a.](%C2%A7%2002668a%20-%20Disposition%20of%20trust%20funds%20received%20from%20foreign%20governments%20for%20citizens%20of%20United%20States.md) | Disposition of trust funds received from foreign governments for citizens of United States. |
 | [2669\.](%C2%A7%2002669%20-%20Printing%20and%20binding%20outside%20continental%20United%20States%3B%20settlement%20and%20payment%20of%20claims%20by%20foreign%20governments%3B%20employment%20of%20aliens%E2%80%A6.md) | Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security. |
+| 2669–1. | Payment of tort claims arising in connection with overseas operations. |
 | [2669a.](%C2%A7%2002669a%20-%20Diplomatic%20Telecommunications%20Service.md) | Diplomatic Telecommunications Service. |
 | (a) | Diplomatic Telecommunications Service financial management. |
 | (b) | DTS Policy Board. |
 | (c) | DTS consolidation pilot program. |
 | (d) | DTS planning report. |
+| [2669b.](%C2%A7%2002669b%20-%20Reaffirming%20United%20States%20international%20telecommunications%20policy.md) | Reaffirming United States international telecommunications policy. |
+| (a) | Procurement policy. |
+| (b) | Implementation. |
 | [2670\.](%C2%A7%2002670%20-%20Insurance%20on%20motor%20vehicles%20in%20foreign%20countries%3B%20tie%20lines%20and%20teletype%20equipment%3B%20ice%20and%20drinking%20water%3B%20excise%20taxes%20on%20negotiable%E2%80%A6.md) | Insurance on motor vehicles in foreign countries; tie lines and teletype equipment; ice and drinking water; excise taxes on negotiable instruments; remains of deceased persons; relief, protection, and burial of seamen; acknowledgment of services of foreign vessels and aircraft; rentals and leases. |
 | [2671\.](%C2%A7%2002671%20-%20Emergency%20expenditures.md) | Emergency expenditures. |
 | (a) | Delegation of authority pertaining to certification of expenditures. |
@@ -96,7 +106,6 @@
 | (b) | Waiver by Secretary of State. |
 | (c) | Responses to contract solicitations. |
 | (d) | Review and termination. |
-| (e) | United States Information Agency. |
 | [2680\.](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20Congressional%20committees.md) | Appropriations for State Department; information to Congressional committees. |
 | 2680–1. | Deadline for responses to questions from Congressional committees. |
 | (a) | In general. |
@@ -149,7 +158,7 @@
 | (c) | Evidences of unconditional gift of intangible personal property. |
 | (d) | Use of real property or tangible personal property received unconditionally. |
 | (e) | Taxation. |
-| (f) | Availability of statutory authorities to Directors of other agencies. |
+| (f) | Availability of statutory authorities to Broadcasting Board and Administrator of AID. |
 | [2698\.](%C2%A7%2002698%20-%20Procurement%20of%20legal%20services.md) | Procurement of legal services. |
 | [2699\.](%C2%A7%2002699%20-%20Employment%20opportunities%20for%20family%20members.md) | Employment opportunities for family members. |
 | [2700\.](%C2%A7%2002700%20-%20Use%20of%20vehicles.md) | Use of vehicles. |
@@ -171,17 +180,21 @@
 | [2704\.](%C2%A7%2002704%20-%20Subsistence%20expenses.md) | Subsistence expenses. |
 | [2705\.](%C2%A7%2002705%20-%20Documentation%20of%20citizenship.md) | Documentation of citizenship. |
 | [2706\.](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md) | Reprograming of funds; notice requirements. |
+| (a) | In general. |
+| (b) | Final 15 days in which funds available. |
+| (c) | Waiver. |
 | [2707\.](%C2%A7%2002707%20-%20International%20communications%20and%20information%20policy%3B%20duties%20of%20Secretary%20of%20State.md) | International communications and information policy; duties of Secretary of State. |
-| [2708\.](%C2%A7%2002708%20-%20Reward%3B%20information%3B%20international%20terrorism.md) | Reward; information; international terrorism. |
-| (a) | Authorization of reward. |
-| (b) | Rewards for information relating to international narcoterrorism and drug trafficking. |
-| (c) | Reward limitation; Presidential approval. |
-| (d) | Advice; consultation; Attorney General. |
-| (e) | Certification; payment. |
-| (f) | Officers or employees of government ineligible for reward. |
-| (g) | Authorization of appropriations. |
-| (h) | Report to Congress. |
-| (i) | Definitions. |
+| [2708\.](%C2%A7%2002708%20-%20Department%20of%20State%20rewards%20program.md) | Department of State rewards program. |
+| (a) | Establishment. |
+| (b) | Rewards authorized. |
+| (c) | Coordination. |
+| (d) | Funding. |
+| (e) | Limitations and certification. |
+| (f) | Ineligibility. |
+| (g) | Reports. |
+| (h) | Publication regarding rewards offered by foreign governments. |
+| (i) | Determinations of Secretary. |
+| (j) | Definitions. |
 | [2709\.](%C2%A7%2002709%20-%20Special%20agents.md) | Special agents. |
 | (a) | General authority. |
 | (b) | Agreement with Attorney General and firearms regulations. |
@@ -223,8 +236,6 @@
 | (a) | Contract authority. |
 | (b) | Disclosure of delinquent debt to credit reporting agencies. |
 | [2717\.](%C2%A7%2002717%20-%20Defense%20trade%20controls%20registration%20fees.md) | Defense trade controls registration fees. |
-| (a) | Defense trade controls registration fees. |
-| (b) | Budget Act compliance. |
 | [2718\.](%C2%A7%2002718%20-%20Fees%20received%20for%20use%20of%20Blair%20House.md) | Fees received for use of Blair House. |
 | (a) | Use of fees. |
 | (b) | Compliance with Budget Act. |
@@ -246,6 +257,13 @@
 | [2724\.](%C2%A7%2002724%20-%20Fees%20for%20commercial%20services.md) | Fees for commercial services. |
 | (a) | Authority to charge fee. |
 | (b) | Use of fees. |
+| [2725\.](%C2%A7%2002725%20-%20Fees%20for%20use%20of%20National%20Foreign%20Affairs%20Training%20Center.md) | Fees for use of National Foreign Affairs Training Center. |
+| [2726\.](%C2%A7%2002726%20-%20Fee%20for%20use%20of%20diplomatic%20reception%20rooms.md) | Fee for use of diplomatic reception rooms. |
+| [2727\.](%C2%A7%2002727%20-%20Accounting%20of%20collections%20in%20budget%20presentation%20documents.md) | Accounting of collections in budget presentation documents. |
+| [2728\.](%C2%A7%2002728%20-%20Crimes%20committed%20by%20diplomats.md) | Crimes committed by diplomats. |
+| (a) | Annual report concerning diplomatic immunity. |
+| (b) | United States policy concerning reform of diplomatic immunity. |
+| (c) | Notification of diplomatic corps. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -269,6 +287,7 @@
 - [&sect; 02656f - Annual country reports on terrorism](%C2%A7%2002656f%20-%20Annual%20country%20reports%20on%20terrorism.md)
 - [&sect; 02656g - Report on terrorist assets in United States](%C2%A7%2002656g%20-%20Report%20on%20terrorist%20assets%20in%20United%20States.md)
 - [&sect; 02656h - International credit reports](%C2%A7%2002656h%20-%20International%20credit%20reports.md)
+- [&sect; 02656i - Counterdrug and anticrime activities of Department of State](%C2%A7%2002656i%20-%20Counterdrug%20and%20anticrime%20activities%20of%20Department%20of%20State.md)
 - [&sect; 02657 - Custody of seals and property](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md)
 - [&sect; 02658 - Repealed. Pub. L. 103&#8211;236, title I, &sect;162(a), Apr. 30, 1994, 108 Stat. 405](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md)
 - [&sect; 02659 - State statutes to be procured](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md)
@@ -285,7 +304,9 @@
 - [&sect; 02668 - Requisitions for advances to pay lawful obligations](%C2%A7%2002668%20-%20Requisitions%20for%20advances%20to%20pay%20lawful%20obligations.md)
 - [&sect; 02668a - Disposition of trust funds received from foreign governments for citizens of United States](%C2%A7%2002668a%20-%20Disposition%20of%20trust%20funds%20received%20from%20foreign%20governments%20for%20citizens%20of%20United%20States.md)
 - [&sect; 02669 - Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens&#8230;](%C2%A7%2002669%20-%20Printing%20and%20binding%20outside%20continental%20United%20States%3B%20settlement%20and%20payment%20of%20claims%20by%20foreign%20governments%3B%20employment%20of%20aliens%E2%80%A6.md)
+- [&sect; 02669&#8211;1 - Payment of tort claims arising in connection with overseas operations](%C2%A7%2002669%E2%80%931%20-%20Payment%20of%20tort%20claims%20arising%20in%20connection%20with%20overseas%20operations.md)
 - [&sect; 02669a - Diplomatic Telecommunications Service](%C2%A7%2002669a%20-%20Diplomatic%20Telecommunications%20Service.md)
+- [&sect; 02669b - Reaffirming United States international telecommunications policy](%C2%A7%2002669b%20-%20Reaffirming%20United%20States%20international%20telecommunications%20policy.md)
 - [&sect; 02670 - Insurance on motor vehicles in foreign countries; tie lines and teletype equipment; ice and drinking water; excise taxes on negotiable&#8230;](%C2%A7%2002670%20-%20Insurance%20on%20motor%20vehicles%20in%20foreign%20countries%3B%20tie%20lines%20and%20teletype%20equipment%3B%20ice%20and%20drinking%20water%3B%20excise%20taxes%20on%20negotiable%E2%80%A6.md)
 - [&sect; 02671 - Emergency expenditures](%C2%A7%2002671%20-%20Emergency%20expenditures.md)
 - [&sect; 02672 - Participation in international activities; restriction; expenses](%C2%A7%2002672%20-%20Participation%20in%20international%20activities%3B%20restriction%3B%20expenses.md)
@@ -336,7 +357,7 @@
 - [&sect; 02705 - Documentation of citizenship](%C2%A7%2002705%20-%20Documentation%20of%20citizenship.md)
 - [&sect; 02706 - Reprograming of funds; notice requirements](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md)
 - [&sect; 02707 - International communications and information policy; duties of Secretary of State](%C2%A7%2002707%20-%20International%20communications%20and%20information%20policy%3B%20duties%20of%20Secretary%20of%20State.md)
-- [&sect; 02708 - Reward; information; international terrorism](%C2%A7%2002708%20-%20Reward%3B%20information%3B%20international%20terrorism.md)
+- [&sect; 02708 - Department of State rewards program](%C2%A7%2002708%20-%20Department%20of%20State%20rewards%20program.md)
 - [&sect; 02709 - Special agents](%C2%A7%2002709%20-%20Special%20agents.md)
 - [&sect; 02710 - Expenses relating to participation in arbitrations of certain disputes](%C2%A7%2002710%20-%20Expenses%20relating%20to%20participation%20in%20arbitrations%20of%20certain%20disputes.md)
 - [&sect; 02711 - Counterterrorism Protection Fund](%C2%A7%2002711%20-%20Counterterrorism%20Protection%20Fund.md)
@@ -354,3 +375,7 @@
 - [&sect; 02722 - International meetings](%C2%A7%2002722%20-%20International%20meetings.md)
 - [&sect; 02723 - Denial of visas](%C2%A7%2002723%20-%20Denial%20of%20visas.md)
 - [&sect; 02724 - Fees for commercial services](%C2%A7%2002724%20-%20Fees%20for%20commercial%20services.md)
+- [&sect; 02725 - Fees for use of National Foreign Affairs Training Center](%C2%A7%2002725%20-%20Fees%20for%20use%20of%20National%20Foreign%20Affairs%20Training%20Center.md)
+- [&sect; 02726 - Fee for use of diplomatic reception rooms](%C2%A7%2002726%20-%20Fee%20for%20use%20of%20diplomatic%20reception%20rooms.md)
+- [&sect; 02727 - Accounting of collections in budget presentation documents](%C2%A7%2002727%20-%20Accounting%20of%20collections%20in%20budget%20presentation%20documents.md)
+- [&sect; 02728 - Crimes committed by diplomats](%C2%A7%2002728%20-%20Crimes%20committed%20by%20diplomats.md)

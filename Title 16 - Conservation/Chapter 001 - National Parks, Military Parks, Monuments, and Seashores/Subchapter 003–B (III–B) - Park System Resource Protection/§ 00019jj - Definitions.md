@@ -24,7 +24,7 @@ As used in this subchapter the term:
 
 (f) “Secretary” means the Secretary of the Interior.
 
-(g) “Marine or aquatic park system resource” means any living or non-living part of a marine or aquatic regimen within or is a living part ofa marine or aquatic regimen within the boundaries of a unit of the National Park System, except for resources owned by a non-Federal entity.
+(g) “Marine or aquatic park system resource” means any living or non-living part of a marine or aquatic regimen within or is a living part of a marine or aquatic regimen within the boundaries of a unit of the National Park System, except for resources owned by a non-Federal entity.
 
 (Pub. L. 101–337, §1, July 27, 1990, 104 Stat. 379; Pub. L. 104–333, div. I, title VIII, §814(h)(1), (2), Nov. 12, 1996, 110 Stat. 4199.)
 

@@ -10,17 +10,17 @@ The President shall establish a Foreign Service Schedule which shall consist of 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title I, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title I, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
 Section effective Feb. 15, 1981, except that for purposes of implementing section 4151 of this title it is effective Oct. 17, 1980, see section 2403(a) and (d)(2) of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Adjustment of Foreign Service Schedule Effective for Pay Periods Beginning On or After January 1, 1998
+#### Adjustment of Foreign Service Schedule Effective for Pay Periods Beginning On or After January 1, 1999
 
-Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided in part for an adjustment of the Foreign Service Schedule pay rates effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1998. See Schedule set out as follows:
+Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided in part for an adjustment of the Foreign Service Schedule pay rates effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1999. See Schedule set out as follows:
 
-Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1998)
+Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1999)
 
 Step
 
@@ -44,283 +44,283 @@ Class 9
 
 1
 
-$72,525
+$74,773
 
-$58,767
+$60,589
 
-$47,619
+$49,095
 
-$38,586
+$39,782
 
-$31,266
+$32,235
 
-$27,951
+$28,817
 
-$24,987
+$25,761
 
-$22,338
+$23,030
 
-$19,969
+$20,588
 
 2
 
-74,701
+77,016
 
-60,530
+62,407
 
-49,048
+50,568
 
-39,744
+40,975
 
-32,204
+33,202
 
-28,790
+29,682
 
-25,737
+26,534
 
-23,008
+23,721
 
-20,568
+21,206
 
 3
 
-76,942
+79,327
 
-62,346
+64,279
 
-50,519
+52,085
 
-40,936
+42,205
 
-33,170
+34,198
 
-29,653
+30,572
 
-26,509
+27,330
 
-23,698
+24,433
 
-21,185
+21,842
 
 4
 
-79,250
+81,706
 
-64,216
+66,207
 
-52,035
+53,647
 
-42,164
+43,471
 
-34,165
+35,224
 
-30,543
+31,489
 
-27,304
+28,150
 
-24,409
+25,166
 
-21,821
+22,497
 
 5
 
-81,628
+84,158
 
-66,143
+68,193
 
-53,596
+55,257
 
-43,429
+44,775
 
-35,190
+36,281
 
-31,459
+32,434
 
-28,123
+28,994
 
-25,142
+25,920
 
-22,475
+23,172
 
 6
 
-84,076
+86,682
 
-68,127
+70,239
 
-55,203
+56,915
 
-44,732
+46,118
 
-36,246
+37,369
 
-32,403
+33,407
 
-28,967
+29,864
 
-25,896
+26,698
 
-23,150
+23,867
 
 7
 
-86,599
+89,283
 
-70,171
+72,346
 
-56,860
+58,622
 
-46,074
+47,502
 
-37,333
+38,490
 
-33,375
+34,409
 
-29,836
+30,760
 
-26,673
+27,499
 
-23,844
+24,583
 
 8
 
-89,197
+91,961
 
-72,276
+74,517
 
-58,565
+60,381
 
-47,456
+48,927
 
-38,453
+39,645
 
-34,376
+35,441
 
-30,731
+31,683
 
-27,473
+28,324
 
-24,559
+25,321
 
 9
 
-91,873
+94,720
 
-74,444
+76,752
 
-60,322
+62,192
 
-48,880
+50,395
 
-39,607
+40,834
 
-35,407
+36,505
 
-31,653
+32,633
 
-28,297
+29,174
 
-25,296
+26,080
 
 10
 
-94,287
+97,201
 
-76,678
+79,055
 
-62,132
+64,058
 
-50,346
+51,906
 
-40,795
+42,059
 
-36,470
+37,600
 
-32,602
+33,612
 
-29,146
+30,049
 
-26,055
+26,863
 
 11
 
-94,287
+97,201
 
-78,978
+81,427
 
-63,996
+65,980
 
-51,856
+53,464
 
-42,019
+43,321
 
-37,564
+38,728
 
-33,580
+34,621
 
-30,020
+30,950
 
-26,837
+27,669
 
 12
 
-94,287
+97,201
 
-81,347
+83,869
 
-65,916
+67,959
 
-53,412
+55,068
 
-43,279
+44,621
 
-38,691
+39,889
 
-34,588
+35,659
 
-30,921
+31,879
 
-27,642
+28,499
 
 13
 
-94,287
+97,201
 
-83,788
+86,385
 
-67,893
+69,998
 
-55,014
+56,720
 
-44,578
+45,959
 
-39,851
+41,086
 
-35,625
+36,729
 
-31,849
+32,835
 
-28,471
+29,354
 
 14
 
-94,287
+97,201
 
-86,301
+88,977
 
-69,930
+72,098
 
-56,665
+58,421
 
-45,915
+47,338
 
-41,047
+42,319
 
-36,694
+37,831
 
-32,804
+33,820
 
-29,325
+30,234
 
 #### Executive Order No. 12249
 
@@ -380,7 +380,11 @@ Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for adjustments i
 
 #### Executive Order No. 13033
 
-Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 13071
+
+Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

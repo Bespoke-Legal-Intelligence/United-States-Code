@@ -20,7 +20,7 @@
 
 (C) The Secretary may invite representatives of other departments and agencies of the United States to participate in the meetings and other activities of the Committee.
 
-(3) The Secretary shall determine the number, terms of service, and pay and allowances of members of the Committee appointed by the Secretary, except that a term of service of any such member may not exceed three years. The Secretary may reappoint any such member for additional terms of service.
+(3) The Secretary shall determine the number, terms of service, and pay and allowances ofmembers of the Committee appointed by the Secretary, except that a term of service of any such member may not exceed three years. The Secretary may reappoint any such member for additional terms of service.
 
 (b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
 

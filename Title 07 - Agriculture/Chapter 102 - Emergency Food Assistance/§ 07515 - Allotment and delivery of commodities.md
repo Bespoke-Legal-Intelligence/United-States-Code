@@ -16,7 +16,7 @@ The Secretary shall notify each State of the amount of the additional commoditie
 
 #### (1) In general
 
-&emsp;Commodities made available for each fiscal year under this section shall be delivered at reasonable intervals to States based on the grants calculated under subsection (a) of this section, or reallocated under subsection (b) of this section, before December 31 of the following fiscal year.
+&emsp;Commodities made available for each fiscal year under this section shall be delivered at reasonable intervals to States based on the grants calculated under subsection (a) of this section, or reallocated under subsection (b) ofthis section, before December 31 of the following fiscal year.
 
 #### (2) Entitlement
 

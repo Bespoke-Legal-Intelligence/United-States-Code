@@ -20,7 +20,7 @@ Release.—An aircraft seized under subsection (b) of this section shall be rele
 
 &emsp;(4) the Attorney General gives notice that a civil action will not be brought under subsection (b) of this section; or
 
-&emsp;(5) a bond (in an amount and with a surety the Secretary or Administrator prescribes), conditioned on payment of the penalty or compromise, is deposited with the Secretary or Administrator.
+&emsp;(5) a bond (in an amount and with a surety the Secretary or Administrator prescribes), conditioned on payment of the penalty orcompromise, is deposited with the Secretary or Administrator.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1235.)
 

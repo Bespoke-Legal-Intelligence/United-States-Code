@@ -1,8 +1,8 @@
 ### §1728. Weight of mail increased fraudulently
 
-Whoever places any matter in the mails during the regular weighing period, for the purpose of increasing the weight of the mail, with intentto cause an increase in the compensation of the railroad mail carrier over whose route such mail may pass, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever places any matter in the mails during the regular weighing period, for the purpose of increasing the weight of the mail, with intent to cause an increase in the compensation of the railroad mail carrier over whose route such mail may pass, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(N), 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 103–322, title XXXIII, §330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 Transfers of municipal installations may be made at any time, not later than five years after August 4, 1955, in the case of Oak Ridge and Richland, or, in the case of Los Alamos, not later than June 30, 1998.
 
-(Aug. 4, 1955, ch. 543, ch. 8, §83, 69 Stat. 481; Sept. 28, 1962, Pub. L. 87–719, §23, 76 Stat. 666; Feb. 10, 1996, Pub. L. 104–106, div. C, title XXXI, §3161(b), 110 Stat. 627.)
+(Aug. 4, 1955, ch. 543, ch. 8, §83, 69 Stat. 481; Pub. L. 87–719, §23, Sept. 28, 1962, 76 Stat. 666; Pub. L. 104–106, div. C, title XXXI, §3161(b), Feb. 10, 1996, 110 Stat. 627.)
 
 #### Amendments
 

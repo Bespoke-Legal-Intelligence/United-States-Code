@@ -38,7 +38,7 @@
 
 #### (3) Special rule
 
-&emsp;Each high technology demonstration program assisted under paragraph (1) shall be ofsufficient size and scope to have an effect on meeting the National Education Goals.
+&emsp;Each high technology demonstration program assisted under paragraph (1) shall be of sufficient size and scope to have an effect on meeting the National Education Goals.
 
 #### (4) Matching requirement
 

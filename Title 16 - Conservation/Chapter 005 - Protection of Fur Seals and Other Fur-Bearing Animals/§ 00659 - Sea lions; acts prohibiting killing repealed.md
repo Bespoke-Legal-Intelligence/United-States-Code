@@ -1,8 +1,8 @@
 ### §659. Sea lions; acts prohibiting killing repealed
 
-All Acts and parts of Acts making it unlawful to kill sea lions, as game animals or otherwise, in the waters of the Territory of Alaska are repealed.
+All Acts and parts of Acts making it unlawful to kill sea lions, as game animals or otherwise,in the waters of the Territory of Alaska are repealed.
 
-(June 16, 1934, ch. 556, 48 Stat. 976; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Oct. 21, 1972, Pub. L. 92–522, title I, §113(b), 86 Stat. 1042.)
+(June 16, 1934, ch. 556, 48 Stat. 976; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 92–522, title I, §113(b), Oct. 21, 1972, 86 Stat. 1042.)
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 (1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
 
-(2)(A) Contracts under this subchapter shall be energy savings performance contracts and shallrequire an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
+(2)(A) Contracts under this subchapter shall be energy savings performance contracts and shall require an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
 
 (B) Aggregate annual payments by an agency to both utilities and energy savings performance contractors, under an energy savings performance contract, may not exceed the amount that the agency would have paid for utilities without an energy savings performance contract (as estimated through the procedures developed pursuant to this section) during contract years. The contract shall provide for a guarantee of savings to the agency, and shall establish payment schedules reflecting such guarantee, taking into account any capital costs under the contract.
 
@@ -44,17 +44,19 @@
 
 &emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and invite other similarly qualified firms to submit competing proposals; and
 
-&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
+&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified underclause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
 (3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
 #### (c) Sunset requirements
 
-The authority to enter into new contracts under this section shall cease to be effective five years after the date procedures and methods are established under subsection (b) of this section.
+The authority to enter into new contracts under this section shall cease to be effective on October 1, 2003.
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct.24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477.)
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–388 substituted “on October 1, 2003” for “five years after the date procedures and methods are established under subsection (b) of this section”.
 
 1996—Subsec. (b)(3). Pub. L. 104–106 struck out at end “Procedures developed by the board of contract appeals under this paragraph shall be substantially equivalent to procedures established under section 759(f) of title 40.”
 

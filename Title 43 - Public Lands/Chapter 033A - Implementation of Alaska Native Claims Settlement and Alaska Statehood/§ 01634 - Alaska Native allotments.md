@@ -16,7 +16,7 @@
 
 (2) All applications approved pursuant to this section shall be subject to the provisions of the Act of March 8, 1922 (43 U.S.C. 270–11) \[43 U.S.C. 270–11 to 270–13\].<sup>1</sup>
 
-(3) When on or before the one hundred and eightieth day following December 2, 1980, the Secretary determines by notice or decision thatthe land described in an allotment application may be valuable for minerals, excluding oil, gas, or coal, the allotment application shall be adjudicated pursuant to the provision of the Act of May 17, 1906, as amended, requiring that land allotted under said Act be nonmineral: <i>Provided</i>, That “nonmineral”, as that term is used in such Act, is defined to include land valuable for deposits of sand or gravel.
+(3) When on or before the one hundred and eightieth day following December 2, 1980, the Secretary determines by notice or decision that the land described in an allotment application may be valuable for minerals, excluding oil, gas, or coal, the allotment application shall be adjudicated pursuant to the provision of the Act of May 17, 1906, as amended, requiring that land allotted under said Act be nonmineral: <i>Provided</i>, That “nonmineral”, as that term is used in such Act, is defined to include land valuable for deposits of sand or gravel.
 
 (4) Where an allotment application describes land within the boundaries of a unit of the National Park System established on or before December 2, 1980, and the described land was not withdrawn pursuant to section 11(a)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(a)(1)\], or where an allotment application describes land which has been patented or deeded to the State of Alaska or which on or before December 18, 1971, was validly selected by or tentatively approved or confirmed to the State of Alaska pursuant to the Alaska Statehood Act and was not withdrawn pursuant to section 11(a)(1)(A) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(a)(1)(A)\] from those lands made available for selection by section 11(a)(2) of the Act \[43 U.S.C. 1610(a)(2)\] by any Native Village certified as eligible pursuant to section 11(b) of such Act \[43 U.S.C. 1610(b)\], paragraph (1) of this subsection and subsection (d) of this section shall not apply and the application shall be adjudicated pursuant to the requirements of the Act of May 17, 1906, as amended, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and other applicable law.
 
@@ -30,13 +30,25 @@
 
 (6) Paragraph (1) of this subsection and subsection (d) of this section shall not apply to any application pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
 
+(7) Paragraph (1) of this subsection and subsection (d) of this section shall apply, and paragraph (5) of this subsection shall cease to apply, to an application—
+
+&emsp;(A) that is open and pending on October 31, 1998;
+
+&emsp;(B) if the lands described in the application are in Federal ownership other than as a result of reacquisition by the United States after January 3, 1959; and
+
+&emsp;(C) if any protest which is filed by the State of Alaska pursuant to paragraph (5)(B) with respect to the application is withdrawn or dismissed either before, on, or after October 31, 1998.
+
+(8)(A) Any allotment application which is open and pending and which is legislatively approved by enactment of paragraph (7) shall, when allotted, be made subject to any easement, trail, or right-of-way in existence on the date of the Native allotment applicant's commencement of use and occupancy.
+
+(B) The jurisdiction of the Secretary is extended to make any factual determinations required to carry out this paragraph.
+
 #### (b) Conflicting land descriptions in applications; adjustments; reductions
 
 Where a conflict between two or more allotment applications exists due to overlapping land descriptions, the Secretary shall adjust the descriptions to eliminate conflicts, and in so doing, consistent with other existing rights, if any, may expand or alter the applied-for allotment boundaries or increase or decrease acreage in one or more of the allotment applications to achieve an adjustment which, to the extent practicable, is consistent with prior use of the allotted land and is beneficial to the affected parties: <i>Provided</i>, That the Secretary shall, to the extent feasible, implement an adjustment proposed by the affected parties: <i>Provided further</i>, That the Secretary's decision concerning adjustment of conflicting land descriptions shall be final and unreviewable in all cases in which the reduction, if any, of the affected allottee's claim is less than 30 percent of the acreage contained in the parcel originally described and the adjustment does not exclude from the allotment improvements claimed by the allottee: <i>Provided further</i>, That where an allotment application describes more than one hundred and sixty acres, the Secretary shall at any time prior to or during survey reduce the acreage to one hundred and sixty acres and shall attempt to accomplish said reduction in the manner least detrimental to the applicant.
 
 #### (c) Amendment of land description in application; notification; protest; adoption of final plan of survey
 
-An allotment applicant may amend the land description contained in his or her application if said description designates land other than that which the applicant intended to claim at the time of application and if the description as amended describes the land originally intended to be claimed. If the allotment application is amended, this section shall operate to approve the application or to require its adjudication, as the case may be, with reference to the amended land description only: <i>Provided</i>, That the Secretary shall notify the State of Alaska and all interested parties, as shown by the records of the Department of the Interior, of the intended correction of the allotment's location, and any such party shall have until the one hundred and eightieth day following December 2, 1980, or sixty days following mailing of the notice, whichever is later, to file with the Department of the Interior a protest as provided in subsection (a)(5) of this section, which protest, if timely, shall be deemed filed within one hundred and eighty days of December 2, 1980, notwithstanding the actual date of filing: <i>Provided further</i>, That the Secretary may require that all allotment applications designating land in a specified area be amended, if at all, prior to a date certain, which date shall be calculated to allow for orderly adoption of a plan of survey for the specified area, and the Secretary shall mail notification of the final date for amendment to each affected allotment applicant, and shall provide such other notice as the Secretary deems appropriate, at least sixty days prior to said date: <i>Provided further</i>, That no allotment application may be amended for location followingadoption of a final plan of survey which includes the location of the allotment as described in the application or its location as desired by amendment.
+An allotment applicant may amend the land description contained in his or her application if said description designates land other than that which the applicant intended to claim at the time of application and if the description as amended describes the land originally intended to be claimed. If the allotment application is amended, this section shall operate to approve the application or to require its adjudication, as the case may be, with reference to the amended land description only: <i>Provided</i>, That the Secretary shall notify the State of Alaska and all interested parties, as shown by the records of the Department of the Interior, of the intended correction of the allotment's location, and any such party shall have until the one hundred and eightieth day following December 2, 1980, or sixty days following mailing of the notice, whichever is later, to file with the Department of the Interior a protest as provided in subsection (a)(5) of this section, which protest, if timely, shall be deemed filed within one hundred and eighty days of December 2, 1980, notwithstanding the actual date of filing: <i>Provided further</i>, That the Secretary may require that all allotment applications designating land in a specified area be amended, if at all, prior to a date certain, which date shall be calculated to allow for orderly adoption of a plan of survey for the specified area, and the Secretary shall mail notification of the final date for amendment to each affected allotment applicant, and shall provide such other notice as the Secretary deems appropriate, at least sixty days prior to said date: <i>Provided further</i>, That no allotment application may be amended for location following adoption of a final plan of survey which includes the location of the allotment as described in the application or its location as desired by amendment.
 
 #### (d) Powersites and power projects
 
@@ -126,7 +138,7 @@ Prior to issuing a certificate for an allotment subject to this section, the Sec
 
 (6) The United States shall not be subject to liability for the presence of any hazardous substance in land or an interest in land solely as a result of any reconveyance to and transfer by the United States of the land or interest pursuant to this subsection.
 
-(Pub. L. 96–487, title IX, §905, Dec. 2, 1980, 94 Stat. 2435; Pub. L. 102–415, §§2, 12, Oct. 14, 1992, 106 Stat. 2112, 2115.)
+(Pub. L. 96–487, title IX, §905, Dec. 2, 1980, 94 Stat. 2435; Pub. L. 102–415, §§2, 12, Oct. 14, 1992, 106 Stat. 2112, 2115; Pub. L. 105–333, §9, Oct. 31, 1998, 112 Stat. 3134.)
 
 #### References in Text
 
@@ -145,6 +157,8 @@ That Act, as amended, referred to in subsec. (d), is the Federal Power Act, act 
 In subsecs. (a)(1), (3)–(5), (c), and (d), “December 2, 1980” substituted for “the effective date of this Act”, which probably meant the date of enactment of Pub. L. 96–487.
 
 #### Amendments
+
+1998—Subsec. (a)(7), (8). Pub. L. 105–333 added pars. (7) and (8).
 
 1992—Subsec. (a)(1). Pub. L. 102–415, §2, designated existing provisions as subpar. (A), inserted “or within Fort Davis (except as provided in subparagraph (B))” after “Naval Petroleum Reserve No. 4)”, and added subpar. (B).
 

@@ -2,7 +2,7 @@
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than July 6, 1972.
 
-(Mar. 10, 1950, ch. 54, title V, §510, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112; amendedPub. L. 89–780, §5, Nov. 6, 1966, 80 Stat. 1365; Pub. L. 91–157, Dec. 24, 1969, 83 Stat. 435.)
+(Mar. 10, 1950, ch. 54, title V, §510, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112; amended Pub. L. 89–780, §5, Nov. 6, 1966, 80 Stat. 1365; Pub. L. 91–157, Dec. 24, 1969, 83 Stat. 435.)
 
 #### Amendments
 

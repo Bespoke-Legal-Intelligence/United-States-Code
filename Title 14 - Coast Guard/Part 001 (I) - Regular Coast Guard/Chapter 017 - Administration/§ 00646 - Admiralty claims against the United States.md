@@ -12,7 +12,7 @@
 
 (c) If a claim under this section is settled or compromised for more than $100,000, the Secretary shall certify it to Congress.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 548; June 29, 1960, Pub. L. 86–533, §1(3)(A), 74 Stat. 245; Aug. 29, 1972, Pub. L. 92–417, §2(a), 86 Stat. 655.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 548; Pub. L. 86–533, §1(3)(A), June 29, 1960, 74 Stat. 245; Pub. L. 92–417, §2(a), Aug. 29, 1972, 86 Stat. 655.)
 
 #### Historical and Revision Notes
 

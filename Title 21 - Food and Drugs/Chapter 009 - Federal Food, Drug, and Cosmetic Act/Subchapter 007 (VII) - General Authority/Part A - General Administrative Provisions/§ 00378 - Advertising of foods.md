@@ -36,7 +36,7 @@
 
 &emsp;(B) the Commission does not issue and serve a complaint described in subparagraph (C) of such paragraph respecting such advertising, or
 
-&emsp;(C) the Commission does not (as described in subparagraph (D) of such paragraph) make a certification to the Attorney General respecting such advertising, or, if the Commission does make such a certification to the Attorney General respecting such advertising, the Attorney General, before the expiration of such period, does not cause appropriate criminal proceedings to be brought against such advertising,
+&emsp;(C) the Commission does not (as described in subparagraph (D) of such paragraph) make a certification to the Attorney General respecting such advertising, or, if the Commission does make such a certification to the Attorney General respecting such advertising, the Attorney General, before the expiration ofsuch period, does not cause appropriate criminal proceedings to be brought against such advertising,
 
 > the Secretary may, after the expiration of such period, initiate the action described in the notice to the Commission pursuant to subsection (a) of this section. The Commission shall promptly notify the Secretary of the commencement by the Commission of such a civil action, the issuance and service by it of such a complaint, or the causing by the Attorney General of criminal proceedings to be brought against such advertising.
 

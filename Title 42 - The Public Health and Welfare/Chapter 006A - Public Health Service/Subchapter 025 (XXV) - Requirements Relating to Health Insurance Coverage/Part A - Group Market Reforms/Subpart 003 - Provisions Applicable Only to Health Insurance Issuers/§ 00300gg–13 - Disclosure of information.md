@@ -30,7 +30,7 @@ In connection with the offering of any health insurance coverage to a small empl
 
 &emsp;An issuer is not required under this section to disclose any information that is proprietary and trade secret information under applicable law.
 
-(July 1, 1944, ch. 373, title XXVII, §2713, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1966.)
+(July 1, 1944, ch. 373, title XXVII, §2713, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1966.)
 
 #### Prior Provisions
 

@@ -1,28 +1,32 @@
 ### §2991b–1. Loan fund; demonstration project
 
-#### (a) Grants to Hawaiian agency or organization to establish revolving loan fund; purposes of fund; administrative costs; matching funds
+#### (a) Grant to Office of Hawaiian Affairs to establish revolving loan fund; purposes of fund; administrative costs; matching funds
 
-(1) In order to provide funding that is not available from private sources, the Commissioner shall award grants to the Office of Hawaiian Affairs of the State of Hawaii (referred to in this section as the “Office”), which shall use such grants to establish and carry out, in the State of Hawaii, a demonstration project involving the establishment of a revolving loan fund—
+(1) In order to provide funding that is not available from private sources, the Commissioner shall award a grant to the Office of Hawaiian Affairs of the State of Hawaii (referred to in this section as the “Office”), which shall use that grant to carry out, in the State of Hawaii, a demonstration project involving the establishment of a revolving loan fund—
 
-&emsp;(A) from which the Office shall make loans to Native Hawaiian organizations and to individual Native Hawaiians for the purpose of promoting economic development in the State of Hawaii; and
+&emsp;(A) from which the Office shall make loans or loan guarantees to Native Hawaiian organizations and to individual Native Hawaiians for the purpose of promoting economic development in the State of Hawaii; and
 
 &emsp;(B) into which all payments, interest, charges, and other amounts collected from loans made under subparagraph (A) shall be deposited notwithstanding any other provision of law.
 
 (2) The agreement under which a grant is awarded under paragraph (1) shall contain provisions which set forth the administrative costs of the grantee that are to be paid out of the funds provided under the grant and a requirement that the grantee contribute to the revolving loan fund an amount of non-Federal funds equal to the amount of such grant.
 
-#### (b) Loans to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending
+#### (b) Loans or loan guarantees to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending
 
-(1) The Office may make loans to a borrower under subsection (a)(1)(A) of this section only if the Office determines that—
+(1) The Office may make a loan or loan guarantee to a borrower under subsection (a)(1)(A) of this section only if the Office determines that—
 
 &emsp;(A) the borrower is unable to obtain financing from other sources on reasonable terms and conditions; and
 
 &emsp;(B) there is a reasonable prospect that the borrower will repay the loan.
 
-(2) Loans made under subsection (a)(1)(A) of this section shall be—
+(2) Each loan or loan guarantee made under subsection (a)(1)(A) of this section shall be—
 
-&emsp;(A) for a term that does not exceed 5 years; and
+&emsp;(A) for a term that does not exceed 7 years; and
 
-&emsp;(B) at a rate of interest that is 2 percentage points below the average market yield on the most recent public offering of United States Treasury bills occurring before the date on which the loan is made.
+&emsp;(B) at a rate of interest that does not exceed a rate equal to the sum of—
+
+&emsp;&emsp;(I) the most recently published prime rate (as published in the newspapers of general circulation in the State of Hawaii before the date on which the loan is made); and
+
+&emsp;&emsp;(II) 3 percentage points.
 
 (3) The Office may require any borrower of a loan made under subsection (a)(1)(A) of this section to provide such collateral as the Office determines to be necessary to secure the loan.
 
@@ -68,7 +72,7 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 #### (f) Authorization of appropriations; investment in obligations of United States
 
-(1) There is authorized to be appropriated for each of the fiscal years 1992, 1993, and 1994, $1,000,000 for the purpose of carrying out the provisions of this section. Any amount appropriated under this paragraph shall remain available for expenditure without fiscal year limitation.
+(1) There is authorized to be appropriated for each of the fiscal years 2000 and 2001, $1,000,000 for the purpose of carrying out the provisions of this section. Any amount appropriated under this paragraph shall remain available for expenditure without fiscal year limitation.
 
 (2) The revolving loan fund that is required to be established under subsection (a)(1) of this section shall be maintained as a separate account. Any portion of the revolving loan fund that is not required for expenditure shall be invested in obligations of the United States or in obligations guaranteed or insured by the United States.
 
@@ -86,9 +90,23 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 &emsp;(D) specify the number of borrowers who fail in such fiscal year to repay loans in accordance with the agreements under which such loans are required to be repaid.
 
-(Pub. L. 88–452, title VIII, §803A, as added Pub. L. 100–175, title V, §506(a), Nov. 29, 1987, 101 Stat. 976; amended Pub. L. 102–375, title VIII, §822(2), Sept. 30, 1992, 106 Stat. 1296; Pub. L. 103–171, §5(3), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 88–452, title VIII, §803A, as added Pub. L. 100–175, title V, §506(a), Nov. 29, 1987, 101 Stat. 976; amended Pub. L. 102–375, title VIII, §822(2), Sept. 30, 1992, 106 Stat. 1296; Pub. L. 103–171, §5(3), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 105–361, §3, Nov. 10, 1998, 112 Stat. 3278.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–361, §3(a)(1)(A), in introductory provisions, substituted “award a grant” for “award grants” and “use that grant to carry out” for “use such grants to establish and carry out”.
+
+Subsec. (a)(1)(A). Pub. L. 105–361, §3(a)(1)(B), inserted “or loan guarantees” after “make loans”.
+
+Subsec. (b)(1). Pub. L. 105–361, §3(a)(2)(A), substituted “a loan or loan guarantee to a borrower” for “loans to a borrower” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 105–361, §3(a)(2)(B)(i), substituted “Each loan or loan guarantee made” for “Loans made” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 105–361, §3(a)(2)(B)(ii), substituted “7 years” for “5 years”.
+
+Subsec. (b)(2)(B). Pub. L. 105–361, §3(a)(2)(B)(iii), substituted “that does not exceed a rate equal to the sum of—” for “that is 2 percentage points below the average market yield on the most recent public offering of United States Treasury bills occurring before the date on which the loan is made.” and added cls. (I) and (II).
+
+Subsec. (f)(1). Pub. L. 105–361, §3(a)(3), substituted “2000 and 2001,” for “1992, 1993, and 1994,”.
 
 1993—Subsecs. (b) to (d)(1). Pub. L. 103–171, §5(3)(A), struck out “to which a grant is awarded under subsection (a)(1) of this section” before “may make loans” in subsec. (b)(1), before “may require any borrower” in subsec. (b)(3), before “shall establish written” in subsec. (b)(4), before “may not lend” in subsec. (b)(5), before “shall provide the Commissioner” in subsec. (c)(1), before “shall notify the Commissioner” in subsec. (c)(2)(A), and before “shall, out of funds” in subsec. (d)(1).
 

@@ -1,11 +1,6 @@
 ### <b>CHAPTER 21—DEPARTMENT OF DEFENSE INTELLIGENCE MATTERS</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20General%20Matters/README.md) | <b>General Matters</b> | <b>421</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Intelligence%20Commercial%20Activities/README.md) | <b>Intelligence Commercial Activities</b> | <b>431</b> |

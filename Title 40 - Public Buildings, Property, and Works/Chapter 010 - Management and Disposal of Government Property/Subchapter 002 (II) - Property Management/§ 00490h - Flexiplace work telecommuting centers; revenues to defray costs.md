@@ -6,5 +6,5 @@ The Administrator of General Services is authorized to accept and retain income 
 
 #### Codification
 
-Section was enacted as part of the Treasury, Postal Service, and General Government Appropriations Act, 1996, and not as part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
+Section was enacted as part of the Treasury, Postal Service, and General Government Appropriations Act,1996, and not as part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
 

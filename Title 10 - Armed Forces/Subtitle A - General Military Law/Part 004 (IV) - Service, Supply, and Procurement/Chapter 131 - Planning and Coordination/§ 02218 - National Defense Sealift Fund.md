@@ -78,7 +78,7 @@ Budget Requests.—Budget requests submitted to Congress for the National Defens
 
 (i)
 
-Title or Management of Vessels.—Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+Title or Management of Vessels.—Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready ReserveForce component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
 
 (j)
 
@@ -145,4 +145,8 @@ Subsec. (j). Pub. L. 104–106, §1502(a)(15)(A), substituted “the congression
 Subsec. (k)(4). Pub. L. 104–106, §1502(a)(15)(B), added par. (4).
 
 1992—Subsec. (c)(2). Pub. L. 102–396 substituted “in amounts authorized by law” for “for programs, projects, and activities and only in amounts authorized in, or otherwise permitted under, an Act other than an appropriations Act”. See Codification note above.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

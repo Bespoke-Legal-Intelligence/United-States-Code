@@ -6,7 +6,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(2) to ensure compliance with loan conditionalities relating to the protection of the rights of indigenous people to lands and resources; and
 
-&emsp;(3) to consult with indigenous people, and nongovernmental organizations representingindigenous people, at every phase of loan design, planning, implementation, and monitoring.
+&emsp;(3) to consult with indigenous people, and nongovernmental organizations representing indigenous people, at every phase of loan design, planning, implementation, and monitoring.
 
 (Pub. L. 95–118, title XVI, §1605, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 

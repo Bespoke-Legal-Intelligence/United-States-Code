@@ -12,7 +12,7 @@
 
 (c) The Office of Personnel Management shall prescribe such regulations as it considers necessary for the administration of subsections (a) and (b).
 
-(d) The preceding provisions of this section shall be applicable with respect to any employee to whom subchapter III of chapter 53 applies,and to any category of employees provided for under subsection (e).
+(d) The preceding provisions of this section shall be applicable with respect to any employee to whom subchapter III of chapter 53 applies, and to any category of employees provided for under subsection (e).
 
 (e) At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within such agency who would not otherwise be covered by this section.
 

@@ -72,7 +72,5 @@ Sec. 2. (a) The following shall be transferred to the National Aeronautics and S
 
 (c) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate transfers under the foregoing provisions of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
-Sec. 3. The provisions of this transfer plan shall become effective upon the expiration of the first period of sixty calendar days of regular session of the Congress following the date stated in the heading hereof unlessthe Congress has during that period adopted a concurrent resolution stating that Congress does not favor this transfer plan. Thereafter, as promptly as may be, this transfer plan shall be published in the
-
-Federal Register.
+Sec. 3. The provisions of this transfer plan shall become effective upon the expiration of the first period of sixty calendar days of regular session of the Congress following the date stated in the heading hereof unless the Congress has during that period adopted a concurrent resolution stating that Congress does not favor this transfer plan. Thereafter, as promptly as may be, this transfer plan shall be published in the Federal Register.
 

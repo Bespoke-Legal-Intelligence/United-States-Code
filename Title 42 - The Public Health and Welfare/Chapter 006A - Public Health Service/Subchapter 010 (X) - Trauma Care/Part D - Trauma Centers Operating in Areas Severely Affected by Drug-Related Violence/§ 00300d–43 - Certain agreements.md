@@ -24,5 +24,5 @@ The Secretary may not make a grant under section 300d–41(a) of this title unle
 
 &emsp;(2) in carrying out paragraph (1), the center will maintain information on the number of trauma cases treated by the center and, for each such case, the extent to which the center incurs uncompensated costs in providing trauma care.
 
-(July 1, 1944, ch. 373, title XII, §1243, as added July 10, 1992, Pub. L. 102–321, title VI, §601, 106 Stat. 434.)
+(July 1, 1944, ch. 373, title XII, §1243, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 434.)
 

@@ -22,6 +22,10 @@ It is the purpose of this chapter—
 
 This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which enacted this chapter and section 6933 of this title, amended sections 1308, 1308–1, 1308–3, 1358–1, 1358b, 1358c, 1359a, 1373, 1441, 1445j, 1508, 1516, 4504, 6401, 6402, 6413, 6414, and 6932 of this title and sections 713a–14, 714b, 714i, and 714k of Title 15, Commerce and Trade, repealed sections 1426, 1433f, 1441–2, 1444–2, 1444f, 1445b–3a, 1445c–3, 1445h, 1446e to 1446h, and 1519 of this title, enacted provisions set out as notes under sections 1373, 1446e, 1446e–1, and 1508 of this title, and repealed provisions set out as a note under section 1421 of this title. For complete classification of title I to the Code, see Tables.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–228, §1, Aug. 12, 1998, 112 Stat. 1516, provided that: “This Act \[amending section 7212 of this title\] may be cited as the ‘Emergency Farm Financial Relief Act’.”
+
 #### Short Title
 
 Section 1(a) of Pub. L. 104–127 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Agriculture Improvement and Reform Act of 1996’.”

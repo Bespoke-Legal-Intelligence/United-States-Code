@@ -22,7 +22,7 @@
 
 (e) <sup>1</sup> A marine casualty not resulting in the death of an individual shall be classified according to the gravity of the casualty, as prescribed by regulation, giving consideration to the extent of injuries to individuals, the extent of property damage, the dangers that the casualty creates, and the size, occupation, and means of propulsion of each vessel involved.
 
-(e)(1) <sup>1</sup> This chapter applies to a marine casualty involving a United States citizen on a foreign passenger vessel operating south of 75 degrees north latitude, west of 35 degrees west longitude, and east of the International Date Line;or operating in the area south of 60 degrees south latitude that—
+(e)(1) <sup>1</sup> This chapter applies to a marine casualty involving a United States citizen on a foreign passenger vessel operating south of 75 degrees north latitude, west of 35 degrees west longitude, and east of the International Date Line; or operating in the area south of 60 degrees south latitude that—
 
 &emsp;(A) embarks or disembarks passengers in the United States; or
 

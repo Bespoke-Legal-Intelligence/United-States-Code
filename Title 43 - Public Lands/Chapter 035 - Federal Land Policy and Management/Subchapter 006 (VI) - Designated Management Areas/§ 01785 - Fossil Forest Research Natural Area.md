@@ -40,7 +40,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (B) Coal preference rights
 
-&emsp;&emsp;The Secretary of the Interior is authorized to issue coal leases in New Mexico in exchange for any preference right coal lease application within the Area. Such exchanges shall be made in accordance with applicable existing laws and regulations relating to coal leases after a determination has been made by the Secretary that the applicant is entitled to a preference right lease and that the exchange is in the public interest.
+&emsp;&emsp;The Secretary of the Interior is authorized to issue coal leases in New Mexico in exchange for any preference right coal lease application within the Area. Such exchangesshall be made in accordance with applicable existing laws and regulations relating to coal leases after a determination has been made by the Secretary that the applicant is entitled to a preference right lease and that the exchange is in the public interest.
 
 #### (C) Oil and gas leases
 
@@ -52,7 +52,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (d) Inventory
 
-Not later than 3 full fiscal years after November 12, 1996, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall develop a baseline inventoryof all categories of fossil resources within the Area. After the inventory is developed, the Secretary shall conduct monitoring surveys at intervals specified in the management plan developed for the Area in accordance with subsection (e) of this section.
+Not later than 3 full fiscal years after November 12, 1996, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall develop a baseline inventory of all categories of fossil resources within the Area. After the inventory is developed, the Secretary shall conduct monitoring surveys at intervals specified in the management plan developed for the Area in accordance with subsection (e) of this section.
 
 #### (e) Management plan
 

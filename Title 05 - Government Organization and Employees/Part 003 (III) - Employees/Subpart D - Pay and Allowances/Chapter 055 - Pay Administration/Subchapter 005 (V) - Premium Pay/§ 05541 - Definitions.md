@@ -140,7 +140,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-Chapter 15 of title 31, District of Columbia Code, referred to in par. (2)(iii), was transferred to chapter 11\(§31–1101 et seq.) of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
+Chapter 15 of title 31, District of Columbia Code, referred to in par. (2)(iii), was transferred to chapter 11 (§31–1101 et seq.) of Title 31, Education and Cultural Institutions, of the District of Columbia Code.
 
 #### Amendments
 
@@ -232,7 +232,7 @@ Pub. L. 100–690, title VI, §6401, Nov. 18, 1988, 102 Stat. 4370, as amended b
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, the Drug Enforcement Administration andthe Federal Bureau of Investigation are authorized on and after October 1, 1988, to pay bonuses up to 25 percent of base pay to employees of the Drug Enforcement Administration and the Federal Bureau of Investigation who possess and make substantial use of one or more languages, other than English, in the performance of their official duties. The Administrator of the Drug Enforcement Administration and the Director of the Federal Bureau of Investigation shall develop such policies as necessary to implement the payment of these bonuses.
+In General.—Notwithstanding any other provision of law, the Drug Enforcement Administration and the Federal Bureau of Investigation are authorized on and after October 1, 1988, to pay bonuses up to 25 percent of base pay to employees of the Drug Enforcement Administration and the Federal Bureau of Investigation who possess and make substantial use of one or more languages, other than English, in the performance of their official duties. The Administrator of the Drug Enforcement Administration and the Director of the Federal Bureau of Investigation shall develop such policies as necessary to implement the payment of these bonuses.
 
 “(b)
 

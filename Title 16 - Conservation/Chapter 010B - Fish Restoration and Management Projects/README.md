@@ -10,9 +10,10 @@
 | [777c.](%C2%A7%2000777c%20-%20Division%20of%20annual%20appropriations.md) | Division of annual appropriations. |
 | (a) | Initial distribution. |
 | (b) | Use of balance after distribution. |
-| (c) | Funds available for expenses of investigations and administration. |
-| (d) | Apportionment among States. |
-| (e) | Unallocated funds. |
+| (c) | National Outreach and Communications Program. |
+| (d) | Funds available for expenses of investigations and administration. |
+| (e) | Apportionment among States. |
+| (f) | Unallocated funds. |
 | [777d.](%C2%A7%2000777d%20-%20Certification%20of%20funds%20deducted%20for%20expenses%20and%20amounts%20apportioned%20to%20States.md) | Certification of funds deducted for expenses and amounts apportioned to States. |
 | [777e.](%C2%A7%2000777e%20-%20Submission%20and%20approval%20of%20plans%20and%20projects.md) | Submission and approval of plans and projects. |
 | (a) | Apportionment of funds. |
@@ -33,7 +34,16 @@
 | (a) | Duty of States; status of projects; title to property. |
 | (b) | Funding requirements. |
 | (c) | Aquatic resource education program; funding, etc. |
-| (d) | Pumpout stations and waste reception facilities. |
+| (d) | National Outreach and Communications Program. |
+| (e) | State outreach and communications program. |
+| (f) | Pumpout stations and waste reception facilities. |
+| (g) | Surveys. |
+| 777g–1. | Boating infrastructure. |
+| (a) | Purpose. |
+| (b) | Omitted. |
+| (c) | Plan. |
+| (d) | Grant program. |
+| (e) | Definitions. |
 | [777h.](%C2%A7%2000777h%20-%20Employment%20of%20personnel.md) | Employment of personnel. |
 | [777i.](%C2%A7%2000777i%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [777j.](%C2%A7%2000777j%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93348%2C%20%C2%A71%2814%29%2C%20Nov.%208%2C%201965%2C%2079%20Stat.%201311.md) | Repealed. |
@@ -60,6 +70,7 @@ This chapter is referred to in sections 1225, 2904, 2905, 3125 of this title; ti
 - [&sect; 00777e&#8211;1 - New England Fishery Resources Restoration Act of 1990](%C2%A7%2000777e%E2%80%931%20-%20New%20England%20Fishery%20Resources%20Restoration%20Act%20of%201990.md)
 - [&sect; 00777f - Payments by United States](%C2%A7%2000777f%20-%20Payments%20by%20United%20States.md)
 - [&sect; 00777g - Maintenance of projects](%C2%A7%2000777g%20-%20Maintenance%20of%20projects.md)
+- [&sect; 00777g&#8211;1 - Boating infrastructure](%C2%A7%2000777g%E2%80%931%20-%20Boating%20infrastructure.md)
 - [&sect; 00777h - Employment of personnel](%C2%A7%2000777h%20-%20Employment%20of%20personnel.md)
 - [&sect; 00777i - Rules and regulations](%C2%A7%2000777i%20-%20Rules%20and%20regulations.md)
 - [&sect; 00777j - Repealed. Pub. L. 89&#8211;348, &sect;1(14), Nov. 8, 1965, 79 Stat. 1311](%C2%A7%2000777j%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93348%2C%20%C2%A71%2814%29%2C%20Nov.%208%2C%201965%2C%2079%20Stat.%201311.md)

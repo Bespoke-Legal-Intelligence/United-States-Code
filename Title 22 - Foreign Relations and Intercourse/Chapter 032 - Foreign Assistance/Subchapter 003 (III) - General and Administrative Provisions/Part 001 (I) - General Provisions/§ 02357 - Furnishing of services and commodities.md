@@ -6,7 +6,7 @@ Whenever the President determines it to be consistent with and in furtherance of
 
 &emsp;(1) Advances or reimbursements which are received under this section within one hundred and eighty days after the close of the fiscal year in which such services and commodities are delivered.
 
-&emsp;(2) Advances or reimbursements received pursuant to agreements executed under this section in which reimbursement will not be completed within one hundred and eighty days after the close of the fiscal year in which suchservices and commodities are delivered: <i>Provided</i>, That such agreements require the payment of interest at the current rate established pursuant to section 635(b)(1)(B) of title 12, and repayment of such principal and interest does not exceed a period of three years from the date of signing of the agreement to provide the service: <i>Provided further</i>, That funds available for this paragraph in any fiscal year shall not exceed $1,000,000 of the total funds authorized for use in such fiscal year by part I of subchapter I of this chapter, and shall be available only to the extent provided in appropriation Acts. Interest shall accrue as of the date of disbursement to the agency or organization providing such services.
+&emsp;(2) Advances or reimbursements received pursuant to agreements executed under this section in which reimbursement will not be completed within one hundred and eighty days after the close of the fiscal year in which such services and commodities are delivered: <i>Provided</i>, That such agreements require the payment of interest at the current rate established pursuant to section 635(b)(1)(B) of title 12, and repayment of such principal and interest does not exceed a period of three years from the date of signing of the agreement to provide the service: <i>Provided further</i>, That funds available for this paragraph in any fiscal year shall not exceed $1,000,000 of the total funds authorized for use in such fiscal year by part I of subchapter I of this chapter, and shall be available only to the extent provided in appropriation Acts. Interest shall accrue as of the date of disbursement to the agency or organization providing such services.
 
 #### (b) Agency contracts with individuals to perform services
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 99–93, §129(2), added subsec. (d).
 
 1978—Subsecs. (b), (c). Pub. L. 95–424 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1977—Subsec. (a). Pub. L. 95–88 inserted “(including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntarynonprofit relief agency is available)” after “and voluntary nonprofit relief agencies registered with and approved by the Advisory Committee on Voluntary Foreign Aid” in provisions preceding par. (1).
+1977—Subsec. (a). Pub. L. 95–88 inserted “(including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available)” after “and voluntary nonprofit relief agencies registered with and approved by the Advisory Committee on Voluntary Foreign Aid” in provisions preceding par. (1).
 
 1975—Subsec. (a). Pub. L. 94–161 substituted “currently” for “current”, incorporated text following “Such advances or reimbursements” in provisions designated cl. (1) and added cl. (2).
 
@@ -85,10 +85,6 @@ Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing
 #### Authority of Secretary of State
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
-
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, to be exercised in consultation with Secretary of State, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Delegation of Authority
 

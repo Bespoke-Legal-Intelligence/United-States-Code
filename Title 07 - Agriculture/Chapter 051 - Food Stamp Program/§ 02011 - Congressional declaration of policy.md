@@ -24,7 +24,7 @@ Pub. L. 103–66, title XIII, §13901(a), Aug. 10, 1993, 107 Stat. 672, provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: “This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The PublicHealth and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the ‘Mickey Leland Memorial Domestic Hunger Relief Act’.”
+Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: “This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the ‘Mickey Leland Memorial Domestic Hunger Relief Act’.”
 
 #### Short Title of 1988 Amendments
 
@@ -55,6 +55,40 @@ Pub. L. 94–339, §1, July 5, 1976, 90 Stat. 799, provided: “That this Act \[
 #### Short Title
 
 Section 1 of Pub. L. 88–525, as amended by Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided that: “This Act \[this chapter\] may be cited as the ‘Food Stamp Act of 1977’.”
+
+#### Study of National Database for Federal Means-Tested Public Assistance Programs
+
+Pub. L. 105–379, §2, Nov. 12, 1998, 112 Stat. 3399, provided that:
+
+“(a)
+
+In General.—The Secretary of Agriculture shall conduct a study of options for the design, development, implementation, and operation of a national database to track participation in Federal means-tested public assistance programs.
+
+“(b)
+
+Administration.—In conducting the study, the Secretary shall—
+
+&emsp;“(1) analyze available data to determine—
+
+&emsp;&emsp;“(A) whether the data have addressed the needs of the food stamp program established under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.);
+
+&emsp;&emsp;“(B) whether additional or unique data need to be developed to address the needs of the food stamp program; and
+
+&emsp;&emsp;“(C) the feasibility and cost-benefit ratio of each available option for a national database;
+
+&emsp;“(2) survey the States to determine how the States are enforcing the prohibition on recipients receiving assistance in more than one State under Federal means-tested public assistance programs;
+
+&emsp;“(3) determine the functional requirements of each available option for a national database; and
+
+&emsp;“(4) ensure that all options provide safeguards to protect against the unauthorized use or disclosure of information in the national database.
+
+“(c)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 12, 1998\], the Secretary shall submit to Congress a report on the results of the study conducted under this section.
+
+“(d)
+
+Funding.—Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary of Agriculture $500,000 to carry out this section. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.”
 
 #### Welfare Simplification and Coordination Advisory Committee
 
@@ -100,7 +134,7 @@ Reports.—Not later than July 1, 1993, the Committee shall prepare and submit, 
 
 #### Rules
 
-Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title\].”
+Pub. L. 99–198, title XV, §1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, theSecretary shall issue rules to carry out the amendments made by this title \[amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title\].”
 
 #### Implementation of 1977 Amendment; Savings Provision; Availability of Appropriated Funds; Report
 

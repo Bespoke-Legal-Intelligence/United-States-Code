@@ -64,7 +64,7 @@
 
 &emsp;(A)(i) For each facility at which the Department of Energy generates or stores mixed wastes, except any facility subject to a permit, agreement, or order described in clause (ii), the Secretary of Energy shall develop and submit, as provided in paragraph (2), a plan for developing treatment capacities and technologies to treat all of the facility's mixed wastes, regardless of the time they were generated, to the standards promulgated pursuant to section 6924(m) of this title.
 
-&emsp;(ii) Clause (i) shall not apply with respect to any facility subject to any permit establishing a schedule for treatment of such wastes, or any existing agreement or administrative orjudicial order governing the treatment of such wastes, to which the State is a party.
+&emsp;(ii) Clause (i) shall not apply with respect to any facility subject to any permit establishing a schedule for treatment of such wastes, or any existing agreement or administrative or judicial order governing the treatment of such wastes, to which the State is a party.
 
 &emsp;(B) Each plan shall contain the following:
 
@@ -82,7 +82,7 @@
 
 &emsp;(B) For each facility located in a State that does not have the authority described in subparagraph (A), the Secretary shall submit the plan required under paragraph (1) to the Administrator of the Environmental Protection Agency for review and approval, modification, or disapproval. A copy of the plan also shall be provided by the Secretary to the State in which such facility is located. In reviewing the plan, the Administrator shall consider the need for regional treatment facilities. The Administrator shall consult with the State or States in which any facility affected by the plan is located and consider public comments in making a determination on the plan. The Administrator shall approve, approve with modifications, or disapprove the plan within 6 months after receipt of the plan.
 
-&emsp;(C) Upon the approval of a plan under this paragraph by the Administrator or a State, the Administrator shall issue an order under section 6928(a) of this title, or the State shall issue an order under appropriate State authority, requiring compliance with the approved plan.
+&emsp;(C) Upon the approval of a plan under this paragraph by the Administrator or a State,the Administrator shall issue an order under section 6928(a) of this title, or the State shall issue an order under appropriate State authority, requiring compliance with the approved plan.
 
 #### (3) Public participation
 

@@ -20,3 +20,4 @@ This subchapter is referred to in sections 5876, 10134, 10243 of this title.
 - [&sect; 05849 - Other officers](%C2%A7%2005849%20-%20Other%20officers.md)
 - [&sect; 05850 - Unresolved safety issues plan](%C2%A7%2005850%20-%20Unresolved%20safety%20issues%20plan.md)
 - [&sect; 05851 - Employee protection](%C2%A7%2005851%20-%20Employee%20protection.md)
+- [&sect; 05852 - Availability of funds](%C2%A7%2005852%20-%20Availability%20of%20funds.md)

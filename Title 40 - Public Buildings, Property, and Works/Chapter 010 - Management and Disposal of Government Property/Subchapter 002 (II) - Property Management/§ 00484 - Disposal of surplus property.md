@@ -550,7 +550,7 @@ Eligibility of State and local agencies and nonprofit organizations and institut
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 475, 481, 483, 483c, 484c, 483d, 490, 512 of this title; title 8 section 1324; title 10 section 2577; title 14 section 641; title 20 section 3441; title 22 section 2358; title 28 section 604; title 36 section 493; title 38 section 8162; title 42 sections 11411, 11412; title 45 section 1212.
+This section is referred to in sections 475, 481, 483, 483c, 484c, 483d, 490, 512 of this title; title 8 section 1324; title 10 section 2577; title 14 section 641; title 20 section 3441; title 22 section 2358; title 28 section 604; title 38 section 8162; title 42 sections 11411, 11412; title 45 section 1212.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “on”.</i>
 

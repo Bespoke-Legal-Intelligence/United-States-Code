@@ -4,7 +4,7 @@
 
 The Secretary shall, by rule, within 60 days after December 22, 1975, prescribe guidelines for the preparation of a State energy conservation feasibility report. The Secretary shall invite the Governor of each State to submit, within 3 months after the effective date of such guidelines, such a report. Such report shall include—
 
-&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation the <sup>1</sup> State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
+&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
 
 &emsp;(2) a proposal by such State for the development of a State energy conservation plan to achieve such goal.
 
@@ -70,7 +70,7 @@ Each proposed State energy conservation plan may include—
 
 &emsp;(11) programs to promote energy efficiency as an integral component of economic development planning conducted by State, local, or other governmental entities or by energy utilities;
 
-&emsp;(12) in accordance with subsection (g) <sup>2</sup> of this section, programs to implement the Energy Technology Commercialization Services Program;
+&emsp;(12) in accordance with subsection (f)(2) of this section, programs to implement the Energy Technology Commercialization Services Program;
 
 &emsp;(13) programs (enlisting appropriate trade and professional organizations in the development and financing of such programs) to provide training and education (including, if appropriate, training workshops, practice manuals, and testing for each area of energy efficiency technology) to building designers and contractors involved in building design and construction or in the sale, installation, and maintenance of energy systems and equipment to promote building energy efficiency improvements;
 
@@ -116,15 +116,21 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 (5) For the purposes of this subsection, the term—
 
-&emsp;(A) “institution of higher education” has the same meaning as such term is defined in section 1141(a) of title 20;
+&emsp;(A) “institution of higher education” has the same meaning as such term is defined in section 1001 of title 20;
 
 &emsp;(B) “small business” means a private firm that does not exceed the numerical size standard promulgated by the Small Business Administration under section 632(a) of title 15 for the Standard Industrial Classification (SIC) codes designated by the Secretary of Energy; and
 
 &emsp;(C) “start-up business” means a small business which has been in existence for 5 years or less.
 
-(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841.)
+(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–388, §5(a)(8)(A), inserted “of” after “of the implementation”.
+
+Subsec. (d)(12). Pub. L. 105–388, §5(a)(8)(B), substituted “subsection (f)(2)” for “subsection (g)”.
+
+Subsec. (f)(5)(A). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 1992—Subsec. (c)(5). Pub. L. 102–486, §141(c)(1), substituted “and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and” for “; and”.
 
@@ -139,6 +145,10 @@ Subsec. (d)(5) to (13). Pub. L. 101–440, §4(a)(3), added pars. (5) to (13) an
 Subsec. (f). Pub. L. 101–440, §4(b), added subsec. (f).
 
 1978—Subsecs. (a), (b), (e). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 
@@ -163,8 +173,4 @@ State emergency energy conservation plan, see section 8512 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5511a, 6323, 6323a, 6325, 6371 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
 

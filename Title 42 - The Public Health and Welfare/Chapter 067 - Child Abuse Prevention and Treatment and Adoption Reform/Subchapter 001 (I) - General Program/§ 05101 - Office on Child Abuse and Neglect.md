@@ -48,6 +48,10 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 1975—Subsec. (c). Pub. L. 93–644 added subsec. (c).
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that: “This subtitle \[subtitle B (§§221, 222) of title II of Pub. L. 105–251, amending sections 5119a and 5119b of this title\] may be cited as the ‘Volunteers for Children Act’.”
+
 #### Short Title of 1996 Amendment
 
 Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisions set out as notes under section 5117 of this title\] may be cited as the ‘Child Abuse Prevention and Treatment Act Amendments of 1996’.”
@@ -108,7 +112,7 @@ Section 127 of Pub. L. 98–457 provided that:
 
 “(a) No provision of this Act or any amendment made by this Act \[See Short Title of 1984 Amendment note above\] is intended to affect any right or protection under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\].
 
-“(b) No provision of this Act or any amendment made by this Act may be so construed as to authorize the Secretary or any other governmental entity to establish standards prescribing specific medical treatments for specific conditions, except to the extent that such standards are authorized by other laws.
+“(b) No provision of this Act or any amendment made by this Act may be so construed as to authorize theSecretary or any other governmental entity to establish standards prescribing specific medical treatments for specific conditions, except to the extent that such standards are authorized by other laws.
 
 “(c) If the provisions of any part of this Act or any amendment made by this Act or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.”
 

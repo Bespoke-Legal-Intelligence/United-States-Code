@@ -26,7 +26,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(<i>l</i>) the term “official grade designation” means a numerical or sample grade designation, specified in the standards relating to kind, class, quality, and condition of grain, provided for in this chapter;
 
-&emsp;(m) the term “official agency” means any State or local governmental agency, or any person, designated by the Secretary pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (c) of section 79a of this title for the conduct of officialweighing or supervision of weighing (other than appeal weighing);
+&emsp;(m) the term “official agency” means any State or local governmental agency, or any person, designated by the Secretary pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing);
 
 &emsp;(n) the terms “official certificate” and “official form” mean, respectively, a certificate or other form prescribed by regulations of the Secretary under this chapter;
 
@@ -54,7 +54,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(z) the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
 
-(Aug. 11, 1916, ch. 313, pt. B, §3, 39 Stat. 483; Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 761; Oct. 21, 1976, Pub. L. 94–582, §3, 90 Stat. 2867; Sept. 29, 1977, Pub. L. 95–113, title XVI, §§1604(a), 1606(a), 91 Stat. 1026, 1030; Oct. 13, 1980, Pub. L. 96–437, §1, 94 Stat. 1870; Dec. 13, 1991, Pub. L. 102–237, title X, §1007(1), 105 Stat. 1897; Nov. 24, 1993, Pub. L. 103–156, §12(a), 107 Stat. 1528; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(1), (7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §3, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, §3, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 95–113, title XVI, §§1604(a), 1606(a), Sept. 29, 1977, 91 Stat. 1026, 1030; Pub. L. 96–437, §1, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 102–237, title X, §1007(1), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–156, §12(a), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(1), (7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 
@@ -78,11 +78,11 @@ Subsec. (z). Pub. L. 103–156, §12(a)(2), substituted “delegates of the Admi
 
 Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
-Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
+Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for theconduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
 
 Subsec. (x). Pub. L. 95–113, §1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
 
-Subsec. (y). Pub. L. 95–113, §1604(a)(4), substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and dischargedinto the elevator or conveyance represented on the weight certificate or other document”.
+Subsec. (y). Pub. L. 95–113, §1604(a)(4), substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
 
 1976—Subsec. (i). Pub. L. 94–582, §3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
 

@@ -66,7 +66,7 @@ Act of March 24, 1976, referred to in par. (1), is Pub. L. 94–241, Mar. 24, 19
 
 Section 1 of the Act of November 20, 1963, referred to in par. (1), is section 1 of Pub. L. 88–183, Nov. 20, 1963, 77 Stat. 338, which was classified to section 1701 of Title 48, and was repealed by Pub. L. 93–435, §5, Oct. 5, 1974, 88 Stat. 1212. See section 1705 of Title 48.
 
-Section 1502 of title 33, referred to in par. (5)(iii), was subsequently amended, and section 1502(10) no longerdefines the term “deepwater port”. However, such term is defined elsewhere in that section.
+Section 1502 of title 33, referred to in par. (5)(iii), was subsequently amended, and section 1502(10) no longer defines the term “deepwater port”. However, such term is defined elsewhere in that section.
 
 #### Amendments
 
@@ -144,7 +144,7 @@ The Exclusive Economic Zone of the United States is a zone contiguous to the ter
 
 Within the Exclusive Economic Zone, the United States has, to the extent permitted by international law, (a) sovereign rights for the purpose of exploring, exploiting, conserving and managing natural resources, both living and non-living, of the seabed and subsoil and the superjacent waters and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents and winds; and (b) jurisdiction with regard to the establishment and use of artificial islands, and installations and structures having economic purposes, and the protection and preservation of the marine environment.
 
-This Proclamation does not change existing United States policies concerning the continental shelf, marine mammals and fisheries, including highly migratory species of tuna which are not subject to UnitedStates jurisdiction and require international agreements for effective management.
+This Proclamation does not change existing United States policies concerning the continental shelf, marine mammals and fisheries, including highly migratory species of tuna which are not subject to United States jurisdiction and require international agreements for effective management.
 
 The United States will exercise these sovereign rights and jurisdiction in accordance with the rules of international law.
 

@@ -12,7 +12,7 @@ In carrying out its responsibilities under subsection (a) of this section, the S
 
 &emsp;(2) have authority to prescribe rules applicable to persons engaged in the production of crude oil or natural gas, or make effective by recognition, or by other appropriate means indicating a determination to rely on, accounting practices developed by the Financial Accounting Standards Board, if the Securities and Exchange Commission is assured that such practice will be observed by persons engaged in the production of crude oil or natural gas to the same extent as would result if the Securities and Exchange Commission had prescribed such practices by rule.
 
-> The Securities and Exchange Commission shall afford interested persons an opportunity to submit written comments with respect to whether it should exercise its discretion to recognize or otherwise rely on such accounting practice in lieu of prescribing such practices by rule and may extend the 24-month period referred to in subsection (a) of this section as it determines may be necessary to allow for a meaningful comment period with repect <sup>1</sup> to such determination.
+> The Securities and Exchange Commission shall afford interested persons an opportunity to submit written comments with respect to whether it should exercise its discretion to recognize or otherwise rely on such accounting practice in lieu of prescribing such practices by rule and may extend the 24-month period referred to in subsection (a) of this section as it determines may be necessary to allow for a meaningful comment period with respect to such determination.
 
 #### (c) Requirements for accounting practices
 
@@ -30,7 +30,7 @@ The Securities and Exchange Commission shall assure that accounting practices de
 
 &emsp;&emsp;(E) production,
 
-> &emsp;including geological and geophysical costs, carrying costs, unsuccessful exploratory drilling costs, intangible drilling and development costs on productive wells, the cost of unsuccessful development wells, and the cost of acquiring oil and gas reserves by means other than development. Any such calculation shall take into account disposition of capitalized costs, contractual arrangements involving special conveyance of rights and joint operations, differences between book and tax income, and prices used in the transfer of products or other assets from one person to any other person, including a person controlled by <sup>2</sup> controlling <sup>2</sup> or under common control with such person.
+> &emsp;including geological and geophysical costs, carrying costs, unsuccessful exploratory drilling costs, intangible drilling and development costs on productive wells, the cost of unsuccessful development wells, and the cost of acquiring oil and gas reserves by means other than development. Any such calculation shall take into account disposition of capitalized costs, contractual arrangements involving special conveyance of rights and joint operations, differences between book and tax income, and prices used in the transfer of products or other assets from one person to any other person, including a person controlled by, controlling, or under common control with such person.
 
 &emsp;(2) The full presentation of the financial information of persons engaged in the production of crude oil or natural gas, including—
 
@@ -40,7 +40,13 @@ The Securities and Exchange Commission shall assure that accounting practices de
 
 &emsp;(3) Such other information, projections, and relationships of collected data as shall be necessary to facilitate the compilation of such data base.
 
-(Pub. L. 94–163, title V, §503, Dec. 22, 1975, 89 Stat. 958; Pub. L. 95–91, title III, §301, title IV, §402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607.)
+(Pub. L. 94–163, title V, §503, Dec. 22, 1975, 89 Stat. 958; Pub. L. 95–91, title III, §301, title IV, §402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607; Pub. L. 105–388, §5(a)(15), Nov. 13, 1998, 112 Stat. 3479.)
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–388, §5(a)(15)(A), substituted “with respect to” for “with repect to” in concluding provisions.
+
+Subsec. (c)(1). Pub. L. 105–388, §5(a)(15)(B), substituted “, controlling,” for “controlling” in concluding provisions.
 
 #### Transfer of Functions
 
@@ -49,8 +55,4 @@ The Securities and Exchange Commission shall assure that accounting practices de
 #### Section Referred to in Other Sections
 
 This section is referred to in title 15 section 796.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “respect”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -12,7 +12,7 @@ The warrant officer grades in the Navy and the Marine Corps are:
 
 &emsp;(5) Warrant officer, W–1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 314; Dec. 5, 1991, Pub. L. 102–190, div. A, title XI, §1131(9), 105 Stat. 1506.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 314; Pub. L. 102–190, div. A, title XI, §1131(9), Dec. 5, 1991, 105 Stat. 1506.)
 
 Historical and Revision Notes
 

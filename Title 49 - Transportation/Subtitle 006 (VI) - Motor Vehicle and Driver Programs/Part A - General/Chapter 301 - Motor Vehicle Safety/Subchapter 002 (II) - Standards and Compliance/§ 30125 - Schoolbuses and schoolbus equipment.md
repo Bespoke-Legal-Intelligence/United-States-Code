@@ -76,5 +76,5 @@ In subsection (c), the text of 15:1397(a)(1)(F) is omitted as unnecessary becaus
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 30141, 30165, 31136 of this title.
+This section is referred to in sections 30141, 30165 of this title.
 

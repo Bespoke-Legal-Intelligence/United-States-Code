@@ -20,7 +20,7 @@
 
 &emsp;(D) has procedures to obtain payment for non-renal organs provided to transplant centers,
 
-&emsp;(E) has a defined service area that is of sufficient size to assure maximum effectiveness inthe procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+&emsp;(E) has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
 
 &emsp;(F) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
 
@@ -70,7 +70,7 @@
 
 &emsp;(K) assist hospitals in establishing and implementing protocols for making routine inquiries about organ donations by potential donors.
 
-(July 1, 1944, ch. 373, title III, §371, as added Oct. 19, 1984, Pub. L. 98–507, title II, §201, 98 Stat. 2342; amended Nov. 4, 1988, Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), 102 Stat. 3114, 3115; Nov. 16, 1990, Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), 104 Stat. 3283, 3285.)
+(July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1),\(2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ In general.—The Office of Technology Assessment (referred to in this section a
 
 “(2)
 
-Report.—Not later than 2 years after the date of the enactment of this Act \[Oct. 31, 1994\], the OTA shall complete the study required under paragraph (1) and prepare and submit to the Committee on Finance and the Committee on Labor and Human Resources of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives a report containing the findings of such study and the implications of such findings with respect to policies affecting organ procurement and distribution.”
+Report.—Not later than 2 years after the date of the enactment of this Act \[Oct. 31, 1994\], the OTA shall complete the study required under paragraph (1) and prepare and submit to the Committee on Finance andthe Committee on Labor and Human Resources of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce \[now Committee on Commerce\] of the House of Representatives a report containing the findings of such study and the implications of such findings with respect to policies affecting organ procurement and distribution.”
 
 #### Task Force on Organ Procurement and Transplantation
 

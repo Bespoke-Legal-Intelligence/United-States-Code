@@ -46,7 +46,7 @@
 
 #### (3) Subsequent removal
 
-&emsp;Following the completion of a sentence of confinement by an alien described in paragraph (1), or following the completion of Statecriminal proceedings which do not result in a sentence of confinement of an alien released to the custody of State authorities pursuant to paragraph (2), such an alien shall be returned to the custody of the Attorney General who shall proceed to the removal of the alien under this subchapter.
+&emsp;Following the completion of a sentence of confinement by an alien described in paragraph (1), or following the completion of State criminal proceedings which do not result in a sentence of confinement of an alien released to the custody of State authorities pursuant to paragraph (2), such an alien shall be returned to the custody of the Attorney General who shall proceed to the removal of the alien under this subchapter.
 
 #### (d) Application of certain provisions relating to escape of prisoners
 
@@ -62,7 +62,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 &emsp;An alien in the custody of the Attorney General pursuant to this subchapter shall have the right to contact an appropriate diplomatic or consular official of the alien's country of citizenship or nationality or of any country providing representation services therefore. The Attorney General shall notify the appropriate embassy, mission, or consular office of the alien's detention.
 
-(June 27, 1952, ch. 477, title V, §507, as added Apr. 24, 1996, Pub. L. 104–132, title IV, §401(a), 110 Stat. 1266; amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(Q), 110 Stat. 3009–619.)
+(June 27, 1952, ch. 477, title V, §507, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1266; amended Pub. L. 104–208, div. C, title III, §308(d)(4)(Q), Sept. 30, 1996, 110 Stat. 3009–619.)
 
 #### Amendments
 

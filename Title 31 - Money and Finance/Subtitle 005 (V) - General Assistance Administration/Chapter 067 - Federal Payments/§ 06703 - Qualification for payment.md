@@ -10,7 +10,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(3) The Gang Resistance Education and Training Program under the Act entitled “An Act making appropriations for the Treasury Department, the United States Postal Service, the Executive Office of the President, and certain Independent Agencies, for the fiscal year ending September 30, 1991, and for other purposes”, approved November 5, 1990 (Public Law 101–509).
 
-&emsp;(4) Programs under title II or IV of the Job Training Partnership Act (29 U.S.C. 1601 et seq.).
+&emsp;(4) Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.
 
 &emsp;(5) Programs under subtitle C of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.), as amended.
 
@@ -32,15 +32,13 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 &emsp;(14) The runaway and homeless youth program and the transitional living program for homeless youth under title III of the Juvenile Justice and Delinquency Prevention Act (Public Law 102–586).
 
-&emsp;(15) The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11481 et seq.).<sup>1</sup>
+&emsp;(15) After-school activities for school aged children under the Child Care and Development Block Grant Act (42 U.S.C. 9858 et seq.).
 
-&emsp;(16) After-school activities for school aged children under the Child Care and Development Block Grant Act (42 U.S.C. 9858 et seq.).
+&emsp;(16) The community-based family resource programs under section 401 <sup>1</sup> of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
 
-&emsp;(17) The community-based family resource programs under section 401 <sup>1</sup> of the Human Services Reauthorization Act of 1994 (Public Law 103–252).
+&emsp;(17) The family violence programs under the Child Abuse Prevention and Treatment Act Amendments of 1984.
 
-&emsp;(18) The family violence programs under the Child Abuse Prevention and Treatment Act Amendments of 1984.
-
-&emsp;(19) Job training programs administered by the Department of Agriculture, the Department of Defense, or the Department of Housing and Urban Development.
+&emsp;(18) Job training programs administered by the Department of Agriculture, the Department of Defense, or the Department of Housing and Urban Development.
 
 (b)
 
@@ -56,7 +54,7 @@ Alternative uses authorized.—In lieu of, or in addition to, use for an activit
 
 &emsp;(2)
 
-Notice deemed to describe consistent use.—Notice by a unit of general local government that it intends to use assistance underthis chapter for an activity other than an activity described in subsection (a) is deemed to describe an activity that is consistent with 1 or more of the purposes described in section 6701(a)(2) unless the Secretary provides to the unit, within 30 days after receipt of that notice of intent from the unit, written notice (including an explanation) that the use is not consistent with those purposes.
+Notice deemed to describe consistent use.—Notice by a unit of general local government that it intends to use assistance under this chapter for an activity other than an activity described in subsection (a) is deemed to describe an activity that is consistent with 1 or more of the purposes described in section 6701(a)(2) unless the Secretary provides to the unit, within 30 days after receipt of that notice of intent from the unit, written notice (including an explanation) that the use is not consistent with those purposes.
 
 (d)
 
@@ -74,7 +72,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
 
-&emsp;(7) after reasonable notice to the government, the government will make available to the Secretary and the Comptroller General of the United States, with the right to inspect, records the Secretary reasonably requires to review compliance with this chapter or the Comptroller General of the United States reasonably requires to review compliance and operations under section 6718(b);
+&emsp;(7) after reasonable notice to the government, the government will make available tothe Secretary and the Comptroller General of the United States, with the right to inspect, records the Secretary reasonably requires to review compliance with this chapter or the Comptroller General of the United States reasonably requires to review compliance and operations under section 6718(b);
 
 &emsp;(8) the government will make reports the Secretary reasonably requires, in addition to the annual reports required under section 6719(b); and
 
@@ -108,7 +106,13 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 &emsp;&emsp;(B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835.)
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432.)
+
+#### Amendment of Subsection (a)(4)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(19), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (a) of this section is amended by striking paragraph (4) and inserting the following:</i>
+
+(4) Programs under title I of the Workforce Investment Act of 1998.
 
 #### References in Text
 
@@ -120,7 +124,9 @@ Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 
 
 The Job Training Partnership Act, referred to in subsec. (a)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Titles II and IV of the Act are classified generally to subchapters II (§1601 et seq.) and IV (§1671 et seq.), respectively, of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The School to Work Opportunities Act, referred to in subsec. (a)(6), probably means the School-to-Work Opportunities Act of 1994, Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to chapter 69 (§6101 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 20 and Tables.
 
@@ -132,17 +138,15 @@ The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89�
 
 The National Literacy Act of 1991, referred to in subsec. (a)(11), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of Title 20 and Tables.
 
-The Carl Perkins Vocational Educational and Applied Technology Education Act, referred to in subsec. (a)(12), probably means the Carl D. Perkins Vocational and Applied Technology Education Act, Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl Perkins Vocational Educational and Applied Technology Education Act, referred to in subsec. (a)(12), probably meant the Carl D. Perkins Vocationaland Applied Technology Education Act, Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252), referred to in subsec. (a)(13), (17), probably mean sections 203 and 401 of the Human Services Amendments of 1994, Pub. L. 103–252, May 18, 1994, 108 Stat. 654, 666. Section 203 of Pub. L. 103–252 amended section 9910 of Title 42, The Public Health and Welfare. Section 401 of Pub. L. 103–252 generally amended subchapter III (§5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
+Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252), referred to in subsec. (a)(13), (16), probably mean sections 203 and 401 of the Human Services Amendments of 1994, Pub. L. 103–252, May 18, 1994, 108 Stat. 654, 666. Section 203 of Pub. L. 103–252 amended section 9910 of Title 42, The Public Health and Welfare. Section 401 of Pub. L. 103–252 generally amended subchapter III (§5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
 
-The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title III of the Act is classified generally to subchapter III (§5701 et seq.) of chapter 72 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title III of the Act is classified generally to subchapter III (§5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle F of title VII of the Act was classified generally to part F (§11481 et seq.) of subchapter VI of chapter 119 of Title 42 prior to its repeal by Pub. L. 104–235, title I, §142(b), Oct. 3, 1996, 110 Stat. 3089. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Child Care and Development Block Grant Act, referred to in subsec. (a)(16), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
-
-The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in subsec. (a)(18), probably means the Child Abuse Amendments of 1984, Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1749, as amended. Title III of the Act, relating to family violence programs, is classified generally to chapter 110 (§10401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 5101 of Title 42 and Tables.
+The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in subsec. (a)(17), probably means the Child Abuse Amendments of 1984, Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1749, as amended. Title III of the Act, relating to family violence programs, is classified generally to chapter 110 (§10401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 5101 of Title 42 and Tables.
 
 Act of March 3, 1931 (commonly known as the Davis-Bacon Act), referred to in subsec. (d)(5), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
@@ -158,7 +162,15 @@ A prior section 6703, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012; Pub. L. 9
 
 #### Amendments
 
+1998—Subsec. (a)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(27)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act (29 U.S.C. 1601 et seq.).”
+
+Subsec. (a)(15) to (19). Pub. L. 105–277, §101(f) \[title VIII, §405(c)(3)\], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: “The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11481 et seq.).”
+
 1996—Subsec. (d)(6). Pub. L. 104–316 struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(c)(3), (d)(27)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(19)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

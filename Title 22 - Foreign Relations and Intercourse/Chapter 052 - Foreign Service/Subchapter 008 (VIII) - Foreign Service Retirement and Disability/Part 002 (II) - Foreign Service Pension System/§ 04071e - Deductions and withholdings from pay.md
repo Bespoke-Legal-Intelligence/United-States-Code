@@ -18,7 +18,7 @@
 
 #### (b) Consent to deductions; discharge of claims
 
-Each participant is deemed to consent and agree to the deductions under subsection (a) of this section. Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
+Each participant is deemed to consent and agree to the deductions under subsection (a) of this section. Notwithstanding any law or regulation affecting the pay of a participant, paymentless such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
 
 #### (c) Deposit of amounts
 
@@ -32,7 +32,7 @@ Under such regulations as the Secretary of State may issue, amounts deducted und
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The employing agency shall deduct and withholdfrom basic pay of each participant a percentage of basic pay equal to 71/2 percent minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors and disability insurance).”
+1997—Subsec. (a). Pub. L. 105–33 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The employing agency shall deduct and withhold from basic pay of each participant a percentage of basic pay equal to 71/2 percent minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors and disability insurance).”
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4045, 4071a of this title.
+This section is referred to in sections 4045, 4071a of this title; title 5 section 5545a.
 

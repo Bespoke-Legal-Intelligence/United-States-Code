@@ -104,7 +104,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 #### (e) Solvents and dioxins
 
-(1) Effective twenty-four months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition of one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraph (A) through (C) of subsection (d)(1) of this section. For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human health and the environment for a hazardous waste referred to in paragraph (2) (other than a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m) of this section), unless upon application by an interested person it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
+(1) Effective twenty-four months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition of one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraph (A) through (C) of subsection (d)(1) of this section. For the purposes of this paragraph, a method of land disposal may not be determined to be protective of human healthand the environment for a hazardous waste referred to in paragraph (2) (other than a hazardous waste which has complied with the pretreatment regulations promulgated under subsection (m) of this section), unless upon application by an interested person it has been demonstrated to the Administrator, to a reasonable degree of certainty, that there will be no migration of hazardous constituents from the disposal unit or injection zone for as long as the wastes remain hazardous.
 
 (2) The hazardous wastes to which the prohibition under paragraph (1) applies are as follows—
 
@@ -118,7 +118,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (1) Not later than forty-five months after November 8, 1984, the Administrator shall complete a review of the disposal of all hazardous wastes referred to in paragraph (2) of subsection (d) of this section and in paragraph (2) of subsection (e) of this section by underground injection into deep injection wells.
 
-(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) of this section and the hazardous wastes referred to in paragraph (2) of subsection (e) of this section. The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1) of this section. In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this sectionwhich is prohibited from disposal into such wells by any State.
+(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) of this section and the hazardous wastes referred to in paragraph (2) of subsection (e) of this section. The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1) of this section. In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this section which is prohibited from disposal into such wells by any State.
 
 (3) If the Administrator fails to make a determination under paragraph (2) for any hazardous waste referred to in paragraph (2) of subsection (d) of this section or in paragraph (2) of subsection (e) of this section within forty-five months after November 8, 1984, such hazardous waste shall be prohibited from disposal into any deep injection well.
 
@@ -162,7 +162,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(ii) prior to such disposal, the generator has certified to the Administrator that such generator has investigated the availability of treatment capacity and has determined that the use of such landfill or surface impoundment is the only practical alternative to treatment currently available to the generator.
 
-> The prohibition contained in this subparagraph shall continue to apply until the Administratorpromulgates regulations or makes a determination under paragraph (5) for the waste concerned.
+> The prohibition contained in this subparagraph shall continue to apply until the Administrator promulgates regulations or makes a determination under paragraph (5) for the waste concerned.
 
 (C) If the Administrator fails to promulgate regulations, or make a determination under paragraph (5) for any hazardous waste referred to in paragraph (1) within 66 months after November 8, 1984, such hazardous waste shall be prohibited from land disposal.
 
@@ -178,7 +178,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1) of this section, or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) of this section under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
 
-(11) Nothing in paragraph (7) or (9) shall be interpreted or applied to restrict any inspection or enforcement authority under the provisions of this chapter.
+(11) Nothing in paragraph (7) or (9) shall be interpreted or applied to restrict any inspection orenforcement authority under the provisions of this chapter.
 
 #### (h) Variance from land disposal prohibitions
 
@@ -196,7 +196,7 @@ If the Administrator determines that a method of land disposal will be protectiv
 
 #### (j) Storage of hazardous waste prohibited from land disposal
 
-In the case of any hazardous waste which is prohibited from one or more methods of landdisposal under this section (or under regulations promulgated by the Administrator under any provision of this section) the storage of such hazardous waste is prohibited unless such storage is solely for the purpose of the accumulation of such quantities of hazardous waste as are necessary to facilitate proper recovery, treatment or disposal.
+In the case of any hazardous waste which is prohibited from one or more methods of land disposal under this section (or under regulations promulgated by the Administrator under any provision of this section) the storage of such hazardous waste is prohibited unless such storage is solely for the purpose of the accumulation of such quantities of hazardous waste as are necessary to facilitate proper recovery, treatment or disposal.
 
 #### (k) “Land disposal” defined
 
@@ -410,7 +410,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2297, 6921, 6925, 6926, 6935, 6936, 6939c, 6939e, 6971, 9621, 9622 of this title; title 10 section 2708; title 26 section 4662.
+This section is referred to in sections 6921, 6925, 6926, 6935, 6936, 6939c, 6939e, 6971, 9621, 9622 of this title; title 10 section 2708; title 26 section 4662.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ For the purposes of this Act, the term—
 
 &emsp;(22) “offshore facility” means any facility of any kind located in, on, or under any of the navigable waters of the United States, and any facility of any kind which is subject to the jurisdiction of the United States and is located in, on, or under any other waters, other than a vessel or a public vessel;
 
-&emsp;(23) “oil” means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act \[42 U.S.C. 9601 et seq.\];
+&emsp;(23) “oil” means oil of any kind or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include any substance which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act \[42 U.S.C. 9601 et seq.\];
 
 &emsp;(24) “onshore facility” means any facility (including, but not limited to, motor vehicles and rolling stock) of any kind located in, on, or under, any land within the United States other than submerged land;
 
@@ -106,7 +106,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;(37) “vessel” means every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water, other than a public vessel.
 
-(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486.)
+(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421.)
 
 #### References in Text
 
@@ -119,6 +119,10 @@ Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5
 The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+
+#### Amendments
+
+1998—Par. (23). Pub. L. 105–383 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “ ‘oil’ means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act;”.
 
 #### Effective Date
 

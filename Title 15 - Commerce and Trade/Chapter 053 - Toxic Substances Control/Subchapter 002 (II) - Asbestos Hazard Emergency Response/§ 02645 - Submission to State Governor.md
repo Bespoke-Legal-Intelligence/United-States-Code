@@ -34,7 +34,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (1) Request for deferral
 
-&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline under subsection (a) of this section. Upon approval of such a request, the deadline under subsection (a) of this section is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
+&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline undersubsection (a) of this section. Upon approval of such a request, the deadline under subsection (a) of this section is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
 
 &emsp;&emsp;(A) A statement—
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) in the case of any other civil action described in such paragraph, in the United States district court for the judicial district wherein the defendant is found or transacts business.
 
-> In any such civil action process may be served on a defendant in any judicial district in which a defendant resides or may be found. Subpoenasrequiring attendance of witnesses in any such action may be served in any judicial district.
+> In any such civil action process may be served on a defendant in any judicial district in which a defendant resides or may be found. Subpoenas requiring attendance of witnesses in any such action may be served in any judicial district.
 
 #### (b) Seizure
 

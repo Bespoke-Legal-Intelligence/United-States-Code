@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;(5) Generic promotion, research, and information activities for agricultural commodities, paid by the producers and others in the industry who reap the benefits of such activities, provide a unique opportunity for producers to inform consumers about a particular agricultural commodity.
 
-&emsp;(6) It is important to ensure that generic promotion, research, and information activities for agricultural commodities be carried out in an effective and coordinated manner designed to strengthen the position of the commodities in the marketplace and to maintain and expand their markets and uses. Independent evaluation of the effectiveness of the generic promotion activities of these programs will assist the Secretary of Agriculture andCongress in ensuring that these objectives are met.
+&emsp;(6) It is important to ensure that generic promotion, research, and information activities for agricultural commodities be carried out in an effective and coordinated manner designed to strengthen the position of the commodities in the marketplace and to maintain and expand their markets and uses. Independent evaluation of the effectiveness of the generic promotion activities of these programs will assist the Secretary of Agriculture and Congress in ensuring that these objectives are met.
 
 &emsp;(7) The cooperative development, financing, and implementation of a coordinated national program of research, promotion, and information regarding agricultural commodities are necessary to maintain and expand existing markets and to develop new markets for these commodities.
 

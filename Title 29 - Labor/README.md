@@ -1,5 +1,5 @@
 
-29 U.S.C.<br>United States Code, 1997 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
+29 U.S.C.<br>United States Code, 1998 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 29—LABOR
 
@@ -32,12 +32,14 @@
 | [<b>21.</b>](Chapter%20021%20-%20Helen%20Keller%20National%20Center%20for%20Youths%20and%20Adults%20Who%20Are%20Deaf-Blind/README.md) | <b>Helen Keller National Center for Youths and Adults Who Are Deaf-Blind</b> | <b>1901</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Employee%20Polygraph%20Protection/README.md) | <b>Employee Polygraph Protection</b> | <b>2001</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Worker%20Adjustment%20and%20Retraining%20Notification/README.md) | <b>Worker Adjustment and Retraining Notification</b> | <b>2101</b> |
-| [<b>24.</b>](Chapter%20024%20-%20Technology%20Related%20Assistance%20for%20Individuals%20with%20Disabilities/README.md) | <b>Technology Related Assistance for Individuals With Disabilities</b> | <b>2201</b> |
-| [<b>25.</b>](Chapter%20025%20-%20Displaced%20Homemakers%20Self-Sufficiency%20Assistance/README.md) | <b>Displaced Homemakers Self-Sufficiency Assistance</b> | <b>2301</b> |
-| [<b>26.</b>](Chapter%20026%20-%20National%20Center%20for%20the%20Workplace/README.md) | <b>National Center for the Workplace</b> | <b>2401</b> |
+| [<b>24.</b>](Chapter%20024%20-%20Technology%20Related%20Assistance%20for%20Individuals%20with%20Disabilities/README.md) | <b>Technology Related Assistance for Individuals With Disabilities \[Repealed\]</b> | <b>2201</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Displaced%20Homemakers%20Self-Sufficiency%20Assistance/README.md) | <b>Displaced Homemakers Self-Sufficiency Assistance \[Repealed\]</b> | <b>2301</b> |
+| [<b>26.</b>](Chapter%20026%20-%20National%20Center%20for%20the%20Workplace/README.md) | <b>National Center for the Workplace \[Repealed\]</b> | <b>2401</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Women%20in%20Apprenticeship%20and%20Nontraditional%20Occupations/README.md) | <b>Women in Apprenticeship and Nontraditional Occupations</b> | <b>2501</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Family%20and%20Medical%20Leave/README.md) | <b>Family and Medical Leave</b> | <b>2601</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Workers%20Technology%20Skill%20Development/README.md) | <b>Workers Technology Skill Development</b> | <b>2701</b> |
+| [<b>30.</b>](Chapter%20030%20-%20Workforce%20Investment%20Systems/README.md) | <b>Workforce Investment Systems</b> | <b>2801</b> |
+| [<b>31.</b>](Chapter%20031%20-%20Assistive%20Technology%20for%20Individuals%20with%20Disabilities/README.md) | <b>Assistive Technology for Individuals With Disabilities</b> | <b>3001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -79,3 +81,5 @@
 - [Chapter 027 - Women in Apprenticeship and Nontraditional Occupations](Chapter%20027%20-%20Women%20in%20Apprenticeship%20and%20Nontraditional%20Occupations/README.md)
 - [Chapter 028 - Family and Medical Leave](Chapter%20028%20-%20Family%20and%20Medical%20Leave/README.md)
 - [Chapter 029 - Workers Technology Skill Development](Chapter%20029%20-%20Workers%20Technology%20Skill%20Development/README.md)
+- [Chapter 030 - Workforce Investment Systems](Chapter%20030%20-%20Workforce%20Investment%20Systems/README.md)
+- [Chapter 031 - Assistive Technology for Individuals with Disabilities](Chapter%20031%20-%20Assistive%20Technology%20for%20Individuals%20with%20Disabilities/README.md)

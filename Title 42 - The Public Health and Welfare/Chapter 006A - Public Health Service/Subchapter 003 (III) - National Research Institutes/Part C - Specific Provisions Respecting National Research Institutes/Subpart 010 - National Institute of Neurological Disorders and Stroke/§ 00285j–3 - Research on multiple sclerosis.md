@@ -2,5 +2,5 @@
 
 The Director of the Institute shall conduct and support research on multiple sclerosis, especially research on effects of genetics and hormonal changes on the progress of the disease.
 
-(July 1, 1944, ch. 373, title IV, §460, as added June 10, 1993, Pub. L. 103–43, title XII, §1201, 107 Stat. 169.)
+(July 1, 1944, ch. 373, title IV, §460, as added Pub. L. 103–43, title XII, §1201, June 10, 1993, 107 Stat. 169.)
 

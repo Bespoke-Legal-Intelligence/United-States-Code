@@ -2,7 +2,7 @@
 
 No merchandise or baggage entered for transportation under bond or for exportation with the benefit of drawback, or other merchandise or baggage required to be laden under customs supervision, shall be laden on any vessel or vehicle at night or on Sunday or a holiday, except under special license therefor to be issued by the appropriate customs officer under the same conditions and limitations as pertain to the unlading of imported merchandise or merchandise being transported in bond.
 
-(June 17, 1930, ch. 497, title IV, §452, 46 Stat. 715; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287.)
+(June 17, 1930, ch. 497, title IV, §452, 46 Stat. 715; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287.)
 
 #### Prior Provisions
 

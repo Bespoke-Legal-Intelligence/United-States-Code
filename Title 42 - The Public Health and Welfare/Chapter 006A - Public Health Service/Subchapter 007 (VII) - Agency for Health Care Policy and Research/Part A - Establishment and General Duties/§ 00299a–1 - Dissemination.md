@@ -28,7 +28,7 @@ The Administrator and the Director of the National Library of Medicine shall ent
 
 The Administrator and the Director of the National Library of Medicine shall enter into an agreement providing for the implementation of section 286d of this title.
 
-(July 1, 1944, ch. 373, title IX, §903, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(a), 103 Stat. 2190; amended Oct. 13, 1992, Pub. L. 102–410, §3, 106 Stat. 2094; June 10, 1993, Pub. L. 103–43, title XIV, §1422(a), 107 Stat. 172.)
+(July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2190; amended Pub. L. 102–410, §3, Oct. 13, 1992, 106 Stat. 2094; Pub. L. 103–43, title XIV, §1422(a), June 10, 1993, 107 Stat. 172.)
 
 #### Prior Provisions
 

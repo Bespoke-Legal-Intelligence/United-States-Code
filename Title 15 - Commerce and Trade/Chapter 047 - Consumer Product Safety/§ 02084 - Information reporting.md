@@ -22,7 +22,7 @@ The 24-month periods referred to in subsection (a) of this section are the 24-mo
 
 &emsp;(E) in <sup>1</sup> the case of a judgment in favor of the plaintiff, the name of the civil action, the number assigned the civil action, and the court in which the civil action was filed.
 
-(2) A manufacturer furnishing the report required by paragraph (1) may include (A) a statement as to whether any judgment in favor of the plaintiff is under appeal or is expected to be appealed or (B) any other information which the manufacturer chooses to provide. A manufacturer reporting to the Commission under subsection (a) of this section need not admit or may specifically deny that the information it submits reasonably supports the conclusion that itsconsumer product caused a death or grievous bodily injury.
+(2) A manufacturer furnishing the report required by paragraph (1) may include (A) a statement as to whether any judgment in favor of the plaintiff is under appeal or is expected to be appealed or (B) any other information which the manufacturer chooses to provide. A manufacturer reporting to the Commission under subsection (a) of this section need not admit or may specifically deny that the information it submits reasonably supports the conclusion that its consumer product caused a death or grievous bodily injury.
 
 (3) No statement of the amount paid by the manufacturer in a final settlement shall be required as part of the report furnished under subsection (a) of this section, nor shall such a statement of settlement amount be required under any other section of this chapter.
 

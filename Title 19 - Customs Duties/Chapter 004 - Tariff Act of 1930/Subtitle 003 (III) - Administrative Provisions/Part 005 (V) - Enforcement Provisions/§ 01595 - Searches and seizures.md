@@ -8,7 +8,7 @@
 
 &emsp;(B) any property which is subject to forfeiture under any provision of law enforced or administered by the United States Customs Service; or
 
-&emsp;(C) any document, container, wrapping, or other article which is evidence of a violationof section 1592 of this title involving fraud or of any other law enforced or administered by the United States Customs Service,
+&emsp;(C) any document, container, wrapping, or other article which is evidence of a violation of section 1592 of this title involving fraud or of any other law enforced or administered by the United States Customs Service,
 
 > is in any dwelling house, store, or other building or place, he may make application, under oath, to any justice of the peace, to any municipal, county, State, or Federal judge, or to any Federal magistrate judge, and shall thereupon be entitled to a warrant to enter such dwelling house in the daytime only, or such store or other place at night or by day, and to search for and seize such merchandise or other article described in the warrant.
 
@@ -18,7 +18,7 @@
 
 Any person authorized by this chapter to make searches and seizures, or any person assisting him or acting under his directions, may, if deemed necessary by him or them, enter into or upon or pass through the lands, inclosures, and buildings, other than the dwelling house, of any person whomsoever, in the discharge of his official duties.
 
-(June 17, 1930, ch. 497, title IV, §595, 46 Stat. 752; June 2, 1970, Pub. L. 91–271, title III, §301(y), 84 Stat. 290; Oct. 27, 1986, Pub. L. 99–570, title III, §3122, 100 Stat. 3207–87; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117.)
+(June 17, 1930, ch. 497, title IV, §595, 46 Stat. 752; Pub. L. 91–271, title III, §301(y), June 2, 1970, 84 Stat. 290; Pub. L. 99–570, title III, §3122, Oct. 27, 1986, 100 Stat. 3207–87; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Prior Provisions
 
@@ -32,7 +32,7 @@ R.S. §3092, provided that no warrant for such seizure should be issued unless t
 
 R.S. §3093, provided that books and papers so seized should be subject to the order of the judge, who should allow the examination of the same by the collector or any officer authorized by him, and authorized the retention by the judge of such books and papers as he might deem necessary.
 
-The provisions of act July 18, 1866, §39, and of act Mar. 2, 1867, §2, which were incorporated into these three sections, were repealed by the Anti-Moiety Act of June 22, 1874, ch. 391, §1, 18 Stat. 186. These sections were repealed, therefore, by that act, it having effect as subsequent to the Revised Statutes, and as repealing any portion of the revision inconsistent therewith, by virtue of R.S. §5601.
+The provisions of act July 18, 1866, §39, and of act Mar. 2, 1867, §2, which were incorporated into these three sections, were repealed by the Anti-Moiety Act ofJune 22, 1874, ch. 391, §1, 18 Stat. 186. These sections were repealed, therefore, by that act, it having effect as subsequent to the Revised Statutes, and as repealing any portion of the revision inconsistent therewith, by virtue of R.S. §5601.
 
 #### Amendments
 

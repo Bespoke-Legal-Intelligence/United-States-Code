@@ -18,7 +18,7 @@ Payments pursuant to subsection (c) of this section shall be made in advance on 
 
 #### (e) Reallotments
 
-The amount of any allotment to a State under subsection (b) of this section for any fiscal year which the State certifies to the Secretary will not be required for carrying out the purposes of this section in such State shall be available for reallotment from time to time, on such dates as the Secretary may fix, to other States which the Secretary determines have need in carrying out such purposes for sums in excess of those previously allotted to them under this section and will be able to use such excess amounts during such fiscal year; such reallotments to be made on the basis provided in subsection (b) of thissection for the initial allotments to the States. Any amount so reallotted to a State shall be deemed part of its allotment under such subsection.
+The amount of any allotment to a State under subsection (b) of this section for any fiscal year which the State certifies to the Secretary will not be required for carrying out the purposes of this section in such State shall be available for reallotment from time to time, on such dates as the Secretary may fix, to other States which the Secretary determines have need in carrying out such purposes for sums in excess of those previously allotted to them under this section and will be able to use such excess amounts during such fiscal year; such reallotments to be made on the basis provided in subsection (b) of this section for the initial allotments to the States. Any amount so reallotted to a State shall be deemed part of its allotment under such subsection.
 
 #### (f) Direct grants to certain agencies and institutions
 
@@ -28,7 +28,7 @@ The amount of any allotment to a State under subsection (b) of this section for 
 
 (3) The Secretary may, to the extent he finds such action to be necessary, prescribe requirements to assure that any individual will repay the amount of his fellowship or traineeship received under this subsection to the extent such individual fails to serve, for the period prescribed by the Secretary, with a State or political subdivision thereof, or with the Federal Government, in connection with administration of any State or local public assistance program. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to the extent that requirement of such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the public welfare programs established by this chapter.
 
-(Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851; amended May 8, 1961, Pub. L. 87–31, §3, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §123 (a)–(c), 76 Stat. 192.)
+(Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851; amended Pub. L. 87–31, §3, May 8, 1961, 75 Stat. 77; Pub. L. 87–543, title I, §123 (a)–(c), July 25, 1962, 76 Stat. 192.)
 
 #### Amendments
 

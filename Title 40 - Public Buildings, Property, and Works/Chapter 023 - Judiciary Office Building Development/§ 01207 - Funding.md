@@ -6,7 +6,7 @@ There is established in the Treasury of the United States a separate account. Su
 
 #### (b) Unexpended balances of funds
 
-The unexpended balance of funds appropriated by the Urgent Supplemental Appropriations Act, 1986 under the heading “Study of Construction of Office Building” (100 Stat. 717) are transferred to the Architect on October 7, 1988. Such unexpended balance shall be available for design review, construction inspection, contract administration, and such other project related costs under this chapter as the Architect may deem appropriate.
+The unexpended balance of funds appropriated by the Urgent Supplemental AppropriationsAct, 1986 under the heading “Study of Construction of Office Building” (100 Stat. 717) are transferred to the Architect on October 7, 1988. Such unexpended balance shall be available for design review, construction inspection, contract administration, and such other project related costs under this chapter as the Architect may deem appropriate.
 
 (Pub. L. 100–480, §9, Oct. 7, 1988, 102 Stat. 2334; Pub. L. 102–392, title III, §311(b), Oct. 6, 1992, 106 Stat. 1723.)
 

@@ -8,7 +8,7 @@ The Secretary of Energy shall conduct a scholarship and fellowship program for t
 
 To be eligible to participate in the scholarship and fellowship program, an individual must—
 
-&emsp;(1) be accepted for enrollment or be currently enrolled as a full-time student at an institution of higher education (as defined in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a));
+&emsp;(1) be accepted for enrollment or be currently enrolled as a full-time student at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\]);
 
 &emsp;(2) be pursuing a program of education that leads to an appropriate higher education degree in a qualifying field of study, as determined by the Secretary;
 
@@ -66,7 +66,7 @@ Not later than January 1, 1993, the Secretary of Energy shall submit to Congress
 
 Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,000,000 may be used for the purpose of carrying out this section.
 
-(Pub. L. 102–190, div. C, title XXXI, §3132, Dec. 5, 1991, 105 Stat. 1572; Pub. L. 103–337, div. C, title XXXI, §3156(b)(1), Oct. 5, 1994, 108 Stat. 3092.)
+(Pub. L. 102–190, div. C, title XXXI, §3132, Dec. 5, 1991, 105 Stat. 1572; Pub. L. 103–337, div. C, title XXXI, §3156(b)(1), Oct. 5, 1994, 108 Stat. 3092; Pub. L. 105–244, title I, §102(a)(13)(F), Oct. 7, 1998, 112 Stat. 1620.)
 
 #### References in Text
 
@@ -80,7 +80,13 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
+1998—Subsec. (b)(1). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
+
 1994—Subsec. (a). Pub. L. 103–337 inserted at end “The scholarship and fellowship program shall be known as the ‘Marilyn Lloyd Scholarship and Fellowship Program’.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1994 Amendment
 

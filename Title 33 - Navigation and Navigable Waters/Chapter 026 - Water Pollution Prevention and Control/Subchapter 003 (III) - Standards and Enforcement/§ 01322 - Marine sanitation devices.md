@@ -82,7 +82,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term “houseboat” means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
 
-(2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph\(1) of this subsection, become effective with respect to such vessel on the date of such compliance.
+(2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
 
 (3) After the effective date of the initial standards and regulations promulgated under this section, if any State determines that the protection and enhancement of the quality of some or all of the waters within such State require greater environmental protection, such State may completely prohibit the discharge from all vessels of any sewage, whether treated or not, into such waters, except that no such prohibition shall apply until the Administrator determines that adequate facilities for the safe and sanitary removal and treatment of sewage from all vessels are reasonably available for such water to which such prohibition would apply. Upon application of the State, the Administrator shall make such determination within 90 days of the date of such application.
 
@@ -116,7 +116,7 @@ The district courts of the United States shall have jurisdictions to restrain vi
 
 #### (j) Penalties
 
-Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) ofthis section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 #### (k) Enforcement authority
 
@@ -250,13 +250,13 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (ii) Documentation
 
-&emsp;&emsp;&emsp;To the extent that a prohibition under this paragraph would apply to vessels of the Armed Forces and not to other typesof vessels, the State shall document the technical or environmental basis for the distinction.
+&emsp;&emsp;&emsp;To the extent that a prohibition under this paragraph would apply to vessels of the Armed Forces and not to other types of vessels, the State shall document the technical or environmental basis for the distinction.
 
 #### (B) Prohibition by the Administrator
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon application of a State, the Administrator shall by regulation prohibit the discharge from a vessel of 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters covered by the application if the Administrator determines that—
+&emsp;&emsp;&emsp;Upon application of a State, the Administrator shall by regulation prohibit thedischarge from a vessel of 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters covered by the application if the Administrator determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the protection and enhancement of the quality of the specified waters within the State require a prohibition of the discharge into the waters;
 
@@ -454,7 +454,7 @@ Grant Program.—
 
 &emsp;“(1)
 
-Matching grants.—The Secretary of the Interior may obligate an amount not to exceed theamount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
+Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
 
 &emsp;&emsp;“(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
 
@@ -556,7 +556,7 @@ Notification.—Not later than one month after the guidance issued under subsect
 
 &emsp;&emsp;“(B) leased, rented, or chartered to another for the latter's pleasure; and
 
-&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portabletoilets carried on vessels, and does not include lavatories.”
+&emsp;“(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
 
 #### Section Referred to in Other Sections
 

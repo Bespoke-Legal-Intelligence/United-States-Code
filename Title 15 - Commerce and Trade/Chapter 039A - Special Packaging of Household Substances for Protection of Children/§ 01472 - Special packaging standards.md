@@ -40,7 +40,7 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary”, “it” substituted for “he”, and “its” substituted for “his” wherever appearing in text pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary”, “it” substituted for “he”, and “its” substituted for “his” wherever appearing in text pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of thistitle and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 #### Section Referred to in Other Sections
 

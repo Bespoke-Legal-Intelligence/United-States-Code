@@ -14,7 +14,7 @@
 
 &emsp;(2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2235; renumbered §18235 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (7), 108 Stat. 3010; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(2), 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2235; renumbered §18235 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (7), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
 
 Historical and Revision Notes
 
@@ -45,6 +45,10 @@ In subsection (b), the words “United States” are substituted for the words �
 1994—Pub. L. 103–337, §1664(b)(2), renumbered section 2235 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 103–337, §1664(b)(7), substituted “18233” for “2233(a)(1)”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1994 Amendment
 

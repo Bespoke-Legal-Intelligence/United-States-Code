@@ -40,7 +40,7 @@
 
 &emsp;(x) Conduct of investigations relating to protection of foreign officials and diplomatic personnel and foreign missions in the United States, suitability for employment, employee security, illegal passport and visa issuance or use, and other investigations, as authorized by law.
 
-&emsp;(xi) Carrying out the rewards program for information concerning international terrorism authorized by section 2708(a) of this title.
+&emsp;(xi) Carrying out the rewards program for information concerning international terrorism authorized by section 2708(a) <sup>1</sup> of this title.
 
 &emsp;(xii) Performance of other security, investigative, and protective matters as authorized by law.
 
@@ -80,9 +80,9 @@ The Secretary of State shall develop and implement policies and programs to prov
 
 The Secretary of State shall—
 
-&emsp;(1) have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) <sup>1</sup>
+&emsp;(1) have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) <sup>2</sup>
 
-&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>2</sup> General, Agency for International Development).
+&emsp;(2) establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector <sup>3</sup> General, Agency for International Development).
 
 #### (d) Federal agency
 
@@ -91,6 +91,8 @@ As used in this subchapter and subchapter III of this chapter, the term “Feder
 (Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300.)
 
 #### References in Text
+
+Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -118,7 +120,7 @@ Pub. L. 100–204, title I, §155, Dec. 22, 1987, 101 Stat. 1353, provided that:
 
 “(a)
 
-Special Security Program.—The Secretary of State shall develop and implement, within three months after the date of enactment of this Act \[Dec. 22, 1987\], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performingguard functions at those posts. Such program shall include—
+Special Security Program.—The Secretary of State shall develop and implement, within three months after the date of enactment of this Act \[Dec. 22, 1987\], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performing guard functions at those posts. Such program shall include—
 
 &emsp;“(1) selection criteria and screening to ensure suitability for assignment to high intelligence threat countries;
 
@@ -142,9 +144,11 @@ Definition.—As used in subsection (a), the term ‘high intelligence threat co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4805 of this title; title 15 section 4721; title 49 section 44934.
+This section is referred to in sections 2151aa, 4805 of this title; title 15 section 4721; title 49 section 44934.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “; and”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “; and”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
 

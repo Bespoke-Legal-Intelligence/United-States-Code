@@ -20,7 +20,7 @@ Whenever any department, agency, or instrumentality of the United States or of a
 
 &emsp;(2) would be prohibited by section 9 of title 13;
 
-> shall not be transmitted to the Central Authority. The head of such department, agency, or instrumentality shall, immediately upon completion of the requested search, notify the Central Authority of the results of the search, and whether an exception set forth in paragraph (1) or (2) applies. In the event that the United States Central Authority receives information and the appropriate Federal or State department, agency, or instrumentality thereafter notifies the Central Authority that an exception set forth in paragraph (1) or (2) applies to that information, the Central Authority may not disclose that information under subsection (a) of this section.
+> shall not be transmitted to the Central Authority. The head of such department, agency, or instrumentality shall, immediately upon completion of the requested search, notify the Central Authority of the results of the search, andwhether an exception set forth in paragraph (1) or (2) applies. In the event that the United States Central Authority receives information and the appropriate Federal or State department, agency, or instrumentality thereafter notifies the Central Authority that an exception set forth in paragraph (1) or (2) applies to that information, the Central Authority may not disclose that information under subsection (a) of this section.
 
 #### (d) Information available from Parent Locator Service
 

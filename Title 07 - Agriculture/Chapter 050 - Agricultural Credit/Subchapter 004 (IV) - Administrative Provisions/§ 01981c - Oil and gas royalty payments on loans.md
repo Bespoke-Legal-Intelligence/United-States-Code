@@ -1,6 +1,6 @@
 ### §1981c. Oil and gas royalty payments on loans
 
-(a) The Secretary shall permit a borrower of a loan made or insured under this chapter tomake a prospective payment on such loan with proceeds from—
+(a) The Secretary shall permit a borrower of a loan made or insured under this chapter to make a prospective payment on such loan with proceeds from—
 
 &emsp;(1) the leasing of oil, gas, or other mineral rights to real property used to secure such loan; or
 

@@ -36,7 +36,7 @@ Director of a Hospital, Domiciliary, Center, or Outpatient Clinic.—To be eligi
 
 Podiatrist.—To be eligible to be appointed to a podiatrist position, a person must—
 
-&emsp;(A) hold the degree of doctor of podiatric medicine, or its equivalent, from a school ofpodiatric medicine approved by the Secretary, and
+&emsp;(A) hold the degree of doctor of podiatric medicine, or its equivalent, from a school of podiatric medicine approved by the Secretary, and
 
 &emsp;(B) be licensed to practice podiatry in a State.
 
@@ -102,5 +102,5 @@ Section 4(a)(3) of Pub. L. 95–201 provided that: “Notwithstanding any other 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7407, 7604 of this title.
+This section is referred to in sections 7407, 7604, 7682 of this title.
 

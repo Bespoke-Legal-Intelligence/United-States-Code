@@ -12,7 +12,7 @@
 
 #### (b) Criminal penalty for violation of prohibition
 
-Any person who violates any prohibition established in subsection (a) of this section shallfor each violation be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.
+Any person who violates any prohibition established in subsection (a) of this section shall for each violation be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.
 
-(July 1, 1944, ch. 373, title XIX, §1946, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 406.)
+(July 1, 1944, ch. 373, title XIX, §1946, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 406.)
 

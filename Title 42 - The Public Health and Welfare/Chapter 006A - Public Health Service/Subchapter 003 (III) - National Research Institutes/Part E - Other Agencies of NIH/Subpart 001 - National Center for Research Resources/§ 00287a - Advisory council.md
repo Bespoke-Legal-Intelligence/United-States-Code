@@ -66,7 +66,7 @@ This section does not terminate the membership of the advisory council for the C
 
 &emsp;(3) the Director of the Center shall perform for such advisory council the functions prescribed by this section.
 
-(July 1, 1944, ch. 373, title IV, §480, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 864; amended Aug. 18, 1990, Pub. L. 101–381, title I, §102(3), 104 Stat. 586; Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985; June 10, 1993, Pub. L. 103–43, title XV, §1501(2)(C), (D), title XX, §§2008(b)(12), 2010(b)(4), 107 Stat. 172, 173, 211, 214.)
+(July 1, 1944, ch. 373, title IV, §480, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 864; amended Pub. L. 101–381, title I, §102(3), Aug. 18, 1990, 104Stat. 586; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XV, §1501(2)(C), (D), title XX, §§2008(b)(12), 2010(b)(4), June 10, 1993, 107 Stat. 172, 173, 211, 214.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@ As used in this subpart:
 
 #### (6) Station
 
-&emsp;The term “station” means the portion of a property located appurtenant to a right-of-way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas, ticketing areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but such term does not include flag stops.
+&emsp;The term “station” means the portion of a property located appurtenant to a right-of-way on which intercity or commuter rail transportation is operated, where such portion is used by the general public and is related to the provision of such transportation, including passenger platforms, designated waiting areas,ticketing areas, restrooms, and, where a public entity providing rail transportation owns the property, concession areas, to the extent that such public entity exercises control over the selection, design, construction, or alteration of the property, but such term does not include flag stops.
 
 (Pub. L. 101–336, title II, §241, July 26, 1990, 104 Stat. 346; Pub. L. 104–287, §6(k), Oct. 11, 1996, 110 Stat. 3400.)
 

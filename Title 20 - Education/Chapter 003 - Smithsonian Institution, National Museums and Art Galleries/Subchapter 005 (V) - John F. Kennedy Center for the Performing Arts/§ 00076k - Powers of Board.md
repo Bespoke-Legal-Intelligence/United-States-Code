@@ -26,7 +26,7 @@ Not later than October 1, 1995, the property, liabilities, contracts, records, a
 
 #### (1) In general
 
-&emsp;Employees of the National Park Service assigned to duties related to the functions being undertaken by the Board shall be transferredwith their functions to the Board not later than October 1, 1995.
+&emsp;Employees of the National Park Service assigned to duties related to the functions being undertaken by the Board shall be transferred with their functions to the Board not later than October 1, 1995.
 
 #### (2) Rights and benefits
 
@@ -58,7 +58,7 @@ The actions of the Board relating to performing arts and to payments made or dir
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of the National Labor Relations Act (29 U.S.C. 151 et seq.) and the Labor-Management Relations Act, 1947 (29 U.S.C. 141 et seq.)—
+&emsp;&emsp;For the purposes of the National Labor Relations Act (29 U.S.C. 151 et seq.) and theLabor-Management Relations Act, 1947 (29 U.S.C. 141 et seq.)—
 
 &emsp;&emsp;&emsp;(i) each theatrical employee shall be considered to be an “employee” within the meaning of section 2(3) of the National Labor Relations Act (29 U.S.C. 152(3)); and
 

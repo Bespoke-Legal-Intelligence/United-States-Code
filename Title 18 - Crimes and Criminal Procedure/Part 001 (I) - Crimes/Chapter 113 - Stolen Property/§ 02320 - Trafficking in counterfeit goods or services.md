@@ -28,15 +28,13 @@
 
 &emsp;&emsp;&emsp;(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
 
-&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 110 of the Olympic Charter Act;
+&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220706 of title 36;
 
-> &emsp;but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use themark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
+> &emsp;but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture orproduction in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
-&emsp;(2) the term “traffic” means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of;
+&emsp;(2) the term “traffic” means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and
 
-&emsp;(3) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.); and
-
-&emsp;(4) the term “Olympic Charter Act” means the Act entitled “An Act to incorporate the United States Olympic Association”, approved September 21, 1950 (36 U.S.C. 371 et seq.).
+&emsp;(3) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
 
 (f) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28, an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of title 18), criminal infringement of copyrights (as defined in section 2319 of title 18), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of title 18), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of title 18):
 
@@ -48,15 +46,13 @@
 
 &emsp;(4) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
 
-(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679.)
+(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244.)
 
 #### References in Text
 
 The Lanham Act, referred to in subsecs. (c) and (e)(1)(B), (3), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
-
-The Olympic Charter Act, referred to in subsec. (e)(4), is act Sept. 21, 1950, ch. 975, 64 Stat. 899, as amended, which is classified generally to chapter 17 (§371 et seq.) of Title 36, Patriotic Societies and Observances. Section 110 of the Olympic Charter Act is classified to section 380 of Title 36. For complete classification of this Act to the Code, see Tables.
 
 The date of enactment of this subsection, referred to in subsec. (f), is date of enactment of Pub. L. 104–153, which was approved July 2, 1996.
 
@@ -66,6 +62,14 @@ Another section 2320 was renumbered section 2321 of this title.
 
 #### Amendments
 
+1998—Subsec. (e)(1)(B). Pub. L. 105–225, §4(b)(1), as amended by Pub. L. 105–354, §2(c)(1), substituted “section 220706 of title 36” for “section 110 of the Olympic Charter Act”.
+
+Subsec. (e)(2). Pub. L. 105–225, §4(b)(2), as amended by Pub. L. 105–354, §2(c)(1), inserted “and” after semicolon at end.
+
+Subsec. (e)(3). Pub. L. 105–225, §4(b)(3), as amended by Pub. L. 105–354, §2(c)(1), substituted a period for “; and” at end.
+
+Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, §2(c)(1), struck out par. (4) which read as follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 371 et seq.).”
+
 1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 1996—Subsec. (e). Pub. L. 104–153 added subsec. (e).
@@ -73,6 +77,10 @@ Another section 2320 was renumbered section 2321 of this title.
 1994—Pub. L. 103–322, §330016(1)(U), which directed the amendment of this section by striking “not more than $250,000” and inserting “under this title”, could not be executed because the phrase “not more than $250,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §320104(a). See below.
 
 Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted “$2,000,000 or imprisoned not more than 10 years” for “$250,000 or imprisoned not more than five years” and “$5,000,000” for “$1,000,000”, and in second sentence, substituted “$5,000,000 or imprisoned not more than 20 years” for “$1,000,000 or imprisoned not more than fifteen years” and “$15,000,000” for “$5,000,000”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–354, §2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amendment made by section 2(c) is effective Aug. 12, 1998.
 
 #### Section Referred to in Other Sections
 

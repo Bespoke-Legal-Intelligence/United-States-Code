@@ -1,6 +1,6 @@
 ### §490a–1. Use of resources of Federal Buildings Fund to repay GSA borrowings from Federal Financing Bank
 
-Notwithstanding any other provision of law, the Administrator of General Services is on andafter November 3, 1989, authorized to transfer from the resources of the Federal Buildings Fund, in accordance with such rules and procedures as may be established by the Office of Management and Budget and the Department of the Treasury, such amounts as are necessary to repay the principal amount of General Services Administration borrowings from the Federal Financing Bank when such borrowings are legal obligations of the Fund.
+Notwithstanding any other provision of law, the Administrator of General Services is on and after November 3, 1989, authorized to transfer from the resources of the Federal Buildings Fund, in accordance with such rules and procedures as may be established by the Office of Management and Budget and the Department of the Treasury, such amounts as are necessary to repay the principal amount of General Services Administration borrowings from the Federal Financing Bank when such borrowings are legal obligations of the Fund.
 
 (Pub. L. 101–136, title IV, §7, Nov. 3, 1989, 103 Stat. 803.)
 

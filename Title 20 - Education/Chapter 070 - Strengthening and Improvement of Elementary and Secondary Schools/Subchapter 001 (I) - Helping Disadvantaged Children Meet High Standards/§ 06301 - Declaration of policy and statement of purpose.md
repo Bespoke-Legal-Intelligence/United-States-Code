@@ -84,6 +84,12 @@ Section 3(a)(1) of Pub. L. 103–382 provided that:
 
 “(B) Title VIII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], as amended by title I of this Act, shall take effect on the date of the enactment of this Act \[Oct. 20, 1994\].”
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–278, §1, Oct. 22, 1998, 112 Stat. 2682, provided that: “This Act \[enacting sections 8065a to 8065d of this title and amending sections 7331, 7351, 8061 to 8065, 8066, 8067, and 8801 of this title\] may be cited as the ‘Charter School Expansion Act of 1998’.”
+
+Pub. L. 105–277, div. D, title I, §121, Oct. 21, 1998, 112 Stat. 2681–756, provided that: “This subtitle \[subtitle C (§§121, 122) of title I of Pub. L. 105–277, enacting section 7144 of this title\] may be cited as the ‘Drug-Free Schools Quality Assurance Act’.”
+
 #### Short Title of 1994 Amendments
 
 Section 1 of Pub. L. 103–382 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Improving America's Schools Act of 1994’.”
@@ -153,6 +159,12 @@ Section 3(b) of Pub. L. 103–382 provided that: “Notwithstanding any other pr
 #### Budget Compliance
 
 Section 561 of Pub. L. 103–382 provided that: “Any authority or requirement to make funds available under this Act \[see Tables for classification\] shall be effective only to the extent provided in appropriations Acts.”
+
+Pub. L. 100–297, title VI, §6302, Apr. 28, 1988, 102 Stat. 431, provided that: “Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act \[see Tables for classification\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.”
+
+#### Definitions
+
+Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: “Except as otherwise provided, for the purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\].”
 
 #### Section Referred to in Other Sections
 

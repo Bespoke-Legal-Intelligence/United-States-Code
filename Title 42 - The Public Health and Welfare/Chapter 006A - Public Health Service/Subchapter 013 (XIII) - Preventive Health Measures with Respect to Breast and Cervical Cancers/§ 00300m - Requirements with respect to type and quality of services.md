@@ -24,7 +24,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 The Secretary may not make a grant under section 300k of this title unless the State involved agrees that the State will, in accordance with applicable law, assure the quality of screening procedures conducted pursuant to such section.
 
-(July 1, 1944, ch. 373, title XV, §1503, as added Aug. 10, 1990, Pub. L. 101–354, §2, 104 Stat. 410; amended Dec. 14, 1993, Pub. L. 103–183, title I, §101(c)(1), 107 Stat. 2227.)
+(July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410; amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227.)
 
 #### Prior Provisions
 
@@ -32,7 +32,7 @@ Prior sections 300m to 300m–6 were repealed by Pub. L. 99–660, title VII, §
 
 Section 300m, act July 1, 1944, ch. 373, title XV, §1521, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2242; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(<i>l</i>), (m), 91 Stat. 385; Dec. 19, 1977, Pub. L. 95–215, §6(b), 91 Stat. 1507; July 16, 1979, Pub. L. 96–33, 93 Stat. 86; Oct. 4, 1979, Pub. L. 96–79, title I, §123(a), (b)(1)(A), (2), (d), (f), (g)(2), 93 Stat. 624–627; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–181, §15(b), 93 Stat. 1316; Dec. 17, 1980, Pub. L. 96–538, title III, §303(b), 94 Stat. 3190; Aug. 13, 1981, Pub. L. 97–35, title IX, §§902(g)(5), 936(b), 95 Stat. 561, 572; Jan. 4, 1983, Pub. L. 97–414, §9(b), 96 Stat. 2064, provided for designation of State health planning and development agencies.
 
-A prior section 1503 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695,which related to National Council on Health Planning and Development, was classified to section 300k–3 of this title.
+A prior section 1503 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, which related to National Council on Health Planning and Development, was classified to section 300k–3 of this title.
 
 Section 300m–1, act July 1, 1944, ch. 373, title XV, §1522, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2244; amended 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Oct. 4, 1979, Pub. L. 96–79, title I, §§101(b)(2), 111(c), 115(b)(3), 117(b)(4), 120(b), 122(b), 123(c)(1)(A), (e)(1), 93 Stat. 594, 605, 607, 620, 622, 624, 625, 626; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to State administrative programs.
 
@@ -52,7 +52,7 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 #### Transition Rule Regarding Mammographies
 
-Section 101(c)(2) of Pub. L. 103–183 provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
+Section 101(c)(2) of Pub. L. 103–183 provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (orprovisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
 
 #### Section Referred to in Other Sections
 

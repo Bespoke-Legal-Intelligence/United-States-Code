@@ -68,7 +68,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (c) Approval of training programs; written certifications; revocation of certification; annual report
 
-(1)(A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of this title, the Secretary shall submit to such worker a written statement certifying such finding.
+(1)(A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of thistitle, the Secretary shall submit to such worker a written statement certifying such finding.
 
 (B) If a State or State agency has an agreement with the Secretary under section 2311 of this title and the State or State agency finds that it is not feasible or appropriate to approve a training program for a worker pursuant to the requirements of section 2296(a) of this title, the State or State agency shall—
 
@@ -106,7 +106,7 @@ Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, sub
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
-1986—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employmentunder this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
+1986—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
 
 Subsec. (a)(5). Pub. L. 99–272, §13003(a)(1), added par. (5).
 
@@ -174,7 +174,7 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 
 &emsp;&emsp;“(B) the number of weeks preceding such first week that are deductible under section 232(d) (as in effect before the amendments made by section 2504) \[section 2392(d) of this title\];
 
-> &emsp;except that the amount of trade readjustment allowances payable to an adversely affected worker under this paragraph shall be subject to adjustment on aweek-to-week basis as may be required by section 232(b) \[section 2392(b) of this title\].”
+> &emsp;except that the amount of trade readjustment allowances payable to an adversely affected worker under this paragraph shall be subject to adjustment on a week-to-week basis as may be required by section 232(b) \[section 2392(b) of this title\].”
 
 #### Section Referred to in Other Sections
 

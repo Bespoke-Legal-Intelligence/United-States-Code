@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) where applicable, a schedule and description of the method or methods for compliance and certification by the owner or operator that the source is in compliance with the requirements of this subchapter.
 
-&emsp;(7) The term “continuous emission monitoring system” (CEMS) means the equipment as required by section 7651k of this title, used tosample, analyze, measure, and provide on a continuous basis a permanent record of emissions and flow (expressed in pounds per million British thermal units (lbs/mmBtu), pounds per hour (lbs/hr) or such other form as the Administrator may prescribe by regulations under section 7651k of this title).
+&emsp;(7) The term “continuous emission monitoring system” (CEMS) means the equipment as required by section 7651k of this title, used to sample, analyze, measure, and provide on a continuous basis a permanent record of emissions and flow (expressed in pounds per million British thermal units (lbs/mmBtu), pounds per hour (lbs/hr) or such other form as the Administrator may prescribe by regulations under section 7651k of this title).
 
 &emsp;(8) The term “existing unit” means a unit (including units subject to section 7411 of this title) that commenced commercial operation before November 15, 1990. Any unit that commenced commercial operation before November 15, 1990, which is modified, reconstructed, or repowered after November 15, 1990, shall continue to be an existing unit for the purposes of this subchapter. For the purposes of this subchapter, existing units shall not include simple combustion turbines, or units which serve a generator with a nameplate capacity of 25MWe or less.
 
@@ -92,13 +92,13 @@ As used in this subchapter:
 
 &emsp;(28) The term “basic Phase II allowance allocations” means:
 
-&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
+&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and\(4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
 
 &emsp;&emsp;(B) For each calendar year beginning in 2010, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4) and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1) and (3); (i) and (j) of section 7651d of this title.
 
 &emsp;(29) The term “Phase II bonus allowance allocations” means, for calendar year 2000 through 2009, inclusive, and only for such years, allocations made by the Administrator pursuant to section 7651b of this title, subsections (a)(2), (b)(2), (c)(4), (d)(3) (except as otherwise provided therein), and (h)(2) of section 7651d of this title, and section 7651e of this title.
 
-(July 14, 1955, ch. 360, title IV, §402, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2585.)
+(July 14, 1955, ch. 360, title IV, §402, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2585.)
 
 #### References in Text
 

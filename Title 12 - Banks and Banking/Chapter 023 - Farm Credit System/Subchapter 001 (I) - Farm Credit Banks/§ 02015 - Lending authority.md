@@ -8,7 +8,7 @@
 
 #### (2) Financial assistance
 
-&emsp;The Farm Credit Banks may provide and extend financial assistance to, and discount for, or purchase from, a Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association, as authorized under section 2279b(a) of this title.
+&emsp;The Farm Credit Banks may provide and extend financial assistance to, and discount for,or purchase from, a Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association, as authorized under section 2279b(a) of this title.
 
 #### (b) Intermediate credit
 
@@ -30,7 +30,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made orother similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
+&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made or other similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
 
 #### (B) Limitation on national bank
 
@@ -78,7 +78,7 @@ A prior section 2015, Pub. L. 92–181, title I, §1.7, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading “and related assistance” and amended text generally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
+1988—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading “and related assistance” and amended textgenerally. Prior to amendment, text read as follows: “The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years.”
 
 Subsec. (b)(2). Pub. L. 100–399, §401(f)(1), struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
 

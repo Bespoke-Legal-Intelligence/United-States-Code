@@ -18,7 +18,7 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 &emsp;(D) An alien who is a Cuban and Haitian entrant as defined in section 501(e) of the Refugee Education Assistance Act of 1980 until 5 years after the alien is granted such status.
 
-&emsp;(E) An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) of this title.
+&emsp;(E) An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) <sup>1</sup> of this title.
 
 #### (2) Certain permanent resident aliens
 
@@ -36,7 +36,7 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 &emsp;&emsp;(B) on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
-&emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) <sup>1</sup> who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
+&emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) <sup>2</sup> who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
 #### (4) Transition for those currently receiving benefits
 
@@ -52,7 +52,9 @@ Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(1)(D), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
-The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, §503(2), (3), June 23, 1998, 112 Stat. 578.
+
+The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, ThePublic Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -76,5 +78,7 @@ Amendment by sections 5302(c)(2) and 5306(d) of Pub. L. 105–33 effective, exce
 
 Amendment by sections 5562, 5563, and 5581(b)(3) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A) or (B)”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph (A) or (B)”.</i>
 

@@ -44,7 +44,7 @@ In this section, the term “commodity promotion law” means a Federal law that
 
 Congress finds the following:
 
-&emsp;(1) It is in the national public interest and vital to the welfare of the agricultural economy of the United States to maintain and expand existing markets and develop new markets and uses for agricultural commoditiesthrough industry-funded, Government-supervised, generic commodity promotion programs established under commodity promotion laws.
+&emsp;(1) It is in the national public interest and vital to the welfare of the agricultural economy of the United States to maintain and expand existing markets and develop new markets and uses for agricultural commodities through industry-funded, Government-supervised, generic commodity promotion programs established under commodity promotion laws.
 
 &emsp;(2) These generic commodity promotion programs, funded by the agricultural producers or processors who most directly reap the benefits of the programs and supervised by the Secretary of Agriculture, provide a unique opportunity for producers and processors to inform consumers about their products.
 
@@ -90,7 +90,7 @@ Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1,
 
 Public Law 94–294, referred to in subsec. (a)(5), is Pub. L. 94–294, May 28, 1976, 90 Stat. 529, as amended, known as the Beef Research and Information Act, which is classified generally to chapter 62 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-Public Law 98–180, referred to in subsec. (a)(6), is Pub. L. 98–180, Nov. 29, 1983, 97 Stat. 1128, as amended. TitleI of Pub. L. 98–180 is known as the Dairy Production Stabilization Act of 1983. Subtitle B of title I is classified generally to subchapter I (§4501 et seq.) of chapter 76 of this title. For complete classification of title I to the Code, see Short Title note set out under section 4501 of this title and Tables.
+Public Law 98–180, referred to in subsec. (a)(6), is Pub. L. 98–180, Nov. 29, 1983, 97 Stat. 1128, as amended. Title I of Pub. L. 98–180 is known as the Dairy Production Stabilization Act of 1983. Subtitle B of title I is classified generally to subchapter I (§4501 et seq.) of chapter 76 of this title. For complete classification of title I to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 Public Law 98–590, referred to in subsec. (a)(7), is Pub. L. 98–590, Oct. 30, 1984, 98 Stat. 3115, as amended, known as the Honey Research, Promotion, and Consumer Information Act, which is classified generally to chapter 77 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
@@ -106,7 +106,7 @@ Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct.
 
 Section 511 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle B (§§511–526) of title V of Pub. L. 104–127, enacting subchapter II of this chapter\] may be cited as the ‘Commodity Promotion, Research, and Information Act of 1996’.”
 
-Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§531–543) of title V of Pub. L. 104–127, enacting subchapter III of this chapter\] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
+Section 531 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (§§531–543) of title V of Pub.L. 104–127, enacting subchapter III of this chapter\] may be cited as the ‘Canola and Rapeseed Research, Promotion, and Consumer Information Act’.”
 
 Section 551 of title V of Pub. L. 104–127 provided that: “This subtitle \[subtitle D (§§551–564) of title V of Pub. L. 104–127, enacting subchapter IV of this chapter\] may be cited as the ‘National Kiwifruit Research, Promotion, and Consumer Information Act’.”
 

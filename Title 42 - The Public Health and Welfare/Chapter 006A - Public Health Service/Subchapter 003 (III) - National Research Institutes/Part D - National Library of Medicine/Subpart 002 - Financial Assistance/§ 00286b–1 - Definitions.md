@@ -6,5 +6,5 @@ As used in this subpart—
 
 &emsp;(2) the term “sciences related to health” includes medicine, osteopathy, dentistry, and public health, and fundamental and applied sciences when related thereto.
 
-(July 1, 1944, ch. 373, title IV, §470, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 860.)
+(July 1, 1944, ch. 373, title IV, §470, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 860.)
 

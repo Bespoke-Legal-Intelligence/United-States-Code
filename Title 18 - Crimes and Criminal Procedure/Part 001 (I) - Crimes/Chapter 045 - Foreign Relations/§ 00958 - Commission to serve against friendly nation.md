@@ -2,7 +2,7 @@
 
 Any citizen of the United States who, within the jurisdiction thereof, accepts and exercises a commission to serve a foreign prince, state, colony, district, or people, in war, against any prince, state, colony, district, or people, with whom the United States is at peace, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 745; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

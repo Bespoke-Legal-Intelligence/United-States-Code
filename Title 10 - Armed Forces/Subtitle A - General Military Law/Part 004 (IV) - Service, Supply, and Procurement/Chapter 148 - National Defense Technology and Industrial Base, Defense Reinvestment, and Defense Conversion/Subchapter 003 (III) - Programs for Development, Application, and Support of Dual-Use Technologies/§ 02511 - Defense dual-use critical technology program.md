@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
+Establishment of Program.—The Secretary of Defense shall conduct a program tofurther the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
 (b)
 
@@ -12,7 +12,7 @@ Assistance Authorized.—The Secretary of Defense may provide technical and othe
 
 Financial Commitment of Non-Federal Government Participants.—(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
 
-(2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business TechnologyTransfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
+(2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
 
 (3) The Secretary shall consider a project proposal submitted by a small business concern without regard to the ability of the small business concern to immediately meet its share of the anticipated project costs. Upon the selection of a project proposal submitted by a small business concern, the small business concern shall have a period of not less than 120 days in which to arrange to meet its financial commitment requirements under the project from sources other than a person of a foreign country. If the Secretary determines upon the expiration of that period that the small business concern will be unable to meet its share of the anticipated project costs, the Secretary shall revoke the selection of the project proposal submitted by the small business concern.
 
@@ -98,7 +98,7 @@ Designation of Official for Dual-Use Programs.—(1) The Secretary of Defense sh
 
 “(3) In carrying out the responsibilities, the designated official shall ensure that—
 
-&emsp;“(A) dual-use projects are consistent with the joint warfighting science and technology plan referred toin section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 2501 note); and
+&emsp;“(A) dual-use projects are consistent with the joint warfighting science and technology plan referred to in section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 2501 note); and
 
 &emsp;“(B) the dual-use projects of the military departments and defense agencies of the Department of Defense are coordinated and avoid unnecessary duplication.
 
@@ -112,7 +112,7 @@ Use of Competitive Procedures.—Funds obligated for a dual-use project may be c
 
 “(f)
 
-Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secretary of Defense shall submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] on the progress made by the Department of Defense in meeting the objectives set forth in subsection (b) during the preceding fiscal year.
+Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secretary of Defense shall submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] on the progress made by the Department of Defense in meeting the objectives set forth in subsection (b) during the preceding fiscal year.
 
 “(2) The report for a fiscal year shall contain, at a minimum, the following:
 

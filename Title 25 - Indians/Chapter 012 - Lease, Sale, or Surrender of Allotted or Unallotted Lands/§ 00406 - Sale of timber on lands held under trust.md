@@ -6,7 +6,7 @@ The timber on any Indian land held under a trust or other patent containing rest
 
 #### (b) Undivided interests
 
-Upon the request of the owners of a majority Indian interest in land in which any undivided interest is held under a trust or other patentcontaining restrictions on alienations, the Secretary of the Interior is authorized to sell all undivided Indian trust or restricted interests in any part of the timber on such land.
+Upon the request of the owners of a majority Indian interest in land in which any undivided interest is held under a trust or other patent containing restrictions on alienations, the Secretary of the Interior is authorized to sell all undivided Indian trust or restricted interests in any part of the timber on such land.
 
 #### (c) Unrestricted interests
 
@@ -18,7 +18,7 @@ For the purposes of this Act, the Secretary of the Interior is authorized to rep
 
 #### (e) Emergency sales
 
-The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of the Interior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
+The timber on any Indian land held under a trust or other patent containing restrictions onalienations may be sold by the Secretary of the Interior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
 
 #### (f) Change in status without affecting contractual obligations
 

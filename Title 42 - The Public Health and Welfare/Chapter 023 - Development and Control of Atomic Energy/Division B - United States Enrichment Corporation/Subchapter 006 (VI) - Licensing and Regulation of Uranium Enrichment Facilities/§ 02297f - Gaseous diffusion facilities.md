@@ -8,7 +8,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (1) In general
 
-&emsp;The Nuclear Regulatory Commission, in consultation with the Department and the Environmental Protection Agency, shall report at least annually to the Congress on the status of health, safety, and environmental conditions at the gaseous diffusion uranium enrichment facilities of the Department.
+&emsp;Not later than the date on which a certificate of compliance is issued under subsection (c) of this section, the Nuclear Regulatory Commission, in consultation with the Department and the Environmental Protection Agency, shall report to the Congress on the status of health, safety, and environmental conditions at the gaseous diffusion uranium enrichment facilities of the Department.
 
 #### (2) Required determination
 
@@ -46,11 +46,17 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) of this section or approves a plan prepared by the Department for achieving compliance required under subsection (b) of this section.
 
-(Aug. 1, 1946, ch. 724, title II, §1701, as added Oct. 24, 1992, Pub. L. 102–486, title XI, §1101, 106 Stat. 2951; amended Apr. 26, 1996, Pub. L. 104–134, title III, §3116(b)(3), 110 Stat. 1321–349.)
+(Aug. 1, 1946, ch. 724, title II, §1701, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2951; amended Pub. L. 104–134, title III, §3116(b)(3), Apr. 26, 1996, 110 Stat. 1321–349; Pub. L. 105–362, title XII, §1202, Nov. 10, 1998, 112 Stat. 3292.)
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–134 amended heading and text of par. (2) generally. Prior to amendment, textread as follows: “The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.”
+1998—Subsec. (b)(1). Pub. L. 105–362 substituted “Not later than the date on which a certificate of compliance is issued under subsection (c) of this section, the Nuclear” for “The Nuclear” and struck out “at least annually” after “report”.
+
+1996—Subsec. (c)(2). Pub. L. 104–134 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.”
+
+#### References to United States Enrichment Corporation
+
+References to the Corporation, meaning the United States Enrichment Corporation, deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -40,7 +40,7 @@ Each Board of Medical Examiners shall report, in accordance with section 11134 o
 
 #### (1) Health care entities
 
-&emsp;A health care entity that fails substantially to meet the requirement of subsection (a)(1) of this section shall lose the protections of section 11111(a)(1) of this title if the Secretary publishes the name of the entity under section 11111(b) of this title.
+&emsp;A health care entity that fails substantially to meet the requirement of subsection (a)(1) ofthis section shall lose the protections of section 11111(a)(1) of this title if the Secretary publishes the name of the entity under section 11111(b) of this title.
 
 #### (2) Board of Medical Examiners
 

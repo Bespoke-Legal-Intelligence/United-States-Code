@@ -34,7 +34,7 @@
 
 &emsp;(B) One-third of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, law, health policy, economics, and management.
 
-(4) Members of an advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The other members of an advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule.
+(4) Members of an advisory council who are officers or employees of the United States shallnot receive any compensation for service on the advisory council. The other members of an advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule.
 
 #### (c) Term of office; reappointment; vacancy
 
@@ -76,15 +76,17 @@ Each advisory council may prepare, for inclusion in the biennial report made und
 
 &emsp;(iv) the chairman of the Board shall be selected by the President from the appointed members and shall serve as chairman for a term of two years;
 
-&emsp;(v) the ex officio members of the Board shall be nonvoting members and shall be the Secretary, the Director of the Office of Science and Technology Policy, the Director of NIH, the Under Secretary for Health of the Department of Veterans Affairs, the Director of the National Institute for Occupational Safety and Health, the Director of the National Institute of Environmental Health Sciences, the Secretary of Labor, the Commissioner of the Food and Drug Administration, the Administrator of the Environmental Protection Agency, the Chairman of the Consumer Product Safety Commission, the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Energy Research of the Department of Energy (or the designees of such officers); and
+&emsp;(v) the ex officio members of the Board shall be nonvoting members and shall be the Secretary, the Director of the Office of Science and Technology Policy, the Director of NIH, the Under Secretary for Health of the Department of Veterans Affairs, the Director of the National Institute for Occupational Safety and Health, the Director of the National Institute of Environmental Health Sciences, the Secretary of Labor, the Commissioner of the Food and Drug Administration, the Administrator of the Environmental Protection Agency, the Chairman of the Consumer Product Safety Commission, the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Science of the Department of Energy (or the designees of such officers); and
 
 &emsp;(vi) the Board shall meet at least four times each fiscal year.
 
 (B) This section applies to the advisory council to the National Heart, Lung, and Blood Institute, except that the advisory council shall meet at least four times each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §406, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 828; amended Nov. 4, 1988, Pub. L. 100–607, title I, §117, 102 Stat. 3053; Aug. 18, 1990, Pub. L. 101–381, title I, §102(1), 104 Stat. 585; Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985; June 10, 1993, Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), 107 Stat. 149, 210, 214.)
+(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amendedPub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853.)
 
 #### Amendments
+
+1998—Subsec. (h)(2)(A)(v). Pub. L. 105–245 substituted “Science of the Department of Energy” for “Energy Research of the Department of Energy”.
 
 1993—Subsec. (a)(2). Pub. L. 103–43, §2010(b)(2), substituted “section 238” for “section 300aaa”.
 
@@ -102,7 +104,7 @@ Subsec. (h)(2)(A)(v). Pub. L. 103–43, §2008(b)(1)(B), substituted “Departme
 
 Subsec. (b)(3)(A). Pub. L. 100–607, §117(b), inserted “not less than two individuals who are leaders in the fields of” after “(including”.
 
-Subsec. (h)(2)(A)(v). Pub. L. 100–607, §117(c), inserted “shall be nonvoting members and” after “Board” and substituted “the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of EnergyResearch of the Department of Energy” for “and the Assistant Secretary of Defense for Health Affairs”.
+Subsec. (h)(2)(A)(v). Pub. L. 100–607, §117(c), inserted “shall be nonvoting members and” after “Board” and substituted “the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Energy Research of the Department of Energy” for “and the Assistant Secretary of Defense for Health Affairs”.
 
 #### Termination of Advisory Councils
 
@@ -116,5 +118,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 284, 284b, 285b–7, 285c–6, 289c, 300cc–40a of this title.
+This section is referred to in sections 284, 284b, 285b–7, 285c–6, 287c–21, 289c, 300cc–40a of this title.
 

@@ -14,7 +14,7 @@ Any agreement entered into under this section shall—
 
 &emsp;(3) provide for reviews and reports in accordance with section 1414 of this title on results of research conducted under the research program;
 
-&emsp;(4) require each country that is a party to the agreement to take all the necessary andappropriate steps to ensure compliance with the moratorium; and
+&emsp;(4) require each country that is a party to the agreement to take all the necessary and appropriate steps to ensure compliance with the moratorium; and
 
 &emsp;(5) encourage each country that is a party to the agreement to seek, through bilateral and multilateral negotiations, to encourage other countries that participate in fisheries to which the agreement applies to become parties to the agreement.
 

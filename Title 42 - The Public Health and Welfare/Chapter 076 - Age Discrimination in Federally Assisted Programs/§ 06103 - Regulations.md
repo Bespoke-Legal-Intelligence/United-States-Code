@@ -14,7 +14,7 @@
 
 (3) Not later than ninety days after the Secretary publishes proposed regulations under paragraph (1), the Secretary shall publish in the Federal Register final general regulations to carry out the provisions of section 6102 of this title, after taking into consideration any comments received by the Secretary with respect to the regulations proposed under paragraph (1).
 
-(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Such regulations shall be consistent with the final general regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
+(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Suchregulations shall be consistent with the final general regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
 
 (5) Notwithstanding any other provision of this section, no regulations issued pursuant to this section shall be effective before July 1, 1979.
 
@@ -30,23 +30,23 @@
 
 #### (c) Employment practices and labor-management joint apprenticeship training program exemptions; Age Discrimination in Employment Act unaffected
 
-(1) Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\], nothing in this chapter shall be construed to authorize action under this chapter by any Federal department or agency with respect to any employment practice of any employer, employment agency, or labor organization, or with respect to any labor-management joint apprenticeship training program.
+(1) Nothing in this chapter shall be construed to authorize action under this chapter by any Federal department or agency with respect to any employment practice of any employer, employment agency, or labor organization, or with respect to any labor-management joint apprenticeship training program.
 
 (2) Nothing in this chapter shall be construed to amend or modify the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, or to affect the rights or responsibilities of any person or party pursuant to such Act.
 
-(Pub. L. 94–135, title III, §304, Nov. 28, 1975, 89 Stat. 729; Pub. L. 95–478, title IV, §401(b), Oct. 18, 1978, 92 Stat. 1555; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357.)
+(Pub. L. 94–135, title III, §304, Nov. 28, 1975, 89 Stat. 729; Pub. L. 95–478, title IV, §401(b), Oct. 18, 1978, 92 Stat. 1555; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(37)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
-
-The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Codification
 
 In subsec. (c)(1), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act of 1974 (29 U.S.C. 801 et seq.), as amended” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
 
 #### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–277 substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
 
 1978—Subsec. (a)(4). Pub. L. 95–478, §401(b)(1), provided that the regulations shall not become effective until approved by the Secretary.
 

@@ -24,7 +24,7 @@
 
 &emsp;(C) publish a copy of the notice for 3 consecutive weeks in a newspaper of general circulation in each county in which each such portion is located;
 
-&emsp;(D) mail a copy of the notice, to the extent practicable, to all shippers that have madesignificant use (as designated by the Board) of the railroad line during the 12 months preceding the filing of the application; and
+&emsp;(D) mail a copy of the notice, to the extent practicable, to all shippers that have made significant use (as designated by the Board) of the railroad line during the 12 months preceding the filing of the application; and
 
 &emsp;(E) attach to the application filed with the Board an affidavit certifying the manner in which subparagraphs (A) through (D) of this paragraph have been satisfied, and certifying that subparagraphs (A) through (D) have been satisfied within the most recent 30 days prior to the date the application is filed.
 

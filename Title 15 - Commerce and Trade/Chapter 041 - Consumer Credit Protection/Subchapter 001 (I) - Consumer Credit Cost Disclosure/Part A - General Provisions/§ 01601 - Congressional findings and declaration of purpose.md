@@ -28,6 +28,10 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–347, §1, Nov. 2, 1998, 112 Stat. 3208, provided that: “This Act \[amending sections 1681a to 1681c, 1681g, 1681i, 1681k, and 1681s of this title and enacting provisions set out as a note under section 1681a of this title\] may be cited as the ‘Consumer Reporting Employment Clarification Act of 1998’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–426, provided that: “This chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, enacting section 1681s–2 of this title, amending sections 1681a to 1681e, 1681g to 1681j, 1681m to 1681<i>o</i>, 1681q to 1681s, and 1681t of this title, and enacting provisions set out as notes under sections 1681a, 1681b, and 1681g of this title\] may be cited as the ‘Consumer Credit Reporting Reform Act of 1996’.”
@@ -54,7 +58,7 @@ Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
+Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of thistitle, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
 
 #### Short Title of 1980 Amendment
 
@@ -80,7 +84,7 @@ Section 101 of title I of Pub. L. 90–321 provided that: “This title \[enacti
 
 Section 401 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title \[enacting subchapter II–A of this chapter\] may be cited as the ‘Credit Repair Organizations Act’.”
 
-Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128,provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
+Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
 
 Section 709 of title VII of Pub. L. 90–321, as added by section 1(b) of Pub. L. 94–239, Mar. 23, 1976, 90 Stat. 251, provided that: “This title \[enacting subchapter IV of this chapter and notes set out under section 1691 of this title\] may be cited as the ‘Equal Credit Opportunity Act’.”
 

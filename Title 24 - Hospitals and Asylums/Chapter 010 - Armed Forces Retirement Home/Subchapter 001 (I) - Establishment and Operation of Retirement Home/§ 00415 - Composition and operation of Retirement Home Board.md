@@ -6,7 +6,7 @@ There is hereby established the Armed Forces Retirement Home Board. The Retireme
 
 #### (b) Members
 
-The Retirement Home Board shall consist of not less than 16 members who shall be appointedby the Secretary of Defense, unless otherwise indicated, as follows:
+The Retirement Home Board shall consist of not less than 16 members who shall be appointed by the Secretary of Defense, unless otherwise indicated, as follows:
 
 &emsp;(1) One representative from the office of the Assistant Secretary of Defense (Force Management and Personnel).
 
@@ -76,7 +76,7 @@ Each establishment of the Retirement Home shall have a Board of trustees which s
 
 (2) A member whose term of office has expired may continue to serve until the successor for the member is appointed or designated.
 
-(3) The Chairman of the Retirement Home Board may appoint a member of the Retirement Home Board for a second consecutive term. The Chairman of a Local Board may appoint a member of that Local Board for a second consecutive term.
+(3) The Chairman of the Retirement Home Board may appoint a member of the Retirement Home Board for a second consecutive term. TheChairman of a Local Board may appoint a member of that Local Board for a second consecutive term.
 
 #### (f) Early expiration of term
 

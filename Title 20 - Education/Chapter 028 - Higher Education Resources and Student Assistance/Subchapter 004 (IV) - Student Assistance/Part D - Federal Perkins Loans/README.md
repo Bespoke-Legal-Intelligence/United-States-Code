@@ -6,7 +6,7 @@ This part was added as part E of title IV of Pub. L. 89–329 by Pub. L. 92–31
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1078, 1078–3, 1085, 1087c, 1089, 1090, 1091, 1091a, 1092, 1092b, 1094, 1096, 1099a–3, 1106d of this title; title 5 section 5379; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 section 6103; title 42 sections 2756b, 4953.
+This part is referred to in sections 1078, 1078–3, 1085, 1087c, 1089, 1090, 1091, 1091a, 1091b, 1092, 1092b, 1094, 1096, 1098c of this title; title 5 section 5379; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 section 6103; title 42 sections 2756b, 4953.
 
 
 ---

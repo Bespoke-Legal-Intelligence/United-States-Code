@@ -2,7 +2,7 @@
 
 Whenever the Board submits or transmits to the President or the Director of the Office of Management and Budget any legislative recommendation, or any statement or information in preparation of a report to be submitted to the Congress pursuant to section 2286e(a) of this title, the Board shall submit at the same time a copy thereof to the Congress.
 
-(Aug. 1, 1946, ch. 724, title I, §320, as added Nov. 30, 1993, Pub. L. 103–160, div. C, title XXXII, §3202(a)(2), 107 Stat. 1959.)
+(Aug. 1, 1946, ch. 724, title I, §320, as added Pub. L. 103–160, div. C, title XXXII, §3202(a)(2), Nov. 30, 1993, 107 Stat. 1959.)
 
 #### Prior Provisions
 

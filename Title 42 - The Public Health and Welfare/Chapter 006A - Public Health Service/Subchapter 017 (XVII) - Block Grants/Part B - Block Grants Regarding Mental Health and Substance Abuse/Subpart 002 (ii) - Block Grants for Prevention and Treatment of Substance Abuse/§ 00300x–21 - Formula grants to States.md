@@ -8,7 +8,7 @@ For the purpose described in subsection (b) of this section, the Secretary, acti
 
 A funding agreement for a grant under subsection (a) of this section is that, subject to section 300x–31 of this title, the State involved will expend the grant only for the purpose of planning, carrying out, and evaluating activities to prevent and treat substance abuse and for related activities authorized in section 300x–24 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1921, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 388.)
+(July 1, 1944, ch. 373, title XIX, §1921, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 388.)
 
 #### Prior Provisions
 

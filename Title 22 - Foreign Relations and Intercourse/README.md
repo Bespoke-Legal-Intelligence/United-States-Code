@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 1997 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 1998 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -88,6 +88,9 @@
 | [<b>70.</b>](Chapter%20070%20-%20Mansfield%20Fellowship%20Program/README.md) | <b>Mansfield Fellowship Program</b> | <b>6101</b> |
 | [<b>71.</b>](Chapter%20071%20-%20United%20States%20International%20Broadcasting/README.md) | <b>United States International Broadcasting</b> | <b>6201</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Nuclear%20Proliferation%20Prevention/README.md) | <b>Nuclear Proliferation Prevention</b> | <b>6301</b> |
+| [<b>73.</b>](Chapter%20073%20-%20International%20Religious%20Freedom/README.md) | <b>International Religious Freedom</b> | <b>6401</b> |
+| [<b>74.</b>](Chapter%20074%20-%20Foreign%20Affairs%20Agencies%20Consolidation/README.md) | <b>Foreign Affairs Agencies Consolidation</b> | <b>6501</b> |
+| [<b>75.</b>](Chapter%20075%20-%20Chemical%20Weapons%20Convention%20Implementation/README.md) | <b>Chemical Weapons Convention Implementation</b> | <b>6701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -179,3 +182,6 @@
 - [Chapter 070 - Mansfield Fellowship Program](Chapter%20070%20-%20Mansfield%20Fellowship%20Program/README.md)
 - [Chapter 071 - United States International Broadcasting](Chapter%20071%20-%20United%20States%20International%20Broadcasting/README.md)
 - [Chapter 072 - Nuclear Proliferation Prevention](Chapter%20072%20-%20Nuclear%20Proliferation%20Prevention/README.md)
+- [Chapter 073 - International Religious Freedom](Chapter%20073%20-%20International%20Religious%20Freedom/README.md)
+- [Chapter 074 - Foreign Affairs Agencies Consolidation](Chapter%20074%20-%20Foreign%20Affairs%20Agencies%20Consolidation/README.md)
+- [Chapter 075 - Chemical Weapons Convention Implementation](Chapter%20075%20-%20Chemical%20Weapons%20Convention%20Implementation/README.md)

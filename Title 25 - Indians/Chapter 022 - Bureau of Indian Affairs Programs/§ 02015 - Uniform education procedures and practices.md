@@ -8,7 +8,3 @@ The Secretary shall cause the various divisions of the Bureau to formulate unifo
 
 A prior section 2015, Pub. L. 95–561, title XI, §1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2019 of this title.
-

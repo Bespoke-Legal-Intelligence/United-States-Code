@@ -24,7 +24,7 @@ Whenever it shall appear to the Commission that any person is engaged or about t
 
 Upon application of the Commission, the district courts of the United States and the United States courts of any Territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus commanding any person to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder.
 
-(Aug. 26, 1935, ch. 687, title I, §18, 49 Stat. 831; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Oct. 15, 1970, Pub. L. 91–452, title II, §214, 84 Stat. 929; Dec. 4, 1987, Pub. L. 100–181, title IV, §402, 101 Stat. 1259.)
+(Aug. 26, 1935, ch. 687, title I, §18, 49 Stat. 831; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 91–452, title II, §214, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title IV, §402, Dec. 4, 1987, 101 Stat. 1259.)
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 #### (a) Petroleum tanks
 
-Not later than twelve months after November 8, 1984, the Administrator shall complete a study of underground storage tanks used for the storage of regulated substances defined in section 6991(2)(B) of this title.
+Not later than twelve months after November 8, 1984, the Administrator shall complete a studyof underground storage tanks used for the storage of regulated substances defined in section 6991(2)(B) of this title.
 
 #### (b) Other tanks
 
@@ -14,7 +14,7 @@ The studies under subsections (a) and (b) of this section shall include an asses
 
 #### (d) Farm and heating oil tanks
 
-Not later than thirty-six months after November 8, 1984, the Administrator shall conduct a study regarding the tanks referred to in section6991(1)(A) and (B) of this title. Such study shall include estimates of the number and location of such tanks and an analysis of the extent to which there may be releases or threatened releases from such tanks into the environment.
+Not later than thirty-six months after November 8, 1984, the Administrator shall conduct a study regarding the tanks referred to in section 6991(1)(A) and (B) of this title. Such study shall include estimates of the number and location of such tanks and an analysis of the extent to which there may be releases or threatened releases from such tanks into the environment.
 
 #### (e) Reports
 

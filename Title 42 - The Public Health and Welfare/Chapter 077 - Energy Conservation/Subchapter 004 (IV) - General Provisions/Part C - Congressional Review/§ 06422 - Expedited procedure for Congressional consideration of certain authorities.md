@@ -40,11 +40,11 @@ For the purpose of subsection (b) of this section—
 
 (4)(A) If the committee to which a resolution with respect to a contingency plan has been referred has not reported it at the end of 20 calendar days after its referral in the case of any energy conservation contingency plan or at the end of 10 calendar days after its referral in the case of any rationing contingency plan, it shall be in order to move either to discharge the committee from further consideration of such resolution or to discharge the committee from further consideration of any other resolution with respect to such contingency plan which has been referred to the committee.
 
-(B) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same contingency plan), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. Except to the extent provided in paragraph (7)(A), an amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(B) A motion to discharge may be made only by an individual favoring the resolution, shallbe highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same contingency plan), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. Except to the extent provided in paragraph (7)(A), an amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same contingency plan.
 
-(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the notion <sup>2</sup> shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (B) Debate on the resolution referred to in subparagraph (A) of this paragraph shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. Except to the extent provided in paragraph (7)(B), an amendment to, or motion to recommit the resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such resolution was agreed to or disagreed to.
 
@@ -78,17 +78,19 @@ For the purpose of subsection (b) of this section—
 
 &emsp;&emsp;&emsp;(I) the procedure with respect to that or other resolutions of such House with respect to such plan shall be the same as if no resolution from the other House with respect to such plan had been received; but
 
-&emsp;&emsp;&emsp;(II) on any vote on final passage of a resolution of the first House with respect to such plan a resolution from the otherHouse with respect to such plan which has the same effect shall be automatically substituted for the resolution of the first House.
+&emsp;&emsp;&emsp;(II) on any vote on final passage of a resolution of the first House with respect to such plan a resolution from the other House with respect to such plan which has the same effect shall be automatically substituted for the resolution of the first House.
 
 &emsp;(D) Notwithstanding any of the preceding provisions of this subsection, if a House has approved a resolution with respect to a rationing contingency plan, then it shall not be in order to consider in that House any other resolution under this section with respect to the approval of such plan.
 
-(Pub. L. 94–163, title V, §552, Dec. 22, 1975, 89 Stat. 967; Pub. L. 96–102, title I, §§103(b)(2), 105(a)(4), (b)(6), Nov. 5, 1979, 93 Stat. 753, 756.)
+(Pub. L. 94–163, title V, §552, Dec. 22, 1975, 89 Stat. 967; Pub. L. 96–102, title I, §§103(b)(2), 105(a)(4), (b)(6), Nov. 5, 1979, 93 Stat. 753, 756; Pub. L. 105–388, §5(a)(16), Nov. 13, 1998, 112 Stat. 3479.)
 
 #### References in Text
 
 Section 6261 of this title, referred to in subsecs. (a), (b)(1), (2)(A), and (d)(2)(B), was omitted from the Code pursuant to section 6264 of this title, which provided for expiration of authority under that section on June 30, 1985.
 
 #### Amendments
+
+1998—Subsec. (d)(5)(A). Pub. L. 105–388 substituted “motion” for “notion” after “amendment to the”.
 
 1979—Subsec. (b). Pub. L. 96–102, §§103(b)(2)(A), 105(b)(6), designated existing provisions as par. (1) and substituted “No such energy conservation contingency plan” for “No such contingency plan”, “section 6261(b)” for “section 6261(a)(2)”, and “subsection (d)(2)(A)” for “subsection (d)(2)”, and added par. (2).
 

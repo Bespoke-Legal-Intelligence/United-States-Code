@@ -2,7 +2,7 @@
 
 The payments made pursuant to section 2391 of this title to transferees of municipal installations are in anticipation that the respective recipients of those payments furnish, or have furnished, for the community, the school, hospital, or other municipal services in respect of which the payments are made. Any such payment may be withheld, in whole or in part, if the Administrator finds that the recipient is not furnishing such services for any part of the area so designated.
 
-(Aug. 4, 1955, ch. 543, ch. 9, §93, 69 Stat. 482; Dec. 31, 1975, Pub. L. 94–187, title VI, §601(1), 89 Stat. 1077.)
+(Aug. 4, 1955, ch. 543, ch. 9, §93, 69 Stat. 482; Pub. L. 94–187, title VI, §601(1), Dec. 31, 1975, 89 Stat. 1077.)
 
 #### Amendments
 

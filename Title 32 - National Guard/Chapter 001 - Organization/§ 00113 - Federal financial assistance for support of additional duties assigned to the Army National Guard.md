@@ -6,7 +6,13 @@ Authority.—The Secretary of the Army may provide financial assistance to a Sta
 
 (b)
 
-Covered Activities.—Activities supported under this section may include only those activities that are carried out by the Army National Guard in the performance of responsibilities of the Secretary of the Army under paragraphs (6), (10), and (11) of section 3013(b) of title 10.
+Covered Activities.—(1) Except as provided in paragraph (2), financial assistance may be provided for the performance of an activity by the Army National Guard under subsection (a) only if—
+
+&emsp;(A) the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of section 3013(b) of title 10; and
+
+&emsp;(B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers.
+
+(2) Paragraph (1)(B) does not apply to an activity that, on the date of the enactment of this subsection, was performed for the Federal Government by employees of the Federal Government or employees of a State.
 
 (c)
 
@@ -16,5 +22,21 @@ Disbursement Through National Guard Bureau.—The Secretary of the Army shall di
 
 Availability of Funds.—Funds appropriated for the Army for a fiscal year are available for providing financial assistance under this section in support of activities carried out by the Army National Guard during that fiscal year.
 
-(Added Pub. L. 105–85, div. A, title III, §386(a), Nov. 18, 1997, 111 Stat. 1712.)
+(Added Pub. L. 105–85, div. A, title III, §386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, §375(a), Oct. 17, 1998, 112 Stat. 1992.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (b)(2), probably means the date of enactment of Pub. L. 105–261 which amended subsec. (b) generally and which was approved Oct. 17, 1998.
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–261 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Activities supported under this section may include only those activities that are carried out by the Army National Guard in the performance of responsibilities of the Secretary of the Army under paragraphs (6), (10), and (11) of section 3013(b) of title 10.”
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title III, §375(b), Oct. 17, 1998, 112 Stat. 1993, provided that: “Subsection (b)(1)(B) of section 113 of title 32, United States Code (as added by subsection (a) of this section), does not apply to—
+
+&emsp;“(1) financial assistance provided under that section before October 1, 1998; or
+
+&emsp;“(2) financial assistance for an activity that, before May 9, 1998, the Secretary of the Army identified in writing as being under consideration for supporting with financial assistance under that section.”
 

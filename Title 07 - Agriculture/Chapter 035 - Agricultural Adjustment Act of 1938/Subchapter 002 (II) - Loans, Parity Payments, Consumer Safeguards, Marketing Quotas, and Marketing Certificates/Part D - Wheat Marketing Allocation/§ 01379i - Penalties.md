@@ -14,9 +14,9 @@ Any person who, in his capacity as a producer, knowingly violates or attempts to
 
 #### (d) Felonies; punishment
 
-Any person who falsely makes, issues, alters, forges, or counterfeits any marketing certificate, or with fraudulent intent possesses, transfers, or uses any such falsely made, issued, altered, forged, or counterfeited marketing certificate, shall be deemed guilty of a felony andupon conviction thereof shall be subject to a fine of not more than $10,000 or imprisonment of not more than ten years, or both.
+Any person who falsely makes, issues, alters, forges, or counterfeits any marketing certificate, or with fraudulent intent possesses, transfers, or uses any such falsely made, issued, altered, forged, or counterfeited marketing certificate, shall be deemed guilty of a felony and upon conviction thereof shall be subject to a fine of not more than $10,000 or imprisonment of not more than ten years, or both.
 
-(Feb. 16, 1938, ch. 30, title III, §379i, as added Sept. 27, 1962, Pub. L. 87–703, title III, §324(2), 76 Stat. 629; amended Nov. 3, 1965, Pub. L. 89–321, title V, §510(b), 79 Stat. 1205.)
+(Feb. 16, 1938, ch. 30, title III, §379i, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, §510(b), Nov. 3, 1965, 79 Stat. 1205.)
 
 #### References in Text
 

@@ -42,7 +42,7 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 For purposes of this section, the value of a business development company's assets shall be determined as of the date of the most recent financial statements filed by such company with the Commission pursuant to section 78m of this title, and shall be determined no less frequently than annually.
 
-(Aug. 22, 1940, ch. 686, title I, §55, as added Oct. 21, 1980, Pub. L. 96–477, title I, §105, 94 Stat. 2278; amended Dec. 4, 1987, Pub. L. 100–181, title VI, §626, 101 Stat. 1263; Oct. 11, 1996, Pub. L. 104–290, title V, §505, 110 Stat. 3446.)
+(Aug. 22, 1940, ch. 686, title I, §55, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2278; amended Pub. L. 100–181, title VI, §626, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 104–290, title V, §505, Oct. 11, 1996, 110 Stat. 3446.)
 
 #### References in Text
 

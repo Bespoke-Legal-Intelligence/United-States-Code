@@ -26,7 +26,7 @@ No order may be issued under this section or section 824i of this title if, afte
 
 &emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
-&emsp;(C) the ordered transmission services require enlargement of transmission capacity and the transmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
+&emsp;(C) the ordered transmission services require enlargement of transmission capacity and thetransmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
 
 > No order shall be issued under this subsection pursuant to a finding under subparagraph (A) unless the Commission finds that such order is in the public interest.
 
@@ -50,7 +50,7 @@ No order may be issued under this section or section 824i of this title if, afte
 
 As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
 
-(June 10, 1920, ch. 285, pt. II, §211, as added Pub. L. 95–617, title II, §203, Nov. 9, 1978, 92 Stat. 3136; amended June 30, 1980, Pub. L. 96–294, title VI, §643(a)(3), 94 Stat. 770; Oct. 16, 1986, Pub. L. 99–495, §15, 100 Stat. 1257; Oct. 24, 1992, Pub. L. 102–486, title VII, §721, 106 Stat. 2915.)
+(June 10, 1920, ch. 285, pt. II, §211, as added Pub. L. 95–617, title II, §203, Nov. 9, 1978, 92 Stat. 3136; amended Pub. L. 96–294, title VI, §643(a)(3), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §15, Oct. 16, 1986, 100 Stat. 1257; Pub. L. 102–486, title VII, §721, Oct. 24, 1992, 106 Stat. 2915.)
 
 #### Amendments
 

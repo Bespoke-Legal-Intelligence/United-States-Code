@@ -8,13 +8,13 @@ Assault.—A person who assaults any person having lawful charge, control, or cu
 
 Receipt, Possession, Concealment, or Disposal of Property.—A person who receives, possesses, conceals, or disposes of any money or other property that has been obtained in violation of this section, knowing the same to have been unlawfully obtained, shall be imprisoned not more than 10 years, fined under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 797; Oct. 12, 1984, Pub. L. 98–473, title II, §223(d), 98 Stat. 2028; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3562, 104 Stat. 4927; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §§320602, 320903(a)(3), 108 Stat. 2115, 2124; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(17), 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 797; Pub. L. 98–473, title II, §223(d), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 101–647, title XXXV, §3562, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title XXXII, §§320602, 320903(a)(3), Sept. 13, 1994, 108 Stat. 2115, 2124; Pub. L. 104–294, title VI, §604(b)(17), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
 Based on title 18, U.S.C., 1940 ed., §320 (Mar. 4, 1909, ch. 321, §197, 35 Stat. 1126; Aug. 26, 1935, ch. 694, 49 Stat. 867).
 
-The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Suchlegislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
+The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
 
 Minor changes were made in phraseology.
 

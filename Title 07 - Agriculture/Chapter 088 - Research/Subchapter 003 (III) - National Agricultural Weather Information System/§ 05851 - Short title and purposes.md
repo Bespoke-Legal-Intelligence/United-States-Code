@@ -16,7 +16,7 @@ The purposes of this subchapter are—
 
 &emsp;(4) to encourage, where feasible, greater private sector participation in providing agricultural weather and climate information, to encourage private sector participation in educating and training farmers and others in the proper utilization of agricultural weather and climate information, and to strengthen their ability to provide site-specific weather forecasting for farmers and the agricultural sector in general; and
 
-&emsp;(5) to ensure that the weather and climate data bases needed by the agricultural sector are of the highest scientific accuracy and thoroughly documented, and that such data bases are easily accessible for remote computer access.
+&emsp;(5) to ensure that the weather and climate data bases needed by the agricultural sectorare of the highest scientific accuracy and thoroughly documented, and that such data bases are easily accessible for remote computer access.
 
 (Pub. L. 101–624, title XVI, §1637, Nov. 28, 1990, 104 Stat. 3747.)
 

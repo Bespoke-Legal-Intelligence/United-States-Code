@@ -4,7 +4,7 @@
 
 (2) To assist such centers in carrying out such functions, the Secretary shall perform the following:
 
-&emsp;(A) In consultation with the Centers for Disease Control and Indian tribes, develop sets of data (which to the extent practicable, shall be consistent with the uniform data sets used by the States with respect to the year 2000 health objectives) for uniformly defining healthstatus for purposes of the objectives specified in section 1602(b) of this title. Such sets shall consist of one or more categories of information. The Secretary shall develop formats for the uniform collecting and reporting of information on such categories.
+&emsp;(A) In consultation with the Centers for Disease Control and Indian tribes, develop sets of data (which to the extent practicable, shall be consistent with the uniform data sets used by the States with respect to the year 2000 health objectives) for uniformly defining health status for purposes of the objectives specified in section 1602(b) of this title. Such sets shall consist of one or more categories of information. The Secretary shall develop formats for the uniform collecting and reporting of information on such categories.
 
 &emsp;(B) Establish and maintain a system for monitoring the progress made toward meeting each of the health status objectives described in section 1602(b) of this title.
 

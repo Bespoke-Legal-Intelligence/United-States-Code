@@ -19,6 +19,7 @@
 | (a) | Public health services. |
 | (b) | Public educational system. |
 | (c) | Office of Public Prosecutor; Office of Public Auditor. |
+| (d) | Attorney General. |
 | [1421h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421h%20-%20Duties%2C%20taxes%2C%20and%20fees%3B%20proceeds%20collected%20to%20constitute%20fund%20for%20benefit%20of%20Guam%3B%20prerequisites%2C%20amount%2C%20etc.%2C%20remitted%20prior%20to%E2%80%A6.md) | Duties, taxes, and fees; proceeds collected to constitute fund for benefit of Guam; prerequisites, amount, etc., remitted prior to commencement of next fiscal year. |
 | [1421i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001421i%20-%20Income%20tax.md) | Income tax. |
 | (a) | Applicability of Federal laws; separate tax. |

@@ -6,7 +6,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;(1) Advance recourse loans shall be made available only to those producers of a commodity who are unable to obtain sufficient credit elsewhere to finance the production of the 1986 crop of that commodity, taking into consideration prevailing private and cooperative rates and terms for loans for similar purposes (as determined by the Secretary) in the community in or near which the applicant resides. A producer who has received a commitment or been furnished sufficient credit or a loan for production of the 1986 crop of a commodity shall not be eligible for an advance recourse loan to finance the production of that commodity for such crop year.
 
-&emsp;(2) Advance recourse loans shall be made available to producers of a commodity at theapplicable nonrecourse loan rate for the commodity (as determined by the Secretary). Within the limits set out in paragraphs (5) and (7), advance recourse loans shall be available—
+&emsp;(2) Advance recourse loans shall be made available to producers of a commodity at the applicable nonrecourse loan rate for the commodity (as determined by the Secretary). Within the limits set out in paragraphs (5) and (7), advance recourse loans shall be available—
 
 &emsp;&emsp;(A) to producers of wheat, feed grains, cotton, and rice who agree to participate in the program announced for the commodity on an amount of the commodity equal to one-half of the farm program yield for the commodity multiplied by the farm program acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary;
 

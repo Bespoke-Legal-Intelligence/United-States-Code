@@ -2,7 +2,7 @@
 
 (a)
 
-Report on Environmental Restoration Activities.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 30 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on the progress made by the Secretary in carrying out environmental restoration activities at military installations.
+Report on Environmental Restoration Activities.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on the progress made by the Secretary in carrying out environmental restoration activities at military installations.
 
 (2) Each such report shall include, with respect to environmental restoration activities for each military installation, the following:
 
@@ -32,7 +32,7 @@ Report on Environmental Restoration Activities.—(1) The Secretary of Defense s
 
 (b)
 
-Report on Environmental Compliance Activities.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 30 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on the progress made by the Secretary in carrying out environmental compliance activities at military installations.
+Report on Environmental Compliance Activities.—(1) The Secretary of Defense shallsubmit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on the progress made by the Secretary in carrying out environmental compliance activities at military installations.
 
 (2) Each such report shall include the following:
 
@@ -70,7 +70,7 @@ Report on Environmental Compliance Activities.—(1) The Secretary of Defense sh
 
 (c)
 
-Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 30 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on payments made by the Secretary to defense contractors for the costs of environmental response actions.
+Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 45 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on payments made by the Secretary to defense contractors for the costs of environmental response actions.
 
 (2) Each such report shall include, for the fiscal year preceding the year in which the report is submitted, the following:
 
@@ -80,7 +80,7 @@ Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall s
 
 (d)
 
-Report on Environmental Activities Overseas.—(1) The Secretary of Defense shall submit to Congress each year, not later than 30 days after the date on which the President submits to Congress the budget for a fiscal year, a report on the environmental activities of the Department of Defense overseas.
+Report on Environmental Activities Overseas.—(1) The Secretary of Defense shall submit to Congress each year, not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, a report on the environmental activities of the Department of Defense overseas.
 
 (2) Each such report shall include a statement of the funding levels during such fiscal year for each of the following categories:
 
@@ -110,9 +110,11 @@ Definitions.—In this section:
 
 &emsp;(3) The term “response action contractor” has the meaning given such term in section 119(e)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(e)(2)).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§344(a), 345, Nov. 18, 1997, 111 Stat. 1688.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§344(a), 345, Nov. 18, 1997, 111 Stat. 1688; Pub. L. 105–261, div. A, title III, §325, Oct. 17, 1998, 112 Stat. 1965.)
 
 #### Amendments
+
+1998—Subsecs. (a)(1), (b)(1), (c)(1), (d)(1). Pub. L. 105–261 substituted “not later than 45 days” for “not later than 30 days”.
 
 1997—Subsec. (b)(2)(H). Pub. L. 105–85, §344(a), added subpar. (H).
 

@@ -52,6 +52,148 @@ Section 203(f) of Pub. L. 97–35 provided that: “The amendments made by subse
 
 Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 
+#### Required Disposals During Fiscal Years 1999 to 2005
+
+Pub. L. 105–262, title VIII, §8109, Oct. 17, 1998, 112 Stat. 2322, provided that:
+
+“(a)
+
+Disposal of Certain Materials in National Defense Stockpile.—Subject to subsection (c), the President shall dispose of materials contained in the National Defense Stockpile and specified in the table in subsection (b) so as to result in receipts to the United States in the amount of $100,000,000 by the end of fiscal year 1999.
+
+“(b)
+
+Disposal Quantities.—The total quantities of materials authorized for disposal by the President under subsection (a) may not exceed the amounts set forth in the following table:
+
+<b>“Authorized Stockpile Disposals</b>
+
+| <b>Material for disposal</b> | <b>Quantity</b> |
+| :--- | ---: |
+| Beryllium Metal | 20 short tons |
+| Chromium Ferroalloy | 25,000 short tons |
+| Columbium Carbide Powder | 21,372 pounds of contained Columbium |
+| Diamond, Stones | 600,000 carats |
+| Platinum | 100,000 troy ounces |
+| Platinum—Palladium | 150,000 troy ounces |
+| Tantalum Carbide Powder | 22,688 pounds of contained Tantalum |
+| Tantalum Metal Ingots | 25,000 pounds of contained Tantalum |
+| Tantalum Metal Powder | 25,000 pounds of contained Tantalum |
+
+“(c)
+
+Minimization of Disruption and Loss.—The President may not dispose of materials under subsection (a) to the extent that the disposal will result in—
+
+&emsp;“(1) undue disruption of the usual markets of producers, processors, and consumers of the materials proposed for disposal; or
+
+&emsp;“(2) avoidable loss to the United States.
+
+“(d)
+
+Treatment of Receipts.—Notwithstanding section 9 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h), funds received as a result of the disposal of materials authorized for disposal under subsection (a) shall be deposited into the general fund of the Treasury.
+
+“(e)
+
+Relationship to Other Disposal Authority.—(1) The disposal authority provided in subsection (a) is new disposal authority and is in addition to, and shall not affect, any other disposal authority provided by law regarding the materials specified in such subsection.
+
+“(2) The disposal authority provided in subsection (a) is referred to in section 3303 of the National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261, set out as a note below\], and the quantities of the materials specified in the table in subsection (b) are included in the quantities specified in the table in subsection (b) of such section 3303.
+
+“(f)
+
+Definition.—In this section, the term ‘National Defense Stockpile’ means the stockpile provided for in section 4 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98c).”
+
+Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263, provided that:
+
+#### “SEC. 3301. DEFINITIONS.
+
+“In this title \[amending section 98h of this title\]:
+
+&emsp;“(1) The term ‘National Defense Stockpile’ means the stockpile provided for in section 4 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98c).
+
+&emsp;“(2) The term ‘National Defense Stockpile Transaction Fund’ means the fund in the Treasury of the United States established under section 9(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h(a)).
+
+#### “SEC. 3303. AUTHORITY TO DISPOSE OF CERTAIN MATERIALS IN NATIONAL DEFENSE STOCKPILE.
+
+“(a)
+
+Disposal Required.—Subject to subsection (c), the President shall dispose of materials contained in the National Defense Stockpile and specified in the table in subsection (b) so as to result in receipts to the United States in the amount of—
+
+&emsp;“(1) $105,000,000 by the end of fiscal year 1999;
+
+&emsp;“(2) $460,000,000 by the end of fiscal year 2002;
+
+&emsp;“(3) $555,000,000 by the end of fiscal year 2003; and
+
+&emsp;“(4) $590,000,000 by the end of fiscal year 2005.
+
+“(b)
+
+Limitation on Disposal Quantity.—The total quantities of materials authorized for disposal by the President under subsection (a) may not exceed the amounts set forth in the following table:
+
+<b>“Authorized Stockpile Disposals</b>
+
+| <b>Material for disposal</b> | <b>Quantity</b> |
+| :--- | ---: |
+| Bauxite Refractory | 29,000 long calcined ton |
+| Beryllium Metal | 100 short tons |
+| Chromite Chemical | 34,000 short dry tons |
+| Chromite Refractory | 159,000 short dry tons |
+| Chromium Ferroalloy | 125,000 short tons |
+| Columbium Carbide Powder | 21,372 pounds of contained Columbium |
+| Columbium Concentrates | 1,733,454 pounds of contained Columbium |
+| Columbium Ferro | 249,396 pounds of contained Columbium |
+| Columbium Metal—Ingots | 161,123 pounds of contained Columbium |
+| Diamond, Stones | 3,000,000 carats |
+| Germanium Metal | 28,198 kilograms |
+| Graphite Natural Ceylon Lump | 5,492 short tons |
+| Indium | 14,248 troy ounces |
+| Mica Muscovite Block | 301,000 pounds |
+| Mica Phlogopite Block | 130,745 pounds |
+| Platinum | 439,887 troy ounces |
+| Platinum—Iridium | 4,450 troy ounces |
+| Platinum—Palladium | 750,000 troy ounces |
+| Tantalum Carbide Powder | 22,688 pounds of contained Tantalum |
+| Tantalum Metal Ingots | 125,000 pounds of contained Tantalum |
+| Tantalum Metal Powder | 125,000 pounds of contained Tantalum |
+| Tantalum Minerals | 1,751,364 pounds of contained Tantalum |
+| Tantalum Oxide | 122,730 pounds of contained Tantalum |
+| Tungsten Carbide Powder | 2,032,896 pounds of contained Tungsten |
+| Tungsten Ferro | 2,024,143 pounds of contained Tungsten |
+| Tungsten Metal Powder | 1,898,009 pounds of contained Tungsten |
+| Tungsten Ores \& Concentrates | 76,358,235 pounds of contained Tungsten |
+
+“(c)
+
+Minimization of Disruption and Loss.—The President may not dispose of materials under subsection (a) to the extent that the disposal will result in—
+
+&emsp;“(1) undue disruption of the usual markets of producers, processors, and consumers of the materials proposed for disposal; or
+
+&emsp;“(2) avoidable loss to the United States.
+
+“(d)
+
+Treatment of Receipts.—Notwithstanding section 9 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h), funds received as a result of the disposal of materials authorized for disposal under subsection (a) shall be treated as follows:
+
+&emsp;“(1) The following amounts shall be transferred to the Secretary of Health and Human Services, to be credited in the manner determined by the Secretary to the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund:
+
+&emsp;&emsp;“(A) $3,000,000 during fiscal year 1999.
+
+&emsp;&emsp;“(B) $22,000,000 during fiscal year 2000.
+
+&emsp;&emsp;“(C) $28,000,000 during fiscal year 2001.
+
+&emsp;&emsp;“(D) $31,000,000 during fiscal year 2002.
+
+&emsp;&emsp;“(E) $8,000,000 during fiscal year 2003.
+
+&emsp;“(2) The balance of the funds received shall be deposited into the general fund of the Treasury.
+
+“(e)
+
+Relationship to Other Disposal Authority.—The disposal authority provided in subsection (a) is new disposal authority and is in addition to, and shall not affect, any other disposal authority provided by law regarding the materials specified in such subsection.
+
+“(f)
+
+Authorization of Sale.—The authority provided by this section to dispose of materials contained in the National Defense Stockpile so as to result in receipts of $100,000,000 of the amount specified for fiscal year 1999 in subsection (a) by the end of that fiscal year shall be effective only to the extent provided in advance in appropriation Acts.”
+
 #### Authorized Disposals; Fiscal Year 1998
 
 Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057, provided that:
@@ -148,7 +290,7 @@ Pub. L. 104–201, div. C, title XXXIII, §§3301, 3303, Sept. 23, 1996, 110 Sta
 
 #### “SEC. 3301. DEFINITIONS.
 
-“In this title \[enacting this note and amending sections 98a, 98b, 98e, 98h–4, and 98h–5 of this title\]:
+“In this title \[amending sections 98a, 98b, 98e, 98h–4, and 98h–5 of this title\]:
 
 &emsp;“(1) The term ‘National Defense Stockpile’ means the stockpile provided for in section 4 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98c).
 
@@ -264,7 +406,7 @@ Sections 3301 to 3303 of Pub. L. 102–484, as amended by Pub. L. 103–160, div
 
 #### “SEC. 3301. DEFINITIONS.
 
-“For purposes of this subtitle \[subtitle A (§§3301–3308) of title XXXIII of div. C of Pub. L. 102–484, enacting this note and provisions set out as a note under section 98h–1 of this title and amending provisions set out as a note below\]:
+“For purposes of this subtitle \[subtitle A (§§3301–3308) of title XXXIII of div. C of Pub. L. 102–484, enacting provisions set out as a note under section 98h–1 of this title and amending provisions set out as a note below\]:
 
 &emsp;“(1) The terms ‘National Defense Stockpile’ and ‘stockpile’ mean the stockpile provided for in section 4 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98c).
 
@@ -498,7 +640,7 @@ Required Upgrading.—During each of fiscal years 1987 through 1993, the Preside
 
 Quantities To Be Upgraded.—(1) Contracts awarded under subsection (a) shall provide for the addition of not less than 53,500 short tons of high carbon ferrochromium and not less than 67,500 short tons of high carbon ferromanganese to the National Defense Stockpile during each of the fiscal years covered by subsection (a).
 
-“(2) If, during any fiscal year referred to in subsection (a), the minimum quantity of high carbon ferrochromium or high carbon ferromanganese to be added to the National Defense Stockpile, as required by paragraph (1), is not met, the quantity of such material to be added to the stockpile in the next fiscal year shall be increased by the quantity of the deficiency.
+“(2) If, during any fiscal year referred to in subsection (a), the minimum quantity of high carbonferrochromium or high carbon ferromanganese to be added to the National Defense Stockpile, as required by paragraph (1), is not met, the quantity of such material to be added to the stockpile in the next fiscal year shall be increased by the quantity of the deficiency.
 
 “(c)
 
@@ -520,7 +662,7 @@ Pub. L. 99–500, §101(m) \[title V, §519\], Oct. 18, 1986, 100 Stat. 1783–3
 
 #### Prohibition of Reductions in Stockpile Goals
 
-Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by Pub. L. 99–661, div. C, title II, §3201,Nov. 14, 1986, 100 Stat. 4067, prohibited action before Oct. 1, 1987, to implement or administer any change in a stockpile goal in effect on Oct. 1, 1984, that would result in a reduction in the quality or quantity of any strategic and critical material acquired for the National Defense Stockpile.
+Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by Pub. L. 99–661, div. C, title II, §3201, Nov. 14, 1986, 100 Stat. 4067, prohibited action before Oct. 1, 1987, to implement or administer any change in a stockpile goal in effect on Oct. 1, 1984, that would result in a reduction in the quality or quantity of any strategic and critical material acquired for the National Defense Stockpile.
 
 #### Disposal Authorization
 
@@ -674,7 +816,7 @@ Section 201 of Pub. L. 97–35 provided that:
 
 “(3) The authority to enter into contracts for the disposal of materials in the stockpile under the disposal authorizations contained in subsection (c) expires on September 30, 1984.
 
-“(e) Any disposal under the authority of subsection (a), (b), or (c) shall be carried out in accordance withthe provisions of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.).
+“(e) Any disposal under the authority of subsection (a), (b), or (c) shall be carried out in accordance with the provisions of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.).
 
 “(f)(1) The authority contained in subsections (b)(1) and (c)(1) shall not become effective unless the President, not later than September 1, 1982, determines that the silver authorized for disposal by such subsections is excess to the requirements of the stockpile as of that date.
 
@@ -712,7 +854,7 @@ Act June 22, 1956, ch. 426, 70 Stat. 329, directed Federal Facilities Corporatio
 
 #### Maintenance of Domestic Tin-Smelting Industry; Transfer of Functions, Etc.
 
-Act June 28, 1947, ch. 159, 61 Stat. 190, as amended June 29, 1948, ch. 722, 62 Stat. 1101; June 30, 1949, ch. 284, 63 Stat. 350; Aug. 21, 1950, ch. 766, 64 Stat. 468; July 30, 1953, ch. 282, title I, §103, 67 Stat. 230; June 22, 1956, ch. 426, §5(a), 70 Stat. 329, declared tin to be a highly strategic and critical material in short supply, directed that it was in the public interest that Congress make a thorough investigation on the advisability of the maintenance of a permanent tin-smelting industry and study the availability of adequate tin supplies, provided that the powers, functions, duties, and authority of the United States exercised by the Reconstruction Finance Corporation to buy, sell, and transport tin, and tin ore and concentrates, to improve, develop, maintain, and operate by lease or otherwise the Government-owned tin smelter at Texas City, Texas, to finance research in tin smelting and processing, and to do all other things necessary to the accomplishment of the foregoing continue in effect until Jan. 31, 1957, or until such earlier time as the Congress shall otherwise provide, and be exercised and performed by such officer, agency, or instrumentality of the United States as the President may designate, authorized diversification of tin-recovery facilities in the United States, and required the Reconstruction Finance Corporation to report to Congress on its activities not later than Dec. 31, 1947, and at the end of each six months thereafter.
+Act June 28, 1947, ch. 159, 61 Stat. 190, as amended June 29, 1948, ch. 722, 62 Stat. 1101; June 30, 1949, ch. 284, 63 Stat. 350; Aug. 21, 1950, ch. 766, 64 Stat. 468; July 30, 1953, ch. 282, title I, §103, 67 Stat. 230; June 22, 1956, ch. 426, §5(a), 70 Stat. 329, declared tin to be a highly strategic and critical material in short supply, directed that it was in the public interest that Congress make a thorough investigation on the advisability of the maintenance of a permanent tin-smelting industry and study the availability of adequate tin supplies, provided that the powers, functions, duties, and authority of the United States exercised by the Reconstruction Finance Corporation to buy, sell, and transport tin, and tin ore and concentrates, to improve, develop, maintain, and operate by lease or otherwise the Government-owned tin smelter at Texas City, Texas, to finance research in tin smelting and processing, and to do all other things necessary to the accomplishment ofthe foregoing continue in effect until Jan. 31, 1957, or until such earlier time as the Congress shall otherwise provide, and be exercised and performed by such officer, agency, or instrumentality of the United States as the President may designate, authorized diversification of tin-recovery facilities in the United States, and required the Reconstruction Finance Corporation to report to Congress on its activities not later than Dec. 31, 1947, and at the end of each six months thereafter.
 
 #### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
 

@@ -32,7 +32,7 @@ The Secretary may by regulation—
 
 &emsp;(3) authorize the Customs Service to permit entry or preliminary entry of any vessel to be made at a place other than a designated port of entry, under such conditions as may be prescribed.
 
-(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Dec. 8, 1993, Pub. L. 103–182, title VI, §653, 107 Stat. 2210.)
+(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §653, Dec. 8, 1993, 107 Stat. 2210.)
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ R.S. §2836, relative to the entry of vessels arriving within the districts of P
 
 Special provisions for Astoria and Portland were contained in R.S. §§2588–2590, which were also repealed by section 642 of the act of Sept. 21, 1922, ch. 356.
 
-R.S. §2835, prescribing the duties of masters of vessels bound up James River, Virginia, in regard to deposit ofmanifests, etc., was repealed by act Mar. 3, 1897, ch. 389, §16, 29 Stat. 691.
+R.S. §2835, prescribing the duties of masters of vessels bound up James River, Virginia, in regard to deposit of manifests, etc., was repealed by act Mar. 3, 1897, ch. 389, §16, 29 Stat. 691.
 
 Special provisions to facilitate the entry of steamships running in an established line in foreign trade, made by act June 5, 1894, ch. 92, §1, 28 Stat. 85, and extended to steamships trading between Porto Rico and Hawaii and the United States by act May 31, 1900, ch. 600, 31 Stat. 249, were repealed by section 6 of act Feb. 13, 1911, ch. 46, the preceding sections of which act made more comprehensive provisions for preliminary entry of any vessel from a foreign port, and for the lading or unlading of such vessels at night. Sections 1 to 4 of said act of 1911, were repealed by section 643 of the act of Sept. 21, 1922, ch. 356.
 

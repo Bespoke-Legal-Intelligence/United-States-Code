@@ -10,7 +10,7 @@
 
 (b) Sums appropriated for the purposes of this section, if obligated during the fiscal year for which appropriated, remain available for expenditure for four years after the end of that fiscal year. Any balance not spent after that four-year period shall be carried to the surplus fund and covered into the Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5152; renumbered §5023 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §§511(d), 514(c)(2), 100 Stat. 1048, 1055.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5152; renumbered §5023 and amended Pub. L. 99–433, title V, §§511(d), 514(c)(2), Oct. 1, 1986, 100 Stat. 1048, 1055.)
 
 Historical and Revision Notes
 

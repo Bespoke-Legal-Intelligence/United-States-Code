@@ -34,7 +34,7 @@ The Secretary may reimburse applicants for positions in the Corps (including ind
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; “monthly pay” defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
-(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
+(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthlypay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
 &emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
@@ -78,11 +78,11 @@ For the purposes of this subpart and subpart III:
 
 &emsp;(4) The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(July 1, 1944, ch. 373, title III, §331, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2268; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2701, 95 Stat. 902; Dec. 1, 1987, Pub. L. 100–177, title II, §202(b), title III, §301, 101 Stat. 996, 1003; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 16, 1990, Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], 104 Stat. 3013, 3035.)
+(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035.)
 
 #### References in Text
 
-Section 294n of this title, referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiencysyndrome, which was classified to section 294n of this title, and subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
+Section 294n of this title, referred to in subsec. (d)(1)(C), was in the original a reference to section 741of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to section 294n of this title, and subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
 
 #### Amendments
 
@@ -148,7 +148,7 @@ Section 407(c) of Pub. L. 94–484 provided that:
 
 “(1) The amendment made by subsections (a) and (b) \[enacting this subpart and repealing section 254b of this title\] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) \[section 254e of this title\] after the date of enactment of this Act \[Oct. 12, 1976\].
 
-“(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 254b(b) of this title\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[this subpart\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[section 254e of this title\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[section 254f of this title\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area (within the meaning of section 334 (as so added)) \[section 254g of this title\] has expired.
+“(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 254b(b) of this title\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[this subpart\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[section 254e of this title\], and (ii) have had anapplication approved under section 333 of such Act (as so added)) \[section 254f of this title\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area (within the meaning of section 334 (as so added)) \[section 254g of this title\] has expired.
 
 “(B) The assignment period (within the meaning of such section 334) \[section 254g of this title\] applicable to an area described in subparagraph (A) of this paragraph shall be considered to have begun on the date Corps personnel were first assigned to such area under section 329 of such Act (as in effect on September 30, 1977) \[former section 254b of this title\].
 
@@ -158,7 +158,7 @@ Section 407(c) of Pub. L. 94–484 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 201, 254f, 254g, 254h, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m of this title; title 25 section 1616a.
+This section is referred to in sections 201, 254f, 254g, 254h, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 11709 of this title; title 25 section 1616a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

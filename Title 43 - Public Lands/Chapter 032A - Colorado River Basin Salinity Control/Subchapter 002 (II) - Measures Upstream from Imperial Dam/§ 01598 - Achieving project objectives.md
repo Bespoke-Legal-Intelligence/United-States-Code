@@ -26,7 +26,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 Subsec. (b). Pub. L. 98–569, §5(b)(1), inserted “(a) or (b)” after “1592”.
 
-Pub. L. 98–569, §5(b)(2), inserted “The funds authorized to be appropriated by this section may be used for construction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title.”
+Pub. L. 98–569, §5(b)(2), inserted “The funds authorized to be appropriated by this section may be used forconstruction of any or all of the works or portions thereof and for other purposes authorized in subsection (a) of this section, including measures as provided for in subsection (b) of section 1592 of this title.”
 
 #### Effective Date of 1984 Amendment
 

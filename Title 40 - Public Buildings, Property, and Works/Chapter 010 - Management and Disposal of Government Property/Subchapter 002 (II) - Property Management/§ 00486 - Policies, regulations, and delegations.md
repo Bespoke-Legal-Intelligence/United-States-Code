@@ -44,7 +44,7 @@ This Act, referred to in subsecs. (a) and (c) to (h), is act June 30, 1949, ch. 
 
 #### Codification
 
-In subsec. (g), “section 5703 of title 5” substituted for “section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (g), “section 5703 of title 5” substituted for “section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)”on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 235 of Title 41, Public Contracts.
 
@@ -104,7 +104,7 @@ Pub. L. 104–52, title VI, §636, Nov. 19, 1995, 109 Stat. 507, provided that: 
 
 &emsp;“(2) a detailed list of the location of all tobacco product vending machines located in Federal buildings under the administration of the Administrator or such head of an agency.
 
-“(d)(1) No later than 45 days after the date of the enactment of this Act \[Nov. 19, 1995\], the Senate Committee on Rules and Administration and the House of Representatives Committee on House Oversight, after consultation with the Architect of the Capitol, shall promulgate regulations under the Senate and House of Representatives rulemaking authority that prohibit the sale of tobacco products in vending machines in the Capitol Buildings.
+“(d)(1) No later than 45 days after the date of the enactment of this Act \[Nov. 19, 1995\], the Senate Committee on Rules and Administration and the House of Representatives Committee on House Oversight \[now Committee on House Administration\], after consultation with the Architect of the Capitol, shall promulgate regulations under the Senate and House of Representatives rulemaking authority that prohibit the sale of tobacco products in vending machines in the Capitol Buildings.
 
 “(2) Such committees may designate areas where such prohibition shall not apply, if such area also prohibits the presence of minors.
 
@@ -118,7 +118,7 @@ To all executive agencies: By virtue of the authority vested in me by section 20
 
 1\. In cooperation with other interested agencies, the Administrator of General Services shall institute studies and surveys to determine the extent to which existing policies, procedures and directives heretofore promulgated and remaining in force under section 501 of the Act \[section 473 of this title\] should be modified or revoked in the interest of promoting greater economy and efficiency in accomplishing the purposes of this Act. Careful attention shall be given to determining the degree of centralization in the General Services Administration to be attained in the performance of the functions involved. When these studies and surveys have been completed and after consulting with the interested agencies, the Administrator shall prescribe such regulations as may be necessary to implement the determinations resulting from such studies and surveys.
 
-2\. After consultation with the Bureau of the Budget \[now the Office of Management and Budget\] and other Executive agencies, and also with the General Accounting Office in respect of such matters as may be appropriate, including matters affecting its functions under sections 205(b) and 206(c) of the Act \[subsec. (b) of thissection and section 487(c) of this title\], and at the earliest possible date, the Administrator of General Services shall establish such standards, prescribe such regulations, and prepare and issue such manuals and procedures as may be necessary to guide all Executive agencies in ascertaining whether their operations in the field of property and records management are efficient and economical as well as consistent with established Government policies.
+2\. After consultation with the Bureau of the Budget \[now the Office of Management and Budget\] and other Executive agencies, and also with the General Accounting Office in respect of such matters as may be appropriate, including matters affecting its functions under sections 205(b) and 206(c) of the Act \[subsec. (b) of this section and section 487(c) of this title\], and at the earliest possible date, the Administrator of General Services shall establish such standards, prescribe such regulations, and prepare and issue such manuals and procedures as may be necessary to guide all Executive agencies in ascertaining whether their operations in the field of property and records management are efficient and economical as well as consistent with established Government policies.
 
 3\. In accordance with directives to be issued by the Administrator of General Services, each Executive agency shall promptly institute surveys to determine excess personal property and that portion of excess real property, including unimproved property, under their control which might be suitable for office, storage, and related facilities, and shall promptly report to the Administrator as soon as each survey is completed.
 
@@ -162,7 +162,7 @@ Sec. 4. <i>Transfers of records, facilities, personnel, and appropriations</i>. 
 
 Sec. 5. <i>Taking effect of determinations</i>. Unless a greater time is allowed therein, any determination made by the Administrator shall become binding on all affected executive agencies forty-five days after the issuance thereof except with respect to any agency which appeals, or requests an exemption, from any such determination in accordance with section 6 of these regulations.
 
-Sec. 6. <i>Review of determinations not agreed to by agencies affected</i>. (a) Any executive agency may appeal or request exemption from any or all proposals affecting it which are contained in a determination. Appeals shallbe submitted in writing to the Director with a copy to the Administrator within forty-five days from the date of the determination. Such appeals shall be accompanied by factual and objective supporting data and justification.
+Sec. 6. <i>Review of determinations not agreed to by agencies affected</i>. (a) Any executive agency may appeal or request exemption from any or all proposals affecting it which are contained in a determination. Appeals shall be submitted in writing to the Director with a copy to the Administrator within forty-five days from the date of the determination. Such appeals shall be accompanied by factual and objective supporting data and justification.
 
 (b) The Director shall review any determination from which an executive agency has appealed and shall make a final decision on such appeal. The Director shall make such decisions, within seventy-five days after he receives the appeal or as soon thereafter as practicable, on the basis of information contained in the Administrator's determination, the executive agencies’ appeals therefrom, and any supplementary data submitted by the Administrator and the contesting agencies. The Director shall send copies of decisions to the Administrator and to the heads of other executive agencies concerned.
 

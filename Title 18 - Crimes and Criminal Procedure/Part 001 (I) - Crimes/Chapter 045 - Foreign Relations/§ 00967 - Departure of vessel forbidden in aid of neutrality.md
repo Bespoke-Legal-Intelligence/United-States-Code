@@ -4,7 +4,7 @@
 
 (b) Whoever, in violation of this section, takes or attempts to take, or authorizes the taking of any such vessel, out of port or from the United States, shall be fined under this title or imprisoned not more than ten years, or both. In addition, such vessel, her tackle, apparel, furniture, equipment, and her cargo shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 748; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 748; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -12,7 +12,7 @@
 
 #### (b) Reasonable variations or additional label requirements
 
-If the Commission finds that the requirements of section 1261(p)(1) of this title are not adequate for the protection of the public health and safety in view of the special hazard presented by any particular hazardous substance, it may by regulation establish such reasonable variations or additional label requirements as it finds necessary for the protection of the public health and safety; and any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance.
+If the Commission finds that the requirements of section 1261(p)(1) of this title are not adequatefor the protection of the public health and safety in view of the special hazard presented by any particular hazardous substance, it may by regulation establish such reasonable variations or additional label requirements as it finds necessary for the protection of the public health and safety; and any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance.
 
 #### (c) Exemption from requirements by regulation
 
@@ -32,7 +32,7 @@ The Commission may exempt from the requirements established by or pursuant to th
 
 (B) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there was no opportunity to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission in a hearing or in such other manner, and upon such terms and conditions, as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendation, if any, for the modification or setting aside of its original determination, with the return of such additional evidence.
 
-(C) Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission inaccordance with subparagraphs (A), (B), (C), and (D), of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Commission's determination to determine if, on the basis of the entire record before the court pursuant to subparagraphs (A) and (B) of this paragraph, it is supported by substantial evidence. If the court finds the determination is not so supported, the court may set it aside. With respect to any determination reviewed under this paragraph, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of title 5.
+(C) Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission in accordance with subparagraphs (A), (B), (C), and (D), of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Commission's determination to determine if, on the basis of the entire record before the court pursuant to subparagraphs (A) and (B) of this paragraph, it is supported by substantial evidence. If the court finds the determination is not so supported, the court may set it aside. With respect to any determination reviewed under this paragraph, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of title 5.
 
 (D) The judgment of the court affirming or setting aside, in whole or in part, any such determination of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
@@ -82,7 +82,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) of this section was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
-&emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (f)(6) of this section and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section; and
+&emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (f)(6) of thissection and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section; and
 
 &emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 
@@ -120,7 +120,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(Pub. L. 86–613, §3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, §2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–35, title XII, §1203(b)(1),Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113.)
+(Pub. L. 86–613, §3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, §2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–35, title XII, §1203(b)(1), Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113.)
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Subsec. (j). Pub. L. 101–608, §110(b), added subsec. (j).
 
 1969—Subsec. (e). Pub. L. 91–113 added subsec. (e).
 
-1966—Subsec. (b). Pub. L. 89–756, §2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
+1966—Subsec. (b). Pub. L. 89–756, §2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with suchregulations shall be deemed to be a misbranded package of a hazardous substance”.
 
 Subsec. (d). Pub. L. 89–756, §2(e), inserted “hazardous substance or” before “container of a hazardous substance”.
 

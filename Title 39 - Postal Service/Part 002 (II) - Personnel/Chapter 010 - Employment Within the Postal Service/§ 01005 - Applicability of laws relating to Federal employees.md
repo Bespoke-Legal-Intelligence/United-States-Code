@@ -36,7 +36,7 @@
 
 &emsp;(B) any reference in such provisions to an employee shall be considered a reference to an officer or employee of the Postal Service.
 
-(e) Sick and annual leave, and compensatory time of officers and employees of the Postal Service, whether accrued prior to or after commencement of operations of the Postal Service, shall be obligations of the Postal Service under the provisions of this chapter.
+(e) Sick and annual leave, and compensatory time of officers and employees of the PostalService, whether accrued prior to or after commencement of operations of the Postal Service, shall be obligations of the Postal Service under the provisions of this chapter.
 
 (f) Compensation, benefits, and other terms and conditions of employment in effect immediately prior to the effective date of this section, whether provided by statute or by rules and regulations of the former Post Office Department or the executive branch of the Government of the United States, shall continue to apply to officers and employees of the Postal Service, until changed by the Postal Service in accordance with this chapter and chapter 12 of this title. Subject to the provisions of this chapter and chapter 12 of this title, the provisions of subchapter I of chapter 85 and chapters 87 and 89 of title 5 shall apply to officers and employees of the Postal Service, unless varied, added to, or substituted for, under this subsection. No variation, addition, or substitution with respect to fringe benefits shall result in a program of fringe benefits which on the whole is less favorable to the officers and employees than fringe benefits in effect on the effective date of this section, and as to officers and employees for whom there is a collective-bargaining representative, no such variation, addition, or substitution shall be made except by agreement between the collective-bargaining representative and the Postal Service.
 
@@ -78,5 +78,5 @@ Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 7511; title 10 section 1599c.
+This section is referred to in title 5 sections 2302, 7511.
 

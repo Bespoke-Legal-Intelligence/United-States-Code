@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1532, 1533 of this title; title 20 sections 1205a, 2322, 6123, 6143.
+This subchapter is referred to in sections 1532, 1533, 2821 of this title; title 20 sections 6123, 6143.
 
 
 ---

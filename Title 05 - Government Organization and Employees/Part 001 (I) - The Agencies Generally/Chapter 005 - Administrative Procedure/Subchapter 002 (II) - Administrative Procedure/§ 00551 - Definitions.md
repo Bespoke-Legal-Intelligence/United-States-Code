@@ -144,5 +144,5 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 500, 504, 552, 562, 571, 592, 595, 601, 701, 804, 3344 of this title; title 2 sections 501, 502, 658, 1602; title 7 section 6997; title 15 sections 78d–1, 78w, 632, 637c, 766, 2053, 3412, 3416; title 16 section 470w; title 22 sections 3731, 6033; title 26 sections 6103, 9041; title 30 sections 185, 956; title 31 sections 3901, 6101, 7501; title 41 section 422; title 42 sections 2231, 2992c, 6107, 6241, 6393, 7191, 8259, 8262, 8287c, 11317, 11504; title 46 sections 7702, 9303; title 47 sections 155, 409; title 49 sections 106, 11324; title 50 App. sections 2159, 2412.
+This section is referred to in sections 500, 504, 552, 562, 571, 592, 595, 601, 701, 804, 3344, 3348 of this title; title 2 sections 501, 502, 658, 1602; title 7 section 6997; title 15 sections 78d–1, 78w, 632, 637c, 766, 2053, 3412, 3416; title 16 section 470w; title 22 sections 3731, 6033; title 26 sections 6103, 9041; title 30 sections 185, 956; title 31 sections 3901, 6101, 7501; title 41 section 422; title 42 sections 2231, 2992c, 6107, 6241, 6393, 7191, 8259, 8262, 8287c, 11317, 11504; title 46 sections 7702, 9303; title 47 sections 155, 409; title 49 sections 106, 11324; title 50 App. sections 2159, 2412.
 

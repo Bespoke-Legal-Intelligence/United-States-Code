@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary and the Board of Directors of the Helen Keller National Center are authorized to establish the Helen Keller National Center Federal Endowment Fund (hereafter in this section referred to as the “Endowment Fund”) in accordance with the provisions of this section, to promote the financial independence of the Helen Keller National Center. The Secretary and the Board may enter into such agreements as may be necessary to carry out the purposes of this section.
+The Secretary and the Board of Directors of the Helen Keller National Center are authorizedto establish the Helen Keller National Center Federal Endowment Fund (hereafter in this section referred to as the “Endowment Fund”) in accordance with the provisions of this section, to promote the financial independence of the Helen Keller National Center. The Secretary and the Board may enter into such agreements as may be necessary to carry out the purposes of this section.
 
 #### (b) Federal payments
 
@@ -88,7 +88,7 @@ The Secretary and the Board of Directors of the Helen Keller National Center are
 
 #### (3) Annual report
 
-&emsp;Not later than 60 days after the end of each fiscal year, the Center shall provide to the Secretary an annual report on the uses of funds provided by the Federal endowment program authorized under this section. Such report shall contain such information, and be in such form as the Secretary may require.
+&emsp;Not later than 60 days after the end of each fiscal year, the Center shall provide to the Secretary an annual report on the uses offunds provided by the Federal endowment program authorized under this section. Such report shall contain such information, and be in such form as the Secretary may require.
 
 #### (f) Recovery of payments
 
@@ -118,7 +118,11 @@ For the purposes of this section:
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1993 through 1997. Such sums shall remain available until expended.
+There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
 
-(Pub. L. 98–221, title II, §208, as added Pub. L. 102–569, title IX, §907, Oct. 29, 1992, 106 Stat. 4483.)
+(Pub. L. 98–221, title II, §208, as added Pub. L. 102–569, title IX, §907, Oct. 29, 1992, 106 Stat. 4483; amended Pub. L. 105–220, title IV, §412(b), Aug. 7, 1998, 112 Stat. 1241.)
+
+#### Amendments
+
+1998—Subsec. (h). Pub. L. 105–220 substituted “1999 through 2003” for “1993 through 1997”.
 

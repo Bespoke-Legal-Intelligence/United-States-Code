@@ -8,11 +8,11 @@ The Secretary of Transportation, after consultation with the Administrator, shal
 
 In any action to amend, modify, suspend, or revoke a certificate in which violation of an emission standard prescribed under section 7571 of this title or of a regulation prescribed under subsection (a) of this section is at issue, the certificate holder shall have the same notice and appeal rights as are prescribed for such holders in part A of subtitle VII of title 49 or the Department of Transportation Act, except that in any appeal to the National Transportation Safety Board, the Board may amend, modify, or revoke the order of the Secretary of Transportation only if it finds no violation of such standard or regulation and that such amendment, modification, or revocation is consistent with safety in air transportation.
 
-(July 14, 1955, ch. 360, title II, §232, as added Dec. 31, 1970, Pub. L. 91–604, §11(a)(1), 84 Stat. 1704.)
+(July 14, 1955, ch. 360, title II, §232, as added Pub. L. 91–604, §11(a)(1), Dec. 31, 1970, 84 Stat. 1704.)
 
 #### References in Text
 
-The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Codification
 

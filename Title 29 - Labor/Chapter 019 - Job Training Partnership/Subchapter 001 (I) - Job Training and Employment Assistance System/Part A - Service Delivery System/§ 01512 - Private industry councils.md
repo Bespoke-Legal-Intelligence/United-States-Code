@@ -72,13 +72,17 @@ In any case in which the service delivery area is a State, the State job trainin
 
 (Pub. L. 97–300, title I, §102, Oct. 13, 1982, 96 Stat. 1328; Pub. L. 102–367, title I, §112, Sept. 7, 1992, 106 Stat. 1026.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a)(2), (3). Pub. L. 102–367, §112(a)(1), added pars. (2) and (3) and struck out former par. (2) which read as follows: “representatives of educational agencies (representative of all educational agencies in the service delivery area), organized labor, rehabilitation agencies, community-based organizations, economic development agencies, and the public employment service.”
 
 Subsec. (c)(2). Pub. L. 102–367, §112(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Education representatives on the council shall be selected from among individuals nominated by local educational agencies, vocational education institutions, institutions of higher education, or general organizations of such agencies or institutions, and by private and proprietary schools or general organizations of such schools, within the service delivery area.”
 
-Subsec. (c)(3). Pub. L. 102–367, §112(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The remaining members of the council shall beselected from individuals recommended by interested organizations. Labor representatives shall be recommended by recognized State and local labor organizations or appropriate building trades councils.”
+Subsec. (c)(3). Pub. L. 102–367, §112(a)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The remaining members of the council shall be selected from individuals recommended by interested organizations. Labor representatives shall be recommended by recognized State and local labor organizations or appropriate building trades councils.”
 
 Subsec. (c)(4). Pub. L. 102–367, §112(a)(4), added par. (4).
 
@@ -88,5 +92,5 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1503, 1515, 1574, 1661, 1781, 1792a of this title; title 19 section 2296; title 20 sections 1201a, 2321, 2325, 2343, 6103; title 42 sections 685, 11481.
+This section is referred to in sections 1503, 1515, 1574, 1661, 1781, 1792a, 2832 of this title; title 19 section 2296; title 20 section 6103.
 

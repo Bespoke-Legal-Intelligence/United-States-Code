@@ -22,7 +22,7 @@ In addition to the Cochairmen, the Council shall consist of the following member
 
 #### (d) State decision not to participate
 
-If the State elects not to participate on the Council or elects to end its participation prior to termination of the Council, the Council shall be composed of the Federal Cochairman, the agencies referred to in subsection (c)(1) of this section and the representatives of the Alaska Native Regional Corporations referred to in subsection (c)(3) of this section. The Council, socomposed, shall carry out the administrative functions required by this subchapter and shall make recommendations to Federal officials with respect to the matters referred to in subsections (i) and (j) of this section. In addition, the Council may make recommendations from time to time to State officials and private landowners concerning such matters.
+If the State elects not to participate on the Council or elects to end its participation prior to termination of the Council, the Council shall be composed of the Federal Cochairman, the agencies referred to in subsection (c)(1) of this section and the representatives of the Alaska Native Regional Corporations referred to in subsection (c)(3) of this section. The Council, so composed, shall carry out the administrative functions required by this subchapter and shall make recommendations to Federal officials with respect to the matters referred to in subsections (i) and (j) of this section. In addition, the Council may make recommendations from time to time to State officials and private landowners concerning such matters.
 
 #### (e) Compensation and expenses
 
@@ -72,7 +72,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 &emsp;(B) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to ways to improve coordination and consultation between said governments in wildlife management, transportation planning, wilderness review, and other governmental activities which appear to require regional or statewide coordination;
 
-&emsp;(C) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to ways to insure that economic development is orderly and planned and is compatible withState and national economic, social, and environmental objectives;
+&emsp;(C) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to ways to insure that economic development is orderly and planned and is compatible with State and national economic, social, and environmental objectives;
 
 &emsp;(D) to make recommendations to appropriate officials of the governments of the United States and the State of Alaska with respect to those changes in laws, policies, and programs relating to publicly owned lands and resources which the Council deems necessary;
 
@@ -112,5 +112,5 @@ The Council shall establish and implement a public participation program to assi
 
 #### References in Text
 
-This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980,94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every vessel required to make entry under section 1434 of this title or obtain clearanceunder section 91 of title 46, Appendix, shall have a manifest that complies with the requirements prescribed under subsection (d) of this section.
+Every vessel required to make entry under section 1434 of this title or obtain clearance under section 91 of title 46, Appendix, shall have a manifest that complies with the requirements prescribed under subsection (d) of this section.
 
 #### (b) Production of manifest
 
@@ -42,7 +42,7 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 &emsp;The Secretary shall by regulation—
 
-&emsp;&emsp;(A) specify the form for, and the information and data that must be contained in, the manifest required by subsection (a) of this section;
+&emsp;&emsp;(A) specify the form for, and the information and data that must be contained in, themanifest required by subsection (a) of this section;
 
 &emsp;&emsp;(B) allow, at the option of the individual producing the manifest and subject to paragraph (2), letters and documents shipments to be accounted for by summary manifesting procedures;
 
@@ -70,7 +70,7 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 &emsp;&emsp;&emsp;(iii) personal correspondence, whether on paper, cards, photographs, tapes, or other media.
 
-(June 17, 1930, ch. 497, title IV, §431, 46 Stat. 710; Aug. 8, 1953, ch. 397, §15, 67 Stat. 516; Oct. 30, 1984, Pub. L. 98–573, title II, §203, 98 Stat. 2974; Nov. 18, 1988, Pub. L. 100–690, title VII, §7367(c)(1), 102 Stat. 4479; Dec. 8, 1993, Pub. L. 103–182, title VI, §635, 107 Stat. 2199; July 2, 1996, Pub. L. 104–153, §11, 110 Stat. 1389; Oct. 11, 1996, Pub. L. 104–295, §3(a)(3), 110 Stat. 3515.)
+(June 17, 1930, ch. 497, title IV, §431, 46 Stat. 710; Aug. 8, 1953, ch. 397, §15, 67 Stat. 516; Pub. L. 98–573, title II, §203, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 100–690, title VII, §7367(c)(1), Nov. 18, 1988, 102 Stat. 4479; Pub. L. 103–182, title VI, §635, Dec. 8, 1993, 107 Stat. 2199; Pub. L. 104–153, §11, July 2, 1996, 110 Stat. 1389; Pub. L. 104–295, §3(a)(3), Oct. 11, 1996, 110 Stat. 3515.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(
 
 R.S. §§2806, 2807 (as amended by act June 3, 1902, ch. 86, §1, 27 Stat. 41), and 2808, requiring manifests, and prescribing their contents, were superseded by act Sept. 21, 1922, ch. 356, title IV, §431, 42 Stat. 950, and repealed by section 642 thereof. Section 431 of the 1922 act was superseded by section 431 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-R.S. §2805, relative to the administration of oaths required by that chapter, was superseded to a great extent by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, and by the Underwood Tariff Act of Oct. 3, 1913, ch. 16,§IV, S., 38 Stat. 201, which abolished all oaths administered by officers of the customs, except as provided in those acts and repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2805, relative to the administration of oaths required by that chapter, was superseded to a great extent by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, and by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §IV, S., 38 Stat. 201, which abolished all oaths administered by officers of the customs, except as provided in those acts and repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

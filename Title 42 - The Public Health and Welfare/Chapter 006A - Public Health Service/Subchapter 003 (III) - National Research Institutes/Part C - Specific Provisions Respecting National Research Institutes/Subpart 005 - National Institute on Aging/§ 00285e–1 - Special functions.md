@@ -2,7 +2,7 @@
 
 #### (a) Education and training of adequate numbers of personnel
 
-In carrying out the training responsibilities under this chapter or any other Act for health and allied health professions personnel, the Secretary shall take appropriate steps to insure theeducation and training of adequate numbers of allied health, nursing, and paramedical personnel in the field of health care for the aged.
+In carrying out the training responsibilities under this chapter or any other Act for health and allied health professions personnel, the Secretary shall take appropriate steps to insure the education and training of adequate numbers of allied health, nursing, and paramedical personnel in the field of health care for the aged.
 
 #### (b) Scientific studies
 
@@ -16,7 +16,7 @@ The Director of the Institute shall carry out public information and education p
 
 The Director of the Institute shall make grants to public and private nonprofit institutions to conduct research relating to Alzheimer's Disease.
 
-(July 1, 1944, ch. 373, title IV, §444, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 854.)
+(July 1, 1944, ch. 373, title IV, §444, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 854.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Construction grants
 
-(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated $2,000,000for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (2) Sums appropriated pursuant to this subsection for construction shall, unless otherwise provided in appropriations Acts, remain available until expended.
 
@@ -24,19 +24,21 @@
 
 &emsp;(D) supplemental student services, including student housing, food service, and the provision of access to books and services.
 
-(2) The Secretary shall make payments, pursuant to grants under this subsection, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.
+(2) The Secretary shall make payments, pursuant to grants under this subsection, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments foroverpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.
 
 #### (c) Funding requirements
 
 The Secretary of the Interior is authorized and directed to establish by rule procedures to insure that all funds appropriated under sections 640a to 640c–3 of this title are properly identified for grants to the Navajo Community College and that such funds are not commingled with appropriations historically expended by the Bureau of Indian Affairs for programs and projects normally provided on the Navajo Reservation for Navajo beneficiaries.
 
-(Pub. L. 92–189, §5, as added Pub. L. 95–471, title II, §203(a), Oct. 17, 1978, 92 Stat. 1330; amended Pub. L. 96–374, title XIII, §1351(a), (b), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 98–192, §14, Dec. 1, 1983, 97 Stat. 1343; Pub. L. 99–428, §7, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5401, Apr. 28, 1988, 102 Stat. 414; Pub. L. 101–477, §2(a), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(d), July 23, 1992, 106 Stat. 797.)
+(Pub. L. 92–189, §5, as added Pub. L. 95–471, title II, §203(a), Oct. 17, 1978, 92 Stat. 1330; amended Pub. L. 96–374, title XIII, §1351(a), (b), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 98–192, §14, Dec. 1, 1983, 97 Stat. 1343; Pub. L. 99–428, §7, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5401, Apr. 28, 1988, 102 Stat. 414; Pub. L. 101–477, §2(a), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(d), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §902, Oct. 7, 1998, 112 Stat. 1829.)
 
 #### Codification
 
 Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which comprises this subchapter.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–244 substituted “1999” for “1993”.
 
 1992—Subsec. (a)(1). Pub. L. 102–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are hereby authorized to be appropriated such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.”
 
@@ -56,13 +58,17 @@ Subsec. (b)(1). Pub. L. 96–374, §1351(b), added par. (1). Former par. (1), wh
 
 Subsec. (b)(2), (3). Pub. L. 96–374, §1351(b), redesignated par. (3) as (2). Former par. (2), which placed an upper limit on grants under this subsection, was struck out.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of Title 20, Education.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
 #### Effective Date of 1980 Amendment
 
@@ -78,5 +84,5 @@ The definitions in section 1801 of this title apply to this section.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13d–2, 640a, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 2471, 3489.
+This section is referred to in sections 13d–2, 640a, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 3489.
 

@@ -26,7 +26,7 @@
 
 (iv) Of the members of class 3, one shall be appointed by the President, two by the President pro tempore of the Senate upon the recommendation of the Majority Leader and the Minority Leader, and two by the Speaker of the House of Representatives upon the recommendation of the Majority Leader and the Minority Leader.
 
-(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term for which such member's predecessor was appointed shall be appointed only for the remainder of such term. Members shall be eligible for reappointment and may serve after the expiration of their terms until their successors have taken office.
+(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term forwhich such member's predecessor was appointed shall be appointed only for the remainder of such term. Members shall be eligible for reappointment and may serve after the expiration of their terms until their successors have taken office.
 
 (3) Any vacancy in the Council shall not affect its powers, but shall be filled in the same manner by which the original appointment was made.
 
@@ -114,7 +114,7 @@ Subsec. (g). Pub. L. 102–375, §205(e), amended subsec. (g) generally. Prior t
 
 Subsec. (d)(3). Pub. L. 100–175, §182(d), inserted “to” after “Secretary,”.
 
-Subsec. (g). Pub. L. 100–175, §108(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read asfollows: “There are authorized to be appropriated to carry out the provisions of this section $228,900 for fiscal year 1984 and $200,000 for each of the fiscal years 1985, 1986, and 1987.”
+Subsec. (g). Pub. L. 100–175, §108(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “There are authorized to be appropriated to carry out the provisions of this section $228,900 for fiscal year 1984 and $200,000 for each of the fiscal years 1985, 1986, and 1987.”
 
 1984—Subsec. (a). Pub. L. 98–459, §204(a), redesignated existing provisions as par. (1), struck out reference to appointment by the President with the advice and consent of the Senate, inserted references to appointment by each appointing authority, substituted reference to rural and urban older individuals for reference to rural and urban older Americans, inserted reference to minorities, and reduced from five to two the number of members of the Council required to be older individuals, and added par. (2).
 
@@ -158,7 +158,7 @@ Subsec. (i). Pub. L. 95–478, §102(e)(4)(B), struck out subsec. (i) which prov
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 205 of Pub. L. 102–375 effective Sept. 30, 1992, except that incumbent members of the Federal Council on Aging may serve on the Council until their successors are appointed under this section as amended by section 205 of Pub. L. 102–375, see section 905 of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by section 205 of Pub. L. 102–375 effective Sept. 30, 1992, except that incumbent members of theFederal Council on Aging may serve on the Council until their successors are appointed under this section as amended by section 205 of Pub. L. 102–375, see section 905 of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -172,9 +172,17 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
 Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
 
-#### Section Referred to in Other Sections
+#### Limitations on Use of Appropriated Funds
 
-This section is referred to in title 29 section 2212.
+Pub. L. 105–277, div. A, §101(f) \[title II, §206\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “None of the funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be obligated or expended for the Federal Council on Aging under the Older Americans Act \[of 1965, 42 U.S.C. 3001 et seq.\] or the Advisory Board on Child Abuse and Neglect under the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5101 et seq.\].”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–78, title II, §206, Nov. 13, 1997, 111 Stat. 1489.
+
+Pub. L. 104–208, div. A, §101(e) \[title II, §208\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–254.
+
+Pub. L. 104–134, title I, §101(d) \[title II, §209\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–228; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

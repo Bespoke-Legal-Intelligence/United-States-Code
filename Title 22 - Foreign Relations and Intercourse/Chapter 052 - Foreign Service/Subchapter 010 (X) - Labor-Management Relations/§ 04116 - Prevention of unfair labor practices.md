@@ -44,7 +44,7 @@ If the Board (or any member thereof or any individual employed by the Board and 
 
 &emsp;(1) to cease and desist from any such unfair labor practice in which the Department or labor organization is engaged;
 
-&emsp;(2) requiring the parties to renegotiate a collective bargaining agreement in accordancewith the order of the Board and requiring that the agreement, as amended, be given retroactive effect;
+&emsp;(2) requiring the parties to renegotiate a collective bargaining agreement in accordance with the order of the Board and requiring that the agreement, as amended, be given retroactive effect;
 
 &emsp;(3) requiring reinstatement of an employee with backpay in accordance with section 5596 of title 5; or
 

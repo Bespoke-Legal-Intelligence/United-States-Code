@@ -2,7 +2,7 @@
 
 Enlisted members shall be advanced in rating by the Commandant under regulations prescribed by the Secretary.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 520; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(C), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 520; Pub. L. 98–557, §15(a)(3)(C), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 

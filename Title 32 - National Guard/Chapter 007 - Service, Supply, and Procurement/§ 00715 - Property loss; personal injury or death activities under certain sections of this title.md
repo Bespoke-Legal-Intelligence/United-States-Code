@@ -28,13 +28,13 @@
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
-(f) Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000.A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
+(f) Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
 
 (g) Notwithstanding any other provision of law, the settlement of a claim under this section is final and conclusive.
 
 (h) In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
 
-(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, §202(r), Oct. 19, 1996, 110 Stat. 3844.)
+(Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968,82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, §202(r), Oct. 19, 1996, 110 Stat. 3844.)
 
 #### Amendments
 

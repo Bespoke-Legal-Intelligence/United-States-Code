@@ -1,6 +1,0 @@
-### §1043. Completion of organization
-
-The persons named in section 1041 of this title, their associates and successors are hereby authorized to complete the organization of the corporation by the selection of officers, the adoption of a constitution and bylaws, the promulgation of rules or regulations that may be necessary for the accomplishment of the purposes of this corporation, and the doing of such other acts as may be necessary for such purposes.
-
-(Pub. L. 87–655, §3, Sept. 10, 1962, 76 Stat. 531.)
-

@@ -78,7 +78,7 @@ Each State authorized to conduct a demonstration project under this section shal
 
 The Secretary may not authorize a State to conduct a demonstration project under this section unless the Secretary determines that the total amount of Federal funds that will be expended under (or by reason of) the project over its approved term (or such portion thereof or other period as the Secretary may find appropriate) will not exceed the amount of such funds that would be expended by the State under the State plans approved under parts B and E of subchapter IV of this chapter if the project were not conducted.
 
-(Aug. 14, 1935, ch. 531, title XI, §1130, as added Oct. 31, 1994, Pub. L. 103–432, title II, §208, 108 Stat. 4457; amended Nov. 19, 1997, Pub. L. 105–89, title III, §301(a), (c), 111 Stat. 2127, 2128.)
+(Aug. 14, 1935, ch. 531, title XI, §1130, as added Pub. L. 103–432, title II, §208, Oct. 31, 1994, 108 Stat. 4457; amended Pub. L. 105–89, title III, §301(a), (c), Nov. 19, 1997, 111 Stat. 2127, 2128.)
 
 #### References in Text
 

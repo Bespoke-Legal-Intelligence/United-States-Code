@@ -20,15 +20,15 @@ For each fiscal year, the Secretary shall (to the extent amounts are made availa
 
 #### (c) Local cooperation agreement
 
-The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.
+Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for rental or lease-purchase homeownership units that are owned by the recipient for the tribe unless the governing body of the locality within which the property subject to the development activities to be assisted with the grant amounts is or will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.
 
 #### (d) Exemption from taxation
 
-A grant recipient for an Indian tribe may receive a block grant under this chapter only if—
+Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for affordable housing activities under this chapter for rental or lease-purchase dwelling units developed under the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) or with amounts provided under this chapter that are owned by the recipient for the tribe unless—
 
-&emsp;(1) the affordable housing assisted with grant amounts received by the recipient (exclusive of any portions not assisted with amounts provided under this chapter) is exempt from all real and personal property taxes levied or imposed by any State, tribe, city, county, or other political subdivision; and
+&emsp;(1) such dwelling units (which, in the case of units in a multi-unit project, shall be exclusive of any portions of the project not developed under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] or with amounts provided under this chapter) are exempt from all real and personal property taxes levied or imposed by any State, tribe, city, county, or other political subdivision; and
 
-&emsp;(2) the recipient makes annual payments of user fees to compensate such governments for the costs of providing governmental services, including police and fire protection, roads, water and sewerage systems, utilities systems and related facilities, or payments in lieu of taxes to such taxing authority, in an amount equal to the greater of $150 per dwelling unit or 10 percent of the difference between the shelter rent and the utility cost, or such lesser amount as—
+&emsp;(2) the recipient for the tribe makes annual payments of user fees to compensate such governments for the costs of providing governmental services, including police and fire protection, roads, water and sewerage systems, utilities systems and related facilities, or payments in lieu of taxes to such taxing authority, in an amount equal to the greater of $150 per dwelling unit or 10 percent of the difference between the shelter rent and the utility cost, or such lesser amount as—
 
 &emsp;&emsp;(A) is prescribed by State, tribal, or local law;
 
@@ -54,17 +54,29 @@ Except as provided in subsection (h) of this section, amounts provided under a g
 
 #### (h) Administrative expenses
 
-The Secretary shall, by regulation, authorize each recipient to use a percentage of any grantamounts received under this chapter for any reasonable administrative and planning expenses of the recipient relating to carrying out this chapter and activities assisted with such amounts, which may include costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this chapter and expenses of preparing an Indian housing plan under section 4112 of this title.
+The Secretary shall, by regulation, authorize each recipient to use a percentage of any grant amounts received under this chapter for any reasonable administrative and planning expenses of the recipient relating to carrying out this chapter and activities assisted with such amounts, which may include costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this chapter and expenses of preparing an Indian housing plan under section 4112 of this title.
 
 #### (i) Public-private partnerships
 
 Each recipient shall make all reasonable efforts, consistent with the purposes of this chapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing the approved Indian housing plan.
 
-(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022.)
+(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–276, §595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated hasentered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
+
+Subsec. (d). Pub. L. 105–276, §595(e)(4)(A), added subsec. (d) heading, introductory provisions, and par. (1), and struck out former subsec. (d) heading, introductory provisions, and par. (1). Text read as follows: “A grant recipient for an Indian tribe may receive a block grant under this chapter only if—
+
+&emsp;“(1) the affordable housing assisted with grant amounts received by the recipient (exclusive of any portions not assisted with amounts provided under this chapter) is exempt from all real and personal property taxes levied or imposed by any State, tribe, city, county, or other political subdivision; and”.
+
+Subsec. (d)(2). Pub. L. 105–276, §595(e)(4)(B), inserted “for the tribe” after “the recipient” in introductory provisions.
 
 #### Effective Date
 

@@ -11,6 +11,12 @@
 | [<b>10.</b>](Chapter%20010%20-%20Biological%20Weapons/README.md) | <b>Biological weapons</b> | <b>175</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Bribery%2C%20Graft%2C%20and%20Conflicts%20of%20Interest/README.md) | <b>Bribery, graft, and conflicts of interest</b> | <b>201</b> |
 | [<b>11A.</b>](Chapter%20011A%20-%20Child%20Support/README.md) | <b>Child support</b> | <b>228</b> |
+| [<b>11B.</b>](Chapter%20011B%20-%20Chemical%20Weapons/README.md) | <b>Chemical Weapons </b><b><sup>1</sup></b> | <b>229</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>12.</b>](Chapter%20012%20-%20Civil%20Disorders/README.md) | <b>Civil disorders</b> | <b>231</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Civil%20Rights/README.md) | <b>Civil rights</b> | <b>241</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Claims%20and%20Services%20in%20Matters%20Affecting%20Government/README.md) | <b>Claims and services in matters affecting government</b> | <b>281</b> |
@@ -28,7 +34,7 @@
 | [<b>33.</b>](Chapter%20033%20-%20Emblems%2C%20Insignia%2C%20and%20Names/README.md) | <b>Emblems, insignia, and names</b> | <b>700</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Escape%20and%20Rescue/README.md) | <b>Escape and rescue</b> | <b>751</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Espionage%20and%20Censorship/README.md) | <b>Espionage and censorship</b> | <b>791</b> |
-| [<b>39.</b>](Chapter%20039%20-%20Explosives%20and%20Other%20Dangerous%20Articles/README.md) | <b>Explosives and combustibles </b><b><sup>1</sup></b> | <b>831</b> |
+| [<b>39.</b>](Chapter%20039%20-%20Explosives%20and%20Other%20Dangerous%20Articles/README.md) | <b>Explosives and combustibles </b><b><sup>2</sup></b> | <b>831</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,7 +94,7 @@
 | [<b>113A.</b>](Chapter%20113A%20-%20Telemarketing%20Fraud/README.md) | <b>Telemarketing fraud</b> | <b>2325</b> |
 | [<b>113B.</b>](Chapter%20113B%20-%20Terrorism/README.md) | <b>Terrorism</b> | <b>2331</b> |
 | [<b>113C.</b>](Chapter%20113C%20-%20Torture/README.md) | <b>Torture</b> | <b>2340</b> |
-| [<b>114.</b>](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes/README.md) | <b>Trafficking in Contraband Cigarettes </b><b><sup>2</sup></b> | <b>2341</b> |
+| [<b>114.</b>](Chapter%20114%20-%20Trafficking%20in%20Contraband%20Cigarettes/README.md) | <b>Trafficking in Contraband Cigarettes </b><b><sup>3</sup></b> | <b>2341</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -97,18 +103,20 @@
 | [<b>115.</b>](Chapter%20115%20-%20Treason%2C%20Sedition%2C%20and%20Subversive%20Activities/README.md) | <b>Treason, sedition, and subversive activities</b> | <b>2381</b> |
 | [<b>117.</b>](Chapter%20117%20-%20Transportation%20for%20Illegal%20Sexual%20Activity%20and%20Related%20Crimes/README.md) | <b>Transportation for illegal sexual activity and related crimes</b> | <b>2421</b> |
 | [<b>118.</b>](Chapter%20118%20-%20War%20Crimes/README.md) | <b>War crimes</b> | <b>2441</b> |
-| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>3</sup></b> | <b>2510</b> |
+| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>4</sup></b> | <b>2510</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>121.</b>](Chapter%20121%20-%20Stored%20Wire%20and%20Electronic%20Communications%20and%20Transactional%20Records%20Access/README.md) | <b>Stored wire and electronic communications and transactional records access</b> | <b>2701</b> |
-| [<b>123.</b>](Chapter%20123%20-%20Prohibition%20on%20Release%20and%20Use%20of%20Certain%20Personal%20Information%20from%20State%20Motor%20Vehicle%20Records/README.md) | <b>Prohibition on release and use of certain personal information from State motor vehicle records</b> | <b><sup>4</sup></b><b> 2271</b> |
+| [<b>123.</b>](Chapter%20123%20-%20Prohibition%20on%20Release%20and%20Use%20of%20Certain%20Personal%20Information%20from%20State%20Motor%20Vehicle%20Records/README.md) | <b>Prohibition on release and use of certain personal information from State motor vehicle records</b> | <b><sup>5</sup></b><b> 2271</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–277, div. I, title II, §201(b)(2), Oct. 21, 1998, 112 Stat. 2681–871, added item for chapter 11B.
 
 1996—Pub. L. 104–294, title I, §101(b), title VI, §§601(j)(2)(B), 605(c), (p)(3), Oct. 11, 1996, 110 Stat. 3491, 3501, 3509, 3510, substituted “1461” for “1460” in item for chapter 71, added item for chapter 90, and substituted “2340” for “2340.” in item for chapter 113C and “2441” for “2401” in item for chapter 118.
 
@@ -190,6 +198,7 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 010 - Biological Weapons](Chapter%20010%20-%20Biological%20Weapons/README.md)
 - [Chapter 011 - Bribery, Graft, and Conflicts of Interest](Chapter%20011%20-%20Bribery%2C%20Graft%2C%20and%20Conflicts%20of%20Interest/README.md)
 - [Chapter 011A - Child Support](Chapter%20011A%20-%20Child%20Support/README.md)
+- [Chapter 011B - Chemical Weapons](Chapter%20011B%20-%20Chemical%20Weapons/README.md)
 - [Chapter 012 - Civil Disorders](Chapter%20012%20-%20Civil%20Disorders/README.md)
 - [Chapter 013 - Civil Rights](Chapter%20013%20-%20Civil%20Rights/README.md)
 - [Chapter 015 - Claims and Services in Matters Affecting Government](Chapter%20015%20-%20Claims%20and%20Services%20in%20Matters%20Affecting%20Government/README.md)

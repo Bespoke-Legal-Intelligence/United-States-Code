@@ -1,11 +1,6 @@
 ## PART II—PERSONNEL GENERALLY
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1201.</b>](Chapter%201201%20-%20Authorized%20Strengths%20and%20Distribution%20in%20Grade/README.md) | <b>Authorized Strengths and Distribution in Grade</b> | <b>12001</b> |
 | [<b>1203.</b>](Chapter%201203%20-%20Enlisted%20Members/README.md) | <b>Enlisted Members</b> | <b>12101</b> |

@@ -22,7 +22,7 @@ In awarding and distributing grant funds under this subchapter, the Secretary, s
 
 #### (5) Increased funding for university affiliated programs
 
-&emsp;Fifth priority shall be given, with respect to the provision of grant awards, to the provision of an increase in the amount of a university affiliated program grant award under section 6062(a) of this title to $250,000.
+&emsp;Fifth priority shall be given, with respect to the provision of grant awards, to the provision of an increase in the amount of a universityaffiliated program grant award under section 6062(a) of this title to $250,000.
 
 #### (6) Additional training
 

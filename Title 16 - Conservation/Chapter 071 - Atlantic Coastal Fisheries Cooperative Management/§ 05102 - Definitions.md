@@ -58,7 +58,7 @@ Proclamation Number 5030, referred to in par. (6), is set out as a note under se
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–297 inserted “and” after semicolon in subpar. (A), substituted “States.” for“States; and” in subpar. (B), and struck out subpar. (C) which read as follows: “recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.”
+1996—Par. (1). Pub. L. 104–297 inserted “and” after semicolon in subpar. (A), substituted “States.” for “States; and” in subpar. (B), and struck out subpar. (C) which read as follows: “recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.”
 
 Par. (5). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 

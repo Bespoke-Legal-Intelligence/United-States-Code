@@ -14,7 +14,7 @@
 
 #### (2) Environmental funds
 
-&emsp;For purposes of this section, the term “Environmental Fund” means an EnvironmentalFund established under section 1738g of this title. In the case of Mexico, such fund may be designated as the Good Neighbor Environmental Fund for the Border.
+&emsp;For purposes of this section, the term “Environmental Fund” means an Environmental Fund established under section 1738g of this title. In the case of Mexico, such fund may be designated as the Good Neighbor Environmental Fund for the Border.
 
 #### (3) Establishment and operation of environmental funds
 
@@ -44,7 +44,7 @@ The proceeds from a sale of qualified debt under this section shall be deposited
 
 Before any sale of qualified debt may occur under this section, the President should consult with the eligible country's government concerning such sale. The topics addressed in the consultation shall include the amount of qualified debt involved in the transaction and the uses to which funds made available as a result of the sale shall be applied.
 
-(July 10, 1954, ch. 469, title VI, §616, as added Oct. 27, 1992, Pub. L. 102–532, §2, 106 Stat. 3509.)
+(July 10, 1954, ch. 469, title VI, §616, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509.)
 
 #### Section Referred to in Other Sections
 

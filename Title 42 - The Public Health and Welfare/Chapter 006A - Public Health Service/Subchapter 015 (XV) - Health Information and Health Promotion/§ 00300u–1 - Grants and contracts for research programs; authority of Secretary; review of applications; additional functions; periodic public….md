@@ -6,7 +6,7 @@
 
 &emsp;(2) determine the best methods of disseminating information concerning personal health behavior, preventive health services and the appropriate use of health care and of affecting behavior so that such information is applied to maintain and improve health, and prevent disease, reduce its risk, or modify its course or severity;
 
-&emsp;(3) determine and study environmental, occupational, social, and behavioral factorswhich affect and determine health and ascertain those programs and areas for which educational and preventive measures could be implemented to improve health as it is affected by such factors;
+&emsp;(3) determine and study environmental, occupational, social, and behavioral factors which affect and determine health and ascertain those programs and areas for which educational and preventive measures could be implemented to improve health as it is affected by such factors;
 
 &emsp;(4) develop (A) methods by which the cost and effectiveness of activities respecting health information and health promotion, preventive health services, and education in the appropriate use of health care, can be measured, including methods for evaluating the effectiveness of various settings for such activities and the various types of persons engaged in such activities, (B) methods for reimbursement or payment for such activities, and (C) models and standards for the conduct of such activities, including models and standards for the education, by providers of institutional health services, of individuals receiving such services respecting the nature of the institutional health services provided the individuals and the symptoms, signs, or diagnoses which led to provision of such services;
 
@@ -16,7 +16,7 @@
 
 (b) The Secretary shall make a periodic survey of the needs, interest, attitudes, knowledge, and behavior of the American public regarding health and health care. The Secretary shall take into consideration the findings of such surveys and the findings of similar surveys conducted by national and community health education organizations, and other organizations and agencies for formulating policy respecting health information and health promotion, preventive health services, and education in the appropriate use of health care.
 
-(July 1, 1944, ch. 373, title XVII, §1702, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 696; amended Oct. 27, 1992, Pub. L. 102–531, title III, §311(b)(2), 106 Stat. 3504.)
+(July 1, 1944, ch. 373, title XVII, §1702, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 696; amended Pub. L. 102–531, title III, §311(b)(2), Oct. 27, 1992, 106 Stat. 3504.)
 
 #### Amendments
 

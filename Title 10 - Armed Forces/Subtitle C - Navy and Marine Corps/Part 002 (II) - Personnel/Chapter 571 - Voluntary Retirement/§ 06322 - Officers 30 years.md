@@ -4,7 +4,7 @@
 
 (b) For the purpose of this section, an officer's years of active service are computed by adding all his active service in the armed forces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(d)(1), 94 Stat. 1104; Dec. 12, 1980, Pub. L. 96–513, §513(17), 94 Stat. 2932; July 1, 1986, Pub. L. 99–348, title II, §203(b)(1), 100 Stat. 696.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Pub. L. 96–342, title VIII, §813(d)(1), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, §513(17), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 99–348, title II, §203(b)(1), July 1, 1986, 100 Stat. 696.)
 
 Historical and Revision Notes
 

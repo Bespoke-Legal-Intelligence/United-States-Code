@@ -2,7 +2,7 @@
 
 (a)
 
-Conducting Proceedings.—Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect toaviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
+Conducting Proceedings.—Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
 
 (b)
 
@@ -88,5 +88,5 @@ In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma
 
 In subsection (c), the words “vote and” are omitted as surplus.
 
-In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
+In subsection (d), the words “officer or employee of the Administration” are substituted for “member” forclarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
 

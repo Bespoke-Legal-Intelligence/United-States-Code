@@ -10,7 +10,7 @@
 
 &emsp;The Secretary shall consider—
 
-&emsp;&emsp;(A) whether the program results in increased service under this chapter to absent parents of children receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and to recipients of supplemental security income under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\];
+&emsp;&emsp;(A) whether the program results in increased service under this chapter to absent parents of children receiving assistanceunder the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and to recipients of supplemental security income under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\];
 
 &emsp;&emsp;(B) whether the program results in increased child support payments;
 
@@ -22,9 +22,13 @@
 
 #### (b) Report to Congress
 
-Not later than January 1, 1997, the Secretary shall submit a report to the appropriate committees of the Congress on the effectiveness of the incentive bonus program assisted under thissubchapter. Such report shall include an analysis of the costs of such program and the results of program activities.
+Not later than January 1, 1997, the Secretary shall submit a report to the appropriate committees of the Congress on the effectiveness of the incentive bonus program assisted under this subchapter. Such report shall include an analysis of the costs of such program and the results of program activities.
 
 (Pub. L. 97–300, title V, §508, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3252; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1099; Pub. L. 104–193, title I, §110(n)(16), Aug. 22, 1996, 110 Stat. 2175.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 

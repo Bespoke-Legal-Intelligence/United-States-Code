@@ -16,7 +16,7 @@
 
 &emsp;(4) perform such other duties as may be assigned to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 289; Sept. 7, 1962, Pub. L. 87–649, §14c(20), 76 Stat. 501; Dec. 8, 1967, Pub. L. 90–179, §2(1), 81 Stat. 546; Dec. 12, 1980, Pub. L. 96–513, title III, §343, 94 Stat. 2901; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(b)(1), 108 Stat. 2750.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 289; Pub. L. 87–649, §14c(20), Sept. 7, 1962, 76 Stat. 501; Pub. L. 90–179, §2(1), Dec. 8, 1967, 81 Stat. 546; Pub. L. 96–513, title III, §343, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 103–337, div. A, title V, §504(b)(1), Oct. 5, 1994, 108 Stat. 2750.)
 
 Historical and Revision Notes
 

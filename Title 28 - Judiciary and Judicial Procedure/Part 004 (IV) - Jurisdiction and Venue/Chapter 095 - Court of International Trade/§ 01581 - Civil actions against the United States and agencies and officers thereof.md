@@ -42,7 +42,7 @@
 
 (j) The Court of International Trade shall not have jurisdiction of any civil action arising under section 305 of the Tariff Act of 1930.
 
-(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept. 28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219.)
+(Added Pub. L. 96–417, title II, §201, Oct. 10, 1980, 94 Stat. 1728; amended Pub. L. 98–573, title II, §212(b)(1), Oct. 30, 1984, 98 Stat. 2983; Pub. L. 99–514, title XVIII, §1891(1), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–449, title IV, §402(a), Sept.28, 1988, 102 Stat. 1883; Pub. L. 103–182, title IV, §414(a)(1), title VI, §684(a)(1), Dec. 8, 1993, 107 Stat. 2147, 2219.)
 
 #### Prior History of Court
 
@@ -80,15 +80,15 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 #### Amendments
 
-<b>1993</b>—Subsec. (g)(3). Pub. L. 103–182, §684(a)(1), added par. (3).
+1993—Subsec. (g)(3). Pub. L. 103–182, §684(a)(1), added par. (3).
 
 Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
 
-<b>1988</b>—Subsec. (i). Pub. L. 100–449 inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
+1988—Subsec. (i). Pub. L. 100–449 inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.”
 
-<b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted “(3)” for “(3) or (c)”.
+1986—Subsec. (g)(1). Pub. L. 99–514 substituted “(3)” for “(3) or (c)”.
 
-<b>1984</b>—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting “a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act” for “or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
+1984—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting “a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act” for “or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
 
 Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930” for “any order of the Secretary of the Treasury to revoke or suspend a customhouse broker's license under section 641(b) of the Tariff Act of 1930”.
 

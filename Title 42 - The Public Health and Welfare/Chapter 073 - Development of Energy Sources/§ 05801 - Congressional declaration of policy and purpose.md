@@ -48,7 +48,7 @@ Energy Research and Development Administration terminated and functions vested b
 
 #### Executive Order No. 11834
 
-Ex. Ord. No. 11834, eff. Jan. 15, 1975, 40 F.R. 2971, which prescribed Jan. 19, 1975, as the effective date of this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11834, eff. Jan. 15, 1975, 40 F.R. 2971, which prescribed Jan. 19, 1975, as the effective date of thischapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Section Referred to in Other Sections
 

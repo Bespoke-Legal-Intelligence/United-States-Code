@@ -10,7 +10,7 @@ As used in this section, the term “State” includes the several States, Terri
 
 This section shall be effective from and after July 1, 1954.
 
-(Added June 4, 1954, ch. 261, §1, 68 Stat. 170; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(Added June 4, 1954, ch. 261, §1, 68 Stat. 170; amended Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 

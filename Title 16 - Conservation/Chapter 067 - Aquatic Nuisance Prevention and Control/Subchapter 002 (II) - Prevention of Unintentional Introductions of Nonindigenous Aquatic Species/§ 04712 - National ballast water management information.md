@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) examine the attributes and patterns of invasions of aquatic nuisance species; and
 
-&emsp;&emsp;&emsp;(ii) provide an estimate of the effectiveness of ballast water management and other vessel management guidelines issued and regulations promulgated under this subchapter in abating invasions of aquatic nuisance species in the waters that are the subject of the survey.
+&emsp;&emsp;&emsp;(ii) provide an estimate of the effectiveness of ballast water management andother vessel management guidelines issued and regulations promulgated under this subchapter in abating invasions of aquatic nuisance species in the waters that are the subject of the survey.
 
 #### (2) Ballast water discharge surveys
 
@@ -104,15 +104,17 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 #### (2) Report
 
-&emsp;In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biannual basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
+&emsp;In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
 
 &emsp;&emsp;(A) ballast water delivery and management; and
 
 &emsp;&emsp;(B) invasions of aquatic nuisance species resulting from ballast water.
 
-(Pub. L. 101–646, title I, §1102, Nov. 29, 1990, 104 Stat. 4764; Pub. L. 104–332, §2(c), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4081, 4091.)
+(Pub. L. 101–646, title I, §1102, Nov. 29, 1990, 104 Stat. 4764; Pub. L. 104–332, §2(c), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4081, 4091; Pub. L. 105–362, title XV, §1502(d), Nov. 10, 1998, 112 Stat. 3295.)
 
 #### Amendments
+
+1998—Subsec. (f)(2). Pub. L. 105–362 substituted “biennial basis” for “biannual basis” in introductory provisions.
 
 1996—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1102, which enacted this section.
 

@@ -32,7 +32,7 @@ Amendment of any approved application shall be subject to approval in the same m
 
 Notwithstanding any other provision of this subchapter, no application for an outpatient facility shall be approved under this section unless the applicant is (1) a State, political subdivision, or public agency, or (2) a corporation or association which owns and operates a nonprofit hospital (as defined in section 291<i>o</i> of this title) or which provides reasonable assurance that the services of a general hospital will be available to patients of such facility who are in need of hospital care.
 
-(July 1, 1944, ch. 373, title VI, §605, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 453; amended June 30, 1970, Pub. L. 91–296, title I, §§111(a), 116(e), 84 Stat. 340, 342; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(July 1, 1944, ch. 373, title VI, §605, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 453; amended Pub. L. 91–296, title I, §§111(a), 116(e), June 30, 1970, 84 Stat. 340, 342; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### References in Text
 

@@ -46,7 +46,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 &emsp;The Secretary shall take all appropriate measures to recover amounts unnecessarily paid under this subchapter with respect to a statement described in paragraph (4).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1806, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4311(b)(1), 111 Stat. 385.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1806, as added Pub. L. 105–33, title IV, §4311(b)(1), Aug. 5, 1997, 111 Stat. 385.)
 
 #### Effective Date
 

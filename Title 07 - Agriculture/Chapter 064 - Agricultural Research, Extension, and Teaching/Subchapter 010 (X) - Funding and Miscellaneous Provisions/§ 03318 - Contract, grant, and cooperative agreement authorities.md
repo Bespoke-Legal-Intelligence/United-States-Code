@@ -44,3 +44,7 @@ In subsec. (e), “section 3324(a) and (b) of title 31” substituted for refere
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5924 of this title.
+

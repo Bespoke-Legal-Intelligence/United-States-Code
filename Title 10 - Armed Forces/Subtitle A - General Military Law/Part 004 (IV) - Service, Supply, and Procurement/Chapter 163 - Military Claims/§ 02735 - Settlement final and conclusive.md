@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law, the settlement of a claim under section 2733, 2734, 2734a, 2734b, or 2737 of this title is final and conclusive.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Aug. 31, 1964, Pub. L. 88–558, §5(1), 78 Stat. 768; Aug. 29, 1972, Pub. L. 92–413, 86 Stat. 649.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Pub. L. 88–558, §5(1), Aug. 31, 1964, 78 Stat. 768; Pub. L. 92–413, Aug. 29, 1972, 86 Stat. 649.)
 
 Historical and Revision Notes
 

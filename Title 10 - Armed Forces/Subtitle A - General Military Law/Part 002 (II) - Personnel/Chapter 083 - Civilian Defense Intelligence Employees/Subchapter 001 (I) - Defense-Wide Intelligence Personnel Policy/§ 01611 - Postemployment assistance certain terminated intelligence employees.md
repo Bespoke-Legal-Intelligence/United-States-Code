@@ -70,6 +70,10 @@ Subsec. (f). Pub. L. 104–201 substituted “includes the National Reconnaissan
 
 &emsp;“(5) The intelligence components of any of the military departments.”
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as a note under section 1593 of this title.

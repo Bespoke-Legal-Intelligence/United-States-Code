@@ -10,7 +10,7 @@ Allowance shall be made in the estimation and liquidation of duties under regula
 
 &emsp;Where fruit or other perishable merchandise has been condemned at the port of entry, within ten days after landing, by the health officers or other legally constituted authorities, and the consignee, within five days after such condemnation, files, electronically or otherwise, with the Customs Service notice thereof, an invoiced description and the location thereof, and the name of the vessel or vehicle in which imported.
 
-(June 17, 1930, ch. 497, title IV, §506, 46 Stat. 732; June 2, 1970, Pub. L. 91–271, title III, §301(m), 84 Stat. 289; Dec. 8, 1993, Pub. L. 103–182, title VI, §643, 107 Stat. 2205.)
+(June 17, 1930, ch. 497, title IV, §506, 46 Stat. 732; Pub. L. 91–271, title III, §301(m), June 2, 1970, 84 Stat. 289; Pub. L. 103–182, title VI, §643, Dec. 8, 1993, 107 Stat. 2205.)
 
 #### Prior Provisions
 

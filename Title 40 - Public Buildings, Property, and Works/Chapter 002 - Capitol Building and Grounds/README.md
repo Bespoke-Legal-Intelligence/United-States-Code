@@ -15,7 +15,7 @@
 | [164a.](%C2%A7%2000164a%20-%20Assistant%20Architect%20of%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Assistant Architect of Capitol to act in case of absence, disability, or vacancy. |
 | [165\.](%C2%A7%2000165%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20634.md) | Repealed. |
 | [166\.](%C2%A7%2000166%20-%20Architect%20of%20Capitol%3B%20repairs%20of%20Capitol.md) | Architect of Capitol; repairs of Capitol. |
-| [166a.](%C2%A7%2000166a%20-%20Travel%20expenses.md) | Travel expenses. |
+| [166a.](%C2%A7%2000166a%20-%20Omitted.md) | Omitted. |
 | 166a–1. | Appropriations under control of Architect of Capitol; availability for expenses of advertising. |
 | 166b, 166b–1. Omitted or Repealed. |  |
 | 166b–1a. | Compensation of employees under Architect of Capitol; single per annum gross rates of pay. |
@@ -55,6 +55,7 @@
 | [166f.](%C2%A7%2000166f%20-%20Funds%20out%20of%20Capitol%20Buildings%2C%20Architect%20of%20Capitol.md) | Funds out of Capitol Buildings, Architect of Capitol. |
 | [166g.](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md) | Expenses for flying American flags and providing certification services therefor. |
 | [166h.](%C2%A7%2000166h%20-%20Transfer%20of%20funds%20by%20Architect%20of%20Capitol%3B%20approval.md) | Transfer of funds by Architect of Capitol; approval. |
+| [166i.](%C2%A7%2000166i%20-%20Energy%20conservation%20and%20management.md) | Energy conservation and management. |
 | [167\.](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md) | Lighting, heating, and ventilating House of Representatives. |
 | [167a.](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md) | Repealed. |
 | [168\.](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md) | Heating and ventilating Senate wing. |
@@ -221,6 +222,13 @@
 | (b) | Leave system. |
 | (c) | Lump sum payments. |
 | (d) | Effect on appointment authority. |
+| [207c.](%C2%A7%2000207c%20-%20Establishment%20of%20United%20States%20Capitol%20Police%20Memorial%20Fund.md) | Establishment of United States Capitol Police Memorial Fund. |
+| 207c–1. | Payments from Fund for families of Detective Gibson and Private First Class Chestnut. |
+| 207c–2. | Tax treatment of Fund. |
+| (a) | Contributions to Fund. |
+| (b) | Treatment of payments from Fund. |
+| (c) | Exemption. |
+| 207c–3. | Administration by Capitol Police Board. |
 | [208\.](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md) | Suspension of Capitol Police members. |
 | [209\.](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md) | Pay of Capitol Police members under suspension. |
 | [210\.](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md) | Uniform, belts and arms; Capitol Police. |
@@ -291,7 +299,7 @@
 | [216b.](%C2%A7%2000216b%20-%20Utilization%20of%20personnel%20by%20Architect%20of%20Capitol%20for%20maintenance%20and%20operation%20of%20Botanic%20Garden.md) | Utilization of personnel by Architect of Capitol for maintenance and operation of Botanic Garden. |
 | [216c.](%C2%A7%2000216c%20-%20National%20Garden.md) | National Garden. |
 | (a) | Establishment; gifts. |
-| (b) | Gifts and bequests of money; appropriations. |
+| (b) | Gifts and bequests of money; investment; appropriations. |
 | (c) | Donations of personal services. |
 | (d) | Tax deductions. |
 | [216d.](%C2%A7%2000216d%20-%20Disbursement%20of%20appropriations%20for%20Botanic%20Garden.md) | Disbursement of appropriations for Botanic Garden. |
@@ -329,7 +337,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00164a - Assistant Architect of Capitol to act in case of absence, disability, or vacancy](%C2%A7%2000164a%20-%20Assistant%20Architect%20of%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md)
 - [&sect; 00165 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 634](%C2%A7%2000165%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20634.md)
 - [&sect; 00166 - Architect of Capitol; repairs of Capitol](%C2%A7%2000166%20-%20Architect%20of%20Capitol%3B%20repairs%20of%20Capitol.md)
-- [&sect; 00166a - Travel expenses](%C2%A7%2000166a%20-%20Travel%20expenses.md)
+- [&sect; 00166a - Omitted](%C2%A7%2000166a%20-%20Omitted.md)
 - [&sect; 00166a&#8211;1 - Appropriations under control of Architect of Capitol; availability for expenses of advertising](%C2%A7%2000166a%E2%80%931%20-%20Appropriations%20under%20control%20of%20Architect%20of%20Capitol%3B%20availability%20for%20expenses%20of%20advertising.md)
 - [&sect; 00166b - Omitted](%C2%A7%2000166b%20-%20Omitted.md)
 - [&sect; 00166b&#8211;1 - Repealed. Pub. L. 101&#8211;163, title I, &sect;106(b), Nov. 21, 1989, 103 Stat. 1056](%C2%A7%2000166b%E2%80%931%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93163%2C%20title%20I%2C%20%C2%A7106%28b%29%2C%20Nov.%2021%2C%201989%2C%20103%20Stat.%201056.md)
@@ -353,6 +361,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00166f - Funds out of Capitol Buildings, Architect of Capitol](%C2%A7%2000166f%20-%20Funds%20out%20of%20Capitol%20Buildings%2C%20Architect%20of%20Capitol.md)
 - [&sect; 00166g - Expenses for flying American flags and providing certification services therefor](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md)
 - [&sect; 00166h - Transfer of funds by Architect of Capitol; approval](%C2%A7%2000166h%20-%20Transfer%20of%20funds%20by%20Architect%20of%20Capitol%3B%20approval.md)
+- [&sect; 00166i - Energy conservation and management](%C2%A7%2000166i%20-%20Energy%20conservation%20and%20management.md)
 - [&sect; 00167 - Lighting, heating, and ventilating House of Representatives](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md)
 - [&sect; 00167a - Repealed. Pub. L. 90&#8211;417, July 23, 1968, 82 Stat. 407](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md)
 - [&sect; 00168 - Heating and ventilating Senate wing](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md)
@@ -456,6 +465,10 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00207 - Payment of Capitol Police](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md)
 - [&sect; 00207a - Unified payroll administration for Capitol Police](%C2%A7%2000207a%20-%20Unified%20payroll%20administration%20for%20Capitol%20Police.md)
 - [&sect; 00207b - Establishment by Capitol Police Board of unified schedules of rates of basic pay and leave system; lump sum payments](%C2%A7%2000207b%20-%20Establishment%20by%20Capitol%20Police%20Board%20of%20unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system%3B%20lump%20sum%20payments.md)
+- [&sect; 00207c - Establishment of United States Capitol Police Memorial Fund](%C2%A7%2000207c%20-%20Establishment%20of%20United%20States%20Capitol%20Police%20Memorial%20Fund.md)
+- [&sect; 00207c&#8211;1 - Payments from Fund for families of Detective Gibson and Private First Class Chestnut](%C2%A7%2000207c%E2%80%931%20-%20Payments%20from%20Fund%20for%20families%20of%20Detective%20Gibson%20and%20Private%20First%20Class%20Chestnut.md)
+- [&sect; 00207c&#8211;2 - Tax treatment of Fund](%C2%A7%2000207c%E2%80%932%20-%20Tax%20treatment%20of%20Fund.md)
+- [&sect; 00207c&#8211;3 - Administration by Capitol Police Board](%C2%A7%2000207c%E2%80%933%20-%20Administration%20by%20Capitol%20Police%20Board.md)
 - [&sect; 00208 - Suspension of Capitol Police members](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md)
 - [&sect; 00209 - Pay of Capitol Police members under suspension](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md)
 - [&sect; 00210 - Uniform, belts and arms; Capitol Police](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md)

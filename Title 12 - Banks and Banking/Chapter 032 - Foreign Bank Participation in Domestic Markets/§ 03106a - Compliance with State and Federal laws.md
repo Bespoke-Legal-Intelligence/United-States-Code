@@ -1,6 +1,6 @@
 ### §3106a. Compliance with State and Federal laws
 
-(1) Every branch or agency of a foreign bank and every commercial lending company controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank shall conduct its operations in theUnited States in full compliance with provisions of any law of the United States or any State thereof which—
+(1) Every branch or agency of a foreign bank and every commercial lending company controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank shall conduct its operations in the United States in full compliance with provisions of any law of the United States or any State thereof which—
 
 &emsp;(A) impose requirements that protect the rights of consumers in financial transactions, to the extent that the branch, agency, or commercial lending company engages in activities that are subject to such laws;
 

@@ -42,7 +42,11 @@ Subsec. (e). Pub. L. 104–106, §2820(b), added subsec. (e).
 
 1993—Subsec. (d). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Reporting Requirement
 
-Section 2863(b) of Pub. L. 102–190, as amended by Pub. L. 103–160, div. B, title XXVIII, §2807(b), Nov. 30, 1993, 107 Stat. 1887, required Secretary of Defense to submit reports for the years 1994, 1995, and 1996 to Congress identifying leasehold interest acquisitions and discussing projects for the construction or modification of facilities on leased property, prior to repeal by Pub. L. 104–106, div. B, title XXVIII, §2820(c), Feb. 10, 1996, 110 Stat. 556. See subsec. (e) of this section.
+Section 2863(b) of Pub. L. 102–190, as amended by Pub. L. 103–160, div. B, title XXVIII, §2807(b), Nov. 30, 1993,107 Stat. 1887, required Secretary of Defense to submit reports for the years 1994, 1995, and 1996 to Congress identifying leasehold interest acquisitions and discussing projects for the construction or modification of facilities on leased property, prior to repeal by Pub. L. 104–106, div. B, title XXVIII, §2820(c), Feb. 10, 1996, 110 Stat. 556. See subsec. (e) of this section.
 

@@ -2,7 +2,7 @@
 
 (a) In this section:
 
-&emsp;(1) The term “member of the armed forces” means (A) a member of the armed forces who is serving on active duty, (B) a member of the National Guard who is serving on full-time National Guard duty, or (C) a member of a Reserve component while performing inactive-duty training.
+&emsp;(1) The term “member of the armed forces” means (A) a member of the armed forces whois serving on active duty, (B) a member of the National Guard who is serving on full-time National Guard duty, or (C) a member of a Reserve component while performing inactive-duty training.
 
 &emsp;(2) The term “military labor organization” means any organization that engages in or attempts to engage in—
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) negotiate or bargain with any person concerning the terms or conditions of service of any member of the armed forces,
 
-&emsp;&emsp;(B) recognize any military labor organization as a representative of individual members of the armed forces in connection withany complaint or grievance of any such member arising out of the terms or conditions of service of such member in the armed forces, or
+&emsp;&emsp;(B) recognize any military labor organization as a representative of individual members of the armed forces in connection with any complaint or grievance of any such member arising out of the terms or conditions of service of such member in the armed forces, or
 
 &emsp;&emsp;(C) make any change with respect to the terms or conditions of service in the armed forces of individual members of the armed forces; or
 

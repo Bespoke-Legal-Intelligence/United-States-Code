@@ -46,7 +46,15 @@ The Assistant Secretary of Labor shall prescribe such regulations as are necessa
 
 &emsp;(B) service as a management official or confidential employee is prohibited on the part of any individual having participated in the management of a labor organization for purposes of collective bargaining or having acted as a representative of a labor organization during the preceding two years.
 
-(2) For the purposes of paragraph (1)(A)(ii) and paragraph (1)(B), the term “management official” shall not include chiefs of mission, principal officers and their deputies, and administrative and personnel officers abroad.
+(2) For the purposes of paragraph (1)(A)(ii) and paragraph (1)(B), the term “management official” does not include—
+
+&emsp;(A) any chief of mission;
+
+&emsp;(B) any principal officer or deputy principal officer;
+
+&emsp;(C) any administrative or personnel officer abroad; or
+
+&emsp;(D) any individual described in section 4103(12)(B), (C), or (D) of this title who is not involved in the administration of this subchapter or in the formulation of the personnel policies and programs of the Department.
 
 #### (f) Willful and intentional violations
 
@@ -56,9 +64,11 @@ If the Board finds that any labor organization has willfully and intentionally v
 
 &emsp;(2) take any other appropriate disciplinary action.
 
-(Pub. L. 96–465, title I, §1017, Oct. 17, 1980, 94 Stat. 2140; Pub. L. 103–236, title I, §171, Apr. 30, 1994, 108 Stat. 411.)
+(Pub. L. 96–465, title I, §1017, Oct. 17, 1980, 94 Stat. 2140; Pub. L. 103–236, title I, §171, Apr. 30, 1994, 108 Stat. 411; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2315, Oct. 21, 1998, 112 Stat. 2681–828.)
 
 #### Amendments
+
+1998—Subsec. (e)(2). Pub. L. 105–277 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purposes of paragraph (1)(A)(ii) and paragraph (1)(B), the term ‘management official’ shall not include chiefs of mission, principal officers and their deputies, and administrative and personnel officers abroad.”
 
 1994—Subsec. (e). Pub. L. 103–236 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This subchapter does not authorize participation in the management of a labor organization or acting as a representative of a labor organization by a management official, a confidential employee, or any other employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official functions of such management official or such employee.”
 

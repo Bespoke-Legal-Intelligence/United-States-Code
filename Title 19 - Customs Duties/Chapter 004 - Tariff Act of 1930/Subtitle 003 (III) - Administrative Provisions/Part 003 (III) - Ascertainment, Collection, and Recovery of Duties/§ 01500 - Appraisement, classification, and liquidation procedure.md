@@ -12,7 +12,7 @@ The Customs Service shall, under rules and regulations prescribed by the Secreta
 
 &emsp;(e) give or transmit, pursuant to an electronic data interchange system, notice of such liquidation to the importer, his consignee, or agent in such form and manner as the Secretary shall by regulation prescribe.
 
-(June 17, 1930, ch. 497, title IV, §500, 46 Stat. 729; Aug. 2, 1956, ch. 887, §4(b), 70 Stat. 948; June 2, 1970, Pub. L. 91–271, title II, §204(a), 84 Stat. 283; July 26, 1979, Pub. L. 96–39, title II, §202(a)(4), 93 Stat. 202; Dec. 8, 1993, Pub. L. 103–182, title VI, §638, 107 Stat. 2203.)
+(June 17, 1930, ch. 497, title IV, §500, 46 Stat. 729; Aug. 2, 1956, ch. 887, §4(b), 70 Stat. 948; Pub. L. 91–271, title II, §204(a), June 2, 1970, 84 Stat. 283; Pub. L. 96–39, title II, §202(a)(4), July 26, 1979, 93 Stat. 202; Pub. L. 103–182, title VI, §638, Dec. 8, 1993, 107 Stat. 2203.)
 
 #### Prior Provisions
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 
 #### Effective Date of 1970 Amendment
 
-Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn fromwarehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
+Section 203 of Pub. L. 91–271 provided that: “Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
 
 #### Transfer of Functions
 

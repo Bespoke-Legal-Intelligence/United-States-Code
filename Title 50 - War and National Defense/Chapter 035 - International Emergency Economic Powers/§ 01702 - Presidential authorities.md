@@ -50,7 +50,7 @@ Section 2502(b)(2) of Pub. L. 100–418 provided that: “The amendments made by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1701 of this title; title 22 section 6004.
+This section is referred to in section 1701 of this title; title 22 section 6004; title 28 section 1610.
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

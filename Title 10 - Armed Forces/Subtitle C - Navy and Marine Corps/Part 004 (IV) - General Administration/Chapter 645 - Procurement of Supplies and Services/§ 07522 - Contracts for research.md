@@ -4,7 +4,7 @@
 
 (b) This section does not authorize the use of the cost-plus-a-percentage-of-cost system of contracting.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 464; Dec. 12, 1980, Pub. L. 96–513, title V, §513(38), 94 Stat. 2934; Sept. 13, 1982, Pub. L. 97–258, §3(b)(9), 96 Stat. 1064; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(56)(B), 98 Stat. 2626; Oct. 13, 1994, Pub. L. 103–355, title II, §2001(j)(2), 108 Stat. 3303.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 464; Pub. L. 96–513, title V, §513(38), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–258, §3(b)(9), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 98–525, title XIV, §1405(56)(B), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 103–355, title II, §2001(j)(2), Oct. 13, 1994, 108 Stat. 3303.)
 
 Historical and Revision Notes
 

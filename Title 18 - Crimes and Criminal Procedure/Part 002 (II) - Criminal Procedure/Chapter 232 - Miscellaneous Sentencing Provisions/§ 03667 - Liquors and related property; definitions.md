@@ -4,7 +4,7 @@ All liquor involved in any violation of sections 1261–1265 of this title, the 
 
 As used in this section, “vessel” includes every description of watercraft used, or capable of being used, as a means of transportation in water or in water and air; “vehicle” includes animals and every description of carriage or other contrivance used, or capable of being used, as a means of transportation on land or through the air.
 
-(June 25, 1948, ch. 645, 62 Stat. 840, §3615; renumbered §3667, Oct. 12, 1984, Pub. L. 98–473, title II, §212(a)(1), 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 840, §3615; renumbered §3667, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 #### Historical and Revision Notes
 

@@ -32,7 +32,7 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(A) Amounts authorized for and appropriated to that Fund.
 
-&emsp;(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, in such amounts as provided in appropriationActs, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition or construction of military unaccompanied housing.
+&emsp;(B) Subject to subsection (f), any amounts that the Secretary of Defense transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Defense for the acquisition or construction of military unaccompanied housing.
 
 &emsp;(C) Proceeds from the conveyance or lease of property or facilities under section 2878 of this title for the purpose of carrying out activities under this subchapter with respect to military unaccompanied housing.
 

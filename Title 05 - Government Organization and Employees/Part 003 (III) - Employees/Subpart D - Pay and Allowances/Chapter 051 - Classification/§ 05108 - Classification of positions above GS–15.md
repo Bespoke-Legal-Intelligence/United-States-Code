@@ -302,5 +302,5 @@ Chairman of Consumer Product Safety Commission authorized to place twelve positi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3132, 3304, 3324, 3594, 5109, 5376, 5723 of this title; title 2 section 166; title 15 section 2053; title 20 sections 1505, 3461, 9175; title 22 sections 2193, 2385, 2454; title 25 section 640d–11; title 29 sections 661, 1137; title 30 section 1211; title 42 section 7231; title 45 section 231f.
+This section is referred to in sections 3132, 3304, 3324, 3594, 5376, 5723 of this title; title 2 section 166; title 15 section 2053; title 20 sections 1505, 3461, 9175; title 22 sections 2193, 2385, 2454; title 25 section 640d–11; title 29 sections 661, 1137; title 30 section 1211; title 42 section 7231; title 45 section 231f.
 

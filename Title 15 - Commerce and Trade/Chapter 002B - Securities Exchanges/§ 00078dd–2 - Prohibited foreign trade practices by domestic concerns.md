@@ -2,11 +2,11 @@
 
 #### (a) Prohibition
 
-It shall be unlawful for any domestic concern, other than an issuer which is subject to section 78dd–1 of this title, or for any officer, director, employee, or agent of such domestic concern or any stockholder thereof acting on behalf of such domestic concern, to make use of the mails or any means or instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
+It shall be unlawful for any domestic concern, other than an issuer which is subject to section78dd–1 of this title, or for any officer, director, employee, or agent of such domestic concern or any stockholder thereof acting on behalf of such domestic concern, to make use of the mails or any means or instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
 
 &emsp;(1) any foreign official for purposes of—
 
-&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity, or (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or
+&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity, (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or (iii) securing any improper advantage; or
 
 &emsp;&emsp;(B) inducing such foreign official to use his influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
 
@@ -14,7 +14,7 @@ It shall be unlawful for any domestic concern, other than an issuer which is sub
 
 &emsp;(2) any foreign political party or official thereof or any candidate for foreign political office for purposes of—
 
-&emsp;&emsp;(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,
+&emsp;&emsp;(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate, or (iii) securing any improper advantage; or
 
 &emsp;&emsp;(B) inducing such party, official, or candidate to use its or his influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
 
@@ -22,7 +22,7 @@ It shall be unlawful for any domestic concern, other than an issuer which is sub
 
 &emsp;(3) any person, while knowing that all or a portion of such money or thing of value will be offered, given, or promised, directly or indirectly, to any foreign official, to any foreign political party or official thereof, or to any candidate for foreign political office, for purposes of—
 
-&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, or (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or
+&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or (iii) securing any improper advantage; or
 
 &emsp;&emsp;(B) inducing such foreign official, political party, party official, or candidate to use his or its influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
 
@@ -30,11 +30,11 @@ It shall be unlawful for any domestic concern, other than an issuer which is sub
 
 #### (b) Exception for routine governmental action
 
-Subsection (a) of this section shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
+Subsections (a) and (i) of this section shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
 
 #### (c) Affirmative defenses
 
-It shall be an affirmative defense to actions under subsection (a) of this section that—
+It shall be an affirmative defense to actions under subsection (a) or (i) of this section that—
 
 &emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
@@ -46,11 +46,11 @@ It shall be an affirmative defense to actions under subsection (a) of this secti
 
 #### (d) Injunctive relief
 
-(1) When it appears to the Attorney General that any domestic concern to which this section applies, or officer, director, employee, agent, or stockholder thereof, is engaged, or about to engage, in any act or practice constituting a violation of subsection (a) of this section, the Attorney General may, in his discretion, bring a civil action in an appropriate district court of the United States to enjoin such act or practice, and upon a proper showing, a permanent injunction or a temporary restraining order shall be granted without bond.
+(1) When it appears to the Attorney General that any domestic concern to which this section applies, or officer, director, employee, agent, or stockholder thereof, is engaged, or about to engage, in any act or practice constituting a violation of subsection (a) or (i) of this section, the Attorney General may, in his discretion, bring a civil action in an appropriate district court of the United States to enjoin such act or practice, and upon a proper showing, a permanent injunction or a temporary restraining order shall be granted without bond.
 
 (2) For the purpose of any civil investigation which, in the opinion of the Attorney General, is necessary and proper to enforce this section, the Attorney General or his designee are empowered to administer oaths and affirmations, subpoena witnesses, take evidence, and require the production of any books, papers, or other documents which the Attorney General deems relevant or material to such investigation. The attendance of witnesses and the production of documentary evidence may be required from any place in the United States, or any territory, possession, or commonwealth of the United States, at any designated place of hearing.
 
-(3) In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, or other documents. Any such court may issue an order requiring such person to appear before the Attorney General or his designee, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district in which such person resides or may be found. The Attorney General may make such rules relating to civil investigations as may be necessary or appropriate to implement the provisions of this subsection.
+(3) In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, or other documents. Any such court may issue an order requiring such person to appear before the Attorney General or his designee, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district in which such person resides or may be found. The Attorney General may make such rules relating to civil investigationsas may be necessary or appropriate to implement the provisions of this subsection.
 
 #### (e) Guidelines by Attorney General
 
@@ -74,15 +74,13 @@ Not later than 6 months after August 23, 1988, the Attorney General, after consu
 
 #### (g) Penalties
 
-(1)(A) Any domestic concern that violates subsection (a) of this section shall be fined not more than $2,000,000.
+(1)(A) Any domestic concern that is not a natural person and that violates subsection (a) or (i) of this section shall be fined not more than $2,000,000.
 
-(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.
+(B) Any domestic concern that is not a natural person and that violates subsection (a) or (i) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.
 
-(2)(A) Any officer or director of a domestic concern, or stockholder acting on behalf of such domestic concern, who willfully violates subsection (a) of this section shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
+(2)(A) Any natural person that is an officer, director, employee, or agent of a domestic concern, or stockholder acting on behalf of such domestic concern, who willfully violates subsection (a) or (i) of this section shall be fined not more than $100,000 or imprisoned not more than 5 years, or both.
 
-(B) Any employee or agent of a domestic concern who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, or stockholder acting on behalf of such domestic concern), and who willfully violates subsection (a) of this section, shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
-
-(C) Any officer, director, employee, or agent of a domestic concern, or stockholder acting on behalf of such domestic concern, who violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.
+(B) Any natural person that is an officer, director, employee, or agent of a domestic concern, or stockholder acting on behalf of such domestic concern, who violates subsection (a) or (i) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.
 
 (3) Whenever a fine is imposed under paragraph (2) upon any officer, director, employee, agent, or stockholder of a domestic concern, such fine may not be paid, directly or indirectly, by such domestic concern.
 
@@ -94,9 +92,15 @@ For purposes of this section:
 
 &emsp;&emsp;(A) any individual who is a citizen, national, or resident of the United States; and
 
-&emsp;&emsp;(B) any corporation, partnership, association, joint-stock company, business trust,unincorporated organization, or sole proprietorship which has its principal place of business in the United States, or which is organized under the laws of a State of the United States or a territory, possession, or commonwealth of the United States.
+&emsp;&emsp;(B) any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship which has its principal place of business in the United States, or which is organized under the laws of a State of the United States or a territory, possession, or commonwealth of the United States.
 
-&emsp;(2) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality.
+&emsp;(2)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+
+&emsp;(B) For purposes of subparagraph (A), the term “public international organization” means—
+
+&emsp;&emsp;(i) an organization that is designated by Executive order pursuant to section 288 of title 22; or
+
+&emsp;&emsp;(ii) any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of such order in the Federal Register.
 
 &emsp;(3)(A) A person's state of mind is “knowing” with respect to conduct, a circumstance, or a result if—
 
@@ -106,7 +110,7 @@ For purposes of this section:
 
 &emsp;(B) When knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is aware of a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
 
-&emsp;(4)(A) For purposes of paragraph (1), the term “routine governmental action” means only an action which is ordinarily and commonly performed by a foreign official in—
+&emsp;(4)(A) The term “routine governmental action” means only an action which is ordinarily and commonly performed by a foreign official in—
 
 &emsp;&emsp;(i) obtaining permits, licenses, or other official documents to qualify a person to do business in a foreign country;
 
@@ -126,7 +130,13 @@ For purposes of this section:
 
 &emsp;&emsp;(B) any other interstate instrumentality.
 
-(Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII, §330005, Sept. 13, 1994, 108 Stat. 2142.)
+#### (i) Alternative jurisdiction
+
+(1) It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
+
+(2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
+
+(Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII, §330005, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 105–366, §3, Nov. 10, 1998, 112 Stat. 3304.)
 
 #### Codification
 
@@ -134,11 +144,49 @@ Section was enacted as part of Pub. L. 95–213, the Foreign Corrupt Practices A
 
 #### Amendments
 
+1998—Subsec. (a)(1)(A). Pub. L. 105–366, §3(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+“(A)(i) influencing any act or decision of such foreign official in his official capacity, or (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or”.
+
+Subsec. (a)(2)(A). Pub. L. 105–366, §3(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+“(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,”.
+
+Subsec. (a)(3)(A). Pub. L. 105–366, §3(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+“(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, or (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or”.
+
+Subsec. (b). Pub. L. 105–366, §3(d)(2), substituted “Subsections (a) and (i)” for “Subsection (a)”.
+
+Subsec. (c). Pub. L. 105–366, §3(d)(3), substituted “subsection (a) or (i)” for “subsection (a)” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 105–366, §3(d)(4), substituted “subsection (a) or (i)” for “subsection (a)”.
+
+Subsec. (g)(1). Pub. L. 105–366, §3(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+
+“(1)(A) Any domestic concern that violates subsection (a) of this section shall be fined not more than $2,000,000.
+
+“(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.”
+
+Subsec. (g)(2). Pub. L. 105–366, §3(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+
+“(2)(A) Any officer or director of a domestic concern, or stockholder acting on behalf of such domestic concern, who willfully violates subsection (a) of this section shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
+
+“(B) Any employee or agent of a domestic concern who is a United States citizen, national, or resident or is otherwise subject to the jurisdiction of the United States (other than an officer, director, or stockholder acting on behalf of such domestic concern), and who willfully violates subsection (a) of this section, shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
+
+“(C) Any officer, director, employee, or agent of a domestic concern, or stockholder acting on behalf of such domestic concern, who violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.”
+
+Subsec. (h)(2). Pub. L. 105–366, §3(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘foreign official’ means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality.”
+
+Subsec. (h)(4)(A). Pub. L. 105–366, §3(e), substituted “The” for “For purposes of paragraph (1), the” in introductory provisions.
+
+Subsec. (i). Pub. L. 105–366, §3(d)(1), added subsec. (i).
+
 1994—Subsec. (a)(3). Pub. L. 103–322 substituted “domestic concern” for “issuer” in closing provisions.
 
 1988—Pub. L. 100–418 substituted “Prohibited foreign trade” for “Foreign corrupt” in section catchline and amended text generally, revising and restating as subsecs. (a) to (h) provisions of former subsecs. (a) to (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 12a; title 12 section 635; title 18 section 1956; title 22 sections 2197, 2778, 6301; title 26 sections 162, 952, 964.
+This section is referred to in section 78dd–3 of this title; title 7 section 12a; title 12 section 635; title 18 section 1956; title 22 sections 2197, 2778, 6301; title 26 sections 162, 952, 964.
 

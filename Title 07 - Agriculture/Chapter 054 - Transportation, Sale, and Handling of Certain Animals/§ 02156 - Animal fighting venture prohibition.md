@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (h) Conflict with State law
 
-The provisions of this chapter shall not supersede or otherwise invalidate any such State,local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
+The provisions of this chapter shall not supersede or otherwise invalidate any such State, local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
 
 (Pub. L. 89–544, §26(a)–(h)(1), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

@@ -36,7 +36,7 @@ The requirements of subsection (a) of this section shall apply to the following 
 
 #### (d) Consideration of information and determination
 
-After the expiration of the response period under subsection (c) of this section or upon receipt of information provided during such period by the enterprise, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the enterprise during the response period. The Director shall provide written notice of a determination totake action and the reasons for such determination to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
+After the expiration of the response period under subsection (c) of this section or upon receipt of information provided during such period by the enterprise, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the enterprise during the response period. The Director shall provide written notice of a determination to take action and the reasons for such determination to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
 
 #### (e) Effective date of actions
 

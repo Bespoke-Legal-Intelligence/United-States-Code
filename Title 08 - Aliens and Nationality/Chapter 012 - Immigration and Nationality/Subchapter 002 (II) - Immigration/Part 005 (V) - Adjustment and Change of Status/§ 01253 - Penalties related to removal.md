@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) willfully fails or refuses to present himself or herself for removal at the time and place required by the Attorney General pursuant to such order,
 
-> &emsp;shall be fined under title 18, or imprisoned not more than four years (or 10 years if the alienis a member of any of the classes described in paragraph (1)(E), (2), (3), or (4) of section 1227(a) of this title), or both.
+> &emsp;shall be fined under title 18, or imprisoned not more than four years (or 10 years if the alien is a member of any of the classes described in paragraph (1)(E), (2), (3), or (4) of section 1227(a) of this title), or both.
 
 #### (2) Exception
 
@@ -70,7 +70,7 @@ An alien who shall willfully fail to comply with regulations or requirements iss
 
 On being notified by the Attorney General that the government of a foreign country denies or unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §243, 66 Stat. 212; Oct. 3, 1965, Pub. L. 89–236, §11(f), 79 Stat. 918; Oct. 30, 1978, Pub. L. 95–549, title I, §104, 92 Stat. 2066; Mar. 17, 1980, Pub. L. 96–212, title II, §203(e), 94 Stat. 107; Dec. 29, 1981, Pub. L. 97–116, §18(i), 95 Stat. 1620; Nov. 29, 1990, Pub. L. 101–649, title V, §515(a)(2), title VI, §603(b)(3), 104 Stat. 5053, 5085; Apr. 24, 1996, Pub. L. 104–132, title IV, §413(a), (f), 110 Stat. 1269; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §307(a), 110 Stat. 3009–612.)
+(June 27, 1952, ch. 477, title II, ch. 5, §243, 66 Stat. 212; Pub. L. 89–236, §11(f), Oct. 3, 1965, 79 Stat. 918; Pub. L. 95–549, title I, §104, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–212, title II, §203(e), Mar. 17, 1980, 94 Stat. 107; Pub. L. 97–116, §18(i), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 101–649, title V, §515(a)(2), title VI, §603(b)(3), Nov. 29, 1990, 104 Stat. 5053, 5085; Pub. L. 104–132, title IV, §413(a), (f), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612.)
 
 #### Amendments
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscalyear beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1965 Amendment
 

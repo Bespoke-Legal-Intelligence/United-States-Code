@@ -42,7 +42,7 @@ The Secretary may apply the rule of approximation with respect to the acreage li
 
 #### (e) Surface and/or subsurface estates to Regional Corporations
 
-Immediately after selection by a Regional Corporation, the Secretary shall convey to the Regional Corporation title to the surface and/or the subsurface estates, as is appropriate, in the lands selected.
+Immediately after selection by a Regional Corporation, the Secretary shall convey to the Regional Corporation title to the surface and/orthe subsurface estates, as is appropriate, in the lands selected.
 
 #### (f) Patents to Village Corporations for surface estates and to Regional Corporations for subsurface estates; excepted lands; mineral rights, consent of Village Corporations
 
@@ -66,11 +66,11 @@ The Secretary is authorized to withdraw and convey 2 million acres of unreserved
 
 &emsp;(5) The Secretary may convey to a Native, upon application within two years from December 18, 1971, the surface estate in not to exceed 160 acres of land occupied by the Native as a primary place of residence on August 31, 1971. Determination of occupancy shall be made by the Secretary, whose decision shall be final. The subsurface estate in such lands shall be conveyed to the appropriate Regional Corporations unless the lands are located on a Wildlife Refuge;
 
-&emsp;(6) The Secretary shall charge against the 2 million acres authorized to be conveyed by this section all allotments approved pursuant to section 1617 of this title during the four years following December 18, 1971. Any minerals reserved by the United States pursuant to the Act of March 8, 1922 (42 Stat. 415), as amended \[43 U.S.C. 270–11 to 270–13\],<sup>2</sup> in a Native Allotment approved pursuant to section 1617 of this title during the period December 18, 1971, through December 18, 1975, shall beconveyed to the appropriate Regional Corporation, unless such lands are located in a Wildlife Refuge or in the Lake Clark areas as provided in section 12 of the Act of January 2, 1976 (Public Law 94–204), as amended.
+&emsp;(6) The Secretary shall charge against the 2 million acres authorized to be conveyed by this section all allotments approved pursuant to section 1617 of this title during the four years following December 18, 1971. Any minerals reserved by the United States pursuant to the Act of March 8, 1922 (42 Stat. 415), as amended \[43 U.S.C. 270–11 to 270–13\],<sup>2</sup> in a Native Allotment approved pursuant to section 1617 of this title during the period December 18, 1971, through December 18, 1975, shall be conveyed to the appropriate Regional Corporation, unless such lands are located in a Wildlife Refuge or in the Lake Clark areas as provided in section 12 of the Act of January 2, 1976 (Public Law 94–204), as amended.
 
 &emsp;(7) The Secretary may withdraw and convey lands out of the National Wildlife Refuge System and out of the National Forests, for the purposes set forth in paragraphs (1), (2), (3), and (5) of this subsection; and
 
-&emsp;(8)(A) Any portion of the 2 million acres not conveyed by this subsection shall be allocated and conveyed to the Regional Corporations on the basis of population.
+&emsp;(8)(A) Any portion of the 2 million acres not conveyed by this subsection shall be allocatedand conveyed to the Regional Corporations on the basis of population.
 
 &emsp;(B) Such allocation as the Regional Corporation for southeastern Alaska shall receive under this paragraph shall be selected and conveyed from lands that were withdrawn by sections 1615(a) and 1615(d) of this title and not selected by the Village Corporations in southeastern Alaska; except lands on Admiralty Island in the Angoon withdrawal area and, without the consent of the Governor of the State of Alaska or his delegate, lands in the Saxman and Yakutat withdrawal areas are not available for selection or conveyance under this paragraph.
 
@@ -114,7 +114,7 @@ Subsec. (h)(9) to (11). Pub. L. 96–487, §1406(d), added pars. (9) to (11).
 
 #### Claim to Subsurface Estate of Lands in Wildlife Refuge; Entitlement to In Lieu Surface or Subsurface Estate; Time Limitation; Waiver
 
-Section 1406(e) of Pub. L. 96–487 provided that: “Any Regional Corporation which asserts a claim with the Secretary to the subsurface estate of lands selectable under section 14(h) of the Alaska Native Claims Settlement Act \[subsec. (h) of this section\] which are in a Wildlife Refuge shall not be entitled to any in lieu surface or subsurface estate provided by subsections 12(c)(4) and 14(h)(9) of such Act \[section 1611(c)(4) of thistitle and subsec. (h)(9) of this section\]. Any such claim must be asserted within one hundred and eighty days after the date of enactment of this Act \[Dec. 2, 1980\]. Failure to assert such claim within the one-hundred-and-eighty-day period shall constitute a waiver of any right to such subsurface estate in a Wildlife Refuge as the boundaries of the refuge existed on the date of enactment of the Alaska Native Claims Settlement Act \[Dec. 18, 1971\].”
+Section 1406(e) of Pub. L. 96–487 provided that: “Any Regional Corporation which asserts a claim with the Secretary to the subsurface estate of lands selectable under section 14(h) of the Alaska Native Claims Settlement Act \[subsec. (h) of this section\] which are in a Wildlife Refuge shall not be entitled to any in lieu surface or subsurface estate provided by subsections 12(c)(4) and 14(h)(9) of such Act \[section 1611(c)(4) of this title and subsec. (h)(9) of this section\]. Any such claim must be asserted within one hundred and eighty days after the date of enactment of this Act \[Dec. 2, 1980\]. Failure to assert such claim within the one-hundred-and-eighty-day period shall constitute a waiver of any right to such subsurface estate in a Wildlife Refuge as the boundaries of the refuge existed on the date of enactment of the Alaska Native Claims Settlement Act \[Dec. 18, 1971\].”
 
 #### Escrow Account Pending Conveyance of Withdrawn Lands; Proceeds Not Deposited in Account; Payments; Interest; Deposit of Account in United States Treasury; Public Easements; Authority for Payment Out of Treasury Funds
 
@@ -136,7 +136,7 @@ Pub. L. 94–204, §2, Jan. 2, 1976, 89 Stat. 1146, as amended by Pub. L. 96–4
 
 “(d) To the extent that there is a conflict between the provisions of this section and any other Federal laws applicable to Alaska, the provisions of this section will govern. Any payment made to any corporation or any individual under authority of this section shall not be subject to any prior obligation under section 9(d) or 9(f) of the Settlement Act \[section 1608(d) or section 1608(f) of this title\].
 
-“(e) The Secretary shall calculate the amounts payable pursuant to this section and notify the affected Corporation of the results of his calculations. The affected Corporation shall have thirty days in which to appeal the Secretary's calculations after which the Secretary shall promptly make a final determination of the amounts payable. The Secretary shall certify such final determinations to the Secretary of the Treasury and each determination shall constitute a final judgment, award, or compromise settlement under section 1304 of title 31 of the United States Code. The Secretary of the Treasury is authorized and directed to pay such amounts to the appropriate Corporation out of funds in the Treasury: <i>Provided</i>, That if the lands from which the proceeds and interest entitlement are derived have not been conveyed to the selecting Native Corporation at the time the Secretary makes his final determination, the Secretary of the Treasury is authorized and directed to pay such amount into theescrow account where it will earn interest and be disbursed in the same manner as other proceeds and interest.”
+“(e) The Secretary shall calculate the amounts payable pursuant to this section and notify the affected Corporation of the results of his calculations. The affected Corporation shall have thirty days in which to appeal the Secretary's calculations after which the Secretary shall promptly make a final determination of the amounts payable. The Secretary shall certify such final determinations to the Secretary of the Treasury and each determination shall constitute a final judgment, award, or compromise settlement under section 1304 of title 31 of the United States Code. The Secretary of the Treasury is authorized and directed to pay such amounts to the appropriate Corporation out of funds in the Treasury: <i>Provided</i>, That if the lands from which the proceeds and interest entitlement are derived have not been conveyed to the selecting Native Corporation at the time the Secretary makes his final determination, the Secretary of the Treasury is authorized and directed to pay such amount into the escrow account where it will earn interest and be disbursed in the same manner as other proceeds and interest.”
 
 #### Boundary Between Southeastern and Chugach Regions; Hunting and Fishing Rights of Natives of Village of Yakutat
 
@@ -144,7 +144,7 @@ Pub. L. 94–204, §11, Jan. 2, 1976, 89 Stat. 1150, provided that: “The bound
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1610, 1611, 1615, 1617, 1618, 1620, 1621, 1627, 1629a, 1629b, 1629d, 1631, 1632, 1633, 1635, 1636, 1638, 1641 of this title; title 16 sections 3102, 3192; title 25 section 3902; title 30 section 1702; title 45 section 1205.
+This section is referred to in sections 1610, 1611, 1615, 1617, 1618, 1620, 1621, 1627, 1629a, 1629b, 1629d, 1632, 1633, 1635, 1636, 1638, 1641 of this title; title 16 sections 3102, 3192; title 25 section 3902; title 30 section 1702; title 45 section 1205.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

@@ -242,7 +242,7 @@ In subsection (c)(2)(B), the words “and in the amounts” are omitted as surpl
 
 In subsection (d), the words “department, agencies, and instrumentalities of the United States Government” are substituted for “relevant Federal agencies, including the Federal Communications Commission” for consistency in the revised title and with other titles of the United States Code. The words “shall assist Amtrak under subsection (a)(6) of this section” are substituted for “shall take such actions as are necessary to achieve this goal” for clarity. The words “including necessary licensing, construction, operation, and maintenance” are omitted as surplus.
 
-In subsection (e), before clause (1), the words “of priority” are added for clarity. In clause (2), the words “Potential ridership should be considered” are omittedas surplus. In clause (5), the words “Reducing maintenance cost levels is desirable” are omitted as surplus. The words “before other improvements” are added for clarity.
+In subsection (e), before clause (1), the words “of priority” are added for clarity. In clause (2), the words “Potential ridership should be considered” are omitted as surplus. In clause (5), the words “Reducing maintenance cost levels is desirable” are omitted as surplus. The words “before other improvements” are added for clarity.
 
 In subsection (f), the words “accomplished in a manner which is”, “the accomplishment in the . . . of additional”, and “levels” are omitted as surplus.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) after February 2, 1991, is involuntarily separated (as such term is defined in section 1141 of title 10) with an honorable discharge;
 
-&emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree;
+&emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
 &emsp;(3) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Transportation shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
 
@@ -28,9 +28,11 @@
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such Account to make payments of benefits to such individual under section 3015(f) of this chapter.
 
-(Added Pub. L. 101–510, div. A, title V, §561(a)(1), Nov. 5, 1990, 104 Stat. 1571, §1418A; amended Pub. L. 102–25, title VII, §705(c)(1), Apr. 6, 1991, 105 Stat. 120; renumbered §3018A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(4), (i)(4), Nov. 2, 1994, 108 Stat. 4684, 4688.)
+(Added Pub. L. 101–510, div. A, title V, §561(a)(1), Nov. 5, 1990, 104 Stat. 1571, §1418A; amended Pub. L. 102–25, title VII, §705(c)(1), Apr. 6, 1991, 105 Stat. 120; renumbered §3018A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(4), (i)(4), Nov. 2, 1994, 108 Stat. 4684, 4688; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326.)
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on the date of the enactment of this section, whichever is later,”.
 
@@ -43,6 +45,10 @@ Subsec. (a)(1). Pub. L. 102–25 substituted “section 1141 of title 10” for 
 Subsec. (a)(3). Pub. L. 102–83, §5(c)(1), substituted “3011(c)(1) or 3012(d)(1)” for “1411(c)(1) or 1412(d)(1)”.
 
 Subsec. (d)(2), (3). Pub. L. 102–83, §5(c)(1), substituted “3223(b)” for “1623(b)”, “3222(a)” for “1622(a)”, and “3222(c)” for “1622(c)” in par. (2) and “3222” for “1622” and “3015(e)” for “1415(e)” in par. (3).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub. L. 105–368, set out as a note under section 3011 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@ Not later than 3 months before the payment of any such quarterly installment to 
 
 Upon receipt of a certification under subsection (c)(2) of this section with respect to a State, the Secretary of the Treasury shall, through the Fiscal Service of the Department of the Treasury and before audit or settlement by the General Accounting Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
-(Aug. 14, 1935, ch. 531, title IV, §405, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2128; amended Aug. 5, 1997, Pub. L. 105–33, title V, §5514(c), 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §405, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2128; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
 #### Prior Provisions
 

@@ -2,5 +2,5 @@
 
 A funding agreement for a grant under section 300x or 300x–21 of this title is that the State involved will make the plan required in section 300x–1 of this title, and the plan required in section 300x–32 of this title, respectively, public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during the development of the plan (including any revisions) and after the submission of the plan to the Secretary.
 
-(July 1, 1944, ch. 373, title XIX, §1941, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 403.)
+(July 1, 1944, ch. 373, title XIX, §1941, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 403.)
 

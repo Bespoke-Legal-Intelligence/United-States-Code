@@ -28,6 +28,14 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
+#### Budget Submissions on Active and Reserve Military Personnel Accounts
+
+Pub. L. 105–262, title VIII, §8093, Oct. 17, 1998, 112 Stat. 2319, provided that: “At the time the President submits his budget for fiscal year 2000 and any fiscal year thereafter, the Department of Defense shall transmit to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] a budget justification document for the active and reserve Military Personnel accounts, to be known as the ‘M–1’, which shall identify, at the budget activity, activity group, and subactivity group level, the amounts requested by the President to be appropriated to the Department of Defense for military personnel in any budget request, or amended budget request, for that fiscal year.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 105–56, title VIII, §8104, Oct. 8, 1997, 111 Stat. 1243.
+
 #### Modification of Budget Data Exhibits
 
 Pub. L. 105–85, div. A, title III, §324(c), Nov. 18, 1997, 111 Stat. 1678, provided that: “The Under Secretary of Defense (Comptroller) shall ensure that aircraft budget data exhibits of the Department of Defense that are submitted to Congress display total numbers of active aircraft where numbers of primary aircraft or primary authorized aircraft are displayed in those exhibits.”
@@ -36,67 +44,23 @@ Pub. L. 105–85, div. A, title III, §324(c), Nov. 18, 1997, 111 Stat. 1678, pr
 
 Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provided that: “For fiscal year 1999 and each fiscal year thereafter, Air Force depot-level maintenance of materiel shall be displayed as one or more separate line items under each subactivity within the authorization request for operation and maintenance, Air Force, in the proposed budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, United States Code.”
 
-#### Identification in President's Budget of NATO Expansion Costs
+#### Identification in President's Budget of NATO Costs
+
+Pub. L. 105–262, title VIII, §8095, Oct. 17, 1998, 112 Stat. 2319, provided that: “The budget of the President for fiscal year 2000 submitted to Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as ‘subactivities’) in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to Congress in support of the budget of the Department of Defense for fiscal year 2000, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs.”
 
 Pub. L. 105–56, title VIII, §8116, Oct. 8, 1997, 111 Stat. 1245, provided that: “The budget of the President for fiscal year 1999 submitted to Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as ‘subactivities’) in the operation and maintenance accounts of the military departments and other appropriation accounts, as may be necessary, to separately identify all costs incurred by the Department of Defense to support the expansion of the North Atlantic Treaty Organization. The budget justification materials submitted to Congress in support of the budget of the Department of Defense for fiscal year 1999, and subsequent fiscal years, shall provide complete, detailed estimates for the incremental costs of such expansion.”
 
 #### Program Elements for Ballistic Missile Defense Organization
 
-Pub. L. 105–85, div. A, title II, §233, Nov. 18, 1997, 111 Stat. 1663, provided that:
-
-“(a)
-
-Requirement for New Program Element.—The Secretary of Defense shall establish a program element for the Ballistic Missile Defense Organization, to be referred to as the ‘Cooperative Ballistic Missile Defense Program’, to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
-
-“(b)
-
-Authority for Exceptions.—The Secretary of Defense may exclude from the program element established pursuant to subsection (a) any international cooperative ballistic missile defense program of the Department of Defense that after the date of the enactment of this Act \[Nov. 18, 1997\] is designated by the Secretary of Defense (pursuant to applicable Department of Defense acquisition regulations and policy) to be managed as a separate acquisition program.
-
-“(c)
-
-Relationship to Other Program Elements.—The program element established pursuant to subsection (a) is in addition to the program elements for activities of the Ballistic Missile Defense Organization required under section 251 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 233; 10 U.S.C. 221 note).”
-
-Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, provided that:
-
-“(a)
-
-Elements Specified.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 1996 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with the following program elements:
-
-&emsp;“(1) The Patriot system.
-
-&emsp;“(2) The Navy Lower Tier (Area) system.
-
-&emsp;“(3) The Theater High-Altitude Area Defense (THAAD) system.
-
-&emsp;“(4) The Navy Upper Tier (Theater Wide) system.
-
-&emsp;“(5) The Corps Surface-to-Air Missile (SAM) system.
-
-&emsp;“(6) Other Theater Missile Defense Activities.
-
-&emsp;“(7) National Missile Defense.
-
-&emsp;“(8) Follow-On and Support Technologies.
-
-“(b)
-
-Treatment of Core Theater Missile Defense Programs.—Amounts requested for core theater missile defense programs specified in section 234 \[10 U.S.C. 2431 note\] shall be specified in individual, dedicated program elements, and amounts appropriated for such programs shall be available only for activities covered by those program elements.
-
-“(c)
-
-BM/C<sup>3</sup>I Programs.—Amounts requested for programs, projects, and activities involving battle management, command, control, communications, and intelligence (BM/C<sup>3</sup>I) shall be included in the ‘Other Theater Missile Defense Activities’ program element or the ‘National Missile Defense’ program element, as determined on the basis of the primary objectives involved.
-
-“(d)
-
-Management and Support.—Each program element shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.”
-
-Similar provisions were contained in Pub. L. 103–337, div. A, title II, §235, Oct. 5, 1994, 108 Stat. 2701, prior to repeal by Pub. L. 104–106, div. A, title II, §253(8), Feb. 10, 1996, 110 Stat. 235.
+Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which required that in budget justification materials submitted to Congress in support of Department of Defense budget, the amount requested for activities of the Ballistic Missile Defense Organization be set forth in accordance with specified program elements, was repealed and restated as section 223 of this title by Pub. L. 105–261, div. A, title II, §235(a)(1), (b), Oct. 17, 1998, 112 Stat. 1953.
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 105–56, title VIII, §8046, Oct. 8, 1997, 111 Stat. 1231, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the Defense Agencies.”
+Pub. L. 105–262, title VIII, §8042, Oct. 17, 1998, 112 Stat. 2306, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the Defense agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–56, title VIII, §8046, Oct. 8, 1997, 111 Stat. 1231.
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8047\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–98.
 

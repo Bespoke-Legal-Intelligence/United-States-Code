@@ -4,25 +4,27 @@
 
 There is established the Colorado River Floodway as identified and generally depicted on maps that are to be submitted by the Secretary.
 
-#### (b) Study of tributary floodflows; determination of Floodway boundary; preparation and filing of maps with Congressional Committees, Federal, State and local government agencies, and federally insured financial institutions
+#### (b) Study of tributary floodflows; determination of Floodway boundary
 
-(1) Within eighteen months after October 8, 1986, the Secretary, in consultation with the seven Colorado River Basin States, represented by persons designated by the Governors of those States, the Colorado River Floodway Task Force, and any other interested parties shall:
+Within eighteen months after October 8, 1986, the Secretary, in consultation with the seven Colorado River Basin States, represented by persons designated by the Governors of those States, the Colorado River Floodway Task Force, and any other interested parties shall:
 
-&emsp;(i) complete a study of the tributary floodflows downstream of Davis Dam;
+&emsp;(1) complete a study of the tributary floodflows downstream of Davis Dam;
 
-&emsp;(ii) define the specific boundaries of the Colorado River Floodway so that the Floodway can accommodate either a one-in-one hundred year river flow consisting of controlled releases and tributary inflow, or a flow of forty thousand cubic feet per second (cfs), whichever is greater, from below Davis Dam to the Southerly International Boundary between the United States of America and the Republic of Mexico.
-
-(2) As soon as practicable after the determination of the Floodway boundary pursuant to this subsection, the Secretary shall prepare and file with the Committees maps depicting the Colorado River Floodway, and each such map shall be considered a standard map to be adhered to by all agencies and shall have the same force and effect as if included in this chapter, except that correction of clerical and typographical errors in each such map may be made. Each such map shall be on file and available for public inspection in the Office of the Commissioner of the Bureau of Reclamation, Department of the Interior, and in other appropriate offices of the Department.
-
-(3) The Secretary shall provide copies of the Colorado River Floodway maps to (A) the chief executive officer of each State, county, municipality, water district, Indian tribe, or equivalent jurisdiction in which the Floodway is located, (B) each appropriate Federal agency, including agencies which regulate Federal financial institutions, and (C) each federally insured financial institution which serves the geographic area as one of its primary markets.
+&emsp;(2) define the specific boundaries of the Colorado River Floodway so that the Floodway can accommodate either a one-in-one hundred year river flow consisting of controlled releases and tributary inflow, or a flow of forty thousand cubic feet per second (cfs), whichever is greater, from below Davis Dam to the Southerly International Boundary between the United States of America and the Republic of Mexico.
 
 #### (c) Review and modification of boundaries; notice and comment; written justification for decision of Secretary
 
-(1) The Secretary shall conduct, at least once every five years, a review of the Colorado River Floodway and make, after notice to and in consultation with the appropriate officers referred to in paragraph (3) of subsection (b) of this section, and others, such minor and technical modifications to the boundaries of the Floodway as are necessary solely to reflect changes that have occurred in the size or location of any portion of the floodplain as a result of natural forces, and as necessary pursuant to subsection (c) of section 1600e of this title.
+(1) The Secretary shall conduct, at least once every five years, a review of the Colorado River Floodway and make, after notice to and in consultation with appropriate chief executive officers of States, counties, municipalities, water districts, Indian tribes, or equivalent jurisdictions in which the Floodway is located, and others, such minor and technical modifications to the boundaries of the Floodway as are necessary solely to reflect changes that have occurred in the size or location of any portion of the floodplain as a result of natural forces, and as necessary pursuant to subsection (c) of section 1600e of this title.
 
 (2) If, in the case of any minor and technical modification to the boundaries of the Floodway made under the authority of this subsection, an appropriate chief executive officer of a State, county, municipality, water district, Indian tribe, or equivalent jurisdiction, to which notice was given in accordance with this subsection files comments disagreeing with all or part of the modification and the Secretary makes a modification which is in conflict with such comments, the Secretary shall submit to the chief executive officer a written justification for his failure to make modifications consistent with such comments or proposals.
 
-(Pub. L. 99–450, §5, Oct. 8, 1986, 100 Stat. 1131.)
+(Pub. L. 99–450, §5, Oct. 8, 1986, 100 Stat. 1131; Pub. L. 105–362, title IX, §901(d), Nov. 10, 1998, 112 Stat. 3289.)
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–362, §901(d)(1), struck out par. (1) designation, redesignated cls. (i) and (ii) of former par. (1) as pars. (1) and (2), respectively, and struck out former pars. (2) and (3) which related to preparation and filing of maps with congressional committees, Federal, State, and local government agencies, and federally insured financial institutions.
+
+Subsec. (c)(1). Pub. L. 105–362, §901(d)(2), substituted “appropriate chief executive officers of States, counties, municipalities, water districts, Indian tribes, or equivalent jurisdictions in which the Floodway is located,” for “the appropriate officers referred to in paragraph (3) of subsection (b) of this section,”.
 
 #### Section Referred to in Other Sections
 

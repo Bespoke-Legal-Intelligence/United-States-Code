@@ -10,13 +10,13 @@ If, after such hearing, the Secretary finds that the live poultry dealer has vio
 
 #### (c) Amendment or setting aside of report or order
 
-Until the record in such hearing has been filed in a court of appeals of the United States, as provided in section 228b–3 of this title, the Secretary, at any time, upon such notice and in such manner as he deems proper, but only after reasonable opportunity to the live poultry dealer to be heard, may amend or set aside the report or order, in whole or in part.
+Until the record in such hearing has been filed in a court of appeals of the United States, as provided in section 228b–3 of this title, the Secretary, at any time, upon such notice and insuch manner as he deems proper, but only after reasonable opportunity to the live poultry dealer to be heard, may amend or set aside the report or order, in whole or in part.
 
 #### (d) Service of complaints, orders, and other processes
 
 Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in section 45 of title 15.
 
-(Aug. 15, 1921, ch. 64, title IV, §411, as added Nov. 23, 1987, Pub. L. 100–173, §9(2), 101 Stat. 920.)
+(Aug. 15, 1921, ch. 64, title IV, §411, as added Pub. L. 100–173, §9(2), Nov. 23, 1987, 101 Stat. 920.)
 
 #### Prior Provisions
 

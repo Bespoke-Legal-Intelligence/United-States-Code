@@ -4,6 +4,10 @@ No provision of this chapter shall be construed to authorize any department, age
 
 (Pub. L. 97–300, title I, §145, Oct. 13, 1982, 96 Stat. 1347.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Cross references
 
 Programs administered by Secretary of Education, prohibition of Federal control of education, see section 1232a of Title 20, Education.

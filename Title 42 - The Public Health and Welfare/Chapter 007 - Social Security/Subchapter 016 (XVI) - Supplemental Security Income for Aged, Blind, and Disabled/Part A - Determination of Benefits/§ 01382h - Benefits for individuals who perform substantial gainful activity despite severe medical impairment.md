@@ -12,7 +12,7 @@
 
 #### (b) Blind or disabled individuals receiving supplemental security income benefits
 
-(1) Except as provided in section 1383(j) of this title, for purposes of subchapter XIX of this chapter, any individual who was determined to be a blind or disabled individual eligible to receive a benefit under section 1382 of this title or any federally administered State supplementary payment for a month and who in a subsequent month is ineligible for benefits under this subchapter (and for any federally administeredState supplementary payments) because of his or her income shall, nevertheless, be considered to be receiving supplemental security income benefits for such subsequent month provided that the Commissioner of Social Security determines under regulations that—
+(1) Except as provided in section 1383(j) of this title, for purposes of subchapter XIX of this chapter, any individual who was determined to be a blind or disabled individual eligible to receive a benefit under section 1382 of this title or any federally administered State supplementary payment for a month and who in a subsequent month is ineligible for benefits under this subchapter (and for any federally administered State supplementary payments) because of his or her income shall, nevertheless, be considered to be receiving supplemental security income benefits for such subsequent month provided that the Commissioner of Social Security determines under regulations that—
 
 &emsp;(A) such individual continues to be blind or continues to have the disabling physical or mental impairment on the basis of which he was found to be under a disability and, except for his earnings, meets all non-disability-related requirements for eligibility for benefits under this subchapter;
 
@@ -20,7 +20,7 @@
 
 &emsp;(C) the termination of eligibility for benefits under subchapter XIX of this chapter would seriously inhibit his ability to continue his employment; and
 
-&emsp;(D) such individual's earnings are not sufficient to allow him to provide for himself a reasonable equivalent of the benefits under this subchapter (including any federally administered State supplementary payments), benefits under subchapter XIX of this chapter, and publicly funded attendant care services (including personal care assistance), which would be available to him in the absence of such earnings.
+&emsp;(D) such individual's earnings are not sufficient to allow him to provide for himself a reasonable equivalent of the benefits under thissubchapter (including any federally administered State supplementary payments), benefits under subchapter XIX of this chapter, and publicly funded attendant care services (including personal care assistance), which would be available to him in the absence of such earnings.
 
 (2)(A) Determinations made under paragraph (1)(D) shall be based on information and data updated no less frequently than annually.
 
@@ -44,7 +44,7 @@ Subsection (a)(2) of this section and section 1383(j)(2)(A) of this title shall 
 
 The Commissioner of Social Security and the Secretary of Education shall jointly develop and disseminate information, and establish training programs for staff personnel, with respect to the potential availability of benefits and services for disabled individuals under the provisions of this section. The Commissioner of Social Security shall provide such information to individuals who are applicants for and recipients of benefits based on disability under this subchapter and shall conduct such programs for the staffs of the district offices of the Social Security Administration. The Secretary of Education shall conduct such programs for the staffs of the State Vocational Rehabilitation agencies, and in cooperation with such agencies shall also provide such information to other appropriate individuals and to public and private organizations and agencies which are concerned with rehabilitation and social services or which represent the disabled.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1619, as added June 9, 1980, Pub. L. 96–265, title II, §201(a), 94 Stat. 445; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(<i>o</i>), 95 Stat. 873; Oct. 9, 1984, Pub. L. 98–460, §14(b), 98 Stat. 1808; Nov. 10, 1986, Pub. L. 99–643, §§4(a), (b), (c)(2), 7(a), 100 Stat. 3575, 3577, 3579; Nov. 5, 1990, Pub. L. 101–508, title V, §§5032(a), 5039(a), 104 Stat. 1388–224, 1388–226; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(1), (4), title II, §205(a), 108 Stat. 1477, 1478, 1509.)
+(Aug. 14, 1935, ch. 531, title XVI, §1619, as added Pub. L. 96–265, title II, §201(a), June 9, 1980, 94 Stat. 445; amended Pub. L. 97–35, title XXIII, §2353(<i>o</i>), Aug. 13, 1981, 95 Stat. 873; Pub. L. 98–460, §14(b), Oct. 9, 1984, 98 Stat. 1808; Pub. L. 99–643, §§4(a), (b), (c)(2), 7(a), Nov. 10, 1986, 100 Stat. 3575, 3577, 3579; Pub. L. 101–508, title V, §§5032(a), 5039(a), Nov. 5, 1990, 104 Stat. 1388–224, 1388–226; Pub. L. 103–296, title I, §107(a)(1), (4), title II, §205(a), Aug. 15, 1994, 108 Stat. 1477, 1478, 1509.)
 
 #### Amendments
 

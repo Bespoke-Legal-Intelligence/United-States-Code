@@ -2,7 +2,7 @@
 
 #### (a) Nuclear energy research and development
 
-The Foundation shall not support any research or development activity in the field of nuclear energy, nor shall it exercise any authority pursuant to section 1870(e) of this title in respect to that field, without first having obtained the concurrence of the Atomic Energy Commission that such activity will not adversely affect the common defense and security. To the extent that such activity involves restricted data as defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] the provisions of that Act regarding the control of the dissemination of restricted data and the security clearance of those individuals to be given access to restricted data shall be applicable. Nothing in this chapter shall supersede or modify any provision of the Atomic Energy Act of 1954.
+The Foundation shall not support any research or development activity in the field of nuclear energy, nor shall it exercise any authority pursuant to section 1870(e) of this title in respect to that field, without first having obtained the concurrence of the Secretary of Energy that such activity will not adversely affect the common defense and security. To the extent that such activity involves restricted data as defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] the provisions of that Act regarding the control of the dissemination of restricted data and the security clearance of those individuals to be given access to restricted data shall be applicable. Nothing in this chapter shall supersede or modify any provision of the Atomic Energy Act of 1954.
 
 #### (b) Research relating to national defense
 
@@ -12,13 +12,15 @@ The Foundation shall not support any research or development activity in the fie
 
 (3) Any agency of the Government exercising investigatory functions is authorized to make such investigations and reports as may be requested by the Foundation in connection with the enforcement of security requirements and safeguards, including restrictions with respect to access to information and property, established under paragraph (1) or (2) of this subsection.
 
-(May 10, 1950, ch. 171, §15, 64 Stat. 156; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43; renumbered §16, July 11, 1958, Pub. L. 85–510, §2, 72 Stat. 353; amended Oct. 16, 1962, Pub. L. 87–835, §1, 76 Stat. 1069; renumbered §15 and amended July 18, 1968, Pub. L. 90–407, §§11(2), 13, 82 Stat. 365, 366; Dec. 12, 1980, Pub. L. 96–516, §21(b), 94 Stat. 3010; Nov. 22, 1985, Pub. L. 99–159, title I, §§109(e)(2), 110(a)(19), 99 Stat. 890, 891; Oct. 31, 1988, Pub. L. 100–570, title I, §105(b), 102 Stat. 2868.)
+(May 10, 1950, ch. 171, §15, 64 Stat. 156; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43; renumbered §16, Pub. L. 85–510, §2, July 11, 1958, 72 Stat. 353; amended Pub. L. 87–835, §1, Oct. 16, 1962, 76 Stat. 1069; renumbered §15 and amended Pub. L. 90–407, §§11(2), 13, July 18, 1968, 82 Stat. 365, 366; Pub. L. 96–516, §21(b), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 99–159, title I, §§109(e)(2), 110(a)(19), Nov. 22, 1985, 99 Stat. 890, 891; Pub. L. 100–570, title I, §105(b), Oct. 31, 1988, 102 Stat. 2868; Pub. L. 105–207, title II, §202(a)(4), July 29, 1998, 112 Stat. 874.)
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–207 substituted “Secretary of Energy” for “Atomic Energy Commission”.
 
 1988—Subsec. (c). Pub. L. 100–570 struck out subsec. (c) which related to oath and statement prerequisite to acceptance of scholarship or fellowship, ineligibility of Communist organization members, and penalties for violation.
 
@@ -35,10 +37,6 @@ Subsec. (b)(1). Pub. L. 90–407, §13, substituted “section 1873(g) of this t
 1962—Subsec. (d). Pub. L. 87–835 designated existing provisions as par. (1), inserted reference to section 1869 of this title, and substituted the requirement, for applications made on or after Oct. 1, 1962, of a full statement regarding convictions for crimes, other than any committed before age 16 or for minor traffic violations, and any criminal charges punishable by thirty days confinement, or more, pending at time of application for scholarship or fellowship, for the requirement of an affidavit stating the affiant did not believe in, and was not a member or supporter of any organization believing in, or teaching, the violent overthrow of the United States Government, or by any illegal means, in such par. (1), and added par. (2).
 
 1952—Subsec. (c). Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, Transfer of Functions notes set out under those sections.
 
 #### Subversive Activities Control Board
 

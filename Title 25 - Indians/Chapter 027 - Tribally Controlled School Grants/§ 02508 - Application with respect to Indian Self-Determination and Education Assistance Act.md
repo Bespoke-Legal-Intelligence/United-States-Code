@@ -2,7 +2,7 @@
 
 #### (a) Certain provisions to apply to grants
 
-All provisions of sections 5, 6, 7, 104, 105(f), 106(f), 109, and 111 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450c, 450d, 450e, 450i, 450j(f), 450j–1(f), 450m, 450n\], except those provisions relating to indirect costs and length of contract, shall apply to grants provided under this chapter.
+All provisions of sections 5, 6, 7, 104, 105(f),<sup>1</sup> 106(f), 109, and 111 of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450c, 450d, 450e, 450i, 450j(f), 450j–1(f), 450m, 450n\], except those provisions relating to indirect costs and length of contract, shall apply to grants provided under this chapter.
 
 #### (b) Election for grant in lieu of contract
 
@@ -36,7 +36,7 @@ Any exception or problem cited in an audit conducted pursuant to section 2506(b)
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b)(1), (c), (d)(1), (2), and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a), (b)(1), (c), (d)(1), (2), and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. Section 106(f) of the Act \[25 U.S.C. 450j–1(f)\], was redesignated section 106(e) of the Act \[25 U.S.C. 450j–1(e)\] by Pub. L. 105–362, title VIII, §801(g)(2), Nov. 10, 1998, 112 Stat. 3288. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 1128A of the Education Amendments of 1978, referred to in subsec. (e), means section 1128A of Pub. L. 95–561, which was classified to section 2008A of this title, prior to the general amendment of chapter 22 (§2001 et seq.) of this title by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1128 of Pub. L. 95–561, relating to administrative cost grants, which is classified to section 2008 of this title.
 
@@ -58,7 +58,7 @@ Subsecs. (d), (e). Pub. L. 100–427, §14(2), added subsecs. (d) and (e).
 
 #### Elections Conveyed to Secretary Prior to August 1, 1988
 
-Any election under subsec. (b)(1) of this section conveyed to the Secretary prior to Aug. 1, 1988, effective for the fiscal year beginning on October 1, 1988, and thereafter, see section 6303(b)(8) of Pub. L. 100–297, set out as an Effective Date note under section 1201 of Title 20, Education.
+Any election under subsec. (b)(1) of this section conveyed to the Secretary prior to Aug. 1, 1988, effective for the fiscal year beginning on October 1, 1988, and thereafter, see section 6303(b)(8) of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@
 
 &emsp;(4) offer appropriate training in the use of flammability test methods and testing devices.
 
-(June 30, 1953, ch. 164, §14, as added Dec. 14, 1967, Pub. L. 90–189, §10, 81 Stat. 573; amended Oct. 27, 1972, Pub. L. 92–573, §30(b), 86 Stat. 1231; Oct. 19, 1980, Pub. L. 96–470, title I, §114, 94 Stat. 2240; Aug. 13, 1981, Pub. L. 97–35, title XII, §1211(e), 95 Stat. 721.)
+(June 30, 1953, ch. 164, §14, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 573; amended Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 96–470, title I, §114, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1211(e), Aug. 13, 1981, 95 Stat. 721.)
 
 #### Codification
 
@@ -31,6 +31,16 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 #### Transfer of Functions
 
 “Consumer Product Safety Commission” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) and for “Secretary of Commerce” in subsec. (b) pursuant to section 30(b) of Pub. L. 92–573, which is classified to section 2079(b) of this title and which transferred functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter to Consumer Product Safety Commission.
+
+#### Toxicologic Risks of Flame-Retardant Chemicals in Residential Upholstered Furniture
+
+Pub. L. 105–276, title IV, §423, Oct. 21, 1998, 112 Stat. 2510, provided that:
+
+“(a) Within 90 days of the enactment of this Act \[Oct. 21, 1998\], the Consumer Product Safety Commission shall make all necessary arrangements for the Committee on Toxicology of the National Academy of Sciences (NAS) to conduct an independent 12-month study of the potential toxicologic risks of all flame-retardant chemicals identified by the NAS and the Commission as likely candidates for use in residential upholstered furniture for the purpose of meeting regulations proposed by the Commission for flame resistance of residential upholstered furniture.
+
+“(b) Upon completion of its report, the Academy shall send the report to the Commission, which shall provide it to the Congress.
+
+“(c) The Commission, before promulgating any notice of proposed rulemaking or final rulemaking setting flammability standards for residential upholstered furniture, shall consider fully the findings and conclusions of the Academy.”
 
 #### Section Referred to in Other Sections
 

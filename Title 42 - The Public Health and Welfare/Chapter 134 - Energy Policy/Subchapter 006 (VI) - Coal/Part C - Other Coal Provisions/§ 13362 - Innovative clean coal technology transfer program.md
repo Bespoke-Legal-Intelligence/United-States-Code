@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary, through the Agency for International Development, and in consultation with the other members of the CCT Subgroup, shall establish a clean coal technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assistedby the Agency for International Development, the Secretary may enter into agreements with other appropriate United States agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
+The Secretary, through the Agency for International Development, and in consultation with the other members of the CCT Subgroup, shall establish a clean coal technology transfer program to carry out the purposes described in subsection (b) of this section. Within 150 days after October 24, 1992, the Secretary and the Administrator of the Agency for International Development shall enter into a written agreement to carry out this section. The agreement shall establish a procedure for resolving any disputes between the Secretary and the Administrator regarding the implementation of specific projects. With respect to countries not assisted by the Agency for International Development, the Secretary may enter into agreements with other appropriate United States agencies. If the Secretary and the Administrator, or the Secretary and an agency described in the previous sentence, are unable to reach an agreement, each shall send a memorandum to the President outlining an appropriate agreement. Within 90 days after receipt of either memorandum, the President shall determine which version of the agreement shall be in effect. Any agreement entered into under this subsection shall be provided to the appropriate committees of the Congress and made available to the public.
 
 #### (b) Purposes of program
 
@@ -52,7 +52,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 &emsp;(A) provided in combination with other forms of financial assistance, including non-United States funding that is available to the project; and
 
-&emsp;(B) utilized to assist United States firms to develop innovative financing packages for clean coal technology projects that seek to utilize other financial assistance programs available through other Federal agencies.
+&emsp;(B) utilized to assist United States firms to develop innovative financing packages for clean coal technology projects that seek toutilize other financial assistance programs available through other Federal agencies.
 
 (3) United States obligations under the Arrangement on Guidelines for Officially Supported Export Credits established through the Organization for Economic Cooperation and Development shall be applicable to this section.
 
@@ -60,7 +60,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 (1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) of this section which propose to utilize a United States technology. Each solicitation under this section shall establish a closing date for receipt of proposals.
 
-(2) The solicitation under this subsection shall, to the extent appropriate, be modeledafter the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV as administered by the Department of Energy.
+(2) The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV as administered by the Department of Energy.
 
 (3) Any solicitation made under this subsection shall include the following requirements:
 

@@ -16,5 +16,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1749bbb–13 of this title.
+This section is referred to in sections 1710, 1749bbb–13 of this title.
 

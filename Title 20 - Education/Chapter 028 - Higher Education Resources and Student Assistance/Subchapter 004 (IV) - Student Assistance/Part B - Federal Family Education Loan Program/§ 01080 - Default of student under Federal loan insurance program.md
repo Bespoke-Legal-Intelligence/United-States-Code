@@ -2,7 +2,7 @@
 
 #### (a) Notice to Secretary and payment of loss
 
-Upon default by the student borrower on any loan covered by Federal loan insurance pursuant to this part, and prior to the commencement of suit or other enforcement proceedings upon security for that loan, the insurance beneficiary shall promptly notify the Secretary, and the Secretary shall if requested (at that time or after further collection efforts) by the beneficiary, or may on the Secretary's own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined. The “amount of the loss” on any loan shall, for the purposes of this subsection and subsection (b) of this section, be deemed to be an amount equal to the unpaid balance of the principal amount and accrued interest, including interest accruing from the date of submission of a valid default claim (as determined by the Secretary) to the date on which payment is authorized by the Secretary, reduced to the extent required by section 1075(b) of this title. Such beneficiary shall be required to meet the standards of due diligence in the collection of the loan and shall be required to submit proof that reasonable attempts were made to locate the borrower (when the location of the borrower is unknown) and proof that contact was made with the borrower (when the location is known). The Secretary shall make the determination required to carry out the provisions of this section not later than 90 days after the notification by the insurance beneficiary and shall make payment in full on the amount of the beneficiary's loss pending completion of the due diligence investigation.
+Upon default by the student borrower on any loan covered by Federal loan insurance pursuant to this part, and prior to the commencement of suit or other enforcement proceedings upon security for that loan, the insurance beneficiary shall promptly notify the Secretary, and the Secretary shall if requested (at that time or after further collection efforts) by the beneficiary, or may on the Secretary's own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined. The “amount of the loss” on any loan shall, for the purposes of this subsection and subsection (b) of this section, be deemed to be an amount equal to the unpaid balance of the principal amount and accrued interest, including interest accruing from the date of submission of a valid default claim (as determined by the Secretary) to the date on which payment is authorized by the Secretary, reduced to the extent required by section 1075(b) of this title. Such beneficiary shall be required to meet the standards of due diligence in the collection of the loan and shall be required to submit proof that the institution was contacted and other reasonable attempts were made to locate the borrower (when the location of the borrower is unknown) and proof that contact was made with the borrower (when the location is known). The Secretary shall make the determination required to carry out the provisions of this section not later than 90 days after the notification by the insurance beneficiary and shall make payment in full on the amount of the beneficiary's loss pending completion of the due diligence investigation.
 
 #### (b) Effect of payment of loss
 
@@ -10,7 +10,7 @@ Upon payment of the amount of the loss pursuant to subsection (a) of this sectio
 
 #### (c) Forbearance not precluded
 
-Nothing in this section or in this part shall be construed to preclude any forbearance for the benefit of the student borrower which may be agreed upon by the parties to the insured loan and approved by the Secretary, or to preclude forbearance by the Secretary in the enforcement of the insured obligation after payment on that insurance. Any forbearance which is approved by the Secretary under this subsection with respect to the repayment of a loan, including aforbearance during default, shall not be considered as indicating that a holder of a federally insured loan has failed to exercise reasonable care and due diligence in the collection of the loan.
+Nothing in this section or in this part shall be construed to preclude any forbearance for the benefit of the student borrower which may be agreed upon by the parties to the insured loan and approved by the Secretary, or to preclude forbearance by the Secretary in the enforcement of the insured obligation after payment on that insurance. Any forbearance which is approved by the Secretary under this subsection with respect to the repayment of a loan, including a forbearance during default, shall not be considered as indicating that a holder of a federally insured loan has failed to exercise reasonable care and due diligence in the collection of the loan.
 
 #### (d) Care and diligence required of holders
 
@@ -30,7 +30,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 &emsp;The Secretary shall establish a cohort default rate for lenders, holders, and guaranty agencies (determined consistent with section 1085(m) of this title), except that the rate for lenders, holders, and guaranty agencies shall not reflect any loans issued in accordance with section 1078(j) of this title. The Secretary shall allow institutions, lenders, holders, and guaranty agencies the opportunity to correct such cohort default rate information.
 
-(Pub. L. 89–329, title IV, §430, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1397; amended Pub. L. 102–325, title IV, §423, July 23, 1992, 106 Stat. 543.)
+(Pub. L. 89–329, title IV, §430, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1397; amended Pub. L. 102–325, title IV, §423, July 23, 1992, 106 Stat. 543; Pub. L. 105–244, title IV, §426, Oct. 7, 1998, 112 Stat. 1702.)
 
 #### Prior Provisions
 
@@ -38,41 +38,17 @@ A prior section 1080, Pub. L. 89–329, title IV, §430, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–244 inserted “the institution was contacted and other” after “submit proof that” in third sentence.
+
 1992—Subsec. (e). Pub. L. 102–325 added subsec. (e).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Study of Fraud-Based Defenses
 
-Section 1403 of Pub. L. 102–325 provided that:
-
-“(a)
-
-Study.—The Secretary shall conduct a study of the impact of fraud-based defenses on the Federal Family Education Loan Program. Such study shall include—
-
-&emsp;“(1) an analysis of statutory, regulatory, and case law regarding the use of fraud-based defenses against repayment of such loans;
-
-&emsp;“(2) an estimate of the total number of borrowers filing for relief from repayment of such loans using a fraud-based defense and amount of such loan principal involved;
-
-&emsp;“(3) an estimate of such loan principal relieved annually through fraud-based defenses;
-
-&emsp;“(4) an evaluation of the importance of a fraud-based defense to the protection of borrowers of such loans; and
-
-&emsp;“(5) an evaluation of the effects of the availability of a fraud-based defense on the accessibility of Stafford loans by geographical area and by type of postsecondary institution.
-
-“(b)
-
-Date.—The study described in subsection (a) shall be completed not later than 18 months after the date of enactment of this Act \[July 23, 1992\].
-
-“(c)
-
-Report.—
-
-&emsp;“(1)
-
-In general.—The Secretary shall submit a report to the Congress on the study described in subsection (a) that makes specific recommendations for legislative options that may be needed to address the rights of borrowers with respect to the availability of fraud-based defenses under the Federal Family Education Loan Program without jeopardizing the participation of lenders or the solvency of guaranty agencies required to maintain the integrity of such program.
-
-&emsp;“(2)
-
-Date.—The report described in paragraph (1) shall be completed not later than 19 months after the date of enactment of this Act \[July 23, 1992\].”
+Pub. L. 102–325, title XIV, §1403, July 23, 1992, 106 Stat. 817, directed Secretary of Education to conduct a study of impact of fraud-based defenses on Federal Family Education Loan Program and to submit a report to Congress on the study not later than 19 months after July 23, 1992, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### Section Referred to in Other Sections
 

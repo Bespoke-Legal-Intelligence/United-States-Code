@@ -1,6 +1,0 @@
-### §4203. Membership; powers of corporation
-
-The American Academy of Arts and Letters shall consist of not more than fifty regular members, and the said corporation hereby constituted shall have power to make by-laws and rules and regulations; to fill all vacancies created by death, resignation, or otherwise; to provide for the election of foreign, domestic, or honorary associate members, and the division of such members into classes, and to do all other matters needful or usual in such institutions.
-
-(Apr. 17, 1916, ch. 77, §3, 39 Stat. 51.)
-

@@ -74,6 +74,42 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 
 A prior section 2021d, Pub. L. 96–573, §4, Dec. 22, 1980, 94 Stat. 3348, related to policy of Federal Government concerning low-level radioactive waste disposal, implementation of that policy, and a report to Congress and the States to assist in carrying out the policy, prior to repeal by Pub. L. 99–240, §102.
 
+#### Texas Low-Level Radioactive Waste Disposal Compact Consent Act
+
+Pub. L. 105–236, Sept. 20, 1998, 112 Stat. 1542, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Texas Low-Level Radioactive Waste Disposal Compact Consent Act’.
+
+#### “SEC. 2. CONGRESSIONAL FINDING.
+
+“The Congress finds that the compact set forth in section 5 is in furtherance of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021b et seq.).
+
+#### “SEC. 3. CONDITIONS OF CONSENT TO COMPACT.
+
+“The consent of the Congress to the compact set forth in section 5—
+
+&emsp;“(1) shall become effective on the date of the enactment of this Act \[Sept. 20, 1998\];
+
+&emsp;“(2) is granted subject to the provisions of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021b et seq.); and
+
+&emsp;“(3) is granted only for so long as the regional commission established in the compact complies with all of the provisions of such Act.
+
+#### “SEC. 4. CONGRESSIONAL REVIEW.
+
+“The Congress may alter, amend, or repeal this Act with respect to the compact set forth in section 5 after the expiration of the 10-year period following the date of the enactment of this Act \[Sept. 20, 1998\], and at such intervals thereafter as may be provided in such compact.
+
+#### “SEC. 5. TEXAS LOW-LEVEL RADIOACTIVE WASTE COMPACT.
+
+“(a)
+
+Consent of Congress.—In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021d(a)(2)), the consent of Congress is given to the States of Texas, Maine, and Vermont to enter into the compact set forth in subsection (b).
+
+“(b)
+
+Text of Compact.—The compact reads substantially as follows: \[Text of compact appears at 112 Stat. 1543\]”.
+
 #### Southwestern Low-Level Radioactive Waste Disposal Compact Consent Act
 
 Pub. L. 100–712, Nov. 23, 1988, 102 Stat. 4773, provided that:

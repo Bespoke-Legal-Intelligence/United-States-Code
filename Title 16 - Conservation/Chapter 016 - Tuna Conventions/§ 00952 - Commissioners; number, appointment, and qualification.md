@@ -10,7 +10,7 @@ The United States shall be represented on the two commissions by a total of not 
 
 &emsp;(d) at least one shall be chosen from a nongovernmental conservation organization.
 
-(Sept. 7, 1950, ch. 907, §3, 64 Stat. 777; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Oct. 26, 1992, Pub. L. 102–523, §3(a)(1), 106 Stat. 3433; Aug. 15, 1997, Pub. L. 105–42, §7(a), 111 Stat. 1137.)
+(Sept. 7, 1950, ch. 907, §3, 64 Stat. 777; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–523, §3(a)(1), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, §7(a), Aug. 15, 1997, 111 Stat. 1137.)
 
 #### Amendment of Subsection (c)
 

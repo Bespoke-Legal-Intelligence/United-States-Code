@@ -26,9 +26,9 @@
 
 &emsp;(ii) a response within a reasonable time by the person receiving the request for disclosure; and
 
-&emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statementthat the process claimed in any patent disclosed in the response is not used to produce such product.
+&emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statement that the process claimed in any patent disclosed in the response is not used to produce such product.
 
-> The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
+> The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product,the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
 
 (4)(A) For purposes of this subsection, a “request for disclosure” means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold, offered for sale, or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) the term “medical practitioner” means any natural person who is licensed by a State to provide the medical activity described in subsection (c)(1) or who is acting under the direction of such person in the performance of the medical activity.
 
-&emsp;(C) the term “related health care entity” shall mean an entity with which a medicalpractitioner has a professional affiliation under which the medical practitioner performs the medical activity, including but not limited to a nursing home, hospital, university, medical school, health maintenance organization, group medical practice, or a medical clinic.
+&emsp;(C) the term “related health care entity” shall mean an entity with which a medical practitioner has a professional affiliation under which the medical practitioner performs the medical activity, including but not limited to a nursing home, hospital, university, medical school, health maintenance organization, group medical practice, or a medical clinic.
 
 &emsp;(D) the term “professional affiliation” shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under which a medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
 

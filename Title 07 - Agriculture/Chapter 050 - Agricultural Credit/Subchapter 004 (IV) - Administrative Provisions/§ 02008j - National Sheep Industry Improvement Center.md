@@ -56,7 +56,7 @@ The purposes of the Center shall be to—
 
 &emsp;A strategic plan shall identify—
 
-&emsp;&emsp;(A) goals, methods, and a benchmark for measuring the success of carrying out the plan and how the plan relates to the national and regional goals of the Center;
+&emsp;&emsp;(A) goals, methods, and a benchmark for measuring the success of carrying out theplan and how the plan relates to the national and regional goals of the Center;
 
 &emsp;&emsp;(B) the amount and sources of Federal and non-Federal funds that are available for carrying out the plan;
 
@@ -116,7 +116,7 @@ The purposes of the Center shall be to—
 
 #### (G) Accounting
 
-&emsp;&emsp;To be eligible to receive amounts from the Fund, an entity must agree to account forthe amounts using generally accepted accounting principles.
+&emsp;&emsp;To be eligible to receive amounts from the Fund, an entity must agree to account for the amounts using generally accepted accounting principles.
 
 #### (H) Uses of Fund
 
@@ -168,7 +168,7 @@ The purposes of the Center shall be to—
 
 #### (B) Mandatory funds
 
-&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $20,000,000 to carry out this section.
+&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of theTreasury shall provide to the Center not to exceed $20,000,000 to carry out this section.
 
 #### (C) Additional funds
 
@@ -412,7 +412,7 @@ To carry out this section, the Board may consult with—
 
 #### (2) Sanctions
 
-&emsp;If, following notice and opportunity for a hearing, the Secretary finds that the Board or the Center is not in compliance with this section, the Secretary may—
+&emsp;If, following notice and opportunity for a hearing, the Secretary finds that the Board orthe Center is not in compliance with this section, the Secretary may—
 
 &emsp;&emsp;(A) cease making deposits to the Fund;
 

@@ -18,7 +18,7 @@ Any person who intentionally and willfully destroys or causes physical damage to
 
 Any person who intentionally and willfully causes or attempts to cause an interruption of normal operation of any such facility through the unauthorized use of or tampering with the machinery, components, or controls of any such facility, shall be fined not more than $10,000 or imprisoned for not more than ten years, or both.
 
-(Aug. 1, 1946, ch. 724, title I, §236, as added June 30, 1980, Pub. L. 96–295, title II, §204(a), 94 Stat. 787; amended Jan. 4, 1983, Pub. L. 97–415, §16, 96 Stat. 2076; Nov. 15, 1990, Pub. L. 101–575, §5(d), 104 Stat. 2835; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §236, as added Pub. L. 96–295, title II, §204(a), June 30, 1980, 94 Stat. 787; amended Pub. L. 97–415, §16, Jan. 4, 1983, 96 Stat. 2076; Pub. L. 101–575, §5(d), Nov. 15, 1990, 104 Stat. 2835; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

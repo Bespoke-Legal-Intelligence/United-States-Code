@@ -8,7 +8,7 @@ The Secretary may provide to a firm, on such terms and conditions as he determin
 
 Loans or guarantees of loans shall be made under this part only for the purpose of making funds available to the firm—
 
-&emsp;(1) for acquisition, construction, installation, modernization, development, conversion, or expansion of land, plant, buildings, equipment, facilities, or machinery, or
+&emsp;(1) for acquisition, construction, installation, modernization, development, conversion,or expansion of land, plant, buildings, equipment, facilities, or machinery, or
 
 &emsp;(2) to supply such working capital as may be necessary to enable the firm to implement its adjustment proposal.
 

@@ -146,5 +146,5 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95â
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 1602; title 10 sections 1599c, 1610; title 22 sections 1438, 3701; title 25 section 2012; title 32 section 709; title 39 section 1005; title 49 section 44506.
+This section is referred to in section 2302 of this title; title 2 section 1602; title 10 section 1610; title 22 sections 1438, 3701; title 25 section 2012; title 32 section 709; title 39 section 1005; title 49 section 44506.
 

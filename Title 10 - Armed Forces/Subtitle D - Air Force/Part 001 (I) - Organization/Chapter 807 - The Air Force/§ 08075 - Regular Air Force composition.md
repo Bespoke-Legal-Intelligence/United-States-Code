@@ -10,7 +10,7 @@
 
 &emsp;(3) the retired officers and enlisted members of the Regular Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 496; Aug. 6, 1958, Pub. L. 85–600, §1(13), 72 Stat. 523.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 496; Pub. L. 85–600, §1(13), Aug. 6, 1958, 72 Stat. 523.)
 
 Historical and Revision Notes
 

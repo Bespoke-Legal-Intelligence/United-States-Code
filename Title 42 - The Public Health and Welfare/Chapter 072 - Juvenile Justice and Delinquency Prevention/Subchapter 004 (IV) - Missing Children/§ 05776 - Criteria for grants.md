@@ -12,7 +12,7 @@ In carrying out the programs authorized by this subchapter, the Administrator sh
 
 #### (b) Competitive selection process for grant or contract exceeding $50,000
 
-No grant or contract exceeding $50,000 shall be made under this subchapter unless the grantee or contractor has been selected by a competitive process which includes public announcement of the availability of funds for such grant or contract, general criteria for the selection of recipients or contractors, and a description of the application process and application review process.
+No grant or contract exceeding $50,000 shall be made under this subchapter unless the granteeor contractor has been selected by a competitive process which includes public announcement of the availability of funds for such grant or contract, general criteria for the selection of recipients or contractors, and a description of the application process and application review process.
 
 #### (c) Multiple grants or contracts to same grantee or contractor
 

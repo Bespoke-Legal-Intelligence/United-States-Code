@@ -14,7 +14,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (2) Eligible housing
 
-&emsp;The loan shall be used to construct, acquire, or rehabilitate 1- to 4-family dwellings that are standard housing and are located on trust land or land located in an Indian or Alaska Native area that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4112, 4113\] that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.
+&emsp;The loan shall be used to construct, acquire, or rehabilitate 1- to 4-family dwellings that are standard housing and are located on trust land or land located in an Indian or Alaska Native area.
 
 #### (3) Security
 
@@ -22,7 +22,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (4) Lenders
 
-&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loans otherwise insured or guaranteed by an agency of the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
+&emsp;The loan shall be made only by a lender approved by and meeting qualifications established by the Secretary, except that loans otherwise insured or guaranteed by an agencyof the Federal Government or made by an organization of Indians from amounts borrowed from the United States shall not be eligible for guarantee under this section. The following lenders are deemed to be approved under this paragraph:
 
 &emsp;&emsp;(A) Any mortgagee approved by the Secretary of Housing and Urban Development for participation in the single family mortgage insurance program under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
@@ -56,7 +56,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (2) Standard for approval
 
-&emsp;The Secretary may approve a loan for guarantee under this section and issue a certificateunder this paragraph only if the Secretary determines there is a reasonable prospect of repayment of the loan.
+&emsp;The Secretary may approve a loan for guarantee under this section and issue a certificate under this paragraph only if the Secretary determines there is a reasonable prospect of repayment of the loan.
 
 #### (3) Effect
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;(B) bar such lender or holder from acquiring additional loans guaranteed under this section; and
 
-&emsp;&emsp;(C) require that such lender or holder assume not less than 10 percent of any loss on further loans made or held by the lender or holder that are guaranteed under this section.
+&emsp;&emsp;(C) require that such lender or holder assume not less than 10 percent of any loss onfurther loans made or held by the lender or holder that are guaranteed under this section.
 
 #### (2) Civil money penalties for intentional violations
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines thatthe assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (C) Limitation on outstanding aggregate principal amount
 
-&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount note exceeding $400,000,000 for each such fiscal year.
+&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997, 1998, 1999, 2000, and 2001 with an aggregate outstanding principal amount not exceeding $400,000,000 for each such fiscal year.
 
 #### (6) Liabilities
 
@@ -222,7 +222,15 @@ The Secretary shall, by regulation, establish housing safety and quality standar
 
 &emsp;(7) conform with the energy performance requirements for new construction established by the Secretary under section 526(a) of the National Housing Act \[12 U.S.C. 1735f–4(a)\].
 
-#### (k) Definitions
+#### (k) Environmental review
+
+For purposes of environmental,<sup>3</sup> review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any other law that furthers the purposes of that Act, a loan guarantee under this section shall—
+
+&emsp;(1) be treated as a grant under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.); and
+
+&emsp;(2) be subject to the regulations promulgated by the Secretary to carry out section 105 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4115).
+
+#### (<i>l</i>) Definitions
 
 For purposes of this section:
 
@@ -260,7 +268,7 @@ Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indi
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658.)
 
 #### References in Text
 
@@ -268,11 +276,13 @@ The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (k)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (k)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally tochapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (k)(8), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (<i>l</i>)(8), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Codification
 
@@ -280,13 +290,19 @@ Section was enacted as part of the Housing and Community Development Act of 1992
 
 #### Amendments
 
+1998—Subsec. (b)(2). Pub. L. 105–276, §595(e)(11), struck out before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas.”
+
+Subsec. (i)(5)(C). Pub. L. 105–276, §595(e)(12), substituted “not” for “note”.
+
+Subsecs. (k), (<i>l</i>). Pub. L. 105–276, §595(e)(13), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+
 1996—Subsec. (a). Pub. L. 104–330, §701(a)(1), (b), substituted “, Indian housing authorities, and Indian tribes,” for “and Indian housing authorities”, “lands or as a result of a lack of access to private financial markets” for “trust land”, and “, Indian housing authority, or Indian tribe” for “or Indian housing authority”.
 
 Subsec. (b)(1). Pub. L. 104–330, §701(a)(2), substituted “, Indian housing authorities, or Indian tribes” for “or Indian housing authorities”.
 
 Subsec. (b)(2). Pub. L. 104–330, §701(c), inserted before period at end “that is under the jurisdiction of an Indian tribe for which an Indian housing plan has been submitted and approved pursuant to sections 102 and 103 of the Native American Housing Assistance and Self-Determination Act of 1996 that provides for the use of loan guarantees under this section to provide affordable homeownership housing in such areas”.
 
-Subsec. (b)(5)(C)(i). Pub. L. 104–330, §701(i), added cl. (i) and struck out former cl. (i) which read as follows: “an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the date the loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and”.
+Subsec. (b)(5)(C)(i). Pub. L. 104–330, §701(i), added cl. (i) and struck out former cl. (i) which read as follows: “an amount equal to the sum of (I) 97 percent of $25,000 of the appraised value of the property, as of the datethe loan is accepted for guarantee, and (II) 95 percent of such value in excess of $25,000; and”.
 
 Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out “in a court of competent jurisdiction” after “foreclosure proceedings” in first sentence.
 
@@ -308,6 +324,10 @@ Subsec. (k)(5). Pub. L. 104–330, §701(h)(2), inserted concluding provisions, 
 
 Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out former par. (8) which read as follows: “The term ‘tribe’ means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives.”
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by this section \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1721 of this title; title 25 section 4112.
@@ -315,4 +335,6 @@ This section is referred to in section 1721 of this title; title 25 section 4112
 <i><sup>1</sup></i><i> So in original. Probably should be section “3702(d)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “subsection (d) of this section”.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

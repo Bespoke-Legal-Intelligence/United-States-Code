@@ -19,10 +19,13 @@
 | [1488\.](%C2%A7%2001488%20-%20Removal%20of%20remains.md) | Removal of remains. |
 | [1489\.](%C2%A7%2001489%20-%20Death%20gratuity%20members%20and%20employees%20dying%20outside%20the%20United%20States%20while%20assigned%20to%20intelligence%20duties.md) | Death gratuity: members and employees dying outside the United States while assigned to intelligence duties. |
 | [1490\.](%C2%A7%2001490%20-%20Transportation%20of%20remains%20certain%20retired%20members%20and%20dependents%20who%20die%20in%20military%20medical%20facilities.md) | Transportation of remains: certain retired members and dependents who die in military medical facilities. |
+| [1491\.](%C2%A7%2001491%20-%20Honor%20guard%20details%20at%20funerals%20of%20veterans.md) | Honor guard details at funerals of veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title V, §567(b)(2), Oct. 17, 1998, 112 Stat. 2031, added item 1491.
 
 1994—Pub. L. 103–337, div. A, title X, §1070(a)(8)(B), Oct. 5, 1994, 108 Stat. 2855, substituted “civilian” for “Civilian” in item 1482a.
 
@@ -64,3 +67,4 @@ This chapter is referred to in title 33 section 857a; title 42 section 213a.
 - [&sect; 01488 - Removal of remains](%C2%A7%2001488%20-%20Removal%20of%20remains.md)
 - [&sect; 01489 - Death gratuity members and employees dying outside the United States while assigned to intelligence duties](%C2%A7%2001489%20-%20Death%20gratuity%20members%20and%20employees%20dying%20outside%20the%20United%20States%20while%20assigned%20to%20intelligence%20duties.md)
 - [&sect; 01490 - Transportation of remains certain retired members and dependents who die in military medical facilities](%C2%A7%2001490%20-%20Transportation%20of%20remains%20certain%20retired%20members%20and%20dependents%20who%20die%20in%20military%20medical%20facilities.md)
+- [&sect; 01491 - Honor guard details at funerals of veterans](%C2%A7%2001491%20-%20Honor%20guard%20details%20at%20funerals%20of%20veterans.md)

@@ -8,6 +8,10 @@ Payroll administration for the Capitol Police and civilian support personnel of 
 
 1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date
 
 Section 104 of Pub. L. 102–397, as amended by Pub. L. 102–392, title III, §321, Oct. 6, 1992, 106 Stat. 1726, provided that: “The unified payroll administration under the amendment made by section 102 \[enacting this section\] shall apply with respect to pay periods beginning after September 30, 1993.”

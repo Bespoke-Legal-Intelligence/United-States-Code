@@ -1,6 +1,0 @@
-### §139a. Right to hold property; constitution, bylaws and seal
-
-Said organization is authorized to hold real and personal estate in the United States so far only as may be necessary to its lawful ends, to an amount not exceeding $50,000, and may adopt a constitution and bylaws not inconsistent with law, and may adopt a seal.
-
-(June 15, 1936, ch. 546, §2, 49 Stat. 1506.)
-

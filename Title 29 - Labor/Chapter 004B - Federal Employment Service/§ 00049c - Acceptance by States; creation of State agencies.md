@@ -1,12 +1,16 @@
 ### §49c. Acceptance by States; creation of State agencies
 
-In order to obtain the benefits of appropriations apportioned under section 49d of this title, a State shall, through its legislature, accept the provisions of this chapter and designate or authorize the creation of a State agency vested with all powers necessary to cooperate with the United States Employment Service under this chapter.
+In order to obtain the benefits of appropriations apportioned under section 49d of this title, a State shall, pursuant to State statute, accept the provisions of this chapter and, in accordance with such State statute, the Governor shall designate or authorize the creation of a State agency vested with all powers necessary to cooperate with the Secretary under this chapter.
 
-(June 6, 1933, ch. 49, §4, 48 Stat. 114.)
+(June 6, 1933, ch. 49, §4, 48 Stat. 114; Pub. L. 105–220, title III, §303, Aug. 7, 1998, 112 Stat. 1081.)
 
-#### Transfer of Functions
+#### Amendments
 
-For history of transfer of functions of United States Employment Service, see note set out under section 49 of this title.
+1998—Pub. L. 105–220 substituted “, pursuant to State statute,” for “, through its legislature,”, inserted “, in accordance with such State statute, the Governor shall” after “the provisions of this chapter and”, and substituted “Secretary” for “United States Employment Service”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under section 49a of this title.
 
 #### Transfer of State Agencies to the States
 

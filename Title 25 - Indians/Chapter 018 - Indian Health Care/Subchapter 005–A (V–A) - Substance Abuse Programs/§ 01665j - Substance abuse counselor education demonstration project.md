@@ -44,23 +44,39 @@ For the purposes of this section, the following definitions apply:
 
 &emsp;&emsp;(iii) has a student enrollment of not less than 10 percent Indian.
 
-&emsp;(3) The term “tribally controlled community college” has the meaning given such term in section 1801(a)(4) of this title.
+&emsp;(3) The term “tribally controlled community college” has the meaning given such term in section 1801(a)(4) <sup>1</sup> of this title.
 
-&emsp;(4) The term “tribally controlled postsecondary vocational institution” has the meaning given such term in section 2397h(2) of title 20.
+&emsp;(4) The term “tribally controlled postsecondary vocational institution” has the meaning given such term in section 2397h(2) <sup>1</sup> of title 20.
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated for each of the fiscal years 1996 through 2000,<sup>1</sup> such sums as may be necessary to carry out the purposes of this section. Such sums shall remain available until expended.
+There are authorized to be appropriated for each of fiscal years 1996 through 2000,<sup>2</sup> such sums as may be necessary to carry out the purposes of this section. Such sums shall remain available until expended.
 
-(Pub. L. 94–437, title VII, §711, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4580; amended Pub. L. 104–313, §2(f), Oct. 19, 1996, 110 Stat. 3822.)
+(Pub. L. 94–437, title VII, §711, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4580; amended Pub. L. 104–313, §2(f), Oct. 19, 1996,110 Stat. 3822; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–256, §13(a), Oct. 14, 1998, 112 Stat. 1900.)
+
+#### References in Text
+
+Section 1801(a)(4) of this title, referred to in subsec. (g)(3), was amended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, and, as so amended, no longer defines the term “tribally controlled community college”.
+
+Section 2397h of title 20, referred to in subsec. (g)(4), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Amendments
 
+1998—Subsec. (g)(3). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(a)(4) of this title.
+
+Subsec. (h). Pub. L. 105–256 substituted “of fiscal years” for “of the fiscal years” in first sentence.
+
 1996—Subsec. (h). Pub. L. 104–313 substituted “1996 through 2000” for “1993, 1994, 1995, 1996, and 1997”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1665m, 1671 of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

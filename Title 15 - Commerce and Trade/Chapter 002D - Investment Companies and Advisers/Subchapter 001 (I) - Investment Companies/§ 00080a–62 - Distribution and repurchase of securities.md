@@ -2,7 +2,7 @@
 
 Notwithstanding the exemption set forth in section 80a–6(f) of this title, section 80a–23 of this title shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except as follows:
 
-&emsp;(1) The prohibitions of section 80a–23(a)(2) of this title shall not apply to any company which (A) is a wholly-owned subsidiary of, or directly or indirectly controlled by, a business development company, and (B) immediately after the issuance of any of its securities forproperty other than cash or securities, will not be an investment company within the meaning of section 80a–3(a) of this title.
+&emsp;(1) The prohibitions of section 80a–23(a)(2) of this title shall not apply to any company which (A) is a wholly-owned subsidiary of, or directly or indirectly controlled by, a business development company, and (B) immediately after the issuance of any of its securities for property other than cash or securities, will not be an investment company within the meaning of section 80a–3(a) of this title.
 
 &emsp;(2) Notwithstanding the provisions of section 80a–23(b) of this title, a business development company may sell any common stock of which it is the issuer at a price below the current net asset value of such stock, and may sell warrants, options, or rights to acquire any such common stock at a price below the current net asset value of such stock, if—
 
@@ -14,7 +14,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 &emsp;(3) A business development company may sell any common stock of which it is the issuer at a price below the current net asset value of such stock upon the exercise of any warrant, option, or right issued in accordance with section 80a–60(a)(3) of this title.
 
-(Aug. 22, 1940, ch. 686, title I, §63, as added Oct. 21, 1980, Pub. L. 96–477, title I, §105, 94 Stat. 2288.)
+(Aug. 22, 1940, ch. 686, title I, §63, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2288.)
 
 #### Section Referred to in Other Sections
 

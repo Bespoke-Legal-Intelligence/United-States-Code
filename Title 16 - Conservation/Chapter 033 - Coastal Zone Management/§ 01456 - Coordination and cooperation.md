@@ -28,7 +28,7 @@ The Secretary shall not approve the management program submitted by a state purs
 
 &emsp;(iii) the Secretary finds, pursuant to subparagraph (A), that each activity which is described in detail in such plan is consistent with the objectives of this chapter or is otherwise necessary in the interest of national security.
 
-> If a state concurs or is conclusively presumed to concur, or if the Secretary makes such a finding, the provisions of subparagraph (A) are not applicable with respect to such person, such state, and any Federal license or permit which is required to conduct any activity affecting land uses or water uses in the coastal zone of such state which is described in detail in the plan to which such concurrence or finding applies. If such state objects to such certification and if the Secretary fails to make a finding under clause (iii) with respect to such certification, or if such person fails substantially to comply with such plan as submitted, such person shall submit an amendment to such plan, or a new plan, to the Secretary of the Interior. With respect to any amendment or new plan submitted to the Secretary of the Interior pursuant to the preceding sentence, the applicable time period for purposes of concurrence by conclusive presumption under subparagraph (A) is 3 months.
+> If a state concurs or is conclusively presumed to concur, or if the Secretary makes such a finding, the provisions of subparagraph (A) are not applicable with respect to such person, such state, and any Federal license or permit which is required to conduct any activity affecting land uses or water uses in the coastal zone of such state which is described in detail in the plan to which such concurrence or finding applies. If such state objects to such certification and if the Secretary fails to make a findingunder clause (iii) with respect to such certification, or if such person fails substantially to comply with such plan as submitted, such person shall submit an amendment to such plan, or a new plan, to the Secretary of the Interior. With respect to any amendment or new plan submitted to the Secretary of the Interior pursuant to the preceding sentence, the applicable time period for purposes of concurrence by conclusive presumption under subparagraph (A) is 3 months.
 
 #### (d) Application of local governments for Federal assistance; relationship of activities with approved management programs
 
@@ -62,7 +62,7 @@ In case of serious disagreement between any Federal agency and a coastal stateâ€
 
 #### (i) Application fee for appeals
 
-(1) With respect to appeals under subsections (c)(3) and (d) of this section which are submitted after November 5, 1990, the Secretary shall collect an application fee of not less than $200 forminor appeals and not less than $500 for major appeals, unless the Secretary, upon consideration of an applicant's request for a fee waiver, determines that the applicant is unable to pay the fee.
+(1) With respect to appeals under subsections (c)(3) and (d) of this section which are submitted after November 5, 1990, the Secretary shall collect an application fee of not less than $200 for minor appeals and not less than $500 for major appeals, unless the Secretary, upon consideration of an applicant's request for a fee waiver, determines that the applicant is unable to pay the fee.
 
 (2)(A) The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.
 

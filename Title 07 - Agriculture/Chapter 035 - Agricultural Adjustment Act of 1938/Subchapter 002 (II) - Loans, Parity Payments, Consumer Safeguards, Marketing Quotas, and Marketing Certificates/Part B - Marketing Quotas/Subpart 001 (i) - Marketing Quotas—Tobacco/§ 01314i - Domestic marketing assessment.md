@@ -22,7 +22,7 @@ A domestic manufacturer of cigarettes shall certify to the Secretary, for each c
 
 #### (B) Examinations
 
-&emsp;&emsp;For the purpose of ascertaining the correctness of any report or record requiredunder this section, or of obtaining further information required under this section, the Secretary and the Office of Inspector General may examine such records, books, and other materials as the Secretary has reason to believe may be relevant. In the case of a manufacturer of domestic cigarettes, the Secretary may charge a fee to the manufacturer to cover the reasonable costs of any such examination.
+&emsp;&emsp;For the purpose of ascertaining the correctness of any report or record required under this section, or of obtaining further information required under this section, the Secretary and the Office of Inspector General may examine such records, books, and other materials as the Secretary has reason to believe may be relevant. In the case of a manufacturer of domestic cigarettes, the Secretary may charge a fee to the manufacturer to cover the reasonable costs of any such examination.
 
 #### (C) Penalties
 
@@ -96,7 +96,7 @@ A domestic manufacturer of cigarettes shall certify to the Secretary, for each c
 
 #### (2) Quantity
 
-&emsp;Subject to paragraph (3), the quantity of Flue-cured tobacco required to be purchasedby a manufacturer during a calendar year under this subsection shall equal 1/2 of the quantity of imported tobacco used by the manufacturer to produce cigarettes during the preceding calendar year that exceeds 25 percent of the quantity of all tobacco used by the manufacturer to produce cigarettes during the preceding calendar year.
+&emsp;Subject to paragraph (3), the quantity of Flue-cured tobacco required to be purchased by a manufacturer during a calendar year under this subsection shall equal 1/2 of the quantity of imported tobacco used by the manufacturer to produce cigarettes during the preceding calendar year that exceeds 25 percent of the quantity of all tobacco used by the manufacturer to produce cigarettes during the preceding calendar year.
 
 #### (3) Limitation
 
@@ -120,7 +120,7 @@ A domestic manufacturer of cigarettes shall certify to the Secretary, for each c
 
 &emsp;For purposes of paragraph (1), the Secretary shall determine the expected yield for a crop of Burley tobacco or Flue-cured tobacco by taking into consideration—
 
-&emsp;&emsp;(A) the total acreage planted to the crop (including acreage that the producers were prevented from planting because of a condition referred to in paragraph (1)); and
+&emsp;&emsp;(A) the total acreage planted to the crop (including acreage that the producers wereprevented from planting because of a condition referred to in paragraph (1)); and
 
 &emsp;&emsp;(B) normal farm yields established for the crop.
 
@@ -132,7 +132,7 @@ A domestic manufacturer of cigarettes shall certify to the Secretary, for each c
 
 This section shall be effective only for calendar year 1994.
 
-(Feb. 16, 1938, ch. 30, title III, §320C, as added Aug. 10, 1993, Pub. L. 103–66, title I, §1106(a), 107 Stat. 318; amended Dec. 8, 1994, Pub. L. 103–465, title IV, §422(a), 108 Stat. 4964.)
+(Feb. 16, 1938, ch. 30, title III, §320C, as added Pub. L. 103–66, title I, §1106(a), Aug. 10, 1993, 107 Stat. 318; amended Pub. L. 103–465, title IV, §422(a), Dec. 8, 1994, 108 Stat. 4964.)
 
 #### Amendments
 

@@ -28,7 +28,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (2) Authority of Secretary regarding modifications
 
-&emsp;As a condition of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection (a)(6) of this section (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
+&emsp;As a condition of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection (a)(6) ofthis section (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
 
 #### (3) Authority of Center for Substance Abuse Prevention
 
@@ -48,7 +48,7 @@ In the case of any territory of the United States whose allotment under section 
 
 &emsp;The Secretary may not make payments under any grant under section 300x–21 of this title for fiscal year 1993 on or after January 1, 1993, unless the Secretary has issued standards under paragraph (1).
 
-(July 1, 1944, ch. 373, title XIX, §1932, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 399.)
+(July 1, 1944, ch. 373, title XIX, §1932, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 399.)
 
 #### Prior Provisions
 

@@ -10,11 +10,11 @@ The indenture trustee shall transmit to the indenture security holders as herein
 
 &emsp;(3) the character and amount of any advances made by it, as indenture trustee, which remain unpaid on the date of such report, and for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, if such advances so remaining unpaid aggregate more than one-half of 1 per centum of the principal amount of the indenture securities outstanding on such date;
 
-&emsp;(4) the amount, interest rate, and maturity date of all other indebtedness owning to it inits individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title;
+&emsp;(4) any change to the amount, interest rate, and maturity date of all other indebtedness owning to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title;
 
 &emsp;(5) any change to the property and funds physically in its possession as indenture trustee on the date of such report;
 
-&emsp;(6) any change to any release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) which it has not previously reported;
+&emsp;(6) any release, or release and substitution, of property subject to the lien of the indenture (and the consideration therefor, if any) which it has not previously reported;
 
 &emsp;(7) any additional issue of indenture securities which it has not previously reported; and
 
@@ -42,9 +42,13 @@ Reports pursuant to this section shall be transmitted by mail—
 
 A copy of each such report shall, at the time of such transmission to indenture security holders, be filed with each stock exchange upon which the indenture securities are listed, and also with the Commission.
 
-(May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Nov. 15, 1990, Pub. L. 101–550, title IV, §§411, 412, 104 Stat. 2729.)
+(May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L. 101–550, title IV, §§411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, §301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### Amendments
+
+1998—Subsec. (a)(4). Pub. L. 105–353, §301(e)(3)(A), inserted “any change to” before “the amount”.
+
+Subsec. (a)(6). Pub. L. 105–353, §301(e)(3)(B), struck out “any change to” before “any release”.
 
 1990—Subsec. (a). Pub. L. 101–550, §411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
 

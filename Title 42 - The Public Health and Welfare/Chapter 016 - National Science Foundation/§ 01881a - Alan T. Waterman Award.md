@@ -2,7 +2,7 @@
 
 #### (a) Establishment; amounts; terms
 
-The National Science Foundation is authorized to establish the Alan T. Waterman Award for research or advanced study in the mathematical, physical, medical, biological, engineering, behavioral, social, social,<sup>1</sup> or other sciences. The award authorized by this section shall consist of a suitable medal and a grant to support further research or study by the recipient. The National Science Board will periodically establish the amounts and terms of such grants under this section.
+The National Science Foundation is authorized to establish the Alan T. Waterman Award for research or advanced study in the mathematical, physical, medical, biological, engineering, behavioral, social, or other sciences. The award authorized by this section shall consist of a suitable medal and a grant to support further research or study by the recipient. The National Science Board will periodically establish the amounts and terms of such grants under this section.
 
 #### (b) Purpose
 
@@ -12,7 +12,7 @@ Awards under this section shall be made to recognize and encourage the work of y
 
 No more than one award shall be made under this section in any one fiscal year.
 
-(Pub. L. 94–86, §6, Aug. 9, 1975, 89 Stat. 430; Pub. L. 96–516, §22(b), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 99–159, title I, §109(g), Nov. 22, 1985, 99 Stat. 890.)
+(Pub. L. 94–86, §6, Aug. 9, 1975, 89 Stat. 430; Pub. L. 96–516, §22(b), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 99–159, title I, §109(g), Nov. 22, 1985, 99 Stat. 890; Pub. L. 105–207, title II, §202(b), July 29, 1998, 112 Stat. 874.)
 
 #### Codification
 
@@ -20,9 +20,9 @@ Section was not enacted as part of the National Science Foundation Act of 1950 w
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–207 substituted “social,” for “social, social,”.
+
 1985—Subsec. (a). Pub. L. 99–159 substituted provisions requiring the National Science Board to periodically establish amounts and terms of grants, for provisions limiting the grant awarded to $50,000 per year for a period not exceeding three years.
 
 1980—Subsec. (a). Pub. L. 96–516 inserted “, behavioral, social” after “engineering”.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

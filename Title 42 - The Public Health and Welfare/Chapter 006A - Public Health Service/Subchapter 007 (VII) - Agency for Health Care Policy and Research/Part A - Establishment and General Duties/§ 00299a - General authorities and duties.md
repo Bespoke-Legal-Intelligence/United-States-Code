@@ -40,7 +40,7 @@ The Administrator may provide financial assistance to public or nonprofit privat
 
 Activities authorized in this section may include, and shall be appropriately coordinated with, experiments, demonstration projects, and other related activities authorized by the Social Security Act \[42 U.S.C. 301 et seq.\] and the Social Security Amendments of 1967. Activities under subsection (a)(2) of this section that affect the programs under titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] shall be carried out consistent with section 1142 of such Act \[42 U.S.C. 1320b–12\].
 
-(July 1, 1944, ch. 373, title IX, §902, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(a), 103 Stat. 2189; amended Nov. 28, 1990, Pub. L. 101–639, §3(d), 104 Stat. 4603; Oct. 13, 1992, Pub. L. 102–410, §2(b), 106 Stat. 2094.)
+(July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2189; amended Pub. L. 101–639, §3(d), Nov. 28, 1990, 104 Stat. 4603; Pub. L. 102–410, §2(b), Oct. 13, 1992, 106 Stat. 2094.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ A prior section 902 of act July 1, 1944, was classified to section 299b of this 
 
 #### Reducing Administrative Health Care Costs
 
-Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, provided that: “The Secretary of Health and Human Services, acting through the Agency for Health Care Policy and Research and, to the extent possible, in consultation with the Health Care Financing Administration, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
+Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, provided that: “The Secretary of Health and Human Services, acting through the Agency for Health Care Policy and Research and, to the extent possible, in consultation with the Health Care Financing Administration, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within aparallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery.”
 
 #### Section Referred to in Other Sections
 

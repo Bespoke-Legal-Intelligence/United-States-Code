@@ -8,7 +8,7 @@ In addition to mortgages insured under section 1750b of this title, the Secretar
 
 To be eligible for insurance under this section a mortgage shall meet the following conditions:
 
-&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest inany such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) The mortgage shall involve a principal obligation in an amount—
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 89–117, §1108(z)(2), struck out provision that reference
 
 Subsec. (f). Pub. L. 89–117, §1108(z)(3), struck out provision that references in subsections (k) and (<i>l</i>) of section 1713 of this title “Housing Fund” shall be construed to refer to the “National Defense Housing Insurance Fund”.
 
-1954—Subsec. (b)(3). Act Aug. 2, 1954, substituted requirement that mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders’ costs,such certifications now being prescribed in said section 1715r.
+1954—Subsec. (b)(3). Act Aug. 2, 1954, substituted requirement that mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders’ costs, such certifications now being prescribed in said section 1715r.
 
 1953—Subsec. (b). Act June 30, 1953, in paragraph commencing “The mortgage shall provide”, substituted “41/2 per centum” for “4 per centum”.
 

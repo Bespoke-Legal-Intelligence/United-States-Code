@@ -1,6 +1,6 @@
 ### §1922. False or withheld report concerning Federal employees’ compensation
 
-Whoever, being an officer or employee of the United States charged with the responsibility for making the reports of the immediate superior specified by section 8120 of title 5, willfully fails, neglects, or refuses to make any of the reports, or knowingly files a false report, or induces, compels, or directs an injured employee to forego filing of any claim for compensation or other benefits provided under subchapter I of chapter 81 of title 5 or any extension or application thereof, or willfully retains any notice, report, claim, or paper which is required to be filed under that subchapter or any extension or application thereof, or regulations prescribed thereunder, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer or employee of the United States charged with the responsibility for making the reports of the immediate superior specified by section 8120 of title 5, willfully fails, neglects, or refuses to make any of the reports, or knowingly files a false report, or induces, compels, or directs an injured employee to forego filing of any claim for compensation or other benefits provided under subchapter I ofchapter 81 of title 5 or any extension or application thereof, or willfully retains any notice, report, claim, or paper which is required to be filed under that subchapter or any extension or application thereof, or regulations prescribed thereunder, shall be fined under this title or imprisoned not more than one year, or both.
 
 (Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Sept. 13, 1960, Pub. L. 86–767, §206, 74 Stat. 908.
 
-The words “the reports of the immediate superior specified in section 8120 of title 5” are substituted for“the reports specified in subsection (a) of this section” to reflect the codification of that subsection in title 5, United States Code.
+The words “the reports of the immediate superior specified in section 8120 of title 5” are substituted for “the reports specified in subsection (a) of this section” to reflect the codification of that subsection in title 5, United States Code.
 
 The words “subchapter I of chapter 81 of title 5” and “that subchapter” are substituted for “sections 751–756, 757–781, 783–791, and 793 of this title” and “said sections”, respectively, to reflect the codification of the sections in title 5, United States Code.
 

@@ -136,7 +136,7 @@ The Secretary shall prepare a report describing the activities of the National S
 
 #### (h) “State” defined
 
-For purposes of this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+For purposes of this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam,the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
 #### (i) Authorization of appropriations
 
@@ -170,5 +170,5 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1)(E), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

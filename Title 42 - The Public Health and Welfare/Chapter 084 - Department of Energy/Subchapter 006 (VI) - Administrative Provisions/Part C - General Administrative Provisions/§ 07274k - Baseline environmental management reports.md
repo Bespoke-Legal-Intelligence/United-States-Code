@@ -12,7 +12,7 @@
 
 #### (b) Biennial waste management reports
 
-(1) The Secretary of Energy shall (in the years and at the times specified in paragraph (2)) submit to the Congress a report on all activities and projects for waste management, includingpollution prevention and transition of operational facilities to safe shutdown status, that are necessary for Department of Energy defense nuclear facilities.
+(1) The Secretary of Energy shall (in the years and at the times specified in paragraph (2)) submit to the Congress a report on all activities and projects for waste management, including pollution prevention and transition of operational facilities to safe shutdown status, that are necessary for Department of Energy defense nuclear facilities.
 
 (2) Reports required under paragraph (1) shall be submitted as follows:
 
@@ -70,7 +70,7 @@ In preparing a report under this section, the Secretary of Energy shall provide,
 
 #### (f) Public participation in development of information
 
-(1) The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency, the Attorney General, Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and interested members of the public in the development of information necessary to complete the reports required by subsections (a), (b), and (d) of this section.
+(1) The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency, the Attorney General, Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes,and interested members of the public in the development of information necessary to complete the reports required by subsections (a), (b), and (d) of this section.
 
 (2) Consultation under paragraph (1) shall not interfere with the timely submission to Congress of the budget for a fiscal year.
 

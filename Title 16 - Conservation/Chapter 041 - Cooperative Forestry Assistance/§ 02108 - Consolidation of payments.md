@@ -34,3 +34,7 @@ A prior section 12 of Pub. L. 95–313, which amended section 1606 of this title
 
 1990—Subsec. (f). Pub. L. 101–624, §1224(2), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2106b of this title.
+

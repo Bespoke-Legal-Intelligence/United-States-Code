@@ -80,7 +80,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 &emsp;&emsp;(A) the independent power producer has—
 
-&emsp;&emsp;&emsp;(i) made good faith efforts to purchase the required allowances from the owners or operators of affected units to which allowances will be allocated, including efforts to purchase at annual auctions under this section, and from industrial sources that have elected to become affected units pursuant to section 7651i of this title; and
+&emsp;&emsp;&emsp;(i) made good faith efforts to purchase the required allowances from the owners or operators of affected units to which allowances will be allocated, including efforts to purchase at annual auctions under this section, and from industrial sourcesthat have elected to become affected units pursuant to section 7651i of this title; and
 
 &emsp;&emsp;&emsp;(ii) such bids and efforts were unsuccessful in obtaining the required allowances; and
 
@@ -106,7 +106,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (2) Annual auctions
 
-&emsp;Commencing in 1993 and in each year thereafter, the Administrator shall conduct auctions at which the allowances referred to in paragraph (1) shall be offered for sale in accordance with regulations promulgated by the Administrator, in consultation with the Secretary of the Treasury, within 12 months of November 15, 1990. The allowances referred to in paragraph (1) shall be offered for sale at auction in the amounts specified in table 2. The auction shall be open to any person. A person wishing to bid for such allowances shall submit (by a date set by the Administrator) to the Administrator (on a sealed bid schedule provided by the Administrator) offers to purchase specified numbers of allowances at specified prices. Such regulations shall specify that the auctioned allowances shall be allocated and sold on the basis of bid price, starting with the highest-priced bid and continuing until all allowances for sale at such auction have been allocated. The regulations shall not permit that a minimum price be set for thepurchase of withheld allowances. Allowances purchased at the auction may be used for any purpose and at any time after the auction, subject to the provisions of this subchapter.
+&emsp;Commencing in 1993 and in each year thereafter, the Administrator shall conduct auctions at which the allowances referred to in paragraph (1) shall be offered for sale in accordance with regulations promulgated by the Administrator, in consultation with the Secretary of the Treasury, within 12 months of November 15, 1990. The allowances referred to in paragraph (1) shall be offered for sale at auction in the amounts specified in table 2. The auction shall be open to any person. A person wishing to bid for such allowances shall submit (by a date set by the Administrator) to the Administrator (on a sealed bid schedule provided by the Administrator) offers to purchase specified numbers of allowances at specified prices. Such regulations shall specify that the auctioned allowances shall be allocated and sold on the basis of bid price, starting with the highest-priced bid and continuing until all allowances for sale at such auction have been allocated. The regulations shall not permit that a minimum price be set for the purchase of withheld allowances. Allowances purchased at the auction may be used for any purpose and at any time after the auction, subject to the provisions of this subchapter.
 
 Table 2
 
@@ -180,7 +180,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (4) Additional auction participants
 
-&emsp;Any person holding allowances or to whom allowances are allocated by the Administrator may submit those allowances to the Administrator to be offered for sale at auction under this subsection. The proceeds of any such sale shall be transferred at the time of sale by the purchaser to the person submitting such allowances for sale. The holder of allowances offered for sale under this paragraph may specify a minimum sale price. Any person may purchase allowances offered for auction under this paragraph. Such allowances shall be allocated and sold to purchasers on the basis of bid price after the auction under paragraph (2) is complete. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
+&emsp;Any person holding allowances or to whom allowances are allocated by the Administratormay submit those allowances to the Administrator to be offered for sale at auction under this subsection. The proceeds of any such sale shall be transferred at the time of sale by the purchaser to the person submitting such allowances for sale. The holder of allowances offered for sale under this paragraph may specify a minimum sale price. Any person may purchase allowances offered for auction under this paragraph. Such allowances shall be allocated and sold to purchasers on the basis of bid price after the auction under paragraph (2) is complete. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
 
 #### (5) Recording by EPA
 
@@ -194,7 +194,7 @@ Pursuant to rulemaking after public notice and comment the Administrator may at 
 
 The Administrator may terminate the withholding of allowances and the auction sales under this section if the Administrator determines that, during any period of 3 consecutive calendar years after 2002, less than 20 percent of the allowances available in the auction subaccount have been purchased. Pursuant to regulations under this section, the Administrator may by delegation or contract provide for the conduct of sales or auctions under the Administrator's supervision by other departments or agencies of the United States Government or by nongovernmental agencies, groups, or organizations.
 
-(July 14, 1955, ch. 360, title IV, §416, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2626.)
+(July 14, 1955, ch. 360, title IV, §416, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2626.)
 
 #### Section Referred to in Other Sections
 

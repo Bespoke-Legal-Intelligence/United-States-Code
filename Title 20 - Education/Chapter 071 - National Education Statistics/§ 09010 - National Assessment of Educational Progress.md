@@ -8,7 +8,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 #### (1) Purpose
 
-&emsp;The purpose of the National Assessment is to provide a fair and accurate presentation of educational achievement in reading, writing, and the other subjects included in the third National Education Goal, regarding studentachievement and citizenship. The Commissioner, in carrying out the National Assessment, shall use sampling techniques that produce data that are representative on a national and regional basis, and on a State basis pursuant to paragraph (2). In addition, the Commissioner shall—
+&emsp;The purpose of the National Assessment is to provide a fair and accurate presentation of educational achievement in reading, writing, and the other subjects included in the third National Education Goal, regarding student achievement and citizenship. The Commissioner, in carrying out the National Assessment, shall use sampling techniques that produce data that are representative on a national and regional basis, and on a State basis pursuant to paragraph (2). In addition, the Commissioner shall—
 
 &emsp;&emsp;(A) collect and report data on a periodic basis, but at least once every two years, on students at ages 9, 13, and 17 and in grades 4, 8, and 12 in public and private schools;
 
@@ -76,7 +76,7 @@ The Commissioner shall, with the advice of the National Assessment Governing Boa
 
 &emsp;(B) The non-Federal share of payments under this paragraph may be in cash or in kind, fairly valued.
 
-&emsp;(C) The agreement described in paragraph (2) shall describe the manner in which the costs of administering the assessment to private nonprofit schools included in the State sample will be met.
+&emsp;(C) The agreement described in paragraph (2) shall describe the manner in which the costs of administering the assessment to privatenonprofit schools included in the State sample will be met.
 
 #### (e) Student performance levels
 

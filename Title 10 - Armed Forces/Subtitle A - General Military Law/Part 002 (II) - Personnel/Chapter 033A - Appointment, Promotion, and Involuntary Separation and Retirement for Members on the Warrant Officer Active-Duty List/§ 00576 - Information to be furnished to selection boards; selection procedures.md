@@ -16,9 +16,9 @@
 
 (e) The report of the selection board shall be submitted to the Secretary concerned. The Secretary may approve or disapprove all or part of the report.
 
-(f)(1) Upon receipt of the report of a selection board submitted to him under subsection (e), the Secretary concerned shall review the report todetermine whether the board has acted contrary to law or regulation or to guidelines furnished the board under this section.
+(f)(1) Upon receipt of the report of a selection board submitted to him under subsection (e), the Secretary concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under this section.
 
-(2) If, on the basis of a review of the report under paragraph (1), the Secretary concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under this section, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 573 of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with subsection (e).
+(2) If, on the basis of a review of the report under paragraph (1), the Secretary concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under this section, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 573 of this title for the same grade and competitivecategory) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with subsection (e).
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1496; amended Pub. L. 103–337, div. A, title V, §§501(b), 541(b)(4), Oct. 5, 1994, 108 Stat. 2748, 2764.)
 
@@ -42,5 +42,5 @@ Amendment by section 541(b)(4) of Pub. L. 103–337 effective on the first day o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 580, 1166 of this title.
+This section is referred to in sections 580, 628, 1166 of this title.
 

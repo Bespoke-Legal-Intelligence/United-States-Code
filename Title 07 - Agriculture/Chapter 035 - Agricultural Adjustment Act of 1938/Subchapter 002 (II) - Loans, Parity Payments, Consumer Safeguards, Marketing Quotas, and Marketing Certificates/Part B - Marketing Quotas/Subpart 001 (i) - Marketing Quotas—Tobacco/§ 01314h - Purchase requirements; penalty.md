@@ -40,7 +40,7 @@ The limitations on disclosure set forth in subsections (c) and (d) of section 13
 
 As used in this section, the term “quota tobacco” means any kind of tobacco for which marketing quotas are in effect or for which marketing quotas are not disapproved by producers.
 
-(Feb. 16, 1938, ch. 30, title III, §320B, as added Apr. 7, 1986, Pub. L. 99–272, title I, §1106(a), 100 Stat. 90.)
+(Feb. 16, 1938, ch. 30, title III, §320B, as added Pub. L. 99–272, title I, §1106(a), Apr. 7, 1986, 100 Stat. 90.)
 
 #### Effective Date
 

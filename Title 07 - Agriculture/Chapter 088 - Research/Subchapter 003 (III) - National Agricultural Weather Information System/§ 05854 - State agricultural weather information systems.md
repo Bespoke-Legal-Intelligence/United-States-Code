@@ -16,7 +16,7 @@ For purposes of selecting among applications submitted by States for grants unde
 
 #### (c) Eligibility requirements
 
-To be eligible to receive a grant under this section, the chief executive officer of a Stateshall submit to the Secretary an application that contains—
+To be eligible to receive a grant under this section, the chief executive officer of a State shall submit to the Secretary an application that contains—
 
 &emsp;(1) assurances that the State will expend such grant to plan and administer a State agricultural weather system that will—
 

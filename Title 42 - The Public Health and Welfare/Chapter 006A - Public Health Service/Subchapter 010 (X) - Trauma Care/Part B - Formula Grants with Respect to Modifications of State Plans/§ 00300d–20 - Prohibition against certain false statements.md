@@ -4,7 +4,7 @@
 
 #### (1) False statements or representations
 
-&emsp;A person may not knowingly and willfully make or cause to be made any false statementor representation of a material fact in connection with the furnishing of items or services for which payments may be made by a State from amounts paid to the State under section 300d–11(a) of this title.
+&emsp;A person may not knowingly and willfully make or cause to be made any false statement or representation of a material fact in connection with the furnishing of items or services for which payments may be made by a State from amounts paid to the State under section 300d–11(a) of this title.
 
 #### (2) Concealing or failing to disclose information
 
@@ -14,5 +14,5 @@
 
 Any person who violates a prohibition established in subsection (a) of this section may for each violation be fined in accordance with title 18, or imprisoned for not more than 5 years, or both.
 
-(July 1, 1944, ch. 373, title XII, §1220, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2925.)
+(July 1, 1944, ch. 373, title XII, §1220, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2925.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (c) of this section, the Secretary shall, from the amounts specified insubsection (b) of this section, make grants to public and nonprofit private entities for the purpose of providing to eligible homeless individuals the services specified in section 290cc–22(b) of this title.
+Subject to subsection (c) of this section, the Secretary shall, from the amounts specified in subsection (b) of this section, make grants to public and nonprofit private entities for the purpose of providing to eligible homeless individuals the services specified in section 290cc–22(b) of this title.
 
 #### (b) Specification of funds
 
@@ -18,7 +18,7 @@ The amounts referred to in subsection (a) of this section are any amounts made a
 
 With respect to grants under subsection (a) of this section, amounts made available under subsection (b) of this section as a result of the State involved shall be available only for grants to provide services in such State.
 
-(July 1, 1944, ch. 373, title V, §525, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 518; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4729.)
+(July 1, 1944, ch. 373, title V, §525, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 518; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4729.)
 
 #### Prior Provisions
 

@@ -22,11 +22,11 @@
 
 &emsp;(2) who is disabled or dies from an injury incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
 
-> shall be deemed to have been on active duty for training or inactive duty training, as the case may be, at the time such injury was incurred. In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death. Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
+> shall be deemed to have been on active duty for training or inactive duty training, as the case may be, at the time such injury was incurred. In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury so incurred, the Secretary shall take into account the hour on which suchindividual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death. Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
 
 (e) Each person who has incurred a disability as a result of an injury or disease described in subsection (b) shall be entitled to the same rights, privileges, and benefits under title 5 as a preference eligible described in section 2108(3)(C) of title 5.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L.88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 
@@ -90,5 +90,5 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1302, 2302 of this title; title 10 section 1599c.
+This section is referred to in sections 1302, 2302 of this title; title 5 section 2302.
 

@@ -370,6 +370,8 @@
 | (c) | Free disclosure under certain other circumstances. |
 | (d) | Other charges prohibited. |
 | [1681k.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681k%20-%20Public%20record%20information%20for%20employment%20purposes.md) | Public record information for employment purposes. |
+| (a) | In general. |
+| (b) | Exemption for national security investigations. |
 | 1681<i>l.</i> | Restrictions on investigative consumer reports. |
 | [1681m.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681m%20-%20Requirements%20on%20users%20of%20consumer%20reports.md) | Requirements on users of consumer reports. |
 | (a) | Duties of users taking adverse actions on basis of information contained in consumer reports. |

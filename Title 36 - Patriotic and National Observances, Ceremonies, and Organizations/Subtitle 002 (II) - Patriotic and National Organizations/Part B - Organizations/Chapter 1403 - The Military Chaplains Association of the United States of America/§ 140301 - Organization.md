@@ -1,0 +1,36 @@
+### §140301. Organization
+
+(a)
+
+Federal Charter.—The Military Chaplains Association of the United States of America (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b)
+
+Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1380.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+140301(a)D36:311.DSept. 20, 1950, ch. 956, §§1, 2, 4(a), 64 Stat. 868.
+
+&nbsp;
+
+36:312.
+
+140301(b)
+
+36:314(a).
+
+Subsection (a) is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
+
+Subsection (b) is substituted for “shall have perpetual succession” for consistency in the revised title.
+

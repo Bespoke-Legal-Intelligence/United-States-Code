@@ -16,7 +16,7 @@ Assistance shall not be utilized under subsection (a) of this section—
 
 &emsp;(2) to pay any amount expended by a State under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
-(July 1, 1944, ch. 373, title XXVI, §2615, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 590.)
+(July 1, 1944, ch. 373, title XXVI, §2615, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590.)
 
 #### References in Text
 

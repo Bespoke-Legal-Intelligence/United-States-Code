@@ -62,7 +62,7 @@ Annual Requirement.—(1) Not less than 15 days before any obligation of any fun
 
 &emsp;“(A) The Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
 
-&emsp;“(B) The Committee on National Security, the Committee on International Relations, and the Committee on Appropriations of the House of Representatives.
+&emsp;“(B) The Committee on National Security \[now Committee on Armed Services\], the Committee on International Relations, and the Committee on Appropriations of the House of Representatives.
 
 “(b)
 

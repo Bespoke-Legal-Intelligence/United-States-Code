@@ -20,7 +20,7 @@ Nonattainment area.—The term “nonattainment area” means, for any air pollu
 
 &emsp;(4) The terms “modifications” and “modified” mean the same as the term “modification” as used in section 7411(a)(4) of this title.
 
-(July 14, 1955, ch. 360, title I, §171, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 745; amended Nov. 15, 1990, Pub. L. 101–549, title I, §102(a)(2), 104 Stat. 2412.)
+(July 14, 1955, ch. 360, title I, §171, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 745; amended Pub. L. 101–549, title I, §102(a)(2), Nov. 15, 1990, 104 Stat. 2412.)
 
 #### Amendments
 
@@ -38,5 +38,5 @@ Part effective Aug. 7, 1977, except as otherwise expressly provided, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7410, 7412, 7503, 7513a of this title; title 23 section 104.
+This section is referred to in sections 7410, 7412, 7503, 7513a of this title.
 

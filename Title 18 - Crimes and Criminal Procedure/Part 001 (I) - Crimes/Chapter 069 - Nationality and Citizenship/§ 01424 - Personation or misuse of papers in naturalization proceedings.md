@@ -6,7 +6,7 @@ Whoever knowingly and unlawfully uses or attempts to use, as showing naturalizat
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 766; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 766; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

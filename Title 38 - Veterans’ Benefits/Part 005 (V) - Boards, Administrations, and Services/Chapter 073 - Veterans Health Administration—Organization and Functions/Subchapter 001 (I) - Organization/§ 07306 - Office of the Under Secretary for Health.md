@@ -24,7 +24,7 @@
 
 &emsp;(1) not more than two may be persons qualified in the administration of health services who are not doctors of medicine, dental surgery, or dental medicines;
 
-&emsp;(2) one shall be a qualified doctor of dental surgery or dental medicine who shall be directly responsible to the Under Secretary forHealth for the operation of the Dental Service; and
+&emsp;(2) one shall be a qualified doctor of dental surgery or dental medicine who shall be directly responsible to the Under Secretary for Health for the operation of the Dental Service; and
 
 &emsp;(3) one shall be a qualified physician trained in, or having suitable extensive experience in, geriatrics who shall be responsible to the Under Secretary for Health for evaluating all research, educational, and clinical health-care programs carried out in the Administration in the field of geriatrics and who shall serve as the principal advisor to the Under Secretary for Health with respect to such programs.
 
@@ -86,5 +86,5 @@ Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7314, 7401, 7404, 7405, 7408, 7424, 7425 of this title.
+This section is referred to in sections 7314, 7401, 7404, 7405, 7408, 7424, 7425, 8107 of this title.
 

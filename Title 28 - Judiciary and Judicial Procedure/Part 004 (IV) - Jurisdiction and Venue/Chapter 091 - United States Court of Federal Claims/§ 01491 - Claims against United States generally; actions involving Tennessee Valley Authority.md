@@ -40,11 +40,11 @@ The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act M
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–320, §12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
+1996—Subsec. (a)(3). Pub. L. 104–320, §12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
 
 Subsecs. (b), (c). Pub. L. 104–320, §12(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a)(1). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (a)(2). Pub. L. 102–572, §907(b)(1), inserted before period at end “, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 of that Act”.
 
@@ -52,7 +52,7 @@ Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for �
 
 Subsec. (b). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–164 designated first two sentences of existing first undesignated paragraph as subsec. (a)(1) and substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a)(1). Pub. L. 97–164 designated first two sentences of existing first undesignated paragraph as subsec. (a)(1) and substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (a)(2). Pub. L. 97–164 designated third, fourth, and fifth sentences of existing first undesignated paragraph as par. (2) and substituted “The Claims Court” for “The Court of Claims” and “arising under section 10(a)(1) of the Contract Disputes Act of 1978” for “arising under the Contract Disputes Act of 1978”.
 
@@ -60,17 +60,17 @@ Subsec. (a)(3). Pub. L. 97–164 added par. (3).
 
 Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph as subsec. (b) and substituted “United States Claims Court” for “Court of Claims”, “conduct of, the Tennessee Valley Authority, or” for “actions of, the Tennessee Valley Authority, nor”, “Tennessee Valley Authority Act of 1933” for “Tennessee Valley Authority Act of 1933, as amended,”, and “actions by or against the Authority” for “suits by or against the Authority”.
 
-<b>1980</b>—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
+1980—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
 
-<b>1978</b>—Pub. L. 95–563 provided that the Court of Claims would have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under the Contract Disputes Act of 1978.
+1978—Pub. L. 95–563 provided that the Court of Claims would have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under the Contract Disputes Act of 1978.
 
-<b>1972</b>—Pub. L. 92–415 inserted provisions authorizing the court to issue orders directing restoration to office or position, placement in appropriate duty or retirement status and correction of applicable records and to issue such orders to any United States official and to remand appropriate matters to administrative and executive bodies with proper directions.
+1972—Pub. L. 92–415 inserted provisions authorizing the court to issue orders directing restoration to office or position, placement in appropriate duty or retirement status and correction of applicable records and to issue such orders to any United States official and to remand appropriate matters to administrative and executive bodies with proper directions.
 
-<b>1970</b>—Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
+1970—Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
 
-<b>1954</b>—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
+1954—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
 
-<b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
+1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
 
 #### Effective Date of 1996 Amendment
 
@@ -154,7 +154,7 @@ War contracts, jurisdiction and procedure to enforce termination claim, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2409a of this title; title 12 section 216b; title 16 section 460jjj–2; title 20 section 1132f–10; title 22 section 3862; title 25 sections 1300i–11, 3001; title 41 sections 114, 602; title 42 sections 2297e–3, 2297h–3, 4654; title 45 section 1018; title 46 App. section 1242; title 47 section 606.
+This section is referred to in section 2409a of this title; title 12 section 216b; title 16 section 460jjj–2; title 20 section 1155; title 22 section 3862; title 25 sections 1300i–11, 3001; title 41 sections 114, 602; title 42 sections 2297e–3, 2297h–3, 4654; title 45 section 1018; title 46 App. section 1242; title 47 section 606.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
 

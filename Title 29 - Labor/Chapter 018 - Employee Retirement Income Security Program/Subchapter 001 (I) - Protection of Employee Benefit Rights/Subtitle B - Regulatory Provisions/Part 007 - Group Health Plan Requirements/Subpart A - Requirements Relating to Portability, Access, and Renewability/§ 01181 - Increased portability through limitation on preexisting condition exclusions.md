@@ -30,7 +30,7 @@ For purposes of this part—
 
 #### (3) Late enrollee
 
-&emsp;The term “late enrollee” means, with respect to coverage under a group health plan, aparticipant or beneficiary who enrolls under the plan other than during—
+&emsp;The term “late enrollee” means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
 
 &emsp;&emsp;(A) the first period in which the individual is eligible to enroll under the plan, or
 
@@ -144,7 +144,7 @@ For purposes of this part—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of group healthinsurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
@@ -184,7 +184,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) a group health plan makes coverage available with respect to a dependent of an individual,
 
-&emsp;&emsp;&emsp;(ii) the individual is a participant under the plan (or has met any waiting periodapplicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period), and
+&emsp;&emsp;&emsp;(ii) the individual is a participant under the plan (or has met any waiting period applicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period), and
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 

@@ -16,7 +16,7 @@ Proof that the alien failed to present himself at the time and place designated 
 
 (B) Proof that any person described in paragraph (1) has diligently maintained any facility, or utilized any method, which has been approved by the Attorney General under subparagraph (A) (within the period for which the approval is effective) shall be prima facie evidence that such person acted diligently and reasonably to fulfill the duty imposed by subsection (a) of this section (within the meaning of paragraph (1) of this subsection).
 
-(June 27, 1952, ch. 477, title II, ch. 8, §271, 66 Stat. 226; Nov. 6, 1986, Pub. L. 99–603, title I, §114, 100 Stat. 3383; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(8), 104 Stat. 5058; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(g)(1), 110 Stat. 3009–622.)
+(June 27, 1952, ch. 477, title II, ch. 8, §271, 66 Stat. 226; Pub. L. 99–603, title I, §114, Nov. 6, 1986, 100 Stat. 3383; Pub. L. 101–649, title V, §543(a)(8), Nov. 29, 1990, 104 Stat. 5058; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@ The Secretary shall provide assistance directly to a jurisdiction only if—
 
 A housing strategy submitted under this section shall be in a form that the Secretary determines to be appropriate for the assistance the jurisdiction may be provided and shall—
 
-&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-year period, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as very low-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
+&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-yearperiod, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as very low-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
 
 &emsp;(2) describe the nature and extent of homelessness, including rural homelessness, within the jurisdiction, providing an estimate of the special needs of various categories of persons who are homeless or threatened with homelessness, including tabular representation of such information, and a description of the jurisdiction's strategy for (A) helping low-income families avoid becoming homeless; (B) addressing the emergency shelter and transitional housing needs of homeless persons (including a brief inventory of facilities and services that meet such needs within that jurisdiction); and (C) helping homeless persons make the transition to permanent housing and independent living;
 
@@ -36,23 +36,25 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(10) in the case of a unit of local government, describe the number of public housing units in the jurisdiction, the physical condition of such units, the restoration and revitalization needs of public housing projects within the jurisdiction, the public housing agency's strategy for improving the management and operation of such public housing, and the public housing agency's strategy for improving the living environment of low- and very-low-income families residing in public housing;
 
-&emsp;(11) in the case of a State, describe the strategy to coordinate the Low-Income Tax Credit with development of housing, including public housing, that is affordable to very low-income and low-income families;
+&emsp;(11) describe the manner in which the plan of the jurisdiction will help address the needs of public housing;
 
-&emsp;(12) describe the jurisdiction's activities to encourage public housing residents to become more involved in management and participate in homeownership;
+&emsp;(12) in the case of a State, describe the strategy to coordinate the Low-Income Tax Credit with development of housing, including public housing, that is affordable to very low-income and low-income families;
 
-&emsp;(13) describe the standards and procedures according to which the jurisdiction will monitor activities authorized under this Act and ensure long-term compliance with the provisions of this Act;
+&emsp;(13) describe the jurisdiction's activities to encourage public housing residents to become more involved in management and participate in homeownership;
 
-&emsp;(14) include a certification that the jurisdiction will affirmatively further fair housing;
+&emsp;(14) describe the standards and procedures according to which the jurisdiction will monitor activities authorized under this Act and ensure long-term compliance with the provisions of this Act;
 
-&emsp;(15) include a certification that the jurisdiction has in effect and is following a residential antidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
+&emsp;(15) include a certification that the jurisdiction will affirmatively further fair housing;
 
-&emsp;(16) <sup>2</sup> estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs.<sup>3</sup>
+&emsp;(16) include a certification that the jurisdiction has in effect and is following a residential antidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community DevelopmentAct of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
 
-&emsp;(16) <sup>2</sup> include the number of families to whom the jurisdiction will provide affordable housing as defined in section 12745 of this title using funds made available; and <sup>4</sup>
+&emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
 
-&emsp;(17) <sup>5</sup> for any housing strategy submitted for fiscal year 1994 or any fiscal year thereafter and taking into consideration factors over which the jurisdiction has control, describe the jurisdiction's goals, programs, and policies for reducing the number of households with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually), and, in consultation with other appropriate public and private agencies, state how the jurisdiction's goals, programs, and policies for producing and preserving affordable housing set forth in the housing strategy will be coordinated with other programs and services for which the jurisdiction is responsible and the extent to which they will reduce (or assist in reducing) the number of households with incomes below the poverty line; and
+&emsp;(18) include the number of families to whom the jurisdiction will provide affordable housing as defined in section 12745 of this title using funds made available;
 
-&emsp;(17) <sup>5</sup> describe the jurisdictions activities to enhance coordination between public and assisted housing providers and private and governmental health, mental health, and service agencies.
+&emsp;(19) for any housing strategy submitted for fiscal year 1994 or any fiscal year thereafter and taking into consideration factors over which the jurisdiction has control, describe the jurisdiction's goals, programs, and policies for reducing the number of households with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually), and, in consultation with other appropriate public and private agencies, state how the jurisdiction's goals, programs, and policies for producing and preserving affordable housing set forth in the housing strategy will be coordinated with other programs and services for which the jurisdiction is responsible and the extent to which they will reduce (or assist in reducing) the number of households with incomes below the poverty line; and
+
+&emsp;(20) describe the jurisdictions activities to enhance coordination between public and assisted housing providers and private and governmental health, mental health, and service agencies.
 
 > The Secretary may provide for the submission of abbreviated housing strategies by jurisdictions that are not otherwise expected to be participating jurisdictions under subchapter II of this chapter. Such an abbreviated housing strategy shall be appropriate to the types and amounts of assistance the jurisdiction is to receive as determined by the Secretary.
 
@@ -88,11 +90,21 @@ The Secretary may establish such requirements as the Secretary deems appropriate
 
 Not later than 4 months after completion of the final report of the Secretary's Advisory Commission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal or modification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
 
-(Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940.)
+#### (g) Treatment of troubled public housing agencies
+
+#### (1) Effect of troubled status on CHAS
+
+&emsp;The comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the State or unit of general local government in which any troubled public housing agency is located shall not be considered to comply with the requirements under this section unless such plan includes a description of the manner in which the State or unit will provide financial or other assistance to such troubled agency in improving its operations to remove such designation.
+
+#### (2) Definition
+
+&emsp;For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
+
+(Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(6), (13) and (c)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+This Act, referred to in subsecs. (b)(6), (14) and (c)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (b)(7), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -100,7 +112,29 @@ The Housing and Community Development Act of 1974, referred to in subsec. (b)(7)
 
 The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(7), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
+The effective date of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (g)(2), probably means the general effective date for title V of Pub. L. 105–276, included in section 503 of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–276, §583(1), transferred flush provisions relating to abbreviated housing strategies to end of subsection to follow last numbered paragraph.
+
+Subsec. (b)(11) to (15). Pub. L. 105–276, §583(6), (7), added par. (11) and redesignated former pars. (11) to (14) as (12) to (15), respectively. Former par. (15) redesignated (16).
+
+Subsec. (b)(16). Pub. L. 105–276, §583(6), redesignated par. (15) as (16). Former par. (16), relating to housing units that contain lead-based paint hazards, redesignated (17), and former par. (16), relating to number of families to whom jurisdiction will provide affordable housing, redesignated (18).
+
+Pub. L. 105–576, §583(5)(A), substituted “programs;” for “programs.” in par. (16) relating to housing units that contain lead-based paint hazards.
+
+Pub. L. 105–576, §583(4)(A), struck out “and” at end of par. (16) relating to number of families to whom jurisdiction will provide affordable housing.
+
+Subsec. (b)(17). Pub. L. 105–276, §583(5)(B), redesignated par. (16), relating to housing units that contain lead-based paint hazards, as (17). Former par. (17), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, redesignated (19), and former par. (17), relating to activities to enhance coordination, redesignated (20).
+
+Subsec. (b)(18). Pub. L. 105–276, §583(4)(B), redesignated par. (16), relating to number of families to whom jurisdiction will provide affordable housing, as (18).
+
+Subsec. (b)(19). Pub. L. 105–276, §583(3), redesignated par. (17), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, as (19).
+
+Subsec. (b)(20). Pub. L. 105–276, §583(2), redesignated par. (17), relating to activities to enhance coordination, as (20).
+
+Subsec. (g). Pub. L. 105–276, §568, added subsec. (g).
 
 1992—Subsec. (b)(1). Pub. L. 102–550, §681(1), inserted “persons with disabilities,” after “the elderly,”.
 
@@ -122,31 +156,27 @@ Subsec. (b)(16). Pub. L. 102–550, §1014(3), added par. (16) relating to housi
 
 Pub. L. 102–550, §220(c)(1), redesignated par. (15) as (16). Former par. (16) redesignated (17).
 
-Pub. L. 102–550, §220(b)(3), which directed amendment of subsec. (b) by adding at end par. (16) relating to reducing the number of households within a jurisdiction with incomes below the poverty line, was executed by inserting par. (16) before concluding provisions to reflect the probable intent of Congress.
+Pub. L. 102–550, §220(b)(3), added at end par. (16) relating to reducing the number of households within a jurisdiction with incomes below the poverty line.
 
 Subsec. (b)(17). Pub. L. 102–550, §681(2), which directed amendment of subsec. (b) by adding “after paragraph (16), as added by the preceding provisions of this Act”, a new par. (17) relating to activities to enhance coordination, was executed by adding that par. (17) after par. (17) (formerly par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, to reflect the probable intent of Congress.
 
-Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, as (17).
+Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within ajurisdiction with incomes below the poverty line, as (17).
 
 Subsec. (e). Pub. L. 102–550, §1014(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+
 #### Effective Date of 1992 Amendment
 
-Amendment by section 220 of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter IIof this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by section 220 of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437e, 1437f, 1437v, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 3035i, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12708, 12746, 12747, 12752, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
+This section is referred to in sections 1437e, 1437f, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 3035i, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12708, 12746, 12747, 12752, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
-
-<i><sup>2</sup></i><i> So in original. Two pars. (16) have been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>4</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>5</sup></i><i> So in original. Two pars. (17) have been enacted.</i>
 

@@ -42,11 +42,15 @@ It is the policy of the United States—
 
 &emsp;&emsp;(B) any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).<sup>1</sup>
 
-#### (d) Effect on other laws
+#### (d) Obligations of interactive computer service
+
+A provider of interactive computer service shall, at the time of entering an agreement with a customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist the customer in limiting access to material that is harmful to minors. Such notice shall identify, or provide the customer with access to information identifying, current providers of such protections.
+
+#### (e) Effect on other laws
 
 #### (1) No effect on criminal law
 
-&emsp;Nothing in this section shall be construed to impair the enforcement of section 223 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
+&emsp;Nothing in this section shall be construed to impair the enforcement of section 223 or 231 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
 
 #### (2) No effect on intellectual property law
 
@@ -60,7 +64,7 @@ It is the policy of the United States—
 
 &emsp;Nothing in this section shall be construed to limit the application of the Electronic Communications Privacy Act of 1986 or any of the amendments made by such Act, or any similar State law.
 
-#### (e) Definitions
+#### (f) Definitions
 
 As used in this section:
 
@@ -86,17 +90,31 @@ As used in this section:
 
 &emsp;&emsp;(C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
 
-(June 19, 1934, ch. 652, title II, §230, as added Pub. L. 104–104, title V, §509, Feb. 8, 1996, 110 Stat. 137.)
+(June 19, 1934, ch. 652, title II, §230, as added Pub. L. 104–104, title V, §509, Feb. 8, 1996, 110 Stat. 137; amended Pub. L. 105–277, div. C, title XIV, §1404(a), Oct. 21, 1998, 112 Stat. 2681–739.)
 
 #### References in Text
 
-The Electronic Communications Privacy Act of 1986, referred to in subsec. (d)(4), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 2510 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Electronic Communications Privacy Act of 1986, referred to in subsec. (e)(4), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 2510 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Codification
 
 Section 509 of Pub. L. 104–104, which directed amendment of title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.) by adding section 230 at end, was executed by adding the section at end of part I of title II of the Act to reflect the probable intent of Congress and amendments by sections 101(a), (b), and 151(a) of Pub. L. 104–104 designating §§201 to 229 as part I and adding parts II (§251 et seq.) and III (§271 et seq.) to title II of the Act.
 
+#### Amendments
+
+1998—Subsec. (d). Pub. L. 105–277, §1404(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 105–277, §1404(a)(1), inserted “or 231” after “section 223”.
+
+Subsecs. (e), (f). Pub. L. 105–277, §1404(a)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective 30 days after Oct. 21, 1998, see section 1406 of Pub. L. 105–277, set out as a note under section 223 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 223 of this title; title 18 sections 1462, 1465.
+This section is referred to in sections 223, 231 of this title; title 18 sections 1462, 1465.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A).”</i>
 

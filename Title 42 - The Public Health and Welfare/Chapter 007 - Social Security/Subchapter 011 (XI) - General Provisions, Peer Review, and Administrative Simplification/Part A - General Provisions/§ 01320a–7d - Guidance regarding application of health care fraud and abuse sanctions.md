@@ -60,7 +60,7 @@
 
 &emsp;The Secretary shall issue advisory opinions as to the following matters:
 
-&emsp;&emsp;(A) What constitutes prohibited remuneration within the meaning of section 1320a–7b(b) of this title.
+&emsp;&emsp;(A) What constitutes prohibited remuneration within the meaning of section 1320a–7b(b) of this title or section 1320a–7a(i)(6) of this title.
 
 &emsp;&emsp;(B) Whether an arrangement or proposed arrangement satisfies the criteria set forth in section 1320a–7b(b)(3) of this title for activities which do not result in prohibited remuneration.
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(B) the volume and frequency of the conduct that would be identified in the special fraud alert.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Aug. 21, 1996, Pub. L. 104–191, title II, §205, 110 Stat. 2000; amended Aug. 5, 1997, Pub. L. 105–33, title IV, §4331(a)(1), 111 Stat. 395.)
+(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110 Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917.)
 
 #### References in Text
 
@@ -147,6 +147,8 @@ Section 5 of the Inspector General Act of 1978, referred to in subsec. (a)(1)(C)
 The Internal Revenue Code of 1986, referred to in subsec. (b)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1998—Subsec. (b)(2)(A). Pub. L. 105–277 inserted “or section 1320a–7a(i)(6) of this title” before period at end.
 
 1997—Subsec. (b)(2)(D). Pub. L. 105–33 substituted “section 1320a–7a(b)” for “section 1320a–7b(b)”.
 

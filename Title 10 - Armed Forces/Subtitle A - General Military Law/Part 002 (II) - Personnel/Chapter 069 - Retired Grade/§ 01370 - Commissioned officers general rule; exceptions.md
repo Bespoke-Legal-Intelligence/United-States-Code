@@ -4,7 +4,7 @@
 
 Rule for Retirement in Highest Grade Held Satisfactorily.—(1) Unless entitled to a higher retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, except as provided in paragraph (2), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the nine-year period beginning on October 1, 1990.
+(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense mayauthorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the period beginning on October 1, 1990, and ending on September 30, 2001.
 
 (B) The President may waive subparagraph (A) in individual cases involving extreme hardship or exceptional or unusual circumstances. The authority of the President under the preceding sentence may not be delegated.
 
@@ -44,13 +44,29 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 (D) To the extent authorized by the Secretary of the military department concerned, a person who, after having been recommended for promotion in a report of a promotion board but before being promoted to the recommended grade, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while in the next lower grade. The period credited may not include any period before the date on which the Senate provides advice and consent for the appointment of that person in the recommended grade.
 
-(E) To the extent authorized by the Secretary of the military department concerned, a person who, after having been extended temporary Federal recognition as a reserve officer of the Army National Guard in a particular grade under section 308 of title 32 or temporary Federal recognition as a reserve officer of the Air NationalGuard in a particular grade under such section, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while extended the temporary Federal recognition, but only if the person was subsequently extended permanent Federal recognition as a reserve officer in that grade and also served in that position after being extended the permanent Federal recognition.
+(E) To the extent authorized by the Secretary of the military department concerned, a person who, after having been found qualified for Federal recognition in a higher grade by a board under section 307 of title 32, serves in a position for which that grade is the minimum authorized grade and is appointed as a reserve officer in that grade may be credited for the purposes of subparagraph (A) as having served in that grade. The period of the service for which credit is afforded under the preceding sentence may only be the period for which the person served in the position after the Senate provides advice and consent for the appointment.
+
+(F) A person covered by subparagraph (A) who has completed at least six months of satisfactory service in a grade above colonel or (in the case of the Navy) captain and, while serving in an active status in such grade, is involuntarily transferred (other than for cause) from active status may be credited with satisfactory service in the grade in which serving at the time of such transfer, notwithstanding failure of the person to complete three years of service in that grade.
 
 (4) A person whose length of service in the highest grade held does not meet the service in grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 
-(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522.)
+(5) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than 2 years in the case of retirements effective during the period beginning on the date of the enactment of this paragraph and ending on September 30, 2001. The number of reserve commissioned officers of an armed force in the same grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to 2 percent of the strength authorized for that fiscal year for reserve commissioned officers of that armed force in an active status in that grade.
+
+(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026.)
+
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (d)(5), is the date of enactment of Pub. L. 105–261 which was approved Oct. 17, 1998.
 
 #### Amendments
+
+1998—Subsec. (a)(2)(A). Pub. L. 105–261, §561(d), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+
+Subsec. (d)(3)(E). Pub. L. 105–261, §512(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “To the extent authorized by the Secretary of the military department concerned, a person who, after having been extended temporary Federal recognition as a reserve officer of the Army National Guard in a particular grade under section 308 of title 32 or temporary Federal recognition as a reserve officer of the Air National Guard in a particular grade under such section, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while extended the temporary Federal recognition, but only if the person was subsequently extended permanent Federal recognition as a reserve officer in that grade and also served in that position after being extended the permanent Federal recognition.”
+
+Subsec. (d)(3)(F). Pub. L. 105–261, §513(a), added subpar. (F).
+
+Subsec. (d)(5). Pub. L. 105–261, §561(<i>o</i>), added par. (5).
 
 1996—Subsec. (a). Pub. L. 104–106, §502(g)(1), inserted heading.
 
@@ -79,6 +95,12 @@ Subsec. (d). Pub. L. 103–337, §1641, added subsec. (d).
 1993—Subsec. (a)(2)(A). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
 1990—Subsec. (a)(2). Pub. L. 101–510 inserted “(A)” after “(2)”, inserted before period at end of first sentence “, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the five-year period beginning on October 1, 1990”, designated second and third sentences as subpar. (B), substituted “subparagraph (A)” for “the preceding sentence”, and added subpar. (C).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title V, §512(b), Oct. 17, 1998, 112 Stat. 2007, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\] and shall apply with respect to appointments to higher grades that take effect after that date.”
+
+Pub. L. 105–261, div. A, title V, §513(b), Oct. 17, 1998, 112 Stat. 2008, provided that: “Subparagraph (F) of such section \[subsec. (d)(3)(F) of this section\], as added by subsection (a), shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\] and shall apply with respect to transfers referred to in such subparagraph that are made on or after that date.”
 
 #### Effective Date of 1996 Amendment
 

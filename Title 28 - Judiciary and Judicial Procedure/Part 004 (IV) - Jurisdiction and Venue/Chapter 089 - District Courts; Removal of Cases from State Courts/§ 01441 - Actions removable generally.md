@@ -36,15 +36,15 @@ The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to remo
 
 #### Amendments
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
+1991—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
+1990—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
+1988—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–336 added subsec. (e).
+1986—Subsec. (e). Pub. L. 99–336 added subsec. (e).
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–583 added subsec. (d).
+1976—Subsec. (d). Pub. L. 94–583 added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 

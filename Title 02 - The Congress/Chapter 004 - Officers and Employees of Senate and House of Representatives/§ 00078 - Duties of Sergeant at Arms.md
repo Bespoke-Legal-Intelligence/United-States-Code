@@ -26,5 +26,5 @@ Pub. L. 104–53, title III, §313, Nov. 19, 1995, 109 Stat. 538, provided that:
 
 &emsp;“(3) Any other firearms qualification required for members of the Capitol Police.
 
-“(c) The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.”
+“(c) The Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives shall have authority to prescribe regulations to carry out this section.”
 

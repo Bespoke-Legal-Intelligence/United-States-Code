@@ -64,5 +64,5 @@ Employment of reading assistants for blind employees without regard to provision
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3132, 3304 of this title; title 10 sections 1744, 1792; title 16 section 3198; title 22 section 3641; title 28 section 569; title 36 section 121; title 42 section 2000e; title 49 section 44506.
+This section is referred to in sections 3132, 3304 of this title; title 10 sections 1744, 1792; title 16 section 3198; title 22 section 3641; title 28 section 569; title 36 section 2102; title 42 section 2000e; title 49 section 44506.
 

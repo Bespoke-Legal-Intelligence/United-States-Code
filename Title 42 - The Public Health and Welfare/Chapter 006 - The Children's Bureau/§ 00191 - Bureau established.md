@@ -2,7 +2,7 @@
 
 There shall be established in the Department of Health and Human Services a bureau to be known as the Children's Bureau.
 
-(Apr. 9, 1912, ch. 73, §1, 37 Stat. 79; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(Apr. 9, 1912, ch. 73, §1, 37 Stat. 79; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Codification
 

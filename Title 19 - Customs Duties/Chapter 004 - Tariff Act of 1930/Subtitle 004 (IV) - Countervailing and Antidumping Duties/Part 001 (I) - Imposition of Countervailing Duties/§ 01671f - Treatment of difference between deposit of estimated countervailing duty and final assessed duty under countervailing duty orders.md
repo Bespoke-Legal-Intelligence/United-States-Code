@@ -18,7 +18,7 @@ If the amount of an estimated countervailing duty deposited under section 1671e(
 
 > together with interest as provided by section 1677g of this title.
 
-(June 17, 1930, ch. 497, title VII, §707, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 161; amended Dec. 8, 1994, Pub. L. 103–465, title II, §264(c)(10), 108 Stat. 4914.)
+(June 17, 1930, ch. 497, title VII, §707, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 161; amended Pub. L. 103–465, title II, §264(c)(10), Dec. 8, 1994, 108 Stat. 4914.)
 
 #### Amendments
 

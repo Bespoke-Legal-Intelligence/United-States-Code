@@ -120,13 +120,25 @@ Section 8102(a)(5)(A) of Pub. L. 101–380 provided that: “The repeal by parag
 
 Section 8102(a)(3) of Pub. L. 101–380 provided that: “The repeal made by paragraph (1) \[repealing subsec. (c) of this section\] shall have no effect on any right to recover or responsibility that arises from incidents subject to section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)) occurring prior to the date of enactment of this Act \[Aug. 18, 1990\].”
 
+#### Bulk Fuel Storage Tanks
+
+Pub. L. 105–277, div. A, §101(g) \[title III, §329(a), (b)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–470, provided that:
+
+“(a)
+
+Transfer of Funds.—Notwithstanding any other provision of law, the remainder of the balance inthe Trans-Alaska Pipeline Liability Fund that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 (43 U.S.C. 1653 note) after June 16, 1998 shall be used in accordance with this section.
+
+“(b)
+
+Use of Interest Only.—The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[Pub. L. 101–380\] (43 U.S.C. 1653 note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to be developed in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], or State law.”
+
 #### Disposition of Fund Balance
 
-Section 8102(a)(2) of Pub. L. 101–380 provided that:
+Section 8102(a)(2) of Pub. L. 101–380, as amended by Pub. L. 105–277, div. A, §101(g) \[title III, §329(c)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–471, provided that:
 
 “(A)
 
-Reservation of amounts.—The trustees of the Trans-Alaska Pipeline Liability Fund (hereafter in thissubsection referred to as the ‘TAPS Fund’) shall reserve the following amounts in the TAPS Fund—
+Reservation of amounts.—The trustees of the Trans-Alaska Pipeline Liability Fund (hereafter in this subsection referred to as the ‘TAPS Fund’) shall reserve the following amounts in the TAPS Fund—
 
 &emsp;“(i) necessary to pay claims arising under section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)); and
 
@@ -136,7 +148,7 @@ Reservation of amounts.—The trustees of the Trans-Alaska Pipeline Liability Fu
 
 Disposition of the balance.—After the Comptroller General of the United States certifies that the requirements of subparagraph (A) have been met, the trustees of the TAPS Fund shall dispose of the balance in the TAPS Fund after the reservation of amounts are made under subparagraph (A) by—
 
-&emsp;“(i) rebating the pro rata share of the balance to the State of Alaska for its contributions as an owner of oil; and then
+&emsp;“(i) rebating the pro rata share of the balance to the State of Alaska for its contributions as an owner of oil, which, except as otherwise provided under article IX, section 15, of the Alaska Constitution, shall be used for the remediation of above-ground storage tanks; and then
 
 &emsp;“(ii) transferring and depositing the remainder of the balance into the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509).
 

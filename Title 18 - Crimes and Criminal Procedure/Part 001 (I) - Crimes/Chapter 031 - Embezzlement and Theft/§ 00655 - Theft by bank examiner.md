@@ -4,7 +4,7 @@ Whoever, being a bank examiner or assistant examiner, steals, or unlawfully take
 
 This section shall apply to all public examiners and assistant examiners who examine member banks of the Federal Reserve System, banks the deposits of which are insured by the Federal Deposit Insurance Corporation, branches or agencies of foreign banks (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), or organizations operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act, whether appointed by the Comptroller of the Currency, by the Board of Governors of the Federal Reserve System, by a Federal Reserve Agent, by a Federal Reserve bank, or by the Federal Deposit Insurance Corporation, or appointed or elected under the laws of any State; but shall not apply to private examiners or assistant examiners employed only by a clearing-house association or by the directors of a bank.
 
-(June 25, 1948, ch. 645, 62 Stat. 728; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(e), 104 Stat. 4909; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 728; Pub. L. 101–647, title XXV, §2597(e), Nov. 29, 1990, 104 Stat. 4909; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

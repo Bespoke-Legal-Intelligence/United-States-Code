@@ -82,31 +82,39 @@ As used in this section—
 
 &emsp;(1) the term “advanced-technology” includes advanced technical activities such as the modernization, miniaturization, integration, and computerization of electronic, hydraulic, pneumatic, laser, nuclear, chemical, telecommunication, fiber optic, robotic, and other technological applications to enhance productivity improvements in manufacturing, communication, transportation, commercial, and similar economic and national security activities;
 
-&emsp;(2) the term “associate-degree-granting college” means an institution of higher education (as determined under section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))) that—
+&emsp;(2) the term “associate-degree-granting college” means an institution of higher education (as determined under section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\]) that—
 
 &emsp;&emsp;(A) is a nonprofit institution that offers a 2-year associate-degree program or a 2-year certificate program; or
 
 &emsp;&emsp;(B) is a proprietary institution that offers a 2-year associate-degree program;
 
-&emsp;(3) the term “bachelor-degree-granting institution” means an institution of higher education (as determined under section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))) that offers a baccalaureate degree program;
+&emsp;(3) the term “bachelor-degree-granting institution” means an institution of higher education (as determined under section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\]) that offers a baccalaureate degree program;
 
 &emsp;(4) the term “eligible partnership” means one or more associate-degree-granting colleges in partnership with one or more separate bachelor-degree-granting institutions; and
 
 &emsp;(5) the term “local educational agency” has the meaning given such term in section 2891(12) <sup>1</sup> of title 20.
 
-(Pub. L. 102–476, §3, Oct. 23, 1992, 106 Stat. 2297.)
+(Pub. L. 102–476, §3, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 105–244, title I, §102(a)(13)(B), Oct. 7, 1998, 112 Stat. 1620.)
 
 #### References in Text
 
 Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (f), was in the original “this Act”, meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended section 1862 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 8801 of Title 20.
+Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 8801 of Title 20, Education.
 
 #### Codification
 
 Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+1998—Subsec. (g)(2), (3). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

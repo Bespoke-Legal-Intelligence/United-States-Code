@@ -2,7 +2,7 @@
 
 #### (a) Congressional recognition and statement of purpose; authority of President; scope of assistance
 
-The Congress recognizes that prompt United States assistance is necessary to alleviate the human suffering arising from famine and disease in Cambodia. Accordingly, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for disaster relief to alleviate the suffering of the victims of famine and disease in Cambodia. Assistance provided under this section shall be for humanitarian purposes and limited to the civilian population, with emphasis on providing food, medicine and medical care, clothing, temporary shelter, transportation for emergency supplies and personnel, and similar assistance to save human lives.
+The Congress recognizes that prompt United States assistance is necessary to alleviate thehuman suffering arising from famine and disease in Cambodia. Accordingly, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for disaster relief to alleviate the suffering of the victims of famine and disease in Cambodia. Assistance provided under this section shall be for humanitarian purposes and limited to the civilian population, with emphasis on providing food, medicine and medical care, clothing, temporary shelter, transportation for emergency supplies and personnel, and similar assistance to save human lives.
 
 #### (b) Assistance through international agencies and private voluntary organizations
 
@@ -39,8 +39,4 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in su
 #### Amendments
 
 1981—Subsec. (c)(2). Pub. L. 97–113 repealed par. (2) which required a Presidential report to Congress no later than 90 days after Nov. 13, 1979, on provision of Cambodian Disaster Relief Assistance.
-
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

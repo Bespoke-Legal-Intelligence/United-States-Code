@@ -86,7 +86,7 @@ Recognition of Child Support Orders.—If 1 or more child support orders have be
 
 &emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
 
-&emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current homeState of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
+&emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
 
 &emsp;(4) If 2 or more courts have issued child support orders for the same obligor and child, and none of the courts would have continuing, exclusive jurisdiction under this section, a court having jurisdiction over the parties shall issue a child support order, which must be recognized.
 
@@ -120,11 +120,11 @@ Registration for Modification.—If there is no individual contestant or child r
 
 #### Amendments
 
-<b>1997</b>—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+1997—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
 
 Subsec. (f)(5). Pub. L. 105–33, §5554(2), inserted “under subsection (d)” after “jurisdiction”.
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
+1996—Subsec. (a)(2). Pub. L. 104–193, §322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
 
 Subsec. (b). Pub. L. 104–193, §322(2), inserted par. defining “child's home State”.
 
@@ -154,7 +154,7 @@ Subsec. (i). Pub. L. 104–193, §322(13), added subsec. (i).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective as if included in enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–33 effective as if included in enactment of title III of the Personal Responsibilityand Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1996 Amendment
 

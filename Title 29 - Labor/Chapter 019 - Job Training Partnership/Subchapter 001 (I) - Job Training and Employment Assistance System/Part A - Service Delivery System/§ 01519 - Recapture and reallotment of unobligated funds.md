@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;For program years beginning on or after July 1, 1993, the Secretary shall, in accordance with the requirements of this subsection, reallot to eligible States funds appropriated for such program year that are available for reallotment.
+&emsp;For program years beginning on or after July 1, 1993, the Secretary shall, in accordance with the requirements of this subsection,reallot to eligible States funds appropriated for such program year that are available for reallotment.
 
 #### (2) Amount
 
@@ -46,9 +46,13 @@ Funds obligated to carry out programs under section 1604(d) of this title shall 
 
 (Pub. L. 97–300, title I, §109, as added Pub. L. 102–367, title I, §118, Sept. 7, 1992, 106 Stat. 1036.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Effective Date
 
-Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992Amendment; Transition Provisions note under section 1501 of this title.
+Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367, set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
 
 #### Section Referred to in Other Sections
 

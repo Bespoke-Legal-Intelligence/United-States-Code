@@ -124,7 +124,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 (1) Each construction contract requested, approved, or awarded under this subchapter, shall be subject to—
 
-&emsp;(A) except as otherwise provided in this subchapter, the provisions of this subchapter, other than sections 450f(a)(2), 450j–1(<i>l</i>), 450<i>l</i> and 450m of this title; and
+&emsp;(A) except as otherwise provided in this subchapter, the provisions of this subchapter, other than sections 450f(a)(2), 450j–1(<i>l</i>),<sup>2</sup> 450<i>l</i> and 450m of this title; and
 
 &emsp;(B) section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (104 Stat. 1959).
 
@@ -136,7 +136,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(B) A joint scoping session between the Secretary and the tribe or tribal organization to review all plans, specifications, engineering reports, cost estimates, and other information available to the parties, for the purpose of identifying all areas of agreement and disagreement.
 
-&emsp;(C) An opportunity for the Secretary to revise the plans, designs, or cost estimates of the Secretary in response to concerns raised, or information provided by, the tribe or tribal organization.
+&emsp;(C) An opportunity for the Secretary to revise the plans, designs, or cost estimates ofthe Secretary in response to concerns raised, or information provided by, the tribe or tribal organization.
 
 &emsp;(D) A negotiation session during which the Secretary and the tribe or tribal organization shall seek to develop a mutually agreeable contract proposal.
 
@@ -162,7 +162,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(iv) In the case of a fixed-price contract, a fair profit determined by taking into consideration the relevant risks and local market conditions.
 
-&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity foran appeal pursuant to section 450f(b) of this title).
+&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity for an appeal pursuant to section 450f(b) of this title).
 
 #### (n) Rental rates for housing for Government employees in Alaska
 
@@ -191,6 +191,8 @@ The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85�
 Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
 
 This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+Section 450j–1(<i>l</i>) of this title, referred to in subsec. (m)(1)(A), was redesignated section 450j–1(k) of this title by Pub. L. 105–362, title VIII, §801(g)(2), Nov. 10, 1998, 112 Stat. 3288.
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in subsec. (m)(1)(B), is section 314 of Pub. L. 101–512, which is set out as a note under section 450f of this title.
 
@@ -241,6 +243,10 @@ Subsec. (f). Pub. L. 100–472, §204(e), added subsec. (f). Former subsec. (f) 
 Subsec. (g). Pub. L. 100–472, §204(f), redesignated former subsec. (f) as (g) and substituted “section 450f” for “sections 450f and 450g”. Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) as (h), substituted “sections 450f and 450h” for “sections 450f, 450g, and 450h”, and “Health and Human Services” for “Health, Education, and Welfare”. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out.
+
+#### Continued Availability of Certain Funds
+
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[25 U.S.C. 450f et seq.\] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A \[probably means prior versions of 25 U.S.C. 2001 and 2008a\]) shall remain available until expended by the contractor or grantee”.
 
 #### Section Referred to in Other Sections
 

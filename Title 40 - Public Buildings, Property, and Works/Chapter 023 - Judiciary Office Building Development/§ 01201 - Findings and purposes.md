@@ -28,7 +28,7 @@ The purposes of this chapter are as follows:
 
 #### References in Text
 
-The Union Station Redevelopment Act, referred to in subsec. (a)(4), probably means the Union Station Redevelopment Act of 1981, Pub. L. 97–125, Dec. 29, 1981, 95 Stat. 1667, as amended, which is classified principally to part B (§811 et seq.) of subchapter I of chapter 18 ofthis title. For complete classification of this Act to the Code, see Short Title of 1981 Amendment note set out under section 801 of this title and Tables.
+The Union Station Redevelopment Act, referred to in subsec. (a)(4), probably means the Union Station Redevelopment Act of 1981, Pub. L. 97–125, Dec. 29, 1981, 95 Stat. 1667, as amended, which is classified principally to part B (§811 et seq.) of subchapter I of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title of 1981 Amendment note set out under section 801 of this title and Tables.
 
 Act of December 28, 1985, referred to in subsec. (b)(1), is Pub. L. 99–229, Dec. 28, 1985, 99 Stat. 1749, which is not classified to the Code.
 

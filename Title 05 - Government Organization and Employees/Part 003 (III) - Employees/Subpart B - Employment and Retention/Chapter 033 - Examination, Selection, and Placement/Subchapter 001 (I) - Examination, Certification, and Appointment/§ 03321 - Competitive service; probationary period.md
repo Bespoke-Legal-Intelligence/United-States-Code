@@ -52,5 +52,5 @@ President's power to grant exceptions from provisions of this section, see secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3302, 4303, 7512 of this title.
+This section is referred to in sections 3302, 4303, 7512, 9510 of this title.
 

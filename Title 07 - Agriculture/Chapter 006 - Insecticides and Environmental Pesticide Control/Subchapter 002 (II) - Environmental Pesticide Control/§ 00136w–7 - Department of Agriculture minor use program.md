@@ -26,7 +26,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the “
 
 #### (C) Data ownership
 
-&emsp;&emsp;Any data that is developed under a grant under subparagraph (A) shall be jointly owned by the Department of Agriculture and the person who received the grant. Such a person shall enter into an agreement with the Secretary under which such person shall share any fee paid to such person under section 136a(c)(1)(F) of this title.
+&emsp;&emsp;Any data that is developed under a grant under subparagraph (A) shall be jointlyowned by the Department of Agriculture and the person who received the grant. Such a person shall enter into an agreement with the Secretary under which such person shall share any fee paid to such person under section 136a(c)(1)(F) of this title.
 
 #### (2) Minor Use Pesticide Data Revolving Fund
 
@@ -46,7 +46,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the “
 
 &emsp;&emsp;There are authorized to be appropriated for each fiscal year to carry out the purposes of this subsection $10,000,000 to remain available until expended.
 
-(June 25, 1947, ch. 125, §32, as added Aug. 3, 1996, Pub. L. 104–170, title II, §210(j), 110 Stat. 1501.)
+(June 25, 1947, ch. 125, §32, as added Pub. L. 104–170, title II, §210(j), Aug. 3, 1996, 110 Stat. 1501.)
 
 #### References in Text
 

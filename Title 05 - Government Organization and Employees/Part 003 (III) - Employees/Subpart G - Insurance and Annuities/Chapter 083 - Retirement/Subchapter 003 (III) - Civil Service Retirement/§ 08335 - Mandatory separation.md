@@ -2,7 +2,7 @@
 
 (a) An air traffic controller shall be separated from the service on the last day of the month in which he becomes 56 years of age. The Secretary, under such regulations as he may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires.
 
-(b) A firefighter who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age. A law enforcement officer who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer becomes 57 years of age or completes 20 years of service if then over that age. The head of the agency, when in his judgment the public interest so requires, may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
+(b) A firefighter who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age. A law enforcement officer or nuclear materials courier who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer or courier, as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. The head of the agency, when in his judgment the public interest so requires, may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
 (c) An employee of the Alaska Railroad in Alaska and an employee who is a citizen of the United States employed on the Isthmus of Panama by the Panama Canal Commission, who becomes 62 years of age and completes 15 years of service in Alaska or on the Isthmus of Panama shall be automatically separated from the service. The separation is effective on the last day of the month in which the employee becomes age 62 or completes 15 years of service in Alaska or on the Isthmus of Panama if then over that age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
@@ -10,7 +10,7 @@
 
 (e) The President, by Executive order, may exempt an employee (other than a member of the Capitol Police) from automatic separation under this section when he determines the public interest so requires.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 92–297, §4, May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §4, July 12, 1974, 88 Stat. 356; Pub. L. 95–256, §5(c), Apr. 6, 1978, 92 Stat. 191; Pub. L. 96–70, title III, §3302(e)(3), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 101–428, §2(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–509, title V, §529 \[title IV, §409(a)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(60), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(a), July 22, 1994, 108 Stat. 1441.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 92–297, §4, May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §4, July 12, 1974, 88 Stat. 356; Pub. L. 95–256, §5(c), Apr. 6, 1978, 92 Stat. 191; Pub. L. 96–70, title III, §3302(e)(3), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 101–428, §2(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–509, title V, §529 \[title IV, §409(a)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(60), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(a), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(d), Oct. 17, 1998, 112 Stat. 2255.)
 
 Historical and Revision Notes
 
@@ -36,6 +36,8 @@ For definition of Secretary, referred to in subsec. (a), see section 2109 of thi
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–261, in second sentence, inserted “or nuclear materials courier” after “law enforcement officer” and “or courier, as the case may be,” after “that officer”.
+
 1994—Subsec. (d). Pub. L. 103–283 substituted “57” for “55” in first sentence.
 
 1992—Subsec. (b). Pub. L. 102–378 amended first sentence generally. Prior to amendment, first sentence read as follows: “A firefighter who is otherwise eligible for immediate retirement under section 8336(c) of this title shall be separated from the service on the last day of the month in which he becomes 55 years of age or completes 20 years of service if then over that age.”
@@ -60,7 +62,7 @@ Subsec. (b). Pub. L. 95–256, §5(c)(1), (2), redesignated subsec. (g) as (b). 
 
 Subsec. (c). Pub. L. 95–256, §5(c)(1), (3), added subsec. (c) relating to provisions covered by former subsec. (e). Former subsec. (c), relating to exemption of an employee from automatic separation by President, was struck out. See subsec. (d).
 
-Subsec. (d). Pub. L. 95–256, §5(c)(1), (3), added subsec. (d). Former subsec. (d), relating to inapplicability of automatic separation provisions of this section, was struck out.
+Subsec. (d). Pub. L. 95–256, §5(c)(1), (3), added subsec. (d). Former subsec. (d), relating to inapplicability ofautomatic separation provisions of this section, was struck out.
 
 Subsec. (e). Pub. L. 95–256, §5(c)(1), struck out subsec. (e) which related to applicability of provisions to employees of Alaskan Railroad, Panama Canal Company, and Canal Zone Government. See subsec. (c).
 
@@ -69,6 +71,10 @@ Subsecs. (f), (g). Pub. L. 95–256, §5(c)(2), redesignated subsecs. (f) and (g
 1974—Subsec. (g). Pub. L. 93–350 added subsec. (g).
 
 1972—Subsec. (f). Pub. L. 92–297 added subsec. (f).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 effective 1 year after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1992 Amendment
 

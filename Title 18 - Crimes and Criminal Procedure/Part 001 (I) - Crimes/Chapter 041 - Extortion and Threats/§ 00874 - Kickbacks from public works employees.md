@@ -2,7 +2,7 @@
 
 Whoever, by force, intimidation, or threat of procuring dismissal from employment, or by any other manner whatsoever induces any person employed in the construction, prosecution, completion or repair of any public building, public work, or building or work financed in whole or in part by loans or grants from the United States, to give up any part of the compensation to which he is entitled under his contract of employment, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 740; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 740; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

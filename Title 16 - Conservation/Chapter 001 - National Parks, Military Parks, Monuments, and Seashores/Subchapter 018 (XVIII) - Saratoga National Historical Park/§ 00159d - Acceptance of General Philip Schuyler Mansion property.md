@@ -2,7 +2,7 @@
 
 The Secretary of the Interior is authorized to accept all or any portion of the General Philip Schuyler Mansion property, real and personal, situated at Schuylerville, New York, comprising approximately fifty acres.
 
-(June 22, 1948, ch. 594, §2, 62 Stat. 571; Jan. 12, 1983, Pub. L. 97–460, §3, 96 Stat. 2522.)
+(June 22, 1948, ch. 594, §2, 62 Stat. 571; Pub. L. 97–460, §3, Jan. 12, 1983, 96 Stat. 2522.)
 
 #### Amendments
 

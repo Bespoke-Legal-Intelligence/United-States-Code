@@ -16,13 +16,13 @@
 
 &emsp;(E) to assist the State in paying all or part of the cost to the State of conducting background checks on persons who are employed by or volunteer with a public, not-for-profit, or voluntary qualified entity to reduce the amount of fees charged for such background checks.
 
-(2) There are authorized to be appropriated for grants under paragraph (1) a total of $20,000,000 for fiscal years 1994, 1995, 1996, and 1997.
+(2) There are authorized to be appropriated for grants under paragraph (1) a total of $20,000,000 for fiscal years 1999, 2000, 2001, and 2002.
 
 #### (c) Withholding State funds
 
-Effective 1 year after December 20, 1993, the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3701 et seq.\] that is not in compliance with the requirements of this subchapter.
+Effective 1 year after December 20, 1993, the Attorney General may reduce, by up to 10 percent, the allocation to a State for a fiscal year under title I of the Omnibus Crime Control andSafe Streets Act of 1968 \[42 U.S.C. 3701 et seq.\] that is not in compliance with the requirements of this subchapter.
 
-(Pub. L. 103–209, §4, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(d), Sept. 13, 1994, 108 Stat. 2132.)
+(Pub. L. 103–209, §4, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(d), Sept. 13, 1994, 108 Stat. 2132; Pub. L. 105–251, title II, §222(c), Oct. 9, 1998, 112 Stat. 1885.)
 
 #### References in Text
 
@@ -33,6 +33,8 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 Section is comprised of section 4 of Pub. L. 103–209. Subsec. (a) of section 4 of Pub. L. 103–209 amended section 3759(b) of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–251 substituted “1999, 2000, 2001, and 2002” for “1994, 1995, 1996, and 1997”.
 
 1994—Subsec. (b)(1)(E). Pub. L. 103–322, which directed the amendment of subsec. (b) by adding subpar. (E) at the end, was executed by adding subpar. (E) at the end of par. (1) of subsec. (b) to reflect the probable intent of Congress.
 

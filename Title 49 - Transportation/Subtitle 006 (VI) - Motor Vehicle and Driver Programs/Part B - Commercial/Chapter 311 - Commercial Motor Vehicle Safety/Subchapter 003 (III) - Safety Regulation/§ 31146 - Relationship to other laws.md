@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Oct. 30, 1984, Pub. L. 98–554, §221, 98 Stat. 2846.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31102 of this title.
-

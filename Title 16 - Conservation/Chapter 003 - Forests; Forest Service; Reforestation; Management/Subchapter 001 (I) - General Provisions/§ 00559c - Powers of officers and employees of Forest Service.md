@@ -26,7 +26,7 @@ Par. (3). Pub. L. 100–690, §6254(b)(3), inserted “, for offenses committed
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559b, 559d of this title.
+This section is referred to in sections 460<i>lll</i>–12, 559b, 559d of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

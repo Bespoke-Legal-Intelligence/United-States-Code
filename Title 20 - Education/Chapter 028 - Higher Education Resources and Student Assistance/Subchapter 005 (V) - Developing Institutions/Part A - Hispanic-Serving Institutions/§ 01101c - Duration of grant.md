@@ -1,0 +1,28 @@
+### §1101c. Duration of grant
+
+#### (a) Award period
+
+#### (1) In general
+
+&emsp;The Secretary may award a grant to a Hispanic-serving institution under this subchapter for 5 years.
+
+#### (2) Waitout period
+
+&emsp;A Hispanic-serving institution shall not be eligible to secure a subsequent 5-year grant award under this subchapter until 2 years have elapsed since the expiration of the institution's most recent 5-year grant award under this subchapter, except that for the purpose of this subsection a grant under section 1103c(a) of this title shall not be considered a grant under this subchapter.
+
+#### (b) Planning grants
+
+Notwithstanding subsection (a) of this section, the Secretary may award a grant to a Hispanic-serving institution under this subchapter for a period of 1 year for the purpose of preparation of plans and applications for a grant under this subchapter.
+
+(Pub. L. 89–329, title V, §504, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1769.)
+
+#### Prior Provisions
+
+A prior section 504 of Pub. L. 89–329 was classified to section 1102c of this title prior to the general amendment of this subchapter by Pub. L. 105–244.
+
+Another prior section 504 of Pub. L. 89–329 was classified to section 1091c of this title prior to repeal by Pub. L. 94–482.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1101b of this title.
+

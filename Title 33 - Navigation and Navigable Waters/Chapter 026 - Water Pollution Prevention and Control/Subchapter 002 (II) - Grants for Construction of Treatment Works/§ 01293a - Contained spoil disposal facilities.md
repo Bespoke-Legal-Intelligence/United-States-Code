@@ -10,7 +10,7 @@ The Secretary of the Army, acting through the Chief of Engineers, shall establis
 
 #### (c) Written agreement requirement; terms of agreement
 
-Prior to construction of any such facility, the appropriate State or States, interstate agency, municipality, or other appropriate political subdivision of the State shall agree in writing to (1) furnish all lands, easements, and rights-of-way necessary for the construction, operation, and maintenance of the facility; (2) contribute to the United States 25 per centum of the construction costs, such amount to be payable either in cash prior to construction, in installments during construction, or in installments, with interest at a rate to be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due or callable for redemption for fifteen years from date of issue; (3) hold and save the United States free from damages due to construction, operation, and maintenance of the facility; and (4) except as provided in subsection (f) of this section, maintain the facility after completion of its use for disposal purposes in a manner satisfactory to the Secretary of the Army.
+Prior to construction of any such facility, the appropriate State or States, interstate agency, municipality, or other appropriate political subdivision of the State shall agree in writing to (1) furnish all lands, easements, and rights-of-way necessary for the construction, operation, and maintenance of the facility; (2) contribute to the United States 25 per centum of the construction costs, such amount to be payable either in cash prior to construction, in installments during construction, or in installments, with interestat a rate to be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due or callable for redemption for fifteen years from date of issue; (3) hold and save the United States free from damages due to construction, operation, and maintenance of the facility; and (4) except as provided in subsection (f) of this section, maintain the facility after completion of its use for disposal purposes in a manner satisfactory to the Secretary of the Army.
 
 #### (d) Waiver of construction costs contribution from non-Federal interests; findings of participation in waste treatment facilities for general geographical area and compliance with water quality standards; waiver of payments in event of written agreement before occurrence of findings
 
@@ -34,7 +34,7 @@ This section, other than subsection (i), shall be applicable only to the Great L
 
 #### (i) Research, study, and experimentation program relating to dredged spoil extended to navigable waters, etc.; cooperative program; scope of program; utilization of facilities and personnel of Federal agency
 
-The Chief of Engineers, under the direction of the Secretary of the Army, is hereby authorized to extend to all navigable waters, connecting channels, tributary streams, other waters of the United States and waters contiguous to theUnited States, a comprehensive program of research, study, and experimentation relating to dredged spoil. This program shall be carried out in cooperation with other Federal and State agencies, and shall include, but not be limited to, investigations on the characteristics of dredged spoil, and alternative methods of its disposal. To the extent that such study shall include the effects of such dredge spoil on water quality, the facilities and personnel of the Environmental Protection Agency shall be utilized.
+The Chief of Engineers, under the direction of the Secretary of the Army, is hereby authorized to extend to all navigable waters, connecting channels, tributary streams, other waters of the United States and waters contiguous to the United States, a comprehensive program of research, study, and experimentation relating to dredged spoil. This program shall be carried out in cooperation with other Federal and State agencies, and shall include, but not be limited to, investigations on the characteristics of dredged spoil, and alternative methods of its disposal. To the extent that such study shall include the effects of such dredge spoil on water quality, the facilities and personnel of the Environmental Protection Agency shall be utilized.
 
 #### (j) Period for depositing dredged materials
 
@@ -52,7 +52,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (3) Inspection and monitoring program
 
-&emsp;The Secretary shall conduct a program to inspect and monitor contained spoil disposal facilities constructed under this section for the purpose of determining whether or not toxic pollutants are leaking from such facilities.
+&emsp;The Secretary shall conduct a program to inspect and monitor contained spoil disposal facilities constructed under this section forthe purpose of determining whether or not toxic pollutants are leaking from such facilities.
 
 #### (4) Toxic pollutant defined
 

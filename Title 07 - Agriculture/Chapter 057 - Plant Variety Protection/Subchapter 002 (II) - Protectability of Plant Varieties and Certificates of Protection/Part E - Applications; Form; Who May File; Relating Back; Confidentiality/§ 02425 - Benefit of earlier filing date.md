@@ -14,7 +14,7 @@
 
 (b) An application for a certificate of plant variety protection for the same variety as was the subject of an application previously filed in the United States by or on behalf of the same person, or by the predecessor in title of the person, shall have the same effect as to such variety as though filed on the date of the prior application if filed before the issuance of the certificate or other termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application.
 
-(c) A later application shall not by itself establish that a characteristic newly described was in the variety at the time of the earlier application.
+(c) A later application shall not by itself establish that a characteristic newly describedwas in the variety at the time of the earlier application.
 
 (Pub. L. 91–577, title II, §55, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, §§5, 13(i), Oct. 6, 1994, 108 Stat. 3139, 3143.)
 

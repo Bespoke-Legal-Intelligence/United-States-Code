@@ -140,7 +140,7 @@
 
 Notwithstanding any other provision of this part, the Secretary, in carrying out section 300ff–11(a) of this title, may not make any grant under subsection (a) or (b) of this section to an eligible area unless the application submitted by such area under section 300ff–15 of this title for the grant involved demonstrates that the grants made under subsections (a) and (b) of this section to the area for the preceding fiscal year (if any) were expended in accordance with the priorities applicable to such year that were established, pursuant to section 300ff–12(b)(3)(A) <sup>2</sup> of this title, by the planning council serving the area.
 
-(July 1, 1944, ch. 373, title XXVI, §2603, as added Aug. 18, 1990, Pub. L. 101–381, title I, §101(3), 104Stat. 578; amended Nov. 3, 1990, Pub. L. 101–502, §6(a), 104 Stat. 1289; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(27), 106 Stat. 3506; May 20, 1996, Pub. L. 104–146, §§3(b)(2), (3), 4, 6(c)(1), 12(c)(2), 110 Stat. 1349, 1350, 1364, 1367, 1373.)
+(July 1, 1944, ch. 373, title XXVI, §2603, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 578; amended Pub. L. 101–502, §6(a), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–531, title III, §312(d)(27), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(b)(2), (3), 4, 6(c)(1), 12(c)(2), May 20, 1996, 110 Stat. 1349, 1350, 1364, 1367, 1373.)
 
 #### References in Text
 

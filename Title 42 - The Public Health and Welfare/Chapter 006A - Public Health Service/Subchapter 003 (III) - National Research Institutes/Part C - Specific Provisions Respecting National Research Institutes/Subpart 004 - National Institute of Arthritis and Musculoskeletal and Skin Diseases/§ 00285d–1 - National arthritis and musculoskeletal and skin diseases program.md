@@ -22,7 +22,7 @@ Activities under the national arthritis and musculoskeletal and skin diseases pr
 
 The Director of the Institute shall carry out the national arthritis and musculoskeletal and skin diseases program in accordance with the plan prepared under subsection (a) of this section and any revisions of such plan made under such subsection.
 
-(July 1, 1944, ch. 373, title IV, §436, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 848; amended Nov. 4, 1988, Pub. L. 100–607, title I, §136, 102 Stat. 3056; June 10, 1993, Pub. L. 103–43, title VII, §701(b), 107 Stat. 162.)
+(July 1, 1944, ch. 373, title IV, §436, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 848; amended Pub. L. 100–607, title I, §136, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 103–43, title VII, §701(b), June 10, 1993, 107 Stat. 162.)
 
 #### Amendments
 

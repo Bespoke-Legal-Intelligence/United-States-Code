@@ -12,7 +12,7 @@ If a State does not provide the certification required under subsection (a) of t
 
 #### (1) In general
 
-&emsp;If a State provides the certification required in subsection (a) of this section and is receiving funds under this part for a fiscal year, the Secretary may (from the amounts available pursuant to paragraph (2)) make a grant to the State for the fiscal year for the following purposes:
+&emsp;If a State provides the certification required in subsection (a) of this section and is receiving funds under this part for a fiscal year, the Secretary may (from the amounts available pursuant to paragraph (2)) make a grant to theState for the fiscal year for the following purposes:
 
 &emsp;&emsp;(A) Making available to pregnant women appropriate counseling on HIV disease.
 
@@ -32,7 +32,7 @@ If a State does not provide the certification required under subsection (a) of t
 
 &emsp;In awarding grants under this subsection the Secretary shall give priority to States that have the greatest proportion of HIV seroprevalance among child bearing women using the most recent data available as determined by the Centers for Disease Control and Prevention.
 
-(July 1, 1944, ch. 373, title XXVI, §2625, as added May 20, 1996, Pub. L. 104–146, §7(b)(3), 110 Stat. 1369.)
+(July 1, 1944, ch. 373, title XXVI, §2625, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat. 1369.)
 
 #### Effective Date
 

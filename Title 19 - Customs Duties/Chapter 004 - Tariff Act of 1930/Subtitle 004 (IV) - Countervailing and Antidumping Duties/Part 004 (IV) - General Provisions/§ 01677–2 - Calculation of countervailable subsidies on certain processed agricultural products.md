@@ -8,7 +8,7 @@ In the case of an agricultural product processed from a raw agricultural product
 
 > countervailable subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.
 
-(June 17, 1930, ch. 497, title VII, §771B, as added Aug. 23, 1988, Pub. L. 100–418, title I, §1313(a), 102 Stat. 1185; amended Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(4), 102 Stat. 3806; Dec. 8, 1994, Pub. L. 103–465, title II, §270(b)(1)(D), (2), 108 Stat. 4917.)
+(June 17, 1930, ch. 497, title VII, §771B, as added Pub. L. 100–418, title I, §1313(a), Aug. 23, 1988, 102 Stat. 1185; amended Pub. L. 100–647, title IX, §9001(a)(4), Nov. 10, 1988, 102 Stat. 3806; Pub. L. 103–465, title II, §270(b)(1)(D), (2), Dec. 8, 1994, 108 Stat. 4917.)
 
 #### Amendments
 

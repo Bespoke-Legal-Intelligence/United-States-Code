@@ -26,7 +26,111 @@ In this chapter:
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Sale of Naval Petroleum Reserve
+#### Disposal of Naval Petroleum Reserves
+
+Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, provided that:
+
+#### “SEC. 3401. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1) The term ‘naval petroleum reserves’ has the meaning given the term in section 7420(2) of title 10, United States Code.
+
+&emsp;“(2) The term ‘Naval Petroleum Reserve Numbered 2’ means the naval petroleum reserve, commonly referred to as the Buena Vista unit, that is located in Kern County, California, and was established by Executive order of the President, dated December 13, 1912.
+
+&emsp;“(3) The term ‘Naval Petroleum Reserve Numbered 3’ means the naval petroleum reserve, commonly referred to as the Teapot Dome unit, that is located in the State of Wyoming and was established by Executive order of the President, dated April 30, 1915.
+
+&emsp;“(4) The term ‘Oil Shale Reserve Numbered 2’ means the naval petroleum reserve that is located in the State of Utah and was established by Executive order of the President, dated December 6, 1916.
+
+&emsp;“(5) The term ‘antitrust laws’ has the meaning given the term in section 1(a) of the Clayton Act (15 U.S.C. 12(a)), except that the term also includes—
+
+&emsp;&emsp;“(A) the Act of June 19, 1936 (15 U.S.C. 13 et seq.; commonly known as the Robinson-Patman Act); and
+
+&emsp;&emsp;“(B) section 5 of the Federal Trade Commission Act (15 U.S.C. 45), to the extent that such section applies to unfair methods of competition.
+
+&emsp;“(6) The term ‘petroleum’ has the meaning given the term in section 7420(3) of title 10, United States Code.
+
+#### “SEC. 3402. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+Amount.—There are hereby authorized to be appropriated to the Secretary of Energy $22,500,000 for fiscal year 1999 for the purpose of carrying out—
+
+&emsp;“(1) activities under chapter 641 of title 10, United States Code, relating to the naval petroleum reserves;
+
+&emsp;“(2) closeout activities at Naval Petroleum Reserve Numbered 1 upon the sale of that reserve under subtitle B of title XXXIV of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 7420 note); and
+
+&emsp;“(3) activities under this title relating to the disposition of Naval Petroleum Reserve Numbered 2, Naval Petroleum Reserve Numbered 3, and Oil Shale Reserve Numbered 2.
+
+“(b)
+
+Period of Availability.—Funds appropriated pursuant to the authorization of appropriations in subsection (a) shall remain available until expended.
+
+#### “SEC. 3403. DISPOSAL OF NAVAL PETROLEUM RESERVE NUMBERED 2.
+
+“(a)
+
+Disposal of Ford City Lots Authorized.—(1) Subject to section 3406, the Secretary of Energy may dispose of the portion of Naval Petroleum Reserve Numbered 2 that is located within the town lots in Ford City, California, which are identified as ‘Drill Sites Numbered 3A, 4, 6, 9A, 20, 22, 24, and 26’ and described in the document entitled ‘Ford City Drill Site Locations—NPR–2,’ and accompanying maps on file in the office of the Deputy Assistant Secretary for Naval Petroleum and Oil Shale Reserves of the Department of Energy.
+
+“(2) The Secretary of Energy shall carry out the disposal authorized by paragraph (1) by competitive sale or lease consistent with commercial practices, by transfer to another Federal agency or a public or private entity, or by such other means as the Secretary considers appropriate. Any competitive sale or lease under this subsection shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed. The Secretary of Energy may use the authority provided by the Act of June 14, 1926 (43 U.S.C. 869 et seq.; commonly known as the Recreation and Public Purposes Act), in the same manner and to the same extent as the Secretary of the Interior, to dispose of the portion of Naval Petroleum Reserve Numbered 2 described in paragraph (1).
+
+“(3) Section 2696(a) of title 10, United States Code, regarding the screening of real property for further Federal use before disposal, shall apply to the disposal authorized by paragraph (1).
+
+“(b)
+
+Transfer of Administrative Jurisdiction Authorized.—(1) The Secretary of Energy shall continue to administer Naval Petroleum Reserve Numbered 2 (other than the portion of the reserve authorized for disposal under subsection (a)) in accordance with chapter 641 of title 10, United States Code, until such time as the Secretary makes a determination to abandon oil and gas operations in Naval Petroleum Reserve Numbered 2 in accordance with commercial operating practices.
+
+“(2) After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 2, the Secretary of Energy may transfer to the Secretary of the Interior administrative jurisdiction and control over all public domain lands included within Naval Petroleum Reserve Numbered 2 (other than the portion of the reserve authorized for disposal under subsection (a)) for management in accordance with the general land laws.
+
+“(c)
+
+Relationship to Antitrust Laws.—This section does not modify, impair, or supersede the operation of the antitrust laws.
+
+#### “SEC. 3404. DISPOSAL OF NAVAL PETROLEUM RESERVE NUMBERED 3.
+
+“(a)
+
+Administration Pending Termination of Operations.—The Secretary of Energy shall continue to administer Naval Petroleum Reserve Numbered 3 in accordance with chapter 641 of title 10, United States Code, until such time as the Secretary makes a determination to abandon oil and gas operations in Naval Petroleum Reserve Numbered 3 in accordance with commercial operating practices.
+
+“(b)
+
+Disposal Authorized.—After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 3, the Secretary of Energy may dispose of the reserve as provided in this subsection. Subject to section 3406, the Secretary shall carry out any such disposal of the reserve by sale or lease or by transfer to another Federal agency. Any sale or lease shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed and shall be conducted in accordance with competitive procedures consistent with commercial practices, as established by the Secretary.
+
+“(c)
+
+Relationship to Antitrust Laws.—This section does not modify, impair, or supersede the operation of the antitrust laws.
+
+#### “SEC. 3405. DISPOSAL OF OIL SHALE RESERVE NUMBERED 2.
+
+“(a)
+
+Transfer of Administrative Jurisdiction Authorized.—Subject to section 3406, the Secretary of Energy may transfer to the Secretary of the Interior administrative jurisdiction and control over all public domain lands included within Oil Shale Reserve Numbered 2 for management in accordance with the general land laws.
+
+“(b)
+
+Relationship to Indian Reservation.—The transfer of administrative jurisdiction under this section does not affect any interest, right, or obligation respecting the Uintah and Ouray Indian Reservation located in Oil Shale Reserve Numbered 2.
+
+#### “SEC. 3406. ADMINISTRATION.
+
+“(a)
+
+Protection of Existing Rights.—At the discretion of the Secretary of Energy, the disposal of property under this title shall be subject to any contract related to the United States ownership interest in the property in effect at the time of disposal, including any lease agreement pertaining to the United States interest in Naval Petroleum Reserve Numbered 2.
+
+“(b)
+
+Deposit of Receipts.—Notwithstanding any other law, all monies received by the United States from the disposal of property under this title, including any monies received from a lease entered into under this title, shall be deposited in the general fund of the Treasury.
+
+“(c)
+
+Treatment of Royalties.—Any petroleum accruing to the United States as royalty from any lease of lands transferred under this title shall be delivered to the United States, or shall be paid for in money, as the Secretary of the Interior may elect.
+
+“(d)
+
+Elements of Lease.—A lease under this title may provide for the exploration for, and development and production of, petroleum, other than petroleum in the form of oil shale.
+
+“(e)
+
+Waiver of Requirements Regarding Consultation and Approval.—Section 7431 of title 10, United States Code, shall not apply to the disposal of property under this title.”
 
 Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, provided that:
 
@@ -44,7 +148,7 @@ Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631
 
 &emsp;“(5) The term ‘Secretary’ means the Secretary of Energy.
 
-&emsp;“(6) The term ‘appropriate congressional committees’ means the Committee on Armed Services of the Senate and the Committee on National Security and the Committee on Commerce of the House of Representatives.
+&emsp;“(6) The term ‘appropriate congressional committees’ means the Committee on Armed Services of the Senate and the Committee on National Security \[now Committee on Armed Services\] and the Committee on Commerce of the House of Representatives.
 
 #### “SEC. 3412. SALE OF NAVAL PETROLEUM RESERVE NUMBERED 1.
 
@@ -130,7 +234,7 @@ Acquisition of Services.—The Secretary may enter into contracts for the acquis
 
 Effect on Existing Contracts.—(1) In the case of any contract, in effect on the effective date, for the purchase of production from any part of the United States’ share of Naval Petroleum Reserve Numbered 1, the sale of the interest of the United States in the reserve shall be subject to the contract for a period of three months after the closing date of the sale or until termination of the contract, whichever occurs first. The term of any contract entered into after the effective date for the purchase of the production shall not exceed the anticipated closing date for the sale of the reserve.
 
-“(2) The Secretary shall exercise the termination procedures provided in the contract between the United States and Bechtel Petroleum Operation, Inc., ContractNumber DE–ACO1–85FE60520 so that the contract terminates not later than the date of closing of the sale of Naval Petroleum Reserve Numbered 1 under section 3412.
+“(2) The Secretary shall exercise the termination procedures provided in the contract between the United States and Bechtel Petroleum Operation, Inc., Contract Number DE–ACO1–85FE60520 so that the contract terminates not later than the date of closing of the sale of Naval Petroleum Reserve Numbered 1 under section 3412.
 
 “(3) The Secretary shall exercise the termination procedures provided in the unit plan contract so that the unit plan contract terminates not later than the date of closing of the sale of reserve.
 

@@ -2,7 +2,7 @@
 
 The purpose of this subpart is to enable the Secretary to provide a Federal program of student loan insurance for students in (and certain former students of) eligible institutions (as defined in section 292<i>o</i> of this title).
 
-(July 1, 1944, ch. 373, title VII, §701, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 1994.)
+(July 1, 1944, ch. 373, title VII, §701, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.)
 
 #### Prior Provisions
 
@@ -53,4 +53,8 @@ Certain Requirements.—The study conducted under subsection (a) shall determine
 “(c)
 
 Report.—Not later than January 1, 1994, the Comptroller General of the United States shall complete the study required in subsection (a) and submit to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the findings made as a result of the study and making such recommendations regarding the programs carried out under titles VII and VIII of the Public Health Service Act as the Comptroller General determines to be appropriate.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 295<i>o</i>–1 of this title.
 

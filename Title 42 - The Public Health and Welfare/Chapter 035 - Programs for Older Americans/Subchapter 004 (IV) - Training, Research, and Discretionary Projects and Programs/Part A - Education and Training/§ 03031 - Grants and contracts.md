@@ -28,7 +28,7 @@ In making grants and contracts under this part, the Assistant Secretary shall gi
 
 #### (d) Data on number of individuals to be trained and number of older individuals to be served
 
-In making grants or contracts under this part, the Assistant Secretary shall ensure that all projects and activities related to personnel training shall include specific data on the number of individuals to be trained and the number of older individuals to be served through such training activities by public and nonprofit agencies, State and area agencies on aging, institutions of higher education, and other organizations.
+In making grants or contracts under this part, the Assistant Secretary shall ensure that allprojects and activities related to personnel training shall include specific data on the number of individuals to be trained and the number of older individuals to be served through such training activities by public and nonprofit agencies, State and area agencies on aging, institutions of higher education, and other organizations.
 
 #### (e) Grants and contracts for training of service providers
 
@@ -54,7 +54,7 @@ From amounts appropriated under section 3037(b) of this title, the Assistant Sec
 
 #### Prior Provisions
 
-A prior section 3031, Pub. L. 89–73, title IV, §401, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat.45; amended Pub. L. 95–478, title I, §104(a)(1), Oct. 18, 1973, 92 Stat. 1537, related to Congressional statement of purpose in developing and implementing a national manpower policy for the field of aging, prior to the general amendment of this subchapter by Pub. L. 97–115.
+A prior section 3031, Pub. L. 89–73, title IV, §401, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45; amended Pub. L. 95–478, title I, §104(a)(1), Oct. 18, 1973, 92 Stat. 1537, related to Congressional statement of purpose in developing and implementing a national manpower policy for the field of aging, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 Another prior section 3031, Pub. L. 89–73, title IV, §401, July 14, 1965, 79 Stat. 224; Pub. L. 90–42, §5(b), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §7, Sept. 17, 1969, 83 Stat. 111, related to description of activities, prior to repeal by Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45.
 

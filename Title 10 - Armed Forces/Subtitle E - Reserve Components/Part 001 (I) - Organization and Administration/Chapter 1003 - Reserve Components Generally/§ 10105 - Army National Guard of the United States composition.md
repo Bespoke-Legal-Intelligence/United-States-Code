@@ -42,7 +42,7 @@ Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended b
 
 “(a)
 
-Additional Prior Active Duty Officers.—The Secretary of the Army shall increase the number of qualified prior active-duty officers in the Army National Guard by providing a program that permits the separation of officers on active duty with at least two, but less than three, years of active service upon condition that the officer is accepted for appointment in the Army National Guard. The Secretary shall have a goal of having not fewer than 150 officers become members of the Army National Guard each year under this section.
+Additional Prior Active Duty Officers.—The Secretary of the Army shall increase the number of qualified prior active-duty officers in the Army National Guard by providing a program that permits the separation of officers on active duty with at least two, but less than three, years of active service upon condition that the officer is accepted for appointment in the Army National Guard. The Secretary shall have a goal of having not fewer than 150 officers become membersof the Army National Guard each year under this section.
 
 “(b)
 
@@ -94,7 +94,7 @@ Availability of Training Positions.—The Secretary of the Army shall ensure tha
 
 “(a)
 
-Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwisenot available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
+Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
 
 “(b)
 
@@ -210,7 +210,7 @@ Requirement for Priority System.—The Secretary of the Army shall develop a sys
 
 “(b)
 
-Unit Deployment Designators.—The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to groupunits according to the timing of deployment after mobilization.
+Unit Deployment Designators.—The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to group units according to the timing of deployment after mobilization.
 
 “(c)
 

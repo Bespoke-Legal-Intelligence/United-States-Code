@@ -2,7 +2,7 @@
 
 The Secretary may mark for the protection of navigation any sunken vessel or other obstruction existing on the navigable waters or waters above the continental shelf of the United States in such manner and for so long as, in his judgment, the needs of maritime navigation require. The owner of such an obstruction shall be liable to the United States for the cost of such marking until such time as the obstruction is removed or its abandonment legally established or until such earlier time as the Secretary may determine. All moneys received by the United States from the owners of obstructions, in accordance with this section, shall be covered into the Treasury of the United States as miscellaneous receipts. This section shall not be construed so as to relieve the owner of any such obstruction from the duty and responsibility suitably to mark the same and remove it as required by law.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 501; Sept. 17, 1965, Pub. L. 89–191, 79 Stat. 822; May 14, 1974, Pub. L. 93–283, §1(3), 88 Stat. 139.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 89–191, Sept. 17, 1965, 79 Stat. 822; Pub. L. 93–283, §1(3), May 14, 1974, 88 Stat. 139.)
 
 #### Historical and Revision Notes
 

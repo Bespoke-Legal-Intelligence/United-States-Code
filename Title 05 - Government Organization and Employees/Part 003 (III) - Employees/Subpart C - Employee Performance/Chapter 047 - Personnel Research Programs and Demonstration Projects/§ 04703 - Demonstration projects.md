@@ -104,5 +104,5 @@ Pub. L. 104–97, §2, Jan. 11, 1996, 109 Stat. 984, provided that: “Notwithst
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5392 of this title.
+This section is referred to in sections 5392, 9507 of this title.
 

@@ -20,7 +20,7 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 1985—Subsec. (a). Pub. L. 99–83, §1209(b)(1), inserted reference to the Arms Export Control Act.
 
-Subsecs. (b), (c). Pub. L. 99–83, §1209(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), relating toreport to Congress prior to grant of assistance with excess funds, was struck out.
+Subsecs. (b), (c). Pub. L. 99–83, §1209(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), relating to report to Congress prior to grant of assistance with excess funds, was struck out.
 
 1978—Subsec. (b). Pub. L. 95–384 substituted in provisions preceding par. (1) in two places and in par. (2) “assistance under part IV of subchapter II of this chapter” for “security supporting assistance” and in provisions preceding par. (1) in two places “part VI of subchapter II” for “subchapter IV” and inserted in par. (2) “or assistance under part VI of subchapter II of this chapter” before “, the President includes”.
 
@@ -34,9 +34,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, in consultation with Director of Office of Management and Budget, by section 1–102(a)(1), (c), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under this section, insofar as they relate to part VIII of subchapter I of this chapter (§2291 et seq. of this title) and subchapter II of this chapter (§2301 et seq. of this title) delegated to Secretary of State, to be exercised in consultation with Secretary of Defense (insofar as they relate to functions under this chapter administered by Department of Defense) and Director of Office of Management and Budget, by section 1–201(a)(17), (c) of Ex. Ord. No. 12163.
+Functions of President under this section, insofar as they relate to part VIII of subchapter I of this chapter (§2291 et seq. of this title) and subchapter II of this chapter (§2301 et seq. of this title) delegated to Secretary of State, to be exercised in consultation with Secretary of Defense (insofar as they relate to functions under this chapter administered by Department of Defense) and Director of Office of Management and Budget, by section 1–201(a)(17), (c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

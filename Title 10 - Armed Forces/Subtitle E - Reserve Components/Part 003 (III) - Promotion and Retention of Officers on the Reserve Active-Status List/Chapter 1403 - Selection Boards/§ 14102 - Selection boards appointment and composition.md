@@ -26,5 +26,5 @@ Provisions similar to those in this section were contained in sections 3362(b), 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14502 of this title.
+This section is referred to in sections 14502, 14705 of this title.
 

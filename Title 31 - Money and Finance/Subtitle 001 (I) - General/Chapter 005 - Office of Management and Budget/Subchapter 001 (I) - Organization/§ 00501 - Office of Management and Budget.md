@@ -30,9 +30,191 @@ Pub. L. 104–53, title II, §211, Nov. 19, 1995, 109 Stat. 535, as amended by P
 
 For assignment of certain emergency preparedness functions to Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
+#### Federal Activities Inventory Reform
+
+Pub. L. 105–270, Oct. 19, 1998, 112 Stat. 2382, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Federal Activities Inventory Reform Act of 1998’.
+
+#### “SEC. 2. ANNUAL LISTS OF GOVERNMENT ACTIVITIES NOT INHERENTLY GOVERNMENTAL IN NATURE.
+
+“(a)
+
+Lists Required.—Not later than the end of the third quarter of each fiscal year, the head of each executive agency shall submit to the Director of the Office of Management and Budget a list of activities performed by Federal Government sources for the executive agency that, in the judgment of the head of the executive agency, are not inherently governmental functions. The entry for an activity on the list shall include the following:
+
+&emsp;“(1) The fiscal year for which the activity first appeared on a list prepared under this section.
+
+&emsp;“(2) The number of full-time employees (or its equivalent) that are necessary for the performance of the activity by a Federal Government source.
+
+&emsp;“(3) The name of a Federal Government employee responsible for the activity from whom additional information about the activity may be obtained.
+
+“(b)
+
+OMB Review and Consultation.—The Director of the Office of Management and Budget shall review the executive agency's list for a fiscal year and consult with the head of the executive agency regarding the content of the final list for that fiscal year.
+
+“(c)
+
+Public Availability of Lists.—
+
+&emsp;“(1)
+
+Publication.—Upon the completion of the review and consultation regarding a list of an executive agency—
+
+&emsp;&emsp;“(A) the head of the executive agency shall promptly transmit a copy of the list to Congress and make the list available to the public; and
+
+&emsp;&emsp;“(B) the Director of the Office of Management and Budget shall promptly publish in the Federal Register a notice that the list is available to the public.
+
+&emsp;“(2)
+
+Changes.—If the list changes after the publication of the notice as a result of the resolution of a challenge under section 3, the head of the executive agency shall promptly—
+
+&emsp;&emsp;“(A) make each such change available to the public and transmit a copy of the change to Congress; and
+
+&emsp;&emsp;“(B) publish in the Federal Register a notice that the change is available to the public.
+
+“(d)
+
+Competition Required.—Within a reasonable time after the date on which a notice of the publicavailability of a list is published under subsection (c), the head of the executive agency concerned shall review the activities on the list. Each time that the head of the executive agency considers contracting with a private sector source for the performance of such an activity, the head of the executive agency shall use a competitive process to select the source (except as may otherwise be provided in a law other than this Act, an Executive order, regulations, or any executive branch circular setting forth requirements or guidance that is issued by competent executive authority). The Director of the Office of Management and Budget shall issue guidance for the administration of this subsection.
+
+“(e)
+
+Realistic and Fair Cost Comparisons.—For the purpose of determining whether to contract with a source in the private sector for the performance of an executive agency activity on the list on the basis of a comparison of the costs of procuring services from such a source with the costs of performing that activity by the executive agency, the head of the executive agency shall ensure that all costs (including the costs of quality assurance, technical monitoring of the performance of such function, liability insurance, employee retirement and disability benefits, and all other overhead costs) are considered and that the costs considered are realistic and fair.
+
+#### “SEC. 3. CHALLENGES TO THE LIST.
+
+“(a)
+
+Challenge Authorized.—An interested party may submit to an executive agency a challenge of an omission of a particular activity from, or an inclusion of a particular activity on, a list for which a notice of public availability has been published under section 2.
+
+“(b)
+
+Interested Party Defined.—For the purposes of this section, the term ‘interested party’, with respect to an activity referred to in subsection (a), means the following:
+
+&emsp;“(1) A private sector source that—
+
+&emsp;&emsp;“(A) is an actual or prospective offeror for any contract, or other form of agreement, to perform the activity; and
+
+&emsp;&emsp;“(B) has a direct economic interest in performing the activity that would be adversely affected by a determination not to procure the performance of the activity from a private sector source.
+
+&emsp;“(2) A representative of any business or professional association that includes within its membership private sector sources referred to in paragraph (1).
+
+&emsp;“(3) An officer or employee of an organization within an executive agency that is an actual or prospective offeror to perform the activity.
+
+&emsp;“(4) The head of any labor organization referred to in section 7103(a)(4) of title 5, United States Code, that includes within its membership officers or employees of an organization referred to in paragraph (3).
+
+“(c)
+
+Time for Submission.—A challenge to a list shall be submitted to the executive agency concerned within 30 days after the publication of the notice of the public availability of the list under section 2.
+
+“(d)
+
+Initial Decision.—Within 28 days after an executive agency receives a challenge, an official designated by the head of the executive agency shall—
+
+&emsp;“(1) decide the challenge; and
+
+&emsp;“(2) transmit to the party submitting the challenge a written notification of the decision together with a discussion of the rationale for the decision and an explanation of the party's right to appeal under subsection (e).
+
+“(e)
+
+Appeal.—
+
+&emsp;“(1)
+
+Authorization of appeal.—An interested party may appeal an adverse decision of the official to the head of the executive agency within 10 days after receiving a notification of the decision under subsection (d).
+
+&emsp;“(2)
+
+Decision on appeal.—Within 10 days after the head of an executive agency receives an appeal of a decision under paragraph (1), the head of the executive agency shall decide the appeal and transmit to the party submitting the appeal a written notification of the decision together with a discussion of the rationale for the decision.
+
+#### “SEC. 4. APPLICABILITY.
+
+“(a)
+
+Executive Agencies Covered.—Except as provided in subsection (b), this Act applies to the following executive agencies:
+
+&emsp;“(1)
+
+Executive department.—An executive department named in section 101 of title 5, United States Code.
+
+&emsp;“(2)
+
+Military department.—A military department named in section 102 of title 5, United States Code.
+
+&emsp;“(3)
+
+Independent establishment.—An independent establishment, as defined in section 104 of title 5, United States Code.
+
+“(b)
+
+Exceptions.—This Act does not apply to or with respect to the following:
+
+&emsp;“(1)
+
+General accounting office.—The General Accounting Office.
+
+&emsp;“(2)
+
+Government corporation.—A Government corporation or a Government controlled corporation, as those terms are defined in section 103 of title 5, United States Code.
+
+&emsp;“(3)
+
+Nonappropriated funds instrumentality.—A part of a department or agency if all of the employees of that part of the department or agency are employees referred to in section 2105(c) of title 5, United States Code.
+
+&emsp;“(4)
+
+Certain depot-level maintenance and repair.—Depot-level maintenance and repair of the Department of Defense (as defined in section 2460 of title 10, United States Code).
+
+#### “SEC. 5. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Federal government source.—The term ‘Federal Government source’, with respect to performance of an activity, means any organization within an executive agency that uses Federal Government employees to perform the activity.
+
+&emsp;“(2)
+
+Inherently governmental function.—
+
+&emsp;&emsp;“(A)
+
+Definition.—The term ‘inherently governmental function’ means a function that is so intimately related to the public interest as to require performance by Federal Government employees.
+
+&emsp;&emsp;“(B)
+
+Functions included.—The term includes activities that require either the exercise of discretion in applying Federal Government authority or the making of value judgments in making decisions for the Federal Government, including judgments relating to monetary transactions and entitlements. An inherently governmental function involves, among other things, the interpretation and execution of the laws of the United States so as—
+
+&emsp;&emsp;&emsp;“(i) to bind the United States to take or not to take some action by contract, policy, regulation, authorization, order, or otherwise;
+
+&emsp;&emsp;&emsp;“(ii) to determine, protect, and advance United States economic, political, territorial, property, or other interests by military or diplomatic action, civil or criminal judicial proceedings, contract management, or otherwise;
+
+&emsp;&emsp;&emsp;“(iii) to significantly affect the life, liberty, or property of private persons;
+
+&emsp;&emsp;&emsp;“(iv) to commission, appoint, direct, or control officers or employees of the United States; or
+
+&emsp;&emsp;&emsp;“(v) to exert ultimate control over the acquisition, use, or disposition of the property, real or personal, tangible or intangible, of the United States, including the collection, control, or disbursement of appropriated and other Federal funds.
+
+&emsp;&emsp;“(C)
+
+Functions excluded.—The term does not normally include—
+
+&emsp;&emsp;&emsp;“(i) gathering information for or providing advice, opinions, recommendations, or ideas to Federal Government officials; or
+
+&emsp;&emsp;&emsp;“(ii) any function that is primarily ministerial and internal in nature (such as building security,mail operations, operation of cafeterias, housekeeping, facilities operations and maintenance, warehouse operations, motor vehicle fleet management operations, or other routine electrical or mechanical services).
+
+#### “SEC. 6. EFFECTIVE DATE.
+
+“This Act shall take effect on October 1, 1998.”
+
 #### Purpose of Amendments by Pub. L. 104–316
 
 Pub. L. 104–316, title II, §201, Oct. 19, 1996, 110 Stat. 3842, provided that: “The purpose of this title \[see Tables for classification\] is to amend provisions of law to reflect, update, and enact transfers and subsequent delegations of functions made under section 211 of the Legislative Branch Appropriations Act, 1996 (Public Law 104–53, 109 Stat. 535) \[see Transfer of Functions note above\], as in effect immediately before this title takes effect \[Oct. 19, 1996\].”
+
+#### Department of Commerce Franchise Fund Pilot
+
+Pub. L. 105–277, div. A, §101(b) \[title II, §209\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87, provided in part: “That an amount not to exceed 4 percent of the total annual income to such fund \[Commerce Franchise Fund\] may be retained in the fund for fiscal year 1999 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 1999 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[112 Stat. 2681–50, 2681–111\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot program shall terminate pursuant to section 403(f) of Public Law 103–356 \[set out below\].”
 
 #### Department of the Interior Franchise Fund Pilot
 
@@ -40,7 +222,7 @@ Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996,
 
 #### Department of the Treasury Franchise Fund Pilot
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to beprovided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
 #### Department of Veterans Affairs Franchise Fund Pilot
 
@@ -60,7 +242,7 @@ Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by
 
 “(a)
 
-Establishment.—There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultation with the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives, shall designate the agencies.
+Establishment.—There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultation with the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations \[now Committee on Government Reform\] of the House of Representatives, shall designate the agencies.
 
 “(b)
 
@@ -76,7 +258,7 @@ Funding.—(1) There are authorized to be appropriated to the franchise fund of 
 
 “(d)
 
-Report on Pilot Programs.—Within 6 months after the end of fiscal year 1997, the Director of the Office of Management and Budget shall forward a report on the results of the pilot programs to the Committees on Appropriations of the Senate and of the House of Representatives, and to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives. The report shall contain the financial and program performance results of the pilot programs, including recommendations for—
+Report on Pilot Programs.—Within 6 months after the end of fiscal year 1997, the Director of the Office of Management and Budget shall forward a report on the results of the pilot programs to the Committees on Appropriations of the Senate and of the House of Representatives, and to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives. The report shall contain the financial and program performance results of the pilot programs, including recommendations for—
 
 &emsp;“(1) the structure of the fund;
 
@@ -114,9 +296,9 @@ Application.—The authority provided in subsection (a) shall apply only to repo
 
 Adjustments in Reporting.—The Director may consolidate or adjust the frequency and due dates of any statutorily required reports under subsections (a) and (b) only after—
 
-&emsp;“(1) consultation with the Chairman of the Senate Committee on Governmental Affairs and the Chairman of the House of Representatives Committee on Government Operations \[now Committee on Government Reform and Oversight\]; and
+&emsp;“(1) consultation with the Chairman of the Senate Committee on Governmental Affairs and the Chairman of the House of Representatives Committee on Government Operations \[now Committee on Government Reform\]; and
 
-&emsp;“(2) written notification to the Congress, no later than February 8 of each fiscal year covered under subsection (b) for those reports required to be submitted during that fiscal year.”
+&emsp;“(2) written notification to the Congress, no later than February 8 of each fiscal year covered undersubsection (b) for those reports required to be submitted during that fiscal year.”
 
 #### Findings and Purposes of Chief Financial Officers Act of 1990
 
@@ -284,7 +466,7 @@ Among the specific policy functions in which I intend the Domestic Council to ta
 
 &emsp;—Maintaining a continuous review of the conduct of ongoing programs from a policy standpoint, and proposing reforms as needed.
 
-Much of the Council's work will be accomplished by temporary, ad hoc project committees. These might take a variety of forms, such as task forces, planning groups or advisory bodies. They can be established with varying degrees of formality, and can be set up to deal either with broad program areas or with specific problems. The committees will draw for staff support on Department and agency experts, supplemented by the Council's own staff and that of the Office of Management and Budget.
+Much of the Council's work will be accomplished by temporary, ad hoc project committees. These might take a variety of forms, such as task forces, planning groups or advisory bodies. They can be established with varying degrees of formality, and can be set up to dealeither with broad program areas or with specific problems. The committees will draw for staff support on Department and agency experts, supplemented by the Council's own staff and that of the Office of Management and Budget.
 
 Establishment of the Domestic Council draws on the experience gained during the past year with the Council for Urban Affairs, the Cabinet Committee on the Environment and the Council for Rural Affairs. The principal key to the operation of these Councils has been the effective functioning of their various subcommittees. The Councils themselves will be consolidated into the Domestic Council; Urban, Rural and Environment subcommittees of the Domestic Council will be strengthened, using access to the Domestic Council staff.
 
@@ -306,7 +488,7 @@ The new Office of Management and Budget will place much greater emphasis on the 
 
 The new Office will expand efforts to improve interagency cooperation in the field. Washington-based coordinators will help work out interagency problems at the operating level, and assist in developing efficient coordinating mechanisms throughout the country. The success of these efforts depends on the experience, persuasion, and understanding of an Office which will be an expediter and catalyst. The Office will also respond to requests from State and local governments for assistance on intergovernmental programs. It will work closely with the Vice President and the Office of Intergovernmental Relations.
 
-Improvement of Government organization, information and management systems will be a major functionof the Office of Management and Budget. It will maintain a continuous review of the organizational structures and management processes of the Executive Branch, and recommend needed changes. It will take the lead in developing new information systems to provide the President with the performance and other data that he needs but does not now get. When new programs are launched, it will seek to ensure that they are not simply forced into or grafted onto existing organizational structures that may not be appropriate. Resistance to organizational change is one of the chief obstacles to effective government; the new Office will seek to ensure that organization keeps abreast of program needs.
+Improvement of Government organization, information and management systems will be a major function of the Office of Management and Budget. It will maintain a continuous review of the organizational structures and management processes of the Executive Branch, and recommend needed changes. It will take the lead in developing new information systems to provide the President with the performance and other data that he needs but does not now get. When new programs are launched, it will seek to ensure that they are not simply forced into or grafted onto existing organizational structures that may not be appropriate. Resistance to organizational change is one of the chief obstacles to effective government; the new Office will seek to ensure that organization keeps abreast of program needs.
 
 The new Office will also take the lead in devising programs for the development of career executive talent throughout the Government. Not the least of the President's needs as Chief Executive is direct capability in the Executive Office for insuring that talented executives are used to the full extent of their abilities. Effective, coordinated efforts for executive manpower development have been hampered by the lack of a system for forecasting the needs for executive talent and appraising leadership potential. Both are crucial to the success of an enterprise—whether private or public.
 
@@ -350,7 +532,7 @@ Section 1. (a) All functions transferred to the President of the United States b
 
 (b) All outstanding delegations, rules, regulations, orders, circulars, bulletins, or other forms of Executive or administrative action issued or taken by or relating to the Bureau of the Budget or the Director of the Bureau of the Budget prior to the effective date of this order shall, until amended or revoked, remain in full force and effect as if issued or taken by or relating to the Office of Management and Budget or the Director of the Office of Management and Budget.
 
-(c) The delegation to the Director of the Office of Management and Budget, pursuant to subsection (a) ofthis Section, of the functions vested in the Director of the Bureau of the Budget by Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] and subsequently transferred to the President by Part I of Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable.
+(c) The delegation to the Director of the Office of Management and Budget, pursuant to subsection (a) of this Section, of the functions vested in the Director of the Bureau of the Budget by Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] and subsequently transferred to the President by Part I of Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable.
 
 (d) The delegation to the Director of the Office of Management and Budget of the following executive development and personnel functions (which have been transferred to the Office of Personnel Management) is terminated on December 4, 1977:
 
@@ -478,7 +660,7 @@ Ex. Ord. No. 12314, July 22, 1981, 46 F.R. 38329, which established Federal Regi
 
 Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
 
-By virtue of the authority vested in me as President by the Constitution and statutes of the United States,including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], Section 3(a) of the Paperwork Reduction Act of 1980 (Public Law 96–511, 94 Stat. 2825, 44 U.S.C. 3503 note), and Section 301 of Title 3 of the United States Code, and in order to transfer, redelegate, and reassign certain statistical policy functions from the Secretary of Commerce to the Director of the Office of Management and Budget, and to require redelegation of certain functions to the Administrator for the Office of Information and Regulatory Affairs, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and statutes of the United States, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], Section 3(a) of the Paperwork Reduction Act of 1980 (Public Law 96–511, 94 Stat. 2825, 44 U.S.C. 3503 note), and Section 301 of Title 3 of the United States Code, and in order to transfer, redelegate, and reassign certain statistical policy functions from the Secretary of Commerce to the Director of the Office of Management and Budget, and to require redelegation of certain functions to the Administrator for the Office of Information and Regulatory Affairs, it is hereby ordered as follows:
 
 Section 1. Sec. 1(c) of Executive Order No. 11541 of July 1, 1970, as amended \[set out as a note above\], is amended by deleting the last phrase “is terminated on October 9, 1977” and substituting therefor “shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable”.
 
@@ -584,7 +766,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (a) “Privatization” means the disposition or transfer of an infrastructure asset, such as by sale or by long-term lease, from a State or local government to a private party.
 
-(b) “Infrastructure asset” means any asset financed in whole or in part by the Federal Government and needed for the functioning of the economy. Examples of such assets include, but are not limited to: roads, tunnels, bridges, electricity supply facilities, mass transit, rail transportation, airports, ports, waterways, water supply facilities, recycling and wastewater treatment facilities, solid waste disposal facilities, housing, schools, prisons, and hospitals.
+(b) “Infrastructure asset” means any asset financed in whole or in part by the Federal Government andneeded for the functioning of the economy. Examples of such assets include, but are not limited to: roads, tunnels, bridges, electricity supply facilities, mass transit, rail transportation, airports, ports, waterways, water supply facilities, recycling and wastewater treatment facilities, solid waste disposal facilities, housing, schools, prisons, and hospitals.
 
 (c) “Originally authorized purposes” means the general objectives of the original grant program; however, the term is not intended to include every condition required for a grantee to have obtained the original grant.
 
@@ -592,7 +774,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (e) “State and local governments” means the government of any State of the United States, the District of Columbia, any commonwealth, territory, or possession of the United States, and any county, municipality, city, town, township, local public authority, school district, special district, intrastate district, regional or interstate governmental entity, council of governments, and any agency or instrumentality of a local government, and any federally recognized Indian Tribe.
 
-Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[set out under section 601 of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
+Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[formerly set out under section 601 of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
 
 (b) Private enterprise and competitively driven improvements are the foundation of our Nation's economy and economic growth. Federal financing of infrastructure assets should not act as a barrier to the achievement of economic efficiencies through additional private market financing or competitive practices, or both.
 
@@ -950,7 +1132,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13048, June 10, 1997, 62 F.R. 32467, provided:
 
-Improvement of Government operations is a continuing process that benefits from interagency activities. One group dedicated to such activities is the President's Council on Management Improvement (PCMI), established by Executive Order 12479 in 1984, reestablished by Executive Order 12816 in 1992. In the intervening years, some activities of the PCMI have been assumed by the President's Management Council, the Chief Financial Officers Council, and the Chief Information Officers Council. These organizations are alsofocussed on improving agencies’ use of quality management principles. Other functions have been assigned to individual agencies. Nonetheless, remaining administrative management matters deserve attention across agency lines.
+Improvement of Government operations is a continuing process that benefits from interagency activities. One group dedicated to such activities is the President's Council on Management Improvement (PCMI), established by Executive Order 12479 in 1984, reestablished by Executive Order 12816 in 1992. In the intervening years, some activities of the PCMI have been assumed by the President's Management Council, the Chief Financial Officers Council, and the Chief Information Officers Council. These organizations are also focussed on improving agencies’ use of quality management principles. Other functions have been assigned to individual agencies. Nonetheless, remaining administrative management matters deserve attention across agency lines.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to improve agency administrative and management practices throughout the executive branch, I hereby direct the following:
 
@@ -1018,7 +1200,7 @@ Department and agency heads shall advise the Chair of their selections for membe
 
 &emsp;(2) support activities and initiatives of the President's Management Council, the Chief Financial Officers Council, the Chief Information Officers Council, the Federal Procurement Council, and the Interagency Advisory Group of Federal Personnel Directors designed to develop, review, revise, and implement Governmentwide administrative management policies; and
 
-&emsp;(3) identify successful administrative management practices, including quality management practices, and assist in their Governmentwide dissemination and implementation.
+&emsp;(3) identify successful administrative management practices, including quality management practices,and assist in their Governmentwide dissemination and implementation.
 
 Sec. 2. <i>Responsibilities of the Chair</i>. The Chair or, if the Chair chooses, the Vice Chair shall:
 

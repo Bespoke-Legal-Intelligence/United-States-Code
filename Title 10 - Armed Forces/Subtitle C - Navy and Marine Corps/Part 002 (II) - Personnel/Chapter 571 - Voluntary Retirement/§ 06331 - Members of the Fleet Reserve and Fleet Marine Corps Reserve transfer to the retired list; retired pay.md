@@ -16,7 +16,7 @@
 
 (c) Unless otherwise entitled to higher pay, each member transferred to the retired list or the Retired Reserve under this section is entitled to retired pay at the same rate as the retainer pay to which he was entitled at the time of his transfer to the retired list or the Retired Reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 397; Aug. 1, 1958, Pub. L. 85–583, §1(4–6), 72 Stat. 480.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 397; Pub. L. 85–583, §1(4–6), Aug. 1, 1958, 72 Stat. 480.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ In subsection (c) references to the “allowances to which enlisted men of the N
 
 #### Amendments
 
-1958—Subsec. (a). Pub. L. 85–583, §1(4), provided for the transfer to the appropriate Retired Reserve of thosemembers of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
+1958—Subsec. (a). Pub. L. 85–583, §1(4), provided for the transfer to the appropriate Retired Reserve of those members of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
 
 Subsec. (b). Pub. L. 85–583, §1(5), struck out “of clause (2)”.
 

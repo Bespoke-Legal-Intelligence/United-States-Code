@@ -6,7 +6,7 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Funding Levels.—The Under Secretary of Defense for Acquisition and Technology each year shall recommend to the Secretary of Defense the funding levels to be requested in thedefense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
+Funding Levels.—The Under Secretary of Defense for Acquisition and Technology each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
 
 (c)
 

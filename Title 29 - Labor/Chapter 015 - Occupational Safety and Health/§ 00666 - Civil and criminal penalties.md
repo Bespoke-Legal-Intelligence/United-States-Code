@@ -36,7 +36,7 @@ Any employer who violates any of the posting requirements, as prescribed under t
 
 #### (j) Authority of Commission to assess civil penalties
 
-The Commission shall have authority to assess all civil penalties provided in this section, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, thegravity of the violation, the good faith of the employer, and the history of previous violations.
+The Commission shall have authority to assess all civil penalties provided in this section, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, the gravity of the violation, the good faith of the employer, and the history of previous violations.
 
 #### (k) Determination of serious violation
 
@@ -44,7 +44,7 @@ For purposes of this section, a serious violation shall be deemed to exist in a 
 
 #### (<i>l</i>) Procedure for payment of civil penalties
 
-Civil penalties owned under this chapter shall be paid to the Secretary for deposit into the Treasury of the United States and shall accrue to the United States and may be recovered in a civil action in the name of the United States brought in the United States district court for the district where the violation is alleged to have occurred or where the employer has its principal office.
+Civil penalties owned under this chapter shall be paid to the Secretary for deposit into the Treasury of the United States and shall accrue to the United States and may be recovered in acivil action in the name of the United States brought in the United States district court for the district where the violation is alleged to have occurred or where the employer has its principal office.
 
 (Pub. L. 91–596, §17, Dec. 29, 1970, 84 Stat. 1606, 1607; Pub. L. 101–508, title III, §3101, Nov. 5, 1990, 104 Stat. 1388–29.)
 

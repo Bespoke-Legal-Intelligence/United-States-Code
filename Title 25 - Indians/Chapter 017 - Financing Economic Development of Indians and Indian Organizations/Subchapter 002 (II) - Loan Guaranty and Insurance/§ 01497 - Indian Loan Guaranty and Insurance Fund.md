@@ -14,19 +14,17 @@ All funds, claims, notes, mortgages, contracts, and property acquired by the Sec
 
 #### (d) Utilization of fund for diverse payments
 
-The Secretary may also utilize the fund to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections, and other expenses and advances to protect the Secretary for loans or surety bonds which are guaranteed or insured under this subchapter or held by the Secretary, to acquire such security property at foreclosure sale or otherwise, and to pay administrative expenses.
+The Secretary may also utilize the fund to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections, and other expenses and advances to protect the Secretary for loans or surety bonds which areguaranteed or insured under this subchapter or held by the Secretary, to acquire such security property at foreclosure sale or otherwise, and to pay administrative expenses.
 
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated for each fiscal year beginning in fiscal year 1985 such sums as may be necessary to fulfill obligations with respect to losses on loans or surety bonds guaranteed or insured under this subchapter. All collections and all moneys appropriated pursuant to the authority of this subsection shall remain available until expended.
 
-#### (f) Deficiencies in fund; notice to Congress
-
-If the Secretary determines that the amount in the fund is not sufficient to maintain an adequate level of reserves necessary to meet the responsibilities of the fund in connection with losses on loans or surety bonds guaranteed or insured under this subchapter, the Secretary shall promptly submit a report notifying Congress of the deficiencies in the fund.
-
-(Pub. L. 93–262, title II, §217, Apr. 12, 1974, 88 Stat. 82; Pub. L. 98–449, §7, Oct. 4, 1984, 98 Stat. 1725; Pub. L. 100–442, §§3, 4(a), (b), 5(d), Sept. 22, 1988, 102 Stat. 1763, 1764.)
+(Pub. L. 93–262, title II, §217, Apr. 12, 1974, 88 Stat. 82; Pub. L. 98–449, §7, Oct. 4, 1984, 98 Stat. 1725; Pub. L. 100–442, §§3, 4(a), (b), 5(d), Sept. 22, 1988, 102 Stat. 1763, 1764; Pub. L. 105–362, title VIII, §801(b), Nov. 10, 1998, 112 Stat. 3287.)
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–362 struck out subsec. (f) which read as follows: “If the Secretary determines that the amount in the fund is not sufficient to maintain an adequate level of reserves necessary to meet the responsibilities of the fund in connection with losses on loans or surety bonds guaranteed or insured under this subchapter, the Secretary shall promptly submit a report notifying Congress of the deficiencies in the fund.”
 
 1988—Subsec. (b). Pub. L. 100–442, §§3, 5(d), inserted “or surety bonds” after “loans” in two places and substituted “$500,000,000” for “$200,000,000”.
 

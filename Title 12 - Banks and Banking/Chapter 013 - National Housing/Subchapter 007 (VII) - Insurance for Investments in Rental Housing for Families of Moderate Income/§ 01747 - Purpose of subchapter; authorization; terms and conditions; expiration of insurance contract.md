@@ -18,7 +18,7 @@ Section 505 of act Aug. 10, 1948, provided that: “Except as may be otherwise e
 
 #### Inconsistent Provisions
 
-Section 504 of act Aug. 10, 1948, provided that: “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[sections 1701c, 1701e to 1701g–3, 1702, 1703, 1709, 1710, 1713, 1716, 1738, 1743 to 1746 and 1747 to 1747<i>l</i> of this title, section 846 of former Title 31, Money and Finance, section 694 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and section 1404a of Title 42, The Public Health and Welfare\], the provisions of this Act shall be controlling.”
+Section 504 of act Aug. 10, 1948, provided that: “Insofar as the provisions of any other law are inconsistent with the provisions of this Act \[sections 1701c, 1701e to 1701g–3, 1702, 1703, 1709, 1710, 1713, 1716, 1738, 1743 to 1746 and 1747 to 1747<i>l</i> of this title, section 846 of former Title 31, Money and Finance, section 694 of former Title 38,Pensions, Bonuses, and Veterans’ Relief, and section 1404a of Title 42, The Public Health and Welfare\], the provisions of this Act shall be controlling.”
 
 #### Section Referred to in Other Sections
 

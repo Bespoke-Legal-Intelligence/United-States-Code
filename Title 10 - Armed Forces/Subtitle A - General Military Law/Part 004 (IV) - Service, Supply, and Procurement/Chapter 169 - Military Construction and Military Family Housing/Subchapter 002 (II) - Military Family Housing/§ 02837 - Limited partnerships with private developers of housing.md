@@ -40,11 +40,11 @@ Account.—(1) There is hereby established on the books of the Treasury an accou
 
 (f)
 
-Report.—Not later than 60 days after the end of each fiscal year in which activities are carried out under this section, the Secretaries concerned shall jointly transmit to Congress areport specifying the amount and nature of the deposits into, and the expenditures from, the Account during such fiscal year and of the amount and nature of all other expenditures made pursuant to such section during such fiscal year.
+Report.—Not later than 60 days after the end of each fiscal year in which activities are carried out under this section, the Secretaries concerned shall jointly transmit to Congress a report specifying the amount and nature of the deposits into, and the expenditures from, the Account during such fiscal year and of the amount and nature of all other expenditures made pursuant to such section during such fiscal year.
 
 (g)
 
-Transfer of Lands Prohibited.—Nothing in this section shall be construed to permit the Secretary concerned, as part of a limited partnership entered into under this section, to transfer the right, title, or interest of the United States in any real property under the jurisdiction of the Secretary concerned.
+Transfer of Lands Prohibited.—Nothing in this section shall be construed to permit theSecretary concerned, as part of a limited partnership entered into under this section, to transfer the right, title, or interest of the United States in any real property under the jurisdiction of the Secretary concerned.
 
 (h)
 

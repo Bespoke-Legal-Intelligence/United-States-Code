@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may by order require a manufacturer to conduct postmarket surveillance forany device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be—
+The Secretary may by order require a manufacturer to conduct postmarket surveillance for any device of the manufacturer which is a class II or class III device the failure of which would be reasonably likely to have serious adverse health consequences or which is intended to be—
 
 &emsp;(1) implanted in the human body for more than one year, or
 

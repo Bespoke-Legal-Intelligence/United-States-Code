@@ -2,7 +2,7 @@
 
 #### (a) Indirect cost that violates FAR cost principle
 
-An executive agency shall require that a covered contract provide that if the contractor submits to the executive agency a proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued and if that proposal includes the submission of a cost which is unallowable because the cost violates a cost principle in the Federal Acquisition Regulation (referred to in section 421(c)(1) of this title) or an executive agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
+An executive agency shall require that a covered contract provide that if the contractor submits to the executive agency a proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued and if that proposal includes the submission of a cost which is unallowable becausethe cost violates a cost principle in the Federal Acquisition Regulation (referred to in section 421(c)(1) of this title) or an executive agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
 
 #### (b) Penalty for violation of cost principle
 
@@ -24,7 +24,7 @@ The Federal Acquisition Regulation shall provide for a penalty under subsection 
 
 &emsp;(3) the contractor demonstrates, to the contracting officer's satisfaction, that—
 
-&emsp;&emsp;(A) it has established appropriate policies and personnel training and an internal control and review system that provide assurances that unallowable costs subject to penalties are precluded from being included inthe contractor's proposal for settlement of indirect costs; and
+&emsp;&emsp;(A) it has established appropriate policies and personnel training and an internal control and review system that provide assurances that unallowable costs subject to penalties are precluded from being included in the contractor's proposal for settlement of indirect costs; and
 
 &emsp;&emsp;(B) the unallowable costs subject to the penalty were inadvertently incorporated into the proposal.
 
@@ -70,7 +70,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
-&emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
+&emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performedin a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k) of this section.
 
@@ -148,7 +148,7 @@ The regulations referred to in subsections (e) and (f)(1) of this section shall 
 
 #### (h) Contractor certification required
 
-(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
+(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs includedin the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
 (2) An executive agency may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the agency—
 
@@ -172,7 +172,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 &emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
 
-&emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud orsimilar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
+&emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
 &emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty by reason of the violation or failure referred to in paragraph (1).
 
@@ -232,17 +232,11 @@ In this section:
 
 &emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
 
-&emsp;(2) The term “senior executive”, with respect to a contractor, means—
-
-&emsp;&emsp;(A) the chief executive officer of the contractor or any individual acting in a similar capacity for the contractor;
-
-&emsp;&emsp;(B) the four most highly compensated employees in management positions of the contractor other than the chief executive officer; and
-
-&emsp;&emsp;(C) in the case of a contractor that has components which report directly to the contractor's headquarters, the five most highly compensated individuals in management positions at each such component.
+&emsp;(2) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
 
 &emsp;(3) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(June 30, 1949, ch. 288, title III, §306, as added Pub. L. 100–700, §8(a)(1), Nov. 19, 1988, 102 Stat.4634; amended Pub. L. 103–355, title II, §2151, Oct. 13, 1994, 108 Stat. 3309; Pub. L. 105–85, div. A, title VIII, §808(b), Nov. 18, 1997, 111 Stat. 1836.)
+(June 30, 1949, ch. 288, title III, §306, as added Pub. L. 100–700, §8(a)(1), Nov. 19, 1988, 102 Stat. 4634; amended Pub. L. 103–355, title II, §2151, Oct. 13, 1994, 108 Stat. 3309; Pub. L. 105–85, div. A, title VIII, §808(b), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(b), Oct. 17, 1998, 112 Stat. 2083.)
 
 #### Prior Provisions
 
@@ -250,11 +244,23 @@ A prior section 256, act June 30, 1949, ch. 288, title III, §306, 63 Stat. 396,
 
 #### Amendments
 
+1998—Subsec. (m)(2). Pub. L. 105–261 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘senior executive’, with respect to a contractor, means—
+
+&emsp;“(A) the chief executive officer of the contractor or any individual acting in a similar capacity for the contractor;
+
+&emsp;“(B) the four most highly compensated employees in management positions of the contractor other than the chief executive officer; and
+
+&emsp;“(C) in the case of a contractor that has components which report directly to the contractor's headquarters, the five most highly compensated individuals in management positions at each such component.”
+
 1997—Subsec. (e)(1)(P). Pub. L. 105–85, §808(b)(1), added subpar. (P).
 
 Subsec. (m). Pub. L. 105–85, §808(b)(2), added subsec. (m).
 
 1994—Pub. L. 103–355 amended section generally, substituting present provisions for provisions outlining limitations on allowability of costs incurred by contractors in criminal, civil, or administrative proceedings relating to violations of Federal or State statutes or regulations, which resulted in dispositions against contractors based on such violations.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 applicable with respect to costs of compensation of senior executives incurred after Jan. 1, 1999, under covered contracts entered into before, on, or after Oct. 17, 1998, see section 804(d) of Pub. L. 105–261, set out as a note under section 2324 of Title 10, Armed Forces.
 
 #### Effective Date of 1997 Amendment
 

@@ -24,7 +24,7 @@ The Secretary is directed to promptly issue patents to all persons who have made
 
 (B) No lands shall be conveyed pursuant to this subsection if the conveyance would result in the receipt of title to lands in excess of an acreage entitlement under this chapter.
 
-(3) This section shall apply to lands conveyed by interim conveyance or patent to a regional corporation pursuant to this chapter which are made subject to a mining claim or claims located under the general mining laws, including lands conveyed prior to November 2, 1995. Effective on November 2, 1995, the Secretary, acting through the Bureau of Land Management and in a manner consistent with section 1613(g) of this title, shall transfer to the regional corporation administration of all mining claims determined to be entirely within lands conveyed to that corporation. Any person holding such mining claim or claims shall meet such requirements of the general mining laws and section 1744 of this title, except that any filings that would have been made with the Bureau of Land Management if the lands were within Federal ownership shall be timely made with the appropriate regional corporation. The validity of any such mining claim or claims may be contested by the regional corporation, in place of the United States. All contest proceedings and appeals by the mining claimants of adverse decisions made by the regional corporation shall be brought in Federal District Court for the District of Alaska. Neither the United States nor any Federal agency or official shall be named or joined as a party in such proceedings or appeals. All revenues from such mining claims received after November 2, 1995, shall be remitted to the regional corporation subject to distribution pursuant to section 1606(i) of this title, except that in the event that the mining claim or claims are not totally within the lands conveyed to the regional corporation, the regional corporation shall be entitled only to that proportion of revenues, other than administrative fees, reasonably allocated to the portion of the mining claim so conveyed.
+(3) This section shall apply to lands conveyed by interim conveyance or patent to a Regional Corporation pursuant to this chapter which are made subject to a mining claim or claims located under the general mining laws, including lands conveyed prior to November 2, 1995. Effective on November 2, 1995, the Secretary, acting through the Bureau of Land Management and in a manner consistent with section 1613(g) of this title, shall transfer to the Regional Corporation administration of all mining claims determined to be entirely within lands conveyed to that corporation. Any person holding such mining claim or claims shall meet such requirements of the general mining laws and section 1744 of this title, except that any filings that would have been made with the Bureau of Land Management if the lands were within Federal ownership shall be timely made with the appropriate Regional Corporation. The validity of any such mining claim or claims may be contested by the Regional Corporation, in place of the United States. All contest proceedings and appeals by the mining claimants of adverse decisions made by the Regional Corporation shall be brought in Federal District Court for the District of Alaska. Neither the United States nor any Federal agency or official shall be named or joined as a party in such proceedings or appeals. All revenues from such mining claims received after November 2, 1995, shall be remitted to the Regional Corporation subject to distribution pursuant to section 1606(i) of this title, except that in the event that the mining claim or claims are not totally within the lands conveyed to the Regional Corporation, the Regional Corporation shall be entitled only to that proportion of revenues, other than administrative fees, reasonably allocated to the portion of the mining claim so conveyed. The provisions of this section shall apply to Haida Corporation and the Haida Traditional Use Sites, which shall be treated as a Regional Corporation for the purposes of this paragraph, except that any revenues remitted to Haida Corporation under this section shall not be subject to distribution pursuant to section 1606(i) of this title.
 
 #### (d) Purchase restrictions for personnel inapplicable to chapter
 
@@ -66,7 +66,7 @@ Prior to a conveyance pursuant to section 1613 of this title, lands withdrawn by
 
 Any patents to lands under this chapter which are located within the boundaries of a national forest shall contain such conditions as the Secretary deems necessary to assure that:
 
-&emsp;(1) the sale of any timber from such lands shall, for a period of five years, be subject to the same restrictions relating to the export oftimber from the United States as are applicable to national forest lands in Alaska under rules and regulations of the Secretary of Agriculture; and
+&emsp;(1) the sale of any timber from such lands shall, for a period of five years, be subject to the same restrictions relating to the export of timber from the United States as are applicable to national forest lands in Alaska under rules and regulations of the Secretary of Agriculture; and
 
 &emsp;(2) such lands are managed under the principle of sustained yield and under management practices for protection and enhancement of environmental quality no less stringent than such management practices on adjacent national forest lands for a period of twelve years.
 
@@ -74,7 +74,7 @@ Any patents to lands under this chapter which are located within the boundaries 
 
 Notwithstanding any provision of this chapter, no Village or Regional Corporation shall select lands which are within two miles from the boundary, as it exists on December 18, 1971, of any home rule or first class city (excluding boroughs) or which are within six miles from the boundary of Ketchikan.
 
-(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121; Pub. L. 104–42, title I, §102, Nov. 2, 1995, 109 Stat. 353.)
+(Pub. L. 92–203, §22, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §17, Jan. 2, 1976, 89 Stat. 1156; Pub. L. 96–487, title XIV, §1410, Dec. 2, 1980, 94 Stat. 2496; Pub. L. 102–415, §14, Oct. 14, 1992, 106 Stat. 2121; Pub. L. 104–42, title I, §102, Nov. 2, 1995, 109 Stat. 353; Pub. L. 105–333, §7, Oct. 31, 1998, 112 Stat. 3133.)
 
 #### References in Text
 
@@ -90,6 +90,8 @@ Section 6(i) of the Alaska Statehood Act, referred to in subsec. (f), is section
 
 #### Amendments
 
+1998—Subsec. (c)(3). Pub. L. 105–333 substituted “Regional Corporation” for “regional corporation” wherever appearing and inserted at end “The provisions of this section shall apply to Haida Corporation and the Haida Traditional Use Sites, which shall be treated as a Regional Corporation for the purposes of this paragraph, except that any revenues remitted to Haida Corporation under this section shall not be subject to distribution pursuant to section 1606(i) of this title.”
+
 1995—Subsec. (c)(3). Pub. L. 104–42 added par. (3).
 
 1992—Subsec. (c). Pub. L. 102–415 designated existing provisions as par. (1) and added par. (2).
@@ -100,7 +102,7 @@ Section 6(i) of the Alaska Statehood Act, referred to in subsec. (f), is section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1610, 1620, 1621, 1631, 1633, 1634, 1641 of this title.
+This section is referred to in sections 1610, 1620, 1621, 1633, 1634, 1636, 1641 of this title.
 
 <i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
 

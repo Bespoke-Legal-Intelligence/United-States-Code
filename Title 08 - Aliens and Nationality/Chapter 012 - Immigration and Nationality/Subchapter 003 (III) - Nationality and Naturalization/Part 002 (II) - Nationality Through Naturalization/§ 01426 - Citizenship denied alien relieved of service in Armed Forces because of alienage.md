@@ -12,7 +12,7 @@ The records of the Selective Service System or of the Department of Defense shal
 
 An alien shall not be ineligible for citizenship under this section or otherwise because of an exemption from training or service in the Armed Forces of the United States pursuant to the exercise of rights under a treaty, if before the time of the exercise of such rights the alien served in the Armed Forces of a foreign country of which the alien was a national.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §315, 66 Stat. 242; Oct. 24, 1988, Pub. L. 100–525, §9(v), 102 Stat. 2621; Nov. 29, 1990, Pub. L. 101–649, title IV, §404, 104 Stat. 5039.)
+(June 27, 1952, ch. 477, title III, ch. 2, §315, 66 Stat. 242; Pub. L. 100–525, §9(v), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §404, Nov. 29, 1990, 104 Stat. 5039.)
 
 #### References in Text
 

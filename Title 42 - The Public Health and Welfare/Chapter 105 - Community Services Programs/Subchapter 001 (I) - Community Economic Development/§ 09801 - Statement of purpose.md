@@ -4,6 +4,12 @@ The purpose of this subchapter is to encourage the development of special progra
 
 (Pub. L. 97–35, title VI, §612, Aug. 13, 1981, 95 Stat. 489.)
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–285, §1, Oct. 27, 1998, 112 Stat. 2702, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Community Opportunities, Accountability, and Training and Educational Services Act of 1998’ or the ‘Coats Human Services Reauthorization Act of 1998’.”
+
+Pub. L. 105–285, title I, §101, Oct. 27, 1998, 112 Stat. 2703, provided that: “This title \[enacting section 9837a of this title, amending sections 9831 to 9835, 9836 to 9837, 9838 to 9840a, 9843 to 9844, and 9846 of this title, and repealing sections 9852a and 9855 to 9855g of this title and provisions set out as a note under this section\] may be cited as the ‘Head Start Amendments of 1998’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–193, title VI, §601(a), Aug. 22, 1996, 110 Stat. 2278, provided that: “This title \[enacting section 618 of this title, amending sections 9858, 9858b to 9858e, 9858g to 9858j, 9858m, and 9858n of this title, repealing section 9858f of this title, enacting provisions set out as notes under section 9858 of this title, and amending provisions set out as a note below\] may be cited as the ‘Child Care and Development Block Grant Amendments of 1996’.”
@@ -24,7 +30,7 @@ Pub. L. 101–501, §1(a), Nov. 3, 1990, 104 Stat. 1222, provided that: “This 
 
 Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: “This subtitle \[subtitle A (§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 of this title\] may be cited as the ‘Head Start Expansion and Quality Improvement Act’.”
 
-Pub. L. 101–501, title I, §131, Nov. 3, 1990, 104 Stat. 1238, provided that: “This subtitle \[subtitle B (§§131–140) of title I of Pub. L. 101–501, enacting subchapter II–A of this chapter and amending section 9834 of this title\] may be cited as the ‘Head Start Transition Project Act’.”
+Pub. L. 101–501, title I, §131, Nov. 3, 1990, 104 Stat. 1238, provided that subtitle B (§§131–140) of title I ofPub. L. 101–501, enacting subchapter II–A of this chapter and amending section 9834 of this title, could be cited as the “Head Start Transition Project Act”, prior to repeal by Pub. L. 105–285, title I, §119, Oct. 27, 1998, 112 Stat. 2728.
 
 #### Short Title of 1989 Amendment
 

@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;The term “State” includes a State (including the Northern Mariana Islands), any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
 
-(July 1, 1944, ch. 373, title XXVII, §2723, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1971; amended Sept. 26, 1996, Pub. L. 104–204, title VI, §604(b)(2), 110 Stat. 2941.)
+(July 1, 1944, ch. 373, title XXVII, §2723, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941.)
 
 #### References in Text
 

@@ -80,7 +80,7 @@ As used in this section:
 
 &emsp;(2) The term “holiday” means any day designated as a holiday under a Federal statute or Executive order.
 
-(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; June 2, 1970, Pub. L. 91–271, title III, §316, 84 Stat. 293; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13811(a), 107 Stat. 668.)
+(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316, June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668.)
 
 #### Codification
 

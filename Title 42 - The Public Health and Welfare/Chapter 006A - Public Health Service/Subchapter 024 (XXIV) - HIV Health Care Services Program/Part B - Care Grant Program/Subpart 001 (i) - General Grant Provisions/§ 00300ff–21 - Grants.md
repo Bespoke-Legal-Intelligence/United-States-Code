@@ -8,7 +8,7 @@ The Secretary shall, subject to the availability of appropriations, make grants 
 
 For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, a State shall use, of the funds allocated under this part to the State for a fiscal year, not less than the percentage constituted by the ratio of the population in the State of infants, children, and women with acquired immune deficiency syndrome to the general population in the State of individuals with such syndrome.
 
-(July 1, 1944, ch. 373, title XXVI, §2611, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 586; amended May 20, 1996, Pub. L. 104–146, §§3(c)(1), 7(b)(2), 110 Stat. 1353, 1368.)
+(July 1, 1944, ch. 373, title XXVI, §2611, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §§3(c)(1), 7(b)(2), May 20, 1996, 110 Stat. 1353, 1368.)
 
 #### Prior Provisions
 

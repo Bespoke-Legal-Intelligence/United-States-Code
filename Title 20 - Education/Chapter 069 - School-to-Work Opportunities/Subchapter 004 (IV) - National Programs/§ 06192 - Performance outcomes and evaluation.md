@@ -4,7 +4,7 @@
 
 The Secretaries, in collaboration with the States, shall by grant, contract, or otherwise, establish a system of performance measures for assessing State and local programs regarding—
 
-&emsp;(1) progress in the development and implementation of State plans described in section 6143(d) of this title that include the basic program components described in sections 6112, 6113, and 6114 of this title and otherwise meet the requirements of subchapter I of this chapter;
+&emsp;(1) progress in the development and implementation of State plans described in section 6143(d) of this title that include the basic program components described in sections 6112, 6113, and 6114 of this title and otherwise meetthe requirements of subchapter I of this chapter;
 
 &emsp;(2) participation in School-to-Work Opportunities programs by employers, schools, students, and school dropouts, including information on the gender, race, ethnicity, socioeconomic background, limited-English proficiency, and disability of all participants and whether the participants are academically talented students;
 

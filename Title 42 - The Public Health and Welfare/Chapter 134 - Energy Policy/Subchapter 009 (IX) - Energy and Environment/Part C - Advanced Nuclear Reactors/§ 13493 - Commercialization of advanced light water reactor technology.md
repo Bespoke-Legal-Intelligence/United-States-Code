@@ -2,7 +2,7 @@
 
 #### (a) Certification of designs
 
-In order to achieve the goal of certification of completed standardized designs by the Commission by 1996 as set forth in section 13492(b) of this title, the Secretary shall conduct a 5-year program of technical and financial assistance to encourage the development and submission for certification of advanced light water reactor designs which, in the judgment of the Secretary,can be certified by the Commission by no later than the end of fiscal year 1996.
+In order to achieve the goal of certification of completed standardized designs by the Commission by 1996 as set forth in section 13492(b) of this title, the Secretary shall conduct a 5-year program of technical and financial assistance to encourage the development and submission for certification of advanced light water reactor designs which, in the judgment of the Secretary, can be certified by the Commission by no later than the end of fiscal year 1996.
 
 #### (b) First-of-a-kind engineering
 
@@ -20,7 +20,7 @@ In order to achieve the goal of certification of completed standardized designs 
 
 &emsp;&emsp;(C) the design proposed is scheduled for certification by the Commission under the Department of Energy's program for certification of light water reactor designs; and
 
-&emsp;&emsp;(D) at least 50 percent of the funding for the project shall be obtained from non-Federal sources, and a substantial portion of that non-Federal funding shall be obtained from utilities or entities whose primary purpose is the production of electrical power for public consumption.
+&emsp;&emsp;(D) at least 50 percent of the funding for the project shall be obtained from non-Federal sources, and a substantial portion ofthat non-Federal funding shall be obtained from utilities or entities whose primary purpose is the production of electrical power for public consumption.
 
 #### (3) Program documents
 

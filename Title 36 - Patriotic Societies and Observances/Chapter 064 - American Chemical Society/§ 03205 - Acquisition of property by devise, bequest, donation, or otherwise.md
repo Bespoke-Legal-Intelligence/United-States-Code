@@ -1,6 +1,0 @@
-### §3205. Acquisition of property by devise, bequest, donation, or otherwise
-
-The American Chemical Society be, and the same is hereby, authorized and empowered to receive, by devise, bequest, donation, or otherwise, either real or personal property and to hold the same absolutely or in trust, and to invest, reinvest, and manage the same and to apply said property and the income arising therefrom to the objects of its creation.
-
-(Aug. 25, 1937, ch. 762, §5, 50 Stat. 799.)
-

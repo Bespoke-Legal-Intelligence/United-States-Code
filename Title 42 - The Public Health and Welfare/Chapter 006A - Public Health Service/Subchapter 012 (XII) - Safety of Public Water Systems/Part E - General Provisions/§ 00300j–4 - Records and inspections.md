@@ -60,7 +60,7 @@ Analytical methods.—The State may use screening methods approved by the Admini
 
 &emsp;(H)
 
-Authorization of appropriations.—There are authorized to be appropriated tocarry out this paragraph $10,000,000 for each of the fiscal years 1997 through 2003.
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $10,000,000 for each of the fiscal years 1997 through 2003.
 
 #### (b) Entry of establishments, facilities, or other property; inspections; conduct of certain tests; audit and examination of records; entry restrictions; prohibition against informing of a proposed entry
 
@@ -94,7 +94,7 @@ The Administrator may utilize the authorities of this section for purposes of pa
 
 #### (2) Public input
 
-&emsp;In establishing the occurrence data base, the Administrator shall solicit recommendations from the Science Advisory Board, the States,and other interested parties concerning the development and maintenance of a national drinking water contaminant occurrence data base, including such issues as the structure and design of the data base, data input parameters and requirements, and the use and interpretation of data.
+&emsp;In establishing the occurrence data base, the Administrator shall solicit recommendations from the Science Advisory Board, the States, and other interested parties concerning the development and maintenance of a national drinking water contaminant occurrence data base, including such issues as the structure and design of the data base, data input parameters and requirements, and the use and interpretation of data.
 
 #### (3) Use
 
@@ -134,7 +134,7 @@ For purposes of sections 300g–1(b)(4)(E) and 300g–4(e) of this title (relati
 
 The Administrator shall review new analytical methods to screen for regulated contaminants and may approve such methods as are more accurate or cost-effective than established reference methods for use in compliance monitoring.
 
-(July 1, 1944, ch. 373, title XIV, §1445, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1686; amended Nov. 16, 1977, Pub. L. 95–190, §12(c), (d), 91 Stat. 1398; June 19, 1986, Pub. L. 99–339, title I, §106, title III, §301(h), 100 Stat. 650, 665; Oct. 31, 1988, Pub. L. 100–572, §5, 102 Stat. 2889; Aug. 6, 1996, Pub. L. 104–182, title I, §§111(b), 125(a), (c), (d), 126, 110 Stat. 1633, 1653, 1656–1658.)
+(July 1, 1944, ch. 373, title XIV, §1445, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1686; amended Pub. L. 95–190, §12(c), (d), Nov. 16, 1977,91 Stat. 1398; Pub. L. 99–339, title I, §106, title III, §301(h), June 19, 1986, 100 Stat. 650, 665; Pub. L. 100–572, §5, Oct. 31, 1988, 102 Stat. 2889; Pub. L. 104–182, title I, §§111(b), 125(a), (c), (d), 126, Aug. 6, 1996, 110 Stat. 1633, 1653, 1656–1658.)
 
 #### Amendments
 

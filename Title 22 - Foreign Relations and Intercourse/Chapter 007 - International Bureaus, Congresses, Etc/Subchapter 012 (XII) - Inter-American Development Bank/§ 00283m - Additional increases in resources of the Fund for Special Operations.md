@@ -10,7 +10,7 @@ There is hereby authorized to be appropriated without fiscal year limitation, fo
 
 #### (c) Loan disapproval by the United States
 
-The voting power of the United States shall be exercised for the purpose of disapproving any loan which might assist the recipient country directly or indirectly to acquire sophisticated or heavy military equipment.
+The voting power of the United States shall be exercised for the purpose of disapproving anyloan which might assist the recipient country directly or indirectly to acquire sophisticated or heavy military equipment.
 
 (Pub. L. 86–147, §16, as added Pub. L. 90–88, §2, Sept. 22, 1967, 81 Stat. 227.)
 

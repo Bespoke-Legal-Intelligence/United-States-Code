@@ -14,7 +14,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 &emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
-&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A) will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
+&emsp;(2) is a country or instrumentality, other than a major industrial country, which (A)will otherwise assume the obligations of the Agreement, and (B) will provide such opportunities to such products and suppliers;
 
 &emsp;(3) is a country or instrumentality, other than a major industrial country, which will provide such opportunities to such products and suppliers; or
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless
 
 #### Effective Date
 
-Section 309 of title III of Pub. L. 96–39 provided that: “The provisions of this title \[this subchapter\] shall beeffective on the date of enactment of this Act \[July 26, 1979\], except that—
+Section 309 of title III of Pub. L. 96–39 provided that: “The provisions of this title \[this subchapter\] shall be effective on the date of enactment of this Act \[July 26, 1979\], except that—
 
 &emsp;“(1) the authority of the President to grant waivers under section 303 \[section 2513 of this title\] shall be effective on January 1, 1980; and
 
@@ -92,7 +92,7 @@ Delegations and Authorization
 
 1–201. The functions vested in the President by Sections 301, 302, 304, 305(c) and 306 of the Trade Agreements Act of 1979 (19 U.S.C. 2511, 2512, 2514, 2515(c) and 2516) are delegated to the Trade Representative.
 
-1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accord with Section 302(b)(3) of the Trade Agreements Act of 1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
+1–202. Notwithstanding the delegation in Section 1–201, the Secretary of Defense is authorized, in accord with Section 302(b)(3) of the Trade Agreements Act of1979 (19 U.S.C. 2512(b)(3)), to waive the prohibitions specified therein.
 
 #### Annex
 

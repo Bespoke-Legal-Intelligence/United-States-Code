@@ -2,7 +2,7 @@
 
 The Department of the Navy is separately organized under the Secretary of the Navy. It operates under the authority, direction, and control of the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 277; Sept. 7, 1962, Pub. L. 87–651, title II, §212, 76 Stat. 524; Oct. 1, 1986, Pub. L. 99–433, title V, §511(b)(2), (c)(1), 100 Stat. 1043.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 277; Pub. L. 87–651, title II, §212, Sept. 7, 1962, 76 Stat. 524; Pub. L. 99–433, title V, §511(b)(2), (c)(1), Oct. 1, 1986, 100 Stat. 1043.)
 
 #### Historical and Revision Notes
 

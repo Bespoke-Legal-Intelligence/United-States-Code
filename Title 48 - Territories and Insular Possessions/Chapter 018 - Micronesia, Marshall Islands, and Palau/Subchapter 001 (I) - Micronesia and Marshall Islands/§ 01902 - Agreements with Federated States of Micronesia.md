@@ -12,7 +12,7 @@
 
 #### (B) Narcotics and control of illegal substances
 
-&emsp;&emsp;The United States and the Federated States of Micronesia will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Federated States of Micronesia for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance asdefined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Federated States of Micronesia, or for the distribution of any such substance to or from the Federated States of Micronesia or to or from the United States or any of its territories or commonwealths.
+&emsp;&emsp;The United States and the Federated States of Micronesia will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Federated States of Micronesia for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Federated States of Micronesia, or for the distribution of any such substance to or from the Federated States of Micronesia or to or from the United States or any of its territories or commonwealths.
 
 #### (C) Other criminal laws
 
@@ -54,7 +54,7 @@
 
 #### (c) Agreement on audits
 
-In accordance with section 233 of the Compact, the President of the United States, in consultation with the Comptroller General of the United States, shall negotiate with the Government of the Federated States of Micronesia modifications to the “Agreement Concerning Procedures for the Implementation of United States Economic Assistance, Programs and Services Provided in the Compact of Free Association”, which shall provide as follows:
+In accordance with section 233 of the Compact, the President of the United States, in consultation with the Comptroller General of the United States, shall negotiate with the Government ofthe Federated States of Micronesia modifications to the “Agreement Concerning Procedures for the Implementation of United States Economic Assistance, Programs and Services Provided in the Compact of Free Association”, which shall provide as follows:
 
 #### (1) General authority of the GAO to audit
 

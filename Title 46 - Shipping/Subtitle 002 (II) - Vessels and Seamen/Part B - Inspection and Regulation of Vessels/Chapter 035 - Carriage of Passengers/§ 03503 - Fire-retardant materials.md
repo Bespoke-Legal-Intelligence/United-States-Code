@@ -40,5 +40,5 @@ Subsec. (b)(1)(D). Pub. L. 102–241, §20(2), added subpar. (D).
 
 #### Notification to Prospective Passengers of Noncompliance With Fire-Retardant Standards
 
-Section 1(7)(B) of Pub. L. 99–307 provided that: “Until the regulations required by subclause (A) of this clause \[see subsec. (b)(2) of this section\] become effective, theowner or managing operator shall notify prospective passengers in all promotional literature and on each ticket that the vessel does not comply with those standards due primarily to the wooden construction of passenger berthing areas.”
+Section 1(7)(B) of Pub. L. 99–307 provided that: “Until the regulations required by subclause (A) of this clause \[see subsec. (b)(2) of this section\] become effective, the owner or managing operator shall notify prospective passengers in all promotional literature and on each ticket that the vessel does not comply with those standards due primarily to the wooden construction of passenger berthing areas.”
 

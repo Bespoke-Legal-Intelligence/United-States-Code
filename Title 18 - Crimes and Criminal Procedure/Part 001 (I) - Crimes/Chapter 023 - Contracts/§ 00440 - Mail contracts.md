@@ -1,8 +1,8 @@
 ### §440. Mail contracts
 
-Whoever, being a person employed in the Postal Service, becomes interested in any contract for carrying the mail, or acts as agent, with or without compensation, for any contractor or person offering to become a contractor in any business before the Postal Service, shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both.
+Whoever, being a person employed in the Postal Service, becomes interested in any contract for carrying the mail, or acts as agent, with or without compensation, for any contractor orperson offering to become a contractor in any business before the Postal Service, shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 704; Aug. 12, 1970, Pub. L. 91–375, §6(j)(3), 84 Stat. 777; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 704; Pub. L. 91–375, §6(j)(3), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title”for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000”, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000”, to reflect the probable intent of Congress.
 
 1970—Pub. L. 91–375 substituted “Postal Service” for “Post Office Department” before “, shall be fined”.
 

@@ -20,7 +20,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (c) Powers
 
-To carry out its purposes under section 3701 of this title, the Foundation shall have, in addition to the powers otherwise given it under this chapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
+To carry out its purposes under section 3701 of this title, the Foundation shall have, in additionto the powers otherwise given it under this chapter, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
 
 &emsp;(1) to accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 
@@ -72,15 +72,83 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 &emsp;(B) the purposes of the Foundation would be better served by the use of the Federal funds for other authorized activities of the Foundation.
 
-(Pub. L. 98–244, §4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786.)
+#### (f) Establishment of national whale conservation endowment fund
+
+(1) In carrying out the purposes under section 3701(b) of this title, the Foundation may establish a national whale conservation endowment fund, to be used by the Foundation to support research, management activities, or educational programs that contribute to the protection, conservation, or recovery of whale populations in waters of the United States.
+
+(2)(A) In a manner consistent with subsection (c)(1) of this section, the Foundation may—
+
+&emsp;(i) accept, receive, solicit, hold, administer, and use any gift, devise, or bequest made to the Foundation for the express purpose of supporting whale conservation; and
+
+&emsp;(ii) deposit in the endowment fund under paragraph (1) any funds made available to the Foundation under this subparagraph, including any income or interest earned from a gift, devise, or bequest received by the Foundation under this subparagraph.
+
+(B) To raise funds to be deposited in the endowment fund under paragraph (1), the Foundation may enter into appropriate arrangements to provide for the design, copyright, production, marketing, or licensing, of logos, seals, decals, stamps, or any other item that the Foundation determines to be appropriate.
+
+(C)(i) The Secretary of Commerce may transfer to the Foundation for deposit in the endowment fund under paragraph (1) any amount (or portion thereof) received by the Secretary under section 1375(a)(1) of this title as a civil penalty assessed by the Secretary under that section.
+
+(ii) The Directors of the Board shall ensure that any amounts transferred to the Foundation under clause (i) for the endowment fund under paragraph (1) are deposited in that fund in accordance with this subparagraph.
+
+(3) It is the intent of Congress that in making expenditures from the endowment fund under paragraph (1) to carry out activities specified in that paragraph, the Foundation should give priority to funding projects that address the conservation of populations of whales that the Foundation determines—
+
+&emsp;(A) are the most endangered (including the northern right whale (Eubaleana glacialis)); or
+
+&emsp;(B) most warrant, and are most likely to benefit from, research management, or educational activities that may be funded with amounts made available from the fund.
+
+#### (g) Consultation
+
+In carrying out any action on the part of the Foundation under subsection (f) of this section, the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
+
+(Pub. L. 98–244, §4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, §101(b) \[title IX, §903\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120.)
 
 #### Amendments
+
+1998—Subsecs. (f), (g). Pub. L. 105–277 added subsecs. (f) and (g).
 
 1988—Subsec. (a)(2). Pub. L. 100–240, §1(b), inserted “and abroad” after “United States”.
 
 Subsec. (c)(2). Pub. L. 100–240, §2(b), inserted “, subject to subsection (e) of this section” after “therein”.
 
 Subsec. (e). Pub. L. 100–240, §2(a), added subsec. (e).
+
+#### Congressional Findings—National Whale Conservation
+
+Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that: “Congress finds that—
+
+&emsp;“(1) the populations of whales that occur in waters of the United States are resources of substantial ecological, scientific, socioeconomic, and esthetic value;
+
+&emsp;“(2) whale populations—
+
+&emsp;&emsp;“(A) form a significant component of marine ecosystems;
+
+&emsp;&emsp;“(B) are the subject of intense research;
+
+&emsp;&emsp;“(C) provide for a multimillion dollar whale watching tourist industry that provides the public an opportunity to enjoy and learn about great whales and the ecosystems of which the whales are a part; and
+
+&emsp;&emsp;“(D) are of importance to Native Americans for cultural and subsistence purposes;
+
+&emsp;“(3) whale populations are in various stages of recovery, and some whale populations, such as the northern right whale (Eubaleana glacialis) remain perilously close to extinction;
+
+&emsp;“(4) the interactions that occur between ship traffic, commercial fishing, whale watching vessels, and other recreational vessels and whale populations may affect whale populations adversely;
+
+&emsp;“(5) the exploration and development of oil, gas, and hard mineral resources, marine debris, chemical pollutants, noise, and other anthropogenic sources of change in the habitat of whales may affect whale populations adversely;
+
+&emsp;“(6) the conservation of whale populations is subject to difficult challenges related to—
+
+&emsp;&emsp;“(A) the migration of whale populations across international boundaries;
+
+&emsp;&emsp;“(B) the size of individual whales, as that size precludes certain conservation research procedures that may be used for other animal species, such as captive research and breeding;
+
+&emsp;&emsp;“(C) the low reproductive rates of whales that require long-term conservation programs to ensure recovery of whale populations; and
+
+&emsp;&emsp;“(D) the occurrence of whale populations in offshore waters where undertaking research, monitoring, and conservation measures is difficult and costly;
+
+&emsp;“(7)(A) the Secretary of Commerce, through the Administrator of the National Oceanic and Atmospheric Administration, has research and regulatory responsibility for the conservation of whales under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.); and
+
+&emsp;“(B) the heads of other Federal agencies and the Marine Mammal Commission established under section 201 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1401) have related research and management activities under the Marine Mammal Protection Act of 1972 or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
+
+&emsp;“(8) the funding available for the activities described in paragraph (8) \[(7)\] is insufficient to support all necessary whale conservation and recovery activities; and
+
+&emsp;“(9) there is a need to facilitate the use of funds from non-Federal sources to carry out the conservation of whales.”
 
 #### Draw Down of Federal Funds; Exemption From Audit Requirements
 

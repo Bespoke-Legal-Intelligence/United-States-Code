@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an independent establishment in the executive branch, to be known as the “Defense Nuclear Facilities SafetyBoard” (hereafter in this subchapter referred to as the “Board”).
+There is hereby established an independent establishment in the executive branch, to be known as the “Defense Nuclear Facilities Safety Board” (hereafter in this subchapter referred to as the “Board”).
 
 #### (b) Membership
 
@@ -54,7 +54,7 @@ There is hereby established an independent establishment in the executive branch
 
 Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
 
-(Aug. 1, 1946, ch. 724, title I, §311, as added Sept. 29, 1988, Pub. L. 100–456, div. A, title XIV, §1441(a)(1), 102 Stat. 2076; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Report on External Regulation of Defense Nuclear Facilities
 

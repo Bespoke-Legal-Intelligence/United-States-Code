@@ -42,7 +42,7 @@ The commission is authorized to establish and maintain an office at the port of 
 
 The commission is authorized to adopt an official seal, which shall be judicially noticed.
 
-(June 17, 1930, ch. 497, title III, §331, 46 Stat. 697; Aug. 17, 1977, Pub. L. 95–106, §3(a), (b), 91 Stat. 868; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Jan. 12, 1983, Pub. L. 97–456, §1(b), 96 Stat. 2503.)
+(June 17, 1930, ch. 497, title III, §331, 46 Stat. 697; Pub. L. 95–106, §3(a), (b), Aug. 17, 1977, 91 Stat. 868; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–456, §1(b), Jan. 12, 1983, 96 Stat. 2503.)
 
 #### References in Text
 
@@ -58,11 +58,11 @@ In subsec. (b), the words “Except for employees excepted under the civil servi
 
 Provisions similar to subsecs. (a) to (e) of this section were contained in act Sept. 8, 1916, ch. 463, §701, 39 Stat. 975. That section was superseded by section 331 of act June 17, 1930, comprising this section.
 
-Provisions similar to those in subsecs. (f) and (g) of this section were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. That section was superseded by section 331 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in subsecs. (f) and (g) of this section were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. That section was supersededby section 331 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
-1983—Subsec. (a)(1). Pub. L. 97–456 designated existing provisions relating to the chairman's exercise of andresponsibility for all administrative functions as subpar. (A), redesignated former subpars. (A) through (C) as cls. (i) through (iii), added subpar. (B), designated provisions relating to disapproval by a majority of the commissioners of any decision by the chairman as subpar. (C), and in (C) as so designated, substituted “subparagraph (A) or (B)” for “this paragraph” after “chairman under”.
+1983—Subsec. (a)(1). Pub. L. 97–456 designated existing provisions relating to the chairman's exercise of and responsibility for all administrative functions as subpar. (A), redesignated former subpars. (A) through (C) as cls. (i) through (iii), added subpar. (B), designated provisions relating to disapproval by a majority of the commissioners of any decision by the chairman as subpar. (C), and in (C) as so designated, substituted “subparagraph (A) or (B)” for “this paragraph” after “chairman under”.
 
 1977—Subsec. (a). Pub. L. 95–106, §3(a), designated existing provisions as par. (1), substituted provisions authorizing the chairman to perform certain required functions subject to approval by the Commission for provisions authorizing the Commission to perform certain required functions and inserted provisions requiring the chairman to exercise and be responsible for all other administrative functions of the Commission, and added pars. (2) and (3).
 

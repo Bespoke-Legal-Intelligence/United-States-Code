@@ -10,7 +10,7 @@
 
 &emsp;(C) any other information which the Secretary determines to be in the public interest.
 
-(2)(A) Any information provided to the Secretary under subsection (a) of this section shall be treated as trade secret or confidential information subject to section 552(b)(4) of title 5 and section 1905 of title 18 and shall not be revealed, except as provided in paragraph (1), to any person other than those authorized by the Secretary in carrying out their official duties under this section.
+(2)(A) Any information provided to the Secretary under subsection (a) of this section shallbe treated as trade secret or confidential information subject to section 552(b)(4) of title 5 and section 1905 of title 18 and shall not be revealed, except as provided in paragraph (1), to any person other than those authorized by the Secretary in carrying out their official duties under this section.
 
 (B) Subparagraph (A) does not authorize the withholding of a list provided under subsection (a) of this section from any duly authorized subcommittee or committee of the Congress. If a subcommittee or committee of the Congress requests the Secretary to provide it such a list, the Secretary shall make the list available to the subcommittee or committee and shall, at the same time, notify in writing the person who provided the list of such request.
 

@@ -18,7 +18,7 @@ The Secretary shall submit an annual report to Congress, and shall include in su
 
 &emsp;(8) the amount charged during such year for health services provided by Corps members, the amount which was collected in such year by entities in accordance with agreements under section 254g of this title, and the amount which was paid to the Secretary in such year under such agreements.
 
-(July 1, 1944, ch. 373, title III, §336A, formerly §336, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2277, renumbered §336A, Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2706(a), 95 Stat. 907; amended Dec. 21, 1982, Pub. L. 97–375, title II, §206(a), 96 Stat. 1823; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035.)
+(July 1, 1944, ch. 373, title III, §336A, formerly §336, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277, renumbered §336A, Pub. L. 97–35, title XXVII, §2706(a), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 97–375, title II, §206(a), Dec. 21, 1982, 96 Stat. 1823; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035.)
 
 #### Amendments
 
@@ -28,5 +28,5 @@ The Secretary shall submit an annual report to Congress, and shall include in su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 254k of this title.
+This section is referred to in sections 254k, 11709 of this title.
 

@@ -34,7 +34,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (D) Section 1437f assistance
 
-&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) may be used in conjunctionwith a community residence under this subsection for tenant-based certificates or vouchers.
+&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
 
 #### (2) Services
 
@@ -98,13 +98,15 @@ Any amounts received from a grant under this section may be used only as follows
 
 &emsp;Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
 
-(Pub. L. 101–625, title VIII, §861, Nov. 28, 1990, 104 Stat. 4382; Pub. L. 102–550, title VI, §606(i), (j)(8)–(10), (11)(E), Oct. 28, 1992, 106 Stat. 3810, 3811.)
+(Pub. L. 101–625, title VIII, §861, Nov. 28, 1990, 104 Stat. 4382; Pub. L. 102–550, title VI, §606(i), (j)(8)–(10), (11)(E), Oct. 28, 1992, 106 Stat. 3810, 3811; Pub. L. 105–276, title V, §550(b), Oct. 21, 1998, 112 Stat. 2609.)
 
 #### References in Text
 
 The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(D). Pub. L. 105–276 substituted “assistance” for “certificates or vouchers”.
 
 1992—Subsec. (a). Pub. L. 102–550, §606(j)(8), substituted “eligible persons” for “persons with acquired immunodeficiency syndrome or related diseases”.
 
@@ -123,6 +125,10 @@ Subsec. (d). Pub. L. 102–550, §606(j)(11)(E)(ii), which directed the substitu
 Subsec. (d)(1)(A). Pub. L. 102–550, §606(j)(10)(A), substituted “eligible persons” for “individuals”.
 
 Subsec. (d)(1)(D). Pub. L. 102–550, §606(j)(10)(B), inserted “with acquired immunodeficiency syndrome or related diseases” after “any individual”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The purpose of this subchapter is to provide for allotments to support State Dev
 
 #### Prior Provisions
 
-A prior section 121 of Pub. L. 88–164, title I, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 486;amended Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3008, related generally to demonstration and training grants and was classified to section 6031 of this title, prior to the general amendment of this chapter by Pub. L. 98–527.
+A prior section 121 of Pub. L. 88–164, title I, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 486; amended Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3008, related generally to demonstration and training grants and was classified to section 6031 of this title, prior to the general amendment of this chapter by Pub. L. 98–527.
 
 #### Amendments
 

@@ -92,7 +92,7 @@ The Secretary shall establish a task force to—
 
 #### (3) Terms
 
-&emsp;Members shall be appointed for a term of 3 years. A vacancy in the task force shall befilled in the manner in which the original appointment was made.
+&emsp;Members shall be appointed for a term of 3 years. A vacancy in the task force shall be filled in the manner in which the original appointment was made.
 
 #### (4) Pay
 

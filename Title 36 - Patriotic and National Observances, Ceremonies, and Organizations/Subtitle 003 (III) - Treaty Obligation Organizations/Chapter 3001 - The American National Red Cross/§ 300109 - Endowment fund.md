@@ -1,0 +1,24 @@
+### §300109. Endowment fund
+
+The endowment fund of the corporation shall be kept and invested under the management and control of a board of nine trustees elected by the board of governors. The board of governors shall prescribe regulations on terms and tenure of office, accountability, and expenses of the board of trustees.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+300109
+
+36:9.
+
+Jan. 5, 1905, ch. 23, §8, as added June 23, 1910, ch. 372, §2, 36 Stat. 604; May 8, 1947, ch. 50, §7, 61 Stat. 83.
+
+The words “from time to time” are omitted \[as\] unnecessary.
+

@@ -6,7 +6,7 @@
 
 (2) He shall have control, direction, and supervision of all employees and of all the files and records of the Service.
 
-(3) He shall establish such regulations; prescribe such forms of bond, reports, entries, and other papers; issue such instructions; and perform such other acts as he deems necessary for carrying out his authority under the provisions of this chapter.
+(3) He shall establish such regulations; prescribe such forms of bond, reports, entries, andother papers; issue such instructions; and perform such other acts as he deems necessary for carrying out his authority under the provisions of this chapter.
 
 (4) He may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service.
 
@@ -20,7 +20,7 @@
 
 (9) <sup>2</sup> Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(8) <sup>1</sup> In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, withthe consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(8) <sup>1</sup> In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (9) <sup>2</sup> The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -46,7 +46,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 (1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress and the public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
 
-(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
+(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation,basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
 
 (3) Such system shall provide for the collection and dissemination of such information not less often than annually.
 
@@ -60,7 +60,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 The Attorney General shall allocate to each State not fewer than 10 full-time active duty agents of the Immigration and Naturalization Service to carry out the functions of the Service, in order to ensure the effective enforcement of this chapter.
 
-(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Oct. 24, 1988, Pub. L. 100–525, §9(c), 102 Stat. 2619; Nov. 29, 1990, Pub. L. 101–649, title I, §142, 104 Stat. 5004; Sept. 30, 1996, Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647.)
+(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 101–649 effective Oct. 1, 1991, and applicable beginning 
 
 #### Fingerprint Cards
 
-Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “That beginning seven calendar days after the enactment of this Act \[Nov. 26, 1997\] and for each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service may be used by the Immigration and Naturalization Service to accept, for the purpose of conducting criminal background checks on applications for any benefit under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], any FD–258 fingerprint card which has been prepared by or received from any individual or entity other than an office of the Immigration and Naturalization Service with the following exceptions: (1) State and local law enforcement agencies; and (2) United States consular offices at United States embassies and consulates abroad under the jurisdiction of the Department of State or United States military offices under the jurisdiction of the Department of Defense authorized to perform fingerprinting services to prepare FD–258 fingerprint cards for applicants residing abroad applying for immigration benefits”.
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “That beginning seven calendar days after the enactment of this Act \[Nov. 26, 1997\] and for each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service may be used by the Immigration and Naturalization Service to accept, for the purpose of conducting criminal background checks on applications for any benefit under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], any FD–258 fingerprint card which has been prepared by or received from any individual or entity other than an office ofthe Immigration and Naturalization Service with the following exceptions: (1) State and local law enforcement agencies; and (2) United States consular offices at United States embassies and consulates abroad under the jurisdiction of the Department of State or United States military offices under the jurisdiction of the Department of Defense authorized to perform fingerprinting services to prepare FD–258 fingerprint cards for applicants residing abroad applying for immigration benefits”.
 
 #### Improvement of Barriers at Border
 
@@ -148,7 +148,7 @@ Waiver.—The provisions of the Endangered Species Act of 1973 \[16 U.S.C. 1531 
 
 #### Improved Border Equipment and Technology
 
-Section 103 of div. C of Pub. L. 104–208 provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft,helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
+Section 103 of div. C of Pub. L. 104–208 provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
 
 #### Hiring and Training Standards
 

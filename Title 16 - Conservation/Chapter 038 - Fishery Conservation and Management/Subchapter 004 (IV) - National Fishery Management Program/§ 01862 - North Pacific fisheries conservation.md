@@ -70,7 +70,7 @@ There is established in the Treasury a North Pacific Fishery Observer Fund. The 
 
 #### (f) Bycatch reduction
 
-In implementing section 1853(a)(11) of this title and this section, the North Pacific Council shall submit conservation and management measures to lower, on an annual basis for a period of not less than four years, the total amount of economic discards occurring in the fisheries under its jurisdiction.
+In implementing section 1853(a)(11) of this title and this section, the North Pacific Councilshall submit conservation and management measures to lower, on an annual basis for a period of not less than four years, the total amount of economic discards occurring in the fisheries under its jurisdiction.
 
 #### (g) Bycatch reduction incentives
 

@@ -1,6 +1,6 @@
 ### §912. Office of Rural Health Policy
 
-(a) There shall be established in the Department of Health and Human Services (in this section referred to as the “Department”) an Office of Rural Health Policy (in this section referred to as the “Office”). The Office shall be headed by a Director, who shall advise the Secretary on the effects of current policies and proposed statutory, regulatory, administrative, and budgetary changes in the programs established under subchapters XVIII and XIX of this chapter on the financial viability of small rural hospitals, the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, and access to (and the quality of) health care in rural areas.
+(a) There shall be established in the Department of Health and Human Services (in this section referred to as the “Department”) an Office of Rural Health Policy (in this section referred to as the “Office”). The Office shall be headed by a Director, who shall advise the Secretary onthe effects of current policies and proposed statutory, regulatory, administrative, and budgetary changes in the programs established under subchapters XVIII and XIX of this chapter on the financial viability of small rural hospitals, the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, and access to (and the quality of) health care in rural areas.
 
 (b) In addition to advising the Secretary with respect to the matters specified in subsection (a) of this section, the Director, through the Office, shall—
 
@@ -18,7 +18,7 @@
 
 &emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion.
 
-(Aug. 14, 1935, ch. 531, title VII, §711, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4401, 101Stat. 1330–225; amended July 1, 1988, Pub. L. 100–360, title IV, §411(m)(1), 102 Stat. 806; Dec. 19, 1989, Pub. L. 101–239, title VI, §6213(g), 103 Stat. 2251.)
+(Aug. 14, 1935, ch. 531, title VII, §711, as added Pub. L. 100–203, title IV, §4401, Dec. 22, 1987, 101 Stat. 1330–225; amended Pub. L. 100–360, title IV, §411(m)(1), July 1, 1988, 102 Stat. 806; Pub. L. 101–239, title VI, §6213(g), Dec. 19, 1989, 103 Stat. 2251.)
 
 #### References in Text
 

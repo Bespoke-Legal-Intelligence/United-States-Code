@@ -12,7 +12,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(4) All conveyances, including aircraft, vehicles, or vessels, which are used, or are intended for use, to transport, or in any manner to facilitate the transportation, sale, receipt, possession, or concealment of property described in paragraph (1), (2), or (9), except that—
 
-&emsp;&emsp;(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
+&emsp;&emsp;(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other personin charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
 
 &emsp;&emsp;(B) no conveyance shall be forfeited under the provisions of this section by reason of any act or omission established by the owner thereof to have been committed or omitted by any person other than such owner while such conveyance was unlawfully in the possession of a person other than the owner in violation of the criminal laws of the United States, or of any State; and
 
@@ -142,7 +142,7 @@ The functions of the Attorney General under this section shall be carried out by
 
 Subchapter II of this chapter, referred to in subsecs. (a)(4)(A), (9), and (i), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-Section 1822 of the Mail Order Drug Paraphernalia Control Act, referred to in subsec. (a)(10), is section 1822 of Pub. L. 99–570, title I, Oct. 27, 1986, 100 Stat. 3207–51, which was repealed by Pub. L. 101–647, title XXIV,§2401(d), Nov. 29, 1990, 104 Stat. 4859. Prior to repeal, subsec. (d) of section 1822 of Pub. L. 99–570, which defined “drug paraphernalia”, was transferred to subsec. (d) of section 422 of title II of Pub. L. 91–513, the Controlled Substances Act. Section 422 of Pub. L. 91–513 is classified to section 863 of this title.
+Section 1822 of the Mail Order Drug Paraphernalia Control Act, referred to in subsec. (a)(10), is section 1822 of Pub. L. 99–570, title I, Oct. 27, 1986, 100 Stat. 3207–51, which was repealed by Pub. L. 101–647, title XXIV, §2401(d), Nov. 29, 1990, 104 Stat. 4859. Prior to repeal, subsec. (d) of section 1822 of Pub. L. 99–570, which defined “drug paraphernalia”, was transferred to subsec. (d) of section 422 of title II of Pub. L. 91–513, the Controlled Substances Act. Section 422 of Pub. L. 91–513 is classified to section 863 of this title.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -228,7 +228,7 @@ Section 1215(b) of Pub. L. 101–189 provided that: “The amendment made by sub
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 6059 of Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub.L. 100–690, set out as a note under section 802 of this title.
+Amendment by section 6059 of Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
 
 Section 6077(c) of Pub. L. 100–690, as amended by Pub. L. 101–162, title II, §208, Nov. 21, 1989, 103 Stat. 1005, provided that: “Section 551(e)(3)(B) of the Controlled Substances Act \[probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)\], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991.”
 
@@ -246,7 +246,7 @@ Section 6079 of Pub. L. 100–690 provided that:
 
 “(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
+In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
 
 “(b)
 

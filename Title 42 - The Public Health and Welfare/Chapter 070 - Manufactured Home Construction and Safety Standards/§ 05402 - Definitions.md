@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(5) “manufacturer” means any person engaged in manufacturing or assembling manufactured homes, including any person engaged in importing manufactured homes for resale;
 
-&emsp;(6) “manufactured home” means a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling with or without a permanent foundation when connected to the required utilities, and includes the plumbing, heating, air-conditioning, and electrical systems contained therein; except that such term shall include any structure which meets all the requirements of this paragraph except the size requirements and with respect to which the manufacturer voluntarily files a certification required by the Secretary and complies with the standards established under this chapter;
+&emsp;(6) “manufactured home” means a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling with or without a permanent foundation when connected to the required utilities, and includes the plumbing, heating, air-conditioning, and electrical systems contained therein; except that such term shall include any structure which meets all the requirements of this paragraph except the size requirements and with respect to which the manufacturer voluntarily files a certification required by the Secretary and complies with the standards established under this chapter; and except that such term shall not include any self-propelled recreational vehicle;
 
 &emsp;(7) “Federal manufactured home construction and safety standard” means a reasonable standard for the construction, design, and performance of a manufactured home which meets the needs of the public including the need for quality, durability, and safety;
 
@@ -28,7 +28,7 @@ As used in this chapter, the term—
 
 &emsp;(13) “United States district courts” means the Federal district courts of the United States and the United States courts of the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa.
 
-(Pub. L. 93–383, title VI, §603, Aug. 22, 1974, 88 Stat. 700; Pub. L. 96–399, title III, §308(c)(4), (d), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417.)
+(Pub. L. 93–383, title VI, §603, Aug. 22, 1974, 88 Stat. 700; Pub. L. 96–399, title III, §308(c)(4), (d), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 105–276, title V, §599A(a), Oct. 21, 1998, 112 Stat. 2660.)
 
 #### References in Text
 
@@ -40,11 +40,17 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 
 #### Amendments
 
+1998—Par. (6). Pub. L. 105–276 inserted before semicolon at end “; and except that such term shall not include any self-propelled recreational vehicle”.
+
 1980—Pars. (1), (2), (3). Pub. L. 96–399, §308(c)(4), substituted “manufactured home” for “mobile home” wherever appearing.
 
 Par. (6). Pub. L. 96–399, §308(c)(4), (d), substituted “manufactured home” for “mobile home”, substituted “in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet” for “is eight body feet or more in width and is thirty-two body feet or more in length”, and inserted exception relating to inclusion of any structure meeting all requirements of this paragraph except size and with respect to which a certification is voluntarily filed and standards complied with.
 
 Pars. (7), (8), (10). Pub. L. 96–399, §308(c)(4), substituted “manufactured home” for “mobile home” wherever appearing.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §599A(b), Oct. 21, 1998, 112 Stat. 2660, provided that: “The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Section Referred to in Other Sections
 

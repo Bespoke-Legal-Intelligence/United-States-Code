@@ -46,7 +46,7 @@ As used in this section—
 
 &emsp;&emsp;(D) ensure, by contract or tariff, that each aggregator for which such provider is the presubscribed provider of operator services is in compliance with the requirements of subsection (c) of this section and, if applicable, subsection (e)(1) of this section;
 
-&emsp;&emsp;(E) withhold payment (on a location-by-location basis) of any compensation, including commissions, to aggregators if such providerreasonably believes that the aggregator (i) is blocking access by means of “950” or “800” numbers to interstate common carriers in violation of subsection (c)(1)(B) of this section or (ii) is blocking access to equal access codes in violation of rules the Commission may prescribe under subsection (e)(1) of this section;
+&emsp;&emsp;(E) withhold payment (on a location-by-location basis) of any compensation, including commissions, to aggregators if such provider reasonably believes that the aggregator (i) is blocking access by means of “950” or “800” numbers to interstate common carriers in violation of subsection (c)(1)(B) of this section or (ii) is blocking access to equal access codes in violation of rules the Commission may prescribe under subsection (e)(1) of this section;
 
 &emsp;&emsp;(F) not bill for unanswered telephone calls in areas where equal access is available;
 
@@ -96,7 +96,7 @@ As used in this section—
 
 &emsp;The regulations prescribed under this section shall—
 
-&emsp;&emsp;(A) contain provisions to implement each of the requirements of this section, other than the requirements established by the rulemaking under subsection (e) of this section on access and compensation; and
+&emsp;&emsp;(A) contain provisions to implement each of the requirements of this section, other than the requirements established by therulemaking under subsection (e) of this section on access and compensation; and
 
 &emsp;&emsp;(B) contain such other provisions as the Commission determines necessary to carry out this section and the purposes and policies of this section.
 
@@ -122,7 +122,7 @@ As used in this section—
 
 #### (2) Compensation
 
-&emsp;The Commission shall consider the need to prescribe compensation (other than advancepayment by consumers) for owners of competitive public pay telephones for calls routed to providers of operator services that are other than the presubscribed provider of operator services for such telephones. Within 9 months after October 17, 1990, the Commission shall reach a final decision on whether to prescribe such compensation.
+&emsp;The Commission shall consider the need to prescribe compensation (other than advance payment by consumers) for owners of competitive public pay telephones for calls routed to providers of operator services that are other than the presubscribed provider of operator services for such telephones. Within 9 months after October 17, 1990, the Commission shall reach a final decision on whether to prescribe such compensation.
 
 #### (f) Technological capability of equipment
 
@@ -174,7 +174,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (B) Reports
 
-&emsp;&emsp;(i) The Commission shall, during the pendency of such proceeding and not later than 5 months after its commencement, provide the Congress with an interim report on the Commission's activities and progress to date.
+&emsp;&emsp;(i) The Commission shall, during the pendency of such proceeding and not later than 5months after its commencement, provide the Congress with an interim report on the Commission's activities and progress to date.
 
 &emsp;&emsp;(ii) Not later than 11 months after the commencement of such proceeding, the Commission shall report to the Congress on its interim findings as a result of the proceeding.
 

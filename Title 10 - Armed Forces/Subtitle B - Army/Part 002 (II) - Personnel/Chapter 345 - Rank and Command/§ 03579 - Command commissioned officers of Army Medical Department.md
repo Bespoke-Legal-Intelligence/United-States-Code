@@ -4,7 +4,7 @@
 
 (b) An officer of the Medical Service Corps may exercise command of troops that are not part of the Army Medical Department whenever authorized by the Secretary of the Army. The Secretary of the Army may delegate such authority to appropriate commanders as the interest of the Army may require.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 206; Sept. 2, 1958, Pub. L. 85–861, §1(60), (87), 72 Stat. 1462, 1482; Aug. 17, 1961, Pub. L. 87–142, 75 Stat. 364; June 4, 1968, Pub. L. 90–329, 82 Stat. 170; Dec. 12, 1980, Pub. L. 96–513, title II, §212(a), 94 Stat. 2885; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(46), 98 Stat. 2625.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 206; Pub. L. 85–861, §1(60), (87), Sept. 2, 1958, 72 Stat. 1462, 1482; Pub. L. 87–142, Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title II, §212(a), Dec. 12, 1980, 94 Stat. 2885; Pub. L. 98–525, title XIV, §1405(46), Oct. 19, 1984, 98 Stat. 2625.)
 
 Historical and Revision Notes<br>1956
 

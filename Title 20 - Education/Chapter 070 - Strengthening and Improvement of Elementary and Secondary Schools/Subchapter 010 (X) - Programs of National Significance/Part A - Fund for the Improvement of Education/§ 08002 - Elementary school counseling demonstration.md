@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;(2) the term “school psychologist” means an individual who—
 
-&emsp;&emsp;(A) possesses a minimum of 60 graduate semester hours in school psychology from an institution of higher education and has completed 1,200 clock hours in a supervised school psychology internship, of which 600 hours shall be in the school setting;
+&emsp;&emsp;(A) possesses a minimum of 60 graduate semester hours in school psychology from aninstitution of higher education and has completed 1,200 clock hours in a supervised school psychology internship, of which 600 hours shall be in the school setting;
 
 &emsp;&emsp;(B) possesses State licensure or certification in the State in which the individual works; or
 

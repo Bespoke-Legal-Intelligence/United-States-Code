@@ -6,7 +6,7 @@ A prior subchapter VI was renumbered VII by Pub. L. 95–454, title VIII, §801(
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 5107, 5334, 5349, 8336, 8414, 8704 of this title; title 10 sections 4540, 7212, 9540; title 22 section 3964; title 31 section 732.
+This subchapter is referred to in sections 5107, 5334, 5349, 8336, 8414, 8704, 9509 of this title; title 10 sections 4540, 7212, 9540; title 22 section 3964; title 31 section 732.
 
 
 ---

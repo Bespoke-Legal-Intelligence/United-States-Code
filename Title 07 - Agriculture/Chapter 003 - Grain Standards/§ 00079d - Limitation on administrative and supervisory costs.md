@@ -2,7 +2,7 @@
 
 The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2000 shall not exceed 40 per centum of the total costs for such activities carried out by the Secretary for such year.
 
-(Aug. 11, 1916, ch. 313, pt. B, §7D, as added Oct. 24, 1988, Pub. L. 100–518, §2(3), 102 Stat. 2585; amended Nov. 24, 1993, Pub. L. 103–156, §2, 107 Stat. 1525; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(8), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §7D, as added Pub. L. 100–518, §2(3), Oct. 24, 1988, 102 Stat. 2585; amended Pub. L. 103–156, §2, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 103–354, title II, §293(a)(8), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

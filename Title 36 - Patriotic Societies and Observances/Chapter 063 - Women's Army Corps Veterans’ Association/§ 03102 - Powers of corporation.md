@@ -1,6 +1,0 @@
-### §3102. Powers of corporation
-
-The Women's Army Corp Veterans’ Association (hereinafter in this chapter referred to as the “corporation”), shall have only those powers granted to it through its bylaws and articles of incorporation filed in the States in which it is incorporated, and subject to the laws of such States.
-
-(Pub. L. 98–584, §2, Oct. 30, 1984, 98 Stat. 3097.)
-

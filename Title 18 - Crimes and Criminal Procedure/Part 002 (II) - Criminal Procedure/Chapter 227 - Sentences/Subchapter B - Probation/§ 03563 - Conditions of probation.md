@@ -76,7 +76,7 @@ Discretionary Conditions.—The court may provide, as further conditions of a se
 
 (c)
 
-Modifications of Conditions.—The court may modify, reduce, or enlarge the conditions ofa sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
+Modifications of Conditions.—The court may modify, reduce, or enlarge the conditions of a sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
 
 (d)
 
@@ -102,7 +102,7 @@ For a prior section 3563, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–119, §115(a)(8)(B)(i), which directed the striking out of “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).” at the end of paragraph (7) and the insertion of these provisions at the end of this section, was executed by striking out these provisions from the provisions following par. (7) and inserting them at the end of this section, to reflect the probable intent of Congress.
+1997—Subsec. (a). Pub. L. 105–119, §115(a)(8)(B)(i), which directed the striking out of “The results of adrug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).” at the end of paragraph (7) and the insertion of these provisions at the end of this section, was executed by striking out these provisions from the provisions following par. (7) and inserting them at the end of this section, to reflect the probable intent of Congress.
 
 Subsec. (a)(6), (7). Pub. L. 105–119, §115(a)(8)(B)(iii)(I), made technical amendment to place pars. (6) and (7) in numerical order immediately after par. (5).
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 308(g)(10)(E) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by section 308(g)(10)(E) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 

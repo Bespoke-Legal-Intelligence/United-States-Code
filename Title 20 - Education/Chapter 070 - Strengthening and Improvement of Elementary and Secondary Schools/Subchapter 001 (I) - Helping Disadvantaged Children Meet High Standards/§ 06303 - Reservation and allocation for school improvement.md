@@ -8,7 +8,7 @@
 
 #### (2) Minimum
 
-&emsp;The total amount that may be reserved by each State, other than the outlying areas,under this subsection for any fiscal year, when added to amounts appropriated for such fiscal year under section 6302(f) of this title that are allocated to the State under subsection (b) of this section, if any, may not be less than $200,000. The total amount that may be reserved by each outlying area under this subsection for any fiscal year, when added to amounts appropriated for such fiscal year under section 6302(f) of this title that are allocated under subsection (b) of this section to the outlying area, if any, may not be less than $25,000.
+&emsp;The total amount that may be reserved by each State, other than the outlying areas, under this subsection for any fiscal year, when added to amounts appropriated for such fiscal year under section 6302(f) of this title that are allocated to the State under subsection (b) of this section, if any, may not be less than $200,000. The total amount that may be reserved by each outlying area under this subsection for any fiscal year, when added to amounts appropriated for such fiscal year under section 6302(f) of this title that are allocated under subsection (b) of this section to the outlying area, if any, may not be less than $25,000.
 
 #### (3) Special rule
 

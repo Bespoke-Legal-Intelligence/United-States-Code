@@ -6,7 +6,7 @@ Of the total amount appropriated under this subchapter in any fiscal year—
 
 &emsp;(1) 0.4 percent shall be allocated to each of the participating States; and
 
-&emsp;(2) of the total funds remaining after the allocation under paragraph (1), there shall be allocated to each of the participating States an amount which bears the same ratio to theamount of remaining funds described in this paragraph as the number of young offenders of such State bears to the number of young offenders in all the participating States.
+&emsp;(2) of the total funds remaining after the allocation under paragraph (1), there shall be allocated to each of the participating States an amount which bears the same ratio to the amount of remaining funds described in this paragraph as the number of young offenders of such State bears to the number of young offenders in all the participating States.
 
 #### (b) Local distribution
 

@@ -1,11 +1,6 @@
 ### <b>CHAPTER 22—NATIONAL IMAGERY AND MAPPING AGENCY</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Missions%20and%20Authority/README.md) | <b>Missions and Authority</b> | <b>441</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Maps%2C%20Charts%2C%20and%20Geodetic%20Products/README.md) | <b>Maps, Charts, and Geodetic Products</b> | <b>451</b> |

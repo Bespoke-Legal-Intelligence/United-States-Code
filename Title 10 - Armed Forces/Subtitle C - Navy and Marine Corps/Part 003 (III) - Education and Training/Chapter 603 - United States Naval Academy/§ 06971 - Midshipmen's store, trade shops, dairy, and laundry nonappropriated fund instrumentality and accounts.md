@@ -2,7 +2,7 @@
 
 (a)
 
-Operation as Nonappropriated Fund Instrumentality.—The Superintendent of the Naval Academy shall operate the Naval Academy activities referred to in subsection (b) as a nonappropriated fund instrumentality under the jurisdiction of the Navy.
+Operation as Nonappropriated Fund Instrumentality.—The Superintendent of the Naval Academy shall operate the Naval Academy activities referred to in subsection (b) as anonappropriated fund instrumentality under the jurisdiction of the Navy.
 
 (b)
 
@@ -32,7 +32,7 @@ Crediting of Revenue.—The Superintendent shall credit all revenue received fro
 
 Regulations.—This section shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 435; Nov. 2, 1966, Pub. L. 89–718, §38, 80 Stat. 1120; Oct. 5, 1994, Pub. L. 103–337, div. A, title III, §376, 108 Stat. 2736; Sept. 23, 1996, Pub. L. 104–201, div. A, title III, §370(a), 110 Stat. 2498; Nov. 18, 1997, Pub. L. 105–85, div. B, title XXVIII, §2871(c)(1), 111 Stat. 2015.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 435; Pub. L. 89–718, §38, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 103–337, div. A, title III, §376, Oct. 5, 1994, 108 Stat. 2736; Pub. L. 104–201, div. A, title III, §370(a), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(1), Nov. 18, 1997, 111 Stat. 2015.)
 
 Historical and Revision Notes
 

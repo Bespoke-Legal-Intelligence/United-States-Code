@@ -1,6 +1,0 @@
-### §5804. Service of process
-
-With respect to service of process, the association shall comply with the laws of the District of Columbia and those States in which it carries on its activities in furtherance of its corporate purposes.
-
-(Pub. L. 105–85, div. A, title XV, §1504, Nov. 18, 1997, 111 Stat. 1964.)
-

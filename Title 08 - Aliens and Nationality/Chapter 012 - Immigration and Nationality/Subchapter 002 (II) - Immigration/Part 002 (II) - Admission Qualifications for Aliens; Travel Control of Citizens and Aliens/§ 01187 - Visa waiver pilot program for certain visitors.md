@@ -52,23 +52,27 @@ An alien may not be provided a waiver under the pilot program unless the alien h
 
 #### (2) Qualifications
 
-&emsp;Except as provided in subsection (g)(4) <sup>1</sup> of this section, a country may not be designated as a pilot program country unless the following requirements are met:
+&emsp;Except as provided in subsection (g) of this section, a country may not be designated as apilot program country unless the following requirements are met:
 
-#### (A) Low nonimmigrant visa refusal rate for previous 2-year period
+#### (A) Low nonimmigrant visa refusal rate
 
-&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
+&emsp;&emsp;Either—
 
-#### (B) Low nonimmigrant visa refusal rate for each of 2 previous years
+&emsp;&emsp;&emsp;(i) the average number of refusals of nonimmigrant visitor visas for nationals of that country during—
 
-&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year.
+&emsp;&emsp;&emsp;&emsp;(I) the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years; and
 
-#### (C) Machine readable passport program
+&emsp;&emsp;&emsp;&emsp;(II) either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year; or
+
+&emsp;&emsp;&emsp;(ii) such refusal rate for nationals of that country during the previous full fiscal year was less than 3.0 percent.
+
+#### (B) Machine readable passport program
 
 &emsp;&emsp;The government of the country certifies that it has or is in the process of developing a program to issue machine-readable passports to its citizens.
 
-#### (D) Law enforcement interests
+#### (C) Law enforcement interests
 
-&emsp;&emsp;The Attorney General determines that the United States law enforcement interestswould not be compromised by the designation of the country.
+&emsp;&emsp;The Attorney General determines that the United States law enforcement interests would not be compromised by the designation of the country.
 
 #### (3) Continuing and subsequent qualifications
 
@@ -122,7 +126,7 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 #### (f) “Pilot program period” defined
 
-For purposes of this section, the term “pilot program period” means the period beginning on October 1, 1988, and ending on April 30, 1998.
+For purposes of this section, the term “pilot program period” means the period beginning on October 1, 1988, and ending on April 30, 2000.
 
 #### (g) Duration and termination of designation
 
@@ -144,7 +148,7 @@ For purposes of this section, the term “pilot program period” means the peri
 
 #### (A) In general
 
-&emsp;&emsp;If the Attorney General determines at the end of the probationary period described inparagraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section <sup>2</sup> (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a pilot program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a pilot program country.
+&emsp;&emsp;If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section <sup>1</sup> (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a pilot program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a pilot program country.
 
 #### (B) Effective date
 
@@ -166,9 +170,13 @@ For purposes of this section, the term “pilot program period” means the peri
 
 &emsp;&emsp;(B) the total number of nationals of such country who applied for admission as nonimmigrant visitors during such fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Nov. 6, 1986, Pub. L. 99–603, title III, §313(a), 100 Stat. 3435; amended Oct. 24, 1988, Pub. L. 100–525, §2(p)(1), (2), 102 Stat. 2613; Nov. 29, 1990, Pub. L. 101–649, title II, §201(a), 104 Stat. 5012; Dec. 12, 1991, Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), 105 Stat. 1746, 1756; Oct. 25, 1994, Pub. L. 103–415, §1(m), 108 Stat. 4301; Oct. 25, 1994, Pub. L. 103–416, title II, §§210, 211, 108 Stat. 4312, 4313; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Nov. 26, 1997, Pub. L. 105–119, title I, §125, 111 Stat. 2471.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56.)
 
 #### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period, low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
+
+Subsec. (f). Pub. L. 105–173, §1, substituted “2000” for “1998”.
 
 1997—Subsec. (f). Pub. L. 105–119 reenacted subsec. heading without change and amended text generally, substituting “April 30, 1998” for “September 30, 1997”.
 
@@ -292,7 +300,5 @@ Details in Report.—The report shall include—
 
 This section is referred to in sections 1182, 1184, 1255, 1258 of this title.
 
-<i><sup>1</sup></i><i> So in original. See 1996 Amendment notes below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

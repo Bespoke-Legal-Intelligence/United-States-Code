@@ -86,11 +86,15 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 &emsp;(2) not less than 50 percent shall be made available for grants under subsection (a)(1)(B) of this section for National Research Service Awards;
 
-&emsp;(3) 1 percent shall be made available to the Secretary, acting through the Administrator of the Health Resources and Services Administration, for payments under National Research Service Awards which (A) are made to individuals affiliated with entities which have received grants or contracts under section 293k, 293<i>l</i>, or 293m of this title, and (B) are for research in primary medical care; and 1 percent shall be made available for payments under National Research Service Awards made for health services research by the Agency for Health Care Policy and Research under section 242b(a) of this title; and
+&emsp;(3) 1 percent shall be made available to the Secretary, acting through the Administrator of the Health Resources and Services Administration, for payments under National Research Service Awards which (A) are made to individuals affiliated with entities which have received grants or contracts under section 293k, 293<i>l</i>,<sup>2</sup> or 293m <sup>2</sup> of this title, and (B) are for research in primary medical care; and 1 percentshall be made available for payments under National Research Service Awards made for health services research by the Agency for Health Care Policy and Research under section 242b(a) of this title; and
 
 &emsp;(4) not more than 4 percent may be obligated for National Research Service Awards for periods of three months or less.
 
-(July 1, 1944, ch. 373, title IV, §487, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 869; amended Nov. 4, 1988, Pub. L. 100–607, title I, §151, title VI, §635, 102 Stat. 3058, 3148; Aug. 16, 1989, Pub. L. 101–93, §5(d), 103 Stat. 612; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(7), 103 Stat. 2208; July 10, 1992, Pub. L. 102–321, title I, §163(b)(4), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title XVI, §§1601, 1602, 1632, 1641, title XX, §2008(b)(14), 107 Stat. 181, 186, 211.)
+(July 1, 1944, ch. 373, title IV, §487, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 869; amended Pub. L. 100–607, title I, §151, title VI, §635, Nov. 4, 1988, 102 Stat. 3058, 3148; Pub. L. 101–93, §5(d), Aug. 16, 1989, 103 Stat. 612; Pub. L. 101–239, title VI, §6103(e)(7), Dec. 19, 1989, 103 Stat. 2208; Pub. L. 102–321, title I, §163(b)(4), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title XVI, §§1601, 1602, 1632, 1641, title XX, §2008(b)(14), June 10, 1993, 107 Stat. 181, 186, 211.)
+
+#### References in Text
+
+Sections 293<i>l</i> and 293m of this title, referred to in subsec. (d)(3), were repealed, and a new section 293<i>l</i>, relating to different subject matter, was added by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
 
 #### Amendments
 
@@ -124,7 +128,9 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 242, 254m, 283g, 284, 285a–3, 285b–4, 285c–2, 285d–2, 285e–2, 287c, 288–4, 288–5, 300cc–16 of this title.
+This section is referred to in sections 242, 254m, 282, 284, 285a–3, 285b–4, 285c–2, 285d–2, 285e–2, 287c, 288–4, 288–5, 300cc–16 of this title.
 
 <i><sup>1</sup></i><i> So in original. Reference to Administration probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

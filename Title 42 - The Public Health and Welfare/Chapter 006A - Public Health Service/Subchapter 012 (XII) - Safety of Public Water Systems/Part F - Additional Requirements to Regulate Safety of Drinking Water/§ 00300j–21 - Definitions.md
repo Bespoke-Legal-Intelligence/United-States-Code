@@ -8,7 +8,7 @@ As used in this part—
 
 #### (2) Lead free
 
-&emsp;The term “lead free” means, with respect to a drinking water cooler, that each part or component of the cooler which may come in contact with drinking water contains not more than 8 percent lead, except that no drinking water cooler which contains any solder, flux, or storage tank interior surface which may come in contact with drinking water shall be considered lead free if the solder, flux, or storage tank interior surface contains more than 0.2 percent lead. The Administrator may establish more stringent requirements for treating any part or component of adrinking water cooler as lead free for purposes of this part whenever he determines that any such part may constitute an important source of lead in drinking water.
+&emsp;The term “lead free” means, with respect to a drinking water cooler, that each part or component of the cooler which may come in contact with drinking water contains not more than 8 percent lead, except that no drinking water cooler which contains any solder, flux, or storage tank interior surface which may come in contact with drinking water shall be considered lead free if the solder, flux, or storage tank interior surface contains more than 0.2 percent lead. The Administrator may establish more stringent requirements for treating any part or component of a drinking water cooler as lead free for purposes of this part whenever he determines that any such part may constitute an important source of lead in drinking water.
 
 #### (3) Local educational agency
 
@@ -36,7 +36,7 @@ As used in this part—
 
 &emsp;The term “lead-lined tank” means a water reservoir container in a drinking water cooler which container is constructed of lead or which has an interior surface which is not lead free.
 
-(July 1, 1944, ch. 373, title XIV, §1461, as added Oct. 31, 1988, Pub. L. 100–572, §2(a), 102 Stat. 2884; amended Oct. 20, 1994, Pub. L. 103–382, title III, §391(p), 108 Stat. 4024; Aug. 6, 1996, Pub. L. 104–182, title V, §501(f)(7), 110 Stat. 1692.)
+(July 1, 1944, ch. 373, title XIV, §1461, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2884; amended Pub. L. 103–382, title III, §391(p), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 104–182, title V, §501(f)(7), Aug. 6, 1996, 110 Stat. 1692.)
 
 #### References in Text
 

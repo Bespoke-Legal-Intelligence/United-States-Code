@@ -44,7 +44,7 @@ Section 2A(i) of the Home Owners’ Loan Act, referred to in par. (1), probably 
 
 Sections 5.11 and 5.58 of the Farm Credit Act of 1971, referred to in par. (1), are classified to sections 2245 and 2277a–7, respectively, of Title 12.
 
-Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in par. (3), was in the original (78 Stat. 432) a reference to “the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 403a and the following”. Subsequent to the enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, additional sections have been added to the 1949 Act and are classified to sections 403k to 403r, 403s, and 403t of Title 50, War and National Defense.
+Sections 403a–403c, 403e–403h, and 403j of title 50, referred to in par. (3), was in the original (78 Stat. 432) a reference to “the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 403a and the following”. Subsequent to the enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, additional sections have been added to the 1949 Act and are classified to sections 403k to 403r, and 403s to 403u of Title 50, War and National Defense.
 
 #### Amendments
 

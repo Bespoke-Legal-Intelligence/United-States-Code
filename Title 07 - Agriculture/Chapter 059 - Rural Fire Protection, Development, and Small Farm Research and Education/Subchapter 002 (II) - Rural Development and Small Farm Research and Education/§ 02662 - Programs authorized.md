@@ -168,7 +168,7 @@ A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127, §886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
+1996—Subsec. (a). Pub. L. 104–127, §886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empowercapacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
 
 Subsec. (f). Pub. L. 104–127, §792(a), struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
 

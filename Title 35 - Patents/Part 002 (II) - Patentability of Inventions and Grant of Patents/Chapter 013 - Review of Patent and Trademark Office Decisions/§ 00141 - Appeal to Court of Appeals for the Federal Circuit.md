@@ -12,7 +12,7 @@ Changes in language are made.
 
 #### Amendments
 
-1984—Pub. L. 98–622, §203(a)(1)(A), substituted “in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal thedecision” for “of the Board of Patent Appeals may appeal” in first sentence.
+1984—Pub. L. 98–622, §203(a)(1)(A), substituted “in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal the decision” for “of the Board of Patent Appeals may appeal” in first sentence.
 
 Pub. L. 98–622, §203(a)(1)(B), substituted “. By filing such an appeal the applicant waives his or her right” for “, thereby waiving his right” in first sentence.
 

@@ -26,7 +26,7 @@ Such trails may be designated and suitably marked as parts of the nationwide sys
 
 The Land and Water Conservation Fund Act, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-Act of October 15, 1966, referred to in subsec. (a), is Pub. L. 89–665, as amended, popularly known as the “National Historic Preservation Act” which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470 of this title and Tables.
+Act of October 15, 1966, referred to in subsec. (a), is Pub. L. 89–665, as amended, popularly known as the“National Historic Preservation Act” which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470 of this title and Tables.
 
 Act of May 28, 1963, referred to in subsec. (a), is Pub. L. 88–29, May 28, 1963, 77 Stat. 49, as amended, which is classified generally to part A (§460<i>l</i> et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Tables.
 

@@ -14,7 +14,7 @@ Pub. L. 105–65, title V, §510, Oct. 27, 1997, 111 Stat. 1385, provided that: 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–120, §1, Mar. 28, 1996, 110 Stat. 834, provided that: “This Act \[enacting section 1490p–2 of Title42, The Public Health and Welfare, amending sections 1715z–20 and 1721 of this title and sections 1437d, 1437e, 1437n, 1479, 1485, 1490p–2, and 5308 of Title 42, enacting provisions set out as notes under section 4101 of this title and sections 1437d, 1437f, 5305, and 12805 of Title 42, and amending provisions set out as a note under section 1707 of this title\] may be cited as the ‘Housing Opportunity Program Extension Act of 1996’.”
+Pub. L. 104–120, §1, Mar. 28, 1996, 110 Stat. 834, provided that: “This Act \[enacting section 1490p–2 of Title 42, The Public Health and Welfare, amending sections 1715z–20 and 1721 of this title and sections 1437d, 1437e, 1437n, 1479, 1485, 1490p–2, and 5308 of Title 42, enacting provisions set out as notes under section 4101 of this title and sections 1437d, 1437f, 5305, and 12805 of Title 42, and amending provisions set out as a note under section 1707 of this title\] may be cited as the ‘Housing Opportunity Program Extension Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -48,7 +48,7 @@ Pub. L. 94–375, §1, Aug. 3, 1976, 90 Stat. 1067, provided that: “This Act \
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–13, prec. §1, Apr. 8, 1975, 89 Stat. 68, provided: “That this Act \[amending section 1749bbb of this title and enacting provisions set out as a note under section 1749bbb of this title\] may be cited as the ‘National Insurance Development Act of 1975’.”
+Pub. L. 94–13, prec. §1, Apr. 8, 1975, 89 Stat. 68, provided: “That this Act \[amending section 1749bbb of thistitle and enacting provisions set out as a note under section 1749bbb of this title\] may be cited as the ‘National Insurance Development Act of 1975’.”
 
 #### Short Title of 1974 Amendment
 
@@ -78,7 +78,7 @@ Pub. L. 89–429, §1, May 24, 1966, 80 Stat. 164, provided: “That this act \[
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–117, §1, Aug. 10, 1965, 79 Stat. 451, provided: “That this Act \[enacting sections 1701s and 1735c to 1735h, and subchapter IX–A of chapter 13 of this title, subchapter IV–A of chapter 14B of Title 15, Commerce and Trade, and sections 1421b, 1466 to 1468, 1500c–1, 1500c–2, 1500c–3, and 1487 to 1490, and chapters 36 and 37 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1701d–3, 1701q, and 1749 of this title, section 462 of Title 40, Public Buildings, Property, and Works, and sections 1451, 1453, 1455, 1460, 1465, 1466, and 3074 of Title 42, amending sections 371, 1464, 1701q, 1701<i>o</i>, 1701h, 1702, 1703, 1706c, 1709, 1710, 1713, 1715, 1715c, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715t, 1715v, 1715w, 1715x, 1715y, 1717, 1718, 1720, 1721, 1727, 1739, 1743, 1744, 1747f, 1747g, 1748b, 1748h, 1748h–1, 1748h–2, 1749, 1749c, 1750, 1750c, and 1750g of this title, sections 633 and 671 of Title 15, sections 802 and 803 of Title 20, Education, sections 1804 \[now 3704\] and 1816 \[now 3732\] of Title 38, Veterans’ Benefits, sections 461 and 462 of Title 40, sections 1402, 1410, 1412, 1415, 1421a, 1422, 1451, 1452, 1452b, 1453, 1455, 1456, 1460, 1463, 1465, 1471, 1472, 1476, 1481, 1482, 1483, 1485, 1492, 1500, 1500a, 1500b, 1500c, 1500d,and 1500e of Title 42, and sections 1605 and 1608 of Title 49, Transportation, and repealing sections 1715j, 1737, 1740, 1747i, 1748a, 1748c, 1750a and 1750d of this title\] may be cited as the ‘Housing and Urban Development Act of 1965’.”
+Pub. L. 89–117, §1, Aug. 10, 1965, 79 Stat. 451, provided: “That this Act \[enacting sections 1701s and 1735c to 1735h, and subchapter IX–A of chapter 13 of this title, subchapter IV–A of chapter 14B of Title 15, Commerce and Trade, and sections 1421b, 1466 to 1468, 1500c–1, 1500c–2, 1500c–3, and 1487 to 1490, and chapters 36 and 37 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1701d–3, 1701q, and 1749 of this title, section 462 of Title 40, Public Buildings, Property, and Works, and sections 1451, 1453, 1455, 1460, 1465, 1466, and 3074 of Title 42, amending sections 371, 1464, 1701q, 1701<i>o</i>, 1701h, 1702, 1703, 1706c, 1709, 1710, 1713, 1715, 1715c, 1715e, 1715h, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715t, 1715v, 1715w, 1715x, 1715y, 1717, 1718, 1720, 1721, 1727, 1739, 1743, 1744, 1747f, 1747g, 1748b, 1748h, 1748h–1, 1748h–2, 1749, 1749c, 1750, 1750c, and 1750g of this title, sections 633 and 671 of Title 15, sections 802 and 803 of Title 20, Education, sections 1804 \[now 3704\] and 1816 \[now 3732\] of Title 38, Veterans’ Benefits, sections 461 and 462 of Title 40, sections 1402, 1410, 1412, 1415, 1421a, 1422, 1451,1452, 1452b, 1453, 1455, 1456, 1460, 1463, 1465, 1471, 1472, 1476, 1481, 1482, 1483, 1485, 1492, 1500, 1500a, 1500b, 1500c, 1500d, and 1500e of Title 42, and sections 1605 and 1608 of Title 49, Transportation, and repealing sections 1715j, 1737, 1740, 1747i, 1748a, 1748c, 1750a and 1750d of this title\] may be cited as the ‘Housing and Urban Development Act of 1965’.”
 
 #### Short Title of 1964 Amendment
 
@@ -118,7 +118,7 @@ Act June 30, 1953, ch. 170, §1, 67 Stat. 121, provided: “This Act \[enacting 
 
 #### Short Title of 1952 Amendment
 
-Act July 14, 1952, ch. 723, §1, 66 Stat. 601, provided that: “This Act \[enacting sections 1701m, 1706d, and1715i of this title and amending sections 1422, 1423, 1464, 1466, 1701g–2, 1707, 1713, 1715d, 1715h, 1716, 1717, 1726, 1736, 1745, 1747<i>l</i>, 1748, and 1750b of this title; sections 1481 to 1483, 1589a, 1592a, 1592<i>l</i>, and 1593 of Title 42, The Public Health and Welfare; and sections 484 and 484d of Title 48, Territories and Insular Possessions\] may be cited as the ‘Housing Act of 1952’.”
+Act July 14, 1952, ch. 723, §1, 66 Stat. 601, provided that: “This Act \[enacting sections 1701m, 1706d, and 1715i of this title and amending sections 1422, 1423, 1464, 1466, 1701g–2, 1707, 1713, 1715d, 1715h, 1716, 1717, 1726, 1736, 1745, 1747<i>l</i>, 1748, and 1750b of this title; sections 1481 to 1483, 1589a, 1592a, 1592<i>l</i>, and 1593 of Title 42, The Public Health and Welfare; and sections 484 and 484d of Title 48, Territories and Insular Possessions\] may be cited as the ‘Housing Act of 1952’.”
 
 #### Short Title of 1950 Amendment
 

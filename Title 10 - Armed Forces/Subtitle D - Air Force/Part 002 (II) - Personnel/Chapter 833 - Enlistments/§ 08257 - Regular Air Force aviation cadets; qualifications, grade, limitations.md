@@ -14,7 +14,7 @@
 
 (e) While on active duty, an aviation cadet is entitled to uniforms, clothing, and equipment at the expense of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 504; Sept. 2, 1958, Pub. L. 85–861, §33(a)(37), 72 Stat. 1566; Dec. 12, 1980, Pub. L. 96–513, title II, §237, 94 Stat. 2887.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 504; Pub. L. 85–861, §33(a)(37), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 96–513, title II, §237, Dec. 12, 1980, 94 Stat. 2887.)
 
 Historical and Revision Notes<br>1956
 
@@ -56,7 +56,7 @@ In subsection (b), the words “Under such regulations as the Secretary of the A
 
 In subsection (c), the words “who is otherwise qualified” and “with his consent” are substituted for 10: 291f–2 (less 1st 55 words of 1st proviso).
 
-In subsection (d), the first sentence is substituted for 10:291f–2 (proviso). The words “after June 13, 1940” (the date of enactment of the source statute) are substituted for the word “hereafter”, in 10:291f–2. The words “after June 13, 1949”, in 10:291f–2, are omitted as executed. The first 17 words of the last sentence are substituted for 10:299 (1st 20 words of 2d sentence). Clause (2) is substituted for 10:299 (proviso of 2d sentence).
+In subsection (d), the first sentence is substituted for 10:291f–2 (proviso). The words “after June 13, 1940” (the date of enactment of the source statute) are substituted for the word “hereafter”, in 10:291f–2. The words “after June 13, 1949”, in 10:291f–2, are omitted asexecuted. The first 17 words of the last sentence are substituted for 10:299 (1st 20 words of 2d sentence). Clause (2) is substituted for 10:299 (proviso of 2d sentence).
 
 #### 1958 Act
 

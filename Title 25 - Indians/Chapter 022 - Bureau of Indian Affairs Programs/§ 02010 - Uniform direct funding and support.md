@@ -2,9 +2,9 @@
 
 #### (a) Establishment of system
 
-(1) Within six months after October 20, 1994, the Secretary shall establish, by regulation adopted in accordance with section 2019 of this title, a system for the direct funding and support of all Bureau funded schools. Such system shall allot funds, in accordance with section 2007 of this title. All amounts appropriated for distribution under this section may be made available under paragraph (2).
+(1) Within six months after October 20, 1994, the Secretary shall establish, by regulation adopted in accordance with section 2019 <sup>1</sup> of this title, a system for the direct funding and support of all Bureau funded schools. Such system shall allot funds, in accordance with section 2007 of this title. All amounts appropriated for distribution under this section may be made available under paragraph (2).
 
-(2)(A) For the purpose of affording adequate notice of funding available pursuant to the allotments made by section 2007 of this title, amounts appropriated in an appropriation Act for any fiscal year shall become available for obligation by the affected schools on July 1 of the fiscal year in which such amounts are appropriated without further action by the Secretary, and shall remain available for obligation through the succeeding fiscal year.
+(2)(A) For the purpose of affording adequate notice of funding available pursuant to the allotments made by section 2007 of this title,amounts appropriated in an appropriation Act for any fiscal year shall become available for obligation by the affected schools on July 1 of the fiscal year in which such amounts are appropriated without further action by the Secretary, and shall remain available for obligation through the succeeding fiscal year.
 
 (B) The Secretary shall, on the basis of the amount appropriated in accordance with this paragraph—
 
@@ -40,7 +40,7 @@
 
 #### (b) Local financial plans for expenditure of funds
 
-In the case of all Bureau schools, allotted funds shall be expended on the basis of local financial plans which shall be prepared by the local school supervisor in active consultation with the local school board for each school, and the local school board for each school shall have the authority to ratify, reject, or amend such financial plan, and expenditures thereunder, and, on its own determination or in response to the supervisor of the school, to revise such financial plan to meet needs not foreseen at the time of preparation of the financial plan. The supervisor shall provide the appropriate union representative of the education employees with copies of proposed draft financial plans and all amendments or modifications thereto, at the same time such copies are submitted to the local school board. The supervisor of the school may appeal any such action of the local school board to the appropriate education line officer of the Bureau agency by filing a written statement describing the action and the reasons the supervisor believes such action should be overturned. A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal. After reviewing such written appeal and response, the appropriate education line officer may, for good cause, overturn the action of the local school board. The appropriate line education officer shall transmit the determination of such appeal in the form of a written opinion to such board and to such supervisoridentifying the reasons for overturning such action.
+In the case of all Bureau schools, allotted funds shall be expended on the basis of local financial plans which shall be prepared by the local school supervisor in active consultation with the local school board for each school, and the local school board for each school shall have the authority to ratify, reject, or amend such financial plan, and expenditures thereunder, and, on its own determination or in response to the supervisor of the school, to revise such financial plan to meet needs not foreseen at the time of preparation of the financial plan. The supervisor shall provide the appropriate union representative of the education employees with copies of proposed draft financial plans and all amendments or modifications thereto, at the same time such copies are submitted to the local school board. The supervisor of the school may appeal any such action of the local school board to the appropriate education line officer of the Bureau agency by filing a written statement describing the action and the reasons the supervisor believes such action should be overturned. A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal. After reviewing such written appeal and response, the appropriate education line officer may, for good cause, overturn the action of the local school board. The appropriate line education officer shall transmit the determination of such appeal in the form of a written opinion to such board and to such supervisor identifying the reasons for overturning such action.
 
 #### (c) Use of self-determination grant funds
 
@@ -82,6 +82,8 @@ Notwithstanding any other provision of law, funds received by a Bureau funded sc
 
 #### References in Text
 
+Section 2019 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 105–362, title VIII, §801(c)(5), Nov. 10, 1998, 112 Stat. 3288.
+
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(4), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 Section 450h(a) of this title, referred to in subsec. (c), was in the original “section 104(a) of such Act”, meaning section 104(a) of the Indian Self-Determination and Education Assistance Act, which was translated as reading section 103(a) of that Act to reflect the probable intent of Congress, because section 104(a) amended section 3371 of Title 5, Government Organization and Employees, but former section 104(a), which was renumbered section 103(a) by Pub. L. 100–472, title II, §202(a), Oct. 5, 1988, 102 Stat. 2289, authorizes the Secretary of the Interior to contract with and make grants to tribal organizations.
@@ -98,7 +100,7 @@ A prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2007, 2012, 2017, 2019, 2411 of this title; title 20 section 7816.
+This section is referred to in sections 2007, 2012, 2017, 2411 of this title; title 20 section 7816.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

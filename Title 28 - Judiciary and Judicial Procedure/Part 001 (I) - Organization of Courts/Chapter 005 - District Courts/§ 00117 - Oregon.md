@@ -16,7 +16,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–272 provided for holding court at Coquille.
+1970—Pub. L. 91–272 provided for holding court at Coquille.
 
-<b>1950</b>—Act Aug. 3, 1950, provided for holding court at Eugene.
+1950—Act Aug. 3, 1950, provided for holding court at Eugene.
 

@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;&emsp;(5) any other substance in the concentration specified by the Secretary, after consultation with the Secretary of State and the Secretary of Defense, that has been added to the table in part 2 of the Technical Annex to the Convention on the Marking of Plastic Explosives.
 
-&emsp;(q) “Plastic explosive” means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10^ <sup>4</sup> Pa at a temperature of 25°C., is formulated with a binder material, and is as a mixture malleable or flexible at normal room temperature.
+&emsp;(q) “Plastic explosive” means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10^<sup>4</sup> Pa at a temperature of 25°C., is formulated with a binder material, and is as a mixture malleable or flexible at normal room temperature.
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288.)
 
@@ -158,7 +158,7 @@ In general.—In conducting the study under subsection (a), the Secretary shall 
 
 &emsp;“(2)
 
-Fertilizer research centers.—In conducting any portion of the study under subsection (a) relating to the regulation and use of fertilizer as a pre-explosive material, the Secretary of the Treasury shallconsult with and receive input from non-profit fertilizer research centers.
+Fertilizer research centers.—In conducting any portion of the study under subsection (a) relating to the regulation and use of fertilizer as a pre-explosive material, the Secretary of the Treasury shall consult with and receive input from non-profit fertilizer research centers.
 
 “(c)
 
@@ -234,7 +234,7 @@ Report and costs.—The study conducted under this subsection shall be presented
 
 #### Congressional Declaration of Purpose
 
-Section 1101 of title XI of Pub. L. 91–452 provided that: “The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+Section 1101 of title XI of Pub. L. 91–452 provided that: “The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title andsections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
 #### Modification of Other Provisions
 
@@ -256,7 +256,7 @@ Section 1105(c) of Pub. L. 91–452 provided that: “Any person (as defined in 
 
 #### Authorization of Appropriations
 
-Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriatedsuch sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
+Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
 
 #### Section Referred to in Other Sections
 

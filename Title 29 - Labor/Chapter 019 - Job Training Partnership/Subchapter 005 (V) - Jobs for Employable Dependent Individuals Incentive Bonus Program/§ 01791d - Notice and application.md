@@ -26,6 +26,10 @@ The Secretary shall promptly inform a State after receipt of the application as 
 
 (Pub. L. 97–300, title V, §505, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3250; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1097.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Codification
 
 A section 505 of title VI of Pub. L. 97–300, as added Pub. L. 100–418, title VI, §6307(a), Aug. 23, 1988, 102 Stat. 1541, and amended, was renumbered section 605 of title VI of Pub. L. 97–300 by Pub. L. 102–367, title VII, §702(a)(20), Sept. 7, 1992, 106 Stat. 1113, and is classified to section 1505 of this title.

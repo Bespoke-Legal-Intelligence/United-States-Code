@@ -22,7 +22,7 @@
 
 (h) There shall be not less than 10 officers of the Army National Guard of the United States and the Army Reserve on duty with the Army Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Army Staff while on that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 161, §3033; Sept. 2, 1958, Pub. L. 85–861, §33(a)(17), 72 Stat. 1565; Dec. 1, 1967, Pub. L. 90–168, §2(18), 81 Stat. 524; renumbered §3021 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(8), 100 Stat. 1039; renumbered §10302, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1661(b)(2)(A), 108 Stat. 2981.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 161, §3033; Pub. L. 85–861, §33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, §2(18), Dec. 1, 1967, 81 Stat. 524; renumbered §3021 and amended Pub. L. 99–433, title V, §501(a)(8), Oct. 1, 1986, 100 Stat. 1039; renumbered §10302, Pub. L. 103–337, div. A, title XVI, §1661(b)(2)(A), Oct. 5, 1994, 108 Stat. 2981.)
 
 Historical and Revision Notes<br>1956
 

@@ -92,7 +92,7 @@ Requirement to Report Legislation.—(1) The committees of jurisdiction in the H
 
 “(f) \[sic\]
 
-President's Budget.—The President's annual budget submission shall include an analysis of the financial condition of the GSEs and the financial exposure of the Government, if any, posed by GSEs.”
+President's Budget.—The President's annual budget submission shall include an analysis of thefinancial condition of the GSEs and the financial exposure of the Government, if any, posed by GSEs.”
 
 #### Multiyear Authorizations and 2-Year Appropriations for Selected Agencies and Accounts
 
@@ -148,7 +148,7 @@ Expiration of Certain Supermajority Voting Requirements.—Subsections (c)(2) an
 
 #### Act Referred to in Other Sections
 
-The Congressional Budget Act of 1974 is referred to in sections 907a, 907b, 907c, of this title; title 7 section 1446c–1; title 22 sections 2717, 2718, 4715; title 33 section 2326a; title 50 App. sections 1989b–8, 1989c–7.
+The Congressional Budget Act of 1974 is referred to in sections 907a, 907b, 907c, of this title; title 7 section 1446c–1; title 22 sections 2718, 4715; title 33 section 2326a; title 50 App. sections 1989b–8, 1989c–7.
 
 The Congressional Budget and Impoundment Control Act of 1974 is referred to in section 907a of this title; title 16 sections 544<i>l</i>, 1606; title 22 sections 2295b, 5857; title 42 section 11303.
 

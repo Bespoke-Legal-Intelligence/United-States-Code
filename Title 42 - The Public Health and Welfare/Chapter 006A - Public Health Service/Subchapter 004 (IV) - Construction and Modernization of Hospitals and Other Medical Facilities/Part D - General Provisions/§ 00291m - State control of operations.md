@@ -2,7 +2,7 @@
 
 Except as otherwise specifically provided, nothing in this subchapter shall be construed as conferring on any Federal officer or employee the right to exercise any supervision or control over the administration, personnel, maintenance, or operation of any facility with respect to which any funds have been or may be expended under this subchapter.
 
-(July 1, 1944, ch. 373, title VI, §643, formerly §623, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 458, and renumbered §643, June 30, 1970, Pub. L. 91–296, title II, §201, 84 Stat. 344.)
+(July 1, 1944, ch. 373, title VI, §643, formerly §623, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 458, and renumbered §643, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344.)
 
 #### Prior Provisions
 

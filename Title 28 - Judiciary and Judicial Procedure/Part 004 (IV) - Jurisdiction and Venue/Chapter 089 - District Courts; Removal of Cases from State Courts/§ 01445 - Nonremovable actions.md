@@ -30,17 +30,17 @@ Section 40302 of the Violence Against Women Act of 1994, referred to in subsec. 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60)” for “sections 51–60 of Title 45”.
+1996—Subsec. (a). Pub. L. 104–287 substituted “sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60)” for “sections 51–60 of Title 45”.
 
-<b>1995</b>—Subsec. (b). Pub. L. 104–88 substituted “carrier” for “common carrier” and “11706 or 14706” for “11707”.
+1995—Subsec. (b). Pub. L. 104–88 substituted “carrier” for “common carrier” and “11706 or 14706” for “11707”.
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–322 added subsec. (d).
+1994—Subsec. (d). Pub. L. 103–322 added subsec. (d).
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–486 substituted “$10,000” for “$3,000”.
+1978—Subsec. (b). Pub. L. 95–486 substituted “$10,000” for “$3,000”.
 
 Pub. L. 95–473 substituted “section 11707 of title 49” for “section 20 of Title 49”.
 
-<b>1958</b>—Pub. L. 85–554 substituted “Nonremovable actions” for “Carriers; nonremovable actions” in section catchline and added subsec. (c).
+1958—Pub. L. 85–554 substituted “Nonremovable actions” for “Carriers; nonremovable actions” in section catchline and added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 

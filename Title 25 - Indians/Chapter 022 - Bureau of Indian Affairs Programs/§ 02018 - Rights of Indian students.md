@@ -12,7 +12,3 @@ Within six months of November 1, 1978, the Secretary shall prescribe such rules 
 
 A prior section 2018, Pub. L. 95–561, title XI, §1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, §510, Oct. 19, 1984, 98 Stat. 2397, related to regulations implementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2019 of this title.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-Prompt Indemnification Required.—(1) In the event of a loss that is covered by defense-related aviation insurance, the Secretary of Defense shall promptly indemnify the Secretary of Transportation for the amount of the loss consistent with the indemnification agreement between the two Secretaries that underlies suchinsurance. The Secretary of Defense shall make such indemnification—
+Prompt Indemnification Required.—(1) In the event of a loss that is covered by defense-related aviation insurance, the Secretary of Defense shall promptly indemnify the Secretary of Transportation for the amount of the loss consistent with the indemnification agreement between the two Secretaries that underlies such insurance. The Secretary of Defense shall make such indemnification—
 
 &emsp;(A) in the case of a claim for the loss of an aircraft hull, not later than 30 days after the date on which the Secretary of Transportation determines the claim to be payable or that amounts are due under the policy that provided the defense-related aviation insurance; and
 

@@ -30,5 +30,5 @@ The definitions in section 1801 of this title apply to this section.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13d–2, 640a, 640c–1, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 2471, 3489.
+This section is referred to in sections 13d–2, 640a, 640c–1, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 3489.
 

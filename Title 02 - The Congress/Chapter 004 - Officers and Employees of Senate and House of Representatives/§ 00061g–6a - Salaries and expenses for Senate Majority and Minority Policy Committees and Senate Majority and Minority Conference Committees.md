@@ -16,7 +16,7 @@
 
 Any funds transferred under this section shall be—
 
-&emsp;(1) available for expenditure by such committee in like manner and for the same purposes as are other moneys which are available for expenditure by such committee from the account to which the funds were transferred; and
+&emsp;(1) available for expenditure by such committee in like manner and for the same purposes as are other moneys which are available for expenditure by such committee from theaccount to which the funds were transferred; and
 
 &emsp;(2) made at such time or times as the Chairman shall specify in writing to the Senate Disbursing Office.
 

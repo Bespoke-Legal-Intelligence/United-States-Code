@@ -8,7 +8,7 @@ The purpose of this subchapter is—
 
 &emsp;(c) to promote research, experiments, and demonstrations relating to the effective development and utilization of hospital, clinic, or similar services, facilities, and resources, and to promote the coordination of such research, experiments, and demonstrations and the useful application of their results.
 
-(July 1, 1944, ch. 373, title VI, §600, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 447.)
+(July 1, 1944, ch. 373, title VI, §600, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 447.)
 
 #### Prior Provisions
 
@@ -18,7 +18,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Effective Date
 
-Section 3(b) of Pub. L. 88–443, as amended by Pub. L. 91–296, title I, §120, June 30, 1970, 84 Stat. 343, provided that: “The amendment made by subsection (a) \[enacting this section and sections 291a to 291j, 291k to 291m, 291n, and 291<i>o</i> of this title\] shall become effective upon the date of enactment of this Act \[Aug. 18, 1964\], except that—
+Section 3(b) of Pub. L. 88–443, as amended by Pub. L. 91–296, title I, §120, June 30, 1970, 84 Stat. 343, provided that: “The amendment made by subsection (a) \[enacting this section and sections 291a to 291j, 291k to 291m,291n, and 291<i>o</i> of this title\] shall become effective upon the date of enactment of this Act \[Aug. 18, 1964\], except that—
 
 &emsp;“(1) all applications approved by the Surgeon General under title VI of the Public Health Service Act \[this subchapter\] prior to such date, and allotments of sums appropriated prior to such date, shall be governed by the provisions of such title VI in effect prior to such date;
 

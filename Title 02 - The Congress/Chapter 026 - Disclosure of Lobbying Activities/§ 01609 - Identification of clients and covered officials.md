@@ -6,7 +6,7 @@ Any person or entity that makes an oral lobbying contact with a covered legislat
 
 &emsp;(1) state whether the person or entity is registered under this chapter and identify the client on whose behalf the lobbying contact is made; and
 
-&emsp;(2) state whether such client is a foreign entity and identify any foreign entity required to be disclosed under section 1603(b)(4) of thistitle that has a direct interest in the outcome of the lobbying activity.
+&emsp;(2) state whether such client is a foreign entity and identify any foreign entity required to be disclosed under section 1603(b)(4) of this title that has a direct interest in the outcome of the lobbying activity.
 
 #### (b) Written lobbying contacts
 

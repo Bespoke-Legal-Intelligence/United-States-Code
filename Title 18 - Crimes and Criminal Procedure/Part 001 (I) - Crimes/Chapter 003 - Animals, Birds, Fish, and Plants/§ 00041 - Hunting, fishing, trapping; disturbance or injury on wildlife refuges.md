@@ -2,7 +2,7 @@
 
 Whoever, except in compliance with rules and regulations promulgated by authority of law, hunts, traps, captures, willfully disturbs or kills any bird, fish, or wild animal of any kind whatever, or takes or destroys the eggs or nest of any such bird or fish, on any lands or waters which are set apart or reserved as sanctuaries, refuges or breeding grounds for such birds, fish, or animals under any law of the United States or willfully injures, molests, or destroys any property of the United States on any such lands or waters, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 686; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §145 and §§676, 682, 683, 685, 688, 689b
 
 This revised section condenses, consolidates, and simplifies similar provisions of sections 676, 682, 683, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., with section 145 of title 18, U.S.C., 1940 ed., with such changes of phraseology as make clear the intent of Congress to protect all wildlife within Federal sanctuaries, refuges, fish hatcheries, and breeding grounds. Irrelevant provisions of such sections in title 16 are to be retained in that title.
 
-Because of the general nature of this consolidated section, no specific reference is made to rules and regulations issued by the Secretary of the Interior or any other personage, but only to rules and regulations “promulgated by authority of law”.
+Because of the general nature of this consolidated section, no specific reference is made to rules and regulations issued by the Secretary of the Interior or anyother personage, but only to rules and regulations “promulgated by authority of law”.
 
 The punishment provided by the sections consolidated varied from a fine not exceeding $100 or imprisonment not exceeding 6 months, or both, in section 694a of title 16, U.S.C., 1940 ed., to a fine not exceeding $1,000 or imprisonment not exceeding 1 year, or both, in sections 676, 685, and 688 of such title 16. The revised section adopts the punishment provisions of the other five sections.
 

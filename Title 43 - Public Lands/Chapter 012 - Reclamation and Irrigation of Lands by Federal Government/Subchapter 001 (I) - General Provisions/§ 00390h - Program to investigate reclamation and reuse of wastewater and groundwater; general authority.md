@@ -14,7 +14,7 @@ The Secretary is authorized to enter into such agreements and promulgate such re
 
 #### (d) San Luis Unit of Central Valley Project, California
 
-The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–15 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, exceptthose measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
+The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–15 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
 
 (Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664.)
 
@@ -23,6 +23,10 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–15 of this title.
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–321, §1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: “This Act \[enacting section 390h–16 of thistitle, amending section 564w–1 of Title 25, Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16, Conservation\] may be cited as the ‘Oregon Public Lands Transfer and Protection Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 

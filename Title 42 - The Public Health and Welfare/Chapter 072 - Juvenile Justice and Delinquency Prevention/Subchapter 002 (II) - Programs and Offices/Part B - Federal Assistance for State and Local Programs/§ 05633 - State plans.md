@@ -38,7 +38,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(v) at least 3 members who have been or are currently under the jurisdiction of the juvenile justice system;
 
-&emsp;&emsp;(B) shall participate in the development and review of the State's juvenile justiceplan prior to submission to the supervisory board for final action;
+&emsp;&emsp;(B) shall participate in the development and review of the State's juvenile justice plan prior to submission to the supervisory board for final action;
 
 &emsp;&emsp;(C) shall be afforded the opportunity to review and comment, not later than 30 days after their submission to the advisory group, on all juvenile justice and delinquency prevention grant applications submitted to the State agency designated under paragraph (1);
 
@@ -56,17 +56,17 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(ii) review progress and accomplishments of projects funded under the State plan.
 
-&emsp;(4) provide for the active consultation with and participation of units of general local government or combinations thereof in the development of a State plan which adequately takes into account the needs and requests of local governments, except that nothing in the plan requirements, or any regulations promulgated to carry out such requirements, shall be construed to prohibit or impede the State from making grants to, or entering into contracts with, local private agencies or the advisory group;
+&emsp;(4) provide for the active consultation with and participation of units of local government or combinations thereof in the development of a State plan which adequately takes into account the needs and requests of units of local government, except that nothing in the plan requirements, or any regulations promulgated to carry out such requirements, shall be construed to prohibit or impede the State from making grants to, or entering into contracts with, local private agencies or the advisory group;
 
 &emsp;(5) unless the provisions of this paragraph are waived at the discretion of the Administrator for any State in which the services for delinquent or other youth are organized primarily on a statewide basis, provide that at least 662/3 per centum of funds received by the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, shall be expended—
 
-&emsp;&emsp;(A) through programs of units of general local government or combinations thereof, to the extent such programs are consistent with the State plan;
+&emsp;&emsp;(A) through programs of units of local government or combinations thereof, to the extent such programs are consistent with the State plan;
 
-&emsp;&emsp;(B) through programs of local private agencies, to the extent such programs are consistent with the State plan, except that direct funding of any local private agency by a State shall be permitted only if such agency requests such funding after it has applied for and been denied funding by any unit of general local government or combination thereof; and
+&emsp;&emsp;(B) through programs of local private agencies, to the extent such programs are consistent with the State plan, except that direct funding of any local private agency by a State shall be permitted only if such agency requests such funding after it has applied for and been denied funding by any unit of local government or combination thereof; and
 
 &emsp;&emsp;(C) to provide funds for programs of Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (12)(A), (13), and (14), applicable to the detention and confinement of juveniles, an amount that bears the same ratio to the aggregate amount to be expended through programs referred to in subparagraphs (A) and (B) as the population under 18 years of age in the geographical areas in which such tribes perform such functions bears to the State population under 18 years of age,<sup>2</sup>
 
-&emsp;(6) provide that the chief executive officer of the unit of general local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to that agency within the local government's structure or to a regional planning agency (hereinafter in this part referred to as the “local agency”) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;
+&emsp;(6) provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to that agency within the local government's structure or to a regional planning agency (hereinafter in this part referred to as the “local agency”) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;
 
 &emsp;(7) provide for an equitable distribution of the assistance received under section 5632 of this title within the State;
 
@@ -80,7 +80,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(C) contain—
 
-&emsp;&emsp;(i) an analysis of services for the prevention and treatment of juvenile delinquencyin rural areas, including the need for such services, the types of such services available in rural areas, and geographically unique barriers to providing such services; and
+&emsp;&emsp;(i) an analysis of services for the prevention and treatment of juvenile delinquency in rural areas, including the need for such services, the types of such services available in rural areas, and geographically unique barriers to providing such services; and
 
 &emsp;&emsp;(ii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas; and
 
@@ -92,7 +92,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(9) provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;
 
-&emsp;(10) provide that not less than 75 percent of the funds available to the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, whether expended directly by the State, by the unit of general local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for—
+&emsp;(10) provide that not less than 75 percent of the funds available to the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for—
 
 &emsp;&emsp;(A) community-based alternatives (including home-based alternatives) to incarceration and institutionalization, specifically—
 
@@ -186,7 +186,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;
 
-&emsp;(15) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraph (12)(A), paragraph (13), and paragraph (14) are met, and for annual reporting of the results of such monitoring to the Administrator, except thatsuch reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraph (12)(A) and paragraph (13), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+&emsp;(15) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraph (12)(A), paragraph (13), and paragraph (14) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph,which is in compliance with the requirements in paragraph (12)(A) and paragraph (13), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
 &emsp;(16) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and mentally, emotionally, or physically handicapping conditions;
 
@@ -234,7 +234,7 @@ The State agency designated under subsection (a)(1) of this section, after recei
 
 &emsp;(B) the State shall be ineligible to receive any allotment under that section for such fiscal year unless—
 
-&emsp;&emsp;(i) the State agrees to expend all the remaining funds the State receives under this part (excluding funds required to be expended to comply with section 5632(c) and (d) of this title and with subsection (a)(5)(C) of this section) for that fiscal year only to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
+&emsp;&emsp;(i) the State agrees to expend all the remaining funds the State receives under thispart (excluding funds required to be expended to comply with section 5632(c) and (d) of this title and with subsection (a)(5)(C) of this section) for that fiscal year only to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
 
 &emsp;&emsp;(ii) the Administrator determines, in the discretion of the Administrator, that the State—
 
@@ -246,13 +246,21 @@ The State agency designated under subsection (a)(1) of this section, after recei
 
 In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 3783, 3784, and 3785 of this title, determines does not meet the requirements of this section, the Administrator shall endeavor to make that State's allotment under the provisions of section 5632(a) of this title, excluding funds the Administrator shall make available to satisfy the requirement specified in section 5632(d) of this title, available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23) of this section. The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that have achieved full compliance with the requirements under subsection (a)(12)(A), (13), (14) and (23) of this section.
 
-(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508.)
+(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(19), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(4). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(i)\], substituted “units of local government” for “units of general local government” after “participation of” and “units of local government” for “local governments” after “requests of”.
+
+Subsec. (a)(5). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(ii)\], substituted “units of local government” for “units of general local government” in subpar. (A) and “unit of local government” for “unit of general local government” in subpar. (B).
+
+Subsec. (a)(6). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iii)\], substituted “unit of local government” for “unit of general local government”.
+
+Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iv)\], substituted “unit of local government” for “unit of general local government” in introductory provisions.
 
 1996—Subsec. (a)(12)(A). Pub. L. 104–294 substituted “similar State law)” for “similar State law).”
 
@@ -346,7 +354,7 @@ Subsec. (a)(17), (18). Pub. L. 98–473, §626(a)(11), (12), added par. (17) and
 
 Subsec. (a)(19). Pub. L. 98–473, §626(a)(11), redesignated par. (18) as (19). Former par. (19) redesignated (20).
 
-Pub. L. 98–473, §626(a)(7), in provisions preceding (A), substituted “shall be” for “are” after “arrangements” and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
+Pub. L. 98–473, §626(a)(7), in provisions preceding (A), substituted “shall be” for “are” after “arrangements”and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
 
 Subsec. (a)(20), (21). Pub. L. 98–473, §626(a)(11), redesignated pars. (19) and (20) as (20) and (21), respectively. Former par. (21) redesignated (22).
 
@@ -414,7 +422,7 @@ Subsec. (a)(22). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(10), redesignated for
 
 Subsec. (b). Pub. L. 96–509, §19(g)(12), substituted “criminal justice council” for “planning agency”.
 
-Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined “substantial compliance” withregard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
+Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
 
 Subsec. (d). Pub. L. 96–509, §§11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
 
@@ -480,13 +488,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
 
-Section 4(c)(3)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(5) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
+Section 4(c)(3)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(5) of this section,which substituted “5632(d)” for “5632(e)”, by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
 Section 4(c)(6)(B) of Pub. L. 95–115 provided in part that the amendment of subsec. (a)(10) of this section, which substituted “5632(d)” for “5632(e)”, by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
 #### Savings Provision
 
-Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\],shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
+Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
 
 #### Termination of Advisory Committees
 

@@ -22,7 +22,7 @@ If property is seized by the Secretary under law enforced or administered by the
 
 In any judicial or administrative proceeding to forfeit property under any law enforced or administered by the Customs Service or the Coast Guard, the seizure, storage, and other expenses related to the forfeiture that are incurred by the Customs Service or the Coast Guard after the seizure, but before the institution of, or during, the proceedings, shall be a priority claim in the same manner as the court costs and the expenses of the Federal marshal.
 
-(June 17, 1930, ch. 497, title IV, §613, 46 Stat. 756; June 25, 1938, ch. 679, §29, 52 Stat. 1089; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Oct. 3, 1978, Pub. L. 95–410, title I, §110(c), 92 Stat. 896; Oct. 12, 1984, Pub. L. 98–473, title II, §§316, 321, 98 Stat. 2054, 2056; Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(10), 98 Stat. 2986; Oct. 27, 1986, Pub. L. 99–570, title III, §3124, 100 Stat. 3207–88.)
+(June 17, 1930, ch. 497, title IV, §613, 46 Stat. 756; June 25, 1938, ch. 679, §29, 52 Stat. 1089; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title I, §110(c), Oct. 3, 1978, 92 Stat. 896; Pub. L. 98–473, title II, §§316, 321, Oct. 12, 1984, 98 Stat. 2054, 2056; Pub. L. 98–573, title II, §213(a)(10), Oct. 30, 1984, 98 Stat. 2986; Pub. L. 99–570, title III, §3124, Oct. 27, 1986, 100 Stat. 3207–88.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 Whoever, within the special maritime and territorial jurisdiction of the United States, by force and violence, or by intimidation, takes or attempts to take from the person or presence of another anything of value, shall be imprisoned not more than fifteen years.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320903(a)(1), 108 Stat. 2124.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 103–322, title XXXII, §320903(a)(1), Sept. 13, 1994, 108 Stat. 2124.)
 
 #### Historical and Revision Notes
 

@@ -32,5 +32,5 @@ In making grants under section 300ff–51 of this title, the Secretary shall giv
 
 In providing preferences for purposes of subsection (b) of this section, the Secretary shall equitably allocate the preferences among urban and rural areas.
 
-(July 1, 1944, ch. 373, title XXVI, §2653, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 608.)
+(July 1, 1944, ch. 373, title XXVI, §2653, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608.)
 

@@ -28,7 +28,7 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 #### References in Other Laws to Chapter 51 and Subchapter III of Chapter 53
 
-References in laws to fix pay in accordance with this subchapter and chapter 51 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 \[title III, §302\] of Pub.L. 101–509, set out as a note under section 5304 of this title, see section 529 \[title I, §101(c)(2)\] of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
+References in laws to fix pay in accordance with this subchapter and chapter 51 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 \[title III, §302\] of Pub. L. 101–509, set out as a note under section 5304 of this title, see section 529 \[title I, §101(c)(2)\] of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
 
 #### Cross References
 

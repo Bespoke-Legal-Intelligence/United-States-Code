@@ -22,7 +22,7 @@ For the purposes of this chapter, the following definitions apply:
 
 &emsp;(7) The term “economic development agencies” includes local planning and zoning commissions or boards, community development agencies, and other local agencies and institutions responsible for regulating, promoting, or assisting in local economic development.
 
-&emsp;(8) The term “economically disadvantaged” means an individual who (A) receives, or is a member of a family which receives, cash welfare payments under a Federal, State, or local welfare program; (B) has, or is a member of a family which has, received a total family income for the six-month period prior to application for the program involved (exclusive of unemployment compensation, child supportpayments, and welfare payments) which, in relation to family size, was not in excess of the higher of (i) the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of title 42,<sup>2</sup> or (ii) 70 percent of the lower living standard income level; (C) is receiving (or has been determined within the 6-month period prior to the application for the program involved to be eligible to receive) food stamps pursuant to the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; (D) qualifies as a homeless individual under subsections (a) and (c) of section 103 of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11302(a), (c)\]; (E) is a foster child on behalf of whom State or local government payments are made; or (F) in cases permitted by regulations of the Secretary, is an individual with a disability whose own income meets the requirements of clause (A) or (B), but who is a member of a family whose income does not meet such requirements.
+&emsp;(8) The term “economically disadvantaged” means an individual who (A) receives, or is a member of a family which receives, cash welfare payments under a Federal, State, or local welfare program; (B) has, or is a member of a family which has, received a total family income for the six-month period prior to application for the program involved (exclusive of unemployment compensation, child support payments, and welfare payments) which, in relation to family size, was not in excess of the higher of (i) the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of title 42,<sup>2</sup> or (ii) 70 percent of the lower living standard income level; (C) is receiving (or has been determined within the 6-month period prior to the application for the program involved to be eligible to receive) food stamps pursuant to the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; (D) qualifies as a homeless individual under subsections (a) and (c) of section 103 of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11302(a), (c)\]; (E) is a foster child on behalf of whom State or local government payments are made; or (F) in cases permitted by regulations of the Secretary, is an individual with a disability whose own income meets the requirements of clause (A) or (B), but who is a member of a family whose income does not meet such requirements.
 
 &emsp;(9) The term “Governor” means the chief executive of any State.
 
@@ -104,7 +104,7 @@ For the purposes of this chapter, the following definitions apply:
 
 &emsp;(35) The term “hard-to-serve individual” means an individual who is included in one or more of the categories described in section 1603(b) of this title or subsection (b) or (d) of section 1643 of this title.
 
-&emsp;(36) The term “JOBS” means the Job Opportunities and Basic Skills Training Program authorized under part F of title IV of the Social Security Act (42 U.S.C. 681 et seq.).
+&emsp;(36) The term “JOBS” means the Job Opportunities and Basic Skills Training Program authorized under part F <sup>5</sup> of title IV of the Social Security Act (42 U.S.C. 681 et seq.).
 
 &emsp;(37) The term “participant” means an individual who has been determined to be eligible to participate in and who is receiving services (except post-termination services authorized under sections 1604(c)(4) and 1644(d)(5) of this title and followup services authorized under section 1632(d) of this title) under a program authorized by this chapter. Participation shall be deemed to commence on the first day, following determination of eligibility, on which the participant began receiving subsidized employment, training, or other services provided under this chapter.
 
@@ -116,13 +116,17 @@ For the purposes of this chapter, the following definitions apply:
 
 (Pub. L. 97–300, §4, Oct. 13, 1982, 96 Stat. 1325; Pub. L. 98–524, §4(a)(1), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 99–159, title VII, §713(b)(1), Nov. 22, 1985, 99 Stat. 907; Pub. L. 99–496, §§14(b)(1), 15(a), Oct. 16, 1986, 100 Stat. 1265; Pub. L. 100–77, title VII, §740(a), July 22, 1987, 101 Stat. 531; Pub. L. 102–54, §13(k)(2)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–235, §3, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §103(a), (b)(1), title VII, §702(a)(1)–(3), Sept. 7, 1992, 106 Stat. 1024, 1026, 1111, 1112; Pub. L. 103–382, title III, §391(n)(1), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 104–193, title I, §110(n)(1), Aug. 22, 1996, 110 Stat. 2174.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-Section 7 of the Rehabilitation Act of 1973, referred to in par. (5), was subsequently amended, and section 7(10)no longer defines the term “rehabilitation facility”. However, such term is defined elsewhere in that section.
+Section 7 of the Rehabilitation Act of 1973, referred to in par. (5), was subsequently amended, and section 7(10) no longer defines the term “rehabilitation facility”. However, such term is defined elsewhere in that section.
 
 The Food Stamp Act of 1977, referred to in par. (8)(C), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Social Security Act, referred to in pars. (29)(A)(i) and (36), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and F of title IV of the Act are classified generally to parts A (§601 et seq.) and F (§681 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in pars. (29)(A)(i) and (36), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42 prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -198,7 +202,11 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–159 effective July 1, 1985, see section 714(a) of Pub. L. 99–159, set out as a note under section 2311 of Title 20, Education.
+Pub. L. 99–159, title VII, §714, Nov. 22, 1985, 99 Stat. 907, provided that:
+
+“(a) The provisions of this title \[amending this section, section 1753 of this title, and sections 2311, 2312, 2322, 2323, 2333, 2361, 2362, 2363, 2383, 2392, 2417, 2462, 2464, and 2471 of Title 20, Education, and amending provisions set out as a note under section 2301 of Title 20\] shall take effect July 1, 1985.
+
+“(b) The amendment made by section 703(c)(2) of this Act \[amending section 2322 of Title 20\] shall not apply to funds appropriated before the date of the enactment of this Act \[Nov. 22, 1985\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -210,7 +218,7 @@ Amendment by Pub. L. 102–235 not to be construed to require, sanction, or auth
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1513, 1604, 1651, 2302, 2508 of this title; title 20 sections 2471, 5938, 6103; title 42 sections 685, 12773.
+This section is referred to in sections 1513, 1604, 1651, 2508 of this title; title 20 section 6103; title 42 section 12773.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
@@ -219,4 +227,6 @@ This section is referred to in sections 1513, 1604, 1651, 2302, 2508 of this tit
 <i><sup>3</sup></i><i> So in original. Probably should be “Vocational and Applied Technology”.</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should be “Vocational and Applied Technology”.</i>
+
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 

@@ -16,25 +16,11 @@ It shall be the purpose of the Office to achieve a reduction in the number and a
 
 &emsp;(4) coordinate with other Federal entities that are involved with student loan programs, including—
 
-&emsp;&emsp;(A) with respect to the Department of Education, in the development of a single student loan application form, a single student loan deferment form, a single disability form, and a central student loan database; and
+&emsp;&emsp;(A) with respect to the Department of Education, in the development of a single student loan application form, a single student loan deferment form, a single disabilityform, and a central student loan database; and
 
-&emsp;&emsp;(B) with respect to the Department of Justice, in the recovery of payments from health professionals who have defaulted on loans guaranteed under this subpart;
+&emsp;&emsp;(B) with respect to the Department of Justice, in the recovery of payments from health professionals who have defaulted on loans guaranteed under this subpart; and
 
-&emsp;(5) provide technical assistance to borrowers, lenders, holders, and institutions concerning deferments and collection activities; and
-
-&emsp;(6) prepare and submit a report not later than March 31, 1993, and annually, thereafter, to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives concerning—
-
-&emsp;&emsp;(A) the default rates for each—
-
-&emsp;&emsp;&emsp;(i) institution described in section 292<i>o</i>(1) of this title that is participating in the loan programs under this subpart;
-
-&emsp;&emsp;&emsp;(ii) lender participating in the loan program under this subpart; and
-
-&emsp;&emsp;&emsp;(iii) loan holder under this subpart;
-
-&emsp;&emsp;(B) the total amounts recovered pursuant to section 292f(b) of this title during the preceding fiscal year; and
-
-&emsp;&emsp;(C) a plan for improving the extent of such recoveries during the current fiscal year.
+&emsp;(5) provide technical assistance to borrowers, lenders, holders, and institutions concerning deferments and collection activities.
 
 #### (c) Additional duties
 
@@ -48,7 +34,7 @@ In conjunction with the report submitted under subsection (b) of this section, t
 
 In the case of amounts reserved under section 292i(a)(2)(B) of this title for obligation under this subsection, the Secretary may obligate the amounts for the purpose of administering the Office, including 7 full-time equivalent employment positions for such Office. With respect to such purpose, amounts made available under the preceding sentence are in addition to amounts made available to the Health Resources and Services Administration for program management for the fiscal year involved. With respect to such employment positions, the positions are in addition to the number of full-time equivalent employment positions that otherwise is authorized for the Department of Health and Human Services for the fiscal year involved.
 
-(July 1, 1944, ch. 373, title VII, §709, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2006.)
+(July 1, 1944, ch. 373, title VII, §709, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2006; amended Pub. L. 105–392, title I, §141(b), Nov. 13, 1998, 112 Stat. 3579.)
 
 #### Prior Provisions
 
@@ -58,9 +44,21 @@ Another prior section 292h, act July 1, 1944, ch. 373, title VII, §709, as adde
 
 A prior section 709 of act July 1, 1944, was classified to section 292i of this title prior to repeal by Pub. L. 97–35, title XXVII, §2720(a), Aug. 13, 1981, 95 Stat. 915.
 
-#### Change of Name
+#### Amendments
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1998—Subsec. (b). Pub. L. 105–392 inserted “and” at end of par. (4)(B), substituted a period for “; and” at end of par. (5), and struck out par. (6) which read as follows: “prepare and submit a report not later than March 31, 1993, and annually, thereafter, to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives concerning—
+
+&emsp;“(A) the default rates for each—
+
+&emsp;&emsp;“(i) institution described in section 292<i>o</i>(1) of this title that is participating in the loan programs under this subpart;
+
+&emsp;&emsp;“(ii) lender participating in the loan program under this subpart; and
+
+&emsp;&emsp;“(iii) loan holder under this subpart;
+
+&emsp;“(B) the total amounts recovered pursuant to section 292f(b) of this title during the preceding fiscal year; and
+
+&emsp;“(C) a plan for improving the extent of such recoveries during the current fiscal year.”
 
 #### Section Referred to in Other Sections
 

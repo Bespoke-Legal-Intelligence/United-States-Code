@@ -84,7 +84,7 @@ It shall not be in order in the House of Representatives to consider any resolut
 
 #### (g) Limitation on changes to Social Security Act
 
-Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
+Notwithstanding any other provision of law, it shall not be in order in the Senate or the Houseof Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
 
 (Pub. L. 93–344, title III, §310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, §10111, Aug. 5, 1997, 111 Stat. 685.)
 

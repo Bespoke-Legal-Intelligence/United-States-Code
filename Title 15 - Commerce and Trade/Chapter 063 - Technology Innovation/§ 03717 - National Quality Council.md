@@ -42,7 +42,7 @@ The Council shall consist of not less than 17 or more than 20 members, appointed
 
 #### (c) Terms
 
-The term of office of each member of the Council appointed under paragraphs (1) through\(7) of subsection (b) of this section shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
+The term of office of each member of the Council appointed under paragraphs (1) through (7) of subsection (b) of this section shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
 
 #### (d) Chairman and Vice Chairman
 
@@ -50,7 +50,7 @@ The Secretary shall designate one of the members initially appointed to the Coun
 
 #### (e) Executive Director and employees
 
-The Council shall appoint and fix the compensation of an Executive Director, who shall hire and fix the compensation of such additional employees as may be necessary to assist the Council in carrying out its functions. In hiring such additional employees, the Executive Director shall ensure that no individual hired has a conflict of interest with the responsibilities of the Council.
+The Council shall appoint and fix the compensation of an Executive Director, who shallhire and fix the compensation of such additional employees as may be necessary to assist the Council in carrying out its functions. In hiring such additional employees, the Executive Director shall ensure that no individual hired has a conflict of interest with the responsibilities of the Council.
 
 #### (f) Funding
 

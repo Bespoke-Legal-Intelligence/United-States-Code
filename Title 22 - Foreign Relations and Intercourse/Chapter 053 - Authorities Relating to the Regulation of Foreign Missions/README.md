@@ -19,6 +19,10 @@
 | (a) | Notice to Secretary by head of foreign mission of lapse or termination of coverage; report to Secretary by head of foreign mission respecting motor vehicles, vessels and aircraft registered in United States. |
 | (b) | Surcharge or fee covering unsatisfied part of judgment; preconditions for imposition. |
 | (c) | Definitions. |
+| [4304b.](%C2%A7%2004304b%20-%20Crimes%20committed%20by%20diplomats.md) | Crimes committed by diplomats. |
+| (a) | Annual report concerning diplomatic immunity. |
+| (b) | United States policy concerning reform of diplomatic immunity. |
+| (c) | Notification of diplomatic corps. |
 | [4305\.](%C2%A7%2004305%20-%20Property%20of%20foreign%20missions.md) | Property of foreign missions. |
 | (a) | Proposed acquisition, sale, or other disposition. |
 | (b) | Divesture. |
@@ -97,6 +101,7 @@ This chapter is referred to in sections 302, 2684, 4852 of this title; title 3 s
 - [&sect; 04303 - Authorities of Secretary of State](%C2%A7%2004303%20-%20Authorities%20of%20Secretary%20of%20State.md)
 - [&sect; 04304 - Provision of benefits](%C2%A7%2004304%20-%20Provision%20of%20benefits.md)
 - [&sect; 04304a - Enforcement of compliance with liability insurance requirements](%C2%A7%2004304a%20-%20Enforcement%20of%20compliance%20with%20liability%20insurance%20requirements.md)
+- [&sect; 04304b - Crimes committed by diplomats](%C2%A7%2004304b%20-%20Crimes%20committed%20by%20diplomats.md)
 - [&sect; 04305 - Property of foreign missions](%C2%A7%2004305%20-%20Property%20of%20foreign%20missions.md)
 - [&sect; 04306 - Location of foreign missions in the District of Columbia](%C2%A7%2004306%20-%20Location%20of%20foreign%20missions%20in%20the%20District%20of%20Columbia.md)
 - [&sect; 04307 - Preemption](%C2%A7%2004307%20-%20Preemption.md)

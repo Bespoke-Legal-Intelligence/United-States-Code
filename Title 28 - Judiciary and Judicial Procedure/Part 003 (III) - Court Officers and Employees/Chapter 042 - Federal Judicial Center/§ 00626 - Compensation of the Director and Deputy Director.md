@@ -10,7 +10,7 @@ The General Schedule, referred to in text, is set out under section 5332 of Titl
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–702 inserted “and Deputy Director” in section catchline and inserted at end of text “The compensation of the Deputy Director of the Federal Judicial Center shall be the same as that of the Deputy Director of the Administrative Office of the United States Courts.”
+1988—Pub. L. 100–702 inserted “and Deputy Director” in section catchline and inserted at end of text “The compensation of the Deputy Director of the Federal Judicial Center shall be the same as that of the Deputy Director of the Administrative Office of the United States Courts.”
 
 #### Effective Date of 1988 Amendment
 

@@ -18,7 +18,7 @@
 
 (c) Payments for supplies and services furnished under this section may be credited to current appropriations so as to be available for the same purpose as the appropriation initially charged.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 447; June 23, 1959, Pub. L. 86–55, §1, 73 Stat. 89; Sept. 24, 1983, Pub. L. 98–94, title XII, §1219(a), 97 Stat. 691; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(49), 98 Stat. 2625; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, §1048, 105 Stat. 1468.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 447; Pub. L. 86–55, §1, June 23, 1959, 73 Stat. 89; Pub. L. 98–94, title XII, §1219(a), Sept. 24, 1983, 97 Stat. 691; Pub. L. 98–525, title XIV, §1405(49), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 102–190, div. A, title X, §1048, Dec. 5, 1991, 105 Stat. 1468.)
 
 Historical and Revision Notes
 

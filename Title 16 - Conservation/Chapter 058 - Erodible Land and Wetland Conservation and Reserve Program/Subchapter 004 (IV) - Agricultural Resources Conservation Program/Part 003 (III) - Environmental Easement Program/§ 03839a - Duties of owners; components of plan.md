@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) To limit the production of any agricultural commodity on such lands only to production for the benefit of wildlife.
 
-&emsp;&emsp;(F) Not to conduct any harvesting or grazing, nor otherwise make commercial use ofthe forage, on land that is subject to the easement unless specifically provided for in the easement or related agreement.
+&emsp;&emsp;(F) Not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the easement unless specifically provided for in the easement or related agreement.
 
 &emsp;&emsp;(G) Not to adopt any other practice that would tend to defeat the purposes of this part, as determined by the Secretary.
 

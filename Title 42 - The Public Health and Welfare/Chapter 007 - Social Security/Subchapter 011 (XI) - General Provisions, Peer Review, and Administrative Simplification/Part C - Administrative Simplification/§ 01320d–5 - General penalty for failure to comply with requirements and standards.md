@@ -44,5 +44,5 @@
 
 &emsp;In the case of a failure to comply which is due to reasonable cause and not to willful neglect, any penalty under subsection (a) of this section that is not entirely waived under paragraph (3) may be waived to the extent that the payment of such penalty would be excessive relative to the compliance failure involved.
 
-(Aug. 14, 1935, ch. 531, title XI, §1176, as added Aug. 21, 1996, Pub. L. 104–191, title II, §262(a), 110 Stat. 2028.)
+(Aug. 14, 1935, ch. 531, title XI, §1176, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2028.)
 

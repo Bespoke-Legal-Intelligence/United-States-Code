@@ -12,7 +12,7 @@
 
 #### (b) Cancellation and change in classification
 
-If it appears to the Administrator that a pesticide or its labeling or other material required to be submitted does not comply with the provisions of this subchapter or, when used in accordance with widespread and commonly recognized practice, generally causes unreasonable adverse effects on the environment, the Administrator may issue a notice of the Administrator's intent either—
+If it appears to the Administrator that a pesticide or its labeling or other material required to be submitted does not comply with the provisions of this subchapter or, when used in accordance with widespread and commonly recognized practice, generally causes unreasonable adverseeffects on the environment, the Administrator may issue a notice of the Administrator's intent either—
 
 &emsp;(1) to cancel its registration or to change its classification together with the reasons (including the factual basis) for the Administrator's action, or
 
@@ -32,7 +32,7 @@ If it appears to the Administrator that a pesticide or its labeling or other mat
 
 #### (3) Emergency order
 
-&emsp;Whenever the Administrator determines that an emergency exists that does not permit the Administrator to hold a hearing before suspending, the Administrator may issue a suspension order in advance of notification to the registrant. The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire. In the case of an emergency order, paragraph (2) shall apply except that (A) the order of suspension shall be in effect pending the expeditious completion of the remedies provided by that paragraph and the issuance of a final order on suspension, and (B) no party other than the registrant and the Administrator shall participate except that any person adversely affected may file briefs within the time allotted by the Agency's rules. Any person so filing briefs shall be considered a party to such proceeding for the purposes of section 136n(b) of this title.
+&emsp;Whenever the Administrator determines that an emergency exists that does not permit the Administrator to hold a hearing before suspending, the Administrator may issue a suspension order in advance of notification to the registrant. The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issuethe notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire. In the case of an emergency order, paragraph (2) shall apply except that (A) the order of suspension shall be in effect pending the expeditious completion of the remedies provided by that paragraph and the issuance of a final order on suspension, and (B) no party other than the registrant and the Administrator shall participate except that any person adversely affected may file briefs within the time allotted by the Agency's rules. Any person so filing briefs shall be considered a party to such proceeding for the purposes of section 136n(b) of this title.
 
 #### (4) Judicial review
 
@@ -88,7 +88,7 @@ In the event a hearing is requested pursuant to subsection (b) of this section o
 
 #### (1) In general
 
-&emsp;Any producer or exporter of pesticides, registrant of a pesticide, applicant for registration of a pesticide, applicant for or holder of an experimental use permit, commercial applicator, or any person who distributes or sells any pesticide, who possesses any pesticide which has had its registration canceled or suspended under this section shall notify the Administrator and appropriate State and local officials of—
+&emsp;Any producer or exporter of pesticides, registrant of a pesticide, applicant for registration of a pesticide, applicant for or holder of an experimental use permit, commercial applicator, or any person who distributes or sells any pesticide, who possesses any pesticidewhich has had its registration canceled or suspended under this section shall notify the Administrator and appropriate State and local officials of—
 
 &emsp;&emsp;(A) such possession,
 
@@ -104,7 +104,7 @@ In the event a hearing is requested pursuant to subsection (b) of this section o
 
 Final orders of the Administrator under this section shall be subject to judicial review pursuant to section 136n of this title.
 
-(June 25, 1947, ch. 125, §6, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 984; amended Nov. 28, 1975, Pub. L. 94–140, §1, 89 Stat. 751; Mar. 27, 1978, Pub. L. 95–251, §2(a)(2), 92 Stat. 183; Sept. 30, 1978, Pub. L. 95–396, §§11, 12, 92 Stat. 828; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(4)(A), 98 Stat. 3357; Oct. 25, 1988, Pub. L. 100–532, title II, §201, title IV, §404, title VIII, §801(e), (q)(2)(B), 102 Stat. 2668, 2673, 2681, 2683; Nov. 28, 1990, Pub. L. 101–624, title XIV, §1494, 104 Stat. 3628; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(5), (b)(1), (2), (3)(C)–(E), 105 Stat. 1895, 1896; Aug. 3, 1996, Pub. L. 104–170, title I, §§102, 106(a), title II, §§210(g), (h), 233, 110 Stat. 1489, 1491, 1500, 1509.)
+(June 25, 1947, ch. 125, §6, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 984; amended Pub. L. 94–140, §1, Nov. 28, 1975, 89 Stat. 751; Pub. L. 95–251, §2(a)(2), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–396, §§11, 12, Sept. 30, 1978, 92 Stat. 828; Pub. L. 98–620, title IV, §402(4)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title II, §201, title IV, §404, title VIII, §801(e), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2668, 2673, 2681, 2683; Pub. L. 101–624, title XIV, §1494, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(5), (b)(1), (2), (3)(C)–(E), Dec. 13, 1991, 105 Stat. 1895, 1896; Pub. L. 104–170, title I, §§102, 106(a), title II, §§210(g), (h), 233, Aug. 3, 1996, 110 Stat. 1489, 1491, 1500, 1509.)
 
 #### Codification
 
@@ -166,7 +166,7 @@ Subsec. (h). Pub. L. 100–532, §201, redesignated former subsec. (f) as (h).
 
 1984—Subsec. (c)(4). Pub. L. 98–620 struck out provisions requiring petitions to review orders on the issue of suspension to be advanced on the docket of the court of appeals.
 
-1978—Subsec. (b). Pub. L. 95–396, §11, required the Administrator, in taking any final action under subsec.\(b), to consider restricting a pesticide's use or uses as an alternative to cancellation and to fully explain the reasons for the restrictions.
+1978—Subsec. (b). Pub. L. 95–396, §11, required the Administrator, in taking any final action under subsec. (b), to consider restricting a pesticide's use or uses as an alternative to cancellation and to fully explain the reasons for the restrictions.
 
 Subsec. (c)(2). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 

@@ -40,7 +40,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (4) Entitlement under another system
 
-&emsp;Credit toward retirement under the system shall not be allowed for any period of civilianservice on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c) of this section.
+&emsp;Credit toward retirement under the system shall not be allowed for any period of civilian service on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c) of this section.
 
 #### (c) Transfer from other Government retirement systems
 
@@ -174,7 +174,7 @@ A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
 #### Amendments
 
-1997—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
+1997—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement toan annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
 
 #### Effective Date of 1997 Amendment
 

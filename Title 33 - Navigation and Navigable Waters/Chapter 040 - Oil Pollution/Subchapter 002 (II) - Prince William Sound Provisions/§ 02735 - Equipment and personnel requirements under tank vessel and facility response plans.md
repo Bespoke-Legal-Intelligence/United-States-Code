@@ -6,7 +6,7 @@ In addition to the requirements for response plans for vessels established by se
 
 &emsp;(1) prepositioned oil spill containment and removal equipment in communities and other strategic locations within the geographic boundaries of Prince William Sound, including escort vessels with skimming capability; barges to receive recovered oil; heavy duty sea boom, pumping, transferring, and lightering equipment; and other appropriate removal equipment for the protection of the environment, including fish hatcheries;
 
-&emsp;(2) the establishment of an oil spill removal organization at appropriate locations in Prince William Sound, consisting of trained personnel in sufficient numbers to immediately remove, to the maximum extent practicable, a worst case discharge or a discharge of 200,000 barrels of oil, whichever is greater;
+&emsp;(2) the establishment of an oil spill removal organization at appropriate locations in Prince William Sound, consisting of trainedpersonnel in sufficient numbers to immediately remove, to the maximum extent practicable, a worst case discharge or a discharge of 200,000 barrels of oil, whichever is greater;
 
 &emsp;(3) training in oil removal techniques for local residents and individuals engaged in the cultivation or production of fish or fish products in Prince William Sound;
 

@@ -26,9 +26,11 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 &emsp;(1) sign a consent form approved by the Secretary authorizing the Secretary, the public housing agency, or the owner responsible for determining eligibility for or level of benefits to request current or previous employers to verify salary and wage information pertinent to the applicant's or participant's eligibility or level of benefits;
 
-&emsp;(2) sign a consent form approved by the Secretary authorizing the Secretary or the public housing agency responsible for determining eligibility or level of benefits to request a State agency charged with the administration of the State unemployment law to release wage information with respect to such applicant or participant or information regarding whether such applicant or participant is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received (or to be received) by such applicant or participant; and
+&emsp;(2) sign a consent form approved by the Secretary authorizing the Secretary or the public housing agency responsible for determining eligibility or level of benefits to request a State agency charged with the administration of the State unemployment law to release wage information with respect to such applicant or participant or information regarding whether such applicant or participant is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received (or to be received) by such applicant or participant;
 
-&emsp;(3) sign a consent form approved by the Secretary authorizing the Secretary to request the Commissioner of Social Security and the Secretary of the Treasury to release information pursuant to section 6103(<i>l</i>)(7)(D)(ix) of title 26 with respect to such applicant or participant for the sole purpose of the Secretary verifying income information pertinent to the applicant's or participant's eligibility or level of benefits.
+&emsp;(3) sign a consent form approved by the Secretary authorizing the Secretary to request the Commissioner of Social Security and theSecretary of the Treasury to release information pursuant to section 6103(<i>l</i>)(7)(D)(ix) of title 26 with respect to such applicant or participant for the sole purpose of the Secretary verifying income information pertinent to the applicant's or participant's eligibility or level of benefits; and
+
+&emsp;(4) only in the case of an applicant or participant that is a member of a family described in section 3(f)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437a(f)(2)), sign an agreement under which the applicant or participant agrees to provide to the appropriate public housing agency the information required under section 3(f)(1) of such Act \[42 U.S.C. 1437a(f)(1)\] for the sole purpose of the public housing agency verifying income information pertinent to the applicant's or participant's eligibility or level of benefits, and comply with such agreement.
 
 > Except as provided in this subsection, this consent form shall not be used to request taxpayer return information protected by section 6103 of title 26.
 
@@ -38,7 +40,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 #### (2) Applicant and participant protections
 
-&emsp;(A) In order to protect applicants for, and recipients of, benefits under the programs of the Department of Housing and Urban Development from the improper use of information obtained pursuant to the requirements of section 503(i) of this title from the State agency charged with the administration of the State unemployment compensation law or pursuant to section 6103(<i>l</i>)(7)(D)(ix) of title 26 from the Commissioner of Social Security or the Secretary of the Treasury, officers and employees of the Department of Housing and Urban Development and (in the case of information obtained pursuant to such section 503(i)) representatives of public housing agencies may only use such information—
+&emsp;(A) In order to protect applicants for, and recipients of, benefits under the programs of the Department of Housing and Urban Development from the improper use of information obtained pursuant to the requirements of section 503(i) of this title from the State agency charged with the administration of the State unemployment compensation law, pursuant to section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\] from the applicant or participant, or pursuant to section 6103(<i>l</i>)(7)(D)(ix) of title 26 from the Commissioner of Social Security or the Secretary of the Treasury, officers and employees of the Department of Housing and Urban Development and (in the case of information obtained pursuant to such section 503(i) or 3(d)(1) \[42 U.S.C. 1437a(d)(1)\]) representatives of public housing agencies may only use such information—
 
 &emsp;&emsp;(i) to verify an applicant's or participant's eligibility for or level of benefits; or
 
@@ -56,9 +58,9 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 #### (3) Penalty
 
-&emsp;(A) Any person who knowingly and willfully requests or obtains any information concerning an applicant or participant pursuant to the authority contained in section 503(i) of this title or section 6103(<i>l</i>)(7)(D)(ix) of title 26 without consent pursuant to subsection (b) of this section or under false pretenses, or any person who knowingly and willfully discloses any such information in any manner to any individual not entitled under any law to receive it, shall be guilty of a misdemeanor and fined not more than $5,000. The term “person” as used in this paragraph shall include an officer or employee of the Department of Housing and Urban Development, an officer or employee of any public housing agency, and any owner responsible for determining eligibility for or level of benefits (or employee thereof).
+&emsp;(A) Any person who knowingly and willfully requests or obtains any information concerning an applicant or participant pursuant to the authority contained in section 503(i) of this title, section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\], or section 6103(<i>l</i>)(7)(D)(ix) of title 26 without consent or agreement, as applicable, pursuant to subsection (b) of this section or under false pretenses, or any person who knowingly and willfully discloses any such information in any manner to any individual not entitled under any law to receive it, shall be guilty of a misdemeanor and fined not more than $5,000. The term “person” as used in this paragraph shall include an officer or employee of the Department of Housing and Urban Development, an officer or employee of any public housing agency, and any owner responsible for determining eligibility for or level of benefits (or employee thereof).
 
-&emsp;(B) Any applicant or participant affected by (i) a negligent or knowing disclosure of information referred to in this section, section 503(i) of this title, or section 6103(<i>l</i>)(7)(D)(ix) of title 26 about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), such section 6103(<i>l</i>)(7)(D)(ix), or any regulation implementing this section, such section 503(i), or such section 6103(<i>l</i>)(7)(D)(ix), or for which consent, pursuant to subsection (b) of this section, has not been granted, or (ii) any other negligent or knowing action that is inconsistent with this section, such section 503(i), such section 6103(<i>l</i>)(7)(D)(ix), or any such implementing regulation may bring a civil action for damages and such other relief as may be appropriate against any officer or employee of any public housing agency or owner (or employee thereof) responsible for any such unauthorized action. The district court of the United States in the district in which the affected applicant or participant resides, in which such unauthorized action occurred, or in which the applicant or participant alleged to be responsible for any such unauthorized action resides, shall have jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
+&emsp;(B) Any applicant or participant affected by (i) a negligent or knowing disclosure of information referred to in this section, section 503(i) of this title, section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\], or section 6103(<i>l</i>)(7)(D)(ix) of title 26 about such person by an officer or employee of any public housing agency or owner (or employee thereof), which disclosure is not authorized by this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], such section 6103(<i>l</i>)(7)(D)(ix), or any regulation implementing this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], or such section 6103(<i>l</i>)(7)(D)(ix), or for which consent, pursuant to subsection (b) of this section, has not been granted, or (ii) any other negligent or knowing action that is inconsistent with this section, such section 503(i), such section 3(d)(1) \[42 U.S.C. 1437a(d)(1)\], such section 6103(<i>l</i>)(7)(D)(ix), or any such implementing regulation may bring a civil action for damages and such other relief as may be appropriate against any officer or employee of any public housing agency or owner (or employee thereof) responsible for any such unauthorized action. The district court of the United States in the district in which the affected applicant or participant resides, in which such unauthorized action occurred, or in which the applicant or participant alleged to be responsible for any such unauthorized action resides, shallhave jurisdiction in such matters. Appropriate relief that may be ordered by such district courts shall include reasonable attorney's fees and other litigation costs.
 
 #### (d) Effective date
 
@@ -76,13 +78,13 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 #### (e) Conditions of release of information by third parties
 
-An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requested to consent to the release of information by thirdparties as a condition of initial or continuing eligibility for participation in the program unless—
+An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requested to consent to the release of information by third parties as a condition of initial or continuing eligibility for participation in the program unless—
 
 &emsp;(1) the request for consent is made, and the information secured is maintained, in accordance with this section,<sup>2</sup> section 552a of title 5; and
 
 &emsp;(2) the consent that is requested is appropriately limited, with respect to time and information relevant and necessary to meet the requirements of this section.
 
-(Pub. L. 100–628, title IX, §904, Nov. 7, 1988, 102 Stat. 3259; Pub. L. 102–550, title IX, §903(a), Oct. 28, 1992, 106 Stat. 3867; Pub. L. 103–66, title III, §3003, Aug. 10, 1993, 107 Stat. 338.)
+(Pub. L. 100–628, title IX, §904, Nov. 7, 1988, 102 Stat. 3259; Pub. L. 102–550, title IX, §903(a), Oct. 28, 1992, 106 Stat. 3867; Pub. L. 103–66, title III, §3003, Aug. 10, 1993, 107 Stat. 338; Pub. L. 105–276, title V, §508(d)(2), Oct. 21, 1998, 112 Stat. 2529.)
 
 #### References in Text
 
@@ -97,6 +99,14 @@ Section is comprised of section 904 of Pub. L. 100–628. Subsec. (c)(1) of sect
 Section was enacted as part of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (b)(4). Pub. L. 105–276, §508(d)(2)(A), which directed the amendment of subsec. (b) by adding par. (4) at end, was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
+
+Subsec. (c)(2)(A). Pub. L. 105–276, §508(d)(2)(B)(i), in introductory provisions, inserted “, pursuant to section 3(d)(1) of the United States Housing Act of 1937 from the applicant or participant,” after “unemployment compensation law” and “or 3(d)(1)” after “such section 503(i)”.
+
+Subsec. (c)(3)(A). Pub. L. 105–276, §508(d)(2)(B)(ii)(I), (II), in first sentence, inserted “, section 3(d)(1) of the United States Housing Act of 1937,” after “503(i) of this title” and “or agreement, as applicable,” after “consent”.
+
+Subsec. (c)(3)(B). Pub. L. 105–276, §508(d)(2)(B)(ii)(III), (IV), in first sentence, inserted “section 3(d)(1) of the United States Housing Act of 1937,” after “503(i) of this title,” and “such section 3(d)(1),” after “such section 503(i),” wherever appearing.
 
 1993—Subsec. (a)(4). Pub. L. 103–66, §3003(1), added par. (4).
 
@@ -120,13 +130,17 @@ Subsec. (c)(3)(B)(ii). Pub. L. 103–66, §3003(4)(B)(ii), inserted “such sect
 
 1992—Subsec. (e). Pub. L. 102–550 added subsec. (e).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+
 #### Release Forms
 
-Section 903(b) of Pub. L. 102–550 directed Secretary of Housing and Urban Development, not later than the expiration of the 180-day period beginning Oct. 28, 1992, to develop a release form that fulfilled the requirements of this section and provided that during the period beginning Oct. 28, 1992, and ending upon implementation of the use of the new form, the benefits provided to an applicant or participant under any program of Department of Housing and Urban Development, or eligibility for such benefits, could not be terminated, denied, suspended, or reduced because of any failure to sign any form authorizing the release of information from any third party, if the applicant or participant otherwise disclosed all financial information relating to the application or recertification.
+Section 903(b) of Pub. L. 102–550 directed Secretary of Housing and Urban Development, not later than the expiration of the 180-day period beginning Oct. 28, 1992, to develop a release form that fulfilled the requirementsof this section and provided that during the period beginning Oct. 28, 1992, and ending upon implementation of the use of the new form, the benefits provided to an applicant or participant under any program of Department of Housing and Urban Development, or eligibility for such benefits, could not be terminated, denied, suspended, or reduced because of any failure to sign any form authorizing the release of information from any third party, if the applicant or participant otherwise disclosed all financial information relating to the application or recertification.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1437g of this title.
+This section is referred to in section 1437f of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

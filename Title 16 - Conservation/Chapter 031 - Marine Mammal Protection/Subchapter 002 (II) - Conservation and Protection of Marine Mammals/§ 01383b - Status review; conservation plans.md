@@ -20,7 +20,7 @@
 
 (D) No later than two hundred and ten days after the receipt of the petition, the Secretary shall publish in the Federal Register a proposed rule as to the status of the species or stock, along with the reasons underlying the proposed status determination. Persons shall have at least sixty days to submit comments on such a proposed rule.
 
-(E) Not later than ninety days after the close of the comment period on a proposed rule issued under subparagraph (D), the Secretary shall issue a final rule on the status of the species or stock involved, along with the reasons for the status determination. If the Secretary finds with respect to such a proposed rule that there is substantial disagreement regarding the sufficiency or accuracy of the available information relevant to a status determination, the Secretary may delay the issuance of a final rule for a period of not more than six months for purposes of soliciting additional information.
+(E) Not later than ninety days after the close of the comment period on a proposed rule issued under subparagraph (D), the Secretary shall issue a final rule on the status of the species or stock involved, along with the reasons for the status determination. If the Secretary findswith respect to such a proposed rule that there is substantial disagreement regarding the sufficiency or accuracy of the available information relevant to a status determination, the Secretary may delay the issuance of a final rule for a period of not more than six months for purposes of soliciting additional information.
 
 (F) Notwithstanding subparagraphs (D) and (E) of this paragraph and section 553 of title 5, the Secretary may issue a final rule as to the status of a species or stock any time sixty or more days after a positive finding under subparagraph (B) if the Secretary determines there is substantial information available to warrant such final status determination and further delay would pose a significant risk to the well-being of any species or stock. Along with the final rule, the Secretary shall publish in the Federal Register detailed reasons for the expedited determination.
 
@@ -34,7 +34,7 @@
 
 &emsp;(C) as soon as possible, for any species or stock designated as depleted under this subchapter, except that a conservation plan need not be prepared if the Secretary determines that it will not promote the conservation of the species or stock.
 
-(2) Each plan shall have the purpose of conserving and restoring the species or stock to its optimum sustainable population. The Secretaryshall model such plans on recovery plans required under section 1533(f) of this title.
+(2) Each plan shall have the purpose of conserving and restoring the species or stock to its optimum sustainable population. The Secretary shall model such plans on recovery plans required under section 1533(f) of this title.
 
 (3) The Secretary shall act expeditiously to implement each conservation plan prepared under paragraph (1). Each year, the Secretary shall specify in the annual report prepared under section 1373(f) of this title what measures have been taken to prepare and implement such plans.
 

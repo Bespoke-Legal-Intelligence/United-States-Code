@@ -28,9 +28,9 @@ In carrying out this section, the Secretary shall—
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) of this section $3,000,000 for each of the fiscal years 1994 through 1996.
+There is authorized to be appropriated for purposes of carrying out the compliance and accountability activities referred to in subsection (c) of this section $3,000,000 for each of the fiscal years 1994 through 2003.
 
-(June 4, 1946, ch. 281, §22, as added Nov. 10, 1989, Pub. L. 101–147, title I, §110(a), 103 Stat. 889; amended Nov. 2, 1994, Pub. L. 103–448, title I, §121, 108 Stat. 4727.)
+(June 4, 1946, ch. 281, §22, as added Pub. L. 101–147, title I, §110(a), Nov. 10, 1989, 103 Stat. 889; amended Pub. L. 103–448, title I, §121, Nov. 2, 1994, 108 Stat. 4727; Pub. L. 105–336, title I, §111, Oct. 31, 1998, 112 Stat. 3157.)
 
 #### Prior Provisions
 
@@ -38,7 +38,13 @@ A prior section 1769c, act June 4, 1946, ch. 281, §22, as added Nov. 10, 1978, 
 
 #### Amendments
 
+1998—Subsec. (d). Pub. L. 105–336 substituted “2003” for “1996”.
+
 1994—Subsec. (d). Pub. L. 103–448 substituted “fiscal years 1994 through 1996” for “fiscal years 1990, 1991, 1992, 1993, and 1994”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -46,5 +52,5 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Regulations
 
-Section 110(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 22 ofthe National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
+Section 110(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agricultureshall issue final regulations to implement section 22 of the National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
 

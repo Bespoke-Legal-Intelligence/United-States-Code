@@ -37,6 +37,7 @@
 | (c) | Use of United States mails. |
 | (d) | Necessary or appropriate actions. |
 | (e) | Commercial activities. |
+| (f) | Donations. |
 | [3613\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20001%20-%20Panama%20Canal%20Commission/%C2%A7%2003613%20-%20Administrator.md) | Administrator. |
 | (a) | Appointment. |
 | (b) | Compensation. |
@@ -61,6 +62,9 @@
 | (b) | Transmittal of study to President of Senate and Speaker of House of Representatives. |
 | (c) | Congressional authorization respecting construction of sea level canal. |
 | [3620\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20001%20-%20Panama%20Canal%20Commission/%C2%A7%2003620%20-%20Authority%20of%20Ambassador%3B%20independence%20of%20Commission%20regarding%20its%20Panama%20Canal%20responsibilities.md) | Authority of Ambassador; independence of Commission regarding its Panama Canal responsibilities. |
+| (a) | Authority of Ambassador. |
+| (b) | Independence of Commission regarding its Panama Canal responsibilities. |
+| (c) | Agreements for United States to provide post-transfer administrative services for certain employee benefits. |
 | [3621\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20001%20-%20Panama%20Canal%20Commission/%C2%A7%2003621%20-%20Security%20legislation.md) | Security legislation. |
 | [3622\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20001%20-%20Panama%20Canal%20Commission/%C2%A7%2003622%20-%20Code%20of%20conduct%20for%20Commission%20personnel.md) | Code of conduct for Commission personnel. |
 | (a) | Oath; compliance with laws of United States regarding duties and responsibilities of Federal employees. |
@@ -97,8 +101,7 @@ I74subpart i—panama canal commission personnel
 | (b) | Individual appointed as Administrator, Deputy Administrator, or Chief Engineer. |
 | (c) | Reimbursement to uniformed service. |
 | [3645\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003645%20-%20Deduction%20from%20basic%20pay%20of%20amounts%20due%20for%20supplies%20or%20services.md) | Deduction from basic pay of amounts due for supplies or services. |
-| [3646\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003646%20-%20Cost%20of%20living%20allowance.md) | Cost of living allowance. |
-| [3647\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003647%20-%20Educational%20travel%20benefits.md) | Educational travel benefits. |
+| 3646, 3647. | Repealed. |
 | [3648\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003648%20-%20Privileges%20and%20immunities%20of%20certain%20employees.md) | Privileges and immunities of certain employees. |
 | [3649\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003649%20-%20Applicability%20of%20certain%20benefits.md) | Applicability of certain benefits. |
 | [3650\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20001%20%28i%29%20-%20Panama%20Canal%20Commission%20Personnel/%C2%A7%2003650%20-%20Air%20transportation.md) | Air transportation. |
@@ -118,7 +121,7 @@ I74subpart i—panama canal commission personnel
 | 3654, 3655. | Repealed. |
 | [3656\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003656%20-%20Uniform%20application%20of%20standards%20and%20rates.md) | Uniform application of standards and rates. |
 | [3657\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003657%20-%20Recruitment%20and%20retention%20remuneration.md) | Recruitment and retention remuneration. |
-| (a) | Determination by head of agency. |
+| (a) | Repealed. |
 | (b) | Restriction. |
 | (c) | Recruitment and relocation bonuses. |
 | (d) | Retention bonuses. |
@@ -137,7 +140,7 @@ I74subpart i—panama canal commission personnel
 | (b) | Personal appearance. |
 | (c) | Consideration of evidence; decision. |
 | (d) | Finality of decision. |
-| [3663\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003663%20-%20Central%20Examining%20Office.md) | Central Examining Office. |
+| [3663\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003663%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73508%28a%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202269.md) | Repealed. |
 | [3664\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003664%20-%20Applicability%20of%20title%205.md) | Applicability of title 5. |
 | [3665\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Regulations/Part%20002%20-%20Employees/Subpart%20002%20%28ii%29%20-%20Wage%20and%20Employment%20Practices/%C2%A7%2003665%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73523%28a%29%283%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202065.md) | Repealed. |
 
@@ -262,7 +265,7 @@ I74subpart i—funds
 | (b) | Reimbursement of Commission by Department of Defense. |
 | (c) | Designation of funds of Department of Defense or any other department or agency of United States to carry out purposes of this subsection. |
 | (d) | Reimbursement to departments or agencies furnishing services. |
-| (e) | Availability of funds to defray certain costs. |
+| (e) | Repealed. |
 | (f) | Reimbursement of United States by Republic of Panama for salaries and other employment costs. |
 | (g) | Operation of Canal Zone College. |
 | (h) | Prohibition of funds for uses other than Commission activities. |

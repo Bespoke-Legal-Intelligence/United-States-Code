@@ -2,7 +2,7 @@
 
 #### (a) Dissemination of information abroad
 
-The Director is authorized, when he finds it appropriate, to provide for the preparation, and dissemination abroad, of information about the United States, its people, and its policies, through press, publications, radio, motion pictures, and other information media, and through information centers and instructors abroad. Subject to subsection (b) of this section, any such information (other than “Problems of Communism” and the “English Teaching Forum” which may be sold by the Government Printing Office) shall not be disseminated within the United States, its territories, or possessions, but, on request, shall be available in the English language at the Agency, at all reasonable times following its release as information abroad, for examination only by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and by research students and scholars, and, on request, shall be made available for examination only to Members of Congress.
+The Secretary is authorized, when he finds it appropriate, to provide for the preparation, and dissemination abroad, of information about the United States, its people, and its policies, through press, publications, radio, motion pictures, and other information media, and through information centers and instructors abroad. Subject to subsection (b) of this section, any such information (other than “Problems of Communism” and the “English Teaching Forum” which may be sold by the Government Printing Office) shall not be disseminated within the United States, its territories, or possessions, but, on request, shall be available in the English language at the Department of State, at all reasonable times following its release as information abroad, for examination only by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and by research students and scholars, and, on request, shall be made available for examination only to Members of Congress.
 
 #### (b) Dissemination of information within United States
 
@@ -12,7 +12,7 @@ The Director is authorized, when he finds it appropriate, to provide for the pre
 
 (3) The Archivist shall be the official custodian of the material and shall issue necessary regulations to ensure that persons seeking its release in the United States have secured and paid for necessary United States rights and licenses and that all costs associated with the provision of the material by the Archivist shall be paid by the persons seeking its release. The Archivist may charge fees to recover such costs, in accordance with section 2116(c) of title 44. Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
 
-(Jan. 27, 1948, ch. 36, title V, §501, 62 Stat. 9; Pub. L. 92–352, title II, §204, July 13, 1972, 86 Stat. 494; 1977 Reorg. Plan No. 2, §§5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Pub. L. 96–60, title II, §208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, §202, Feb. 16, 1990, 104 Stat. 49.)
+(Jan. 27, 1948, ch. 36, title V, §501, 62 Stat. 9; Pub. L. 92–352, title II, §204, July 13, 1972, 86 Stat. 494; Pub. L. 96–60, title II, §208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, §202, Feb. 16, 1990, 104 Stat. 49.)
 
 #### Amendments
 
@@ -24,13 +24,7 @@ The Director is authorized, when he finds it appropriate, to provide for the pre
 
 #### Transfer of Functions
 
-“Director” substituted in text for “Secretary” pursuant to Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out below, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, and Director thereof, under this chapter, to Director of International Communication Agency, except to extent that such functions were vested in President under sections 1452, 1456, and 1467 of this title, effective on or before July 1, 1978, at such time as specified by President. Director authorized by section 5 of Reorg. Plan No. 2 of 1977 to delegate performance of any such transferred functions to any officer, employee, or unit of International Communication Agency. Accordingly, “Agency” also substituted for “Department of State”. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note below.
-
-Functions vested in Secretary of State by this section and section 1462 of this title, together with so much of functions as is incidental to or is necessary for performance of such functions, transferred to Director of United States Information Agency by Reorg. Plan No. 8 of 1953, eff. Aug. 1, 1953, 18 F.R. 4542, set out as a note below.
-
-#### Emergency Preparedness Functions
-
-For assignment of certain emergency preparedness functions to Director of United States Information Agency, see Parts 1, 2, and 25 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### USIA Network for Dissemination of Information Concerning United States Programs To Combat Narcotics and Other Controlled Substances
 
@@ -40,9 +34,13 @@ Section 210 of Pub. L. 101–246 provided that: “The United States Information
 
 &emsp;“(2) to promote drug prevention and rehabilitation in the United States.”
 
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
+
 #### Public Service Announcements To Promote Child Survival
 
 Pub. L. 101–246, title II, §233, Feb. 16, 1990, 104 Stat. 57, provided that: “The United States Information Agency shall establish and maintain through the Voice of America a system of public service announcements focusing on child survival techniques.”
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### USIA Posts and Personnel Overseas
 
@@ -56,9 +54,7 @@ Pub. L. 97–241, title III, §303, Aug. 24, 1982, 96 Stat. 291, provided that:
 
 “(b) Any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to the International Communication Agency or the Director or other official of the International Communication Agency shall be deemed to refer respectively to the United States Information Agency or the Director or other official of the United States Information Agency, as so redesignated by subsection (a).”
 
-#### Compensation of Director and Deputy Director of United States Information Agency
-
-Compensation of Director and Deputy Director, see sections 5313 and 5315 of Title 5, Government Organization and Employees.
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### <b>REORGANIZATION PLAN NO. 8 OF 1953</b>
 
@@ -98,7 +94,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), 42 F.R. 62461, 91 Stat. 1639. Section related to interim provisions.\]
 
-\[The United States Information Agency was abolished and replaced by the International Communication Agency pursuant to Reorg. Plan No. 2 of 1977, set out below, effective on or before July 1, 1978, at such time as specified by the President. The International Communication Agency was redesignated the United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note above.\]
+\[The United States Information Agency was abolished and replaced by the International Communication Agency pursuant to Reorg. Plan No. 2 of 1977, set out below, effective on or before July 1, 1978, at such time as specified by the President. The International Communication Agency was redesignated the United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note above. For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### Message of the President
 
@@ -116,7 +112,7 @@ The White House, June 1, 1953.
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1977</b>
 
-#### 42 F.R. 62461, 91 Stat. 1636, as amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50
+#### 42 F.R. 62461, 91 Stat. 1636, as amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1334(b), 1336(6), Oct. 21, 1998, 112 Stat. 2681–786, 2681–790
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, October 11, 1977,<sup>1</sup> pursuant to the provisions of chapter 9 of title 5 of the United States Code.<sup>2</sup>
 
@@ -124,35 +120,27 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Establishment of the International Communication Agency
 
-There is hereby established in the executive branch an agency to be known as the International Communication Agency (the “Agency”).
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section established the International Communication Agency.\]
 
 #### Sec. 2. Director
 
-The Agency shall be headed by a Director (the “Director”), who shall serve as the principal advisor to the President, the National Security Council, and the Secretary of State on the functions vested in the Director. The Director shall report to the President and the Secretary of State. Under the direction of the Secretary of State, the Director shall have primary responsibility within the Government for the exercise of the functions vested in the Director. The Director shall be appointed by the President, by and with the advice and consent of the Senate, and shall be entitled to receive compensation at the rate now or hereafter prescribed by law for Level II of the Executive Schedule \[5 U.S.C. 5313\].
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and responsibilities of Director of the Agency.\]
 
 #### Sec. 3. Deputy Director
 
-A Deputy Director shall be appointed by the President, by and with the advice and consent of the Senate. The Deputy Director shall act for, and exercise the powers of, the Director during the Director's absence or disability or during a vacancy in said office and, in addition, shall perform such duties and exercise such powers as the Director may from time to time prescribe. The Deputy Director shall be entitled to receive compensation at the rate now or hereafter prescribed by law for Level III of the Executive Schedule \[5 U.S.C. 5314\].
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and duties of Deputy Director of the Agency.\]
 
 #### Sec. 4. Associate Directors
 
-The President, by and with the advice and consent of the Senate, may appoint four Associate Directors, who shall perform such duties and exercise such powers as the Director may from time to time prescribe. One Associate Director shall be known as the Associate Director for Educational and Cultural Affairs and one Associate Director shall be known as the Associate Director for Broadcasting. Each Associate Director shall be entitled to receive compensation at the rate now or hereafter prescribed by law for Level IV of the Executive Schedule \[5 U.S.C. 5315\].
-
-\[Reference to Associate Director for Broadcasting of the United States Information Agency to be considered a reference to Director of the International Broadcasting Bureau of the United States Information Agency pursuant to section 6209(f)(6) of this title.\]
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment, titles, and functions of four Associate Directors of the Agency.\]
 
 #### Sec. 5. Performance of Functions
 
-The Director may establish within the Agency bureaus, offices, divisions and other units. The Director may from time to time make provision for the performance of any function of the Director by any officer, employee or unit of the Agency.
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for establishment of bureaus, offices, divisions, and other units within the Agency and for performance of functions of the Director within the Agency.\]
 
 #### Sec. 6. Negotiations
 
-(a) Under the direction of the Secretary of State, the Director shall prepare for, manage and conduct negotiations with representatives of foreign states or international organizations on matters for which responsibility is vested in the Director or in the Agency.
-
-(b) For the purpose of conducting such negotiations, or for the purpose of exercising any other authority vested in the Director or in the Agency, the Director may
-
-(1) consult and communicate with or direct the consultation and communication with representatives of other nations or of international organizations; and
-
-(2) communicate in the name of the Secretary of State with diplomatic representatives of the United States in this country and abroad.
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section authorized Director to conduct negotiations with representatives of foreign states or organizations on matters for which responsibility was vested in the Director or in the Agency.\]
 
 #### Sec. 7. Transfer of Functions
 
@@ -202,17 +190,7 @@ The Director may establish within the Agency bureaus, offices, divisions and oth
 
 #### Sec. 8. Establishment of the United States Advisory Commission on International Communication, Cultural, and Educational Affairs
 
-(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the “Commission”) \[redesignated the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from a cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
-
-(b) The functions now vested in the United States Advisory Commission on Information and in the United States Advisory Commission on International Educational and Cultural Affairs under sections 601 through 603 and 801(6) of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1466–1468, 1471(6)), and under sections 106(b) and 107 of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(b), 2457), respectively, are hereby consolidated and vested in the Commission, as follows:
-
-The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
-
-(c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50.\]
-
-\[United States Advisory Commission on International Communication, Cultural and Educational Affairs was redesignated the United States Advisory Commission on Public Diplomacy by 22 U.S.C. 1469.\]
-
-\[Any provisions of section 8 of Reorg. Plan No. 2 of 1977 inconsistent with 22 U.S.C. 1469 to no longer have legal effect on Jan. 20, 1989, and prohibition limiting membership of individuals from same political party is repealed, see 22 U.S.C. 1469(d).\]
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786. Section provided for establishment and functions of United States Advisory Commission on International Communication, Cultural and Educational Affairs.\]
 
 #### Sec. 9. Abolitions and Supersessions
 
@@ -242,9 +220,9 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 This Reorganization Plan shall become effective at such time or times, on or before July 1, 1978, as the President shall specify, but not sooner than the earliest time allowable under section 906 of title 5 of the United States Code.
 
-\[Pursuant to Ex. Ord. No. 12048, set out below, this Reorg. Plan is effective July 1, 1978.\]
+\[Amendment to Reorganization Plan No. 2 of 1977 \[set out above\] by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.\]
 
-\[The International Communication Agency was redesignated the United States Information Agency and the Director or any other official of the International Communication Agency redesignated as Director or other official, as appropriate, of the United States Information Agency, see section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note above.\]
+\[Pursuant to Ex. Ord. No. 12048, set out below, this Reorg. Plan is effective July 1, 1978.\]
 
 #### Message of the President
 
@@ -278,7 +256,7 @@ Thus the new agency will lay heavy emphasis on listening to others, so as to lea
 
 Several principles guided me in shaping this reorganization plan. Among the most important were:
 
-&emsp;—Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center for Technical and Cultural Interchange Between East and West, Inc., will be transferred to the new agency without alteration.
+&emsp;—Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center forTechnical and Cultural Interchange Between East and West, Inc., will be transferred to the new agency without alteration.
 
 &emsp;—Keeping the Voice of America's news gathering and reporting functions independent and objective. The Voice's charter, enacted into law in 1976, provides that “VOA news will be accurate, objective, and comprehensive”; that VOA will “present a balanced and comprehensive projection of significant American thought and institutions”; and that VOA will present U.S. policies “clearly and effectively, and will also present responsible discussion and opinion on these policies.” Under this Administration, VOA will be solely responsible for the content of news broadcasts—for there is no more valued coin than candor in the international marketplace of ideas. I also plan to nominate an Associate Director who will be responsible for the administration and supervision of the Voice of America.
 
@@ -286,7 +264,7 @@ Several principles guided me in shaping this reorganization plan. Among the most
 
 &emsp;—Rights of U.S. Information Agency and State Department employees must be respected. In the new agency, their career achievements will be recognized and the best possible use made of their professional skills and abilities.
 
-The Director of the new agency will assess and advise on the impact on worldwide public opinion of American foreign policy decisions. The Agency will coordinate the international information, educational, cultural and exchange programs conducted by the U.S. Government and will be a governmental focal point for privateU.S. international exchange programs. It will also play a leading role within the U.S. Government in our efforts to remove barriers to the international exchange of ideas and information.
+The Director of the new agency will assess and advise on the impact on worldwide public opinion of American foreign policy decisions. The Agency will coordinate the international information, educational, cultural and exchange programs conducted by the U.S. Government and will be a governmental focal point for private U.S. international exchange programs. It will also play a leading role within the U.S. Government in our efforts to remove barriers to the international exchange of ideas and information.
 
 It is not practicable to specify all of the expenditure reductions and other economies that will result from the proposed reorganization, and therefore I do not do so. The reorganization will result in greater efficiency by unifying in Washington the management of programs which are already administered in a consolidated manner in the field. For example, field officers will no longer report to two separate sets of supervisors and headquarters at home.
 
@@ -306,10 +284,6 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 The White House, October 11, 1977.
 
-#### Change of Name
-
-United States Advisory Commission on International Communication, Cultural and Educational Affairs redesignated United States Advisory Commission on Public Diplomacy, by section 1469 of this title.
-
 #### Ex. Ord. No. 12048. International Communication Agency
 
 Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
@@ -326,7 +300,7 @@ Sec. 3. In order to ensure appropriate coordination among the Executive agencies
 
 Sec. 4. The Director of the International Communication Agency, with the assistance of the Secretary of Education, shall prepare and submit to the President the reports which the President is to transmit to the Congress pursuant to Section 108(b) of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2458).
 
-Sec. 5. The functions vested in the President by Sections 108(c) and 108(d) of the Mutual Educational and Cultural Exchange Act of 1961, as amended \[22 U.S.C. 2458(c) and (d)\], are delegated to the Director of the International Communication Agency; because, (a) such a delegation is in the interest of the purposes expressed in that Act and the efficient administration of the programs undertaken pursuant thereto, (b) the Director is an appropriate official to perform those functions, and (c) those functions are not now delegated to any other officer of the Government.
+Sec. 5. The functions vested in the President by Sections 108(c) and 108(d) of the Mutual Educational andCultural Exchange Act of 1961, as amended \[22 U.S.C. 2458(c) and (d)\], are delegated to the Director of the International Communication Agency; because, (a) such a delegation is in the interest of the purposes expressed in that Act and the efficient administration of the programs undertaken pursuant thereto, (b) the Director is an appropriate official to perform those functions, and (c) those functions are not now delegated to any other officer of the Government.
 
 Sec. 6. The Director of the International Communication Agency shall be the principal adviser to the President, the National Security Council, and the Secretary of State on international informational, educational, and cultural matters. As such, the Director shall provide advice within the policy formulation activities of the National Security Council when such matters are considered. The Director shall ensure that the senior official of the Agency at each diplomatic mission provides advice to the Chief of Mission on such matters. The scope of the Director's advice shall include assessments of the impact of actual and proposed United States foreign policy decisions on public opinion abroad.
 
@@ -337,6 +311,8 @@ Sec. 8. The Director of the Office of Management and Budget shall make such dete
 Sec. 9. This Order shall be effective on April 1, 1978.
 
 Sec. 10. In accord with the name change provisions of Section 303 of Public Law 97–241 \[set out as a note above\] and effective on August 24, 1982, references in this Order to the International Communication Agency shall be deemed to be references to the United States Information Agency.
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### Section Referred to in Other Sections
 

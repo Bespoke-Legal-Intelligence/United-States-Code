@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this part, there are authorized to be appropriated $215,000,000 for the fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+For the purpose of carrying out this part, there are authorized to be appropriated$215,000,000 for the fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
 
 #### (b) Distribution
 

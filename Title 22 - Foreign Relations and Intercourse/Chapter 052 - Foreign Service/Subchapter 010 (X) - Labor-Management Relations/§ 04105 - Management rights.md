@@ -12,7 +12,7 @@
 
 &emsp;(5) to fill positions from any appropriate source;
 
-&emsp;(6) to determine the need for uniform personnel policies and procedures between or among the agencies to which this subchapter applies; and
+&emsp;(6) to determine the need for uniform personnel policies and procedures between or amongthe agencies to which this subchapter applies; and
 
 &emsp;(7) to take whatever actions may be necessary to carry out the mission of the Department during emergencies.
 

@@ -44,7 +44,7 @@ A State may transfer not more than 7 percent of the amount allotted to the State
 
 Of the amount paid to any State under section 300w–2 of this title, not more than 10 percent paid from each of its allotments under subsections (a) and (b) of section 300w–1 of this title may be used for administering the funds made available under section 300w–2 of this title. The State will pay from non-Federal sources the remaining costs of administering such funds.
 
-(July 1, 1944, ch. 373, title XIX, §1904, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 537; amended Jan. 4, 1983, Pub. L. 97–414, §8(s), 96 Stat. 2062; Nov. 10, 1986, Pub. L. 99–646, §87(d)(1)(A), 100 Stat. 3623; Nov. 14, 1986, Pub. L. 99–654, §3(b)(1)(A), 100 Stat. 3663; Nov. 4, 1988, Pub. L. 100–607, title III, §301(b), 102 Stat. 3111; Oct. 27, 1992, Pub. L. 102–531, title I, §102, 106 Stat. 3470.)
+(July 1, 1944, ch. 373, title XIX, §1904, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537; amended Pub. L. 97–414, §8(s), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–646, §87(d)(1)(A), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(b)(1)(A), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(b), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §102, Oct. 27, 1992, 106 Stat. 3470.)
 
 #### References in Text
 
@@ -62,13 +62,13 @@ Subsec. (a)(1)(C). Pub. L. 100–607, §301(b)(2), inserted “, including prog
 
 Subsec. (a)(1)(D). Pub. L. 100–607, §301(b)(3), inserted “, including immunization services” before period at end.
 
-Subsec. (a)(1)(F). Pub. L. 100–607, §301(b)(4), substituted “systems, except that such amounts may be used for the payment of not more than 50 percent of thecosts of purchasing communications equipment for the systems” for “systems (other than systems with respect to which grants were made as prescribed by section 300w–4(c)(2) of this title)”.
+Subsec. (a)(1)(F). Pub. L. 100–607, §301(b)(4), substituted “systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems” for “systems (other than systems with respect to which grants were made as prescribed by section 300w–4(c)(2) of this title)”.
 
 Subsec. (a)(1)(H). Pub. L. 100–607, §301(b)(5), added subpar. (H).
 
 1986—Subsec. (a)(1)(G). Pub. L. 99–646 and Pub. L. 99–654 amended subpar. (G) identically, substituting “victims of sex offenses and for prevention of sex offenses” for “rape victims and for rape prevention”.
 
-1983—Subsec. (a)(1)(F). Pub. L. 97–414 inserted “(other than systems with respect to which grants were made as prescribed by section 300w–4(c)(2) of this title)” after “equipment for the systems”.
+1983—Subsec. (a)(1)(F). Pub. L. 97–414 inserted “(other than systems with respect to which grants were madeas prescribed by section 300w–4(c)(2) of this title)” after “equipment for the systems”.
 
 #### Effective Date of 1986 Amendments
 

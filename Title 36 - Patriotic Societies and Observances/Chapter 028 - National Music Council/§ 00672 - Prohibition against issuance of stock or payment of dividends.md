@@ -1,6 +1,0 @@
-### §672. Prohibition against issuance of stock or payment of dividends
-
-The Corporation shall have no power to issue any shares of stock or to declare or pay any dividends, or to engage in business for pecuniary profit.
-
-(Aug. 1, 1956, ch. 824, §12, 70 Stat. 796.)
-

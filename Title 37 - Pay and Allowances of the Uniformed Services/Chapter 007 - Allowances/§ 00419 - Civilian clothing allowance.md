@@ -1,6 +1,6 @@
 ### §419. Civilian clothing allowance
 
-Under regulations prescribed by the Secretary of Defense, an officer of an armed force who is assigned to a permanent duty station at a location outside the United States may be paid a civilian clothing allowance in such amount as the Secretary shall determine under regulations ifsuch officer is required to wear civilian clothing all or a substantial portion of the time in the performance of the officer's official duties. A clothing allowance under this section is in addition to any uniform allowance to which an officer is otherwise entitled under this title.
+Under regulations prescribed by the Secretary of Defense, an officer of an armed force who is assigned to a permanent duty station at a location outside the United States may be paid a civilian clothing allowance in such amount as the Secretary shall determine under regulations if such officer is required to wear civilian clothing all or a substantial portion of the time in the performance of the officer's official duties. A clothing allowance under this section is in addition to any uniform allowance to which an officer is otherwise entitled under this title.
 
 (Added Pub. L. 100–180, div. A, title VI, §611(a)(1)(B), Dec. 4, 1987, 101 Stat. 1093; amended Pub. L. 100–456, div. A, title VI, §625, Sept. 29, 1988, 102 Stat. 1984; Pub. L. 101–189, div. A, title VI, §653(c)(2), Nov. 29, 1989, 103 Stat. 1462.)
 

@@ -44,5 +44,5 @@ Support of a center under subsection (a) of this section may be for a period not
 
 For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
-(July 1, 1944, ch. 373, title IV, §452A, as added June 10, 1993, Pub. L. 103–43, title X, §1001, 107 Stat. 165.)
+(July 1, 1944, ch. 373, title IV, §452A, as added Pub. L. 103–43, title X, §1001, June 10, 1993, 107 Stat. 165.)
 

@@ -62,6 +62,10 @@ If a substate grantee fails to expend funds allocated to it in accordance with i
 
 (Pub. L. 97–300, title III, §313, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1531.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1661a, 1661c, 1661f of this title.

@@ -2,7 +2,7 @@
 
 #### (a) Accrual to blind licensee and alternatively to State agency; ceiling on amount for individual licensee
 
-In accordance with the provisions of subsection (b) of this section, vending machine income obtained from the operation of vending machines on Federal property shall accrue (1) to the blind licensee operating a vending facility on such property, or (2) in the event there is no blind licensee operating such facility on such property, to the State agency in whose State the Federal property is located, for the uses designated in subsection (c) of this section, except that with respect to income which accrues under clause (1) of this subsection, the Commissioner may prescribe regulations imposing a ceiling on income from such vending machines for an individual blind licensee. In the event such a ceiling is imposed, no blind licensee shall receive less vending machine income under such ceiling than he was receiving on January 1, 1974. No limitation shall be imposed on income from vending machines, combined to create a vending facility, which are maintained, serviced, or operated by a blind licensee. Any amounts received by a blind licensee that are in excess of the amount permitted to accrue to him under any ceiling imposed by the Commissioner shall be disbursed to the appropriate State agency under clause (2) of this subsection and shall be used by such agency in accordance with subsection (c) of this section.
+In accordance with the provisions of subsection (b) of this section, vending machine income obtained from the operation of vending machines on Federal property shall accrue (1) tothe blind licensee operating a vending facility on such property, or (2) in the event there is no blind licensee operating such facility on such property, to the State agency in whose State the Federal property is located, for the uses designated in subsection (c) of this section, except that with respect to income which accrues under clause (1) of this subsection, the Commissioner may prescribe regulations imposing a ceiling on income from such vending machines for an individual blind licensee. In the event such a ceiling is imposed, no blind licensee shall receive less vending machine income under such ceiling than he was receiving on January 1, 1974. No limitation shall be imposed on income from vending machines, combined to create a vending facility, which are maintained, serviced, or operated by a blind licensee. Any amounts received by a blind licensee that are in excess of the amount permitted to accrue to him under any ceiling imposed by the Commissioner shall be disbursed to the appropriate State agency under clause (2) of this subsection and shall be used by such agency in accordance with subsection (c) of this section.
 
 #### (b) Direct competition between vending machine and vending facility; proportion of accrued income from such vending machines for individual licensee
 
@@ -30,13 +30,13 @@ This section shall not operate to preclude preexisting or future arrangements, o
 
 The Secretary shall take such action and promulgate such regulations as he deems necessary to assure compliance with this section.
 
-(June 20, 1936, ch. 638, §7, as added Dec. 7, 1974, Pub. L. 93–516, title II, §206, 88 Stat. 1627; Nov. 21, 1974, Pub. L. 93–651, title II, §206, 89 Stat. 2–12.)
+(June 20, 1936, ch. 638, §7, as added Pub. L. 93–516, title II, §206, Dec. 7, 1974, 88 Stat. 1627; Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–12.)
 
 #### Codification
 
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–12, in exactly the same manner as it was enacted by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been enacted by Pub. L.93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–12, in exactly the same manner as it was enacted by Pub. L. 93–516.
 
 #### Prior Provisions
 

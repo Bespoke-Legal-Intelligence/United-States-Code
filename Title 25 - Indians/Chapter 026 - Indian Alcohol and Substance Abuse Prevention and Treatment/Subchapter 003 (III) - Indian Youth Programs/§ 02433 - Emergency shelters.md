@@ -24,7 +24,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 #### (e) Authorization
 
-(1) For the planning and design, construction, and renovation of, or purchase or lease of land or facilities for, emergency shelters and half-way houses to provide emergency care for Indianyouth, there are authorized to be appropriated $10,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+(1) For the planning and design, construction, and renovation of, or purchase or lease of land or facilities for, emergency shelters and half-way houses to provide emergency care for Indian youth, there are authorized to be appropriated $10,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (2) For the staffing and operation of emergency shelters and half-way houses, there are authorized to be appropriated $5,000,000 for fiscal year 1993 and $7,000,000 for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 

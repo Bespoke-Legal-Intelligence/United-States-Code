@@ -20,7 +20,7 @@ Any contractor engaged in the development of any project financed in whole or in
 
 The Secretary of Labor shall prescribe appropriate standards, regulations, and procedures, which shall be observed by the Secretary of Housing and Urban Development in carrying out the provisions of this subchapter (and cause to be made by the Department of Labor such investigations) with respect to compliance with and enforcement of the labor standards provisions of this section, as the Secretary deems desirable.
 
-(Sept. 1, 1951, ch. 378, title III, §310, 65 Stat. 307; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
+(Sept. 1, 1951, ch. 378, title III, §310, 65 Stat. 307; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
 #### References in Text
 

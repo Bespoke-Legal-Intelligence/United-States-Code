@@ -1,6 +1,6 @@
 ### §7423. Personnel administration: full-time employees
 
-(a) The hours of employment in carrying out responsibilities under this title of any employeewho is appointed in the Administration under any provision of this chapter on a full-time basis in a position listed in section 7421(b) of this title (other than an intern or resident appointed pursuant to section 7406 of this title) and who accepts responsibilities for carrying out professional services for remuneration other than those assigned under this title shall consist of not less than 80 hours in a biweekly pay period (as that term is used in section 5504 of title 5).
+(a) The hours of employment in carrying out responsibilities under this title of any employee who is appointed in the Administration under any provision of this chapter on a full-time basis in a position listed in section 7421(b) of this title (other than an intern or resident appointed pursuant to section 7406 of this title) and who accepts responsibilities for carrying out professional services for remuneration other than those assigned under this title shall consist of not less than 80 hours in a biweekly pay period (as that term is used in section 5504 of title 5).
 
 (b) A person covered by subsection (a) may not do any of the following:
 
@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generallyto subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

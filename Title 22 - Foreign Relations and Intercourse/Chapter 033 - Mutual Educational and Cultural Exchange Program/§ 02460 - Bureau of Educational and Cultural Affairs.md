@@ -18,13 +18,13 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 &emsp;(7) a program of working with private, not-for-profit groups through contracts, grants, or cooperative agreements, as authorized by section 2452 of this title, so as to provide financial assistance to nongovernmental organizations engaged in implementing and enhancing exchange-of-persons programs;
 
-&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1141(a) of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
+&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
 
 &emsp;(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries.
 
 #### (b) Revocation or diminution of grants
 
-(1) All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shall have full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity that would be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
+(1) All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shallhave full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity that would be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
 
 (2) The J. William Fulbright Foreign Scholarship Board shall formulate a policy on revocation of Fulbright grants which shall be made known to all grantees. Such policy shall fully protect the right to due process as well as the academic and artistic freedom of all grantees.
 
@@ -46,13 +46,73 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (2) Not later than 90 days after April 30, 1994, and annually thereafter, the President shall submit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report pursuant to paragraph (1). Such report shall include information for each exchange program supported by the United States on the objectives of such exchange, the number of exchange participants supported, the types of exchange activities conducted, the total amount of Federal expenditures for such exchanges, and the extent to which such exchanges are duplicative.
 
-(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423.)
+#### (g) Working Group on United States Government-Sponsored International Exchanges and Training
+
+(1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the United States Information Agency a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
+
+(2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
+
+(3) The Working Group shall be composed as follows:
+
+&emsp;(A) The Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair.
+
+&emsp;(B) A senior representative of the Department of State, who shall be designated by the Secretary of State.
+
+&emsp;(C) A senior representative of the Department of Defense, who shall be designated by the Secretary of Defense.
+
+&emsp;(D) A senior representative of the Department of Education, who shall be designated by the Secretary of Education.
+
+&emsp;(E) A senior representative of the Department of Justice, who shall be designated by the Attorney General.
+
+&emsp;(F) A senior representative of the Agency for International Development, who shall be designated by the Administrator of the Agency.
+
+&emsp;(G) Senior representatives of such other departments and agencies as the Chair determines to be appropriate.
+
+(4) Representatives of the National Security Adviser and the Director of the Office of Management and Budget may participate in the Working Group at the discretion of the Adviser and the Director, respectively.
+
+(5) The Working Group shall be supported by an interagency staff office established in the Bureau of Educational and Cultural Affairs of the United States Information Agency.
+
+(6) The Working Group shall have the following purposes and responsibilities:
+
+&emsp;(A) To collect, analyze, and report data provided by all United States Government departments and agencies conducting international exchanges and training programs.
+
+&emsp;(B) To promote greater understanding and cooperation among concerned United States Government departments and agencies of common issues and challenges in conducting international exchanges and training programs, including through the establishment of a clearinghouse for information on international exchange and training activities in the governmental and nongovernmental sectors.
+
+&emsp;(C) In order to achieve the most efficient and cost-effective use of Federal resources, to identify administrative and programmatic duplication and overlap of activities by the various United States Government departments and agencies involved in Government-sponsored international exchange and training programs, to identify how each Government-sponsored international exchange and training program promotes United States foreign policy, and to report thereon.
+
+&emsp;(D)(i) Not later than 1 year after October 21, 1998, the Working Group shall develop a coordinated and cost-effective strategy for all United States Government-sponsored international exchange and training programs, including an action plan with the objective of achieving a minimum of 10 percent cost savings through greater efficiency, the consolidation of programs, or the elimination of duplication, or any combination thereof.
+
+&emsp;(ii) Not later than 1 year after October 21, 1998, the Working Group shall submit a report to the appropriate congressional committees setting forth the strategy and action plan required by clause (i).
+
+&emsp;(iii) Each year thereafter the Working Group shall assess the strategy and plan required by clause (i).
+
+&emsp;(E) Not later than 2 years after October 21, 1998, to develop recommendations on common performance measures for all United States Government-sponsored international exchange and training programs, and to issue a report.
+
+&emsp;(F) To conduct a survey of private sector international exchange activities and develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
+
+&emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and program management for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the United States Information Agency. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
+
+(7) All reports prepared by the Working Group shall be submitted to the President, through the Director of the United States Information Agency.
+
+(8) The Working Group shall meet at least on a quarterly basis.
+
+(9) All decisions of the Working Group shall be by majority vote of the members present and voting.
+
+(10) The members of the Working Group shall serve without additional compensation for their service on the Working Group. Any expenses incurred by a member of the Working Group in connection with service on the Working Group shall be compensated by that member's department or agency.
+
+(11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
+
+(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(8). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
+Subsec. (g). Pub. L. 105–277 added subsec. (g).
 
 1994—Subsec. (f). Pub. L. 103–236 added subsec. (f).
 
@@ -66,7 +126,13 @@ Subsec. (e). Pub. L. 101–246, §222(a), added subsec. (e).
 
 1987—Subsec. (a)(8), (9). Pub. L. 100–204 added pars. (8) and (9).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
 #### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 Section 222(b) of Pub. L. 101–246 provided that: “There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act \[Feb. 16, 1990\] all functions carried out by the Office of Private Sector Programs on the day before such date.”
 
@@ -115,6 +181,8 @@ Sec. 8. If any member of the Working Group disagrees with respect to any matter 
 Sec. 9. Nothing in this Executive order is intended to alter the authorities and responsibilities of the head of any department or agency.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### Definitions
 

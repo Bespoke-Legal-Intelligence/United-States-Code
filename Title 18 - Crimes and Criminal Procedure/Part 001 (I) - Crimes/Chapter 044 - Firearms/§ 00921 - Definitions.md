@@ -30,11 +30,11 @@
 
 > The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10; or any other device which the Secretary of the Treasury finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
 
-(5) The term “shotgun” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
+(5) The term “shotgun” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
 
 (6) The term “short-barreled shotgun” means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
 
-(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed metallic cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger.
+(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
 
 (8) The term “short-barreled rifle” means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
 
@@ -46,7 +46,7 @@
 
 (12) The term “pawnbroker” means any person whose business or occupation includes the taking or receiving, by way of pledge or pawn, of any firearm as security for the payment or repayment of money.
 
-(13) The term “collector” means any person who acquires, holds, or disposes of firearms ascurios or relics, as the Secretary shall by regulation define, and the term “licensed collector” means any such person licensed under the provisions of this chapter.
+(13) The term “collector” means any person who acquires, holds, or disposes of firearms as curios or relics, as the Secretary shall by regulation define, and the term “licensed collector” means any such person licensed under the provisions of this chapter.
 
 (14) The term “indictment” includes an indictment or information in any court under which a crime punishable by imprisonment for a term exceeding one year may be prosecuted.
 
@@ -54,13 +54,15 @@
 
 (16) The term “antique firearm” means—
 
-&emsp;(A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and
+&emsp;(A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; or
 
 &emsp;(B) any replica of any firearm described in subparagraph (A) if such replica—
 
 &emsp;&emsp;(i) is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition, or
 
-&emsp;&emsp;(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.
+&emsp;&emsp;(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade; or
+
+&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term “antique firearm” shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
 
 (17)(A) The term “ammunition” means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
 
@@ -78,7 +80,7 @@
 
 (20) The term “crime punishable by imprisonment for a term exceeding one year” does not include—
 
-&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices, or
+&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices,restraints of trade, or other similar offenses relating to the regulation of business practices, or
 
 &emsp;(B) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
@@ -216,9 +218,17 @@
 
 (ii) A person shall not be considered to have been convicted of such an offense for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the applicable jurisdiction provides for the loss of civil rights under such an offense) unless the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
 
+(34) The term “secure gun storage or safety device” means—
+
+&emsp;(A) a device that, when installed on a firearm, is designed to prevent the firearm from being operated without first deactivating the device;
+
+&emsp;(B) a device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
+
+&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
+
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88,title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490.)
 
 #### Amendment of Section
 
@@ -231,6 +241,22 @@ For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b)
 The date of enactment of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a)(31)(A), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+
+1998—Subsec. (a)(5). Pub. L. 105–277, §101(h) \[title I, §115(1)\], substituted “an explosive” for “the explosive in a fixed shotgun shell”.
+
+Subsec. (a)(7). Pub. L. 105–277, §101(h) \[title I, §115(2)\], substituted “an explosive” for “the explosive in a fixed metallic cartridge”.
+
+Subsec. (a)(16). Pub. L. 105–277, §101(h) \[title I, §115(3)\], added par. (16) and struck out former par. (16) which read as follows: “The term ‘antique firearm’ means—
+
+&emsp;“(A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and
+
+&emsp;“(B) any replica of any firearm described in subparagraph (A) if such replica—
+
+&emsp;&emsp;“(i) is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition, or
+
+&emsp;&emsp;“(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.”
+
+Subsec. (a)(34). Pub. L. 105–277, §101(b) \[title I, §119(a)\], added par. (34).
 
 1996—Subsec. (a)(33). Pub. L. 104–208 added par. (33).
 
@@ -280,13 +306,17 @@ Subsec. (a)(23), (24). Pub. L. 99–308, §101(6), added pars. (23) and (24).
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining “firearm”, “destructive device”, and “crime punishable by imprisonment for a term exceeding one year”.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. A, §101(b) \[title I, §119(e)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that: “The amendments made by this section \[amending this section and section 923 of this title\] shall take effect 180 days after the date of enactment of this Act \[Oct. 21, 1998\].”
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
 #### Effective and Termination Dates of 1994 Amendment
 
-Section 110105 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle—
+Section 110105 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions setout as notes under this section\] and the amendments made by this subtitle—
 
 &emsp;“(1) shall take effect on the date of the enactment of this Act \[Sept. 13, 1994\]; and
 
@@ -356,11 +386,15 @@ Section 1(a) of Pub. L. 99–308 provided that: “This Act \[enacting section 9
 
 #### Short Title
 
-Section 1 of Pub. L. 90–618 provided: “That this Act \[enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922 to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the ‘Gun Control Act of 1968’.”
+Section 1 of Pub. L. 90–618 provided: “That this Act \[enacting sections 5822, 5871 and 5872 of Title 26, Internal Revenue Code, amending this section, sections 922to 928 of this title, and Appendix to this title, and sections 5801, 5802, 5811, 5812, 5821, 5841 to 5849, 5851 to 5854, 5861, 6806, and 7273 of Title 26, repealing sections 5692 and 6107 of Title 26, omitting sections 5803, 5813, 5814, 5831, 5855, and 5862 of Title 26, and enacting material set out as notes under this section and Appendix to this title, and section 5801 of Title 26\] may be cited as the ‘Gun Control Act of 1968’.”
 
 #### Construction of Pub. L. 103–159 With Section 552a of Title 5
 
 Section 105 of Pub. L. 103–159 provided that: “This Act \[enacting section 925A of this title, amending this section, sections 922 to 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title\] and the amendments made by this Act shall not be construed to alter or impair any right or remedy under section 552a of title 5, United States Code.”
+
+#### Statutory Construction; Evidence
+
+For provisions relating to statutory construction of, and admissibility of evidence regarding compliance or noncompliance with, the amendment by section 101(b) \[title I, §119(a)\] of Pub. L. 105–277, see section 101(b) \[title I, §119(d)\] of Pub. L. 105–277, set out as a note under section 923 of this title.
 
 #### Study By Attorney General
 
@@ -412,7 +446,7 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionally immature, or thrill-bent juveniles and minors prone to criminal behavior;
 
-&emsp;“(7) that the United States has become the dumping ground of the castoff surplus military weapons ofother nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
+&emsp;“(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
 
 &emsp;“(8) that the lack of adequate Federal control over interstate and foreign commerce in highly destructive weapons (such as bazookas, mortars, antitank guns, and so forth, and destructive devices such as explosive or incendiary grenades, bombs, missiles, and so forth) has allowed such weapons and devices to fall into the hands of lawless persons, including armed groups who would supplant lawful authority, thus creating a problem of national concern;
 
@@ -450,5 +484,5 @@ Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 1415, 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
+This section is referred to in sections 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
 

@@ -20,7 +20,7 @@ The Commissioner of Social Security shall establish by regulation criteria for t
 
 &emsp;(2) other factors determined by the Commissioner of Social Security to be appropriate.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1633, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1478; amended July 9, 1973, Pub. L. 93–66, title II, §214, 87 Stat. 158; Oct. 9, 1984, Pub. L. 98–460, §6(b), 98 Stat. 1802; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §203(a), 108 Stat. 1478, 1508.)
+(Aug. 14, 1935, ch. 531, title XVI, §1633, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 93–66, title II, §214, July 9, 1973, 87 Stat. 158; Pub. L. 98–460, §6(b), Oct. 9, 1984, 98 Stat. 1802; Pub. L. 103–296, title I, §107(a)(4), title II, §203(a), Aug. 15, 1994, 108 Stat. 1478, 1508.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@ For provisions requiring the Secretary to institute the system of notification r
 
 #### Federal Program of Supplemental Security Income; Preference for Present State and Local Employees
 
-Section 213 of Pub. L. 93–66 provided that: “The Secretary of Health, Education, and Welfare \[now Healthand Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[subchapter I, X, XIV, or XVI of this chapter\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program.”
+Section 213 of Pub. L. 93–66 provided that: “The Secretary of Health, Education, and Welfare \[now Health and Human Services\] in the recruitment and selection for employment of personnel whose services will be utilized in the administration of the Federal program of supplemental security income for the aged, blind, and disabled (established by title XVI of the Social Security Act \[this subchapter\]), shall give a preference, as among applicants whose qualifications are reasonably equal (subject to any preferences conferred by law or regulation on individuals who have been Federal employees and have been displaced from such employment), to applicants for employment who are or were employed in the administration of any State program approved under title I, X, XIV, or XVI of such Act \[subchapter I, X, XIV, or XVI of this chapter\] and are or were involuntarily displaced from their employment as a result of the displacement of such State program by such Federal program.”
 
 #### Application to Northern Mariana Islands
 

@@ -61,7 +61,7 @@ Although an individual may serve more than 2 terms of service described in subse
 
 #### (2) Rehabilitation
 
-&emsp;An individual whose eligibility has been suspended under paragraph (1) shall resume eligibility before the end of the period determined under such paragraph if the individual satisfactorily completes a drug rehabilitation program that complies with such criteria as the Corporation shall prescribe for purposes of this paragraph.
+&emsp;An individual whose eligibility has been suspended under paragraph (1) shall resume eligibility before the end of the period determinedunder such paragraph if the individual satisfactorily completes a drug rehabilitation program that complies with such criteria as the Corporation shall prescribe for purposes of this paragraph.
 
 #### (3) First convictions
 

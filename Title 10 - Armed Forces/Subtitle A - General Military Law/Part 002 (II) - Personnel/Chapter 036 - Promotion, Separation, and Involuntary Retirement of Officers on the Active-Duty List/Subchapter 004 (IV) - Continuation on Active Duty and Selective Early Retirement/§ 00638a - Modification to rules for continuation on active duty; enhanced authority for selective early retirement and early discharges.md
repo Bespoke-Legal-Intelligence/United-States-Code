@@ -1,6 +1,6 @@
 ### §638a. Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges
 
-(a) The Secretary of Defense may authorize the Secretary of a military department, during the nine-year period beginning on October 1, 1990, to take any of the actions set forth in subsection (b) with respect to officers of an armed force under the jurisdiction of that Secretary.
+(a) The Secretary of Defense may authorize the Secretary of a military department, during the period beginning on October 1, 1990, and ending on September 30, 2001, to take any of the actions set forth in subsection (b) with respect to officers of an armed force under the jurisdiction of that Secretary.
 
 (b) Actions which the Secretary of a military department may take with respect to officers of an armed force when authorized to do so under subsection (a) are the following:
 
@@ -16,7 +16,7 @@
 
 &emsp;(3) Suspending section 638(c) of this title.
 
-&emsp;(4) Convening selection boards under section 611(b) of this title to consider for dischargeregular officers on the active-duty list in a grade below lieutenant colonel or commander—
+&emsp;(4) Convening selection boards under section 611(b) of this title to consider for discharge regular officers on the active-duty list in a grade below lieutenant colonel or commander—
 
 &emsp;&emsp;(A) who have served at least one year of active duty in the grade currently held;
 
@@ -54,13 +54,15 @@
 
 (e) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
 
-(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667.)
+(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025.)
 
 #### References in Text
 
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(4)(C), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 1993—Subsec. (a). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 

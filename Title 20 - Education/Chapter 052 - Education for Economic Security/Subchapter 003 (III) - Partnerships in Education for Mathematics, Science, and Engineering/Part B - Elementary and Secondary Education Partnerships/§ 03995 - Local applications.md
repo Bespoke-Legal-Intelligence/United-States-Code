@@ -28,7 +28,7 @@ The State shall require each application to include—
 
 &emsp;&emsp;&emsp;(iv) consideration will be given to programs and activities designed to meet the needs of educationally disadvantaged and other traditionally underserved populations; and
 
-&emsp;(4) if the funds are to be used for advanced placement programs as described in subsection (b)(2) of this section, a commitment as to the percentage of funds received from the State ona per student basis that shall be used by the local educational agency to defray costs of the advanced placement program.
+&emsp;(4) if the funds are to be used for advanced placement programs as described in subsection (b)(2) of this section, a commitment as to the percentage of funds received from the State on a per student basis that shall be used by the local educational agency to defray costs of the advanced placement program.
 
 #### (c) Waiver
 

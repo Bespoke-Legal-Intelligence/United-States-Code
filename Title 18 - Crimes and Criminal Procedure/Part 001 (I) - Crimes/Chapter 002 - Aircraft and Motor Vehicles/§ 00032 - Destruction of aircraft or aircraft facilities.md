@@ -32,7 +32,7 @@
 
 (c) Whoever willfully imparts or conveys any threat to do an act which would violate any of paragraphs (1) through (5) of subsection (a) or any of paragraphs (1) through (3) of subsection (b) of this section, with an apparent determination and will to carry the threat into execution shall be fined under this title or imprisoned not more than five years, or both.
 
-(Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Oct. 12. 1984, Pub. L. 98–473, title II, §2013(b), 98 Stat. 2187; Nov. 18, 1988, Pub. L. 100–690, title VII, §7016, 102 Stat. 4395; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), 108 Stat. 2148; Apr. 24, 1996, Pub. L. 104–132, title VII, §§721(b), 723(a)(1), 110 Stat. 1298, 1300.)
+(Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Pub. L. 98–473, title II, §2013(b), Oct. 12. 1984, 98 Stat. 2187; Pub. L. 100–690, title VII, §7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ Section 101(a)(22) of the Immigration and Nationality Act, referred to in subsec
 
 1996—Subsec. (a)(7). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 
-Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
+Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out “, if the offender is later found in the United States,” before “be fined under this title” and inserted at end “There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; oran offender is afterwards found in the United States. For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.”
 
 Subsec. (b)(4). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
 

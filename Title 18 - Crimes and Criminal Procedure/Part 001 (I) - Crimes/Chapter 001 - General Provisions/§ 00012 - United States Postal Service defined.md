@@ -2,7 +2,7 @@
 
 As used in this title, the term “Postal Service” means the United States Postal Service established under title 39, and every officer and employee of that Service, whether or not such officer or employee has taken the oath of office.
 
-(June 25, 1948, ch. 645, 62 Stat. 686; Aug. 12, 1970, Pub. L. 91–375, §6(j)(2), 84 Stat. 777; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3505, 104 Stat. 4921.)
+(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 91–375, §6(j)(2), Aug. 12, 1970, 84 Stat. 777; Pub. L. 101–647, title XXXV, §3505, Nov. 29, 1990, 104 Stat. 4921.)
 
 #### Historical and Revision Notes
 

@@ -56,27 +56,29 @@
 
 &emsp;(A) to any person who originally enlists in a regular component of the Armed Forces after September 7, 1980; and
 
-&emsp;(B) to any other person who enters on active duty on or after the date of the enactment of this subsection and has not previously completed a continuous period of active duty of at least 24 months or been discharged or released from active duty under section 1171 of title 10.
+&emsp;(B) to any other person who enters on active duty after October 13, 1982, and has not previously completed a continuous period of active duty of at least 24 months or been discharged or released from active duty under section 1171 of title 10.
 
 (3) Paragraph (1) of this subsection does not apply—
 
 &emsp;(A) to any person described in clause (A), (B), or (C) of subsection (b)(3) of this section; or
 
-&emsp;(B) with respect to a benefit under (i) the Social Security Act other than additional wages deemed to have been paid, under section 229(a) of the Social Security Act (42 U.S.C. 429(a)), for any calendar quarter beginning on or after the date of the enactment of this subsection, or (ii) title 5 other than a benefit based on meeting the definition of preference eligible in section 2108(3) of such title.
+&emsp;(B) with respect to a benefit under (i) the Social Security Act other than additional wages deemed to have been paid, under section 229(a) of the Social Security Act (42 U.S.C. 429(a)), for any calendar quarter beginning after October 13, 1982, or (ii) title 5 other than a benefit based on meeting the definition of preference eligible in section 2108(3) of such title.
 
 (e) For the purposes of this section, the term “benefit” includes a right or privilege, but does not include a refund of a participant's contributions to the educational benefits program provided by chapter 32 of this title.
 
 (f) Nothing in this section shall be construed to deprive any person of any procedural rights, including any rights to assistance in applying for or claiming a benefit.
 
-(Added Pub. L. 97–66, title VI, §604(a)(1), Oct. 17, 1981, 95 Stat. 1035, §3103A; amended Pub. L. 97–306, title IV, §408(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title III, §321(11), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §102(b)(3), Nov. 18, 1988, 102 Stat. 4163; Pub. L. 101–510, div. A, title V, §562(a)(4), Nov. 5, 1990, 104 Stat. 1574; renumbered §5303A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–353, §3, Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–446, title IX, §908, Nov. 2, 1994, 108 Stat. 4678.)
+(Added Pub. L. 97–66, title VI, §604(a)(1), Oct. 17, 1981, 95 Stat. 1035, §3103A; amended Pub. L. 97–306, title IV, §408(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title III, §321(11), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §102(b)(3), Nov. 18, 1988, 102 Stat. 4163; Pub. L. 101–510, div. A, title V, §562(a)(4), Nov. 5, 1990, 104 Stat. 1574; renumbered §5303A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–353, §3, Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–446, title IX, §908, Nov. 2, 1994, 108 Stat. 4678; Pub. L. 105–368, title X, §1005(b)(15), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The date of the enactment of this subsection, referred to in subsec. (d)(3)(B)(i), is the date of enactment of Pub. L. 97–306, which was approved Oct. 14, 1982.
-
 #### Amendments
+
+1998—Subsec. (d)(2)(B). Pub. L. 105–368, §1005(b)(15)(A), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection”.
+
+Subsec. (d)(3)(B)(i). Pub. L. 105–368, §1005(b)(15)(B), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection,”.
 
 1994—Subsec. (b)(3)(F). Pub. L. 103–446 inserted “or chapter 37” after “chapter 30” in introductory provisions.
 
@@ -140,7 +142,7 @@ Section 408(b) of Pub. L. 97–306 provided that:
 
 #### Scope of Exclusion
 
-Section 408(d) of Pub. L. 97–306 provided that: “Section 3103A \[now 5303A\] of title 38, United States Code,as amended by subsection (a), is the law with respect to the matters stated in such section and applies, in accordance with its terms, with respect to benefits under Federal law, regardless of the particular title of the United States Code or other law under which any such benefit is provided or the department, agency, or instrumentality which administers any such benefit.”
+Section 408(d) of Pub. L. 97–306 provided that: “Section 3103A \[now 5303A\] of title 38, United States Code, as amended by subsection (a), is the law with respect to the matters stated in such section and applies, in accordance with its terms, with respect to benefits under Federal law, regardless of the particular title of the United States Code or other law under which any such benefit is provided or the department, agency, or instrumentality which administers any such benefit.”
 
 #### Applicability
 

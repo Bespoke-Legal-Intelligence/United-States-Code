@@ -26,7 +26,7 @@ Each State, and each entity which has received funds from an allotment made to a
 
 (2) Paragraph (1) does not apply to the collection, compilation, or transmittal of data in the course of a judicial proceeding.
 
-(July 1, 1944, ch. 373, title XIX, §1907, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 541.)
+(July 1, 1944, ch. 373, title XIX, §1907, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 541.)
 
 #### Section Referred to in Other Sections
 

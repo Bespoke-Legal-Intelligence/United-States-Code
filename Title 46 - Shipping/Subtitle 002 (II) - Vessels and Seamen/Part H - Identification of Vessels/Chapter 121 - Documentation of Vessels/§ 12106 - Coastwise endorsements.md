@@ -106,7 +106,73 @@ Subsec. (d). Pub. L. 100–239, §6(a)(3), added subsec. (d).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### Administrative Process for Jones Act Waivers
+
+Pub. L. 105–383, title V, Nov. 13, 1998, 112 Stat. 3445, provided that:
+
+#### “SEC. 501. FINDINGS.
+
+“The Congress finds that—
+
+&emsp;“(1) current coastwise trade laws provide no administrative authority to waive the United-States-built requirement of those laws for the limited carriage of passengers for hire on vessels built or rebuilt outside the United States;
+
+&emsp;“(2) requests for such waivers require the enactment of legislation by the Congress;
+
+&emsp;“(3) each Congress routinely approves numerous such requests for waiver and rarely rejects any such request; and
+
+&emsp;“(4) the review and approval of such waiver requests is a ministerial function which properly should be executed by an administrative agency with appropriate expertise.
+
+#### “SEC. 502. ADMINISTRATIVE WAIVER OF COASTWISE TRADE LAWS.
+
+“Notwithstanding sections 12106 and 12108 of title 46, United States Code, section 8 of the Act of June 19, 1886 (46 U.S.C. App. 289), and section 27 of the Merchant Marine Act, 1920 (46 U.S.C. App. 883), the Secretary of Transportation may issue a certificate of documentation with appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel for an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
+
+&emsp;“(1) United States vessel builders; or
+
+&emsp;“(2) the coastwise trade business of any person who employs vessels built in the United States in that business.
+
+#### “SEC. 503. REVOCATION.
+
+“The Secretary may revoke an endorsement issued under section 502, after notice and an opportunity for public comment, if the Secretary determines that the employment of the vessel in the coastwise trade has substantially changed since the issuance of the endorsement, and—
+
+&emsp;“(1) the vessel is employed other than as a small passenger vessel or an uninspected passenger vessel; or
+
+&emsp;“(2) the employment of the vessel adversely affects—
+
+&emsp;&emsp;“(A) United States vessel builders; or
+
+&emsp;&emsp;“(B) the coastwise trade business of any person who employs vessels built in the United States.
+
+#### “SEC. 504. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Transportation.
+
+&emsp;“(2)
+
+Eligible vessel.—The term ‘eligible vessel’ means a vessel that—
+
+&emsp;&emsp;“(A) was not built in the United States and is at least 3 years of age; or
+
+&emsp;&emsp;“(B) if rebuilt, was rebuilt outside the United States at least 3 years before the certification requested under section 502, if granted, would take effect.
+
+&emsp;“(3)
+
+Small passenger vessel; uninspected passenger vessel; passenger for hire.—The terms ‘small passenger vessel’, ‘uninspected passenger vessel’, and ‘passenger for hire’ have the meaning given such terms by section 2101 of title 46, United States Code.
+
+#### “SEC. 505. SUNSET.
+
+“(a)
+
+In General.—Subject to subsection (b), this title (other than this section) shall have no force or effect on or after September 30, 2002.
+
+“(b)
+
+Endorsements Continue.—Any certificate or endorsement issued under section 502 before the date referred to in subsection (a) of this section shall continue in effect until otherwise invalidated or revoked under chapter 121 of title 46, United States Code.”
 
 #### Study and Report on Financing Methods
 

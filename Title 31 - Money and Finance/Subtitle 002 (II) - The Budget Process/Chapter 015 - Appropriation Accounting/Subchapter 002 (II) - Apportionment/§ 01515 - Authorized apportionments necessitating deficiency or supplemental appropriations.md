@@ -1,6 +1,6 @@
 ### §1515. Authorized apportionments necessitating deficiency or supplemental appropriations
 
-(a) An appropriation required to be apportioned under section 1512 of this title may be apportioned on a basis that indicates the need for a deficiency or supplemental appropriation to the extent necessary to permit payment of such pay increases as may be granted pursuant to law to civilian officers and employees (includingprevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5) and to retired and active military personnel.
+(a) An appropriation required to be apportioned under section 1512 of this title may be apportioned on a basis that indicates the need for a deficiency or supplemental appropriation to the extent necessary to permit payment of such pay increases as may be granted pursuant to law to civilian officers and employees (including prevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5) and to retired and active military personnel.
 
 (b)(1) Except as provided in subsection (a) of this section, an official may make, and the head of an executive agency may request, an apportionment under section 1512 of this title that would indicate a necessity for a deficiency or supplemental appropriation only when the official or agency head decides that the action is required because of—
 
@@ -48,5 +48,5 @@ In subsection (b)(2), the words “proposed deficiency or supplemental appropria
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–202 added subsec. (a) and struck out former subsec. (a) which read as follows: “An appropriation required to be apportioned under section 1512 of this title may be apportioned on a basis that indicates a necessity for a deficiency or supplemental appropriation to the extent necessary to permit payment of pay increases for prevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5.”
+1987—Subsec. (a). Pub. L. 100–202 added subsec. (a) and struck out former subsec. (a) which read as follows:“An appropriation required to be apportioned under section 1512 of this title may be apportioned on a basis that indicates a necessity for a deficiency or supplemental appropriation to the extent necessary to permit payment of pay increases for prevailing rate employees whose pay is fixed and adjusted under subchapter IV of chapter 53 of title 5.”
 

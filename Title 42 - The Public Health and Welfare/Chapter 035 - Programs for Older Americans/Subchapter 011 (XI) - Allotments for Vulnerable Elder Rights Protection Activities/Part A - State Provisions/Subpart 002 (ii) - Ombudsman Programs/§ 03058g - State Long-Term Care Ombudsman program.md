@@ -254,7 +254,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;(F) providing policy, regulatory, and legislative recommendations to solve identified problems, to resolve the complaints, to improve the quality of care and life of residents, to protect the health, safety, welfare, and rights of residents, and to remove the barriers;
 
-&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal, State, and local laws, regulations, and other government policies and actions that pertainto long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
+&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal, State, and local laws, regulations, and other government policies and actions that pertain to long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
 
 &emsp;(3)(A) provide such information as the Office determines to be necessary to public and private agencies, legislators, and other persons, regarding—
 
@@ -328,7 +328,7 @@ Subsec. (j)(1). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secret
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3018, 3021, 3027, 3030<i>l</i>, 3035<i>o</i>, 3058d, 3058f, 3058h of this title; title 29 section 2212.
+This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3018, 3021, 3027, 3030<i>l</i>, 3035<i>o</i>, 3058d, 3058f, 3058h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -18,7 +18,7 @@ As expeditiously as practicable but not later than one year after August 7, 1977
 
 (2) Before requiring a plan revision under this subsection, with respect to any State the Administrator shall take into account the report of the review conducted by such State under paragraph (1) and shall consult with the Governor of the State respecting such required revision.
 
-(July 14, 1955, ch. 360, title I, §124, as added Aug. 7, 1977, Pub. L. 95–95, title I, §122, 91 Stat. 722.)
+(July 14, 1955, ch. 360, title I, §124, as added Pub. L. 95–95, title I, §122, Aug. 7, 1977, 91 Stat. 722.)
 
 #### Effective Date
 

@@ -8,7 +8,7 @@ The Director of the Federal Emergency Management Agency is authorized to issue t
 
 The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States.
 
-(Aug. 7, 1956, ch. 1025, §15, 70 Stat. 1083; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669; Aug. 1, 1968, Pub. L. 90–448, title XIII, §1303, 82 Stat. 573; Nov. 30, 1983, Pub. L. 98–181, title IV, §451(f), 97 Stat. 1229; Oct. 17, 1984, Pub. L. 98–479, title II, §203(g), 98 Stat. 2230; Feb. 5, 1988, Pub. L. 100–242, title V, §545(f), 101 Stat. 1942.)
+(Aug. 7, 1956, ch. 1025, §15, 70 Stat. 1083; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–448, title XIII, §1303, Aug. 1, 1968, 82 Stat. 573; Pub. L. 98–181, title IV, §451(f), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(g), Oct. 17, 1984, 98 Stat. 2230; Pub. L. 100–242, title V, §545(f), Feb. 5, 1988, 101 Stat. 1942.)
 
 #### Amendments
 

@@ -18,7 +18,7 @@ Notwithstanding any other provision of the indenture to be qualified, the right 
 
 The obligor upon any indenture qualified under this subchapter may set a record date for purposes of determining the identity of indenture security holders entitled to vote or consent to any action by vote or consent authorized or permitted by subsection (a) of this section. Unless the indenture provides otherwise, such record date shall be the later of 30 days prior to the first solicitation of such consent or the date of the most recent list of holders furnished to the trustee pursuant to section 77<i>lll</i> of this title prior to such solicitation.
 
-(May 27, 1933, ch. 38, title III, §316, as added Aug. 3, 1939, ch. 411, 53 Stat. 1172; amended Nov. 15, 1990, Pub. L. 101–550, title IV, §415, 104 Stat. 2731.)
+(May 27, 1933, ch. 38, title III, §316, as added Aug. 3, 1939, ch. 411, 53 Stat. 1172; amended Pub. L. 101–550, title IV, §415, Nov. 15, 1990, 104 Stat. 2731.)
 
 #### Amendments
 

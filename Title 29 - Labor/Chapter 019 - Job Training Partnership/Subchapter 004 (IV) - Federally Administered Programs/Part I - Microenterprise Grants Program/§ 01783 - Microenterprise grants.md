@@ -28,7 +28,7 @@ The Secretary shall award grants competitively under this section on the basis o
 
 #### (d) Timing
 
-Not later than April 1 of any fiscal year, a State may submit to the Secretary an application. Not later than the following June 1, the Secretary shall approve not more than 10 of the applications. Not later than the following July 1, the Secretary shall authorize the applicant to begin the programs. The Secretary may consider making multiyear grants.
+Not later than April 1 of any fiscal year, a State may submit to the Secretary an application. Not later than the following June 1, the Secretary shall approve not more than 10 of theapplications. Not later than the following July 1, the Secretary shall authorize the applicant to begin the programs. The Secretary may consider making multiyear grants.
 
 #### (e) Matching requirement
 
@@ -71,6 +71,10 @@ As used in this section:
 &emsp;&emsp;(B) in the case of a community conducting a project in a migrant or seasonal farmworker community, the grantee designated under section 1672(c) of this title, or a consortium of such grantees and the State.
 
 (Pub. L. 97–300, title IV, §499, as added Pub. L. 102–367, title IV, §407, Sept. 7, 1992, 106 Stat. 1093.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §6873. Availability of labor
 
-The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Older American Community Service Employment Act \[42 U.S.C. 3056 et seq.\], available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
+The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Older American Community Service Employment Act \[42 U.S.C. 3056 et seq.\], available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
 
 &emsp;(1) First, the Secretary of Energy (in consultation with the Director of the Community Services Administration, the Secretary of Agriculture, and the Secretary of Labor) shall determine the number of individuals needed to supply sufficient labor to carry out such weatherization programs in the various areas of the country.
 
@@ -8,13 +8,19 @@ The following actions shall be taken in order to assure that there is a sufficie
 
 &emsp;(3) After such areas are identified, the Secretary of Labor shall take steps to assure that such weatherization programs are supported to the maximum extent practicable in such areas by such volunteers and training participants and public service employment workers.
 
-(Pub. L. 95–619, title II, §233, Nov. 9, 1978, 92 Stat. 3227; Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357.)
+(Pub. L. 95–619, title II, §233, Nov. 9, 1978, 92 Stat. 3227; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(39), (f)(30)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–277, §101(f) \[title VIII, §405(f)(30), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, this section is amended, in the matter preceding paragraph (1), by striking “the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
 The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Older American Community Service Employment Act, referred to in text, is title V of Pub. L. 89–73,as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and amended, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 3001 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+The Older American Community Service Employment Act, referred to in text, is title V of Pub. L. 89–73, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and amended, which is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 3001 of this title and Tables.
 
 The Energy Conservation in Existing Buildings Act of 1976, referred to in text, is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§6861 et seq.) of subchapter III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
@@ -22,9 +28,15 @@ Section 222(a)(12) of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(1
 
 #### Codification
 
-“Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted in text for “Comprehensive Employment Training Act of 1973 \[29 U.S.C. 801 et seq.\]” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to Comprehensive Employment and Training Act shall be deemed to refer to Job Training Partnership Act.
-
 Section was enacted as a part of the National Energy Conservation Policy Act, and not as a part of the Energy Conservation and Production Act which comprises this chapter.
+
+#### Amendments
+
+1998—Pub. L. 105–277, §101(f) \[title VIII, §405(d)(39)\], which directed the substitution of “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973” in introductory provisions, was executed by making the substitution for “the Comprehensive Employment Training Act of 1973” to reflect the probable intent of Congress.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(39)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(30)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Community Services Administration
 

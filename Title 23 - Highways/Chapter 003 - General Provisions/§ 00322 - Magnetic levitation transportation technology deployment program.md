@@ -1,0 +1,230 @@
+### §322. Magnetic levitation transportation technology deployment program
+
+(a)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;(1)
+
+Eligible project costs.—The term “eligible project costs”—
+
+&emsp;&emsp;(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
+
+&emsp;&emsp;(B) includes the costs of preconstruction planning activities.
+
+&emsp;(2)
+
+Full project costs.—The term “full project costs” means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment.
+
+&emsp;(3) MAGLEV.—The term “MAGLEV” means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour.
+
+&emsp;(4)
+
+Partnership potential.—The term “partnership potential” has the meaning given the term in the commercial feasibility study of high-speed ground transportation conducted under section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1978).
+
+(b)
+
+Financial Assistance.—
+
+&emsp;(1)
+
+In general.—The Secretary shall make available financial assistance to pay the Federal share of full project costs of eligible projects selected under this section. Financial assistance made available under this section and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
+
+&emsp;(2)
+
+Federal share.—The Federal share of full project costs under paragraph (1) shall be not more than 2/3.
+
+&emsp;(3)
+
+Use of assistance.—Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects selected under this section.
+
+(c)
+
+Solicitation of Applications for Assistance.—Not later than 180 days after the date of enactment of this subsection, the Secretary shall solicit applications from States, or authorities designated by 1 or more States, for financial assistance authorized by subsection (b) for planning, design, and construction of eligible MAGLEV projects.
+
+(d)
+
+Project Eligibility.—To be eligible to receive financial assistance under subsection (b), a project shall—
+
+&emsp;(1) involve a segment or segments of a high-speed ground transportation corridor that exhibit partnership potential;
+
+&emsp;(2) require an amount of Federal funds for project financing that will not exceed the sum of—
+
+&emsp;&emsp;(A) the amounts made available under subsection (h)(1); and
+
+&emsp;&emsp;(B) the amounts made available by States under subsection (h)(3);
+
+&emsp;(3) result in an operating transportation facility that provides a revenue producing service;
+
+&emsp;(4) be undertaken through a public and private partnership, with at least 1/3 of full project costs paid using non-Federal funds;
+
+&emsp;(5) satisfy applicable statewide and metropolitan planning requirements;
+
+&emsp;(6) be approved by the Secretary based on an application submitted to the Secretary by a State or authority designated by 1 or more States;
+
+&emsp;(7) to the extent that non-United States MAGLEV technology is used within the United States, be carried out as a technology transfer project; and
+
+&emsp;(8) be carried out using materials at least 70 percent of which are manufactured in the United States.
+
+(e)
+
+Project Selection Criteria.—Prior to soliciting applications, the Secretary shall establish criteria for selecting which eligible projects under subsection (d) will receive financial assistance under subsection (b). The criteria shall include the extent to which—
+
+&emsp;(1) a project is nationally significant, including the extent to which the project will demonstrate the feasibility of deployment of MAGLEV technology throughout the United States;
+
+&emsp;(2) timely implementation of the project will reduce congestion in other modes of transportation and reduce the need for additional highway or airport construction;
+
+&emsp;(3) States, regions, and localities financially contribute to the project;
+
+&emsp;(4) implementation of the project will create new jobs in traditional and emerging industries;
+
+&emsp;(5) the project will augment MAGLEV networks identified as having partnership potential;
+
+&emsp;(6) financial assistance would foster public and private partnerships for infrastructure development and attract private debt or equity investment;
+
+&emsp;(7) financial assistance would foster the timely implementation of a project; and
+
+&emsp;(8) life-cycle costs in design and engineering are considered and enhanced.
+
+(f)
+
+Project Selection.—
+
+&emsp;(1)
+
+Preconstruction planning activities.—Not later than 90 days after a deadline established by the Secretary for the receipt of applications, the Secretary shall evaluate the eligible projects in accordance with the selection criteria and select 1 or more eligible projects to receive financial assistance for preconstruction planning activities, including—
+
+&emsp;&emsp;(A) preparation of such feasibility studies, major investment studies, and environmental impact statements and assessments as are required under State law;
+
+&emsp;&emsp;(B) pricing of the final design, engineering, and construction activities proposed to be assisted under paragraph (2); and
+
+&emsp;&emsp;(C) such other activities as are necessary to provide the Secretary with sufficient information to evaluate whether a project should receive financial assistance for final design, engineering, and construction activities under paragraph (2).
+
+&emsp;(2)
+
+Final design, engineering, and construction activities.—After completion of preconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
+
+(g)
+
+Joint Ventures.—A project undertaken by a joint venture of United States and non-United States persons (including a project involving the deployment of non-United States MAGLEV technology in the United States) shall be eligible for financial assistance under this section if the project is eligible under subsection (d) and selected under subsection (f).
+
+(h)
+
+Funding.—
+
+&emsp;(1)
+
+In general.—
+
+&emsp;&emsp;(A)
+
+Contract authority; authorization of appropriations.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $15,000,000 for fiscal year 1999, $20,000,000 for fiscal year 2000, and $25,000,000 for fiscal year 2001.
+
+&emsp;&emsp;&emsp;(ii)
+
+Contract authority.—Funds authorized by this subparagraph shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this section shall be determined in accordance with subsection (b); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the availability of the funds shall be determined in accordance with paragraph (2).
+
+&emsp;&emsp;(B)
+
+Noncontract authority authorization of appropriations.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each of fiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
+
+&emsp;&emsp;&emsp;(ii)
+
+Availability.—Notwithstanding section 118(a), funds made available under clause (i) shall not be available in advance of an annual appropriation.
+
+&emsp;(2)
+
+Availability of funds.—Funds made available under paragraph (1) shall remain available until expended.
+
+&emsp;(3)
+
+Other federal funds.—Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
+
+&emsp;(4)
+
+Other assistance.—Notwithstanding any other provision of law, an eligible project selected under this section shall be eligible for other forms of financial assistance provided under this title and the Transportation Equity Act for the 21st Century, including loans, loan guarantees, and lines of credit.
+
+(i)
+
+Low-Speed Project.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of this section, of the funds made available by subsection (h)(1)(A) to carry out this section, $5,000,000 shall be made available to the Secretary to make grants for the research and development of low-speed superconductivity magnetic levitation technology for public transportation purposes in urban areas to demonstrate energy efficiency, congestion mitigation, and safety benefits.
+
+&emsp;(2)
+
+Noncontract authority authorization of appropriations.—
+
+&emsp;&emsp;(A)
+
+In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this subsection such sums as are necessary for each of fiscal years 2000 through 2003.
+
+&emsp;&emsp;(B)
+
+Availability.—Notwithstanding section 118(a), funds made available under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) shall not be available in advance of an annual appropriation; and
+
+&emsp;&emsp;&emsp;(ii) shall remain available until expended.
+
+(Added and amended Pub. L. 105–178, title I, §1218(a), (c), June 9, 1998, 112 Stat. 216; Pub. L. 105–206, title IX, §9003(i), July 22, 1998, 112 Stat. 841.)
+
+#### References in Text
+
+Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(4), is section 1036 of Pub. L. 102–240, title I, Dec. 18, 1991, 105 Stat. 1978, which enacted section 309 of Title 49, Transportation, amended section 831 of Title 45, Railroads, and section 302 of Title 49, and enacted provisions set out as notes under section 831 of Title 45 and section 309 of Title 49.
+
+The date of enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+
+The Transportation Equity Act for the 21st Century, referred to in subsec. (h)(4), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 322, added Pub. L. 91–605, title II, §205(a), Dec. 31, 1970, 84 Stat. 1742; amended Pub. L. 93–643, §117, Jan. 4, 1975, 88 Stat. 2288; Pub. L. 97–449, §5(d)(3), Jan. 12, 1983, 96 Stat. 2442, related to demonstration projects for elimination or protection of certain ground-level rail-highway crossings and required study of problem of providing increased highway safety at public and private ground-level rail-highway crossings on nationwide basis through elimination of such crossings or otherwise, and report to Congress on such study not later than July 1, 1972, prior to repeal by Pub. L. 100–17, title I, §133(e)(1), Apr. 2, 1987, 101 Stat. 173.
+
+#### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–178, §1218(c)(1), as added by Pub. L. 105–206, §9003(i), struck out “or under 50 miles per hour” before period at end.
+
+Subsec. (d)(1). Pub. L. 105–178, §1218(c)(2)(A), as added by Pub. L. 105–206, §9003(i), struck out “or low-speed” after “high-speed”.
+
+Subsec. (d)(2)(A). Pub. L. 105–178, §1218(c)(2)(B)(i), as added by Pub. L. 105–206, §9003(i), substituted “(h)(1)” for “(h)(1)(A)”.
+
+Subsec. (d)(2)(B). Pub. L. 105–178, §1218(c)(2)(B)(ii), as added by Pub. L. 105–206, §9003(i), substituted “(h)(3)” for “(h)(4)”.
+
+Subsec. (h)(1)(B)(i). Pub. L. 105–178, §1218(c)(3), as added by Pub. L. 105–206, §9003(i), inserted “(other than subsection (i))” after “this section”.
+
+Subsec. (i). Pub. L. 105–178, §1218(c)(4), as added by Pub. L. 105–206, §9003(i), added subsec. (i).
+
+#### Effective Date of 1998 Amendment
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+
+#### Advanced Technology Pilot Project
+
+Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857, provided that:
+
+“(1)
+
+In general.—The Secretary shall make grants for the development of low speed magnetic levitation technology for public transportation purposes in urban areas to demonstrate energy efficiency, congestion mitigation, and safety benefits.
+
+“(2)
+
+Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\] for each of fiscal years 1998 through 2003, $5,000,000 per fiscal year shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
+
+“(3)
+
+Federal share.—The Federal share payable on account of activities carried out using a grant made under this subsection shall be 80 percent of the cost of such activities.”
+

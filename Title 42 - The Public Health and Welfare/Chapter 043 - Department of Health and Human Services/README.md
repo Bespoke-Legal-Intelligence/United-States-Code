@@ -20,12 +20,7 @@
 | (c) | Authorization of appropriations. |
 | [3506\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003506%20-%20Travel%20and%20subsistence%20expenses%20of%20officers%20and%20employees%20in%20connection%20with%20attendance%20at%20meetings%20or%20in%20performing%20advisory%20services.md) | Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services. |
 | [3507\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003507%20-%20Transfer%20of%20personnel%20and%20household%20goods%3B%20delegation%20of%20Secretary%27s%20authority.md) | Transfer of personnel and household goods; delegation of Secretary's authority. |
-| [3508\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003508%20-%20Omitted.md) | Omitted. |
-| [3509\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003509%20-%20Annual%20report%20on%20advisory%20councils.md) | Annual report on advisory councils. |
-| (a) | Submission to Congress; contents. |
-| (b) | Recommendations by Secretary. |
-| (c) | “Statutory advisory council” defined. |
-| 3510, 3511. Transferred. |  |
+| 3508 to 3511. Omitted, Repealed, or Transferred. |  |
 | [3512\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003512%20-%20Office%20to%20assist%20small%20manufacturers%20of%20medical%20devices%3B%20establishment.md) | Office to assist small manufacturers of medical devices; establishment. |
 | [3513\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003513%20-%20Working%20capital%20fund%3B%20establishment%3B%20amount%3B%20use%3B%20reimbursement.md) | Working capital fund; establishment; amount; use; reimbursement. |
 | [3513a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003513a%20-%20Working%20capital%20fund%3B%20availability%20for%20centralized%20personnel%20data%20collection%20and%20reporting%20and%20common%20regional%20administrative%20support%E2%80%A6.md) | Working capital fund; availability for centralized personnel data collection and reporting and common regional administrative support services. |

@@ -1,8 +1,0 @@
-### §3203. Consultation of Secretary with other persons and agencies
-
-(a) The Secretary is authorized from time to time to call together and confer with any persons, including representatives of labor, management, agriculture, and government, who can assist in meeting the problems of area and regional unemployment or underemployment.
-
-(b) The Secretary may make provision for such consultation with interested departments and agencies as he may deem appropriate in the performance of the functions vested in him by this chapter.
-
-(Pub. L. 89–136, title VI, §603, Aug. 26, 1965, 79 Stat. 570.)
-

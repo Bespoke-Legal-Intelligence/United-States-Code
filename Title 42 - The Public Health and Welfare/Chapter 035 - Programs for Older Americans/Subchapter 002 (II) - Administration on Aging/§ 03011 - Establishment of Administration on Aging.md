@@ -16,7 +16,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (3) The Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging shall—
 
-&emsp;(A)(i) evaluate the adequacy of outreach under subchapter III of this chapter and subchapter X of this chapter for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
+&emsp;(A)(i) evaluate the adequacy of outreach under subchapter III of this chapter and subchapter X of this chapter for older individuals who are Native Americans and recommend tothe Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
 
 &emsp;(ii) include a description of the results of such evaluation and recommendations in the annual report required by section 3018(a) of this title to be submitted by the Assistant Secretary;
 

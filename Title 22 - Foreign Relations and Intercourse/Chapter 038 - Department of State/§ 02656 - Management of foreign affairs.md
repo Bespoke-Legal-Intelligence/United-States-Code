@@ -14,10 +14,6 @@ Section was formerly classified to section 156 of Title 5 prior to the general r
 
 Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
 
-#### Authority of Director of United States Information Agency
-
-Exercise of authority available under this section by Director of United States Information Agency, see Ex. Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, set out as a note under section 1472 of this title.
-
 #### Presidential Directive
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, set out as section 403 of Title 50, War and National Defense.
@@ -36,9 +32,11 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996,
 
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 
-Pub. L. 105–118, title V, §553, Nov. 26, 1997, 111 Stat. 2422, provided in part: “That 60 days after the date of enactment of this Act \[Nov. 26, 1997\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia.”
+Pub. L. 105–277, div. A, §101(d) \[title V, §554\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–188, provided in part: “That sixty days after the date of enactment of this Act \[Oct. 21, 1998\], and every one hundred eighty days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–118, title V, §553, Nov. 26, 1997, 111 Stat. 2422.
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §555\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–160.
 
@@ -140,7 +138,7 @@ Pub. L. 101–246, title I, §153(a), (b), Feb. 16, 1990, 104 Stat. 43, as amend
 
 “(a)
 
-Findings.—The Congress finds that a primary role of the Department of State is to represent the interests of the American people in foreign affairs and, as such, should strive to represent and include, among itspolicy and professional employees, the great diversity of the American people.
+Findings.—The Congress finds that a primary role of the Department of State is to represent the interests of the American people in foreign affairs and, as such, should strive to represent and include, among its policy and professional employees, the great diversity of the American people.
 
 “(b)
 
@@ -160,7 +158,7 @@ Pub. L. 100–204, title I, §109, Dec. 22, 1987, 101 Stat. 1339, provided that:
 
 #### Consular and Diplomatic Posts Abroad
 
-Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
+Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary ofState, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 

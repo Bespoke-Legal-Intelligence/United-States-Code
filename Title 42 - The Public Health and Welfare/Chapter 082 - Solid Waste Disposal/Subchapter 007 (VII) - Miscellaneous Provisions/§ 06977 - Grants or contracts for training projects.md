@@ -14,19 +14,7 @@ The Administrator is authorized to make grants to, and contracts with any eligib
 
 (2) A grant or contract authorized by paragraph (1) of this subsection may be made only upon application to the Administrator at such time or times and containing such information as he may prescribe, except that no such application shall be approved unless it provides for the same procedures and reports (and access to such reports and to other records) as required by section 3254a(b)(4) and (5) <sup>1</sup> of this title (as in effect before October 21, 1976) with respect to applications made under such section (as in effect before October 21, 1976).
 
-#### (c) Study
-
-The Administrator shall make a complete investigation and study to determine—
-
-&emsp;(1) the need for additional trained State and local personnel to carry out plans assisted under this chapter and other solid waste and resource recovery programs;
-
-&emsp;(2) means of using existing training programs to train such personnel; and
-
-&emsp;(3) the extent and nature of obstacles to employment and occupational advancement in the solid waste management and resource recovery field which may limit either available manpower or the advancement of personnel in such field.
-
-> He shall report the results of such investigation and study, including his recommendations to the President and the Congress.
-
-(Pub. L. 89–272, title II, §7007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2827; amended Pub. L. 95–609, §7(r), Nov. 8, 1978, 92 Stat. 3083.)
+(Pub. L. 89–272, title II, §7007, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2827; amended Pub. L. 95–609, §7(r), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 105–362, title V, §501(f), Nov. 10, 1998, 112 Stat. 3284.)
 
 #### References in Text
 
@@ -37,6 +25,8 @@ Section 3254a(b)(4) and (5) of this title, referred to in subsec. (b)(2), was in
 Provisions similar to those in this section were contained in section 3254d of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–362 struck out heading and text of subsec. (c) which related to Administrator's study and report on State and local training needs and obstacles to employment and occupational advancement in solid waste management and resource recovery field.
 
 1978—Subsec. (b)(1). Pub. L. 95–609, §7(r)(1), (2), substituted “management” for “disposal” in two places, and “resource” for “resources”.
 

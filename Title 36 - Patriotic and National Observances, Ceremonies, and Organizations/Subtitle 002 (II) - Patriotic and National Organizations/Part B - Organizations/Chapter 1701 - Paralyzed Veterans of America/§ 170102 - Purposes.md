@@ -1,0 +1,34 @@
+### §170102. Purposes
+
+The purposes of the corporation are—
+
+&emsp;(1) to preserve the great and basic truths and enduring principles on which this Nation was founded;
+
+&emsp;(2) to form a national association for the benefit of individuals who have suffered injuries or diseases of the spinal cord;
+
+&emsp;(3) to acquaint the public with the needs and problems of paraplegics;
+
+&emsp;(4) to promote medical research in the several fields connected with injuries and diseases of the spinal cord, including research in neurosurgery and orthopedics and in genitourinary and orthopedic appliances; and
+
+&emsp;(5) to advocate and foster complete and effective reconditioning programs for paraplegics, including a thorough physical reconditioning program, physiotherapy, competent walking instructions, adequate guidance (both vocational and educational), academic and vocational education (both in hospitals and in educational institutions), psychological orientation and readjustment to family and friends, and occupational therapy (both functional and diversional).
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1439.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+170102
+
+36:1153.
+
+Aug. 11, 1971, Pub. L. 92–93, §3, 85 Stat. 317.
+
+Before clause (1), the word “objects” is omitted as included in “purposes”.
+

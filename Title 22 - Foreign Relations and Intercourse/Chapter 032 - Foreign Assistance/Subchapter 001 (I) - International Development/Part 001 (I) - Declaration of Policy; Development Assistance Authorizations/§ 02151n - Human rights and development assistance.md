@@ -14,15 +14,21 @@ No assistance may be provided to any government failing to take appropriate and 
 
 #### (c) Factors considered
 
-In determining whether or not a government falls within the provisions of subsection (a) of this section and in formulating development assistance programs under subchapter I of this chapter, the Administrator shall consider, in consultation with the Assistant Secretary of State for Democracy, Human Rights, and Labor—
+In determining whether or not a government falls within the provisions of subsection (a) of this section and in formulating development assistance programs under subchapter I of this chapter, the Administrator shall consider, in consultation with the Assistant Secretary of State for Democracy, Human Rights, and Labor and in consultation with the Ambassador at Large for International Religious Freedom—
 
-&emsp;(1) the extent of cooperation of such government in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations, including the International Committee of the Red Cross, or groups or persons acting under the authority of the United Nations or of the Organization of American States; and
+&emsp;(1) the extent of cooperation of such government in permitting an unimpeded investigation of alleged violations of internationally recognized human rights by appropriate international organizations, including the International Committee of the Red Cross, or groups or persons acting under the authority of the United Nations or of the Organization of American States;
 
-&emsp;(2) specific actions which have been taken by the President or the Congress relating to multilateral or security assistance to a less developed country because of the human rights practices or policies of such country.
+&emsp;(2) specific actions which have been taken by the President or the Congress relating to multilateral or security assistance to a less developed country because of the human rights practices or policies of such country; and
+
+&emsp;(3) whether the government—
+
+&emsp;&emsp;(A) has engaged in or tolerated particularly severe violations of religious freedom, as defined in section 6402 of this title; or
+
+&emsp;&emsp;(B) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom (as defined in section 6402 of this title), when such efforts could have been reasonably undertaken.
 
 #### (d) Report to Speaker of House and Committee on Foreign Relations of the Senate
 
-The Secretary of State shall transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding—
+The Secretary of State shall transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by February 25 of each year, a full and complete report regarding—
 
 &emsp;(1) the status of internationally recognized human rights, within the meaning of subsection (a) of this section—
 
@@ -32,23 +38,51 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(2) wherever applicable, practices regarding coercion in population control, including coerced abortion and involuntary sterilization;
 
-&emsp;(3) the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year;
+&emsp;(3) the status of child labor practices in each country, including—
 
-&emsp;(4) the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement; and
+&emsp;&emsp;(A) whether such country has adopted policies to protect children from exploitation in the workplace, including a prohibition of forced and bonded labor and policies regarding acceptable working conditions; and
 
-&emsp;(5) the steps the Administrator has taken to alter United States programs under subchapter I of this chapter in any country because of human rights considerations.
+&emsp;&emsp;(B) the extent to which each country enforces such policies, including the adequacy of the resources and oversight dedicated to such policies;
+
+&emsp;(4) the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year;
+
+&emsp;(5) the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement;
+
+&emsp;(6) the steps the Administrator has taken to alter United States programs under subchapter I of this chapter in any country because of human rights considerations; and
+
+&emsp;(7) wherever applicable, violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title).
 
 #### (e) Promotion of civil and political rights
 
-The President is authorized and encouraged to use not less than $3,000,000 of the funds made available under this part, part X of this subchapter, and part IV of subchapter II of this chapter for each fiscal year for studies to identify, and for openly carrying out programs and activities which will encourage or promote increased adherence to civil and political rights, as set forth in the Universal Declaration of Human Rights, in countries eligible for assistance under this part or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa. None of these funds may be used, directly or indirectly, to influence the outcome of any election in any country.
+The President is authorized and encouraged to use not less than $3,000,000 of the funds made available under this part, part X of this subchapter, and part IV of subchapter II of this chapter for each fiscal year for studies to identify, and for openly carrying out programs and activities which will encourage or promote increased adherence to civil and political rights, including the right to free religious belief and practice, as set forth in the Universal Declaration of Human Rights, in countries eligible for assistance under this part or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa. None of these funds may be used, directly or indirectly, to influence the outcome of any election in any country.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866.)
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
+#### Codification
+
+The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the amendment by Pub. L. 105–277 to reflect the probable intent of Congress.
+
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–292, §421(a)(1), inserted “and in consultation with the Ambassador at Large for International Religious Freedom” after “Labor” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 105–292, §421(a)(2)–(4), added par. (3).
+
+Subsec. (d). Pub. L. 105–277, §2216(1), substituted “February 25” for “January 31” in introductory provisions.
+
+Subsec. (d)(3) to (5). Pub. L. 105–277, §2216(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (d)(6). Pub. L. 105–277, §2216(2), redesignated par. (5) as (6). Former par. (6) redesignated (7). See Codification note above.
+
+Pub. L. 105–292, §102(d)(1), added par. (6). See Codification note above.
+
+Subsec. (d)(7). Pub. L. 105–277, §2216(2), redesignated par. (6) as (7). See Codification note above.
+
+Subsec. (e). Pub. L. 105–292, §501(b), inserted “, including the right to free religious belief and practice” after “adherence to civil and political rights”.
 
 1996—Subsec. (d)(3) to (5). Pub. L. 104–319 added pars. (3) and (4) and redesignated former par. (3) as (5).
 
@@ -116,13 +150,17 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Delegation of Functions
+#### Assistance for Promoting Religious Freedom
 
-Functions of President under subsec. (e) delegated to Director of United States International Development Cooperation Agency, to be exercised in consultation with Secretary of State, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided that: “Congress makes the following findings:
+
+&emsp;“(1) In many nations where severe violations of religious freedom occur, there is not sufficient statutory legal protection for religious minorities or there is not sufficient cultural and social understanding of international norms of religious freedom.
+
+&emsp;“(2) Accordingly, in the provision of foreign assistance, the United States should make a priority of promoting and developing legal protections and cultural respect for religious freedom.”
 
 #### Report on Human Rights to Committees on Appropriations
 
-Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; (2) a description of the military expenditures of each country receiving United States foreign assistance, and the efforts each country is making to reduce those expenditures; and (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
+Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, provided that: “The Secretary of State shall also transmit the report required by section 116(d) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d)\] to the Committees on Appropriations each year by the date specified in that section: <i>Provided</i>, That each such report submitted pursuant to such section shall (1) include a review of each country's commitment to children's rights and welfare as called for by the Declaration of the World Summit for Children; (2) a description of the military expenditures of each country receivingUnited States foreign assistance, and the efforts each country is making to reduce those expenditures; and (3) describe the extent to which indigenous people are able to participate in decisions affecting their lands, cultures, traditions and the allocation of natural resources, and assess the extent of protection of their civil and political rights.”
 
 #### Report on Impact on Foreign Relations of United States of Reports on Human Rights Practices of Foreign Governments
 
@@ -136,7 +174,7 @@ Implementation of United States policy opposing the practice of torture by forei
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2199, 2398, 2651a, 5732 of this title; title 48 section 1904.
+This section is referred to in sections 2199, 2398, 2651a, 5732, 6402, 6412, 6442, 6445 of this title; title 48 section 1904.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
 

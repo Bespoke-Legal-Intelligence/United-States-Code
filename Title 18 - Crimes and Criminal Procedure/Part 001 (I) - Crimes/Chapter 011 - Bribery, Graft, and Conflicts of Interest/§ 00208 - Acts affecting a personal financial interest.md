@@ -80,7 +80,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 #### Exemptions
 
-Exemptions from former section 434 of this title deemed to be exemptions from this section, see section2 of Pub. L. 87–849, set out as a note under section 203 of this title.
+Exemptions from former section 434 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
 #### Delegation of Authority
 
@@ -116,5 +116,5 @@ Salary of Government officials and employees payable only by the United States, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 1852; title 20 section 5508; title 22 sections 3507, 3508, 3622; title 26 section 1043; title 28 sections 594, 656; title 28 App. section 302; title 40 App. section 108; title 41 section 423; title 42 section 1396a; title 46 App. section 1717; title 47 section 154.
+This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 15 section 4805; title 16 section 1852; title 20 section 5508; title 22 sections 3507, 3508, 3613, 3622; title 26 section 1043; title 28 sections 594, 656; title 28 App. section 302; title 40 App. section 108; title 41 section 423; title 42 section 1396a; title 46 App. section 1717; title 47 section 154.
 

@@ -42,7 +42,7 @@
 
 Subsec. (c). Pub. L. 103–226, §9(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
 
-&emsp;“(1) an employee, Member, former employee, or former Member who is entitled under section 8412 ofthis title to an immediate annuity not reduced under section 8415(f) of this title may elect the eliminated method if the elimination of such method became effective less than 5 years before the date on which the annuity commences; and
+&emsp;“(1) an employee, Member, former employee, or former Member who is entitled under section 8412 of this title to an immediate annuity not reduced under section 8415(f) of this title may elect the eliminated method if the elimination of such method became effective less than 5 years before the date on which the annuity commences; and
 
 &emsp;“(2) any other employee, Member, former employee, or former Member may elect such method of payment for amounts contributed by or on behalf of the employee, Member, former employee, or former Member under section 8432 of this title before such effective date and for earnings attributable to such amounts.”
 

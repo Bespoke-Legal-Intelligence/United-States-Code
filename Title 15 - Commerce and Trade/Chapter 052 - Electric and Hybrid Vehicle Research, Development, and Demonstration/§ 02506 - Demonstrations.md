@@ -18,7 +18,7 @@ Within 12 months after September 17, 1976, the Secretary of Energy shall develop
 
 (1) The Secretary of Energy shall, within 6 months after the date of promulgation of performance standards pursuant to subsection (b)(1) of this section, institute the first contracts for the purchase or lease of electric or hybrid vehicles which satisfy the performance standards set forth under subsection (b)(1) of this section. The delivery of such vehicles shall be completed according to the expedited best effort of the administering agency and the selected manufacturer. To the extent practicable, vehicles purchased or leased under such contracts shall represent a cross-section of the available technologies and of actual or potential vehicle use.
 
-(2) Thereafter, according to a planned schedule, the Secretary of Energy shall contract forthe purchase or lease of additional electric or hybrid vehicles which satisfy amended performance standards and represent continuing improvements in state-of-the-art. In conducting demonstrations, the Secretary of Energy shall consider—
+(2) Thereafter, according to a planned schedule, the Secretary of Energy shall contract for the purchase or lease of additional electric or hybrid vehicles which satisfy amended performance standards and represent continuing improvements in state-of-the-art. In conducting demonstrations, the Secretary of Energy shall consider—
 
 &emsp;(A) the need and intent of the Congress to stimulate and encourage private sector production as well as public knowledge, acceptance, and use of electric and hybrid vehicles; and
 

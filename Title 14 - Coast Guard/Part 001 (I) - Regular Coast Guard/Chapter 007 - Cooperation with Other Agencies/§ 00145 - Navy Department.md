@@ -12,11 +12,11 @@
 
 (c) When the Coast Guard is operating in the Department of Transportation, the Secretary shall provide for such peacetime training and planning of reserve strength and facilities as is necessary to insure an organized, manned, and equipped Coast Guard when it is required for wartime operation in the Navy. To this end, the Secretary of the Navy for the Navy, and the Secretary of Transportation, for the Coast Guard, may from time to time exchange such information, make available to each other such personnel, vessels, facilities, and equipment, and agree to undertake such assignments and functions for each other as they may agree are necessary and advisable.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 506; Aug. 3, 1950, ch. 536, §3, 64 Stat. 406; Oct. 18, 1976, Pub. L. 94–546, §1(11), 90 Stat. 2519; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(D), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 506; Aug. 3, 1950, ch. 536, §3, 64 Stat. 406; Pub. L. 94–546, §1(11), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 
-Subsection (a) is based on title 14, U.S.C., 1946 ed., §§28, 42, 57 (Aug. 29, 1916, ch. 417, 39 Stat. 601; July 3, 1926, ch. 742, §11, 44 Stat. 817.) Subsection is enlarged to make reimbursement for the building of ships or the training of personnel dependent on agreement of the Secretaries, and to include all schools operated by the Navy, rather than aviation schools only.
+Subsection (a) is based on title 14, U.S.C., 1946 ed., §§28, 42, 57 (Aug. 29, 1916, ch. 417, 39 Stat. 601; July 3,1926, ch. 742, §11, 44 Stat. 817.) Subsection is enlarged to make reimbursement for the building of ships or the training of personnel dependent on agreement of the Secretaries, and to include all schools operated by the Navy, rather than aviation schools only.
 
 Subsection (b) is based on title 14, U.S.C., 1946 ed., §31 (Mar. 6, 1920, ch. 94, §1, 41 Stat. 506).
 

@@ -12,6 +12,12 @@ Disclosure Requirements.—Under regulations prescribed by the Secretary of Tran
 
 (3) A person acquiring a motor vehicle for resale may not accept a written disclosure under this section unless it is complete.
 
+(4)(A) This subsection shall apply to all transfers of motor vehicles (unless otherwise exempted by the Secretary by regulation), except in the case of transfers of new motor vehicles from a vehicle manufacturer jointly to a dealer and a person engaged in the business of renting or leasing vehicles for a period of 30 days or less.
+
+(B) For purposes of subparagraph (A), the term “new motor vehicle” means any motor vehicle driven with no more than the limited use necessary in moving, transporting, or road testing such vehicle prior to delivery from the vehicle manufacturer to a dealer, but in no event shall the odometer reading of such vehicle exceed 300 miles.
+
+(5) The Secretary may exempt such classes or categories of vehicles as the Secretary deems appropriate from these requirements. Until such time as the Secretary amends or modifies the regulations set forth in 49 CFR 580.6, such regulations shall have full force and effect.
+
 (b)
 
 Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transfer of ownership of a motor vehicle that has not been licensed before the transfer.
@@ -84,7 +90,7 @@ Application and Revision of State Law.—(1) Except as provided in paragraph (2)
 
 (2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June 9, 1998, 112 Stat. 467.)
 
 Historical and Revision Notes
 
@@ -158,7 +164,7 @@ Oct. 28, 1986, Pub. L. 99–579, §2(c), 100 Stat. 3310.
 
 In subsection (a)(1), before clause (A), the words “Not later than 90 days after October 20, 1972” are omitted as executed. In clause (B), the words “if the transferor knows that the mileage registered by the odometer is incorrect” are substituted for “if the odometer reading is known to the transferor to be different from the number of miles the vehicle has actually traveled” to eliminate unnecessary words.
 
-In subsection (b)(2)(A), before clause (i), the words “Under regulations prescribed by the Secretary” are substituted for “prescribed by rule by the Secretary” for consistency in the revised title and because “rule” is synonymous with “regulation”. The words “to atransferor” are added for clarity. The words “before February 1, 1989” are omitted as expired. The words “in the possession of” are substituted for “physically held by”, and the words “when the transferor transfers ownership of the vehicle” are substituted for “at the time of a transfer of such motor vehicle”, for clarity and consistency. The words “the transferor may” are substituted for “nothing in this subsection shall be construed to prohibit” for clarity and to eliminate unnecessary words. Clause (i) is substituted for “in a form” and clause (ii) is substituted for “in accordance with paragraph (2)(A)(i)” for clarity and consistency. In clause (iii), the words “consistent with the purposes of this Act and the need to facilitate enforcement thereof” are omitted as surplus. In clauses (iv), (v), (viii), and (ix), the amendment made by section 7(a) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) is restated as amending section 408(d)(1)(C) of the Motor Vehicle and Cost Savings Act (15 U.S.C. 1988(d)(1)(C)) instead of section 408(d)(2)(C) of that Act to reflect the probable intent of Congress. There is no section 408(d)(2)(C) in that Act. Clause (vii) is substituted for “and under reasonable conditions” for clarity and consistency.
+In subsection (b)(2)(A), before clause (i), the words “Under regulations prescribed by the Secretary” are substituted for “prescribed by rule by the Secretary” for consistency in the revised title and because “rule” is synonymous with “regulation”. The words “to a transferor” are added for clarity. The words “before February 1, 1989” are omitted as expired. The words “in the possession of” are substituted for “physically held by”, and the words “when the transferor transfers ownership of the vehicle” are substituted for “at the time of a transfer of such motor vehicle”, for clarity and consistency. The words “the transferor may” are substituted for “nothing in this subsection shall be construed to prohibit” for clarity and to eliminate unnecessary words. Clause (i) is substituted for “in a form” and clause (ii) is substituted for “in accordance with paragraph (2)(A)(i)” for clarity and consistency. In clause (iii), the words “consistent with the purposes of this Act and the need to facilitate enforcement thereof” are omitted as surplus. In clauses (iv), (v), (viii), and (ix), the amendment made by section 7(a) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) is restated as amending section 408(d)(1)(C) of the Motor Vehicle and Cost Savings Act (15 U.S.C. 1988(d)(1)(C)) instead of section 408(d)(2)(C) of that Act to reflect the probable intent of Congress. There is no section 408(d)(2)(C) in that Act. Clause (vii) is substituted for “and under reasonable conditions” for clarity and consistency.
 
 In subsection (b)(3)(A), before clause (i), the words “following such transfer” are omitted as surplus. In clause (i), the word “produced” is substituted for “set forth” for clarity. In clause (iii), the words “(in the event of a future transfer)” are omitted as surplus.
 
@@ -177,6 +183,8 @@ This amends 49:32705(c)(2)(A) to clarify the restatement of 15:1988(e)(2)(A) by 
 This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1988 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1049).
 
 #### Amendments
+
+1998—Subsec. (a)(4), (5). Pub. L. 105–178 added pars. (4) and (5).
 
 1996—Subsec. (a). Pub. L. 104–287, §5(62)(A), substituted “Disclosure requirements” for “Written disclosure requirements” in heading and amended text generally. Prior to amendment, text read as follows:
 

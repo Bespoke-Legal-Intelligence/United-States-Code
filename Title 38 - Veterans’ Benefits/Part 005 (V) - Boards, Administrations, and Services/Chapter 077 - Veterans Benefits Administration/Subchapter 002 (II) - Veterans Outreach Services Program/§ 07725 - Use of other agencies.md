@@ -6,7 +6,7 @@ In carrying out this subchapter, the Secretary shall do the following:
 
 &emsp;(2) In consultation with the Secretary of Labor, actively seek to promote the development and establishment of employment opportunities, training opportunities, and other opportunities for veterans, with particular emphasis on the needs of veterans with service-connected disabilities and other eligible veterans, taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
 
-&emsp;(3) Cooperate with and use the services of any Federal department or agency or anyState or local governmental agency or recognized national or other organization.
+&emsp;(3) Cooperate with and use the services of any Federal department or agency or any State or local governmental agency or recognized national or other organization.
 
 &emsp;(4) Where appropriate, make referrals to any Federal department or agency or State or local governmental unit or recognized national or other organization.
 

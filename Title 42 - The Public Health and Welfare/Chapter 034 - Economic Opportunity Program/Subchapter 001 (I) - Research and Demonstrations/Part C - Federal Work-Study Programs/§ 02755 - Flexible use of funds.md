@@ -12,7 +12,11 @@
 
 (2) An eligible institution may make payments to students of wages earned after the end of the academic year, but prior to the beginning of the succeeding fiscal year, from such succeeding fiscal year's appropriations.
 
-(Pub. L. 89–329, title IV, §445, formerly title I, §145, as added and renumbered Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 102–325, title IV, §444, July 23, 1992, 106 Stat. 566.)
+#### (c) Flexible use of funds
+
+An eligible institution may, upon the request of a student, make payments to the student under this part by crediting the student's account at the institution or by making a direct deposit to the student's account at a depository institution. An eligible institution may only credit the student's account at the institution for (1) tuition and fees, (2) in the case of institutionally owned housing, room and board, and (3) other institutionally provided goods and services.
+
+(Pub. L. 89–329, title IV, §445, formerly title I, §145, as added and renumbered Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 102–325, title IV, §444, July 23, 1992, 106 Stat. 566; Pub. L. 105–244, title IV, §444, Oct. 7, 1998, 112 Stat. 1714.)
 
 #### Codification
 
@@ -22,9 +26,15 @@ Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section
 
 #### Amendments
 
+1998—Subsec. (c). Pub. L. 105–244 added subsec. (c).
+
 1992—Subsec. (b). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
 
 1986—Pub. L. 99–498 amended section generally, substituting provisions relating to flexible use of funds for provisions relating to sources of matching funds.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 

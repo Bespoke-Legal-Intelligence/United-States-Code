@@ -2,7 +2,7 @@
 
 For the purpose of facilitating the purchase and sale of marketing certificates, the Commodity Credit Corporation is authorized to issue, buy, and sell marketing certificates in accordance with regulations prescribed by the Secretary. Such regulations may authorize the Corporation to issue and sell certificates in excess of the quantity of certificates which it purchases. Such regulations may authorize the Corporation in the sale of marketing certificates to charge, in addition to the face value thereof, an amount determined by the Secretary to be appropriate to cover estimated administrative costs in connection with the purchase and sale of the certificates and estimated interest incurred on funds of the Corporation invested in certificates purchased by it.
 
-(Feb. 16, 1938, ch. 30, title III, §379e, as added Sept. 27, 1962, Pub. L. 87–703, title III, §324(2), 76 Stat. 628; amended Nov. 3, 1965, Pub. L. 89–321, title V, §516, 79 Stat. 1206; Oct. 11, 1968, Pub. L. 90–559, §1(6), 82 Stat. 996; Nov. 30, 1970, Pub. L. 91–524, title IV, §403(a)(3), 84 Stat. 1366.)
+(Feb. 16, 1938, ch. 30, title III, §379e, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 89–321, title V, §516, Nov. 3, 1965, 79 Stat. 1206; Pub. L. 90–559, §1(6), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §403(a)(3), Nov. 30, 1970, 84 Stat. 1366.)
 
 #### Codification
 
@@ -18,7 +18,7 @@ The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which di
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 403(a) of Pub. L. 91–524 provided that the amendment made by that section is effective only withrespect to marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
+Section 403(a) of Pub. L. 91–524 provided that the amendment made by that section is effective only with respect to marketing years beginning July 1, 1971, July 1, 1972, and July 1, 1973.
 
 #### Inapplicability of Section
 

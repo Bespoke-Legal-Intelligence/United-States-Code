@@ -36,7 +36,7 @@ As used in this section, the term—
 
 &emsp;(2) “nursing home administrator” means any individual who is charged with the general administration of a nursing home whether or not such individual has an ownership interest in such home and whether or not his functions and duties are shared with one or more other individuals.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1908, as added Jan. 2, 1968, Pub. L. 90–248, title II, §236(b), 81 Stat. 908; amended Oct. 30, 1972, Pub. L. 92–603, title II, §§268(b), 269, 274(b), 86 Stat. 1451, 1452; Dec. 31, 1973, Pub. L. 93–233, §18(y)(3), 87 Stat. 973; Aug. 22, 1996, Pub. L. 104–193, title IX, §913, 110 Stat. 2354; Aug. 5, 1997, Pub. L. 105–33, title IV, §4454(b)(2), 111 Stat. 431.)
+(Aug. 14, 1935, ch. 531, title XIX, §1908, as added Pub. L. 90–248, title II, §236(b), Jan. 2, 1968, 81 Stat. 908; amended Pub. L. 92–603, title II, §§268(b), 269, 274(b), Oct. 30, 1972, 86 Stat. 1451, 1452; Pub. L. 93–233, §18(y)(3), Dec. 31, 1973, 87 Stat. 973; Pub. L. 104–193, title IX, §913, Aug. 22, 1996, 110 Stat. 2354; Pub. L. 105–33, title IV, §4454(b)(2), Aug. 5, 1997, 111 Stat. 431.)
 
 #### Repeal of Section
 
@@ -48,7 +48,7 @@ Another section 1908 of act Aug. 14, 1935, is classified to section 1396g–1 of
 
 #### Amendments
 
-1997—Subsec. (e)(1). Pub. L. 105–33 which directed substitution of “a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts; and” in “Section 1908(e)(1) (42U.S.C. 1396g–1(e)(1))” of the Social Security Act, was executed by making the substitution in subsec. (e)(1) of this section to reflect the probable intent of Congress, because section 1396g–1 of this title, which is also section 1908 of the Social Security Act, does not have a subsec. (e).
+1997—Subsec. (e)(1). Pub. L. 105–33 which directed substitution of “a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).” for “a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts; and” in “Section 1908(e)(1) (42 U.S.C. 1396g–1(e)(1))” of the Social Security Act, was executed by making the substitution in subsec. (e)(1) of this section to reflect the probable intent of Congress, because section 1396g–1 of this title, which is also section 1908 of the Social Security Act, does not have a subsec. (e).
 
 1996—Subsec. (e)(1). Pub. L. 104–193, which directed substitution of “The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc.” for “The First Church of Christ, Scientist, Boston, Massachusetts” in section 1908(e)(1) of the Social Security Act (42 U.S.C. 1396g–1(e)(1)) could not be executed to this section or section 1396g–1 of this title, both of which are section 1908. Section 1396g–1 does not have a subsec. (e) and subsec. (e)(1) of this section does not contain the quoted language with the word “the” capitalized.
 

@@ -18,7 +18,7 @@ The Presidential designee shall—
 
 &emsp;(5) compile and distribute (A) descriptive material on State absentee registration and voting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions; and
 
-&emsp;(6) not later than the end of each year after a Presidential election year, transmit to the President and the Congress a report on the effectiveness of assistance under this subchapter, including a statistical analysis of voter participation and a description of State-Federal cooperation.
+&emsp;(6) not later than the end of each year after a Presidential election year, transmit to the President and the Congress a report on the effectiveness of assistance under this subchapter, including a statistical analysis of uniformed services voter participation, a general assessment of overseas nonmilitary participation, and a description of State-Federal cooperation.
 
 #### (c) Duties of other Federal officials
 
@@ -30,11 +30,15 @@ The Presidential designee shall—
 
 &emsp;As directed by the Presidential designee, the Administrator of General Services shall furnish official post card forms (prescribed under subsection (b) of this section) and Federal write-in absentee ballots (prescribed under section 1973ff–2 of this title).
 
-(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924.)
+(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817.)
+
+#### Amendments
+
+1998—Subsec. (b)(6). Pub. L. 105–277 substituted “of uniformed services voter participation, a general assessment of overseas nonmilitary participation,” for “of voter participation”.
 
 #### Effective Date
 
-Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see Short Title note below\] shall apply with respect to elections taking place after December 31, 1987.”
+Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see ShortTitle note below\] shall apply with respect to elections taking place after December 31, 1987.”
 
 #### Short Title
 

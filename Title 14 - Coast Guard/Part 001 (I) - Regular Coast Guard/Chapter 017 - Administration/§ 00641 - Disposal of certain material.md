@@ -14,7 +14,7 @@
 
 (2) Recyclable materials shall be sold in accordance with section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484), except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant.
 
-(d)(1) Proceeds from the sale of recyclable materials at a Coast Guard installation shall be credited to funds available for operations and maintenance at that installation in amountssufficient to cover operations, maintenance, recycling equipment, and overhead costs for processing recyclable materials at the installation.
+(d)(1) Proceeds from the sale of recyclable materials at a Coast Guard installation shall be credited to funds available for operations and maintenance at that installation in amounts sufficient to cover operations, maintenance, recycling equipment, and overhead costs for processing recyclable materials at the installation.
 
 (2) If, after funds are credited, a balance remains available to a Coast Guard installation and the installation has a qualified recycling program, not more than 50 percent of that balance may be used at the installation for projects for pollution abatement, energy conservation, and occupational safety and health activities. The cost of the project may not be greater than 50 percent of the amount permissible for a minor construction project.
 
@@ -22,7 +22,7 @@
 
 (e) If the balance available to the Coast Guard installation under this section at the end of a fiscal year is in excess of $200,000, the amount of that excess shall be deposited in the general fund of the Treasury as offsetting receipts of the Department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 547; Oct. 31, 1951, ch. 654, §2(11), 65 Stat. 707; Oct. 12, 1982, Pub. L. 97–295, §2(4), 96 Stat. 1301; Nov. 4, 1992, Pub. L. 102–587, title V, §5202, 106 Stat. 5071; Oct. 19, 1996, Pub. L. 104–324, title IV, §408, title XI, §1119, 110 Stat. 3925, 3973.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 547; Oct. 31, 1951, ch. 654, §2(11), 65 Stat. 707; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 102–587, title V, §5202, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 104–324, title IV, §408, title XI, §1119, Oct. 19, 1996, 110 Stat. 3925, 3973.)
 
 #### Historical and Revision Notes
 

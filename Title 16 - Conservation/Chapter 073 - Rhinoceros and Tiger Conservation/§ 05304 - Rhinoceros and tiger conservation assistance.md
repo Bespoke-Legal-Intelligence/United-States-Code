@@ -46,5 +46,5 @@ Each person that receives assistance under this section for a project shall prov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5305 of this title.
+This section is referred to in sections 4246, 5305 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Grant funds made available under section 8293 of this title may be used by rural eligible local educational agencies to meet the National Education Goals through programs designed to—
+Grant funds made available under section 8293 of this title may be used by rural eligible localeducational agencies to meet the National Education Goals through programs designed to—
 
 &emsp;(1) increase the academic achievement of rural public school children to at least the national average of such achievement, including education reform initiatives, such as—
 

@@ -16,7 +16,7 @@ Purpose of Training.—The primary purpose of the training for which payment may
 
 (c)
 
-Regulations.—The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall establish accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
+Regulations.—The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense. The regulations shall establish accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
 
 (d)
 
@@ -24,7 +24,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “special operations forces” includes civil affairs forces and psychological operations forces.
 
-&emsp;(2) The term “incremental expenses”, with respect to a developing country, means the reasonable and proper cost of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country's personnel.
+&emsp;(2) The term “incremental expenses”, with respect to a developing country, means the reasonable and proper cost of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country, except that the term does not includepay, allowances, and other normal costs of such country's personnel.
 
 (e)
 
@@ -38,9 +38,17 @@ Reports.—Not later than April 1 of each year, the Secretary of Defense shall s
 
 &emsp;(4) The relationship of that training to other overseas training programs conducted by the armed forces, such as military exercise programs sponsored by the Joint Chiefs of Staff, military exercise programs sponsored by a combatant command, and military training activities sponsored by a military department (including deployments for training, short duration exercises, and other similar unit training events).
 
-(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470; amended Pub. L. 104–106, div. A, title XV, §1503(a)(18), Feb. 10, 1996, 110 Stat. 512.)
+&emsp;(5) A summary of the expenditures under this section resulting from the training for which expenses were paid under this section.
+
+&emsp;(6) A discussion of the unique military training benefit to United States special operations forces derived from the training activities for which expenses were paid under this section.
+
+(Added Pub. L. 102–190, div. A, title X, §1052(a)(1), Dec. 5, 1991, 105 Stat. 1470; amended Pub. L. 104–106, div. A, title XV, §1503(a)(18), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–261, div. A, title X, §1062, Oct. 17, 1998, 112 Stat. 2129.)
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–261, §1062(a), inserted after first sentence “The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense.”
+
+Subsec. (e)(5), (6). Pub. L. 105–261, §1062(b), added pars. (5) and (6).
 
 1996—Subsec. (a). Pub. L. 104–106 substituted “
 

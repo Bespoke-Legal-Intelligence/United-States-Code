@@ -22,7 +22,7 @@ In this subtitle—
 
 &emsp;(5) “commercial service” includes any type of trade or business involving the transportation of goods or individuals, except service performed by a combatant vessel.
 
-&emsp;(5a) “consideration” means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
+&emsp;(5a) “consideration” means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual,person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
 
 &emsp;(6) “consular officer” means an officer or employee of the United States Government designated under regulations to grant visas.
 
@@ -86,7 +86,9 @@ In this subtitle—
 
 &emsp;(17) “nautical school vessel” means a vessel operated by or in connection with a nautical school or an educational institution under section 13 of the Coast Guard Authorization Act of 1986.
 
-&emsp;(17a) “numbered vessel” means a vessel for which a number has been issued under chapter 123 of this title.
+&emsp;(17a) “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
+
+&emsp;(17b) “numbered vessel” means a vessel for which a number has been issued under chapter 123 of this title.
 
 &emsp;(18) “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including those studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
 
@@ -264,7 +266,7 @@ In this subtitle—
 
 &emsp;&emsp;(D) staffed by a crew under regular armed forces discipline.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445;Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417.)
 
 #### Historical and Revision Notes
 
@@ -341,7 +343,7 @@ Section 2101(9) makes it clear that the term “discharge” when referring to a
 
 Section 2101(10) defines a “documented vessel” as any vessel of the United States that has been issued a certificate of documentation that might include a register, enrollment, license, or enrollment and license for various trades.
 
-Section 2101(11) lists what is included in the term “fisheries” for the purpose of documentation of vessels and is intended to be all-inclusive of the numerous types of fishing activities.
+Section 2101(11) lists what is included in the term “fisheries” for the purpose of documentation of vesselsand is intended to be all-inclusive of the numerous types of fishing activities.
 
 Section 2101(12) defines “foreign vessel” as any foreign flag or foreign operated vessel that is operated under the jurisdiction or authority of a government other than the United States.
 
@@ -349,7 +351,7 @@ Section 2101(13) defines a “freight vessel” as a motor vessel or any vessel 
 
 Section 2101(14) defines “hazardous materials” as a broad range of materials that are not only flammable or combustible but are also designated under related maritime safety and environmental laws.
 
-Section 2101(15) defines “marine environment” as an all-inclusive term that was developed to cover land andwater areas that could be affected by pollution from all vessels and not only tank vessels.
+Section 2101(15) defines “marine environment” as an all-inclusive term that was developed to cover land and water areas that could be affected by pollution from all vessels and not only tank vessels.
 
 Section 2101(16) defines “motor vessel” as a vessel propelled by machinery other than steam to make it clear that these vessels are not steam vessels.
 
@@ -415,7 +417,11 @@ Presidential Proclamation Numbered 5030, referred to in par. (10a), is set out u
 
 Section 13 of the Coast Guard Authorization Act of 1986, referred to in par. (17), is section 13 of Pub. L. 99–640, which enacted section 484d of Title 40, Public Buildings, Property, and Works and amended sections 2101 and 3305 of this title.
 
+Presidential Proclamation No. 5928, referred to in par. (17a), is set out under section 1331 of Title 43, Public Lands.
+
 #### Amendments
+
+1998—Pars. (17a), (17b). Pub. L. 105–383 added par. (17a) and redesignated former par. (17a) as (17b).
 
 1996—Par. (13). Pub. L. 104–324, §709(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
 
@@ -533,6 +539,10 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 30101 of this title.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. C, title II, §201, Oct. 21, 1998, 112 Stat. 2681–616, provided that: “This title \[amending sections 12102, 12122, and 31322 of this title, enacting provisions set out as notes under section 12102 of this title and section 1851 of Title 16, Conservation, amending provisions set out as a note under section 1274 of the Appendix to this title, and repealing provisions set out as a note under section 12102 of this title\] may be cited as the ‘American Fisheries Act’.”
+
 #### Short Title of 1996 Amendment
 
 Section 601 of title VI of Pub. L. 104–324 provided that: “This title \[enacting sections 3103 and 3201 to 3205 of this title, amending sections 3306 to 3309, 3316, and 3710 of this title, and enacting provisions set out as notes under sections 3201 and 3306 of this title\] may be cited as the ‘Coast Guard Regulatory Reform Act of 1996’.”
@@ -601,11 +611,11 @@ Conditions for Extension.—To receive an extension authorized by subsection (b)
 
 “(d)
 
-Operation of Vessel During Extension Period.—The owner of a vessel receiving an extension under this section shall operate the vessel under the conditions of route, service, number of passengers, manning, and equipment as may be prescribed by the Coast Guard for the extension period.”
+Operation of Vessel During Extension Period.—The owner of a vessel receiving an extension under this section shall operate the vessel under theconditions of route, service, number of passengers, manning, and equipment as may be prescribed by the Coast Guard for the extension period.”
 
 #### Tank Vessel Definition Clarification
 
-Section 5209 of Pub. L. 102–587 provided that:
+Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by Pub. L. 105–383, title IV, §422, Nov. 13, 1998, 112 Stat. 3439, provided that:
 
 “(a) In this section, ‘offshore supply vessel’, ‘fish tender vessel’, ‘fishing vessel’, and ‘tank vessel’ have the meanings given those terms under section 2101 of title 46, United States Code.
 
@@ -615,6 +625,12 @@ Section 5209 of Pub. L. 102–587 provided that:
 
 &emsp;“(2) A fishing or fish tender vessel of not more than 750 gross tons that transfers without charge to a fishing vessel owned by the same person.
 
+&emsp;“(3) A vessel—
+
+&emsp;&emsp;“(A) configured, outfitted, and operated primarily for dredging operations; and
+
+&emsp;&emsp;“(B) engaged in dredging operations which transfers fuel to other vessels engaged in the same dredging operations without charge.
+
 “(c)(1) This section does not affect the authority of the Secretary of Transportation under chapter 33 of title 46, United States Code, to regulate the operation of the vessels listed in subsection (b) to ensure the safe carriage of oil and hazardous substances.
 
 “(2) This section does not affect the requirement for fish tender vessels engaged in the Aleutian trade to comply with chapters 33, 45, 51, 81, and 87 of title 46, United States Code, as provided in the Aleutian Trade Act of 1990 (\[title VI of\] Public Law 101–595) \[see Short Title of 1990 Amendment note above\].
@@ -623,7 +639,7 @@ Section 5209 of Pub. L. 102–587 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2102, 2113, 3202, 4105 of this title; sections 121, 446c, 808, 808a, 883, 1160,1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2732; title 42 section 7511b; title 49 section 5117.
+This section is referred to in sections 2102, 2113, 3202, 4105 of this title; sections 121, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2704, 2732; title 42 section 7511b; title 49 section 5117.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

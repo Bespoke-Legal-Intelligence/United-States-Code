@@ -2,7 +2,7 @@
 
 #### (a) State regulation
 
-The business of insurance, and every person engaged therein, shall be subject to the laws of the several States which relate to the regulation or taxation of such business.
+The business of insurance, and every person engaged therein, shall be subject to the laws ofthe several States which relate to the regulation or taxation of such business.
 
 #### (b) Federal regulation
 

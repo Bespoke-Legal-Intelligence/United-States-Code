@@ -20,7 +20,7 @@
 
 #### (4) Ruling
 
-&emsp;After a hearing under paragraph (3), the Secretary shall issue a ruling on the petition that is the subject of the hearing, which shall befinal if the ruling is in accordance with applicable law.
+&emsp;After a hearing under paragraph (3), the Secretary shall issue a ruling on the petition that is the subject of the hearing, which shall be final if the ruling is in accordance with applicable law.
 
 #### (b) Review
 

@@ -13,7 +13,7 @@
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–619, §4(b), Oct. 3, 1964, 78 Stat. 996, added item 1696.
+1964—Pub. L. 88–619, §4(b), Oct. 3, 1964, 78 Stat. 996, added item 1696.
 
 #### Federal Rules of Civil Procedure
 

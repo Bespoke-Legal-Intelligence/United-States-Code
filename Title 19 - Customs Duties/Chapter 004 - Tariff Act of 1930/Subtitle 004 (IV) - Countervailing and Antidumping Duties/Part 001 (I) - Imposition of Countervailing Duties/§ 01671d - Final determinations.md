@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) the establishment of an industry in the United States is materially retarded,
 
-> &emsp;by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section. If theCommission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
+> &emsp;by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section. If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
 
 #### (2) Period for injury determination following affirmative preliminary determination by administering authority
 
@@ -98,7 +98,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (3) Effect of negative determinations under subsections (a)(2) and (b)(4)(A) of this section
 
-&emsp;If the determination of the administering authority or the Commission under subsection\(a)(2) and (b)(4)(A) of this section, respectively, is negative, then the administering authority shall—
+&emsp;If the determination of the administering authority or the Commission under subsection (a)(2) and (b)(4)(A) of this section, respectively, is negative, then the administering authority shall—
 
 &emsp;&emsp;(A) terminate any retroactive suspension of liquidation required under paragraph (4) or section 1671b(e)(2) of this title, and
 
@@ -138,7 +138,7 @@ Whenever the administering authority or the Commission makes a determination und
 
 The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-(June 17, 1930, ch. 497, title VII, §705, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 159; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§602(a)(2), 605(a), 606, 98 Stat. 3024, 3028, 3029; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(a)(3), 1333(a), 102 Stat. 1200, 1209; Dec. 8, 1994, Pub. L. 103–465, title II, §§212(b)(1)(B), 214(a)(2), 233(a)(5)(N), 263(b), 264(b), (c)(7), (8), 270(a)(1)(F), (G), 108 Stat. 4848, 4850, 4899, 4912–4914, 4917; Oct. 11, 1996, Pub. L. 104–295, §20(b)(15), 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §705, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 159; amended Pub. L. 98–573, title VI, §§602(a)(2), 605(a), 606, Oct. 30, 1984, 98 Stat. 3024, 3028, 3029; Pub. L. 100–418, title I, §§1324(a)(3), 1333(a), Aug. 23, 1988, 102 Stat. 1200, 1209; Pub. L. 103–465, title II, §§212(b)(1)(B), 214(a)(2), 233(a)(5)(N), 263(b), 264(b), (c)(7), (8), 270(a)(1)(F), (G), Dec. 8, 1994, 108 Stat. 4848, 4850, 4899, 4912–4914, 4917; Pub. L. 104–295, §20(b)(15), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 

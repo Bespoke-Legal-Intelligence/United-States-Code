@@ -6,7 +6,7 @@ During each calendar year until 1999, the Administrator shall prepare and submit
 
 &emsp;(2) describe the number of loans and grants made in the preceding calendar year and specify each applicant for and recipient of a loan or grant;
 
-&emsp;(3) specify the number of loan or grant applications which were disapproved during the preceding calendar year and describe the reasons for such disapprovals;
+&emsp;(3) specify the number of loan or grant applications which were disapproved during thepreceding calendar year and describe the reasons for such disapprovals;
 
 &emsp;(4) describe the types of programs for which loans or grants were made;
 

@@ -2,15 +2,15 @@
 
 #### (a) In general
 
-To carry out the educational and training objectives of this subchapter, the Under Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Under Secretary.
+To carry out the educational and training objectives of this subchapter, the Secretary shallsupport a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary.
 
 #### (b) Dean John A. Knauss Marine Policy Fellowship
 
-The Under Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. A fellowship awarded under this subsection shall be for a period of not more than 1 year.
+The Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. A fellowship awarded under this subsection shall be for a period of not more than 1 year.
 
 #### (c) Postdoctoral fellowships
 
-The Under Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
+The Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
 
 &emsp;(1) shall be for 2 years;
 
@@ -24,13 +24,15 @@ The Under Secretary shall establish and administer a program of postdoctoral fel
 
 &emsp;(6) may be made to recipients of terminal professional degrees, as well as doctoral degree recipients.
 
-(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283.)
+(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1998—Pub. L. 105–160 substituted “Secretary” for “Under Secretary” in subsec. (a) in two places and in subsecs. (b) and (c).
 
 1991—Subsec. (c)(5) to (7). Pub. L. 102–186 inserted “and” after semicolon at end of par. (5), redesignated par. (7) as (6), and struck out former par. (6) which read as follows: “may be made for any of the priority areas of research identified in the sea grant strategic research plan in effect under section 1125 of this title; and”.
 
@@ -56,5 +58,5 @@ Section 4 of Pub. L. 100–66 provided that: “The amendment made by section 3 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1131 of this title.
+This section is referred to in section 1123 of this title.
 

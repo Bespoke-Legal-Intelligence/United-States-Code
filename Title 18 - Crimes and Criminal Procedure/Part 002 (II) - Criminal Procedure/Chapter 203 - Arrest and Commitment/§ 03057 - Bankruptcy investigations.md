@@ -1,10 +1,10 @@
 ### §3057. Bankruptcy investigations
 
-(a) Any judge, receiver, or trustee having reasonable grounds for believing that any violation under chapter 9 of this title or other laws of the United States relating to insolvent debtors, receiverships or reorganization plans has been committed, or that an investigation should be had in connection therewith, shall report to the appropriate United States attorney all the facts and circumstances of the case, the names of the witnesses and the offense or offenses believed to have been committed. Where one of such officers has made such report, the others need not do so.
+(a) Any judge, receiver, or trustee having reasonable grounds for believing that any violation under chapter 9 of this title or other laws of the United States relating to insolvent debtors, receiverships or reorganization plans has been committed, or that an investigation should be had in connection therewith, shall report to the appropriate United States attorney all the facts and circumstances of the case, the names of the witnesses and the offense or offenses believed tohave been committed. Where one of such officers has made such report, the others need not do so.
 
 (b) The United States attorney thereupon shall inquire into the facts and report thereon to the referee, and if it appears probable that any such offense has been committed, shall without delay, present the matter to the grand jury, unless upon inquiry and examination he decides that the ends of public justice do not require investigation or prosecution, in which case he shall report the facts to the Attorney General for his direction.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; May 24, 1949, ch. 139, §48, 63 Stat. 96; Nov. 6, 1978, Pub. L. 95–598, title III, §314(i), 92 Stat. 2677.)
+(June 25, 1948, ch. 645, 62 Stat. 818; May 24, 1949, ch. 139, §48, 63 Stat. 96; Pub. L. 95–598, title III, §314(i), Nov. 6, 1978, 92 Stat. 2677.)
 
 #### Historical and Revision Notes
 

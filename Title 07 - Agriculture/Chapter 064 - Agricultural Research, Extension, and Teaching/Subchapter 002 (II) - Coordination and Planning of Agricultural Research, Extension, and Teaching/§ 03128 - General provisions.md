@@ -2,7 +2,7 @@
 
 #### (a) Vacancies in Advisory Board
 
-Any vacancy in the Advisory Board shall not affect their <sup>1</sup> powers under this title and shall be filled in the same manner as the original position.
+Any vacancy in the Advisory Board shall not affect its duties under this title and shall be filled in the same manner as the original position.
 
 #### (b) Compensation and expenses of members of Advisory Board
 
@@ -12,7 +12,7 @@ Members of the Advisory Board shall serve without compensation, if not otherwise
 
 There are authorized to be appropriated annually such sums as Congress may determine necessary to carry out the provisions of section 3127 of this title and subsection (b) of this section.
 
-(Pub. L. 95–113, title XIV, §1413, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1414(a), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 101–624, title XVI, §1605(b)(2), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 103–354, title II, §218(e)(7), Oct. 13, 1994, 108 Stat. 3213; Pub. L. 104–127, title VIII, §§852(b)(4), 853(b)(5), Apr. 4, 1996, 110 Stat. 1171, 1172.)
+(Pub. L. 95–113, title XIV, §1413, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1414(a), Dec. 22, 1981, 95 Stat. 1303; Pub. L. 101–624, title XVI, §1605(b)(2), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 103–354, title II, §218(e)(7), Oct. 13, 1994, 108 Stat. 3213; Pub. L. 104–127, title VIII, §§852(b)(4), 853(b)(5), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, §606(b), (c)(2), June 23, 1998, 112 Stat. 603, 604.)
 
 #### References in Text
 
@@ -20,13 +20,17 @@ For definition of “this chapter”, referred to in subsec. (b), see note set o
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–185, §606(c)(2), substituted “its duties” for “their powers”.
+
+Subsec. (b). Pub. L. 105–185, §606(b), substituted “Advisory Board” for “Joint Council, the Advisory Board,”.
+
 1996—Subsec. (a). Pub. L. 104–127, §§852(b)(4)(A), 853(b)(5)(A), substituted “the Advisory Board” for “the Joint Council, the Advisory Board, or the Technology Board”.
 
 Subsec. (b). Pub. L. 104–127, §853(b)(5)(B), struck out “and the Technology Board” before “shall serve without”.
 
-Pub. L. 104–127, §852(b)(4)(B), which directed substitution of “Advisory Board” for “Joint Council, Advisory Board,” was executed by making the substitutionfor “Joint Council, the Advisory Board,” to reflect the probable intent of Congress.
+Pub. L. 104–127, §852(b)(4)(B), which directed substitution of “Advisory Board” for “Joint Council, Advisory Board,” could not be executed because those words did not appear in text.
 
-1994—Subsec. (d). Pub. L. 103–354 struck out subsec. (d) which read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary of Agriculture who shall perform such duties as are necessary to carry out this chapter and who shall receive compensation at the rate now or hereafter prescribed by law for Assistant Secretaries of Agriculture.”
+1994—Subsec. (d). Pub. L. 103–354 struck out subsec. (d) which read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary of Agriculture who shall performsuch duties as are necessary to carry out this chapter and who shall receive compensation at the rate now or hereafter prescribed by law for Assistant Secretaries of Agriculture.”
 
 1990—Subsec. (a). Pub. L. 101–624, §1605(b)(2)(A), substituted “, the Advisory Board, or the Technology Board” for “or the Advisory Board”.
 
@@ -39,6 +43,4 @@ Subsecs. (d), (e). Pub. L. 101–624, §1605(b)(2)(C), redesignated subsec. (e) 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “its”.</i>
 

@@ -32,7 +32,7 @@ An agreement with a hospital under this section shall, except as otherwise provi
 
 (1) Any agreement with a hospital under this section shall provide that payment for services will be made only for services for which payment would be made as post-hospital extended care services if those services had been furnished by a skilled nursing facility under an agreement entered into under section 1395cc of this title; and any individual who is furnished services, for which payment may be made under an agreement under this section, shall, for purposes of this subchapter (other than this section), be deemed to have received post-hospital extended care services in like manner and to the same extent as if the services furnished to him had been post-hospital extended care services furnished by a skilled nursing facility under an agreement under section 1395cc of this title.
 
-(2)(A) Any agreement under this section with a hospital with more than 49 beds shall provide that no payment may be made for extended care services which are furnished to an extended care patient after the end of the 5-day period (excluding weekends and holidays) beginning on an availability date for a skilled nursing facility, unless the patient's physician certifies, within such 5-day period, that the transfer of that patient to that facility is not medically appropriate on the availability date. The Secretary shall prescribe regulations to provide for notice by skilled nursing facilities of availability dates to hospitals which have agreements under this section and which are located within the same geographic region (as defined by the Secretary).
+(2)(A) Any agreement under this section with a hospital with more than 49 beds shall provide that no payment may be made for extended care services which are furnished to an extended care patient after the end of the 5-day period (excluding weekends and holidays) beginning on an availability date for a skilled nursing facility, unless the patient's physician certifies, within such 5-day period, that the transfer of that patient to that facility is not medically appropriate on the availability date. The Secretary shall prescribe regulations to provide for notice by skilled nursing facilities of availability datesto hospitals which have agreements under this section and which are located within the same geographic region (as defined by the Secretary).
 
 (B) In this paragraph:
 
@@ -54,7 +54,7 @@ A hospital which enters into an agreement with the Secretary under this section 
 
 The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §904(a)(1), 94 Stat. 2615; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), 101 Stat. 1330–48, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), as added Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(27)(B), 102 Stat. 2422; July 1, 1988, Pub. L. 100–360, title I, §104(d)(6),title IV, §411(b)(4)(D), 102 Stat. 689, 770; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979; Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(j)(1), 104 Stat. 1388–51; Aug. 5, 1997, Pub. L. 105–33, title IV, §4432(b)(5)(G), 111 Stat. 422.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Subsec. (f). Pub. L. 100–203, §4201(d)(3), as added by Pub. L. 100–360, §4
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section 4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
+Amendment by Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -62,7 +62,7 @@ Section 804(b) of Pub. L. 105–85 provided that:
 
 &emsp;&emsp;“(ii) develop a methodology for determining the savings from business combinations of defense contractors on the prices paid on particular defense contracts; and
 
-&emsp;“(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] a report describing, for each major market area identified pursuant to subparagraph (A)(i), the changes in numbers of businesses competing for major defense contracts since January 1, 1990.
+&emsp;“(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report describing, for each major market area identified pursuant to subparagraph (A)(i), the changes in numbers of businesses competing for major defense contracts since January 1, 1990.
 
 “(2) Not later than December 1, 1998, the Comptroller General shall submit to the congressional defense committees a report containing the following:
 

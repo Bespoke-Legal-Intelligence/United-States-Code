@@ -12,7 +12,7 @@ If a school terminates a loan fund established under an agreement pursuant to se
 
 If a capital distribution is made under subsection (a) of this section, the school involved shall, after the capital distribution, pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school in payment of principal or interest on loans made from the loan fund established pursuant to section 292q(b) of this title as was determined by the Secretary under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title VII, §728, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2021.)
+(July 1, 1944, ch. 373, title VII, §728, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2021.)
 
 #### Prior Provisions
 

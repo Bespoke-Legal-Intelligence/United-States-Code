@@ -6,7 +6,7 @@ The Secretary shall promptly establish, develop, acquire, and maintain a central
 
 #### Codification
 
-In cl. (B), the words “the Federal Energy Administration,” and “the Federal Power Commission,” following “the Federal Trade Commission,” and “the Environmental Protection Agency,”, respectively, omitted from text in view of termination of Federal Energy Administration and Federal Power Commission and transfer of their functions (with certain exceptions) to Secretary of Energy pursuant to sections 301, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7293, and 7297 of this title. This transfer would result in cl. (B) being redundant in that it would require Secretary of Energy to provide information to himself. See Transfer of Functions note below.
+In cl. (B), the words “the Federal Energy Administration,” and “the Federal Power Commission,” following “the Federal Trade Commission,” and “the Environmental Protection Agency,”, respectively, omitted from text in view of termination of Federal Energy Administration and Federal Power Commission and transfer of their functions (with certain exceptions) to Secretary of Energy pursuant to sections 301, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7293, and 7297 of this title. This transfer would result incl. (B) being redundant in that it would require Secretary of Energy to provide information to himself. See Transfer of Functions note below.
 
 #### Transfer of Functions
 

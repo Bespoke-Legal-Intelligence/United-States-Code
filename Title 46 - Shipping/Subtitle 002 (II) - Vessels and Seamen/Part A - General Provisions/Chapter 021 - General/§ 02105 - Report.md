@@ -1,6 +1,6 @@
 ### §2105. Report
 
-The Secretary shall provide for the investigation of the operation of this subtitle and of alllaws related to marine safety, and shall require that a report be made to the Secretary annually about those matters that may require improvement or amendment.
+The Secretary shall provide for the investigation of the operation of this subtitle and of all laws related to marine safety, and shall require that a report be made to the Secretary annually about those matters that may require improvement or amendment.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 506.)
 

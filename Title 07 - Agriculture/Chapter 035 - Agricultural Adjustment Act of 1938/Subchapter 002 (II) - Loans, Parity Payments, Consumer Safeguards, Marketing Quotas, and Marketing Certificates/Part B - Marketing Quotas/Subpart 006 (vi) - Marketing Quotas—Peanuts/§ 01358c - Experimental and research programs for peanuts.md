@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the Secretary may permit a 
 
 #### (b) Quantity
 
-The quantity of the quota allocated to an institution under this section shall not exceed thequantity of the quota held by each such institution during the 1985 crop year, except that the total quantity allocated to all institutions in a State shall not exceed 1/10 of 1 percent of the State's basic quota.
+The quantity of the quota allocated to an institution under this section shall not exceed the quantity of the quota held by each such institution during the 1985 crop year, except that the total quantity allocated to all institutions in a State shall not exceed 1/10 of 1 percent of the State's basic quota.
 
 #### (c) Limitation
 
@@ -16,7 +16,7 @@ The director of the agricultural experiment station for a State shall be require
 
 Notwithstanding any other provision of law, this section shall be effective only for the 1991 through 2002 crops of peanuts.
 
-(Feb. 16, 1938, ch. 30, title III, §358c, as added Nov. 28, 1990, Pub. L. 101–624, title VIII, §805, 104 Stat. 3474; amended Apr. 4, 1996, Pub. L. 104–127, title I, §155(i)(1)(C), 110 Stat. 928.)
+(Feb. 16, 1938, ch. 30, title III, §358c, as added Pub. L. 101–624, title VIII, §805, Nov. 28, 1990, 104 Stat. 3474; amended Pub. L. 104–127, title I, §155(i)(1)(C), Apr. 4, 1996, 110 Stat. 928.)
 
 #### References in Text
 

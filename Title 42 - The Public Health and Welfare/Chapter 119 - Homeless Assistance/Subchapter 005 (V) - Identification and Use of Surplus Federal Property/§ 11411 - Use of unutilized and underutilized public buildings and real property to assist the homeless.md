@@ -46,7 +46,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (C) The Secretary shall make available to the public upon request all information in the possession of the Department of Housing and Urban Development (other than valuation information), regardless of format, about all properties reviewed and not identified as being suitable for use to assist the homeless, including the reasons such properties were not so identified.
 
-(D) The Secretary shall publish separately, on an annual basis, all properties identified asbeing suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
+(D) The Secretary shall publish separately, on an annual basis, all properties identified as being suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
 
 (2)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the Interagency Council on the Homeless. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
 
@@ -174,7 +174,7 @@ Section 401(b) of Pub. L. 101–645 provided that: “The amendment made by subs
 
 #### Regulations
 
-Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
+Section 401(d) of Pub. L. 101–645 provided that: “No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Developmentshall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\].”
 
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 

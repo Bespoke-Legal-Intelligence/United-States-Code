@@ -1,0 +1,6 @@
+### §3033. Universal design in products and the built environment
+
+The Secretary may make grants to commercial or other enterprises and institutions of higher education for the research and development of universal design concepts for products (including information technology) and the built environment. In making such grants, the Secretary shall give consideration to enterprises and institutions that are owned or operated by individuals with disabilities. The Secretary shall define the term “built environment” for purposes of this section.
+
+(Pub. L. 105–394, title II, §213, Nov. 13, 1998, 112 Stat. 3655.)
+

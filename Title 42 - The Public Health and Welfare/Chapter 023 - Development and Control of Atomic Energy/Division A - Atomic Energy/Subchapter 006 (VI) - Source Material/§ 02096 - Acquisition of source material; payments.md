@@ -8,9 +8,9 @@ The Commission is authorized and directed, to the extent it deems necessary to e
 
 &emsp;(c) to purchase, condemn, or otherwise acquire rights to enter upon any real property deemed by the Commission to have possibilities of containing deposits of source material in order to conduct prospecting and exploratory operations for such deposits.
 
-> Any purchase made under this section may be made without regard to the provisions of section 5 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable. Partial and advanced payments may be made under contracts for such purposes. The Commission may establish guaranteed prices for all source material delivered to it within a specified time. Just compensation shall be made for any right, property, or interest in property taken, requisitioned, condemned, or otherwise acquired under this section.
+> Any purchase made under this section may be made without regard to the provisions of section5 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable. Partial and advanced payments may be made under contracts for such purposes. The Commission may establish guaranteed prices for all source material delivered to it within a specified time. Just compensation shall be made for any right, property, or interest in property taken, requisitioned, condemned, or otherwise acquired under this section.
 
-(Aug. 1, 1946, ch. 724, title I, §66, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 933; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §66, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 933; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

@@ -17,3 +17,4 @@
 - [&sect; 00019l - Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States](%C2%A7%2000019l%20-%20Tax%20exemptions%3B%20contributions%20toward%20costs%20of%20local%20government%3B%20contributions%2C%20gifts%2C%20or%20transfers%20to%20or%20for%20use%20of%20United%20States.md)
 - [&sect; 00019m - Liability of United States](%C2%A7%2000019m%20-%20Liability%20of%20United%20States.md)
 - [&sect; 00019n - Annual reports to Congress](%C2%A7%2000019n%20-%20Annual%20reports%20to%20Congress.md)
+- [&sect; 00019o - Promotion of local fundraising support](%C2%A7%2000019o%20-%20Promotion%20of%20local%20fundraising%20support.md)

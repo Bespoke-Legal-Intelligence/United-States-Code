@@ -12,7 +12,7 @@
 
 &emsp;(D) will not become eligible to receive an annuity under this part within 31 days after filing the application; and
 
-&emsp;(E) has notified any spouse or former spouse the participant may have of the application for payment in accordance with regulations prescribed by the Secretary of State.
+&emsp;(E) has notified any spouse or former spouse the participant may have of the applicationfor payment in accordance with regulations prescribed by the Secretary of State.
 
 > Such regulations may provide for waiver of subparagraph (E) under circumstances described in section 4046(b)(1)(D) of this title.
 
@@ -68,7 +68,7 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 &emsp;(1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
 
-&emsp;(2) if such former spouse was not married to the participant throughout such creditable service, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
+&emsp;(2) if such former spouse was not married to the participant throughout such creditableservice, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
 
 > The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term “creditable service” means service which is creditable under part I or II of this subchapter.
 
@@ -76,7 +76,7 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 #### Amendment of Section
 
-<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest</i><i>shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
+<i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
 #### Amendments
 

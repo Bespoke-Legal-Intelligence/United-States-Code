@@ -6,7 +6,7 @@ Subject to section 14402(b) of this title (relating to construction and treatmen
 
 &emsp;(1) securing or funding any item, benefit, program, or service furnished for the purpose of causing, or the purpose of assisting in causing, the suicide, euthanasia, or mercy killing of any individual;
 
-&emsp;(2) compelling any person, institution, governmental entity <sup>1</sup> to provide or fund anyitem, benefit, program, or service for such purpose; or
+&emsp;(2) compelling any person, institution, governmental entity <sup>1</sup> to provide or fund any item, benefit, program, or service for such purpose; or
 
 &emsp;(3) asserting or advocating a legal right to cause, or to assist in causing, the suicide, euthanasia, or mercy killing of any individual.
 
@@ -54,7 +54,7 @@ The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6042, 10805, 14405 of this title; title 29 section 794e.
+This section is referred to in sections 6042, 10805, 14405 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or governmental entity”.</i>
 

@@ -24,7 +24,7 @@ The Chief Information Officer of an agency that is listed in section 901(b) of t
 
 &emsp;&emsp;(A) assess the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of such requirements for facilitating the achievement of the performance goals established for information resources management;
 
-&emsp;&emsp;(B) assess the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
+&emsp;&emsp;(B) assess the extent to which the positions and personnel at the executive level ofthe agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
 
 &emsp;&emsp;(C) in order to rectify any deficiency in meeting those requirements, develop strategies and specific plans for hiring, training, and professional development; and
 
@@ -48,7 +48,7 @@ Section is comprised of section 5125 of Pub. L. 104–106. Subsec. (a) of sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1451 of this title.
+This section is referred to in section 1451 of this title; title 10 section 2223.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,11 +14,11 @@ Projects supported under this section shall include—
 
 &emsp;(3) programs which emphasize the development and demonstration of new and improved means of standardizing patient data and recordkeeping;
 
-&emsp;(4) programs which emphasize the development and demonstration of new and improved methods of dissemination of knowledge about the programs, methods, and means referred toin paragraphs (1), (2), and (3) of this subsection to health and allied health professionals;
+&emsp;(4) programs which emphasize the development and demonstration of new and improved methods of dissemination of knowledge about the programs, methods, and means referred to in paragraphs (1), (2), and (3) of this subsection to health and allied health professionals;
 
 &emsp;(5) programs which emphasize the development and demonstration of new and improved methods for the dissemination to the general public of information—
 
-&emsp;&emsp;(A) on the importance of early detection of arthritis and musculoskeletal diseases, of seeking prompt treatment, and of following an appropriate regimen; and
+&emsp;&emsp;(A) on the importance of early detection of arthritis and musculoskeletal diseases, ofseeking prompt treatment, and of following an appropriate regimen; and
 
 &emsp;&emsp;(B) to discourage the promotion and use of unapproved and ineffective diagnostic, preventive treatment, and control methods for arthritis and unapproved and ineffective drugs and devices for arthritis and musculoskeletal diseases; and
 
@@ -28,5 +28,5 @@ Projects supported under this section shall include—
 
 The Director shall provide for the standardization of patient data and recordkeeping for the collection, storage, analysis, retrieval, and dissemination of such data in cooperation with projects assisted under this section, centers assisted under section 285d–6 of this title, and other persons engaged in arthritis and musculoskeletal disease programs.
 
-(July 1, 1944, ch. 373, title IV, §440, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 850.)
+(July 1, 1944, ch. 373, title IV, §440, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 850.)
 

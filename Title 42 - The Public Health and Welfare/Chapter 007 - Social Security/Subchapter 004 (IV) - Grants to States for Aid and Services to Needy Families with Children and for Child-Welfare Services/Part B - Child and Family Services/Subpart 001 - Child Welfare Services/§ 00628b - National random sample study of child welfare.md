@@ -48,7 +48,7 @@ In conducting the study required by subsection (a) of this section, the Secretar
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for each of fiscal years 1996 through 2002 $6,000,000 to carry out this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §429A, as added Aug. 22, 1996, Pub. L. 104–193, title V, §503, 110 Stat. 2277; amended Aug. 5, 1997, Pub. L. 105–33, title V, §§5591(a), 5592(a)(1)(C), 111 Stat. 643, 644.)
+(Aug. 14, 1935, ch. 531, title IV, §429A, as added Pub. L. 104–193, title V, §503, Aug. 22, 1996, 110 Stat. 2277; amended Pub. L. 105–33, title V, §§5591(a), 5592(a)(1)(C), Aug. 5, 1997, 111 Stat. 643, 644.)
 
 #### Amendments
 
@@ -58,5 +58,5 @@ Subsec. (a). Pub. L. 105–33, §5591(a), inserted “(directly, or by grant, co
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996,Pub. L. 104–193, see section 5593 of Pub. L. 105–33, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title V of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5593 of Pub. L. 105–33, set out as a note under section 622 of this title.
 

@@ -40,7 +40,7 @@ Section 3304(c) of title 5, referred to in subsec. (d)(2), was repealed and sect
 
 1985—Subsecs. (a), (b). Pub. L. 99–7, in amending section generally, added subsecs. (a) and (b).
 
-Subsec. (c). Pub. L. 99–7, in amending section generally, designated existing provisions as subsec. (c) and substituted “All staff appointments shall be made” for“The Commission may appoint and fix the pay of such staff personnel as it deems desirable,”.
+Subsec. (c). Pub. L. 99–7, in amending section generally, designated existing provisions as subsec. (c) and substituted “All staff appointments shall be made” for “The Commission may appoint and fix the pay of such staff personnel as it deems desirable,”.
 
 Subsec. (d). Pub. L. 99–7, in amending section generally, added subsec. (d).
 

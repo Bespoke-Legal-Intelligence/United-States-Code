@@ -14,7 +14,7 @@ No contractor or subcontractor under a contract, which succeeds a contract subje
 
 #### (d) Duration of contract
 
-Subject to limitations in annual appropriation Acts but notwithstanding any other provision of law, contracts to which this chapter applies may, if authorized by the Secretary, be for any term of years not exceeding five, if each such contract provides for the periodic adjustment of wages and fringe benefits pursuant to future determinations, issued in the manner prescribed in section 351 of this title no less often than once every two years during the term of the contract, covering the various classes of service employees.
+Subject to limitations in annual appropriation Acts but notwithstanding any other provision of law, contracts to which this chapter applies may, if authorized by the Secretary, be for any term of years not exceeding five, if each such contract provides for the periodic adjustment of wages and fringe benefits pursuant to future determinations, issued in the manner prescribed insection 351 of this title no less often than once every two years during the term of the contract, covering the various classes of service employees.
 
 (Pub. L. 89–286, §4, Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, §3, Oct. 9, 1972, 86 Stat. 789.)
 

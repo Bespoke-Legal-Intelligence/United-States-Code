@@ -44,7 +44,7 @@ The provisions of subsection (a) of this section shall not apply to an exempted 
 
 #### (g) Foreign currencies
 
-Notwithstanding any other provision of law, the Commission shall have the authority to regulate the trading of any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, orprivilege entered into on a national securities exchange relating to foreign currency (but not, with respect to any of the foregoing, an option on a contract for future delivery).
+Notwithstanding any other provision of law, the Commission shall have the authority to regulate the trading of any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency (but not, with respect to any of the foregoing, an option on a contract for future delivery).
 
 #### (h) Limitations on practices that affect market volatility
 
@@ -56,7 +56,7 @@ It shall be unlawful for any person, by the use of the mails or any means or ins
 
 > In adopting rules under paragraph (2), the Commission shall, consistent with the purposes of this subsection, minimize the impact on the normal operations of the market and a natural person's freedom to buy or sell any equity security.
 
-(June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Oct. 13, 1982, Pub. L. 97–303, §3, 96 Stat. 1409; Oct. 16, 1990, Pub. L. 101–432, §6(a), 104 Stat. 975.)
+(June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 101–432, §6(a), Oct. 16, 1990, 104 Stat. 975.)
 
 #### Amendments
 

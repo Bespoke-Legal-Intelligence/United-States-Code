@@ -26,7 +26,7 @@ Subsec. (a)(3). Pub. L. 99–605, §2(b)(2), amended par. (3) generally, substit
 
 Subsec. (a)(4). Pub. L. 99–605, §2(b)(3), added par. (4).
 
-1982—Subsec. (a). Pub. L. 97–363, §2, substituted provisions with regard to fiscal 1983 authorizing appropriation of sums necessary to carry out provisions of this chapter, authorizing appropriations of $100,000,000 for services to refugees under section 1522(c) of this title, and authorizing appropriations of $14,000,000 for the purpose of carrying out section 1522(b)(5) of this title, for provisions with regard to fiscal 1980 and each of the two succeeding fiscal years authorizing appropriation of sums necessary for initial resettlement assistance, cash and medical assistance, and child welfare services under subsecs. (b)(1), (3), (4), (d)(2), and (e) of section 1522 of this title, and authorizing appropriations of $200,000,000 for other programs.
+1982—Subsec. (a). Pub. L. 97–363, §2, substituted provisions with regard to fiscal 1983 authorizing appropriation of sums necessary to carry out provisions of this chapter, authorizing appropriations of $100,000,000 for services to refugees under section 1522(c) of this title, and authorizing appropriations of $14,000,000 for the purpose of carrying out section 1522(b)(5) of this title, for provisions with regard to fiscal 1980 and each of the two succeeding fiscal years authorizing appropriationof sums necessary for initial resettlement assistance, cash and medical assistance, and child welfare services under subsecs. (b)(1), (3), (4), (d)(2), and (e) of section 1522 of this title, and authorizing appropriations of $200,000,000 for other programs.
 
 #### Effective Date of 1997 Amendments
 

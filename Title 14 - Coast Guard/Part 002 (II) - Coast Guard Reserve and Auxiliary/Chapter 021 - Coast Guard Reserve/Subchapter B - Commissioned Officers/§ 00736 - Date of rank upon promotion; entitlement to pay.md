@@ -1,6 +1,6 @@
 ### §736. Date of rank upon promotion; entitlement to pay
 
-(a) When a Reserve officer is promoted to the next higher grade under this subchapter, thesame date of rank shall be assigned as that assigned to the officer's running mate. A Reserve officer so promoted shall be allowed the pay and allowances of the higher grade for duty performed from the date of the officer's appointment thereto.
+(a) When a Reserve officer is promoted to the next higher grade under this subchapter, the same date of rank shall be assigned as that assigned to the officer's running mate. A Reserve officer so promoted shall be allowed the pay and allowances of the higher grade for duty performed from the date of the officer's appointment thereto.
 
 (b) Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade.
 

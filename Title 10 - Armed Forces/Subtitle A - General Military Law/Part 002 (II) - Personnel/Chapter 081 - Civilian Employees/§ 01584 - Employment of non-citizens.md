@@ -2,7 +2,7 @@
 
 Laws prohibiting the employment of, or payment of pay or expenses to, a person who is not a citizen of the United States do not apply to personnel of the Department of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Oct. 12, 1982, Pub. L. 97–295, §1(20)(A), 96 Stat. 1290; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIV, §§1481(d)(1), (2), 1482(b), 104 Stat. 1706, 1709; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1062(b), 110 Stat. 444.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 97–295, §1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 101–510, div. A, title XIV, §§1481(d)(1), (2), 1482(b), Nov. 5, 1990, 104 Stat. 1706, 1709; Pub. L. 104–106, div. A, title X, §1062(b), Feb. 10, 1996, 110 Stat. 444.)
 
 Historical and Revision Notes
 
@@ -46,89 +46,91 @@ Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see se
 
 #### Citizenship Requirement Not Applicable
 
-Act Oct. 8, 1997, Pub. L. 105–56, title VIII, §8002, 111 Stat. 1219, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 105–262, title VIII, §8002, Oct. 17, 1998, 112 Stat. 2296, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8002\], 110 Stat. 3009–71, 3009–87.
+Pub. L. 105–56, title VIII, §8002, Oct. 8, 1997, 111 Stat. 1219.
 
-Dec. 1, 1995, Pub. L. 104–61, title VIII, §8002, 109 Stat. 651.
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8002\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–87.
 
-Sept. 30, 1994, Pub. L. 103–335, title VIII, §8002, 108 Stat. 2616.
+Pub. L. 104–61, title VIII, §8002, Dec. 1, 1995, 109 Stat. 651.
 
-Nov. 11, 1993, Pub. L. 103–139, title VIII, §8002, 107 Stat. 1437.
+Pub. L. 103–335, title VIII, §8002, Sept. 30, 1994, 108 Stat. 2616.
 
-Oct. 6, 1992, Pub. L. 102–396, title IX, §9002, 106 Stat. 1900.
+Pub. L. 103–139, title VIII, §8002, Nov. 11, 1993, 107 Stat. 1437.
 
-Nov. 26, 1991, Pub. L. 102–172, title VIII, §8002, 105 Stat. 1170.
+Pub. L. 102–396, title IX, §9002, Oct. 6, 1992, 106 Stat. 1900.
 
-Nov. 5, 1990, Pub. L. 101–511, title VIII, §8002, 104 Stat. 1873.
+Pub. L. 102–172, title VIII, §8002, Nov. 26, 1991, 105 Stat. 1170.
 
-Nov. 21, 1989, Pub. L. 101–165, title IX, §9003, 103 Stat. 1129.
+Pub. L. 101–511, title VIII, §8002, Nov. 5, 1990, 104 Stat. 1873.
 
-Oct. 1, 1988, Pub. L. 100–463, title VIII, §8003, 102 Stat. 2270–17.
+Pub. L. 101–165, title IX, §9003, Nov. 21, 1989, 103 Stat. 1129.
 
-Dec. 22, 1987, Pub. L. 100–202, §101(b) \[title VIII, §8004\], 101 Stat. 1329–43, 1329–62.
+Pub. L. 100–463, title VIII, §8003, Oct. 1, 1988, 102 Stat. 2270–17.
 
-Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title IX, §9004\], 100 Stat. 1783–82, 1783–101, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title IX, §9004\], 100 Stat. 3341–82, 3341–101.
+Pub. L. 100–202, §101(b) \[title VIII, §8004\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–62.
 
-Dec. 19, 1985, Pub. L. 99–190, §101(b) \[title VIII, §8004\], 99 Stat. 1185, 1202.
+Pub. L. 99–500, §101(c) \[title IX, §9004\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–101, and Pub. L. 99–591, §101(c) \[title IX, §9004\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–101.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8004\], 98 Stat. 1904, 1922.
+Pub. L. 99–190, §101(b) \[title VIII, §8004\], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, §704, 97 Stat. 1437.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8004\], Oct. 12, 1984, 98 Stat. 1904, 1922.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, §101(c), \[title VII, §704\], 96 Stat. 1833, 1349.
+Pub. L. 98–212, title VII, §704, Dec. 8, 1983, 97 Stat. 1437.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, §704, 95 Stat. 1578.
+Pub. L. 97–377, title I, §101(c) \[title VII, §704\], Dec. 21, 1982, 96 Stat. 1833, 1349.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, §704, 94 Stat. 3080.
+Pub. L. 97–114, title VII, §704, Dec. 29, 1981, 95 Stat. 1578.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, §704, 93 Stat. 1152.
+Pub. L. 96–527, title VII, §704, Dec. 15, 1980, 94 Stat. 3080.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, §804, 92 Stat. 1243.
+Pub. L. 96–154, title VII, §704, Dec. 21, 1979, 93 Stat. 1152.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, §803, 91 Stat. 899.
+Pub. L. 95–457, title VIII, §804, Oct. 13, 1978, 92 Stat. 1243.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, §703, 90 Stat. 1290.
+Pub. L. 95–111, title VIII, §803, Sept. 21, 1977, 91 Stat. 899.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, §703, 90 Stat. 168.
+Pub. L. 94–419, title VII, §703, Sept. 22, 1976, 90 Stat. 1290.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, §803, 88 Stat. 1224.
+Pub. L. 94–212, title VII, §703, Feb. 9, 1976, 90 Stat. 168.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, §703, 87 Stat. 1038.
+Pub. L. 93–437, title VIII, §803, Oct. 8, 1974, 88 Stat. 1224.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, §703, 86 Stat. 1196.
+Pub. L. 93–238, title VII, §703, Jan. 2, 1974, 87 Stat. 1038.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, §703, 85 Stat. 726.
+Pub. L. 92–570, title VII, §703, Oct. 26, 1972, 86 Stat. 1196.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, §803, 84 Stat. 2029.
+Pub. L. 92–204, title VII, §703, Dec. 18, 1971, 85 Stat. 726.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, §603, 83 Stat. 479.
+Pub. L. 91–668, title VIII, §803, Jan. 11, 1971, 84 Stat. 2029.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, §502, 82 Stat. 1129.
+Pub. L. 91–171, title VI, §603, Dec. 29, 1969, 83 Stat. 479.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, §602, 81 Stat. 241.
+Pub. L. 90–580, title V, §502, Oct. 17, 1968, 82 Stat. 1129.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, §602, 80 Stat. 990.
+Pub. L. 90–96, title VI, §602, Sept. 29, 1967, 81 Stat. 241.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, §602, 79 Stat. 873.
+Pub. L. 89–687, title VI, §602, Oct. 15, 1966, 80 Stat. 990.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, §502, 78 Stat. 474.
+Pub. L. 89–213, title VI, §602, Sept. 29, 1965, 79 Stat. 873.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, §502, 77 Stat. 263.
+Pub. L. 88–446, title V, §502, Aug. 19, 1964, 78 Stat. 474.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, §502, 76 Stat. 327.
+Pub. L. 88–149, title V, §502, Oct. 17, 1963, 77 Stat. 263.
 
-Aug. 17, 1961, Pub. L. 87–144, title VI, §602, 75 Stat. 375.
+Pub. L. 87–577, title V, §502, Aug. 9, 1962, 76 Stat. 327.
 
-July 7, 1960, Pub. L. 86–601, title V, §502, 74 Stat. 349.
+Pub. L. 87–144, title VI, §602, Aug. 17, 1961, 75 Stat. 375.
 
-Aug. 18, 1959, Pub. L. 86–166, title V, §602, 73 Stat. 378.
+Pub. L. 86–601, title V, §502, July 7, 1960, 74 Stat. 349.
 
-Aug. 22, 1958, Pub. L. 85–724, title VI, §602, 72 Stat. 723.
+Pub. L. 86–166, title V, §602, Aug. 18, 1959, 73 Stat. 378.
 
-Aug. 2, 1957, Pub. L. 85–117, title VI, §602, 71 Stat. 323.
+Pub. L. 85–724, title VI, §602, Aug. 22, 1958, 72 Stat. 723.
+
+Pub. L. 85–117, title VI, §602, Aug. 2, 1957, 71 Stat. 323.
 
 July 2, 1956, ch. 488, title VI, §602, 70 Stat. 467.
 

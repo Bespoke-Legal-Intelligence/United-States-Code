@@ -1,0 +1,36 @@
+### §70102. Organization
+
+(a)
+
+Federal Charter.—Fleet Reserve Association (in this chapter, the “corporation”), a nonprofit corporation incorporated in Delaware, is a federally chartered corporation.
+
+(b)
+
+Expiration of Charter.—If the corporation does not comply with any provision of this chapter, the charter granted by this chapter expires.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1347.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70102(a)
+
+36:5601.
+
+Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1801, 1814 (related to termination of charter), 1815, 110 Stat. 2760, 2762.
+
+70102(b)
+
+36:5613 (related to termination of charter).
+
+36:5614.
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
+

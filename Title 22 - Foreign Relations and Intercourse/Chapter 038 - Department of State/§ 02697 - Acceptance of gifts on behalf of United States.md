@@ -22,13 +22,17 @@ The evidences of any unconditional gift of intangible personal property (other t
 
 For the purpose of Federal income, estate, and gift taxes, any gift, devise, or bequest accepted under this section shall be deemed to be a gift, devise, or bequest to and for the use of the United States.
 
-#### (f) Availability of statutory authorities to Directors of other agencies
+#### (f) Availability of statutory authorities to Broadcasting Board and Administrator of AID
 
-The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies.
+The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Broadcasting Board of Governors and the Administrator of the Agency for International Development with respect to the Board and the Agency.
 
-(Aug. 1, 1956, ch. 841, title I, §25, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2153; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 100–204, title I, §125, Dec. 22, 1987, 101 Stat. 1341.)
+(Aug. 1, 1956, ch. 841, title I, §25, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2153; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 100–204, title I, §125, Dec. 22, 1987, 101 Stat. 1341; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(<i>l</i>)(2), title XIV, §1422(b)(3)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792.)
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–277, §1422(b)(3)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+
+Pub. L. 105–277, §1335(<i>l</i>)(2), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency” and “with respect to the Board and the Agency” for “with respect to their respective agencies”.
 
 1987—Subsec. (b). Pub. L. 100–204 inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
 
@@ -36,13 +40,19 @@ The authorities available to the Secretary of State under this section with resp
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (f), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1335(<i>l</i>)(2) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+Amendment by section 1422(b)(3)(A) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
+
 #### Effective Date
 
 Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as a note under section 3901 of this title.
 
 #### Official Residence of Secretary of State
 
-Section 132 of Pub. L. 100–204 provided that: “The Department of State shall not solicit or receive funds for the construction, purchase, lease or rental of, nor any gift or bequest of real property or any other property for the purpose of providing living quarters for the Secretary of State.”
+Section 132 of Pub. L. 100–204 provided that: “The Department of State shall not solicit or receive funds forthe construction, purchase, lease or rental of, nor any gift or bequest of real property or any other property for the purpose of providing living quarters for the Secretary of State.”
 
 Pub. L. 99–93, title I, §130, Aug. 16, 1985, 99 Stat. 420, provided that:
 

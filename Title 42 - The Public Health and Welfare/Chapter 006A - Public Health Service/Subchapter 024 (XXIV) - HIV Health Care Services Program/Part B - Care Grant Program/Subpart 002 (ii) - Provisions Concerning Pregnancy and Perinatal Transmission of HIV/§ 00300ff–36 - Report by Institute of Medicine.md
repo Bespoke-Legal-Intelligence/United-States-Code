@@ -8,7 +8,7 @@ The Secretary shall request that the Institute of Medicine of the National Acade
 
 The Secretary shall ensure that, not later than 2 years after May 20, 1996, the evaluation and analysis described in subsection (a) of this section is completed and a report summarizing the results of such evaluation and analysis is prepared by the Institute of Medicine and submitted to the appropriate committees of Congress together with the recommendations of the Institute.
 
-(July 1, 1944, ch. 373, title XXVI, §2628, as added May 20, 1996, Pub. L. 104–146, §7(b)(3), 110 Stat. 1372.)
+(July 1, 1944, ch. 373, title XXVI, §2628, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat. 1372.)
 
 #### Effective Date
 

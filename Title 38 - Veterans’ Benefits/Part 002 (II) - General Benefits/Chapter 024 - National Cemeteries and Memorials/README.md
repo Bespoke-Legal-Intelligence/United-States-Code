@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2400\.](%C2%A7%2002400%20-%20Establishment%20of%20National%20Cemetery%20System%3B%20composition%20of%20such%20system%3B%20appointment%20of%20director.md) | Establishment of National Cemetery System; composition of such system; appointment of director. |
+| [2400\.](%C2%A7%2002400%20-%20Establishment%20of%20National%20Cemetery%20Administration%3B%20composition%20of%20Administration.md) | Establishment of National Cemetery Administration; composition of Administration. |
 | [2401\.](%C2%A7%2002401%20-%20Advisory%20Committee%20on%20Cemeteries%20and%20Memorials.md) | Advisory Committee on Cemeteries and Memorials. |
 | [2402\.](%C2%A7%2002402%20-%20Persons%20eligible%20for%20interment%20in%20national%20cemeteries.md) | Persons eligible for interment in national cemeteries. |
 | [2403\.](%C2%A7%2002403%20-%20Memorial%20areas.md) | Memorial areas. |
@@ -13,11 +13,13 @@
 | [2408\.](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%E2%80%99%20cemeteries.md) | Aid to States for establishment, expansion, and improvement of veterans’ cemeteries. |
 | [2409\.](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md) | Memorial areas in Arlington National Cemetery. |
 | [2410\.](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md) | Burial of cremated remains in Arlington National Cemetery. |
-| [2411\.](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20System%20or%20Arlington%20National%20Cemetery%20of%20persons%20committing%E2%80%A6.md) | Prohibition against interment or memorialization in the National Cemetery System or Arlington National Cemetery of persons committing Federal or State capital crimes. |
+| [2411\.](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md) | Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–368, title IV, §403(c)(4), (d)(1), Nov. 11, 1998, 112 Stat. 3338, 3339, substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in item 2400 and “Administration” for “System” in item 2411.
 
 1997—Pub. L. 105–116, §1(b), Nov. 21, 1997, 111 Stat. 2382, added item 2411.
 
@@ -29,12 +31,16 @@
 
 1978—Pub. L. 95–476, title II, §202(b)(2), Oct. 18, 1978, 92 Stat. 1505, added item 1008.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 36 section 2105; title 46 section 11201.
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02400 - Establishment of National Cemetery System; composition of such system; appointment of director](%C2%A7%2002400%20-%20Establishment%20of%20National%20Cemetery%20System%3B%20composition%20of%20such%20system%3B%20appointment%20of%20director.md)
+- [&sect; 02400 - Establishment of National Cemetery Administration; composition of Administration](%C2%A7%2002400%20-%20Establishment%20of%20National%20Cemetery%20Administration%3B%20composition%20of%20Administration.md)
 - [&sect; 02401 - Advisory Committee on Cemeteries and Memorials](%C2%A7%2002401%20-%20Advisory%20Committee%20on%20Cemeteries%20and%20Memorials.md)
 - [&sect; 02402 - Persons eligible for interment in national cemeteries](%C2%A7%2002402%20-%20Persons%20eligible%20for%20interment%20in%20national%20cemeteries.md)
 - [&sect; 02403 - Memorial areas](%C2%A7%2002403%20-%20Memorial%20areas.md)
@@ -45,4 +51,4 @@
 - [&sect; 02408 - Aid to States for establishment, expansion, and improvement of veterans&#8217; cemeteries](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%E2%80%99%20cemeteries.md)
 - [&sect; 02409 - Memorial areas in Arlington National Cemetery](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md)
 - [&sect; 02410 - Burial of cremated remains in Arlington National Cemetery](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md)
-- [&sect; 02411 - Prohibition against interment or memorialization in the National Cemetery System or Arlington National Cemetery of persons committing&#8230;](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20System%20or%20Arlington%20National%20Cemetery%20of%20persons%20committing%E2%80%A6.md)
+- [&sect; 02411 - Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons&#8230;](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md)

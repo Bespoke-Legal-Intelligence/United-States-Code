@@ -8,7 +8,7 @@
 
 (2) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations for the purposes of paragraph (1). The regulations prescribed by the Secretary of Defense shall apply uniformly to the military departments.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Oct. 7, 1975, Pub. L. 94–106, title VIII, §802(b), 89 Stat. 537; Nov. 14, 1986, Pub. L. 99–661, div. A, title V, §501, 100 Stat. 3863; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §511, 107 Stat. 1648.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 94–106, title VIII, §802(b), Oct. 7, 1975, 89 Stat. 537; Pub. L. 99–661, div. A, title V, §501, Nov. 14, 1986, 100 Stat. 3863; Pub. L. 103–160, div. A, title V, §511, Nov. 30, 1993, 107 Stat. 1648.)
 
 Historical and Revision Notes
 

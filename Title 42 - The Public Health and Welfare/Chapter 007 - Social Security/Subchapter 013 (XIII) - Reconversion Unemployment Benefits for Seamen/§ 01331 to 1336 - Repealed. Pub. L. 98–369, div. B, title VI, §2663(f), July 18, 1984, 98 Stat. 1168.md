@@ -10,7 +10,7 @@ Section 1334, act Aug. 14, 1935, ch. 531, title XIII, §1304, as added Aug. 10, 
 
 Section 1335, act Aug. 14, 1935, ch. 531, title XIII, §1305, as added Aug. 10, 1946, ch. 951, title III, §306, 60 Stat. 982; amended 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065, related to payments to States, certification of such payments by Secretary of Labor to Secretary of the Treasury, and return of unused funds.
 
-Section 1336, act Aug. 14, 1935, ch. 531, title XIII, §1306, as added Aug. 10, 1946, ch. 951, title III, §306, 60Stat. 982; amended 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065, related to penalties.
+Section 1336, act Aug. 14, 1935, ch. 531, title XIII, §1306, as added Aug. 10, 1946, ch. 951, title III, §306, 60 Stat. 982; amended 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065, related to penalties.
 
 #### Effective Date of Repeal
 

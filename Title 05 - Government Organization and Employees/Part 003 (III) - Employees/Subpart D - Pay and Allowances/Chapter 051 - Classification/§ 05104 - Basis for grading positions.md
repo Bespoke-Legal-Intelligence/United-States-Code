@@ -300,5 +300,5 @@ Sec. 304. (a) Within one year after the date of enactment of this Act, the Commi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7201 of this title; title 10 section 1586; title 20 section 1402; title 25 section 2802.
+This section is referred to in section 7201 of this title; title 10 section 1586; title 25 section 2802.
 

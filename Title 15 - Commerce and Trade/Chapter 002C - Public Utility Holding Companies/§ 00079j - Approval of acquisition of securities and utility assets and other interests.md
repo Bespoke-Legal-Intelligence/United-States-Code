@@ -26,7 +26,7 @@ A person may apply for approval of the acquisition of securities or utility asse
 
 &emsp;(2) in the case of the acquisition of utility assets, such information concerning such assets, the value thereof and consideration to be paid therefor, the owner or owners thereof and their relation to, agreements with, and interest in the securities of, the applicant or any associate company thereof as the Commission may by rules and regulations or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers; and
 
-&emsp;(3) in the case of the acquisition of any other interest in any business, such informationconcerning such business and the interest to be acquired, and the consideration to be paid, as the Commission may by rules and regulations or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers.
+&emsp;(3) in the case of the acquisition of any other interest in any business, such information concerning such business and the interest to be acquired, and the consideration to be paid, as the Commission may by rules and regulations or order prescribe as necessary or appropriate in the public interest or for the protection of investors or consumers.
 
 #### (b) Conditions affecting approval
 

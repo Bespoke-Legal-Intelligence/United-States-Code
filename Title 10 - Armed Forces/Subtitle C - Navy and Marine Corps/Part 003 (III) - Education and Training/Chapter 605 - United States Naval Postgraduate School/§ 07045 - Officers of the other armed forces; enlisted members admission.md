@@ -4,11 +4,11 @@
 
 (2) The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.
 
-(b) The Department of the Army, the Department of the Air Force, and the Department of Transportation shall bear the cost of the instruction received by officers detailed for that instruction by the Secretaries of the Army, Air Force, and Transportation, respectively. In the case of an enlisted member permitted to receive instruction at the Postgraduate School, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into consideration the admission of enlisted members on a space-available basis).
+(b) The Department of the Army, the Department of the Air Force, and the Department of Transportation shall bear the cost of the instruction received by officers detailed for that instruction by the Secretaries of the Army, Air Force, and Transportation, respectively. In the case of an enlisted member permitted to receive instruction at the Postgraduate School, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into considerationthe admission of enlisted members on a space-available basis).
 
-(c) While receiving instruction at the Postgraduate School, members of the Army, Air Force, and Coast Guard are subject to the <sup>1</sup> such regulations, as determined appropriate by the Secretary of the Navy, as apply to students who are members of the naval service.
+(c) While receiving instruction at the Postgraduate School, members of the Army, Air Force, and Coast Guard are subject to such regulations, as determined appropriate by the Secretary of the Navy, as apply to students who are members of the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Dec. 12, 1980, Pub. L. 96–513, title V, §513(23), 94 Stat. 2932; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §551(a), (b)(1), 111 Stat. 1747.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136.)
 
 Historical and Revision Notes
 
@@ -32,6 +32,8 @@ In subsection (c) the words “rules and” are omitted. The words “who are of
 
 #### Amendments
 
+1998—Subsec. (c). Pub. L. 105–261 struck out “the” after “are subject to”.
+
 1997—Pub. L. 105–85, §551(b)(1), substituted “Officers of the other armed forces; enlisted members:” for “Officers of Army, Air Force, and Coast Guard:” in section catchline.
 
 Subsec. (a). Pub. L. 105–85, §551(a)(1), designated existing provisions as par. (1) and added par. (2).
@@ -47,6 +49,4 @@ Subsec. (b). Pub. L. 96–513, §513(23)(A), substituted reference to Transporta
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

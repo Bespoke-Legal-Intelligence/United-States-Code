@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1437f, 1437<i>l</i>, 1437p, 1437r, 1437w, 3535, 12870, 12873, 12874, 12876, 12894 of this title; title 12 sections 1709, 1831q, 1834a.
+This subchapter is referred to in sections 1437f, 3535, 12870, 12873, 12874, 12876, 12894 of this title; title 12 sections 1709, 1831q, 1834a.
 
 
 ---

@@ -38,7 +38,7 @@ Upon prescribing or issuing any regulation or order under subsection (a) of this
 
 #### (e) Quarterly reports to Congress; detailed coverage of specific applications
 
-In addition to the reports required under subsection (d) of this section, the Commission shall submit to Congress on a quarterly basis a report detailing the Commission's application during that period of every regulation or order prescribed or issued under this section. In particular, the report shall:
+In addition to the reports required under subsection (d) of this section, the Commission shallsubmit to Congress on a quarterly basis a report detailing the Commission's application during that period of every regulation or order prescribed or issued under this section. In particular, the report shall:
 
 &emsp;(1) identify any information protected from disclosure pursuant to such regulation or order;
 
@@ -46,7 +46,7 @@ In addition to the reports required under subsection (d) of this section, the Co
 
 &emsp;(3) provide justification that the Commission has applied such regulation or order so as to protect from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §147, as added June 30, 1980, Pub. L. 96–295, title II, §207(a)(1), 94 Stat. 788; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §147, as added Pub. L. 96–295, title II, §207(a)(1), June 30, 1980, 94 Stat. 788; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Transfer of Functions
 

@@ -1,6 +1,6 @@
 ### §503. Attorney General
 
-The President shall appoint, by and with the advice and consent of the Senate, an Attorney General of the United States. The Attorney General is the head of the Department of Justice.
+The President shall appoint, by and with the advice and consent of the Senate, an AttorneyGeneral of the United States. The Attorney General is the head of the Department of Justice.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612.)
 

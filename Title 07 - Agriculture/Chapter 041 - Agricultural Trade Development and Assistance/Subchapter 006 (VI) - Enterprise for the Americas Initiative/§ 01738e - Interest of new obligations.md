@@ -8,17 +8,17 @@ New obligations issued to an eligible country under section 1738c of this title 
 
 #### (1) United States dollars
 
-&emsp;An eligible country to which a new obligation has been issued under section 1738c of this title that has not entered into an agreement under section 1738f of this title, shall be required to pay interest on such obligation in United States dollars which shall be deposited in Commodity Credit Corporation accounts.
+&emsp;An eligible country to which a new obligation has been issued under section 1738c of thistitle that has not entered into an agreement under section 1738f of this title, shall be required to pay interest on such obligation in United States dollars which shall be deposited in Commodity Credit Corporation accounts.
 
 #### (2) Local currency
 
-&emsp;If an eligible country to which a new obligation has been issued under section 1738c of this title has entered into an agreement under section 1738f of this title, interest under such obligation may be paid in the local currency of the eligible country and deposited into an Environmental Fund as provided for in section 1738g of this title. Such interest shall be the property of the eligible country until suchtime as it is disbursed under section 1738g of this title. Such local currencies shall be used for the purposes specified in the agreement entered into under section 1738f of this title.
+&emsp;If an eligible country to which a new obligation has been issued under section 1738c of this title has entered into an agreement under section 1738f of this title, interest under such obligation may be paid in the local currency of the eligible country and deposited into an Environmental Fund as provided for in section 1738g of this title. Such interest shall be the property of the eligible country until such time as it is disbursed under section 1738g of this title. Such local currencies shall be used for the purposes specified in the agreement entered into under section 1738f of this title.
 
 #### (c) Interest previously paid
 
 If an eligible country to which a new obligation has been issued under section 1738c of this title enters into an agreement under section 1738f of this title subsequent to the date on which interest first becomes due on such new obligation, any interest paid on such new obligation prior to such agreement being entered into shall not be redeposited into the Fund established for the eligible country under section 1738g(a) of this title but shall be deposited into Commodity Credit Corporation accounts.
 
-(July 10, 1954, ch. 469, title VI, §606, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3659; amended Dec. 13, 1991, Pub. L. 102–237, title III, §304, 105 Stat. 1855.)
+(July 10, 1954, ch. 469, title VI, §606, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3659; amended Pub. L. 102–237, title III, §304, Dec. 13, 1991, 105 Stat. 1855.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@
 
 &emsp;(A) contributions to a named candidate made to any political committee authorized by such candidate to accept contributions on his behalf shall be considered to be contributions made to such candidate;
 
-&emsp;(B)(i) expenditures made by any person in cooperation, consultation, or concert, with, or at the request or suggestion of, a candidate, his authorized political committees, or their agents, shall be considered to be a contribution to such candidate;
+&emsp;(B)(i) expenditures made by any person in cooperation, consultation, or concert, with, orat the request or suggestion of, a candidate, his authorized political committees, or their agents, shall be considered to be a contribution to such candidate;
 
 &emsp;(ii) the financing by any person of the dissemination, distribution, or republication, in whole or in part, of any broadcast or any written, graphic, or other form of campaign materials prepared by the candidate, his campaign committees, or their authorized agents shall be considered to be an expenditure for purposes of this paragraph; and
 

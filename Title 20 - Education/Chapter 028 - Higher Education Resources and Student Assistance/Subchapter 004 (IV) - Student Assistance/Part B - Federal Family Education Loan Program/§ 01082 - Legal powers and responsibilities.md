@@ -70,15 +70,13 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(A) any guaranty agency operating under an agreement with the Secretary pursuant to section 1078(b) of this title;
 
-&emsp;&emsp;(B) any eligible lender as defined in section 1085(d)(1)(D), (F), or (H) of this title;
+&emsp;&emsp;(B) any eligible lender as defined in section 1085(d)(1) of this title;
 
-&emsp;&emsp;(C) a representative sample of eligible lenders under this part, upon the request of the Committee on Education and Labor of the House of Representatives or the Committee on Labor and Human Resources of the Senate, with respect to the payment of the special allowance under section 1087–1 of this title in order to evaluate the program authorized by this part; and
-
-&emsp;&emsp;(D) any Authority required to file a plan for doing business under section 1087–1(d) <sup>1</sup> of this title.
+&emsp;&emsp;(C) a representative sample of eligible lenders under this part, upon the request of the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate, with respect to the payment of the special allowance under section 1087–1 of this title in order to evaluate the program authorized by this part.
 
 #### (2) Access to records
 
-&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
+&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
 
 #### (3) “Record” defined
 
@@ -198,7 +196,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;If the Secretary—
 
-&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
+&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under thissubchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation;
 
 &emsp;&emsp;(B) determines that immediate action is necessary to prevent misuse of Federal funds; and
 
@@ -226,7 +224,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Recommendation
 
-&emsp;Within 1 year after July 23, 1992, the Secretary shall recommend to the appropriate committees in the Senate and House of Representatives changes to statutes that could be made in order to further encourage such efforts.
+&emsp;The Secretary shall recommend to the appropriate committees in the Senate and House of Representatives changes to statutes that could be made in order to further encourage such efforts.
 
 #### (<i>l</i>) Uniform administrative and claims procedures
 
@@ -280,25 +278,37 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in cooperation with representatives of guaranty agencies, eligible lenders, and organizations involved in student financial assistance, shall prescribe a common application form and promissory note to be used for applying for loans under this part.
+&emsp;&emsp;The Secretary, in cooperation with representatives of guaranty agencies, eligiblelenders, and organizations involved in student financial assistance, shall prescribe common application forms and promissory notes, or master promissory notes, to be used for applying for loans under this part.
 
 #### (B) Requirements
 
-&emsp;&emsp;The form prescribed by the Secretary shall—
+&emsp;&emsp;The forms prescribed by the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) use clear, concise, and simple language to facilitate understanding of loan terms and conditions by applicants;
 
-&emsp;&emsp;&emsp;(ii) be formatted to require the applicant to clearly indicate a choice of lender; and
+&emsp;&emsp;&emsp;(ii) be formatted to require the applicant to clearly indicate a choice of lender; and <sup>2</sup>
 
-&emsp;&emsp;&emsp;(iii) permit, to the maximum extent practicable, application for any loan under this part.
+#### (C) Free application form
 
-#### (C) Approval of form
+&emsp;&emsp;For academic year 1999–2000 and succeeding academic years, the Secretary shall prescribe the form developed under section 1090 of this title as the application form under this part, other than for loans under sections 1078–2 and 1078–3 of this title.
 
-&emsp;&emsp;The Secretary shall approve a form for use not later than 360 days after July 23, 1992.
+#### (D) Master promissory note
 
-#### (D) Special rule
+#### (i) In general
 
-&emsp;&emsp;Nothing in this section shall be construed to limit the development of electronic forms and procedures.
+&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary.
+
+#### (ii) Consultation
+
+&emsp;&emsp;&emsp;In developing the master promissory note under this subsection, the Secretary shall consult with representatives of guaranty agencies, eligible lenders, institutions of higher education, students, and organizations involved in student financial assistance.
+
+#### (iii) Sale; assignment; enforceability
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, each loan made under a master promissory note under this subsection may be sold or assigned independently of any other loan made under the same promissory note and each such loan shall be separately enforceable in all Federal and State courts on the basis of an original or copy of the master promissory note in accordance with the terms of the master promissory note.
+
+#### (iv) Perfection of security interests in student loans
+
+&emsp;&emsp;&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.
 
 #### (2) Common deferment form
 
@@ -308,11 +318,15 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;The Secretary shall promulgate standards including necessary rules, regulations (including the definitions of all relevant terms), and procedures so as to require all lenders and guaranty agencies to report information on all aspects of loans made under this part in uniform formats, so as to permit the direct comparison of data submitted by individual lenders, servicers, or guaranty agencies.
 
+#### (4) Electronic forms
+
+&emsp;Nothing in this section shall be construed to limit the development and use of electronic forms and procedures.
+
 #### (n) Default reduction management
 
 #### (1) Authorization
 
-&emsp;There are authorized to be appropriated $25,000,000 for fiscal year 1993 and each of the four succeeding fiscal years, for the Secretary to expend for default reduction management activities for the purposes of establishing a performance measure that will reduce defaults by 5 percent relative to the prior fiscal year. Such funds shall be in addition to, and not in lieu of, other appropriations made for such purposes.
+&emsp;There are authorized to be appropriated $25,000,000 for fiscal year 1999 and each of the four succeeding fiscal years, for the Secretary to expend for default reduction management activities for the purposes of establishing a performance measure that will reduce defaults by 5 percent relative to the prior fiscal year. Such funds shall be in addition to, and not in lieu of, other appropriations made for such purposes.
 
 #### (2) Allowable activities
 
@@ -330,7 +344,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(D) if the performance standard or goal is impractical or infeasible, why that is the case and what action is recommended, including whether the goal should be changed or the program altered or eliminated.
 
-> &emsp;This report shall be submitted to the Appropriations Committees of the House of Representatives and the Senate and to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+> &emsp;This report shall be submitted to the Appropriations Committees of the House of Representatives and the Senate and to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 #### (<i>o</i>) Consequences of guaranty agency insolvency
 
@@ -338,13 +352,13 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 #### (p) Reporting requirement
 
-All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, State postsecondary reviewing entities designated under subpart 1 of part G of this subchapter, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
+All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716.)
+(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702.)
 
 #### References in Text
 
-Section 1087–1(d) of this title, referred to in subsec. (f)(1)(D), was redesignated section 1087–1(e) by Pub. L. 103–66, title IV, §4103(1), Aug. 10, 1993, 107 Stat. 367.
+Subparagraph (D) of paragraph (1) of subsec. (f), referred to in subsec. (f)(2), was repealed by Pub. L. 105–244, title IV, §427(a)(3), Oct. 7, 1998, 112 Stat. 1702.
 
 The Inspector General Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -356,11 +370,35 @@ A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
+1998—Subsec. (f)(1)(B). Pub. L. 105–244, §427(a)(1), substituted “section 1085(d)(1)” for “section 1085(d)(1)(D), (F), or (H)”.
+
+Subsec. (f)(1)(C). Pub. L. 105–244, §427(a)(2), substituted “and the Workforce” for “and Labor” and a period for “; and” at end.
+
+Subsec. (f)(1)(D). Pub. L. 105–244, §427(a)(3), struck out subpar. (D) which read as follows: “any Authority required to file a plan for doing business under section 1087–1(d) of this title.”
+
+Subsec. (k)(3). Pub. L. 105–244, §427(b), substituted “The Secretary” for “Within 1 year after July 23, 1992, the Secretary”.
+
+Subsec. (m)(1)(A). Pub. L. 105–244, §427(c)(1)(A), substituted “common application forms and promissory notes, or master promissory notes,” for “a common application form and promissory note”.
+
+Subsec. (m)(1)(B). Pub. L. 105–244, §427(c)(1)(B), substituted “The forms” for “The form” in introductory provisions and struck out cl. (iii) which read as follows: “permit, to the maximum extent practicable, application for any loan under this part.”
+
+Subsec. (m)(1)(C). Pub. L. 105–244, §427(c)(1)(C), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The Secretary shall approve a form for use not later than 360 days after July 23, 1992.”
+
+Subsec. (m)(1)(D). Pub. L. 105–244, §427(c)(1)(D), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Nothing in this section shall be construed to limit the development of electronic forms and procedures.”
+
+Subsec. (m)(4). Pub. L. 105–244, §427(c)(2), added par. (4).
+
+Subsec. (n)(1). Pub. L. 105–244, §427(d)(1), substituted “1999” for “1993”.
+
+Subsec. (n)(3). Pub. L. 105–244, §427(d)(2), substituted “and the Workforce” for “and Labor” in concluding provisions.
+
+Subsec. (p). Pub. L. 105–244, §427(e), struck out “State postsecondary reviewing entities designated under subpart 1 of part G of this subchapter,” after “agencies or boards,”.
+
 1995—Subsec. (b). Pub. L. 104–66 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, with respect to the financial operations arising by reason of this part—
 
 &emsp;“(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
+&emsp;“(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standardsexcept that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
 
 1993—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 
@@ -402,13 +440,13 @@ Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 
 Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresentation” for “representation”.
 
-#### Change of Name
+#### Effective Date of 1998 Amendment
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -416,7 +454,9 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078, 1087c, 1087hh, 1090, 1094 of this title.
+This section is referred to in sections 1078, 1087c, 1087hh, 1094, 1099c–1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The “; and” probably should be a period.</i>
 

@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) is separated from the active military, naval, or air service with an honorable discharge and receives voluntary separation incentives under section 1174a or 1175 of title 10;
 
-&emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree;
+&emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
 &emsp;&emsp;(C) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Transportation shall provide for such purpose with respect to the Coast Guard when it is not operating as service in the Navy;
 
@@ -18,13 +18,13 @@
 
 &emsp;&emsp;(A) separated before October 23, 1992, from the active military, naval, or air service with an honorable discharge and received or is receiving voluntary separation incentives under section 1174a or 1175 of title 10;
 
-&emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree;
+&emsp;&emsp;(B) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
 &emsp;&emsp;(C) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before making an election under this paragraph pursuant to procedures which the Secretary shall provide, in consultation with the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as service in the Navy, which shall be similar to the regulations prescribed under paragraph (1)(C) of this subsection;
 
 &emsp;&emsp;(D) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in subparagraph (C) of this paragraph, before making an election under this paragraph to receive benefits under this section in lieu of benefits under such chapter 32; and
 
-&emsp;&emsp;(E) before the one-year period beginning on the date of enactment of this section, elects to receive assistance under this section pursuant to procedures referred to in subparagraph (C) of this paragraph,
+&emsp;&emsp;(E) before October 23, 1993, elects to receive assistance under this section pursuant to procedures referred to in subparagraph (C) of this paragraph,
 
 > to elect to become entitled to basic education assistance under this chapter.
 
@@ -44,15 +44,23 @@
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub. L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365.)
 
 #### Amendments
+
+1998—Subsec. (a)(1)(B), (2)(B). Pub. L. 105–368, §203(a), substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
+
+Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitution of “before October 23, 1993,” for “before the one-year period beginning on the date of the enactment of this section,”, was executed by making the substitution for text which did not include the word “the” before the word “enactment”, to reflect the probable intent of Congress.
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–446, §1201(f)(3), substituted “October 23, 1992,” for “the date of enactment of this section”.
 
 Subsec. (d)(1). Pub. L. 103–446, §1201(e)(11)(A), substituted “(a)(2)(D) of this section” for “(a)(2)(D) of this subsection”.
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(d)(5), (e)(11)(B), substituted “such account” for “such Account” and “section 3015(f) of this title” for “section 3015(e) of this chapter”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 203(a) of Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub. L. 105–368, set out as a note under section 3011 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -64,9 +64,9 @@ In the case of a registered management company which is an unincorporated compan
 
 &emsp;(2) the provisions of subsections (b) and (c) of this section, as modified by subsection (e) of this section, shall apply to the board of directors of the depositor and of every investment adviser of such company; and
 
-&emsp;(3) the provisions of subsection (f) of this section shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of suchcompany, or an affiliated person of such depositor or investment adviser.
+&emsp;(3) the provisions of subsection (f) of this section shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Dec. 14, 1970, Pub. L. 91–547, §5, 84 Stat. 1416; June 4, 1975, Pub. L. 94–29, §28(5), 89 Stat. 165.)
+(Aug. 22, 1940, ch. 686, title I, §10, 54 Stat. 806; Pub. L. 91–547, §5, Dec. 14, 1970, 84 Stat. 1416; Pub. L. 94–29, §28(5), June 4, 1975, 89 Stat. 165.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 Upon retirement, any permanent professor of the United States Air Force Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 554; Sept. 2, 1958, Pub. L. 85–861, §1(197), 72 Stat. 1541; Oct. 22, 1965, Pub. L. 89–288, §6, 79 Stat. 1050; Sept. 8, 1980, Pub. L. 96–343, §13(b)(1), (2), 94 Stat. 1131; Dec. 12, 1980, Pub. L. 96–513, title V, §504(20), 94 Stat. 2917; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §502(c), (d)(1), 110 Stat. 293.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 554; Pub. L. 85–861, §1(197), Sept. 2, 1958, 72 Stat. 1541; Pub. L. 89–288, §6, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 96–343, §13(b)(1), (2), Sept. 8, 1980, 94 Stat. 1131; Pub. L. 96–513, title V, §504(20), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 104–106, div. A, title V, §502(c), (d)(1), Feb. 10, 1996, 110 Stat. 293.)
 
 Historical and Revision Notes<br>1956
 

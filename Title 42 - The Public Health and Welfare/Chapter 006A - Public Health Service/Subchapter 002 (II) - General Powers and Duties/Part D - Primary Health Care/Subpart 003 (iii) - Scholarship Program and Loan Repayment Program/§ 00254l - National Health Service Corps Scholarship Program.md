@@ -120,7 +120,7 @@ Not later than March 1 of each year, the Secretary shall submit to the Congress 
 
 &emsp;(3) the number of applications filed under this section in the school year beginning in such year and in prior school years;
 
-&emsp;(4) the amount of scholarship payments made for each of tuition, stipends, and otherexpenses, in the aggregate and at each educational institution for the school year beginning in such year and for prior school years;
+&emsp;(4) the amount of scholarship payments made for each of tuition, stipends, and other expenses, in the aggregate and at each educational institution for the school year beginning in such year and for prior school years;
 
 &emsp;(5)(A) the number, and type of health professions training, of individuals who have breached the contract under subsection (f) of this section through any of the actions specified in subsection (a) or (b) of section 254<i>o</i> of this title; and
 
@@ -136,15 +136,15 @@ Not later than March 1 of each year, the Secretary shall submit to the Congress 
 
 &emsp;(6) the effectiveness of the Secretary in recruiting health professionals to participate in the Scholarship Program, and in encouraging and assisting such professionals with respect to providing primary health services to health professional shortage areas after the completion of the period of obligated service under such Program.
 
-(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2281; amended Dec. 19, 1977, Pub. L. 95–215, §5, 91 Stat. 1506; Nov. 9, 1978, Pub. L. 95–623, §12(c), 92 Stat. 3457; Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; July 10, 1979, Pub. L. 96–32, §7(i), 93 Stat. 84; renumbered §338A and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), (b), 95 Stat. 908; Oct. 22, 1985, Pub. L. 99–129, title II, §210(b), 99 Stat. 537; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 5, 1990, Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], 104 Stat. 1427, 1440; Nov. 16, 1990, Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], 104 Stat. 3021, 3035.)
+(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035.)
 
 #### References in Text
 
 Sections 254n and 254<i>o</i> of this title, referred to in subsecs. (c)(1) and (f)(3), were in the original references to sections 338C and 338D, respectively, of act July 1, 1944, which were renumbered sections 338D and 338E, respectively, by Pub. L. 100–177, title II, §201(2), Dec. 1, 1987, 101 Stat. 992.
 
-Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 293 of this title.
+Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
 
-Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title. Provisions relating to differential tuition and fees are now contained in section 295<i>o</i>(c) of this title.
+Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
 
 #### Codification
 
@@ -174,7 +174,7 @@ Pub. L. 101–597, §201(c), amended subsec. (d) generally. Prior to amendment, 
 
 &emsp;&emsp;“(B) for the school year beginning in calendar year 1979, by individuals who are entering their first or second year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year; and
 
-&emsp;&emsp;“(C) for each school year thereafter, by individuals who are entering their first year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year.”
+&emsp;&emsp;“(C) for each school year thereafter, by individuals who are entering their first year of study in acourse of study or program described in subsection (b)(1)(B) of this section in such school year.”
 
 Subsec. (f)(1)(B)(iv). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in closing provisions.
 
@@ -248,7 +248,7 @@ Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L
 
 “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 234(f)(1) of this title\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
-“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
+“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time fromappropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
 
 #### Section Referred to in Other Sections
 

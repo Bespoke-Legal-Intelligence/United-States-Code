@@ -6,9 +6,9 @@
 
 &emsp;(2) the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking his household goods and personal effects not in excess of 18,000 pounds net weight; and
 
-&emsp;(3) upon the separation (or death in service) of a career appointee, as defined in section 3132(a)(4) of this title, the travel expenses of that individual (if applicable), the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside (or, in the case of a career appointee who dies in service or who dies after separating but before the travel, transportation, and moving is completed, to the place where the family will reside) within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979, if such individual—
+&emsp;(3) upon the separation (or death in service) of a career appointee, as defined in section 3132(a)(4) of this title, the travel expenses of that individual (if applicable), the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside (or, in the case of a career appointee who dies in service or who dies after separating but before the travel, transportation, and moving is completed, to the place where the family will reside) within the United States, if such individual—
 
-&emsp;&emsp;(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
+&emsp;&emsp;(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 ofthis title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
 &emsp;&emsp;(B) is eligible to receive an annuity upon such separation (or, in the case of death in service, met the requirements for being considered eligible to receive an annuity, as of date of death) under the provisions of subchapter III of chapter 83 or chapter 84 of this title.
 
@@ -32,15 +32,11 @@
 
 (h) When a transfer is made primarily for the convenience or benefit of an employee, including an employee in the Foreign Service of the United States, or at his request, his expenses of travel and transportation and the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects may not be allowed or paid from Government funds.
 
-(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the United States for the expenses and allowances is recoverable from the employee as a debt due the United States.
+(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the Government for the expenses and allowances is recoverable from the employee as a debt due the Government.
 
 (j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), Nov. 18, 1997, 111 Stat. 2074.)
-
-#### Amendment of Subsection (a)(3)
-
-<i>Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), (3), Nov. 18, 1997, 111 Stat. 2074, provided that, effective Jan. 1, 1999, subsection (a)(3) of this section is amended by substituting “or the Commonwealth of Puerto Rico” for “, the Commonwealth of Puerto Rico,” and all that follows through “Panama Canal Act of 1979”.</i>
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §6(4), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes<br>1966
 
@@ -118,13 +114,17 @@ In subsection (i), the words “An agency may pay \* \* \* expenses \* \*�
 
 #### References in Text
 
-Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (a)(3), is classified to section 3602(a) of Title 22, Foreign Relations and Intercourse.
-
 Section 4103 of title 38, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of Title 38, Veterans’ Benefits.
 
-The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–264, §6(4)(A), struck out “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979” after “United States”.
+
+Subsec. (i). Pub. L. 105–264, §6(4)(B), substituted “Government” for “United States” in two places in last sentence.
+
+1997—Subsec. (a)(3). Pub. L. 105–85, which directed the substitution of “or the Commonwealth of Puerto Rico” for “, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979”, effective Jan. 1, 1999, could not be executed because such language did not appear in text subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
 
 1996—Subsecs. (a), (b). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
@@ -140,7 +140,7 @@ Subsec. (f). Pub. L. 104–201, §1723(b)(2)(B), substituted “under regulation
 
 1994—Subsec. (a)(3). Pub. L. 103–338, §4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
 
-&emsp;“(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
+&emsp;“(A) during or after the five years preceding eligibility to receive an annuity under subchapter III ofchapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
 &emsp;“(B) is eligible to receive an annuity upon such separation under the provisions of subchapter III of chapter 83 or chapter 84 of this title.”
 

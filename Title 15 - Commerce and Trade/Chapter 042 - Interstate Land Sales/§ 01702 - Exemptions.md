@@ -48,7 +48,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(B)(i) the lot is situated on a paved street or highway which has been built to standards applicable to streets and highways maintained by the unit of local government in which the subdivision is located and is acceptable to such unit, or, where such street or highway is not complete, a bond or other surety acceptable to the municipality or county in the full amount of the cost of completing such street or highway has been posted to assure completion to such standards, and (ii) the unit of local government or a homeowners association has accepted or is obligated to accept the responsibility of maintaining such street or highway, except that, in any case in which a homeowners association has accepted or is obligated to accept such responsibility, a good faith written estimate of the cost of carrying out such responsibility over the first ten years of ownership or lease is provided to the purchaser or lessee prior to the signing of the contract or agreement to purchase or lease;
 
-&emsp;&emsp;(C) at the time of closing, potable water, sanitary sewage disposal, and electricityhave been extended to the lot or the unit of local government is obligated to install such facilities within one hundred and eighty days, and, for subdivisions which do not have a central water or sewage disposal system, rather than installation of water or sewer facilities, there must be assurances that an adequate potable water supply is available year-round and that the lot is approved for the installation of a septic tank;
+&emsp;&emsp;(C) at the time of closing, potable water, sanitary sewage disposal, and electricity have been extended to the lot or the unit of local government is obligated to install such facilities within one hundred and eighty days, and, for subdivisions which do not have a central water or sewage disposal system, rather than installation of water or sewer facilities, there must be assurances that an adequate potable water supply is available year-round and that the lot is approved for the installation of a septic tank;
 
 &emsp;&emsp;(D) the contract of sale requires delivery of a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant which warrants that the grantor has not conveyed the lot to another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him) to the purchaser within one hundred and eighty days after the signing of the sales contract;
 
@@ -128,7 +128,7 @@ Subsecs. (b), (c). Pub. L. 95–557, §907(b)(1), (2), added subsec. (b) and red
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, butin no case later than six months following Dec. 21, 1979, except that subsec. (b)(7) shall be effective on Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, except that subsec. (b)(7) shall be effective on Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
 
 #### Section Referred to in Other Sections
 

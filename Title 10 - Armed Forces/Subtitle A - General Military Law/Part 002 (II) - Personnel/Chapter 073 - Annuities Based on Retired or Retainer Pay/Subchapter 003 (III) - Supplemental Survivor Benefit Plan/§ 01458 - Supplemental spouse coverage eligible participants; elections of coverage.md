@@ -84,7 +84,7 @@ Remarriage After Retirement.—
 
 Election upon remarriage.—A person—
 
-&emsp;&emsp;(A) who is a participant in the Survivor Benefit Plan and is providing coverage underthat Plan for a spouse (or a spouse and child) but is not a participant in the Supplemental Survivor Benefit Plan;
+&emsp;&emsp;(A) who is a participant in the Survivor Benefit Plan and is providing coverage under that Plan for a spouse (or a spouse and child) but is not a participant in the Supplemental Survivor Benefit Plan;
 
 &emsp;&emsp;(B) who does not have an eligible spouse beneficiary under that Plan; and
 

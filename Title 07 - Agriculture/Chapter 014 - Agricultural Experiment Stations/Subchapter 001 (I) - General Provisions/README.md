@@ -2,7 +2,7 @@
 
 #### Act Referred to in Other Sections
 
-Sections 361a to 361i, commonly known as the Hatch Act of 1887, are referred to in sections 384, 418, 450i, 3103, 3124a, 3311 of this title; title 16 section 582a–1; title 40 section 483.
+Sections 361a to 361i, commonly known as the Hatch Act of 1887, are referred to in sections 384, 418, 450i, 3103, 3124a, 3311, 7672 of this title; title 16 section 582a–1; title 40 section 483.
 
 
 ---
@@ -16,7 +16,7 @@ Sections 361a to 361i, commonly known as the Hatch Act of 1887, are referred to 
 - [&sect; 00361d - Use of funds](%C2%A7%2000361d%20-%20Use%20of%20funds.md)
 - [&sect; 00361e - Payment of allotments to State agricultural experiment stations; directors and treasurers or other officers; accounting; reports to&#8230;](%C2%A7%2000361e%20-%20Payment%20of%20allotments%20to%20State%20agricultural%20experiment%20stations%3B%20directors%20and%20treasurers%20or%20other%20officers%3B%20accounting%3B%20reports%20to%E2%80%A6.md)
 - [&sect; 00361f - Publications of experiment stations; free mailing](%C2%A7%2000361f%20-%20Publications%20of%20experiment%20stations%3B%20free%20mailing.md)
-- [&sect; 00361g - Secretary of Agriculture; powers and duties; rules and regulations; determination of amount of entitlement; deduction of unexpended&#8230;](%C2%A7%2000361g%20-%20Secretary%20of%20Agriculture%3B%20powers%20and%20duties%3B%20rules%20and%20regulations%3B%20determination%20of%20amount%20of%20entitlement%3B%20deduction%20of%20unexpended%E2%80%A6.md)
+- [&sect; 00361g - Duties of Secretary; ascertainment of entitlement of State to funds; plans of work](%C2%A7%2000361g%20-%20Duties%20of%20Secretary%3B%20ascertainment%20of%20entitlement%20of%20State%20to%20funds%3B%20plans%20of%20work.md)
 - [&sect; 00361h - Relation of college or university to State unaffected; division of appropriations](%C2%A7%2000361h%20-%20Relation%20of%20college%20or%20university%20to%20State%20unaffected%3B%20division%20of%20appropriations.md)
 - [&sect; 00361i - Power to amend, repeal, etc., reserved](%C2%A7%2000361i%20-%20Power%20to%20amend%2C%20repeal%2C%20etc.%2C%20reserved.md)
 - [&sect; 00362, 363 - Transferred](%C2%A7%2000362%2C%20363%20-%20Transferred.md)

@@ -46,7 +46,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(C) to affect the conduct of a government by assassination or kidnapping; and
 
-&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished,the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
+&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
 
 &emsp;(d) “Sabotage” means activities that involve a violation of chapter 105 of title 18, or that would involve such a violation if committed against the United States.
 
@@ -96,7 +96,7 @@ As used in this subchapter:
 
 &emsp;(<i>l</i>) “Wire communication” means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
 
-&emsp;(m) “Person” means any individual, including any officer or employee of the FederalGovernment, or any group, entity, association, corporation, or foreign power.
+&emsp;(m) “Person” means any individual, including any officer or employee of the Federal Government, or any group, entity, association, corporation, or foreign power.
 
 &emsp;(n) “Contents”, when used with respect to a communication, includes any information concerning the identity of the parties to such communication or the existence, substance, purport, or meaning of that communication.
 
@@ -106,7 +106,7 @@ As used in this subchapter:
 
 #### Effective Date; Exception
 
-Section 401, formerly section 301 of Pub. L. 95–511, as renumbered §401 and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than title III \[enacting subchapter II of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
+Pub. L. 95–511, title VI, §601, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
 
 #### Short Title
 
@@ -118,5 +118,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828 of this title; title 12 section 3414; title 15 section 1681u; title 18 sections 794, 2511, 2709.
+This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841, 1861 of this title; title 12 section 3414; title 15 section 1681u; title 18 sections 794, 2511, 2709.
 

@@ -4,5 +4,21 @@
 
 (b) The Administrative Assistant, with the approval of the Chief Justice, may appoint and fix the compensation of necessary employees. The Administrative Assistant and his employees shall be deemed employees of the Supreme Court.
 
-(Added Pub. L. 92–238, §1, Mar. 1, 1972, 86 Stat. 46.)
+(c)(1) Notwithstanding section 1342 of title 31, the Administrative Assistant, with the approval of the Chief Justice, may accept voluntary personal services to assist with public and visitor programs.
+
+(2) No person may volunteer personal services under this subsection unless the person has first agreed, in writing, to waive any claim against the United States arising out of or in connection with such services, other than a claim under chapter 81 of title 5.
+
+(3) No person volunteering personal services under this subsection shall be considered an employee of the United States for any purpose other than for purposes of—
+
+&emsp;(A) chapter 81 of title 5; or
+
+&emsp;(B) chapter 171 of this title.
+
+(4) In the administration of this subsection, the Administrative Assistant shall ensure that the acceptance of personal services shall not result in the reduction of pay or displacement of any employee of the Supreme Court.
+
+(Added Pub. L. 92–238, §1, Mar. 1, 1972, 86 Stat. 46; amended Pub. L. 105–233, §1, Aug. 13, 1998, 112 Stat. 1535.)
+
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–233 added subsec. (c).
 

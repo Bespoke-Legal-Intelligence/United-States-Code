@@ -12,7 +12,7 @@
 
 &emsp;(4) the number of individuals detailed under section 112 of this title for more than 30 days to each such office, the number of days in excess of 30 each individual was detailed, and the aggregate amount of reimbursement made as provided by the provisions of section 112 of this title; and
 
-&emsp;(5) the number of individuals whose services as experts or consultants are procured under this chapter for service in any such office, the total number of days employed, and the aggregate amount paid to procure such services.
+&emsp;(5) the number of individuals whose services as experts or consultants are procured underthis chapter for service in any such office, the total number of days employed, and the aggregate amount paid to procure such services.
 
 > The information required under this subsection to be in any report shall be shown both in the aggregate and by office involved.
 
@@ -68,7 +68,7 @@ Exclusion From Report.—If the President determines that disclosure of any item
 
 &emsp;“(2) at the request of the Committee on Governmental Affairs of the Senate or the Committee on Government Operations of the House of Representatives, the information that was excluded from the report shall be made available for inspection by such committee.”
 
-\[Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.\]
+\[Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.\]
 
 \[Section 6 of Pub. L. 103–270, set out above, effective Jan. 1, 1995, see section 7(i) of Pub. L. 103–270, set out as an Effective Date of 1994 Amendment; Transition Provisions note under section 591 of Title 28, Judiciary and Judicial Procedure.\]
 

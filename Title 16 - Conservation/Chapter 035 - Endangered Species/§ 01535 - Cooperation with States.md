@@ -92,7 +92,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 &emsp;&emsp;(i) the Secretary applies such prohibition to such species at the request of the State, or
 
-&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisions of section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
+&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisionsof section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
 
 #### (h) Regulations
 
@@ -140,7 +140,7 @@ Subsec. (i). Pub. L. 97–304, §8(b), struck out subsec. (i) which authorized a
 
 1977—Subsec. (c). Pub. L. 95–212, §1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
 
-Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not toexceed $10,000,000 through the fiscal year ending June 30, 1977.
+Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
 
 #### Cooperative Agreements With States Unaffected by 1981 Amendment of Marine Mammal Protection Act
 

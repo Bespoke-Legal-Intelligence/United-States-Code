@@ -52,7 +52,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 &emsp;(A) fails to establish that the proposed use of the food additive, under the conditions of use to be specified in the regulation, will be safe: <i>Provided</i>, That no additive shall be deemed to be safe if it is found to induce cancer when ingested by man or animal, or if it is found, after tests which are appropriate for the evaluation of the safety of food additives, to induce cancer in man or animal, except that this proviso shall not apply with respect to the use of a substance as an ingredient of feed for animals which are raised for food production, if the Secretary finds (i) that, under the conditions of use and feeding specified in proposed labeling and reasonably certain to be followed in practice, such additive will not adversely affect the animals for which such feed is intended, and (ii) that no residue of the additive will be found (by methods of examination prescribed or approved by the Secretary by regulations, which regulations shall not be subject to subsections (f) and (g) of this section) in any edible portion of such animal after slaughter or in any food yielded by or derived from the living animal; or
 
-&emsp;(B) shows that the proposed use of the additive would promote deception of the consumerin violation of this chapter or would otherwise result in adulteration or in misbranding of food within the meaning of this chapter.
+&emsp;(B) shows that the proposed use of the additive would promote deception of the consumer in violation of this chapter or would otherwise result in adulteration or in misbranding of food within the meaning of this chapter.
 
 (4) If, in the judgment of the Secretary, based upon a fair evaluation of the data before him, a tolerance limitation is required in order to assure that the proposed use of an additive will be safe, the Secretary—
 
@@ -204,7 +204,7 @@ Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on avail
 
 #### Moratorium on Authority of Secretary With Respect to Saccharin
 
-Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979,93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, §2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, §2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May 24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910; Pub. L. 104–180, title VI, §602, Aug. 6, 1996, 110 Stat. 1594, provided that: “During the period ending May 1, 2002, the Secretary—
+Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–273, June 17, 1980, 94 Stat. 536; Pub. L. 97–42, §2, Aug. 14, 1981, 95 Stat. 946; Pub. L. 98–22, §2, Apr. 22, 1983, 97 Stat. 173; Pub. L. 99–46, May 24, 1985, 99 Stat. 81; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 431; Pub. L. 102–142, title VI, Oct. 28, 1991, 105 Stat. 910; Pub. L. 104–180, title VI, §602, Aug. 6, 1996, 110 Stat. 1594, provided that: “During the period ending May 1, 2002, the Secretary—
 
 &emsp;“(1) may not amend or revoke the interim food additive regulation of the Food and Drug Administration of the Department of Health and Human Services applicable to saccharin and published on March 15, 1977 (section 180.37 of part 180, subchapter B, chapter 1, title 21, Code of Federal Regulations (42 Fed. Reg. 14638)), or
 

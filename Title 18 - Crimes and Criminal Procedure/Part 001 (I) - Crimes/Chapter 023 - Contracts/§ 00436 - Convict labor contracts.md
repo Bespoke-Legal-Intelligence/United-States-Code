@@ -1,8 +1,8 @@
 ### §436. Convict labor contracts
 
-Whoever, being an officer, employee, or agent of the United States or any department or agency thereof, contracts with any person or corporation, or permits any warden, agent, or official of any penal or correctional institution, to hire out the labor of any prisoners confined for violation of any laws of the United States, shall be fined under this title <sup>1</sup> or imprisoned not more than three years, or both.
+Whoever, being an officer, employee, or agent of the United States or any department or agency thereof, contracts with any person or corporation, or permits any warden, agent, or official of any penal or correctional institution, to hire out the labor of any prisoners confined for violation of any laws of the United States, shallbe fined under this title <sup>1</sup> or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 703; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 703; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ This section consolidates sections 708 and 709 of title 18, U.S.C., 1940 ed., as
 
 Words “department or agency thereof” were inserted to clarify scope of section. See definition of department and agency in section 6 of this title.
 
-To retain uniformity words “shall be deemed guilty of a misdemeanor, and,” were omitted. The reference tomisdemeanor is now covered by the definition in section 1 of this title.
+To retain uniformity words “shall be deemed guilty of a misdemeanor, and,” were omitted. The reference to misdemeanor is now covered by the definition in section 1 of this title.
 
 Words “on conviction thereof” were omitted as unnecessary since punishment can follow only upon conviction.
 

@@ -56,7 +56,7 @@ Following are fees to be charged for services to be performed by clerks of the c
 
 (12) The clerk shall assess a charge for the handling of registry funds deposited with the court, to be assessed from interest earnings and in accordance with the detailed fee schedule issued by the Director of the Administrative Office of the United States Courts.
 
-(13) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
+(13) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, forgood cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
 
 #### Cross References
 

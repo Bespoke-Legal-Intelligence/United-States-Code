@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of Federal or State law, a financial institution shall not be liable under any Federal or State law to any person for disclosing any financial record of an individual to a State child support enforcement agency attempting to establish, modify, or enforce a child support obligation of such individual.
+Notwithstanding any other provision of Federal or State law, a financial institution shall not be liable under any Federal or State law to any person for disclosing any financial record of an individual to a State child support enforcement agency attempting to establish, modify, or enforce a child support obligation of such individual, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title.
 
 #### (b) Prohibition of disclosure of financial record obtained by State child support enforcement agency
 
@@ -12,7 +12,7 @@ A State child support enforcement agency which obtains a financial record of an 
 
 #### (1) Disclosure by State officer or employee
 
-&emsp;If any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
+&emsp;If any person knowingly, or by reason of negligence, discloses a financial record of anindividual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
 
 #### (2) No liability for good faith but erroneous interpretation
 
@@ -54,7 +54,11 @@ For purposes of this section—
 
 &emsp;The term “financial record” has the meaning given such term in section 3401 of title 12.
 
-(Aug. 14, 1935, ch. 531, title IV, §469A, as added Aug. 22, 1996, Pub. L. 104–193, title III, §353, 110 Stat. 2240.)
+(Aug. 14, 1935, ch. 531, title IV, §469A, as added Pub. L. 104–193, title III, §353, Aug. 22, 1996, 110 Stat. 2240; amended Pub. L. 105–200, title IV, §406(c), July 16, 1998, 112 Stat. 672.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–200 inserted “, or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title” before period at end.
 
 #### Effective Date
 

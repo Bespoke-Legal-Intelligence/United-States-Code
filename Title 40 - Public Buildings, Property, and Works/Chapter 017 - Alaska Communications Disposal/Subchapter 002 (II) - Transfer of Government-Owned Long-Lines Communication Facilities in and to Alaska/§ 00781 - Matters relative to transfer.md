@@ -2,7 +2,7 @@
 
 #### (1) Authorization, Executive approval, adequate consideration, scope of transfer, qualification of transferee, necessary or appropriate actions and powers
 
-Subject to the provisions of section 782 of this title, and notwithstanding provisions of any other law, the Secretary of Defense or his designee, with the advice, assistance, and, in the case of any agency not under the jurisdiction of the Secretary of Defense, the consent of the agency concerned, and after approval of the President, is authorized to and shall transfer for adequate consideration any or all long-lines communication facilities in or to Alaska under the jurisdiction of the Federal Government to any person qualifying under the provisions of section 782 of this title, and may take such action and exercise such powers as may be necessary or appropriate to effectuate the purposes of this chapter.
+Subject to the provisions of section 782 of this title, and notwithstanding provisions of any other law, the Secretary of Defense or his designee, with the advice, assistance, and, in the case of any agency not under the jurisdiction of the Secretary of Defense, the consent of the agency concerned, and after approval of the President, is authorized to and shall transfer foradequate consideration any or all long-lines communication facilities in or to Alaska under the jurisdiction of the Federal Government to any person qualifying under the provisions of section 782 of this title, and may take such action and exercise such powers as may be necessary or appropriate to effectuate the purposes of this chapter.
 
 #### (2) Procedures and methods
 
@@ -24,7 +24,7 @@ No interest in public lands, withdrawn or otherwise appropriated, may be transfe
 
 In connection with soliciting offers to purchase such long-lines facilities of the Alaska Communication System the Secretary of Defense or his designee shall:
 
-&emsp;(a) Provide any prospective purchaser who requests it data on (i) the facilities available for purchase, (ii) the amounts deemed to be the current fair and reasonable value of thosefacilities, and (iii) the initial rates which will be charged to the purchaser for capacity in facilities retained by the Government and available for commercial use;
+&emsp;(a) Provide any prospective purchaser who requests it data on (i) the facilities available for purchase, (ii) the amounts deemed to be the current fair and reasonable value of those facilities, and (iii) the initial rates which will be charged to the purchaser for capacity in facilities retained by the Government and available for commercial use;
 
 &emsp;(b) Provide, in the request for offers to purchase, that offerors must specify the rates they propose to charge for service and the improvements in service which they propose to initiate;
 
@@ -33,8 +33,4 @@ In connection with soliciting offers to purchase such long-lines facilities of t
 &emsp;(d) Seek the advice and assistance of the Federal Communications Commission, the Federal Field Committee for Development Planning in Alaska, and the Governor of Alaska or his designees, to assure consideration of all public interest factors associated with the transfer.
 
 (Pub. L. 90–135, title II, §201, Nov. 14, 1967, 81 Stat. 442.)
-
-#### Abolition of Federal Field Committee for Development Planning in Alaska
-
-For termination of Federal Field Committee for Development Planning in Alaska, see Ex. Ord. No. 11608, set out as a note under section 3121 of Title 42, The Public Health and Welfare.
 

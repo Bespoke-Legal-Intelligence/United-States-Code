@@ -23,7 +23,7 @@
 | [925\.](%C2%A7%2000925%20-%20Budget%20request%20for%20school%20construction%20funds%20for%20Director%20of%20Dependents%E2%80%99%20Education.md) | Budget request for school construction funds for Director of Dependents’ Education. |
 | [926\.](%C2%A7%2000926%20-%20School%20system%20for%20dependents%20in%20overseas%20areas.md) | School system for dependents in overseas areas. |
 | (a) | Establishment and operation. |
-| (b) | Tuition payment requirements for attendance in schools outside of system. |
+| (b) | Tuition and assistance when schools unavailable. |
 | (c) | Continuation of enrollment for certain dependents of members of Armed Forces involuntarily separated. |
 | [927\.](%C2%A7%2000927%20-%20Allotment%20formula.md) | Allotment formula. |
 | (a) | Establishment by regulation of minimum allotment formula; criteria. |

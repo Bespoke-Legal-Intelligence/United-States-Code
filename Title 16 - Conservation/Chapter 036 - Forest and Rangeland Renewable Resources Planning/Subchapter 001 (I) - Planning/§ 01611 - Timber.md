@@ -106,7 +106,7 @@ Reporting requirements.—Not later than August 30, 1995, the Secretary concerne
 
 &emsp;&emsp;“(B) The available salvage volume contained in each National Forest and each district of the Bureau of Land Management.
 
-&emsp;&emsp;“(C) A plan and schedule for an enhanced salvage timber sale program for fiscal years 1995, 1996, and 1997 using the authority provided by this section for salvage timber sales.
+&emsp;&emsp;“(C) A plan and schedule for an enhanced salvage timber sale program for fiscal years 1995, 1996, and1997 using the authority provided by this section for salvage timber sales.
 
 &emsp;&emsp;“(D) A description of any needed resources and personnel, including personnel reassignments, required to conduct an enhanced salvage timber sale program through fiscal year 1997.
 
@@ -138,7 +138,7 @@ Exemptions.—The preparation, solicitation, and award of salvage timber sales u
 
 &emsp;&emsp;“(C)
 
-Incentive payment recipients; report.—The provisions of section 3(d)(1) of the FederalWorkforce Restructuring Act of 1994 (Public Law 103–226; 5 U.S.C. 5597 note) shall not apply to any former employee of the Secretary concerned who received a voluntary separation incentive payment authorized by such Act \[Pub. L. 103–226, see Short Title of 1994 Amendment note set out under section 2101 of Title 5, Government Organization and Employees\] and accepts employment pursuant to this paragraph. The Director of the Office of Personnel Management and the Secretary concerned shall provide a summary report to the appropriate committees of Congress, the Committee on Government Reform and Oversight of the House of Representatives, and the Committee on Governmental Affairs of the Senate regarding the number of incentive payment recipients who were rehired, their terms of reemployment, their job classifications, and an explanation, in the judgment of the agencies involved of how such reemployment without repayment of the incentive payments received is consistent with the original waiver provisions of such Act. This report shall not be conducted in a manner that would delay the rehiring of any former employees under this paragraph, or affect the normal confidentiality of Federal employees.
+Incentive payment recipients; report.—The provisions of section 3(d)(1) of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 5 U.S.C. 5597 note) shall not apply to any former employee of the Secretary concerned who received a voluntary separation incentive payment authorized by such Act \[Pub. L. 103–226, see Short Title of 1994 Amendment note set out under section 2101 of Title 5, Government Organization and Employees\] and accepts employment pursuant to this paragraph. The Director of the Office of Personnel Management and the Secretary concerned shall provide a summary report to the appropriate committees of Congress, the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives, and the Committee on Governmental Affairs of the Senate regarding the number of incentive payment recipients who were rehired, their terms of reemployment, their job classifications, and an explanation, in the judgment of the agencies involved of how such reemployment without repayment of the incentive payments received is consistent with the original waiver provisions of such Act. This report shall not be conducted in a manner that would delay the rehiring of any former employees under this paragraph, or affect the normal confidentiality of Federal employees.
 
 &emsp;“(6)
 
@@ -178,7 +178,7 @@ Effect of filing on agency action.—For 45 days after the date of the filing of
 
 &emsp;“(3)
 
-Prohibition on restraining orders, preliminary injunctions, and relief pending review.—No restraining order, preliminary injunction, or injunction pending appeal shall be issued by any court of the United States with respect to any decision to prepare, advertise, offer, award, or operate a salvage timber sale pursuant to subsection (b) or any decision to prepare, advertise, offer, award, or operate a timber sale pursuant to subsection (d). Section 705 of title 5, United States Code, shall not apply to any challenge to such a sale.
+Prohibition on restraining orders, preliminary injunctions, and relief pending review.—No restraining order, preliminary injunction, or injunction pending appeal shall be issued by any court ofthe United States with respect to any decision to prepare, advertise, offer, award, or operate a salvage timber sale pursuant to subsection (b) or any decision to prepare, advertise, offer, award, or operate a timber sale pursuant to subsection (d). Section 705 of title 5, United States Code, shall not apply to any challenge to such a sale.
 
 &emsp;“(4)
 
@@ -212,7 +212,7 @@ Description of excluded lands.—The lands referred to in paragraph (1) are as f
 
 &emsp;&emsp;“(B) Any roadless area on Federal lands designated by Congress for wilderness study in Colorado or Montana.
 
-&emsp;&emsp;“(C) Any roadless area on Federal lands recommended by the Forest Service or Bureau of LandManagement for wilderness designation in its most recent land management plan in effect as of the date of the enactment of this Act \[July 27, 1995\].
+&emsp;&emsp;“(C) Any roadless area on Federal lands recommended by the Forest Service or Bureau of Land Management for wilderness designation in its most recent land management plan in effect as of the date of the enactment of this Act \[July 27, 1995\].
 
 &emsp;&emsp;“(D) Any area on Federal lands on which timber harvesting for any purpose is prohibited by statute.
 

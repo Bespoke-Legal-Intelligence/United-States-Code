@@ -26,17 +26,19 @@
 
 &emsp;A loan which is sold under paragraph (1) of this subsection shall, so long as the borrower continues to make scheduled repayments thereon, be subject to the same terms and conditions and qualify for the same benefits and privileges as other loans made under this part.
 
-#### (b) Special rule
+#### (b) Satisfactory repayment arrangements to renew eligibility
 
 Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
 
-(Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466.)
+(Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696.)
 
 #### References in Text
 
 Title IV, referred to in subsec. (b), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–244 substituted “Satisfactory repayment arrangements to renew eligibility” for “Special rule” in heading.
 
 1993—Subsec. (a)(2). Pub. L. 103–208, §2(c)(38), substituted “paragraph (1) of this subsection” for “this paragraph” and “this subsection” for “this section”.
 
@@ -52,9 +54,13 @@ Subsec. (b). Pub. L. 102–325, §420(4), added subsec. (b). Former subsec. (b) 
 
 1987—Subsecs. (b), (c). Pub. L. 100–50 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The loans which shall be eligible for rehabilitation under this section shall be only those loans which are made to borrowers who, at the time of default on the loan, are unemployed or institutionalized.”
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -66,5 +72,5 @@ Section 2005(b) of Pub. L. 101–239 provided that: “The Secretary of Educatio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1011f of this title.
+This section is referred to in sections 1072a, 1085 of this title.
 

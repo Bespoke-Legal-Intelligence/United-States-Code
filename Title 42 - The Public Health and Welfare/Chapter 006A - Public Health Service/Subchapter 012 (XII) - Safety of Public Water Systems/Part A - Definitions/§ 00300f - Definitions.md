@@ -50,7 +50,7 @@ Irrigation districts.—An irrigation district in existence prior to May 18, 199
 
 &emsp;&emsp;(C)
 
-Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considereda public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
+Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considered a public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
 
 &emsp;(5) The term “supplier of water” means any person who owns or operates a public water system.
 
@@ -86,7 +86,7 @@ Community water system.—The term “community water system” means a public w
 
 Noncommunity water system.—The term “noncommunity water system” means a public water system that is not a community water system.
 
-(July 1, 1944, ch. 373, title XIV, §1401, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660; amended June 23, 1976, Pub. L. 94–317, title III, §301(b)(2), 90 Stat. 707; Oct. 12, 1976, Pub. L. 94–484, title IX, §905(b)(1), 90 Stat. 2325; Nov. 16, 1977, Pub. L. 95–190, §8(b), 91 Stat. 1397; June 19, 1986, Pub. L. 99–339, title III, §302(b), 100 Stat. 666; Aug. 6, 1996, Pub. L. 104–182, title I, §101(a), (b)(1), 110 Stat. 1615, 1616.)
+(July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660; amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616.)
 
 #### References in Text
 
@@ -174,7 +174,7 @@ Section 3 of Pub. L. 104–182 provided that: “The Congress finds that—
 
 Section 101(b)(2) of Pub. L. 104–182 provided that: “The Comptroller General of the United States shall undertake a study to—
 
-&emsp;“(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act \[par. (4)(B) of this section\] that are not public water systems subject to the Safe Drinking Water Act \[this subchapter\];
+&emsp;“(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act \[par. (4)(B)of this section\] that are not public water systems subject to the Safe Drinking Water Act \[this subchapter\];
 
 &emsp;“(B) determine the sources and costs and affordability (to users and systems) of water used by such populations for their residential water needs; and
 

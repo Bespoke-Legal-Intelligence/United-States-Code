@@ -1,6 +1,6 @@
 ### SUBCHAPTER III—GENERAL PROVISIONS
 
-Section 1857g, act July 14, 1955, ch. 360, title III, §301, formerly §8, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 400; renumbered title III, §301, Oct. 20, 1965, Pub.L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 504; Dec. 31, 1970, Pub. L. 91–604, §§3(b)(2), 15(c)(2), 84 Stat. 1677, 1713, which related to administration of air pollution control, was transferred to section 7601 of this title.
+Section 1857g, act July 14, 1955, ch. 360, title III, §301, formerly §8, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 400; renumbered title III, §301, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 504; Dec. 31, 1970, Pub. L. 91–604, §§3(b)(2), 15(c)(2), 84 Stat. 1677, 1713, which related to administration of air pollution control, was transferred to section 7601 of this title.
 
 Section 1857h, act July 14, 1955, ch. 360, title III, §302, formerly §9, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 400; renumbered title III, §302, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 504; Dec. 31, 1970, Pub. L. 91–604, §15(a)(1), (c)(1), 84 Stat. 1710, 1713, which related to definitions concerning air pollution control, was transferred to section 7602 of this title.
 
@@ -28,7 +28,7 @@ Section 1857j–2, act July 14, 1955, ch. 360, title III, §313, formerly §306,
 
 Section 1857j–3, act July 14, 1955, ch. 360, title III, §314, formerly §307, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §314 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to labor standards, was transferred to section 7614 of this title.
 
-Section 1857k, act July 14, 1955, ch. 360, title III, §315, formerly §12, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401; renumbered title III, §305, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; renumbered §308 and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §315, Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1705, which related to separability of provisions, was transferred to section 7615 of this title.
+Section 1857k, act July 14, 1955, ch. 360, title III, §315, formerly §12, as added Dec. 17, 1963, Pub. L. 88–206, §1,77 Stat. 401; renumbered title III, §305, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; renumbered §308 and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §315, Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1705, which related to separability of provisions, was transferred to section 7615 of this title.
 
 
 ---

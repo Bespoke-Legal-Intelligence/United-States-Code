@@ -66,7 +66,7 @@ July 31, 1977, Pub. L. 95–81, §100(par. under heading “Bureau of Engraving 
 
 31:181a(f).
 
-In subsection (a), before clause (1), the words “as of July 1, 1951” are omitted as executed. In clause (1), the words “subsequent to June 30, 1951” are omitted as executed. In clause (2), the words “remain available until expended” are substituted for “shall be available without fiscal year limitation” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), before clause (1), the words “as of July 1, 1951” are omitted as executed. In clause (1), thewords “subsequent to June 30, 1951” are omitted as executed. In clause (2), the words “remain available until expended” are substituted for “shall be available without fiscal year limitation” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(2), the words “amounts received by the Bureau” are substituted for “all amounts recoverable as provided in section 181 of this title for the costs of work and services performed by the Bureau, and all other amounts receivable by the Bureau from whatever sources derived” to eliminate unnecessary words.
 
@@ -76,7 +76,7 @@ In subsection (c)(2), the words “such inventories and other physical assets to
 
 In subsection (c)(3), the words “$5,000,000, to remain available until expended” are omitted as unnecessary because of the source provision restated in subsection (a)(2) of this section. The text of 31:181a(a)(3) and (b) is omitted as executed.
 
-In subsection (d), the words “each fiscal year” are substituted for “ensuing fiscal year”, and the words “prior fiscal year” are added, because of the restatement. The word “Secretary” is added because of sections 301 and 303 of the revised title. The words “decides are in excess of the needs of the Fund” are substituted for “surplus” for consistency in the chapter.The words “may use” are substituted for “may be applied first” to eliminate unnecessary words. The word “reduced” is substituted for “impairment” for clarity.
+In subsection (d), the words “each fiscal year” are substituted for “ensuing fiscal year”, and the words “prior fiscal year” are added, because of the restatement. The word “Secretary” is added because of sections 301 and 303 of the revised title. The words “decides are in excess of the needs of the Fund” are substituted for “surplus” for consistency in the chapter. The words “may use” are substituted for “may be applied first” to eliminate unnecessary words. The word “reduced” is substituted for “impairment” for clarity.
 
 In subsection (e), the words “Secretary shall maintain” are substituted for “shall be established” because of sections 301 and 303 of the revised title and to eliminate executed words. The words “in the Treasury” are substituted for “with the Treasurer of the United States” because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The text of 31:181a(f)(last sentence) is omitted as unnecessary because of the source provisions restated in section 3325 of the revised title.
 

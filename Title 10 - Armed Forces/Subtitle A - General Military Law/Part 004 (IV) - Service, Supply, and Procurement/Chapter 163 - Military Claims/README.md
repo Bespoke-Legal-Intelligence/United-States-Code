@@ -12,10 +12,13 @@
 | [2736\.](%C2%A7%2002736%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20advance%20payment.md) | Property loss; personal injury or death: advance payment. |
 | [2737\.](%C2%A7%2002737%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20use%20of%20property%20of%20the%20United%20States%20and%20not%20cognizable%20under%20other%20law.md) | Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law. |
 | [2738\.](%C2%A7%2002738%20-%20Property%20loss%20reimbursement%20of%20members%20for%20certain%20losses%20of%20household%20effects%20caused%20by%20hostile%20action.md) | Property loss: reimbursement of members for certain losses of household effects caused by hostile action. |
+| [2739\.](%C2%A7%2002739%20-%20Amounts%20recovered%20from%20third%20parties%20for%20loss%20or%20damage%20to%20personal%20property%20shipped%20or%20stored%20at%20Government%20expense%20crediting%20to%E2%80%A6.md) | Amounts recovered from third parties for loss or damage to personal property shipped or stored at Government expense: crediting to appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title X, §1010(a)(2), Oct. 17, 1998, 112 Stat. 2117, added item 2739.
 
 1994—Pub. L. 103–337, div. A, title V, §557(b), Oct. 5, 1994, 108 Stat. 2776, added item 2738.
 
@@ -66,3 +69,4 @@ This chapter is referred to in title 42 section 213a.
 - [&sect; 02736 - Property loss; personal injury or death advance payment](%C2%A7%2002736%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20advance%20payment.md)
 - [&sect; 02737 - Property loss; personal injury or death incident to use of property of the United States and not cognizable under other law](%C2%A7%2002737%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20incident%20to%20use%20of%20property%20of%20the%20United%20States%20and%20not%20cognizable%20under%20other%20law.md)
 - [&sect; 02738 - Property loss reimbursement of members for certain losses of household effects caused by hostile action](%C2%A7%2002738%20-%20Property%20loss%20reimbursement%20of%20members%20for%20certain%20losses%20of%20household%20effects%20caused%20by%20hostile%20action.md)
+- [&sect; 02739 - Amounts recovered from third parties for loss or damage to personal property shipped or stored at Government expense crediting to&#8230;](%C2%A7%2002739%20-%20Amounts%20recovered%20from%20third%20parties%20for%20loss%20or%20damage%20to%20personal%20property%20shipped%20or%20stored%20at%20Government%20expense%20crediting%20to%E2%80%A6.md)

@@ -2,9 +2,9 @@
 
 (a) Logistics support, supplies, and services may be acquired or transferred by the United States under the authority of this subchapter on a reimbursement basis or by replacement-in-kind or exchange of supplies or services of an equal value.
 
-(b)(1) In entering into agreements with the Government of another North Atlantic Treaty Organization country or other foreign country for the acquisition or transfer of logistic support, supplies, and services on a reimbursementbasis, the Secretary of Defense shall negotiate for adoption of the following pricing principles for reciprocal application:
+(b)(1) In entering into agreements with the Government of another North Atlantic Treaty Organization country or other foreign country for the acquisition or transfer of logistic support, supplies, and services on a reimbursement basis, the Secretary of Defense shall negotiate for adoption of the following pricing principles for reciprocal application:
 
-&emsp;(A) The price charged by a supplying country for logistics support, supplies, and services specifically procured by the supplying country from its contractors for a recipient country shall be no less favorable than the price for identical items or services charged by such contractors to the armed forces of the supplying country, taking into account price differentials due to delivery schedules, points of delivery, and other similar considerations.
+&emsp;(A) The price charged by a supplying country for logistics support, supplies, and servicesspecifically procured by the supplying country from its contractors for a recipient country shall be no less favorable than the price for identical items or services charged by such contractors to the armed forces of the supplying country, taking into account price differentials due to delivery schedules, points of delivery, and other similar considerations.
 
 &emsp;(B) The price charged a recipient country for supplies furnished by a supplying country from its inventory, and the price charged a recipient country for logistics support and services furnished by the officers, employees, or governmental agencies of a supplying country, shall be the same as the price charged for identical supplies, support, or services acquired by an armed force of the supplying country from such governmental sources.
 
@@ -32,7 +32,7 @@
 
 The Arms Export Control Act, referred to in subsec. (b)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
 

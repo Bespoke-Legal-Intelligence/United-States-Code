@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;(ii) students by racial characteristics;
 
-&emsp;&emsp;(B) local educational agencies can maximize their effectiveness in achieving the purposes of the Magnet Schools Assistance program if such agencies have more flexibility in the administration of such program in order to serve students attending a school who are not enrolled in the magnet school program;
+&emsp;&emsp;(B) local educational agencies can maximize their effectiveness in achieving the purposes of the Magnet Schools Assistance program if such agencies have more flexibility in the administration of such program inorder to serve students attending a school who are not enrolled in the magnet school program;
 
 &emsp;&emsp;(C) local educational agencies must be creative in designing magnet schools for students at all academic levels, so that school districts do not skim off only the highest achieving students to attend the magnet schools;
 

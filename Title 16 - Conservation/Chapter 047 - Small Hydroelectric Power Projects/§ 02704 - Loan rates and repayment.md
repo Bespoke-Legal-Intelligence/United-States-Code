@@ -2,7 +2,7 @@
 
 #### (a) Interest
 
-Each loan made pursuant to this chapter shall bear interest at the discount or interest rate used at the time the loan is made for water resources planning projects under section 1962d–17 of title 42. Each such loan shall be for such term, as the Secretary deems appropriate, but not in excess of—
+Each loan made pursuant to this chapter shall bear interest at the discount or interest rateused at the time the loan is made for water resources planning projects under section 1962d–17 of title 42. Each such loan shall be for such term, as the Secretary deems appropriate, but not in excess of—
 
 &emsp;(1) 10 years (in the case of a loan under section 2702 of this title) or
 

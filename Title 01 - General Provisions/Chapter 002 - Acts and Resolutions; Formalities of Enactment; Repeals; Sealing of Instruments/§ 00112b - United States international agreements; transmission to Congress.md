@@ -4,7 +4,7 @@
 
 (b) Not later than March 1, 1979, and at yearly intervals thereafter, the President shall, under his own signature, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report with respect to each international agreement which, during the preceding year, was transmitted to the Congress after the expiration of the 60-day period referred to in the first sentence of subsection (a), describing fully and completely the reasons for the late transmittal.
 
-(c) Notwithstanding any other provision of law, an international agreement may not be signed or otherwise concluded on behalf of the United States without prior consultation with the Secretary of State. Such consultation may encompass a class of agreements rather than a particular agreement.
+(c) Notwithstanding any other provision of law, an international agreement may not be signed or otherwise concluded on behalf of the United States without prior consultation with the Secretary of State. Such consultation mayencompass a class of agreements rather than a particular agreement.
 
 (d) The Secretary of State shall determine for and within the executive branch whether an arrangement constitutes an international agreement within the meaning of this section.
 

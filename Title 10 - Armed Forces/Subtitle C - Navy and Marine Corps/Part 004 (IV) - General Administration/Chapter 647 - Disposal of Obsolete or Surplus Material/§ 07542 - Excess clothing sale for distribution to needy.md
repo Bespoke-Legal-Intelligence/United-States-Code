@@ -4,7 +4,7 @@
 
 (b) A fair proportionate allotment of clothing to be sold under this section shall be set aside for distribution in each State and the District of Columbia. An allotment so set aside may not be sold for other distribution until at least 30 days after the allotment was made.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 465; Dec. 12, 1980, Pub. L. 96–513, title V, §513(39), 94 Stat. 2934.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 465; Pub. L. 96–513, title V, §513(39), Dec. 12, 1980, 94 Stat. 2934.)
 
 Historical and Revision Notes
 

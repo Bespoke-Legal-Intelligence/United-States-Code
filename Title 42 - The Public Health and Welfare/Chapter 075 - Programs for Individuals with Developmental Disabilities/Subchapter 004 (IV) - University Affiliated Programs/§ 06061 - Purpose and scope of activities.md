@@ -12,7 +12,7 @@ The purpose of this subchapter is to provide for grants to university affiliated
 
 #### Prior Provisions
 
-A prior section 6061, Pub. L. 88–164, title I, §131, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317; amended Pub. L. 93–45, title III, §301(b), June 18, 1973, 87 Stat. 95; Pub. L. 94–103, title I, §§101(a), 110(a), Oct. 4, 1975, 89 Stat. 486, 489; Pub. L. 95–602, title V, §510(a), Nov. 6, 1978, 92 Stat. 3010; Pub. L. 97–35, title IX, §911(c), Aug. 13, 1981, 95 Stat. 563; Pub. L. 98–221, title III, §304, Feb. 22, 1984, 98 Stat. 35, authorized appropriations for State allotments, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6030 of this title.
+A prior section 6061, Pub. L. 88–164, title I, §131, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84Stat. 1317; amended Pub. L. 93–45, title III, §301(b), June 18, 1973, 87 Stat. 95; Pub. L. 94–103, title I, §§101(a), 110(a), Oct. 4, 1975, 89 Stat. 486, 489; Pub. L. 95–602, title V, §510(a), Nov. 6, 1978, 92 Stat. 3010; Pub. L. 97–35, title IX, §911(c), Aug. 13, 1981, 95 Stat. 563; Pub. L. 98–221, title III, §304, Feb. 22, 1984, 98 Stat. 35, authorized appropriations for State allotments, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6030 of this title.
 
 #### Amendments
 

@@ -8,11 +8,11 @@ For the purpose of this section—
 
 &emsp;(2) the term “lender” means a person or government agency making a real property loan or any assignee or transferee, in whole or in part, of such a person or agency;
 
-&emsp;(3) the term “real property loan” means a loan, mortgage, advance, or credit sale secured by a lien on real property, the stock allocated to a dwelling unit in a cooperative housing corporation, or a residential manufactured home, whether real or personal property; and
+&emsp;(3) the term “real property loan” means a loan, mortgage, advance, or credit sale securedby a lien on real property, the stock allocated to a dwelling unit in a cooperative housing corporation, or a residential manufactured home, whether real or personal property; and
 
 &emsp;(4) the term “residential manufactured home” means a manufactured home as defined in section 5402(6) of title 42 which is used as a residence; and
 
-&emsp;(5) the term “State” means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, and the Trust Territory of the Pacific Islands.
+&emsp;(5) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 
 #### (b) Loan contract and terms governing execution or enforcement of due-on-sale options and rights and remedies of lenders and borrowers; assumptions of loan rates
 

@@ -2,7 +2,7 @@
 
 It shall be unlawful for any person to act as floor trader in executing purchases and sales, or as floor broker in executing any orders for the purchase or sale, of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market unless such person shall have registered, under this chapter, with the Commission as such floor trader or floor broker and such registration shall not have expired nor been suspended nor revoked.
 
-(Sept. 21, 1922, ch. 369, §4e, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), 88 Stat. 1392; Oct. 28, 1992, Pub. L. 102–546, title II, §207(a), 106 Stat. 3604.)
+(Sept. 21, 1922, ch. 369, §4e, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, §207(a), Oct. 28, 1992, 106 Stat. 3604.)
 
 #### Amendments
 

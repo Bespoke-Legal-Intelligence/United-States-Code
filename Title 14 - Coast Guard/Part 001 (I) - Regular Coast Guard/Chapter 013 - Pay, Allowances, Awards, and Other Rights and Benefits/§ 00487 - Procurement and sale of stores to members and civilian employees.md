@@ -2,7 +2,7 @@
 
 Such stores as the Secretary may designate may be procured and sold to members of the Coast Guard, and to the surviving spouses of such members. Such designated stores may also be procured and sold to civilian officers and employees of the United States, and to such other persons as may be specifically authorized by the Secretary, at Coast Guard stations and other units beyond the continental limits of the United States or in Alaska.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 534; Oct. 30, 1984, Pub. L. 98–557, §15(a)(2), (3)(D), (4)(D)(i), 98 Stat. 2865, 2866.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 534; Pub. L. 98–557, §15(a)(2), (3)(D), (4)(D)(i), Oct. 30, 1984, 98 Stat. 2865, 2866.)
 
 #### Historical and Revision Notes
 

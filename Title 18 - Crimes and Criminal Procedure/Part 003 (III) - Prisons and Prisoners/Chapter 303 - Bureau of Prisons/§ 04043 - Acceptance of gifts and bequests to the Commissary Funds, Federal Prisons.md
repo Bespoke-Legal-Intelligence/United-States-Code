@@ -22,6 +22,16 @@ May 15, 1952, ch. 289, §2, 66 Stat. 72; July 9, 1952, ch. 600, 66 Stat. 479.
 
 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
+#### Expenditures; Inmate Telephone System
+
+Pub. L. 105–277, div. A, §101(b) \[title I, §108\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “For fiscal year 1999 and thereafter, the Director of the Bureau of Prisons may make expenditures out of the Commissary Fund of the Federal Prison System, regardless of whether any such expenditure is security-related, for programs, goods, and services for the benefit of inmates (to the extent the provision of those programs, goods, or services to inmates is not otherwise prohibited by law), including—
+
+&emsp;“(1) the installation, operation, and maintenance of the Inmate Telephone System;
+
+&emsp;“(2) the payment of all the equipment purchased or leased in connection with the Inmate Telephone System; and
+
+&emsp;“(3) the salaries, benefits, and other expenses of personnel who install, operate, and maintain the Inmate Telephone System.”
+
 #### Deposit or Investment of Excess Amounts in Federal Prison Commissary Fund
 
 Section 108 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37, provided that: “For fiscal year 1996 and each fiscal year thereafter, amounts in the Federal Prison System's Commissary Fund, Federal Prisons, which are not currently needed for operations, shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investment shall be deposited in the Commissary Fund.”

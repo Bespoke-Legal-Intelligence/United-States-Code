@@ -12,7 +12,7 @@ The Congress finds as follows with respect to improving education in the United 
 
 &emsp;&emsp;(C) in 1991, 1 out of every 5 children in need of bilingual education; and
 
-&emsp;&emsp;(D) in 1992, 1 out of every 20 youths eligible for assistance under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+&emsp;&emsp;(D) in 1992, 1 out of every 20 youths eligible for assistance under the Job Training Partnership Act.
 
 &emsp;(3) The failure of the Federal Government to adequately invest in educational research and development has denied the United States a sound foundation of knowledge on which to design school improvements. The educational achievement of minority children is of particular concern because at least half of the public school students in 25 of the largest cities of the United States are minority children, and demographers project that, by the year 2005, almost all urban public school students will be minority children or other children in poverty.
 
@@ -36,5 +36,7 @@ The Congress finds as follows with respect to improving education in the United 
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
+
+Part A—General Provisions Regarding Office of Educational Research and Improvement
 

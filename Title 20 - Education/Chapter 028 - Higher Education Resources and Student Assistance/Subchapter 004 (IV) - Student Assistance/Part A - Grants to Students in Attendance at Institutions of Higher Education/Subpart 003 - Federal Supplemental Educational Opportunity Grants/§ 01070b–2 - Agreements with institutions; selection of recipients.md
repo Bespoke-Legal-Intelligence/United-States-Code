@@ -40,19 +40,21 @@ Awards may be made under this subpart only to a student who—
 
 #### (d) Use of funds for less-than-full-time students
 
-If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.
+If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution on less than a full-time basis, then a reasonable proportion of the allocation shall be made available to such students.
 
 #### (e) Use and transfer of funds for administrative expenses
 
 An agreement entered into pursuant to this section shall provide that funds granted to an institution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
 
-(Pub. L. 89–329, title IV, §413C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1329; amended Pub. L. 102–325, title IV, §403(d)–(f), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(25), Dec. 20, 1993, 107 Stat. 2459.)
+(Pub. L. 89–329, title IV, §413C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1329; amended Pub. L. 102–325, title IV, §403(d)–(f), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(25), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(b), Oct. 7, 1998, 112 Stat. 1665.)
 
 #### Prior Provisions
 
 A prior section 1070b–2, Pub. L. 89–329, title IV, §413C, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 253; amended Pub. L. 94–482, title I, §122(b), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 96–374, title IV, §403(d), Oct. 3, 1980, 94 Stat. 1405, related to selection of recipients of supplemental educational opportunity grants and agreements with institutions, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–244 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the institution's allocation under this subpart is directly or indirectly based in part on the financial need demonstrated by students who are independent students or attending the institution less than full time and if the total financial need of all such students attending the institution exceeds 5 percent of the total financial need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students.”
 
 1993—Subsec. (d). Pub. L. 103–208 substituted “and” for “, a reasonable proportion of the institution's allocation shall be made available to such students, except that” and “5 percent of the total financial need” for “5 percent of the need”.
 
@@ -64,15 +66,19 @@ A prior section 1070b–2, Pub. L. 89–329, title IV, §413C, as added Pub. L. 
 
 &emsp;“(C) 85 percent of such awards in fiscal year 1991,
 
-> except that the Federal share may be exceeded if the Secretary determines, pursuant to regulations establishing objective criteria for such determinations, that a larger Federal share is required to further the purpose of this subpart; and”.
+> except that the Federal share may be exceeded if the Secretary determines, pursuant to regulations establishing objective criteria for such determinations, thata larger Federal share is required to further the purpose of this subpart; and”.
 
 Subsec. (d). Pub. L. 102–325, §403(e), inserted “who are independent students or” after “demonstrated by students” and inserted before period at end “, except that if the total financial need of all such students attending the institution exceeds 5 percent of the need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students”.
 
 Subsec. (e). Pub. L. 102–325, §403(f), struck out before period at end “, and may transfer such funds in accordance with the provisions of section 1095 of this title”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective on and after July 1, 1994, see section 5(b)(6) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective on and after July 1, 1994, see section 5(b)(6) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -12,7 +12,7 @@ Every foreign trade agreement concluded pursuant to this part shall be subject t
 
 The authority of the President to enter into foreign trade agreements under section 1351 of this title shall terminate on June 30, 1958.
 
-(June 12, 1934, ch. 474, §2, 48 Stat. 944; Mar. 1, 1937, ch. 22, 50 Stat. 24; Apr. 12, 1940, ch. 96, 54 Stat. 107; June 7, 1943, ch. 118, §1, 57 Stat. 125; July 5, 1945, ch. 269, §1, 59 Stat. 410; Sept. 26, 1949, ch. 585, §3, 63 Stat. 698; June 16, 1951, ch. 141, §§2, 9(a), 65 Stat. 72, 75; Aug. 7, 1953, ch. 348, title I, §101, 67 Stat. 472; July 1, 1954, ch. 445, §1, 68 Stat. 360; June 21, 1955, ch. 169, §2, 69 Stat. 162; Oct. 11, 1962, Pub. L. 87–794, title II, §257(d), 76 Stat. 882; Jan. 3, 1975, Pub. L. 93–618, title VI, §602(a), 88 Stat. 2072; July 26, 1979, Pub. L. 96–39, title XI, §1106(h)(2), 93 Stat. 313.)
+(June 12, 1934, ch. 474, §2, 48 Stat. 944; Mar. 1, 1937, ch. 22, 50 Stat. 24; Apr. 12, 1940, ch. 96, 54 Stat. 107; June 7, 1943, ch. 118, §1, 57 Stat. 125; July 5, 1945, ch. 269, §1, 59 Stat. 410; Sept. 26, 1949, ch. 585, §3, 63 Stat. 698; June 16, 1951, ch. 141, §§2, 9(a), 65 Stat. 72, 75; Aug. 7, 1953, ch. 348, title I, §101, 67 Stat. 472; July 1, 1954, ch. 445, §1, 68 Stat. 360; June 21, 1955, ch. 169, §2, 69 Stat. 162; Pub. L. 87–794, title II, §257(d), Oct. 11, 1962, 76 Stat. 882; Pub. L. 93–618, title VI, §602(a), Jan. 3, 1975, 88 Stat. 2072; Pub. L. 96–39, title XI, §1106(h)(2), July 26, 1979, 93 Stat. 313.)
 
 #### References in Text
 

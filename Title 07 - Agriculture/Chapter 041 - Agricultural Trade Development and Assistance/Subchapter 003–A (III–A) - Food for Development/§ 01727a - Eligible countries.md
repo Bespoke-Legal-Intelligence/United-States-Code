@@ -36,7 +36,7 @@ In determining whether and to what extent agricultural commodities shall be made
 
 &emsp;(4) have a long-term plan for broad-based, equitable, and sustainable development.
 
-(July 10, 1954, ch. 469, title III, §302, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 549; amended Aug. 14, 1979, Pub. L. 96–53, title II, §205, 93 Stat. 369; Aug. 8, 1985, Pub. L. 99–83, title X, §1004(b), 99 Stat. 271; Dec. 23, 1985, Pub. L. 99–198, title XI, §1108, 99 Stat. 1467; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3642.)
+(July 10, 1954, ch. 469, title III, §302, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 549; amended Pub. L. 96–53, title II, §205, Aug. 14, 1979, 93 Stat. 369; Pub. L. 99–83, title X, §1004(b), Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §1108, Dec. 23, 1985, 99 Stat. 1467; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3642.)
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, whic
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions setting out criteria for eligibility of developing countries for distribution of commodities, minimum aggregate value of agreements for such distribution, waiver of minimum, and participatory requirements.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions setting outcriteria for eligibility of developing countries for distribution of commodities, minimum aggregate value of agreements for such distribution, waiver of minimum, and participatory requirements.
 
 1985—Subsec. (c)(1)(C). Pub. L. 99–198 substituted “10” for “15” percent.
 

@@ -52,7 +52,7 @@ As used in this chapter:
 
 #### (13) Research
 
-&emsp;The term “research” means any type of research relating to the use and nutritionalvalue of limes and designed to advance the image, desirability, marketability, or quality of limes.
+&emsp;The term “research” means any type of research relating to the use and nutritional value of limes and designed to advance the image, desirability, marketability, or quality of limes.
 
 #### (14) Secretary
 

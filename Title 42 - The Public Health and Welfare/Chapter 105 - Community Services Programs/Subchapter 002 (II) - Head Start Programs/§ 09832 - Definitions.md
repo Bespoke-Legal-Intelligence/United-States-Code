@@ -2,17 +2,29 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;(1) The term “child with a disability” means—
 
-&emsp;(2) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;(A) a child with a disability, as defined in section 1401(3) of title 20; and
 
-&emsp;(3) The term “financial assistance” includes assistance provided by grant, agreement, or contract, and payments may be made in installments and in advance or by way of reimbursement with necessary adjustments on account of overpayments or underpayments.
+&emsp;&emsp;(B) an infant or toddler with a disability, as defined in section 1432(5) of title 20.
 
-&emsp;(4) The term “family literacy services” means services and activities that include interactive literacy activities between parents and their children, training for parents on techniques for being the primary teacher of their children and full partners in the education of their children, parent literacy training (including training in English as a second language), and early childhood education.
+&emsp;(2) The term “delegate agency” means a public, private nonprofit, or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+
+&emsp;(3) The term “family literacy services” means services that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
+
+&emsp;&emsp;(A) Interactive literacy activities between parents and their children.
+
+&emsp;&emsp;(B) Training for parents regarding how to be the primary teacher for their children and full partners in the education of their children.
+
+&emsp;&emsp;(C) Parent literacy training that leads to economic self-sufficiency.
+
+&emsp;&emsp;(D) An age-appropriate education to prepare children for success in school and life experiences.
+
+&emsp;(4) The term “financial assistance” includes assistance provided by grant, agreement, or contract, and payments may be made in installments and in advance or by way of reimbursement with necessary adjustments on account of overpayments or underpayments.
 
 &emsp;(5) The term “full calendar year” means all days of the year other than Saturday, Sunday, and a legal public holiday.
 
-&emsp;(6) The term “full-working-day” means not less than 10 hours per day.
+&emsp;(6) The term “full-working-day” means not less than 10 hours per day. Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendance for more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child.
 
 &emsp;(7) The term “Head Start classroom” means a group of children supervised and taught by two paid staff members (a teacher and a teacher's aide or two teachers) and, where possible, a volunteer.
 
@@ -24,7 +36,11 @@ For purposes of this subchapter:
 
 &emsp;(11) The term “local educational agency” has the meaning given such term in the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
-&emsp;(12) The term “migrant Head Start program” means a Head Start program that serves families who are engaged in agricultural work and who have changed their residence from one geographical location to another in the preceding 2-year period.
+&emsp;(12) The term “migrant and seasonal Head Start program” means—
+
+&emsp;&emsp;(A) with respect to services for migrant farmworkers, a Head Start program that serves families who are engaged in agricultural labor and who have changed their residence from one geographic location to another in the preceding 2-year period; and
+
+&emsp;&emsp;(B) with respect to services for seasonal farmworkers, a Head Start program that serves families who are engaged primarily in seasonal agricultural labor and who have not changed their residence to another geographic location in the preceding 2-year period.
 
 &emsp;(13) The term “mobile Head Start program” means the provision of Head Start services utilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
 
@@ -34,7 +50,25 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) adjusted for family size.
 
-(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624.)
+&emsp;(15) The term “scientifically based reading research”—
+
+&emsp;&emsp;(A) means the application of rigorous, systematic, and objective procedures to obtain valid knowledge relevant to reading development, reading instruction, and reading difficulties; and
+
+&emsp;&emsp;(B) shall include research that—
+
+&emsp;&emsp;&emsp;(i) employs systematic, empirical methods that draw on observation or experiment;
+
+&emsp;&emsp;&emsp;(ii) involves rigorous data analyses that are adequate to test the stated hypotheses and justify the general conclusions drawn;
+
+&emsp;&emsp;&emsp;(iii) relies on measurements or observational methods that provide valid data across evaluators and observers and across multiple measurements and observations; and
+
+&emsp;&emsp;&emsp;(iv) has been accepted by a peer-reviewed journal or approved by a panel of independent experts through a comparably rigorous, objective, and scientific review.
+
+&emsp;(16) The term “Secretary” means the Secretary of Health and Human Services.
+
+&emsp;(17) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscal years ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+
+(Pub. L. 97–35, title VI, §637, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §101, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§104(b), 116(b), 117(b), 121(b), 123(a), Nov. 3, 1990, 104 Stat. 1228, 1232, 1233, 1237; Pub. L. 103–252, title I, §102, May 18, 1994, 108 Stat. 624; Pub. L. 105–285, title I, §103, Oct. 27, 1998, 112 Stat. 2703.)
 
 #### References in Text
 
@@ -43,6 +77,24 @@ The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92
 The Elementary and Secondary Education Act of 1965, referred to in par. (11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+1998—Pars. (1), (2). Pub. L. 105–285, §103(2), added pars. (1) and (2). Former pars. (1) and (2) redesignated (16) and (17), respectively.
+
+Pars. (3), (4). Pub. L. 105–285, §103(3)–(5), added par. (3), redesignated former par. (3) as (4), and struck out former par. (4) which read as follows: “The term ‘family literacy services’ means services and activities that include interactive literacy activities between parents and their children, training for parents on techniques for being the primary teacher of their children and full partners in the education of their children, parent literacy training (including training in English as a second language), and early childhood education.”
+
+Par. (6). Pub. L. 105–285, §103(6), inserted at end “Nothing in this paragraph shall be construed to require an agency to provide services to a child who has not reached the age of compulsory school attendance for more than the number of hours per day permitted by State law (including regulation) for the provision of services to such a child.”
+
+Par. (12). Pub. L. 105–285, §103(7), added par. (12) and struck out former par. (12) which read as follows: “The term ‘migrant Head Start program’ means a Head Start program that serves families who are engaged in agricultural work and who have changed their residence from one geographical location to another in the preceding 2-year period.”
+
+Par. (15). Pub. L. 105–285, §103(8), added par. (15).
+
+Par. (16). Pub. L. 105–285, §103(1), redesignated par. (1) as (16) and transferred it to appear after par. (15).
+
+Par. (17). Pub. L. 105–285, §103(9)(B), (C), substituted “Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, but for fiscalyears ending before October 1, 2001 (and fiscal year 2002, if the legislation described in section 9835(a)(2)(B)(iii) of this title has not been enacted before September 30, 2001), also means” for “Virgin Islands,” and “and the Republic of Palau” for “Palau, and the Commonwealth of the Northern Mariana Islands”.
+
+Pub. L. 105–285, §103(9)(A), which directed substitution of “term” for “Term”, could not be executed because “Term” does not appear in par. (17).
+
+Pub. L. 105–285, §103(1), redesignated par. (2) as (17) and transferred it to appear after par. (16).
 
 1994—Par. (4). Pub. L. 103–252, §102(1), (4), (5)(A), redesignated par. (12) as (4) and struck out former par. (4) which defined “adjusted appropriation”.
 
@@ -99,6 +151,10 @@ Application.—The requirements of this title and the amendments made by this ti
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as a note under section 8621 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9902 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

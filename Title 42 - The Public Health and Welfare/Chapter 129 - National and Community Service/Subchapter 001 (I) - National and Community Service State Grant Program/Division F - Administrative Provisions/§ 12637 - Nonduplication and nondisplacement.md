@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;An employer shall not displace an employee or position, including partial displacementsuch as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under this subchapter.
+&emsp;An employer shall not displace an employee or position, including partial displacement such as reduction in hours, wages, or employment benefits, as a result of the use by such employer of a participant in a program receiving assistance under this subchapter.
 
 #### (2) Service opportunities
 
@@ -58,19 +58,21 @@ The Secretary of Labor shall make available to the Corporation and to any progra
 
 #### (d) Treatment of benefits
 
-Section 142(b) of the Job Training Partnership Act \[29 U.S.C. 1552(b)\] shall apply to the projects conducted under this subchapter as <sup>1</sup> such projects were conducted under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+Allowances, earnings, and payments to individuals participating in programs that receive assistance under this subchapter shall not be considered to be income for the purposes of determining eligibility for and the amount of income transfer and in-kind aid furnished under any Federal or federally assisted program based on need, other than as provided under the Social Security Act (42 U.S.C. 301 et seq.).
 
 #### (e) Standards of conduct
 
 Programs that receive assistance under this subchapter shall establish and stringently enforce standards of conduct at the program site to promote proper moral and disciplinary conditions.
 
-(Pub. L. 101–610, title I, §177, Nov. 16, 1990, 104 Stat. 3163; Pub. L. 103–82, title I, §117, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 864, 918.)
+(Pub. L. 101–610, title I, §177, Nov. 16, 1990, 104 Stat. 3163; Pub. L. 103–82, title I, §117, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 864, 918; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–277 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Section 142(b) of the Job Training Partnership Act shall apply to the projects conducted under this subchapter as such projects were conducted under the Job Training Partnership Act.”
 
 1993—Subsec. (b)(3)(B). Pub. L. 103–82, §117(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that will supplant the hiring of employed workers.”
 
@@ -87,6 +89,4 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12525, 12526, 12544, 12561, 12583, 12632, 12636, 12653c, 12656 of this title; title 16 section 1728.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “as if”.</i>
 

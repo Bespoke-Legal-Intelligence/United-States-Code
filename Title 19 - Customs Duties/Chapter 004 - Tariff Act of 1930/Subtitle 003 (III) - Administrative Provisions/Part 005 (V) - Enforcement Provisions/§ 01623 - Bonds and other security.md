@@ -8,7 +8,7 @@ In any case in which bond or other security is not specifically required by law,
 
 Whenever a bond is required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce, the Secretary of the Treasury may—
 
-&emsp;(1) Except as otherwise specifically provided by law, prescribe the conditions and form of such bond and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service, and fixthe amount of penalty thereof, whether for the payment of liquidated damages or of a penal sum: <i>Provided</i>, That when a consolidated bond authorized by paragraph 4 of this subsection is taken, the Secretary of the Treasury may fix the penalty of such bond without regard to any other provision of law, regulation, or instruction.
+&emsp;(1) Except as otherwise specifically provided by law, prescribe the conditions and form of such bond and the manner in which the bond may be filed with or, pursuant to an authorized electronic data interchange system, transmitted to the Customs Service, and fix the amount of penalty thereof, whether for the payment of liquidated damages or of a penal sum: <i>Provided</i>, That when a consolidated bond authorized by paragraph 4 of this subsection is taken, the Secretary of the Treasury may fix the penalty of such bond without regard to any other provision of law, regulation, or instruction.
 
 &emsp;(2) Provide for the approval of the sureties on such bond, without regard to any general provision of law.
 
@@ -28,7 +28,7 @@ No condition in any bond taken to assure compliance with any law, regulation, or
 
 The Secretary of the Treasury is authorized to permit the deposit of money or obligations of the United States, in such amount and upon such conditions as he may by regulation prescribe, in lieu of sureties on any bond required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce.
 
-(June 17, 1930, ch. 497, title IV, §623, 46 Stat. 759; June 25, 1938, ch. 679, §30, 52 Stat. 1089; June 2, 1970, Pub. L. 91–271, title III, §301(ii), 84 Stat. 291; Aug. 23, 1988, Pub. L. 100—418, title I, §1904, 102 Stat. 1313; Dec. 8, 1993, Pub. L. 103–182, title VI, §647, 107 Stat. 2207.)
+(June 17, 1930, ch. 497, title IV, §623, 46 Stat. 759; June 25, 1938, ch. 679, §30, 52 Stat. 1089; Pub. L. 91–271, title III, §301(ii), June 2, 1970, 84 Stat. 291; Pub. L. 100—418, title I, §1904, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 103–182, title VI, §647, Dec. 8, 1993, 107 Stat. 2207.)
 
 #### Amendments
 

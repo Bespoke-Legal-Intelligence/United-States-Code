@@ -64,3 +64,107 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 Section 1401 of title XIV of div. A of Pub. L. 104–201 provided that: “This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1996’.”
 
+#### Domestic Preparedness for Defense Against Weapons of Mass Destruction
+
+Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, provided that:
+
+#### “SEC. 1401. SHORT TITLE.
+
+“This title may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1998’.
+
+#### “SEC. 1402. DOMESTIC PREPAREDNESS FOR RESPONSE TO THREATS OF TERRORIST USE OF WEAPONS OF MASS DESTRUCTION.
+
+“(a)
+
+Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President's existing authorities to develop an integrated program that builds upon the program established under the Defense Against Weapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; 50 U.S.C. 2301 et seq.).
+
+“(b)
+
+Report.—Not later than January 31, 1999, the President shall submit to Congress a report containing information on the actions taken at the Federal, State, and local level to develop an integrated program to prevent and respond to terrorist incidents involving weapons of mass destruction.
+
+#### “SEC. 1403. REPORT ON DOMESTIC EMERGENCY PREPAREDNESS.
+
+“\[Amended section 1051 of Pub. L. 105–85, set out as a note under section 1113 of Title 31, Money and Finance.\]
+
+#### “SEC. 1404. THREAT AND RISK ASSESSMENTS.
+
+“(a)
+
+Requirement To Develop Methodologies.—The Attorney General, in consultation with the Director of the Federal Bureau of Investigation and representatives of appropriate Federal, State, and local agencies, shall develop and test methodologies for assessing the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. The results of the tests may be used to determine the training and equipment requirements under the program developed under section 1402. The methodologies required by this subsection shall be developed using cities or local areas selected by the Attorney General, acting in consultation with the Director of the Federal Bureau of Investigation and appropriate representatives of Federal, State, and local agencies.
+
+“(b)
+
+Required Completion Date.—The requirements in subsection (a) shall be completed not later than 1 year after the date of the enactment of this Act \[Oct. 17, 1998\].
+
+#### “SEC. 1405. ADVISORY PANEL TO ASSESS DOMESTIC RESPONSE CAPABILITIES FOR TERRORISM INVOLVING WEAPONS OF MASS DESTRUCTION.
+
+“(a)
+
+Requirement for Panel.—The Secretary of Defense, in consultation with the Attorney General, the Secretary of Energy, the Secretary of Health and Human Services, and the Director of the Federal Emergency Management Agency, shall enter into a contract with a federally funded research and development center to establish a panel to assess the capabilities for domestic response to terrorism involving weapons of mass destruction.
+
+“(b)
+
+Composition of Panel; Selection.—(1) The panel shall be composed of members who shall be private citizens of the United States with knowledge and expertise in emergency response matters.
+
+“(2) Members of the panel shall be selected by the federally funded research and development center in accordance with the terms of the contract established pursuant to subsection (a).
+
+“(c)
+
+Procedures for Panel.—The federally funded research and development center shall be responsible for establishing appropriate procedures for the panel, including procedures for selection of a panel chairman.
+
+“(d)
+
+Duties of Panel.—The panel shall—
+
+&emsp;“(1) assess Federal agency efforts to enhance domestic preparedness for incidents involving weapons of mass destruction;
+
+&emsp;“(2) assess the progress of Federal training programs for local emergency responses to incidents involving weapons of mass destruction;
+
+&emsp;“(3) assess deficiencies in programs for response to incidents involving weapons of mass destruction, including a review of unfunded communications, equipment, and planning requirements, and the needs of maritime regions;
+
+&emsp;“(4) recommend strategies for ensuring effective coordination with respect to Federal agency weapons of mass destruction response efforts, and for ensuring fully effective local response capabilities for weapons of mass destruction incidents; and
+
+&emsp;“(5) assess the appropriate roles of State and local government in funding effective local response capabilities.
+
+“(e)
+
+Deadline To Enter Into Contract.—The Secretary of Defense shall enter into the contract required under subsection (a) not later than 60 days after the date of the enactment of this Act \[Oct. 17, 1998\].
+
+“(f)
+
+Deadline for Selection of Panel Members.—Selection of panel members shall be made not later than 30 days after the date on which the Secretary enters into the contract required by subsection (a).
+
+“(g)
+
+Initial Meeting of the Panel.—The panel shall conduct its first meeting not later than 30 days after the date that all the selections to the panel have been made.
+
+“(h)
+
+Reports.—(1) Not later than 6 months after the date of the first meeting of the panel, the panel shall submit to the President and to Congress an initial report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
+
+“(2) Not later than December 15 of each year, beginning in 1999 and ending in 2001, the panel shall submit to the President and to the Congress a report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
+
+“(i)
+
+Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Defense, the Department of Energy, the Department of Health and Human Services, the Department of Justice, and the Federal Emergency Management Agency, or any other Federal department or agency information that the panel considers necessary for the panel to carry out its duties.
+
+“(2) The Attorney General, the Secretary of Defense, the Secretary of Energy, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and any other official of the United States shall provide the panel with full and timely cooperation in carrying out its duties under this section.
+
+“(j)
+
+Funding.—The Secretary of Defense shall provide the funds necessary for the panel to carry out its duties from the funds available to the Department of Defense for weapons of mass destruction preparedness initiatives.
+
+“(k)
+
+Compensation of Panel Members.—(1) Members of the panel shall serve without pay by reason of their work on the panel.
+
+“(2) Members of the panel shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter \[chapter\] 57 of title 5, United States Code, while away from their homes or regular place of business in performance of services for the panel.
+
+“(<i>l</i>)
+
+Termination of the Panel.—The panel shall terminate three years after the date of the appointment of the member selected as chairman of the panel.
+
+“(m)
+
+Definition.—In this section, the term ‘weapon of mass destruction’ has the meaning given that term in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).”
+

@@ -2,7 +2,7 @@
 
 #### (a) Investigation
 
-Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter or of any rule orregulation prescribed under the authority thereof, have been or are about to be violated by any person, it may in its discretion require, and in any event shall permit, such person to file with it a statement in writing, under oath or otherwise, as to all the facts and circumstances relevant to such violation, and may otherwise investigate all such facts and circumstances.
+Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter or of any rule or regulation prescribed under the authority thereof, have been or are about to be violated by any person, it may in its discretion require, and in any event shall permit, such person to file with it a statement in writing, under oath or otherwise, as to all the facts and circumstances relevant to such violation, and may otherwise investigate all such facts and circumstances.
 
 #### (b) Administration of oaths and affirmations, subpena of witnesses, etc.
 
@@ -30,7 +30,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 #### (B) Second tier
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the amount of penalty for each such violation shall not exceed the greater of (i) $50,000 for a natural person or $250,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+&emsp;&emsp;Notwithstanding subparagraph (A), the amount of penalty for each such violation shall not exceed the greater of (i) $50,000 for a natural person or $250,000 for any other person, or (ii) the gross amount of pecuniarygain to such defendant as a result of the violation, if the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 #### (C) Third tier
 
@@ -62,7 +62,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 &emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 80b–3(k) of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 
-(Aug. 22, 1940, ch. 686, title II, §209, 54 Stat. 853; Sept. 13, 1960, Pub. L. 86–750, §12, 74 Stat. 887; Oct. 15, 1970, Pub. L. 91–452, title II, §216, 84 Stat. 929; Dec. 4, 1987, Pub. L. 100–181, title VII, §704, 101 Stat. 1264; Oct. 15, 1990, Pub. L. 101–429, title IV, §402, 104 Stat. 949.)
+(Aug. 22, 1940, ch. 686, title II, §209, 54 Stat. 853; Pub. L. 86–750, §12, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–452, title II, §216, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VII, §704, Dec. 4, 1987, 101 Stat. 1264; Pub. L. 101–429, title IV, §402, Oct. 15, 1990, 104 Stat. 949.)
 
 #### Amendments
 

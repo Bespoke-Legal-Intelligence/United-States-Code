@@ -14,13 +14,13 @@
 
 (g) All knives having a blade which opens automatically (1) by hand pressure applied to a button or other device in the handle of the knife, or (2) by operation of inertia, gravity, or both, are nonmailable and shall not be deposited in or carried by the mails or delivered by any officer or employee of the Postal Service. Such knives may be conveyed in the mails, under such regulations as the Postal Service shall prescribe—
 
-&emsp;(1) to civilian or Armed Forces supply or procurement officers and employees of the Federal Government ordering, procuring, or purchasing such knives in connection with the activities of the Federal Government;
+&emsp;(1) to civilian or Armed Forces supply or procurement officers and employees of theFederal Government ordering, procuring, or purchasing such knives in connection with the activities of the Federal Government;
 
 &emsp;(2) to supply or procurement officers of the National Guard, the Air National Guard, or militia of a State ordering, procuring, or purchasing such knives in connection with the activities of such organizations;
 
 &emsp;(3) to supply or procurement officers or employees of any State, or any political subdivision of a State or Territory, ordering, procuring, or purchasing such knives in connection with the activities of such government; and
 
-&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with any shipment made pursuant to an order from anyperson designated in paragraphs (1), (2), and (3).
+&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with any shipment made pursuant to an order from any person designated in paragraphs (1), (2), and (3).
 
 > The Postal Service may require, as a condition of conveying any such knife in the mails, that any person proposing to mail such knife explain in writing to the satisfaction of the Postal Service that the mailing of such knife will not be in violation of this section.
 
@@ -38,7 +38,7 @@ Whoever is convicted of any crime prohibited by this section, which has resulted
 
 (j) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Sept. 2, 1957, Pub. L. 85–268, 71 Stat. 594; Aug. 12, 1958, Pub. L. 85–623, §5, 72 Stat. 562; Aug. 12, 1970, Pub. L. 91–375, §6(j)(25), 84 Stat. 779; Dec. 15, 1971, Pub. L. 92–191, §1, 85 Stat. 647; Oct. 27, 1986, Pub. L. 99–570, title X, §10003, 100 Stat. 3207–167; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), 108 Stat. 1969, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(g), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

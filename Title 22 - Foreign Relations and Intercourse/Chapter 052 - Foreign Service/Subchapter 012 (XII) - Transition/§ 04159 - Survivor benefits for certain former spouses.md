@@ -26,7 +26,7 @@ The amount of the reduction in the participant's annuity shall be determined in 
 
 #### (e) Definitions
 
-For purposes of this section, the terms “former spouse”, “participant”, and “spousalagreement” have the meanings given such terms in sections 4043 and 4044 of this title.
+For purposes of this section, the terms “former spouse”, “participant”, and “spousal agreement” have the meanings given such terms in sections 4043 and 4044 of this title.
 
 (Pub. L. 96–465, title II, §2109, Oct. 17, 1980, 94 Stat. 2152.)
 

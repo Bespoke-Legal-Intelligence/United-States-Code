@@ -1,0 +1,4 @@
+### §1645. Repealed. Pub. L. 105–362, title VI, §601(a)(2)(B), Nov. 10, 1998, 112 Stat. 3285
+
+Section, Pub. L. 94–437, title IV, §405, as added Pub. L. 100–713, title IV, §402, Nov. 23, 1988, 102 Stat. 4818; amended Pub. L. 102–573, title IV, §404, title VII, §701(c)(3), Oct. 29, 1992, 106 Stat. 4566, 4572; Pub. L. 104–313, §2(d), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–277, div. A, §101(e) \[title III, §336\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, related to demonstration program for direct billing of medicare, medicaid, and other third party payors.
+

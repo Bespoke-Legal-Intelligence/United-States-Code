@@ -10,7 +10,7 @@ The Secretary of the Interior is authorized and directed to, and he shall, promu
 
 (d) To provide $500,000 for each of the years and for the purposes specified in section 618a(d) of this title; and
 
-(e) To provide, by application of the increments to rates specified in section 403(c)(2) of the Colorado River Basin Project Act of 1968, asamended and supplemented \[43 U.S.C. 1543(c)(2)\], revenues, from and after June 1, 1987, for application to the purposes there specified.
+(e) To provide, by application of the increments to rates specified in section 403(c)(2) of the Colorado River Basin Project Act of 1968, as amended and supplemented \[43 U.S.C. 1543(c)(2)\], revenues, from and after June 1, 1987, for application to the purposes there specified.
 
 Such charges may be made subject to revisions and adjustments at such times, to such extent, and in such manner, as by the terms of their promulgation the Secretary shall prescribe.
 

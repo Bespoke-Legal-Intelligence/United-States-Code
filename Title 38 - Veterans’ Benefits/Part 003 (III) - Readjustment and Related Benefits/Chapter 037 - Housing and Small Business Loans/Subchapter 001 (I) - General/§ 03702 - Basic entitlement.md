@@ -20,7 +20,7 @@
 
 &emsp;(D) Each veteran who served on active duty for 90 days or more at any time during the Persian Gulf War, other than a veteran ineligible for benefits under this title by reason of section 5303A(b) of this title.
 
-&emsp;(E) For the period beginning on October 28, 1992, and ending on October 27, 1999, each veteran described in section 3701(b)(5) of this title.
+&emsp;(E) For the period beginning on October 28, 1992, and ending on September 30, 2003, each veteran described in section 3701(b)(5) of this title.
 
 (3) Any unused entitlement of World War II or Korean conflict veterans which expired under provisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.
 
@@ -64,9 +64,11 @@
 
 &emsp;(5) percentage of assets which may be invested in real estate loans.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1203, §1802; Pub. L. 86–73, §1, June 30, 1959, 73 Stat. 156; Pub. L. 87–84, §1(b), July 6, 1961, 75 Stat. 201; Pub. L. 90–19, §25(1), May 25, 1967, 81 Stat. 28; Pub. L. 90–77, title IV, §403(a), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–506, §2(a), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 91–584, §5(b), Dec. 24, 1970, 84 Stat. 1576; Pub. L. 93–569, §2(a), (b), Dec. 31, 1974, 88 Stat. 1863; Pub. L. 94–324, §7(3)–(5), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §102, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 97–72, title III, §303(b), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–223, title II, §204, Mar. 2, 1984, 98 Stat. 42; Pub. L. 100–322, title IV, §415(a)(1), (2), May 20, 1988, 102 Stat. 549, 550; Pub. L. 101–237, title III, §§310, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; Pub. L. 102–25, title III, §341, Apr. 6, 1991, 105 Stat. 92; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3702 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(a)(2), Oct. 28, 1992, 106 Stat. 3633; Pub. L. 103–446, title IX, §902, title XII, §1201(f)(4), Nov. 2, 1994, 108 Stat. 4676, 4687; Pub. L. 105–368, title VI, §603(a), Nov. 11, 1998, 112 Stat. 3348.)
 
 #### Amendments
+
+1998—Subsec. (a)(2)(E). Pub. L. 105–368 substituted “September 30, 2003,” for “October 27, 1999,”.
 
 1994—Subsec. (a)(2)(E). Pub. L. 103–446, §1201(f)(4), substituted “For the period beginning on October 28, 1992, and ending on October 27, 1999,” for “For the 7-year period beginning on the date of enactment of this subparagraph,”.
 
@@ -147,6 +149,10 @@ Subsec. (d). Pub. L. 90–19 substituted “mortgagee approved by the Secretary 
 1961—Subsec. (b). Pub. L. 87–84 substituted in last sentence “by a World War II veteran at any time before July 26, 1967, and by a Korean conflict veteran at any time before February 1, 1975” for “at any time before February 1, 1965”.
 
 1959—Subsec. (d)(3). Pub. L. 86–73 added cl. (3).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
 
 #### Effective Date of 1981 Amendment
 

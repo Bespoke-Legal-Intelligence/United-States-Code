@@ -1,6 +1,6 @@
 ### §223. Units of electrical measure
 
-From and after July 21, 1950, the legal units of electrical and photometric measurement in the United States of America shall be those defined and established as provided in the following paragraphs.
+From and after July 21, 1950, the legal units of electrical and photometric measurement in theUnited States of America shall be those defined and established as provided in the following paragraphs.
 
 #### Resistance-ohm
 
@@ -42,7 +42,7 @@ The unit of intensity of light shall be the candela, which is one-sixtieth of th
 
 The unit of flux of light shall be the lumen, which is the flux in a unit of solid angle from a source of which is the intensity is one candela.
 
-(July 21, 1950, ch. 484, §§1–11, 64 Stat. 369; Nov. 4, 1963, Pub. L. 88–165, 77 Stat. 299.)
+(July 21, 1950, ch. 484, §§1–11, 64 Stat. 369; Pub. L. 88–165, Nov. 4, 1963, 77 Stat. 299.)
 
 #### Amendments
 

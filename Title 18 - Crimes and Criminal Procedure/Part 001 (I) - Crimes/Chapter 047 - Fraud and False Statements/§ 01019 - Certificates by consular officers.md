@@ -2,7 +2,7 @@
 
 Whoever, being a consul, or vice consul, or other person employed in the consular service of the United States, knowingly certifies falsely to any invoice, or other paper, to which his certificate is authorized or required by law, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 753; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 753; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

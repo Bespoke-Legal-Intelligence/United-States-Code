@@ -42,10 +42,6 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 Pub. L. 88–205, pt. IV, §401(a), Dec. 16, 1963, 77 Stat. 390, amended Pub. L. 86–735 to provide: “That this Act \[enacting this section and sections 1943 to 1945 of this title and amending section 1753a of this title\] may be cited as the ‘Latin American Development Act’.”
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, pursuant to section 1–102(a)(2) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
-
 #### Revision of Social Progress Trust Fund Agreement
 
 Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–113, title VII, §734(a)(9), Dec. 29, 1981, 95 Stat. 1560, provided that:

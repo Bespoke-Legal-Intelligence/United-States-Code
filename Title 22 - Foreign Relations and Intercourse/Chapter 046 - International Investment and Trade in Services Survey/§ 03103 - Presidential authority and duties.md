@@ -26,7 +26,7 @@ With respect to foreign direct investment in the United States, the President sh
 
 &emsp;(4) obtain information on tax payments by parents and affiliates by country; and
 
-&emsp;(5) determine, by industry and country, the total dollar amount of research and development expenditures by each parent and affiliate, payments or other compensation for the transfer of technology between parents and their affiliates, and payments or other compensation received by parents or affiliatesfrom the transfer of technology to other persons.
+&emsp;(5) determine, by industry and country, the total dollar amount of research and development expenditures by each parent and affiliate, payments or other compensation for the transfer of technology between parents and their affiliates, and payments or other compensation received by parents or affiliates from the transfer of technology to other persons.
 
 #### (c) Benchmark survey of foreign portfolio investment in United States and United States portfolio investment abroad; report to Congress
 
@@ -40,7 +40,7 @@ The President shall conduct a study of the feasibility of establishing a system 
 
 #### (e) Report on cost of monitoring and compiling data on legislation enacted by foreign nations regulating and restricting foreign inward investment
 
-The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretary deems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
+The Secretary of Commerce shall prepare a report on the estimated cost of monitoring and compiling data on legislation enacted by the major trading partners of the United States, and such other foreign nations as the Secretarydeems appropriate, which regulates or restricts foreign inward investment in such foreign nations.
 
 #### (f) Reporting, recordkeeping, and documentation
 

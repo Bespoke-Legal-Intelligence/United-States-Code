@@ -28,6 +28,7 @@
 | [4821\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004821%20-%20Diplomatic%20Security%20Service.md) | Diplomatic Security Service. |
 | [4822\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004822%20-%20Director%20of%20Diplomatic%20Security%20Service.md) | Director of Diplomatic Security Service. |
 | [4823\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004823%20-%20Special%20agents.md) | Special agents. |
+| [4824\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004824%20-%20Contracting%20authority.md) | Contracting authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

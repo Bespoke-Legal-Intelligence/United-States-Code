@@ -56,7 +56,7 @@ The plan provisions (including plan items) required to be submitted under this p
 
 #### (6) Other measures
 
-&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketablepermits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
+&emsp;Such plan provisions shall include enforceable emission limitations, and such other control measures, means or techniques (including economic incentives such as fees, marketable permits, and auctions of emission rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to provide for attainment of such standard in such area by the applicable attainment date specified in this part.
 
 #### (7) Compliance with section 7410(a)(2)
 
@@ -78,7 +78,7 @@ Any plan revision for a nonattainment area which is required to be submitted in 
 
 If the Administrator relaxes a national primary ambient air quality standard after November 15, 1990, the Administrator shall, within 12 months after the relaxation, promulgate requirements applicable to all areas which have not attained that standard as of the date of such relaxation. Such requirements shall provide for controls which are not less stringent than the controls applicable to areas designated nonattainment before such relaxation.
 
-(July 14, 1955, ch. 360, title I, §172, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 746; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(55), (56), 91 Stat. 1402; Nov. 15, 1990, Pub. L. 101–549, title I, §102(b), 104 Stat. 2412.)
+(July 14, 1955, ch. 360, title I, §172, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 746; amended Pub. L. 95–190, §14(a)(55), (56), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title I, §102(b), Nov. 15, 1990, 104 Stat. 2412.)
 
 #### Amendments
 

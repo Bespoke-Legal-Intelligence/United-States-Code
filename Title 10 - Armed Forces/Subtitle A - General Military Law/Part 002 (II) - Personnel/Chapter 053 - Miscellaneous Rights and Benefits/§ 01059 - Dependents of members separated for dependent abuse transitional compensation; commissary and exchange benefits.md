@@ -28,13 +28,13 @@ Dependent-Abuse Offenses.—For purposes of this section, a dependent-abuse offe
 
 Recipients of Payments.—In the case of any individual described in subsection (b), the Secretary shall pay such compensation to dependents or former dependents of the individual as follows:
 
-&emsp;(1) If the individual was married at the time of the commission of the dependent-abuse offense resulting in the separation, such compensation shall (except as otherwise provided in this subsection) be paid to the spouse or former spouse to whom the individual was married at that time.
+&emsp;(1) If the individual was married at the time of the commission of the dependent-abuse offense resulting in the separation, such compensation shall be paid to the spouse or former spouse to whom the individual was married at that time, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse.
 
-&emsp;(2) If there is a spouse or former spouse who (but for subsection (g)) would be eligible for compensation under this section and if there is a dependent child of the individual describedin subsection (b) who does not reside in the same household as that spouse or former spouse, such compensation shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
+&emsp;(2) If there is a spouse or former spouse who is or, but for subsection (g), would be eligible for compensation under this section and if there is a dependent child of the individual described in subsection (b) who does not reside in the same household as that spouse or former spouse, compensation under this section shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
 
 &emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
-&emsp;(4) For purposes of paragraphs (2) and (3), an individual's status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
+&emsp;(4) For purposes of this subsection, an individual's status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
 
 (e)
 
@@ -44,7 +44,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+(2) Transitional compensation with respect to a member shall be paid for a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member'speriod of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
 
 &emsp;(A) the unserved portion of the member's period of obligated active duty service; or
 
@@ -60,7 +60,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 Amount of Payment.—(1) Payment to a spouse or former spouse under this section for any month shall be at the rate in effect for that month for the payment of dependency and indemnity compensation under section 1311(a)(1) of title 38.
 
-(2) If a spouse or former spouse to whom compensation is paid under this section has custody of a dependent child or children of the member, the amount of such compensation paid for any month shall be increased for each such dependent child by the amount in effect for that month under section 1311(b) of title 38.
+(2) If a spouse or former spouse to whom compensation is paid under this section has custody of a dependent child of the member who resides in the same household as that spouse or former spouse, the amount of such compensation paid for any month shall be increased for each such dependent child by the amount in effect for that month under section 1311(b) of title 38.
 
 (3) If compensation is paid under this section to a child or children pursuant to subsection (d)(2) or (d)(3), such compensation shall be paid in equal shares, with the amount of such compensation for any month determined in accordance with the rates in effect for that month under section 1313 of title 38.
 
@@ -106,9 +106,17 @@ Dependent Child Defined.—In this section, the term “dependent child”, with
 
 &emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511.)
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032.)
 
 #### Amendments
+
+1998—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
+
+Subsec. (d)(2). Pub. L. 105–261, §570(a)(2), substituted “is or, but for subsection (g), would be eligible” for “(but for subsection (g)) would be eligible” and “compensation under this section shall” for “such compensation shall”.
+
+Subsec. (d)(4). Pub. L. 105–261, §570(a)(3), substituted “For purposes of this subsection” for “For purposes of paragraphs (2) and (3)”.
+
+Subsec. (f)(2). Pub. L. 105–261, §570(b), substituted “has custody of a dependent child of the member who resides in the same household as that spouse or former spouse” for “has custody of a dependent child or children of the member”.
 
 1996—Subsec. (a). Pub. L. 104–106, §636(a), inserted at end “Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.”
 
@@ -144,6 +152,10 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 103–337, §535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title V, §570(c), Oct. 17, 1998, 112 Stat. 2032, provided that: “No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Oct. 17, 1998\].”
+
 #### Effective Date
 
 Section 554(b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(5), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title VI, §636(c), Feb. 10, 1996, 110 Stat. 367, provided that:
@@ -155,4 +167,8 @@ Section 554(b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, ti
 &emsp;“(B) forfeits all pay and allowances as described in such subsection.
 
 “(2) Payments of transitional compensation under that section in the case of any person eligible to receive payments under that section shall be made for each month after November 1993 for which that person may be paid transitional compensation in accordance with that section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1076 of this title.
 

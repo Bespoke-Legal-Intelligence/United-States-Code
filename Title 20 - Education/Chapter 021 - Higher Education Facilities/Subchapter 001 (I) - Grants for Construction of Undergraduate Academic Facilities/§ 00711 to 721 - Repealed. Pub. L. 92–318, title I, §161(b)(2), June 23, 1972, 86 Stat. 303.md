@@ -22,8 +22,6 @@ Section 720, Pub. L. 88–204, title I, §110, Dec. 16, 1963, 77 Stat. 370, prov
 
 Section 721, Pub. L. 88–204, title I, §111, Dec. 16, 1963, 77 Stat. 370, related to judicial review, providing in former subsec. (a) for appeal by State of Commissioner's final action to court of appeals; subsec. (b) findings of Commissioner conclusive if substantially supported, remand for taking further evidence, and new or modified findings conclusive if supported; subsec. (c) jurisdiction of court of appeals and review by Supreme Court.
 
-For general subject matter of former sections 711 to 721 of this title, see section 1132a et seq. of this title.
-
 #### Effective Date of Repeal
 
 Repeal effective July 1, 1972, see section 161(b)(2) of Pub. L. 92–318.

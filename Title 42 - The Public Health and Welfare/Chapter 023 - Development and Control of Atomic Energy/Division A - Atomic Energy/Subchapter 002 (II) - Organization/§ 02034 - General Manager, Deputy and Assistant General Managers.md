@@ -14,7 +14,7 @@ There is established within the Commission—
 
 &emsp;Assistant General Managers, or their equivalents (not to exceed a total of three positions), who shall perform such administrative and executive functions as the General Manager shall direct. They shall be appointed by the General Manager with the approval of the Commission, shall serve at the pleasure of the General Manager, and shall be removable by the General Manager.
 
-(Aug. 1, 1946, ch. 724, title I, §24, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; amended Sept. 4, 1957, Pub. L. 85–287, §2, 71 Stat. 612; Aug. 14, 1964, Pub. L. 88–426, title III, §306(f)(1)–(3), 78 Stat. 429; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §24, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; amended Pub. L. 85–287, §2, Sept. 4, 1957, 71 Stat. 612; Pub. L. 88–426, title III, §306(f)(1)–(3), Aug. 14, 1964, 78 Stat. 429; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

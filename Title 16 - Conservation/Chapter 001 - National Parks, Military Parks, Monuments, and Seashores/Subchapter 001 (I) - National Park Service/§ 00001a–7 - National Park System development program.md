@@ -16,17 +16,11 @@ General management plans for the preservation and use of each unit of the Nation
 
 &emsp;(4) indications of potential modifications to the external boundaries of the unit, and the reasons therefor.
 
-#### (c) Concession leases and contracts; proposed awards; transmittal to Congressional committees
-
-The Secretary of the Interior shall hereafter transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives all proposed awards of concession leases and contracts involving a gross annual business of $100,000 or more, or of five years or more in duration (including renewals thereof), and all proposed rules and regulations relating thereto, sixty days before such awards are made or such rules and regulations are promulgated.
-
-(Pub. L. 91–383, §12, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 95–625, title VI, §604(3), (4), Nov. 10, 1978, 92 Stat. 3518, 3519; Pub. L. 103–437, §6(c), Nov. 2, 1994, 108 Stat. 4583.)
-
-#### Codification
-
-The last sentence of section 12(c) of Pub. L. 91–383, as added by Pub. L. 94–458, §2, repealed section 17b–1 of this title. The remainder of section 12(c) enacted subsec. (c) of this section.
+(Pub. L. 91–383, §12, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 95–625, title VI, §604(3), (4), Nov. 10, 1978, 92 Stat. 3518, 3519; Pub. L. 103–437, §6(c), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 105–391, title IV, §415(b)(2), Nov. 13, 1998, 112 Stat. 3515.)
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–391 struck out subsec. (c) which read as follows: “The Secretary of the Interior shall hereafter transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives all proposed awards of concession leases and contracts involving a gross annual business of $100,000 or more, or of five years or more in duration (including renewals thereof), and all proposed rules and regulations relating thereto, sixty days before such awards are made or such rules and regulations are promulgated.”
 
 1994—Subsecs. (a), (c). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs”.
 

@@ -42,13 +42,13 @@ In this part, the term “eligible individual” means an individual—
 
 #### (2) Choice of most popular policy forms
 
-&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer inthe State or applicable marketing or service area (as may be prescribed in regulation) by the issuer in the individual market in the period involved.
+&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers the policy forms for individual health insurance coverage with the largest, and next to largest, premium volume of all such policy forms offered by the issuer in the State or applicable marketing or service area (as may be prescribed in regulation) by the issuer in the individual market in the period involved.
 
 #### (3) Choice of 2 policy forms with representative coverage
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy formsoffered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 
@@ -114,7 +114,7 @@ In this part, the term “eligible individual” means an individual—
 
 #### (2) Conversion policies
 
-&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coverage solely because such issuer offers a conversion policy.
+&emsp;A health insurance issuer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurance issuer offering individual health insurance coveragesolely because such issuer offers a conversion policy.
 
 #### (f) Construction
 
@@ -124,7 +124,7 @@ Nothing in this section shall be construed—
 
 &emsp;(2) to prevent a health insurance issuer offering health insurance coverage in the individual market from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.
 
-(July 1, 1944, ch. 373, title XXVII, §2741, as added Aug. 21, 1996, Pub. L. 104–191, title I, §111(a), 110 Stat. 1978.)
+(July 1, 1944, ch. 373, title XXVII, §2741, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1978.)
 
 #### References in Text
 

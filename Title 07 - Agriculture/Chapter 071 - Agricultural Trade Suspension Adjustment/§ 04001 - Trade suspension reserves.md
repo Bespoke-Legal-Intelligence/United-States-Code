@@ -12,7 +12,7 @@ Within thirty days after the export of any agricultural commodity to a country o
 
 #### (c) Acquisition of suitable agricultural commodities; payment of transportation and storage costs; disposition of acquired commodities
 
-(1) To establish a gasohol feedstock reserve under this section, the Secretary of Agriculture may acquire agricultural commodities (the export of which is suspended or restricted as described in subsection (a) of this section) that are suitable for use in the production of alcohol formotor fuel through purchases from producers or in the market and by designation by the Secretary of stocks of the commodities held by the Commodity Credit Corporation, and to pay such storage, transportation, and related costs as may be necessary to permit maintenance of the commodities in the reserve for the purposes of this section and disposition of the commodities as provided in paragraph (2) of this subsection.
+(1) To establish a gasohol feedstock reserve under this section, the Secretary of Agriculture may acquire agricultural commodities (the export of which is suspended or restricted as described in subsection (a) of this section) that are suitable for use in the production of alcohol for motor fuel through purchases from producers or in the market and by designation by the Secretary of stocks of the commodities held by the Commodity Credit Corporation, and to pay such storage, transportation, and related costs as may be necessary to permit maintenance of the commodities in the reserve for the purposes of this section and disposition of the commodities as provided in paragraph (2) of this subsection.
 
 (2) The Secretary of Agriculture may dispose of stocks of agricultural commodities acquired under paragraph (1) of this subsection only through sale—
 
@@ -46,15 +46,17 @@ Whenever stocks of agricultural commodities are disposed of or released from res
 
 The provisions of this section shall become effective with respect to any suspension of, or restriction on, the export of agricultural commodities, as described in subsection (a) of this section, implemented after December 3, 1980.
 
-(Pub. L. 96–494, title II, §208, Dec. 3, 1980, 94 Stat. 2573; Pub. L. 97–98, title X, §1004, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 104–127, title II, §225(b), Apr. 4, 1996, 110 Stat. 962.)
+(Pub. L. 96–494, title II, §208, Dec. 3, 1980, 94 Stat. 2573; Pub. L. 97–98, title X, §1004, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 104–127, title II, §225(b), Apr. 4, 1996, 110 Stat. 962; Pub. L. 105–385, title II, §212(b)(4), Nov. 13, 1998, 112 Stat. 3467.)
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Actto the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
 
 Section 1445e of this title, referred to in subsec. (c)(2), was amended generally by Pub. L. 101–624, title XI, §1123, Nov. 28, 1990, 104 Stat. 3503, and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
 
 #### Amendments
+
+1998—Subsec. (d)(2). Pub. L. 105–385 made technical amendment to reference in original act which appears in text as reference to section 1736f–1 of this title.
 
 1996—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: “The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of this subsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to ‘wheat’ in such subsections of section 1736f–1 of this title shall be deemed to be references to ‘agricultural commodities’.”
 

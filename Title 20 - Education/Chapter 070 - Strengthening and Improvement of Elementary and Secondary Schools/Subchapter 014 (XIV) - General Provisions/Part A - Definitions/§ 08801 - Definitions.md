@@ -72,7 +72,7 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 &emsp;&emsp;(B) part C of subchapter I of this chapter;
 
-&emsp;&emsp;(C) subchapter II of this chapter (other than section 6623 of this title and part C);
+&emsp;&emsp;(C) subchapter II of this chapter (other than section 6623 of this title and part D);
 
 &emsp;&emsp;(D) subpart 2 of part A of subchapter III of this chapter;
 
@@ -98,7 +98,7 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### (14) Elementary school
 
-&emsp;The term “elementary school” means a nonprofit institutional day or residential school that provides elementary education, as determined under State law.
+&emsp;The term “elementary school” means a nonprofit institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under State law.
 
 #### (15) Free public education
 
@@ -110,11 +110,11 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### (16) Gifted and talented
 
-&emsp;The term “gifted and talented”, when used with respect to students, children or youth, means students, children or youth who give evidence of high performance capability in areas such as intellectual, creative, artistic, or leadership capacity, or in specific academic fields, and who require services or activities not ordinarily provided by the school in order to fully develop such capabilities.
+&emsp;The term “gifted and talented”, when used with respect to students, children or youth,means students, children or youth who give evidence of high performance capability in areas such as intellectual, creative, artistic, or leadership capacity, or in specific academic fields, and who require services or activities not ordinarily provided by the school in order to fully develop such capabilities.
 
 #### (17) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given that term in section 1141(a) of this title.
+&emsp;The term “institution of higher education” has the meaning given that term in section 1001 of this title.
 
 #### (18) Local educational agency
 
@@ -152,7 +152,7 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### (25) Secondary school
 
-&emsp;The term “secondary school” means a nonprofit institutional day or residential school that provides secondary education, as determined under State law, except that such term does not include any education beyond grade 12.
+&emsp;The term “secondary school” means a nonprofit institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under State law, except that such term does not include any education beyond grade 12.
 
 #### (26) Secretary
 
@@ -164,21 +164,35 @@ Except as otherwise provided, for the purposes of this chapter, the following te
 
 #### (28) State educational agency
 
-&emsp;The term “State educational agency” means the agency primarily responsible for the Statesupervision of public elementary and secondary schools.
+&emsp;The term “State educational agency” means the agency primarily responsible for the State supervision of public elementary and secondary schools.
 
 #### (29) Technology
 
 &emsp;The term “technology” means the latest state-of-the-art technology products and services, such as closed circuit television systems, educational television or radio programs and services, cable television, satellite, copper fiber optic transmission, computer hardware and software, video and audio laser and CD–ROM disks, video and audio tapes, including interactive forms of such products and services, or other technologies.
 
-(Pub. L. 89–10, title XIV, §14101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3887.)
+(Pub. L. 89–10, title XIV, §14101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3887; amended Pub. L. 105–244, title I, §102(a)(6)(K), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407; Pub. L. 105–278, §3(j), Oct. 22, 1998, 112 Stat. 2688.)
 
 #### References in Text
 
 Section 1401 of this title, referred to in pars. (1)(D) and (24)(A), was in the original a reference to section 602 of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “child with a disability” and “related services”.
 
+#### Amendments
+
+1998—Par. (10)(C). Pub. L. 105–277 substituted “part D” for “part C”.
+
+Par. (14). Pub. L. 105–278, §3(j)(1), inserted “, including a public elementary charter school,” after “residential school”.
+
+Par. (17). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
+Par. (25). Pub. L. 105–278, §3(j)(2), inserted “, including a public secondary charter school,” after “residential school”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1687, 2471, 4020, 5502, 5802, 8821, 9001 of this title; title 2 sections 117b–2, 117e; title 7 section 3152; title 10 section 2194; title 15 sections 2642, 2662; title 29 sections 761a, 794, 1503, 2618; title 42 sections 300j–21, 2000d–4a, 3030g–12, 3030<i>o</i>, 6107, 7382b, 9855, 9877, 12511; title 47 section 254.
+This section is referred to in sections 1003, 1687, 2302, 4020, 4514, 5502, 5802, 8821, 9001, 9202 of this title; title 2 sections 117b–2, 117e; title 7 section 3152; title 10 section 2194; title 15 sections 2642, 2662; title 26 section 1397E; title 29 sections 762, 794, 1503, 2618; title 42 sections 300j–21, 2000d–4a, 3030g–12, 3030<i>o</i>, 6107, 7382b, 9855, 9877, 12511; title 47 section 254.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

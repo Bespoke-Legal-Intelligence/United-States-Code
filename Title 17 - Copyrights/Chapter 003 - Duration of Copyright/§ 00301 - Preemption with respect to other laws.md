@@ -12,7 +12,7 @@
 
 &emsp;(4) State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8).
 
-(c) With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2047. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2047. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2047.
+(c) With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067.
 
 (d) Nothing in this title annuls or limits any rights or remedies under any other Federal statute.
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) activities violating legal or equitable rights which extend beyond the life of the author.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 100–568, §6, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 101–650, title VI, §605, title VII, §705, Dec. 1, 1990, 104 Stat. 5131, 5134.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 100–568, §6, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 101–650, title VI, §605, title VII, §705, Dec. 1, 1990, 104 Stat. 5131, 5134; Pub. L. 105–298, title I, §102(a), Oct. 27, 1998, 112 Stat. 2827.)
 
 #### Historical and Revision Notes
 
@@ -56,7 +56,7 @@ As long as a work fits within one of the general subject matter categories of se
 
 The preemption of rights under State law is complete with respect to any work coming within the scope of the bill, even though the scope of exclusive rights given the work under the bill is narrower than the scope of common law rights in the work might have been.
 
-Representatives of printers, while not opposed to the principle of section 301, expressed concern about its potential impact on protection of preliminary advertising copy and layouts prepared by printers. They argued that this material is frequently “pirated” by competitors, and that it would be a substantial burden if, in order to obtain full protection, the printer would have to make registrations and bear the expense and bother of suing in Federal rather than State courts. On theother hand, these practical problems are essentially procedural rather than substantive, and the proposal for a special exemption to preserve common law rights equivalent to copyright in unpublished advertising material cannot be justified. Moreover, subsection (b), discussed below, will preserve other legal grounds on which the printers can protect themselves against “pirates” under State laws.
+Representatives of printers, while not opposed to the principle of section 301, expressed concern about its potential impact on protection of preliminary advertising copy and layouts prepared by printers. They argued that this material is frequently “pirated” by competitors, and that it would be a substantial burden if, in order to obtain full protection, the printer would have to make registrations and bear the expense and bother of suing in Federal rather than State courts. On the other hand, these practical problems are essentially procedural rather than substantive, and the proposal for a special exemption to preserve common law rights equivalent to copyright in unpublished advertising material cannot be justified. Moreover, subsection (b), discussed below, will preserve other legal grounds on which the printers can protect themselves against “pirates” under State laws.
 
 In a general way subsection (b) of section 301 represents the obverse of subsection (a). It sets out, in broad terms and without necessarily being exhaustive, some of the principal areas of protection that preemption would not prevent the States from protecting. Its purpose is to make clear, consistent with the 1964 Supreme Court decisions in <i>Sears, Roebuck \& Co., v. Stiffel Co</i>., 376 U.S. 225 \[84 S.Ct. 784, 11 L.Ed.2d 661, rehearing denied 84 S.Ct. 1131, 376 U.S. 973, 12 L.Ed.2d 87\], and <i>Compco Corp. v. Day-Brite Lighting, Inc</i>., 376 U.S. 234 \[84 S.Ct. 779, 11 L.Ed.2d 669, rehearing denied 84 S.Ct. 1162, 377 U.S. 913, 12 L.Ed.2d 183\], that preemption does not extend to causes of action, or subject matter outside the scope of the revised Federal copyright statute.
 
@@ -90,6 +90,8 @@ Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], r
 
 #### Amendments
 
+1998—Subsec. (c). Pub. L. 105–298 substituted “2067” for “2047” wherever appearing.
+
 1990—Subsec. (b)(4). Pub. L. 101–650, §705, added par. (4).
 
 Subsec. (f). Pub. L. 101–650, §605, added subsec. (f).
@@ -98,7 +100,7 @@ Subsec. (f). Pub. L. 101–650, §605, added subsec. (f).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 605 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by section 605 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L.101–650, set out as an Effective Date note under section 106A of this title.
 
 Amendment by section 705 Pub. L. 101–650 applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as a note under section 101 of this title.
 

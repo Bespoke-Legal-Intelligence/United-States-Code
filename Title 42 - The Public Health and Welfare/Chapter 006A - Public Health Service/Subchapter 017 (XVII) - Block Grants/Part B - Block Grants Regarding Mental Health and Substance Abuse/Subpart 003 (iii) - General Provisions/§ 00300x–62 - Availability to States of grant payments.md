@@ -12,5 +12,5 @@ If a State has in accordance with subsection (a) of this section obligated amoun
 
 &emsp;(2) any of such amounts that are obligated by the State in accordance with paragraph (1) shall be available for expenditure through such date.
 
-(July 1, 1944, ch. 373, title XIX, §1952, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 409.)
+(July 1, 1944, ch. 373, title XIX, §1952, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 409.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Improvements
 
-In addition to any other deduction which may be permitted from the sales price for property, there shall, upon application by the prospectivepurchaser, be deducted the amount by which the current fair market value of the Government's interest in the premises is enhanced as a result of improvements to the premises made by, or at the expense of, the prospective purchaser: <i>Provided</i>, That, with reference to commercial property, the improvement credit allowed shall be the value of the enhancement of the Government's interest in the property, as determined by the Commission on the basis of the appraisal provided for under section 2322 of this title: <i>Provided further</i>, That such credit shall be reduced to the extent that lessee has been previously compensated therefor, as determined by the Commission, under the terms of the lease or otherwise.
+In addition to any other deduction which may be permitted from the sales price for property, there shall, upon application by the prospective purchaser, be deducted the amount by which the current fair market value of the Government's interest in the premises is enhanced as a result of improvements to the premises made by, or at the expense of, the prospective purchaser: <i>Provided</i>, That, with reference to commercial property, the improvement credit allowed shall be the value of the enhancement of the Government's interest in the property, as determined by the Commission on the basis of the appraisal provided for under section 2322 of this title: <i>Provided further</i>, That such credit shall be reduced to the extent that lessee has been previously compensated therefor, as determined by the Commission, under the terms of the lease or otherwise.
 
 #### (b) Improvements by occupant of single family or duplex house
 
@@ -16,7 +16,7 @@ The value of the improvements as specified in subsections (a) and (b) of this se
 
 Persons purchasing property pursuant to the provisions of section 2342 of this title, who do not desire to avail themselves of the indemnity provisions contained in sections 2363 to 2366 of this title, shall be entitled to an additional deduction of 10 per centum of the appraised value of the property in addition to any other deduction set forth in this section.
 
-(Aug. 4, 1955, ch. 543, ch. 3, §36, 69 Stat. 474; July 25, 1956, ch. 731, §1, 70 Stat. 653; Sept. 28, 1962, Pub. L. 87–719, §6, 76 Stat. 664.)
+(Aug. 4, 1955, ch. 543, ch. 3, §36, 69 Stat. 474; July 25, 1956, ch. 731, §1, 70 Stat. 653; Pub. L. 87–719, §6, Sept. 28, 1962, 76 Stat. 664.)
 
 #### Amendments
 

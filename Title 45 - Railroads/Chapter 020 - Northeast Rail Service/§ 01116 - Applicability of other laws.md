@@ -14,7 +14,7 @@ The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–
 
 The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
-The National Historic Preservation Act of 1966, referred to in subsec. (a), probably means the National Historic Preservation Act, Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The National Historic Preservation Act of 1966, referred to in subsec. (a), probably means the National Historic Preservation Act, Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16,Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
 The Regional Rail Reorganization Act of 1973, referred to in subsec. (a), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended. Title IV of the Regional Rail Reorganization Act of 1973 was classified generally to subchapter IV (§761 et seq.) of chapter 16 of this title, and was repealed by Pub. L. 99–509, title IV, §4033(a)(1), Oct. 21, 1986, 100 Stat. 1908. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 

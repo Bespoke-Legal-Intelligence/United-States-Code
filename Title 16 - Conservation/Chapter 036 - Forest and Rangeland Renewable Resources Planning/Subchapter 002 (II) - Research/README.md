@@ -8,7 +8,7 @@
 - [&sect; 01641 - Findings and purpose](%C2%A7%2001641%20-%20Findings%20and%20purpose.md)
 - [&sect; 01642 - Investigations, experiments, tests, and other activities](%C2%A7%2001642%20-%20Investigations%2C%20experiments%2C%20tests%2C%20and%20other%20activities.md)
 - [&sect; 01643 - Implementation of provisions](%C2%A7%2001643%20-%20Implementation%20of%20provisions.md)
-- [&sect; 01644 - Competitive grants; scope and purposes; prerequisites](%C2%A7%2001644%20-%20Competitive%20grants%3B%20scope%20and%20purposes%3B%20prerequisites.md)
+- [&sect; 01644 - Forestry and rangeland competitive research grants](%C2%A7%2001644%20-%20Forestry%20and%20rangeland%20competitive%20research%20grants.md)
 - [&sect; 01645 - General provisions](%C2%A7%2001645%20-%20General%20provisions.md)
 - [&sect; 01646 - Authorization of appropriations](%C2%A7%2001646%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01647 - Other Federal programs](%C2%A7%2001647%20-%20Other%20Federal%20programs.md)

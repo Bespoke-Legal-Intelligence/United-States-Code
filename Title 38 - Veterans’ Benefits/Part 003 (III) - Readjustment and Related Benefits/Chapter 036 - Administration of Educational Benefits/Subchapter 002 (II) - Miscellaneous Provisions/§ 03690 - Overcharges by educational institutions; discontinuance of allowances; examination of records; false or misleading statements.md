@@ -20,7 +20,7 @@
 
 (B) Action may be taken under subparagraph (A) of this paragraph only after—
 
-&emsp;(i) the Secretary provides to the State approving agency concerned and the educationalinstitution concerned written notice of any such failure to meet such approval requirements and any such violation of such recordkeeping or reporting requirements;
+&emsp;(i) the Secretary provides to the State approving agency concerned and the educational institution concerned written notice of any such failure to meet such approval requirements and any such violation of such recordkeeping or reporting requirements;
 
 &emsp;(ii) such institution refuses to take corrective action or does not within 60 days after such notice (or within such longer period as the Secretary determines is reasonable and appropriate) take corrective action; and
 

@@ -1,0 +1,22 @@
+### §40307. Annual report
+
+The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1332.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+40307
+
+36:207.
+
+July 1, 1946, ch. 527, §7, 60 Stat. 347.
+

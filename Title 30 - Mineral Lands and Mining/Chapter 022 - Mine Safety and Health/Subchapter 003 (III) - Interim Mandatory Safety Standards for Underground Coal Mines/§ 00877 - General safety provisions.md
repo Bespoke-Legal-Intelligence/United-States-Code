@@ -14,7 +14,7 @@ No person shall smoke, carry smoking materials, matches, or lighters underground
 
 #### (d) Portable electric lamps; exceptions
 
-Persons underground shall use only permissible electric lamps approved by the Secretaryfor portable illumination. No open flame shall be permitted in the underground area of any coal mine, except as permitted under section 871(d) of this title.
+Persons underground shall use only permissible electric lamps approved by the Secretary for portable illumination. No open flame shall be permitted in the underground area of any coal mine, except as permitted under section 871(d) of this title.
 
 #### (e) Promulgation of lighting standards
 

@@ -20,7 +20,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–620 provided for holding court at Boulder.
+1984—Pub. L. 98–620 provided for holding court at Boulder.
 
 #### Effective Date of 1984 Amendment
 

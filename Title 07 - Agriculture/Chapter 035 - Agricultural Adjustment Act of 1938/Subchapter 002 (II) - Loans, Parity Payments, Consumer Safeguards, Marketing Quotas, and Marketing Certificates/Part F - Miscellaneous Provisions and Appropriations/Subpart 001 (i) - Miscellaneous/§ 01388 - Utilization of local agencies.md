@@ -6,7 +6,7 @@ The provisions of sections 590h(b) and 590k of title 16, relating to the utiliza
 
 #### (b) Payments to county committees for administrative expenses
 
-(1) The Secretary is authorized and directed, from any funds made available for the purposes of this chapter and chapter 3B of title 16 in connection with which county committees are utilized, to make payments to county committees of farmers to cover the estimated administrative expenses incurred or to be incurred by them in cooperating in carrying out the provisions of this chapter and chapter 3B of title 16. All or part of such estimated administrative expenses of any such committee may be deducted pro rata from chapter 3B of title 16 payments, parity payments, or loans, or other payments under this chapter and chapter 3B of title 16, made unless payment of such expenses is otherwise provided by law. The Secretary may make such payments to such committees in advance of determination of performance by farmers.
+(1) The Secretary is authorized and directed, from any funds made available for the purposesof this chapter and chapter 3B of title 16 in connection with which county committees are utilized, to make payments to county committees of farmers to cover the estimated administrative expenses incurred or to be incurred by them in cooperating in carrying out the provisions of this chapter and chapter 3B of title 16. All or part of such estimated administrative expenses of any such committee may be deducted pro rata from chapter 3B of title 16 payments, parity payments, or loans, or other payments under this chapter and chapter 3B of title 16, made unless payment of such expenses is otherwise provided by law. The Secretary may make such payments to such committees in advance of determination of performance by farmers.
 
 (2)(A) The Secretary shall provide compensation to members of such county committees (at not less than the level in effect on December 31, 1985 for county committees) for work actually performed by such persons in cooperating in carrying out this chapter and chapter 3B of title 16 in connection with which such committees are used.
 
@@ -18,7 +18,7 @@ The provisions of sections 590h(b) and 590k of title 16, relating to the utiliza
 
 (2) Such travel expenses shall be paid in the manner authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
 
-(Feb. 16, 1938, ch. 30, title III, §388, 52 Stat. 68; Dec. 23, 1985, Pub. L. 99–198, title XVII, §1713(a), (b), 99 Stat. 1636, 1637.)
+(Feb. 16, 1938, ch. 30, title III, §388, 52 Stat. 68; Pub. L. 99–198, title XVII, §1713(a), (b), Dec. 23, 1985, 99 Stat. 1636, 1637.)
 
 #### References in Text
 

@@ -10,7 +10,7 @@ In approving or disapproving a Minerals Agreement, the Secretary shall determine
 
 #### (c) Prior notice of proposed finding; privileged information
 
-Not later than thirty days prior to formal approval or disapproval of any Minerals Agreement, the Secretary shall provide written findings forming the basis of his intent to approve or disapprove such agreement to the affected Indian tribe. Notwithstanding any other law, such findings and all projections, studies, data or other information possessed by the Department of the Interior regarding the terms and conditions of the Minerals Agreement, the financial return to the Indian parties thereto, or the extent, nature, value or disposition of the Indianmineral resources, or the production, products or proceeds thereof, shall be held by the Department of the Interior as privileged proprietary information of the affected Indian or Indian tribe.
+Not later than thirty days prior to formal approval or disapproval of any Minerals Agreement, the Secretary shall provide written findings forming the basis of his intent to approve or disapprove such agreement to the affected Indian tribe. Notwithstanding any other law, such findings and all projections, studies, data or other information possessed by the Department of the Interior regarding the terms and conditions of the Minerals Agreement, the financial return to the Indian parties thereto, or the extent, nature, value or disposition of the Indian mineral resources, or the production, products or proceeds thereof, shall be held by the Department of the Interior as privileged proprietary information of the affected Indian or Indian tribe.
 
 #### (d) Delegation; final action; appeal; burden on Secretary
 
@@ -18,7 +18,7 @@ The authority to disapprove agreements under this section may only be delegated 
 
 #### (e) Nonliability of United States; continuing obligations
 
-Where the Secretary has approved a Minerals Agreement in compliance with the provisions of this chapter and any other applicable provision of law, the United States shall not be liable for losses sustained by a tribe or individual Indian under such agreement: <i>Provided</i>, That the Secretary shall continue to have a trust obligation to ensure that the rights of a tribe or individual Indian are protected in the event of a violation of the terms of any Minerals Agreement by any other party to such agreement: <i>Provided further</i>, That nothing in this chapter shall absolve the United States from any responsibility to Indians, including those which derive from the trust relationship and from any treaties, Executive orders, or agreement between the United States and any Indian tribe.
+Where the Secretary has approved a Minerals Agreement in compliance with the provisions of this chapter and any other applicable provision of law, the United States shall not be liable for losses sustained by a tribe or individual Indian under such agreement: <i>Provided</i>, That the Secretary shall continue to have a trust obligation to ensure that the rights of a tribe or individual Indian are protected in the event of a violationof the terms of any Minerals Agreement by any other party to such agreement: <i>Provided further</i>, That nothing in this chapter shall absolve the United States from any responsibility to Indians, including those which derive from the trust relationship and from any treaties, Executive orders, or agreement between the United States and any Indian tribe.
 
 (Pub. L. 97–382, §4, Dec. 22, 1982, 96 Stat. 1938.)
 

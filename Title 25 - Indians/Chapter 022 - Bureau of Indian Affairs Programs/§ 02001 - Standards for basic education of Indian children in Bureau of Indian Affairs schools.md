@@ -22,7 +22,7 @@ The Secretary shall provide alternative or modified standards in lieu of the sta
 
 #### (e) Waiver of standards
 
-A tribal governing body, or the local school board so designated by the tribal governing body, shall have the local authority to waive, in part or in whole, the standards established under subsection <sup>2</sup> (c) and (d) of this section, where such standards are deemed by such body to be inappropriate. The tribal governing body or designated school board shall, within 60 days thereafter, submit to the Secretary a proposal for alternative standards that take into account the specific needs of the tribe's children. Such revised standards shall be established by the Secretary unless specifically rejected by the Secretary for good cause and in writing to the affected tribes or local school board, which rejection shall be final and unreviewable.
+A tribal governing body, or the local school board so designated by the tribal governing body, shall have the local authority to waive, in part or in whole, the standards established under subsection <sup>2</sup> (c) and (d) of this section, where such standards are deemed by such body to be inappropriate. The tribal governing body or designated school board shall, within 60 days thereafter, submit to the Secretary a proposal for alternative standards that take into account the specific needs of the tribe's children. Such revised standards shall be established by theSecretary unless specifically rejected by the Secretary for good cause and in writing to the affected tribes or local school board, which rejection shall be final and unreviewable.
 
 #### (f) Implementation of standards
 
@@ -42,9 +42,7 @@ Subject to subsections (e) and (f) of this section, the Secretary shall begin to
 
 (3) Whenever closure, transfer to any other authority, consolidation, or substantial curtailment of a school is under active consideration or review by any division of the Bureau or the Department of the Interior, the affected tribe, tribal governing body, and designated local school board, will be notified as soon as such consideration or review begins, kept fully and currently informed, and afforded an opportunity to comment with respect to such consideration or review. When a formal decision is made to close, transfer to any other authority, consolidate, or substantially curtail a school, the affected tribe, tribal governing body, and designated local school board shall be notified at least 6 months prior to the end of the school year preceding the proposed closure date. Copies of any such notices and information shall be transmitted promptly to the Congress and published in the Federal Register.
 
-(4) The Secretary shall make a report to Congress, the affected tribe, and the designated local school board describing the process of the active consideration or review referred to in paragraph (3). At a minimum, the report shall include a study of the impact of such action on the student population, with every effort to identify those students with particular educational and social needs, and to ensure that alternative services are available to such students. Such report shall include the description of the consultation conducted between the potential service provider, current service provider, parents, tribal representative and the tribe or tribes involved, and the Director of the Office of Indian Education Programs within the Bureau regarding such students. No irreversible action may be taken in furtherance of any suchproposed school closure, transfer to any other authority, consolidation, or substantial curtailment (including any action which would prejudice the personnel or programs of such school) until the end of the first full academic year after such report is made.
-
-(5) The Secretary may terminate, contract, transfer to any other authority, or consolidate or substantially curtail the operation or facilities of—
+(4) The Secretary may terminate, contract, transfer to any other authority, or consolidate or substantially curtail the operation or facilities of—
 
 &emsp;(A) any Bureau funded school that is operated on or after April 1, 1987,
 
@@ -76,7 +74,7 @@ There are authorized to be appropriated such sums as may be necessary, for acade
 
 (3) The programs requested under paragraph (1) shall be developed in consultation with the Indian tribe that is to be served by such program and health personnel in the local community of such tribe.
 
-(4) Schools requesting program assistance under this subsection are encouraged to involve family units and, where appropriate, tribal elders and Native healers in such instructions.
+(4) Schools requesting program assistance under this subsection are encouraged to involvefamily units and, where appropriate, tribal elders and Native healers in such instructions.
 
 #### (k) “Tribal governing body” defined
 
@@ -146,15 +144,15 @@ For purposes of this section, the term “tribal governing body” means, with r
 
 (B) If an application is treated as having been approved by the Secretary by reason of paragraph (2)(B), the action that is the subject of the application shall become effective on the date that is 18 months after the date on which the application is submitted to the Secretary, or at an earlier date determined by the Secretary.
 
-(Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, §801(c)(1), Nov. 10, 1998, 112 Stat. 3287.)
 
 #### References in Text
 
 The Goals 2000: Educate America Act, referred to in subsec. (a)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), which is classified principally to chapter 68 (§5801 et seq.) of Title 20, Education (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 20 and Tables.
 
-Section 315(b)(4) of the Goals 2000: Educate America Act, referred to in subsec. (a)(1), was redesignated section 315(b)(3) of the Act, which is classified to section 5895(b)(3) of Title 20, by Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(14)(A)(iii)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Section 315(b)(4) of the Goals 2000: Educate America Act, referred to in subsec. (a)(1), was redesignated section 315(b)(3) of the Act, which is classified to section 5895(b)(3) of Title 20, Education, by Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(14)(A)(iii)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(5)(C) and (j)(1)(C), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(4)(C) and (j)(1)(C), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act referred to in subsecs. (j)(1)(B) and (<i>l</i>)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to part A (§450 et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -163,6 +161,8 @@ The Indian Self-Determination and Education Assistance Act referred to in subsec
 A prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, §2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, §502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, §2, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–570, title IV, §4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, §1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, §312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 #### Amendments
+
+1998—Subsec. (h)(4), (5). Pub. L. 105–362 redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The Secretary shall make a report to Congress, the affected tribe, and the designated local school board describing the process of the active consideration or review referred to in paragraph (3). At a minimum, the report shall include a study of the impact of such action on the student population, with every effort to identify those students with particular educational and social needs, and to ensure that alternative services are available to such students. Such report shall include the description of the consultation conducted between the potential service provider, current service provider, parents, tribal representative and the tribe or tribes involved, and the Director of the Office of Indian Education Programs within the Bureau regarding such students. No irreversible action may be taken in furtherance of any such proposed school closure, transfer to any other authority, consolidation, or substantial curtailment (including any action which would prejudice the personnel or programs of such school) until the end of the first full academic year after such report is made.”
 
 1996—Subsec. (b). Pub. L. 104–134 substituted “203(a)(2)” for “213(a)”.
 
@@ -248,11 +248,11 @@ Assistance.—The Secretary is authorized to enter into agreements with other or
 
 “(g)
 
-Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
+Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and theCommittee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
 
 #### Native Americans Educational Assistance Act
 
-Pub. L. 102–524, §4, Oct. 26, 1992, 106 Stat. 3437, known as the “Native Americans Educational Assistance Act”, authorized Secretary of the Interior to enter into an agreement with a nonprofit captioning agency engaged in manufacturing and distributing captioning decoders, for the purpose of carrying out a demonstration project to determine effectiveness of captioned educational materials as an educational tool in schools operated by Bureau of Indian Affairs, directed Secretary, prior to the expiration of the 12-month period following the date of the agreement, to report to Congress the results of the demonstration project carried out pursuant to such agreement, together with recommendations of the Secretary, and authorized to be appropriated sums necessary to carry out this section.
+Pub. L. 102–524, §4, Oct. 26, 1992, 106 Stat. 3437, as amended by Pub. L. 105–362, title VIII, §801(f), Nov. 10, 1998, 112 Stat. 3288, known as the “Native Americans Educational Assistance Act”, authorized Secretary of the Interior to enter into an agreement with a nonprofit captioning agency engaged in manufacturing and distributing captioning decoders, for the purpose of carrying out a demonstration project to determine effectiveness of captioned educational materials as an educational tool in schools operated by Bureau of Indian Affairs, and authorized to be appropriated sums necessary to carry out this section.
 
 #### White House Conference on Indian Education
 
@@ -260,7 +260,7 @@ Part E (§§5501–5508) of title V of Pub. L. 100–297, as amended by Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2002, 2007, 2010, 2017, 2019, 2506 of this title.
+This section is referred to in sections 2002, 2007, 2010, 2017, 2506 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 | (a) | Covered projects and programs. |
 | (b) | Recruitment and placement procedures for local and national placement of volunteers; establishment, requirements, etc. |
 | (c) | Public awareness and recruit activities; dissemination of information; reimbursement of costs; coordination; obligation of funds. |
-| (d) | Provision of plans to volunteers for job advancement; coordination with private industry councils under Job Training Partnership Act. |
+| (d) | Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards. |
 | (e) | Educational and vocational counseling for volunteers; Director to provide. |
 | (f) | Terms and conditions; restrictions on political activities; place of service. |
 | (g) | Program or project submittal to Governor; commencement and termination of service. |
@@ -262,7 +262,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 6022, 12511, 12638, 12639, 12651b, 12651d, 12651f of this title; title 20 sections 1078–10, 1087ee, 1092, 1203a, 1206a.
+This chapter is referred to in sections 6022, 12511, 12638, 12639, 12651b, 12651d, 12651f of this title; title 20 sections 1087ee, 1092.
 
 
 ---

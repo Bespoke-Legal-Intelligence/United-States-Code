@@ -1,12 +1,14 @@
 ### §112. Limitations on exclusive rights: Ephemeral recordings
 
-(a) Notwithstanding the provisions of section 106, and except in the case of a motion picture or other audiovisual work, it is not an infringement of copyright for a transmitting organization entitled to transmit to the public a performance or display of a work, under a license or transfer of the copyright or under the limitations on exclusive rights in sound recordings specified by section 114(a), to make no more than one copy or phonorecord of a particular transmission program embodying the performance or display, if—
+(a)(1) Notwithstanding the provisions of section 106, and except in the case of a motion picture or other audiovisual work, it is not an infringement of copyright for a transmitting organization entitled to transmit to the public a performance or display of a work, under a license, including a statutory license under section 114(f), or transfer of the copyright or under the limitations on exclusive rights in sound recordings specified by section 114(a), or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis, to make no more than one copy or phonorecord of a particular transmission program embodying the performance or display, if—
 
-&emsp;(1) the copy or phonorecord is retained and used solely by the transmitting organization that made it, and no further copies or phonorecords are reproduced from it; and
+&emsp;(A) the copy or phonorecord is retained and used solely by the transmitting organization that made it, and no further copies or phonorecords are reproduced from it; and
 
-&emsp;(2) the copy or phonorecord is used solely for the transmitting organization's own transmissions within its local service area, or for purposes of archival preservation or security; and
+&emsp;(B) the copy or phonorecord is used solely for the transmitting organization's own transmissions within its local service area, or for purposes of archival preservation or security; and
 
-&emsp;(3) unless preserved exclusively for archival purposes, the copy or phonorecord is destroyed within six months from the date the transmission program was first transmitted to the public.
+&emsp;(C) unless preserved exclusively for archival purposes, the copy or phonorecord is destroyed within six months from the date the transmission program was first transmitted to the public.
+
+(2) In a case in which a transmitting organization entitled to make a copy or phonorecord under paragraph (1) in connection with the transmission to the public of a performance or display of a work is prevented from making such copy or phonorecord by reason of the application by the copyright owner of technical measures that prevent the reproduction of the work, the copyright owner shall make available to the transmitting organization the necessary means for permitting the making of such copy or phonorecord as permitted under that paragraph, if it is technologically feasible and economically reasonable for the copyright owner to do so. If the copyright owner fails to do so in a timely manner in light of the transmitting organization's reasonable business requirements, the transmitting organization shall not be liable for a violation of section 1201(a)(1) of this title for engaging in such activities as are necessary to make such copies or phonorecords as permitted under paragraph (1) of this subsection.
 
 (b) Notwithstanding the provisions of section 106, it is not an infringement of copyright for a governmental body or other nonprofit organization entitled to transmit a performance or display of a work, under section 110(2) or under the limitations on exclusive rights in sound recordings specified by section 114(a), to make no more than thirty copies or phonorecords of a particular transmission program embodying the performance or display, if—
 
@@ -28,11 +30,51 @@
 
 &emsp;(2) any such copy or phonorecord is used solely for transmissions authorized under section 110(8), or for purposes of archival preservation or security; and
 
-&emsp;(3) the governmental body or nonprofit organization permitting any use of any such copy or phonorecord by any governmental body or nonprofit organization under this subsection does not make any charge for such use.
+&emsp;(3) the governmental body or nonprofit organization permitting any use of any such copyor phonorecord by any governmental body or nonprofit organization under this subsection does not make any charge for such use.
 
-(e) The transmission program embodied in a copy or phonorecord made under this section is not subject to protection as a derivative work under this title except with the express consent of the owners of copyright in the preexisting works employed in the program.
+(e)
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2558.)
+Statutory License.—(1) A transmitting organization entitled to transmit to the public a performance of a sound recording under the limitation on exclusive rights specified by section 114(d)(1)(C)(iv) or under a statutory license in accordance with section 114(f) is entitled to a statutory license, under the conditions specified by this subsection, to make no more than 1 phonorecord of the sound recording (unless the terms and conditions of the statutory license allow for more), if the following conditions are satisfied:
+
+&emsp;(A) The phonorecord is retained and used solely by the transmitting organization that made it, and no further phonorecords are reproduced from it.
+
+&emsp;(B) The phonorecord is used solely for the transmitting organization's own transmissions originating in the United States under a statutory license in accordance with section 114(f) or the limitation on exclusive rights specified by section 114(d)(1)(C)(iv).
+
+&emsp;(C) Unless preserved exclusively for purposes of archival preservation, the phonorecord is destroyed within 6 months from the date the sound recording was first transmitted to the public using the phonorecord.
+
+&emsp;(D) Phonorecords of the sound recording have been distributed to the public under the authority of the copyright owner or the copyright owner authorizes the transmitting entity to transmit the sound recording, and the transmitting entity makes the phonorecord under this subsection from a phonorecord lawfully made and acquired under the authority of the copyright owner.
+
+(3) <sup>1</sup> Notwithstanding any provision of the antitrust laws, any copyright owners of sound recordings and any transmitting organizations entitled to a statutory license under this subsection may negotiate and agree upon royalty rates and license terms and conditions for making phonorecords of such sound recordings under this section and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments.
+
+(4) No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by paragraph (2) of this subsection during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree. Such rates shall include a minimum fee for each type of service offered by transmitting organizations. Any copyright owners of sound recordings or any transmitting organizations entitled to a statutory license under this subsection may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings. The parties to each negotiation proceeding shall bear their own costs.
+
+(5) In the absence of license agreements negotiated under paragraph (3), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (4), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of reasonable rates and terms which, subject to paragraph (6), shall be binding on all copyright owners of sound recordings and transmitting organizations entitled to a statutory license under this subsection during the period beginning on the date of the enactment of the Digital Millennium Copyright Act and ending on December 31, 2000, or such other date as the parties may agree. Such rates shall include a minimum fee for each type of service offered by transmitting organizations. The copyright arbitration royalty panel shall establish rates that most clearly represent the fees that would have been negotiated in the marketplace between a willing buyer and a willing seller. In determining such rates and terms, the copyright arbitration royalty panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
+
+&emsp;(A) whether use of the service may substitute for or may promote the sales of phonorecords or otherwise interferes with or enhances the copyright owner's traditional streams of revenue; and
+
+&emsp;(B) the relative roles of the copyright owner and the transmitting organization in the copyrighted work and the service made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, and risk.
+
+> In establishing such rates and terms, the copyright arbitration royalty panel may consider the rates and terms under voluntary license agreements negotiated as provided in paragraphs (3) and (4). The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by transmitting organizations entitled to obtain a statutory license under this subsection.
+
+(6) License agreements voluntarily negotiated at any time between 1 or more copyright owners of sound recordings and 1 or more transmitting organizations entitled to obtain a statutory license under this subsection shall be given effect in lieu of any determination by a copyright arbitration royalty panel or decision by the Librarian of Congress.
+
+(7) Publication of a notice of the initiation of voluntary negotiation proceedings as specified in paragraph (4) shall be repeated, in accordance with regulations that the Librarian of Congress shall prescribe, in the first week of January 2000, and at 2-year intervals thereafter, except to the extent that different years for the repeating of such proceedings may be determined in accordance with paragraph (4). The procedures specified in paragraph (5) shall be repeated, in accordance with regulations that the Librarian of Congress shall prescribe, upon filing of a petition in accordance with section 803(a)(1), during a 60-day period commencing on July 1, 2000, and at 2-year intervals thereafter, except to the extent that different years for the repeating of such proceedings may be determined in accordance with paragraph (4). The procedures specified in paragraph (5) shall be concluded in accordance with section 802.
+
+(8)(A) Any person who wishes to make a phonorecord of a sound recording under a statutory license in accordance with this subsection may do so without infringing the exclusive right of the copyright owner of the sound recording under section 106(1)—
+
+&emsp;(i) by complying with such notice requirements as the Librarian of Congress shall prescribe by regulation and by paying royalty fees in accordance with this subsection; or
+
+&emsp;(ii) if such royalty fees have not been set, by agreeing to pay such royalty fees as shall be determined in accordance with this subsection.
+
+(B) Any royalty payments in arrears shall be made on or before the 20th day of the month next succeeding the month in which the royalty fees are set.
+
+(9) If a transmitting organization entitled to make a phonorecord under this subsection is prevented from making such phonorecord by reason of the application by the copyright owner of technical measures that prevent the reproduction of the sound recording, the copyright owner shall make available to the transmitting organization the necessary means for permitting the making of such phonorecord as permitted under this subsection, if it is technologically feasible and economically reasonable for the copyright owner to do so. If the copyright owner fails to do so in a timely manner in light of the transmitting organization's reasonable business requirements, the transmitting organization shall not be liable for a violation of section 1201(a)(1) of this title for engaging in such activities as are necessary to make such phonorecords as permitted under this subsection.
+
+(10) Nothing in this subsection annuls, limits, impairs, or otherwise affects in any way the existence or value of any of the exclusive rights of the copyright owners in a sound recording, except as otherwise provided in this subsection, or in a musical work, including the exclusive rights to reproduce and distribute a sound recording or musical work, including by means of a digital phonorecord delivery, under sections 106(1), 106(3), and 115, and the right to perform publicly a sound recording or musical work, including by means of a digital audio transmission, under sections 106(4) and 106(6).
+
+(f) The transmission program embodied in a copy or phonorecord made under this section is not subject to protection as a derivative work under this title except with the express consent of the owners of copyright in the preexisting works employed in the program.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2558; Pub. L. 105–304, title IV, §§402, 405(b), Oct. 28, 1998, 112 Stat. 2888, 2899.)
 
 #### Historical and Revision Notes
 
@@ -74,7 +116,23 @@ Despite objections by music copyright owners, the Committee found this exemption
 
 <b>Ephemeral Recordings for Transmissions to Handicapped Audiences.</b> As a counterpart to its amendment of section 110(8), the Committee adopted a new provision, subsection (d) of section 112, to provide an ephemeral recording exemption in the case of transmissions to the blind and deaf. New subsection would permit the making of one recording of a performance exempted under section 110(8), and its retention for an unlimited period. It would not permit the making of further reproductions or their exchange with other organizations.
 
-<b>Copyright Status of Ephemeral Recordings.</b> A program reproduced in an ephemeral recording made under section 112 in many cases will constitute a motion picture, a sound recording, or some other kind of derivative work, and will thus be potentially copyrightable under section 103. In section 112(e) it is provided that ephemeral recordings are not to be copyrightable as derivative works except with the consent of the owners of the copyrighted material employed in them.
+<b>Copyright Status of Ephemeral Recordings.</b> A program reproduced in an ephemeral recording made under section 112 in many cases will constitute a motion picture, a sound recording, or some other kind of derivative work, and will thus be potentially copyrightableunder section 103. In section 112(e) it is provided that ephemeral recordings are not to be copyrightable as derivative works except with the consent of the owners of the copyrighted material employed in them.
+
+#### References in Text
+
+The antitrust laws, referred to in subsec. (e)(3), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+
+The date of the enactment of the Digital Millennium Copyright Act, referred to in subsec. (e)(4), (5), is the date of enactment of Pub. L. 105–304, which was approved Oct. 28, 1998.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–304, §402, designated existing provisions as par. (1), in introductory provisions inserted “, including a statutory license under section 114(f),” after “under a license” and “or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis,” after “114(a),”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+
+Subsecs. (e), (f). Pub. L. 105–304, §405(b), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Construction of 1998 Amendment
+
+Pub. L. 105–304, title IV, §405(c), Oct. 28, 1998, 112 Stat. 2902, provided that: “Nothing in this section \[amending this section and sections 114 and 801 to 803 of this title and enacting provisions set out as notes under section 114 of this title\] or the amendments made by this section shall affect the scope of section 112(a) of title 17, United States Code, or the entitlement of any person to an exemption thereunder.”
 
 #### Cross References
 
@@ -84,5 +142,7 @@ Exclusive rights in copyrighted work, see section 106 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 501, 511 of this title; title 18 section 2319.
+This section is referred to in sections 106, 501, 511, 802, 803 of this title; title 18 section 2319.
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

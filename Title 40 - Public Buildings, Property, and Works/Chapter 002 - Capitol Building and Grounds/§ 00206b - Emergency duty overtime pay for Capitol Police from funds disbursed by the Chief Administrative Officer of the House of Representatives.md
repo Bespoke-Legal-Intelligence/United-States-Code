@@ -62,3 +62,7 @@ Subsec. (d). Pub. L. 104–186, §221(11)(A), substituted “House Oversight” 
 
 Subsec. (g). Pub. L. 104–186, §221(11)(B), struck out subsec. (g) which read as follows: “There shall be paid out of the contingent fund of the House of Representatives, until otherwise provided by law, such sums as may be necessary to make payments of overtime pay under the provisions of this section.”
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

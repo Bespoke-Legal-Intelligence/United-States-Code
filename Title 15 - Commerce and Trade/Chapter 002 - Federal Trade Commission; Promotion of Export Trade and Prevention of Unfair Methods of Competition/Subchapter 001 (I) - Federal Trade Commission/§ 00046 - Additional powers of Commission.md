@@ -46,7 +46,7 @@ No officer or employee of the Commission or any Commissioner may publish or disc
 
 Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
-(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Nov. 16, 1973, Pub. L. 93–153, title IV, §408(e), 87 Stat. 592; Jan. 4, 1975, Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), 88 Stat. 2193, 2198; July 23, 1979, Pub. L. 96–37, §1(b), 93 Stat. 95; May 28, 1980, Pub. L. 96–252, §§3–5(a), 94 Stat. 374, 375; Aug. 10, 1987, Pub. L. 100–86, title VII, §715(a), (b), 101 Stat. 655; Nov. 2, 1994, Pub. L. 103–437, §5(a), 108 Stat. 4582; Nov. 2, 1994, Pub. L. 103–438, §3(e)(2)(A), 108 Stat. 4598.)
+(Sept. 26, 1914, ch. 311, §6, 38 Stat. 721; Pub. L. 93–153, title IV, §408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, §1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, §715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, §3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598.)
 
 #### References in Text
 
@@ -66,13 +66,13 @@ Subsec. (i). Pub. L. 103–438 added subsec. (i).
 
 Pub. L. 100–86, §715(b), in proviso following subsec. (h), inserted reference to Federal credit unions described in section 57a(f)(4) of this title and reference to in business as a Federal credit union.
 
-1980—Subsec. (f). Pub. L. 96–252, §3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission's authority to make public trade secrets or commercial or financial informationwhich is obtained from any person and which is privileged or confidential.
+1980—Subsec. (f). Pub. L. 96–252, §3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission's authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
 
 Pub. L. 96–252, §§3(b)–5(a), inserted three undesignated paragraphs following subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
 
 1979—Subsecs. (a), (b). Pub. L. 96–37, §1(b)(1), (2), inserted reference to savings and loan institutions described in section 57a(f)(3) of this title.
 
-Pub. L. 96–37, §1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
+Pub. L. 96–37, §1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries thatare not engaged or are engaged only incidentally in business as savings and loan institutions.
 
 1975—Subsec. (a). Pub. L. 93–637, §§201(b), 203(a)(1), substituted “in or whose business affects commerce” for “in commerce”, “person, partnership, or corporation” for “corporation”, and “persons, partnerships, and corporations” for “corporations and to individuals, associations, and partnerships”.
 

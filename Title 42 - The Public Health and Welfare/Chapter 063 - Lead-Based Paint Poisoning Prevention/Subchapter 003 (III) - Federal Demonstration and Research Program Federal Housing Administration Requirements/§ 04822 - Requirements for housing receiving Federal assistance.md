@@ -38,7 +38,7 @@
 
 #### (B) Target housing constructed between 1960 and 1978
 
-&emsp;&emsp;Beginning on January 1, 1995, procedures established under paragraphs (1) and (2) shall require an inspection for lead-based paint and lead-based paint hazards in all federally owned target housing constructed between 1960 and 1978. The results of such inspections shall be made available to prospective purchasers, identifying the presence of lead-based paint and lead-based paint hazards on a surface-by-surface basis. The Secretary shall have the discretion to waive the requirement of this subparagraph for housing in which a federally funded risk assessment,performed by a certified contractor, has determined no lead-based paint hazards are present.
+&emsp;&emsp;Beginning on January 1, 1995, procedures established under paragraphs (1) and (2) shall require an inspection for lead-based paintand lead-based paint hazards in all federally owned target housing constructed between 1960 and 1978. The results of such inspections shall be made available to prospective purchasers, identifying the presence of lead-based paint and lead-based paint hazards on a surface-by-surface basis. The Secretary shall have the discretion to waive the requirement of this subparagraph for housing in which a federally funded risk assessment, performed by a certified contractor, has determined no lead-based paint hazards are present.
 
 #### (C) Budget authority
 
@@ -64,19 +64,19 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (1) Transitional testing and abatement in public housing receiving modernization assistance
 
-&emsp;In the case of public housing assisted under section 1437<i>l</i> of this title, the Secretary shall require the inspection described in subsection (c) of this section for—
+&emsp;In the case of public housing assisted with capital assistance provided under section 1437g of this title, the Secretary shall require the inspection described in subsection (c) of this section for—
 
 &emsp;&emsp;(A) a random sample of dwellings and common areas in all public housing projects assisted under such section; and
 
 &emsp;&emsp;(B) each dwelling in any public housing project in which there is a dwelling determined under subparagraph (A) to have lead-based paint hazards, except that the Secretary shall not require the inspection of each dwelling if the Secretary requires the abatement of the lead-based paint hazards for the surfaces of each dwelling in the public housing project that correspond to the surfaces in the sample determined to have such hazards under subparagraph (A).
 
-> &emsp;The Secretary shall require the inspection of all housing subject to this paragraph in accordance with the modernization schedule. A public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> of this title. The Secretary shall require abatement of lead-based paint and lead-based paint hazards in housing in which the test results equal or exceed the standard established by or under subsection (c) of this section. Final inspection and certification after abatement shall be made by a qualified inspector, industrial hygienist, or local public health official.
+> &emsp;The Secretary shall require the inspection of all housing subject to this paragraph in accordance with the modernization schedule. A public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for capital assistance provided under section 1437g of this title. The Secretary shall require abatement of lead-based paint and lead-based paint hazards in housing in which the test results equal or exceed the standard established by or under subsection (c) of this section. Final inspection and certification after abatement shall be made by a qualified inspector, industrial hygienist, or local public health official.
 
 #### (2) Abatement demonstration program
 
 #### (A) Abatement demonstration program
 
-&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> of this title.
+&emsp;&emsp;In carrying out the requirements of this subsection with respect to single-family and multifamily properties owned by the Department of Housing and Urban Development and public housing, the Secretary shall utilize a sufficient variety of abatement methods in a sufficient number of areas and circumstances to demonstrate their relative cost-effectiveness and their applicability to various types of housing. For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containinglead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> <sup>1</sup> of this title.
 
 #### (B) Report
 
@@ -94,7 +94,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 &emsp;&emsp;&emsp;(vi) an estimate of the amount, characteristics, and regional distribution of housing in the United States that contains lead-based paint hazards at differing levels of contamination; and
 
-&emsp;&emsp;&emsp;(vii) the merits of an interim containment protocol for public housing dwellings that are determined to have lead-based paint hazards but for which comprehensive improvement assistance under section 1437<i>l</i> of this title is not available.
+&emsp;&emsp;&emsp;(vii) the merits of an interim containment protocol for public housing dwellings that are determined to have lead-based paint hazards but for which comprehensive improvement assistance under section 1437<i>l</i> <sup>1</sup> of this title is not available.
 
 #### (3) Testing and abatement of other public housing
 
@@ -126,19 +126,25 @@ The provisions of this section shall not apply to—
 
 #### (f) Funding
 
-The Secretary shall carry out the provisions of this section utilizing available Federal funding sources. The Secretary shall use funds available for comprehensive improvement assistance under section 1437<i>l</i> of this title to carry out this section in public housing. The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).
+The Secretary shall carry out the provisions of this section utilizing available Federal funding sources. The Secretary shall use funds available under the Capital Fund under section 1437g of this title to carry out this section in public housing. The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).
 
 #### (g) Interpretation of section
 
 This section may not be construed to affect the responsibilities of the Environmental Protection Agency with respect to the protection of the public health from hazards posed by lead-based paint.
 
-(Pub. L. 91–695, title III, §302, as added Pub. L. 93–151, §4(a)(1), Nov. 9, 1973, 87 Stat. 566; amended Pub. L. 100–242, title V, §566(a), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 100–628, title X, §1088(a)–(f), (h), Nov. 7, 1988, 102 Stat. 3280–3282; Pub. L. 102–550, title X, §§1012(a)–(d), 1013, Oct. 28, 1992, 106 Stat. 3904, 3905, 3907.)
+(Pub. L. 91–695, title III, §302, as added Pub. L. 93–151, §4(a)(1), Nov. 9, 1973, 87 Stat. 566; amended Pub. L. 100–242, title V, §566(a), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 100–628, title X, §1088(a)–(f), (h), Nov. 7, 1988, 102 Stat. 3280–3282; Pub. L. 102–550, title X, §§1012(a)–(d), 1013, Oct. 28, 1992, 106 Stat. 3904, 3905, 3907; Pub. L. 105–276, title V, §522(b)(4), Oct. 21, 1998, 112 Stat. 2564.)
 
 #### References in Text
+
+Section 1437<i>l</i> of this title, referred to in subsec. (d)(2)(A), (B)(vii), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 For effective date of the regulations issued to carry out this subsection, referred to in subsec. (d)(2)(B), see section 566(b) of Pub. L. 100–242, set out as a note below.
 
 #### Amendments
+
+1998—Subsec. (d)(1). Pub. L. 105–276, §522(b)(4)(A), in introductory provisions, substituted “assisted with capital assistance provided under section 1437g of this title” for “assisted under section 1437<i>l</i> of this title” and, in concluding provisions, substituted “capital assistance provided under section 1437g of this title” for “assistance under section 1437<i>l</i> of this title”.
+
+Subsec. (f). Pub. L. 105–276, §522(b)(4)(B), substituted “under the Capital Fund under section 1437g of this title” for “for comprehensive improvement assistance under section 1437<i>l</i> of this title”.
 
 1992—Pub. L. 102–550, §1012(a)(1), amended section catchline generally.
 
@@ -189,6 +195,10 @@ Subsec. (d)(3), (4). Pub. L. 100–628, §1088(d), added par. (3) and redesignat
 Subsec. (f). Pub. L. 100–628, §1088(e), inserted at end “The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).”
 
 Subsec. (g). Pub. L. 100–628, §1088(h), added subsec. (g).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 #### Effective Date
 

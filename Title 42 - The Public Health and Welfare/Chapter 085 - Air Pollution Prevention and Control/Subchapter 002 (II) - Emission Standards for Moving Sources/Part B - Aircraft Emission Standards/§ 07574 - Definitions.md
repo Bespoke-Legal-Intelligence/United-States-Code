@@ -2,7 +2,7 @@
 
 Terms used in this part (other than Administrator) shall have the same meaning as such terms have under section 40102(a) of title 49.
 
-(July 14, 1955, ch. 360, title II, §234, as added Dec. 31, 1970, Pub. L. 91–604, §11(a)(1), 84 Stat. 1705.)
+(July 14, 1955, ch. 360, title II, §234, as added Pub. L. 91–604, §11(a)(1), Dec. 31, 1970, 84 Stat. 1705.)
 
 #### Codification
 

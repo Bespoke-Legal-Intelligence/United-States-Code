@@ -156,7 +156,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -364,7 +364,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(III) actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
 
-&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development andproduction efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(V) in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
 
@@ -432,7 +432,7 @@ For purposes of this subtitle—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In investigations under part II of this subtitle, the Commission shall consider whether dumping in the markets of foreign countries (as evidenced by dumping findings or antidumping remedies in other WTO member markets against the same class or kind of merchandise manufactured or exported by the same party as under investigation) suggests a threat of material injury to the domestic industry. In the course of its investigation,the Commission shall request information from the foreign manufacturer, exporter, or United States importer concerning this issue.
+&emsp;&emsp;&emsp;&emsp;In investigations under part II of this subtitle, the Commission shall consider whether dumping in the markets of foreign countries (as evidenced by dumping findings or antidumping remedies in other WTO member markets against the same class or kind of merchandise manufactured or exported by the same party as under investigation) suggests a threat of material injury to the domestic industry. In the course of its investigation, the Commission shall request information from the foreign manufacturer, exporter, or United States importer concerning this issue.
 
 #### (II) WTO member market
 
@@ -478,7 +478,7 @@ For purposes of this subtitle—
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -710,7 +710,7 @@ For purposes of this subtitle—
 
 #### (D) Regional industries
 
-&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of all subject merchandise imported into the United States.
+&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of allsubject merchandise imported into the United States.
 
 #### (25) Subject merchandise
 
@@ -726,7 +726,7 @@ For purposes of this subtitle—
 
 #### (28) Exporter or producer
 
-&emsp;The term “exporter or producer” means the exporter of the subject merchandise, the producer of the subject merchandise, or both where appropriate. For purposes of section 1677b of this title, the term “exporter or producer” includes both the exporter of the subject merchandise and the producer of the same subject merchandise to the extent necessaryto accurately calculate the total amount incurred and realized for costs, expenses, and profits in connection with production and sale of that merchandise.
+&emsp;The term “exporter or producer” means the exporter of the subject merchandise, the producer of the subject merchandise, or both where appropriate. For purposes of section 1677b of this title, the term “exporter or producer” includes both the exporter of the subject merchandise and the producer of the same subject merchandise to the extent necessary to accurately calculate the total amount incurred and realized for costs, expenses, and profits in connection with production and sale of that merchandise.
 
 #### (29) WTO Agreement
 
@@ -820,7 +820,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country's status as a developing or least developed country with respect to any other law.
 
-(June 17, 1930, ch. 497, title VII, §771, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 176; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §612(a), 98 Stat. 3033; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(9), 100 Stat. 2922; Aug. 23, 1988, Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, 102 Stat. 1184, 1187, 1203–1206, 1210; Sept. 28, 1988, Pub. L. 100–449, title IV, §403(d), 102 Stat. 1887; Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(5), 102 Stat. 3807; Aug. 20, 1990, Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), 104 Stat. 653, 659, 660; Dec. 8, 1993, Pub. L. 103–182, title IV, §412(b), title VI, §637(b), 107 Stat. 2146, 2203; Dec. 8, 1994, Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Oct. 11, 1996, Pub. L. 104–295, §20(b)(7), (14), 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### References in Text
 
@@ -874,7 +874,7 @@ Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of c
 
 &emsp;“(II) sales transactions involving the imports are isolated and sporadic, and
 
-&emsp;“(III) the domestic market for the like product is price sensitive by reason of the nature of the product,so that a small quantity of imports can result in price suppression or depression.
+&emsp;“(III) the domestic market for the like product is price sensitive by reason of the nature of the product, so that a small quantity of imports can result in price suppression or depression.
 
 > For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the product of any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
 

@@ -24,7 +24,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 #### (2) Date certain for contributions
 
-&emsp;Amounts described in paragraph (1) that are returned to the Secretary before the fourth quarter of a fiscal year shall be obligated before the end of such fiscal year, and may not be obligated before the fourth quarter. For purposes of the preceding sentence, amounts returned to the Secretary during the last quarter of a fiscal year are deemed to have been returned during the first three quarters of the succeeding fiscal year.
+&emsp;Amounts described in paragraph (1) that are returned to the Secretary shall be obligated before the end of the succeeding fiscal year.
 
 #### (3) Preference in making contributions
 
@@ -42,13 +42,15 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 &emsp;(B) For purposes of subparagraph (A), the conditions referred to in such subparagraph shall be applied with respect to graduates of the school involved whose date of graduation occurred approximately 3 years before June 30 of the fiscal year preceding the fiscal year for which the Federal capital contribution involved is made.
 
-(July 1, 1944, ch. 373, title VII, §735, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2021; amended Oct. 27, 1992, Pub. L. 102–531, titleIII, §313(a)(1), 106 Stat. 3507; June 10, 1993, Pub. L. 103–43, title XX, §2014(d), 107 Stat. 217.)
+(July 1, 1944, ch. 373, title VII, §735, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2021; amended Pub. L. 102–531, title III, §313(a)(1), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 103–43, title XX, §2014(d), June 10, 1993, 107 Stat. 217; Pub. L. 105–392, title I, §134(c), Nov. 13, 1998, 112 Stat. 3578.)
 
 #### Prior Provisions
 
 A prior section 735 of act July 1, 1944, was classified to section 294h of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments
+
+1998—Subsec. (e)(2). Pub. L. 105–392 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Amounts described in paragraph (1) that are returned to the Secretary before the fourth quarter of a fiscal year shall be obligated before the end of such fiscal year, and may not be obligated before the fourth quarter. For purposes of the preceding sentence, amounts returned to the Secretary during the last quarter of a fiscal year are deemed to have been returned during the first three quarters of the succeeding fiscal year.”
 
 1993—Subsec. (f). Pub. L. 103–43 added subsec. (f).
 

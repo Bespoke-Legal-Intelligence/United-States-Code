@@ -1,6 +1,0 @@
-### §5204. Administrative services and support
-
-The Administrator may provide personnel, facilities, and other administrative services to the Foundation and shall require and accept reimbursements for such personnel, facilities, and services that shall be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services. Notwithstanding any other provision of law, Federal personnel and stationery shall not be used to solicit funding for the Foundation.
-
-(Pub. L. 102–522, title II, §205, Oct. 26, 1992, 106 Stat. 3419.)
-

@@ -329,7 +329,7 @@ Additional definition of housing owner; restrictions on payments.
 
 (k)
 
-Preferences in assistance.
+Repealed.
 
 (<i>l</i>)
 
@@ -908,6 +908,10 @@ Use of FHA insurance with assistance under 42 U.S.C. 1437f.
 
 Annual report.
 
+(x)
+
+Management deficiencies report.
+
 |  |  |
 | :--- | ---: |
 | 1709–1. | Repealed. |
@@ -921,7 +925,7 @@ Annual report.
 
 (a)
 
-Conveyance, sale, and assignment by mortgagee; debentures and certificates of claim; cost of foreclosure; direct conveyances.
+In general.
 
 (b)
 
@@ -949,6 +953,10 @@ Handling and disposal of property; settlement of claims.
 
 (h)
 
+Disposition of assets in revitalization areas.
+
+(i)
+
 Mortgagor's or mortgagee's interest in property or claim conveyed.
 
 (j)
@@ -957,7 +965,7 @@ Foreclosure; payment and cessation of obligation.
 
 (k)
 
-Debentures; inclusion of payments and taxes; termination of obligation to pay premiums.
+Repealed.
 
 (<i>l</i>)
 
@@ -1329,21 +1337,25 @@ Insurance of mortgages covering multifamily housing projects including units not
 
 (a)
 
-Payment of partial claim.
+Loss mitigation.
 
 (b)
 
-Assignment.
+Payment of partial claim.
 
 (c)
 
-Prohibition of judicial review.
+Assignment.
 
 (d)
 
-Repealed.
+Prohibition of judicial review.
 
 (e)
+
+Repealed.
+
+(f)
 
 Applicability of other laws.
 
@@ -1613,7 +1625,7 @@ Establishment of basic and fair market rental charges; rental for dwelling units
 
 (g)
 
-Collection of excess rental charges; credit to reserve fund for additional assistance payments; retention by project owner.
+Collection of excess rental charges; credit to reserve for additional assistance payments; retention by project owner.
 
 (h)
 
@@ -1779,6 +1791,18 @@ Budget, debt management, and related counseling services.
 Aggregate principal balance of mortgages insured.
 
 (g)
+
+Premium fee.
+
+(h)
+
+Assumption of loss.
+
+(i)
+
+Guarantees.
+
+(j)
 
 Authorization of appropriations.
 
@@ -2149,6 +2173,10 @@ Requirements for standard housing.
 
 (k)
 
+Environmental review.
+
+(<i>l</i>)
+
 Definitions.
 
 |  |  |
@@ -2289,7 +2317,7 @@ Mortgage notes described.
 
 |  |  |
 | :--- | ---: |
-| 1715z–20. | Demonstration program of insurance of home equity conversion mortgages for elderly homeowners. |
+| 1715z–20. | Insurance of home equity conversion mortgages for elderly homeowners. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2335,7 +2363,7 @@ Safeguard to prevent displacement of homeowner.
 
 (k)
 
-Reports to Congress.
+Funding for counseling and consumer education and outreach.
 
 |  |  |
 | :--- | ---: |
@@ -3724,7 +3752,7 @@ Preferences.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 474; title 40 App. section 213; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 12709, 12852, 13632; title 48 section 1425.
+This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 474; title 40 App. section 213; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 12709, 12852, 13632; title 48 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

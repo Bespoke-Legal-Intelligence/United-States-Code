@@ -68,17 +68,23 @@ For the purposes of this chapter—
 
 &emsp;(31) the term “coal laboratory”, as used in subchapter VIII of this chapter, means a university coal research laboratory established and operated pursuant to a designation made under section 1311 of this title;
 
-&emsp;(32) the term “institution of higher education” as used in subchapters VIII and IX of this chapter, means any such institution as defined by section 1141(a) of title 20;
+&emsp;(32) the term “institution of higher education” as used in subchapters VIII and IX of this chapter, means any such institution as defined by section 1001 of title 20;
 
 &emsp;(33) the term “unanticipated event or condition” as used in section 1260(e) of this title means an event or condition encountered in a remining operation that was not contemplated by the applicable surface coal mining and reclamation permit; and
 
 &emsp;(34) the term “lands eligible for remining” means those lands that would otherwise be eligible for expenditures under section 1234 of this title or under section 1232(g)(4) of this title.
 
-(Pub. L. 95–87, title VII, §701, Aug. 5, 1977, 91 Stat. 516; Pub. L. 102–486, title XXV, §2503(c), Oct. 24, 1992, 106 Stat. 3103.)
+(Pub. L. 95–87, title VII, §701, Aug. 5, 1977, 91 Stat. 516; Pub. L. 102–486, title XXV, §2503(c), Oct. 24, 1992, 106 Stat. 3103; Pub. L. 105–244, title I, §102(a)(10), Oct. 7, 1998, 112 Stat. 1620.)
 
 #### Amendments
 
+1998—Par. (32). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
 1992—Pars. (33), (34). Pub. L. 102–486 added pars. (33) and (34).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

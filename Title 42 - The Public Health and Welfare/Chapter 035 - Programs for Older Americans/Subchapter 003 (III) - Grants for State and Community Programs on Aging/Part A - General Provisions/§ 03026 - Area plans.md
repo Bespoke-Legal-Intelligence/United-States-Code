@@ -2,7 +2,7 @@
 
 #### (a) Preparation and development by area agency on aging; requirements
 
-Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title. Each such plan shall—
+Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordancewith section 3027(a)(1) of this title. Each such plan shall—
 
 &emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, or construction of multipurpose senior centers, within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income minority individuals) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income minority individuals) residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
 
@@ -14,7 +14,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(C) legal assistance;
 
-> &emsp;and specify annually in such plan, as submitted or as amended, in detail the amount offunds expended for each such category during the fiscal year most recently concluded;
+> &emsp;and specify annually in such plan, as submitted or as amended, in detail the amount of funds expended for each such category during the fiscal year most recently concluded;
 
 &emsp;(3)(A) designate, where feasible, a focal point for comprehensive service delivery in each community, giving special consideration to designating multipurpose senior centers (including multipurpose senior centers operated by organizations referred to in paragraph (6)(E)(ii)) as such focal point; and
 
@@ -58,7 +58,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(ii) inform the older individuals referred to in subclauses (I) through (VI) of clause (i), and the caretakers of such individuals, of the availability of such assistance; and
 
-&emsp;(C) contain an assurance that the area agency on aging will ensure that each activity undertaken by the agency, including planning, advocacy, and systems development, will include a focus on the needs of low-income minority older individuals;
+&emsp;(C) contain an assurance that the area agency on aging will ensure that each activity undertaken by the agency, including planning,advocacy, and systems development, will include a focus on the needs of low-income minority older individuals;
 
 &emsp;(6) provide that the area agency on aging will—
 
@@ -76,9 +76,9 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(I) were officially designated as community action agencies or community action programs under section 210 of the Economic Opportunity Act of 1964 (42 U.S.C. 2790) <sup>1</sup> for fiscal year 1981, and did not lose the designation as a result of failure to comply with such Act; or
 
-&emsp;&emsp;&emsp;(II) came into existence during fiscal year 1982 as direct successors in interest tosuch community action agencies or community action programs;
+&emsp;&emsp;&emsp;(II) came into existence during fiscal year 1982 as direct successors in interest to such community action agencies or community action programs;
 
-> &emsp;&emsp;and that meet the requirements under section 9904(c)(3) of this title;
+> &emsp;&emsp;and that meet the requirements under section 9910 of this title;
 
 &emsp;&emsp;(F) establish an advisory council consisting of older individuals (including minority individuals) who are participants or who are eligible to participate in programs assisted under this chapter, representatives of older individuals, local elected officials, providers of veterans’ health care (if appropriate), and the general public, to advise continuously the area agency on aging on all matters relating to the development of the area plan, the administration of the plan and operations conducted under the plan;
 
@@ -246,7 +246,7 @@ An area agency on aging may not require any provider of legal assistance under t
 
 (B) If the State agency determines that the area agency on aging has not taken corrective action, or if the State agency does not approve the corrective action, during the 180-day period described in subparagraph (A), the State agency may extend the period for not more than 90 days.
 
-(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (10)(C), (E), title III, §306, title IX, §904(a)(12), Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title III, §306, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1522; amended Pub. L. 97–115, §§3(d), 6, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §306, Oct. 9, 1984, 98 Stat. 1774; Pub. L. 100–175, title I, §§104(c), 125–127, 130(a), 131(a), 132(b), 133, 134(a)(2), (b), 135, 136(b), 137(a), 140(b), 141(b), 143(b), 144(c), 155(e)(1), 182(e)(3), (i), (j), Nov. 29, 1987, 101 Stat. 930, 934, 938–944, 946, 947, 949, 952, 965; Pub. L. 100–628, title VII, §705(5), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (10)(C), (E), title III, §306, title IX, §904(a)(12), Sept. 30, 1992, 106 Stat. 1201, 1202, 1223, 1307; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–285, title II, §202(a), Oct. 27, 1998, 112 Stat. 2755.)
 
 #### References in Text
 
@@ -263,6 +263,8 @@ A prior section 3026, Pub. L. 89–73, title III, §306, as added Pub. L. 93–2
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+
+1998—Subsec. (a)(6)(E)(ii). Pub. L. 105–285 substituted “section 9910 of this title” for “section 9904(c)(3) of this title” in concluding provisions.
 
 1993—Subsecs. (a)(6)(R)(iii), (14)(B), (E), (b)(2)(D), (c)(1). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
@@ -342,7 +344,7 @@ Subsec. (e). Pub. L. 102–375, §306(g), added subsec. (e).
 
 1988—Subsec. (a)(1). Pub. L. 100–628 substituted “such area,” for “such area,,” before “and the number of older Indians”.
 
-1987—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: “For purposes of clause (5)(A), the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureauof the Census and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently.”
+1987—Subsec. (a). Pub. L. 100–175, §182(e)(3), struck out last sentence which read as follows: “For purposes of clause (5)(A), the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threaten his or her capacity to live independently.”
 
 Subsec. (a)(1). Pub. L. 100–175, §134(a)(2), inserted “, and the number of older Indians residing in such area,” before last reference to “and” in parenthetical.
 
@@ -404,7 +406,7 @@ Subsec. (a)(3). Pub. L. 98–459, §306(a)(3), substituted “, giving special 
 
 Subsec. (a)(5)(A). Pub. L. 98–459, §306(a)(4), inserted “, with particular attention to low-income minority individuals,”.
 
-Subsec. (a)(6)(F). Pub. L. 98–459, §306(a)(5)(A), (B), (D), redesignated subpar. (G) as (F), substituted “consisting of older individuals (including minority individuals)” for “consisting of older individuals”, and struck out former subpar. (F) which had required the area agency on aging to enter, where possible, into arrangements with local educational agencies, institutions of higher education, and nonprofit private organizations, to use services provided for older individuals under the community schools program under the Elementary and Secondary Education Act of 1965.
+Subsec. (a)(6)(F). Pub. L. 98–459, §306(a)(5)(A), (B), (D), redesignated subpar. (G) as (F), substituted “consisting of older individuals (including minority individuals)” for “consisting of older individuals”, and struck out former subpar. (F) which had required the area agencyon aging to enter, where possible, into arrangements with local educational agencies, institutions of higher education, and nonprofit private organizations, to use services provided for older individuals under the community schools program under the Elementary and Secondary Education Act of 1965.
 
 Subsec. (a)(6)(G), (H). Pub. L. 98–459, §306(a)(5)(D), redesignated subpars. (H) and (I) as (G) and (H), respectively. Former subpar. (G) redesignated (F).
 
@@ -422,7 +424,7 @@ Subsec. (b). Pub. L. 97–115, §6(c), struck out par. (1) providing that each S
 
 Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
-Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by section 306 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -6,9 +6,9 @@
 
 &emsp;(2) use of a compartment or other accommodation authorized or approved by the head of the agency concerned or his designee is required for security purposes.
 
-(b) Instead of the maximum fixed by subsection (a) of this section, the allowance to an employee of the United States for actual expenses for transportation on an inter-island steamship in Hawaii may not exceed the rate for accommodations on the steamship that is equivalent as nearly as possible to the rate for the lowest first-class accommodations on trans-pacific steamships.
+(b) Instead of the maximum fixed by subsection (a) of this section, the allowance to an employee of the Government for actual expenses for transportation on an inter-island steamship in Hawaii may not exceed the rate for accommodations on the steamship that is equivalent as nearly as possible to the rate for the lowest first-class accommodations on trans-pacific steamships.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506; Pub. L. 104–201, div. A, title XVII, §1723(b)(4), Sept. 23, 1996, 110 Stat. 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506; Pub. L. 104–201, div. A, title XVII, §1723(b)(4), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, §6(10), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -43,6 +43,8 @@ In subsection (b), the words “by or under authority of law” are omitted as s
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–264 substituted “Government” for “United States”.
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “in accordance with regulations prescribed under section 5738 of this title” for “in accordance with regulations prescribed by the President”.
 

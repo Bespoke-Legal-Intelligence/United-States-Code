@@ -14,7 +14,7 @@ The Secretary is authorized to make grants to, or enter into contracts with, Nat
 
 &emsp;(3) the conduct of educational activities consistent with part B of the Education of Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\] which hold reasonable promise of resulting in substantial progress toward meeting the educational needs of such students;
 
-&emsp;(4) the conduct of educational, psychosocial, and developmental activities which hold reasonable promise of resulting in substantialprogress toward meeting the educational needs of such students, including demonstrating and exploring the use of the Native Hawaiian language and exposure to Native Hawaiian cultural traditions; and
+&emsp;(4) the conduct of educational, psychosocial, and developmental activities which hold reasonable promise of resulting in substantial progress toward meeting the educational needs of such students, including demonstrating and exploring the use of the Native Hawaiian language and exposure to Native Hawaiian cultural traditions; and
 
 &emsp;(5) appropriate research, evaluation, and related activities pertaining to—
 

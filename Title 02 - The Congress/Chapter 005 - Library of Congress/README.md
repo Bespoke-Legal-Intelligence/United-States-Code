@@ -25,6 +25,7 @@
 | [139\.](%C2%A7%2000139%20-%20Report%20of%20Librarian%20of%20Congress.md) | Report of Librarian of Congress. |
 | [140\.](%C2%A7%2000140%20-%20Employees%3B%20fitness.md) | Employees; fitness. |
 | [141\.](%C2%A7%2000141%20-%20Duties%20of%20Architect%20of%20the%20Capitol%20and%20Librarian%20of%20Congress.md) | Duties of Architect of the Capitol and Librarian of Congress. |
+| [141a.](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md) | Design, installation, and maintenance of security systems; transfer of responsibility. |
 | [142\.](%C2%A7%2000142%20-%20Omitted.md) | Omitted. |
 | [142a.](%C2%A7%2000142a%20-%20Office%20of%20administrative%20assistant%20and%20disbursing%20officer%20in%20Library%20of%20Congress%20abolished%3B%20transfer%20of%20duties%20to%20appointee%20of%20Librarian.md) | Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian. |
 | [142b.](%C2%A7%2000142b%20-%20Certifying%20officers%20of%20the%20Library%20of%20Congress%3B%20accountability%3B%20relief%20by%20Comptroller%20General.md) | Certifying officers of the Library of Congress; accountability; relief by Comptroller General. |
@@ -188,6 +189,7 @@
 - [&sect; 00139 - Report of Librarian of Congress](%C2%A7%2000139%20-%20Report%20of%20Librarian%20of%20Congress.md)
 - [&sect; 00140 - Employees; fitness](%C2%A7%2000140%20-%20Employees%3B%20fitness.md)
 - [&sect; 00141 - Duties of Architect of the Capitol and Librarian of Congress](%C2%A7%2000141%20-%20Duties%20of%20Architect%20of%20the%20Capitol%20and%20Librarian%20of%20Congress.md)
+- [&sect; 00141a - Design, installation, and maintenance of security systems; transfer of responsibility](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md)
 - [&sect; 00142 - Omitted](%C2%A7%2000142%20-%20Omitted.md)
 - [&sect; 00142a - Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian](%C2%A7%2000142a%20-%20Office%20of%20administrative%20assistant%20and%20disbursing%20officer%20in%20Library%20of%20Congress%20abolished%3B%20transfer%20of%20duties%20to%20appointee%20of%20Librarian.md)
 - [&sect; 00142b - Certifying officers of the Library of Congress; accountability; relief by Comptroller General](%C2%A7%2000142b%20-%20Certifying%20officers%20of%20the%20Library%20of%20Congress%3B%20accountability%3B%20relief%20by%20Comptroller%20General.md)

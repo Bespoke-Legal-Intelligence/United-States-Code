@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) comprehensive technical assistance and effective program dissemination are essential ingredients of the overall strategy of the Improving America's Schools Act of 1994 to improve programs and provide all children opportunities to meet challenging State content standards and challenging State student performance standards;
 
-&emsp;(3) States, local educational agencies, tribes, and schools serving students with specialneeds, such as students with limited-English proficiency and students with disabilities, have great need for comprehensive technical assistance in order to use funds under this chapter to provide such students with opportunities to learn to <sup>1</sup> challenging State content standards and challenging State student performance standards;
+&emsp;(3) States, local educational agencies, tribes, and schools serving students with special needs, such as students with limited-English proficiency and students with disabilities, have great need for comprehensive technical assistance in order to use funds under this chapter to provide such students with opportunities to learn to <sup>1</sup> challenging State content standards and challenging State student performance standards;
 
 &emsp;(4) current technical assistance and dissemination efforts are fragmented and categorical in nature, and thus fail to address adequately the needs of States, local educational agencies and tribes for help in integrating into a coherent strategy for improving teaching and learning the various programs under this chapter with State and local programs and other education reform efforts;
 

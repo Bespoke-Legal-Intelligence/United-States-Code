@@ -22,7 +22,7 @@ The Congress finds that—
 
 #### (b) Purposes
 
-By encouraging States to implement administratively efficient capital access programs that encourage commercial banks and other depository institutions to provide access to debt capital for a broad portfolio of small business concerns, and thereby promote a more efficient and effective debt market, the purposes of this subchapter are—
+By encouraging States to implement administratively efficient capital access programs that encourage commercial banks and other depository institutions to provide access to debt capital for a broad portfolio of small business concerns, and thereby promote a more efficient andeffective debt market, the purposes of this subchapter are—
 
 &emsp;(1) to promote economic opportunity and growth;
 

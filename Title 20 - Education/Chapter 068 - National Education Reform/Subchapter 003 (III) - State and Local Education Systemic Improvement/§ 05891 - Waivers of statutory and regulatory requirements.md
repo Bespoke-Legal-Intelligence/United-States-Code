@@ -20,7 +20,7 @@
 
 #### (2) Application
 
-&emsp;(A)(i) To request a waiver under paragraph (1), a local educational agency or school thatreceives funds under this subchapter, or a local educational agency or school that does not receive funds under this subchapter but is undertaking school reform efforts that the Secretary determines are comparable to the activities described in section 5886 of this title, shall transmit an application for such a waiver to the State educational agency. The State educational agency then shall submit approved applications for waivers under paragraph (1) to the Secretary.
+&emsp;(A)(i) To request a waiver under paragraph (1), a local educational agency or school that receives funds under this subchapter, or a local educational agency or school that does not receive funds under this subchapter but is undertaking school reform efforts that the Secretary determines are comparable to the activities described in section 5886 of this title, shall transmit an application for such a waiver to the State educational agency. The State educational agency then shall submit approved applications for waivers under paragraph (1) to the Secretary.
 
 &emsp;(ii) A State educational agency that receives funds under this subchapter may request a waiver under paragraph (1) by submitting an application for such waiver to the Secretary.
 
@@ -94,7 +94,7 @@ The Secretary shall periodically review the performance of any State, local educ
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may carry out an education flexibility demonstration program under which the Secretary authorizes not more than 6 State educational agencies serving eligible States to waive statutory or regulatory requirements applicable to 1 or more programs or Acts described in subsection (b) of this section, other than requirements described in subsection (c) of this section, for the State educational agency or any local educational agency or school within the State.
+&emsp;&emsp;The Secretary may carry out an education flexibility demonstration program underwhich the Secretary authorizes not more than 6 State educational agencies serving eligible States to waive statutory or regulatory requirements applicable to 1 or more programs or Acts described in subsection (b) of this section, other than requirements described in subsection (c) of this section, for the State educational agency or any local educational agency or school within the State.
 
 #### (B) Award rule
 
@@ -156,7 +156,7 @@ The Secretary shall periodically review the performance of any State, local educ
 
 #### (6) Monitoring
 
-&emsp;Each State educational agency participating in the demonstration program under this subsection shall annually monitor the activities of local educational agencies and schools receiving waivers under this subsection and shall submit an annual report regarding such monitoring to the Secretary.
+&emsp;Each State educational agency participating in the demonstration program under this subsection shall annually monitor the activities of local educational agencies and schools receiving waivers under this subsection andshall submit an annual report regarding such monitoring to the Secretary.
 
 #### (7) Duration of Federal waivers
 
@@ -166,7 +166,7 @@ The Secretary shall periodically review the performance of any State, local educ
 
 #### (f) Accountability
 
-In deciding whether to extend a request for a waiver under subsection (a)(1) of this section, or a State educational agency's authority to issue waivers under subsection (e) of this section, theSecretary shall review the progress of the State educational agency, local educational agency, or school affected by such waiver or authority to determine if such agency or school has made progress toward achieving the desired results described in the application submitted pursuant to subsection (a)(2)(B)(iii) or (e)(5)(A)(ii) of this section.
+In deciding whether to extend a request for a waiver under subsection (a)(1) of this section, or a State educational agency's authority to issue waivers under subsection (e) of this section, the Secretary shall review the progress of the State educational agency, local educational agency, or school affected by such waiver or authority to determine if such agency or school has made progress toward achieving the desired results described in the application submitted pursuant to subsection (a)(2)(B)(iii) or (e)(5)(A)(ii) of this section.
 
 #### (g) Publication
 
@@ -178,7 +178,7 @@ A notice of the Secretary's decision to grant waivers under subsection (a)(1) of
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1) to (5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. Title VIII of the Act is classified generally to subchapter VIII (§7701 et seq.) of chapter 70 of this title. Part B of title IX of the Act is classified generally to part B (§7901 et seq.) of subchapter IX of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(6), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(6), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Amendments
 

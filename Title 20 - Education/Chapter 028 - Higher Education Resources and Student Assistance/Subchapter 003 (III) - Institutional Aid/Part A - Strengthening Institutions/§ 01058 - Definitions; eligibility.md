@@ -10,9 +10,9 @@ For the purpose of this part, the term “eligible institution” means—
 
 &emsp;(1) an institution of higher education—
 
-&emsp;&emsp;(A) which has an enrollment of needy students as required by subsection (c) of this section;
+&emsp;&emsp;(A) which has an enrollment of needy students as required by subsection (c) <sup>1</sup> of this section;
 
-&emsp;&emsp;(B) except as provided in section 1067(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, in comparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
+&emsp;&emsp;(B) except as provided in section 1068a(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, in comparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
 
 &emsp;&emsp;(C) which is—
 
@@ -32,19 +32,29 @@ For the purpose of this part, the term “eligible institution” means—
 
 > For purposes of the determination of whether an institution is an eligible institution under this paragraph, the factor described under paragraph (1)(A) shall be given twice the weight of the factor described under paragraph (1)(B).
 
-#### (c) Enrollment of needy students
+#### (c) Endowment fund
+
+For the purpose of this part, the term “endowment fund” means a fund that—
+
+&emsp;(1) is established by State law, by an institution of higher education, or by a foundation that is exempt from Federal income taxation;
+
+&emsp;(2) is maintained for the purpose of generating income for the support of the institution; and
+
+&emsp;(3) does not include real estate.
+
+#### (d) Enrollment of needy students
 
 For the purpose of this part, the term “enrollment of needy students” means an enrollment at an institution of higher education or a junior or community college which includes—
 
 &emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
-&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this subdivision is waived under section 1067(a) of this title.
+&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this subdivision is waived under section 1068a(a) of this title.
 
-#### (d) Full-time equivalent students
+#### (e) Full-time equivalent students
 
 For the purpose of this part, the term “full-time equivalent students” means the sum of the number of students enrolled full time at an institution, plus the full-time equivalent of the number of students enrolled part time (determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by 12) at such institution.
 
-#### (e) Junior or community college
+#### (f) Junior or community college
 
 For the purpose of this part, the term “junior or community college” means an institution of higher education—
 
@@ -58,11 +68,15 @@ For the purpose of this part, the term “junior or community college” means a
 
 &emsp;&emsp;(B) offers a 2-year program in engineering, mathematics, or the physical or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
-#### (f) Historically black college or university
+#### (g) Historically black college or university
 
 For the purposes of this section, no historically black college or university which is eligible for and receives funds under part B of this subchapter is eligible for or may receive funds under this part.
 
-(Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966.)
+(Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966; Pub. L. 105–244, title III, §§301(c)(2), 303(b), Oct. 7, 1998, 112 Stat. 1636, 1639.)
+
+#### References in Text
+
+Subsection (c) of this section, referred to in subsec. (b)(1)(A), was redesignated subsec. (d) of this section and a new subsec. (c) was added by Pub. L. 105–244, title III, §303(b), Oct. 7, 1998, 112 Stat. 1639.
 
 #### Prior Provisions
 
@@ -70,13 +84,21 @@ A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–
 
 #### Amendments
 
+1998—Subsec. (b)(1)(B). Pub. L. 105–244, §301(c)(2)(A), substituted “section 1068a(b)” for “section 1067(b)”.
+
+Subsec. (c). Pub. L. 105–244, §303(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (c)(2). Pub. L. 105–244, §301(c)(2)(B), substituted “section 1068a(a)” for “section 1067(a)”.
+
+Subsecs. (d) to (g). Pub. L. 105–244, §303(b)(1), redesignated subsecs. (c) to (f) as (d) to (g), respectively.
+
 1994—Subsec. (b)(1)(C). Pub. L. 103–382, §353(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)(i) which is legally authorized to provide, and provides within the State, an educational program for which it awards a bachelor's degree, or (ii) which is a junior or community college;”.
 
 Subsec. (b)(1)(F). Pub. L. 103–382, §353(2), (3), added subpar. (F).
 
 1993—Subsec. (c)(2). Pub. L. 103–208 inserted “the” after “such institutions in”.
 
-1992—Subsec. (b)(1), (2). Pub. L. 102–325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of thistitle which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
+1992—Subsec. (b)(1), (2). Pub. L. 102–325, §302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in section 1067(b) of this title which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
 
 &emsp;“(i) met the requirement of either subparagraph (C)(i) or (C)(ii), or of both such subparagraphs (simultaneously or consecutively); and
 
@@ -106,9 +128,13 @@ Subsec. (c)(1). Pub. L. 100–50, §2(a)(5), inserted “in the second fiscal ye
 
 Subsec. (c)(2). Pub. L. 100–50, §2(a)(6), substituted “fiscal year preceding the fiscal year for which determination is being made” for “preceding fiscal year” and “second preceding fiscal year” for “such fiscal year”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -120,5 +146,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1059c, 1063a, 1065, 1066, 1067 of this title; title 10 section 2194; title 25 sections 1616h, 1809.
+This section is referred to in sections 1059c, 1059d, 1063a, 1065, 1068, 1068a of this title; title 10 section 2194; title 25 sections 1616h, 1809.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

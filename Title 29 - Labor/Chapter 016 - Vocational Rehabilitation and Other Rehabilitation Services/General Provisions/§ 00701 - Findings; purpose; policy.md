@@ -22,7 +22,7 @@ Congress finds that—
 
 &emsp;&emsp;(F) enjoy full inclusion and integration in the economic, political, social, cultural, and educational mainstream of American society;
 
-&emsp;(4) increased employment of individuals with disabilities can be achieved through the provision of individualized training, independent living services, educational and support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
+&emsp;(4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce investment systems under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I of this chapter, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
 
 &emsp;(5) individuals with disabilities continually encounter various forms of discrimination in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and public services; and
 
@@ -38,7 +38,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to empower individuals with disabilities to maximize employment, economic self-sufficiency, independence, and inclusion and integration into society, through—
 
-&emsp;&emsp;(A) comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
+&emsp;&emsp;(A) statewide workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that include, as integral components, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
 
 &emsp;&emsp;(B) independent living centers and services;
 
@@ -50,7 +50,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(F) the guarantee of equal opportunity; and
 
-&emsp;(2) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with severe disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living.
+&emsp;(2) to ensure that the Federal Government plays a leadership role in promoting the employment of individuals with disabilities, especially individuals with significant disabilities, and in assisting States and providers of services in fulfilling the aspirations of such individuals with disabilities for meaningful and gainful employment and independent living.
 
 #### (c) Policy
 
@@ -62,45 +62,27 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(3) inclusion, integration, and full participation of the individuals;
 
-&emsp;(4) support for the involvement of a parent, a family member, a guardian, an advocate, or an authorized representative if an individual with a disability requests, desires, or needs such support; and
+&emsp;(4) support for the involvement of an individual's representative if an individual with a disability requests, desires, or needs such support; and
 
 &emsp;(5) support for individual and systemic advocacy and community involvement.
 
-(Pub. L. 93–112, §2, Sept. 26, 1973, 87 Stat. 357; Pub. L. 95–602, title I, §122(a)(1), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, §101, Oct. 21, 1986, 100 Stat. 1808; Pub. L. 102–569, title I, §101, Oct. 29, 1992, 106 Stat. 4346.)
+(Pub. L. 93–112, §2, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1095; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
 
-#### Codification
+#### References in Text
 
-The content of Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617, including provisions thereof which amended various sections of this chapter and enacted provisions set out as notes under this section, was originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
-
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353), H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
+The Workforce Investment Act of 1998, referred to in subsecs. (a)(4) and (b)(1)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
-Prior similar provisions were contained in former section 31 of this title.
+A prior section 701, Pub. L. 93–112, §2, Sept. 26, 1973, 87 Stat. 357; Pub. L. 95–602, title I, §122(a)(1), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, §101, Oct. 21, 1986, 100 Stat. 1808; Pub. L. 102–569, title I, §101, Oct. 29, 1992, 106 Stat. 4346, related to findings, purpose, and policy, prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093.
 
 #### Amendments
 
-1992—Pub. L. 102–569 amended section generally. Prior to amendment, section read as follows: “The purpose of this chapter is to develop and implement, through research, training, services, and the guarantee of equal opportunity, comprehensive and coordinated programs of vocational rehabilitation and independent living, for individuals with handicaps in order to maximize their employability, independence, and integration into the workplace and the community.”
+1998—Pub. L. 105–277 made technical amendment in original to section designation and catchline.
 
-1986—Pub. L. 99–506 inserted “, for individuals with handicaps in order to maximize their employability, independence, and integration into the workplace and the community”.
+#### Short Title of 1998 Amendment
 
-1978—Pub. L. 95–602 substituted provision declaring that the purpose of this chapter is to develop and implement, through research, training, services, and equal opportunity guarantee, comprehensive and coordinated programs of vocational rehabilitation and independent living for provision declaring the purpose of this chapter was to provide a statutory basis for the Rehabilitation Services Administration and to authorize a wide range of programs designed to improve rehabilitation methods, services, and facilities, increase the number and skill of trained personnel, and provide employment opportunities for the handicapped.
-
-#### Effective Date of 1992 Amendment
-
-Section 138 of title I of Pub. L. 102–569, as amended by Pub. L. 103–73, title I, §102(3), Aug. 11, 1993, 107 Stat. 718, provided that:
-
-“(a)
-
-Effective Date.—Except as provided in subsection (b), this title \[enacting sections 718 to 718b, 725 to 728a, and 740 to 744 of this title, amending this section and sections 705 to 707, 709, 711 to 715, 717, 720 to 724, 730 to 732, 740, 741, 750, 761a to 762, 770, 772 to 776, 777a, 777b, 777d to 777f, 780, 781, 783, 791 to 794, 795, 795d, 795e, and 795h of this title, repealing section 752 of this title, enacting provisions set out as notes under section 712 of this title, and amending provisions set out as a note under this section\] and the amendments made by this title shall take effect on the date of enactment of this Act \[Oct. 29, 1992\].
-
-“(b)
-
-Compliance.—Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\] shall comply with the amendments made by this subtitle \[subtitle B (§§121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing section 752 of this title\], as soon as is practicable after the date of enactment of this Act \[Oct. 29, 1992\], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], but not later than October 1, 1993.”
-
-#### Effective Date of 1986 Amendment
-
-Section 1006 of Pub. L. 99–506 provided that: “Except as otherwise provided in this Act \[see Short Title of 1986 Amendment note below\], this Act shall take effect on the date of its enactment \[Oct. 21, 1986\].”
+Pub. L. 105–220, title IV, §401, Aug. 7, 1998, 112 Stat. 1092, provided that: “This title \[see Tables for classification\] may be cited as the ‘Rehabilitation Act Amendments of 1998’.”
 
 #### Short Title of 1993 Amendment
 
@@ -112,11 +94,11 @@ Section 1(a) of Pub. L. 102–569 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–52, §1, June 6, 1991, 105 Stat. 260, provided that: “This Act \[amending sections 720, 732, 741, 761, 771,772, 774, 775, 777, 777a, 777f, 785, 792, 795f, 795i, 795q, 796i, and 1904 of this title and section 1475 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1991’.”
+Pub. L. 102–52, §1, June 6, 1991, 105 Stat. 260, provided that: “This Act \[amending sections 720, 732, 741, 761, 771, 772, 774, 775, 777, 777a, 777f, 785, 792, 795f, 795i, 795q, 796i, and 1904 of this title and section 1475 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1991’.”
 
 #### Short Title of 1986 Amendment
 
-Section 1(a) of Pub. L. 99–506 provided that: “This Act \[enacting sections 716, 717, 752, 794d, 795j to 795q, and 796d–1 of this title and section 2000d–7 of Title 42, The Public Health and Welfare, amending this section and sections 702, 705, 706, 711 to 715, 720 to 724, 730 to 732, 740, 741, 750, 751, 760 to 761b, 762, 762a, 770 to 777b, 777f, 780, 781, 783, 785, 791 to 794, 794c, 795, 795d to 795i, 796a, 796b, 796d to 796i, and 1904 of this title, and section 155a of Title 36, Patriotic Societies and Observances, repealing section 751 of this title, and enacting provisions set out as notes under this section and sections 706, 730, 761a, and 795m of this title and section 1414 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1986’.”
+Section 1(a) of Pub. L. 99–506 provided that: “This Act \[enacting sections 716, 717, 752, 794d, 795j to 795q, and 796d–1 of this title and section 2000d–7 of Title 42, The Public Health and Welfare, amending this section and sections 702, 705, 706, 711 to 715, 720 to 724, 730 to 732, 740, 741, 750, 751, 760 to 761b, 762, 762a, 770 to 777b, 777f, 780, 781, 783, 785, 791 to 794, 794c, 795, 795d to 795i, 796a, 796b, 796d to 796i, and 1904 of this title, and section 155a of former Title 36, Patriotic Societies and Observances, repealing section 751 of this title, and enacting provisions set out as notes under this section and sections 706, 730, 761a, and 795m of this title and section 1414 of Title 20, Education\] may be cited as the ‘Rehabilitation Act Amendments of 1986’.”
 
 #### Short Title of 1984 Amendment
 
@@ -134,21 +116,17 @@ Pub. L. 94–230, §1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act \
 
 Pub. L. 93–516, title I, §100, Dec. 7, 1974, 88 Stat. 1617, provided that: “This title \[amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under section 702 of this title\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
 
-An identical provision is contained in Pub. L. 93–651, title I, §100, Nov. 21, 1974, 89 Stat. 2–3. See Codification note above.
+An identical provision is contained in Pub. L. 93–651, title I, §100, Nov. 21, 1974, 89 Stat. 2–3.
 
 #### Short Title
 
-Section 1 of Pub. L. 93–112 provided that Pub. L. 93–112, which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, may be cited as the “Rehabilitation Act of 1973”.
+Pub. L. 93–112, §1(a), as added by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093, and amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Rehabilitation Act of 1973’.”
 
-Section 601 of title VI of Pub. L. 93–112, as added by Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 102–569, title I, §102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that: “This title \[adding subchapter VI of this chapter\] may be cited as the ‘Employment Opportunities for Handicapped Individuals Act’.”
+Pub. L. 93–112, title VI, §601, as added by Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1210, provided that: “This title \[enacting subchapter VI of this chapter\] may be cited as the ‘Employment Opportunities for Individuals With Disabilities Act’.”
 
-\[Section 102(p)(34) of Pub. L. 102–569 which directed the substitution of “Disabilities” for “Handicaps” in section 601 of Pub. L. 93–112, set out above, could not be executed because the word “Handicaps” did not appear.\]
+Pub. L. 93–112, §1, Sept. 26, 1973, 87 Stat. 355, provided in part that Pub. L. 93–112, which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the “Rehabilitation Act of 1973”, prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093.
 
-#### White House Conference on Handicapped Individuals
-
-Pub. L. 93–516, title III, Dec. 7, 1974, 88 Stat. 1631, as amended by Pub. L. 94–224, §§1, 2, Feb. 27, 1976, 90 Stat. 201, authorized the President to call a White House Conference on Handicapped Individuals not later than Dec. 7, 1977, to develop recommendations and stimulate a national assessment of problems, and solutions to such problems, facing individuals with handicaps, and established a National Planning Advisory Council to provide guidance and planning for the Conference which Council would cease to exist 120 days after submission of a final report to the President, such report to be submitted not later than 120 days following the date on which the Conference was called.
-
-Identical provisions are contained in Pub. L. 93–651, title III, Nov. 21, 1974, 89 Stat. 2–16. See Codification note above.
+Pub. L. 93–112, title VI, §601, as added by Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 102–569, title I, §102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1210.
 
 #### Ex. Ord. No. 11758. Delegation of Authority of the President
 
@@ -162,7 +140,7 @@ Sec. 2. The Secretary of Labor is hereby designated and empowered to exercise, w
 
 Sec. 3. The head of a Federal agency may, in conformity with the provisions of section 503(c) of the Rehabilitation Act of 1973 \[29 U.S.C. 793(c)\], and regulations issued by the Secretary of Labor pursuant to section 2 of this order, exempt any contract and, following consultation with the Secretary of Labor, any class of contracts, from the requirements of section 503 of the act \[29 U.S.C. 793\].
 
-Sec. 4. The Federal Acquisition Regulations and, to the extent necessary, any supplemental or comparable regulation issued by any agency of the executive branch shall, following consultation with the Secretary of Labor, be amended to require, as a condition of entering into, renewing or extending any contract subjectto the provisions of section 503 of the Rehabilitation Act of 1973 \[29 U.S.C. 793\], inclusion of a provision requiring compliance with that section and regulations issued by the Secretary pursuant to section 2 of this order.
+Sec. 4. The Federal Acquisition Regulations and, to the extent necessary, any supplemental or comparable regulation issued by any agency of the executive branch shall, following consultation with the Secretary of Labor, be amended to require, as a condition of entering into, renewing or extending any contract subject to the provisions of section 503 of the Rehabilitation Act of 1973 \[29 U.S.C. 793\], inclusion of a provision requiring compliance with that section and regulations issued by the Secretary pursuant to section 2 of this order.
 
 #### Ex. Ord. No. 13078. Increasing Employment of Adults With Disabilities
 
@@ -210,7 +188,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (b) The Departments of Justice, Labor, Education, and Health and Human Services shall report to the Task Force by November 15, 1998, on their work with the States and others to ensure that the Personal Responsibility and Work Opportunity Reconciliation Act \[probably means the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see Tables for classification\] is carried out in accordance with section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], as amended, and the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], so that individuals with disabilities and their families can realize the full promise of welfare reform by having an equal opportunity for employment.
 
-(c) The Departments of Education, Labor, Commerce, and Health and Human Services, the Small Business Administration, and the President's Committee on Employment of People with Disabilities shall work together and report to the Task Force by November 15, 1998, on their work to develop small business and entrepreneurial opportunities for adults with disabilities and strategies for assisting low-income adults, including those with disabilities\[,\] to create small businessesand micro-enterprises. These same agencies, in consultation with the Committee for Purchase from People Who Are Blind or Severely Disabled, shall assess the impact of the Randolph-Sheppard Act \[20 U.S.C. 107 et seq.\] vending program and the Javits-Wagner-O'Day Act \[41 U.S.C. 46 et seq.\] on employment and small business opportunities for people with disabilities.
+(c) The Departments of Education, Labor, Commerce, and Health and Human Services, the Small Business Administration, and the President's Committee on Employment of People with Disabilities shall work together and report to the Task Force by November 15, 1998, on their work to develop small business and entrepreneurial opportunities for adults with disabilities and strategies for assisting low-income adults, including those with disabilities\[,\] to create small businesses and micro-enterprises. These same agencies, in consultation with the Committee for Purchase from People Who Are Blind or Severely Disabled, shall assess the impact of the Randolph-Sheppard Act \[20 U.S.C. 107 et seq.\] vending program and the Javits-Wagner-O'Day Act \[41 U.S.C. 46 et seq.\] on employment and small business opportunities for people with disabilities.
 
 (d) The Departments of Transportation and Housing and Urban Development shall report to the Task Force by November 15, 1998, on their examination of their programs to see if they can be used to create new work incentives and to remove barriers to work for adults with disabilities.
 
@@ -228,5 +206,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 706 of this title.
+This section is referred to in sections 705, 725 of this title.
 

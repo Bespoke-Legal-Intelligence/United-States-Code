@@ -6,7 +6,7 @@ Any person to whom United States Government life insurance shall be payable may 
 
 #### References in Text
 
-Section 3 of the World War Veterans’ Act, 1924, referred to in text, is section 3 of act June 7, 1924, ch. 320, 43 Stat. 607, which was classified to section 424 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 101 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 3 of the World War Veterans’ Act, 1924, referred to in text, is section 3 of act June 7, 1924, ch. 320,43 Stat. 607, which was classified to section 424 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 101 of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
 

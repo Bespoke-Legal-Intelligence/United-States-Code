@@ -56,7 +56,7 @@ Nothing in this part shall preclude or deny to any State or political subdivisio
 
 > &emsp;The Administrator shall issue regulations to implement this subsection.
 
-(July 14, 1955, ch. 360, title II, §209, formerly §208, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 501; renumbered and amended Dec. 31, 1970, Pub. L. 91–604, §§8(a), 11(a)(2)(A), 15(c)(2), 84 Stat. 1694, 1705, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §§207, 221, 91 Stat. 755, 762; Nov. 15, 1990, Pub. L. 101–549, title II, §222(b), 104 Stat. 2502.)
+(July 14, 1955, ch. 360, title II, §209, formerly §208, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 501; renumbered and amended Pub. L. 91–604, §§8(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, 84 Stat. 1694, 1705, 1713; Pub. L. 95–95, title II, §§207,221, Aug. 7, 1977, 91 Stat. 755, 762; Pub. L. 101–549, title II, §222(b), Nov. 15, 1990, 104 Stat. 2502.)
 
 #### Codification
 

@@ -56,7 +56,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 &emsp;(2) identify and maintain a catalog of skill standards used by other countries and by States and leading firms and industries in the United States;
 
-&emsp;(3) serve as a clearinghouse to facilitate the sharing of information on the development of skill standards and other relevant information among representatives of occupations and industries identified pursuant to subsection (a) of this section, the voluntary partnerships described in subsection (b) of this section, and among education and training providers through such mechanisms as the Capacity Building and Information and Dissemination Network established under section 1733(b) oftitle 29 and the Educational Resources Information Center Clearinghouses;
+&emsp;(3) serve as a clearinghouse to facilitate the sharing of information on the development of skill standards and other relevant information among representatives of occupations and industries identified pursuant to subsection (a) of this section, the voluntary partnerships described in subsection (b) of this section, and among education and training providers through such mechanisms as the Educational Resources Information Center Clearinghouses;
 
 &emsp;(4) develop a common nomenclature relating to skill standards;
 
@@ -156,7 +156,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 &emsp;&emsp;For purposes of this paragraph, the term “costs of administration” means costs relating to staff, supplies, equipment, space, and travel and per diem, costs of conducting meetings and conferences, and other related costs.
 
-(Pub. L. 103–227, title V, §504, Mar. 31, 1994, 108 Stat. 195; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(18)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–227, title V, §504, Mar. 31, 1994, 108 Stat. 195; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(18)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–254; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(17)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422.)
 
 #### References in Text
 
@@ -167,6 +167,8 @@ Subchapter II of this chapter, referred to in subsec. (d)(1)(B)(i)(III), was in 
 Federal civil rights laws, referred to in subsec. (d)(1)(B)(i)(VII), (ii)(III), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1998—Subsec. (c)(3). Pub. L. 105–277 struck out “the Capacity Building and Information and Dissemination Network established under section 1733(b) of title 29 and” after “such mechanisms as”.
 
 1996—Subsecs. (f), (g). Pub. L. 104–134 redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “The National Board shall establish cooperative arrangements with the National Education Standards and Improvement Council to promote the coordination of the development of skill standards under this section with the development of voluntary national content standards and voluntary national student performance standards in accordance with section 5843 of this title.”
 

@@ -1,21 +1,11 @@
 ### <b>CHAPTER 148—NATIONAL DEFENSE TECHNOLOGY AND INDUSTRIAL BASE, DEFENSE REINVESTMENT, AND DEFENSE CONVERSION</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Definitions/README.md) | <b>Definitions</b> | <b><sup>1</sup></b><b>2491</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Definitions/README.md) | <b>Definitions</b> | <b>2500</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Policies%20and%20Planning/README.md) | <b>Policies and Planning</b> | <b>2501</b> |
 | [<b>III.</b>](Subchapter%20003%20%28III%29%20-%20Programs%20for%20Development%2C%20Application%2C%20and%20Support%20of%20Dual-Use%20Technologies/README.md) | <b>Programs for Development, Application, and Support of Dual-Use Technologies</b> | <b>2511</b> |
-| [<b>IV.</b>](Subchapter%20004%20%28IV%29%20-%20Manufacturing%20Technology%20and%20Dual-Use%20Assistance%20Extension%20Programs/README.md) | <b>Manufacturing Technology and Dual-Use Assistance Extension Programs</b> | <b>2521</b> |
+| [<b>IV.</b>](Subchapter%20004%20%28IV%29%20-%20Manufacturing%20Technology/README.md) | <b>Manufacturing Technology</b> | <b>2521</b> |
 | [<b>V.</b>](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Technology%20Base%20Policies%20and%20Programs/README.md) | <b>Miscellaneous Technology Base Policies and Programs</b> | <b>2531</b> |
 | [<b>VI.</b>](Subchapter%20006%20%28VI%29%20-%20Defense%20Export%20Loan%20Guarantees/README.md) | <b>Defense Export Loan Guarantees</b> | <b>2540</b> |
 
@@ -35,6 +25,8 @@ Another prior chapter 150, comprised of section 2521, was renumbered chapter 152
 
 #### Amendments
 
+1998—Pub. L. 105–261, div. A, title X, §1069(a)(4), Oct. 17, 1998, 112 Stat. 2136, substituted “2500” for “2491” initem for subchapter I and struck out “and Dual-Use Assistance Extension Programs” after “Technology” in item for subchapter IV.
+
 1996—Pub. L. 104–106, div. A, title XIII, §1321(a)(2), Feb. 10, 1996, 110 Stat. 477, added item for subchapter VI.
 
 #### Chapter Referred to in Other Sections
@@ -49,6 +41,6 @@ This chapter is referred to in title 50 App. section 2171.
 - [Subchapter 001 (I) - Definitions](Subchapter%20001%20%28I%29%20-%20Definitions/README.md)
 - [Subchapter 002 (II) - Policies and Planning](Subchapter%20002%20%28II%29%20-%20Policies%20and%20Planning/README.md)
 - [Subchapter 003 (III) - Programs for Development, Application, and Support of Dual-Use Technologies](Subchapter%20003%20%28III%29%20-%20Programs%20for%20Development%2C%20Application%2C%20and%20Support%20of%20Dual-Use%20Technologies/README.md)
-- [Subchapter 004 (IV) - Manufacturing Technology and Dual-Use Assistance Extension Programs](Subchapter%20004%20%28IV%29%20-%20Manufacturing%20Technology%20and%20Dual-Use%20Assistance%20Extension%20Programs/README.md)
+- [Subchapter 004 (IV) - Manufacturing Technology](Subchapter%20004%20%28IV%29%20-%20Manufacturing%20Technology/README.md)
 - [Subchapter 005 (V) - Miscellaneous Technology Base Policies and Programs](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Technology%20Base%20Policies%20and%20Programs/README.md)
 - [Subchapter 006 (VI) - Defense Export Loan Guarantees](Subchapter%20006%20%28VI%29%20-%20Defense%20Export%20Loan%20Guarantees/README.md)

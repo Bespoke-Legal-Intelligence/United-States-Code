@@ -12,7 +12,7 @@ The Secretary is authorized to cause such testing provided for in subsection (a)
 
 Notwithstanding any other provision of law, no person shall use for the purposes of this chapter any such equipment not approved by the Secretary.
 
-(Aug. 11, 1916, ch. 313, pt. B, §7B, as added Oct. 21, 1976, Pub. L. 94–582, §9, 90 Stat. 2877; amended Sept. 29, 1977, Pub. L. 95–113, title XVI, §1604(f), 91 Stat. 1028; Nov. 24, 1993, Pub. L. 103–156, §12(f), 107 Stat. 1528; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), (8), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §7B, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2877; amended Pub. L. 95–113, title XVI, §1604(f), Sept. 29, 1977, 91 Stat. 1028; Pub. L. 103–156, §12(f), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@
 
 &emsp;(2) when the Coast Guard is operating as a service in the Navy, any vessel of the Coast Guard, manned by the Coast Guard, or chartered on bareboat charter to the Coast Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 483; Dec. 12, 1980, Pub. L. 96–513, title V, §513(43), 94 Stat. 2935; Apr. 21, 1987, Pub. L. 100–26, §7(k)(10), 101 Stat. 284; May 31, 1993, Pub. L. 103–35, title II, §201(c)(11), 107 Stat. 98.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 483; Pub. L. 96–513, title V, §513(43), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 100–26, §7(k)(10), Apr. 21, 1987, 101 Stat. 284; Pub. L. 103–35, title II, §201(c)(11), May 31, 1993, 107 Stat. 98.)
 
 Historical and Revision Notes
 

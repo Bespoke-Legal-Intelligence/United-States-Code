@@ -6,7 +6,7 @@ The Secretary, in carrying into effect the provisions of this chapter, is author
 
 #### Codification
 
-Section was enacted as part of the Labor-Federal Security Appropriation Act, 1944, and not as part of theFederal Food, Drug, and Cosmetic Act which comprises this chapter.
+Section was enacted as part of the Labor-Federal Security Appropriation Act, 1944, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@ part 4—fiduciary responsibility
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1002, 1055, 1056, 1132, 1169, 1201, 1342, 1349 of this title.
+This part is referred to in sections 1002, 1055, 1056, 1132, 1169, 1201, 1342, 1349 of this title; title 26 section 401.
 
 
 ---

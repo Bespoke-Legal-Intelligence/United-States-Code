@@ -6,7 +6,7 @@ Nothing in this subchapter shall be deemed—
 
 &emsp;(b) to require a license for the manufacture, production, or acquisition by the Department of Defense of any utilization facility authorized pursuant to section 2121 of this title, or for the use of such facility by the Department of Defense or a contractor thereof.
 
-(Aug. 1, 1946, ch. 724, title I, §110, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 939; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §110, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 939; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Transfer of Functions
 

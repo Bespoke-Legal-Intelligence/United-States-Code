@@ -18,7 +18,7 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 &emsp;(8) To the extent permitted by international law, any foreign vessel during a voyage having a scheduled departure from or arrival in the United States with respect to an offense committed by or against a national of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Dec. 21, 1981, Pub. L. 97–96, §6, 95 Stat. 1210; Oct. 12, 1984, Pub. L. 98–473, title II, §1210, 98 Stat. 2164; Sept. 13, 1994, Pub. L. 103–322, title XII, §120002, 108 Stat. 2021.)
+(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Pub. L. 97–96, §6, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 98–473, title II, §1210, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 103–322, title XII, §120002, Sept. 13, 1994, 108 Stat. 2021.)
 
 #### Historical and Revision Notes
 

@@ -66,6 +66,48 @@ Definitions.—In this section:
 
 Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to section 756 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, prior to repeal by Pub. L. 103–414, title III, §304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Enhanced Global Positioning System Program
+
+Pub. L. 105–261, div. A, title II, §218, Oct. 17, 1998, 112 Stat. 1951, provided that:
+
+“(a)
+
+Policy on Priority for Development of Enhanced GPS System.—The development of an enhanced Global Positioning System is an urgent national security priority.
+
+“(b)
+
+Development Required.—To fulfill the requirements described in section 279(b) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 243) \[set out as a note below\] and section 2281 of title 10, United States Code, the Secretary of Defense shall develop an enhanced Global Positioning System in accordance with the priority declared in subsection (a). The enhanced Global Positioning System shall include the following elements:
+
+&emsp;“(1) An evolved satellite system that includes increased signal power and other improvements such as regional-level directional signal enhancements.
+
+&emsp;“(2) Enhanced receivers and user equipment that are capable of providing military users with direct access to encrypted Global Positioning System signals.
+
+&emsp;“(3) To the extent funded by the Secretary of Transportation, additional civil frequencies and other enhancements for civil users.
+
+“(c)
+
+Sense of Congress Regarding Funding.—It is the sense of Congress that—
+
+&emsp;“(1) the Secretary of Defense should ensure that the future-years defense program provides for sufficient funding to develop and deploy an enhanced Global Positioning System in accordance with the priority declared in subsection (a); and
+
+&emsp;“(2) the Secretary of Transportation should provide sufficient funding to support additional civil frequencies for the Global Positioning System and other enhancements of the system for civil users.
+
+“(d)
+
+Plan for Development of Enhanced Global Positioning System.—Not later than April 15, 1999, the Secretary of Defense shall submit to Congress a plan for carrying out the requirements of subsection (b).
+
+“(e)
+
+Delayed Effective Date for Limitation on Procurement of Systems Not GPS-Equipped.—\[Amended section 152(b) of Pub. L. 103–160, set out as a note below.\]
+
+“(f)
+
+Funding From Authorized Appropriations for Fiscal Year 1999.—Of the amounts authorized to be appropriated under section 201(3) \[112 Stat. 1946\], $44,000,000 shall be available to establish and carry out an enhanced Global Positioning System program.”
+
 #### Sustainment and Operation of Global Positioning System
 
 Section 1074(a), (b) of Pub. L. 105–85 provided that:
@@ -107,4 +149,24 @@ International Cooperation.—Congress urges the President to promote the securit
 &emsp;“(3) Undertaking efforts to eliminate any barriers to, and other restrictions of foreign governments on, peaceful uses of the Global Positioning System.
 
 &emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the Global Positioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
+
+#### Access to Global Positioning System
+
+Pub. L. 104–106, div. A, title II, §279, Feb. 10, 1996, 110 Stat. 243, provided that:
+
+“(a)
+
+Conditional Prohibition on Use of Selective Availability Feature.—Except as provided in subsection (b), after May 1, 1996, the Secretary of Defense may not (through use of the feature known as ‘selective availability’) deny access of non-Department of Defense users to the full capabilities of the Global Positioning System.
+
+“(b)
+
+Plan.—Subsection (a) shall cease to apply upon submission by the Secretary of Defense to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives of a plan for enhancement of the Global Positioning System that provides for—
+
+&emsp;“(1) development and acquisition of effective capabilities to deny hostile military forces the ability to use the Global Positioning System without hindering the ability of United States military forces and civil users to have access to and use of the system, together with a specific date by which those capabilities could be operational; and
+
+&emsp;“(2) development and acquisition of receivers for the Global Positioning System and other techniques for weapons and weapon systems that provide substantially improved resistance to jamming and other forms of electronic interference or disruption, together with a specific date by which those receivers and other techniques could be operational with United States military forces.”
+
+#### Limitation on Procurement of Systems Not GPS-Equipped
+
+Pub. L. 103–160, div. A, title I, §152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, §218(e), Oct. 17, 1998, 112 Stat. 1952, provided that: “After September 30, 2005, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
 

@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(1) to screen women for breast and cervical cancer as a preventive health measure;
 
-&emsp;(2) to provide appropriate referrals for medical treatment of women screened pursuant to paragraph (1) and to ensure, to the extent practicable, the provision of appropriate follow-up services;
+&emsp;(2) to provide appropriate referrals for medical treatment of women screened pursuant to paragraph (1) and to ensure, to the extent practicable, the provision of appropriate follow-up services and support services such as case management;
 
 &emsp;(3) to develop and disseminate public information and education programs for the detection and control of breast and cervical cancer;
 
@@ -20,11 +20,11 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (1) In general
 
-&emsp;A State receiving a grant under subsection (a) of this section may, subject to paragraphs (2) and (3), expend the grant to carry out the purpose described in such subsection through grants to, and contracts with, public or nonprofit private entities.
+&emsp;A State receiving a grant under subsection (a) of this section may, subject to paragraphs (2) and (3), expend the grant to carry out the purpose described in such subsection through grants to public and nonprofit private entities and through contracts with public and private entities.
 
-#### (2) Limited authority regarding other entities
+#### (2) Certain applications
 
-&emsp;In addition to the authority established in paragraph (1) for a State with respect to grants and contracts, the State may provide for screenings under subsection (a)(1) of this section through entering into contracts with private entities that are not nonprofit entities.
+&emsp;If a nonprofit private entity and a private entity that is not a nonprofit entity both submit applications to a State to receive an award of a grant or contract pursuant to paragraph (1), the State may give priority to the application submitted by the nonprofit private entity in any case in which the State determines that the quality of such application is equivalent to the quality of the application submitted by the other private entity.
 
 #### (3) Payments for screenings
 
@@ -42,15 +42,15 @@ In making grants under subsection (a) of this section to States whose initial gr
 
 &emsp;&emsp;(B) a substantial incidence of either of such cancers.
 
-#### (c) <sup>1</sup> Coordinating committee regarding year 2000 health objectives
+#### (d) Coordinating committee regarding year 2000 health objectives
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish a committee to coordinate the activities of the agencies of the Public Health Service (and other appropriate Federal agencies) that are carried out toward achieving the objectives established by the Secretary for reductions in the rate of mortality from breast and cervical cancer in the United States by the year 2000. Such committee shall be comprised of Federal officers or employees designated by the heads of the agencies involved to serve on the committee as representatives of the agencies, and such representatives from other public or private entities as the Secretary determines to be appropriate.
 
-(July 1, 1944, ch. 373, title XV, §1501, as added Aug. 10, 1990, Pub. L. 101–354, §2, 104 Stat. 409; amended June 10, 1993, Pub. L. 103–43, title XX, §2008(c)(1), 107 Stat. 211; Dec. 14, 1993, Pub. L. 103–183, title I, §101(a), (b), (f), (g)(1), 107 Stat. 2227–2229.)
+(July 1, 1944, ch. 373, title XV, §1501, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 409; amended Pub. L. 103–43, title XX, §2008(c)(1), June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(a), (b), (f), (g)(1), Dec. 14, 1993, 107 Stat. 2227–2229; Pub. L. 105–340, title II, §203(a), (b), Oct. 31, 1998, 112 Stat. 3194; Pub. L. 105–392, title IV, §401(b)(5), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generallyto part B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -66,6 +66,14 @@ Section 300k–3, act July 1, 1944, ch. 373, title XV, §1503, as added Jan. 4, 
 
 #### Amendments
 
+1998—Subsec. (a)(2). Pub. L. 105–340, §203(a), inserted “and support services such as case management” before semicolon at end.
+
+Subsec. (b)(1). Pub. L. 105–340, §203(b)(1), substituted “through grants to public and nonprofit private entities and through contracts with public and private entities.” for “through grants to, and contracts with, public or nonprofit private entities.”
+
+Subsec. (b)(2). Pub. L. 105–340, §203(b)(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In addition to the authority established in paragraph (1) for a State with respect to grants and contracts, the State may provide for screenings under subsection (a)(1) of this section through entering into contracts with private entities that are not nonprofit entities.”
+
+Subsecs. (c), (d). Pub. L. 105–392 redesignated subsec. (c), relating to coordinating committee regarding year 2000 health objectives, as (d).
+
 1993—Subsec. (a). Pub. L. 103–183, §101(g)(1), substituted “Control and Prevention” for “Control” in introductory provisions.
 
 Subsec. (b). Pub. L. 103–183, §101(a), substituted “paragraphs (2) and (3)” for “paragraph (2)” in par. (1), added pars. (2) and (3), and struck out heading and text of former par. (2). Text read as follows: “In addition to the authority established in paragraph (1) for a State with respect to grants and contracts, the State may provide for screenings under subsection (a)(1) of this section through entering into contracts with private entities. The amount paid by a State to a private entity under the preceding sentence for a screening procedure may not exceed the amount that would be paid under part B of title XVIII of the Social Security Act if payment were made under such part for furnishing the procedure to a woman enrolled under such part.”
@@ -76,9 +84,11 @@ Subsec. (c). Pub. L. 103–183, §101(f), added subsec. (c) relating to coordina
 
 Pub. L. 103–183, §101(b), added subsec. (c) relating to special consideration for certain States.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300<i>l</i>, 300<i>l</i>–1, 300m, 300n, 300n–1, 300n–2, 300n–3, 300n–4, 300n–4a of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
 

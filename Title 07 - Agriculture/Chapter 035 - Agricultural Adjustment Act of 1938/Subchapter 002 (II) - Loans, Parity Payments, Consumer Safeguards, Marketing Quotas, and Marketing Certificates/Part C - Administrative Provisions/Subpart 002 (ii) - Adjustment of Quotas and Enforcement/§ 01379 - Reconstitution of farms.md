@@ -24,11 +24,11 @@ In any case in which two or more tracts of land are located in contiguous counti
 
 When a farm is divided through reconstitution, the burley tobacco poundage quota which transfers with the divided land shall not be less than 1,000 pounds (except when the reconstitution of the farm is among immediate family members or pursuant to probate proceedings).
 
-(Feb. 16, 1938, ch. 30, title III, §379, as added Nov. 3, 1965, Pub. L. 89–321, title VII, §707, 79 Stat. 1211; amended Nov. 30, 1970, Pub. L. 91–524, title IV, §404(4), title VI, §605(2), 84 Stat. 1366, 1378; Nov. 29, 1983, Pub. L. 98–180, title II, §212(b), 97 Stat. 1149; Nov. 15, 1990, Pub. L. 101–577, §2(c), 104 Stat. 2856; Dec. 13, 1991, Pub. L. 102–237, title I, §116(3), 105 Stat. 1841.)
+(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841.)
 
 #### Amendments
 
-1991—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out “or” at end of par. (4), substituted “; or” for periodat end of par. (5), substituted a period for “; or” at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
+1991—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out “or” at end of par. (4), substituted “; or” for period at end of par. (5), substituted a period for “; or” at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
 
 1990—Subsec. (a)(7). Pub. L. 101–577 added par. (7).
 

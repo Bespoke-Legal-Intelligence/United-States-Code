@@ -12,7 +12,7 @@ It is unlawful for any person subject to the jurisdiction of the United Statesâ€
 
 &emsp;(4) to fail to make, keep, or furnish any catch return, statistical record, or other report required by regulations issued under section 972e of this title;
 
-&emsp;(5) being a person in charge of a vessel of the United States, to fail to stop upon being hailed by an authorized official of the United States, or to refuse to permit officials of the United States to board the vessel or inspect its catch, equipment, books, documents, records,or other articles, or to question individuals on board; or
+&emsp;(5) being a person in charge of a vessel of the United States, to fail to stop upon being hailed by an authorized official of the United States, or to refuse to permit officials of the United States to board the vessel or inspect its catch, equipment, books, documents, records, or other articles, or to question individuals on board; or
 
 &emsp;(6) to import from any country, in violation of any regulation issued under section 972e of this title, any designated species of tuna.
 

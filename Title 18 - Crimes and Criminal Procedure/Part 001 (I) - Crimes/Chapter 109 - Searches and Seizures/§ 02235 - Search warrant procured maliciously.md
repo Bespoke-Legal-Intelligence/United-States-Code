@@ -2,7 +2,7 @@
 
 Whoever maliciously and without probable cause procures a search warrant to be issued and executed, shall be fined under this title or imprisoned not more than one year.
 
-(June 25, 1948, ch. 645, 62 Stat. 803; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

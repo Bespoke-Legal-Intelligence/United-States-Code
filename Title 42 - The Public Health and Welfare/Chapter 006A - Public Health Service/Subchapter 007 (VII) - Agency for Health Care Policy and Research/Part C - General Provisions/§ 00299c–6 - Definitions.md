@@ -10,7 +10,7 @@ For purposes of this subchapter:
 
 &emsp;(4) The term “Director” means the Director of the Office of the Forum for Quality and Effectiveness in Health Care.
 
-(July 1, 1944, ch. 373, title IX, §927, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2204.)
+(July 1, 1944, ch. 373, title IX, §927, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2204.)
 
 #### Prior Provisions
 

@@ -14,7 +14,7 @@
 
 &emsp;(3) have his appointment or enlistment terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 79, §1001; renumbered §12641 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(h)(2), (4)(A), 108 Stat. 2996.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 79, §1001; renumbered §12641 and amended Pub. L. 103–337, div. A, title XVI, §1662(h)(2), (4)(A), Oct. 5, 1994, 108 Stat. 2996.)
 
 Historical and Revision Notes
 
@@ -48,7 +48,7 @@ In subsection (a), the words “As soon as may be practicable after the effectiv
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Cross References
 

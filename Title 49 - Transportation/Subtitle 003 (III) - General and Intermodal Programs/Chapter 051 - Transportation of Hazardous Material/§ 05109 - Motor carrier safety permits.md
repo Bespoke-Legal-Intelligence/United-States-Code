@@ -12,7 +12,7 @@ Requirement.—A motor carrier may transport or cause to be transported by motor
 
 (b)
 
-Applicable Transportation.—The Secretary shall prescribe by regulation the hazardous material and amounts of hazardous material to which this section applies. However, this section shall apply at least to transportation by amotor carrier, in amounts the Secretary establishes, of—
+Applicable Transportation.—The Secretary shall prescribe by regulation the hazardous material and amounts of hazardous material to which this section applies. However, this section shall apply at least to transportation by a motor carrier, in amounts the Secretary establishes, of—
 
 &emsp;(1) a class A or B explosive;
 

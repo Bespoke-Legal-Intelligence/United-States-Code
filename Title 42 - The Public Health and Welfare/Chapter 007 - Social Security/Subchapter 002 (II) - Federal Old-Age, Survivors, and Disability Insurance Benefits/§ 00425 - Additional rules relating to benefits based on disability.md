@@ -12,7 +12,7 @@ Notwithstanding any other provision of this subchapter, payment to an individual
 
 &emsp;(2) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
 
-(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Aug. 28, 1958, Pub. L. 85–840, title II, §205(<i>o</i>), 72 Stat. 1025; July 30, 1965, Pub. L. 89–97, title III, §306(c)(15), 79 Stat. 373; Jan. 2, 1968, Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), 81 Stat. 833, 869; Oct. 30, 1972, Pub. L. 92–603, title I, §107(b)(5), 86 Stat. 1343; June 9, 1980, Pub. L. 96–265, title III, §301(a), 94 Stat. 449; Apr. 20, 1983, Pub. L. 98–21, title III, §309(p), 97 Stat. 117; Nov. 5, 1990, Pub. L. 101–508, title V, §5113(a), 104 Stat. 1388–273; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), 108 Stat. 1478, 1494; Mar. 29, 1996, Pub. L. 104–121, title I, §105(a)(4), 110 Stat. 853.)
+(Aug. 14, 1935, ch. 531, title II, §225, as added Aug. 1, 1956, ch. 836, title I, §103(a), 70 Stat. 817; amended Pub. L. 85–840, title II, §205(<i>o</i>), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 89–97, title III, §306(c)(15), July 30, 1965, 79 Stat. 373; Pub. L. 90–248, title I, §§104(d)(5), 158(c)(9), Jan. 2, 1968, 81 Stat. 833, 869; Pub. L. 92–603, title I, §107(b)(5), Oct. 30, 1972, 86 Stat. 1343; Pub. L. 96–265, title III, §301(a), June 9, 1980, 94 Stat. 449; Pub. L. 98–21, title III, §309(p), Apr. 20, 1983, 97 Stat. 117; Pub. L. 101–508, title V, §5113(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(3)(A), Aug. 15, 1994, 108 Stat. 1478, 1494; Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsec. (b)(2). Pub. L. 101–508, §5113(a)(2), substituted “Secretary” for
 
 1965—Pub. L. 89–97 inserted “The first sentence of this section shall not apply to any child entitled to benefits under section 402(d) of this title, if he has attained the age of 18 but has not attained the age of 22, for any month during which he is a full-time student (as defined and determined under section 402(d) of this title).”
 
-1958—Pub. L. 85–840 provided that whenever the benefits of an individual entitled to a disability insurancebenefit are suspended for any month, the benefits of any individual entitled thereto under subsection (b), (c), or (d) of section 402 of this title, on the basis of the wages and self-employment income of such individual, shall be suspended for such month.
+1958—Pub. L. 85–840 provided that whenever the benefits of an individual entitled to a disability insurance benefit are suspended for any month, the benefits of any individual entitled thereto under subsection (b), (c), or (d) of section 402 of this title, on the basis of the wages and self-employment income of such individual, shall be suspended for such month.
 
 #### Effective Date of 1996 Amendment
 

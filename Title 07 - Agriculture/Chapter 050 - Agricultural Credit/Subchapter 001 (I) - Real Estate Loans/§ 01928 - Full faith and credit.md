@@ -34,7 +34,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 1968—Pub. L. 90–488 authorized insurance of loans until Oct. 1, 1971, without the $450,000,000 limitation on aggregate amount in any one year.
 
-1965—Pub. L. 89–240 substituted “$450,000,000” for “$200,000,000”, “may retain” for “shall retain”, and “specified in the insurance agreement applicable to the loan” for “determined by the Secretary from time to time equivalent to not less than one-half of 1 per centum per annum on the principal unpaid balance of the loan”, and struck out “except that no agreement shall provide for purchase by the Secretary at a date sooner than three years from the date of the note” after “he may prescribe”.
+1965—Pub. L. 89–240 substituted “$450,000,000” for “$200,000,000”, “may retain” for “shall retain”, and “specified in the insurance agreement applicable to the loan” for “determined by the Secretary from time totime equivalent to not less than one-half of 1 per centum per annum on the principal unpaid balance of the loan”, and struck out “except that no agreement shall provide for purchase by the Secretary at a date sooner than three years from the date of the note” after “he may prescribe”.
 
 1962—Pub. L. 87–798 increased aggregate amount of loans that may be insured in any one year from $150,000,000 to $200,000,000.
 

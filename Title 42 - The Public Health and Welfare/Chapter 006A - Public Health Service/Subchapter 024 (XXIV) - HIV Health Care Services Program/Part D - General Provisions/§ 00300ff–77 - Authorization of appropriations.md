@@ -18,7 +18,7 @@ Subject to subsection (b) of this section, there are authorized to be appropriat
 
 &emsp;&emsp;(B) such sums as may be necessary to carry out part B of this subchapter for each of the fiscal years 1997 through 2000.
 
-(July 1, 1944, ch. 373, title XXVI, §2677, as added May 20, 1996, Pub. L. 104–146, §6(a), 110 Stat. 1367.)
+(July 1, 1944, ch. 373, title XXVI, §2677, as added Pub. L. 104–146, §6(a), May 20, 1996, 110 Stat. 1367.)
 
 #### Effective Date
 

@@ -94,7 +94,7 @@ Oct. 26, 1970, Pub. L. 91–510, §202(c)–(f), 84 Stat. 1167; restated July 12
 
 In the section, the words “committee of Congress” are substituted for “committee of either House, of any joint committee of the two Houses” and variations of the substituted phrase to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The word “assistance” is substituted for “aid”, and the word “receipts” is substituted for “revenue”, for consistency in the revised title.
+In subsection (a), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to thePresident. The word “assistance” is substituted for “aid”, and the word “receipts” is substituted for “revenue”, for consistency in the revised title.
 
 In subsections (b)–(d), the words “program information” are substituted for “program-related data and information” to eliminate unnecessary words.
 
@@ -132,7 +132,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
-Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, provided that:
+Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, §1403, Oct. 17, 1998, 112 Stat. 2168, provided that:
 
 “(a)
 
@@ -154,7 +154,25 @@ Report.—Not later that March 1 of each year, the President shall submit to Con
 
 &emsp;“(2) The amounts proposed to be expended for counterterrorism and antiterrorism programs and activities for the fiscal year in which the report is submitted and the amounts that have already been expended for such programs and activities for that fiscal year.
 
-&emsp;“(3) The specific counterterrorism and antiterrorism programs and activities being implemented, any priorities with respect to such programs and activities, and whether there has been any duplication of efforts in implementing such programs and activities.”
+&emsp;“(3) The specific counterterrorism and antiterrorism programs and activities being implemented, any priorities with respect to such programs and activities, and whether there has been any duplication of efforts in implementing such programs and activities.
+
+“(c)
+
+Annex on Domestic Emergency Preparedness Program.—As part of the annual report submitted to Congress under subsection (b), the President shall include an annex which provides the following information on the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction (as established under section 1402 of the Defense Against Weapons of Mass Destruction Act of 1998 \[Pub. L. 105–261, 50 U.S.C. 2301 note\]):
+
+&emsp;“(1) Information on program responsibilities for each participating Federal department, agency, and bureau.
+
+&emsp;“(2) A summary of program activities performed during the preceding fiscal year for each participating Federal department, agency, and bureau.
+
+&emsp;“(3) A summary of program obligations and expenditures during the preceding fiscal year for each participating Federal department, agency, and bureau.
+
+&emsp;“(4) A summary of the program plan and budget for the current fiscal year for each participating Federal department, agency, and bureau.
+
+&emsp;“(5) The program budget request for the following fiscal year for each participating Federal department, agency, and bureau.
+
+&emsp;“(6) Recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction that have been made by the advisory panel to assess the capabilities of domestic response to terrorism involving weapons of mass destruction (as established under section 1405 of the Defense Against Weapons of Mass Destruction Act of 1998 \[Pub. L. 105–261, 50 U.S.C. 2301 note\]), and actions taken as a result of such recommendations.
+
+&emsp;“(7) Additional program measures and legislative authority for which congressional action may be required.”
 
 \[Memorandum of President of the United States, Mar. 5, 1998, 63 F.R. 12377, delegated to Director of the Office of Management and Budget reporting functions of President under section 1051(b) of Public Law 105–85 set out above.\]
 

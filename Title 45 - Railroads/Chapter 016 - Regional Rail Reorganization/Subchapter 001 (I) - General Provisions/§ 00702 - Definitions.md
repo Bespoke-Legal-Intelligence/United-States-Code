@@ -110,7 +110,7 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 
 #### Effective Date of 1976 Amendment
 
-Section 303 of Pub. L. 94–555 provided that: “The provisions of this Act and the amendments made by this Act \[amending this section, sections 543, 545, 546, 563, 601, 602, 641, 711, 716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, and sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under sections 501,641, 701, and 714 of this title, section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] shall take effect on October 1, 1976.”
+Section 303 of Pub. L. 94–555 provided that: “The provisions of this Act and the amendments made by this Act \[amending this section, sections 543, 545, 546, 563, 601, 602, 641, 711, 716, 720, 721, 743, 744, 771, 774, 775, 779, 823, 824, 825, 826, 829, 831, and 854 of this title, section 960 of Title 20, Education, and sections 1a, 5, 5c, 13, 15, 17, 22, 26c, and 1653 of former Title 49, Transportation, and enacting provisions set out as notes under sections 501, 641, 701, and 714 of this title, section 80a–3 of Title 15, Commerce and Trade, and sections 1a and 1654 of former Title 49\] shall take effect on October 1, 1976.”
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

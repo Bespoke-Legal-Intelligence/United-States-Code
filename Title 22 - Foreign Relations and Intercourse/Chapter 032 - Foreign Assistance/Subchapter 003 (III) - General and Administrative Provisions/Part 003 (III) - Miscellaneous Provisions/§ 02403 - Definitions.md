@@ -62,7 +62,7 @@ As used in this chapter—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsecs. (d) and (e), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsecs. (d) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 The Arms Export Control Act, referred to in subsec. (q), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -96,7 +96,7 @@ Subsec. (m). Pub. L. 93–189, §22(3), amended subsec. (m) generally. Prior to 
 
 &emsp;“(1) with respect to excess defense articles, the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying such articles;
 
-&emsp;“(2) with respect to nonexcess defense articles delivered from inventory to countries or international organizations under this chapter, the standard price in effect at the time such articles are dropped from inventory by the supplying agency. Such standard price shall be the same price (including authorized reduced prices) used for transfers or sales of such articles in or between the Armed Forces of the United States Government, or, where such articles are nottransferred or sold in or between the Armed Forces of the United States, the gross cost to the United States Government adjusted as appropriate for condition and market value; and
+&emsp;“(2) with respect to nonexcess defense articles delivered from inventory to countries or international organizations under this chapter, the standard price in effect at the time such articles are dropped from inventory by the supplying agency. Such standard price shall be the same price (including authorized reduced prices) used for transfers or sales of such articles in or between the Armed Forces of the United States Government, or, where such articles are not transferred or sold in or between the Armed Forces of the United States, the gross cost to the United States Government adjusted as appropriate for condition and market value; and
 
 &emsp;“(3) with respect to nonexcess defense articles delivered from new procurement to countries or international organizations under this chapter, the contract or production costs of such articles.
 

@@ -38,9 +38,9 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 &emsp;&emsp;(A) interdisciplinary programs which incorporate foreign language and international studies training into business, finance, management, communications systems, and other professional curricula;
 
-&emsp;&emsp;(B) interdisciplinary programs which provide business, finance, management, communications systems, and other professional training for foreign language and international studies faculty and advanced degree candidates;
+&emsp;&emsp;(B) interdisciplinary programs which provide business, finance, management, communications systems, and other professional training for foreign language and international studies faculty and degree candidates;
 
-&emsp;&emsp;(C) evening or summer programs, such as intensive language programs, available to members of the business community and other professionals which are designed to develop or enhance their international skills, awareness, and expertise;
+&emsp;&emsp;(C) programs, such as intensive language programs, available to members of the business community and other professionals which are designed to develop or enhance their international skills, awareness, and expertise;
 
 &emsp;&emsp;(D) collaborative programs, activities, or research involving other institutions of higher education, local educational agencies, professional associations, businesses, firms, or combinations thereof, to promote the development of international skills, awareness, and expertise among current and prospective members of the business community and other professionals;
 
@@ -56,7 +56,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 &emsp;&emsp;(B) the establishment of linkages overseas with institutions of higher education and other organizations that contribute to the educational objectives of this section;
 
-&emsp;&emsp;(C) summer institutes in international business, foreign area studies, and other international studies designed to carry out the purposes of subparagraph (A) of this paragraph;
+&emsp;&emsp;(C) summer institutes in international business, foreign area studies, foreign language studies, and other international studies designed to carry out the purposes of subparagraph (A) of this paragraph;
 
 &emsp;&emsp;(D) the development of opportunities for business students to study abroad in locations which are important to the existing and future economic well-being of the United States;
 
@@ -86,7 +86,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 &emsp;&emsp;(F) one representative appointed by the Governor of the State in which the institution of higher education is located whose normal responsibilities include official oversight or involvement in State-sponsored trade-related activities or programs; and
 
-&emsp;&emsp;(G) such other individuals as the institution of higher education deems appropriate.
+&emsp;&emsp;(G) such other individuals as the institution of higher education deems appropriate, such as a representative of a community college in the region served by the center.
 
 #### (3) Meetings
 
@@ -114,7 +114,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 #### (4) Waiver of non-Federal share
 
-&emsp;In the case of an institution of higher education receiving a grant under this part and conducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Any such waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
+&emsp;In the case of an institution of higher education receiving a grant under this part and conducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Anysuch waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
 
 #### (f) Grant conditions
 
@@ -128,7 +128,7 @@ Grants under this section shall be made on such conditions as the Secretary dete
 
 &emsp;(4) assurance that the institution of higher education, or combination of such institutions, will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (c)(1) of this section.
 
-(Pub. L. 89–329, title VI, §612, as added Pub. L. 100–418, title VI, §6261(2), Aug. 23, 1988, 102 Stat. 1520; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 729.)
+(Pub. L. 89–329, title VI, §612, as added Pub. L. 100–418, title VI, §6261(2), Aug. 23, 1988, 102 Stat. 1520; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 729; Pub. L. 105–244, title VI, §602(b), Oct. 7, 1998, 112 Stat. 1783.)
 
 #### Prior Provisions
 
@@ -136,7 +136,19 @@ A prior section 612 of Pub. L. 89–329 was renumbered section 613 and is classi
 
 #### Amendments
 
+1998—Subsec. (c)(1)(B). Pub. L. 105–244, §602(b)(1)(A)(i), struck out “advanced” after “faculty and”.
+
+Subsec. (c)(1)(C). Pub. L. 105–244, §602(b)(1)(A)(ii), struck out “evening or summer” before “programs, such”.
+
+Subsec. (c)(2)(C). Pub. L. 105–244, §602(b)(1)(B), inserted “foreign language studies,” after “area studies,”.
+
+Subsec. (d)(2)(G). Pub. L. 105–244, §602(b)(2), inserted “, such as a representative of a community college in the region served by the center” before the period.
+
 1992—Pub. L. 102–325 amended section generally, substituting present provisions for provisions relating to grants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -46,7 +46,7 @@
 
 &emsp;(6) to use a vessel to fish in a manner inconsistent with an order issued by the Secretary under section 973i of this title; or
 
-&emsp;(7) except for circumstances involving force majeure and other emergencies involving the health or safety of crew members or the safety of the vessel, to use an aircraft in association with the fishing activities of a vessel unless it is identified in the license application for the vessel, or any amendment thereto.
+&emsp;(7) except for circumstances involving force majeure and other emergencies involving thehealth or safety of crew members or the safety of the vessel, to use an aircraft in association with the fishing activities of a vessel unless it is identified in the license application for the vessel, or any amendment thereto.
 
 (Pub. L. 100–330, §5, June 7, 1988, 102 Stat. 592.)
 

@@ -2,7 +2,7 @@
 
 It shall be the duty of any officer, agent, or other person authorized by law to make seizures of merchandise or baggage subject to seizure for violation of the customs laws, to report every such seizure immediately to the appropriate customs officer for the district in which such violation occurred, and to turn over and deliver to such customs officer any vessel, vehicle, aircraft, merchandise, or baggage seized by him, and to report immediately to such customs officer every violation of the customs laws.
 
-(June 17, 1930, ch. 497, title IV, §602, 46 Stat. 754; June 2, 1970, Pub. L. 91–271, title III, §301(z), 84 Stat. 290; Oct. 12, 1984, Pub. L. 98–473, title II, §321, 98 Stat. 2056; Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(1), 98 Stat. 2984.)
+(June 17, 1930, ch. 497, title IV, §602, 46 Stat. 754; Pub. L. 91–271, title III, §301(z), June 2, 1970, 84 Stat. 290; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(1), Oct. 30, 1984, 98 Stat. 2984.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@
 
 (2) The Secretary shall establish a process for the prompt and appropriate response to information provided to the Director of NIH respecting incidences of violations of the rights of human subjects of research for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such violations.
 
-(July 1, 1944, ch. 373, title IV, §491, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 873.)
+(July 1, 1944, ch. 373, title IV, §491, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 873.)
 
 #### Section Referred to in Other Sections
 

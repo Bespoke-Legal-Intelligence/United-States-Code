@@ -4,7 +4,7 @@
 
 (1) The Secretary shall establish and conduct a Federal Parent Locator Service, under the direction of the designee of the Secretary referred to in section 652(a) of this title, which shall be used for the purposes specified in paragraphs (2) and (3).
 
-(2) For the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or making or enforcing child custody or visitation orders, the Federal Parent Locator Service shall obtain and transmit to any authorized person specified in subsection (c) of this section—
+(2) For the purpose of establishing parentage or establishing, setting the amount of, modifying, or enforcing child support obligations, the Federal Parent Locator Service shall obtain and transmit to any authorized person specified in subsection (c) of this section—
 
 &emsp;(A) information on, or facilitating the discovery of, the location of any individual—
 
@@ -16,13 +16,13 @@
 
 &emsp;&emsp;(iv) who has or may have parental rights with respect to a child,
 
-> &emsp;including the individual's social security number (or numbers), most recent address, and the name, address, and employer identification number of the individual's employer;
+> &emsp;including the individual's social security number (or numbers), most recent address, and thename, address, and employer identification number of the individual's employer;
 
 &emsp;(B) information on the individual's wages (or other income) from, and benefits of, employment (including rights to or enrollment in group health care coverage); and
 
 &emsp;(C) information on the type, status, location, and amount of any assets of, or debts owed by or to, any such individual.
 
-(3) For the purpose of enforcing any Federal or State law with respect to the unlawful taking orrestraint of a child, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title, the Federal Parent Locator Service shall be used to obtain and transmit the information specified in section 663(c) of this title to the authorized persons specified in section 663(d)(2) of this title.
+(3) For the purpose of enforcing any Federal or State law with respect to the unlawful taking or restraint of a child, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title, the Federal Parent Locator Service shall be used to obtain and transmit the information specified in section 663(c) of this title to the authorized persons specified in section 663(d)(2) of this title.
 
 #### (b) Disclosure of information to authorized persons
 
@@ -66,7 +66,7 @@ A request for information under this section shall be filed in such manner and f
 
 (1) Whenever the Secretary receives a request submitted under subsection (b) of this section which he is reasonably satisfied meets the criteria established by subsections (a), (b), and (c) of this section, he shall promptly undertake to provide the information requested from the files and records maintained by any of the departments, agencies, or instrumentalities of the United States or of any State.
 
-(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of theUnited States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
+(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, suchindividual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
 
 (3) The Secretary of Labor shall enter into an agreement with the Secretary to provide prompt access for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
 
@@ -116,7 +116,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall transmit information on individuals and employers maintainedunder this section to the Social Security Administration to the extent necessary for verification in accordance with subparagraph (B).
+&emsp;&emsp;The Secretary shall transmit information on individuals and employers maintained under this section to the Social Security Administration to the extent necessary for verification in accordance with subparagraph (B).
 
 #### (B) Verification by SSA
 
@@ -182,13 +182,43 @@ Each department, agency, and instrumentality of the United States shall on a qua
 
 #### (<i>o</i>) Use of set-aside funds
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for eachfiscal year an amount equal to 2 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for operation of the Federal Parent Locator Service under this section, to the extent such costs are not recovered through user fees. Amounts appropriated under this subsection for each of fiscal years 1997 through 2001 shall remain available until expended.
+Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 2 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for operation of the Federal Parent Locator Service under this section, to the extent such costs are not recovered through user fees. Amounts appropriated under this subsection for each of fiscal years 1997 through 2001 shall remain available until expended.
 
 #### (p) “Support order” defined
 
 As used in this part, the term “support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys’ fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2353; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2332(c), 95 Stat. 862; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), 98 Stat. 1166, 1170; Aug. 16, 1984, Pub. L. 98–378, §§17, 19(a), 98 Stat. 1321, 1322; Oct. 13, 1988, Pub. L. 100–485, title I, §124(a), 102 Stat. 2353; Aug. 22, 1996, Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], 110 Stat. 3009–233, 3009–255; Aug. 5, 1997, Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), 111 Stat. 627, 629–631, 636, 637; Aug. 5, 1997, Pub. L. 105–34, title X, §1090(a)(2), 111 Stat. 961; Nov. 19, 1997, Pub. L. 105–89, title I, §105, 111 Stat. 2120.)
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673.)
+
+#### Amendment of Subsections (i)(2) and (<i>l)</i>
+
+<i>Pub. L. 105–200, title IV, §402(a), (b), (e), July 16, 1998, 112 Stat. 668, 669, provided that, effective Oct. 1, 2000, this section is amended as follows:</i>
+
+<i>Subsection (i)(2) of this section is amended to read as follows:</i>
+
+#### (2) Data entry and deletion requirements
+
+#### (A) In general
+
+&emsp;Information provided pursuant to section 653a(g)(2) of this title shall be entered into the data base maintained by the National Directory of New Hires within two business days after receipt, and shall be deleted from the data base 24 months after the date of entry.
+
+#### (B) 12-month limit on access to wage and unemployment compensation information
+
+&emsp;The Secretary shall not have access for child support enforcement purposes to information in the National Directory of New Hires that is provided pursuant to section 653a(g)(2)(B) of this title, if 12 months has elapsed since the date the information is so provided and there has not been a match resulting from the use of such information in any information comparison under this subsection.
+
+#### (C) Retention of data for research purposes
+
+&emsp;Notwithstanding subparagraphs (A) and (B), the Secretary may retain such samples of data entered in the National Directory of New Hires as the Secretary may find necessary to assist in carrying out subsection (j)(5) of this section.
+
+<i>Subsection (l) of this section is amended—</i>
+
+<i>(1) by designating existing provisions as paragraph (1) and inserting the following heading: “In general”, and</i>
+
+<i>(2) by adding at the end the following:</i>
+
+#### (2) Penalty for misuse of information in the National Directory of New Hires
+
+The Secretary shall require the imposition of an administrative penalty (up to and including dismissal from employment), and a fine of $1,000, for each act of unauthorized access to, disclosure of, or use of, information in the National Directory of New Hires established under subsection (i) of this section by any officer or employee of the United States who knowingly and willfully violates this paragraph.
 
 #### References in Text
 
@@ -197,6 +227,10 @@ Parts A, B, and E of this subchapter, referred to in subsecs. (c)(3), (4), (h)(1
 The Internal Revenue Code of 1986, referred to in subsecs. (h)(3), (i)(3), and (<i>l</i>), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for “parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
+
+Subsec. (a)(2)(A)(iv). Pub. L. 105–200, §410(d)(3), realigned margins.
 
 1997—Subsec. (a). Pub. L. 105–33, §5534(a)(1), designated existing provisions as par. (1), substituted “for the purposes specified in paragraphs (2) and (3).” for “to obtain and transmit to any authorized person (as defined in subsection (c) of this section), for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—”, added pars. (2) and (3), and struck out former pars. (1) to (3) which read as follows:
 
@@ -286,6 +320,10 @@ Subsec. (f). Pub. L. 98–378, §17, struck out “, after determining that the
 
 1981—Subsec. (c)(1). Pub. L. 97–35 substituted “child and spousal support” for “child support”.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–200, title IV, §402(e), July 16, 1998, 112 Stat. 669, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
+
 #### Effective Date of 1997 Amendments
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
@@ -318,13 +356,21 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifically provided, see section 2336 of Pub. L. 97–35, set out as a note under section 651 of this title.
 
+#### Notice of Purposes for Which Wage and Salary Data Are To Be Used
+
+Pub. L. 105–200, title IV, §402(c), July 16, 1998, 112 Stat. 669, provided that: “Within 90 days after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of the specific purposes for which the new hire and the wage and unemployment compensation information in the National Directory of New Hires is to be used. At least 30 days before such information is to be used for a purpose not specified in the notice provided pursuant to the preceding sentence, the Secretary shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of such purpose.”
+
+#### Report on Data Maintained by National Directory of New Hires
+
+Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided that: “Within 3 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the accuracy of the data maintained by the National Directory of New Hires pursuant to section 453(i) of the Social Security Act \[subsec. (i) of this section\], and the effectiveness of the procedures designed to provide for the security of such data.”
+
 #### Coordination Between Secretaries Relating to Amendments by Pub. L. 105–34
 
 Section 1090(a)(3) of Pub. L. 105–34 provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding the implementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlines for States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
 
 #### Requirement for Cooperation
 
-Section 316(h) of title III of Pub. L. 104–193 provided that: “The Secretary of Labor and the Secretary of Health and Human Services shall work jointly to develop cost-effective and efficient methods of accessing the information in the various State directories of new hires and the National Directory of New Hires as established pursuant to the amendments made by this subtitle \[subtitle B (§§311–317) of title III of Pub. L. 104–193, enacting sections 653a and 654b of this title and amending this section, sections 503, 654, 654a, 666, 1320b–7 of this title, and sections 3304 and 6103 of Title 26, Internal Revenue Code\]. In developing these methods the Secretaries shall take into account the impact, including costs, on the States, and shall also consider the need toinsure the proper and authorized use of wage record information.”
+Section 316(h) of title III of Pub. L. 104–193 provided that: “The Secretary of Labor and the Secretary of Health and Human Services shall work jointly to develop cost-effective and efficient methods of accessing the information in the various State directories of new hires and the National Directory of New Hires as established pursuant to the amendments made by this subtitle \[subtitle B (§§311–317) of title III of Pub. L. 104–193, enacting sections 653a and 654b of this title and amending this section, sections 503, 654, 654a, 666, 1320b–7 of this title, and sections 3304 and 6103 of Title 26, Internal Revenue Code\]. In developing these methods the Secretaries shall take into account the impact, including costs, on the States, and shall also consider the need to insure the proper and authorized use of wage record information.”
 
 #### Executive Agencies To Facilitate Payment of Child Support
 

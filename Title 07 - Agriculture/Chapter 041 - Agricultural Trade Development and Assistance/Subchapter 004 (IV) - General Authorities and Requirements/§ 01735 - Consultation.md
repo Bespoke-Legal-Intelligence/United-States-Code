@@ -2,7 +2,7 @@
 
 The Secretary and the Administrator shall cooperate and consult in the implementation of this chapter.
 
-(July 10, 1954, ch. 469, title IV, §405, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(4), 76 Stat. 611; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1536; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3650.)
+(July 10, 1954, ch. 469, title IV, §405, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(4), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 (3)(A) To the extent practicable, the Secretary shall acquire both dedicated and dual fueled vehicles, and shall ensure that each type of alternative fueled vehicle is used by the Federal Government.
 
-(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquiredif, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
+(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquired if, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
 
 (C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b) of this section, whether or not original equipment manufacturer warranties still apply.
 
@@ -86,7 +86,7 @@ For purposes of this part—
 
 &emsp;(1) the term “acquired” means leased for a period of sixty continuous days or more, or purchased;
 
-&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
+&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other thanalcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
 
 &emsp;(3) the term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
 
@@ -104,19 +104,21 @@ For purposes of this part—
 
 &emsp;(6) the term “heavy duty vehicle” means a vehicle of greater than 8,500 pounds gross vehicle weight rating.
 
-#### (i) <sup>1</sup> Funding
+#### (h) Funding
 
 (1) For the purposes of this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718.)
+(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479.)
 
 #### Codification
 
 In subsec. (g)(4)(A), (5)(A), “section 32901(a)(7) of title 49” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information Cost Savings Act” and “section 32901(a)(8) of title 49” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act”, respectively, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+1998—Subsecs. (h), (i). Pub. L. 105–388 redesignated subsec. (i) as (h).
 
 1995—Subsec. (b)(1)(B). Pub. L. 104–66, §1052(e), struck out before period at end “, and annually thereafter”.
 
@@ -195,6 +197,4 @@ Section 5 of Pub. L. 100–494 provided that: “No guaranty or warranty with re
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13212, 13218 of this title.
-
-<i><sup>1</sup></i><i> So in original. No subsec. (h) has been enacted.</i>
 

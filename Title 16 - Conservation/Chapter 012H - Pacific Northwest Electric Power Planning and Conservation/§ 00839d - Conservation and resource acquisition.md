@@ -10,7 +10,7 @@
 
 &emsp;(C) aiding the Administrator's customers and governmental authorities in implementing model conservation standards adopted pursuant to section 839b(f) of this title, and
 
-&emsp;(D) conducting demonstration projects to determine the cost effectiveness of conservationmeasures and direct application of renewable energy resources.
+&emsp;(D) conducting demonstration projects to determine the cost effectiveness of conservation measures and direct application of renewable energy resources.
 
 (2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i) of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
 
@@ -36,7 +36,7 @@
 
 (1) For each proposal under subsection (a), (b), (f), (h), or (<i>l</i>) of this section to acquire a major resource, to implement a conservation measure which will conserve an amount of electric power equivalent to that of a major resource, to pay or reimburse investigation and preconstruction expenses of the sponsors of a major resource, or to grant billing credits or services involving a major resource, the Administrator shall—
 
-&emsp;(A) publish notice of the proposed action in the Federal Register and provide a copy of such notice to the Council, the Governor of each State in which facilities would be constructed or a conservation measure implemented, and the Administrator's customers;
+&emsp;(A) publish notice of the proposed action in the Federal Register and provide a copy ofsuch notice to the Council, the Governor of each State in which facilities would be constructed or a conservation measure implemented, and the Administrator's customers;
 
 &emsp;(B) not less than sixty days following publication of such notice, conduct one or more public hearings, presided over by a hearing officer, at which testimony and evidence shall be received, with opportunity for such rebuttal and cross-examination as the hearing officer deems appropriate in the development of an adequate hearing record;
 
@@ -150,7 +150,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 
-(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received fromthe sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
+(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received from the sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
 
 (2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the second sentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
 
@@ -168,7 +168,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 (4) The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
 
-(5) No later than July 1, 1981, the Administrator shall submit to the Congress a report of the results of the investigations undertaken pursuant to this subsection, together with the prospects for obtaining additional resources under the authority granted by this subsection and for reductions in generation or generating capacity through exchanges.
+(5) No later than July 1, 1981, the Administrator shall submit to the Congress a report of the results of the investigations undertaken pursuant to this subsection, together with the prospects for obtaining additional resourcesunder the authority granted by this subsection and for reductions in generation or generating capacity through exchanges.
 
 #### (m) Offering of reasonable shares to each Pacific Northwest electric utility
 
@@ -180,7 +180,7 @@ Except as to resources under construction on December 5, 1980, the Administrator
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

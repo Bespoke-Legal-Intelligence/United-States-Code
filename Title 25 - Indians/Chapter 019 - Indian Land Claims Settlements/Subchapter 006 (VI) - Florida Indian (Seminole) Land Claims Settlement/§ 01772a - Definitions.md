@@ -10,7 +10,7 @@ For purposes of this subchapter—
 
 &emsp;(4) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(5) The term “lands or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish.
+&emsp;(5) The term “lands or natural resources” means any real property or natural resources,or any interest in or right involving any real property or natural resources, including minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish.
 
 &emsp;(6) The term “Settlement Agreement” means the instrument—
 
@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) which will be presented for approval by all three parties to the United States District Court for the southern district of Florida for the purpose of terminating the lawsuit entitled Seminole Tribe of Indians of Florida,<sup>1</sup> v. State of Florida, et al., (Docket No. 78–6116–CIV), and for the extinguishment of rights to all potential or unsettled claims which the tribe may have to lands or natural resources in the State and the purchase of certain tribal interests in real property.
 
-&emsp;(7) The term “settlement funds” means those funds which the State of Florida and theSouth Florida Water Management District have agreed to pay to the tribe under the Settlement Agreement.
+&emsp;(7) The term “settlement funds” means those funds which the State of Florida and the South Florida Water Management District have agreed to pay to the tribe under the Settlement Agreement.
 
 &emsp;(8) The term “compact” means the Compact incorporated in the Settlement Agreement between the tribe, the State, and the district, which specifically defines the nature and extent of Seminole water rights and the manner of their use within the confines of the area of the district.
 

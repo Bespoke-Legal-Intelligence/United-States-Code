@@ -6,7 +6,7 @@ The President of the United States may make, or cause to be made, such investiga
 
 #### (b) Lease, purchase, or acquisition of lands and rights of way; purchase or acquisition of materials, minerals, and processes
 
-The President is authorized to lease, buy, or acquire, by condemnation, gift, grant, or devise,such lands and rights of way as may be necessary for the construction and operation of such plants and to take from any lands of the United States, or to buy or acquire by condemnation materials, minerals, and processes, patented or otherwise, necessary for the construction and operation of such plants and for the manufacture of such products.
+The President is authorized to lease, buy, or acquire, by condemnation, gift, grant, or devise, such lands and rights of way as may be necessary for the construction and operation of such plants and to take from any lands of the United States, or to buy or acquire by condemnation materials, minerals, and processes, patented or otherwise, necessary for the construction and operation of such plants and for the manufacture of such products.
 
 #### (c) Use of products of plants; disposal of surplus
 

@@ -14,9 +14,11 @@ United States international broadcasting shall—
 
 &emsp;(5) be conducted in accordance with the highest professional standards of broadcast journalism;
 
-&emsp;(6) be based on reliable information about its potential audience; and
+&emsp;(6) be based on reliable information about its potential audience;
 
-&emsp;(7) be designed so as to effectively reach a significant audience.
+&emsp;(7) be designed so as to effectively reach a significant audience; and
+
+&emsp;(8) promote respect for human rights, including freedom of religion.
 
 #### (b) Broadcasting principles
 
@@ -26,19 +28,21 @@ United States international broadcasting shall include—
 
 &emsp;(2) a balanced and comprehensive projection of United States thought and institutions, reflecting the diversity of United States culture and society;
 
-&emsp;(3) clear and effective presentation of the policies of the United States Government and responsible discussion and opinion on those policies;
+&emsp;(3) clear and effective presentation of the policies of the United States Government and responsible discussion and opinion on those policies, including editorials, broadcast by the Voice of America, which present the views of the United States Government;
 
-&emsp;(4) programming to meet needs which remain unserved by the totality of media voices available to the people of certain nations;
+&emsp;(4) the capability to provide a surge capacity to support United States foreign policy objectives during crises abroad;
 
-&emsp;(5) information about developments in each significant region of the world;
+&emsp;(5) programming to meet needs which remain unserved by the totality of media voices available to the people of certain nations;
 
-&emsp;(6) a variety of opinions and voices from within particular nations and regions prevented by censorship or repression from speaking to their fellow countrymen;
+&emsp;(6) information about developments in each significant region of the world;
 
-&emsp;(7) reliable research capacity to meet the criteria under this section;
+&emsp;(7) a variety of opinions and voices from within particular nations and regions prevented by censorship or repression from speaking to their fellow countrymen;
 
-&emsp;(8) adequate transmitter and relay capacity to support the activities described in this section; and
+&emsp;(8) reliable research capacity to meet the criteria under this section;
 
-&emsp;(9) training and technical support for independent indigenous media through government agencies or private United States entities.
+&emsp;(9) adequate transmitter and relay capacity to support the activities described in this section; and
+
+&emsp;(10) training and technical support for independent indigenous media through government agencies or private United States entities.
 
 #### (c) Voice of America broadcasts
 
@@ -50,11 +54,43 @@ The long-range interests of the United States are served by communicating direct
 
 &emsp;(3) VOA will present the policies of the United States clearly and effectively, and will also present responsible discussions and opinion on these policies.
 
-(Pub. L. 103–236, title III, §303, Apr. 30, 1994, 108 Stat. 433; Pub. L. 103–415, §1(p), Oct. 25, 1994, 108 Stat. 4301.)
+(Pub. L. 103–236, title III, §303, Apr. 30, 1994, 108 Stat. 433; Pub. L. 103–415, §1(p), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(d), Oct. 21, 1998, 112 Stat. 2681–778; Pub. L. 105–292, title V, §502, Oct. 27, 1998, 112 Stat. 2811.)
 
 #### Amendments
 
+1998—Subsec. (a)(8). Pub. L. 105–292 added par. (8).
+
+Subsec. (b)(3). Pub. L. 105–277, §1323(d)(1), which directed amendment of par. (3) by inserting “, including editorials, broadcast by the Voice of America, which present the views of the United States Government” after “policies”, was executed by making insertion after “policies” the second time it appears to reflect the probable intent of Congress.
+
+Subsec. (b)(4) to (10). Pub. L. 105–277, §1323(d)(2), (3), added par. (4) and redesignated former pars. (4) to (9) as (5) to (10), respectively.
+
 1994—Subsec. (c). Pub. L. 103–415 added subsec. (c).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+#### Broadcasting Information on States
+
+Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2420, Oct. 21, 1998, 112 Stat. 2681–835, provided that:
+
+“(a)
+
+In General.—The Voice of America shall devote programming each day to broadcasting information on the individual States of the United States. The broadcasts shall include—
+
+&emsp;“(1) information on the products, tourism, and cultural and educational facilities of each State;
+
+&emsp;“(2) information on the potential for trade with each State; and
+
+&emsp;“(3) discussions with State officials with respect to the matters described in paragraphs (1) and (2).
+
+“(b)
+
+Report.—Not later than one year after the date of enactment of this Act \[Oct. 21, 1998\], the Broadcasting Board of Governors of the United States Information Agency shall submit a report to Congress detailing the actions that have been taken to carry out subsection (a).
+
+“(c)
+
+State Defined.—In this section, the term ‘State’ means any of the several States of the United States, the District of Columbia, or any commonwealth or territory of the United States.”
 
 #### Section Referred to in Other Sections
 

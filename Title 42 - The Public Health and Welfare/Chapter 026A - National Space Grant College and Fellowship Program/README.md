@@ -29,7 +29,7 @@
 | (c) | Personnel and administrative services. |
 | (d) | Appointment of voting members; Chairman and Vice Chairman; reimbursement of non-Federal employee members; meetings; powers. |
 | [2486i.](%C2%A7%2002486i%20-%20Availability%20of%20other%20Federal%20personnel%20and%20data%3B%20cooperation%20with%20Administration.md) | Availability of other Federal personnel and data; cooperation with Administration. |
-| [2486j.](%C2%A7%2002486j%20-%20Reports%20to%20Congress%20and%20President%3B%20comments%20and%20recommendations.md) | Reports to Congress and President; comments and recommendations. |
+| [2486j.](%C2%A7%2002486j%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XI%2C%20%C2%A71101%28a%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203292.md) | Repealed. |
 | [2486k.](%C2%A7%2002486k%20-%20Designation%20or%20award%20to%20be%20on%20competitive%20basis.md) | Designation or award to be on competitive basis. |
 | 2486<i>l.</i> | Authorization of appropriations. |
 
@@ -50,6 +50,6 @@
 - [&sect; 02486g - Space grant fellowship program](%C2%A7%2002486g%20-%20Space%20grant%20fellowship%20program.md)
 - [&sect; 02486h - Space grant review panel](%C2%A7%2002486h%20-%20Space%20grant%20review%20panel.md)
 - [&sect; 02486i - Availability of other Federal personnel and data; cooperation with Administration](%C2%A7%2002486i%20-%20Availability%20of%20other%20Federal%20personnel%20and%20data%3B%20cooperation%20with%20Administration.md)
-- [&sect; 02486j - Reports to Congress and President; comments and recommendations](%C2%A7%2002486j%20-%20Reports%20to%20Congress%20and%20President%3B%20comments%20and%20recommendations.md)
+- [&sect; 02486j - Repealed. Pub. L. 105&#8211;362, title XI, &sect;1101(a), Nov. 10, 1998, 112 Stat. 3292](%C2%A7%2002486j%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XI%2C%20%C2%A71101%28a%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203292.md)
 - [&sect; 02486k - Designation or award to be on competitive basis](%C2%A7%2002486k%20-%20Designation%20or%20award%20to%20be%20on%20competitive%20basis.md)
 - [&sect; 02486l - Authorization of appropriations](%C2%A7%2002486l%20-%20Authorization%20of%20appropriations.md)

@@ -2,7 +2,7 @@
 
 There is a Navy band known as the United States Navy Band.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Sept. 7, 1962, Pub. L. 87–649, §14c(44), 76 Stat. 501; Dec. 12, 1980, Pub. L. 96–513, title V, §513(16), 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 87–649, §14c(44), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §513(16), Dec. 12, 1980, 94 Stat. 2932.)
 
 Historical and Revision Notes
 

@@ -28,7 +28,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (1) In general
 
-&emsp;Any vessel (including its gear, furniture, appurtenances, stores, and cargo) used in the commission of an act that is unlawful under subsection (a) of this section, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act that is unlawful under subsection (a) of this section, shall be subject to seizure and forfeiture as provided in section 1860 of this title.
+&emsp;Any vessel (including its gear, furniture, appurtenances, stores, and cargo) used in the commission of an act that is unlawful undersubsection (a) of this section, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act that is unlawful under subsection (a) of this section, shall be subject to seizure and forfeiture as provided in section 1860 of this title.
 
 #### (2) Disposal of fish
 
@@ -36,7 +36,7 @@ Any person who commits an act that is unlawful under paragraph (2), (3), (4), or
 
 #### (e) Enforcement
 
-The Secretary and the Secretary of the department in which the Coast Guard is operating shall enforce the provisions of this chapter and shall have the authority specified in sections <sup>1</sup> 1861(a), (b)(1), and (c) of this title for that purpose.
+The Secretary and the Secretary of the department in which the Coast Guard is operating shall enforce the provisions of this chapter and shall have the authority specified in section 1861(a), (b)(1), and (c) of this title for that purpose.
 
 #### (f) Jurisdiction of courts
 
@@ -50,7 +50,9 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(4) take such other actions as are in the interests of justice.
 
-(Pub. L. 104–43, title II, §207, Nov. 3, 1995, 109 Stat. 379.)
+(Pub. L. 104–43, title II, §207, Nov. 3, 1995, 109 Stat. 379; Pub. L. 105–384, title II, §201(b)(1), Nov. 13, 1998, 112 Stat. 3451.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+#### Amendments
+
+1998—Subsec. (e). Pub. L. 105–384 substituted “section” for “sections”.
 

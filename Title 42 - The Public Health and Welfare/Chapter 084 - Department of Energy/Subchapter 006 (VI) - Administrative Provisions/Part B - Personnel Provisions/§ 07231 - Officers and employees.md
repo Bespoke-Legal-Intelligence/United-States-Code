@@ -26,7 +26,7 @@ In the performance of his functions the Secretary is authorized to appoint and f
 
 #### (d) Appointment of additional scientific, engineering, etc., personnel without regard to civil service laws; compensation
 
-In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under section 5108 of title 5, under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnel not in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
+In addition to the number of positions which may be placed at GS–16, GS–17, and GS–18 under section 5108 of title 5, under existing law, or under this chapter, and to the extent the Secretary deems such action necessary to the discharge of his functions, he may appoint not more than two hundred of the scientific, engineering, professional, and administrative personnel without regard to the civil service laws and may fix the compensation of such personnelnot in excess of the maximum rate payable for GS–18 of the General Schedule under section 5332 of title 5.
 
 #### (e) Determination of maximum aggregate number of positions
 
@@ -64,7 +64,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Authority for Appointment of Certain Scientific, Engineering, and Technical Personnel
 
-Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040, provided that:
+Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257, provided that:
 
 “(a)
 
@@ -74,7 +74,7 @@ Authority.—(1) Notwithstanding any provision of title 5, United States Code, g
 
 &emsp;“(B) appoint persons to such positions.
 
-“(2) The rate of pay for a position established under paragraph (1) may not exceed the rate of pay payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+“(2) The rate of pay for a position established under paragraph (1) may not exceed the rate of pay payable for level III of the Executive Schedule under section 5314 of title 5, United States Code.
 
 “(3) To the maximum extent practicable, the Secretary shall appoint persons under paragraph (1)(B) to the positions established under paragraph (1)(A) in accordance with the merit system principles set forth in section 2301 of such title.
 
@@ -94,7 +94,7 @@ OPM Review.—(1) The Secretary shall enter into an agreement with the Director 
 
 “(c)
 
-Termination.—(1) The authority provided under subsection (a)(1) shall terminate on September 30, 1999.
+Termination.—(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2000.
 
 “(2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).”
 

@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated such amount, not to exceed $30,000,000, as may be necessary for the purposes of this subchapter.
 
-(July 14, 1955, ch. 360, title IV, §403, as added Dec. 31, 1970, Pub. L. 91–604, §14, 84 Stat. 1710.)
+(July 14, 1955, ch. 360, title IV, §403, as added Pub. L. 91–604, §14, Dec. 31, 1970, 84 Stat. 1710.)
 
 #### Codification
 

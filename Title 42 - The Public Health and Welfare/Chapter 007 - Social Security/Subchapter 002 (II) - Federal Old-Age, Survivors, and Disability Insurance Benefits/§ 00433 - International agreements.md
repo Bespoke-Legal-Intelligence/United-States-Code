@@ -2,7 +2,7 @@
 
 #### (a) Purpose of agreement
 
-The President is authorized (subject to the succeeding provisions of this section) to enter into agreements establishing totalization arrangements between the social security system established by this subchapter and the social security system of any foreign country, for the purposes of establishing entitlement to and the amount of old-age, survivors, disability, or derivative benefits based on a combination of an individual's periods of coverage under the social security system established by this subchapter and the social security system of such foreign country.
+The President is authorized (subject to the succeeding provisions of this section) to enterinto agreements establishing totalization arrangements between the social security system established by this subchapter and the social security system of any foreign country, for the purposes of establishing entitlement to and the amount of old-age, survivors, disability, or derivative benefits based on a combination of an individual's periods of coverage under the social security system established by this subchapter and the social security system of such foreign country.
 
 #### (b) Definitions
 
@@ -38,7 +38,7 @@ The Commissioner of Social Security shall make rules and regulations and establi
 
 (2) Such an agreement shall become effective on any date, provided in the agreement, which occurs after the expiration of the period (following the date on which the agreement is transmitted in accordance with paragraph (1)) during which at least one House of the Congress has been in session on each of 60 days; except that such agreement shall not become effective if, during such period, either House of the Congress adopts a resolution of disapproval of the agreement.
 
-(Aug. 14, 1935, ch. 531, title II, §233, as added Dec. 20, 1977, Pub. L. 95–216, title III, §317(a), 91 Stat. 1538; amended Aug. 13, 1981, Pub. L. 97–35, title XXII, §2201(b)(12), 95 Stat. 831; Apr. 20, 1983, Pub. L. 98–21, title III, §326(a), 97 Stat. 126; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(3)(A)(v), 98 Stat. 1170; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
+(Aug. 14, 1935, ch. 531, title II, §233, as added Pub. L. 95–216, title III, §317(a), Dec. 20, 1977, 91 Stat. 1538; amended Pub. L. 97–35, title XXII, §2201(b)(12), Aug. 13, 1981, 95 Stat. 831; Pub. L. 98–21, title III, §326(a), Apr. 20, 1983, 97 Stat. 126; Pub. L. 98–369, div. B, title VI, §2663(j)(3)(A)(v), July 18, 1984, 98 Stat. 1170; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478.)
 
 #### Amendments
 
@@ -48,7 +48,7 @@ The Commissioner of Social Security shall make rules and regulations and establi
 
 1983—Subsec. (e)(2). Pub. L. 98–21 substituted “during which at least one House of the Congress has been in session on each of 60 days” for “during which each House of the Congress has been in session on each of 90 days”.
 
-1981—Subsec. (c)(2). Pub. L. 97–35 struck out provision permitting the agreement to provide that if the benefit paid by the United States to an individual who legally resides in the United States when added to the benefit paid by the foreign country is less than the benefit amount payable to such individual based on the first figure in, or deemed to be in, column IV of the table in section 415(a) of this title in the case of an individual becoming eligible before Jan. 1, 1979, or based on a primary insurance amount determined under section 415(a)(1)(C)(i)(I) of this title in the case of an individual becoming eligible for such benefit on or after such date, the benefit paid by the United States be increased so that the two benefits equal the benefit amount that would be payable.
+1981—Subsec. (c)(2). Pub. L. 97–35 struck out provision permitting the agreement to provide that if the benefit paid by the United States to an individual who legally resides in the United States when added to the benefit paid by the foreign country is less than the benefit amount payable to such individual based on the first figure in, or deemed to be in, column IV of the table in section 415(a) of this title in the case of an individual becoming eligible before Jan. 1, 1979, or based on a primary insurance amount determined under section 415(a)(1)(C)(i)(I) of this title in the case of an individualbecoming eligible for such benefit on or after such date, the benefit paid by the United States be increased so that the two benefits equal the benefit amount that would be payable.
 
 #### Effective Date of 1994 Amendment
 

@@ -24,5 +24,5 @@ Any amount transferred under subsection (a) of this section—
 
 Whenever the Secretary of the Treasury (after consultation with the Secretary of Labor) determines that the amount in the account to which an advance is made under subsection (a) of this section exceeds the amount necessary to meet the anticipated payments from the account, the Secretary shall transfer from the account to the account from which the advance was made an amount equal to the lesser of the amount so advanced or such excess.
 
-(Aug. 14, 1935, ch. 531, title IX, §910, as added July 3, 1992, Pub. L. 102–318, title V, §531(c), 106 Stat. 316.)
+(Aug. 14, 1935, ch. 531, title IX, §910, as added Pub. L. 102–318, title V, §531(c), July 3, 1992, 106 Stat. 316.)
 

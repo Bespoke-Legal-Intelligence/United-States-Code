@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Nov. 3, 1990, Pub. L. 101–500, §8, 104 Stat. 1216.
 
-In subsection (a), before clause (1), the words “any part of” are substituted for “in whole or in part” for consistency in the revised title. The words “application of any provision of” are omitted as surplus. The word “refuse” is omitted as unnecessary because of the definition of “nonfood product” in section 5702 of the revised title. The word “decides” is substituted for “determines” for consistency in the revised title. In clause (2), the word “otherwise” is omitted as surplus.
+In subsection (a), before clause (1), the words “any part of” are substituted for “in whole or in part” for consistency in the revised title. The words “applicationof any provision of” are omitted as surplus. The word “refuse” is omitted as unnecessary because of the definition of “nonfood product” in section 5702 of the revised title. The word “decides” is substituted for “determines” for consistency in the revised title. In clause (2), the word “otherwise” is omitted as surplus.
 
 #### Section Referred to in Other Sections
 

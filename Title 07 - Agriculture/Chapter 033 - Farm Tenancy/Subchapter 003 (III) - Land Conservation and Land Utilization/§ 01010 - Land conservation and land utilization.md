@@ -2,7 +2,7 @@
 
 The Secretary is authorized and directed to develop a program of land conservation and land utilization, in order thereby to correct maladjustments in land use, and thus assist in controlling soil erosion, reforestation, preserving natural resources, protecting fish and wildlife, developing and protecting recreational facilities, mitigating floods, preventing impairment of dams and reservoirs, developing energy resources, conserving surface and subsurface moisture, protecting the watersheds of navigable streams, and protecting the public lands, health, safety, and welfare, but not to build industrial parks or establish private industrial or commercial enterprises.
 
-(July 22, 1937, ch. 517, title III, §31, 50 Stat. 525; Sept. 27, 1962, Pub. L. 87–703, title I, §102(a), 76 Stat. 607; Nov. 8, 1966, Pub. L. 89–796, §1(a), 80 Stat. 1478; Dec. 22, 1981, Pub. L. 97–98, title XV, §1513, 95 Stat. 1333.)
+(July 22, 1937, ch. 517, title III, §31, 50 Stat. 525; Pub. L. 87–703, title I, §102(a), Sept. 27, 1962, 76 Stat. 607; Pub. L. 89–796, §1(a), Nov. 8, 1966, 80 Stat. 1478; Pub. L. 97–98, title XV, §1513, Dec. 22, 1981, 95 Stat. 1333.)
 
 #### Repeals
 
@@ -26,7 +26,7 @@ Repeal by Pub. L. 94–579, insofar as applicable to the issuance of rights-of-w
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involvelands and programs under jurisdiction of that Department, related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
 #### Existing Rights-of-Way
 

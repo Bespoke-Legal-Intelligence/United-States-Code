@@ -14,7 +14,7 @@
 
 (c) In any case where the amount to be received by the United States is not more than $100,000, the Secretary of the Air Force may delegate his authority under subsections (a) and (b) to any person in the Department of the Air Force designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 592; July 7, 1965, Pub. L. 89–67, 79 Stat. 212; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1633, 103 Stat. 1608.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 592; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
 
 Historical and Revision Notes
 

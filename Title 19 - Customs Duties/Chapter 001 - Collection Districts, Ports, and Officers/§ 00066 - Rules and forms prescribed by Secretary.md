@@ -2,7 +2,7 @@
 
 The Secretary of the Treasury shall prescribe forms of entries, oaths, bonds, and other papers, and rules and regulations not inconsistent with law, to be used in carrying out the provisions of law relating to raising revenue from imports, or to duties on imports, or to warehousing, and shall give such directions to customs officers and prescribe such rules and forms to be observed by them as may be necessary for the proper execution of the law.
 
-(R.S. §251 \[part\]; June 2, 1970, Pub. L. 91–271, title III, §308, 84 Stat. 292.)
+(R.S. §251 \[part\]; Pub. L. 91–271, title III, §308, June 2, 1970, 84 Stat. 292.)
 
 #### Codification
 

@@ -1,0 +1,300 @@
+### §1437. Declaration of policy and public housing agency organization
+
+#### (a) Declaration of policy
+
+It is the policy of the United States—
+
+&emsp;(1) to promote the general welfare of the Nation by employing the funds and credit of the Nation, as provided in this chapter—
+
+&emsp;&emsp;(A) to assist States and political subdivisions of States to remedy the unsafe housing conditions and the acute shortage of decent and safe dwellings for low-income families;
+
+&emsp;&emsp;(B) to assist States and political subdivisions of States to address the shortage of housing affordable to low-income families; and
+
+&emsp;&emsp;(C) consistent with the objectives of this subchapter, to vest in public housing agencies that perform well, the maximum amount of responsibility and flexibility in program administration, with appropriate accountability to public housing residents, localities, and the general public;
+
+&emsp;(2) that the Federal Government cannot through its direct action alone provide for the housing of every American citizen, or even a majority of its citizens, but it is the responsibility of the Government to promote and protect the independent and collective actions of private citizens to develop housing and strengthen their own neighborhoods;
+
+&emsp;(3) that the Federal Government should act where there is a serious need that private citizens or groups cannot or are not addressing responsibly; and
+
+&emsp;(4) that our Nation should promote the goal of providing decent and affordable housing for all citizens through the efforts and encouragement of Federal, State, and local governments, and by the independent and collective actions of private citizens, organizations, and the private sector.
+
+#### (b) Public housing agency organization
+
+#### (1) Required membership
+
+&emsp;Except as provided in paragraph (2), the membership of the board of directors or similar governing body of each public housing agency shall contain not less than 1 member—
+
+&emsp;&emsp;(A) who is directly assisted by the public housing agency; and
+
+&emsp;&emsp;(B) who may, if provided for in the public housing agency plan, be elected by the residents directly assisted by the public housing agency.
+
+#### (2) Exception
+
+&emsp;Paragraph (1) shall not apply to any public housing agency—
+
+&emsp;&emsp;(A) that is located in a State that requires the members of the board of directors or similar governing body of a public housing agency to be salaried and to serve on a full-time basis; or
+
+&emsp;&emsp;(B) with less than 300 public housing units, if—
+
+&emsp;&emsp;&emsp;(i) the agency has provided reasonable notice to the resident advisory board of the opportunity of not less than 1 resident described in paragraph (1) to serve on the board of directors or similar governing body of the public housing agency pursuant to such paragraph; and
+
+&emsp;&emsp;&emsp;(ii) within a reasonable time after receipt by the resident advisory board established by the agency pursuant to section 1437c–1(e) of this title of notice under clause (i), the public housing agency has not been notified of the intention of any resident to participate on the board of directors.
+
+#### (3) Nondiscrimination
+
+&emsp;No person shall be prohibited from serving on the board of directors or similar governing body of a public housing agency because of the residence of that person in a public housing project or status as assisted under section 1437f of this title.
+
+(Sept. 1, 1937, ch. 896, title I, §2, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236; Pub. L. 105–276, title V, §505, Oct. 21, 1998, 112 Stat. 2522.)
+
+#### Prior Provisions
+
+A prior section 2 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, related to definitions and was classified to section 1402 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+
+Prior similar provisions were contained in section 1 of act Sept. 1, 1937, ch. 896, 50 Stat. 888, which was classified to section 1401 of this title prior to the general revision of this chapter by Pub. L. 93–383.
+
+#### Amendments
+
+1998—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
+
+1990—Pub. L. 101–625 substituted “low-income housing” for “lower income housing”.
+
+1981—Pub. L. 97–35 substituted reference to lower income for reference to low income in two places.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §503, Oct. 21, 1998, 112 Stat. 2521, provided that:
+
+“(a)
+
+In General.—The amendments under this title \[see Tables for classification\] are made on the date of the enactment of this Act \[Oct. 21, 1998\], but this title shall take effect, and the amendments made by this title shall apply beginning upon, October 1, 1999, except—
+
+&emsp;“(1) as otherwise specifically provided in this title; or
+
+&emsp;“(2) as otherwise specifically provided in any amendment made by this title.
+
+> The Secretary may, by notice, implement any provision of this title or any amendment made by this title before such date, except to the extent that such provision or amendment specifically provides otherwise.
+
+“(b)
+
+Savings Provision.—Notwithstanding any amendment under this title that is made (in accordance with subsection (a)) on the date of the enactment of this Act \[Oct. 21, 1998\] but applies beginning on October 1, 1999, the provisions of law amended by such amendment, as such provisions were in effect immediately before the making of such amendment, shall continue to apply during the period beginning on the date of the enactment of this Act and ending upon October 1, 1999, unless otherwise specifically provided by this title.
+
+“(c)
+
+Technical Recommendations.—Not later than 9 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking and Financial Services of the House of Representatives, recommended technical and conforming legislative changes necessary to carry out this title and the amendments made by this title.
+
+“(d)
+
+List of Obsolete Documents.—Not later than October 1, 1999, the Secretary of Housing and Urban Development shall cause to be published in the Federal Register a list of all rules, regulations, and orders (including all handbooks, notices, and related requirements) pertaining to public housing or section 8 \[42 U.S.C. 1437f\] tenant-based programs issued or promulgated under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] before the date of the enactment of this Act \[Oct. 21, 1998\] that are or will be obsolete because of the enactment of this Act or are otherwise obsolete.
+
+“(e)
+
+Protection of Certain Regulations.—No provision of this title may be construed to repeal the regulations of the Secretary regarding tenant participation and tenant opportunities in public housing (24 C.F.R. 964).
+
+“(g)\[(f)\]
+
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
+
+#### Effective Date
+
+Section 201(b) of Pub. L. 93–383 provided that: “The provisions of subsection (a) of this section \[enacting sections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[section 1437a(1) of this title\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[section 1437f of this title\] as so amended shall be effective not later than January 1, 1975.”
+
+Section 3(1) of the United States Housing Act of 1937, as amended, effective Sept. 26, 1975, see Effective Date note set out under section 1437a of this title.
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–276, title V, §501(a), Oct. 21, 1998, 112 Stat. 2518, provided that: “This title \[see Tables for classification\] may be cited as the ‘Quality Housing and Work Responsibility Act of 1998’.”
+
+#### Short Title of 1988 Amendment
+
+Section 1 of Pub. L. 100–358 provided that: “This Act \[enacting sections 1437aa to 1437ee of this title, amending sections 1437a and 1437c of this title, and enacting provisions set out as a note under section 1437a of this title\] may be cited as the ‘Indian Housing Act of 1988’.”
+
+#### Short Title
+
+Section 1 of title I of act Sept. 1, 1937, ch. 896, as added by section 201(a) of Pub. L. 93–383; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681, provided that: “This Act \[enacting this chapter\] may be cited as the ‘United States Housing Act of 1937’.”
+
+#### Applicability of 1996 Amendments; Indian Housing
+
+Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) \[amending provisions set out as notes under sections 1437a, 1437c, and 1437<i>l</i> of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+
+Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437<i>l</i> of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+
+Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+
+Pub. L. 104–99, title IV, §402(e), Jan. 26, 1996, 110 Stat. 43, which provided that amendments made by section 402(a) to (d) and (f) of Pub. L. 104–99 were also to apply to public housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and an Indian housing authority, was repealed by Pub. L. 105–276, title V, §595(e)(16), Oct. 21, 1998, 112 Stat. 2659.
+
+#### Applicability of 1990 Amendments; Indian Housing
+
+Section 103(b) of Pub. L. 102–550 provided that:
+
+“(1)
+
+In general.—In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of sections 572, 573, and 574 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, amending this section and sections 1437a, 1437b to 1437d, 1437f, 1437g, 1437i, 1437j, 1437<i>l</i>, 1437n, 1437p, 1437r, 1437s, and 1437aa to 1437dd of this title, repealing section 1437<i>o</i> of this title, and enacting provisions set out as notes under section 1437a of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian Housing Authority.
+
+“(2)
+
+Effective date.—Paragraph (1) shall take effect as if such provision were enacted upon the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\].”
+
+Section 419 of title IV of Pub. L. 101–625 provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subtitle \[subtitle A (§§411–419) of title IV of Pub. L. 101–625, enacting subchapter II–A of this chapter and amending sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that nothing in this title \[see Short Title note set out under section 1437aaa of this title\] affects the program under section 202 of such Act \[former 42 U.S.C. 1437bb\].”
+
+Section 527 of Pub. L. 101–625 provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437<i>l</i> of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply.”
+
+#### Applicability of 1989 Amendments; Indian Housing
+
+Pub. L. 101–235, title I, §101(d), Dec. 15, 1989, 103 Stat. 1990, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) of this section \[amending section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+
+Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by subsection (a) \[amending section 1439 of this title\] and the provisions of subsection (b) of this section \[set out as an Effective Date of 1989 Amendment note under section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+
+#### Funding of Certain Public Housing
+
+Pub. L. 105–276, title II, §226, Oct. 21, 1998, 112 Stat. 2490, provided that: “Notwithstanding any other provision of law, no funds in this Act or any other Act may hereafter be used by the Secretary of Housing and Urban Development to determine allocations or provide assistance for operating subsidies or modernization for certain State and city funded and locally developed public housing units, as defined for purposes of a statutory paragraph, notwithstanding the deeming by statute of such units to be public housing units developed under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], unless such unit was so assisted before October 1, 1998.”
+
+#### Congressional Statement of Findings and Purposes
+
+Pub. L. 105–276, title V, §502, Oct. 21, 1998, 112 Stat. 2520, provided that:
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) there exists throughout the Nation a need for decent, safe, and affordable housing;
+
+&emsp;“(2) the inventory of public housing units owned, assisted, or operated by public housing agencies, anasset in which the Federal Government has invested over $90,000,000,000, has traditionally provided rental housing that is affordable to low-income persons;
+
+&emsp;“(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
+
+&emsp;“(4) the Federal method of overseeing every aspect of public housing by detailed and complex statutes and regulations has aggravated the problem and has placed excessive administrative burdens on public housing agencies; and
+
+&emsp;“(5) the interests of low-income persons, and the public interest, will best be served by a reformed public housing program that—
+
+&emsp;&emsp;“(A) consolidates many public housing programs into programs for the operation and capital needs of public housing;
+
+&emsp;&emsp;“(B) streamlines program requirements;
+
+&emsp;&emsp;“(C) vests in public housing agencies that perform well the maximum feasible authority, discretion, and control with appropriate accountability to public housing residents, localities, and the general public; and
+
+&emsp;&emsp;“(D) rewards employment and economic self-sufficiency of public housing residents.
+
+“(b)
+
+Purposes.—The purpose of this title \[see Tables for classification\] is to promote homes that are affordable to low-income families in safe and healthy environments, and thereby contribute to the supply of affordable housing, by—
+
+&emsp;“(1) deregulating and decontrolling public housing agencies, thereby enabling them to perform as property and asset managers;
+
+&emsp;“(2) providing for more flexible use of Federal assistance to public housing agencies, allowing the authorities to leverage and combine assistance amounts with amounts obtained from other sources;
+
+&emsp;“(3) facilitating mixed income communities and decreasing concentrations of poverty in public housing;
+
+&emsp;“(4) increasing accountability and rewarding effective management of public housing agencies;
+
+&emsp;“(5) creating incentives and economic opportunities for residents of dwelling units assisted by public housing agencies to work, become self-sufficient, and transition out of public housing and federally assisted dwelling units;
+
+&emsp;“(6) consolidating the voucher and certificate programs for rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] into a single market-driven program that will assist in making tenant-based rental assistance under such section more successful at helping low-income families obtain affordable housing and will increase housing choice for low-income families; and
+
+&emsp;“(7) remedying the problems of troubled public housing agencies and replacing or revitalizing severely distressed public housing projects.”
+
+#### Mental Health Action Plan
+
+Pub. L. 105–276, title V, §517, Oct. 21, 1998, 112 Stat. 2550, provided that: “The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, the Secretary of Labor, and appropriate State and local officials and representatives, shall—
+
+&emsp;“(1) develop an action plan and list of recommendations for the improvement of means of providing severe mental illness treatment to families and individuals receiving housing assistance under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], including public housing residents, residents of multifamily housing assisted with project-based assistance under section 8 of such Act \[42 U.S.C. 1437f\], and recipients of tenant-based assistance under such section; and
+
+&emsp;“(2) develop and disseminate a list of current practices among public housing agencies and owners of assisted housing that serve to benefit persons in need of mental health care.”
+
+#### Annual Report
+
+Pub. L. 105–276, title V, §581, Oct. 21, 1998, 112 Stat. 2643, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], and annually thereafter, the Secretary shall submit a report to the Congress on—
+
+&emsp;“(1) the impact of the amendments made by this Act \[Pub. L. 105–276, see Tables for classification\] on—
+
+&emsp;&emsp;“(A) the demographics of public housing residents and families receiving tenant-based assistance under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]; and
+
+&emsp;&emsp;“(B) the economic viability of public housing agencies; and
+
+&emsp;“(2) the effectiveness of the rent policies established by this Act and the amendments made by this Act on the employment status and earned income of public housing residents.
+
+“(b)
+
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
+
+#### Use of American Products
+
+Pub. L. 105–276, title V, §584, Oct. 21, 1998, 112 Stat. 2645, provided that:
+
+“(a)
+
+Purchase of American-Made Equipment and Products.—It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available in this Act \[Pub. L. 105–276, see Tables for classification\] should be American made.
+
+“(b)
+
+Notice Requirement.—In providing financial assistance to, or entering into any contract with, any entity using funds made available in this Act, the head of each Federal agency, to the greatest extent practicable, shall provide to such entity a notice describing the statement made in subsection (a) by the Congress.
+
+“(c)
+
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
+
+#### GAO Study on Housing Assistance Program Costs
+
+Pub. L. 105–276, title V, §585, Oct. 21, 1998, 112 Stat. 2645, provided that:
+
+“(a)
+
+Study.—The Comptroller General of the United States shall conduct a study that provides an objective and independent accounting and analysis of the full cost to the Federal Government, public housing agencies, State and local governments, and other entities, per assisted household, of the Federal assisted housing programs, taking into account the qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
+
+“(b)
+
+Contents.—The study under this section shall—
+
+&emsp;“(1) analyze the full cost to the Federal Government, public housing agencies, State and local governments, and other parties, per assisted household, of the Federal assisted housing programs, in accordance with generally accepted accounting principles, and shall conduct the analysis on a nationwide and regional basis and in a manner such that accurate per unit cost comparisons may be made between Federal assisted housing programs, including grants, direct subsidies, tax concessions, Federal mortgage insurance liability, periodic renovation and rehabilitation, and modernization costs, demolition costs, and other ancillary costs such as security; and
+
+&emsp;“(2) measure and evaluate qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
+
+“(c)
+
+Prohibition of Recommendations.—In conducting the study under this section and reporting under subsection (e), the Comptroller General may not make any recommendations regarding Federal housing policy.
+
+“(d)
+
+Federal Assisted Housing Programs.—For purposes of this section, the term ‘Federal assisted housing programs’ means—
+
+&emsp;“(1) the public housing program under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], except that the study under this section shall differentiate between and compare the development and construction of new public housing and the assistance of existing public housing structures;
+
+&emsp;“(2) the certificate program for rental assistance under section 8(b)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(1)\];
+
+&emsp;“(3) the voucher program for rental assistance under section 8(<i>o</i>) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(<i>o</i>)\];
+
+&emsp;“(4) the programs for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
+
+&emsp;“(5) the rental assistance payments program under section 521(a)(2)(A) of the Housing Act of 1949 \[42 U.S.C. 1490a(a)(2)(A)\];
+
+&emsp;“(6) the program for housing for the elderly under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\];
+
+&emsp;“(7) the program for housing for persons with disabilities under section 811 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8013\];
+
+&emsp;“(8) the program for financing housing by a loan or mortgage insured under section 221(d)(3) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(3)\] that bears interest at a rate determined under the proviso of section 221(d)(5) of such Act \[12 U.S.C. 1715<i>l</i>(d)(5)\];
+
+&emsp;“(9) the program under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\];
+
+&emsp;“(10) the program for construction or substantial rehabilitation under section 8(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(2)\], as in effect before October 1, 1983; and
+
+&emsp;“(11) any other program for housing assistance administered by the Secretary of Housing and Urban Development or the Secretary of Agriculture, under which occupancy in the housing assisted or housing assistance provided is based on income, as the Comptroller General may determine.
+
+“(e)
+
+Report.—Not later than 12 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Comptroller General shall submit to the Congress a final report which shall contain the results of the study under this section, including the analysis and estimates required under subsection (b).
+
+“(f)
+
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
+
+#### Limitation on Withholding or Conditioning of Assistance
+
+Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3301 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
+

@@ -12,7 +12,7 @@ The President shall designate, within the Department of State, a coordinator who
 
 &emsp;(4) ensuring that United States assistance programs for the independent states are consistent with this Act (including the amendments made by this Act);
 
-&emsp;(5) ensuring proper management, implementation, and oversight by agencies responsiblefor assistance programs for the independent states; and
+&emsp;(5) ensuring proper management, implementation, and oversight by agencies responsible for assistance programs for the independent states; and
 
 &emsp;(6) resolving policy and program disputes among United States Government agencies with respect to United States assistance for the independent states.
 
@@ -60,7 +60,7 @@ Section 1007 of Pub. L. 102–511 directed Secretary of the Treasury, using info
 
 #### Ex. Ord. No. 12884. Delegation of Functions Under Freedom Support Act and Related Provisions of Foreign Operations, Export Financing and Related Programs Appropriations Act
 
-Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, §3, Dec. 12, 1996, 61 F.R. 66187, provided:
+Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended by Ex. Ord. No. 13030, §3, Dec. 12, 1996, 61 F.R. 66187; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) \[22 U.S.C. 5801 et seq.\], the Foreign Assistance Act of 1961, as amended (the “Foreign Assistance Act”) \[22 U.S.C. 2151 et seq.\], the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1993 (Public Law 102–391) \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -86,17 +86,7 @@ Sec. 2. <i>Coordinator</i>. There are delegated to the Coordinator designated in
 
 (d) paragraph (2) of section 498A(c) of the Foreign Assistance Act \[22 U.S.C. 2295a(c)(2)\] and the requirement to make reports under that section regarding determinations under that paragraph.
 
-Sec. 3. <i>International Development Cooperation Agency</i>. There are delegated to the United States International Development Cooperation Agency the functions conferred upon the President by:
-
-(a) sections 301(a) and 307 of the Act \[22 U.S.C. 5821(a), 5827\], except insofar as provided otherwise in section 2(b) of this order;
-
-(b) section 498 and section 498C(b)(2) of the Foreign Assistance Act \[22 U.S.C. 2295, 2295c(b)(2)\];
-
-(c) paragraph (3) of section 498A(c) of the Foreign Assistance Act \[22 U.S.C. 2295a(c)(3)\] and the requirement to make reports under that section regarding determinations under that paragraph;
-
-(d) subsection (d) under the heading “Assistance for the New Independent States of the Former Soviet Union” contained in Title II of Public Law 102–391 \[106 Stat. 1650\]; and
-
-(e) section 592 of Public Law 102–391 \[106 Stat. 1691\], except to the extent otherwise provided in section 5(b) of this order.
+\[Sec. 3. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792.\]
 
 Sec. 4. <i>Secretary of Agriculture</i>. There are delegated to the Secretary of Agriculture the functions conferred upon the President by section 807(d) of the Act \[22 U.S.C. 2452 note\].
 
@@ -104,7 +94,7 @@ Sec. 5. <i>Other Agencies</i>. The functions conferred upon the President by:
 
 (a) sections 498B(h) and 498B(i) of the Foreign Assistance Act \[22 U.S.C. 2295b(h), (i)\] are delegated to the head of the agency that is responsible for administering the particular program or activity with respect to which the authority is to be exercised; and
 
-(b) the third proviso in section 592 of Public Law 102–391 \[106 Stat. 1691\] are delegated to the head of each agency that is responsible for administering relevant programs or activities.
+(b) the third proviso in section 592 of Public Law 102–391 \[106 Stat. 1691\] are delegated to the head of eachagency that is responsible for administering relevant programs or activities.
 
 Sec. 6. <i>General</i>. (a) the \[sic\] functions described in sections 3, 4, and 5 of this order shall be exercised subject to the authority of the Coordinator under section 102(a) of the Act \[22 U.S.C. 5812(a)\] or otherwise.
 

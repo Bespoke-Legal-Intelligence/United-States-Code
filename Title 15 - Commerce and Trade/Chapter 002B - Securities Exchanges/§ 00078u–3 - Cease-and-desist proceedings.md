@@ -2,11 +2,11 @@
 
 #### (a) Authority of Commission
 
-If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this chapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have knownwould contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
+If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this chapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
 
 #### (b) Hearing
 
-The notice instituting proceedings pursuant to subsection (a) of this section shall fix a hearing date not earlier than 30 days nor later than 60 days after service of the notice unless an earlier or a later date is set by the Commission with the consent of any respondent so served.
+The notice instituting proceedings pursuant to subsection (a) of this section shall fix a hearingdate not earlier than 30 days nor later than 60 days after service of the notice unless an earlier or a later date is set by the Commission with the consent of any respondent so served.
 
 #### (c) Temporary order
 
@@ -46,7 +46,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 In any cease-and-desist proceeding under subsection (a) of this section, the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-(June 6, 1934, ch. 404, title I, §21C, as added Oct. 15, 1990, Pub. L. 101–429, title II, §203, 104 Stat. 939.)
+(June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939.)
 
 #### References in Text
 

@@ -8,13 +8,13 @@ Notwithstanding any other provision of this chapter (but subject to subsection (
 
 &emsp;(2) under any other provision of this chapter which provides (on an entitlement basis) for Federal financial participation in expenditures made under State plans or programs,
 
-> shall be filed (in such form and manner as the Secretary shall by regulations prescribe) within the two-year period which begins on the first day of the calendar quarter immediately following such calendar quarter; and payment shall not be made under this chapter on account ofany such expenditure if claim therefor is not made within such two-year period; except that this subsection shall not be applied so as to deny payment with respect to any expenditure involving court-ordered retroactive payments or audit exceptions, or adjustments to prior year costs.
+> shall be filed (in such form and manner as the Secretary shall by regulations prescribe) withinthe two-year period which begins on the first day of the calendar quarter immediately following such calendar quarter; and payment shall not be made under this chapter on account of any such expenditure if claim therefor is not made within such two-year period; except that this subsection shall not be applied so as to deny payment with respect to any expenditure involving court-ordered retroactive payments or audit exceptions, or adjustments to prior year costs.
 
 #### (b) Waiver
 
 The Secretary shall waive the requirement imposed under subsection (a) of this section with respect to the filing of any claim if he determines (in accordance with regulations) that there was good cause for the failure by the State to file such claim within the period prescribed under subsection (a) of this section. Any such waiver shall be only for such additional period of time as may be necessary to provide the State with a reasonable opportunity to file such claim. A failure to file a claim within such time period which is attributable to neglect or administrative inadequacies shall be deemed not to be for good cause.
 
-(Aug. 14, 1935, ch. 531, title XI, §1132, as added June 17, 1980, Pub. L. 96–272, title III, §306(a), 94 Stat. 530; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2193(c)(5), 95 Stat. 827.)
+(Aug. 14, 1935, ch. 531, title XI, §1132, as added Pub. L. 96–272, title III, §306(a), June 17, 1980, 94 Stat. 530; amended Pub. L. 97–35, title XXI, §2193(c)(5), Aug. 13, 1981, 95 Stat. 827.)
 
 #### Amendments
 

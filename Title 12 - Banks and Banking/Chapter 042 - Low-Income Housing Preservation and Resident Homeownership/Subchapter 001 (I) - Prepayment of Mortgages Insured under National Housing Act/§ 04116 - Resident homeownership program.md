@@ -78,7 +78,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (D) Use of recaptured funds
 
-&emsp;&emsp;Any net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this paragraph shall be paid to the HOME Investment Trust Fund for the unit of general local government in which the housing is located. If the housing is located in a unit of general local government that is not a participating jurisdiction (as such term is defined in section 12704 of title 42), any such net sales proceeds shall be paid to the HOME Investment Trust Fund for the State in which the housing is located. With respect to any proceeds transferred to a HOME Investment Trust Fund under this subparagraph, the Secretary shall take such actions as are necessary to ensure that the proceeds shall be immediately available for eligible activities to expand the supply of affordable housing under section 12742 of title 42. The Secretary shall require the maintenance of any records necessary to calculate accurately payments due under this paragraph.
+&emsp;&emsp;Any net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this paragraph shall be paid to the HOME Investment Trust Fund for the unit of general local government in which the housing is located. If the housing is located in a unit of general local government that is not a participating jurisdiction (as such term is defined in section 12704 oftitle 42), any such net sales proceeds shall be paid to the HOME Investment Trust Fund for the State in which the housing is located. With respect to any proceeds transferred to a HOME Investment Trust Fund under this subparagraph, the Secretary shall take such actions as are necessary to ensure that the proceeds shall be immediately available for eligible activities to expand the supply of affordable housing under section 12742 of title 42. The Secretary shall require the maintenance of any records necessary to calculate accurately payments due under this paragraph.
 
 #### (6) Protection of nonpurchasing families
 
@@ -88,7 +88,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (B) Rental assistance
 
-&emsp;&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall ensure that rental assistance under section 1437f of title 42 is available for use by each otherwise qualified tenant (that meets the eligibility requirements under such section) in that or another property. The requirement for giving preference to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(<i>o</i>)(3) of title 42 shall not apply to the provision of assistance to such families.
+&emsp;&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall ensure that rental assistance under section 1437f of title 42 is available for use by each otherwise qualified tenant (that meets the eligibility requirements under such section) in that or another property. Any system for preferences established under section 1437f(d)(1)(A) or 1437f(<i>o</i>)(6)(A) of title 42 shall not apply to the provision of assistance to such families.
 
 #### (C) Relocation assistance
 
@@ -106,7 +106,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (A) Maintenance
 
-&emsp;&emsp;Each resident council shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such resident council of the proceeds of assistance received under this subchapter (including any proceeds from sales under paragraphs (4) and (5)(D)), the total cost ofthe homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
+&emsp;&emsp;Each resident council shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such resident council of the proceeds of assistance received under this subchapter (including any proceeds from sales under paragraphs (4) and (5)(D)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
 
 #### (B) Access
 
@@ -120,9 +120,11 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 &emsp;Any entity that assumes a mortgage covering low-income housing in connection with the acquisition of the housing from an owner under this section must comply with any low-income affordability restrictions for the remaining useful life of the housing as determined under section 4112(c) of this title.
 
-(Pub. L. 100–242, title II, §226, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4267; amended Pub. L. 102–550, title III, §309, Oct. 28, 1992, 106 Stat. 3765.)
+(Pub. L. 100–242, title II, §226, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4267; amended Pub. L. 102–550, title III, §309, Oct. 28, 1992, 106 Stat. 3765; Pub. L. 105–276, title V, §514(b)(2)(A), Oct. 21, 1998, 112 Stat. 2548.)
 
 #### Amendments
+
+1998—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of “Any system for preferences established under section 1437f(d)(1)(A) or 1437f(<i>o</i>)(6)(A)” for “The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(<i>o</i>)(3)” in second sentence, was executed by making the substitution for text which included the word “preference” rather than “preferences” to reflect the probable intent of Congress.
 
 1992—Subsec. (b)(2). Pub. L. 102–550, §309(1), inserted “and limitation on conditions of approval” in heading and inserted at end of text “The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.”
 

@@ -118,7 +118,7 @@ In any private action arising under this chapter, the court shall stay discovery
 
 #### (g) Exemption authority
 
-In addition to the exemptions provided for in this section, the Commission may, by rule orregulation, provide exemptions from or under any provision of this chapter, including with respect to liability that is based on a statement or that is based on projections or other forward-looking information, if and to the extent that any such exemption is consistent with the public interest and the protection of investors, as determined by the Commission.
+In addition to the exemptions provided for in this section, the Commission may, by rule or regulation, provide exemptions from or under any provision of this chapter, including with respect to liability that is based on a statement or that is based on projections or other forward-looking information, if and to the extent that any such exemption is consistent with the public interest and the protection of investors, as determined by the Commission.
 
 #### (h) Effect on other authority of Commission
 
@@ -160,7 +160,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
-(June 6, 1934, ch. 404, title I, §21E, as added Dec. 22, 1995, Pub. L. 104–67, title I, §102(b), 109 Stat. 753.)
+(June 6, 1934, ch. 404, title I, §21E, as added Pub. L. 104–67, title I, §102(b), Dec. 22, 1995, 109 Stat. 753.)
 
 #### References in Text
 

@@ -16,7 +16,7 @@ Selection of technologies.—Based upon a review of decontamination technologies
 
 &emsp;“(2)
 
-Recommended program.—Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in rendering sediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
+Recommended program.—Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in renderingsediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
 
 &emsp;“(3)
 
@@ -44,7 +44,7 @@ Report.—Within 90 days after the date of the enactment of this Act \[Nov. 28, 
 
 “(b)
 
-Plan.—Within 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary andthe Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—
+Plan.—Within 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary and the Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—
 
 &emsp;“(1) an identification of the source, quantities, and characteristics of material to be dredged;
 

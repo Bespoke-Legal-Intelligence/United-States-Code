@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of this section, in the case of any alien describ
 
 &emsp;(2) whose removal was subsequent to a conviction for commission of an aggravated felony, such alien shall be fined under such title, imprisoned not more than 20 years, or both;
 
-&emsp;(3) who has been excluded from the United States pursuant to section 1225(c) of this title because the alien was excludable under section 1182(a)(3)(B) of this title or who has been removed from the United States pursuant to the provisions of subchapter V of this chapter, and who thereafter, without the permission of the Attorney General, enters the United States, or attempts to do so, shall be fined under title 18 and imprisoned for a period of 10 years, which sentence shall not run concurrently with any other sentence.<sup>1</sup> or
+&emsp;(3) who has been excluded from the United States pursuant to section 1225(c) of this titlebecause the alien was excludable under section 1182(a)(3)(B) of this title or who has been removed from the United States pursuant to the provisions of subchapter V of this chapter, and who thereafter, without the permission of the Attorney General, enters the United States, or attempts to do so, shall be fined under title 18 and imprisoned for a period of 10 years, which sentence shall not run concurrently with any other sentence.<sup>1</sup> or
 
 &emsp;(4) who was removed from the United States pursuant to section 1231(a)(4)(B) of this title who thereafter, without the permission of the Attorney General, enters, attempts to enter, or is at any time found in, the United States (unless the Attorney General has expressly consented to such alien's reentry) shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
@@ -38,7 +38,7 @@ In a criminal proceeding under this section, an alien may not challenge the vali
 
 &emsp;(3) the entry of the order was fundamentally unfair.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §276, 66 Stat. 229; Nov. 18, 1988, Pub. L. 100–690, title VII, §7345(a), 102 Stat. 4471; Nov. 29, 1990, Pub. L. 101–649, title V, §543(b)(3), 104 Stat. 5059; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130001(b), 108 Stat. 2023; Apr. 24, 1996, Pub. L. 104–132, title IV, §§401(c), 438(b), 441(a), 110 Stat. 1267, 1276, 1279; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§305(b), 308(d)(4)(J), (e)(1)(K), (14)(A), 324(a), (b), 110 Stat. 3009–606, 3009–618 to 3009–620, 3009–629.)
+(June 27, 1952, ch. 477, title II, ch. 8, §276, 66 Stat. 229; Pub. L. 100–690, title VII, §7345(a), Nov. 18, 1988, 102 Stat. 4471; Pub. L. 101–649, title V, §543(b)(3), Nov. 29, 1990, 104 Stat. 5059; Pub. L. 103–322, title XIII, §130001(b), Sept. 13, 1994, 108 Stat. 2023; Pub. L. 104–132, title IV, §§401(c), 438(b), 441(a), Apr. 24, 1996, 110 Stat. 1267, 1276, 1279; Pub. L. 104–208, div. C, title III, §§305(b), 308(d)(4)(J), (e)(1)(K), (14)(A), 324(a), (b), Sept. 30, 1996, 110 Stat. 3009–606, 3009–618 to 3009–620, 3009–629.)
 
 #### References in Text
 

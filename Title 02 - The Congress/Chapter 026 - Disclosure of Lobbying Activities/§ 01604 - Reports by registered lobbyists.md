@@ -32,9 +32,11 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 &emsp;(2) In the event income or expenses do not exceed $10,000, the registrant shall include a statement that income or expenses totaled less than $10,000 for the reporting period.
 
-&emsp;(3) A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).
+(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39.)
 
-(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697.)
+#### Amendments
+
+1998—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
 
 #### Section Referred to in Other Sections
 

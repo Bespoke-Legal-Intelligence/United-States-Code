@@ -32,5 +32,5 @@ May 14, 1937, ch. 180, title I, 50 Stat. 154.
 
 June 23, 1936, ch. 725, title I, 49 Stat. 1844.
 
-May 14, 1935, ch. 110, 49 Stat. 218.
+May 14, 1935, ch. 110, 49 Stat. 234.
 

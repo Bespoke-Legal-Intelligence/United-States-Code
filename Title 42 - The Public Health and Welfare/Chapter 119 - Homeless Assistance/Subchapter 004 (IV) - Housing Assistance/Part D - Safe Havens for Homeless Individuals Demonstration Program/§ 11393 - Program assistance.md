@@ -40,7 +40,7 @@
 
 #### (2) Calculation of amounts
 
-&emsp;In calculating the amount of supplemental funds required under paragraph (1), a recipient may include any funds derived from another source, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers, at a rate determined by the Secretary, to carry out the program of the recipient.
+&emsp;In calculating the amount of supplemental funds required under paragraph (1), a recipientmay include any funds derived from another source, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers, at a rate determined by the Secretary, to carry out the program of the recipient.
 
 (Pub. L. 100–77, title IV, §433, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4024.)
 

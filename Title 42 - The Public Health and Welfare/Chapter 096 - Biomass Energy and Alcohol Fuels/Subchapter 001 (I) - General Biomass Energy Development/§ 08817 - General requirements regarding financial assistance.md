@@ -66,7 +66,7 @@ All contracts and instruments of the Secretary concerned to provide, or providin
 
 #### (f) Contestability of contracts
 
-Subject to the conditions of any contract for financial assistance, such contract shall be incontestable in the hands of the holder, except as to fraud or material misrepresentation on the part of the holder.
+Subject to the conditions of any contract for financial assistance, such contract shall be incontestable in the hands of the holder, except asto fraud or material misrepresentation on the part of the holder.
 
 #### (g) Fees for loan guarantees, etc.
 

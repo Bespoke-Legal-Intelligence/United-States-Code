@@ -10,7 +10,7 @@ The Coordinator, under the direction of the National Security Council, shall adv
 
 &emsp;(1) advising the President on nonproliferation of weapons of mass destruction, including issues related to terrorism, arms control, and international organized crime;
 
-&emsp;(2) chairing the Committee on Nonproliferation established under section 2352 <sup>1</sup> of this title; and
+&emsp;(2) chairing the Committee on Nonproliferation of the National Security Council; and
 
 &emsp;(3) taking such actions as are necessary to ensure that there is appropriate emphasis in, cooperation on, and coordination of, nonproliferation research efforts of the United States, including activities of Federal agencies as well as activities of contractors funded by the Federal Government.
 
@@ -18,17 +18,19 @@ The Coordinator, under the direction of the National Security Council, shall adv
 
 Of the total amount authorized to be appropriated under section 301,<sup>1</sup> $2,000,000 is available to the Department of Defense for carrying out research referred to in subsection (b)(3) of this section.
 
-(Pub. L. 104–201, div. A, title XIV, §1441, Sept. 23, 1996, 110 Stat. 2727.)
+(Pub. L. 104–201, div. A, title XIV, §1441, Sept. 23, 1996, 110 Stat. 2727; Pub. L. 105–261, div. A, title X, §1069(c)(2), Oct. 17, 1998, 112 Stat. 2136.)
 
 #### References in Text
 
-Section 2352 of this title, referred to in subsec. (b)(2), was in the original “section 1342”, and was translated as reading “section 1442”, meaning section 1442 of Pub. L. 104–201, to reflect the probable intent of Congress, because Pub. L. 104–201 does not contain a section 1342, and section 1442 established the Committee on Nonproliferation.
-
 Section 301, referred to in subsec. (c), is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.
+
+#### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–261 substituted “of the National Security Council” for “established under section 1342”.
 
 #### Commission To Assess Organization of Federal Government To Combat Proliferation of Weapons of Mass Destruction
 
-Pub. L. 104–293, title VII, subtitle A, Oct. 11, 1996, 110 Stat. 3470, provided that:
+Pub. L. 104–293, title VII, subtitle A, Oct. 11, 1996, 110 Stat. 3470, as amended by Pub. L. 105–277, div. A, §101(f) \[title VII, §708\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–390, provided that:
 
 #### “SEC. 711. ESTABLISHMENT OF COMMISSION.
 
@@ -38,15 +40,15 @@ Establishment.—There is established a commission to be known as the Commission
 
 “(b)
 
-Membership.—The Commission shall be composed of eight members of whom—
+Membership.—The Commission shall be composed of twelve members, none of whom may, during the period of their service on the Commission, be an officer or employee of any department, agency, or other establishment of the Executive Branch (other than the Commission), and of whom—
 
 &emsp;“(1) four shall be appointed by the President;
 
-&emsp;“(2) one shall be appointed by the Majority Leader of the Senate;
+&emsp;“(2) three shall be appointed by the Majority Leader of the Senate;
 
 &emsp;“(3) one shall be appointed by the Minority Leader of the Senate;
 
-&emsp;“(4) one shall be appointed by the Speaker of the House of Representatives; and
+&emsp;“(4) three shall be appointed by the Speaker of the House of Representatives; and
 
 &emsp;“(5) one shall be appointed by the Minority Leader of the House of Representatives.
 
@@ -68,7 +70,7 @@ Period of Appointment; Vacancies.—Members shall be appointed for the life of t
 
 “(e)
 
-Initial Meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
+Initial Meeting.—Not later than 30 days after the date of enactment of an Act making appropriations for the Departments of Labor, Health and Human Services, and Education, and related agencies, for the fiscal year ending September 30, 1999 \[Oct. 21, 1998\], regardlessof whether all the members of the Commission have been appointed as of that date,,\[sic\] the Commission shall hold its first meeting.
 
 “(f)
 
@@ -130,13 +132,21 @@ Assessments.—In making the assessments under paragraph (2), the Commission sho
 
 &emsp;&emsp;“(J) the costs and benefits to the United States of increased centralization and of decreased centralization in the administration of the nonproliferation activities of the Federal Government.
 
+&emsp;“(4)
+
+Restrictions.—In carrying out the study under paragraph (1), making the assessments under paragraph (2), and addressing the matters identified in paragraph (3), the Commission shall not review, evaluate, or report on—
+
+&emsp;&emsp;“(A) United States domestic response capabilities with respect to weapons of mass destruction; or
+
+&emsp;&emsp;“(B) the adequacy or usefulness of United States laws that provide for the imposition of sanctions on countries or entities that engage in the proliferation of weapons of mass destruction.
+
 “(b)
 
 Recommendations.—In conducting the study, the Commission shall develop recommendations on means of improving the effectiveness of the organization of the departments and agencies of the Federal Government in meeting the national security interests of the United States with respect to the proliferation of weapons of mass destruction. Such recommendations shall include specific recommendations to eliminate duplications of effort, and other inefficiencies, in and among such departments and agencies.
 
 “(c)
 
-Report.—(1) Not later than 18 months after the date of the enactment of this Act \[Oct. 11, 1996\], the Commission shall submit to Congress a report containing a detailed statement of the findings and conclusions of the Commission, together with its recommendations for such legislation and administrative actions as it considers appropriate.
+Report.—(1) Not later than 18 months after January 18, 1998, the Commission shall submit to Congress a report containing a detailed statement of the findings and conclusions of the Commission, together with its recommendations for such legislation and administrative actions as it considers appropriate.
 
 “(2) The report shall be submitted in unclassified form, but may include a classified annex.
 
@@ -206,7 +216,7 @@ Procurement of Temporary and Intermittent Services.—The Chairman of the Commis
 
 #### “SEC. 717. PAYMENT OF COMMISSION EXPENSES.
 
-“The compensation, travel expenses, per diem allowances of members and employees of the Commission, and other expenses of the Commission shall be paid out of funds available to the Director of Central Intelligence for the payment of compensation, travel allowances, and per diem allowances, respectively, of employees of the Central Intelligence Agency.”
+“The compensation, travel expenses, per diem allowances of members and employees of the Commission, and other expenses of the Commission shall not exceed $1,000,000, and shall be paid out of funds available to the Director of Central Intelligence for the payment of compensation, travel allowances, and per diem allowances, respectively, of employees of the Central Intelligence Agency.”
 
 #### Section Referred to in Other Sections
 

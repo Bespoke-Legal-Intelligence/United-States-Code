@@ -172,7 +172,7 @@ National goals have been established to:
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. <i>Committee Continued and Responsibilities Expanded</i>. The President's Committee on Mental Retardation (the “Committee”), with expanded membership and expanded responsibilities, is hereby continued in operation.
+Section 1. <i>Committee Continued and Responsibilities Expanded</i>. The President's Committee on Mental Retardation (the “Committee”), with expanded membershipand expanded responsibilities, is hereby continued in operation.
 
 Sec. 2. <i>Composition of Committee</i>. (a) The Committee shall be composed of the following members:
 
@@ -256,7 +256,7 @@ Ex. Ord. No. 11973, Feb. 17, 1977, 42 F.R. 10677, which related to the President
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 217a–1, 300a–7, 3013, 3509 of this title; title 20 sections 1444, 1484a; title 29 sections 705, 761a, 781, 794e, 2212, 2231; title 40 App. section 202.
+This chapter is referred to in sections 217a–1, 300a–7, 3013 of this title; title 20 section 1444; title 29 sections 762, 781, 794e, 3012; title 40 App. section 202.
 
 
 ---

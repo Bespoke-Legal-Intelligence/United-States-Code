@@ -24,7 +24,7 @@ Section 24102 of title 49, referred to in par. (1)(C), was subsequently amended,
 
 #### Codification
 
-In par. (1)(C), “section 24102(4) of title 49” substituted for “section 103(8) of the Rail Passenger Service Act”on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In par. (1)(C), “section 24102(4) of title 49” substituted for “section 103(8) of the Rail Passenger Service Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Effective Date
 

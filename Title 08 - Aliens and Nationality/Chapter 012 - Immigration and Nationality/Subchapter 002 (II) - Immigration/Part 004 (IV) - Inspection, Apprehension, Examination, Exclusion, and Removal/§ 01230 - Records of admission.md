@@ -4,7 +4,7 @@
 
 (b) The Attorney General shall cause to be filed such record of the admission into the United States of each immigrant admitted under section 1181(b) of this title and of each nonimmigrant as the Attorney General deems necessary for the enforcement of the immigration laws.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240C, formerly §240, 66 Stat. 204; renumbered §240C and amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§304(a)(2), 308(f)(1)(K), 110 Stat. 3009–587, 3009–621.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240C, formerly §240, 66 Stat. 204; renumbered §240C and amended Pub. L. 104–208, div. C, title III, §§304(a)(2), 308(f)(1)(K), Sept. 30, 1996, 110 Stat. 3009–587, 3009–621.)
 
 #### Amendments
 

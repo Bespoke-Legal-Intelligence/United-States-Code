@@ -10,7 +10,7 @@ Agreement on eligible costs.—
 
 &emsp;(A)
 
-Limitation on modifications.—Before taking final action on any plans, specifications, and estimates submitted under this subsection after the 60th day following February 4, 1987, the Administrator shall enter into a written agreement with the applicant which establishes and specifies which items of the proposed project are eligible for Federal payments under this section. The Administratormay not later modify such eligibility determinations unless they are found to have been made in violation of applicable Federal statutes and regulations.
+Limitation on modifications.—Before taking final action on any plans, specifications, and estimates submitted under this subsection after the 60th day following February 4, 1987, the Administrator shall enter into a written agreement with the applicant which establishes and specifies which items of the proposed project are eligible for Federal payments under this section. The Administrator may not later modify such eligibility determinations unless they are found to have been made in violation of applicable Federal statutes and regulations.
 
 &emsp;(B)
 
@@ -68,7 +68,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 #### (5) Reservation to assure compliance
 
-&emsp;The Administrator shall reserve a portion of the grant to assure contract compliance until final project approval as defined by the Administrator. If the amount agreed to under paragraph (3)(A) exceeds the cost of designingand constructing the treatment works, the Administrator shall reallot the amount of the excess to the State in which such treatment works are located for the fiscal year in which such audit is completed.
+&emsp;The Administrator shall reserve a portion of the grant to assure contract compliance until final project approval as defined by the Administrator. If the amount agreed to under paragraph (3)(A) exceeds the cost of designing and constructing the treatment works, the Administrator shall reallot the amount of the excess to the State in which such treatment works are located for the fiscal year in which such audit is completed.
 
 #### (6) Limitation on obligations
 
@@ -94,7 +94,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–4, §203, designated provision relating to submission of plans, specifications, and estimates, and provision relating to contractual nature of approval by Administrator as par. (1), designated provision relating to requirements for awarding single grant for combined Federal share of cost of preparing plans and specifications, and building and erection of treatment works as par. (3), and added par. (2).
+1987—Subsec. (a). Pub. L. 100–4, §203, designated provision relating to submission of plans, specifications, and estimates, and provision relating to contractualnature of approval by Administrator as par. (1), designated provision relating to requirements for awarding single grant for combined Federal share of cost of preparing plans and specifications, and building and erection of treatment works as par. (3), and added par. (2).
 
 Subsec. (f). Pub. L. 100–4, §204, added subsec. (f).
 

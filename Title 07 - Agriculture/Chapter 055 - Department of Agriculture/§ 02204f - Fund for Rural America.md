@@ -8,7 +8,7 @@ There is established in the Treasury of the United States an account to be known
 
 #### (1) In general
 
-&emsp;On January 1, 1997, October 1, 1998, and October 1, 1999, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $100,000,000 to the Account.
+&emsp;On October 1, 1998, and each October 1 thereafter through October 1, 2002, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $60,000,000 to the Account.
 
 #### (2) Entitlement
 
@@ -70,7 +70,7 @@ There is established in the Treasury of the United States an account to be known
 
 #### (D) Disclosure of allocation
 
-&emsp;&emsp;For any fiscal year, the Secretary shall not disclose the allocation of funds under this section for any activity described in subparagraph (A) until the date that is 1 dayafter the date of enactment of legislation authorizing appropriations for the Department of Agriculture for any period in the fiscal year.
+&emsp;&emsp;For any fiscal year, the Secretary shall not disclose the allocation of funds under this section for any activity described in subparagraph (A) until the date that is 1 day after the date of enactment of legislation authorizing appropriations for the Department of Agriculture for any period in the fiscal year.
 
 #### (2) Research
 
@@ -102,9 +102,11 @@ There is established in the Treasury of the United States an account to be known
 
 &emsp;&emsp;&emsp;(ii) a national laboratory;
 
-&emsp;&emsp;&emsp;(iii) a college or university or a research foundation maintained by a college or university; or
+&emsp;&emsp;&emsp;(iii) a college or university or a research foundation maintained by a college or university;
 
-&emsp;&emsp;&emsp;(iv) a private research organization with an established and demonstrated capacity to perform research or technology transfer.
+&emsp;&emsp;&emsp;(iv) a private research organization with an established and demonstrated capacity to perform research or technology transfer; or
+
+&emsp;&emsp;&emsp;(v) a State agricultural experiment station.
 
 #### (C) Use of grant
 
@@ -134,7 +136,7 @@ There is established in the Treasury of the United States an account to be known
 
 &emsp;&emsp;&emsp;&emsp;(III) determine the relevance and merit of proposals through a system of peer review and review by the National Agricultural Research, Extension, Education, and Economics Advisory Board; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) award grants on the basis of merit, quality, and relevance to advancing the purposes of federally supported agricultural research, extension, and education provided in section 3101 of this title.
+&emsp;&emsp;&emsp;&emsp;(IV) award grants on the basis of merit, quality, and relevance to advancing the purposes of federally supported agricultural research, extension, andeducation provided in section 3101 of this title.
 
 #### (ii) Competitive basis
 
@@ -172,7 +174,7 @@ There is established in the Treasury of the United States an account to be known
 
 Amounts in the Account may not be used for an activity described in subsection (c) of this section for a fiscal year if the program funding level for the fiscal year for the activity is less than 90 percent of the amount appropriated for the activity for fiscal year 1996, adjusted for inflation.
 
-(Pub. L. 104–127, title VII, §793, Apr. 4, 1996, 110 Stat. 1152.)
+(Pub. L. 104–127, title VII, §793, Apr. 4, 1996, 110 Stat. 1152; Pub. L. 105–185, title II, §252, June 23, 1998, 112 Stat. 557; Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §753(c)(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### References in Text
 
@@ -185,4 +187,18 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 The Rural Development Act of 1971, referred to in subsec. (c)(1)(A)(ii)(III), probably means the Rural Development Act of 1972, which is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title V of the Act is title V of Pub. L. 92–419, as added by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1322, as amended, which is classified generally to subchapter II (§2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Tables.
 
 This Act, referred to in subsec. (c)(1)(B), is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888, known as the Federal Agriculture Improvement and Reform Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–185 added par. (1) and struck out heading and text of former par. (1). Text read as follows: “On January 1, 1997, October 1, 1998, and October 1, 1999, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $100,000,000 to the Account.”
+
+Subsec. (c)(2)(B)(v). Pub. L. 105–277 added cl. (v).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 450i of this title.
 

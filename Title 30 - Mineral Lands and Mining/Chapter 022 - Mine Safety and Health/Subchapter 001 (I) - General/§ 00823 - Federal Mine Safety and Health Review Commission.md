@@ -22,7 +22,7 @@ The Commission is authorized to delegate to any group of three or more members a
 
 #### (d) Proceedings before administrative law judge; administrative review
 
-(1) An administrative law judge appointed by the Commission to hear matters under this chapter shall hear, and make a determinationupon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the chief administrative law judge of the Commission or by the Commission, and shall make a decision which constitutes his final disposition of the proceedings. The decision of the administrative law judge of the Commission shall become the final decision of the Commission 40 days after its issuance unless within such period the Commission has directed that such decision shall be reviewed by the Commission in accordance with paragraph (2). An administrative law judge shall not be assigned to prepare a recommended decision under this chapter.
+(1) An administrative law judge appointed by the Commission to hear matters under this chapter shall hear, and make a determination upon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the chief administrative law judge of the Commission or by the Commission, and shall make a decision which constitutes his final disposition of the proceedings. The decision of the administrative law judge of the Commission shall become the final decision of the Commission 40 days after its issuance unless within such period the Commission has directed that such decision shall be reviewed by the Commission in accordance with paragraph (2). An administrative law judge shall not be assigned to prepare a recommended decision under this chapter.
 
 (2) The Commission shall prescribe rules of procedure for its review of the decisions of administrative law judges in cases under this chapter which shall meet the following standards for review:
 
@@ -68,7 +68,7 @@ Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–1
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Officeof Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Cross References
 

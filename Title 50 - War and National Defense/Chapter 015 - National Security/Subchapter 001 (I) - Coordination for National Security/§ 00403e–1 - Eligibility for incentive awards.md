@@ -6,7 +6,7 @@ The Director of Central Intelligence may exercise the authority granted in secti
 
 #### (b) Time for exercise of authority
 
-The authority granted by subsection (a) of this section may be exercised with respect to Federal employees or members of the Armed Forces detailed or assigned to the Central Intelligence Agency or to the Intelligence Community Staff on or after a date five years before December 9, 1983.
+The authority granted by subsection (a) of this section may be exercised with respect to Federal employees or members of the Armed Forces detailed or assigned to the Central IntelligenceAgency or to the Intelligence Community Staff on or after a date five years before December 9, 1983.
 
 #### (c) Exercise of authority with respect to members of Armed Forces assigned to foreign intelligence duties
 

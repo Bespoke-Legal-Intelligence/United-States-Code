@@ -10,11 +10,13 @@
 
 &emsp;(2) upon successful completion, as a commissioned officer, of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(c) The provisions of this section shall be effective only in the case of officers who, on or before September 30, 1999, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
+(c) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 1999, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(f), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(e), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(e), 624(b), Nov. 18, 1997, 111 Stat. 1786, 1793.)
+(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980,94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(f), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(e), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(e), 624(b), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(e), Oct. 17, 1998, 112 Stat. 2039.)
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
 1997—Subsec. (a)(1). Pub. L. 105–85, §624(b), substituted “$10,000” for “$8,000”.
 

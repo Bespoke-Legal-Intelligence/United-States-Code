@@ -15,6 +15,7 @@
 | (d) | Coordination of State and local housing strategies. |
 | (e) | Consultation with social service agencies. |
 | (f) | Barrier removal. |
+| (g) | Treatment of troubled public housing agencies. |
 | [12705a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012705a%20-%20Purposes%20of%20Removal%20of%20Regulatory%20Barriers%20to%20Affordable%20Housing%20Act.md) | Purposes of Removal of Regulatory Barriers to Affordable Housing Act. |
 | [12705b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012705b%20-%20Definition%20of%20regulatory%20barriers%20to%20affordable%20housing.md) | Definition of regulatory barriers to affordable housing. |
 | [12705c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012705c%20-%20Grants%20for%20regulatory%20barrier%20removal%20strategies%20and%20implementation.md) | Grants for regulatory barrier removal strategies and implementation. |

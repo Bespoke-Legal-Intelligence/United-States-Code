@@ -8,7 +8,7 @@
 
 &emsp;(2) the unorganized militia, which consists of the members of the militia who are not members of the National Guard or the Naval Militia.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 14; Sept. 2, 1958, Pub. L. 85–861, §1(7), 72 Stat. 1439; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §524(a), 107 Stat. 1656.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 14; Pub. L. 85–861, §1(7), Sept. 2, 1958, 72 Stat. 1439; Pub. L. 103–160, div. A, title V, §524(a), Nov. 30, 1993, 107 Stat. 1656.)
 
 Historical and Revision Notes<br>1956
 

@@ -44,7 +44,7 @@ In the section, the words “be the duty of” before “Secretary shall” are 
 
 In subsection (a), the word “inspect” is substituted for “investigate” as being more appropriate. The words “person applying to the Interstate Commerce Commission for authority to provide transportation or freight forwarder service” are substituted for “applicant seeking operating authority from the Interstate Commerce Commission” as being more precise and to conform to subtitle IV of the revised title. The words “of the inspection” are inserted for clarity.
 
-In subsection (b), the words “person applying for permanent authority to provide transportation or freight forwarder service” are substituted for “applicant for permanent operating authority” as being more precise and to conform to subtitle IV of the revised title. The words “proposed transfer of permanent authority” are substituted for “proposed transaction involving transfer of operating authority” to eliminate surplus words and for clarity because the transfer only involves permanent authority.
+In subsection (b), the words “person applying for permanent authority to provide transportation or freight forwarder service” are substituted for “applicant forpermanent operating authority” as being more precise and to conform to subtitle IV of the revised title. The words “proposed transfer of permanent authority” are substituted for “proposed transaction involving transfer of operating authority” to eliminate surplus words and for clarity because the transfer only involves permanent authority.
 
 In subsection (c)(1), the words “providing transportation or freight forwarder service subject to its jurisdiction” are inserted for clarity.
 

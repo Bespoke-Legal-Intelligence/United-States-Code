@@ -228,7 +228,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (E) The provision of subparagraph (A) prohibiting the distribution of funds to any public broadcast station (other than any station which is owned and operated by a State, a political or special purpose subdivision of a State, or a public agency) unless such station establishes a community advisory board shall be the exclusive remedy for the enforcement of the provisions of this paragraph.
 
-(9) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization) unless assurances are provided to the Corporation that no officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization), as the case may be, will be compensated at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under section 5312 of title 5, and unless further assurances are provided to the Corporation that no officer or employee of such an entity will be loaned money by that entity on an interest-free basis.
+(9) Funds may not be distributed pursuant to this subsection to the Public Broadcasting Service or National Public Radio (or any successor organization) unless assurances are provided to the Corporation that no officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization), as the case may be, will be compensated in excess of reasonable compensation as determined pursuant to Section <sup>3</sup> 4958 of title 26 for services that the officer or employee renders to organization,<sup>4</sup> and unless further assurances are provided to the Corporation that no officer or employee of such an entity will be loaned money by that entity on an interest-free basis.
 
 (10)(A) There is hereby established in the Treasury a fund which shall be known as the Public Broadcasting Satellite Interconnection Fund (hereinafter in this subsection referred to as the “Satellite Interconnection Fund”), to be administered by the Secretary of the Treasury.
 
@@ -288,7 +288,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 &emsp;(II) to submit a financial statement in lieu of the audit required by subclause (I) if the Corporation determines that the cost burden of such audit on such entity is excessive in light of the financial condition of such entity; and
 
-&emsp;(iii) to furnish biennially to the Corporation a copy of the audit report required pursuant to clause (ii), as well as such other informationregarding finances (including an annual financial report) as the Corporation may require.
+&emsp;(iii) to furnish biennially to the Corporation a copy of the audit report required pursuant to clause (ii), as well as such other information regarding finances (including an annual financial report) as the Corporation may require.
 
 (C) Any recipient of assistance by grant or contract under this section, other than a fixed price contract awarded pursuant to competitive bidding procedures, shall keep such records as may be reasonably necessary to disclose fully the amount and the disposition by such recipient of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
@@ -320,7 +320,7 @@ The right to repeal, alter, or amend this section at any time is expressly reser
 
 (3) As soon as they have been prepared, each assessment and annual report required under paragraphs (1) and (2) shall be submitted to Congress.
 
-(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643; Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983, 97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub. L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953.)
+(June 19, 1934, ch. 652, title III, §396, as added Pub. L. 90–129, title II, §201(9), Nov. 7, 1967, 81 Stat. 368; amended Pub. L. 90–294, Apr. 26, 1968, 82 Stat. 108; Pub. L. 91–97, §3, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–437, §2, Oct. 7, 1970, 84 Stat. 888; Pub. L. 92–411, §1, Aug. 29, 1972, 86 Stat. 643; Pub. L. 93–84, §1(a), (b), Aug. 6, 1973, 87 Stat. 219; Pub. L. 94–192, §§2–4, Dec. 31, 1975, 89 Stat. 1099, 1100; Pub. L. 95–567, title III, §§301–303(a), 304–307(a), 308, Nov. 2, 1978, 92 Stat. 2411, 2412, 2414, 2415, 2419; Pub. L. 97–35, title XII, §§1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, 95 Stat. 725–730, 736; Pub. L. 98–214, §§3, 5, 6, Dec. 8, 1983, 97 Stat. 1467–1469; Pub. L. 99–272, title V, §5001(c), Apr. 7, 1986, 100 Stat. 117; Pub. L. 100–626, §§3, 4(a), 5–9(a), Nov. 7, 1988, 102 Stat. 3207–3211; Pub.L. 102–356, §§4, 5(a), (b), 6–14, Aug. 26, 1992, 106 Stat. 949–953; Pub. L. 105–277, div. A, §101(f) \[title VII, §701\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389.)
 
 #### References in Text
 
@@ -333,6 +333,8 @@ Section 5(c) of the Public Telecommunications Act of 1992, referred to in subsec
 A prior section 396, act June 19, 1934, ch. 652, title III, §396, as added May 1, 1962, Pub. L. 87–447, 76 Stat. 67, was renumbered section 394 by Pub. L. 90–129, and subsequently renumbered section 393A by Pub. L. 101–437, and is classified to section 393a of this title.
 
 #### Amendments
+
+1998—Subsec. (k)(9). Pub. L. 105–277 which directed the substitution of “in excess of reasonable compensation as determined pursuant to Section 4958 of title 26 for services that the officer or employee renders to organization” for “at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under 5312 of title 5,”, was executed by making the substitution for text which read “section 5312 of title 5” to reflect the probable intent of Congress.
 
 1992—Subsec. (a)(8) to (10). Pub. L. 102–356, §4, added pars. (8) and (9) and redesignated former par. (8) as (10).
 
@@ -390,7 +392,7 @@ Subsec. (k)(3)(A)(iii). Pub. L. 100–626, §7(c), amended cl. (iii) generally. 
 
 &emsp;“(II) not more than 50 percent of such amounts (as determined under paragraph (6)(A)) shall be available for distribution under subparagraph (B)(i) for public radio.”
 
-Subsec. (k)(3)(A)(iv)(I). Pub. L. 100–626, §7(e), substituted “From the amount provided pursuant to clause (i)(II),” for “Subject to the provisions of clause (v),”.
+Subsec. (k)(3)(A)(iv)(I). Pub. L. 100–626, §7(e), substituted “From the amount provided pursuant toclause (i)(II),” for “Subject to the provisions of clause (v),”.
 
 Subsec. (k)(3)(A)(v). Pub. L. 100–626, §7(d), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “If the expenses incurred by the Corporation under clause (i)(II) for any fiscal year for—
 
@@ -400,7 +402,7 @@ Subsec. (k)(3)(A)(v). Pub. L. 100–626, §7(d), amended cl. (v) generally. Prio
 
 &emsp;“(III) the costs of interconnection facilities and operations (as provided in clause (iv));
 
-> exceed 6 percent of the amounts appropriated into the Fund available for allocation for such fiscal year, then 75 percent of such excess costs shall be defrayed by the licensees and permittees of public television stationsfrom amounts available to such licensees and permittees under clause (ii)(I) and 25 percent of such excess costs shall be defrayed by the licensees and permittees of public radio stations from amounts available to such licensees and permittees under clause (iii)(I).”
+> exceed 6 percent of the amounts appropriated into the Fund available for allocation for such fiscal year, then 75 percent of such excess costs shall be defrayed by the licensees and permittees of public television stations from amounts available to such licensees and permittees under clause (ii)(I) and 25 percent of such excess costs shall be defrayed by the licensees and permittees of public radio stations from amounts available to such licensees and permittees under clause (iii)(I).”
 
 Subsec. (k)(3)(B)(i). Pub. L. 100–626, §7(f), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities. Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs.”
 
@@ -456,7 +458,7 @@ Subsec. (k)(2)(B). Pub. L. 97–35, §1227(b), substituted fiscal year basis for
 
 Subsec. (k)(3)(A). Pub. L. 97–35, §1227(c)(1), amended subpar. (A) generally, substituting provisions mandating the establishment by the Corporation of an annual budget for use in allocating amounts from the Fund, setting out the allocation and distribution formulae, and providing for interconnecting facilities and operations costs for making public television and radio programs available to public broadcast stations for former provisions which had directed the Corporation to reserve for distribution among the licensees and permittees of public television and radio stations an amount equal to (i) not less than 40 percent of the funds disbursed by the Corporation from the Fund under this section in each fiscal year in which the amount disbursed was $88,000,000 or more, but less than $121,000,000; (ii) not less than 45 percent of such funds in each fiscal year in which the amount disbursed was $121,000,000 or more, but less than $160,000,000; and (iii) not less than 50 percent of such funds in each fiscal year in which the amount disbursed was $160,000,000 or more.
 
-Subsec. (k)(3)(B)(i). Pub. L. 97–35, §1227(c)(2), amended cl. (i) generally, substituting “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities. Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs” for “The Corporation shall establish an annual budget according to which it shall made grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, for acquisition of such programs by public telecommunications entities, for interconnection facilities and operations, for distribution of funds among public telecommunications entities, and for engineering and program-related research. A significant portion of funds available under the budget established by the Corporation under this subparagraph shall be used for funding the production of television and radio programs. Of such portion, a substantial amount shall bereserved for distribution to independent producers and production entities for the production of programs”.
+Subsec. (k)(3)(B)(i). Pub. L. 97–35, §1227(c)(2), amended cl. (i) generally, substituting “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities.Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs” for “The Corporation shall establish an annual budget according to which it shall made grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, for acquisition of such programs by public telecommunications entities, for interconnection facilities and operations, for distribution of funds among public telecommunications entities, and for engineering and program-related research. A significant portion of funds available under the budget established by the Corporation under this subparagraph shall be used for funding the production of television and radio programs. Of such portion, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs”.
 
 Subsec. (k)(3)(B)(ii). Pub. L. 97–35, §1227(c)(3)(A), amended cl. (ii) generally, substituting “available for distribution under clause (i)” for “contained in the annual budget established by the Corporation under clause (i)”.
 
@@ -514,7 +516,7 @@ Subsec. (k)(2). Pub. L. 91–97, §3(b), inserted “or the next fiscal year” 
 
 #### Effective Date of 1992 Amendment
 
-Section 22 of Pub. L. 102–356 provided that: “Section 5(a) \[amending this section\] shall take effect on January 31, 1996. All other provisions of this Act \[amending this section and sections 303b, 391, and 393 of this title,enacting provisions set out as notes under this section and sections 303 and 609 of this title, and repealing provisions set out as a note under section 303 of this title\] are effective on its date of enactment \[Aug. 26, 1992\].”
+Section 22 of Pub. L. 102–356 provided that: “Section 5(a) \[amending this section\] shall take effect on January 31, 1996. All other provisions of this Act \[amending this section and sections 303b, 391, and 393 of this title, enacting provisions set out as notes under this section and sections 303 and 609 of this title, and repealing provisions set out as a note under section 303 of this title\] are effective on its date of enactment \[Aug. 26, 1992\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -576,7 +578,7 @@ Section 21 of Pub. L. 102–356 provided that: “In making available funding pu
 
 #### Satellite Replacement Needs; Report to Congress
 
-Section 4(b) of Pub. L. 100–626 directed Corporation for Public Broadcasting, on behalf of the public radio and public television licensees and permittees (or their designated representatives), to submit to Congress on or before Mar. 1, 1990, a report by such licensees or permittees (or their representatives) detailing the satellite replacement needs of public radio and public television, the difference in cost between leasing satellite transponder capacity and buying such capacity, and the availability of private sector rather than Federal financing.
+Section 4(b) of Pub. L. 100–626 directed Corporation for Public Broadcasting, on behalf of the public radio and public television licensees and permittees (or their designated representatives), to submit to Congress onor before Mar. 1, 1990, a report by such licensees or permittees (or their representatives) detailing the satellite replacement needs of public radio and public television, the difference in cost between leasing satellite transponder capacity and buying such capacity, and the availability of private sector rather than Federal financing.
 
 #### Continuation of Individuals Serving on the Board of Directors; Reduction in Membership of Board; Political Affiliation of Board Appointees; Abolition of Five Offices on March 1, 1984
 
@@ -598,5 +600,5 @@ Section 307(b) of Pub. L. 95–567 provided that: “Section 396(k)(10) of the C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 398, 399b, 535 of this title; title 17 section 114; title 20 section 1062.
+This section is referred to in sections 398, 399b, 535 of this title; title 17 section 114.
 

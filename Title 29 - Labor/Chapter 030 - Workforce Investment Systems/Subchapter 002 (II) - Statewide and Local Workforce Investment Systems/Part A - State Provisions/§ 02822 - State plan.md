@@ -1,0 +1,146 @@
+### §2822. State plan
+
+#### (a) In general
+
+For a State to be eligible to receive an allotment under section 2852 or 2862 of this title, or to receive financial assistance under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), the Governor of the State shall submit to the Secretary for consideration by the Secretary, a single State plan (referred to in this chapter as the “State plan”) that outlines a 5-year strategy for the statewide workforce investment system of the State and that meets the requirements of section 2821 of this title and this section.
+
+#### (b) Contents
+
+The State plan shall include—
+
+&emsp;(1) a description of the State board, including a description of the manner in which such board collaborated in the development of the State plan and a description of how the board will continue to collaborate in carrying out the functions described in section 2821(d) of this title;
+
+&emsp;(2) a description of State-imposed requirements for the statewide workforce investment system;
+
+&emsp;(3) a description of the State performance accountability system developed for the workforce investment activities to be carried out through the statewide workforce investment system, that includes information identifying State performance measures as described in section 2871(b)(3)(A)(ii) of this title;
+
+&emsp;(4) information describing—
+
+&emsp;&emsp;(A) the needs of the State with regard to current and projected employment opportunities, by occupation;
+
+&emsp;&emsp;(B) the job skills necessary to obtain such employment opportunities;
+
+&emsp;&emsp;(C) the skills and economic development needs of the State; and
+
+&emsp;&emsp;(D) the type and availability of workforce investment activities in the State;
+
+&emsp;(5) an identification of local areas designated in the State, including a description of the process used for the designation of such areas;
+
+&emsp;(6) an identification of criteria to be used by chief elected officials for the appointment of members of local boards based on the requirements of section 2832 of this title;
+
+&emsp;(7) the detailed plans required under section 8 of the Wagner-Peyser Act (29 U.S.C. 49g);
+
+&emsp;(8)(A) a description of the procedures that will be taken by the State to assure coordination of and avoid duplication among—
+
+&emsp;&emsp;(i) workforce investment activities authorized under this chapter;
+
+&emsp;&emsp;(ii) other activities authorized under this chapter;
+
+&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food Stamp Act of 1977 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and postsecondary vocational education activities authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
+
+&emsp;&emsp;(iv) work programs authorized under section 6(<i>o</i>) of the Food Stamp Act of 1977 (7 U.S.C. 2015(<i>o</i>));
+
+&emsp;&emsp;(v) activities authorized under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.);
+
+&emsp;&emsp;(vi) activities authorized under chapter 41 of title 38;
+
+&emsp;&emsp;(vii) employment and training activities carried out under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.);
+
+&emsp;&emsp;(viii) activities authorized under the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.);
+
+&emsp;&emsp;(ix) employment and training activities carried out by the Department of Housing and Urban Development; and
+
+&emsp;&emsp;(x) programs authorized under State unemployment compensation laws (in accordance with applicable Federal law); and
+
+&emsp;(B) a description of the common data collection and reporting processes used for the programs and activities described in subparagraph (A);
+
+&emsp;(9) a description of the process used by the State, consistent with section 2821(g) of this title, to provide an opportunity for public comment, including comment by representatives of businesses and representatives of labor organizations, and input into development of the plan, prior to submission of the plan;
+
+&emsp;(10) information identifying how the State will use funds the State receives under this subchapter to leverage other Federal, State, local, and private resources, in order to maximize the effectiveness of such resources, and to expand the participation of business, employees, and individuals in the statewide workforce investment system;
+
+&emsp;(11) assurances that the State will provide, in accordance with section 2934 of this title for fiscal control and fund accounting procedures that may be necessary to ensure the proper disbursement of, and accounting for, funds paid to the State through the allotments made under sections 2852 and 2862 of this title;
+
+&emsp;(12)(A) a description of the methods and factors the State will use in distributing funds to local areas for youth activities and adult employment and training activities under sections 2853(b)(3)(B) and 2863(b)(3)(B) of this title, including—
+
+&emsp;&emsp;(i) a description of how the individuals and entities represented on the State board were involved in determining such methods and factors of distribution; and
+
+&emsp;&emsp;(ii) a description of how the State consulted with chief elected officials in local areas throughout the State in determining such distribution;
+
+&emsp;(B) assurances that the funds will be distributed equitably throughout the State, and that no local areas will suffer significant shifts in funding from year to year; and
+
+&emsp;(C) a description of the formula prescribed by the Governor pursuant to section 2863(b)(2)(B) of this title for the allocation of funds to local areas for dislocated worker employment and training activities;
+
+&emsp;(13) information specifying the actions that constitute a conflict of interest prohibited in the State for purposes of sections 2821(f) and 2832(g) of this title;
+
+&emsp;(14) with respect to the one-stop delivery systems described in section 2864(c) of this title (referred to individually in this chapter as a “one-stop delivery system”), a description of the strategy of the State for assisting local areas in development and implementation of fully operational one-stop delivery systems in the State;
+
+&emsp;(15) a description of the appeals process referred to in section 2831(a)(5) of this title;
+
+&emsp;(16) a description of the competitive process to be used by the State to award grants and contracts in the State for activities carried out under this chapter;
+
+&emsp;(17) with respect to the employment and training activities authorized in section 2864 of this title—
+
+&emsp;&emsp;(A) a description of—
+
+&emsp;&emsp;&emsp;(i) the employment and training activities that will be carried out with the funds received by the State through the allotment made under section 2862 of this title;
+
+&emsp;&emsp;&emsp;(ii) how the State will provide rapid response activities to dislocated workers from funds reserved under section 2863(a)(2) of this title for such purposes, including the designation of an identifiable State rapid response dislocated worker unit to carry out statewide rapid response activities;
+
+&emsp;&emsp;&emsp;(iii) the procedures the local boards in the State will use to identify eligible providers of training services described in section 2864(d)(4) of this title (other than on-the-job training or customized training), as required under section 2842 of this title; and
+
+&emsp;&emsp;&emsp;(iv) how the State will serve the employment and training needs of dislocated workers (including displaced homemakers), low-income individuals (including recipients of public assistance), individuals training for nontraditional employment, and other individuals with multiple barriers to employment (including older individuals and individuals with disabilities); and
+
+&emsp;&emsp;(B) an assurance that veterans will be afforded the employment and training activities by the State, to the extent practicable; and
+
+&emsp;(18) with respect to youth activities authorized in section 2854 of this title, information—
+
+&emsp;&emsp;(A) describing the State strategy for providing comprehensive services to eligible youth, particularly those eligible youth who are recognized as having significant barriers to employment;
+
+&emsp;&emsp;(B) identifying the criteria to be used by local boards in awarding grants for youth activities, including criteria that the Governor and local boards will use to identify effective and ineffective youth activities and providers of such activities;
+
+&emsp;&emsp;(C) describing how the State will coordinate the youth activities carried out in the State under section 2854 of this title with the services provided by Job Corps centers in the State (where such centers exist); and
+
+&emsp;&emsp;(D) describing how the State will coordinate youth activities described in subparagraph (C) with activities carried out through the youth opportunity grants under section 2914 of this title.
+
+#### (c) Plan submission and approval
+
+A State plan submitted to the Secretary under this section by a Governor shall be considered to be approved by the Secretary at the end of the 90-day period beginning on the day the Secretary receives the plan, unless the Secretary makes a written determination, during the 90-day period, that—
+
+&emsp;(1) the plan is inconsistent with the provisions of this chapter; or
+
+&emsp;(2) in the case of the portion of the plan described in section 8(a) of the Wagner-Peyser Act (29 U.S.C. 49g(a)), the portion does not satisfy the criteria for approval provided in section 8(d) of such Act.
+
+#### (d) Modifications to plan
+
+A State may submit modifications to a State plan in accordance with the requirements of this section and section 2821 of this title as necessary during the 5-year period covered by the plan.
+
+(Pub. L. 105–220, title I, §112, Aug. 7, 1998, 112 Stat. 948; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+
+#### References in Text
+
+The Wagner-Peyser Act, referred to in subsecs. (a) and (b)(8)(A)(iii), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+
+Title II of this Act, referred to in subsec. (b)(8)(A)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+
+The Rehabilitation Act of 1973, referred to in subsec. (b)(8)(A)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+The Social Security Act, referred to in subsec. (b)(8)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The Older Americans Act of 1965, referred to in subsec. (b)(8)(A)(iii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(8)(A)(iii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+
+The Trade Act of 1974, referred to in subsec. (b)(8)(A)(v), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+
+The Community Services Block Grant Act, referred to in subsec. (b)(8)(A)(vii), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+
+The National and Community Service Act of 1990, referred to in subsec. (b)(8)(A)(viii), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+
+#### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–277 substituted “; or” for “; and”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 49g, 721, 2821, 2831, 2851, 2861, 2871, 2944 of this title; title 19 section 2311; title 20 section 2342; title 38 section 4110b; title 42 section 3056.
+

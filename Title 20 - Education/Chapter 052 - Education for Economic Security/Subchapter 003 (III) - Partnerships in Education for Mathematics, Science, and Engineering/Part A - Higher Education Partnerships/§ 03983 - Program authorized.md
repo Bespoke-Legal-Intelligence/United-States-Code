@@ -22,5 +22,5 @@ Subsec. (b). Pub. L. 99–159, §233, amended subsec. (b) generally, substitutin
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 

@@ -52,7 +52,7 @@ Pub. L. 98–290, May 21, 1984, 98 Stat. 201, provided that:
 
 #### “jurisdiction over incorporated municipalities within the reservation
 
-“Sec. 5. The State of Colorado shall exercise criminal and civil jurisdiction within the boundaries of the townof Ignacio, Colorado, and any other municipality which may be incorporated under the laws of Colorado within the Southern Ute Indian Reservation, as if such State had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79) \[see 28 U.S.C. 1360 note\].”
+“Sec. 5. The State of Colorado shall exercise criminal and civil jurisdiction within the boundaries of the town of Ignacio, Colorado, and any other municipality which may be incorporated under the laws of Colorado within the Southern Ute Indian Reservation, as if such State had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79) \[see 28 U.S.C. 1360 note\].”
 
 #### Section Referred to in Other Sections
 

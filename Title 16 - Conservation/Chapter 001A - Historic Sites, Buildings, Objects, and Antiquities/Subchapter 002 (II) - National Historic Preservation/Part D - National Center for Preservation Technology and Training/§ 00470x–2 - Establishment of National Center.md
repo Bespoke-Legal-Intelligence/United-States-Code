@@ -10,7 +10,7 @@ The purposes of the Center shall be to—
 
 &emsp;(1) develop and distribute preservation and conservation skills and technologies for the identification, evaluation, conservation, and interpretation of prehistoric and historic resources;
 
-&emsp;(2) develop and facilitate training for Federal, State and local resource preservation professionals, cultural resource managers, maintenance personnel, and others working in the preservation field;
+&emsp;(2) develop and facilitate training for Federal, State and local resource preservationprofessionals, cultural resource managers, maintenance personnel, and others working in the preservation field;
 
 &emsp;(3) take steps to apply preservation technology benefits from ongoing research by other agencies and institutions;
 

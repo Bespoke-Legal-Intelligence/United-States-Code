@@ -24,7 +24,7 @@ As used in this chapter—
 
 (k) The term “person” means any individual, corporation, partnership, firm, association, trust, estate, or other entity.
 
-(<i>l</i>) The term “termination inventory” means any materials (including a proper part of any common materials), properly allocable to the terminated portion of a war contract, except any machinery or equipment subject to a separate contract specifically governing the use or disposition thereof.
+(<i>l</i>) The term “termination inventory” means any materials (including a proper part of anycommon materials), properly allocable to the terminated portion of a war contract, except any machinery or equipment subject to a separate contract specifically governing the use or disposition thereof.
 
 (m) The term “final and conclusive”, as applied to any settlement, finding, or decision, means that such settlement, finding, or decision shall not be reopened, annulled, modified, set aside, or disregarded by any officer, employee, or agent of the United States or in any suit, action, or proceeding except as provided in this chapter.
 

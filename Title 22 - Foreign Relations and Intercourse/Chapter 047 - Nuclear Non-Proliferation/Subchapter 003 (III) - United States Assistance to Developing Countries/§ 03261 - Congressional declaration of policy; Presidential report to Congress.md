@@ -6,7 +6,7 @@ The United States shall endeavor to cooperate with other nations, international 
 
 #### Effective Date
 
-Subchapter effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements forthe promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
+Subchapter effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
 
 #### Delegation of Functions
 

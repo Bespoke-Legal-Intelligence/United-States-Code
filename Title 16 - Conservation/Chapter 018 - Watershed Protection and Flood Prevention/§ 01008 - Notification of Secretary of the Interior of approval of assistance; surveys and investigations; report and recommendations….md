@@ -8,7 +8,7 @@ When the Secretary approves the furnishing of assistance to a local organization
 
 (3) The cost of making surveys and investigations and of preparing reports concerning the conservation and development of wildlife resources shall be borne by the Secretary of the Interior out of funds appropriated to his Department.
 
-(Aug. 4, 1954, ch. 656, §12, as added Aug. 12, 1958, Pub. L. 85–624, §3, 72 Stat. 567.)
+(Aug. 4, 1954, ch. 656, §12, as added Pub. L. 85–624, §3, Aug. 12, 1958, 72 Stat. 567.)
 
 #### Transfer of Functions
 

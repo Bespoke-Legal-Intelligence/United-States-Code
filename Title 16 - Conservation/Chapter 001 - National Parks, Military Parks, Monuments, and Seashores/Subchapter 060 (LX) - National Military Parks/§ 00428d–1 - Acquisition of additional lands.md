@@ -8,7 +8,7 @@ Tract numbered 2, beginning at a point in the southern boundary line of lock D r
 
 Tract numbered 3, beginning at a point in the southern boundary line of lock D reservation, five hundred and ninety feet from the southwest corner of this reservation, this point being marked by an iron fence post, thence north fifty-eight degrees fifty-seven minutes west five hundred and ninety feet along the southern boundary line of lock D reservation, thence north thirty-one degrees three minutes east four hundred and eighty-eight feet along the western boundary line of the lock D reservation to low-water mark on bank of Cumberland River, thence along low-water line of Cumberland River in a southeasterly direction three hundred and thirty-five feet, thence south thirty-four degrees five minutes west one hundred and twenty-three feet to an iron pin, thence south fifty-five degrees fifty-five minutes east three hundred and seven and five-tenths feet to an iron pin, thence south forty degrees five minutes west three hundred and ten and five-tenths feet to beginning.
 
-(Aug. 30, 1937, ch. 888, §1, 50 Stat. 881; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Sept. 8, 1960, Pub. L. 86–738, §4, 74 Stat. 876.)
+(Aug. 30, 1937, ch. 888, §1, 50 Stat. 881; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 86–738, §4, Sept. 8, 1960, 74 Stat. 876.)
 
 #### Change of Name
 

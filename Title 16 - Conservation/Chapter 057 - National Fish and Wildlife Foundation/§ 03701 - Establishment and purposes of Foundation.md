@@ -22,6 +22,10 @@ The purposes of the Foundation are—
 
 1988—Subsec. (b)(3). Pub. L. 100–240 added par. (3).
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. A, §101(b) \[title IX, §901\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that: “This title \[amending section 3703 of this title and enacting provisions set out as a note under section 3703 of this title\] may be cited as the ‘National Whale Conservation Fund Act of 1998’.”
+
 #### Short Title of 1994 Amendment
 
 Section 101 of title I of Pub. L. 103–232 provided that: “This title \[amending this section and sections 3702 and 3709 of this title and enacting provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out as notes under section 3702 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Improvement Act of 1994’.”

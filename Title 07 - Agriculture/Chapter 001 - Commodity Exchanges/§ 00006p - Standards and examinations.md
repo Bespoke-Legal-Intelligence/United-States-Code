@@ -4,7 +4,7 @@
 
 (b) The Commission shall issue regulations to require new registrants, within six months after receiving such registration, to attend a training session, and all other registrants to attend periodic training sessions, to ensure that registrants understand their responsibilities to the public under this chapter, including responsibilities to observe just and equitable principles of trade, any rule or regulation of the Commission, any rule of any appropriate contract market, registered futures association, or other self-regulatory organization, or any other applicable Federal or state <sup>1</sup> law, rule or regulation.
 
-(Sept. 21, 1922, ch. 369, §4p, as added Oct. 23, 1974, Pub. L. 93–463, title II, §206, 88 Stat. 1400; amended Jan. 11, 1983, Pub. L. 97–444, title II, §215, 96 Stat. 2305; Oct. 28, 1992, Pub. L. 102–546, title II, §210(a), 106 Stat. 3607.)
+(Sept. 21, 1922, ch. 369, §4p, as added Pub. L. 93–463, title II, §206, Oct. 23, 1974, 88 Stat. 1400; amended Pub. L. 97–444, title II, §215, Jan. 11, 1983, 96 Stat. 2305; Pub. L. 102–546, title II, §210(a), Oct. 28, 1992, 106 Stat. 3607.)
 
 #### Amendments
 

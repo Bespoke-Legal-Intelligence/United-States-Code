@@ -6,7 +6,11 @@ Prohibition on Use of Funds.—Funds available to the Department of Defense may 
 
 (b)
 
-Position and Manner of Display.—The display of an official flag of a State, territory, or possession of the United States at an installation or other facility of the Department shall be governed by the provisions of section 3 of the Joint Resolution of June 22, 1942 (56 Stat. 378, chapter 435; 36 U.S.C. 175), and any modification of such provisions under section 8 of that Joint Resolution (36 U.S.C. 178).
+Position and Manner of Display.—The display of an official flag of a State, territory, or possession of the United States at an installation or other facility of the Department shall be governed by section 7 of title 4 and any modification of section 7 under section 10 of title 4.
 
-(Added Pub. L. 104–201, div. A, title X, §1071(a), Sept. 23, 1996, 110 Stat. 2656.)
+(Added Pub. L. 104–201, div. A, title X, §1071(a), Sept. 23, 1996, 110 Stat. 2656; amended Pub. L. 105–225, §4(a)(1), Aug. 12, 1998, 112 Stat. 1498.)
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–225 substituted “section 7 of title 4 and any modification of section 7 under section 10 of title 4” for “the provisions of section 3 of the Joint Resolution of June 22, 1942 (56 Stat. 378, chapter 435; 36 U.S.C. 175), and any modification of such provisions under section 8 of that Joint Resolution (36 U.S.C. 178)”.
 

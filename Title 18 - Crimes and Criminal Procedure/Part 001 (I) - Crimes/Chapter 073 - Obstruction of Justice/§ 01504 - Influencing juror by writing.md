@@ -4,7 +4,7 @@ Whoever attempts to influence the action or decision of any grand or petit juror
 
 Nothing in this section shall be construed to prohibit the communication of a request to appear before the grand jury.
 
-(June 25, 1948, ch. 645, 62 Stat. 770; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -74,7 +74,7 @@ Subsections (d) and (e) of this section shall take effect 6 months after Novembe
 
 #### Amendment of Section
 
-<i>Pub. L. 105–42, §§5(a), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, this section is amended as follows:</i>
+<i>Pub. L. 105–42, §§5(a), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as pro</i><i>vided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, this section is amended as follows:</i>
 
 <i>(1) Subsection (d) is amended to read as follows:</i>
 
@@ -148,7 +148,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 &emsp;(6) The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d) of this section.
 
-&emsp;(7) The provision of timely access to data required under this subsection by the Secretary fromharvesting nations to undertake the actions required in paragraph (6) of this paragraph.
+&emsp;(7) The provision of timely access to data required under this subsection by the Secretary from harvesting nations to undertake the actions required in paragraph (6) of this paragraph.
 
 > The Secretary may make such adjustments as may be appropriate to the regulations promulgated under this subsection to implement an international tracking and verification program that meets or exceeds the minimum requirements established by the Secretary under this subsection.
 
@@ -184,7 +184,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–42 effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, except that Secretary of Commerce may issue regulations under subsec. (f)(2) of this section at any time after Aug. 15, 1997, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+Amendment by Pub. L. 105–42 effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, except that Secretary of Commerce may issue regulations under subsec. (f)(2) of this section at any time after Aug. 15,1997, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
 #### Section Referred to in Other Sections
 

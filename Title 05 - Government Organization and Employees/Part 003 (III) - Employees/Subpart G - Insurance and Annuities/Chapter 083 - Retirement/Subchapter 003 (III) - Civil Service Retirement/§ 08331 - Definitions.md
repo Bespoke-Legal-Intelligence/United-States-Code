@@ -70,11 +70,15 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) premium pay under section 5545(c)(1) of this title;
 
-&emsp;&emsp;(D) with respect to a law enforcement officer, premium pay under section 5545(c)(2) of this title; and
+&emsp;&emsp;(D) with respect to a law enforcement officer, premium pay under section 5545(c)(2) of this title;
 
-&emsp;&emsp;(E) with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved;
+&emsp;&emsp;(E) with respect to a criminal investigator, availability pay under section 5545a of this title;
 
-> &emsp;but does not include bonuses, allowances, overtime pay, military pay, pay given in addition to the base pay of the position as fixed by law or regulation except as provided by subparagraphs (B), (C), (D), and (E) of this paragraph <sup>1</sup> retroactive pay under section 5344 of this title in the case of a retired or deceased employee, uniform allowances under section 5901 of this title, or lump-sum leave payments under subchapter VI of chapter 55 of this title. For an employee paid on a fee basis, the maximum amount of basic pay which may be used is $10,000;
+&emsp;&emsp;(F) pay as provided in section 5545b(b)(2) and (c)(2); and
+
+&emsp;&emsp;(G) with respect to a customs officer (referred to in subsection (e)(1) of section 5 of the Act of February 13, 1911), compensation for overtime inspectional services provided for under subsection (a) of such section 5, but not to exceed 50 percent of any statutory maximum in overtime pay for customs officers which is in effect for the year involved;
+
+> &emsp;but does not include bonuses, allowances, overtime pay, military pay, pay given in addition to the base pay of the position as fixed by law or regulation except as provided by subparagraphs (B) through (G) of this paragraph <sup>1</sup> retroactive pay under section 5344 of this title in the case of a retired or deceased employee, uniform allowances under section 5901 of this title, or lump-sum leave payments under subchapter VI of chapter 55 of this title. For an employee paid on a fee basis, the maximum amount of basic pay which may be used is $10,000;
 
 &emsp;(4) “average pay” means the largest annual rate resulting from averaging an employee's or Member's rates of basic pay in effect over any 3 consecutive years of creditable service or, in the case of an annuity under subsection (d) or (e)(1) of section 8341 of this title based on service of less than 3 years, over the total service, with each rate weighted by the time it was in effect;
 
@@ -138,7 +142,7 @@ For the purpose of this subchapter—
 
 &emsp;(19) “unfunded liability” means the estimated excess of the present value of all benefits payable from the Fund to employees and Members, and former employees and Members, subject to this subchapter, and to their survivors, over the sum of—
 
-&emsp;&emsp;(A) the present value of deductions to be withheld from the future basic pay of employees and Members currently subject to this subchapter and of future agency contributions to be made in their behalf; plus
+&emsp;&emsp;(A) the present value of deductions to be withheld from the future basic pay of employees and Members currently subject tothis subchapter and of future agency contributions to be made in their behalf; plus
 
 &emsp;&emsp;(B) the present value of Government payments to the Fund under section 8348(f) of this title; plus
 
@@ -176,11 +180,17 @@ For the purpose of this subchapter—
 
 &emsp;(24) “Indian court” means an Indian court as defined by section 201(3) of the Act entitled “An Act to prescribe penalties for certain acts of violence or intimidation, and for other purposes”, approved April 11, 1968 (25 U.S.C. 1301(3); 82 Stat. 77);
 
-&emsp;(25) “magistrate” or “United States magistrate” means an individual appointed under section 631 of title 28; and
+&emsp;(25) “magistrate” or “United States magistrate” means an individual appointed under section 631 of title 28;
 
-&emsp;(26) “Court of Federal Claims judge” means a judge of the United States Court of Federal Claims who is appointed under chapter 7 of title 28 or who has served under section 167 of the Federal Courts Improvement Act of 1982.
+&emsp;(26) “Court of Federal Claims judge” means a judge of the United States Court of Federal Claims who is appointed under chapter 7 of title 28 or who has served under section 167 of the Federal Courts Improvement Act of 1982; and
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 564; Pub. L. 89–737, §1(2), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–83, §1(72), Sept. 11, 1967, 81 Stat. 213; Pub. L. 90–623, §1(21), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–93, title I, §101, title II, §201(a), Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–352, title I, §105(a), July 13, 1972, 86 Stat. 490; Pub. L. 93–350, §2, July 12, 1974, 88 Stat. 355; Pub. L. 94–183, §2(38), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(e), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–54, §2(a)(47), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §403(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 97–253, title III, §306(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–249, §3(b), Mar. 31, 1984, 98 Stat. 117; Pub. L. 98–271, §3(b), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §3(b), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §3(b), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§116(a), 121(g), July 10, 1984, 98 Stat. 343, 346; Pub. L. 98–531, §2(a), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, §2(1), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §§202, 207(f), June 6, 1986, 100 Stat. 591, 595; Pub. L. 100–53, §2(a), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§112, 123, Jan. 8, 1988, 101 Stat. 1750, 1754; Pub. L. 100–679, §13(a)(1), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–474, §5(m), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(1), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 101–650, title III, §306(c)(1), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–378, §2(57), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13812(a), Aug. 10, 1993, 107 Stat. 670; Pub. L. 103–353, §5(a), Oct. 13, 1994, 108 Stat. 3173.)
+&emsp;(27) “Nuclear materials courier”—
+
+&emsp;&emsp;(A) means an employee of the Department of Energy, the duties of whose position are primarily to transport, and provide armed escort and protection during transit of, nuclear weapons, nuclear weapon components, strategic quantities of special nuclear materials or other materials related to national security; and
+
+&emsp;&emsp;(B) includes an employee who is transferred directly to a supervisory or administrative position within the same Department of Energy organization, after performing duties referred to in subparagraph (A) for at least 3 years.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 564; Pub. L. 89–737, §1(2), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–83, §1(72), Sept. 11, 1967, 81 Stat. 213; Pub. L. 90–623, §1(21), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–93, title I, §101, title II, §201(a), Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–352, title I, §105(a), July 13, 1972, 86 Stat. 490; Pub. L. 93–350, §2, July 12, 1974, 88 Stat. 355; Pub. L. 94–183, §2(38), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(e), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–54, §2(a)(47), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §403(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 97–253, title III, §306(a), Sept. 8, 1982, 96 Stat. 795; Pub. L. 98–249, §3(b), Mar. 31, 1984, 98 Stat. 117; Pub. L. 98–271, §3(b), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §3(b), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §3(b), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§116(a), 121(g), July 10, 1984, 98 Stat. 343, 346; Pub. L. 98–531, §2(a), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, §2(1), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §§202, 207(f), June 6, 1986, 100 Stat. 591, 595; Pub. L. 100–53, §2(a), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§112, 123, Jan. 8, 1988, 101 Stat. 1750, 1754; Pub. L. 100–679, §13(a)(1), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–474, §5(m), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(1), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 101–650, title III, §306(c)(1), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–378, §2(57), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13812(a), Aug. 10, 1993, 107 Stat. 670; Pub. L. 103–353, §5(a), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 105–261, div. C, title XXXI, §3154(b), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §628(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521.)
 
 Historical and Revision Notes<br>1966
 
@@ -356,7 +366,7 @@ Section 601(b) of the Legislative Reorganization Act of 1946 (60 Stat. 850), as 
 
 Sections 60e–7, 60e–8, 60e–9, 60e–10, 60e–11, 60e–12, 60e–13, and 60e–14 of title 2, referred to in par. (3)(B), were omitted from the Code.
 
-Section 5 of the Act of February 13, 1911, referred to in par. (3)(E), is classified to section 267 of Title 19, Customs Duties.
+Section 5 of the Act of February 13, 1911, referred to in par. (3)(G), is classified to section 267 of Title 19, Customs Duties.
 
 The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in par. (18)(ii), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note below.
 
@@ -367,6 +377,10 @@ Section 404(d) of the Act of November 6, 1978, referred to in par. (22)(A), is s
 Section 167 of the Federal Courts Improvement Act of 1982, referred to in par. (26), is section 167 of Pub. L. 97–164, which is set out as a note under section 171 of Title 28.
 
 #### Amendments
+
+1998—Par. (3). Pub. L. 105–277 struck out “and” at end of subpar. (D), added subpars. (E) and (F), redesignated former subpar. (E) as (G), and, in concluding provisions, substituted “subparagraphs (B) through (G)” for “subparagraphs (B), (C), (D), and (E)”.
+
+Par. (27). Pub. L. 105–261 added par. (27).
 
 1994—Par. (13). Pub. L. 103–353 inserted before semicolon at end “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
@@ -446,7 +460,7 @@ Pars. (23), (24). Pub. L. 98–615 added pars. (23) and (24).
 
 1982—Par. (8)(B). Pub. L. 97–253, §306(a), inserted “, including any amounts deposited under section 8334(j) of this title”.
 
-1980—Par. (6). Pub. L. 96–499 struck out par. (6) which defined “disabled” and “disability” as meaning totally disabled or total disability for useful and efficient service in the grade or class of position last occupied by theemployee or Member because of disease or injury not due to vicious habits, intemperance, or wilful misconduct on his part within 5 years of becoming disabled.
+1980—Par. (6). Pub. L. 96–499 struck out par. (6) which defined “disabled” and “disability” as meaning totally disabled or total disability for useful and efficient service in the grade or class of position last occupied by the employee or Member because of disease or injury not due to vicious habits, intemperance, or wilful misconduct on his part within 5 years of becoming disabled.
 
 1979—Par. (2). Pub. L. 96–54, §2(a)(47)(A), struck out “and a Delegate to Congress,” after “title,”.
 
@@ -479,6 +493,32 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 Gallaudet College, referred to in par. (1)(H), redesignated Gallaudet University by section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of Title 20, Education.
 
 Commissioned Officer Corps of Environmental Science Services Administration, referred to in par. (13)(C), changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title.
+
+#### Effective Date of 1998 Amendments
+
+Amendment by Pub. L. 105–277 effective on first day of first applicable pay period which begins on or after Oct. 1, 1998, see section 101(h) \[title VI, §628(e)\] of Pub. L. 105–277, set out as a note under section 4109 of this title.
+
+Pub. L. 105–261, div. C, title XXXI, §3154(m), (n), Oct. 17, 1998, 112 Stat. 2256, provided that:
+
+“(m)
+
+Applicability.—Subsections (b) through (<i>l</i>) \[amending this section and sections 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title and enacting provisions set out as notes under sections 8334, 8348, and 8422 of this title\] shall apply only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of title 5, United States Code (as amended by this section), after the later of—
+
+&emsp;“(1) September 30, 1998; or
+
+&emsp;“(2) the date of the enactment of this Act \[Oct. 17, 1998\].
+
+“(n)
+
+Effective Dates.—(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 3307, 8334 to 8336, 8401, 8412, 8415, 8422, 8423, and 8425 of this title\] shall take effect at the beginning of the first pay period that begins after the later of—
+
+&emsp;“(A) October 1, 1998; or
+
+&emsp;“(B) the date of the enactment of this Act.
+
+“(2)(A) The amendments made by subsection (a) \[amending section 3307 of this title\] shall take effect on the date of the enactment of this Act.
+
+“(B) The amendments made by subsections (d) and (k) \[amending sections 8335 and 8425 of this title\] shall take effect 1 year after the date of the enactment of this Act.”
 
 #### Effective Date of 1994 Amendment
 
@@ -524,7 +564,7 @@ Section 116(e) of Pub. L. 98–353 provided that: “The amendments made by this
 
 #### Effective Date of 1982 Amendment
 
-Section 306(g) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(e)(2), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–369, div. B, title II, §2205, July 18, 1984, 98 Stat. 1059, provided that: “The amendments made by this section \[amending this section and sections 8332, 8334, and 8348 of this title\] shall take effect October 1, 1982; except that any employee or Member who retired after the date of the enactment of this Act \[Sept. 8, 1982\] and before October 1, 1985, or is entitled to an annuity underchapter 83 of title 5, United States Code, based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of title 5, United States Code. Regulations required to be issued under section 8334(j)(1) of title 5, United States Code, shall be issued by the Office of Personnel Management within 90 days after such effective date.”
+Section 306(g) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(e)(2), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–369, div. B, title II, §2205, July 18, 1984, 98 Stat. 1059, provided that: “The amendments made by this section \[amending this section and sections 8332, 8334, and 8348 of this title\] shall take effect October 1, 1982; except that any employee or Member who retired after the date of the enactment of this Act \[Sept. 8, 1982\] and before October 1, 1985, or is entitled to an annuity under chapter 83 of title 5, United States Code, based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of title 5, United States Code. Regulations required to be issued under section 8334(j)(1) of title 5, United States Code, shall be issued by the Office of Personnel Management within 90 days after such effective date.”
 
 #### Effective Date of 1980 Amendment
 
@@ -604,7 +644,7 @@ Pub. L. 105–61, title VI, §642(a)–(c), Oct. 10, 1997, 111 Stat. 1318, as am
 
 &emsp;“(3) provide for treatment of such an election similar to the applicable provisions of title III of the Federal Employees’ Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 599 et seq.) \[set out as a note below\].”
 
-\[Section 642(a)–(c) of Pub. L. 105–61, set out above, was subject to line item veto by the President, Cancellation No. 97–56, signed Oct. 16, 1997, 62 F.R. 54338, Oct. 17, 1997.\]
+\[Section 642(a)–(c) of Pub. L. 105–61, set out above, was subject to line item veto by the President, Cancellation No. 97–56, signed Oct. 16, 1997, 62 F.R. 54338, Oct. 17, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, —— U.S. ——, 118 S.Ct. 2091, 141 L.Ed. 2d 393 (1998).\]
 
 #### Pilot Programs for Defense Employees Converted to Contractor Employees Due to Privatization at Closed Military Installations
 
@@ -648,7 +688,7 @@ Computation of Average Pay.—(1)(A) This paragraph applies to a converted emplo
 
 “(2)(A) This paragraph applies to a converted employee who was a prevailing rate employee (as defined under section 5342(2) \[5342(a)(2)\] of title 5, United States Code) immediately before the employee's covered separation from Federal service.
 
-“(B) For purposes of computing the deferred annuity for a converted employee referred to in subparagraph (A), the average pay of the converted employee, computed under section 8331(4) of title 5, United States Code, as of the date of the employee's covered separation from Federal service, shall be adjusted at the same time and by the same percentage that pay rates for positions that are in the same area as, and are comparable to, the last position the converted employee held as a prevailing rate employee, are increased under section 5343(a) of such title during the period beginning on that date and ending on the date on which the converted employee attains early deferred retirement age.
+“(B) For purposes of computing the deferred annuity for a converted employee referred to in subparagraph\(A), the average pay of the converted employee, computed under section 8331(4) of title 5, United States Code, as of the date of the employee's covered separation from Federal service, shall be adjusted at the same time and by the same percentage that pay rates for positions that are in the same area as, and are comparable to, the last position the converted employee held as a prevailing rate employee, are increased under section 5343(a) of such title during the period beginning on that date and ending on the date on which the converted employee attains early deferred retirement age.
 
 “(e)
 
@@ -826,7 +866,7 @@ Elections for Certain Individuals Serving Continuously Since December 31, 1983.�
 
 > &emsp;An individual eligible to make an election under this paragraph may make the election described in subparagraph (A) or (B), but not both.
 
-&emsp;“(2) If, as of December 31, 1986, the individual is subject to subchapter III of chapter 83 of title 5, United States Code, and is also subject to section 204 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[set out below\], the individual—
+&emsp;“(2) If, as of December 31, 1986, the individual is subject to subchapter III of chapter 83 of title 5, United States Code, and is also subject to section 204 of the Federal Employees’ Retirement ContributionTemporary Adjustment Act of 1983 \[set out below\], the individual—
 
 &emsp;&emsp;“(A) shall, as of January 1, 1987, become subject to such subchapter under the same terms and conditions as apply in the case of an individual described in section 8402(b)(2) of such title who is subject to such subchapter; and
 
@@ -930,7 +970,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;“(B) If the electing individual has performed service described in clauses (i) through (iii) of paragraph (1)(D), service described in subparagraph (A) which, but for the provisions of subsection (b), would be creditable under subchapter III of chapter 83 of title 5, United States Code, as in effect on December 31, 1986, shall be creditable for purposes of—
 
-&emsp;&emsp;“(i) any provision of section 8412 (other than subsection (d) or (e) thereof), 8413, or 8414 of such titlewhich relates to a minimum period of service for entitlement to an annuity; and
+&emsp;&emsp;“(i) any provision of section 8412 (other than subsection (d) or (e) thereof), 8413, or 8414 of such title which relates to a minimum period of service for entitlement to an annuity; and
 
 &emsp;&emsp;“(ii) the provisions of paragraph (4).
 
@@ -972,7 +1012,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;“(12)(A)(i) If the electing individual is a reemployed annuitant under section 8344 of title 5, United States Code, under conditions allowing the annuity to continue during reemployment, payment of the annuitant's annuity shall continue after the effective date of the election, and an amount equal to the annuity allocable to the period of actual employment shall continue to be deducted from the annuitant's pay and deposited as provided in subsection (a) of such section. Deductions from pay under section 8422(a) of such title and contributions under section 8423 of such title shall begin effective on the effective date of the election.
 
-&emsp;“(ii) Notwithstanding any provision of section 301, an election under such section shall not be available to any reemployed annuitant who would be excluded from the operation of chapter 84 of title 5, United States Code, under section 8402(c) of such title (relating to exclusions based on the temporary or intermittent nature of one's employment).
+&emsp;“(ii) Notwithstanding any provision of section 301, an election under such section shall not be availableto any reemployed annuitant who would be excluded from the operation of chapter 84 of title 5, United States Code, under section 8402(c) of such title (relating to exclusions based on the temporary or intermittent nature of one's employment).
 
 &emsp;“(B) If the annuitant serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, such annuitant's annuity, on termination of reemployment, shall be increased by an annuity computed—
 
@@ -980,7 +1020,7 @@ General and Special Rules.—All provisions of chapter 84 of title 5, United Sta
 
 &emsp;&emsp;“(ii) with respect to reemployment service on or after the effective date of the election, under section 8415(a) through (f) of such title, as may apply based on the reemployment in which such annuitant was engaged on or after such effective date;
 
-> &emsp;with the ‘average pay’ used in any computation under clause (i) or (ii) being determined (based on rates of pay in effect during the period of reemployment, whether before, on, or after the effective date of the election) in the same way as provided for in paragraph (6). If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of title 5, United States Code, the increase in annuity payable under this subparagraph is reduced by 10 percent and the survivor annuity payable under section 8341(b) of such title is increased by 55 percent of the increase in annuity payable under this subparagraph, unless, at the time of claiming the increase payable under this subparagraph, the annuitant notifies the Office of Personnel Management in writing that such annuitant does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, after having been reemployed for at least 1 full year (or the equivalent thereof, in the case of part-time employment), any survivor annuity payable under section 8341(b) of such title basedon the service of such annuitant is increased as though the reemployment had otherwise terminated. In applying paragraph (7) to an amount under this subparagraph, any portion of such amount attributable to clause (i) shall be adjusted under subparagraph (A) of such paragraph, and any portion of such amount attributable to clause (ii) shall be adjusted under subparagraph (B) of such paragraph.
+> &emsp;with the ‘average pay’ used in any computation under clause (i) or (ii) being determined (based on rates of pay in effect during the period of reemployment, whether before, on, or after the effective date of the election) in the same way as provided for in paragraph (6). If the annuitant is receiving a reduced annuity as provided in section 8339(j) or section 8339(k)(2) of title 5, United States Code, the increase in annuity payable under this subparagraph is reduced by 10 percent and the survivor annuity payable under section 8341(b) of such title is increased by 55 percent of the increase in annuity payable under this subparagraph, unless, at the time of claiming the increase payable under this subparagraph, the annuitant notifies the Office of Personnel Management in writing that such annuitant does not desire the survivor annuity to be increased. If the annuitant dies while still reemployed, after having been reemployed for at least 1 full year (or the equivalent thereof, in the case of part-time employment), any survivor annuity payable under section 8341(b) of such title based on the service of such annuitant is increased as though the reemployment had otherwise terminated. In applying paragraph (7) to an amount under this subparagraph, any portion of such amount attributable to clause (i) shall be adjusted under subparagraph (A) of such paragraph, and any portion of such amount attributable to clause (ii) shall be adjusted under subparagraph (B) of such paragraph.
 
 &emsp;“(C)(i) If the annuitant serves on a full-time basis for at least 5 years, or on a part-time basis for periods equivalent to at least 5 years of full-time service, such annuitant may elect, instead of the benefit provided by subparagraph (B), to have such annuitant's rights redetermined, effective upon separation from employment. If the annuitant so elects, the redetermined annuity will become payable as if such annuitant were retiring for the first time based on the separation from reemployment service, and the provisions of this section concerning computation of annuity (other than any provision of this paragraph) shall apply.
 
@@ -1302,7 +1342,7 @@ Section 402 of act July 31, 1956, ch. 804, title IV, 70 Stat. 760, provided that
 
 “(a) On and after the effective date of this title \[on the first day of the first month beginning more than sixty days after July 31, 1956\] persons employed as members of the civilian faculties of the United States Naval Academy and the United States Naval Postgraduate School shall be included within the terms of the Civil Service Retirement Act \[this subchapter\], and on and after that date the Act of January 16, 1936 (49 Stat. 1092), as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\] shall not apply to such persons.
 
-“(b) In lieu of the deposit prescribed by section 4(c) of the Civil Service Retirement Act \[section 8334(c) of this title\] an employee who by virtue of subsection (a) is included within the terms of such Act \[this subchapter\] shall deposit, for service rendered prior to the effective date of this title as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School, a sum equal to so much of the repurchase price of his annuity policy carried as required by the Act of January 16, 1936, as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\], as is based on the monthly allotments which were registered with the Navy Allotment Office toward the purchase of that annuity, the deposit to be made within six months after the effective date of this title. Should the deposit not be made within that period no credit shall be allowed under the Civil Service Retirement Act \[this subchapter\] for service rendered as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School subsequent to July 31, 1920, and prior to the effective date of this title. If the deposit is made, such service shall be held and considered to be service during which the employee was subject to the Civil Service Retirement Act \[this subchapter\].”
+“(b) In lieu of the deposit prescribed by section 4(c) of the Civil Service Retirement Act \[section 8334(c) of this title\] an employee who by virtue of subsection (a) is included within the terms of such Act \[this subchapter\] shall deposit, for service rendered prior to the effective date of this title as a member of the civilian faculty of the United States Naval Academy or of the United States Naval Postgraduate School, a sum equal to so much of the repurchase price of his annuity policy carried as required by the Act of January 16, 1936, as amended \[covered by section 7081 et seq. of Title 10, Armed Forces\], as is based on the monthly allotments which were registered with the Navy Allotment Office toward the purchase of that annuity, the deposit to be made within six months after the effective date of this title. Should the deposit not be made within that period no credit shall be allowed under the Civil Service Retirement Act \[this subchapter\] for service rendered as a member of the civilian faculty of the United StatesNaval Academy or of the United States Naval Postgraduate School subsequent to July 31, 1920, and prior to the effective date of this title. If the deposit is made, such service shall be held and considered to be service during which the employee was subject to the Civil Service Retirement Act \[this subchapter\].”
 
 #### Ex. Ord. No. 12461. Designation as a Federal Retirement System
 
@@ -1334,7 +1374,7 @@ United States magistrate judges and necessary clerical and secretarial assistant
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3307, 3323, 5541, 5545a, 8332, 8342, 8344, 8347, 8401, 8411, 8467, 8704 of this title; title 10 section 945; title 12 section 1723a; title 19 section 58c; title 22 sections 3671, 3681, 3968, 4046; title 26 sections 402, 7447; title 28 section 376; title 38 sections 7296, 7426, 7438; title 45 section 1206; title 50 section 2036.
+This section is referred to in sections 3307, 3323, 5541, 5545a, 5545b, 8332, 8342, 8344, 8347, 8401, 8411, 8467, 8704 of this title; title 10 section 945; title 12 section 1723a; title 19 section 58c; title 22 sections 3671, 3681, 3968, 4046; title 26 sections 402, 7447; title 28 section 376; title 38 sections 7296, 7426, 7438; title 45 section 1206; title 50 section 2036.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -54,7 +54,7 @@ The Secretary shall use funds made available to carry out this section for activ
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the Secretary may require any recipient of a grant or contract under this section to share in the cost of the activities assisted under such grant or contract, which non-Federal share shall be announced through a notice in the Federal Register and may be in the form of cash or in-kind contributions, fairly valued.
+&emsp;Subject to paragraphs (2) and (3), the Secretary may require any recipient of a grant orcontract under this section to share in the cost of the activities assisted under such grant or contract, which non-Federal share shall be announced through a notice in the Federal Register and may be in the form of cash or in-kind contributions, fairly valued.
 
 #### (2) Increase
 

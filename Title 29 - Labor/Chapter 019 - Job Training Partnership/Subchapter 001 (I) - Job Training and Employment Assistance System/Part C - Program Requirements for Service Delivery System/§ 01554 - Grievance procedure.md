@@ -10,7 +10,7 @@ Each recipient of financial assistance under this chapter which is an employer o
 
 #### (c) Investigation by Secretary
 
-Upon exhaustion of a recipient's grievance procedure without decision, or where the Secretary has reason to believe that the recipient is failing to comply with the requirements of this chapter or the terms of the job training plan, the Secretary shall investigate the allegation or belief and determine within 120 days after receiving the complaint whether such allegation or complaint is true.
+Upon exhaustion of a recipient's grievance procedure without decision, or where the Secretary has reason to believe that the recipient isfailing to comply with the requirements of this chapter or the terms of the job training plan, the Secretary shall investigate the allegation or belief and determine within 120 days after receiving the complaint whether such allegation or complaint is true.
 
 #### (d) Labor standards violations
 
@@ -49,6 +49,10 @@ Upon exhaustion of a recipient's grievance procedure without decision, or where 
 Nothing in subsection (f) of this section shall be construed to prohibit a grievant from pursuing a remedy authorized under another Federal, State, or local law for a violation of section 1553 of this title.
 
 (Pub. L. 97–300, title I, §144, Oct. 13, 1982, 96 Stat. 1346; Pub. L. 102–367, title I, §134(a), Sept. 7, 1992, 106 Stat. 1045.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Amendments
 

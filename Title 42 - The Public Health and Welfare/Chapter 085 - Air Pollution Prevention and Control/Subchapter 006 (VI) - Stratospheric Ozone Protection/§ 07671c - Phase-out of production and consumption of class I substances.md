@@ -110,7 +110,7 @@ The Administrator shall promulgate regulations within 10 months after November 1
 
 #### (1) Essential uses of methyl chloroform
 
-&emsp;Notwithstanding the termination of production required by subsection (b) of this section, during the period beginning on January 1, 2002, and ending on January 1, 2005, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of methyl chloroform solely for use in essential applications (such as nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue) for which no safe and effective substitute is available. Notwithstanding this paragraph, the authority to produce methylchloroform for use in medical devices shall be provided in accordance with paragraph (2).
+&emsp;Notwithstanding the termination of production required by subsection (b) of this section, during the period beginning on January 1, 2002, and ending on January 1, 2005, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of methyl chloroform solely for use in essential applications (such as nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue) for which no safe and effective substitute is available. Notwithstanding this paragraph, the authority to produce methyl chloroform for use in medical devices shall be provided in accordance with paragraph (2).
 
 #### (2) Medical devices
 
@@ -126,6 +126,14 @@ The Administrator shall promulgate regulations within 10 months after November 1
 
 &emsp;Under no circumstances may the authority set forth in paragraphs (1), (2), and (3) of subsection (d) of this section be applied to authorize any person to produce a class I substance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
 
+#### (5) Sanitation and food protection
+
+&emsp;To the extent consistent with the Montreal Protocol's quarantine and preshipment provisions, the Administrator shall exempt the production, importation, and consumption of methyl bromide to fumigate commodities entering or leaving the United States or any State (or political subdivision thereof) for purposes of compliance with Animal and Plant Health Inspection Service requirements or with any international, Federal, State, or local sanitation or food protection standard.
+
+#### (6) Critical uses
+
+&emsp;To the extent consistent with the Montreal Protocol, the Administrator, after notice and the opportunity for public comment, and after consultation with other departments or instrumentalities of the Federal Government having regulatory authority related to methyl bromide, including the Secretary of Agriculture, may exempt the production, importation, and consumption of methyl bromide for critical uses.
+
 #### (e) Developing countries
 
 #### (1) Exception
@@ -140,6 +148,10 @@ The Administrator shall promulgate regulations within 10 months after November 1
 
 &emsp;(C) An exception authorized under this subsection shall terminate no later than January 1, 2010 (2012 in the case of methyl chloroform).
 
+#### (3) Methyl bromide
+
+&emsp;Notwithstanding the phaseout and termination of production of methyl bromide pursuant to subsection (h) of this section, the Administrator may, consistent with the Montreal Protocol, authorize the production of limited quantities of methyl bromide, solely for use in developing countries that are Parties to the Copenhagen Amendments to the Montreal Protocol.
+
 #### (f) National security
 
 The President may, to the extent such action is consistent with the Montreal Protocol, issue such orders regarding production and use of CFC–114 (chlorofluorocarbon-114), halon-1211, halon-1301, and halon-2402, at any specified site or facility or on any vessel as may be necessary to protect the national security interests of the United States if the President finds that adequate substitutes are not available and that the production and use of such substance are necessary to protect such national security interest. Such orders may include, where necessary to protect such interests, an exemption from any prohibition or requirement contained in this subchapter. The President shall notify the Congress within 30 days of the issuance of an order under this paragraph providing for any such exemption. Such notification shall include a statement of the reasons for the granting of the exemption. An exemption under this paragraph shall be for a specified period which may not exceed one year. Additional exemptions may be granted, each upon the President's issuance of a new order under this paragraph. Each such additional exemption shall be for a specified period which may not exceed one year. No exemption shall be granted under this paragraph due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation.
@@ -148,11 +160,23 @@ The President may, to the extent such action is consistent with the Montreal Pro
 
 (1) Notwithstanding the production phase-out set forth in subsection (a) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211, halon-1301, and halon-2402 in excess of the amount otherwise permitted pursuant to the schedule under subsection (a) of this section solely for purposes of fire suppression or explosion prevention if the Administrator, in consultation with the Administrator of the United States Fire Administration, determines that no safe and effective substitute has been developed and that such authorization is necessary for fire suppression or explosion prevention purposes. The Administrator shall not authorize production under this paragraph for purposes of fire safety or explosion prevention training or testing of fire suppression or explosion prevention equipment. In no event shall the Administrator grant an exception under this paragraph that permits production after December 31, 1999.
 
-(2) The Administrator shall periodically monitor and assess the status of efforts to obtain substitutes for the substances referred to in paragraph (1) for purposes of fire suppression or explosion prevention and the probability of such substitutes being available by December 31, 1999. The Administrator, as part of such assessment, shall consider any relevant assessments under the Montreal Protocol and the actions of the Parties pursuant to Article 2B of the Montreal Protocol in identifying essential uses and in permitting a level of production or consumption that is necessary to satisfy such uses for which no adequate alternatives are available after December 31, 1999. The Administrator shall report to Congress the results of such assessment in 1994 and again in 1998.
+(2) The Administrator shall periodically monitor and assess the status of efforts to obtain substitutes for the substances referred to in paragraph (1) for purposes of fire suppression or explosion prevention and the probability of such substitutes being available by December 31, 1999. The Administrator, as part of such assessment, shall consider any relevant assessments under the Montreal Protocol and the actions of the Parties pursuant to Article 2B of the Montreal Protocol in identifying essential uses and in permitting a level of production or consumption that is necessary to satisfy such uses for whichno adequate alternatives are available after December 31, 1999. The Administrator shall report to Congress the results of such assessment in 1994 and again in 1998.
 
 (3) Notwithstanding the termination of production set forth in subsection (b) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211, halon-1301, and halon-2402 in the period after December 31, 1999, and before December 31, 2004, solely for purposes of fire suppression or explosion prevention in association with domestic production of crude oil and natural gas energy supplies on the North Slope of Alaska, if the Administrator, in consultation with the Administrator of the United States Fire Administration, determines that no safe and effective substitute has been developed and that such authorization is necessary for fire suppression and explosion prevention purposes. The Administrator shall not authorize production under the paragraph for purposes of fire safety or explosion prevention training or testing of fire suppression or explosion prevention equipment. In no event shall the Administrator authorize under this paragraph any person to produce any such halon in an amount greater than 3 percent of that produced by such person during the baseline year.
 
-(July 14, 1955, ch. 360, title VI, §604, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2655.)
+#### (h) Methyl bromide
+
+Notwithstanding subsections (b) and (d) of this section, the Administrator shall not terminate production of methyl bromide prior to January 1, 2005. The Administrator shall promulgate rules for reductions in, and terminate the production, importation, and consumption of, methyl bromide under a schedule that is in accordance with, but not more stringent than, the phaseout schedule of the Montreal Protocol Treaty as in effect on October 21, 1998.
+
+(July 14, 1955, ch. 360, title VI, §604, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2655; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §764\], Oct. 21, 1998, 112 Stat. 2681, 2681–36.)
+
+#### Amendments
+
+1998—Subsec. (d)(5), (6). Pub. L. 105–277, §101(a) \[title VII, §764(b)\], added pars. (5) and (6).
+
+Subsec. (e)(3). Pub. L. 105–277, §101(a) \[title VII, §764(c)\], added par. (3).
+
+Subsec. (h). Pub. L. 105–277, §101(a) \[title VII, §764(a)\], added subsec. (h).
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,30 @@
+### §9506. Limited appointments to career reserved Senior Executive Service positions
+
+(a) In the application of section 3132, a “career reserved position” in the Internal Revenue Service means a position designated under section 3132(b) which may be filled only by—
+
+&emsp;(1) a career appointee; or
+
+&emsp;(2) a limited emergency appointee or a limited term appointee—
+
+&emsp;&emsp;(A) who, immediately upon entering the career reserved position, was serving under a career or career-conditional appointment outside the Senior Executive Service; or
+
+&emsp;&emsp;(B) whose limited emergency or limited term appointment is approved in advance by the Office of Personnel Management.
+
+(b)(1) The number of positions described under subsection (a) which are filled by an appointee as described under paragraph (2) of such subsection may not exceed 10 percent of the total number of Senior Executive Service positions in the Internal Revenue Service.
+
+(2) Notwithstanding section 3132—
+
+&emsp;(A) the term of an appointee described under subsection (a)(2) may be for any period not to exceed 3 years; and
+
+&emsp;(B) such an appointee may serve—
+
+&emsp;&emsp;(i) two such terms; or
+
+&emsp;&emsp;(ii) two such terms in addition to any unexpired term applicable at the time of appointment.
+
+(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 714.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 9501, 9507 of this title.
+

@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, any person may commence a 
 
 &emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator, or
 
-&emsp;(3) against any person who proposes to construct or constructs any new or modified major emitting facility without a permit required under part C of subchapter I of this chapter (relating to significant deterioration of air quality) or part D of subchapter I of this chapter (relating to nonattainment) or who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of any condition of such permit.
+&emsp;(3) against any person who proposes to construct or constructs any new or modified major emitting facility without a permit required under part C of subchapter I of thischapter (relating to significant deterioration of air quality) or part D of subchapter I of this chapter (relating to nonattainment) or who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of any condition of such permit.
 
 > The district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such an emission standard or limitation, or such an order, or to order the Administrator to perform such act or duty, as the case may be, and to apply any appropriate civil penalties (except for actions under paragraph (2)). The district courts of the United States shall have jurisdiction to compel (consistent with paragraph (2) of this subsection) agency action unreasonably delayed, except that an action to compel agency action referred to in section 7607(b) of this title which is unreasonably delayed may only be filed in a United States District Court within the circuit in which such action would be reviewable under section 7607(b) of this title. In any such action for unreasonable delay, notice to the entities referred to in subsection (b)(1)(A) of this section shall be provided 180 days before commencing such action.
 
@@ -32,7 +32,7 @@ No action may be commenced—
 
 (2) In any action under this section, the Administrator, if not a party, may intervene as a matter of right at any time in the proceeding. A judgment in an action under this section to which the United States is not a party shall not, however, have any binding effect upon the United States.
 
-(3) Whenever any action is brought under this section the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and on the Administrator. No consent judgment shall be entered in an action brought under this section in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator during which time the Governmentmay submit its comments on the proposed consent judgment to the court and parties or may intervene as a matter of right.
+(3) Whenever any action is brought under this section the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and on the Administrator. No consent judgment shall be entered in an action brought under this section in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator during which time the Government may submit its comments on the proposed consent judgment to the court and parties or may intervene as a matter of right.
 
 #### (d) Award of costs; security
 
@@ -68,7 +68,7 @@ For purposes of this section, the term “emission standard or limitation under 
 
 (2) Notwithstanding paragraph (1) the court in any action under this subsection to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.
 
-(July 14, 1955, ch. 360, title III, §304, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1706; amended Aug. 7, 1977, Pub. L. 95–95, title III, §303(a)–(c), 91 Stat. 771, 772; Nov. 16, 1977, Pub. L. 95–190, §14(a) (77), (78), 91 Stat. 1404; Nov. 15, 1990, Pub. L. 101–549, title III, §302(f), title VII, §707(a)–(g), 104 Stat. 2574, 2682, 2683.)
+(July 14, 1955, ch. 360, title III, §304, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1706; amended Pub. L. 95–95, title III, §303(a)–(c), Aug. 7, 1977, 91 Stat. 771, 772; Pub. L. 95–190, §14(a) (77), (78), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title III, §302(f), title VII, §707(a)–(g), Nov. 15, 1990, 104 Stat. 2574, 2682, 2683.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as ineffect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

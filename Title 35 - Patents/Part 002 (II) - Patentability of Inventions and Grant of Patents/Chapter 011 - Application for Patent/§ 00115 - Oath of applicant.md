@@ -1,8 +1,8 @@
 ### §115. Oath of applicant
 
-The applicant shall make oath that he believes himself to be the original and first inventor of the process, machine, manufacture, or composition of matter, or improvement thereof, for which he solicits a patent; and shall state of what country he is a citizen. Such oath may be made before any person within the United States authorized by law to administer oaths, or, when, made in a foreign country, before any diplomatic or consular officer of the United States authorized to administer oaths, or before any officer having an official seal and authorized to administer oaths in the foreign country in which the applicant may be, whose authority is proved by certificate of a diplomatic or consular officer of the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, and such oath shall be valid if it complies with the laws of the state or country where made. When the application is made as provided in this title by a person other than the inventor, the oath may be so varied in form that it can be made by him.
+The applicant shall make oath that he believes himself to be the original and first inventor of the process, machine, manufacture, or composition of matter, or improvement thereof, for which he solicits a patent; and shall state of what country he is a citizen. Such oath may be made before any person within the United States authorized by law to administer oaths, or, when, made in a foreign country, before any diplomatic or consular officer of the United States authorized to administer oaths, or before any officer having an official seal and authorized to administer oaths in the foreign country in which the applicant may be, whose authority is proved by certificate of a diplomatic or consular officer of the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, and such oath shall be valid if it complies with the laws of the state or country where made. When the application is made as provided in this title by a person other than the inventor, the oath may be so varied in form that it can be made by him. For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §14(a), Aug. 27, 1982, 96 Stat. 321.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §14(a), Aug. 27, 1982, 96 Stat. 321; Pub. L. 105–277, div. G, title XXII, §2222(d), Oct. 21, 1998, 112 Stat. 2681–818.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +13,8 @@ The expression at the end of the second sentence is added to avoid application o
 Changes in language are made.
 
 #### Amendments
+
+1998—Pub. L. 105–277 inserted at end “For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).”
 
 1982—Pub. L. 97–247 substituted “is” for “shall be” after “whose authority”, and inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
 

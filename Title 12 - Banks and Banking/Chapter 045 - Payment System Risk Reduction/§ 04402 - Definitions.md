@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 #### (3) Covered clearing obligation
 
-&emsp;The term “covered clearing obligation” means an obligation of a member of a clearing organization to make payment to another member of a clearing organization, subject to a netting contract.
+&emsp;The term “covered clearing obligation” means an obligation of a member of a clearingorganization to make payment to another member of a clearing organization, subject to a netting contract.
 
 #### (4) Covered contractual payment entitlement
 
@@ -120,7 +120,7 @@ This chapter, referred to in par. (1)(B), was in the original “this title”, 
 
 The Securities Exchange Act of 1934, referred to in par. (2)(A)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Commodity Exchange Act, referred to in par. (2)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (2)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
 

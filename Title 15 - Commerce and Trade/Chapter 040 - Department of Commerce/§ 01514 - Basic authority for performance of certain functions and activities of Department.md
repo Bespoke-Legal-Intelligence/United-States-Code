@@ -8,13 +8,13 @@ Appropriations are authorized for the following activities of the Department of 
 
 &emsp;(c) when deemed necessary by the Secretary of Commerce, the establishment, maintenance, and operation of messing facilities, by contract or otherwise, in Alaska and other points outside the continental United States where suitable family facilities are not available, such service to be furnished to employees of the Department of Commerce and other Federal agencies (including Army, Navy, and Air Force personnel where Army, Navy, or Air Force facilities are not available and upon request of the service concerned), and their dependents, in accordance with regulations established by the Secretary of Commerce, and at a reasonable value determined in accordance therewith, the proceeds from the furnishing of such services to be credited to the appropriation from which the expenditures are made;
 
-&emsp;(d) reimbursement, under regulations prescribed by the Secretary, of officers and employees in or under the Department of Commerce, for food, clothing, medicines, and other supplies furnished by them in emergencies for the temporary relief of distressed persons in remote localities;
+&emsp;(d) reimbursement, under regulations prescribed by the Secretary, of officers and employees in or under the Department of Commerce, for food, clothing, medicines, and othersupplies furnished by them in emergencies for the temporary relief of distressed persons in remote localities;
 
 &emsp;(e) providing motion-picture equipment and film for recreation of crews of vessels of the National Ocean Survey, for recreation of employees in remote localities where such facilities are not available, and for training purposes;
 
 &emsp;(f) erecting, altering, repairing, equipping, furnishing, and maintaining, by contract or otherwise, such living and working quarters and facilities as may be necessary to carry out its authorized work at remote localities not on foreign soil where such living and working accommodations are not otherwise available.
 
-(Oct. 26, 1949, ch. 733, 63 Stat. 907; Aug. 30, 1954, ch. 1076, §1(11), 68 Stat. 967; Jan. 2, 1975, Pub. L. 93–608, §1(3), 88 Stat. 1967.)
+(Oct. 26, 1949, ch. 733, 63 Stat. 907; Aug. 30, 1954, ch. 1076, §1(11), 68 Stat. 967; Pub. L. 93–608, §1(3), Jan. 2, 1975, 88 Stat. 1967.)
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-It is the policy of Congress that an executive agency should not be required by legislation to award a new grant for research, development, test, or evaluation to a non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be awarded through merit-based selection procedures.
+It is the policy of Congress that an executive agency should not be required by legislation to award a new grant for research, development, test, or evaluation to a non-Federal Government entity. It is further the policy of Congress thatany program, project, or technology identified in legislation be awarded through merit-based selection procedures.
 
 #### (b) Rule of construction
 

@@ -42,7 +42,7 @@ The suit authorized under subsection (a) of this section may be to recover such 
 
 (1) Except as provided in paragraph (2), all or any one or more of the persons specified in subsection (a) of this section shall be jointly and severally liable, and every person who becomes liable to make any payment under this section may recover contribution as in cases of contract from any person who, if sued separately, would have been liable to make the same payment, unless the person who has become liable was, and the other was not, guilty of fraudulent misrepresentation.
 
-(2)(A) The liability of an outside director under subsection (e) of this section shall be determined in accordance with section 78u–4(g) <sup>1</sup> of this title.
+(2)(A) The liability of an outside director under subsection (e) of this section shall be determined in accordance with section 78u–4(f) of this title.
 
 (B) For purposes of this paragraph, the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
 
@@ -50,13 +50,11 @@ The suit authorized under subsection (a) of this section may be to recover such 
 
 In no case shall the amount recoverable under this section exceed the price at which the security was offered to the public.
 
-(May 27, 1933, ch. 38, title I, §11, 48 Stat. 82; June 6, 1934, ch. 404, title II, §206, 48 Stat. 907; Dec. 22, 1995, Pub. L. 104–67, title II, §201(b), 109 Stat. 762.)
-
-#### References in Text
-
-Section 78u–4(g) of this title, referred to in subsec. (f)(2)(A), was in the original “section 38 of the Securities Exchange Act of 1934”, which was translated as meaning section 21D(g) of that Act to reflect the probable intent of Congress, because that Act does not contain a section 38 and because section 21D(g) relates to proportionate liability.
+(May 27, 1933, ch. 38, title I, §11, 48 Stat. 82; June 6, 1934, ch. 404, title II, §206, 48 Stat. 907; Pub. L. 104–67, title II, §201(b), Dec. 22, 1995, 109 Stat. 762; Pub. L. 105–353, title III, §301(a)(2), Nov. 3, 1998, 112 Stat. 3235.)
 
 #### Amendments
+
+1998—Subsec. (f)(2)(A). Pub. L. 105–353 made technical amendment to reference in original act which appears in text as reference to section 78u–4(f) of this title.
 
 1995—Subsec. (f). Pub. L. 104–67 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), all” for “All”, and added par. (2).
 
@@ -115,6 +113,4 @@ Undertaking, for costs and reasonable attorneys’ fees under—
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77j, 77m, 77<i>o</i>, 77eee, 78u–4, 80a–24 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

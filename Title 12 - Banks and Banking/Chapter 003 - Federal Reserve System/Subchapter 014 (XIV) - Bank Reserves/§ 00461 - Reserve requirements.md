@@ -202,7 +202,7 @@ Effective and termination dates of existing rate regulations, see Effective and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 248, 248a, 1424, 1823, 1828, 1831r–1, 1831t, 1834, 1841, 3105, 3503, 4001, 4005, 4308, 4309, 4311, 4313, 4402 of this title; title 31 sections 3121, 5313, 5325, 5330, 9110.
+This section is referred to in sections 248, 248a, 1424, 1759, 1823, 1828, 1831r–1, 1831t, 1834, 1841, 3105, 3503, 4001, 4005, 4308, 4309, 4311, 4313, 4402, 4909 of this title; title 31 sections 3121, 5313, 5325, 5330, 9110.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 &emsp;(iii) each respondent may file, not later than 10 days after receipt of notice from the Secretary, an answer to such complaint; and
 
-&emsp;(iv) the Secretary shall make an investigation of the alleged discriminatory housing practice and complete such investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 daysafter the commencement of such further action), unless it is impracticable to do so.
+&emsp;(iv) the Secretary shall make an investigation of the alleged discriminatory housing practice and complete such investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), unless it is impracticable to do so.
 
 (C) If the Secretary is unable to complete the investigation within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
 

@@ -8,19 +8,19 @@
 
 (d) Any senior judge, while performing duties pursuant to this section, shall be paid the same allowances for travel and other expenses as a judge in active service. Such senior judge shall also receive from the Court of Federal Claims supplemental pay in an amount sufficient, when added to his retirement annuity, to equal the salary of a judge in active service for the same period or periods of time. Such supplemental pay shall be paid in the same manner as the salary of a judge.
 
-(Added Pub. L. 92–375, §2, Aug. 10, 1972, 86 Stat. 529; amended Pub. L. 97–164, title I, §121(f)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 99–651, title II,§202(c), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 102–572, title IX, §§902(a), 904(b), Oct. 29, 1992, 106 Stat. 4516, 4517.)
+(Added Pub. L. 92–375, §2, Aug. 10, 1972, 86 Stat. 529; amended Pub. L. 97–164, title I, §121(f)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 99–651, title II, §202(c), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 102–572, title IX, §§902(a), 904(b), Oct. 29, 1992, 106 Stat. 4516, 4517.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (b). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
 Subsec. (d). Pub. L. 102–572, §§902(a)(2), 904(b), substituted “Court of Federal Claims” for “Claims Court” and struck out “civil service” before “retirement annuity”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
+1986—Subsec. (a). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
 
-<b>1982</b>—Pub. L. 97–164 substituted “judges” for “commissioners” in section catchline.
+1982—Pub. L. 97–164 substituted “judges” for “commissioners” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 substituted “Any judge of the United States Claims Court who has retired from regular active service under subchapter III of chapter 83 of title 5 shall be known and designated as a senior judge and may perform duties as a judge when recalled pursuant to subsection (b) of this section” for “Any commissioner who has retired from regular active service under the Civil Service Retirement Act shall be known and designated as a senior commissioner and may perform duties as a commissioner when recalled pursuant to subsection (b) of this section”.
 

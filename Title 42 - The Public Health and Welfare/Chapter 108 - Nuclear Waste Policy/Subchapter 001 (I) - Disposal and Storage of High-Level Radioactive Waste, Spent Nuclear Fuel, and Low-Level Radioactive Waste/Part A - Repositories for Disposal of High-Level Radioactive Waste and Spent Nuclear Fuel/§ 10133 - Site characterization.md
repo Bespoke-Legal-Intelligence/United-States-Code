@@ -6,7 +6,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 #### (b) Commission and States
 
-(1) Before proceeding to sink shafts at the Yucca Mountain site, the Secretary shall submitfor such candidate site to the Commission and to the Governor or legislature of the State of Nevada, for their review and comment—
+(1) Before proceeding to sink shafts at the Yucca Mountain site, the Secretary shall submit for such candidate site to the Commission and to the Governor or legislature of the State of Nevada, for their review and comment—
 
 &emsp;(A) a general plan for site characterization activities to be conducted at such candidate site, which plan shall include—
 
@@ -68,7 +68,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through “geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under section 10132 of this title and are located in various geologic media” as the probable intent of Congress.
+1987—Subsec. (a). Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through“geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under section 10132 of this title and are located in various geologic media” as the probable intent of Congress.
 
 Pub. L. 100–202 and Pub. L. 100–203, §5011(e)(1), amended subsec. (a) identically, substituting “State of Nevada” for “State involved or the governing body of the affected Indian tribe involved”.
 

@@ -30,5 +30,5 @@ Support of a center under subsection (a) of this section may be for not more tha
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(July 1, 1944, ch. 373, title XXIII, §2316, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3071.)
+(July 1, 1944, ch. 373, title XXIII, §2316, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3071.)
 

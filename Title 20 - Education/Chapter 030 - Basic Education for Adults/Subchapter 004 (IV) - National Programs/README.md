@@ -1,16 +1,8 @@
 ### SUBCHAPTER IV—NATIONAL PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1201b of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01213 - Adult migrant farmworker and immigrant education](%C2%A7%2001213%20-%20Adult%20migrant%20farmworker%20and%20immigrant%20education.md)
-- [&sect; 01213a - Adult literacy volunteer training](%C2%A7%2001213a%20-%20Adult%20literacy%20volunteer%20training.md)
-- [&sect; 01213b - State program analysis assistance and policy studies](%C2%A7%2001213b%20-%20State%20program%20analysis%20assistance%20and%20policy%20studies.md)
-- [&sect; 01213c - National research activities](%C2%A7%2001213c%20-%20National%20research%20activities.md)
-- [&sect; 01213d - Limitation](%C2%A7%2001213d%20-%20Limitation.md)
+- [&sect; 01213 to 1213d - Repealed. Pub. L. 105&#8211;220, title II, &sect;251(a)(1), Aug. 7, 1998, 112 Stat. 1079](%C2%A7%2001213%20to%201213d%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93220%2C%20title%20II%2C%20%C2%A7251%28a%29%281%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%201079.md)

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No person may use any pipe, any pipe or plumbing fitting or fixture, any solder, or any flux, after June 19, 1986, in the installation or repair of—
+&emsp;&emsp;No person may use any pipe, any pipe or plumbing fitting or fixture, any solder, orany flux, after June 19, 1986, in the installation or repair of—
 
 &emsp;&emsp;&emsp;(i) any public water system; or
 
@@ -94,7 +94,7 @@ For purposes of this section, the term “lead free”—
 
 &emsp;&emsp;If regulations are required to be promulgated under subparagraph (A) and have not been promulgated by the date that is 5 years after August 6, 1996, no person may import, manufacture, process, or distribute in commerce a new plumbing fitting or fixture, intended by the manufacturer to dispense water for human ingestion, that contains more than 4 percent lead by dry weight.
 
-(July 1, 1944, ch. 373, title XIV, §1417, as added June 19, 1986, Pub. L. 99–339, title I, §109(a), 100 Stat. 651; amended Aug. 6, 1996, Pub. L. 104–182, title I, §118, title V, §501(f)(1), 110 Stat. 1645, 1691.)
+(July 1, 1944, ch. 373, title XIV, §1417, as added Pub. L. 99–339, title I, §109(a), June 19, 1986, 100 Stat. 651; amended Pub. L. 104–182, title I, §118, title V, §501(f)(1), Aug. 6, 1996, 110 Stat. 1645, 1691.)
 
 #### Amendments
 

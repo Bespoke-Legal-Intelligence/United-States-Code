@@ -38,7 +38,7 @@
 
 (e)(1) To the extent possible, the Secretary shall make available each report of an inspection of a community residential-care facility under subsection (b)(2) or (c)(1) of this section to each Federal, State, and local agency charged with the responsibility of licensing or otherwise regulating or inspecting such facility.
 
-(2) The Secretary shall make the standards prescribed in regulations under subsection (d) of this section available to all Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting community residential-care facilities.
+(2) The Secretary shall make the standards prescribed in regulations under subsection (d) of this section available to all Federal, State, and local agencies charged with the responsibility oflicensing or otherwise regulating or inspecting community residential-care facilities.
 
 (f) For the purpose of this section, the term “community residential-care facility” means a facility that provides room and board and such limited personal care for and supervision of residents as the Secretary determines, in accordance with regulations prescribed under this section, are necessary for the health, safety, and welfare of residents.
 

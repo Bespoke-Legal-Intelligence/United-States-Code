@@ -14,7 +14,7 @@ Reconstruction Finance Corporation was abolished and remaining functions transfe
 
 #### Eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1957, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1957, pursuant to the provisions ofthe Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### ABOLITION OF THE RECONSTRUCTION FINANCE CORPORATION
 
@@ -62,7 +62,7 @@ Each transferee may from time to time make such provisions as he shall deem appr
 
 #### Sec. 7. Effective Date
 
-The provisions of this reorganization plan shall take effect at the time determined under the provisions of section 6(a) of the Reorganization Act of 1949, as amended \[see 5 U.S.C. 906(a)\] or at the close of June 30, 1957, whichever is later.
+The provisions of this reorganization plan shall take effect at the time determined under the provisions ofsection 6(a) of the Reorganization Act of 1949, as amended \[see 5 U.S.C. 906(a)\] or at the close of June 30, 1957, whichever is later.
 
 #### Schedule A
 
@@ -103,7 +103,7 @@ This schedule annexed to Reorganization Plan No. 1 of 1957 lists by name and add
 
 #### Short Title of Act July 30, 1953, Ch. 282, Title I
 
-Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98 and 544 of Title 50, War and National Defense, section 1929 and sections 2094 and 2261 of Appendix to title 50, provided by section 101 of such actthat they should be popularly known as the “Reconstruction Finance Corporation Liquidation Act”.
+Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98 and 544 of Title 50, War and National Defense, section 1929 and sections 2094 and 2261 of Appendix to title 50, provided by section 101 of such act that they should be popularly known as the “Reconstruction Finance Corporation Liquidation Act”.
 
 #### Continuation of Pending Proceedings
 

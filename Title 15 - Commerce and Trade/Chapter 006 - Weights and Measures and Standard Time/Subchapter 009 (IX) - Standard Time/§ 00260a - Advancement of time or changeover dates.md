@@ -24,7 +24,7 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 #### Effective Date of 1986 Amendment
 
-Section 2(e) of Pub. L. 99–359 provided that: “This section \[amending this section and enacting provisions set out as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
+Section 2(e) of Pub. L. 99–359 provided that: “This section \[amending this section and enacting provisions setout as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
 
 #### Congressional Findings; Expansion of Daylight Saving Time
 

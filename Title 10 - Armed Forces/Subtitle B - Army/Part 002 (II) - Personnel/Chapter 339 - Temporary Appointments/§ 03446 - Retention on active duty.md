@@ -6,7 +6,7 @@ The President may retain on active duty a disabled officer until—
 
 &emsp;(2) the officer is processed for physical disability benefits provided by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 196; Sept. 2, 1958, Pub. L. 85–861, §1(81)(C), 72 Stat. 1480; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(10), 103 Stat. 1603; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(j)(6), 105 Stat. 116.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 196; Pub. L. 85–861, §1(81)(C), Sept. 2, 1958, 72 Stat. 1480; Pub. L. 101–189, div. A, title XVI, §1621(a)(10), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 102–25, title VII, §701(j)(6), Apr. 6, 1991, 105 Stat. 116.)
 
 Historical and Revision Notes<br>1956
 
@@ -24,7 +24,7 @@ Act
 
 June 19, 1948, ch. 511, 62 Stat. 489.
 
-The word “shall” is substituted for the words “authorized and directed”. The words “on active duty” are substituted for the words “in service”. The words “warrant officers, and flight officers” are omitted, since the definition of “officer” in section 101(14) of this titlecovers commissioned, warrant, and flight officers. The words “who has only a temporary appointment” are substituted for the words “of the Army \* \* \* of the United States”. The words “his physical condition is such that he” are substituted for the words “their treatment for physical reconstruction has reached a point where they”. The words “in the Army” are substituted for the words “in the military service”.
+The word “shall” is substituted for the words “authorized and directed”. The words “on active duty” are substituted for the words “in service”. The words “warrant officers, and flight officers” are omitted, since the definition of “officer” in section 101(14) of this title covers commissioned, warrant, and flight officers. The words “who has only a temporary appointment” are substituted for the words “of the Army \* \* \* of the United States”. The words “his physical condition is such that he” are substituted for the words “their treatment for physical reconstruction has reached a point where they”. The words “in the Army” are substituted for the words “in the military service”.
 
 1958
 

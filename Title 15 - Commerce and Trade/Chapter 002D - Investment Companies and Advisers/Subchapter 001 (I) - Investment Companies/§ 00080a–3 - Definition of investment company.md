@@ -4,7 +4,7 @@
 
 (1) When used in this subchapter, “investment company” means any issuer which—
 
-&emsp;(A) is or holds itself out as being engaged primarily, or proposes to engage primarily, inthe business of investing, reinvesting, or trading in securities;
+&emsp;(A) is or holds itself out as being engaged primarily, or proposes to engage primarily, in the business of investing, reinvesting, or trading in securities;
 
 &emsp;(B) is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or has been engaged in such business and has any such certificate outstanding; or
 
@@ -14,7 +14,7 @@
 
 #### (b) Exemption from provisions
 
-Notwithstanding paragraph (3) <sup>1</sup> of subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
+Notwithstanding paragraph (1)(C) of subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
@@ -36,7 +36,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(B) For purposes of this paragraph—
 
-&emsp;&emsp;(i) the term “market intermediary” means any person that regularly holds itself out as being willing contemporaneously to engage in, and that is regularly engaged in, the business of entering into transactions on both sides of the market for a financial contract or one or more such financial contracts; and
+&emsp;&emsp;(i) the term “market intermediary” means any person that regularly holds itself out asbeing willing contemporaneously to engage in, and that is regularly engaged in, the business of entering into transactions on both sides of the market for a financial contract or one or more such financial contracts; and
 
 &emsp;&emsp;(ii) the term “financial contract” means any arrangement that—
 
@@ -74,7 +74,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;(D) An issuer that is excepted under this paragraph shall nonetheless be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title relating to the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.
 
-&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treated by the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
+&emsp;(E) For purposes of determining compliance with this paragraph and paragraph (1), an issuer that is otherwise excepted under this paragraph and an issuer that is otherwise excepted under paragraph (1) shall not be treatedby the Commission as being a single issuer for purposes of determining whether the outstanding securities of the issuer excepted under paragraph (1) are beneficially owned by not more than 100 persons or whether the outstanding securities of the issuer excepted under this paragraph are owned by persons that are not qualified purchasers. Nothing in this subparagraph shall be construed to establish that a person is a bona fide qualified purchaser for purposes of this paragraph or a bona fide beneficial owner for purposes of paragraph (1).
 
 &emsp;(8) Any company subject to regulation under the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
 
@@ -146,15 +146,15 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 
-(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; July 1, 1966, Pub. L. 89–485, §13(i), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §3(a), (b), 84 Stat. 1414; Feb. 5, 1976, Pub. L. 94–210, title III, §308(c), 90 Stat. 57; Oct. 21, 1980, Pub. L. 96–477, title I, §102, title VII, §703, 94 Stat. 2276, 2295; Dec. 4, 1987, Pub. L. 100–181, title VI, §§604–606, 101 Stat. 1260; Dec. 8, 1995, Pub. L. 104–62, §2(a), 109 Stat. 682; Oct. 11, 1996, Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), 110 Stat. 3432, 3435, 3447.)
+(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
-
-Paragraph (3) of subsection (a) of this section, referred to in subsec. (b), was redesignated subsec. (a)(1)(C) by Pub. L. 104–290, title II, §209(c)(3), (4), Oct. 11, 1996, 110 Stat. 3435.
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–353 substituted “paragraph (1)(C)” for “paragraph (3)” in introductory provisions.
 
 1996—Subsec. (a). Pub. L. 104–290, §209(c)(1)–(5), designated existing introductory provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and designated existing concluding provisions as par. (2).
 
@@ -254,7 +254,7 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 Section 209(d)(1) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules to implement the requirements of section 3(c)(1)(B) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)(B)), as amended by this section.”
 
-Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
+Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer underparagraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
 
 Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
 
@@ -268,7 +268,7 @@ Section 508(f) of Pub. L. 104–290 provided that:
 
 “(1)
 
-Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from thedefinition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
+Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
 
 “(2)
 
@@ -283,6 +283,4 @@ Value as to assets of registered investment companies, definition of, see sectio
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77c, 77z–2, 78c, 78<i>l</i>, 78u–5, 80a–2, 80a–3a, 80a–6, 80a–7, 80a–29, 80a–58, 80a–62, 80a–64, 80b–3, 80b–5, 6102 of this title; title 26 sections 851, 6049.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,8 @@
 ### §2662. Real property transactions: reports to congressional committees
 
-(a) The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives:
+(a)
+
+General Notice and Wait Requirements.—The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives:
 
 &emsp;(1) An acquisition of fee title to any real property, if the estimated price is more than $200,000.
 
@@ -16,17 +18,49 @@
 
 > If a transaction covered by clause (1) or (2) is part of a project, the report must include a summarization of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in clause (5) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
 
-(b) The Secretary of each military department shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than the simplified acquisition threshold under section 2304(g) of this title but not more than $200,000.
+(b)
 
-(c) This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harbor projects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real property acquisition specifically authorized in a Military Construction Authorization Act.
+Annual Reports on Certain Minor Transactions.—The Secretary of each military department shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than the simplified acquisition threshold under section 2304(g) of this title but not more than $200,000.
 
-(d) A statement in an instrument of conveyance, including a lease, that the requirements of this section have been met, or that the conveyance is not subject to this section, is conclusive.
+(c)
 
-(e) No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $200,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a).
+Geographic Scope; Excepted Projects.—This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harbor projects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real property acquisition specifically authorized in a Military Construction Authorization Act.
 
-(f) Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+(d)
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; June 25, 1959, Pub. L. 86–70, §6(c), 73 Stat. 142; June 8, 1960, Pub. L. 86–500, title V, §511(1), 74 Stat. 186; July 12, 1960, Pub. L. 86–624, §4(c), 74 Stat. 411; Oct. 27, 1971, Pub. L. 92–145, title VII, §707(5), 85 Stat. 412; Oct. 25, 1972, Pub. L. 92–545, title VII, §709, 86 Stat. 1154; Dec. 27, 1974, Pub. L. 93–552, title VI, §610, 88 Stat. 1765; Oct. 7, 1975, Pub. L. 94–107, title VI, §607(5), (6), 89 Stat. 566; Sept. 30, 1976, Pub. L. 94–431, title VI, §614, 90 Stat. 1367; Oct. 10, 1980, Pub. L. 96–418, title VIII, §805, 94 Stat. 1777; Sept. 29, 1988, Pub. L. 100–456, div. B, title XXVIII, §2803, 102 Stat. 2115; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1311(6), 104 Stat. 1670; Oct. 24, 1992, Pub. L. 102–496, title IV, §403(a)(1), (2)(A), 106 Stat. 3185; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), 110 Stat. 505, 673.)
+Statements of Compliance in Transaction Instruments.—A statement in an instrument of conveyance, including a lease, that the requirements of this section have been met, or that the conveyance is not subject to this section, is conclusive.
+
+(e)
+
+Notice and Wait Regarding Leases of Space for DoD by GSA.—No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $200,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a).
+
+(f)
+
+Reports on Transactions Involving Intelligence Components.—Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+(g)
+
+Exceptions for Transactions for War and Certain Emergency and Other Operations.—(1) The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection, and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwise covered by that subsection, if the Secretary concerned determines that the transaction is made as a result of any of the following:
+
+&emsp;(A) A declaration of war.
+
+&emsp;(B) A declaration of a national emergency by the President pursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.).
+
+&emsp;(C) A declaration of an emergency or major disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+
+&emsp;(D) The use of the militia or the armed forces after a proclamation to disperse under section 334 of this title.
+
+&emsp;(E) A contingency operation.
+
+(2) The reporting requirement set forth in subsection (a) shall not apply with respect to a real property transaction otherwise covered by that subsection if the Secretary concerned determines that—
+
+&emsp;(A) an event listed in paragraph (1) is imminent; and
+
+&emsp;(B) the transaction is necessary for purposes of preparation for such event.
+
+(3) Not later than 30 days after entering into a real property transaction covered by paragraph (1) or (2), the Secretary concerned shall submit to the committees named in subsection (a) a report on the transaction. The report shall set forth any facts or information which would otherwise have been submitted in a report on the transaction under subsection (a) or (e), as the case may be, but for the operation of paragraph (1) or (2).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204.)
 
 Historical and Revision Notes
 
@@ -64,7 +98,17 @@ In subsection (c), the words “the United States, Alaska, Hawaii” are substit
 
 In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
 
+#### References in Text
+
+The National Emergencies Act, referred to in subsec. (g)(1)(B), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
 #### Amendments
+
+1998—Subsecs. (a) to (f). Pub. L. 105–261, §2811(b), inserted subsec. headings.
+
+Subsec. (g). Pub. L. 105–261, §2811(a), added subsec. (g).
 
 1996—Subsec. (a). Pub. L. 104–106, §1502(a)(23)(A), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives” in introductory provisions and struck out “to be submitted to the Committees on Armed Services of the Senate and House of Representatives” after “The report required by this subsection” in concluding provisions.
 
@@ -86,7 +130,7 @@ Subsec. (f). Pub. L. 102–496, §403(a)(1), added subsec. (f).
 
 1980—Subsecs. (a), (b), (e). Pub. L. 96–418 substituted “$100,000” for “$50,000” wherever appearing.
 
-1976—Subsec. (a). Pub. L. 94–431 provided that the report on the excess property owned by the United States contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
+1976—Subsec. (a). Pub. L. 94–431 provided that the report on the excess property owned by the United Statescontain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
 
 1975—Subsec. (b). Pub. L. 94–107, §607(5), substituted requirement of annual reports for requirement of quarterly reports.
 
@@ -126,7 +170,7 @@ Pub. L. 95–485, title VI, §602, Oct. 20, 1978, 92 Stat. 1617, prohibited any 
 
 #### Closing of Facilities; Closures or Realignments Publicly Announced After September 30, 1977
 
-Pub. L. 95–82, title VI, §612(c), Aug. 1, 1977, 91 Stat. 380, provided that: “Section 611 of the Military Construction Authorization Act, 1966 (Public Law 89–188; 10 U.S.C. 2662 note), and section 612 of the Military Construction Authorization Act, 1977 (Public Law 94–431; 90 Stat. 1366) \[which was not classified to the Code\], shall be inapplicable in the case of any closure of a military installation, and any realignment with respect to amilitary installation, which is first publicly announced after September 30, 1977.”
+Pub. L. 95–82, title VI, §612(c), Aug. 1, 1977, 91 Stat. 380, provided that: “Section 611 of the Military Construction Authorization Act, 1966 (Public Law 89–188; 10 U.S.C. 2662 note), and section 612 of the Military Construction Authorization Act, 1977 (Public Law 94–431; 90 Stat. 1366) \[which was not classified to the Code\], shall be inapplicable in the case of any closure of a military installation, and any realignment with respect to a military installation, which is first publicly announced after September 30, 1977.”
 
 #### Closing of Facilities; Reports to Congress
 

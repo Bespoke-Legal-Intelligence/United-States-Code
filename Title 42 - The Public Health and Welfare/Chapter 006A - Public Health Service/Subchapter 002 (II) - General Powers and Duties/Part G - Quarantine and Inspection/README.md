@@ -4,8 +4,6 @@ Part G—Quarantine and Inspection
 
 This part is referred to in section 300j–9 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “years”.</i>
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §1896a. Restriction on commitments for technical assistance
 
-No commitment for the calendar year 1955 or thereafter, with respect to contributions to the United Nations expanded program of technical assistance, shall be pledged on behalf of theUnited States until the Congress appropriates for said purpose.
+No commitment for the calendar year 1955 or thereafter, with respect to contributions to the United Nations expanded program of technical assistance, shall be pledged on behalf of the United States until the Congress appropriates for said purpose.
 
 (Sept. 3, 1954, ch. 1262, §101, 68 Stat. 1221.)
 

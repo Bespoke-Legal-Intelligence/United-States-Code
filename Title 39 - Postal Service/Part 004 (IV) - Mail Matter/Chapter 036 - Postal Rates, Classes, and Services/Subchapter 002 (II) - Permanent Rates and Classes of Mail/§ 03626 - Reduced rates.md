@@ -44,7 +44,7 @@
 
 (2) Any material described in paragraph (1) of this subsection shall qualify to be entered and mailed as second class mail in accordance with the applicable provisions of former section 4352 through former section 4357 of this title.
 
-(3) For purposes of this subsection, the term “institution of higher education” has the meaning given it by section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)), and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency.
+(3) For purposes of this subsection, the term “institution of higher education” has the meaning given it by section 101 of the Higher Education Act of 1965, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency.
 
 (c) In the administration of this section, one conservation publication published by an agency of a State which is responsible for management and conservation of the fish or wildlife resources of such State shall be considered a publication of a qualified nonprofit organization which qualifies for rates of postage under former section 4358(d) of this title.
 
@@ -78,7 +78,7 @@
 
 &emsp;(B) any insurance policy, unless the organization which promotes the purchase of such policy is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the policy is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization, and the coverage provided by the policy is not generally otherwise commercially available;
 
-&emsp;(C) any travel arrangement, unless the organization which promotes the arrangement isauthorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the travel contributes substantially (aside from the cultivation of members, donors, or supporters, or the acquisition of income or funds) to one or more of the purposes which constitutes the basis for the organization's authorization to mail at such rates, and the arrangement is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization; or
+&emsp;(C) any travel arrangement, unless the organization which promotes the arrangement is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the travel contributes substantially (aside from the cultivation of members, donors, or supporters, or the acquisition of income or funds) to one or more of the purposes which constitutes the basis for the organization's authorization to mail at such rates, and the arrangement is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization; or
 
 &emsp;(D) any product or service (other than any to which subparagraph (A), (B), or (C) relates), if—
 
@@ -120,17 +120,21 @@
 
 (2) Paragraph (1) shall not apply with respect to a periodical publication of a qualified nonprofit organization.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L.94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620.)
 
 #### References in Text
 
 Former sections 4351 to 4358, 4452, and 4554 of this title, referred to in subsecs. (a)–(e)(1), (f), (g)(1), (h), and (j) to (m), mean the aforesaid sections which were classified to former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+
+Section 101 of the Higher Education Act of 1965, referred to in subsec. (b)(3), is classified to section 1001 of Title 20, Education.
 
 Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)(D)(I) and (m)(1)(B), is classified to section 513 of Title 26, Internal Revenue Code.
 
 The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–244 substituted “section 101” for “section 1201(a)” and struck out “(20 U.S.C. 1141(a))” after “Act of 1965”.
 
 1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
 
@@ -185,6 +189,10 @@ Subsec. (i). Pub. L. 99–509 added subsec. (i).
 1976—Pub. L. 94–421 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
 1974—Pub. L. 93–328 substituted “sixteenth” for “tenth” year in subpar. (1), substituted “under former sections” for “under sections”, “eighth” for “fifth” year, and “subparagraph” for “subsection” and struck out reference to section “4452(a)” after “4422,” in subpar. (2), and added subpar. (3).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1993 Amendment
 

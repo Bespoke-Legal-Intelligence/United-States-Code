@@ -2,7 +2,7 @@
 
 (a) The Secretary concerned may provide for the recovery, care, and disposition of the remains of the following persons:
 
-&emsp;(1) Any Regular of an armed force, or member of an armed force without component, under his jurisdiction who dies while on active duty.
+&emsp;(1) Any Regular of an armed force under his jurisdiction who dies while on active duty.
 
 &emsp;(2) A member of a reserve component of an armed force who dies while—
 
@@ -24,7 +24,11 @@
 
 &emsp;(6) Any person who has been discharged from an enlistment in an armed force under his jurisdiction while a patient in a United States hospital, and who continues to be such a patient until the date of his death.
 
-&emsp;(7) Any retired member of an armed force under his jurisdiction who becomes a patient in a United States hospital while he is on active duty for a period of more than 30 days, and who continues to be such a patient until the date of his death.
+&emsp;(7) A person who—
+
+&emsp;&emsp;(A) dies as a retired member of an armed force under the Secretary's jurisdiction during a continuous hospitalization of the member as a patient in a United States hospital that began while the member was on active duty for a period of more than 30 days; or
+
+&emsp;&emsp;(B) is not covered by subparagraph (A) and, while in a retired status by reason of eligibility to retire under chapter 61 of this title, dies during a continuous hospitalization of the person that began while the person was on active duty as a Regular of an armed force under the Secretary's jurisdiction.
 
 &emsp;(8) Any military prisoner who dies while in his custody.
 
@@ -34,7 +38,7 @@
 
 (c) In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Oct. 13, 1964, Pub. L. 88–647, title III, §301(3), 78 Stat. 1071; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §604(e)(3), 100 Stat. 3877; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §652(a)(1), 108 Stat. 2793; Feb. 10, 1996, Pub. L. 104–106, div. A, title VII, §702(b), 110 Stat. 371; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §513(e), 111 Stat. 1732.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050.)
 
 Historical and Revision Notes
 
@@ -64,6 +68,10 @@ In subsection (b), the words “This section applies to each person \* \* \* e
 
 #### Amendments
 
+1998—Subsec. (a)(1). Pub. L. 105–261, §645(b), which directed the amendment of par. (1) by striking out “, or a member of an armed force without component,”, was executed by striking out “, or member of an armed force without component,” after “Regular of an armed force”, to reflect the probable intent of Congress.
+
+Subsec. (a)(7). Pub. L. 105–261, §645(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any retired member of an armed force under his jurisdiction who becomes a patient in a United States hospital while he is on active duty for a period of more than 30 days, and who continues to be such a patient until the date of his death.”
+
 1997—Subsec. (a)(2)(D). Pub. L. 105–85 inserted “remaining overnight immediately before the commencement of inactive-duty training, or” after “(D)”.
 
 1996—Subsec. (a)(2)(C) to (E). Pub. L. 104–106 struck out “or” at end of subpar. (C), added subpar. (D), and redesignated former subpar. (D) as (E).
@@ -80,17 +88,17 @@ Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 
 1964—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title VI, §645(c), Oct. 17, 1998, 112 Stat. 2050, provided that: “The amendment made by subsection (a) \[amending this section\] applies with respect to deaths occurring on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+
 #### Effective Date of 1994 Amendment
 
-Section 652(a)(3) of Pub. L. 103–337 provided that: “The amendments made by this subsection \[amending this section and section 1482 of this title\] shall apply with respect to the remains of, and incidental expenses incident to the recovery, care, and disposition of, an individual who dies after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Section 652(a)(3) of Pub. L. 103–337 provided that: “The amendments made by this subsection \[amendingthis section and section 1482 of this title\] shall apply with respect to the remains of, and incidental expenses incident to the recovery, care, and disposition of, an individual who dies after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
-
-#### Cross References
-
-American Battle Monuments Commission, see section 121 et seq. of Title 36, Patriotic Societies and Observances.
 
 #### Section Referred to in Other Sections
 

@@ -8,9 +8,9 @@
 
 &emsp;(A) as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 <sup>1</sup> exceeds 30 percent of the total enrollment of that school;
 
-&emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\] which is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
+&emsp;(B) as a full-time staff member in a preschool program carried on under the HeadStart Act \[42 U.S.C. 9831 et seq.\] which is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
 
-&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1476(b)(9) <sup>1</sup> of this title;
+&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
 
 &emsp;(D) as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310 of title 37 as an area of hostilities;
 
@@ -22,9 +22,9 @@
 
 &emsp;(H) as a full-time nurse or medical technician providing health care services; or
 
-&emsp;(I) as a full-time employee of a public or private nonprofit child or family service agencywho is providing, or supervising the provision of, services to high-risk children who are from low-income communities and the families of such children.
+&emsp;(I) as a full-time employee of a public or private nonprofit child or family service agency who is providing, or supervising the provision of, services to high-risk children who are from low-income communities and the families of such children.
 
-> For the purpose of this paragraph, the term “children with disabilities” has the meaning set forth in section 1401(a)(1) <sup>1</sup> of this title.
+> For the purpose of this paragraph, the term “children with disabilities” has the meaning set forth in section 1401 of this title.
 
 (3)(A) The percent of a loan which shall be canceled under paragraph (1) of this subsection is—
 
@@ -46,9 +46,11 @@
 
 (6) No borrower may, for the same volunteer service, receive a benefit under both this section and subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
+(7) An individual with an outstanding loan obligation under this part who performs service of any type that is described in paragraph (2) as in effect on October 7, 1998, shall be eligible for cancellation under this section for such service notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such service.
+
 #### (b) Reimbursement for cancellation
 
-The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title. None of the funds appropriated pursuant to section 1087aa(b) of this title shall be available for payments pursuant to this subsection.
+The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title. None of the funds appropriated pursuant to section 1087aa(b) of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
 
 #### (c) Special rules
 
@@ -66,11 +68,9 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 > &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such subsequent years.
 
-(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856;Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728.)
 
 #### References in Text
-
-Section 1401(a)(1) of this title, referred to in subsec. (a)(2), was in the original a reference to section 602(a)(1) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “child with a disability”.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
@@ -78,11 +78,9 @@ Section 111(c) of the Elementary and Secondary Education Act of 1965, referred t
 
 The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-Section 1476 of this title, referred to in subsec. (a)(2)(C), was repealed by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157.
-
 The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -95,6 +93,14 @@ Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if in
 A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–244, §465(1)(B), substituted “section 1401” for “section 1401(a)(1)” in concluding provisions.
+
+Subsec. (a)(2)(C). Pub. L. 105–244, §465(1)(A), substituted “section 1435(a)(10)” for “section 1476(b)(9)”.
+
+Subsec. (a)(7). Pub. L. 105–244, §465(1)(C), added par. (7).
+
+Subsec. (b). Pub. L. 105–244, §465(2), inserted at end “To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.”
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–382 substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of the Education Consolidation and Improvement Act of 1981”.
 
@@ -132,9 +138,13 @@ Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of 
 
 Subsec. (a)(2)(B). Pub. L. 100–50, §13(j)(3), substituted “the Head Start Act” for “section 2809(a)(1) of title 42”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
@@ -156,7 +166,7 @@ Subsection (a)(2)(E) of this section applicable only to loans made to cover the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078–10, 1087, 1087dd, 1087gg, 1092 of this title.
+This section is referred to in sections 1078–10, 1087, 1087j, 1087dd, 1092 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

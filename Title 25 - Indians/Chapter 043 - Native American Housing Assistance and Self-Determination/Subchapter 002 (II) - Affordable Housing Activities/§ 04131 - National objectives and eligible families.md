@@ -34,9 +34,9 @@ The national objectives of this chapter are—
 
 #### (5) Exemption
 
-&emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by Indian tribes under this subsection.
+&emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by federally recognized tribes and the tribally designated housing entities of those tribes under this chapter.
 
-(Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031.)
+(Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, §595(e)(7), Oct. 21, 1998, 112 Stat. 2657.)
 
 #### References in Text
 
@@ -45,6 +45,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The Civil Rights Act of 1964, referred to in subsec. (b)(5), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Civil Rights Act of 1968, referred to in subsec. (b)(5), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(5). Pub. L. 105–276 substituted “federally recognized tribes and the tribally designated housing entities of those tribes” for “Indian tribes” and “chapter” for “subsection”.
 
 #### Effective Date
 

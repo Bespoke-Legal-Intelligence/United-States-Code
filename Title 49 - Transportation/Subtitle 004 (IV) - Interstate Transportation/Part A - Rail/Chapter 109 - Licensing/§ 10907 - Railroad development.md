@@ -78,7 +78,7 @@ Section 10926, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1413; Pub. L. 99–521,
 
 Section 10927, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1413; Pub. L. 96–296, §29, July 1, 1980, 94 Stat. 820; Pub. L. 97–261, §18(h), Sept. 20, 1982, 96 Stat. 1121; Pub. L. 98–554, title II, §226(c)(2), (3), Oct. 30, 1984, 98 Stat. 2851; Pub. L. 99–521, §8(d), Oct. 22, 1986, 100 Stat. 2996; Pub. L. 100–690, title IX, §9111(h), Nov. 18, 1988, 102 Stat. 4534; Pub. L. 103–272, §5(m)(26), July 5, 1994, 108 Stat. 1378, related to security of motor carriers, brokers, and freight forwarders. See section 13906 of this title.
 
-Section 10928, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1414; Pub. L. 96–296, §23, July 1, 1980, 94 Stat. 814; Pub.L. 97–261, §15, Sept. 20, 1982, 96 Stat. 1114, related to temporary authority for motor and water carriers.
+Section 10928, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1414; Pub. L. 96–296, §23, July 1, 1980, 94 Stat. 814; Pub. L. 97–261, §15, Sept. 20, 1982, 96 Stat. 1114, related to temporary authority for motor and water carriers.
 
 Section 10929, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1415, related to temporary authority for previously exempt water transportation.
 

@@ -8,6 +8,10 @@ The Director of the United States Information Agency is authorized, when the gov
 
 1982—Pub. L. 97–241 substituted “person in the employ” for “citizen of the United States in the employ”, “Director of the United States Information Agency” for “Secretary”, and “Director finds” for “Secretary finds”.
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
 #### References to Act May 25, 1938
 
 Subsec. (c) of section 1004 of act Jan. 27, 1948, provided that: “Any reference in the Foreign Service Act of 1946 (60 Stat. 999) \[section 801 et seq. of this title\], or in any other law, to provisions of such Act of May 25, 1938, as amended \[section 118e of former Title 5, Executive Departments and Government Officers and Employees\], shall be construed to be applicable to the appropriate provisions of titles III and IX of this Act \[sections 1451 to 1453, 1478, and 1479 of this title\].”

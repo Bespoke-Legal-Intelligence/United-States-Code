@@ -108,5 +108,5 @@ Subsection (d) is added for clarity.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 40118, 41104, 41105, 41106, 41107, 41108, 41109, 41110, 41111, 41112, 41113, 41307, 41312, 41505, 41709, 41713, 42101, 42103, 44901, 44915, 46301, 46316, 47102 of this title; title 22 section 3650; title 29 section 1301; title 39 section 5402.
+This section is referred to in sections 40109, 40118, 41104, 41105, 41106, 41107, 41108, 41109, 41110, 41111, 41112, 41113, 41307, 41312, 41505, 41709, 41713, 44901, 44915, 46301, 46316, 47102 of this title; title 22 section 3650; title 29 section 1301; title 39 section 5402.
 

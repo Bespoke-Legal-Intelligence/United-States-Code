@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;(3) the term “collection of information”—
 
-&emsp;&emsp;(A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either—
+&emsp;&emsp;(A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosureto third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either—
 
 &emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
 

@@ -30,13 +30,13 @@ No funds made available under the National Foreign Intelligence Program may be r
 
 (3) Funds transferred under this subsection shall remain available for the same period as the appropriations account to which transferred.
 
-(4) Any transfer of funds under this subsection shall be carried out in accordance with existing procedures applicable to reprogramming notifications for the appropriate congressional committees. Any proposed transfer for which notice is given to the appropriate congressional committees shall be accompanied by a report explaining the nature of the proposed transfer and how it satisfies the requirements of this subsection. In addition, the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives shall be promptly notified ofany transfer of funds made pursuant to this subsection in any case in which the transfer would not have otherwise required reprogramming notification under procedures in effect as of October 24, 1992.
+(4) Any transfer of funds under this subsection shall be carried out in accordance with existing procedures applicable to reprogramming notifications for the appropriate congressional committees. Any proposed transfer for which notice is given to the appropriate congressional committees shall be accompanied by a report explaining the nature of the proposed transfer and how it satisfies the requirements of this subsection. In addition, the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives shall be promptly notified of any transfer of funds made pursuant to this subsection in any case in which the transfer would not have otherwise required reprogramming notification under procedures in effect as of October 24, 1992.
 
 (5) The Director shall promptly submit to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in the case of the transfer of personnel to or from the Department of Defense, the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, a report on any transfer of personnel made pursuant to this subsection. The Director shall include in any such report an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
 
 #### (e) Coordination with foreign governments
 
-Under the direction of the National Security Council and in a manner consistent with section 3927 of title 22, the Director shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+Under the direction of the National Security Council and in a manner consistent with section3927 of title 22, the Director shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
 
 #### (f) Use of personnel
 
@@ -61,6 +61,10 @@ A prior section 104 of act July 26, 1947, was renumbered section 108 and is clas
 1996—Subsec. (c). Pub. L. 104–293 inserted at end “The Secretary of Defense shall consult with the Director of Central Intelligence before reprogramming funds made available under the Joint Military Intelligence Program.”
 
 Subsec. (d)(5). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Post-Employment Restrictions
 
@@ -100,7 +104,7 @@ Definitions.—For purposes of this section—
 
 “(b)
 
-Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses uniqueabilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 “(c)
 
@@ -170,5 +174,5 @@ Remittance of Funds.—The Director shall remit to the Office of Personnel Manag
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 403–5, 403f, 411 of this title.
+This section is referred to in sections 403–5, 403f, 411 of this title; title 21 section 1703.
 

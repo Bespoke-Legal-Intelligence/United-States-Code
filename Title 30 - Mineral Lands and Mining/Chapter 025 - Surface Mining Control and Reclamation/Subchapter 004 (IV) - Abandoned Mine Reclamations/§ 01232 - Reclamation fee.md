@@ -20,11 +20,11 @@ Together with such reclamation fee, all operators of coal mine operations shall 
 
 #### (e) Civil action to recover fee
 
-Any portion of the reclamation fee not properly or promptly paid pursuant to this section shall be recoverable, with statutory interest, from coal mine operators, in any court of competent jurisdiction in any action at law to compel payment of debts.
+Any portion of the reclamation fee not properly or promptly paid pursuant to this sectionshall be recoverable, with statutory interest, from coal mine operators, in any court of competent jurisdiction in any action at law to compel payment of debts.
 
 #### (f) Cooperation from other agencies
 
-All Federal and State agencies shall fully cooperate with the Secretary of the Interior in the enforcement of this section. Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify theFederal agency responsible for ensuring compliance with the provisions of section 4121 of title 26.
+All Federal and State agencies shall fully cooperate with the Secretary of the Interior in the enforcement of this section. Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of section 4121 of title 26.
 
 #### (g) Allocation of funds
 

@@ -28,6 +28,10 @@ This section amends various sections \[§§2101, 4102, 4109, 5541, 8101\] of tit
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–339, §1, Oct. 31, 1998, 112 Stat. 3182, provided that: “This Act \[enacting sections 3330a to 3330c of this title, section 1316a of Title 2, The Congress, section 115 of Title 3, The President, and section 1354 of Title 31, Money and Finance, amending sections 2108, 2302, and 3304 of this title and section 4212 of Title 38, Veterans’ Benefits, repealing section 1599c of Title 10, Armed Forces, enacting provisions set out as notes under section 2302 of this title and section 601 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 106 of Title 49, Transportation\] may be cited as the ‘Veterans Employment Opportunities Act of 1998’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–226, §1, Mar. 30, 1994, 108 Stat. 111, provided that: “This Act \[amending sections 3381, 4101, 4103, 4105, 4107, 4108, 4113, 4118, 5597, 8351, 8433 to 8435, 8437, 8440a to 8440d of this title and section 1206 of Title 45, Railroads, repealing sections 4106 and 4114 of this title, enacting provisions set out as notes under sections 3101, 3381, 5597, 8331, and 8351 of this title, and amending provisions set out as a note under section 403–4 of Title 50, War and National Defense\] may be cited as the ‘Federal Workforce Restructuring Act of 1994’.”

@@ -10,7 +10,7 @@ It is the purpose of this subchapter to expand the Nation's knowledge and unders
 
 &emsp;(4) dissemination of information on aging and the aging process acquired through such programs to public and private organizations or programs for older individuals.
 
-(Pub. L. 89–73, title IV, §401, as added Pub. L. 98–459, title IV, §401, Oct. 9, 1984, 98 Stat. 1780; amended Pub. L. 100–175, title I, §151, Nov. 29, 1987, 101 Stat. 951; Pub. L. 102–375, title IV, §401, Sept. 30, 1992, 106 Stat. 1243.)
+(Pub. L. 89–73, title IV, §401, as added Pub. L. 98–459, title IV, §401, Oct. 9, 1984, 98 Stat. 1780;amended Pub. L. 100–175, title I, §151, Nov. 29, 1987, 101 Stat. 951; Pub. L. 102–375, title IV, §401, Sept. 30, 1992, 106 Stat. 1243.)
 
 #### Prior Provisions
 

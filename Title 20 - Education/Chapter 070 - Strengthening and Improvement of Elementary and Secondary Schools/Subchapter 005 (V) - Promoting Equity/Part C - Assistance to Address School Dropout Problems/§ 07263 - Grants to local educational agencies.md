@@ -24,7 +24,7 @@ From the amount appropriated under section 7268 of this title for any fiscal yea
 
 &emsp;&emsp;(A) a local educational agency; and
 
-&emsp;&emsp;(B) a business concern or business organization, community-based organization, nonprofit private organization, institution of higher education, State educational agency, State or local public agency, private industry council (established under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]), museum, library, or educational television or broadcasting station.
+&emsp;&emsp;(B) a business concern or business organization, community-based organization, nonprofit private organization, institution of higher education, State educational agency, State or local public agency, private industry council (established under the Job Training Partnership Act), museum, library, or educational television or broadcasting station.
 
 #### (c) Award of grant
 
@@ -34,7 +34,7 @@ From the amount appropriated under section 7268 of this title for any fiscal yea
 
 #### (2) Additional funds
 
-&emsp;Any local educational agency or educational partnership that has received a grant under this part shall be eligible for additional funds as provided under subsection (d) of this section.
+&emsp;Any local educational agency or educational partnership that has received a grant underthis part shall be eligible for additional funds as provided under subsection (d) of this section.
 
 #### (3) Terms and conditions
 
@@ -72,7 +72,7 @@ From the amount appropriated under section 7268 of this title for any fiscal yea
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(2)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 Section 7264 of this title, referred to in subsec. (c)(1), was in the original “section 5304”, meaning section 5304 of Pub. L. 89–10, which was translated as reading section 5404 of that Act to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 5304, but does contain a section 5404 relating to applications for grants under this part.
 

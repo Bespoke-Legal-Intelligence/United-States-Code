@@ -8,7 +8,7 @@ As used in sections 1738<i>o</i>, 1738p, and 1738q of this title, the term “qu
 
 > Such term includes the obligation to pay any interest which was due or accrued not later than September 1, 1992, and unpaid as of the date of a debt sale pursuant to section 1738<i>o</i> of this title or a debt sale, reduction, or cancellation pursuant to section 1738p of this title (as the case may be).
 
-(July 10, 1954, ch. 469, title VI, §619, as added Oct. 27, 1992, Pub. L. 102–532, §2, 106 Stat. 3511.)
+(July 10, 1954, ch. 469, title VI, §619, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3511.)
 
 #### References in Text
 

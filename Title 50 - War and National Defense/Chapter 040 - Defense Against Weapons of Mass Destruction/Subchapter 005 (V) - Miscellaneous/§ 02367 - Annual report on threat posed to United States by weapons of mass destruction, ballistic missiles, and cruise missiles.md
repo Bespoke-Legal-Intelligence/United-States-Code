@@ -16,7 +16,7 @@ Each report submitted under subsection (a) of this section shall be prepared in 
 
 Each report submitted under subsection (a) of this section shall include the following:
 
-&emsp;(1) Identification of each foreign country and non-State organization that possesses weapons of mass destruction, ballistic missiles, or cruise missiles, and a description of such weapons and missiles with respect to eachsuch foreign country and non-State organization.
+&emsp;(1) Identification of each foreign country and non-State organization that possesses weapons of mass destruction, ballistic missiles, or cruise missiles, and a description of such weapons and missiles with respect to each such foreign country and non-State organization.
 
 &emsp;(2) A description of the means by which any foreign country and non-State organization that has achieved capability with respect to weapons of mass destruction, ballistic missiles, or cruise missiles has achieved that capability, including a description of the international network of foreign countries and private entities that provide assistance to foreign countries and non-State organizations in achieving that capability.
 

@@ -8,7 +8,7 @@ For the purposes of receiving notifications and responses and making requests un
 
 In making the designations required in subsection (a) of this section, a public health officer shall give preference to individuals who are trained in the provision of health care or in the control of infectious diseases.
 
-(July 1, 1944, ch. 373, title XXVI, §2686, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 627.)
+(July 1, 1944, ch. 373, title XXVI, §2686, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 627.)
 
 #### Section Referred to in Other Sections
 

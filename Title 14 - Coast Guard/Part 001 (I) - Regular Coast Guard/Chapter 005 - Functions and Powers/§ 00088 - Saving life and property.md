@@ -24,7 +24,7 @@
 
 (d) The Secretary shall establish a helicopter rescue swimming program for the purpose of training selected Coast Guard personnel in rescue swimming skills, which may include rescue diver training.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 501; June 12, 1970, Pub. L. 91–278, §1(3), 84 Stat. 304; Sept. 28, 1988, Pub. L. 100–448, §30(a), 102 Stat. 1849; Nov. 16, 1990, Pub. L. 101–595, title IV, §401, 104 Stat. 2989; Oct. 19, 1996, Pub. L. 104–324, title II, §213(a), 110 Stat. 3915.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 501; Pub. L. 91–278, §1(3), June 12, 1970, 84 Stat. 304; Pub. L. 100–448, §30(a), Sept. 28, 1988, 102 Stat. 1849; Pub. L. 101–595, title IV, §401, Nov. 16, 1990, 104 Stat. 2989; Pub. L. 104–324, title II, §213(a), Oct. 19, 1996, 110 Stat. 3915.)
 
 #### Historical and Revision Notes
 

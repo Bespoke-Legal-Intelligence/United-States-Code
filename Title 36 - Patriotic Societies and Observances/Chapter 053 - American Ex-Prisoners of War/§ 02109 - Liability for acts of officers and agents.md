@@ -1,6 +1,0 @@
-### §2109. Liability for acts of officers and agents
-
-The corporation shall be liable for the acts of its officers and agents when acting within the scope of their authority.
-
-(Pub. L. 97–234, §9, Aug. 10, 1982, 96 Stat. 263.)
-

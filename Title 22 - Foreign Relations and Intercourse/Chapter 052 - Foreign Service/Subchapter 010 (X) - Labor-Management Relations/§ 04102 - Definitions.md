@@ -54,7 +54,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(D) is serving as a deputy to any individual described by subparagraph (A), (B), or (C);
 
-&emsp;&emsp;(E) is assigned to carry out functions of the Inspector General of the Department of State and the Foreign Service under section 3929 of this title; or
+&emsp;&emsp;(E) is assigned to carry out functions of the Inspector General of the Department ofState and the Foreign Service under section 3929 of this title; or
 
 &emsp;&emsp;(F) is engaged in the administration of this subchapter or in the formulation of the personnel policies and programs of the Department;
 
@@ -70,5 +70,5 @@ As used in this subchapter, the term—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3902 of this title; title 5 section 5596.
+This section is referred to in sections 3902, 6613 of this title; title 5 section 5596.
 

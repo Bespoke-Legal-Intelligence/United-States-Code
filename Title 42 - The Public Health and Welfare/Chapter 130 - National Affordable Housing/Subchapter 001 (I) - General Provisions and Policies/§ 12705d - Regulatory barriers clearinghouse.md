@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Housing and Urban Development shall establish a clearinghouse to receive,collect, process, and assemble information regarding—
+The Secretary of Housing and Urban Development shall establish a clearinghouse to receive, collect, process, and assemble information regarding—
 
 &emsp;(1) State and local laws, regulations, and policies affecting the development, maintenance, improvement, availability, or cost of affordable housing, including tax policies affecting land and other property, land use controls, zoning ordinances, building codes, fees and charges, growth limits, and policies that affect the return on investment in residential property;
 

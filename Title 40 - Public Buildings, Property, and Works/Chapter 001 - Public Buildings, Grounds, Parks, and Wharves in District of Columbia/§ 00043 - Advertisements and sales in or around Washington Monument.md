@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in the following prio
 
 Feb. 9, 1909, ch. 101, 35 Stat. 615.
 
-May 27, 1908, ch. 200, 35 Stat. 357.
+May 27, 1908, ch. 200, 35 Stat. 358.
 
 #### Change of Name
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) The extension, alteration, remodeling, improvement, or repair of buildings and structures (including, as part of a lease made under paragraph (1), the provision of equipment) provided under paragraph (1) to the extent necessary to make them suitable for use as medical school facilities.
 
-&emsp;(2) The making of grants to assist the institution to pay the cost of the salaries of thefaculty of such school during the initial 12-month period of operation of the school and the next six such 12-month periods, but payment under this paragraph may not exceed an amount equal to—
+&emsp;(2) The making of grants to assist the institution to pay the cost of the salaries of the faculty of such school during the initial 12-month period of operation of the school and the next six such 12-month periods, but payment under this paragraph may not exceed an amount equal to—
 
 &emsp;&emsp;(A) 90 percent of the cost of faculty salaries during the first 12-month period of operation,
 

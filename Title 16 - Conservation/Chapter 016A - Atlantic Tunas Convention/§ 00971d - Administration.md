@@ -10,7 +10,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 #### (c) Regulations and other measures to carry out Commission recommendations
 
-(1)(A) Upon favorable action by the Secretary of State under section 971c(a) of this title on any recommendation of the Commission made pursuant to article VIII of the Convention, the Secretary shall promulgate, pursuant to this subsection, such regulations as may be necessary and appropriate to carry out such recommendation.
+(1)(A) Upon favorable action by the Secretary of State under section 971c(a) of this title on anyrecommendation of the Commission made pursuant to article VIII of the Convention, the Secretary shall promulgate, pursuant to this subsection, such regulations as may be necessary and appropriate to carry out such recommendation.
 
 (B) Not later than June 30, 1991, the Secretary shall promulgate any additional regulations necessary to ensure that the United States is in full compliance with all recommendations made by the Commission that have been accepted by the United States and with other agreements under the Convention between the United States and any nation which is a party to the Convention.
 
@@ -56,15 +56,15 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 Identification and notification.—
 
-&emsp;(A) <sup>1</sup> Not later than July 1, 1996, and annually thereafter, the Secretary, in consultation with the Secretary of State, the Commissioners, and the advisory committee, shall—
+&emsp;(A) Not later than July 1, 1996, and annually thereafter, the Secretary, in consultation with the Secretary of State, the Commissioners, and the advisory committee, shall—
 
 &emsp;&emsp;(i) identify those nations whose fishing vessels are fishing, or have fished during the preceding calendar year, within the convention area in a manner or under circumstances that diminish the effectiveness of a conservation recommendation;
 
 &emsp;&emsp;(ii) notify the President and the nation so identified, including an explanation of the reasons therefor; and
 
-&emsp;&emsp;(iii) publish a list of those Nations identified under subparagraph (A).
+&emsp;&emsp;(iii) publish a list of those Nations identified under clause (i).
 
-> &emsp;In identifying those Nations, the Secretary shall consider, based on the best available information, whether those Nations have measures in place for reporting, monitoring, and enforcement, and whether those measures diminish the effectiveness of any conservation recommendation.
+&emsp;(B) In identifying those Nations, the Secretary shall consider, based on the best available information, whether those Nations have measures in place for reporting, monitoring, and enforcement, and whether those measures diminish the effectiveness of any conservation recommendation.
 
 (7)
 
@@ -78,11 +78,11 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 #### (d) Recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish
 
-(1) It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>2</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
+(1) It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
 
-(2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary forthe conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
+(2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 
-(Pub. L. 94–70, §6, Aug. 5, 1975, 89 Stat. 387; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–627, title II, §§206, 207, Nov. 28, 1990, 104 Stat. 4461; Pub. L. 104–43, title III, §§303(3), 305, Nov. 3, 1995, 109 Stat. 384, 385; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 94–70, §6, Aug. 5, 1975, 89 Stat. 387; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–627, title II, §§206, 207, Nov. 28, 1990, 104 Stat. 4461; Pub. L. 104–43, title III, §§303(3), 305, Nov. 3, 1995, 109 Stat. 384, 385; Pub. L. 105–384, title II, §202(b)(1)(C), (F), Nov. 13, 1998, 112 Stat. 3452, 3453.)
 
 #### References in Text
 
@@ -92,7 +92,11 @@ Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, refer
 
 #### Amendments
 
-1996—Subsecs. (c)(1)(C), (d)(1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+1998—Subsec. (c)(1)(C). Pub. L. 105–384, §202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+Subsecs. (c)(6)(A)(iii), (B). Pub. L. 105–384, §202(b)(1)(C), substituted “clause (i)” for “subparagraph (A)” in cl. (iii), and redesignated last sentence of subpar. (A) as subpar. (B) and realigned margin.
+
+Subsec. (d)(1). Pub. L. 105–384, §202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 1995—Subsec. (a). Pub. L. 104–43, §303(3), substituted “exclusive economic zone” for “fisheries zone” after “any vessel in the” in third sentence.
 
@@ -108,10 +112,6 @@ Subsec. (c)(3). Pub. L. 101–627, §206(b), added subpars. (I) to (K) and concl
 
 Subsec. (d). Pub. L. 101–627, §207, amended subsec. (d) generally, substituting provisions relating to recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish for provisions relating to Commission recommendations concerning bluefin tuna and issuance of regulations.
 
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
-
 #### Transfer of Functions
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
@@ -120,7 +120,5 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 
 This section is referred to in sections 971e, 971j of this title.
 
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

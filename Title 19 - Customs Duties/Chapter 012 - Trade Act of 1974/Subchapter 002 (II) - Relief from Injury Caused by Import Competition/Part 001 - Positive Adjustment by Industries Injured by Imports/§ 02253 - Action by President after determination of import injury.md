@@ -94,7 +94,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (e) Limitations on actions
 
-(1)(A) Subject to subparagraph (B), the duration of the period in which an action takenunder this section may be in effect shall not exceed 4 years. Such period shall include the period, if any, in which provisional relief under section 2252(d) of this title was in effect.
+(1)(A) Subject to subparagraph (B), the duration of the period in which an action taken under this section may be in effect shall not exceed 4 years. Such period shall include the period, if any, in which provisional relief under section 2252(d) of this title was in effect.
 
 (B)(i) Subject to clause (ii), the President, after receiving an affirmative determination from the Commission under section 2254(c) of this title (or, if the Commission is equally divided in its determination, a determination which the President considers to be an affirmative determination of the Commission), may extend the effective period of any action under this section if the President determines that—
 

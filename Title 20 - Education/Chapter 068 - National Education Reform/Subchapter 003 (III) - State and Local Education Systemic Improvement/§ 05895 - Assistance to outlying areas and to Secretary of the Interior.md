@@ -34,7 +34,7 @@
 
 &emsp;(A) To carry out the provisions of this section, and to develop the plan for system-wide reform and improvement required under the agreement required under paragraph (1), the Secretary of the Interior shall establish a panel coordinated by the Assistant Secretary of the Interior for Indian Affairs. Such panel shall consist of—
 
-&emsp;&emsp;(i) the Director of the Office of Indian Education Programs of the Bureau and two heads of other divisions of such Bureau as the Assistant Secretary shall designate;
+&emsp;&emsp;(i) the Director of the Office of Indian Education Programs of the Bureau and twoheads of other divisions of such Bureau as the Assistant Secretary shall designate;
 
 &emsp;&emsp;(ii) a designee of the Secretary of Education; and
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(VI) The organization representing the majority of contract or grant schools funded by the Bureau serving students on the Navajo reservation.
 
-&emsp;&emsp;&emsp;(VII) The organization representing the school boards required by statute forschools operated by the Bureau not serving students on the Navajo reservation.
+&emsp;&emsp;&emsp;(VII) The organization representing the school boards required by statute for schools operated by the Bureau not serving students on the Navajo reservation.
 
 &emsp;&emsp;&emsp;(VIII) The organization representing the school boards required by statute for schools funded by the Bureau serving students on the Navajo reservation.
 
@@ -146,7 +146,7 @@ Subsecs. (e), (f). Pub. L. 103–382, §384(a)(2), added subsecs. (e) and (f).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out asa note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Section Referred to in Other Sections
 

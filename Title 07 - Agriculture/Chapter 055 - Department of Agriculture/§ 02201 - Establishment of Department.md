@@ -22,7 +22,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–113, §1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Act \[enacting section 2204g of this title, amending sections 1991 and 2276 of this title andsection 9 of Title 13, Census, repealing section 142 of Title 13, and enacting provisions set out as a note under section 1991 of this title\] may be cited as the ‘Census of Agriculture Act of 1997’.”
+Pub. L. 105–113, §1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Act \[enacting section 2204g of this title, amending sections 1991 and 2276 of this title and section 9 of Title 13, Census, repealing section 142 of Title 13, and enacting provisions set out as a note under section 1991 of this title\] may be cited as the ‘Census of Agriculture Act of 1997’.”
 
 #### Short Title of 1980 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 97–35, title I, §125, Aug. 13, 1981, 95 Stat. 369, provided that: “
 
 #### Transfer of Functions From Secretary of Interior to Secretary of Agriculture
 
-Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorganization Plan Numbered 1 of 1959, provided: “That, except as otherwise provided in section 2 hereof, the following functions are hereby transferred to the Secretary of Agriculture:
+Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorganization Plan Numbered 1 of 1959, provided: “That, except as otherwise provided insection 2 hereof, the following functions are hereby transferred to the Secretary of Agriculture:
 
 “(a) The functions of the Secretary of the Interior under the Act of March 20, 1922, 42 Stat. 465, as amended (16 U.S.C. 485, 486), with respect to exchanges of non-Federal lands for national forest lands or timber.
 

@@ -20,7 +20,7 @@ The President may waive the requirements of this section (and in the case of an 
 
 The certification required by subsection (a) of this section shall be transmitted—
 
-&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North AtlanticTreaty Organization, any member country of that Organization or Australia, Japan, or New Zealand; and
+&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, or New Zealand; and
 
 &emsp;(2) not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 
@@ -38,17 +38,13 @@ Subsec. (b). Pub. L. 104–164, §141(e)(1)(B), substituted “states in his cer
 
 Subsec. (c). Pub. L. 104–164, §141(e)(1)(C), added subsec. (c).
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–164 applicable with respect to certifications required to be submitted on or after July 21, 1996, see section 141(f) of Pub. L. 104–164, set out as a note under section 2753 of this title.
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Secretary of Defense by section 1(q) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under subsec. (a) of this section delegated to Secretary of Defense by section 1(r) ofEx. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
 #### Section Referred to in Other Sections
 

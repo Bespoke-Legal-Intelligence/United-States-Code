@@ -2,7 +2,7 @@
 
 Except as provided in section 402(a) and (b) of title 37, aviation cadets or their beneficiaries are entitled to the same allowances, pensions, gratuities, and other benefits as are provided for enlisted members in pay grade E–4. While on active duty, an aviation cadet is entitled to uniforms, clothing, and equipment at the expense of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 426; Sept. 2, 1958, Pub. L. 85–861, §1(147)(A), 72 Stat. 1513; Sept. 7, 1962, Pub. L. 87–649, §6(f)(6), 76 Stat. 494.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 426; Pub. L. 85–861, §1(147)(A), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 87–649, §6(f)(6), Sept. 7, 1962, 76 Stat. 494.)
 
 Historical and Revision Notes<br>1956
 

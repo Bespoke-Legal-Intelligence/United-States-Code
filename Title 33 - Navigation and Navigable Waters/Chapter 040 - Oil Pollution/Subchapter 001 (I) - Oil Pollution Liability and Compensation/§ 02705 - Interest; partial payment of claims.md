@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The responsible party or the responsible party's guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b) of this section. The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.
+The responsible party or the responsible party's guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b) of this section. The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing lessthan the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.
 
 #### (b) Period
 
@@ -20,7 +20,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (4) Calculation of interest
 
-&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper ofmaturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
 
 #### (5) Interest not subject to liability limits
 

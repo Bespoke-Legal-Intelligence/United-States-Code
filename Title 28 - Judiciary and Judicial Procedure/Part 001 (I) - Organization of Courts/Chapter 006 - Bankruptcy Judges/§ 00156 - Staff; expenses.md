@@ -16,9 +16,9 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
+1988—Subsec. (a). Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–554, §103, added subsec. (d).
+1986—Subsec. (d). Pub. L. 99–554, §103, added subsec. (d).
 
 Subsecs. (e), (f). Pub. L. 99–554, §§142, 144(a), added subsecs. (e) and (f).
 

@@ -6,7 +6,7 @@ A participant must complete, within the last two years before any separation fro
 
 #### (b) Refund of contributions for time not allowed for credit
 
-If a participant (other than a participant separated from the service because of death or disability) fails to meet the service and pay status requirement of subsection (a) of this section, any amounts deducted from the participant's pay during the period for which no eligibility is established based on the separation shall be returned to the participant on the separation.
+If a participant (other than a participant separated from the service because of death or disability) fails to meet the service and pay status requirement of subsection (a) of this section, any amounts deducted from the participant's pay during the period for which no eligibility isestablished based on the separation shall be returned to the participant on the separation.
 
 #### (c) Exception
 

@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added p
 
 1987—Subsec. (b). Pub. L. 100–224 substituted “Over 14” for “Over 13” in table relating to warrant officers.
 
-Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out “of this section” after “subsection (a)” in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and for persons in pay grades E–5 through E–9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and in table pertaining to officers for pay grade O–4 substituted “220” for “215” in the column for “Over 8”.
+Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out “of this section” after “subsection (a)” in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and forpersons in pay grades E–5 through E–9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and in table pertaining to officers for pay grade O–4 substituted “220” for “215” in the column for “Over 8”.
 
 Subsec. (c). Pub. L. 100–180, §621(b), inserted “(other than an enlisted member in a pay grade above E–4 with more than five years of sea duty)” after first reference to “sea duty”.
 
@@ -178,7 +178,7 @@ Save Pay.—A member of the uniformed services who at any time during the three-
 
 “(e)
 
-Effective Date.—(1) Except as provided under paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of theenactment of this Act \[Dec. 4, 1987\] and shall apply with respect to duty performed on or after that date.
+Effective Date.—(1) Except as provided under paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to duty performed on or after that date.
 
 “(2) The new rates of career sea pay that are applicable to enlisted members in pay grades above pay grade E-4 who have five or more years of sea duty and the amendment made by subsection (b) \[amending this section\] shall take effect on the first day of the fourth month beginning after the effective date specified under paragraph (1). In the case of such members, the old rates of career sea pay shall remain in effect until the new rates take effect under the preceding sentence.
 
@@ -202,7 +202,7 @@ Section 623(c) of Pub. L. 98–525 provided that: “The amendments made by this
 
 #### Effective Date of 1980 Amendments
 
-Section 4(b) of Pub. L. 96–579 provided: “The amendment made by this section \[amending this section\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
+Section 4(b) of Pub. L. 96–579 provided: “The amendment made by this section \[amending this section\]shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after the month in which this section is enacted \[December 1980\].”
 
 Section 3(c) of Pub. L. 96–343 provided that: “The amendments made by this section \[amending this section and repealing section 804(a)(2) of Pub. L. 95–485, formerly set out as a note below\] shall be effective with respect to special pay payable under section 305a of title 37, United States Code, for months after August 1980.”
 
@@ -220,5 +220,5 @@ Section 804(a)(3) of Pub. L. 95–485 provided that: “In determining the amoun
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 305, 907 of this title.
+This section is referred to in section 907 of this title.
 

@@ -1,6 +1,0 @@
-### §50. Agents for service of process
-
-As a condition precedent to the exercise of any power or privilege herein granted or conferred the American Legion shall file in the office of the secretary of state of each State the name and post-office address of an authorized agent in such State upon whom legal process or demands against the American Legion may be served.
-
-(Sept. 16, 1919, ch. 59, §91/2, 41 Stat. 285.)
-

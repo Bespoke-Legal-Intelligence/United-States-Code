@@ -30,5 +30,5 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3907 of this title.
+This section is referred to in sections 3901, 3907 of this title.
 

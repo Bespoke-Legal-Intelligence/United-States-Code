@@ -4,7 +4,3 @@ The President may exercise any power or duty conferred on him by this chapter th
 
 (Pub. L. 96–236, §3, Apr. 22, 1980, 94 Stat. 336.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3606 of this title.
-

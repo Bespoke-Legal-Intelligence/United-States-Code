@@ -19,6 +19,12 @@
 | (f) | Recovery of payments. |
 | (g) | Definitions. |
 | (h) | Authorization of appropriations. |
+| [1908\.](%C2%A7%2001908%20-%20Registry.md) | Registry. |
+| (a) | In general. |
+| (b) | Voluntary provision of information. |
+| (c) | Nondisclosure. |
+| (d) | Privacy rights. |
+| (e) | Removal of information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,3 +40,4 @@
 - [&sect; 01905 - Definitions](%C2%A7%2001905%20-%20Definitions.md)
 - [&sect; 01906 - Construction; effect on agreements](%C2%A7%2001906%20-%20Construction%3B%20effect%20on%20agreements.md)
 - [&sect; 01907 - Helen Keller National Center Federal Endowment Fund](%C2%A7%2001907%20-%20Helen%20Keller%20National%20Center%20Federal%20Endowment%20Fund.md)
+- [&sect; 01908 - Registry](%C2%A7%2001908%20-%20Registry.md)

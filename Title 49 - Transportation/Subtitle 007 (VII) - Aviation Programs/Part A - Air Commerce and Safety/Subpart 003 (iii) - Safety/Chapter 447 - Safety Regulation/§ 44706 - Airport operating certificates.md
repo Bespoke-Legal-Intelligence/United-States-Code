@@ -14,7 +14,7 @@ General.—The Administrator of the Federal Aviation Administration shall issue 
 
 (b)
 
-Terms.—An airport operating certificate issued under this section shall contain terms necessary to ensure safety in air transportation. Unless the Administrator decides that it is notin the public interest, the terms shall include conditions related to—
+Terms.—An airport operating certificate issued under this section shall contain terms necessary to ensure safety in air transportation. Unless the Administrator decides that it is not in the public interest, the terms shall include conditions related to—
 
 &emsp;(1) operating and maintaining adequate safety equipment, including firefighting and rescue equipment capable of rapid access to any part of the airport used for landing, takeoff, or surface maneuvering of an aircraft; and
 

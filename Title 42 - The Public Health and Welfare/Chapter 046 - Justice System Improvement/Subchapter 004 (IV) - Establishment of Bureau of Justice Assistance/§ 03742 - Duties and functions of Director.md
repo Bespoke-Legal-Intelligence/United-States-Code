@@ -8,7 +8,7 @@ The Director shall have the following duties:
 
 &emsp;(3) Cooperating with and providing technical assistance to States, units of local government, and other public and private organizations or international agencies involved in criminal justice activities.
 
-&emsp;(4) Providing for the development of technical assistance and training programs forState and local criminal justice agencies and fostering local participation in such activities.
+&emsp;(4) Providing for the development of technical assistance and training programs for State and local criminal justice agencies and fostering local participation in such activities.
 
 &emsp;(5) Encouraging the targeting of State and local resources on efforts to reduce the incidence of drug abuse and crime and on programs relating to the apprehension and prosecution of drug offenders.
 

@@ -4,7 +4,7 @@
 
 #### (1) Purpose of grants
 
-&emsp;The Secretary shall make grants to States and the outlying areas, and provide funds to the Secretary of the Interior, to assist them to provide special education and related servicesto children with disabilities in accordance with this subchapter.
+&emsp;The Secretary shall make grants to States and the outlying areas, and provide funds to the Secretary of the Interior, to assist them to provide special education and related services to children with disabilities in accordance with this subchapter.
 
 #### (2) Maximum amounts
 
@@ -86,7 +86,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 #### (2) Interim formula
 
-&emsp;Except as provided in subsection (e) of this section, the Secretary shall allocate the amount described in paragraph (1) among the States in accordance with section 611(a)(3), (4), and (5) and (b)(1), (2), and (3) of this Act, as in effect prior to June 4, 1997, except that the determination of the number of children withdisabilities receiving special education and related services under such section 611(a)(3) may, at the State's discretion, be calculated as of the last Friday in October or as of December 1 of the fiscal year for which the funds are appropriated.
+&emsp;Except as provided in subsection (e) of this section, the Secretary shall allocate the amount described in paragraph (1) among the States in accordance with section 611(a)(3), (4), and (5) and (b)(1), (2), and (3) of this Act, as in effect prior to June 4, 1997, except that the determination of the number of children with disabilities receiving special education and related services under such section 611(a)(3) may, at the State's discretion, be calculated as of the last Friday in October or as of December 1 of the fiscal year for which the funds are appropriated.
 
 #### (e) Permanent formula
 
@@ -224,7 +224,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 &emsp;&emsp;(iv) Establishing, expanding, or implementing interagency agreements and arrangements between local educational agencies and other agencies or organizations concerning the provision of services to children with disabilities and their families.
 
-&emsp;&emsp;(v) Increasing cooperative problem-solving between parents and school personnel andpromoting the use of alternative dispute resolution.
+&emsp;&emsp;(v) Increasing cooperative problem-solving between parents and school personnel and promoting the use of alternative dispute resolution.
 
 #### (B) Maximum subgrant
 
@@ -288,7 +288,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 #### (4) Reallocation of funds
 
-&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in the area served by that agency with State and local funds, the State educational agency mayreallocate any portion of the funds under this subchapter that are not needed by that local agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas they serve.
+&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in the area served by that agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas they serve.
 
 #### (h) Definitions
 
@@ -316,7 +316,7 @@ For the purpose of this section—
 
 #### (B) Calculation of number of children
 
-&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (hereafter in this subsection referred to as “BIA”) schools and that are required by the States in which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for these children, in accordance with paragraph (2).
+&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (hereafter in this subsection referred to as “BIA”) schools and that are required by the States in which such schools are located to attain or maintain State accreditation, andwhich schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for these children, in accordance with paragraph (2).
 
 #### (C) Additional requirement
 
@@ -360,7 +360,7 @@ For the purpose of this section—
 
 #### (E) Biennial report
 
-&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, includingthe number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (F) Prohibitions
 
@@ -422,5 +422,5 @@ Section effective beginning with funds appropriated for fiscal year 1998, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1412, 1413, 1416, 1419, 1443, 1453, 1474, 1484 of this title.
+This section is referred to in sections 1412, 1413, 1416, 1419, 1443, 1453, 1474 of this title.
 

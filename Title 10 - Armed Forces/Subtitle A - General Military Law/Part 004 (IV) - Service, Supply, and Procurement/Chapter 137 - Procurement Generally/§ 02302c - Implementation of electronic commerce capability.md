@@ -12,7 +12,7 @@ Implementation of Electronic Commerce Capability.—(1) The head of each agency 
 
 Designation of Agency Official.—The head of each agency named in paragraph (5) or (6) of section 2303 <sup>1</sup> of this title shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the agency under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).
 
-(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat.1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551.)
+(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551.)
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Section 1(a)(2) of Pub. L. 105–129 provided that: “The amendment made by par
 
 Section 850(g) of Pub. L. 105–85 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section, section 2304 of this title, section 637 of Title 15, Commerce and Trade, section 1501 of Title 40, Public Buildings, Property, and Works, and sections 252c, 253, 416, 426, and 427 of Title 41, Public Contracts, repealing section 426a of Title 41, amending provisions set out as a note under section 413 of Title 41, and repealing provisions set out as a note under section 426a of Title 41\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section,section 2304 of this title, section 637 of Title 15, Commerce and Trade, section 1501 of Title 40, Public Buildings, Property, and Works, and sections 252c, 253, 416, 426, and 427 of Title 41, Public Contracts, repealing section 426a of Title 41, amending provisions set out as a note under section 413 of Title 41, and repealing provisions set out as a note under section 426a of Title 41\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
 
 “(2) The repeal made by subsection (c) of this section \[repealing provisions set out as a note under section 426a of Title 41\] shall take effect on the date of the enactment of this Act.”
 

@@ -34,7 +34,7 @@
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended,known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
 
@@ -52,7 +52,7 @@ Section 701 of Pub. L. 94–579 provided that:
 
 “(a) Nothing in this Act, or in any amendment made by this Act \[see Short Title note above\], shall be construed as terminating any valid lease, permit, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act \[Oct. 21, 1976\].
 
-“(b) Notwithstanding any provision of this Act, in the event of conflict with or inconsistency between thisAct and the Acts of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j) and May 24, 1939 (53 Stat. 753), insofar as they relate to management of timber resources, and disposition of revenues from lands and resources, the latter Acts shall prevail.
+“(b) Notwithstanding any provision of this Act, in the event of conflict with or inconsistency between this Act and the Acts of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j) and May 24, 1939 (53 Stat. 753), insofar as they relate to management of timber resources, and disposition of revenues from lands and resources, the latter Acts shall prevail.
 
 “(c) All withdrawals, reservations, classifications, and designations in effect as of the date of approval of this Act shall remain in full force and effect until modified under the provisions of this Act or other applicable law.
 

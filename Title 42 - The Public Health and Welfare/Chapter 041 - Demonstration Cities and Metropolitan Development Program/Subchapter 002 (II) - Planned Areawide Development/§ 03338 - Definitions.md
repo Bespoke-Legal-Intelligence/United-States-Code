@@ -4,7 +4,7 @@ As used in this subchapter—
 
 (1) “Areawide development” means all projects or programs for the acquisition, use, and development of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
 
-(2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8(e)\]; or under section 101(a)(1) of the Public Works and Economic Development Act of 1965 \[42 U.S.C. 3131(a)(1)\] (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
+(2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8(e)\]; or under section 101(a)(1) <sup>1</sup> of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
 
 (3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or an agency or instrumentality of any of the foregoing.
 
@@ -36,11 +36,13 @@ Section 19 of the Airport and Airway Development Act of 1970, referred to in par
 
 The Housing Act of 1961, referred to in par. (2), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 which was classified generally to chapter 8C (§1500 et seq.) of this title, was omitted pursuant to section 5316 of this title which terminated the authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
+Section 101(a)(1) of the Public Works and Economic Development Act of 1965, referred to in par. (2), is section 101(a)(1) of Pub. L. 89–136, title I, Aug. 26, 1965, 79 Stat. 552, as amended, which was classified to section 3131 of this title prior to repeal by Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
+
 Section 701 of the Housing Act of 1954 \[40 U.S.C. 461\], referred to in par. (7), was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
 #### Codification
 
-In par. (2), “section 5309 of title 49” substituted for “section 3 of the Federal Transit Act \[49 App. U.S.C. 1602\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In par. (2), “section 5309 of title 49” substituted for “section 3 of the Federal Transit Act \[49 App. U.S.C.1602\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ By virtue of the approval and ratification of any transfer of land or natural re
 
 (1) All claims and all right, title, and interest that the Tribe, its Members, or any person or group of persons purporting to be Catawba Indians may have to aboriginal title, recognized title, or title by grant, patent, or treaty to the lands located anywhere in the United States are hereby extinguished.
 
-(2) This extinguishment of claims shall also extinguish title to any hunting, fishing, orwater rights or rights to any other natural resource claimed by the Tribe or a Member based on aboriginal or treaty recognized title, and all trespass damages and other damages associated with use, occupancy or possession, or entry upon such lands.
+(2) This extinguishment of claims shall also extinguish title to any hunting, fishing, or water rights or rights to any other natural resource claimed by the Tribe or a Member based on aboriginal or treaty recognized title, and all trespass damages and other damages associated with use, occupancy or possession, or entry upon such lands.
 
 #### (e) Bar to future claims
 

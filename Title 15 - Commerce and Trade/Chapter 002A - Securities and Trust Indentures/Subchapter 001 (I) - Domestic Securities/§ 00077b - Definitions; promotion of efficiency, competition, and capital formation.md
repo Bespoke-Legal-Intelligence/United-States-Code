@@ -34,7 +34,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(15) The term “accredited investor” shall mean—
 
-&emsp;&emsp;(i) a bank as defined in section 77c(a)(2) of this title whether acting in its individual or fiduciary capacity; an insurance company as defined in paragraph (13); an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or a business development company as defined in section 2(a)(48) of that Act \[15 U.S.C. 80a–2(a)(48)\]; a Small Business Investment Company licensed by the Small Business Administration; or an employee benefit plan, including an individual retirement account, which is subject to the provisions of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], if the investment decision is made by a plan fiduciary, as defined in section 3(21) of such Act \[29 U.S.C. 1002(21)\], which is either a bank, insurance company, or registered investment adviser; or
+&emsp;&emsp;(i) a bank as defined in section 77c(a)(2) of this title whether acting in its individual or fiduciary capacity; an insurance company as defined in paragraph (13) of this subsection; an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or a business development company as defined in section 2(a)(48) of that Act \[15 U.S.C. 80a–2(a)(48)\]; a Small Business Investment Company licensed by the Small Business Administration; or an employee benefit plan, including an individual retirement account, which is subject to the provisions of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], if the investment decision is made by a plan fiduciary, as defined in section 3(21) of such Act \[29 U.S.C. 1002(21)\], which is either a bank, insurance company, or registered investment adviser; or
 
 &emsp;&emsp;(ii) any person who, on the basis of such factors as financial sophistication, net worth, knowledge, and experience in financial matters, or amount of assets under management qualifies as an accredited investor under rules and regulations which the Commission shall prescribe.
 
@@ -42,7 +42,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, inaddition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(May 27, 1933, ch. 38, title I, §2, 48 Stat. 74; June 6, 1934, ch. 404, title II, §201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§1–4, 68 Stat. 683, 684; June 25, 1959, Pub. L. 86–70, §12(a), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §7(a), 74 Stat. 412; Dec. 14, 1970, Pub. L. 91–547, §27(a), 84 Stat. 1433; Oct. 21, 1980, Pub. L. 96–477, title VI, §603, 94 Stat. 2294; Oct. 13, 1982, Pub. L. 97–303, §1, 96 Stat. 1409; Dec. 4, 1987, Pub. L. 100–181, title II, §§201, 202, 101 Stat. 1252; Oct. 11, 1996, Pub. L. 104–290, title I, §106(a), 110 Stat. 3424.)
+(May 27, 1933, ch. 38, title I, §2, 48 Stat. 74; June 6, 1934, ch. 404, title II, §201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§1–4, 68 Stat. 683, 684; Pub. L. 86–70, §12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, §603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, §1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, §106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, §301(a)(1), Nov. 3, 1998, 112 Stat. 3235.)
 
 #### References in Text
 
@@ -55,6 +55,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 Words “Philippine Islands” deleted from definition of term “Territory” under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
+
+1998—Subsec. (a)(15)(i). Pub. L. 105–353 made technical amendment to reference in original act which appears in text as reference to section 77c(a)(2) of this title and inserted “of this subsection” after “paragraph (13)”.
 
 1996—Pub. L. 104–290 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

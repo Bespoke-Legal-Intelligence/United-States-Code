@@ -76,7 +76,7 @@ Upon application to the Secretary, an American Indian consortium,<sup>3</sup> as
 
 #### (1) In general
 
-&emsp;To assist States in meeting the requirements of subsection (a) of this section, the Secretary shall allot to the States the amounts appropriated under section 6043 ofthis title. Allotments and reallotments of such sums shall be made on the same basis as the allotments and reallotments are made under the first sentence of subsection (a)(1) and subsection (d) <sup>4</sup> of section 6025 of this title, except that in any case in which—
+&emsp;To assist States in meeting the requirements of subsection (a) of this section, the Secretary shall allot to the States the amounts appropriated under section 6043 of this title. Allotments and reallotments of such sums shall be made on the same basis as the allotments and reallotments are made under the first sentence of subsection (a)(1) and subsection (d) <sup>4</sup> of section 6025 of this title, except that in any case in which—
 
 &emsp;&emsp;(A) the total amount appropriated under section 6043 of this title for a fiscal year is at least $20,000,000—
 
@@ -138,7 +138,7 @@ Any amount paid to a State for a fiscal year and remaining unobligated at the en
 
 #### (e) Governing board
 
-In States in which the system is organized as a private nonprofit entity with a multimembergoverning board, or a public system with a multimember governing board, such governing board shall be selected according to the policies and procedures of the system, except that—
+In States in which the system is organized as a private nonprofit entity with a multimember governing board, or a public system with a multimember governing board, such governing board shall be selected according to the policies and procedures of the system, except that—
 
 &emsp;(1) the governing board shall be composed of members who broadly represent or are knowledgeable about the needs of the individuals served by the system and include individuals with developmental disabilities who are eligible for services, or have received or are receiving services, or parents, family members, guardians, advocates, or authorized representatives of such individuals;
 
@@ -368,7 +368,7 @@ Amendment by Pub. L. 100–146 effective Oct. 1, 1987, see section 601 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1396u, 6001, 6041, 6043, 6083 of this title.
+This section is referred to in sections 1396u, 6001, 6041, 6043, 6083 of this title; title 29 section 794e.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

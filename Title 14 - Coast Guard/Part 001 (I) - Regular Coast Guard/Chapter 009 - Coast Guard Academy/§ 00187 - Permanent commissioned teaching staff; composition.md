@@ -2,7 +2,7 @@
 
 The permanent commissioned teaching staff at the Academy shall consist of professors, associate professors, assistant professors and instructors, in such numbers as the needs of the Service require. They shall perform duties as prescribed by the Commandant, and exercise command only in the academic department of the Academy.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 509; May 14, 1960, Pub. L. 86–474, §1(10), 74 Stat. 145.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 509; Pub. L. 86–474, §1(10), May 14, 1960, 74 Stat. 145.)
 
 #### Historical and Revision Notes
 

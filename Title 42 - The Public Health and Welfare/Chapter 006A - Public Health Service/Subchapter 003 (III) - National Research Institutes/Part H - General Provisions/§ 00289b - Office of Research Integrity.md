@@ -8,7 +8,7 @@
 
 #### (2) Appointment of Director
 
-&emsp;The Office shall be headed by a Director, who shall be appointed by the Secretary, be experienced and specially trained in the conduct of research, and have experience in the conduct of investigations of research misconduct. The Secretary shall carry out this section acting through the Director of the Office. The Director shall report to the Secretary.
+&emsp;The Office shall be headed by a Director, who shall be appointed by the Secretary, beexperienced and specially trained in the conduct of research, and have experience in the conduct of investigations of research misconduct. The Secretary shall carry out this section acting through the Director of the Office. The Director shall report to the Secretary.
 
 #### (3) Definitions
 
@@ -60,11 +60,11 @@ The Secretary shall by regulation establish procedures for the Director to monit
 
 &emsp;The Secretary shall by regulation establish remedies for noncompliance by an entity, its officials or agents, which has engaged in retaliation in violation of the standards established under paragraph (1). Such remedies may include termination of funding provided by the Secretary for such project or recovery of funding being provided by the Secretary for such project, or other actions as appropriate.
 
-(July 1, 1944, ch. 373, title IV, §493, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 874; amended June 10, 1993, Pub. L. 103–43, title I, §§161, 163, 107 Stat. 140, 142.)
+(July 1, 1944, ch. 373, title IV, §493, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amended Pub. L. 103–43, title I, §§161, 163, June 10, 1993, 107 Stat. 140, 142.)
 
 #### Codification
 
-June 10, 1993, referred to in subsec. (a)(1), was in the original “the date of enactment of this section” whichwas translated as meaning the date of enactment of Pub. L. 103–43, which amended this section generally, to reflect the probable intent of Congress.
+June 10, 1993, referred to in subsec. (a)(1), was in the original “the date of enactment of this section” which was translated as meaning the date of enactment of Pub. L. 103–43, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

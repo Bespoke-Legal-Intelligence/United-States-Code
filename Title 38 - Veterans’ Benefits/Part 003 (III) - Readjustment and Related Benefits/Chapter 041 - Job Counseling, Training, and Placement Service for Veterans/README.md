@@ -17,6 +17,7 @@
 | [4109\.](%C2%A7%2004109%20-%20National%20Veterans%E2%80%99%20Employment%20and%20Training%20Services%20Institute.md) | National Veterans’ Employment and Training Services Institute. |
 | [4110\.](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md) | Advisory Committee on Veterans Employment and Training. |
 | [4110A.](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md) | Special unemployment study. |
+| [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,7 +35,7 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 1976—Pub. L. 94–502, title VI, §601(b)(2), Oct. 15, 1976, 90 Stat. 2404, added item 2002A.
 
-1972—Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094, in chapter heading substituted “, TRAININGAND” for “AND EMPLOYMENT”, redesignated former items 2001 to 2005 as items 2002 to 2006, and added items 2001, 2007, and 2008, and in redesignated item 2006 “authorization of appropriations”.
+1972—Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094, in chapter heading substituted “, TRAINING AND” for “AND EMPLOYMENT”, redesignated former items 2001 to 2005 as items 2002 to 2006, and added items 2001, 2007, and 2008, and in redesignated item 2006 “authorization of appropriations”.
 
 1966—Pub. L. 89–358, §6(a), Mar. 3, 1966, 80 Stat. 27, substituted “JOB COUNSELING AND EMPLOYMENT PLACEMENT SERVICE FOR VETERANS” for “UNEMPLOYMENT BENEFITS FOR VETERANS” in chapter heading.
 
@@ -42,13 +43,13 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 #### Cross References
 
-Employment programs for veterans under Job Training Partnership Act, see section 1721 of Title 29, Labor.
+Workforce investment programs for veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 42 section 1101.
+This chapter is referred to in title 20 section 9271; title 29 sections 2822, 2841; title 42 section 1101.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> Editorially supplied. Section 4110B added by Pub. L. 105–220 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -70,3 +71,4 @@ This chapter is referred to in title 42 section 1101.
 - [&sect; 04109 - National Veterans&#8217; Employment and Training Services Institute](%C2%A7%2004109%20-%20National%20Veterans%E2%80%99%20Employment%20and%20Training%20Services%20Institute.md)
 - [&sect; 04110 - Advisory Committee on Veterans Employment and Training](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md)
 - [&sect; 04110A - Special unemployment study](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md)
+- [&sect; 04110B - Coordination and nonduplication](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md)

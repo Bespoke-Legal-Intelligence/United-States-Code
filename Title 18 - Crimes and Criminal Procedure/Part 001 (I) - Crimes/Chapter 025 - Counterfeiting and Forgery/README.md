@@ -90,7 +90,7 @@ Federal Housing Administration, counterfeiting or forging instruments for purpos
 
 Forfeiture of counterfeit paraphernalia, see section 492 of this title.
 
-Indian Arts and Crafts Board trade-mark, counterfeiting, see section 1158 of this title.
+Indian Arts and Crafts Board trademark, counterfeiting, see section 1158 of this title.
 
 Mail fraud involving counterfeit articles, see section 1341 of this title.
 

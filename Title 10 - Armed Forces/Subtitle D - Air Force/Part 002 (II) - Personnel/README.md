@@ -1,11 +1,6 @@
 ## PART II—PERSONNEL
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>831.</b>](Chapter%20831%20-%20Strength/README.md) | <b>Strength</b> | <b>8201</b> |
 | [<b>833.</b>](Chapter%20833%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>8251</b> |

@@ -14,5 +14,5 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4009, 4048, 4071d of this title.
+This section is referred to in sections 4009, 4046, 4048, 4071d of this title.
 

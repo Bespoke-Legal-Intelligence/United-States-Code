@@ -43,7 +43,7 @@
 
 | &nbsp;&nbsp;Position | Rate |
 | --- | --- |
-| &nbsp;Assistant Under Secretary for Health (or   in a comparable position as determined   by the Secretary).D$10,000 |  |
+| &nbsp;Assistant Under Secretary for Health (or   in a comparable position as determined   by the Secretary). D$10,000 |  |
 | &nbsp;Deputy Assistant Under Secretary for   Health | 10,000 |
 
 &emsp;(C) For service by a dentist who serves only a portion of a year in an executive position listed in subparagraph (A) or (B) or who serves a portion of a year in such a position and also serves a portion of that year in another position or grade for which special pay is provided under this section, the annual rate shall be calculated on the basis of the proportion of time served in the position or positions for which special pay is provided.

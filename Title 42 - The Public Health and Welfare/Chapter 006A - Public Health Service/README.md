@@ -311,6 +311,10 @@ Active service deemed active military service with respect to laws administered 
 
 Active service deemed active military service with respect to Soldiers’ and Sailors’ Civil Relief Act of 1940.
 
+(f)
+
+Active service deemed active military service with respect to anti-discrimination laws.
+
 |  |  |
 | :--- | ---: |
 | [213a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000213a%20-%20Rights%2C%20benefits%2C%20privileges%2C%20and%20immunities%20for%20commissioned%20officers%20or%20beneficiaries%3B%20exercise%20of%20authority%20by%20Secretary%20or%20designee.md) | Rights, benefits, privileges, and immunities for commissioned officers or beneficiaries; exercise of authority by Secretary or designee. |
@@ -398,7 +402,24 @@ Applicability of section 14(a) of Federal Advisory Committee Act.
 
 |  |  |
 | :--- | ---: |
-| [218a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000218a%20-%20Training%20of%20officers%3B%20availability%20of%20appropriations%20for%20pay%20and%20allowances%2C%20tuition%2C%20fees%2C%20and%20expenses%3B%20payment%20by%20officer%20upon%E2%80%A6.md) | Training of officers; availability of appropriations for pay and allowances, tuition, fees, and expenses; payment by officer upon voluntary separation. |
+| [218a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000218a%20-%20Training%20of%20officers.md) | Training of officers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Voluntary separation within period subsequent to attendance.
+
+(c)
+
+Training in leave without pay status.
+
+|  |  |
+| :--- | ---: |
 | 219 to 230. | Transferred, Repealed, or Omitted. |
 | [231\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000231%20-%20Service%20and%20supply%20fund%3B%20uses%3B%20reimbursement.md) | Service and supply fund; uses; reimbursement. |
 | [232\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000232%20-%20National%20Institute%20of%20Mental%20Health%3B%20authorization%20of%20appropriation%3B%20construction%3B%20location.md) | National Institute of Mental Health; authorization of appropriation; construction; location. |
@@ -1075,23 +1096,31 @@ Technology assessment and epidemiology.
 
 |  |  |
 | :--- | ---: |
-| 247b–4. | Collection of data on birth defects. |
+| 247b–4. | Programs regarding birth defects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-State programs.
+In general.
 
 (b)
 
-National Clearinghouse.
+Additional provisions regarding collection of data.
 
 (c)
 
-Report.
+Grants and contracts.
 
 (d)
+
+Biennial report.
+
+(e)
+
+Applicability of privacy laws.
+
+(f)
 
 Authorization of appropriations.
 
@@ -1201,6 +1230,10 @@ Applicability of certain provisions.
 
 Authorization of appropriations.
 
+(d)
+
+Availability of appropriations.
+
 |  |  |
 | :--- | ---: |
 | 247b–8. | Fellowship and training programs. |
@@ -1228,7 +1261,7 @@ Grants for innovative, interdisciplinary approaches.
 
 Authorization of appropriations; terms and conditions; payments; recordkeeping; audit; grant reduction; information disclosure.
 
-(e)
+(f)
 
 Consent of individuals.
 
@@ -3013,52 +3046,65 @@ Functions.
 
 (c)
 
-Criteria, standards, and procedures.
+Recruitment; priorities; information and education.
 
 (d)
 
-Comment procedures.
+Patient advocacy; case management.
 
 (e)
 
-Consultation.
+Criteria, standards, and procedures.
 
 (f)
 
-Application.
+Comment procedures.
 
 (g)
 
-Eligibility.
+Consultation.
 
 (h)
 
-Records.
+Application.
 
 (i)
 
-Penalties for disclosure.
+Eligibility.
 
 (j)
 
-Authorization of appropriations.
+Records.
+
+(k)
+
+Penalties for disclosure.
+
+(<i>l</i>)
+
+Annual report regarding pretransplant costs.
 
 |  |  |
 | :--- | ---: |
-| 274<i>l.</i> | Study by General Accounting Office. |
+| 274<i>l</i>. | Bone marrow scientific registry. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Establishment of recipient registry.
 
 (b)
 
-Report.
+Information.
+
+(c)
+
+Annual report on patient outcomes.
 
 |  |  |
 | :--- | ---: |
+| [274m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20National%20Bone%20Marrow%20Donor%20Registry/%C2%A7%2000274m%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 275 to 280a–1. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3202,19 +3248,15 @@ Relationship to items and services under other programs.
 
 |  |  |
 | :--- | ---: |
-| 280c–4. | Limitation on duration of grant and requirement of matching funds. |
+| 280c–4. | Requirement of matching funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Limitation on duration of grant.
-
-(b)
-
 Requirement of matching funds.
 
-(c)
+(b)
 
 Determination of amount of non-Federal contribution.
 
@@ -3527,6 +3569,51 @@ Registries.
 
 Breast cancer study.
 
+#### Part O—Fetal Alcohol Syndrome Prevention and Services Program
+
+|  |  |
+| :--- | ---: |
+| [280f.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20O%20-%20Fetal%20Alcohol%20Syndrome%20Prevention%20and%20Services%20Program/%C2%A7%2000280f%20-%20Establishment%20of%20Fetal%20Alcohol%20Syndrome%20prevention%20and%20services%20program.md) | Establishment of Fetal Alcohol Syndrome prevention and services program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Fetal Alcohol Syndrome prevention, intervention, and services delivery program.
+
+(b)
+
+Grants and technical assistance.
+
+(c)
+
+Dissemination of criteria.
+
+(d)
+
+National Task Force.
+
+|  |  |
+| :--- | ---: |
+| 280f–1. | Eligibility. |
+| 280f–2. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Task Force.
+
+|  |  |
+| :--- | ---: |
+| 280f–3. | Sunset provision. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III—NATIONAL RESEARCH INSTITUTES
 
 #### Part A—National Institutes of Health
@@ -3581,7 +3668,7 @@ Dissemination of research information.
 
 (f)
 
-Associate Director for Prevention; functions; report to Director.
+Associate Director for Prevention; functions.
 
 (g)
 
@@ -3696,25 +3783,9 @@ Interagency Coordinating Committee on the Use of Animals in Research.
 |  |  |
 | :--- | ---: |
 | [283f.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283f%20-%20Requirements%20regarding%20surveys%20of%20sexual%20behavior.md) | Requirements regarding surveys of sexual behavior. |
-| [283g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283g%20-%20Office%20of%20Alternative%20Medicine.md) | Office of Alternative Medicine. |
+| [283g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283g%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28f%29%20%5Btitle%20VI%2C%20%C2%A7601%281%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93337%2C%202681%E2%80%93387.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment.
-
-(b)
-
-Purpose.
-
-(c)
-
-Advisory council.
-
-(d)
-
-Duties.
 
 #### Part B—General Provisions Respecting National Research Institutes
 
@@ -3973,6 +4044,28 @@ Collection and dissemination of information.
 
 |  |  |
 | :--- | ---: |
+| 285b–7a. | Heart attack, stroke, and other cardiovascular diseases in women. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Coordination with other institutes.
+
+(c)
+
+Certain programs.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
 | 285b–8. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4061,10 +4154,6 @@ Subcommittees; establishment and membership.
 
 (j)
 
-Annual report.
-
-(k)
-
 Termination of predecessor boards; time within which to appoint members.
 
 |  |  |
@@ -4149,10 +4238,6 @@ Establishment and purpose.
 (b)
 
 Membership; chairman; meetings.
-
-(c)
-
-Annual report.
 
 |  |  |
 | :--- | ---: |
@@ -5284,6 +5369,54 @@ Duties.
 
 Authorization of appropriations.
 
+#### subpart 5—national center for complementary and alternative medicine
+
+|  |  |
+| :--- | ---: |
+| 287c–21. | Purpose of Center. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Advisory council.
+
+(c)
+
+Complement to conventional medicine.
+
+(d)
+
+Appropriate scientific expertise and coordination with institutes and Federal agencies.
+
+(e)
+
+Evaluation of various disciplines and systems.
+
+(f)
+
+Ensuring high quality, rigorous scientific review.
+
+(g)
+
+Data system; information clearinghouse.
+
+(h)
+
+Research centers.
+
+(i)
+
+Availability of resources.
+
+(j)
+
+Availability of appropriations.
+
 #### Part F—Research on Women's Health
 
 |  |  |
@@ -5614,19 +5747,6 @@ Definitions.
 | :--- | ---: |
 | [289c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000289c%20-%20Research%20on%20public%20health%20emergencies%3B%20report%20to%20Congressional%20committees.md) | Research on public health emergencies; report to Congressional committees. |
 | 289c–1. | Collaborative use of certain health services research funds. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Report.
-
-|  |  |
-| :--- | ---: |
 | [289d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20H%20-%20General%20Provisions/%C2%A7%2000289d%20-%20Animals%20in%20research.md) | Animals in research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -5739,11 +5859,11 @@ Research on burns, burn injuries, and rehabilitation.
 
 Authorization of appropriations.
 
-#### Part I—National Foundation for Biomedical Research
+#### Part I—Foundation for the National Institutes of Health
 
 |  |  |
 | :--- | ---: |
-| [290b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20I%20-%20National%20Foundation%20for%20Biomedical%20Research/%C2%A7%2000290b%20-%20Establishment%20and%20duties%20of%20Foundation.md) | Establishment and duties of Foundation. |
+| [290b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20I%20-%20Foundation%20for%20the%20National%20Institutes%20of%20Health/%C2%A7%2000290b%20-%20Establishment%20and%20duties%20of%20Foundation.md) | Establishment and duties of Foundation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7311,11 +7431,11 @@ Assignment of insurance rights.
 
 (d)
 
-Effect of consolidation of obligations.
+Effect of refinancing or consolidation of obligations.
 
 (e)
 
-Rule of construction regarding consolidation of debts.
+Rule of construction regarding consolidation of debts and refinancing.
 
 |  |  |
 | :--- | ---: |
@@ -7511,7 +7631,7 @@ Terms and conditions.
 
 (c)
 
-Repayment; exclusions from ten-year period.
+Repayment; exclusions from repayment period.
 
 (d)
 
@@ -7549,6 +7669,10 @@ Authority regarding repayments by Secretary.
 
 Collection efforts by Secretary.
 
+(m)
+
+Elimination of statute of limitation for loan collections.
+
 |  |  |
 | :--- | ---: |
 | [292s.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20A%20-%20Student%20Loans/Subpart%20002%20%28ii%29%20-%20Federally-Supported%20Student%20Loan%20Funds/%C2%A7%2000292s%20-%20Medical%20schools%20and%20primary%20health%20care.md) | Medical schools and primary health care. |
@@ -7564,10 +7688,6 @@ Requirements for students.
 Requirements for schools.
 
 (c)
-
-Reports by Secretary.
-
-(d)
 
 Definitions.
 
@@ -7661,85 +7781,11 @@ Disposition of funds returned to Secretary.
 
 Funding for certain medical schools.
 
-#### Part B—Students From Disadvantaged Backgrounds
+#### Part B—Health Professions Training for Diversity
 
 |  |  |
 | :--- | ---: |
-| [293\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Students%20from%20Disadvantaged%20Backgrounds/%C2%A7%2000293%20-%20Scholarships%20for%20students%20of%20exceptional%20financial%20need.md) | Scholarships for students of exceptional financial need. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Requirements regarding scholarships.
-
-(c)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [293a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Students%20from%20Disadvantaged%20Backgrounds/%C2%A7%2000293a%20-%20Scholarships%20generally%3B%20certain%20other%20purposes.md) | Scholarships generally; certain other purposes. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment of program.
-
-(b)
-
-Minimum qualifications of grantees.
-
-(c)
-
-Preferences in providing scholarships.
-
-(d)
-
-Use of scholarship.
-
-(e)
-
-Provisions regarding purposes other than scholarships.
-
-(f)
-
-Requirement of application.
-
-(g)
-
-“School of nursing” defined.
-
-(h)
-
-Funding.
-
-|  |  |
-| :--- | ---: |
-| [293b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Students%20from%20Disadvantaged%20Backgrounds/%C2%A7%2000293b%20-%20Loan%20repayments%20and%20fellowships%20regarding%20faculty%20positions.md) | Loan repayments and fellowships regarding faculty positions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Loan repayments.
-
-(b)
-
-Fellowships.
-
-(c)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [293c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Students%20from%20Disadvantaged%20Backgrounds/%C2%A7%2000293c%20-%20Centers%20of%20excellence.md) | Centers of excellence. |
+| [293\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Health%20Professions%20Training%20for%20Diversity/%C2%A7%2000293%20-%20Centers%20of%20excellence.md) | Centers of excellence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7757,31 +7803,27 @@ Centers of excellence.
 
 (d)
 
-Designation as Center of Excellence.
+Designation as center of excellence.
 
 (e)
 
-Authority regarding Native American Centers of Excellence.
+Authority regarding Native American centers of excellence.
 
 (f)
 
-Duration and amount of grant.
+Duration of grant.
 
 (g)
 
-Maintenance of effort.
-
-(h)
-
 Definitions.
 
-(i)
+(h)
 
 Funding.
 
 |  |  |
 | :--- | ---: |
-| [293d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Students%20from%20Disadvantaged%20Backgrounds/%C2%A7%2000293d%20-%20Educational%20assistance%20regarding%20undergraduates.md) | Educational assistance regarding undergraduates. |
+| [293a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Health%20Professions%20Training%20for%20Diversity/%C2%A7%2000293a%20-%20Scholarships%20for%20disadvantaged%20students.md) | Scholarships for disadvantaged students. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7791,7 +7833,43 @@ In general.
 
 (b)
 
-Requirements regarding enrollment; priority in making grants.
+Preference in providing scholarships.
+
+(c)
+
+Amount of award.
+
+(d)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| [293b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Health%20Professions%20Training%20for%20Diversity/%C2%A7%2000293b%20-%20Loan%20repayments%20and%20fellowships%20regarding%20faculty%20positions.md) | Loan repayments and fellowships regarding faculty positions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Loan repayments.
+
+(b)
+
+Fellowships.
+
+|  |  |
+| :--- | ---: |
+| [293c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Health%20Professions%20Training%20for%20Diversity/%C2%A7%2000293c%20-%20Educational%20assistance%20in%20the%20health%20professions%20regarding%20individuals%20from%20disadvantaged%20backgrounds.md) | Educational assistance in the health professions regarding individuals from disadvantaged backgrounds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements for awards.
 
 (c)
 
@@ -7799,55 +7877,36 @@ Equitable allocation of financial assistance.
 
 (d)
 
-Funding.
-
-#### Part C—Training in Primary Health Care
+Matching requirements.
 
 |  |  |
 | :--- | ---: |
-| [293j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Primary%20Health%20Care/%C2%A7%2000293j%20-%20Area%20health%20education%20center%20programs.md) | Area health education center programs. |
+| [293d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20B%20-%20Health%20Professions%20Training%20for%20Diversity/%C2%A7%2000293d%20-%20Authorization%20of%20appropriation.md) | Authorization of appropriation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Authority for provision of financial assistance.
+Scholarships.
 
 (b)
 
-Structure of programs.
+Loan repayments and fellowships.
 
 (c)
 
-Requirements for schools.
+Educational assistance in health professions regarding individuals from disadvantaged backgrounds.
 
 (d)
 
-Requirements for centers.
+Report.
 
-(e)
-
-Certain provisions regarding funding.
-
-(f)
-
-Health education and training centers.
-
-(g)
-
-Definitions.
-
-(h)
-
-Criteria and standards.
-
-(i)
-
-Authorization of appropriations.
+#### Part C—Training in Family Medicine, General Internal Medicine, General Pediatrics, Physician Assistants, General Dentistry, and Pediatric Dentistry
 
 |  |  |
 | :--- | ---: |
-| [293k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Primary%20Health%20Care/%C2%A7%2000293k%20-%20Family%20medicine.md) | Family medicine. |
+| [293j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/%C2%A7%2000293j%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93392%2C%20title%20I%2C%20%C2%A7102%282%29%2C%20Nov.%2013%2C%201998%2C%20112%20Stat.%203537.md) | Repealed. |
+| [293k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Family%20Medicine%2C%20General%20Internal%20Medicine%2C%20General%20Pediatrics%2C%20Physician%20Assistants%2C%20General%20Dentistry%2C%20and%20Pediatric%20Dentistry/%C2%A7%2000293k%20-%20Family%20medicine%2C%20general%20internal%20medicine%2C%20general%20pediatrics%2C%20general%20dentistry%2C%20pediatric%20dentistry%2C%20and%20physician%20assistants.md) | Family medicine, general internal medicine, general pediatrics, general dentistry, pediatric dentistry, and physician assistants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7861,69 +7920,93 @@ Academic administrative units.
 
 (c)
 
-Duration of award.
+Priority.
 
 (d)
+
+Duration of award.
+
+(e)
 
 Funding.
 
 |  |  |
 | :--- | ---: |
-| 293<i>l.</i> | General internal medicine and general pediatrics. |
+| 293<i>l</i>. | Advisory Committee on Training in Primary Care Medicine and Dentistry. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Establishment.
 
 (b)
 
-Duration of award.
+Composition.
 
 (c)
 
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [293m.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Primary%20Health%20Care/%C2%A7%2000293m%20-%20General%20practice%20of%20dentistry.md) | General practice of dentistry. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [293n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Primary%20Health%20Care/%C2%A7%2000293n%20-%20Physician%20assistants.md) | Physician assistants. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Regulations.
-
-(c)
-
-Placement of graduates.
+Terms.
 
 (d)
 
-Funding.
+Duties.
+
+(e)
+
+Meetings and documents.
+
+(f)
+
+Compensation and expenses.
+
+(g)
+
+FACA.
 
 |  |  |
 | :--- | ---: |
-| 293<i>o.</i> | Podiatric medicine. |
+| 293m to 293p. | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—Interdisciplinary, Community-Based Linkages
+
+|  |  |
+| :--- | ---: |
+| [294\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294%20-%20General%20provisions.md) | General provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Collaboration.
+
+(b)
+
+Activities.
+
+|  |  |
+| :--- | ---: |
+| [294a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294a%20-%20Area%20health%20education%20centers.md) | Area health education centers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority for provision of financial assistance.
+
+(b)
+
+Requirements for centers.
+
+(c)
+
+Certain provisions regarding funding.
+
+|  |  |
+| :--- | ---: |
+| [294b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294b%20-%20Health%20education%20and%20training%20centers.md) | Health education and training centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7933,7 +8016,131 @@ In general.
 
 (b)
 
-Preference in making grants.
+Allocation of funds.
+
+|  |  |
+| :--- | ---: |
+| [294c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294c%20-%20Education%20and%20training%20relating%20to%20geriatrics.md) | Education and training relating to geriatrics. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Geriatric education centers.
+
+(b)
+
+Geriatric training regarding physicians and dentists.
+
+(c)
+
+Geriatric faculty fellowships.
+
+|  |  |
+| :--- | ---: |
+| [294d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294d%20-%20Quentin%20N.%20Burdick%20program%20for%20rural%20interdisciplinary%20training.md) | Quentin N. Burdick program for rural interdisciplinary training. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Use of amounts.
+
+(c)
+
+Applications.
+
+(d)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| [294e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294e%20-%20Allied%20health%20and%20other%20disciplines.md) | Allied health and other disciplines. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Activities.
+
+|  |  |
+| :--- | ---: |
+| [294f.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294f%20-%20Advisory%20Committee%20on%20Interdisciplinary%2C%20Community-Based%20Linkages.md) | Advisory Committee on Interdisciplinary, Community-Based Linkages. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Composition.
+
+(c)
+
+Terms.
+
+(d)
+
+Duties.
+
+(e)
+
+Meetings and documents.
+
+(f)
+
+Compensation and expenses.
+
+(g)
+
+FACA.
+
+|  |  |
+| :--- | ---: |
+| [294g.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Allocation.
+
+(c)
+
+Obligation of certain amounts.
+
+#### Part E—Health Professions and Public Health Workforce
+
+I74subpart 1—health professions workforce information and analysis
+
+|  |  |
+| :--- | ---: |
+| [294n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294n%20-%20Health%20professions%20workforce%20information%20and%20analysis.md) | Health professions workforce information and analysis. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purpose.
+
+(b)
+
+Grants or contracts.
 
 (c)
 
@@ -7941,25 +8148,107 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| [293p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20C%20-%20Training%20in%20Primary%20Health%20Care/%C2%A7%2000293p%20-%20General%20provisions.md) | General provisions. |
+| 294<i>o</i>. | Advisory Council on Graduate Medical Education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Traineeships and fellowships.
+Establishment; duties.
 
 (b)
 
-Amount of grant.
+Composition.
 
-#### Part D—Training in Certain Health Professions
+(c)
 
-I74subpart i—public health and preventive medicine
+Terms of appointed members.
+
+(d)
+
+Chair.
+
+(e)
+
+Quorum.
+
+(f)
+
+Vacancies.
+
+(g)
+
+Compensation.
+
+(h)
+
+Certain authorities and duties.
+
+(i)
+
+Requirement regarding reports.
+
+(j)
+
+Final report.
+
+(k)
+
+Termination.
+
+(<i>l</i>)
+
+Funding.
+
+#### subpart 2—public health workforce
 
 |  |  |
 | :--- | ---: |
-| [294\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Training%20in%20Certain%20Health%20Professions/Subpart%20001%20%28i%29%20-%20Public%20Health%20and%20Preventive%20Medicine/%C2%A7%2000294%20-%20Public%20health%20traineeships.md) | Public health traineeships. |
+| [295\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295%20-%20General%20provisions.md) | General provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Preference.
+
+(d)
+
+Activities.
+
+(e)
+
+Traineeships.
+
+|  |  |
+| :--- | ---: |
+| [295a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295a%20-%20Public%20health%20training%20centers.md) | Public health training centers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligible entities.
+
+(c)
+
+Certain requirements.
+
+|  |  |
+| :--- | ---: |
+| [295b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295b%20-%20Public%20health%20traineeships.md) | Public health traineeships. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7973,33 +8262,7 @@ Certain requirements.
 
 |  |  |
 | :--- | ---: |
-| [294a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Training%20in%20Certain%20Health%20Professions/Subpart%20001%20%28i%29%20-%20Public%20Health%20and%20Preventive%20Medicine/%C2%A7%2000294a%20-%20Public%20health%20special%20projects.md) | Public health special projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Preferences in making awards.
-
-(c)
-
-Participation and training of students.
-
-(d)
-
-Application for award.
-
-(e)
-
-Establishment of goals; related reports.
-
-|  |  |
-| :--- | ---: |
-| [294b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Training%20in%20Certain%20Health%20Professions/Subpart%20001%20%28i%29%20-%20Public%20Health%20and%20Preventive%20Medicine/%C2%A7%2000294b%20-%20Preventive%20medicine%3B%20dental%20public%20health.md) | Preventive medicine; dental public health. |
+| [295c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295c%20-%20Preventive%20medicine%3B%20dental%20public%20health.md) | Preventive medicine; dental public health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8013,73 +8276,7 @@ Administration.
 
 |  |  |
 | :--- | ---: |
-| [294c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Training%20in%20Certain%20Health%20Professions/Subpart%20001%20%28i%29%20-%20Public%20Health%20and%20Preventive%20Medicine/%C2%A7%2000294c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Limitation regarding certain program.
-
-#### subpart ii—allied health professions
-
-|  |  |
-| :--- | ---: |
-| [294d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Training%20in%20Certain%20Health%20Professions/Subpart%20002%20%28ii%29%20-%20Allied%20Health%20Professions/%C2%A7%2000294d%20-%20Advanced%20training.md) | Advanced training. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Preference.
-
-(c)
-
-Limitation.
-
-(d)
-
-Eligible entities.
-
-(e)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [294e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Training%20in%20Certain%20Health%20Professions/Subpart%20002%20%28ii%29%20-%20Allied%20Health%20Professions/%C2%A7%2000294e%20-%20Project%20grants%20and%20contracts.md) | Project grants and contracts. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Projects related to strengthening training and increasing enrollment in allied health professions.
-
-(b)
-
-Application.
-
-(c)
-
-Eligible entities.
-
-(d)
-
-Authorization of appropriations.
-
-#### subpart iii—health administration
-
-|  |  |
-| :--- | ---: |
-| [294i.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Training%20in%20Certain%20Health%20Professions/Subpart%20003%20%28iii%29%20-%20Health%20Administration/%C2%A7%2000294i%20-%20Traineeships%20and%20special%20projects.md) | Traineeships and special projects. |
+| [295d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295d%20-%20Health%20administration%20traineeships%20and%20special%20projects.md) | Health administration traineeships and special projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8099,104 +8296,9 @@ Preference in making grants.
 
 Certain provisions regarding traineeships.
 
-(e)
-
-Application for grant.
-
-(f)
-
-Funding.
-
-#### Part E—Special Training Projects
-
 |  |  |
 | :--- | ---: |
-| [294n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Special%20Training%20Projects/%C2%A7%2000294n%20-%20Transferred.md) | Transferred. |
-| 294<i>o.</i> | Geriatrics. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Geriatric education centers.
-
-(b)
-
-Geriatric training regarding physicians and dentists.
-
-(c)
-
-Geriatric training regarding optometrists.
-
-(d)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [294p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Special%20Training%20Projects/%C2%A7%2000294p%20-%20Rural%20areas.md) | Rural areas. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Grants.
-
-(b)
-
-Use of amounts.
-
-(c)
-
-Eligible applicants.
-
-(d)
-
-Applications.
-
-(e)
-
-“Rural” defined.
-
-(f)
-
-Authorization of appropriations.
-
-#### Part F—Miscellaneous Programs
-
-|  |  |
-| :--- | ---: |
-| [295\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20Miscellaneous%20Programs/%C2%A7%2000295%20-%20Research%20on%20certain%20health%20professions%20issues.md) | Research on certain health professions issues. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Educational indebtedness.
-
-(b)
-
-Effect of programs for minority and disadvantaged individuals.
-
-(c)
-
-Extent of investigations and disciplinary actions by State licensing authorities.
-
-(d)
-
-Primary health care.
-
-(e)
-
-Research and demonstration projects on suicide prevention (including assisted suicide).
-
-(f)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| [295a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20Miscellaneous%20Programs/%C2%A7%2000295a%20-%20Chiropractic%20demonstration%20projects.md) | Chiropractic demonstration projects. |
+| [295e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20002%20-%20Public%20Health%20Workforce/%C2%A7%2000295e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8206,25 +8308,13 @@ In general.
 
 (b)
 
-Participation of medical schools.
+Limitation regarding certain program.
 
-(c)
-
-Peer review.
-
-(d)
-
-Report to Congress.
-
-(e)
-
-Authorization of appropriations.
-
-#### Part G—General Provisions
+#### Part F—General Provisions
 
 |  |  |
 | :--- | ---: |
-| [295j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295j%20-%20Preferences%20and%20required%20information%20in%20certain%20programs.md) | Preferences and required information in certain programs. |
+| [295j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295j%20-%20Preferences%20and%20required%20information%20in%20certain%20programs.md) | Preferences and required information in certain programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8234,15 +8324,15 @@ Preferences in making awards.
 
 (b)
 
-Required submission of information.
+“Graduate” defined.
 
 (c)
 
-“Graduate” defined.
+Exceptions for new programs.
 
 |  |  |
 | :--- | ---: |
-| [295k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295k%20-%20Health%20professions%20data.md) | Health professions data. |
+| [295k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295k%20-%20Health%20professions%20data.md) | Health professions data. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8272,30 +8362,10 @@ Grants and contracts regarding nonprofit entities.
 
 |  |  |
 | :--- | ---: |
-| 295<i>l.</i> | Statistics; annual report. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Statistics and other information.
-
-(b)
-
-Requirements regarding personal data.
-
-(c)
-
-Report.
-
-(d)
-
-“Public and community health personnel” defined.
-
-|  |  |
-| :--- | ---: |
-| [295m.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295m%20-%20Prohibition%20against%20discrimination%20on%20basis%20of%20sex.md) | Prohibition against discrimination on basis of sex. |
-| [295n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295n%20-%20Obligated%20service%20regarding%20certain%20programs.md) | Obligated service regarding certain programs. |
+| 295<i>l.</i> | Repealed. |
+| [295m.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295m%20-%20Prohibition%20against%20discrimination%20on%20basis%20of%20sex.md) | Prohibition against discrimination on basis of sex. |
+| [295n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295n%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93392%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Nov.%2013%2C%201998%2C%20112%20Stat.%203537.md) | Repealed. |
+| 295n–1. | Application. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8305,199 +8375,241 @@ In general.
 
 (b)
 
-Breach of agreements.
+Plan.
+
+(c)
+
+Performance outcome standards.
+
+(d)
+
+Linkages.
 
 |  |  |
 | :--- | ---: |
-| 295<i>o.</i> | Certain general provisions. |
+| 295n–2. | Use of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Peer review.
+In general.
 
 (b)
 
-Delegation of authority of Secretary.
+Maintenance of effort.
+
+|  |  |
+| :--- | ---: |
+| 295<i>o</i>. | Matching requirement. |
+| 295<i>o</i>–1. | Generally applicable provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Awarding of grants and contracts.
+
+(b)
+
+Eligible entities.
 
 (c)
 
-Differential tuition and fees.
+Information requirements.
 
 (d)
 
-Applicability of certain provisions on contracts.
+Training programs.
 
 (e)
 
-Records and audits.
+Duration of assistance.
 
 (f)
 
-Miscellaneous provisions.
+Peer review regarding certain programs.
+
+(g)
+
+Preference or priority considerations.
+
+(h)
+
+Analytic activities.
+
+(i)
+
+Osteopathic schools.
 
 |  |  |
 | :--- | ---: |
-| [295p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295p%20-%20Definitions.md) | Definitions. |
+| 295<i>o</i>–2. | Technical assistance. |
+| [295p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295p%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VI—NURSE EDUCATION
+#### SUBCHAPTER VI—NURSING WORKFORCE DEVELOPMENT
 
-#### Part A—Special Projects
-
-|  |  |
-| :--- | ---: |
-| 296 to 296j. | Repealed or Transferred. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart i—special projects in general
+#### Part A—General Provisions
 
 |  |  |
 | :--- | ---: |
-| [296k.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20A%20-%20Special%20Projects/Subpart%20001%20%28i%29%20-%20Special%20Projects%20in%20General/%C2%A7%2000296k%20-%20Special%20project%20grants%20and%20contracts.md) | Special project grants and contracts. |
+| [296\.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296%20-%20Definitions.md) | Definitions. |
+| [296a.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296a%20-%20Application.md) | Application. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Expansion of enrollment in professional nursing programs.
+In general.
 
 (b)
 
-Primary health care in noninstitutional settings.
+Plan.
 
 (c)
 
-Continuing education for nurses in medically underserved communities.
+Performance outcome standards.
 
 (d)
 
-Long-term care fellowships for certain paraprofessionals.
+Linkages.
+
+|  |  |
+| :--- | ---: |
+| [296b.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296b%20-%20Use%20of%20funds.md) | Use of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Maintenance of effort.
+
+|  |  |
+| :--- | ---: |
+| [296c.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296c%20-%20Matching%20requirement.md) | Matching requirement. |
+| [296d.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296d%20-%20Preference.md) | Preference. |
+| [296e.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296e%20-%20Generally%20applicable%20provisions.md) | Generally applicable provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Awarding of grants and contracts.
+
+(b)
+
+Information requirements.
+
+(c)
+
+Training programs.
+
+(d)
+
+Duration of assistance.
 
 (e)
 
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| 296<i>l.</i> | Advanced nurse education. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Authorized programs.
-
-(c)
-
-Funding.
-
-|  |  |
-| :--- | ---: |
-| [296m.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20A%20-%20Special%20Projects/Subpart%20001%20%28i%29%20-%20Special%20Projects%20in%20General/%C2%A7%2000296m%20-%20Nurse%20practitioner%20and%20nurse%20midwife%20programs.md) | Nurse practitioner and nurse midwife programs. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Authorized programs.
-
-(c)
-
-Certain considerations in making awards.
-
-(d)
-
-Authorization of appropriations.
-
-#### subpart ii—nursing education opportunities for individuals from disadvantaged backgrounds
-
-|  |  |
-| :--- | ---: |
-| [296r.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20A%20-%20Special%20Projects/Subpart%20002%20%28ii%29%20-%20Nursing%20Education%20Opportunities%20for%20Individuals%20from%20Disadvantaged%20Backgrounds/%C2%A7%2000296r%20-%20Special%20projects.md) | Special projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Covered costs.
-
-(b)
-
-Application; contents.
-
-(c)
-
-Authorization of appropriations.
-
-#### Part B—Assistance to Nursing Students
-
-I74subpart i—traineeships
-
-|  |  |
-| :--- | ---: |
-| [297\.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20001%20%28i%29%20-%20Traineeships/%C2%A7%2000297%20-%20Traineeships%20for%20advanced%20education%20of%20professional%20nurses.md) | Traineeships for advanced education of professional nurses. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Special consideration in making grants.
-
-(c)
-
-Preference in provision of traineeships.
-
-(d)
-
-Eligibility of individuals in master's degree programs.
-
-(e)
-
-Use of grant.
+Peer review regarding certain programs.
 
 (f)
 
-Funding.
+Analytic activities.
+
+(g)
+
+State and regional priorities.
+
+(h)
+
+Filing of applications.
 
 |  |  |
 | :--- | ---: |
-| 297–1. | Nurse anesthetists. |
+| [296f.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296f%20-%20Technical%20assistance.md) | Technical assistance. |
+| [296g.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20A%20-%20General%20Provisions/%C2%A7%2000296g%20-%20Prohibition%20against%20discrimination%20by%20schools%20on%20basis%20of%20sex.md) | Prohibition against discrimination by schools on basis of sex. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Nurse Practitioners, Nurse Midwives, Nurse Anesthetists, and Other Advanced Education Nurses
+
+|  |  |
+| :--- | ---: |
+| [296j.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20B%20-%20Nurse%20Practitioners%2C%20Nurse%20Midwives%2C%20Nurse%20Anesthetists%2C%20and%20Other%20Advanced%20Education%20Nurses/%C2%A7%2000296j%20-%20Advanced%20education%20nursing%20grants.md) | Advanced education nursing grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Authority of Secretary; program eligibility; payments; limitations.
+In general.
 
 (b)
 
-Additional granting authorities.
+Definition of advanced education nurses.
 
 (c)
 
-Authorization of appropriations; limitations.
+Authorized nurse practitioner and nurse midwifery programs.
 
-#### subpart ii—student loans
+(d)
+
+Authorized nurse anesthesia programs.
+
+(e)
+
+Other authorized educational programs.
+
+(f)
+
+Traineeships.
+
+#### Part C—Increasing Nursing Workforce Diversity
 
 |  |  |
 | :--- | ---: |
-| [297a.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297a%20-%20Student%20loan%20fund.md) | Student loan fund. |
+| [296m.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20C%20-%20Increasing%20Nursing%20Workforce%20Diversity/%C2%A7%2000296m%20-%20Workforce%20diversity%20grants.md) | Workforce diversity grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Guidance.
+
+(c)
+
+Required information and conditions for award recipients.
+
+#### Part D—Strengthening Capacity for Basic Nurse Education and Practice
+
+|  |  |
+| :--- | ---: |
+| [296p.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20D%20-%20Strengthening%20Capacity%20for%20Basic%20Nurse%20Education%20and%20Practice/%C2%A7%2000296p%20-%20Basic%20nurse%20education%20and%20practice%20grants.md) | Basic nurse education and practice grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Priority areas.
+
+#### Part E—Student Loans
+
+|  |  |
+| :--- | ---: |
+| [297a.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297a%20-%20Student%20loan%20fund.md) | Student loan fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8515,7 +8627,7 @@ Regulatory standards applicable to collection of loans.
 
 |  |  |
 | :--- | ---: |
-| [297b.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297b%20-%20Loan%20provisions.md) | Loan provisions. |
+| [297b.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297b%20-%20Loan%20provisions.md) | Loan provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8559,11 +8671,18 @@ Loan repayment.
 
 Collection by Secretary of loan in default; preconditions and procedures applicable.
 
+(k)
+
+Redesignated (j).
+
+(<i>l</i>)
+
+Elimination of statute of limitation for loan collections.
+
 |  |  |
 | :--- | ---: |
-| [297c.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297c%20-%20Authorization%20of%20appropriations%20for%20student%20loan%20funds.md) | Authorization of appropriations for student loan funds. |
-| 297c–1. | Repealed. |
-| [297d.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297d%20-%20Allotments%20and%20payments%20of%20Federal%20capital%20contributions.md) | Allotments and payments of Federal capital contributions. |
+| 297c, 297c–1. | Repealed. |
+| [297d.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297d%20-%20Allotments%20and%20payments%20of%20Federal%20capital%20contributions.md) | Allotments and payments of Federal capital contributions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8581,7 +8700,7 @@ Manner of payment.
 
 |  |  |
 | :--- | ---: |
-| [297e.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297e%20-%20Distribution%20of%20assets%20from%20loan%20funds.md) | Distribution of assets from loan funds. |
+| [297e.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297e%20-%20Distribution%20of%20assets%20from%20loan%20funds.md) | Distribution of assets from loan funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8599,19 +8718,11 @@ Payment of balance of loan fund.
 
 |  |  |
 | :--- | ---: |
-| [297f.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297f%20-%20Repealed.%20Pub.%20L.%2094%E2%80%9363%2C%20title%20IX%2C%20%C2%A7936%28e%29%281%29%2C%20July%2029%2C%201975%2C%2089%20Stat.%20363.md) | Repealed. |
-| [297g.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297g%20-%20Modification%20of%20agreements%3B%20compromise%2C%20waiver%20or%20release.md) | Modification of agreements; compromise, waiver or release. |
-| [297h.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297h%20-%20Repealed.%20Pub.%20L.%2099%E2%80%9392%2C%20%C2%A79%28a%29%281%29%2C%20Aug.%2016%2C%201985%2C%2099%20Stat.%20400.md) | Repealed. |
-| [297i.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20002%20%28ii%29%20-%20Student%20Loans/%C2%A7%2000297i%20-%20Procedures%20for%20appeal%20of%20terminations.md) | Procedures for appeal of terminations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart iii—loan repayment program
-
-|  |  |
-| :--- | ---: |
-| [297j.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20003%20%28iii%29%20-%20Loan%20Repayment%20Program/%C2%A7%2000297j%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93531%2C%20title%20III%2C%20%C2%A7313%28a%29%2811%29%2C%20Oct.%2027%2C%201992%2C%20106%20Stat.%203507.md) | Repealed. |
-| [297n.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20B%20-%20Assistance%20to%20Nursing%20Students/Subpart%20003%20%28iii%29%20-%20Loan%20Repayment%20Program/%C2%A7%2000297n%20-%20Loan%20repayment%20program.md) | Loan repayment program. |
+| [297f.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297f%20-%20Repealed.%20Pub.%20L.%2094%E2%80%9363%2C%20title%20IX%2C%20%C2%A7936%28e%29%281%29%2C%20July%2029%2C%201975%2C%2089%20Stat.%20363.md) | Repealed. |
+| [297g.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297g%20-%20Modification%20of%20agreements%3B%20compromise%2C%20waiver%20or%20release.md) | Modification of agreements; compromise, waiver or release. |
+| [297h.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297h%20-%20Repealed.%20Pub.%20L.%2099%E2%80%9392%2C%20%C2%A79%28a%29%281%29%2C%20Aug.%2016%2C%201985%2C%2099%20Stat.%20400.md) | Repealed. |
+| [297i.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297i%20-%20Procedures%20for%20appeal%20of%20terminations.md) | Procedures for appeal of terminations. |
+| [297n.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297n%20-%20Loan%20repayment%20program.md) | Loan repayment program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8643,75 +8754,77 @@ Definitions.
 
 Authorization of appropriations.
 
-#### Part C—General
+(h)
+
+Breach of agreement.
+
+#### Part F—Funding
 
 |  |  |
 | :--- | ---: |
-| [298\.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20C%20-%20General/%C2%A7%2000298%20-%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice.md) | Advisory Council on Nurse Education and Practice. |
-| [298a.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20C%20-%20General/%C2%A7%2000298a%20-%20Noninterference%20with%20administration%20of%20institutions.md) | Noninterference with administration of institutions. |
-| [298b.](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/Part%20C%20-%20General/%C2%A7%2000298b%20-%20Definitions.md) | Definitions. |
-| 298b–1. | Advance funding. |
-| 298b–2. | Prohibition against discrimination by schools on basis of sex. |
-| 298b–3. | Delegation of authority to administer programs; exceptions. |
-| 298b–4. | Technical assistance. |
-| 298b–5. | Recovery for construction assistance. |
+| [297q.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20F%20-%20Funding/%C2%A7%2000297q%20-%20Funding.md) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Conditions for recovery by United States of base amount and interest.
+Authorization of appropriations.
 
 (b)
 
-Notice by owner of cessation or change of use of facility.
+Allocations for fiscal years 1998 through 2002.
 
 (c)
 
-Computation of base amount and interest.
+Allocations after fiscal year 2002.
 
 (d)
 
-Waiver of recovery rights of United States.
+Use of methodology before fiscal year 2003.
 
 (e)
 
-Nature of prejudgment right of recovery.
+Authority for use of additional factors in methodology.
+
+#### Part G—National Advisory Council on Nurse Education and Practice
 
 |  |  |
 | :--- | ---: |
-| 298b–6. | Repealed. |
-| 298b–7. | Certain generally applicable provisions. |
+| [297t.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20G%20-%20National%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice/%C2%A7%2000297t%20-%20National%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice.md) | National Advisory Council on Nurse Education and Practice. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Application for grants, cooperative agreements, or contracts.
+Establishment.
 
 (b)
 
-Duration of assistance.
+Composition.
 
 (c)
 
-Breach of agreements for obligated service.
+Vacancies.
 
 (d)
 
-Peer review regarding certain programs.
+Duties.
 
 (e)
 
-Preferences and required information in certain programs.
+Meetings and documents.
 
-#### Part D—Scholarship Grants to Schools of Nursing
+(f)
 
-|  |
-| :--- |
-| 298c to 298c–8. Transferred, Omitted, or Repealed. |
+Compensation and expenses.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(g)
+
+Funding.
+
+(h)
+
+FACA.
 
 #### SUBCHAPTER VII—AGENCY FOR HEALTH CARE POLICY AND RESEARCH
 
@@ -9179,24 +9292,7 @@ Suitability of informational or educational materials.
 | :--- | ---: |
 | 300a–5. | Voluntary participation by individuals; participation not prerequisite for eligibility or receipt of other services and information. |
 | 300a–6. | Prohibition against funding programs using abortion as family planning method. |
-| 300a–6a. | Plans and reports. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Submission of report to Congress; purposes of plan.
-
-(b)
-
-Minimum requirements for plan.
-
-(c)
-
-Contents of report.
-
-|  |  |
-| :--- | ---: |
+| 300a–6a. | Repealed. |
 | 300a–7. | Sterilization or abortion. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11180,7 +11276,7 @@ Grant and contract authority of States.
 
 Special consideration for certain States.
 
-(c)
+(d)
 
 Coordinating committee regarding year 2000 health objectives.
 
@@ -11616,7 +11712,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 300u–6. | Establishment of Office of Minority Health. |
+| 300u–6. | Office of Minority Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -11630,17 +11726,25 @@ Duties.
 
 (c)
 
-Certain requirements regarding duties.
+Advisory Committee.
 
 (d)
 
-Grants and contracts regarding duties.
+Certain requirements regarding duties.
 
 (e)
 
-Reports.
+Grants and contracts regarding duties.
 
 (f)
+
+Reports.
+
+(g)
+
+Definitions.
+
+(h)
 
 Funding.
 
@@ -11690,9 +11794,17 @@ Submission to Congress.
 
 |  |  |
 | :--- | ---: |
-| 300u–9. | Repealed. |
+| 300u–9. | Education regarding DES. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
 
 #### SUBCHAPTER XVI—PRESIDENT'S COMMISSION FOR THE STUDY OF ETHICAL PROBLEMS IN MEDICINE AND BIOMEDICAL AND BEHAVIOR RESEARCH
 
@@ -12739,7 +12851,7 @@ Reports.
 | 300aa–1. | Establishment. |
 | 300aa–2. | Program responsibilities. |
 | 300aa–3. | Plan. |
-| 300aa–4. | Report. |
+| 300aa–4. | Repealed. |
 | 300aa–5. | National Vaccine Advisory Committee. |
 | 300aa–6. | Authorization of appropriations. |
 
@@ -15300,6 +15412,12 @@ Definitions.
 
 Sunset.
 
+|  |  |
+| :--- | ---: |
+| 300gg–6. | Required coverage for reconstructive surgery following mastectomies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### subpart 3—provisions applicable only to health insurance issuers
 
 |  |  |
@@ -15539,6 +15657,12 @@ Notice requirement.
 
 Preemption; exception for health insurance coverage in certain States.
 
+|  |  |
+| :--- | ---: |
+| 300gg–52. | Required coverage for reconstructive surgery following mastectomies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### subpart 3—general provisions
 
 |  |  |
@@ -15620,7 +15744,7 @@ Definitions relating to markets and small employers.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 217a–1, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 3013, 3509, 14402 of this title; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
+This chapter is referred to in sections 217a–1, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 3013, 14402 of this title; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
 
 
 ---
@@ -15633,7 +15757,7 @@ This chapter is referred to in sections 217a–1, 300a–7, 300a–29, 701, 1320
 - [Subchapter 003&#8211;A (III&#8211;A) - Substance Abuse and Mental Health Services Administration](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/README.md)
 - [Subchapter 004 (IV) - Construction and Modernization of Hospitals and Other Medical Facilities](Subchapter%20004%20%28IV%29%20-%20Construction%20and%20Modernization%20of%20Hospitals%20and%20Other%20Medical%20Facilities/README.md)
 - [Subchapter 005 (V) - Health Professions Education](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/README.md)
-- [Subchapter 006 (VI) - Nurse Education](Subchapter%20006%20%28VI%29%20-%20Nurse%20Education/README.md)
+- [Subchapter 006 (VI) - Nursing Workforce Development](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/README.md)
 - [Subchapter 007 (VII) - Agency for Health Care Policy and Research](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Health%20Care%20Policy%20and%20Research/README.md)
 - [Subchapter 008 (VIII) - Population Research and Voluntary Family Planning Programs](Subchapter%20008%20%28VIII%29%20-%20Population%20Research%20and%20Voluntary%20Family%20Planning%20Programs/README.md)
 - [Subchapter 008&#8211;A (VIII&#8211;A) - Adolescent Pregnancies](Subchapter%20008%E2%80%93A%20%28VIII%E2%80%93A%29%20-%20Adolescent%20Pregnancies/README.md)

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1403, 1441, 1442, 1444, 1464, 1465, 1468, 1470 of this title; title 26 section 4496.
+This subchapter is referred to in sections 1403, 1441, 1442, 1444, 1464, 1465, 1468, 1470 of this title.
 
 
 ---

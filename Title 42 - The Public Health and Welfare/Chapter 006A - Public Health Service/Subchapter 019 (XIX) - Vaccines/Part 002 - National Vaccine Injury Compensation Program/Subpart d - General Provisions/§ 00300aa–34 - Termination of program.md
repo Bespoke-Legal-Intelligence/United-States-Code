@@ -50,7 +50,7 @@ The Secretary shall review the number of awards of compensation made under the p
 
 22nd through the 24th month after December 22, 1987
 
-300&nbsp;&nbsp;
+300  
 
 25th through the 27th month after December 22, 1987
 
@@ -86,7 +86,7 @@ The Secretary shall review the number of awards of compensation made under the p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(July 1, 1944, ch. 373, title XXI, §2134, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4303(f), 101 Stat. 1330–222.)
+(July 1, 1944, ch. 373, title XXI, §2134, as added Pub. L. 100–203, title IV, §4303(f), Dec. 22, 1987, 101 Stat. 1330–222.)
 
 #### Codification
 

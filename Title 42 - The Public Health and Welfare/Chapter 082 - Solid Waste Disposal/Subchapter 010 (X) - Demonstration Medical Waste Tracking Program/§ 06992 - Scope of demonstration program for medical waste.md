@@ -14,7 +14,7 @@ The States within the demonstration program established under this subchapter fo
 
 #### (c) Petition in
 
-The Governor of any State may petition the Administrator to be included in the demonstration program and the Administrator may, in his discretion, include any such State. Such petition may not be made later than 30 days after promulgation of regulations establishing the demonstration program under this subchapter, and the Administrator shall determine whether to include the State within 30 days after receipt of the State's petition.
+The Governor of any State may petition the Administrator to be included in the demonstration program and the Administrator may, in hisdiscretion, include any such State. Such petition may not be made later than 30 days after promulgation of regulations establishing the demonstration program under this subchapter, and the Administrator shall determine whether to include the State within 30 days after receipt of the State's petition.
 
 #### (d) Expiration of demonstration program
 

@@ -18,7 +18,7 @@ The Secretary, acting through the Director of NIH, shall establish guidelines fo
 
 #### (b) Animal care committees; establishment; membership; functions
 
-(1) Guidelines of the Secretary under subsection (a)(3) of this section shall require animal care committees at each entity which conductsbiomedical and behavioral research with funds provided under this chapter (including the National Institutes of Health and the national research institutes) to assure compliance with the guidelines established under subsection (a) of this section.
+(1) Guidelines of the Secretary under subsection (a)(3) of this section shall require animal care committees at each entity which conducts biomedical and behavioral research with funds provided under this chapter (including the National Institutes of Health and the national research institutes) to assure compliance with the guidelines established under subsection (a) of this section.
 
 (2) Each animal care committee shall be appointed by the chief executive officer of the entity for which the committee is established, shall be composed of not fewer than three members, and shall include at least one individual who has no association with such entity and at least one doctor of veterinary medicine.
 
@@ -62,7 +62,7 @@ If the Director of NIH determines that—
 
 No guideline or regulation promulgated under subsection (a) or (c) of this section may require a research entity to disclose publicly trade secrets or commercial or financial information which is privileged or confidential.
 
-(July 1, 1944, ch. 373, title IV, §495, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 875.)
+(July 1, 1944, ch. 373, title IV, §495, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 875.)
 
 #### Prohibition on Funding of Projects Involving Use of Chimpanzees Obtained From the Wild
 

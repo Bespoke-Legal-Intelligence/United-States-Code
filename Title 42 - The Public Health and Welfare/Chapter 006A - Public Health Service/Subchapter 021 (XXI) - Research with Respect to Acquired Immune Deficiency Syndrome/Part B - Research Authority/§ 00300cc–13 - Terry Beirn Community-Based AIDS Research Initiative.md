@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After consultation with the Commissioner of Food and Drugs, the Director of the National Institutes of Health, acting through the Director of the National Institute of Allergy and Infectious Diseases, may make grants to public entities and nonprofit private entities concernedwith acquired immune deficiency syndrome, and may enter into contracts with public and private such <sup>1</sup> entities, for the purpose of planning and conducting, in the community involved, clinical trials of experimental treatments for infection with the etiologic agent for such syndrome that are approved by the Commissioner of Food and Drugs for investigational use under regulations issued under section 355 of title 21.
+After consultation with the Commissioner of Food and Drugs, the Director of the National Institutes of Health, acting through the Director of the National Institute of Allergy and Infectious Diseases, may make grants to public entities and nonprofit private entities concerned with acquired immune deficiency syndrome, and may enter into contracts with public and private such <sup>1</sup> entities, for the purpose of planning and conducting, in the community involved, clinical trials of experimental treatments for infection with the etiologic agent for such syndrome that are approved by the Commissioner of Food and Drugs for investigational use under regulations issued under section 355 of title 21.
 
 #### (b) Requirement of certain projects
 
@@ -40,11 +40,11 @@ The Secretary may not provide financial assistance under subsection (a) of this 
 
 #### (e) Authorization of appropriations
 
-(1) For the purpose of carrying out subsection (b)(1) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1996.
+(1) For the purpose of carrying out subsection (b)(1) of this section, there are authorized to beappropriated such sums as may be necessary for each of the fiscal years 1989 through 1996.
 
 (2) For the purpose of carrying out subsection (b)(2) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1996.
 
-(July 1, 1944, ch. 373, title XXIII, §2313, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3068; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2617(b), 102 Stat. 4240; Aug. 16, 1989, Pub. L. 101–93, §6, 103 Stat. 615; Aug. 14, 1991, Pub. L. 102–96, §3, 105 Stat. 481.)
+(July 1, 1944, ch. 373, title XXIII, §2313, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3068; amended Pub. L. 100–690, title II, §2617(b), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 101–93, §6, Aug. 16, 1989, 103 Stat. 615; Pub. L. 102–96, §3, Aug. 14, 1991, 105 Stat. 481.)
 
 #### Prior Provisions
 

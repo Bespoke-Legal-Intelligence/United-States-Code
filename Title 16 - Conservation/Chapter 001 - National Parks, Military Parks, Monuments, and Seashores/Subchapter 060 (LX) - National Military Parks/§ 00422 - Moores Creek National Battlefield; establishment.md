@@ -12,7 +12,7 @@ Third tract: Beginning at a cypress on the edge of the run of Moores Creek about
 
 The aforesaid tracts of land containing in the aggregate thirty acres, more or less, and being the property of the State of North Carolina, and the area thus inclosed shall be known as the Moores Creek National Battlefield.
 
-(June 2, 1926, ch. 448, §1, 44 Stat. 684; Sept. 8, 1980, Pub. L. 96–344, §12, 94 Stat. 1136.)
+(June 2, 1926, ch. 448, §1, 44 Stat. 684; Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136.)
 
 #### Change of Name
 

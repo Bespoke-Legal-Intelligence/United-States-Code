@@ -10,7 +10,7 @@
 
 &emsp;(1) a vessel used only to respond to a discharge of oil or a hazardous substance;
 
-&emsp;(2) a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title equipped with a double containment systemdetermined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil;
+&emsp;(2) a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title equipped with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil;
 
 &emsp;(3) before January 1, 2015—
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(vi) after January 1, 2000, if the vessel is 30 years old or older and has a single hull, or is 35 years old or older and has a double bottom or double sides;
 
-&emsp;&emsp;(vii) after January 1, 2001, if the vessel is 29 years old or older and has a single hull, or is34 years old or older and has a double bottom or double sides;
+&emsp;&emsp;(vii) after January 1, 2001, if the vessel is 29 years old or older and has a single hull, or is 34 years old or older and has a double bottom or double sides;
 
 &emsp;&emsp;(viii) after January 1, 2002, if the vessel is 28 years old or older and has a single hull, or is 33 years old or older and has a double bottom or double sides;
 
@@ -166,7 +166,7 @@ Section 4115(b) of Pub. L. 101–380 provided that: “The Secretary shall, with
 
 #### Study on Other Structural and Operational Tank Vessel Requirements
 
-Section 4115(e) of Pub. L. 101–380 provided that:
+Pub. L. 101–380, title IV, §4115(e), Aug. 18, 1990, 104 Stat. 520, as amended by Pub. L. 105–383, title IV, §423, Nov. 13, 1998, 112 Stat. 3440, provided that:
 
 “(1)
 
@@ -180,7 +180,21 @@ Review and assessment.—The Secretary shall—
 
 &emsp;“(B) not later than 5 years after the date of enactment of this Act \[Aug. 18, 1990\], assess the impact of this section on the safety of the marine environment and the economic viability and operational makeup of the maritime oil transportation industry; and
 
-&emsp;“(C) report the results of the review and assessment to the Congress with recommendations for legislative or other action.”
+&emsp;“(C) report the results of the review and assessment to the Congress with recommendations for legislative or other action.
+
+“(3)(A) The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct the necessary research and development of a rationally based equivalency assessment approach, which accounts for the overall environmental performance of alternative tank vessel designs. Notwithstanding the Coast Guard opinion of the application of sections 101 and 311 of the Clean Water Act (33 U.S.C. 1251 and 1321), the intent of this study is to establish an equivalency evaluation procedure that maintains a high standard of environmental protection, while encouraging innovative ship design. The study shall include:
+
+&emsp;“(i) development of a generalized cost spill data base, which includes all relevant costs such as clean-up costs and environmental impact costs as a function of spill size;
+
+&emsp;“(ii) refinement of the probability density functions used to establish the extent of vessel damage, based on the latest available historical damage statistics, and current research on the crash worthiness of tank vessel structures;
+
+&emsp;“(iii) development of a rationally based approach for calculating an environmental index, to assess overall outflow performance due to collisions and groundings; and
+
+&emsp;“(iv) application of the proposed index to double hull tank vessels and alternative designs currently under consideration.
+
+“(B) A Marine Board committee shall be established not later that \[sic\] 2 months after the date of the enactment of the Coast Guard Authorization Act of 1998 \[Nov. 13, 1998\]. The Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure in the House of Representatives a report on the results of the study not later than 12 months after the date of the enactment of the Coast Guard Authorization Act of 1998.
+
+“(C) Of the amounts authorized by section 1012(a)(5)(A) of this Act \[33 U.S.C. 2712(a)(5)(A)\], $500,000 is authorized to carry out the activities under subparagraphs (A) and (B) of this paragraph.”
 
 #### Territorial Sea of United States
 

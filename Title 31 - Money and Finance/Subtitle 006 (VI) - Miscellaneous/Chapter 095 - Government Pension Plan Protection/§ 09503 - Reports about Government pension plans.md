@@ -1,26 +1,12 @@
 ### §9503. Reports about Government pension plans
 
-(a) A Government pension plan is subject to section 103 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023) in the same way that an employee pension benefit plan is subject to section 103. However, section 103 applies to a Government pension plan for officers or employees of the Central Intelligence Agency only if the President specifically approves application of the requirements of section 103 in writing. In applying section 103 to a Government pension plan—
-
-&emsp;(1) the annual report shall be—
-
-&emsp;&emsp;(A) in the form and include information the President, in consultation with the Comptroller General, prescribes or, if the pension plan is referred to in section 9502(1)(B)(iv)–(vii) or (ix) of this title, the Comptroller General prescribes; and
-
-&emsp;&emsp;(B) submitted to Congress and to the Comptroller General by the end of the 210-day period beginning on the day after the last day of the plan year involved;
-
-&emsp;(2) a provision providing for waiver of, relief from, or exception to a requirement otherwise applicable to an employee pension benefit plan applies to a Government pension plan only if specifically authorized by the Comptroller General;
-
-&emsp;(3) section 104(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024(b)) does not apply;
-
-&emsp;(4) the report required by this chapter is in addition to other reports or projections required by law; and
-
-&emsp;(5) except for a Government pension plan referred to in section 9502(1)(B)(iv)–(vii) of this title, the Comptroller General shall conduct audits when appropriate instead of complying with the requirements for the independent qualified public accountant.
+\[(a) Repealed. Pub. L. 105–362, title XV, §1501(a), Nov. 10, 1998, 112 Stat. 3294.\]
 
 (b) This chapter does not prevent a Government pension plan from using the services of an enrolled actuary employed by an agency administering the plan.
 
 (c) The requirements of this section are satisfied with respect to the Thrift Savings Plan described under subchapter III of chapter 84 of title 5, by preparation and transmission of the report described under section 8439(b) of such title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1050; Pub. L. 104–66, title II, §2081, Dec. 21, 1995, 109 Stat. 729.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1050; Pub. L. 104–66, title II, §2081, Dec. 21, 1995, 109 Stat. 729; Pub. L. 105–362, title XV, §1501(a), Nov. 10, 1998, 112 Stat. 3294.)
 
 Historical and Revision Notes
 
@@ -46,6 +32,8 @@ In subsection (b), the words “This chapter does not prevent” are substituted
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–362 struck out subsec. (a) which required Government pension plans to be subject to 29 U.S.C. 1023, except for officers or employees of the Central Intelligence Agency unless the President specifically approves application of the requirements of section 1023 in writing for such officers and employees.
+
 1995—Subsec. (c). Pub. L. 104–66 added subsec. (c).
 
 #### Ex. Ord. No. 12177. Delegation of Functions to Director of Office of Management and Budget and Secretary of the Treasury
@@ -58,7 +46,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–102. The head of an Executive agency responsible for the administration of any Federal Government pension plan within the meaning of Section 123(a) of the Budget and Accounting Procedures Act of 1950, as amended (31 U.S.C. 68c) \[31 U.S.C. 9502(1)\], except subsections (a)(9) and (b), shall ensure that the administrators of those plans comply with the form, manner, and time of filing as required by the Director of the Office of Management and Budget.
 
-1–103. Subject to the provisions of Section 1–101 of this Order, and in the absence of any contrary delegation or direction by the Director, the Secretary of the Treasury, with respect to the development of the form and content of the annual reports, shall perform the functions set forth in Section 121(a) of the Budget and Accounting Procedures Act of 1950, as amended (31 U.S.C. 68a) \[31 U.S.C. 9503\]. In performing this function, the Secretary shall also be responsible for consulting with the Comptroller General.
+1–103. Subject to the provisions of Section 1–101 of this Order, and in the absence of any contrary delegation or direction by the Director, the Secretary of theTreasury, with respect to the development of the form and content of the annual reports, shall perform the functions set forth in Section 121(a) of the Budget and Accounting Procedures Act of 1950, as amended (31 U.S.C. 68a) \[31 U.S.C. 9503\]. In performing this function, the Secretary shall also be responsible for consulting with the Comptroller General.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

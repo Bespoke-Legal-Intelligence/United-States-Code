@@ -24,7 +24,7 @@ As used in this section:
 
 #### (4) Inspection
 
-&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, or State agency on behalf of the Secretary.
+&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, or State or local agency on behalf of the Secretary.
 
 #### (5) Mammogram
 
@@ -37,6 +37,10 @@ As used in this section:
 #### (7) Survey
 
 &emsp;The term “survey” means an onsite physics consultation and evaluation performed by a medical physicist as described in subsection (f)(1)(E) of this section.
+
+#### (8) Review physician
+
+&emsp;The term “review physician” means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e) of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
 
 #### (b) Certificate requirement
 
@@ -90,7 +94,7 @@ As used in this section:
 
 &emsp;&emsp;(A) the person who owns or leases the facility or an authorized agent of the person, submits to the Secretary, in such form and manner as the Secretary shall prescribe, an application that contains at a minimum—
 
-&emsp;&emsp;&emsp;(i) a description of the manufacturer, model, and type of each x-ray machine, image receptor, and processor operated in the performance of mammography by the facility;
+&emsp;&emsp;&emsp;(i) a description of the manufacturer, model, and type of each x-ray machine,image receptor, and processor operated in the performance of mammography by the facility;
 
 &emsp;&emsp;&emsp;(ii) a description of the procedures currently used to provide mammography at the facility, including—
 
@@ -118,7 +122,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) such other information as the Secretary may require.
 
-> &emsp;An applicant shall not be required to provide in an application under subparagraph (A) anyinformation which the applicant has supplied to the accreditation body which accredited the applicant, except as required by the Secretary.
+> &emsp;An applicant shall not be required to provide in an application under subparagraph (A) any information which the applicant has supplied to the accreditation body which accredited the applicant, except as required by the Secretary.
 
 #### (2) Appeal
 
@@ -126,7 +130,7 @@ As used in this section:
 
 &emsp;&emsp;(A) a statement of the grounds on which the denial is based, and
 
-&emsp;&emsp;(B) an opportunity for an appeal in accordance with the procedures set forth in regulations of the Secretary published at 42 C.F.R. 498 and in effect on October 27, 1992.
+&emsp;&emsp;(B) an opportunity for an appeal in accordance with the procedures set forth in regulations of the Secretary published at part 498 of title 42, Code of Federal Regulations.
 
 #### (3) Effect of denial
 
@@ -146,11 +150,11 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(i) standards that require an accreditation body to perform—
 
-&emsp;&emsp;&emsp;&emsp;(I) a review of clinical images from each facility accredited by such body not less often than every 3 years which review will be made by qualified practicing physicians; and
+&emsp;&emsp;&emsp;&emsp;(I) a review of clinical images from each facility accredited by such body not less often than every 3 years which review will be made by qualified review physicians; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a review of a random sample of clinical images from such facilities in each 3-year period beginning October 1, 1994, which review will be made by qualified practicing physicians;
+&emsp;&emsp;&emsp;&emsp;(II) a review of a random sample of clinical images from such facilities in each 3-year period beginning October 1, 1994, which review will be made by qualified review physicians;
 
-&emsp;&emsp;&emsp;(ii) standards that prohibit individuals conducting the reviews described in clause (i) from maintaining any financial relationship to the facility undergoing review which would constitute a conflict of interest;
+&emsp;&emsp;&emsp;(ii) standards that prohibit individuals conducting the reviews described in clause (i) from maintaining any relationship to the facility undergoing review which would constitute a conflict of interest;
 
 &emsp;&emsp;&emsp;(iii) standards that limit the imposition of fees for accreditation to reasonable amounts;
 
@@ -260,7 +264,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(i) licensed or approved by a State to perform such surveys, reviews, or inspections for mammography facilities;
 
-&emsp;&emsp;&emsp;(ii) certified in diagnostic radiological physics or certified as qualified to perform such surveys by a board as described in paragraph (2)(D); or
+&emsp;&emsp;&emsp;(ii) certified in diagnostic radiological physics or certified as qualified to performsuch surveys by a board as described in paragraph (2)(D); or
 
 &emsp;&emsp;&emsp;(iii) in the first 5 years after October 27, 1992, who meet other criteria established by the Secretary which are comparable to the criteria described in clause (i) or (ii);
 
@@ -268,13 +272,11 @@ As used in this section:
 
 &emsp;&emsp;(G) a requirement that—
 
-&emsp;&emsp;&emsp;(i) a facility that performs any mammogram maintain the mammogram in the permanent medical records of the patient—
+&emsp;&emsp;&emsp;(i) a facility that performs any mammogram—
 
-&emsp;&emsp;&emsp;&emsp;(I) for a period of not less than 5 years, or not less than 10 years if no additional mammograms of such patient are performed at the facility, or longer if mandated by State law; or
+&emsp;&emsp;&emsp;&emsp;(I) except as provided in subclause (II), maintain the mammogram in the permanent medical records of the patient for a period of not less than 5 years, or not less than 10 years if no subsequent mammograms of such patient are performed at the facility, or longer if mandated by State law; and
 
-&emsp;&emsp;&emsp;&emsp;(II) until such time as the patient should request that the patient's medical records be forwarded to a medical institution or a physician of the patient;
-
-&emsp;&emsp;&nbsp;whichever is longer; and
+&emsp;&emsp;&emsp;&emsp;(II) upon the request of or on behalf of the patient, transfer the mammogram to a medical institution, to a physician of the patient, or to the patient directly; and
 
 &emsp;&emsp;&emsp;(ii)(I) a facility must assure the preparation of a written report of the results of any mammography examination signed by the interpreting physician;
 
@@ -282,7 +284,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(III) if such a physician is not available or if there is no such physician, the written report shall be sent directly to the patient; and
 
-&emsp;&emsp;&emsp;(IV) if such report is sent to the patient, the report shall include a summary written in terms easily understood by a lay person; and
+&emsp;&emsp;&emsp;(IV) whether or not such a physician is available or there is no such physician, a summary of the written report shall be sent directly to the patient in terms easily understood by a lay person; and
 
 &emsp;&emsp;(H) standards relating to special techniques for mammography of patients with breast implants.
 
@@ -306,47 +308,65 @@ As used in this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may enter and inspect certified facilities to determine compliance with the standards established under subsection (f) of this section. The Secretary shall, if feasible, delegate to a State agency the authority to make such inspections.
+&emsp;&emsp;The Secretary may enter and inspect facilities to determine compliance with the certification requirements under subsection (b) of this section and the standards established under subsection (f) of this section. The Secretary shall, if feasible, delegate to a State or local agency the authority to make such inspections.
 
 #### (B) Identification
 
-&emsp;&emsp;The Secretary, or State agency acting on behalf of the Secretary, may conduct inspections only on presenting identification to the owner, operator, or agent in charge of the facility to be inspected.
+&emsp;&emsp;The Secretary, or State or local agency acting on behalf of the Secretary, may conduct inspections only on presenting identification to the owner, operator, or agent in charge of the facility to be inspected.
 
 #### (C) Scope of inspection
 
-&emsp;&emsp;In conducting inspections, the Secretary or State agency acting on behalf of the Secretary—
+&emsp;&emsp;In conducting inspections, the Secretary or State or local agency acting on behalf of the Secretary—
 
-&emsp;&emsp;&emsp;(i) shall have access to all equipment, materials, records, and information that the Secretary or State agency considers necessary to determine whether the facility is being operated in accordance with this section; and
+&emsp;&emsp;&emsp;(i) shall have access to all equipment, materials, records, and information that the Secretary or State or local agency considers necessary to determine whether the facility is being operated in accordance with this section; and
 
-&emsp;&emsp;&emsp;(ii) may copy, or require the facility to submit to the Secretary or the State agency, any of the materials, records, or information.
+&emsp;&emsp;&emsp;(ii) may copy, or require the facility to submit to the Secretary or the State or local agency, any of the materials, records, or information.
 
 #### (D) Qualifications of inspectors
 
-&emsp;&emsp;Qualified individuals, as determined by the Secretary, shall conduct all inspections. The Secretary may request that a State agency acting on behalf of the Secretary designate a qualified officer or employee to conduct the inspections, or designate a qualified Federal officer or employee to conduct inspections. The Secretary shall establish minimum qualifications and appropriate training for inspectors and criteria for certification of inspectors in order to inspect facilities for compliance with subsection (f) of this section.
+&emsp;&emsp;Qualified individuals, as determined by the Secretary, shall conduct all inspections. The Secretary may request that a State or local agency acting on behalf of the Secretary designate a qualified officer or employee to conduct the inspections, or designate a qualified Federal officer or employee to conduct inspections. The Secretary shall establish minimum qualifications and appropriate training for inspectors and criteria for certification of inspectors in order to inspect facilities for compliance with subsection (f) of this section.
 
 #### (E) Frequency
 
-&emsp;&emsp;The Secretary or State agency acting on behalf of the Secretary shall conduct inspections under this paragraph of each facility not less often than annually.
+&emsp;&emsp;The Secretary or State or local agency acting on behalf of the Secretary shall conduct inspections under this paragraph of each facility not less often than annually, subject to paragraph (6).
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
 &emsp;The Secretary shall inspect annually a sufficient number of the facilities accredited by an accreditation body to provide the Secretary with a reasonable estimate of the performance of such body.
 
-#### (3) Inspection of facilities inspected by State agencies
+#### (3) Inspection of facilities inspected by State or local agencies
 
-&emsp;The Secretary shall inspect annually facilities inspected by State agencies acting on behalf of the Secretary to assure a reasonable performance by such State agencies.
+&emsp;The Secretary shall inspect annually facilities inspected by State or local agencies acting on behalf of the Secretary to assure a reasonable performance by such State or local agencies.
 
 #### (4) Timing
 
-&emsp;The Secretary, or State agency, may conduct inspections under paragraphs (1), (2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
+&emsp;The Secretary, or State or local agency, may conduct inspections under paragraphs (1), (2), and (3), during regular business hours or at a mutually agreeable time and after providing such notice as the Secretary may prescribe, except that the Secretary may waive such requirements if the continued performance of mammography at such facility threatens the public health.
 
 #### (5) Limited reinspection
 
 &emsp;Nothing in this section limits the authority of the Secretary to conduct limited reinspections of facilities found not to be in compliance with this section.
+
+#### (6) Demonstration program
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may establish a demonstration program under which inspections under paragraph (1) of selected facilities are conducted less frequently by the Secretary (or as applicable, by State or local agencies acting on behalf of the Secretary) than the interval specified in subparagraph (E) of such paragraph.
+
+#### (B) Requirements
+
+&emsp;&emsp;Any demonstration program under subparagraph (A) shall be carried out in accordance with the following:
+
+&emsp;&emsp;&emsp;(i) The program may not be implemented before April 1, 2001. Preparations for the program may be carried out prior to such date.
+
+&emsp;&emsp;&emsp;(ii) In carrying out the program, the Secretary may not select a facility for inclusion in the program unless the facility is substantially free of incidents of noncompliance with the standards under subsection (f) of this section. The Secretary may at any time provide that a facility will no longer be included in the program.
+
+&emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significant sample, subject to compliance with clause (ii).
+
+&emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected at such intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
 
 #### (h) Sanctions
 
@@ -358,19 +378,25 @@ As used in this section:
 
 &emsp;&emsp;(B) Payment for the cost of onsite monitoring.
 
-#### (2) Civil money penalties
+#### (2) Patient information
+
+&emsp;If the Secretary determines that the quality of mammography performed by a facility (whether or not certified pursuant to subsection (c) of this section) was so inconsistent with the quality standards established pursuant to subsection (f) of this section as to present a significant risk to individual or public health, the Secretary may require such facility to notify patients who received mammograms at such facility, and their referring physicians, of the deficiencies presenting such risk, the potential harm resulting, appropriate remedial measures, and such other relevant information as the Secretary may require.
+
+#### (3) Civil money penalties
 
 &emsp;The Secretary may assess civil money penalties in an amount not to exceed $10,000 for—
 
 &emsp;&emsp;(A) failure to obtain a certificate as required by subsection (b) of this section,
 
-&emsp;&emsp;(B) each failure by a facility to substantially comply with, or each day on which a facility fails to substantially comply with, the standards established under subsection (f) of this section or the requirements described in subclauses (I) through (III) of subsection (d)(1)(B)(ii) of this section, and
+&emsp;&emsp;(B) each failure by a facility to substantially comply with, or each day on which a facility fails to substantially comply with, the standards established under subsection (f) of this section or the requirements described in subclauses (I) through (III) of subsection (d)(1)(B)(ii) of this section,
 
-&emsp;&emsp;(C) each violation, or for each aiding and abetting in a violation of, any provision of, or regulation promulgated under, this section by an owner, operator, or any employee of a facility required to have a certificate.
+&emsp;&emsp;(C) each failure to notify a patient of risk as required by the Secretary pursuant to paragraph (2), and
 
-#### (3) Procedures
+&emsp;&emsp;(D) each violation, or for each aiding and abetting in a violation of, any provision of, or regulation promulgated under, this section by an owner, operator, or any employee of a facility required to have a certificate.
 
-&emsp;The Secretary shall develop and implement procedures with respect to when and how eachof the sanctions is to be imposed under paragraphs (1) and (2). Such procedures shall provide for notice to the owner or operator of the facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
+#### (4) Procedures
+
+&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the sanctions is to be imposed under paragraphs (1) through (3). Such procedures shall provide for notice to the owner or operator of the facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
 
 #### (i) Suspension and revocation
 
@@ -382,9 +408,9 @@ As used in this section:
 
 &emsp;&emsp;(B) has failed to comply with the requirements of subsection (d)(1)(B)(ii)(III) of this section or the standards established by the Secretary under subsection (f) of this section;
 
-&emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary for any record, information, report, or material that the Secretary concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
+&emsp;&emsp;(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e) of this section) for any record, information, report, or material that the Secretary\(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
 
-&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State officer or employee duly designated by the State, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
+&emsp;&emsp;(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
 
 &emsp;&emsp;(E) has violated or aided and abetted in the violation of any provision of, or regulation promulgated under, this section; or
 
@@ -394,11 +420,11 @@ As used in this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may suspend the certificate of the facility before holding a hearing required by paragraph (1) if the Secretary makes the finding described in paragraph (1) and determines that—
+&emsp;&emsp;The Secretary may suspend the certificate of the facility before holding a hearing required by paragraph (1) if the Secretary has reason to believe that the circumstance of the case will support one or more of the findings described in paragraph (1) and that—
 
-&emsp;&emsp;&emsp;(i) the failure of a facility to comply with the standards established by the Secretary under subsection (f) of this section presents a serious risk to human health; or
+&emsp;&emsp;&emsp;(i) the failure or violation was intentional; or
 
-&emsp;&emsp;&emsp;(ii) a facility has engaged in an action described in subparagraph (D) or (E) of paragraph (1).
+&emsp;&emsp;&emsp;(ii) the failure or violation presents a serious risk to human health.
 
 #### (B) Hearing
 
@@ -426,7 +452,7 @@ If the Secretary determines that—
 
 #### (2) Additional evidence
 
-&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order the additional evidence (and evidence in rebuttal of the additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may determine to be proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file themodified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of the original action of the Secretary with the return of the additional evidence.
+&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order the additional evidence (and evidence in rebuttal of the additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may determine to be proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file the modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of the original action of the Secretary with the return of the additional evidence.
 
 #### (3) Judgment of court
 
@@ -440,7 +466,7 @@ If the Secretary determines that—
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1996, and annually thereafter, the Secretary shall compile and make available to physicians and the general public information that the Secretary determines is useful in evaluating the performance of facilities, including a list of facilities—
+&emsp;Not later than October 1, 1996, and annually thereafter, the Secretary shall compile and make available to physicians and the generalpublic information that the Secretary determines is useful in evaluating the performance of facilities, including a list of facilities—
 
 &emsp;&emsp;(A) that have been convicted under Federal or State laws relating to fraud and abuse, false billings, or kickbacks;
 
@@ -610,7 +636,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (B) Effect of withdrawal
 
-&emsp;&emsp;If the Secretary withdraws the approval of a State under subparagraph (A), the certificate of any facility accredited by the State shall continue in effect until the expiration of a reasonable period, as determined by the Secretary, for such facility to obtain certification by the Secretary.
+&emsp;&emsp;If the Secretary withdraws the approval of a State under subparagraph (A), the certificate of any facility certified by the State shall continue in effect until the expiration of a reasonable period, as determined by the Secretary, for such facility to obtain certification by the Secretary.
 
 #### (r) Funding
 
@@ -634,17 +660,73 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 &emsp;There are authorized to be appropriated to carry out this section—
 
-&emsp;&emsp;(A) to award research grants under subsection (q) of this section, such sums as may be necessary for each of the fiscal years 1993 through 1997; and
+&emsp;&emsp;(A) to award research grants under subsection (p) of this section, such sums as may be necessary for each of the fiscal years 1993 through 2002; and
 
-&emsp;&emsp;(B) for the Secretary to carry out other activities which are not supported by fees authorized and collected under paragraph (1), such sums as may be necessary for fiscal year <sup>1</sup> 1993 through 1997.
+&emsp;&emsp;(B) for the Secretary to carry out other activities which are not supported by fees authorized and collected under paragraph (1), such sums as may be necessary for fiscal years 1993 through 2002.
 
-(July 1, 1944, ch. 373, title III, §354, as added Oct. 27, 1992, Pub. L. 102–539, §2, 106 Stat. 3547.)
+(July 1, 1944, ch. 373, title III, §354, as added Pub. L. 102–539, §2, Oct. 27, 1992, 106 Stat. 3547; amended Pub. L. 105–248, §§2–13, Oct. 9, 1998, 112 Stat. 1864–1867.)
 
 #### Prior Provisions
 
 A prior section 263b, act July 1, 1944, ch. 373, title III, §354, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1173; amended Nov. 28, 1990, Pub. L. 101–629, §19(a)(1)(B), 104 Stat. 4529; Aug. 13, 1993, Pub. L. 103–80, §4(a)(2), 107 Stat. 779, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 101–629, §19(a)(3), Nov. 28, 1990, 104 Stat. 4530.
 
 Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1174, and amended, which related to electronic product radiation control, were renumbered sections 531 to 542, respectively, of the Federal Food, Drug, and Cosmetic Act by Pub. L. 101–629, §19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and are classified to sections 360hh to 360ss, respectively, of Title 21, Food and Drugs.
+
+#### Amendments
+
+1998—Subsec. (a)(4). Pub. L. 105–248, §9(1), inserted “or local” after “State”.
+
+Subsec. (a)(8). Pub. L. 105–248, §4(b), added par. (8).
+
+Subsec. (d)(2)(B). Pub. L. 105–248, §3, substituted “part 498 of title 42, Code of Federal Regulations” for “42 C.F.R. 498 and in effect on October 27, 1992”.
+
+Subsec. (e)(1)(B)(i)(I), (II). Pub. L. 105–248, §4(a)(1), substituted “review physicians” for “practicing physicians”.
+
+Subsec. (e)(1)(B)(ii). Pub. L. 105–248, §4(a)(2), substituted “relationship” for “financial relationship”.
+
+Subsec. (f)(1)(G)(i). Pub. L. 105–248, §5, added cl. (i) and struck out former cl. (i) which read as follows: “a facility that performs any mammogram maintain the mammogram in the permanent medical records of the patient—
+
+&emsp;“(I) for a period of not less than 5 years, or not less than 10 years if no additional mammograms of such patient are performed at the facility, or longer if mandated by State law; or
+
+&emsp;“(II) until such time as the patient should request that the patient's medical records be forwarded to a medical institution or a physician of the patient;
+
+> whichever is longer; and”.
+
+Subsec. (f)(1)(G)(ii)(IV). Pub. L. 105–248, §6, added subcl. (IV) and struck out former subcl. (IV) which read as follows: “if such report is sent to the patient, the report shall include a summary written in terms easily understood by a lay person; and”.
+
+Subsec. (g)(1). Pub. L. 105–248, §9(1), inserted “or local” after “State” wherever appearing.
+
+Subsec. (g)(1)(A). Pub. L. 105–248, §7, in first sentence, struck out “certified” before “facilities” and inserted “the certification requirements under subsection (b) of this section and” after “compliance with”.
+
+Subsec. (g)(1)(E). Pub. L. 105–248, §8(1), inserted “, subject to paragraph (6)” before period at end.
+
+Subsec. (g)(3). Pub. L. 105–248, §9(1), (2), inserted “or local” after “State” in heading and in two places in text.
+
+Subsec. (g)(4). Pub. L. 105–248, §9(1), inserted “or local” after “State”.
+
+Subsec. (g)(6). Pub. L. 105–248, §8(2), added par. (6).
+
+Subsec. (h)(2). Pub. L. 105–248, §10(a), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (h)(3). Pub. L. 105–248, §10(a)(1), (b), redesignated par. (2) as (3), added subpar. (C), and redesignated former subpar. (C) as (D). Former par. (3) redesignated (4).
+
+Subsec. (h)(4). Pub. L. 105–248, §10(a)(1), (c), redesignated par. (3) as (4) and substituted “paragraphs (1) through (3)” for “paragraphs (1) and (2)”.
+
+Subsec. (i)(1)(C). Pub. L. 105–248, §11, inserted “(or of an accreditation body approved pursuant to subsection (e) of this section)” after “of the Secretary” and inserted “(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section)” after “that the Secretary”.
+
+Subsec. (i)(1)(D). Pub. L. 105–248, §9(3), inserted “or local” after “any State” and “or local agency” after “by the State”.
+
+Subsec. (i)(2)(A). Pub. L. 105–248, §12, substituted “has reason to believe that the circumstance of the case will support one or more of the findings described in paragraph (1) and that—” and cls. (i) and (ii) for “makes the finding described in paragraph (1) and determines that—
+
+&emsp;“(i) the failure of a facility to comply with the standards established by the Secretary under subsection (f) of this section presents a serious risk to human health; or
+
+&emsp;“(ii) a facility has engaged in an action described in subparagraph (D) or (E) of paragraph (1).”
+
+Subsec. (q)(4)(B). Pub. L. 105–248, §13, substituted “certified” for “accredited”.
+
+Subsec. (r)(2)(A). Pub. L. 105–248, §2, substituted “subsection (p)” for “subsection (q)” and “2002” for “1997”.
+
+Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted “fiscal years” for “fiscal year” and “2002” for “1997”.
 
 #### Change of Name
 
@@ -666,7 +748,7 @@ Pub. L. 103–183, title VII, §707, Dec. 14, 1993, 107 Stat. 2241, provided tha
 
 #### Study
 
-Section 3 of Pub. L. 102–539 directed Comptroller General of United States to conduct a study of the certification program authorized by this section to determine if the program has resulted in improvement of quality and accessibility of mammography services, and if the program has reduced the frequency of poor qualitymammography and improved early detection of breast cancer, with Comptroller General, not later than 3 years from Oct. 27, 1992, submit to Congress an interim report of results of study and, not later than 5 years from such date to submit a final report.
+Section 3 of Pub. L. 102–539 directed Comptroller General of United States to conduct a study of the certification program authorized by this section to determine if the program has resulted in improvement of quality and accessibility of mammography services, and if the program has reduced the frequency of poor quality mammography and improved early detection of breast cancer, with Comptroller General, not later than 3 years from Oct. 27, 1992, submit to Congress an interim report of results of study and, not later than 5 years from such date to submit a final report.
 
 #### Section Referred to in Other Sections
 

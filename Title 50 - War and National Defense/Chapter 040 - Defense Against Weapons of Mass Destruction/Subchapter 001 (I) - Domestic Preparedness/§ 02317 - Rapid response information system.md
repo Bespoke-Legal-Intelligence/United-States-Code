@@ -20,7 +20,7 @@ The Director of the Federal Emergency Management Agency, in consultation with th
 
 #### (e) Access to inventory and database
 
-The Director of the Federal Emergency Management Agency shall design and maintain a system to give Federal, State, and local officials access to the inventory listing and database maintained under this section in the event of an emergency involving weapons of mass destruction or to prepare and train to respond to such an emergency. The system shall include a secure but accessible emergency response hotline to access information and request assistance.
+The Director of the Federal Emergency Management Agency shall design and maintain a system to give Federal, State, and local officials access to the inventory listing and databasemaintained under this section in the event of an emergency involving weapons of mass destruction or to prepare and train to respond to such an emergency. The system shall include a secure but accessible emergency response hotline to access information and request assistance.
 
 (Pub. L. 104–201, div. A, title XIV, §1417, Sept. 23, 1996, 110 Stat. 2724.)
 

@@ -44,3 +44,7 @@ Definition.—In this section, the term “Executive agency” has the meaning g
 
 (Added Pub. L. 105–85, div. A, title III, §325(a), Nov. 18, 1997, 111 Stat. 1678.)
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

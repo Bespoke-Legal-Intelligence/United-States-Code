@@ -38,7 +38,7 @@
 
 &emsp;(ii) the initial term of which is for a period of less than five years but which contains an option to renew or extend the agreement for a period which, when added to the initial term (or any previous renewal or extension), is five years or longer.
 
-> Such term includes the extension or renewal of a lease or charter agreement if the term of theextension or renewal thereof is for a period of five years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of five years or longer.
+> Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of five years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of five years or longer.
 
 (B) In the case of an agreement under which the lessor first places the property in service under the agreement or the property has been in service for less than one year and there is allowable to the lessor or charterer an investment tax credit or depreciation for the property leased, chartered, or otherwise provided under the agreement under section 168 of the Internal Revenue Code of 1986 (unless the lessor or charterer has elected depreciation on a straightline method for such property), the term “long-term lease or charter” means a lease, charter, service contract, or conditional sale agreement—
 
@@ -50,7 +50,7 @@
 
 (2) For the purposes of this section, the United States shall be considered to have a substantial termination liability under a contract—
 
-&emsp;(A) if there is an agreement by the United States under the contract to pay an amount not less than the amount equal to 25 percent of the value of the vessel or aircraft under lease or charter, calculated on the basis of the present value of the termination liability of the United States under such charter or lease (as determined under regulations prescribed by the Secretary of Defense); or
+&emsp;(A) if there is an agreement by the United States under the contract to pay an amount not less than the amount equal to 25 percent of the value of the vessel or aircraft under lease or charter, calculated on the basis of the present value of the termination liability of the United States under such charter or lease\(as determined under regulations prescribed by the Secretary of Defense); or
 
 &emsp;(B) if (as determined under regulations prescribed by the Secretary of Defense) the sum of—
 
@@ -92,7 +92,11 @@ Subsec. (c)(2). Pub. L. 104–106, §1503(a)(21), struck out “pursuant to an a
 
 1984—Subsec. (c). Pub. L. 98–525, §1232(a)(1), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
 
-Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90days after the date of enactment of this section \[Sept. 24, 1983\].”
+Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90 days after the date of enactment of this section \[Sept. 24, 1983\].”
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date
 

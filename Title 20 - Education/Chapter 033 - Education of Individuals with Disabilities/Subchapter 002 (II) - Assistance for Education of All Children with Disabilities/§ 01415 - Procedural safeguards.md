@@ -140,7 +140,7 @@ The notice required by subsection (b)(3) of this section shall include—
 
 #### (1) In general
 
-&emsp;Whenever a complaint has been received under subsection (b)(6) or (k) of this section,the parents involved in such complaint shall have an opportunity for an impartial due process hearing, which shall be conducted by the State educational agency or by the local educational agency, as determined by State law or by the State educational agency.
+&emsp;Whenever a complaint has been received under subsection (b)(6) or (k) of this section, the parents involved in such complaint shall have an opportunity for an impartial due process hearing, which shall be conducted by the State educational agency or by the local educational agency, as determined by State law or by the State educational agency.
 
 #### (2) Disclosure of evaluations and recommendations
 
@@ -218,7 +218,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 &emsp;&emsp;(i) Attorneys’ fees may not be awarded and related costs may not be reimbursed in any action or proceeding under this section for services performed subsequent to the time of a written offer of settlement to a parent if—
 
-&emsp;&emsp;&emsp;(I) the offer is made within the time prescribed by Rule 68 of the Federal Rules ofCivil Procedure or, in the case of an administrative proceeding, at any time more than 10 days before the proceeding begins;
+&emsp;&emsp;&emsp;(I) the offer is made within the time prescribed by Rule 68 of the Federal Rules of Civil Procedure or, in the case of an administrative proceeding, at any time more than 10 days before the proceeding begins;
 
 &emsp;&emsp;&emsp;(II) the offer is not accepted within 10 days; and
 
@@ -246,7 +246,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (G) Exception to reduction in amount of attorneys’ fees
 
-&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if the court finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
+&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if thecourt finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
 
 #### (j) Maintenance of current educational placement
 
@@ -360,7 +360,7 @@ Except as provided in subsection (k)(7) of this section, during the pendency of 
 
 #### (A) In general
 
-&emsp;&emsp;When a parent requests a hearing regarding a disciplinary action described in paragraph (1)(A)(ii) or paragraph (2) to challenge the interim alternative educational setting or the manifestation determination, the child shall remain in the interim alternative educational setting pending the decision ofthe hearing officer or until the expiration of the time period provided for in paragraph (1)(A)(ii) or paragraph (2), whichever occurs first, unless the parent and the State or local educational agency agree otherwise.
+&emsp;&emsp;When a parent requests a hearing regarding a disciplinary action described in paragraph (1)(A)(ii) or paragraph (2) to challenge the interim alternative educational setting or the manifestation determination, the child shall remain in the interim alternative educational setting pending the decision of the hearing officer or until the expiration of the time period provided for in paragraph (1)(A)(ii) or paragraph (2), whichever occurs first, unless the parent and the State or local educational agency agree otherwise.
 
 #### (B) Current placement
 
@@ -420,7 +420,7 @@ Except as provided in subsection (k)(7) of this section, during the pendency of 
 
 &emsp;&emsp;&emsp;(i) means a controlled substance; but
 
-&emsp;&emsp;&emsp;(ii) does not include such a substance that is legally possessed or used under the supervision of a licensed health-care professional or that is legally possessed or used under any other authority under thatAct \[21 U.S.C. 801 et seq.\] or under any other provision of Federal law.
+&emsp;&emsp;&emsp;(ii) does not include such a substance that is legally possessed or used under the supervision of a licensed health-care professional or that is legally possessed or used under any other authority under that Act \[21 U.S.C. 801 et seq.\] or under any other provision of Federal law.
 
 #### (C) Substantial evidence
 
@@ -450,7 +450,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (2) Special rule
 
-&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
+&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures forappointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
 
 (Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88.)
 
@@ -470,5 +470,5 @@ A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 94–1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1411, 1412, 1413, 1414, 1418, 1419, 1439, 2328, 4304 of this title.
+This section is referred to in sections 1401, 1411, 1412, 1413, 1414, 1418, 1419, 1439, 1481, 1482, 4304 of this title.
 

@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [9801\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009801%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
 | [9802\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009802%20-%20%E2%80%9CCommunity%20development%20corporation%E2%80%9D%20defined.md) | “Community development corporation” defined. |
-| [9803\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009803%20-%20Source%20of%20funds.md) | Source of funds. |
+| [9803\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009803%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93285%2C%20title%20II%2C%20%C2%A7202%28b%29%281%29%2C%20Oct.%2027%2C%201998%2C%20112%20Stat.%202755.md) | Repealed. |
 | [9804\.](Subchapter%20001%20%28I%29%20-%20Community%20Economic%20Development/%C2%A7%2009804%20-%20Advisory%20Community%20Investment%20Board.md) | Advisory Community Investment Board. |
 | (a) | National Community Investment Board; functions, composition, etc. |
 | (b) | Function. |
@@ -76,7 +76,7 @@
 
 |  |  |
 | :--- | ---: |
-| [9831\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009831%20-%20Statement%20of%20purpose%20and%20policy.md) | Statement of purpose and policy. |
+| [9831\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009831%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
 | [9832\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009832%20-%20Definitions.md) | Definitions. |
 | [9833\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009833%20-%20Financial%20assistance%20for%20Head%20Start%20programs.md) | Financial assistance for Head Start programs. |
 | [9834\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009834%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -99,11 +99,12 @@
 | (b) | Definition. |
 | (c) | Priority. |
 | (d) | Designation; Head Start agency; qualified applicants. |
-| (e) | Appointment of interim grantee. |
+| (e) | Designation of agency on an interim basis. |
 | (f) | Involvement of parents and area residents in selection of agencies. |
+| (g) | Priority for nonprofit agencies and applicants with demonstrated capacity. |
 | [9836a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009836a%20-%20Quality%20standards%3B%20monitoring%20of%20Head%20Start%20agencies%20and%20programs.md) | Quality standards; monitoring of Head Start agencies and programs. |
 | (a) | Quality standards. |
-| (b) | Performance measures. |
+| (b) | Results-based performance measures. |
 | (c) | Monitoring of local agencies and programs. |
 | (d) | Corrective action; termination. |
 | (e) | Summaries of monitoring outcomes. |
@@ -112,6 +113,8 @@
 | (b) | Participation of parents in decisionmaking, implementation, etc. |
 | (c) | Coordination with other agencies. |
 | (d) | Transition coordination with schools. |
+| (e) | Assessment when hiring or evaluating classroom teachers. |
+| [9837a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009837a%20-%20Head%20Start%20transition.md) | Head Start transition. |
 | [9838\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009838%20-%20Submission%20of%20plans%20to%20chief%20executive%20officer.md) | Submission of plans to chief executive officer. |
 | [9839\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009839%20-%20Administrative%20requirements%20and%20standards.md) | Administrative requirements and standards. |
 | (a) | Employment practices, nonpartisanship, staff accountability, public access to information, etc. |
@@ -127,15 +130,14 @@
 | (b) | Establishment of fee schedule or charging of fees; payment by families willing and able to pay. |
 | (c) | Availability of more than one year of services; children eligible. |
 | (d) | Indian tribes. |
-| [9840a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009840a%20-%20Programs%20for%20families%20with%20infants%20and%20toddlers.md) | Programs for families with infants and toddlers. |
+| [9840a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009840a%20-%20Early%20Head%20Start%20programs%20for%20families%20with%20infants%20and%20toddlers.md) | Early Head Start programs for families with infants and toddlers. |
 | (a) | In general. |
 | (b) | Scope and design of programs. |
 | (c) | Persons eligible to participate. |
 | (d) | Eligible service providers. |
-| (e) | Time-limited priority for certain entities. |
-| (f) | Selection of other grant recipients. |
-| (g) | Distribution. |
-| (h) | Secretarial responsibilities. |
+| (e) | Selection of grant recipients. |
+| (f) | Distribution. |
+| (g) | Monitoring, training, technical assistance, and evaluation. |
 | [9841\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009841%20-%20Appeals%2C%20notice%2C%20hearing%2C%20and%20mediation%3B%20alternative%20agency%20for%20Indian%20tribe.md) | Appeals, notice, hearing, and mediation; alternative agency for Indian tribe. |
 | (a) | Notice requirements; suspension or termination of assistance stayed pending hearing; mediation. |
 | (b) | Notification of conflict by Head Start agency to regional office. |
@@ -162,8 +164,12 @@
 | (d) | Specific objectives. |
 | (e) | Longitudinal studies. |
 | (f) | Ownership of results. |
+| (g) | National Head Start impact research. |
+| (h) | Quality improvement study. |
 | [9845\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009845%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93252%2C%20title%20I%2C%20%C2%A7117%2C%20May%2018%2C%201994%2C%20108%20Stat.%20648.md) | Repealed. |
 | [9846\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009846%20-%20Reports.md) | Reports. |
+| (a) | Status of children. |
+| (b) | Facilities. |
 | 9846a, 9847. Repealed. |  |
 | [9848\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009848%20-%20Comparability%20of%20wages.md) | Comparability of wages. |
 | [9849\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009849%20-%20Nondiscrimination%20provisions.md) | Nondiscrimination provisions. |
@@ -173,40 +179,15 @@
 | [9850\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009850%20-%20Limitation%20with%20respect%20to%20certain%20unlawful%20activities.md) | Limitation with respect to certain unlawful activities. |
 | [9851\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009851%20-%20Political%20activities.md) | Political activities. |
 | [9852\.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852%20-%20Advance%20funding.md) | Advance funding. |
-| [9852a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852a%20-%20Consultation%20with%20Corporation%20for%20National%20and%20Community%20Service.md) | Consultation with Corporation for National and Community Service. |
+| [9852a.](Subchapter%20002%20%28II%29%20-%20Head%20Start%20Programs/%C2%A7%2009852a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93285%2C%20title%20I%2C%20%C2%A7118%2C%20Oct.%2027%2C%201998%2C%20112%20Stat.%202727.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER II–A—HEAD START TRANSITION PROJECT
 
-|  |  |
-| :--- | ---: |
-| [9855\.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855%20-%20Definitions.md) | Definitions. |
-| [9855a.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855a%20-%20Head%20Start%20transition%20grants.md) | Head Start transition grants. |
-| (a) | In general. |
-| (b) | Term of grant. |
-| [9855b.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855b%20-%20Eligibility.md) | Eligibility. |
-| (a) | Head Start agency. |
-| (b) | Local educational agency. |
-| (c) | Cooperating agency. |
-| (d) | Follow Through grantees. |
-| [9855c.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855c%20-%20Requirements.md) | Requirements. |
-| (a) | In general. |
-| (b) | Special rule. |
-| (c) | Consideration. |
-| (d) | Priority. |
-| [9855d.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855d%20-%20Application.md) | Application. |
-| (a) | In general. |
-| (b) | Special rule. |
-| [9855e.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855e%20-%20Evaluation%20and%20report.md) | Evaluation and report. |
-| (a) | Evaluation. |
-| (b) | Local evaluation and information. |
-| (c) | Report. |
-| [9855f.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855f%20-%20Payments%3B%20Federal%20share.md) | Payments; Federal share. |
-| (a) | Payments. |
-| (b) | Federal share. |
-| (c) | Supplementation of funding. |
-| [9855g.](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20Head%20Start%20Transition%20Project/%C2%A7%2009855g%20-%20Coordination%20with%20Follow%20Through.md) | Coordination with Follow Through. |
+|  |
+| :--- |
+| 9855 to 9855g. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

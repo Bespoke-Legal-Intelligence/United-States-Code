@@ -4,7 +4,7 @@
 
 (b) Special commissions may be established to study and make recommendations to the Foundation on issues relating to research and education in science and engineering.
 
-(May 10, 1950, ch. 171, §9, 64 Stat. 152; July 18, 1968, Pub. L. 90–407, §7, 82 Stat. 364; Nov. 22, 1985, Pub. L. 99–159, title I, §109(d), 99 Stat. 889.)
+(May 10, 1950, ch. 171, §9, 64 Stat. 152; Pub. L. 90–407, §7, July 18, 1968, 82 Stat. 364; Pub. L. 99–159, title I, §109(d), Nov. 22, 1985, 99 Stat. 889.)
 
 #### Amendments
 

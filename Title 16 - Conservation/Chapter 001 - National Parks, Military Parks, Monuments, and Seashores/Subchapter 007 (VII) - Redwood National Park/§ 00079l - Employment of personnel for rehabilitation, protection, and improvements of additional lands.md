@@ -1,12 +1,12 @@
 ### §79<i>l</i>. Employment of personnel for rehabilitation, protection, and improvements of additional lands
 
-#### (a) Appointment and compensation of personnel for implementation of protection and enhancement programs; preferential hiring requirements
+#### (a) Appointment and compensation of personnel for implementation of protection and enhancement programs
 
-In order to utilize the skills of individuals presently working in the woods and in the mills to the greatest degree possible to both ease the personal economic effects of this taking, and to assist in the necessary rehabilitation, protection, and improvement of lands acquired by this Act through implementation of sound rehabilitation and land use practices, the Secretary shall have power to appoint and fix the compensation of seven full-time and thirty-one temporary personnel to assist in carrying out such programs necessary for the protection and enhancement of Redwood National Park. In filling these positions, preference shall be given to affected employees (as defined in title II of this Act) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.
+In order to utilize the skills of individuals presently working in the woods and in the mills to the greatest degree possible to both ease the personal economic effects of this taking, and to assist in the necessary rehabilitation, protection, and improvement of lands acquired by this Act through implementation of sound rehabilitation and land use practices, the Secretary shall have power to appoint and fix the compensation of seven full-time and thirty-one temporary personnel to assist in carrying out such programs necessary for the protection and enhancement of Redwood National Park.
 
-#### (b) Appointment and compensation of personnel for administration of expanded Park; preferential hiring requirements; appointment, etc., of additional personnel
+#### (b) Appointment and compensation of personnel for administration of expanded Park; appointment, etc., of additional personnel
 
-In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation of those park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed six years from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
+In order to effectively administer the expanded Redwood National Park created by this Act in a manner that will provide maximum protection to its resources and to provide for maximum visitor use and enjoyment to ease the local economic effects of this taking, the Secretary shall have power to appoint and fix the compensation of two full-time and twenty temporary employees in the competitive service. The Secretary shall further have power to appoint and fix the compensation of an additional thirty-two full-time and forty temporary employees in the competitive service as provided by this subsection at the time of the donation of those park lands or interests in land owned by the State of California as are within the boundaries of Redwood National Park as provided herein. In filling these positions, preference shall be given to those State employees affected by this transfer for a period not to exceed sixyears from the date of transfer; permanent State civil service employees shall be provided the opportunity to transfer to a comparable Federal civil service classification notwithstanding applicable civil service laws and regulations.
 
 #### (c) Job positions subject to preferential treatment for affected employees
 
@@ -64,21 +64,23 @@ An employee, a group of employees, a certified or recognized union, or an author
 
 Nothing in this section shall be construed to affect any additional or alternative rights under a law, regulation, or contract (including, but not limited to, veteran preference and contracts between private employers and unions) in effect as of March 27, 1978, and the implementation of this section shall be carried out in accord with applicable civil service laws and regulations except as otherwise provided for in this section. Employees appointed to Federal jobs pursuant to this section shall have their compensation fixed at rates not to exceed that now or hereafter prescribed for the highest rate of grade 15 of the General Schedule under section 5332 of title 5.
 
-(Pub. L. 95–250, title I, §103, Mar. 27, 1978, 92 Stat. 167; Pub. L. 96–417, title VI, §602, Oct. 10, 1980, 94 Stat. 1744.)
+(Pub. L. 95–250, title I, §103, Mar. 27, 1978, 92 Stat. 167; Pub. L. 96–417, title VI, §602, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (a), (b), (g)(3)(B), and (h), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended sections 1a–1, 79b, and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
 
-Title II of this Act, referred to in subsecs. (a) and (b), is title II of Pub. L. 95–250, and was not classified to the Code.
-
-The civil service laws, referred to in subsecs. (a) and (b), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+The civil service laws, referred to in subsec. (b), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 #### Codification
 
 Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which comprises this subchapter.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(1)\], struck out at end “In filling these positions, preference shall be given to affected employees (as defined in title II of this Act) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
+
+Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(2)\], struck out after first sentence “In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations.”
 
 1980—Subsec. (h). Pub. L. 96–417 substituted provision for judicial review under section 2395 of title 19 for review under section 2322 of title 19 and provided for review in the appropriate court of appeals of the United States and for review of the judgment of the court of appeals by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -88,7 +90,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception
 
-Reference to Secretary, unless otherwise indicated, as reference to Secretary of Department of the Interior, except for purposes of subsecs. (d) to (i) of this section,where reference to Secretary shall refer to Secretary of the Department of Labor, see section 109 of Pub. L. 95–250, set out as a note under section 79k of this title.
+Reference to Secretary, unless otherwise indicated, as reference to Secretary of Department of the Interior,except for purposes of subsecs. (d) to (i) of this section, where reference to Secretary shall refer to Secretary of the Department of Labor, see section 109 of Pub. L. 95–250, set out as a note under section 79k of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “filling”.</i>
 

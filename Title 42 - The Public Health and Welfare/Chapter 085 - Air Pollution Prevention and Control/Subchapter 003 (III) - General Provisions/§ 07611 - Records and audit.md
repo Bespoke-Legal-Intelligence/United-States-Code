@@ -2,13 +2,13 @@
 
 #### (a) Recipients of assistance to keep prescribed records
 
-Each recipient of assistance under this chapter shall keep such records as the Administratorshall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of assistance under this chapter shall keep such records as the Administrator shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (b) Audits
 
 The Administrator and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examinations to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this chapter.
 
-(July 14, 1955, ch. 360, title III, §311, formerly §11, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401; renumbered §304, Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §311 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713.)
+(July 14, 1955, ch. 360, title III, §311, formerly §11, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 401; renumbered §304, Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 505; renumbered §311 and amended Pub. L. 91–604, §§12(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1705, 1713.)
 
 #### Codification
 

@@ -32,7 +32,7 @@ For purposes of this section—
 
 &emsp;(2) the term “foreign state” shall have the meaning given it in section 1603(a) of title 28.
 
-(Oct. 15, 1914, ch. 323, §4, 38 Stat. 731; Sept. 12, 1980, Pub. L. 96–349, §4(a)(1), 94 Stat. 1156; Dec. 29, 1982, Pub. L. 97–393, 96 Stat. 1964.)
+(Oct. 15, 1914, ch. 323, §4, 38 Stat. 731; Pub. L. 96–349, §4(a)(1), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 97–393, Dec. 29, 1982, 96 Stat. 1964.)
 
 #### References in Text
 

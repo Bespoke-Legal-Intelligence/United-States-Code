@@ -38,7 +38,7 @@ Not later than the expiration of the 30-day period beginning on October 28, 1992
 
 #### (f) Fund
 
-There is established in the Treasury of the United States a fund to be known as the FederalHousing Enterprises Oversight Fund. Any assessments collected pursuant to this section shall be deposited in the Fund. Amounts in the Fund shall be available, to the extent provided in appropriation Acts and subsection (e) of this section, for—
+There is established in the Treasury of the United States a fund to be known as the Federal Housing Enterprises Oversight Fund. Any assessments collected pursuant to this section shall be deposited in the Fund. Amounts in the Fund shall be available, to the extent provided in appropriation Acts and subsection (e) of this section, for—
 
 &emsp;(1) carrying out the responsibilities of the Director relating to the enterprises; and
 

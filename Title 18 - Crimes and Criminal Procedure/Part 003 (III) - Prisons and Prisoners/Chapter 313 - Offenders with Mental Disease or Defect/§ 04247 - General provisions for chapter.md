@@ -54,7 +54,7 @@ Periodic Report and Information Requirements.—(1) The director of the facility
 
 &emsp;(A) section 4241 shall prepare semiannual reports; or
 
-&emsp;(B) section 4243, 4244, 4245, or 4246 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued hospitalization. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies ofthe reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
+&emsp;(B) section 4243, 4244, 4245, or 4246 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued hospitalization. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies of the reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
 
 (2) The director of the facility in which a person is hospitalized pursuant to section 4241, 4243, 4244, 4245, or 4246 shall inform such person of any rehabilitation programs that are available for persons hospitalized in that facility.
 
@@ -84,7 +84,7 @@ Authority and Responsibility of the Attorney General.—The Attorney General—
 
 (j) Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
 
-(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2065; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7044, 7047(a), 102 Stat. 4400, 4401; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330003(d), 108 Stat. 2141; Aug. 5, 1997, Pub. L. 105–33, title XI, §11204(2), (3), 111 Stat. 739.)
+(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, §330003(d), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 105–33, title XI, §11204(2), (3), Aug. 5, 1997, 111 Stat. 739.)
 
 #### References in Text
 

@@ -70,7 +70,7 @@ In making a determination under subsection (a)(1)(A) of this section of the heal
 
 &emsp;(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
 
-&emsp;(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.
+&emsp;(B) In the case of individuals with respect to whom a period of obligated service under theScholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.
 
 #### (3) Revisions in list
 
@@ -108,7 +108,7 @@ In making a determination under subsection (a)(1)(A) of this section of the heal
 
 &emsp;A list under subsection (d)(1) of this section shall be prepared for each of the periods decribed <sup>1</sup> in paragraph (1). Each such list shall be prepared not later than the date on which a determination of priorities under such paragraph is required to be made for the period involved.
 
-(July 1, 1944, ch. 373, title III, §333A, as added and amended Nov. 16, 1990, Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], 104 Stat. 3015, 3035.)
+(July 1, 1944, ch. 373, title III, §333A, as added and amended Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035.)
 
 #### Amendments
 
@@ -116,7 +116,7 @@ In making a determination under subsection (a)(1)(A) of this section of the heal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254q–1 of this title.
+This section is referred to in sections 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254q–1, 11709 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “described”.</i>
 

@@ -22,7 +22,7 @@ Prior to—
 
 > the Administrator shall, to the maximum extent practicable within the time provided, consult with appropriate advisory committees, independence experts, and Federal departments and agencies.
 
-(July 14, 1955, ch. 360, title I, §117 formerly §6, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 399; renumbered §106, Oct. 20, 1965, Pub. L. 89–272, title I, §101(3), 79 Stat. 992; renumbered §110 and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 498; renumbered §117 and amended Dec. 31, 1970, Pub. L. 91–604, §§4(a), (d), 15(c)(2), 84 Stat. 1678, 1689, 1713; Aug. 7, 1977, Pub. L. 95–95, title I, §115, 91 Stat. 711; Nov. 9, 1978, Pub. L. 95–623, §13(c), 92 Stat. 3458.)
+(July 14, 1955, ch. 360, title I, §117 formerly §6, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 399; renumbered §106, Pub. L. 89–272, title I, §101(3), Oct. 20, 1965, 79 Stat. 992; renumbered §110 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 498; renumbered §117 and amended Pub. L. 91–604, §§4(a), (d), 15(c)(2), Dec. 31, 1970, 84 Stat. 1678, 1689, 1713; Pub. L. 95–95, title I, §115, Aug. 7, 1977, 91 Stat. 711; Pub. L. 95–623, §13(c), Nov. 9, 1978, 92 Stat. 3458.)
 
 #### References in Text
 

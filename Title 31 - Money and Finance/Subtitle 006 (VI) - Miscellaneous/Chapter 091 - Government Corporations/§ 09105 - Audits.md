@@ -110,7 +110,7 @@ Pub. L. 100–233 added par. (4).
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1993 Amendment
 
@@ -122,9 +122,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Deposit of Funds Reimbursed to Comptroller General to Appropriation of General Accounting Office
 
-Pub. L. 105–55, title II, Oct. 7, 1997, 111 Stat. 1196, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended”.
+Pub. L. 105–275, title II, Oct. 21, 1998, 112 Stat. 2450, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–55, title II, Oct. 7, 1997, 111 Stat. 1196.
 
 Pub. L. 104–197, title II, Sept. 16, 1996, 110 Stat. 2411.
 

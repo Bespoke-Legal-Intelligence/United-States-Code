@@ -28,7 +28,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (1) In general
 
-&emsp;A State that has submitted an application in accordance with subsection (b) of this section, may establish a medicare rural hospital flexibility program that provides that—
+&emsp;A State that has submitted an application in accordance with subsection (b) of this section,may establish a medicare rural hospital flexibility program that provides that—
 
 &emsp;&emsp;(A) the State shall develop at least 1 rural health network (as defined in subsection (d) of this section) in the State; and
 
@@ -158,7 +158,7 @@ The Secretary is authorized to waive such provisions of this part and part D of 
 
 There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(1)(A), 103 Stat. 2145; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), 104 Stat. 1388–44, 1388–45, 1388–53; Oct. 31, 1994, Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), 108 Stat. 4401–4404; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), 111 Stat. 329, 369.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369.)
 
 #### References in Text
 
@@ -174,7 +174,7 @@ Subsec. (j). Pub. L. 105–33, §4002(f)(1), substituted “part D” for “par
 
 Subsec. (e)(1). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “is located in a rural area (as defined in section 1395ww(d)(2)(D) of this title);”.
 
-Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted “except in the case of a hospital located in anurban area, is located” for “is located” in introductory provisions, substituted “or (ii)” for “, (ii)”, and struck out “or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section,” after “section 1395ww(d)(5)(C) of this title,”.
+Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted “except in the case of a hospital located in an urban area, is located” for “is located” in introductory provisions, substituted “or (ii)” for “, (ii)”, and struck out “or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section,” after “section 1395ww(d)(5)(C) of this title,”.
 
 Subsec. (e)(2) to (6). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated pars. (2) to (6) as (1) to (5), respectively.
 
@@ -182,7 +182,7 @@ Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in section 1395x(r)(1) of this title”.
 
-Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
+Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is ineffect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
 
 Subsec. (f)(4). Pub. L. 103–432, §102(a)(2), added par. (4).
 

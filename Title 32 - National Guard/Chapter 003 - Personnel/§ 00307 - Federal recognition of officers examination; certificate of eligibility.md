@@ -134,5 +134,5 @@ Transfer of officers from Army National Guard of United States and Air Force Nat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 111, 308, 310 of this title; title 10 sections 14301, 14308, 14316.
+This section is referred to in sections 111, 308, 310 of this title; title 10 sections 1370, 14301, 14308, 14316.
 

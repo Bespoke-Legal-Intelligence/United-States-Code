@@ -40,7 +40,7 @@ In reviewing potential projects, the Secretary shall consider criteria including
 
 &emsp;(B) provides time schedules for submission of, and action on, proposal requests for the purposes of implementing the goals and objectives of this chapter.
 
-(2) Such regulations also shall specify the types and form of the information, data, andsupport documentation that are to be contained in proposals for each form of Federal assistance or participation set forth in section 5906(a) of this title: <i>Provided</i>, That such proposals to the extent possible shall include, but not be limited to—
+(2) Such regulations also shall specify the types and form of the information, data, and support documentation that are to be contained in proposals for each form of Federal assistance or participation set forth in section 5906(a) of this title: <i>Provided</i>, That such proposals to the extent possible shall include, but not be limited to—
 
 &emsp;(A) specification of the technology;
 

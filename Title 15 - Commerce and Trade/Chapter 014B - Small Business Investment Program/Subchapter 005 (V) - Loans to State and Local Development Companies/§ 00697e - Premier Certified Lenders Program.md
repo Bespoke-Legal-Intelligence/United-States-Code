@@ -28,7 +28,7 @@ On a pilot program basis, the Administration may establish a Premier Certified L
 
 #### (3) Applicability of criteria after designation
 
-&emsp;The Administrator may revoke the designation of a certified development company as a premier certified lender under this section at any time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
+&emsp;The Administrator may revoke the designation of a certified development company as apremier certified lender under this section at any time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
 
 #### (c) Loss reserve
 
@@ -72,7 +72,7 @@ On a pilot program basis, the Administration may establish a Premier Certified L
 
 #### (1) In general
 
-&emsp;Notwithstanding section 697(b)(6) of this title, and subject to such terms and conditions as the Administration may establish, the Administration may permit a company designated as a premier certified lender under this section to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any suchlitigation to which a premier certified lender is a party), and liquidate loans that are funded with the proceeds of a debenture issued by such company and may authorize the guarantee of such debenture.
+&emsp;Notwithstanding section 697(b)(6) of this title, and subject to such terms and conditions as the Administration may establish, the Administration may permit a company designated as a premier certified lender under this section to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans that are funded with the proceeds of a debenture issued by such company and may authorize the guarantee of such debenture.
 
 #### (2) Scope of review
 
@@ -110,7 +110,7 @@ Not later than 1 year after October 22, 1994, and annually thereafter, the Admin
 
 &emsp;(2) the debenture guarantee volume of such companies;
 
-&emsp;(3) a comparison of the loss rate for premier certified lenders to the loss rate for accredited and other lenders, specifically comparing default rates and recovery rates on liquidations; and
+&emsp;(3) a comparison of the loss rate for premier certified lenders to the loss rate for accreditedand other lenders, specifically comparing default rates and recovery rates on liquidations; and
 
 &emsp;(4) such other information as the Administration deems appropriate.
 

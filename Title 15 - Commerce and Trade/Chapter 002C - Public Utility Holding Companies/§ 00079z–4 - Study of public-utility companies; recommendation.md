@@ -2,7 +2,7 @@
 
 The Commission is hereby authorized and directed to make studies and investigations of public-utility companies, the territories served or which can be served by public-utility companies, and the manner in which the same are or can be served, to determine the sizes, types, and locations of public-utility companies which do or can operate most economically and efficiently in the public interest, in the interest of investors and consumers, and in furtherance of a wider and more economical use of gas and electric energy; upon the basis of such investigations and studies the Commission shall make public from time to time its recommendations as to the type and size of geographically and economically integrated public-utility systems which, having regard for the nature and character of the locality served, can best promote and harmonize the interests of the public, the investor, and the consumer.
 
-(Aug. 26, 1935, ch. 687, title I, §30, 49 Stat. 837; Dec. 4, 1987, Pub. L. 100–181, title IV, §405, 101 Stat. 1260.)
+(Aug. 26, 1935, ch. 687, title I, §30, 49 Stat. 837; Pub. L. 100–181, title IV, §405, Dec. 4, 1987, 101 Stat. 1260.)
 
 #### Amendments
 

@@ -90,8 +90,7 @@
 | [2136\.](Subchapter%20001%20%28I%29%20-%20Negotiating%20and%20Other%20Authority/Part%20002%20-%20Other%20Authority/%C2%A7%2002136%20-%20Reciprocal%20nondiscriminatory%20treatment.md) | Reciprocal nondiscriminatory treatment. |
 | (a) | Direct and indirect imports. |
 | (b) | Presidential determination of whether major industrial countries have made substantially equivalent concessions to the United States. |
-| (c) | Recommendations to Congress for legislation following a Presidential determination that a major industrial country has failed to grant equivalent concessions. |
-| (d) | Major industrial countries. |
+| (c) | Major industrial countries. |
 | [2137\.](Subchapter%20001%20%28I%29%20-%20Negotiating%20and%20Other%20Authority/Part%20002%20-%20Other%20Authority/%C2%A7%2002137%20-%20Reservation%20of%20articles%20for%20national%20security%20or%20other%20reasons.md) | Reservation of articles for national security or other reasons. |
 | (a) | National security considerations. |
 | (b) | Action taken under other laws. |
@@ -213,6 +212,7 @@
 | (a) | National trade estimates. |
 | (b) | Reports. |
 | (c) | Assistance of other agencies. |
+| (d) | Electronic commerce. |
 | [2242\.](Subchapter%20001%20%28I%29%20-%20Negotiating%20and%20Other%20Authority/Part%20008%20-%20Identification%20of%20Market%20Barriers%20and%20Certain%20Unfair%20Trade%20Actions/%C2%A7%2002242%20-%20Identification%20of%20countries%20that%20deny%20adequate%20protection%2C%20or%20market%20access%2C%20for%20intellectual%20property%20rights.md) | Identification of countries that deny adequate protection, or market access, for intellectual property rights. |
 | (a) | In general. |
 | (b) | Special rules for identifications. |
@@ -332,6 +332,7 @@ I74subpart a—petitions and determinations
 | (d) | Review. |
 | (e) | Coordination of benefits and assistance. |
 | (f) | Advising and interviewing adversely affected workers. |
+| (g) | Submission of information for coordination of workforce investment activities. |
 | [2312\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002312%20-%20Administration%20absent%20State%20agreement.md) | Administration absent State agreement. |
 | (a) | Promulgation of regulations; fair hearing. |
 | (b) | Review of final determination. |
@@ -538,7 +539,7 @@ I74subpart a—petitions and determinations
 | :--- | ---: |
 | [2431\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002431%20-%20Exception%20of%20products%20of%20certain%20countries%20or%20areas.md) | Exception of products of certain countries or areas. |
 | [2432\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002432%20-%20Freedom%20of%20emigration%20in%20East-West%20trade.md) | Freedom of emigration in East-West trade. |
-| (a) | Actions of nonmarket economy countries making them ineligible for most-favored-nation treatment, programs of credits, credit guarantees, or investment guarantees, or commercial agreements. |
+| (a) | Actions of nonmarket economy countries making them ineligible for normal trade relations, programs of credits, credit guarantees, or investment guarantees, or commercial agreements. |
 | (b) | Presidential determination and report to Congress that nation is not violating freedom of emigration. |
 | (c) | Waiver authority of President. |
 | (d) | Extension of waiver authority. |
@@ -572,11 +573,7 @@ I74subpart a—petitions and determinations
 | (b) | Report to Congress concerning emigration policies. |
 | (c) | Exemption from application of section. |
 | (d) | Additional exemption from application of section. |
-| [2440\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002440%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93295%2C%20%C2%A717%2C%20Oct.%2011%2C%201996%2C%20110%20Stat.%203524.md) | Repealed. |
-| [2441\.](Subchapter%20004%20%28IV%29%20-%20Trade%20Relations%20with%20Countries%20Not%20Currently%20Receiving%20Nondiscriminatory%20Treatment/%C2%A7%2002441%20-%20East-West%20Foreign%20Trade%20Board.md) | East-West Foreign Trade Board. |
-| (a) | Establishment; purpose. |
-| (b) | Reports to Board. |
-| (c) | Report to Congress. |
+| 2440, 2441. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

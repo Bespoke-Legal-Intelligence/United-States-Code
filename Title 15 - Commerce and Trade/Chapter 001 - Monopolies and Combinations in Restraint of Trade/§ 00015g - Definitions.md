@@ -12,7 +12,7 @@ For the purposes of sections 15c, 15d, 15e, and 15f of this title:
 
 &emsp;(3) The term “natural persons” does not include proprietorships or partnerships.
 
-(Oct. 15, 1914, ch. 323, §4G, as added Sept. 30, 1976, Pub. L. 94–435, title III, §301, 90 Stat. 1396.)
+(Oct. 15, 1914, ch. 323, §4G, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1396.)
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ The Administrator shall establish procedures to provide all Federal agencies wit
 
 #### (c) Federal agency contracts
 
-In order to implement the purposes and policy of this chapter to protect and enhance the quality of the Nation's air, the President shall, not more than 180 days after December 31, 1970, cause to be issued an order (1) requiring each Federal agency authorized to enter into contracts and each Federal agency which is empowered to extend Federal assistance by way of grant, loan, or contract to effectuate the purpose and policy of this chapter in such contracting or assistance activities, and (2) setting forth procedures, sanctions, penalties, and such other provisions, as the President determines necessary to carry out such requirement.
+In order to implement the purposes and policy of this chapter to protect and enhance the quality of the Nation's air, the President shall, not more than 180 days after December 31, 1970, cause to be issued an order (1) requiring each Federal agency authorized to enter into contracts and each Federal agency which is empowered to extend Federal assistance by way ofgrant, loan, or contract to effectuate the purpose and policy of this chapter in such contracting or assistance activities, and (2) setting forth procedures, sanctions, penalties, and such other provisions, as the President determines necessary to carry out such requirement.
 
 #### (d) Exemptions; notification to Congress
 
@@ -20,7 +20,7 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 
 The President shall annually report to the Congress on measures taken toward implementing the purpose and intent of this section, including but not limited to the progress and problems associated with implementation of this section.
 
-(July 14, 1955, ch. 360, title III, §306, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1707; amended Nov. 15, 1990, Pub. L. 101–549, title VII, §705, 104 Stat. 2682.)
+(July 14, 1955, ch. 360, title III, §306, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1707; amended Pub. L. 101–549, title VII, §705, Nov. 15, 1990, 104 Stat. 2682.)
 
 #### Codification
 
@@ -48,7 +48,7 @@ Ex. Ord. No. 11602, June 29, 1971, 36 F.R. 12475, which related to the administr
 
 Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, provided:
 
-By virtue of the authority vested in me by the provisions of the Clean Air Act, as amended (42 U.S.C. 1857 et seq.) \[42 U.S.C. 7401 et seq.\], particularly section 306 of that Act as added by the Clean Air Amendments of 1970 (Public Law 91–604) \[this section\], and the FederalWater Pollution Control Act (33 U.S.C. 1251 et seq.), particularly section 508 of that Act as added by the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500) \[33 U.S.C. 1368\], it is hereby ordered as follows:
+By virtue of the authority vested in me by the provisions of the Clean Air Act, as amended (42 U.S.C. 1857 et seq.) \[42 U.S.C. 7401 et seq.\], particularly section 306 of that Act as added by the Clean Air Amendments of 1970 (Public Law 91–604) \[this section\], and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), particularly section 508 of that Act as added by the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500) \[33 U.S.C. 1368\], it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It is the policy of the Federal Government to improve and enhance environmental quality. In furtherance of that policy, the program prescribed in this Order is instituted to assure that each Federal agency empowered to enter into contracts for the procurement of goods, materials, or services and each Federal agency empowered to extend Federal assistance by way of grant, loan, or contract shall undertake such procurement and assistance activities in a manner that will result in effective enforcement of the Clean Air Act \[this chapter\] (hereinafter referred to as “the Air Act”) and the Federal Water Pollution Control Act (hereinafter referred to as “the Water Act”) \[33 U.S.C. 1251 et seq.\].
 
@@ -62,7 +62,7 @@ Sec. 3. <i>Contracts, Grants, or Loans</i>. (a) Except as provided in section 8 
 
 Sec. 4. <i>Procurement, Grant, and Loan Regulations</i>. The Federal Procurement Regulations, the Armed Services Procurement Regulations, and to the extent necessary, any supplemental or comparable regulations issued by any agency of the Executive Branch shall, following consultation with the Administrator, be amended to require, as a condition of entering into, renewing, or extending any contract for the procurement of goods, materials, or services or extending any assistance by way of grant, loan, or contract, inclusion of a provision requiring compliance with the Air Act, the Water Act, and standards issued pursuant thereto in the facilities in which the contract is to be performed, or which are involved in the activity or program to receive assistance.
 
-Sec. 5. <i>Rules and Regulations</i>. The Administrator shall issue such rules, regulations, standards, and guidelines as he may deem necessary or appropriate to carry out the purposes of this Order.
+Sec. 5. <i>Rules and Regulations</i>. The Administrator shall issue such rules, regulations, standards, and guidelinesas he may deem necessary or appropriate to carry out the purposes of this Order.
 
 Sec. 6. <i>Cooperation and Assistance</i>. The head of each Federal agency shall take such steps as may be necessary to insure that all officers and employees of this agency whose duties entail compliance or comparable functions with respect to contracts, grants, and loans are familiar with the provisions of this Order. In addition to any other appropriate action, such officers and employees shall report promptly any condition in a facility which may involve noncompliance with the Air Act or the Water Act or any rules, regulations, standards, or guidelines issued pursuant to this Order to the head of the agency, who shall transmit such reports to the Administrator.
 

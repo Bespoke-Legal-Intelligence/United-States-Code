@@ -2,7 +2,7 @@
 
 The Secretary is authorized to confer or impose upon the Commandant any of the rights, privileges, powers, or duties, in respect to the administration of the Coast Guard, vested in or imposed upon the Secretary by this title or other provisions of law.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 544; Oct. 18, 1976, Pub. L. 94–546, §1(33), 90 Stat. 2521.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 544; Pub. L. 94–546, §1(33), Oct. 18, 1976, 90 Stat. 2521.)
 
 #### Historical and Revision Notes
 

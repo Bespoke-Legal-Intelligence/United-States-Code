@@ -1,0 +1,32 @@
+### §152301. Organization
+
+(a)
+
+Federal Charter.—National Music Council (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b)
+
+Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1412.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+152301D36:661.DAug. 1, 1956, ch. 824, §§1, 2, 19, 70 Stat. 794, 797.
+
+&nbsp;
+
+36:662.
+
+36:679.
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
+

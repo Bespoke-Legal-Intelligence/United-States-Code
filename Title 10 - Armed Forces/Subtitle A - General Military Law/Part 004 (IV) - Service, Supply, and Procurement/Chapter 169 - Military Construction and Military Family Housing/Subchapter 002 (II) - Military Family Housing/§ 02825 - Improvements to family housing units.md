@@ -28,7 +28,7 @@
 
 &emsp;(C) the Secretary submits to the committees referred to in subsection (b)(1) a notice containing—
 
-&emsp;&emsp;(i) an economic analysis demonstrating that the improvement project would exceed70 percent of the cost of constructing replacement housing units intended for members of the armed forces in the same pay grade or grades as those members who occupy the existing housing units; and
+&emsp;&emsp;(i) an economic analysis demonstrating that the improvement project would exceed 70 percent of the cost of constructing replacement housing units intended for members of the armed forces in the same pay grade or grades as those members who occupy the existing housing units; and
 
 &emsp;&emsp;(ii) if the replacement housing units are intended for members of the armed forces in a different pay grade or grades, a justification of the need for the replacement housing units based upon the long-term requirements of the armed forces in the location concerned; and
 

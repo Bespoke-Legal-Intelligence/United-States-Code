@@ -1,6 +1,6 @@
 ### §2771. Final settlement of accounts: deceased members
 
-(a) In the settlement of the accounts of a deceased member of the armed forces, an amount due from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
+(a) In the settlement of the accounts of a deceased member of the armed forces, an amountdue from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
 
 &emsp;(1) Beneficiary designated by him in writing to receive such an amount, if the designation is received, before the deceased member's death, at the place named in regulations to be prescribed by the Secretary concerned.
 
@@ -20,7 +20,7 @@
 
 (d) A payment under this section bars recovery by any other person of the amount paid.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Sept. 2, 1958, Pub. L. 85–861, §1(56), 72 Stat. 1461; July 12, 1960, Pub. L. 86–641, 74 Stat. 473; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, §511(97), 94 Stat. 2928; Nov. 30, 1993, Pub. L. 103–160, div. A, title XI, §1182(a)(11), 107 Stat. 1771; Oct. 19, 1996, Pub. L. 104–316, title II, §202(f), 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 155; Pub. L. 85–861, §1(56), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 86–641, July 12, 1960, 74 Stat. 473; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(97), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 103–160, div. A, title XI, §1182(a)(11), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 104–316, title II, §202(f), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1956
 

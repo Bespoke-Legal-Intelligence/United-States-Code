@@ -2,7 +2,9 @@
 
 (a)
 
-Authority of Secretary.—If the Secretary of Defense makes a determination that appropriate educational programs are not available through a local educational agency for dependents of members of the armed forces and dependents of civilian employees of the Federal Government residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States), the Secretary may enter into arrangements to provide for the elementary or secondary education of the dependents of such members of the armed forces and, to the extent authorized in subsection (c), the dependents of such civilian employees. The Secretary may, at the discretion of the Secretary, permit dependents of members of the armed forces and, to the extent provided in subsection (c), dependents of civilian employees of the Federal Government residing in a territory, commonwealth, or possession of the United States but not on a military installation, to enroll in an educational program provided by the Secretary pursuant to this subsection.
+Authority of Secretary.—(1) If the Secretary of Defense makes a determination that appropriate educational programs are not available through a local educational agency for dependents of members of the armed forces and dependents of civilian employees of the Federal Government residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States), the Secretary may enter into arrangements to provide for the elementary or secondary education of the dependents of such members of the armed forces and, to the extent authorized in subsection (c), the dependents of such civilian employees.
+
+(2) The Secretary may, at the discretion of the Secretary, permit dependents of members of the armed forces and, to the extent provided in subsection (c), dependents of civilian employees of the Federal Government residing in a territory, commonwealth, or possession of the United States but not on a military installation, to enroll in an educational program provided by the Secretary pursuant to this subsection. If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.
 
 (b)
 
@@ -18,17 +20,21 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 &emsp;(B) In the case of a military installation with boundaries contiguous to two or more States, local educational agencies in the contiguous States that are similar to the local educational agency referred to in paragraph (1)(B).
 
-&emsp;(C) In the case of a military installation located in a territory, commonwealth, or possession, the District of Columbia public schools, except that an educational program determined comparable under this subparagraphmay be considered appropriate for the purposes of paragraph (1)(B) only if the program is conducted in the English language.
+&emsp;(C) In the case of a military installation located in a territory, commonwealth, or possession, the District of Columbia public schools, except that an educational program determined comparable under this subparagraph may be considered appropriate for the purposes of paragraph (1)(B) only if the program is conducted in the English language.
 
 (c)
 
-Eligibility of Dependents of Federal Employees.—(1) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defense pursuant to subsection (a) for dependents residing on such installation.
+Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defense pursuant to subsection (a) for dependents residing on such installation.
+
+(B) A dependent of a United States Customs Service employee who resides in Puerto Rico, but not on a military installation, may enroll in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico in accordance with the same rules as apply to a dependent of a Federal employee residing in permanent living quarters on a military installation.
 
 (2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
 
-(B) A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.
+(B) At the discretion of the Secretary, a dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the dependent is otherwise qualified for enrollment, space is available in the program, and the Secretary will be reimbursed for the educational services provided. Any such extension shall cover only one school year at a time.
 
 (C) Subparagraph (A) shall not apply to an individual who is a dependent of a Federal employee in the excepted service (as defined in section 2103 of title 5) and who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico, Wake Island, Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands.
+
+(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
 (3) A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.
 
@@ -100,7 +106,7 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 &emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
-&emsp;(B) In the case of infants and toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants and toddlers with disabilities under part H of such Act (20 U.S.C. 1471 et seq.).
+&emsp;(B) In the case of infants and toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants and toddlers with disabilities under part H <sup>1</sup> of such Act (20 U.S.C. 1471 et seq.).
 
 &emsp;(C) In the case of all other children with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities who are 3 to 5 years old under part B of such Act.
 
@@ -108,17 +114,17 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 (3) In this subsection:
 
-&emsp;(A) The term “children with disabilities” has the meaning given the term in section 602(a)(1) of the Individuals with Disabilities Education Act (20 U.S.C. 1401(a)(1)).
+&emsp;(A) The term “children with disabilities” has the meaning given the term in section 602(a)(1) <sup>1</sup> of the Individuals with Disabilities Education Act (20 U.S.C. 1401(a)(1)).
 
 &emsp;(B) The term “children with disabilities aged 3 to 5, inclusive” means such term as used in such Act (20 U.S.C. 1400 et seq.).
 
-&emsp;(C) The term “infants and toddlers with disabilities” has the meaning given the term in section 672(1) of such Act (20 U.S.C. 1472(1)).
+&emsp;(C) The term “infants and toddlers with disabilities” has the meaning given the term in section 672(1) <sup>1</sup> of such Act (20 U.S.C. 1472(1)).
 
 (g)
 
 Reimbursement.—When the Secretary of Defense provides educational services under this section to an individual who is a dependent of an employee of a Federal agency outside the Department of Defense, the head of the other Federal agency shall, upon request of the Secretary of Defense, reimburse the Secretary for those services at rates routinely prescribed by the Secretary for those services. Any payments received by the Secretary under this subsection shall be credited to the account designated by the Secretary for the operation of educational programs under this section.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737.)
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989.)
 
 #### References in Text
 
@@ -126,15 +132,29 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92
 
 The effective date of this section, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 103–337 which was approved Oct. 5, 1994.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Parts B and H of the Act are classified generally to subchapters II (§1411 et seq.) and VIII (§1471 et seq.), respectively, of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. Section 602 of the Act was classified to section 1401 of Title 20, and was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability” and “infant or toddler with a disability”. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20 prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, eff. July 1, 1998. Section 672 of the Act was classified to section 1472 of Title 20 prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157. Pub. L. 105–17 enacted a new section 672, which is classified to section 1472 of Title 20, and which no longer contains definitions. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–261, §371(a)(1), (2), designated first sentence as par. (1) and second sentence as par. (2).
+
+Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end “If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member's orders, may be enrolled in an educational program provided by the Secretary under this subsection.”
+
+Subsec. (c)(1). Pub. L. 105–261, §371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
+
+Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
+
 1996—Subsec. (d)(7). Pub. L. 104–201 added par. (7).
 
 Subsec. (e)(4). Pub. L. 104–106 added par. (4).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title III, §371(c)(3), Oct. 17, 1998, 112 Stat. 1989, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to academic years beginning on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Savings Provision
 
@@ -143,4 +163,6 @@ Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2605 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

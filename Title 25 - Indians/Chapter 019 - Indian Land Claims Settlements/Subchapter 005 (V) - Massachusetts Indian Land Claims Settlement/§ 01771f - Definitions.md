@@ -58,7 +58,7 @@ For the purposes of this subchapter:
 
 #### (13) West Basin Strip
 
-&emsp;The term “West Basin Strip” means a strip of land along the West Basin which the Wampanoag Tribal Council is authorized to convey, under paragraph (11) of the Settlement Agreement, to the town of Gay Head.
+&emsp;The term “West Basin Strip” means a strip of land along the West Basin which theWampanoag Tribal Council is authorized to convey, under paragraph (11) of the Settlement Agreement, to the town of Gay Head.
 
 (Pub. L. 100–95, §8, Aug. 18, 1987, 101 Stat. 708.)
 

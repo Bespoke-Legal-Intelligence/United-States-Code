@@ -24,7 +24,7 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;&emsp;&emsp;(ii) upon a finding by, or the reasonable belief of, the peer review organization that there may be a substantial risk to the public health;
 
-&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification ofproviders or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII of this chapter, which data and information shall be provided by the peer review organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such data and information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
+&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII of this chapter, which data and information shall be provided by the peer review organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such data and information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
 
 &emsp;&emsp;(D) to provide notice in accordance with section 1320c–3(a)(9)(B) of this title;
 
@@ -44,7 +44,7 @@ No patient record in the possession of an organization having a contract with th
 
 For purposes of this section and section 1320c–6 of this title, the term “organization with a contract with the Secretary under this part” includes an entity with a contract with the Secretary under section 1320c–3(a)(4)(C) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1160, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 391; amended Oct. 21, 1986, Pub. L. 99–509, title IX, §9353(d)(1), 100 Stat. 2047; Dec. 22, 1987, Pub. L. 100–203, title IV, §4039(h)(6), as added July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), 102 Stat. 776; Nov. 5, 1990, Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), 104 Stat. 1388–113, 1388–114; Oct. 31, 1994, Pub. L. 103–432, title I, §156(b)(2)(B), (4), 108 Stat. 4441.)
+(Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441.)
 
 #### Prior Provisions
 

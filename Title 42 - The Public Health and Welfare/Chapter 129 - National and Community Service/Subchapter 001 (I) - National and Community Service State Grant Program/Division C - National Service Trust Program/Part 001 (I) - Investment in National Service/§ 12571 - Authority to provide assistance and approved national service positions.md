@@ -16,7 +16,7 @@ Subject to the availability of appropriations for this purpose, the Corporation 
 
 #### (2) Matching funds requirements
 
-&emsp;A Federal agency receiving assistance under this subsection shall not be required to satisfy the matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in section 12633 of this title shall apply with respect to the Federal national service programs supported with such assistance.
+&emsp;A Federal agency receiving assistance under this subsection shall not be required to satisfythe matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in section 12633 of this title shall apply with respect to the Federal national service programs supported with such assistance.
 
 #### (3) Consultation with State Commissions
 

@@ -6,7 +6,7 @@ Subchapter is based on subchapter C of chapter 8 of subtitle A of title VI of Pu
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 604, 618, 1396r–1a of this title; title 15 section 636; title 20 sections 1117a, 1235b, 6923; title 31 section 6703.
+This subchapter is referred to in sections 604, 618, 1396r–1a, 9835, 9837 of this title; title 15 section 636; title 20 sections 1235b, 6923; title 31 section 6703.
 
 
 ---

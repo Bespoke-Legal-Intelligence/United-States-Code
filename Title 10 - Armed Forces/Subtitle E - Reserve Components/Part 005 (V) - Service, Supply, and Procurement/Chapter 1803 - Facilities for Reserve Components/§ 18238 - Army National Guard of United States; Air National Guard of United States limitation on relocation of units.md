@@ -2,7 +2,7 @@
 
 A unit of the Army National Guard of the United States or the Air National Guard of the United States may not be relocated or withdrawn under this chapter without the consent of the governor of the State or, in the case of the District of Columbia, the commanding general of the National Guard of the District of Columbia.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 123, §2238; Sept. 2, 1958, Pub. L. 85–861, §1(43), 72 Stat. 1457; July 12, 1982, Pub. L. 97–214, §3(d)(4), 96 Stat. 170; renumbered §18238, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 123, §2238; Pub. L. 85–861, §1(43), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 97–214, §3(d)(4), July 12, 1982, 96 Stat. 170; renumbered §18238, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
 
 Historical and Revision Notes<br>1956
 

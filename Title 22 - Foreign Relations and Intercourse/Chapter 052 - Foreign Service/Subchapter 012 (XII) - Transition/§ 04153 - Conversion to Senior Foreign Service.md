@@ -38,7 +38,7 @@ Any officer of the Foreign Service who is eligible to submit a request under sub
 
 #### References in Text
 
-Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867 and 869, respectively, of this title, were repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
+Sections 412 and 414 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified tosections 867 and 869, respectively, of this title, were repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 #### Codification
 

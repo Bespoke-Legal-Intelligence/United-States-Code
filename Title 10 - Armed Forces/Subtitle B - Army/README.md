@@ -73,7 +73,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337“Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 

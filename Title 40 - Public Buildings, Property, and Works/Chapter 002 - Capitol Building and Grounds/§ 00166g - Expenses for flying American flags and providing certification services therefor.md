@@ -1,6 +1,6 @@
 ### §166g. Expenses for flying American flags and providing certification services therefor
 
-On and after November 19, 1995, expenses, based on full cost recovery, for flying American flags and providing certification services therefor shall be advanced or reimbursed upon request of the Architect of the Capitol, and amounts so received shall be deposited into the Treasury.
+On and after November 19, 1995, expenses, based on full cost recovery, for flying Americanflags and providing certification services therefor shall be advanced or reimbursed upon request of the Architect of the Capitol, and amounts so received shall be deposited into the Treasury.
 
 (Pub. L. 104–53, title I, Nov. 19, 1995, 109 Stat. 528.)
 

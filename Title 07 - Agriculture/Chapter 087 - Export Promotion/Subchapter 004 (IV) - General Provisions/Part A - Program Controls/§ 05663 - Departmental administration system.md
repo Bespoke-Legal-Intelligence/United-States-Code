@@ -14,7 +14,7 @@ With respect to each commercial export promotion program of the Department of Ag
 
 #### (b) Accessibility of information
 
-Information pertaining to the status of a particular proposal shall be retrievable within the central system by appropriate categories, as determined appropriate by the Secretary.
+Information pertaining to the status of a particular proposal shall be retrievable within thecentral system by appropriate categories, as determined appropriate by the Secretary.
 
 (Pub. L. 95–501, title IV, §403, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3682.)
 

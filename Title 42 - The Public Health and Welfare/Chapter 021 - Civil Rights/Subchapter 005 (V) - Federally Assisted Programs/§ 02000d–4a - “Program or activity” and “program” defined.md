@@ -30,7 +30,7 @@ For the purposes of this subchapter, the term “program or activity” and the 
 
 #### Exclusion From Coverage
 
-This section not to be construed to extend application of Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
+This section not to be construed to extend application of Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, seesection 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
 
 #### Abortion Neutrality
 

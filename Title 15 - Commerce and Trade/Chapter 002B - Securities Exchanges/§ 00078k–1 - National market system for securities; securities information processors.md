@@ -22,7 +22,7 @@
 
 &emsp;(D) The linking of all markets for qualified securities through communication and data processing facilities will foster efficiency, enhance competition, increase the information available to brokers, dealers, and investors, facilitate the offsetting of investors’ orders, and contribute to best execution of such orders.
 
-(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup>1</sup> in this section referred to as “qualified securities”.)
+(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of thissubsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup>1</sup> in this section referred to as “qualified securities”.)
 
 (3) The Commission is authorized in furtherance of the directive in paragraph (2) of this subsection—
 
@@ -70,7 +70,7 @@
 
 &emsp;(F) assure equal regulation of all markets for qualified securities and all exchange members, brokers, and dealers effecting transactions in such securities.
 
-(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or any means or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
+(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may require any person who has effected the purchase or sale of any qualified security by use of the mails or anymeans or instrumentality of interstate commerce to report such purchase or sale to a registered securities information processor, national securities exchange, or registered securities association and require such processor, exchange, or association to make appropriate distribution and publication of information with respect to such purchase or sale.
 
 (3)(A) The Commission, by rule, is authorized to prohibit brokers and dealers from effecting transactions in securities registered pursuant to section 78<i>l</i>(b) of this title otherwise than on a national securities exchange, if the Commission finds, on the record after notice and opportunity for hearing, that—
 
@@ -90,7 +90,7 @@
 
 #### (d) National Market Advisory Board
 
-(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the “Advisory Board”) to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than fiveyears. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
+(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the “Advisory Board”) to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than five years. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
 
 (2) It shall be the responsibility of the Advisory Board to formulate and furnish to the Commission its views on significant regulatory proposals made by the Commission or any self-regulatory organization concerning the establishment, operation, and regulation of the markets for securities in the United States.
 
@@ -112,7 +112,7 @@
 
 (C) In carrying out its responsibilities under this paragraph, the Advisory Board shall consult with self-regulatory organizations, brokers, dealers, securities information processors, issuers, investors, representatives of Government agencies, and other persons interested or likely to participate in the establishment, operation, or regulation of the national market system.
 
-(June 6, 1934, ch. 404, title I, §11A, as added June 4, 1975, Pub. L. 94–29, §7, 89 Stat. 111; amended Nov. 8, 1984, Pub. L. 98–620, title IV, §402(14), 98 Stat. 3358; Dec. 4, 1987, Pub. L. 100–181, title III, §§313, 314, 101 Stat. 1256.)
+(June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256.)
 
 #### References in Text
 

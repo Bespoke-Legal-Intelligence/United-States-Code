@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(G) plans for the following fiscal year.
 
-(b)(1) The Secretary shall include in the report required by subsection (a) of this section an evaluation of the results of Federal evaluationof the programs, projects, and activities carried out under this subchapter and a description of the training provided to the persons who carry out the evaluation.
+(b)(1) The Secretary shall include in the report required by subsection (a) of this section an evaluation of the results of Federal evaluation of the programs, projects, and activities carried out under this subchapter and a description of the training provided to the persons who carry out the evaluation.
 
 (2) As part of the evaluation described in paragraph (1), the Secretary shall require the persons who carry out the evaluation to visit each grantee on-site not less frequently than every 3 years.
 

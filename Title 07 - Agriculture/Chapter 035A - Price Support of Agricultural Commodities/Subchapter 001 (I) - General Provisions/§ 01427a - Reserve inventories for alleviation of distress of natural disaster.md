@@ -48,7 +48,7 @@ Section 2267 of this title, referred to in subsec. (d), was repealed by Pub. L. 
 
 #### Codification
 
-Section was enacted as part of the Agricultural Act of 1970 as added by the Agriculture and Consumer Protection Act of 1973, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Agricultural Act of 1970 as added by the Agriculture and Consumer Protection Act of 1973, and not as part of the AgriculturalAct of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Commodity Credit Corporation Fund; Disaster Reserve Assistance Program
 
-Pub. L. 105–18, title II, June 12, 1997, 111 Stat. 170, provided in part: “That notwithstanding any other provision of law, beginning on October 1, 1997, grain in the disaster reserve established in the Agricultural Act of 1970 shall not exceed 20 million bushels”.
+Pub. L. 105–18, title II, June 12, 1997, 111 Stat. 170, provided in part: “That notwithstanding any other provision of law, beginning on October 1, 1997, grain in the disaster reserve established in the Agricultural Act of 1970 \[see Short Title of 1970 Amendment note set out under section 1281 of this title\] shall not exceed 20 million bushels”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

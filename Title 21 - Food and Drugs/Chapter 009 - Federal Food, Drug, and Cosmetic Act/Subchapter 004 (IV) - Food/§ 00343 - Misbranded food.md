@@ -28,7 +28,7 @@ If any word, statement, or other information required by or under authority of t
 
 #### (g) Representation as to definition and standard of identity
 
-If it purports to be or is represented as a food for which a definition and standard of identity has been prescribed by regulations as provided by section 341 of this title, unless (1) it conformsto such definition and standard, and (2) its label bears the name of the food specified in the definition and standard, and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food.
+If it purports to be or is represented as a food for which a definition and standard of identity has been prescribed by regulations as provided by section 341 of this title, unless (1) it conforms to such definition and standard, and (2) its label bears the name of the food specified in the definition and standard, and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food.
 
 #### (h) Representation as to standards of quality and fill of container
 
@@ -120,7 +120,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (ii) Regulations issued under subclause (i) may require that the nutrition information required by subparagraphs (1) and (2) be provided for more than 20 varieties of vegetables, 20 varieties of fruit, and 20 varieties of fish most frequently consumed during a year if the Secretary finds that a larger number of such products are frequently consumed. Such regulations shall permit such information to be provided in a single location in each area in which raw agricultural commodities and raw fish are offered for sale. Such regulations may provide that information shall be expressed as an average or range per serving of the same type of raw agricultural commodity or raw fish. The Secretary shall develop and make available to the persons who offer such food to consumers the information required by subparagraphs (1) and (2).
 
-(iii) Regulations issued under subclause (i) shall permit the required information to be provided in each area of an establishment in whichraw agricultural commodities and raw fish are offered for sale. The regulations shall permit food retailers to display the required information by supplying copies of the information provided by the Secretary, by making the information available in brochure, notebook or leaflet form, or by posting a sign disclosing the information. Such regulations shall also permit presentation of the required information to be supplemented by a video, live demonstration, or other media which the Secretary approves.
+(iii) Regulations issued under subclause (i) shall permit the required information to be provided in each area of an establishment in which raw agricultural commodities and raw fish are offered for sale. The regulations shall permit food retailers to display the required information by supplying copies of the information provided by the Secretary, by making the information available in brochure, notebook or leaflet form, or by posting a sign disclosing the information. Such regulations shall also permit presentation of the required information to be supplemented by a video, live demonstration, or other media which the Secretary approves.
 
 (E) For purposes of this subparagraph, the term “fish” includes freshwater or marine fin fish, crustaceans, and mollusks, including shellfish, amphibians, and other forms of aquatic animal life.
 
@@ -164,7 +164,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (iii) The notice referred to in subclauses (i) and (ii) shall be given to the Secretary prior to the beginning of the period during which the exemption under subclause (i) or (ii) is to be in effect, shall state that the person claiming such exemption for a food product has complied with the applicable requirements of subclause (i) or (ii), and shall—
 
-&emsp;(I) state the average number of full-time equivalent employees such person employedduring the 12 months preceding the date such person claims such exemption,
+&emsp;(I) state the average number of full-time equivalent employees such person employed during the 12 months preceding the date such person claims such exemption,
 
 &emsp;(II) state the approximate number of units the person claiming the exemption sold in the United States,
 
@@ -200,7 +200,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 #### (r) Nutrition levels and health-related claims
 
-(1) Except as provided in clauses (A) through (C) of subparagraph (5), if it is a food intended for human consumption which is offered for sale and for which a claim is made in the label or labeling of the food which expressly or by implication—
+(1) Except as provided in clauses (A) through (C) of subparagraph (5), if it is a food intended for human consumption which is offered for saleand for which a claim is made in the label or labeling of the food which expressly or by implication—
 
 &emsp;(A) characterizes the level of any nutrient which is of the type required by paragraph (q)(1) or (q)(2) to be in the label or labeling of the food unless the claim is made in accordance with subparagraph (2), or
 
@@ -216,7 +216,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;&emsp;(I) the nutrient is usually present in the food or in a food which substitutes for the food as defined by the Secretary by regulation, or
 
-&emsp;&emsp;(II) the Secretary by regulation permits such a statement on the basis of a finding that such a statement would assist consumers in maintaining healthy dietary practicesand the statement discloses that the nutrient is not usually present in the food,
+&emsp;&emsp;(II) the Secretary by regulation permits such a statement on the basis of a finding that such a statement would assist consumers in maintaining healthy dietary practices and the statement discloses that the nutrient is not usually present in the food,
 
 &emsp;(iii) may not be made with respect to the level of cholesterol in the food if the food contains, as determined by the Secretary by regulation, fat or saturated fat in an amount which increases to persons in the general population the risk of disease or a health related condition which is diet related unless—
 
@@ -240,7 +240,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (F) Subclause (i) clause (A) does not apply to a statement in the labeling of a dietary supplement that characterizes the percentage level of a dietary ingredient for which the Secretary has not established a reference daily intake, daily recommended value, or other recommendation for daily consumption.
 
-(G) A claim of the type described in subparagraph (1)(A) for a nutrient, for which the Secretary has not promulgated a regulation under clause (A)(i), shall be authorized and may be made with respect to a food if—
+(G) A claim of the type described in subparagraph (1)(A) for a nutrient, for which the Secretary has not promulgated a regulation underclause (A)(i), shall be authorized and may be made with respect to a food if—
 
 &emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, which identifies the nutrient level to which the claim refers;
 
@@ -248,7 +248,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(iii) the claim and the food for which the claim is made are in compliance with clauses (A) and (B), and are otherwise in compliance with paragraph (a) and section 321(n) of this title; and
 
-&emsp;(iv) the claim is stated in a manner so that the claim is an accurate representation of theauthoritative statement referred to in subclause (i) and so that the claim enables the public to comprehend the information provided in the claim and to understand the relative significance of such information in the context of a total daily diet.
+&emsp;(iv) the claim is stated in a manner so that the claim is an accurate representation of the authoritative statement referred to in subclause (i) and so that the claim enables the public to comprehend the information provided in the claim and to understand the relative significance of such information in the context of a total daily diet.
 
 > For purposes of this clause, a statement shall be regarded as an authoritative statement of a scientific body described in subclause (i) only if the statement is published by the scientific body and shall not include a statement of an employee of the scientific body made in the individual capacity of the employee.
 
@@ -282,7 +282,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, about the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
-&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the relationship between a nutrient and a disease or health-related condition to which the claim refers;
+&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of theclaim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
 &emsp;(iii) the claim and the food for which the claim is made are in compliance with clause (A)(ii) and are otherwise in compliance with paragraph (a) and section 321(n) of this title; and
 
@@ -320,7 +320,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (6) For purposes of paragraph (r)(1)(B), a statement for a dietary supplement may be made if—
 
-&emsp;(A) the statement claims a benefit related to a classical nutrient deficiency disease and discloses the prevalence of such disease in the United States, describes the role of a nutrient or dietary ingredient intended to affect the structure or function in humans, characterizes the documented mechanism by which a nutrient or dietary ingredient acts to maintain such structure or function, or describes general well-being from consumption of a nutrient or dietary ingredient,
+&emsp;(A) the statement claims a benefit related to a classical nutrient deficiency disease and discloses the prevalence of such disease in the United States, describes the role of a nutrientor dietary ingredient intended to affect the structure or function in humans, characterizes the documented mechanism by which a nutrient or dietary ingredient acts to maintain such structure or function, or describes general well-being from consumption of a nutrient or dietary ingredient,
 
 &emsp;(B) the manufacturer of the dietary supplement has substantiation that such statement is truthful and not misleading, and
 
@@ -334,7 +334,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;&emsp;(i) enable consumers to develop and maintain healthy dietary practices;
 
-&emsp;&emsp;(ii) enable consumers to be informed promptly and effectively of important newknowledge regarding nutritional and health benefits of food; or
+&emsp;&emsp;(ii) enable consumers to be informed promptly and effectively of important new knowledge regarding nutritional and health benefits of food; or
 
 &emsp;&emsp;(iii) ensure that scientifically sound nutritional and health information is provided to consumers as soon as possible; or
 
@@ -488,7 +488,7 @@ Section 10(a) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, �
 
 “(2) Section 403(q) of the Federal Food, Drug, and Cosmetic Act (as added by section 2) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 2 and section 403(r) of the Federal Food, Drug, and Cosmetic Act (as added by section 3) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 3.
 
-“(3)(A) If the Secretary finds that a person who is subject to section 403(q)(4) of such Act is unable to comply with the requirements of such section upon the effective date of final regulations to implement section 403(q) of such Act or of proposed regulations to be considered as such final regulations because the Secretary has not made available to such person the information required by such section, the Secretary shall delay the application of such section to such person for such time as the Secretary may require to provide such information.
+“(3)(A) If the Secretary finds that a person who is subject to section 403(q)(4) of such Act is unable tocomply with the requirements of such section upon the effective date of final regulations to implement section 403(q) of such Act or of proposed regulations to be considered as such final regulations because the Secretary has not made available to such person the information required by such section, the Secretary shall delay the application of such section to such person for such time as the Secretary may require to provide such information.
 
 “(B) If the Secretary finds that compliance with section 403(q) or 403(r)(2) of such Act would cause an undue economic hardship, the Secretary may delay the application of such sections for no more than one year.”
 
@@ -506,7 +506,7 @@ Section 10(c) of Pub. L. 101–535, as amended by Pub. L. 102–108, §1, Aug. 1
 
 > such food shall not be subject to the amendments made by section 7(1) and section 7(3) \[amending this section\].
 
-“(3) A food purported to be a beverage containing a vegetable or fruit juice which bears a label attached tothe food before May 8, 1993, shall not be subject to the amendments made by section 7(2) \[amending this section\].”
+“(3) A food purported to be a beverage containing a vegetable or fruit juice which bears a label attached to the food before May 8, 1993, shall not be subject to the amendments made by section 7(2) \[amending this section\].”
 
 #### Effective Date of 1977 Amendment
 
@@ -660,7 +660,7 @@ Action on recommendations.—Within 90 days of the issuance of the report under 
 
 #### Extension of Compliance Deadline for Certain Food Products Packaged Prior to August 8, 1994
 
-Pub. L. 103–261, May 26, 1994, 108 Stat. 705, provided: “That before August 8, 1994, sections 403(q) and 403(r)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q), (r)(2)\] and the provision of section 403(i) of suchAct added by section 7(2) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535\], shall not apply with respect to a food product which is contained in a package for which the label was printed before May 8, 1994 (or before August 8, 1994, in the case of a juice or milk food product if the person responsible for the labeling of such food product exercised due diligence in obtaining before such date labels which are in compliance with such sections 403(q) and 403(r)(2) and such provision of section 403(i)), if, before June 15, 1994, the person who introduces or delivers for introduction such food product into interstate commerce submits to the Secretary of Health and Human Services a certification that such person will comply with this section and will comply with such sections 403(q) and 403(r)(2) and such provision of section 403(i) after August 8, 1994.”
+Pub. L. 103–261, May 26, 1994, 108 Stat. 705, provided: “That before August 8, 1994, sections 403(q) and 403(r)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q), (r)(2)\] and the provision of section 403(i) of such Act added by section 7(2) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535\], shall not apply with respect to a food product which is contained in a package for which the label was printed before May 8, 1994 (or before August 8, 1994, in the case of a juice or milk food product if the person responsible for the labeling of such food product exercised due diligence in obtaining before such date labels which are in compliance with such sections 403(q) and 403(r)(2) and such provision of section 403(i)), if, before June 15, 1994, the person who introduces or delivers for introduction such food product into interstate commerce submits to the Secretary of Health and Human Services a certification that such person will comply with this section and will comply with such sections 403(q) and 403(r)(2) and such provision of section 403(i) after August 8, 1994.”
 
 #### Limitations on Application of Small Business Exemption
 
@@ -704,7 +704,7 @@ Section 4(a)(3) of Pub. L. 95–203 provided that: “The Secretary shall report
 
 #### State or Territorial Requirements
 
-Section 2 of Pub. L. 86–537 provided that: “Nothing in the amendments made by the first section of this Act \[amending this section\] shall affect any requirement of the laws of any State or Territory.”
+Section 2 of Pub. L. 86–537 provided that: “Nothing in the amendments made by the first section of this Act\[amending this section\] shall affect any requirement of the laws of any State or Territory.”
 
 #### Section Referred to in Other Sections
 

@@ -34,11 +34,11 @@ Section 3902(a)(3) of this title, referred to in subsec. (c), was redesignated s
 
 #### Delegation of Functions
 
-Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293,Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 #### Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel
 
-Section 130(c) of Pub. L. 98–164 directed Secretary of State, not later than one year after Nov. 22, 1983, tosubmit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, §139(10), Apr. 30, 1994, 108 Stat. 398.
+Section 130(c) of Pub. L. 98–164 directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, §139(10), Apr. 30, 1994, 108 Stat. 398.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ In carrying out section 299(b) of this title, the Administrator shall promote th
 
 #### (1) In general
 
-&emsp;In carrying out section 299(b) of this title, the Administrator shall conduct and support specific assessments of health care technologies.
+&emsp;In carrying out section 299(b) of this title, the Administrator shall conduct and supportspecific assessments of health care technologies.
 
 #### (2) Consideration of certain factors
 
@@ -96,7 +96,7 @@ Not later than January 1, 1994, the Administrator shall develop and publish a de
 
 &emsp;In carrying out paragraph (1), the Administrator may enter into memoranda of understanding with the heads of other Federal agencies.
 
-(July 1, 1944, ch. 373, title IX, §904, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(a), 103 Stat. 2191; amended Oct. 13, 1992, Pub. L. 102–410, §4(a), 106 Stat. 2095; June 10, 1993, Pub. L. 103–43, title XX, §2013(1), 107 Stat. 214.)
+(July 1, 1944, ch. 373, title IX, §904, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2191; amended Pub. L. 102–410, §4(a), Oct. 13, 1992, 106 Stat. 2095; Pub. L. 103–43, title XX, §2013(1), June 10, 1993, 107 Stat. 214.)
 
 #### Prior Provisions
 

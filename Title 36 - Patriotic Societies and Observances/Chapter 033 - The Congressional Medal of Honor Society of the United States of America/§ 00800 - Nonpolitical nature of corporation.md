@@ -1,6 +1,0 @@
-### §800. Nonpolitical nature of corporation
-
-The corporation and its officers and directors as such shall not contribute to or participate in, directly or indirectly, local or national political activity or in any manner attempt to influence legislation.
-
-(Pub. L. 85–642, §10, Aug. 14, 1958, 72 Stat. 600.)
-

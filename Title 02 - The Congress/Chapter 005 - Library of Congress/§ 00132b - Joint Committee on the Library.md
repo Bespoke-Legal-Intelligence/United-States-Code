@@ -8,6 +8,10 @@ The Joint Committee of Congress on the Library shall, on and after January 3, 19
 
 1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date
 
 Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under section 72a of this title.

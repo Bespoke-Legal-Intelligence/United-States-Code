@@ -4,7 +4,7 @@
 
 (b) Any person who has become a naturalized citizen of the United States upon the basis of a record of a lawful admission for permanent residence, created as a result of an adjustment of status for which such person was not in fact eligible, and which is subsequently rescinded under subsection (a) of this section, shall be subject to the provisions of section 1451 of this title as a person whose naturalization was procured by concealment of a material fact or by willful misrepresentation.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §246, 66 Stat. 217; Oct. 25, 1994, Pub. L. 103–416, title II, §219(m), 108 Stat. 4317; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(e)(1)(H), 378(a), 110 Stat. 3009–619, 3009–649.)
+(June 27, 1952, ch. 477, title II, ch. 5, §246, 66 Stat. 217; Pub. L. 103–416, title II, §219(m), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title III, §§308(e)(1)(H), 378(a), Sept. 30, 1996, 110 Stat. 3009–619, 3009–649.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture may propagate bee-breeding stock and may release bee germ plasm to the public.
 
-(Sept. 21, 1944, ch. 412, title I, §103, 58 Stat. 735; Oct. 31, 1951, ch. 654, §3(1), 65 Stat. 708; Dec. 22, 1981, Pub. L. 97–98, title XI, §1120, 95 Stat. 1273.)
+(Sept. 21, 1944, ch. 412, title I, §103, 58 Stat. 735; Oct. 31, 1951, ch. 654, §3(1), 65 Stat. 708; Pub. L. 97–98, title XI, §1120, Dec. 22, 1981, 95 Stat. 1273.)
 
 #### Codification
 

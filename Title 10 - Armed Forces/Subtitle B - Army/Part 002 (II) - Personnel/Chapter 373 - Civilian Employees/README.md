@@ -19,6 +19,10 @@
 
 1958—Pub. L. 85–861, §1(102), Sept. 2, 1958, 72 Stat. 1489, struck out item 4021 “Appointment: professional and scientific services”.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 1552 of this title.
+
 
 ---
 

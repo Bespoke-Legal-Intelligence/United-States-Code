@@ -44,7 +44,7 @@
 
 &emsp;(B) the law of a State is not approvable under section 3304 of the Federal Unemployment Tax Act \[26 U.S.C. 3304\],
 
-> then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify tothe Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
+> then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
 
 (2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
 
@@ -94,7 +94,7 @@
 
 (D) If the Secretary of Labor determines that the requirements of this paragraph are met with respect to any request, the Secretary shall notify the Governor of the State that such requirements are met with respect to such request and the amount restored under this paragraph. Such restoration shall be as of the first day of the first month following the month in which the notification is made.
 
-(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Sept. 13, 1960, Pub. L. 86–778, title V, §521, 74 Stat. 974; May 29, 1963, Pub. L. 88–31, §3, 77 Stat. 51; July 26, 1968, Pub. L. 90–430, 82 Stat. 447; Aug. 10, 1970, Pub. L. 91–373, title III, §305(b), 84 Stat. 717; Dec. 29, 1971, Pub. L. 92–224, §1, title II, §204(c), 85 Stat. 810, 814; June 30, 1972, Pub. L. 92–329, §2(d), 86 Stat. 398; Aug. 7, 1974, Pub. L. 93–368, §4(b), 88 Stat. 420; Apr. 21, 1976, Pub. L. 94–273, §§2(20), 3(23), 23, 41, 90 Stat. 375, 377, 379, 381; Sept. 3, 1982, Pub. L. 97–248, title I, §192, 96 Stat. 408; Dec. 22, 1987, Pub. L. 100–203, title IX, §9155(c), 101 Stat. 1330–327; Nov. 5, 1990, Pub. L. 101–508, title V, §5021(a), (b), 104 Stat. 1388–223; Aug. 5, 1997, Pub. L. 105–33, title V, §5403, 111 Stat. 603.)
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603.)
 
 #### References in Text
 
@@ -164,5 +164,5 @@ Section 9155(d) of Pub. L. 100–203 provided that: “The amendments made by th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 503, 1321 of this title; title 26 sections 3304, 3306.
+This section is referred to in sections 503, 1321 of this title; title 26 sections 3304, 3306; title 29 section 2943.
 

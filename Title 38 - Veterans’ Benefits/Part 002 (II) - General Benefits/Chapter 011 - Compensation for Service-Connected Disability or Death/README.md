@@ -6,7 +6,8 @@
 | :--- | ---: |
 | [1101\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001101%20-%20Definitions.md) | Definitions. |
 | [1102\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001102%20-%20Special%20provisions%20relating%20to%20surviving%20spouses.md) | Special provisions relating to surviving spouses. |
-| [1103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001103%20-%20Cost-of-living%20adjustments.md) | Cost-of-living adjustments. |
+| [1103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001103%20-%20Special%20provisions%20relating%20to%20claims%20based%20upon%20effects%20of%20tobacco%20products.md) | Special provisions relating to claims based upon effects of tobacco products. |
+| [1104\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001104%20-%20Cost-of-living%20adjustments.md) | Cost-of-living adjustments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,6 +23,7 @@
 | [1115\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001115%20-%20Additional%20compensation%20for%20dependents.md) | Additional compensation for dependents. |
 | [1116\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116%20-%20Presumptions%20of%20service%20connection%20for%20diseases%20associated%20with%20exposure%20to%20certain%20herbicide%20agents.md) | Presumptions of service connection for diseases associated with exposure to certain herbicide agents. |
 | [1117\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001117%20-%20Compensation%20for%20disabilities%20occurring%20in%20Persian%20Gulf%20War%20veterans.md) | Compensation for disabilities occurring in Persian Gulf War veterans. |
+| [1118\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001118%20-%20Presumptions%20of%20service%20connection%20for%20illnesses%20associated%20with%20service%20in%20the%20Persian%20Gulf%20during%20the%20Persian%20Gulf%20War.md) | Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,7 +79,13 @@
 
 #### Amendments
 
-1997—Pub. L. 105–33, title VIII, §8031(a)(2), Aug. 5, 1997, 111 Stat. 668, added item 1103.
+1998—Pub. L. 105–368, title X, §1005(a), Nov. 11, 1998, 112 Stat. 3364, renumbered item 1103 “Cost-of-living adjustments” as 1104.
+
+Pub. L. 105–277, div. C, title XVI, §1602(a)(2), Oct. 21, 1998, 112 Stat. 2681–744, added item 1118.
+
+Pub. L. 105–178, title VIII, §8202(a)(2), as added by Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865, added item 1103 “Special provisions relating to claims based upon effects of tobacco products”.
+
+1997—Pub. L. 105–33, title VIII, §8031(a)(2), Aug. 5, 1997, 111 Stat. 668, added item 1103 “Cost-of-living adjustments”.
 
 1994—Pub. L. 103–446, title I, §106(a)(2), Nov. 2, 1994, 108 Stat. 4651, added item 1117.
 

@@ -16,11 +16,11 @@ In order to—
 
 #### (b) Appointment; supervision; removal
 
-(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting,financial analysis, law, management analysis, public administration, or auditing.
+(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.
 
 (2) The Inspector General shall report directly to and be under the general supervision of the Director.
 
-(3) The Director may prohibit the Inspector General from initiating, carrying out, or completing any audit, inspection, or investigation, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena, if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
+(3) The Director may prohibit the Inspector General from initiating, carrying out, or completing any audit, inspection, or investigation,or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena, if the Director determines that such prohibition is necessary to protect vital national security interests of the United States.
 
 (4) If the Director exercises any power under paragraph (3), he shall submit an appropriately classified statement of the reasons for the exercise of such power within seven days to the intelligence committees. The Director shall advise the Inspector General at the time such report is submitted, and, to the extent consistent with the protection of intelligence sources and methods, provide the Inspector General with a copy of any such report. In such cases, the Inspector General may submit such comments to the intelligence committees that he considers appropriate.
 
@@ -40,7 +40,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(4) in the execution of his responsibilities, to comply with generally accepted government auditing standards.
 
-#### (d) Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems
+#### (d) Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems; reports to Congress on urgent concerns
 
 (1) The Inspector General shall, not later than January 31 and July 31 of each year, prepare and submit to the Director of Central Intelligence a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending December 31 (of the preceding year) and June 30, respectively. Within thirty days of receipt of such reports, the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, or audit conducted during the reporting period and—
 
@@ -64,9 +64,41 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(B) an investigation, inspection, or audit carried out by the Inspector General should focus upon the Director or Acting Director; or
 
-&emsp;(C) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in thecourse of an investigation, inspection, or audit, the Inspector General shall immediately report such matter to the intelligence committees.
+&emsp;(C) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, or audit, the Inspector General shall immediately report such matter to the intelligence committees.
 
 (4) Pursuant to Title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the Director shall submit to the intelligence committees any report or findings and recommendations of an inspection, investigation, or audit conducted by the office which has been requested by the Chairman or Ranking Minority Member of either committee.
+
+(5)(A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
+
+(B) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the Director.
+
+(C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
+
+(D)(i) If the Inspector General does not transmit, or does not transmit in an accurate form, the complaint or information described in subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or information to Congress by contacting either or both of the intelligence committees directly.
+
+(ii) The employee may contact the intelligence committees directly as described in clause (i) only if the employee—
+
+&emsp;(I) before making such a contact, furnishes to the Director, through the Inspector General, a statement of the employee's complaint or information and notice of the employee's intent to contact the intelligence committees directly; and
+
+&emsp;(II) obtains and follows from the Director, through the Inspector General, direction on how to contact the intelligence committees in accordance with appropriate security practices.
+
+(iii) A member or employee of one of the intelligence committees who receives a complaint or information under clause (i) does so in that member or employee's official capacity as a member or employee of that committee.
+
+(E) The Inspector General shall notify an employee who reports a complaint or information to the Inspector General under this paragraph of each action taken under this paragraph with respect to the complaint or information. Such notice shall be provided not later than 3 days after any such action is taken.
+
+(F) An action taken by the Director or the Inspector General under this paragraph shall not be subject to judicial review.
+
+(G) In this paragraph:
+
+&emsp;(i) The term “urgent concern” means any of the following:
+
+&emsp;&emsp;(I) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
+
+&emsp;&emsp;(II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
+
+&emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of this section in response to an employee's reporting an urgent concern in accordance with this paragraph.
+
+&emsp;(ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 #### (e) Authorities of Inspector General
 
@@ -104,9 +136,9 @@ Beginning with fiscal year 1991, and in accordance with procedures to be issued 
 
 #### (g) Transfer
 
-There shall be transferred to the Office the office of the Agency referred to as the “Office ofInspector General.” The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, or available to such “Office of Inspector General” are hereby transferred to the Office established pursuant to this section.
+There shall be transferred to the Office the office of the Agency referred to as the “Office of Inspector General.” The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, or available to such “Office of Inspector General” are hereby transferred to the Office established pursuant to this section.
 
-(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257.)
+(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414.)
 
 #### References in Text
 
@@ -117,6 +149,8 @@ The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–272 inserted “; reports to Congress on urgent concerns” after “functional problems” in heading and added par. (5).
 
 1997—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
 

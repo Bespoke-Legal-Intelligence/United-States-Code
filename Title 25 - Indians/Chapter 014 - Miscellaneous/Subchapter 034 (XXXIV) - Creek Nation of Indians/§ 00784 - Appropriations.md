@@ -1,6 +1,6 @@
 ### §784. Appropriations
 
-There is authorized to be appropriated out of any money in the Treasury not otherwise appropriated the sum of $325,000 to remain availableuntil expended, for necessary expenses incident to the distribution of funds authorized by sections 781 to 785 of this title.
+There is authorized to be appropriated out of any money in the Treasury not otherwise appropriated the sum of $325,000 to remain available until expended, for necessary expenses incident to the distribution of funds authorized by sections 781 to 785 of this title.
 
 (Aug. 1, 1955, ch. 444, §5, 69 Stat. 432; Pub. L. 86–229, Sept. 8, 1959, 73 Stat. 456.)
 

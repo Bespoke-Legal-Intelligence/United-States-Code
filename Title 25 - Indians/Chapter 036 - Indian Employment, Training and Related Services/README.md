@@ -30,7 +30,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 20 section 2326.
 
 
 ---

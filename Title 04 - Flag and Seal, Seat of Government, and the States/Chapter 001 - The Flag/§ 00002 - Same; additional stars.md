@@ -6,5 +6,5 @@ On the admission of a new State into the Union one star shall be added to the un
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 36 section 173.
+This section is referred to in section 5 of this title.
 

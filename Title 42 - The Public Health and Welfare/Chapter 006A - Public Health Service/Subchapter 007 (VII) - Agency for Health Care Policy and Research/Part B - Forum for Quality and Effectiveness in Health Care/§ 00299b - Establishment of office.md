@@ -2,7 +2,7 @@
 
 There is established within the Agency an office to be known as the Office of the Forum for Quality and Effectiveness in Health Care. The office shall be headed by a director, who shall be appointed by the Administrator. The Administrator shall carry out this part acting through the Director.
 
-(July 1, 1944, ch. 373, title IX, §911, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(a), 103 Stat. 2192; amended Oct. 13, 1992, Pub. L. 102–410, §5(b), 106 Stat. 2097.)
+(July 1, 1944, ch. 373, title IX, §911, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2192; amended Pub. L. 102–410, §5(b), Oct. 13, 1992, 106 Stat. 2097.)
 
 #### Prior Provisions
 

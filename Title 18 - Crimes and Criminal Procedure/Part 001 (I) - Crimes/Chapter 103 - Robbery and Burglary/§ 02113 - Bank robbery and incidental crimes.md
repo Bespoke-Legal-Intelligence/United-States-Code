@@ -26,7 +26,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 &emsp;(2) a corporation described in section 3(b)(1)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)(C)) that is operating under the laws of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Sept. 22, 1959, Pub. L. 86–354, §2, 73 Stat. 639; Oct. 19, 1970, Pub. L. 91–468, §8, 84 Stat. 1017; Oct. 12, 1984, Pub. L. 98–473, title II, §1106, 98 Stat. 2145; Nov. 10, 1986, Pub. L. 99–646, §68, 100 Stat. 3616; Aug. 9, 1989, Pub. L. 101–73, title IX, §962(a)(7), (d), 103 Stat. 502, 503; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(<i>l</i>), 104 Stat. 4911; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), 108 Stat. 1969, 2120, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §§606(a), 607(d), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, §2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, §8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, §1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, §68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, §962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, §2597(<i>l</i>), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

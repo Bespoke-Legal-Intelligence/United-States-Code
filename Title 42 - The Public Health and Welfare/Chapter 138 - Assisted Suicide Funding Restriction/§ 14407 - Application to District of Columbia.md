@@ -6,7 +6,7 @@ For purposes of this chapter, the term “funds appropriated by Congress” incl
 
 #### References in Text
 
-The District of Columbia Home Rule Act, referred to in text, is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, asamended. Title V of the Act was classified to the District of Columbia Code prior to repeal by Pub. L. 105–33, title XI, §11601, Aug. 5, 1997, 111 Stat. 777.
+The District of Columbia Home Rule Act, referred to in text, is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. Title V of the Act was classified to the District of Columbia Code prior to repeal by Pub. L. 105–33, title XI, §11601, Aug. 5, 1997, 111 Stat. 777.
 
 #### Amendments
 

@@ -1,0 +1,4 @@
+### \[§118. Repealed. Pub. L. 101–510, div. A, title XIII, §1301(2), Nov. 5, 1990, 104 Stat. 1668\]
+
+Section, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1288, §133b; renumbered §118, Pub. L. 99–433, title I, §101(a)(2), Oct. 1, 1986, 100 Stat. 994, required reports to Congress on sales or transfers of defense articles.
+

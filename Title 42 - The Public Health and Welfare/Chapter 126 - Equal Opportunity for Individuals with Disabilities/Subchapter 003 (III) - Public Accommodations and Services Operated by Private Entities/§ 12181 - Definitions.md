@@ -52,7 +52,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(E) a bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;
 
-&emsp;&emsp;(F) a laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy,insurance office, professional office of a health care provider, hospital, or other service establishment;
+&emsp;&emsp;(F) a laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;
 
 &emsp;&emsp;(G) a terminal, depot, or other station used for specified public transportation;
 
@@ -94,7 +94,7 @@ As used in this subchapter:
 
 #### References in Text
 
-The Fair Housing Act of 1968, referred to in par. (2), probably means the Fair Housing Act, title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act of 1968, referred to in par. (2), probably means the Fair Housing Act, title VIII of Pub.L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 This chapter, referred to in par. (9)(A), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
@@ -121,6 +121,10 @@ Civil Actions.—Except for any civil action brought for a violation of section 
 “(c)
 
 Exception.—Sections 302(a) \[section 12182(a) of this title\] for purposes of section 302(b)(2)(B) and (C) only, 304(a) \[section 12184(a) of this title\] for purposes of section 304(b)(3) only, 304(b)(3), 305 \[section 12185 of this title\], and 306 \[section 12186 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1990\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 47 section 255.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

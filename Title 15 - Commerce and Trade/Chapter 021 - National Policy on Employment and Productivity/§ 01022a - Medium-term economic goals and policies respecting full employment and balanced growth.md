@@ -40,7 +40,7 @@ If, after achievement of the 3 and 4 per centum goals specified in subsection (b
 
 &emsp;(A) take such action as practicable to achieve the objectives of this subsection;
 
-&emsp;(B) make studies, develop information, and make recommendations toward remedyingthese differences in rates of unemployment, and include these in the annual Employment and Training Report of the President required under section 705(a) of the Comprehensive Employment and Training Act of 1973 (hereinafter in this chapter referred to as “CETA”); and
+&emsp;(B) make studies, develop information, and make recommendations toward remedying these differences in rates of unemployment, and prepare and submit to the President an annual report containing the recommendations; and
 
 &emsp;(C) make recommendations, as deemed necessary, to the Congress related to the objectives of this paragraph.
 
@@ -50,7 +50,7 @@ If, after achievement of the 3 and 4 per centum goals specified in subsection (b
 
 (2) For purposes of this section, the term “veteran” shall mean the same as defined in section 4211(1) or (2) of title 38.
 
-(Feb. 20, 1946, ch. 33, §4, as added Oct. 27, 1978, Pub. L. 95–523, title I, §104, 92 Stat. 1893; amended May 10, 1979, Pub. L. 96–10, §6(a)–(c), 93 Stat. 23, 24; Nov. 2, 1994, Pub. L. 103–446, title XII, §1203(c)(4), 108 Stat. 4690.)
+(Feb. 20, 1946, ch. 33, §4, as added Pub. L. 95–523, title I, §104, Oct. 27, 1978, 92 Stat. 1893; amended Pub. L. 96–10, §6(a)–(c), May 10, 1979, 93 Stat. 23, 24; Pub. L. 103–446, title XII, §1203(c)(4), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420.)
 
 #### References in Text
 
@@ -58,13 +58,13 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d),
 
 Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, §304, Oct. 27, 1978, 92 Stat. 1906, which amended section 632 of Title 2, The Congress.
 
-CETA, referred to in subsec. (f)(2)(B), means the Comprehensive Employment and Training Act, Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of Title 29, Labor, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29. Section 183 of Pub. L. 97–300, classified to section 1592 of Title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act. Section 705(a) of the Comprehensive Employment and Training Act of 1973 was classified to section 985 of Title 29, and was omitted from the Code in the general revision of Pub. L. 93–203 by Pub. L. 95–524, Oct. 27, 1978, 92 Stat. 1909.
-
 #### Prior Provisions
 
 A prior section 4 of act Feb. 20, 1946, was renumbered section 10 and is classified to section 1023 of this title.
 
 #### Amendments
+
+1998—Subsec. (f)(2)(B). Pub. L. 105–277 substituted “and prepare and submit to the President an annual report containing the recommendations” for “and include these in the annual Employment and Training Report of the President required under section 705(a) of the Comprehensive Employment and Training Act of 1973 (hereinafter in this chapter referred to as ‘CETA’)”.
 
 1994—Subsec. (g)(2). Pub. L. 103–446 substituted “this section” for “this subsection” and “section 4211(1) or (2) of title 38” for “section 2011(1) or (2)(A) of title 38”.
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 96–10, §6(c), inserted reference to Federal outlays as a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1021, 1022d, 1022e, 3116, 3132 of this title; title 2 sections 632, 636.
+This section is referred to in sections 1021, 1022d, 1022e, 3116, 3132, 3151 of this title; title 2 sections 632, 636.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

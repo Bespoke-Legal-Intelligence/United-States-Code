@@ -14,7 +14,7 @@ In General.—Whoever—
 
 Enhanced Penalty.—Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Nov. 18, 1988, Pub. L. 100–690, title VI, §6487(a), 102 Stat. 4386; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320101(a), 108 Stat. 2108; Apr. 24, 1996, Pub. L. 104–132, title VII, §727(c), 110 Stat. 1302.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, §6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, §320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, §727(c), Apr. 24, 1996, 110 Stat. 1302.)
 
 #### Historical and Revision Notes
 

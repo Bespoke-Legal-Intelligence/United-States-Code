@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(A) procurement of architectural or engineering services conducted in accordance with title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.);
 
-&emsp;&emsp;(B) the competitive selection for award of basic research proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of such proposals;
+&emsp;&emsp;(B) the competitive selection for award of basic research proposals resulting from a general solicitation and the peer review orscientific review (as appropriate) of such proposals;
 
 &emsp;&emsp;(C) the procedures established by the Administrator of General Services for the multiple award schedule program of the General Services Administration if—
 
@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;(8) The term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 127; July 29, 1958, Pub. L. 85–568, title III, §301(b), 72 Stat. 432; Sept. 2, 1958, Pub. L. 85–861, §1(43A), 72 Stat. 1457; Dec. 12, 1980, Pub. L. 96–513, title V, §511(74), 94 Stat. 2926; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2722(a), 98 Stat. 1186; Oct. 19, 1984, Pub. L. 98–525, title XII, §1211, 98 Stat. 2589; Oct. 30, 1984, Pub. L. 98–577, title V, §504(b)(3), 98 Stat. 3087; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(13), 100 Stat. 3993; Apr. 21, 1987, Pub. L. 100–26, §7(k)(2), 101 Stat. 284; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(b)(1), 103 Stat. 1518; Apr. 6, 1991, Pub. L. 102–25, titleVII, §701(d)(1), 105 Stat. 113; Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §805, 105 Stat. 1417; Oct. 13, 1994, Pub. L. 103–355, title I, §1502, 108 Stat. 3296; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(b)(3), 110 Stat. 672; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §§805(a)(1), 807(a), 110 Stat. 2605, 2606; Nov. 18, 1997, Pub. L. 105–85, div. A, title VIII, §803(b), 111 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 85–568, title III, §301(b), July 29, 1958, 72 Stat. 432; Pub. L. 85–861, §1(43A), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 96–513, title V, §511(74), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–369, div. B, title VII, §2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 98–525, title XII, §1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 98–577, title V, §504(b)(3), Oct. 30, 1984, 98 Stat. 3087; Pub. L. 99–661, div. A, title XIII, §1343(a)(13), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title VIII, §853(b)(1), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 102–25, title VII, §701(d)(1), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §805, Dec. 5, 1991, 105 Stat. 1417; Pub. L. 103–355, title I, §1502, Oct. 13, 1994, 108 Stat. 3296; Pub. L. 104–106, div. D, title XLIII, §4321(b)(3), Feb. 10, 1996, 110 Stat. 672; Pub. L. 104–201, div. A, title VIII, §§805(a)(1), 807(a), Sept. 23, 1996, 110 Stat. 2605, 2606; Pub. L. 105–85, div. A, title VIII, §803(b), Nov. 18, 1997, 111 Stat. 1832.)
 
 Historical and Revision Notes<br>1956
 
@@ -98,7 +98,7 @@ The amendments reflect section 1(44) of the bill \[amending section 2305 of Titl
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in par. (2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in par. (2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of theFederal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41, Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
+Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title \[enacting sections 1621 to 1624, 2305a, 2324, 2397a, and 2406 of this title, amending sections 2304, 2313, 2320, 2323, 2397, and 2411 to 2415 of this title, section 759 of Title 40, Public Buildings, Property, and Works, sections 253 and 418a of Title 41,Public Contracts, and section 2168 of Title 50, Appendix, War and National Defense, enacting provisions set out as notes under this section and sections 139, 139c, 1622 to 1624, 2304, 2305a, 2307, 2324, 2397a, and 2411 of this title, section 287 of Title 18, Crimes and Criminal Procedure, section 3729 of Title 31, Money and Finance, and section 2168 of Title 50, Appendix, and amending provisions set out as a note under section 418a of Title 41\] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
 
 #### Short Title of 1984 Amendment
 
@@ -232,7 +232,7 @@ Criteria for Designation of Participating Facilities.—The Secretary shall esta
 
 “(e)
 
-Notification.—(1) The Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a written notification of each facility proposed to be designated by the Secretary for participation in the pilot program.
+Notification.—(1) The Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a written notification of each facility proposed to be designated by the Secretary for participation in the pilot program.
 
 “(2) The Secretary shall include in the notification regarding a facility designated for participation in the program a management plan addressing the following:
 
@@ -346,9 +346,9 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 &emsp;“(A) Beginning on October 1, 1993, and continuing for 8 calendar quarters thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding quarter not later than 30 days after the end of such quarter.
 
-&emsp;“(B) Beginning on January 1, 1997, and continuing for 4 years thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding year not later than 30 days after the end of such year.
+&emsp;“(B) Beginning on January 1, 1997, and continuing for 4 years thereafter, by submitting a report on theapprovals granted or determinations made under such authority during the preceding year not later than 30 days after the end of such year.
 
-“(5) The Secretary shall promptly transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives each report submitted to the Secretary under paragraph (4). The Secretary shall transmit the report in classified and unclassified forms.
+“(5) The Secretary shall promptly transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] each report submitted to the Secretary under paragraph (4). The Secretary shall transmit the report in classified and unclassified forms.
 
 “(b)
 
@@ -432,7 +432,7 @@ Procedures relating to compliance with payment terms.—(A) Under procedures est
 
 “(b)
 
-Inapplicability to Certain Contracts.—Regulations prescribed under this section shall not apply to a contract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)\]).
+Inapplicability to Certain Contracts.—Regulations prescribed under this section shall not apply toa contract for the acquisition of commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)\]).
 
 “(c)
 
@@ -502,7 +502,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to which available judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
 
-“(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve the effectiveness of existing methods of preventing false statements.
+“(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve theeffectiveness of existing methods of preventing false statements.
 
 “(g)
 
@@ -618,7 +618,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense shall provide to a m
 
 “(h)
 
-Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protegefirm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
+Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
 
 “(2) Notwithstanding section 8 of the Small Business Act (15 U.S.C. 637), the Small Business Administration may not determine a disadvantaged small business concern to be ineligible to receive any assistance authorized under the Small Business Act on the basis that such business concern has participated in the Mentor-Protege Program or has received assistance pursuant to any developmental assistance agreement authorized under such program.
 
@@ -638,7 +638,7 @@ Duration of Pilot Program.—(1) Business concerns eligible to participate in th
 
 “(k)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to carry out the pilot Mentor-Protege Program. Such regulations shall include the requirements set forth in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and shall prescribe procedures by which mentor firms may terminate participation in the program. The Secretary shall publish the proposed regulations not later than the date 180 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The Secretary shall promulgate the final regulations not later than the date 270 days after the date of the enactment of this Act. The Department of Defense policy regarding the pilot Mentor-Protege Program shall be published and maintained as an appendix to the Department of Defense Supplement to the Federal Acquisition Regulation.
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out the pilot Mentor-Protege Program. Such regulations shall include the requirements set forth in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and shall prescribe procedures by which mentor firms may terminate participation in the program. The Secretary shall publish theproposed regulations not later than the date 180 days after the date of the enactment of this Act \[Nov. 5, 1990\]. The Secretary shall promulgate the final regulations not later than the date 270 days after the date of the enactment of this Act. The Department of Defense policy regarding the pilot Mentor-Protege Program shall be published and maintained as an appendix to the Department of Defense Supplement to the Federal Acquisition Regulation.
 
 “(<i>l</i>)
 
@@ -696,7 +696,7 @@ Definitions.—In this section:
 
 Availability of Funding.—Funds authorized and appropriated to carry out the program shall remain available until September 30, 1999.”
 
-\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amendingsection 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
+\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amending section 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
 
 #### Credit for Indian Contracting in Meeting Certain Minority Subcontracting Goals
 
@@ -771,7 +771,7 @@ Definition.—For the purposes of this section, the term ‘competitive procurem
 
 #### Defense Procurement Reform: Congressional Findings and Policy
 
-Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the publicand Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
+Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the public and Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
 
 &emsp;“(1) direct that officials in the Department of Defense refuse to enter into contracts unless the proposed prices are fair and reasonable;
 
@@ -789,9 +789,9 @@ Section 909(d) of Pub. L. 97–86 directed Secretary of Defense, not later than 
 
 #### Procurement Requirements for Goods Which Are Not American Goods
 
-Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United States firms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in section 2501 of this title by Pub. L. 100–370, §3(a), (c). Section 2501 of this title was renumbered section 2506 by Pub. L. 100–456, §821(b)(1)(A). Section 2506 of this title was renumbered section 2533 by Pub. L. 102–484, §4202(a).
+Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited contracts by the Department of Defense for other than American goods after Aug. 5, 1974, unless adequate consideration was first given to bids of firms in labor surplus areas of the United States, of small business firms, and of all other United Statesfirms which had offered to furnish American goods, balance of payments, cost of shipping other than American goods, and any duty, tariff, or surcharge on such goods, was repealed and restated in section 2501 of this title by Pub. L. 100–370, §3(a), (c). Section 2501 of this title was renumbered section 2506 by Pub. L. 100–456, §821(b)(1)(A). Section 2506 of this title was renumbered section 2533 by Pub. L. 102–484, §4202(a).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1737, 2302d, 2304, 2366, 2367, 2399, 2409 of this title; title 50 App. section 2171.
+This section is referred to in sections 1737, 2302d, 2304, 2366, 2367, 2399, 2409, 2646 of this title; title 50 App. section 2171.
 

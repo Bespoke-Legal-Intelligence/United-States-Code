@@ -6,11 +6,7 @@ The Secretary shall survey the areas selected or designated for conveyance to Vi
 
 #### (b) Withdrawals, selections, and conveyances pursuant to chapter: current plats of surveys or protraction diagrams; conformity to Land Survey System
 
-All withdrawals, selections, and conveyances pursuant to this chapter shall be as shown oncurrent plats of survey or protraction diagrams of the Bureau of Land Management, or protraction diagrams of the Bureau of the State where protraction diagrams of the Bureau of Land Management are not available, and shall conform as nearly as practicable to the United States Land Survey System.
+All withdrawals, selections, and conveyances pursuant to this chapter shall be as shown on current plats of survey or protraction diagrams of the Bureau of Land Management, or protraction diagrams of the Bureau of the State where protraction diagrams of the Bureau of Land Management are not available, and shall conform as nearly as practicable to the United States Land Survey System.
 
 (Pub. L. 92–203, §13, Dec. 18, 1971, 85 Stat. 702.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1631 of this title.
 

@@ -20,7 +20,7 @@ Not later than 2 years after August 18, 1990, and periodically thereafter, the S
 
 There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1991 through 1995.
 
-(July 1, 1944, ch. 373, title XXVI, §2673, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §401, 104 Stat. 619.)
+(July 1, 1944, ch. 373, title XXVI, §2673, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 619.)
 
 #### Change of Name
 

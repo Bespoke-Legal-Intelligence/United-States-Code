@@ -12,7 +12,7 @@ Whenever the rate of pay of—
 
 #### References in Text
 
-The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. See section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of Title 2, The Congress.
+The effective date of this section, referred to in text, means immediately prior to noon on Jan. 3, 1971. Seesection 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 1997 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 1998 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -40,7 +40,7 @@
 | [<b>27.</b>](Chapter%20027%20-%20National%20Vocational%20Student%20Loan%20Insurance/README.md) | <b>National Vocational Student Loan Insurance \[Repealed\]</b> | <b>981</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Higher%20Education%20Resources%20and%20Student%20Assistance/README.md) | <b>Higher Education Resources and Student Assistance</b> | <b>1001</b> |
 | [<b>29.</b>](Chapter%20029%20-%20International%20Studies%20and%20Research/README.md) | <b>International Studies and Research \[Omitted or Repealed\]</b> | <b>1171</b> |
-| [<b>30.</b>](Chapter%20030%20-%20Basic%20Education%20for%20Adults/README.md) | <b>Basic Education for Adults</b> | <b>1201</b> |
+| [<b>30.</b>](Chapter%20030%20-%20Basic%20Education%20for%20Adults/README.md) | <b>Basic Education for Adults \[Repealed\]</b> | <b>1201</b> |
 | [<b>31.</b>](Chapter%20031%20-%20General%20Provisions%20Concerning%20Education/README.md) | <b>General Provisions Concerning Education</b> | <b>1221</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Vocational%20Education/README.md) | <b>Vocational Education \[Omitted or Repealed\]</b> | <b>1241</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Education%20of%20Individuals%20with%20Disabilities/README.md) | <b>Education of Individuals With Disabilities</b> | <b>1400</b> |
@@ -54,7 +54,7 @@
 | [<b>41.</b>](Chapter%20041%20-%20National%20Reading%20Improvement%20Program/README.md) | <b>National Reading Improvement Program \[Repealed\]</b> | <b>1901</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Harry%20S%20Truman%20Memorial%20Scholarships/README.md) | <b>Harry S Truman Memorial Scholarships</b> | <b>2001</b> |
 | [<b>43.</b>](Chapter%20043%20-%20American%20Folklife%20Preservation/README.md) | <b>American Folklife Preservation</b> | <b>2101</b> |
-| [<b>44.</b>](Chapter%20044%20-%20Vocational%20Education/README.md) | <b>Vocational Education</b> | <b>2301</b> |
+| [<b>44.</b>](Chapter%20044%20-%20Vocational%20and%20Technical%20Education/README.md) | <b>Vocational Education</b> | <b>2301</b> |
 | [<b>45.</b>](Chapter%20045%20-%20Career%20Education%20and%20Career%20Development/README.md) | <b>Career Education and Career Development</b> | <b>2501</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Career%20Education%20Incentive/README.md) | <b>Career Education Incentive \[Repealed or Omitted\]</b> | <b>2601</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools \[Omitted, Transferred, or Repealed\]</b> | <b>2701</b> |
@@ -83,6 +83,7 @@
 | [<b>70.</b>](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |
 | [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics</b> | <b>9001</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
+| [<b>73.</b>](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md) | <b>Adult Education and Literacy</b> | <b>9201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -212,7 +213,7 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 041 - National Reading Improvement Program](Chapter%20041%20-%20National%20Reading%20Improvement%20Program/README.md)
 - [Chapter 042 - Harry S Truman Memorial Scholarships](Chapter%20042%20-%20Harry%20S%20Truman%20Memorial%20Scholarships/README.md)
 - [Chapter 043 - American Folklife Preservation](Chapter%20043%20-%20American%20Folklife%20Preservation/README.md)
-- [Chapter 044 - Vocational Education](Chapter%20044%20-%20Vocational%20Education/README.md)
+- [Chapter 044 - Vocational and Technical Education](Chapter%20044%20-%20Vocational%20and%20Technical%20Education/README.md)
 - [Chapter 045 - Career Education and Career Development](Chapter%20045%20-%20Career%20Education%20and%20Career%20Development/README.md)
 - [Chapter 046 - Career Education Incentive](Chapter%20046%20-%20Career%20Education%20Incentive/README.md)
 - [Chapter 047 - Strengthening and Improvement of Elementary and Secondary Schools](Chapter%20047%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md)
@@ -241,3 +242,4 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 070 - Strengthening and Improvement of Elementary and Secondary Schools](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md)
 - [Chapter 071 - National Education Statistics](Chapter%20071%20-%20National%20Education%20Statistics/README.md)
 - [Chapter 072 - Museum and Library Services](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md)
+- [Chapter 073 - Adult Education and Literacy](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md)

@@ -1,6 +1,6 @@
 ### §1337. Grant of leases by Secretary
 
-#### (a) Oil and gas leases; award to highest responsible qualified bidder; method of bidding; royalty relief; Congressional consideration of bidding system; notice; annual report to Congress
+#### (a) Oil and gas leases; award to highest responsible qualified bidder; method of bidding; royalty relief; Congressional consideration of bidding system; notice
 
 (1) The Secretary is authorized to grant to the highest responsible qualified bidder or bidders by competitive bidding, under regulations promulgated in advance, any oil and gas lease on submerged lands of the outer Continental Shelf which are not covered by leases meeting the requirements of subsection (a) of section 1335 of this title. Such regulations may provide for the deposit of cash bids in an interest-bearing account until the Secretary announces his decision on whether to accept the bids, with the interest earned thereon to be paid to the Treasury as to bids that are accepted and to the unsuccessful bidders as to bids that are rejected. The bidding shall be by sealed bid and, at the discretion of the Secretary, on the basis of—
 
@@ -36,7 +36,7 @@
 
 (C)(i) Notwithstanding the provisions of this subchapter other than this subparagraph, with respect to any lease or unit in existence on November 28, 1995, meeting the requirements of this subparagraph, no royalty payments shall be due on new production, as defined in clause (iv) of this subparagraph, from any lease or unit located in water depths of 200 meters or greater in the Western and Central Planning Areas of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, until such volume of production as determined pursuant to clause (ii) has been produced by the lessee.
 
-(ii) Upon submission of a complete application by the lessee, the Secretary shall determine within 180 days of such application whether new production from such lease or unit would be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i) of this subparagraph. In making such determination, the Secretary shall consider the increased technological and financial risk of deep water development and all costs associatedwith exploring, developing, and producing from the lease. The lessee shall provide information required for a complete application to the Secretary prior to such determination. The Secretary shall clearly define the information required for a complete application under this section. Such application may be made on the basis of an individual lease or unit. If the Secretary determines that such new production would be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i) of this subparagraph, the provisions of clause (i) shall not apply to such production. If the Secretary determines that such new production would not be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i), the Secretary must determine the volume of production from the lease or unit on which no royalties would be due in order to make such new production economically viable; except that for new production as defined in clause (iv)(I), in no case will that volume be less than 17.5 million barrels of oil equivalent in water depths of 200 to 400 meters, 52.5 million barrels of oil equivalent in 400–800 meters of water, and 87.5 million barrels of oil equivalent in water depths greater than 800 meters. Redetermination of the applicability of clause (i) shall be undertaken by the Secretary when requested by the lessee prior to the commencement of the new production and upon significant change in the factors upon which the original determination was made. The Secretary shall make such redetermination within 120 days of submission of a complete application. The Secretary may extend the time period for making any determination or redetermination under this clause for 30 days, or longer if agreed to by the applicant, if circumstances so warrant. The lessee shall be notified in writing of any determination or redetermination and the reasons for and assumptions used for such determination. Any determination or redetermination under this clause shall be a final agency action. The Secretary's determination or redetermination shall be judicially reviewable under section 702 of title 5, only for actions filed within 30 days of the Secretary's determination or redetermination.
+(ii) Upon submission of a complete application by the lessee, the Secretary shall determine within 180 days of such application whether new production from such lease or unit would be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i) of this subparagraph. In making such determination, the Secretary shall consider the increased technological and financial risk of deep water development and all costs associated with exploring, developing, and producing from the lease. The lessee shall provide information required for a complete application to the Secretary prior to such determination. The Secretary shall clearly define the information required for a complete application under this section. Such application may be made on the basis of an individual lease or unit. If the Secretary determines that such new production would be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i) of this subparagraph, the provisions of clause (i) shall not apply to such production. If the Secretary determines that such new production would not be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i), the Secretary must determine the volume of production from the lease or unit on which no royalties would be due in order to make such new production economically viable; except that for new production as defined in clause (iv)(I), in no case will that volume be less than 17.5 million barrels of oil equivalent in water depths of 200 to 400 meters, 52.5 million barrels of oil equivalent in 400–800 meters of water, and 87.5 million barrels of oil equivalent in water depths greater than 800 meters. Redetermination of the applicability of clause (i) shall be undertaken by the Secretary when requested by the lessee prior to the commencement of the new production and upon significant change in the factors upon which the original determination was made. The Secretary shall make such redetermination within 120 days ofsubmission of a complete application. The Secretary may extend the time period for making any determination or redetermination under this clause for 30 days, or longer if agreed to by the applicant, if circumstances so warrant. The lessee shall be notified in writing of any determination or redetermination and the reasons for and assumptions used for such determination. Any determination or redetermination under this clause shall be a final agency action. The Secretary's determination or redetermination shall be judicially reviewable under section 702 of title 5, only for actions filed within 30 days of the Secretary's determination or redetermination.
 
 (iii) In the event that the Secretary fails to make the determination or redetermination called for in clause (ii) upon application by the lessee within the time period, together with any extension thereof, provided for by clause (ii), no royalty payments shall be due on new production as follows:
 
@@ -68,7 +68,7 @@
 
 (D) If the committee to which has been referred any resolution disapproving the bidding system of the Secretary has not reported the resolution at the end of ten calendar days after its referral, it shall be in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution with respect to the same bidding system which has been referred to the committee.
 
-(E) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same recommendation), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(E) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same recommendation), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move toreconsider the vote by which the motion is agreed to or disagreed to.
 
 (F) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same bidding system.
 
@@ -90,7 +90,7 @@
 
 &emsp;(A) the lessee, at its option, shall deliver to the Secretary upon issuance of the lease either (i) a cash deposit for the full amount of the exploration work commitment, or (ii) a performance bond in form and substance and with a surety satisfactory to the Secretary, in the principal amount of such exploration work commitment assuring the Secretary that such commitment shall be faithfully discharged in accordance with this section, regulations, and the lease; and for purposes of this subparagraph, the principal amount of such cash deposit or bond may, in accordance with regulations, be periodically reduced upon proof, satisfactory to the Secretary, that a portion of the exploration work commitment has been satisfied;
 
-&emsp;(B) 50 per centum of all exploration expenditures on, or directly related to, the lease, including, but not limited to (i) geological investigations and related activities, (ii) geophysical investigations including seismic, geomagnetic, and gravity surveys, data processing and interpretation, and (iii) exploratory drilling, core drilling, redrilling, and well completion or abandonment, including the drilling of wells sufficient to determine the size and a real extent of any newly discovered field, and including the cost of mobilizationand demobilization of drilling equipment, shall be included in satisfaction of the commitment, except that the lessee's general overhead cost shall not be so included against the work commitment, but its cost (including employee benefits) of employees directly assigned to such exploration work shall be so included; and
+&emsp;(B) 50 per centum of all exploration expenditures on, or directly related to, the lease, including, but not limited to (i) geological investigations and related activities, (ii) geophysical investigations including seismic, geomagnetic, and gravity surveys, data processing and interpretation, and (iii) exploratory drilling, core drilling, redrilling, and well completion or abandonment, including the drilling of wells sufficient to determine the size and a real extent of any newly discovered field, and including the cost of mobilization and demobilization of drilling equipment, shall be included in satisfaction of the commitment, except that the lessee's general overhead cost shall not be so included against the work commitment, but its cost (including employee benefits) of employees directly assigned to such exploration work shall be so included; and
 
 &emsp;(C) if at the end of the primary term of the lease, including any extension thereof, the full dollar amount of the exploration work commitment has not been satisfied, the balance shall then be paid in cash to the Secretary.
 
@@ -99,18 +99,6 @@
 &emsp;(A) identifying any bidding system which will be utilized for such lease sale and the reasons for the utilization of such bidding system; and
 
 &emsp;(B) designating the lease tracts selected which are to be offered in such sale under the bidding system authorized by subparagraph (A) of paragraph (1) and the lease tracts selected which are to be offered under any one or more of the bidding systems authorized by subparagraphs (B) through (H) of paragraph (1), and the reasons such lease tracts are to be offered under a particular bidding system.
-
-(9) Within six months after the end of each fiscal year, the Secretary of Energy, in consultation with the Secretary of the Interior, shall report to the Congress with respect to the use of various bidding options provided for in this subsection. Such report shall include—
-
-&emsp;(A) the schedule of all lease sales held during such year and the bidding system or systems utilized;
-
-&emsp;(B) the schedule of all lease sales to be held the following year and the bidding system or systems to be utilized;
-
-&emsp;(C) the benefits and costs associated with conducting lease sales using the various bidding systems;
-
-&emsp;(D) if applicable, the reasons why a particular bidding system has not been or will not be utilized; and
-
-&emsp;(E) if applicable, the reasons why more than 60 per centum or less than 20 per centum of the area leased in the past year, or to be offered for lease in the upcoming year, was or is to be leased under the bidding system authorized by subparagraph (A) of paragraph (1) of this subsection.
 
 #### (b) Terms and provisions of oil and gas leases
 
@@ -182,7 +170,7 @@ Nothing in this subchapter shall be deemed to convey to any person, association,
 
 (3) Whenever the Secretary or the Governor of a coastal State determines that a common potentially hydrocarbon-bearing area may underlie the Federal and State boundary, the Secretary or the Governor shall notify the other party in writing of his determination and the Secretary shall provide to the Governor notice of the current and projected status of the tract or tracts containing the common potentially hydrocarbon-bearing area. If the Secretary has leased or intends to lease such tract or tracts, the Secretary and the Governor of the coastal State may enter into an agreement to divide the revenues from production of any common potentially hydrocarbon-bearing area, by unitization or other royalty sharing agreement, pursuant to existing law. If the Secretary and the Governor do not enter into an agreement, the Secretary may nevertheless proceed with the leasing of the tract or tracts. Any revenues received by the United States under such an agreement shall be subject to the requirements of paragraph (2).
 
-(4) The deposits in the Treasury account described in this section shall be invested by the Secretary of the Treasury in securities backed by the full faith and credit of the United States having maturities suitable to the needs of theaccount and yielding the highest reasonably available interest rates as determined by the Secretary of the Treasury.
+(4) The deposits in the Treasury account described in this section shall be invested by the Secretary of the Treasury in securities backed by the full faith and credit of the United States having maturities suitable to the needs of the account and yielding the highest reasonably available interest rates as determined by the Secretary of the Treasury.
 
 (5)(A) When there is a boundary dispute between the United States and a State which is subject to an agreement under section 1336 of this title, the Secretary shall credit to the account established pursuant to such agreement all bonuses, rents, and royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1) of this section), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978 of any Federal tract which lies wholly or partially within three nautical miles of the seaward boundary asserted by the State, if that money has not otherwise been deposited in such account. Proceeds of an escrow account established pursuant to an agreement under section 1336 of this title shall be distributed as follows:
 
@@ -222,7 +210,7 @@ A sulphur lease issued by the Secretary pursuant to this section shall (1) cover
 
 &emsp;(ii) for use in a construction project, other than a project described in clause (i), that is funded in whole or in part by or authorized by the Federal Government.
 
-(B) In carrying out a negotiation under this paragraph, the Secretary may assess a fee basedon an assessment of the value of the resources and the public interest served by promoting development of the resources. No fee shall be assessed directly or indirectly under this subparagraph against an agency of the Federal Government.
+(B) In carrying out a negotiation under this paragraph, the Secretary may assess a fee based on an assessment of the value of the resources and the public interest served by promoting development of the resources. No fee shall be assessed directly or indirectly under this subparagraph against an agency of the Federal Government.
 
 (C) The Secretary may, through this paragraph and in consultation with the Secretary of Commerce, seek to facilitate projects in the coastal zone, as such term is defined in section 1453 of title 16, that promote the policy set forth in section 1452 of title 16.
 
@@ -244,13 +232,13 @@ The issuance of any lease by the Secretary pursuant to this subchapter, or the m
 
 The Secretary may cancel any lease obtained by fraud or misrepresentation.
 
-(Aug. 7, 1953, ch. 345, §8, 67 Stat. 468; Pub. L. 95–372, title II, §205(a), (b), Sept. 18, 1978, 92 Stat. 640, 644; Pub. L. 99–272, title VIII, §8003, Apr. 7, 1986, 100 Stat. 148; Pub. L. 100–202, §101(g) \[title I, §100\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–225; Pub. L. 103–426, §1(a), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–58, title III, §§302, 303, Nov. 28, 1995, 109 Stat. 563, 565.)
+(Aug. 7, 1953, ch. 345, §8, 67 Stat. 468; Pub. L. 95–372, title II, §205(a), (b), Sept. 18, 1978, 92 Stat. 640, 644; Pub. L. 99–272, title VIII, §8003, Apr. 7, 1986, 100 Stat. 148; Pub. L. 100–202, §101(g) \[titleI, §100\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–225; Pub. L. 103–426, §1(a), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–58, title III, §§302, 303, Nov. 28, 1995, 109 Stat. 563, 565; Pub. L. 105–362, title IX, §901(k), Nov. 10, 1998, 112 Stat. 3290.)
 
 #### References in Text
 
 The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (b)(7), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
-The antitrust laws, referred to in subsecs. (c)(3), (4)(B), and (f), are defined in section 1331 of this title.
+The antitrust laws, referred to in subsecs. (c)(3), (4)(B) and (f), are defined in section 1331 of this title.
 
 Section 8004(b)(1)(B) of the Outer Continental Shelf Lands Act Amendments of 1985, referred to in subsec. (g)(5)(A), is section 8004(b)(1)(B) of Pub. L. 99–272, which is set out as a note below.
 
@@ -259,6 +247,8 @@ Section 8004(b)(1)(B) of the Outer Continental Shelf Lands Act Amendments of 198
 In subsec. (a)(3)(C)(ii), “section 702 of title 5” substituted for “section 10(a) of the Administrative Procedures Act (5 U.S.C. 702)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (a)(9). Pub. L. 105–362 struck out par. (9) which related to report to Congress by Secretary of Energy on bidding options for oil and gas leases on outer Continental Shelf land.
 
 1995—Subsec. (a)(1)(H), (I). Pub. L. 104–58, §303, added subpar. (H) and redesignated former subpar. (H) as (I).
 
@@ -316,7 +306,7 @@ Section 306 of title III of Pub. L. 104–58 provided that: “Nothing in this t
 
 #### Transfer of Functions
 
-Functions vested in, or delegated to, Secretary of Energy and Department of Energy under or with respect to subsec. (a)(4), (9) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
+Functions vested in, or delegated to, Secretary of Energy and Department of Energy under or with respect to subsec. (a)(4) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
@@ -326,7 +316,7 @@ Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321�
 
 #### Lease Sales
 
-Section 304 of title III of Pub. L. 104–58 provided that: “For all tracts located in water depths of 200 meters or greater in the Western and Central Planning Area of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, any lease sale within five years of the date of enactment of this title \[Nov. 28, 1995\], shall use the bidding system authorized in section 8(a)(1)(H) of the Outer Continental Shelf Lands Act, as amended bythis title \[43 U.S.C. 1337(a)(1)(H)\], except that the suspension of royalties shall be set at a volume of not less than the following:
+Section 304 of title III of Pub. L. 104–58 provided that: “For all tracts located in water depths of 200 meters or greater in the Western and Central Planning Area of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, any lease sale within five years of the date of enactment of this title \[Nov. 28, 1995\], shall use the bidding system authorized in section 8(a)(1)(H) of the Outer Continental Shelf Lands Act, as amended by this title \[43 U.S.C. 1337(a)(1)(H)\], except that the suspension of royalties shall be set at a volume of not less than the following:
 
 &emsp;“(1) 17.5 million barrels of oil equivalent for leases in water depths of 200 to 400 meters;
 
@@ -432,7 +422,7 @@ Oil and gas leases on public lands—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1331, 1332, 1343, 1346 of this title; title 30 sections 196, 1731a; title 42 section 6508.
+This section is referred to in sections 1331, 1332, 1346 of this title; title 30 sections 196, 1731a; title 42 section 6508.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
 

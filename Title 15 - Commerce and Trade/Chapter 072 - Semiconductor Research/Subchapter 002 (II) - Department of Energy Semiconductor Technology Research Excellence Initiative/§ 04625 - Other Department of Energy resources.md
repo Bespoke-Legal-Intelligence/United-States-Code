@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, the Secretary of Energy may make avai
 
 #### (b) Reimbursement
 
-The Secretary may make facilities available under this section only to the extent that thecost of the use of such facilities is reimbursed by the user.
+The Secretary may make facilities available under this section only to the extent that the cost of the use of such facilities is reimbursed by the user.
 
 (Pub. L. 100–180, div. C, title I, §3145, Dec. 4, 1987, 101 Stat. 1243.)
 

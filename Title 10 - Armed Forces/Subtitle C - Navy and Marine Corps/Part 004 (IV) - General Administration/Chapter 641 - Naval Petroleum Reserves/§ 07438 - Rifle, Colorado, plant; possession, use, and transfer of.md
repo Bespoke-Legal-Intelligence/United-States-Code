@@ -10,7 +10,7 @@
 
 &emsp;(2) in diminution of the responsibility of the Secretary in providing oil shale and products therefrom for needs of national defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 462; Oct. 11, 1962, Pub. L. 87–796, §1(12), 76 Stat. 906; Apr. 5, 1976, Pub. L. 94–258, title II, §201(19), 90 Stat. 313; Dec. 12, 1980, Pub. L. 96–513, title V, §513(37), 94 Stat. 2934; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(2), 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 462; Pub. L. 87–796, §1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, §513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
 
 Historical and Revision Notes
 
@@ -49,6 +49,10 @@ Subsec. (b). Pub. L. 94–258 substituted “Administrator of the Energy Researc
 Subsec. (c). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
 
 1962—Pub. L. 87–796 amended section generally by substituting provisions relating to the possession, use, and transfer of the experimental demonstration facility near Rifle, Colorado, for provisions which stated that this chapter does not authorize the development or operation of the naval oil-shale reserves.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1980 Amendment
 

@@ -4,7 +4,7 @@
 
 (1) Privatization shall not diminish the accrued, vested pension benefits of employees of the Corporation's operating contractor at the two gaseous diffusion plants.
 
-(2) In the event that the private corporation terminates or changes the contractor at eitheror both of the gaseous diffusion plants, the plan sponsor or other appropriate fiduciary of the pension plan covering employees of the prior operating contractor shall arrange for the transfer of all plan assets and liabilities relating to accrued pension benefits of such plan's participants and beneficiaries from such plant to a pension plan sponsored by the new contractor or the private corporation or a joint labor-management plan, as the case may be.
+(2) In the event that the private corporation terminates or changes the contractor at either or both of the gaseous diffusion plants, the plan sponsor or other appropriate fiduciary of the pension plan covering employees of the prior operating contractor shall arrange for the transfer of all plan assets and liabilities relating to accrued pension benefits of such plan's participants and beneficiaries from such plant to a pension plan sponsored by the new contractor or the private corporation or a joint labor-management plan, as the case may be.
 
 (3) In addition to any obligations arising under the National Labor Relations Act (29 U.S.C. 151 et seq.), any employer (including the private corporation if it operates a gaseous diffusion plant without a contractor or any contractor of the private corporation) at a gaseous diffusion plant shall—
 
@@ -34,7 +34,7 @@
 
 (7)(A) Any suit under this subsection alleging a violation of an agreement between an employer and a labor organization shall be brought in accordance with section 185 <sup>1</sup> of title 29.
 
-(B) Any charge under this subsection alleging an unfair labor practice violative of section 8 of the National Labor Relations Act (29 U.S.C. 158) shall be pursued in accordance with section 10 of the National Labor Relations Act (29 U.S.C. 160).
+(B) Any charge under this subsection alleging an unfair labor practice violative of section 8 of the National Labor Relations Act (29 U.S.C. 158)shall be pursued in accordance with section 10 of the National Labor Relations Act (29 U.S.C. 160).
 
 (C) Any suit alleging a violation of any provision of this subsection, to the extent it does not allege a violation of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], may be brought in any district court of the United States having jurisdiction over the parties, without regard to the amount in controversy or the citizenship of the parties.
 

@@ -6,7 +6,7 @@ Legal representatives of deceased inventors and of those under legal incapacity 
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §46 (R.S. 4896, amended (1) Feb. 28, 1899, ch. 227, 30 Stat. 915, (2) Mar.3, 1903, ch. 1019, §3, 32 Stat. 1225, 1226, (3) May 23, 1908, ch. 188, 35 Stat. 245).
+Based on Title 35, U.S.C., 1946 ed., §46 (R.S. 4896, amended (1) Feb. 28, 1899, ch. 227, 30 Stat. 915, (2) Mar. 3, 1903, ch. 1019, §3, 32 Stat. 1225, 1226, (3) May 23, 1908, ch. 188, 35 Stat. 245).
 
 The language has been considerably simplified.
 

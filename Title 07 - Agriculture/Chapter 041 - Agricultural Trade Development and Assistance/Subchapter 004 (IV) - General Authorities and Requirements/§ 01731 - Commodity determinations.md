@@ -18,7 +18,7 @@ No agricultural commodity shall be available for disposition under this chapter 
 
 Subsection (b)(1) of this section shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
 
-(July 10, 1954, ch. 469, title IV, §401, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(1), 76 Stat. 610; Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1535; Aug. 3, 1977, Pub. L. 95–88, title II, §212, 91 Stat. 551; Sept. 29, 1977, Pub. L. 95–113, title XII, §1204, 91 Stat. 956; Aug. 14, 1979, Pub. L. 96–53, title II, §208, 93 Stat. 370; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3645; Apr. 4, 1996, Pub. L. 104–127, title II, §212, 110 Stat. 955.)
+(July 10, 1954, ch. 469, title IV, §401, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(1), Sept. 27, 1962, 76 Stat. 610; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, §212, Aug. 3, 1977, 91 Stat. 551; Pub. L. 95–113, title XII, §1204, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–53, title II, §208, Aug. 14, 1979, 93 Stat. 370; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3645; Pub. L. 104–127, title II, §212, Apr. 4, 1996, 110 Stat. 955.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Pub. L. 95–88 designated existing provisions as subsec. (a).
 
 Subsec. (b). Pub. L. 95–88 added subsec. (b).
 
-1966—Pub. L. 89–808 substituted provisions relating to determination and criteria for such determination bythe Secretary of Agriculture of agricultural commodities available for disposition for former statement of purpose of provisions relating to long-term supply contracts, now covered by subchapter II of this chapter.
+1966—Pub. L. 89–808 substituted provisions relating to determination and criteria for such determination by the Secretary of Agriculture of agricultural commodities available for disposition for former statement of purpose of provisions relating to long-term supply contracts, now covered by subchapter II of this chapter.
 
 1962—Pub. L. 87–703 included in the statement of purpose the stimulation and increase of sales of surplus agricultural commodities for dollars through long-term supply contracts and through the extension of credit for the purchase of such commodities, by agreements with friendly nations or with private trade.
 

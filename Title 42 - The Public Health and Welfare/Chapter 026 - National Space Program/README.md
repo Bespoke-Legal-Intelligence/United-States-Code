@@ -71,26 +71,16 @@
 | [2463\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002463%20-%20Tracking%20and%20data%20relay%20satellite%20services%3B%20report%20to%20Congressional%20committees%3B%20authorization%20to%20contract.md) | Tracking and data relay satellite services; report to Congressional committees; authorization to contract. |
 | [2464\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002464%20-%20Recovery%20of%20fair%20value%20of%20placing%20Department%20of%20Defense%20payloads%20in%20orbit%20with%20Space%20Shuttle.md) | Recovery of fair value of placing Department of Defense payloads in orbit with Space Shuttle. |
 | [2464a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002464a%20-%20Payloads%20launched%20on%20Titan%20II%20launch%20vehicles%3B%20cost%20effectiveness%20as%20against%20space%20shuttle%20launches.md) | Payloads launched on Titan II launch vehicles; cost effectiveness as against space shuttle launches. |
-| [2465\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465%20-%20Commercialization%20of%20expendable%20launch%20vehicle%20technologies%2C%20facilities%20and%20equipment%3B%20Congressional%20review.md) | Commercialization of expendable launch vehicle technologies, facilities and equipment; Congressional review. |
+| [2465\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XI%2C%20%C2%A71101%28f%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203292.md) | Repealed. |
 | [2465a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465a%20-%20Space%20Shuttle%20use%20policy.md) | Space Shuttle use policy. |
 | (a) | Use policy. |
 | (b) | Implementation plan. |
 | (c) | Annual report. |
 | (d) | NASA payloads. |
-| [2465b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465b%20-%20Congressional%20findings.md) | Congressional findings. |
+| [2465b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93303%2C%20title%20II%2C%20%C2%A7203%281%29%2C%20Oct.%2028%2C%201998%2C%20112%20Stat.%202855.md) | Repealed. |
 | [2465c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465c%20-%20Definitions.md) | Definitions. |
-| [2465d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465d%20-%20Requirement%20to%20procure%20commercial%20launch%20services.md) | Requirement to procure commercial launch services. |
-| (a) | In general. |
-| (b) | Exceptions. |
-| (c) | National Aeronautics and Space Administration launch vehicles. |
-| (d) | Phase-in period. |
-| (e) | Historical purposes. |
-| [2465e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465e%20-%20Purchase%20of%20launch%20services.md) | Purchase of launch services. |
-| (a) | Full and open competition. |
-| (b) | Specification systems. |
+| 2465d, 2465e. Repealed. |  |
 | [2465f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002465f%20-%20Other%20activities%20of%20National%20Aeronautics%20and%20Space%20Administration.md) | Other activities of National Aeronautics and Space Administration. |
-| (a) | Commercial payloads on space shuttle. |
-| (b) | Report. |
 | [2466\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002466%20-%20Shuttle%20pricing%20policy%3B%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Shuttle pricing policy; Congressional findings and declaration of purpose. |
 | [2466a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002466a%20-%20Goals.md) | Goals. |
 | [2466b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002466b%20-%20%E2%80%9CAdministrator%E2%80%9D%20and%20%E2%80%9Cadditive%20cost%E2%80%9D%20defined.md) | “Administrator” and “additive cost” defined. |

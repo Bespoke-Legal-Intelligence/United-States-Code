@@ -18,7 +18,7 @@ The Congress finds:
 
 &emsp;(7) The Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\], other legislation and local, State and national resources support the integration of the arts and humanities into the regular curriculum and school day for all children.
 
-&emsp;(8) While all children benefit from instruction in the arts and the humanities, at-riskchildren and youth have a special, additional need for arts and cultural programs both in school and after school.
+&emsp;(8) While all children benefit from instruction in the arts and the humanities, at-risk children and youth have a special, additional need for arts and cultural programs both in school and after school.
 
 #### (b) Purpose
 

@@ -2,7 +2,7 @@
 
 The surplus of the proceeds of sales under section 1491 of this title, after the payment of storage charges, expenses, duties, taxes, and fees, and the satisfaction of any lien for freight, charges, or contribution in general average, shall be deposited in the Treasury of the United States, if claim therefor shall not be filed with the Customs Service within ten days from the date of sale, and the sale of such merchandise shall exonerate the master of any vessel in which the merchandise was imported from all claims of the owner thereof, who shall, nevertheless, on due proof of his interest, be entitled to receive from the Treasury the amount of any surplus of the proceeds of sale.
 
-(June 17, 1930, ch. 497, title IV, §493, 46 Stat. 727; June 2, 1970, Pub. L. 91–271, title III, §301(e), 84 Stat. 288; Dec. 8, 1993, Pub. L. 103–182, title VI, §661, 107 Stat. 2214.)
+(June 17, 1930, ch. 497, title IV, §493, 46 Stat. 727; Pub. L. 91–271, title III, §301(e), June 2, 1970, 84 Stat. 288; Pub. L. 103–182, title VI, §661, Dec. 8, 1993, 107 Stat. 2214.)
 
 #### Prior Provisions
 

@@ -26,7 +26,7 @@ Section 101 of title I of H.R. 2253, as enacted into permanent law by section 10
 
 &emsp;“(6) to succeed, these efforts must be reinforced by development resources;
 
-&emsp;“(7) the appalling conditions prevalent in the countries of Sub-Saharan Africa underscore the need for the United States to participate in a coordinated framework with the other aid donor countries; and
+&emsp;“(7) the appalling conditions prevalent in the countries of Sub-Saharan Africa underscore the need forthe United States to participate in a coordinated framework with the other aid donor countries; and
 
 &emsp;“(8) the Special Facility for Sub-Saharan Africa provides such a framework and it is in the humanitarian, economic, and strategic interests of the United States to participate.”
 

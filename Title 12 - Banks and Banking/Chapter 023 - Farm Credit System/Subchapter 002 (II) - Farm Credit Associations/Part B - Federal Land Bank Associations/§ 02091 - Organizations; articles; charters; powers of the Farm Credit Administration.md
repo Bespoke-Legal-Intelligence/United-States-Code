@@ -48,7 +48,7 @@ Each Federal land bank association shall continue as a federally chartered instr
 
 #### (c) FCA authority on organization
 
-The Farm Credit Administration shall have power, in the terms of the charter, under rules and regulations prescribed by the Farm Credit Administration—
+The Farm Credit Administration shall have power, in the terms of the charter, under rulesand regulations prescribed by the Farm Credit Administration—
 
 &emsp;(1) to provide for the organization of the association;
 

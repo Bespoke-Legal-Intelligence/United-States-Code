@@ -62,7 +62,7 @@ In order to determine the estimated number of migratory children residing in eac
 
 &emsp;(3) adjust the full-time equivalent number of migratory children who reside in each State to take into account—
 
-&emsp;&emsp;(A) the special needs of those children participating in special programs provided under this part that operate during the summer and intersession periods; and
+&emsp;&emsp;(A) the special needs of those children participating in special programs providedunder this part that operate during the summer and intersession periods; and
 
 &emsp;&emsp;(B) the additional costs of operating such programs; and
 

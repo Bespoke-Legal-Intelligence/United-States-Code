@@ -14,11 +14,11 @@ Confidentiality of Information.—Information obtained under this chapter relate
 
 (b)
 
-Defect and Noncompliance Information.—Subject to subsection (a) of this section, the Secretary shall disclose information obtained under this chapter related to a defect or noncompliance that the Secretary decides will assist in carrying out sections 30117(b) and 30118–30121 of this title or that is required to be disclosed under section 30118(a) of this title. A requirement to disclose information under this subsection is in addition to the requirements of section 552 of title 5.
+Defect and Noncompliance Information.—Subject to subsection (a) of this section, the Secretary shall disclose information obtained under this chapter related to a defect or noncompliance that the Secretary decides will assist in carrying out sections 30117(b) and 30118–30121 of this title or that is required to be disclosed under section 30118(a) of this title. A requirement to disclose information under thissubsection is in addition to the requirements of section 552 of title 5.
 
 (c)
 
-Information About Manufacturer's Increased Costs.—A manufacturer opposing anaction of the Secretary under this chapter because of increased cost shall submit to the Secretary information about the increased cost, including the manufacturer's cost and the cost to retail purchasers, that allows the public and the Secretary to evaluate the manufacturer's statement. The Secretary shall evaluate the information promptly and, subject to subsection (a) of this section, shall make the information and evaluation available to the public. The Secretary shall publish a notice in the Federal Register that the information is available.
+Information About Manufacturer's Increased Costs.—A manufacturer opposing an action of the Secretary under this chapter because of increased cost shall submit to the Secretary information about the increased cost, including the manufacturer's cost and the cost to retail purchasers, that allows the public and the Secretary to evaluate the manufacturer's statement. The Secretary shall evaluate the information promptly and, subject to subsection (a) of this section, shall make the information and evaluation available to the public. The Secretary shall publish a notice in the Federal Register that the information is available.
 
 (d)
 

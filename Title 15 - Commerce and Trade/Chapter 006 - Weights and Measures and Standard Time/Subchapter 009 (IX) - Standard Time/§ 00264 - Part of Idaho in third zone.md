@@ -14,7 +14,7 @@ The original section 3 of act Mar. 19, 1918, providing for daylight-savings, was
 
 #### Effective Date of 1948 Amendment
 
-Section 2 of act June 24, 1948, provided that: “This Act \[amending this section\] shall take effect at 2o'clock antemeridian of the second Monday following the date of its enactment.”
+Section 2 of act June 24, 1948, provided that: “This Act \[amending this section\] shall take effect at 2 o'clock antemeridian of the second Monday following the date of its enactment.”
 
 #### Section Referred to in Other Sections
 

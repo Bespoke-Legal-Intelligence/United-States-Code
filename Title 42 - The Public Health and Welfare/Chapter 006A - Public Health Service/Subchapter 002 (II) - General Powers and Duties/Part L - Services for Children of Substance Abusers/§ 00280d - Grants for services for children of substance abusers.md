@@ -58,7 +58,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;&emsp;(F) programs offered by vocational rehabilitation agencies, recreation departments, and housing agencies.
 
-&emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is defined in part H <sup>1</sup> of the Individuals with Disabilities Education Act.
+&emsp;(8) Additional developmental services that are consistent with the provision of earlyintervention services, as such term is defined in part H <sup>1</sup> of the Individuals with Disabilities Education Act.
 
 #### (c) Services for affected families
 
@@ -286,7 +286,7 @@ For purposes of this section:
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year in excess of $25,000,000, the Secretary may make available not more than 15 percent for the training of health care professionals and other personnel (including child welfare providers) who provide services to children and families of substance abusers.
 
-(July 1, 1944, ch. 373, title III, §399D, as added July 10, 1992, Pub. L. 102–321, title IV, §401(a), 106 Stat. 419.)
+(July 1, 1944, ch. 373, title III, §399D, as added Pub. L. 102–321, title IV, §401(a), July 10, 1992, 106 Stat. 419.)
 
 #### References in Text
 
@@ -308,7 +308,7 @@ Section effective July 10, 1992, with programs making awards providing financial
 
 #### Construction
 
-Section 401(b) of Pub. L. 102–321 provided that: “With respect to the program established in section 399D of the Public Health Service Act \[this section\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, orprohibition, including with respect to recipients of funds under such other Federal programs.”
+Section 401(b) of Pub. L. 102–321 provided that: “With respect to the program established in section 399D of the Public Health Service Act \[this section\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs.”
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

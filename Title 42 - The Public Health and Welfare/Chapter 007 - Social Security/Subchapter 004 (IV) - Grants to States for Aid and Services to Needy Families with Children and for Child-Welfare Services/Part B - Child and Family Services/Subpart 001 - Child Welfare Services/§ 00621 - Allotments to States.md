@@ -16,7 +16,7 @@ The allotment percentage for each State shall be promulgated by the Secretary be
 
 For purposes of this section, the term “United States” means the fifty States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title IV, §421, as added Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), 81 Stat. 912; amended June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 516; Dec. 22, 1987, Pub. L. 100–203, title IX, §9135(b)(2), 101 Stat. 1330–315.)
+(Aug. 14, 1935, ch. 531, title IV, §421, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 912; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 516; Pub. L. 100–203, title IX, §9135(b)(2), Dec. 22, 1987, 101 Stat. 1330–315.)
 
 #### Amendments
 

@@ -32,7 +32,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 (2) Each report required by paragraph (1) shall—
 
-&emsp;(A) include a list of all loans considered by the Board <sup>1</sup> of Executive Directors of the institutions listed in subsection (a) of this section and shall specify with respect to each such loan—
+&emsp;(A) include a list of all loans considered by the Board <sup>1</sup> of Executive Directors of the institutions listed in subsection (a) of this sectionand shall specify with respect to each such loan—
 
 &emsp;&emsp;(i) the institution involved;
 
@@ -78,13 +78,23 @@ In determining whether a country is in gross violation of internationally recogn
 
 The United States Executive Directors of the institutions listed in subsection (a) of this section are authorized and instructed to oppose any loan, any extension of financial assistance, or any technical assistance to any country described in subsection (a)(1) or (2) of this section, unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of such country.
 
-#### (g) Consultative and additional reporting requirements
+#### (g) <sup>2</sup> Consultative and additional reporting requirements
 
 The Secretary of the Treasury or his delegate shall consult frequently and in a timely manner with the chairmen and ranking minority members of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate to inform them regarding any prospective changes in policy direction toward countries which have or recently have had poor human rights records.
 
-(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title X, §1004, Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512.)
+#### (g) <sup>2</sup> Violations of religious freedom
+
+In determining whether the government of a country engages in a pattern of gross violations of internationally recognized human rights, as described in subsection (a) of this section, the President shall give particular consideration to whether a foreign government—
+
+&emsp;(1) has engaged in or tolerated particularly severe violations of religious freedom, as defined in section 6402 of this title; or
+
+&emsp;(2) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
+
+(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title X, §1004, Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810.)
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–292 added subsec. (g) relating to violations of religious freedom.
 
 1994—Subsec. (b)(3). Pub. L. 103–236 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “whether the recipient country has detonated a nuclear device or is not a State Party to the Treaty on Nonproliferation of Nuclear Weapons or both; and”.
 
@@ -138,7 +148,7 @@ Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501
 
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application
 
-Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United StatesGovernor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
+Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
 
 #### Cross References
 
@@ -151,4 +161,6 @@ Implementation of United States policy opposing the practice of torture by forei
 This section is referred to in sections 262r, 2799aa–1, 5605, 6302 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Boards”.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (g) have been enacted.</i>
 

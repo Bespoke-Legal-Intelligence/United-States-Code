@@ -10,7 +10,7 @@ The value of benefits that may be provided under this chapter, whether through c
 
 #### (c) First month benefits prorated
 
-(1) The value of the allotment issued to any eligible household for the initial month or other initial period for which an allotment is issued shall have a value which bears the same ratio to the value of the allotment for a full month or other initial period for which the allotment is issued as the number of days (from the date of application) remaining in the month or other initial period for which the allotment is issued bears to the total number of days in the month or other initial period for which the allotment is issued, except that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10. Households shall receive full months’ allotments for all months within a certification period, except as providedin the first sentence of this paragraph with respect to an initial month.
+(1) The value of the allotment issued to any eligible household for the initial month or other initial period for which an allotment is issued shall have a value which bears the same ratio to the value of the allotment for a full month or other initial period for which the allotment is issued as the number of days (from the date of application) remaining in the month or other initial period for which the allotment is issued bears to the total number of days in the month or other initial period for which the allotment is issued, except that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10. Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.
 
 (2) As used in this subsection, the term “initial month” means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period in which such household was not participating in the food stamp program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the food stamp program after previous participation in such program.
 
@@ -30,7 +30,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (2) Rules and procedures
 
-&emsp;If the allotment of a household is reduced under this subsection for a failure to perform an action required under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), the State agency may use the rules and procedures that apply under part A of title IV of the Act to reduce the allotment under the food stamp program.
+&emsp;If the allotment of a household is reduced under this subsection for a failure to perform an action required under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.),the State agency may use the rules and procedures that apply under part A of title IV of the Act to reduce the allotment under the food stamp program.
 
 #### (e) Allotments for households residing in centers
 
@@ -64,7 +64,7 @@ Subsec. (c)(3). Pub. L. 104–193, §828, added par. (3) and struck out former p
 
 &emsp;“(B) in the case of a household that is entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
 
-Subsec. (d). Pub. L. 104–193, §829, added subsec. (d) and struck out former subsec. (d) which read as follows: “A household against which a penalty has been imposed for an intentional failure to comply with a Federal,State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household's income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.”
+Subsec. (d). Pub. L. 104–193, §829, added subsec. (d) and struck out former subsec. (d) which read as follows: “A household against which a penalty has been imposed for an intentional failure to comply with a Federal, State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household's income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.”
 
 Subsec. (e). Pub. L. 104–193, §854(c)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided for simplified application procedures for beneficiaries of other programs, and for allotments, evaluation, cost sharing, and standardized procedures and benefits.
 
@@ -94,7 +94,7 @@ Subsec. (c)(3). Pub. L. 100–435, §203(a)(3), added par. (3).
 
 1985—Subsec. (e). Pub. L. 99–198 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–253, §§143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which required the Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
+1982—Subsec. (a). Pub. L. 97–253, §§143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which requiredthe Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
 
 Subsec. (c). Pub. L. 97–253, §163, inserted provision that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10, and substituted “following any period” for “following any period of more than thirty days” in cl. (2).
 

@@ -34,7 +34,7 @@ Consideration.—The Secretary may accept ammunition, ammunition components, or 
 
 (g)
 
-Relationship to Arms Export Control Act.—Nothing in this section shall be construed to affect the applicability of section 38 of the Arms Export Control Act (22 U.S.C. 2778) to sales of ammunition or ammunition components on the United States Munitions List.
+Relationship to Arms Export Control Act.—Nothing in this section shall be construedto affect the applicability of section 38 of the Arms Export Control Act (22 U.S.C. 2778) to sales of ammunition or ammunition components on the United States Munitions List.
 
 (h)
 

@@ -4,11 +4,11 @@ As used in this subchapter—
 
 (a) The term “person” means an individual, partnership, corporation, association, business trust, or any organized group of any of the foregoing.
 
-(b) The term “fur” means any animal skin or part thereof with hair, fleece, or fur fibers attached thereto, either in its raw or processedstate, but shall not include such skins as are to be converted into leather or which in processing shall have the hair, fleece, or fur fiber completely removed.
+(b) The term “fur” means any animal skin or part thereof with hair, fleece, or fur fibers attached thereto, either in its raw or processed state, but shall not include such skins as are to be converted into leather or which in processing shall have the hair, fleece, or fur fiber completely removed.
 
 (c) The term “used fur” means fur in any form which has been worn or used by an ultimate consumer.
 
-(d) The term “fur product” means any article of wearing apparel made in whole or in part of fur or used fur; except that such term shall not include such articles as the Commission shall exempt by reason of the relatively small quantity or value of the fur or used fur contained therein.
+(d) The term “fur product” means any article of wearing apparel made in whole or in part offur or used fur; except that such term shall not include such articles as the Commission shall exempt by reason of the relatively small quantity or value of the fur or used fur contained therein.
 
 (e) The term “waste fur” means the ears, throats, or scrap pieces which have been severed from the animal pelt, and shall include mats or plates made therefrom.
 

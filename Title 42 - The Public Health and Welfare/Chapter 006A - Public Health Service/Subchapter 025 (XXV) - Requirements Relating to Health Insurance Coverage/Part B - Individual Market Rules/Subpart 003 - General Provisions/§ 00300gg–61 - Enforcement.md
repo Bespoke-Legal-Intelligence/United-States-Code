@@ -12,9 +12,9 @@
 
 #### (b) Secretarial enforcement authority
 
-The Secretary shall have the same authority in relation to enforcement of the provisions ofthis part with respect to issuers of health insurance coverage in the individual market in a State as the Secretary has under section 300gg–22(b)(2) of this title in relation to the enforcement of the provisions of part A of this subchapter with respect to issuers of health insurance coverage in the small group market in the State.
+The Secretary shall have the same authority in relation to enforcement of the provisions of this part with respect to issuers of health insurance coverage in the individual market in a State as the Secretary has under section 300gg–22(b)(2) of this title in relation to the enforcement of the provisions of part A of this subchapter with respect to issuers of health insurance coverage in the small group market in the State.
 
-(July 1, 1944, ch. 373, title XXVII, §2761, formerly §2745, as added Aug. 21, 1996, Pub. L. 104–191, title I, §111(a), 110 Stat. 1986; renumbered §2761 and amended Sept. 26, 1996, Pub. L. 104–204, title VI, §605(a)(2), (b)(2), 110 Stat. 2941, 2942.)
+(July 1, 1944, ch. 373, title XXVII, §2761, formerly §2745, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1986; renumbered §2761 and amended Pub. L. 104–204, title VI, §605(a)(2), (b)(2), Sept. 26, 1996, 110 Stat. 2941, 2942.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) a buoyant apparatus, if the vessel is of a type required by regulations prescribed by the Secretary to be equipped with that apparatus;
 
-&emsp;(7) alerting and locating equipment, including emergency position indicating radio beacons, on vessels that operate on the high seas or beyond 3 nautical miles from the coastline of the Great Lakes; and
+&emsp;(7) alerting and locating equipment, including emergency position indicating radio beacons, on vessels that operate beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States or beyond 3 nautical miles from the coastline of the Great Lakes; and
 
 &emsp;(8) a placard as required by regulations prescribed under section 10603(b) of this title.
 
@@ -84,9 +84,11 @@
 
 &emsp;(2) a fish tender vessel engaged in the Aleutian trade.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417.)
 
 #### Amendments
+
+1998—Subsec. (a)(7). Pub. L. 105–383 substituted “beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured, and which are owned in the United States” for “on the high seas”.
 
 1996—Subsec. (a)(7). Pub. L. 104–324 inserted “or beyond 3 nautical miles from the coastline of the Great Lakes” after “high seas”.
 

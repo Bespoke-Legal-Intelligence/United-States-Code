@@ -30,7 +30,7 @@
 
 #### (2) Record
 
-&emsp;In any interlocutory appeal taken pursuant to this subsection, the entire record, including any proposed order of the judge, any classified information and the summary of evidence, shall be transmitted to the Court of Appeals. The classified information shall be transmitted under seal. A verbatim record of such appeal shall be kept under seal in the event of any other judicial review.
+&emsp;In any interlocutory appeal taken pursuant to this subsection, the entire record, including any proposed order of the judge, any classifiedinformation and the summary of evidence, shall be transmitted to the Court of Appeals. The classified information shall be transmitted under seal. A verbatim record of such appeal shall be kept under seal in the event of any other judicial review.
 
 #### (c) Appeal of decision in hearing
 
@@ -86,7 +86,7 @@ Following a decision by the Court of Appeals pursuant to subsection (c) of this 
 
 &emsp;The determinations and actions of the Attorney General pursuant to section 1537(b)(2)(C) of this title shall not be subject to judicial review, including application for a writ of habeas corpus, except for a claim by the alien that continued detention violates the alien's rights under the Constitution. Jurisdiction over any such challenge shall lie exclusively in the United States Court of Appeals for the District of Columbia Circuit.
 
-(June 27, 1952, ch. 477, title V, §505, as added Apr. 24, 1996, Pub. L. 104–132, title IV, §401(a), 110 Stat. 1263; amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §354(a)(3), 110 Stat. 3009–642.)
+(June 27, 1952, ch. 477, title V, §505, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1263; amended Pub. L. 104–208, div. C, title III, §354(a)(3), Sept. 30, 1996, 110 Stat. 3009–642.)
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Subsec. (c)(2). Pub. L. 104–208, §354(a)(3)(D), added par. (2). Former par. (
 
 Subsec. (c)(3). Pub. L. 104–208, §354(a)(3)(C), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(3)(D). Pub. L. 104–208, §354(a)(3)(B), inserted before period at end “, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section 1534(c)(3) of this title, the Court of Appeals shall review questions of fact de novo”.
+Subsec. (c)(3)(D). Pub. L. 104–208, §354(a)(3)(B), inserted before period at end “, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section1534(c)(3) of this title, the Court of Appeals shall review questions of fact de novo”.
 
 Subsec. (c)(4). Pub. L. 104–208, §354(a)(3)(C), redesignated par. (3) as (4).
 

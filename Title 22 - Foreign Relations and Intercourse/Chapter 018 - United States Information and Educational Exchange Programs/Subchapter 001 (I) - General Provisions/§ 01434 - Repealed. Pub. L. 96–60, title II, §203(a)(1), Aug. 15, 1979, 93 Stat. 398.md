@@ -4,5 +4,5 @@ Section, acts Jan. 27, 1948, ch. 36, title X, §1001, 62 Stat. 13; Apr. 5, 1952,
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Date note under section 1469 of this title.
+Repeal effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Date of 1979 Amendment note under section 1471 of this title.
 

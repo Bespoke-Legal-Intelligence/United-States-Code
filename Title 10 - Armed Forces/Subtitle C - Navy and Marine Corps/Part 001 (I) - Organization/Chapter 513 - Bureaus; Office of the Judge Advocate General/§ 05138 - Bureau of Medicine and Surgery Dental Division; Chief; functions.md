@@ -16,7 +16,7 @@
 
 &emsp;(4) serve as the advisory agency for the Bureau on all matters relating directly to dentistry.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 286; Sept. 7, 1962, Pub. L. 87–649, §14c(17), 76 Stat. 501; Dec. 12, 1980, Pub. L. 96–513, title III, §342, 94 Stat. 2901; Dec. 1, 1981, Pub. L. 97–86, title IV, §405(b)(1), 95 Stat. 1105; Nov. 8, 1985, Pub. L. 99–145, title V, §514(b)(1), 99 Stat. 628.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 286; Pub. L. 87–649, §14c(17), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title III, §342, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628.)
 
 Historical and Revision Notes
 

@@ -22,7 +22,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 (1) The benefit amount of any individual under this section for any month shall be reduced (but not below zero) by the amount of any periodic benefit under a governmental pension system for which he or she is eligible for such month.
 
-(2) In the case of a husband and wife only one of whom is entitled to benefits under this section for any month, the benefit amount, after any reduction under paragraph (1), shall be further reduced (but not below zero) by the excess (if any) of (A) the total amount of any periodic benefits under governmental pension systemsfor which the spouse who is not entitled to benefits under this section is eligible for such month, over (B) the benefit amount as determined without regard to this subsection.
+(2) In the case of a husband and wife only one of whom is entitled to benefits under this section for any month, the benefit amount, after any reduction under paragraph (1), shall be further reduced (but not below zero) by the excess (if any) of (A) the total amount of any periodic benefits under governmental pension systems for which the spouse who is not entitled to benefits under this section is eligible for such month, over (B) the benefit amount as determined without regard to this subsection.
 
 (3) In the case of a husband or wife both of whom are entitled to benefits under this section for any month, the benefit amount of each spouse, after any reduction under paragraph (1), shall be further reduced (but not below zero) by the excess (if any) of (A) the total amount of any periodic benefits under governmental pension systems for which the other spouse is eligible for such month, over (B) the benefit amount of such other spouse as determined without regard to this subsection.
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;(4) The determination of whether an individual is a husband or wife for any month shall be made under subsection (h) of section 416 of this title without regard to subsections (b) and (f) of section 416 of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §228, as added Mar. 15, 1966, Pub. L. 89–368, title III, §302(a), 80 Stat. 67; amended Jan. 2, 1968, Pub. L. 90–248, title I, §102(b), title II, §241(a) 81 Stat. 827, 916; Dec. 30, 1969, Pub. L. 91–172, title X, §1003(b), 83 Stat. 740; Mar. 17, 1971, Pub. L. 92–5, title II, §202(b), 85 Stat. 10; July 1, 1972, Pub. L. 92–336, title II, §201(g)(2), 86 Stat. 411; Dec. 31, 1973, Pub. L. 93–233, §§2(b)(1), 18(c), 87 Stat. 952, 968; Apr. 20, 1983, Pub. L. 98–21, title III, §305(a)–(d), 97 Stat. 113; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2662(e), 2663(j)(3)(A)(iv), 98 Stat. 1159, 1170; Nov. 5, 1990, Pub. L. 101–508, title V, §5114(a), 104 Stat. 1388–273; June 13, 1991, Pub. L. 102–54, §13(q)(3)(B)(i), 105 Stat. 279; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Aug. 22, 1996, Pub. L. 104–193, title I, §108(a)(2), 110 Stat. 2165.)
+(Aug. 14, 1935, ch. 531, title II, §228, as added Pub. L. 89–368, title III, §302(a), Mar. 15, 1966, 80 Stat. 67; amended Pub. L. 90–248, title I, §102(b), title II, §241(a) Jan. 2, 1968, 81 Stat. 827, 916; Pub. L. 91–172, title X, §1003(b), Dec. 30, 1969, 83 Stat. 740; Pub. L. 92–5, title II, §202(b), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §201(g)(2), July 1, 1972, 86 Stat. 411; Pub. L. 93–233, §§2(b)(1), 18(c), Dec. 31, 1973, 87 Stat. 952, 968; Pub. L. 98–21, title III, §305(a)–(d), Apr. 20, 1983, 97 Stat. 113; Pub. L. 98–369, div. B, title VI, §§2662(e), 2663(j)(3)(A)(iv), July 18, 1984, 98 Stat. 1159, 1170; Pub. L. 101–508, title V, §5114(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 102–54, §13(q)(3)(B)(i), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 104–193, title I, §108(a)(2), Aug. 22, 1996, 110 Stat. 2165.)
 
 #### References in Text
 
@@ -92,7 +92,7 @@ Part A of subchapter IV of this chapter, referred to in subsec. (d)(1), is class
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note under section 1382 of this title.
 
-Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
+Section 228e(<i>l</i>) of title 45, referred to in subsec. (h)(1), is a reference to section 5(<i>l</i>) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, andis classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
 
 #### Amendments
 
@@ -184,7 +184,7 @@ Section 5114(b) of Pub. L. 101–508 provided that: “The amendment made by sub
 
 Amendment by section 2662(e) of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
-Amendment by section 2663(j)(3)(A)(iv) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 2663(j)(3)(A)(iv) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of lawinvolved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -230,7 +230,7 @@ Special payment of $50 as soon as practicable after Mar. 29, 1975, by Secretary 
 
 #### Applications for Transitional Coverage of Uninsured Individuals for Hospital Insurance Benefits
 
-Section 302(b) of Pub. L. 89–368 provided that: “For purposes of paragraph (4) of section 228(a) of the SocialSecurity Act \[subsec. (a)(4) of this section\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under section 426 of this title\] before July 1966 shall be regarded as an application under such section 228 \[this section\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
+Section 302(b) of Pub. L. 89–368 provided that: “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[subsec. (a)(4) of this section\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under section 426 of this title\] before July 1966 shall be regarded as an application under such section 228 \[this section\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 Whoever unlawfully cuts, or wantonly injures or destroys any tree growing, standing, or being upon any land of the United States which, in pursuance of law, has been reserved or purchased by the United States for any public use, or upon any Indian reservation, or lands belonging to or occupied by any tribe of Indians under the authority of the United States, or any Indian allotment while the title to the same shall be held in trust by the Government, or while the same shall remain inalienable by the allottee without the consent of the United States, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 787; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 787; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

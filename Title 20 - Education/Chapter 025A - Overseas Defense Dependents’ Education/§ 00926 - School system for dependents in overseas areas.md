@@ -4,23 +4,31 @@
 
 The Secretary of Defense shall establish and operate a school system for dependents in overseas areas as part of the defense dependents’ education system.
 
-#### (b) Tuition payment requirements for attendance in schools outside of system
+#### (b) Tuition and assistance when schools unavailable
 
-Under such circumstances as he may by regulation prescribe, the Secretary of Defense may provide tuition to allow dependents in an overseas area where a school operated by the Secretary is not reasonably available to attend schools other than schools established under subsection (a) of this section on a tuition-free basis. Any school to which tuition is paid under this subsection to allow a dependent in an overseas area to attend such school shall provide an educational program satisfactory to the Secretary.
+(1) Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary may provide tuition to allow dependents in an overseas area where a school operated by the Secretary is not reasonably available to attend schools other than schools established under subsection (a) of this section on a tuition-free basis. Any school to which tuition is paid under this subsection to allow a dependent in an overseas area to attend such school shall provide an educational program satisfactory to the Secretary.
+
+(2)(A) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service of the Navy, may provide financial assistance to sponsors of dependents in overseas areas where schools operated by the Secretary of Defense under subsection (a) of this section are not reasonably available in order to assist the sponsors to defray the costs incurred by the sponsors for the attendance of the dependents at schools in such areas other than schools operated by the Secretary of Defense.
+
+(B) The Secretary of Defense and the Secretary of Transportation shall each prescribe regulations relating to the availability of financial assistance under subparagraph (A). Such regulations shall, to the maximum extent practicable, be consistent with Department of State regulations relating to the availability of financial assistance for the education of dependents of Department of State personnel overseas.
 
 #### (c) Continuation of enrollment for certain dependents of members of Armed Forces involuntarily separated
 
-(1) A member of the Armed Forces serving on active duty on September 30, 1990, who is involuntarily separated during the nine-year period beginning on October 1, 1990, and who has a dependent described in paragraph (2) who is enrolled in a school of the defense dependents’ education system (or a school for which tuition is provided under subsection (b) of this section) on the date of that separation shall be eligible to enroll or continue the enrollment of that dependent at that school (or another school serving the same community) for the final year of secondary education of that dependent in the same manner as if the member were still on active duty.
+(1) A member of the Armed Forces serving on active duty on September 30, 1990, who is involuntarily separated during the period beginning on October 1, 1990, and ending on September 30, 2001, and who has a dependent described in paragraph (2) who is enrolled in a school of the defense dependents’ education system (or a school for which tuition is provided under subsection (b) of this section) on the date of that separation shall be eligible to enroll or continue the enrollment of that dependent at that school (or another school serving the same community) for the final year of secondary education of that dependent in the same manner as if the member were still on active duty.
 
 (2) A dependent referred to in paragraph (1) is a dependent who on the date of the separation of the member has completed the eleventh grade and is likely to complete secondary education within the one-year period beginning on that date.
 
-(Pub. L. 95–561, title XIV, §1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101–510, div. A, title V, §504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103–160, div. A, title V, §561(n), Nov. 30, 1993, 107 Stat. 1668.)
+(Pub. L. 95–561, title XIV, §1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101–510, div. A, title V, §504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103–160, div. A, title V, §561(n), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(k), title VI, §657, Oct. 17, 1998, 112 Stat. 2026, 2054.)
 
 #### Codification
 
 Section is comprised of section 1407 of Pub. L. 95–561. Subsec. (d), formerly subsec. (c), of section 1407 enacted section 429 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–261, §657, inserted heading, designated existing provisions as par. (1), substituted “Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary” for “Under such circumstances as he may by regulation prescribe, the Secretary of Defense”, and added par. (2).
+
+Subsec. (c)(1). Pub. L. 105–261, §561(k), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 1993—Subsec. (c)(1). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 

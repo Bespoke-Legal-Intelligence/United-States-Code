@@ -10,9 +10,9 @@ The findings of fact by the Secretary of Labor or the Secretary of Commerce, as 
 
 #### (c) Determination; review by Supreme Court
 
-The Court of International Trade shall have jurisdiction to affirm the action of the Secretary of Labor or the Secretary of Commerce, as the case may be, or to set such action aside, in whole or in part. The judgment of the Court of International Trade shall be subject to review by the United States Court of Appeals for the Federal Circuit as prescribed by the rules of such court. The judgment of the Court of Appeals for the Federal Circuit shall be subject to review by the Supreme Court of the UnitedStates upon certiorari as provided in section 1256 <sup>1</sup> of title 28.
+The Court of International Trade shall have jurisdiction to affirm the action of the Secretary of Labor or the Secretary of Commerce, as the case may be, or to set such action aside, in whole or in part. The judgment of the Court of International Trade shall be subject to review by the United States Court of Appeals for the Federal Circuit as prescribed by the rules of such court. The judgment of the Court of Appeals for the Federal Circuit shall be subject to review by the Supreme Court of the United States upon certiorari as provided in section 1256 <sup>1</sup> of title 28.
 
-(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(5), 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151.)
+(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151.)
 
 #### References in Text
 

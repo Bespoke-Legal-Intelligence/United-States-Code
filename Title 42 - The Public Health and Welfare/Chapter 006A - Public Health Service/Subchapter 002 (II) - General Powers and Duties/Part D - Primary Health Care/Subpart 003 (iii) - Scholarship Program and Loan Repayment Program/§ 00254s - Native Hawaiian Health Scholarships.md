@@ -34,7 +34,7 @@ For purposes of this section, the term “Native Hawaiian” means any individua
 
 There are authorized to be appropriated $1,800,000 for each of the fiscal years 1990, 1991, and 1992 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title III, §338k, formerly §338J, as added Nov. 23, 1988, Pub. L. 100–713, title I, §106, 102 Stat. 4787; renumbered §338K, Nov. 16, 1990, Pub. L. 101–597, title III, §302, 104 Stat. 3032; amended Nov. 29, 1990, Pub. L. 101–644, title IV, §401, 104 Stat. 4668.)
+(July 1, 1944, ch. 373, title III, §338k, formerly §338J, as added Pub. L. 100–713, title I, §106, Nov. 23, 1988, 102 Stat. 4787; renumbered §338K, Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 101–644, title IV, §401, Nov. 29, 1990, 104 Stat. 4668.)
 
 #### Amendments
 

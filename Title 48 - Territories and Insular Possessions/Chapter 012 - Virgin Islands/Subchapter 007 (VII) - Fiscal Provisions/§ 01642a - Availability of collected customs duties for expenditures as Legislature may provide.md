@@ -1,6 +1,6 @@
 ### §1642a. Availability of collected customs duties for expenditures as Legislature may provide
 
-Notwithstanding any other provision of law, the proceeds of customs duties collected in theVirgin Islands less the cost of collecting all said duties shall, effective for fiscal years beginning after September 30, 1979, be covered into the Treasury of the Virgin Islands, and shall be available for expenditure as the Legislator <sup>1</sup> of the Virgin Islands may provide.
+Notwithstanding any other provision of law, the proceeds of customs duties collected in the Virgin Islands less the cost of collecting all said duties shall, effective for fiscal years beginning after September 30, 1979, be covered into the Treasury of the Virgin Islands, and shall be available for expenditure as the Legislator <sup>1</sup> of the Virgin Islands may provide.
 
 (Pub. L. 96–304, title I, §100, July 8, 1980, 94 Stat. 907.)
 

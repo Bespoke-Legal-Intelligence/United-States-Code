@@ -4,7 +4,7 @@
 
 In conducting the program assisted under this part, service delivery areas shall establish appropriate linkages with other Federal programs. Such programs shall include, where feasible, programs assisted under—
 
-&emsp;(1) the Adult Education Act (20 U.S.C. 1201 et seq.);
+&emsp;(1) the Adult Education Act; <sup>1</sup>
 
 &emsp;(2) the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
 
@@ -26,7 +26,7 @@ In conducting the program assisted under this part, service delivery areas shall
 
 &emsp;(11) the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.);
 
-&emsp;(12) the National Literacy Act of 1991 (Public Law 102–73);
+&emsp;(12) the National Literacy Act of 1991 <sup>1</sup> (Public Law 102–73);
 
 &emsp;(13) the Head Start Act (42 U.S.C. 9831 et seq.) (for purposes of child care services); and
 
@@ -38,17 +38,21 @@ In addition to the linkages required under subsection (a) of this section, each 
 
 (Pub. L. 97–300, title II, §205, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1060; amended Pub. L. 104–193, title I, §110(n)(7), Aug. 22, 1996, 110 Stat. 2174.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Adult Education Act, referred to in subsec. (a)(1), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 20 and Tables.
+The Adult Education Act, referred to in subsec. (a)(1), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of Title 20, Education, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (a)(3), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (a)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The National Apprenticeship Act, referred to in subsec. (a)(6), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, asamended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+The National Apprenticeship Act, referred to in subsec. (a)(6), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 357, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
@@ -60,7 +64,7 @@ The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(10),
 
 The United States Housing Act of 1937, referred to in subsec. (a)(11), is act Sept. 1, 1937, ch. 896, as restated generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The National Literacy Act of 1991, referred to in subsec. (a)(12), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of Title 20, Education, and Tables.
+The National Literacy Act of 1991, referred to in subsec. (a)(12), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Head Start Act, referred to in subsec. (a)(13), is subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
@@ -83,4 +87,6 @@ Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367 set out 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1514, 1515, 1604 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

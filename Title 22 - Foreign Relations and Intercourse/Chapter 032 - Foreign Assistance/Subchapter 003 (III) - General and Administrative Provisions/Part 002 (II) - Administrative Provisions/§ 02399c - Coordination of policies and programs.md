@@ -2,7 +2,7 @@
 
 #### (a) Development Coordination Committee established
 
-The President shall establish a system for coordination of United States policies and programs which affect United States interests in the development of low-income countries. To that end, the President shall establish a Development Coordination Committee which shall advise him with respect to coordination of United States policies and programs affecting the development of the developing countries, including programs of bilateral and multilateral development assistance. The Committee shall include Director of the United States International Development Cooperation Agency, Chairman, and representatives of the Departments of State, Treasury, Commerce, Agriculture, Energy, and Labor, the Executive Office of the President, and other executive departments and agencies, as the President shall designate. The Committee shall advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
+The President shall establish a system for coordination of United States policies and programs which affect United States interests in the development of low-income countries. To that end, the President shall establish a Development Coordination Committee which shall advise him with respect to coordination of United States policies and programs affecting the development of the developing countries, including programs of bilateral and multilateral development assistance. The Committee shall include the head of the agency primarily responsible for administering subchapter I of this chapter, Chairman, and representatives of the Departments of State, Treasury, Commerce, Agriculture, Energy, and Labor, the Executive Office of the President, and other executive departments and agencies, as the President shall designate. The Committee shall advise the President concerning the degree to which bilateral and multilateral development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of people in the developing countries: food production; rural development and nutrition; population planning and health; and education, public administration, and human resource development.
 
 #### (b) Procedures to assure coordination
 
@@ -36,7 +36,11 @@ To carry out the purposes of subsection (a) of this section, the Committee shall
 
 &emsp;(4) arrange for the exchange of information and studies between such agencies and departments.
 
-(Pub. L. 87–195, pt. III, §640B, as added Pub. L. 93–189, §21, Dec. 17, 1973, 87 Stat. 725; amended Pub. L. 95–88, title I, §127, Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–424, title V, §502(d), Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–53, title I, §118, Aug. 14, 1979, 93 Stat. 365; 1979 Reorg. Plan No. 2, §6(b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 87–195, pt. III, §640B, as added Pub. L. 93–189, §21, Dec. 17, 1973, 87 Stat. 725; amended Pub. L. 95–88, title I, §127, Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–424, title V, §502(d), Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–53, title I, §118, Aug. 14, 1979, 93 Stat. 365; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -61,10 +65,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Transfer of Functions
-
-“Director of the United States International Development Cooperation Agency” substituted for “head of the agency primarily responsible for administering subchapter I of this chapter” in subsec. (a), pursuant to section 6(b)(1) of Reorg. Plan No. 2 of 1979, 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided in Ex. Ord. No. 12163, §1–101, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred the functions and authorities vested in the head of such agency under this section to the Director.
 
 #### Development Coordination Committee
 

@@ -20,7 +20,7 @@ Amounts described in subsection (a) of this section may not be used for—
 
 &emsp;(6) payment for any item or service (other than an emergency item or service) furnished—
 
-&emsp;&emsp;(A) by an individual or entity during the period when such individual or entity is excluded under this subchapter or subchapterXVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title, or
+&emsp;&emsp;(A) by an individual or entity during the period when such individual or entity is excluded under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title, or
 
 &emsp;&emsp;(B) at the medical direction or on the prescription of a physician during the period when the physician is excluded under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time period after reasonable notice has been furnished to the person).
 
@@ -34,7 +34,7 @@ A State may use a portion of the amounts described in subsection (a) of this sec
 
 Of the amounts paid to a State under section 703 of this title from an allotment for a fiscal year under section 702(c) of this title, not more than 10 percent may be used for administering the funds paid under such section.
 
-(Aug. 14, 1935, ch. 531, title V, §504, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2192(a), 95 Stat. 821; amended Apr. 7, 1986, Pub. L. 99–272, title IX, §9527(e), 100 Stat. 219; Aug. 18, 1987, Pub. L. 100–93, §8(a), 101 Stat. 692; Dec. 22, 1987, Pub. L. 100–203, title IV, §4118(e)(12), as added July 1, 1988, Pub. L. 100–360, title IV, §411(k)(10)(D), 102 Stat. 796, and amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), 102 Stat. 2422; Dec. 19, 1989, Pub. L. 101–239, title VI, §6503(a), (c)(2), (4), 103 Stat. 2276, 2278.)
+(Aug. 14, 1935, ch. 531, title V, §504, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 821; amended Pub. L. 99–272, title IX, §9527(e), Apr. 7, 1986, 100 Stat. 219; Pub. L. 100–93, §8(a), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §4118(e)(12), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 796, and amended Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–239, title VI, §6503(a), (c)(2), (4), Dec. 19, 1989, 103 Stat. 2276, 2278.)
 
 #### Prior Provisions
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 101–239, §6503(a)(2), added subsec. (d).
 
 1988—Subsec. (b)(6). Pub. L. 100–360, as amended by Pub. L. 100–485, added Pub. L. 100–203, §4118(e)(12), see 1987 Amendment note below.
 
-1987—Subsec. (b)(6). Pub. L. 100–203, §4118(e)(12), as added by Pub. L. 100–360 and amended by Pub. L. 100–485, substituted “under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title” for “pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter” in subpars. (A) and (B).
+1987—Subsec. (b)(6). Pub. L. 100–203, §4118(e)(12), as added by Pub. L. 100–360 and amended by Pub. L.100–485, substituted “under this subchapter or subchapter XVIII, XIX, or XX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title” for “pursuant to section 1320a–7 of this title or section 1320a–7a of this title from participation in the program under this subchapter” in subpars. (A) and (B).
 
 Pub. L. 100–93 added par. (6).
 

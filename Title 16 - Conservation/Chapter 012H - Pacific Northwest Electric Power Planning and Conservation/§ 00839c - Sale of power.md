@@ -6,7 +6,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 #### (b) Sales to public bodies, cooperatives, and Federal agency customers
 
-(1) Whenever requested, the Administrator shall offer to sell to each requesting public body and cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet thefirm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
+(1) Whenever requested, the Administrator shall offer to sell to each requesting public body and cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet the firm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
 
 &emsp;(A) the capability of such entity's firm peaking and energy resources used in the year prior to December 5, 1980, to serve its firm load in the region, and
 
@@ -28,7 +28,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(B) not permit restrictions which would reduce the total contractual entitlement of such customers to an amount less than the firm capability of the Federal base system resources; and
 
-&emsp;(C) contain a formula for determining annually, on a uniform basis, each such customer's contractual entitlement to firm power during such a period of restriction, which formula shall not consider customer resources other than those the customer has determined, as of December 5, 1980, to be used to serve its own firm loads.
+&emsp;(C) contain a formula for determining annually, on a uniform basis, each such customer's contractual entitlement to firm power during such a period of restriction, which formula shall not consider customer resources other than those the customer has determined, as ofDecember 5, 1980, to be used to serve its own firm loads.
 
 > The formula referred to in subparagraph (C) shall obligate the Administrator to provide on an annual basis only firm power needed to serve the portion of such customer's firm load in excess of the capability of such customer's own firm resources determined by such customer under paragraph (1) of this subsection to be used to serve its firm load.
 
@@ -46,7 +46,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 (6) Exchange sales to a utility pursuant to this subsection shall not be restricted below the amounts of electric power acquired by the Administrator from, or on behalf of, such utility pursuant to this subsection.
 
-(7) The “average system cost” for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developedfor this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review and approval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
+(7) The “average system cost” for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developed for this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review and approval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
 
 &emsp;(A) the cost of additional resources in an amount sufficient to serve any new large single load of the utility;
 
@@ -96,7 +96,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(D) investor owned utilities.
 
-(2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer mayhave under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisition contracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
+(2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer may have under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisition contracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
 
 (3) The Administrator shall, consistent with the provisions of this chapter, insure that any restrictions upon any particular customer class made pursuant to this subsection and subsection (b) of this section are distributed equitably throughout the region.
 

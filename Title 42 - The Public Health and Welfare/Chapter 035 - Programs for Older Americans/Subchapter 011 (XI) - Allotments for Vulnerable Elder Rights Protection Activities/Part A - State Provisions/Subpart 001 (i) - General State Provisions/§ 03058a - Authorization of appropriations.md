@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out subpart II of this part, $4
 
 #### (b) Prevention of elder abuse, neglect, and exploitation
 
-There are authorized to be appropriated to carry out subpart III of this part, $15,000,000 forfiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
+There are authorized to be appropriated to carry out subpart III of this part, $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995.
 
 #### (c) State elder rights and legal assistance development program
 

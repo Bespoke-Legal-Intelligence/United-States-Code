@@ -8,5 +8,5 @@ The Secretary may, in any court of competent jurisdiction, commence a civil acti
 
 The Secretary shall establish an administrative process for encouraging emergency response employees to provide information to the Secretary regarding violations of this subpart. As appropriate, the Secretary shall investigate alleged such violations and seek appropriate injunctive relief.
 
-(July 1, 1944, ch. 373, title XXVI, §2689, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 628.)
+(July 1, 1944, ch. 373, title XXVI, §2689, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 628.)
 

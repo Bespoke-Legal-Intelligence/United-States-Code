@@ -24,7 +24,7 @@ The Coordinating Committee shall be chaired by the Director of NIH (or the desig
 
 Not later than 120 days after the end of each fiscal year, the Coordinating Committee shall prepare and transmit to the Secretary, the Director of NIH, the Director of the Institute, and the advisory council for the Institute a report detailing the activities of the Committee in such fiscal year in carrying out subsection (b) of this section.
 
-(July 1, 1944, ch. 373, title IV, §464E, as added Oct. 28, 1988, Pub. L. 100–553, §2(4), 102 Stat. 2774, and Nov. 18, 1988, Pub. L. 100–690, title II, §2613(a)(1), 102 Stat. 4237; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2613(b)(2), 102 Stat. 4238; June 10, 1993, Pub. L. 103–43, title XX, §2008(b)(9), 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §464E, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2774, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4237; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 103–43, title XX, §2008(b)(9), June 10, 1993, 107 Stat. 211.)
 
 #### Codification
 

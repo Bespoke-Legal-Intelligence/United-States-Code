@@ -28,7 +28,7 @@ Such marine research plan shall include—
 
 #### (1) In general
 
-&emsp;When a Board has developed a marine research plan, including amendments thereto, the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b) of this section.
+&emsp;When a Board has developed a marine research plan, including amendments thereto,the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b) of this section.
 
 #### (2) Time for approval or disapproval
 
@@ -36,7 +36,7 @@ Such marine research plan shall include—
 
 #### (3) Action after disapproval
 
-&emsp;In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of theplan. Such Administrators shall approve or disapprove the revised plan within 90 days after receiving the revised plan from the Board.
+&emsp;In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of the plan. Such Administrators shall approve or disapprove the revised plan within 90 days after receiving the revised plan from the Board.
 
 (Pub. L. 92–532, title IV, §404, as added Pub. L. 101–593, title III, §301, Nov. 16, 1990, 104 Stat. 2966.)
 

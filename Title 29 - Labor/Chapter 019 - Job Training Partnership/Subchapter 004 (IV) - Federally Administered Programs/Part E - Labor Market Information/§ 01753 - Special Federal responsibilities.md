@@ -2,9 +2,9 @@
 
 #### (a) Interdepartmental cooperation; review and coordination of national data systems; standardized national definitions; aid for State labor and occupational opportunity information systems
 
-The Secretary, in cooperation with the Secretary of Commerce, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Education, the Secretary of Health and Human Services, and the Director of the Office of Management and Budget, through the National Occupational Information Coordinating Committee established under section 422 of the Carl D. Perkins Vocational Education Act \[20 U.S.C. 2422\], shall—
+The Secretary, in cooperation with the Secretary of Commerce, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Education, the Secretary of Health and Human Services, and the Director of the Office of Management and Budget, through the National Occupational Information Coordinating Committee established under section 422 of the Carl D. Perkins Vocational Education Act, shall—
 
-&emsp;(1) review the need for and the application of all operating national data collection and processing systems related to labor market information in order to identify gaps, overlap,and duplications, and integrate at the national level currently available data sources in order to improve the management of information systems;
+&emsp;(1) review the need for and the application of all operating national data collection and processing systems related to labor market information in order to identify gaps, overlap, and duplications, and integrate at the national level currently available data sources in order to improve the management of information systems;
 
 &emsp;(2) maintain, assure timely review, and implement national standardized definitions with respect to terms, geographic areas, timing of collection, and coding measures related to labor market information, to the maximum extent feasible; and
 
@@ -20,9 +20,13 @@ The Secretary and the Director of the Office of Management and Budget shall assu
 
 (Pub. L. 97–300, title IV, §463, Oct. 13, 1982, 96 Stat. 1384; Pub. L. 97–404, §4(d), Dec. 31, 1982, 96 Stat. 2027; Pub. L. 98–524, §4(a)(6)(A), (D), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 99–159, title VII, §713(b)(2), Nov. 22, 1985, 99 Stat. 907; Pub. L. 102–367, title IV, §405(b), Sept. 7, 1992, 106 Stat. 1085.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Carl D. Perkins Vocational Education Act, referred to in subsec. (a), as amended is known as the Carl D. Perkins Vocational and Applied Technology Education Act.
+Section 422 of the Carl D. Perkins Vocational Education Act (renamed the Carl D. Perkins Vocational and Applied Technology Education Act by Pub. L. 101–392), referred to in subsec. (a), is section 422 of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2473, as amended, which was classified to section 2422 of Title 20, Education, prior to the general amendment of Pub. L. 88–210 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Amendments
 
@@ -52,5 +56,5 @@ Amendment by Pub. L. 98–524 effective for fiscal years beginning on or after O
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1754 of this title; title 20 section 2421.
+This section is referred to in section 1754 of this title.
 

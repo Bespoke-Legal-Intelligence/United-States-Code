@@ -12,7 +12,7 @@
 
 Each agreement referred to in subsection (a) of this section shall have an initial term of ten years, with provisions, if any, for renewal for additional periods of five years. Such agreement shall contain the following terms:
 
-&emsp;(1) The landowner shall not alienate, transfer, assign, mortgage, or pledge the lands subject to the agreement except as provided in section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(c)\], or permit development or improvement on such lands except as provided in the agreement. For the purposes of this section only, each agreement entered into with a landowner described insubsection (d)(1) of this section shall constitute a restriction against alienation imposed by the United States upon the lands subject to the agreement.
+&emsp;(1) The landowner shall not alienate, transfer, assign, mortgage, or pledge the lands subject to the agreement except as provided in section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1613(c)\], or permit development or improvement on such lands except as provided in the agreement. For the purposes of this section only, each agreement entered into with a landowner described in subsection (d)(1) of this section shall constitute a restriction against alienation imposed by the United States upon the lands subject to the agreement.
 
 &emsp;(2) Lands subject to the agreement shall be managed by the owner in a manner compatible with the management plan, if any, for the adjoining Federal or State lands, and with the requirements of this subsection. If lands subject to the agreement do not adjoin either Federal or State lands, they shall be managed in a manner compatible with the management plan, if any, of Federal or State lands which would be directly affected by the use of such private lands. If no such plan has been adopted, or if the use of such private lands would not directly affect either Federal or State lands, the owner shall manage such lands in accordance with the provisions in paragraph (1) of this subsection. Except as provided in (3) <sup>1</sup> of this subsection, nothing in this section or the management plan of any Federal or State agency shall be construed to require a private landowner to grant public access on or across his lands.
 
@@ -40,7 +40,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 #### (d) Automatic protections for lands conveyed pursuant to Alaska Native Claims Settlement Act
 
-(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
+(1)(A) Notwithstanding any other provision of law or doctrine of equity, all land and interests in land in Alaska conveyed by the Federal Government pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] to a Native individual or Native Corporation or subsequently reconveyed by a Native Corporation pursuant to section 39 of that Act \[43 U.S.C. 1629e\] to a Settlement Trust or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1621(f)\] or section 3192(h) of title 16 or other applicable law shall be exempt, so long as such land and interests are not developed or leased or sold to third parties from—
 
 &emsp;(i) adverse possession and similar claims based upon estoppel;
 
@@ -64,7 +64,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 Definitions.—(A) For purposes of this subsection, the term—
 
-&emsp;(i) “Developed” means a purposeful modification of land, or an interest in land, from its original state that effectuates a conditionof gainful and productive present use without further substantial modification. Surveying, construction of roads, providing utilities, or other similar actions, which are normally considered to be component parts of the development process but do not create the condition described in the preceding sentence, shall not constitute a developed state within the meaning of this clause. In order to terminate the exemptions listed in paragraph (1), land, or an interest in land, must be developed for purposes other than exploration, and the exemptions will be terminated only with respect to the smallest practicable tract actually used in the developed state;
+&emsp;(i) “Developed” means a purposeful modification of land, or an interest in land, from its original state that effectuates a condition of gainful and productive present use without further substantial modification. Any such modification shall be performed by the Native individual or Native Corporation. Surveying, construction of roads, providing utilities, or other similar actions, which are normally considered to be component parts of the development process but do not create the condition described in the preceding sentence, shall not constitute a developed state within the meaning of this clause. In order to terminate the exemptions listed in paragraph (1), land, or an interest in land, must be developed for purposes other than exploration, and the exemptions will be terminated only with respect to the smallest practicable tract actually used in the developed state. Any lands previously developed by third-party trespassers shall not be considered to have been developed.; <sup>3</sup>
 
 &emsp;(ii) “Exploration” means the examination and investigation of undeveloped land to determine the existence of subsurface nonrenewable resources; and
 
@@ -78,9 +78,11 @@ Definitions.—(A) For purposes of this subsection, the term—
 
 &emsp;&emsp;(II) the receipt of fees related to hunting, fishing, and guiding activities conducted on such land;
 
-&emsp;(ii) land upon which timber resources are being harvested shall be considered developed only during the period of such harvest and only to the extent that such land is integrally related to the timber harvesting operation; and
+&emsp;(ii) land upon which timber resources are being harvested shall be considered developed only during the period of such harvest and only to the extent that such land is integrally related to the timber harvesting operation;
 
-&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel.
+&emsp;(iii) land subdivided by a State or local platting authority on the basis of a subdivision plat submitted by the holder of the land or its agent, shall be considered developed on the date an approved subdivision plat is recorded by such holder or agent unless the subdivided property is a remainder parcel; and
+
+&emsp;(iv) lands or interest in lands shall not be considered developed or leased or sold to a third party as a result of an exchange or conveyance of such land or interest in land between or among Native Corporations and trusts, partnerships, corporations, or joint ventures, whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
 
 (3)
 
@@ -96,13 +98,15 @@ Action by a Trustee.—(A) Except as provided in this paragraph and in section 1
 
 (B) The prohibitions of subparagraph (A) shall not apply—
 
-&emsp;(i) when the actions of such trustee, receiver, or custodian are for purposes of exploration or pursuant to a judgment in law or in equity (or arbitration award) arising out of any claim made pursuant to section 7(i) or section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1606(i) or 1613(c)\]; or
+&emsp;(i) when the actions of such trustee, receiver, or custodian are for purposes of exploration or pursuant to a judgment in law or in equity (or arbitration award) arising out of any claim made pursuant to section 7(i) or section 14(c) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1606(i) or 1613(c)\];
 
 &emsp;(ii) to any land, or interest in land, which has been—
 
 &emsp;&emsp;(I) developed or leased prior to the vesting of the trustee, receiver, or custodian with the right, title, or interest of the Native Corporation; or
 
-&emsp;&emsp;(II) expressly pledged as security for any loan or expressly committed to any commercial transaction in a valid agreement.
+&emsp;&emsp;(II) expressly pledged as security for any loan or expressly committed to any commercial transaction in a valid agreement; or
+
+&emsp;(iii) to actions by any trustee whose right, title, or interest in land or interests in land arises pursuant to an agreement between or among Native Corporations and trusts, partnerships, or joint ventures whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
 
 (4)
 
@@ -134,7 +138,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 Tax Recapture Upon Subdivision Plat Recordation.—(A) Upon the recordation with an appropriate government authority of an approved subdivision plat submitted by, or on behalf of, a Native individual, Native Corporation, or Settlement Trust with respect to land described in paragraph (1), such individual, corporation, or trust shall pay in accordance with this paragraph all State and local property taxes on the smallest practicable tract integrally related to the subdivision project that would have been incurred by the individual, corporation, or trust on such land (excluding the value of subsurface resources and timber) in the absence of the exemption described in paragraph (1)(A)(ii) during the thirty months prior to the date of the recordation of the plat.
 
-(B) State and local property taxes specified in subparagraph (A) of this paragraph (together with interest at the rate of 5 per centum per annum commencing on the date of recordation of the subdivision plat) shall be paid in equal semi-annual installments over a two-year period commencing on the date six months after the date of recordation of the subdivision plat.
+(B) State and local property taxes specified in subparagraph (A) of this paragraph (togetherwith interest at the rate of 5 per centum per annum commencing on the date of recordation of the subdivision plat) shall be paid in equal semi-annual installments over a two-year period commencing on the date six months after the date of recordation of the subdivision plat.
 
 (C) At least thirty days prior to final approval of a plat of the type described in subparagraph (A), the government entity with jurisdiction over the plat shall notify the submitting individual, corporation, or trust of the estimated tax liability that would be incurred as a result of the recordation of the plat at the time of final approval.
 
@@ -156,7 +160,7 @@ Nothing in this section shall be construed as impairing, or otherwise affecting 
 
 Except as expressly provided in subsection (d) of this section, no provision of this section shall be construed as affecting the civil or criminal jurisdiction of the State of Alaska.
 
-(Pub. L. 96–487, title IX, §907, Dec. 2, 1980, 94 Stat. 2444; Pub. L. 100–241, §11, Feb. 3, 1988, 101 Stat. 1806.)
+(Pub. L. 96–487, title IX, §907, Dec. 2, 1980, 94 Stat. 2444; Pub. L. 100–241, §11, Feb. 3, 1988, 101 Stat. 1806; Pub. L. 105–333, §§1, 2, Oct. 31, 1998, 112 Stat. 3129.)
 
 #### References in Text
 
@@ -165,6 +169,16 @@ The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (
 This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
 #### Amendments
+
+1998—Subsec. (d)(1)(A). Pub. L. 105–333, §1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act or section 3192(h) of title 16 or other applicable law” after “Settlement Trust”.
+
+Subsec. (d)(2)(A)(i). Pub. L. 105–333, §2(3), which directed the amendment of cl. (i) by adding “Any lands previously developed by third-party trespassers shall not be considered to have been developed.” without specifying where the language was to be added, was executed by adding the language before the semicolon at the end to reflect the probable intent of Congress.
+
+Pub. L. 105–333, §2(1), (2), inserted “Any such modification shall be performed by the Native individual or Native Corporation.” after “substantial modification.” and inserted a period after “developed state” the second place it appeared.
+
+Subsec. (d)(2)(B)(iv). Pub. L. 105–333, §1(b), added cl. (iv).
+
+Subsec. (d)(3)(B)(iii). Pub. L. 105–333, §1(c), added cl. (iii).
 
 1988—Subsec. (a)(1). Pub. L. 100–241, §11(1), (2), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” and “no lands shall be included” for “lands not owned by landowners described in subsection (c)(2) of this section shall not be included”.
 
@@ -189,4 +203,6 @@ This section is referred to in sections 1629b, 1629d of this title.
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)”.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “provided” probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should not appear.</i>
 

@@ -36,6 +36,10 @@ Section is based on section 202 of House Resolution No. 988, Ninety-third Congre
 
 Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date
 
 Pub. L. 93–554 provided that the enactment of House Resolution No. 988, Ninety-third Congress, into permanent law is effective Jan. 2, 1975.

@@ -10,13 +10,19 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(4) “United States”, when used in geographical context, means all the States thereof.
 
-(Pub. L. 92–340, §3, formerly title I, §102, July 10, 1972, 86 Stat. 425; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471.)
+&emsp;(5) “Navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
+
+(Pub. L. 92–340, §3, formerly title I, §102, July 10, 1972, 86 Stat. 425; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 105–383, title III, §301(a), Nov. 13, 1998, 112 Stat. 3417.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in par. (3), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
+Presidential Proclamation No. 5928, referred to in par. (5), is set out under section 1331 of Title 43, Public Lands.
+
 #### Amendments
+
+1998—Par. (5). Pub. L. 105–383, which directed the amendment of section 102 of the Ports and Waterways Safety Act by adding par. (5), was executed to this section, which is section 3 of that act, to reflect the probable intent of Congress and the renumbering of section 102 as section 3 by Pub. L. 95–474.
 
 1978—Pub. L. 95–474 substituted provision relating to definitions for provision defining “United States”, permitting higher State or local safety standards, and providing for consultation with appropriate agencies, the inapplicability of this chapter to the Panama Canal, delegation of powers with respect to the Saint Lawrence Seaway, and factors to be considered in issuance of regulations.
 

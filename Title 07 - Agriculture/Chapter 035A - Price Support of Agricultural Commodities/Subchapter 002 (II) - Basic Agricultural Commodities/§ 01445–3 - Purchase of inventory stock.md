@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (3)(A)(i) Not later than 30 days after April 7, 1986, the Commodity Credit Corporation shall acquire title to the Burley tobacco from the 1983 crop that is pledged as security for loans on such tobacco by calling the loans on such tobacco.
 
-(ii) The Corporation shall, then, offer such tobacco for sale at such times, in such quantities,and subject to such conditions as the Corporation considers appropriate.
+(ii) The Corporation shall, then, offer such tobacco for sale at such times, in such quantities, and subject to such conditions as the Corporation considers appropriate.
 
 (B) If the Commodity Credit Corporation has not sold all of the stocks of the 1983 crop of Burley tobacco within 2 years from the date the Corporation calls the loans on such tobacco, the Corporation may offer to sell to domestic manufacturers of cigarettes the remaining stocks of such tobacco as provided in this section.
 
@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (ii) Such percentage shall be determined by dividing—
 
-&emsp;(I) the average net cigarettes manufactured by a manufacturer for use for the 12-month period immediately preceding the appropriate determination date (April 7, 1986, and annually thereafter over the course of the respectivebuy-out periods specified in this subsection); by
+&emsp;(I) the average net cigarettes manufactured by a manufacturer for use for the 12-month period immediately preceding the appropriate determination date (April 7, 1986, and annually thereafter over the course of the respective buy-out periods specified in this subsection); by
 
 &emsp;(II) the aggregate average net cigarettes manufactured by all domestic cigarette manufacturers for use for such 12-month period.
 

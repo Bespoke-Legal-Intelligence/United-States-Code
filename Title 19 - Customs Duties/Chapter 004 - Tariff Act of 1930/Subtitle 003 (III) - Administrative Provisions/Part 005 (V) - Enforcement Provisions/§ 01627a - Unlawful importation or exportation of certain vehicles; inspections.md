@@ -10,7 +10,7 @@
 
 > shall be subject to a civil penalty in an amount determined by the Secretary, not to exceed $10,000 for each violation.
 
-(2) Any violation of this subsection shall make such self-propelled vehicle, vessel, aircraft, orpart thereof subject to seizure and forfeiture under this chapter.
+(2) Any violation of this subsection shall make such self-propelled vehicle, vessel, aircraft, or part thereof subject to seizure and forfeiture under this chapter.
 
 #### (b) Regulations; violations; penalties
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 Customs officers may cooperate and exchange information concerning motor vehicles, off-highway mobile equipment, vessels, or aircraft, either before exportation or after exportation or importation, with such Federal, State, local, and foreign law enforcement or governmental authorities, and with such organizations engaged in theft prevention activities, as may be designated by the Secretary.
 
-(June 17, 1930, ch. 497, title IV, §627, as added Oct. 30, 1984, Pub. L. 98–573, title II, §205, 98 Stat. 2974.)
+(June 17, 1930, ch. 497, title IV, §627, as added Pub. L. 98–573, title II, §205, Oct. 30, 1984, 98 Stat. 2974.)
 
 #### Codification
 

@@ -52,7 +52,7 @@ No grant may be made under this section to any entity other than a State or an I
 
 The Secretary shall assure that not less than 70 percent of the funds distributed under subsection (a) or (b) of this section shall be distributed to entities for the purpose of providing immediate shelter and related assistance to victims of family violence and their dependents as defined in section 10408(4) of this title. Not less than 25 percent of the funds distributed under subsection (a) or (b) of this section shall be distributed for the purpose of providing related assistance as defined under section 10408(5)(A) of this title.
 
-(Pub. L. 98–457, title III, §303, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 100–294, title III, §302, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §§303–309(a), 310, 311(a), May 28, 1992, 106 Stat. 201–203; Pub. L. 103–322, title IV, §40271, Sept. 13, 1994, 108 Stat. 1937; Pub. L. 104–235, title II, §201, Oct. 3, 1996, 110 Stat. 3089.)
+(Pub. L. 98–457, title III, §303, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 100–294, title III, §302, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III,§§303–309(a), 310, 311(a), May 28, 1992, 106 Stat. 201–203; Pub. L. 103–322, title IV, §40271, Sept. 13, 1994, 108 Stat. 1937; Pub. L. 104–235, title II, §201, Oct. 3, 1996, 110 Stat. 3089.)
 
 #### References in Text
 

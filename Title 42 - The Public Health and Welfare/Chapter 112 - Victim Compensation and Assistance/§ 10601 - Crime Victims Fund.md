@@ -20,7 +20,7 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 &emsp;&emsp;&emsp;(i) the railroad unemployment insurance account pursuant to the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.);
 
-&emsp;&emsp;&emsp;(ii) the Postal Service Fund pursuant to sections 2601(a)(2) and 2003 of title 39 and for the purposes set forth in section 404(a)(8) of title 39;
+&emsp;&emsp;&emsp;(ii) the Postal Service Fund pursuant to sections 2601(a)(2) and 2003 of title 39 andfor the purposes set forth in section 404(a)(8) of title 39;
 
 &emsp;&emsp;&emsp;(iii) the navigable waters revolving fund pursuant to section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321); and
 
@@ -88,7 +88,7 @@ As used in this section, the term “offenses against the United States” does 
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
-Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
+Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct.12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
 
 Section 3671(c)(2) of title 18, referred to in subsec. (b)(4), was renumbered section 3681(c)(2) by Pub. L. 99–646, §41(a), Nov. 10, 1986, 100 Stat. 3600.
 
@@ -98,7 +98,7 @@ Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and s
 
 #### Amendments
 
-1997—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch foradministrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
+1997—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
 
 Subsec. (d)(2). Pub. L. 105–119, §109(a)(2), substituted “The first” for “the next”.
 
@@ -194,7 +194,7 @@ Subsec. (d). Pub. L. 102–572, §1001(2), added subsec. (d) and struck out form
 
 1988—Subsec. (c). Pub. L. 100–690, §7121(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(1) If the total deposited in the Fund during a particular fiscal year reaches the sum of $110 million, the excess over that sum shall be deposited in the general fund of the Treasury and shall not be a part of the Fund.
+“(1) If the total deposited in the Fund during a particular fiscal year reaches the sum of $110 million, theexcess over that sum shall be deposited in the general fund of the Treasury and shall not be a part of the Fund.
 
 “(2) No deposits shall be made in the Fund after September 30, 1988.”
 

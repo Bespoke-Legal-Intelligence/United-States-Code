@@ -2,7 +2,7 @@
 
 #### (a) Authorization for expenses
 
-In order to provide for United States participation in the North Atlantic Treaty Organization, there is authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its share of the expenses of the Organization and all necessary salaries and expenses of the United States permanent representative to the Organization, of such persons as may be appointed to represent the United States in the subsidiary bodies of the Organization or in any multilateral organization which participates inachieving the aims of the North Atlantic Treaty, and of their appropriate staffs, and the expenses of participation in meetings of such organizations, including salaries, expenses, and allowances of personnel and dependents as authorized by the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and allowances and expenses as provided in section 287r of this title.
+In order to provide for United States participation in the North Atlantic Treaty Organization, there is authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its share of the expenses of the Organization and all necessary salaries and expenses of the United States permanent representative to the Organization, of such persons as may be appointed to represent the United States in the subsidiary bodies of the Organization or in any multilateral organization which participates in achieving the aims of the North Atlantic Treaty, and of their appropriate staffs, and the expenses of participation in meetings of such organizations, including salaries, expenses, and allowances of personnel and dependents as authorized by the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and allowances and expenses as provided in section 287r of this title.
 
 #### (b) Appointment of personal representative
 
@@ -38,6 +38,278 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 
+#### European Security
+
+Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681–839, provided that:
+
+#### “SEC. 2701. SHORT TITLE.
+
+“This title may be cited as the ‘European Security Act of 1998’.
+
+#### “SEC. 2702. STATEMENT OF POLICY.
+
+“(a)
+
+Policy With Respect to NATO Enlargement.—Congress urges the President to outline a clear and complete strategic rationale for the enlargement of the North Atlantic Treaty Organization (NATO), and declares that—
+
+&emsp;“(1) Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO;
+
+&emsp;“(2) the United States should ensure that NATO continues a process whereby all other emerging democracies in Central and Eastern Europe that wish to join NATO will be considered for membership in NATO as soon as they meet the criteria for such membership;
+
+&emsp;“(3) the United States should ensure that no limitations are placed on the numbers of NATO troops or types of equipment, including tactical nuclear weapons, to be deployed on the territory of new member states;
+
+&emsp;“(4) the United States should reject all efforts to condition NATO decisions on review or approval by the United Nations Security Council;
+
+&emsp;“(5) the United States should clearly delineate those NATO deliberations, including but not limited to discussions on arms control, further Alliance enlargement, procurement matters, and strategic doctrine, that are not subject to review or discussion in the NATO-Russia Permanent Joint Council;
+
+&emsp;“(6) the United States should work to ensure that countries invited to join the Alliance are provided an immediate seat in NATO discussions; and
+
+&emsp;“(7) the United States already pays more than a proportionate share of the costs of the common defense of Europe and should obtain, in advance, agreement on an equitable distribution of the cost of NATO enlargement to ensure that the United States does not continue to bear a disproportionate burden.
+
+“(b)
+
+Policy With Respect to Negotiations With Russia.—
+
+&emsp;“(1)
+
+Implementation.—NATO enlargement should be carried out in such a manner as to underscore the Alliance's defensive nature and demonstrate to Russia that NATO enlargement will enhance the security of all countries in Europe, including Russia. Accordingly, the United States and its NATO allies should make this intention clear in negotiations with Russia, including negotiations regarding adaptation of the Conventional Armed Forces in Europe (CFE) Treaty of November 19, 1990.
+
+&emsp;“(2)
+
+Limitations on commitments to russia.—In seeking to demonstrate to Russia NATO's defensive and security-enhancing intentions, it is essential that neither fundamental United States security interests in Europe nor the effectiveness and flexibility of NATO as a defensive alliance be jeopardized. In particular, no commitments should be made to Russia that would have the effect of—
+
+&emsp;&emsp;“(A) extending rights or imposing responsibilities on new NATO members different from those applicable to current NATO members, including rights or responsibilities with respect to the deployment of nuclear weapons and the stationing of troops and equipment from other NATO members;
+
+&emsp;&emsp;“(B) limiting the ability of NATO to defend the territory of new NATO members by, for example, restricting the construction of defense infrastructure or limiting the ability of NATO to deploy necessary reinforcements;
+
+&emsp;&emsp;“(C) providing any international organization, or any country that is not a member of NATO, with authority to delay, veto, or otherwise impede deliberations and decisions of the North Atlantic Council or the implementation of such decisions, including deliberations and decisions with respect to the deployment of NATO forces or the admission of additional members to NATO;
+
+&emsp;&emsp;“(D) impeding the development of enhanced relations between NATO and other European countries that do not belong to the Alliance;
+
+&emsp;&emsp;“(E) establishing a nuclear weapons-free zone in Central or Eastern Europe;
+
+&emsp;&emsp;“(F) requiring NATO to subsidize Russian arms sales, service, or support to the militaries of those former Warsaw Pact countries invited to join the Alliance; or
+
+&emsp;&emsp;“(G) legitimizing Russian efforts to link concessions in arms control negotiations to NATO enlargement.
+
+&emsp;“(3)
+
+Commitments from russia.—In order to enhance security and stability in Europe, the United States should seek commitments from Russia—
+
+&emsp;&emsp;“(A) to demarcate and respect all its borders with neighboring states;
+
+&emsp;&emsp;“(B) to achieve the immediate and complete withdrawal of any armed forces and military equipment under the control of Russia that are deployed on the territories of the independent states of the former Soviet Union without the full and complete agreement of those states;
+
+&emsp;&emsp;“(C) to station its armed forces on the territory of other states only with the full and complete agreement of that state and in strict accordance with international law; and
+
+&emsp;&emsp;“(D) to take steps to reduce further its nuclear and conventional forces in Kaliningrad.
+
+&emsp;“(4)
+
+Consultations.—As negotiations on adaptation of the Treaty on Conventional Armed Forces in Europe proceed, the United States should engage in close and continuous consultations not only with its NATO allies, but also with the emerging democracies of Central and Eastern Europe, Ukraine, and the South Caucasus.
+
+“(c)
+
+Policy With Respect to Ballistic Missile Defense Cooperation.—
+
+&emsp;“(1)
+
+In general.—As the United States proceeds with efforts to develop defenses against ballistic missile attack, it should seek to foster a climate of cooperation with Russia on matters related to missile defense. In particular, the United States and its NATO allies should seek to cooperate with Russia in such areas as early warning.
+
+&emsp;“(2)
+
+Discussions with nato allies.—The United States should initiate discussions with its NATO allies for the purpose of examining the feasibility of deploying a ballistic missile defense capable of protecting NATO's southern and eastern flanks from a limited ballistic missile attack.
+
+&emsp;“(3)
+
+Constitutional prerogatives.—Even as the Congress seeks to promote ballistic missile defense cooperation with Russia, it must insist on its constitutional prerogatives regarding consideration of arms control agreements with Russia that bear on ballistic missile defense.
+
+#### “SEC. 2703. AUTHORITIES RELATING TO NATO ENLARGEMENT.
+
+“(a)
+
+Policy of Section.—This section is enacted in order to implement the policy set forth in section 2702(a).
+
+“(b)
+
+Designation of Additional Countries Eligible for NATO Enlargement Assistance.—
+
+&emsp;“(1)
+
+Designation of additional countries.—Romania, Estonia, Latvia, Lithuania, and Bulgaria are each designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, title II\] (22 U.S.C. 1928 note) and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
+
+&emsp;“(2)
+
+Rule of construction.—The designation of countries pursuant to paragraph (1) as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994—
+
+&emsp;&emsp;“(A) is in addition to the designation of other countries by law or pursuant to section 203(d)(2) of such Act as eligible to receive assistance under the program established under section 203(a) of such Act; and
+
+&emsp;&emsp;“(B) shall not preclude the designation by the President of other emerging democracies in Central and Eastern Europe pursuant to section 203(d)(2) of such Act as eligible to receive assistance under the program established under section 203(a) of such Act.
+
+&emsp;“(3)
+
+Sense of congress.—It is the sense of Congress that Romania, Estonia, Latvia, Lithuania, and Bulgaria—
+
+&emsp;&emsp;“(A) are to be commended for their progress toward political and economic reform and meeting the guidelines for prospective NATO members;
+
+&emsp;&emsp;“(B) would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members; and
+
+&emsp;&emsp;“(C) upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date.
+
+“(c)
+
+Regional Airspace Initiative and Partnership for Peace Information Management System.—
+
+&emsp;“(1)
+
+In general.—Funds described in paragraph (2) are authorized to be made available to support the implementation of the Regional Airspace Initiative and the Partnership for Peace Information Management System, including—
+
+&emsp;&emsp;“(A) the procurement of items in support of these programs; and
+
+&emsp;&emsp;“(B) the transfer of such items to countries participating in these programs.
+
+&emsp;“(2)
+
+Funds described.—Funds described in this paragraph are funds that are available—
+
+&emsp;&emsp;“(A) during any fiscal year under the NATO Participation Act of 1994 \[Pub. L. 103–447, title II, set out as a note below\] with respect to countries eligible for assistance under that Act; or
+
+&emsp;&emsp;“(B) during fiscal year 1998 under any Act to carry out the Warsaw Initiative.
+
+“(d)
+
+Extension of Authority Regarding Excess Defense Articles.—\[Amended section 105 of Pub. L. 104–164, 110 Stat. 1427.\]
+
+“(e)
+
+Conforming Amendments to the NATO Participation Act of 1994.—\[Amended section 203(c) of Pub. L. 103–447, set out in a note below.\]
+
+#### “SEC. 2704. SENSE OF CONGRESS WITH RESPECT TO THE TREATY ON CONVENTIONAL ARMED FORCES IN EUROPE.
+
+“It is the sense of Congress that no revisions to the Treaty on Conventional Armed Forces in Europe will be approved for entry into force with respect to the United States that jeopardize fundamental United States security interests in Europe or the effectiveness and flexibility of NATO as a defensive alliance by—
+
+&emsp;“(1) extending rights or imposing responsibilities on new NATO members different from those applicable to current NATO members, including rights or responsibilities with respect to the deployment of nuclear weapons and the stationing of troops and equipment from other NATO members;
+
+&emsp;“(2) limiting the ability of NATO to defend the territory of new NATO members by, for example, restricting the construction of defense infrastructure or limiting the ability of NATO to deploy necessary reinforcements;
+
+&emsp;“(3) providing any international organization, or any country that is not a member of NATO, with the authority to delay, veto, or otherwise impede deliberations and decisions of the North Atlantic Council or the implementation of such decisions, including deliberations and decisions with respect to the deployment of NATO forces or the admission of additional members to NATO; or
+
+&emsp;“(4) impeding the development of enhanced relations between NATO and other European countries that do not belong to the Alliance.
+
+#### “SEC. 2705. RESTRICTIONS AND REQUIREMENTS RELATING TO BALLISTIC MISSILE DEFENSE.
+
+“(a)
+
+Policy of Section.—This section is enacted in order to implement the policy set forth in section 2702(c).
+
+“(b)
+
+Restriction on Entry Into Force of ABM/TMD Demarcation Agreements.—An ABM/TMD demarcation agreement shall not be binding on the United States, and shall not enter into force with respect to the United States, unless, after the date of enactment of this Act \[Oct. 21, 1998\], that agreement is specifically approved with the advice and consent of the United States Senate pursuant to Article II, section 2, clause 2 of the Constitution.
+
+“(c)
+
+Sense of Congress With Respect to Demarcation Agreements.—
+
+&emsp;“(1)
+
+Relationship to multilateralization of abm treaty.—It is the sense of Congress that no ABM/TMD demarcation agreement will be considered for advice and consent to ratification unless, consistent with the certification of the President pursuant to condition (9) of the resolution of ratification of the CFE Flank Document, the President submits for Senate advice and consent to ratification any agreement, arrangement, or understanding that would—
+
+&emsp;&emsp;“(A) add one or more countries as State Parties to the ABM Treaty, or otherwise convert the ABM Treaty from a bilateral treaty to a multilateral treaty; or
+
+&emsp;&emsp;“(B) change the geographic scope or coverage of the ABM Treaty, or otherwise modify the meaning of the term ‘national territory’ as used in Article VI and Article IX of the ABM Treaty.
+
+&emsp;“(2)
+
+Preservation of united states theater ballistic missile defense potential.—It is the sense of Congress that no ABM/TMD demarcation agreement that would reduce the capabilities of United States theater missile defense systems, or the numbers or deployment patterns of such systems, will be approved for entry into force with respect to the United States.
+
+“(d)
+
+Report on Cooperative Projects With Russia.—Not later than January 1, 1999, and January 1, 2000, the President shall submit to the Committees on International Relations, National Security, and Appropriations of the House of Representatives and the Committees on Foreign Relations, Armed Services, and Appropriations of the Senate a report on cooperative projects with Russia in the area of ballistic missile defense, including in the area of early warning. Each such report shall include the following:
+
+&emsp;“(1)
+
+Cooperative projects.—A description of all cooperative projects conducted in the area of early warning and ballistic missile defense during the preceding fiscal year and the fiscal year during which the report is submitted.
+
+&emsp;“(2)
+
+Funding.—A description of the funding for such projects during the preceding fiscal year and the year during which the report is submitted and the proposed funding for such projects for the next fiscal year.
+
+&emsp;“(3)
+
+Status of dialogue or discussions.—A description of the status of any dialogue or discussions conducted during the preceding fiscal year between the United States and Russia aimed at exploring the potential for mutual accommodation of outstanding issues between the two nations on matters relating to ballistic missile defense and the ABM Treaty, including the possibility of developing a strategic relationship not based on mutual nuclear threats.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+ABM/TMD demarcation agreement.—The term ‘ABM/TMD demarcation agreement’ means any agreement that establishes a demarcation between theater ballistic missile defense systems and strategic antiballistic missile defense systems for purposes of the ABM Treaty.
+
+&emsp;“(2)
+
+ABM treaty.—The term ‘ABM Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems, signed at Moscow on May 26, 1972 (23 UST 3435), and includes the Protocols to that Treaty, signed at Moscow on July 3, 1974 (27 UST 1645).”
+
+#### Limitation on United States Share of Costs of NATO Expansion
+
+Pub. L. 105–261, div. A, title XII, §1221, Oct. 17, 1998, 112 Stat. 2152, provided that:
+
+“(a)
+
+Limitation.—The United States share of defined NATO expansion costs may not exceed the lesser of—
+
+&emsp;“(1) the amount equal to 25 percent of those costs; or
+
+&emsp;“(2) $2,000,000,000.
+
+“(b)
+
+Defined NATO Expansion Costs.—For purposes of subsection (a), the term ‘defined NATO expansion costs’ means the commonly funded costs of the North Atlantic Treaty Organization (NATO) during fiscal years 1999 through 2011 for enlargement of NATO due to the admission to NATO of Poland, Hungary, and the Czech Republic.”
+
+#### Reports on Development of European Security and Defense Identity
+
+Pub. L. 105–261, div. A, title XII, §1223, Oct. 17, 1998, 112 Stat. 2154, provided that:
+
+“(a)
+
+Requirement for Reports.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives in accordance with this section reports on the development of the European Security and Defense Identity (ESDI) within the NATO Alliance that would enable the Western European Union (WEU), with the consent of the NATO Alliance, to assume the political control and strategic direction of NATO assets and capabilities made available by the Alliance.
+
+“(b)
+
+Reports To Be Submitted.—The reports required to be submitted under subsection (a) are as follows:
+
+&emsp;“(1) An initial report, submitted not later than December 15, 1998, that contains a discussion of the actions taken, and the plans for future actions, to build the European Security and Defense Identity, together with the matters required under subsection (c).
+
+&emsp;“(2) A semiannual report on the progress made toward establishing the European Security and Defense Identity, submitted not later than June 15 and December 15 of each year after 1998.
+
+“(c)
+
+Content of Reports.—The Secretary shall include in each report under this section the following:
+
+&emsp;“(1) A discussion of the arrangements between NATO and the Western European Union for the release, transfer, monitoring, return, and recall of NATO assets and capabilities.
+
+&emsp;“(2) A discussion of the development of such planning and other capabilities by the Western European Union that are necessary to provide political control and strategic direction of NATO assets and capabilities.
+
+&emsp;“(3) A discussion of the development of terms of reference for the Deputy Supreme Allied Commander, Europe, with respect to the European Security and Defense Identity.
+
+&emsp;“(4) A discussion of the arrangements for the assignment or appointment of NATO officers to serve in two positions concurrently (commonly referred to as ‘dual-hatting’).
+
+&emsp;“(5) A discussion of the development of the Combined Joint Task Force (CJTF) concept, including lessons-learned from the NATO-led Stabilization Force in Bosnia.
+
+&emsp;“(6) Identification within the NATO Alliance of the types of separable but not separate capabilities, assets, and support assets for Western European Union-led operations.
+
+&emsp;“(7) Identification of separable but not separate headquarters, headquarters elements, and command positions for command and conduct of Western European Union-led operations.
+
+&emsp;“(8) The conduct by NATO, at the request of and in coordination with the Western European Union, of military planning and exercises for illustrative missions.
+
+&emsp;“(9) A discussion of the arrangements between NATO and the Western European Union for the sharing of information, including intelligence.
+
+&emsp;“(10) Such other information as the Secretary considers useful for a complete understanding of the establishment of the European Security and Defense Identity within the NATO Alliance.
+
+“(d)
+
+Termination of Reporting Requirement.—The requirement to submit reports under subsection (b)(2) terminates upon the submission by the Secretary under that subsection of a report in which the Secretary states that the European Security and Defense Identity has been fully established.”
+
 #### NATO Enlargement Facilitation
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–173, provided that:
@@ -70,7 +342,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 &emsp;“(10) New members will be full members of the Alliance, enjoying all rights and assuming all the obligations under the North Atlantic Treaty, signed at Washington on April 4, 1949 (hereafter in this Act referred to as the ‘Washington Treaty’).
 
-&emsp;“(11) In order to assist emerging democracies in Central and Eastern Europe that have expressed interest in joining NATO to be prepared to assume the responsibilities of NATO membership, the United States should encourage and support efforts by such countries to develop force structures and force modernization priorities that will enable such countriesto contribute to the full range of NATO missions, including, most importantly, territorial defense of the Alliance.
+&emsp;“(11) In order to assist emerging democracies in Central and Eastern Europe that have expressed interest in joining NATO to be prepared to assume the responsibilities of NATO membership, the United States should encourage and support efforts by such countries to develop force structures and force modernization priorities that will enable such countries to contribute to the full range of NATO missions, including, most importantly, territorial defense of the Alliance.
 
 &emsp;“(12) Cooperative regional peacekeeping initiatives involving emerging democracies in Central and Eastern Europe that have expressed interest in joining NATO, such as the Baltic Peacekeeping Battalion, the Polish-Lithuanian Joint Peacekeeping Force, and the Polish-Ukrainian Peacekeeping Force, can make an important contribution to European peace and security and international peacekeeping efforts, can assist those countries preparing to assume the responsibilities of possible NATO membership, and accordingly should receive appropriate support from the United States.
 
@@ -228,7 +500,7 @@ Notification.—At least 15 days before terminating the eligibility of any count
 
 #### Defense Burdensharing
 
-Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, provided that:
+Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, as amended by Pub. L. 105–261, div. A, title XII, §1233, Oct. 17, 1998, 112 Stat. 2156, provided that:
 
 “(a)
 
@@ -236,11 +508,11 @@ Efforts To Increase Allied Burdensharing.—The President shall seek to have eac
 
 &emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving by September 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
 
-&emsp;“(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1998.
+&emsp;“(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1999.
 
-&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, economic stabilization, transparency arrangements, defense economic conversion, respect for the rule of law, and internationally recognized human rights) by 10 percent or at least to a level commensurate to that of the United States by September 30, 1998.
+&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, governmental accountability and transparency, economic stabilization and development, defense economic conversion, respect for the rule of law and internationally recognized human rights, and humanitarian relief efforts)) \[sic\] by 10 percent or to provide such foreign assistance at an annual rate that is not less than one percent of its gross domestic product, by September 30, 1999.
 
-&emsp;“(4) Increase the amount of military assets (including personnel, equipment, logistics, support and other resources) that it contributes, or would be prepared to contribute, to multinational military activities worldwide.
+&emsp;“(4) Increase the military assets (including personnel, equipment, logistics, support and other resources) that it contributes or has pledged to contribute to multinational military activities worldwide by 10 percent by September 30, 1999.
 
 “(b)
 
@@ -260,13 +532,13 @@ Authorities To Encourage Actions by United States Allies.—In seeking the actio
 
 “(c)
 
-Report on Progress in Increasing Allied Burdensharing.—Not later than March 1, 1998, the Secretary of Defense shall submit to Congress a report on—
+Report on Progress in Increasing Allied Burdensharing.—Not later than March 1, 1999, the Secretary of Defense shall submit to Congress a report on—
 
 &emsp;“(1) steps taken by other nations to complete the actions described in subsection (a);
 
 &emsp;“(2) all measures taken by the President, including those authorized in subsection (b), to achieve the actions described in subsection (a);
 
-&emsp;“(3) the difference between the amount allocated by other nations for each of the actions described in subsection (a) during the period beginning on March 1, 1996, and ending on February 28, 1997, and during the period beginning on March 1, 1997, and ending on February 28, 1998; and
+&emsp;“(3) the difference between the amount allocated by other nations for each of the actions described in subsection (a) during the period beginning on October 1, 1996, and ending on September 30, 1997, and during the period beginning on October 1, 1997, and ending on September 30, 1998, or, in the case of any nation for which the data for such periods is inadequate, the difference between the amounts for the latest periods for which adequate data is available; and
 
 &emsp;“(4) the budgetary savings to the United States that are expected to accrue as a result of the steps described under paragraph (1).
 
@@ -284,13 +556,15 @@ Report on National Security Bases for Forward Deployment and Burdensharing Relat
 
 &emsp;“(E) The costs and force structure configurations associated with such alternatives to forward deployment.
 
-&emsp;“(F) The financial contributions that allies of the United States make to common defense efforts (to promote democratization, economic stabilization, transparency arrangements, defense economic conversion, respect for the rule of law, and internationally recognized human rights).
+&emsp;“(F) The financial contributions that allies of the United States make to common defense efforts (topromote democratization, economic stabilization, transparency arrangements, defense economic conversion, respect for the rule of law, and internationally recognized human rights).
 
 &emsp;“(G) The contributions that allies of the United States make to meeting the stationing costs associated with the forward deployment of elements of the United States Armed Forces.
 
 &emsp;“(H) The annual expenditures of the United States and its allies on national defense, and the relative percentages of each nation's gross domestic product constituted by those expenditures.
 
-“(2) The President shall submit to Congress a report on the review under paragraph (1). The report shall be submitted not later than March 1, 1998, in classified and unclassified form.”
+“(2) The President shall submit to Congress a report on the review under paragraph (1). The report shall be submitted not later than March 1, 1999, in classified and unclassified form.”
+
+\[Pub. L. 105–261, div. A, title XII, §1233(a), Oct. 17, 1998, 112 Stat. 2156, provided that the amendments made by that section to section 1221(a) of Pub. L. 105–85, set out above, are effective Oct. 1, 1998.\]
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -298,7 +572,7 @@ Pub. L. 104–201, div. A, title X, §1084, Sept. 23, 1996, 110 Stat. 2673.
 
 #### Nato Participation
 
-Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, §585, Feb. 12, 1996, 110 Stat. 752; Pub. L. 104–208, div. A, title I, §101(c) \[title VI, §612\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178, provided that:
+Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, §585, Feb. 12, 1996, 110 Stat. 752; Pub. L. 104–208, div. A, title I, §101(c) \[title VI, §612\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178; Pub. L. 105–277, div. G, subdiv. B, title XXVII, §2703(e), Oct. 21, 1998, 112 Stat. 2681–842, provided that:
 
 #### “SEC. 201. SHORT TITLE.
 
@@ -340,21 +614,19 @@ Conduct of Program.—The program established under subsection (a) shall facilit
 
 Type of Assistance.—In carrying out the program established under subsection (a), the President may provide to the countries designated under subsection (d) the following types of security assistance:
 
-&emsp;“(1) The transfer of excess defense articles under section 516 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j\], without regard to the restrictions in paragraphs (1) through (3) of subsection (a) of such section (relating to the eligibility of countries for such articles under such section).
+&emsp;“(1) The transfer of excess defense articles under section 516 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j\].
 
-&emsp;“(2) The transfer of nonlethal excess defense articles under section 519 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321m\], without regard to the restriction in subsection (a) of such section (relating to the justification of the foreign military financing program for the fiscal year in which a transfer is authorized).
+&emsp;“(2) Assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347 et seq.\] (relating to international military education and training).
 
-&emsp;“(3) Assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347 et seq.\] (relating to international military education and training).
+&emsp;“(3) Assistance under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\] (relating to the ‘Foreign Military Financing Program’).
 
-&emsp;“(4) Assistance under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\] (relating to the ‘Foreign Military Financing Program’).
+&emsp;“(4) Assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund).
 
-&emsp;“(5) Assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund).
+&emsp;“(5) Funds made available for the ‘Nonproliferation and Disarmament Fund’.
 
-&emsp;“(6) Funds appropriated under the ‘Nonproliferation and Disarmament Fund’ account.
+&emsp;“(6) Assistance under chapter 6 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2348 et seq.\] (relating to peacekeeping operations and other programs).
 
-&emsp;“(7) Assistance under chapter 6 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2348 et seq.\] (relating to peacekeeping operations and other programs).
-
-&emsp;“(8) Notwithstanding any other provision of law, including any restrictions in sections 516 and 519 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j, 2321m\], as amended, the President may direct the crating, packing, handling, and transportation of excess defense articles provided pursuant to paragraphs (1) and (2) of this subsection without charge to the recipient of such articles.
+&emsp;“(7) Notwithstanding any other provision of law, including section 516(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j(e)\], the President may direct the crating, packing, handling, and transportation of excess defense articles provided pursuant to paragraph (1) of this subsection without charge to the recipient of such articles.
 
 “(d)
 
@@ -406,7 +678,7 @@ Determination.—It is hereby determined that Poland, Hungary, the Czech Republi
 
 “(g)
 
-Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the eligibility of countries toparticipate under other provisions of law in programs described in this Act \[title\].
+Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the eligibility of countries to participate under other provisions of law in programs described in this Act \[title\].
 
 #### “SEC. 204. ADDITIONAL AUTHORITIES.
 
@@ -462,7 +734,7 @@ Pub. L. 103–236, title V, §514, Apr. 30, 1994, 108 Stat. 467, provided that:
 
 “(a)
 
-Report to Congress.—The President shall submit annually, beginning 90 days after the date of enactment of this Act \[Apr. 30, 1994\], a detailed report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives on the implementation of the ‘Partnership for Peace’ initiative, including an assessment of the progress made by former members of the Warsaw Treaty Organization in meeting the criteria for full membership articulated in Article 10 of the North Atlantic Treaty, wherein any other European state may, by unanimous agreement, be invited to accede to the North Atlantic Treaty if it is in a position to further the principles of the Treaty and to contribute to the security of the North Atlantic area.
+Report to Congress.—The President shall submit annually, beginning 90 days after the date of enactment of this Act \[Apr. 30, 1994\], a detailed report to the Committee on Foreign Relations of the Senate and theCommittee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives on the implementation of the ‘Partnership for Peace’ initiative, including an assessment of the progress made by former members of the Warsaw Treaty Organization in meeting the criteria for full membership articulated in Article 10 of the North Atlantic Treaty, wherein any other European state may, by unanimous agreement, be invited to accede to the North Atlantic Treaty if it is in a position to further the principles of the Treaty and to contribute to the security of the North Atlantic area.
 
 “(b)
 
@@ -572,7 +844,7 @@ Pub. L. 99–93, title VIII, §812, Aug. 16, 1985, 99 Stat. 453, as amended by P
 
 Findings.—The Congress hereby finds—
 
-&emsp;“(1) the Japan-United States security relationship is the foundation of the peace and security of Japanand the Far East, as well as a major contributor to the protection of the United States and of the democratic freedoms and economic prosperity enjoyed by both the United States and Japan;
+&emsp;“(1) the Japan-United States security relationship is the foundation of the peace and security of Japan and the Far East, as well as a major contributor to the protection of the United States and of the democratic freedoms and economic prosperity enjoyed by both the United States and Japan;
 
 &emsp;“(2) the threats to our two democracies have increased significantly since 1976, principally through the Soviet invasion of Afghanistan, the expansion of Soviet armed forces in the Far East, the invasion of Cambodia by Vietnam, and the instability in the Persian Gulf region as signified by the continuing Iran-Iraq conflict;
 
@@ -610,7 +882,7 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 &emsp;“(1) that the North Atlantic Treaty Organization (NATO) should improve its conventional defense capability so as to lengthen the period of time that Western Europe can be defended by conventional forces without the necessity of resorting to the early use of nuclear weapons in the event of a non-nuclear attack on any NATO member country;
 
-&emsp;“(2) that fulfillment by NATO member nations of their goals and commitments to increase defense spending, improve conventional sustainability, and provide support facilities in Western Europe for rapid reinforcements from the United States is crucial to accomplishing that objective; and
+&emsp;“(2) that fulfillment by NATO member nations of their goals and commitments to increase defensespending, improve conventional sustainability, and provide support facilities in Western Europe for rapid reinforcements from the United States is crucial to accomplishing that objective; and
 
 &emsp;“(3) that an increase over current United States military personnel levels in European member nations of NATO can be justified only if these goals and commitments are substantially met by NATO member nations (other than the United States).
 
@@ -632,7 +904,7 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 &emsp;“(B) Members performing duties in Europe for more than 179 days under a military-to-military contact program under section 168 of title 10, United States Code.
 
-“(d) Not later than April 1 of each even-numbered year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate, \[sic\] the Committee on National Security of the House of Representatives a report on the status, as of January 1 of the year in which the report is submitted, of the following matters:
+“(d) Not later than April 1 of each even-numbered year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate, \[sic\] the Committee on National Security \[now Committee on Armed Services\] of the House of Representatives a report on the status, as of January 1 of the year in which the report is submitted, of the following matters:
 
 &emsp;“(1) The number of days of supply of the ground and aerial munitions in hand or on order of the member nations of NATO (other than the United States) which have committed forces to the Northern, Center, and Southern Regions.
 
@@ -750,7 +1022,7 @@ Pub. L. 96–342, title X, §1006, Sept. 8, 1980, 94 Stat. 1120, as amended by P
 
 Pub. L. 93–155, title VIII, §812, Nov. 16, 1973, 87 Stat. 619, provided that:
 
-“(a) The Congress finds that in order to achieve a more equitable sharing of the costs and expenses arising from commitments and obligations under the North Atlantic Treaty, the President should seek, through appropriate bilateral and multilateral arrangements, payments sufficient in amount to offset fully any balance-of-payment deficit incurred by the United States during the fiscal year ending June 30, 1974, as the result ofthe deployment of forces in Europe in fulfillment of the treaty commitments and obligations of the United States. This balance-of-payment deficit shall be determined by the Secretary of Commerce in consultation with the Secretary of Defense and the Comptroller General of the United States.
+“(a) The Congress finds that in order to achieve a more equitable sharing of the costs and expenses arising from commitments and obligations under the North Atlantic Treaty, the President should seek, through appropriate bilateral and multilateral arrangements, payments sufficient in amount to offset fully any balance-of-payment deficit incurred by the United States during the fiscal year ending June 30, 1974, as the result of the deployment of forces in Europe in fulfillment of the treaty commitments and obligations of the United States. This balance-of-payment deficit shall be determined by the Secretary of Commerce in consultation with the Secretary of Defense and the Comptroller General of the United States.
 
 “(b) In the event that the North Atlantic Treaty Organization members (other than the United States) fail to offset the net balance-of-payment deficit described in subsection (a) prior to the expiration of eighteen months after the date of enactment of this section \[Nov. 16, 1973\], no funds may be expended after the expiration of twenty-four months following the date of enactment of this section \[Nov. 16, 1973\] for the purpose of maintaining or supporting United States forces in Europe in any number greater than a number equal to the average monthly number of United States forces assigned to duty in Europe during the fiscal year ending June 30, 1974, reduced by a percentage figure equal to the percentage figure by which such balance-of-payment deficit during such fiscal year was not offset.
 

@@ -24,6 +24,64 @@ Personnel Evaluations.—The Secretary of Defense shall establish procedures to 
 
 Secretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see section 347(c) of Pub. L. 102–190, set out as a note under section 2721 of this title.
 
+#### Best Commercial Inventory Practices for Management of Secondary Supply Items
+
+Pub. L. 105–261, div. A, title III, §347, Oct. 17, 1998, 112 Stat. 1980, provided that:
+
+“(a)
+
+Development and Submission of Schedule.—Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Secretary of each military department shall submit to Congress a schedule for implementing within the military department, for secondary supply items managed by that military department, inventory practices identified by the Secretary as being the best commercial inventory practices for the acquisition and distribution of such supply items consistent with military requirements. The schedule shall provide for the implementation of such practices to be completed not later than five years after the date of the enactment of this Act.
+
+“(b)
+
+Definition.—For purposes of this section, the term ‘best commercial inventory practice’ includes cellular repair processes, use of third-party logistics providers, and any other practice that the Secretary of the military department determines will enable the military department to reduce inventory levels while improving the responsiveness of the supply system to user needs.
+
+“(c)
+
+GAO Reports on Military Department and Defense Logistics Agency Schedules.—(1) Not later than 240 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report evaluating the extent to which the Secretary of each military department has complied with the requirements of this section.
+
+“(2) Not later than 18 months after the date on which the Director of the Defense Logistics Agency submits to Congress a schedule for implementing best commercial inventory practices under section 395 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1718; 10 U.S.C. 2458 note),the Comptroller General shall submit to Congress an evaluation of the extent to which best commercial inventory practices are being implemented in the Defense Logistics Agency in accordance with that schedule.”
+
+#### Inventory Management of In-Transit Items
+
+Pub. L. 105–261, div. A, title III, §349, Oct. 17, 1998, 112 Stat. 1981, provided that:
+
+“(a)
+
+Requirement for Plan.—Not later than March 1, 1999, the Secretary of Defense shall submit to Congress a comprehensive plan to ensure visibility over all in-transit end items and secondary items.
+
+“(b)
+
+End Items.—The plan required by subsection (a) shall address the specific mechanisms to be used to enable the Department of Defense to identify at any time the quantity and location of all end items.
+
+“(c)
+
+Secondary Items.—The plan required by subsection (a) shall address the following problems with Department of Defense management of inventories of in-transit secondary items:
+
+&emsp;“(1) The vulnerability of in-transit secondary items to loss through fraud, waste, and abuse.
+
+&emsp;“(2) Loss of oversight of in-transit secondary items, including any loss of oversight when items are being transported by commercial carriers.
+
+&emsp;“(3) Loss of accountability for in-transit secondary items due to either a delay of delivery of the items or a lack of notification of a delivery of the items.
+
+“(d)
+
+Content of Plan.—The plan shall include for subsection (b) and for each of the problems described in subsection (c) the following information:
+
+&emsp;“(1) The actions to be taken by the Department.
+
+&emsp;“(2) Statements of objectives.
+
+&emsp;“(3) Performance measures and schedules.
+
+&emsp;“(4) An identification of any resources necessary for implementing the required actions, together with an estimate of the annual costs.
+
+“(e)
+
+GAO Reviews.—(1) Not later than 60 days after the date on which the Secretary of Defense submits the plan to Congress, the Comptroller General shall review the plan and submit to Congress any comments that the Comptroller General considers appropriate regarding the plan.
+
+“(2) The Comptroller General shall monitor any implementation of the plan and, not later than 1 year after the date referred to in paragraph (1), submit to Congress an assessment of the extent to which the plan has been implemented.”
+
 #### Inventory Management
 
 Pub. L. 105–85, div. A, title III, §395, Nov. 18, 1997, 111 Stat. 1718, provided that:

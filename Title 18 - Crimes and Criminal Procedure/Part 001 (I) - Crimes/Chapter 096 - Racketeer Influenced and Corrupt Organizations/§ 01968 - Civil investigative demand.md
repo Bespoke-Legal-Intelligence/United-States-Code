@@ -8,7 +8,7 @@
 
 &emsp;(2) describe the class or classes of documentary material produced thereunder with such definiteness and certainty as to permit such material to be fairly identified;
 
-&emsp;(3) state that the demand is returnable forthwith or prescribe a return date which will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
+&emsp;(3) state that the demand is returnable forthwith or prescribe a return date which willprovide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
 
 &emsp;(4) identify the custodian to whom such material shall be made available.
 
@@ -16,7 +16,7 @@
 
 &emsp;(1) contain any requirement which would be held to be unreasonable if contained in a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation; or
 
-&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United Statesin aid of a grand jury investigation of such alleged racketeering violation.
+&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation.
 
 (d) Service of any such demand or any petition filed under this section may be made upon a person by—
 
@@ -50,7 +50,7 @@
 
 &emsp;(ii) transmit notice in writing to the person who produced such material as to the identity and address of the successor so designated.
 
-> Any successor so designated shall have with regard to such materials all duties and responsibilities imposed by this section upon his predecessor in office with regard thereto, except that he shall not be held responsible for any default or dereliction which occurred before his designation as custodian.
+> Any successor so designated shall have with regard to such materials all duties and responsibilities imposed by this section upon his predecessor in office with regard thereto, except that he shall not be held responsible for any defaultor dereliction which occurred before his designation as custodian.
 
 (g) Whenever any person fails to comply with any civil investigative demand duly served upon him under this section or whenever satisfactory copying or reproduction of any such material cannot be done and such person refuses to surrender such material, the Attorney General may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of this section, except that if such person transacts business in more than one such district such petition shall be filed in the district in which such person maintains his principal place of business, or in such other district in which such person transacts business as may be agreed upon by the parties to such petition.
 

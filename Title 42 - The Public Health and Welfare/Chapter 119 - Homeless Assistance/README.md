@@ -1026,38 +1026,22 @@ Requirement for notification.
 
 Costs.
 
-#### SUBCHAPTER VI—EDUCATION, TRAINING, AND COMMUNITY SERVICES PROGRAMS
+#### SUBCHAPTER VI—EDUCATION AND TRAINING
 
 #### Part A—Adult Education for Homeless
 
 |  |  |
 | :--- | ---: |
-| [11421\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20A%20-%20Adult%20Education%20for%20Homeless/%C2%A7%2011421%20-%20State%20literacy%20initiatives.md) | State literacy initiatives. |
+| [11421\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20A%20-%20Adult%20Education%20for%20Homeless/%C2%A7%2011421%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93220%2C%20title%20I%2C%20%C2%A7199%28b%29%281%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%201059.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-General authority.
-
-(b)
-
-Application.
-
-(c)
-
-Authorization of appropriations.
-
-(d)
-
-“State” defined.
 
 #### Part B—Education for Homeless Children and Youth
 
 |  |  |
 | :--- | ---: |
-| [11431\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011431%20-%20Statement%20of%20policy.md) | Statement of policy. |
-| [11432\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011432%20-%20Grants%20for%20State%20and%20local%20activities%20for%20education%20of%20homeless%20children%20and%20youth.md) | Grants for State and local activities for education of homeless children and youth. |
+| [11431\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011431%20-%20Statement%20of%20policy.md) | Statement of policy. |
+| [11432\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011432%20-%20Grants%20for%20State%20and%20local%20activities%20for%20education%20of%20homeless%20children%20and%20youth.md) | Grants for State and local activities for education of homeless children and youth. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1091,7 +1075,7 @@ State plan.
 
 |  |  |
 | :--- | ---: |
-| [11433\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011433%20-%20Local%20educational%20agency%20grants%20for%20education%20of%20homeless%20children%20and%20youth.md) | Local educational agency grants for education of homeless children and youth. |
+| [11433\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011433%20-%20Local%20educational%20agency%20grants%20for%20education%20of%20homeless%20children%20and%20youth.md) | Local educational agency grants for education of homeless children and youth. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1113,7 +1097,7 @@ Authorized activities.
 
 |  |  |
 | :--- | ---: |
-| [11434\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011434%20-%20Secretarial%20responsibilities.md) | Secretarial responsibilities. |
+| [11434\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011434%20-%20Secretarial%20responsibilities.md) | Secretarial responsibilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1143,8 +1127,8 @@ Reports.
 
 |  |  |
 | :--- | ---: |
-| [11434a.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011434a%20-%20Definitions.md) | Definitions. |
-| [11435\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011435%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11434a.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011434a%20-%20Definitions.md) | Definitions. |
+| [11435\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011435%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1152,74 +1136,8 @@ Reports.
 
 |  |  |
 | :--- | ---: |
-| [11441\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011441%20-%20Demonstration%20program%20authorized.md) | Demonstration program authorized. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-General authority.
-
-(b)
-
-Contract authority.
-
-|  |  |
-| :--- | ---: |
-| [11442\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011442%20-%20State%20coordination%20with%20demonstration%20grant%20recipients.md) | State coordination with demonstration grant recipients. |
-| [11443\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011443%20-%20Application.md) | Application. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Special consideration.
-
-|  |  |
-| :--- | ---: |
-| [11444\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011444%20-%20Authorized%20activities.md) | Authorized activities. |
-| [11445\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011445%20-%20Payments%3B%20Federal%20share%3B%20limitation.md) | Payments; Federal share; limitation. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Payments.
-
-(b)
-
-Federal share.
-
-(c)
-
-Limitation.
-
-|  |  |
-| :--- | ---: |
-| [11446\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011446%20-%20Evaluation.md) | Evaluation. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Demonstration project responsibility.
-
-(b)
-
-Contents of evaluations.
-
-(c)
-
-Evaluation by Interagency Council.
-
-|  |  |
-| :--- | ---: |
-| [11447\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011447%20-%20Definitions.md) | Definitions. |
-| [11448\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011448%20-%20Homeless%20veterans%E2%80%99%20reintegration%20projects.md) | Homeless veterans’ reintegration projects. |
+| 11441 to 11447. | Repealed. |
+| [11448\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011448%20-%20Homeless%20veterans%E2%80%99%20reintegration%20projects.md) | Homeless veterans’ reintegration projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1245,25 +1163,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| [11449\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011449%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authorization of appropriations.
-
-(b)
-
-Ratable reduction.
-
-(c)
-
-Special rule.
-
-|  |  |
-| :--- | ---: |
-| [11450\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011450%20-%20Termination.md) | Termination. |
+| 11449, 11450. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1271,59 +1171,7 @@ Special rule.
 
 |  |  |
 | :--- | ---: |
-| [11461\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20D%20-%20Emergency%20Community%20Services%20Homeless%20Grant%20Program/%C2%A7%2011461%20-%20Establishment%20of%20program.md) | Establishment of program. |
-| [11462\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20D%20-%20Emergency%20Community%20Services%20Homeless%20Grant%20Program/%C2%A7%2011462%20-%20Allocation%20of%20grants.md) | Allocation of grants. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-General allocation procedure.
-
-(b)
-
-Alternate allocation procedure.
-
-|  |  |
-| :--- | ---: |
-| [11463\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20D%20-%20Emergency%20Community%20Services%20Homeless%20Grant%20Program/%C2%A7%2011463%20-%20Program%20requirements.md) | Program requirements. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Application.
-
-(b)
-
-Assurances.
-
-(c)
-
-Eligible use of funds.
-
-(d)
-
-Compliance with 60-day requirement.
-
-|  |  |
-| :--- | ---: |
-| [11464\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20D%20-%20Emergency%20Community%20Services%20Homeless%20Grant%20Program/%C2%A7%2011464%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [11465\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20D%20-%20Emergency%20Community%20Services%20Homeless%20Grant%20Program/%C2%A7%2011465%20-%20Evaluation.md) | Evaluation. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Purpose.
-
-(b)
-
-Requirement for evaluation activities.
-
-|  |  |
-| :--- | ---: |
-| [11466\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20D%20-%20Emergency%20Community%20Services%20Homeless%20Grant%20Program/%C2%A7%2011466%20-%20Report%20by%20Secretary.md) | Report by Secretary. |
+| 11461 to 11466. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1331,31 +1179,9 @@ Requirement for evaluation activities.
 
 |  |  |
 | :--- | ---: |
-| [11471\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2011471%20-%20Study%20of%20youth%20homelessness.md) | Study of youth homelessness. |
+| 11471, 11472. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authorization.
-
-(b)
-
-Funding.
-
-|  |  |
-| :--- | ---: |
-| [11472\.](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2011472%20-%20Set-asides%20for%20Native%20Americans.md) | Set-asides for Native Americans. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-“Indian tribe” defined.
 
 #### Part F—Family Support Centers
 
@@ -1367,7 +1193,7 @@ In general.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 12705, 12706 of this title; title 14 section 685; title 26 section 42; title 29 sections 1533, 1605, 1645.
+This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 26 section 42; title 29 sections 1533, 1605, 1645.
 
 
 ---
@@ -1379,4 +1205,4 @@ This chapter is referred to in sections 12705, 12706 of this title; title 14 sec
 - [Subchapter 003 (III) - Federal Emergency Management Food and Shelter Program](Subchapter%20003%20%28III%29%20-%20Federal%20Emergency%20Management%20Food%20and%20Shelter%20Program/README.md)
 - [Subchapter 004 (IV) - Housing Assistance](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/README.md)
 - [Subchapter 005 (V) - Identification and Use of Surplus Federal Property](Subchapter%20005%20%28V%29%20-%20Identification%20and%20Use%20of%20Surplus%20Federal%20Property/README.md)
-- [Subchapter 006 (VI) - Education, Training, and Community Services Programs](Subchapter%20006%20%28VI%29%20-%20Education%2C%20Training%2C%20and%20Community%20Services%20Programs/README.md)
+- [Subchapter 006 (VI) - Education and Training](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/README.md)

@@ -68,7 +68,7 @@ Prohibition.—No funds authorized to be appropriated by this Act or any other A
 
 “(b)
 
-Transfer or Reprogramming.—Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorized to remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
+Transfer or Reprogramming.—Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorizedto remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
 
 #### Probable Exemptions to United Nations Employee Hiring Freeze
 
@@ -156,7 +156,7 @@ Pub. L. 103–236, title IV, §409(a)–(d), Apr. 30, 1994, 108 Stat. 454, provi
 
 “(a)
 
-Assessed Contributions.—For assessed contributions authorized to be appropriated for ‘Assessed Contributions to International Organizations’ by this Act \[108 Stat. 382, 388\], the President may withhold 20 percent of the funds appropriated for the United States assessed contribution to the United Nations or to any of its specialized agencies for any calendar year if the United Nations or any such agency has failed to implement or to continue to implement consensus-based decisionmaking procedures on budgetary matters whichassure that sufficient attention is paid to the views of the United States and other member states that are the major financial contributors to such assessed budgets.
+Assessed Contributions.—For assessed contributions authorized to be appropriated for ‘Assessed Contributions to International Organizations’ by this Act \[108 Stat. 382, 388\], the President may withhold 20 percent of the funds appropriated for the United States assessed contribution to the United Nations or to any of its specialized agencies for any calendar year if the United Nations or any such agency has failed to implement or to continue to implement consensus-based decisionmaking procedures on budgetary matters which assure that sufficient attention is paid to the views of the United States and other member states that are the major financial contributors to such assessed budgets.
 
 “(b)
 
@@ -220,11 +220,11 @@ Pub. L. 98–164, title I, §114, Nov. 22, 1983, 97 Stat. 1020, as amended by Pu
 
 &emsp;“(6) 25 percent of the amount budgeted for any other United Nations agency or conference whose sole or partial purpose is to implement the provisions of General Assembly Resolution 33/79; and
 
-&emsp;“(7) 25 percent of the amount budgeted for the General Assembly-approved $73,500,000 conference center to be constructed for the Economic Commission for Africa (ECA) in the Ethiopian capital of Addis Ababa.
+&emsp;“(7) 25 percent of the amount budgeted for the General Assembly-approved $73,500,000 conference centerto be constructed for the Economic Commission for Africa (ECA) in the Ethiopian capital of Addis Ababa.
 
 “(b) Funds appropriated for any fiscal year for the Department of State for ‘International Organizations and Conferences’ may not be used for payment by the United States, as its contribution toward the assessed budget of any specialized agency of the United Nations for any year, of any amount which would cause the total amount paid by the United States as its assessed contribution for that year to exceed the amount assessed as the United States contribution for that year less 25 per centum of the amount budgeted by such agency for that year for projects whose primary purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it or to the South West Africa People's Organization.
 
-“(c) The President shall annually review the budgets of the United Nations and its specialized agencies to determine which projects have the primary purpose ofproviding benefits to the Palestine Liberation Organization or to the South West Africa People's Organization. The President shall report to the Congress on any such project for which a portion of the United States assessed contribution is withheld and the amount withheld.
+“(c) The President shall annually review the budgets of the United Nations and its specialized agencies to determine which projects have the primary purpose of providing benefits to the Palestine Liberation Organization or to the South West Africa People's Organization. The President shall report to the Congress on any such project for which a portion of the United States assessed contribution is withheld and the amount withheld.
 
 “(d) Subsections (a)(3) and (b) shall not be construed as limiting United States contributions to the United Nations or its specialized agencies for projects whose primary purpose is to provide humanitarian, educational, developmental, and other nonpolitical benefits.”
 

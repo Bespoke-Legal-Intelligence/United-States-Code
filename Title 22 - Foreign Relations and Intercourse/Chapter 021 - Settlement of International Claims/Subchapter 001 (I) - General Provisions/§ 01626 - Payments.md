@@ -6,7 +6,7 @@ Subject to the limitations hereinafter provided, the Secretary of the Treasury i
 
 #### (b) Deductions; coverage into Treasury; reimbursement for expenses
 
-(1) There shall be deducted from the amount of each payment made pursuant to subsection (c)of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
+(1) There shall be deducted from the amount of each payment made pursuant to subsection (c) of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
 (2) The Secretary of the Treasury shall deduct from any amounts covered, subsequent to July 24, 1968, into any special fund, created pursuant to section 1627 of this title, 5 per centum thereof as reimbursement to the Government of the United States for expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
@@ -18,7 +18,7 @@ Payments made pursuant to this subchapter shall be made only to the person or pe
 
 &emsp;(2) in the case of a partnership or corporation, the existence of which has been terminated and on behalf of which an award is made, payment shall be made, except as provided in paragraphs (3) and (4) of this subsection, to the person or persons found by the Secretary of the Treasury to be entitled thereto;
 
-&emsp;(3) if a receiver or trustee for any such partnership or corporation has been duly appointed by a court of competent jurisdiction in the United States and has not been discharged prior to the date of payment, payment shall be made to such receiver or trustee in accordance with the order of the court;
+&emsp;(3) if a receiver or trustee for any such partnership or corporation has been duly appointed by a court of competent jurisdictionin the United States and has not been discharged prior to the date of payment, payment shall be made to such receiver or trustee in accordance with the order of the court;
 
 &emsp;(4) if a receiver or trustee for any such partnership or corporation, duly appointed by a court of competent jurisdiction in the United States, makes an assignment of the claim, or any part thereof, with respect to which an award is made, or makes an assignment of such award, or any part thereof, payment shall be made to the assignee, as his interest may appear; and
 

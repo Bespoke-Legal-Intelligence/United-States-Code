@@ -12,7 +12,7 @@
 
 &emsp;(C) if there are no more than two electrical transmission lines in the Eldorado rights-of-way, two electrical transmission lines in the lands encompassed by the Mojave right-of-way and adjacent right-of-way may be allowed;
 
-&emsp;(D) in the Eldorado rights-of-way and Mojave right-of-way no additional land shall be issued, granted, or permitted for such upgrade unless an addition would reduce the impacts to preserve resources;
+&emsp;(D) in the Eldorado rights-of-way and Mojave right-of-way no additional land shall be issued, granted, or permitted for such upgradeunless an addition would reduce the impacts to preserve resources;
 
 &emsp;(E) no more than 350 feet of additional land shall be issued, granted, or permitted for an adjacent right-of-way to the south of the Mojave right-of-way unless a greater addition would reduce the impacts to preserve resources; and
 

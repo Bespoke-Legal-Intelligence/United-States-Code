@@ -1606,7 +1606,7 @@ Limitation.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1395b–4, 1760, 4913, 6024, 6042, 8004, 9904, 11292, 11701, 14404 of this title; title 7 sections 1431, 1431e, 7501; title 29 sections 794e, 1732, 2231.
+This chapter is referred to in sections 1395b–4, 1760, 4913, 6024, 6042, 8004, 9904, 11292, 11701, 14404 of this title; title 7 sections 1431, 1431e, 7501; title 29 sections 794e, 1732, 2942.
 
 
 ---

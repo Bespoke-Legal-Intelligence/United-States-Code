@@ -110,7 +110,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) amounts deposited by an employee, Member, or survivor under section 8411(f); and
 
-&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
+&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of theTreasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
 
 > &emsp;but does not include interest—
 
@@ -168,25 +168,29 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) in the commissioned corps of the National Oceanic and Atmospheric Administration, or a predecessor entity in function, after June 30, 1961;
 
-> &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990; and
+> &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
-&emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g)).
+&emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g)); and
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.)
+&emsp;(33) “Nuclear materials courier” has the meaning given that term in section 8331(27).
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255.)
 
 #### References in Text
 
-The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IIof the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is classified to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code.
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in par. (11)(iii), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
+The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June6, 1986, 100 Stat. 514, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
 The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under section 8331 of this title.
 
 #### Amendments
+
+1998—Par. (33). Pub. L. 105–261 added par. (33).
 
 1996—Par. (4). Pub. L. 104–208 struck out “except as provided in subchapter III of this chapter,” before “the term”.
 
@@ -224,6 +228,10 @@ Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendm
 
 Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated former subpar. (C) as (D).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
@@ -258,15 +266,19 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26,and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
-“(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
+“(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this titleand amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
 “(4) Section 701 of this Act \[enacting provisions set out as a note under section 8472 of this title\] shall take effect on the date of the enactment of this Act.
 
 “(5) Sections 505 \[amending provisions formerly set out as a note under section 403 of Title 50, War and National Defense\] and 601 of this Act and the amendments made by such section 601 \[not classified to the Code\] shall take effect on the date of the enactment of this Act.”
 
 Reference to a specific date in section 702(a) of Pub. L. 99–335, set out above, for certain purposes, deemed to be a reference to the first day of the first pay period beginning after such date, or to the day before such day, as appropriate, see section 505 of Pub. L. 99–556, set out as a Coordination With Pay Periods note under section 8331 of this title.
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–274, §1, Oct. 20, 1998, 112 Stat. 2419, provided that: “This Act \[amending section 8402 of this title and enacting provisions set out as a note under section 8402 of this title\] may be cited as the ‘District of Columbia Courts and Justice Technical Corrections Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
@@ -338,7 +350,7 @@ Uniform date for retirement of Federal personnel, see section 8301 of this title
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 8331, 8351, 8411, 8414, 8477, 8704 of this title; title 10 section 2467; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
+This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 8331, 8351, 8411, 8414, 8477, 8704 of this title; title 10 sections 2467, 10217; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

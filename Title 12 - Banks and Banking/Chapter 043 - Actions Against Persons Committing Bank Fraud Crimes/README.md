@@ -39,10 +39,7 @@
 | (a) | Establishment. |
 | (b) | Authorization of appropriations. |
 | [4210\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004210%20-%20Sources%20of%20payments%20to%20declarants.md) | Sources of payments to declarants. |
-| [4211\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004211%20-%20Government%20accountability%3B%20public%20reports%20on%20processing%20of%20declarations.md) | Government accountability; public reports on processing of declarations. |
-| (a) | In general. |
-| (b) | Contents of report. |
-| (c) | Confidentiality. |
+| [4211\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004211%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20X%2C%20%C2%A71001%28e%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203291.md) | Repealed. |
 | [4212\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004212%20-%20Protection%20for%20declarants.md) | Protection for declarants. |
 | [4213\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004213%20-%20Promulgation%20of%20regulations.md) | Promulgation of regulations. |
 

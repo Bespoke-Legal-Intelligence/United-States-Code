@@ -1,0 +1,40 @@
+### §3131. Establishment of economic development partnerships
+
+#### (a) In general
+
+In providing assistance under this subchapter, the Secretary shall cooperate with States and other entities to ensure that, consistent with national objectives, Federal programs are compatible with and further the objectives of State, regional, and local economic development plans and comprehensive economic development strategies.
+
+#### (b) Technical assistance
+
+The Secretary may provide such technical assistance to States, political subdivisions of States, sub-State regional organizations (including organizations that cross State boundaries), and multi-State regional organizations as the Secretary determines is appropriate to—
+
+&emsp;(1) alleviate economic distress;
+
+&emsp;(2) encourage and support public-private partnerships for the formation and improvement of economic development strategies that sustain and promote economic development across the United States; and
+
+&emsp;(3) promote investment in infrastructure and technological capacity to keep pace with the changing global economy.
+
+#### (c) Intergovernmental review
+
+The Secretary shall promulgate regulations to ensure that appropriate State and local government agencies have been given a reasonable opportunity to review and comment on proposed projects under this subchapter that the Secretary determines may have a significant direct impact on the economy of the area.
+
+#### (d) Cooperation agreements
+
+#### (1) In general
+
+&emsp;The Secretary may enter into a cooperation agreement with any 2 or more adjoining States, or an organization of any 2 or more adjoining States, in support of effective economic development.
+
+#### (2) Participation
+
+&emsp;Each cooperation agreement shall provide for suitable participation by other governmental and nongovernmental entities that are representative of significant interests in and perspectives on economic development in an area.
+
+(Pub. L. 89–136, title I, §101, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3600.)
+
+#### Prior Provisions
+
+A prior section 3131, Pub. L. 89–136, title I, §101, Aug. 26, 1965, 79 Stat. 552; Pub. L. 91–123, title III, §301(1), Nov. 25, 1969, 83 Stat. 219; Pub. L. 92–65, title I, §102, Aug. 5, 1971, 85 Stat. 166; Pub. L. 94–487, title I, §103, Oct. 12, 1976, 90 Stat. 2331, authorized direct and supplementary grants, prior to repeal by Pub. L. 105–393, §102(a).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3338 of this title.
+

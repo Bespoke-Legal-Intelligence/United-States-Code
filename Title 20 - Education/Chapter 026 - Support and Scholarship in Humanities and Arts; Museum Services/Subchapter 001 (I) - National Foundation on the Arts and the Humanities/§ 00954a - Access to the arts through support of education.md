@@ -4,7 +4,7 @@
 
 The purposes of this section are—
 
-&emsp;(1) to increase accessibility to the arts through providing education to all Americans, including diverse cultures, urban and rural populations by encouraging and developing quality education in the arts at all levels, in conjunction with programs of nonformal education for all age groups, with formal systemsof elementary, secondary, and postsecondary education;
+&emsp;(1) to increase accessibility to the arts through providing education to all Americans, including diverse cultures, urban and rural populations by encouraging and developing quality education in the arts at all levels, in conjunction with programs of nonformal education for all age groups, with formal systems of elementary, secondary, and postsecondary education;
 
 &emsp;(2) to develop and stimulate research to teach quality education in the arts; and
 

@@ -38,7 +38,7 @@ The Secretary, acting through the Office, may undertake the following activities
 
 #### (1) Grants authorized
 
-&emsp;With funds allocated to carry out this subsection, the Secretary of Agriculture maymake grants to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, private organizations and corporations, and individuals to carry out research in all aspects of atmospheric sciences and climatology that can be shown to be important in both a basic and developmental way to understanding, forecasting, and delivering agricultural weather information.
+&emsp;With funds allocated to carry out this subsection, the Secretary of Agriculture may make grants to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, private organizations and corporations, and individuals to carry out research in all aspects of atmospheric sciences and climatology that can be shown to be important in both a basic and developmental way to understanding, forecasting, and delivering agricultural weather information.
 
 #### (2) Competitive basis
 

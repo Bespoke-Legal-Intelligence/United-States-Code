@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 13503, 14503, 14908, 14914 of this title; title 26 section 7701; title 46 App. section 883–1.
+This subchapter is referred to in sections 13503, 14503, 14908, 14914 of this title; title 26 section 7701; title 46 App. sections 883–1, 1702.
 
 
 ---

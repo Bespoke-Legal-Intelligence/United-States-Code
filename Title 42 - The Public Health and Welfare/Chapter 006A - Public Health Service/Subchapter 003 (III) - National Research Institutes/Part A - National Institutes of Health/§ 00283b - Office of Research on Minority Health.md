@@ -22,5 +22,5 @@ The Director of the Office shall—
 
 &emsp;(7) assist in the administration of section 289a–2 of this title with respect to the inclusion of members of minority groups as subjects in clinical research.
 
-(July 1, 1944, ch. 373, title IV, §404, as added June 10, 1993, Pub. L. 103–43, title I, §151, 107 Stat. 139.)
+(July 1, 1944, ch. 373, title IV, §404, as added Pub. L. 103–43, title I, §151, June 10, 1993, 107 Stat. 139.)
 

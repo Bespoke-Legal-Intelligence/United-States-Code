@@ -92,7 +92,7 @@
 
 #### (A) Recomputation of participant's annuity
 
-&emsp;&emsp;If a former spouse of a retired participant dies or remarries before attaining age 55, the annuity of the retired participant, if reduced to provide a survivor annuity for that former spouse, shall be recomputed and paid, effective on the first day of the month beginning after such death or remarriage, as if the annuity had not been so reduced, unless an election is in effect under subparagraph (B).
+&emsp;&emsp;If a former spouse of a retired participant dies or remarries before attaining age 55, theannuity of the retired participant, if reduced to provide a survivor annuity for that former spouse, shall be recomputed and paid, effective on the first day of the month beginning after such death or remarriage, as if the annuity had not been so reduced, unless an election is in effect under subparagraph (B).
 
 #### (B) Election of spouse annuity
 
@@ -144,7 +144,7 @@
 
 #### (4) Commencement and termination of additional survivor annuity
 
-&emsp;An annuity payable under this subsection to a spouse or former spouse shall commence onthe day after the participant dies and shall terminate on the last day of the month before the spouse's or the former spouse's death or remarriage before attaining age 55.
+&emsp;An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the spouse's or the former spouse's death or remarriage before attaining age 55.
 
 #### (5) Nonapplicability of COLA provision
 
@@ -282,7 +282,7 @@ Reduction in retirement annuities.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Amount of reduction.—An annuity payable under this subsection shall be reduced by an amount equal to any apportionment payments payable to the former wife or husband pursuant to the terms of a court order incident to the dissolution of the marriage of such former spouse and the participant, former participant, or retired participant.
+Amount of reduction.—An annuity payable under this subsection shall be reduced by anamount equal to any apportionment payments payable to the former wife or husband pursuant to the terms of a court order incident to the dissolution of the marriage of such former spouse and the participant, former participant, or retired participant.
 
 &emsp;&emsp;&emsp;“(ii)
 

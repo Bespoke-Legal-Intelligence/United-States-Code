@@ -84,7 +84,9 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 #### (f) Special rule
 
-Beginning with fiscal year 1994, and notwithstanding any other provision of law limiting the period during which fiscal year 1994 funds may be obligated, the Secretary shall treat the localeducational agency serving the Wheatland R–II School District, Wheatland, Missouri, as meeting the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) (20 U.S.C. 237(a)(1)(C)) or subsection (a)(1)(C) of this section.
+(1) Beginning with fiscal year 1994, and notwithstanding any other provision of law limiting the period during which fiscal year 1994 funds may be obligated, the Secretary shall treat the local educational agency serving the Wheatland R–II School District, Wheatland, Missouri, as meeting the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) (20 U.S.C. 237(a)(1)(C)) or subsection (a)(1)(C) of this section.
+
+(2) For each fiscal year beginning with fiscal year 1999, the Secretary shall treat the Webster School District, Day County, South Dakota as meeting the eligibility requirements of subsection (a)(1)(C) of this section.
 
 #### (g) Former districts
 
@@ -168,13 +170,25 @@ Beginning with fiscal year 1994, and notwithstanding any other provision of law 
 
 &emsp;(C) If funds appropriated under section 7714(g) of this title are in excess of the amount determined under subparagraph (A) the Secretary shall ratably distribute any excess funds to all local educational agencies eligible for payment under subsection (b) of this section.
 
-(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498.)
+#### (k) Special rule
+
+For purposes of payments under this section for each fiscal year beginning with fiscal year 1998—
+
+&emsp;(1) the Secretary shall, for the Stanley County, South Dakota local educational agency, calculate payments as if subsection (e) of this section had been in effect for fiscal year 1994; and
+
+&emsp;(2) the Secretary shall treat the Delaware Valley, Pennsylvania local educational agency as if it had filed a timely application under section 2 of Public Law 81–874 for fiscal year 1994.
+
+(Pub. L. 89–10, title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365.)
 
 #### References in Text
 
-Section 2 of the Act of September 30, 1950, referred to in subsecs. (f), (g)(2), and (h)(1)(A), means section 2 of act Sept. 30, 1950, ch. 1124, which was classified to section 237 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 2 of the Act of September 30, 1950 and section 2 of Public Law 81–874, referred to in subsecs. (f)(1), (g)(2), (h)(1)(A), and (k)(2), means section 2 of act Sept. 30, 1950, ch. 1124, which was classified to section 237 of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–277 designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (k). Pub. L. 105–277 added subsec. (k).
 
 1997—Subsec. (h)(1)(C). Pub. L. 105–18, §60004, added subpar. (C).
 

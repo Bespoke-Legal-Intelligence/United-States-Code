@@ -2,7 +2,7 @@
 
 Not later than October 1, 1995, the Secretary shall report to the appropriate committees of Congress on the activities of the States carried out pursuant to section 300d–11 of this title. Such report shall include an assessment of the extent to which Federal and State efforts to develop systems of trauma care and to designate trauma centers have reduced the incidence of mortality, and the incidence of permanent disability, resulting from trauma. Such report may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to trauma care.
 
-(July 1, 1944, ch. 373, title XII, §1222, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2926; amended Dec. 14, 1993, Pub. L. 103–183, title VI, §601(d), 107 Stat. 2238.)
+(July 1, 1944, ch. 373, title XII, §1222, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2926; amended Pub. L. 103–183, title VI, §601(d), Dec. 14, 1993, 107 Stat. 2238.)
 
 #### Amendments
 

@@ -1,11 +1,6 @@
 ## PART IV—GENERAL ADMINISTRATION
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>631.</b>](Chapter%20631%20-%20Secretary%20of%20the%20Navy%20Miscellaneous%20Powers%20and%20Duties/README.md) | <b>Secretary of the Navy: Miscellaneous Powers and Duties</b> | <b>7201</b> |
 | [<b>633.</b>](Chapter%20633%20-%20Naval%20Vessels/README.md) | <b>Naval Vessels</b> | <b>7291</b> |

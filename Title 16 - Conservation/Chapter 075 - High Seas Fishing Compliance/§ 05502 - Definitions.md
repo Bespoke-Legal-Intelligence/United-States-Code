@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(6) The term “length” means—
 
-&emsp;&emsp;(A) for any high seas fishing vessel built after July 18, 1982, 96 percent of the totallength on a waterline at 85 percent of the least molded depth measured from the top of the keel, or the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that is greater, except that in ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline; and
+&emsp;&emsp;(A) for any high seas fishing vessel built after July 18, 1982, 96 percent of the total length on a waterline at 85 percent of the least molded depth measured from the top of the keel, or the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that is greater, except that in ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline; and
 
 &emsp;&emsp;(B) for any high seas fishing vessel built before July 18, 1982, registered length as entered on the vessel's documentation.
 
@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;&emsp;(C) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen of the United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation.
 
-&emsp;(10) The terms “vessel subject to the jurisdiction of the United States” and “vessel without nationality” have the same meaning as in section 1903(c) of title 46, Appendix.
+&emsp;(10) The terms “vessel subject to the jurisdiction of the United States” and “vesselwithout nationality” have the same meaning as in section 1903(c) of title 46, Appendix.
 
 (Pub. L. 104–43, title I, §103, Nov. 3, 1995, 109 Stat. 367.)
 

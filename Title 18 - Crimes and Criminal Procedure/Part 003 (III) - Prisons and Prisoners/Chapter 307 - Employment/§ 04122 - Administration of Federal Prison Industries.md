@@ -52,7 +52,7 @@
 
 (3) Nothing in this chapter shall be construed to affect the provisions of the Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitled “An Act to establish in the Treasury a correctional industries fund for the government of the District of Columbia, and for other purposes.”
 
-(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, §63, 63 Stat. 98; Oct. 31, 1951, ch. 655, §31, 65 Stat. 722; Dec. 27, 1967, Pub. L. 90–226, title VIII, §802, 81 Stat. 741; Nov. 18, 1988, Pub. L. 100–690, title VII, §7096, 102 Stat. 4413.)
+(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, §63, 63 Stat. 98; Oct. 31, 1951, ch. 655, §31, 65 Stat. 722; Pub. L. 90–226, title VIII, §802, Dec. 27, 1967, 81 Stat. 741; Pub. L. 100–690, title VII, §7096, Nov. 18, 1988, 102 Stat. 4413.)
 
 #### Historical and Revision Notes
 
@@ -72,7 +72,7 @@ Changes were made in phraseology.
 
 Subsection (c) of section 4122 of title 18, U.S.C., as added by this amendment \[see section 63\], incorporates provisions of act of May 11, 1948 (ch. 276, 62 Stat. 230), which was not incorporated in title 18 when the revision was enacted. The remainder of such act is incorporated in section 4126 of such title by another section of this bill.
 
-Subsections (d) and (e) of such section 4122, added by this amendment \[see section 63\], incorporate, with changes in phraseology, the provisions of sections 1 and 2 of act of June 29, 1948 (ch. 719, 62 Stat. 1100), extending the functions and duties of Federal Prisons Industries, Incorporated, to military disciplinary barracks. Section 3 of such act is incorporated in section 4121 of such title by another section of this bill, and section 4 of such act is classified to section 1621a of title 50, U.S.C., Appendix, War and National Defense.
+Subsections (d) and (e) of such section 4122, added by this amendment \[see section 63\], incorporate, with changes in phraseology, the provisions of sections 1 and2 of act of June 29, 1948 (ch. 719, 62 Stat. 1100), extending the functions and duties of Federal Prisons Industries, Incorporated, to military disciplinary barracks. Section 3 of such act is incorporated in section 4121 of such title by another section of this bill, and section 4 of such act is classified to section 1621a of title 50, U.S.C., Appendix, War and National Defense.
 
 #### References in Text
 

@@ -10,11 +10,13 @@ The Administrator, acting through the National Institute for Juvenile Justice an
 
 &emsp;(4) develop technical training teams to aid in the development of training programs in the States and to assist State and local agencies which work directly with juveniles and juvenile offenders; and
 
-&emsp;(5) provide technical assistance and training to assist States and units of general local government to adopt the model standards issued under section 5614(b)(7) of this title.
+&emsp;(5) provide technical assistance and training to assist States and units of local government to adopt the model standards issued under section 5614(b)(7) of this title.
 
-(Pub. L. 93–415, title II, §244, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, §5(f), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, §19(k), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, §633, Oct. 12, 1984, 98 Stat. 2119; Pub. L. 100–690, title VII, §7262, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, §2(g)(3), Nov. 4, 1992, 106 Stat. 4996.)
+(Pub. L. 93–415, title II, §244, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, §5(f), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, §19(k), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, §633, Oct. 12, 1984, 98 Stat. 2119; Pub. L. 100–690, title VII, §7262, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, §2(g)(3), Nov. 4, 1992, 106 Stat. 4996; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(D)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
 
 #### Amendments
+
+1998—Par. (5). Pub. L. 105–277 substituted “units of local government” for “units of general local government”.
 
 1992—Par. (2). Pub. L. 102–586, §2(g)(3)(A), inserted “(including juveniles who commit hate crimes)” after “offenders”.
 
@@ -22,7 +24,7 @@ Par. (3). Pub. L. 102–586, §2(g)(3)(B)(i), inserted “prosecutors and defens
 
 Par. (5). Pub. L. 102–586, §2(g)(3)(B)(ii), (C), (D), added par. (5).
 
-1988—Pub. L. 100–690, §7262(1), amended section catchline generally, substituting “Technical assistance and training functions” for “Training function of Institute”.
+1988—Pub. L. 100–690, §7262(1), amended section catchline generally, substituting “Technical assistance andtraining functions” for “Training function of Institute”.
 
 Pub. L. 100–690, §7262(2), substituted “Administrator, acting through the National Institute for Juvenile Justice and Delinquency Prevention” for “National Institute for Juvenile Justice and Delinquency Prevention”.
 
@@ -30,7 +32,7 @@ Par. (1). Pub. L. 100–690, §7262(6), added par. (1). Former par. (1) redesign
 
 Par. (2). Pub. L. 100–690, §7262(5), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 100–690, §7262(3)–(5), redesignated par. (2) as (3), inserted “and” at end, and struck out former par. (3) which authorized the Institute to devise andconduct a training program, in accordance with the provisions of sections 5659, 5660, and 5661 of this title, of short-term instruction in the latest proven-effective methods of prevention, control, and treatment of juvenile delinquency for correctional and law enforcement personnel, teachers and special education personnel, family counselors, child welfare workers, juvenile judges and judicial personnel, probation personnel (including volunteer lay personnel), persons associated with law-related education, youth workers, and organizations with specific experience in the prevention and treatment of juvenile delinquency.
+Par. (3). Pub. L. 100–690, §7262(3)–(5), redesignated par. (2) as (3), inserted “and” at end, and struck out former par. (3) which authorized the Institute to devise and conduct a training program, in accordance with the provisions of sections 5659, 5660, and 5661 of this title, of short-term instruction in the latest proven-effective methods of prevention, control, and treatment of juvenile delinquency for correctional and law enforcement personnel, teachers and special education personnel, family counselors, child welfare workers, juvenile judges and judicial personnel, probation personnel (including volunteer lay personnel), persons associated with law-related education, youth workers, and organizations with specific experience in the prevention and treatment of juvenile delinquency.
 
 1984—Par. (1). Pub. L. 98–473, §633(1), substituted “working with or” for “or who are” and “juvenile offenders, and their families” for “and juvenile offenders”.
 

@@ -78,11 +78,11 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (f), is classified
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–317 substituted “defendant or defendants” for “petitioner”.
+1996—Subsec. (c)(1). Pub. L. 104–317 substituted “defendant or defendants” for “petitioner”.
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–465 added subsec. (f).
+1994—Subsec. (f). Pub. L. 103–465 added subsec. (f).
 
-<b>1991</b>—Subsec. (c)(1). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
+1991—Subsec. (c)(1). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and “the notice” for “the petition”.
 
 Subsec. (c)(2). Pub. L. 102–198, §10(a)(1), (4), substituted “notice of” for “petition for” and substituted “notice” for “petition” in three places.
 
@@ -96,19 +96,19 @@ Subsec. (c)(4), (5). Pub. L. 102–198, §10(a)(3), added pars. (4) and (5) and 
 
 Subsec. (d). Pub. L. 102–198, §10(a)(1), (4), (5), substituted “notice of removal” for “petition for the removal”, struck out “and bond” after “civil action”, and substituted “notice with” for “petition with”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702, §1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
+1988—Subsec. (a). Pub. L. 100–702, §1016(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A defendant or defendants desiring to remove any civil action or criminal prosecution from a State court shall file in the district court of the United States for the district and division within which such action is pending a verified petition containing a short and plain statement of the facts which entitle him or them to removal together with a copy of all process, pleadings and orders served upon him or them in such action.”
 
 Subsec. (b). Pub. L. 100–702, §1016(b)(2), substituted “notice of removal” for “petition for removal” in two places and inserted before period at end of second par. “, except that a case may not be removed on the basis of jurisdiction conferred by section 1332 of this title more than 1 year after commencement of the action”.
 
 Subsecs. (d) to (f). Pub. L. 100–702, §1016(b)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed.”
 
-<b>1977</b>—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
+1977—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
 
 Subsec. (e). Pub. L. 95–78, §3(b), inserted “for the removal of a civil action” after “filing of such petition”.
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–215 substituted “thirty days” for “twenty days” wherever appearing.
+1965—Subsec. (b). Pub. L. 89–215 substituted “thirty days” for “twenty days” wherever appearing.
 
-<b>1949</b>—Subsec. (b). Act May 24, 1949, §83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
+1949—Subsec. (b). Act May 24, 1949, §83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
 
 Subsec. (e). Act May 24, 1949, §83(b), indicated that notice need not be given simultaneously with the filing, but may be made promptly thereafter.
 
@@ -132,5 +132,5 @@ Stay of State court proceedings, see section 2283 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1441, 1447 of this title; title 19 section 3473; title 22 sections 283gg, 290i–7, 290k–9, 290m; title 25 sections 487, 610c, 642, 670; title 42 section 2210.
+This section is referred to in sections 1441, 1447 of this title; title 19 section 3473; title 22 sections 283gg, 290i–7, 290k–9, 290m; title 25 sections 487, 610c, 642, 670; title 42 sections 2210, 14616.
 

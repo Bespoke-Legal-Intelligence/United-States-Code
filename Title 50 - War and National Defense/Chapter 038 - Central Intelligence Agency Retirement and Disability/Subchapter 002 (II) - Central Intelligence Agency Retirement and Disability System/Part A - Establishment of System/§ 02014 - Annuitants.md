@@ -4,7 +4,7 @@ Persons who are annuitants under the system are—
 
 &emsp;(1) those persons who, on the basis of their service in the Agency, have met all requirements for an annuity under this subchapter or any other Act and are receiving an annuity from the fund; and
 
-&emsp;(2) those persons who, on the basis of someone else's service, meet all the requirements under this subchapter or any other Act for an annuity payable from the fund.
+&emsp;(2) those persons who, on the basis of someone else's service, meet all the requirementsunder this subchapter or any other Act for an annuity payable from the fund.
 
 (Pub. L. 88–643, title II, §204, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202.)
 

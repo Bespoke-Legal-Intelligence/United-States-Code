@@ -4,19 +4,7 @@
 
 (b) Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
 
-(c)(1) In the case of a member of the uniformed services authorized to receive a per diem allowance under subsection (a), the Secretary concerned may make a lump-sum payment for nonrecurring expenses—
-
-&emsp;(A) incurred by the member in occupying private housing outside of the United States; and
-
-&emsp;(B) authorized or approved under regulations prescribed by the Secretary concerned.
-
-(2) Nonrecurring expenses for which a member may be reimbursed under paragraph (1) may include losses sustained by the member on the refund of a rental deposit (or other deposit made by the member to secure housing) as a result of fluctuations in the relative value of the currencies of the United States and the foreign country in which such housing is located.
-
-(3) The Secretary concerned shall recoup the full amount of a refunded deposit referred to in paragraph (2) that was paid by the United States, including any gain resulting from a fluctuation in currency values referred to in that paragraph.
-
-(4) Expenses for which payments are made under this subsection may not be considered for purposes of determining the per diem allowance of the member under subsection (a).
-
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, §622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, §622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, §603(b), Oct. 17, 1998, 112 Stat. 2037.)
 
 Historical and Revision Notes
 
@@ -35,6 +23,8 @@ Oct. 12, 1949, ch. 681, §303(b), 63 Stat. 814.
 The words “Secretaries concerned” are substituted for the words “Secretaries of the uniformed services” to conform to other subsections of the source statute. The words “outside the United States, or in Hawaii or Alaska” are substituted for the words “outside the continental United States or in Alaska” to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–261 struck out subsec. (c) which authorized the Secretary concerned to make a lump-sum payment for nonrecurring expenses to certain members of the uniformed services authorized to receive per diem allowances under subsec. (a).
 
 1997—Subsecs. (b) to (d). Pub. L. 105–85 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “A station housing allowance may be prescribed under this section for a member who is on duty outside of the United States without regard to costs other than housing costs and may consist of the difference between basic allowance for quarters and applicable housing cost. A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska. A station housing allowance prescribed under this section may be paid in advance.”
 
@@ -84,5 +74,5 @@ Regulations for administration of section, see section 411 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 406, 411, 420, 1003 of this title; title 2 section 906; title 5 section 4109; title 10 section 2013; title 36 section 121.
+This section is referred to in sections 406, 411, 420, 1003 of this title; title 2 section 906; title 5 section 4109; title 10 section 2013; title 36 section 2101.
 

@@ -2,7 +2,7 @@
 
 The general purpose of the National Institute of Nursing Research (in this subpart referred to as the “Institute”) is the conduct and support of, and dissemination of information respecting, basic and clinical nursing research, training, and other programs in patient care research.
 
-(July 1, 1944, ch. 373, title IV, §464V, formerly §483, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 867; renumbered §464V and amended June 10, 1993, Pub. L. 103–43, title XV, §1511(a)(1), (b)(2), 107 Stat. 178, 179.)
+(July 1, 1944, ch. 373, title IV, §464V, formerly §483, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 867; renumbered §464V and amended Pub. L. 103–43, title XV, §1511(a)(1), (b)(2), June 10, 1993, 107 Stat. 178, 179.)
 
 #### Codification
 

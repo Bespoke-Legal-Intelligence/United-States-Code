@@ -22,3 +22,5 @@ Pub. L. 103–236, title I, §191(a), Apr. 30, 1994, 108 Stat. 418, as amended b
 
 &emsp;“(6) requiring remedial training and suspension of language differential payments for employees receiving such payments who have failed to maintain required levels of proficiency.”
 
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
+

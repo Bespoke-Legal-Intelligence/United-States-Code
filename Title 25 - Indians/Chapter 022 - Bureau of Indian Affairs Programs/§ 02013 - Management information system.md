@@ -22,7 +22,3 @@ The Secretary shall establish within the Office, within 1 year after October 19,
 
 A prior section 2013, Pub. L. 95–561, title XI, §1133, Nov. 1, 1978, 92 Stat. 2327, related to Bureau education policies, practices, and procedures, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2019 of this title.
-

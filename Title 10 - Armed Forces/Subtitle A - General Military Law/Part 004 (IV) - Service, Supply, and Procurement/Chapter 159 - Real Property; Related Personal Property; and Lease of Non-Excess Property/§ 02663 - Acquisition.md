@@ -14,7 +14,7 @@
 
 (d) The Secretary of the military department concerned may accept for the United States a gift of any interest in land, including temporary use, for any purpose named in subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Sept. 2, 1958, Pub. L. 85–861, §33(a)(14), 72 Stat. 1565.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565.)
 
 Historical and Revision Notes<br>1956
 

@@ -40,9 +40,9 @@ The Secretary may make grants to States and political subdivisions of States for
 
 (3) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of grants under this section that are pertinent to such grants.
 
-(4) The Secretary, at the request of a recipient of a grant under this section, may reduce such grant by the fair market value of any supplies or equipment furnished to such recipient and by the amount of pay, allowances, travel expenses, and any other costs in connection with the detail of an officer or employee of the United States to the recipient when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience ofand at the request of such recipient and for the purpose of carrying out the program with respect to which the grant under this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies, equipment, or personal services on which the reduction of such grant is based.
+(4) The Secretary, at the request of a recipient of a grant under this section, may reduce such grant by the fair market value of any supplies or equipment furnished to such recipient and by the amount of pay, allowances, travel expenses, and any other costs in connection with the detail of an officer or employee of the United States to the recipient when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such recipient and for the purpose of carrying out the program with respect to which the grant under this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies, equipment, or personal services on which the reduction of such grant is based.
 
-(5) All information obtained in connection with the examination, care, or treatment of any individual under any program which is being carried out with a grant made under this section shall not, without such individual's consent, be disclosed except as may be necessary to provide service to him or as may be required by a law of a state or political subdivision of a State. Information derived from any such program may be disclosed—
+(5) All information obtained in connection with the examination, care, or treatment of any individual under any program which is being carried out with a grant made under this section shall not, without such individual's consent, be disclosed except as may be necessary to provide service to him or as may be required by a law ofa state or political subdivision of a State. Information derived from any such program may be disclosed—
 
 &emsp;(A) in summary, statistical, or other form; or
 
@@ -50,17 +50,23 @@ The Secretary may make grants to States and political subdivisions of States for
 
 > but only if the identity of the individuals diagnosed or provided care or treatment under such program is not disclosed.
 
-#### (e) <sup>1</sup> Consent of individuals
+#### (f) Consent of individuals
 
 Nothing in this section shall be construed to require any State or any political subdivision of a State to have a sexually transmitted diseases program which would require any person, who objects to any treatment provided under such a program, to be treated under such a program.
 
-(July 1, 1944, ch. 373, title III, §318, as added Sept. 30, 1972, Pub. L. 92–449, title II, §203, 86 Stat. 751; amended June 23, 1976, Pub. L. 94–317, title II, §203(b)–(i), 90 Stat. 704, 705; Oct. 12, 1976, Pub. L. 94–484, title IX, §905(b)(2), 90 Stat. 2325; Nov. 10, 1978, Pub. L. 95–626, title II, §204(b)(1), (c), (d), 92 Stat. 3583; July 10, 1979, Pub. L. 96–32, §6(j), 93 Stat. 84; Aug. 13, 1981, Pub. L. 97–35, title IX, §929, 95 Stat. 569; Oct. 30, 1984, Pub. L. 98–555, §3, 98 Stat. 2854; Nov. 4, 1988, Pub. L. 100–607, title III, §311, 102 Stat. 3112; Dec. 14, 1993, Pub. L. 103–183, title IV, §401, 107 Stat. 2236.)
+(July 1, 1944, ch. 373, title III, §318, as added Pub. L. 92–449, title II, §203, Sept. 30, 1972, 86 Stat. 751; amended Pub. L. 94–317, title II, §203(b)–(i), June 23, 1976, 90 Stat. 704, 705; Pub. L. 94–484, title IX, §905(b)(2), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–626, title II, §204(b)(1), (c), (d), Nov. 10, 1978, 92 Stat. 3583; Pub. L. 96–32, §6(j), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §929, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §3, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 100–607, title III, §311, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 103–183, title IV, §401, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 105–392, title IV, §401(b)(2), (c), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 
 A prior section 247c, act July 1, 1944, ch. 373 title III, §318, as added Aug. 18, 1964, Pub. L. 88–443, §2, 78 Stat. 447, related to grants for assisting in the areawide planning of health and related facilities, prior to repeal by Pub. L. 89–749, §6, Nov. 3, 1966, 80 Stat. 1190 eff. July 1, 1967.
 
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–392, §401(b)(2), redesignated subsec. (e), relating to consent of individuals, as (f).
+
+Subsec. (e)(5). Pub. L. 105–392, §401(c), made technical amendment to directory language of Pub. L. 103–183, §401(c)(3). See 1993 Amendment note below.
+
+Subsec. (f). Pub. L. 105–392, §401(b)(2), redesignated subsec. (e), relating to consent of individuals, as (f).
 
 1993—Subsec. (b)(3). Pub. L. 103–183, §401(c)(1), substituted “; and” for “, and”.
 
@@ -72,7 +78,7 @@ Subsec. (e). Pub. L. 103–183, §401(a)(1), redesignated subsec. (d), relating 
 
 Subsec. (e)(1). Pub. L. 103–183, §401(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making grants under subsections (b) and (c) of this section there are authorized to be appropriated $45,000,000 for the fiscal year ending September 30, 1979, $51,500,000 for the fiscal year ending September 30, 1980, $59,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for the fiscal year ending September 30, 1982, $46,500,000 for the fiscal year ending September 30, 1983, $50,000,000 for the fiscal year ending September 30, 1984, $57,000,000 for the fiscal year ending September 30, 1985, $62,500,000 for the fiscal year ending September 30, 1986, $68,000,000 for the fiscal year ending September 30, 1987, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991. For grants under subsection (b) of this section in any fiscal year, the Secretary shall obligate not less than 10 per centum of the amount appropriated for such fiscal year under the preceding sentence. Grants made under subsection (b) or (c) of this section shall be made on such terms and conditions as the Secretary finds necessary to carry out the purposes of such subsection, and payments under any such grants shall be made in advance or by way of reimbursement and in such installments as the Secretary finds necessary.”
 
-Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), which directed the amendment of subsec. (d)(5) by substituting “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B), was executed to subsec. (e)(5) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (e) by Pub. L. 103–183, §401(a)(1). See above.
+Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
 
 1988—Pub. L. 100–607, §311(1), amended section catchline.
 
@@ -90,7 +96,7 @@ Subsec. (c). Pub. L. 98–555, §3(b)(3), (6)(A), substituted “sexually transm
 
 Subsec. (d). Pub. L. 98–555, §3(b)(5)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 98–555, §3(a), (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted “(b), (c), and (d)” for “(b) and (c)”, inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted “10 per centum” for “5 per centum”, and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 overcertain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of “(b), (c), or (d)” for “(b) or (c)” in second sentence of subsec. (e)(1), the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because “(b) or (c)” did not appear in second sentence. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 98–555, §3(a), (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted “(b), (c), and (d)” for “(b) and (c)”, inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted “10 per centum” for “5 per centum”, and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 over certain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of “(b), (c), or (d)” for “(b) or (c)” in second sentence of subsec. (e)(1), the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because “(b) or (c)” did not appear in second sentence. Former subsec. (e) redesignated (f).
 
 Subsecs. (f), (g). Pub. L. 98–555, §3(b)(5)(A), (6)(A), (C), redesignated subsecs. (e) and (f) as (f) and (g), respectively, in subsecs. (f) and (g) as so redesignated, substituted “sexually transmitted diseases” for “venereal disease”, and struck out former subsec. (g) which defined venereal disease.
 
@@ -128,6 +134,10 @@ Subsec. (g). Pub. L. 94–317, §203(f)(7), (8), redesignated subsec. (h) as (g)
 
 Subsec. (h). Pub. L. 94–317, §203(h), added subsec. (h). Former subsec. (h) redesignated (g).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+
 #### Distribution of Information on Acquired Immune Deficiency Syndrome by Director of Centers for Disease Control to Every American Household
 
 Pub. L. 100–202, §101(h) \[title II\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–365, provided: “That the Director shall cause to be distributed without necessary clearance of the content by any official, organization or office, an AIDS mailer to every American household by June 30, 1988, as approved and funded by the Congress in Public Law 100–71 \[July 11, 1987, 101 Stat. 391\].”
@@ -150,7 +160,7 @@ Section 204(a) of Pub. L. 95–626 provided that: “The Congress finds and decl
 
 &emsp;“(7) no vaccine for syphilis, gonorrhea, or any other venereal disease has yet been developed, nor does a blood test for the detection of asymptomatic gonorrhea in women exist, nor are safe and effective therapeutic agents available for some other venereal diseases;
 
-&emsp;“(8) school health education programs, public information and awareness campaigns, mass diagnostic screening and case followup have all been found to be effective venereal disease prevention and control methodologies;
+&emsp;“(8) school health education programs, public information and awareness campaigns, mass diagnostic screening and case followup have all been found to beeffective venereal disease prevention and control methodologies;
 
 &emsp;“(9) skilled and knowledgeable health care providers, informed and concerned individuals and active, well-coordinated voluntary groups are fundamental to venereal disease prevention and control;
 
@@ -205,6 +215,4 @@ Section 202 of Pub. L. 92–449 provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 201, 256b, 256d of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(f)”.</i>
 

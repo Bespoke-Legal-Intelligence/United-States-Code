@@ -22,7 +22,7 @@ After submission of the Indian housing plan or any amendment or modification to 
 
 &emsp;(2) are consistent with information and data available to the Secretary; and
 
-&emsp;(3) are prohibited by or inconsistent with any provision of this chapter or other applicable law.
+&emsp;(3) are not prohibited by or inconsistent with any provision of this chapter or other applicable law.
 
 > If the Secretary determines that any of the appropriate certifications required under section 4112(c)(5) of this title are not included in the plan, the plan shall be deemed to be incomplete.
 
@@ -34,9 +34,13 @@ After a plan under section 4112 of this title has been submitted for an Indian t
 
 This section and section 4112 of this title shall take effect on the date provided by the Secretary pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.
 
-(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026.)
+(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, §595(e)(6), Oct. 21, 1998, 112 Stat. 2657.)
+
+#### Amendments
+
+1998—Subsec. (c)(3). Pub. L. 105–276 inserted “not” before “prohibited”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4111 of this title; title 12 section 1715z–13a.
+This section is referred to in section 4111 of this title.
 

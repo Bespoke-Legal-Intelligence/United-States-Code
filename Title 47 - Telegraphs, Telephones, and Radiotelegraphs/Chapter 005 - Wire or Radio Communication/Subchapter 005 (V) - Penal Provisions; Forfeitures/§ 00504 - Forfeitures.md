@@ -12,7 +12,7 @@ The forfeitures imposed by subchapter II of this chapter, parts II and III of su
 
 In any case where the Commission issues a notice of apparent liability looking toward the imposition of a forfeiture under this chapter, that fact shall not be used, in any other proceeding before the Commission, to the prejudice of the person to whom such notice was issued, unless (i) the forfeiture has been paid, or (ii) a court of competent jurisdiction has ordered payment of such forfeiture, and such order has become final.
 
-(June 19, 1934, ch. 652, title V, §504, 48 Stat. 1101; May 20, 1937, ch. 229, §14, 50 Stat. 197; June 25, 1948, ch. 646, §1, 62 Stat. 909; Aug. 13, 1954, ch. 735, §4, 68 Stat. 729; Aug. 6, 1956, ch. 973, §2, 70 Stat. 1048; Pub. L. 86–752, §7(b)–(d), Sept. 13, 1960, 74 Stat. 895; Pub. L. 87–448, §2, May 11, 1962, 76 Stat.69; Pub. L. 95–234, §3, Feb. 21, 1978, 92 Stat. 35; Pub. L. 96–507, §2(c), Dec. 8, 1980, 94 Stat. 2747.)
+(June 19, 1934, ch. 652, title V, §504, 48 Stat. 1101; May 20, 1937, ch. 229, §14, 50 Stat. 197; June 25, 1948, ch. 646, §1, 62 Stat. 909; Aug. 13, 1954, ch. 735, §4, 68 Stat. 729; Aug. 6, 1956, ch. 973, §2, 70 Stat. 1048; Pub. L. 86–752, §7(b)–(d), Sept. 13, 1960, 74 Stat. 895; Pub. L. 87–448, §2, May 11, 1962, 76 Stat. 69; Pub. L. 95–234, §3, Feb. 21, 1978, 92 Stat. 35; Pub. L. 96–507, §2(c), Dec. 8, 1980, 94 Stat. 2747.)
 
 #### References in Text
 

@@ -28,7 +28,7 @@
 
 (b) To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1) of this section, with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entity with respect to which the person is a person with an ownership or control interest.
 
-(Aug. 14, 1935, ch. 531, title XI, §1124, as added Oct. 25, 1977, Pub. L. 95–142, §3(a)(1), 91 Stat. 1177; amended Dec. 5, 1980, Pub. L. 96–499, title IX, §912(a), 94 Stat. 2619; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(i), 95 Stat. 872; Aug. 18, 1987, Pub. L. 100–93, §11, 101 Stat. 697; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4313(a), 4707(c), 111 Stat. 388, 506.)
+(Aug. 14, 1935, ch. 531, title XI, §1124, as added Pub. L. 95–142, §3(a)(1), Oct. 25, 1977, 91 Stat. 1177; amended Pub. L. 96–499, title IX, §912(a), Dec. 5, 1980, 94 Stat. 2619; Pub. L. 97–35, title XXIII, §2353(i), Aug. 13, 1981, 95 Stat. 872; Pub. L. 100–93, §11, Aug. 18, 1987, 101 Stat. 697; Pub. L. 105–33, title IV, §§4313(a), 4707(c), Aug. 5, 1997, 111 Stat. 388, 506.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (a)(2)
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §4313(a), inserted before period at end of concluding provisions “and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 of the Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.” The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
+1997—Subsec. (a)(1). Pub. L. 105–33, §4313(a), inserted before period at end of concluding provisions “and supply the Secretary with the both the employer identification number (assigned pursuant to section 6109 ofthe Internal Revenue Code of 1986) and social security account number (assigned under section 405(c)(2)(B) of this title) of the disclosing entity, each person with an ownership or control interest (as defined in subsection (a)(3) of this section), and any subcontractor in which the entity directly or indirectly has a 5 percent or more ownership interest.” The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be inserted.
 
 Subsec. (a)(2)(A). Pub. L. 105–33, §4707(c), inserted “a managed care entity, as defined in section 1396u–2(a)(1)(B) of this title,” after “renal disease facility,”.
 
@@ -78,7 +78,7 @@ Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsect
 
 #### Report on Confidentiality of Social Security Account Numbers
 
-Section 4313(d) of Pub. L. 105–33 provided that: “Before the amendments made by this section \[amendingthis section and section 1320a–3a of this title\] may become effective, the Secretary of Health and Human Services shall submit to Congress a report on steps the Secretary has taken to assure the confidentiality of social security account numbers that will be provided to the Secretary under such amendments.”
+Section 4313(d) of Pub. L. 105–33 provided that: “Before the amendments made by this section \[amending this section and section 1320a–3a of this title\] may become effective, the Secretary of Health and Human Services shall submit to Congress a report on steps the Secretary has taken to assure the confidentiality of social security account numbers that will be provided to the Secretary under such amendments.”
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §288. “International organization” defined; authority of President
 
-For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the Presidentthrough appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
+For the purposes of this subchapter, the term “international organization” means a publicinternational organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
 
 (Dec. 29, 1945, ch. 652, title I, §1, 59 Stat. 669.)
 
@@ -128,6 +128,8 @@ International Union for Conservation of Nature and Natural Resources, Ex. Ord. N
 
 International Wheat Advisory Committee (International Wheat Council), Ex. Ord. No. 9823, Jan. 24, 1947, 12 F.R. 551.
 
+Interparliamentary Union, Ex. Ord. No. 13097, Aug. 7, 1998, 63 F.R. 43065.
+
 Israel-United States Binational Industrial Research and Development Foundation, Ex. Ord. No. 12956, Mar. 13, 1995, 60 F.R. 14199.
 
 Korean Peninsula Energy Development Organization, Ex. Ord. No. 12997, Apr. 1, 1996, 61 F.R. 14949.
@@ -212,5 +214,5 @@ Ex. Ord. No. 9721, May 10, 1946, 11 F.R. 5209, as amended by Ex. Ord. No. 10103,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1401; title 18 sections 831, 1116.
+This section is referred to in title 8 section 1401; title 15 sections 78dd–1, 78dd–2, 78dd–3; title 18 sections 831, 1116.
 

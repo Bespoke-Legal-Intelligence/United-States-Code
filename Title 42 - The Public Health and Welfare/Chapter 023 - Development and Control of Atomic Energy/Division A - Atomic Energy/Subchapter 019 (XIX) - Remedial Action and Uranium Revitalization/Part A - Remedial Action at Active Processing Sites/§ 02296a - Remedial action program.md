@@ -30,7 +30,7 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (C) To thorium licensees
 
-&emsp;&emsp;Payments made under paragraph (1) to the licensee of the active thorium site shall not exceed $65,000,000, and may only be made for off-site disposal.
+&emsp;&emsp;Payments made under paragraph (1) to the licensee of the active thorium site shall not exceed $140,000,000, and may only be made for off-site disposal.
 
 #### (D) Inflation escalation index
 
@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (i) Determination of excess
 
-&emsp;&emsp;&emsp;The Secretary shall determine as of July 31, 2005, whether the amount authorized to be appropriated pursuant to section 2296a–2 of this title, when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
+&emsp;&emsp;&emsp;The Secretary shall determine as of July 31, 2005, whether the amount authorized tobe appropriated pursuant to section 2296a–2 of this title, when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
 
 #### (ii) In the event of excess
 
@@ -50,13 +50,15 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 &emsp;Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992, byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
 
-(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173.)
+(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173; Pub. L. 105–388, §11(a), Nov. 13, 1998, 112 Stat. 3484.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (b)(2)(C). Pub. L. 105–388 substituted “$140,000,000” for “$65,000,000”.
 
 1996—Subsec. (b)(2)(A). Pub. L. 104–259, §3(a)(1), substituted “$6.25” for “$5.50”.
 

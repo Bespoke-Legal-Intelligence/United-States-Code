@@ -34,6 +34,10 @@ Programs that are most appropriately administered at the national level include�
 
 (Pub. L. 97–300, title IV, §451, Oct. 13, 1982, 96 Stat. 1381; Pub. L. 102–367, title IV, §403(a)(1), Sept. 7, 1992, 106 Stat. 1077.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Pub. L. 102–367 amended section generally, substituting provisions relating to national partnership and special training programs for provisions relating to administration of multistate job training programs at the national level.

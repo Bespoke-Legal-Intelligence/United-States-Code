@@ -48,19 +48,21 @@ The Secretary shall—
 
 #### (b) Authorization of appropriations
 
-For the purpose of carrying out this section and sections 300u–1 through 300u–4 of this title, there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1996.
+For the purpose of carrying out this section and sections 300u–1 through 300u–4 of this title, there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2002.
 
 #### (c) Application; submission and approval as prerequisite; form and content
 
 No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title XVII, §1701, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 695; amended July 10, 1979, Pub. L. 96–32, §7(n), 93 Stat. 85; Sept. 29, 1979, Pub. L. 96–76, title II, §209, 93 Stat. 584; Oct. 30, 1984, Pub. L. 98–551, §2(a), 98 Stat. 2815; Nov. 4, 1988, Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), 102 Stat. 3113, 3114; Nov. 26, 1991, Pub. L. 102–168, title I, §101, 105 Stat. 1102; Oct. 27, 1992, Pub. L. 102–531, title III, §311(b)(1), 106 Stat. 3503.)
+(July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
 
 #### Codification
 
 In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–392 substituted “2002” for “1996”.
 
 1992—Subsec. (a)(11)(C). Pub. L. 102–531 substituted “preventive health services (which may include information concerning models and standards for insurance coverage of such services),” for “preventive health services,”.
 

@@ -8,7 +8,7 @@
 
 (B) A purchaser holding more than twenty-seven million three hundred thousand board feet of net merchantable sawtimber as of January 1, 1982, in qualifying contracts as provided in subparagraph (A) shall be entitled to buy out up to 55 per centum of such timber volume up to a maximum of two hundred million board feet.
 
-(C) A purchaser holding twenty-seven million three hundred thousand or less board feet of net merchantable sawtimber as of January 1, 1982, inqualifying contracts as provided in subparagraph (A) shall be entitled to buy out up to fifteen million board feet of such timber volume or one contract, whichever is greater in volume.
+(C) A purchaser holding twenty-seven million three hundred thousand or less board feet of net merchantable sawtimber as of January 1, 1982, in qualifying contracts as provided in subparagraph (A) shall be entitled to buy out up to fifteen million board feet of such timber volume or one contract, whichever is greater in volume.
 
 (D) So long as the volume limitation of two hundred million board feet is not exceeded, the percentage limitation of subparagraph (B) or the volume limitation of subparagraph (C) may be exceeded by a volume amount not to exceed the volume of the smallest volume contract bought out by the purchaser if the purchaser could not otherwise attain his percentage or volume entitlement.
 
@@ -20,7 +20,7 @@
 
 &emsp;(ii) in excess of 50 per centum up to 100 per centum of the net book worth of the purchaser, the buy-out cost shall be 10 per centum of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out; or
 
-&emsp;(iii) up to 50 per centum or less of the net book worth of the purchaser, the buy-out cost shall be 15 per centum for the purchaser's first one hundred twenty-five million board feet, 20 per centum for additional board feet above one hundred twenty-five million up to one hundred fifty million, 25 per centum for additional board feet above one hundred fifty million up to one hundred seventy-five million, and 30 per centum for additional board feet above one hundred seventy-five million up to two hundred million, of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out.
+&emsp;(iii) up to 50 per centum or less of the net book worth of the purchaser, the buy-out costshall be 15 per centum for the purchaser's first one hundred twenty-five million board feet, 20 per centum for additional board feet above one hundred twenty-five million up to one hundred fifty million, 25 per centum for additional board feet above one hundred fifty million up to one hundred seventy-five million, and 30 per centum for additional board feet above one hundred seventy-five million up to two hundred million, of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out.
 
 (B) For purposes of this paragraph, the term “net book worth” does not include the value of any outstanding uncut Federal timber sales contracts.
 
@@ -42,7 +42,7 @@
 
 (B) Timber sales in Forest Service region 6 shall not exceed four billion three hundred million board feet of net merchantable sawtimber in fiscal year 1984.
 
-(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion twohundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
+(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
 
 (6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsection in the Federal Register within ninety days after October 16, 1984.
 

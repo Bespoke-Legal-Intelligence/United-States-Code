@@ -20,7 +20,7 @@ The Superintendent is authorized to—
 
 &emsp;(4) appoint faculty members and consultants without regard to the provisions of title 5, governing appointments in the competitive service, and, with respect to temporary and intermittent services, to make appointments to the same extent as is authorized by section 3109 of title 5;
 
-&emsp;(5) establish fees and other charges for attendance at, and subscription to, courses and programs offered by the Academy. Such fees may be modified or waived as determined by the Superintendent;
+&emsp;(5) establish fees and other charges for attendance at, and subscription to, courses andprograms offered by the Academy. Such fees may be modified or waived as determined by the Superintendent;
 
 &emsp;(6) conduct short courses, seminars, workshops, conferences, and similar education and training activities in all parts and localities of the United States;
 

@@ -12,7 +12,7 @@ The Commission is also authorized to distribute byproduct material to any person
 
 The Commission is authorized to license others to distribute byproduct material to any person outside the United States under the same conditions, except as to charges, as would be applicable if the material were distributed by the Commission.
 
-(Aug. 1, 1946, ch. 724, title I, §82, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 935; renumberedtitle I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §82, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 935; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Transfer of Functions
 

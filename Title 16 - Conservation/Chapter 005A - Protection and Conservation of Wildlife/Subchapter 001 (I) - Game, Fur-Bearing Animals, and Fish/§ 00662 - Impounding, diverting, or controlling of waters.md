@@ -22,7 +22,7 @@ In the case of construction by a Federal agency, that agency is authorized to tr
 
 #### (f) Estimation of wildlife benefits or losses
 
-In addition to other requirements, there shall be included in any report submitted to Congress supporting a recommendation for authorization of any new project for the control or use of water as described herein (including any new division of such project or new supplemental works on such project) an estimation of the wildlife benefits or losses to be derived therefrom including benefits to be derived from measures recommended specifically for the development and improvement of wildlife resources, the cost of providing wildlife benefits (including the cost of additional facilities to be installed or lands to be acquired specifically for that particular phase of wildlife conservation relating to the development and improvement of wildlife), the part of the cost of joint-use facilities allocated to wildlife, and the part of such costs, if any, to be reimbursed by non-Federal interests.
+In addition to other requirements, there shall be included in any report submitted to Congresssupporting a recommendation for authorization of any new project for the control or use of water as described herein (including any new division of such project or new supplemental works on such project) an estimation of the wildlife benefits or losses to be derived therefrom including benefits to be derived from measures recommended specifically for the development and improvement of wildlife resources, the cost of providing wildlife benefits (including the cost of additional facilities to be installed or lands to be acquired specifically for that particular phase of wildlife conservation relating to the development and improvement of wildlife), the part of the cost of joint-use facilities allocated to wildlife, and the part of such costs, if any, to be reimbursed by non-Federal interests.
 
 #### (g) Applicability to projects
 
@@ -32,7 +32,7 @@ The provisions of this section shall be applicable with respect to any project f
 
 The provisions of section 661 to 666c of this title shall not be applicable to those projects for the impoundment of water where the maximum surface area of such impoundments is less than ten acres, nor to activities for or in connection with programs primarily for land management and use carried out by Federal agencies with respect to Federal lands under their jurisdiction.
 
-(Mar. 10, 1934, ch. 55, §2, 48 Stat. 401; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Aug. 12, 1958, Pub. L. 85–624, §2, 72 Stat. 564; July 9, 1965, Pub. L. 89–72, §6(b), 79 Stat. 216.)
+(Mar. 10, 1934, ch. 55, §2, 48 Stat. 401; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Pub. L. 85–624, §2, Aug. 12, 1958, 72 Stat. 564; Pub. L. 89–72, §6(b), July 9, 1965, 79 Stat. 216.)
 
 #### References in Text
 

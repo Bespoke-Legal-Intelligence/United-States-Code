@@ -22,6 +22,10 @@ Jan. 3, 1975, Pub. L. 93–633, §102, 88 Stat. 2156.
 
 The words “It is declared to be the policy of Congress”, “the Nation”, and “which are” are omitted as surplus.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–178, title III, §3001, June 9, 1998, 112 Stat. 338, provided that: “This title \[amending sections 5302 to 5305, 5307 to 5315, 5317 to 5320, 5323, 5325 to 5328, and 5333 to 5338 of this title and enacting provisions set out as notes under sections 301, 5301, 5307 to 5310, 5323, 5336, and 5338 of this title and sections 138 and 322 of Title 23, Highways\] may be cited as the ‘Federal Transit Act of 1998’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–291, title II, §201, Oct. 11, 1996, 110 Stat. 3453, provided that: “This title \[enacting section 5908 of this title and amending sections 5901 to 5903 and 5905 to 5907 of this title\] may be cited as the ‘Intermodal Safe Container Transportation Amendments Act of 1996’.”

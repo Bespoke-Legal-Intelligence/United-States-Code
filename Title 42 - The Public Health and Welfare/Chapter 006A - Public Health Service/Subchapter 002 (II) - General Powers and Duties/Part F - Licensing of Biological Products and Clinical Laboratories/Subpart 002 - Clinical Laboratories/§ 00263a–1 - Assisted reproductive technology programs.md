@@ -42,7 +42,7 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 #### Effective Date
 
-Section 9 of Pub. L. 102–493 provided that: “This Act \[enacting this section, sections 263a–2 to 263a–7 of this title, and provisions set out as a note under section 201 of this title\] shall take effect upon the expiration of 2 years after the date of the enactment of this Act \[Oct. 24, 1992\].”
+Section 9 of Pub. L. 102–493 provided that: “This Act \[enacting this section, sections 263a–2 to 263a–7 of this title, and provisions set out as a note under section 201 of this title\] shall take effect upon the expiration of 2years after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Section Referred to in Other Sections
 

@@ -60,9 +60,19 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 &emsp;(C) determined by the Commissioner of Social Security, under regulations, to be otherwise unrecoverable under this section after such person ceases to be a beneficiary under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; July 30, 1965, Pub. L. 89–97, title III, §329, 79 Stat. 401; Jan. 2, 1968, Pub. L. 90–248, title I, §§152, 153(a), 154(a), 81 Stat. 860, 861; June 9, 1980, Pub. L. 96–265, title V, §501(b), 94 Stat. 470; Apr. 7, 1986, Pub. L. 99–272, title XII, §12113(a), 100 Stat. 288; Dec. 19, 1989, Pub. L. 101–239, title X, §10305(b), 103 Stat. 2483; Nov. 5, 1990, Pub. L. 101–508, title V, §5129(a), 104 Stat. 1388–287; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Oct. 22, 1994, Pub. L. 103–387, §5(a), 108 Stat. 4077; Apr. 26, 1996, Pub. L. 104–134, title III, §31001(z)(2)(A), 110 Stat. 1321–379; Oct. 19, 1996, Pub. L. 104–316, title I, §115(g)(2)(E), 110 Stat. 3835.)
+#### (g) Recovery of overpayment of supplemental security income benefits
+
+For payments which are adjusted or withheld to recover an overpayment of supplemental security income benefits paid under subchapter XVI of this chapter (including State supplementary payments paid under an agreement pursuant to section 1382e(a) of this title or section 212(b) of Public Law 93–66), see section 1320b–17 of this title.
+
+(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929.)
+
+#### References in Text
+
+Section 212(b) of Public Law 93–66, referred to in subsec. (g), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 156, as amended, which is set out as a note under section 1382 of this title.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–306 added subsec. (g).
 
 1996—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: “(f)(1) With respect to any deliquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.”, was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994.”
 
@@ -97,6 +107,10 @@ Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1),
 1950—Act Aug. 28, 1950, substituted “Administrator” for “board”.
 
 1939—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–306, §8(c), Oct. 28, 1998, 112 Stat. 2930, provided that: “The amendments made by this section \[enacting section 1320b–17 of this title and amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\] and shall apply to amounts incorrectly paid which remain outstanding on or after such date.”
 
 #### Effective Date of 1994 Amendments
 

@@ -108,7 +108,7 @@ In subsection (c), before clause (1), the words “Amtrak shall” are substitut
 
 #### References in Text
 
-The Amtrak Reform and Accountability Act of 1997, referred to in subsec. (d), is Pub. L. 105–134, Dec. 2, 1997, 111 Stat. 2570. For complete classification of this Act tothe Code, see Short Title of 1997 Amendment note set out under section 20101 of this title and Tables.
+The Amtrak Reform and Accountability Act of 1997, referred to in subsec. (d), is Pub. L. 105–134, Dec. 2, 1997, 111 Stat. 2570. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 20101 of this title and Tables.
 
 #### Amendments
 
@@ -352,7 +352,7 @@ Action Plan.—Within 90 days after the Council makes a finding under subsection
 
 “(a)
 
-In General.—If, within 90 days (not counting any day on which either House is not in session) aftera restructuring plan is submitted to the House of Representatives and the Senate by the Amtrak Reform Council under section 204 of this Act, an implementing Act with respect to a restructuring plan (without regard to whether it is the plan submitted) has not been passed by the Congress, then a liquidation disapproval resolution shall be introduced in the Senate by the Majority Leader of the Senate, for himself and the Minority Leader of the Senate, or by Members of the Senate designated by the Majority Leader and Minority Leader of the Senate. The liquidation disapproval resolution shall be held at the desk at the request of the Presiding Officer.
+In General.—If, within 90 days (not counting any day on which either House is not in session) after a restructuring plan is submitted to the House of Representatives and the Senate by the Amtrak Reform Council under section 204 of this Act, an implementing Act with respect to a restructuring plan (without regard to whether it is the plan submitted) has not been passed by the Congress, then a liquidation disapproval resolution shall be introduced in the Senate by the Majority Leader of the Senate, for himself and the Minority Leader of the Senate, or by Members of the Senate designated by the Majority Leader and Minority Leader of the Senate. The liquidation disapproval resolution shall be held at the desk at the request of the Presiding Officer.
 
 “(b)
 
@@ -388,7 +388,7 @@ Limit on consideration.—
 
 &emsp;“(7)
 
-Debate of amendments.—Debate on any amendment to a liquidation disapproval resolution shall be limited to one hour, equally divided and controlled by the Senator proposing the amendment and the majority manager, unless the majority manager is in favor of the amendment, in which case the minority manager shall be in control of the time in opposition.
+Debate of amendments.—Debate on any amendment to a liquidation disapproval resolution shall be limited to one hour, equally divided and controlled by the Senator proposing the amendment and the majority manager, unless the majority manageris in favor of the amendment, in which case the minority manager shall be in control of the time in opposition.
 
 &emsp;“(8)
 

@@ -14,6 +14,10 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 1966—Pub. L. 89–800 extended exemption from antitrust laws to include a joint agreement by which the member clubs of two or more professional football leagues combine their operations in an expanded single league.
 
+#### Short Title
+
+Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, as amended, which enacted this chapter, is popularly known as the Sports Broadcasting Act of 1961.
+
 #### Savings Provision
 
 Section 6 of Pub. L. 87–331 provided that: “Nothing in this Act \[this chapter\] shall affect any cause of action existing on the effective date hereof \[Sept. 30, 1961\] in respect to the organized professional team sports of baseball, football, basketball, or hockey.”

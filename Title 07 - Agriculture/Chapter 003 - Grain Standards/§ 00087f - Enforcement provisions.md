@@ -2,7 +2,7 @@
 
 #### (a) Subpena power
 
-For the purposes of this chapter, the Secretary shall at all reasonable times have access to, for the purpose of examination, and the right to copy any documentary evidence of any person with respect to whom such authority is exercised; and the Secretary shall have power to require by subpena the attendance and testimony of witnesses and the production of all such documentary evidence relating to any matter under investigation by the Secretary, and may administer oaths and affirmations, examine witnesses, and receive evidence.
+For the purposes of this chapter, the Secretary shall at all reasonable times have access to, for the purpose of examination, and the right to copy any documentary evidence of any personwith respect to whom such authority is exercised; and the Secretary shall have power to require by subpena the attendance and testimony of witnesses and the production of all such documentary evidence relating to any matter under investigation by the Secretary, and may administer oaths and affirmations, examine witnesses, and receive evidence.
 
 #### (b) Disobedience of subpena
 
@@ -14,7 +14,7 @@ Any such court within the jurisdiction of which such inquiry is carried on may, 
 
 #### (d) Fees and mileage costs of witnesses
 
-Witnesses summoned before the Secretary shall be paid the same fees and mileage that arepaid witnesses in the courts of the United States, and witnesses from whom depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
+Witnesses summoned before the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses from whom depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
 #### (e) Violation of subpena as misdemeanor
 
@@ -28,7 +28,7 @@ Any person who shall neglect or refuse to attend and testify, or to answer any l
 
 The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories and possessions of the United States shall have jurisdiction in cases arising under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. B, §17, as added Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 768; amended Oct. 15, 1970, Pub. L. 91–452, title II, §203, 84 Stat. 928; Oct. 21, 1976, Pub. L. 94–582, §19, 90 Stat. 2885; Nov. 24, 1993, Pub. L. 103–156, §§10, 12(<i>o</i>), 107 Stat. 1528, 1529; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §17, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 91–452, title II, §203, Oct. 15, 1970, 84 Stat. 928; Pub. L. 94–582, §19, Oct. 21, 1976, 90 Stat. 2885; Pub. L. 103–156, §§10, 12(<i>o</i>), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

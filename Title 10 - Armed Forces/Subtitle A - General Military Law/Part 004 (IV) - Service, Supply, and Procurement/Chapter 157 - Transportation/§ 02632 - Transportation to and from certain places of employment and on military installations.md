@@ -46,7 +46,7 @@
 
 (d) Fares received under subsection (a), and proceeds of the leasing or chartering of equipment under subsection (c)(3), shall be covered into the Treasury as miscellaneous receipts.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Sept. 11, 1978, Pub. L. 95–362, 92 Stat. 596; Nov. 26, 1979, Pub. L. 96–125, title VIII, §807(a)–(c)(1), 93 Stat. 949, 950; Dec. 4, 1987, Pub. L. 100–180, div. A, title III, §318(a)–(c), 101 Stat. 1076, 1077.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 95–362, Sept. 11, 1978, 92 Stat. 596; Pub. L. 96–125, title VIII, §807(a)–(c)(1), Nov. 26, 1979, 93 Stat. 949, 950; Pub. L. 100–180, div. A, title III, §318(a)–(c), Dec. 4, 1987, 101 Stat. 1076, 1077.)
 
 Historical and Revision Notes
 

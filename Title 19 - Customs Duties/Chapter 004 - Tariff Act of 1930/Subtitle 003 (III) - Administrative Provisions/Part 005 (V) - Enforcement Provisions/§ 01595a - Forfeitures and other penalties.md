@@ -38,7 +38,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;(3) If the importation or entry of the merchandise is subject to quantitative restrictions requiring a visa, permit, license, or other similar document, or stamp from the United States Government or from a foreign government or issuing authority pursuant to a bilateral or multilateral agreement, the merchandise shall be subject to detention in accordance with section 1499 of this title unless the appropriate visa, license, permit, or similar document or stamp is presented to the Customs Service; but if the visa, permit, license, or similar document or stamp which is presented in connection with the importation or entry of the merchandise is counterfeit, the merchandise may be seized and forfeited.
 
-&emsp;(4) If the merchandise is imported or introduced contrary to a provision of law which governs the classification or value of merchandise and there are no issues as to the admissibility of the merchandise into the United States, it shall not be seized except in accordance with section 1592 of this title.
+&emsp;(4) If the merchandise is imported or introduced contrary to a provision of law which governs the classification or value of merchandise and there are no issues as to the admissibility of the merchandise into the UnitedStates, it shall not be seized except in accordance with section 1592 of this title.
 
 &emsp;(5) In any case where the seizure and forfeiture of merchandise are required or authorized by this section, the Secretary may—
 
@@ -46,7 +46,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;&emsp;(B) permit the exportation of the merchandise, unless its release would adversely affect health, safety, or conservation or be in contravention of a bilateral or multilateral agreement or treaty.
 
-(June 17, 1930, ch. 497, title IV, §596, as added Sept. 1, 1954, ch. 1213, title V, §502, 68 Stat. 1140; amended Oct. 27, 1986, Pub. L. 99–570, title III, §3123, 100 Stat. 3207–87; Dec. 8, 1993, Pub. L. 103–182, title VI, §624, 107 Stat. 2187; Apr. 24, 1996, Pub. L. 104–132, title VI, §606, 110 Stat. 1290.)
+(June 17, 1930, ch. 497, title IV, §596, as added Sept. 1, 1954, ch. 1213, title V, §502, 68 Stat. 1140; amended Pub. L. 99–570, title III, §3123, Oct. 27, 1986, 100 Stat. 3207–87; Pub. L. 103–182, title VI, §624, Dec. 8, 1993, 107 Stat. 2187; Pub. L. 104–132, title VI, §606, Apr. 24, 1996, 110 Stat. 1290.)
 
 #### References in Text
 

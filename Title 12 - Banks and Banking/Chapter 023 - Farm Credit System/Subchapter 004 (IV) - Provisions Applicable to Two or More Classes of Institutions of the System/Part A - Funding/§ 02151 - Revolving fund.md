@@ -14,7 +14,7 @@ For explanation of the revolving fund established by this section (in effect imm
 
 “(a)
 
-Revolving Fund.—The revolving fund established by this section (in effect immediately before January 6, 1988) shall be available to the Farm CreditAdministration during the period, and for the purposes provided for, in sections 2278a–7(b) and 2278a–13 of this title.
+Revolving Fund.—The revolving fund established by this section (in effect immediately before January 6, 1988) shall be available to the Farm Credit Administration during the period, and for the purposes provided for, in sections 2278a–7(b) and 2278a–13 of this title.
 
 “(b)
 

@@ -6,5 +6,5 @@ Amounts may not be retained in a nonappropriated morale, welfare, and recreation
 
 #### Amendments
 
-1996—Pub. L. 104–106, in first sentence, substituted “an armed force” for “a military department”, in second sentence, substituted “a single, nonappropriated morale, welfare, and recreation account for that armed force” for “a single, department-wide nonappropriated morale, welfare, and recreation account of the military department”, and inserted after second sentence “This section does not apply to the Coast Guard.”
+1996—Pub. L. 104–106, in first sentence, substituted “an armed force” for “a military department”, in second sentence, substituted “a single, nonappropriated morale, welfare, and recreation account for that armed force” for “a single, department-wide nonappropriatedmorale, welfare, and recreation account of the military department”, and inserted after second sentence “This section does not apply to the Coast Guard.”
 

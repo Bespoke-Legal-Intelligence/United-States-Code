@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For each fiscal year, upon application of the Governor of a State, the Administrator may make a grant, subject to such terms and conditions as the Administrator considers appropriate, under this section to the State for thepurpose of assisting the State in the development and implementation of programs for the assessment and mitigation of radon.
+For each fiscal year, upon application of the Governor of a State, the Administrator may make a grant, subject to such terms and conditions as the Administrator considers appropriate, under this section to the State for the purpose of assisting the State in the development and implementation of programs for the assessment and mitigation of radon.
 
 #### (b) Application
 
@@ -72,7 +72,7 @@ States may, at the Governor's discretion, use funds from grants under this secti
 
 (2) Any State receiving funds under this section shall provide to the Administrator all radon-related information generated in its activities, including the results of radon surveys, mitigation demonstration projects, and risk communication studies.
 
-(3) Any State receiving funds under this section shall maintain, and make available to the public, a list of firms and individuals within the State that have received a passing rating under the Environmental Protection Agency proficiency rating program referred to in section 2665(a)(2) of this title. The list shall also include the address and phone number of such firms and individuals, together with the proficiency ratingreceived by each. The Administrator shall make such list available to the public at appropriate locations in each State which does not receive funds under this section unless the State assumes such responsibility.
+(3) Any State receiving funds under this section shall maintain, and make available to the public, a list of firms and individuals within the State that have received a passing rating under the Environmental Protection Agency proficiency rating program referred to in section 2665(a)(2) of this title. The list shall also include the address and phone number of such firms and individuals, together with the proficiency rating received by each. The Administrator shall make such list available to the public at appropriate locations in each State which does not receive funds under this section unless the State assumes such responsibility.
 
 #### (i) Limitations
 

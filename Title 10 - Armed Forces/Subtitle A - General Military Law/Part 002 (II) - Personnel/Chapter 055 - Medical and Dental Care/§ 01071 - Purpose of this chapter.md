@@ -46,6 +46,122 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
+#### Joint Department of Defense and Department of Veterans Affairs Reports Relating to Interdepartmental Cooperation in Delivery of Medical Care
+
+Pub. L. 105–261, div. A, title VII, §745, Oct. 17, 1998, 112 Stat. 2075, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The military health care system of the Department of Defense and the Veterans Health Administration of the Department of Veterans Affairs are national institutions that collectively manage more than 1,500 hospitals, clinics, and health care facilities worldwide to provide services to more than 11,000,000 beneficiaries.
+
+&emsp;“(2) In the post-Cold War era, these institutions are in a profound transition that involves challenging opportunities.
+
+&emsp;“(3) During the period from 1988 to 1998, the number of military medical personnel has declined by 15 percent and the number of military hospitals has been reduced by one-third.
+
+&emsp;“(4) During the 2 years since 1996, the Department of Veterans Affairs has revitalized its structure by decentralizing authority into 22 Veterans Integrated Service Networks.
+
+&emsp;“(5) In the face of increasing costs of medical care, increased demands for health care services, and increasing budgetary constraints, the Department of Defense and the Department of Veterans Affairs have embarked on a variety of dynamic and innovative cooperative programs ranging from shared services to joint venture operations of medical facilities.
+
+&emsp;“(6) In 1984, there was a combined total of 102 Department of Veterans Affairs and Department of Defense facilities with sharing agreements. By 1997, that number had grown to 420. During the six years from fiscal year 1992 through fiscal year 1997, shared services increased from slightly over 3,000 services to more than 6,000 services, ranging from major medical and surgical services, laundry, blood, and laboratory services to unusual speciality care services.
+
+&emsp;“(7) The Department of Defense and the Department of Veterans Affairs are conducting four health care joint ventures in New Mexico, Nevada, Texas, and Oklahoma, and are planning to conduct four more such ventures in Alaska, Florida, Hawaii, and California.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the Department of Defense and the Department of Veterans Affairs should be commended for the cooperation between the two departments in the delivery of medical care, of which the cooperation involved in the establishment and operation of the Department of Defense and the Department of Veterans Affairs Executive Council is a praiseworthy example;
+
+&emsp;“(2) the Department of Defense and the Department of Veterans Affairs are encouraged to continue to explore new opportunities to enhance the availability and delivery of medical care to beneficiaries by further enhancing the cooperative efforts of the departments; and
+
+&emsp;“(3) enhanced cooperation between the Department of Defense and the Department of Veterans Affairs is encouraged regarding—
+
+&emsp;&emsp;“(A) the general areas of access to quality medical care, identification and elimination of impediments to enhanced cooperation, and joint research and program development; and
+
+&emsp;&emsp;“(B) the specific areas in which there is significant potential to achieve progress in cooperation in a short term, including computerization of patient records systems, participation of the Department of Veterans Affairs in the TRICARE program, pharmaceutical programs, and joint physical examinations.
+
+“(c)
+
+Joint Survey of Populations Served.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly conduct a survey of their respective medical care beneficiary populations to identify, by category of beneficiary (defined as the Secretaries consider appropriate), the expectations of, requirements for, and behavior patterns of the beneficiaries with respect to medical care. The two Secretaries shall develop the protocol for the survey jointly, but shall obtain the services of an entity independent of the Department of Defense and the Department of Veterans Affairs to carry out the survey.
+
+“(2) The survey shall include the following:
+
+&emsp;“(A) Demographic characteristics, economic characteristics, and geographic location of beneficiary populations with regard to catchment or service areas.
+
+&emsp;“(B) The types and frequency of care required by veterans, retirees, and dependents within catchment or service areas of Department of Defense and Department of Veterans Affairs medical facilities and outside those areas.
+
+&emsp;“(C) The numbers of, characteristics of, and types of medical care needed by the veterans, retirees, and dependents who, though eligible for medical care in Department of Defense or Department of Veterans Affairs treatment facilities or through other federally funded medical programs, choose not to seek medical care from those facilities or under those programs, and the reasons for that choice.
+
+&emsp;“(D) The obstacles or disincentives for seeking medical care from such facilities or under such programs that are perceived by veterans, retirees, and dependents.
+
+&emsp;“(E) Any other matters that the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate for the survey.
+
+“(3) The Secretary of Defense or the Secretary of Veterans Affairs may waive the survey requirements under this subsection with respect to information that can be better obtained from a source other than the survey.
+
+“(4) The Secretary of Defense and the Secretary of Veterans Affairs shall submit a report on the results of the survey to the appropriate committees of Congress. The report shall contain the matters described in paragraph (2) and any proposals for legislation that the Secretaries recommend for enhancing Department of Defense and Department of Veterans Affairs cooperative efforts with respect to the delivery of medical care.
+
+“(d)
+
+Review of Law and Policies.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shalljointly conduct a review to identify impediments to cooperation between the Department of Defense and the Department of Veterans Affairs regarding the delivery of medical care. The matters reviewed shall include the following:
+
+&emsp;“(A) All laws, policies, and regulations, and any attitudes of beneficiaries of the health care systems of the two departments, that have the effect of preventing the establishment, or limiting the effectiveness, of cooperative health care programs of the departments.
+
+&emsp;“(B) The requirements and practices involved in the credentialling and licensure of health care providers.
+
+&emsp;“(C) The perceptions of beneficiaries in a variety of categories (defined as the Secretaries consider appropriate) regarding the various Federal health care systems available for their use.
+
+&emsp;“(D) The types and frequency of medical services furnished by the Department of Defense and the Department of Veterans Affairs through cooperative arrangements to each category of beneficiary (including active-duty members, retirees, dependents, veterans in the health-care eligibility categories referred to as Category A and Category C, and persons authorized to receive medical care under section 1713 of title 38, United States Code) of the other department.
+
+&emsp;“(E) The extent to which health care facilities of the Department of Defense and Department of Veterans Affairs have sufficient capacity, or could jointly or individually create sufficient capacity, to provide services to beneficiaries of the other department without diminution of access or services to their primary beneficiaries.
+
+&emsp;“(F) The extent to which the recruitment of scarce medical specialists and allied health personnel by the Department of Defense and the Department of Veterans Affairs could be enhanced through cooperative arrangements for providing health care services.
+
+&emsp;“(G) The obstacles and disincentives to providing health care services through cooperative arrangements between the Department of Defense and the Department of Veterans Affairs.
+
+“(2) The Secretaries shall jointly submit a report on the results of the review to the appropriate committees of Congress. The report shall include any proposals for legislation that the Secretaries recommend for eliminating or reducing impediments to interdepartmental cooperation that are identified during the review.
+
+“(e)
+
+Participation in TRICARE.—(1) The Secretary of Defense shall review the TRICARE program to identify opportunities for increased participation by the Department of Veterans Affairs in that program. The ongoing collaboration between Department of Defense officials and Department of Veterans Affairs officials regarding increased participation shall be included among the matters reviewed.
+
+“(2) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate committees of Congress a semiannual report on the status of the review under this subsection and on efforts to increase the participation of the Department of Veterans Affairs in the TRICARE program. No report is required under this paragraph after the submission of a semiannual report in which the Secretaries declare that the Department of Veterans Affairs is participating in the TRICARE program to the extent that can reasonably be expected to be attained.
+
+“(f)
+
+Pharmaceutical Benefits and Programs.—(1) The Department of Defense-Department of Veterans Affairs Federal Pharmacy Executive Steering Committee shall—
+
+&emsp;“(A) undertake a comprehensive examination of existing pharmaceutical benefits and programs for beneficiaries of Department of Defense medical care programs, including matters relating to the purchasing, distribution, and dispensing of pharmaceuticals and the management of mail order pharmaceuticals programs; and
+
+&emsp;“(B) review the existing methods for contracting for and distributing medical supplies and services.
+
+“(2) The committee shall submit a report on the results of the examination to the appropriate committees of Congress.
+
+“(g)
+
+Standardization of Physical Examinations for Disability.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate committees of Congress a report on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
+
+“(h)
+
+Appropriate Committees of Congress Defined.—For the purposes of this section, the appropriate committees of Congress are as follows:
+
+&emsp;“(1) The Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate.
+
+&emsp;“(2) The Committee on National Security \[now Committee on Armed Services\] and the Committee on Veterans’ Affairs of the House of Representatives.
+
+“(i)
+
+Deadlines for Submission of Reports.—(1) The report required by subsection (c)(3) \[probably should be (c)(4)\] shall be submitted not later than January 1, 2000.
+
+“(2) The report required by subsection (d)(2) shall be submitted not later than March 1, 1999.
+
+“(3) The semiannual report required by subsection (e)(2) shall be submitted not later than March 1 and September 1 of each year.
+
+“(4) The report on the examination required under subsection (f) shall be submitted not later than 60 days after the completion of the examination.
+
+“(5) The report required by subsection (g) shall be submitted not later than March 1, 1999.”
+
 #### External Peer Review for Defense Health Program Extramural Medical Research Involving Human Subjects
 
 Pub. L. 104–201, div. A, title VII, §742, Sept. 23, 1996, 110 Stat. 2600, provided that:
@@ -86,7 +202,7 @@ Pub. L. 102–484, div. A, title VII, §724, Oct. 23, 1992, 106 Stat. 2440, as a
 
 “(a)
 
-Survey Required.—The administering Secretaries shall conduct annually a formal survey of personsreceiving health care under chapter 55 of title 10, United States Code, in order to determine the following:
+Survey Required.—The administering Secretaries shall conduct annually a formal survey of persons receiving health care under chapter 55 of title 10, United States Code, in order to determine the following:
 
 &emsp;“(1) The availability of health care services to such persons through the health care system provided for under that chapter, the types of services received, and the facilities in which the services were provided.
 

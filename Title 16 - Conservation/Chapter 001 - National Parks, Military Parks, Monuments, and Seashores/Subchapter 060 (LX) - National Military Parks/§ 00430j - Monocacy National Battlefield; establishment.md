@@ -2,7 +2,7 @@
 
 That in order to commemorate the Battle of Monocacy, Maryland, and to preserve for historical purposes the breastworks, earthworks, walls, or other defenses or shelters used by the armies therein, the battlefield at Monocacy in the State of Maryland is hereby established as the Monocacy National Battlefield. The battlefield shall comprise the area within the boundary generally depicted on the map entitled “Monocacy National Battlefield,” numbered 894/40,001A, and dated April 1980, which shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior.
 
-(June 21, 1934, ch. 694, §1, 48 Stat. 1198; Oct. 21, 1976, Pub. L. 94–578, title III, §319(1), 90 Stat. 2738; Dec. 28, 1980, Pub. L. 96–607, title XIV, §140(a), 94 Stat. 3546.)
+(June 21, 1934, ch. 694, §1, 48 Stat. 1198; Pub. L. 94–578, title III, §319(1), Oct. 21, 1976, 90 Stat. 2738; Pub. L. 96–607, title XIV, §140(a), Dec. 28, 1980, 94 Stat. 3546.)
 
 #### Amendments
 

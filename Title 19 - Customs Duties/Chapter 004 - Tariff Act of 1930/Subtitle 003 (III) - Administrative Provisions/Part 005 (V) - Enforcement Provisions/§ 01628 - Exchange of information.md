@@ -26,7 +26,7 @@ The Secretary may authorize the Customs Service to exchange information with any
 
 &emsp;(2) obtains assurances from such country that the information will be held in confidence and used only for governmental purposes.
 
-(June 17, 1930, ch. 497, title IV, §628, as added Oct. 27, 1986, Pub. L. 99–570, title III, §3127, 100 Stat. 3207–89; amended Dec. 8, 1993, Pub. L. 103–182, title II, §209, 107 Stat. 2098.)
+(June 17, 1930, ch. 497, title IV, §628, as added Pub. L. 99–570, title III, §3127, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 103–182, title II, §209, Dec. 8, 1993, 107 Stat. 2098.)
 
 #### Amendments
 

@@ -80,7 +80,7 @@ This transfer will benefit both the Department of Justice and the Community Rela
 
 The Attorney General will benefit in his role as the President's adviser by obtaining an opportunity to anticipate and meet problems before the need for legal action arises.
 
-The Community Relations Service, brought into closer relationship with the Attorney General and the Civil Rights Division of the Department of Justice, will gain by becoming a primary resource in a coordinated effort in civil rights under the leadership of the AttorneyGeneral. The Community Relations Service will have direct access to the extensive information, experience, staff, and facilities within the Department and in other Federal agencies.
+The Community Relations Service, brought into closer relationship with the Attorney General and the Civil Rights Division of the Department of Justice, will gain by becoming a primary resource in a coordinated effort in civil rights under the leadership of the Attorney General. The Community Relations Service will have direct access to the extensive information, experience, staff, and facilities within the Department and in other Federal agencies.
 
 Finally, the responsibility for coordinating major Government activities under the Civil Rights Act aimed at voluntary and peaceful resolution of discriminatory practices will be centered in one department. Thus, the reorganization will permit the most efficient and effective utilization of resources in this field. Together the Service and the Department will have a larger capacity for accomplishment than they do apart.
 

@@ -2,7 +2,7 @@
 
 #### (a) Eligible national service programs
 
-The recipient of a grant under section 12571(a) of this title and each Federal agency receiving assistance under section 12571(b) of this title shall use the assistance, directly or through subgrants to other entities, to carry out full- or part-time national service programs, including summer programs, that address unmet human, educational, environmental, or public safety needs. Subject to subsection (b)(1) of this section, these national service programs may include the following types of national service programs:
+The recipient of a grant under section 12571(a) of this title and each Federal agency receivingassistance under section 12571(b) of this title shall use the assistance, directly or through subgrants to other entities, to carry out full- or part-time national service programs, including summer programs, that address unmet human, educational, environmental, or public safety needs. Subject to subsection (b)(1) of this section, these national service programs may include the following types of national service programs:
 
 &emsp;(1) A community corps program that meets unmet human, educational, environmental, or public safety needs and promotes greater community unity through the use of organized teams of participants of varied social and economic backgrounds, skill levels, physical and developmental capabilities, ages, ethnic backgrounds, or genders.
 
@@ -58,7 +58,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 &emsp;&emsp;(B) the need for community facilities in low-income areas.
 
-&emsp;(10) A national service entrepreneur program that identifies, recruits, and trains gifted young adults of all backgrounds and assists them in designing solutions to community problems.
+&emsp;(10) A national service entrepreneur program that identifies, recruits, and trains giftedyoung adults of all backgrounds and assists them in designing solutions to community problems.
 
 &emsp;(11) An intergenerational program that combines students, out-of-school youths, and older adults as participants to provide needed community services, including an intergenerational component for other national service programs described in this subsection.
 
@@ -150,5 +150,5 @@ A prior section 122 of Pub. L. 101–610 was renumbered section 199B, and is cla
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12511, 12571, 12573, 12576, 12582, 12585, 12591, 12594, 12602, 12638, 12651d of this title; title 20 section 1137a.
+This section is referred to in sections 12511, 12571, 12573, 12576, 12582, 12585, 12591, 12594, 12602, 12638, 12651d of this title.
 

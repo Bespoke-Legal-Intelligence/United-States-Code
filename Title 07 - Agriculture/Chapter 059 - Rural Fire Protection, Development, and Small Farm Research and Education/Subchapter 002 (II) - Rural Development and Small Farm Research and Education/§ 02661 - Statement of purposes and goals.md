@@ -252,7 +252,7 @@ Travel and Other Expenses.—Each member of the Commission shall be allowed trav
 
 “(a)
 
-Experts and Consultants.—The Commission may obtain the services of experts and consultants in accordance with section 3109 of title 5, United States Code.
+Experts and Consultants.—The Commission may obtain the services of experts and consultants inaccordance with section 3109 of title 5, United States Code.
 
 “(b)
 
@@ -272,7 +272,7 @@ Hearings.—The Commission or, on the authorization of the Commission, a member 
 
 “(f)
 
-Information.—The Commission may acquire directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality, information, suggestions, estimates, and statistics for the purpose of this Act. Eachdepartment, bureau, agency, board, commission, office, establishment, or instrumentality shall provide, to the extent permitted by law, the information, suggestions, estimates, and statistics directly to the Commission, upon request by the chairperson.
+Information.—The Commission may acquire directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality, information, suggestions, estimates, and statistics for the purpose of this Act. Each department, bureau, agency, board, commission, office, establishment, or instrumentality shall provide, to the extent permitted by law, the information, suggestions, estimates, and statistics directly to the Commission, upon request by the chairperson.
 
 “(g)
 

@@ -6,7 +6,7 @@
 
 (B) After consultation and in cooperation with the State bank supervisory authorities, the Board may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.
 
-(2) A branch or agency shall be subject to this subsection only if (A) its parent foreign bank has total worldwide consolidated bank assets in excess of $1,000,000,000; (B) its parent foreign bank is controlled by a foreign company which owns or controls foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000; or (C) its parentforeign bank is controlled by a group of foreign companies that own or control foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000.
+(2) A branch or agency shall be subject to this subsection only if (A) its parent foreign bank has total worldwide consolidated bank assets in excess of $1,000,000,000; (B) its parent foreign bank is controlled by a foreign company which owns or controls foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000; or (C) its parent foreign bank is controlled by a group of foreign companies that own or control foreign banks that in the aggregate have total worldwide consolidated bank assets in excess of $1,000,000,000.
 
 #### (b) Omitted
 
@@ -82,7 +82,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Board is unable to find, under paragraph (2), that a foreign bank is subject tocomprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country, the Board may nevertheless approve an application by such foreign bank under paragraph (1) if—
+&emsp;&emsp;If the Board is unable to find, under paragraph (2), that a foreign bank is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in its home country, the Board may nevertheless approve an application by such foreign bank under paragraph (1) if—
 
 &emsp;&emsp;&emsp;(i) the appropriate authorities in the home country of the foreign bank are actively working to establish arrangements for the consolidated supervision of such bank; and
 
@@ -140,7 +140,7 @@
 
 #### (4) Compliance with State and Federal law
 
-&emsp;Any foreign bank required to terminate activities conducted at offices or subsidiaries in the United States pursuant to this subsectionshall comply with the requirements of applicable Federal and State law with respect to procedures for the closure or dissolution of such offices or subsidiaries.
+&emsp;Any foreign bank required to terminate activities conducted at offices or subsidiaries in the United States pursuant to this subsection shall comply with the requirements of applicable Federal and State law with respect to procedures for the closure or dissolution of such offices or subsidiaries.
 
 #### (5) Recommendation to agency for termination of a Federal branch or agency
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;(C) against which the Comptroller of the Currency has issued an order under section 3102(i) of this title,
 
-> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company that has been required by such order to terminate its activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
+> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company that has been required by such order to terminateits activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
 
 #### (2) Scope of judicial review
 
@@ -262,7 +262,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 #### References in Text
 
-Section 371b–1 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, subject to a savings provision.
+Section 371b–1 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 96–221, title V, §529,Mar. 31, 1980, 94 Stat. 168, subject to a savings provision.
 
 Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(1)(A), was in the original “section 19 of the Federal Reserve Act.” Provisions of section 19 relating to minimum and maximum reserve ratios are classified to the cited sections. For complete classification of section 19 to the Code, see References in Text note set out under section 461 of this title.
 

@@ -10,7 +10,7 @@ The guidelines established under subsection (a) of this section shall provide fo
 
 #### (c) Crediting of non-Federal share
 
-The guidelines established under subsection (a) of this section shall provide for crediting the cost of work carried out by the non-Federal interests against the non-Federal share of the cost of an authorized project for flood control as follows:
+The guidelines established under subsection (a) of this section shall provide for crediting thecost of work carried out by the non-Federal interests against the non-Federal share of the cost of an authorized project for flood control as follows:
 
 &emsp;(1) Work which is carried out after the end of the reconnaissance study and before the submission to Congress of the final report of the Chief of Engineers on the project and which is determined by the Secretary to be compatible with the project shall be included as part of the project and shall be recommended by the Secretary in the final report for credit against the non-Federal share of the cost of the project.
 

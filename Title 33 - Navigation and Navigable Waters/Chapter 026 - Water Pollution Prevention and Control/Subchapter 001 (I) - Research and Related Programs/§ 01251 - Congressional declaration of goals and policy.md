@@ -20,7 +20,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 #### (b) Congressional recognition, preservation, and protection of primary responsibilities and rights of States
 
-It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapterand implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
+It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
@@ -78,7 +78,7 @@ Section 1(a) of Pub. L. 100–4 provided that: “This Act \[enacting sections 1
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313aof this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
+Pub. L. 97–117, §1, Dec. 29, 1981, 95 Stat. 1623, provided that: “This Act \[enacting sections 1298, 1299, and 1313a of this title, amending sections 1281 to 1285, 1287, 1291, 1292, 1296, 1311, and 1314 of this title, and enacting provisions set out as notes under sections 1311 and 1375 of this title\] may be cited as the ‘Municipal Wastewater Treatment Construction Grant Amendments of 1981’.”
 
 #### Short Title of 1977 Amendment
 
@@ -106,7 +106,7 @@ Section 512 of act June 30, 1948, ch. 758, title V, as added Oct. 18, 1972, Pub.
 
 #### National Shellfish Indicator Program
 
-Pub. L. 102–567, title III, §308, Oct. 29, 1992, 106 Stat. 4286, provided that:
+Pub. L. 102–567, title III, §308, Oct. 29, 1992, 106 Stat. 4286; as amended by Pub. L. 105–362, title II, §201(b), Nov. 10, 1998, 112 Stat. 3282, provided that:
 
 “(a)
 
@@ -144,7 +144,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 &emsp;“(A) three members representing agencies having authority under State law to regulate the shellfish industry, of whom one shall represent each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions;
 
-&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, andGulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
+&emsp;“(B) three members representing persons engaged in the shellfish industry in the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions (who shall be appointed from among at least six recommendations by the industry members of the Interstate Shellfish Sanitation Conference Executive Board), of whom one shall represent the shellfish industry in each region;
 
 &emsp;“(C) three members, of whom one shall represent each of the following Federal agencies: the National Oceanic and Atmospheric Administration, the Environmental Protection Agency, and the Food and Drug Administration; and
 
@@ -174,15 +174,11 @@ Contract With Consortium.—Within 30 days after the date of enactment of this A
 
 “(d)
 
-Reporting Requirements.—Within 3 months after the date of enactment of this Act \[Oct. 29, 1992\] and within each of the next three consecutive 3-month intervals, the Secretary of Commerce shall provide Congress with written assessments of Federal efforts to implement this section. In addition, the Secretary of Commerce shall submit an annual report to Congress on the Program, including a description of the research funded under the Program and the results of such research.
-
-“(e)
-
 Authorization of Appropriations.—(1) Of the sums authorized under section 4(a) of the National Oceanic and Atmospheric Administration Marine Fisheries Program Authorization Act (Public Law 98–210; 97 Stat. 1409), there are authorized to be appropriated to the Secretary of Commerce $5,200,000 for each of the fiscal years 1993 through 1997 for carrying out the Program. Of the amounts appropriated pursuant to this authorization, not more than 5 percent of such appropriation may be used for administrative purposes by the National Oceanic and Atmospheric Administration. The remaining 95 percent of such appropriation shall be used to meet the administrative and scientific objectives of the Program.
 
 “(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized under this section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program.
 
-“(f)
+“(e)
 
 Definitions.—As used in this section, the term—
 
@@ -216,7 +212,7 @@ Section 6 of Pub. L. 92–500 provided that:
 
 &emsp;“(2) the probable extent to which pollution abatement and control programs will be implemented in foreign industrial nations in the near future and the extent to which the production costs (computed to the greatest extent practicable on an industry-by-industry basis) of foreign manufacturers will be affected by the costs of such programs;
 
-&emsp;“(3) the probable competitive advantage which any article manufactured in a foreign nation will likelyhave in relation to a comparable article made in the United States if that foreign nation—
+&emsp;“(3) the probable competitive advantage which any article manufactured in a foreign nation will likely have in relation to a comparable article made in the United States if that foreign nation—
 
 &emsp;&emsp;“(A) does not require its manufacturers to implement pollution abatement and control programs.
 

@@ -1,0 +1,24 @@
+### §21001. Definition
+
+For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
+
+(Added Pub. L. 105–354, §1(5)(A), Nov. 3, 1998, 112 Stat. 3242.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+21001
+
+36 App.:5915.
+
+Aug. 13, 1998, Pub. L. 105–231, §16, 112 Stat. 1532.
+
+The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands” are omitted as included in “the territories and possessions of the United States”.
+

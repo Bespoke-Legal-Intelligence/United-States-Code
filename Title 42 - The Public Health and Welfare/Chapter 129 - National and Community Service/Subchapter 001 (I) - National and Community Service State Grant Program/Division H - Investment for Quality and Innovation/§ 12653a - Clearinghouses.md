@@ -36,7 +36,7 @@ An entity that receives assistance under subsection (a) of this section may—
 
 #### Prior Provisions
 
-A prior section 12653a, Pub. L. 101–610, title I, §195A, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523, which provided for establishment of Civilian Community Corps Demonstration Program,was renumbered section 152 of Pub. L. 101–610 by Pub. L. 103–82, §104(b), and transferred to section 12612 of this title.
+A prior section 12653a, Pub. L. 101–610, title I, §195A, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523, which provided for establishment of Civilian Community Corps Demonstration Program, was renumbered section 152 of Pub. L. 101–610 by Pub. L. 103–82, §104(b), and transferred to section 12612 of this title.
 
 #### Section Referred to in Other Sections
 

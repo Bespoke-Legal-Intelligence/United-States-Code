@@ -40,7 +40,7 @@ In the case of any State to which the criterion described in subsection (c) of t
 
 With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in subsection (a) of this section, the State shall continue to be eligible to receive Federal funds under a grant under section 300ff–41 of this title, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
 
-(July 1, 1944, ch. 373, title XXVI, §2643, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 600; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(32), 106 Stat. 3506.)
+(July 1, 1944, ch. 373, title XXVI, §2643, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 600; amended Pub. L. 102–531, title III, §312(d)(32), Oct. 27, 1992, 106 Stat. 3506.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 In addition to other methods of recovery provided by law, the Secretary concerned may authorize the recovery, by deduction from later payments to a person, of any amount erroneously paid to him under this subchapter. However, recovery is not required if, in the judgment of the Secretary concerned, there has been no fault by the person to whom the amount was erroneously paid and recovery would be contrary to the purposes of this subchapter or against equity and good conscience.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 111; Sept. 21, 1972, Pub. L. 92–425, §1(2)(A), 86 Stat. 706; Oct. 19, 1996, Pub. L. 104–316, title I, §105(a), 110 Stat. 3830.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 111; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706; Pub. L. 104–316, title I, §105(a), Oct. 19, 1996, 110 Stat. 3830.)
 
 Historical and Revision Notes
 

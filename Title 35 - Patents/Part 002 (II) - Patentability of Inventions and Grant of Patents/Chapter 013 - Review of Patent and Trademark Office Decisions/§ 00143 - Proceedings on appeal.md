@@ -12,7 +12,7 @@ Language is changed. The requirement that the Commissioner notify the parties is
 
 #### Amendments
 
-1984—Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the court a certifiedlist of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in section 142 of this title, for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
+1984—Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the court a certified list of the documents comprising the record in the Patent and Trademark Office, with respect to an appeal described in section 142 of this title, for provision which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant and the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
 1982—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
 

@@ -8,7 +8,7 @@ Nothing in this chapter shall be construed as superseding, amending, modifying, 
 
 &emsp;(2) The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742) \[30 U.S.C. 801 et seq.\].
 
-&emsp;(3) The Federal Water Pollution Control Act (79 Stat. 903), as amended \[33 U.S.C. 1251 etseq.\], the State laws enacted pursuant thereto, or other Federal laws relating to preservation of water quality.
+&emsp;(3) The Federal Water Pollution Control Act (79 Stat. 903), as amended \[33 U.S.C. 1251 et seq.\], the State laws enacted pursuant thereto, or other Federal laws relating to preservation of water quality.
 
 &emsp;(4) The Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\].
 

@@ -10,7 +10,7 @@ The existing contractual obligations, security instruments, and title instrument
 
 #### (c) Adjustment of assessments
 
-Not later than 15 days after the issuance of the charter of the Assistance Board, the Board shall retire all debt and equity obligations issued to any System institution under section 2216f(a)(14) or 2216g <sup>1</sup> of this title (as in effect immediatelybefore January 6, 1988) at the book value of such obligations (determined as of January 6, 1988) and shall pay such amounts to the holders of such debt and equity obligations.
+Not later than 15 days after the issuance of the charter of the Assistance Board, the Board shall retire all debt and equity obligations issued to any System institution under section 2216f(a)(14) or 2216g <sup>1</sup> of this title (as in effect immediately before January 6, 1988) at the book value of such obligations (determined as of January 6, 1988) and shall pay such amounts to the holders of such debt and equity obligations.
 
 #### (d) Surplus funds
 
@@ -68,7 +68,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (iii) Banks undergoing liquidation
 
-&emsp;&emsp;&emsp;With respect to any bank undergoing liquidation under this chapter, a liability tothe Financial Assistance Corporation in the amount of the payment required under this subparagraph (calculated as if the bank had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of the bank.
+&emsp;&emsp;&emsp;With respect to any bank undergoing liquidation under this chapter, a liability to the Financial Assistance Corporation in the amount of the payment required under this subparagraph (calculated as if the bank had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of the bank.
 
 #### (iv) Obligations of other banks
 
@@ -98,7 +98,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (5) Suspension of preservation agreements
 
-&emsp;During the 5-year period beginning on January 6, 1988, and thereafter whenever funds from the Farm Credit System Insurance Fund are available for use in assisting System institutions to meet their obligations on their debt instruments, activation of the Thirty-Seven Banks Capital Preservation Agreement, the Federal Land Banks Capital Preservation Agreement, the Federal Intermediate Credit Banks Capital Preservation Agreement, and the Banks for Cooperatives Loss Sharing Agreement shall be suspended, in exchange for the benefits flowing to the signatories to such agreements under the Agricultural Credit Act of 1987.
+&emsp;During the 5-year period beginning on January 6, 1988, and thereafter whenever funds from the Farm Credit System Insurance Fund are available for use in assisting System institutions to meet their obligations on their debtinstruments, activation of the Thirty-Seven Banks Capital Preservation Agreement, the Federal Land Banks Capital Preservation Agreement, the Federal Intermediate Credit Banks Capital Preservation Agreement, and the Banks for Cooperatives Loss Sharing Agreement shall be suspended, in exchange for the benefits flowing to the signatories to such agreements under the Agricultural Credit Act of 1987.
 
 (Pub. L. 92–181, title VI, §6.9, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1591; amended Pub. L. 100–399, title II, §201(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 991; Pub. L. 102–552, title III, §301, Oct. 28, 1992, 106 Stat. 4107.)
 

@@ -10,5 +10,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 215, 217 of this title.
+This section is referred to in sections 215, 217, 218a of this title.
 

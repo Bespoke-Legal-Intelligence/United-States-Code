@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;&emsp;Short life cycle merchandise of a manufacturer shall not be treated as being the subject of an affirmative dumping determination if—
 
-&emsp;&emsp;&emsp;(i) such merchandise of the manufacturer is part of a group of merchandise to which the administering authority assigns\(in lieu of making separate determinations described in subparagraph (A)(i)(I)) an amount determined to be the amount by which the normal value of the merchandise in such group exceeds the export price (or the constructed export price) of the merchandise in such group, and
+&emsp;&emsp;&emsp;(i) such merchandise of the manufacturer is part of a group of merchandise to which the administering authority assigns (in lieu of making separate determinations described in subparagraph (A)(i)(I)) an amount determined to be the amount by which the normal value of the merchandise in such group exceeds the export price (or the constructed export price) of the merchandise in such group, and
 
 &emsp;&emsp;&emsp;(ii) the merchandise and the manufacturer are not specified by name in the affirmative dumping determination or in any antidumping duty order issued as a result of such affirmative dumping determination.
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 > may be taken into account under this section or section 1673b(b)(1)(B) and (C) of this title.
 
-(June 17, 1930, ch. 497, title VII, §739, as added Aug. 23, 1988, Pub. L. 100–418, title I, §1323(a), 102 Stat. 1195; amended Aug. 20, 1990, Pub. L. 101–382, title I, §139(a)(2), 104 Stat. 653; Dec. 8, 1994, Pub. L. 103–465, title II, §233(a)(1)(D), (2)(A)(v), 108 Stat. 4898.)
+(June 17, 1930, ch. 497, title VII, §739, as added Pub. L. 100–418, title I, §1323(a), Aug. 23, 1988, 102 Stat. 1195; amended Pub. L. 101–382, title I, §139(a)(2), Aug. 20, 1990, 104 Stat. 653; Pub. L. 103–465, title II, §233(a)(1)(D), (2)(A)(v), Dec. 8, 1994, 108 Stat. 4898.)
 
 #### References in Text
 

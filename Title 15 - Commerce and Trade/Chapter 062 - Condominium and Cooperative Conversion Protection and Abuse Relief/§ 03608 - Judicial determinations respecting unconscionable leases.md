@@ -28,7 +28,7 @@ A rebuttal presumption of unconscionability exists if it is established that, in
 
 &emsp;(3) contains an automatic rent increase clause without establishing a specific maximum lease payment; and
 
-&emsp;(4) requires an annual rental which exceeds 25 per centum of the appraised value of the leased property as improved: <i>Provided</i>, That, for purposes of this paragraph “annual rental” means the amount due during the first twelve months of the lease for all units, regardless of whether such units were occupied or sold during that period, and “appraised value” means the appraised value placed upon the leased property the first tax year after the sale of a unit in the condominium or after the sale of a membership or share interest in the cooperative association to a party who is not an affiliate of the developer.
+&emsp;(4) requires an annual rental which exceeds 25 per centum of the appraised value of the leased property as improved: <i>Provided</i>, That, for purposes of this paragraph “annual rental” means the amount due during the first twelve months of the lease for all units, regardless of whether such units were occupied or sold during that period, and “appraised value” meansthe appraised value placed upon the leased property the first tax year after the sale of a unit in the condominium or after the sale of a membership or share interest in the cooperative association to a party who is not an affiliate of the developer.
 
 > Once the rebuttable presumption is established, the court, in making its finding, shall consider the lease or portion of the lease to be unconscionable unless proven otherwise by the preponderance of the evidence to the contrary.
 

@@ -38,5 +38,5 @@ A prior section 1070d–33, Pub. L. 89–329, title IV, §419C, as added Pub. L.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective on and after Dec. 20, 1993, see section 5(b)(2) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective on and after Dec. 20, 1993, see section 5(b)(2) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 

@@ -12,7 +12,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 &emsp;(5) foster and encourage the development of private enterprise and democratic participation in developing countries.
 
-(July 10, 1954, ch. 469, §2, 68 Stat. 454; Nov. 11, 1966, Pub. L. 89–808, §2(A), 80 Stat. 1526; Dec. 20, 1975, Pub. L. 94–161, title II, §201, 89 Stat. 850; Dec. 23, 1985, Pub. L. 99–198, title XI, §1111(a), 99 Stat. 1474; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633.)
+(July 10, 1954, ch. 469, §2, 68 Stat. 454; Pub. L. 89–808, §2(A), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 94–161, title II, §201, Dec. 20, 1975, 89 Stat. 850; Pub. L. 99–198, title XI, §1111(a), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633.)
 
 #### Amendments
 
@@ -32,6 +32,12 @@ Section 1513 of Pub. L. 101–624 provided that: “The amendment made by sectio
 
 Section 5 of Pub. L. 89–808 provided that: “This Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] shall take effect as of January 1, 1967, except that section 4 \[enacting section 1707a of this title\] shall take effect upon enactment \[Nov. 11, 1966\].”
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
+
+Pub. L. 105–385, title II, §211, Nov. 13, 1998, 112 Stat. 3465, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Bill Emerson Humanitarian Trust Act of 1998’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–532, §1, Oct. 27, 1992, 106 Stat. 3509, provided that: “This Act \[enacting sections 1738<i>o</i> to 1738r, 3294, and 5404 of this title and amending section 1738m of this title\] may be cited as the ‘Enterprise for the Americas Initiative Act of 1992’.”
@@ -50,11 +56,15 @@ Pub. L. 100–576, §1, Oct. 31, 1988, 102 Stat. 2897, provided that: “This Ac
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 100–202, §16, as added by Pub. L. 100–418, title IV, §4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “AgriculturalAid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, §271(a), Apr. 4, 1996, 110 Stat. 976.
+
+#### Short Title of 1980 Amendment
+
+For short title of title III of Pub. L. 96–494, which enacted section 1736f–1 of this title, as the “Bill Emerson Humanitarian Trust Act”, see section 301 of Pub. L. 96–494, as added and amended, set out as a Short Title note under section 1736f–1 of this title.
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–808 provided: “That this Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, andamending provisions set out as a note under section 1701 of this title\] may be cited as the ‘Food for Peace Act of 1966’.”
+Section 1 of Pub. L. 89–808 provided: “That this Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] may be cited as the ‘Food for Peace Act of 1966’.”
 
 #### Short Title
 
@@ -114,7 +124,7 @@ Ex. Ord. No. 11252, Oct. 20, 1965, 30 F.R. 13507, as amended by Ex. Ord. No. 125
 
 #### Executive Order No. 12220
 
-Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation of administrative functions relating to agricultural trade development, was revoked by section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out below.
+Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44245, which provided for delegation of administrative functions relating to agricultural trade development, was revokedby section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out below.
 
 #### Ex. Ord. No. 12752. Implementation of Agricultural Trade Development and Assistance Act of 1954, as Amended, and Food for Progress Act of 1985, as Amended
 

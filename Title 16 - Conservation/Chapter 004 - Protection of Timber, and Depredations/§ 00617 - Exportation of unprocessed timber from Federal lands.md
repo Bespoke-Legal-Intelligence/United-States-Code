@@ -6,7 +6,7 @@ For each of the calendar years 1969 through 1973, inclusive, not more than 350 m
 
 #### (b) Surplus quantities and species available for export; public hearing; administrative finding
 
-After public hearing and a finding by the appropriate Secretary of the department administering Federal lands referred to in subsection (a) of this section that specific quantities and species of unprocessed timber are surplus to the needs of domestic users and processors, such quantities and species may be designated by the said Secretary as available for export from the United States in addition to that quantity stated in subsection (a) of this section.
+After public hearing and a finding by the appropriate Secretary of the department administering Federal lands referred to in subsection (a) of this section that specific quantities andspecies of unprocessed timber are surplus to the needs of domestic users and processors, such quantities and species may be designated by the said Secretary as available for export from the United States in addition to that quantity stated in subsection (a) of this section.
 
 #### (c) Rules and regulations; prevention of substitution of Federal for non-Federal timber
 
@@ -16,7 +16,7 @@ The Secretaries of the departments administering lands referred to in subsection
 
 In issuing rules and regulations pursuant to subsection (c) of this section, the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
 
-(Apr. 12, 1926, ch. 117, §2, as added Oct. 8, 1968, Pub. L. 90–554, pt. IV, §401, 82 Stat. 966; amended Dec. 31, 1970, Pub. L. 91–609, title IX, §921, 84 Stat. 1817.)
+(Apr. 12, 1926, ch. 117, §2, as added Pub. L. 90–554, pt. IV, §401, Oct. 8, 1968, 82 Stat. 966; amended Pub. L. 91–609, title IX, §921, Dec. 31, 1970, 84 Stat. 1817.)
 
 #### Amendments
 

@@ -48,7 +48,7 @@ The criteria referred to in subsection (b)(2) of this section regarding communit
 
 &emsp;(3) The mental health services of the centers are available and accessible promptly, as appropriate and in a manner which preserves human dignity and assures continuity and high quality care.
 
-(July 1, 1944, ch. 373, title XIX, §1913, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 381.)
+(July 1, 1944, ch. 373, title XIX, §1913, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 381.)
 
 #### Prior Provisions
 

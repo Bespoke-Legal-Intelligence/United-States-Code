@@ -34,7 +34,7 @@
 
 #### Amendments
 
-1990—Subsec. (c). Pub. L. 101–510, §521(b)(1)(A), inserted at end “The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.”
+1990—Subsec. (c). Pub. L. 101–510, §521(b)(1)(A), inserted at end “The period of the continuation on activeduty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.”
 
 Subsecs. (d), (e). Pub. L. 101–510, §521(b)(1)(B), (C), added subsec. (d) and redesignated former subsec. (d) as (e).
 

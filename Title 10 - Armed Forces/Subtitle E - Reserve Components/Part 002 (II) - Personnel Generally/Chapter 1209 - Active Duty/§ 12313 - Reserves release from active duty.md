@@ -12,7 +12,7 @@
 
 > This subsection does not apply to an armed force during a period of demobilization or reduction in strength of that armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 31, §681; renumbered §12313, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), 108 Stat. 2992.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 31, §681; renumbered §12313, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992.)
 
 Historical and Revision Notes
 

@@ -10,7 +10,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under subchapter XX of this chapter will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
-&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under under <sup>1</sup> the State plan approved under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
+&emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under subchapter XX of this chapter, under the State program funded under part A of this subchapter, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>1</sup> under part E of this subchapter, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
 &emsp;(3) provide that the standards and requirements imposed with respect to child day care under subchapter XX of this chapter shall apply with respect to day care services under this subpart, except insofar as eligibility for such services is involved;
 
@@ -66,7 +66,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(12) contain assurances that the State shall develop plans for the effective use of cross-jurisdictional resources to facilitate timely adoptive or permanent placements for waiting children.
 
-(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), (d), 81 Stat. 912, 915; Jan. 4, 1975, Pub. L. 93–647, §3(a)(6), (7), (h), 88 Stat. 2348, 2349; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 517; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(b)(1), 103 Stat. 2488; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(1), 107 Stat. 655; Oct. 20, 1994, Pub. L. 103–382, title V, §554, 108 Stat. 4057; Oct. 31, 1994, Pub. L. 103–432, title II, §§202(a), 204(a), 108 Stat. 4453, 4456; Aug. 22, 1996, Pub. L. 104–193, title I, §108(b), 110 Stat. 2165; Aug. 5, 1997, Pub. L. 105–33, title V, §5592(a)(1)(A), (2), 111 Stat. 644; Nov. 19, 1997, Pub. L. 105–89, title I, §102(1), title II, §202(a), 111 Stat. 2117, 2125.)
+(Aug. 14, 1935, ch. 531, title IV, §422, as added and amended Pub. L. 90–248, title II, §240(c), (d), Jan. 2, 1968, 81 Stat. 912, 915; Pub. L. 93–647, §3(a)(6), (7), (h), Jan. 4, 1975, 88 Stat. 2348, 2349; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 517; Pub. L. 101–239, title X, §10403(b)(1), Dec. 19, 1989, 103 Stat. 2488; Pub. L. 103–66, title XIII, §13711(b)(1), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–382, title V, §554, 108 Stat. 4057; Pub. L. 103–432, title II, §§202(a), 204(a), Oct. 31, 1994, 108 Stat. 4453, 4456; Pub. L. 104–193, title I, §108(b), Aug. 22, 1996, 110 Stat. 2165; Pub. L. 105–33, title V, §5592(a)(1)(A), (2), Aug. 5, 1997, 111 Stat. 644; Pub. L. 105–89, title I, §102(1), title II, §202(a), Nov. 19, 1997, 111 Stat. 2117, 2125; Pub. L. 105–200, title IV, §410(b), July 16, 1998, 112 Stat. 673.)
 
 #### References in Text
 
@@ -77,6 +77,8 @@ Parts A and E of this subchapter, referred to in subsec. (b)(2), are classified 
 The Indian Child Welfare Act, referred to in subsec. (b)(10), probably means the Indian Child Welfare Act of 1978, Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–200 struck out “under” before “the State plan approved under part E of this subchapter”.
 
 1997—Subsec. (b)(9). Pub. L. 105–33, §5592(a)(2), made technical amendment to directory language of Pub. L. 103–432, §204(a)(2). See 1994 Amendment note below.
 

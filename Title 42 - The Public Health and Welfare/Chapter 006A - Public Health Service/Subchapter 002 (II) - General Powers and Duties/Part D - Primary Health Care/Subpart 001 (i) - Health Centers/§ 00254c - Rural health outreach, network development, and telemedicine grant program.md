@@ -112,7 +112,7 @@ Funding may not be provided to a network under this section for in excess of a 3
 
 For the purpose of carrying out this section there are authorized to be appropriated $36,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001.
 
-(July 1, 1944, ch. 373, title III, §330A, as added Oct. 11, 1996, Pub. L. 104–299, §3(a), 110 Stat. 3642.)
+(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642.)
 
 #### Prior Provisions
 

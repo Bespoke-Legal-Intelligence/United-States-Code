@@ -50,7 +50,7 @@
 
 #### (4) Improvements of standards and criteria
 
-&emsp;The Administrator shall conduct and support research with respect to improving the standards and criteria developed under this subsection.
+&emsp;The Administrator shall conduct and support research with respect to improving thestandards and criteria developed under this subsection.
 
 #### (c) Dissemination
 
@@ -74,7 +74,7 @@ The Director shall make recommendations to the Administrator on activities that 
 
 &emsp;(3) promoting the utilization of the guidelines, standards, performance standards, and review criteria developed under section 299b–1(a) of this title.
 
-(July 1, 1944, ch. 373, title IX, §914, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(a), 103 Stat. 2193; amended Oct. 13, 1992, Pub. L. 102–410, §§5(c)(3), 6(a), 7, 106 Stat. 2097, 2099, 2100; June 10, 1993, Pub. L. 103–43, title XX, §2013(2), 107 Stat. 215.)
+(July 1, 1944, ch. 373, title IX, §914, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2193; amended Pub. L. 102–410, §§5(c)(3), 6(a), 7, Oct. 13, 1992, 106 Stat. 2097, 2099, 2100; Pub. L. 103–43, title XX, §2013(2), June 10, 1993, 107 Stat. 215.)
 
 #### Amendments
 

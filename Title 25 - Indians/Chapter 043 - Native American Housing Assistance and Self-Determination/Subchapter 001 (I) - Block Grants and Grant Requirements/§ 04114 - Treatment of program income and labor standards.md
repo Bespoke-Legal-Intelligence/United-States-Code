@@ -22,7 +22,7 @@
 
 #### (3) Exclusion of amounts
 
-&emsp;The Secretary may, by regulation, exclude from consideration as program income anyamounts determined to be so small that compliance with the requirements of this subsection would create an unreasonable administrative burden on the recipient.
+&emsp;The Secretary may, by regulation, exclude from consideration as program income any amounts determined to be so small that compliance with the requirements of this subsection would create an unreasonable administrative burden on the recipient.
 
 #### (b) Labor standards
 

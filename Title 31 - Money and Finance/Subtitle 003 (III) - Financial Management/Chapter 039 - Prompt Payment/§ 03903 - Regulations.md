@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) a progress payment (including a monthly percentage-of-completion progress payment or milestone payments for completed phases, increments, or segments of any project) that is approved as payable by the agency pursuant to subsection (b) of this section and remains unpaid for—
 
-&emsp;&emsp;&emsp;(i) a period of more than 14 days after receipt of the payment request by the place or person designated by the agency to first receive such requests; or
+&emsp;&emsp;&emsp;(i) a period of more than 14 days after receipt of the payment request by the placeor person designated by the agency to first receive such requests; or
 
 &emsp;&emsp;&emsp;(ii) a longer period, specified in the solicitation, if required to afford the Government a practicable opportunity to adequately inspect the work and to determine the adequacy of the contractor's performance under the contract; and
 

@@ -2,7 +2,7 @@
 
 Whoever, with intent to defraud within the United States, falsely assumes or pretends to be a diplomatic, consular or other official of a foreign government duly accredited as such to the United States and acts as such, or in such pretended character, demands or obtains or attempts to obtain any money, paper, document, or other thing of value, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 743; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -16,7 +16,7 @@
 
 (C) An employee is entitled to appeal to the Merit Systems Protection Board under section 7701 any determination that the employee is not unable, because of disease or injury, to render useful and efficient service in a position to which the employee has declined reassignment under this section.
 
-(D) For purposes of subparagraph (A), an employee of the United States Postal Service shall not be considered qualified for a position if such position is in a different craft or if reassignment to such position would be inconsistent with the terms of a collective-bargaining agreement covering the employee.
+(D) For purposes of subparagraph (A), an employee of the United States Postal Service shallnot be considered qualified for a position if such position is in a different craft or if reassignment to such position would be inconsistent with the terms of a collective-bargaining agreement covering the employee.
 
 (b) A Member who completes at least 18 months of service as a Member and is found by the Office to be disabled for useful and efficient service as a Member because of disease or injury shall be retired on the Member's own application.
 

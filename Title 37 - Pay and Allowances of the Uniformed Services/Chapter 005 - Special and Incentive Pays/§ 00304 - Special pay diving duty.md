@@ -6,7 +6,11 @@
 
 &emsp;(2) is required to maintain proficiency as a diver by frequent and regular dives; and
 
-&emsp;(3) actually performs diving duty.
+&emsp;(3) either—
+
+&emsp;&emsp;(A) actually performs diving duty while serving in an assignment for which diving is a primary duty; or
+
+&emsp;&emsp;(B) meets the requirements to maintain proficiency as described in paragraph (2) while serving in an assignment that includes diving duty other than as a primary duty.
 
 (b) Special pay payable under subsection (a) shall be paid at a rate of not more than $200 a month, in the case of an officer, and at a rate of not more than $300 a month, in the case of an enlisted member.
 
@@ -22,7 +26,7 @@
 
 (e) In time of war, the President may suspend the payment of diving duty pay.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub. L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub. L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §616(a), Oct. 17, 1998, 112 Stat. 2041.)
 
 Historical and Revision Notes
 
@@ -46,6 +50,8 @@ In subsection (a), the last sentence is substituted for section 236(b) of existi
 
 #### Amendments
 
+1998—Subsec. (a)(3). Pub. L. 105–261 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “actually performs diving duty.”
+
 1991—Subsec. (a). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
 
 Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
@@ -53,6 +59,10 @@ Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsecti
 1987—Subsecs. (d), (e). Pub. L. 100–180 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1981—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and $300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title VI, §616(b), Oct. 17, 1998, 112 Stat. 2041, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1987 Amendment
 

@@ -90,7 +90,7 @@ Pub. L. 102–245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: “As used in
 
 #### Congressional Statement of Policy; 1992 Amendment
 
-Pub. L. 102–245, title I, §102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to help United States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce's Technology Administration and National Institute of Standards and Technology.”
+Pub. L. 102–245, title I, §102, Feb. 14, 1992, 106 Stat. 7, provided that: “Congress finds that in order to helpUnited States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce's Technology Administration and National Institute of Standards and Technology.”
 
 #### National Commission on Reducing Capital Costs for Emerging Technology
 

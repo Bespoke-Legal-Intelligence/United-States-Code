@@ -38,7 +38,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date
 
@@ -48,5 +48,5 @@ Section 4 of Pub. L. 90–105 provided that:
 
 “(b) Subject to subsection (c) of this section, the first section and section 2 of this Act \[enacting this section and section 3303 of former Title 39, The Postal Service\] shall become effective on the one hundred and twentieth day following the date of enactment of this Act \[Oct. 11, 1967\].
 
-“(c) For the purpose of the application of section 3304a(b) of title 5, United States Code, as enacted bythis Act, in the case of an individual who, prior to the effective date prescribed by subsection (b) of this section, shall have completed the 3-year period referred to in such section 3304a(b), such individual shall be deemed to have completed such 3-year period on such effective date.”
+“(c) For the purpose of the application of section 3304a(b) of title 5, United States Code, as enacted by this Act, in the case of an individual who, prior to the effective date prescribed by subsection (b) of this section, shall have completed the 3-year period referred to in such section 3304a(b), such individual shall be deemed to have completed such 3-year period on such effective date.”
 

@@ -22,7 +22,7 @@
 
 &emsp;(A) for the prompt suspension, for a period not less than ninety days in the case of a first offender and not less than one year in the case of any repeat offender, of the driver's license of any individual who a law enforcement officer has probable cause under State law to believe has committed an alcohol-related traffic offense, and (i) to whom is administered one or more chemical tests to determine whether the individual was intoxicated while operating the motor vehicle and who is determined, as a result of such tests, to be intoxicated, or (ii) who refuses to submit to such a test as proposed by the officer;
 
-&emsp;(B) for a mandatory sentence, which shall not be subject to suspension or probation, of (i) imprisonment for not less than forty-eight consecutive hours, or (ii) not less than ten days of community service, of any person convicted of driving while intoxicated more than once in any five-year period;
+&emsp;(B) for a mandatory sentence, which shall not be subject to suspension or probation, of (i) imprisonment for not less than forty-eightconsecutive hours, or (ii) not less than ten days of community service, of any person convicted of driving while intoxicated more than once in any five-year period;
 
 &emsp;(C) that any person with a blood alcohol concentration of 0.10 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated; and
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(II) a minimum sentence of imprisonment for forty-eight consecutive hours;
 
-&emsp;(B) any person convicted of a second violation of driving under the influence of alcohol within five years after a conviction for thesame offense, shall receive a mandatory minimum sentence of imprisonment for ten days and license revocation for not less than one year;
+&emsp;(B) any person convicted of a second violation of driving under the influence of alcohol within five years after a conviction for the same offense, shall receive a mandatory minimum sentence of imprisonment for ten days and license revocation for not less than one year;
 
 &emsp;(C) any person convicted of a third or subsequent violation of driving under the influence of alcohol within five years after a prior conviction for the same offense shall—
 
@@ -98,9 +98,5 @@ Pub. L. 97–424, title II, §209, Jan. 6, 1983, 96 Stat. 2140, provided that: �
 
 #### Regulations; Congressional Veto of Supplemental Grants
 
-Section 101(c) of Pub. L. 97–364 provided that: “The Secretary of Transportation shall issue and publish in the Federal Register proposed regulations to implement section 408 of title 23, United States Code, not later than November 1, 1982. The Secretary shall allowpublic comment and hold public hearings on the proposed regulations to encourage maximum citizen participation. The final regulations shall be issued, published in the Federal Register, and transmitted to Congress before February 1, 1983. To the extent such regulations relate to the making of basic grants under such section 408, such regulations shall become effective on the date on which they are published in the Federal Register. To the extent such regulations relate to the making of supplemental grants under such section 408, such regulations shall become effective April 1, 1983, unless before such date either House of Congress by resolution disapproves such regulations to such extent. If such regulations are so disapproved by either House of Congress, the Secretary shall not obligate for such supplemental grants any amount authorized to carry out such section 408 for the fiscal year ending September 30, 1983, or any subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of this Act \[Oct. 25, 1982\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 157 of this title.
+Section 101(c) of Pub. L. 97–364 provided that: “The Secretary of Transportation shall issue and publish in the Federal Register proposed regulations to implement section 408 of title 23, United States Code, not later than November 1, 1982. The Secretary shall allow public comment and hold public hearings on the proposed regulations to encourage maximum citizen participation. The final regulations shall be issued, published in the Federal Register, and transmitted to Congress before February 1, 1983. To the extent such regulations relate to the making of basic grants under such section 408, such regulations shall become effective on the date on which they are published in the Federal Register. To the extent such regulations relate to the making of supplemental grants under such section 408, such regulations shall become effective April 1, 1983, unless before such date either House of Congress by resolution disapproves such regulations to such extent. If such regulations are so disapproved by either House of Congress, the Secretary shall not obligate for such supplemental grants any amount authorized to carry out such section 408 for the fiscal year ending September 30, 1983, or any subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of this Act \[Oct. 25, 1982\].”
 

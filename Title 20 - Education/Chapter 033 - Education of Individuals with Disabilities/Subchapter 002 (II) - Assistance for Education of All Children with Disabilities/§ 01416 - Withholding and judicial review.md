@@ -46,5 +46,5 @@ A prior section 1416, Pub. L. 91–230, title VI, §616, as added Pub. L. 94–1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1411, 1442, 1483 of this title.
+This section is referred to in sections 1411, 1442 of this title.
 

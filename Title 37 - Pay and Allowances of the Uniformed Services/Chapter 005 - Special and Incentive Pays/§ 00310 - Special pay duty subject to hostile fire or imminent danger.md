@@ -12,13 +12,17 @@
 
 > A member covered by clause (3) who is hospitalized for the treatment of his injury or wound may be paid special pay under this section for not more than three additional months during which he is so hospitalized.
 
-(b) A member may not be paid more than one special pay under this section for any month. A member may be paid special pay under this section in addition to any other pay and allowances to which he may be entitled.
+(b)(1) A member may not be paid more than one special pay under this section for any month. A member may be paid special pay under this section in addition to any other pay and allowances to which he may be entitled.
+
+(2) A member of a reserve component who is eligible for special pay under this section for a month shall receive the full amount authorized in subsection (a) for that month regardless of the number of days during that month on which the member satisfies the eligibility criteria specified in such subsection.
 
 (c) Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
-(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377.)
+(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042.)
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
 1991—Subsec. (a). Pub. L. 102–190 substituted “Under” for “Except in time of war declared by Congress, and under” and “rate of $150” for “lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title”.
 

@@ -4,7 +4,7 @@
 
 (b) Funds appropriated for any fiscal year pursuant to the authorization contained in subsection (a) of this section shall be included in the appropriation Act (or supplemental appropriation Act) for the fiscal year preceding the fiscal year for which such funds are available for obligation. In order to effect a transition to this method of timing appropriation action, the preceding sentence shall apply notwithstanding the fact that its initial application will result in the enactment in the same year (whether in the same appropriation Act or otherwise) of two separate appropriations, one for the then current fiscal year and one for the succeeding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §420, as added Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), 81 Stat. 911; amended Oct. 30, 1972, Pub. L. 92–603, title IV, §412, 86 Stat. 1492; June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 516; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(8), 98 Stat. 1166; Dec. 19, 1989, Pub. L. 101–239, title X, §10401(a), 103 Stat. 2487.)
+(Aug. 14, 1935, ch. 531, title IV, §420, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 911; amended Pub. L. 92–603, title IV, §412, Oct. 30, 1972, 86 Stat. 1492; Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 516; Pub. L. 98–369, div. B, title VI, §2663(c)(8), July 18, 1984, 98 Stat. 1166; Pub. L. 101–239, title X, §10401(a), Dec. 19, 1989, 103 Stat. 2487.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@
 | [1335\.](%C2%A7%2001335%20-%20Interpleader.md) | Interpleader. |
 | [1336\.](%C2%A7%2001336%20-%20Surface%20Transportation%20Board%27s%20orders.md) | Surface Transportation Board's orders. |
 | [1337\.](%C2%A7%2001337%20-%20Commerce%20and%20antitrust%20regulations%3B%20amount%20in%20controversy%2C%20costs.md) | Commerce and antitrust regulations; amount in controversy, costs. |
-| [1338\.](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20trade-marks%2C%20and%20unfair%20competition.md) | Patents, plant variety protection, copyrights, mask works, trade-marks, and unfair competition. |
+| [1338\.](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20designs%2C%20trade-marks%2C%20and%20unfair%20competition.md) | Patents, plant variety protection, copyrights, mask works, designs, trade-marks, and unfair competition. |
 | [1339\.](%C2%A7%2001339%20-%20Postal%20matters.md) | Postal matters. |
 | [1340\.](%C2%A7%2001340%20-%20Internal%20revenue%3B%20customs%20duties.md) | Internal revenue; customs duties. |
 | [1341\.](%C2%A7%2001341%20-%20Taxes%20by%20States.md) | Taxes by States. |
@@ -44,23 +44,29 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>For termination of amendment by section 503(b)(2)(B) of Pub. L. 105–304, see section 505 of Pub. L. 105–304, set out as an Effective and Termination Dates note under section 1301 of Title 17, Copyrights.</i>
+
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–88, title III, §305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in item 1336.
+1998—Pub. L. 105–304, title V, §§503(b)(2)(B), 505, Oct. 28, 1998, 112 Stat. 2917, 2918, temporarily inserted “designs,” after “mask works,” in item 1338.
 
-<b>1994</b>—Pub. L. 103–465, title III, §321(b)(3)(B), Dec. 8, 1994, 108 Stat. 4947, added item 1368.
+1995—Pub. L. 104–88, title III, §305(a)(4), Dec. 29, 1995, 109 Stat. 944, substituted “Surface TransportationBoard's” for “Interstate Commerce Commission's” in item 1336.
 
-<b>1990</b>—Pub. L. 101–650, title III, §310(b), Dec. 1, 1990, 104 Stat. 5114, added item 1367.
+1994—Pub. L. 103–465, title III, §321(b)(3)(B), Dec. 8, 1994, 108 Stat. 4947, added item 1368.
 
-<b>1988</b>—Pub. L. 100–702, title X, §1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” in item 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
+1990—Pub. L. 101–650, title III, §310(b), Dec. 1, 1990, 104 Stat. 5114, added item 1367.
 
-<b>1986</b>—Pub. L. 99–336, §6(a)(1)(A), June 19, 1986, 100 Stat. 638, renumbered item 1364 “Senate actions” and item 1364 “Construction of references to laws of the United States or Acts of Congress” as items 1365 and 1366, respectively.
+1988—Pub. L. 100–702, title X, §1020(a)(7), Nov. 19, 1988, 102 Stat. 4672, substituted “Actions” for “Action” in item 1330, inserted a period after “question” in item 1331, substituted “plant variety protection, copyrights, mask works, trade-marks,” for “copyrights, and trade-marks” in item 1338, and inserted “and elective franchise” in item 1343.
 
-<b>1984</b>—Pub. L. 98–353, title I, §101(b), July 10, 1984, 98 Stat. 333, substituted “cases” for “matters” in item 1334.
+1986—Pub. L. 99–336, §6(a)(1)(A), June 19, 1986, 100 Stat. 638, renumbered item 1364 “Senate actions” and item 1364 “Construction of references to laws of the United States or Acts of Congress” as items 1365 and 1366, respectively.
 
-<b>1980</b>—Pub. L. 96–486, §2(b), Dec. 1, 1980, 94 Stat. 2369, struck out “; amount in controversy; costs.” after “question” in item 1331.
+1984—Pub. L. 98–353, title I, §101(b), July 10, 1984, 98 Stat. 333, substituted “cases” for “matters” in item 1334.
 
-<b>1978</b>—Pub. L. 95–598, title II, §238(b), Nov. 6, 1978, 92 Stat. 2668, directed the substitution of “Bankruptcy appeals” for “Bankruptcy matters and proceedings” in item 1334, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1980—Pub. L. 96–486, §2(b), Dec. 1, 1980, 94 Stat. 2369, struck out “; amount in controversy; costs.” after “question” in item 1331.
+
+1978—Pub. L. 95–598, title II, §238(b), Nov. 6, 1978, 92 Stat. 2668, directed the substitution of “Bankruptcy appeals” for “Bankruptcy matters and proceedings” in item 1334, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 Pub. L. 95–572, §6(b)(2), Nov. 2, 1978, 92 Stat. 2457, added item 1363 and redesignated former item 1363 “Construction of references to laws of the United States or Acts of Congress”, as 1364.
 
@@ -70,17 +76,17 @@ Pub. L. 95–486, §9(c), Oct. 20, 1978, 92 Stat. 1634, substituted “Commerce 
 
 Pub. L. 95–393, §§7(b), 8(a)(2), Sept. 30, 1978, 92 Stat. 810, substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in item 1351 and added item 1364 “Direct actions against insurers of members of diplomatic missions and their families”.
 
-<b>1976</b>—Pub. L. 94–583, §2(b), Oct. 21, 1976, 90 Stat. 2891, added item 1330.
+1976—Pub. L. 94–583, §2(b), Oct. 21, 1976, 90 Stat. 2891, added item 1330.
 
-<b>1970</b>—Pub. L. 91–358, title I, §172(c)(2), July 29, 1970, 84 Stat. 591, added item 1363.
+1970—Pub. L. 91–358, title I, §172(c)(2), July 29, 1970, 84 Stat. 591, added item 1363.
 
-<b>1966</b>—Pub. L. 89–635, §2, Oct. 10, 1966, 80 Stat. 880, added item 1362.
+1966—Pub. L. 89–635, §2, Oct. 10, 1966, 80 Stat. 880, added item 1362.
 
-<b>1962</b>—Pub. L. 87–748, §1(b), Oct. 5, 1962, 76 Stat. 744, added item 1361.
+1962—Pub. L. 87–748, §1(b), Oct. 5, 1962, 76 Stat. 744, added item 1361.
 
-<b>1958</b>—Pub. L. 85–554, §4, July 25, 1958, 72 Stat. 415, inserted “costs” in items 1331 and 1332.
+1958—Pub. L. 85–554, §4, July 25, 1958, 72 Stat. 415, inserted “costs” in items 1331 and 1332.
 
-<b>1953</b>—Act Aug. 15, 1953, ch. 505, §3, 67 Stat. 589, added item 1360.
+1953—Act Aug. 15, 1953, ch. 505, §3, 67 Stat. 589, added item 1360.
 
 #### Federal Rules of Civil Procedure
 
@@ -139,7 +145,7 @@ Virgin Islands, jurisdiction of district court, see sections 1612 and 1613 of Ti
 - [&sect; 01335 - Interpleader](%C2%A7%2001335%20-%20Interpleader.md)
 - [&sect; 01336 - Surface Transportation Board's orders](%C2%A7%2001336%20-%20Surface%20Transportation%20Board%27s%20orders.md)
 - [&sect; 01337 - Commerce and antitrust regulations; amount in controversy, costs](%C2%A7%2001337%20-%20Commerce%20and%20antitrust%20regulations%3B%20amount%20in%20controversy%2C%20costs.md)
-- [&sect; 01338 - Patents, plant variety protection, copyrights, mask works, trade-marks, and unfair competition](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20trade-marks%2C%20and%20unfair%20competition.md)
+- [&sect; 01338 - Patents, plant variety protection, copyrights, mask works, designs, trade-marks, and unfair competition](%C2%A7%2001338%20-%20Patents%2C%20plant%20variety%20protection%2C%20copyrights%2C%20mask%20works%2C%20designs%2C%20trade-marks%2C%20and%20unfair%20competition.md)
 - [&sect; 01339 - Postal matters](%C2%A7%2001339%20-%20Postal%20matters.md)
 - [&sect; 01340 - Internal revenue; customs duties](%C2%A7%2001340%20-%20Internal%20revenue%3B%20customs%20duties.md)
 - [&sect; 01341 - Taxes by States](%C2%A7%2001341%20-%20Taxes%20by%20States.md)

@@ -52,7 +52,7 @@ For the purposes of this subchapter—
 
 (<i>l</i>) The term “title”, when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years’ undisturbed use and possession for the purposes of construction and operation of the project.
 
-(July 1, 1944, ch. 373, title VI, §645, formerly §625, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 460; amended Sept. 4, 1964, Pub. L. 88–581, §3(b), 78 Stat. 919; renumbered §645 and amended June 30, 1970, Pub. L. 91–296, title I, §§113, 114(a), 116(f), 117, 118, 119(d), title II, §201, 84 Stat. 340, 341, 342, 343, 344.)
+(July 1, 1944, ch. 373, title VI, §645, formerly §625, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 460; amended Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919; renumbered §645 and amended Pub. L. 91–296, title I, §§113, 114(a), 116(f), 117, 118, 119(d), title II, §201, June 30, 1970, 84 Stat. 340, 341, 342, 343, 344.)
 
 #### Prior Provisions
 

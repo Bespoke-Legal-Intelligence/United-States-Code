@@ -33,9 +33,8 @@
 | :--- | ---: |
 | [3720\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003720%20-%20Powers%20of%20Secretary.md) | Powers of Secretary. |
 | [3721\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003721%20-%20Incontestability.md) | Incontestability. |
-| [3723\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003723%20-%20Direct%20loan%20revolving%20fund.md) | Direct loan revolving fund. |
-| [3724\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003724%20-%20Loan%20Guaranty%20Revolving%20Fund.md) | Loan Guaranty Revolving Fund. |
-| [3725\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003725%20-%20Guaranty%20and%20Indemnity%20Fund.md) | Guaranty and Indemnity Fund. |
+| [3722\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003722%20-%20Veterans%20Housing%20Benefit%20Program%20Fund.md) | Veterans Housing Benefit Program Fund. |
+| \[3723 to 3725. Repealed.\] |  |
 | [3726\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003726%20-%20Withholding%20of%20payments%2C%20benefits%2C%20etc.md) | Withholding of payments, benefits, etc. |
 | [3727\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003727%20-%20Expenditures%20to%20correct%20or%20compensate%20for%20structural%20defects%20in%20mortgaged%20homes.md) | Expenditures to correct or compensate for structural defects in mortgaged homes. |
 | [3728\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003728%20-%20Exemption%20from%20State%20anti-usury%20provisions.md) | Exemption from State anti-usury provisions. |
@@ -44,7 +43,7 @@
 | [3731\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003731%20-%20Appraisals.md) | Appraisals. |
 | [3732\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003732%20-%20Procedure%20on%20default.md) | Procedure on default. |
 | [3733\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003733%20-%20Property%20management.md) | Property management. |
-| [3734\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003734%20-%20Annual%20submission%20of%20information%20on%20the%20Loan%20Guaranty%20Revolving%20Fund%20and%20the%20Guaranty%20and%20Indemnity%20Fund.md) | Annual submission of information on the Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund. |
+| [3734\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003734%20-%20Annual%20submission%20of%20information%20on%20the%20Veterans%20Housing%20Benefit%20Program%20Fund%20and%20housing%20programs.md) | Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs. |
 | [3735\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003735%20-%20Housing%20assistance%20for%20homeless%20veterans.md) | Housing assistance for homeless veterans. |
 | [3736\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003736%20-%20Reporting%20requirements.md) | Reporting requirements. |
 
@@ -74,12 +73,26 @@
 | :--- | ---: |
 | [3761\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003761%20-%20Pilot%20program.md) | Pilot program. |
 | [3762\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003762%20-%20Direct%20housing%20loans%20to%20Native%20American%20veterans.md) | Direct housing loans to Native American veterans. |
-| [3763\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003763%20-%20Housing%20loan%20program%20account.md) | Housing loan program account. |
+| [3763\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003763%20-%20Native%20American%20Veteran%20Housing%20Loan%20Program%20Account.md) | Native American Veteran Housing Loan Program Account. |
 | [3764\.](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/%C2%A7%2003764%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING FOR HOMELESS VETERANS
+
+|  |  |
+| :--- | ---: |
+| [3771\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003771%20-%20Definitions.md) | Definitions. |
+| [3772\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003772%20-%20General%20authority.md) | General authority. |
+| [3773\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003773%20-%20Requirements.md) | Requirements. |
+| [3774\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003774%20-%20Default.md) | Default. |
+| [3775\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003775%20-%20Audit.md) | Audit. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+1998—Pub. L. 105–368, title VI, §§601(b), 602(e)(3)(C), Nov. 11, 1998, 112 Stat. 3345, 3347, added item 3722, struck out items 3723 “Direct loan revolving fund”, 3724 “Loan Guaranty Revolving Fund”, and 3725 “Guaranty and Indemnity Fund”, substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in item 3734, substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in item 3763, and added item for subchapter VI and items 3771 to 3775.
 
 1996—Pub. L. 104–110, title II, §201(a)(2), Feb. 13, 1996, 110 Stat. 770, added item 3736.
 
@@ -145,3 +158,4 @@ This chapter is referred to in sections 101, 109, 511, 1521, 1772, 2104, 5302, 5
 - [Subchapter 003 (III) - Administrative Provisions](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/README.md)
 - [Subchapter 004 (IV) - Small Business Loans](Subchapter%20004%20%28IV%29%20-%20Small%20Business%20Loans/README.md)
 - [Subchapter 005 (V) - Native American Veteran Housing Loan Pilot Program](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/README.md)
+- [Subchapter 006 (VI) - Loan Guarantee for Multifamily Transitional Housing for Homeless Veterans](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/README.md)

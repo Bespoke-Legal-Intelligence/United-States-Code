@@ -18,7 +18,7 @@
 
 #### (1) 100 percent payment rule
 
-&emsp;Each guaranty agency shall pay each eligible lender or servicer (as agent for an eligible lender) designated under subsection (a) of this section 100 percent of the unpaid principal andinterest of all loans for which claims are submitted for payment by that eligible lender or servicer for the one-year period following the receipt by the guaranty agency of the notification of designation under this section or until the guaranty agency receives notice from the Secretary that the designation of the lender or servicer under subsection (a) of this section has been revoked.
+&emsp;Each guaranty agency shall pay each eligible lender or servicer (as agent for an eligible lender) designated under subsection (a) of this section 100 percent of the unpaid principal and interest of all loans for which claims are submitted for payment by that eligible lender or servicer for the one-year period following the receipt by the guaranty agency of the notification of designation under this section or until the guaranty agency receives notice from the Secretary that the designation of the lender or servicer under subsection (a) of this section has been revoked.
 
 #### (2) Revocation authority
 
@@ -36,7 +36,7 @@
 
 #### (1) Audits for lenders and servicers
 
-&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to the Secretary and to each appropriate guaranty agency.
+&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to theSecretary and to each appropriate guaranty agency.
 
 #### (2) Additional information on lenders and servicers
 
@@ -64,7 +64,7 @@
 
 #### (8) Additional revocation authority
 
-&emsp;Notwithstanding any other provision of this section, designation under subsection (a) of this section may be revoked at any time by the Secretary if the Secretary determines that the eligible lender or servicer has failed tomaintain an overall level of regulatory compliance consistent with the audit submitted by the eligible lender or servicer under this section or if the Secretary believes the lender or servicer may have engaged in fraud in securing designation under subsection (a) of this section or is failing to service loans in accordance with program regulations.
+&emsp;Notwithstanding any other provision of this section, designation under subsection (a) of this section may be revoked at any time by the Secretary if the Secretary determines that the eligible lender or servicer has failed to maintain an overall level of regulatory compliance consistent with the audit submitted by the eligible lender or servicer under this section or if the Secretary believes the lender or servicer may have engaged in fraud in securing designation under subsection (a) of this section or is failing to service loans in accordance with program regulations.
 
 #### (d) Supervision of designated guaranty agencies
 
@@ -162,7 +162,7 @@ Committee on Education and Labor of House of Representatives treated as referrin
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Section Referred to in Other Sections
 

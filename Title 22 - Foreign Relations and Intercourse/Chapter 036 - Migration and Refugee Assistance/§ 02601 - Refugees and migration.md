@@ -40,7 +40,7 @@ This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original 
 
 The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug.14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
+The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
 Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, as amended, referred to in subsec. (e), were sections of act Aug. 26, 1954, ch. 937, 68 Stat. 832, and were repealed by section 6 of Pub. L. 87–510.
 
@@ -64,11 +64,27 @@ Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing am
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Immigration and Nationality.
+Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, seesection 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Immigration and Nationality.
 
 #### Short Title
 
 Section 1 of Pub. L. 87–510 provided: “That this Act \[enacting this chapter, amending sections 1925 and 1951 of this title and section 1104 of Title 8, Aliens and Nationality, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1182 of Title 8\] may be cited as the ‘Migration and Refugee Assistance Act of 1962’.”
+
+#### United States Policy Regarding Involuntary Return of Refugees
+
+Pub. L. 105–277, div. G, subdiv. B, title XXII, §2241, Oct. 21, 1998, 112 Stat. 2681–821, provided that:
+
+“(a)
+
+In General.—None of the funds made available by this subdivision \[see Tables for classification\] shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+
+“(b)
+
+Migration and Refugee Assistance.—None of the funds made available by section 2231 of this division \[112 Stat. 2681–821\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return of any person to any country unless the Secretary of State first notifies the appropriate congressional committees, except that in the case of an emergency involving a threat to human life the Secretary of State shall notify the appropriate congressional committees as soon as practicable.
+
+“(c)
+
+Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
 
 #### United States Policy Concerning Overseas Assistance to Refugees and Displaced Persons
 
@@ -128,7 +144,7 @@ UNHCR ‘Guidelines on the Protection of Refugee Women’.—The Secretary of St
 
 #### United States Membership in Intergovernmental Committee for European Migration
 
-Pub. L. 100–204, title VII, §745, Dec. 22, 1987, 101 Stat. 1396, authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment of United States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by Pub. L. 103–236, title IV, §430(b), Apr. 30, 1994, 108 Stat. 459.
+Pub. L. 100–204, title VII, §745, Dec. 22, 1987, 101 Stat. 1396, authorized President to continue United States membership in Intergovernmental Committee for European Migration and, upon entry into force of amendments to constitution of such body approved May 20, 1987, to continue membership under the name International Organization for Migration in accordance with such constitution and amendments, and authorized appropriation of necessary amounts for payment ofUnited States contributions to such body and salaries and expenses incidental to United States participation in such body, prior to repeal by Pub. L. 103–236, title IV, §430(b), Apr. 30, 1994, 108 Stat. 459.
 
 #### Indochina Migration and Refugee Assistance
 

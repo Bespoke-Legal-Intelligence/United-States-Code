@@ -1,0 +1,32 @@
+### §230103. Membership
+
+An individual is eligible for membership in the corporation only if the individual served honorably as a member of the Armed Forces of the United States—
+
+&emsp;(1) in a foreign war, insurrection, or expedition in service that—
+
+&emsp;&emsp;(A) has been recognized as campaign-medal service; and
+
+&emsp;&emsp;(B) is governed by the authorization of the award of a campaign badge by the United States Government; or
+
+&emsp;(2) on the Korean peninsula or in its territorial waters for at least 30 consecutive days, or a total of 60 days, after June 30, 1949.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1481.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+230103
+
+36:115.
+
+May 28, 1936, ch. 471, §5, 49 Stat. 1391; May 29, 1953, ch. 85, §2, 67 Stat. 40; Mar. 7, 1995, Pub. L. 104–3, 109 Stat. 47.
+
+The words “is eligible for membership . . . only if” are substituted for “may not be a member . . . unless” for consistency in the revised title. The words “served honorably as a member of the armed forces of the United States” are substituted for “served honorably as a member of the Armed Forces of the United States” and “while a member of the Armed Forces of the United States, served honorably” to eliminate unnecessary words. In clause (2), the words “at least” are substituted for “not less than” for consistency in the revised title.
+

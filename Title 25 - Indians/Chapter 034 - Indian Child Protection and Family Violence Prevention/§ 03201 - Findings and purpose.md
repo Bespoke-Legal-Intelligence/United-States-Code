@@ -54,5 +54,5 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 #### Short Title
 
-Section 401 of title IV of Pub. L. 101–630 provided that: “This title \[enacting this chapter and section 1169of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Indian Child Protection and Family Violence Prevention Act’.”
+Section 401 of title IV of Pub. L. 101–630 provided that: “This title \[enacting this chapter and section 1169 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Indian Child Protection and Family Violence Prevention Act’.”
 

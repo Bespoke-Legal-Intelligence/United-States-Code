@@ -28,7 +28,7 @@ The Secretary shall establish information programs to inform the public of avail
 
 #### (f) Undertaking of concession facilities or services
 
-Transportation facilities and services provided pursuant to this chapter shall not be considered as concession facilities or services within the meaning of the Act of October 9, 1965 (79 Stat. 969) \[16 U.S.C. 20 et seq.\] and may be undertaken by the Secretary directly or by contract without regard to any requirement of local, State, or Federal law respecting determinations of public convenience and necessity or other similar matters: <i>Provided</i>, That the Secretary or his contractor shall consult with the appropriate State or local public service commission or other such body having authority to issue certificates of convenience and necessity, and any such contractor shall be subject to applicable requirements of such body unless the Secretary determines that such requirements would not be consistent with the purposes and provisions of this chapter.
+Transportation facilities and services provided pursuant to this chapter shall not be considered as concession facilities or services within the meaning of the Act of October 9, 1965 (79 Stat. 969) <sup>1</sup> and may be undertaken by the Secretarydirectly or by contract without regard to any requirement of local, State, or Federal law respecting determinations of public convenience and necessity or other similar matters: <i>Provided</i>, That the Secretary or his contractor shall consult with the appropriate State or local public service commission or other such body having authority to issue certificates of convenience and necessity, and any such contractor shall be subject to applicable requirements of such body unless the Secretary determines that such requirements would not be consistent with the purposes and provisions of this chapter.
 
 #### (g) Construction of grant of authority respecting operation of motor vehicles excepted from statutory coverage
 
@@ -38,7 +38,7 @@ No grant of authority in this chapter shall be deemed to expand the exemption of
 
 #### References in Text
 
-Act of October 9, 1965, referred to in subsec. (f), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, known as the National Park System Concessions Policy Act, which is classified generally to subchapter IV (§20 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 20 of this title and Tables.
+Act of October 9, 1965, referred to in subsec. (f), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, known as the National Park System Concessions Policy Act, which was classified generally to subchapter IV (§20 et seq.) of chapter 1 of this title prior to repeal by Pub. L. 105–391, title IV, §415(a), Nov. 13, 1998, 112 Stat. 3515.
 
 Section 10526(a)(9) of title 49, referred to in subsec. (g), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, “section 10526(a)(9) of title 49” was substituted for “section 203(b)(4) of the Interstate Commerce Act (49 U.S.C. 303(b)(4)” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
 

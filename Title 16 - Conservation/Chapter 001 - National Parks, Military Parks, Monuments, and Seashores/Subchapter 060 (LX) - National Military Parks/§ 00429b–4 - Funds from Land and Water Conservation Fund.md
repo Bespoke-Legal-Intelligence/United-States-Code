@@ -8,7 +8,7 @@ In addition to sums heretofore expended for the acquisition of property and inte
 
 It is the express intent of Congress that, except for property referred to in section 429b–1(b) of this title, the Secretary shall acquire property and interests therein under sections 429b to 429b–5 of this title within two complete fiscal years after October 13, 1980.
 
-(Apr. 17, 1954, ch. 153, §5, as added Oct. 13, 1980, Pub. L. 96–442, §2, 94 Stat. 1886.)
+(Apr. 17, 1954, ch. 153, §5, as added Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1886.)
 
 #### References in Text
 

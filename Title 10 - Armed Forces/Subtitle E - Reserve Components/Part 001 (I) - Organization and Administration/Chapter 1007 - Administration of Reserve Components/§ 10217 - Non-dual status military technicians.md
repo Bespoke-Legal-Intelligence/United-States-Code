@@ -56,7 +56,7 @@ Plan for Full Utilization of Military Technicians (Dual Status).—(1) Not later
 
 Definitions for Categories of Military Technicians.—In this section \[enacting this section\]:
 
-&emsp;“(1) The term ‘non-dual status military technician’ has the meaning given that term in section 10217 of title 10, United States Code, as added by subsection (a).
+&emsp;“(1) The term ‘non-dual status military technician’ has the meaning given that term in section 10217 oftitle 10, United States Code, as added by subsection (a).
 
 &emsp;“(2) The term ‘military technician (dual status)’ has the meaning given the term in section 10216(a) of such title.”
 

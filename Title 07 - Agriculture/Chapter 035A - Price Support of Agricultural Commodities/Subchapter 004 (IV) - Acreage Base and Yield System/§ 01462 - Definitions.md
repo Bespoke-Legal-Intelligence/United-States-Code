@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;The term “program crop” means a crop of wheat, corn, grain sorghums, oats, barley, upland cotton, or rice.
 
-(Oct. 31, 1949, ch. 792, title V, §502, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat.1461; amended Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3491.)
+(Oct. 31, 1949, ch. 792, title V, §502, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3491.)
 
 #### Prior Provisions
 

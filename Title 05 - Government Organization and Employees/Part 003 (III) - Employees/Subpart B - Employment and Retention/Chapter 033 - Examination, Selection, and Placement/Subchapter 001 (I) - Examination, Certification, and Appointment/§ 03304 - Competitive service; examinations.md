@@ -22,7 +22,15 @@
 
 (e) Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745.)
+(f)(1) Preference eligibles or veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service may not be denied the opportunity to compete for vacant positions for which the agency making the announcement will accept applications from individuals outside its own workforce under merit promotion procedures.
+
+(2) This subsection shall not be construed to confer an entitlement to veterans’ preference that is not otherwise required by law.
+
+(3) The area of consideration for all merit promotion announcements which include consideration of individuals of the Federal workforce shall indicate that preference eligibles and veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service are eligible to apply. The announcements shall be publicized in accordance with section 3327.
+
+(4) The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182.)
 
 Historical and Revision Notes
 
@@ -86,9 +94,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+1998—Subsec. (f). Pub. L. 105–339 added subsec. (f).
+
 1996—Subsec. (c)(1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1995—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
+1995—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contraryprovision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
 
 &emsp;“(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
 

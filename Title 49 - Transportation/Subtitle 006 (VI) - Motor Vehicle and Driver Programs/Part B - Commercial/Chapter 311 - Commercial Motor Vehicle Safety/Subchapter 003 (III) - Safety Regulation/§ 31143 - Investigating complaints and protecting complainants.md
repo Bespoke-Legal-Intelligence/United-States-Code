@@ -30,3 +30,31 @@ Oct. 30, 1984, Pub. L. 98–554, §212, 98 Stat. 2841.
 
 49 App.:2511(b).
 
+#### Telephone Hotline for Reporting Safety Violations
+
+Pub. L. 105–178, title IV, §4017, June 9, 1998, 112 Stat. 413, provided that:
+
+“(a)
+
+In General.—For a period of not less than 2 years beginning on or before the 90th day following the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall establish, maintain, and promote the use of a nationwide toll-free telephone system to be used by drivers of commercial motor vehicles and others to report potential violations of Federal motor carrier safety regulations.
+
+“(b)
+
+Monitoring.—The Secretary shall monitor reports received by the telephone system and may consider nonfrivolous information provided by such reports in setting priorities for motor carrier safety audits and other enforcement activities.
+
+“(c)
+
+Protection of Persons Reporting Violations.—
+
+&emsp;“(1)
+
+Prohibition.—A person reporting a potential violation to the telephone system while acting in good faith may not be discharged, disciplined, or discriminated against regarding pay, terms, or privileges of employment because of the reporting of such violation.
+
+&emsp;“(2)
+
+Applicability of section 31105 of title 49.—For purposes of section 31105 of title 49, United States Code, a violation or alleged violation of paragraph (1) shall be treated as a violation of section 31105(a) of such title.
+
+“(d)
+
+Funding.—From amounts set aside under section 104(a) of title 23, United States Code, the Secretary may use not more than $250,000 for each of fiscal years 1999 through 2003 to carry out this section.”
+

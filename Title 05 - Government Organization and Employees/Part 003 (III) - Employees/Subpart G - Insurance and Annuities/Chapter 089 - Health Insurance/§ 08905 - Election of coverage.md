@@ -24,7 +24,7 @@
 
 &emsp;(B) in the case of a former spouse of a former employee whose marriage was dissolved after the employee's retirement, within 60 days after the dissolution of the marriage or, if later, within 60 days after an election is made under section 8339(j)(3) or 8417(b) of this title for such former spouse by the retired employee,
 
-> enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to section 8909(b) of this title. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
+> enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to section 8909(b) of this title. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee towhom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
 
 (2) Coverage for self and family under this subsection shall be limited to—
 
@@ -36,11 +36,13 @@
 
 &emsp;&emsp;(ii) incapable of self-support because of mental or physical disability which existed before age 22.
 
-(d) If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
+(d) An individual whom the Secretary of Defense determines is an eligible beneficiary under subsection (b) of section 1108 of title 10 may enroll, as part of the demonstration project under such section, in a health benefits plan under this chapter in accordance with the agreement under subsection (a) of such section between the Secretary and the Office and applicable regulations under this chapter.
 
-(e) An employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.
+(e) If an employee, annuitant, or other individual eligible to enroll in a health benefits plan under this chapter has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
-(f)(1) Under regulations prescribed by the Office, the Office shall, before the start of any contract term in which—
+(f) An employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.
+
+(g)(1) Under regulations prescribed by the Office, the Office shall, before the start of any contract term in which—
 
 &emsp;(A) an adjustment is made in any of the rates charged or benefits provided under a health benefits plan described by section 8903 or 8903a of this title,
 
@@ -56,7 +58,7 @@
 
 (B) Notification under this paragraph shall be provided by employing agencies at an appropriate point in time before each period under paragraph (1) so that employees may be aware of their rights under section 8905a of this title when making enrollment decisions during such period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, §207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§201(c), (d), 202(c), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 102–378, §2(77), Oct. 2, 1992, 106 Stat. 1355.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, §207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§201(c), (d), 202(c), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 102–378, §2(77), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–261, div. A, title VII, §721(b)(1), Oct. 17, 1998, 112 Stat. 2065.)
 
 Historical and Revision Notes
 
@@ -83,6 +85,8 @@ In subsection (b)(1)(C), the words “before January 1, 1965” are substituted 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsecs. (d) to (g). Pub. L. 105–261 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
 1992—Subsec. (b). Pub. L. 102–378, §2(77)(A), substituted “this chapter” for “this subchapter.” at end.
 

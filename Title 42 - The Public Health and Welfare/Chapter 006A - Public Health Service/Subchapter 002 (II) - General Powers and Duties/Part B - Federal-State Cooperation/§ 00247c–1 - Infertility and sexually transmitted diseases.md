@@ -32,7 +32,7 @@ With respect to any sexually transmitted disease described in subsection (a) of 
 
 #### (d) Requirement of availability of all services through each grantee
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that each activity authorized in subsection (c) of this section will be available through the applicant. With respect to compliance with such agreement, the applicant may expend the grant to carry out any of the activities directly, and may expend the grant to enter into agreements with other public or nonprofit private entities under which the entities carry out the activities.
+The Secretary may make a grant under subsection (a) of this section only if the applicantinvolved agrees that each activity authorized in subsection (c) of this section will be available through the applicant. With respect to compliance with such agreement, the applicant may expend the grant to carry out any of the activities directly, and may expend the grant to enter into agreements with other public or nonprofit private entities under which the entities carry out the activities.
 
 #### (e) Required providers regarding certain services
 
@@ -98,7 +98,7 @@ With respect to activities for which a grant under subsection (a) of this sectio
 
 #### (B) Participation of certain entities
 
-&emsp;&emsp;The Secretary may make a grant under subsection (a) of this section only if the applicant provides assurances satisfactory to the Secretary that the plan submitted undersubparagraph (A) has been prepared in consultation with an appropriate number and variety of—
+&emsp;&emsp;The Secretary may make a grant under subsection (a) of this section only if the applicant provides assurances satisfactory to the Secretary that the plan submitted under subparagraph (A) has been prepared in consultation with an appropriate number and variety of—
 
 &emsp;&emsp;&emsp;(i) representatives of entities in the geographic area involved that provide services for the prevention and control of sexually transmitted diseases, including programs to provide to the public information and education regarding such diseases; and
 
@@ -156,11 +156,11 @@ For the purpose of carrying out this section, other than subsections (<i>o</i>) 
 
 &emsp;For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1998.
 
-(July 1, 1944, ch. 373, title III, §318A, as added Oct. 27, 1992, Pub. L. 102–531, title III, §304, 106 Stat. 3490; amended June 10, 1993, Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), 107 Stat. 212; Dec. 14, 1993, Pub. L. 103–183, title IV, §402, 107 Stat. 2236.)
+(July 1, 1944, ch. 373, title III, §318A, as added Pub. L. 102–531, title III, §304, Oct. 27, 1992, 106 Stat. 3490; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), June 10, 1993, 107 Stat. 212; Pub. L. 103–183, title IV, §402, Dec. 14, 1993, 107 Stat. 2236.)
 
 #### References in Text
 
-Sections 254b and 254c of this title, referred to in subsec. (e), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Sections 254b and 254c of this title, referred to in subsec. (e), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 Sections 256 and 256a of this title, referred to in subsec. (e), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 

@@ -28,7 +28,7 @@ Notwithstanding any other provision of this chapter, the following are permitted
 
 For the purposes of this section the term “postage stamp” includes postage meter stamps.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Sept. 2, 1958, Pub. L. 85–921, §1, 72 Stat. 1771; June 20, 1968, Pub. L. 90–353, §1, 82 Stat. 240; Oct. 14, 1970, Pub. L. 91–448, §2, 84 Stat. 921; July 18, 1984, Pub. L. 98–369, div. A, title X, §1077(b)(1), (2), 98 Stat. 1054; Oct. 28, 1992, Pub. L. 102–550, title XV, §1554, 106 Stat. 4071; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(e), (f)(3), 110 Stat. 3499.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 85–921, §1, Sept. 2, 1958, 72 Stat. 1771; Pub. L. 90–353, §1, June 20, 1968, 82 Stat. 240; Pub. L. 91–448, §2, Oct.14, 1970, 84 Stat. 921; Pub. L. 98–369, div. A, title X, §1077(b)(1), (2), July 18, 1984, 98 Stat. 1054; Pub. L. 102–550, title XV, §1554, Oct. 28, 1992, 106 Stat. 4071; Pub. L. 104–294, title VI, §601(e), (f)(3), Oct. 11, 1996, 110 Stat. 3499.)
 
 #### Historical and Revision Notes
 

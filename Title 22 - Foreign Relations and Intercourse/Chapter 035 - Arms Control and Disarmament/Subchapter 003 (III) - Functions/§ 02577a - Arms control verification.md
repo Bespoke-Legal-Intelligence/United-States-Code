@@ -26,3 +26,7 @@ The President should establish a working group—
 
 Section was enacted as part of the Arms Control and Disarmament Amendments Act of 1989, and not as part of the Arms Control and Disarmament Act which comprises this chapter.
 
+#### Transfer of Functions
+
+“Agency”, referred to in subsec. (b), meaning the United States Arms Control and Disarmament Agency, abolished and functions transferred to Secretary of State, see sections 6511 and 6512 of this title.
+

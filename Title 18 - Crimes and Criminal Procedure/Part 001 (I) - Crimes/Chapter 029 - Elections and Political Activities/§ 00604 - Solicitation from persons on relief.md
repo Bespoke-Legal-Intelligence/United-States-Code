@@ -2,7 +2,7 @@
 
 Whoever solicits or receives or is in any manner concerned in soliciting or receiving any assessment, subscription, or contribution for any political purpose from any person known by him to be entitled to, or receiving compensation, employment, or other benefit provided for or made possible by any Act of Congress appropriating funds for work relief or relief purposes, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 722; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

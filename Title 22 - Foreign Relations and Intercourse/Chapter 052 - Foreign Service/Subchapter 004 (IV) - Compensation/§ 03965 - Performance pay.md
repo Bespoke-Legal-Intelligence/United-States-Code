@@ -2,7 +2,7 @@
 
 #### (a) Eligibility; additional lump sum payment; excessive compensation not precluding award
 
-Members of the Senior Foreign Service who are serving—
+Subject to subsection (e) of this section, members of the Senior Foreign Service who are serving—
 
 &emsp;(1) under career or career candidate appointments, or
 
@@ -30,11 +30,21 @@ The Secretary shall determine the amount of performance pay available under subs
 
 #### (d) Recommendations for meritorious or distinguished service awards
 
-The President may grant awards of performance pay under subsection (b)(3) of this section on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
+The President may grant awards of performance pay under subsection (b)(3) of this section on the basis of annual recommendations by the Secretary of State of members of the SeniorForeign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
 
-(Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412.)
+#### (e) Recognition in lieu of award
+
+Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) of this section (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
+
+(Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, §504(a), Oct. 27, 1998, 112 Stat. 2811.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §2311(a)(1), substituted “Subject to subsection (e) of this section, members” for “Members” in introductory provisions.
+
+Subsec. (d). Pub. L. 105–292 inserted “Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section.” after first sentence.
+
+Subsec. (e). Pub. L. 105–277, §2311(a)(2), added subsec. (e).
 
 1994—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.”
 
@@ -55,6 +65,8 @@ Awards in Subsequent Fiscal Years.—The Secretary may not make a performance aw
 “(c)
 
 Application to USIA, AID, and ACDA.—Subsections (a) and (b) shall apply to the United States Information Agency, the Agency for International Development, and the United States Arms Control and Disarmament Agency in the same manner as such subsections apply to the Department of State, except that the Director of the United States Information Agency, the Administrator of the Agency for International Development, and the Director of the United States Arms Control and Disarmament Agency shall be subject to the limitations and authority of the Secretary of State under subsections (a) and (b) for their respective agencies.”
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title, and for abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 #### Review of Performance Pay Programs
 

@@ -56,7 +56,7 @@ The Secretary shall enter into contracts under the Program in accordance with su
 
 The Secretary shall by regulation provide for the limitation of a contractor's liability for actions taken to carry out a contract under the Program, and such regulation shall, to the extent the Secretary finds appropriate, employ the same or comparable standards and other substantive and procedural provisions as are contained in section 1320c–6 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Aug. 21, 1996, Pub. L. 104–191, title II, §202(a), 110 Stat. 1996.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 &emsp;(1) The Secretary's agreement—
 
-&emsp;&emsp;(A) to provide the participant with educational assistance as authorized in subchapter II, III, or V of this chapter and specified in the agreement; and
+&emsp;&emsp;(A) to provide the participant with educational assistance as authorized in subchapter II, III, V, or VI of this chapter and specified in the agreement; and
 
 &emsp;&emsp;(B) to afford the participant the opportunity for employment in the Veterans Health Administration (subject to the availability of appropriated funds for such purpose and other qualifications established in accordance with section 7402 of this title).
 
@@ -16,17 +16,19 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 &emsp;&emsp;(C) while enrolled in such course, to maintain an acceptable level of academic standing (as determined by the educational institution offering such course of training under regulations prescribed by the Secretary); and
 
-&emsp;&emsp;(D) after completion of the course of training, to serve as a full-time employee in the Veterans Health Administration as specified in the agreement in accordance with subchapter II, III, or V of this chapter.
+&emsp;&emsp;(D) after completion of the course of training, to serve as a full-time employee in the Veterans Health Administration as specified in the agreement in accordance with subchapter II, III, V, or VI of this chapter.
 
 &emsp;(3) A provision that any financial obligation of the United States arising out of an agreement entered into under this chapter, and any obligation of the participant which is conditioned on such agreement, is contingent upon funds being appropriated for educational assistance under this chapter.
 
 &emsp;(4) A statement of the damages to which the United States is entitled under this chapter for the participant's breach of the agreement.
 
-&emsp;(5) Such other terms as are required to be included in the agreement under subchapter II, III, or V of this chapter or as the Secretary may require consistent with the provisions of this chapter.
+&emsp;(5) Such other terms as are required to be included in the agreement under subchapter II, III, V, or VI of this chapter or as the Secretary may require consistent with the provisions of this chapter.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 519, §4304; amended Pub. L. 101–366, title II, §205(c)(3), Aug. 15, 1990, 104 Stat. 441; renumbered §7604 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(3), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), (e)(26), Nov. 2, 1994, 108 Stat. 4682, 4686.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 519, §4304; amended Pub. L. 101–366, title II, §205(c)(3), Aug. 15, 1990, 104 Stat. 441; renumbered §7604 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(3), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), (e)(26), Nov. 2, 1994, 108 Stat. 4682, 4686; Pub. L. 105–368, title VIII, §805(4), Nov. 11, 1998, 112 Stat. 3359.)
 
 #### Amendments
+
+1998—Pub. L. 105–368 substituted “subchapter II, III, V, or VI” for “subchapter II, III, or V” in pars. (1)(A), (2)(D), and (5).
 
 1994—Pub. L. 103–446, §1201(e)(26), substituted “subchapter II” for “subchapters II” in pars. (1)(A), (2)(D), and (5).
 
@@ -42,5 +44,5 @@ Pub. L. 102–40, §403(b)(3), substituted “7402” for “4105” in par. (1)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7603, 7612, 7622 of this title.
+This section is referred to in sections 7603, 7612, 7622, 7672 of this title.
 

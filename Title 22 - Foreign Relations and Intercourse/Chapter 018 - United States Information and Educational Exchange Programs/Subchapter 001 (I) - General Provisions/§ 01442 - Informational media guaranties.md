@@ -18,7 +18,7 @@ Foreign currencies available after June 30, 1955, from conversions made pursuant
 
 #### (e) Deposit of fees; availability
 
-Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this title, (1) fees collected forthe issuance of informational media guaranties shall be deposited in the special account and shall be available for payments under informational media guaranties; and (2) the Director may require the payment of a minimum charge of up to fifty dollars for issuance of guaranty contracts, or amendments thereto.
+Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this title, (1) fees collected for the issuance of informational media guaranties shall be deposited in the special account and shall be available for payments under informational media guaranties; and (2) the Director may require the payment of a minimum charge of up to fifty dollars for issuance of guaranty contracts, or amendments thereto.
 
 #### (f) Advance payments
 
@@ -36,15 +36,17 @@ As soon as feasible after July 18, 1956, all assets, liabilities, income, expens
 
 (3) Dollars appropriated pursuant to this section shall be applied to the payment of interest and in satisfaction of notes issued or assumed hereunder, and to the extent of such application to the principal of the notes, the Director is authorized to issue notes to the Secretary of the Treasury which will bear interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the guaranties. The currencies determined to be unavailable for, or in excess of, requirements of the United States as provided above shall be transferred to the Secretary of the Treasury to be held until disposed of, and any dollar proceeds realized from such disposition shall be deposited in miscellaneous receipts.
 
-(4) Section 1476(a) of this title shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
+(4) Section 1476(a) of this title <sup>1</sup> shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
 
-(Jan. 27, 1948, ch. 36, title X, §1011, as added Aug. 26, 1954, ch. 937, title V, §544(a), 68 Stat. 862; amended Aug. 26, 1954, ch. 937, title V, §544(g), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563, and amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, §502(i), June 30, 1958, 72 Stat. 274; Pub. L. 86–108, ch. VII, §701(c), July 24, 1959, 73 Stat. 257; 1977 Reorg. Plan No. 2, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §§303(b), 304(f), Aug. 24, 1982, 96 Stat. 291, 293.)
+(Jan. 27, 1948, ch. 36, title X, §1011, as added Aug. 26, 1954, ch. 937, title V, §544(a), 68 Stat. 862; amended Aug. 26, 1954, ch. 937, title V, §544(g), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563, and amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, §502(i), June 30, 1958, 72 Stat. 274; Pub. L. 86–108, ch. VII, §701(c), July 24, 1959, 73 Stat. 257; Pub. L. 97–241, title III, §304(f), Aug. 24, 1982, 96 Stat. 293.)
 
 #### References in Text
 
 Section 1933 of this title, referred to in subsecs. (a), (c), (e), and (g), was repealed by Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460. See section 2351 of this title.
 
 Section 1509 of this title, referred to in subsecs. (b) and (g), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(4), (6), (9), (10), (11), 68 Stat. 861. See section 1754 et seq. of this title.
+
+Section 1476(a) of this title, referred to in subsec. (h)(4), was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(1), Oct. 21, 1998, 112 Stat. 2681–790.
 
 #### Amendments
 
@@ -64,5 +66,5 @@ Section 544(a), (g) of act Aug. 26, 1954, cited as a credit to this section, was
 
 #### Transfer of Functions
 
-“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Director of the United States Information Agency”, pursuant to Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, and Director thereof, under this chapter, to Director of International Communication Agency except to extent that such functions were vested in President under sections 1452, 1456, and 1467 of this title.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 

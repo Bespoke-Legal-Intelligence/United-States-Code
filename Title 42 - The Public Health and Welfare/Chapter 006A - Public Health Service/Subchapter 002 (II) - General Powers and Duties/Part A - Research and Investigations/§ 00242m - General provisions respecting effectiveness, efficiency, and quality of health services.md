@@ -20,11 +20,11 @@
 
 (1) No grant or contract may be made under section 242b, 242k, or 242<i>l</i> of this title unless an application therefor has been submitted to the Secretary in such form and manner, and containing such information, as the Secretary may by regulation prescribe and unless a peer review group referred to in paragraph (2) has recommended the application for approval.
 
-(2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(n) <sup>1</sup> of this title, shall be submitted to a peer review group for an evaluation of the technical and scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
+(2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(m) of this title, shall be submitted to a peer review group for an evaluation of the technical and scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
 
-(B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, actingthrough the Director of the National Center for Health Statistics, in such form and manner as the Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
+(B) A peer review group to which an application is submitted pursuant to subparagraph (A) shall report its finding and recommendations respecting the application to the Secretary, acting through the Director of the National Center for Health Statistics, in such form and manner as the Secretary shall by regulation prescribe. The Secretary may not approve an application described in such subparagraph unless a peer review group has recommended the application for approval.
 
-(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(n) <sup>1</sup> of this title may include appropriately qualified such officers and employees.
+(C) The Secretary, acting through the Director of the National Center for Health Statistics, shall make appointments to the peer review groups required in subparagraph (A) from among persons who are not officers or employees of the United States and who possess appropriate technical and scientific qualifications, except that peer review groups regarding grants under section 242k(m) of this title may include appropriately qualified such officers and employees.
 
 #### (c) Development and dissemination of statistics
 
@@ -32,7 +32,7 @@ The Secretary shall take such action as may be necessary to assure that statisti
 
 #### (d) Information; publication restrictions
 
-No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 242b, 242k, or 242<i>l</i> of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose; and in the case of information obtained in the course of health statistical or epidemiological activities under section 242b or 242k of this title, such information may not be published or released in other form if the particular establishment or person supplying the information or described in it is identifiable unless such establishment or person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
+No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 242b, 242k, or 242<i>l</i> of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose; and in the case of information obtained in the course of health statistical or epidemiological activities under section 242b or 242k of this title, such information may not be published orreleased in other form if the particular establishment or person supplying the information or described in it is identifiable unless such establishment or person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 
 #### (e) Payment procedures; advances or reimbursement; installments; conditions; reductions
 
@@ -50,17 +50,15 @@ No information, if an establishment or person supplying the information or descr
 
 Contracts may be entered into under section 242b or 242k of this title without regard to section 3324 of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title III, §308, as added July 23, 1974, Pub. L. 93–353, title I, §107(a), 88 Stat. 368; amended Apr. 21, 1976, Pub. L. 94–273, §7(2), 90 Stat. 378; Aug. 1, 1977, Pub. L. 95–83, title I, §104, 91 Stat. 384; Nov. 9, 1978, Pub. L. 95–623, §§2, 6(d), 8(b), 92 Stat. 3443, 3451, 3455; Aug. 13, 1981, Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, 95 Stat. 564, 565, 567; Jan. 4, 1983, Pub. L. 97–414, §8(c), 96 Stat. 2060; Oct. 30, 1984, Pub. L. 98–551, §7, 98 Stat. 2820; Dec. 1, 1987, Pub. L. 100–177, title I, §§106(a), 107, 108, 101 Stat. 988–990; Nov. 18, 1988, Pub. L. 100–690, title II, §2612, 102 Stat. 4235; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(4), 103 Stat. 2206; Nov. 6, 1990, Pub. L. 101–527, §7(b)(2), (d), 104 Stat. 2328; Dec. 14, 1993, Pub. L. 103–183, title V, §501(c), 107 Stat. 2237.)
-
-#### References in Text
-
-Section 242k(n) of this title, referred to in subsec. (b)(2)(A), (C), was redesignated section 242k(m) of this title by Pub. L. 103–183, title V, §501(a)(5)(B), Dec. 14, 1993, 107 Stat. 2237.
+(July 1, 1944, ch. 373, title III, §308, as added Pub. L. 93–353, title I, §107(a), July 23, 1974, 88 Stat. 368; amended Pub. L. 94–273, §7(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–83, title I, §104, Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–623, §§2, 6(d), 8(b), Nov. 9, 1978, 92 Stat. 3443, 3451, 3455; Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, Aug. 13, 1981, 95 Stat. 564, 565, 567; Pub. L. 97–414, §8(c), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 98–551, §7, Oct. 30, 1984, 98 Stat. 2820; Pub. L. 100–177, title I, §§106(a), 107, 108, Dec. 1, 1987, 101 Stat. 988–990; Pub. L. 100–690, title II, §2612, Nov. 18, 1988, 102 Stat. 4235; Pub. L. 101–239, title VI, §6103(e)(4), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(b)(2), (d), Nov. 6, 1990, 104 Stat. 2328; Pub. L. 103–183, title V, §501(c), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 105–392, title IV, §401(d), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (e) of this section were contained in subsec. (a)(3) of section 304 of act July 1, 1944, ch. 373, title III, as added July 28, 1955, ch. 417, §3, 69 Stat. 382, and amended (formerly classified to section 242b(a)(3) of this title), prior to general amendment of section 304 by Pub. L. 93–353, §103.
 
 #### Amendments
+
+1998—Subsec. (b)(2)(A), (C). Pub. L. 105–392 substituted “242k(m)” for “242k(n)”.
 
 1993—Subsec. (a)(1). Pub. L. 103–183, §501(c)(1)(A), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “A report on—
 
@@ -72,7 +70,7 @@ Subsec. (a)(2). Pub. L. 103–183, §501(c)(1)(B), substituted “reports requir
 
 Subsec. (c). Pub. L. 103–183, §501(c)(2)(A)–(D), (3), redesignated subsec. (g)(2) as subsec. (c), substituted “shall take” for “shall (A) take” and “and shall publish” for “and (B) publish”, and struck out former subsec. (c) which read as follows: “The aggregate number of grants and contracts made or entered into under sections 242b and 242c of this title for any fiscal year respecting a particular means of delivery of health services or another particular aspect of health services may not exceed twenty; and the aggregate amount of funds obligated under grants and contracts under such sections for any fiscal year respecting a particular means of delivery of health services or another particular aspect of health services may not exceed $5,000,000.”
 
-Subsec. (f). Pub. L. 103–183, §501(c)(4), substituted “section 3324 of title 31 and section 5 of title 41” for“sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)”.
+Subsec. (f). Pub. L. 103–183, §501(c)(4), substituted “section 3324 of title 31 and section 5 of title 41” for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)”.
 
 Subsec. (g). Pub. L. 103–183, §501(c)(2)(B), (C), (E), redesignated par. (2) as subsec. (c) and struck out par. (1) which read as follows: “The Secretary shall—
 
@@ -126,7 +124,7 @@ Subsec. (h)(1). Pub. L. 101–239, §6103(e)(4)(H), substituted “effectuate th
 
 Subsec. (i). Pub. L. 101–239, §6103(e)(4)(I), struck out subsec. (i) which authorized appropriations for carrying out certain programs under sections 242b, 242c, 242k, and 242n of this title during fiscal years 1988 to 1990.
 
-1988—Subsec. (b)(2)(A). Pub. L. 100–690 inserted after first sentence “Each application for a grant, contract, or cooperative agreement in an amount exceeding $50,000 of direct costs for the dissemination of research findings or the development of research agendas (including conferences, workshops, and meetings) shall be submitted to a standing peer review group with personswith appropriate expertise and shall not be submitted to any peer review group established to review applications for research, evaluation, or demonstration projects.” and substituted “an application described in the first two sentences of this subparagraph” for “each such application” in last sentence.
+1988—Subsec. (b)(2)(A). Pub. L. 100–690 inserted after first sentence “Each application for a grant, contract, or cooperative agreement in an amount exceeding $50,000 of direct costs for the dissemination of research findings or the development of research agendas (including conferences, workshops, and meetings) shall be submitted to a standing peer review group with persons with appropriate expertise and shall not be submitted to any peer review group established to review applications for research, evaluation, or demonstration projects.” and substituted “an application described in the first two sentences of this subparagraph” for “each such application” in last sentence.
 
 1987—Subsec. (a)(1), (2). Pub. L. 100–177, §106(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
@@ -146,7 +144,7 @@ Subsec. (a)(3). Pub. L. 100–177, §106(a)(2), struck out “or (2)” after �
 
 Subsec. (b)(1). Pub. L. 100–177, §107(1), inserted “and unless a peer review group referred to in paragraph (2) has recommended the application for approval” before period at end.
 
-Subsec. (b)(2). Pub. L. 100–177, §107(2), added par. (2) and struck out former par. (2) which read as follows: “Each application submitted for a grant or contract under section 242b or 242c of this title, in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, shall be submitted by the Secretary for review for scientific merit to a panel of experts appointed by him from persons who are not officers or employees of the United States and who possess qualifications relevant to the project for which the application was made. A panel to which an application is submitted under this paragraph shall report its findings and recommendations respecting the application to the Secretary in such form and manner as the Secretary shall by regulation prescribe.”
+Subsec. (b)(2). Pub. L. 100–177, §107(2), added par. (2) and struck out former par. (2) which read as follows: “Each application submitted for a grant or contract under section 242b or 242c of this title, in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, shall besubmitted by the Secretary for review for scientific merit to a panel of experts appointed by him from persons who are not officers or employees of the United States and who possess qualifications relevant to the project for which the application was made. A panel to which an application is submitted under this paragraph shall report its findings and recommendations respecting the application to the Secretary in such form and manner as the Secretary shall by regulation prescribe.”
 
 Subsec. (i). Pub. L. 100–177, §108, amended subsec. (i) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for carrying out activities under sections 242b, 242c, 242k, and 242n of this title for former provisions authorizing appropriations for fiscal years 1975 to 1987 for carrying out activities under those sections.
 
@@ -184,6 +182,10 @@ Subsec. (i)(2). Pub. L. 95–83, §104(b), authorized appropriation of $33,600,0
 
 1976—Subsec. (a). Pub. L. 94–273 substituted “December” for “September” wherever appearing.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–392, title IV, §401(e), Nov. 13, 1998, 112 Stat. 3587, provided that: “This section \[amending this section and sections 247b–5, 247b–6, 247c, 285f–2, 300d–1 to 300d–3, 300d–13, 300d–32, 300k, and 300n–1 of this title\] is deemed to have taken effect immediately after the enactment of Public Law 103–183 \[Dec. 14, 1993\].”
+
 #### Effective Date of 1988 Amendment
 
 Section 2600 of Pub. L. 100–690 provided that: “Except as provided in section 2613(b)(1) \[42 U.S.C. 285m note\], the amendments made by this subtitle \[subtitle G (§§2600–2641) of title II of Pub. L. 100–690, enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a, 295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and section 393 of Title 21, Food and Drugs, enacting provisions set out as notes under section 285m of this title, amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under section 285m of this title\] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 \[Nov. 4, 1988\].”
@@ -194,7 +196,7 @@ Section 106(c) of Pub. L. 100–177 provided that: “The amendments made by sub
 
 #### Mine Workers Study; Report Completed and Submitted No Later Than 30 Months After November 9, 1978
 
-Section 10 of Pub. L. 95–623, as amended by S. Res. 30, Mar. 7, 1979; H. Res. 549, Mar. 25, 1980, required the Secretary, acting through the National Center for Health Services Research, to arrange for the conduct of a study to evaluate the impact upon the utilization of health services by and the health status of members of the United Mine Workers and their dependents as a result of changes in the United Mine Workers’ collective-bargaining agreements of Mar. 1978 with a report to be submitted to the Secretary and specific committees of the Senate and House of Representatives within 30 months after Nov. 9, 1978.
+Section 10 of Pub. L. 95–623, as amended by S. Res. 30, Mar. 7, 1979; H. Res. 549, Mar. 25, 1980, required the Secretary, acting through the National Center for Health Services Research, to arrange for the conduct of a study to evaluate the impact upon the utilization ofhealth services by and the health status of members of the United Mine Workers and their dependents as a result of changes in the United Mine Workers’ collective-bargaining agreements of Mar. 1978 with a report to be submitted to the Secretary and specific committees of the Senate and House of Representatives within 30 months after Nov. 9, 1978.
 
 #### Authorization of Appropriations for Fiscal Year Ending June 30, 1977
 
@@ -203,6 +205,4 @@ Section 107(b) of Pub. L. 93–353 provided that: “The authorizations of appro
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 242k, 242p of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

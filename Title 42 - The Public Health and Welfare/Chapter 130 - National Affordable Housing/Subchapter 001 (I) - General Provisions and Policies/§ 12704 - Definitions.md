@@ -92,7 +92,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;(25) The term “energy efficient mortgage” means a mortgage that provides financing incentives for the purchase of energy efficient homes, or that provides financing incentives to make energy efficiency improvements in existing homes by incorporating the cost of such improvements in the mortgage.
 
-(Pub. L. 101–625, title I, §104, Nov. 28, 1990, 104 Stat. 4085; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 101–230, §2, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–486, title I, §105(a), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, title II, §§211(a)(1), 217(a), 218, 219, title IX, §914(a), Oct. 28, 1992, 106 Stat. 3756, 3760, 3761, 3877; Pub. L. 103–233, title II, §201, Apr. 11, 1994, 108 Stat. 363.)
+(Pub. L. 101–625, title I, §104, Nov. 28, 1990, 104 Stat. 4085; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 101–230, §2, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–486, title I, §105(a), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, titleII, §§211(a)(1), 217(a), 218, 219, title IX, §914(a), Oct. 28, 1992, 106 Stat. 3756, 3760, 3761, 3877; Pub. L. 103–233, title II, §201, Apr. 11, 1994, 108 Stat. 363.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Section 223 of title II of Pub. L. 102–550 provided that: “The amendments ma
 
 #### Regulations
 
-Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[enacting section 12810 of this title, amending this section and sections 12705, 12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title, and enacting provisions set out as notes under this section and sections 12746, 12747, and 12750 of this title\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Suchregulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[enacting section 12810 of this title, amending this section and sections 12705, 12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title, and enacting provisions set out as notes under this section and sections 12746, 12747, and 12750 of this title\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 #### Transition Rule
 
@@ -144,7 +144,7 @@ Section 217(b) of Pub. L. 102–550 provided that: “For the purposes of determ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 11403g, 12773, 12896, 12902 of this title; title 12 section 4116.
+This section is referred to in sections 1437bbb–8, 1472, 11403g, 12773, 12896, 12902 of this title; title 12 section 4116.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(22)”.</i>
 

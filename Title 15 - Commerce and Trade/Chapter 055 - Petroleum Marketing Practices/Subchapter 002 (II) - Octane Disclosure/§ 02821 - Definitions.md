@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term “octane rating” means the rating of the antiknock characteristics of a grade or type of automotive fuel as determined by dividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under section 2823(c)(3) of this title, in which case such term means the rating of such characteristics as determined under the procedure so prescribed.
+&emsp;(1) The term “octane rating” means the rating of the antiknock characteristics of a grade or type of automotive fuel as determined bydividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under section 2823(c)(3) of this title, in which case such term means the rating of such characteristics as determined under the procedure so prescribed.
 
 &emsp;(2) The terms “research octane number” and “motor octane number” have the meanings given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled “Standard Specification for Automotive Spark-Ignition Engine Fuel” designated D4814 (as in effect on June 19, 1978) and, with respect to any grade or type of automotive gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700 (as in effect on such date).
 
@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;(10) The term “manufacturer” means any person who imports, manufactures, or assembles motor vehicles for sale.
 
-&emsp;(11) The term “automotive fuel requirement” means, with respect to automotive fuel for use in a motor vehicle or a class thereof,imported, manufactured, or assembled by a manufacturer, the minimum automotive fuel rating of such automotive fuel which such manufacturer recommends for the efficient operation of such motor vehicle, or a substantial portion of such class, without knocking.
+&emsp;(11) The term “automotive fuel requirement” means, with respect to automotive fuel for use in a motor vehicle or a class thereof, imported, manufactured, or assembled by a manufacturer, the minimum automotive fuel rating of such automotive fuel which such manufacturer recommends for the efficient operation of such motor vehicle, or a substantial portion of such class, without knocking.
 
 &emsp;(12) The term “model year” means a manufacturer's annual production period (as determined by the Federal Trade Commission) for motor vehicles or a class of motor vehicles. If a manufacturer has no annual production period, the term “model year” means the calendar year.
 

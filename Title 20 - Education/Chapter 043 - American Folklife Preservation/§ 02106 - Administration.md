@@ -10,7 +10,7 @@ In addition to any authority vested in it by other provisions of this chapter, t
 
 &emsp;(3) in the discretion of the Board of Trustees, receive (and use, sell, or otherwise dispose of, in accordance with clause (2)) money and other property donated, bequeathed, or devised to the Center with a condition or restriction, including a condition that the Center use other funds of the Center for the purpose of the gift;
 
-&emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that the Librarian of Congress may appoint and fix the compensation of a reasonable number of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center;
+&emsp;(4) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that the Librarian of Congress may appoint and fix the compensation of a reasonable number of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates;
 
 &emsp;(5) obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5;
 
@@ -22,9 +22,9 @@ In addition to any authority vested in it by other provisions of this chapter, t
 
 #### (b) Annual report to Congress
 
-The Director shall submit to the Librarian for inclusion in the annual report of the Library of Congress to the Congress an annual report of the operations of the Center under this chapter, which shall include a detailed statement of allprivate and public funds received and expended by it, and such recommendations as the Center deems appropriate.
+The Director shall submit to the Librarian for inclusion in the annual report of the Library of Congress to the Congress an annual report of the operations of the Center under this chapter, which shall include a detailed statement of all private and public funds received and expended by it, and such recommendations as the Center deems appropriate.
 
-(Pub. L. 94–201, §7, Jan. 2, 1976, 89 Stat. 1133.)
+(Pub. L. 94–201, §7, Jan. 2, 1976, 89 Stat. 1133; Pub. L. 105–275, §312(b)(2), Oct. 21, 1998, 112 Stat. 2459.)
 
 #### References in Text
 
@@ -33,4 +33,8 @@ The Federal property disposal statutes, referred to in subsec. (a)(2), are gener
 #### Codification
 
 In subsec. (a)(8), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Amendments
+
+1998—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end “, but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center”.
 

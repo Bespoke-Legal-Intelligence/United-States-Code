@@ -1,6 +1,6 @@
 ### §1075. Officers and certain enlisted members: subsistence charges
 
-When an officer or former officer of a uniformed service, or an enlisted member of a uniformed service entitled to basic allowance for subsistence, is hospitalized under section 1074 of this title, he shall pay an amount equal to thepart of the charge prescribed under section 1078 of this title that is attributable to subsistence. An enlisted member, or former enlisted member, of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may not be so charged.
+When an officer or former officer of a uniformed service, or an enlisted member of a uniformed service entitled to basic allowance for subsistence, is hospitalized under section 1074 of this title, he shall pay an amount equal to the part of the charge prescribed under section 1078 of this title that is attributable to subsistence. An enlisted member, or former enlisted member, of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may not be so charged.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 97–22, §10(b)(2), July 10, 1981, 95 Stat. 137.)
 

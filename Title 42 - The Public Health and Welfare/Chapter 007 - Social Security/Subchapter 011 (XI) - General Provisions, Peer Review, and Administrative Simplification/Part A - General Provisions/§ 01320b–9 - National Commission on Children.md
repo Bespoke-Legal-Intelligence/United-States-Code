@@ -36,7 +36,7 @@
 
 (2) The Commission (and any committees that it may form) shall conduct public hearings in different geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
 
-(3) The Commission shall receive testimony from individuals, and from representatives of public and private organizations and institutions with an interest in the welfare of children, including educators, health care professionals, religious leaders, providers of social services,representatives of organizations with children as members, elected and appointed public officials, and from parents and children speaking in their own behalf.
+(3) The Commission shall receive testimony from individuals, and from representatives of public and private organizations and institutions with an interest in the welfare of children,including educators, health care professionals, religious leaders, providers of social services, representatives of organizations with children as members, elected and appointed public officials, and from parents and children speaking in their own behalf.
 
 #### (d) Interim and final report to President and Congress; recommendations
 
@@ -180,7 +180,7 @@ There are authorized to be appropriated through fiscal year 1991, such sums as m
 
 The Commission is authorized to conduct such public surveys as it deems necessary in support of its review of national issues affecting children and, in conducting such surveys, the Commission shall not be deemed to be an “agency” for the purpose of section 3502 of title 44.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139, as added Dec. 22, 1987, Pub. L. 100–203, title IX, §9136, 101 Stat. 1330–316; amended Nov. 10, 1988, Pub. L. 100–647, title VIII, §8201, 102 Stat. 3798; June 30, 1989, Pub. L. 101–45, title IV, §409, 103 Stat. 130; Dec. 19, 1989, Pub. L. 101–239, title VI, §6221, 103 Stat. 2255; Nov. 5, 1990, Pub. L. 101–508, title IV, §4207(k)(6), formerly §4027(k)(6), title V, §5057, 104 Stat. 1388–125, 1388–230; Oct. 31, 1994, Pub. L. 103–432, title I, §160(d)(4), title II, §264(d), 108 Stat. 4444, 4468.)
+(Aug. 14, 1935, ch. 531, title XI, §1139, as added Pub. L. 100–203, title IX, §9136, Dec. 22, 1987, 101 Stat. 1330–316; amended Pub. L. 100–647, title VIII, §8201, Nov. 10, 1988, 102 Stat. 3798; Pub. L. 101–45, title IV, §409, June 30, 1989, 103 Stat. 130; Pub. L. 101–239, title VI, §6221, Dec. 19, 1989, 103 Stat. 2255; Pub. L. 101–508, title IV, §4207(k)(6), formerly §4027(k)(6), title V, §5057, Nov. 5, 1990, 104 Stat. 1388–125, 1388–230; Pub. L. 103–432, title I, §160(d)(4), title II, §264(d), Oct. 31, 1994, 108 Stat. 4444, 4468.)
 
 #### References in Text
 

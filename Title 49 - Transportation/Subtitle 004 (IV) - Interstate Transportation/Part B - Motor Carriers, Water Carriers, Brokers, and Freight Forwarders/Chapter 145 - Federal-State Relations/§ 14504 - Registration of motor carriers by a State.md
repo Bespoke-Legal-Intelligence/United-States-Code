@@ -34,7 +34,7 @@ Evidence of federal registration; proof of insurance; payment of fees.—Under t
 
 &emsp;&emsp;&emsp;(ii) to file satisfactory proof of required insurance or qualification as a self-insurer;
 
-&emsp;&emsp;&emsp;(iii) to pay directly to such State fee amounts in accordance with the fee system established under subparagraph (B)(iv)of this paragraph, subject to allocation of fee revenues among all States in which the carrier operates and which participate in the single State registration system; and
+&emsp;&emsp;&emsp;(iii) to pay directly to such State fee amounts in accordance with the fee system established under subparagraph (B)(iv) of this paragraph, subject to allocation of fee revenues among all States in which the carrier operates and which participate in the single State registration system; and
 
 &emsp;&emsp;&emsp;(iv) to file the name of a local agent for service of process.
 

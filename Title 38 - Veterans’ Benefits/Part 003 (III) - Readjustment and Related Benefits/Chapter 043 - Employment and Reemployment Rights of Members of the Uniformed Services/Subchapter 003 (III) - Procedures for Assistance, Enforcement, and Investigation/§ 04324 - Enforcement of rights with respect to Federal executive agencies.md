@@ -16,7 +16,7 @@
 
 &emsp;(4) has received a notification of a decision from the Special Counsel under subsection (a)(2)(B).
 
-(c)(1) The Merit Systems Protection Board shall adjudicate any complaint brought before the Board pursuant to subsection (a)(2)(A) or (b). A person who seeks a hearing or adjudication by submitting such a complaint under this paragraph may be represented at such hearing or adjudication in accordance with the rules of the Board.
+(c)(1) The Merit Systems Protection Board shall adjudicate any complaint brought before the Board pursuant to subsection (a)(2)(A) or (b), without regard as to whether the complaint accrued before, on, or after October 13, 1994. A person who seeks a hearing or adjudication by submitting such a complaint under this paragraph may be represented at such hearing or adjudication in accordance with the rules of the Board.
 
 (2) If the Board determines that a Federal executive agency or the Office of Personnel Management has not complied with the provisions of this chapter relating to the employment or reemployment of a person by the agency, the Board shall enter an order requiring the agency or Office to comply with such provisions and to compensate such person for any loss of wages or benefits suffered by such person by reason of such lack of compliance.
 
@@ -26,15 +26,17 @@
 
 (d)(1) A person adversely affected or aggrieved by a final order or decision of the Merit Systems Protection Board under subsection (c) may petition the United States Court of Appeals for the Federal Circuit to review the final order or decision. Such petition and review shall be in accordance with the procedures set forth in section 7703 of title 5.
 
-(2) Such person may be represented in the Federal Circuit proceeding by the Special Counselunless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
+(2) Such person may be represented in the Federal Circuit proceeding by the Special Counsel unless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336; Pub. L. 105–368, title II, §213(a), Nov. 11, 1998, 112 Stat. 3331.)
 
 #### Prior Provisions
 
 A prior section 4324 was renumbered section 7624 of this title.
 
 #### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–368 inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
 
 1996—Subsec. (a)(1). Pub. L. 104–275, §311(11)(A), struck out “of an unsuccessful effort to resolve a complaint relating to a Federal executive agency” after “notification pursuant to section 4322(e)”.
 
@@ -43,6 +45,10 @@ Subsec. (b). Pub. L. 104–275, §311(11)(B)(i), inserted “or the Office of Pe
 Subsec. (b)(1). Pub. L. 104–275, §311(11)(B)(ii), substituted “under section 4322(a)” for “regarding a complaint under section 4322(c)”.
 
 Subsec. (c)(2). Pub. L. 104–275, §311(11)(C), inserted “or the Office of Personnel Management” after “Federal executive agency” and substituted “Office to comply” for “employee to comply”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–368, title II, §213(b), Nov. 11, 1998, 112 Stat. 3332, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to complaints filed with the Merit Systems Protection Board on or after October 13, 1994.”
 
 #### Effective Date of 1996 Amendment
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(i) a report covering the period beginning January 1 and ending June 30, which shall be filed no later than July 31; and
 
-&emsp;&emsp;(ii) a report covering the period beginning July 1 and ending December 31, which shall be filed no later than January 31 of the following calendar year.
+&emsp;&emsp;(ii) a report covering the period beginning July 1 and ending December 31, which shallbe filed no later than January 31 of the following calendar year.
 
 (3) If the committee is the principal campaign committee of a candidate for the office of President—
 
@@ -58,7 +58,7 @@
 
 (8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waived if such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
 
-(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
+(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no morethan one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
 
 (10) The treasurer of a committee supporting a candidate for the office of Vice President (other than the nominee of a political party) shall file reports in accordance with paragraph (3).
 
@@ -110,7 +110,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(E) person who makes a loan to the reporting committee during the reporting period, together with the identification of any endorser or guarantor of such loan, and the date and amount or value of such loan;
 
-&emsp;&emsp;(F) person who provides a rebate, refund, or other offset to operating expenditures tothe reporting committee in an aggregate amount or value in excess of $200 within the calendar year, together with the date and amount of such receipt; and
+&emsp;&emsp;(F) person who provides a rebate, refund, or other offset to operating expenditures to the reporting committee in an aggregate amount or value in excess of $200 within the calendar year, together with the date and amount of such receipt; and
 
 &emsp;&emsp;(G) person who provides any dividend, interest, or other receipt to the reporting committee in an aggregate value or amount in excess of $200 within the calendar year, together with the date and amount of any such receipt;
 
@@ -186,7 +186,7 @@ Each report under this section shall disclose—
 
 &emsp;(C) the identification of each person who made a contribution in excess of $200 to the person filing such statement which was made for the purpose of furthering an independent expenditure.
 
-> Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be reported within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary or the Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved.
+> Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be reported within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary orthe Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved.
 
 (3) The Commission shall be responsible for expeditiously preparing indices which set forth, on a candidate-by-candidate basis, all independent expenditures separately, including those reported under subsection (b)(6)(B)(iii) of this section, made by or for each candidate, as reported under this subsection, and for periodically publishing such indices on a timely pre-election basis.
 
@@ -246,7 +246,7 @@ Amendment by section 3(b) of Pub. L. 104–79 applicable with respect to reports
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–187 effective Jan. 8, 1980, with subsec. (b) of this section applicable to authorized committees for President and Vice President in elections occurring after Jan. 1, 1981, see section 301 of Pub. L. 96–187, set out as a note under section 431 of this title.
+Amendment by Pub. L. 96–187 effective Jan. 8, 1980, with subsec. (b) of this section applicable to authorizedcommittees for President and Vice President in elections occurring after Jan. 1, 1981, see section 301 of Pub. L. 96–187, set out as a note under section 431 of this title.
 
 #### Effective Date of 1974 Amendment
 

@@ -16,7 +16,7 @@ As used in this subchapter:
 
 (4) The term “Drug Enforcement Administration” means the Drug Enforcement Administration in the Department of Justice.
 
-(5) The term “control” means to add a drug or other substance, or immediate precursor, to aschedule under part B of this subchapter, whether by transfer from another schedule or otherwise.
+(5) The term “control” means to add a drug or other substance, or immediate precursor, to a schedule under part B of this subchapter, whether by transfer from another schedule or otherwise.
 
 (6) The term “controlled substance” means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this subchapter. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in subtitle E of the Internal Revenue Code of 1986.
 
@@ -46,7 +46,7 @@ As used in this subchapter:
 
 (15) The term “manufacture” means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term “manufacturer” means a person who manufactures a drug or other substance.
 
-(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+(16) The term “marihuana” means all parts of the plant Cannabis sativa L., whether growingor not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
 
 (17) The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
@@ -108,7 +108,7 @@ As used in this subchapter:
 
 &emsp;(ii) which has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II; or
 
-&emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.
+&emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogeniceffect on the central nervous system of a controlled substance in schedule I or II.
 
 (B) Such term does not include—
 
@@ -396,7 +396,7 @@ Par. (39)(A)(iii). Pub. L. 103–200, §2(a)(6)(B), inserted “or any category 
 
 Par. (39)(A)(iv). Pub. L. 103–200, §2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
 
-Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in theillicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
+Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
 
 Par. (40). Pub. L. 103–200, §2(a)(7), substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
 
@@ -464,7 +464,7 @@ Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by 
 
 #### Effective Date of 1993 Amendment
 
-Section 11 of Pub. L. 103–200 provided that: “This Act \[enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 801 of this title\] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 17, 1993\].”
+Section 11 of Pub. L. 103–200 provided that: “This Act \[enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960,and 971 of this title, and enacting provisions set out as a note under section 801 of this title\] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act \[Dec. 17, 1993\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -602,5 +602,5 @@ Date of Issuance of Regulations.—The Attorney General shall issue regulations 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 957, 958, 967, 1115 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 22 sections 2291, 2714; title 23 section 410; title 25 section 4103; title 28 section 2901; title 29 sections 1111, 1854; title 42 sections 201, 1437d, 1437f, 1769, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302.
+This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 28 section 2901; title 29 sections 1111, 1854; title 42 sections 201, 1437a, 1437d, 1437f, 1769, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302.
 

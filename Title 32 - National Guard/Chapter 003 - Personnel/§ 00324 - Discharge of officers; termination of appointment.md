@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §77; restated June 15, 1933, ch. 87, §14; restated June 19, 1935, ch. 277, §4, 49 Stat. 391; July 9, 1952, ch. 608, §803 (11th par.), 66 Stat. 505.
 
-In subsection (a), the words “shall be discharged” are substituted for the words “shall thereupon cease to be a member thereof” since an official is required to give the officer a discharge certificate. The words “becomes 64 years of age” are substituted for the words “upon reaching the age of sixty-four years”. The words “his Federal recognition is withdrawn” are substituted forthe words “When Federal recognition is withdrawn \* \* \* as provided in section 115 of this title”.
+In subsection (a), the words “shall be discharged” are substituted for the words “shall thereupon cease to be a member thereof” since an official is required to give the officer a discharge certificate. The words “becomes 64 years of age” are substituted for the words “upon reaching the age of sixty-four years”. The words “his Federal recognition is withdrawn” are substituted for the words “When Federal recognition is withdrawn \* \* \* as provided in section 115 of this title”.
 
 In subsection (b), the words “Subject to subsection (a)” are inserted for clarity. The words “as provided by the laws” are substituted for the words “in such manner as \* \* \* shall provide by law”.
 

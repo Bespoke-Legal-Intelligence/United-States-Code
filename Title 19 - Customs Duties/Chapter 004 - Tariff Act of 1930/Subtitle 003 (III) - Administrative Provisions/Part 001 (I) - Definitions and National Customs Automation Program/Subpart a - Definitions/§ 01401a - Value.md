@@ -36,7 +36,7 @@
 
 > The price actually paid or payable for imported merchandise shall be increased by the amounts attributable to the items (and no others) described in subparagraphs (A) through (E) only to the extent that each such amount (i) is not otherwise included within the price actually paid or payable; and (ii) is based on sufficient information. If sufficient information is not available, for any reason, with respect to any amount referred to in the preceding sentence, the transaction value of the imported merchandise concerned shall be treated, for purposes of this section, as one that cannot be determined.
 
-(2)(A) The transaction value of imported merchandise determined under paragraph (1) shallbe the appraised value of that merchandise for the purposes of this chapter only if—
+(2)(A) The transaction value of imported merchandise determined under paragraph (1) shall be the appraised value of that merchandise for the purposes of this chapter only if—
 
 &emsp;(i) there are no restrictions on the disposition or use of the imported merchandise by the buyer other than restrictions that—
 
@@ -74,7 +74,7 @@
 
 &emsp;(A) Any reasonable cost or charge that is incurred for—
 
-&emsp;&emsp;(i) the construction, erection, assembly, or maintenance of, or the technical assistance provided with respect to, the merchandise after its importation into the United States; or
+&emsp;&emsp;(i) the construction, erection, assembly, or maintenance of, or the technical assistanceprovided with respect to, the merchandise after its importation into the United States; or
 
 &emsp;&emsp;(ii) the transportation of the merchandise after such importation.
 
@@ -118,7 +118,7 @@
 
 &emsp;(iii) the usual costs and associated costs of transportation and insurance incurred with respect to shipments of such merchandise from the place of importation to the place of delivery in the United States, if such costs are not included as a general expense under clause (i);
 
-&emsp;(iv) the customs duties and other Federal taxes currently payable on the merchandise concerned by reason of its importation, and any Federal excise tax on, or measured by the value of, such merchandise for which vendors in the United States are ordinarily liable; and
+&emsp;(iv) the customs duties and other Federal taxes currently payable on the merchandise concerned by reason of its importation, and any Federal excise tax on, or measured by thevalue of, such merchandise for which vendors in the United States are ordinarily liable; and
 
 &emsp;(v) (but only in the case of a price determined under paragraph (2)(A)(iii)) the value added by the processing of the merchandise after importation to the extent that the value is based on sufficient information relating to cost of such processing.
 
@@ -148,7 +148,7 @@
 
 &emsp;(A) the cost or value of materials under paragraph (1)(A) shall not include the amount of any internal tax imposed by the country of exportation that is directly applicable to the materials or their disposition if the tax is remitted or refunded upon the exportation of the merchandise in the production of which the materials were used; and
 
-&emsp;(B) the amount for profit and general expenses under paragraph (1)(B) shall be based upon the producer's profits and expenses, unless the producer's profits and expenses are inconsistent with those usually reflected in sales of merchandise of the same class or kind as the imported merchandise that are made by producers in the country of exportation for export to the United States, in which case the amount under paragraph (1)(B) shall be basedon the usual profit and general expenses of such producers in such sales, as determined from sufficient information.
+&emsp;(B) the amount for profit and general expenses under paragraph (1)(B) shall be based upon the producer's profits and expenses, unless the producer's profits and expenses are inconsistent with those usually reflected in sales of merchandise of the same class or kind as the imported merchandise that are made by producers in the country of exportation for export to the United States, in which case the amount under paragraph (1)(B) shall be based on the usual profit and general expenses of such producers in such sales, as determined from sufficient information.
 
 #### (f) Value if other values cannot be determined or used
 
@@ -286,7 +286,7 @@ As used in this section—
 
 > &emsp;means information that establishes the accuracy of such amount, difference, or adjustment.
 
-(June 17, 1930, ch. 497, title IV, §402, as added Aug. 2, 1956, ch. 887, §2(a), 70 Stat. 943; amended July 26, 1979, Pub. L. 96–39, title II, §201(a), 93 Stat. 194; Dec. 2, 1980, Pub. L. 96–490, §2, 94 Stat. 2556.)
+(June 17, 1930, ch. 497, title IV, §402, as added Aug. 2, 1956, ch. 887, §2(a), 70 Stat. 943; amended Pub. L. 96–39, title II, §201(a), July 26, 1979, 93 Stat. 194; Pub. L. 96–490, §2, Dec. 2, 1980, 94 Stat. 2556.)
 
 #### Amendments
 
@@ -320,7 +320,7 @@ Effective Date of Amendments.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this title \[amending the Tariff Schedules of the United States (see Publication of Tariff Schedules note under section 1202 of this title), sections 1332, 1336, 1351, 1401a, 1500, and 2481of this title, and section 993 of Title 26, Internal Revenue Code, repealing section 1402 of this title, and enacting provisions set out as notes under sections 1202, 1401a, and 2111 of this title\] (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect on—
+In general.—Except as provided in paragraph (2), the amendments made by this title \[amending the Tariff Schedules of the United States (see Publication of Tariff Schedules note under section 1202 of this title), sections 1332, 1336, 1351, 1401a, 1500, and 2481 of this title, and section 993 of Title 26, Internal Revenue Code, repealing section 1402 of this title, and enacting provisions set out as notes under sections 1202, 1401a, and 2111 of this title\] (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect on—
 
 &emsp;&emsp;“(A) January 1, 1981, if the Agreement enters into force with respect to the United States by that date; or
 
@@ -354,7 +354,7 @@ Special Treatment for Certain Rubber Footwear.—The amendments made by section 
 
 Definition.—For purposes of this section, the term ‘rubber footwear’ means articles described in item 700.60 of the Tariff Schedules of the United States (as in effect on the day before the day on which the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] take effect).”
 
-\[For Presidential proclamation specifying in accordance with subsec. (a)(2), above, that the amendments by title II of Pub. L. 96–39 are effective July 1, 1980, see sections 5(b) and 2(a) of Proc. No. 4768, June 28, 1980, 45 F.R. 45136, 45137, set out as a note under section 2111 of this title.\]
+\[For Presidential proclamation specifying in accordance with subsec. (a)(2), above, that the amendments bytitle II of Pub. L. 96–39 are effective July 1, 1980, see sections 5(b) and 2(a) of Proc. No. 4768, June 28, 1980, 45 F.R. 45136, 45137, set out as a note under section 2111 of this title.\]
 
 #### Effective Date
 

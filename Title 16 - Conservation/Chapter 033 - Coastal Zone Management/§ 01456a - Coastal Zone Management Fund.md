@@ -104,7 +104,7 @@ Amendment by section 2(b)(2) of Pub. L. 104–150 effective Oct. 1, 1999, see se
 
 #### Extension of Authority To Make Loans Under Subsection (d)(1)
 
-Pub. L. 99–626, §6, Nov. 7, 1986, 100 Stat. 3506, provided that: “The authority of the Secretary of Commerce to make loans under paragraph (1) of subsection (d) of section 308 of the Coastal Zone Management Act of 1972 (Public Law 92–583, 16 U.S.C. 1451, et seq.) as amended \[16 U.S.C. 1456a(d)(1)\], shall extend to September 30, 1987, for loans made to eligible States or units pursuant to and in accord with agreements entered into between the Secretary and any State prior to September 30, 1986, that provided for a total sum of loans to be made to that State or its units, but such loan authority shall be limited to $7,000,000.”
+Pub. L. 99–626, §6, Nov. 7, 1986, 100 Stat. 3506, provided that: “The authority of the Secretary of Commerce tomake loans under paragraph (1) of subsection (d) of section 308 of the Coastal Zone Management Act of 1972 (Public Law 92–583, 16 U.S.C. 1451, et seq.) as amended \[16 U.S.C. 1456a(d)(1)\], shall extend to September 30, 1987, for loans made to eligible States or units pursuant to and in accord with agreements entered into between the Secretary and any State prior to September 30, 1986, that provided for a total sum of loans to be made to that State or its units, but such loan authority shall be limited to $7,000,000.”
 
 #### Territorial Sea of United States
 

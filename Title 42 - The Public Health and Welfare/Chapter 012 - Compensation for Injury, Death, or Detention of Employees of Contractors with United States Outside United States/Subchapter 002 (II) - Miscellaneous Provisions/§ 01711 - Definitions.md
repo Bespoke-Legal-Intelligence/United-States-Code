@@ -24,7 +24,7 @@ When used in this chapter—
 
 (f) the <sup>1</sup> term “continental United States” means the States and the District of Columbia.
 
-(Dec. 2, 1942, ch. 668, title II, §201, 56 Stat. 1033; 1946 Reorg. Plan No. 2, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; June 30, 1953, ch. 176 §1, 67 Stat. 134; June 30, 1954, ch. 431, §1, 68 Stat. 336; June 30, 1955, ch. 257, §1, 69 Stat. 241; July 9, 1956, ch. 537, §1, 70 Stat. 519; June 29, 1957, Pub. L. 85–70, 71 Stat. 242; Aug. 8, 1958, Pub. L. 85–608, title I, §§103, 104, 72 Stat. 537; June 25, 1959, Pub. L. 86–70, §42(c), 73 Stat. 151.)
+(Dec. 2, 1942, ch. 668, title II, §201, 56 Stat. 1033; 1946 Reorg. Plan No. 2, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; June 30, 1953, ch. 176 §1, 67 Stat. 134; June 30, 1954, ch. 431, §1, 68 Stat. 336; June 30, 1955, ch. 257, §1, 69 Stat. 241; July 9, 1956, ch. 537, §1, 70 Stat. 519; Pub. L. 85–70, June 29, 1957, 71 Stat. 242; Pub. L. 85–608, title I, §§103, 104, Aug. 8, 1958, 72 Stat. 537; Pub. L. 86–70, §42(c), June 25, 1959, 73 Stat. 151.)
 
 #### Codification
 

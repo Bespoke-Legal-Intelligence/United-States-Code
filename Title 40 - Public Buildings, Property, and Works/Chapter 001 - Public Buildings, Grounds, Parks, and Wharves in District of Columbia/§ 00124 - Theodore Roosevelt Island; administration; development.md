@@ -20,5 +20,5 @@ Section is also set out in D.C. Code, §8–158.
 
 Functions of all other officers of Department of the Interior and functions of all agencies and employees of that Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Ex. Ord. No. 6166 abolished Office of Public Buildings and Parks of National Capital and transferred functions thereof to Office of National Parks, Buildings and Reservations of Department of the Interior. Act Mar. 2, 1934, changed name of latter Office to National Park Service.
+Ex. Ord. No. 6166 abolished Office of Public Buildings and Public Parks of National Capital and transferred functions thereof to Office of National Parks, Buildings and Reservations of Department of the Interior. Act Mar. 2, 1934, changed name of latter Office to National Park Service.
 

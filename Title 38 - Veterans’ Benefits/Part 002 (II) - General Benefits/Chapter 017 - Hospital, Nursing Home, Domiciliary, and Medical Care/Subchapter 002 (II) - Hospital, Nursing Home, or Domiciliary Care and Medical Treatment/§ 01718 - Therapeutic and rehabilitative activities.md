@@ -1,6 +1,6 @@
 ### §1718. Therapeutic and rehabilitative activities
 
-(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members inDepartment health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
+(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members in Department health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
 
 (b)(1) In furnishing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may enter into a contract or other arrangement with any appropriate source (whether or not an element of the Department of Veterans Affairs or of any other Federal entity) to provide for therapeutic work for patients and members in Department health care facilities.
 
@@ -28,7 +28,7 @@
 
 &emsp;(D) A veteran's receipt of payment as a result of participation in a program described in subparagraph (C).
 
-(3) A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
+(3) A distribution of funds made under this section and a payment made to a veteran undera program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
 (Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180.)
 

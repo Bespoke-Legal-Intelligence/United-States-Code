@@ -6,7 +6,7 @@ In the case of any individual who attains the age of 72 before 1969 but who does
 
 #### (b) Determination of entitlement to surviving spouse's benefits under section 402(e) or (f) of this title
 
-In the case of any individual who has died, who does not meet the requirements of section 414(a) of this title, and whose surviving spouse attains age 72 before 1969, the 6 quarters of coverage referred to in paragraph (3) of section 414(a) of this title and in paragraph (1) thereof shall, for purposes of determining the entitlement to surviving spouse's insurance benefits under section 402(e) or section 402(f) of this title, instead be—
+In the case of any individual who has died, who does not meet the requirements of section 414(a) of this title, and whose surviving spouse attains age 72 before 1969, the 6 quarters of coverage referred to in paragraph (3) of section414(a) of this title and in paragraph (1) thereof shall, for purposes of determining the entitlement to surviving spouse's insurance benefits under section 402(e) or section 402(f) of this title, instead be—
 
 &emsp;(1) 3 quarters of coverage if such surviving spouse attains the age of 72 in or before 1966,
 
@@ -20,7 +20,7 @@ In the case of any individual who has died, who does not meet the requirements o
 
 In the case of any individual who becomes, or upon filing application therefor would become, entitled to benefits under section 402(a) of this title by reason of the application of subsection (a) of this section, who dies, and whose surviving spouse attains the age of 72 before 1969, such deceased individual shall be deemed to meet the requirements of subsection (b) of this section for purposes of determining entitlement of such surviving spouse to surviving spouse's insurance benefits under section 402(e) or section 402(f) of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §227, as added July 30, 1965, Pub. L. 89–97, title III, §309(a), 79 Stat. 379; amended Jan. 2, 1968, Pub. L. 90–248, title I, §102(a), 81 Stat. 827; Dec. 30, 1969, Pub. L. 91–172, title X, §1003(a), 83 Stat. 740; Mar. 17, 1971, Pub. L. 92–5, title II, §202(a), 85 Stat. 10; July 1, 1972, Pub. L. 92–336, title II, §201(g)(1), 86 Stat. 411; Oct. 30, 1972, Pub. L. 92–603, title I, §104 (e), (f), 86 Stat. 1340; Dec. 31, 1973, Pub. L. 93–233, §2(b)(1), 87 Stat. 952; Apr. 20, 1983, Pub. L. 98–21, title III, §304(a), (b), 97 Stat. 112.)
+(Aug. 14, 1935, ch. 531, title II, §227, as added Pub. L. 89–97, title III, §309(a), July 30, 1965, 79 Stat. 379; amended Pub. L. 90–248, title I, §102(a), Jan. 2, 1968, 81 Stat. 827; Pub. L. 91–172, title X, §1003(a), Dec. 30, 1969, 83 Stat. 740; Pub. L. 92–5, title II, §202(a), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §201(g)(1), July 1, 1972, 86 Stat. 411; Pub. L. 92–603, title I, §104 (e), (f), Oct. 30, 1972, 86 Stat. 1340; Pub. L. 93–233, §2(b)(1), Dec. 31, 1973, 87 Stat. 952; Pub. L. 98–21, title III, §304(a), (b), Apr. 20, 1983, 97 Stat. 112.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Section 1003(c) of Pub. L. 91–172 provided that: “The amendments made by sub
 
 #### Effective Date of 1968 Amendment
 
-Section 102(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.”
+Section 102(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 428 of this title\] shall apply with respect to monthly benefits under title II of the Social Security Act \[this subchapter\] for months after January 1968.”
 
 #### Effective Date
 

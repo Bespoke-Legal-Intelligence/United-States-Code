@@ -12,7 +12,7 @@ It shall be the ethical obligation of any attorney who is consulted by an indivi
 
 The Secretary shall undertake reasonable efforts to inform the public of the availability of the Program.
 
-(July 1, 1944, ch. 373, title XXI, §2110, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3758; amended Dec. 19, 1989, Pub. L. 101–239, title VI, §6601(b), 103 Stat. 2285.)
+(July 1, 1944, ch. 373, title XXI, §2110, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 101–239, title VI, §6601(b), Dec. 19, 1989, 103 Stat. 2285.)
 
 #### Prior Provisions
 

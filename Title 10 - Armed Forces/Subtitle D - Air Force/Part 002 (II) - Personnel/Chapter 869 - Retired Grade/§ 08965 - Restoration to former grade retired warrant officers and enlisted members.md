@@ -2,7 +2,7 @@
 
 Each retired warrant officer or enlisted member of the Air Force who has been advanced on the retired list to a higher commissioned grade under section 8964 of this title, and who applies to the Secretary of the Air Force within three months after his advancement, shall, if the Secretary approves, be restored on the retired list to his former warrant-officer or enlisted status, as the case may be.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 555; Dec. 4, 1987, Pub. L. 100–180, div. A, title V, §512(d)(3), 101 Stat. 1090; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(i)(2)(A), 102 Stat. 2058.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 555; Pub. L. 100–180, div. A, title V, §512(d)(3), Dec. 4, 1987, 101 Stat. 1090; Pub. L. 100–456, div. A, title XII, §1233(i)(2)(A), Sept. 29, 1988, 102 Stat. 2058.)
 
 Historical and Revision Notes
 

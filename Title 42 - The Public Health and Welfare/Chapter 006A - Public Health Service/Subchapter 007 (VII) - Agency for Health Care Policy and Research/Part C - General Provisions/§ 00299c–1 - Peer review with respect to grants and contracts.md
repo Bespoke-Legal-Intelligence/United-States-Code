@@ -8,7 +8,7 @@
 
 #### (2) Reports to Administrator
 
-&emsp;Each peer review group to which an application is submitted pursuant to paragraph (1) shall report its finding and recommendations respecting the application to the Administrator in such form and in such manner as the Administrator shall require.
+&emsp;Each peer review group to which an application is submitted pursuant to paragraph (1) shall report its finding and recommendationsrespecting the application to the Administrator in such form and in such manner as the Administrator shall require.
 
 #### (b) Approval as precondition of awards
 
@@ -46,7 +46,7 @@ The Administrator may not approve an application described in subsection (a)(1) 
 
 The Secretary shall issue regulations for the conduct of peer review under this section.
 
-(July 1, 1944, ch. 373, title IX, §922, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2201; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §4118(f)(2)(F), 104 Stat. 1388–70; Oct. 13, 1992, Pub. L. 102–410, §5(d), 106 Stat. 2098.)
+(July 1, 1944, ch. 373, title IX, §922, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2201; amended Pub. L. 101–508, title IV, §4118(f)(2)(F), Nov. 5, 1990, 104 Stat. 1388–70; Pub. L. 102–410, §5(d), Oct. 13, 1992, 106 Stat. 2098.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (c)(
 
 Subsec. (d)(1). Pub. L. 102–410, §5(d)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “With respect to technical and scientific peer review under this section, such review of applications with respect to research, demonstration projects, or evaluations (other than of dissemination activities) shall be conducted by different peer review groups than the peer review groups that conduct such review of applications with respect to research, demonstration projects, or evaluations of dissemination activities or the development of research agendas (including conferences, workshops, and meetings).”
 
-1990—Subsec. (d)(1). Pub. L. 101–508 inserted “(other than of dissemination activities)” after “evaluations”and “research, demonstration projects, or evaluations of” after “applications with respect to”, the latter being executed by inserting such words after the second reference to “applications with respect to” to reflect the probable intent of Congress.
+1990—Subsec. (d)(1). Pub. L. 101–508 inserted “(other than of dissemination activities)” after “evaluations” and “research, demonstration projects, or evaluations of” after “applications with respect to”, the latter being executed by inserting such words after the second reference to “applications with respect to” to reflect the probable intent of Congress.
 
 #### Effective Date of 1990 Amendment
 

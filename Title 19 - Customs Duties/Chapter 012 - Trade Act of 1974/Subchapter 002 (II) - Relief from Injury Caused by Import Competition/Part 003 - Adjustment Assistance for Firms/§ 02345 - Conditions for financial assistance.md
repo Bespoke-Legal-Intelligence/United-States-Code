@@ -102,7 +102,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(D) “equity capital” means, with respect to the recipient corporation, the sum of its money and other property (in an amount equal to the adjusted basis of such property but disregarding adjustments made on account of depreciation or amortization made during the period described in paragraph (3)(D)), less the amount of its indebtedness.
 
-(Pub. L. 93–618, title II, §255, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, §2523, Aug. 13, 1981, 95 Stat. 891; Pub. L. 98–120, §4(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 93–618, title II, §255, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, §2523, Aug. 13,1981, 95 Stat. 891; Pub. L. 98–120, §4(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### Termination of Section
 
@@ -112,7 +112,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 The Small Business Act, referred to in subsec. (d)(1), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (i)(5)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (i)(5)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Codification
 

@@ -102,7 +102,7 @@ For the purposes of this Agreement:
 
 (f) Iceland and the Faroe Islands.”
 
-12\. Consultation on Agreement: Either government shall be entitled to approach the other for a reconsideration of any of the provisions of this Agreement, if inits opinion the prevailing conditions of international exchange justify such reconsideration, with a view to agreeing upon modifications for presentation to their respective legislatures.
+12\. Consultation on Agreement: Either government shall be entitled to approach the other for a reconsideration of any of the provisions of this Agreement, if in its opinion the prevailing conditions of international exchange justify such reconsideration, with a view to agreeing upon modifications for presentation to their respective legislatures.
 
 Signed in duplicate at Washington, District of Columbia this 6th day of December, 1945.
 

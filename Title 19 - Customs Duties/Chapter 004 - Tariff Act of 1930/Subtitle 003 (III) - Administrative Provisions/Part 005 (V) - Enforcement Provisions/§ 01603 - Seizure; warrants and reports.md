@@ -4,7 +4,7 @@
 
 (b) Whenever a seizure of merchandise for violation of the customs laws is made, or a violation of the customs laws is discovered, and legal proceedings by the United States attorney in connection with such seizure or discovery are required, it shall be the duty of the appropriate customs officer to report promptly such seizure or violation to the United States attorney for the district in which such violation has occurred, or in which such seizure was made, and to include in such report a statement of all the facts and circumstances of the case within his knowledge, with the names of the witnesses and a citation to the statute or statutes believed to have been violated, and on which reliance may be had for forfeiture or conviction.
 
-(June 17, 1930, ch. 497, title IV, §603, 46 Stat. 754; June 25, 1938, ch. 679, §27, 52 Stat. 1089; June 2,1970, Pub. L. 91–271, title III, §301(aa), 84 Stat. 291; Oct. 3, 1978, Pub. L. 95–410, title I, §110(b), 92 Stat. 896; Nov. 18, 1988, Pub. L. 100–690, title VII, §7365, 102 Stat. 4478.)
+(June 17, 1930, ch. 497, title IV, §603, 46 Stat. 754; June 25, 1938, ch. 679, §27, 52 Stat. 1089; Pub. L. 91–271, title III, §301(aa), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §110(b), Oct. 3, 1978, 92 Stat. 896; Pub. L. 100–690, title VII, §7365, Nov. 18, 1988, 102 Stat. 4478.)
 
 #### References in Text
 

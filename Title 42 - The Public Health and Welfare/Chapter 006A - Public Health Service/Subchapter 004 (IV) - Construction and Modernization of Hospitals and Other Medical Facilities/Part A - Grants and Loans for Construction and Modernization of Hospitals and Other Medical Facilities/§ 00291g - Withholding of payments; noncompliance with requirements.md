@@ -18,7 +18,7 @@ Whenever the Surgeon General, after reasonable notice and opportunity for hearin
 
 > as the Surgeon General may determine to be appropriate under the circumstances; and, except with regard to any project for which the application has already been approved and which is not directly affected, further payments may be withheld, in whole or in part, until there is no longer any failure to comply (or carry out the assurance or plans and specifications or provide adequate State funds, as the case may be) or, if such compliance (or other action) is impossible, until the State repays or arranges for the repayment of Federal moneys to which the recipient was not entitled.
 
-(July 1, 1944, ch. 373, title VI, §607, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 455.)
+(July 1, 1944, ch. 373, title VI, §607, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 455.)
 
 #### Prior Provisions
 

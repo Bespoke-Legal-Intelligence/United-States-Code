@@ -8,7 +8,7 @@ The provisions of this chapter shall not apply to—
 
 &emsp;&emsp;(A) has been held in the United States for a period of not less than three consecutive years by a recognized museum or religious or secular monument or similar institution, and was purchased by that institution for value, in good faith, and without notice that such material or article was imported in violation of this chapter, but only if—
 
-&emsp;&emsp;&emsp;(i) the acquisition of such material or article has been reported in a publication ofsuch institution, any regularly published newspaper or periodical with a circulation of at least fifty thousand, or a periodical or exhibition catalog which is concerned with the type of article or materials sought to be exempted from this chapter,
+&emsp;&emsp;&emsp;(i) the acquisition of such material or article has been reported in a publication of such institution, any regularly published newspaper or periodical with a circulation of at least fifty thousand, or a periodical or exhibition catalog which is concerned with the type of article or materials sought to be exempted from this chapter,
 
 &emsp;&emsp;&emsp;(ii) such material or article has been exhibited to the public for a period or periods aggregating at least one year during such three-year period, or
 

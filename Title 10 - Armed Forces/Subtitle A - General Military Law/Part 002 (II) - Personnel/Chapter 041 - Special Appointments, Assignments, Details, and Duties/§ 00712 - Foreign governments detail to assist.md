@@ -10,7 +10,7 @@
 
 (b) Subject to the prior approval of the Secretary of the military department concerned, a member detailed under this section may accept any office from the country to which he is detailed. He is entitled to credit for all service while so detailed, as if serving with the armed forces of the United States. Arrangements may be made by the President, with countries to which such members are detailed to perform functions under this section, for reimbursement to the United States or other sharing of the cost of performing such functions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 32; June 30, 1958, Pub. L. 85–477, ch. V, §502(k), 72 Stat. 275.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 32; Pub. L. 85–477, ch. V, §502(k), June 30, 1958, 72 Stat. 275.)
 
 Historical and Revision Notes
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) the Arctic is a natural laboratory for research into human health and adaptation, physical and psychological, to climates of extreme cold and isolation and may provide information crucial for future defense needs;
 
-&emsp;(7) atmospheric conditions peculiar to the Arctic make the Arctic a unique testing ground for research into high latitude communications, which is likely to be crucial for future defense needs;
+&emsp;(7) atmospheric conditions peculiar to the Arctic make the Arctic a unique testingground for research into high latitude communications, which is likely to be crucial for future defense needs;
 
 &emsp;(8) Arctic marine technology is critical to cost-effective recovery and transportation of energy resources and to the national defense;
 

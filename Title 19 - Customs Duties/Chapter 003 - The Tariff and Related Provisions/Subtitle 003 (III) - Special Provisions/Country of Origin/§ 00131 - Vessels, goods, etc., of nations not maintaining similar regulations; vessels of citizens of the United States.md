@@ -2,7 +2,7 @@
 
 Section 130 of this title shall not apply to vessels or goods, wares, or merchandise imported in vessels of a foreign nation which does not maintain a similar regulation against United States documented vessels nor to any vessel owned by citizens of the United States but not a vessel of the United States if such vessel after entering an American port shall, before leaving the same, be documented under chapter 121 of title 46.
 
-(Oct. 3, 1913, ch. 16, §IV, J, subsec. 3, 38 Stat. 196; Mar. 4, 1915, ch. 171, §1, 38 Stat. 1193; June 17, 1930, ch. 497, title IV, §651(d), 46 Stat. 763; Dec. 8, 1993, Pub. L. 103–182, title VI, §689(a)(2), 107 Stat. 2222.)
+(Oct. 3, 1913, ch. 16, §IV, J, subsec. 3, 38 Stat. 196; Mar. 4, 1915, ch. 171, §1, 38 Stat. 1193; June 17, 1930, ch. 497, title IV, §651(d), 46 Stat. 763; Pub. L. 103–182, title VI, §689(a)(2), Dec. 8, 1993, 107 Stat. 2222.)
 
 #### Codification
 

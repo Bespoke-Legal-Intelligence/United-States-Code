@@ -22,7 +22,7 @@
 
 &emsp;(B) a person furnishing cars or protective service against heat or cold to a rail carrier to file reports with the Secretary containing answers to questions about those cars or service.
 
-(c) The Secretary, or an employee designated by the Secretary, may on demand and display of proper credentials—
+(c) The Secretary, or an employee (and, in the case of a motor carrier, a contractor) designated by the Secretary, may on demand and display of proper credentials—
 
 &emsp;(1) inspect the equipment of a carrier or lessor; and
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) a carrier, lessor, or association;
 
-&emsp;&emsp;(B) a person controlling, controlled by, or under common control with a carrier, if the Secretary considers inspection relevant to that person's relation to, or transaction with, that carrier; and
+&emsp;&emsp;(B) a person controlling, controlled by, or under common control with a carrier, if theSecretary considers inspection relevant to that person's relation to, or transaction with, that carrier; and
 
 &emsp;&emsp;(C) a person furnishing cars or protective service against heat or cold to or for a rail carrier if the Secretary prescribed the form of that record.
 
@@ -42,7 +42,7 @@
 
 (f) No part of a report of an accident occurring in operations of a motor carrier, motor carrier of migrant workers, or motor private carrier and required by the Secretary, and no part of a report of an investigation of the accident made by the Secretary, may be admitted into evidence or used in a civil action for damages related to a matter mentioned in the report or investigation.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2433.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2433; Pub. L. 105–178, title IV, §4006(b), June 9, 1998, 112 Stat. 401.)
 
 Historical and Revision Notes
 
@@ -108,7 +108,11 @@ In subsection (a), references to “water line” and “pipe line” are omitte
 
 In subsection (f), the words “the course of the” are omitted as surplus. The words “civil action” are substituted for “suit or action” because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–178 inserted “(and, in the case of a motor carrier, a contractor)” after “employee” in introductory provisions.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 505, 521, 522, 523, 14303, 31136 of this title.
+This section is referred to in sections 505, 521, 522, 523, 14303 of this title.
 

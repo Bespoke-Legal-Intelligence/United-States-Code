@@ -20,7 +20,7 @@ The Commissioner of Patents and Trademarks shall notify the Commission of all ap
 
 Reports filed pursuant to subsection (c) of this section, and applications to which access is provided under subsection (d) of this section, shall be kept in confidence by the Commission, and no information concerning the same given without authority of the inventor or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commission.
 
-(Aug. 1, 1946, ch. 724, title I, §151, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 943; amended Sept. 6, 1961, Pub. L. 87–206, §§7–9, 75 Stat. 477; Jan. 2, 1975, Pub. L. 93–596, §3, 88 Stat. 1949; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §151, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 943; amended Pub. L. 87–206, §§7–9, Sept. 6, 1961, 75 Stat. 477; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

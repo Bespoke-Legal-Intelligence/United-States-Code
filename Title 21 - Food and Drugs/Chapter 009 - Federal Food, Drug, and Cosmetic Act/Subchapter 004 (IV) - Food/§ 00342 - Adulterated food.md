@@ -22,7 +22,7 @@ If it is confectionery, and—
 
 &emsp;(2) bears or contains any alcohol other than alcohol not in excess of one-half of 1 per centum by volume derived solely from the use of flavoring extracts, except that this clause shall not apply to confectionery which is introduced or delivered for introduction into, or received or held for sale in, interstate commerce if the sale of such confectionery is permitted under the laws of the State in which such confectionery is intended to be offered for sale;
 
-&emsp;(3) bears or contains any nonnutritive substance, except that this subparagraph shallnot apply to a safe nonnutritive substance which is in or on confectionery by reason of its use for some practical functional purpose in the manufacture, packaging, or storage of such confectionery if the use of the substance does not promote deception of the consumer or otherwise result in adulteration or misbranding in violation of any provision of this chapter, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph, issue regulations allowing or prohibiting the use of particular nonnutritive substances.
+&emsp;(3) bears or contains any nonnutritive substance, except that this subparagraph shall not apply to a safe nonnutritive substance which is in or on confectionery by reason of its use for some practical functional purpose in the manufacture, packaging, or storage of such confectionery if the use of the substance does not promote deception of the consumer or otherwise result in adulteration or misbranding in violation of any provision of this chapter, except that the Secretary may, for the purpose of avoiding or resolving uncertainty as to the application of this subparagraph, issue regulations allowing or prohibiting the use of particular nonnutritive substances.
 
 #### (e) Oleomargarine containing filthy, putrid, etc., matter
 
@@ -110,7 +110,7 @@ Effective date of par. (a)(2) as in force prior to July 22, 1954, with respect t
 
 Section 6 of Pub. L. 85–929, as amended by Pub. L. 87–19, §2, Apr. 7, 1961, 75 Stat. 42; Pub. L. 88–625, §2, Oct. 3, 1964, 78 Stat. 1002, provided that:
 
-“(a) Except as provided in subsections (b) and (c) of this section, this Act \[amending this section, sections 321, 331, 346, and 348 of this title, and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 451 of this title\] shall take effect on the date of its enactment \[Sept. 6, 1958\].
+“(a) Except as provided in subsections (b) and (c) of this section, this Act \[amending this section, sections321, 331, 346, and 348 of this title, and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 451 of this title\] shall take effect on the date of its enactment \[Sept. 6, 1958\].
 
 “(b) Except as provided in subsection (c) of this section, section 3 of this Act \[amending this section and section 346 of this title\] shall take effect on the one hundred and eightieth day after the date of enactment of this Act \[Sept. 6, 1958\].
 

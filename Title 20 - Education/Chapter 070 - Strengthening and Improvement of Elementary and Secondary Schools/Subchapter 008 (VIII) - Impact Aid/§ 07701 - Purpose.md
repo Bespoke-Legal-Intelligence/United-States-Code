@@ -18,5 +18,5 @@ In order to fulfill the Federal responsibility to assist with the provision of e
 
 #### Effective Date
 
-Subchapter effective Oct. 20, 1994, except that provisions that apply to programs under this subchapter, and to programs that are conducted on a competitive basis, effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years, see section 3(a)(1) of Pub. L. 103–382 set out as a note under section 6301 of this title.
+Subchapter effective Oct. 20, 1994, except that provisions that apply to programs under this subchapter, and to programs that are conducted on a competitivebasis, effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years, see section 3(a)(1) of Pub. L. 103–382 set out as a note under section 6301 of this title.
 

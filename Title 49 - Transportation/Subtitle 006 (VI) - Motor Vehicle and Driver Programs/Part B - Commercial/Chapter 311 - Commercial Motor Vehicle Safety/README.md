@@ -1,17 +1,18 @@
 ### <b>CHAPTER 311—COMMERCIAL MOTOR VEHICLE SAFETY</b>
 
-#### SUBCHAPTER I—STATE GRANTS
+#### SUBCHAPTER I—STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS
 
 | Sec. |  |
 | :--- | ---: |
-| [31101\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031101%20-%20Definitions.md) | Definitions. |
-| [31102\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031102%20-%20Grants%20to%20States.md) | Grants to States. |
-| [31103\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031103%20-%20United%20States%20Government%27s%20share%20of%20costs.md) | United States Government's share of costs. |
-| [31104\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031104%20-%20Availability%20of%20amounts.md) | Availability of amounts. |
-| [31105\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031105%20-%20Employee%20protections.md) | Employee protections. |
-| [31106\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031106%20-%20Commercial%20motor%20vehicle%20information%20system%20program.md) | Commercial motor vehicle information system program. |
-| [31107\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031107%20-%20Truck%20and%20bus%20accident%20grant%20program.md) | Truck and bus accident grant program. |
-| [31108\.](Subchapter%20001%20%28I%29%20-%20State%20Grants/%C2%A7%2031108%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [31100\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031100%20-%20Purpose.md) | Purpose. |
+| [31101\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031101%20-%20Definitions.md) | Definitions. |
+| [31102\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031102%20-%20Grants%20to%20States.md) | Grants to States. |
+| [31103\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031103%20-%20United%20States%20Government%27s%20share%20of%20costs.md) | United States Government's share of costs. |
+| [31104\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031104%20-%20Availability%20of%20amounts.md) | Availability of amounts. |
+| [31105\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031105%20-%20Employee%20protections.md) | Employee protections. |
+| [31106\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031106%20-%20Information%20systems.md) | Information systems. |
+| [31107\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031107%20-%20Contract%20authority%20funding%20for%20information%20systems.md) | Contract authority funding for information systems. |
+| [31108\.](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/%C2%A7%2031108%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,13 +35,13 @@
 | [31131\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031131%20-%20Purposes%20and%20findings.md) | Purposes and findings. |
 | [31132\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031132%20-%20Definitions.md) | Definitions. |
 | [31133\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031133%20-%20General%20powers%20of%20the%20Secretary%20of%20Transportation.md) | General powers of the Secretary of Transportation. |
-| [31134\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031134%20-%20Commercial%20Motor%20Vehicle%20Safety%20Regulatory%20Review%20Panel.md) | Commercial Motor Vehicle Safety Regulatory Review Panel. |
+| \[31134. | Repealed.\] |
 | [31135\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031135%20-%20Duties%20of%20employers%20and%20employees.md) | Duties of employers and employees. |
 | [31136\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031136%20-%20United%20States%20Government%20regulations.md) | United States Government regulations. |
 | [31137\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031137%20-%20Monitoring%20device%20and%20brake%20maintenance%20regulations.md) | Monitoring device and brake maintenance regulations. |
 | [31138\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031138%20-%20Minimum%20financial%20responsibility%20for%20transporting%20passengers.md) | Minimum financial responsibility for transporting passengers. |
 | [31139\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031139%20-%20Minimum%20financial%20responsibility%20for%20transporting%20property.md) | Minimum financial responsibility for transporting property. |
-| [31140\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031140%20-%20Submission%20of%20State%20laws%20and%20regulations%20for%20review.md) | Submission of State laws and regulations for review. |
+| \[31140. | Repealed.\] |
 | [31141\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031141%20-%20Review%20and%20preemption%20of%20State%20laws%20and%20regulations.md) | Review and preemption of State laws and regulations. |
 | [31142\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031142%20-%20Inspection%20of%20vehicles.md) | Inspection of vehicles. |
 | [31143\.](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/%C2%A7%2031143%20-%20Investigating%20complaints%20and%20protecting%20complainants.md) | Investigating complaints and protecting complainants. |
@@ -51,21 +52,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IV—MISCELLANEOUS
+#### \[SUBCHAPTER IV—REPEALED\]
 
-|  |  |
-| :--- | ---: |
-| [31161\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2031161%20-%20Procedures%20to%20ensure%20timely%20correction%20of%20safety%20violations.md) | Procedures to ensure timely correction of safety violations. |
-| [31162\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2031162%20-%20Compliance%20review%20priority.md) | Compliance review priority. |
+|  |
+| :--- |
+| \[31161, 31162. Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1998—Pub. L. 105–178, title IV, §§4002(b), 4004(d), 4008(c), (d), 4010, June 9, 1998, 112 Stat. 395, 400, 404, 407, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter I heading, added item 31100, substituted “Information systems” for “Commercial motor vehicle information system program” in item 31106 and “Contract authority funding for information systems” for “Truck and bus accident grant program” in item 31107, struck out items 31134 “Commercial Motor Vehicle Safety Regulatory Review Panel” and 31140 “Submission of State laws and regulations for review”, subchapter IV heading “MISCELLANEOUS”, and items 31161 “Procedures to ensure timely correction of safety violations” and 31162 “Compliance review priority”.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter 001 (I) - State Grants](Subchapter%20001%20%28I%29%20-%20State%20Grants/README.md)
+- [Subchapter 001 (I) - State Grants and Other Commercial Motor Vehicle Programs](Subchapter%20001%20%28I%29%20-%20State%20Grants%20and%20Other%20Commercial%20Motor%20Vehicle%20Programs/README.md)
 - [Subchapter 002 (II) - Length and Width Limitations](Subchapter%20002%20%28II%29%20-%20Length%20and%20Width%20Limitations/README.md)
 - [Subchapter 003 (III) - Safety Regulation](Subchapter%20003%20%28III%29%20-%20Safety%20Regulation/README.md)
-- [Subchapter 004 (IV) - Miscellaneous](Subchapter%20004%20%28IV%29%20-%20Miscellaneous/README.md)
+- [Subchapter 004 (IV) - Repealed](Subchapter%20004%20%28IV%29%20-%20Repealed/README.md)

@@ -8,7 +8,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (1) Determination of penalty
 
-&emsp;A penalty shall be assessed against a borrower that refinances or prepays a loan or loanadvance, or any portion of a loan or advance, under this section. Except as provided in paragraph (2), the penalty shall be equal to the lesser of—
+&emsp;A penalty shall be assessed against a borrower that refinances or prepays a loan or loan advance, or any portion of a loan or advance, under this section. Except as provided in paragraph (2), the penalty shall be equal to the lesser of—
 
 &emsp;&emsp;(A) the difference between the outstanding principal balance of the loan being refinanced and the present value of the loan discounted at a rate equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to the loan being refinanced or prepaid;
 
@@ -24,7 +24,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 &emsp;&emsp;&emsp;(I) each payment scheduled for the interval on the loan amount being refinanced or prepaid; and
 
-&emsp;&emsp;&emsp;(II) the payment amounts that would be required during the interval on the amounts being refinanced or prepaid if the interest rate on the loan were equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to the loan being refinanced or prepaid.
+&emsp;&emsp;&emsp;(II) the payment amounts that would be required during the interval on the amounts being refinanced or prepaid if theinterest rate on the loan were equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to the loan being refinanced or prepaid.
 
 #### (2) Limitation
 
@@ -104,7 +104,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 &emsp;The option provided under paragraph (1) shall not be available in the case of any loan or loan advance, or portion thereof, unless a written request to exercise such option is sent to the Secretary not later than 1 year after the effective date of regulations issued to carry out the Rural Electrification Loan Restructuring Act of 1993.
 
-(May 20, 1936, ch. 432, title III, §306C, as added Aug. 10, 1993, Pub. L. 103–66, title I, §1201(a), 107 Stat. 327; amended Nov. 1, 1993, Pub. L. 103–129, §2(c)(10), 107 Stat. 1365; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §306C, as added Pub. L. 103–66, title I, §1201(a), Aug. 10, 1993, 107 Stat. 327; amended Pub. L. 103–129, §2(c)(10), Nov. 1, 1993, 107 Stat. 1365; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### References in Text
 

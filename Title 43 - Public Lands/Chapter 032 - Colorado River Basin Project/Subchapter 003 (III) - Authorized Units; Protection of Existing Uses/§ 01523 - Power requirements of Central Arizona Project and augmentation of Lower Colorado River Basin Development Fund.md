@@ -12,7 +12,7 @@ If included as a part of the recommended plan, the Secretary may enter into agre
 
 &emsp;(2) annual operation and maintenance costs shall be apportioned between the United States and the non-Federal interests on an equitable basis taking into account the ratios determined in accordance with the foregoing clause (1): <i>Provided, however</i>, That the United States shall share on the foregoing basis in the depreciation component of such costs only to the extent of provision for depreciation on replacements financed by the non-Federal interests;
 
-&emsp;(3) the United States shall be given appropriate credit for any interests in Federal lands administered by the Department of the Interior that are made available for the power plants and appurtenances;
+&emsp;(3) the United States shall be given appropriate credit for any interests in Federal landsadministered by the Department of the Interior that are made available for the power plants and appurtenances;
 
 &emsp;(4) costs to be borne by the United States under clauses (1) and (2) shall not include (a) interest and interest during construction, (b) financing charges, (c) franchise fees, and (d) such other costs as shall be specified in the agreement.
 
@@ -22,7 +22,7 @@ No later than one year from September 30, 1968, the Secretary shall submit his r
 
 #### (d) Apportionment of water for Arizona plants diverted above Lee Ferry
 
-If any thermal generating plant referred to in subsection (b) of this section is located in Arizona, and if it is served by water diverted from the drainage area of the Colorado River system above Lee Ferry, other provisions of existing law to the contrary notwithstanding, such consumptive use of water shall be a part of the fifty thousand acre-feet per annum apportioned to the State of Arizona by article III(a) of theUpper Colorado River Basin Compact (63 Stat. 31).
+If any thermal generating plant referred to in subsection (b) of this section is located in Arizona, and if it is served by water diverted from the drainage area of the Colorado River system above Lee Ferry, other provisions of existing law to the contrary notwithstanding, such consumptive use of water shall be a part of the fifty thousand acre-feet per annum apportioned to the State of Arizona by article III(a) of the Upper Colorado River Basin Compact (63 Stat. 31).
 
 (Pub. L. 90–537, title III, §303, Sept. 30, 1968, 82 Stat. 889.)
 

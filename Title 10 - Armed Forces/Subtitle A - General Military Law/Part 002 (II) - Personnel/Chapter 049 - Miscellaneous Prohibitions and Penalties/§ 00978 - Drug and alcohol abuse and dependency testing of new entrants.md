@@ -1,6 +1,6 @@
 ### §978. Drug and alcohol abuse and dependency: testing of new entrants
 
-(a)(1) The Secretary concerned shall require that, except as provided under paragraph (2), each person applying for an original enlistment or appointment in the armed forces shall be required, before becoming a member of the armed forces, to—
+(a)(1) The Secretary concerned shall require that, except as provided under paragraph (2),each person applying for an original enlistment or appointment in the armed forces shall be required, before becoming a member of the armed forces, to—
 
 &emsp;(A) undergo testing (by practicable, scientifically supported means) for drug and alcohol use; and
 
@@ -30,7 +30,7 @@
 
 (e) In time of war, or time of emergency declared by Congress or the President, the President may suspend the provisions of subsection (a).
 
-(Added Pub. L. 97–295, §1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Dec. 4, 1987, Pub. L. 100–180, div. A, title V, §513(a)(1), 101 Stat. 1091; Pub. L. 100–456, div. A, title V, §521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, §513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, §1484(k)(4), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 103–160, div. A, title V, §572, Nov. 30, 1993, 107 Stat. 1673.)
+(Added Pub. L. 97–295, §1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Pub. L. 100–180, div. A, title V, §513(a)(1), Dec. 4, 1987, 101 Stat. 1091; Pub. L. 100–456, div. A, title V, §521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, §513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, §1484(k)(4), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 103–160, div. A, title V, §572, Nov. 30, 1993, 107 Stat. 1673.)
 
 Historical and Revision Notes
 
@@ -76,7 +76,7 @@ Subsec. (c)(4). Pub. L. 101–189, §513(c), added par. (4).
 
 “(a) Before a person becomes a member of the armed forces, such person shall be required to undergo testing for drug, chemical, and alcohol use and dependency.
 
-“(b) A person who refuses to consent to testing required by subsection (a) may not be accepted for an original enlistment in the armed forces or given an original appointment as an officer in the armed forces unless that person consents to such testing.
+“(b) A person who refuses to consent to testing required by subsection (a) may not be accepted for an original enlistment in the armed forces or given anoriginal appointment as an officer in the armed forces unless that person consents to such testing.
 
 “(c) A person determined, as the result of testing conducted under subsection (a), to be dependent on drugs, chemicals, or alcohol shall be—
 

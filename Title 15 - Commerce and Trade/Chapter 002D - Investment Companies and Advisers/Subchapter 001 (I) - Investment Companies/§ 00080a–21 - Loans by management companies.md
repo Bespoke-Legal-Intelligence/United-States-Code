@@ -6,7 +6,7 @@ It shall be unlawful for any registered management company to lend money or prop
 
 (b) such person controls or is under common control with such registered company; except that the provisions of this paragraph shall not apply to any loan from a registered company to a company which owns all of the outstanding securities of such registered company, except directors’ qualifying shares.
 
-(Aug. 22, 1940, ch. 686, title I, §21, 54 Stat. 822; Dec. 4, 1987, Pub. L. 100–181, title VI, §615, 101 Stat. 1262.)
+(Aug. 22, 1940, ch. 686, title I, §21, 54 Stat. 822; Pub. L. 100–181, title VI, §615, Dec. 4, 1987, 101 Stat. 1262.)
 
 #### Amendments
 

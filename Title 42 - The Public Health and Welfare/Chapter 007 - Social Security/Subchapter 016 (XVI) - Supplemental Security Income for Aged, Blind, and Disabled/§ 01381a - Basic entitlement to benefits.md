@@ -2,7 +2,7 @@
 
 Every aged, blind, or disabled individual who is determined under part A of this subchapter to be eligible on the basis of his income and resources shall, in accordance with and subject to the provisions of this subchapter, be paid benefits by the Commissioner of Social Security.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1602, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1465; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(E), 98 Stat. 1170; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(1), 108 Stat. 1477.)
+(Aug. 14, 1935, ch. 531, title XVI, §1602, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465; amended Pub. L. 98–369, div. B, title VI, §2663(j)(2)(E), July 18, 1984, 98 Stat. 1170; Pub. L. 103–296, title I, §107(a)(1), Aug. 15, 1994, 108 Stat. 1477.)
 
 #### Prior Provisions
 
@@ -20,7 +20,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date
 

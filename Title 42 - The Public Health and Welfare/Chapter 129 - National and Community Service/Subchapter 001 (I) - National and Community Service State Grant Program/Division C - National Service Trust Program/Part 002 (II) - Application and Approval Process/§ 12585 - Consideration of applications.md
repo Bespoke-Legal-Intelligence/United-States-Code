@@ -54,7 +54,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 &emsp;&emsp;(E) Areas that have an unemployment rate greater than the national average unemployment for the most recent 12 months for which satisfactory data are available.
 
-&emsp;(7) In the case of applicants other than States, the extent to which the application isconsistent with the application under section 12582 of this title of the State in which the projects would be conducted.
+&emsp;(7) In the case of applicants other than States, the extent to which the application is consistent with the application under section 12582 of this title of the State in which the projects would be conducted.
 
 &emsp;(8) Such other criteria as the Corporation considers to be appropriate.
 
@@ -132,7 +132,7 @@ In making assistance available under section 12571 of this title and in providin
 
 #### References in Text
 
-Part D of this subchapter and sections 12572, 12573, and 12578 through 12580 of this title, as in effect on the day before September 21, 1993, referred to in subsec. (d)(2)(G), mean former part D of this subchapter and former sections 12572, 12573, and 12578 to 12580 of this title prior to the general amendment of subtitle D oftitle I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
+Part D of this subchapter and sections 12572, 12573, and 12578 through 12580 of this title, as in effect on the day before September 21, 1993, referred to in subsec. (d)(2)(G), mean former part D of this subchapter and former sections 12572, 12573, and 12578 to 12580 of this title prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
 
 #### Prior Provisions
 

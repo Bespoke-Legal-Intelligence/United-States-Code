@@ -2,7 +2,7 @@
 
 #### (a) Prohibition of inspection of articles not intended for use as human food; denaturation or other identification prior to distribution in commerce; inedible articles
 
-Inspection shall not be provided under this chapter at any establishment for the slaughter of poultry or the processing of any carcasses orparts or products of poultry, which are not intended for use as human food, but such articles shall, prior to their offer for sale or transportation in commerce, unless naturally inedible by humans, be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person shall buy, sell, transport, or offer for sale or transportation, or receive for transportation, in commerce, or import, any poultry carcasses or parts or products thereof which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary or are naturally inedible by humans.
+Inspection shall not be provided under this chapter at any establishment for the slaughter of poultry or the processing of any carcasses or parts or products of poultry, which are not intended for use as human food, but such articles shall, prior to their offer for sale or transportation in commerce, unless naturally inedible by humans, be denatured or otherwise identified as prescribed by regulations of the Secretary to deter their use for human food. No person shall buy, sell, transport, or offer for sale or transportation, or receive for transportation, in commerce, or import, any poultry carcasses or parts or products thereof which are not intended for use as human food unless they are denatured or otherwise identified as required by the regulations of the Secretary or are naturally inedible by humans.
 
 #### (b) Recordkeeping requirements; persons liable; scope of disclosure; access to places of business; examination of records, facilities, and inventories; copies; samples
 
@@ -20,7 +20,7 @@ No person shall engage in business, in or for commerce, as a poultry products br
 
 #### (d) Regulation of transactions, transportation, or importation of dead, dying, disabled or diseased poultry or carcasses to prevent use as human food
 
-No person engaged in the business of buying, selling, or transporting in commerce, or importing, dead, dying, disabled, or diseased poultry, or any parts of the carcasses of any poultry that died otherwise than by slaughter, shall buy, sell, transport, offer for sale or transportation, or receive for transportation, in commerce, or import, any dead, dying, disabled, or diseased poultry or parts of the carcasses of any poultry that died otherwise than by slaughter, unless such transaction, transportation or importation is made in accordance with such regulations as the Secretary may prescribe to assure that such poultry, or the unwholesome parts or products thereof, will be prevented from being used for human food.
+No person engaged in the business of buying, selling, or transporting in commerce, or importing, dead, dying, disabled, or diseased poultry, or any parts of the carcasses of any poultry that died otherwise than by slaughter, shall buy, sell, transport, offer for sale or transportation, or receive for transportation, in commerce, or import, any dead, dying, disabled, or diseased poultry or parts of the carcasses of any poultry that died otherwise than by slaughter, unless such transaction, transportation or importation is made in accordance with such regulations as theSecretary may prescribe to assure that such poultry, or the unwholesome parts or products thereof, will be prevented from being used for human food.
 
 #### (e) Federal provisions applicable to State or Territorial business transactions of a local nature and not subject to local authority
 
@@ -34,7 +34,7 @@ The authority conferred on the Secretary by paragraph (b), (c), or (d) of this s
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–492 effective Aug. 18, 1968, except that par. (d) effective upon the expiration ofsixty days after Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
+Amendment by Pub. L. 90–492 effective Aug. 18, 1968, except that par. (d) effective upon the expiration of sixty days after Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
 #### Section Referred to in Other Sections
 

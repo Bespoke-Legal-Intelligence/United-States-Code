@@ -14,7 +14,7 @@
 
 (g) Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 234; Nov. 29, 1973, Pub. L. 93–169, 87 Stat. 689; Dec. 12, 1980, Pub. L. 96–513, title V, §502(23), 94 Stat. 2910; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 234; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §502(23), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

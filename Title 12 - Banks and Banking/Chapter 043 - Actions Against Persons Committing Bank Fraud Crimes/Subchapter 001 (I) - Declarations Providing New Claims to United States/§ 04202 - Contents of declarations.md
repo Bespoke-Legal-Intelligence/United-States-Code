@@ -14,5 +14,5 @@ A declaration filed pursuant to section 4201 of this title shall—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4204, 4205, 4206, 4211 of this title.
+This section is referred to in sections 4204, 4205, 4206 of this title.
 

@@ -24,7 +24,7 @@ A petitioner under a petition filed under section 300aa–11 of this title may s
 
 A civil action for damages arising from a vaccine-related injury or death for which a petition was filed under section 300aa–11 of this title shall, except as provided in section 300aa–16(c) of this title, be brought within the period prescribed by limitations of actions under State law applicable to such civil action.
 
-(July 1, 1944, ch. 373, title XXI, §2121, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100Stat. 3772; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4304(c), 4307(8), 4308(c), 101 Stat. 1330–224, 1330–225; July 1, 1988, Pub. L. 100–360, title IV, §411(<i>o</i>)(3)(A), 102 Stat. 808; Dec. 19, 1989, Pub. L. 101–239, title VI, §6601(n), 103 Stat. 2291; Nov. 3, 1990, Pub. L. 101–502, §5(f), 104 Stat. 1287; Nov. 26, 1991, Pub. L. 102–168, title II, §201(d)(3), 105 Stat. 1103; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(July 1, 1944, ch. 373, title XXI, §2121, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3772; amended Pub. L. 100–203, title IV, §§4304(c), 4307(8), 4308(c), Dec. 22, 1987, 101 Stat. 1330–224, 1330–225; Pub. L. 100–360, title IV, §411(<i>o</i>)(3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(n), Dec. 19, 1989, 103 Stat. 2291; Pub. L. 101–502, §5(f), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(d)(3), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Codification
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 101–502, §5(f)(2), amended subsec. (b) generally. Prior 
 
 Pub. L. 101–239, §6601(n)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: “If a person elects to receive compensation under a judgment of the court or is deemed to have accepted the judgment of the court, such person may not bring or maintain a civil action for damages against a vaccine manufacturer for the vaccine-related injury or death for which the judgment was entered.”
 
-Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted “within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)” for “within 365 days” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “An election shall be filed under this subsection not later than 90 days after the date of the entry of the Claims Court's judgment or the appellate court's mandate with respect to which the election is to be made.”
+Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted “within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)” for “within 365 days” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “Such a notice shall be filed not later than 90 days after the expiration of such 365-day period.”
 
 1988—Subsec. (a). Pub. L. 100–360 added Pub. L. 100–203, §4308(c), see 1987 Amendment note below.
 

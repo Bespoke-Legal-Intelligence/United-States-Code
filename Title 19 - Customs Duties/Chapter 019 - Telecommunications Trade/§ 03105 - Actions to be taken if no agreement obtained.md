@@ -26,7 +26,7 @@
 
 &emsp;(D) increases in domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.) for purchases by the Federal Government of telecommunications products of such country;
 
-&emsp;(E) suspension of any waiver of domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.) which may have been extended to such country pursuant to the Trade Agreements Act of 1979 with respect to telecommunications products or any other products;
+&emsp;(E) suspension of any waiver of domestic preferences under title III of the Act of March 3, 1933 (41 U.S.C. 10a, et seq.) which may have been extended to such country pursuant to the Trade Agreements Act of 1979 with respect totelecommunications products or any other products;
 
 &emsp;(F) issuance of orders to appropriate officers and employees of the Federal Government to deny Federal funds or Federal credits for purchases of the telecommunications products of such country; and
 

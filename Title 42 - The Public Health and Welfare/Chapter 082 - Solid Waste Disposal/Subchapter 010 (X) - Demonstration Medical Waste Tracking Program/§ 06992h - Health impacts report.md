@@ -10,5 +10,9 @@ Within 24 months after November 1, 1988, the Administrator of the Agency for Tox
 
 &emsp;(4) For diseases possibly spread by medical waste, including Acquired Immune Deficiency Syndrome and hepatitis B, an estimate of what percentage of the total number of cases nationally may be traceable to medical wastes.
 
-(Pub. L. 89–272, title II, §11009, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2957.)
+(Pub. L. 89–272, title II, §11008, formerly §11009, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2957; renumbered §11008, Pub. L. 105–362, title V, §501(h)(1)(B), Nov. 10, 1998, 112 Stat. 3284.)
+
+#### Prior Provisions
+
+A prior section 11008 of Pub. L. 89–272 was classified to section 6992g of this title prior to repeal by Pub. L. 105–362, §501(h)(1)(A).
 

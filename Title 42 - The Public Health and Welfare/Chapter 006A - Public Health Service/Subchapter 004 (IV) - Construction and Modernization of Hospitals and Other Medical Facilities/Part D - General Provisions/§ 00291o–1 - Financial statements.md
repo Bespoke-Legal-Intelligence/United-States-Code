@@ -8,7 +8,7 @@ In the case of any facility for which a grant, loan, or loan guarantee has been 
 
 > during the period with respect to which the statement is filed.
 
-(July 1, 1944, ch. 373, title VI, §646, as added June 30, 1970, Pub. L. 91–296, title I, §121, 84 Stat. 343.)
+(July 1, 1944, ch. 373, title VI, §646, as added Pub. L. 91–296, title I, §121, June 30, 1970, 84 Stat. 343.)
 
 #### Prior Provisions
 

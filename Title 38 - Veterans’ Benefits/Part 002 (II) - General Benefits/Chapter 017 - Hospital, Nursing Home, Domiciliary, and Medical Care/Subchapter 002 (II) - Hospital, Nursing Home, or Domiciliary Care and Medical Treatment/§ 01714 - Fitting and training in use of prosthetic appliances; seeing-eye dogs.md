@@ -4,7 +4,7 @@
 
 (b) The Secretary may provide seeing-eye or guide dogs trained for the aid of the blind to veterans who are entitled to disability compensation, and may pay travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from their homes and incurred in becoming adjusted to such seeing-eye or guide dogs. The Secretary may also provide such veterans with mechanical or electronic equipment for aiding them in overcoming the handicap of blindness.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct.21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Prior Provisions
 

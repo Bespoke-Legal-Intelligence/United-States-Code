@@ -408,7 +408,7 @@ A State may provide for post-eligibility treatment of income for individuals enr
 
 Nothing in this section or section 1395eee of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter or eligible for medical assistance under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4802(a)(3), 111 Stat. 539.)
+(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997, 111 Stat. 539.)
 
 #### References in Text
 

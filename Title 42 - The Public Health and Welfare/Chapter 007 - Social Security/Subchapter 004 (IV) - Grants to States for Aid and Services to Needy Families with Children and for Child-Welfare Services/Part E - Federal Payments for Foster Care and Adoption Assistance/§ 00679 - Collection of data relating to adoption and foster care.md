@@ -88,7 +88,7 @@ Any data collection system developed and implemented under this section shall—
 
 &emsp;(4) utilize appropriate requirements and incentives to ensure that the system functions reliably throughout the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §479, as added Oct. 21, 1986, Pub. L. 99–509, title IX, §9443, 100 Stat. 2073; amended Oct. 31, 1994, Pub. L. 103–432, title II, §209(c), 108 Stat. 4459.)
+(Aug. 14, 1935, ch. 531, title IV, §479, as added Pub. L. 99–509, title IX, §9443, Oct. 21, 1986, 100 Stat. 2073; amended Pub. L. 103–432, title II, §209(c), Oct. 31, 1994, 108 Stat. 4459.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L.92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

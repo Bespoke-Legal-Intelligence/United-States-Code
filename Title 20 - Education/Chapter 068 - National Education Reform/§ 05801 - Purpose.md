@@ -22,7 +22,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(A) creating a vision of excellence and equity that will guide all Federal education and related programs;
 
-&emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitive content and student performance standards and strategies that all students will be expected to achieve;
+&emsp;&emsp;(B) providing for the establishment of high-quality, internationally competitivecontent and student performance standards and strategies that all students will be expected to achieve;
 
 &emsp;&emsp;(C) encouraging and enabling all State educational agencies and local educational agencies to develop comprehensive improvement plans that will provide a coherent framework for the implementation of reauthorized Federal education and related programs in an integrated fashion that effectively educates all children to prepare them to participate fully as workers, parents, and citizens;
 
@@ -30,7 +30,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(E) promoting the use of technology to enable all students to achieve the National Education Goals;
 
-&emsp;(7) stimulating the development and adoption of a voluntary national system of skillstandards and certification to serve as a cornerstone of the national strategy to enhance workforce skills; and
+&emsp;(7) stimulating the development and adoption of a voluntary national system of skill standards and certification to serve as a cornerstone of the national strategy to enhance workforce skills; and
 
 &emsp;(8) assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
 

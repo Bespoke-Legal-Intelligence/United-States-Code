@@ -36,15 +36,15 @@
 
 &emsp;(1) the annual rate of basic pay payable to the employee, rounded to the next higher multiple of $1,000, plus $2,000, or
 
-&emsp;(2) $10,000,
+&emsp;(2) $10,000.
 
-> except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000. In the case of any former employee entitled to coverage under this chapter, the term means the basic insurance amount applicable for the employee at the time the insurance to which the employee is entitled as an employee under thischapter stops pursuant to section 8706(a) of this title.
+> In the case of any former employee entitled to coverage under this chapter, the term means the basic insurance amount applicable for the employee at the time the insurance to which the employee is entitled as an employee under this chapter stops pursuant to section 8706(a) of this title.
 
 (d)(1) For the purpose of this chapter, “family member”, when used with respect to any individual, means—
 
 &emsp;(A) the spouse of the individual; and
 
-&emsp;(B) an unmarried dependent child of the individual (other than a stillborn child), including an adopted child, stepchild (but only if the stepchild lived with the individual in a regular parent-child relationship), or recognized natural child—
+&emsp;(B) an unmarried dependent child of the individual (other than a stillborn child), including an adopted child, stepchild or foster child (but only if the stepchild or foster child lived with the individual in a regular parent-child relationship), or recognized natural child—
 
 &emsp;&emsp;(i) who is less than 22 years of age, or
 
@@ -52,7 +52,7 @@
 
 (2) For the purpose of this subsection, “dependent”, in the case of any child, means that the individual involved was, at the time of the child's death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, §205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, §205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950.)
 
 Historical and Revision Notes
 
@@ -118,6 +118,10 @@ Section 4 of the Presidential Transition Act of 1963, referred to in subsec. (a)
 
 #### Amendments
 
+1998—Subsec. (c). Pub. L. 105–311, §3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
+
+Subsec. (d)(1)(B). Pub. L. 105–311, §4, inserted “or foster child” after “stepchild” in two places in introductory provisions.
+
 1988—Subsec. (a)(10). Pub. L. 100–679 added par. (10).
 
 1986—Subsec. (a)(6). Pub. L. 99–335 amended par. (6) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
@@ -143,6 +147,54 @@ Subsec. (a)(B). Pub. L. 96–70 inserted provisions relating to an individual wh
 #### Change of Name
 
 Gallaudet College, referred to in subsec. (a)(7), redesignated Gallaudet University by section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of Title 20, Education.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–311, §11, Oct. 30, 1998, 112 Stat. 2954, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this Act \[see Short Title of 1998 Amendment note below\], the amendments made by this Act shall take effect on the date of enactment of this Act \[Oct. 30, 1998\].
+
+“(b)
+
+Maximum Limitation on Employee Insurance.—Section 3 \[amending this section and section 8714b of this title\] shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act.
+
+“(c)
+
+Erroneous Coverage.—Section 5 \[amending section 8706 of this title\] shall be effective in any case in which a finding of erroneous insurance coverage is made on or after the date of enactment of this Act.
+
+“(d)
+
+Direct Payment of Insurance Contributions.—Section 6 \[amending sections 8707 and 8714a to 8714c of this title\] shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act.
+
+“(e)
+
+Additional Optional Life Insurance.—
+
+&emsp;“(1)
+
+In general.—Section 7 \[amending section 8714b of this title and enacting provisions set out as a note under section 8714b of this title\] shall take effect on the first day of the first pay period that begins on or after the 180th day following the date of enactment of this Act, or on any earlier date that the Office of Personnel Management may prescribe that is at least 60 days after the date of enactment of this Act.
+
+&emsp;“(2)
+
+Regulations.—The Office shall prescribe regulations under which an employee may elect to continue additional optional insurance that remains in force on such effective date without subsequent reduction and with the full cost withheld from annuity or compensation on and after such effective date if that employee—
+
+&emsp;&emsp;“(A) separated from service before such effective date due to retirement or entitlement to compensation under subchapter I of chapter 81 of title 5, United States Code; and
+
+&emsp;&emsp;“(B) continued additional optional insurance pursuant to section 8714b(c)(2) as in effect immediately before such effective date.
+
+“(f)
+
+Improved Optional Life Insurance on Family Members.—The amendments made by section 8 \[amending section 8714c of this title\] shall take effect on the first day of the first pay period which begins on or after the 180th day following the date of enactment of this Act or on any earlier date that the Office of Personnel Management may prescribe.
+
+“(g)
+
+Open Season.—Any election made by an employee under section 9 \[set out as a note below\], and applicable withholdings, shall be effective on the first day of the first applicable pay period that—
+
+&emsp;“(1) begins on or after the date occurring 365 days after the first day of the election period authorized under section 9; and
+
+&emsp;“(2) follows a pay period in which the employee was in a pay and duty status.”
 
 #### Effective Date of 1986 Amendment
 
@@ -170,6 +222,10 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–311, §1, Oct. 30, 1998, 112 Stat. 2950, provided that: “This Act \[amending this section and sections 7703, 8706, 8707, and 8714a to 8714c of this title and enacting provisions set out as notes under this section and sections 7703 and 8714b of this title\] may be cited as the ‘Federal Employees Life Insurance Improvement Act’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–409, §1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Act \[enacting section 8714d of this title and provisions set out as notes under this section and sections 8704, 8714, and 8901 of this title\] may be cited as the ‘FEGLI Living Benefits Act’.”
@@ -178,7 +234,13 @@ Pub. L. 103–409, §1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Ac
 
 Section 1 of Pub. L. 96–427 provided that: “This Act \[enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title\] may be cited as the ‘Federal Employees’ Group Life Insurance Act of 1980’.”
 
-#### Open Season; Notice
+#### Open Season
+
+Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: “Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
+
+&emsp;“(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87 of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
+
+&emsp;“(2) may, if currently insured for optional life insurance on family members, elect an amount above the minimum insurance on a spouse.”
 
 Pub. L. 103–409, §3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 

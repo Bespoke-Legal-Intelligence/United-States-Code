@@ -2,7 +2,7 @@
 
 A determination that an individual is dead or a determination that he has been detained by a hostile force or person may be made on the basis of evidence that he has disappeared under circumstances such as to make such death or detention appear probable.
 
-(Dec. 2, 1942, ch. 668, title II, §206, 56 Stat. 1034; Aug. 8, 1958, Pub. L. 85–608, title I, §104, 72 Stat. 537.)
+(Dec. 2, 1942, ch. 668, title II, §206, 56 Stat. 1034; Pub. L. 85–608, title I, §104, Aug. 8, 1958, 72 Stat. 537.)
 
 #### Amendments
 

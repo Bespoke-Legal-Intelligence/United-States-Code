@@ -14,13 +14,13 @@ All funds paid pursuant to section 941c of this title, except for payments made 
 
 (4) Secretarial approval of an investment management firm shall not be unreasonably withheld, and any Secretarial disapproval of an investment management firm shall be accompanied by a detailed explanation setting forth the Secretary's reasons for such disapproval.
 
-(5)(A) For funds placed under professional management, the Tribe, in consultation with the Secretary and its investment manager, shall develop—
+(5)(A) For funds placed under professional management, the Tribe, in consultation withthe Secretary and its investment manager, shall develop—
 
 &emsp;(i) current operating and long-term capital budgets; and
 
 &emsp;(ii) a plan for managing, investing, and distributing income and principal from the Trust Funds to match the requirements of the Tribe's operating and capital budgets.
 
-(B) For each Trust Fund which the Tribe elects to place under outside professional management, the investment plan shall provide for investment of Trust Fund assets so as to serve the purposes described in this section and in theTrust Fund provisions which the Tribe shall establish in consultation with the Secretary and the independent investment management firm.
+(B) For each Trust Fund which the Tribe elects to place under outside professional management, the investment plan shall provide for investment of Trust Fund assets so as to serve the purposes described in this section and in the Trust Fund provisions which the Tribe shall establish in consultation with the Secretary and the independent investment management firm.
 
 (C) Distributions from each Trust Fund shall not exceed the limits on the use of principal and income imposed by the applicable provisions of this subchapter for that particular Trust Fund.
 
@@ -58,7 +58,7 @@ Upon the Secretary's approval of the Tribe's investment management firm and an i
 
 (3) Following the effective date of this subchapter and before the final annual disbursement is made as provided in section 941c of this title, the Tribe may pledge or hypothecate up to 50 percent of the unpaid annual installments required to be paid by section 941c of this title and by section 5 of the Settlement Agreement to secure loans to finance economic development activities of the Tribe, including (but not limited to) infrastructure improvements on Reservation and non-Reservation lands.
 
-(4) If the Tribe develops sound lending guidelines approved by the Secretary, a portion of theincome from this Trust Fund may also be used to fund a revolving credit account for loans to support tribal businesses or business enterprises of tribal members.
+(4) If the Tribe develops sound lending guidelines approved by the Secretary, a portion of the income from this Trust Fund may also be used to fund a revolving credit account for loans to support tribal businesses or business enterprises of tribal members.
 
 #### (f) Education Trust
 
@@ -96,7 +96,7 @@ The Secretary shall establish and maintain a Catawba Education Trust Fund, and u
 
 #### (i) Duration of trust funds
 
-Subject to the provisions of this section and with the exception of the Catawba Per CapitaPayment Trust Fund, the Trust Funds established in accordance with this section shall continue in existence so long as the Tribe exists and is recognized by the United States. The principal of these Trust Funds shall not be invaded or distributed except as expressly authorized in this subchapter or in the Settlement Agreement.
+Subject to the provisions of this section and with the exception of the Catawba Per Capita Payment Trust Fund, the Trust Funds established in accordance with this section shall continue in existence so long as the Tribe exists and is recognized by the United States. The principal of these Trust Funds shall not be invaded or distributed except as expressly authorized in this subchapter or in the Settlement Agreement.
 
 #### (j) Transfer of money among trust funds
 

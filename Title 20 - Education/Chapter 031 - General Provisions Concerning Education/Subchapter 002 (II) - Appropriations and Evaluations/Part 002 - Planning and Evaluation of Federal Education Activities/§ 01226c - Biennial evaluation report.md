@@ -4,7 +4,7 @@ Not later than March 31, 1995, and every two years after such date, the Secretar
 
 &emsp;(1) contain program profiles that include legislative citations, multiyear funding histories, and legislated purposes;
 
-&emsp;(2) contain recent information on the progress being made toward the achievement of program objectives, including listings of program performance indicators, data from performance measurement based on the indicators, and information on the costs and benefits of the applicable programs being evaluated;
+&emsp;(2) contain recent information on the progress being made toward the achievementof program objectives, including listings of program performance indicators, data from performance measurement based on the indicators, and information on the costs and benefits of the applicable programs being evaluated;
 
 &emsp;(3) address significant program activities, such as initiatives for program improvement, regulations, and program monitoring and evaluation;
 

@@ -72,29 +72,31 @@ Subsec. (d). Pub. L. 98–473, §517(b), added subsec. (d).
 
 #### National Drug Intelligence Center
 
-Pub. L. 105–107, title I, §104(e), Nov. 20, 1997, 111 Stat. 2250, provided that:
+Pub. L. 105–272, title I, §104(e), Oct. 20, 1998, 112 Stat. 2398, provided that:
 
 “(1)
 
-In general.—Of the amount authorized to be appropriated in subsection (a) \[111 Stat. 2250\], the amount of $27,000,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, test, and evaluation purposes shall remain available until September 30, 1999, and funds provided for procurement purposes shall remain available until September 30, 2000.
+In general.—Of the amount appropriated pursuant to the authorization in subsection (a) \[112 Stat. 2398\], the amount of $27,000,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, test, and evaluation purposes shall remain available until September 30, 2000, and funds provided for procurement purposes shall remain available until September 30, 2001.
 
 “(2)
 
-Transfer of funds.—The Director of Central Intelligence shall transfer to the Attorney General of the United States funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the Center.
+Transfer of funds.—The Director of Central Intelligence shall transfer to the Attorney General of the United States funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the National Drug Intelligence Center.
 
 “(3)
 
-Limitation.—Amounts available for the Center may not be used in contravention of the provisions of section 103(d)(1) of the National Security Act of 1947 (50 U.S.C. 403–3(d)(1)).
+Limitation.—Amounts available for the National Drug Intelligence Center may not be used in contravention of the provisions of section 103(d)(1) of the National Security Act of 1947 (50 U.S.C. 403–3(d)(1)).
 
 “(4)
 
-Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the Center.”
+Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–107, title I, §104(e), Nov. 20, 1997, 111 Stat. 2250.
 
 Pub. L. 104–293, title I, §104(d), Oct. 11, 1996, 110 Stat. 3464.
 
-Pub. L. 103–139, title VIII, §8056, Nov. 11, 1993, 107 Stat. 1452, provided that: “During the current fiscalyear and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shall be to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: <i>Provided</i>, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense.”
+Pub. L. 103–139, title VIII, §8056, Nov. 11, 1993, 107 Stat. 1452, provided that: “During the current fiscal year and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shall be to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: <i>Provided</i>, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense.”
 
 Similar provisions were contained in the following prior appropriation act:
 

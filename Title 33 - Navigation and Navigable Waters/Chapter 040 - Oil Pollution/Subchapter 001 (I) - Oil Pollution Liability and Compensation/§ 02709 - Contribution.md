@@ -1,6 +1,6 @@
 ### §2709. Contribution
 
-A person may bring a civil action for contribution against any other person who is liable orpotentially liable under this Act or another law. The action shall be brought in accordance with section 2717 of this title.
+A person may bring a civil action for contribution against any other person who is liable or potentially liable under this Act or another law. The action shall be brought in accordance with section 2717 of this title.
 
 (Pub. L. 101–380, title I, §1009, Aug. 18, 1990, 104 Stat. 497.)
 

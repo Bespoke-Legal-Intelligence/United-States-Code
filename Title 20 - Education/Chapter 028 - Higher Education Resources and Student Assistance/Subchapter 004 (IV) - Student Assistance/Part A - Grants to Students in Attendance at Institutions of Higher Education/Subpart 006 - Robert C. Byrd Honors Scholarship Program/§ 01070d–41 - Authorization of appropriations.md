@@ -1,8 +1,8 @@
 ### §1070d–41. Authorization of appropriations
 
-There are authorized to be appropriated for this subpart $10,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated for this subpart $45,000,000 for fiscal year 1999 andsuch sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(Pub. L. 89–329, title IV, §419K, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1346; amended Pub. L. 102–325, title IV, §406(h), July 23, 1992, 106 Stat. 509.)
+(Pub. L. 89–329, title IV, §419K, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1346; amended Pub. L. 102–325, title IV, §406(h), July 23, 1992, 106 Stat. 509; Pub. L. 105–244, title IV, §409(b), Oct. 7, 1998, 112 Stat. 1668.)
 
 #### Prior Provisions
 
@@ -10,7 +10,13 @@ A prior section 1070d–41, Pub. L. 89–329, title IV, §419K, as added Pub. L.
 
 #### Amendments
 
+1998—Pub. L. 105–244 substituted “$45,000,000 for fiscal year 1999” for “$10,000,000 for fiscal year 1993”.
+
 1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for this subpart $8,000,000 for fiscal year 1987, and such sums as may be necessary for the 4 succeeding fiscal years.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

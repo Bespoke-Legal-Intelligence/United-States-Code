@@ -1,0 +1,22 @@
+### §23111. Liability for acts of officers and agents
+
+The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1314.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+23111
+
+36:4312.
+
+July 14, 1964, Pub. L. 88–372, §12, 78 Stat. 317.
+

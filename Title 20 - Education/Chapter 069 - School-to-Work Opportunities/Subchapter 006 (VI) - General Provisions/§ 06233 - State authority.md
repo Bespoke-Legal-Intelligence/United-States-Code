@@ -1,6 +1,6 @@
 ### §6233. State authority
 
-Nothing in this chapter shall be construed to negate or supersede the legal authority, under State law or other applicable law, of any Stateagency, State entity, or State public official over programs that are under the jurisdiction of the agency, entity, or official. Nothing in this chapter shall be construed to interfere with the authority of such agency, entity, or official to enter into a contract under any provision of law.
+Nothing in this chapter shall be construed to negate or supersede the legal authority, under State law or other applicable law, of any State agency, State entity, or State public official over programs that are under the jurisdiction of the agency, entity, or official. Nothing in this chapter shall be construed to interfere with the authority of such agency, entity, or official to enter into a contract under any provision of law.
 
 (Pub. L. 103–239, title VI, §603, May 4, 1994, 108 Stat. 604.)
 

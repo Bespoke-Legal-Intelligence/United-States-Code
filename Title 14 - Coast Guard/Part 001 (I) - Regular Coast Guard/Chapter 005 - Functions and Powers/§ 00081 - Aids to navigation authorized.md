@@ -8,9 +8,9 @@ In order to aid navigation and to prevent disasters, collisions, and wrecks of v
 
 &emsp;(3) electronic aids to navigation systems (a) required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or any department within the Department of Defense; or (b) required to serve the needs of the maritime commerce of the United States; or (c) required to serve the needs of the air commerce of the United States as requested by the Administrator of the Federal Aviation Administration.
 
-> These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
+> These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the UnitedStates at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 500; June 22, 1951, ch. 150, 65 Stat. 89; Sept. 3, 1954, ch. 1263, §30, 68 Stat. 1237; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1404, 72 Stat. 808; Oct. 14, 1966, Pub. L. 89–662, §1, 80 Stat. 912; Oct. 18, 1976, Pub. L. 94–546, §1(3), 90 Stat. 2519; Oct. 15, 1982, Pub. L. 97–322, title I, §105(a), 96 Stat. 1582.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 500; June 22, 1951, ch. 150, 65 Stat. 89; Sept. 3, 1954, ch. 1263, §30, 68 Stat. 1237; Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 89–662, §1, Oct. 14, 1966, 80 Stat. 912; Pub. L. 94–546, §1(3), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–322, title I, §105(a), Oct. 15, 1982, 96 Stat. 1582.)
 
 #### Historical and Revision Notes
 
@@ -39,6 +39,10 @@ Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, prov
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Aids to Navigation Report
+
+Pub. L. 105–383, title II, §208, Nov. 13, 1998, 112 Stat. 3416, provided that: “Not later than 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], the Commandant of the Coast Guard shall submit to Congress a report on the use of the Coast Guard's aids to navigation system. The report shall include an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes. To the extent practicable within the time allowed, the report shall include information regarding degree of use of the various portions of the system.”
 
 #### Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees
 

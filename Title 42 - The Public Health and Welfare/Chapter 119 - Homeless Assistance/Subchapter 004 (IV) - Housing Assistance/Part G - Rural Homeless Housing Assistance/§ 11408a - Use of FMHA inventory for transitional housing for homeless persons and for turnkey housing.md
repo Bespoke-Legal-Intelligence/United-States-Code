@@ -76,7 +76,7 @@ A public agency or nonprofit organization may lease or purchase property under t
 
 #### (1) In general
 
-&emsp;The Secretary shall, by regulation, require each public agency and nonprofit organization leasing or purchasing property under this section to provide for the participation of not lessthan 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of such agency or organization, to the extent that such organization or applicant considers and makes policies and decisions regarding any property acquired under this section.
+&emsp;The Secretary shall, by regulation, require each public agency and nonprofit organization leasing or purchasing property under this section to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of such agency or organization, to the extent that such organization or applicant considers and makes policies and decisions regarding any property acquired under this section.
 
 #### (2) Waiver
 

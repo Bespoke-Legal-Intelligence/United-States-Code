@@ -18,3 +18,7 @@ For purposes of complying pursuant to subsection (a) of this section with sectio
 
 (Pub. L. 98–164, title V, §506, as added Pub. L. 99–93, title II, §210(a), Aug. 16, 1985, 99 Stat. 432.)
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+

@@ -22,17 +22,23 @@ The Secretary may enter into contracts for—
 
 &emsp;(2) the servicing and collection of loans made under this part;
 
-&emsp;(3) the establishment and operation of 1 or more data systems for the maintenance of records on all loans made under this part;
+&emsp;(3) the establishment and operation of 1 or more data systems for the maintenance of records on all loans made under this part; and
 
-&emsp;(4) services to assist in the orderly transition from the loan programs under part B of this subchapter to the direct student loan program under this part; and
+&emsp;(4) such other aspects of the direct student loan program as the Secretary determines are necessary to ensure the successful operation of the program.
 
-&emsp;(5) such other aspects of the direct student loan program as the Secretary determines are necessary to ensure the successful operation of the program.
-
-(Pub. L. 89–329, title IV, §456, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352.)
+(Pub. L. 89–329, title IV, §456, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352; Pub. L. 105–244, title IV, §453, Oct. 7, 1998, 112 Stat. 1717.)
 
 #### Amendments
 
+1998—Subsec. (b)(3). Pub. L. 105–244, §453(1), inserted “and” after semicolon.
+
+Subsec. (b)(4), (5). Pub. L. 105–244, §453(2), (3), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “services to assist in the orderly transition from the loan programs under part B of this subchapter to the direct student loan program under this part; and”.
+
 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to contracts for former provisions relating to terms and conditions.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

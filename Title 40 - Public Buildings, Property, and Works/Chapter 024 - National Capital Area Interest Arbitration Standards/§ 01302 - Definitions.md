@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) the term “arbitration” means—
 
-&emsp;&emsp;(A) the arbitration of disputes, regarding the terms and conditions of employment, that is required under an interstate compact governing an interstate compact agency operating in the national capital area; and
+&emsp;&emsp;(A) the arbitration of disputes, regarding the terms and conditions of employment,that is required under an interstate compact governing an interstate compact agency operating in the national capital area; and
 
 &emsp;&emsp;(B) does not include the interpretation and application of rights arising from an existing collective bargaining agreement;
 

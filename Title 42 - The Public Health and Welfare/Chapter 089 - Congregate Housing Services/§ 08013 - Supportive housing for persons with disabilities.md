@@ -86,7 +86,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 &emsp;(4) a certification from the appropriate State or local agency (as determined by the Secretary) that the provision of the services identified in paragraph (3) are well designed to serve the special needs of persons with disabilities;
 
-&emsp;(5) reasonable assurances that the applicant will own or have control of an acceptable sitefor the proposed housing not later than 6 months after notification of an award for assistance;
+&emsp;(5) reasonable assurances that the applicant will own or have control of an acceptable site for the proposed housing not later than 6 months after notification of an award for assistance;
 
 &emsp;(6) a certification from the public official responsible for submitting a housing strategy for the jurisdiction to be served in accordance with section 12705 of this title that the proposed housing is consistent with the approved housing strategy; and
 

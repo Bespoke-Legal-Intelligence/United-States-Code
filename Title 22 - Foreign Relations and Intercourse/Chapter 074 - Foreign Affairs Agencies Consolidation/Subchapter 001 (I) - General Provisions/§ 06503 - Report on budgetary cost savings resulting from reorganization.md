@@ -1,0 +1,18 @@
+### §6503. Report on budgetary cost savings resulting from reorganization
+
+The Secretary of State shall submit a report, together with the congressional presentationdocument for the budget of the Department of State for each of the fiscal years 2000 and 2001, to the appropriate congressional committees describing the total anticipated and achieved cost savings in budget outlays and budget authority related to the reorganization implemented under this chapter, including cost savings by each of the following categories:
+
+&emsp;(1) Reductions in personnel.
+
+&emsp;(2) Administrative consolidation, including procurement.
+
+&emsp;(3) Program consolidation.
+
+&emsp;(4) Consolidation of real properties and leases.
+
+(Pub. L. 105–277, div. G, subdiv. A, title XI, §1104, Oct. 21, 1998, 112 Stat. 2681–767.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+

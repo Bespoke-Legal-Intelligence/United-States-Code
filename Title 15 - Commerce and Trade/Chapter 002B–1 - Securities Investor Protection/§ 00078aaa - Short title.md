@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “This Act”, meaning P
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–283, §1, May 21, 1978, 92 Stat. 249, provided that: “This Act \[enacting sections 78fff–1 to 78fff–4 of this title, amending sections 77c, 78c, 78k, and 78ccc to78<i>lll</i> of this title and enacting provisions set out as a note under section 78k of this title\] may be cited as the ‘Securities Investor Protection Act Amendments of 1978’.”
+Pub. L. 95–283, §1, May 21, 1978, 92 Stat. 249, provided that: “This Act \[enacting sections 78fff–1 to 78fff–4 of this title, amending sections 77c, 78c, 78k, and 78ccc to 78<i>lll</i> of this title and enacting provisions set out as a note under section 78k of this title\] may be cited as the ‘Securities Investor Protection Act Amendments of 1978’.”
 

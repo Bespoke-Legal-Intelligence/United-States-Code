@@ -66,11 +66,11 @@ Amendment by Pub. L. 104–13 effective Oct. 1, 1995, see section 4(a) of Pub. L
 
 #### Effective and Termination Date; Report to Congress
 
-Section 4 of Pub. L. 97–454, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat. 1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030, provided that:
+Section 4 of Pub. L. 97–454, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat. 1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030; Pub. L. 105–252, §1, Oct. 9, 1998, 112 Stat. 1886, provided that:
 
 “(a) This Act \[enacting section 91 of this title and provisions set out as notes under sections 23 and 91 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 12, 1983\].
 
-“(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 1998.
+“(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 2005.
 
 “(c) Not later than 2 years after such effective date \[Jan. 12, 1983\], the Secretary of Commerce shall submit a report to the Congress regarding the administration of the program transferred by this Act \[enacting section 91 of this title and provisions set out as notes under sections 23 and 91 of this title\]. Such report shall describe—
 
@@ -88,5 +88,5 @@ Section 2 of Pub. L. 97–454, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 “(a) There are transferred to the Secretary of Commerce, for administration under section 91 of title 13, United States Code, all functions relating to the quarterly financial report program which was carried out by the Federal Trade Commission before the effective date of this Act \[Jan. 12, 1983\] pursuant to the authority of section 6(b) of the Federal Trade Commission Act (15 U.S.C. 46(b)).
 
-“(b) All personnel, property, and records of the Federal Trade Commission which the Director of the Office of Management and Budget determines, after consultation with the Secretary of Commerce and the Chairman of the Federal Trade Commission, to be employed, held, or used in connection with any function relating to the quarterly financial report program shall be transferred to the Department of Commerce. For purposes of sections 6103, 7213, and 7431, and other provisions of the Internal Revenue Code of 1986 \[26 U.S.C. 6103, 7213, 7431\], return information (as defined in section 6103(b) of such Code) which is transferred under this subsection shall be treated as if it were furnished to the Bureau of the Census under section 6103(j)(1) of such Code solely for administering the quarterly financial report program under section 91 of title 13, United States Code. Such transfer shall be carried out not later than 90 days after the effective date of this Act \[Jan. 12, 1983\].”
+“(b) All personnel, property, and records of the Federal Trade Commission which the Director of the Office of Management and Budget determines, after consultation with the Secretary of Commerce and the Chairman of the Federal Trade Commission, to be employed, held, or used in connection with any function relating to the quarterly financial report program shall be transferred to the Department of Commerce. For purposes of sections 6103, 7213, and 7431, and other provisions of the Internal Revenue Code of 1986 \[26 U.S.C. 6103, 7213, 7431\], return information (as defined in section 6103(b) of such Code) which is transferred under this subsection shall be treated as if it were furnished to the Bureau of the Census under section 6103(j)(1) of such Code solely for administering the quarterly financial report programunder section 91 of title 13, United States Code. Such transfer shall be carried out not later than 90 days after the effective date of this Act \[Jan. 12, 1983\].”
 

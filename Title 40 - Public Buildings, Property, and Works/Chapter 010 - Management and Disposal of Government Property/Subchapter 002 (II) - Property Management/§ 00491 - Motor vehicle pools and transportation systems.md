@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to carry out the policy, expressed in section 471 of this title, to provide for an economical and efficient system for transportation of Government personnel and property, it is further intended by the Congress in enacting this section to (1) provide for the proper identification of Government motor vehicles; (2) establish effective means of limiting their use to official governmental purposes; (3) reduce the number of Government-owned vehicles to the minimum necessary for transaction of the public business; (4) provide wherever practicable for centrally operated interagency pools or systems for localtransportation of Government personnel and property; and (5) establish procedures to insure safe operation of motor vehicles on Government business.
+In order to carry out the policy, expressed in section 471 of this title, to provide for an economical and efficient system for transportation of Government personnel and property, it is further intended by the Congress in enacting this section to (1) provide for the proper identification of Government motor vehicles; (2) establish effective means of limiting their use to official governmental purposes; (3) reduce the number of Government-owned vehicles to the minimum necessary for transaction of the public business; (4) provide wherever practicable for centrally operated interagency pools or systems for local transportation of Government personnel and property; and (5) establish procedures to insure safe operation of motor vehicles on Government business.
 
 #### (b) Determinations by Administrator
 
@@ -16,7 +16,7 @@ The President shall, within ninety days after the effective date of this section
 
 (1) The General Supply Fund provided for in section 756 of this title shall be available for use by or under the direction and control of the Administrator for paying all elements of cost (including the purchase or rental price of motor vehicles and other related equipment and supplies) incident to the establishment, maintenance, and operation (including servicing and storage) of motor vehicle pools or systems for the transportation of property or passengers, and to the furnishing of such motor vehicles and equipment and related services pursuant to subsection (b) of this section.
 
-(2) Payments by requisitioning agencies so served shall be at prices fixed by the Administrator at levels which will recover, so far as practicable, all such elements of cost, and may, in the Administrator's discretion, include increments for the estimated replacement cost of such motor vehicles, equipment, and supplies. Such increments may, notwithstanding section 756(e) of this title, be retained as part of the capital of the General Supply Fund, but shall be available only for replacement of such motor vehicles, equipment, and supplies. The purchase price, plus such increments for the estimated replacement cost, of such motor vehicles and equipment shall be recovered only through charges for the cost of amortization. Such costs shall be determined in accordance with the accrual accounting method; and financial reports shall be prepared on the basis of such accounting.
+(2) Payments by requisitioning agencies so served shall be at prices fixed by the Administrator at levels which will recover, so far as practicable, all such elements of cost, and may, in the Administrator's discretion, include increments for the estimated replacement cost of such motor vehicles, equipment, and supplies. Such increments may, notwithstanding section 756(e) of this title, be retained as part of the capital of the General Supply Fund, but shall be available only for replacement of such motor vehicles, equipment, and supplies. The purchase price, plus such increments for the estimated replacement cost, of such motor vehicles and equipment shall be recovered only through charges for the cost of amortization. Such costsshall be determined in accordance with the accrual accounting method; and financial reports shall be prepared on the basis of such accounting.
 
 #### (e) Justification for each vehicle pool and system
 
@@ -28,7 +28,7 @@ Whenever any such motor vehicle pool or system has been established pursuant to 
 
 #### (g) Reimbursement for equipment
 
-Whenever the Administrator takes over pursuant to subsection (b) of this section any motor vehicle or other related equipment or supplies from any Government corporation, or from any other agency if such vehicle, equipment or supplies have been acquired by such agency through expenditures made from, and not theretofore reimbursed to, any revolving or trust fund authorized by law, the Administrator shall reimburse such corporation or fund by an amount equal to the fair market value of the vehicle, equipment or supplies so taken over. If thereafter, pursuant to subsection (f) of this section, the Administrator returns to such corporation or agency any motor vehicle, equipment or supplies, the Administrator shall be reimbursed by the payment to him, by such corporation or from suchfund, of an amount equal to the fair market value of the vehicle, equipment or supplies so returned.
+Whenever the Administrator takes over pursuant to subsection (b) of this section any motor vehicle or other related equipment or supplies from any Government corporation, or from any other agency if such vehicle, equipment or supplies have been acquired by such agency through expenditures made from, and not theretofore reimbursed to, any revolving or trust fund authorized by law, the Administrator shall reimburse such corporation or fund by an amount equal to the fair market value of the vehicle, equipment or supplies so taken over. If thereafter, pursuant to subsection (f) of this section, the Administrator returns to such corporation or agency any motor vehicle, equipment or supplies, the Administrator shall be reimbursed by the payment to him, by such corporation or from such fund, of an amount equal to the fair market value of the vehicle, equipment or supplies so returned.
 
 #### (h) Additions to General Supply Fund capital
 
@@ -50,7 +50,7 @@ Under regulations prescribed by the Administrator, every motor vehicle acquired 
 
 Whenever, during the regular course of his duties, there shall come to the knowledge of the Administrator any violation of the provisions of sections 1343, 1344, and 1349(b) of title 31 or of section 641 of title 18 involving the conversion by a Government official or employee of a Government-owned or leased motor vehicle to his own use or the use of others, the Administrator shall report such violation to the head of the agency in which the official or employee concerned is employed, for further investigation and either appropriate disciplinary action under sections 1343, 1344, and 1349(b) of title 31 or, where appropriate, referral to the Attorney General for prosecution under section 641 of title 18.
 
-(June 30, 1949, ch. 288, title II, §211, as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 580; amended Sept. 1, 1954, ch. 1211, §2, 68 Stat. 1126; Pub. L. 86–624, §27(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 500; Pub. L. 95–506, Oct. 24, 1978, 92 Stat. 1756; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 3607, 92 Stat. 3783.)
+(June 30, 1949, ch. 288, title II, §211, as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 580; amended Sept. 1, 1954, ch. 1211, §2, 68 Stat. 1126; Pub. L. 86–624, §27(b), July 12, 1960, 74 Stat. 418; Pub. L.87–649, §14b, Sept. 7, 1962, 76 Stat. 500; Pub. L. 95–506, Oct. 24, 1978, 92 Stat. 1756; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Pub. L. 101–136, title IV, §9, Nov. 3, 1989, 103 Stat. 803, provided that:
 
 “(a)
 
-In General.—Subject to subsection (b), obligations of funds for multiyear agreements for the lease or other acquisition of motor vehicles entered into by theAdministrator of General Services for the purposes of section 211 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 491) shall be limited to the current fiscal year for which payments are due, without regard to any termination or cancellation costs, and without regard to section 1341(a)(1)(B) of title 31, United States Code.
+In General.—Subject to subsection (b), obligations of funds for multiyear agreements for the lease or other acquisition of motor vehicles entered into by the Administrator of General Services for the purposes of section 211 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 491) shall be limited to the current fiscal year for which payments are due, without regard to any termination or cancellation costs, and without regard to section 1341(a)(1)(B) of title 31, United States Code.
 
 “(b)
 

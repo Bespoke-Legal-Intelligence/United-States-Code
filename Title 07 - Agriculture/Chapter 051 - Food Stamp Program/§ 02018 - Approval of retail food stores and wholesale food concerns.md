@@ -78,7 +78,7 @@ Subsec. (c). Pub. L. 99–198, §1521, inserted provisions relating to disclosur
 
 Subsec. (e). Pub. L. 97–98, §1314, added subsec. (e).
 
-1977—Pub. L. 95–113 substituted revised provisions covering approval of retail food stores and wholesale food concerns for provisions relating to redemption ofcoupons which are now covered by section 2019 of this title.
+1977—Pub. L. 95–113 substituted revised provisions covering approval of retail food stores and wholesale food concerns for provisions relating to redemption of coupons which are now covered by section 2019 of this title.
 
 #### Effective Date of 1994 Amendment
 

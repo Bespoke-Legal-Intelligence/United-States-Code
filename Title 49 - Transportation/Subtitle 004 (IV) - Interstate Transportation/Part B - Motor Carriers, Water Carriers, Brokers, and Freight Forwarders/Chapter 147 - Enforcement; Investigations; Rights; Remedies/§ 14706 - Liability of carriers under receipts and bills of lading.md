@@ -10,7 +10,7 @@ Motor carriers and freight forwarders.—A carrier providing transportation or s
 
 &emsp;(2)
 
-Freight forwarder.—A freight forwarder is both the receiving and deliveringcarrier. When a freight forwarder provides service and uses a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
+Freight forwarder.—A freight forwarder is both the receiving and delivering carrier. When a freight forwarder provides service and uses a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
 
 (b)
 
@@ -82,7 +82,7 @@ Special rules.—For the purposes of this subsection—
 
 (f)
 
-Limiting Liability of Household Goods Carriers to Declared Value.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
+Limiting Liability of Household Goods Carriers to Declared Value.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for thatproperty is limited to a value established by written declaration of the shipper or by a written agreement.
 
 (g)
 

@@ -6,7 +6,7 @@ The Congress hereby finds and declares that the purpose of this subchapter is to
 
 #### (b) Loans; obligations of development companies
 
-The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shall be in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by the development company of funds secured by it from other sources.
+The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shall be in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by thedevelopment company of funds secured by it from other sources.
 
 #### (c) Maximum loans to development companies
 
@@ -46,7 +46,7 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term‘rural areas’ means those localities with populations of less than 20,000.”
+1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
 
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 

@@ -8,7 +8,7 @@ Section 615kkk, Pub. L. 92–514, title II, §202, Oct. 20, 1972, 86 Stat. 966, 
 
 Section 615<i>lll</i>, Pub. L. 92–514, title II, §203, Oct. 20, 1972, 86 Stat. 967, provided that nothing in Pub. L. 92–514, enacting sections 615aaa to 615jjjj of this title, amend, repeal, or modify the Pecos River Compact, 1948.
 
-Section 615mmm, Pub. L. 92–514, title II, §204, Oct. 20, 1972, 86 Stat. 967, related to repayment of costs for floodcontrol, dam safety, recreation, and fish and wildlife enhancement.
+Section 615mmm, Pub. L. 92–514, title II, §204, Oct. 20, 1972, 86 Stat. 967, related to repayment of costs for flood control, dam safety, recreation, and fish and wildlife enhancement.
 
 Section 615nnn, Pub. L. 92–514, title II, §205, Oct. 20, 1972, 86 Stat. 967, related to interest rates.
 

@@ -42,7 +42,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(1) basic research concerning the etiology and causes of ovarian cancer and other cancers of the reproductive system of women;
 
-&emsp;(2) clinical research and related activities into the causes, prevention, detection and treatment of ovarian cancer and other cancers of the reproductive system of women;
+&emsp;(2) clinical research and related activities into the causes, prevention, detection andtreatment of ovarian cancer and other cancers of the reproductive system of women;
 
 &emsp;(3) control programs with respect to ovarian cancer and other cancers of the reproductive system of women in accordance with section 285a–1 of this title;
 
@@ -64,11 +64,11 @@ The Director of the Institute shall prepare, for inclusion in the biennial repor
 
 &emsp;(5) such comments and recommendations as the Director considers appropriate.
 
-(July 1, 1944, ch. 373, title IV, §417, as added June 10, 1993, Pub. L. 103–43, title IV, §401, 107 Stat. 153.)
+(July 1, 1944, ch. 373, title IV, §417, as added Pub. L. 103–43, title IV, §401, June 10, 1993, 107 Stat. 153.)
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

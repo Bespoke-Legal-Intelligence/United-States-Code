@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to the principal agency of a State for carrying out authorized activities, a funding agreement for a grant under section 300x–21 of this title for the State for a fiscal year is thatsuch agency will for such year maintain aggregate State expenditures for authorized activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying for the grant.
+With respect to the principal agency of a State for carrying out authorized activities, a funding agreement for a grant under section 300x–21 of this title for the State for a fiscal year is that such agency will for such year maintain aggregate State expenditures for authorized activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying for the grant.
 
 #### (b) Waiver
 
@@ -28,7 +28,7 @@ With respect to the principal agency of a State for carrying out authorized acti
 
 &emsp;The Secretary may make a grant under section 300x–21 of this title for a fiscal year only if the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in paragraph (1).
 
-(July 1, 1944, ch. 373, title XIX, §1930, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 397.)
+(July 1, 1944, ch. 373, title XIX, §1930, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 397.)
 
 #### Prior Provisions
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) The Administrator shall establish performance standards and other requirements pursuant to section 7411 of this title and this section for each category of solid waste incineration units. Such standards shall include emissions limitations and other requirements applicable to new units and guidelines (under section 7411(d) of this title and this section) and other requirements applicable to existing units.
+&emsp;(A) The Administrator shall establish performance standards and other requirementspursuant to section 7411 of this title and this section for each category of solid waste incineration units. Such standards shall include emissions limitations and other requirements applicable to new units and guidelines (under section 7411(d) of this title and this section) and other requirements applicable to existing units.
 
 &emsp;(B) Standards under section 7411 of this title and this section applicable to solid waste incineration units with capacity greater than 250 tons per day combusting municipal waste shall be promulgated not later than 12 months after November 15, 1990. Nothing in this subparagraph shall alter any schedule for the promulgation of standards applicable to such units under section 7411 of this title pursuant to any settlement and consent decree entered by the Administrator before November 15, 1990: <i>Provided</i>, That, such standards are subsequently modified pursuant to the schedule established in this subparagraph to include each of the requirements of this section.
 
@@ -38,7 +38,7 @@
 
 #### (2) State plans
 
-&emsp;Not later than 1 year after the Administrator promulgates guidelines for a category of solid waste incineration units, each State in which units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be at least as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but notlater than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
+&emsp;Not later than 1 year after the Administrator promulgates guidelines for a categoryof solid waste incineration units, each State in which units in the category are operating shall submit to the Administrator a plan to implement and enforce the guidelines with respect to such units. The State plan shall be at least as protective as the guidelines promulgated by the Administrator and shall provide that each unit subject to the guidelines shall be in compliance with all requirements of this section not later than 3 years after the State plan is approved by the Administrator but not later than 5 years after the guidelines were promulgated. The Administrator shall approve or disapprove any State plan within 180 days of the submission, and if a plan is disapproved, the Administrator shall state the reasons for disapproval in writing. Any State may modify and resubmit a plan which has been disapproved by the Administrator.
 
 #### (3) Federal plan
 
@@ -68,11 +68,11 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (1) New units
 
-&emsp;Performance standards and other requirements promulgated pursuant to this section and section 7411 of this title and applicable to new solid waste incineration units shall be effective as of the date 6 months after the date of promulgation.
+&emsp;Performance standards and other requirements promulgated pursuant to this section and section 7411 of this title and applicable tonew solid waste incineration units shall be effective as of the date 6 months after the date of promulgation.
 
 #### (2) Existing units
 
-&emsp;Performance standards and other requirements promulgated pursuant to this section and section 7411 of this title and applicable to existing solid waste incineration units shall be effective as expeditiously as practicable after approval of a State plan under subsection (b)(2) of this section (or promulgation of a planby the Administrator under subsection (b)(3) of this section) but in no event later than 3 years after the State plan is approved or 5 years after the date such standards or requirements are promulgated, whichever is earlier.
+&emsp;Performance standards and other requirements promulgated pursuant to this section and section 7411 of this title and applicable to existing solid waste incineration units shall be effective as expeditiously as practicable after approval of a State plan under subsection (b)(2) of this section (or promulgation of a plan by the Administrator under subsection (b)(3) of this section) but in no event later than 3 years after the State plan is approved or 5 years after the date such standards or requirements are promulgated, whichever is earlier.
 
 #### (3) Prohibition
 
@@ -118,7 +118,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 #### (2) Other authority under this chapter
 
-&emsp;Nothing in this section shall diminish the authority of the Administrator or a State to establish any other requirements applicable to solid waste incineration units under any other authority of law, including the authority toestablish for any air pollutant a national ambient air quality standard, except that no solid waste incineration unit subject to performance standards under this section and section 7411 of this title shall be subject to standards under section 7412(d) of this title.
+&emsp;Nothing in this section shall diminish the authority of the Administrator or a State to establish any other requirements applicable to solid waste incineration units under any other authority of law, including the authority to establish for any air pollutant a national ambient air quality standard, except that no solid waste incineration unit subject to performance standards under this section and section 7411 of this title shall be subject to standards under section 7412(d) of this title.
 
 #### (3) Residual risk
 
@@ -136,7 +136,7 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 &emsp;No requirement of an applicable implementation plan under section 7475 of this title (relating to construction of facilities in regions identified pursuant to section 7407(d)(1)(A)(ii) or (iii) of this title) or under section 7502(c)(5) of this title (relating to permits for construction and operation in nonattainment areas) may be used to weaken the standards in effect under this section.
 
-(July 14, 1955, ch. 360, title I, §129, as added Nov. 15, 1990, Pub. L. 101–549, title III, §305(a), 104 Stat. 2577.)
+(July 14, 1955, ch. 360, title I, §129, as added Pub. L. 101–549, title III, §305(a), Nov. 15, 1990, 104 Stat. 2577.)
 
 #### References in Text
 

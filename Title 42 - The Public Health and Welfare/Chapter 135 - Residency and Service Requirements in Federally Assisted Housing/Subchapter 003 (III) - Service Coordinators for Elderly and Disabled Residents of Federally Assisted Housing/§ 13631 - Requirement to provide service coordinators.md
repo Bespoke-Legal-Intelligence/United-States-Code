@@ -34,7 +34,7 @@ This subtitle, referred to in subsecs. (a), (b), and (d), means subtitle E of ti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437f, 1437g, 13632 of this title.
+This section is referred to in sections 1437f, 13632 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

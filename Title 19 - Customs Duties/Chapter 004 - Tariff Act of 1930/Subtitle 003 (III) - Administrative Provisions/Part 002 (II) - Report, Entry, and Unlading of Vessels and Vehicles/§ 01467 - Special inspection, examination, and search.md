@@ -2,7 +2,7 @@
 
 Whenever a vessel from a foreign port or place or from a port or place in any Territory or possession of the United States arrives at a port or place in the United States or the Virgin Islands, whether directly or via another port or place in the United States or the Virgin Islands, the appropriate customs officer for such port or place of arrival may, under such regulations as the Secretary of the Treasury may prescribe and for the purpose of assuring compliance with any law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce, cause inspection, examination, and search to be made of the persons, baggage, and merchandise discharged or unladen from such vessel, whether or not any or all such persons, baggage, or merchandise has previously been inspected, examined, or searched by officers of the customs.
 
-(June 17, 1930, ch. 497, title IV, §467, as added June 25, 1938, ch. 679, §11, 52 Stat. 1083; amended June 2, 1970, Pub. L. 91–271, title III, §301(g), 84 Stat. 288.)
+(June 17, 1930, ch. 497, title IV, §467, as added June 25, 1938, ch. 679, §11, 52 Stat. 1083; amended Pub. L. 91–271, title III, §301(g), June 2, 1970, 84 Stat. 288.)
 
 #### Amendments
 
@@ -14,7 +14,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date
 
-This section effective on the thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as an Effective Date of 1938 Amendment note under section 1401 of this title.
+This section effective on the thirtieth day following June 25, 1938, except as otherwise specifically provided,see section 37 of act June 25, 1938, set out as an Effective Date of 1938 Amendment note under section 1401 of this title.
 
 #### Transfer of Functions
 

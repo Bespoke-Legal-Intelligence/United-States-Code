@@ -52,7 +52,7 @@
 
 #### (6) Magnitude of margin of dumping and net countervailable subsidy; nature of countervailable subsidy
 
-&emsp;In making a determination under section 1675(b) or (c) of this title, the Commission may consider the magnitude of the margin of dumping or the magnitude of the net countervailable subsidy. If a countervailable subsidy is involved the Commission shall consider information regarding the nature of the countervailable subsidy and whether the subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement.
+&emsp;In making a determination under section 1675(b) or (c) of this title, the Commission mayconsider the magnitude of the margin of dumping or the magnitude of the net countervailable subsidy. If a countervailable subsidy is involved the Commission shall consider information regarding the nature of the countervailable subsidy and whether the subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement.
 
 #### (7) Cumulation
 
@@ -60,7 +60,7 @@
 
 #### (8) Special rule for regional industries
 
-&emsp;In a review under section 1675(b) or (c) of this title involving a regional industry, the Commission may base its determination onthe regional industry defined in the original investigation under this subtitle, another region that satisfies the criteria established in section 1677(4)(C) of this title, or the United States as a whole. In determining if a regional industry analysis is appropriate for the determination in the review, the Commission shall consider whether the criteria established in section 1677(4)(C) of this title are likely to be satisfied if the order is revoked or the suspended investigation is terminated.
+&emsp;In a review under section 1675(b) or (c) of this title involving a regional industry, the Commission may base its determination on the regional industry defined in the original investigation under this subtitle, another region that satisfies the criteria established in section 1677(4)(C) of this title, or the United States as a whole. In determining if a regional industry analysis is appropriate for the determination in the review, the Commission shall consider whether the criteria established in section 1677(4)(C) of this title are likely to be satisfied if the order is revoked or the suspended investigation is terminated.
 
 #### (b) Determination of likelihood of continuation or recurrence of a countervailable subsidy
 
@@ -114,7 +114,7 @@
 
 #### (3) Magnitude of the margin of dumping
 
-&emsp;The administering authority shall provide to the Commission the magnitude of the margin of dumping that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a margin that was determined under section 1673d of this title or under subsection (a) or (b)(1) of section 1675 of this title.
+&emsp;The administering authority shall provide to the Commission the magnitude of the margin of dumping that is likely to prevail if theorder is revoked or the suspended investigation is terminated. The administering authority shall normally choose a margin that was determined under section 1673d of this title or under subsection (a) or (b)(1) of section 1675 of this title.
 
 #### (4) Special rule
 
@@ -126,11 +126,11 @@
 
 &emsp;&emsp;For purposes of this paragraph, the administering authority shall apply the de minimis standards applicable to reviews conducted under subsections (a) and (b) of section 1675 of this title.
 
-(June 17, 1930, ch. 497, title VII, §752, as added Dec. 8, 1994, Pub. L. 103–465, title II, §221(a), 108 Stat. 4865.)
+(June 17, 1930, ch. 497, title VII, §752, as added Pub. L. 103–465, title II, §221(a), Dec. 8, 1994, 108 Stat. 4865.)
 
 #### Effective Date
 
-Section effective, except as otherwise provided, on the date on which the WTO Agreement enters intoforce with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
+Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
 
 #### Section Referred to in Other Sections
 

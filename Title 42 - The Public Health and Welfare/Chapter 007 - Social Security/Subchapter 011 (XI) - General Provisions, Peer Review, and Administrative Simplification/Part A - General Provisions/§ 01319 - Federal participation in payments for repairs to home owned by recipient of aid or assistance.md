@@ -8,7 +8,7 @@ In the case of an expenditure for repairing the home owned by an individual who 
 
 > the amount paid to any such State for any quarter under section 303(a), 1203(a), 1353(a), or 1383(a) of this title shall be increased by 50 per centum of such expenditures, except that the excess above $500 expended with respect to any one home shall not be included in determining such expenditures.
 
-(Aug. 14, 1935, ch. 531, title XI, §1119, as added Jan. 2, 1968, Pub. L. 90–248, title II, §209(a), 81 Stat. 894; amended Aug. 22, 1996, Pub. L. 104–193, title I, §108(g)(5), 110 Stat. 2168.)
+(Aug. 14, 1935, ch. 531, title XI, §1119, as added Pub. L. 90–248, title II, §209(a), Jan. 2, 1968, 81 Stat. 894; amended Pub. L. 104–193, title I, §108(g)(5), Aug. 22, 1996, 110 Stat. 2168.)
 
 #### References in Text
 
@@ -16,7 +16,7 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 
 #### Amendments
 
-1996—Pub. L. 104–193 substituted “subchapter I, X, XIV, or XVI of this chapter,” for “subchapter I, X, XIV, or XVI, or part A of subchapter IV of this chapter” in introductory provisions and struck out “603(a),” before “1203(a),” in closing provisions.
+1996—Pub. L. 104–193 substituted “subchapter I, X, XIV, or XVI of this chapter,” for “subchapter I, X, XIV,or XVI, or part A of subchapter IV of this chapter” in introductory provisions and struck out “603(a),” before “1203(a),” in closing provisions.
 
 #### Effective Date of 1996 Amendment
 

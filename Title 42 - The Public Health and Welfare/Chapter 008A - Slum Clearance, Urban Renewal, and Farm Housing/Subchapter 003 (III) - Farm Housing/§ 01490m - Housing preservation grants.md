@@ -8,7 +8,7 @@ The purpose of this section is to authorize the Secretary to make grants to elig
 
 &emsp;(2) rehabilitate or replace rental properties or cooperative housing which has a membership resale structure that enables the cooperative to maintain affordability for persons of low income in rural areas serving low- and very low-income occupants.
 
-> The Secretary may also provide assistance payments as provided by section 1437f(<i>o</i>) of this title or section 1490r of this title upon the request of grantees in order to minimize the displacement of very low-income tenants residing in units rehabilitated or replaced with assistance under this section.
+> The Secretary may also provide tenant-based assistance as provided under section 1437f of this title or section 1490r of this title upon the request of grantees in order to minimize the displacement of very low-income tenants residing in units rehabilitated or replaced with assistance under this section.
 
 #### (b) Mandatory program requirements
 
@@ -22,7 +22,7 @@ Preservation programs assisted under this section shall—
 
 &emsp;(4) be used to provide loans or grants to owners of rental housing, except that rental rehabilitation or replacement assistance provided under this subsection for any structure shall not exceed 75 per centum of the total costs associated with the rehabilitation or replacement of that structure;
 
-&emsp;(5) be used to provide other comparable assistance that the Secretary deems appropriate to carry out the purpose of this section, designed to reduce the costs of such repair, rehabilitation, and replacement in order to make such housing affordable by persons of low income and, to the extent feasible, by personsand families whose incomes do not exceed 50 per centum of the area median income;
+&emsp;(5) be used to provide other comparable assistance that the Secretary deems appropriate to carry out the purpose of this section, designed to reduce the costs of such repair, rehabilitation, and replacement in order to make such housing affordable by persons of low income and, to the extent feasible, by persons and families whose incomes do not exceed 50 per centum of the area median income;
 
 &emsp;(6) benefit low- and very low-income persons and families in rural areas, without causing the displacement of current residents; and
 
@@ -126,17 +126,7 @@ The Secretary shall, at least on an annual basis, make such review and audits as
 
 The Secretary shall establish procedures which support national historic preservation objectives and which assure that, if any rehabilitation proposed to be assisted under this section would affect property that is included or is eligible for inclusion on the National Register of Historic Places, such activity shall not be undertaken unless (1) it will reasonably meet the standards for rehabilitation issued by the Secretary of the Interior and the appropriate State historic preservation officer is afforded the opportunity to comment on the specific rehabilitation plan, or (2) the Advisory Council on Historic Preservation is afforded an opportunity to comment on cases for which the recipient of assistance, in consultation with the State historic preservation officer, determines that the proposed rehabilitation activity cannot reasonably meet such standards or would adversely affect historic property as defined therein.
 
-#### (j) Reporting requirements
-
-Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall submit to the Congress a report which shall contain—
-
-&emsp;(1) a description of the progress made in accomplishing the objectives of this section; and
-
-&emsp;(2) a summary of the use of such funds during the preceding year.
-
-> The Secretary shall require grantees under this section to submit to him such reports, and other information as may be necessary in order for the Secretary to make the report required by this subsection.
-
-(July 15, 1949, ch. 338, title V, §533, as added Nov. 30, 1983, Pub. L. 98–181, title V, §522, 97 Stat. 1250; amended Feb. 5, 1988, Pub. L. 100–242, title III, §§310, 316(g), 101 Stat. 1896, 1898; Nov. 28, 1990, Pub. L. 101–625, title VII, §717, 104 Stat. 4296; Oct. 28, 1992, Pub. L. 102–550, title VII, §§706(1), 711, 106 Stat. 3835, 3840.)
+(July 15, 1949, ch. 338, title V, §533, as added Pub. L. 98–181, title V, §522, Nov. 30, 1983, 97 Stat. 1250; amended Pub. L. 100–242, title III, §§310, 316(g), Feb. 5, 1988, 101 Stat. 1896, 1898; Pub. L. 101–625, title VII, §717, Nov. 28, 1990, 104 Stat. 4296; Pub. L. 102–550, title VII, §§706(1), 711, Oct. 28, 1992, 106 Stat. 3835, 3840; Pub. L. 105–276, title V, §550(e), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 105–362, title I, §101(h), Nov. 10, 1998, 112 Stat. 3281.)
 
 #### References in Text
 
@@ -145,6 +135,16 @@ Public Law 88–352, referred to in subsec. (e)(1)(C), is Pub. L. 88–352, July
 Public Law 90–284, referred to in subsec. (e)(1)(C), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance as provided under section 1437f of this title” for “assistance payments as provided by section 1437f(<i>o</i>) of this title” in concluding provisions.
+
+Subsec. (j). Pub. L. 105–362 struck out subsec. (j) which read as follows: “Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall submit to the Congress a report which shall contain—
+
+&emsp;“(1) a description of the progress made in accomplishing the objectives of this section; and
+
+&emsp;“(2) a summary of the use of such funds during the preceding year.
+
+> The Secretary shall require grantees under this section to submit to him such reports, and other information as may be necessary in order for the Secretary to make the report required by this subsection.”
 
 1992—Subsec. (a). Pub. L. 102–550, §§706(1), 711(1)(B), in concluding provisions, inserted reference to section 1490r of this title and “or replaced” after “rehabilitated”.
 
@@ -184,11 +184,15 @@ Subsec. (g). Pub. L. 100–242, §316(g)(2), substituted “low income families 
 
 Subsec. (h). Pub. L. 100–242, §310, designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+
 #### Rural Rental Rehabilitation Demonstration
 
-Section 311 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1044, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(d), Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846, directed Secretary of Housing and Urban Development to carry out a rural rental rehabilitation demonstration program, provided funding for program, required Secretary to submit a report to Congress as soon as practicable after Sept. 30, 1989, setting forth findings and recommendations of Secretary as a result of demonstration program, which report was to include specific evaluations, and terminated authority for such program after Sept. 30, 1991.
+Pub. L. 100–242, title III, §311, Feb. 5, 1988, 101 Stat. 1896, as amended by Pub. L. 100–628, title X, §1044, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(d), Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846; Pub. L. 105–362, title VII, §701(f), Nov. 10, 1998, 112 Stat. 3287, directed Secretary of Housing and Urban Development to carry out a rural rental rehabilitation demonstration program, provided funding for program, and terminated authority for such program after Sept. 30, 1991.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437f, 1439, 1479, 1483, 1490r, 4851b of this title; title 7 section 2204f.
+This section is referred to in sections 1437f, 1479, 1483, 1490r, 4851b of this title; title 7 section 2204f.
 

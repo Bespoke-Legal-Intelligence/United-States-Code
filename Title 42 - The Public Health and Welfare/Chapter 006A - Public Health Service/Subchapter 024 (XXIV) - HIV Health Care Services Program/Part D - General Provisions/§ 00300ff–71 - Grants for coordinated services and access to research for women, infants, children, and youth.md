@@ -16,7 +16,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (1) In general
 
-&emsp;With respect to the projects of research with which an applicant under subsection (a) of this section is concerned, the Secretary may make a grant under such subsection to the applicant only if the following conditions are met:
+&emsp;With respect to the projects of research with which an applicant under subsection (a) of thissection is concerned, the Secretary may make a grant under such subsection to the applicant only if the following conditions are met:
 
 &emsp;&emsp;(A) The applicant agrees to make reasonable efforts—
 
@@ -48,7 +48,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (B) Termination of authority for waivers
 
-&emsp;&emsp;The Secretary may not provide any waiver under subparagraph (A) on or after October 1, 1998. Any such waiver provided prior tosuch date terminates on such date, or on such earlier date as the Secretary may specify.
+&emsp;&emsp;The Secretary may not provide any waiver under subparagraph (A) on or after October 1, 1998. Any such waiver provided prior to such date terminates on such date, or on such earlier date as the Secretary may specify.
 
 #### (c) Provisions regarding conduct of research
 
@@ -126,7 +126,7 @@ Of the amounts appropriated under subsection (j) of this section for a fiscal ye
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1996 through 2000.
 
-(July 1, 1944, ch. 373, title XXVI, §2671, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §401, 104 Stat. 617; amended May 20, 1996, Pub. L. 104–146, §3(e), 110 Stat. 1358.)
+(July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358.)
 
 #### References in Text
 

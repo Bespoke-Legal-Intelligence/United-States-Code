@@ -32,7 +32,7 @@ Priority in carrying out this section shall be given to the activities described
 
 #### (2) Limitation
 
-&emsp;Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of thediscretionary spending limits for that fiscal year (as defined in section 665(a)(2) <sup>1</sup> of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
+&emsp;Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) <sup>1</sup> of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
 (Pub. L. 102–511, title V, §503, Oct. 24, 1992, 106 Stat. 3338.)
 
@@ -48,7 +48,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Delegation of Authority
 
-Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
+Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum ofPresident of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 
 #### Section Referred to in Other Sections
 

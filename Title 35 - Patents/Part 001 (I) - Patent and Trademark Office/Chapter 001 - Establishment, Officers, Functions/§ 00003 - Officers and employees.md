@@ -6,11 +6,11 @@
 
 (c) The Secretary of Commerce is authorized to fix the per annum rate of basic compensation of each examiner-in-chief in the Patent and Trademark Office at not in excess of the maximum scheduled rate provided for positions in grade 17 of the General Schedule of the Classification Act of 1949, as amended.<sup>1</sup>
 
-(d) The Commissioner of Patents and Trademarks shall be an Assistant Secretary of Commerce and shall receive compensation at the rate prescribed by law for Assistant Secretaries of Commerce.
+(d) The Commissioner of Patents and Trademarks shall be an Assistant Secretary of Commerce and shall receive compensation at the rate in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code.
 
 (e) The members of the Trademark Trial and Appeal Board of the Patent and Trademark Office shall each be paid at a rate not to exceed the maximum rate of basic pay payable for GS–16 of the General Schedule under section 5332 of title 5.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, §401(a)(1), Oct. 28, 1998, 112 Stat. 2887.)
 
 #### Historical and Revision Notes
 
@@ -24,9 +24,11 @@ This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263
 
 #### References in Text
 
-The Classification Act of 1949, as amended, referred to in subsec. (c), is act Oct. 28, 1949, ch. 782, 63 Stat. 954,as amended, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5, Government Organization and Employees.
+The Classification Act of 1949, as amended, referred to in subsec. (c), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–304 substituted “in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code” for “prescribed by law for Assistant Secretaries of Commerce”.
 
 1984—Subsec. (e). Pub. L. 98–622 added subsec. (e).
 

@@ -6,7 +6,7 @@ The Secretary of State shall be charged with the administration and the enforcem
 
 #### (b) Designation and duties of Administrator
 
-The Secretary of State shall designate an Administrator who shall be a citizen of the United States, qualified by experience. The Administrator shall maintain close liaison with the appropriate committees of Congress in order that they may be advised regarding the administration of this chapter by consular officers. The Administrator shall be charged with any and all responsibility and authority in the administration of this chapter which are conferred on the Secretary of State as may be delegated to the Administrator by the Secretary of State or which may be prescribed by the Secretary of State, and shall perform such other duties as the Secretary of State may prescribe.
+The Secretary of State shall designate an Administrator who shall be a citizen of the United States, qualified by experience. The Administrator shall maintain close liaison with the appropriate committees of Congress in order that they may be advised regarding the administration of this chapter by consular officers. The Administrator shall be charged with any and all responsibility and authority in the administrationof this chapter which are conferred on the Secretary of State as may be delegated to the Administrator by the Secretary of State or which may be prescribed by the Secretary of State, and shall perform such other duties as the Secretary of State may prescribe.
 
 #### (c) Passport Office, Visa Office, and other offices; directors
 
@@ -20,7 +20,7 @@ The functions heretofore performed by the Passport Division and the Visa Divisio
 
 There shall be a General Counsel of the Visa Office, who shall be appointed by the Secretary of State and who shall serve under the general direction of the Legal Adviser of the Department of State. The General Counsel shall have authority to maintain liaison with the appropriate officers of the Service with a view to securing uniform interpretations of the provisions of this chapter.
 
-(June 27, 1952, ch. 477, title I, §104, 66 Stat. 174; June 28  1962, Pub. L. 87-510, §4(a)(2), 76 Stat. 123; Aug. 14, 1964, Pub. L. 88–426, title III, §305(43), 78 Stat. 428; Aug. 17, 1977, Pub. L. 95–105, title I, §109(b)(1), 91 Stat. 847; Oct. 24, 1988, Pub. L. 100–525, §9(d), 102 Stat. 2620; Apr. 30, 1994, Pub. L. 103–236, title I, §162(h)(2), 108 Stat. 407.)
+(June 27, 1952, ch. 477, title I, §104, 66 Stat. 174; Pub. L. 87-510, §4(a)(2), June 28, 1962, 76 Stat. 123; Pub. L. 88–426, title III, §305(43), Aug. 14, 1964, 78 Stat. 428; Pub. L. 95–105, title I, §109(b)(1), Aug. 17, 1977, 91 Stat. 847; Pub. L. 100–525, §9(d), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 103–236, title I, §162(h)(2), Apr. 30, 1994, 108 Stat. 407.)
 
 #### Amendments
 
@@ -28,7 +28,7 @@ There shall be a General Counsel of the Visa Office, who shall be appointed by t
 
 Subsec. (a)(2). Pub. L. 103–236, §162(h)(2)(B), substituted “the Administrator” for “the Bureau of Consular Affairs”.
 
-Subsec. (b). Pub. L. 103–236, §162(h)(2)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is established in the Department of State a Bureau of Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs. The Assistant Secretary of State for Consular Affairs shall be a citizen of the United States, qualified by experience, and shall maintain close liaison with the appropriate committees of Congress in order that they may be advised regarding the administration of this chapter by consular officers. He shall be charged with any and all responsibility and authority in the administration of the Bureau and of this chapter which areconferred on the Secretary of State as may be delegated to him by the Secretary of State or which may be prescribed by the Secretary of State. He shall also perform such other duties as the Secretary of State may prescribe.”
+Subsec. (b). Pub. L. 103–236, §162(h)(2)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is established in the Department of State a Bureau of Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs. The Assistant Secretary of State for Consular Affairs shall be a citizen of the United States, qualified by experience, and shall maintain close liaison with the appropriate committees of Congress in order that they may be advised regarding the administration of this chapter by consular officers. He shall be charged with any and all responsibility and authority in the administration of the Bureau and of this chapter which are conferred on the Secretary of State as may be delegated to him by the Secretary of State or which may be prescribed by the Secretary of State. He shall also perform such other duties as the Secretary of State may prescribe.”
 
 Subsec. (c). Pub. L. 103–236, §162(h)(2)(D), substituted “Department of State” for “Bureau”.
 

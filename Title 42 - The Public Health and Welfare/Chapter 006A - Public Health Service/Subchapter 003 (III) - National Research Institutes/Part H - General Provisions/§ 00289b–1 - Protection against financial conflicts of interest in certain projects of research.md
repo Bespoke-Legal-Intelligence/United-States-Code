@@ -38,7 +38,7 @@ For purposes of this section:
 
 &emsp;(2) The term “assistance”, with respect to conducting a project of research, means a grant, contract, or cooperative agreement.
 
-(July 1, 1944, ch. 373, title IV, §493A, as added June 10, 1993, Pub. L. 103–43, title I, §164, 107 Stat. 142.)
+(July 1, 1944, ch. 373, title IV, §493A, as added Pub. L. 103–43, title I, §164, June 10, 1993, 107 Stat. 142.)
 
 #### Regulations
 

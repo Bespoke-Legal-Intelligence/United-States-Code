@@ -12,7 +12,7 @@
 
 (2) For purposes of paragraph (1)(B)(ii), a child meets the requirements of this paragraph if such child—
 
-&emsp;(A)(i) at the time adoption proceedings were initiated, met the requirements of section 606(a) of this title or section 607 of this title (as such sections were in effect on July 16,1996) or would have met such requirements except for his removal from the home of a relative (specified in section 606(a) of this title (as so in effect)), either pursuant to a voluntary placement agreement with respect to which Federal payments are provided under section 674 (or 603 (as such section was in effect on July 16, 1996)) of this title or as a result of a judicial determination to the effect that continuation therein would be contrary to the welfare of such child,
+&emsp;(A)(i) at the time adoption proceedings were initiated, met the requirements of section 606(a) of this title or section 607 of this title (as such sections were in effect on July 16, 1996) or would have met such requirements except for his removal from the home of a relative (specified in section 606(a) of this title (as so in effect)), either pursuant to a voluntary placement agreement with respect to which Federal payments are provided under section 674 (or 603 (as such section was in effect on July 16, 1996)) of this title or as a result of a judicial determination to the effect that continuation therein would be contrary to the welfare of such child,
 
 &emsp;(ii) meets all of the requirements of subchapter XVI of this chapter with respect to eligibility for supplemental security income benefits, or
 
@@ -32,7 +32,7 @@
 
 (4) Notwithstanding the preceding paragraph, (A) no payment may be made to parents with respect to any child who has attained the age of eighteen (or, where the State determines that the child has a mental or physical handicap which warrants the continuation of assistance, the age of twenty-one), and (B) no payment may be made to parents with respect to any child if the State determines that the parents are no longer legally responsible for the support of the child or if the State determines that the child is no longer receiving any support from such parents. Parents who have been receiving adoption assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for such assistance payments, or eligible for assistance payments in a different amount.
 
-(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section, to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
+(5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c) of this section,to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
 (6)(A) For purposes of paragraph (1)(B)(i), the term “nonrecurring adoption expenses” means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
@@ -42,7 +42,7 @@
 
 (1) For purposes of subchapter XIX of this chapter, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect) in the State where such child resides.
 
-(2) For purposes of subchapter XX of this chapter, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A ofthis subchapter and deemed to be a recipient of assistance under such part.
+(2) For purposes of subchapter XX of this chapter, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and deemed to be a recipient of assistance under such part.
 
 (3) A child described in this paragraph is any child—
 
@@ -62,7 +62,7 @@ For purposes of this section, a child shall not be considered a child with speci
 
 &emsp;(2) the State had first determined (A) that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter, and (B) that, except where it would be against the best interests of the child because of such factors as the existence of significant emotional ties with prospective adoptive parents while in the care of such parents as a foster child, a reasonable, but unsuccessful, effort has been made to place the child with appropriate adoptive parents without providing adoption assistance under this section or medical assistance under subchapter XIX of this chapter.
 
-(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended June 17, 1980, Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), 94 Stat. 504, 514; Apr. 7, 1986, Pub. L. 99–272, title XII, §12305(a), (b)(1), 100 Stat. 293; Oct. 22, 1986, Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), 100 Stat. 2783, 2784; Nov. 6, 1986, Pub. L. 99–603, title II, §201(b)(2)(B), 100 Stat. 3403; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), 101 Stat. 1330–314, 1330–321; Oct. 31, 1994, Pub. L. 103–432, title II, §§265(b), 266(a), 108 Stat. 4469; Aug. 22, 1996, Pub. L. 104–193, title I, §108(d)(5), (6), 110 Stat. 2167; Aug. 5, 1997, Pub. L. 105–33, title V, §5513(b)(3), (4), 111 Stat. 620; Nov. 19, 1997, Pub. L. 105–89, title III, §307(a), 111 Stat. 2133.)
+(Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Section 12305(c) of Pub. L. 99–272 provided that: “The amendments made by th
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 102(a)(3) of Pub. L. 96–272 effective only with respect to expenditures made after Sept. 30, 1979, see section 102(c) of Pub. L. 96–272, as amended, set out as a note under section 672 of this title.
+Amendment by section 102(a)(3) of Pub. L. 96–272 effective only with respect to expenditures made after Sept. 30, 1979, see section 102(c) of Pub. L. 96–272, asamended, set out as a note under section 672 of this title.
 
 #### Section Referred to in Other Sections
 

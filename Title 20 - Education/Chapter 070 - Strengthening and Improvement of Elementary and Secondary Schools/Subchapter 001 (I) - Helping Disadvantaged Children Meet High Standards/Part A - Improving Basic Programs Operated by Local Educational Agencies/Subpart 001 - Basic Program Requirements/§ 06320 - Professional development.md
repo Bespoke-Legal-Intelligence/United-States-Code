@@ -8,7 +8,7 @@
 
 #### (2) Program design
 
-&emsp;Such professional development activities shall be designed by principals, teachers, andother school staff in schools receiving assistance under this part.
+&emsp;Such professional development activities shall be designed by principals, teachers, and other school staff in schools receiving assistance under this part.
 
 #### (b) Professional development activities
 
@@ -66,7 +66,7 @@ In carrying out such professional development programs, local educational agenci
 
 #### (f) Effective teaching strategies
 
-Knowledge of effective teaching strategies that is gained through professional development activities under this section may be shared with teachers who are not participating in targeted assistance programs under this part.
+Knowledge of effective teaching strategies that is gained through professional developmentactivities under this section may be shared with teachers who are not participating in targeted assistance programs under this part.
 
 #### (g) Combinations of funds
 

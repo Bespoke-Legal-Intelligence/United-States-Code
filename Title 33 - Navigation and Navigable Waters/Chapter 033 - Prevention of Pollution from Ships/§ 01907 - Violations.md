@@ -18,7 +18,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 &emsp;(B) to comply with a request from a party to the MARPOL Protocol or the Antarctic Protocol for an investigation as to whether the ship may have discharged a harmful substance anywhere in violation of the MARPOL Protocol or Annex IV to the Antarctic Protocol. An investigation may be undertaken under this clause only when the requesting party has furnished sufficient evidence to allow the Secretary reasonably to believe that a discharge has occurred.
 
-> If an inspection under this subsection indicates that a violation has occurred, the investigating officer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
+> If an inspection under this subsection indicates that a violation has occurred, the investigatingofficer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
 
 #### (d) Garbage disposal inspections; covered ships; enforcement actions
 

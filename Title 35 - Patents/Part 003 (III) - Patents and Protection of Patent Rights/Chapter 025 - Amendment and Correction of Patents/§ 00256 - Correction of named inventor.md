@@ -18,5 +18,5 @@ The first two paragraphs provide for the correction of the inadvertent joining o
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set out as an Effective Date note under section 294 of this title.
+Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, setout as an Effective Date note under section 294 of this title.
 

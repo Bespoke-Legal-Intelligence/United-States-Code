@@ -4,7 +4,7 @@
 
 &emsp;(1) travel expenses of a new appointee and transportation expenses of his immediate family and his household goods and personal effects from the place of actual residence at the time of appointment to the place of employment outside the continental United States;
 
-&emsp;(2) these expenses on the return of an employee from his post of duty outside the continental United States to the place of his actual residence at the time of assignment to duty outside the United States; and
+&emsp;(2) these expenses on the return of an employee from his post of duty outside the continental United States to the place of his actual residence at the time of assignment to duty outside the continental United States; and
 
 &emsp;(3) the expenses of transporting a privately owned motor vehicle as authorized under section 5727(c) of this title.
 
@@ -14,7 +14,7 @@
 
 &emsp;(2) 12 months after his appointment, if selected for appointment to any other position;
 
-> unless separated for reasons beyond his control which are acceptable to the agency concerned. If the individual violates the agreement, the money spent by the United States for the expenses is recoverable from the individual as a debt due the United States.
+> unless separated for reasons beyond his control which are acceptable to the agency concerned. If the individual violates the agreement, the money spent by the Government for the expenses is recoverable from the individual as a debt due the Government.
 
 (c) An agency may pay expenses under subsection (a)(2) of this section only after the individual has served for a minimum period of—
 
@@ -26,7 +26,7 @@
 
 (d) This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 501; Pub. L. 104–201, div. A, title XVII, §§1715(b)(1), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 501; Pub. L. 104–201, div. A, title XVII, §§1715(b)(1), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(2), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -54,6 +54,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+1998—Subsec. (a)(2). Pub. L. 105–264, §6(2)(A), substituted “continental United States;” for “United States;”.
+
+Subsec. (b). Pub. L. 105–264, §6(2)(B), substituted “Government” for “United States” in two places in concluding provisions.
+
 1996—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
 Subsec. (a)(3). Pub. L. 104–201, §1715(b)(1), added par. (3).
@@ -68,7 +72,7 @@ Section 1725(b) of title XVII of div. A of Pub. L. 104–201 provided that: “T
 
 #### Assessment of Cost Savings
 
-Section 1724 of title XVII of div. A of Pub. L. 104–201 provided that: “No later than one year after the effective date set forth in section 1725(a) \[set out above\], the Comptroller General shall submit to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives an assessment of the costs of Federal travel administration that are saved as a result of the amendments made by this title \[see Effective Date of 1996 Amendment note above\] and the regulations prescribed to carry out the amendments.”
+Section 1724 of title XVII of div. A of Pub. L. 104–201 directed Comptroller General, not later than one year after the effective date set forth in section 1725(a) of Pub. L. 104–201, to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of Pub. L. 104–201 and the regulations prescribed to carry out the amendments.
 
 #### Section Referred to in Other Sections
 

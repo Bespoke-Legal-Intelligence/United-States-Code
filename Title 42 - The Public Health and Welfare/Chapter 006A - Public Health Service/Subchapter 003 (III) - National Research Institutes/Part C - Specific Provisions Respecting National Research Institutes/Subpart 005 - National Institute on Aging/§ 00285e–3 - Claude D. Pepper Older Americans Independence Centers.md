@@ -24,7 +24,7 @@ In making cooperative agreements and grants under this section for the developme
 
 For purposes of this section, the term “independence”, with respect to diseases, disorders, and complications of aging, means the functional ability of individuals to perform activities of daily living or instrumental activities of daily living without assistance or supervision.
 
-(July 1, 1944, ch. 373, title IV, §445A, as added Nov. 4, 1988, Pub. L. 100–607, title I, §141, 102 Stat. 3056; amended Nov. 15, 1990, Pub. L. 101–557, title II, §202, 104 Stat. 2767.)
+(July 1, 1944, ch. 373, title IV, §445A, as added Pub. L. 100–607, title I, §141, Nov. 4, 1988, 102 Stat. 3056; amended Pub. L. 101–557, title II, §202, Nov. 15, 1990, 104 Stat. 2767.)
 
 #### Amendments
 

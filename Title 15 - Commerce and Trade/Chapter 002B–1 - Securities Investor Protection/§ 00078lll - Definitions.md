@@ -56,7 +56,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;The term “gross revenues from the securities business” means the sum of (but without duplication)—
 
-&emsp;&emsp;(A) commissions earned in connection with transactions in securities effected for customers as agent (net of commissions paid toother brokers and dealers in connection with such transactions) and markups with respect to purchases or sales of securities as principal;
+&emsp;&emsp;(A) commissions earned in connection with transactions in securities effected for customers as agent (net of commissions paid to other brokers and dealers in connection with such transactions) and markups with respect to purchases or sales of securities as principal;
 
 &emsp;&emsp;(B) charges for executing or clearing transactions in securities for other brokers and dealers;
 

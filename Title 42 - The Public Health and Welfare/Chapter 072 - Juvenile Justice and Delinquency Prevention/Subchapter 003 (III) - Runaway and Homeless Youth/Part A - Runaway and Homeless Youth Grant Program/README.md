@@ -4,7 +4,7 @@ Part A—Runaway and Homeless Youth Grant Program
 
 1988—Pub. L. 100–690, title VII, §7272(1), Nov. 18, 1988, 102 Stat. 4454, substituted in part A heading “
 
-Runaway and Homeless Youth Grant Program” for “
+Runawayand Homeless Youth Grant Program” for “
 
 Grants Program”.
 

@@ -16,7 +16,7 @@ If a protesting party believes that an application for further review was errone
 
 If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
 
-(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; June 2, 1970, Pub. L. 91–271, title II, §208, 84 Stat. 285; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(2), 93 Stat. 304; Oct. 10, 1980, Pub. L. 96–417, title VI, §606, 94 Stat. 1745; Dec. 8, 1993, Pub. L. 103–182, title VI, §617, 107 Stat. 2179; Oct. 11, 1996, Pub. L. 104–295, §3(a)(11), 110 Stat. 3516.)
+(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516.)
 
 #### Prior Provisions
 
@@ -54,7 +54,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition,or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
+Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
 #### Review of Protests in Import Surcharge Cases
 

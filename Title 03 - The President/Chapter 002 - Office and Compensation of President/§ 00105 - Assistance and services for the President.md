@@ -44,7 +44,7 @@
 
 (e) Assistance and services authorized pursuant to this section to the President are authorized to be provided to the spouse of the President in connection with assistance provided by such spouse to the President in the discharge of the President's duties and responsibilities. If the President does not have a spouse, such assistance and services may be provided for such purposes to a member of the President's family whom the President designates.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Oct. 15, 1949, ch. 695, §2(a), 63 Stat. 880; July 31, 1956, ch. 804, title I, §109, 70 Stat. 740; Pub. L. 87–367, title III, §303(h), Oct. 4, 1961, 75 Stat. 794; Pub. L. 88–426, title III, §304(b), Aug. 14, 1964, 78 Stat. 422; Pub.L. 90–222, title I, §111(c), Dec. 23, 1967, 81 Stat. 726; Pub. L. 95–570, §1(a), Nov. 2, 1978, 92 Stat. 2445.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Oct. 15, 1949, ch. 695, §2(a), 63 Stat. 880; July 31, 1956, ch. 804, title I, §109, 70 Stat. 740; Pub. L. 87–367, title III, §303(h), Oct. 4, 1961, 75 Stat. 794; Pub. L. 88–426, title III, §304(b), Aug. 14, 1964, 78 Stat. 422; Pub. L. 90–222, title I, §111(c), Dec. 23, 1967, 81 Stat. 726; Pub. L. 95–570, §1(a), Nov. 2, 1978, 92 Stat. 2445.)
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Former Presidents, office staff, see note set out under section 102 of this titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 sections 207, 1751; title 26 section 3121; title 31 section 3524; title 42 section 410.
+This section is referred to in section 115 of this title; title 18 sections 207, 1751; title 26 section 3121; title 31 section 3524; title 42 section 410.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “provisions”.</i>
 

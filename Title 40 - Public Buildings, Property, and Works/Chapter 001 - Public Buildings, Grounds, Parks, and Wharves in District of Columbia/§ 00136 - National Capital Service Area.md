@@ -10,7 +10,7 @@ There is established in the Executive Office of the President the National Capit
 
 #### (c) Personnel; compensation
 
-The National Capital Service Director shall be entitled to receive compensation at the maximum rate as may be established from time to time for level IV of the Executive Schedule of section 5314 of title 5. The Director may appoint, subject to the provisions of title 5 governing appointments in the competitive service, and fix the pay of, in accordance with the provisions of chapter 51 and subchapter 3 <sup>1</sup> of chapter 53 of such title relating to classification and General Schedule pay rates, such personnel as may be necessary.
+The National Capital Service Director shall be entitled to receive compensation at the maximum rate as may be established from time to time for level IV of the Executive Schedule of section 5314 <sup>1</sup> of title 5. The Director may appoint, subject to the provisions of title 5 governing appointments in the competitive service, and fix the pay of, in accordance with the provisions of chapter 51 and subchapter 3 <sup>2</sup> of chapter 53 of such title relating to classification and General Schedule pay rates, such personnel as may be necessary.
 
 #### (d) Omitted
 
@@ -136,7 +136,7 @@ The National Capital Service Director shall be entitled to receive compensation 
 
 &emsp;(A) be deemed to include, but not limited to, Fort Lesley McNair, the Washington Navy Yard, the Anacostia Naval Annex, the United States Naval Station, Bolling Air Force Base, and the Naval Research Laboratory; and
 
-&emsp;(B) not be construed to include any area situated outside of the District of Columbia boundary as it existed immediately prior to the date of the enactment of this Act, nor be construed to include any portion of the Anacostia Park situated east of the northern side of the Eleventh Street Bridge, or any portion of the Rock Creek Park.
+&emsp;(B) not be construed to include any area situated outside of the District of Columbia boundary as it existed immediately prior to December 24, 1973, nor be construed to include any portion of the Anacostia Park situated east of the northern side of the Eleventh Street Bridge, or any portion of the Rock Creek Park.
 
 #### (g) Presidential survey; map and description
 
@@ -148,7 +148,7 @@ The National Capital Service Director shall be entitled to receive compensation 
 
 #### (h) Creation of National Capital Service Area not to affect existing provisions covering buildings and grounds within Area; availability of services and facilities
 
-(1) Except to the extent specifically provided by the provisions of this section, and amendments made by this section, nothing in this section shall be applicable to the United States Capitol Buildings and Grounds as defined in sections 193a and 193m of this title, or to any other buildings and grounds under the care of the Architect of the Capitol, the United States Supreme Court Building and Grounds as defined in section 13p of this title, and the Library of Congress Buildings and Grounds as defined in section 167j of title 2, and except to the extent herein specifically provided, including amendments made by this section, nothing in this sectionshall be construed to repeal, amend, alter, modify, or supersede any provision of sections 193a to 193m, 212a, 212a–2, and 212b of this title, or any other of the general laws of the United States or any of the laws enacted by the Congress and applicable exclusively to the District of Columbia, or any rule or regulation promulgated pursuant thereto, in effect on January 1, 1975, pertaining to said buildings and grounds, or any existing authority, with respect to such buildings and grounds, vested by law, or otherwise, on such date, in the Senate, the House of Representatives, the Congress, or any committee or commission or board thereof, the Architect of the Capitol, or any other officer of the legislative branch, the Chief Justice of the United States, the Marshal of the Supreme Court of the United States, or the Librarian of Congress.
+(1) Except to the extent specifically provided by the provisions of this section, and amendments made by this section, nothing in this section shall be applicable to the United States Capitol Buildings and Grounds as defined in sections 193a and 193m of this title, or to any other buildings and grounds under the care of the Architect of the Capitol, the United States Supreme Court Building and Grounds as defined in section 13p of this title, and the Library of Congress Buildings and Grounds as defined in section 167j of title 2, and except to the extent herein specifically provided, including amendments made by this section, nothing in this section shall be construed to repeal, amend, alter, modify, or supersede any provision of sections 193a to 193m, 212a, 212a–2, and 212b of this title, or any other of the general laws of the United States or any of the laws enacted by the Congress and applicable exclusively to the District of Columbia, or any rule or regulation promulgated pursuant thereto, in effect on January 1, 1975, pertaining to said buildings and grounds, or any existing authority, with respect to such buildings and grounds, vested by law, or otherwise, on such date, in the Senate, the House of Representatives, the Congress, or any committee or commission or board thereof, the Architect of the Capitol, or any other officer of the legislative branch, the Chief Justice of the United States, the Marshal of the Supreme Court of the United States, or the Librarian of Congress.
 
 (2) Notwithstanding the foregoing provision of this section, any of the services and facilities authorized by this Act to be rendered or furnished (including maintenance of streets and highways, and services under section 1537 of title 31) shall, as far as practicable, be made available to the Senate, the House of Representatives, the Congress, or any committee or commission or board thereof, the Architect of the Capitol, or any other officer of the legislative branch vested by law or otherwise on January 1, 1975, with authority over such buildings and grounds, the Chief Justice of the United States, the Marshal of the Supreme Court of the United States, and the Librarian of Congress, upon their request, and, if payment would be required for the rendition or furnishing of a similar service or facility to any other Federal agency, payment therefor shall be made by the recipient thereof, upon presentation of proper vouchers, in advance or by reimbursement (as may be agreed upon by the parties rendering and receiving such services).
 
@@ -186,5 +186,7 @@ Reference to Executive Protective Service held to refer to United States Secret 
 
 The definitions in section 103 of Pub. L. 93–198 (which is classified to section 1–202 of the District of Columbia Code) apply to this section.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subchapter “III”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “5315”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be subchapter “III”.</i>
 

@@ -44,7 +44,7 @@ The study under this section shall consider the application of the following law
 
 #### (c) Contents of study and recommendations
 
-The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) ofsubsection (a) of this section and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
+The study under this section shall evaluate whether the rights, protections, and procedures, including administrative and judicial relief, applicable to the entities listed in paragraph (1) of subsection (a) of this section and their employees are comprehensive and effective and shall include recommendations for any improvements in regulations or legislation, including proposed regulatory or legislative language.
 
 #### (d) Deadline and delivery of study
 
@@ -64,7 +64,7 @@ The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(2),
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (b)(4), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (b)(4), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat.6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(5), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 

@@ -16,7 +16,7 @@ Within 60 days after the Secretary certifies the State as a qualifying State und
 
 #### (c) Use of grant
 
-Each State that receives an amount paid under subsection (a) of this section shall usethat amount only for the operation and administration of the mediation program of the State with respect to which the amount was paid.
+Each State that receives an amount paid under subsection (a) of this section shall use that amount only for the operation and administration of the mediation program of the State with respect to which the amount was paid.
 
 #### (d) Penalty
 

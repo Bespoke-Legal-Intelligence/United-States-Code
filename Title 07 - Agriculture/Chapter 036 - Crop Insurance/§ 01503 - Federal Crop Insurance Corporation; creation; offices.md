@@ -2,7 +2,7 @@
 
 To carry out the purposes of this chapter, there is hereby created as an agency of and within the Department a body corporate with the name “Federal Crop Insurance Corporation”. The principal office of the Corporation shall be located in the District of Columbia, but there may be established agencies or branch offices elsewhere in the United States under rules and regulations prescribed by the Board.
 
-(Feb. 16, 1938, ch. 30, title V, §503, 52 Stat. 72; Oct. 13, 1994, Pub. L. 103–354, title I, §102(b)(1), (4)(A), (B), 108 Stat. 3180, 3181.)
+(Feb. 16, 1938, ch. 30, title V, §503, 52 Stat. 72; Pub. L. 103–354, title I, §102(b)(1), (4)(A), (B), Oct. 13, 1994, 108 Stat. 3180, 3181.)
 
 #### Amendments
 

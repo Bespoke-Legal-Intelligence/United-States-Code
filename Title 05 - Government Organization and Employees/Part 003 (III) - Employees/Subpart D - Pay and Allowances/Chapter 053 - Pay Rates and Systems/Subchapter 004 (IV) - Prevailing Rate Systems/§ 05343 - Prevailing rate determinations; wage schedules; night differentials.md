@@ -130,33 +130,35 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
-Pub. L. 105–61, title VI, §614, Oct. 10, 1997, 111 Stat. 1311, provided that:
+Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §614\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–515, provided that:
 
-“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for the fiscal year ending on September 30, 1998, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
+“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 1999, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
 
-&emsp;“(1) during the period from the date of expiration of the limitation imposed by section 616 of the Treasury, Postal Service and General Government Appropriations Act, 1997 \[Pub. L. 104–208, 110 Stat. 3009–356\], until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 1998, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section 616; and
+&emsp;“(1) during the period from the date of expiration of the limitation imposed by section 614 of the Treasury and General Government Appropriations Act, 1998 \[Pub. L. 105–61, 111 Stat. 1311\], until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 1999, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section 614; and
 
-&emsp;“(2) during the period consisting of the remainder of fiscal year 1998, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
+&emsp;“(2) during the period consisting of the remainder of fiscal year 1999, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
 
-&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 1998 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
+&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 1999 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
 
-&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 1998 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in fiscal year 1997 under such section.
+&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 1999 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in fiscal year 1998 under such section.
 
 “(b) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which subsection (a) is in effect at a rate that exceeds the rates that would be payable under subsection (a) were subsection (a) applicable to such employee.
 
-“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 1997, shall be determined under regulations prescribed by the Office of Personnel Management.
+“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 1998, shall be determined under regulations prescribed by the Office of Personnel Management.
 
-“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 1997, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
+“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 1998, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
 
-“(e) This section shall apply with respect to pay for service performed after September 30, 1997.
+“(e) This section shall apply with respect to pay for service performed after September 30, 1998.
 
-“(f) For the purpose of administering any provision of law (including section 8431 of title 5, United States Code, and any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.
+“(f) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.
 
 “(g) Nothing in this section shall be considered to permit or require the payment to any employee covered by this section at a rate in excess of the rate that would be payable were this section not in effect.
 
 “(h) The Office of Personnel Management may provide for exceptions to the limitations imposed by this section if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 105–61, title VI, §614, Oct. 10, 1997, 111 Stat. 1311.
 
 Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §616\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–356.
 
@@ -214,7 +216,7 @@ Pub. L. 99–661, div. A, title XIII, §1358, Nov. 14, 1986, 100 Stat. 3999, pro
 
 “(a)
 
-Wage Determinations.—Notwithstanding any other provision of law, in the administration of the lastundesignated paragraph preceding chapter 6 of title I of Public Law 97–257 (96 Stat. 832) \[set out below\], the individuals described in subsection (b) shall be paid wages determined in the same manner as that established in such undesignated paragraph with respect to United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules.
+Wage Determinations.—Notwithstanding any other provision of law, in the administration of the last undesignated paragraph preceding chapter 6 of title I of Public Law 97–257 (96 Stat. 832) \[set out below\], the individuals described in subsection (b) shall be paid wages determined in the same manner as that established in such undesignated paragraph with respect to United States Army Corps of Engineers employees paid from Corps of Engineers Special Power Rate Schedules.
 
 “(b)
 

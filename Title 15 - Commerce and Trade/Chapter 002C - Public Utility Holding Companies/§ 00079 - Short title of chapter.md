@@ -2,7 +2,7 @@
 
 This chapter may be cited as the “Public Utility Holding Company Act of 1935”.
 
-(Aug. 26, 1935, ch. 687, title I, §36, formerly §33, 49 Stat. 838; renumbered §35, Oct. 24, 1992, Pub. L. 102–486, title VII, §711, 106 Stat. 2905; renumbered §36, Feb. 8, 1996, Pub. L. 104–104, title I, §103, 110 Stat. 81.)
+(Aug. 26, 1935, ch. 687, title I, §36, formerly §33, 49 Stat. 838; renumbered §35, Pub. L. 102–486, title VII, §711, Oct. 24, 1992, 106 Stat. 2905; renumbered §36, Pub. L. 104–104, title I, §103, Feb. 8, 1996, 110 Stat. 81.)
 
 #### State Authorities; Construction
 

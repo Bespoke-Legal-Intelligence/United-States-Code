@@ -198,7 +198,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (5) Physician recruitment
 
-&emsp;In the case of remuneration which is provided by a hospital to a physician to induce the physician to relocate to the geographic area served by the hospital in order to be a member of the medical staff of the hospital, if—
+&emsp;In the case of remuneration which is provided by a hospital to a physician to inducethe physician to relocate to the geographic area served by the hospital in order to be a member of the medical staff of the hospital, if—
 
 &emsp;&emsp;(A) the physician is not required to refer patients to the hospital,
 
@@ -264,7 +264,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (3) Civil money penalty and exclusion for improper claims
 
-&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in thesame manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
@@ -298,7 +298,7 @@ For purposes of this section:
 
 #### (1) Compensation arrangement; remuneration
 
-&emsp;(A) The term “compensation arrangement” means any arrangement involving any remuneration between a physician (or an immediate family member of such physician) and an entity other than an arrangement involvingonly remuneration described in subparagraph (C).
+&emsp;(A) The term “compensation arrangement” means any arrangement involving any remuneration between a physician (or an immediate family member of such physician) and an entity other than an arrangement involving only remuneration described in subparagraph (C).
 
 &emsp;(B) The term “remuneration” includes any remuneration, directly or indirectly, overtly or covertly, in cash or in kind.
 
@@ -328,7 +328,7 @@ For purposes of this section:
 
 #### (3) Fair market value
 
-&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
+&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximityor convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
 
 #### (4) Group practice
 
@@ -398,7 +398,7 @@ For purposes of this section:
 
 &emsp;&emsp;(K) Inpatient and outpatient hospital services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6204(a), 103 Stat. 2236; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Oct. 31, 1994, Pub. L. 103–432, title I, §160(d)(4), 108 Stat. 4444; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13562(a), 107 Stat. 596; Oct. 31, 1994, Pub. L. 103–432, title I, §152(a), (b), 108 Stat. 4436; Aug. 5, 1997, Pub. L. 105–33, title IV, §4314, 111 Stat. 389.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389.)
 
 #### References in Text
 

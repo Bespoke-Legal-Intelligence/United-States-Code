@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(i) The rate 15 per centum below the rate existing on January 1, 1955.
 
-&emsp;&emsp;(ii) In the case of any article subject to an ad valorem rate of duty above 50 per centum (or a combination of ad valorem rates aggregating more than 50 per centum), the rate 50 per centum ad valorem (or a combination of ad valorem rates aggregating 50 per centum). In the case of any article subject to a specific rate of duty (or a combination of rates including a specific rate) the ad valorem equivalent of which has been determined by the President to have been above 50 per centum during a period determined by the President to be a representative period, the rate 50 per centum ad valorem or the rate (or a combination of rates), howeverstated, the ad valorem equivalent of which the President determines would have been 50 per centum during such period. The standards of valuation contained in section 1401a of this title (as in effect, with respect to the article concerned, during the representative period) shall be utilized by the President, to the maximum extent he finds such utilization practicable, in making the determinations under the preceding sentence.
+&emsp;&emsp;(ii) In the case of any article subject to an ad valorem rate of duty above 50 per centum (or a combination of ad valorem rates aggregating more than 50 per centum), the rate 50 per centum ad valorem (or a combination ofad valorem rates aggregating 50 per centum). In the case of any article subject to a specific rate of duty (or a combination of rates including a specific rate) the ad valorem equivalent of which has been determined by the President to have been above 50 per centum during a period determined by the President to be a representative period, the rate 50 per centum ad valorem or the rate (or a combination of rates), however stated, the ad valorem equivalent of which the President determines would have been 50 per centum during such period. The standards of valuation contained in section 1401a of this title (as in effect, with respect to the article concerned, during the representative period) shall be utilized by the President, to the maximum extent he finds such utilization practicable, in making the determinations under the preceding sentence.
 
 &emsp;(E) In order to carry out a foreign trade agreement entered into by the President on or after July 1, 1958, decreasing any rate of duty below the lowest of the rates provided for in paragraph (4)(A) of this subsection.
 
@@ -56,7 +56,7 @@
 
 (B)(i) In the case of any decrease in duty to which clause (i) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 10 per centum of the rate of duty existing on July 1, 1958, or, in any case in which the rate has been increased since that date, exceed such 10 per centum or one-third of the total amount of the decrease under the foreign trade agreement, whichever is the greater.
 
-(ii) In the case of any decrease in duty to which clause (ii) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 1 per centum ad valorem or, in any case in which the rate has been increased since July 1, 1958, exceed such 1 per centum or one-third of the total amount of the decrease under the foreign trade agreement, whichever is the greater.
+(ii) In the case of any decrease in duty to which clause (ii) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 1 per centum ad valorem or, in any case in which the rate has been increased since July 1, 1958, exceed such 1 per centum or one-third of the totalamount of the decrease under the foreign trade agreement, whichever is the greater.
 
 (iii) In the case of any decrease in duty to which clause (iii) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed one-third of the total amount of the decrease under the foreign trade agreement.
 
@@ -100,7 +100,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 It is declared to be the sense of the Congress that the President, during the course of negotiating any foreign trade agreement under this section, should seek information and advice with respect to such agreement from representatives of industry, agriculture, and labor.
 
-(June 17, 1930, ch. 497, title III, §350, as added June 12, 1934, ch. 474, §1, 48 Stat. 943; amended June 7, 1943, ch. 118, §2, 57 Stat. 125; July 5, 1945, ch. 269, §§2, 3, 59 Stat. 410; Sept. 26, 1949, ch. 585, §§4, 6, 63 Stat. 698; June 21, 1955, ch. 169, §3, 69 Stat. 162; Aug. 20, 1958, Pub. L. 85–686, §3, 72 Stat. 673; Oct. 11, 1962, Pub. L. 87–794, title II, §257(a), (b), 76 Stat. 881, 882; July 26, 1979, Pub. L. 96–39, title II, §202(a)(3), 93 Stat. 202.)
+(June 17, 1930, ch. 497, title III, §350, as added June 12, 1934, ch. 474, §1, 48 Stat. 943; amended June 7, 1943, ch. 118, §2, 57 Stat. 125; July 5, 1945, ch. 269, §§2, 3, 59 Stat. 410; Sept. 26, 1949, ch. 585, §§4, 6, 63 Stat. 698; June 21, 1955, ch. 169, §3, 69 Stat. 162; Pub. L. 85–686, §3, Aug. 20, 1958, 72 Stat. 673; Pub. L. 87–794, title II, §257(a), (b), Oct. 11, 1962, 76 Stat. 881, 882; Pub. L. 96–39, title II, §202(a)(3), July 26, 1979, 93 Stat. 202.)
 
 #### References in Text
 
@@ -170,13 +170,13 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 
 #### Treaty Between United States and Cuba
 
-The treaty concluded between the United States and the Republic of Cuba, on Dec. 11, 1902, referred to in subsec. (b) of the text, was terminated Aug. 21, 1963, pursuant to notice given by the United States on Aug. 21, 1962. See Bevans, Treaties and Other International Agreements of the United States of America, 1776–1949, vol. VI, page 1106.
+The treaty concluded between the United States and the Republic of Cuba, on Dec. 11, 1902, referred to insubsec. (b) of the text, was terminated Aug. 21, 1963, pursuant to notice given by the United States on Aug. 21, 1962. See Bevans, Treaties and Other International Agreements of the United States of America, 1776–1949, vol. VI, page 1106.
 
 #### Tariff Treatment of Cuban Products
 
 Section 401 of Pub. L. 87–456, title IV, May 24, 1962, 76 Stat. 78, provided that:
 
-“(a) Cuba is hereby declared to be a nation described in section 5 of the Trade Agreements Extension Act of 1951, as amended (19 U.S.C. 1362, relating to importsfrom nations and areas dominated or controlled by the foreign government or foreign organization controlling the world Communist movement). Articles which are—
+“(a) Cuba is hereby declared to be a nation described in section 5 of the Trade Agreements Extension Act of 1951, as amended (19 U.S.C. 1362, relating to imports from nations and areas dominated or controlled by the foreign government or foreign organization controlling the world Communist movement). Articles which are—
 
 &emsp;“(1) the growth, produce, or manufacture of Cuba, and
 

@@ -58,3 +58,11 @@ Another section 832 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 
 1990—Subsec. (f). Pub. L. 101–246 added subsec. (f).
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6551 of this title.
+

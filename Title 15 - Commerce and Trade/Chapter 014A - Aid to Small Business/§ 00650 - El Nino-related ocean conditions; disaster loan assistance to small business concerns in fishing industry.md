@@ -4,7 +4,7 @@ Notwithstanding any other provision of law, rule, or regulations, for purposes o
 
 &emsp;(1) disaster loan assistance shall be provided to the fishing industry pursuant to paragraph (2) of such section—
 
-&emsp;&emsp;(A) the term “recent El Nino-related ocean conditions” means the ocean conditions (including high water temperatures, scarcity of prey, and absence of normal upwellings) which occurred in the eastern Pacific Ocean off the west coast of the North American Continent during the period beginning with June 1982 and ending at the close of December 1983, and which resulted from the climatic conditions occurring in the Equatorial Pacific during 1982 and 1983;
+&emsp;&emsp;(A) the term “recent El Nino-related ocean conditions” means the ocean conditions (including high water temperatures, scarcity of prey, and absence of normal upwellings)which occurred in the eastern Pacific Ocean off the west coast of the North American Continent during the period beginning with June 1982 and ending at the close of December 1983, and which resulted from the climatic conditions occurring in the Equatorial Pacific during 1982 and 1983;
 
 &emsp;&emsp;(B) the term “fishing industry” means any trade or business involved in (i) the catching, taking, or harvesting of fish (whether or not sold on a commercial basis), (ii) any operation at sea or on land, in preparation for, or substantially dependent upon, the catching, taking, or harvesting of fish, and (iii) the processing or canning of fish (including storage, refrigeration and transportation of fish before processing or canning); and
 

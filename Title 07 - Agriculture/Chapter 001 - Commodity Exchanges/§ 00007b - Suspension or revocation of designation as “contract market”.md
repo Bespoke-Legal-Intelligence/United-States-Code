@@ -2,7 +2,7 @@
 
 The failure or refusal of any board of trade to comply with any of the provisions of this chapter, or any of the rules, regulations, or orders of the Commission or the commission <sup>1</sup> thereunder, shall be cause for suspending for a period not to exceed six months or revoking the designation of such board of trade as a “contract market” in accordance with the procedure and subject to the judicial review provided in section 8(b) of this title.
 
-(Sept. 21, 1922, ch. 369, §5b, as added June 15, 1936, ch. 545, §7, 49 Stat. 1498; amended Feb. 19, 1968, Pub. L. 90–258, §13, 82 Stat. 30; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), (b), 88 Stat. 1392; Oct. 28, 1992, Pub. L. 102–546, title II, §209(b)(3), 106 Stat. 3607.)
+(Sept. 21, 1922, ch. 369, §5b, as added June 15, 1936, ch. 545, §7, 49 Stat. 1498; amended Pub. L. 90–258, §13, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, §103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, §209(b)(3), Oct. 28, 1992, 106 Stat. 3607.)
 
 #### Amendments
 

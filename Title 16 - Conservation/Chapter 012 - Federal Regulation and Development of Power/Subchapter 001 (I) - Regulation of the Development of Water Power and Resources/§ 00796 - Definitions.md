@@ -102,7 +102,7 @@ Wholesale transmission services.—The term “wholesale transmission services�
 
 Exempt wholesale generator.—The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a of title 15.
 
-(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Nov. 9, 1978, Pub. L. 95–617, title II, §201, 92 Stat. 3134; June 30, 1980, Pub. L. 96–294, title VI, §643(a)(1), 94 Stat. 770; Nov. 15, 1990, Pub. L. 101–575, §3, 104 Stat. 2834; May 17, 1991, Pub. L. 102–46, 105 Stat. 249; Oct. 24, 1992, Pub. L. 102–486, title VII, §726, 106 Stat. 2921.)
+(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, §201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, §643(a)(1), June 30, 1980,94 Stat. 770; Pub. L. 101–575, §3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, §726, Oct. 24, 1992, 106 Stat. 2921.)
 
 #### References in Text
 

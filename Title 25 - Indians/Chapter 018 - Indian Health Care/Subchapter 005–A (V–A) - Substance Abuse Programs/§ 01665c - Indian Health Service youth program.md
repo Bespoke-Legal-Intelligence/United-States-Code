@@ -2,7 +2,7 @@
 
 #### (a) Detoxification and rehabilitation
 
-The Secretary shall develop and implement a program for acute detoxification and treatment for Indian youth who are alcohol and substance abusers. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis. These regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
+The Secretary shall develop and implement a program for acute detoxification and treatmentfor Indian youth who are alcohol and substance abusers. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis. These regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
 
 #### (b) Treatment centers or facilities
 

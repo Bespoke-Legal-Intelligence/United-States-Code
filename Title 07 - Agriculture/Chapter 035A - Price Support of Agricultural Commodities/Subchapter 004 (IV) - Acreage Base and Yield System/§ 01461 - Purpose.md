@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to prescribe a system for establishing crop acreage bases and program payment yields for the wheat, feed grains, upland cotton, and rice programs under this Act that is efficient, equitable, flexible, and predictable.
 
-(Oct. 31, 1949, ch. 792, title V, §501, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1460; amended Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3491.)
+(Oct. 31, 1949, ch. 792, title V, §501, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1460; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3491.)
 
 #### References in Text
 

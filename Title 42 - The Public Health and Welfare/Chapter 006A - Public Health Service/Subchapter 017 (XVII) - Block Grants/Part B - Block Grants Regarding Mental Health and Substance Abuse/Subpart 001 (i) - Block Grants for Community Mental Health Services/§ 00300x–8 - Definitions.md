@@ -6,7 +6,7 @@ For purposes of this subpart:
 
 &emsp;(2) The term “funding agreement”, with respect to a grant under section 300x of this title to a State, means that the Secretary may make such a grant only if the State makes the agreement involved.
 
-(July 1, 1944, ch. 373, title XIX, §1919, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 388.)
+(July 1, 1944, ch. 373, title XIX, §1919, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 388.)
 
 #### Prior Provisions
 

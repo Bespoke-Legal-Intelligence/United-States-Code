@@ -10,7 +10,7 @@ As used in this part:
 
 &emsp;(4) The term “Governor” means the chief executive officer of a State (including the Mayor of the District of Columbia).
 
-&emsp;(5) The term “handicapped person” means any individual (A) who is a handicapped individual as defined in section 7(7) <sup>1</sup> of the Rehabilitation Act of 1973 \[29 U.S.C. 706(7)\], (B) who is under a disability as defined in section 1614(a)(3)(A) or 233(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
+&emsp;(5) The term “handicapped person” means any individual (A) who is an individual with a disability, as defined in section 705 of title 29, (B) who is under a disability as defined in section 1614(a)(3)(A) or 233(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
 
 &emsp;(6) The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings prescribed for such terms by paragraphs (4), (5), and (6), respectively, of section 102 of the Older Americans Act of 1965 \[42 U.S.C. 3002\].
 
@@ -46,11 +46,9 @@ As used in this part:
 
 &emsp;&emsp;(J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
 
-(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843.)
+(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242.)
 
 #### References in Text
-
-Section 7 of the Rehabilitation Act of 1973 \[29 U.S.C. 706\], referred to in par. (5), was subsequently amended, and section 7(7) no longer defines the term “handicapped individual”. However, the successor term “individual with a disability” is defined elsewhere in that section.
 
 The Developmental Disabilities Services and Facilities Construction Act, referred to in par. (5), is title I of Pub. L. 88–164, as added by Pub. L. 94–103, Oct. 4, 1975, 89 Stat. 496, and amended. Title I of Pub. L. 88–164, as amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, is known as the Developmental Disabilities Assistance and Bill of Rights Act. Section 102(7) of that Act \[42 U.S.C. 6001(7)\] was subsequently amended and no longer defines the term “developmental disability”. However, such term is defined elsewhere in that section.
 
@@ -58,9 +56,11 @@ Section 2809(a)(12) of this title, referred to in par. (7), which was redesignat
 
 The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is title XXVI of Pub. L. 97–35,Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
+The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 
 #### Amendments
+
+1998—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 of title 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
 
 1992—Par. (9)(G) to (J). Pub. L. 102–486 realigned margin of subpar. (G), added subpars. (H) and (I), and redesignated former subpar. (H) as (J).
 

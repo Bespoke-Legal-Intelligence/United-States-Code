@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) Not later than July 25, 1993, the Attorney General shall establish, and thereafter maintain, a National Stolen Passenger Motor Vehicle Information System containing the vehicle identification numbers of stolen passenger motor vehicles andstolen passenger motor vehicle parts. The System shall be located in the National Crime Information Center and shall include at least the following information on each passenger motor vehicle reported to a law enforcement authority as stolen and not recovered:
+General Requirements.—(1) Not later than July 25, 1993, the Attorney General shall establish, and thereafter maintain, a National Stolen Passenger Motor Vehicle Information System containing the vehicle identification numbers of stolen passenger motor vehicles and stolen passenger motor vehicle parts. The System shall be located in the National Crime Information Center and shall include at least the following information on each passenger motor vehicle reported to a law enforcement authority as stolen and not recovered:
 
 &emsp;(A) the vehicle identification number.
 
@@ -104,7 +104,7 @@ In subsection (a)(2)(B), the words “stolen passenger motor vehicle and passeng
 
 In subsection (a)(4), the text of 15:2026c(f) (1st sentence) is omitted as surplus. The words “the effective date of the System” are substituted for “shall be effective as provided” because of the restatement.
 
-In subsection (b)(1), the words “intending to transfer” are substituted for “seeking to transfer” for clarity. The words “passenger motor vehicle or passenger motor vehicle part” are substituted for “a vehicle or vehicle parts” for consistency with the terminology used in the revised chapter. The words “whether the vehicle or part” are substituted for “whether a part” for consistency with source provisions restated in the revised section.
+In subsection (b)(1), the words “intending to transfer” are substituted for “seeking to transfer” for clarity. The words “passenger motor vehicle or passenger motor vehicle part” are substituted for “a vehicle or vehicle parts” for consistency with the terminology used in the revised chapter. The words “whether the vehicle or part” are substituted for “whether a part” forconsistency with source provisions restated in the revised section.
 
 In subsection (b)(2), the words “shall inform the insurance carrier, person, individual, or enterprise whether” are substituted for “provide such insurance carrier or person with a determination as to whether” for clarity and consistency in the revised subsection. The words “may require appropriate verification” are substituted for “may require such verification as the Attorney General deems appropriate” to eliminate unnecessary words.
 

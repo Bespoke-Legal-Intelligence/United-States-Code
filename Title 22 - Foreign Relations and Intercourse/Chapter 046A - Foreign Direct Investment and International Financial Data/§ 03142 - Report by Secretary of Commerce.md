@@ -2,7 +2,7 @@
 
 #### (a) Annual report on foreign direct investment in United States
 
-Not later than 6 months after November 7, 1990, and not later than the end of each 1-year period occurring thereafter, the Secretary of Commerce shall submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress a report on the role and significance of foreign direct investment in the United States. Such report shall address the history, scope, trends, market concentrations, and effects on the United States economy of such investment. In addition, the Secretary of Commerce shall, if requested by any such committee, appear before that committee to provide testimony with respect to any report under this subsection.
+Not later than 6 months after November 7, 1990, and not later than the end of each 1-year period occurring thereafter, the Secretary of Commerce shall submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress a report on the role and significance of foreign direct investment in the United States. Such report shall address the history, scope, trends, market concentrations, and effects on the United States economy of such investment. In addition, the Secretary of Commerce shall, if requested byany such committee, appear before that committee to provide testimony with respect to any report under this subsection.
 
 #### (b) Sources of data
 
@@ -32,9 +32,9 @@ In preparing each report under subsection (a) of this section, the Secretary of 
 
 (1) The analysis in each report prepared under subsection (a) of this section shall, to the extent of available data, compare business enterprises controlled by foreign persons with other business enterprises in the United States with respect to employment, market share, value added, productivity, research and development, exports, imports, profitability, taxes paid, and investment incentives and services provided by State and local governments (including quasi-governmental entities).
 
-(2) Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies included in the most recent plan submitted to the Congress under section 2506 <sup>1</sup> oftitle 10 or included in the most recent report submitted to the President under section 6683 of title 42.
+(2) Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies identified in the most recent assessment prepared under section 2505 of title 10 or included in the most recent report submitted to the President under section 6683 of title 42.
 
-(Pub. L. 101–533, §3, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 102–484, div. A, title X, §1054(f), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–160, div. A, title XI, §1182(d)(2), Nov. 30, 1993, 107 Stat. 1773.)
+(Pub. L. 101–533, §3, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 102–484, div. A, title X, §1054(f), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–160, div. A, title XI, §1182(d)(2), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 105–261, div. A, title X, §1069(d)(2), Oct. 17, 1998, 112 Stat. 2136.)
 
 #### References in Text
 
@@ -44,9 +44,9 @@ Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under
 
 The Agricultural Foreign Investment Disclosure Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–460, Oct. 14, 1978, 92 Stat. 1263, which is classified generally to chapter 66 (§3501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 7 and Tables.
 
-Section 2506 of title 10, referred to in subsec. (c)(2), was amended generally by Pub. L. 104–201, div. A, title VIII, §829(d), Sept. 23, 1996, 110 Stat. 2613, and, as so amended, no longer relates to submission of a plan to Congress.
-
 #### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–261 substituted “identified in the most recent assessment prepared under section 2505 of title 10” for “included in the most recent plan submitted to the Congress under section 2506 of title 10”.
 
 1993—Subsec. (c)(2). Pub. L. 103–160 substituted “section 2506” for “section 2522”.
 
@@ -59,6 +59,4 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3143 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

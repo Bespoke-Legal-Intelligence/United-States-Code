@@ -46,5 +46,5 @@ Functions of President under this section delegated to Secretary of the Treasury
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2430a, 2430d, 2430e of this title.
+This section is referred to in sections 2430a, 2430d, 2430e, 2431d of this title.
 

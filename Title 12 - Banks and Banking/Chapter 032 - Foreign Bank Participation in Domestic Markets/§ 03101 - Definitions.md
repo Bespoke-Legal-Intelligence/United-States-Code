@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;(8) “foreign country” means any country other than the United States, and includes any colony, dependency, or possession of any such country;
 
-&emsp;(9) “commercial lending company” means any institution, other than a bank or an organization operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], organized under the laws of any State of the United States, or the District of Columbiawhich maintains credit balances incidental to or arising out of the exercise of banking powers and engages in the business of making commercial loans;
+&emsp;(9) “commercial lending company” means any institution, other than a bank or an organization operating under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\], organized under the laws of any State of the United States, or the District of Columbia which maintains credit balances incidental to or arising out of the exercise of banking powers and engages in the business of making commercial loans;
 
 &emsp;(10) “State” means any State of the United States or the District of Columbia;
 
@@ -52,7 +52,7 @@ Pars. (15) to (17). Pub. L. 102–242, §202(e)(2), added pars. (15) to (17).
 
 #### Short Title of 1991 Amendment
 
-Section 201 of Pub. L. 102–242 provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692<i>l</i>, and 1693<i>o</i> of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
+Section 201 of Pub. L. 102–242 provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692<i>l</i>, and 1693<i>o</i> of Title 15, Commerce and Trade, and enacting provisionsset out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
 
 #### Short Title
 

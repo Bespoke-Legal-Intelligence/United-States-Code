@@ -4,7 +4,7 @@
 
 (b) A disbursing official of the allotting agency may make any disbursement chargeable to an allotment under subsection (a) upon a voucher certified by an officer or civilian employee of the procuring agency.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Sept. 13, 1982, Pub. L. 97–258, §2(b)(1)(B), 96 Stat. 1052.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 97–258, §2(b)(1)(B), Sept. 13, 1982, 96 Stat. 1052.)
 
 Historical and Revision Notes
 

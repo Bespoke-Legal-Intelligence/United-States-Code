@@ -1,6 +1,6 @@
 ### §1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review and recommendation
 
-(a) Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the award or presentation of a decoration (or the upgrading of a decoration), either for an individual or a unit, that is not otherwise authorized to be presented or awarded due to limitations established by law or policy for timely submission of a recommendation for such award or presentation. Based upon such review, the Secretary shall make a determination as to the merits of approving the award or presentation of the decoration and the other determinations necessary to comply with subsection (b).
+(a) Upon request of a Member of Congress, the Secretary concerned shall review a proposal forthe award or presentation of a decoration (or the upgrading of a decoration), either for an individual or a unit, that is not otherwise authorized to be presented or awarded due to limitations established by law or policy for timely submission of a recommendation for such award or presentation. Based upon such review, the Secretary shall make a determination as to the merits of approving the award or presentation of the decoration and the other determinations necessary to comply with subsection (b).
 
 (b) Upon making a determination under subsection (a) as to the merits of approving the award or presentation of the decoration, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives and to the requesting member of Congress notice in writing of one of the following:
 
@@ -27,6 +27,10 @@
 &emsp;(2) The term “decoration” means any decoration or award that may be presented or awarded to a member or unit of the armed forces.
 
 (Added Pub. L. 104–106, div. A, title V, §526(a), Feb. 10, 1996, 110 Stat. 313.)
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Eligibility for Armed Forces Expeditionary Medal for Participation in Operation Joint Endeavor or Operation Joint Guard
 
@@ -104,7 +108,7 @@ Review of Requests for Consideration of Awards.—(1) The Secretary of each mili
 
 “(d)
 
-Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
 “(2) The report shall include, with respect to each request for consideration received, the following information:
 
@@ -142,7 +146,7 @@ Review of Requests for Consideration of Awards.—(1) The Secretary of each mili
 
 “(c)
 
-Report.—(1) Upon completing the review of each such request under subsection (b), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+Report.—(1) Upon completing the review of each such request under subsection (b), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
 “(2) The report shall include, with respect to each request for consideration reviewed, the following information:
 
@@ -168,5 +172,5 @@ In General.—For the purpose of determining eligibility of members and former m
 
 “(b)
 
-Individual Determination.—The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who served in El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992 meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. Such determinations shall be made as expeditiously as possible after the date of the enactment of this Act \[Feb. 10, 1996\].”
+Individual Determination.—The Secretary of the military department concerned shall determinewhether individual members or former members of the Armed Forces who served in El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992 meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. Such determinations shall be made as expeditiously as possible after the date of the enactment of this Act \[Feb. 10, 1996\].”
 

@@ -24,5 +24,5 @@ Par. (2). Pub. L. 91–441, §506(b)(3), inserted reference to disposal of munit
 
 #### Withdrawal of European Chemical Stockpile
 
-Pub. L. 100–180, div. A, title I, §126, Dec. 4, 1987, 101 Stat. 1044, provided that: “Chemical munitions of the United States stored in Europe on the date of the enactment of this Act \[Dec. 4, 1987\] should not be removed from Europe unless such munitions are replaced contemporaneously with binary chemical munitions stationed on the soil of at least one European member nation of the North Atlantic Treaty Organization.”
+Pub. L. 100–180, div. A, title I, §126, Dec. 4, 1987, 101 Stat. 1044, provided that: “Chemical munitions of theUnited States stored in Europe on the date of the enactment of this Act \[Dec. 4, 1987\] should not be removed from Europe unless such munitions are replaced contemporaneously with binary chemical munitions stationed on the soil of at least one European member nation of the North Atlantic Treaty Organization.”
 

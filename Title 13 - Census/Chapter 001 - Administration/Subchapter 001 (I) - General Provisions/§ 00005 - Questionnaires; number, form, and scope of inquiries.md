@@ -2,7 +2,7 @@
 
 The Secretary shall prepare questionnaires, and shall determine the inquiries, and the number, form, and subdivisions thereof, for the statistics, surveys, and censuses provided for in this title.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Oct. 17, 1976, Pub. L. 94–521, §4(a), 90 Stat. 2459.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Pub. L. 94–521, §4(a), Oct. 17, 1976, 90 Stat. 2459.)
 
 #### Historical and Revision Notes
 

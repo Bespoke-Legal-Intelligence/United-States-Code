@@ -80,7 +80,7 @@ As a coordinator and advisory organization, the Commission shall assist the Secr
 
 #### (h) Staff
 
-The Secretary shall provide the Commission with such staff and technical assistance as the Secretary, after consultation with the Commission, considers appropriate to enable the Commission to carry out its duties. Upon request of the Secretary, any Federal agency may provide information, personnel, property, and services on a reimbursable basis, to the Commission to assist in carrying out its duties under this part. The Secretary may accept the services of personnel detailed from the State of Minnesota or any political subdivision of the State and mayreimburse the State or such political subdivision for such services. The Commission may procure temporary and intermittent services under section 3109(b) of title 5.
+The Secretary shall provide the Commission with such staff and technical assistance as the Secretary, after consultation with the Commission, considers appropriate to enable the Commission to carry out its duties. Upon request of the Secretary, any Federal agency may provide information, personnel, property, and services on a reimbursable basis, to the Commission to assist in carrying out its duties under this part. The Secretary may accept the services of personnel detailed from the State of Minnesota or any political subdivision of the State and may reimburse the State or such political subdivision for such services. The Commission may procure temporary and intermittent services under section 3109(b) of title 5.
 
 #### (i) Plan
 
@@ -136,7 +136,7 @@ Prior to the adoption of the Commission's plan, the Secretary and the Commission
 
 #### (m) Commission review
 
-The Commission shall assist the Secretary and the Governor of Minnesota in reviewing and monitoring the implementation of the plan by Federal, State, and local governmental agencies having jurisdiction in the Area. The Commissionmay, after providing, for public comment and subject to the review and approval, as set forth in subsection (k) of this section, modify said plan, if the Commission determines that such modification is necessary to further the purposes of this part.
+The Commission shall assist the Secretary and the Governor of Minnesota in reviewing and monitoring the implementation of the plan by Federal, State, and local governmental agencies having jurisdiction in the Area. The Commission may, after providing, for public comment and subject to the review and approval, as set forth in subsection (k) of this section, modify said plan, if the Commission determines that such modification is necessary to further the purposes of this part.
 
 #### (n) Termination of Commission
 
@@ -148,7 +148,7 @@ The Commission shall terminate on the date 10 years after November 18, 1988. Fol
 
 The Clean Water Act, referred to in subsec. (i)(2)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (i)(2)(D), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (i)(2)(D), is title XIV of act July 1, 1944, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 

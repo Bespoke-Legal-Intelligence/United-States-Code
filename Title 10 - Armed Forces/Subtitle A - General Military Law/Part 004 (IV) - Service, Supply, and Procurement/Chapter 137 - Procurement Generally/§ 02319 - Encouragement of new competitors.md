@@ -34,7 +34,7 @@
 
 &emsp;(A) periodically publish notice in the Commerce Business Daily soliciting additional sources or products to seek qualification, unless the contracting officer determines that such publication would compromise national security; and
 
-&emsp;(B) bear the cost of conducting the specified testing and evaluation (excluding the costs associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern which has met the standards specified for qualification and which could reasonably be expected to compete for a contract for that requirement, but such costs may be borne only if the head of the agencydetermines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
+&emsp;(B) bear the cost of conducting the specified testing and evaluation (excluding the costs associated with producing the item or establishing the production, quality control, or other system to be tested and evaluated) for a small business concern or a product manufactured by a small business concern which has met the standards specified for qualification and which could reasonably be expected to compete for a contract for that requirement, but such costs may be borne only if the head of the agency determines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
 
 (2) The head of an agency shall require a prospective contractor requesting the United States to bear testing and evaluation costs under paragraph (1)(B) to certify as to its status as a small business concern under section 3 of the Small Business Act (15 U.S.C. 632).
 
@@ -56,5 +56,5 @@ Subsec. (d)(2). Pub. L. 100–26, §7(d)(5)(B), inserted “(15 U.S.C. 632)” a
 
 #### Effective Date
 
-Section 1216(c)(2) of Pub. L. 98–525 provided that: “Sections 2319, 2320, and 2321 of title 10, United States Code (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
+Section 1216(c)(2) of Pub. L. 98–525 provided that: “Sections 2319, 2320, and 2321 of title 10, United StatesCode (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
 

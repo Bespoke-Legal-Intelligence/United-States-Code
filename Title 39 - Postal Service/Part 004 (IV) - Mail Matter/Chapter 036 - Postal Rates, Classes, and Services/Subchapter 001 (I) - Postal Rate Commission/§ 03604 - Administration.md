@@ -44,7 +44,7 @@ Sec. 102. The Office of Personnel Management shall prepare initial standards of 
 
 (a) concurrent filing of confidential statements of outside employment and financial interests by employees of the Commission with a designated official of the Commission and the Director of the Office of Personnel Management;
 
-(b) strict control of <i>ex parte</i> contacts with the Commission and the Commissioners or employees of the Commission regarding particular matters at issue in contested proceedings before the Commission. The control of such contacts shall include, but not be limitedto, the maintenance of public records of such contacts which fully identify the individuals involved and the nature of the subject matter discussed; and
+(b) strict control of <i>ex parte</i> contacts with the Commission and the Commissioners or employees of the Commission regarding particular matters at issue in contested proceedings before the Commission. The control of such contacts shall include, but not be limited to, the maintenance of public records of such contacts which fully identify the individuals involved and the nature of the subject matter discussed; and
 
 (c) prohibition against the receipt of honoraria, travel expenses, entertainment, gifts, loans, favors, or anything of value by a Commissioner or employee of the Commission from an individual (other than one having a close family or personal relationship) or organization having, or likely to have, business with the Commission.
 

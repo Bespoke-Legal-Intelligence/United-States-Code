@@ -166,7 +166,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (A) Monitoring
 
-&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
+&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree towhich the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
 
 #### (B) Improvements to establish secure system
 
@@ -174,7 +174,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (2) Restrictions on changes in system
 
-&emsp;Any change the President proposes to implement under paragraph (1) in the verificationsystem must be designed in a manner so the verification system, as so changed, meets the following requirements:
+&emsp;Any change the President proposes to implement under paragraph (1) in the verification system must be designed in a manner so the verification system, as so changed, meets the following requirements:
 
 #### (A) Reliable determination of identity
 
@@ -318,7 +318,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(ii) to take such other remedial action as is appropriate.
 
-> &emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not underthe control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
+> &emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
 #### (5) Order for civil money penalty for paperwork violations
 
@@ -374,7 +374,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;As used in this section, the term “unauthorized alien” means, with respect to the employment of an alien at a particular time, that the alien is not at that time either (A) an alien lawfully admitted for permanent residence, or (B) authorized to be so employed by this chapter or by the Attorney General.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Nov. 6, 1986, Pub. L. 99–603, title I, §101(a)(1), 100 Stat. 3360; amended Oct. 24, 1988, Pub. L. 100–525, §2(a)(1), 102 Stat. 2609; Nov. 29, 1990, Pub. L. 101–649, title V, §§521(a), 538(a), 104 Stat. 5053, 5056; Dec. 12, 1991, Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), 105 Stat. 1752, 1759; Oct. 25, 1994, Pub. L. 103–416, title II, §§213, 219(z)(4), 108 Stat. 4314, 4318; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, 110 Stat. 3009–649, 3009–666 to 3009–669.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525, §2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669.)
 
 #### References in Text
 
@@ -676,7 +676,7 @@ Role of attorney general.—The Attorney General shall assist and coordinate ele
 
 &emsp;&emsp;“(B)
 
-Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, mayspecify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election.
+Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, may specify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election.
 
 &emsp;“(2)
 
@@ -774,7 +774,7 @@ Contest.—If the individual does contest the nonconfirmation, the individual sh
 
 &emsp;&emsp;&emsp;“(iv)
 
-Recording of conclusion on form.—If a final confirmation or nonconfirmation is providedby the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
+Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
 
 &emsp;&emsp;“(C)
 
@@ -866,7 +866,7 @@ Protection From Liability for Actions Taken on the Basis of Information Provided
 
 In General.—The Attorney General shall establish a pilot program confirmation system through which the Attorney General (or a designee of the Attorney General, which may be a nongovernmental entity)—
 
-&emsp;“(1) responds to inquiries made by electing persons and other entities (including those made by thetransmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
+&emsp;“(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
 
 &emsp;“(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs.
 
@@ -1000,7 +1000,7 @@ Section 402 of Pub. L. 99–603 provided that: “The President shall transmit t
 
 &emsp;“(1) an analysis of the adequacy of the employment verification system provided under subsection (b) of that section;
 
-&emsp;“(2) a description of the status of the development and implementation of changes in that system under subsection (d) of that section, including the results of any demonstration projects conducted under paragraph (4) of such subsection; and
+&emsp;“(2) a description of the status of the development and implementation of changes in that system under subsection (d) of that section, including the results ofany demonstration projects conducted under paragraph (4) of such subsection; and
 
 &emsp;“(3) an analysis of the impact of the enforcement of that section on—
 
@@ -1016,7 +1016,7 @@ Section 402 of Pub. L. 99–603 provided that: “The President shall transmit t
 
 Ex. Ord. No. 12989, Feb. 13, 1996, 61 F.R. 6091, provided:
 
-This order is designed to promote economy and efficiency in Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose work force is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose work force is more stable. It remains the policy of this Administration to enforce the immigration laws to thefullest extent, including the detection and deportation of illegal aliens. In these circumstances, contractors cannot rely on the continuing availability and service of illegal aliens, and contractors that choose to employ unauthorized aliens inevitably will have a less stable and less dependable work force than contractors that do not employ such persons. Because of this Administration's vigorous enforcement policy, contractors that employ unauthorized alien workers are necessarily less stable and dependable procurement sources than contractors that do not hire such persons. I find, therefore, that adherence to the general policy of not contracting with providers that knowingly employ unauthorized alien workers will promote economy and efficiency in Federal procurement.
+This order is designed to promote economy and efficiency in Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose work force is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose work force is more stable. It remains the policy of this Administration to enforce the immigration laws to the fullest extent, including the detection and deportation of illegal aliens. In these circumstances, contractors cannot rely on the continuing availability and service of illegal aliens, and contractors that choose to employ unauthorized aliens inevitably will have a less stable and less dependable work force than contractors that do not employ such persons. Because of this Administration's vigorous enforcement policy, contractors that employ unauthorized alien workers are necessarily less stable and dependable procurement sources than contractors that do not hire such persons. I find, therefore, that adherence to the general policy of not contracting with providers that knowingly employ unauthorized alien workers will promote economy and efficiency in Federal procurement.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) and 3 U.S.C. 301, it is hereby ordered as follows:
 

@@ -42,7 +42,7 @@ Each State plan shall contain provisions demonstrating to the satisfaction of th
 
 &emsp;(7) any program conducted with funds made available under this subchapter which will provide services to a substantial number of members of a labor organization will be established only after full consultation with such labor organization;
 
-&emsp;(8) the State will not prescribe any standard for the operation of programs under this part that is inconsistent with section 1516(c) of this title;
+&emsp;(8) the State will not prescribe any standard for the operation of programs under this partthat is inconsistent with section 1516(c) of this title;
 
 &emsp;(9) the State job training coordinating council has reviewed and commented in writing on the plan;
 
@@ -54,7 +54,7 @@ Each State plan shall contain provisions demonstrating to the satisfaction of th
 
 #### (c) Review and approval of State plans
 
-The Secretary shall review any plan submitted under subsection (a) of this section, and anycomments thereon submitted by the State job training coordinating council pursuant to subsection (b)(9) of this section, and shall notify a State as to any deficiencies in such plan within 30 days after submission. Unless a State has been so notified, the Secretary shall approve the plan within 45 days after submission. The Secretary shall not finally disapprove the plan of any State except after notice and opportunity for a hearing.
+The Secretary shall review any plan submitted under subsection (a) of this section, and any comments thereon submitted by the State job training coordinating council pursuant to subsection (b)(9) of this section, and shall notify a State as to any deficiencies in such plan within 30 days after submission. Unless a State has been so notified, the Secretary shall approve the plan within 45 days after submission. The Secretary shall not finally disapprove the plan of any State except after notice and opportunity for a hearing.
 
 #### (d) Modifications
 
@@ -73,6 +73,10 @@ Any plan submitted under subsection (a) of this section may be modified to descr
 The provisions of sections 1512(h) and 1515(d) of this title, relating to cases in which a service delivery area is a State, shall apply to this subchapter.
 
 (Pub. L. 97–300, title III, §311, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1527; amended Pub. L. 102–367, title I, §115(b), title VII, §702(a)(12), Sept. 7, 1992, 106 Stat. 1034, 1112; Pub. L. 102–484, div. D, title XLIV, §4467(a), Oct. 23, 1992, 106 Stat. 2750.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 
@@ -96,5 +100,5 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, with provisions relating 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1661a, 1661b, 1661c, 1661f, 1662, 1662d–1 of this title; title 5 section 3502.
+This section is referred to in sections 1661a, 1661b, 1661c, 1661f, 1662, 1662d–1, 2102 of this title; title 5 section 3502.
 

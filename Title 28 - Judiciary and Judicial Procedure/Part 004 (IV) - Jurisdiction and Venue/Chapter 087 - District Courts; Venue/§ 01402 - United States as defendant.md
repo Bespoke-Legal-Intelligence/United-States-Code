@@ -28,13 +28,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164 inserted “in a district court” after “civil action” in introductory provisions preceding par. (1). The phrase “civil action” also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
+1982—Subsec. (a). Pub. L. 97–164 inserted “in a district court” after “civil action” in introductory provisions preceding par. (1). The phrase “civil action” also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
 
-<b>1972</b>—Subsec. (d). Pub. L. 92–562 added subsec. (d).
+1972—Subsec. (d). Pub. L. 92–562 added subsec. (d).
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–719 added subsec. (c).
+1966—Subsec. (c). Pub. L. 89–719 added subsec. (c).
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–920 provided for venue and change of venue in tax refund suits by corporation.
+1958—Subsec. (a). Pub. L. 85–920 provided for venue and change of venue in tax refund suits by corporation.
 
 #### Effective Date of 1982 Amendment
 

@@ -18,7 +18,7 @@ If the employer controverts the right to compensation he shall file with the dep
 
 #### (e) Additional compensation for overdue installment payments payable without award
 
-If any installment of compensation payable without an award is not paid within fourteen days after it becomes due, as provided in subsection (b) of this section, there shall be added to such unpaid installment an amount equal to10 per centum thereof, which shall be paid at the same time as, but in addition to, such installment, unless notice is filed under subsection (d) of this section, or unless such nonpayment is excused by the deputy commissioner after a showing by the employer that owing to conditions over which he had no control such installment could not be paid within the period prescribed for the payment.
+If any installment of compensation payable without an award is not paid within fourteen days after it becomes due, as provided in subsection (b) of this section, there shall be added to such unpaid installment an amount equal to 10 per centum thereof, which shall be paid at the same time as, but in addition to, such installment, unless notice is filed under subsection (d) of this section, or unless such nonpayment is excused by the deputy commissioner after a showing by the employer that owing to conditions over which he had no control such installment could not be paid within the period prescribed for the payment.
 
 #### (f) Additional compensation for overdue installment payments payable under terms of award
 
@@ -86,7 +86,7 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 
 #### Effective Date of 1948 Amendment
 
-Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
+Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 ofact June 24, 1948, set out as a note under section 906 of this title.
 
 #### Cross References
 

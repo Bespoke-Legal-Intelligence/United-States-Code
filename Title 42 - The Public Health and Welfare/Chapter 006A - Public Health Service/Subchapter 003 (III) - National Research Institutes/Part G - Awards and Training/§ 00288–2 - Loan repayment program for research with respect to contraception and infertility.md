@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with the Director of the National Institute of Child Health and Human Development, shall establish a program of entering into contracts with qualified health professionals (including graduate students) under which such health professionals agree to conduct research with respect to contraception, or with respect to infertility, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $20,000 of the principal and interest of the educational loans of such health professionals.
+The Secretary, in consultation with the Director of the National Institute of Child Health and Human Development, shall establish a program of entering into contracts with qualified health professionals (including graduate students) under which such health professionals agree to conduct research with respect to contraception, or with respect to infertility, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
 
 #### (b) Contracts, obligated service, breach of contract
 
@@ -12,5 +12,9 @@ The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title 
 
 Amounts available for carrying out this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were made available.
 
-(July 1, 1944, ch. 373, title IV, §487B, as added June 10, 1993, Pub. L. 103–43, title X, §1002, 107 Stat. 166.)
+(July 1, 1944, ch. 373, title IV, §487B, as added Pub. L. 103–43, title X, §1002, June 10, 1993, 107 Stat. 166; amended Pub. L. 105–392, title IV, §410(b), Nov. 13, 1998, 112 Stat. 3589.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–392 substituted “$35,000” for “$20,000”.
 

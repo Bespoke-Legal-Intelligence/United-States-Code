@@ -8,11 +8,11 @@ A member of the Service—
 
 &emsp;(2) who is retired under section 4007(c)(1) or 4008(b) or 4010a of this title—
 
-&emsp;&emsp;(A) after becoming eligible for voluntary retirement under section 4051 of this title, or
+&emsp;&emsp;(A) after becoming eligible for voluntary retirement under section 4051 of this title or any other applicable provision of chapter 84 of title 5, or
 
 &emsp;&emsp;(B) from the Senior Foreign Service or while assigned to class 1 in the Foreign Service Schedule,
 
-> shall receive retirement benefits in accordance with section 4046 of this title.
+> shall receive retirement benefits in accordance with section 4046 of this title or section 4071d of this title, as appropriate.
 
 #### (b) Computation of amount; refund; death of member
 
@@ -20,15 +20,35 @@ Any member of the Service (other than a member to whom subsection (a) of this se
 
 &emsp;(1) one-twelfth of a year's salary at his or her then current salary rate for each year of service and proportionately for a fraction of a year, but not exceeding a total of one year's salary at his or her then current salary rate, payable without interest from the Foreign Service Retirement and Disability Fund in 3 equal installments, such installments to be paid on January 1 of each of the first 3 calendar years beginning after the retirement of the member (except that in special cases, the Secretary of State may accelerate or combine such installments); and
 
-&emsp;(2) a refund as provided in section 4055 of this title of the contributions made by the member to the Foreign Service Retirement and Disability Fund, except that in lieu of such refund a member who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect to receive an annuity, computed under section 4046 of this title, commencing at age 60.
+&emsp;(2)(A) for those participants in the Foreign Service Retirement and Disability System, a refund as provided in section 4055 of this title of the contributions made by the member to the Foreign Service Retirement and Disability Fund, except that in lieu of such refund a member who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect to receive an annuity, computed under section 4046 of this title, commencing at age 60; and (B) for those participants in the Foreign Service Pension System, benefits as provided in section 4071 of this title.
 
-> In the event that a member of the Service has elected to receive retirement benefits under paragraph (2) and dies before reaching age 60, his or her death shall be considered a death in service within the meaning of section 4049 of this title.
+> In the event that a member of the Service has elected to receive retirement benefits under paragraph (2) and dies before reaching age 60 (for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System), his or her death shall be considered a death in service within the meaning of section 4049 of this title.
 
-(Pub. L. 96–465, title I, §609, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 103–236, title I, §181(a)(3), Apr. 30, 1994, 108 Stat. 417.)
+(Pub. L. 96–465, title I, §609, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 103–236, title I, §181(a)(3), Apr. 30, 1994, 108 Stat. 417; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(a), Oct. 21, 1998, 112 Stat. 2681–827.)
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–277, §2312(a)(2), inserted “or section 4071d of this title, as appropriate” after “section 4046 of this title” in concluding provisions.
+
+Subsec. (a)(2)(A). Pub. L. 105–277, §2312(a)(1), inserted “or any other applicable provision of chapter 84 of title 5” after “section 4051 of this title”.
+
+Subsec. (b). Pub. L. 105–277, §2312(a)(4), inserted “(for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System)” after “age 60” in concluding provisions.
+
+Subsec. (b)(2). Pub. L. 105–277, §2312(a)(3), designated existing provisions as subpar. (A), inserted “for those participants in the Foreign Service Retirement and Disability System,” before “a refund”, and added subpar. (B).
+
 1994—Subsecs. (a)(2), (b). Pub. L. 103–236 inserted “or 4010a” after “4008(b)”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(c), Oct. 21, 1998, 112 Stat. 2681–827, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 4071d of this title\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
+
+“(2)
+
+Exceptions.—The amendments made by paragraphs (2) and (3) of subsection (a) and paragraphs (1)(A) and (2) of subsection (b) \[amending this section and section 4071d of this title\] shall apply with respect to any actions taken under section 611 of the Foreign Service Act of 1980 \[22 U.S.C. 4010a\] on or after January 1, 1996.”
 
 #### Special Annuity for Certain Foreign Service Officers
 
@@ -54,5 +74,5 @@ Pub. L. 95–105, title IV, §411, Aug. 17, 1977, 91 Stat. 855, as amended by Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4007, 4008, 4010a, 4047, 4060, 4153 of this title; title 5 sections 5595, 8501.
+This section is referred to in sections 4007, 4008, 4010a, 4047, 4060, 4153 of this title; title 5 sections 5545a, 5595, 8501.
 

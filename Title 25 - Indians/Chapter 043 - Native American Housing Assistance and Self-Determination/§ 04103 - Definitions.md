@@ -84,7 +84,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (10) Indian area
 
-&emsp;The term “Indian area” means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.
+&emsp;The term “Indian area” means the area within which an Indian tribe or a tribally designated housing entity, as authorized by 1 or more Indian tribes, provides assistance under this chapter for affordable housing.
 
 #### (11) Indian housing plan
 
@@ -98,7 +98,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (B) Federally recognized tribe
 
-&emsp;&emsp;The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
+&emsp;&emsp;The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 #### (C) State recognized tribe
 
@@ -108,7 +108,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(I) that has been recognized as an Indian tribe by any State; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for which an Indian Housing Authority has, before the effective date under section 107, entered into a contract with the Secretary pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] for housing for Indian families and has received funding pursuant to such contract within the 5-year period ending upon such effective date.
+&emsp;&emsp;&emsp;&emsp;(II) for which an Indian Housing Authority has, before the effective date under section 705, entered into a contract with the Secretary pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] for housing for Indian families and has received funding pursuant to such contract within the 5-year period ending upon such effective date.
 
 #### (ii) Conditions
 
@@ -158,7 +158,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (18) Recipient
 
-&emsp;The term “recipient” means an Indian tribe or the entity for one or more Indian tribes that is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
+&emsp;The term “recipient” means an Indian tribe or the entity for one or more Indian tribesthat is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
 
 #### (19) Secretary
 
@@ -198,17 +198,25 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
-(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018.)
+(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (12)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act of 1975, referred to in par. (12)(B), probablymeans the Indian Self-Determination and Education Assistance Act which is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, and is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (12)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-For the effective date under section 107, referred to in par. (12)(C)(i)(II), as Oct. 1, 1997, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
+For the effective date under section 705, referred to in par. (12)(C)(i)(II), as Oct. 26, 1996, see section 705 of Pub. L. 104–330, set out as an Effective Date note under section 4211 of this title.
 
 The United States Housing Act of 1937, referred to in pars. (12)(C)(i)(II) and (21)(A)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+
+#### Amendments
+
+1998—Par. (10). Pub. L. 105–276, §595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
+
+Par. (12)(B). Pub. L. 105–256 substituted “Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)” for “Indian Self-Determination and Education Assistance Act of 1975”.
+
+Par. (12)(C)(i)(II). Pub. L. 105–276, §595(e)(2), substituted “705” for “107”.
 
 #### Effective Date
 

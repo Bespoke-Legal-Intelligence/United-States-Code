@@ -12,7 +12,7 @@ An order under section 824j of this title shall require the transmitting utility
 
 (2)(A) If the parties agree as provided in paragraph (1) within the time set by the Commission and the Commission approves such agreement, the terms and conditions shall be included in the final order. In the case of an order under section 824i of this title, if the parties fail to agree within the time set by the Commission or if the Commission does not approve any such agreement, the Commission shall prescribe such terms and conditions and include such terms and conditions in the final order.
 
-(B) In the case of any order applied for under section 824j of this title, if the parties fail to agree within the time set by the Commission,the Commission shall prescribe such terms and conditions in the final order.
+(B) In the case of any order applied for under section 824j of this title, if the parties fail to agree within the time set by the Commission, the Commission shall prescribe such terms and conditions in the final order.
 
 #### (d) Statement of reasons for denial
 
@@ -34,7 +34,7 @@ If the Commission does not issue any order applied for under section 824i or 824
 
 &emsp;(B) the date on which a specific authorization of the Congress (within the meaning of the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\]) takes effect.
 
-(3) Any determination under paragraph (1) shall be reviewable only in the appropriate court of the United States upon petition filed by any aggrieved person or municipality within 60 days after such determination, and such court shall have jurisdiction to grant appropriate relief. Any applicant who applied for and obtained the order under section 824i or 824j of this title, and any electric utility or other entity subject to such order shall have the right to intervene in any such proceeding in such court. Except for review by such court (and any appeal or other review by an appellate court of the United States), no court shall have jurisdiction to consider any action brought by any person to enjoin the carrying out of any order of the Commission under section 824i or section 824j of this title requiring the TVA to take any action on the grounds that such action requires a specific authorization of the Congress pursuant to the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\].
+(3) Any determination under paragraph (1) shall be reviewable only in the appropriate court of the United States upon petition filed by any aggrieved person or municipality within 60 daysafter such determination, and such court shall have jurisdiction to grant appropriate relief. Any applicant who applied for and obtained the order under section 824i or 824j of this title, and any electric utility or other entity subject to such order shall have the right to intervene in any such proceeding in such court. Except for review by such court (and any appeal or other review by an appellate court of the United States), no court shall have jurisdiction to consider any action brought by any person to enjoin the carrying out of any order of the Commission under section 824i or section 824j of this title requiring the TVA to take any action on the grounds that such action requires a specific authorization of the Congress pursuant to the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\].
 
 #### (g) Prohibition on orders inconsistent with retail marketing areas
 
@@ -56,7 +56,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 #### (i) Laws applicable to Federal Columbia River Transmission System
 
-(1) The Commission shall have authority pursuant to section 824i of this title, section 824j of this title, this section, and section 824<i>l</i> of this title to (A) order the Administrator of the Bonneville Power Administration to provide transmission service and (B) establish the terms andconditions of such service. In applying such sections to the Federal Columbia River Transmission System, the Commission shall assure that—
+(1) The Commission shall have authority pursuant to section 824i of this title, section 824j of this title, this section, and section 824<i>l</i> of this title to (A) order the Administrator of the Bonneville Power Administration to provide transmission service and (B) establish the terms and conditions of such service. In applying such sections to the Federal Columbia River Transmission System, the Commission shall assure that—
 
 &emsp;(i) the provisions of otherwise applicable Federal laws shall continue in full force and effect and shall continue to be applicable to the system; and
 
@@ -86,7 +86,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 #### (j) Equitability within territory restricted electric systems
 
-With respect to an electric utility which is prohibited by Federal law from being a source of power supply, either directly or through a distributor of its electric energy, outside an area set forth in such law, no order issued under section 824j of this title may require such electric utility (or a distributor of such electric utility)to provide transmission services to another entity if the electric energy to be transmitted will be consumed within the area set forth in such Federal law, unless the order is in furtherance of a sale of electric energy to that electric utility: <i>Provided, however</i>, That the foregoing provision shall not apply to any area served at retail by an electric transmission system which was such a distributor on October 24, 1992, and which before October 1, 1991, gave its notice of termination under its power supply contract with such electric utility.
+With respect to an electric utility which is prohibited by Federal law from being a source of power supply, either directly or through a distributor of its electric energy, outside an area set forth in such law, no order issued under section 824j of this title may require such electric utility (or a distributor of such electric utility) to provide transmission services to another entity if the electric energy to be transmitted will be consumed within the area set forth in such Federal law, unless the order is in furtherance of a sale of electric energy to that electric utility: <i>Provided, however</i>, That the foregoing provision shall not apply to any area served at retail by an electric transmission system which was such a distributor on October 24, 1992, and which before October 1, 1991, gave its notice of termination under its power supply contract with such electric utility.
 
 #### (k) ERCOT utilities
 
@@ -102,7 +102,7 @@ With respect to an electric utility which is prohibited by Federal law from bein
 
 &emsp;&emsp;(B) the term “ERCOT utility” means a transmitting utility which is a member of ERCOT.
 
-(June 10, 1920, ch. 285, pt. II, §212, as added Pub. L. 95–617, title II, §204(a), Nov. 9, 1978, 92 Stat. 3138; amended Oct. 24, 1992, Pub. L. 102–486, title VII, §722, 106 Stat. 2916.)
+(June 10, 1920, ch. 285, pt. II, §212, as added Pub. L. 95–617, title II, §204(a), Nov. 9, 1978, 92 Stat. 3138; amended Pub. L. 102–486, title VII, §722, Oct. 24, 1992, 106 Stat. 2916.)
 
 #### References in Text
 

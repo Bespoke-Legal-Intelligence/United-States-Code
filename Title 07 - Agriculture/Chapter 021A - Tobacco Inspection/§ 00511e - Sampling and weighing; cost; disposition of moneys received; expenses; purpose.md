@@ -6,7 +6,7 @@ The Secretary shall fix and collect such fees or charges in the administration o
 
 This section is intended merely to provide for the furnishing of services upon request of the owner or other person financially interested in tobacco to be sampled, inspected, or weighed and shall not be construed otherwise.
 
-(Aug. 23, 1935, ch. 623, §6, 49 Stat. 732; Aug. 13, 1981, Pub. L. 97–35, title I, §157(a)(2), 95 Stat. 375.)
+(Aug. 23, 1935, ch. 623, §6, 49 Stat. 732; Pub. L. 97–35, title I, §157(a)(2), Aug. 13, 1981, 95 Stat. 375.)
 
 #### Amendments
 

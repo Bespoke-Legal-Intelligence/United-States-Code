@@ -10,7 +10,7 @@ No funds appropriated under any provision of this chapter (except as provided in
 
 &emsp;(4) for loans, or for payments under loan guarantees, to assist in meeting the costs of the initial operation after establishment or expansion of such organizations or entities or in meeting the costs of such organizations in acquiring or constructing ambulatory health care facilities.
 
-(July 1, 1944, ch. 373, title XIII, §1313, as added Dec. 29, 1973, Pub. L. 93–222, §2, 87 Stat. 932; amended Nov. 1, 1978, Pub. L. 95–559, §5(b), 92 Stat. 2133; Nov. 10, 1978, Pub. L. 95–626, title I, §107, 92 Stat. 3562.)
+(July 1, 1944, ch. 373, title XIII, §1313, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 932; amended Pub. L. 95–559, §5(b), Nov. 1, 1978, 92 Stat. 2133; Pub. L. 95–626, title I, §107, Nov. 10, 1978, 92 Stat. 3562.)
 
 #### References in Text
 
@@ -20,7 +20,7 @@ Section 256 of this title, referred to in text, was repealed by Pub. L. 97–35,
 
 #### Amendments
 
-1978—Pub. L. 95–626 inserted “(except as provided in sections 254b, 254c, and 256 of this title)” after “underany provision of this chapter” in provisions preceding par. (1).
+1978—Pub. L. 95–626 inserted “(except as provided in sections 254b, 254c, and 256 of this title)” after “under any provision of this chapter” in provisions preceding par. (1).
 
 Par. (4). Pub. L. 95–559 inserted “or in meeting the costs of such organizations in acquiring or constructing ambulatory health care facilities” after “or entities”.
 

@@ -10,7 +10,7 @@
 
 (2) Subject to section 3695 of this title, an individual described in clause (B) or (C) of section 3018(b)(3) of this title whose discharge or release from active duty prevents the reduction of the basic pay of such individual by $1,200 is entitled to the number of months of assistance under this chapter that is equal to the lesser of—
 
-&emsp;(A) 36 multiplied by a fraction the numerator of which is the amount by which the basic pay of the individual has been reduced undersection 3018(c) and the denominator of which is $1,200; or
+&emsp;(A) 36 multiplied by a fraction the numerator of which is the amount by which the basic pay of the individual has been reduced under section 3018(c) and the denominator of which is $1,200; or
 
 &emsp;(B) the number of months the individual has served on continuous active duty after June 30, 1985.
 
@@ -80,7 +80,7 @@ Subsec. (c)(1). Pub. L. 101–237, §423(a)(2)(C)(i), inserted reference to par.
 
 Subsec. (c)(3). Pub. L. 101–237, §423(a)(2)(C)(ii), added par. (3).
 
-1988—Subsec. (a)(2). Pub. L. 100–689, §111(a)(4)(A), substituted “Subject to section 1795 of this title and subsection (c) of this section, in the case” for “In the case” and “continuous active duty served by such individual after June 30, 1985, as part of the individual's initial obligated period of active duty in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III)of this title, or in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, after June 30, 1985” for “active duty served by such individual after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
+1988—Subsec. (a)(2). Pub. L. 100–689, §111(a)(4)(A), substituted “Subject to section 1795 of this title and subsection (c) of this section, in the case” for “In the case” and “continuous active duty served by such individual after June 30, 1985, as part of the individual's initial obligated period of active duty in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, or in the case of an individual described in section 1411(a)(1)(B)(ii)(I) or (III) of this title, after June 30, 1985” for “active duty served by such individual after the date of the beginning of the period for which the individual's basic pay is reduced under section 1411(b) of this title, in the case of an individual described in section 1411(a)(1)(A)(ii)(I) of this title, or after June 30, 1985, in the case of an individual described in section 1411(a)(1)(B)(ii)(I) of this title”.
 
 Pub. L. 100–689, §102(b)(2), inserted “or (III)” after “section 1411(a)(1)(A)(ii)(I)” and after “section 1411(a)(1)(B)(ii)(I)”, the first place each appears.
 

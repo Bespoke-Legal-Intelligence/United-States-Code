@@ -2,7 +2,7 @@
 
 #### (a) Development and transmittal to Congress; contents
 
-Within three full fiscal years following the fiscal year of enactment of this subchapter, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources ofthe United States Senate, separate general management plans for the monument and the conservation area which shall describe the appropriate uses and development of the monument and the conservation area consistent with the purposes of this subchapter. The plans shall include but not be limited to each of the following:
+Within three full fiscal years following the fiscal year of enactment of this subchapter, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, separate general management plans for the monument and the conservation area which shall describe the appropriate uses and development of the monument and the conservation area consistent with the purposes of this subchapter. The plans shall include but not be limited to each of the following:
 
 &emsp;(1) implementation plans for a continuing program of interpretation and public education about the resources and values of the monument and the conservation area;
 

@@ -48,7 +48,7 @@ The Administrator, alone or after consultation with the Secretary of Energy, sha
 
 (4) For carrying out the purpose of this chapter the Administrator may detail personnel of the Environmental Protection Agency to agencies eligible for assistance under this section.
 
-(Pub. L. 89–272, title II, §8001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2829; amended Pub. L. 95–91, title III, §301, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–609, §7(s), Nov. 8, 1978, 92 Stat. 3083.)
+(Pub. L. 89–272, title II, §8001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2829; amended Pub. L. 95–91, title III, §301, title VII, §§703, 707,Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–609, §7(s), Nov. 8, 1978, 92 Stat. 3083.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ Pub. L. 100–220, title II, §2202, Dec. 29, 1987, 101 Stat. 1465, directed Adm
 
 #### National Advisory Commission on Resource Conservation and Recovery
 
-Pub. L. 96–482, §33, Oct. 21, 1980, 94 Stat. 2356, provided for establishment, membership, functions, etc., of a National Advisory Commission on Resource Conservation and Recovery, directed Commission to submit an interim report for legislative and administrative actions relating to this chapter on Feb. 15, 1982, and upon expiration of the two-year period beginning on the date when all initial members of the Commission have been appointed or the date initial funds become available, whichever is later, to transmit a final report to President and Congress containing a detailed statement of the findings and conclusions of the Commission, and terminated the Commission 30 days after submission of its final report.
+Pub. L. 96–482, §33, Oct. 21, 1980, 94 Stat. 2356, as amended by Pub. L. 105–362, title V, §501(g), Nov. 10, 1998, 112 Stat. 3284, provided for establishment, membership, functions, etc., of a National Advisory Commission on Resource Conservation and Recovery, directed Commission, upon expiration of the two-year period beginning on the date when all initial members of the Commission have been appointed or the date initial funds become available, whichever is later, to transmit a final report to President and Congress containing a detailed statement of the findings and conclusions of the Commission, and terminated the Commission 30 days after submission of its final report.
 
 #### Solid Waste Cleanup on Federal Lands in Alaska; Study and Report to Congressional Committees
 

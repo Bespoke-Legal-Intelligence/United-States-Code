@@ -14,5 +14,5 @@ Executive Order numbered 11472, dated May 29, 1969, referred to in par. (1), is 
 
 #### Citizens’ Advisory Committee on Environmental Quality
 
-For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, set out asa note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

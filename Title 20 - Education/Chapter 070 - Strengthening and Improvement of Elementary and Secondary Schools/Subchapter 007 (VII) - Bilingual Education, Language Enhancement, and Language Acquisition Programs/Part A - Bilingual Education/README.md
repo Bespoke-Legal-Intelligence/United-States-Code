@@ -2,7 +2,7 @@ Part A—Bilingual Education
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1206a, 1401, 6396, 6649, 7545, 7571, 7572, 7573, 7575, 7602 of this title.
+This part is referred to in sections 1401, 6396, 6649, 7545, 7571, 7572, 7573, 7575, 7602 of this title.
 
 
 ---

@@ -6,7 +6,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (b) Distributions
 
-Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of thistitle shall be distributed by the Secretary of Agriculture as follows:
+Such sums as are appropriated to carry out the provisions of section 2662(a) and (b) of this title shall be distributed by the Secretary of Agriculture as follows:
 
 &emsp;(1) 4 per centum shall be retained by the Secretary for program administration and national coordination of State programs, and program assistance to the States;
 

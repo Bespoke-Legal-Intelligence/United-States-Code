@@ -2,7 +2,7 @@
 
 (a)
 
-Entitlement to Allowance.—(1) Except as provided in paragraph (2) or otherwise provided by law, each member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for subsistence as set forth in this section.
+Entitlement to Allowance.—(1) Except as provided in paragraph (2) or otherwise providedby law, each member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for subsistence as set forth in this section.
 
 (2) An enlisted member is not entitled to the basic allowance for subsistence during basic training.
 
@@ -28,15 +28,19 @@ Special Rule for Members Authorized to Mess Separately.—(1) In areas prescribe
 
 (e)
 
-Policies on Use of Dining and Messing Facilities.—The Secretary of Defense, in consultation with the Secretaries concerned, shall prescribe policies regarding use of dining and field messing facilities of the uniformed services.
+Special Rule for Certain Enlisted Reserve Members.—Unless entitled to basic pay under section 204 of this title, an enlisted member of a reserve component may receive, at the discretion of the Secretary concerned, rations in kind, or a part thereof, when the member's instruction or duty periods, as described in section 206(a) of this title, total at least 8 hours in a calendar day. The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.
 
 (f)
+
+Policies on Use of Dining and Messing Facilities.—The Secretary of Defense, in consultation with the Secretaries concerned, shall prescribe policies regarding use of dining and field messing facilities of the uniformed services.
+
+(g)
 
 Regulations.—(1) The Secretary of Defense shall prescribe regulations for the administration of this section. Before prescribing the regulations, the Secretary shall consult with each Secretary concerned.
 
 (2) The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037.)
 
 Historical and Revision Notes
 
@@ -112,9 +116,11 @@ In subsection (c), the words “who are entitled to basic pay” are inserted to
 
 In subsection (d), the reference in section 251(a) of existing title 37 to the allowance of $1.05 per day for enlisted members granted permission to mess separately is omitted as superseded by section 251a.
 
-In subsection (e), the words “Effective April 15, 1955,” are omitted as executed. The words “United States” are substituted for the word “Government”. The words “messing facilities” are substituted for the word “messes” to conform to subsections (b) and (d).
+In subsection (e), the words “Effective April 15, 1955,” are omitted as executed. The words “United States”are substituted for the word “Government”. The words “messing facilities” are substituted for the word “messes” to conform to subsections (b) and (d).
 
 #### Amendments
+
+1998—Subsecs. (e) to (g). Pub. L. 105–261 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 1997—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to basic allowance for subsistence for members of the uniformed services.
 
@@ -166,7 +172,7 @@ Amendment by Pub. L. 93–419 effective Sept. 19, 1974, see section 9 of Pub. L.
 
 #### Transitional Authority To Provide Basic Allowance for Subsistence
 
-Section 602(c)–(f) of Pub. L. 105–85 provided that:
+Section 602(c)–(f) of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title VI, §604(b), Oct. 17, 1998, 112 Stat. 2038, provided that:
 
 “(c)
 
@@ -220,6 +226,10 @@ Other entitlement circumstances.—An enlisted member is entitled to the allowan
 
 Advance payment.—The allowance to an enlisted member, when authorized, may be paid in advance for a period of not more than three months.
 
+&emsp;&emsp;“(D)
+
+Special rule for certain enlisted reserve members.—Unless entitled to basic pay under section 204 of title 37, United States Code, an enlisted member of a reserve component (as defined in section 101(24) of such title) may receive, at the discretion of the Secretary concerned (as defined in section 101(5) of such title), rations in kind, or a part thereof, when the member's instruction or duty periods (as described in section 206(a) of such title) total at least 8 hours in a calendar day. The Secretary concerned may provide an enlisted member who could be provided rations in kind under the preceding sentence with a commutation when rations in kind are not available.
+
 &emsp;“(2)
 
 Officers.—An officer of a uniformed service who is entitled to basic pay is, at all times, entitled to the basic allowances for subsistence. An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to the same basic allowance for subsistence as is provided for an officer of the Navy, Air Force, Marine Corps, or Coast Guard, respectively.
@@ -252,7 +262,7 @@ Allowance for officers.—The monthly rate of basic allowance for subsistence fo
 
 &emsp;“(2)
 
-Allowance for enlisted member with permission to mess separately.—The monthly rate of basicallowance for subsistence for a year (beginning on January 1 of that year) that is payable to an enlisted member of the uniformed services entitled to the allowance under subsection (d)(1) shall be the amount that is equal to 101 percent of the rate of basic allowance for subsistence that was in effect for similarly situated enlisted members of the uniformed services for the preceding year.
+Allowance for enlisted member with permission to mess separately.—The monthly rate of basic allowance for subsistence for a year (beginning on January 1 of that year) that is payable to an enlisted member of the uniformed services entitled to the allowance under subsection (d)(1) shall be the amount that is equal to 101 percent of the rate of basic allowance for subsistence that was in effect for similarly situated enlisted members of the uniformed services for the preceding year.
 
 &emsp;“(3)
 

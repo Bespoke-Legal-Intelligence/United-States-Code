@@ -38,3 +38,7 @@ Definition.—In this section, the term “international terrorism” has the me
 
 1997—Subsec. (a)(1). Pub. L. 105–85 substituted “50 U.S.C. App. 2405(j)(1)(A)” for “50 App. 2405(j)”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

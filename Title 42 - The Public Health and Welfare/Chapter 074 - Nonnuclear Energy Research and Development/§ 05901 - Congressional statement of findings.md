@@ -8,7 +8,7 @@ The Congress hereby finds that—
 
 (c) The urgency of the Nation's energy challenge will require commitments similar to those undertaken in the Manhattan and Apollo projects; it will require that the Nation undertake a research, development, and demonstration program in nonnuclear energy technologies with a total Federal investment which may reach or exceed $20,000,000,000 over the next decade.
 
-(d) In undertaking such program, full advantage must be taken of the existing technical and managerial expertise in the various energyfields within Federal agencies and particularly in the private sector.
+(d) In undertaking such program, full advantage must be taken of the existing technical and managerial expertise in the various energy fields within Federal agencies and particularly in the private sector.
 
 (e) The Nation's future energy needs can be met if a national commitment is made now to dedicate the necessary financial resources, to enlist our scientific and technological capabilities, and to accord the proper priority to developing new nonnuclear energy options to serve national needs, conserve vital resources, and protect the environment.
 

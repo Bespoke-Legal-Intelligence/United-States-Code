@@ -20,9 +20,9 @@ For purposes of this part and parts A and B of this subchapter:
 
 #### (5) Trauma care component of State plan
 
-&emsp;The term “trauma care component”, with respect to components of the State plan for the provision of emergency medical services, means a plan for a comprehensive health caresystem, within rural and urban areas of the State, for the prompt recognition, prehospital care, emergency medical care, acute surgical and medical care, rehabilitation, and outcome evaluation of seriously injured patients.
+&emsp;The term “trauma care component”, with respect to components of the State plan for the provision of emergency medical services, means a plan for a comprehensive health care system, within rural and urban areas of the State, for the prompt recognition, prehospital care, emergency medical care, acute surgical and medical care, rehabilitation, and outcome evaluation of seriously injured patients.
 
-(July 1, 1944, ch. 373, title XII, §1231, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2926; amended July 10, 1992, Pub. L. 102–321, title VI, §602(2), 106 Stat. 436; Dec. 14, 1993, Pub. L. 103–183, title VI, §601(f)(4), 107 Stat. 2239.)
+(July 1, 1944, ch. 373, title XII, §1231, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2926; amended Pub. L. 102–321, title VI, §602(2), July 10, 1992, 106 Stat. 436; Pub. L. 103–183, title VI, §601(f)(4), Dec. 14, 1993, 107 Stat. 2239.)
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §8104. Watches
 
-(a) An owner, charterer, managing operator, master, individual in charge, or other personhaving authority may permit an officer to take charge of the deck watch on a vessel when leaving or immediately after leaving port only if the officer has been off duty for at least 6 hours within the 12 hours immediately before the time of leaving.
+(a) An owner, charterer, managing operator, master, individual in charge, or other person having authority may permit an officer to take charge of the deck watch on a vessel when leaving or immediately after leaving port only if the officer has been off duty for at least 6 hours within the 12 hours immediately before the time of leaving.
 
 (b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, or fish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
 
@@ -52,7 +52,7 @@
 
 &emsp;(2) entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products.
 
-(n) On a tanker, a licensed individual or seaman may not be permitted to work more than 15hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency or a drill. In this subsection, “work” includes any administrative duties associated with the vessel whether performed on board the vessel or onshore.
+(n) On a tanker, a licensed individual or seaman may not be permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency or a drill. In this subsection, “work” includes any administrative duties associated with the vessel whether performed on board the vessel or onshore.
 
 (<i>o</i>)(1) Except as provided in paragraph (2) of this subsection, on a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 3 watches.
 
@@ -96,7 +96,7 @@ For the Great Lakes towing vessels and merchant vessels in subsections (c) and (
 
 Subsection (f) states that the limitations in subsections (d) and (e) do not apply if the master or other officer decides the crew is needed for certain routine, safety, or rescue activities.
 
-Subsection (g) provides that for a towing vessel (except a Great Lakes towing vessel under subsection (c)), offshore supply vessel, or barge on a voyage of less than 600 miles, the licensed officers and certain crewmembers may be divided into not less than two watches when at sea.
+Subsection (g) provides that for a towing vessel (except a Great Lakes towing vessel under subsection (c)), offshore supply vessel, or barge on a voyage of less than600 miles, the licensed officers and certain crewmembers may be divided into not less than two watches when at sea.
 
 Subsection (h) provides that the licensed operator for a towing vessel at least 26 feet long may not be required to work more than 12 of 24 hours, except in an emergency.
 

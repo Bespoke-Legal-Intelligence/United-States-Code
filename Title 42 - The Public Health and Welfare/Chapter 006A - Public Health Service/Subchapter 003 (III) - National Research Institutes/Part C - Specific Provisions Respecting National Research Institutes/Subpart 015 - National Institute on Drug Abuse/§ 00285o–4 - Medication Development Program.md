@@ -38,11 +38,11 @@ In carrying out the activities described in subsection (a) of this section, the 
 
 #### (1) In general
 
-&emsp;Not later than December 31, 1992, and each December 31 thereafter, the Director of the Institute shall submit to the Office of National Drug Control Policy established under section 1501 of title 21 a report, in accordance with paragraph (3), that describes the objectives and activities of the program assisted under this section.
+&emsp;Not later than December 31, 1992, and each December 31 thereafter, the Director of the Institute shall submit to the Office of National Drug Control Policy established under section 1501 <sup>1</sup> of title 21 a report, in accordance with paragraph (3), that describes the objectives and activities of the program assisted under this section.
 
 #### (2) National Drug Control Strategy
 
-&emsp;The Director of National Drug Control Policy shall incorporate, by reference or otherwise, each report submitted under this subsection in the National Drug Control Strategy submitted the following February 1 under section 1504 of title 21.
+&emsp;The Director of National Drug Control Policy shall incorporate, by reference or otherwise, each report submitted under this subsection in the National Drug Control Strategy submitted the following February 1 under section 1504 <sup>1</sup> of title 21.
 
 #### (d) “Pharmacotherapeutics” defined
 
@@ -62,7 +62,11 @@ For purposes of this section, the term “pharmacotherapeutics” means medicati
 
 For the purpose of carrying out this section, there are authorized to be appropriated $85,000,000 for fiscal year 1993, and $95,000,000 for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title IV, §464P, as added July 10, 1992, Pub. L. 102–321, title I, §123(b), 106 Stat. 362; amended June 10, 1993, Pub. L. 103–43, title XX, §2008(b)(10), 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §464P, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 362; amended Pub. L. 103–43, title XX, §2008(b)(10), June 10, 1993, 107 Stat. 211.)
+
+#### References in Text
+
+Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188, as amended.
 
 #### Amendments
 

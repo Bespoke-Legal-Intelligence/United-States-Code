@@ -12,7 +12,7 @@ No employer may discharge any employee or otherwise discriminate against any emp
 
 #### (b) Complaint charging unlawful discharge or discrimination; investigation; order
 
-(1) Any employee who believes that he has been discharged or otherwise discriminatedagainst by any person in violation of subsection (a) of this section may, within thirty days after such violation occurs, file (or have any person file on his behalf) a complaint with the Secretary of Labor (hereinafter in this subsection referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
+(1) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of subsection (a) of this section may, within thirty days after such violation occurs, file (or have any person file on his behalf) a complaint with the Secretary of Labor (hereinafter in this subsection referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
 
 (2)(A) Upon receipt of a complaint filed under paragraph (1), the Secretary shall conduct an investigation of the violation alleged in the complaint. Within thirty days of the receipt of such complaint, the Secretary shall complete such investigation and shall notify in writing the complainant (and any person acting in his behalf) and the person alleged to have committed such violation of the results of the investigation conducted pursuant to this subparagraph. Within ninety days of the receipt of such complaint the Secretary shall, unless the proceeding on the complaint is terminated by the Secretary on the basis of a settlement entered into by the Secretary and the person alleged to have committed such violation, issue an order either providing the relief prescribed by subparagraph (B) or denying the complaint. An order of the Secretary shall be made on the record after notice and opportunity for public hearing. The Secretary may not enter into a settlement terminating a proceeding on a complaint without the participation and consent of the complainant.
 
@@ -42,7 +42,7 @@ Any nondiscretionary duty imposed by this section shall be enforceable in a mand
 
 Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from his employer (or the employer's agent), deliberately causes a violation of any requirement of this chapter.
 
-(July 14, 1955, ch. 360, title III, §322, as added Aug. 7, 1977, Pub. L. 95–95, title III, §312, 91 Stat. 783.)
+(July 14, 1955, ch. 360, title III, §322, as added Pub. L. 95–95, title III, §312, Aug. 7, 1977, 91 Stat. 783.)
 
 #### Effective Date
 

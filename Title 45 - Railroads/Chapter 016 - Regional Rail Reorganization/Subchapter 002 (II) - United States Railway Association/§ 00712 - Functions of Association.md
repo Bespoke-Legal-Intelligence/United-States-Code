@@ -40,7 +40,7 @@ The Association, including its franchise, capital reserves, surplus, security ho
 
 #### (e) Budget
 
-The receipts and disbursements of the Association (other than administrative expenses referred to in subsection (g) <sup>3</sup> of this section and receipts and disbursements under section 726 ofthis title and section 746 of this title) in the discharge of its functions shall not be included in the totals of the budget of the United States Government, and shall be exempt from any annual expenditure and net lending (budget outlays) limitations imposed on a budget of the United States Government. The Chairman of the Association shall transmit annually to the Congress a budget for program activities and for administrative expenses of the Association. The Chairman shall report annually to the Congress the amount of net lending of the Association, which would be included in the totals of the budgets of the United States Government, if the Association's activities were not excluded from those totals as a result of this section.
+The receipts and disbursements of the Association (other than administrative expenses referred to in subsection (g) <sup>3</sup> of this section and receipts and disbursements under section 726 of this title and section 746 of this title) in the discharge of its functions shall not be included in the totals of the budget of the United States Government, and shall be exempt from any annual expenditure and net lending (budget outlays) limitations imposed on a budget of the United States Government. The Chairman of the Association shall transmit annually to the Congress a budget for program activities and for administrative expenses of the Association. The Chairman shall report annually to the Congress the amount of net lending of the Association, which would be included in the totals of the budgets of the United States Government, if the Association's activities were not excluded from those totals as a result of this section.
 
 #### (f) Accountability
 
@@ -58,7 +58,7 @@ No later than March 1, 1980, the Association and the Secretary of Transportation
 
 The Board of Directors of the Association shall adopt procedures to insure (1) that contractors, including law firms, provide reports containing written verification of tasks assigned, work performed, time worked, and costs incurred, including periodic status reports on work performed, (2) that such reports are audited by the Association, (3) that no funds are paid to contractors without written reports complying with the requirements of this subsection, and (4) that the Association applies such procedures uniformly to all contractors.
 
-(Pub. L. 93–236, title II, §202, Jan. 2, 1974, 87 Stat. 990; Pub. L. 94–5, §2(a), Feb. 28, 1975, 89 Stat. 7; Pub. L. 94–210, title VI, §§601(c), 607(b), (c), Feb. 5, 1976, 90 Stat. 84, 96; Pub. L. 95–199, §2, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 96–73, title II, §§202, 203, Sept. 29, 1979, 93 Stat. 555; Pub. L. 97–35, title XI, §1148(a), (b), Aug. 13, 1981, 95 Stat. 674; Pub. L. 97–468, title VI, §605(e), Jan. 14, 1983, 96 Stat. 2564.)
+(Pub. L. 93–236, title II, §202, Jan. 2, 1974, 87 Stat. 990; Pub. L. 94–5, §2(a), Feb. 28, 1975, 89 Stat. 7; Pub. L. 94–210, title VI, §§601(c), 607(b), (c), Feb.5, 1976, 90 Stat. 84, 96; Pub. L. 95–199, §2, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 96–73, title II, §§202, 203, Sept. 29, 1979, 93 Stat. 555; Pub. L. 97–35, title XI, §1148(a), (b), Aug. 13, 1981, 95 Stat. 674; Pub. L. 97–468, title VI, §605(e), Jan. 14, 1983, 96 Stat. 2564.)
 
 #### Codification
 

@@ -4,7 +4,7 @@ The Secretary is authorized and empowered to bid for and purchase at any foreclo
 
 No borrower of funds under sections 904 or 922 of this title shall, without the approval of the Secretary, sell or dispose of its property, rights, or franchises, acquired under the provisions of this chapter, until any loan obtained from the Rural Electrification Administration, including all interest and charges, shall have been repaid.
 
-(May 20, 1936, ch. 432, title I, §7, 49 Stat. 1365; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title I, §7, 49 Stat. 1365; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

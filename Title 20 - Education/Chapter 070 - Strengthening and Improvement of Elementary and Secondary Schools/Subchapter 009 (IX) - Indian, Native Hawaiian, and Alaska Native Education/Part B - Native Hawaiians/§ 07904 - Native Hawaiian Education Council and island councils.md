@@ -70,7 +70,7 @@ The Education Council and each island council shall meet at the call of the chai
 
 #### (h) Compensation
 
-Members of the Education Council and each island council shall not receive any compensationfor services on the Education Council and each island council, respectively.
+Members of the Education Council and each island council shall not receive any compensation for services on the Education Council and each island council, respectively.
 
 #### (i) Report
 

@@ -22,7 +22,7 @@ Any vaccine manufacturer who intentionally destroys, alters, falsifies, or conce
 
 > Such penalty shall apply to the person who intentionally destroyed, altered, falsified, or concealed such record or report, to the person who directed that such record or report be destroyed, altered, falsified, or concealed, and to the vaccine manufacturer for which such person is an agent, employee, or representative. Each act of destruction, alteration, falsification, or concealment shall be treated as a separate occurrence.
 
-(July 1, 1944, ch. 373, title XXI, §2128, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3777; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4302(b)(1), 101 Stat. 1330–221.)
+(July 1, 1944, ch. 373, title XXI, §2128, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3777; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221.)
 
 #### Codification
 

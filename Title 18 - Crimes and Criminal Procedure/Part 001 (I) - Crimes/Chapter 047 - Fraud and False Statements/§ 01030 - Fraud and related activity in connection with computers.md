@@ -122,7 +122,7 @@ Section 11 of the Atomic Energy Act of 1954, referred to in subsec. (a)(1), is c
 
 The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see ShortTitle note set out under section 2001 of Title 12 and Tables.
 
 Section 15 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4)(F), is classified to section 78<i>o</i> of Title 15, Commerce and Trade.
 
@@ -246,7 +246,7 @@ Section 2103 of Pub. L. 98–473 directed Attorney General to report to Congress
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 2256, 3239 of this title; title 31 section 9703.
+This section is referred to in sections 981, 982, 2256, 3239 of this title; title 17 section 1201; title 26 section 7431; title 31 section 9703.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

@@ -42,11 +42,11 @@ Loaned Property.—With respect to property loaned for a presidential inaugurati
 
 Definitions.—In this section:
 
-&emsp;(1) The term “Presidential Inaugural Committee” means the committee referred to in subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721) that is appointed with respect to the inauguration of a President-elect and Vice President-elect.
+&emsp;(1) The term “Presidential Inaugural Committee” means the committee referred to in section 501 of title 36 that is appointed with respect to the inauguration of a President-elect and Vice President-elect.
 
-&emsp;(2) The term “congressional Joint Inaugural Committee” means the joint committee of the Senate and House of Representatives referred to in the proviso in section 9 of the Presidential Inaugural Ceremonies Act (36 U.S.C. 729) that is appointed with respect to the inauguration of a President-elect and Vice President-elect.
+&emsp;(2) The term “congressional Joint Inaugural Committee” means the joint committee of the Senate and House of Representatives referred to in section 507 of title 36 that is appointed with respect to the inauguration of a President-elect and Vice President-elect.
 
-(Added Pub. L. 85–861, §1(48)(A), Sept. 2, 1958, 72 Stat. 1458; amended Pub. L. 96–513, title V, §511(81), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 104–201, div. A, title III, §366(a), Sept. 23, 1996, 110 Stat. 2495.)
+(Added Pub. L. 85–861, §1(48)(A), Sept. 2, 1958, 72 Stat. 1458; amended Pub. L. 96–513, title V, §511(81), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 104–201, div. A, title III, §366(a), Sept. 23, 1996, 110 Stat. 2495; Pub. L. 105–225, §4(a)(2), Aug. 12, 1998, 112 Stat. 1498.)
 
 Historical and Revision Notes
 
@@ -81,6 +81,10 @@ In subsection (b), the words “and the whole without expense to the United Stat
 In subsection (c), the words “nine days after the date of the ceremony inaugurating the President” are substituted for the words “five days after the end of the inaugural period”, in 36:726 (2d sentence), and 36:721(b)(1).
 
 #### Amendments
+
+1998—Subsec. (e)(1). Pub. L. 105–225, §4(a)(2)(A), substituted “section 501 of title 36” for “subsection (b)(2) of the first section of the Presidential Inaugural Ceremonies Act (36 U.S.C. 721)”.
+
+Subsec. (e)(2). Pub. L. 105–225, §4(a)(2)(B), substituted “section 507 of title 36” for “the proviso in section 9 of the Presidential Inaugural Ceremonies Act (36 U.S.C. 729)”.
 
 1996—Pub. L. 104–201 substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in section catchline and amended text generally. Prior to amendment, text read as follows:
 

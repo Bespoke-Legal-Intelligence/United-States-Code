@@ -4,7 +4,7 @@
 
 Requirements.—(1) The Secretary of Defense shall provide that—
 
-&emsp;(A) a covered system may not proceed beyond low-rate initial production until realistic survivability testing of the system is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and
+&emsp;(A) a covered system may not proceed beyond low-rate initial production until realisticsurvivability testing of the system is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection; and
 
 &emsp;(B) a major munition program or a missile program may not proceed beyond low-rate initial production until realistic lethality testing of the program is completed in accordance with this section and the report required by subsection (d) with respect to that testing is submitted in accordance with that subsection.
 
@@ -102,7 +102,7 @@ Subsec. (a)(1)(B). Pub. L. 101–189, §§802(c)(1)(B), 804(a), as amended by Pu
 
 Subsec. (a)(1)(C). Pub. L. 101–189, §802(c)(1)(C), struck out subpar. (C) which read as follows: “a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed in accordance with this section.”
 
-Subsec. (b)(2), (3). Pub. L. 101–189, §802(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, andsupport of the system being tested when the system is deployed in combat.”
+Subsec. (b)(2), (3). Pub. L. 101–189, §802(c)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a major defense acquisition program, no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.”
 
 Subsec. (d). Pub. L. 101–189, §804(b), inserted at end “Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary's overall assessment of the testing.”
 
@@ -129,6 +129,10 @@ Subsec. (e)(4). Pub. L. 100–180, §802(a)(4)(A), (e), inserted “(or a covere
 Subsec. (e)(5). Pub. L. 100–180, §802(a)(4)(B), inserted “(or a covered product improvement program for such a program)” after “missile program”.
 
 Subsec. (e)(8). Pub. L. 100–180, §802(a)(4)(C), added par. (8).
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1988 Amendment
 

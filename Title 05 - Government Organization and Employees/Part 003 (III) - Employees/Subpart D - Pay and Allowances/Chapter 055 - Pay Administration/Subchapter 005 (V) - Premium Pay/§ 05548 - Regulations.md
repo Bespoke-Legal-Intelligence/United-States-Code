@@ -72,7 +72,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Delegation of Functions
 
-Function vested in Office of Personnel Management under this section to be performed without approval ofPresident, see section 1(1) of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
+Function vested in Office of Personnel Management under this section to be performed without approval of President, see section 1(1) of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

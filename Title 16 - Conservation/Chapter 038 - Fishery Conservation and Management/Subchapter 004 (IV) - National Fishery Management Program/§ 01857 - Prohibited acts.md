@@ -12,7 +12,7 @@ It is unlawful—
 
 &emsp;&emsp;(D) to refuse to permit any officer authorized to enforce the provisions of this chapter (as provided for in section 1861 of this title) to board a fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter or any regulation, permit, or agreement referred to in subparagraph (A) or (C);
 
-&emsp;&emsp;(E) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search or inspection described in subparagraph (D);
+&emsp;&emsp;(E) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any suchauthorized officer in the conduct of any search or inspection described in subparagraph (D);
 
 &emsp;&emsp;(F) to resist a lawful arrest for any act prohibited by this section;
 
@@ -36,7 +36,7 @@ It is unlawful—
 
 &emsp;&emsp;&emsp;(ii) fish contained in such fishing gear;
 
-&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, orinterfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
+&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
 
 &emsp;&emsp;(M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
 
@@ -68,7 +68,7 @@ It is unlawful—
 
 > &emsp;unless such vessel is authorized to engage in fishing in the area in which the vessel is operating; and
 
-&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
+&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of theUnited States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
 (Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621.)
 
@@ -90,7 +90,7 @@ The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (
 
 #### Amendments
 
-1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commissionunder the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
+1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
 
 Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 
 #### Effective Date
 
-Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
+Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to takeeffect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
 
 #### Section Referred to in Other Sections
 

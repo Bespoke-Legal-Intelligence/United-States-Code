@@ -93,6 +93,11 @@
 | (b) | Credit fees; equivalent conventional motor fuel sales; labeling of pumps; product liability disclaimers; advertising support; furnishing facilities. |
 | (c) | “United States” defined. |
 | [27\.](%C2%A7%2000027%20-%20Effect%20of%20partial%20invalidity.md) | Effect of partial invalidity. |
+| [27a.](%C2%A7%2000027a%20-%20Application%20of%20antitrust%20laws%20to%20professional%20major%20league%20baseball.md) | Application of antitrust laws to professional major league baseball. |
+| (a) | Major league baseball subject to antitrust laws. |
+| (b) | Limitation of section. |
+| (c) | Standing to sue. |
+| (d) | Conduct, acts, practices, or agreements subject to antitrust laws. |
 | [28\.](%C2%A7%2000028%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93620%2C%20title%20IV%2C%20%C2%A7402%2811%29%2C%20Nov.%208%2C%201984%2C%2098%20Stat.%203358.md) | Repealed. |
 | [29\.](%C2%A7%2000029%20-%20Appeals.md) | Appeals. |
 | (a) | Court of appeals; review by Supreme Court. |
@@ -236,6 +241,7 @@ Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 
 - [&sect; 00026 - Injunctive relief for private parties; exception; costs](%C2%A7%2000026%20-%20Injunctive%20relief%20for%20private%20parties%3B%20exception%3B%20costs.md)
 - [&sect; 00026a - Restrictions on the purchase of gasohol and synthetic motor fuel](%C2%A7%2000026a%20-%20Restrictions%20on%20the%20purchase%20of%20gasohol%20and%20synthetic%20motor%20fuel.md)
 - [&sect; 00027 - Effect of partial invalidity](%C2%A7%2000027%20-%20Effect%20of%20partial%20invalidity.md)
+- [&sect; 00027a - Application of antitrust laws to professional major league baseball](%C2%A7%2000027a%20-%20Application%20of%20antitrust%20laws%20to%20professional%20major%20league%20baseball.md)
 - [&sect; 00028 - Repealed. Pub. L. 98&#8211;620, title IV, &sect;402(11), Nov. 8, 1984, 98 Stat. 3358](%C2%A7%2000028%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93620%2C%20title%20IV%2C%20%C2%A7402%2811%29%2C%20Nov.%208%2C%201984%2C%2098%20Stat.%203358.md)
 - [&sect; 00029 - Appeals](%C2%A7%2000029%20-%20Appeals.md)
 - [&sect; 00030 - Depositions for use in suits in equity; proceedings open to public](%C2%A7%2000030%20-%20Depositions%20for%20use%20in%20suits%20in%20equity%3B%20proceedings%20open%20to%20public.md)

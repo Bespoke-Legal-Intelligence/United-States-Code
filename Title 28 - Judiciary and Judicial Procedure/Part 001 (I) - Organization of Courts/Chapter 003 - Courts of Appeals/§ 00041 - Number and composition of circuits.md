@@ -46,11 +46,11 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
+1982—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
 
-<b>1980</b>—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
+1980—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
-<b>1951</b>—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
+1951—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
 
 #### Effective Date of 1982 Amendment
 
@@ -156,7 +156,7 @@ Report.—The Commission shall conduct the studies required in this section duri
 
 “(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Commission such sums, not to exceed $900,000, as may be necessary tocarry out the purposes of this section. Such sums as are appropriated shall remain available until expended.”
+Authorization of Appropriations.—There are authorized to be appropriated to the Commission such sums, not to exceed $900,000, as may be necessary to carry out the purposes of this section. Such sums as are appropriated shall remain available until expended.”
 
 #### Assignment of Judges and Procedure for Administration of Pending Cases With Regard to Reorganization of the Fifth Circuit Court of Appeals
 

@@ -18,7 +18,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(D) any ground flight simulators, and parts and components thereof, for use with respect to such aircraft,
 
-> &emsp;whether to be purchased for use as original or replacement equipment in the manufacture,repair, maintenance, rebuilding, modification, or conversion of such aircraft, and without regard to whether such aircraft or articles receive duty-free treatment pursuant to section 601(a)(2).
+> &emsp;whether to be purchased for use as original or replacement equipment in the manufacture, repair, maintenance, rebuilding, modification, or conversion of such aircraft, and without regard to whether such aircraft or articles receive duty-free treatment pursuant to section 601(a)(2).
 
 #### (3) Developed countries
 
@@ -48,7 +48,7 @@ As used in this subchapter—
 
 #### (D) Lowered threshold for certain products as a consequence of United States-Canada Free-Trade Agreement
 
-&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement by the United States under the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
+&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement bythe United States under the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
 
 #### (5) Instrumentality
 
@@ -86,7 +86,7 @@ Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement,referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Effective Date of 1993 Amendment
 

@@ -34,7 +34,7 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;&emsp;(E) includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D);
 
-&emsp;(8) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to whichthese techniques resulted in acquiring such information; and
+&emsp;(8) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
 
 &emsp;(9) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
 

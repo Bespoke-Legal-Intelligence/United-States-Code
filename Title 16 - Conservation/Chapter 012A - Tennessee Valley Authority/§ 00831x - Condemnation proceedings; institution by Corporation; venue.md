@@ -1,8 +1,8 @@
 ### §831x. Condemnation proceedings; institution by Corporation; venue
 
-The Corporation may cause proceedings to be instituted for the acquisition by condemnation of any lands, easements, or rights-of-way which, in the opinion of the Corporation, are necessary to carry out the provisions of this chapter. The proceedings shall be instituted in the United States district court for the district in which the land, easement, right-of-way, or other interest, or any part thereof, is located, and such court shall have full jurisdiction to divest the complete title to the property sought to be acquired out of all persons or claimants and vest the same in the United States in fee simple, and to enter a decree quieting the title thereto in the United States of America.
+The Corporation may cause proceedings to be instituted for the acquisition by condemnation of any lands, easements, or rights-of-way which, in the opinion of the Corporation, are necessary to carry out the provisions of this chapter. The proceedings shall be instituted in the United States district court for the district in whichthe land, easement, right-of-way, or other interest, or any part thereof, is located, and such court shall have full jurisdiction to divest the complete title to the property sought to be acquired out of all persons or claimants and vest the same in the United States in fee simple, and to enter a decree quieting the title thereto in the United States of America.
 
-(May 18, 1933, ch. 32, §25, 48 Stat. 70; July 12, 1952, ch. 700, 66 Stat. 591; Sept. 28, 1968, Pub. L. 90–536, §1, 82 Stat. 885.)
+(May 18, 1933, ch. 32, §25, 48 Stat. 70; July 12, 1952, ch. 700, 66 Stat. 591; Pub. L. 90–536, §1, Sept. 28, 1968, 82 Stat. 885.)
 
 #### Amendments
 

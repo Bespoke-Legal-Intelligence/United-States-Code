@@ -188,7 +188,7 @@ Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is 
 
 Public Law 91–378, referred to in subsec. (b)(10)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, as amended, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
 
-This chapter, referred to in subsecs. (b)(10)(A)(i), (B), (c)(7), and (e)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsecs. (b)(10)(A)(i), (B), (c)(7), and (e)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(10)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

@@ -4,7 +4,7 @@
 
 #### (1) Corporations, partnerships, and associations
 
-&emsp;If the Secretary finds that a person other than an individual has been convicted, after May 13, 1992, of a felony under Federal law for conduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such person from submitting, or assisting in the submission of, any such application.
+&emsp;If the Secretary finds that a person other than an individual has been convicted, after May 13, 1992, of a felony under Federal law for conduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such personfrom submitting, or assisting in the submission of, any such application.
 
 #### (2) Individuals
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) changes in ownership, management, or operations have fully corrected the causes of the offense involved and provide reasonable assurances that the offense will not occur in the future, and
 
-&emsp;&emsp;&emsp;&emsp;(II) sufficient audits, conducted by the Food and Drug Administration or by independent experts acceptable to the Food and Drug Administration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
+&emsp;&emsp;&emsp;&emsp;(II) sufficient audits, conducted by the Food and Drug Administration or byindependent experts acceptable to the Food and Drug Administration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
 
 &emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1) of this section, such termination shall take effect no earlier than the expiration of one year from the date of the debarment.
 
@@ -214,7 +214,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;(B) if the Secretary finds that such person—
 
-&emsp;&emsp;&emsp;(i) has bribed or attempted to bribe, has paid or attempted to pay an illegal gratuity, or has induced or attempted to induce another person to bribe or pay an illegal gratuity to any officer, employee, or agent of the Department of Health and Human Services or to any other Federal, State, or local official in connection with any abbreviated drug application, or has conspired to commit, or aided or abetted, such actions, or
+&emsp;&emsp;&emsp;(i) has bribed or attempted to bribe, has paid or attempted to pay an illegal gratuity, or has induced or attempted to induce another person to bribe or pay an illegalgratuity to any officer, employee, or agent of the Department of Health and Human Services or to any other Federal, State, or local official in connection with any abbreviated drug application, or has conspired to commit, or aided or abetted, such actions, or
 
 &emsp;&emsp;&emsp;(ii) has knowingly made or caused to be made a pattern or practice of false statements or misrepresentations with respect to material facts relating to any abbreviated drug application, or the production of any drug subject to an abbreviated drug application, to any officer, employee, or agent of the Department of Health and Human Services, or has conspired to commit, or aided or abetted, such actions, and
 
@@ -254,7 +254,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) of this section in connection with 2 or more drugs under abbreviated drug applications, or
 
-&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution ofone or more drugs approved under an abbreviated drug application during a 2-year period, and—
+&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such violations may undermine the safety and efficacy of such drugs, and
 

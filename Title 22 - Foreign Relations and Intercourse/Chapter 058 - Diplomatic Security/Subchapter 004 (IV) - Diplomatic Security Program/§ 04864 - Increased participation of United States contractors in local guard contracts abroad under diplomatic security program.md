@@ -22,7 +22,7 @@ With respect to local guard contracts for a Foreign Service building which excee
 
 &emsp;(2) absent compelling reasons, award such contracts through the competitive process;
 
-&emsp;(3) in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;
+&emsp;(3) in evaluating proposals for such contracts, award contracts to the technically acceptable firm offering the lowest evaluated price, except that proposals of United States persons and qualified United States joint venture persons (as defined in subsection (d) of this section) shall be evaluated by reducing the bid price by 10 percent;
 
 &emsp;(4) in countries where contract denomination and/or payment in local currencies constitutes a barrier to competition by United States firms—
 
@@ -30,11 +30,9 @@ With respect to local guard contracts for a Foreign Service building which excee
 
 &emsp;&emsp;(B) allow contracts awarded to United States firms to be paid in United States dollars;
 
-&emsp;(5) ensure that United States diplomatic and consular posts assist United States firms in obtaining local licenses and permits;
+&emsp;(5) ensure that United States diplomatic and consular posts assist United States firms in obtaining local licenses and permits; and
 
-&emsp;(6) establish procedures to ensure that appropriate measures are taken by diplomatic and consular post management to assure that United States persons and qualified United States joint venture persons are not disadvantaged during the solicitation and bid evaluation process; and
-
-&emsp;(7) give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.
+&emsp;(6) establish procedures to ensure that appropriate measures are taken by diplomatic and consular post management to assure that United States persons and qualified United States joint venture persons are not disadvantaged during the solicitation and bid evaluation process.
 
 #### (d) Definitions
 
@@ -60,7 +58,7 @@ For the purposes of this section—
 
 &emsp;(2) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture;
 
-&emsp;(3) the term “Foreign Service building” means any building or grounds of the UnitedStates which is in a foreign country and is under the jurisdiction and control of the Secretary of State, including residences of United States personnel assigned overseas under the authority of the Ambassador; and
+&emsp;(3) the term “Foreign Service building” means any building or grounds of the United States which is in a foreign country and is under the jurisdiction and control of the Secretary of State, including residences of United States personnel assigned overseas under the authority of the Ambassador; and
 
 &emsp;(4) the term “barrier to local competition” means—
 
@@ -86,13 +84,21 @@ Not less than 10 percent of the amount of funds obligated for local guard contra
 
 With respect to local guard contracts subject to subsection (c) of this section, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
-(Pub. L. 101–246, title I, §136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, §141, Apr. 30, 1994, 108 Stat. 401.)
+(Pub. L. 101–246, title I, §136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, §141, Apr. 30, 1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2210, Oct. 21, 1998, 112 Stat. 2681–811.)
 
 #### Codification
 
 Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and not as part of the Diplomatic Security Act which comprise this chapter.
 
 #### Amendments
+
+1998—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
+
+Subsec. (c)(5). Pub. L. 105–277, §2210(2), inserted “and” at end.
+
+Subsec. (c)(6). Pub. L. 105–277, §2210(3), substituted period for “; and” at end.
+
+Subsec. (c)(7). Pub. L. 105–277, §2210(4), struck out par. (7) which read as follows: “give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.”
 
 1994—Subsec. (c). Pub. L. 103–236, §141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
 

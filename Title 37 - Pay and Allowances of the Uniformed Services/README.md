@@ -1,5 +1,5 @@
 
-37 U.S.C.<br>United States Code, 1997 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
+37 U.S.C.<br>United States Code, 1998 Edition<br>Title 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 

@@ -42,7 +42,7 @@ Subsec. (e)(2). Pub. L. 105–85, §652(b), inserted before period at end of fir
 
 1991—Subsec. (e)(2). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
-1984—Subsec. (a). Pub. L. 98–498 designated existing provisions as subsec. (a) and substituted “An officer” for “Any officer in the grade of lieutenant or lieutenant (junior grade)” and further substituted provisions setting forth the method of computation for former provisions which also set forth the basis for computation.
+1984—Subsec. (a). Pub. L. 98–498 designated existing provisions as subsec. (a) and substituted “An officer”for “Any officer in the grade of lieutenant or lieutenant (junior grade)” and further substituted provisions setting forth the method of computation for former provisions which also set forth the basis for computation.
 
 Subsecs. (b) to (e). Pub. L. 98–498 added subsecs. (b) to (e).
 

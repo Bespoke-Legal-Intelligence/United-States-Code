@@ -20,7 +20,7 @@ Act Aug. 9, 1955, ch. 635, 69 Stat. 555, provided: “That in order to facilitat
 
 #### Availability of Unexpended Appropriated Funds
 
-The third sentence of section 9 of act Sept. 14, 1950, provided that: “The remaining unexpended balance ofany funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\]”.
+The third sentence of section 9 of act Sept. 14, 1950, provided that: “The remaining unexpended balance of any funds appropriated for the present Grand Teton National Park and the Jackson Hole National Monument shall be available for expenditure in connection with the administration of the Grand Teton National Park established by this Act \[this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title\]”.
 
 #### Revocation of Temporary Withdrawals of Public Lands
 

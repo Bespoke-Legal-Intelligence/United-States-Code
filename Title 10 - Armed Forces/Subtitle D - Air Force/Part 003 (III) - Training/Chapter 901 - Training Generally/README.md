@@ -12,10 +12,14 @@
 | [9315\.](%C2%A7%2009315%20-%20Community%20College%20of%20the%20Air%20Force%20associate%20degrees.md) | Community College of the Air Force: associate degrees. |
 | [9316\.](%C2%A7%2009316%20-%20Training%20and%20support%20for%20A%E2%80%9310%20aircraft.md) | Training and support for A–10 aircraft. |
 | [9317\.](%C2%A7%2009317%20-%20Air%20University%20master%20of%20airpower%20art%20and%20science.md) | Air University: master of airpower art and science. |
+| [9319\.](%C2%A7%2009319%20-%201%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md) | Recruit basic training: separate housing for male and female recruits. |
+| [9320\.](%C2%A7%2009320%20-%20Recruit%20basic%20training%20privacy.md) | Recruit basic training: privacy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title V, §§521(c)(2), 522(c)(2), Oct. 17, 1998, 112 Stat. 2012, 2013, added items 9319 and 9320.
 
 1994—Pub. L. 103–337, div. A, title IX, §913(a)(2), Oct. 5, 1994, 108 Stat. 2828, added item 9317.
 
@@ -42,3 +46,5 @@
 - [&sect; 09315 - Community College of the Air Force associate degrees](%C2%A7%2009315%20-%20Community%20College%20of%20the%20Air%20Force%20associate%20degrees.md)
 - [&sect; 09316 - Training and support for A&#8211;10 aircraft](%C2%A7%2009316%20-%20Training%20and%20support%20for%20A%E2%80%9310%20aircraft.md)
 - [&sect; 09317 - Air University master of airpower art and science](%C2%A7%2009317%20-%20Air%20University%20master%20of%20airpower%20art%20and%20science.md)
+- [&sect; 09319 - 1 Recruit basic training separate housing for male and female recruits](%C2%A7%2009319%20-%201%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md)
+- [&sect; 09320 - Recruit basic training privacy](%C2%A7%2009320%20-%20Recruit%20basic%20training%20privacy.md)

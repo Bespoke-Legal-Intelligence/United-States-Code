@@ -10,9 +10,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### Similar Provisions
 
-Pub. L. 105–118, title V, §514, Nov. 26, 1997, 111 Stat. 2409, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to this Act \[see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 105–277, div. A, §101(d) \[title V, §514(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–173, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to this Act \[see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 105–118, title V, §514, Nov. 26, 1997, 111 Stat. 2409.
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §514\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–143.
 

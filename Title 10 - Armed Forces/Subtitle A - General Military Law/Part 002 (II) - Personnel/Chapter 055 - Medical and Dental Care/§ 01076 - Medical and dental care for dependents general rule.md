@@ -22,23 +22,21 @@
 
 &emsp;(2) who died before attaining age 60 and at the time of his death would have been eligible for retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before December 1, 1994) but for the fact that he was under 60 years of age;
 
-> may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
+> may, upon request, be given the medical and dental care prescribed by section 1077 of thistitle in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff, except that a dependent of a member or former member described in paragraph (2) may not be given such medical or dental care until the date on which such member or former member would have attained age 60.
 
 (c) A determination by the medical or dental officer in charge, or the contract surgeon in charge, or his designee, as to the availability of space and facilities and to the capabilities of the medical and dental staff is conclusive. Care under this section may not be permitted to interfere with the primary mission of those facilities.
 
 (d) To utilize more effectively the medical and dental facilities of the uniformed services, the administering Secretaries shall prescribe joint regulations to assure that dependents entitled to medical or dental care under this section will not be denied equal opportunity for that care because the facility concerned is that of a uniformed service other than that of the member.
 
-(e)(1) Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.
+(e)(1) Subject to paragraph (3), the administering Secretary shall furnish an abused dependent of a former member of a uniformed service described in paragraph (4), during that period that the abused dependent is in receipt of transitional compensation under section 1059 of this title, with medical and dental care, including mental health services, in facilities of the uniformed services in accordance with the same eligibility and benefits as were applicable for that abused dependent during the period of active service of the former member.
 
-(2) Subject to paragraph (3), upon request of any dependent of a former member of a uniformed service punished for an abuse describedin paragraph (4), the administering Secretary for such uniformed service may furnish medical care in facilities of the uniformed services to the dependent for the treatment of any adverse health condition resulting from such dependent's knowledge of (A) the abuse, or (B) any injury or illness suffered by the abused person as a result of such abuse.
+(2) Subject to paragraph (3), upon request of any dependent of a former member of a uniformed service punished for an abuse described in paragraph (4), the administering Secretary for such uniformed service may furnish medical care in facilities of the uniformed services to the dependent for the treatment of any adverse health condition resulting from such dependent's knowledge of (A) the abuse, or (B) any injury or illness suffered by the abused person as a result of such abuse.
 
 (3) Medical and dental care furnished to a dependent of a former member of the uniformed services in facilities of the uniformed services under paragraph (1) or (2)—
 
-&emsp;(A) shall be limited to the health care prescribed by section 1077 of this title;
+&emsp;(A) shall be limited to the health care prescribed by section 1077 of this title; and
 
-&emsp;(B) shall be subject to the availability of space and facilities and the capabilities of the medical and dental staff; and
-
-&emsp;(C) shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).
+&emsp;(B) shall be subject to the availability of space and facilities and the capabilities of the medical and dental staff.
 
 (4)(A) A former member of a uniformed service referred to in paragraph (1) is a member who—
 
@@ -48,7 +46,7 @@
 
 (B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905; Pub. L. 105–261, div. A, title VII, §732, Oct. 17, 1998, 112 Stat. 2071.)
 
 Historical and Revision Notes
 
@@ -108,6 +106,10 @@ A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use 
 
 #### Amendments
 
+1998—Subsec. (e)(1). Pub. L. 105–261, §732(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.”
+
+Subsec. (e)(3). Pub. L. 105–261, §732(2), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall terminate one year after the date on which the former member was discharged or dismissed from a uniformed service as described in paragraph (4).”
+
 1997—Subsec. (a)(2). Pub. L. 105–85, §513(b), added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
 
 &emsp;“(A) who is on active duty for a period of more than 30 days or who died while on that duty; or
@@ -166,7 +168,7 @@ Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 
 1980—Subsecs. (b), (d). Pub. L. 96–513 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-1978—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject to the availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
+1978—Subsec. (b). Pub. L. 95–397 substituted “Under regulations to be prescribed jointly by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member-” for “Under joint regulations to be prescribed by the Secretary of Defense and the Secretary of Health, Education, and Welfare, a dependent of a member or former member who is, or was at the time of his death, entitled to retired or retainer pay, or equivalent pay, may, upon request, be given the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff”, added pars. (1), (2), and provisions following par. (2) relating to medical and dental care on request in facilities of the uniformed services subject tothe availability of space, facilities and capabilities of staff, and excepting from such care provision a dependent of a member or former member until such member or former member would have attained age 60.
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
 
@@ -192,7 +194,7 @@ Section 651(d) of Pub. L. 100–456 provided that: “Section 1076(f) of title 1
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 604 of Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, seesection 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by section 604 of Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 Section 652(e)(3) of Pub. L. 99–661 provided that: “The amendment made by subsection (c) \[amending this section\] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
@@ -256,5 +258,5 @@ Section 651(c) of Pub. L. 100–456 provided that: “Any person who qualified a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1074b, 1077, 1078, 1079, 1080, 1086, 1086a, 1087, 1095a, 1097, 1145 of this title.
+This section is referred to in sections 1074b, 1077, 1078, 1079, 1080, 1086, 1086a, 1087, 1095a, 1097, 1097a, 1108, 1145 of this title; title 42 section 1395ggg.
 

@@ -1,8 +1,8 @@
 ### §222. Giving suggestions or information with intent to cause inaccurate enumeration of population
 
-Whoever, either directly or indirectly, offers or renders to any officer or employee of the Department of Commerce or bureau or agency thereof engaged in making an enumeration of population under subchapter II, IV, or V of chapter 5 of this title, any suggestion, advice, information or assistance of any kind, with the intent or purpose of causing an inaccurate enumeration of population to be made, shall befined not more than $1,000 or imprisoned not more than one year, or both.
+Whoever, either directly or indirectly, offers or renders to any officer or employee of the Department of Commerce or bureau or agency thereof engaged in making an enumeration of population under subchapter II, IV, or V of chapter 5 of this title, any suggestion, advice, information or assistance of any kind, with the intent or purpose of causing an inaccurate enumeration of population to be made, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1023; Aug. 28, 1957, Pub. L. 85–207, §16, 71 Stat. 484.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1023; Pub. L. 85–207, §16, Aug. 28, 1957, 71 Stat. 484.)
 
 #### Historical and Revision Notes
 

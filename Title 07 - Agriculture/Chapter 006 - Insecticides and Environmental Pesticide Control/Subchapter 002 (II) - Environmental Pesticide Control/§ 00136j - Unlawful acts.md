@@ -56,7 +56,7 @@
 
 &emsp;(P) to use any pesticide in tests on human beings unless such human beings (i) are fully informed of the nature and purposes of the test and of any physical and mental health consequences which are reasonably foreseeable therefrom, and (ii) freely volunteer to participate in the test;
 
-&emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator,or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
+&emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator, or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
 
 &emsp;(R) to submit to the Administrator data known to be false in support of a registration; or
 
@@ -76,7 +76,7 @@ The penalties provided for a violation of paragraph (1) of subsection (a) of thi
 
 &emsp;(5) any person who ships a substance or mixture of substances being put through tests in which the purpose is only to determine its value for pesticide purposes or to determine its toxicity or other properties and from which the user does not expect to receive any benefit in pest control from its use.
 
-(June 25, 1947, ch. 125, §12, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 989; amended Sept. 30, 1978, Pub. L. 95–396, §16, 92 Stat. 832; Oct. 25, 1988, Pub. L. 100–532, title VI, §§601(b)(2), 603, title VIII, §801(g), (q)(2)(B), 102 Stat. 2677, 2678, 2682, 2683; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(7), (b)(3)(L)–(O), 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, §12, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 989; amended Pub. L. 95–396, §16, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §§601(b)(2), 603, title VIII, §801(g), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2677, 2678, 2682, 2683; Pub. L. 102–237, title X, §1006(a)(7), (b)(3)(L)–(O), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 #### Prior Provisions
 

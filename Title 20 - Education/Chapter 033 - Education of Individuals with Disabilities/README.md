@@ -223,10 +223,10 @@
 
 |  |  |
 | :--- | ---: |
-| 1471\. | Findings and purpose. |
+| [1471\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20001%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001471%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | (a) | Findings. |
 | (b) | Purpose. |
-| 1472\. | Research and innovation to improve services and results for children with disabilities. |
+| [1472\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20001%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001472%20-%20Research%20and%20innovation%20to%20improve%20services%20and%20results%20for%20children%20with%20disabilities.md) | Research and innovation to improve services and results for children with disabilities. |
 | (a) | In general. |
 | (b) | New knowledge production; authorized activities. |
 | (c) | Integration of research and practice; authorized activities. |
@@ -234,7 +234,7 @@
 | (e) | Balance among activities and age ranges. |
 | (f) | Applications. |
 | (g) | Authorization of appropriations. |
-| 1473\. | Personnel preparation to improve services and results for children with disabilities. |
+| [1473\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20001%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001473%20-%20Personnel%20preparation%20to%20improve%20services%20and%20results%20for%20children%20with%20disabilities.md) | Personnel preparation to improve services and results for children with disabilities. |
 | (a) | In general. |
 | (b) | Low-incidence disabilities; authorized activities. |
 | (c) | Leadership preparation; authorized activities. |
@@ -245,7 +245,7 @@
 | (h) | Service obligation. |
 | (i) | Scholarships. |
 | (j) | Authorization of appropriations. |
-| 1474\. | Studies and evaluations. |
+| [1474\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20001%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001474%20-%20Studies%20and%20evaluations.md) | Studies and evaluations. |
 | (a) | Studies and evaluations. |
 | (b) | National assessment. |
 | (c) | Annual report. |
@@ -258,10 +258,10 @@
 
 |  |  |
 | :--- | ---: |
-| 1481\. | Findings and purposes. |
+| [1481\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20002%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001481%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 | (a) | In general. |
 | (b) | Purposes. |
-| 1482\. | Parent training and information centers. |
+| [1482\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20002%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001482%20-%20Parent%20training%20and%20information%20centers.md) | Parent training and information centers. |
 | (a) | Program authorized. |
 | (b) | Required activities. |
 | (c) | Optional activities. |
@@ -269,14 +269,14 @@
 | (e) | Distribution of funds. |
 | (f) | Quarterly review. |
 | (g) | “Parent organization” defined. |
-| 1483\. | Community parent resource centers. |
+| [1483\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20002%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001483%20-%20Community%20parent%20resource%20centers.md) | Community parent resource centers. |
 | (a) | In general. |
 | (b) | Required activities. |
 | (c) | “Local parent organization” defined. |
-| 1484\. | Technical assistance for parent training and information centers. |
+| [1484\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20002%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001484%20-%20Technical%20assistance%20for%20parent%20training%20and%20information%20centers.md) | Technical assistance for parent training and information centers. |
 | (a) | In general. |
 | (b) | Authorized activities. |
-| 1485\. | Coordinated technical assistance and dissemination. |
+| [1485\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20002%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001485%20-%20Coordinated%20technical%20assistance%20and%20dissemination.md) | Coordinated technical assistance and dissemination. |
 | (a) | In general. |
 | (b) | Systemic technical assistance; authorized activities. |
 | (c) | Specialized technical assistance; authorized activities. |
@@ -292,138 +292,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VIII—INFANTS AND TODDLERS WITH DISABILITIES
-
-|  |  |
-| :--- | ---: |
-| 1471\. | Congressional findings and policy. |
-| (a) | Findings. |
-| (b) | Policy. |
-| 1472\. | Definitions. |
-| 1473\. | General authority. |
-| 1474\. | General eligibility. |
-| [1475\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001475%20-%20Continuing%20eligibility.md) | Continuing eligibility. |
-| (a) | First two years. |
-| (b) | Third and fourth year. |
-| (c) | Fifth and succeeding years. |
-| (d) | Exception. |
-| (e) | Differential funding for fourth or fifth year. |
-| [1476\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001476%20-%20Requirements%20for%20statewide%20system.md) | Requirements for statewide system. |
-| (a) | In general. |
-| (b) | Minimum components. |
-| [1477\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001477%20-%20Individualized%20family%20service%20plan.md) | Individualized family service plan. |
-| (a) | Assessment and program development. |
-| (b) | Periodic review. |
-| (c) | Promptness after assessment. |
-| (d) | Content of plan. |
-| (e) | Parental consent. |
-| [1478\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001478%20-%20State%20application%20and%20assurances.md) | State application and assurances. |
-| (a) | Application. |
-| (b) | Statement of assurances. |
-| (c) | Approval of application and assurances required. |
-| [1479\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001479%20-%20Uses%20of%20funds.md) | Uses of funds. |
-| [1480\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001480%20-%20Procedural%20safeguards.md) | Procedural safeguards. |
-| 1481\. | Payor of last resort. |
-| (a) | Nonsubstitution. |
-| (b) | Reduction of other benefits. |
-| 1482\. | State Interagency Coordinating Council. |
-| (a) | Establishment. |
-| (b) | Composition. |
-| (c) | Meetings. |
-| (d) | Management authority. |
-| (e) | Functions of Council. |
-| (f) | Conflict of interest. |
-| (g) | Use of existing Councils. |
-| 1483\. | Federal administration. |
-| 1484\. | Allocation of funds. |
-| (a) | Territories and insular possessions. |
-| (b) | Payments to Secretary of the Interior for assistance to Indians. |
-| (c) | States. |
-| (d) | Election by State not to receive allotment. |
-| [1484a.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001484a%20-%20Federal%20Interagency%20Coordinating%20Council.md) | Federal Interagency Coordinating Council. |
-| (a) | Establishment and purpose. |
-| (b) | Composition. |
-| (c) | Meetings. |
-| (d) | Functions of Council. |
-| (e) | Conflict of interest. |
-| 1485\. | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER IX—FAMILY SUPPORT
-
-|  |  |
-| :--- | ---: |
-| [1491\.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491%20-%20Short%20title.md) | Short title. |
-| [1491a.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491a%20-%20Findings%2C%20purposes%2C%20and%20policy.md) | Findings, purposes, and policy. |
-| (a) | Findings. |
-| (b) | Purposes. |
-| (c) | Policy. |
-| (d) | Rule of construction. |
-| [1491b.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491b%20-%20Definitions.md) | Definitions. |
-| [1491c.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491c%20-%20Grants%20to%20States.md) | Grants to States. |
-| (a) | In general. |
-| (b) | Award period and grant limitation. |
-| (c) | Amount of grants. |
-| (d) | Priority for previously participating States. |
-| (e) | Priorities for distribution. |
-| [1491d.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491d%20-%20Application.md) | Application. |
-| [1491e.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491e%20-%20Designation%20of%20lead%20entity.md) | Designation of lead entity. |
-| (a) | Designation. |
-| (b) | Qualifications. |
-| (c) | Capabilities of lead entity. |
-| [1491f.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491f%20-%20State%20Policy%20Council%20for%20family%20support%20for%20families%20of%20children%20with%20disabilities.md) | State Policy Council for family support for families of children with disabilities. |
-| (a) | Designation or establishment. |
-| (b) | Use of existing Council. |
-| (c) | Appointments to new Council. |
-| (d) | Composition. |
-| (e) | Functions. |
-| (f) | Hearings and forums. |
-| (g) | Conflict of interest. |
-| (h) | Compensation and expenses. |
-| [1491g.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491g%20-%20Authorized%20activities.md) | Authorized activities. |
-| (a) | In general. |
-| (b) | Special rule. |
-| [1491h.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491h%20-%20Strategic%20plan.md) | Strategic plan. |
-| (a) | In general. |
-| (b) | Contents. |
-| (c) | Period and updates. |
-| (d) | Recommendations. |
-| (e) | Comment. |
-| (f) | Dissemination. |
-| (g) | Construction. |
-| [1491i.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491i%20-%20Progress%20criteria%20and%20reports.md) | Progress criteria and reports. |
-| (a) | Guidelines. |
-| (b) | Progress reports. |
-| [1491j.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491j%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| (a) | Evaluation of grant applications. |
-| (b) | Provision of information. |
-| (c) | Appeals. |
-| (d) | Effect on other assistance. |
-| (e) | Unobligated funds. |
-| [1491k.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491k%20-%20Technical%20assistance.md) | Technical assistance. |
-| (a) | In general. |
-| (b) | Purpose. |
-| (c) | Request for technical assistance. |
-| (d) | Reports to Secretary. |
-| 1491<i>l.</i> | Evaluation. |
-| (a) | In general. |
-| (b) | Purpose. |
-| (c) | Report to Congress. |
-| (d) | Conflict of interest. |
-| [1491m.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491m%20-%20Projects%20of%20national%20significance.md) | Projects of national significance. |
-| (a) | Study by Secretary. |
-| (b) | Demonstration and innovation projects. |
-| [1491n.](Subchapter%20009%20%28IX%29%20-%20Family%20Support/%C2%A7%2001491n%20-%20Construction.md) | Construction. |
-| 1491<i>o.</i> | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Reservation. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 4356, 6062, 6143, 6314, 6365, 6493, 6645, 6648, 6649, 7426, 7703, 8921 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff–2, 290ff–4, 300x–1, 1760, 1769h, 6024, 9855d.
+This chapter is referred to in sections 3441, 4356, 6062, 6143, 6314, 6365, 6645, 6648, 6649, 6661b, 6661g, 7426, 7703, 8065b, 8921, 9252 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff–2, 290ff–4, 300x–1, 1760, 1769h, 6024, 9855d.
+
+#### Codification
+
+The Individuals with Disabilities Education Act, comprising this chapter, was originally enacted as title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, known as the Education of the Handicapped Act, and amended by Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–142, Nov. 29, 1975, 89 Stat. 773; Pub. L. 95–49, June 17, 1977, 91 Stat. 230; Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143; Pub. L. 96–270, June 14, 1980, 94 Stat. 487; Pub. L. 98–199, Dec. 2, 1983, 97 Stat. 1357; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887; Pub. L. 99–362, July 9, 1986, 100 Stat. 769; Pub. L. 99–372, Aug. 5, 1986, 100 Stat. 796; Pub. L. 99–457, Oct. 8, 1986, 100 Stat. 1145; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–421, Oct. 16, 1992, 106 Stat. 2151; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518. Title VI is shown herein, however, as having been added by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37, without reference to those intervening amendments because of the extensive revision of title VI by Pub. L. 105–17.
 
 
 ---
@@ -434,5 +309,3 @@ This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 43
 - [Subchapter 002 (II) - Assistance for Education of All Children with Disabilities](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/README.md)
 - [Subchapter 003 (III) - Infants and Toddlers with Disabilities](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/README.md)
 - [Subchapter 004 (IV) - National Activities to Improve Education of Children with Disabilities](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/README.md)
-- [Subchapter 008 (VIII) - Infants and Toddlers with Disabilities](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/README.md)
-- [Subchapter 009 (IX) - Family Support](Subchapter%20009%20%28IX%29%20-%20Family%20Support/README.md)

@@ -4,7 +4,7 @@
 
 (b) On default of any term of the preferred mortgage, the mortgagee may—
 
-&emsp;(1) enforce the preferred mortgage lien in a civil action in rem for a documented vessel, a vessel to be documented under chapter 121 of this title, or a foreign vessel;
+&emsp;(1) enforce the preferred mortgage lien in a civil action in rem for a documented vessel, a vessel to be documented under chapter 121 of this title, a vessel titled in a State, or a foreign vessel;
 
 &emsp;(2) enforce a claim for the outstanding indebtedness secured by the mortgaged vessel in—
 
@@ -12,13 +12,13 @@
 
 &emsp;&emsp;(B) a civil action against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
 
-&emsp;(3) enforce the preferred mortgage lien or a claim for the outstanding indebtedness secured by the mortgaged vessel, or both, by exercising any other remedy (including an extrajudicial remedy) against a documented vessel, a vessel for which an application for documentation is filed under chapter 121 of this title, a foreign vessel, or a mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness, if—
+&emsp;(3) enforce the preferred mortgage lien or a claim for the outstanding indebtedness secured by the mortgaged vessel, or both, by exercising any other remedy (including an extrajudicial remedy) against a documented vessel, a vessel for which an application for documentation is filed under chapter 121 of this title, a vessel titled in a State, a foreign vessel, or a mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness, if—
 
 &emsp;&emsp;(A) the remedy is allowed under applicable law; and
 
 &emsp;&emsp;(B) the exercise of the remedy will not result in a violation of section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835).
 
-(c) The district courts have original jurisdiction of a civil action brought under subsection (b)(1) or (2) of this section. However, for a documented vessel, a vessel to be documented under chapter 121 of this title, or a foreign vessel, this jurisdiction is exclusive of the courts of the States for a civil action brought under subsection (b)(1) of this section.
+(c) The district courts have original jurisdiction of a civil action brought under subsection (b)(1) or (2) of this section. However, for a documented vessel, a vessel to be documented under chapter 121 of this title, a vessel titled in a State, or a foreign vessel, this jurisdiction is exclusive of the courts of the States for a civil action brought under subsection (b)(1) of this section.
 
 (d)(1) Actual notice of a civil action brought under subsection (b)(1) of this section, or to enforce a maritime lien, must be given in the manner directed by the court to—
 
@@ -44,7 +44,7 @@
 
 (3) The Secretary shall prescribe regulations establishing the time and manner for providing notice under this subsection.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1124(a), (b), Oct. 19, 1996, 110 Stat. 3980.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1124(a), (b), Oct. 19, 1996, 110 Stat. 3980; Pub. L. 105–383, title IV, §401(c)(5)–(7), Nov. 13, 1998, 112 Stat. 3425.)
 
 Historical and Revision Notes
 
@@ -88,7 +88,7 @@ Section 31325(b) provides that, on default of any term, the mortgagee may enforc
 
 Section 31325(c) provides for original and exclusive jurisdiction by a district court, to the exclusion of the courts of a State for civil actions brought <i>in rem</i>. It also provides for original jurisdiction for civil actions brought <i>in personam</i> in admiralty and civil actions brought under subsection (b)(3). This subsection makes a substantive change to law by broadening the jurisdiction to courts in the territories, as defined in section 31301, as well as giving original jurisdiction to the district courts in nonadmiralty civil actions brought to enforce the preferred mortgage lien.
 
-Subsection (d) provides that actual notice of a civil action <i>in rem</i> to enforce a maritime lien must be given in a manner directed by the court to the master, individual in charge of the vessel, to any person that recorded a notice of a claim of an undischarged lien, and, for the first time, to the mortgagee of a mortgage filed with the Secretary. This notice is not required if, after a search is made that is satisfactory to the court, the person entitled to notice is not found in the United States. Failure to give notice does not affect thecourt's jurisdiction. However, the mortgagor is still liable to the person not notified for damages in the amount of that person's interest in the vessel that was terminated by the civil action <i>in rem</i>, and a civil action may still be brought to recover the amount of the terminated interest. The district courts have original jurisdiction of the action, regardless of the amount in controversy or the citizenship of the parties. If plaintiff prevails, the court shall award costs and attorneys fees to the plaintiff.
+Subsection (d) provides that actual notice of a civil action <i>in rem</i> to enforce a maritime lien must be given in a manner directed by the court to the master, individual in charge of the vessel, to any person that recorded a notice of a claim of an undischarged lien, and, for the first time, to the mortgagee of a mortgage filed with the Secretary. This notice is not required if, after a search is made that is satisfactory to the court, the person entitled to notice is not found in the United States. Failure to give notice does not affect the court's jurisdiction. However, the mortgagor is still liable to the person not notified for damages in the amount of that person's interest in the vessel that was terminated by the civil action <i>in rem</i>, and a civil action may still be brought to recover the amount of the terminated interest. The district courts have original jurisdiction of the action, regardless of the amount in controversy or the citizenship of the parties. If plaintiff prevails, the court shall award costs and attorneys fees to the plaintiff.
 
 Subsection (e) provides that, in a civil action <i>in rem</i>, the court may appoint a receiver and authorize operation of the vessel. When directed by the court, a United States marshal may take possession—even if the vessel is in the possession of or under the control of a person claiming a possessory common law lien. This subsection makes a substantive change to law by allowing the court to retain <i>in rem</i> jurisdiction over the vessel even if the receiver operates the vessel outside the district in which the court is located.
 
@@ -97,6 +97,8 @@ Subsection (e) provides that, in a civil action <i>in rem</i>, the court may app
 Subsection (c) of this section clarifies that the district courts have original jurisdiction for a civil action under subsection (b) of this section, and exclusive jurisdiction in the case of vessels documented or to be documented under chapter 121 of title 46.
 
 #### Amendments
+
+1998—Subsecs. (b)(1), (3), (c). Pub. L. 105–383 inserted “a vessel titled in a State,” after “chapter 121 of this title,”.
 
 1996—Subsec. (b). Pub. L. 104–324, §1124(a)(1), substituted “mortgagee may” for “mortgage may” in introductory provisions.
 

@@ -34,15 +34,15 @@ Section 1 of Title 5, referred to in text, is section 1 of former Title 5, Execu
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164 struck out references to the Court of Claims and to the Court of Customs and Patent Appeals in the definitions of “court of the United States” and “judge of the United States”.
+1982—Pub. L. 97–164 struck out references to the Court of Claims and to the Court of Customs and Patent Appeals in the definitions of “court of the United States” and “judge of the United States”.
 
-<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts and bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts and bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1966</b>—Pub. L. 89–571 removed the United States District Court for the District of Puerto Rico from the definition of “court of the United States”.
+1966—Pub. L. 89–571 removed the United States District Court for the District of Puerto Rico from the definition of “court of the United States”.
 
-<b>1959</b>—Pub. L. 86–3 substituted “including the United States District for the District of Puerto Rico” for “including the district courts of the United States for the districts of Hawaii and Puerto Rico” in provisions defining “court of the United States”.
+1959—Pub. L. 86–3 substituted “including the United States District for the District of Puerto Rico” for “including the district courts of the United States for the districts of Hawaii and Puerto Rico” in provisions defining “court of the United States”.
 
 #### Effective Date of 1982 Amendment
 
@@ -64,7 +64,7 @@ Section 32 of act June 25, 1948, as amended by act May 24, 1949, ch. 139, §127,
 
 “(b) All laws of the United States in force on September 1, 1948, in which reference is made to the Supreme Court of the District of Columbia or to the District Court of the United States for the District of Columbia are amended by substituting ‘United States District Court for the District of Columbia’ for such designations.
 
-“(c) All laws of the United States in force on September 1, 1948, in which reference is made to the ‘Conference of Senior Circuit Judges,’ or to the ‘Judicial Conference of Senior Circuit Judges’ are amended bysubstituting ‘Judicial Conference of the United States’ for such designations.
+“(c) All laws of the United States in force on September 1, 1948, in which reference is made to the ‘Conference of Senior Circuit Judges,’ or to the ‘Judicial Conference of Senior Circuit Judges’ are amended by substituting ‘Judicial Conference of the United States’ for such designations.
 
 “(d) This section shall not be construed to amend historical references to courts or judicial offices which have no present or future application to such courts or offices.”
 

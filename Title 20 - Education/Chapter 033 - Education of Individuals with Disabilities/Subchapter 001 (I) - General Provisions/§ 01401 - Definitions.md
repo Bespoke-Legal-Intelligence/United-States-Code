@@ -114,9 +114,9 @@ Except as otherwise provided, as used in this chapter:
 
 &emsp;The term “institution of higher education”—
 
-&emsp;&emsp;(A) has the meaning given that term in section 1141(a) of this title; and
+&emsp;&emsp;(A) has the meaning given that term in section 1141(a) <sup>1</sup> of this title; and
 
-&emsp;&emsp;(B) also includes any community college receiving funding from the Secretary of the Interior under the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
+&emsp;&emsp;(B) also includes any community college receiving funding from the Secretary of theInterior under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
 
 #### (15) Local educational agency
 
@@ -160,7 +160,7 @@ Except as otherwise provided, as used in this chapter:
 
 #### (22) Related services
 
-&emsp;The term “related services” means transportation, and such developmental, corrective, and other supportive services (including speech-language pathology and audiology services, psychological services, physical and occupational therapy, recreation, including therapeutic recreation, social work services, counseling services, including rehabilitation counseling, orientation and mobility services, and medical services, except that such medical services shall be for diagnostic and evaluation purposes only) as may be required to assist achild with a disability to benefit from special education, and includes the early identification and assessment of disabling conditions in children.
+&emsp;The term “related services” means transportation, and such developmental, corrective, and other supportive services (including speech-language pathology and audiology services, psychological services, physical and occupational therapy, recreation, including therapeutic recreation, social work services, counseling services, including rehabilitation counseling, orientation and mobility services, and medical services, except that such medical services shall be for diagnostic and evaluation purposes only) as may be required to assist a child with a disability to benefit from special education, and includes the early identification and assessment of disabling conditions in children.
 
 #### (23) Secondary school
 
@@ -202,7 +202,7 @@ Except as otherwise provided, as used in this chapter:
 
 #### (29) Supplementary aids and services
 
-&emsp;The term “supplementary aids and services” means,<sup>1</sup> aids, services, and other supports that are provided in regular education classes or other education-related settings to enable children with disabilities to be educated with nondisabled children to the maximum extent appropriate in accordance with section 1412(a)(5) of this title.
+&emsp;The term “supplementary aids and services” means,<sup>2</sup> aids, services, and other supports that are provided in regular education classes or other education-related settings to enable children with disabilities to be educated with nondisabled children to the maximum extent appropriate in accordance with section 1412(a)(5) of this title.
 
 #### (30) Transition services
 
@@ -214,7 +214,7 @@ Except as otherwise provided, as used in this chapter:
 
 &emsp;&emsp;(C) includes instruction, related services, community experiences, the development of employment and other post-school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
 
-(Pub. L. 91–230, title VI, §602, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 42.)
+(Pub. L. 91–230, title VI, §602, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 42; amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### References in Text
 
@@ -222,15 +222,27 @@ The Elementary and Secondary Education Act of 1965, referred to in par. (7)(A)(i
 
 The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in par. (14)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+Section 1141(a) of this title, referred to in par. (14)(A), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of this title.
+
+The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (14)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 #### Prior Provisions
 
 A prior section 1401, Pub. L. 91–230, title VI, §602, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §4(a), Nov. 29, 1975, 89 Stat. 775; Pub. L. 98–199, §§2, 3(b), Dec. 2, 1983, 97 Stat. 1357, 1358; Pub. L. 99–457, title IV, §402, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, §101(a), Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, title I, §101, title IX, §901(b)(10)–(20), Oct. 30, 1990, 104 Stat. 1103, 1142, 1143; Pub. L. 102–73, title VIII, §802(d)(1), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§3, 25(a)(1), (b), Oct. 7, 1991, 105 Stat. 587, 605, 607; Pub. L. 103–382, title III, §391(f)(1), Oct. 20, 1994, 108 Stat. 4023, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
+#### Amendments
+
+1998—Par. (14)(B). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 8801, 8923 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9835, 12511.
+This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6661b, 6661d, 8065c, 8801, 8923 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9835, 12511.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -50,7 +50,7 @@ Any sponsor of an alien, and such alien, shall be jointly and severally liable f
 
 &emsp;(D) granted political asylum by the Attorney General.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1621, as added June 9, 1980, Pub. L. 96–265, title V, §504(b), 94 Stat. 471; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2611(d), 2663(g)(10), 98 Stat. 1131, 1169; Nov. 24, 1993, Pub. L. 103–152, §7(a)(1), (b)(1), 107 Stat. 1519; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
+(Aug. 14, 1935, ch. 531, title XVI, §1621, as added Pub. L. 96–265, title V, §504(b), June 9, 1980, 94 Stat. 471; amended Pub. L. 98–369, div. B, title VI, §§2611(d), 2663(g)(10), July 18, 1984, 98 Stat. 1131, 1169; Pub. L. 103–152, §7(a)(1), (b)(1), Nov. 24, 1993, 107 Stat. 1519; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478.)
 
 #### References in Text
 

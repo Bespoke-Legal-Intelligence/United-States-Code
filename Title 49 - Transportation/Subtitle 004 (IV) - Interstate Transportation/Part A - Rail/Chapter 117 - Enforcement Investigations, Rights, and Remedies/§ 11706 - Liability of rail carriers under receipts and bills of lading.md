@@ -12,7 +12,7 @@
 
 (b) The rail carrier issuing the receipt or bill of lading under subsection (a) of this section or delivering the property for which the receipt or bill of lading was issued is entitled to recover from the rail carrier over whose line or route the loss or injury occurred the amount required to be paid to the owners of the property, as evidenced by a receipt, judgment, or transcript, and the amount of its expenses reasonably incurred in defending a civil action brought by that person.
 
-(c)(1) A rail carrier may not limit or be exempt from liability imposed under subsection (a) of this section except as provided in this subsection. A limitation of liability or of the amount of recovery or representation or agreement in a receipt, bill of lading, contract, or rule in violation of this section is void.
+(c)(1) A rail carrier may not limit or be exempt from liability imposed under subsection (a)of this section except as provided in this subsection. A limitation of liability or of the amount of recovery or representation or agreement in a receipt, bill of lading, contract, or rule in violation of this section is void.
 
 (2) A rail carrier of passengers may limit its liability under its passenger rate for loss or injury of baggage carried on trains carrying passengers.
 

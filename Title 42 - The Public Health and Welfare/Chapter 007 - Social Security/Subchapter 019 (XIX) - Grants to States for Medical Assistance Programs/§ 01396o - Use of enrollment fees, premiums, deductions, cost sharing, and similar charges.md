@@ -18,7 +18,7 @@ The State plan shall provide that in the case of individuals described in subpar
 
 &emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(<i>o</i>) of this title); and
 
-&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
+&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to thesatisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
 #### (b) Imposition of certain charges under plan in case of individuals other than those described in section 1396a(a)(10)(A) or (E)
 
@@ -56,7 +56,7 @@ With respect to a qualified disabled and working individual described in section
 
 #### (e) Prohibition of denial of services on basis of individual's inability to pay certain charges
 
-The State plan shall require that no provider participating under the State plan may deny care or services to an individual eligible for such care or services under the plan on account of such individual's inability to pay a deduction, cost sharing, or similar charge. The requirements of this subsection shall not extinguish the liability of the individual to whom the care or services were furnished for payment of the deduction, cost sharing, or similar charge.
+The State plan shall require that no provider participating under the State plan may deny care or services to an individual eligible for such care or services under the plan on account of such individual's inability to pay a deduction, cost sharing, or similar charge. The requirements of this subsection shall not extinguish the liability of the individual to whom the care orservices were furnished for payment of the deduction, cost sharing, or similar charge.
 
 #### (f) Charges imposed under waiver authority of Secretary
 
@@ -72,7 +72,7 @@ No deduction, cost sharing, or similar charge may be imposed under any waiver au
 
 &emsp;(5) is voluntary, or makes provision for assumption of liability for preventable damage to the health of recipients of medical assistance resulting from involuntary participation.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Sept. 3, 1982, Pub. L. 97–248, title I, §131(b), 96 Stat. 367; amended Jan. 12, 1983, Pub. L. 97–448, title III, §309(b)(18)–(20), 96 Stat. 2409, 2410; Apr. 7, 1986, Pub. L. 99–272, title IX, §9505(c)(2), 100 Stat. 209; Oct. 21, 1986, Pub. L. 99–509, title IX, §9403(g)(4)(B), 100 Stat. 2056; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), 101 Stat. 1330–142, 1330–207; July 1, 1988, Pub. L. 100–360, title IV, §411(k)(2), 102 Stat. 791; Dec. 19, 1989, Pub. L. 101–239, title VI, §6408(d)(3), 103 Stat. 2269; Aug. 5, 1997, Pub. L. 105–33, title IV, §4708(b), 111 Stat. 506.)
+(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506.)
 
 #### Amendments
 

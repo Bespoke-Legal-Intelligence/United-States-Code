@@ -2,7 +2,7 @@
 
 #### (a) Identity of financial institutions
 
-Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish to the Federal Bureau of Investigation the names and addresses of all financial institutions (as that term is defined in section 3401 of title 12) at which a consumer maintains or has maintained an account, to the extent that information is in the files of the agency, when presented with a written request for that information, signed by the Director of the Federal Bureau of Investigation, or the Director's designee, which certifies compliance with this section. The Director or the Director's designee may make such a certification only if the Director or the Director's designee has determined in writing that—
+Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish to the Federal Bureau of Investigation the names and addresses of all financial institutions (as that term is defined in section 3401 of title 12) at which a consumer maintains or has maintained an account, to the extent that information is in the files of the agency, when presented with a written request for that information, signed by theDirector of the Federal Bureau of Investigation, or the Director's designee, which certifies compliance with this section. The Director or the Director's designee may make such a certification only if the Director or the Director's designee has determined in writing that—
 
 &emsp;(1) such information is necessary for the conduct of an authorized foreign counterintelligence investigation; and
 
@@ -10,7 +10,7 @@ Notwithstanding section 1681b of this title or any other provision of this subch
 
 &emsp;&emsp;(A) is a foreign power (as defined in section 1801 of title 50) or a person who is not a United States person (as defined in such section 1801 of title 50) and is an official of a foreign power; or
 
-&emsp;&emsp;(B) is an agent of a foreign power and is engaging or has engaged in an act of international terrorism (as that term is defined in section 1801(c) of title 50) or clandestine intelligence activities that involve or mayinvolve a violation of criminal statutes of the United States.
+&emsp;&emsp;(B) is an agent of a foreign power and is engaging or has engaged in an act of international terrorism (as that term is defined in section 1801(c) of title 50) or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 
 #### (b) Identifying information
 

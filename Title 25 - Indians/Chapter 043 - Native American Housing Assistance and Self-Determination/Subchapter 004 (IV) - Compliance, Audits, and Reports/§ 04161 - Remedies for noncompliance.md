@@ -46,7 +46,7 @@ If the Secretary makes a finding under subsection (a) of this section, but deter
 
 #### (2) Procedure
 
-&emsp;The Secretary shall file in the court a record of the proceeding on which the Secretary based the action, as provided in section 2112 of title 28. No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.
+&emsp;The Secretary shall file in the court a record of the proceeding on which the Secretary based the action, as provided in section 2112 oftitle 28. No objection to the action of the Secretary shall be considered by the court unless such objection has been urged before the Secretary.
 
 #### (3) Disposition
 

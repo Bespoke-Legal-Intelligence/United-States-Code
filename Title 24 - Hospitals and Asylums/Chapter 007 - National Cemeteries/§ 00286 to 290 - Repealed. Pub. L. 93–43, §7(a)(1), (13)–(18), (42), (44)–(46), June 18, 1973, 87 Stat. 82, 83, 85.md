@@ -30,7 +30,7 @@ June 11, 1938, ch. 348, 52 Stat. 668.
 
 #### Encroachment by Railroad on Rights of Way
 
-Provisions similar to those set out in former section 290 of this title relating to encroachment by railroad on rights of way were also repealed by Pub. L. 93–43, §7(a)(19) to (41), (43), June 18, 1973, 87 Stat. 83 to 85. Subject matter was contained in the following prior appropriation acts:
+Provisions similar to those set out in former section 290 of this title relating to encroachment by railroad onrights of way were also repealed by Pub. L. 93–43, §7(a)(19) to (41), (43), June 18, 1973, 87 Stat. 83 to 85. Subject matter was contained in the following prior appropriation acts:
 
 July 11, 1952, ch. 669, 66 Stat. 579.
 

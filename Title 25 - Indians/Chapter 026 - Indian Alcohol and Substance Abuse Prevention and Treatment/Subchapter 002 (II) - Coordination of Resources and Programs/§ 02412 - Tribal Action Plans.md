@@ -52,7 +52,7 @@ At the request of any Indian tribe pursuant to a resolution adopted under subsec
 
 #### (e) Federal action
 
-If any Indian tribe does not adopt a resolution as provided in subsection (a) of this sectionwithin 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in section 2411 of this title, the Secretary of the Interior and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a) of this section.
+If any Indian tribe does not adopt a resolution as provided in subsection (a) of this section within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in section 2411 of this title, the Secretary of the Interior and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a) of this section.
 
 #### (f) Grants for training, education, and prevention programs
 
@@ -70,7 +70,7 @@ If any Indian tribe does not adopt a resolution as provided in subsection (a) of
 
 &emsp;(E) community training and education programs.
 
-(3) There are authorized to be appropriated to carry out the provisions of this subsection $5,000,000 for fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+(3) There are authorized to be appropriated to carry out the provisions of this subsection$5,000,000 for fiscal year 1993 and such sums as are necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (Pub. L. 99–570, title IV, §4206, Oct. 27, 1986, 100 Stat. 3207–140; Pub. L. 100–690, title II, §§2203, 2204, Nov. 18, 1988, 102 Stat. 4217; Pub. L. 102–573, title VII, §703(1), Oct. 29, 1992, 106 Stat. 4582.)
 

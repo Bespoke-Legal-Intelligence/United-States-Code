@@ -22,5 +22,5 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 11704, 11706 of this title.
+This section is referred to in sections 11704, 11706, 11709 of this title.
 

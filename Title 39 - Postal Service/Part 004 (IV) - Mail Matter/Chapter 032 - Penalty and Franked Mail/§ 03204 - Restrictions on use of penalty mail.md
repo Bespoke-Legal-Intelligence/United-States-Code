@@ -44,5 +44,5 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 section 1701z–2; title 15 section 637; title 16 section 460<i>l</i>–1; title 29 section 1708; title 42 section 12651d.
+This section is referred to in title 12 section 1701z–2; title 15 section 637; title 16 section 460<i>l</i>–1; title 29 sections 1708, 2900; title 42 section 12651d.
 

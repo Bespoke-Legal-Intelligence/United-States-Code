@@ -26,7 +26,7 @@
 
 &emsp;(B) provide the victim with an affidavit form to submit pursuant to subparagraph (A)(vi).
 
-(3) Each defendant shall prepare and file with the probation officer an affidavit fully describing the financial resources of the defendant, including a complete listing of all assets owned or controlled by the defendant as of the date on which the defendant was arrested, the financial needs and earning ability of the defendant and the defendant's dependents, and such other information that the court requires relating tosuch other factors as the court deems appropriate.
+(3) Each defendant shall prepare and file with the probation officer an affidavit fully describing the financial resources of the defendant, including a complete listing of all assets owned or controlled by the defendant as of the date on which the defendant was arrested, the financial needs and earning ability of the defendant and the defendant's dependents, and such other information that the court requires relating to such other factors as the court deems appropriate.
 
 (4) After reviewing the report of the probation officer, the court may require additional documentation or hear testimony. The privacy of any records filed, or testimony heard, pursuant to this section shall be maintained to the greatest extent possible, and such records may be filed or testimony heard in camera.
 
@@ -76,7 +76,7 @@
 
 &emsp;(B) any State civil proceeding, to the extent provided by the law of the State.
 
-(k) A restitution order shall provide that the defendant shall notify the court and the Attorney General of any material change in the defendant's economic circumstances that might affect the defendant's ability to pay restitution. The court may also accept notification of a material change in the defendant's economic circumstances from the United States or from the victim. The Attorney General shall certify to the court that the victim or victims owed restitution by the defendant have been notified of the change in circumstances. Upon receipt of the notification, the court may, on its own motion, or the motion of any party, including the victim, adjust the payment schedule, or requireimmediate payment in full, as the interests of justice require.
+(k) A restitution order shall provide that the defendant shall notify the court and the Attorney General of any material change in the defendant's economic circumstances that might affect the defendant's ability to pay restitution. The court may also accept notification of a material change in the defendant's economic circumstances from the United States or from the victim. The Attorney General shall certify to the court that the victim or victims owed restitution by the defendant have been notified of the change in circumstances. Upon receipt of the notification, the court may, on its own motion, or the motion of any party, including the victim, adjust the payment schedule, or require immediate payment in full, as the interests of justice require.
 
 (<i>l</i>) A conviction of a defendant for an offense involving the act giving rise to an order of restitution shall estop the defendant from denying the essential allegations of that offense in any subsequent Federal civil proceeding or State civil proceeding, to the extent consistent with State law, brought by the victim.
 
@@ -114,7 +114,7 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (<i>o</
 
 #### Amendments
 
-1996—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
+1996—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuanceand enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “3663” for “3579”.
 

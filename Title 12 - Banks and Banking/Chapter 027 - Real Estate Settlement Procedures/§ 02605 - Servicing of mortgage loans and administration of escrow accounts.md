@@ -46,7 +46,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 &emsp;&emsp;(F) Any information concerning the effect the transfer may have, if any, on the terms of or the continued availability of mortgage life or disability insurance or any other type of optional insurance and what action, if any, the borrower must take to maintain coverage.
 
-&emsp;&emsp;(G) A statement that the assignment, sale, or transfer of the servicing of the mortgageloan does not affect any term or condition of the security instruments other than terms directly related to the servicing of such loan.
+&emsp;&emsp;(G) A statement that the assignment, sale, or transfer of the servicing of the mortgage loan does not affect any term or condition of the security instruments other than terms directly related to the servicing of such loan.
 
 #### (c) Notice by transferee of loan servicing at time of transfer
 
@@ -220,5 +220,5 @@ A prior section 2605, Pub. L. 93–533, §6, Dec. 22, 1974, 88 Stat. 1726, relat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2609, 2610, 2614 of this title; title 15 section 1641.
+This section is referred to in sections 2609, 2610, 2614, 4901 of this title; title 15 section 1641.
 

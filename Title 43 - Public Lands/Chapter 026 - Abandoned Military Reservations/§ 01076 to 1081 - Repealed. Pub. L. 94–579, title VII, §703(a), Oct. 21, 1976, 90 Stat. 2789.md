@@ -6,7 +6,7 @@ Section 1077, acts Aug. 23, 1894, ch. 314, §1, 28 Stat. 491; Feb. 15, 1895, ch.
 
 Section 1078, act Aug. 23, 1894, ch. 314, §2, 28 Stat. 491, limited applicability of section 1077 of this title with respect to provisions of act July 5, 1884, relating to disposition of mineral lands.
 
-Section 1079, act Feb. 11, 1903, ch. 543, 32 Stat. 822, related to confirmation of indemnity selections by Statesin lieu of school sections in abandoned military reservations.
+Section 1079, act Feb. 11, 1903, ch. 543, 32 Stat. 822, related to confirmation of indemnity selections by States in lieu of school sections in abandoned military reservations.
 
 Section 1080, act Feb. 15, 1895, ch. 92, §1, 28 Stat. 664, extended applicability of provisions relating to settlement and indemnity selection of abandoned military reservation to those abandoned prior to July 5, 1884.
 

@@ -2,7 +2,7 @@
 
 #### (a) Quantity of intended purchases; aggregation not to allow identification
 
-(1) Not later than December 1 of any marketing year with respect to Flue-cured tobacco (or, in the case of the 1986 crop, 14 days after April 7, 1986) and January 15 of any marketing year with respect to Burley tobacco (or, in the case of the 1986 crop, 14 days after April 7, 1986, or January 15, 1986, whichever is later), each domestic manufacturer of cigarettes shall submit to the Secretary a statement, by kind, of the quantity of Flue-cured tobacco and Burley tobacco (for which a national marketing quota is in effect orfor which the Secretary has proclaimed a national marketing quota for the next succeeding marketing year) that the manufacturer intends to purchase, directly or indirectly, on the United States auction markets or from producers during the next succeeding marketing year (hereafter in this section referred to as the “quantity of intended purchases”).
+(1) Not later than December 1 of any marketing year with respect to Flue-cured tobacco (or, in the case of the 1986 crop, 14 days after April 7, 1986) and January 15 of any marketing year with respect to Burley tobacco (or, in the case of the 1986 crop, 14 days after April 7, 1986, or January 15, 1986, whichever is later), each domestic manufacturer of cigarettes shall submit to the Secretary a statement, by kind, of the quantity of Flue-cured tobacco and Burley tobacco (for which a national marketing quota is in effect or for which the Secretary has proclaimed a national marketing quota for the next succeeding marketing year) that the manufacturer intends to purchase, directly or indirectly, on the United States auction markets or from producers during the next succeeding marketing year (hereafter in this section referred to as the “quantity of intended purchases”).
 
 (2) The Secretary shall aggregate the quantities of intended purchases in a manner that will not allow the identification of the quantity of intended purchases of any manufacturer.
 
@@ -38,7 +38,7 @@ If any domestic manufacturer of cigarettes fails to submit to the Secretary a st
 
 Notwithstanding any other provision of law, a statement of the quantity of intended purchases that is submitted under this section shall be exempt from disclosure under section 552 of title 5.
 
-(Feb. 16, 1938, ch. 30, title III, §320A, as added Apr. 7, 1986, Pub. L. 99–272, title I, §1103(d), 100 Stat. 88.)
+(Feb. 16, 1938, ch. 30, title III, §320A, as added Pub. L. 99–272, title I, §1103(d), Apr. 7, 1986, 100 Stat. 88.)
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Scope
 
-Insurance, guaranties, and reinsurance issued under this subpart shall cover investment madein connection with projects in any less developed friendly country or area with the government of which the President of the United States has agreed to institute a program for insurance, guaranties, or reinsurance.
+Insurance, guaranties, and reinsurance issued under this subpart shall cover investment made in connection with projects in any less developed friendly country or area with the government of which the President of the United States has agreed to institute a program for insurance, guaranties, or reinsurance.
 
 #### (b) Protection of interest
 
@@ -10,7 +10,7 @@ The Corporation shall determine that suitable arrangements exist for protecting 
 
 #### (c) Guaranties as obligations backed by full faith and credit of United States
 
-All guaranties issued prior to July 1, 1956, all guaranties issued under sections 1872(b) <sup>1</sup> and 1933(b) <sup>1</sup> of this title, all guaranties heretofore issued pursuant to prior guaranty authorities repealed by the Foreign Assistance Act of 1969, and all insurance, reinsurance and guaranties issued pursuant to this subpart shall constitute obligations, in accordance with the terms of such insurance, reinsurance or guaranties, of the United States of America and the full faith and credit of the United States of America is hereby pledged for the full payment and performance of such obligations.
+All guaranties issued prior to July 1, 1956, all guaranties issued under sections 1872(b) <sup>1</sup> and 1933(b) <sup>1</sup> of this title, all guaranties heretofore issued pursuant to prior guaranty authorities repealed by the Foreign Assistance Act of 1969, and all insurance, reinsurance and guaranties issued pursuant to this subpart shall constitute obligations, in accordance with the terms of such insurance, reinsurance or guaranties, of the United States of America and the full faith and credit of the United States of America is herebypledged for the full payment and performance of such obligations.
 
 #### (d) Fees
 
@@ -48,7 +48,7 @@ Claims arising as a result of insurance, reinsurance, or guaranty operations und
 
 #### (j) Presumption of compliance
 
-Each guaranty contract executed by such officer or officers as may be designated by theBoard shall be conclusively presumed to be issued in compliance with the requirements of this chapter.
+Each guaranty contract executed by such officer or officers as may be designated by the Board shall be conclusively presumed to be issued in compliance with the requirements of this chapter.
 
 #### (k) Balance of payments
 
@@ -58,7 +58,7 @@ In making a determination to issue insurance, guaranties, or reinsurance under t
 
 (1) No payment may be made under any insurance or reinsurance which is issued under this subpart on or after April 24, 1978, for any loss occurring with respect to a project, if the preponderant cause of such loss was an act by the investor seeking payment under this subpart, by a person possessing majority ownership and control of the investor at the time of the act, or by any agent of such investor or controlling person, and a court of the United States has entered a final judgment that such act constituted a violation under the Foreign Corrupt Practices Act of 1977.
 
-(2) Not later than 120 days after April 24, 1978, the Corporation shall adopt regulations setting forth appropriate conditions under which any person convicted under the Foreign Corrupt Practices Act of 1977 for an offense related to a project insured or otherwise supported by the Corporation shall be suspended, for a period of not more than five years, from eligibility to receive any insurance, reinsurance, guaranty, loan, or other financial support authorized by this subpart.
+(2) Not later than 120 days after April 24, 1978, the Corporation shall adopt regulations setting forth appropriate conditions under which any person convicted under the Foreign CorruptPractices Act of 1977 for an offense related to a project insured or otherwise supported by the Corporation shall be suspended, for a period of not more than five years, from eligibility to receive any insurance, reinsurance, guaranty, loan, or other financial support authorized by this subpart.
 
 #### (m) Notification of countries of environmental restrictions on certain activities
 
@@ -135,10 +135,6 @@ Subsec. (f). Pub. L. 93–390, §2(4)(F), (G), inserted “reinsurance” before
 Subsec. (g). Pub. L. 93–390, §2(4)(H), inserted applicability to insurance and reinsurance.
 
 Subsecs. (h) to (k). Pub. L. 93–390, §2(4)(I)–(K), inserted reference to reinsurance wherever appearing.
-
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

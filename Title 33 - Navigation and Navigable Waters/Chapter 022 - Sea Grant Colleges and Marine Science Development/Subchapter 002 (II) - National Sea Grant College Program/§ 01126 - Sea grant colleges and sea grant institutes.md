@@ -1,0 +1,58 @@
+### §1126. Sea grant colleges and sea grant institutes
+
+#### (a) Designation
+
+(1) A sea grant college or sea grant institute shall meet the following qualifications—
+
+&emsp;(A) have an existing broad base of competence in fields related to ocean, coastal, and Great Lakes resources;
+
+&emsp;(B) make a long-term commitment to the objective in section 1121(b) of this title, as determined by the Secretary;
+
+&emsp;(C) cooperate with other sea grant colleges and institutes and other persons to solve problems or meet needs relating to ocean, coastal, and Great Lakes resources;
+
+&emsp;(D) have received financial assistance under section 1124 of this title;
+
+&emsp;(E) be recognized for excellence in fields related to ocean, coastal, and Great Lakes resources (including marine resources management and science), as determined by the Secretary; and
+
+&emsp;(F) meet such other qualifications as the Secretary, in consultation with the panel, considers necessary or appropriate.
+
+(2) The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant college if the institution, association, or alliance—
+
+&emsp;(A) meets the qualifications in paragraph (1); and
+
+&emsp;(B) maintains a program of research, advisory services, training, and education in fields related to ocean, coastal, and Great Lakes resources.
+
+(3) The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant institute if the institution, association, or alliance—
+
+&emsp;(A) meets the qualifications in paragraph (1); and
+
+&emsp;(B) maintains a program which includes, at a minimum, research and advisory services.
+
+#### (b) Existing designees
+
+Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
+
+#### (c) Suspension or termination of designation
+
+The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a) of this section.
+
+#### (d) Duties
+
+Subject to any regulations prescribed or guidelines established by the Secretary, it shall be the responsibility of each sea grant college and sea grant institute—
+
+&emsp;(1) to develop and implement, in consultation with the Secretary and the panel, a program that is consistent with the guidelines and priorities established under section 1123(c) of this title; and
+
+&emsp;(2) to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title.
+
+(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24.)
+
+#### Amendments
+
+1998—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (c) relating to authorization of the Secretary to designate sea grant college and sea grant regional consortia with certain prerequisites, requirement of regulations to prescribe qualifications and guidelines, and authorization of the Secretary to suspend or terminate any designation.
+
+1987—Subsec. (a)(2)(A), (3)(A), (B). Pub. L. 100–220 substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1122, 1123, 1126 of this title.
+

@@ -12,7 +12,7 @@
 
 &emsp;(3) with respect to a member on inactive duty training scheduled in advance by competent authority insurance under this subchapter shall cease at the end of such scheduled training period, unless at such time the insured is suffering from a disability incurred, or aggravated during such period which, within one hundred and twenty days after the date of such training, (i) results in death, or (ii) renders the member uninsurable at standard premium rates according to the good health standards approved by the Secretary in which event the insurance shall continue in force to death, or for one hundred and twenty days after the date such training terminated, whichever is the earlier date; and
 
-&emsp;(4) with respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in section 1965(5)(B) of this title, 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.
+&emsp;(4) with respect to a member of the Ready Reserve of a uniformed service who meets thequalifications set forth in section 1965(5)(B) of this title, 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.
 
 (b)(1) Each policy purchased under this subchapter shall contain a provision, in terms approved by the Secretary, that, except as hereinafter provided, Servicemembers’ Group Life Insurance which is continued in force after expiration of the period of duty or travel under section 1967(b) or 1968(a) of this title, effective the day after the date such insurance would cease—
 
@@ -34,7 +34,7 @@ Subsec. (a)(1) to (3). Pub. L. 104–275, §402(c)(1)(B), (C), substituted a sem
 
 Subsec. (a)(4). Pub. L. 104–275, §402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
 
-“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposesunder chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
+“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
 
 “(C) unless on the date of such separation or release the member is transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier.”
 
@@ -100,7 +100,7 @@ Section 647(c) of Pub. L. 104–106 provided that: “The amendments made by thi
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 1677(d)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, seesection 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by section 1677(d)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
 #### Effective Date of 1974 Amendment
 
@@ -120,5 +120,5 @@ Section 5(b) of Pub. L. 93–289 provided that the amendments made by Pub. L. 93
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1977 of this title.
+This section is referred to in sections 1977, 1980 of this title.
 

@@ -14,7 +14,7 @@ In carrying out the purposes of subsection (a) of this section, the Secretary is
 
 #### (d) Appropriation for purposes of subsection (a)
 
-To carry out the purposes of subsection (a) of this section, the Secretary is authorized to utilize in each fiscal year, beginning with the fiscalyear beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to section 1391 of this title, or section 590<i>o</i> of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
+To carry out the purposes of subsection (a) of this section, the Secretary is authorized to utilize in each fiscal year, beginning with the fiscal year beginning July 1, 1938, a sum not to exceed $4,000,000 of the funds appropriated pursuant to section 1391 of this title, or section 590<i>o</i> of title 16, for such fiscal year. The Secretary shall allocate one-fourth of such sum annually to each of the four laboratories established pursuant to this section.
 
 #### (e) Repealed. Aug. 30, 1954, ch. 1076, §1(3), 68 Stat. 966
 
@@ -49,8 +49,4 @@ Agricultural research generally, see sections 361a et seq. and 427 of this title
 Development of new uses for cotton, see section 724 of this title.
 
 Marketing of agricultural products and control or eradication of plant and animal diseases and pests, cooperation with State agencies in administration and enforcement of laws relating to, see section 450 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5925 of this title.
 

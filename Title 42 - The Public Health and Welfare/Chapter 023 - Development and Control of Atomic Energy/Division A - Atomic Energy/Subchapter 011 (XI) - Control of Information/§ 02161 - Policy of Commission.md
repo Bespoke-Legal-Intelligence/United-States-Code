@@ -6,7 +6,7 @@ It shall be the policy of the Commission to control the dissemination and declas
 
 (b) The dissemination of scientific and technical information relating to atomic energy should be permitted and encouraged so as to provide that free interchange of ideas and criticism which is essential to scientific and industrial progress and public understanding and to enlarge the fund of technical information.
 
-(Aug. 1, 1946, ch. 724, title I, §141, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 940; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §141, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 940; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

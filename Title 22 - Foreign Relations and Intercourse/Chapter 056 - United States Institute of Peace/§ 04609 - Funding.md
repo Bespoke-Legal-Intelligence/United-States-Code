@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out this chapter, there are authorized to be appropriated$15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 6 succeeding fiscal years.
+&emsp;For the purpose of carrying out this chapter, there are authorized to be appropriated $15,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 #### (2) Availability
 
@@ -18,9 +18,11 @@ The Board of Directors may transfer to the legal entity authorized to be establi
 
 Any authority provided by this chapter to enter into contracts shall be effective for a fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 98–525, title XVII, §1710, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 99–498, title XVI, §1601(a)(1), (b), Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–569, title III, §301\[(a)\], Oct. 31, 1988, 102 Stat. 2863; Pub. L. 102–325, title XV, §1554(a), July 23, 1992, 106 Stat. 839; Pub. L. 103–208, §2(k)(14), Dec. 20, 1993, 107 Stat. 2486.)
+(Pub. L. 98–525, title XVII, §1710, Oct. 19, 1984, 98 Stat. 2659; Pub. L. 99–498, title XVI, §1601(a)(1), (b), Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–569, title III, §301\[(a)\], Oct. 31, 1988, 102 Stat. 2863;Pub. L. 102–325, title XV, §1554(a), July 23, 1992, 106 Stat. 839; Pub. L. 103–208, §2(k)(14), Dec. 20, 1993, 107 Stat. 2486; Pub. L. 105–244, title IX, §931(2), Oct. 7, 1998, 112 Stat. 1834.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–244 substituted “1999” for “1993” and “4” for “6”.
 
 1993—Subsec. (a)(1). Pub. L. 103–208 substituted “6” for “4” before “succeeding fiscal years”.
 
@@ -34,9 +36,13 @@ Any authority provided by this chapter to enter into contracts shall be effectiv
 
 1986—Subsec. (a). Pub. L. 99–498 substituted “fiscal year 1987” for “fiscal year 1985”, “fiscal year 1988” for “fiscal year 1986”, and “Amounts appropriated under this section are authorized to remain available to the Institute until expended” for “Moneys appropriated for the fiscal year 1985 shall remain available to the Institute through the fiscal year 1986”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of Title 20, Education.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 

@@ -86,7 +86,6 @@
 | (i) | Rules. |
 | (j) | Application of other laws. |
 | (k) | Emphasis on sustainable agriculture. |
-| (<i>l</i>) | Consultation with Technology Board. |
 | [450j.](%C2%A7%2000450j%20-%20Indemnity%20payments%20to%20dairy%20farmers%20and%20manufacturers%20of%20dairy%20products%3B%20milk%20removed%20for%20its%20residue%20of%20chemical%20or%20toxic%20substances%E2%80%A6.md) | Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse. |
 | [450k.](%C2%A7%2000450k%20-%20Authorization%20of%20appropriations%20for%20dairy%20farmer%20indemnities.md) | Authorization of appropriations for dairy farmer indemnities. |
 | 450<i>l.</i> | Expiration of dairy farmer indemnity program. |

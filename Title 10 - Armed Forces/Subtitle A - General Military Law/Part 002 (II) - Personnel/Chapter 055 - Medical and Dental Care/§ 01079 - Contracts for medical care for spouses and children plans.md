@@ -1,6 +1,6 @@
 ### §1079. Contracts for medical care for spouses and children: plans
 
-(a) To assure that medical care is available for dependents, as described in subparagraphs (A),\(D), and (I) of section 1072(2) of this title, of members of the uniformed services who are on active duty for a period of more than 30 days, the Secretary of Defense, after consulting with the other administering Secretaries, shall contract, under the authority of this section, for medical care for those persons under such insurance, medical service, or health plans as he considers appropriate. The types of health care authorized under this section shall be the same as those provided under section 1076 of this title, except as follows:
+(a) To assure that medical care is available for dependents, as described in subparagraphs (A), (D), and (I) of section 1072(2) of this title, of members of the uniformed services who are on active duty for a period of more than 30 days, the Secretary of Defense, after consulting with the other administering Secretaries, shall contract, under the authority of this section, for medical care for those persons under such insurance, medical service, or health plans as he considers appropriate. The types of health care authorized under this section shall be the same as those provided under section 1076 of this title, except as follows:
 
 &emsp;(1) With respect to dental care, only that care required as a necessary adjunct to medical or surgical treatment may be provided.
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(D) who is a pre-term infant with pathologic apnea,
 
-> &emsp;in which case the coverage may include the cost of the equipment, hard copy analysis ofphysiological alarms, professional visits, diagnostic testing, family training on how to respond to apparent life threatening events, and assistance necessary for proper use of the equipment.
+> &emsp;in which case the coverage may include the cost of the equipment, hard copy analysis of physiological alarms, professional visits, diagnostic testing, family training on how to respond to apparent life threatening events, and assistance necessary for proper use of the equipment.
 
 &emsp;(16) Hospice care may be provided only in the manner and under the conditions provided in section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
 
@@ -64,7 +64,7 @@
 
 (b) Plans covered by subsection (a) shall include provisions for payment by the patient of the following amounts:
 
-&emsp;(1) $25 for each admission to a hospital, or the amount the patient would have been charged under section 1078(a) of this title had the care being paid for been obtained in a hospital of the uniformed services, whichever amount is the greater. The Secretary of Defense may exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
+&emsp;(1) $25 for each admission to a hospital, or the amount the patient would have been charged under section 1078(a) of this title had the care being paid for been obtained in a hospital of the uniformed services, whichever amount is the greater. The Secretary of Defense may exempt a patient from paying such amount if the hospital to which the patient isadmitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
 &emsp;(2) Except as provided in clause (3), the first $150 each fiscal year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of all subsequent charges for such care during a fiscal year. Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each fiscal year under this paragraph shall be limited to $50.
 
@@ -186,7 +186,7 @@ In subsection (a)(1), the word “rooms”, in 37:411(a), is substituted for the
 
 In subsection (a)(5), the word “services” is substituted for the word “procedures” and the word “performed” is substituted for the word “accomplished”, in 37: 411(a). The words “or surgeon” are inserted for clarity.
 
-In subsection (b), the word “variances” is substituted for the words “limitations, additions, exclusions”. The words “or care other than that provided for in sections 1076–1078 of this title” are substituted for 37:414. The words “definitions, and related provisions”, in 37:411(b),are omitted as surplusage, since the Secretary of an executive department has inherent authority to interpret laws and issue regulations.
+In subsection (b), the word “variances” is substituted for the words “limitations, additions, exclusions”. The words “or care other than that provided for in sections 1076–1078 of this title” are substituted for 37:414. The words “definitions, and related provisions”, in 37:411(b), are omitted as surplusage, since the Secretary of an executive department has inherent authority to interpret laws and issue regulations.
 
 #### References in Text
 
@@ -270,7 +270,7 @@ Subsec. (a)(16). Pub. L. 104–201, §731(b)(2), (4), capitalized first letter o
 
 Subsec. (a)(17). Pub. L. 104–201, §731(b)(2), capitalized first letter of first word.
 
-Subsec. (h)(1). Pub. L. 104–106, §731(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health-care professional (or other noninstitutional health-care provider) for which a claim is submittedunder a plan contracted for under subsection (a) may be denied only to the extent that the charge exceeds the amount equivalent to the 80th percentile of billed charges made for similar services in the same locality during the base period.”
+Subsec. (h)(1). Pub. L. 104–106, §731(a), added par. (1) and struck out former par. (1) which read as follows: “Payment for a charge for services by an individual health-care professional (or other noninstitutional health-care provider) for which a claim is submitted under a plan contracted for under subsection (a) may be denied only to the extent that the charge exceeds the amount equivalent to the 80th percentile of billed charges made for similar services in the same locality during the base period.”
 
 Subsec. (h)(2). Pub. L. 104–106, §731(d), substituted “paragraph (1)(A)” for “paragraph (1)”.
 
@@ -294,7 +294,7 @@ Subsec. (d). Pub. L. 103–337, §702(a)(2), substituted “as described in subp
 
 Subsec. (g). Pub. L. 103–337, §707(a), inserted at end “In addition, when a member dies while on active duty for a period of more than 30 days, the member's dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the one-year period beginning on the date of the death of the member.”
 
-1993—Subsec. (a)(7). Pub. L. 103–160, §716(c), substituted “except that those services may be provided in any case in which another insurance plan or program provides primary coverage for those services;” for “except that—
+1993—Subsec. (a)(7). Pub. L. 103–160, §716(c), substituted “except that those services may be provided in any case in which another insurance plan or programprovides primary coverage for those services;” for “except that—
 
 &emsp;“(A) those services may be provided in any case in which another insurance plan or program provides primary coverage for those services; and
 
@@ -464,7 +464,7 @@ Section 701(b) of Pub. L. 101–510 provided that: “The amendment made by subs
 
 Section 702(b) of Pub. L. 101–510 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Section 703(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87,provided that: “This section and the amendments made by this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
+Section 703(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: “This section and the amendments made by this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date.”
 
 Section 712(c) of Pub. L. 101–510 provided that: “The amendments made by this section \[amending this section and section 1086 of this title\] shall apply with respect to health care provided under sections 1079 and 1086 of title 10, United States Code, on or after April 1, 1991.”
 
@@ -638,7 +638,7 @@ Waiver of Copayment Requirements.—(1) Any civilian health care provider furnis
 
 “(2) A patient referred to in paragraph (1) is a dependent of a member of the uniformed services who serves on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm.
 
-“(3) If a health care provider waives a payment for health care under paragraph (1), the health care provider shall certify to the Secretary of Defense that theamount charged the Federal Government for such health care was not increased above the amount that the health care provider would have charged the Federal Government for such health care had the payment not been waived. The Secretary of Defense may require a health care provider to provide information to the Secretary to show the compliance of the health care provider with this paragraph.”
+“(3) If a health care provider waives a payment for health care under paragraph (1), the health care provider shall certify to the Secretary of Defense that the amount charged the Federal Government for such health care was not increased above the amount that the health care provider would have charged the Federal Government for such health care had the payment not been waived. The Secretary of Defense may require a health care provider to provide information to the Secretary to show the compliance of the health care provider with this paragraph.”
 
 #### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
 

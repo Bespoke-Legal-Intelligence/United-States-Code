@@ -4,7 +4,7 @@
 
 (b) No person shall, in any sale, offer for sale, or consignment for sale, of any grain which involves the shipment of such grain from the United States to any place outside thereof, knowingly describe such grain by any official grade designation, or other description, which is false or misleading.
 
-(Aug. 11, 1916, ch. 313, pt. B, §6, 39 Stat. 484; July 11, 1958, Pub. L. 85–509, 72 Stat. 352; Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 763; Oct. 21, 1976, Pub. L. 94–582, §7, 90 Stat. 2870; Sept. 29, 1977, Pub. L. 95–113, title XVI, §1606(c), 91 Stat. 1030.)
+(Aug. 11, 1916, ch. 313, pt. B, §6, 39 Stat. 484; Pub. L. 85–509, July 11, 1958, 72 Stat. 352; Pub. L.90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §7, Oct. 21, 1976, 90 Stat. 2870; Pub. L. 95–113, title XVI, §1606(c), Sept. 29, 1977, 91 Stat. 1030.)
 
 #### Amendments
 

@@ -18,3 +18,4 @@ This subchapter is referred to in section 652 of this title.
 - [&sect; 02217 - Limitation on applicability of certain provisions in reports](%C2%A7%2002217%20-%20Limitation%20on%20applicability%20of%20certain%20provisions%20in%20reports.md)
 - [&sect; 02218 - General applicability of cost sharing](%C2%A7%2002218%20-%20General%20applicability%20of%20cost%20sharing.md)
 - [&sect; 02219 - Definitions](%C2%A7%2002219%20-%20Definitions.md)
+- [&sect; 02220 - Rivers and harbors and other waterways projects for benefit of navigation, flood control, hurricane protection, beach erosion control, and&#8230;](%C2%A7%2002220%20-%20Rivers%20and%20harbors%20and%20other%20waterways%20projects%20for%20benefit%20of%20navigation%2C%20flood%20control%2C%20hurricane%20protection%2C%20beach%20erosion%20control%2C%20and%E2%80%A6.md)

@@ -10,7 +10,7 @@
 
 (4) The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the transcript and record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
-(5) The court shall have jurisdiction to affirm the action of the Secretary or to set it aside, inwhole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+(5) The court shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 #### (b) Amendment of plans
 
@@ -24,7 +24,7 @@ Action pursuant to an initial determination of the Secretary described in subsec
 
 Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter I, X, XIV, XVI, or XIX of this chapter, shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance.
 
-(Aug. 14, 1935, ch. 531, title XI, §1116, as added July 30, 1965, Pub. L. 89–97, title IV, §404(a), 79 Stat. 419; amended Jan. 2, 1968, Pub. L. 90–248, title II, §241(c)(5), 81 Stat. 917; Dec. 31, 1973, Pub. L. 93–233, §18(z–2)(1)(C), 87 Stat. 974; Jan. 4, 1975, Pub. L. 93–647, §3(d), 88 Stat. 2349; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(h), 95 Stat. 872; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(c)(2), title VI, §2663(e)(6), 98 Stat. 1102, 1168; Aug. 22, 1996, Pub. L. 104–193, title I, §108(g)(3), 110 Stat. 2168.)
+(Aug. 14, 1935, ch. 531, title XI, §1116, as added Pub. L. 89–97, title IV, §404(a), July 30, 1965, 79 Stat. 419; amended Pub. L. 90–248, title II, §241(c)(5), Jan. 2, 1968, 81 Stat. 917; Pub. L. 93–233, §18(z–2)(1)(C), Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–647, §3(d), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 97–35, title XXIII, §2353(h), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title III, §2354(c)(2), title VI, §2663(e)(6), July 18, 1984, 98 Stat. 1102, 1168; Pub. L. 104–193, title I, §108(g)(3), Aug. 22, 1996, 110 Stat. 2168.)
 
 #### References in Text
 

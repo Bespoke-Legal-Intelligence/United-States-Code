@@ -6,7 +6,7 @@ The Secretary may make grants to the State of Alaska for the benefit of rural or
 
 #### (b) Matching funds
 
-To be eligible to receive a grant under subsection (a) of this section, the State of Alaska shall provide equal matching funds from non-Federal sources.
+To be eligible to receive a grant under subsection (a) of this section, the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
 
 #### (c) Consultation with State of Alaska
 
@@ -14,9 +14,15 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 1996 through 2002.
+There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 1996 through 2002.
 
-(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131.)
+(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–277 substituted “25 percent in matching” for “equal matching”.
+
+Subsec. (d). Pub. L. 105–277 substituted “$20,000,000” for “$15,000,000”.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,40 @@
+### §154302. Purposes
+
+The purposes of the corporation are—
+
+&emsp;(1) to encourage, promote, and maintain comradeship among individuals who are or have been in the active service of the United States Navy, the United States Marine Corps, or the United States Coast Guard;
+
+&emsp;(2) to revere, honor, and perpetuate the memory of individuals described in paragraph (1) of this section who have departed this life;
+
+&emsp;(3) to promote and encourage further public interest in the United States Navy, the United States Marine Corps, and the United States Coast Guard, and the history of those organizations;
+
+&emsp;(4) to uphold the spirit and ideals of the United States Navy, the United States Marine Corps, and the United States Coast Guard;
+
+&emsp;(5) to promote the ideals of American freedom and democracy and to fit its members for the duties of citizenship and to encourage them to serve as ably as citizens as they have served the Nation under arms; and
+
+&emsp;(6) to maintain true allegiance to American institutions.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1434.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+154302
+
+36:140a.
+
+June 6, 1940, ch. 239, §2, 54 Stat. 232.
+
+In this section, the word “individuals” is substituted for “persons” for consistency in the revised title and with other titles of the United States Code.
+
+In clause (1), the words “further” and “those” are omitted as unnecessary.
+
+In clause (2), the words “described in clause (1) of this section” are substituted for “those . . . who have been such members” for clarity.
+

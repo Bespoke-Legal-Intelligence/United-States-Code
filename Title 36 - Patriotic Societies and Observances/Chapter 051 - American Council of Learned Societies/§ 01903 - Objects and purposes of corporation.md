@@ -1,6 +1,0 @@
-### §1903. Objects and purposes of corporation
-
-The objects and purposes of the corporation are those provided in its articles of incorporation and shall include the advancement of the humanistic studies in all fields of learning and the maintenance and strengthening of relations among the national societies devoted to such studies, and the corporation shall function as authorized by the laws of the State or States where it is incorporated.
-
-(Pub. L. 97–192, §3, June 1, 1982, 96 Stat. 109.)
-

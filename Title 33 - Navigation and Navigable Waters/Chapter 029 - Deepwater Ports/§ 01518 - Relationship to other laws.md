@@ -24,7 +24,7 @@ The law of the nearest adjacent coastal State, now in effect or hereafter adopte
 
 &emsp;(A) calling at or otherwise utilizing a deepwater port; and
 
-&emsp;(B) are within the safety zone of such a deepwater port, and are engaged in activities connected, associated, or potentially interfering with the use and operation of the deepwater port.
+&emsp;(B) are within the safety zone of such a deepwater port, and are engaged in activities connected, associated, or potentially interferingwith the use and operation of the deepwater port.
 
 > The jurisdiction of the United States under this paragraph shall not, however, apply to vessels registered in or flying the flag of any foreign state that has objected to the application of such jurisdiction.
 

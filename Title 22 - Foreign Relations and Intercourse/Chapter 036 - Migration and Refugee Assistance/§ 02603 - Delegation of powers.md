@@ -6,7 +6,7 @@ The President is authorized to designate the head of any department or agency of
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality,repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Ex. Ord. No. 11077. Administration of Chapter
 
@@ -24,7 +24,7 @@ Section 1. <i>Department of State</i>. (a) The Secretary of State is hereby desi
 
 (b) The Secretary of State shall from time to time furnish the President documents appropriate for the discharge by the President of his responsibilities under Section 2(d) of the Act \[section 2601(d) of this title\].
 
-(c) With due regard for other relevant considerations (including the interests of any other executive agencies which may be concerned), the Secretary of State shall assume the leadership and provide the guidance for assuring that programs authorized under the Act best serve the foreign policy objectives of the United States.
+(c) With due regard for other relevant considerations (including the interests of any other executive agencieswhich may be concerned), the Secretary of State shall assume the leadership and provide the guidance for assuring that programs authorized under the Act best serve the foreign policy objectives of the United States.
 
 (d) Funds appropriated or otherwise made available to the President for the United States Emergency Refugee and Migration Assistance Fund established by Section 2(c) of the act (22 U.S.C. 2601) shall be deemed to be allocated without further action of the President to the Secretary of State, and the Secretary may allocate or transfer, as appropriate, such funds to any agency, or part thereof, for obligation or expenditure consistent with the provisions of this order, the act, and other applicable law: <i>Provided</i>, That such funds may not be transferred, obligated, or expended until the President shall have made the determinations provided for in Section 2(c)(1) of the act \[section 2601(c)(1) of this title\], which determinations are reserved to the President, and the designations and determinations provided for in Section 2(b)(2) of the act \[section 2601(b)(2) of this title\].
 

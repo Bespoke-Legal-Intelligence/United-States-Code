@@ -8,13 +8,13 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
 &emsp;(3) all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
 
-&emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congressand the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
+&emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
 
 &emsp;(5) moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title;
 
 &emsp;(6) shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this title and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.
 
-(May 20, 1936, ch. 432, title III, §301, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 29; amended May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 66; Oct. 20, 1976, Pub. L. 94–570, §2, 90 Stat. 2701; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §772(b)(1), 110 Stat. 1149.)
+(May 20, 1936, ch. 432, title III, §301, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 29; amended Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 66; Pub. L. 94–570, §2, Oct. 20, 1976, 90 Stat. 2701; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §772(b)(1), Apr. 4, 1996, 110 Stat. 1149.)
 
 #### References in Text
 

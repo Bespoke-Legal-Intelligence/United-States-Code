@@ -40,7 +40,7 @@
 
 &emsp;(B) transferring the research and basic generic technologies described in subparagraph (A) to industry in order to help create a viable commercial high-speed ground transportation industry within the United States.
 
-(2) In a cooperative agreement or funding agreement under paragraph (1), the Secretary may agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
+(2) In a cooperative agreement or funding agreement under paragraph (1), the Secretarymay agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
 
 (3) The research, development, or utilization of any technology pursuant to a cooperative agreement under paragraph (1), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
@@ -136,7 +136,7 @@ Section 1036(b) of Pub. L. 102–240 provided that:
 
 “(1)
 
-Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’),which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
+Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
 
 “(2)
 
@@ -216,7 +216,7 @@ Licensing.—
 
 &emsp;“(A)
 
-Proprietary rights.—No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section552(b)(4) of title 5, United States Code, which is obtained from a United States business, research, or education entity as a result of activities under this subsection shall be disclosed.
+Proprietary rights.—No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section 552(b)(4) of title 5, United States Code, which is obtained from a United States business, research, or education entity as a result of activities under this subsection shall be disclosed.
 
 &emsp;“(B)
 

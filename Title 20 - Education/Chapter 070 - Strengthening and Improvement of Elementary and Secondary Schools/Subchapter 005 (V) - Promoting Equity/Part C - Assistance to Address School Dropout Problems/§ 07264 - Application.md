@@ -24,9 +24,9 @@ Each such application shall—
 
 &emsp;(3) include a plan for coordinated activities involving not less than one secondary school and its feeder junior high or middle schools and elementary schools for local educational agencies that have feeder systems;
 
-&emsp;(4) when applicable, describe how programs assisted under this part will be coordinatedwith, and not duplicate, programs assisted under subchapter I of this chapter;
+&emsp;(4) when applicable, describe how programs assisted under this part will be coordinated with, and not duplicate, programs assisted under subchapter I of this chapter;
 
-&emsp;(5) include a description of how the program assisted under this part is consistent with the second National Education Goal, relating to school completion, and other Federal programs as appropriate; and
+&emsp;(5) include a description of how the program assisted under this part is consistent with thesecond National Education Goal, relating to school completion, and other Federal programs as appropriate; and
 
 &emsp;(6) contain such other information as the Secretary considers necessary to determine the nature of the local needs, the quality of the proposed project, and the capability of the applicant to carry out the project.
 

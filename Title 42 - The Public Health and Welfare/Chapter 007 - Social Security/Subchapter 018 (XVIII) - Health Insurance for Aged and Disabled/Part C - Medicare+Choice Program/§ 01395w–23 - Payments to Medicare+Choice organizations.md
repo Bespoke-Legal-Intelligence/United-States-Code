@@ -40,7 +40,7 @@
 
 #### (C) Initial implementation
 
-&emsp;&emsp;The Secretary shall first provide for implementation of a risk adjustment methodologythat accounts for variations in per capita costs based on health status and other demographic factors for payments by no later than January 1, 2000.
+&emsp;&emsp;The Secretary shall first provide for implementation of a risk adjustment methodology that accounts for variations in per capita costs based on health status and other demographic factors for payments by no later than January 1, 2000.
 
 #### (D) Uniform application to all types of plans
 
@@ -200,7 +200,7 @@
 
 &emsp;&emsp;&emsp;(iv) for part B services—
 
-&emsp;&emsp;&emsp;&emsp;(I) 66 percent of payments attributable to such services shall be adjusted by the index of the geographic area factors under section 1395w–4(e) of this title usedto adjust payment rates for physicians’ services furnished in the payment area, and
+&emsp;&emsp;&emsp;&emsp;(I) 66 percent of payments attributable to such services shall be adjusted by the index of the geographic area factors under section 1395w–4(e) of this title used to adjust payment rates for physicians’ services furnished in the payment area, and
 
 &emsp;&emsp;&emsp;&emsp;(II) of the remaining 34 percent of the amount of such payments, 40 percent shall be adjusted by the index described in clause (iii); and
 
@@ -274,7 +274,7 @@
 
 &emsp;&emsp;The metropolitan based system described in this subparagraph is one in which—
 
-&emsp;&emsp;&emsp;(i) all the portions of each metropolitan statistical area in the State or in the case of a consolidated metropolitan statistical area, all of the portions of each primarymetropolitan statistical area within the consolidated area within the State, are treated as a single Medicare+Choice payment area, and
+&emsp;&emsp;&emsp;(i) all the portions of each metropolitan statistical area in the State or in the case of a consolidated metropolitan statistical area, all of the portions of each primary metropolitan statistical area within the consolidated area within the State, are treated as a single Medicare+Choice payment area, and
 
 &emsp;&emsp;&emsp;(ii) all areas in the State that do not fall within a metropolitan statistical area are treated as a single Medicare+Choice payment area.
 
@@ -286,7 +286,7 @@
 
 #### (1) In general
 
-&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA plan for a year is less than 1/12 of the annual Medicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+�Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
+&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA plan for a year is less than 1/12 of the annualMedicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+�Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
 
 #### (2) Establishment and designation of Medicare+Choice medical savings account as requirement for payment of contribution
 
@@ -346,7 +346,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;&emsp;(C) the Secretary shall continue to make monthly payments to the Medicare+Choice organization in an amount equal to the value of the additional benefits required under section 1395w–24(f)(1)(A) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4001, 111 Stat. 299.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299.)
 
 #### References in Text
 
@@ -370,7 +370,9 @@ Establishment of Project.—The Secretary of Health and Human Services (in this 
 
 “(b)
 
-Designation of 7 Medicare Payment Areas Covered by Project.—
+Designation of 7
+
+Medicare Payment Areas Covered by Project.—
 
 &emsp;“(1)
 
@@ -434,7 +436,7 @@ Waiver Authority.—The Secretary of Health and Human Services may waive such re
 
 “(f)
 
-Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choiceorganizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
+Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choice organizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
 
 “(g)
 
@@ -452,7 +454,7 @@ Competitive Pricing Advisory Committee.—
 
 &emsp;“(1)
 
-In general.—Before implementing the project under this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\], the Secretary shall appoint the Competitive Pricing Advisory Committee, including independent actuaries, individuals with expertise in competitive health plan pricing, and an employee of the Office of Personnel Management with expertise in the administration of the Federal Employees Health Benefit Program, to make recommendations to the Secretary concerning the designation of areas for inclusion in the project and appropriate research design for implementing the project.
+In general.—Before implementing the project under this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\], the Secretary shall appoint the Competitive Pricing Advisory Committee, including independent actuaries, individuals with expertise in competitive health plan pricing, and an employee of the Office of Personnel Management with expertise in the administration of the Federal Employees Health Benefit Program, tomake recommendations to the Secretary concerning the designation of areas for inclusion in the project and appropriate research design for implementing the project.
 
 &emsp;“(2)
 
@@ -480,5 +482,5 @@ Special application.—Notwithstanding section 9(c) of the Federal Advisory Comm
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–24, 1395w–27, 1395w–28, 1395mm, 1395eee of this title; title 26 section 501.
+This section is referred to in sections 1395w–21, 1395w–22, 1395w–24, 1395w–27, 1395w–28, 1395mm, 1395eee of this title.
 

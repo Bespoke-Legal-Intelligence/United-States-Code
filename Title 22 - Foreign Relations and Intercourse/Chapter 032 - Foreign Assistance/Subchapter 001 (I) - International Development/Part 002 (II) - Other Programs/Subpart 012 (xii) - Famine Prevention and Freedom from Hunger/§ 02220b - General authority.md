@@ -46,11 +46,11 @@ To the maximum extent practicable, activities under this section shall—
 
 &emsp;(5) emphasize the improvement of local systems for delivering the best available knowledge to the small farmers of such countries.
 
-#### (d) Function of Director
+#### (d) Function of Administrator
 
-The President shall exercise his authority under this section through the Director.
+The President shall exercise his authority under this section through the Administrator.
 
-(Pub. L. 87–195, pt. I, §297, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 863; amended Pub. L. 96–53, title I, §113, Aug. 14, 1979, 93 Stat. 364; 1979 Reorg. Plan No. 2, §6(a)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379.)
+(Pub. L. 87–195, pt. I, §297, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 863; amended Pub. L. 96–53, title I, §113, Aug. 14, 1979, 93 Stat. 364.)
 
 #### Amendments
 
@@ -61,14 +61,6 @@ Subsec. (c). Pub. L. 96–53, §113(2), reworked activity objectives through rev
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of this title.
-
-#### Transfer of Functions
-
-“Director”, meaning Director of the United States International Development Cooperation Agency, substituted for “Administrator”, meaning Administrator of the Agency for International Development, in subsec. (d), pursuant to Reorg. Plan No. 2 of 1979, §6(a)(1), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred functions and authorities of Administrator of Agency for International Development under subsec. (d) of this section to Director of United States International Development Cooperation Agency.
-
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

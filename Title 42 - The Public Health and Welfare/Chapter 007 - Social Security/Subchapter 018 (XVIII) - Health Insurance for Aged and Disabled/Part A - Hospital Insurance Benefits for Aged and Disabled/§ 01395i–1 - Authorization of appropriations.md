@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
 
-&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under this part with respect to individuals who are qualified railroad retirement beneficiaries (as defined in section 426(c) of this title) and who are not, and upon filing application for monthly insurance benefits under section 402 of this title would not be, entitled to such benefits if service as an employee (as defined in the Railroad Retirement Act of 1937 \[45 U.S.C. 228a et seq.\]) after December 31, 1936, had been included in the term “employment” as defined in this chapter,
+&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund underthis part with respect to individuals who are qualified railroad retirement beneficiaries (as defined in section 426(c) of this title) and who are not, and upon filing application for monthly insurance benefits under section 402 of this title would not be, entitled to such benefits if service as an employee (as defined in the Railroad Retirement Act of 1937 \[45 U.S.C. 228a et seq.\]) after December 31, 1936, had been included in the term “employment” as defined in this chapter,
 
 &emsp;(2) the additional administrative expenses resulting or expected to result therefrom, and
 

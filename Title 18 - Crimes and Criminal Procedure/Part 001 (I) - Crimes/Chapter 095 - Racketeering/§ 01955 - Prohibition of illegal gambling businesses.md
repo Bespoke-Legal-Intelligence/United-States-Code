@@ -16,7 +16,7 @@
 
 &emsp;(3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(c) If five or more persons conduct, finance, manage, supervise, direct, or own all or part ofa gambling business and such business operates for two or more successive days, then, for the purpose of obtaining warrants for arrests, interceptions, and other searches and seizures, probable cause that the business receives gross revenue in excess of $2,000 in any single day shall be deemed to have been established.
+(c) If five or more persons conduct, finance, manage, supervise, direct, or own all or part of a gambling business and such business operates for two or more successive days, then, for the purpose of obtaining warrants for arrests, interceptions, and other searches and seizures, probable cause that the business receives gross revenue in excess of $2,000 in any single day shall be deemed to have been established.
 
 (d) Any property, including money, used in violation of the provisions of this section may be seized and forfeited to the United States. All provisions of law relating to the seizures, summary, and judicial forfeiture procedures, and condemnation of vessels, vehicles, merchandise, and baggage for violation of the customs laws; the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from such sale; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred or alleged to have been incurred under the provisions of this section, insofar as applicable and not inconsistent with such provisions. Such duties as are imposed upon the collector of customs or any other person in respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the customs laws shall be performed with respect to seizures and forfeitures of property used or intended for use in violation of this section by such officers, agents, or other persons as may be designated for that purpose by the Attorney General.
 
@@ -88,7 +88,7 @@ In general.—The Commissioners shall be appointed for the life of the Commissio
 
 &emsp;“(2)
 
-Persons eligible.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission under section 4. The members may be from the public or private sector, and may include Federal, State, local, or Native American tribal officers or employees, members of academia, non-profit organizations, or industry, or other interested individuals.
+Persons eligible.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission under section 4.The members may be from the public or private sector, and may include Federal, State, local, or Native American tribal officers or employees, members of academia, non-profit organizations, or industry, or other interested individuals.
 
 &emsp;“(3)
 
@@ -96,7 +96,7 @@ Consultation required.—The President, the Speaker of the House of Representati
 
 &emsp;“(4)
 
-Completion of appointments; vacancies.—The President, the Speaker of the House of Representatives, and the Majority Leader of the Senate shall conduct the consultation required under paragraph\(3) and shall each make their respective appointments not later than 60 days after the date of enactment of this Act \[Aug. 3, 1996\]. Any vacancy that occurs during the life of the Commission shall not affect the powers of the Commission, and shall be filled in the same manner as the original appointment not later than 60 days after the vacancy occurs.
+Completion of appointments; vacancies.—The President, the Speaker of the House of Representatives, and the Majority Leader of the Senate shall conduct the consultation required under paragraph (3) and shall each make their respective appointments not later than 60 days after the date of enactment of this Act \[Aug. 3, 1996\]. Any vacancy that occurs during the life of the Commission shall not affect the powers of the Commission, and shall be filled in the same manner as the original appointment not later than 60 days after the vacancy occurs.
 
 &emsp;“(5)
 
@@ -180,7 +180,7 @@ Certification.—Each person who submits materials or information to the Commiss
 
 &emsp;“(4)
 
-Treatment of subpoenas.—Any subpoena issued by the Commission under paragraph (1) or (2) shall comply with the requirements for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure \[28 App. U.S.C.\].
+Treatment of subpoenas.—Any subpoena issued by the Commission under paragraph (1) or (2)shall comply with the requirements for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure \[28 App. U.S.C.\].
 
 &emsp;“(5)
 

@@ -40,7 +40,7 @@ Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions a
 
 #### Savings Provision
 
-Pub. L. 100–239, §6(b), Jan. 11, 1988, 101 Stat. 1782, provided that: “Notwithstanding the requirements ofchapter 121 of title 46, United States Code, a vessel for which a coastwise, Great Lakes, or fishery license, or an appropriately endorsed registry, was issued before July 28, 1987, may continue to be employed in the specified trades for which it was qualified at the time the license or registry was issued for one year from date of enactment \[Jan. 11, 1988\] or until the certificate of documentation is renewed, whichever comes later. On renewal, the owner or master of a documented vessel shall make the vessel's certificate of documentation available as the law or Secretary may require for replacement with an appropriately endorsed certificate.”
+Pub. L. 100–239, §6(b), Jan. 11, 1988, 101 Stat. 1782, provided that: “Notwithstanding the requirements of chapter 121 of title 46, United States Code, a vessel for which a coastwise, Great Lakes, or fishery license, or an appropriately endorsed registry, was issued before July 28, 1987, may continue to be employed in the specified trades for which it was qualified at the time the license or registry was issued for one year from date of enactment \[Jan. 11, 1988\] or until the certificate of documentation is renewed, whichever comes later. On renewal, the owner or master of a documented vessel shall make the vessel's certificate of documentation available as the law or Secretary may require for replacement with an appropriately endorsed certificate.”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@ Subject to regulations under section 205 of the Federal Property and Administrat
 
 > to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine Corps League for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 465; Jan. 3, 1975, Pub. L. 93–628, §1, 88 Stat. 2147; Dec. 12, 1980, Pub. L. 96–513, title V, §513(39), 94 Stat. 2934.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 465; Pub. L. 93–628, §1, Jan. 3, 1975, 88 Stat. 2147; Pub. L. 96–513, title V, §513(39), Dec. 12, 1980, 94 Stat. 2934.)
 
 Historical and Revision Notes
 

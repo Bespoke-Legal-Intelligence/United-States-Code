@@ -48,7 +48,7 @@ Unless otherwise provided by law, any amount paid under this section shall be pa
 
 For purposes of this section, an amount recovered under a bail bond shall be deemed a recovery of a fine incurred.
 
-(June 17, 1930, ch. 497, title IV, §619, 46 Stat. 758; Aug. 5, 1935, ch. 438, title III, §305, 49 Stat. 527; Oct. 12, 1984, Pub. L. 98–473, title II, §§319, 321, 98 Stat. 2056; Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(15), 98 Stat. 2988; Oct. 27, 1986, Pub. L. 99–570, title III, §3125, 100 Stat. 3207–88.)
+(June 17, 1930, ch. 497, title IV, §619, 46 Stat. 758; Aug. 5, 1935, ch. 438, title III, §305, 49 Stat. 527; Pub. L. 98–473, title II, §§319, 321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(15), Oct. 30, 1984, 98 Stat. 2988; Pub. L. 99–570, title III, §3125, Oct. 27, 1986, 100 Stat. 3207–88.)
 
 #### References in Text
 
@@ -66,7 +66,7 @@ Section 2 of the act of June 22, 1874, ch. 391, repealed all provisions under wh
 
 Section 26 of that Act repealed inconsistent laws and saved existing rights. It was omitted from the Code as temporary and executed.
 
-R.S. §2948, providing that additional duties were not to be deemed fines, etc., for distribution to customs officers, became inoperative by the repeal of all provisions for payment of moieties of fines, etc., to informers or officers, by the act of June 2, 1874, ch. 391, §2, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2948, providing that additional duties were not to be deemed fines, etc., for distribution to customs officers, became inoperative by the repeal of all provisions for payment of moieties of fines, etc., to informers or officers, by the act of June 2, 1874, ch. 391, §2, andwas repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 An appropriation for compensation in lieu of moieties was made by act Mar. 2, 1926, ch. 43, §1, 44 Stat. 141. Similar appropriations were contained in prior acts.
 

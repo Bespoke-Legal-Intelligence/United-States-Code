@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–238, §2, Mar. 1, 1972, 86 Stat. 46, added item 677.
+1972—Pub. L. 92–238, §2, Mar. 1, 1972, 86 Stat. 46, added item 677.
 
 #### Cross References
 

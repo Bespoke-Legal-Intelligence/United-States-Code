@@ -22,7 +22,7 @@ Chapter 43 contains the laws applicable to recreational vessels, which originate
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2102, 4105 of this title; title 15 section 2052.
+This chapter is referred to in sections 2102, 4105, 13106 of this title; title 15 section 2052.
 
 
 ---

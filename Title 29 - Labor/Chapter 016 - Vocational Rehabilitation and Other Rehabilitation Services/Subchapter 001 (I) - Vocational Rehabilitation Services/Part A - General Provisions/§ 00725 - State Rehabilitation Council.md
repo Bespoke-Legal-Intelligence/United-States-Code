@@ -1,0 +1,246 @@
+### §725. State Rehabilitation Council
+
+#### (a) Establishment
+
+#### (1) In general
+
+&emsp;Except as provided in section 721(a)(21)(A)(i) of this title, to be eligible to receive financial assistance under this subchapter a State shall establish a State Rehabilitation Council (referred to in this section as the “Council”) in accordance with this section.
+
+#### (2) Separate agency for individuals who are blind
+
+&emsp;A State that designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind under section 721(a)(2)(A)(i) of this title may establish a separate Council in accordance with this section to perform the duties of such a Council with respect to such State agency.
+
+#### (b) Composition and appointment
+
+#### (1) Composition
+
+#### (A) In general
+
+&emsp;&emsp;Except in the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+
+&emsp;&emsp;&emsp;(i) at least one representative of the Statewide Independent Living Council established under section 796d of this title, which representative may be the chairperson or other designee of the Council;
+
+&emsp;&emsp;&emsp;(ii) at least one representative of a parent training and information center established pursuant to section 682(a) of the Individuals with Disabilities Education Act \[20 U.S.C. 1482(a)\] (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17);
+
+&emsp;&emsp;&emsp;(iii) at least one representative of the client assistance program established under section 732 of this title;
+
+&emsp;&emsp;&emsp;(iv) at least one qualified vocational rehabilitation counselor, with knowledge of and experience with vocational rehabilitation programs, who shall serve as an ex officio, nonvoting member of the Council if the counselor is an employee of the designated State agency;
+
+&emsp;&emsp;&emsp;(v) at least one representative of community rehabilitation program service providers;
+
+&emsp;&emsp;&emsp;(vi) four representatives of business, industry, and labor;
+
+&emsp;&emsp;&emsp;(vii) representatives of disability advocacy groups representing a cross section of—
+
+&emsp;&emsp;&emsp;&emsp;(I) individuals with physical, cognitive, sensory, and mental disabilities; and
+
+&emsp;&emsp;&emsp;&emsp;(II) individuals’ representatives of individuals with disabilities who have difficulty in representing themselves or are unable due to their disabilities to represent themselves;
+
+&emsp;&emsp;&emsp;(viii) current or former applicants for, or recipients of, vocational rehabilitation services;
+
+&emsp;&emsp;&emsp;(ix) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects;
+
+&emsp;&emsp;&emsp;(x) at least one representative of the State educational agency responsible for the public education of students with disabilities who are eligible to receive services under this subchapter and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\]; and
+
+&emsp;&emsp;&emsp;(xi) at least one representative of the State workforce investment board.
+
+#### (B) Separate Council
+
+&emsp;&emsp;In the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+
+&emsp;&emsp;&emsp;(i) at least one representative described in subparagraph (A)(i);
+
+&emsp;&emsp;&emsp;(ii) at least one representative described in subparagraph (A)(ii);
+
+&emsp;&emsp;&emsp;(iii) at least one representative described in subparagraph (A)(iii);
+
+&emsp;&emsp;&emsp;(iv) at least one vocational rehabilitation counselor described in subparagraph (A)(iv), who shall serve as described in such subparagraph;
+
+&emsp;&emsp;&emsp;(v) at least one representative described in subparagraph (A)(v);
+
+&emsp;&emsp;&emsp;(vi) four representatives described in subparagraph (A)(vi);
+
+&emsp;&emsp;&emsp;(vii) at least one representative of a disability advocacy group representing individuals who are blind;
+
+&emsp;&emsp;&emsp;(viii) at least one individual's representative, of an individual who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is an individual who is blind and has multiple disabilities; and
+
+&emsp;&emsp;&emsp;&emsp;(II) has difficulty in representing himself or herself or is unable due to disabilities to represent himself or herself;
+
+&emsp;&emsp;&emsp;(ix) applicants or recipients described in subparagraph (A)(viii);
+
+&emsp;&emsp;&emsp;(x) in a State described in subparagraph (A)(ix), at least one representative described in such subparagraph;
+
+&emsp;&emsp;&emsp;(xi) at least one representative described in subparagraph (A)(x); and
+
+&emsp;&emsp;&emsp;(xii) at least one representative described in subparagraph (A)(xi).
+
+#### (C) Exception
+
+&emsp;&emsp;In the case of a separate Council established under subsection (a)(2) of this section, any Council that is required by State law, as in effect on October 29, 1992, to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
+
+&emsp;&emsp;&emsp;(i) meets the requirements of subparagraph (B), other than the requirements of clauses (vi) and (ix) of such subparagraph; and
+
+&emsp;&emsp;&emsp;(ii) includes at least—
+
+&emsp;&emsp;&emsp;&emsp;(I) one representative described in subparagraph (B)(vi); and
+
+&emsp;&emsp;&emsp;&emsp;(II) one applicant or recipient described in subparagraph (B)(ix).
+
+#### (2) Ex officio member
+
+&emsp;The Director of the designated State unit shall be an ex officio, nonvoting member of the Council.
+
+#### (3) Appointment
+
+&emsp;Members of the Council shall be appointed by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity. The appointing authority shall select members after soliciting recommendations from representatives of organizations representing a broad range of individuals with disabilities and organizations interested in individuals with disabilities. In selecting members, the appointing authority shall consider, to the greatest extent practicable, the extent to which minority populations are represented on the Council.
+
+#### (4) Qualifications
+
+#### (A) In general
+
+&emsp;&emsp;A majority of Council members shall be persons who are—
+
+&emsp;&emsp;&emsp;(i) individuals with disabilities described in section 705(20)(B) of this title; and
+
+&emsp;&emsp;&emsp;(ii) not employed by the designated State unit.
+
+#### (B) Separate Council
+
+&emsp;&emsp;In the case of a separate Council established under subsection (a)(2) of this section, a majority of Council members shall be persons who are—
+
+&emsp;&emsp;&emsp;(i) blind; and
+
+&emsp;&emsp;&emsp;(ii) not employed by the designated State unit.
+
+#### (5) Chairperson
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the Council shall select a chairperson from among the membership of the Council.
+
+#### (B) Designation by chief executive officer
+
+&emsp;&emsp;In States in which the chief executive officer does not have veto power pursuant to State law, the appointing authority described in paragraph (3) shall designate a member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a member.
+
+#### (6) Terms of appointment
+
+#### (A) Length of term
+
+&emsp;&emsp;Each member of the Council shall serve for a term of not more than 3 years, except that—
+
+&emsp;&emsp;&emsp;(i) a member appointed to fill a vacancy occurring prior to the expiration of theterm for which a predecessor was appointed, shall be appointed for the remainder of such term; and
+
+&emsp;&emsp;&emsp;(ii) the terms of service of the members initially appointed shall be (as specified by the appointing authority described in paragraph (3)) for such fewer number of years as will provide for the expiration of terms on a staggered basis.
+
+#### (B) Number of terms
+
+&emsp;&emsp;No member of the Council, other than a representative described in clause (iii) or (ix) of paragraph (1)(A), or clause (iii) or (x) of paragraph (1)(B), may serve more than two consecutive full terms.
+
+#### (7) Vacancies
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), any vacancy occurring in the membership of the Council shall be filled in the same manner as the original appointment. The vacancy shall not affect the power of the remaining members to execute the duties of the Council.
+
+#### (B) Delegation
+
+&emsp;&emsp;The appointing authority described in paragraph (3) may delegate the authority to fill such a vacancy to the remaining members of the Council after making the original appointment.
+
+#### (c) Functions of Council
+
+The Council shall, after consulting with the State workforce investment board—
+
+&emsp;(1) review, analyze, and advise the designated State unit regarding the performance of the responsibilities of the unit under this subchapter, particularly responsibilities relating to—
+
+&emsp;&emsp;(A) eligibility (including order of selection);
+
+&emsp;&emsp;(B) the extent, scope, and effectiveness of services provided; and
+
+&emsp;&emsp;(C) functions performed by State agencies that affect or that potentially affect the ability of individuals with disabilities in achieving employment outcomes under this subchapter;
+
+&emsp;(2) in partnership with the designated State unit—
+
+&emsp;&emsp;(A) develop, agree to, and review State goals and priorities in accordance with section 721(a)(15)(C) of this title; and
+
+&emsp;&emsp;(B) evaluate the effectiveness of the vocational rehabilitation program and submit reports of progress to the Commissioner in accordance with section 721(a)(15)(E) of this title;
+
+&emsp;(3) advise the designated State agency and the designated State unit regarding activities authorized to be carried out under this subchapter, and assist in the preparation of the State plan and amendments to the plan, applications, reports, needs assessments, and evaluations required by this subchapter;
+
+&emsp;(4) to the extent feasible, conduct a review and analysis of the effectiveness of, and consumer satisfaction with—
+
+&emsp;&emsp;(A) the functions performed by the designated State agency;
+
+&emsp;&emsp;(B) vocational rehabilitation services provided by State agencies and other public and private entities responsible for providing vocational rehabilitation services to individuals with disabilities under this chapter; and
+
+&emsp;&emsp;(C) employment outcomes achieved by eligible individuals receiving services under this subchapter, including the availability of health and other employment benefits in connection with such employment outcomes;
+
+&emsp;(5) prepare and submit an annual report to the Governor and the Commissioner on the status of vocational rehabilitation programs operated within the State, and make the report available to the public;
+
+&emsp;(6) to avoid duplication of efforts and enhance the number of individuals served, coordinate activities with the activities of other councils within the State, including the Statewide Independent Living Council established under section 796d of this title, the advisory panel established under section 612(a)(21) of the Individual <sup>1</sup> with Disabilities Education Act \[20 U.S.C. 1412(a)(21)\] (as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17), the State Developmental Disabilities Council described in section 6024 of title 42, the State mental health planning council established under section 300x–3(a) of title 42, and the State workforce investment board;
+
+&emsp;(7) provide for coordination and the establishment of working relationships between the designated State agency and the Statewide Independent Living Council and centers for independent living within the State; and
+
+&emsp;(8) perform such other functions, consistent with the purpose of this subchapter, as the State Rehabilitation Council determines to be appropriate, that are comparable to the other functions performed by the Council.
+
+#### (d) Resources
+
+#### (1) Plan
+
+&emsp;The Council shall prepare, in conjunction with the designated State unit, a plan for the provision of such resources, including such staff and other personnel, as may be necessary and sufficient to carry out the functions of the Council under this section. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
+
+#### (2) Resolution of disagreements
+
+&emsp;To the extent that there is a disagreement between the Council and the designated State unit in regard to the resources necessary to carry out the functions of the Council as set forth in this section, the disagreement shall be resolved by the Governor consistent with paragraph (1).
+
+#### (3) Supervision and evaluation
+
+&emsp;Each Council shall, consistent with State law, supervise and evaluate such staff andother personnel as may be necessary to carry out its functions under this section.
+
+#### (4) Personnel conflict of interest
+
+&emsp;While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State unit or any other agency or office of the State, that would create a conflict of interest.
+
+#### (e) Conflict of interest
+
+No member of the Council shall cast a vote on any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest under State law.
+
+#### (f) Meetings
+
+The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
+
+#### (g) Compensation and expenses
+
+The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under section 732 of this title and funds reserved pursuant to section 730(c) of this title to carry out part C of this subchapter) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
+
+#### (h) Hearings and forums
+
+The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
+
+(Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415.)
+
+#### References in Text
+
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A)(x), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+#### Prior Provisions
+
+A prior section 725, Pub. L. 93–112, title I, §105, as added Pub. L. 102–569, title I, §126(a), Oct. 29, 1992, 106 Stat. 4381; amended Pub. L. 103–73, title I, §107(d)(1), Aug. 11, 1993, 107 Stat. 721, related to State Rehabilitation Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+#### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
+
+Subsec. (b)(4)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(B)\], substituted “section 705(20)(B)” for “section 705(20)(A)”.
+
+Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(C)\], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
+
+Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(6)(D)\], substituted “appointing authority described in paragraph (3)” for “Governor”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 705, 721, 727, 796d of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Individuals”.</i>
+

@@ -12,7 +12,7 @@ For purposes of this section, the term “balance ratio” means, with respect t
 
 &emsp;(2) the total amount which (for amounts which will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, as estimated by the Commissioner, and for amounts which will be paid from the Federal Hospital Insurance Trust and the Federal Supplementary Medical Insurance Trust Fund, as estimated by the Secretary) will be paid from such Trust Fund during such calendar year for all purposes authorized by section 401, 1395i, or 1395t of this title (as applicable), other than payments of interest on, or repayments of, loans under section 401(<i>l</i>) or 1395i(j) of this title, but excluding any transfer payments between such Trust Fund and any other Trust Fund referred to in subsection (a) of this section and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into such Trust Fund from that Account.
 
-(Aug. 14, 1935, ch. 531, title VII, §709, as added Apr. 20, 1983, Pub. L. 98–21, title I, §143, 97 Stat. 102; amended Apr. 7, 1986, Pub. L. 99–272, title XII, §12106, 100 Stat. 286; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Aug. 15, 1994, Pub. L. 103–296, title I, §108(a)(3), 108 Stat. 1481.)
+(Aug. 14, 1935, ch. 531, title VII, §709, as added Pub. L. 98–21, title I, §143, Apr. 20, 1983, 97 Stat. 102; amended Pub. L. 99–272, title XII, §12106, Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(a)(3), Aug. 15, 1994, 108 Stat. 1481.)
 
 #### References in Text
 

@@ -30,7 +30,7 @@ For the purposes of this subsection, the investment adviser of a registered inve
 
 For the purposes of subsections (a) and (b) of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
 
-(Aug. 22, 1940, ch. 686, title I, §36, 54 Stat. 841; Dec. 14, 1970, Pub. L. 91–547, §20, 84 Stat. 1428; June 4, 1975, Pub. L. 94–29, §28(7), 89 Stat. 166; Dec. 4, 1987, Pub. L. 100–181, title VI, §622, 101 Stat. 1262.)
+(Aug. 22, 1940, ch. 686, title I, §36, 54 Stat. 841; Pub. L. 91–547, §20, Dec. 14, 1970, 84 Stat. 1428; Pub. L. 94–29, §28(7), June 4, 1975, 89 Stat. 166; Pub. L. 100–181, title VI, §622, Dec. 4, 1987, 101 Stat. 1262.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 #### (1) In general
 
-&emsp;For an alien for whom an affidavit of support under section 213A of the Immigrationand Nationality Act \[8 U.S.C. 1183a\] has been executed, if a determination described in paragraph (2) is made, the amount of income and resources of the sponsor or the sponsor's spouse which shall be attributed to the sponsored alien shall not exceed the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date.
+&emsp;For an alien for whom an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] has been executed, if a determination described in paragraph (2) is made, the amount of income and resources of the sponsor or the sponsor's spouse which shall be attributed to the sponsored alien shall not exceed the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date.
 
 #### (2) Determination described
 
@@ -50,7 +50,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 &emsp;The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.
 
-(Pub. L. 104–193, title IV, §421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, §5571(d), Aug. 5, 1997, 111 Stat. 641.)
+(Pub. L. 104–193, title IV, §421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V,§§551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, §5571(d), Aug. 5, 1997, 111 Stat. 641.)
 
 #### References in Text
 

@@ -44,7 +44,7 @@
 
 (f) The Special Counsel may not issue any advisory opinion concerning any law, rule, or regulation (other than an advisory opinion concerning chapter 15 or subchapter III of chapter 73).
 
-(g)(1) The Special Counsel may not respond to any inquiry or disclose any information from or about any person making an allegation under section 1214(a), except in accordance with the provisions of section 552a of title 5, United States Code, or as required by any other applicable Federal law.
+(g)(1) The Special Counsel may not respond to any inquiry or disclose any information from or about any person making an allegation undersection 1214(a), except in accordance with the provisions of section 552a of title 5, United States Code, or as required by any other applicable Federal law.
 
 (2) Notwithstanding the exception under paragraph (1), the Special Counsel may not respond to any inquiry concerning an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any person described in paragraph (1)—
 

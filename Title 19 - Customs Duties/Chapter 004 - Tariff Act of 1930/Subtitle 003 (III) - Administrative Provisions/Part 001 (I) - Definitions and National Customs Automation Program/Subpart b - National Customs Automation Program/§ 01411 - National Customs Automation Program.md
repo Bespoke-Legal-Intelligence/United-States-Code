@@ -40,7 +40,7 @@ The Secretary shall establish the National Customs Automation Program (hereinaft
 
 The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. Participation in the Program is voluntary.
 
-(June 17, 1930, ch. 497, title IV, §411, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §631(2), 107 Stat. 2188.)
+(June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188.)
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §495. Leases of lands for sanitariums or hotels
 
-The Secretary of Agriculture is authorized, under such rules and regulations as he from time to time may make, to rent or lease to responsible persons or corporations applying therefor suitable spaces and portions of ground near, or adjacent to, mineral, medicinal, or other springs, within any national forest established within the United States, or hereafter to be established, and where the public is accustomed or desires to frequent, for health or pleasure, for the purpose of erecting upon such leased ground sanitariums or hotels, to be opened for the reception of the public. And he is further authorized to make such regulations, for the convenience of people visiting such springs, with reference to spaces and locations, for the erection of tents or temporary dwelling houses to be erected or constructed for the use of those visiting such springs for health or pleasure. And the Secretary of Agriculture is authorized to prescribe the terms and duration and the compensation to be paid for the privileges granted under the provisions of this section.
+The Secretary of Agriculture is authorized, under such rules and regulations as he from time to time may make, to rent or lease to responsible persons or corporations applying therefor suitable spaces and portions of ground near, or adjacent to, mineral, medicinal, orother springs, within any national forest established within the United States, or hereafter to be established, and where the public is accustomed or desires to frequent, for health or pleasure, for the purpose of erecting upon such leased ground sanitariums or hotels, to be opened for the reception of the public. And he is further authorized to make such regulations, for the convenience of people visiting such springs, with reference to spaces and locations, for the erection of tents or temporary dwelling houses to be erected or constructed for the use of those visiting such springs for health or pleasure. And the Secretary of Agriculture is authorized to prescribe the terms and duration and the compensation to be paid for the privileges granted under the provisions of this section.
 
 (Feb. 28, 1899, ch. 221, §1, 30 Stat. 908; Feb. 1, 1905, ch. 288, §1, 33 Stat. 628.)
 
@@ -14,7 +14,7 @@ Act Feb. 1, 1905 transferred certain functions with regard to administration of 
 
 #### Cross References
 
-Contracts for sale of forest products, use of national-forest lands, etc., exempt from requirements of section20 of Title 41 where amount involved is less than $300, see section 20a of Title 41, Public Contracts.
+Contracts for sale of forest products, use of national-forest lands, etc., exempt from requirements of section 20 of Title 41 where amount involved is less than $300, see section 20a of Title 41, Public Contracts.
 
 Use and occupation of lands in national forests for summer homes, hotels, stores, and other recreation facilities, see section 497 of this title.
 

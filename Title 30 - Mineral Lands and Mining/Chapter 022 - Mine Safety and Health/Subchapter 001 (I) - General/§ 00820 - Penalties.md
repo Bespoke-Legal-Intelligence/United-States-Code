@@ -18,7 +18,7 @@ Any operator who willfully violates a mandatory health or safety standard, or kn
 
 #### (e) Unauthorized advance notice of inspections
 
-Unless otherwise authorized by this chapter, any person who gives advance notice of any inspection to be conducted under this chapter shall, upon conviction, be punished by a fine ofnot more than $1,000 or by imprisonment for not more than six months, or both.
+Unless otherwise authorized by this chapter, any person who gives advance notice of any inspection to be conducted under this chapter shall, upon conviction, be punished by a fine of not more than $1,000 or by imprisonment for not more than six months, or both.
 
 #### (f) False statements, representations, or certifications
 
@@ -26,7 +26,7 @@ Whoever knowingly makes any false statement, representation, or certification in
 
 #### (g) Violation by miners of safety standards relating to smoking
 
-Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, or lighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
+Any miner who willfully violates the mandatory safety standards relating to smoking or the carrying of smoking materials, matches, orlighters shall be subject to a civil penalty assessed by the Commission, which penalty shall not be more than $250 for each occurrence of such violation.
 
 #### (h) Equipment falsely represented as complying with statute, specification, or regulations
 

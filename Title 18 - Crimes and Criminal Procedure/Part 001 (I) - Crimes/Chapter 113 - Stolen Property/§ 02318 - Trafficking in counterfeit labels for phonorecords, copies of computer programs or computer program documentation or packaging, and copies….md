@@ -20,7 +20,7 @@
 
 &emsp;(4) the counterfeited documentation or packaging for a computer program is copyrighted.
 
-(d) When any person is convicted of any violation of subsection (a), the court in its judgmentof conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels and all articles to which counterfeit labels have been affixed or which were intended to have had such labels affixed.
+(d) When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels and all articles to which counterfeit labels have been affixed or which were intended to have had such labels affixed.
 
 (e) Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).
 

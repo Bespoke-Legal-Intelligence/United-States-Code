@@ -66,11 +66,11 @@ The items and services to which this section applies are all items and services 
 
 Notwithstanding any other provision of this section, all projects under this section shall terminate not later than December 31, 2002.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4319(a), 111 Stat. 392.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392.)
 
 #### Prior Provisions
 
-A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
+A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L.100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
 
 #### Study by GAO
 

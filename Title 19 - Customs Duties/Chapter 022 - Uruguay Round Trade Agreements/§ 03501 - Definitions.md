@@ -6,7 +6,7 @@ For purposes of this Act:
 
 #### (A) GATT 1947
 
-&emsp;&emsp;The term “GATT 1947” means the General Agreement on Tariffs and Trade, dated October 30, 1947, annexed to the Final Act Adopted at the Conclusion of the Second Session of the Preparatory Committee of the United Nations Conference on Trade and Employment, as subsequently rectified, amended, or modified by the terms of legal instruments which have entered into force before the date of entry into force of the WTO Agreement.
+&emsp;&emsp;The term “GATT 1947” means the General Agreement on Tariffs and Trade, dated October 30, 1947, annexed to the Final Act Adopted at the Conclusion of the Second Session of the Preparatory Committee of the United Nations Conference on Trade and Employment, as subsequently rectified, amended, ormodified by the terms of legal instruments which have entered into force before the date of entry into force of the WTO Agreement.
 
 #### (B) GATT 1994
 
@@ -66,5 +66,5 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1671, 1677, 1677k, 2252, 2462, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3535 of this title; title 7 section 624; title 15 section 1052; title 17 section 104A; title 35 section 104.
+This section is referred to in sections 1671, 1677, 1677k, 2252, 2462, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3535 of this title; title 7 section 624; title 15 section 1052; title 17 sections 101, 104A; title 35 section 104.
 

@@ -32,7 +32,7 @@ As part of the management plan, the Secretary, with the advice of the Advisory B
 
 &emsp;(2) the projected time frame for commercial availability, specifying at a minimum whether the technology will be commercially available in the near-term, mid-term, or long-term, whether there are too many uncertainties to project availability, or whether it is unlikely that the technology will ever be commercial; and
 
-&emsp;(3) a projection of the future cost-competitiveness of the technology in comparison withalternative technologies to provide the same energy service.
+&emsp;(3) a projection of the future cost-competitiveness of the technology in comparison with alternative technologies to provide the same energy service.
 
 #### (d) Public comment
 

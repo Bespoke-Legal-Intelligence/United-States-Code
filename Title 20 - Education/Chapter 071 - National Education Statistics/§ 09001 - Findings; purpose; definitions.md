@@ -22,7 +22,7 @@ For the purpose of this chapter and unless otherwise specified—
 
 &emsp;(2) the term “Department” means the Department of Education;
 
-&emsp;(3) the term “institution of higher education” has the same meaning given such term in section 1141(a) of this title;
+&emsp;(3) the term “institution of higher education” has the same meaning given such term in section 1001 of this title;
 
 &emsp;(4) the term “local educational agency” has the same meaning given such term in section 8801 of this title;
 
@@ -36,11 +36,19 @@ For the purpose of this chapter and unless otherwise specified—
 
 &emsp;&emsp;(B) for the purpose of section 9010 of this title, have the same meaning given such terms in subparagraph (A), except that such terms include Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and Palau.
 
-(Pub. L. 103–382, title IV, §402, Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 103–382, title IV, §402, Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(6)(L), Oct. 7, 1998, 112 Stat. 1619.)
 
 #### References in Text
 
 The reference to section 3412(b)(1)(E) of this title in subsec. (c)(1) probably should be a reference to section 3412(b)(3) of this title. Pub. L. 103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223, amended section 3412 by striking out subsec. (b)(1)(E) which related to an Assistant Secretary for Educational Research and Improvement, redesignating subsec. (b)(1)(F) as (b)(1)(E), and adding a subsec. (b)(3) which relates to an Assistant Secretary for Educational Research and Improvement.
+
+#### Amendments
+
+1998—Subsec. (c)(3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Short Title
 

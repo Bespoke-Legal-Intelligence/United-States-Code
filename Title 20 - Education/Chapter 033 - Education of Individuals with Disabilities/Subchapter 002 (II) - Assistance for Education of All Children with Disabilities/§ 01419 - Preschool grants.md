@@ -92,7 +92,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (2) Amount described
 
-&emsp;For each fiscal year, the Secretary shall determine and report to the State educationalagency an amount that is 25 percent of the amount the State received under this section for fiscal year 1997, cumulatively adjusted by the Secretary for each succeeding fiscal year by the lesser of—
+&emsp;For each fiscal year, the Secretary shall determine and report to the State educational agency an amount that is 25 percent of the amount the State received under this section for fiscal year 1997, cumulatively adjusted by the Secretary for each succeeding fiscal year by the lesser of—
 
 &emsp;&emsp;(A) the percentage increase, if any, from the preceding fiscal year in the State's allocation under this section; or
 
@@ -118,7 +118,7 @@ Each State shall use any funds it retains under subsection (d) of this section a
 
 &emsp;(3) to develop a State improvement plan under part A of subchapter IV of this chapter;
 
-&emsp;(4) for activities at the State and local levels to meet the performance goals established by the State under section 1412(a)(16) of this title and to support implementation of the State improvement plan under part A of subchapter IV of this chapter if the State receives funds under that part; or
+&emsp;(4) for activities at the State and local levels to meet the performance goals established by the State under section 1412(a)(16) of this titleand to support implementation of the State improvement plan under part A of subchapter IV of this chapter if the State receives funds under that part; or
 
 &emsp;(5) to supplement other funds used to develop and implement a Statewide coordinated services system designed to improve results for children and families, including children with disabilities and their families, but not to exceed one percent of the amount received by the State under this section for a fiscal year.
 
@@ -164,7 +164,7 @@ Section 619(c)(3), as then in effect, referred to in subsec. (g)(1)(A), means se
 
 #### Prior Provisions
 
-A prior section 1419, Pub. L. 91–230, title VI, §619, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793;amended Pub. L. 98–199, §§3(b), 9, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title II, §201(a), Oct. 8, 1986, 100 Stat. 1155; Pub. L. 100–630, title I, §102(i), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title IX, §901(b)(79)–(93), Oct. 30, 1990, 104 Stat. 1145, 1146; Pub. L. 102–119, §§7, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1419, Pub. L. 91–230, title VI, §619, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §§3(b), 9, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title II, §201(a), Oct. 8, 1986, 100 Stat. 1155; Pub. L. 100–630, title I, §102(i), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title IX, §901(b)(79)–(93), Oct. 30, 1990, 104 Stat. 1145, 1146; Pub. L. 102–119, §§7, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 A prior section 1420, Pub. L. 91–230, title VI, §620, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358, which related to payments to States and distribution by States to local educational agencies and intermediate educational units, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
@@ -196,5 +196,5 @@ Section 110 of Pub. L. 100–630, as amended by Pub. L. 101–476, title IX, §9
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1411, 1453, 1461, 1476 of this title.
+This section is referred to in sections 1411, 1453, 1461 of this title.
 

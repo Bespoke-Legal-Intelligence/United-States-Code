@@ -16,7 +16,7 @@ No owner or manager of any federally assisted rental housing for the elderly or 
 
 #### (c) Removal of pets constituting a nuisance
 
-Nothing in this section may be construed to prohibit any owner or manager of federally assisted rental housing for the elderly or handicapped, or any local housing authority or other appropriate authority of the community where such housing is located, from requiring the removal from any such housing of any pet whose conduct or condition is duly determined to constitute a nuisance or a threat to the health or safety of the other occupants of such housing or of other persons in the community where such housing is located.
+Nothing in this section may be construed to prohibit any owner or manager of federally assisted rental housing for the elderly or handicapped, or any local housing authority or other appropriate authority of the community where such housing is located, from requiring the removal from any such housing of any pet whoseconduct or condition is duly determined to constitute a nuisance or a threat to the health or safety of the other occupants of such housing or of other persons in the community where such housing is located.
 
 #### (d) “Federally assisted rental housing for the elderly or handicapped” defined
 
@@ -41,6 +41,10 @@ Section 1701q of this title, referred to in subsec. (d)(2), was amended generall
 #### Codification
 
 Section was enacted as part of the Housing and Urban–Rural Recovery Act of 1983 and also as part of the Domestic Housing and International Recovery and Financial Stability Act, and not as part of the National Housing Act which comprises this chapter.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 1437z–3.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

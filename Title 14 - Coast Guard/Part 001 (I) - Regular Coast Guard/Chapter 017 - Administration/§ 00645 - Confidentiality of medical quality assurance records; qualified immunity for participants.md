@@ -36,13 +36,13 @@
 
 (f) Medical quality assurance records may not be made available to any person under section 552 of title 5.
 
-(g) An individual who participates in or provides information to an individual that reviews or creates medical quality assurance records is not civilly liable for participating or providing the information if the participation or provision of information was in good faith based on prevailing professional standards at the time the medical quality assurance program activity took place.
+(g) An individual who participates in or provides information to an individual that reviewsor creates medical quality assurance records is not civilly liable for participating or providing the information if the participation or provision of information was in good faith based on prevailing professional standards at the time the medical quality assurance program activity took place.
 
 (h) Nothing in this section shall be construed as—
 
 &emsp;(1) authority to withhold from any person aggregate statistical information regarding the results of Coast Guard medical quality assurance programs;
 
-&emsp;(2) authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the General Accounting Officeif the record pertains to any matter within their respective jurisdictions;
+&emsp;(2) authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the General Accounting Office if the record pertains to any matter within their respective jurisdictions;
 
 &emsp;(3) limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 

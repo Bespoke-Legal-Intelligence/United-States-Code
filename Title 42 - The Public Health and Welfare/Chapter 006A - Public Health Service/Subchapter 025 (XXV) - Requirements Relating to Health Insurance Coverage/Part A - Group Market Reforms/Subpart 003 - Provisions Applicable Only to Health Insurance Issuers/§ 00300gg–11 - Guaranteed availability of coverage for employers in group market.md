@@ -36,7 +36,7 @@
 
 #### (3) GAO report on large employer access to health insurance coverage
 
-&emsp;The Comptroller General shall provide for a study of the extent to which classes of large employers in the different States are able to obtain access to health insurance coverage and the circumstances for lack of access (if any) to such coverage. The Comptroller General shall submit to Congress a report on such study not later than 18 months after August 21, 1996.
+&emsp;The Comptroller General shall provide for a study of the extent to which classes of large employers in the different States are able toobtain access to health insurance coverage and the circumstances for lack of access (if any) to such coverage. The Comptroller General shall submit to Congress a report on such study not later than 18 months after August 21, 1996.
 
 #### (c) Special rules for network plans
 
@@ -88,7 +88,7 @@
 
 Subsection (a) of this section shall not apply to health insurance coverage offered by a health insurance issuer if such coverage is made available in the small group market only through one or more bona fide associations (as defined in section 300gg–91(d)(3) of this title).
 
-(July 1, 1944, ch. 373, title XXVII, §2711, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1962.)
+(July 1, 1944, ch. 373, title XXVII, §2711, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1962.)
 
 #### Prior Provisions
 

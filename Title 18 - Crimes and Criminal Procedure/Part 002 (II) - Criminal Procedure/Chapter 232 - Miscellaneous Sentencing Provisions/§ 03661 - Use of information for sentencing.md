@@ -6,7 +6,7 @@ No limitation shall be placed on the information concerning the background, char
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–421, §1, Oct. 12, 1990, 104 Stat. 909, provided that: “This Act \[amending provisions set out as a note under section 3672 of this title\] may be cited as the ‘Drug and Alcohol Dependent Offenders Treatment Act of 1989’.”
+Pub. L. 101–421, §1, Oct. 12, 1990, 104 Stat. 909, provided that: “This Act \[amending provisions set out as a noteunder section 3672 of this title\] may be cited as the ‘Drug and Alcohol Dependent Offenders Treatment Act of 1989’.”
 
 #### Short Title of 1986 Amendment
 

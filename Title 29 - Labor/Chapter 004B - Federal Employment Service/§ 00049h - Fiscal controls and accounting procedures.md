@@ -12,7 +12,7 @@
 
 (1) The Comptroller General of the United States shall evaluate the expenditures by States of funds received under this chapter in order to assure that expenditures are consistent with the provisions of this chapter and to determine the effectiveness of the State in accomplishing the purposes of this chapter. The Comptroller General shall conduct evaluations whenever determined necessary and shall periodically report to the Congress on the findings of such evaluations.
 
-(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Department of Labor of his responsibilities under the Inspector General Act.
+(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Departmentof Labor of his responsibilities under the Inspector General Act.
 
 (3) For the purpose of evaluating and reviewing programs established or provided for by this chapter, the Comptroller General shall have access to and the right to copy any books, accounts, records, correspondence, or other documents pertinent to such programs that are in the possession, custody, or control of the State.
 
@@ -32,9 +32,9 @@ The Inspector General Act, referred to in subsec. (b)(2), probably means the Ins
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which is classified to section 1591(i) of this title.
+Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 39 section 3202.
+This section is referred to in sections 2939, 2942 of this title; title 39 section 3202.
 

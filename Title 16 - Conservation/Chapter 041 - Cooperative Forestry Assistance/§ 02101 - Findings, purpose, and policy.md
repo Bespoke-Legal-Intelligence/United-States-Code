@@ -30,7 +30,7 @@ Congress finds that—
 
 &emsp;(13) stewardship of privately held forest resources requires a long-term commitment that can be fostered through local, State, and Federal governmental actions;
 
-&emsp;(14) the Department of Agriculture, through the coordinated efforts of its agencies with forestry responsibilities, cooperating with other Federal agencies, State foresters, and State political subdivisions, has the expertise and experience to assist private landowners in achieving individual goals and public benefits regarding forestry;
+&emsp;(14) the Department of Agriculture, through the coordinated efforts of its agencies with forestry responsibilities, cooperating with other Federal agencies, State foresters, andState political subdivisions, has the expertise and experience to assist private landowners in achieving individual goals and public benefits regarding forestry;
 
 &emsp;(15) the products and services resulting from nonindustrial private forest land stewardship provide income and employment that contribute to the economic health and diversity of rural communities; <sup>1</sup>
 
@@ -68,7 +68,7 @@ It is the policy of Congress that it is in the national interest for the Secreta
 
 #### (d) Construction
 
-This chapter shall be construed to complement the policies and direction under theForest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
+This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
 (Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521.)
 
@@ -286,7 +286,11 @@ Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: “That the Congress re
 
 “
 
-Sec. 2. For the purpose of assisting those States which participated in the program carried on under the Soil Bank Act \[section 1801 et seq. of Title 7, Agriculture\] \[repealed\] in continuing the production of needed tree planting stock and in other forestry programs, the Secretary of Agriculture is authorized to permit any supplies, materials, equipment, or improvements acquired or constructed with trust funds under the agreements referred to in section 1 to be used in such State forestry work as may further the objectives of related Federal programs, as he may approve, without the requirement that any payment be made by the State into the trust funds.”
+Sec. 2. For the purpose of assisting those States which participated in the program carried on under the Soil Bank Act \[section 1801 et seq. of Title 7, Agriculture\] \[repealed\] in continuing the production of needed tree planting stock and in other forestry programs, the Secretary of Agriculture is authorized topermit any supplies, materials, equipment, or improvements acquired or constructed with trust funds under the agreements referred to in section 1 to be used in such State forestry work as may further the objectives of related Federal programs, as he may approve, without the requirement that any payment be made by the State into the trust funds.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2106b of this title.
 
 <i><sup>1</sup></i><i> See 1990 Amendment note below.</i>
 

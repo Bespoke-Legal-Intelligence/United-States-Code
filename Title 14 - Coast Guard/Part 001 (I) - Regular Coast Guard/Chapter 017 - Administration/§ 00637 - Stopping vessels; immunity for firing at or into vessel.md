@@ -10,7 +10,7 @@
 
 &emsp;(2) it is a surface naval vessel on which one or more members of the Coast Guard are assigned pursuant to section 379 of title 10.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 546; Nov. 18, 1988, Pub. L. 100–690, title VII, §7401(a), 102 Stat. 4483.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 546; Pub. L. 100–690, title VII, §7401(a), Nov. 18, 1988, 102 Stat. 4483.)
 
 #### Historical and Revision Notes
 

@@ -1,0 +1,58 @@
+### §2431e. Reduction of debt owed to United States as result of credits extended under title I of Agricultural Trade Development and Assistance Act of 1954
+
+#### (a) Authority to reduce debt
+
+#### (1) Authority
+
+&emsp;Notwithstanding any other provision of law, the President may reduce the amount owed to the United States (or any agency of the United States) that is outstanding as of January 1, 1998, as a result of any credits extended under title I of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1701 et seq.) to a country eligible for benefits from the Facility.
+
+#### (2) Authorization of appropriations
+
+#### (A) In general
+
+&emsp;&emsp;For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant to this section, there are authorized to be appropriated to the President—
+
+&emsp;&emsp;&emsp;(i) $25,000,000 for fiscal year 1999;
+
+&emsp;&emsp;&emsp;(ii) $50,000,000 for fiscal year 2000; and
+
+&emsp;&emsp;&emsp;(iii) $50,000,000 for fiscal year 2001.
+
+#### (B) Limitation
+
+&emsp;&emsp;The authority provided by this section shall be available only to the extent that appropriations for the cost (as defined in section 661a(5) of title 2) of the modification of any debt pursuant to this section are made in advance.
+
+#### (b) Implementation of debt reduction
+
+#### (1) In general
+
+&emsp;Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
+
+#### (2) Exchange of obligations
+
+#### (A) In general
+
+&emsp;&emsp;The Facility shall notify the Commodity Credit Corporation of an agreement entered into under paragraph (1) with an eligible country to exchange a new obligation for outstanding obligations.
+
+#### (B) Additional requirement
+
+&emsp;&emsp;At the direction of the Facility, the old obligations that are the subject of the agreement shall be canceled and a new debt obligation shall be established for the country relating to the agreement, and the Commodity Credit Corporation shall make an adjustment in its accounts to reflect the debt reduction.
+
+#### (c) Additional terms and conditions
+
+The following additional terms and conditions shall apply to the reduction of debt under subsection (a)(1) of this section in the same manner as such terms and conditions apply to the reduction of debt under section 604(a)(1) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1738c(a)(1)\]:
+
+&emsp;(1) The provisions relating to repayment of principal under section 605 of such Act \[7 U.S.C. 1738d\].
+
+&emsp;(2) The provisions relating to interest on new obligations under section 606 of such Act \[7 U.S.C. 1738e\].
+
+(Pub. L. 87–195, pt. V, §807, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 888.)
+
+#### References in Text
+
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a)(1), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2431a, 2431f of this title.
+

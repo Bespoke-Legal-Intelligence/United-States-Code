@@ -1,10 +1,14 @@
 ### §2415. Distribution
 
-The Secretary shall allocate funds available for assistance under this chapter equally to each Defense Contract Administration Services region. If in any such fiscal year there is an insufficient number of satisfactory proposals in a region for cooperative agreements to allow effective use of the funds allocated to that region, the funds remaining with respect to that region shall be reallocated among the remaining regions.
+The Secretary shall allocate funds available for assistance under this chapter equally to each Department of Defense contract administrative services district. If in any such fiscal year there is an insufficient number of satisfactory proposals in a district for cooperative agreements to allow effective use of the funds allocated to that district, the funds remaining with respect to that district shall be reallocated among the remaining districts.
 
-(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2606; amended Pub. L. 99–145, title IX, §919(b), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–180, div. A, title VIII, §807(c), Dec. 4, 1987, 101 Stat. 1128.)
+(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2606; amended Pub. L. 99–145, title IX, §919(b), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–180, div. A, title VIII, §807(c), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 105–261, div. A, title VIII, §802(a)(2), (b), Oct. 17, 1998, 112 Stat. 2081.)
 
 #### Amendments
+
+1998—Pub. L. 105–261, §802(a)(2)(B), substituted “district” for “region” wherever appearing and “districts” for “regions”.
+
+Pub. L. 105–261, §802(a)(2)(A), which directed the substitution of “Department of Defense contract administrative services” for “Defense Contract Administrative Services”, was executed by making the substitution for “Defense Contract Administration Services” to reflect the probable intent of Congress.
 
 1987—Pub. L. 100–180, §807(c), struck out subsecs. (a) and (b) relating to requirement by Secretary of Defense to reserve 75% of first $3,000,000 appropriated to carry out this chapter for purpose of assisting cooperative agreements entered into under section 2413 of this title for fiscal years 1986 and 1987, and for fiscal years after 1987 the authority of Secretary to allocate funds in accordance with such cooperative agreements, and substituted “The” for “(c) For any amount appropriated to carry out this chapter for fiscal year 1986 or 1987 in excess of $3,000,000, the”.
 

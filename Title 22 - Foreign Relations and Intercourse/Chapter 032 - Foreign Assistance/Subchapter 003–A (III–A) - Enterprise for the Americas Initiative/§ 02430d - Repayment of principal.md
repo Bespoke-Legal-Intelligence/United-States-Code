@@ -14,3 +14,7 @@ Principal repayments of new obligations shall be deposited in the United States 
 
 A prior section 705 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended section 1964 of this title, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 705 affected section 1964.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2431d of this title.
+

@@ -66,5 +66,5 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Persons enlisted in inactive National Guard not entitled to pay, see section 206 of Title 37, Pay and Allowances of Uniformed Services.
 
-Transfer of enlisted members from Army National Guard of United States and Air National Guard ofUnited States to Army Reserve and Air Force Reserve, see section 12105 of Title 10, Armed Forces.
+Transfer of enlisted members from Army National Guard of United States and Air National Guard of United States to Army Reserve and Air Force Reserve, see section 12105 of Title 10, Armed Forces.
 

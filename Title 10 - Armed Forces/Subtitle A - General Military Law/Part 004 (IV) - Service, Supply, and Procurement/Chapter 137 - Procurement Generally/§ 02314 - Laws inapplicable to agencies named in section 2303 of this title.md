@@ -2,7 +2,7 @@
 
 Sections 3709 and 3735 of the Revised Statutes (41 U.S.C. 5 and 13) do not apply to the procurement or sale of property or services by the agencies named in section 2303 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 133; Dec. 12, 1980, Pub. L. 96–513, title V, §511(78), 94 Stat. 2927; Nov. 30, 1993, Pub. L. 103–160, div. A, title VIII, §822(b)(2), 107 Stat. 1706.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 133; Pub. L. 96–513, title V, §511(78), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 103–160, div. A, title VIII, §822(b)(2), Nov. 30, 1993, 107 Stat. 1706.)
 
 Historical and Revision Notes
 

@@ -30,7 +30,7 @@
 
 &emsp;(A) Such rules shall provide safeguards with respect to the financial responsibility and related practices of government securities brokers and government securities dealers including, but not limited to, capital adequacy standards, the acceptance of custody and use of customers’ securities, the carrying and use of customers’ deposits or credit balances, and the transfer and control of government securities subject to repurchase agreements and in similar transactions.
 
-&emsp;(B) Such rules shall require every government securities broker and government securities dealer to make reports to and furnish copies of records to the appropriate regulatory agency, and to file with the appropriate regulatory agency, annually or more frequently, a balance sheet and income statement certified by an independent public accountant, prepared on a calendar or fiscal year basis, and such other financial statements (which shall, as the Secretary specifies, be certified) and information concerning its financial condition as required by such rules.
+&emsp;(B) Such rules shall require every government securities broker and government securities dealer to make reports to and furnish copies of records to the appropriate regulatory agency, and to file with the appropriate regulatory agency, annually or more frequently, abalance sheet and income statement certified by an independent public accountant, prepared on a calendar or fiscal year basis, and such other financial statements (which shall, as the Secretary specifies, be certified) and information concerning its financial condition as required by such rules.
 
 &emsp;(C) Such rules shall require records to be made and kept by government securities brokers and government securities dealers and shall specify the periods for which such records shall be preserved.
 
@@ -52,7 +52,7 @@ Special provisions with respect to associated persons subject to federal banking
 
 &emsp;&emsp;(i)
 
-Cooperation in implementation.—In developing and implementing reporting requirements pursuant to subparagraph (A) of this paragraph with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Secretary shall consult with and consider the views of each such Federal bankingagency. If a Federal banking agency comments in writing on a proposed rule of the Secretary under this paragraph that has been published for comment, the Secretary shall respond in writing to such written comment before adopting the proposed rule. The Secretary shall, at the request of a Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
+Cooperation in implementation.—In developing and implementing reporting requirements pursuant to subparagraph (A) of this paragraph with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Secretary shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Secretary under this paragraph that has been published for comment, the Secretary shall respond in writing to such written comment before adopting the proposed rule. The Secretary shall, at the request of a Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
 
 &emsp;&emsp;(ii)
 
@@ -94,7 +94,7 @@ Exemptions.—The Secretary by rule or order may exempt any person or class of p
 
 &emsp;&emsp;(iv) the nature and extent of the registered person's securities transactions; and
 
-&emsp;&emsp;(v) with respect to the registered person and its associated persons, on a consolidatedbasis, the amount and proportion of assets devoted to, and revenues derived from, activities in the United States securities markets.
+&emsp;&emsp;(v) with respect to the registered person and its associated persons, on a consolidated basis, the amount and proportion of assets devoted to, and revenues derived from, activities in the United States securities markets.
 
 &emsp;(E)
 
@@ -104,7 +104,7 @@ Conformity with requirements under section 78q(h).—In exercising authority pur
 
 Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Secretary and any appropriate regulatory agency shall not be compelled to disclose any information required to be reported under this paragraph, or any information supplied to the Secretary or any appropriate regulatory agency by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a registered government securities broker or a government securities dealer. Nothing in this paragraph shall authorize the Secretary or any appropriate regulatory agency to withhold information from Congress, or prevent the Secretary or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
-(3)(A) With respect to any financial institution that has filed notice as a government securities broker or government securities dealer or that is required to file notice under subsection (a)(1)(B) of this section, the appropriate regulatory agency for such government securities broker or government securities dealer may issue such rules and regulations with respect to transactions in government securities as may be necessary to prevent fraudulent and manipulative acts and practices and to promote just and equitable principles of trade. If the Secretary of the Treasury determines, and notifies the appropriate regulatory agency, that such rule or regulation, if implemented, would, or as applied does (i) adversely affect the liquidity or efficiency of the market for government securities; or (ii) impose any burden on competition not necessary or appropriate in furtherance of the purposes of this section, the appropriate regulatory agency shall, prior to adopting the proposed rule or regulation, find that such rule or regulation is necessary and appropriate in furtherance of the purposes of this section notwithstanding the Secretary's determination.
+(3)(A) With respect to any financial institution that has filed notice as a government securities broker or government securities dealer or that is required to file notice under subsection (a)(1)(B) of this section, the appropriate regulatory agency for such government securities broker or government securities dealer may issue such rules and regulations with respect to transactions in government securities as may be necessary to prevent fraudulent and manipulative acts and practices and to promote just and equitable principles of trade. If the Secretary of the Treasury determines, and notifies the appropriate regulatory agency, that such rule or regulation, if implemented, would, or as applied does (i) adversely affect the liquidity or efficiency of the market for government securities; or (ii) impose any burden on competition not necessary or appropriate in furtherance of the purposes of this section, the appropriate regulatory agencyshall, prior to adopting the proposed rule or regulation, find that such rule or regulation is necessary and appropriate in furtherance of the purposes of this section notwithstanding the Secretary's determination.
 
 (B) The appropriate regulatory agency shall consult with and consider the views of the Secretary prior to approving or amending a rule or regulation under this paragraph, except where the appropriate regulatory agency determines that an emergency exists requiring expeditious and summary action and publishes its reasons therefor. If the Secretary comments in writing to the appropriate regulatory agency on a proposed rule or regulation that has been published for comment, the appropriate regulatory agency shall respond in writing to such written comment before approving the proposed rule or regulation.
 
@@ -126,7 +126,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 &emsp;(D) shall consult with and consider the views of the Commission and the Board of Governors of the Federal Reserve System, except where the Secretary determines that an emergency exists requiring expeditious or summary action and publishes its reasons for such determination.
 
-(6) If the Commission or the Board of Governors of the Federal Reserve System commentsin writing on a proposed rule of the Secretary that has been published for comment, the Secretary shall respond in writing to such written comment before approving the proposed rule.
+(6) If the Commission or the Board of Governors of the Federal Reserve System comments in writing on a proposed rule of the Secretary that has been published for comment, the Secretary shall respond in writing to such written comment before approving the proposed rule.
 
 (7) No government securities broker or government securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any government security in contravention of any rule under this section.
 
@@ -148,7 +148,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 (D) Nothing in this paragraph shall be construed to affect in any way the powers of such appropriate regulatory agency to proceed against such government securities broker or government securities dealer under any other provision of law.
 
-(E) Each appropriate regulatory agency (other than the Commission) shall promptly notify the Commission after it has imposed any sanction under this paragraph on a government securitiesbroker or government securities dealer, or a person associated with a government securities broker or government securities dealer, and the Commission shall maintain, and make available to the public, a record of such sanctions and any sanctions imposed by it under this subsection.
+(E) Each appropriate regulatory agency (other than the Commission) shall promptly notify the Commission after it has imposed any sanction under this paragraph on a government securities broker or government securities dealer, or a person associated with a government securities broker or government securities dealer, and the Commission shall maintain, and make available to the public, a record of such sanctions and any sanctions imposed by it under this subsection.
 
 (3) It shall be unlawful for any person as to whom an order entered pursuant to paragraph (1) or (2) of this subsection suspending or barring him from being associated with a government securities broker or government securities dealer is in effect willfully to become, or to be, associated with a government securities broker or government securities dealer without the consent of the appropriate regulatory agency, and it shall be unlawful for any government securities broker or government securities dealer to permit such a person to become, or remain, a person associated with it without the consent of the appropriate regulatory agency, if such government securities broker or government securities dealer knew, or, in the exercise of reasonable care should have known, of such order.
 
@@ -164,7 +164,7 @@ Government Securities Trade Reconstruction.—
 
 &emsp;(A)
 
-Furnishing records.—Every government securities broker and government securities dealer shall furnish to the Commission on request such records of government securities transactions, including records of the date and time of execution of trades, as the Commission may require to reconstruct trading in the course of a particular inquiry or investigation being conducted by the Commission for enforcement or surveillance purposes. In requiring information pursuant to this paragraph, the Commission shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission, to the Federal Reserve Bank of New York, or to an appropriate regulatory agency or self-regulatory organization with responsibility for examining the government securities broker or government securities dealer. The Commission may require that such information be furnished in machine readable form notwithstanding any limitation in subparagraph (B). In utilizing its authority to require information in machine readable form, the Commission shall minimize the burden such requirement may place on small government securities brokers and dealers.
+Furnishing records.—Every government securities broker and government securities dealer shall furnish to the Commission on request such records of government securities transactions, including records of the date and time of execution of trades, as the Commission may require to reconstruct trading in the course of a particular inquiry or investigation being conducted by the Commission for enforcement or surveillance purposes. In requiring information pursuant to this paragraph, the Commission shall specify the informationrequired, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission, to the Federal Reserve Bank of New York, or to an appropriate regulatory agency or self-regulatory organization with responsibility for examining the government securities broker or government securities dealer. The Commission may require that such information be furnished in machine readable form notwithstanding any limitation in subparagraph (B). In utilizing its authority to require information in machine readable form, the Commission shall minimize the burden such requirement may place on small government securities brokers and dealers.
 
 &emsp;(B)
 
@@ -184,7 +184,7 @@ Exclusion for examination reports.—Nothing in this paragraph shall be construe
 
 &emsp;(F)
 
-Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtainedunder this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Membership in national securities exchange; exemptions
 
@@ -226,7 +226,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 #### (5) Exemptions
 
-&emsp;Consistent with the public interest and the protection of investors, the Secretary by rule or order may exempt in whole or in part, conditionally or unconditionally, any person or class or <sup>2</sup> persons, or any transaction or class of transactions, from the requirements of this subsection.
+&emsp;Consistent with the public interest and the protection of investors, the Secretary by rule or order may exempt in whole or in part, conditionally or unconditionally, any person or class of persons, or any transaction or class of transactions, from the requirements of this subsection.
 
 #### (6) Limitation on disclosure of information
 
@@ -236,9 +236,9 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 (1) Nothing in this section except paragraph (2) of this subsection shall be construed to impair or limit the authority under any other provision of law of the Commission, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, the Federal Savings and Loan Insurance Corporation, the Secretary of Housing and Urban Development, and the Government National Mortgage Association.
 
-(2) Notwithstanding any other provision of this chapter, the Commission shall not have any authority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) of this section <sup>3</sup> or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3) of this section), the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority.
+(2) Notwithstanding any other provision of this chapter, the Commission shall not have any authority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) of this section <sup>2</sup> or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3) of this section), the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority.
 
-(June 6, 1934, ch. 404, title I, §15C, as added Oct. 28, 1986, Pub. L. 99–571, title I, §101, 100 Stat. 3208; amended Dec. 4, 1987, Pub. L. 100–181, title VIII, §801(a), 101 Stat. 1265; Aug. 9, 1989, Pub. L. 101–73, title VII, §744(u)(3), 103 Stat. 441; Oct. 16, 1990, Pub. L. 101–432, §4(b), 104 Stat. 970; Nov. 15, 1990, Pub. L. 101–550, title II, §203(c), 104 Stat. 2718; Dec. 17, 1993, Pub. L. 103–202, title I, §§102–104, 106(a), 108, 109(b)(1), (c), 107 Stat. 2345, 2346, 2349, 2351–2353.)
+(June 6, 1934, ch. 404, title I, §15C, as added Pub. L. 99–571, title I, §101, Oct. 28, 1986, 100 Stat. 3208; amended Pub. L. 100–181, title VIII, §801(a), Dec. 4, 1987, 101 Stat. 1265; Pub. L. 101–73, title VII, §744(u)(3), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–432, §4(b), Oct. 16, 1990, 104 Stat. 970; Pub. L. 101–550, title II, §203(c), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 103–202, title I, §§102–104, 106(a), 108, 109(b)(1), (c), Dec. 17, 1993, 107 Stat. 2345, 2346, 2349, 2351–2353; Pub. L. 105–353, title III, §301(b)(10), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
 
@@ -251,6 +251,8 @@ Section 1730 of title 12, referred to in subsec. (c)(2)(B), (C), was repealed by
 Section 1464(d)(2) and (d)(3) of title 12, referred to in subsec. (c)(2)(C), was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and, as so amended, no longer relates to issuance of orders nor contains the term “savings account holders”.
 
 #### Amendments
+
+1998—Subsec. (f)(5). Pub. L. 105–353 substituted “class of persons” for “class or persons”.
 
 1993—Subsec. (a)(2)(ii). Pub. L. 103–202, §109(b)(1), inserted “The order granting registration shall not be effective until such government securities broker or government securities dealer has become a member of a national securities exchange registered under section 78f of this title, or a securities association registered under section 78<i>o</i>–3 of this title, unless the Commission has exempted such government securities broker or government securities dealer, by rule or order, from such membership.” before “The Commission may extend”.
 
@@ -304,7 +306,7 @@ Title IV of Pub. L. 99–571 provided that:
 
 #### “SEC. 402. EFFECTIVE DATE AND REQUIREMENTS FOR REGULATIONS.
 
-“Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall,within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective as temporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
+“Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall, within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective as temporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
 
 #### “SEC. 403. REGISTRATION DATE.
 
@@ -358,7 +360,7 @@ Public Debt Obligation.—For purposes of this section, the term ‘public debt 
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
 #### Congressional Findings
 
@@ -426,11 +428,9 @@ Section 103 of Pub. L. 99–571 directed Secretary of the Treasury, together wit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 78<i>o</i>, 78u–2, 78y, 78mm, 78<i>lll</i> of this title; title 26 section 1296.
+This section is referred to in sections 78c, 78<i>o</i>, 78u–2, 78y, 78mm, 78<i>lll</i> of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “of”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -16,7 +16,7 @@ Before the expiration of the period referred to in subsection (b) of this sectio
 
 For loans made under this subchapter, the Secretary may accept subdivisions that have been approved by local, county, or State agencies.
 
-(July 15, 1949, ch. 338, title V, §535, as added Nov. 30, 1983, Pub. L. 98–181, title V, §523, 97 Stat. 1254; amended Nov. 7, 1988, Pub. L. 100–628, title X, §1067, 102 Stat. 3276; Dec. 15, 1989, Pub. L. 101–235, title III, §303, 103 Stat. 2044; Nov. 28, 1990, Pub. L. 101–625, title VII, §718(a), 104 Stat. 4297; June 13, 1991, Pub. L. 102–54, §13(q)(5), 105 Stat. 280; Oct. 28, 1992, Pub. L. 102–550, title VII, §716(a), (c), 106 Stat. 3842; Oct. 27, 1993, Pub. L. 103–120, §8(a), 107 Stat. 1151.)
+(July 15, 1949, ch. 338, title V, §535, as added Pub. L. 98–181, title V, §523, Nov. 30, 1983, 97 Stat. 1254; amended Pub. L. 100–628, title X, §1067, Nov. 7, 1988, 102 Stat. 3276; Pub. L. 101–235, title III, §303, Dec. 15, 1989, 103 Stat. 2044; Pub. L. 101–625, title VII, §718(a), Nov. 28, 1990, 104 Stat. 4297; Pub. L. 102–54, §13(q)(5), June 13, 1991, 105 Stat. 280; Pub. L. 102–550, title VII, §716(a), (c), Oct. 28, 1992, 106 Stat. 3842; Pub. L. 103–120, §8(a), Oct. 27, 1993, 107 Stat. 1151.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ Requirement for Appointment.—(1) The President may appoint an officer as Chair
 
 (c)
 
-Grade and Rank.—The Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+Grade and Rank.—The Chairman, while so serving, holds the grade of general or, in thecase of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
 (Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175.)
 

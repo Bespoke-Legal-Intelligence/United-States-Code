@@ -8,5 +8,5 @@ In order to monitor and enforce export measures required by a foreign government
 
 This section applies only to requests received by the Secretary of the Treasury prior to January 1, 1983, and for the duration of the arrangements.
 
-(June 17, 1930, ch. 497, title IV, §626, as added Oct. 2, 1982, Pub. L. 96–276, §153, 96 Stat. 1202.)
+(June 17, 1930, ch. 497, title IV, §626, as added Pub. L. 96–276, §153, Oct. 2, 1982, 96 Stat. 1202.)
 

@@ -32,13 +32,13 @@ The Administrator, by not later than January 1, 1991, shall assure the developme
 
 #### (e) Relationship with medicare program
 
-To assure an appropriate reflection of the needs and priorities of the program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], activities under this part that affect such program shall be conducted consistent with section 1142 of such Act \[42 U.S.C. 1320b–12\].
+To assure an appropriate reflection of the needs and priorities of the program under titleXVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], activities under this part that affect such program shall be conducted consistent with section 1142 of such Act \[42 U.S.C. 1320b–12\].
 
 #### (f) Development of certain guidelines and standards
 
 Not later than January 1, 1996, the Administrator shall ensure that a set of guidelines, standards, performance measures, and review criteria, are developed under subsection (a)(1) of this section that address the prevention of not fewer than three conditions that account for significant national health expenditures. In carrying out this subsection the Administrator shall consult with the United States Preventive Services Task Force and other recognized experts in the field of disease prevention.
 
-(July 1, 1944, ch. 373, title IX, §912, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(a), 103 Stat. 2192; amended Oct. 13, 1992, Pub. L. 102–410, §§5(a)(1), (c)(1), 6(b), 106 Stat. 2096, 2097, 2100.)
+(July 1, 1944, ch. 373, title IX, §912, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2192; amended Pub. L. 102–410, §§5(a)(1), (c)(1), 6(b), Oct. 13, 1992, 106 Stat. 2096, 2097, 2100.)
 
 #### References in Text
 

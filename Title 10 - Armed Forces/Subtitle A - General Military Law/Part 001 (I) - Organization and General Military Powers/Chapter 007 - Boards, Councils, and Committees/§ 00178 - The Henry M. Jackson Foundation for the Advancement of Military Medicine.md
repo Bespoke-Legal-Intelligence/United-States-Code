@@ -38,7 +38,7 @@
 
 &emsp;(4) accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
 
-&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for thepurpose of carrying out the functions of the Foundation;
+&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for the purpose of carrying out the functions of the Foundation;
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 
@@ -60,7 +60,9 @@
 
 Subsec. (a). Pub. L. 98–132, §2(a)(1)(B), inserted “Henry M. Jackson”.
 
-#### Change of Name to “Henry M. Jackson Foundation for the Advancement of Military Medicine”
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 Section 1 of Pub. L. 98–132 provided: “That (a) the Foundation for the Advancement of Military Medicine established pursuant to section 178 of title 10, United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
 

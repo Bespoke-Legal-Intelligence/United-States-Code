@@ -2,7 +2,7 @@
 
 The heads of executive departments and independent agencies of the Government are authorized to transfer or loan to said national air and space museum without charge therefor, aircraft, spacecraft, aircraft and spacecraft parts, instruments, engines, or other aeronautical and space flight equipment or records for exhibition, historical, or educational purposes.
 
-(Aug. 12, 1946, ch. 955, §5(a), 60 Stat. 998; July 19, 1966, Pub. L. 89–509, pt. I, §8, 80 Stat. 311.)
+(Aug. 12, 1946, ch. 955, §5(a), 60 Stat. 998; Pub. L. 89–509, pt. I, §8, July 19, 1966, 80 Stat. 311.)
 
 #### Codification
 

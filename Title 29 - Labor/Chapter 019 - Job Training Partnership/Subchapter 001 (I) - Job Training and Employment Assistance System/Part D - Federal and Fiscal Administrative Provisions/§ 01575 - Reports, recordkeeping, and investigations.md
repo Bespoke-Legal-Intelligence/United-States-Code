@@ -24,7 +24,7 @@
 
 (B) In order to insure compliance with the provisions of this chapter, the Comptroller General of the United States may conduct investigations of the use of funds received under this chapter by any recipient.
 
-(2) In conducting any investigation under this chapter, the Secretary or the Comptroller General of the United States may not request the compilation of any new information not readily available to such recipient.
+(2) In conducting any investigation under this chapter, the Secretary or the Comptroller General of the United States may not request thecompilation of any new information not readily available to such recipient.
 
 (3)(A) In carrying out any audit under this chapter (other than any initial audit survey or any audit investigating possible criminal or fraudulent conduct), either directly or through grant or contract, the Secretary, the Inspector General, or the Comptroller General shall furnish to the State, administrative entity, recipient, or other entity to be audited, advance notification of the overall objectives and purposes of the audit, and any extensive recordkeeping or data requirements to be met, not fewer than 14 days (or as soon as practicable), prior to the commencement of the audit.
 
@@ -95,6 +95,10 @@ Each State, substate grantee, and service delivery area shall maintain records w
 (2) The Secretary shall submit a report to the Congress containing the results of each study conducted pursuant to paragraph (1).
 
 (Pub. L. 97–300, title I, §165, Oct. 13, 1982, 96 Stat. 1350; Pub. L. 102–367, title I, §143, Sept. 7, 1992, 106 Stat. 1048.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 

@@ -14,7 +14,7 @@ Hearing.—The hearing shall be conducted pursuant to the provisions of section 
 
 (d)
 
-Determination and Disposition.—If, after the hearing, the court finds by clear and convincing evidence that the person is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official ofthe State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility, until—
+Determination and Disposition.—If, after the hearing, the court finds by clear and convincing evidence that the person is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall hospitalize the person for treatment in a suitable facility, until—
 
 &emsp;(1) such a State will assume such responsibility; or
 
@@ -38,7 +38,7 @@ Discharge.—When the director of the facility in which a person is hospitalized
 
 (f)
 
-Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on a person conditionally discharged under subsection (e) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
+Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on a person conditionally discharged under subsection (e) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantialrisk of bodily injury to another person or serious damage to property of another.
 
 (g)
 
@@ -48,7 +48,7 @@ Release to State of Certain Other Persons.—If the director of a facility in wh
 
 Definition.—As used in this chapter the term “State” includes the District of Columbia.
 
-(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2062; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3599D, 104 Stat. 4932; Aug. 5, 1997, Pub. L. 105–33, title XI, §11204(1), 111 Stat. 739.)
+(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2062; Pub. L. 101–647, title XXXV, §3599D, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 105–33, title XI, §11204(1), Aug. 5, 1997, 111 Stat. 739.)
 
 #### Amendments
 

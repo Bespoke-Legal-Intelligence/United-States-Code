@@ -2,7 +2,7 @@
 
 #### (a) Amounts
 
-For each quarter beginning after September 30, 1980, each State which has a plan approved under this part (subject to the limitations imposed by subsection (b) <sup>1</sup> of this section) shall be entitled to a payment equal to the sum of—
+For each quarter beginning after September 30, 1980, each State which has a plan approved under this part shall be entitled to a payment equal to the sum of—
 
 &emsp;(1) an amount equal to the Federal medical assistance percentage (as defined in section 1396d(b) of this title) of the total amount expended during such quarter as foster care maintenance payments under section 672 of this title for children in foster family homes or child-care institutions; plus
 
@@ -10,7 +10,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;(3) an amount equal to the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary for the provision of child placement services and for the proper and efficient administration of the State plan—
 
-&emsp;&emsp;(A) 75 per centum of so much of such expenditures as are for the training (includingboth short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision,
+&emsp;&emsp;(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision,
 
 &emsp;&emsp;(B) 75 percent of so much of such expenditures (including travel and per diem expenses) as are for the short-term training of current or prospective foster or adoptive parents and the members of the staff of State-licensed or State-approved child care institutions providing care to foster and adopted children receiving assistance under this part, in ways that increase the ability of such current or prospective parents, staff members, and institutions to provide support and assistance to foster and adopted children, whether incurred directly by the State or by contract,
 
@@ -44,7 +44,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 (2) The Secretary shall then pay to the State, in such installments as he may determine, the amounts so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
-(3) The pro rata share to which the United States is equitably entitled, as determined by the Secretary, of the net amount recovered during any quarter by the State or any political subdivision thereof with respect to foster care and adoption assistance furnished under the State plan shall be considered an overpayment to be adjusted under this subsection.
+(3) The pro rata share to which the United States is equitably entitled, as determined by the Secretary, of the net amount recovered during any quarter by the State or any politicalsubdivision thereof with respect to foster care and adoption assistance furnished under the State plan shall be considered an overpayment to be adjusted under this subsection.
 
 (4)(A) Within 60 days after receipt of a State claim for expenditures pursuant to subsection (a) of this section, the Secretary shall allow, disallow, or defer such claim.
 
@@ -62,11 +62,11 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 #### (c) Automated data collection expenditures
 
-The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C) of this section, without regard to whether the systems may be used with respectto foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
+The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C) of this section, without regard to whether the systems may be used with respect to foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
 
 #### (d) Reduction for violation of plan requirement
 
-(1) If, during any quarter of a fiscal year, a State's program operated under this part is found, as a result of a review conducted under section 1320a–2a of this title, or otherwise, to have violated section 671(a)(18) of this title with respect to a person or to have failed to implement a corrective action plan within a period of time not to exceed 6 months with respect to such violation, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amount otherwise payable to the State under this part, for that fiscal year quarter and for any subsequent quarter of such fiscal year, until the State program is found, as a result of a subsequent review under section 1320a–2a of this title, to have implemented a corrective action plan with respect to such violation, by—
+(1) If, during any quarter of a fiscal year, a State's program operated under this part is found, as a result of a review conducted under section 1320a–2a of this title, or otherwise, to have violated paragraph (18) or (23) of section 671(a) of this title with respect to a person or to have failed to implement a corrective action plan within a period of time not to exceed 6 months with respect to such violation, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amount otherwise payable to the State under this part, for that fiscal year quarter and for any subsequent quarter of such fiscal year, until the State program is found, as a result of a subsequent review under section 1320a–2a of this title, to have implemented a corrective action plan with respect to such violation, by—
 
 &emsp;(A) 2 percent of such otherwise payable amount, in the case of the 1st such finding for the fiscal year with respect to the State;
 
@@ -76,7 +76,7 @@ The Secretary shall treat as necessary for the proper and efficient administrati
 
 > In imposing the penalties described in this paragraph, the Secretary shall not reduce any fiscal year payment to a State by more than 5 percent.
 
-(2) Any other entity which is in a State that receives funds under this part and which violates section 671(a)(18) of this title during a fiscal year quarter with respect to any person shall remit to the Secretary all funds that were paid by the State to the entity during the quarter from such funds.
+(2) Any other entity which is in a State that receives funds under this part and which violates paragraph (18) or (23) of section 671(a) of this title during a fiscal year quarter with respect to any person shall remit to the Secretary all funds that were paid by the State to the entity during the quarter from such funds.
 
 (3)(A) Any individual who is aggrieved by a violation of section 671(a)(18) of this title by a State or other entity may bring an action seeking relief from the State or other entity in any United States district court.
 
@@ -84,25 +84,25 @@ The Secretary shall treat as necessary for the proper and efficient administrati
 
 (4) This subsection shall not be construed to affect the application of the Indian Child Welfare Act of 1978 \[25 U.S.C. 1901 et seq.\].
 
-#### (e) Condition of assistance
-
-Notwithstanding subsection (a) of this section, a State shall not be eligible for any payment under this section if the Secretary finds that, after November 19, 1997, the State has—
-
-&emsp;(1) denied or delayed the placement of a child for adoption when an approved family is available outside of the jurisdiction with responsibility for handling the case of the child; or
-
-&emsp;(2) failed to grant an opportunity for a fair hearing, as described in section 671(a)(12) of this title, to an individual whose allegation of a violation of paragraph (1) of this subsection is denied by the State or not acted upon by the State with reasonable promptness.
-
-(Aug. 14, 1935, ch. 531, title IV, §474, as added June 17, 1980, Pub. L. 96–272, title I, §101(a)(1), 94 Stat. 506; amended Dec. 28, 1980, Pub. L. 96–611, §3, 94 Stat. 3567; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(18), 98 Stat. 1167; Nov. 8, 1984, Pub. L. 98–617, §4(a), (b), 98 Stat. 3296, 3297; Apr. 7, 1986, Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), 100 Stat. 294, 296; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1883(b)(9), 100 Stat. 2917; Dec. 22, 1987, Pub. L. 100–203, title IX, §9132(a), 101 Stat. 1330–313; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), 103 Stat. 2452, 2453, 2461, 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §5071(a), 104 Stat. 1388–233; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), 107 Stat. 656, 657; Oct. 31, 1994, Pub. L. 103–432, title II, §§207(a), (b), 210(a), 108 Stat. 4457, 4460; Aug. 20, 1996, Pub. L. 104–188, title I, §1808(b), 110 Stat. 1903; Nov. 19, 1997, Pub. L. 105–89, title II, §202(b), 111 Stat. 2125.)
+(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674.)
 
 #### References in Text
-
-Subsection (b) of this section, referred to in subsec. (a), was repealed by Pub. L. 103–432, title II, §207(a), Oct. 31, 1994, 108 Stat. 4457, and former subsec. (d) of this section was redesignated subsec. (b).
 
 Parts A and B of this subchapter, referred to in subsec. (a)(3)(C)(iii), (iv), are classified to sections 601 et seq. and 620 et seq., respectively, of this title.
 
 The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–200, §410(g), struck out “(subject to the limitations imposed by subsection (b) of this section)” after “this part” in introductory provisions.
+
+Subsec. (d)(1), (2). Pub. L. 105–200, §301(b), substituted “paragraph (18) or (23) of section 671(a) of this title” for “section 671(a)(18) of this title”.
+
+Subsec. (e). Pub. L. 105–200, §301(c), struck out subsec. (e) which read as follows: “Notwithstanding subsection (a) of this section, a State shall not be eligible for any payment under this section if the Secretary finds that, after November 19, 1997, the State has—
+
+&emsp;“(1) denied or delayed the placement of a child for adoption when an approved family is available outside of the jurisdiction with responsibility for handling the case of the child; or
+
+&emsp;“(2) failed to grant an opportunity for a fair hearing, as described in section 671(a)(12) of this title, to an individual whose allegation of a violation of paragraph (1) of this subsection is denied by the State or not acted upon by the State with reasonable promptness.”
 
 1997—Subsec. (e). Pub. L. 105–89 added subsec. (e).
 
@@ -200,6 +200,10 @@ Subsec. (d)(1). Pub. L. 98–369, §2663(c)(18)(C), substituted “and (C) such�
 
 1980—Subsec. (d). Pub. L. 96–611 added subsec. (d).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 301(b), (c) of Pub. L. 105–200 effective as if included in the enactment of section 202 of the Adoption and Safe Families Act of 1997, Pub. L. 105–89, see section 301(d) of Pub. L. 105–200, set out as a note under section 671 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
@@ -240,11 +244,9 @@ Section 9132(b) of Pub. L. 100–203 provided that: “The amendments made by su
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 673, 673b, 677 of this title; title 2 section 906.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,9 +6,9 @@ The authorities conferred herein shall be exercised pursuant to an agreement app
 
 #### References in Text
 
-Herein, referred to in text, probably means title XV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–191, known as the National Forest System Drug Control Act of 1986, which enacted sections 559b to 559f of this title, amended section 841 of Title 21, Food and Drugs, and enacted provisions set out as a note under section 559b of this title. For complete classification of title XV to the Code, see Short Title note set out under section 559b of this title and Tables.
+Herein, referred to in text, probably means title XV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–191, known as the National Forest System Drug Control Act of1986, which enacted sections 559b to 559f of this title, amended section 841 of Title 21, Food and Drugs, and enacted provisions set out as a note under section 559b of this title. For complete classification of title XV to the Code, see Short Title note set out under section 559b of this title and Tables.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559b, 559c, 559d of this title.
+This section is referred to in sections 460<i>lll</i>–12, 559b, 559c, 559d of this title.
 

@@ -17,7 +17,7 @@
 - [&sect; 01736c, 1736d - Repealed. Pub. L. 104&#8211;127, title II, &sect;&sect;218, 219, Apr. 4, 1996, 110 Stat. 957](%C2%A7%2001736c%2C%201736d%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7%C2%A7218%2C%20219%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20957.md)
 - [&sect; 01736e - Debt forgiveness](%C2%A7%2001736e%20-%20Debt%20forgiveness.md)
 - [&sect; 01736f - Authorization of appropriations](%C2%A7%2001736f%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 01736f&#8211;1 - Establishment of commodity reserve](%C2%A7%2001736f%E2%80%931%20-%20Establishment%20of%20commodity%20reserve.md)
+- [&sect; 01736f&#8211;1 - Establishment of commodity trust](%C2%A7%2001736f%E2%80%931%20-%20Establishment%20of%20commodity%20trust.md)
 - [&sect; 01736g - Coordination of foreign assistance programs](%C2%A7%2001736g%20-%20Coordination%20of%20foreign%20assistance%20programs.md)
 - [&sect; 01736g&#8211;1 - Assistance in furtherance of narcotics control objectives of United States](%C2%A7%2001736g%E2%80%931%20-%20Assistance%20in%20furtherance%20of%20narcotics%20control%20objectives%20of%20United%20States.md)
 - [&sect; 01736g&#8211;2 - Micronutrient fortification pilot program](%C2%A7%2001736g%E2%80%932%20-%20Micronutrient%20fortification%20pilot%20program.md)

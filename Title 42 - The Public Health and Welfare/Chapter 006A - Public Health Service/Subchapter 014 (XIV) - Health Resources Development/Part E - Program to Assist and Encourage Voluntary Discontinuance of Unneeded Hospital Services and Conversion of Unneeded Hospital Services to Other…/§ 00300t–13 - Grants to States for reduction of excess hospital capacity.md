@@ -20,7 +20,7 @@ For the purpose of demonstrating the effectiveness of various means for reducing
 
 Grants under subsection (a) of this section shall be made on such terms and conditions as the Secretary may prescribe.
 
-(July 1, 1944, ch. 373, title XVI, §1643, as added Oct. 4, 1979, Pub. L. 96–79, title III, §301(a), 93 Stat. 639.)
+(July 1, 1944, ch. 373, title XVI, §1643, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93 Stat. 639.)
 
 #### References in Text
 

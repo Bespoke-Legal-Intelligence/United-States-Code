@@ -10,7 +10,7 @@ In the exercise of the authorities granted in subsection (a) of this section, th
 
 #### (c) Classes of purchases and contracts; finality of decision; powers delegable
 
-The determinations and decisions provided in subsection (a) of this section to be made by theAgency head may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final. Except as provided in subsection (d) of this section, the Agency head is authorized to delegate his powers provided in this section, including the making of such determinations and decisions, in his discretion and subject to his direction, to any other officer or officers or officials of the Agency.
+The determinations and decisions provided in subsection (a) of this section to be made by the Agency head may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final. Except as provided in subsection (d) of this section, the Agency head is authorized to delegate his powers provided in this section, including the making of such determinations and decisions, in his discretion and subject to his direction, to any other officer or officers or officials of the Agency.
 
 #### (d) Powers not delegable; written findings
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Effective Date of 1982 Amendment
 
-Section 703 of title VII of Pub. L. 97–269 provided that: “The provisions of titles IV and V \[enacting former section 202 of Title 10, Armed Forces, and amending this section\] and of this title \[which, except for enacting this note was note classified to the Code\] shall become effective upon the date of the enactment of this Act \[Sept. 27, 1982\].”
+Section 703 of title VII of Pub. L. 97–269 provided that: “The provisions of titles IV and V \[enacting former section 202 of Title 10, Armed Forces, and amending this section\] and of this title \[which, except for enacting this note was not classified to the Code\] shall become effective upon the date of the enactment of this Act \[Sept. 27, 1982\].”
 
 #### Procurement of Automatic Data Processing Equipment or Services; Contracts Made Before September 27, 1982
 

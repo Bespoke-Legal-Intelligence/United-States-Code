@@ -2,7 +2,7 @@
 
 #### (a) Administrative costs
 
-The Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency's operation of the food stamp program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of coupons after their delivery to receiving points within the State, (3) the issuance of coupons to all eligible households, (4) food stamp informational activities, including those undertaken under section 2020(e)(1)(A) of this title, but not including recruitment activities, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g) of this section, (7) food stamp program investigations and prosecutions, and (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act (42 U.S.C. 1320b–7(d)): <i>Provided</i>, That the Secretary is authorized at the Secretary's discretion to pay any State agency administering the food stamp program on all or part of an Indian reservation under section 2020(d) of this title such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the food stamp program, aswell as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
+Subject to subsection (k) of this section, the Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency's operation of the food stamp program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of coupons after their delivery to receiving points within the State, (3) the issuance of coupons to all eligible households, (4) food stamp informational activities, including those undertaken under section 2020(e)(1)(A) of this title, but not including recruitment activities, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g) of this section, (7) food stamp program investigations and prosecutions, and (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act (42 U.S.C. 1320b–7(d)): <i>Provided</i>, That the Secretary is authorized at the Secretary's discretion to pay any State agency administering the food stamp program on all or part of an Indian reservation under section 2020(d) of this title such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the food stamp program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
 #### (b) Work supplementation or support program
 
@@ -120,7 +120,7 @@ The Secretary is authorized to pay to each State agency an amount equal to 50 pe
 
 &emsp;(i) not later than 60 days after receipt of rebuttal evidence submitted by the State agency; or
 
-&emsp;(ii) if the State agency does not submit rebuttal evidence, not later than 90 days afterthe State agency submits the notice of appeal and evidence in support of the appeal.
+&emsp;(ii) if the State agency does not submit rebuttal evidence, not later than 90 days after the State agency submits the notice of appeal and evidence in support of the appeal.
 
 (H) In considering a claim under this paragraph, the administrative law judge shall consider all grounds for denying the claim, in whole or in part, including the contention of a State agency that the claim should be waived, in whole or in part, for good cause.
 
@@ -182,13 +182,13 @@ Amounts.—To carry out employment and training programs, the Secretary shall re
 
 &emsp;&emsp;&emsp;(I) $84,000,000; and
 
-&emsp;&emsp;&emsp;(II) an additional amount of $131,000,000;
+&emsp;&emsp;&emsp;(II) an additional amount of $31,000,000;
 
 &emsp;&emsp;(v) for fiscal year 2000—
 
 &emsp;&emsp;&emsp;(I) $86,000,000; and
 
-&emsp;&emsp;&emsp;(II) an additional amount of $131,000,000;
+&emsp;&emsp;&emsp;(II) an additional amount of $86,000,000;
 
 &emsp;&emsp;(vi) for fiscal year 2001—
 
@@ -268,13 +268,133 @@ Component costs.—The Secretary shall monitor State agencies’ expenditure of 
 
 #### (j) Training materials regarding certification of farming households
 
-Not later than 180 days after September 19, 1988, and annually thereafter, the Secretary shall publish instructional materials specifically designed to be used by the State agency to provide intensive training to State agency personnel who undertake the certification of households that include a member who engages in farming.
+Not later than 180 days after September 19, 1988, and annually thereafter, the Secretaryshall publish instructional materials specifically designed to be used by the State agency to provide intensive training to State agency personnel who undertake the certification of households that include a member who engages in farming.
 
-(Pub. L. 88–525, §16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, §9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, §3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, §121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, §808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(b), title III, §321(b), (c), title IV, §404(e), (g), title VI, §604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, §941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, §108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, §401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(c), title VIII, §§817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, §1002(a), Aug. 5, 1997, 111 Stat. 252.)
+#### (k) Reductions in payments for administrative costs
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) AFDC program
+
+&emsp;&emsp;The term “AFDC program” means the program of aid to families with dependent children established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq. (as in effect, with respect to a State, during the base period for that State)).
+
+#### (B) Base period
+
+&emsp;&emsp;The term “base period” means the period used to determine the amount of the State family assistance grant for a State under section 403 of the Social Security Act (42 U.S.C. 603).
+
+#### (C) Medicaid program
+
+&emsp;&emsp;The term “medicaid program” means the program of medical assistance under a State plan or under a waiver of the plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+
+#### (2) Determinations of amounts attributable to benefiting programs
+
+&emsp;Not later than 180 days after June 23, 1998, the Secretary of Health and Human Services, in consultation with the Secretary of Agriculture and the States, shall, with respect to the base period for each State, determine—
+
+&emsp;&emsp;(A) the annualized amount the State received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as in effect during the base period)) for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDC program, the food stamp program, and the medicaid program that were allocated to the AFDC program; and
+
+&emsp;&emsp;(B) the annualized amount the State would have received under section 403(a)(3) of the Social Security Act (42 U.S.C. 603(a)(3) (as so in effect)), section 1903(a)(7) of the Social Security Act (42 U.S.C. 1396b(a)(7) (as so in effect)), and subsection (a) of this section (as so in effect), for administrative costs common to determining the eligibility of individuals, families, and households eligible or applying for the AFDC program and the food stamp program, the AFDC program and the medicaid program, and the AFDC program, the food stamp program, and the medicaid program, if those costs had been allocated equally among such programs for which the individual, family, or household was eligible or applied for.
+
+#### (3) Reduction in payment
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of this section, effective for each of fiscal years 1999 through 2002, the Secretary shall reduce, for each fiscal year, the amount paid under subsection (a) of this section to each State by an amount equal to the amount determined for the food stamp program under paragraph (2)(B). The Secretary shall, to the extent practicable, make the reductions required by this paragraph on a quarterly basis.
+
+#### (B) Application
+
+&emsp;&emsp;If the Secretary of Health and Human Services does not make the determinations required by paragraph (2) by September 30, 1999—
+
+&emsp;&emsp;&emsp;(i) during the fiscal year in which the determinations are made, the Secretary shall reduce the amount paid under subsection (a) of this section to each State by an amount equal to the sum of the amounts determined for the food stamp program under paragraph (2)(B) for fiscal year 1999 through the fiscal year during which the determinations are made; and
+
+&emsp;&emsp;&emsp;(ii) for each subsequent fiscal year through fiscal year 2002, subparagraph (A) applies.
+
+#### (4) Appeal of determinations
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 5 days after the date on which the Secretary of Health and Human Services makes any determination required by paragraph (2) with respect to a State, the Secretary shall notify the chief executive officer of the State of the determination.
+
+#### (B) Review by administrative law judge
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 60 days after the date on which a State receives notice under subparagraph (A) of a determination, the State may appeal the determination, in whole or in part, to an administrative law judge of the Department of Health and Human Services by filing an appeal with the administrative law judge.
+
+#### (ii) Documentation
+
+&emsp;&emsp;&emsp;The administrative law judge shall consider an appeal filed by a State under clause (i) on the basis of such documentation as the State may submit and as the administrative law judge may require to support the final decision of the administrative law judge.
+
+#### (iii) Review
+
+&emsp;&emsp;&emsp;In deciding whether to uphold a determination, in whole or in part, the administrative law judge shall conduct a thorough review of the issues and take into account all relevant evidence.
+
+#### (iv) Deadline
+
+&emsp;&emsp;&emsp;Not later than 60 days after the date on which the record is closed, the administrative law judge shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) make a final decision with respect to an appeal filed under clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) notify the chief executive officer of the State of the decision.
+
+#### (C) Review by Departmental Appeals Board
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 30 days after the date on which a State receives notice under subparagraph (B) of a final decision, the State may appeal the decision, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (referred to in this paragraph as the “Board”) by filing an appeal with the Board.
+
+#### (ii) Review
+
+&emsp;&emsp;&emsp;The Board shall review the decision on the record.
+
+#### (iii) Deadline
+
+&emsp;&emsp;&emsp;Not later than 60 days after the date on which the appeal is filed, the Board shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) make a final decision with respect to an appeal filed under clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) notify the chief executive officer of the State of the decision.
+
+#### (D) Judicial review
+
+&emsp;&emsp;The determinations of the Secretary of Health and Human Services under paragraph (2), and a final decision of the administrative law judge or Board under subparagraphs (B) and (C), respectively, shall not be subject to judicial review.
+
+#### (E) Reduced payments pending appeal
+
+&emsp;&emsp;The pendency of an appeal under this paragraph shall not affect the requirement that the Secretary reduce payments in accordance with paragraph (3).
+
+#### (5) Allocation of administrative costs
+
+#### (A) In general
+
+&emsp;&emsp;No funds or expenditures described in subparagraph (B) may be used to pay for costs—
+
+&emsp;&emsp;&emsp;(i) eligible for reimbursement under subsection (a) of this section (or costs that would have been eligible for reimbursement but for this subsection); and
+
+&emsp;&emsp;&emsp;(ii) allocated for reimbursement to the food stamp program under a plan submitted by a State to the Secretary of Health and Human Services to allocate administrative costs for public assistance programs.
+
+#### (B) Funds and expenditures
+
+&emsp;&emsp;Subparagraph (A) applies to—
+
+&emsp;&emsp;&emsp;(i) funds made available to carry out part A of title IV, or title XX, of the Social Security Act (42 U.S.C. 601 et seq., 1397 et seq.);
+
+&emsp;&emsp;&emsp;(ii) expenditures made as qualified State expenditures (as defined in section 409(a)(7)(B) of that Act (42 U.S.C. 609(a)(7)(B)));
+
+&emsp;&emsp;&emsp;(iii) any other Federal funds (except funds provided under subsection (a) of this section); and
+
+&emsp;&emsp;&emsp;(iv) any other State funds that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) expended as a condition of receiving Federal funds; or
+
+&emsp;&emsp;&emsp;&emsp;(II) used to match Federal funds under a Federal program other than the food stamp program.
+
+(Pub. L. 88–525, §16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, §9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, §3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, §121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, §808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(b), title III, §321(b), (c), title IV, §404(e), (g), title VI, §604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, §941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, §108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, §401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(c), title VIII, §§817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, §1002(a), Aug. 5, 1997, 111 Stat. 252; Pub. L. 105–185, title V, §§501, 502(a), June 23, 1998, 112 Stat. 575.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (e) and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (e), (g), and (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
@@ -282,9 +402,17 @@ September 19, 1988, referred to in subsec. (d)(2), was in the original “the da
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–185, §502(a)(1), substituted “Subject to subsection (k) of this section, the Secretary” for “The Secretary” in first sentence.
+
+Subsec. (h)(1)(A)(iv)(II). Pub. L. 105–185, §501(1), substituted “$31,000,000” for “$131,000,000”.
+
+Subsec. (h)(1)(A)(v)(II). Pub. L. 105–185, §501(2), substituted “$86,000,000” for “$131,000,000”.
+
+Subsec. (k). Pub. L. 105–185, §502(a)(2), added subsec. (k).
+
 1997—Subsec. (h)(1). Pub. L. 105–33 added par. (1) and struck out former par. (1) consisting of subpars. (A) to (D) requiring the Secretary to reserve for allocation to State agencies specified amounts for fiscal years 1996 to 2002 to carry out employment and training programs.
 
-1996—Subsec. (a). Pub. L. 104–193, §§844(c), 847, inserted “but not including recruitment activities,” before “(5) fair” and substituted “35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise” for “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter of the value of all funds or allotments recovered or collected pursuant to subsections (b)(1) and (c) of section 2022 of this title and 10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter of the value of all funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise”.
+1996—Subsec. (a). Pub. L. 104–193, §§844(c), 847, inserted “but not including recruitment activities,” before “(5) fair” and substituted “35 percent of the valueof all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise” for “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter of the value of all funds or allotments recovered or collected pursuant to subsections (b)(1) and (c) of section 2022 of this title and 10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter of the value of all funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise”.
 
 Subsec. (b). Pub. L. 104–193, §§848(a), 849, added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary shall (1) establish standards for the efficient and effective administration of the food stamp program by the States, including standards for the periodic review of the hours that food stamp offices are open during the day, week, or month to ensure that employed individuals are adequately served by the food stamp program, and (2) instruct each State to submit, at regular intervals, reports which shall specify the specific administrative actions proposed to be taken and implemented in order to meet the efficiency and effectiveness standards established pursuant to clause (1) of this subsection.”
 
@@ -302,7 +430,7 @@ Subsec. (h)(2). Pub. L. 104–193, §817(c), inserted before period at end “,�
 
 Subsec. (h)(5). Pub. L. 104–193, §817(d)(1), struck out “(A)” before “The Secretary shall” and struck out subpar. (B) which read as follows: “The Secretary shall, not later than January 1, 1989, report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the effectiveness of such employment and training programs.”
 
-Subsec. (h)(6). Pub. L. 104–193, §817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal paymentsunder this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
+Subsec. (h)(6). Pub. L. 104–193, §817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal payments under this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
 
 1995—Subsec. (i)(3). Pub. L. 104–66 struck out par. (3) which read as follows: “Not later than 12 months after December 23, 1985, and each 12 months thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that lists project areas identified under paragraph (1) and describes any procedures required to be carried out under paragraph (2).”
 
@@ -418,6 +546,10 @@ Subsec. (f). Pub. L. 96–58, §4, added subsec. (f).
 
 1967—Subsec. (a). Pub. L. 90–91 provided for appropriations for the fiscal years ending June 30, 1968 and 1969, and inserted provision dealing with the carrying out of this chapter only with funds appropriated from the general fund of the Treasury for the purposes of this chapter.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–185, title V, §510(a), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 501 and 502 \[amending this section\] take effect on the date of enactment of this Act \[June 23, 1998\].”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, without regard to whether regulations have been promulgated to implement such amendment, see section 1005(b) of Pub. L. 105–33, set out as a note under section 2015 of this title.
@@ -428,7 +560,7 @@ Amendment by section 109(c) of Pub. L. 104–193 effective July 1, 1997, with tr
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendment
 
@@ -507,6 +639,14 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 #### Regulations
 
 Secretary of Agriculture to promulgate regulations necessary to implement amendment of this section by Pub. L. 105–33, not later than one year after Aug. 5, 1997, see section 1005(a) of Pub. L. 105–33, set out as a note under section 2015 of this title.
+
+#### Review of Methodology Used To Make Certain Determinations
+
+Pub. L. 105–185, title V, §502(b), June 23, 1998, 112 Stat. 578, provided that: “Not later than 1 year after the date of enactment \[June 23, 1998\], the Comptroller General of the United States shall—
+
+&emsp;“(1) review the adequacy of the methodology used in making the determinations required under section 16(k)(2)(B) of the Food Stamp Act of 1977 \[7 U.S.C. 2025(k)(2)(B)\] (as added by subsection (a)(2)); and
+
+&emsp;“(2) submit a written report on the results of the review to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
 
 #### Report to Congress
 

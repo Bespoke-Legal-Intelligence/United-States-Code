@@ -6,13 +6,13 @@ In this chapter—
 
 &emsp;(2) “employee” means any permanent Federal Aviation Administration personnel employed by the Metropolitan Washington Airports on June 7, 1987.
 
-&emsp;(3) “Metropolitan Washington Airports” means Washington National Airport and Washington Dulles International Airport.
+&emsp;(3) “Metropolitan Washington Airports” means Ronald Reagan Washington National Airport and Washington Dulles International Airport.
 
 &emsp;(4) “Washington Dulles International Airport” means the airport constructed under the Act of September 7, 1950 (ch. 905, 64 Stat. 770), and includes the Dulles Airport Access Highway and Right-of-way, including the extension between Interstate Routes I–495 and I–66.
 
-&emsp;(5) “Washington National Airport” means the airport described in the Act of June 29, 1940 (ch. 444, 54 Stat. 686).
+&emsp;(5) “Ronald Reagan Washington National Airport” means the airport described in the Act of June 29, 1940 (ch. 444, 54 Stat. 686).
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2207.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2207; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3.)
 
 Historical and Revision Notes
 
@@ -49,4 +49,14 @@ Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in par. (5), was classi
 #### Prior Provisions
 
 A prior section 49103 was renumbered section 50103 of this title.
+
+#### Amendments
+
+1998—Pars. (3), (5). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport”.
+
+#### Change of Name
+
+Pub. L. 105–154, §1, Feb. 6, 1998, 112 Stat. 3, provided that: “The airport described in the Act entitled ‘An Act to provide for the administration of the Washington National Airport, and for other purposes’, approved June 29, 1940 (54 Stat. 686) \[section 2401 et seq. of former Title 49, Transportation, see References in Text note above\], and known as the Washington National Airport, shall be known and designated as the ‘Ronald Reagan Washington National Airport’.”
+
+Pub. L. 105–154, §2(b), Feb. 6, 1998, 112 Stat. 4, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Washington National Airport shall be deemed to be a reference to the ‘Ronald Reagan Washington National Airport’.”
 

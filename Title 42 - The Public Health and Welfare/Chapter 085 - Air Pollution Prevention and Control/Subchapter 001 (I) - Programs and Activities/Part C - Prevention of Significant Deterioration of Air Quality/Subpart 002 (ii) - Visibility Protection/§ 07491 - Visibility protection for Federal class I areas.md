@@ -70,7 +70,7 @@ For the purpose of this section—
 
 &emsp;(7) the term “major stationary source” means the following types of stationary sources with the potential to emit 250 tons or more of any pollutant: fossil-fuel fired steam electric plants of more than 250 million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than 250 tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than 250 million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding 300,000 barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities.
 
-(July 14, 1955, ch. 360, title I, §169A, as added Aug. 7, 1977, Pub. L. 95–95, title I, §128, 91 Stat. 742.)
+(July 14, 1955, ch. 360, title I, §169A, as added Pub. L. 95–95, title I, §128, Aug. 7, 1977, 91 Stat. 742.)
 
 #### Effective Date
 

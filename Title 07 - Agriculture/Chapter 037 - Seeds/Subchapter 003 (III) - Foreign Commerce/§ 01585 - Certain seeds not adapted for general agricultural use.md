@@ -2,7 +2,7 @@
 
 Whenever the Secretary of Agriculture, after a public hearing, determines that seed of alfalfa or red clover from any foreign country is not adapted for general agricultural use in the United States, the Secretary shall publish the determination and the reasons for the determination.
 
-(Aug. 9, 1939, ch. 615, title III, §303, as added Dec. 8, 1994, Pub. L. 103–465, title IV, §441(3), 108 Stat. 4973.)
+(Aug. 9, 1939, ch. 615, title III, §303, as added Pub. L. 103–465, title IV, §441(3), Dec. 8, 1994, 108 Stat. 4973.)
 
 #### Prior Provisions
 

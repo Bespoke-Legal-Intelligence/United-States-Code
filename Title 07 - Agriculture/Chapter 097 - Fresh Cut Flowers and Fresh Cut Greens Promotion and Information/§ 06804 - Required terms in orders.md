@@ -122,7 +122,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;(A) each term of appointment to the PromoFlor Council shall be for 3 years, except that, of the initial appointments, 9 of the appointments shall be for 2-year terms, 8 of the appointments shall be for 3-year terms, and 8 of the appointments shall be for 4-year terms;
 
-&emsp;&emsp;(B) no member of the PromoFlor Council may serve more than 2 consecutive terms of 3 years, except that any member serving an initial term of 4 years may serve an additional term of 3 years; and
+&emsp;&emsp;(B) no member of the PromoFlor Council may serve more than 2 consecutive terms of3 years, except that any member serving an initial term of 4 years may serve an additional term of 3 years; and
 
 &emsp;&emsp;(C) members of the PromoFlor Council shall serve without compensation, but shall be reimbursed for the expenses of the members incurred in performing duties as members of the PromoFlor Council.
 
@@ -212,7 +212,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 &emsp;&emsp;&emsp;(i) for the establishment, implementation, administration, and evaluation of appropriate plans and projects for advertising, sales promotion, other promotion, and consumer information with respect to cut flowers and cut greens, and for the disbursement of necessary funds for the purposes described in this clause;
 
-&emsp;&emsp;&emsp;(ii) that any plan or project referred to in clause (i) shall be directed toward increasing the general demand for cut flowers or cut greens and may not make reference to a private brand or trade name, point of origin, or source of supply, except that this clause shall not preclude the PromoFlor Council from offering the plans and projects of the Council for use by commercial parties, under terms and conditions prescribed by the PromoFlor Council and approved by the Secretary; and
+&emsp;&emsp;&emsp;(ii) that any plan or project referred to in clause (i) shall be directed toward increasing the general demand for cut flowers or cut greens and may not make reference to a private brand or trade name, point of origin, or source of supply, except that this clause shall not preclude thePromoFlor Council from offering the plans and projects of the Council for use by commercial parties, under terms and conditions prescribed by the PromoFlor Council and approved by the Secretary; and
 
 &emsp;&emsp;&emsp;(iii) that no plan or project may make use of unfair or deceptive acts or practices with respect to quality or value.
 
@@ -380,7 +380,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 &emsp;&emsp;&emsp;(i) establish an escrow account to be used for assessment refunds, as needed; and
 
-&emsp;&emsp;&emsp;(ii) place into the account an amount equal to 10 percent of the total amount of assessments collected during the period beginning on the date the order becomes effective, as provided in section 6803(b)(3)(B) of this title, and ending on the date the initial referendum on the order under section 6806(a) of this title is completed.
+&emsp;&emsp;&emsp;(ii) place into the account an amount equal to 10 percent of the total amount ofassessments collected during the period beginning on the date the order becomes effective, as provided in section 6803(b)(3)(B) of this title, and ending on the date the initial referendum on the order under section 6806(a) of this title is completed.
 
 #### (B) Right to receive refund
 
@@ -412,7 +412,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (5) Use of assessment funds
 
-&emsp;The order shall provide that assessment funds (less any refunds expended under the terms of the order required under paragraph (4)) shall be used for payment of costs incurred in implementing and administering the order,with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter.
+&emsp;The order shall provide that assessment funds (less any refunds expended under the terms of the order required under paragraph (4)) shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter.
 
 #### (6) Postponement of collections
 
@@ -448,7 +448,7 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 
 #### (1) In general
 
-&emsp;The order shall provide that each qualified handler shall maintain, and make available for inspection, such books and records as are required by the order and file reports at the time, in the manner, and having the content required by the order, to the end that such information is made available to the Secretary and the PromoFlor Council as is appropriate for the administration or enforcement of this chapter, the order, or any regulation issued under this chapter.
+&emsp;The order shall provide that each qualified handler shall maintain, and make availablefor inspection, such books and records as are required by the order and file reports at the time, in the manner, and having the content required by the order, to the end that such information is made available to the Secretary and the PromoFlor Council as is appropriate for the administration or enforcement of this chapter, the order, or any regulation issued under this chapter.
 
 #### (2) Confidentiality requirement
 

@@ -2,7 +2,7 @@
 
 Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously destroys or injures or attempts to destroy or injure any structure, conveyance, or other real or personal property, shall be fined under this title or imprisoned not more than five years, or both, and if the building be a dwelling, or the life of any person be placed in jeopardy, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147; Apr. 24, 1996, Pub. L. 104–132, title VII, §703, 110 Stat. 1294.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, §703, Apr. 24, 1996, 110 Stat. 1294.)
 
 #### Historical and Revision Notes
 

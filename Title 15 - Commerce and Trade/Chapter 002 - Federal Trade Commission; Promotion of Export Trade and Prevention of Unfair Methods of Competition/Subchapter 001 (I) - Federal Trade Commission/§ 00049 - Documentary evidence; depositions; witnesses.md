@@ -12,7 +12,7 @@ The Commission may order testimony to be taken by deposition in any proceeding o
 
 Witnesses summoned before the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(Sept. 26, 1914, ch. 311, §9, 38 Stat. 722; Oct. 15, 1970, Pub. L. 91–452, title II, §211, 84 Stat. 929; Jan. 4, 1975, Pub. L. 93–637, title II, §203(b), 88 Stat. 2198.)
+(Sept. 26, 1914, ch. 311, §9, 38 Stat. 722; Pub. L. 91–452, title II, §211, Oct. 15, 1970, 84 Stat. 929; Pub. L. 93–637, title II, §203(b), Jan. 4, 1975, 88 Stat. 2198.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Fourth par. Pub. L. 93–637, §203(b)(3), substituted “person, partnership, o
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L.91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Savings Provision
 

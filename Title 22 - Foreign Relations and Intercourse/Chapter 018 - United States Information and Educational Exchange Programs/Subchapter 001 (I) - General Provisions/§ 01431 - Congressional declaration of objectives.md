@@ -22,7 +22,7 @@ For short title of Pub. L. 98–111, which enacted subchapter V–A of this chap
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–168, Nov. 29, 1973, 87 Stat. 688, which amended section 1476 of this title, is known as the “United States Information Agency Appropriations Authorization Act of 1973”. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 1476 of this title and Tables.
+Pub. L. 93–168, §1, Nov. 29, 1973, 87 Stat. 688, provided: “That this Act \[amending former section 1476 of this title\] may be cited as the ‘United States Information Agency Appropriations Authorization Act of 1973’.”
 
 #### Short Title
 
@@ -34,7 +34,7 @@ Section 1010 of act Jan. 27, 1948, provided that: “If any provision of this Ac
 
 #### Transfer of Functions
 
-All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title.
+All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 

@@ -4,6 +4,10 @@ There is established in the executive branch of the Government an independent ag
 
 (May 10, 1950, ch. 171, §2, 64 Stat. 149.)
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–207, §1, July 29, 1998, 112 Stat. 869, provided that: “This Act \[enacting sections 1862k to 1862m of this title, amending sections 1862, 1863, 1864, 1873, 1874, 1881a, 1881b, 1885b, 1885c, and 6686 of this title, and enacting provisions set out as notes under sections 1862k and 6686 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 1998’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–476, §1, Oct. 23, 1992, 106 Stat. 2297, provided that: “This Act \[enacting sections 1862h to 1862j of this title and amending section 1862 of this title\] may be cited as the ‘Scientific and Advanced-Technology Act of 1992’.”
@@ -18,7 +22,7 @@ Pub. L. 100–418, title VI, §6401, Aug. 23, 1988, 102 Stat. 1542, which provid
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–383, §1, Aug. 21, 1986, 100 Stat. 813, provided: “That this Act \[amending sections 1862, 1864a, 1869, and 1870 of this title and section 5316 of Title 5, Government Organization and Employees, repealing sections 1876 to 1879 of this title, and enacting provisions set out as notes under sections 1885a and 6614 of this title\] may be cited as the ‘National Science Foundation Authorization Act for Fiscal Year 1987’.”
+Pub. L. 99–383, §1, Aug. 21, 1986, 100 Stat. 813, provided: “That this Act \[amending sections 1862, 1864a, 1869, and 1870 of this title and section 5316 of Title 5, Government Organization and Employees, repealing sections 1876 to 1879 of this title, and enacting provisions set out asnotes under sections 1885a and 6614 of this title\] may be cited as the ‘National Science Foundation Authorization Act for Fiscal Year 1987’.”
 
 #### Short Title of 1985 Amendment
 
@@ -54,7 +58,7 @@ Amendments by Pub. L. 90–407, July 18, 1868, 82 Stat. 360, intended to continu
 
 Eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, as amended Pub. L. 88–426, title III, §305(41), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 29, 1962, pursuant to the provisions ofthe Reorganization Act of 1949, 63 Stat. 203, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 29, 1962, pursuant to the provisions of the Reorganization Act of 1949, 63 Stat. 203, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### CERTAIN SCIENCE AGENCIES AND FUNCTIONS
 
@@ -112,7 +116,7 @@ I74Section 21. Executive Committee
 
 I74Section 31. Incidental Transfers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by the provisions of section 3 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office ofScience and Technology at such time or times as the said Director shall direct.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by the provisions of section 3 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office of Science and Technology at such time or times as the said Director shall direct.
 
 (b) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided for in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 

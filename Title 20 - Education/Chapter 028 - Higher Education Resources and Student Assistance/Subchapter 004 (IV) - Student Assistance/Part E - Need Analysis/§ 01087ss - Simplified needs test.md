@@ -50,11 +50,13 @@
 
 #### (3) Qualifying forms
 
-&emsp;A student or family files a form described in this paragraph if the student or family, respectively, files—
+&emsp;A student or family files a form described in this subsection, or subsection (c) of this section, as the case may be, if the student or family, respectively, files—
 
-&emsp;&emsp;(A) a form 1040A or 1040EZ (including any prepared or electronic version of such form) required pursuant to title 26; or
+&emsp;&emsp;(A) a form 1040A or 1040EZ (including any prepared or electronic version of such form) required pursuant to title 26;
 
-&emsp;&emsp;(B) an income tax return (including any prepared or electronic version of such return) required pursuant to the tax code of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau.
+&emsp;&emsp;(B) a form 1040 (including any prepared or electronic version of such form) required pursuant to title 26, except that such form shall be considered a qualifying form only if the student or family files such form in order to take a tax credit under section 25A of title 26, and would otherwise be eligible to file a form described in subparagraph (A); or
+
+&emsp;&emsp;(C) an income tax return (including any prepared or electronic version of such return) required pursuant to the tax code of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau.
 
 #### (c) Zero expected family contribution
 
@@ -62,21 +64,31 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;(1) in the case of a dependent student—
 
-&emsp;&emsp;(A) the student's parents were not required to file an income tax return under section 6012(a)(1) of title 26; and
+&emsp;&emsp;(A) the student's parents file, or are eligible to file, a form described in subsection (b)(3) of this section, or certify that the parents are not required to file an income tax return and the student files, or is eligible to file, such a form, or certifies that the student is not required to file an income tax return; and
 
 &emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to the maximum amount of income (rounded annually to the nearest thousand dollars) that may be earned in 1992 or the current year, whichever is higher, in order to claim the maximum Federal earned income credit; or
 
 &emsp;(2) in the case of an independent student with dependents other than a spouse—
 
-&emsp;&emsp;(A) the student (and the student's spouse, if any) was not required to file an income tax return under section 6012(a)(1) of title 26; and
+&emsp;&emsp;(A) the student (and the student's spouse, if any) files, or is eligible to file, a form described in subsection (b)(3) of this section, or certifies that the student (and the student's spouse, if any) is not required to file an income tax return; and
 
-&emsp;&emsp;(B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to the maximum amount of income (rounded annually to the nearest thousand dollars) that may be earned in 1992or the current year, whichever is higher, in order to claim the maximum Federal earned income credit.
+&emsp;&emsp;(B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to the maximum amount of income (rounded annually to the nearest thousand dollars) that may be earned in 1992 or the current year, whichever is higher, in order to claim the maximum Federal earned income credit.
 
 > An individual is not required to qualify or file for the earned income credit in order to be eligible under this subsection.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731.)
 
 #### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–244, §477(1)(A), substituted “this subsection, or subsection (c) of this section, as the case may be,” for “this paragraph” in introductory provisions.
+
+Subsec. (b)(3)(A). Pub. L. 105–244, §477(1)(B), struck out “or” at end.
+
+Subsec. (b)(3)(B), (C). Pub. L. 105–244, §477(1)(C), (D), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (c)(1)(A). Pub. L. 105–244, §477(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the student's parents were not required to file an income tax return under section 6012(a)(1) of title 26; and”.
+
+Subsec. (c)(2)(A). Pub. L. 105–244, §477(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the student (and the student's spouse, if any) was not required to file an income tax return under section 6012(a)(1) of title 26; and”.
 
 1993—Subsec. (a)(1). Pub. L. 103–208, §2(g)(10), inserted “of” after “(c)”.
 
@@ -110,9 +122,13 @@ Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

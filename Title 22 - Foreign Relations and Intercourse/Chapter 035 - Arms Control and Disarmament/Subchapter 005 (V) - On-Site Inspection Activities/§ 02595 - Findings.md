@@ -2,13 +2,11 @@
 
 The Congress finds that—
 
-&emsp;(1) under this chapter, the United States Arms Control and Disarmament Agency is charged with the “formulation and implementation of United States arms control and disarmament policy in a manner which will promote the national security”;
+&emsp;(1) under this chapter, the Department of State is charged with the “formulation and implementation of United States arms control and disarmament policy in a manner which will promote the national security”;
 
-&emsp;(2) as defined in this chapter, the terms “arms control” and “disarmament” mean “the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control”;
+&emsp;(2) the On-Site Inspection Agency was established in 1988 pursuant to the INF Treaty to implement, on behalf of the United States, the inspection provisions of the INF Treaty;
 
-&emsp;(3) the On-Site Inspection Agency was established in 1988 pursuant to the INF Treaty to implement, on behalf of the United States, the inspection provisions of the INF Treaty;
-
-&emsp;(4) on-site inspection activities under the INF Treaty include—
+&emsp;(3) on-site inspection activities under the INF Treaty include—
 
 &emsp;&emsp;(A) inspections in Russia, Ukraine, Kazakhstan, Belarus, Turkmenistan, Uzbekistan, the Czech Republic, and Germany,
 
@@ -18,15 +16,27 @@ The Congress finds that—
 
 &emsp;&emsp;(D) support for the inspectors at the Portal Monitoring Facility in Utah;
 
-&emsp;(5) the On-Site Inspection Agency has additional responsibilities to those specified in paragraph (4), including the monitoring of nuclear tests pursuant to the Threshold Test Ban Treaty and the Peaceful Nuclear Explosions Treaty and the monitoring of the inspection provisions of such additional arms control agreements as the President may direct;
+&emsp;(4) the On-Site Inspection Agency has additional responsibilities to those specified in paragraph (3), including the monitoring of nuclear tests pursuant to the Threshold Test Ban Treaty and the Peaceful Nuclear Explosions Treaty and the monitoring of the inspection provisions of such additional arms control agreements as the President may direct;
 
-&emsp;(6) the personnel of the On-Site Inspection Agency include civilian technical experts, civilian support personnel, and members of the Armed Forces; and
+&emsp;(5) the personnel of the On-Site Inspection Agency include civilian technical experts, civilian support personnel, and members of the Armed Forces; and
 
-&emsp;(7) the senior officials of the On-Site Inspection Agency include representatives from the United States Arms Control and Disarmament Agency and the Department of State.
+&emsp;(6) the senior officials of the On-Site Inspection Agency include representatives from the Department of State.
 
-(Pub. L. 87–297, title V, §61, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1855; amended Pub. L. 102–228, title IV, §402(a)(1), Dec. 12, 1991, 105 Stat. 1699; Pub. L. 103–199, title IV, §401(d), Dec. 17, 1993, 107 Stat. 2324.)
+(Pub. L. 87–297, title V, §501, formerly §61, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1855; amended Pub. L. 102–228, title IV, §402(a)(1), Dec. 12, 1991, 105 Stat. 1699; Pub. L. 103–199, title IV, §401(d), Dec. 17, 1993, 107 Stat. 2324; renumbered and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(17), (21), Oct. 21, 1998, 112 Stat. 2681–772.)
 
 #### Amendments
+
+1998—Par. (1). Pub. L. 105–277, §1223(17)(A), substituted “Department of State” for “United States Arms Control and Disarmament Agency”.
+
+Par. (2). Pub. L. 105–277, §1223(17)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “as defined in this chapter, the terms ‘arms control’ and ‘disarmament’ mean ‘the identification, verification, inspection, limitation, control, reduction,or elimination, of armed forces and armaments of all kinds under international agreement to establish an effective system of international control’;”.
+
+Par. (3). Pub. L. 105–277, §1223(17)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Par. (4). Pub. L. 105–277, §1223(17)(C), (D), redesignated par. (5) as (4) and substituted “paragraph (3)” for “paragraph (4)”. Former par. (4) redesignated (3).
+
+Par. (5). Pub. L. 105–277, §1223(17)(C), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+
+Pars. (6), (7). Pub. L. 105–277, §1223(17)(C), (E), redesignated par. (7) as (6) and struck out “United States Arms Control and Disarmament Agency and the” before “Department of State”. Former par. (6) redesignated (5).
 
 1993—Par. (4)(A). Pub. L. 103–199, §401(d)(1), substituted “Russia, Ukraine, Kazakhstan, Belarus, Turkmenistan, Uzbekistan, the Czech Republic, and Germany” for “the Soviet Union, Czechoslovakia, and the German Democratic Republic”.
 
@@ -38,9 +48,13 @@ Par. (4)(D). Pub. L. 103–199, §401(d)(4), struck out “Soviet” before “i
 
 1991—Pars. (5) to (7). Pub. L. 102–228 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
 #### Accounting for Reimbursable Expenses Incurred by Department of Defense on Behalf of Soviet Union or Successor Entities in Monitoring INF Treaty
 
-Pub. L. 103–139, title VIII, §8033, Nov. 11, 1993, 107 Stat. 1447, provided that: “During the current fiscal year and thereafter, of the funds appropriated, reimbursable expenses incurred by the Department of Defense on behalf of the Soviet Union or its successor entities in monitoring United States implementation of the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range or Shorter-Range Missiles (‘INF Treaty’), concluded December 8, 1987, may be treated as orders received and obligation authority for the applicable appropriation, account, or fund increased accordingly. Likewise, any reimbursements received for such costs may be credited to the same appropriation, account, or fund to which the expenses were charged: <i>Provided</i>, That reimbursements which are not received within one hundred and eighty days after submission of an appropriate request for payment shall be subject to interest at the current rate established pursuant to section 2(b)(1)(B) of the Export-Import Bank Act of 1945 (59 Stat. 526) \[12 U.S.C. 635(b)(1)(B)\]. Interest shall begin to accrue on the one hundred and eighty-first day following submission of an appropriate request for payment: <i>Provided further</i>, That funds appropriated in this Act \[see Tables for classification\] may be used to reimburse United States military personnel for reasonable costs of subsistence, atrates to be determined by the Secretary of Defense, incurred while accompanying Soviet Inspection Team members or inspection team members of the successor entities of the Soviet Union engaged in activities related to the INF Treaty: <i>Provided further</i>, That this provision includes only the in-country period (referred to in the INF Treaty) and is effective whether such duty is performed at, near, or away from an individual's permanent duty station.”
+Pub. L. 103–139, title VIII, §8033, Nov. 11, 1993, 107 Stat. 1447, provided that: “During the current fiscal year and thereafter, of the funds appropriated, reimbursable expenses incurred by the Department of Defense on behalf of the Soviet Union or its successor entities in monitoring United States implementation of the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range or Shorter-Range Missiles (‘INF Treaty’), concluded December 8, 1987, may be treated as orders received and obligation authority for the applicable appropriation, account, or fund increased accordingly. Likewise, any reimbursements received for such costs may be credited to the same appropriation, account, or fund to which the expenses were charged: <i>Provided</i>, That reimbursements which are not received within one hundred and eighty days after submission of an appropriate request for payment shall be subject to interest at the current rate established pursuant to section 2(b)(1)(B) of the Export-Import Bank Act of 1945 (59 Stat. 526) \[12 U.S.C. 635(b)(1)(B)\]. Interest shall begin to accrue on the one hundred and eighty-first day following submission of an appropriate request for payment: <i>Provided further</i>, That funds appropriated in this Act \[see Tables for classification\] may be used to reimburse United States military personnel for reasonable costs of subsistence, at rates to be determined by the Secretary of Defense, incurred while accompanying Soviet Inspection Team members or inspection team members of the successor entities of the Soviet Union engaged in activities related to the INF Treaty: <i>Provided further</i>, That this provision includes only the in-country period (referred to in the INF Treaty) and is effective whether such duty is performed at, near, or away from an individual's permanent duty station.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

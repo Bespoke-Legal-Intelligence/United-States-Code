@@ -2,7 +2,7 @@
 
 The Commissioner and the Administrator shall have authority to maintain direct and continuous liaison with the Directors of the Federal Bureau of Investigation and the Central Intelligence Agency and with other internal security officers of the Government for the purpose of obtaining and exchanging information for use in enforcing the provisions of this chapter in the interest of the internal security of the United States. The Commissioner and the Administrator shall maintain direct and continuous liaison with each other with a view to a coordinated, uniform, and efficient administration of this chapter, and all other immigration and nationality laws.
 
-(June 27, 1952, ch. 477, title I, §105, 66 Stat. 175; Aug. 17, 1977, Pub. L. 95–105, title I, §109(b)(2), 91 Stat. 847; Apr. 30, 1994, Pub. L. 103–236, title I, §162(h)(3), 108 Stat. 408.)
+(June 27, 1952, ch. 477, title I, §105, 66 Stat. 175; Pub. L. 95–105, title I, §109(b)(2), Aug. 17, 1977, 91 Stat. 847; Pub. L. 103–236, title I, §162(h)(3), Apr. 30, 1994, 108 Stat. 408.)
 
 #### Amendments
 

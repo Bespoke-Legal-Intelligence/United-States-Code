@@ -4,7 +4,7 @@
 
 The Secretary shall provide, by regulation, for the registration of all persons engaged in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain for sale in foreign commerce. This section shall not apply to—
 
-&emsp;(1) any person who only incidentally or occasionally buys for sale, or handles, weighs, or transports grain for sale and is not engaged in the regular business of buying grain for sale, or handling, weighing, or transporting grain for sale;
+&emsp;(1) any person who only incidentally or occasionally buys for sale, or handles, weighs, or transports grain for sale and is not engaged in the regular business of buying grain for sale,or handling, weighing, or transporting grain for sale;
 
 &emsp;(2) any producer of grain who only incidentally or occasionally sells or transports grain which the producer has purchased;
 
@@ -28,7 +28,7 @@ The Secretary shall provide, by regulation, for the registration of all persons 
 
 &emsp;(F) such other information as the Secretary deems necessary to carry out the purposes of this chapter.
 
-> Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engagedin the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
+> Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
 
 (2) For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
 
@@ -50,7 +50,7 @@ The Secretary may suspend or revoke any certificate of registration issued under
 
 The Secretary shall charge and collect fees from any person registered under this section. The amount of such fees shall be determined on the basis of the costs of the Secretary in administering the registration required by this section. Such fees shall be deposited in, and used as part of, the fund described in section 79(j) of this title.
 
-(Aug. 11, 1916, ch. 313, pt. B, §17A, as added Oct. 21, 1976, Pub. L. 94–582, §22, 90 Stat. 2886; amended Sept. 29, 1977, Pub. L. 95–113, title XVI, §1604(<i>l</i>), 91 Stat. 1029; Nov. 24, 1993, Pub. L. 103–156, §12(p), 107 Stat. 1529; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §17A, as added Pub. L. 94–582, §22, Oct. 21, 1976, 90 Stat. 2886; amended Pub. L. 95–113, title XVI, §1604(<i>l</i>), Sept. 29, 1977, 91 Stat. 1029; Pub. L. 103–156, §12(p), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 Whoever, knowingly and with intent to defraud the United States, or any agency thereof, possesses any false, altered, forged, or counterfeited writing or document for the purpose of enabling another to obtain from the United States, or from any agency, officer or agent thereof, any sum of money, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

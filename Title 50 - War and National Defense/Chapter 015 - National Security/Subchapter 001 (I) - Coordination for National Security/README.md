@@ -55,3 +55,4 @@
 - [&sect; 00404f - Collection tasking authority](%C2%A7%2000404f%20-%20Collection%20tasking%20authority.md)
 - [&sect; 00404g - Restrictions on intelligence sharing with United Nations](%C2%A7%2000404g%20-%20Restrictions%20on%20intelligence%20sharing%20with%20United%20Nations.md)
 - [&sect; 00404h - Detail of intelligence community personnel&#8212;Intelligence Community Assignment Program](%C2%A7%2000404h%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md)
+- [&sect; 00404i - Additional annual reports from the Director of Central Intelligence](%C2%A7%2000404i%20-%20Additional%20annual%20reports%20from%20the%20Director%20of%20Central%20Intelligence.md)

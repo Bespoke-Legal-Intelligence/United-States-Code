@@ -12,7 +12,7 @@ Any condition, stipulation, or provision binding any person to waive compliance 
 
 (3) This subsection shall not apply (A) to the lawful portion of a contract to the extent that it may be severed from the unlawful portion of the contract, or (B) to preclude recovery against any person for unjust enrichment.
 
-(Aug. 22, 1940, ch. 686, title I, §47, 54 Stat. 845; Oct. 21, 1980, Pub. L. 96–477, title I, §104, 94 Stat. 2277.)
+(Aug. 22, 1940, ch. 686, title I, §47, 54 Stat. 845; Pub. L. 96–477, title I, §104, Oct. 21, 1980, 94 Stat. 2277.)
 
 #### Amendments
 

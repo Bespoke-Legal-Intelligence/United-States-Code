@@ -6,7 +6,7 @@ Making Slots Available for Essential Air Service.—
 
 &emsp;(1)
 
-Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
+Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Slots for Foreign Air Transportation.—
 
 &emsp;(1)
 
-Exemptions.—If the Secretary finds it to be in the public interest at a high density airport (other than Washington National Airport), the Secretary may grant by order exemptions from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable air carriers and foreign air carriers to provide foreign air transportation using Stage 3 aircraft.
+Exemptions.—If the Secretary finds it to be in the public interest at a high density airport (other than Ronald Reagan Washington National Airport), the Secretary may grant by order exemptions from the requirements of subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable air carriers and foreign air carriers to provide foreign air transportation using Stage 3 aircraft.
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ Slots for New Entrants.—
 
 &emsp;(1)
 
-In general.—If the Secretary finds it to be in the public interest and the circumstances to be exceptional, the Secretary may by order grant exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable new entrant air carriers to provide air transportation at high density airports (other than Washington National Airport).
+In general.—If the Secretary finds it to be in the public interest and the circumstances to be exceptional, the Secretary may by order grant exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable new entrant air carriers to provide air transportation at high density airports (other than Ronald Reagan Washington National Airport).
 
 &emsp;(2)
 
@@ -54,17 +54,17 @@ Period of effectiveness.—Exemptions issued under this subsection shall cease t
 
 (d)
 
-Special Rules for Washington National Airport.—
+Special Rules for Ronald Reagan Washington National Airport.—
 
 &emsp;(1)
 
-In general.—Notwithstanding sections 49104(a)(5) and 49111(e) of this title, or any provision of this section, the Secretary may, only under circumstances determined by the Secretary to be exceptional, grant by order to an air carrier currently holding or operating a slot at Washington National Airport an exemption from requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at Washington National Airport), to enable that carrier to provide air transportation with Stage 3 aircraft at Washington National Airport; except that such exemption shall not—
+In general.—Notwithstanding sections 49104(a)(5) and 49111(e) of this title, or any provision of this section, the Secretary may, only under circumstances determined by the Secretary to be exceptional, grant by order to an air carrier currently holding or operating a slot at Ronald Reagan Washington National Airport an exemption from requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at Ronald Reagan Washington National Airport), to enable that carrier to provide air transportation with Stage 3 aircraft at Ronald Reagan Washington National Airport; except that such exemption shall not—
 
-&emsp;&emsp;(A) result in an increase in the total number of slots per day at Washington National Airport;
+&emsp;&emsp;(A) result in an increase in the total number of slots per day at Ronald Reagan Washington National Airport;
 
-&emsp;&emsp;(B) result in an increase in the total number of slots at Washington National Airport from 7:00 ante meridiem to 9:59 post meridiem;
+&emsp;&emsp;(B) result in an increase in the total number of slots at Ronald Reagan Washington National Airport from 7:00 ante meridiem to 9:59 post meridiem;
 
-&emsp;&emsp;(C) increase the number of operations at Washington National Airport in any 1-hour period by more than 2 operations;
+&emsp;&emsp;(C) increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period by more than 2 operations;
 
 &emsp;&emsp;(D) result in the withdrawal or reduction of slots operated by an air carrier;
 
@@ -146,7 +146,7 @@ Slot.—The term “slot” means a reservation for an instrument flight rule ta
 
 Expeditious Consideration of Certain Exemption Requests.—Within 120 days after receiving an application for an exemption under subsection (a)(2) to improve air service between a nonhub airport (as defined in section 41731(a)(4)) and a high density airport subject to the exemption authority under subsection (a), the Secretary shall grant or deny the exemption. The Secretary shall notify the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure of the grant or denial within 14 calendar days after the determination and state the reasons for the determination.
 
-(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584; amended Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–66, title III, §345, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 105–102, §2(24), Nov. 20, 1997, 111 Stat. 2205.)
+(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584; amended Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–66, title III, §345, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 105–102, §2(24), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–154, §2(a)(1)(C), (2), Feb. 6, 1998, 112 Stat. 3.)
 
 #### Historical and Revision Notes
 
@@ -155,6 +155,8 @@ I74Pub. L. 105–102
 This amends 49:41714(d)(1) to make a conforming cross-reference necessary because of the restatement of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500, 100 Stat. 1783–373, Public Law 99–591, 100 Stat. 3341–376) by section 2(26) of this Act as chapter 491 of title 49.
 
 #### Amendments
+
+1998—Subsecs. (a)(1), (b)(1), (c)(1), (d). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing in text and in subsec. (d) heading.
 
 1997—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
 

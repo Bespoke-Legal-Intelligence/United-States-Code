@@ -128,7 +128,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 #### (g) Pollution prevention and emissions control
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
+In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interestgroups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
 &emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
@@ -142,7 +142,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 #### (h) NIEHS studies
 
-(1) The Director of the National Institute of Environmental Health Sciences may conduct aprogram of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
+(1) The Director of the National Institute of Environmental Health Sciences may conduct a program of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
 
 (2) The Director of the National Institute of Environmental Health Sciences shall conduct a program for the education and training of physicians in environmental health.
 
@@ -176,7 +176,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;&emsp;(i) continuous monitoring of emissions of precursors of acid deposition;
 
-&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere, and models that describe the response of ecosystems to acid deposition; and
+&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere,and models that describe the response of ecosystems to acid deposition; and
 
 &emsp;&emsp;(iii) analysis of the costs, benefits, and effectiveness of the acid deposition control program.
 
@@ -208,7 +208,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
 
-(July 14, 1955, ch. 360, title I, §103, formerly §3, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 394; renumbered §103 and amended Oct. 20, 1965, Pub. L. 89–272, title I, §§101(3), 103, 79 Stat. 992, 996; Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 486; Dec. 31, 1970, Pub. L. 91–604, §§2(a), 4(2), 15(a)(2), (c)(2), 84 Stat. 1676, 1689, 1710, 1713; Aug. 7, 1977, Pub. L. 95–95, title I, §101(a), (b), 91 Stat. 686, 687; Nov. 15, 1990, Pub. L. 101–549, title IX, §901(a)–(c), 104 Stat. 2700–2703.)
+(July 14, 1955, ch. 360, title I, §103, formerly §3, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 394; renumbered §103 and amended Pub. L. 89–272, title I, §§101(3), 103, Oct. 20, 1965, 79 Stat. 992, 996; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 486; Pub. L. 91–604, §§2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, 84 Stat. 1676, 1689, 1710, 1713; Pub. L. 95–95, title I, §101(a), (b), Aug. 7, 1977, 91 Stat. 686, 687; Pub. L. 101–549, title IX, §901(a)–(c), Nov. 15, 1990, 104 Stat. 2700–2703.)
 
 #### References in Text
 
@@ -294,7 +294,7 @@ Section 901(g) of Pub. L. 101–549 provided that:
 
 &emsp;“(C) the occurrence and effects of episodic acidification, particularly with respect to high elevation watersheds.
 
-“(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
+“(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate researchand utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
 
 #### Consultation With Committee on Science of House of Representatives
 

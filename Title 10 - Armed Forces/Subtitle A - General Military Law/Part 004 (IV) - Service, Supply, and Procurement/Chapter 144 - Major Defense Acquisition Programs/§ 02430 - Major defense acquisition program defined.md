@@ -16,6 +16,10 @@
 
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Environmental Consequence Analysis of Major Defense Acquisition Programs
 
 Pub. L. 103–337, div. A, title VIII, §815, Oct. 5, 1994, 108 Stat. 2819, provided that:
@@ -62,7 +66,7 @@ Operational Test and Evaluation.—The Secretary of Defense may waive the requir
 
 &emsp;“(3) describes in the test and evaluation master plan, as approved by the Director of Operational Test and Evaluation, the method of evaluation that will be used to evaluate whether the system will be effective and suitable for combat; and
 
-&emsp;“(4) submits to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and on Appropriations of the House of Representatives\] a report containing the determination that was made under paragraph (1), a justification for that determination, and a copy of the plan required by paragraph (3).
+&emsp;“(4) submits to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and House of Representatives\] a report containing the determination that was made under paragraph (1), a justification for that determination, and a copy of the plan required by paragraph (3).
 
 “(c)
 
@@ -94,9 +98,9 @@ Commercial-derivative aircraft (cda).—
 
 &emsp;&emsp;“(B) For purposes of this paragraph, the term ‘commercial-derivative aircraft’ means any of the following:
 
-&emsp;&emsp;&emsp;“(i) Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificate by the Administrator of the Federal Aviation Administration, and that has been sold or leased for use in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
+&emsp;&emsp;&emsp;“(i) Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificateby the Administrator of the Federal Aviation Administration, and that has been sold or leased for use in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
 
-&emsp;&emsp;&emsp;“(ii) Any aircraft that, but for modifications of a type customarily available in the commercial marketplace, or minor modifications made tomeet Federal Government requirements, would satisfy or would have satisfied the criteria in subclause (I).
+&emsp;&emsp;&emsp;“(ii) Any aircraft that, but for modifications of a type customarily available in the commercial marketplace, or minor modifications made to meet Federal Government requirements, would satisfy or would have satisfied the criteria in subclause (I).
 
 &emsp;&emsp;&emsp;“(iii) For purposes of a potential complement or alternative to the C–17 program, any nondevelopmental airlift aircraft, other than the C–17 or any aircraft derived from the C–17, shall be considered a commercial-derivative aircraft.
 
@@ -186,7 +190,7 @@ Pub. L. 101–510, div. A, title VIII, §809, Nov. 5, 1990, 104 Stat. 1593, as a
 
 “(a)
 
-Authority To Conduct Pilot Program.—The Secretary of Defense may conduct a pilot program for the purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in defense acquisition programs.
+Authority To Conduct Pilot Program.—The Secretary of Defense may conduct a pilot program forthe purpose of determining the potential for increasing the efficiency and effectiveness of the acquisition process in defense acquisition programs.
 
 “(b)
 

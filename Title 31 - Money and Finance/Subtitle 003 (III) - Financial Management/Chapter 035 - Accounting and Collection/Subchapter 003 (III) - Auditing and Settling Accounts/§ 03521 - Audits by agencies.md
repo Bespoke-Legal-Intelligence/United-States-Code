@@ -2,7 +2,7 @@
 
 (a) Each account of an agency shall be audited administratively before being submitted to the Comptroller General. The head of each agency shall prescribe regulations for conducting the audit and designate a place at which the audit is to be conducted. However, a disbursing official of an executive agency may not administratively audit vouchers for which the official is responsible. With the consent of the Comptroller General, the head of the agency may waive any part of an audit.
 
-(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decides economies will result from using the procedure. The Comptroller General—
+(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decideseconomies will result from using the procedure. The Comptroller General—
 
 &emsp;(1) may prescribe the maximum amount of a voucher that may be audited under this subsection; and
 
@@ -110,6 +110,22 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 Amendment by Pub. L. 104–208 effective for fiscal year ending Sept. 30, 1997, see section 101(f) \[title VIII, §807\] of Pub. L. 104–208, set out in a Federal Financial Management Improvement note under section 3512 of this title.
 
+#### Audits and Reports of Agency Financial Statements
+
+Pub. L. 105–206, title I, §1103(d), July 22, 1998, 112 Stat. 709, provided that: “Subject to section 3521(g) of title 31, United States Code—
+
+&emsp;“(1) the Inspector General of the Department of the Treasury shall, subject to paragraph (2)—
+
+&emsp;&emsp;“(A) audit each financial statement in accordance with section 3521(e) of such title; and
+
+&emsp;&emsp;“(B) prepare and submit each report required under section 3521(f) of such title; and
+
+&emsp;“(2) the Treasury Inspector General for Tax Administration shall—
+
+&emsp;&emsp;“(A) audit that portion of each financial statement referred to under paragraph (1)(A) that relates to custodial and administrative accounts of the Internal Revenue Service; and
+
+&emsp;&emsp;“(B) prepare that portion of each report referred to under paragraph (1)(B) that relates to custodial and administrative accounts of the Internal Revenue Service.”
+
 #### Waiver of Requirements
 
 Section 304(b) of Pub. L. 101–576 provided that: “The Director of the Office of Management and Budget may waive application of subsections (e) and (f) of section 3521 of title 31, United States Code, as amended by this section, to a financial statement submitted by an agency for fiscal years 1990 and 1991.”
@@ -120,5 +136,5 @@ Pub. L. 96–304, title III, §305, July 8, 1980, 94 Stat. 928, provided that: �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 3512 of this title; title 7 section 136a–1.
+This section is referred to in sections 902, 3512 of this title; title 7 section 136a–1; title 23 section 104.
 

@@ -14,7 +14,7 @@ Proceedings for the assessment of a civil penalty under this section shall be co
 
 #### (d) Use of penalties
 
-Subject to appropriations, penalties collected under this section may be used by the Secretary of the Treasury to pay rewards under section 4225 of this title and, to the extent not used to pay such rewards, shall be deposited by the Secretary of the Treasury into the Fund.
+Subject to appropriations, penalties collected under this section may be used by the Secretaryof the Treasury to pay rewards under section 4225 of this title and, to the extent not used to pay such rewards, shall be deposited by the Secretary of the Treasury into the Fund.
 
 #### (e) Enforcement
 
@@ -24,5 +24,5 @@ The Secretary, the Secretary of the Treasury, and the Secretary of the departmen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4212 of this title.
+This section is referred to in sections 4212, 4246 of this title.
 

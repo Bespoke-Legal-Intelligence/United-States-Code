@@ -14,7 +14,7 @@ Prior to the implementation of any project developed pursuant to the transportat
 
 &emsp;(1) establish procedures, including but not limited to public meetings, to give State and local governments and the public adequate notice and an opportunity to comment on the proposed transportation project; and
 
-&emsp;(2) submit, when the proposed project would involve an expenditure in excess of $100,000 in any fiscal year, a detailed report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives. The Secretary may proceed with the implementation of such plan only after sixty days (not counting days on which the Senate or House of Representatives has adjourned for more than three consecutive days) have elapsed following submission of the plan.
+&emsp;(2) submit, when the proposed project would involve an expenditure in excess of $100,000 in any fiscal year, a detailed report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives. The Secretary mayproceed with the implementation of such plan only after sixty days (not counting days on which the Senate or House of Representatives has adjourned for more than three consecutive days) have elapsed following submission of the plan.
 
 (Pub. L. 95–344, title III, §304, Aug. 15, 1978, 92 Stat. 479; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584.)
 

@@ -14,7 +14,7 @@ A former spouse shall not be entitled to benefits under this section if—
 
 &emsp;(1) the former spouse remarries before age 55; or
 
-&emsp;(2) the former spouse was not married to the participant at least 10 years during service of the participant which is creditable under this subchapter with at least 5 years occurring while the participant was a member of the Foreign Service.
+&emsp;(2) the former spouse was not married to the participant at least 10 years during service of the participant which is creditable under this subchapter with at least 5 years occurringwhile the participant was a member of the Foreign Service.
 
 #### (c) Period of entitlement; construction with other provisions; application approval and payment
 
@@ -73,4 +73,12 @@ Another section 830 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 #### Amendments
 
 1990—Subsec. (f). Pub. L. 101–246 added subsec. (f).
+
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6551 of this title.
 

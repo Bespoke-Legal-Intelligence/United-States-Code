@@ -10,7 +10,7 @@ The Secretary shall not revise or amend a self-determination contract with a tri
 
 #### (c) Application of laws to administrative appeals
 
-The Equal Access to Justice Act (Publc <sup>1</sup> Law 96–481, Act of October 1,<sup>1</sup> 1980; 92 <sup>1</sup> Stat. 2325, asamended), section 504 of title 5, and section 2412 of title 28 shall apply to administrative appeals pending on or filed after October 5, 1988, by tribal organizations regarding self-determination contracts.
+The Equal Access to Justice Act (Publc <sup>1</sup> Law 96–481, Act of October 1,<sup>1</sup> 1980; 92 <sup>1</sup> Stat. 2325, as amended), section 504 of title 5, and section 2412 of title 28 shall apply to administrative appeals pending on or filed after October 5, 1988, by tribal organizations regarding self-determination contracts.
 
 #### (d) Application of Contract Disputes Act
 
@@ -36,7 +36,7 @@ A prior section 110 of Pub. L. 93–638 was renumbered section 111 by Pub. L. 10
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–413, §104(2), inserted before period at end “(including immediate injunctive relief to reverse a declination finding under section 450f(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract)”.
+1994—Subsec. (a). Pub. L. 103–413, §104(2), inserted before period at end “(including immediate injunctive relief to reverse a declination finding under section450f(a)(2) of this title or to compel the Secretary to award and fund an approved self-determination contract)”.
 
 Subsec. (d). Pub. L. 103–413, §104(3), inserted before period at end “, except that all administrative appeals relating to such contracts shall be heard by the Interior Board of Contract Appeals established pursuant to section 8 of such Act (41 U.S.C. 607)”.
 

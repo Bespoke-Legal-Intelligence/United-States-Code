@@ -8,7 +8,7 @@
 
 &emsp;(1) establish professional standards and policies for dental practice;
 
-&emsp;(2) initiate and recommend action pertaining to organization requirements and utilizationof the Dental Corps and dental auxiliary strength, appointments, advancement, training assignments, and transfer of dental personnel; and
+&emsp;(2) initiate and recommend action pertaining to organization requirements and utilization of the Dental Corps and dental auxiliary strength, appointments, advancement, training assignments, and transfer of dental personnel; and
 
 &emsp;(3) serve as the adviser to the Office of the Surgeon General on all matters relating directly to dentistry.
 

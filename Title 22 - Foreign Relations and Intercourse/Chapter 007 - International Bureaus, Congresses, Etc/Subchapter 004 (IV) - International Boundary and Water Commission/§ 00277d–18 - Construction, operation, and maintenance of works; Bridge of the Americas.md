@@ -10,7 +10,7 @@ The United States Commissioner is authorized to receive payments of money from p
 
 #### (c) Advance appropriations
 
-The authority of subsection (b) of this section may be exercised only to the extent or in suchamounts as are provided in advance in appropriation Acts.
+The authority of subsection (b) of this section may be exercised only to the extent or in such amounts as are provided in advance in appropriation Acts.
 
 (Pub. L. 88–300, §2, Apr. 29, 1964, 78 Stat. 184; Pub. L. 103–236, title IV, §423(a), Apr. 30, 1994, 108 Stat. 457.)
 

@@ -14,7 +14,7 @@ In case an amendment to an approved application is approved as provided in secti
 
 (2) Any amount paid under paragraph (1) of this subsection to any State for any fiscal year shall be paid on condition that there shall be expended from State sources for such year for administration of the State plan approved under this part not less than the total amount expended for such purposes from such sources during the fiscal year ending June 30, 1970.
 
-(July 1, 1944, ch. 373, title VI, §606, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 454; amended June 30, 1970, Pub. L. 91–296, title I, §112, 84 Stat. 340.)
+(July 1, 1944, ch. 373, title VI, §606, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 454; amended Pub. L. 91–296, title I, §112, June 30, 1970, 84 Stat. 340.)
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 An order made under section 1599 of this title shall be final and conclusive unless within thirty days after the service the person appeals to the court of appeals for the circuit in which such person resides or has his principal place of business by filing with the clerk of such court a written petition praying that the Secretary's order be set aside or modified in the manner stated in the petition, together with a bond in such sum as the court may determine, conditioned that such person will pay the costs of the proceedings if the court so directs.
 
-The clerk of the court shall immediately cause a copy of the petition to be delivered to the Secretary, and the Secretary shall thereupon file in the court the record in such proceedings, as provided in section 2112 of title 28. If before such record is filed, the Secretary amends or setsaside his report or order, in whole or in part, the petitioner may amend the petition within such time as the court may determine, on notice to the Secretary.
+The clerk of the court shall immediately cause a copy of the petition to be delivered to the Secretary, and the Secretary shall thereupon file in the court the record in such proceedings, as provided in section 2112 of title 28. If before such record is filed, the Secretary amends or sets aside his report or order, in whole or in part, the petitioner may amend the petition within such time as the court may determine, on notice to the Secretary.
 
 At any time after such petition is filed the court, on application of the Secretary, may issue a temporary injunction restraining, to the extent it deems proper, the person and his officers, directors, agents, and employees from violating any of the provisions of the order pending the final determination of the appeal.
 
@@ -14,11 +14,11 @@ If the court determines that the just and proper disposition of the case require
 
 If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the person and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 
-(Aug. 9, 1939, ch. 615, title IV, §410, 53 Stat. 1287; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1958, Pub. L. 85–791, §24(b), 72 Stat. 949; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(7)(A), 98 Stat. 3357.)
+(Aug. 9, 1939, ch. 615, title IV, §410, 53 Stat. 1287; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §24(b), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, §402(7)(A), Nov. 8, 1984, 98 Stat. 3357.)
 
 #### Amendments
 
-1984—Pub. L. 98–620 in fourth par., struck out provisions requiring proceedings in such cases in the court of appeals to be made a preferred cause and expedited in every way.
+1984—Pub. L. 98–620 in fourth par., struck out provisions requiring proceedings in such cases in the courtof appeals to be made a preferred cause and expedited in every way.
 
 1958—Pub. L. 85–791 substituted, in first sentence of second par., “thereupon file in the court the record in such proceedings as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, and the report and order”, substituted, in second sentence of second par., “record” for “transcript”, substituted in third par., “petition” for “transcript”, and struck out, in fourth par., “, duly certified” after “admitted”.
 

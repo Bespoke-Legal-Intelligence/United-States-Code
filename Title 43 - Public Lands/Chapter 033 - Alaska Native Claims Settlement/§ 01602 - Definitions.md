@@ -6,7 +6,7 @@ For the purposes of this chapter, the term—
 
 (b) “Native” means a citizen of the United States who is a person of one-fourth degree or more Alaska Indian (including Tsimshian Indians not enrolled in the Metlaktla <sup>1</sup> Indian Community) Eskimo, or Aleut blood, or combination thereof. The term includes any Native as so defined either or both of whose adoptive parents are not Natives. It also includes, in the absence of proof of a minimum blood quantum, any citizen of the United States who is regarded as an Alaska Native by the Native village or Native group of which he claims to be a member and whose father or mother is (or, if deceased, was) regarded as Native by any village or group. Any decision of the Secretary regarding eligibility for enrollment shall be final;
 
-(c) “Native village” means any tribe, band, clan, group, village, community, or association in Alaska listed in sections 1610 and 1615 of this title, or which meets the requirements of this chapter, and which the Secretary determines was, on the 1970 census enumeration date (as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance), composed of twenty-five or more Natives;
+(c) “Native village” means any tribe, band, clan, group, village, community, or association in Alaska listed in sections 1610 and 1615 of this title, or which meets the requirements of thischapter, and which the Secretary determines was, on the 1970 census enumeration date (as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance), composed of twenty-five or more Natives;
 
 (d) “Native group” means any tribe, band, clan, village, community, or village association of Natives in Alaska composed of less than twenty-five Natives, who comprise a majority of the residents of the locality;
 
@@ -28,7 +28,7 @@ For the purposes of this chapter, the term—
 
 (m) “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Group Corporation;
 
-(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manageand/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
+(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
 
 (<i>o</i>) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
 
@@ -76,7 +76,7 @@ Subsecs. (n) to (t). Pub. L. 100–241, §3(5), added subsecs. (n) to (t).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1615, 1626, 1641 of this title; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 1106b, 7938; title 25 sections 472a, 1903, 2012, 3103; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
+This section is referred to in sections 1615, 1626, 1641 of this title; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7938; title 25 sections 472a, 1903, 2012, 3103; title 29 sections 2911, 2914; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Metlakatla”.</i>
 

@@ -24,3 +24,4 @@
 - [&sect; 01977 - Veterans&#8217; Group Life Insurance](%C2%A7%2001977%20-%20Veterans%E2%80%99%20Group%20Life%20Insurance.md)
 - [&sect; 01978 - Reinstatement](%C2%A7%2001978%20-%20Reinstatement.md)
 - [&sect; 01979 - Incontestability](%C2%A7%2001979%20-%20Incontestability.md)
+- [&sect; 01980 - Option to receive accelerated death benefit](%C2%A7%2001980%20-%20Option%20to%20receive%20accelerated%20death%20benefit.md)

@@ -30,7 +30,7 @@ The Board shall—
 
 &emsp;(3) review the programs, operations, and fiscal audits of the bodies referred to in section 1738f(c) of this title.
 
-(July 10, 1954, ch. 469, title VI, §610, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3661; amended Dec. 13, 1991, Pub. L. 102–237, title III, §339, 105 Stat. 1861; Oct. 28, 1992, Pub. L. 102–549, title VI, §603, 106 Stat. 3669.)
+(July 10, 1954, ch. 469, title VI, §610, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3661; amended Pub. L. 102–237, title III, §339, Dec. 13, 1991, 105 Stat. 1861; Pub. L. 102–549, title VI, §603, Oct. 28, 1992, 106 Stat. 3669.)
 
 #### Amendments
 

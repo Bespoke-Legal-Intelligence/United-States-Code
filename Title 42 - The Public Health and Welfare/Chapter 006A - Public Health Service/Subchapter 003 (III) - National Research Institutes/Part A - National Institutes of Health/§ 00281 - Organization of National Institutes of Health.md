@@ -22,7 +22,7 @@ The National Institutes of Health is an agency of the Service.
 
 &emsp;(G) The National Institute of Child Health and Human Development.
 
-&emsp;(H) The National Institute of Dental Research.
+&emsp;(H) The National Institute of Dental and Craniofacial Research.
 
 &emsp;(I) The National Eye Institute.
 
@@ -54,6 +54,8 @@ The National Institutes of Health is an agency of the Service.
 
 &emsp;(E) The Office of Dietary Supplements.
 
+&emsp;(F) The National Center for Complementary and Alternative Medicine.
+
 #### (c) Establishment of additional national research institutes; reorganization or abolition of institutes
 
 (1) The Secretary may establish in the National Institutes of Health one or more additional national research institutes to conduct and support research, training, health information, and other programs with respect to any particular disease or groups of diseases or any other aspect of human health if—
@@ -68,9 +70,13 @@ The National Institutes of Health is an agency of the Service.
 
 For purposes of this subchapter, the term “national research institute” means a national research institute listed in subsection (b) of this section or established under subsection (c) of this section. A reference to the National Institutes of Health includes its agencies.
 
-(July 1, 1944, ch. 373, title IV, §401, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 822; amended Oct. 28, 1988, Pub. L. 100–553, §2(1), 102 Stat. 2769; Nov. 4, 1988, Pub. L. 100–607, title I, §101(1), 102 Stat. 3048; Nov. 18, 1988, Pub. L. 100–690, title II, §2613(b)(2), 102 Stat. 4238; July 10, 1992, Pub. L. 102–321, title I, §121(a), 106 Stat. 358; June 10, 1993, Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), 107 Stat. 172, 179, 180; Oct. 25, 1994, Pub. L. 103–417, §13(b), 108 Stat. 4335.)
+(July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388.)
 
 #### Amendments
+
+1998—Subsec. (b)(1)(H). Pub. L. 105–277, §101(f) \[title II, §212\], substituted “National Institute of Dental and Craniofacial Research” for “National Institute of Dental Research”.
+
+Subsec. (b)(2)(F). Pub. L. 105–277, §101(f) \[title VI, §601(k)\], added subpar. (F).
 
 1994—Subsec. (b)(2)(E). Pub. L. 103–417 added subpar. (E).
 

@@ -42,7 +42,7 @@ The Administrator is authorized to acquire any of the following described rights
 
 #### (e) Dissemination of information
 
-Subject to the provisions of chapter 12 of the Atomic Energy Act of 1954, as amended (42U.S.C. 2161–2166), and other applicable law, the Administrator shall disseminate scientific, technical, and practical information acquired pursuant to this subchapter through information programs and other appropriate means, and shall encourage the dissemination of scientific, technical, and practical information relating to energy so as to enlarge the fund of such information and to provide that free interchange of ideas and criticism which is essential to scientific and industrial progress and public understanding.
+Subject to the provisions of chapter 12 of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2161–2166), and other applicable law, the Administrator shall disseminate scientific, technical, and practical information acquired pursuant to this subchapter through information programs and other appropriate means, and shall encourage the dissemination of scientific, technical, and practical information relating to energy so as to enlarge the fund of such information and to provide that free interchange of ideas and criticism which is essential to scientific and industrial progress and public understanding.
 
 #### (f) Gifts and bequests
 
@@ -52,7 +52,7 @@ The Administrator is authorized to accept, hold, administer, and utilize gifts, 
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in subsecs. (a) and (e), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, as amended, are classified generally to subchapters III (§2051 et seq.) and XI (§2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsecs. (a) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, as amended, are classified generally to subchapters III (§2051 et seq.) and XI (§2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (a), refers to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 

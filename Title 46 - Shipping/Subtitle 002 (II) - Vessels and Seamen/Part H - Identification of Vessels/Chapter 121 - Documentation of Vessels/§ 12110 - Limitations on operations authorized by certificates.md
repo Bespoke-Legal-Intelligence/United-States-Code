@@ -2,7 +2,7 @@
 
 (a) A vessel may not be employed in a trade except a trade covered by the endorsement issued for that vessel.
 
-(b) A barge qualified to be employed in the coastwise trade may be employed, without being documented, in that trade on rivers, harbors, lakes (except the Great Lakes), canals, and inland waters.
+(b) A barge qualified to be employed in the coastwise trade may be employed, without being documented, in that trade on rivers, harbors,lakes (except the Great Lakes), canals, and inland waters.
 
 (c) A vessel with only a recreational endorsement may not be operated other than for pleasure.
 
@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 46:65m
 
-Section 12110 provides that a vessel is limited to the trade covered by its certificate of documentation; exempts certain barges from documentation; requiresthat the person in charge be a citizen of the United States; and provides for a penalty for violation.
+Section 12110 provides that a vessel is limited to the trade covered by its certificate of documentation; exempts certain barges from documentation; requires that the person in charge be a citizen of the United States; and provides for a penalty for violation.
 
 #### Amendments
 

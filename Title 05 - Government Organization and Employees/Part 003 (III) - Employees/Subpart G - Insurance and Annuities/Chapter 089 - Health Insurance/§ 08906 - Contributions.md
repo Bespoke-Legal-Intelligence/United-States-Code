@@ -10,11 +10,13 @@
 
 (3) For purposes of paragraph (2), the term “enrollee” means any individual who, during the contract year for which the weighted average is to be used under this section, will be eligible for a Government contribution for health benefits.
 
-(b)(1) Except as provided in paragraphs (2) and (3), the biweekly Government contribution for health benefits for an employee or annuitant enrolled in a health benefits plan under this chapter is adjusted to an amount equal to 72 percent of the weighted average under subsection (a)(1)(A) or (B), as applicable. For an employee, the adjustment begins on the first day of the employee's first pay period of each year. For an annuitant, the adjustment begins on the first day of the first period of each year for which an annuity payment is made.
+(b)(1) Except as provided in paragraphs (2), (3), and (4), the biweekly Government contribution for health benefits for an employee or annuitant enrolled in a health benefits plan under this chapter is adjusted to an amount equal to 72 percent of the weighted average under subsection (a)(1)(A) or (B), as applicable. For an employee, the adjustment begins on the first day of the employee's first pay period of each year. For an annuitant, the adjustment begins on the first day of the first period of each year for which an annuity payment is made.
 
 (2) The biweekly Government contribution for an employee or annuitant enrolled in a plan under this chapter shall not exceed 75 percent of the subscription charge.
 
 (3) In the case of an employee who is occupying a position on a part-time career employment basis (as defined in section 3401(2) of this title), the biweekly Government contribution shall be equal to the percentage which bears the same ratio to the percentage determined under this subsection (without regard to this paragraph) as the average number of hours of such employee's regularly scheduled workweek bears to the average number of hours in the regularly scheduled workweek of an employee serving in a comparable position on a full-time career basis (as determined under regulations prescribed by the Office).
+
+(4) In the case of persons who are enrolled in a health benefits plan as part of the demonstration project under section 1108 of title 10, the Government contribution shall be subject to the limitation set forth in subsection (i) of that section.
 
 (c) There shall be withheld from the pay of each enrolled employee and (except as provided in subsection (i) of this section) the annuity of each enrolled annuitant and there shall be contributed by the Government, amounts, in the same ratio as the contributions of the employee or annuitant and the Government under subsection (b) of this section, which are necessary for the administrative costs and the reserves provided for by section 8909(b) of this title.
 
@@ -30,7 +32,7 @@
 
 (C) Each agency shall establish procedures for accepting direct payments of employee contributions for the purposes of this paragraph.
 
-(2) An employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily ofemployees as defined by section 8901 of this title, within 60 days after entering on that leave without pay, may file with his employing agency an election to continue his health benefits enrollment and arrange to pay currently into the Employees Health Benefits Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the enrollment charges so paid to the Fund. If the employee does not so elect, his enrollment will continue during nonpay status and end as provided by paragraph (1) of this subsection and implementing regulations.
+(2) An employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8901 of this title, within 60 days after entering on that leave without pay, may file with his employing agency an election to continue his health benefits enrollment and arrange to pay currently into the Employees Health Benefits Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the enrollment charges so paid to the Fund. If the employee does not so elect, his enrollment will continue during nonpay status and end as provided by paragraph (1) of this subsection and implementing regulations.
 
 (f) The Government contributions for health benefits for an employee shall be paid—
 
@@ -42,17 +44,19 @@
 
 &emsp;(4) in the case of an employee in a leave without pay status, from the appropriation or fund which would be used to pay the employee if he were in a pay status.
 
-(g)(1) Except as provided in paragraph (2), the Government contributions authorized by this section for health benefits for an annuitant shall be paid from annual appropriations which are authorized to be made for that purpose and which may be made available until expended.
+(g)(1) Except as provided in paragraphs (2) and (3), the Government contributions authorized by this section for health benefits for an annuitant shall be paid from annual appropriations which are authorized to be made for that purpose and which may be made available until expended.
 
 (2)(A) The Government contributions authorized by this section for health benefits for an individual who first becomes an annuitant by reason of retirement from employment with the United States Postal Service on or after July 1, 1971, or for a survivor of such an individual or of an individual who died on or after July 1, 1971, while employed by the United States Postal Service, shall be paid by the United States Postal Service.
 
 (B) In determining any amount for which the Postal Service is liable under this paragraph, the amount of the liability shall be prorated to reflect only that portion of total service which is attributable to civilian service performed (by the former postal employee or by the deceased individual referred to in subparagraph (A), as the case may be) after June 30, 1971, as estimated by the Office of Personnel Management.
 
+(3) The Government contribution for persons enrolled in a health benefits plan as part of the demonstration project under section 1108 of title 10 shall be paid as provided in subsection (i) of that section.
+
 (h) The Office shall provide for conversion of biweekly rates of contribution specified by this section to rates for employees and annuitants paid on other than a biweekly basis, and for this purpose may provide for the adjustment of the converted rate to the nearest cent.
 
 (i) An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant's health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, §1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, §1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, §3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, §4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, §906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, §2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, §15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, §4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, §1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, §7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, §2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, §215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, §101(f) \[title IV, §422\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, §7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, §721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065.)
 
 Historical and Revision Notes<br>1966
 
@@ -109,6 +113,14 @@ In subsection (a), the words “subsection (b) of this section”, “this chapt
 In subsection (e)(2), the words “as defined by section 8901 of this title” are substituted for “as defined in section 2 of this Act” to reflect the codification of that section in 5 U.S.C. 8901. The words “Employees Health Benefits Fund” and “Fund” are substituted for “fund” and “fund”, respectively. In the penultimate sentence, the words “will continue during nonpay status and end” are substituted for “will terminate” for clarity and on authority of 5 U.S.C. 8906(e)(1).
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–261, §721(b)(2)(A), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+
+Subsec. (b)(4). Pub. L. 105–261, §721(b)(2)(B), added par. (4).
+
+Subsec. (g)(1). Pub. L. 105–261, §721(b)(3)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (g)(3). Pub. L. 105–261, §721(b)(3)(B), added par. (3).
 
 1997—Subsec. (a). Pub. L. 105–33 added subsec. (a) and struck out former subsec. (a) which read as follows: “The Office of Personnel Management shall determine the average of the subscription charges in effect on the beginning date of each contract year with respect to self alone or self and family enrollments under this chapter, as applicable, for the highest level of benefits offered by—
 
@@ -250,7 +262,7 @@ Pub. L. 97–346, §4, Oct. 15, 1982, 96 Stat. 1650, directed Office of Personne
 
 #### Election of Health Benefits During Period of Service as Officer or Employee of an Employee Organization; Contributions Into Employees Health Benefits Fund; Non-Election; Regulations
 
-Election of health benefits within sixty days after July 18, 1966, by certain employees on leave withoutpay for service as officer or employee of an employee organization, contributions into Fund, effect of non-election of benefits, and regulations, see note set out under section 8706 of this title.
+Election of health benefits within sixty days after July 18, 1966, by certain employees on leave without pay for service as officer or employee of an employee organization, contributions into Fund, effect of non-election of benefits, and regulations, see note set out under section 8706 of this title.
 
 #### Section Referred to in Other Sections
 

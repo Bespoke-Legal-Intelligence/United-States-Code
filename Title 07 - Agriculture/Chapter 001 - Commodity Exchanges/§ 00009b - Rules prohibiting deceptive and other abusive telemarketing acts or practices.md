@@ -10,7 +10,7 @@
 
 > If the Commission determines that an exception described in subparagraph (A) or (B) applies, the Commission shall publish in the Federal Register its determination with the reasons for it.
 
-(Sept. 21, 1922, ch. 369, §6(f), as added Aug. 16, 1994, Pub. L. 103–297, §3(e)(2), 108 Stat. 1547.)
+(Sept. 21, 1922, ch. 369, §6(f), as added Pub. L. 103–297, §3(e)(2), Aug. 16, 1994, 108 Stat. 1547.)
 
 #### Codification
 

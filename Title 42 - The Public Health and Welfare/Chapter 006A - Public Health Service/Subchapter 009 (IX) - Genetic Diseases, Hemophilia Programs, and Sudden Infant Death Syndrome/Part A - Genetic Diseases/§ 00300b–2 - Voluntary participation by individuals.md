@@ -2,7 +2,7 @@
 
 The participation by any individual in any program or portion thereof under this part shall be wholly voluntary and shall not be a prerequisite to eligibility for or receipt of any other service or assistance from, or to participation in, any other program.
 
-(July 1, 1944, ch. 373, title XI, §1103, as added Apr. 22, 1976, Pub. L. 94–278, title IV, §403(a), 90 Stat. 408.)
+(July 1, 1944, ch. 373, title XI, §1103, as added Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 408.)
 
 #### Prior Provisions
 

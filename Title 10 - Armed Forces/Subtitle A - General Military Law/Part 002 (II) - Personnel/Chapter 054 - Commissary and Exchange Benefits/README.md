@@ -4,13 +4,16 @@
 | :--- | ---: |
 | [1061\.](%C2%A7%2001061%20-%20Survivors%20of%20certain%20Reserve%20and%20Guard%20members.md) | Survivors of certain Reserve and Guard members. |
 | [1062\.](%C2%A7%2001062%20-%20Certain%20former%20spouses.md) | Certain former spouses. |
-| [1063\.](%C2%A7%2001063%20-%20Period%20for%20use%20of%20commissary%20stores%20eligibility%20for%20members%20of%20the%20Ready%20Reserve.md) | Period for use of commissary stores: eligibility for members of the Ready Reserve. |
-| [1064\.](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20by%20certain%20members%20and%20former%20members.md) | Use of commissary stores by certain members and former members. |
+| [1063\.](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20members%20of%20Ready%20Reserve%20with%20at%20least%2050%20creditable%20points.md) | Use of commissary stores: members of Ready Reserve with at least 50 creditable points. |
+| [1063a.](%C2%A7%2001063a%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster.md) | Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster. |
+| [1064\.](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20persons%20qualified%20for%20retired%20pay%20under%20chapter%201223%20but%20under%20age%2060.md) | Use of commissary stores: persons qualified for retired pay under chapter 1223 but under age 60. |
 | [1065\.](%C2%A7%2001065%20-%20Morale%2C%20welfare%2C%20and%20recreation%20retail%20facilities%20use%20by%20members%20of%20reserve%20components%20and%20dependents.md) | Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title III, §362(e), Oct. 17, 1998, 112 Stat. 1985, added items 1063, 1063a, and 1064 and struck out former items 1063 “Period for use of commissary stores: eligibility for members of the Ready Reserve” and 1064 “Use of commissary stores by certain members and former members”.
 
 1996—Pub. L. 104–106, div. A, title III, §342(b), Feb. 10, 1996, 110 Stat. 266, substituted “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” for “Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents” in item 1065.
 
@@ -25,6 +28,7 @@
 
 - [&sect; 01061 - Survivors of certain Reserve and Guard members](%C2%A7%2001061%20-%20Survivors%20of%20certain%20Reserve%20and%20Guard%20members.md)
 - [&sect; 01062 - Certain former spouses](%C2%A7%2001062%20-%20Certain%20former%20spouses.md)
-- [&sect; 01063 - Period for use of commissary stores eligibility for members of the Ready Reserve](%C2%A7%2001063%20-%20Period%20for%20use%20of%20commissary%20stores%20eligibility%20for%20members%20of%20the%20Ready%20Reserve.md)
-- [&sect; 01064 - Use of commissary stores by certain members and former members](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20by%20certain%20members%20and%20former%20members.md)
+- [&sect; 01063 - Use of commissary stores members of Ready Reserve with at least 50 creditable points](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20members%20of%20Ready%20Reserve%20with%20at%20least%2050%20creditable%20points.md)
+- [&sect; 01063a - Use of commissary stores and MWR retail facilities members of National Guard serving in federally declared disaster](%C2%A7%2001063a%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster.md)
+- [&sect; 01064 - Use of commissary stores persons qualified for retired pay under chapter 1223 but under age 60](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20persons%20qualified%20for%20retired%20pay%20under%20chapter%201223%20but%20under%20age%2060.md)
 - [&sect; 01065 - Morale, welfare, and recreation retail facilities use by members of reserve components and dependents](%C2%A7%2001065%20-%20Morale%2C%20welfare%2C%20and%20recreation%20retail%20facilities%20use%20by%20members%20of%20reserve%20components%20and%20dependents.md)

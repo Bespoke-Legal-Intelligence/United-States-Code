@@ -2,7 +2,7 @@
 
 Whoever, having charge or control of any conveyance operating by land, air, or water, knowingly conveys or knowingly permits the conveyance of any person acting or employed as a private express for the conveyance of letters or packets, and actually in possession of the same for the purpose of conveying them contrary to law, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(C), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 103–322, title XXXIII, §330016(1)(C), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

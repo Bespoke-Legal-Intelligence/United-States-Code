@@ -34,5 +34,5 @@ For purposes of this subchapter—
 
 &emsp;The determination of any applicable premium shall be made for a period of 12 months and shall be made before the beginning of such period.
 
-(July 1, 1944, ch. 373, title XXII, §2204, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 234.)
+(July 1, 1944, ch. 373, title XXII, §2204, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 234.)
 

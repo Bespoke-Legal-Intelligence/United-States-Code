@@ -32,11 +32,20 @@
 | (b) | Criteria. |
 | (c) | Authorization of appropriations. |
 | [13217\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013217%20-%20Measurement%20of%20alternative%20fuel%20use.md) | Measurement of alternative fuel use. |
-| [13218\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013218%20-%20General%20Services%20Administration%20report.md) | General Services Administration report. |
+| [13218\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013218%20-%20Reports.md) | Reports. |
+| (a) | General Services Administration program report. |
+| (b) | Compliance report. |
 | [13219\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013219%20-%20United%20States%20Postal%20Service.md) | United States Postal Service. |
 | (a) | Report. |
 | (b) | Coordination. |
 | (c) | Program criteria. |
+| [13220\.](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/%C2%A7%2013220%20-%20Biodiesel%20fuel%20use%20credits.md) | Biodiesel fuel use credits. |
+| (a) | Allocation of credits. |
+| (b) | Use of credits. |
+| (c) | Credit not a section 13258 credit. |
+| (d) | Issuance of rule. |
+| (e) | Collection of data. |
+| (f) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -188,7 +197,7 @@
 | (a) | In general. |
 | (b) | “Domestic companies” defined. |
 | [13294\.](Subchapter%20004%20%28IV%29%20-%20Electric%20Motor%20Vehicles/Part%20B%20-%20Electric%20Motor%20Vehicle%20Infrastructure%20and%20Support%20Systems%20Development%20Program/%C2%A7%2013294%20-%20Compliance%20with%20existing%20law.md) | Compliance with existing law. |
-| [13295\.](Subchapter%20004%20%28IV%29%20-%20Electric%20Motor%20Vehicles/Part%20B%20-%20Electric%20Motor%20Vehicle%20Infrastructure%20and%20Support%20Systems%20Development%20Program/%C2%A7%2013295%20-%20Electric%20utility%20participation%20study.md) | Electric utility participation study. |
+| [13295\.](Subchapter%20004%20%28IV%29%20-%20Electric%20Motor%20Vehicles/Part%20B%20-%20Electric%20Motor%20Vehicle%20Infrastructure%20and%20Support%20Systems%20Development%20Program/%C2%A7%2013295%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IV%2C%20%C2%A7401%28b%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203282.md) | Repealed. |
 | [13296\.](Subchapter%20004%20%28IV%29%20-%20Electric%20Motor%20Vehicles/Part%20B%20-%20Electric%20Motor%20Vehicle%20Infrastructure%20and%20Support%20Systems%20Development%20Program/%C2%A7%2013296%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -464,9 +473,7 @@
 | (i) | Consultation. |
 | (j) | Fuel cells for transportation. |
 | (k) | Definitions. |
-| [13436\.](Subchapter%20008%20%28VIII%29%20-%20Reduction%20of%20Oil%20Vulnerability/Part%20B%20-%20Oil%20and%20Gas%20Demand%20Reduction%20and%20Substitution/%C2%A7%2013436%20-%20Renewable%20hydrogen%20energy.md) | Renewable hydrogen energy. |
-| (a) | Program direction. |
-| (b) | Proposals. |
+| [13436\.](Subchapter%20008%20%28VIII%29%20-%20Reduction%20of%20Oil%20Vulnerability/Part%20B%20-%20Oil%20and%20Gas%20Demand%20Reduction%20and%20Substitution/%C2%A7%2013436%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93271%2C%20title%20I%2C%20%C2%A7103%28b%29%282%29%2C%20Oct.%209%2C%201996%2C%20110%20Stat.%203306.md) | Repealed. |
 | [13437\.](Subchapter%20008%20%28VIII%29%20-%20Reduction%20of%20Oil%20Vulnerability/Part%20B%20-%20Oil%20and%20Gas%20Demand%20Reduction%20and%20Substitution/%C2%A7%2013437%20-%20Advanced%20diesel%20emissions%20program.md) | Advanced diesel emissions program. |
 | (a) | Program direction. |
 | (b) | Program goal. |
@@ -694,9 +701,8 @@
 | [13551\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013551%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93182%2C%20title%20III%2C%20%C2%A7301%2C%20Aug.%206%2C%201996%2C%20110%20Stat.%201683.md) | Repealed. |
 | [13552\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013552%20-%20Use%20of%20energy%20futures%20for%20fuel%20purchases.md) | Use of energy futures for fuel purchases. |
 | (a) | Fuel study. |
-| (b) | Report. |
-| (c) | Pilot program. |
-| (d) | Authorization of appropriations. |
+| (b) | Pilot program. |
+| (c) | Authorization of appropriations. |
 | [13553\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013553%20-%20Energy%20subsidy%20study.md) | Energy subsidy study. |
 | (a) | In general. |
 | (b) | Report to Congress. |

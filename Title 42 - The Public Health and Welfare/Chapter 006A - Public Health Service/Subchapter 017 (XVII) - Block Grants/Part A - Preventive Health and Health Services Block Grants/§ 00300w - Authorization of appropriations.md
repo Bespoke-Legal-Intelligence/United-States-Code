@@ -4,7 +4,7 @@
 
 (b) Of the amount appropriated for any fiscal year under subsection (a) of this section, at least $7,000,000 shall be made available for allotments under section 300w–1(b) of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1901, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 535; amended Oct. 30, 1984, Pub. L. 98–555, §4, 98 Stat. 2855; Nov. 4, 1988, Pub. L. 100–607, title III, §301(a), 102 Stat. 3111; Oct. 27, 1992, Pub. L. 102–531, title I, §101, 106 Stat. 3469; Dec. 14, 1993, Pub. L. 103–183, title VII, §705(e), 107 Stat. 2241.)
+(July 1, 1944, ch. 373, title XIX, §1901, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 535; amended Pub. L. 98–555, §4, Oct. 30, 1984, 98 Stat. 2855; Pub. L. 100–607, title III, §301(a), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §101, Oct. 27, 1992, 106 Stat. 3469; Pub. L. 103–183, title VII, §705(e), Dec. 14, 1993, 107 Stat. 2241.)
 
 #### Amendments
 

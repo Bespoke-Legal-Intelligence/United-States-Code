@@ -140,7 +140,7 @@ Section 208(b)(3)(B) of div. D of Pub. L. 104–208 provided that: “The repeal
 
 #### Regulatory Review
 
-Pub. L. 102–366, title IV, §408(d), Sept. 4, 1992, 106 Stat. 1017, directed Small Business Administration, not later than 90 days after Sept. 4, 1992, to complete a review of regulations intended to provide for safety and soundness of small business investment companies which obtain financing from the Administration under provisions of the Small Business Investment Act of 1958, 15 U.S.C. 661 et seq., and to exempt from such regulations,or to separately regulate, companies which do not obtain financing from the Administration.
+Pub. L. 102–366, title IV, §408(d), Sept. 4, 1992, 106 Stat. 1017, directed Small Business Administration, not later than 90 days after Sept. 4, 1992, to complete a review of regulations intended to provide for safety and soundness of small business investment companies which obtain financing from the Administration under provisions of the Small Business Investment Act of 1958, 15 U.S.C. 661 et seq., and to exempt from such regulations, or to separately regulate, companies which do not obtain financing from the Administration.
 
 #### Reports to Congress
 

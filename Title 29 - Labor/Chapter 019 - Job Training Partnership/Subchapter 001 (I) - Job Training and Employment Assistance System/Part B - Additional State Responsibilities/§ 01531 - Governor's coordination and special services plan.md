@@ -12,7 +12,7 @@
 
 (2) The plan shall describe the measures taken by the State to ensure coordination and avoid duplication between the State agencies administering the work activities required under title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] and programs under subchapter II of this chapter in the planning and delivery of services.
 
-(3) The plan shall describe the projected use of resources, including oversight of program performance, program administration, and program financial management, capacity building, priorities and criteria for State incentive grants, and performance goals for State-supported programs. The description of capacity building shall include the Governor's plans for technical assistance to service delivery areas and service providers, interstate technical assistance and training arrangements, other coordinated technical assistance arrangements undertaken pursuant to the direction of the Secretary, and, where applicable, research and demonstration projects.
+(3) The plan shall describe the projected use of resources, including oversight of program performance, program administration, and program financial management, capacity building, priorities and criteria for State incentive grants, and performance goals for State-supported programs. The description of capacity building shall include the Governor's plans for technical assistance to service delivery areas and serviceproviders, interstate technical assistance and training arrangements, other coordinated technical assistance arrangements undertaken pursuant to the direction of the Secretary, and, where applicable, research and demonstration projects.
 
 (4) The plan shall include goals for—
 
@@ -46,7 +46,7 @@ Governor's coordination and special services activities may include—
 
 &emsp;(4) providing financial assistance for special programs and services designed to meet the needs of rural areas outside major labor market areas;
 
-&emsp;(5) providing training opportunities in the conservation and efficient use of energy, andthe development of solar energy sources as defined in section 3 of the Solar Energy Research, Development and Demonstration Act of 1974 \[42 U.S.C. 5552\];
+&emsp;(5) providing training opportunities in the conservation and efficient use of energy, and the development of solar energy sources as defined in section 3 of the Solar Energy Research, Development and Demonstration Act of 1974 \[42 U.S.C. 5552\];
 
 &emsp;(6) industry-wide training;
 
@@ -68,13 +68,17 @@ A Governor's coordination and special services plan shall be approved by the Sec
 
 (Pub. L. 97–300, title I, §121, Oct. 13, 1982, 96 Stat. 1337; Pub. L. 99–496, §15(d), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 99–570, title XI, §11004(a), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 100–628, title VII, §714(c), Nov. 7, 1988, 102 Stat. 3256; Pub. L. 102–54, §13(k)(2)(B), June 13, 1991, 105 Stat. 277; Pub. L. 102–235, §5, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §121, title VII, §702(a)(4), Sept. 7, 1992, 106 Stat. 1037, 1112; Pub. L. 104–193, title I, §110(n)(3), Aug. 22, 1996, 110 Stat. 2174.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(4)(A), (D), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(4)(A), (D), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (c)(12), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (c)(12), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
 
@@ -122,7 +126,7 @@ Amendment by Pub. L. 102–235 not to be construed to require, sanction, or auth
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1515, 1602, 1603, 1642, 1643, 1733 of this title; title 42 section 683.
+This section is referred to in sections 1515, 1602, 1603, 1642, 1643, 1733 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -1,5 +1,5 @@
 
-46 U.S.C.<br>United States Code, 1997 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 1998 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 
@@ -3012,7 +3012,19 @@ Rep.
 
 46 App.
 
+1707a
+
+Rep.
+
+1717
+
+Rep.
+
 1720
+
+Rep.
+
+1721
 
 Rep.
 
@@ -3034,7 +3046,7 @@ Section 105 of Pub. L. 100–710, title I, Nov. 23, 1988, 102 Stat. 4751, provid
 
 “(d) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by section 102 of this Act.
 
-“(e) If a provision of this Act is held invalid, all valid provisions that are severable from the invalid provisionremain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+“(e) If a provision of this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 Section 5103(a)–(f) of Pub. L. 99–509, title V, subtitle B, Oct. 21, 1986, 100 Stat. 1927, provided that:
 
@@ -3084,7 +3096,7 @@ Section 4(b) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, repealed specified
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 7 section 5602; title 19 section 1609; title 26 section 415; title 33 section 59aa; title 42 section 9607.
+This title is referred to in section 1273a of Appendix to this title; title 7 section 5602; title 19 section 1609; title 26 section 415; title 33 section 59aa; title 42 section 9607.
 
 
 ---

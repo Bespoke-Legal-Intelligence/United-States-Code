@@ -12,7 +12,7 @@
 
 &emsp;(3) make efficient use of the services and facilities for inspecting, testing, and accepting such items.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Sept. 2, 1958, Pub. L. 85–861, §33(a)(13), 72 Stat. 1565.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 85–861, §33(a)(13), Sept. 2, 1958, 72 Stat. 1565.)
 
 Historical and Revision Notes<br>1956
 
@@ -55,6 +55,36 @@ The change makes clear that clauses (2) and (3) apply to all items, whether or n
 #### Effective Date of 1958 Amendment
 
 Amendment of section by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
+
+#### Defense-Wide Electronic Mall System for Supply Purchases
+
+Pub. L. 105–261, div. A, title III, §332, Oct. 17, 1998, 112 Stat. 1968, provided that:
+
+“(a)
+
+Electronic Mall System Defined.—In this section, the term ‘electronic mall system’ means an electronic system for displaying, ordering, and purchasing supplies and materiel available from sources within the Department of Defense and from the private sector.
+
+“(b)
+
+Development and Management.—(1) Using systems and technology available in the Department of Defense as of the date of the enactment of this Act \[Oct. 17, 1998\], the Joint Electronic Commerce Program Office of the Department of Defense shall develop a single, defense-wide electronic mall system, which shall provide a single, defense-wide electronic point of entry and a single view, access, and ordering capability for all Department of Defense electronic catalogs. The Secretary of each military department and the head of each Defense Agency shall provide to the Joint Electronic Commerce Program Office the necessary and requested data to ensure compliance with this paragraph.
+
+“(2) The Defense Logistics Agency, under the direction of the Joint Electronic Commerce Program Office, shall be responsible for maintaining the defense-wide electronic mall system developed under paragraph (1).
+
+“(c)
+
+Role of Chief Information Officer.—The Chief Information Officer of the Department of Defense shall be responsible for—
+
+&emsp;“(1) overseeing the elimination of duplication and overlap among Department of Defense electronic catalogs; and
+
+&emsp;“(2) ensuring that such catalogs utilize technologies and formats compliant with the requirements of subsection (b).
+
+“(d)
+
+Implementation.—Within 180 days after the date of the enactment of this Act, the Chief Information Officer shall develop and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\]—
+
+&emsp;“(1) an inventory of all existing and planned electronic mall systems in the Department of Defense; and
+
+&emsp;“(2) a schedule for ensuring that each such system is compliant with the requirements of subsection (b).”
 
 #### Standardization and Interoperability of NATO Weapons
 

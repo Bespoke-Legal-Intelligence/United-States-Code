@@ -66,7 +66,7 @@ Training Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 (c)
 
-Compliance With Certain Law.—The Secretary of Transportation may make a grant to a State under this section in a fiscal year only ifthe State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
+Compliance With Certain Law.—The Secretary of Transportation may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
 
 (d)
 
@@ -132,7 +132,7 @@ Supplemental Training Grants.—
 
 &emsp;&emsp;(B) other courses which the Secretary determines are consistent with the objectives of this subsection;
 
-> &emsp;for training individuals with statutory responsibility to respond to accidents and incidentsinvolving hazardous materials. Such agreement also shall provide that training courses shall be open to all such individuals on a nondiscriminatory basis.
+> &emsp;for training individuals with statutory responsibility to respond to accidents and incidents involving hazardous materials. Such agreement also shall provide that training courses shall be open to all such individuals on a nondiscriminatory basis.
 
 &emsp;(5) The Secretary may impose such additional terms and conditions on grants to be made under this subsection as the Secretary determines are necessary to protect the interests of the United States and to carry out the objectives of this subsection.
 

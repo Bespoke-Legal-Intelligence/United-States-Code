@@ -2,7 +2,7 @@
 
 #### (a) Powers of nonprofit corporation; additional powers
 
-To the extent consistent with the provisions of this subchapter, the Corporation shall exercisethe powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (except for section 1005(<i>o</i>) of title 29 of the District of Columbia Code). In addition, the Corporation is authorized—
+To the extent consistent with the provisions of this subchapter, the Corporation shall exercise the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (except for section 1005(<i>o</i>) of title 29 of the District of Columbia Code). In addition, the Corporation is authorized—
 
 &emsp;(1)(A) to provide financial assistance to qualified programs furnishing legal assistance to eligible clients, and to make grants to and contracts with—
 
@@ -42,7 +42,7 @@ To the extent consistent with the provisions of this subchapter, the Corporation
 
 The Corporation shall not itself—
 
-&emsp;(1) participate in litigation unless the Corporation or a recipient of the Corporation is aparty, or a recipient is representing an eligible client in litigation in which the interpretation of this subchapter or a regulation promulgated under this subchapter is an issue, and shall not participate on behalf of any client other than itself; or
+&emsp;(1) participate in litigation unless the Corporation or a recipient of the Corporation is a party, or a recipient is representing an eligible client in litigation in which the interpretation of this subchapter or a regulation promulgated under this subchapter is an issue, and shall not participate on behalf of any client other than itself; or
 
 &emsp;(2) undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, except that personnel of the Corporation may testify or make other appropriate communication (A) when formally requested to do so by a legislative body, a committee, or a member thereof, or (B) in connection with legislation or appropriations directly affecting the activities of the Corporation.
 

@@ -18,13 +18,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1995</b>—Subsecs. (a), (b). Pub. L. 104–88 substituted “11706 or 14706” for “11707”.
+1995—Subsecs. (a), (b). Pub. L. 104–88 substituted “11706 or 14706” for “11707”.
 
-<b>1983</b>—Pub. L. 97–449 substituted “section 11707 of title 49” for “section 20(11) of part I of the Interstate Commerce Act (49 U.S.C. 20(11)) or section 219 of part II of such Act (49 U.S.C. 319)” wherever appearing.
+1983—Pub. L. 97–449 substituted “section 11707 of title 49” for “section 20(11) of part I of the Interstate Commerce Act (49 U.S.C. 20(11)) or section 219 of part II of such Act (49 U.S.C. 319)” wherever appearing.
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–417 added subsec. (c).
+1980—Subsec. (c). Pub. L. 96–417 added subsec. (c).
 
-<b>1978</b>—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
+1978—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
 
 #### Effective Date of 1995 Amendment
 
@@ -36,5 +36,5 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 41 sections 607, 609; title 49 section 10709.
+This section is referred to in title 21 section 1603; title 41 sections 607, 609; title 49 section 10709.
 

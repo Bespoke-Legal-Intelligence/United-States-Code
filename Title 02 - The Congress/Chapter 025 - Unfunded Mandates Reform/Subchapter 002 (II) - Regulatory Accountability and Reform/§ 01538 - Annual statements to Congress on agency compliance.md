@@ -4,3 +4,7 @@ No later than 1 year after March 22, 1995, and annually thereafter, the Director
 
 (Pub. L. 104–4, title II, §208, Mar. 22, 1995, 109 Stat. 67.)
 
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

@@ -2,7 +2,7 @@
 
 #### (a) Attorney's fees
 
-If a covered employee, with respect to any claim under this chapter, or a qualified personwith a disability, with respect to any claim under section 1331 of this title, is a prevailing party in any proceeding under section 1405, 1406, 1407, or 1408 of this title, the hearing officer, Board, or court, as the case may be, may award attorney's fees, expert fees, and any other costs as would be appropriate if awarded under section 2000e–5(k) of title 42.
+If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 1331 of this title, is a prevailing party in any proceeding under section 1405, 1406, 1407, or 1408 of this title, the hearing officer, Board, or court, as the case may be, may award attorney's fees, expert fees, and any other costs as would be appropriate if awarded under section 2000e–5(k) of title 42.
 
 #### (b) Interest
 
@@ -44,9 +44,13 @@ Only a covered employee who has undertaken and completed the procedures describe
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c), (d)(1), and (f), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsecs. (a), (c), (d)(1), and (f), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 Part A of this subchapter, referred to in subsec. (e), was in the original “part A of this title”, meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which enacted part A of this subchapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of part A to the Code, see Tables.
 
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (f)(2), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1316a of this title.
 

@@ -12,7 +12,7 @@
 
 (c) Whoever, being (1) the owner of an American vessel, or (2) the owner of any vessel under or within the jurisdiction of the United States, or (3) the owner of any vessel and being an American citizen, shall use, or knowingly permit the use of, such vessel in violation of any provision of this section shall, in addition to any other penalties provided by this chapter, forfeit such vessel, together with her tackle, apparel, and furniture, to the United States.
 
-(Added May 24, 1949, ch. 139, §23, 63 Stat. 92; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(Added May 24, 1949, ch. 139, §23, 63 Stat. 92; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 

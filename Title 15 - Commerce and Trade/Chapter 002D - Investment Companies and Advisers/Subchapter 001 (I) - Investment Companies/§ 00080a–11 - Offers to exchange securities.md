@@ -12,11 +12,11 @@ The provisions of this section shall not apply to any offer made pursuant to any
 
 The provisions of subsection (a) of this section shall be applicable, irrespective of the basis of exchange, (1) to any offer of exchange of any security of a registered open-end company for a security of a registered unit investment trust or registered face-amount certificate company; and (2) to any type of offer of exchange of the securities of registered unit investment trusts or registered face-amount certificate companies for the securities of any other investment company.
 
-(Aug. 22, 1940, ch. 686, title I, §11, 54 Stat. 808; Dec. 14, 1970, Pub. L. 91–547, §6, 84 Stat. 1417.)
+(Aug. 22, 1940, ch. 686, title I, §11, 54 Stat. 808; Pub. L. 91–547, §6, Dec. 14, 1970, 84 Stat. 1417.)
 
 #### Amendments
 
-1970—Subsec. (b). Pub. L. 91–547 struck out item (1) designation of existing provisions and item (2) provision for nonapplication of this section to any offer made pursuant to the right of conversion, at the option of the holder, from one class or series into another class or series of securities issued by the same company upon such terms as are specified in the charter, certificate of incorporation, articles of association, by-laws, or trust indenture subject to which the securities to be converted were issued or are to be issued.
+1970—Subsec. (b). Pub. L. 91–547 struck out item (1) designation of existing provisions and item (2) provision for nonapplication of this section to any offer made pursuant to the right of conversion, at the option of the holder, from one class or series into another class or series of securities issued by the same company upon such terms as are specified in the charter, certificate of incorporation, articles of association, by-laws,or trust indenture subject to which the securities to be converted were issued or are to be issued.
 
 #### Effective Date of 1970 Amendment
 

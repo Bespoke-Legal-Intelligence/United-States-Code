@@ -14,7 +14,7 @@
 
 &emsp;(6) $110,000 for the study required by section 2223 of this title.
 
-(b) There are authorized to be appropriated for the additional administrative expenses of the Federal Emergency Management Agency, which are related to this chapter and which result from Reorganization Plan Numbered 3 of 1978 (submitted June 19, 1978) and related Executive orders, an amount not to exceed $600,000 for the fiscal year ending September 30, 1980.
+(b) There are authorized to be appropriated for the additional administrative expenses of the Federal Emergency Management Agency, whichare related to this chapter and which result from Reorganization Plan Numbered 3 of 1978 (submitted June 19, 1978) and related Executive orders, an amount not to exceed $600,000 for the fiscal year ending September 30, 1980.
 
 (c) There are authorized to be appropriated to carry out this chapter, except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, an amount not to exceed $23,814,000 for the fiscal year ending September 30, 1981, which amount includes—
 
@@ -78,7 +78,7 @@
 
 &emsp;(4) $250,000 for each of the fiscal years 1995 and 1996 for salaries and expenses for carrying out section 2221 of this title.
 
-(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264.)
+(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254;Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264.)
 
 #### References in Text
 

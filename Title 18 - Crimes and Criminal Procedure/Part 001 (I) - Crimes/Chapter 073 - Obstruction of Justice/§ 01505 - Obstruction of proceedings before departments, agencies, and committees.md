@@ -6,7 +6,7 @@ Whoever corruptly, or by threats or force, or by any threatening letter or commu
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 770; Sept. 19, 1962, Pub. L. 87–664, §6(a), 76 Stat. 551; Oct. 15, 1970, Pub. L. 91–452, title IX, §903, 84 Stat. 947; Sept. 30, 1976, Pub. L. 94–435, title I, §105, 90 Stat. 1389; Oct. 12, 1982, Pub. L. 97–291, §4(d), 96 Stat. 1253; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 87–664, §6(a), Sept. 19, 1962, 76 Stat. 551; Pub. L. 91–452, title IX, §903, Oct. 15, 1970, 84 Stat. 947; Pub. L. 94–435, title I, §105, Sept. 30, 1976, 90 Stat. 1389; Pub. L. 97–291, §4(d), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,7 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 1982—Pub. L. 97–291 struck out first two paragraphs which provided, respectively, that whoever corruptly, or by threats or force, or by any threatening letter or communication, endeavored to influence, intimidate, or impede any witness in any proceeding pending before any department or agency of the United States, or in connection with any inquiry or investigation being had by either House, or any committee of either House, or any joint committee of the Congress, and whoever injured any party or witness in his person or property on account of his attending or having attended such proceeding, inquiry, or investigation, or on account of his testifying or having testified to any matter pending therein, would be subject to the penalty set forth in the last paragraph, and in the fourth paragraph substituted “any pending” for “such” after “law under which”, and substituted “any” for “such” before “department” and before “inquiry”.
 
-1976—Pub. L. 94–435 struck out “section 1968 of this title” after “Antitrust Civil Process Act”, inserted “withholds, misrepresents” after “willfully”, “covers up” after “conceals”, “answers to written interrogatories, or oral testimony”, after “any documentary material”, and “or attempts to do so or solicits another to do so;” after “such demand”.
+1976—Pub. L. 94–435 struck out “section 1968 of this title” after “Antitrust Civil Process Act”, inserted “withholds, misrepresents” after “willfully”, “covers up” after “conceals”, “answers to written interrogatories, or oral testimony”, after “any documentarymaterial”, and “or attempts to do so or solicits another to do so;” after “such demand”.
 
 1970—Pub. L. 91–452 inserted reference to section 1968 of this title.
 

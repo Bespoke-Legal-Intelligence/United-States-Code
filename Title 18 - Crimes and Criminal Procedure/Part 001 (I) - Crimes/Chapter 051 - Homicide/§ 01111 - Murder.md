@@ -10,7 +10,7 @@ Whoever is guilty of murder in the first degree shall be punished by death or by
 
 Whoever is guilty of murder in the second degree, shall be imprisoned for any term of years or for life.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Oct. 12, 1984, Pub. L. 98–473, title II, §1004, 98 Stat. 2138; Nov. 10, 1986, Pub. L. 99–646, §87(c)(4), 100 Stat. 3623; Nov. 14, 1986, Pub. L. 99–654, §3(a)(4), 100 Stat. 3663; Nov. 18, 1988, Pub. L. 100–690, title VII, §7025, 102 Stat. 4397; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(4), 108 Stat. 1969.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 98–473, title II, §1004, Oct. 12, 1984, 98 Stat. 2138; Pub. L. 99–646, §87(c)(4), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(4), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, §7025, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(4), Sept. 13, 1994, 108 Stat. 1969.)
 
 #### Historical and Revision Notes
 
@@ -68,5 +68,5 @@ Venue, see section 3236 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 36, 115, 351, 924, 930, 1114, 1116, 1117, 1118, 1119, 1120, 1121, 1503, 1512, 1513, 1751, 1956, 2332, 3559, 5032 of this title; title 7 section 2146; title 15 section 1825; title 21 sections 461, 675, 1041; title 42 sections 2283, 5106a; title 49 section 46506.
+This section is referred to in sections 36, 115, 351, 924, 930, 1114, 1116, 1117, 1118, 1119, 1120, 1121, 1503, 1512, 1513, 1751, 1956, 2332, 3559, 5032 of this title; title 7 section 2146; title 15 section 1825; title 21 sections 461, 675, 1041; title 28 section 540B; title 42 sections 671, 2283, 5106a; title 49 section 46506.
 

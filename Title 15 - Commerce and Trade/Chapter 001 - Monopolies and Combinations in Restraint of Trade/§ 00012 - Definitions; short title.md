@@ -8,7 +8,7 @@ The word “person” or “persons” wherever used in this Act shall be deemed
 
 (b) This Act may be cited as the “Clayton Act”.
 
-(Oct. 15, 1914, ch. 323, §1, 38 Stat. 730; Sept. 30, 1976, Pub. L. 94–435, title III, §305(b), 90 Stat. 1397.)
+(Oct. 15, 1914, ch. 323, §1, 38 Stat. 730; Pub. L. 94–435, title III, §305(b), Sept. 30, 1976, 90 Stat. 1397.)
 
 #### References in Text
 

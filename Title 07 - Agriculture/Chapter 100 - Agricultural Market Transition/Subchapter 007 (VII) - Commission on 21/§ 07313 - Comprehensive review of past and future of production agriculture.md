@@ -16,7 +16,7 @@ The Commission shall conduct a comprehensive review of changes in the condition 
 
 &emsp;(6) An assessment of the extent to which tax relief for agricultural producers has been enacted in the form of capital gains tax reductions, estate tax exemptions, and mechanisms to average tax loads over high- and low-income years.
 
-&emsp;(7) An assessment of the effect of any Federal Government interference in agriculturalexport markets, such as the imposition of trade embargoes, and the degree of implementation and success of international trade agreements and United States export programs.
+&emsp;(7) An assessment of the effect of any Federal Government interference in agricultural export markets, such as the imposition of trade embargoes, and the degree of implementation and success of international trade agreements and United States export programs.
 
 &emsp;(8) An assessment of the likely effect of the sale, lease, or transfer of farm poundage quota for peanuts across State lines.
 

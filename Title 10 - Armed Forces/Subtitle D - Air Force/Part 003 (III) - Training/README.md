@@ -1,11 +1,6 @@
 ## PART III—TRAINING
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>901.</b>](Chapter%20901%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>9301</b> |
 | [<b>903.</b>](Chapter%20903%20-%20United%20States%20Air%20Force%20Academy/README.md) | <b>United States Air Force Academy</b> | <b>9331</b> |

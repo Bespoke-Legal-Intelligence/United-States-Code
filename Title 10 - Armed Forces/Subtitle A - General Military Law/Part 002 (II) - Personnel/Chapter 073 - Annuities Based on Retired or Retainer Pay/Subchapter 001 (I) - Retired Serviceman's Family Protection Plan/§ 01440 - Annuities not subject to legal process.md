@@ -2,7 +2,7 @@
 
 Except as provided in section 1437(c)(3)(B) of this title, no annuity payable under this subchapter is assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 111; Sept. 21, 1972, Pub. L. 92–425, §1(2)(A), 86 Stat. 706; Oct. 19, 1984, Pub. L. 98–525, title VI, §642(a)(2), 98 Stat. 2546; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(10), 99 Stat. 739.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 111; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706; Pub. L. 98–525, title VI, §642(a)(2), Oct. 19, 1984, 98 Stat. 2546; Pub. L. 99–145, title XIII, §1303(a)(10), Nov. 8, 1985, 99 Stat. 739.)
 
 Historical and Revision Notes
 

@@ -42,9 +42,9 @@ Any person (including, but not limited to, any governmental entity, public utili
 
 (3)(A) If, after notice and an opportunity for a hearing, the county committee of the county referred to in subsection (a) of this section determines that any person knowingly failed to comply with this subsection, then the quota specified in this subsection shall be forfeited and shall be reallocated by such county committee for use by active Burley tobacco producers or those intending to become active Burley tobacco producers, as defined by the Secretary, for use in such county.
 
-(B) Notice of such determination shall be mailed, as soon as practicable, to such person. If such person is dissatisfied with such determination, then such person may request, within fifteen days after notice of such determination is so mailed, a review of such determination by a local review committee under section 1363 of this title.
+(B) Notice of such determination shall be mailed, as soon as practicable, to such person. If such person is dissatisfied with such determination, then such person may request, within fifteen days after notice of such determination isso mailed, a review of such determination by a local review committee under section 1363 of this title.
 
-(Feb. 16, 1938, ch. 30, title III, §316B, as added July 20, 1982, Pub. L. 97–218, title III, §302, 96 Stat. 210; amended Nov. 29, 1983, Pub. L. 98–180, title II, §207(b), 97 Stat. 1148.)
+(Feb. 16, 1938, ch. 30, title III, §316B, as added Pub. L. 97–218, title III, §302, July 20, 1982, 96 Stat. 210; amended Pub. L. 98–180, title II, §207(b), Nov. 29, 1983, 97 Stat. 1148.)
 
 #### References in Text
 

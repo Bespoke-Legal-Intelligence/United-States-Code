@@ -58,7 +58,7 @@
 
 &emsp;(i) The petitioned action is not warranted, in which case the Secretary shall promptly publish such finding in the Federal Register.
 
-&emsp;(ii) The petitioned action is warranted, in which case the Secretary shall promptly publish in the Federal Register a general noticeand the complete text of a proposed regulation to implement such action in accordance with paragraph (5).
+&emsp;(ii) The petitioned action is warranted, in which case the Secretary shall promptly publish in the Federal Register a general notice and the complete text of a proposed regulation to implement such action in accordance with paragraph (5).
 
 &emsp;(iii) The petitioned action is warranted, but that—
 
@@ -116,7 +116,7 @@
 
 (B)(i) If the Secretary finds with respect to a proposed regulation referred to in subparagraph (A)(i) that there is substantial disagreement regarding the sufficiency or accuracy of the available data relevant to the determination or revision concerned, the Secretary may extend the one-year period specified in subparagraph (A) for not more than six months for purposes of soliciting additional data.
 
-(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there isnot sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
+(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there is not sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
 
 (iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a final regulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
 
@@ -218,7 +218,7 @@ If, in the case of any regulation proposed by the Secretary under the authority 
 
 #### References in Text
 
-Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3,1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
@@ -228,7 +228,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92
 
 Subsec. (e). Pub. L. 100–478, §1002(b), substituted “regulation of commerce or taking,” for “regulation,” in introductory provisions.
 
-Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall develop and implement plans (hereinafter in this subsection referred to as ‘recovery plans’) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.”
+Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall develop and implement plans (hereinafter in this subsection referred to as ‘recovery plans’) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly thosespecies that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.”
 
 Subsecs. (g) to (i). Pub. L. 100–478, §1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 

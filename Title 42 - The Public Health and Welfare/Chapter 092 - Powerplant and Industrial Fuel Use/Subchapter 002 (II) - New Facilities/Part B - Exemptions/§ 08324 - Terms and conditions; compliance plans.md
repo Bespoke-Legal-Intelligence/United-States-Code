@@ -8,7 +8,7 @@ Any exemption from any prohibition under this part shall be on such terms and co
 
 A compliance plan meets the requirements of this subsection if it is approved by the Secretary and—
 
-&emsp;(1) contains (A) a schedule indicating how compliance with applicable prohibitions ofthis chapter will occur and (B) evidence of binding contracts for fuel, or facilities for the production of fuel, which would allow or <sup>1</sup> such compliance; and
+&emsp;(1) contains (A) a schedule indicating how compliance with applicable prohibitions of this chapter will occur and (B) evidence of binding contracts for fuel, or facilities for the production of fuel, which would allow or <sup>1</sup> such compliance; and
 
 &emsp;(2) is revised at such times and to such extent as the Secretary may require to reflect changes in circumstances.
 

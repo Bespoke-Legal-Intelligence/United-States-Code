@@ -1,8 +1,8 @@
 ### §4191. General application of provisions to consular officers
 
-The various provisions of title 18 of the Revised Statutes which are expressed in terms of general application to any particular classes of consular officers, shall be deemed to apply as well to all other classes of such officers, so far as may be consistent with the subject matter of the same and with the treaties of the United States.
+The various provisions of title 18 of the Revised Statutes which are expressed in terms of general application to any particular classes of consular officers, shall be deemed to apply as well to all other classes of such officers and to such other United States citizen employees of the Department of State as may be designated by the Secretary of State pursuant to such regulations as the Secretary may prescribe, so far as may be consistent with the subject matter of the same and with the treaties of the United States.
 
-(R.S. §1689.)
+(R.S. §1689; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(b), Oct. 21, 1998, 112 Stat. 2681–818.)
 
 #### References in Text
 
@@ -15,4 +15,8 @@ R.S. §1689 derived from act Aug. 18, 1856, ch. 127, §31, 11 Stat. 64.
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Section was formerly classified to section 1171 of this title, and prior thereto to section 53 of this title.
+
+#### Amendments
+
+1998—Pub. L. 105–277 inserted “and to such other United States citizen employees of the Department of State as may be designated by the Secretary of State pursuant to such regulations as the Secretary may prescribe” after “such officers”.
 

@@ -1,6 +1,0 @@
-### §1005. Membership
-
-Eligibility for membership in the corporation and the rights, privileges, and designation of classes of members shall, except as provided in this chapter, be determined as the constitution and bylaws of the corporation may provide. Eligibility for membership in the corporation shall be women, who are the wives, mothers, daughters, and sisters of Union soldiers, sailors, and marines and other loyal women, who have not given aid or comfort to the enemies of the United States of America.
-
-(Pub. L. 87–650, §5, Sept. 7, 1962, 76 Stat. 503.)
-

@@ -4,7 +4,7 @@
 
 (b) The Secretary of Defense shall take such steps as may be necessary to ensure that, except as provided in subsection (d), any military reserve technician who is involuntarily separated from technician service, after completing at least 15 years of such service and 20 years of service creditable under section 1332 <sup>1</sup> of title 10, by reason of ceasing to satisfy the condition described in section 8401(30)(B) shall, if appropriate written application is submitted within 1 year after the date of separation, be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense.
 
-(c)(1) The position for which placement consideration shall be provided to a former military technician under subsection (b) shall be a position—
+(c)(1) The position for which placement consideration shall be provided to a former militarytechnician under subsection (b) shall be a position—
 
 &emsp;(A) in either the competitive service or the excepted service;
 

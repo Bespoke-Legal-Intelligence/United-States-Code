@@ -2,7 +2,7 @@
 
 (a)
 
-Penalty.—A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.
+Penalty.—A person that violates any of sections 30112, 30115, 30117–30122, 30123(d),<sup>1</sup> 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.
 
 (b)
 
@@ -66,6 +66,10 @@ In subsection (d), the words “who are required to attend a United States distr
 
 This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references.
 
+#### References in Text
+
+Section 30123(d) of this title, referred to in subsec. (a), was redesignated section 30123(a) of this title by Pub. L. 105–178, title VII, §7106(b), June 9, 1998, 112 Stat. 467.
+
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–429 substituted “any of sections 30112” for “section 30112” and inserted “any of” before “those sections” in two places.
@@ -77,4 +81,6 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 30163 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

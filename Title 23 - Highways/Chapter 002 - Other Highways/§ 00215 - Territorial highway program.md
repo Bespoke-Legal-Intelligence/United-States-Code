@@ -38,7 +38,7 @@ Pub. L. 95–599, title I, §104(a)(12), Nov. 6, 1978, 92 Stat. 2691, provided t
 
 &emsp;“(C) for American Samoa, not to exceed $1,000,000 per fiscal year for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, and September 30, 1982.
 
-“Sums authorized by this paragraph shall be available for obligation at the beginning of the period for which authorized in the same manner and to the same extent as if such sums were apportioned under chapter 1 of title 23, United States Code.”
+“Sums authorized by this paragraph shall be available for obligation at the beginning of the period for which authorized in the same manner and to the sameextent as if such sums were apportioned under chapter 1 of title 23, United States Code.”
 
 #### Authorization of Appropriations, Three-Month Period Ending September 30, 1976, and Fiscal Years Ending September 30, 1977, and 1978
 
@@ -46,7 +46,7 @@ Pub. L. 94–280, title I, §105(a)(12), May 5, 1976, 90 Stat. 427, authorized t
 
 #### Authorization of Appropriations, Fiscal Years Ending June 30, 1974, 1975, and 1976
 
-Pub. L. 93–87, title I, §104(a)(12), Aug. 13, 1973, 87 Stat. 252, authorized the appropriation for each of fiscalyears ending June 30, 1974, 1975, and 1976 of not to exceed $5,000,000 for the Virgin Islands, not to exceed $2,000,000 for Guam, and not to exceed $1,000,000 for American Samoa, such sums to be available for obligation at the beginning of the fiscal year for which authorized.
+Pub. L. 93–87, title I, §104(a)(12), Aug. 13, 1973, 87 Stat. 252, authorized the appropriation for each of fiscal years ending June 30, 1974, 1975, and 1976 of not to exceed $5,000,000 for the Virgin Islands, not to exceed $2,000,000 for Guam, and not to exceed $1,000,000 for American Samoa, such sums to be available for obligation at the beginning of the fiscal year for which authorized.
 
 #### Authorization of Appropriations, Fiscal Years Ending June 30, 1971, 1972, and 1973
 

@@ -74,5 +74,5 @@ This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709â
 - [&sect; 01715z&#8211;17 - Shared appreciation mortgages for single family housing](%C2%A7%2001715z%E2%80%9317%20-%20Shared%20appreciation%20mortgages%20for%20single%20family%20housing.md)
 - [&sect; 01715z&#8211;18 - Shared appreciation mortgages for multifamily housing](%C2%A7%2001715z%E2%80%9318%20-%20Shared%20appreciation%20mortgages%20for%20multifamily%20housing.md)
 - [&sect; 01715z&#8211;19 - Equity skimming penalty](%C2%A7%2001715z%E2%80%9319%20-%20Equity%20skimming%20penalty.md)
-- [&sect; 01715z&#8211;20 - Demonstration program of insurance of home equity conversion mortgages for elderly homeowners](%C2%A7%2001715z%E2%80%9320%20-%20Demonstration%20program%20of%20insurance%20of%20home%20equity%20conversion%20mortgages%20for%20elderly%20homeowners.md)
+- [&sect; 01715z&#8211;20 - Insurance of home equity conversion mortgages for elderly homeowners](%C2%A7%2001715z%E2%80%9320%20-%20Insurance%20of%20home%20equity%20conversion%20mortgages%20for%20elderly%20homeowners.md)
 - [&sect; 01715z&#8211;21 - Delegation of insuring authority to direct endorsement mortgagees](%C2%A7%2001715z%E2%80%9321%20-%20Delegation%20of%20insuring%20authority%20to%20direct%20endorsement%20mortgagees.md)

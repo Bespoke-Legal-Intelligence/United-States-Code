@@ -2,7 +2,7 @@
 
 The statement of record shall contain the information and be accompanied by the documents specified hereinafter in this section—
 
-&emsp;(1) the name and address of each person having an interest in the lots in the subdivision to be covered by the statement of record and the extent of such interest;
+&emsp;(1) the name and address of each person having an interest in the lots in the subdivision tobe covered by the statement of record and the extent of such interest;
 
 &emsp;(2) a legal description of, and a statement of the total area included in, the subdivision and a statement of the topography thereof, together with a map showing the division proposed and the dimensions of the lots to be covered by the statement of record and their relation to existing streets and roads;
 
@@ -10,7 +10,7 @@ The statement of record shall contain the information and be accompanied by the 
 
 &emsp;(4) a statement of the general terms and conditions, including the range of selling prices or rents at which it is proposed to dispose of the lots in the subdivision;
 
-&emsp;(5) a statement of the present condition of access to the subdivision, the existence of any unusual conditions relating to noise or safety which affect the subdivision and are known to the developer, the availability of sewage disposal facilities and other public utilities (including water, electricity, gas, and telephonefacilities) in the subdivision, the proximity in miles of the subdivision to nearby municipalities, and the nature of any improvements to be installed by the developer and his estimated schedule for completion;
+&emsp;(5) a statement of the present condition of access to the subdivision, the existence of any unusual conditions relating to noise or safety which affect the subdivision and are known to the developer, the availability of sewage disposal facilities and other public utilities (including water, electricity, gas, and telephone facilities) in the subdivision, the proximity in miles of the subdivision to nearby municipalities, and the nature of any improvements to be installed by the developer and his estimated schedule for completion;
 
 &emsp;(6) in the case of any subdivision or portion thereof against which there exists a blanket encumbrance, a statement of the consequences for an individual purchaser of a failure, by the person or persons bound, to fulfill obligations under the instrument or instruments creating such encumbrance and the steps, if any, taken to protect the purchaser in such eventuality;
 

@@ -8,7 +8,7 @@ Shall be fined under this title, or imprisoned not more than five years, or both
 
 As used in this section, the term “Indian tribal organization” means any tribe, band, or community of Indians which is subject to the laws of the United States relating to Indian affairs or any corporation, association, or group which is organized under any of such laws.
 
-(Added Aug. 1, 1956, ch. 822, §2, 70 Stat. 792; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(Added Aug. 1, 1956, ch. 822, §2, 70 Stat. 792; amended Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Amendments
 

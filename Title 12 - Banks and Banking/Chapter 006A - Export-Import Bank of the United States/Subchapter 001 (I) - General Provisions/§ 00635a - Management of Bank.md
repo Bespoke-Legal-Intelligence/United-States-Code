@@ -126,9 +126,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 105–118, title I, Nov. 26, 1997, 111 Stat. 2387, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 1998.”
+\[Pub. L. 105–277, div. A, §101(d) \[title I\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–151, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 1999.”
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 105–118, title I, Nov. 26, 1997, 111 Stat. 2387.
 
 \[Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–122.
 
@@ -142,7 +144,7 @@ Section 118 of Pub. L. 102–429 directed Export-Import Bank, not later than 1 y
 
 #### Appointment of Member of Board To Represent Interests of Small Business Community
 
-Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30,1983\] shall be selected from among the small business community and shall represent the interests of small business.”
+Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business.”
 
 #### Board of Directors; Advisory Committee
 

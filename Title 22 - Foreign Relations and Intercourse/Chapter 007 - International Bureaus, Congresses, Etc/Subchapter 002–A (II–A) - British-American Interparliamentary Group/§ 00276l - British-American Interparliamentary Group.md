@@ -28,7 +28,7 @@ The certificate of the Chair of the House delegation or the Senate delegation of
 
 #### (f) Annual report
 
-The United States group shall submit to the Congress a report for each fiscal year for whichan appropriation is made for the United States group, which shall include its expenditures under such appropriation.
+The United States group shall submit to the Congress a report for each fiscal year for which an appropriation is made for the United States group, which shall include its expenditures under such appropriation.
 
 (Pub. L. 102–138, title I, §168, Oct. 28, 1991, 105 Stat. 676.)
 

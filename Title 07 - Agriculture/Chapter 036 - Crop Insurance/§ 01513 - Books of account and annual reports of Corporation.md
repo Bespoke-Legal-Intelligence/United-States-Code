@@ -2,7 +2,7 @@
 
 The Corporation shall at all times maintain complete and accurate books of accounts and shall file annually with the Secretary a complete report as to the business of the Corporation.
 
-(Feb. 16, 1938, ch. 30, title V, §513, 52 Stat. 76; Jan. 2, 1975, Pub. L. 93–604, title VI, §603, 88 Stat. 1963; Oct. 13, 1994, Pub. L. 103–354, title I, §102(b)(4)(C), 108 Stat. 3181.)
+(Feb. 16, 1938, ch. 30, title V, §513, 52 Stat. 76; Pub. L. 93–604, title VI, §603, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 103–354, title I, §102(b)(4)(C), Oct. 13, 1994, 108 Stat. 3181.)
 
 #### Amendments
 

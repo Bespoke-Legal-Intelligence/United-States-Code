@@ -16,7 +16,7 @@
 
 (b) The provisions of this chapter that apply to the procurement of property apply also to contracts for its installation or alteration.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; July 29, 1958, Pub. L. 85–568, title III, §301(b), 72 Stat. 432;July 18, 1984, Pub. L. 98–369, div. B, title VII, §2722(b), 98 Stat. 1187.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–568, title III, §301(b), July 29, 1958, 72 Stat. 432; Pub. L. 98–369, div. B, title VII, §2722(b), July 18, 1984, 98 Stat. 1187.)
 
 Historical and Revision Notes
 
@@ -46,7 +46,7 @@ In subsection (b), the introductory clause is substituted for the word “suppli
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–369, §2722(b)(1)(A), (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and “(other than land) and all services” for “named in subsection (b), and all services,”.
+1984—Subsec. (a). Pub. L. 98–369, §2722(b)(1)(A), (B), substituted in provisions preceding cl. (1) “procurement” for “purchase, and contract to purchase,” and“(other than land) and all services” for “named in subsection (b), and all services,”.
 
 Subsec. (a)(1) to (6). Pub. L. 98–369, §2722(b)(1)(C), (D), added cl. (1) and redesignated existing cls. (1) to (5) as (2) to (6), respectively.
 

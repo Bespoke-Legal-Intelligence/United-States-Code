@@ -14,11 +14,11 @@
 
 (1) National primary ambient air quality standards, prescribed under subsection (a) of this section shall be ambient air quality standards the attainment and maintenance of which in the judgment of the Administrator, based on such criteria and allowing an adequate margin of safety, are requisite to protect the public health. Such primary standards may be revised in the same manner as promulgated.
 
-(2) Any national secondary ambient air quality standard prescribed under subsection (a) of this section shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondary standards may be revised in the same manner as promulgated.
+(2) Any national secondary ambient air quality standard prescribed under subsection (a) of this section shall specify a level of air quality the attainment and maintenance of which in the judgment of the Administrator, based on such criteria, is requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air. Such secondarystandards may be revised in the same manner as promulgated.
 
 #### (c) National primary ambient air quality standard for nitrogen dioxide
 
-The Administrator shall, not later than one year after August 7, 1977, promulgate a national primary ambient air quality standard for NO<b>2</b> concentrations over a period of not more than 3 hours unless, based on the criteria issued under section 7408(c) of this title, he finds that there is no significant evidence that such a standard forsuch a period is requisite to protect public health.
+The Administrator shall, not later than one year after August 7, 1977, promulgate a national primary ambient air quality standard for NO<b>2</b> concentrations over a period of not more than 3 hours unless, based on the criteria issued under section 7408(c) of this title, he finds that there is no significant evidence that such a standard for such a period is requisite to protect public health.
 
 #### (d) Review and revision of criteria and standards; independent scientific review committee; appointment; advisory functions
 
@@ -30,7 +30,7 @@ The Administrator shall, not later than one year after August 7, 1977, promulgat
 
 (C) Such committee shall also (i) advise the Administrator of areas in which additional knowledge is required to appraise the adequacy and basis of existing, new, or revised national ambient air quality standards, (ii) describe the research efforts necessary to provide the required information, (iii) advise the Administrator on the relative contribution to air pollution concentrations of natural as well as anthropogenic activity, and (iv) advise the Administrator of any adverse public health, welfare, social, economic, or energy effects which may result from various strategies for attainment and maintenance of such national ambient air quality standards.
 
-(July 14, 1955, ch. 360, title I, §109, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1679; amended Aug. 7, 1977, Pub. L. 95–95, title I, §106, 91 Stat. 691.)
+(July 14, 1955, ch. 360, title I, §109, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1679; amended Pub. L. 95–95, title I, §106, Aug. 7, 1977, 91 Stat. 691.)
 
 #### Codification
 
@@ -82,7 +82,7 @@ Report.—The Administrator shall request the National Academy of Sciences to pr
 
 Submission to Congress; Comments; Authorization.—(1) The report shall be transmitted to the Congress not later than 3 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].
 
-“(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for public comment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
+“(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for publiccomment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
 
 “(3) There are authorized to be appropriated such sums as are necessary to carry out this section.”
 

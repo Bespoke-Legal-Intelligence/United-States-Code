@@ -28,7 +28,7 @@ To carry out subsection (a)(1) of this section, the Assistant Secretary shall ma
 
 #### Prior Provisions
 
-A prior section 3035c, Pub. L. 89–73, title IV, §422, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1541, related to special projects in comprehensive long-term care, prior to the general amendment of this subchapter by Pub. L. 97–115.
+A prior section 3035c, Pub. L. 89–73, title IV, §422, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978,92 Stat. 1541, related to special projects in comprehensive long-term care, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 A prior section 424 of Pub. L. 89–73, as added by Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1543, related to national impact demonstrations and was classified to section 3035e of this title, prior to the general amendment of this subchapter by Pub. L. 97–115.
 

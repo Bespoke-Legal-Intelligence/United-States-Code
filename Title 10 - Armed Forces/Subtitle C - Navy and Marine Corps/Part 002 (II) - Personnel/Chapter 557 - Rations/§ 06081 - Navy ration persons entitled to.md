@@ -6,7 +6,7 @@
 
 (c) The Secretary of the Navy may prescribe regulations stating the conditions under which the ration shall be allowed under subsection (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 379; Sept. 7, 1962, Pub. L. 87–649, §5(c), 76 Stat. 494; Nov. 18, 1997, Pub. L. 105–85, div. A, title VI, §602(b)(2), 111 Stat. 1772.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 379; Pub. L. 87–649, §5(c), Sept. 7, 1962, 76 Stat. 494; Pub. L. 105–85, div. A, title VI, §602(b)(2), Nov. 18, 1997, 111 Stat. 1772.)
 
 Historical and Revision Notes
 
@@ -28,7 +28,7 @@ Aug. 2, 1946, ch. 756, §17(a) (1st 2 sentences), 60 Stat. 855.
 
 Aug. 2, 1946, ch. 756, §40(b), 60 Stat. 858.
 
-So much of 34 U.S.C. 901a as authorizes a commuted ration for enlisted members of the naval service under conditions and at rates prescribed by the Secretary of the Navy is superseded by §301 of the Career Compensation Act of 1949 (37 U.S.C. 251). That section established a basic allowance for subsistence for enlisted members entitled to basic pay who are not subsisting at Government expense and prescribes the conditions under which the basic allowance for subsistence shall be paid and the amount of the allowance. Pursuant to Executive Order No. 10119, March 30, 1950, 15 F.R. 1757, the Secretary of Defense is authorized to make supplemental regulations to carry out the provisions of §301. The words “or to a per diem in place of subsistence” are inserted to reflect the subsistence allowance authorized by §303(a) of the Career Compensation Act of 1949 (37 U.S.C. 253a) to members in travel status.
+So much of 34 U.S.C. 901a as authorizes a commuted ration for enlisted members of the naval service underconditions and at rates prescribed by the Secretary of the Navy is superseded by §301 of the Career Compensation Act of 1949 (37 U.S.C. 251). That section established a basic allowance for subsistence for enlisted members entitled to basic pay who are not subsisting at Government expense and prescribes the conditions under which the basic allowance for subsistence shall be paid and the amount of the allowance. Pursuant to Executive Order No. 10119, March 30, 1950, 15 F.R. 1757, the Secretary of Defense is authorized to make supplemental regulations to carry out the provisions of §301. The words “or to a per diem in place of subsistence” are inserted to reflect the subsistence allowance authorized by §303(a) of the Career Compensation Act of 1949 (37 U.S.C. 253a) to members in travel status.
 
 In subsection (a) reference to the Coast and Geodetic Survey is omitted since there are no enlisted personnel in that service, and reference to the Coast Guard is omitted as covered by 14 U.S.C. 478.
 

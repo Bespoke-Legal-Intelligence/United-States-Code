@@ -4,11 +4,11 @@
 
 The Secretary shall provide—
 
-&emsp;(1) for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe;
+&emsp;(1)(A) for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or
 
-&emsp;(2) for the tribally designated housing entity for the tribe to submit the plan as provided in subsection (d) of this section for the tribe; and
+&emsp;(B) for the tribally designated housing entity for the tribe to submit the plan as provided in subsection (d) of this section for the tribe; and
 
-&emsp;(3) for the review of such plans.
+&emsp;(2) for the review of such plans.
 
 #### (b) 5-year plan
 
@@ -120,13 +120,17 @@ A plan under this section may cover more than 1 Indian tribe, but only if the ce
 
 The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title.
 
-(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023.)
+(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657.)
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsecs. (c)(4)(D) and (f)(2), is act Sept. 1, 1937, ch. 896,as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsecs. (c)(4)(D) and (f)(2), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (c)(5)(A), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title II of the Act is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (c)(5)(A), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title II of the Act is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 3601 of Title 42 and Tables.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–276 redesignated par. (1) as (1)(A), par. (2) as (1)(B), and par. (3) as (2), and inserted “or” at end of par. (1)(A).
 
 #### Effective Date
 
@@ -134,5 +138,5 @@ Section effective on the date provided by the Secretary of Housing and Urban Dev
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4103, 4111, 4113 of this title; title 12 section 1715z–13a.
+This section is referred to in sections 4103, 4111, 4113 of this title.
 

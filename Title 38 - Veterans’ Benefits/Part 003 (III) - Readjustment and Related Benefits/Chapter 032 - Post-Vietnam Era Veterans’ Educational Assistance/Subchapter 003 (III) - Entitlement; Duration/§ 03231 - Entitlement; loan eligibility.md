@@ -2,7 +2,7 @@
 
 (a)(1) Subject to the provisions of section 3695 of this title limiting the aggregate period for which any person may receive assistance under two or more programs of educational or vocational assistance administered by the Department of Veterans Affairs, a participant shall be entitled to a maximum of 36 monthly benefit payments (or their equivalent in the event of part-time benefits).
 
-(2) Except as provided in paragraph (5)(E) of this subsection and in subsection (f) <sup>1</sup> of this section and section 3233 of this title and subject to section 3241 of this title, the amount of the monthly payment to which any eligible veteran is entitled shall be ascertained by (A) adding all contributions made to the fund by the eligible veteran, (B) multiplying the sum by 3, (C) adding all contributions made to the fund for such veteran by the Secretary of Defense, and (D) dividing the sum by the lesser of 36 or the number of months in which contributions were made by such veteran.
+(2) Except as provided in paragraph (5)(E) of this subsection and in subsection (e) of this section and section 3233 of this title and subject to section 3241 of this title, the amount of the monthly payment to which any eligible veteran is entitled shall be ascertained by (A) adding all contributions made to the fund by the eligible veteran, (B) multiplying the sum by 3, (C) adding all contributions made to the fund for such veteran by the Secretary of Defense, and (D) dividing the sum by the lesser of 36 or the number of months in which contributions were made by such veteran.
 
 (3) Payment of benefits under this chapter may be made only for periods of time during which an eligible veteran is actually enrolled in and pursuing an approved program of education and, except as provided in paragraph (4), only after an eligible veteran has been discharged or released from active duty.
 
@@ -42,7 +42,7 @@
 
 (2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
-(e)(1) Subject to subsection (a)(1) of this section, each individual who is pursuing a program of education consisting exclusively of flighttraining approved as meeting the requirements of section 3241(b) of this title shall be paid educational assistance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
+(e)(1) Subject to subsection (a)(1) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3241(b) of this title shall be paid educational assistance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
 (2) No payment may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
@@ -50,15 +50,15 @@
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### References in Text
-
-Subsection (f) of this section, referred to in subsec. (a)(2), was redesignated subsec. (e) of this section by Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327.
 
 Sections 672, 673, and 673b of title 10, referred to in subsec. (a)(5)(B)(i), were renumbered sections 12301, 12302, and 12304, respectively, of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992. A new section 672 of Title 10 was enacted by section 1662(e)(4) of Pub. L. 103–337.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–368 substituted “subsection (e)” for “subsection (f)”.
 
 1996—Subsecs. (d) to (f). Pub. L. 104–275 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows:
 

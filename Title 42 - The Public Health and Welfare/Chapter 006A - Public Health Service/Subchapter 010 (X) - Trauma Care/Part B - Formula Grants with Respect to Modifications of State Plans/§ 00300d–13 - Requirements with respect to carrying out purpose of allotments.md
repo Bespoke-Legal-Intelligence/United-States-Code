@@ -30,19 +30,19 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;&emsp;(C) to identify the nature and severity of the injury;
 
-&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designated trauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
+&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designatedtrauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
 
 &emsp;&emsp;(E) to identify the total amount of uncompensated trauma care expenditures for each fiscal year by each designated trauma center in the State; and
 
 &emsp;&emsp;(F) to identify patients transferred within a regional trauma system, including reasons for such transfer;
 
-&emsp;(8) provides for for <sup>1</sup> the use of procedures by paramedics and emergency medical technicians to assess the severity of the injuries incurred by trauma patients;
+&emsp;(8) provides for the use of procedures by paramedics and emergency medical technicians to assess the severity of the injuries incurred by trauma patients;
 
 &emsp;(9) provides for appropriate transportation and transfer policies to ensure the delivery of patients to designated trauma centers and other facilities within and outside of the jurisdiction of such system, including policies to ensure that only individuals appropriately identified as trauma patients are transferred to designated trauma centers, and provides for periodic reviews of the transfers and the auditing of such transfers that are determined to be appropriate;
 
 &emsp;(10) conducts public education activities concerning injury prevention and obtaining access to trauma care; and
 
-&emsp;(11) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State andany other State with which the State shares any standard metropolitan statistical area.
+&emsp;(11) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State and any other State with which the State shares any standard metropolitan statistical area.
 
 #### (b) Certain standards with respect to trauma care centers and systems
 
@@ -88,9 +88,11 @@ Not later than 1 year after November 16, 1990, the Secretary shall develop a mod
 
 With respect to compliance with subsection (a) of this section as a condition of the receipt of a grant under section 300d–11(a) of this title, such subsection may not be construed to specify the number of trauma care centers designated pursuant to such subsection.
 
-(July 1, 1944, ch. 373, title XII, §1213, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2920; amended Dec. 14, 1993, Pub. L. 103–183, title VI, §601(f)(3), 107 Stat. 2239.)
+(July 1, 1944, ch. 373, title XII, §1213, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2920; amended Pub. L. 103–183, title VI, §601(f)(3), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §401(b)(4), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Amendments
+
+1998—Subsec. (a)(8). Pub. L. 105–392 substituted “provides for” for “provides for for”.
 
 1993—Subsec. (a)(4). Pub. L. 103–183, §601(f)(3)(A), substituted “section 1395dd of this title)” for “section 1395dd of this title”.
 
@@ -98,9 +100,11 @@ Subsec. (a)(8), (9). Pub. L. 103–183, §601(f)(3)(B), substituted “provides 
 
 Subsec. (a)(10). Pub. L. 103–183, §601(f)(3)(C), substituted “conducts” for “to conduct”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183,see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300d–11, 300d–14, 300d–31, 300d–41, 300w–3 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

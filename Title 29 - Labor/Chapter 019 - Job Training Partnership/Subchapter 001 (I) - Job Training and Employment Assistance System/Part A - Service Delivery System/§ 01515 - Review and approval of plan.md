@@ -56,6 +56,10 @@ In any case in which the service delivery area is a State, the plan (or modifica
 
 (Pub. L. 97–300, title I, §105, Oct. 13, 1982, 96 Stat. 1332; Pub. L. 102–367, title I, §114, Sept. 7, 1992, 106 Stat. 1030.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a)(1)(B)(ii). Pub. L. 102–367, §114(1), inserted “community-based organizations and” after “appropriate”.

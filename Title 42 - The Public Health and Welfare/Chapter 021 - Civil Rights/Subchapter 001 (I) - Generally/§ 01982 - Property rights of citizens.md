@@ -48,7 +48,7 @@ Sec. 102. I hereby direct the Department of Housing and Urban Development and al
 
 Sec. 201. Each executive department and agency subject to this order is directed to submit to the President's Committee on Equal Opportunity in Housing established pursuant to Part IV of this order (hereinafter sometimes referred to as the Committee), within thirty days from the date of this order, a report outlining all current programs administered by it which are affected by this order.
 
-Sec. 202. Each such department and agency shall be primarily responsible for obtaining compliance withthe purposes of this order as the order applies to programs administered by it; and is directed to cooperate with the Committee, to furnish it, in accordance with law, such information and assistance as it may request in the performance of its functions, and to report to it at such intervals as the Committee may require.
+Sec. 202. Each such department and agency shall be primarily responsible for obtaining compliance with the purposes of this order as the order applies to programs administered by it; and is directed to cooperate with the Committee, to furnish it, in accordance with law, such information and assistance as it may request in the performance of its functions, and to report to it at such intervals as the Committee may require.
 
 Sec. 203. Each such department and agency shall, within thirty days from the date of this order, issue such rules and regulations, adopt such procedures and policies, and make such exemptions and exceptions as may be consistent with law and necessary or appropriate to effectuate the purposes of this order. Each such department and agency shall consult with the Committee in order to achieve such consistency and uniformity as may be feasible.
 

@@ -32,7 +32,7 @@
 | (k) | Land acquisition. |
 | (<i>l</i>) | Collection and dissemination of scientific knowledge on effects and control of pesticides in water. |
 | (m) | Waste oil disposal study. |
-| (n) | Comprehensive studies of effects of pollution on estuaries and estuarine zones; reports. |
+| (n) | Comprehensive studies of effects of pollution on estuaries and estuarine zones. |
 | (<i>o</i>) | Methods of reducing total flow of sewage and unnecessary water consumption; reports. |
 | (p) | Agricultural pollution. |
 | (q) | Sewage in rural areas; national clearinghouse for alternative treatment information; clearinghouse on small flows. |
@@ -403,8 +403,7 @@
 | (j) | Authorization of appropriations. |
 | (k) | Consistency of other programs and projects with management programs. |
 | (<i>l</i>) | Collection of information. |
-| (m) | Reports of Administrator. |
-| (n) | Set aside for administrative personnel. |
+| (m) | Set aside for administrative personnel. |
 | [1330\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001330%20-%20National%20estuary%20program.md) | National estuary program. |
 | (a) | Management conference. |
 | (b) | Purposes of conference. |
@@ -542,12 +541,7 @@
 | (c) | Secretary; legal counsel; compensation. |
 | (d) | Quorum; special panel. |
 | (e) | Rules. |
-| [1375\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001375%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| (a) | Implementation of chapter objectives; status and progress of programs. |
-| (b) | Detailed estimates and comprehensive study on costs; State estimates, survey form. |
-| (c) | Status of combined sewer overflows in municipal treatment works operations. |
-| (d) | Legislative recommendations on program requiring coordination between water supply and wastewater control plans as condition for construction grants; public hearing. |
-| (e) | State revolving fund report. |
+| [1375\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001375%20-%20Reports%20to%20Congress%3B%20detailed%20estimates%20and%20comprehensive%20study%20on%20costs%3B%20State%20estimates.md) | Reports to Congress; detailed estimates and comprehensive study on costs; State estimates. |
 | [1376\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001376%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1377\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001377%20-%20Indian%20tribes.md) | Indian tribes. |
 | (a) | Policy. |
@@ -601,7 +595,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 59n–1, 1272, 1293a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 471i, 1456, 3830, 4711; title 18 section 1956; title 23 section 135; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 App. sections 212, 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9603, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
+This chapter is referred to in sections 59n–1, 1272, 1293a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 26 section 169; title 30 sections 201, 1242,1251, 1253, 1292, 1303, 1419; title 40 App. sections 212, 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9603, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
 
 
 ---

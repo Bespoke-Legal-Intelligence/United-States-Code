@@ -28,11 +28,11 @@ Each grant awarded pursuant to subsection (b) of this section shall be used to p
 
 #### (d) Cost sharing
 
-The amount of a grant awarded pursuant to this section shall not exceed 50 percent of the costs of carrying out the project that is the subject of the grant.
+The amount of a grant awarded pursuant to this section shall not exceed 50 percent of thecosts of carrying out the project that is the subject of the grant.
 
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1997 through 1999.
 
-(July 1, 1944, ch. 373, title XIV, §1456, as added Aug. 6, 1996, Pub. L. 104–182, title I, §135, 110 Stat. 1679.)
+(July 1, 1944, ch. 373, title XIV, §1456, as added Pub. L. 104–182, title I, §135, Aug. 6, 1996, 110 Stat. 1679.)
 

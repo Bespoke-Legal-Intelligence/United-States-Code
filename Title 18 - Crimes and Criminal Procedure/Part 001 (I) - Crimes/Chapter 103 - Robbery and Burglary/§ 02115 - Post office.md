@@ -2,7 +2,7 @@
 
 Whoever forcibly breaks into or attempts to break into any post office, or any building used in whole or in part as a post office, with intent to commit in such post office, or building or part thereof, so used, any larceny or other depredation, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 797; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 797; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

@@ -1,6 +1,10 @@
 ### §276a–2. Conference of the Interparliamentary Union and all other parliamentary conferences; appointment of delegates from Senate; Chairman; Vice Chairman
 
-Senate delegates to each conference of the Interparliamentary Union, and to all other parliamentary conferences, shall be designated by the President of the Senate upon recommendations of the majority and minority leaders of the Senate. Unless the President of the Senate, upon the recommendation of the majority leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation shall be aMember from the Foreign Relations Committee. Not fewer than two Senators designated to be in the Senate delegation to each conference of the Interparliamentary Union shall be members of the Committee on Foreign Relations.
+Senate delegates to each conference of the Interparliamentary Union, and to all other parliamentary conferences, shall be designated by the President of the Senate upon recommendations of the majority and minority leaders of the Senate. Unless the President of the Senate, upon the recommendation of the majority leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation shall be a Member from the Foreign Relations Committee. Not fewer than two Senators designated to be in the Senate delegation to each conference of the Interparliamentary Union shall be members of the Committee on Foreign Relations.
 
 (June 28, 1935, ch. 322, §4, as added Pub. L. 95–45, §4(d)(3), June 15, 1977, 91 Stat. 223.)
+
+#### Conditional Repeal of Section
+
+<i>For repeal of section effective Oct. 1, 1999, unless Congress receives before that date a specific certification by Secretary of State regarding contribution of United States to Bureau of Interparliamentary Union during fiscal year 1999, see section 2503(d) of Pub. L. 105–277, set out as a Conditional Termination of Authority note under section 276 of this title.</i>
 

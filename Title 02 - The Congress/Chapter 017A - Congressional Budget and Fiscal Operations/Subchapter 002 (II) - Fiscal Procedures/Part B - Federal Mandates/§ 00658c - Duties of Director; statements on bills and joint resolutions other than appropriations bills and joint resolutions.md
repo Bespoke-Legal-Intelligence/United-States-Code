@@ -28,7 +28,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (1) Contents
 
-&emsp;If the Director estimates that the direct cost of all Federal private sector mandates in the bill or joint resolution will equal or exceed $100,000,000 (adjusted annually for inflation) in the fiscal year in which any Federal private sector mandate in the bill or joint resolution (or in any necessary implementing regulation) would first be effective or in any of the 4 fiscal years following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
+&emsp;If the Director estimates that the direct cost of all Federal private sector mandates in the bill or joint resolution will equal or exceed $100,000,000 (adjusted annually for inflation) in the fiscal year in which any Federal private sector mandate in the bill or joint resolution (or in any necessary implementing regulation) would first be effective or in any of the 4 fiscalyears following such fiscal year, the Director shall so state, specify the estimate, and briefly explain the basis of the estimate.
 
 #### (2) Estimates
 

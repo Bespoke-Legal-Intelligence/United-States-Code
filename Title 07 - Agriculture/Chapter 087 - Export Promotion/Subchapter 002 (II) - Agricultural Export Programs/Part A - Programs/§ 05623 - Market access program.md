@@ -186,7 +186,7 @@ Independent audits.—If as a result of an evaluation or audit of activities of 
 
 &emsp;“(3)
 
-Tobacco.—No funds made available under the market access program may be used for activities to develop, maintain, or expand foreign markets for tobacco.
+Tobacco.—No funds made available under the market access program may be used for activities todevelop, maintain, or expand foreign markets for tobacco.
 
 “(c)
 

@@ -12,7 +12,7 @@ This section does not affect the authority of any institution of the Farm Credit
 
 &emsp;(2) to cancel borrower stock at par value under section 2202b of this title; or
 
-&emsp;(3) to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2) of this section, the parvalue of borrower stock frozen in such liquidation.
+&emsp;(3) to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2) of this section, the par value of borrower stock frozen in such liquidation.
 
 #### (c) Inability to retire stock at par value
 
@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### Prior Provisions
 
-A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for Farm Credit System, was classified to section 2161 of this title and was repealed by Pub. L. 100–399, §101(a).
+A prior section 4.9A of Pub. L. 92–181, which authorized a central reserve for Farm Credit System, wasclassified to section 2161 of this title and was repealed by Pub. L. 100–399, §101(a).
 
 #### Amendments
 

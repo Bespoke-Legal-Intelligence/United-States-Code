@@ -465,6 +465,10 @@ Office and review board; creation; functions.
 
 Disciplinary records; disclosure.
 
+(i)
+
+Drug and alcohol violation disclosures.
+
 |  |  |
 | :--- | ---: |
 | [1232h.](Subchapter%20003%20%28III%29%20-%20General%20Requirements%20and%20Conditions%20Concerning%20Operation%20and%20Administration%20of%20Education%20Programs%20General%20Authority%20of%E2%80%A6/Part%20004%20-%20Records%3B%20Privacy%3B%20Limitation%20on%20Withholding%20Federal%20Funds/%C2%A7%2001232h%20-%20Protection%20of%20pupil%20rights.md) | Protection of pupil rights. |
@@ -508,6 +512,20 @@ Noncompliance with nondiscrimination provisions of Federal law.
 (c)
 
 Failure to comply with imposition of quotas.
+
+|  |  |
+| :--- | ---: |
+| [1232j.](Subchapter%20003%20%28III%29%20-%20General%20Requirements%20and%20Conditions%20Concerning%20Operation%20and%20Administration%20of%20Education%20Programs%20General%20Authority%20of%E2%80%A6/Part%20004%20-%20Records%3B%20Privacy%3B%20Limitation%20on%20Withholding%20Federal%20Funds/%C2%A7%2001232j%20-%20Prohibition%20on%20federally%20sponsored%20testing.md) | Prohibition on federally sponsored testing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+General prohibition.
+
+(b)
+
+Exceptions.
 
 #### SUBCHAPTER IV—ENFORCEMENT
 

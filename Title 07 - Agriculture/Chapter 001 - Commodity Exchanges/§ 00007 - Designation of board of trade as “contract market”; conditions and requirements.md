@@ -18,7 +18,7 @@ The Commission is hereby authorized and directed to designate any board of trade
 
 &emsp;(8) When such board of trade demonstrates that every contract market for which such board of trade is designated complies with the requirements of section 7a(b) of this title.
 
-(Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491, 1497; Feb. 19, 1968, Pub. L. 90–258, §§10, 11, 82 Stat. 29; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, 88 Stat. 1392, 1400; Oct. 28, 1992, Pub. L. 102–546, title II, §§201(c), 209(b)(2), 106 Stat. 3597, 3606.)
+(Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491, 1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606.)
 
 #### References in Text
 
@@ -66,5 +66,5 @@ Showing of noncompliance with conditions and requirements of this section as aut
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2, 6, 8, 13a of this title; title 15 section 78c.
+This section is referred to in sections 2, 6, 8, 13a of this title; title 15 section 78c; title 26 section 408.
 

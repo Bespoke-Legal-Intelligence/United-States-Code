@@ -22,7 +22,7 @@
 
 #### (4) Additional stations
 
-&emsp;Subject to paragraph (5), not later than October 31, 2000, the Attorney General, in consultation with the Secretary of State, shall establish preinspection stations in at least 5 additional foreign airports which the Attorney General, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively reduce the number of aliens who arrive from abroad by air at points of entry within the United States who are inadmissible to the United States. Such preinspection stations shall be in addition to those established prior to September 30, 1996, or pursuant to paragraph (1).
+&emsp;Subject to paragraph (5), not later than October 31, 2000, the Attorney General, in consultation with the Secretary of State, shall establish preinspection stations in at least 5 additional foreign airports which the Attorney General, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively reduce the number of aliens who arrive from abroad by air at points of entry withinthe United States who are inadmissible to the United States. Such preinspection stations shall be in addition to those established prior to September 30, 1996, or pursuant to paragraph (1).
 
 #### (5) Conditions
 
@@ -38,7 +38,7 @@
 
 The Attorney General shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3) of this section, served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §235A, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title I, §123(a), 110 Stat. 3009–560.)
+(June 27, 1952, ch. 477, title II, ch. 4, §235A, as added Pub. L. 104–208, div. C, title I, §123(a), Sept. 30, 1996, 110 Stat. 3009–560.)
 
 #### Codification
 

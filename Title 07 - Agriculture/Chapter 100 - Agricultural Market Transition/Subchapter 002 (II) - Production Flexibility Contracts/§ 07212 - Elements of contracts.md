@@ -18,7 +18,7 @@
 
 #### (B) Amount
 
-&emsp;&emsp;Contract payments made for contract acreage under this paragraph shall be made at the rate and amount applicable to the annual contract payment level for the applicable crop. For the fiscal year in which the conservation reserve contract is terminated, the owner or producer subject to the production flexibility contract may elect to receiveeither contract payments or a prorated payment under the conservation reserve contract, but not both.
+&emsp;&emsp;Contract payments made for contract acreage under this paragraph shall be made at the rate and amount applicable to the annual contract payment level for the applicable crop. For the fiscal year in which the conservation reserve contract is terminated, the owner or producer subject to the production flexibility contract may elect to receive either contract payments or a prorated payment under the conservation reserve contract, but not both.
 
 #### (b) Duration of contract
 
@@ -54,7 +54,27 @@ At the time the Secretary enters into a contract, the Secretary shall provide an
 
 &emsp;&emsp;At the option of the owner or producer for fiscal year 1997 and each subsequent fiscal year, 50 percent of the annual contract payment shall be made on December 15 or January 15 of the fiscal year. The owner or producer may change the date selected under this subparagraph for a subsequent fiscal year by providing advance notice to the Secretary.
 
-(Pub. L. 104–127, title I, §112, Apr. 4, 1996, 110 Stat. 899.)
+#### (3) Special rule for fiscal year 1999
+
+&emsp;Notwithstanding the requirements for making an annual contract payment specified in paragraphs (1) and (2), at the option of the owner or producer, the Secretary shall pay the full amount (or such portion as the owner or producer may specify) of the contract payment required to be paid for fiscal year 1999 at such time or times during that fiscal year as the owner or producer may specify.
+
+(Pub. L. 104–127, title I, §112, Apr. 4, 1996, 110 Stat. 899; Pub. L. 105–228, §2, Aug. 12, 1998, 112 Stat. 1516.)
+
+#### Amendments
+
+1998—Subsec. (d)(3). Pub. L. 105–228 added par. (3).
+
+#### Production Flexibility Contract Payments
+
+Pub. L. 105–277, div. J, title II, §2012, Oct. 21, 1998, 112 Stat. 2681–902, provided that:
+
+“(a)
+
+In General.—The options under paragraphs (2) and (3) of section 112(d) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7212(d)(2) and (3)), as in effect on the date of the enactment of this Act \[Oct. 21, 1998\], shall be disregarded in determining the taxable year for which any payment under a production flexibility contract under subtitle B of title I of such Act \[7 U.S.C. 7211 et seq.\] (as so in effect) is properly includible in gross income for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\].
+
+“(b)
+
+Effective Date.—Subsection (a) shall apply to taxable years ending after December 31, 1995.”
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ An individual shall be considered to have begun serving a period of obligated se
 
 &emsp;(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4) of this section, or
 
-&emsp;(2) in the case of an individual who has entered into an agreement with the Secretaryunder section 254n of this title, on the date specified in such agreement,
+&emsp;(2) in the case of an individual who has entered into an agreement with the Secretary under section 254n of this title, on the date specified in such agreement,
 
 > whichever is earlier.
 
@@ -60,7 +60,7 @@ The Secretary shall assign individuals performing obligated service in accordanc
 
 Notwithstanding any other provision of this subchapter, service of an individual under a National Research Service Award awarded under subparagraph (A) or (B) of section 288(a)(1) <sup>1</sup> of this title shall be counted against the period of obligated service which the individual is required to perform under the Scholarship Program or under section 234 <sup>2</sup> of this title as in effect on September 30, 1977.
 
-(July 1, 1944, ch. 373, title III, §338C, formerly title VII, §752, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2284; amended Nov. 10, 1978, Pub. L. 95–626, title I, §113(b), 92 Stat. 3563; Sept. 29, 1979, Pub. L. 96–76, title II, §202(a), (b), 93 Stat. 582; renumbered §338B and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), (c), 95 Stat. 908, 909; Jan. 4, 1983, Pub. L. 97–414, §8(g)(1), 96 Stat. 2061; renumbered §338C and amended Dec. 1, 1987, Pub. L. 100–177, title II, §201(2), title III, §306, 101 Stat. 992, 1004; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035.)
+(July 1, 1944, ch. 373, title III, §338C, formerly title VII, §752, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582; renumbered §338B and amended Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909; Pub. L. 97–414, §8(g)(1), Jan. 4, 1983, 96 Stat. 2061; renumbered §338C and amended Pub. L. 100–177, title II, §201(2), title III, §306, Dec. 1, 1987, 101 Stat. 992, 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035.)
 
 #### References in Text
 
@@ -110,7 +110,7 @@ Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted “referred to in s
 
 #### Effective Date of 1981 Amendment
 
-Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the NationalHealth Service Corps who is not an employee of the United States.”
+Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) ofsubsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
 
 #### Effective Date
 
@@ -134,7 +134,7 @@ Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 17
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 210, 242a, 254n, 254<i>o</i>, 254q, 288–2, 288–5, 293b of this title; title 25 sections 1613a, 1616e, 1621p.
+This section is referred to in sections 210, 242a, 254n, 254<i>o</i>, 254q, 288–2, 288–5, 293b, 11709 of this title; title 25 sections 1613a, 1616e, 1621p.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

@@ -1,0 +1,172 @@
+### §2916. Demonstration, pilot, multiservice, research, and multistate projects
+
+#### (a) Strategic plan
+
+#### (1) In general
+
+&emsp;After consultation with States, localities, and other interested parties, the Secretary shall, every 2 years, publish in the Federal Register, a plan that describes the demonstration and pilot (including dislocated worker demonstration and pilot), multiservice, research, and multistate project priorities of the Department of Labor concerning employment and training for the 5-year period following the submission of the plan. Copies of the plan shall be transmitted to the appropriate committees of Congress.
+
+#### (2) Factors
+
+&emsp;The plan published under paragraph (1) shall contain strategies to address national employment and training problems and take into account factors such as—
+
+&emsp;&emsp;(A) the availability of existing research (as of the date of the publication);
+
+&emsp;&emsp;(B) the need to ensure results that have interstate validity;
+
+&emsp;&emsp;(C) the benefits of economies of scale and the efficiency of proposed projects; and
+
+&emsp;&emsp;(D) the likelihood that the results of the projects will be useful to policymakers and stakeholders in addressing employment and training problems.
+
+#### (b) Demonstration and pilot projects
+
+#### (1) In general
+
+&emsp;Under a plan published under subsection (a) of this section, the Secretary shall, through grants or contracts, carry out demonstration and pilot projects for the purpose of developing and implementing techniques and approaches, and demonstrating the effectiveness of specialized methods, in addressing employment and training needs. Such projects shall include the provision of direct services to individuals to enhance employment opportunities and an evaluation component and may include—
+
+&emsp;&emsp;(A) the establishment of advanced manufacturing technology skill centers developed through local partnerships of industry, labor, education, community-based organizations, and economic development organizations to meet unmet, high-tech skill needs of local communities;
+
+&emsp;&emsp;(B) projects that provide training to upgrade the skills of employed workers who reside and are employed in enterprise communities or empowerment zones;
+
+&emsp;&emsp;(C) programs conducted jointly with the Department of Defense to develop training programs utilizing computer-based and other innovative learning technologies;
+
+&emsp;&emsp;(D) projects that promote the use of distance learning, enabling students to take courses through the use of media technology such as videos, teleconferencing computers, and the Internet;
+
+&emsp;&emsp;(E) projects that assist in providing comprehensive services to increase the employment rates of out-of-school youth residing in targeted high poverty areas within empowerment zones and enterprise communities;
+
+&emsp;&emsp;(F) the establishment of partnerships with national organizations with special expertise in developing, organizing, and administering employment and training services, for individuals with disabilities, at the national, State, and local levels;
+
+&emsp;&emsp;(G) projects to assist public housing authorities that provide, to public housing residents, job training programs that demonstrate success in upgrading the job skills and promoting employment of the residents; and
+
+&emsp;&emsp;(H) projects that assist local areas to develop and implement local self-sufficiency standards to evaluate the degree to which participants in programs under this chapter are achieving self-sufficiency.
+
+#### (2) Limitations
+
+#### (A) Competitive awards
+
+&emsp;&emsp;Grants or contracts awarded for carrying out demonstration and pilot projects under this subsection shall be awarded in accordance with generally applicable Federal requirements.
+
+#### (B) Eligible entities
+
+&emsp;&emsp;Grants or contracts may be awarded under this subsection only to—
+
+&emsp;&emsp;&emsp;(i) entities with recognized expertise in—
+
+&emsp;&emsp;&emsp;&emsp;(I) conducting national demonstration projects;
+
+&emsp;&emsp;&emsp;&emsp;(II) utilizing state-of-the-art demonstration methods; or
+
+&emsp;&emsp;&emsp;&emsp;(III) conducting evaluations of workforce investment projects; or
+
+&emsp;&emsp;&emsp;(ii) State and local entities with expertise in operating or overseeing workforce investment programs.
+
+#### (C) Time limits
+
+&emsp;&emsp;The Secretary shall establish appropriate time limits for carrying out demonstration and pilot projects under this subsection.
+
+#### (c) Multiservice projects, research projects, and multistate projects
+
+#### (1) Multiservice projects
+
+&emsp;Under a plan published under subsection (a) of this section, the Secretary shall, through grants or contracts, carry out multiservice projects—
+
+&emsp;&emsp;(A) that will test an array of approaches to the provision of employment and training services to a variety of targeted populations;
+
+&emsp;&emsp;(B) in which the entity carrying out the project, in conjunction with employers, organized labor, and other groups such as the disability community, will design, develop, and test various training approaches in order to determine effective practices; and
+
+&emsp;&emsp;(C) that will assist in the development and replication of effective service delivery strategies for targeted populations for the national employment and training system as a whole.
+
+#### (2) Research projects
+
+#### (A) In general
+
+&emsp;&emsp;Under a plan published under subsection (a) of this section, the Secretary shall,through grants or contracts, carry out research projects that will contribute to the solution of employment and training problems in the United States.
+
+#### (B) Formula improvement study and report
+
+#### (i) Study
+
+&emsp;&emsp;&emsp;The Secretary shall conduct a 2-year study concerning improvements in the formulas described in section 2862(b)(1)(B) of this title and paragraphs (2)(A) and (3) of section 2863(b) of this title (regarding distributing funds under subchapter II of this chapter to States and local areas for adult employment and training activities). In conducting the study, the Secretary shall examine means of improving the formulas by—
+
+&emsp;&emsp;&emsp;&emsp;(I) developing formulas based on statistically reliable data;
+
+&emsp;&emsp;&emsp;&emsp;(II) developing formulas that are consistent with the goals and objectives of this chapter; and
+
+&emsp;&emsp;&emsp;&emsp;(III) developing formulas based on organizational and financial stability of State boards and local boards.
+
+#### (ii) Report
+
+&emsp;&emsp;&emsp;The Secretary shall prepare and submit to Congress a report containing the results of the study, including recommendations for improved formulas.
+
+#### (3) Multistate projects
+
+#### (A) In general
+
+#### (i) Authority
+
+&emsp;&emsp;&emsp;Under a plan published under subsection (a) of this section, the Secretary may, through grants or contracts, carry out multistate projects that require demonstrated expertise that is available at the national level to effectively disseminate best practices and models for implementing employment and training services, address the specialized employment and training needs of particular service populations, or address industry-wide skill shortages.
+
+#### (ii) Design of grants
+
+&emsp;&emsp;&emsp;Grants or contracts awarded under this subsection shall be designed to obtain information relating to the provision of services under different economic conditions or to various demographic groups in order to provide guidance at the national and State levels about how best to administer specific employment and training services.
+
+#### (4) Limitations
+
+#### (A) Competitive awards
+
+&emsp;&emsp;Grants or contracts awarded for carrying out projects under this subsection in amounts that exceed $100,000 shall be awarded only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a substantial portion of assistance under the grant or contract for the project.
+
+#### (B) Time limits
+
+&emsp;&emsp;A grant or contract shall not be awarded under this subsection to the same organization for more than 3 consecutive years unless such grant or contract is competitively reevaluated within such period.
+
+#### (C) Peer review
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall utilize a peer review process—
+
+&emsp;&emsp;&emsp;&emsp;(I) to review and evaluate all applications for grants in amounts that exceed $500,000 that are submitted under this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to review and designate exemplary and promising programs under this section.
+
+#### (ii) Availability of funds
+
+&emsp;&emsp;&emsp;The Secretary is authorized to use funds provided under this section to carry out peer review activities under this subparagraph.
+
+#### (D) Priority
+
+&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
+
+#### (d) Dislocated worker projects
+
+Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
+
+(Pub. L. 105–220, title I, §171, Aug. 7, 1998, 112 Stat. 1031; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+
+#### Amendments
+
+1998—Subsec. (b)(2)(A). Pub. L. 105–277, which directed the amendment of subsec. (b)(2) of this section by substituting “in accordance with generally applicable Federal requirements.” for “ ‘only on a competitive’ and all that follows through the period”, was executed to subsec. (b)(2)(A) by making the substitution for “only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a portion of the funding for the project.”, to reflect the probable intent of Congress.
+
+#### Demonstration Programs and Projects To Provide Technical Skills Training for Workers
+
+Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653, provided that:
+
+“(1)
+
+In general.—In establishing demonstration programs under section 452(c) of the Job Training Partnership Act (29 U.S.C. 1732(c)), as in effect on the date of the enactment of this Act \[Oct. 21, 1998\], or demonstration programs or projects under section 171(b) of the Workforce Investment Act of 1998 \[29 U.S.C. 2916(b)\], the Secretary of Labor shall use funds available under section 286(s)(2) \[probably means section 286(s)(2) of the Immigration and Nationality Act which is classified to section 1356(s)(2) of Title 8, Aliens and Nationality\] to establish demonstration programs or projects to provide technical skills training for workers, including both employed and unemployed workers.
+
+“(2)
+
+Grants.—The Secretary of Labor shall award grants to carry out the programs and projects described in paragraph (1) to—
+
+&emsp;“(A)(i) private industry councils established under section 102 of the Job Training Partnership Act (29 U.S.C. 1512), as in effect on the date of the enactment of this Act \[Oct. 21, 1998\]; or
+
+&emsp;“(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under section 121 of the Workforce Investment Act of 1998 \[29 U.S.C. 2841\]; or
+
+&emsp;“(B) regional consortia of councils or local boards described in subparagraph (A).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2862, 2917, 2919, 2939 of this title.
+

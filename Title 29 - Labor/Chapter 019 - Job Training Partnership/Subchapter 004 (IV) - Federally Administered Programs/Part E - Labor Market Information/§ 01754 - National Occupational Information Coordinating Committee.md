@@ -2,7 +2,7 @@
 
 #### (a) Authorization limit; membership; support of State occupational information coordinating committees
 
-(1) Of the amounts available for this part for each fiscal year, $6,000,000 is authorized to be reserved for the National Occupational Information Coordinating Committee (established pursuant to section 422 of the Carl D. Perkins Vocational Education Act \[20 U.S.C. 2422\]).
+(1) Of the amounts available for this part for each fiscal year, $6,000,000 is authorized to be reserved for the National Occupational Information Coordinating Committee (established pursuant to section 422 of the Carl D. Perkins Vocational Education Act).
 
 (2) In addition to the members required by such Act \[20 U.S.C. 2301 et seq.\], the Committee shall include the Assistant Secretary of Commerce for Economic Development and the Assistant Secretary of Defense <sup>1</sup> Force Management and Personnel.
 
@@ -28,13 +28,17 @@ In addition to its responsibilities under the Carl D. Perkins Vocational Educati
 
 #### (c) Funds available from other programs
 
-All funds available to the National Occupational Information Coordinating Committee under this chapter, under section 422 of the Carl D. Perkins Vocational Education Act \[20 U.S.C. 2422\], and under section 12 of the Career Education Act \[20 U.S.C. 2611\] <sup>3</sup> may be used by the Committee to carry out any of its functions and responsibilities authorized by law.
+All funds available to the National Occupational Information Coordinating Committee under this chapter, under section 422 of the Carl D. Perkins Vocational Education Act, and under section 12 of the Career Education Act \[20 U.S.C. 2611\] <sup>3</sup> may be used by the Committee to carry out any of its functions and responsibilities authorized by law.
 
 (Pub. L. 97–300, title IV, §464, Oct. 13, 1982, 96 Stat. 1385; Pub. L. 97–404, §4(e), Dec. 31, 1982, 96 Stat. 2027; Pub. L. 98–524, §4(a)(6)(B), (C), (E), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title IV, §405(c), Sept. 7, 1992, 106 Stat. 1085.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Carl D. Perkins Vocational Education Act, referred to in subsecs. (a)(1), (2) and (b), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, known as the Carl D. Perkins Vocational and Applied Technology Education Act, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational Education Act, referred to in subsecs. (a)(1), (2), (b), and (c), is Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, and amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998. Section 422 of the Carl D. Perkins Vocational Education Act was classified to section 2422 of Title 20 prior to the general amendment of Pub. L. 88–210 by Pub. L. 105–332. For additional details, see Codification note preceding section 2301 of Title 20.
 
 Section 12 of the Career Education Act \[20 U.S.C. 2611\], referred to in subsec. (c), was repealed by Pub. L. 97–35, title V, §587(a)(4), Aug. 13, 1981, 95 Stat. 480.
 
@@ -48,7 +52,7 @@ Subsec. (b)(2). Pub. L. 102–367, §405(c)(2)(A), inserted “career developmen
 
 Subsec. (b)(5). Pub. L. 102–367, §405(c)(2)(B), inserted “and coordination and compatibility of human resources data systems operated by Federal agencies or the States, including systems to assist economic development activities and, where appropriate, provide support to States in the implementation of such system improvements.” after “career information systems”.
 
-1984—Subsec. (a)(1). Pub. L. 98–524, §4(a)(6)(B), substituted “section 422 of the Carl D. Perkins Vocational Education Act” for “section 161(b) of the Vocational Education Act of 1963”.
+1984—Subsec. (a)(1). Pub. L. 98–524, §4(a)(6)(B), substituted “section 422 of the Carl D. Perkins VocationalEducation Act” for “section 161(b) of the Vocational Education Act of 1963”.
 
 Subsec. (b). Pub. L. 98–524, §4(a)(6)(E), substituted “the Carl D. Perkins Vocational Education Act” for “the Vocational Education Act of 1963”.
 

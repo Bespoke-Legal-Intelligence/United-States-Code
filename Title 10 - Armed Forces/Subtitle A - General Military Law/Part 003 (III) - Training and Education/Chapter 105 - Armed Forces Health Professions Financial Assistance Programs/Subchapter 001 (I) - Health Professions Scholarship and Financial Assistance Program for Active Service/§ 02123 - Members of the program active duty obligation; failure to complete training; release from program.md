@@ -20,7 +20,7 @@
 
 (3) The Secretary of Defense shall prescribe regulations describing the manner in which an alternative obligation may be given under this subsection.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b),Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, §741(a), Sept. 23, 1996, 110 Stat. 2599.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, §741(a), Sept. 23, 1996, 110 Stat. 2599.)
 
 #### Amendments
 

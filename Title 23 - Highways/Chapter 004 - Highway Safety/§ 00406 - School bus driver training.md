@@ -26,7 +26,3 @@
 
 Amendment Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 157 of this title.
-

@@ -42,7 +42,7 @@
 
 #### (B) OMB estimates and explanation of differences
 
-&emsp;&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+&emsp;&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays)after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
 
 #### (C) Assumptions and guidelines
 
@@ -56,7 +56,49 @@
 
 #### (1) Preview report
 
-&emsp;When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
+&emsp;(A)
+
+Concepts and definitions.—When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
+
+&emsp;(B)
+
+Adjustment to align highway spending with revenues.—(i) When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to the highway category for the budget year and each outyear as provided in clause (ii)(I)(cc).
+
+&emsp;(ii)(I)(aa) OMB shall take the actual level of highway receipts for the year before the current year and subtract the sum of the estimated level of highway receipts in subclause (II) plus any amount previously calculated under item (bb) for that year.
+
+&emsp;(bb) OMB shall take the current estimate of highway receipts for the budget year and subtract the estimated level of receipts for that year.
+
+&emsp;(cc) OMB shall take the sum of the amounts calculated under items (aa) and (bb), add that sum to the amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century for the highway category for the budget year, and calculate the outlay change resulting from that change in obligations relative to that amount for the budget year and each outyear using current estimates. After making the calculation under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year by adding the sum of the amounts calculated under items (aa) and (bb).
+
+&emsp;(II) The estimated level of highway receipts for the purposes of this clause are—
+
+&emsp;&emsp;(aa) for fiscal year 1998, $22,164,000,000;
+
+&emsp;&emsp;(bb) for fiscal year 1999, $32,619,000,000;
+
+&emsp;&emsp;(cc) for fiscal year 2000, $28,066,000,000;
+
+&emsp;&emsp;(dd) for fiscal year 2001, $28,506,000,000;
+
+&emsp;&emsp;(ee) for fiscal year 2002, $28,972,000,000; and
+
+&emsp;&emsp;(ff) for fiscal year 2003, $29,471,000,000.
+
+&emsp;(III) In this clause, the term “highway receipts” means the governmental receipts credited to the highway account of the Highway Trust Fund.
+
+&emsp;(C)(i) In addition to the adjustment required by subparagraph (B), when the President submits the budget under section 1105 of title 31 for fiscal years <sup>2</sup> 2000, 2001, 2002, or 2003, OMB shall calculate and the budget shall include for the budget year and each outyear an adjustment to the limits on outlays for the highway category and the mass transit category equal to—
+
+&emsp;&emsp;(I) the outlays for the applicable category calculated assuming obligation levels consistent with the estimates prepared pursuant to subparagraph (D), as adjusted, using current technical assumptions; minus
+
+&emsp;&emsp;(II) the outlays for the applicable category set forth in the subparagraph (D) estimates, as adjusted.
+
+&emsp;(ii) The adjustment made pursuant to clause (i) in the fiscal years 2002 and 2003 budget submissions of the President under section 1105(a) of title 31 shall not exceed 4 percent plus cumulative carryovers. In this clause, the term “cumulative carryovers” means the total of each amount by which outlays for the highway and mass transit category for any fiscal year are less than the outlay limit for that category, as adjusted, for that year less any amount of carryover used in the previous year.
+
+&emsp;(D)(i) When OMB and CBO submit their final sequester report for fiscal year 1999, that report shall include an estimate of the outlays for each of the categories that would result infiscal years 2000 through 2003 from obligations at the levels specified in section 8103 of the Transportation Equity Act for the 21st Century using current assumptions.
+
+&emsp;(ii) When the President submits the budget under section 1105 of title 31 for fiscal years <sup>2</sup> 2000, 2001, 2002, or 2003, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
+
+&emsp;(E) OMB shall consult with the Committees on the Budget and include a report on adjustments under subparagraphs (B) and (C) in the preview report.
 
 #### (2) Sequestration reports
 
@@ -68,7 +110,7 @@
 
 #### (B) Special outlay allowance
 
-&emsp;&emsp;If, in any fiscal year, outlays for a category exceed the discretionary spendinglimit for that category but new budget authority does not exceed its limit for that category (after application of the first step of a sequestration described in subsection (a)(2) of this section, if necessary), the adjustment in outlays for a fiscal year is the amount of the excess but not to exceed 0.5 percent of the sum of the adjusted discretionary spending limits on outlays for that fiscal year.
+&emsp;&emsp;If, in any fiscal year, outlays for a category exceed the discretionary spending limit for that category but new budget authority does not exceed its limit for that category (after application of the first step of a sequestration described in subsection (a)(2) of this section, if necessary), the adjustment in outlays for a fiscal year is the amount of the excess but not to exceed 0.5 percent of the sum of the adjusted discretionary spending limits on outlays for that fiscal year.
 
 #### (C) Continuing disability reviews
 
@@ -112,7 +154,7 @@
 
 #### (F) EITC compliance initiative
 
-&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year that includes an appropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed—
+&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year that includes anappropriation for an earned income tax credit compliance initiative, the adjustment shall be the amount of budget authority in that measure for that initiative and the outlays flowing in all fiscal years from that budget authority, but not to exceed—
 
 &emsp;&emsp;&emsp;(i) with respect to fiscal year 1998, $138,000,000 in new budget authority and $131,000,000 in outlays;
 
@@ -150,29 +192,57 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 &emsp;&emsp;(A) for the defense category: $271,500,000,000 in new budget authority and $266,518,000,000 in outlays;
 
-&emsp;&emsp;(B) for the nondefense category: $255,699,000,000 in new budget authority and $287,850,000,000 in outlays; and
+&emsp;&emsp;(B) for the nondefense category: $255,699,000,000 in new budget authority and $287,850,000,000 in outlays;
 
 &emsp;&emsp;(C) for the violent crime reduction category: $5,800,000,000 in new budget authority and $4,953,000,000 in outlays;
 
+&emsp;&emsp;(D) for the highway category: $21,885,000,000 in outlays; and
+
+&emsp;&emsp;(E) for the mass transit category: $4,401,000,000 in outlays;
+
 &emsp;(4) with respect to fiscal year 2000—
 
-&emsp;&emsp;(A) for the discretionary category: $532,693,000,000 in new budget authority and $558,711,000,000 in outlays; and
+&emsp;&emsp;(A) for the discretionary category: $532,693,000,000 in new budget authority and $558,711,000,000 in outlays;
 
 &emsp;&emsp;(B) for the violent crime reduction category: $4,500,000,000 in new budget authority and $5,554,000,000 in outlays;
 
-&emsp;(5) with respect to fiscal year 2001, for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays; and
+&emsp;&emsp;(C) for the highway category: $24,436,000,000 in outlays; and
 
-&emsp;(6) with respect to fiscal year 2002, for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;
+&emsp;&emsp;(D) for the mass transit category: $4,761,000,000 in outlays;
+
+&emsp;(5) with respect to fiscal year 2001—
+
+&emsp;&emsp;(A) for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays;
+
+&emsp;&emsp;(B) for the highway category: $26,204,000,000 in outlays; and
+
+&emsp;&emsp;(C) for the mass transit category: $5,190,000,000 in outlays;
+
+&emsp;(6) with respect to fiscal year 2002—
+
+&emsp;&emsp;(A) for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;
+
+&emsp;&emsp;(B) for the highway category: $26,977,000,000 in outlays; and
+
+&emsp;&emsp;(C) for the mass transit category: $5,709,000,000 in outlays; and
+
+&emsp;(7) with respect to fiscal year 2003—
+
+&emsp;&emsp;(A) for the highway category: $27,728,000,000 in outlays; and
+
+&emsp;&emsp;(B) for the mass transit category: $6,256,000,000 in outlays.<sup>3</sup>
 
 > as adjusted in strict conformance with subsection (b) of this section.
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490.)
 
 #### Termination of Section
 
 <i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
 
 #### References in Text
+
+Section 8103 of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(1)(B)(ii)(I)(cc), (D)(i), is section 8103 of Pub. L. 105–178, which is set out as a note below.
 
 Section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(2)(C)(ii)(I), is section 211 of Pub. L. 104–193, which amended this section, section 665e of this title, and section 1382c of Title 42, The Public Health and Welfare, enacted provisions set out as a note under section 1382c of Title 42, and amended provisions set out as a note under section 401 of Title 42.
 
@@ -181,6 +251,18 @@ Section 211 of the Personal Responsibility and Work Opportunity Reconciliation A
 Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–178, §8101(d), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (E).
+
+Subsec. (c)(3)(D), (E). Pub. L. 105–178, §8101(a)(1), added subpars. (D) and (E).
+
+Subsec. (c)(4)(C), (D). Pub. L. 105–178, §8101(a)(2), added subpars. (C) and (D).
+
+Subsec. (c)(5). Pub. L. 105–178, §8101(a)(3), substituted a dash for comma after “2001”, designated remaining provisions as subpar. (A), realigned margins, struck out “and” at end, and added subpars. (B) and (C).
+
+Subsec. (c)(6). Pub. L. 105–178, §8101(a)(4), substituted a dash for comma after “2002”, designated remaining provisions as subpar. (A), realigned margins, and added subpars. (B) and (C).
+
+Subsec. (c)(7). Pub. L. 105–178, §8101(a)(5), added par. (7).
 
 1997—Subsec. (a). Pub. L. 105–33, §10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
 
@@ -238,9 +320,67 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 Section 119(d)(1) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
 
+#### Offsetting Adjustment in Discretionary Spending Limits
+
+Pub. L. 105–178, title VIII, §8101(b), June 9, 1998, 112 Stat. 489, as amended by Pub. L. 105–206, title IX, §9013(a), July 22, 1998, 112 Stat. 865, provided that:
+
+“(1)
+
+Adjustment of nondefense category for fy1999.—The discretionary spending limit set forth insection 251(c)(3)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(3)(B)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $25,144,000,000 in outlays.
+
+“(2)
+
+Adjustment of discretionary category for fy2000.—The discretionary spending limit set forth in section 251(c)(4)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(4)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,009,000,000 in outlays.
+
+“(3)
+
+Adjustment of discretionary spending limit for fy2001.—The discretionary spending limit set forth in section 251(c)(5)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(5)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,329,000,000 in outlays.
+
+“(4)
+
+Adjustment of discretionary spending limit for fy2002.—The discretionary spending limit set forth in section 251(c)(6)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(6)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,675,000,000 in outlays.”
+
+#### Level of Obligation Limitations
+
+Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, provided that:
+
+“(a)
+
+Highway Category.—For the purposes of section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
+
+&emsp;“(1) for fiscal year 1999, $25,883,000,000;
+
+&emsp;“(2) for fiscal year 2000, $26,629,000,000;
+
+&emsp;“(3) for fiscal year 2001, $27,158,000,000;
+
+&emsp;“(4) for fiscal year 2002, $27,767,000,000; and
+
+&emsp;“(5) for fiscal year 2003, $28,233,000,000.
+
+“(b)
+
+Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985, the level of obligation limitations for the mass transit category is—
+
+&emsp;“(1) for fiscal year 1999, $5,365,000,000;
+
+&emsp;“(2) for fiscal year 2000, $5,797,000,000;
+
+&emsp;“(3) for fiscal year 2001, $6,271,000,000;
+
+&emsp;“(4) for fiscal year 2002, $6,747,000,000; and
+
+&emsp;“(5) for fiscal year 2003, $7,226,000,000.
+
+> For purposes of this subsection, the term ‘obligation limitations’ means the sum of budget authority and obligation limitations.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903, 904, 907 of this title; title 16 section 556c; title 38 sections 113, 1729A; title 39 section 2009a; title 42 sections 5203, 8621, 14212; title 43 section 1474a.
+This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903, 904, 907 of this title; title 16 section 556c; title 38 sections 113, 1729A; title 39 section 2009a; title 42 sections 5203, 8621; title 43 section 1474a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “year”.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

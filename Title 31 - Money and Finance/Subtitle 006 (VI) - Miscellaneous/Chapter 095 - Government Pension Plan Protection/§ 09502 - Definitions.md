@@ -68,7 +68,3 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A),
 
 1986—Par. (1)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9503 of this title.
-

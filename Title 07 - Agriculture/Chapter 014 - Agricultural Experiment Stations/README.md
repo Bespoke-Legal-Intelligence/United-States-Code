@@ -11,14 +11,23 @@
 | (a) | Authorization. |
 | (b) | Allotments to States; authorization of appropriations for Virgin Islands and Guam; limitation. |
 | (c) | Allotment of additional sums. |
-| (d) | Allotment of amounts in excess of $90,000. |
+| (d) | Matching funds. |
 | (e) | “Administration” defined. |
 | (f) | Adjustment of payments. |
 | (g) | Reductions and reapportionments. |
+| (h) | Peer review and plan of work. |
+| (i) | Integration of research and extension. |
 | [361d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361d%20-%20Use%20of%20funds.md) | Use of funds. |
 | [361e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361e%20-%20Payment%20of%20allotments%20to%20State%20agricultural%20experiment%20stations%3B%20directors%20and%20treasurers%20or%20other%20officers%3B%20accounting%3B%20reports%20to%E2%80%A6.md) | Payment of allotments to State agricultural experiment stations; directors and treasurers or other officers; accounting; reports to Secretary; replacement by States of diminished, lost or misapplied allotments; subsequent allotments or payments contingent on such replacement. |
 | [361f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361f%20-%20Publications%20of%20experiment%20stations%3B%20free%20mailing.md) | Publications of experiment stations; free mailing. |
-| [361g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361g%20-%20Secretary%20of%20Agriculture%3B%20powers%20and%20duties%3B%20rules%20and%20regulations%3B%20determination%20of%20amount%20of%20entitlement%3B%20deduction%20of%20unexpended%E2%80%A6.md) | Secretary of Agriculture; powers and duties; rules and regulations; determination of amount of entitlement; deduction of unexpended balances. |
+| [361g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361g%20-%20Duties%20of%20Secretary%3B%20ascertainment%20of%20entitlement%20of%20State%20to%20funds%3B%20plans%20of%20work.md) | Duties of Secretary; ascertainment of entitlement of State to funds; plans of work. |
+| (a) | Duties of Secretary. |
+| (b) | Ascertainment of entitlement. |
+| (c) | Effect of failure to expend full allotment. |
+| (d) | Plan of work required. |
+| (e) | Requirements related to plan of work. |
+| (f) | Research protocols. |
+| (g) | Treatment of plans of work for other purposes. |
 | [361h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361h%20-%20Relation%20of%20college%20or%20university%20to%20State%20unaffected%3B%20division%20of%20appropriations.md) | Relation of college or university to State unaffected; division of appropriations. |
 | [361i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361i%20-%20Power%20to%20amend%2C%20repeal%2C%20etc.%2C%20reserved.md) | Power to amend, repeal, etc., reserved. |
 | 362 to 383. Transferred, Repealed, or Omitted. |  |
@@ -52,6 +61,7 @@
 | (b) | Application process. |
 | (c) | Criteria for approval. |
 | (d) | Evaluation of proposals. |
+| (e) | National or multistate needs served by ARS facilities. |
 | [390b.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390b%20-%20Task%20force%20on%2010-year%20strategic%20plan%20for%20agricultural%20research%20facilities.md) | Task force on 10-year strategic plan for agricultural research facilities. |
 | (a) | Establishment. |
 | (b) | Composition. |
@@ -59,6 +69,7 @@
 | (d) | 10-year strategic plan. |
 | (e) | Applicability of Federal Advisory Committee Act. |
 | (f) | “Agricultural research facility” defined. |
+| (g) | Comprehensive research capacity. |
 | [390c.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390c%20-%20Applicability%20of%20Federal%20Advisory%20Committee%20Act.md) | Applicability of Federal Advisory Committee Act. |
 | [390d.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |

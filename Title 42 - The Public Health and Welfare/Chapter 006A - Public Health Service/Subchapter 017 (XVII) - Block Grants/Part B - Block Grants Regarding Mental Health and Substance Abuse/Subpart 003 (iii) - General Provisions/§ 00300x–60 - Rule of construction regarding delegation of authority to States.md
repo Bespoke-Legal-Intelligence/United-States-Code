@@ -2,5 +2,5 @@
 
 With respect to States receiving grants under section 300x or 300x–21 of this title, this part may not be construed to authorize the Secretary to delegate to the States the primary responsibility for interpreting the governing provisions of this part.
 
-(July 1, 1944, ch. 373, title XIX, §1950, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 408.)
+(July 1, 1944, ch. 373, title XIX, §1950, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 408.)
 

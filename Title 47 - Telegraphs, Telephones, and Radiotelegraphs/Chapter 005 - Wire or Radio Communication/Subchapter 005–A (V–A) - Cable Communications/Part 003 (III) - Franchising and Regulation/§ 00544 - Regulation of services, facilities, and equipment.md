@@ -54,7 +54,7 @@ Within one year after October 5, 1992, the Commission shall prescribe regulation
 
 #### (g) Access to emergency information
 
-Notwithstanding any such rule, regulation, or order, each cable operator shall comply with such standards as the Commission shall prescribe to ensure that viewers of video programming on cable systems are afforded the same emergency information as is afforded by theemergency broadcasting system pursuant to Commission regulations in subpart G of part 73, title 47, Code of Federal Regulations.
+Notwithstanding any such rule, regulation, or order, each cable operator shall comply with such standards as the Commission shall prescribe to ensure that viewers of video programming on cable systems are afforded the same emergency information as is afforded by the emergency broadcasting system pursuant to Commission regulations in subpart G of part 73, title 47, Code of Federal Regulations.
 
 #### (h) Notice of changes in and comments on services
 

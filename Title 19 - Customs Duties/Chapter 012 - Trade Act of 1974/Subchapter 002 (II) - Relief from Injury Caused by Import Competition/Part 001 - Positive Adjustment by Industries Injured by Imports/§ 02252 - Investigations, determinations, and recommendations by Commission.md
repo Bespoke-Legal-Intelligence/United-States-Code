@@ -36,7 +36,7 @@
 
 &emsp;(v) any other person or group of persons,
 
-> may, individually, submit to the Commission commitments regarding actions such personsand entities intend to take to facilitate positive adjustment to import competition.
+> may, individually, submit to the Commission commitments regarding actions such persons and entities intend to take to facilitate positive adjustment to import competition.
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
@@ -88,7 +88,7 @@
 
 (4) For purposes of subsection (b) of this section, in determining the domestic industry producing an article like or directly competitive with an imported article, the Commission—
 
-&emsp;(A) to the extent information is available, shall, in the case of a domestic producer whichalso imports, treat as part of such domestic industry only its domestic production;
+&emsp;(A) to the extent information is available, shall, in the case of a domestic producer which also imports, treat as part of such domestic industry only its domestic production;
 
 &emsp;(B) may, in the case of a domestic producer which produces more than one article, treat as part of such domestic industry only that portion or subdivision of the producer which produces the like or directly competitive article; and
 
@@ -270,7 +270,7 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 &emsp;(1) the Secretary of Labor shall give expedited consideration to petitions by workers in the domestic industry for certification for eligibility to apply for adjustment assistance under part 2 of this subchapter; and
 
-&emsp;(2) the Secretary of Commerce shall give expedited consideration to petitions by firms inthe domestic industry for certification of eligibility to apply for adjustment assistance under part 3 of this subchapter.
+&emsp;(2) the Secretary of Commerce shall give expedited consideration to petitions by firms in the domestic industry for certification of eligibility to apply for adjustment assistance under part 3 of this subchapter.
 
 #### (h) Limitations on investigations
 
@@ -364,7 +364,7 @@ Section 304 of title III of Pub. L. 103–465 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), this subtitle \[subtitle A (§§301–304) of title III of Pub. L. 103–465, amending this section and sections 2253 and 2254 of this title\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
+In General.—Except as provided in subsection (b), this subtitle \[subtitle A (§§301–304) of title III of Pub. L. 103–465, amending this section and sections 2253 and 2254 of this title\] and the amendments made by thissubtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
 “(b)
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) to the extent practicable, use the same format as the appropriate voluntary building energy code; and
 
-&emsp;(C) consider, in consultation with the Environmental Protection Agency and other Federal agencies, and where appropriate contain, measures with regard to radon and other indoor air pollutants.
+&emsp;(C) consider, in consultation with the Environmental Protection Agency and other Federal agencies, and where appropriate contain,measures with regard to radon and other indoor air pollutants.
 
 #### (b) Report on comparative standards
 

@@ -1,0 +1,60 @@
+### §2431f. Authority to engage in debt-for-nature swaps and debt buybacks
+
+#### (a) Loans and credits eligible for sale, reduction, or cancellation
+
+#### (1) Debt-for-nature swaps
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible purchaser described in subparagraph (B) any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible purchaser described in subparagraph (B), reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt-for-nature swap to support eligible activities described in section 2431g(d) of this title.
+
+#### (B) Eligible purchaser described
+
+&emsp;&emsp;A loan or credit may be sold, reduced, or canceled under subparagraph (A) only to a purchaser who presents plans satisfactory to the President for using the loan or credit for the purpose of engaging in debt-for-nature swaps to support eligible activities described in section 2431g(d) of this title.
+
+#### (C) Consultation requirement
+
+&emsp;&emsp;Before the sale under subparagraph (A) to any eligible purchaser described in subparagraph (B), or any reduction or cancellation under such subparagraph (A), of any loan or credit made to an eligible country, the President shall consult with the countryconcerning the amount of loans or credits to be sold, reduced, or canceled and their uses for debt-for-nature swaps to support eligible activities described in section 2431g(d) of this title.
+
+#### (D) Authorization of appropriations
+
+&emsp;&emsp;For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant to subparagraph (A), amounts authorized to <sup>1</sup> appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title shall be made available for such reduction of debt pursuant to subparagraph (A).
+
+#### (2) Debt buybacks
+
+&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible country any concessional loans described in section 2431d(a)(1) of this title or any credits described in section 2431e(a)(1) of this title, or on receipt of payment from an eligible country, reduce or cancel such loans (or credits) or portion thereof, only for the purpose of facilitating a debt buyback by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency of the eligible country, equal to not less than the lessor of 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for such debt and the face value of such debt, to support eligible activities described in section 2431g(d) of this title.
+
+#### (3) Limitation
+
+&emsp;The authority provided by paragraphs (1) and (2) shall be available only to the extent that appropriations for the cost (as defined in section 661a(5) of title 2) of the modification of any debt pursuant to such paragraphs are made in advance.
+
+#### (4) Terms and conditions
+
+&emsp;Notwithstanding any other provision of law, the President shall, in accordance with this section, establish the terms and conditions under which loans and credits may be sold, reduced, or canceled pursuant to this section.
+
+#### (5) Administration
+
+#### (A) In general
+
+&emsp;&emsp;The Facility shall notify the administrator of the agency primarily responsible for administering subchapter I of this chapter or the Commodity Credit Corporation, as the case may be, of eligible purchasers described in paragraph (1)(B) that the President has determined to be eligible under paragraph (1), and shall direct such agency or Corporation, as the case may be, to carry out the sale, reduction, or cancellation of a loan pursuant to such paragraph.
+
+#### (B) Additional requirement
+
+&emsp;&emsp;Such agency or Corporation, as the case may be, shall make an adjustment in its accounts to reflect the sale, reduction, or cancellation.
+
+#### (b) Deposit of proceeds
+
+The proceeds from the sale, reduction, or cancellation of any loan sold, reduced, or canceled pursuant to this section shall be deposited in the United States Government account or accounts established for the repayment of such loan.
+
+(Pub. L. 87–195, pt. V, §808, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 889.)
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2431a of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “be”.</i>
+

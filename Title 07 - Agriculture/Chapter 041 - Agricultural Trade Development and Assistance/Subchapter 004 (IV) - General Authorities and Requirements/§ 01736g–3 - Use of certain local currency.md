@@ -2,7 +2,7 @@
 
 Local currency payments received by the United States pursuant to agreements entered into under subchapter II of this chapter (as in effect on November 27, 1990) may be utilized by the Secretary in accordance with section 1708 of this title (as in effect on November 27, 1990).
 
-(July 10, 1954, ch. 469, title IV, §416, as added Apr. 4, 1996, Pub. L. 104–127, title II, §223, 110 Stat. 958.)
+(July 10, 1954, ch. 469, title IV, §416, as added Pub. L. 104–127, title II, §223, Apr. 4, 1996, 110 Stat. 958.)
 
 #### References in Text
 

@@ -18,11 +18,11 @@ For purposes of this chapter—
 
 &emsp;(8) A product of a country or area is an article which is the growth, produce, or manufacture of such country or area.
 
-&emsp;(9) The term “nondiscriminatory treatment” means most-favored-nation treatment.
+&emsp;(9) The term “nondiscriminatory treatment” means trade treatment based on normal trade relations (known under international law as most-favored-nation treatment).
 
 &emsp;(10) The term “commerce” includes services associated with international trade.
 
-(Pub. L. 93–618, title VI, §601, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 96–39, title II, §202(c)(1), title XI, §1106(h)(1), July 26, 1979, 93 Stat. 202, 313; Pub. L. 100–418, title I, §1214(j)(5), Aug. 23, 1988, 102 Stat. 1158.)
+(Pub. L. 93–618, title VI, §601, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 96–39, title II, §202(c)(1), title XI, §1106(h)(1), July 26, 1979, 93 Stat. 202, 313; Pub. L. 100–418, title I, §1214(j)(5), Aug. 23, 1988, 102 Stat. 1158; Pub. L. 105–206, title V, §5003(b)(2)(B), July 22, 1998, 112 Stat. 789.)
 
 #### References in Text
 
@@ -33,6 +33,8 @@ The effective date of the amendments made by title II of the Trade Agreements Ac
 The Harmonized Tariff Schedule of the United States, referred to in par. (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Amendments
+
+1998—Par. (9). Pub. L. 105–206 substituted “trade treatment based on normal trade relations (knownunder international law as most-favored-nation treatment)” for “most-favored-nation treatment”.
 
 1988—Par. (7). Pub. L. 100–418 substituted “chapters 1 through 97 of the Harmonized Tariff Schedule of the United States” for “schedules 1 through 7 of the Tariff Schedules of the United States”.
 
@@ -49,6 +51,34 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 Amendment by section 202(c)(1) of Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. L. 96–39, set out as a note under section 1401a of this title.
 
 Amendment by section 1106(h)(1) of Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
+
+#### Savings Provision
+
+Pub. L. 105–206, title V, §5003(c), July 22, 1998, 112 Stat. 790, provided that: “Nothing in this section \[amending this section, sections 1881, 2432, 3332 and 3555 of this title, and sections 5401 and 5713 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 2112 of this title\] shall affect the meaning of any provision of law, Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States relating to the principle of ‘most-favored-nation’ (or ‘most favored nation’) treatment. Any Executive order, Presidential proclamation, rule, regulation, delegation of authority, other document, or treaty or other international agreement of the United States that has been issued, made, granted, or allowed to become effective and that is in effect on the effective date of this Act \[July 22, 1998\], or was to become effective on or after the effective date of this Act, shall continue in effect according to its terms until modified, terminated, superseded, set aside, or revoked in accordance with law.”
+
+#### Clarification of Designation of Normal Trade Relations
+
+Pub. L. 105–206, title V, §5003(a), July 22, 1998, 112 Stat. 789, provided that:
+
+“(1)
+
+Findings.—The Congress makes the following findings:
+
+&emsp;“(A) Since the 18th century, the principle of nondiscrimination among countries with which the United States has trade relations, commonly referred to as ‘most-favored-nation’ treatment, has been a cornerstone of United States trade policy.
+
+&emsp;“(B) Although the principle remains firmly in place as a fundamental concept in United States trade relations, the term ‘most-favored-nation’ is a misnomer which has led to public misunderstanding.
+
+&emsp;“(C) It is neither the purpose nor the effect of the most-favored-nation principle to treat any country as ‘most favored’. To the contrary, the principle reflects the intention to confer on a country the same trade benefits that are conferred on any other country, that is, the intention not to discriminate among trading partners.
+
+&emsp;“(D) The term ‘normal trade relations’ is a more accurate description of the principle of nondiscrimination as it applies to the tariffs applicable generally to imports from United States trading partners, that is, the general rates of duty set forth in column 1 of the Harmonized Tariff Schedule of the United States.
+
+“(2)
+
+Policy.—It is the sense of the Congress that—
+
+&emsp;“(A) the language used in United States laws, treaties, agreements, executive orders, directives, and regulations should more clearly and accurately reflect the underlying principles of United States trade policy; and
+
+&emsp;“(B) accordingly, the term ‘normal trade relations’ should, where appropriate, be substituted for the term ‘most-favored-nation’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ The uses for which grants and contracts under this section may be employed inclu
 
 &emsp;(3) acquisition of duplicating devices and other equipment to facilitate the use of the resources of the library by those who are served by it;
 
-&emsp;(4) acquisition of mechanisms and employment of personnel for the speedy transmission of materials from the regional library to local libraries in the geographic area served by the regional library; and
+&emsp;(4) acquisition of mechanisms and employment of personnel for the speedy transmission of materials from the regional library to locallibraries in the geographic area served by the regional library; and
 
 &emsp;(5) planning for services and activities under this section.
 
@@ -40,7 +40,7 @@ Grants and contracts under this section for basic resource materials to a librar
 
 &emsp;(2) in case of the first year in which the library receives a grant under this section for basic resource materials, 50 percent of its average annual operating expenses over the past three years (or if it had been in operation for less than three years, its annual operating expenses determined by the Secretary in accordance with regulations).
 
-(July 1, 1944, ch. 373, title IV, §475, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 862.)
+(July 1, 1944, ch. 373, title IV, §475, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 862.)
 
 #### Section Referred to in Other Sections
 

@@ -22,5 +22,5 @@ For purposes of this part:
 
 &emsp;(4) The term “interim services”, in the case of an individual in need of treatment for substance abuse who has been denied admission to a program of such treatment on the basis of the lack of the capacity of the program to admit the individual, means services for reducing the adverse health effects of such abuse, for promoting the health of the individual, and for reducing the risk of transmission of disease, which services are provided until the individual is admitted to such a program.
 
-(July 1, 1944, ch. 373, title XIX, §1954, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 409.)
+(July 1, 1944, ch. 373, title XIX, §1954, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 409.)
 

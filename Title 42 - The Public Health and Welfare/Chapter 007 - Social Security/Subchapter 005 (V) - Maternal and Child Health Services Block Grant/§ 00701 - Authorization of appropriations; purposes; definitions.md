@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
 
-&emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
+&emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) forchildren with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
 &emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) projects designed to increase the participation of obstetricians and pediatricians under the program under this subchapter and under state <sup>1</sup> plans approved under subchapter XIX of this chapter,
 
-&emsp;&emsp;(C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 <sup>2</sup> of this title and using, once developed, the model applicationform developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
+&emsp;&emsp;(C) integrated maternal and child health service delivery systems (of the type described in section 1320b–6 <sup>2</sup> of this title and using, once developed, the model application form developed under section 6506(a) of the Omnibus Budget Reconciliation Act of 1989),
 
 &emsp;&emsp;(D) maternal and child health centers which (i) provide prenatal, delivery, and postpartum care for pregnant women and preventive and primary care services for infants up to age one, and (ii) operate under the direction of a not-for-profit hospital,
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) with respect to infants up to age one, services to assure access to quality preventive and primary care services.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2192(a), 95 Stat. 818; amended Sept. 3, 1982, Pub. L. 97–248, title I, §137(b)(1), (2), 96 Stat. 376; July 18, 1984, Pub. L. 98–369, div. B, title III, §2372(a), 98 Stat. 1110; Apr. 7, 1986, Pub. L. 99–272, title IX, §9527(a)–(c), 100 Stat. 219; Oct. 21, 1986, Pub. L. 99–509, title IX, §9441(a), 100 Stat. 2071; Dec. 22, 1987, Pub. L. 100–203, title IV, §4118(p)(8), 101 Stat. 1330–159; Dec. 19, 1989, Pub. L. 101–239, title VI, §6501(a), 103 Stat. 2273; Oct. 31, 1994, Pub. L. 103–432, title II, §201, 108 Stat. 4453; Apr. 30, 1997, Pub. L. 105–12, §9(d), 111 Stat. 27.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ A prior section 701, act Aug. 14, 1935, ch. 531, title V, §501, as added Jan. 2
 
 Another prior section 701, acts Aug. 14, 1935, ch. 531, title V, §501, 49 Stat. 629; Aug. 10, 1939, ch. 666, title V, §501, 53 Stat. 1380; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(1), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(a), pt. 6, §361(e), 64 Stat. 551, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §602(a), 72 Stat. 1054; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(1)(A), 74 Stat. 995; Oct. 24, 1963, Pub. L. 88–156, §2(a), 77 Stat. 273; July 30, 1965, Pub. L. 89–97, title II, §201(a), 79 Stat. 353, authorized appropriations, for maternal and child health services, of $25,000,000; $30,000,000; $35,000,000; $45,000,000; $50,000,000; $55,000,000; $55,000,000; and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and each fiscal year thereafter, respectively, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301.
 
-Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97,title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
 
@@ -156,7 +156,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[section 702(a) of this title\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
 
-&emsp;“(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of theSocial Security Act \[section 702(b) of this title\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
+&emsp;“(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[section 702(b) of this title\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
 
 “(C) For fiscal year 1982, the Secretary shall reduce the amount which would otherwise be available—
 

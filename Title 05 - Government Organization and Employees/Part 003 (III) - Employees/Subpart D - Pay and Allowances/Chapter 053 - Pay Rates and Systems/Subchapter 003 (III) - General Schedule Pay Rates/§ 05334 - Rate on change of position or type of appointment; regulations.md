@@ -16,7 +16,7 @@
 
 &emsp;(7) his position is changed from one grade to another grade.
 
-> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
+> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.), who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
 
 (b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) his existing rate of basic pay, if that rate is the higher.
 
-(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
+(c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointmentto a position to which this subchapter applies, have his initial rate of pay fixed—
 
 &emsp;(1) at the minimum rate of the appropriate grade; or
 
@@ -42,7 +42,7 @@
 
 (f) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c). In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626.)
 
 Historical and Revision Notes
 
@@ -88,11 +88,9 @@ In subsection (e), the words “as defined by section 901 of title 20” are add
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-
-Sections 3182 and 3186(a)(2) of title 42, referred to in subsec. (a), were repealed by Pub. L. 97–35, title XVIII, §1821(a)(8), Aug. 13, 1981, 95 Stat. 766.
-
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–393 substituted “the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)” for “title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title”.
 
 1997—Subsec. (d). Pub. L. 105–85 substituted “an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.” for “20 percent to determine the yearly rate of pay of the position.”
 
@@ -116,7 +114,7 @@ Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted “subchapter VI of t
 
 Subsec. (c). Pub. L. 95–454, §503(f)(1), in par. (2) inserted reference to an employee appointed to a position covered by the merit pay system established under section 5402 of this title.
 
-Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulations governing the retention of the rate of basic pay of anemployee and his position covered by this subchapter and chapter 51 of this title, was struck out.
+Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulationsgoverning the retention of the rate of basic pay of an employee and his position covered by this subchapter and chapter 51 of this title, was struck out.
 
 Pub. L. 95–454, §503(f)(2), added a new subsec. (f).
 

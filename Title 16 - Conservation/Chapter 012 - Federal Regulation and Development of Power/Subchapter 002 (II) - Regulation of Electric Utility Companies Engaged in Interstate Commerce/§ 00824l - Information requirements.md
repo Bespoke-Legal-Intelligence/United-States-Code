@@ -8,7 +8,7 @@ Whenever any electric utility, Federal power marketing agency, or any other pers
 
 Not later than 1 year after October 24, 1992, the Commission shall promulgate a rule requiring that information be submitted annually to the Commission by transmitting utilities which is adequate to inform potential transmission customers, State regulatory authorities, and the public of potentially available transmission capacity and known constraints.
 
-(June 10, 1920, ch. 285, pt. II, §213, as added Oct. 24, 1992, Pub. L. 102–486, title VII, §723, 106 Stat. 2919.)
+(June 10, 1920, ch. 285, pt. II, §213, as added Pub. L. 102–486, title VII, §723, Oct. 24, 1992, 106 Stat. 2919.)
 
 #### State Authorities; Construction
 

@@ -14,7 +14,7 @@ The Secretary shall make grants to, or enter into contracts, for the activities 
 
 &emsp;(1) two tribally controlled community colleges that—
 
-&emsp;&emsp;(A) are eligible for funding under the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\]; and
+&emsp;&emsp;(A) are eligible for funding under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\]; and
 
 &emsp;&emsp;(B) are fully accredited; or
 
@@ -120,9 +120,17 @@ The Secretary shall make grants to, or enter into contracts, for the activities 
 
 The Secretary shall encourage each recipient of a grant or contract under this section to work cooperatively as part of a national network to ensure that the information developed by the grant or contract recipient is readily available to the entire educational community.
 
-(Pub. L. 89–10, title IX, §9124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3787.)
+(Pub. L. 89–10, title IX, §9124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3787; amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### References in Text
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (b)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (b)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(1)(A). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

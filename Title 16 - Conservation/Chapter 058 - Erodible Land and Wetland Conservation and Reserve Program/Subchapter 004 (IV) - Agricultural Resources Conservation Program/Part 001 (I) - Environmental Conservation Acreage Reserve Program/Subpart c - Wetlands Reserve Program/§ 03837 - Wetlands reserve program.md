@@ -24,7 +24,11 @@ The Secretary shall establish a wetlands reserve program to assist owners of eli
 
 #### (B) Temporary easements
 
-&emsp;&emsp;Effective beginning October 1, 1996, the Secretary shall not enroll acres in the wetlands reserve program through the use of new permanent easements until the Secretary has enrolled at least 75,000 acres inthe program through the use of temporary easements.
+&emsp;&emsp;Effective beginning October 1, 1996, the Secretary shall not enroll acres in the wetlands reserve program through the use of new permanent easements until the Secretary has enrolled at least 75,000 acres in the program through the use of temporary easements.
+
+#### (C) Construction
+
+&emsp;&emsp;For purposes of subparagraph (A), to the maximum extent practicable should be interpreted to mean that acceptance of wetlands reserve program bids may be in proportion to landowner interest expressed in program options.
 
 #### (c) Eligibility
 
@@ -42,7 +46,7 @@ The Secretary may include in the wetland reserve established under this subpart,
 
 &emsp;(1) farmed wetland and adjoining lands, enrolled in the conservation reserve, with the highest wetland functions and values, and that are likely to return to production after they leave the conservation reserve;
 
-&emsp;(2) other wetland of an owner that would not otherwise be eligible if the Secretary determines that the inclusion of such wetland in such easement would significantly add to the functional value of the easement; or
+&emsp;(2) other wetland of an owner that would not otherwise be eligible if the Secretary determines that the inclusion of such wetland insuch easement would significantly add to the functional value of the easement; or
 
 &emsp;(3) riparian areas that link wetlands that are protected by easements or some other device or circumstance that achieves the same purpose as an easement.
 
@@ -62,9 +66,11 @@ The Secretary may terminate or modify an existing contract entered into under se
 
 The Secretary shall enroll lands in the wetland reserve through the purchase of easements as provided for in section 3837a of this title.
 
-(Pub. L. 99–198, title XII, §1237, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3584; amended Pub. L. 102–237, title II, §204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, §1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, §333(a)–(c), Apr. 4, 1996, 110 Stat. 995.)
+(Pub. L. 99–198, title XII, §1237, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3584; amended Pub. L. 102–237, title II, §204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, §1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, §333(a)–(c), Apr. 4, 1996, 110 Stat. 995; Pub. L. 105–277, div. A, §101(a) \[title VII, §752\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
 #### Amendments
+
+1998—Subsec. (b)(2)(C). Pub. L. 105–277 added subpar. (C).
 
 1996—Subsec. (b). Pub. L. 104–127, §333(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall enroll into the wetlands reserve program—
 

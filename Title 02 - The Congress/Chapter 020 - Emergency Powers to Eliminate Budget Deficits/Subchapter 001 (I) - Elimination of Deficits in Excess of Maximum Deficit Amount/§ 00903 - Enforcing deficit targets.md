@@ -44,7 +44,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
-> &emsp;and the uniform percent applicable to all other programs under this subsection shall be increased (if necessary) to a level sufficient toachieve the required reduction in non-defense outlays.
+> &emsp;and the uniform percent applicable to all other programs under this subsection shall beincreased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
 
 &emsp;(B) For purposes of determining reductions under subparagraph (A), outlay reduction (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
 

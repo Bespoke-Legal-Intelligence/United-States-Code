@@ -26,7 +26,7 @@ The Congress finds and declares—
 
 #### Short Title of 1978 Amendment
 
-Section 1 of Pub. L. 95–474 provided: “That this Act \[enacting sections 1225, 1228 to 1231, and 1232 of thistitle, amending this section, sections 1222 to 1224, 1226, and 1227 of this title, and sections 214 and 391a of Title 46, Shipping, and enacting provisions set out as notes under this section and section 1224 of this title and section 391a of former Title 46\] may be cited as the ‘Port and Tanker Safety Act of 1978’.”
+Section 1 of Pub. L. 95–474 provided: “That this Act \[enacting sections 1225, 1228 to 1231, and 1232 of this title, amending this section, sections 1222 to 1224, 1226, and 1227 of this title, and sections 214 and 391a of Title 46, Shipping, and enacting provisions set out as notes under this section and section 1224 of this title and section 391a of former Title 46\] may be cited as the ‘Port and Tanker Safety Act of 1978’.”
 
 #### Short Title
 

@@ -28,7 +28,7 @@ The Secretary may not make payments under section 300d–11(a) of this title for
 
 &emsp;(2) the State submits to the Secretary a list of rural areas identified pursuant to paragraph (1) or, if there are no such areas, a statement that there are no such areas.
 
-(July 1, 1944, ch. 373, title XII, §1214, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2922.)
+(July 1, 1944, ch. 373, title XII, §1214, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2922.)
 
 #### Section Referred to in Other Sections
 

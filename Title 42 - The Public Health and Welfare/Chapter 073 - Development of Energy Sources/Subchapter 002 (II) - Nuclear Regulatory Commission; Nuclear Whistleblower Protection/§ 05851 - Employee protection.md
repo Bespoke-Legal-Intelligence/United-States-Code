@@ -28,7 +28,7 @@
 
 #### (b) Complaint, filing and notification
 
-(1) Any employee who believes that he has been discharged or otherwise discriminatedagainst by any person in violation of subsection (a) of this section may, within 180 days after such violation occurs, file (or have any person file on his behalf) a complaint with the Secretary of Labor (in this section referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint, the Commission, and the Department of Energy.
+(1) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of subsection (a) of this section may, within 180 days after such violation occurs, file (or have any person file on his behalf) a complaint with the Secretary of Labor (in this section referred to as the “Secretary”) alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint, the Commission, and the Department of Energy.
 
 (2)(A) Upon receipt of a complaint filed under paragraph (1), the Secretary shall conduct an investigation of the violation alleged in the complaint. Within thirty days of the receipt of such complaint, the Secretary shall complete such investigation and shall notify in writing the complainant (and any person acting in his behalf) and the person alleged to have committed such violation of the results of the investigation conducted pursuant to this subparagraph. Within ninety days of the receipt of such complaint the Secretary shall, unless the proceeding on the complaint is terminated by the Secretary on the basis of a settlement entered into by the Secretary and the person alleged to have committed such violation, issue an order either providing the relief prescribed by subparagraph (B) or denying the complaint. An order of the Secretary shall be made on the record after notice and opportunity for public hearing. Upon the conclusion of such hearing and the issuance of a recommended decision that the complaint has merit, the Secretary shall issue a preliminary order providing the relief prescribed in subparagraph (B), but may not order compensatory damages pending a final order. The Secretary may not enter into a settlement terminating a proceeding on a complaint without the participation and consent of the complainant.
 
@@ -88,7 +88,7 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, which is set out as a note under section 7158 of this title.
 

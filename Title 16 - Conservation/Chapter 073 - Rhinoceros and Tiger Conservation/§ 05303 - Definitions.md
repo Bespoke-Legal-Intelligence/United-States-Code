@@ -8,9 +8,29 @@ In this chapter—
 
 &emsp;(3) “Fund” means the Rhinoceros and Tiger Conservation Fund established under section 5305(a) of this title;
 
-&emsp;(4) “Secretary” means the Secretary of the Interior; and
+&emsp;(4) “Secretary” means the Secretary of the Interior;
 
-&emsp;(5) “Administrator” means the Administrator of the Agency for International Development.
+&emsp;(5) “Administrator” means the Administrator of the Agency for International Development; and
 
-(Pub. L. 103–391, §4, Oct. 22, 1994, 108 Stat. 4095.)
+&emsp;(6) “person” means—
+
+&emsp;&emsp;(A) an individual, corporation, partnership, trust, association, or other private entity;
+
+&emsp;&emsp;(B) an officer, employee, agent, department, or instrumentality of—
+
+&emsp;&emsp;&emsp;(i) the Federal Government;
+
+&emsp;&emsp;&emsp;(ii) any State, municipality, or political subdivision of a State; or
+
+&emsp;&emsp;&emsp;(iii) any foreign government;
+
+&emsp;&emsp;(C) a State, municipality, or political subdivision of a State; or
+
+&emsp;&emsp;(D) any other entity subject to the jurisdiction of the United States.
+
+(Pub. L. 103–391, §4, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, §404, Oct. 30, 1998, 112 Stat. 2960.)
+
+#### Amendments
+
+1998—Par. (6). Pub. L. 105–312 added par. (6).
 

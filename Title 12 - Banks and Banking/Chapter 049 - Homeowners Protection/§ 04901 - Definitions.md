@@ -1,0 +1,110 @@
+### §4901. Definitions
+
+In this chapter, the following definitions shall apply:
+
+#### (1) Adjustable rate mortgage
+
+&emsp;The term “adjustable rate mortgage” means a residential mortgage that has an interest rate that is subject to change.
+
+#### (2) Cancellation date
+
+&emsp;The term “cancellation date” means—
+
+&emsp;&emsp;(A) with respect to a fixed rate mortgage, at the option of the mortgagor, the date on which the principal balance of the mortgage—
+
+&emsp;&emsp;&emsp;(i) based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or
+
+&emsp;&emsp;&emsp;(ii) based solely on actual payments, reaches 80 percent of the original value of the property securing the loan; and
+
+&emsp;&emsp;(B) with respect to an adjustable rate mortgage, at the option of the mortgagor, the date on which the principal balance of the mortgage—
+
+&emsp;&emsp;&emsp;(i) based solely on amortization schedules for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or
+
+&emsp;&emsp;&emsp;(ii) based solely on actual payments, first reaches 80 percent of the original value of the property securing the loan.
+
+#### (3) Fixed rate mortgage
+
+&emsp;The term “fixed rate mortgage” means a residential mortgage that has an interest rate that is not subject to change.
+
+#### (4) Good payment history
+
+&emsp;The term “good payment history” means, with respect to a mortgagor, that the mortgagor has not—
+
+&emsp;&emsp;(A) made a mortgage payment that was 60 days or longer past due during the 12-month period beginning 24 months before the date on which the mortgage reaches the cancellation date; or
+
+&emsp;&emsp;(B) made a mortgage payment that was 30 days or longer past due during the 12-month period preceding the date on which the mortgage reaches the cancellation date.
+
+#### (5) Initial amortization schedule
+
+&emsp;The term “initial amortization schedule” means a schedule established at the time at which a residential mortgage transaction is consummated with respect to a fixed rate mortgage, showing—
+
+&emsp;&emsp;(A) the amount of principal and interest that is due at regular intervals to retire the principal balance and accrued interest over the amortization period of the loan; and
+
+&emsp;&emsp;(B) the unpaid principal balance of the loan after each scheduled payment is made.
+
+#### (6) Mortgage insurance
+
+&emsp;The term “mortgage insurance” means insurance, including any mortgage guaranty insurance, against the nonpayment of, or default on, an individual mortgage or loan involved in a residential mortgage transaction.
+
+#### (7) Mortgage insurer
+
+&emsp;The term “mortgage insurer” means a provider of private mortgage insurance, as described in this chapter, that is authorized to transact such business in the State in which the provider is transacting such business.
+
+#### (8) Mortgagee
+
+&emsp;The term “mortgagee” means the holder of a residential mortgage at the time at which that mortgage transaction is consummated.
+
+#### (9) Mortgagor
+
+&emsp;The term “mortgagor” means the original borrower under a residential mortgage or his or her successors or assignees.
+
+#### (10) Original value
+
+&emsp;The term “original value”, with respect to a residential mortgage, means the lesser of the sales price of the property securing the mortgage, as reflected in the contract, or the appraised value at the time at which the subject residential mortgage transaction was consummated.
+
+#### (11) Private mortgage insurance
+
+&emsp;The term “private mortgage insurance” means mortgage insurance other than mortgage insurance made available under the National Housing Act \[12 U.S.C. 1701 et seq.\], title 38, or title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\].
+
+#### (12) Residential mortgage
+
+&emsp;The term “residential mortgage” means a mortgage, loan, or other evidence of a security interest created with respect to a single-family dwelling that is the primary residence of the mortgagor.
+
+#### (13) Residential mortgage transaction
+
+&emsp;The term “residential mortgage transaction” means a transaction consummated on or after the date that is 1 year after July 29, 1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the primary residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
+
+#### (14) Servicer
+
+&emsp;The term “servicer” has the same meaning as in section 2605(i)(2) of this title, with respect to a residential mortgage.
+
+#### (15) Single-family dwelling
+
+&emsp;The term “single-family dwelling” means a residence consisting of 1 family dwelling unit.
+
+#### (16) Termination date
+
+&emsp;The term “termination date” means—
+
+&emsp;&emsp;(A) with respect to a fixed rate mortgage, the date on which the principal balance of the mortgage, based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan; and
+
+&emsp;&emsp;(B) with respect to an adjustable rate mortgage, the date on which the principal balance of the mortgage, based solely on amortization schedules for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan.
+
+(Pub. L. 105–216, §2, July 29, 1998, 112 Stat. 897.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, known as the Homeowners Protection Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+The National Housing Act, referred to in par. (11), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+
+The Housing Act of 1949, referred to in par. (11), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+
+#### Effective Date
+
+Pub. L. 105–216, §13, July 29, 1998, 112 Stat. 908, provided that: “This Act \[enacting this chapter and amending section 1088 of Title 20, Education\], other than section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\].”
+
+#### Short Title
+
+Pub. L. 105–216, §1(a), July 29, 1998, 112 Stat. 897, provided that: “This Act \[enacting this chapter, amending section 1088 of Title 20, Education, enacting provisions set out as notes under sections 1441a and 1831q of this title, and amending provisions set out as a note under section 1831q of this title\] may be cited as the ‘Homeowners Protection Act of 1998’.”
+

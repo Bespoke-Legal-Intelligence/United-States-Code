@@ -34,13 +34,13 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 &emsp;(A) The Director of the Institute shall ensure that the research programs described in paragraph (1) are implemented in accordance with a plan for the programs. Such plan shall include comments and recommendations that the Director of the Institute considers appropriate, with due consideration provided to the professional judgment needs of the Institute as expressed in the annual budget estimate prepared in accordance with section 285a–2(9) <sup>2</sup> of this title. The Director of the Institute, in consultation with the National Cancer Advisory Board, shall periodically review and revise such plan.
 
-&emsp;(B) Not later than October 1, 1993, the Director of the Institute shall submit a copy of the plan to the President's Cancer Panel, the Secretary, and the Director of NIH.
+&emsp;(B) Not later than October 1, 1993, the Director of the Institute shall submit a copy of theplan to the President's Cancer Panel, the Secretary, and the Director of NIH.
 
 &emsp;(C) The Director of the Institute shall submit any revisions of the plan to the President's Cancer Panel, the Secretary, and the Director of NIH.
 
 &emsp;(D) The Secretary shall provide a copy of the plan submitted under subparagraph (A), and any revisions submitted under subparagraph (C), to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
-(July 1, 1944, ch. 373, title IV, §417A, as added June 10, 1993, Pub. L. 103–43, title IV, §402, 107 Stat. 155.)
+(July 1, 1944, ch. 373, title IV, §417A, as added Pub. L. 103–43, title IV, §402, June 10, 1993, 107 Stat. 155.)
 
 #### Change of Name
 

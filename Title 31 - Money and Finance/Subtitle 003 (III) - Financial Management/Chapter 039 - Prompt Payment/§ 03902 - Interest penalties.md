@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed under section 3903 of this title, the head of an agency acquiring property or service from a business concern, who does not pay the concern for each complete delivered item of property or service by the required payment date, shall pay an interest penalty to the concern on the amount of the payment due. The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611), which is in effect at the time the agency accrues the obligation to pay a late payment interest penalty.
 
-(b) Except as provided in section 3906 of this title, the interest penalty shall be paid for the period beginning on the day after the required payment date and ending on the date on which payment is made.
+(b) The interest penalty shall be paid for the period beginning on the day after the required payment date and ending on the date on which payment is made.
 
 (c)(1) A business concern shall be entitled to an interest penalty of $1.00 or more which is owed such business concern under this section, and such penalty shall be paid without regard to whether the business concern has requested payment of such penalty.
 
@@ -56,7 +56,7 @@
 
 (4) Section 3907 of this title shall not apply to interest penalty payments made under this subsection.
 
-(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2475; amended Pub. L. 98–216, §1(6), Feb. 14, 1984, 98 Stat. 4; Pub. L. 100–496, §3, Oct. 17, 1988, 102 Stat. 2456.)
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2475; amended Pub. L. 98–216, §1(6), Feb. 14, 1984, 98 Stat. 4; Pub. L. 100–496, §3, Oct. 17, 1988, 102 Stat. 2456; Pub. L. 105–362, title XIII, §1301(c)(2)(B), Nov. 10, 1998, 112 Stat. 3293.)
 
 Historical and Revision Notes<br>1982
 
@@ -108,7 +108,9 @@ The Agricultural Act of 1949, referred to in subsec. (h)(2)(A), is act Oct. 31, 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–496, §3(a)(1), substituted “The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611), which is in effect at the time the agency accrues the obligation to pay a late payment interestpenalty” for “The interest shall be computed at the rate the Secretary of the Treasury establishes for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611). The Secretary shall publish each rate in the Federal Register”.
+1998—Subsec. (b). Pub. L. 105–362 substituted “The” for “Except as provided in section 3906 of this title, the”.
+
+1988—Subsec. (a). Pub. L. 100–496, §3(a)(1), substituted “The interest shall be computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611), which is in effect at the time the agency accrues the obligation to pay a late payment interest penalty” for “The interest shall be computed at the rate the Secretary of the Treasury establishes for interest payments under section 12 of the Contract Disputes Act of 1978 (41 U.S.C. 611). The Secretary shall publish each rate in the Federal Register”.
 
 Subsec. (b). Pub. L. 100–496, §3(a)(2), struck out second sentence which read as follows: “However, a penalty may not be paid if payment for the item is made—
 

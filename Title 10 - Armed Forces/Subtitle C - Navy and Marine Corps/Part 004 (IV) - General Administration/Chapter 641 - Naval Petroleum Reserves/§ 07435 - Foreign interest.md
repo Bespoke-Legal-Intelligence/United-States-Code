@@ -4,7 +4,7 @@
 
 (b) The Secretary may cancel any lease for any violation of this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Oct. 11, 1962, Pub. L. 87–796, §1(11), 76 Stat. 906; Apr. 5, 1976, Pub. L. 94–258, title II, §201(17), 90 Stat. 313.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Pub. L. 87–796, §1(11), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(17), Apr. 5, 1976, 90 Stat. 313.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 The purpose of this part is to establish the contracting process which the Secretary must follow pursuant to the requirements of section 1395y(g) of this title, including the definition of the utilization and quality control peer review organizations with which the Secretary shall contract, the functions such peer review organizations are to perform, the confidentiality of medical records, and related administrative matters to facilitate the carrying out of the purposes of this part.
 
-(Aug. 14, 1935, ch. 531, title XI, §1151, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 382.)
+(Aug. 14, 1935, ch. 531, title XI, §1151, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382.)
 
 #### Prior Provisions
 

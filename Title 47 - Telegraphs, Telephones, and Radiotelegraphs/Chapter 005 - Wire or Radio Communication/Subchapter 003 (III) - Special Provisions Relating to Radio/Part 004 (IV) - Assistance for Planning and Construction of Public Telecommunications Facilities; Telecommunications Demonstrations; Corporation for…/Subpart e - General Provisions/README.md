@@ -4,6 +4,10 @@ subpart e—general provisions
 
 <i><sup>2</sup></i><i> So in original. Probably should be “is”.</i>
 
+<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “the organization,”.</i>
+
 
 ---
 

@@ -20,7 +20,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(8) Not later than 10 days after disqualifying the holder of a commercial driver's license from operating a commercial motor vehicle (or after revoking, suspending, or canceling the license) for at least 60 days, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, and the State that issued the license, of the disqualification, revocation, suspension, or cancellation.
 
-&emsp;(9) If an individual operating a commercial motor vehicle violates a State or local law onmotor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation.
+&emsp;(9) If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation.
 
 &emsp;(10) The State may not issue a commercial driver's license to an individual during a period in which the individual is disqualified from operating a commercial motor vehicle or the individual's driver's license is revoked, suspended, or canceled.
 
@@ -44,7 +44,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;&emsp;(C) the individual is not disqualified from operating a commercial motor vehicle.
 
-&emsp;(15) The State shall disqualify an individual from operating a commercial motor vehicle for the same reasons and time periods for which the Secretary shall disqualify the individual under section 31310(b)–(e) of this title.
+&emsp;(15) The State shall disqualify an individual from operating a commercial motor vehicle for the same reasons and time periods for which the Secretary shall disqualify the individual under subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310.
 
 &emsp;(16)(A) Before issuing a commercial driver's license to an individual, the State shall request the Secretary for information from the National Driver Register maintained under chapter 303 of this title (after the Secretary decides the Register is operational) on whether the individual—
 
@@ -56,9 +56,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(B) The State shall give full weight and consideration to that information in deciding whether to issue the individual a commercial driver's license.
 
-&emsp;(17) The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.
-
-&emsp;(18) The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(h) of this title.
+&emsp;(17) The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(h) of this title.
 
 (b)
 
@@ -68,7 +66,7 @@ State Satisfaction of Requirements.—A State may satisfy the requirements of su
 
 Notification.—Not later than 30 days after being notified by a State of the proposed issuance of a commercial driver's license to an individual, the Secretary or the operator of the information system under section 31309 of this title, as the case may be, shall notify the State whether the individual has a commercial driver's license issued by another State or has been disqualified from operating a commercial motor vehicle by another State or the Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408.)
 
 Historical and Revision Notes
 
@@ -92,6 +90,10 @@ In subsection (b), the words “in accordance with the requirements of such subs
 
 #### Amendments
 
+1998—Subsec. (a)(15). Pub. L. 105–178, §4011(e)(1), substituted “subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310” for “section 31310(b)–(e) of this title”.
+
+Subsec. (a)(17), (18). Pub. L. 105–178, §4011(e)(2), (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: “The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.”
+
 1995—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
 
 #### Effective Date of 1995 Amendment
@@ -100,5 +102,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31309, 31312, 31313, 31314 of this title.
+This section is referred to in section 31314 of this title.
 

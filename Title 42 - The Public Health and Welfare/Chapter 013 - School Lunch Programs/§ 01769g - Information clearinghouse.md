@@ -32,9 +32,17 @@ The Secretary shall establish fair and reasonable auditing procedures regarding 
 
 #### (d) Funding
 
-Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, and $100,000 for fiscal year 1998. The Secretary shall be entitled to receive the funds and shall accept the funds.
+Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
-(June 4, 1946, ch. 281, §26, as added Nov. 2, 1994, Pub. L. 103–448, title I, §123, 108 Stat. 4731.)
+(June 4, 1946, ch. 281, §26, as added Pub. L. 103–448, title I, §123, Nov. 2, 1994, 108 Stat. 4731; amended Pub. L. 105–336, title I, §§103(c)(2), 112, Oct. 31, 1998, 112 Stat. 3147, 3157.)
+
+#### Amendments
+
+1998—Subsec. (d). Pub. L. 105–336 substituted “$100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003” for “and $100,000 for fiscal year 1998” in first sentence and inserted “, without further appropriation” before period at end of second sentence.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
 
 #### Effective Date
 

@@ -126,7 +126,7 @@ Policy.—It is the stated policy of the United States to—
 
 &emsp;“(1) implement United Nations General Assembly Resolution numbered 46–215, approved unanimously on December 20, 1991, which calls for an immediate cessation to further expansion of large-scale driftnet fishing, a 50 percent reduction in existing large-scale driftnet fishing effort by June 30, 1992, and a global moratorium on the use of large-scale driftnets beyond the exclusive economic zone of any nation by December 31, 1992;
 
-&emsp;“(2) bring about a moratorium on fishing in the Central Bering Sea, or an international conservationand management agreement to which the United States and the Russian Federation are parties that regulates fishing in the Central Bering Sea; and
+&emsp;“(2) bring about a moratorium on fishing in the Central Bering Sea, or an international conservation and management agreement to which the United States and the Russian Federation are parties that regulates fishing in the Central Bering Sea; and
 
 &emsp;“(3) secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation.”
 

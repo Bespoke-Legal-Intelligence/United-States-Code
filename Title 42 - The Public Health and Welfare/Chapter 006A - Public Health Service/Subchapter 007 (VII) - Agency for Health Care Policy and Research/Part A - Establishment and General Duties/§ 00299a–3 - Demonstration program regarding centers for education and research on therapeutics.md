@@ -34,7 +34,7 @@ The activities referred to in subsection (a) of this section are the following:
 
 &emsp;&emsp;&emsp;(i) the appropriate use of drugs, biological products, or devices; and
 
-&emsp;&emsp;&emsp;(ii) the prevention of adverse effects of drugs, biological products, and devices and the consequences of such effects, such as unnecessary hospitalizations.
+&emsp;&emsp;&emsp;(ii) the prevention of adverse effects of drugs, biological products, and devices andthe consequences of such effects, such as unnecessary hospitalizations.
 
 &emsp;(2) The conduct of research on the comparative effectiveness and safety of drugs, biological products, and devices.
 
@@ -52,7 +52,7 @@ A grant under subsection (a) of this section may be made only if the application
 
 For the purpose of carrying out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1998, and $3,000,000 for each of fiscal years 1999 through 2002.
 
-(July 1, 1944, ch. 373, title IX, §905, as added Nov. 21, 1997, Pub. L. 105–115, title IV, §409, 111 Stat. 2371.)
+(July 1, 1944, ch. 373, title IX, §905, as added Pub. L. 105–115, title IV, §409, Nov. 21, 1997, 111 Stat. 2371.)
 
 #### Effective Date
 

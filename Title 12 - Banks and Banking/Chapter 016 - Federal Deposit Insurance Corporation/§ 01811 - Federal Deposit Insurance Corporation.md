@@ -40,9 +40,13 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 
 Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. H, §1, Oct. 21, 1998, 112 Stat. 2681–854, provided that: “This Division \[amending section 1828 of this title\] may be cited as the ‘Depository Institution-GSE Affiliation Act of 1998’.”
+
 #### Short Title of 1997 Amendments
 
-Pub. L. 105–24, §1, July 3, 1997, 111 Stat. 238, provided that: “This Act \[amending sections 36 and 1831a of thistitle and enacting provisions set out as a note under section 1831a of this title\] may be cited as the ‘Riegle-Neal Amendments Act of 1997’.”
+Pub. L. 105–24, §1, July 3, 1997, 111 Stat. 238, provided that: “This Act \[amending sections 36 and 1831a of this title and enacting provisions set out as a note under section 1831a of this title\] may be cited as the ‘Riegle-Neal Amendments Act of 1997’.”
 
 Pub. L. 105–18, title V, §50001, June 12, 1997, 111 Stat. 211, provided that: “This title \[enacting provisions set out as notes under this section and sections 1828, 1831<i>o</i>, and 4008 of this title\] may be cited as the ‘Depository Institutions Disaster Relief Act of 1997’.”
 
@@ -112,7 +116,7 @@ Pub. L. 105–18, title V, §50006, June 12, 1997, 111 Stat. 213, provided that:
 
 #### Construction of 1994 Amendment
 
-Pub. L. 103–328, title I, §111, Sept. 29, 1994, 108 Stat. 2365, provided that: “No provision of this title \[enactingsections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amending provisions set out as a note under this section\] and no amendment made by this title to any other provision of law shall be construed as affecting in any way—
+Pub. L. 103–328, title I, §111, Sept. 29, 1994, 108 Stat. 2365, provided that: “No provision of this title \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amending provisions set out as a note under this section\] and no amendment made by this title to any other provision of law shall be construed as affecting in any way—
 
 &emsp;“(1) the authority of any State or political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any such bank, bank holding company, or foreign bank, to the extent that such tax or tax method is otherwise permissible by or under the Constitution of the United States or other Federal law;
 
@@ -127,6 +131,78 @@ Pub. L. 103–76, §7, Aug. 12, 1993, 107 Stat. 755, provided that: “Nothing i
 #### Construction of 1992 Amendments
 
 Pub. L. 102–485, §8, Oct. 23, 1992, 106 Stat. 2775, provided that: “Nothing in this Act \[see Short Title of 1992 Amendments note above\] limits the authority of any department or agency under any other provision of law.”
+
+#### Year 2000 Readiness for Financial Institutions
+
+Pub. L. 105–164, §2, Mar. 20, 1998, 112 Stat. 32, provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) the Year 2000 computer problem poses a serious challenge to the American economy, including the Nation's banking and financial services industries;
+
+&emsp;“(2) thousands of banks, savings associations, and credit unions rely heavily on internal information technology and computer systems, as well as outside service providers, for mission-critical functions, such as check clearing, direct deposit, accounting, automated teller machine networks, credit card processing, and data exchanges with domestic and international borrowers, customers, and other financial institutions; and
+
+&emsp;“(3) Federal financial regulatory agencies must have sufficient examination authority to ensure that the safety and soundness of the Nation's financial institutions will not be at risk.
+
+“(b)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the terms ‘depository institution’ and ‘Federal banking agency’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\];
+
+&emsp;“(2) the term ‘Federal home loan bank’ has the same meaning as in section 2 of the Federal Home Loan Bank Act \[12 U.S.C. 1422\];
+
+&emsp;“(3) the term ‘Federal reserve bank’ means a reserve bank established under the Federal Reserve Act \[12 U.S.C. 221 et seq.\];
+
+&emsp;“(4) the term ‘insured credit union’ has the same meaning as in section 101 of the Federal Credit Union Act \[12 U.S.C. 1752\]; and
+
+&emsp;“(5) the term ‘Year 2000 computer problem’ means, with respect to information technology, any problem which prevents such technology from accurately processing, calculating, comparing, or sequencing date or time data—
+
+&emsp;&emsp;“(A) from, into, or between—
+
+&emsp;&emsp;&emsp;“(i) the 20th and 21st centuries; or
+
+&emsp;&emsp;&emsp;“(ii) the years 1999 and 2000; or
+
+&emsp;&emsp;“(B) with regard to leap year calculations.
+
+“(c)
+
+Seminars and Model Approaches to Year 2000 Computer Problem.—
+
+&emsp;“(1)
+
+Seminars.—
+
+&emsp;&emsp;“(A)
+
+In general.—Each Federal banking agency and the National Credit Union Administration Board shall offer seminars to all depository institutions and insured credit unions under the jurisdiction of such agency on the implication of the Year 2000 computer problem for—
+
+&emsp;&emsp;&emsp;“(i) the safe and sound operations of such depository institutions and credit unions; and
+
+&emsp;&emsp;&emsp;“(ii) transactions with other financial institutions, including Federal reserve banks and Federal home loan banks.
+
+&emsp;&emsp;“(B)
+
+Content and schedule.—The content and schedule of seminars offered pursuant to subparagraph (A) shall be determined by each Federal banking agency and the National Credit Union Administration Board taking into account the resources and examination priorities of such agency.
+
+&emsp;“(2)
+
+Model approaches.—
+
+&emsp;&emsp;“(A)
+
+In general.—Each Federal banking agency and the National Credit Union Administration Board shall make available to each depository institution and insured credit union under the jurisdiction of such agency model approaches to common Year 2000 computer problems, such as model approaches with regard to project management, vendor contracts, testing regimes, and business continuity planning.
+
+&emsp;&emsp;“(B)
+
+Variety of approaches.—In developing model approaches to the Year 2000 computer problem pursuant to subparagraph (A), each Federal banking agency and the National Credit Union Administration Board shall take into account the need to develop a variety of approaches to correspond to the variety of depository institutions or credit unions within the jurisdiction of the agency.
+
+&emsp;“(3)
+
+Cooperation.—In carrying out this section, the Federal banking agencies and the National Credit Union Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
 
 #### Study and Report on United States Financial Services System
 
@@ -444,7 +520,7 @@ Specific Requirements.—The study shall examine and evaluate—
 
 “(e)
 
-Reports to Congress.—The Comptroller General shall submit to the Congress 2 reports regarding thestudy under this section. The first report shall be submitted to the Congress not later than 9 months after the date of the enactment of this Act \[Aug. 9, 1989\] and the second report shall be submitted to the Congress not later than 21 months after the date of the enactment of this Act. Each report shall set forth—
+Reports to Congress.—The Comptroller General shall submit to the Congress 2 reports regarding the study under this section. The first report shall be submitted to the Congress not later than 9 months after the date of the enactment of this Act \[Aug. 9, 1989\] and the second report shall be submitted to the Congress not later than 21 months after the date of the enactment of this Act. Each report shall set forth—
 
 &emsp;“(1) the results of the study under this section;
 

@@ -12,7 +12,7 @@ The amount made available under subsection (a) of this section may be expended o
 
 For the purposes of this subsection,<sup>1</sup> the terms “Native Hawaiian”, “Native Hawaiian organization”, and “Native Hawaiian health center” have the meaning given such terms in section 11707 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1953, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 409.)
+(July 1, 1944, ch. 373, title XIX, §1953, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 409.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

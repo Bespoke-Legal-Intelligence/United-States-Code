@@ -1,6 +1,6 @@
 ### §452. Pilot charts
 
-(a) There shall be conspicuously printed on pilot charts prepared in the National Imagery and Mapping Agency the following: “Prepared from data furnished by the National Imagery and Mapping Agency of the Department of Defense and by the Department of Commerce, and published at the National Imagery and Mapping Agency under the authority of the Secretary of Defense”.
+(a) There shall be conspicuously printed on pilot charts prepared in the National Imagery and Mapping Agency the following: “Preparedfrom data furnished by the National Imagery and Mapping Agency of the Department of Defense and by the Department of Commerce, and published at the National Imagery and Mapping Agency under the authority of the Secretary of Defense”.
 
 (b) The Secretary of Commerce shall furnish to the National Imagery and Mapping Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
 
@@ -26,7 +26,7 @@ A prior section 452 was renumbered section 482 of this title.
 
 #### Amendments
 
-1996—Pub. L. 104–201 renumbered section 2793 of this title as this section and substituted “National Imageryand Mapping Agency” for “Defense Mapping Agency” wherever appearing.
+1996—Pub. L. 104–201 renumbered section 2793 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appearing.
 
 #### Effective Date of 1996 Amendment
 

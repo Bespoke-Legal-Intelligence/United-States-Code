@@ -64,7 +64,7 @@ Historical and Revision Notes
 
 This chapter restates 49:508 and the relevant definitions in 49:501 because the subject matter more appropriately belongs in subtitle III of title 49. The text of 49:501(a)(1) is restated to incorporate the definitions in 49:10102. The terms defined in 49:501(a)(2) and (3) are not used in this chapter.
 
-In clause (2), the word “including” is substituted for “For purposes of this paragraph . . . shall be treated as a beneficial owner of such property” for consistency and to eliminate unnecessary words. The words “is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property” are substituted for “providing or arranging for any portion of intermodal transportation of property shall in no case be a beneficial owner of such property, for purposes of this paragraph, solely by reason of providing or arranging for such transportation” to eliminate unnecessary words.
+In clause (2), the word “including” is substituted for “For purposes of this paragraph . . . shall be treated asa beneficial owner of such property” for consistency and to eliminate unnecessary words. The words “is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property” are substituted for “providing or arranging for any portion of intermodal transportation of property shall in no case be a beneficial owner of such property, for purposes of this paragraph, solely by reason of providing or arranging for such transportation” to eliminate unnecessary words.
 
 In clause (3)(A), the words “(as such terms are defined in section 10102 of this title)” are omitted as unnecessary because of clause (1) of this section.
 

@@ -20,7 +20,7 @@ Membership.—
 
 Voting members.—The Advisory Committee shall consist of 7 members appointed by the Secretary of the Treasury—
 
-&emsp;&emsp;&emsp;(i) 3 of whom shall be appointed from among individuals specially qualified to serve on the committee by reason of their education, training, or experience in art, art history, museum or numismatic collection curation, or numismatics;
+&emsp;&emsp;&emsp;(i) 3 of whom shall be appointed from among individuals specially qualified to serve on the committee by reason of their education, training, or experience in art,art history, museum or numismatic collection curation, or numismatics;
 
 &emsp;&emsp;&emsp;(ii) 1 of whom shall be appointed from among officers or employees of the United States Mint who will represent the interests of the Mint; and
 
@@ -56,7 +56,7 @@ No compensation.—Members of the Advisory Committee shall serve without pay.
 
 &emsp;&emsp;(B)
 
-Travel expenses.—Members of the Advisory Committee shall be entitled to receive travel or transportation expenses, or aper diem allowance in lieu of expenses, while away from such member's home or place of business in connection with such member's service on the Advisory Committee.
+Travel expenses.—Members of the Advisory Committee shall be entitled to receive travel or transportation expenses, or a per diem allowance in lieu of expenses, while away from such member's home or place of business in connection with such member's service on the Advisory Committee.
 
 &emsp;(6)
 

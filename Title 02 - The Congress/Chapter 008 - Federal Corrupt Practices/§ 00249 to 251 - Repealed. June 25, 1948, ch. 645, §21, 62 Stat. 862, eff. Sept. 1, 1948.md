@@ -1,6 +1,6 @@
 ### §§249 to 251. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948
 
-Section 249, act Feb. 28, 1925, ch. 368, title III, §310, 43 Stat. 1073, related to promises or pledges by candidates.See section 599 of Title 18, Crimes and Criminal Procedure.
+Section 249, act Feb. 28, 1925, ch. 368, title III, §310, 43 Stat. 1073, related to promises or pledges by candidates. See section 599 of Title 18, Crimes and Criminal Procedure.
 
 Section 250, act Feb. 28, 1925, ch. 368, title III, §311, 43 Stat. 1073, related to expenditures to influence voting. See section 597 of Title 18.
 

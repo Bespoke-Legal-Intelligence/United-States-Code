@@ -4,7 +4,7 @@
 
 (b) For the purpose of computing compensation with respect to cases coming within the purview of section 1701 of this title, the provisions of sections 906 and 910 of title 33 shall be applicable: <i>Provided</i>, That the minimum limit on weekly compensation for disability, established by section 906(b) of title 33, and the minimum limit on the average weekly wages on which death benefits are to be computed, established by section 909(e) of title 33, shall not apply in computing compensation under this subchapter.
 
-(Dec. 2, 1942, ch. 668, title I, §102, 56 Stat. 1031; July 3, 1948, ch. 826, §4(c), 62 Stat. 1242; Aug. 8, 1958, Pub. L. 85–608, title I, §102, 72 Stat. 536; Sept. 28, 1984, Pub. L. 98–426, §27(d)(2), 98 Stat. 1654.)
+(Dec. 2, 1942, ch. 668, title I, §102, 56 Stat. 1031; July 3, 1948, ch. 826, §4(c), 62 Stat. 1242; Pub. L. 85–608, title I, §102, Aug. 8, 1958, 72 Stat. 536; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 #### References in Text
 

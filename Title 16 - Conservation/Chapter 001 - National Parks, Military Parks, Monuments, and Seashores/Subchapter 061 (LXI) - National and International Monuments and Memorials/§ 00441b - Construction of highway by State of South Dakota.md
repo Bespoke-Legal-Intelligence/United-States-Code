@@ -2,7 +2,7 @@
 
 The establishment of said park is conditioned upon the State of South Dakota first constructing the following highway in a manner satisfactory to the Secretary of the Interior: A highway commencing at the corporation limits of the town of Interior, thence going in a northwesterly direction to and over Big Foot Pass, and through the region known as The Pinnacles; thence in a westerly direction to Sage Creek, being a total distance of about thirty miles.
 
-(Mar. 4, 1929, ch. 693, §3, 45 Stat. 1555; Nov. 10, 1978, Pub. L. 95–625, title VI, §611, 92 Stat. 3521.)
+(Mar. 4, 1929, ch. 693, §3, 45 Stat. 1555; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
 #### Change of Name
 

@@ -22,7 +22,7 @@
 
 &emsp;(4) may include such other provisions as the Executive Director determines appropriate to carry out this section.
 
-(c) Any amounts required to be paid by an employing agency under this section shall be paid from the appropriation or fund available to the employing agency for payment of salaries of the participant's office or establishment. If a participant in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the amount required to be paid to correct errors relating to the Thrift Savings Fund that otherwise would be paid from the appropriation or fund used to pay the participant.
+(c) Any amounts required to be paid by an employing agency under this section shall be paidfrom the appropriation or fund available to the employing agency for payment of salaries of the participant's office or establishment. If a participant in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the amount required to be paid to correct errors relating to the Thrift Savings Fund that otherwise would be paid from the appropriation or fund used to pay the participant.
 
 (Added Pub. L. 101–335, §2(a)(1), July 17, 1990, 104 Stat. 319; amended Pub. L. 104–186, title II, §215(17), Aug. 20, 1996, 110 Stat. 1746.)
 

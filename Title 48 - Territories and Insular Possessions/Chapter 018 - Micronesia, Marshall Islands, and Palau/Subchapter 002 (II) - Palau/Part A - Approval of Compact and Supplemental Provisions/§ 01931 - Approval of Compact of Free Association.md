@@ -14,7 +14,7 @@ Any reference in this joint resolution to the “Compact” shall be treated as 
 
 (2) The provisions of paragraph (1) shall apply—
 
-&emsp;(A) to all actions of the Government of the United States under the Compact including, but not limited to, actions taken pursuant to sections 431, 432, 441, or 442;
+&emsp;(A) to all actions of the Government of the United States under the Compact including,but not limited to, actions taken pursuant to sections 431, 432, 441, or 442;
 
 &emsp;(B) to any amendment, change, or termination in any agreement that may be concluded at any time between the Government of the United States and the Government of Palau regarding friendship, cooperation and mutual security concluded pursuant to sections 321 and 323 of the Compact referred to in section 462(h);
 
@@ -240,7 +240,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 144
 
-“(a) A citizen or national of the United States who, after notification to the Government of the United States of an intention to employ such person by theGovernment of Palau, commences employment with that Government shall not be deprived of his United States nationality pursuant to Section 349(a)(2) and (a)(4) of the Immigration and Nationality Act, 8 U.S.C. 1481(a)(2) and (a)(4).
+“(a) A citizen or national of the United States who, after notification to the Government of the United States of an intention to employ such person by the Government of Palau, commences employment with that Government shall not be deprived of his United States nationality pursuant to Section 349(a)(2) and (a)(4) of the Immigration and Nationality Act, 8 U.S.C. 1481(a)(2) and (a)(4).
 
 “(b) Upon such notification by the Government of Palau, the Government of the United States may consult with or provide information to the notifying Government concerning the prospective employee, subject to the provisions of the Privacy Act, 5 U.S.C. 552a.
 
@@ -302,7 +302,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 171
 
-“Except as provided in this Compact or its related agreements, the application of the laws of the UnitedStates to the Trust Territory of the Pacific Islands by virtue of the Trusteeship Agreement ceases with respect to Palau as of the effective date of this Compact.
+“Except as provided in this Compact or its related agreements, the application of the laws of the United States to the Trust Territory of the Pacific Islands by virtue of the Trusteeship Agreement ceases with respect to Palau as of the effective date of this Compact.
 
 #### “Section 172
 
@@ -424,7 +424,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 &emsp;“(1) the annual amount of $2 million which shall be allocated in accordance with the provisions of the separate agreement referred to in Section 232; and
 
-&emsp;“(2) the sums of $4.3 million, $2.9 million and $1.5 million, respectively, during the first, second and third years after the effective date of this Compact, which sums shall be used by the Government of Palau as current account funds to finance programs similar to those programs of the United States that applied to Palau prior to the effective date of this Compactand that provided financial assistance for education to any institution, agency, organization or permanent resident of Palau or to the College of Micronesia.
+&emsp;“(2) the sums of $4.3 million, $2.9 million and $1.5 million, respectively, during the first, second and third years after the effective date of this Compact, which sums shall be used by the Government of Palau as current account funds to finance programs similar to those programs of the United States that applied to Palau prior to the effective date of this Compact and that provided financial assistance for education to any institution, agency, organization or permanent resident of Palau or to the College of Micronesia.
 
 “(c) The Government of the United States shall make available to Palau such alternate energy development projects, studies and conservation measures as are applicable to the Trust Territory of the Pacific Islands on the day preceding the effective date of this Compact, for the purposes and duration provided in the laws of the United States.
 
@@ -486,7 +486,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “The President of the United States shall proclaim the following tariff treatment for articles imported from Palau which shall apply during the period of effectiveness of this Title:
 
-“(a) Unless otherwise excluded, articles imported from Palau, subject to the limitations imposed undersections 503(b) and 504(c) of title 5 of the Trade Act of 1974 (19 U.S.C. 2463(b): 2464(c)), shall be exempt from duty.
+“(a) Unless otherwise excluded, articles imported from Palau, subject to the limitations imposed under sections 503(b) and 504(c) of title 5 of the Trade Act of 1974 (19 U.S.C. 2463(b): 2464(c)), shall be exempt from duty.
 
 “(b) Only canned tuna provided for in item 112.30 of the Tariff Schedules of the United States that is imported from the Federated States of Micronesia, the Marshall Islands and Palau during any calendar year not to exceed 10 percent of the United States consumption of canned tuna during the immediately preceding calendar year, as reported by the National Marine Fisheries Service, shall be exempt from duty; but the quantity of tuna given duty free treatment under this paragraph for any calendar year shall be counted against the aggregate quantity of canned tuna that is dutiable under rate column numbered 1 of such item 112.30 for that calendar year.
 
@@ -530,7 +530,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 &emsp;“(2) relief in the form of the exclusion under section 911 of the United States Internal Revenue Code of 1954.
 
-“(b) If the Government of Palau subjects income to taxation substantially similar to that imposed by the Trust Territory Code in effect on January 1, 1980, such Government shall be deemed to have exercised the authority described in Section 254(a).
+“(b) If the Government of Palau subjects income to taxation substantially similar to that imposed by theTrust Territory Code in effect on January 1, 1980, such Government shall be deemed to have exercised the authority described in Section 254(a).
 
 #### “Section 255
 
@@ -688,7 +688,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) An arbitration board shall consist of a chairman and two other members, each of whom shall be a citizen of a party to the dispute and each of the two parties to the dispute shall appoint one member to the arbitration board. If either party to the dispute does not fulfill the appointment requirements of this Section within 30 days of referral of the dispute to arbitration pursuant to Section 423, its member on the arbitration board shall be selected from its own standing list by the other party to the dispute. Each government shall maintain a standing list of 10 candidates. The parties to the dispute shall jointly appoint a chairman within 15 days after selection of the other members of the arbitration board. Failing agreement on a chairman, the chairman shall be chosen by lot from the standing lists of the parties to the dispute within 5 days after such failure.
 
-“(b) The arbitration board shall have jurisdiction to hear and render its final determination on all disputes arising exclusively under Articles I, II, III, IV, and VI of Title One, Title Two, Title Four and their related agreements.
+“(b) The arbitration board shall have jurisdiction to hear and render its final determination on all disputesarising exclusively under Articles I, II, III, IV, and VI of Title One, Title Two, Title Four and their related agreements.
 
 “(c) Each member of the arbitration board shall have one vote. Each decision of the arbitration board shall be reached by majority vote.
 
@@ -706,7 +706,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 432
 
-“Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact andits related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
+“Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact and its related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
 
 #### “Article IV
 
@@ -864,7 +864,7 @@ On January 10, 1986, the Government of the United States and the Government of P
 
 In Palau the Compact has been approved by the Government in accordance with its constitutional processes and by a United Nations-observed plebiscite on November 9, 1993, a sovereign act of self-determination. In the United States the Compact was approved by Public Law 99–658 of November 14, 1986 \[48 U.S.C. 1931 et seq.\], and Public Law 101–219 of December 12, 1989 \[48 U.S.C. 1951 et seq.\].
 
-On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for theTrusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
+On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for the Trusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
 
 On July 15, 1994, the Government of the United States and the Government of the Republic of Palau agreed, pursuant to section 411 of the Compact of Free Association, that as between the United States and the Republic of Palau, the effective date of the Compact shall be October 1, 1994.
 
@@ -884,7 +884,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1951, 1955, 1972 of this title; title 20 sections 1102, 1201a, 2322, 2471.
+This section is referred to in sections 1951, 1955, 1972 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

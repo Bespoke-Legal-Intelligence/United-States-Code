@@ -20,3 +20,7 @@
 
 Subsec. (b). Pub. L. 98–525, §1405(39)(C), (D), designated second sentence as subsec. (b) and substituted “this section shall” for “this provision will” and “Committees on Armed Services” for “Armed Services Committees”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

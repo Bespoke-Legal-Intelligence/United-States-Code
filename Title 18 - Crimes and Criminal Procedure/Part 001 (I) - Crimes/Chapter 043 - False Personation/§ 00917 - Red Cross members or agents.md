@@ -2,7 +2,7 @@
 
 Whoever, within the United States, falsely or fraudulently holds himself out as or represents or pretends himself to be a member of or an agent for the American National Red Cross for the purpose of soliciting, collecting, or receiving money or material, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 743; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

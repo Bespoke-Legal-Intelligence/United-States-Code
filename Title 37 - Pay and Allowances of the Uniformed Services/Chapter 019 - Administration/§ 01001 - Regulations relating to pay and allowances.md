@@ -1,6 +1,6 @@
 ### §1001. Regulations relating to pay and allowances
 
-(a) A Secretary of a military department may not prescribe a regulation under this title or anyother law, relating to the pay and allowances of members of an armed force under that department, unless it has been approved under procedures prescribed by the Secretary of Defense.
+(a) A Secretary of a military department may not prescribe a regulation under this title or any other law, relating to the pay and allowances of members of an armed force under that department, unless it has been approved under procedures prescribed by the Secretary of Defense.
 
 (b) Regulations of the Secretary concerned relating to pay and allowances matters, similar to those covered by subsection (a), for members of the Coast Guard, the National Oceanic and Atmospheric Administration, and the Public Health Service, shall, as far as practicable, conform to regulations approved under that subsection.
 
@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §534; added Sept. 2, 1957, Pub. L. 85–272, §4, 71 Stat. 597.
 
-In subsection (a), the words “within the Department of Defense” are omitted as surplusage. The words “members of the armed forces” are substituted for the words “military personnel”.
+In subsection (a), the words “within the Department of Defense” are omitted as surplusage. The words“members of the armed forces” are substituted for the words “military personnel”.
 
 In subsection (b), the words “conform to” are substituted for the words “agree with”.
 

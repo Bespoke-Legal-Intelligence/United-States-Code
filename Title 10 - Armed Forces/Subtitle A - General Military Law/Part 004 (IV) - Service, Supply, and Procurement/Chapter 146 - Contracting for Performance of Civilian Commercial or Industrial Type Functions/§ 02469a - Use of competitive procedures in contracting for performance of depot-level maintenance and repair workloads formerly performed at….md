@@ -22,7 +22,7 @@ Covered Depot-Level Maintenance and Repair Workloads.—Except as provided in su
 
 Exceptions.—This section shall not apply with respect to—
 
-&emsp;(1) a depot-level maintenance and repair workload that is to be consolidated to another military installation (other than a closed or realigned military installation) as a result of a base closure or realignment action or a decision made by the Secretary concerned or the Defense Depot Maintenance Council;
+&emsp;(1) a depot-level maintenance and repair workload that is to be consolidated to another military installation (other than a closed or realigned military installation) as a result ofa base closure or realignment action or a decision made by the Secretary concerned or the Defense Depot Maintenance Council;
 
 &emsp;(2) a workload necessary to maintain a core logistics capability identified under section 2464 of this title; or
 

@@ -32,7 +32,7 @@ The Center shall conduct the following activities:
 
 &emsp;(3) Publish materials, disseminate information, and conduct seminars and conferences to support and educate representatives from countries in the Western Hemisphere who seek to do business with or invest in other Western Hemisphere countries.
 
-&emsp;(4) Provide grants, fellowships, endowed chairs, and financial assistance to outstandingscholars and authorities from Western Hemisphere countries.
+&emsp;(4) Provide grants, fellowships, endowed chairs, and financial assistance to outstanding scholars and authorities from Western Hemisphere countries.
 
 &emsp;(5) Provide grants, fellowships, and other financial assistance to qualified graduate students, from Western Hemisphere countries, to study at the Center.
 

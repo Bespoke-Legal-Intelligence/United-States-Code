@@ -2,7 +2,7 @@
 
 The Secretary of the Interior shall cause to be erected in Yellowstone National Park a suitable building to be used as a jail, and also having in said building an office for the use of the United States magistrate judge.
 
-(May 7, 1894, ch. 72, §9, 28 Stat. 75; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117.)
+(May 7, 1894, ch. 72, §9, 28 Stat. 75; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Codification
 

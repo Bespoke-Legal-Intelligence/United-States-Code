@@ -6,7 +6,7 @@ Subject to regulations under section 205 of the Federal Property and Administrat
 
 &emsp;(2) surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 262; Dec. 12, 1980, Pub. L. 96–513, title V, §512(19), 94 Stat. 2930.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 262; Pub. L. 96–513, title V, §512(19), Dec. 12, 1980, 94 Stat. 2930.)
 
 Historical and Revision Notes
 

@@ -1,6 +1,6 @@
 ### §4103A. Disabled veterans’ outreach program
 
-(a)(1) The amount of funds made available for use in a State under section 4102A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans. Each such specialist shall be a qualified veteran. Preference shall be given in the appointment of such specialists to qualified disabled veterans of the Vietnam era. If the Secretary finds that a qualified disabled veteran of the Vietnam era is not available for any such appointment, preference for such appointment shall be given to other qualified disabled veterans. If the Secretary finds that no qualified disabled veteran is available for such appointment, such appointment may be given to any qualified veteran. Each such specialist shall be compensated at rates comparable to those paid other professionals performing essentially similar duties in the State government of the State concerned.
+(a)(1) The amount of funds made available for use in a State under section 4102A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 7,400 veterans who are between the ages of 20 and 64 residing in such State. Each such specialist shall be a qualified veteran. Preference shall be given in the appointment of such specialists to qualified disabled veterans. If the Secretary finds that no qualified disabled veteran is available for such appointment, such appointment may be given to any qualified veteran. Each such specialist shall be compensated at rates comparable to those paid other professionals performing essentially similar duties in the State government of the State concerned.
 
 (2) Specialists appointed pursuant to this subsection shall be in addition to and shall not supplant employees assigned to local employment service offices pursuant to section 4104 of this title.
 
@@ -22,9 +22,9 @@
 
 &emsp;(2) Pursuant to regulations prescribed by the Secretary after consultation with the Secretary of Veterans Affairs, promotion and development of apprenticeship and other on-job training positions pursuant to section 3687 of this title.
 
-&emsp;(3) The carrying out of outreach activities to locate such veterans through contacts with local veterans organizations, the Departmentof Veterans Affairs, the State employment service agency and local employment service offices, and community-based organizations.
+&emsp;(3) The carrying out of outreach activities to locate such veterans through contacts with local veterans organizations, the Department of Veterans Affairs, the State employment service agency and local employment service offices, and community-based organizations.
 
-&emsp;(4) Provision of appropriate assistance to community-based groups and organizations and appropriate grantees under other Federal and federally funded employment and training programs (including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.)) in providing services to such veterans.
+&emsp;(4) Provision of appropriate assistance to community-based groups and organizations and appropriate grantees under other Federal and federally funded employment and training programs including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998 in providing services to such veterans.
 
 &emsp;(5) Provision of appropriate assistance to local employment service office employees with responsibility for veterans in carrying out their responsibilities pursuant to this chapter.
 
@@ -38,15 +38,25 @@
 
 &emsp;(10) Provision of services as a case manager under section 14(b)(1)(A) of the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note).
 
-(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674.)
+(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364.)
+
+#### Amendment of Subsection (c)(4)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(21)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (c)(4) is amended by striking “part C of title IV of the Job Training Partnership Act and”.</i>
 
 #### References in Text
 
 The Job Training Partnership Act, referred to in subsec. (c)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part C of title IV of the Job Training Partnership Act is classified generally to part C (§1721) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Veterans’ Job Training Act, referred to in subsec. (c)(6), (10), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+The Veterans’ Job Training Act, referred to in subsec. (c)(6), (10), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–368, in first sentence, substituted “for each 7,400 veterans who are between the ages of 20 and 64 residing in such State.” for “for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.”, in third sentence, struck out “of the Vietnam era” after “disabled veterans”, and struck out after third sentence “If the Secretary finds that a qualified disabled veteran of the Vietnam era is not available for any such appointment, preference for such appointment shall be given to other qualified disabled veterans.”
+
+Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted “including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446 substituted “rates comparable to those paid other professionals performing essentially similar duties” for “a rate not less than the rate prescribed for an entry level professional”.
 
@@ -102,6 +112,12 @@ Subsec. (c)(8). Pub. L. 97–306, §305(c)(2), added par. (8).
 
 Subsecs. (d), (e). Pub. L. 97–306, §305(d), redesignated subsec. (e) as (d) and inserted provision that the Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsec. (a)(2) of this section with respect to the employment of such specialists. Former subsec. (d), which provided that persons serving as staff in the disabled veterans outreach program conducted under title III of the Comprehensive Employment and Training Act on the date of enactment of this section would be appointed as disabled veterans’ outreach program specialists in the State in which such individual was so serving, unless the Secretary for good cause shown determined that such individual was not qualified for such appointment, was struck out.
 
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–368, title X, §1004(b), Nov. 11, 1998, 112 Stat. 3364, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to appointments of disabled veterans’ outreach program specialists under section 4103A of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 11, 1998\].”
+
+Amendment by section 101(f) \[title VIII, §405(d)(29)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(21)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by sections 2(e)(1)(B) and 15(c)(1) of Pub. L. 100–323 effective May 20, 1988, amendment by section 2(e)(1)(A) of Pub. L. 100–323 effective for all of fiscal year 1988 and subsequent fiscal years, and amendment by section 7(b) of Pub. L. 100–323 effective on 60th day after May 20, 1988, see section 16(a), (b)(1)(B), (2) of Pub. L. 100–323, set out as a note under section 3104 of this title.
@@ -112,9 +128,9 @@ Section effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out 
 
 #### Cross References
 
-Employment programs for disabled veterans under Job Training Partnership Act, see section 1721 of Title 29, Labor.
+Workforce investment programs for disabled veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3117, 3672, 4102A, 4104A, 4106, 4107 of this title; title 29 section 1721.
+This section is referred to in sections 3117, 3672, 4102A, 4104A, 4106, 4107 of this title; title 29 sections 1721, 2913.
 

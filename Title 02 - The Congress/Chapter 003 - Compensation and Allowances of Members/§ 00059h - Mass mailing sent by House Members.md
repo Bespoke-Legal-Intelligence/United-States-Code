@@ -36,5 +36,9 @@ This section shall apply with respect to sessions of Congress beginning after Se
 
 Section is from the Legislative Branch Appropriations Act, 1997.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 &nbsp;
 

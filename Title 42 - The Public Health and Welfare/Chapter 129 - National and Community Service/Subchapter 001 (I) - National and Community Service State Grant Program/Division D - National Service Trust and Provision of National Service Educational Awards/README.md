@@ -6,7 +6,7 @@ Subtitle D of title I of Pub. L. 101–610, comprising this division, was former
 
 #### Division Referred to in Other Sections
 
-This division is referred to in sections 4955, 12521, 12561, 12571, 12572, 12573, 12581, 12582, 12585, 12593, 12595, 12618, 12638, 12656, 12681 of this title; title 16 section 1727; title 20 sections 1078–10, 1087ee.
+This division is referred to in sections 4955, 12521, 12561, 12571, 12572, 12573, 12581, 12582, 12585, 12593, 12595, 12618, 12638, 12656, 12681 of this title; title 16 section 1727; title 20 sections 1078–10, 1078–11, 1087j, 1087ee.
 
 
 ---

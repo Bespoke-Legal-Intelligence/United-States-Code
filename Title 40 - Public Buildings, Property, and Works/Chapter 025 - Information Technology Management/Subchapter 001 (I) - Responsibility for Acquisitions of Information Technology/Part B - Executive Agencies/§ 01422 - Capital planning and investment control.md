@@ -18,7 +18,7 @@ The process of an executive agency shall—
 
 &emsp;(5) provide for identifying for a proposed investment quantifiable measurements for determining the net benefits and risks of the investment; and
 
-&emsp;(6) provide the means for senior management personnel of the executive agency to obtain timely information regarding the progress of an investment in an information system, including a system of milestones for measuring progress, on an independently verifiable basis, in terms of cost, capability of the system to meet specified requirements, timeliness, and quality.
+&emsp;(6) provide the means for senior management personnel of the executive agency to obtaintimely information regarding the progress of an investment in an information system, including a system of milestones for measuring progress, on an independently verifiable basis, in terms of cost, capability of the system to meet specified requirements, timeliness, and quality.
 
 (Pub. L. 104–106, div. E, title LI, §5122, Feb. 10, 1996, 110 Stat. 683.)
 

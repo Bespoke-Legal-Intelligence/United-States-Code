@@ -14,7 +14,7 @@ Program Authorized.—The Secretary of Defense may establish at the University a
 
 (c)
 
-TriService Research Group.—The TriService Nursing Research Program shall beadministered by a TriService Nursing Research Group composed of Army, Navy, and Air Force nurses who are involved in military nursing research and are designated by the Secretary concerned to serve as members of the group.
+TriService Research Group.—The TriService Nursing Research Program shall be administered by a TriService Nursing Research Group composed of Army, Navy, and Air Force nurses who are involved in military nursing research and are designated by the Secretary concerned to serve as members of the group.
 
 (d)
 

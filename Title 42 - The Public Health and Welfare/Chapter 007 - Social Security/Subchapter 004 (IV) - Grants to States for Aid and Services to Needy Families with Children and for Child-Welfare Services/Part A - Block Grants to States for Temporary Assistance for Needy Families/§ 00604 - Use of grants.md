@@ -20,7 +20,7 @@ Subject to this part, a State to which a grant is made under section 603 of this
 
 #### (c) Authority to treat interstate immigrants under rules of former State
 
-A State operating a program funded under this part may apply to a family the rules (includingbenefit amounts) of the program funded under this part of another State if the family has moved to the State from the other State and has resided in the State for less than 12 months.
+A State operating a program funded under this part may apply to a family the rules (including benefit amounts) of the program funded under this part of another State if the family has moved to the State from the other State and has resided in the State for less than 12 months.
 
 #### (d) Authority to use portion of grant for other purposes
 
@@ -34,7 +34,13 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (2) Limitation on amount transferable to subchapter XX programs
 
-&emsp;A State may use not more than 10 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.
+#### (A) In general
+
+&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.
+
+#### (B) Applicable percent
+
+&emsp;&emsp;For purposes of subparagraph (A), the applicable percent is 4.25 percent in the case of fiscal year 2001 and each succeeding fiscal year.
 
 #### (3) Applicable rules
 
@@ -56,7 +62,7 @@ A State to which a grant is made under section 603 of this title may use the gra
 
 #### (g) Implementation of electronic benefit transfer system
 
-A State to which a grant is made under section 603 of this title is encouraged to implement an electronic benefit transfer system for providing assistance under the State program funded under this part, and may use the grant for such purpose.
+A State to which a grant is made under section 603 of this title is encouraged to implementan electronic benefit transfer system for providing assistance under the State program funded under this part, and may use the grant for such purpose.
 
 #### (h) Use of funds for individual development accounts
 
@@ -178,9 +184,39 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (j) Requirement for high school diploma or equivalent
 
-A State to which a grant is made under section 603 of this title shall not be prohibited fromsanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the food stamp program, as defined in section 2012(h) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the food stamp program, as defined in section 2012(h) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 
-(Aug. 14, 1935, ch. 531, title IV, §404, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2124; amended Aug. 5, 1997, Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), 111 Stat. 593, 609, 620.)
+#### (k) Limitations on use of grant for matching under certain Federal transportation program
+
+#### (1) Use limitations
+
+&emsp;A State to which a grant is made under section 603 of this title may not use any part of the grant to match funds made available under section 3037 of the Transportation Equity Act for the 21st Century, unless—
+
+&emsp;&emsp;(A) the grant is used for new or expanded transportation services (and not for construction) that benefit individuals described in subparagraph (C), and not to subsidize current operating costs;
+
+&emsp;&emsp;(B) the grant is used to supplement and not supplant other State expenditures on transportation;
+
+&emsp;&emsp;(C) the preponderance of the benefits derived from such use of the grant accrues to individuals who are—
+
+&emsp;&emsp;&emsp;(i) recipients of assistance under the State program funded under this part;
+
+&emsp;&emsp;&emsp;(ii) former recipients of such assistance;
+
+&emsp;&emsp;&emsp;(iii) noncustodial parents who are described in item (aa) or (bb) of section 603(a)(5)(C)(ii)(II) of this title; and
+
+&emsp;&emsp;&emsp;(iv) low-income individuals who are at risk of qualifying for such assistance; and
+
+&emsp;&emsp;(D) the services provided through such use of the grant promote the ability of such recipients to engage in work activities (as defined in section 607(d) of this title).
+
+#### (2) Amount limitation
+
+&emsp;From a grant made to a State under section 603(a) of this title, the amount that a State uses to match funds described in paragraph (1) of this subsection shall not exceed the amount (if any) by which 30 percent of the total amount of the grant exceeds the amount (if any) of the grant that is used by the State to carry out any State program described in subsection (d)(1) of this section.
+
+#### (3) Rule of interpretation
+
+&emsp;The provision by a State of a transportation benefit under a program conducted under section 3037 of the Transportation Equity Act for the 21st Century, to an individual who is not otherwise a recipient of assistance under the State program funded under this part, using funds from a grant made under section 603(a) of this title, shall not be considered to be the provision of assistance to the individual under the State program funded under this part.
+
+(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670.)
 
 #### References in Text
 
@@ -190,11 +226,23 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), (3)(B)(i), (4), (5)(I), is classified generally to Title 26, Internal Revenue Code.
 
+Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar to those in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
+
+Section 1141(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
+
+Section 2471 of title 20, referred to in subsec. (h)(5)(A)(ii), was omitted in the general amendment of chapter 44 (§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+
+Section 3037 of the Transportation Equity Act for the 21st Century, referred to in subsec. (k)(1), (3), is section 3037 of Pub. L. 105–178, title III, June 9, 1998, 112 Stat. 387, which is set out as a note under section 5309 of Title 49, Transportation.
+
 #### Prior Provisions
 
 A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+1998—Subsec. (d)(2). Pub. L. 105–178 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A State may use not more than 10 percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.”
+
+Subsec. (k). Pub. L. 105–200 added subsec. (k).
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -203,6 +251,10 @@ Subsec. (a)(2). Pub. L. 105–33, §5503, inserted “, or (at the option of th
 Subsec. (d)(1). Pub. L. 105–33, §5002(a)(1), substituted “Subject to paragraph (2), a State may” for “A State may”.
 
 Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (1), not more than 1/3 of the total amount paid to a State under this part for a fiscal year that is used to carry out State programs pursuant to provisions of law specified in paragraph (1) may be used to carry out State programs pursuant to subchapter XX of this chapter.”
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–178, title VIII, §8401(c), June 9, 1998, 112 Stat. 499, provided that: “The amendments made by this section \[amending this section and section 1397b of this title\] take effect on October 1, 1998.”
 
 #### Effective Date of 1997 Amendment
 
@@ -215,6 +267,558 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+
+#### Assets for Independence
+
+Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, provided that:
+
+#### “SEC. 401. SHORT TITLE.
+
+“This title may be cited as the ‘Assets for Independence Act’.
+
+#### “SEC. 402. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) Economic well-being does not come solely from income, spending, and consumption, but also requires savings, investment, and accumulation of assets because assets can improve economic independence and stability, connect individuals with a viable and hopeful future, stimulate development of human and other capital, and enhance the welfare of offspring.
+
+&emsp;“(2) Fully 1/2 of all Americans have either no, negligible, or negative assets available for investment, just as the price of entry to the economic mainstream, the cost of a house, an adequate education, and starting a business, is increasing. Further, the household savings rate of the United States lags far behind other industrial nations, presenting a barrier to economic growth.
+
+&emsp;“(3) In the current tight fiscal environment, the United States should invest existing resources in high-yield initiatives. There is reason to believe that the financial returns, including increased income, tax revenue, and decreased welfare cash assistance, resulting from individual development accounts will far exceed the cost of investment in those accounts.
+
+&emsp;“(4) Traditional public assistance programs concentrating on income and consumption have rarely been successful in promoting and supporting the transition to increased economic self-sufficiency. Income-based domestic policy should be complemented with asset-based policy because, while income-based policies ensure that consumption needs (including food, child care, rent, clothing, and health care) are met, asset-based policies provide the means to achieve greater independence and economic well-being.
+
+#### “SEC. 403. PURPOSES.
+
+“The purposes of this title are to provide for the establishment of demonstration projects designed to determine—
+
+&emsp;“(1) the social, civic, psychological, and economic effects of providing to individuals and families with limited means an incentive to accumulate assets by saving a portion of their earned income;
+
+&emsp;“(2) the extent to which an asset-based policy that promotes saving for postsecondary education, homeownership, and microenterprise development may be used to enable individuals and families with limited means to increase their economic self-sufficiency; and
+
+&emsp;“(3) the extent to which an asset-based policy stabilizes and improves families and the community in which the families live.
+
+#### “SEC. 404. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1)
+
+Applicable period.—The term ‘applicable period’ means, with respect to amounts to be paid from a grant made for a project year, the calendar year immediately preceding the calendar year in which the grant is made.
+
+&emsp;“(2)
+
+Eligible individual.—The term ‘eligible individual’ means an individual who is selected to participate in a demonstration project by a qualified entity under section 409.
+
+&emsp;“(3)
+
+Emergency withdrawal.—The term ‘emergency withdrawal’ means a withdrawal by an eligible individual that—
+
+&emsp;&emsp;“(A) is a withdrawal of only those funds, or a portion of those funds, deposited by the individual in the individual development account of the individual;
+
+&emsp;&emsp;“(B) is permitted by a qualified entity on a case-by-case basis; and
+
+&emsp;&emsp;“(C) is made for—
+
+&emsp;&emsp;&emsp;“(i) expenses for medical care or necessary to obtain medical care, for the individual or a spouse or dependent of the individual described in paragraph (8)(D);
+
+&emsp;&emsp;&emsp;“(ii) payments necessary to prevent the eviction of the individual from the residence of the individual, or foreclosure on the mortgage for the principal residence of the individual, as defined in paragraph (8)(B); or
+
+&emsp;&emsp;&emsp;“(iii) payments necessary to enable the individual to meet necessary living expenses following loss of employment.
+
+&emsp;“(4)
+
+Household.—The term ‘household’ means all individuals who share use of a dwelling unit as primary quarters for living and eating separate from other individuals.
+
+&emsp;“(5)
+
+Individual development account.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘individual development account’ means a trust created or organized in the United States exclusively for the purpose of paying the qualified expenses of an eligible individual, or enabling the eligible individual to make an emergency withdrawal, but only if the written governing instrument creating the trust contains the following requirements:
+
+&emsp;&emsp;&emsp;“(i) No contribution will be accepted unless the contribution is in cash or by check.
+
+&emsp;&emsp;&emsp;“(ii) The trustee is a federally insured financial institution, or a State insured financial institution if no federally insured financial institution is available.
+
+&emsp;&emsp;&emsp;“(iii) The assets of the trust will be invested in accordance with the direction of the eligible individual after consultation with the qualified entity providing deposits for the individual under section 410.
+
+&emsp;&emsp;&emsp;“(iv) The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
+
+&emsp;&emsp;&emsp;“(v) Except as provided in clause (vi), any amount in the trust that is attributable to a deposit provided under section 410 may be paid or distributed out of the trust only for the purpose of paying the qualified expenses of the eligible individual, or enabling the eligible individual to make an emergency withdrawal.
+
+&emsp;&emsp;&emsp;“(vi) Any balance in the trust on the day after the date on which the individual for whose benefit the trust is established dies shall be distributed within 30 days of that date as directed by that individual to another individual development account established for the benefit of an eligible individual.
+
+&emsp;&emsp;“(B)
+
+Custodial accounts.—For purposes of subparagraph (A), a custodial account shall be treated as a trust if the assets of the custodial account are held by a bank (as defined in section 408(n) of the Internal Revenue Code of 1986 \[26 U.S.C. 408(n)\]) or another person who demonstrates, to the satisfaction of the Secretary, that the manner in which such person will administer the custodial account will be consistent with the requirements of this title, and if the custodial account would, except for the fact that it is not a trust, constitute an individual development account described in subparagraph (A). For purposes of this title, in the case of a custodial account treated as a trust by reason of the preceding sentence, the custodian of that custodial account shall be treated as the trustee of the account.
+
+&emsp;“(6)
+
+Project year.—The term ‘project year’ means, with respect to a demonstration project, any of the 5 consecutive 12-month periods beginning on the date the project is originally authorized to be conducted.
+
+&emsp;“(7)
+
+Qualified entity.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘qualified entity’ means—
+
+&emsp;&emsp;&emsp;“(i) one or more not-for-profit organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of such Code; or
+
+&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an application under section 405 jointly with an organization described in clause (i).
+
+&emsp;&emsp;“(B)
+
+Rule of construction.—Nothing in this paragraph shall be construed as preventing an organization described in subparagraph (A)(i) from collaborating with a financial institution or for-profit community development corporation to carry out the purposes of this title.
+
+&emsp;“(8)
+
+Qualified expenses.—The term ‘qualified expenses’ means one or more of the following, as provided by a qualified entity:
+
+&emsp;&emsp;“(A)
+
+Postsecondary educational expenses.—Postsecondary educational expenses paid from an individual development account directly to an eligible educational institution. In this subparagraph:
+
+&emsp;&emsp;&emsp;“(i)
+
+Postsecondary educational expenses.—The term ‘postsecondary educational expenses’ means the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+Tuition and fees.—Tuition and fees required for the enrollment or attendance of a student at an eligible educational institution.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Fees, books, supplies, and equipment.—Fees, books, supplies, and equipment required for courses of instruction at an eligible educational institution.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Eligible educational institution.—The term ‘eligible educational institution’ means the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+Institution of higher education.—An institution described in section 101 or 102 of theHigher Education Act of 1965 \[20 U.S.C. 1001, 1002\].
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Postsecondary vocational education school.—An area vocational education school (as defined in subparagraph (C) or (D) of section 521(4) of the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2471(4))) which is in any State (as defined in section 521(33) of such Act), as such sections are in effect on the date of enactment of this title \[Oct. 27, 1998\].
+
+&emsp;&emsp;“(B)
+
+First-home purchase.—Qualified acquisition costs with respect to a principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due. In this subparagraph:
+
+&emsp;&emsp;&emsp;“(i)
+
+Principal residence.—The term ‘principal residence’ means a main residence, the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Qualified acquisition costs.—The term ‘qualified acquisition costs’ means the costs of acquiring, constructing, or reconstructing a residence. The term includes any usual or reasonable settlement, financing, or other closing costs.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Qualified first-time homebuyer.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+In general.—The term ‘qualified first-time homebuyer’ means an individual participating in the project involved (and, if married, the individual's spouse) who has no present ownership interest in a principal residence during the 3-year period ending on the date of acquisition of the principal residence to which this subparagraph applies.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Date of acquisition.—The term ‘date of acquisition’ means the date on which a binding contract to acquire, construct, or reconstruct the principal residence to which this subparagraph applies is entered into.
+
+&emsp;&emsp;“(C)
+
+Business capitalization.—Amounts paid from an individual development account directly to a business capitalization account that is established in a federally insured financial institution (or in a State insured financial institution if no federally insured financial institution is available) and is restricted to use solely for qualified business capitalization expenses. In this subparagraph:
+
+&emsp;&emsp;&emsp;“(i)
+
+Qualified business capitalization expenses.—The term ‘qualified business capitalization expenses’ means qualified expenditures for the capitalization of a qualified business pursuant to a qualified plan.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Qualified expenditures.—The term ‘qualified expenditures’ means expenditures included in a qualified plan, including capital, plant, equipment, working capital, and inventory expenses.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Qualified business.—The term ‘qualified business’ means any business that does not contravene any law or public policy (as determined by the Secretary).
+
+&emsp;&emsp;&emsp;“(iv)
+
+Qualified plan.—The term ‘qualified plan’ means a business plan, or a plan to use a business asset purchased, which—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is approved by a financial institution, a microenterprise development organization, or a nonprofit loan fund having demonstrated fiduciary integrity;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) includes a description of services or goods to be sold, a marketing plan, and projected financial statements; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) may require the eligible individual to obtain the assistance of an experienced entrepreneurial adviser.
+
+&emsp;&emsp;“(D)
+
+Transfers to idas of family members.—Amounts paid from an individual development account directly into another such account established for the benefit of an eligible individual who is—
+
+&emsp;&emsp;&emsp;“(i) the individual's spouse; or
+
+&emsp;&emsp;&emsp;“(ii) any dependent of the individual with respect to whom the individual is allowed a deduction under section 151 of the Internal Revenue Code of 1986 \[26 U.S.C. 151\].
+
+&emsp;“(9)
+
+Qualified savings of the individual for the period.—The term ‘qualified savings of the individual for the period’ means the aggregate of the amounts contributed by an individual to the individual development account of the individual during the period.
+
+&emsp;“(10)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services, acting through the Director of Community Services.
+
+&emsp;“(11)
+
+Tribal government.—The term ‘tribal government’ means a tribal organization, as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) or a Native Hawaiian organization, as defined in section 9212 of the Native Hawaiian Education Act (20 U.S.C. 7912).
+
+#### “SEC. 405. APPLICATIONS.
+
+“(a)
+
+Announcement of Demonstration Projects.—Not later than 3 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall publicly announce the availability of funding under this title for demonstration projects and shall ensure that applications to conduct the demonstration projects are widely available to qualified entities.
+
+“(b)
+
+Submission.—Not later than 6 months after the date of enactment of this title, a qualified entity may submit to the Secretary an application to conduct a demonstration project under this title.
+
+“(c)
+
+Criteria.—In considering whether to approve an application to conduct a demonstration project under this title, the Secretary shall assess the following:
+
+&emsp;“(1)
+
+Sufficiency of project.—The degree to which the project described in the application appears likely to aid project participants in achieving economic self-sufficiency through activities requiring one or more qualified expenses.
+
+&emsp;“(2)
+
+Administrative ability.—The experience and ability of the applicant to responsibly administer the project.
+
+&emsp;“(3)
+
+Ability to assist participants.—The experience and ability of the applicant in recruiting, educating, and assisting project participants to increase their economic independence and general well-being through the development of assets.
+
+&emsp;“(4)
+
+Commitment of non-federal funds.—The aggregate amount of direct funds from non-Federal public sector and from private sources that are formally committed to the project as matching contributions.
+
+&emsp;“(5)
+
+Adequacy of plan for providing information for evaluation.—The adequacy of the plan for providing information relevant to an evaluation of the project.
+
+&emsp;“(6)
+
+Other factors.—Such other factors relevant to the purposes of this title as the Secretary may specify.
+
+“(d)
+
+Preferences.—In considering an application to conduct a demonstration project under this title, the Secretary shall give preference to an application that—
+
+&emsp;“(1) demonstrates the willingness and ability to select individuals described in section 408 who are predominantly from households in which a child (or children) is living with the child's biological or adoptive mother or father, or with the child's legal guardian;
+
+&emsp;“(2) provides a commitment of non-Federal funds with a proportionately greater amount of such funds committed from private sector sources; and
+
+&emsp;“(3) targets such individuals residing within one or more relatively well-defined neighborhoods or communities (including rural communities) that experience high rates of poverty or unemployment.
+
+“(e)
+
+Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate, taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to the maximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
+
+“(f)
+
+Contracts With Nonprofit Entities.—The Secretary may contract with an entity described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of such Code to carry out any responsibility of the Secretary under this section or section 412 if—
+
+&emsp;“(1) such entity demonstrates the ability to carry out such responsibility; and
+
+&emsp;“(2) the Secretary can demonstrate that such responsibility would not be carried out by the Secretary at a lower cost.
+
+“(g)
+
+Grandfathering of Existing Statewide Programs.—Any statewide individual asset-building program that is carried out in a manner consistent with the purposes of this title, that is established under State law as of the date of enactment of this Act \[Oct. 27, 1998\], and that as of such date is operating with an annual State appropriation of not less than $1,000,000 in non-Federal funds, shall be deemed to meet the eligibility requirements of this subtitle \[title\], and the entity carrying out the program shall be deemed to be a qualified entity. The Secretary shall consider funding the statewide program as a demonstration project described in this subtitle \[title\]. In considering the statewide program for funding, the Secretary shall review an application submitted by the entity carrying out such statewide program under this section, notwithstanding the preference requirements listed in subsection (d). Any program requirements under sections 407 through 411 that are inconsistent with State statutory requirements in effect on the date of enactment of this Act, governing such statewide program, shall not apply to the program.
+
+#### “SEC. 406. DEMONSTRATION AUTHORITY; ANNUAL GRANTS.
+
+“(a)
+
+Demonstration Authority.—If the Secretary approves an application to conduct a demonstration project under this title, the Secretary shall, not later than 10 months after the date of enactment of this title \[Oct. 27, 1998\], authorize the applicant to conduct the project for 5 project years in accordance with the approved application and the requirements of this title.
+
+“(b)
+
+Grant Authority.—For each project year of a demonstration project conducted under this title, the Secretary may make a grant to the qualified entity authorized to conduct the project. In making such a grant, the Secretary shall make the grant on the first day of the project year in an amount not to exceed the lesser of—
+
+&emsp;“(1) the aggregate amount of funds committed as matching contributions from non-Federal public or private sector sources; or
+
+&emsp;“(2) $1,000,000.
+
+#### “SEC. 407. RESERVE FUND.
+
+“(a)
+
+Establishment.—A qualified entity under this title, other than a State or local government agency or a tribal government, shall establish a Reserve Fund that shall be maintained in accordance with this section.
+
+“(b)
+
+Amounts in Reserve Fund.—
+
+&emsp;“(1)
+
+In general.—As soon after receipt as is practicable, a qualified entity shall deposit in the Reserve Fund established under subsection (a)—
+
+&emsp;&emsp;“(A) all funds provided to the qualified entity from any public or private source in connection with the demonstration project; and
+
+&emsp;&emsp;“(B) the proceeds from any investment made under subsection (c)(2).
+
+&emsp;“(2)
+
+Uniform accounting regulations.—The Secretary shall prescribe regulations with respect to accounting for amounts in the Reserve Fund established under subsection (a).
+
+“(c)
+
+Use of Amounts in the Reserve Fund.—
+
+&emsp;“(1)
+
+In general.—A qualified entity shall use the amounts in the Reserve Fund established under subsection (a) to—
+
+&emsp;&emsp;“(A) assist participants in the demonstration project in obtaining the skills (including economic literacy, budgeting, credit, and counseling skills) and information necessary to achieve economic self-sufficiency through activities requiring qualified expenses;
+
+&emsp;&emsp;“(B) provide deposits in accordance with section 410 for individuals selected by the qualified entity to participate in the demonstration project;
+
+&emsp;&emsp;“(C) administer the demonstration project; and
+
+&emsp;&emsp;“(D) provide the research organization evaluating the demonstration project under section 414 with such information with respect to the demonstration project as may be required for the evaluation.
+
+&emsp;“(2)
+
+Authority to invest funds.—
+
+&emsp;&emsp;“(A)
+
+Guidelines.—The Secretary shall establish guidelines for investing amounts in the Reserve Fund established under subsection (a) in a manner that provides an appropriate balance between return, liquidity, and risk.
+
+&emsp;&emsp;“(B)
+
+Investment.—A qualified entity shall invest the amounts in its Reserve Fund that are not immediately needed to carry out the provisions of paragraph (1), in accordance with the guidelines established under subparagraph (A).
+
+&emsp;“(3)
+
+Limitation on uses.—Not more than 9.5 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
+
+“(d)
+
+Unused Federal Grant Funds Transferred to the Secretary When Project Terminates.—Notwithstanding subsection (c), upon the termination of any demonstration project authorized under this section, the qualified entity conducting the project shall transfer to the Secretary an amount equal to—
+
+&emsp;“(1) the amounts in its Reserve Fund at the time of the termination; multiplied by
+
+&emsp;“(2) a percentage equal to—
+
+&emsp;&emsp;“(A) the aggregate amount of grants made to the qualified entity under section 406(b); divided by
+
+&emsp;&emsp;“(B) the aggregate amount of all funds provided to the qualified entity from all sources to conduct the project.
+
+#### “SEC. 408. ELIGIBILITY FOR PARTICIPATION.
+
+“(a)
+
+In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), or that meets each of the following requirements shall be eligible to participate in a demonstration project conducted under this title:
+
+&emsp;“(1)
+
+Income test.—The adjusted gross income of the household does not exceed the earned income amount described in section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\] (taking into account the size of the household).
+
+&emsp;“(2)
+
+Net worth test.—
+
+&emsp;&emsp;“(A)
+
+In general.—The net worth of the household, as of the end of the calendar year preceding the determination of eligibility, does not exceed $10,000.
+
+&emsp;&emsp;“(B)
+
+Determination of net worth.—For purposes of subparagraph (A), the net worth of a household is the amount equal to—
+
+&emsp;&emsp;&emsp;“(i) the aggregate market value of all assets that are owned in whole or in part by any member of the household; minus
+
+&emsp;&emsp;&emsp;“(ii) the obligations or debts of any member of the household.
+
+&emsp;&emsp;“(C)
+
+Exclusions.—For purposes of determining the net worth of a household, a household's assetsshall not be considered to include the primary dwelling unit and one motor vehicle owned by a member of the household.
+
+“(b)
+
+Individuals Unable To Complete the Project.—The Secretary shall establish such regulations as are necessary to ensure compliance with this title if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
+
+#### “SEC. 409. SELECTION OF INDIVIDUALS TO PARTICIPATE.
+
+“From among the individuals eligible to participate in a demonstration project conducted under this title, each qualified entity shall select the individuals—
+
+&emsp;“(1) that the qualified entity determines to be best suited to participate; and
+
+&emsp;“(2) to whom the qualified entity will provide deposits in accordance with section 410.
+
+#### “SEC. 410. DEPOSITS BY QUALIFIED ENTITIES.
+
+“(a)
+
+In General.—Not less than once every 3 months during each project year, each qualified entity under this title shall deposit in the individual development account of each individual participating in the project, or into a parallel account maintained by the qualified entity—
+
+&emsp;“(1) from the non-Federal funds described in section 405(c)(4), a matching contribution of not less than $0.50 and not more than $4 for every $1 of earned income (as defined in section 911(d)(2) of the Internal Revenue Code of 1986 \[26 U.S.C. 911(d)(2)\]) deposited in the account by a project participant during that period;
+
+&emsp;“(2) from the grant made under section 406(b), an amount equal to the matching contribution made under paragraph (1); and
+
+&emsp;“(3) any interest that has accrued on amounts deposited under paragraph (1) or (2) on behalf of that individual into the individual development account of the individual or into a parallel account maintained by the qualified entity.
+
+“(b)
+
+Limitation on Deposits for an Individual.—Not more than $2,000 from a grant made under section 406(b) shall be provided to any one individual over the course of the demonstration project.
+
+“(c)
+
+Limitation on Deposits for a Household.—Not more than $4,000 from a grant made under section 406(b) shall be provided to any one household over the course of the demonstration project.
+
+“(d)
+
+Withdrawal of Funds.—The Secretary shall establish such guidelines as may be necessary to ensure that funds held in an individual development account are not withdrawn, except for one or more qualified expenses, or for an emergency withdrawal. Such guidelines shall include a requirement that a responsible official of the qualified entity conducting a project approve a withdrawal from such an account in writing. The guidelines shall provide that no individual may withdraw funds from an individual development account earlier than 6 months after the date on which the individual first deposits funds in the account.
+
+“(e)
+
+Reimbursement.—An individual shall reimburse an individual development account for any funds withdrawn from the account for an emergency withdrawal, not later than 12 months after the date of the withdrawal. If the individual fails to make the reimbursement, the qualified entity administering the account shall transfer the funds deposited into the account or a parallel account under this section to the Reserve Fund of the qualified entity, and use the funds to benefit other individuals participating in the demonstration project involved.
+
+#### “SEC. 411. LOCAL CONTROL OVER DEMONSTRATION PROJECTS.
+
+“A qualified entity under this title, other than a State or local government agency or a tribal government, shall, subject to the provisions of section 413, have sole authority over the administration of the project. The Secretary may prescribe only such regulations or guidelines with respect to demonstration projects conducted under this title as are necessary to ensure compliance with the approved applications and the requirements of this title.
+
+#### “SEC. 412. ANNUAL PROGRESS REPORTS.
+
+“(a)
+
+In General.—Each qualified entity under this title shall prepare an annual report on the progress of the demonstration project. Each report shall include both program and participant information and shall specify for the period covered by the report the following information:
+
+&emsp;“(1) The number and characteristics of individuals making a deposit into an individual development account.
+
+&emsp;“(2) The amounts in the Reserve Fund established with respect to the project.
+
+&emsp;“(3) The amounts deposited in the individual development accounts.
+
+&emsp;“(4) The amounts withdrawn from the individual development accounts and the purposes for which such amounts were withdrawn.
+
+&emsp;“(5) The balances remaining in the individual development accounts.
+
+&emsp;“(6) The savings account characteristics (such as threshold amounts and match rates) required to stimulate participation in the demonstration project, and how such characteristics vary among different populations or communities.
+
+&emsp;“(7) What service configurations of the qualified entity (such as configurations relating to peer support, structured planning exercises, mentoring, and case management) increased the rate and consistency of participation in the demonstration project and how such configurations varied among different populations or communities.
+
+&emsp;“(8) Such other information as the Secretary may require to evaluate the demonstration project.
+
+“(b)
+
+Submission of Reports.—The qualified entity shall submit each report required to be prepared under subsection (a) to—
+
+&emsp;“(1) the Secretary; and
+
+&emsp;“(2) the Treasurer (or equivalent official) of the State in which the project is conducted, if the State or a local government or a tribal government committed funds to the demonstration project.
+
+“(c)
+
+Timing.—The first report required by subsection (a) shall be submitted not later than 60 days after the end of the calendar year in which the Secretary authorized the qualified entity to conduct the demonstration project, and subsequent reports shall be submitted every 12 months thereafter, until the conclusion of the project.
+
+#### “SEC. 413. SANCTIONS.
+
+“(a)
+
+Authority To Terminate Demonstration Project.—If the Secretary determines that a qualified entity under this title is not operating a demonstration project in accordance with the entity's approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity's authority to conduct the demonstration project.
+
+“(b)
+
+Actions Required Upon Termination.—If the Secretary terminates the authority to conduct a demonstration project, the Secretary—
+
+&emsp;“(1) shall suspend the demonstration project;
+
+&emsp;“(2) shall take control of the Reserve Fund established pursuant to section 407;
+
+&emsp;“(3) shall make every effort to identify another qualified entity (or entities) willing and able to conduct the project in accordance with the approved application (or, if modification is necessary to incorporate the recommendations, the application as modified) and the requirements of this title;
+
+&emsp;“(4) shall, if the Secretary identifies an entity (or entities) described in paragraph (3)—
+
+&emsp;&emsp;“(A) authorize the entity (or entities) to conduct the project in accordance with the approved application (or, if modification is necessary to incorporate the recommendations, the application as modified) and the requirements of this title;
+
+&emsp;&emsp;“(B) transfer to the entity (or entities) control over the Reserve Fund established pursuant to section 407; and
+
+&emsp;&emsp;“(C) consider, for purposes of this title—
+
+&emsp;&emsp;&emsp;“(i) such other entity (or entities) to be the qualified entity (or entities) originally authorized to conduct the demonstration project; and
+
+&emsp;&emsp;&emsp;“(ii) the date of such authorization to be the date of the original authorization; and
+
+&emsp;“(5) if, by the end of the 1-year period beginning on the date of the termination, the Secretary has not found a qualified entity (or entities) described in paragraph (3), shall—
+
+&emsp;&emsp;“(A) terminate the project; and
+
+&emsp;&emsp;“(B) from the amount remaining in the Reserve Fund established as part of the project, remit to each source that provided funds under section 405(c)(4) to the entity originally authorized to conduct the project, an amount that bears the same ratio to the amount so remaining as the amount provided from the source under section 405(c)(4) bears to the amount provided from all such sources under that section.
+
+#### “SEC. 414. EVALUATIONS.
+
+“(a)
+
+In General.—Not later than 10 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall enter into a contract with an independent research organization to evaluate the demonstration projects conducted under this title, individually and as a group, including evaluating all qualified entities participating in and sources providing funds for the demonstration projects conducted under this title.
+
+“(b)
+
+Factors To Evaluate.—In evaluating any demonstration project conducted under this title, the research organization shall address the following factors:
+
+&emsp;“(1) The effects of incentives and organizational or institutional support on savings behavior in the demonstration project.
+
+&emsp;“(2) The savings rates of individuals in the demonstration project based on demographic characteristics including gender, age, family size, race or ethnic background, and income.
+
+&emsp;“(3) The economic, civic, psychological, and social effects of asset accumulation, and how such effects vary among different populations or communities.
+
+&emsp;“(4) The effects of individual development accounts on savings rates, homeownership, level of postsecondary education attained, and self-employment, and how such effects vary among different populations or communities.
+
+&emsp;“(5) The potential financial returns to the Federal Government and to other public sector and private sector investors in individual development accounts over a 5-year and 10-year period of time.
+
+&emsp;“(6) The lessons to be learned from the demonstration projects conducted under this title and if a permanent program of individual development accounts should be established.
+
+&emsp;“(7) Such other factors as may be prescribed by the Secretary.
+
+“(c)
+
+Methodological Requirements.—In evaluating any demonstration project conducted under this title, the research organization shall—
+
+&emsp;“(1) for at least one site, use control groups to compare participants with nonparticipants;
+
+&emsp;“(2) before, during, and after the project, obtain such quantitative data as are necessary to evaluate the project thoroughly; and
+
+&emsp;“(3) develop a qualitative assessment, derived from sources such as in-depth interviews, of how asset accumulation affects individuals and families.
+
+“(d)
+
+Reports by the Secretary.—
+
+&emsp;“(1)
+
+Interim reports.—Not later than 90 days after the end of the calendar year in which the Secretary first authorizes a qualified entity to conduct a demonstration project under this title, and every 12 months thereafter until all demonstration projects conducted under this title are completed, the Secretary shall submit to Congress an interim report setting forth the results of the reports submitted pursuant to section 412(b).
+
+&emsp;“(2)
+
+Final reports.—Not later than 12 months after the conclusion of all demonstration projects conducted under this title, the Secretary shall submit to Congress a final report setting forth the results and findings of all reports and evaluations conducted pursuant to this title.
+
+“(e)
+
+Evaluation Expenses.—The Secretary shall expend 2 percent of the amount appropriated under section 416 for a fiscal year, to carry out the objectives of this section.
+
+#### “SEC. 415. TREATMENT OF FUNDS.
+
+“Of the funds deposited in individual development accounts for eligible individuals, only the funds deposited by the individuals (including interest accruing on those funds) may be considered to be the income, assets, or resources of the individuals, for purposes of determining eligibility for, or the amount of assistance furnished under, any Federal or federally assisted program based on need.
+
+#### “SEC. 416. AUTHORIZATION OF APPROPRIATIONS.
+
+“There is authorized to be appropriated to carry out this title, $25,000,000 for each of fiscal years 1999, 2000, 2001, 2002, and 2003, to remain available until expended.”
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ Compensation of Faculty Members.—The compensation of persons employed under th
 
 Application to Certain Faculty Members.—This section shall not apply with respect to professors, instructors, and lecturers employed at a school of the Naval War College or of the Marine Corps University if the duration of the principal course of instruction offered at the school or college involved is less than 10 months.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 464; Nov. 29, 1989, Pub. L. 101–189, div. A, title XI, §1124(c)(1), 103 Stat. 1559; Nov. 18, 1997, Pub. L. 105–85, div. A, title XI, §1109(a), (b)(1), 111 Stat. 1927.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 464; Pub. L. 101–189, div. A, title XI, §1124(c)(1), Nov. 29, 1989, 103 Stat. 1559; Pub. L. 105–85, div. A, title XI, §1109(a), (b)(1), Nov. 18, 1997, 111 Stat. 1927.)
 
 Historical and Revision Notes
 

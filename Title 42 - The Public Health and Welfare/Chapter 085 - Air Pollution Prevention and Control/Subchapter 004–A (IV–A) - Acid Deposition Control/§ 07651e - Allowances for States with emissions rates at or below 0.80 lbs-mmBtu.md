@@ -12,7 +12,7 @@ Pursuant to section 7651b(a)(1) of this title, each Governor of a State eligible
 
 After January 1, 2010, the Administrator shall allocate allowances to units subject to the provisions of this section pursuant to section 7651d of this title.
 
-(July 14, 1955, ch. 360, title IV, §406, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2613.)
+(July 14, 1955, ch. 360, title IV, §406, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2613.)
 
 #### Section Referred to in Other Sections
 

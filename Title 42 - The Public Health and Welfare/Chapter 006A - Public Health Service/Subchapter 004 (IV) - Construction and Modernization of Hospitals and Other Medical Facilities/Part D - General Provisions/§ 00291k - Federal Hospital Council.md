@@ -16,7 +16,7 @@ The Council shall meet as frequently as the Surgeon General deems necessary, but
 
 The Council is authorized to appoint such special advisory or technical committees as may be useful in carrying out its functions.
 
-(July 1, 1944, ch. 373, title VI, §641, formerly §621, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 458, renumbered §641, June 30, 1970, Pub. L. 91–296, title II, §201, 84 Stat. 344; amended Oct. 30, 1970, Pub. L. 91–515, title VI, §601(b)(2), 84 Stat. 1311; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(July 1, 1944, ch. 373, title VI, §641, formerly §621, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 458, renumbered §641, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Prior Provisions
 

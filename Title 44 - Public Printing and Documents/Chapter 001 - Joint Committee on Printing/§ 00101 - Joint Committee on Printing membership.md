@@ -16,6 +16,10 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 
 1981—Pub. L. 97–4 substituted “four members” for “two members” in two places.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Short Title of 1995 Amendment
 
 Pub. L. 104–13, §1, May 22, 1995, 109 Stat. 163, provided that: “This Act \[enacting chapter 35 of this title, amending section 91 of Title 13, Census, and enacting provisions set out as a note under section 3501 of this title\] may be cited as the ‘Paperwork Reduction Act of 1995’.”
@@ -42,11 +46,11 @@ Pub. L. 98–497, §1, Oct. 19, 1984, 98 Stat. 2280, provided: “That this Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
+Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of thistitle, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
+Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of this title, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 

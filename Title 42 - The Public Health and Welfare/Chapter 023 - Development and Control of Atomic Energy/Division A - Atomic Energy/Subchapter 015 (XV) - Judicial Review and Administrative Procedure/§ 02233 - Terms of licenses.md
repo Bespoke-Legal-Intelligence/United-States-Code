@@ -10,7 +10,7 @@ Each license shall be in such form and contain such terms and conditions as the 
 
 (d) Every license issued under this chapter shall be subject to the right of recapture or control reserved by section 2138 of this title, and to all of the other provisions of this chapter, now or hereafter in effect and to all valid rules and regulations of the Commission.
 
-(Aug. 1, 1946, ch. 724, title I, §183, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 954; amended Aug. 26, 1964, Pub. L. 88–489, §18, 78 Stat. 607; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §183, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 954; amended Pub. L. 88–489, §18, Aug. 26, 1964, 78 Stat. 607; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

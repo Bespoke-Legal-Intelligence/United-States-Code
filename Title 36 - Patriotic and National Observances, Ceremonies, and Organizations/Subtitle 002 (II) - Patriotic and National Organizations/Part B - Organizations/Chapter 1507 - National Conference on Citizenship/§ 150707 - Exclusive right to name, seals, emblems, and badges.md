@@ -1,0 +1,24 @@
+### §150707. Exclusive right to name, seals, emblems, and badges
+
+The corporation has the exclusive right to use the name “National Conference on Citizenship” and seals, emblems, and badges the corporation adopts.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1393.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+150707
+
+36:446.
+
+Aug. 13, 1953, ch. 427, §16, 67 Stat. 565.
+
+The word “sole” is omitted as unnecessary and for consistency in the revised title.
+

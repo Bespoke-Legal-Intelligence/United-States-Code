@@ -40,7 +40,7 @@ Any State or franchising authority may not prohibit the ownership or control of 
 
 &emsp;(A) ensure that no cable operator or group of cable operators can unfairly impede, either because of the size of any individual operator or because of joint actions by a group of operators of sufficient size, the flow of video programming from the video programmer to the consumer;
 
-&emsp;(B) ensure that cable operators affiliated with video programmers do not favor such programmers in determining carriage on theircable systems or do not unreasonably restrict the flow of the video programming of such programmers to other video distributors;
+&emsp;(B) ensure that cable operators affiliated with video programmers do not favor such programmers in determining carriage on their cable systems or do not unreasonably restrict the flow of the video programming of such programmers to other video distributors;
 
 &emsp;(C) take particular account of the market structure, ownership patterns, and other relationships of the cable television industry, including the nature and market power of the local franchise, the joint ownership of cable systems and video programmers, and the various types of non-equity controlling interests;
 

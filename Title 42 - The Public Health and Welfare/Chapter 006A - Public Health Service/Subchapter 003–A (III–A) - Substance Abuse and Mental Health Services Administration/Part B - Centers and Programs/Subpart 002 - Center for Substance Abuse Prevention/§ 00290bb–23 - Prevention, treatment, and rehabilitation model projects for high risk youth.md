@@ -58,9 +58,9 @@ For purposes of this section, the term “high risk youth” means an individual
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $70,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+For the purpose of carrying out this section, there are authorized to be appropriated$70,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §517, formerly §509A, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(a), 100 Stat. 3207–113; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2051(d), 102 Stat. 4206; renumbered §517 and amended July 10, 1992, Pub. L. 102–321, title I, §114, 106 Stat. 346.)
+(July 1, 1944, ch. 373, title V, §517, formerly §509A, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–113; amended Pub. L. 100–690, title II, §2051(d), Nov. 18, 1988, 102 Stat. 4206; renumbered §517 and amended Pub. L. 102–321, title I, §114, July 10, 1992, 106 Stat. 346.)
 
 #### References in Text
 

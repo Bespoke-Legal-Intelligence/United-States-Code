@@ -26,7 +26,7 @@ Each determination issued by the Secretary to establish, adjust, or suspend allo
 
 The remedies and penalties provided for in this subpart shall be in addition to, and not exclusive of, any remedies or penalties existing at law or in equity.
 
-(Feb. 16, 1938, ch. 30, title III, §359h, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3486; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(j), 105 Stat. 1836.)
+(Feb. 16, 1938, ch. 30, title III, §359h, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, §111(j), Dec. 13, 1991, 105 Stat. 1836.)
 
 #### Amendments
 

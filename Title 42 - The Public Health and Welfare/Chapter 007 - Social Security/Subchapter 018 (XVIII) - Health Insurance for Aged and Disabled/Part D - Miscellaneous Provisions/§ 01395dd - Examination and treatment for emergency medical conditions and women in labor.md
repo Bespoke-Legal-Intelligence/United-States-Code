@@ -50,7 +50,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;&emsp;(ii) has agreed to accept transfer of the individual and to provide appropriate medical treatment;
 
-&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition,observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
+&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
 
 &emsp;&emsp;(D) in which the transfer is effected through qualified personnel and transportation equipment, as required including the use of necessary and medically appropriate life support measures during the transfer; and
 
@@ -68,7 +68,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;(ii) misrepresents an individual's condition or other information, including a hospital's obligations under this section,
 
-> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is is <sup>2</sup> gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
+> &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is is <sup>2</sup> gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title\(other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
 &emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
@@ -126,7 +126,7 @@ The provisions of this section do not preempt any State or local law requirement
 
 #### (g) Nondiscrimination
 
-A participating hospital that has specialized capabilities or facilities (such as burn units, shock-trauma units, neonatal intensive care units, or (with respect to rural areas) regional referral centers as identified by the Secretary in regulation) shall not refuse to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities if the hospital has the capacity to treat the individual.
+A participating hospital that has specialized capabilities or facilities (such as burn units,shock-trauma units, neonatal intensive care units, or (with respect to rural areas) regional referral centers as identified by the Secretary in regulation) shall not refuse to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities if the hospital has the capacity to treat the individual.
 
 #### (h) No delay in examination or treatment
 
@@ -136,7 +136,7 @@ A participating hospital may not delay provision of an appropriate medical scree
 
 A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) of this section or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9121(b), 100 Stat. 164; amended Oct. 21, 1986, Pub. L. 99–509, title IX, §9307(c)(4), 100 Stat. 1996; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(b)(4), 100 Stat. 2933; Dec. 22, 1987, Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), 101 Stat. 1330–56, 1330–57; July 1, 1988, Pub. L. 100–360, title IV, §411(b)(8)(A)(i), 102 Stat. 772; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(18)(E), 102 Stat. 2419; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), 103 Stat. 2154, 2245–2248; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Oct. 31, 1994, Pub. L. 103–432, title I, §160(d)(4), (5)(A), 108 Stat. 4444; Aug. 5, 1997, Pub. L. 105–33, title IV, §4201(c)(1), 111 Stat. 373.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
 #### References in Text
 
@@ -256,7 +256,7 @@ Subsec. (e)(3). Pub. L. 99–514 struck out “and has, under the agreement, obl
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) ofPub. L. 105–33, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-Subject to valid existing rights, the Pine Ridge National Recreation Area designated by this subchapter shall be administered by the Secretary of Agriculture in accordance with the laws, rules, and regulations applicable to the national forests in a manner compatible with the following objectives:
+Subject to valid existing rights, the Pine Ridge National Recreation Area designated bythis subchapter shall be administered by the Secretary of Agriculture in accordance with the laws, rules, and regulations applicable to the national forests in a manner compatible with the following objectives:
 
 &emsp;(1) the continuation of existing primitive and semiprimitive recreational use in a natural environment;
 

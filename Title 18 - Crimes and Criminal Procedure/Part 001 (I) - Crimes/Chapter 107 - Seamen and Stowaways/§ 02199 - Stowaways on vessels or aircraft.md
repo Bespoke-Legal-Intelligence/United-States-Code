@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than one year, or both.
 
 The word “aircraft” as used in this section includes any contrivance for navigation or flight in the air.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

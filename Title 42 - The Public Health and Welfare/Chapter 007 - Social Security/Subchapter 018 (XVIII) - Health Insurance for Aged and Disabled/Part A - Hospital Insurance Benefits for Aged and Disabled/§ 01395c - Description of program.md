@@ -2,7 +2,7 @@
 
 The insurance program for which entitlement is established by sections 426 and 426–1 of this title provides basic protection against the costs of hospital, related post-hospital, home health services, and hospice care in accordance with this part for (1) individuals who are age 65 or over and are eligible for retirement benefits under subchapter II of this chapter (or would be eligible for such benefits if certain government employment were covered employment under such subchapter) or under the railroad retirement system, (2) individuals under age 65 who have been entitled for not less than 24 months to benefits under subchapter II of this chapter (or would have been so entitled to such benefits if certain government employment were covered employment under such subchapter) or under the railroad retirement system on the basis of a disability, and (3) certain individuals who do not meet the conditions specified in either clause (1) or (2) but who are medically determined to have end stage renal disease.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1811, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291; amended Oct. 30, 1972, Pub. L. 92–603, title II, §201(a)(2), 86 Stat. 1371; June 13, 1978, Pub. L. 95–292, §4(a), 92 Stat. 315; June 9, 1980, Pub. L. 96–265, title I, §103(a)(2), 94 Stat. 444; Oct. 19, 1980, Pub. L. 96–473, §2(b), 94 Stat. 2263; Dec. 5, 1980, Pub. L. 96–499, title IX, §930(a), 94 Stat. 2631; Sept. 3, 1982, Pub. L. 97–248, title I, §122(a)(1), title II, §278(b)(3), 96 Stat. 356, 561; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13205(b)(2)(C)(i), 100 Stat. 317; July 1, 1988, Pub. L. 100–360, title I, §104(d)(1), 102 Stat. 688; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1811, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 92–603, title II, §201(a)(2), Oct. 30, 1972, 86 Stat. 1371; Pub. L. 95–292, §4(a), June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title I, §103(a)(2), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(b), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(a), Dec. 5, 1980, 94 Stat. 2631; Pub. L. 97–248, title I, §122(a)(1), title II, §278(b)(3), Sept. 3, 1982, 96 Stat. 356, 561; Pub. L. 99–272, title XIII, §13205(b)(2)(C)(i), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–360, title I, §104(d)(1), July 1, 1988, 102 Stat. 688; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979.)
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1982 Amendment
 
-Section 122(h)(1) of Pub. L. 97–248, as amended by Pub. L. 99–272, title IX, §9123(a), Apr. 7, 1986, 100 Stat. 168, provided that: “The amendments made by this section \[amending this section and sections 1395d to 1395f, 1395h, and 1395x to 1395cc of this title and section 231f of Title 45, Railroads, and enacting provisions set outas notes under sections 1395b–1 and 1395f of this title\] apply to hospice care provided on or after November 1, 1983.”
+Section 122(h)(1) of Pub. L. 97–248, as amended by Pub. L. 99–272, title IX, §9123(a), Apr. 7, 1986, 100 Stat. 168, provided that: “The amendments made by this section \[amending this section and sections 1395d to 1395f, 1395h, and 1395x to 1395cc of this title and section 231f of Title 45, Railroads, and enacting provisions set out as notes under sections 1395b–1 and 1395f of this title\] apply to hospice care provided on or after November 1, 1983.”
 
 Amendment by section 278(b)(3) of Pub. L. 97–248 effective on and after Jan. 1, 1983, and applicable to remuneration (for medicare qualified Federal employment) paid after Dec. 31, 1982, see section 278(c)(2)(A) of Pub. L. 97–248, set out as a note under section 426 of this title.
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 96–499 effective with respect to services furnished on or
 
 Amendment by Pub. L. 96–473 effective after second month beginning after Oct. 19, 1980, see section 2(d) of Pub. L. 96–473, set out as a note under section 426 of this title.
 
-Amendment by Pub. L. 96–265 applicable with respect to hospital insurance or supplementary medical insurance benefits for services provided on or after first day of sixth month which begins after June 9, 1980, see section 103(c) of Pub. L. 96–265, set out as a note under section 426 of this title.
+Amendment by Pub. L. 96–265 applicable with respect to hospital insurance or supplementary medical insurance benefits for services provided on or after first dayof sixth month which begins after June 9, 1980, see section 103(c) of Pub. L. 96–265, set out as a note under section 426 of this title.
 
 #### Effective Date of 1978 Amendment
 

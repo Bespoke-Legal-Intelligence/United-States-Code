@@ -14,7 +14,7 @@ Based on title 28, U.S.C., 1940 ed., §547, and section 11–204 of District of 
 
 Section consolidates parts of section 11–204 of the District of Columbia Code, 1940 ed., and section 547 of title 28, U.S.C., 1940 ed.
 
-The Judicial Code provided for the appointment of assistants and messengers in the Supreme Court, criers and “persons to wait upon juries” in the district courts, a messenger in the Court of Customs and Patent Appeals, and a bailiff and a chief messenger in the Court of Claims (see title 28, U.S.C., 1940 ed., §§9, 244, 305, 331) and also provided (see same title, §547) that criers, bailiffs and messengers of the courts of appeals should be allowed the same compensation as allowed for similar services in the district courts, but did not provide for the appointment of said criers, bailiffs and messengers. This section authorizes such appointments.
+The Judicial Code provided for the appointment of assistants and messengers in the Supreme Court, criers and “persons to wait upon juries” in the district courts, a messenger in the Court of Customs and Patent Appeals, and a bailiff and a chief messenger in the Court of Claims (see title 28, U.S.C., 1940 ed., §§9, 244, 305, 331) and also provided (see same title, §547) that criers, bailiffs and messengers of the courts of appeals should be allowed the same compensation as allowedfor similar services in the district courts, but did not provide for the appointment of said criers, bailiffs and messengers. This section authorizes such appointments.
 
 The provisions of section 224 of title 28, U.S.C., 1940 ed., that the United States marshal shall provide for the expenses of criers, bailiffs and messengers for the circuit courts of appeals are superseded by sections 601–610 of this title vesting such functions in the Administrative Office of the United States Courts.
 
@@ -36,7 +36,7 @@ This section corrects typographical errors in section 713 of title 28, U.S.C.
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164 substituted “Librarians” for “Criers, bailiffs, and messengers” in section catchline.
+1982—Pub. L. 97–164 substituted “Librarians” for “Criers, bailiffs, and messengers” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 struck out “and necessary library assistants” after “Each court of appeals may appoint a librarian”.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 97–164 substituted “The librarian, with the approval of
 
 Subsecs. (c), (d). Pub. L. 97–164 struck out subsecs. (c) and (d) which had provided, respectively, that the Court of Appeals for the District of Columbia could appoint a marshal, who would attend the court at its sessions, be custodian of its courthouse, have supervision over its custodial employees, take charge of all property of the United States used by the court or its employees, and perform such other duties as the court might direct, that the court could also appoint necessary messengers who would be subject to removal by the court, that the United States marshal of the district in which a court of appeals was sitting or in which a circuit judge was present in chambers, could, with the approval of the court or judge, employ necessary bailiffs, that the bailiffs would attend the court, preserve order, and perform such other necessary duties as the court, judge or marshal might direct, and that such bailiffs would receive the same compensation as bailiffs employed for the district courts. See section 714 of this title.
 
-<b>1949</b>—Act May 24, 1949, inserted subsection designation (b) preceding second par. and renumbered former subsecs. (b) and (c) as (c) and (d), respectively.
+1949—Act May 24, 1949, inserted subsection designation (b) preceding second par. and renumbered former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date of 1982 Amendment
 

@@ -6,7 +6,7 @@
 
 (c) Except in time of war, any officer of a staff corps who has served as a chief of bureau for a full term is exempt from sea duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Aug. 18, 1959, Pub. L. 86–174, §2(2), 73 Stat. 396; Sept. 7,1962, Pub. L. 87–649, §14c(15), 76 Stat. 501; Oct. 22, 1965, Pub. L. 89–288, §3, 79 Stat. 1050; Nov. 2, 1966, Pub. L. 89–718, §35(2)–(4), 80 Stat. 1120; Dec. 12, 1980, Pub. L. 96–513, title V, §503(9), 94 Stat. 2911; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(b)(3), (5), 108 Stat. 2751.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Pub. L. 86–174, §2(2), Aug. 18, 1959, 73 Stat. 396; Pub. L. 87–649, §14c(15), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–288, §3, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §35(2)–(4), Nov. 2, 1966, 80 Stat. 1120; Pub. L. 96–513, title V, §503(9), Dec. 12, 1980, 94 Stat. 2911; Pub. L. 103–337, div. A, title V, §504(b)(3), (5), Oct. 5, 1994, 108 Stat. 2751.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ June 20, 1940, ch. 400, §1(c) (2d sentence as applicable to retirement), 54 Sta
 
 R.S. 1436.
 
-In subsection (a), the language that incorporates the rank, pay, and allowances of chiefs of bureaus of the War Department for chiefs of bureaus is executed. Creation of the Department of the Air Force by the National Security Act of 1947, and the saving provisions in §305 of that act, would relate chiefs of bureaus of the Navy to the corresponding officers of both the other military departments. Since there is now positive organizational law for both of those departments providing the grades of the departmental officers, and, since in the reorganization of the departments, there is no precise counterpart of the chief of a Navy bureau, it is inappropriate to continue the incorporation by reference. Subsection (a), therefore, provides that bureau chiefs are entitled to have the rank of rear admiral with pay and allowances of a rear admiral in the upper half, which, under §516 of the Officer Personnel Act of 1947, corresponds with major general. The subsection also recognizes the possibility of appointing an officer of the Marine Corps as Chief of the Bureau of Aeronautics by providing that such an appointee has the rank, pay, and allowances of a major general.
+In subsection (a), the language that incorporates the rank, pay, and allowances of chiefs of bureaus of the War Department for chiefs of bureaus is executed. Creation of the Department of the Air Force by the National Security Act of 1947, and the saving provisions in §305 of that act, would relate chiefs of bureaus of the Navy to the corresponding officers of both the other military departments. Since there is now positive organizational law for both of those departments providing the grades of the departmental officers, and, since in the reorganization of the departments, there is no precise counterpart of the chief of a Navy bureau, it is inappropriate to continue the incorporation by reference. Subsection (a), therefore, provides that bureau chiefs are entitled to have the rank of rear admiral with pay and allowances of a rear admiral in the upper half,which, under §516 of the Officer Personnel Act of 1947, corresponds with major general. The subsection also recognizes the possibility of appointing an officer of the Marine Corps as Chief of the Bureau of Aeronautics by providing that such an appointee has the rank, pay, and allowances of a major general.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ Notwithstanding subsection (a) of this section, a facility of the Indian Health 
 
 The Secretary is authorized to enter into agreements with the State agency for the purpose of reimbursing such agency for health care and services provided in Indian Health Service facilities to Indians who are eligible for medical assistance under the State plan.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1911, as added Sept. 30, 1976, Pub. L. 94–437, title IV, §402(a), 90 Stat. 1409, and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4118(f)(1), 4211(h)(8), 101 Stat. 1330–155, 1330–206; July 1, 1988, Pub. L. 100–360, title IV, §411(k)(10)(E), 102 Stat. 796.)
+(Aug. 14, 1935, ch. 531, title XIX, §1911, as added Pub. L. 94–437, title IV, §402(a), Sept. 30, 1976, 90 Stat. 1409; amended Pub. L. 100–203, title IV, §§4118(f)(1), 4211(h)(8), Dec. 22, 1987, 101 Stat. 1330–155, 1330–206; Pub. L. 100–360, title IV, §411(k)(10)(E), July 1, 1988, 102 Stat. 796.)
 
 #### Amendments
 
@@ -48,5 +48,5 @@ Section 402(d) of Pub. L. 94–437 provided that any payments received for servi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 290ff of this title; title 25 sections 1642, 1645.
+This section is referred to in section 290ff of this title; title 25 section 1642.
 

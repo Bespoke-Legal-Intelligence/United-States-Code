@@ -12,7 +12,7 @@ There is established within the Department of Labor a body corporate to be known
 
 #### (b) Powers of corporation
 
-To carry out the purposes of this subchapter, the corporation has the powers conferred on a nonprofit corporation under the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\] and, in addition to any specific power granted to the corporation elsewhere in this subchapter or under that Act, the corporation has the power—
+To carry out the purposes of this subchapter, the corporation has the powers conferred on a nonprofit corporation under the District of Columbia Nonprofit Corporation Act \[D.C. Code, §29–501 et seq.\] and, in addition to any specificpower granted to the corporation elsewhere in this subchapter or under that Act, the corporation has the power—
 
 &emsp;(1) to sue and be sued, complain and defend, in its corporate name and through its own counsel, in any court, State or Federal;
 
@@ -28,7 +28,7 @@ To carry out the purposes of this subchapter, the corporation has the powers con
 
 &emsp;(7) to utilize the personnel and facilities of any other agency or department of the United States Government, with or without reimbursement, with the consent of the head of such agency or department; and
 
-&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all others acts and things as may be necessary or incidental to the conduct of its business andthe exercise of all other rights and powers granted to the corporation by this chapter.
+&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all others acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
 
 #### (c) Omitted
 
@@ -66,7 +66,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (6) The advisory committee shall appoint and fix the compensation of such employees as it determines necessary to discharge its duties, including experts and consultants in accordance with the provisions of section 3109 of title 5. The corporation shall furnish to the advisory committee such professional, secretarial, and other services as the committee may request.
 
-(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieuof subsistence, as authorized by section 5703 of title 5.
+(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 (8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
 

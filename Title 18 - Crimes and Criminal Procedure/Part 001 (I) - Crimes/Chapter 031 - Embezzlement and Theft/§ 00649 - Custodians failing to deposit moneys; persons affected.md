@@ -4,7 +4,7 @@
 
 (b) This section and sections 643, 648, 650 and 653 of this title shall apply to all persons charged with the safe-keeping, transfer, or disbursement of the public money, whether such persons be charged as receivers or depositaries of the same.
 
-(June 25, 1948, ch. 645, 62 Stat. 727; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), 108 Stat. 2147, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 727; Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -24,13 +24,13 @@ Minor changes were made in phraseology.
 
 1996—Subsec. (a). Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Subsec. (a). Pub. L. 103–322, §330016(2)(G), substituted “shall be fined under this title or in a sum equal to the amount of money embezzled, whichever is greater, or imprisoned” for “shall be fined in a sum equal to the amount of money embezzled or imprisoned”.
+1994—Subsec. (a). Pub. L. 103–322, §330016(2)(G), substituted “shall be fined under this title or in a sum equal to the amount of money embezzled, whichever isgreater, or imprisoned” for “shall be fined in a sum equal to the amount of money embezzled or imprisoned”.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in theAppendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Treasurer of the United States, referred to in this section, is an officer of Department of the Treasury.
 
 #### Cross References
 

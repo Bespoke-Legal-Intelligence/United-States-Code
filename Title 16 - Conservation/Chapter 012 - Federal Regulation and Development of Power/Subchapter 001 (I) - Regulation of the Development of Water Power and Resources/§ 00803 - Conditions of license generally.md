@@ -4,7 +4,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 
 #### (a) Modification of plans; factors considered to secure adaptability of project; recommendations for proposed terms and conditions
 
-(1) That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
+(1) That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be bestadapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title <sup>1</sup> if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
 
 (2) In order to ensure that the project adopted will be best adapted to the comprehensive plan described in paragraph (1), the Commission shall consider each of the following:
 
@@ -22,7 +22,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 
 #### (b) Alterations in project works
 
-That except when emergency shall require for the protection of navigation, life, health, or property, no substantial alteration or additionnot in conformity with the approved plans shall be made to any dam or other project works constructed hereunder of an installed capacity in excess of two thousand horsepower without the prior approval of the Commission; and any emergency alteration or addition so made shall thereafter be subject to such modification and change as the Commission may direct.
+That except when emergency shall require for the protection of navigation, life, health, or property, no substantial alteration or addition not in conformity with the approved plans shall be made to any dam or other project works constructed hereunder of an installed capacity in excess of two thousand horsepower without the prior approval of the Commission; and any emergency alteration or addition so made shall thereafter be subject to such modification and change as the Commission may direct.
 
 #### (c) Maintenance and repair of project works; liability of licensee for damages
 
@@ -98,7 +98,7 @@ In issuing licenses for a minor part only of a complete project, or for a comple
 
 > Subsection (i) of this section shall not apply to the conditions required under this subsection.
 
-(June 10, 1920, ch. 285, pt. I, §10, 41 Stat. 1068; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§206, 212, 49 Stat. 842, 847; Sept. 7, 1962, Pub. L. 87–647, 76 Stat. 447; Aug. 3, 1968, Pub. L. 90–451, §4, 82 Stat. 617; Oct. 16, 1986, Pub. L. 99–495, §§3(b), (c), 9(a), 13, 100 Stat. 1243, 1244, 1252, 1257; Oct. 27, 1986, Pub. L. 99–546, title IV, §401, 100 Stat. 3056; Oct. 24, 1992, Pub. L. 102–486, title XVII, §1701(a), 106 Stat. 3008.)
+(June 10, 1920, ch. 285, pt. I, §10, 41 Stat. 1068; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§206, 212, 49 Stat. 842, 847; Pub. L. 87–647, Sept. 7, 1962, 76 Stat. 447; Pub. L. 90–451, §4, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, §§3(b), (c), 9(a), 13, Oct. 16, 1986, 100 Stat. 1243, 1244, 1252, 1257; Pub. L. 99–546, title IV, §401, Oct. 27, 1986, 100 Stat. 3056; Pub. L. 102–486, title XVII, §1701(a), Oct. 24, 1992, 106 Stat. 3008.)
 
 #### References in Text
 
@@ -110,7 +110,7 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (j)(1), is act Ma
 
 1992—Subsec. (e)(1). Pub. L. 102–486, in introductory provisions, substituted “administration of this subchapter, including any reasonable and necessary costs incurred by Federal and State fish and wildlife agencies and other natural and cultural resource agencies in connection with studies or other reviews carried out by such agencies for purposes of administering their responsibilities under this subchapter;” for “administration of this subchapter;” and inserted “<i>Provided</i>, That, subject to annual appropriations Acts, the portion of such annual charges imposed by the Commission under this subsection to cover the reasonable and necessary costs of such agencies shall be available to such agencies (in addition to other funds appropriated for such purposes) solely for carrying out such studies and reviews and shall remain available until expended:” after “as conditions may require:”.
 
-1986—Subsec. (a). Pub. L. 99–495, §3(b), designated existing provisions as par. (1), inserted “for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat),” after “water-power development”, inserted “irrigation, flood control, water supply, and” after “including”, which words were inserted after “public uses, including” as the probable intent of Congress, substituted “and other purposes referred to in section 797(e) of this title” for “purposes; and”, and added pars. (2) and (3).
+1986—Subsec. (a). Pub. L. 99–495, §3(b), designated existing provisions as par. (1), inserted “for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat),” after “water-power development”, inserted “irrigation, flood control, water supply, and” after “including”, which words were inserted after “public uses, including” as the probable intent of Congress, substituted “and other purposes referred to in section797(e) of this title” for “purposes; and”, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 99–546 inserted proviso that no charge be assessed for use of Government dam or structure by licensee if, before Jan. 1, 1985, licensee and Secretary entered into contract which met requirements of date of license, powerplant construction, ownership, and revenue, etc.
 

@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) referrals to providers of medical services and other health-related services (including substance abuse and mental health services);
 
-&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed to assist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, educational, or other related services;
+&emsp;&emsp;&emsp;(iii) patient case management services (including counseling, referral, and follow-up services) and other services designed toassist health center patients in establishing eligibility for and gaining access to Federal, State, and local programs that provide or financially support the provision of medical, social, educational, or other related services;
 
 &emsp;&emsp;&emsp;(iv) services that enable individuals to use the services of the health center (including outreach and transportation services and, if a substantial number of the individuals in the population served by a center are of limited English-speaking ability, the services of appropriate personnel fluent in the language spoken by a predominant number of such individuals); and
 
@@ -192,7 +192,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The United States shall be entitled to recover from the applicant for a loan guarantee under this subsection the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery (subject to appropriations remaining available to permit such a waiver) and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to whichthe guarantee was made. Amounts recovered under this clause shall be credited as reimbursements to the financing account of the program.
+&emsp;&emsp;&emsp;The United States shall be entitled to recover from the applicant for a loan guarantee under this subsection the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery (subject to appropriations remaining available to permit such a waiver) and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made. Amounts recovered under this clause shall be credited asreimbursements to the financing account of the program.
 
 #### (ii) Modification of terms and conditions
 
@@ -608,7 +608,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 &emsp;The Secretary may, under appropriate circumstances, waive the application of all or part of the requirements of this subsection with respect to an entity.
 
-(July 1, 1944, ch. 373, title III, §330, as added Oct. 11, 1996, Pub. L. 104–299, §2, 110 Stat. 3626.)
+(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.)
 
 #### References in Text
 
@@ -656,7 +656,7 @@ Section 4(e) of Pub. L. 104–299 provided that: “After consultation with the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 256c, 1396d, 1397ee of this title.
+This section is referred to in sections 256c, 297q, 1396d, 1397ee of this title; title 29 section 774.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(j)(3)(H)(ii)”.</i>
 

@@ -80,7 +80,7 @@
 
 #### (iv) Discovery
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class is the most adequate plaintiff may be conducted by a plaintiff only if the plaintiff first demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class isthe most adequate plaintiff may be conducted by a plaintiff only if the plaintiff first demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
 
 #### (v) Selection of lead counsel
 
@@ -184,6 +184,10 @@
 
 &emsp;&emsp;&emsp;A party aggrieved by the willful failure of an opposing party to comply with clause (i) may apply to the court for an order awarding appropriate sanctions.
 
+#### (D) Circumvention of stay of discovery
+
+&emsp;&emsp;Upon a proper showing, a court may stay discovery proceedings in any private action in a State court, as necessary in aid of its jurisdiction, or to protect or effectuate its judgments, in an action subject to a stay of discovery pursuant to this paragraph.
+
 #### (4) Loss causation
 
 &emsp;In any private action arising under this chapter, the plaintiff shall have the burden of proving that the act or omission of the defendant alleged to violate this chapter caused the loss for which the plaintiff seeks to recover damages.
@@ -204,7 +208,7 @@
 
 &emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shall adopt a presumption that the appropriate sanction—
 
-&emsp;&emsp;&emsp;(i) for failure of any responsive pleading or dispositive motion to comply with anyrequirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred as a direct result of the violation; and
+&emsp;&emsp;&emsp;(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred as a direct result of the violation; and
 
 &emsp;&emsp;&emsp;(ii) for substantial failure of any complaint to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred in the action.
 
@@ -238,7 +242,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;For purposes of this subsection, the “mean trading price” of a security shall be an average of the daily trading price of that security, determined as of the close of the market each day during the 90-day period referred to in paragraph (1).
 
-#### (g) <sup>1</sup> Proportionate liability
+#### (f) Proportionate liability
 
 #### (1) Applicability
 
@@ -254,7 +258,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (1), a covered person against whom a final judgment is entered in a private action shall be liable solely for the portion of the judgment that corresponds to the percentage of responsibility of that covered person, as determined under paragraph (3).
+&emsp;&emsp;&emsp;Except as provided in subparagraph (A), a covered person against whom a final judgment is entered in a private action shall be liable solely for the portion of the judgment that corresponds to the percentage of responsibility of that covered person, as determined under paragraph (3).
 
 #### (ii) Recovery by and costs of covered person
 
@@ -288,7 +292,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>2</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 
@@ -380,7 +384,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;(D) the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
 
-(June 6, 1934, ch. 404, title I, §21D, as added and amended Dec. 22, 1995, Pub. L. 104–67, title I, §101(b), title II, §201(a), 109 Stat. 743, 758.)
+(June 6, 1934, ch. 404, title I, §21D, as added and amended Pub. L. 104–67, title I, §101(b), title II, §201(a), Dec. 22, 1995, 109 Stat. 743, 758; Pub. L. 105–353, title I, §101(b)(2), title III, §301(b)(13), Nov. 3, 1998, 112 Stat. 3233, 3236.)
 
 #### References in Text
 
@@ -390,7 +394,17 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii
 
 #### Amendments
 
+1998—Subsec. (b)(3)(D). Pub. L. 105–353, §101(b)(2), added subpar. (D).
+
+Subsecs. (f), (g). Pub. L. 105–353, §301(b)(13)(B), redesignated subsec. (g) as (f).
+
+Subsec. (g)(2)(B)(i). Pub. L. 105–353, §301(b)(13)(A), substituted “subparagraph (A)” for “paragraph (1)”.
+
 1995—Subsec. (g). Pub. L. 104–67, §201(a), added subsec. (g).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(b)(2) of Pub. L. 105–353 not to affect or apply to any action commenced before and pending on Nov. 3, 1998, see section 101(c) of Pub. L. 105–353, set out as a note under section 77p of this title.
 
 #### Effective Date of 1995 Amendment
 
@@ -408,7 +422,5 @@ Nothing in section to be deemed to create or ratify any implied right of action,
 
 This section is referred to in section 77k of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(f)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “if,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “if,”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of funding
 
-The Secretary is authorized to pay to the Foundation from the interest and earnings ofthe fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the purposes of this chapter.
+The Secretary is authorized to pay to the Foundation from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the purposes of this chapter.
 
 #### (b) Access to books, records, etc., by General Accounting Office
 

@@ -24,7 +24,7 @@ The Secretary concerned shall ensure the development, implementation, and enforc
 
 #### (5) Use of receipts
 
-&emsp;The Secretary concerned may use amounts received from the sale of Pacific yew underthis section to pay the costs incurred by the Secretary concerned associated with the harvest and sale of Pacific yew.
+&emsp;The Secretary concerned may use amounts received from the sale of Pacific yew under this section to pay the costs incurred by the Secretary concerned associated with the harvest and sale of Pacific yew.
 
 #### (c) Record keeping
 

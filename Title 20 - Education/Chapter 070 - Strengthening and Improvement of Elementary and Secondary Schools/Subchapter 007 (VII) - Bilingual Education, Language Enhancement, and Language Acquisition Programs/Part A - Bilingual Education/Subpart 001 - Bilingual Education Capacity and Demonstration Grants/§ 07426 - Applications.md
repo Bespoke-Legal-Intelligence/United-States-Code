@@ -70,7 +70,7 @@ Such application shall include documentation that the applicant has the qualifie
 
 &emsp;&emsp;(D) An assurance that the applicant will not reduce the level of State and local funds that the applicant expends for bilingual education or special alternative instruction programs if the applicant receives an award under this subpart.
 
-&emsp;&emsp;(E) An assurance that the applicant will employ teachers in the proposed programthat, individually or in combination, are proficient in English, including written, as well as oral, communication skills.
+&emsp;&emsp;(E) An assurance that the applicant will employ teachers in the proposed program that, individually or in combination, are proficient in English, including written, as well as oral, communication skills.
 
 &emsp;&emsp;(F) A budget for grant funds.
 
@@ -128,7 +128,7 @@ An application for a grant under this subpart may be approved only if the Secret
 
 &emsp;&emsp;(A) Where the diversity of the limited English proficient students’ native languages and the small number of students speaking each respective language makes bilingual education impractical.
 
-&emsp;&emsp;(B) Where, despite documented efforts, the applicant has not been able to hire qualified instructional personnel who are able to communicate in the students’ native language.
+&emsp;&emsp;(B) Where, despite documented efforts, the applicant has not been able to hire qualifiedinstructional personnel who are able to communicate in the students’ native language.
 
 #### (4) Consideration
 

@@ -4,7 +4,7 @@ Whoever, within or without the Armed Forces of the United States, polls any memb
 
 The word “poll” means any request for information, verbal or written, which by its language or form of expression requires or implies the necessity of an answer, where the request is made with the intent of compiling the result of the answers obtained, either for the personal use of the person making the request, or for the purpose of reporting the same to any other person, persons, political party, unincorporated association or corporation, or for the purpose of publishing the same orally, by radio, or in written or printed form.
 
-(June 25, 1948, ch. 645, 62 Stat. 720; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 720; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

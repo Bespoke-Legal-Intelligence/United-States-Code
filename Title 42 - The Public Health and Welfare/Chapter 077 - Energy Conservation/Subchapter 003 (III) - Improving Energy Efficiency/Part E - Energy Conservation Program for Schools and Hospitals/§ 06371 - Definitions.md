@@ -8,7 +8,7 @@ For the purposes of this part—
 
 &emsp;(A) insulation of the building structure and systems within the building;
 
-&emsp;(B) storm windows and doors, multiglazed windows and doors, heat absorbing or heat reflective glazed and coated windows and door systems, additional glazing, reductions in glass area, and other window and door system modifications.<sup>1</sup>
+&emsp;(B) storm windows and doors, multiglazed windows and doors, heat absorbing or heat reflective glazed and coated windows and door systems, additional glazing, reductions in glass area, and other window and door system modifications;
 
 &emsp;(C) automatic energy control systems and load management systems;
 
@@ -30,7 +30,7 @@ For the purposes of this part—
 
 &emsp;(H) caulking and weatherstripping;
 
-&emsp;(I) replacement or modification of lighting fixtures which replacement or modification increases the energy efficiency of the lighting system without increasing the overall illumination of a facility (unless such increase in illumination is necessary to conform to any applicable State or local building code or, if no such code applies, the increase is considered appropriate by the Secretary);
+&emsp;(I) replacement or modification of lighting fixtures which replacement or modification increases the energy efficiency of the lighting system without increasing the overall illumination of a facility (unless such increase inillumination is necessary to conform to any applicable State or local building code or, if no such code applies, the increase is considered appropriate by the Secretary);
 
 &emsp;(J) energy recovery systems;
 
@@ -66,7 +66,7 @@ For the purposes of this part—
 
 &emsp;(iv) provides an educational program for which it awards a bachelor's degree or higher degree or provides not less than a two-year program which is acceptable for full credit toward such a degree at any institution which meets the requirements of clauses (i), (ii), and (iii) and which provides such a program;
 
-&emsp;(C) provides not less than a one-year program of training to prepare students for gainful employment in a recognized occupationand which meets the provisions of clauses (i), (ii), and (iii) of subparagraph (B); or
+&emsp;(C) provides not less than a one-year program of training to prepare students for gainful employment in a recognized occupation and which meets the provisions of clauses (i), (ii), and (iii) of subparagraph (B); or
 
 &emsp;(D) is a local educational agency.
 
@@ -114,9 +114,11 @@ For the purposes of this part—
 
 (21) The term “Governor” means the chief executive officer of a State or his designee.
 
-(Pub. L. 94–163, title III, §391, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3239; amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–440, §6(b), Oct. 18, 1990, 104 Stat. 1011.)
+(Pub. L. 94–163, title III, §391, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3239; amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–440, §6(b), Oct. 18, 1990, 104 Stat. 1011; Pub. L. 105–388, §5(a)(9), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### Amendments
+
+1998—Par. (2)(B). Pub. L. 105–388 substituted a semicolon for period at end.
 
 1990—Par. (1). Pub. L. 101–440, §6(b)(1), substituted “May 1, 1989” for “April 20, 1977”.
 
@@ -132,7 +134,7 @@ Par. (17)(A). Pub. L. 101–440, §6(b)(5), substituted “or energy cost saving
 
 #### Separability
 
-Section 302(c) of title III of Pub. L. 95–619 provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this sectionand section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
+Section 302(c) of title III of Pub. L. 95–619 provided that: “If any provision of this title \[enacting sections 6371 to 6371j and section 6372 to 6372i of this title, amending sections 300k–2 and 300n–1 of this title, and enacting provisions set out as notes under this section and section 6372 of this title\] or the application thereof to any person or circumstances be held invalid, the provisions of other sections of this title and their application to other persons or circumstances shall not be affected thereby.”
 
 #### Congressional Statement of Findings and Purposes
 
@@ -157,6 +159,4 @@ Purpose.—It is the purpose of this part \[enacting sections 6371 to 6371i of t
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6372 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

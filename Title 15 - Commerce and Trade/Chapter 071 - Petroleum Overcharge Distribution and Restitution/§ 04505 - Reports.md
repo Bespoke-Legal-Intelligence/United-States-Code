@@ -14,7 +14,7 @@ The Secretary shall transmit a report each fiscal year, beginning in fiscal year
 
 #### (c) Report on amount estimated to be available for indirect restitution
 
-The Secretary shall transmit, on March 1 of each year beginning with 1987 and continuing until all the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter, a report to such committees containing an estimate of the amount that will be determined under section 4502(c) of this title to be the excess amount for purposes of section 4502(d)(1)(B) of this title for the fiscal year beginning the next October 1.
+The Secretary shall transmit, on March 1 of each year beginning with 1987 and continuing until all the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter, a report to such committees containing an estimate of the amount that will be determined under section 4502(c) <sup>1</sup> of this title to be the excess amount for purposes of section 4502(d)(1)(B) <sup>1</sup> of this title for the fiscal year beginning the next October 1.
 
 #### (d) Receipt by committees
 
@@ -30,11 +30,15 @@ The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title 
 
 Section 155 of Public Law 97–377, referred to in subsecs. (a)(2), (b), is section 155 of Pub. L. 97–377, title I, Dec. 21, 1982, 96 Stat. 1919, which is not classified to the Code.
 
+Section 4502(c) and (d) of this title, referred to in subsec. (c), was repealed by section 4502(e) of this title.
+
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4506 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

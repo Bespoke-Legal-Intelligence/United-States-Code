@@ -16,7 +16,7 @@ The Department of Agriculture and any other Department or Federal agency which h
 
 The Commission shall not disclose in such reports data and information which would separately disclose the business transactions or market positions of any person and trade secrets or names of customers except as provided in section 12 of this title.
 
-(Sept. 21, 1922, ch. 369, §16, as added Oct. 23, 1974, Pub. L. 93–463, title IV, §414, 88 Stat. 1414; amended Jan. 11, 1983, Pub. L. 97–444, title II, §232, 96 Stat. 2320.)
+(Sept. 21, 1922, ch. 369, §16, as added Pub. L. 93–463, title IV, §414, Oct. 23, 1974, 88 Stat. 1414; amended Pub. L. 97–444, title II, §232, Jan. 11, 1983, 96 Stat. 2320.)
 
 #### Amendments
 
@@ -72,5 +72,5 @@ Final report.—Not later than 1 year after the date of enactment of this Act \[
 
 #### Potato Futures Study; Submission of Report to Congress
 
-Pub. L. 95–405, §27, Sept. 30, 1978, 92 Stat. 877, required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerning any legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
+Pub. L. 95–405, §27, Sept. 30, 1978, 92 Stat. 877, required, within one year of Oct. 1, 1978, Secretary of Agriculture to (1) conduct a comprehensive study of marketing of Irish potatoes and of making and trading of contracts of sale for future delivery of Irish potatoes, including rules and regulations pertaining to such trading issued by Commodity Futures Trading Commission or any contract market designated by Commission; and (2) submit to each House of Congress a detailed report on results of such study, and that report should also include any proposals Secretary may have concerningany legislation needed to implement such recommendations and concerning any modifications and rules and regulations needed to improve regulation of such contracts by Commission or any contract market designated by Commission.
 

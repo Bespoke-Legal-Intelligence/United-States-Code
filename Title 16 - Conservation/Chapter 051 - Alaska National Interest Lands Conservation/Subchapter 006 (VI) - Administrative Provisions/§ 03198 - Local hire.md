@@ -14,7 +14,7 @@ After consultation with the Office of Personnel Management, the Secretary shall 
 
 #### (b) Preference eligibles within local hire
 
-Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of suchtitle for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
+Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
 
 #### (c) Reports
 
@@ -32,7 +32,29 @@ The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5,
 
 1988—Subsecs. (b), (c). Pub. L. 100–689 added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### Local Hire Report
+
+Pub. L. 105–333, §11, Oct. 31, 1998, 112 Stat. 3135, provided that:
+
+“(a)
+
+In General.—Not later than 18 months after the date of enactment of this Act \[Oct. 31, 1998\], the Secretary of the Interior shall transmit to Congress a report.
+
+“(b)
+
+Local Hire.—The report required by subsection (a) shall—
+
+&emsp;“(1) indicate the actions taken in carrying out subsection (b) of section 1308 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3198);
+
+&emsp;“(2) address the recruitment processes that may restrict employees hired under subsection (a) of such section from successfully obtaining positions in the competitive service; and
+
+&emsp;“(3) describe the actions of the Secretary of the Interior in contracting with Alaska Native Corporations to provide services with respect to public lands in Alaska.
+
+“(c)
+
+Cooperation.—The Secretary of Agriculture shall cooperate with the Secretary of the Interior in carrying out this section with respect to the Forest Service.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1599c.
+This section is referred to in title 5 section 2302.
 

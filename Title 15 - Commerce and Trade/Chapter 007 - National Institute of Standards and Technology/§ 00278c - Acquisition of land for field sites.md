@@ -2,7 +2,7 @@
 
 To the extent that funds are specifically appropriated therefor, the Secretary of Commerce is authorized to acquire land for such field sites as are necessary for the proper and efficient conduct of the activities authorized herein.
 
-(Mar. 3, 1901, ch. 872, §13, as added Sept. 2, 1958, Pub. L. 85–890, §1, 72 Stat. 1711.)
+(Mar. 3, 1901, ch. 872, §13, as added Pub. L. 85–890, §1, Sept. 2, 1958, 72 Stat. 1711.)
 
 #### References in Text
 

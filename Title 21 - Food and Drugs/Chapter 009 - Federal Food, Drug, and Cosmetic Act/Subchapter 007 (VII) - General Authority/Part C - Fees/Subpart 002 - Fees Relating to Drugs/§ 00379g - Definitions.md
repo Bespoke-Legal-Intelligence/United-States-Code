@@ -16,7 +16,7 @@ For purposes of this part:
 
 &emsp;&emsp;(C) licensure of a biological product under section 262 of title 42.
 
-> &emsp;Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, and does not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion.
+> &emsp;Such term does not include a supplement to such an application, does not include an application with respect to whole blood or a blood component for transfusion, does not include an application with respect to a bovine blood product for topical application licensed before September 1, 1992, an allergenic extract product, or an in vitro diagnostic biologic product licensed under section 262 of title 42, does not include an application with respect to a large volume parenteral drug product approved before September 1, 1992, does not include an application for a licensure of a biological product for further manufacturing use only, anddoes not include an application or supplement submitted by a State or Federal Government entity for a drug that is not distributed commercially. Such term does include an application for licensure, as described in subparagraph (D), of a large volume biological product intended for single dose injection for intravenous use or infusion.
 
 &emsp;(2) The term “supplement” means a request to the Secretary to approve a change in a human drug application which has been approved.
 
@@ -30,7 +30,7 @@ For purposes of this part:
 
 &emsp;(4) The term “final dosage form” means, with respect to a prescription drug product, a finished dosage form which is approved for administration to a patient without substantial further manufacturing.
 
-&emsp;(5) The term “prescription drug establishment” means a foreign or domestic place ofbusiness which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form. For purposes of this paragraph, the term “manufactured” does not include packaging.
+&emsp;(5) The term “prescription drug establishment” means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within five miles of each other and at which one or more prescription drug products are manufactured in final dosage form. For purposes of this paragraph, the term “manufactured” does not include packaging.
 
 &emsp;(6) The term “process for the review of human drug applications” means the following activities of the Secretary with respect to the review of human drug applications and supplements:
 
@@ -98,7 +98,7 @@ Par. (5). Pub. L. 105–115, §§102(4), 107, temporarily amended first sentence
 
 &emsp;“(B) under the management of a person that is listed as the applicant in a human drug application for a prescription drug product with respect to at least one such product.”
 
-> See Effective and Termination dates of 1997 Amendment note below.
+> See Effective and Termination Dates of 1997 Amendment note below.
 
 Par. (7)(A). Pub. L. 105–115, §§102(5), 107, temporarily substituted “contractors of the Food and Drug Administration,” for “employees under contract with the Food and Drug Administration who work in facilities owned or leased for the Food and Drug Administration,” and “and committees and to contracts with such contractors,” for “and committees,”. See Effective and Termination Dates of 1997 Amendment note below.
 

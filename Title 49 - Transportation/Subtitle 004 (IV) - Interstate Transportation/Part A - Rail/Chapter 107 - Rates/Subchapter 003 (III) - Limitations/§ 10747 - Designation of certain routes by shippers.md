@@ -28,7 +28,7 @@ Section 10749, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393; Pub. L. 96–296,
 
 Section 10750, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1394, related to demurrage charges. See section 10746 of this title.
 
-Section 10751, added Pub. L. 96–296, §33(a), July 1, 1980, 94 Stat. 824; amended Pub. L. 96–448, title II, §215(a), Oct. 14, 1980, 94 Stat. 1915; Pub. L. 103–272, §4(j)(25), July 5, 1994, 108 Stat. 1369, related to business entertainment expenses. See section 14901 of this title.
+Section 10751, added Pub. L. 96–296, §33(a), July 1, 1980, 94 Stat. 824; amended Pub. L. 96–448, title II, §215(a), Oct. 14, 1980, 94 Stat. 1915; Pub. L. 103–272,§4(j)(25), July 5, 1994, 108 Stat. 1369, related to business entertainment expenses. See section 14901 of this title.
 
 Section 10761, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1394; Pub. L. 96–296, §33(c), July 1, 1980, 94 Stat. 825; Pub. L. 103–311, title II, §206(b), Aug. 26, 1994, 108 Stat. 1684, related to prohibition of transportation without tariff. See section 13702 of this title.
 

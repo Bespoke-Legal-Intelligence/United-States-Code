@@ -56,7 +56,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (3) Certification
 
-&emsp;The homebuyer (and spouse, where applicable) shall certify that the homebuyer has made a good faith effort to obtain a market rate mortgage and has been denied because the annual income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer is insufficient.
+&emsp;The homebuyer (and spouse, where applicable) shall certify that the homebuyer hasmade a good faith effort to obtain a market rate mortgage and has been denied because the annual income of the homebuyer and the members of the family of the homebuyer residing with the homebuyer is insufficient.
 
 #### (4) Principal residence
 

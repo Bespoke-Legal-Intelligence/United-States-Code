@@ -12,7 +12,7 @@ The Secretary is authorized to select on the basis of open competitions—
 
 #### (b) Commercial production and utilization of photovoltaic components and systems; selection of components and systems compatible with chosen design concepts; procurement of components and systems
 
-The Secretary, in accordance with the applicable provisions of sections 5906, 5907, and 5908 ofthis title and with such program guidelines as the Secretary may establish, shall—
+The Secretary, in accordance with the applicable provisions of sections 5906, 5907, and 5908 of this title and with such program guidelines as the Secretary may establish, shall—
 
 &emsp;(1) enter into such contracts and grants as may be necessary or appropriate for the development for commercial production and utilization of photovoltaic components and systems, including any further planning and design which may be required to conform with the specifications set forth in any applicable criteria;
 

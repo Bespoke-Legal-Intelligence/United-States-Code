@@ -8,7 +8,7 @@ Subject to valid existing rights, the Secretary of Agriculture (hereafter in thi
 
 The national recreation area also shall be administered according to the following special management requirements:
 
-&emsp;(1) Subject to such terms and conditions as may be prescribed by the Secretary, includingthe protection of threatened and endangered species and the protection of other natural, cultural, and scenic values, owners of privately owned land and homes within the national recreation area shall be afforded access across National Forest System lands.
+&emsp;(1) Subject to such terms and conditions as may be prescribed by the Secretary, including the protection of threatened and endangered species and the protection of other natural, cultural, and scenic values, owners of privately owned land and homes within the national recreation area shall be afforded access across National Forest System lands.
 
 &emsp;(2) Consistent with section 460aaa–6 of this title, and the purposes of this subchapter, the Secretary shall provide for and maintain traditional public access, including vehicular roads for general recreational activities such as camping, hiking, hunting, fishing, and trapping.
 

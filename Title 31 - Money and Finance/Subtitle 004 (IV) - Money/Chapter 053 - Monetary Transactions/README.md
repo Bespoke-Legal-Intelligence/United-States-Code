@@ -38,7 +38,38 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—MONEY LAUNDERING AND RELATED FINANCIAL CRIMES
+
+|  |  |
+| :--- | ---: |
+| [5340\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/%C2%A7%2005340%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part 1—National Money Laundering and Related Financial Crimes Strategy
+
+|  |  |
+| :--- | ---: |
+| [5341\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/Part%20001%20-%20National%20Money%20Laundering%20and%20Related%20Financial%20Crimes%20Strategy/%C2%A7%2005341%20-%20National%20money%20laundering%20and%20related%20financial%20crimes%20strategy.md) | National money laundering and related financial crimes strategy. |
+| [5342\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/Part%20001%20-%20National%20Money%20Laundering%20and%20Related%20Financial%20Crimes%20Strategy/%C2%A7%2005342%20-%20High-risk%20money%20laundering%20and%20related%20financial%20crime%20areas.md) | High-risk money laundering and related financial crime areas. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part 2—Financial Crime-Free Communities Support Program
+
+|  |  |
+| :--- | ---: |
+| [5351\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/Part%20002%20-%20Financial%20Crime-Free%20Communities%20Support%20Program/%C2%A7%2005351%20-%20Establishment%20of%20financial%20crime-free%20communities%20support%20program.md) | Establishment of financial crime-free communities support program. |
+| [5352\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/Part%20002%20-%20Financial%20Crime-Free%20Communities%20Support%20Program/%C2%A7%2005352%20-%20Program%20authorization.md) | Program authorization. |
+| [5353\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/Part%20002%20-%20Financial%20Crime-Free%20Communities%20Support%20Program/%C2%A7%2005353%20-%20Information%20collection%20and%20dissemination%20with%20respect%20to%20grant%20recipients.md) | Information collection and dissemination with respect to grant recipients. |
+| [5354\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/Part%20002%20-%20Financial%20Crime-Free%20Communities%20Support%20Program/%C2%A7%2005354%20-%20Grants%20for%20fighting%20money%20laundering%20and%20related%20financial%20crimes.md) | Grants for fighting money laundering and related financial crimes. |
+| [5355\.](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/Part%20002%20-%20Financial%20Crime-Free%20Communities%20Support%20Program/%C2%A7%2005355%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+1998—Pub. L. 105–310, §2(b), Oct. 30, 1998, 112 Stat. 2948, added subchapter III heading, parts 1 and 2 headings, and items 5340 to 5355.
 
 1996—Pub. L. 104–208, div. A, title II, §2223(2), Sept. 30, 1996, 110 Stat. 3009–415, struck out item 5327 “Identification of financial institutions”.
 
@@ -63,3 +94,4 @@ This chapter is referred to in section 9703 of this title; title 18 section 1510
 
 - [Subchapter 001 (I) - Credit and Monetary Expansion](Subchapter%20001%20%28I%29%20-%20Credit%20and%20Monetary%20Expansion/README.md)
 - [Subchapter 002 (II) - Records and Reports on Monetary Instruments Transactions](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/README.md)
+- [Subchapter 003 (III) - Money Laundering and Related Financial Crimes](Subchapter%20003%20%28III%29%20-%20Money%20Laundering%20and%20Related%20Financial%20Crimes/README.md)

@@ -14,7 +14,7 @@
 
 (b)(1) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives any new plans or substantial amendments to ongoing plans for the exploration, development, and production of the naval petroleum reserves.
 
-(2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
+(2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney Generalof the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
 (c) During the period of production authorized by section 7422(c) of this title, the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
 
@@ -28,7 +28,7 @@
 
 &emsp;(5) Such other information regarding the reserve as the Secretary deems appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Oct. 11, 1962, Pub. L. 87–796, §1(7), 76 Stat. 905; Apr. 5, 1976, Pub. L. 94–258, title II, §201(12), 90 Stat. 311; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(52), 98 Stat. 2625; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(25), 99 Stat. 740; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(2), 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–796, §1(7), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(12), Apr. 5, 1976, 90 Stat. 311; Pub. L. 98–525, title XIV, §1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–145, title XIII, §1303(a)(25), Nov. 8, 1985, 99 Stat. 740; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
 
 Historical and Revision Notes
 
@@ -52,9 +52,13 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
 1984—Subsecs. (b)(1), (c). Pub. L. 98–525 inserted “of this title” after “section 7422(c)”.
 
-1976—Pub. L. 94–258 designated existing provisions as subsec. (a), struck out “or oil shale” in pars. (1) and (2) before “reserves”, struck out “and oil shale” in pars. (2) and (3), before “reserves” substituted “petroleum (other than royalty oil and gas)” for “oil and gas (otherthan royalty oil and gas), oil shale, and products therefrom” in par. (3), and added subsecs. (b) and (c).
+1976—Pub. L. 94–258 designated existing provisions as subsec. (a), struck out “or oil shale” in pars. (1) and (2) before “reserves”, struck out “and oil shale” in pars. (2) and (3), before “reserves” substituted “petroleum (other than royalty oil and gas)” for “oil and gas (other than royalty oil and gas), oil shale, and products therefrom” in par. (3), and added subsecs. (b) and (c).
 
 1962—Pub. L. 87–796 included oil shale reserves in cls. (1) and (2), inserted provisions in cl. (2) excepting consultation and Presidential approval in connection with issuance of permits, licenses, easements, grazing and agricultural leases, rights-of-way, and similar contracts pertaining to use of surface area of naval petroleum and oil shale reserves, and included oil shale, and products therefrom produced from any part of oil shale reserves.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Contract for Studies of Potential Transfer Out of Federal Control of Facilities and Functions at Elk Hills and Teapot Dome; Restrictions
 

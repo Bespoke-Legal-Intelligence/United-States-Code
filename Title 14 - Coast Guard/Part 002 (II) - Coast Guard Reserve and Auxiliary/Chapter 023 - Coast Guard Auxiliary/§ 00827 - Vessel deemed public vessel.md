@@ -2,7 +2,7 @@
 
 While assigned to authorized Coast Guard duty, any motorboat or yacht shall be deemed to be a public vessel of the United States and a vessel of the Coast Guard within the meaning of sections 646 and 647 of this title and other applicable provisions of law.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 555; Oct. 19, 1996, Pub. L. 104–324, title IV, §406, 110 Stat. 3924.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 555; Pub. L. 104–324, title IV, §406, Oct. 19, 1996, 110 Stat. 3924.)
 
 #### Historical and Revision Notes
 

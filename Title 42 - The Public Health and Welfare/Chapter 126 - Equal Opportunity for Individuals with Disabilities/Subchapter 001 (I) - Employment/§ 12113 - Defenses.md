@@ -36,7 +36,7 @@ The term “qualification standards” may include a requirement that an individ
 
 #### (2) Applications
 
-&emsp;In any case in which an individual has an infectious or communicable disease that is transmitted to others through the handling offood, that is included on the list developed by the Secretary of Health and Human Services under paragraph (1), and which cannot be eliminated by reasonable accommodation, a covered entity may refuse to assign or continue to assign such individual to a job involving food handling.
+&emsp;In any case in which an individual has an infectious or communicable disease that is transmitted to others through the handling of food, that is included on the list developed by the Secretary of Health and Human Services under paragraph (1), and which cannot be eliminated by reasonable accommodation, a covered entity may refuse to assign or continue to assign such individual to a job involving food handling.
 
 #### (3) Construction
 

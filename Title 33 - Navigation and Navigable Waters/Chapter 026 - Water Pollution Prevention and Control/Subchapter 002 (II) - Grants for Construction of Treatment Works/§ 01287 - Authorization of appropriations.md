@@ -22,5 +22,5 @@ Pub. L. 94–369, title III, §301, July 22, 1976, 90 Stat. 1011, provided for a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1281, 1285, 1375, 1376, 1377 of this title.
+This section is referred to in sections 1281, 1285, 1376, 1377 of this title.
 

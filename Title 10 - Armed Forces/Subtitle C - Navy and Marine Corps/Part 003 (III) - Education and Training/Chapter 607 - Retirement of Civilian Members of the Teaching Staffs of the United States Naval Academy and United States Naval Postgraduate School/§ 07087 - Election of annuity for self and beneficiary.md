@@ -12,7 +12,7 @@
 
 (c) The annuity payable under this section to the beneficiary of a deceased civilian member shall be terminated upon the death of the beneficiary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 440; Oct. 12, 1982, Pub. L. 97–295, §1(45), 96 Stat. 1298.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 440; Pub. L. 97–295, §1(45), Oct. 12, 1982, 96 Stat. 1298.)
 
 Historical and Revision Notes<br>1956
 

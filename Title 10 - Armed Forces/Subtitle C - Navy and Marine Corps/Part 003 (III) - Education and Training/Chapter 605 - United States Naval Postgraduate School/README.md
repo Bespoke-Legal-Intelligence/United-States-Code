@@ -19,6 +19,10 @@
 
 1992—Pub. L. 102–484, div. A, title X, §1073(b), Oct. 23, 1992, 106 Stat. 2511, added item 7047 and redesignated former item 7047 as 7048.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 1552 of this title.
+
 
 ---
 

@@ -4,7 +4,7 @@
 
 (b) The Commission shall be subject to the Federal Advisory Committee Act, except that, under section 14(a)(1)(B) of such Act, the Commission shall terminate on December 31, 1982.
 
-(July 1, 1944, ch. 373, title XVIII, §1804, as added Nov. 9, 1978, Pub. L. 95–622, title III, §301, 92 Stat. 3441.)
+(July 1, 1944, ch. 373, title XVIII, §1804, as added Pub. L. 95–622, title III, §301, Nov. 9, 1978, 92 Stat. 3441.)
 
 #### References in Text
 

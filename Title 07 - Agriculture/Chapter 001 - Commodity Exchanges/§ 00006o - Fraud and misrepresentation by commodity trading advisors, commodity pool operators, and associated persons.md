@@ -8,7 +8,7 @@
 
 (2) It shall be unlawful for any commodity trading advisor, associated person of a commodity trading advisor, commodity pool operator, or associated person of a commodity pool operator registered under this chapter to represent or imply in any manner whatsoever that such person has been sponsored, recommended, or approved, or that such person's abilities or qualifications have in any respect been passed upon, by the United States or any agency or officer thereof. This section shall not be construed to prohibit a statement that a person is registered under this chapter as a commodity trading advisor, associated person of a commodity trading advisor, commodity pool operator, or associated person of a commodity pool operator, if such statement is true in fact and if the effect of such registration is not misrepresented.
 
-(Sept. 21, 1922, ch. 369, §4<i>o</i>, as added Oct. 23, 1974, Pub. L. 93–463, title II, §205(a), 88 Stat. 1399; amended Sept. 30, 1978, Pub. L. 95–405, §10, 92 Stat. 870; Jan. 11, 1983, Pub. L. 97–444, title II, §214, 96 Stat. 2305.)
+(Sept. 21, 1922, ch. 369, §4<i>o</i>, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1399; amended Pub. L. 95–405, §10, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title II, §214, Jan. 11, 1983, 96 Stat. 2305.)
 
 #### Amendments
 

@@ -52,17 +52,13 @@ No Senator or Member of the House of Representatives may maintain or use, direct
 
 &emsp;(A) shall be available for postage for franked mail sent at a first class, third class, or fourth class rate;
 
-&emsp;(B) with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piece rate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in section 3210(d)(7)(B) of title 39;
+&emsp;(B) with respect to a Member of the House of Representatives, shall be available, in a session of Congress, in a total amount, as determined under paragraph (1)(A), of not more than the product of (i) 3 times the single-piece rate applicable to first class mail, and (ii) the number (as determined by the Postmaster General) of addresses (other than business possible delivery stops) in the congressional district, as such addresses are described in section 3210(d)(7)(B) of title 39; and
 
-&emsp;(C) with respect to any other person entitled to use the congressional frank in the House of Representatives (including any Member of the House of Representatives who receives an allocation under subsection (a)(2) of this section with respect to duties as an elected officer of, or holder of another position in, the House of Representatives), shall be available, in a session of Congress, in a total amount determined under paragraph (1)(A); and
-
-&emsp;(D) shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.
+&emsp;(C) with respect to any other person entitled to use the congressional frank in the House of Representatives (including any Member of the House of Representatives who receives an allocation under subsection (a)(2) of this section with respect to duties as an elected officer of, or holder of another position in, the House of Representatives), shall be available, in a session of Congress, in a total amount determined under paragraph (1)(A).
 
 (3)(A) Subject to subparagraph (B), each Member of the House of Representatives may transfer amounts from the Members’ Representational Allowance of the Member to the Official Mail Allowance of the Member.
 
 (B) The total amount a Member may so transfer with respect to a session of Congress may not exceed $25,000.
-
-(4) The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.
 
 #### (f) Mass mailing; submission of samples or description of proposed mail matter; advisory opinion
 
@@ -82,7 +78,7 @@ As used in subsections (a) through (f) of this section—
 
 This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
-(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728.)
+(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, §104, Oct. 21, 1998, 112 Stat. 2439.)
 
 #### References in Text
 
@@ -95,6 +91,10 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 Subsec. (h) of this section made the amendments specified in the References in Text note above.
 
 #### Amendments
+
+1998—Subsec. (e)(2). Pub. L. 105–275, §104(a), inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
+
+Subsec. (e)(4). Pub. L. 105–275, §104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
 
 1996—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
 
@@ -111,6 +111,10 @@ Subsec. (e)(3)(A). Pub. L. 104–186, §203(22)(B)(vi), substituted “Members�
 Subsec. (e)(4). Pub. L. 104–186, §203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
 
 1991—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Cross References
 

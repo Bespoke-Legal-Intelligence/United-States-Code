@@ -40,11 +40,11 @@ The antitrust laws, referred to in subsec. (d), are classified generally to chap
 
 1994—Subsecs. (c)(2), (d)(2), (3). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House” for “Committees on Interior and Insular Affairs of the Senate and the House”.
 
-1984—Subsec. (e). Pub. L. 98–366 struck out subsec. (e) which read as follows: “Until the reserve is transferredto the jurisdiction of the Secretary of the Interior, the Secretary of the Navy is authorized to develop and continue operation of the South Barrow gas field, or such other fields as may be necessary, to supply gas at reasonable and equitable rates to the native village of Barrow, and other communities and installations at or near Point Barrow, Alaska, and to installations of the Department of Defense and other agencies of the United States located at or near Point Barrow, Alaska. After such transfer, the Secretary of the Interior shall take such actions as may be necessary to continue such service to such village, communities, installations, and agencies at reasonable and equitable rates.”
+1984—Subsec. (e). Pub. L. 98–366 struck out subsec. (e) which read as follows: “Until the reserve is transferred to the jurisdiction of the Secretary of the Interior, the Secretary of the Navy is authorized to develop and continue operation of the South Barrow gas field, or such other fields as may be necessary, to supply gas at reasonable and equitable rates to the native village of Barrow, and other communities and installations at or near Point Barrow, Alaska, and to installations of the Department of Defense and other agencies of the United States located at or near Point Barrow, Alaska. After such transfer, the Secretary of the Interior shall take such actions as may be necessary to continue such service to such village, communities, installations, and agencies at reasonable and equitable rates.”
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives and Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 

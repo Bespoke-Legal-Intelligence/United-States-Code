@@ -12,7 +12,7 @@
 
 (d) An officer candidate designated under this section may not participate in the program of a reserve officer training corps of any armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §600; renumbered §12209, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(c)(3), 108 Stat. 2990; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(b)(12)(A), 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §600; renumbered §12209, Pub. L. 103–337, div. A, title XVI, §1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, §1501(b)(12)(A), Feb. 10, 1996, 110 Stat. 496.)
 
 Historical and Revision Notes
 

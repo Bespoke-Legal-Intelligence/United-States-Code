@@ -16,6 +16,10 @@ Section 305(c) of Pub. L. 101–73 provided that: “The amendments made by sect
 
 &emsp;“(2) occurred after the completion of the last report of examination of the institution by the appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) occurring before the date of the enactment of this Act.”
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–164, §1, Mar. 20, 1998, 112 Stat. 32, provided that: “This Act \[enacting section 1786a of this title, amending sections 1464 and 1818 of this title, and enacting provisions set out as a note under section 1811 of this title\] may be cited as the ‘Examination Parity and Year 2000 Readiness for Financial Institutions Act’.”
+
 #### Short Title of 1991 Amendment
 
 Pub. L. 102–242, title IV, §436, Dec. 19, 1991, 105 Stat. 2381, provided that: “This subtitle \[subtitle G (§§436–441) of title IV of Pub. L. 102–242, amending sections 1464 and 1467a of this title\] may be cited as the ‘Qualified Thrift Lender Reform Act of 1991’.”

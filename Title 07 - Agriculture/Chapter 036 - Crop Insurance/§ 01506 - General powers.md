@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courtsof the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
+The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -126,13 +126,33 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 &emsp;In providing financial assistance to, or entering into any contract with, any entity for the purchase of equipment and products to carry out this chapter, the Corporation, to the greatest extent practicable, shall provide to the entity a notice describing the statement made in paragraph (1).
 
-(Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Sept. 26, 1980, Pub. L. 96–365, title I, §§103, 107(a), 94 Stat. 1313, 1317; Nov. 28, 1990, Pub. L. 101–624, title XXII, §§2201(a), 2202, 104 Stat. 3951, 3954; Dec. 13, 1991, Pub. L. 102–237, title VI, §601(1), (2), 105 Stat. 1878; Aug. 10, 1993, Pub. L. 103–66, title XIV, §1403(a), 107 Stat. 333; Oct. 13, 1994, Pub. L. 103–354, title I, §§104, 119(f)(1), 108 Stat. 3181, 3208.)
+#### (s) Procedures for responding to certain inquiries
+
+#### (1) Procedures required
+
+&emsp;The Corporation shall establish procedures under which the Corporation will provide a final agency determination in response to an inquiry regarding the interpretation by the Corporation of this chapter or any regulation issued under this chapter.
+
+#### (2) Implementation
+
+&emsp;Not later than 180 days after June 23, 1998, the Corporation shall issue regulations to implement this subsection. At a minimum, the regulations shall establish—
+
+&emsp;&emsp;(A) the manner in which inquiries described in paragraph (1) are required to be submitted to the Corporation; and
+
+&emsp;&emsp;(B) a reasonable maximum number of days within which the Corporation will respond to all inquiries.
+
+#### (3) Effect of failure to timely respond
+
+&emsp;If the Corporation fails to respond to an inquiry in accordance with the procedures established pursuant to this subsection, the person requesting the interpretation of this chapter or regulation may assume the interpretation is correct for the applicable reinsurance year.
+
+(Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Pub. L. 96–365, title I, §§103, 107(a), Sept. 26, 1980, 94 Stat. 1313, 1317; Pub. L. 101–624, title XXII, §§2201(a), 2202, Nov. 28, 1990, 104 Stat. 3951, 3954; Pub. L. 102–237, title VI, §601(1), (2), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title XIV, §1403(a), Aug. 10, 1993, 107 Stat. 333; Pub. L. 103–354, title I, §§104, 119(f)(1), Oct. 13, 1994, 108 Stat. 3181, 3208; Pub. L. 105–185, title V, §533, June 23, 1998, 112 Stat. 583.)
 
 #### References in Text
 
 Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 
 #### Amendments
+
+1998—Subsec. (s). Pub. L. 105–185 added subsec. (s).
 
 1994—Subsec. (d). Pub. L. 103–354, §119(f)(1), substituted “1508(j)” for “1508(f)” in first sentence.
 
@@ -214,6 +234,10 @@ Subsec. (k). Pub. L. 96–365, §103(4), added subsec. (k).
 
 1941—Subsec. (h). Act June 21, 1941, substituted “and preparatory to the application of the chapter to other basic commodities when so provided by law, shall assemble data relative to field corn, for the purpose of establishing a satisfactory actuarial basis for such commodity” for “for wheat and other agricultural commodities.”
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–185, title V, §537, June 23, 1998, 112 Stat. 584, provided that: “Except as provided in section 535 \[112 Stat. 583\], this subtitle \[subtitle C (§§531–537) of title V of Pub. L. 105–185, amending this section andsections 1508 and 1516 of this title and enacting provisions set out as notes under this section\] and the amendments made by this subtitle take effect on July 1, 1998.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
@@ -235,6 +259,40 @@ Section 1403(c)(2) of Pub. L. 103–66 provided that: “Not later than 30 days 
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
+
+#### Required Terms and Conditions of Standard Reinsurance Agreements
+
+Pub. L. 105–185, title V, §536, June 23, 1998, 112 Stat. 584, provided that:
+
+“(a)
+
+Definitions.—In this section, the terms ‘approved insurance provider’ and ‘Corporation’ have the meanings given the terms in section 502(b) of the Federal Crop Insurance Act (7 U.S.C. 1502(b)).
+
+“(b)
+
+Terms and Conditions.—
+
+&emsp;“(1)
+
+Incorporation of amendments.—For each of the 1999 and subsequent reinsurance years, the Corporation shall ensure that each Standard Reinsurance Agreement between an approved insurance provider and the Corporation reflects the amendments to the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) that are made by this subtitle \[see Effective Date of 1998 Amendment note above\] to the extent the amendments are applicable to approved insurance providers.
+
+&emsp;“(2)
+
+Retention of existing provisions.—Except to the extent necessary to implement the amendments made by this subtitle, each Standard Reinsurance Agreement described in paragraph (1) shall contain the following provisions of the Standard Reinsurance Agreement for the 1998 reinsurance year:
+
+&emsp;&emsp;“(A) Section II, concerning the terms of reinsurance and underwriting gain and loss for an approved insurance provider.
+
+&emsp;&emsp;“(B) Section III, concerning the terms for subsidies and administrative fees for an approved insurance provider.
+
+&emsp;&emsp;“(C) Section IV, concerning the terms for loss adjustment for an approved insurance provider under catastrophic risk protection.
+
+&emsp;&emsp;“(D) Section V.C., concerning interest payments between the Corporation and an approved insurance provider.
+
+&emsp;&emsp;“(E) Section V.I.5., concerning liquidated damages.
+
+“(c)
+
+Implementation.—To implement this subtitle and the amendments made by this subtitle, the Corporation is not required to amend provisions of the Standard Reinsurance Agreement not specifically affected by this subtitle or an amendment made by this subtitle.”
 
 #### Crop Insurance Provider Evaluation
 

@@ -54,7 +54,7 @@ Each application submitted under subsection (a) of this section shall include as
 
 &emsp;&emsp;(B) will use the best available talents and resources, including individuals from the Indian community; and
 
-&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian children and teachers, and, if appropriate, Indian students from secondary schools, including public hearings held by such agency to provide the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program; and
+&emsp;&emsp;(C) was developed by such agency in open consultation with parents of Indian childrenand teachers, and, if appropriate, Indian students from secondary schools, including public hearings held by such agency to provide the individuals described in this subparagraph a full opportunity to understand the program and to offer recommendations regarding the program; and
 
 &emsp;(4) the local educational agency developed the program with the participation and written approval of a committee—
 

@@ -6,7 +6,7 @@
 
 (c) The Governors shall appoint and shall have the power to remove the Postmaster General, who shall be a voting member of the Board. His pay and term of service shall be fixed by the Governors.
 
-(d) The Governors and the Postmaster General shall appoint and shall have the power to remove the Deputy Postmaster General, who shall be a voting member of the Board. His term of service shall be fixed by the Governors and the Postmaster General and his pay by the Governors.
+(d) The Governors and the Postmaster General shall appoint and shall have the power to remove the Deputy Postmaster General, who shall be a voting member of the Board. His term ofservice shall be fixed by the Governors and the Postmaster General and his pay by the Governors.
 
 (e)(1) The Governors shall appoint and shall have the power to remove the Inspector General.
 

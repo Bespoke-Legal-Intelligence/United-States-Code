@@ -4,9 +4,11 @@ All orders or contracts for work or material or for the manufacture of material 
 
 (June 5, 1920, ch. 240, 41 Stat. 975; July 1, 1922, ch. 259, 42 Stat. 812; June 2, 1937, ch. 293, 50 Stat. 245.)
 
+#### Codification
+
+Section is a composite of acts June 5, 1920, ch. 240, and July 1, 1922, ch. 259. The words “for work or material” after “All orders or contracts”, “or contracts” after “similar orders”, and “or private contractors” after “commercial manufacturers” in two places are based on act July 1, 1922.
+
 #### Amendments
 
 1937—Act June 2, 1937, continued this section in effect.
-
-1922—Act July 1, 1922, inserted “for work or material” after “All orders or contracts”, “or contracts” after “similar orders” and “or private contractors” after “commercial manufacturers” in two places.
 

@@ -36,7 +36,7 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Mar. 3, 1964, Pub. L. 88–276, §5(a), 78 Stat. 153; Oct. 13, 1964, Pub. L. 88–647, title III, §301(9), 78 Stat. 1072; Oct. 19, 1984, Pub. L. 98–525, title V, §§541(a), 542(b), 98 Stat. 2529; Nov. 8, 1985, Pub. L. 99–145, title V, §512(a), 99 Stat. 623; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), 103 Stat. 1439, 1605; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §531(a), 110 Stat. 314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314.)
 
 Historical and Revision Notes
 

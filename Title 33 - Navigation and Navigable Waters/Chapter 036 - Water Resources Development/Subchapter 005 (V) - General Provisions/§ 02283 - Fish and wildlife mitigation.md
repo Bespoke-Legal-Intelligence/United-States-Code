@@ -34,7 +34,7 @@ After November 17, 1986, the Secretary shall not submit any proposal for the aut
 
 #### (e) First enhancement costs as Federal costs
 
-In those cases when the Secretary, as part of any report to Congress, recommends activities to enhance fish and wildlife resources, the firstcosts of such enhancement shall be a Federal cost when—
+In those cases when the Secretary, as part of any report to Congress, recommends activities to enhance fish and wildlife resources, the first costs of such enhancement shall be a Federal cost when—
 
 &emsp;(1) such enhancement provides benefits that are determined to be national, including benefits to species that are identified by the National Marine Fisheries Service as of national economic importance, species that are subject to treaties or international convention to which the United States is a party, and anadromous fish;
 

@@ -28,9 +28,9 @@
 
 (2) Effective June 1, 1988, each fiscal intermediary and carrier administering claims for extended care, post-hospital extended care, home health care, and durable medical equipment benefits under this subchapter shall make available to the public all interpretative materials, guidelines, and clarifications of policies which relate to payments for such benefits.
 
-(3) The Secretary shall to the extent feasible make such changes in automated data collection and retrieval by the Secretary and fiscal intermediaries with agreements under section 1395h of this title as are necessary to make easily accessible for the Secretary and other appropriate parties a data base which fairly and accurately reflects the provision of extended care, post-hospital extended care and home health care benefits pursuant to this subchapter, including such categories as benefit denials, results of appeals, and other relevant factors, and selectable bysuch categories and by fiscal intermediary, service provider, and region.
+(3) The Secretary shall to the extent feasible make such changes in automated data collection and retrieval by the Secretary and fiscal intermediaries with agreements under section 1395h of this title as are necessary to make easily accessible for the Secretary and other appropriate parties a data base which fairly and accurately reflects the provision of extended care, post-hospital extended care and home health care benefits pursuant to this subchapter, including such categories as benefit denials, results of appeals, and other relevant factors, and selectable by such categories and by fiscal intermediary, service provider, and region.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1871, as added July 30, 1965, Pub. L. 89–97, title I, §102(a) 79 Stat. 331; amended Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(e)(1), 100 Stat. 2017; Dec. 22, 1987, Pub. L. 100–203, title IV, §4035(b), (c), 101 Stat. 1330–78.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1871, as added Pub. L. 89–97, title I, §102(a) July 30, 1965, 79 Stat. 331; amended Pub. L. 99–509, title IX, §9321(e)(1), Oct. 21, 1986, 100 Stat. 2017; Pub. L. 100–203, title IV, §4035(b), (c), Dec. 22, 1987, 101 Stat. 1330–78.)
 
 #### Amendments
 

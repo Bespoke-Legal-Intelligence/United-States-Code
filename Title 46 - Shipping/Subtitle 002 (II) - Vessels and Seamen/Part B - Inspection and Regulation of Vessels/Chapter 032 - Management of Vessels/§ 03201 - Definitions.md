@@ -24,6 +24,48 @@ In this chapter—
 
 (Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928.)
 
+#### Safety Management Code Report and Policy
+
+Pub. L. 105–383, title III, §306, Nov. 13, 1998, 112 Stat. 3420, provided that:
+
+“(a)
+
+Report on Implementation and Enforcement of the International Safety Management Code.—
+
+&emsp;“(1) The Secretary of Transportation (in this section referred to as the ‘Secretary’) shall conduct a study—
+
+&emsp;&emsp;“(A) reporting on the status of implementation of the International Safety Management Code (hereafter referred to in this section as ‘Code’);
+
+&emsp;&emsp;“(B) detailing enforcement actions involving the Code, including the role documents and reports produced pursuant to the Code play in such enforcement actions;
+
+&emsp;&emsp;“(C) evaluating the effects the Code has had on marine safety and environmental protection, and identifying actions to further promote marine safety and environmental protection through the Code;
+
+&emsp;&emsp;“(D) identifying actions to achieve full compliance with and effective implementation of the Code; and
+
+&emsp;&emsp;“(E) evaluating the effectiveness of internal reporting and auditing under the Code, and recommending actions to ensure the accuracy and candidness of such reporting and auditing.
+
+> &emsp;These recommended actions may include proposed limits on the use in legal proceedings of documents produced pursuant to the Code.
+
+&emsp;“(2) The Secretary shall provide opportunity for the public to participate in and comment on the study conducted under paragraph (1).
+
+&emsp;“(3) Not later than 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], the Secretary shall submit to the Congress a report on the results of the study conducted under paragraph (1).
+
+“(b)
+
+Policy.—
+
+&emsp;“(1) Not later than 9 months after submission of the report in subsection (a)(3), the Secretary shall develop a policy to achieve full compliance with and effective implementation of the Code. The policy may include—
+
+&emsp;&emsp;“(A) enforcement penalty reductions and waivers, limits on the use in legal proceedings of documents produced pursuant to the Code, or other incentives to ensure accurate and candid reporting and auditing;
+
+&emsp;&emsp;“(B) any other measures to achieve full compliance with and effective implementation of the Code; and
+
+&emsp;&emsp;“(C) if appropriate, recommendations to Congress for any legislation necessary to implement one or more elements of the policy.
+
+&emsp;“(2) The Secretary shall provide opportunity for the public to participate in the development of the policy in paragraph (1).
+
+&emsp;“(3) Upon completion of the policy in paragraph (1), the Secretary shall publish the policy in the Federal Register and provide opportunity for public comment on the policy.”
+
 #### Vessel Management Methods Study
 
 Section 602(c) of Pub. L. 104–324 provided that:

@@ -6,7 +6,7 @@ Whoever brings, carries, or possesses any such weapon or explosive on board of a
 
 (b) This section shall not apply to the personnel of the Armed Forces of the United States or to officers or employees of the United States or of a State or of a political subdivision thereof, while acting in the performance of their duties, who are authorized by law or by rules or regulations to own or possess any such weapon or explosive.
 
-(June 25, 1948, ch. 645, 62 Stat. 804; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -120,7 +120,7 @@ Effective Date of Section 506.—The amendments made by section 506 of this Act 
 
 Section 803 of Pub. L. 98–459 provided that:
 
-“(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, section 3056 of this title, and section 631 of Title 29, and amending provisions set out as a note under former section 3045 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
+“(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, section 3056 of this title, and section 631 of Title 29, and amending provisions set out as a note under former section 3045 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
 
 “(b)(1) The amendment made by section 206(a) \[amending section 3017 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 9, 1984\].
 
@@ -132,7 +132,7 @@ Section 803 of Pub. L. 98–459 provided that:
 
 #### Effective Date of 1978 Amendment
 
-Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
+Section 504 of Pub. L. 95–478 provided that: “This Act \[see Short Title of 1978 Amendment note below\], andthe amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
 #### Short Title of 1993 Amendment
 
@@ -292,7 +292,7 @@ Involvement of Others.—
 
 &emsp;“(1)
 
-Government officials.—The study committee shall conduct its work in a manner that provides for the consultation with Members of Congress or their representatives, officials of the Department of Health and Human Services, and officials of State and localgovernments who are not members of the study committee.
+Government officials.—The study committee shall conduct its work in a manner that provides for the consultation with Members of Congress or their representatives, officials of the Department of Health and Human Services, and officials of State and local governments who are not members of the study committee.
 
 &emsp;“(2)
 
@@ -316,7 +316,7 @@ Section 213 of Pub. L. 102–375 provided that:
 
 “(a)
 
-Establishment Study of Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of home care services for older individuals and disabled individuals.
+Establishment Study of Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c)to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of home care services for older individuals and disabled individuals.
 
 “(b)
 
@@ -430,7 +430,7 @@ Department of Labor.—The Secretary of Labor shall—
 
 &emsp;&emsp;&emsp;“(iv) the ratio of the aides to professional staff;
 
-&emsp;&emsp;&emsp;“(v) the types of tasks performed by the aides, the level of skill needed to perform the tasks, andwhether the tasks are completed in a institution-based or home-based setting; and
+&emsp;&emsp;&emsp;“(v) the types of tasks performed by the aides, the level of skill needed to perform the tasks, and whether the tasks are completed in a institution-based or home-based setting; and
 
 &emsp;&emsp;&emsp;“(vi) the average number and range of hours worked each week by the aides; and
 
@@ -784,7 +784,7 @@ In general.—There are authorized to be appropriated such sums as may be necess
 
 &emsp;“(2)
 
-Contracts.—Authority to enter into contracts under this title shall be effective only to the extent,or in such amounts as are, provided in advance in appropriations Acts.
+Contracts.—Authority to enter into contracts under this title shall be effective only to the extent, or in such amounts as are, provided in advance in appropriations Acts.
 
 “(b)
 
@@ -804,7 +804,7 @@ Conference not convened.—If the Conference is not convened before December 31,
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
-\[Section 837 of Pub. L. 102–375 provided that: “All personnel assigned or engaged under section 202(b) or section 203(a)(5) of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to be assigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
+\[Section 837 of Pub. L. 102–375 provided that: “All personnel assigned or engaged under section 202(b) or section 203(a)(5) of the Older Americans Act Amendments of 1987 \[Pub. L. 100–175, set out above\] (42 U.S.C. 3001 note) as in effect immediately before the date of the enactment of this Act \[Sept. 30, 1992\] shall continue to beassigned or engaged under such section after such date notwithstanding the amendments made by this subtitle \[amending title II of Pub. L. 100–175, set out above\].”\]
 
 Pub. L. 95–478, title II, §§201–207, Oct. 18, 1978, 92 Stat. 1551–1554, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
 

@@ -2,7 +2,7 @@
 
 Whoever, upon the high seas or on any other waters within the admiralty and maritime jurisdiction of the United States, and out of the jurisdiction of any particular State, breaks or enters any vessel with intent to commit any felony, or maliciously cuts, spoils, or destroys any cordage, cable, buoys, buoy rope, head fast, or other fast, fixed to the anchor or moorings belonging to any vessel, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 804; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

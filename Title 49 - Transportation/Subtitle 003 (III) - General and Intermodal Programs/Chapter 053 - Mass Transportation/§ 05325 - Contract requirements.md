@@ -6,29 +6,13 @@ Noncompetitive Bidding.—A capital project or improvement contract for which a 
 
 (b)
 
-Acquiring Rolling Stock.—A recipient of financial assistance of the United States Government under this chapter may make a contract to expend that assistance to acquire rolling stock—
-
-&emsp;(1) based on—
-
-&emsp;&emsp;(A) initial capital costs; or
-
-&emsp;&emsp;(B) performance, standardization, life cycle costs, and other factors; or
-
-&emsp;(2) with a party selected through a competitive procurement process.
+Architectural, Engineering, and Design Contracts.—A contract or requirement for program management, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which a grant or loan is made under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) or an equivalent qualifications-based requirement of a State. When awarding such contracts, recipients of assistance under this chapter shall maximize efficiencies of administration by accepting nondisputed audits conducted by other governmental agencies, as provided in subparagraphs (C) through (F) of section 112(b)(2) of title 23, United States Code. This subsection does not apply to the extent a State has adopted or adopts by law a formal procedure for procuring those services.
 
 (c)
 
-Procuring Associated Capital Maintenance Items.—A recipient of a grant under section 5307 of this title procuring an associated capital maintenance item under section 5307(b) may make a contract directly with the original manufacturer or supplier of the item to be replaced, without receiving prior approval of the Secretary, if the recipient first certifies in writing to the Secretary that—
+Efficient Procurement.—A recipient may award a procurement contract under this chapter to other than the lowest bidder when the award furthers an objective consistent with the purposes of this chapter, including improved long-term operating efficiency and lower long-term costs.
 
-&emsp;(1) the manufacturer or supplier is the only source for the item; and
-
-&emsp;(2) the price of the item is no more than the price similar customers pay for the item.
-
-(d)
-
-Architectural, Engineering, and Design Contracts.—A contract for program management, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which a grant or loan is made under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) or an equivalent qualifications-based requirement of a State. This subsection does not apply to the extent a State has adopted or adopts by law a formal procedure for procuring those services.
-
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857.)
 
 Historical and Revision Notes
 
@@ -66,7 +50,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(3); added Apr. 2, 1987, Pu
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(4); added Apr. 2, 1987, Pub. L. 100–17, §316, 101 Stat. 232.
 
-In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency inthe revised title and with other titles of the United States Code.
 
 Subsection (b) is substituted for 49 App.:1608(b)(2) for clarity. The text of 49 App.:1608(b)(2) (last sentence) is omitted as executed.
 
@@ -76,15 +60,39 @@ This amends the catchline for 49:5325(d) to make a clarifying amendment.
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–178, §3022(b), as added by Pub. L. 105–206, inserted “or requirement” after “A contract” and “When awarding such contracts, recipients of assistance under this chapter shall maximize efficiencies of administration by accepting nondisputed audits conducted by other governmental agencies, as provided in subparagraphs (C) through (F) of section 112(b)(2) of title 23, United States Code.” before “This subsection does not apply”.
+
+Pub. L. 105–178, §3022(a)(1), (2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “A recipient of financial assistance of the United States Government under this chapter may make a contract to expend that assistance to acquire rolling stock—
+
+&emsp;“(1) based on—
+
+&emsp;&emsp;“(A) initial capital costs; or
+
+&emsp;&emsp;“(B) performance, standardization, life cycle costs, and other factors; or
+
+&emsp;“(2) with a party selected through a competitive procurement process.”
+
+Subsec. (c). Pub. L. 105–178, §3022(a)(1), (3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A recipient of a grant under section 5307 of this title procuring an associated capital maintenance item under section 5307(b) may make a contract directly with the original manufacturer or supplier of the item to be replaced, without receiving prior approval of the Secretary, if the recipient first certifies in writing to the Secretary that—
+
+&emsp;“(1) the manufacturer or supplier is the only source for the item; and
+
+&emsp;“(2) the price of the item is no more than the price similar customers pay for the item.”
+
+Subsec. (d). Pub. L. 105–178, §3022(a)(2), redesignated subsec. (d) as (b).
 
 1996—Subsec. (d). Pub. L. 104–287 substituted “
 
 Architectural, Engineering, and Design Contracts” for “
 
 Management, Architectural, and Engineering Contracts” in heading.
+
+#### Effective Date of 1998 Amendment
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 

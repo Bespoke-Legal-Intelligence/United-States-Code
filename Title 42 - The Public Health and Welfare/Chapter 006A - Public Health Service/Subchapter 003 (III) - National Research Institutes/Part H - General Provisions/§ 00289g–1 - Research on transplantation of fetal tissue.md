@@ -94,7 +94,7 @@ The Secretary shall annually submit to the Committee on Energy and Commerce of t
 
 For purposes of this section, the term “human fetal tissue” means tissue or cells obtained from a dead human embryo or fetus after a spontaneous or induced abortion, or after a stillbirth.
 
-(July 1, 1944, ch. 373, title IV, §498A, as added June 10, 1993, Pub. L. 103–43, title I, §111, 107 Stat. 129.)
+(July 1, 1944, ch. 373, title IV, §498A, as added Pub. L. 103–43, title I, §111, June 10, 1993, 107 Stat. 129.)
 
 #### Change of Name
 

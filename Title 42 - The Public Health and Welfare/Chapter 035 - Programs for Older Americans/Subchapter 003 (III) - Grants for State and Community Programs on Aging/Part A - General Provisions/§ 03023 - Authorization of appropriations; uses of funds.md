@@ -102,7 +102,7 @@ Subsec. (c)(2). Pub. L. 97–115, §3(d), substituted “supportive services” 
 
 Amendment by sections 303(a)(2), (3) and 708(c)(3) of Pub. L. 103–171 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
-Amendment by sections 303(a)(2), (3), (f), 316(b), and 708(c)(3) of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2), (6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by sections 303(a)(2), (3), (f), 316(b), and 708(c)(3) of Pub. L. 102–375 inapplicable with respect tofiscal year 1992, see section 905(b)(2), (6) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -17,3 +17,4 @@ This subchapter is referred to in section 4303 of this title.
 - [&sect; 04316 - Rights, benefits, and obligations of persons absent from employment for service in a uniformed service](%C2%A7%2004316%20-%20Rights%2C%20benefits%2C%20and%20obligations%20of%20persons%20absent%20from%20employment%20for%20service%20in%20a%20uniformed%20service.md)
 - [&sect; 04317 - Health plans](%C2%A7%2004317%20-%20Health%20plans.md)
 - [&sect; 04318 - Employee pension benefit plans](%C2%A7%2004318%20-%20Employee%20pension%20benefit%20plans.md)
+- [&sect; 04319 - Employment and reemployment rights in foreign countries](%C2%A7%2004319%20-%20Employment%20and%20reemployment%20rights%20in%20foreign%20countries.md)

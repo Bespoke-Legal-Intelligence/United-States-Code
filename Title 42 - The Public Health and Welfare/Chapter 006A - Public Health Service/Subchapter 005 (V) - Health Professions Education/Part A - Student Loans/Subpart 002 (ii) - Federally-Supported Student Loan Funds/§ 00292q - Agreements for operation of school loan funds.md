@@ -66,7 +66,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;&emsp;(ii) in their grace period.
 
-(July 1, 1944, ch. 373, title VII, §721, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2011.)
+(July 1, 1944, ch. 373, title VII, §721, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2011.)
 
 #### Prior Provisions
 
@@ -74,5 +74,5 @@ A prior section 721 of act July 1, 1944, was classified to section 293a of this 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 292r, 292s, 292t, 292v, 292x, 292y of this title.
+This section is referred to in sections 292r, 292s, 292t, 292v, 292x, 292y, 295<i>o</i>–1 of this title.
 

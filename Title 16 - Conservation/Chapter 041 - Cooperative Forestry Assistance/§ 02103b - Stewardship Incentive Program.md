@@ -106,3 +106,7 @@ There are authorized to be appropriated $100,000,000 for each of the fiscal year
 
 A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified to section 2105 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2106b of this title.
+

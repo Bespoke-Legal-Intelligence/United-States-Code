@@ -6,7 +6,7 @@ $10,000,000 shall remain available until expended, for the establishment of an I
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act (Public Law 93–638), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (Public Law 93–638), referred to in text, is Pub.L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), referred to in text, probably means Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
@@ -14,7 +14,7 @@ The Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), referred to in t
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and notas part of the Indian Health Care Improvement Act which comprises this chapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
 
 &nbsp;
 

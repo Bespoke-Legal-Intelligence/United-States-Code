@@ -4,7 +4,7 @@
 
 (b) It shall be the responsibility and right of every stockyard owner to manage and regulate his stockyard in a just, reasonable, and nondiscriminatory manner, to prescribe rules and regulations and to require those persons engaging in or attempting to engage in the purchase, sale, or solicitation of livestock at such stockyard to conduct their operations in a manner which will foster, preserve, or insure an efficient, competitive public market. Such rules and regulations shall not prevent a registered market agency or dealer from rendering service on other markets or in occasional and incidental off-market transactions.
 
-(Aug. 15, 1921, ch. 64, title III, §307, 42 Stat. 165; July 31, 1968, Pub. L. 90–446, §1(d), 82 Stat. 475.)
+(Aug. 15, 1921, ch. 64, title III, §307, 42 Stat. 165; Pub. L. 90–446, §1(d), July 31, 1968, 82 Stat. 475.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;(7) “mail” includes equipment and supplies of the Postal Service.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(A)–(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–454, §3(b)(2), Oct. 15, 1980, 94 Stat. 2012; Pub. L. 97–261, §6(d)(4), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4(3), Oct. 22, 1986, 100 Stat. 2993; Pub. L. 104–88, title III, §307(3)–(9), (14), Dec. 29, 1995, 109 Stat. 946.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(A)–(C), Oct. 17, 1978, 92 Stat. 1465;Pub. L. 96–454, §3(b)(2), Oct. 15, 1980, 94 Stat. 2012; Pub. L. 97–261, §6(d)(4), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4(3), Oct. 22, 1986, 100 Stat. 2993; Pub. L. 104–88, title III, §307(3)–(9), (14), Dec. 29, 1995, 109 Stat. 946.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Par. (6). Pub. L. 97–261, §6(d)(4)(B), substituted “10102(8) of title 49”
 
 1978—Par. (2). Pub. L. 95–473, §2(a)(4)(A), substituted “motor common carrier, or express carrier” for “motor carrier, or an express company”.
 
-Par. (5). Pub. L. 95–473, §2(a)(4)(B), substituted “ ‘motor common carrier’ means a motor common carrier, except a passenger-carrying motor vehicle of such a carrier, within the meaning of section 10102(11) oftitle 49, that holds a certificate of public convenience and necessity issued by the Commission” for “ ‘motor carrier’ means any common carrier by motor vehicle, except a passenger-carrying motor vehicle, within the meaning of section 303(a)(14) of title 49, which holds a certificate of public convenience and necessity issued by the Commission”.
+Par. (5). Pub. L. 95–473, §2(a)(4)(B), substituted “ ‘motor common carrier’ means a motor common carrier, except a passenger-carrying motor vehicle of such a carrier, within the meaning of section 10102(11) of title 49, that holds a certificate of public convenience and necessity issued by the Commission” for “ ‘motor carrier’ means any common carrier by motor vehicle, except a passenger-carrying motor vehicle, within the meaning of section 303(a)(14) of title 49, which holds a certificate of public convenience and necessity issued by the Commission”.
 
 Par. (6). Pub. L. 95–473, §2(a)(4)(C), substituted “carrier” for “company” and “section 10102(7)” for “section 1(3) of title 49”.
 

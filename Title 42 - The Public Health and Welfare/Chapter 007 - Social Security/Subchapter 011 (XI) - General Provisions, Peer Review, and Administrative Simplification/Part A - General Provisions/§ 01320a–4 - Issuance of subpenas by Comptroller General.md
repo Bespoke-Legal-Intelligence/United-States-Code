@@ -2,7 +2,7 @@
 
 #### (a) Authorization; scope; service and proof of service
 
-For the purpose of any audit, investigation, examination, analysis, review, evaluation, or other function authorized by law with respect to any program authorized under this chapter, the Comptroller General of the United States shall have power to sign and issue subpenas to any person requiring the production of any pertinent books, records, documents, or other information. Subpenas so issued by the Comptroller General shall be served by anyone authorized by him (1) by delivering a copy thereof to the person named therein, or (2) by registered mail or by certified mail addressed to such person at his last dwelling place or principal place of business. A verified return by the person so serving the subpena setting forth the manner of service, or, in the case of service by registered mail or by certified mail, the return post office receipt therefor signed by the person so served, shall be proof of service.
+For the purpose of any audit, investigation, examination, analysis, review, evaluation, or other function authorized by law with respect to any program authorized under this chapter, the Comptroller General of the United States shall have power to sign and issue subpenas to anyperson requiring the production of any pertinent books, records, documents, or other information. Subpenas so issued by the Comptroller General shall be served by anyone authorized by him (1) by delivering a copy thereof to the person named therein, or (2) by registered mail or by certified mail addressed to such person at his last dwelling place or principal place of business. A verified return by the person so serving the subpena setting forth the manner of service, or, in the case of service by registered mail or by certified mail, the return post office receipt therefor signed by the person so served, shall be proof of service.
 
 #### (b) Contumacy or refusal to obey subpena; contempt proceedings
 
@@ -12,7 +12,7 @@ In case of contumacy by, or refusal to obey a subpena issued pursuant to subsect
 
 No personal medical record in the possession of the General Accounting Office shall be subject to subpena or discovery proceedings in a civil action.
 
-(Aug. 14, 1935, ch. 531, title XI, §1125, as added Oct. 25, 1977, Pub. L. 95–142, §6, 91 Stat. 1192.)
+(Aug. 14, 1935, ch. 531, title XI, §1125, as added Pub. L. 95–142, §6, Oct. 25, 1977, 91 Stat. 1192.)
 
 #### References in Text
 

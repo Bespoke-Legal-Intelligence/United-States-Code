@@ -2,5 +2,5 @@
 
 The Director of the Institute shall establish and maintain within the Institute an intramural laboratory and clinical research program in obstetrics and gynecology.
 
-(July 1, 1944, ch. 373, title IV, §452B, as added June 10, 1993, Pub. L. 103–43, title X, §1011, 107 Stat. 166.)
+(July 1, 1944, ch. 373, title IV, §452B, as added Pub. L. 103–43, title X, §1011, June 10, 1993, 107 Stat. 166.)
 

@@ -14,7 +14,7 @@ To meet the low- and moderate-income housing goal under section 4562 of this tit
 
 &emsp;&emsp;(B) assist insured depository institutions to meet their obligations under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\],
 
-> &emsp;which shall include developing appropriate and prudent underwriting standards, business practices, repurchase requirements, pricing, fees, and procedures;
+> &emsp;which shall include developing appropriate and prudent underwriting standards, businesspractices, repurchase requirements, pricing, fees, and procedures;
 
 &emsp;(4) develop the institutional capacity to help finance low- and moderate-income housing, including housing for first-time homebuyers; and
 
@@ -30,7 +30,7 @@ Actions taken under subsection (a)(5) of this section shall constitute part of t
 
 The Community Reinvestment Act of 1977, referred to in subsec. (a)(3)(B), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-The Multifamily Assisted Housing Reform and Affordability Act of 1997, referred to in subsec. (a)(5), is title V of Pub. L. 105–65, Oct. 27, 1997, 111 Stat. 1384. For complete classification of the Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Multifamily Assisted Housing Reform and Affordability Act of 1997, referred to in subsec. (a)(5), is title V of Pub. L. 105–65, Oct. 27, 1997, 111 Stat. 1384. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Amendments
 

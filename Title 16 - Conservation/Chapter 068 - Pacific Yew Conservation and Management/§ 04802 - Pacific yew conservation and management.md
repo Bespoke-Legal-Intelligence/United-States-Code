@@ -16,7 +16,7 @@ The conservation and management policy required by subsection (a) of this sectio
 
 &emsp;(2) individual Pacific yew trees are utilized with little or no waste;
 
-&emsp;(3) to the extent that timber harvesters’ health and safety will not be jeopardized, the bark is harvested from Pacific yew trees in timber sale areas before the harvest of other timber resources;
+&emsp;(3) to the extent that timber harvesters’ health and safety will not be jeopardized, the bark is harvested from Pacific yew trees intimber sale areas before the harvest of other timber resources;
 
 &emsp;(4) whenever Pacific yew trees are harvested, they are—
 
@@ -52,5 +52,5 @@ The Endangered Species Act of 1973, referred to in subsec. (c)(2), is Pub. L. 93
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4805, 4806 of this title.
+This section is referred to in section 4805 of this title.
 

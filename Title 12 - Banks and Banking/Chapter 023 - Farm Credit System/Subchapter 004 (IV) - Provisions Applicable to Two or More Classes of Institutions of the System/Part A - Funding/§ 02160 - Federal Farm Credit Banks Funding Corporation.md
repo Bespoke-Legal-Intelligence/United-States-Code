@@ -62,7 +62,7 @@ The Corporation—
 
 Until a majority of the voting members of the board of directors of the Corporation is elected, which shall occur as soon as is practicable after January 6, 1988—
 
-&emsp;(1) the finance committee established under section 2156 <sup>1</sup> of this title in effect before January 6, 1988, and the fiscal agency established under section 2160 <sup>1</sup> of this title in effect beforeJanuary 6, 1988, shall continue to operate as if this section had not been enacted; and
+&emsp;(1) the finance committee established under section 2156 <sup>1</sup> of this title in effect before January 6, 1988, and the fiscal agency established under section 2160 <sup>1</sup> of this title in effect before January 6, 1988, shall continue to operate as if this section had not been enacted; and
 
 &emsp;(2) the board of directors of the predecessor Federal Farm Credit Banks Funding Corporation shall be the board of directors of the Financial Assistance Corporation.
 

@@ -4,7 +4,7 @@
 
 (1) On public lands within the boundaries of any unit of the National Park System created or enlarged by this Act, cabins or other structures existing prior to December 18, 1973, may be occupied and used by the claimant to these structures pursuant to a renewable, nontransferable permit. Such use and occupancy shall be for terms of five years each: <i>Provided</i>, That the claimant of the structure by application:
 
-&emsp;(A) Reasonably demonstrates by affidavit, bill of sale or other documentation, proof of possessory interest or right of occupancy in the cabin or structure;
+&emsp;(A) Reasonably demonstrates by affidavit, bill of sale or other documentation, proof ofpossessory interest or right of occupancy in the cabin or structure;
 
 &emsp;(B) Submits a sketch or photograph of the cabin or structure and a map showing its geographic location;
 
@@ -52,7 +52,7 @@ The following conditions shall apply regarding the construction, use and occupan
 
 (1) Whenever issuance of a nontransferable renewable five-year special use permit is authorized by subsections (a) or (b) of this section, said permit shall be renewed every five years until the death of the last immediate family member of the claimant residing in the cabin or structure, or unless the Secretary has revoked the special use permit in accordance with the criteria established in this section.
 
-(2) Notwithstanding any other provision of this section, the Secretary, after notice and hearing, may revoke a permit provided for in this section if he determines, on the basis of substantial evidence in the administrative record as a whole, that the use under the permit is causing or may cause significant detriment to the principal purposes for which the unit was established.
+(2) Notwithstanding any other provision of this section, the Secretary, after notice andhearing, may revoke a permit provided for in this section if he determines, on the basis of substantial evidence in the administrative record as a whole, that the use under the permit is causing or may cause significant detriment to the principal purposes for which the unit was established.
 
 #### (d) Existing cabin leases or permits
 

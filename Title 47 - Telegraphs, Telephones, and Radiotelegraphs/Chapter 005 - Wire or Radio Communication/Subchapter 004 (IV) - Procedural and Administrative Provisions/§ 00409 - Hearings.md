@@ -12,7 +12,7 @@ In every case of adjudication (as defined in section 551 of title 5) which has b
 
 (1) In any case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for a hearing, no person who has participated in the presentation or preparation for presentation of such case at the hearing or upon review shall (except to the extent required for the disposition of ex parte matters as authorized by law) directly or indirectly make any additional presentation respecting such case to the hearing officer or officers or to the Commission, or to any authority within the Commission to whom, in such case, review functions have been delegated by the Commission under section 155(d)(1) <sup>1</sup> of this title, unless upon notice and opportunity for all parties to participate.
 
-(2) The provision in section 554(d) of title 5 which states that such subsection shall not apply in determining applications for initial licenses, shall not be applicable hereafter in the case of applications for initial licenses before the Federal Communications Commission.
+(2) The provision in section 554(d) of title 5 which states that such subsection shall not apply in determining applications for initial licenses, shall not be applicable hereafter in thecase of applications for initial licenses before the Federal Communications Commission.
 
 #### (d) Applicability of administrative procedure provisions
 
@@ -66,7 +66,7 @@ In subsecs. (a), (b), and (c)(1), “adjudication (as defined in section 551 of 
 
 1970—Subsec. (<i>l</i>). Pub. L. 91–452 struck out subsec. (<i>l</i>) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-1961—Subsec. (a). Pub. L. 87–192 substituted provision for filing of initial decisions, with stated exceptions,formerly contained in first sentence of subsec. (b) of this section but amplified to include tentative or recommended decisions, for provision relating to assignment of cases to examiners.
+1961—Subsec. (a). Pub. L. 87–192 substituted provision for filing of initial decisions, with stated exceptions, formerly contained in first sentence of subsec. (b) of this section but amplified to include tentative or recommended decisions, for provision relating to assignment of cases to examiners.
 
 Subsec. (b). Pub. L. 87–192 provided for filing of memoranda in support of exceptions to initial, tentative, or recommended decisions, to be passed upon by the Commission or the designated authority within the Commission, and eliminated provisions for oral argument on the exceptions, filing of initial decisions, with stated exceptions, incorporated in subsec. (a) of this section, and making all decisions part of the record and requiring the decisions to include a statement of findings, and conclusions upon all material issues of fact, law, or discretion and the appropriate decision, order, or requirement. See section 557 of Title 5, Government Organization and Employees.
 

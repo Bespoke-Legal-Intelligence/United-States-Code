@@ -205,6 +205,11 @@
 | [69\.](%C2%A7%2000069%20-%20Expenses%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md) | Expenses of committees payable from Senate contingent fund. |
 | 69–1. | Availability of funds for franked mail expenses. |
 | [69a.](%C2%A7%2000069a%20-%20Orientation%20seminars%2C%20etc.%2C%20for%20new%20Senators%2C%20Senate%20officials%2C%20or%20members%20of%20staffs%20of%20Senators%20or%20Senate%20officials%3B%20payment%20of%20expenses.md) | Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses. |
+| [69b.](%C2%A7%2000069b%20-%20Senate%20Leader%27s%20Lecture%20Series.md) | Senate Leader's Lecture Series. |
+| (a) | Establishment. |
+| (b) | Expenses covered. |
+| (c) | Payments for expenses. |
+| (d) | Effective date. |
 | 70 to 72. | Omitted. |
 | [72a.](%C2%A7%2000072a%20-%20Committee%20staffs.md) | Committee staffs. |
 | (a) | Appointment of professional members; number; qualifications; termination of employment. |
@@ -228,7 +233,16 @@
 | 72a–1g. | Referral of ethics violations by Senate Ethics Committee to General Accounting Office for investigation. |
 | 72a–2 to 72a–4. Omitted or Repealed. |  |
 | [72b.](%C2%A7%2000072b%20-%20Regulations%20governing%20availability%20of%20appropriations%20for%20House%20committee%20employees.md) | Regulations governing availability of appropriations for House committee employees. |
-| 72b–1 to 74. Omitted or Repealed. |  |
+| 72b–1, 72c. Omitted or Repealed. |  |
+| [72d.](%C2%A7%2000072d%20-%20Discretionary%20authority%20of%20Senate%20Committee%20on%20Appropriations.md) | Discretionary authority of Senate Committee on Appropriations. |
+| (a) | In general. |
+| (b) | Omitted. |
+| (c) | Effective date. |
+| 72d–1. | Transfer of funds by Chairman of Senate Committee on Appropriations. |
+| (a) | In general. |
+| (b) | Availability of funds; times of transfer. |
+| (c) | Effective date. |
+| 73, 74. | Omitted. |
 | 74–1. | Personal services in office of Speaker; payments. |
 | 74–2. | Omitted. |
 | [74a.](%C2%A7%2000074a%20-%20Employment%20of%20administrative%20assistants%20for%20Speaker%20and%20House%20Majority%20and%20Minority%20Leaders%3B%20compensation%3B%20appropriations.md) | Employment of administrative assistants for Speaker and House majority and minority leaders; compensation; appropriations. |
@@ -239,6 +253,12 @@
 | 74a–5. | Limits on uses of funds provided under section 74a–4. |
 | 74a–6. | Repealed. |
 | 74a–7. | Speaker's Office for Legislative Floor Activities. |
+| 74a–8. | Training and program development activities of Republican Conference and Democratic Steering and Policy Committee. |
+| (a) | In general. |
+| (b) | Amounts, times, terms, and conditions of payment. |
+| (c) | Allocation. |
+| (d) | Authorization of appropriations. |
+| 74a–9. | Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation. |
 | [74b.](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md) | Employment of additional administrative assistants. |
 | [74c.](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md) | Compensation of certain House minority employees. |
 | [74d.](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md) | Corrections Calendar Office. |
@@ -349,6 +369,7 @@
 | (b) | Registration and ownership. |
 | (c) | Payment. |
 | (d) | Rules and regulations. |
+| [112f.](%C2%A7%2000112f%20-%20Incidental%20use%20of%20equipment%20and%20supplies.md) | Incidental use of equipment and supplies. |
 | [113\.](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [114\.](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md) | Fees for copies from Senate journals. |
 | [115\.](%C2%A7%2000115%20-%20Index%20to%20House%20daily%20calendar.md) | Index to House daily calendar. |
@@ -380,19 +401,23 @@
 | [119\.](%C2%A7%2000119%20-%20Stationery%20rooms%20of%20House%20and%20Senate%3B%20specification%20of%20classes%20of%20articles%20purchasable.md) | Stationery rooms of House and Senate; specification of classes of articles purchasable. |
 | 119a, 120. | Repealed or Omitted. |
 | [121\.](%C2%A7%2000121%20-%20Senate%20restaurant%20deficit%20fund%3B%20deposit%20of%20proceeds%20from%20surcharge%20on%20orders.md) | Senate restaurant deficit fund; deposit of proceeds from surcharge on orders. |
-| [121a.](%C2%A7%2000121a%20-%20Senate%20Barber%20and%20Beauty%20Shops%20Revolving%20Fund.md) | Senate Barber and Beauty Shops Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Deposit of moneys received; disbursements for equipment, supplies, and expenses. |
-| (c) | Deposit as miscellaneous receipts of excess moneys in fund. |
-| (d) | Disbursements upon vouchers. |
-| (e) | Regulations. |
+| [121a.](%C2%A7%2000121a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93275%2C%20title%20I%2C%20%C2%A76%28h%29%281%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202434.md) | Repealed. |
 | [121b.](%C2%A7%2000121b%20-%20Senate%20Beauty%20Shop.md) | Senate Beauty Shop. |
-| (a) | Employment and compensation of personnel. |
-| (b) | Omitted. |
+| (a), | (b) Repealed or omitted. |
 | (c) | Creditable civilian service in Senate Building Beauty Shop for basic annuity. |
 | (d) | Creditable civilian service in Senate Building Beauty Shop for survivor annuities and disability benefits. |
 | (e) | Certification concerning creditable service; acceptance by Office of Personnel Management. |
 | (f) | Effective date. |
+| 121b–1. | Senate Hair Care Services. |
+| (a) | Appointment and compensation of personnel. |
+| (b) | Establishment of revolving fund. |
+| (c) | Deposit and availability of moneys. |
+| (d) | Disbursements upon vouchers. |
+| (e) | Excess moneys. |
+| (f) | Regulations. |
+| (g) | Transfer of unobligated balances. |
+| (h) | Omitted. |
+| (i) | Effective date. |
 | [121c.](%C2%A7%2000121c%20-%20Office%20of%20Senate%20Health%20Promotion.md) | Office of Senate Health Promotion. |
 | (a) | Establishment. |
 | (b) | Fees, assessments, and charges. |
@@ -454,6 +479,7 @@
 | [126b.](%C2%A7%2000126b%20-%20Substitute%20reporters%20of%20debates%20and%20expert%20transcribers%3B%20temporary%20reporters%20of%20debates%20and%20expert%20transcribers%3B%20payments%20from%20Senate%E2%80%A6.md) | Substitute reporters of debates and expert transcribers; temporary reporters of debates and expert transcribers; payments from Senate contingent fund. |
 | [127\.](%C2%A7%2000127%20-%20Repealed.%20Pub.%20L.%2092%E2%80%9351%2C%20July%209%2C%201971%2C%2085%20Stat.%20129.md) | Repealed. |
 | [127a.](%C2%A7%2000127a%20-%20Reimbursement%20of%20transportation%20expenses%20for%20employees%20in%20office%20of%20House%20Member.md) | Reimbursement of transportation expenses for employees in office of House Member. |
+| [127b.](%C2%A7%2000127b%20-%20Reimbursement%20of%20residential%20telecommunications%20expenses%20for%20House%20Members%2C%20officers%2C%20and%20employees.md) | Reimbursement of residential telecommunications expenses for House Members, officers, and employees. |
 | 128 to 130. Repealed. |  |
 | 130–1. | Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials. |
 | [130a.](%C2%A7%2000130a%20-%20Nonpay%20status%20for%20Congressional%20employees%20studying%20under%20Congressional%20staff%20fellowships.md) | Nonpay status for Congressional employees studying under Congressional staff fellowships. |
@@ -627,6 +653,7 @@
 - [&sect; 00069 - Expenses of committees payable from Senate contingent fund](%C2%A7%2000069%20-%20Expenses%20of%20committees%20payable%20from%20Senate%20contingent%20fund.md)
 - [&sect; 00069&#8211;1 - Availability of funds for franked mail expenses](%C2%A7%2000069%E2%80%931%20-%20Availability%20of%20funds%20for%20franked%20mail%20expenses.md)
 - [&sect; 00069a - Orientation seminars, etc., for new Senators, Senate officials, or members of staffs of Senators or Senate officials; payment of expenses](%C2%A7%2000069a%20-%20Orientation%20seminars%2C%20etc.%2C%20for%20new%20Senators%2C%20Senate%20officials%2C%20or%20members%20of%20staffs%20of%20Senators%20or%20Senate%20officials%3B%20payment%20of%20expenses.md)
+- [&sect; 00069b - Senate Leader's Lecture Series](%C2%A7%2000069b%20-%20Senate%20Leader%27s%20Lecture%20Series.md)
 - [&sect; 00070 to 72 - Omitted](%C2%A7%2000070%20to%2072%20-%20Omitted.md)
 - [&sect; 00072a - Committee staffs](%C2%A7%2000072a%20-%20Committee%20staffs.md)
 - [&sect; 00072a&#8211;1, 72a&#8211;1a - Repealed. Pub. L. 90&#8211;57, &sect;105(i)(4), (5), July 28, 1967, 81 Stat. 144](%C2%A7%2000072a%E2%80%931%2C%2072a%E2%80%931a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%9357%2C%20%C2%A7105%28i%29%284%29%2C%20%285%29%2C%20July%2028%2C%201967%2C%2081%20Stat.%20144.md)
@@ -641,6 +668,8 @@
 - [&sect; 00072b - Regulations governing availability of appropriations for House committee employees](%C2%A7%2000072b%20-%20Regulations%20governing%20availability%20of%20appropriations%20for%20House%20committee%20employees.md)
 - [&sect; 00072b&#8211;1 - Omitted](%C2%A7%2000072b%E2%80%931%20-%20Omitted.md)
 - [&sect; 00072c - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(13), Aug. 20, 1996, 110 Stat. 1732](%C2%A7%2000072c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2813%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201732.md)
+- [&sect; 00072d - Discretionary authority of Senate Committee on Appropriations](%C2%A7%2000072d%20-%20Discretionary%20authority%20of%20Senate%20Committee%20on%20Appropriations.md)
+- [&sect; 00072d&#8211;1 - Transfer of funds by Chairman of Senate Committee on Appropriations](%C2%A7%2000072d%E2%80%931%20-%20Transfer%20of%20funds%20by%20Chairman%20of%20Senate%20Committee%20on%20Appropriations.md)
 - [&sect; 00073, 74 - Omitted](%C2%A7%2000073%2C%2074%20-%20Omitted.md)
 - [&sect; 00074&#8211;1 - Personal services in office of Speaker; payments](%C2%A7%2000074%E2%80%931%20-%20Personal%20services%20in%20office%20of%20Speaker%3B%20payments.md)
 - [&sect; 00074&#8211;2 - Omitted](%C2%A7%2000074%E2%80%932%20-%20Omitted.md)
@@ -652,6 +681,8 @@
 - [&sect; 00074a&#8211;5 - Limits on uses of funds provided under section 74a&#8211;4](%C2%A7%2000074a%E2%80%935%20-%20Limits%20on%20uses%20of%20funds%20provided%20under%20section%2074a%E2%80%934.md)
 - [&sect; 00074a&#8211;6 - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(17), Aug. 20, 1996, 110 Stat. 1732](%C2%A7%2000074a%E2%80%936%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2817%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201732.md)
 - [&sect; 00074a&#8211;7 - Speaker's Office for Legislative Floor Activities](%C2%A7%2000074a%E2%80%937%20-%20Speaker%27s%20Office%20for%20Legislative%20Floor%20Activities.md)
+- [&sect; 00074a&#8211;8 - Training and program development activities of Republican Conference and Democratic Steering and Policy Committee](%C2%A7%2000074a%E2%80%938%20-%20Training%20and%20program%20development%20activities%20of%20Republican%20Conference%20and%20Democratic%20Steering%20and%20Policy%20Committee.md)
+- [&sect; 00074a&#8211;9 - Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation](%C2%A7%2000074a%E2%80%939%20-%20Appointment%20of%20consultants%20by%20Speaker%2C%20Majority%20Leader%2C%20and%20Minority%20Leader%20of%20House%3B%20compensation.md)
 - [&sect; 00074b - Employment of additional administrative assistants](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md)
 - [&sect; 00074c - Compensation of certain House minority employees](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md)
 - [&sect; 00074d - Corrections Calendar Office](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md)
@@ -733,6 +764,7 @@
 - [&sect; 00112 - Purchases of stationery and materials for folding](%C2%A7%2000112%20-%20Purchases%20of%20stationery%20and%20materials%20for%20folding.md)
 - [&sect; 00112a to 112d - Repealed. Pub. L. 91&#8211;139, &sect;2(a), Dec. 5, 1969, 83 Stat. 291](%C2%A7%2000112a%20to%20112d%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93139%2C%20%C2%A72%28a%29%2C%20Dec.%205%2C%201969%2C%2083%20Stat.%20291.md)
 - [&sect; 00112e - Office equipment for House Members, officers, and committees](%C2%A7%2000112e%20-%20Office%20equipment%20for%20House%20Members%2C%20officers%2C%20and%20committees.md)
+- [&sect; 00112f - Incidental use of equipment and supplies](%C2%A7%2000112f%20-%20Incidental%20use%20of%20equipment%20and%20supplies.md)
 - [&sect; 00113 - Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md)
 - [&sect; 00114 - Fees for copies from Senate journals](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md)
 - [&sect; 00115 - Index to House daily calendar](%C2%A7%2000115%20-%20Index%20to%20House%20daily%20calendar.md)
@@ -757,8 +789,9 @@
 - [&sect; 00119a - Repealed. Pub. L. 90&#8211;620, &sect;3, Oct. 22, 1968, 82 Stat. 1309](%C2%A7%2000119a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93620%2C%20%C2%A73%2C%20Oct.%2022%2C%201968%2C%2082%20Stat.%201309.md)
 - [&sect; 00120 - Omitted](%C2%A7%2000120%20-%20Omitted.md)
 - [&sect; 00121 - Senate restaurant deficit fund; deposit of proceeds from surcharge on orders](%C2%A7%2000121%20-%20Senate%20restaurant%20deficit%20fund%3B%20deposit%20of%20proceeds%20from%20surcharge%20on%20orders.md)
-- [&sect; 00121a - Senate Barber and Beauty Shops Revolving Fund](%C2%A7%2000121a%20-%20Senate%20Barber%20and%20Beauty%20Shops%20Revolving%20Fund.md)
+- [&sect; 00121a - Repealed. Pub. L. 105&#8211;275, title I, &sect;6(h)(1), Oct. 21, 1998, 112 Stat. 2434](%C2%A7%2000121a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93275%2C%20title%20I%2C%20%C2%A76%28h%29%281%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202434.md)
 - [&sect; 00121b - Senate Beauty Shop](%C2%A7%2000121b%20-%20Senate%20Beauty%20Shop.md)
+- [&sect; 00121b&#8211;1 - Senate Hair Care Services](%C2%A7%2000121b%E2%80%931%20-%20Senate%20Hair%20Care%20Services.md)
 - [&sect; 00121c - Office of Senate Health Promotion](%C2%A7%2000121c%20-%20Office%20of%20Senate%20Health%20Promotion.md)
 - [&sect; 00121d - Senate Gift Shop](%C2%A7%2000121d%20-%20Senate%20Gift%20Shop.md)
 - [&sect; 00121e - Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities](%C2%A7%2000121e%20-%20Payment%20of%20fees%20for%20services%20of%20Attending%20Physician%20and%20for%20use%20of%20Senate%20health%20and%20fitness%20facilities.md)
@@ -783,6 +816,7 @@
 - [&sect; 00126b - Substitute reporters of debates and expert transcribers; temporary reporters of debates and expert transcribers; payments from Senate&#8230;](%C2%A7%2000126b%20-%20Substitute%20reporters%20of%20debates%20and%20expert%20transcribers%3B%20temporary%20reporters%20of%20debates%20and%20expert%20transcribers%3B%20payments%20from%20Senate%E2%80%A6.md)
 - [&sect; 00127 - Repealed. Pub. L. 92&#8211;51, July 9, 1971, 85 Stat. 129](%C2%A7%2000127%20-%20Repealed.%20Pub.%20L.%2092%E2%80%9351%2C%20July%209%2C%201971%2C%2085%20Stat.%20129.md)
 - [&sect; 00127a - Reimbursement of transportation expenses for employees in office of House Member](%C2%A7%2000127a%20-%20Reimbursement%20of%20transportation%20expenses%20for%20employees%20in%20office%20of%20House%20Member.md)
+- [&sect; 00127b - Reimbursement of residential telecommunications expenses for House Members, officers, and employees](%C2%A7%2000127b%20-%20Reimbursement%20of%20residential%20telecommunications%20expenses%20for%20House%20Members%2C%20officers%2C%20and%20employees.md)
 - [&sect; 00128, 129 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 658, 659](%C2%A7%2000128%2C%20129%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20658%2C%20659.md)
 - [&sect; 00130 - Repealed. Pub. L. 95&#8211;391, title I, &sect;111, Sept. 30, 1978, 92 Stat. 777](%C2%A7%2000130%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93391%2C%20title%20I%2C%20%C2%A7111%2C%20Sept.%2030%2C%201978%2C%2092%20Stat.%20777.md)
 - [&sect; 00130&#8211;1 - Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials&#8230;](%C2%A7%2000130%E2%80%931%20-%20Participation%20by%20House%20in%20interparliamentary%20institutions%3B%20reception%20of%20members%20of%20foreign%20legislative%20bodies%20and%20foreign%20officials%E2%80%A6.md)

@@ -22,5 +22,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1221 of this title; title 38 section 7101A.
+This section is referred to in sections 1221, 9508 of this title; title 38 section 7101A.
 

@@ -34,7 +34,7 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 492, §8034; Aug. 6, 1958, Pub. L. 85–599, §4(d), (e), 72 Stat. 517; Sept. 7, 1962, Pub. L. 87–651, title I, §114, 76 Stat. 513; June 5, 1967, Pub. L. 90–22, title IV, §403, 81 Stat. 53; Dec. 12, 1980, Pub. L. 96–513, title V, §504(2), 94 Stat. 2915; July 10, 1981, Pub. L. 97–22, §10(b)(9), 95 Stat. 137; renumbered §8033 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §522(c), 100 Stat. 1061; Sept. 29, 1988, Pub. L. 100–456, div. A, title V, §519(a)(3), 102 Stat. 1972.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 492, §8034; Pub. L. 85–599, §4(d), (e), Aug. 6, 1958, 72 Stat. 517; Pub. L. 87–651, title I, §114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, §403, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, §504(2), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 97–22, §10(b)(9), July 10, 1981, 95 Stat. 137; renumbered §8033 and amended Pub. L. 99–433, title V, §522(c), Oct. 1, 1986, 100 Stat. 1061; Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972.)
 
 Historical and Revision Notes<br>1956
 
@@ -104,7 +104,7 @@ A prior section 8033 was renumbered section 10305 of this title.
 
 “(b) The Chief of Staff, while so serving, has the grade of general without vacating his regular or reserve grade.
 
-“(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of the Secretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
+“(c) Except as otherwise prescribed by law and subject to section 8012(c) and (d) of this title, the Chief of Staff performs his duties under the direction of theSecretary of the Air Force, and is directly responsible to the Secretary for the efficiency of the Air Force, its preparedness for military operations, and plans therefor.
 
 “(d) The Chief of Staff shall—
 

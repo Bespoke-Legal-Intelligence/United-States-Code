@@ -8,7 +8,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 (1) For the purpose of registration of fuels and fuel additives, the Administrator shall require—
 
-&emsp;(A) the manufacturer of any fuel to notify him as to the commercial identifying name and manufacturer of any additive contained in such fuel; the range of concentration of any additive in the fuel; and the purpose-in-use of any such additive; and
+&emsp;(A) the manufacturer of any fuel to notify him as to the commercial identifying nameand manufacturer of any additive contained in such fuel; the range of concentration of any additive in the fuel; and the purpose-in-use of any such additive; and
 
 &emsp;(B) the manufacturer of any additive to notify him as to the chemical composition of such additive.
 
@@ -44,7 +44,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 (B) Any State for which application of section 7543(a) of this title has at any time been waived under section 7543(b) of this title may at any time prescribe and enforce, for the purpose of motor vehicle emission control, a control or prohibition respecting any fuel or fuel additive.
 
-(C) A State may prescribe and enforce, for purposes of motor vehicle emission control, a control or prohibition respecting the use of a fuel or fuel additive in a motor vehicle or motor vehicle engine if an applicable implementation plan for such State under section 7410 of this title so provides. The Administrator may approve such provision in an implementation plan, or promulgate an implementation plan containing such a provision, only if he finds that the State control or prohibition is necessary to achieve the national primary or secondary ambient air quality standard which the plan implements. The Administrator may find that a State control or prohibition is necessary to achieve that standard if no other measures that would bring about timely attainment exist, or if other measures exist and are technically possible to implement, but are unreasonable or impracticable. The Administrator may make a finding of necessity under this subparagraph even if the plan for the area does not contain an approved demonstration of timely attainment.
+(C) A State may prescribe and enforce, for purposes of motor vehicle emission control, a control or prohibition respecting the use of a fuel or fuel additive in a motor vehicle or motor vehicle engine if an applicable implementation plan forsuch State under section 7410 of this title so provides. The Administrator may approve such provision in an implementation plan, or promulgate an implementation plan containing such a provision, only if he finds that the State control or prohibition is necessary to achieve the national primary or secondary ambient air quality standard which the plan implements. The Administrator may find that a State control or prohibition is necessary to achieve that standard if no other measures that would bring about timely attainment exist, or if other measures exist and are technically possible to implement, but are unreasonable or impracticable. The Administrator may make a finding of necessity under this subparagraph even if the plan for the area does not contain an approved demonstration of timely attainment.
 
 #### (d) Penalties and injunctions
 
@@ -82,7 +82,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 (2) Effective November 30, 1977, it shall be unlawful for any manufacturer of any fuel to introduce into commerce any gasoline which contains a concentration of manganese in excess of .0625 grams per gallon of fuel, except as otherwise provided pursuant to a waiver under paragraph (4).
 
-(3) Any manufacturer of any fuel or fuel additive which prior to March 31, 1977, and after January 1, 1974, first introduced into commerce or increased the concentration in use of a fuel or fuel additive that would otherwise have been prohibited under paragraph (1)(A) if introduced on or after March 31, 1977 shall, not later than September 15, 1978, cease to distribute such fuel or fuel additive in commerce. During the period beginning 180 days after August 7, 1977, and before September 15, 1978, the Administrator shall prohibit, or restrict the concentration of any fuel additive which he determines will cause or contribute to the failure of an emission control device or system (over the useful life of any vehicle in which such device or system is used) to achieve compliance by the vehicle with the emission standards with respect to which it has been certified under section 7525 of this title.
+(3) Any manufacturer of any fuel or fuel additive which prior to March 31, 1977, and after January 1, 1974, first introduced into commerce or increased the concentration in use of a fuel or fuel additive that would otherwise have been prohibited under paragraph (1)(A) if introduced on or after March 31, 1977 shall, not later than September 15, 1978, cease to distribute such fuel or fuel additive in commerce. During the period beginning 180 days after August 7, 1977, and before September 15, 1978, the Administrator shall prohibit, or restrict the concentration of any fuel additive which he determines will cause orcontribute to the failure of an emission control device or system (over the useful life of any vehicle in which such device or system is used) to achieve compliance by the vehicle with the emission standards with respect to which it has been certified under section 7525 of this title.
 
 (4) The Administrator, upon application of any manufacturer of any fuel or fuel additive, may waive the prohibitions established under paragraph (1) or (3) of this subsection or the limitation specified in paragraph (2) of this subsection, if he determines that the applicant has established that such fuel or fuel additive or a specified concentration thereof, and the emission products of such fuel or additive or specified concentration thereof, will not cause or contribute to a failure of any emission control device or system (over the useful life of any vehicle in which such device or system is used) to achieve compliance by the vehicle with the emission standards with respect to which it has been certified pursuant to section 7525 of this title. If the Administrator has not acted to grant or deny an application under this paragraph within one hundred and eighty days of receipt of such application, the waiver authorized by this paragraph shall be treated as granted.
 
@@ -126,7 +126,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 (1) Effective October 1, 1993, no person shall manufacture, sell, supply, offer for sale or supply, dispense, transport, or introduce into commerce motor vehicle diesel fuel which contains a concentration of sulfur in excess of 0.05 percent (by weight) or which fails to meet a cetane index minimum of 40.
 
-(2) Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations to implement and enforce the requirements of paragraph (1). The Administrator may require manufacturers and importers of diesel fuel not intended for use in motor vehicles to dye such fuel in a particular manner in order to segregate it from motor vehicle diesel fuel. The Administrator may establish an equivalent alternative aromatic level to the cetane index specification in paragraph (1).
+(2) Not later than 12 months after November 15, 1990, the Administrator shall promulgate regulations to implement and enforce the requirements of paragraph (1). The Administrator may require manufacturers and importers of diesel fuel not intended for use in motor vehicles to dye such fuel in a particular manner in order to segregate it from motor vehicle diesel fuel. TheAdministrator may establish an equivalent alternative aromatic level to the cetane index specification in paragraph (1).
 
 (3) The sulfur content of fuel required to be used in the certification of 1991 through 1993 model year heavy-duty diesel vehicles and engines shall be 0.10 percent (by weight). The sulfur content and cetane index minimum of fuel required to be used in the certification of 1994 and later model year heavy-duty diesel vehicles and engines shall comply with the regulations promulgated under paragraph (2).
 
@@ -148,7 +148,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (1) EPA regulations
 
-&emsp;Within 1 year after November 15, 1990, the Administrator shall promulgate regulations under this section establishing requirements for reformulated gasoline to be used in gasoline-fueled vehicles in specified nonattainmentareas. Such regulations shall require the greatest reduction in emissions of ozone forming volatile organic compounds (during the high ozone season) and emissions of toxic air pollutants (during the entire year) achievable through the reformulation of conventional gasoline, taking into consideration the cost of achieving such emission reductions, any nonair-quality and other air-quality related health and environmental impacts and energy requirements.
+&emsp;Within 1 year after November 15, 1990, the Administrator shall promulgate regulations under this section establishing requirements for reformulated gasoline to be used in gasoline-fueled vehicles in specified nonattainment areas. Such regulations shall require the greatest reduction in emissions of ozone forming volatile organic compounds (during the high ozone season) and emissions of toxic air pollutants (during the entire year) achievable through the reformulation of conventional gasoline, taking into consideration the cost of achieving such emission reductions, any nonair-quality and other air-quality related health and environmental impacts and energy requirements.
 
 #### (2) General requirements
 
@@ -160,7 +160,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (B) Oxygen content
 
-&emsp;&emsp;The oxygen content of the gasoline shall equal or exceed 2.0 percent by weight (subject to a testing tolerance established by the Administrator) except as otherwise required by this chapter. The Administrator may waive, in whole or in part, the application of this subparagraph for any ozone nonattainment area upon a determination by the Administrator that compliance with such requirement would prevent or interfere with the attainment by the area of a national primary ambient air quality standard.
+&emsp;&emsp;The oxygen content of the gasoline shall equal or exceed 2.0 percent by weight (subject to a testing tolerance established by the Administrator) except as otherwise requiredby this chapter. The Administrator may waive, in whole or in part, the application of this subparagraph for any ozone nonattainment area upon a determination by the Administrator that compliance with such requirement would prevent or interfere with the attainment by the area of a national primary ambient air quality standard.
 
 #### (C) Benzene content
 
@@ -204,7 +204,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (ii) Toxics
 
-&emsp;&emsp;&emsp;During the entire year, the aggregate emissions of toxic air pollutants from baseline vehicles when using the reformulated gasoline shall be 15 percent below the aggregate emissions of toxic air pollutants from such vehicles when using baseline gasoline. Effective in calendar year 2000 and thereafter, 25 percent shall be substituted for 15 percent in applying this clause, except that the Administrator may adjust such 25 percent requirement to provide for a lesser or greater reduction based on technological feasibility, consideringthe cost of achieving such reductions in toxic air pollutants. No such adjustment shall provide for less than a 20 percent reduction below the aggregate emissions of such air pollutants from such vehicles when using baseline gasoline. The reductions required under this clause shall be on a mass basis.
+&emsp;&emsp;&emsp;During the entire year, the aggregate emissions of toxic air pollutants from baseline vehicles when using the reformulated gasoline shall be 15 percent below the aggregate emissions of toxic air pollutants from such vehicles when using baseline gasoline. Effective in calendar year 2000 and thereafter, 25 percent shall be substituted for 15 percent in applying this clause, except that the Administrator may adjust such 25 percent requirement to provide for a lesser or greater reduction based on technological feasibility, considering the cost of achieving such reductions in toxic air pollutants. No such adjustment shall provide for less than a 20 percent reduction below the aggregate emissions of such air pollutants from such vehicles when using baseline gasoline. The reductions required under this clause shall be on a mass basis.
 
 > &emsp;Any reduction greater than a specific percentage reduction required under this subparagraph shall be treated as satisfying such percentage reduction requirement.
 
@@ -220,7 +220,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 &emsp;&emsp;&emsp;(i) comply with the requirements of paragraph (2), and
 
-&emsp;&emsp;&emsp;(ii) achieve equivalent or greater reductions in emissions of ozone forming volatile organic compounds and emissions of toxic air pollutants than are achieved by a reformulated gasoline meeting the applicable requirements of paragraph (3).
+&emsp;&emsp;&emsp;(ii) achieve equivalent or greater reductions in emissions of ozone forming volatile organic compounds and emissions oftoxic air pollutants than are achieved by a reformulated gasoline meeting the applicable requirements of paragraph (3).
 
 #### (C) EPA determination of emissions level
 
@@ -266,7 +266,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (A) In general
 
-&emsp;&emsp;Within 1 year after November 15, 1990, the Administrator shall promulgate regulations applicable to each refiner, blender, or importer of gasoline ensuring that gasoline sold or introduced into commerce by such refiner, blender, or importer (other than reformulated gasoline subject to the requirements of paragraph (1)) does not result in average per gallon emissions (measured on a mass basis) of (i) volatile organic compounds, (ii) oxides of nitrogen, (iii) carbon monoxide, and (iv) toxic air pollutants in excess of such emissions of such pollutants attributable to gasoline sold or introduced into commerce in calendar year 1990 by that refiner, blender, or importer. Such regulations shall take effect beginning January 1, 1995.
+&emsp;&emsp;Within 1 year after November 15, 1990, the Administrator shall promulgate regulations applicable to each refiner, blender, or importer of gasoline ensuring that gasoline sold or introduced into commerce by suchrefiner, blender, or importer (other than reformulated gasoline subject to the requirements of paragraph (1)) does not result in average per gallon emissions (measured on a mass basis) of (i) volatile organic compounds, (ii) oxides of nitrogen, (iii) carbon monoxide, and (iv) toxic air pollutants in excess of such emissions of such pollutants attributable to gasoline sold or introduced into commerce in calendar year 1990 by that refiner, blender, or importer. Such regulations shall take effect beginning January 1, 1995.
 
 #### (B) Adjustments
 
@@ -392,7 +392,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (<i>l</i>) Detergents
 
-Effective beginning January 1, 1995, no person may sell or dispense to an ultimate consumer in the United States, and no refiner or marketer may directly or indirectly sell or dispense to persons who sell or dispense to ultimate consumers in the United States any gasoline which does not contain additives to prevent the accumulation of deposits in engines or fuel supply systems. Not later than 2 years after November 15, 1990, the Administrator shall promulgate a rule establishing specifications for such additives.
+Effective beginning January 1, 1995, no person may sell or dispense to an ultimate consumer in the United States, and no refiner or marketer may directly or indirectly sell or dispense to persons who sell or dispense to ultimate consumers in the United States any gasoline whichdoes not contain additives to prevent the accumulation of deposits in engines or fuel supply systems. Not later than 2 years after November 15, 1990, the Administrator shall promulgate a rule establishing specifications for such additives.
 
 #### (m) Oxygenated fuels
 
@@ -416,7 +416,7 @@ Effective beginning January 1, 1995, no person may sell or dispense to an ultima
 
 &emsp;(A) The Administrator shall waive, in whole or in part, the requirements of paragraph (2) upon a demonstration by the State to the satisfaction of the Administrator that the use of oxygenated gasoline would prevent or interfere with the attainment by the area of a national primary ambient air quality standard (or a State or local ambient air quality standard) for any air pollutant other than carbon monoxide.
 
-&emsp;(B) The Administrator shall, upon demonstration by the State satisfactory to the Administrator, waive the requirement of paragraph (2) where the Administrator determinesthat mobile sources of carbon monoxide do not contribute significantly to carbon monoxide levels in an area.
+&emsp;(B) The Administrator shall, upon demonstration by the State satisfactory to the Administrator, waive the requirement of paragraph (2) where the Administrator determines that mobile sources of carbon monoxide do not contribute significantly to carbon monoxide levels in an area.
 
 &emsp;(C)(i) Any person may petition the Administrator to make a finding that there is, or is likely to be, for any area, an inadequate domestic supply of, or distribution capacity for, oxygenated gasoline meeting the requirements of paragraph (2) or fuel additives (oxygenates) necessary to meet such requirements. The Administrator shall act on such petition within 6 months after receipt of the petition.
 
@@ -450,7 +450,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 For the purposes of this section, the term “manufacturer” includes an importer and the term “manufacture” includes importation.
 
-(July 14, 1955, ch. 360, title II, §211, formerly §210, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 502; renumbered and amended Dec. 31, 1970, Pub. L. 91–604, §§8(a), 9(a), 84 Stat. 1694, 1698; Nov. 18, 1971, Pub. L. 92–157, title III, §302(d), (e), 85 Stat. 464; Aug. 7, 1977, Pub. L. 95–95, title II, §§222, 223, title IV, §401(e), 91 Stat. 762, 764, 791; Nov. 16, 1977, Pub. L. 95–190, §14(a)(73), (74), 91 Stat. 1403, 1404; Nov. 15, 1990, Pub. L. 101–549, title II, §§212–221, 228(d), 104 Stat. 2488–2500, 2510.)
+(July 14, 1955, ch. 360, title II, §211, formerly §210, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 502; renumbered and amended Pub. L. 91–604, §§8(a), 9(a), Dec. 31, 1970, 84 Stat. 1694, 1698; Pub. L. 92–157, title III, §302(d), (e), Nov. 18, 1971, 85 Stat. 464; Pub. L. 95–95, title II, §§222, 223, title IV, §401(e), Aug. 7, 1977, 91 Stat. 762, 764, 791; Pub. L. 95–190, §14(a)(73), (74), Nov. 16, 1977, 91 Stat. 1403, 1404; Pub. L. 101–549, title II, §§212–221, 228(d), Nov. 15, 1990, 104 Stat. 2488–2500, 2510.)
 
 #### Codification
 
@@ -470,7 +470,7 @@ Subsec. (c)(4)(A). Pub. L. 101–549, §213(a), substituted “any characteristi
 
 Subsec. (c)(4)(C). Pub. L. 101–549, §213(b), inserted last two sentences, authorizing Administrator to make a finding that State control or prohibition is necessary to achieve the standard.
 
-Subsec. (d). Pub. L. 101–549, §228(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who violates subsection (a) or (f) of this section or the regulations prescribed under subsection (c) of this section or who fails to furnish any information required by the Administrator under subsection (b) of this section shall forfeit and pay to the United States a civil penalty of $10,000 for each and every day of the continuance of such violation, whichshall accrue to the United States and be recovered in a civil suit in the name of the United States, brought in the district where such person has his principal office or in any district in which he does business. The Administrator may, upon application therefor, remit or mitigate any forfeiture provided for in this subsection and he shall have authority to determine the facts upon all such applications.”
+Subsec. (d). Pub. L. 101–549, §228(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who violates subsection (a) or (f) of this section or the regulations prescribed under subsection (c) of this section or who fails to furnish any information required by the Administrator under subsection (b) of this section shall forfeit and pay to the United States a civil penalty of $10,000 for each and every day of the continuance of such violation, which shall accrue to the United States and be recovered in a civil suit in the name of the United States, brought in the district where such person has his principal office or in any district in which he does business. The Administrator may, upon application therefor, remit or mitigate any forfeiture provided for in this subsection and he shall have authority to determine the facts upon all such applications.”
 
 Subsec. (f)(1). Pub. L. 101–549, §214(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -550,7 +550,7 @@ Pub. L. 99–198, title XVII, §1765, Dec. 23, 1985, 99 Stat. 1653, directed Adm
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Section Referred to in Other Sections
 

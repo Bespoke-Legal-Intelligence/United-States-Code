@@ -20,7 +20,7 @@
 
 #### (b) Facilitation of interest of students in careers at National Institutes of Health
 
-In providing employment to individuals pursuant to contracts under subsection (a)(1) of this section, the Director of NIH shall carry out activities to facilitate the interest of the individuals in pursuing careers as employees of the National Institutes of Health.
+In providing employment to individuals pursuant to contracts under subsection (a)(1) of thissection, the Director of NIH shall carry out activities to facilitate the interest of the individuals in pursuing careers as employees of the National Institutes of Health.
 
 #### (c) Period of obligated service
 
@@ -68,7 +68,7 @@ In providing employment to individuals pursuant to contracts under subsection (a
 
 #### (5) Contract regarding direct payments to institution
 
-&emsp;In the case of an institution of higher education with respect to which a scholarshipunder subsection (a) of this section is provided, the Director of NIH may enter into a contract with the institution under which the amounts provided in the scholarship for tuition and other educational expenses are paid directly to the institution.
+&emsp;In the case of an institution of higher education with respect to which a scholarship under subsection (a) of this section is provided, the Director of NIH may enter into a contract with the institution under which the amounts provided in the scholarship for tuition and other educational expenses are paid directly to the institution.
 
 #### (e) Penalties for breach of scholarship contract
 
@@ -82,7 +82,7 @@ The Director of NIH may not provide a scholarship under subsection (a) of this s
 
 Amounts appropriated for a fiscal year for scholarships under this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
 
-(July 1, 1944, ch. 373, title IV, §487D, as added June 10, 1993, Pub. L. 103–43, title XVI, §1631, 107 Stat. 183.)
+(July 1, 1944, ch. 373, title IV, §487D, as added Pub. L. 103–43, title XVI, §1631, June 10, 1993, 107 Stat. 183.)
 
 #### References in Text
 

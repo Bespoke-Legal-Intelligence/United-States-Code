@@ -32,5 +32,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–573 inserted reference to Menominee county.
+1962—Subsec. (a). Pub. L. 87–573 inserted reference to Menominee county.
 

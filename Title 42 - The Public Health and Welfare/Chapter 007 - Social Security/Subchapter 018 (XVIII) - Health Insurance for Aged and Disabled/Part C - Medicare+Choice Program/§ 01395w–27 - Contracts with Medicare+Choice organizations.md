@@ -134,7 +134,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (C) Contingency
 
-&emsp;&emsp;For any fiscal year, the fees authorized under subparagraph (B) are contingent uponenactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections.
+&emsp;&emsp;For any fiscal year, the fees authorized under subparagraph (B) are contingent upon enactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections.
 
 #### (D) Limitation
 
@@ -152,7 +152,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Requirement
 
-&emsp;A contract under this part shall require a Medicare+Choice organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
+&emsp;A contract under this part shall require a Medicare+Choice organization to provideprompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
 
 #### (2) Secretary's option to bypass noncomplying organization
 
@@ -222,7 +222,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4001, 111 Stat. 319.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319.)
 
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 

@@ -12,13 +12,13 @@
 
 (B) The amount of the deferment shall not exceed 50 percent of the total cost of a community or economic development project for which a deferment is provided under this subsection.
 
-(C) The total amount of deferments under this subsection during each of the fiscal years 1990 through 1993 shall not exceed 3 percent of thetotal payments due during such fiscal year from all borrowers on direct and insured loans made under this chapter and shall not exceed 5 percent of such total payments due in each subsequent fiscal year.
+(C) The total amount of deferments under this subsection during each of the fiscal years 1990 through 1993 shall not exceed 3 percent of the total payments due during such fiscal year from all borrowers on direct and insured loans made under this chapter and shall not exceed 5 percent of such total payments due in each subsequent fiscal year.
 
 (D) At the time of a deferment, the borrower shall make a payment to a cushion of credit account established and maintained pursuant to section 940c of this title in an amount equal to the amount of the payment deferred. The balance of such account shall not be reduced by the borrower below the level of the unpaid balance of the payment deferred. Subject to limitations established in annual appropriations Acts, such cushion of credit amounts and any other cushion of credit and advance payments of any borrower shall be included in the interest differential calculation under section 940c(b)(2)(A) of this title.
 
 (4) The Secretary shall undertake all reasonable efforts to permit the full amount of deferments authorized by this subsection during each fiscal year.
 
-(May 20, 1936, ch. 432, title I, §12, 49 Stat. 1366; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2344, 104 Stat. 4028; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §774(b), 110 Stat. 1150.)
+(May 20, 1936, ch. 432, title I, §12, 49 Stat. 1366; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Pub. L. 101–624, title XXIII, §2344, Nov. 28, 1990, 104 Stat. 4028; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §774(b), Apr. 4, 1996, 110 Stat. 1150.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Subject to subsection (b) of this section, the amount of any allotment to a Stat
 
 The Secretary shall not reallot under subsection (a) of this section any amount that is withheld or recovered from a State due to the failure of the State to meet the requirements of section 622(b)(10) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §424, as added Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), 81 Stat. 914; amended June 17, 1980, Pub. L. 96–272, title I, §103(a), 94 Stat. 519; Oct. 31, 1994, Pub. L. 103–432, title II, §202(b), 108 Stat. 4454; Aug. 5, 1997, Pub. L. 105–33, title V, §5592(a)(1)(B), 111 Stat. 644.)
+(Aug. 14, 1935, ch. 531, title IV, §424, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 914; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 519; Pub. L. 103–432, title II, §202(b), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 105–33, title V, §5592(a)(1)(B), Aug. 5, 1997, 111 Stat. 644.)
 
 #### Amendments
 

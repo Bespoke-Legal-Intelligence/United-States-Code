@@ -6,7 +6,7 @@ No Federal officer or agency shall approve any financial assistance for acquisit
 
 #### (b) Notification of purchaser or lessee of property in flood hazard area of availability of Federal disaster relief assistance in event of a flood disaster
 
-In addition to the requirements of section 4104a of this title, each Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender, described in such section to notify (as a condition of making, increasing, extending, or renewing any loan secured by property described in such section) the purchaser or lessee of such property of whether, in the event of a disaster caused by flood to such property, Federal disaster relief assistance will be available to such property.
+In addition to the requirements of section 4104a of this title, each Federal entity for lending regulation shall by regulation require theregulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender, described in such section to notify (as a condition of making, increasing, extending, or renewing any loan secured by property described in such section) the purchaser or lessee of such property of whether, in the event of a disaster caused by flood to such property, Federal disaster relief assistance will be available to such property.
 
 (Pub. L. 93–234, title II, §202, Dec. 31, 1973, 87 Stat. 982; Pub. L. 94–50, title III, §303, July 2, 1975, 89 Stat. 256; Pub. L. 94–198, Dec. 31, 1975, 89 Stat. 1116; Pub. L. 94–375, §14(a), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title VII, §703(a), Oct. 12, 1977, 91 Stat. 1144; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §511(b), Sept. 23, 1994, 108 Stat. 2256.)
 
@@ -16,7 +16,7 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shallissue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
+1994—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
 
 1983—Subsec. (a). Pub. L. 98–181 substituted “Director” for “Secretary”.
 

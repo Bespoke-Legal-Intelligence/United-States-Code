@@ -1,11 +1,6 @@
 ### <b>CHAPTER 73—ANNUITIES BASED ON RETIRED OR RETAINER PAY</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Retired%20Serviceman%27s%20Family%20Protection%20Plan/README.md) | <b>Retired Serviceman's Family Protection Plan</b> | <b>1431</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Survivor%20Benefit%20Plan/README.md) | <b>Survivor Benefit Plan</b> | <b>1447</b> |

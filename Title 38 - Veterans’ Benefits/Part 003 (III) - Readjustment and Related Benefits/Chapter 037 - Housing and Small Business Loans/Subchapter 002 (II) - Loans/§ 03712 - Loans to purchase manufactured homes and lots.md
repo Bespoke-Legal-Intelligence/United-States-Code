@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, the manufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
-(B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purposespecified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
+(B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
 (C) If a veteran is deceased and if such veteran's surviving spouse was a co-obligor under an existing loan previously guaranteed, insured, or made for purposes specified in this section, such surviving spouse shall, only for the purpose specified in clause (F) of paragraph (1) of this subsection, be deemed to be a veteran eligible for benefits under this chapter.
 
@@ -144,7 +144,7 @@
 
 (2) Any manufactured housing unit properly displaying a certification of conformity to all applicable Federal manufactured home construction and safety standards pursuant to section 616 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5415) shall be deemed to meet the standards required by paragraph (1).
 
-(i) The Secretary shall require the manufacturer to become a warrantor of any new manufactured home which is approved for purchase with financing through the assistance of thischapter and to furnish to the purchaser a written warranty in such form as the Secretary shall require. Such warranty shall include (1) a specific statement that the manufactured home meets the standards prescribed by the Secretary pursuant to the provisions of subsection (h) of this section; and (2) a provision that the warrantor's liability to the purchaser or owner is limited under the warranty to instances of substantial nonconformity to such standards which become evident within one year from date of purchase and as to which the purchaser or owner gives written notice to the warrantor not later than ten days after the end of the warranty period. The warranty prescribed herein shall be in addition to, and not in derogation of, all other rights and privileges which such purchaser or owner may have under any other law or instrument and shall so provide in the warranty document.
+(i) The Secretary shall require the manufacturer to become a warrantor of any new manufactured home which is approved for purchase with financing through the assistance of this chapter and to furnish to the purchaser a written warranty in such form as the Secretary shall require. Such warranty shall include (1) a specific statement that the manufactured home meets the standards prescribed by the Secretary pursuant to the provisions of subsection (h) of this section; and (2) a provision that the warrantor's liability to the purchaser or owner is limited under the warranty to instances of substantial nonconformity to such standards which become evident within one year from date of purchase and as to which the purchaser or owner gives written notice to the warrantor not later than ten days after the end of the warranty period. The warranty prescribed herein shall be in addition to, and not in derogation of, all other rights and privileges which such purchaser or owner may have under any other law or instrument and shall so provide in the warranty document.
 
 (j) Subject to notice and opportunity for a hearing, the Secretary is authorized to deny guaranteed or direct loan financing in the case of—
 
@@ -272,7 +272,7 @@ Subsec. (m). Pub. L. 97–306, §406(c)(2)(A), substituted “manufactured” fo
 
 Subsec. (b)(2). Pub. L. 97–72, §303(i), substituted “housing loan benefits” for “loan guaranty benefits”.
 
-Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity ofa loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
+Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity of a loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
 
 1980—Subsec. (a)(1)(F). Pub. L. 96–385, §401(b)(1), added cl. (F).
 
@@ -404,5 +404,5 @@ Section 8 of Pub. L. 91–506 provided that: “Section 5 of this Act \[enacting
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3701, 3703, 3704, 3710, 3711, 3724, 3725, 3729, 3762 of this title.
+This section is referred to in sections 3701, 3703, 3704, 3710, 3711, 3729, 3762 of this title.
 

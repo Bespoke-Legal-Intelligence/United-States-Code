@@ -38,7 +38,7 @@
 
 (B) The Secretary concerned may, without cost to the recipient, demilitarize, prepare, and transport in the continental United States for donation to a recognized war veterans’ association an item authorized to be donated under this section if the Secretary determines the demilitarization, preparation, and transportation can be accomplished as a training mission without additional budgetary requirements for the unit involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Dec. 12, 1980, Pub. L. 96–513, title V, §511(82), 94 Stat. 2927; Sept. 29, 1988, Pub. L. 100–456, div. A, title III, §324(a), 102 Stat. 1954; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §325, 104 Stat. 1531; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, §373, 106 Stat. 2385; Oct. 5, 1994, Pub. L. 103–337, div. A, title X, §1071, 108 Stat. 2859; Feb. 10, 1996, Pub. L. 104–106, div. A, title III, §372, 110 Stat. 280.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, §511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, §324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, §325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, §373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, §1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, §372, Feb. 10, 1996, 110 Stat. 280.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,7 @@ The word “may” is substituted for the words “are each authorized, in their
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
+1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for“not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
 
 1994—Subsec. (b)(1). Pub. L. 103–337 inserted “transportation,” after “salvage,”.
 
@@ -94,11 +94,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Cross References
 
-American Legion, see section 41 et seq. of Title 36, Patriotic Societies and Observances.
-
 Loan or gift of obsolete material and articles of historical interest by Secretary of the Navy, see section 7545 of this title.
-
-Veterans of Foreign Wars of the United States, see section 111 et seq. of Title 36, Patriotic Societies and Observances.
 
 #### Section Referred to in Other Sections
 

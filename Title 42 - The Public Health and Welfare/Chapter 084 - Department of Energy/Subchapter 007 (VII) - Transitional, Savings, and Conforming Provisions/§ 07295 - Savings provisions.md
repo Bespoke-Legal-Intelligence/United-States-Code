@@ -8,7 +8,7 @@ All orders, determinations, rules, regulations, permits, contracts, certificates
 
 &emsp;(2) which are in effect on October 1, 1977,
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, the Federal Energy Regulatory Commission, or other authorized officials, a court of competent jurisdiction, or by operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, setaside, or revoked in accordance with law by the President, the Secretary, the Federal Energy Regulatory Commission, or other authorized officials, a court of competent jurisdiction, or by operation of law.
 
 #### (b) Proceedings or applications for licenses, permits, etc., pending at effective date of this chapter; regulations
 

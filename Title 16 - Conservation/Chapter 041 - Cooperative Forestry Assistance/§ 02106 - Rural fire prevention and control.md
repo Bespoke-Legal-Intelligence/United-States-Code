@@ -22,7 +22,7 @@ Notwithstanding the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 
 
 &emsp;(1) cooperate with State foresters or equivalent State officials in developing systems and methods for the prevention, control, suppression, and prescribed use of fires on rural lands and in rural communities that will protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
 
-&emsp;(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
+&emsp;(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention,control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
 
 &emsp;(3) provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) of title 7; and
 
@@ -84,5 +84,9 @@ Subsec. (g). Pub. L. 101–624, §1220(c), added subsec. (g).
 
 #### Transfer of Functions
 
-Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2106b of this title.
 

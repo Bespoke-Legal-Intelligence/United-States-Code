@@ -2,7 +2,17 @@
 
 #### (a) Criteria for eligibility
 
-(1) The Secretary shall by regulation prescribe eligibility for the participation of persons in Head Start programs assisted under this subchapter. Except as provided in paragraph (2), such criteria may provide (A) that children from low-income families shall be eligible for participation in programs assisted under this subchapter if their families’ incomes are below the poverty line, or if their families are eligible or, in the absence of child care, would potentially be eligible for public assistance; and (B) pursuant to such regulations as the Secretary shall prescribe, that programs assisted under this subchapter may include, to a reasonable extent, participation of children in the area served who would benefit from such programs but whose families do not meet the low-income criteria prescribed pursuant to clause (A).
+(1) The Secretary shall by regulation prescribe eligibility for the participation of persons in Head Start programs assisted under this subchapter. Except as provided in paragraph (2), such criteria may provide—
+
+&emsp;(A) that children from low-income families shall be eligible for participation in programs assisted under this subchapter if their families’ incomes are below the poverty line, or if their families are eligible or, in the absence of child care, would potentially be eligible for public assistance; and
+
+&emsp;(B) pursuant to such regulations as the Secretary shall prescribe, that—
+
+&emsp;&emsp;(i) programs assisted under this subchapter may include, to a reasonable extent, participation of children in the area served who would benefit from such programs but whose families do not meet the low-income criteria prescribed pursuant to subparagraph (A); and
+
+&emsp;&emsp;(ii) a child who has been determined to meet the low-income criteria and who is participating in a Head Start program in a program year shall be considered to continue to meet the low-income criteria through the end of the succeeding program year.
+
+> In determining, for purposes of this paragraph, whether a child who has applied for enrollment in a Head Start program meets the low-income criteria, an entity may consider evidence of family income during the 12 months preceding the month in which the application is submitted, or during the calendar year preceding the calendar year in which the application is submitted, whichever more accurately reflects the needs of the family at the time of application.
 
 (2) Whenever a Head Start program is operated in a community with a population of 1,000 or less individuals and—
 
@@ -18,11 +28,11 @@
 
 #### (b) Establishment of fee schedule or charging of fees; payment by families willing and able to pay
 
-The Secretary shall not prescribe any fee schedule or otherwise provide for the charging of any fees for participation in Head Start programs, unless such fees are authorized by legislation hereafter enacted. Nothing in this subsection shall be construed to prevent the families of children who participate in Head Start programs and who are willing and able to pay the full cost of such participation from doing so.
+The Secretary shall not prescribe any fee schedule or otherwise provide for the charging of any fees for participation in Head Start programs, unless such fees are authorized by legislation hereafter enacted. Nothing in this subsection shall be construed to prevent the families of children who participate in Head Start programs and who are willing and able to pay the full cost of such participation from doing so. A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving the services through participation in a program carried out by another agency or entity.
 
 #### (c) Availability of more than one year of services; children eligible
 
-Each Head Start program operated in a community shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.
+Each Head Start program operated in a community shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State. Each Head Start program operated in a community shall be permitted to recruit and accept applications for enrollment of children throughout the year.
 
 #### (d) Indian tribes
 
@@ -30,7 +40,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 &emsp;(A) operates a Head Start program;
 
-&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community with a near-reservation designation, as defined by the Bureau of Indian Affairs) from families that meet the low-income criteria prescribed under subsection (a)(1)(A) of this section; and
+&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A) of this section; and
 
 &emsp;(C) has the resources to enroll additional children in the community who do not meet the low-income criteria;
 
@@ -40,7 +50,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 (3) In providing services through a Head Start program to such children, the Indian tribe may not use funds that the Secretary has determined, in accordance with section 9835(g)(3) of this title, are to be used for expanding Head Start programs under this subchapter.
 
-(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637.)
+(Pub. L. 97–35, title VI, §645, Aug. 13, 1981, 95 Stat. 504; Pub. L. 98–558, title I, §105, Oct. 30,1984, 98 Stat. 2879; Pub. L. 99–425, title I, §104, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §§113, 114, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 101–597, title IV, §401(e), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–252, title I, §111, May 18, 1994, 108 Stat. 637; Pub. L. 105–285, title I, §112, Oct. 27, 1998, 112 Stat. 2718.)
 
 #### References in Text
 
@@ -48,7 +58,15 @@ Section 254c of this title, referred to in subsec. (a)(2)(B), was in the origina
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–252, §111(1), substituted “shall be permitted to provide more than 1 year ofHead Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
+1998—Subsec. (a)(1). Pub. L. 105–285, §112(a), substituted “criteria may provide—” for “criteria may provide”, realigned margins of subpars. (A) and (B), in subpar. (B) substituted “shall prescribe, that—” for “shall prescribe, that”, inserted “(i)” before “programs assisted under this subchapter may”, and substituted “subparagraph (A); and”, cl. (ii), and concluding provisions for “clause (A).”
+
+Subsec. (b). Pub. L. 105–285, §112(b), inserted at end “A Head Start agency that provides a Head Start program with full-working-day services in collaboration with other agencies or entities may collect a family copayment to support extended day services if a copayment is required in conjunction with the collaborative. The copayment charged to families receiving services through the Head Start program shall not exceed the copayment charged to families with similar incomes and circumstances who are receiving the services through participation in a program carried out by another agency or entity.”
+
+Subsec. (c). Pub. L. 105–285, §112(c), inserted at end “Each Head Start program operated in a community shall be permitted to recruit and accept applications for enrollment of children throughout the year.”
+
+Subsec. (d)(1)(B). Pub. L. 105–285, §112(d), substituted “a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary” for “a community with a near-reservation designation, as defined by the Bureau of Indian Affairs”.
+
+1994—Subsec. (c). Pub. L. 103–252, §111(1), substituted “shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
 
 Subsec. (d). Pub. L. 103–252, §111(2), added subsec. (d).
 

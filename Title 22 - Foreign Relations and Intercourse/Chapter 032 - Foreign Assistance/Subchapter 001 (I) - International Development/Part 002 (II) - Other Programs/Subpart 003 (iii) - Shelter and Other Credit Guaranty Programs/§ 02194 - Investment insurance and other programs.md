@@ -4,7 +4,7 @@ The Corporation is hereby authorized to do the following:
 
 #### (a) Investment insurance
 
-(1) To issue insurance, upon such terms and conditions as the Corporation may determine, to eligible investors assuring protection in whole or in part against any or all of the following risks with respect to projects which the Corporation has approved—
+(1) To issue insurance, upon such terms and conditions as the Corporation may determine, toeligible investors assuring protection in whole or in part against any or all of the following risks with respect to projects which the Corporation has approved—
 
 &emsp;(A) inability to convert into United States dollars other currencies, or credits in such currencies, received as earnings or profits from the approved project, as repayment or return of the investment therein, in whole or in part, or as compensation for the sale or disposition of all or any part thereof;
 
@@ -28,7 +28,7 @@ To issue to eligible investors guaranties of loans and other investments made by
 
 To make loans in United States dollars repayable in dollars or loans in foreign currencies (including, without regard to section 1306 of title 31, such foreign currencies which the Secretary of the Treasury may determine to be excess to the normal requirements of the United States and the Director of the Office of Management and Budget may allocate) to firms privately owned or of mixed private and public ownership upon such terms and conditions as the Corporation may determine. Loans may be made under this subsection only for projects that are sponsored by or significantly involve United States small business or cooperatives.
 
-The Corporation may designate up to 25 percent of any loan under this subsection for use in the development or adaptation in the United States of new technologies or new products orservices that are to be used in the project for which the loan is made and are likely to contribute to the economic or social development of less developed countries.
+The Corporation may designate up to 25 percent of any loan under this subsection for use in the development or adaptation in the United States of new technologies or new products or services that are to be used in the project for which the loan is made and are likely to contribute to the economic or social development of less developed countries.
 
 No loan may be made under this subsection to finance any operation for the extraction of oil or gas. The aggregate amount of loans under this subsection to finance operations for the mining or other extraction of any deposit of ore or other nonfuel minerals may not in any fiscal year exceed $4,000,000.
 
@@ -38,7 +38,7 @@ To initiate and support through financial participation, incentive grant, or oth
 
 &emsp;(1) the Corporation shall not finance any survey to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of, oil or gas; and
 
-&emsp;(2) expenditures financed by the Corporation during any fiscal year on surveys to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertaking operations for the extraction of nonfuel minerals may not exceed $200,000.
+&emsp;(2) expenditures financed by the Corporation during any fiscal year on surveys to ascertain the existence, location, extent, or quality of, or to determine the feasibility of undertakingoperations for the extraction of nonfuel minerals may not exceed $200,000.
 
 #### (e) Special projects and programs
 
@@ -82,7 +82,7 @@ To administer and manage special projects and programs, including programs of fi
 
 #### (c) <sup>2</sup> Creation of fund for acquisition of equity
 
-&emsp;The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.
+&emsp;The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of$10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.
 
 #### (6) Consultations with Congress
 

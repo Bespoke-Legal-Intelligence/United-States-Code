@@ -2,9 +2,9 @@
 
 (a) The Dean of the Academic Board shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.
 
-(b) The Dean of the Academic Board shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Army.
+(b) The Dean of the Academic Board shall perform such duties as the Superintendent of theAcademy may prescribe with the approval of the Secretary of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Sept. 2, 1958, Pub. L. 85–861, §33(a)(46)(A), 72 Stat. 1567; Nov. 14, 1986, Pub. L. 99–661, div. A, title V, §508(a), 100 Stat. 3866; Oct. 23, 1992, Pub. L. 102–484, div. A, title V, §521(a), 106 Stat. 2409.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(a), Nov. 14, 1986, 100 Stat. 3866; Pub. L. 102–484, div. A, title V, §521(a), Oct. 23, 1992, 106 Stat. 2409.)
 
 Historical and Revision Notes<br>1956
 

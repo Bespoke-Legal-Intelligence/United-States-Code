@@ -56,7 +56,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 &emsp;A common carrier that provides local exchange service shall—
 
-&emsp;&emsp;(A) offer telephone subscribers (where technically feasible) the option of blocking access from their telephone number to all, or to certain specific, prefixes or area codes used by pay-per-call services, which option—
+&emsp;&emsp;(A) offer telephone subscribers (where technically feasible) the option of blockingaccess from their telephone number to all, or to certain specific, prefixes or area codes used by pay-per-call services, which option—
 
 &emsp;&emsp;&emsp;(i) shall be offered at no charge (I) to all subscribers for a period of 60 days after the issuance of the regulations under subsection (b) of this section, and (II) to any subscriber who subscribes to a new telephone number until 60 days after the time the new telephone number is effective; and
 
@@ -72,7 +72,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (7) Billing for 800 calls
 
-&emsp;A common carrier shall prohibit by tariff or contract the use of any 800 telephone number,or other telephone number advertised or widely understood to be toll free, in a manner that would result in—
+&emsp;A common carrier shall prohibit by tariff or contract the use of any 800 telephone number, or other telephone number advertised or widely understood to be toll free, in a manner that would result in—
 
 &emsp;&emsp;(A) the calling party being assessed, by virtue of completing the call, a charge for the call;
 
@@ -138,7 +138,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (E) Termination of service
 
-&emsp;&emsp;On receipt by a common carrier of a complaint by any person that an information provider is in violation of the provisions of this section, a carrier shall—
+&emsp;&emsp;On receipt by a common carrier of a complaint by any person that an informationprovider is in violation of the provisions of this section, a carrier shall—
 
 &emsp;&emsp;&emsp;(i) promptly investigate the complaint; and
 
@@ -202,7 +202,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (2) Civil liability
 
-&emsp;No cause of action may be brought in any court or administrative agency against any common carrier or any of its affiliates on account of any act of the carrier or affiliate to terminate any pay-per-call service in order to comply with the regulations prescribed under this section, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], or any other Federal law unless the complainant demonstrates that the carrier or affiliate did not act in good faith.
+&emsp;No cause of action may be brought in any court or administrative agency against any common carrier or any of its affiliates on account of any act of the carrier or affiliate toterminate any pay-per-call service in order to comply with the regulations prescribed under this section, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], or any other Federal law unless the complainant demonstrates that the carrier or affiliate did not act in good faith.
 
 #### (f) Special provisions
 
@@ -272,7 +272,7 @@ The Telephone Disclosure and Dispute Resolution Act, referred to in subsecs. (c)
 
 #### Amendments
 
-1996—Subsec. (c)(7)(C). Pub. L. 104–104, §701(a)(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “the calling party being charged for information conveyed during the call unless the calling party has a preexisting agreement to be charged for the information or discloses a credit or charge card number during the call; or”.
+1996—Subsec. (c)(7)(C). Pub. L. 104–104, §701(a)(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “the calling party being charged for information conveyed during the call unless the calling party has a preexisting agreement to be chargedfor the information or discloses a credit or charge card number during the call; or”.
 
 Subsec. (c)(7)(E). Pub. L. 104–104, §701(a)(1)(B), added subpar. (E).
 

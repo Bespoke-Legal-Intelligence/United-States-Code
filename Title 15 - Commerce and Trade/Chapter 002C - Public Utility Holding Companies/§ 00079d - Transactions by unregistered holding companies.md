@@ -4,7 +4,7 @@
 
 After December 1, 1935, unless a holding company is registered under section 79e of this title, it shall be unlawful for such holding company, directly or indirectly—
 
-&emsp;(1) to sell, transport, transmit, or distribute, or own or operate any utility assets for thetransportation, transmission, or distribution of, natural or manufactured gas or electric energy in interstate commerce;
+&emsp;(1) to sell, transport, transmit, or distribute, or own or operate any utility assets for the transportation, transmission, or distribution of, natural or manufactured gas or electric energy in interstate commerce;
 
 &emsp;(2) by use of the mails or any means or instrumentality of interstate commerce, to negotiate, enter into, or take any step in the performance of, any service, sales, or construction contract undertaking to perform services or construction work for, or sell goods to, any public-utility company or holding company;
 

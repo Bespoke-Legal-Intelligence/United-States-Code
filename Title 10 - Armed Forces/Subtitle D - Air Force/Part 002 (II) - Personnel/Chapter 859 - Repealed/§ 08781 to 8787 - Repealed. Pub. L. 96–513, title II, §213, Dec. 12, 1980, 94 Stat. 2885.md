@@ -4,7 +4,7 @@ Section 8781, acts Aug. 10, 1956, ch. 1041, 70A Stat. 542; July 12, 1960, Pub. L
 
 Section 8782, acts Aug. 10, 1956, ch. 1041, 70A Stat. 543; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 391, provided for boards of inquiry, composed of three or more officers, to be convened at such places as Secretary of Air Force prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under section 8781 of this title, should be retained on active list of Regular Air Force. See section 1182 of this title.
 
-Section 8783, acts Aug. 10, 1956, ch. 1041, 70A Stat. 543; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 391, provided for boards of review, composed of three or more officers, to be convened by Secretary of Air Force, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Air Force. See section 1183 of this title.
+Section 8783, acts Aug. 10, 1956, ch. 1041, 70A Stat. 543; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 391, provided for boards of review, composed of three or more officers, to be convened by Secretary of Air Force, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Air Force.
 
 Section 8784, acts Aug. 10, 1956, ch. 1041, 70A Stat. 543; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 392, authorized Secretary of Air Force to remove an officer from active list of Regular Air Force if his removal is recommended by a board of review and provided that decision of Secretary in such case is final and conclusive. See section 1184 of this title.
 

@@ -1,6 +1,6 @@
 ### §91. Literary and scientific collections accessible to investigators and students
 
-The facilities for study research and illustration in the Government departments and in thefollowing and any other governmental collections now existing or hereafter to be established in the city of Washington for the promotion of knowledge shall be accessible, under such rules and restrictions as the officers in charge of each department or collection may prescribe, subject to such authority as is now or may hereafter be permitted by law, to the scientific investigators and to duly qualified individuals, students and graduates of any institution of learning in the several States and Territories and the District of Columbia, to wit:
+The facilities for study research and illustration in the Government departments and in the following and any other governmental collections now existing or hereafter to be established in the city of Washington for the promotion of knowledge shall be accessible, under such rules and restrictions as the officers in charge of each department or collection may prescribe, subject to such authority as is now or may hereafter be permitted by law, to the scientific investigators and to duly qualified individuals, students and graduates of any institution of learning in the several States and Territories and the District of Columbia, to wit:
 
 One. Of the Library of Congress.
 
@@ -30,7 +30,7 @@ Thirteen. Of the Zoological Park.
 
 Fourteen. Of the Government Printing Office.
 
-(Apr. 12, 1892, No. 8, 27 Stat. 395; Mar. 3, 1901, ch. 831, §1, 31 Stat. 1039; May 14, 1928, ch. 551, §1, 45 Stat. 531; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Jan. 2, 1975, Pub. L. 93–596, §3, 88 Stat. 1949; Oct. 17, 1979, Pub. L. 96–88, title III, §301(b)(2), title V, §507, 93 Stat. 678, 692; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+(Apr. 12, 1892, No. 8, 27 Stat. 395; Mar. 3, 1901, ch. 831, §1, 31 Stat. 1039; May 14, 1928, ch. 551, §1, 45 Stat. 531; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–88, title III, §301(b)(2), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 #### Codification
 

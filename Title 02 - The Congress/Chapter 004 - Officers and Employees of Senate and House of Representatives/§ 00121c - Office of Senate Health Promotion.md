@@ -12,7 +12,7 @@ The Sergeant at Arms and Doorkeeper of the Senate is authorized to establish an 
 
 #### (c) Senate Health Promotion Revolving Fund
 
-There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Health Promotion Revolving Fund (hereinafter referred to in this section as the “fund”).The fund shall consist of all amounts collected or received by the Sergeant at Arms and Doorkeeper of the Senate as fees, assessments, and other charges for activities and services to carry out the provisions of this section. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate for promoting the health of Members, officers, and employees of the Senate. On or before December 31 of each year, the Secretary of the Senate shall withdraw from the fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in excess of $5,000 in the fund at the close of the preceding fiscal year.
+There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Health Promotion Revolving Fund (hereinafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Sergeant at Arms and Doorkeeper of the Senate as fees, assessments, and other charges for activities and services to carry out the provisions of this section. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate for promoting the health of Members, officers, and employees of the Senate. On or before December 31 of each year, the Secretary of the Senate shall withdraw from the fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in excess of $5,000 in the fund at the close of the preceding fiscal year.
 
 #### (d) Vouchers
 
@@ -24,7 +24,7 @@ The provisions of section 193d of title 40 shall not be applicable to any class,
 
 #### (f) Regulations
 
-The provisions of this section shall be carried out in accordance with regulations which shall be promulgated by the Sergeant at Arms and Doorkeeper of the Senate and subject to approval at the beginning of each Congress by the Committee on Rules and Administration of the Senate.
+The provisions of this section shall be carried out in accordance with regulations which shall be promulgated by the Sergeant at Arms andDoorkeeper of the Senate and subject to approval at the beginning of each Congress by the Committee on Rules and Administration of the Senate.
 
 (Pub. L. 101–163, title I, §4, Nov. 21, 1989, 103 Stat. 1044; Pub. L. 102–90, title I, §2, Aug. 14, 1991, 105 Stat. 450.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Benefits; making or declaring dividends out of capital account
 
-It shall be unlawful for any officer or director of any public utility to receive for his own benefit, directly or indirectly, any money or thing of value in respect of the negotiation, hypothecation, or sale by such public utility of anysecurity issued or to be issued by such public utility, or to share in any of the proceeds thereof, or to participate in the making or paying of any dividends of such public utility from any funds properly included in capital account.
+It shall be unlawful for any officer or director of any public utility to receive for his own benefit, directly or indirectly, any money or thing of value in respect of the negotiation, hypothecation, or sale by such public utility of any security issued or to be issued by such public utility, or to share in any of the proceeds thereof, or to participate in the making or paying of any dividends of such public utility from any funds properly included in capital account.
 
 #### (b) Interlocking directorates
 
@@ -34,7 +34,7 @@ After six months from August 26, 1935, it shall be unlawful for any person to ho
 
 &emsp;(B) The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
 
-(June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Nov. 9, 1978, Pub. L. 95–617, title II, §211(a), 92 Stat. 3147.)
+(June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 95–617, title II, §211(a), Nov. 9, 1978, 92 Stat. 3147.)
 
 #### References in Text
 

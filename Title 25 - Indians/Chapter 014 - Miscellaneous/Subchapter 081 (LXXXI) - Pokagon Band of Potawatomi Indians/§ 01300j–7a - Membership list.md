@@ -8,7 +8,7 @@ Not later than 120 days after September 21, 1994, the Band shall submit to the S
 
 #### (1) In general
 
-&emsp;Not later than 18 months after September 21, 1994, the Band shall submit to the Secretary a membership roll that contains the names ofall individuals eligible for membership in the Band. The Band, in consultation with the Secretary, shall determine whether an individual is eligible for membership in the Band on the basis of provisions in the governing documents of the Band that determine the qualifications for inclusion in the membership roll of the Band.
+&emsp;Not later than 18 months after September 21, 1994, the Band shall submit to the Secretary a membership roll that contains the names of all individuals eligible for membership in the Band. The Band, in consultation with the Secretary, shall determine whether an individual is eligible for membership in the Band on the basis of provisions in the governing documents of the Band that determine the qualifications for inclusion in the membership roll of the Band.
 
 #### (2) Publication of notice
 
@@ -28,7 +28,7 @@ A prior section 9 of Pub. L. 103–323 was renumbered section 10 and is classifi
 
 1996—Subsec. (a). Pub. L. 104–109, §1(1), (2), substituted “Band” for “Bands” in two places and struck out “respective” after “members of the”.
 
-Subsec. (b)(1). Pub. L. 104–109, §1(1), (3)(A), substituted “Band shall submit” for “Bands shall submit”, “a membership roll that contains” for “membership rolls that contain”, “membership in the Band” for “membership in such Bands”, and “The Band” for “Each such Band”.
+Subsec. (b)(1). Pub. L. 104–109, §1(1), (3)(A), substituted “Band shall submit” for “Bands shall submit”, “a membership roll that contains” for “membershiprolls that contain”, “membership in the Band” for “membership in such Bands”, and “The Band” for “Each such Band”.
 
 Subsec. (b)(2). Pub. L. 104–109, §1(3)(B), substituted “roll has” for “rolls have” and “such roll” for “such rolls”.
 

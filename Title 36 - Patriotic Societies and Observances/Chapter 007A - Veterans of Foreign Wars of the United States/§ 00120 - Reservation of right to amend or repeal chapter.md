@@ -1,6 +1,0 @@
-### §120. Reservation of right to amend or repeal chapter
-
-The right to repeal, alter, or amend this chapter at any time is expressly reserved.
-
-(May 28, 1936, ch. 471, §10, 49 Stat. 1391.)
-

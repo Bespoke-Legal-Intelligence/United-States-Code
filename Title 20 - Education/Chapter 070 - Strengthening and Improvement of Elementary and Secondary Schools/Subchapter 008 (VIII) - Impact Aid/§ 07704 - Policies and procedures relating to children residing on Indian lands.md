@@ -46,7 +46,7 @@ The Secretary shall—
 
 #### (2) Hearing
 
-&emsp;The hearing shall be held within 30 days of the designation of a hearing examiner and shall be open to the public. A record of the proceedings shall be established and maintained.
+&emsp;The hearing shall be held within 30 days of the designation of a hearing examiner andshall be open to the public. A record of the proceedings shall be established and maintained.
 
 #### (3) Evidence; recommendations; cost
 
@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (8) Withholding
 
-&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, exceptwhere the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
+&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
 
 #### (9) Rejection of determination
 

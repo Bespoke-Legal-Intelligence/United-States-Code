@@ -18,7 +18,7 @@ The following entities are agencies of the Administration:
 
 #### (1) Administrator
 
-&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The Administration shall be headed by an Administrator (hereinafter in this subchapterreferred to as the “Administrator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Deputy Administrator
 
@@ -114,7 +114,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;&emsp;(iv) assure that the unique needs of minority women, including Native American, Hispanic, African-American and Asian women, are recognized and addressed within the activities of the Administration; and
 
-&emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed of not more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals,whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
+&emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed of not more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
 
 &emsp;&emsp;&emsp;(i) advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women's substance abuse and mental health services, including services which require a multidisciplinary approach;
 
@@ -202,7 +202,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(2), 97 Stat. 176; Oct. 19, 1984, Pub. L. 98–509, title II, §201, title III, §301(c)(1), 98 Stat. 2359, 2364; Oct. 27, 1986, Pub. L. 99–570, title IV, §4003, 100 Stat. 3207–106; Nov. 18, 1988, Pub. L. 100–690, title II, §2058(a)(2), 102 Stat. 4213; Aug. 16, 1989, Pub. L. 101–93, §3(f), 103 Stat. 611; July 10, 1992, Pub. L. 102–321, title I, §101(a), 106 Stat. 324; Sept. 23, 1996, Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), 110 Stat. 2759.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759.)
 
 #### References in Text
 
@@ -336,7 +336,7 @@ Continuation of Proceedings.—
 
 &emsp;“(1)
 
-In general.—The provisions of this subtitle shall not affect any proceedings, including notices of proposed rule making, or any application for any license, permit, certificate, or financial assistance pending on the date of enactment of this Act before the Department of Health and Human Services, which relates to the Alcohol, Drug Abuse and Mental Health Administration or the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health, or any office thereof with respect to functions transferred by this subtitle. Such proceedings or applications, to the extent that they relate to functions transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made under such orders, as if this Act \[see Tables for classification\] had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
+In general.—The provisions of this subtitle shall not affect any proceedings, including notices of proposed rule making, or any application for any license, permit, certificate, or financial assistancepending on the date of enactment of this Act before the Department of Health and Human Services, which relates to the Alcohol, Drug Abuse and Mental Health Administration or the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health, or any office thereof with respect to functions transferred by this subtitle. Such proceedings or applications, to the extent that they relate to functions transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made under such orders, as if this Act \[see Tables for classification\] had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
 
 &emsp;“(2)
 
@@ -384,7 +384,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### “SEC. 150. SEPARABILITY.
 
-“If a provision of this subtitle or its application to any person or circumstance is held invalid, neither the remainder of this Act \[see Tables for classification\] nor the application of the provision to other persons or circumstances shall be affected.
+“If a provision of this subtitle or its application to any person or circumstance is held invalid, neither theremainder of this Act \[see Tables for classification\] nor the application of the provision to other persons or circumstances shall be affected.
 
 #### “SEC. 151. BUDGETARY AUTHORITY.
 

@@ -20,7 +20,7 @@ Whenever the Secretary finds that a State, or an entity that has received a paym
 
 When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever he has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of subsection (a)(2) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
-(July 1, 1944, ch. 373, title XIX, §1908, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 542.)
+(July 1, 1944, ch. 373, title XIX, §1908, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 542.)
 
 #### References in Text
 

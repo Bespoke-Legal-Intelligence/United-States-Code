@@ -22,7 +22,7 @@ The Board shall review general policies and shall advise the Director with respe
 
 The members of the Board shall not, by reason of such membership, be deemed to be employees of the United States, and such members, except those who are regular full-time employees of the Government, shall receive for their services, as members, the per diem equivalent to the rate for grade GS–18 of the General Schedule under section 5332 of title 5 when engaged in the performance of their duties, and each member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title for persons in the Government service employed intermittently.
 
-(June 27, 1934, ch. 847, title XII, §1202, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82Stat. 556; amended Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230.)
+(June 27, 1934, ch. 847, title XII, §1202, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 556; amended Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to the President to carry out the purposes of this part $56,221,000 for fiscal year 1986 and $56,221,000 for fiscal year 1987.
 
-(Pub. L. 87–195, pt. II, §542, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 732;amended Pub. L. 95–92, §10, Aug. 4, 1977, 91 Stat. 619; Pub. L. 95–384, §11(a), Sept. 26, 1978, 92 Stat. 736; Pub. L. 96–92, §9, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §115(a), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 97–113, title I, §113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1528, 1560; Pub. L. 99–83, title I, §104, Aug. 8, 1985, 99 Stat. 195.)
+(Pub. L. 87–195, pt. II, §542, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 732; amended Pub. L. 95–92, §10, Aug. 4, 1977, 91 Stat. 619; Pub. L. 95–384, §11(a), Sept. 26, 1978, 92 Stat. 736; Pub. L. 96–92, §9, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §115(a), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 97–113, title I, §113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1528, 1560; Pub. L. 99–83, title I, §104, Aug. 8, 1985, 99 Stat. 195.)
 
 #### Amendments
 
@@ -24,5 +24,5 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions; Allocation of Funds
 
-Functions of President under this section delegated to Secretary of Defense and funds available to President for carrying out this subchapter, with specified exceptions, allocated to Secretary by sections 1–301(a) and 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+Functions of President under this section delegated to Secretary of Defense and funds available to President for carrying out this subchapter, with specified exceptions, allocated to Secretary by sections 1–301(a) and 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56675, 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 

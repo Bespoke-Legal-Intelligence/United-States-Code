@@ -18,7 +18,7 @@ Within 60 days after August 26, 1994, the Secretary of State and the Director of
 
 &emsp;(2) the senior information management official from each agency currently serving on the Board;
 
-&emsp;(3) a senior career information management official from each of the Department of Commerce, the United States Information Agency, and the Defense Intelligence Agency; and
+&emsp;(3) a senior career information management official from each of the Department of Commerce and the Defense Intelligence Agency; and
 
 &emsp;(4) a senior career information management official from each of 2 other Federal agencies served by the DTS, each of whom shall be appointed on a rotating basis by the Secretary of State and the Director of the DTS–PO for a 2-year term.
 
@@ -66,5 +66,13 @@ Not later than January 15, 1995, the Secretary of State and the Director of the 
 
 &emsp;&emsp;(F) reducing the extensive reliance of DTS–PO on the full-time services of contractors.
 
-(Pub. L. 103–317, title V, §507, Aug. 26, 1994, 108 Stat. 1766.)
+(Pub. L. 103–317, title V, §507, Aug. 26, 1994, 108 Stat. 1766; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(m), Oct. 21, 1998, 112 Stat. 2681–789.)
+
+#### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–277 struck out “, the United States Information Agency,” after “Department of Commerce”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 

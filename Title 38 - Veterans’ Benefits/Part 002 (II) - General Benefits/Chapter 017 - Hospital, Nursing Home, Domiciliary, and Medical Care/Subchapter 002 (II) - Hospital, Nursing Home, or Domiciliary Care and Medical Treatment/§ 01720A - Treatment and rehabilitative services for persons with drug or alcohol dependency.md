@@ -1,6 +1,6 @@
 ### §1720A. Treatment and rehabilitative services for persons with drug or alcohol dependency
 
-(a) The Secretary, in consultation with the Secretary of Labor and the Director of the Office of Personnel Management, may take appropriate steps to (1) urge all Federal agencies and appropriate private and public firms, organizations, agencies, and persons to provide appropriate employment and training opportunitiesfor veterans who have been provided treatment and rehabilitative services under this title for alcohol or drug dependence or abuse disabilities and have been determined by competent medical authority to be sufficiently rehabilitated to be employable, and (2) provide all possible assistance to the Secretary of Labor in placing such veterans in such opportunities.
+(a) The Secretary, in consultation with the Secretary of Labor and the Director of the Office of Personnel Management, may take appropriate steps to (1) urge all Federal agencies and appropriate private and public firms, organizations, agencies, and persons to provide appropriate employment and training opportunities for veterans who have been provided treatment and rehabilitative services under this title for alcohol or drug dependence or abuse disabilities and have been determined by competent medical authority to be sufficiently rehabilitated to be employable, and (2) provide all possible assistance to the Secretary of Labor in placing such veterans in such opportunities.
 
 (b) Upon receipt of an application for treatment and rehabilitative services under this title for an alcohol or drug dependence or abuse disability from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such treatment and services, the Secretary shall—
 
@@ -220,5 +220,5 @@ Section 502(a)(2) of Pub. L. 100–689 ratified actions by the Administrator of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1703 of this title; title 29 section 1721.
+This section is referred to in section 1703 of this title; title 29 sections 1721, 2913.
 

@@ -18,7 +18,7 @@ A determination by a cooperating State agency with respect to entitlement to pro
 
 #### (e) Coordination of benefits and assistance
 
-Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title III of the Job Training Partnership Act \[29 U.S.C. 1651 et seq.\] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointly administering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
+Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title III of the Job Training Partnership Act \[29 U.S.C. 1651 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointly administering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
 
 #### (f) Advising and interviewing adversely affected workers
 
@@ -32,7 +32,15 @@ Each cooperating State agency shall, in carrying out subsection (a)(2) of this s
 
 &emsp;(4) as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker.
 
-(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250.)
+#### (g) Submission of information for coordination of workforce investment activities
+
+In order to promote the coordination of workforce investment activities in each State with activities carried out under this part, any agreement entered into under this section shall provide that the State shall submit to the Secretary, in such form as the Secretary may require, the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 \[29 U.S.C. 2822(b)\].
+
+(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(11)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, subsection (e) of this section is amended by striking “title III of the Job Training Partnership Act or”.</i>
 
 #### Termination of Section
 
@@ -42,11 +50,17 @@ Each cooperating State agency shall, in carrying out subsection (a)(2) of this s
 
 The Job Training Partnership Act, referred to in subsec. (e), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title III of that Act is classified generally to subchapter III (§1651 et seq.) of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in subsec. (e), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
 #### Codification
 
-Section is comprised of subsecs. (a) to (f) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
+Section is comprised of subsecs. (a) to (g) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(B)\], substituted “under title III of the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “under title III of the Job Training Partnership Act”.
+
+Subsec. (g). Pub. L. 105–220 added subsec. (g).
 
 1988—Subsec. (a)(3). Pub. L. 100–418, §1423(a)(4), amended cl. (3) generally. Prior to amendment, cl. (3) read as follows: “will make determinations and approvals regarding job search programs under sections 2291(c) and 2297(c) of this title, and”.
 
@@ -71,6 +85,10 @@ Pub. L. 99–272, §13003(a)(3), substituted “training and job search programs
 Subsecs. (e), (f). Pub. L. 99–272, §13004(c)(2), added subsecs. (e) and (f).
 
 1981—Subsec. (a). Pub. L. 97–35 struck out provisions respecting persons applying for payments under this part.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(14)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(11)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\], set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,13 +2,11 @@
 
 (a) The position held by an employee of the Department of Agriculture while he, under section 450d of title 7, is designated and vested with a delegated regulatory function or part thereof shall be classified in accordance with this chapter, but not lower than GS–14.
 
-(b) The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108.
-
-(c)(1) The position held by a fully experienced and qualified railroad safety inspector of the Department of Transportation shall be classified in accordance with this chapter, but not lower than GS–12.
+(b)(1) The position held by a fully experienced and qualified railroad safety inspector of the Department of Transportation shall be classified in accordance with this chapter, but not lower than GS–12.
 
 (2) The position held by a railroad safety specialist of the Department shall be classified in accordance with this chapter, but not lower than GS–13.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 455; Pub. L. 91–34, §2(b), June 30, 1969, 83 Stat. 41; Pub. L. 93–406, title II, §1051(b)(1), Sept. 2, 1974, 88 Stat. 951; Pub. L. 95–454, title IX, §906(b), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(G)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 103–272, §4(b)(1), July 5, 1994, 108 Stat. 1361.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 455; Pub. L. 91–34, §2(b), June 30, 1969, 83 Stat. 41; Pub. L. 93–406, title II, §1051(b)(1), Sept. 2, 1974, 88 Stat. 951; Pub. L. 95–454, title IX, §906(b), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(G)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 103–272, §4(b)(1), July 5, 1994, 108 Stat. 1361; Pub. L. 105–206, title I, §1102(e)(2), July 22, 1998, 112 Stat. 704.)
 
 Historical and Revision Notes
 
@@ -45,6 +43,8 @@ In subsection (c), the words “Notwithstanding any other law” were omitted as
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsecs. (b), (c). Pub. L. 105–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The position held by the employee appointed under section 7802(b) of the Internal Revenue Code of 1986 shall be considered a position classified above GS–15 pursuant to section 5108.”
 
 1994—Subsec. (c). Pub. L. 103–272 added subsec. (c).
 

@@ -1,6 +1,6 @@
 ### §306. Definitions
 
-(a) For the purposes of this subchapter, the term “old-age assistance” means money payments to, or (if provided in or after the third month before the month in which the recipient makes application for assistance) medical care in behalf of or any type of remedial care recognized under State law in behalf of, needy individuals who are 65 years of age or older, but does not include any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution). Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Secretary) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 302 of this title includes provision for—
+(a) For the purposes of this subchapter, the term “old-age assistance” means money payments to, or (if provided in or after the third month before the month in which the recipient makes application for assistance) medical care in behalf of or any type of remedial care recognized under State law in behalf of, needy individuals who are 65 years of age or older, but does not include any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution). Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Secretary) is interested in or concerned with the welfare of such needy individual, but only withrespect to a State whose State plan approved under section 302 of this title includes provision for—
 
 &emsp;(1) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such assistance through payments described in this sentence;
 
@@ -16,7 +16,7 @@
 
 (b), (c) Repealed. Pub. L. 97–35, title XXI, §2184(a)(5), Aug. 13, 1981, 95 Stat. 817.
 
-(Aug. 14, 1935, ch. 531, title I, §6, 49 Stat. 622; Aug. 10, 1939, ch. 666, title I, §103, 53 Stat. 1362;Aug. 28, 1950, ch. 809, title III, pt. 1, §303(a), 64 Stat. 549; Sept. 13, 1960, Pub. L. 86–778, title VI, §601(f), 74 Stat. 991; July 25, 1962, Pub. L. 87–543, title I, §156(a), 76 Stat. 207; July 30, 1965, Pub. L. 89–97, title II, §§221(a)(1), (2), 222(a), title IV, §402(a), 79 Stat. 356, 360, 415; Oct. 30, 1972, Pub. L. 92–603, title IV, §§408(a), 409(a), 86 Stat. 1489, 1490; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(a)(5), 95 Stat. 817.)
+(Aug. 14, 1935, ch. 531, title I, §6, 49 Stat. 622; Aug. 10, 1939, ch. 666, title I, §103, 53 Stat. 1362; Aug. 28, 1950, ch. 809, title III, pt. 1, §303(a), 64 Stat. 549; Pub. L. 86–778, title VI, §601(f), Sept. 13, 1960, 74 Stat. 991; Pub. L. 87–543, title I, §156(a), July 25, 1962, 76 Stat. 207; Pub. L. 89–97, title II, §§221(a)(1), (2), 222(a), title IV, §402(a), July 30, 1965, 79 Stat. 356, 360, 415; Pub. L. 92–603, title IV, §§408(a), 409(a), Oct. 30, 1972, 86 Stat. 1489, 1490; Pub. L. 97–35, title XXI, §2184(a)(5), Aug. 13, 1981, 95 Stat. 817.)
 
 #### Repeal of Section
 
@@ -48,7 +48,7 @@ Subsecs. (b), (c). Pub. L. 86–778, §601(f)(2), added subsecs. (b) and (c).
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 221 of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965, under a State plan approved under this subchapter, see section 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
+Amendment by section 221 of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965,under a State plan approved under this subchapter, see section 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
 
 Section 222(c) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and section 1385 of this title\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[subchapter I or XVI of this chapter\] with respect to care and services provided under such plan after June 1965.”
 

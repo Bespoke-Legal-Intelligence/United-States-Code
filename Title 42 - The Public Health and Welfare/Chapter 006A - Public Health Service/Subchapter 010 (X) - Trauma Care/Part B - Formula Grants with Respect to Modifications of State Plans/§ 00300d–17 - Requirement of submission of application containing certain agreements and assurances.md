@@ -10,9 +10,9 @@ The Secretary may not make payments under section 300d–11(a) of this title to 
 
 &emsp;(4) the application contains the plan provisions and the information required to be submitted to the Secretary pursuant to section 300d–14 of this title; and
 
-&emsp;(5) the application otherwise is in such form, is made in such manner, and contains suchagreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
+&emsp;(5) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
 
-(July 1, 1944, ch. 373, title XII, §1217, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2924.)
+(July 1, 1944, ch. 373, title XII, §1217, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2924.)
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ The purposes of this part are as follows:
 
 &emsp;(5) to assure that any decision to permit increased air pollution in any area to which this section applies is made only after careful evaluation of all the consequences of such a decision and after adequate procedural opportunities for informed public participation in the decisionmaking process.
 
-(July 14, 1955, ch. 360, title I, §160, as added Aug. 7, 1977, Pub. L. 95–95, title I, §127(a), 91 Stat. 731.)
+(July 14, 1955, ch. 360, title I, §160, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 731.)
 
 #### Effective Date
 

@@ -16,5 +16,5 @@ In making grants under section 300d–41(a) of this title, the Secretary shall g
 
 With respect to applications for grants under section 300d–41 of this title that are receiving preference for purposes of subsection (a) of this section, the Secretary shall give further preference to any such application made by a trauma center for which a disproportionate percentage of the uncompensated costs of the center result from the provision of trauma care to individuals who neither are citizens nor aliens lawfully admitted to the United States for permanent residence.
 
-(July 1, 1944, ch. 373, title XII, §1242, as added July 10, 1992, Pub. L. 102–321, title VI, §601, 106 Stat. 434.)
+(July 1, 1944, ch. 373, title XII, §1242, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 434.)
 

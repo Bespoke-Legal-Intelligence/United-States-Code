@@ -24,7 +24,7 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 (2) The commencement of judicial proceedings under this section shall stay the Secretary's action for a period of 30 days, and the court may thereafter grant interim relief if warranted, including a further stay of the Secretary's action and including such other relief as may be necessary to preserve status or rights.
 
-(Aug. 14, 1935, ch. 531, title III, §304, as added Aug. 10, 1970, Pub. L. 91–373, title I, §131(a), 84 Stat. 703; amended May 26, 1980, Pub. L. 96–249, title I, §127(b)(2), 94 Stat. 367; June 9, 1980, Pub. L. 96–265, title IV, §408(b)(2), 94 Stat. 469; Oct. 19, 1980, Pub. L. 96–473, §6(e)(2), 94 Stat. 2265; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(39), 98 Stat. 3360; Oct. 13, 1988, Pub. L. 100–485, title I, §124(b)(2), 102 Stat. 2353; Nov. 7, 1988, Pub. L. 100–628, title IX, §904(c)(1)(B), 102 Stat. 3261; Nov. 24, 1993, Pub. L. 103–152, §4(a)(2), 107 Stat. 1517.)
+(Aug. 14, 1935, ch. 531, title III, §304, as added Pub. L. 91–373, title I, §131(a), Aug. 10, 1970, 84 Stat. 703; amended Pub. L. 96–249, title I, §127(b)(2), May 26, 1980, 94 Stat. 367; Pub. L. 96–265, title IV, §408(b)(2), June 9, 1980, 94 Stat. 469; Pub. L. 96–473, §6(e)(2), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 98–620, title IV, §402(39), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 100–485, title I, §124(b)(2), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(B), Nov. 7, 1988, 102 Stat. 3261; Pub. L. 103–152, §4(a)(2), Nov. 24, 1993, 107 Stat. 1517.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;&emsp;(B) will, if no treatment facility has the capacity to admit the woman, make interim services available to the woman not later than 48 hours after the women <sup>1</sup> seeks the treatment services.
 
-(July 1, 1944, ch. 373, title XIX, §1927, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 395; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(10), 106 Stat. 938.)
+(July 1, 1944, ch. 373, title XIX, §1927, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 395; amended Pub. L. 102–352, §2(a)(10), Aug. 26, 1992, 106 Stat. 938.)
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) Standards for model years after 1993
 
-Not later than January 1, 1992, the Administrator shall promulgate regulations under section 7521(a) of this title applicable to urban buses for the model year 1994 and thereafter. Such standards shall be based on the best technology that can reasonably be anticipated to be available at the time such measures are to be implemented, taking costs, safety, energy, lead time, and other relevant factors into account. Such regulations shall require that such urban buses comply with the provisions of subsection (b) of this section (and subsection (c) of this subsection,<sup>1</sup> if applicable) in addition to compliance with the standards applicable under section 7521(a) of this title for heavy-duty vehicles of the same type and model year.
+Not later than January 1, 1992, the Administrator shall promulgate regulations under section 7521(a) of this title applicable to urbanbuses for the model year 1994 and thereafter. Such standards shall be based on the best technology that can reasonably be anticipated to be available at the time such measures are to be implemented, taking costs, safety, energy, lead time, and other relevant factors into account. Such regulations shall require that such urban buses comply with the provisions of subsection (b) of this section (and subsection (c) of this subsection,<sup>1</sup> if applicable) in addition to compliance with the standards applicable under section 7521(a) of this title for heavy-duty vehicles of the same type and model year.
 
 #### (b) PM standard
 
@@ -30,7 +30,7 @@ Not later than January 1, 1992, the Administrator shall promulgate regulations u
 
 &emsp;(B) The Administrator shall promulgate a schedule phasing in any low-polluting fuel requirement established pursuant to this paragraph to an increasing percentage of new urban buses purchased or placed into service in each of the first 5 model years commencing 3 years after the determination under subparagraph (A). Under such schedule 100 percent of new urban buses placed into service in the fifth model year commencing 3 years after the determination under subparagraph (A) shall comply with the low-polluting fuel requirement established pursuant to this paragraph.
 
-&emsp;(C) The Administrator may extend the requirements of this paragraph to metropolitan statistical areas or consolidated metropolitanstatistical areas with a 1980 population of less than 750,000, if the Administrator determines that a significant benefit to public health could be expected to result from such extension.
+&emsp;(C) The Administrator may extend the requirements of this paragraph to metropolitan statistical areas or consolidated metropolitan statistical areas with a 1980 population of less than 750,000, if the Administrator determines that a significant benefit to public health could be expected to result from such extension.
 
 #### (d) Retrofit requirements
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;The term “low-polluting fuel” means methanol, ethanol, propane, or natural gas, or any comparably low-polluting fuel. In determining whether a fuel is comparably low-polluting, the Administrator shall consider both the level of emissions of air pollutants from vehicles using the fuel and the contribution of such emissions to ambient levels of air pollutants. For purposes of this paragraph, the term “methanol” includes any fuel which contains at least 85 percent methanol unless the Administrator increases such percentage as he deems appropriate to protect public health and welfare.
 
-(July 14, 1955, ch. 360, title II, §219, as added Nov. 15, 1990, Pub. L. 101–549, title II, §227\[(a)\], 104 Stat. 2505.)
+(July 14, 1955, ch. 360, title II, §219, as added Pub. L. 101–549, title II, §227\[(a)\], Nov. 15, 1990, 104 Stat. 2505.)
 
 #### Section Referred to in Other Sections
 

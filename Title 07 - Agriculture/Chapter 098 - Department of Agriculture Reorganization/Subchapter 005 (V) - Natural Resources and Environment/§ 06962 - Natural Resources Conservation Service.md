@@ -38,7 +38,7 @@ In carrying out the programs specified in paragraphs (1), (2), and (4) of subsec
 
 #### (1) Use authorized
 
-&emsp;In the implementation of functions assigned to the Natural Resources Conservation Service, the Secretary may use interchangeably in local offices of the Service both Federal employees of the Department and non-Federalemployees of county and area committees established under section 590h(b)(5) of title 16.
+&emsp;In the implementation of functions assigned to the Natural Resources Conservation Service, the Secretary may use interchangeably in local offices of the Service both Federal employees of the Department and non-Federal employees of county and area committees established under section 590h(b)(5) of title 16.
 
 #### (2) Exception
 

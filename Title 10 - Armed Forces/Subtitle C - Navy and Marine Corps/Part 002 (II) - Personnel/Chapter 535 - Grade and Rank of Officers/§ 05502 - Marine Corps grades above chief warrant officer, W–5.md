@@ -22,7 +22,7 @@ The commissioned grades in the Marine Corps above the grade of chief warrant off
 
 &emsp;(10) Second lieutenant.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 314; Dec. 5, 1991, Pub. L. 102–190, div. A, title XI, §1131(8)(A), 105 Stat. 1506.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 314; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506.)
 
 Historical and Revision Notes
 

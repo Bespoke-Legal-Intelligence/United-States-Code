@@ -14,11 +14,11 @@
 
 &emsp;&emsp;(B) the right to royalty production from any of the naval petroleum reserves; and
 
-&emsp;&emsp;(C) the right to any money due the United States as a result of the wrongful extraction of petroleum products from lands inside Naval Petroleum Reserve Numbered 1.
+&emsp;&emsp;(C) the right to any money due the United States as a result of the wrongful extractionof petroleum products from lands inside Naval Petroleum Reserve Numbered 1.
 
 (b) The Secretary shall report annually to Congress all agreements under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Oct. 11, 1962, Pub. L. 87–796, §1(4), 76 Stat. 904; Apr. 5, 1976, Pub. L. 94–258, title II, §201(5), 90 Stat. 309; Dec. 12, 1980, Pub. L. 96–513, title V, §513(32)(A), 94 Stat. 2933.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 87–796, §1(4), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(5), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, §513(32)(A), Dec. 12, 1980, 94 Stat. 2933.)
 
 Historical and Revision Notes
 

@@ -4,7 +4,7 @@
 
 (b) If the Customs Service determines that the expense of keeping the vessel, vehicle, aircraft, merchandise, or baggage is disproportionate to the value thereof, the Customs Service may promptly order the destruction or other appropriate disposition of such property under regulations prescribed by the Secretary. No customs officer shall be liable for the destruction or other disposition of property made pursuant to this section.
 
-(June 17, 1930, ch. 497, title IV, §612, 46 Stat. 755; June 25, 1948, ch. 646, §1, 62 Stat. 869; Sept. 1, 1954, ch. 1213, title V, §506, 68 Stat. 1141; June 2, 1970, Pub. L. 91–271, title III, §301(ff), 84 Stat. 291; Oct. 3, 1978, Pub. L. 95–410, title I, §111(c), 92 Stat. 898; Oct. 12, 1984, Pub. L. 98–473, title II, §315, 98 Stat. 2054; Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(9), 98 Stat. 2985; Nov. 18, 1988, Pub. L. 100–690, title VII, §7367(c)(4), 102 Stat. 4480; Dec. 8, 1993, Pub. L. 103–182, title VI, §667, 107 Stat. 2215.)
+(June 17, 1930, ch. 497, title IV, §612, 46 Stat. 755; June 25, 1948, ch. 646, §1, 62 Stat. 869; Sept. 1, 1954, ch. 1213, title V, §506, 68 Stat. 1141; Pub. L. 91–271, title III, §301(ff), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §111(c), Oct. 3, 1978, 92 Stat. 898; Pub. L. 98–473, title II, §315, Oct. 12, 1984, 98 Stat. 2054; Pub. L. 98–573, title II, §213(a)(9), Oct. 30, 1984, 98 Stat. 2985; Pub. L. 100–690, title VII, §7367(c)(4), Nov. 18, 1988, 102 Stat. 4480; Pub. L. 103–182, title VI, §667, Dec. 8, 1993, 107 Stat. 2215.)
 
 #### References in Text
 

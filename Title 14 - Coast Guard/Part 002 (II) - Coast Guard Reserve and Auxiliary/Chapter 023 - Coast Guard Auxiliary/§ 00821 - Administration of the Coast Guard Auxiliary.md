@@ -18,7 +18,7 @@
 
 (c) The national board of the Auxiliary, and any Auxiliary district or region, may form a corporation under State law in accordance with policies established by the Commandant.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 555; Oct. 19, 1996, Pub. L. 104–324, title IV, §401(a), 110 Stat. 3922.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 555; Pub. L. 104–324, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3922.)
 
 #### Historical and Revision Notes
 

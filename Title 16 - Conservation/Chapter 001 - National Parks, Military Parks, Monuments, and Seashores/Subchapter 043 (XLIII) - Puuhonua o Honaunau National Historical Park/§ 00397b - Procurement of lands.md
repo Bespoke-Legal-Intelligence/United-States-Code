@@ -2,7 +2,7 @@
 
 The Secretary of the Interior is authorized to procure, by donation or purchase, with any funds that may be available for that purpose, lands and interests in lands which may be needed for the Puuhonua o Honaunau National Historical Park within the area described in section 397 of this title.
 
-(July 26, 1955, ch. 385, §3, 69 Stat. 379; Nov. 10, 1978, Pub. L. 95–625, title III, §305, 92 Stat. 3477.)
+(July 26, 1955, ch. 385, §3, 69 Stat. 379; Pub. L. 95–625, title III, §305, Nov. 10, 1978, 92 Stat. 3477.)
 
 #### Amendments
 

@@ -48,7 +48,7 @@
 
 (e) The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
-(f)(1) Notwithstanding subsection (a)(3), pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary of the military department concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
+(f)(1) Notwithstanding subsection (a)(3) or the Federal Property and Administrative Services Act of 1949 (to the extent such Act is inconsistent with this subsection), pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary of the military department concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
 
 (2) Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease interest if the Secretary concerned determines that—
 
@@ -82,7 +82,7 @@
 
 &emsp;(3) Section 2687 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Oct. 7, 1975, Pub. L. 94–107, title VI, §607(7), 89 Stat. 566; Sept. 14, 1976, Pub. L. 94–412, title V, §501(b), 90 Stat. 1258; Dec. 12, 1980, Pub. L. 96–513, title V, §511(92), 94 Stat. 2928; Oct. 12, 1982, Pub. L. 97–295, §1(34), 96 Stat. 1296; Oct. 15, 1982, Pub. L. 97–321, title VIII, §803, 96 Stat. 1572; Nov. 5, 1990, Pub. L. 101–510, div. B, title XXVIII, §2806, 104 Stat. 1787; Dec. 5, 1991, Pub. L. 102–190, div. B, title XXVIII, §2862, 105 Stat. 1559; Oct. 23, 1992, Pub. L. 102–484, div. B, title XXVIII, §2851, 106 Stat. 2625; Nov. 30, 1993, Pub. L. 103–160, div. B, title XXIX, §2906, 107 Stat. 1920; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, 110 Stat. 502, 558, 559; Nov. 18, 1997, Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), 111 Stat. 1701, 1891.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208.)
 
 Historical and Revision Notes
 
@@ -164,9 +164,13 @@ In subsection (e), the words “of property” are inserted for clarity. The wor
 
 #### References in Text
 
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
 The National Environmental Policy Act of 1969, referred to in subsec. (f)(5)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (f)(1). Pub. L. 105–261 inserted “or the Federal Property and Administrative Services Act of 1949 (to the extent such Act is inconsistent with this subsection)”.
 
 1997—Pub. L. 105–85, §1061(c)(1), inserted “of military departments” after “property” in section catchline.
 
@@ -186,7 +190,7 @@ Subsec. (f)(4). Pub. L. 104–106, §2832, added par. (4).
 
 Subsec. (f)(5). Pub. L. 104–106, §2833, added par. (5).
 
-1993—Subsec. (f). Pub. L. 103–160, §2906(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Notwithstanding clause (3) of subsection (a), real property and associated personal property, which have been determined excess as the result of a defense installation realignment or closure, maybe leased to State or local governments pending final disposition of such property if—
+1993—Subsec. (f). Pub. L. 103–160, §2906(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Notwithstanding clause (3) of subsection (a), real property and associated personal property, which have been determined excess as the result of a defense installation realignment or closure, may be leased to State or local governments pending final disposition of such property if—
 
 &emsp;“(1) the Secretary concerned determines that such action would facilitate State or local economic adjustment efforts, and
 
@@ -221,6 +225,10 @@ Subsec. (f). Pub. L. 96–513, §511(92)(D), substituted “the Secretary” for
 1976—Subsec. (b)(4), (5). Pub. L. 94–412 struck out par. (4) which required leases of nonexcess property of a military department include a provision making the lease revocable during a national emergency declared by the President, and redesignated par. (5) as (4).
 
 1975—Subsec. (f). Pub. L. 94–107 added subsec. (f).
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1980 Amendment
 

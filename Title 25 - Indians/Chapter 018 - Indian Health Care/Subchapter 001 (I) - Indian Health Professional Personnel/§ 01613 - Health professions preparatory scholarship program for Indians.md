@@ -32,7 +32,7 @@ The Secretary shall not deny scholarship assistance to an eligible applicant und
 
 #### Amendments
 
-1992—Subsec. (a)(2). Pub. L. 102–573, §102(b)(1), amended par. (2) generally. Prior to amendment, par. (2) readas follows: “have demonstrated the capability to successfully complete courses of study in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions.”
+1992—Subsec. (a)(2). Pub. L. 102–573, §102(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “have demonstrated the capability to successfully complete courses of study in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions.”
 
 Subsec. (b)(1). Pub. L. 102–573, §102(b)(2), inserted before period at end “on a full-time basis (or the part-time equivalent thereof, as determined by the Secretary)”.
 

@@ -28,11 +28,11 @@ Numerous changes were made in arrangement and phraseology.
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
+1979—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1957</b>—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
+1957—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
 
-<b>1954</b>—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
+1954—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
 
 #### Effective Date of 1979 Amendment
 
@@ -56,5 +56,5 @@ Diversity of citizenship immaterial in action under this section, see Historical
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 652 of this title.
+This section is referred to in section 654 of this title.
 

@@ -22,7 +22,7 @@
 
 > the Commission shall have exclusive authority to commence or defend, and supervise the litigation of, such action and any appeal of such action in its own name by any of its attorneys designated by it for such purpose, unless the Commission authorizes the Attorney General to do so. The Commission shall inform the Attorney General of the exercise of such authority and such exercise shall not preclude the Attorney General from intervening on behalf of the United States in such action and any appeal of such action as may be otherwise provided by law.
 
-(3)(A) If the Commission makes a written request to the Attorney General, within the 10-day period which begins on the date of the entry of the judgment in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), to represent itself through any of its attorneys designated by it for such purpose before the Supreme Court in such action, it may do so, if—
+(3)(A) If the Commission makes a written request to the Attorney General, within the 10-day period which begins on the date of the entry of the judgment in any civil action in which theCommission represented itself pursuant to paragraph (1) or (2), to represent itself through any of its attorneys designated by it for such purpose before the Supreme Court in such action, it may do so, if—
 
 &emsp;(i) the Attorney General concurs with such request; or
 
@@ -44,7 +44,7 @@
 
 Whenever the Commission has reason to believe that any person, partnership, or corporation is liable for a criminal penalty under this subchapter, the Commission shall certify the facts to the Attorney General, whose duty it shall be to cause appropriate criminal proceedings to be brought.
 
-(Sept. 26, 1914, ch. 311, §16, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Nov. 16, 1973, Pub. L. 93–153, title IV, §408(g), 87 Stat. 592; Jan. 4, 1975, Pub. L. 93–637, title II, §204(a), 88 Stat. 2199.)
+(Sept. 26, 1914, ch. 311, §16, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Pub. L. 93–153, title IV, §408(g), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §204(a), Jan. 4, 1975, 88 Stat. 2199.)
 
 #### Amendments
 

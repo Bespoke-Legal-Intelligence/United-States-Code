@@ -6,11 +6,11 @@ The participation of the United States as a member in the International Centre f
 
 #### (b) Official delegation
 
-The Council shall recommend to the Secretary of State, after consultation with the Smithsonian Institution and other public and privateorganizations concerned with the technical problems of preservation, the members of the official delegation which will participate in the activities of the Centre on behalf of the United States. The Secretary of State shall appoint the members of the official delegation from the persons recommended to him by the Council.
+The Council shall recommend to the Secretary of State, after consultation with the Smithsonian Institution and other public and private organizations concerned with the technical problems of preservation, the members of the official delegation which will participate in the activities of the Centre on behalf of the United States. The Secretary of State shall appoint the members of the official delegation from the persons recommended to him by the Council.
 
 #### (c) Authorization of appropriations and payments
 
-For the purposes of this section there is authorized to be appropriated an amount equal to the assessment for United States membership in the Centre for fiscal years 1979, 1980, 1981, and 1982: <i>Provided</i>, That no appropriation is authorized and no payment shall be made to the Centre in excess of 25 per centum of the total annual assessment of such organization. Authorization for payment of such assessments shall begin in fiscal year 1981, but shall include earlier costs.
+For the purposes of this section there is authorized to be appropriated an amount equal tothe assessment for United States membership in the Centre for fiscal years 1979, 1980, 1981, and 1982: <i>Provided</i>, That no appropriation is authorized and no payment shall be made to the Centre in excess of 25 per centum of the total annual assessment of such organization. Authorization for payment of such assessments shall begin in fiscal year 1981, but shall include earlier costs.
 
 (Pub. L. 89–665, title II, §206, as added Pub. L. 91–243, §2, May 9, 1970, 84 Stat. 204; amended Pub. L. 93–54, §1(b), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, §201(8), Sept. 28, 1976, 90 Stat. 1322; Pub. L. 96–199, title I, §114, Mar. 5, 1980, 94 Stat. 71.)
 

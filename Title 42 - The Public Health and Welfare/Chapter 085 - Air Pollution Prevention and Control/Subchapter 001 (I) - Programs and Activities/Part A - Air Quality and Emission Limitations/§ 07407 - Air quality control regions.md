@@ -14,7 +14,7 @@ For purposes of developing and carrying out implementation plans under section 7
 
 #### (c) Authority of Administrator to designate regions; notification of Governors of affected States
 
-The Administrator shall, within 90 days after December 31, 1970, after consultation with appropriate State and local authorities, designate as an air quality control region any interstate area or major intrastate area which he deems necessary or appropriate for the attainment and maintenance of ambient air quality standards. The Administrator shall immediately notify the Governors of the affected States of any designation made under this subsection.
+The Administrator shall, within 90 days after December 31, 1970, after consultation with appropriate State and local authorities, designate as an air quality control region any interstate area or major intrastate area which he deems necessary or appropriate for the attainment andmaintenance of ambient air quality standards. The Administrator shall immediately notify the Governors of the affected States of any designation made under this subsection.
 
 #### (d) Designations
 
@@ -118,7 +118,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 (3) No compliance date extension granted under section 7413(d)(5) <sup>1</sup> of this title (relating to coal conversion) shall cease to be effective by reason of the regional limitation provided in section 7413(d)(5) <sup>1</sup> of this title if the violation of such limitation is due solely to a redesignation of a region under this subsection.
 
-(July 14, 1955, ch. 360, title I, §107, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1678; amended Aug. 7, 1977, Pub. L. 95–95, title I, §103, 91 Stat. 687; Nov. 15, 1990, Pub. L. 101–549, title I, §101(a), 104 Stat. 2399.)
+(July 14, 1955, ch. 360, title I, §107, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §103, Aug. 7, 1977, 91 Stat. 687; Pub. L. 101–549, title I, §101(a), Nov. 15, 1990, 104 Stat. 2399.)
 
 #### References in Text
 
@@ -144,9 +144,59 @@ Another prior section 107 of act July 14, 1955, as added Dec. 17, 1963, Pub. L. 
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
+#### Ozone and Particulate Matter Standards
+
+Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
+
+#### “SEC. 6101. FINDINGS AND PURPOSE.
+
+“(a) The Congress finds that—
+
+&emsp;“(1) there is a lack of air quality monitoring data for fine particle levels, measured as PM<sub>2.5</sub>, in the United States and the States should receive full funding for the monitoring efforts;
+
+&emsp;“(2) such data would provide a basis for designating areas as attainment or nonattainment for any PM<sub>2.5</sub> national ambient air quality standards pursuant to the standards promulgated in July 1997;
+
+&emsp;“(3) the President of the United States directed the Administrator of the Environmental Protection Agency (referred to in this title as the ‘Administrator’) in a memorandum dated July 16, 1997, to complete the next periodic review of the particulate matter national ambient air quality standards by July 2002 in order to determine ‘whether to revise or maintain the standards’;
+
+&emsp;“(4) the Administrator has stated that 3 years of air quality monitoring data for fine particle levels, measured as PM<sub>2.5</sub> and performed in accordance with any applicable Federal reference methods, is appropriate for designating areas as attainment or nonattainment pursuant to the July 1997 promulgated standards; and
+
+&emsp;“(5) the Administrator has acknowledged that in drawing boundaries for attainment and nonattainment areas for the July 1997 ozone national air quality standards, Governors would benefit from considering implementation guidance from EPA on drawing area boundaries.
+
+“(b) The purposes of this title are—
+
+&emsp;“(1) to ensure that 3 years of air quality monitoring data regarding fine particle levels are gathered for use in the determination of area attainment or nonattainment designations respecting any PM<sub>2.5</sub> national ambient air quality standards;
+
+&emsp;“(2) to ensure that the Governors have adequate time to consider implementation guidance from EPA on drawing area boundaries prior to submitting area designations respecting the July 1997 ozone national ambient air quality standards;
+
+&emsp;“(3) to ensure that the schedule for implementation of the July 1997 revisions of the ambient air quality standards for particulate matter and the schedule for the Environmental Protection Agency's visibility regulations related to regional haze are consistent with the timetable for implementation of such particulate matter standards as set forth in the President's Implementation Memorandum dated July 16, 1997.
+
+#### “SEC. 6102. PARTICULATE MATTER MONITORING PROGRAM.
+
+“(a) Through grants under section 103 of the Clean Air Act \[42 U.S.C. 7403\] the Administrator of the Environmental Protection Agency shall use appropriated funds no later than fiscal year 2000 to fund 100 percent of the cost of the establishment, purchase, operation and maintenance of a PM<sub>2.5</sub> monitoring network necessary to implement the national ambient air quality standards for PM<sub>2.5</sub> under section 109 of the Clean Air Act \[42 U.S.C. 7409\]. This implementation shall not result in a diversion or reprogramming of funds from other Federal, State or local Clean Air Act activities. Any funds previously diverted or reprogrammed from section 105 Clean Air Act \[42 U.S.C. 7405\] grants for PM<sub>2.5</sub> monitors must be restored to State or local air programs in fiscal year 1999.
+
+“(b) EPA and the States, consistent with their respective authorities under the Clean Air Act \[42 U.S.C. 7401 et seq.\], shall ensure that the national network (designated in subsection (a)) which consists of the PM<sub>2.5</sub> monitors necessary to implement the national ambient air quality standards is established by December 31, 1999.
+
+“(c)(1) The Governors shall be required to submit designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] for each area following promulgation of the July 1997 PM<sub>2.5</sub> national ambient air quality standard within 1 year after receipt of 3 years of air quality monitoring data performed in accordance with any applicable Federal reference methods for the relevant areas. Only data from the monitoring network designated in subsection (a) and other Federal reference method PM<sub>2.5</sub> monitors shall be considered for such designations. Nothing in the previous sentence shall be construed as affecting the Governor's authority to designate an area initially as nonattainment, and the Administrator's authority to promulgate the designation of an area as nonattainment, under section 107(d)(1) of the Clean Air Act, based on its contribution to ambient air quality in a nearby nonattainment area.
+
+“(2) For any area designated as nonattainment for the July 1997 PM<sub>2.5</sub> national ambient air quality standard in accordance with the schedule set forth in this section, notwithstanding the time limit prescribed in paragraph (2) of section 169B(e) of the Clean Air Act \[42 U.S.C. 7492(e)(2)\], the Administrator shall require State implementation plan revisions referred to in such paragraph (2) to be submitted at the same time as State implementation plan revisions referred to in section 172 of the Clean Air Act \[42 U.S.C. 7502\] implementing the revised national ambient air quality standard for fine particulate matter are required to be submitted. For any area designated as attainment or unclassifiable for such standard, the Administrator shall require the State implementation plan revisions referred to in such paragraph (2) to be submitted 1 year after the area has been so designated. The preceding provisions of this paragraph shall not preclude the implementation of the agreements and recommendations set forth in the Grand Canyon Visibility Transport Commission Report dated June 1996.
+
+“(d) The Administrator shall promulgate the designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] for each area following promulgation of the July 1997 PM<sub>2.5</sub> national ambient air quality standard by the earlier of 1 year after the initial designations required under subsection (c)(1) are required to be submitted or December 31, 2005.
+
+“(e) The Administrator shall conduct a field study of the ability of the PM<sub>2.5</sub> Federal Reference Method to differentiate those particles that are larger than 2.5 micrograms in diameter. This study shall be completed and provided to the Committee on Commerce of the House of Representatives and the Committee on Environment and Public Works of the United States Senate no later than 2 years from the date of enactment of this Act \[June 9, 1998\].
+
+#### “SEC. 6103. OZONE DESIGNATION REQUIREMENTS.
+
+“(a) The Governors shall be required to submit the designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] within 2 years following the promulgation of the July 1997 ozone national ambient air quality standards.
+
+“(b) The Administrator shall promulgate final designations no later than 1 year after the designations required under subsection (a) are required to be submitted.
+
+#### “SEC. 6104. ADDITIONAL PROVISIONS.
+
+“Nothing in sections 6101 through 6103 shall be construed by the Administrator of Environmental Protection Agency or any court, State, or person to affect any pending litigation or to be a ratification of the ozone or PM<sub>2.5</sub> standards.”
+
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L.95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
@@ -154,7 +204,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7406, 7429, 7471, 7472, 7477, 7501, 7502, 7505a, 7509, 7511, 7511e, 7512, 7513, 7513a, 7514, 7545, 7607, 7651d of this title; title 23 sections 109, 149.
+This section is referred to in sections 7406, 7429, 7471, 7472, 7477, 7501, 7502, 7505a, 7509, 7511, 7511e, 7512, 7513, 7513a, 7514, 7545, 7607, 7651d of this title; title 23 sections 101, 109, 149.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ To the maximum extent possible, and consistent with the particular purposes of t
 
 &emsp;(3) such centers serve as a repository for commercial, legal, and technical information, including environmental and export control information;
 
-&emsp;(4) such centers identify existing or potential counterpart businesses or organizations that may require specific technical coordination or assistance;
+&emsp;(4) such centers identify existing or potential counterpart businesses or organizationsthat may require specific technical coordination or assistance;
 
 &emsp;(5) such centers be established in several sites in the independent states; and
 
@@ -52,7 +52,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is P
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to United States International Development Cooperation Agency, except that all functions under this section, insofar as relating to determinations and directives, delegated to Coordinator, see sections 2(b) and 3(a) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
+Functions of President under this section, insofar as relating to determinations and directives, delegated to Coordinator, see section 2(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 
 #### Section Referred to in Other Sections
 

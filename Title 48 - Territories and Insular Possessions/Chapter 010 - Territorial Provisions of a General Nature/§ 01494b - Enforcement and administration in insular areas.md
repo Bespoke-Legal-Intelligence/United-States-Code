@@ -76,7 +76,7 @@
 
 #### (f) Palau
 
-(1) The Attorney General and the Secretaries of Education and Health and Human Services are authorized to and, upon request of the Government of Palau, shall provide appropriate training, technical assistance, and equipment to carry out the purposes of sections 1494 to 1494c of this title and any other applicable Federal or insular drug or other substance abuse laws.
+(1) The Attorney General and the Secretaries of Education and Health and Human Servicesare authorized to and, upon request of the Government of Palau, shall provide appropriate training, technical assistance, and equipment to carry out the purposes of sections 1494 to 1494c of this title and any other applicable Federal or insular drug or other substance abuse laws.
 
 (2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Palau to be expended in accordance with a plan to be approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education, State, and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title.
 
@@ -86,7 +86,7 @@
 
 #### References in Text
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended,which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c)(3), (d)(1), (e)(1), and (f)(1), (2), was in the original “this Act”, and was translated as reading “this subtitle” meaning subtitle A of title V of Pub. L. 99–570 to reflect the probable intent of Congress. See Short Title note set out under section 1494 of this title.
 

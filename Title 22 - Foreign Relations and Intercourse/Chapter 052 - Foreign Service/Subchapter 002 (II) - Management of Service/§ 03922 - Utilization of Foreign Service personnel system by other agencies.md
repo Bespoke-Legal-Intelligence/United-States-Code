@@ -1,6 +1,6 @@
 ### §3922. Utilization of Foreign Service personnel system by other agencies
 
-(a)(1) The Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency may utilize the Foreign Service personnel system with respect to their respective agencies in accordance with this chapter.
+(a)(1) The Broadcasting Board of Governors and the Administrator of the Agency for International Development may utilize the Foreign Service personnel system with respect to their respective agencies in accordance with this chapter.
 
 (2) The Secretary of Agriculture may utilize the Foreign Service personnel system in accordance with this chapter—
 
@@ -22,15 +22,27 @@
 
 > shall in the case of their respective agencies exercise the functions vested in the Secretary by this chapter.
 
-(Pub. L. 96–465, title I, §202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 96–465, title I, §202, Oct. 17, 1980, 94 Stat. 2078; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(1), title XIV, §1422(b)(4)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 #### References in Text
 
 Reorganization Plan Numbered 3 of 1979, referred to in subsec. (a)(3)(A), is Reorg. Plan No. 3 of 1979, 44 F.R. 69273, 93 Stat. 1381, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–277, §1422(b)(4)(A), substituted “Administrator of the Agency for International Development” for “Director of the United States International Development Cooperation Agency”.
+
+Pub. L. 105–277, §1335(k)(1), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
+
 #### Change of Name
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a)(1), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1335(k)(1) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+Amendment by section 1422(b)(4) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 
 #### Exercise of Certain Functions by Board of the Foreign Service and Board of Examiners for the Foreign Service
 
@@ -45,4 +57,6 @@ Section 1. The Director of the United States Information Agency is hereby author
 Sec. 2. The Director of the United States Information Agency is hereby authorized to prescribe such regulations and issue such orders and instructions, not inconsistent with law, as may be necessary or desirable for carrying out his functions under section 1 of this order.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 

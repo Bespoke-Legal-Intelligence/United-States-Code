@@ -6,7 +6,7 @@
 
 &emsp;In carrying out the duties of the Commissioner under this subchapter, the Commissioner shall—
 
-&emsp;&emsp;(A) provide for the annual review and periodic on-site monitoring of programs under this subchapter; and
+&emsp;&emsp;(A) provide for the annual review and periodic onsite monitoring of programs under this subchapter; and
 
 &emsp;&emsp;(B) determine whether, in the administration of the State plan, a State is complying substantially with the provisions of such plan and with evaluation standards and performance indicators established under section 726 of this title.
 
@@ -20,13 +20,13 @@
 
 &emsp;&emsp;(C) decisions resulting from hearings conducted in accordance with due process;
 
-&emsp;&emsp;(D) strategic plans and updates;
+&emsp;&emsp;(D) State goals established under section 721(a)(15) of this title and the extent to which the State has achieved such goals;
 
 &emsp;&emsp;(E) plans and reports prepared under section 726(b) of this title;
 
-&emsp;&emsp;(F) consumer satisfaction surveys described in section 721(a)(32) of this title;
+&emsp;&emsp;(F) consumer satisfaction reviews and analyses described in section 725(c)(4) of this title;
 
-&emsp;&emsp;(G) information provided by the State Rehabilitation Advisory Council established under section 725 of this title;
+&emsp;&emsp;(G) information provided by the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or by the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission;
 
 &emsp;&emsp;(H) reports; and
 
@@ -36,15 +36,15 @@
 
 &emsp;In conducting monitoring under this section the Commissioner shall conduct—
 
-&emsp;&emsp;(A) on-site visits, including on-site reviews of records to verify that the State is following requirements regarding the order of selection set forth in section 721(a)(5)(A) of this title;
+&emsp;&emsp;(A) onsite visits, including onsite reviews of records to verify that the State is following requirements regarding the order of selection set forth in section 721(a)(5)(A) of this title;
 
 &emsp;&emsp;(B) public hearings and other strategies for collecting information from the public;
 
-&emsp;&emsp;(C) meetings with the State Rehabilitation Advisory Council;
+&emsp;&emsp;(C) meetings with the State Rehabilitation Council, if the State has such a Council or with the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission;
 
-&emsp;&emsp;(D) reviews of individual case files, including individualized written rehabilitation programs and ineligibility determinations; and
+&emsp;&emsp;(D) reviews of individual case files, including individualized plans for employment and ineligibility determinations; and
 
-&emsp;&emsp;(E) meetings with rehabilitation counselors and other personnel.
+&emsp;&emsp;(E) meetings with qualified vocational rehabilitation counselors and other personnel.
 
 #### (4) Areas of inquiry
 
@@ -54,11 +54,13 @@
 
 &emsp;&emsp;(B) the provision of services, including, if applicable, the order of selection;
 
-&emsp;&emsp;(C) whether the personnel evaluation system described in section 721(a)(35) of this title facilitates and does not impede the accomplishments of the program;
+&emsp;&emsp;(C) such other areas as may be identified by the public or through meetings with the State Rehabilitation Council, if the State has such a Council or with the commissiondescribed in section 721(a)(21)(A)(i) of this title, if the State has such a commission; and
 
-&emsp;&emsp;(D) such other areas as may be identified by the public or through meetings with the State Rehabilitation Advisory Council; and
+&emsp;&emsp;(D) such other areas of inquiry as the Commissioner may consider appropriate.
 
-&emsp;&emsp;(E) such other areas of inquiry as the Commissioner may consider appropriate.
+#### (5) Reports
+
+&emsp;If the Commissioner issues a report detailing the findings of an annual review or onsite monitoring conducted under this section, the report shall be made available to the State Rehabilitation Council, if the State has such a Council, for use in the development and modification of the State plan described in section 721 of this title.
 
 #### (b) Technical assistance
 
@@ -112,9 +114,13 @@ The Commissioner shall—
 
 &emsp;&emsp;Section 706 of title 5 shall apply to the review of any determination under this subsection, except that the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such determination if the court finds that the determination is not supported by substantial evidence in the record of the proceeding submitted pursuant to paragraph (1), as supplemented by any additional submissions and presentations filed under paragraph (2).
 
-(Pub. L. 93–112, title I, §107, as added Pub. L. 102–569, title I, §128(a), Oct. 29, 1992, 106 Stat. 4386.)
+(Pub. L. 93–112, title I, §107, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1157.)
+
+#### Prior Provisions
+
+A prior section 727, Pub. L. 93–112, title I, §107, as added Pub. L. 102–569, title I, §128(a), Oct. 29, 1992, 106 Stat. 4386, related to monitoring and review, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 705, 726, 796d–1 of this title.
+This section is referred to in sections 721, 726, 796d–1 of this title.
 

@@ -10,7 +10,7 @@ The Plan shall—
 
 &emsp;(1) establish, for the 10-year period beginning in the year the Plan is submitted, the goals and priorities for Federal global change research which most effectively advance scientific understanding of global change and provide usable information on which to base policy decisions relating to global change;
 
-&emsp;(2) describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling, participation in international research efforts, and information management, required to achieve such goals and priorities;
+&emsp;(2) describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling,participation in international research efforts, and information management, required to achieve such goals and priorities;
 
 &emsp;(3) identify and address, as appropriate, relevant programs and activities of the Federal agencies and departments represented on the Committee that contribute to the Program;
 

@@ -6,7 +6,7 @@ The Congress finds that the legitimate defense interests of Israel and Egypt req
 
 #### (b) Authorization of appropriation
 
-In addition to amounts authorized to be appropriated for the fiscal year 1979 by section 31(a) of the Arms Export Control Act \[22 U.S.C. 2771(a)\], there is authorized to be appropriated to the President to carry out that Act \[22 U.S.C. 2751 et seq.\] $370,000,000 for the fiscal year 1979.
+In addition to amounts authorized to be appropriated for the fiscal year 1979 by section 31(a) ofthe Arms Export Control Act \[22 U.S.C. 2771(a)\], there is authorized to be appropriated to the President to carry out that Act \[22 U.S.C. 2751 et seq.\] $370,000,000 for the fiscal year 1979.
 
 #### (c) Principal amounts of guaranteed loans
 

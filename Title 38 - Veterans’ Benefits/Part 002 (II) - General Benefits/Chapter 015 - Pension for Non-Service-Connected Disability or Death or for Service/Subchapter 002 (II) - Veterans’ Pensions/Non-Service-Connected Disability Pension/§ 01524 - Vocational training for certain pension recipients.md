@@ -26,7 +26,7 @@
 
 (d) A veteran who pursues a vocational training program under subsection (b) of this section shall have the benefit of the provisions of subsection (a) of section 1525 of this title beginning at such time as the veteran's entitlement to pension is terminated by reason of income from work or training (as defined in subsection (b)(1) of that section) without regard to the date on which the veteran's entitlement to pension is terminated.
 
-(e) Payments by the Secretary for education, training, and other services and assistance under subsection (b) of this section (other thanthe services of Department employees) shall be made from the Department appropriations account from which payments for pension are made.
+(e) Payments by the Secretary for education, training, and other services and assistance under subsection (b) of this section (other than the services of Department employees) shall be made from the Department appropriations account from which payments for pension are made.
 
 (Added Pub. L. 98–543, title III, §301(a)(1), Oct. 24, 1984, 98 Stat. 2744, §524; amended Pub. L. 99–576, title VII, §703(b)(1), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–227, title II, §202, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–687, div. B, title XIII, §1303(a), (b), Nov. 18, 1988, 102 Stat. 4128; Pub. L. 101–237, title I, §114, Dec. 18, 1989, 103 Stat. 2065; renumbered §1524 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–291, §2(b), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, §402(a)–(c)(2)(A), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 103–446, title XII, §1201(g)(2), Nov. 2, 1994, 108 Stat. 4687.)
 

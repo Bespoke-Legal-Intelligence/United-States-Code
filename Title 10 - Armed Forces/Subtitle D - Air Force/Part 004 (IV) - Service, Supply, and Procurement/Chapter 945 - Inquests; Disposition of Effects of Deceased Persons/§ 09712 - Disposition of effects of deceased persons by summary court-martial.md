@@ -30,7 +30,7 @@
 
 (f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court's possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects and articles not permitted to be sold, to the executive part of the Department of the Air Force. The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 585; Nov. 2, 1966, Pub. L. 89–718, §48, 80 Stat. 1121; Dec. 12, 1980, Pub. L. 96–513, title V, §514(19), 94 Stat. 2936; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(d)(4)(A), 99 Stat. 736; Nov. 5, 1990, Pub. L. 101–510, div. A, title XV, §1533(a)(9), 104 Stat. 1735; Oct. 19, 1996, Pub. L. 104–316, title II, §202(g), 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 585; Pub. L. 89–718, §48, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, §514(19), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 99–145, title XIII, §1301(d)(4)(A), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–510, div. A, title XV, §1533(a)(9), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 104–316, title II, §202(g), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes
 

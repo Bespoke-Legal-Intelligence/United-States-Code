@@ -76,7 +76,7 @@ Subsec. (a)(4)(B). Pub. L. 102–375, §504(c)(3), substituted “the Secretary�
 
 Subsec. (c)(3). Pub. L. 102–375, §504(b), added cl. (3).
 
-1987—Subsec. (a)(1)(A). Pub. L. 100–175, §162(b), inserted provision relating to reservation of sums forgrants and contracts with national public and nonprofit Indian aging organizations and Pacific Island and Asian American aging organizations, which organizations have the ability of providing employment services.
+1987—Subsec. (a)(1)(A). Pub. L. 100–175, §162(b), inserted provision relating to reservation of sums for grants and contracts with national public and nonprofit Indian aging organizations and Pacific Island and Asian American aging organizations, which organizations have the ability of providing employment services.
 
 Subsec. (a)(4)(A). Pub. L. 100–175, §182(b)(3), substituted “the Commonwealth of Puerto Rico” for “Puerto Rico”.
 
@@ -120,5 +120,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3056 of this title.
+This section is referred to in section 3056 of this title; title 29 section 2942.
 

@@ -1,0 +1,30 @@
+### §70701. Organization
+
+(a)
+
+Federal Charter.—Frederick Douglass Memorial and Historical Association (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
+
+(b)
+
+Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1354.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70701D36:4401 (words before “for the following objects and purposes”).DJune 6, 1900, ch. 806, §§1 (words before “for the following objects and purposes”), 3, 31 Stat. 662, 663.
+
+&nbsp;
+
+36:4403.
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:4403 is omitted as executed and obsolete.
+

@@ -56,5 +56,5 @@ Subsec. (c). Pub. L. 99–506, §1001(f)(3), substituted “The President” for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 706, 721, 796c, 796f–4 of this title.
+This section is referred to in sections 705, 721, 794d, 796c, 796f–4 of this title.
 

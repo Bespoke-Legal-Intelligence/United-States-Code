@@ -36,7 +36,7 @@
 
 The Secretary shall pay any amount to which an Indian tribe is entitled under this section directly to the tribal organization of the Indian tribe.
 
-(Aug. 14, 1935, ch. 531, title IV, §434, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(a)(2), 107 Stat. 653.)
+(Aug. 14, 1935, ch. 531, title IV, §434, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653.)
 
 #### Prior Provisions
 

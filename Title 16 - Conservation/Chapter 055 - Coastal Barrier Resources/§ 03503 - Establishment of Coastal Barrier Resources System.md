@@ -26,109 +26,25 @@ Section 4 of the Coastal Barrier Improvement Act of 1990, referred to in subsec.
 
 1982—Subsec. (a)(1). Pub. L. 97–396 inserted “(but excluding maps T02 and T03)” after “A01 through T12”, and “and the maps designated T02A and T03A, dated December 8, 1982” after “and dated September 30, 1982”.
 
-#### Technical Revision of Maps; Modification of Boundaries; Additions to System
+#### Revision of Maps for Units of System
 
-Pub. L. 104–333, div. I, title II, §220, Nov. 12, 1996, 110 Stat. 4115, provided that:
+The following acts directed the Secretary of the Interior to make technical revisions and corrections tomaps relating to particular units of the Coastal Barrier Resources System:
 
-“(a)
+Pub. L. 105–277, div. A, §101(e) \[title I, title I, §134, title III, §335\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238, 2681–264, 2681–295.
 
-In General.—The Secretary of the Interior shall, before the end of the 30-day period beginning on the date of the enactment of this Act \[Nov. 12, 1996\], make such corrections to the maps described in subsection (b) as are necessary to ensure that depictions of areas on those maps are consistent with the depictions of areas appearing on the maps entitled ‘Amendments to Coastal Barrier Resources System’, dated November 1, 1995, and June 1, 1996, and on file with the Secretary.
+Pub. L. 104–333, div. I, title II, §220, Nov. 12, 1996, 110 Stat. 4115.
 
-“(b)
+Pub. L. 104–265, title II, §201, Oct. 9, 1996, 110 Stat. 3289.
 
-Maps Described.—The maps described in this subsection are maps that—
+Pub. L. 104–148, §2, May 24, 1996, 110 Stat. 1378.
 
-&emsp;“(1) are included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990; and
+Pub. L. 103–461, §1(a), (b), Nov. 2, 1994, 108 Stat. 4804.
 
-&emsp;“(2) relate to the following units of the Coastal Barrier Resources System: P05, P05A, P10, P11, P11A, P18, P25, P32, and P32P.”
+Pub. L. 102–440, title III, §303, Oct. 23, 1992, 106 Stat. 2234.
 
-Pub. L. 104–265, title II, §201, Oct. 9, 1996, 110 Stat. 3289, provided that:
+#### Correction of Errors in Maps; Modification of Boundaries; Additions to System
 
-“(a)
-
-In General.—Not later than 30 days after the date of enactment of this Act \[Oct. 9, 1996\], the Secretary of the Interior shall make such corrections to the set of maps described in subsection (b) as are necessary to move the southern-most boundary of Unit SC–01 of the Coastal Barrier Resources System (known as the ‘Long Pond Unit’) to exclude from the Unit the structures known as ‘Lands End’, ‘Beachwalk’, and ‘Courtyard Villas’, including the land lying between the structures. The corrected southern boundary shall extend in a straight line, at the break in development, between the coast and the north boundary of the unit.
-
-“(b)
-
-Maps.—The set of maps described in this subsection is the set of maps entitled ‘Coastal Barrier Resources System’ dated October 24, 1990, insofar as the maps relate to Unit SC–01 of the Coastal Barrier Resources System.”
-
-Pub. L. 104–148, §2, May 24, 1996, 110 Stat. 1378, provided that:
-
-“(a)
-
-In General.—Not later than 30 days after the date of enactment of this Act \[May 24, 1996\], the Secretary of the Interior shall make such corrections to the map described in subsection (b) as are necessary—
-
-&emsp;“(1) to move the eastern boundary of the excluded area covering Ocean Beach, Seaview, Ocean Bay Park, and part of Point O'Woods to the western boundary of the Sunken Forest Preserve; and
-
-&emsp;“(2) to ensure that the depiction of areas as ‘otherwise protected areas’ does not include any area that is owned by the Point O'Woods Association (a privately held corporation under the laws of the State of New York).
-
-“(b)
-
-Map Described.—The map described in this subsection is the map that is included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990, that relates to the unit of the Coastal Barrier Resources System entitled ‘Fire Island Unit NY–59P’.”
-
-Pub. L. 103–461, §1(a), (b), Nov. 2, 1994, 108 Stat. 4804, provided that:
-
-“(a)
-
-In General.—The Secretary of the Interior shall, not later than 30 days after the date of enactment of this Act \[Nov. 2, 1994\], make such corrections to the maps described in subsection (b) as are necessary to ensure that—
-
-&emsp;“(1) depictions of areas on the maps are consistent with the depictions of areas appearing on the maps entitled ‘Coastal Barrier Resources System’, dated September 27, 1994, and on file with the Secretary of the Interior; and
-
-&emsp;“(2) the Coastal Barrier Resources System does not include any area that, on the day before the date of the enactment of this Act, was part of unit FL–05P of the System.
-
-“(b)
-
-Maps Described.—The maps described in this subsection are maps that—
-
-&emsp;“(1) are included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990; and
-
-&emsp;“(2) related to the following units of the Coastal Barrier Resources System: AL–01P, FL–05P, P11A, P17, P17A, P18P, P19P, FL–15, FL–95P, FL–36P, P31P, FL–72P, MI21, NY75, and VA62P.”
-
-Pub. L. 102–440, title III, §303, Oct. 23, 1992, 106 Stat. 2234, provided that:
-
-“(a)
-
-In General.—The Secretary of the Interior shall, before the end of the 30-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\], make such technical revisions to the maps described in subsection (b) as are necessary to ensure that—
-
-&emsp;“(1) on the maps referred to in subsection (b)(2)(A) and (B), depictions of areas as ‘otherwise protected areas’ do not include any area that is not an otherwise protected area within the meaning of that term under section 12 of the Coastal Barrier Improvement Act of 1990 \[Pub. L. 101–591\] (16 U.S.C. 3503 note);
-
-&emsp;“(2) on the map referred to in subsection (b)(2)(C), depictions of areas as ‘otherwise protected areas’ identified as ‘VA–60P’ do not include—
-
-&emsp;&emsp;“(A) any area that is located south of the north bank of the Salt Ponds Inlet in Hampton, Virginia; and
-
-&emsp;&emsp;“(B) the area that is located north of the line described in subsection (c), other than any part of that area which is an otherwise protected area within the meaning of that term under section 12 of the Coastal Barrier Improvement Act of 1990 (16 U.S.C. 3503 note);
-
-&emsp;“(3) on the map referred to in subsection (b)(2)(A), the area: consisting of approximately 5,221 acres and owned by the National Audubon Society as of September 28, 1992 (known as the ‘Audubon Sanctuary’), along with the associated aquatic habitat of Pine Island Bay and Goat Island Bay, shall be designated and depicted as NC–01, a unit of the Coastal Barrier Resources System by the Secretary in accordance with paragraph (5) of this subsection; and
-
-&emsp;“(4) on the map referred to in subsection (b)(2)(C) areas designated as ‘otherwise protected areas’ identified as ‘VA–60P’ that are:
-
-&emsp;&emsp;“(A) north of the north bank of Salt Ponds Inlet in Hampton, Virginia; and
-
-&emsp;&emsp;“(B) south of the line described in subsection (c) of this section shall be designated and depicted on the map as VA–60, a unit of the Coastal Barrier Resources System by the Secretary in accordance with paragraph (5) of this subsection.
-
-> In designating the units in accordance with paragraphs (3) and (4) above, the Secretary is authorized to make any minor and technical modifications to the boundaries of such unit as may be necessary to correct existing clerical and typographical errors in the map: <i>Provided</i>, That the local government in which is located such unit may recommend any such corrections be considered by the Secretary.
-
-“(b)
-
-Maps Described.—The maps referred to in subsection (a) are—
-
-&emsp;“(1) included in a set of maps entitled ‘Coastal Barrier Resources System’, dated October 24, 1990; and
-
-&emsp;“(2) entitled, respectively—
-
-&emsp;&emsp;“(A) ‘Pine Island Bay Unit, NC–01P’,
-
-&emsp;&emsp;“(B) ‘Roosevelt Natural Area Unit, NC–05P’, and
-
-&emsp;&emsp;“(C) ‘Plum Island Unit VA–59P Long Creek Unit VA–60P’.
-
-“(c)
-
-Line Described.—The line referred to in subsection (a)(2)(B) is a line described as follows:
-
-“Beginning at an iron pipe in the low water line of Chesapeake Bay; said iron pipe being located 265.00 feet in a southerly direction from the south eastern corner of Fox Hill Shores Subdivision (as shown in Plat Book 9, page 161 as recorded in the Circuit Court for the City of Hampton, Virginia) and from this TRUE POINT OF BEGINNING running thence North 66 degrees 47 minutes 46 seconds West 995.79 feet to a found iron pipe; thence South 15 degrees 47 minutes 20 seconds East 270.65 feet to a found iron pipe; thence South 73 degrees 59 minutes 57 seconds West 836.68 feet to a point marking the low water line of Long Creek; being known as the southerly property line of Riley's Way.”
-
-Section 4 of Pub. L. 101–591 provided that:
+Pub. L. 101–591, §4, Nov. 16, 1990, 104 Stat. 2932, provided that:
 
 “(a)
 
@@ -198,7 +114,7 @@ Addition of Excess Federal Property.—
 
 &emsp;“(1)
 
-Consultation and determination.—Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretarya determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than one hundred and eighty days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
+Consultation and determination.—Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than one hundred and eighty days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
 
 &emsp;&emsp;“(A) prepare a map depicting the undeveloped coastal barrier portion of such property; and
 

@@ -1,0 +1,34 @@
+### §40105. Governing body
+
+(a)
+
+Board of Directors.—The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
+
+(b)
+
+Officers.—The officers and the election of officers are as provided in the articles of incorporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1330.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+40105(a)
+
+36:2606.
+
+Aug. 17, 1984, Pub. L. 98–382, §§6, 7, 98 Stat. 1344.
+
+40105(b)
+
+36:2607.
+
+The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2606 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2607 are omitted as unnecessary.
+

@@ -2,7 +2,7 @@
 
 (a)
 
-Individuals Covered.—As soon as practicable, the chief driver licensing official of eachparticipating State shall submit to the Secretary of Transportation a report containing the information specified by subsection (b) of this section for each individual—
+Individuals Covered.—As soon as practicable, the chief driver licensing official of each participating State shall submit to the Secretary of Transportation a report containing the information specified by subsection (b) of this section for each individual—
 
 &emsp;(1) who is denied a motor vehicle operator's license by that State for cause;
 
@@ -40,7 +40,7 @@ Time for Filing.—If a report under subsection (a) of this section is about an 
 
 (d)
 
-Events Occurring Before Participation.—This section does not require a State to report information about an event that occurs before the 2-year period before the State becomes a participating State.
+Events Occurring Before Participation.—This section does not require a State toreport information about an event that occurs before the 2-year period before the State becomes a participating State.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 975.)
 

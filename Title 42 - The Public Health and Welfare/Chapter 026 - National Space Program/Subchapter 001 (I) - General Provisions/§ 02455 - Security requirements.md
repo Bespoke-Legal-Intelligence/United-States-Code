@@ -24,7 +24,3 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 The National Aeronautics and Space Council, including office of Executive Secretary of Council, together with functions of Council, abolished by section 3(a)(4) of Reorg. Plan No. 1 of 1973, 38 F.R. 9579, 87 Stat. 1089, effective July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 2585.
-

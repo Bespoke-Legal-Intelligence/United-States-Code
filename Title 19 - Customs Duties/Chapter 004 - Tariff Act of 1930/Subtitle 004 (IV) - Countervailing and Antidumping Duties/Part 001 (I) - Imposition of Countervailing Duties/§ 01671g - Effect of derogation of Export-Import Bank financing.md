@@ -2,7 +2,7 @@
 
 Nothing in this subtitle shall be interpreted as superseding the provisions of section 635a–3 of title 12, except that in the event of an assessment of duty based on a derogation under section 1671e of this title or action under section 1671b(d)(1)(B) of this title, the Secretary of the Treasury shall not authorize the Bank to provide guarantees, insurance and credits to competing United States sellers pursuant to section 635a–3 of title 12.
 
-(June 17, 1930, ch. 497, title VII, §708, as added Nov. 30, 1983, Pub. L. 98–181, title VI, §650(c), 97 Stat. 1266; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(6)(A), 100 Stat. 2922; Dec. 8, 1994, Pub. L. 103–465, title II, §264(c)(11), 108 Stat. 4914.)
+(June 17, 1930, ch. 497, title VII, §708, as added Pub. L. 98–181, title VI, §650(c), Nov. 30, 1983, 97 Stat. 1266; amended Pub. L. 99–514, title XVIII, §1886(a)(6)(A), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §264(c)(11), Dec. 8, 1994, 108 Stat. 4914.)
 
 #### Amendments
 

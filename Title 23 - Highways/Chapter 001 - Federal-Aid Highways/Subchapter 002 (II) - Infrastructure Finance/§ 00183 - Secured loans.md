@@ -1,0 +1,162 @@
+### §183. Secured loans
+
+(a)
+
+In General.—
+
+&emsp;(1)
+
+Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used—
+
+&emsp;&emsp;(A) to finance eligible project costs; or
+
+&emsp;&emsp;(B) to refinance interim construction financing of eligible project costs;
+
+> &emsp;of any project selected under section 182.
+
+&emsp;(2)
+
+Limitation on refinancing of interim construction financing.—A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.
+
+&emsp;(3)
+
+Risk assessment.—Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget and each rating agency providing a preliminary rating opinion letter under section 182(b)(2)(B), shall determine an appropriate capital reserve subsidy amount for each secured loan, taking into account such letter.
+
+&emsp;(4)
+
+Investment-grade rating requirement.—The funding of a secured loan under this section shall be contingent on the project's senior obligations receiving an investment-grade rating, except that—
+
+&emsp;&emsp;(A) the Secretary may fund an amount of the secured loan not to exceed the capital reserve subsidy amount determined under paragraph (3) prior to the obligations receiving an investment-grade rating; and
+
+&emsp;&emsp;(B) the Secretary may fund the remaining portion of the secured loan only after the obligations have received an investment-grade rating by at least 1 rating agency.
+
+(b)
+
+Terms and Limitations.—
+
+&emsp;(1)
+
+In general.—A secured loan under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
+
+&emsp;(2)
+
+Maximum amount.—The amount of the secured loan shall not exceed 33 percent of the reasonably anticipated eligible project costs.
+
+&emsp;(3)
+
+Payment.—The secured loan—
+
+&emsp;&emsp;(A) shall—
+
+&emsp;&emsp;&emsp;(i) be payable, in whole or in part, from tolls, user fees, or other dedicated revenue sources; and
+
+&emsp;&emsp;&emsp;(ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
+
+&emsp;&emsp;(B) may have a lien on revenues described in subparagraph (A) subject to any lien securing project obligations.
+
+&emsp;(4)
+
+Interest rate.—The interest rate on the secured loan shall be not less than the yield on marketable United States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.
+
+&emsp;(5)
+
+Maturity date.—The final maturity date of the secured loan shall be not later than 35 years after the date of substantial completion of the project.
+
+&emsp;(6)
+
+Nonsubordination.—The secured loan shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+
+&emsp;(7)
+
+Fees.—The Secretary may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+
+&emsp;(8)
+
+Non-federal share.—The proceeds of a secured loan under this subchapter may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
+
+(c)
+
+Repayment.—
+
+&emsp;(1)
+
+Schedule.—The Secretary shall establish a repayment schedule for each secured loan under this section based on the projected cash flow from project revenues and other repayment sources.
+
+&emsp;(2)
+
+Commencement.—Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project.
+
+&emsp;(3)
+
+Sources of repayment funds.—The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.
+
+&emsp;(4)
+
+Deferred payments.—
+
+&emsp;&emsp;(A)
+
+Authorization.—If, at any time during the 10 years after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
+
+&emsp;&emsp;(B)
+
+Interest.—Any payment deferred under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) continue to accrue interest in accordance with subsection (b)(4) until fully repaid; and
+
+&emsp;&emsp;&emsp;(ii) be scheduled to be amortized over the remaining term of the loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1).
+
+&emsp;&emsp;(C)
+
+Criteria.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Any payment deferral under subparagraph (A) shall be contingent on the project meeting criteria established by the Secretary.
+
+&emsp;&emsp;&emsp;(ii)
+
+Repayment standards.—The criteria established under clause (i) shall include standards for reasonable assurance of repayment.
+
+&emsp;(5)
+
+Prepayment.—
+
+&emsp;&emsp;(A)
+
+Use of excess revenues.—Any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the secured loan without penalty.
+
+&emsp;&emsp;(B)
+
+Use of proceeds of refinancing.—The secured loan may be prepaid at any time without penalty from the proceeds of refinancing from non-Federal funding sources.
+
+(d)
+
+Sale of Secured Loans.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2), as soon as practicable after substantial completion of a project and after notifying the obligor, the Secretary may sell to another entity or reoffer into the capital markets a secured loan for the project if the Secretary determines that the sale or reoffering can be made on favorable terms.
+
+&emsp;(2)
+
+Consent of obligor.—In making a sale or reoffering under paragraph (1), the Secretary may not change the original terms and conditions of the secured loan without the written consent of the obligor.
+
+(e)
+
+Loan Guarantees.—
+
+&emsp;(1)
+
+In general.—The Secretary may provide a loan guarantee to a lender in lieu of making a secured loan if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
+
+&emsp;(2)
+
+Terms.—The terms of a guaranteed loan shall be consistent with the terms set forth in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.
+
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 181, 184 of this title.
+

@@ -48,7 +48,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (B) As may be authorized by its board of directors, buy from and sell to Farm Credit System institutions interests in loans and in other financial assistance extended and nonvoting stock.
 
-(C) As may be authorized by its board of directors, and solely for the purposes of obtaining credit information and other services needed tofacilitate transactions which may be financed under section 2128(b) of this title, invest in ownership interests in foreign business entities that are principally engaged in providing credit information to and performing such servicing functions for their members in connection with the members’ international activities.
+(C) As may be authorized by its board of directors, and solely for the purposes of obtaining credit information and other services needed to facilitate transactions which may be financed under section 2128(b) of this title, invest in ownership interests in foreign business entities that are principally engaged in providing credit information to and performing such servicing functions for their members in connection with the members’ international activities.
 
 (14) Conduct studies and adopt standards for lending.
 

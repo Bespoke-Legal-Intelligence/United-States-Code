@@ -10,7 +10,7 @@ Section 1232a of this title, referred to in text, was in the original a referenc
 
 #### Prior Provisions
 
-A prior section 3921, Pub. L. 98–377, title I, §121, Aug. 11, 1984, 98 Stat. 1269, related to programs authorizedfor mathematics and science education development, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3914 of this title.
+A prior section 3921, Pub. L. 98–377, title I, §121, Aug. 11, 1984, 98 Stat. 1269, related to programs authorized for mathematics and science education development, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3914 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

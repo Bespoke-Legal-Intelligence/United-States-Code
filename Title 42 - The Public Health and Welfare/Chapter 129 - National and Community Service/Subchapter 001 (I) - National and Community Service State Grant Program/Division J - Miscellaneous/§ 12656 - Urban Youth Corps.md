@@ -26,7 +26,7 @@ It is the purpose of this section—
 
 &emsp;(2) to assist government housing, public works, and transportation authorities and agencies;
 
-&emsp;(3) to expose young people in the United States to public service while furthering their understanding and appreciation of their community;
+&emsp;(3) to expose young people in the United States to public service while furthering theirunderstanding and appreciation of their community;
 
 &emsp;(4) to expand educational opportunity for individuals who participate in the Urban Youth Corps established by this section by providing them with an increased ability to pursue postsecondary education or job training; and
 
@@ -100,7 +100,7 @@ The Secretaries shall provide each participant in the Urban Youth Corps with a l
 
 #### (f) Terms of service
 
-Each participant in the Urban Youth Corps shall agree to participate in the Corps for a term of service established by the Secretary involved, consistent with the terms of service required under section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\] for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
+Each participant in the Urban Youth Corps shall agree to participate in the Corps for a term of service established by the Secretary involved,consistent with the terms of service required under section 139(b) of the National and Community Service Act of 1990 \[42 U.S.C. 12593(b)\] for participants in a national service program assisted under subtitle C of title I of such Act \[42 U.S.C. 12571 et seq.\].
 
 #### (g) Educational awards
 
@@ -138,7 +138,7 @@ The civil service laws, referred to in subsec. (d)(1), are set forth in Title 5,
 
 The classification laws, referred to in subsec. (d)(1), are classified to chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
 
-The National and Community Service Act of 1990, referred to in subsecs. (e), (f), and (g)(1), is Pub. L. 101–610,Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitles C and D of title I of the Act are classified generally to divisions C (§12571 et seq.) and D (§12601 et seq.), respectively, of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsecs. (e), (f), and (g)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitles C and D of title I of the Act are classified generally to divisions C (§12571 et seq.) and D (§12601 et seq.), respectively, of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Codification
 

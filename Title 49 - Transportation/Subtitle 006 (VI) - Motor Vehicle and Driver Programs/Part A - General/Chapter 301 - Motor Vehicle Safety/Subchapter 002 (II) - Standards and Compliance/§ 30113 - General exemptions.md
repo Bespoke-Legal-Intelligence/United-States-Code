@@ -6,13 +6,13 @@ Definition.—In this section, “low-emission motor vehicle” means a motor ve
 
 (b)
 
-Authority To Exempt and Procedures.—(1) The Secretary of Transportation may exempt, on a temporary basis, motor vehicles from a motor vehicle safety standard prescribed under this chapter on terms the Secretary considers appropriate. An exemption may be renewed. A renewal may be granted only on reapplication and must conform to the requirements of this subsection.
+Authority To Exempt and Procedures.—(1) The Secretary of Transportation may exempt, on a temporary basis, motor vehicles from a motor vehicle safety standard prescribed under this chapter or passenger motor vehicles from a bumper standard prescribed under chapter 325 of this title, on terms the Secretary considers appropriate. An exemption may be renewed. A renewal may be granted only on reapplication and must conform to the requirements of this subsection.
 
 (2) The Secretary may begin a proceeding under this subsection when a manufacturer applies for an exemption or a renewal of an exemption. The Secretary shall publish notice of the application and provide an opportunity to comment. An application for an exemption or for a renewal of an exemption shall be filed at a time and in the way, and contain information, this section and the Secretary require.
 
 (3) The Secretary may act under this subsection on finding that—
 
-&emsp;(A) an exemption is consistent with the public interest and this chapter; and
+&emsp;(A) an exemption is consistent with the public interest and this chapter or chapter 325 of this title (as applicable); and
 
 &emsp;(B)(i) compliance with the standard would cause substantial economic hardship to a manufacturer that has tried to comply with the standard in good faith;
 
@@ -26,17 +26,17 @@ Authority To Exempt and Procedures.—(1) The Secretary of Transportation may ex
 
 Contents of Applications.—A manufacturer applying for an exemption under subsection (b) of this section shall include the following information in the application:
 
-&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to comply with each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption.
+&emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to comply with each motor vehicle safety standard prescribed under this chapter, or a bumper standard prescribed under chapter 325 of this title, from which the manufacturer is requesting an exemption.
 
 &emsp;(2) if the application is made under subsection (b)(3)(B)(ii) of this section, a record of the research, development, and testing establishing the innovative nature of the safety feature and a detailed analysis establishing that the safety level of the feature at least equals the safety level of the standard.
 
-&emsp;(3) if the application is made under subsection (b)(3)(B)(iii) of this section, a record ofthe research, development, and testing establishing that the motor vehicle is a low-emission motor vehicle and that the safety level of the vehicle is not lowered unreasonably by exemption from the standard.
+&emsp;(3) if the application is made under subsection (b)(3)(B)(iii) of this section, a record of the research, development, and testing establishing that the motor vehicle is a low-emission motor vehicle and that the safety level of the vehicle is not lowered unreasonably by exemption from the standard.
 
 &emsp;(4) if the application is made under subsection (b)(3)(B)(iv) of this section, a detailed analysis showing how the vehicle provides an overall safety level at least equal to the overall safety level of nonexempt vehicles.
 
 (d)
 
-Eligibility.—A manufacturer is eligible for an exemption under subsection (b)(3)(B)(i) of this section only if the Secretary determines that the manufacturer's total motor vehicle production in the most recent year of production is not more than 10,000. A manufacturer is eligible for an exemption under subsection (b)(3)(B)(ii), (iii), or (iv) of this section only if the Secretary determines the exemption is for not more than 2,500 vehicles to be sold in the United States in any 12-month period.
+Eligibility.—A manufacturer is eligible for an exemption under subsection (b)(3)(B)(i) of this section (including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1)) only if the Secretary determines that the manufacturer's total motor vehicle production in the most recent year of production is not more than 10,000. A manufacturer is eligible for an exemption under subsection (b)(3)(B)(ii), (iii), or (iv) of this section only if the Secretary determines the exemption is for not more than 2,500 vehicles to be sold in the United States in any 12-month period.
 
 (e)
 
@@ -52,9 +52,9 @@ Notice of Decision.—The Secretary shall publish in the Federal Register a noti
 
 (h)
 
-Permanent Label Requirement.—The Secretary shall require a permanent label to be fixed to a motor vehicle granted an exemption under this section. The label shall either name or describe each motor vehicle safety standard prescribed under this chapter from which the vehicle is exempt. The Secretary may require that written notice of an exemption be delivered by appropriate means to the dealer and the first purchaser of the vehicle other than for resale.
+Permanent Label Requirement.—The Secretary shall require a permanent label to be fixed to a motor vehicle granted an exemption under this section. The label shall either name or describe each motor vehicle safety standard prescribed under this chapter or bumper standard prescribed under chapter 325 of this title from which the vehicle is exempt. The Secretary may require that written notice of an exemption be delivered by appropriate means to the dealer and the first purchaser of the vehicle other than for resale.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 945.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 945; Pub. L. 105–277, div. A, §101(g) \[title III, §351(a)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–475.)
 
 Historical and Revision Notes
 
@@ -124,7 +124,19 @@ In subsection (g), the words “The Secretary” are added for clarity. The word
 
 In subsection (h), the words “a . . . label to be fixed to a motor vehicle granted an exemption under this section” are substituted for “labeling of each exempted motor vehicle . . . and be affixed to such exempted vehicles” for clarity. The words “of such exempted motor vehicle in such manner as he deems” are omitted as surplus. The words “motor vehicle safety standard prescribed under this chapter” are substituted for “the standards” for clarity and consistency in this chapter.
 
+#### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–277, §101(g) \[title III, §351(a)(1)(A)\], inserted “or passenger motor vehicles from a bumper standard prescribed under chapter 325 of this title,” after “a motor vehicle safety standard prescribed under this chapter”.
+
+Subsec. (b)(3)(A). Pub. L. 105–277, §101(g) \[title III, §351(a)(1)(B)\], inserted “or chapter 325 of this title (as applicable)” after “this chapter”.
+
+Subsec. (c)(1). Pub. L. 105–277, §101(g) \[title III, §351(a)(2)\], inserted “, or a bumper standard prescribed under chapter 325 of this title,” after “motor vehicle safety standard prescribed under this chapter”.
+
+Subsec. (d). Pub. L. 105–277, §101(g) \[title III, §351(a)(3)\], inserted “(including an exemption under subsection (b)(3)(B)(i) relating to a bumper standard referred to in subsection (b)(1))” after “subsection (b)(3)(B)(i) of this section”.
+
+Subsec. (h). Pub. L. 105–277, §101(g) \[title III, §351(a)(4)\], inserted “or bumper standard prescribed under chapter 325 of this title” after “each motor vehicle safety standard prescribed under this chapter”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 30112 of this title.
+This section is referred to in sections 30112, 32502 of this title.
 

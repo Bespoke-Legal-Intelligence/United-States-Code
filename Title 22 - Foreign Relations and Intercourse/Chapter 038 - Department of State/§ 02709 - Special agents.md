@@ -24,7 +24,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;&emsp;(D) foreign missions (as defined in section 4302(a)(4) <sup>1</sup> of this title) and international organizations (as defined in section 4309(b) of this title), within the United States;
 
-&emsp;(4) if designated by the Secretary and qualified, under regulations approved by the Attorney General, for the use of firearms, carryfirearms for the purpose of performing the duties authorized by this section; and
+&emsp;(4) if designated by the Secretary and qualified, under regulations approved by the Attorney General, for the use of firearms, carry firearms for the purpose of performing the duties authorized by this section; and
 
 &emsp;(5) arrest without warrant any person for a violation of section 111, 112, 351, 970, or 1028 of title 18—
 
@@ -67,6 +67,10 @@ A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125
 1990—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting “970, or 1028” for “911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4044 of this title; title 5 section 5542.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

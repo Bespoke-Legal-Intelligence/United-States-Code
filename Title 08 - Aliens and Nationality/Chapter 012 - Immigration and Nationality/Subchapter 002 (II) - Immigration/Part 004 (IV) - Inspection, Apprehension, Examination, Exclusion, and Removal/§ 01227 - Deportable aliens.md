@@ -38,7 +38,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
+&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within 5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
 
 #### (ii) Special rule in the case of family reunification
 
@@ -64,7 +64,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;(i) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
 
-&emsp;&emsp;&emsp;(ii) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+&emsp;&emsp;&emsp;(ii) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United Statesat the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
 
 > &emsp;&emsp;A waiver of removal for fraud or misrepresentation granted under this subparagraph shall also operate to waive removal based on the grounds of inadmissibility directly resulting from such fraud or misrepresentation.
 
@@ -96,7 +96,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (v) Waiver authorized
 
-&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has beengranted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
+&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has been granted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
 
 #### (B) Controlled substances
 
@@ -134,7 +134,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Violators of protection orders
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued is deportable. For purposes of this clause, the term “protection order” means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
+&emsp;&emsp;&emsp;Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or personsfor whom the protection order was issued is deportable. For purposes of this clause, the term “protection order” means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
 
 #### (3) Failure to register and falsification of documents
 
@@ -216,7 +216,7 @@ An alien, admitted as a nonimmigrant under the provision of either section 1101(
 
 Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; July 14, 1960, Pub. L. 86–648, §9, 74 Stat. 505; Sept. 26, 1961, Pub. L. 87–301, §16, 75 Stat. 655; Oct. 3, 1965, Pub. L. 89–236, §11(e), 79 Stat. 918; Oct. 20, 1976, Pub. L. 94–571, §7(e), 90 Stat. 2706; Oct. 30, 1978, Pub. L. 95–549, title I, §103, 92 Stat. 2065; Dec. 29, 1981, Pub. L. 97–116, §8, 95 Stat. 1616; Oct. 27, 1986, Pub. L. 99–570, title I, §1751(b), 100 Stat. 3207–47; Nov. 6, 1986, Pub. L. 99–603, title III, §303(b), 100 Stat. 3431; Nov. 10, 1986, Pub. L. 99–639, §2(b), 100 Stat. 3541; Nov. 14, 1986, Pub. L. 99–653, §7(c), 100 Stat. 3657; Oct. 24, 1988, Pub. L. 100–525, §§2(n)(2), 9(m), 102 Stat. 2613, 2620; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7344(a), 7348(a), 102 Stat. 4470, 4473; Nov. 29, 1990, Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Dec. 12, 1991, Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), 105 Stat. 1745, 1755, 1756; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130003(d), 108 Stat. 2026; Oct. 25, 1994, Pub. L. 103–416, title II, §§203(b), 219(g), 108 Stat. 4311, 4317; Apr. 24, 1996, Pub. L. 104–132, title IV, §§414(a), 435(a), 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Sept. 30, 1996, Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723.)
 
 #### References in Text
 
@@ -438,7 +438,7 @@ Section 505(b) of Pub. L. 101–649 provided that: “The amendments made by sub
 
 Section 508(b) of Pub. L. 101–649 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to convictions occurring on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-Section 544(d), formerly (c), of Pub. L. 101–649, as redesignated by Pub. L. 102–232, title III, §306(c)(5)(B), Dec. 12, 1991, 105 Stat. 1752, provided that: “The amendments made by this section \[enacting section 1324c of this title and amending this section\] shall apply to persons or entities that have committed violations on or after the date of the enactment of this Act \[Nov. 29, 1990\].”
+Section 544(d), formerly (c), of Pub. L. 101–649, as redesignated by Pub. L. 102–232, title III, §306(c)(5)(B), Dec. 12, 1991, 105 Stat. 1752, provided that: “The amendments made by this section \[enacting section 1324c of this title and amending this section\] shall apply to persons or entities that have committed violations on orafter the date of the enactment of this Act \[Nov. 29, 1990\].”
 
 Section 602(d) of Pub. L. 101–649 provided that: “The amendments made by this section, and by section 603(b) of this Act \[amending this section, sections 1161, 1252, 1253, and 1254 of this title, and section 402 of Title 42, The Public Health and Welfare\], shall not apply to deportation proceedings for which notice has been provided to the alien before March 1, 1991.”
 
@@ -474,7 +474,7 @@ Amendment by act July 18, 1956, effective July 19, 1956, see section 401 of act 
 
 #### Savings Provision
 
-Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section\[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
+Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
 
 #### Report on Criminal Aliens
 

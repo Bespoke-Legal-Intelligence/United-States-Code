@@ -34,5 +34,5 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5601, 5608 of this title.
+This section is referred to in sections 5601, 5608, 5611 of this title.
 

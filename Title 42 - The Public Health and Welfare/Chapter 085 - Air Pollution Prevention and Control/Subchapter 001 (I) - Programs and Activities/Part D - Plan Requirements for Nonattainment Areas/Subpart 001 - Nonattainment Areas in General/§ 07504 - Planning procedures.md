@@ -12,7 +12,7 @@ The preparation of implementation plan provisions and subsequent plan revisions 
 
 In the case of a nonattainment area that is included within more than one State, the affected States may jointly, through interstate compact or otherwise, undertake and implement all or part of the planning procedures described in this section.
 
-(July 14, 1955, ch. 360, title I, §174, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 748; amended Nov. 15, 1990, Pub. L. 101–549, title I, §102(d), 104 Stat. 2417.)
+(July 14, 1955, ch. 360, title I, §174, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 748; amended Pub. L. 101–549, title I, §102(d), Nov. 15, 1990, 104 Stat. 2417.)
 
 #### Amendments
 

@@ -28,7 +28,7 @@ Subject to subsection (c) of this section, entitlement of an individual to benef
 
 > &emsp;whichever first occurs (but no earlier than one year preceding the month of the filing of an application for benefits under this section); and
 
-&emsp;(2) shall end, in the case of an individual who receives a kidney transplant, with the thirty-sixth month after the month in which such individual receives such transplant or, in the case of an individual who has not received a kidney transplant and no longer requires aregular course of dialysis, with the twelfth month after the month in which such course of dialysis is terminated.
+&emsp;(2) shall end, in the case of an individual who receives a kidney transplant, with the thirty-sixth month after the month in which such individual receives such transplant or, in the case of an individual who has not received a kidney transplant and no longer requires a regular course of dialysis, with the twelfth month after the month in which such course of dialysis is terminated.
 
 #### (c) Individuals participating in self-care dialysis training programs; kidney transplant failures; resumption of previously terminated regular course of dialysis
 
@@ -44,7 +44,7 @@ Notwithstanding the provisions of subsection (b) of this section—
 
 For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
 
-(Aug. 14, 1935, ch. 531, title II, §226A, as added June 13, 1978, Pub. L. 95–292, §1(a), 92 Stat. 307; amended Sept. 3, 1982, Pub. L. 97–248, title II, §278(b)(2)(C), 96 Stat. 561; Jan. 12, 1983, Pub. L. 97–448, title III, §309(b)(1), 96 Stat. 2408; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13205(b)(2)(B), 100 Stat. 317; Aug. 15, 1994, Pub. L. 103–296, title II, §201(a)(3)(D)(ii), 108 Stat. 1497.)
+(Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497.)
 
 #### References in Text
 
@@ -86,11 +86,11 @@ Amendment by Pub. L. 97–248 effective on and after Jan. 1, 1983, see section 2
 
 #### Effective Date
 
-Section effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisionsfor reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as an Effective Date of 1978 Amendment note under section 426 of this title.
+Section effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as an Effective Date of 1978 Amendment note under section 426 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 410, 418, 1395c, 1395i–2a, 1395y, 1395rr of this title; title 10 section 1086.
+This section is referred to in sections 410, 418, 1320a–7a, 1395c, 1395i–2a, 1395y, 1395rr of this title; title 10 section 1086.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
 

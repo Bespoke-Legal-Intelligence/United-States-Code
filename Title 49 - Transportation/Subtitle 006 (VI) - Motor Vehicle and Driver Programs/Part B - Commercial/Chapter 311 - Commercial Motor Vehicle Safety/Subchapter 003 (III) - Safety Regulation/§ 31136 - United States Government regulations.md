@@ -2,7 +2,7 @@
 
 (a)
 
-Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secretary of Transportation shall prescribe regulations on commercial motor vehicle safety. The regulations shall prescribe minimum safety standards for commercial motor vehicles. At a minimum, the regulations shall ensure that—
+Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secretary ofTransportation shall prescribe regulations on commercial motor vehicle safety. The regulations shall prescribe minimum safety standards for commercial motor vehicles. At a minimum, the regulations shall ensure that—
 
 &emsp;(1) commercial motor vehicles are maintained, equipped, loaded, and operated safely;
 
@@ -28,105 +28,11 @@ Procedures and Considerations.—(1) A regulation under this section shall be pr
 
 (d)
 
-Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984,shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
+Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984, shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
 
 (e)
 
-Waivers.—
-
-&emsp;(1)
-
-In general.—After notice and an opportunity for comment, the Secretary may waive any part of a regulation prescribed under this section as it applies to a person or class of persons, if the Secretary decides that the waiver is consistent with the public interest and the safe operation of commercial motor vehicles. Under this subsection, the Secretary shall waive the regulations prescribed under this section as they apply to schoolbuses (as defined in section 30125(a) of this title) unless the Secretary decides that making the regulations applicable to schoolbuses is necessary for public safety, considering all laws of the United States and States applicable to schoolbuses. A waiver under this subsection shall be published in the Federal Register, with the reasons for the waiver.
-
-&emsp;(2)
-
-Commercial motor vehicle safety pilot program.—
-
-&emsp;&emsp;(A)
-
-In general.—Not later than the 270th day following November 28, 1995, the Secretary shall implement a commercial motor vehicle regulatory relief and safety pilot program (hereinafter in this paragraph referred to as the “program”) to grant and to monitor exemptions from the provisions of this section and sections 504 and 31502. The program shall provide that the Secretary, within 120 days after receiving an application for participation in the program from an employer, shall determine whether to exempt some or all of the eligible vehicles operated by the applicant, and some or all of the drivers of such vehicles employed by the applicant, from some or all of the regulations prescribed under this section and sections 504 and 31502—
-
-&emsp;&emsp;&emsp;(i) if the applicant has a satisfactory safety rating issued by the Secretary or meets criteria established by the Secretary pursuant to subparagraph (J) instead of such rating; and
-
-&emsp;&emsp;&emsp;(ii) if the applicant and the Secretary enter into an agreement that provides that the applicant while participating in the program—
-
-&emsp;&emsp;&emsp;&emsp;(I) shall operate safely;
-
-&emsp;&emsp;&emsp;&emsp;(II) shall provide the Secretary with accident and nonconfidential insurance-related information relevant to the safety performance of the applicant and vehicles and drivers of the applicant subject to the program;
-
-&emsp;&emsp;&emsp;&emsp;(III) shall use in the program only drivers with good safety records in the preceding 36 months and who maintain such good safety records while in the program; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) shall implement such safety management controls as the Secretary (in cooperation with the applicant) determines are necessary to carry out the objectives of this subsection.
-
-&emsp;&emsp;(B)
-
-Safety management controls.—Safety management controls implemented by participants in the program shall be designed to achieve a level of operational safety equal to or greater than that resulting from compliance with the regulations prescribed under this section and sections 504 and 31502.
-
-&emsp;&emsp;(C)
-
-Paperwork burden to be minimized.—The Secretary shall ensure that participants in the program are subject to a minimum of paperwork and regulatory burdens necessary to ensure compliance with the requirements of the program.
-
-&emsp;&emsp;(D)
-
-Encouragement of advanced technology.—The Secretary shall encourage participants in the program to use such advanced technologies as may be necessary to ensure compliance with the requirements of the program.
-
-&emsp;&emsp;(E)
-
-Approval factors.—In approving applicants for participation in the program, the Secretary shall—
-
-&emsp;&emsp;&emsp;(i) ensure that the participants represent a broad cross-section of fleet size and drivers of eligible vehicles; and
-
-&emsp;&emsp;&emsp;(ii) ensure participation by qualified applicants, except to the extent limited by resources of the Secretary that are necessary to permit effective monitoring under subparagraph (G).
-
-&emsp;&emsp;(F)
-
-Modifications to reflect changes in regulations.—If there is a material change in the regulations prescribed under this section or section 504 or 31502, the Secretary shall require each participant in the program to modify the safety management controls applicable to such participant, and the agreement provided for in subparagraph (A)(ii), to the extent necessary to reflect the material change.
-
-&emsp;&emsp;(G)
-
-Monitoring.—The Secretary and participants in the program shall monitor periodically the safety of vehicles and drivers subject to the program.
-
-&emsp;&emsp;(H)
-
-Termination of participation.—A participant shall participate in the program until—
-
-&emsp;&emsp;&emsp;(i) the Secretary finds that—
-
-&emsp;&emsp;&emsp;&emsp;(I) the participant has exceeded the average ratio of preventable accidents to vehicle miles traveled for a period of 12 months for eligible vehicles;
-
-&emsp;&emsp;&emsp;&emsp;(II) the participant has failed to comply with the requirements established by the Secretary for participation in the program (including applicable safety management controls); or
-
-&emsp;&emsp;&emsp;&emsp;(III) continued participation in the program is not in the public interest; or
-
-&emsp;&emsp;&emsp;(ii) the participant voluntarily withdraws from the program.
-
-&emsp;&emsp;(I)
-
-Emergencies.—The Secretary may suspend or modify participation in the program in case of emergency.
-
-&emsp;&emsp;(J)
-
-Guidelines.—
-
-&emsp;&emsp;&emsp;(i)
-
-In general.—Not later than the 270th day following November 28, 1995, the Secretary, after notice and opportunity for comment, shall establish criteria and define any terms necessary for implementing the program consistent with this section. In establishing the criteria, the Secretarymay consider to what extent and under what conditions safety management controls may substitute, in whole or in part, for compliance with some or all of the regulations prescribed under this section and sections 504 and 31502.
-
-&emsp;&emsp;&emsp;(ii)&nbsp;
-
-Limitation.—Notwithstanding clause (i), the program shall take effect on or before the 270th day following November 28, 1995. If the rulemaking described in clause (i) is not completed on or before such 270th day, the Secretary shall issue interim criteria, consistent with this section, pending the completion of the rulemaking described in this subsection.
-
-&emsp;&emsp;(K)
-
-Eligible vehicles.—For purposes of this subsection, the term “eligible vehicle” means a commercial motor vehicle with a gross vehicle weight rating of at least 10,001 pounds, but not more than 26,000 pounds, other than a vehicle—
-
-&emsp;&emsp;&emsp;(i) designed to transport more than 15 passengers, including the driver; or
-
-&emsp;&emsp;&emsp;(ii) used in transporting material found by the Secretary to be hazardous under section 5103 and transported in a quantity requiring placarding under the regulations issued under such section.
-
-&emsp;(3)
-
-Review of regulations.—Based in part on the information and experience obtained from the program, the Secretary shall conduct a zero-based review of the need for, and the costs and benefits of, all regulations prescribed under this section and sections 504 and 31502 to determine whether and to what extent such regulations should apply to eligible vehicles. The review shall focus on the appropriate level of safety that is in the public interest and the paperwork and regulatory burdens of such regulations as the regulations apply to employers and employees that use such vehicles. The Secretary shall complete the review by the last day of the 3-year period beginning on November 28, 1995. Upon completion of the review, the Secretary shall, after notice and an opportunity for public comment, grant such exemptions or modify or repeal existing regulations to the extent appropriate.
+Exemptions.—The Secretary may grant in accordance with section 31315 waivers and exemptions from, or conduct pilot programs with respect to, any regulations prescribed under this section.
 
 (f)
 
@@ -154,7 +60,7 @@ Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) Th
 
 (3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(60), Oct. 11, 1996, 110 Stat. 3394.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(60), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title IV, §4007(c), June 9, 1998, 112 Stat. 403.)
 
 Historical and Revision Notes
 
@@ -204,9 +110,23 @@ In subsection (f)(2)(C)(i), the words “an operator” are substituted for “s
 
 #### Amendments
 
+1998—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
+
 1996—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted “November 28, 1995” for “the date of the enactment of this paragraph”.
 
 1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
+
+#### Protection of Existing Exemptions
+
+Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made bythis section \[amending this section and section 31315 of this title\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or section 31136(e) of title 49, United States Code.”
+
+#### Application of Regulations to Certain Commercial Motor Vehicles
+
+Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: “Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations.”
+
+#### Improved Interstate School Bus Safety
+
+Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 14101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 8801\]).”
 
 #### Federal Highway Administration Rulemaking
 
@@ -214,7 +134,7 @@ Pub. L. 104–88, title IV, §408, Dec. 29, 1995, 109 Stat. 958, provided that:
 
 “(a)
 
-Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
+Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10 hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
 
 “(b)
 
@@ -300,7 +220,7 @@ Effective Date.—Subsection (a) of this section shall take effect on the 180th 
 
 #### Winter Home Heating Oil Delivery State Flexibility Program
 
-Section 346 of Pub. L. 104–59 provided that:
+Pub. L. 104–59, title III, §346, Nov. 28, 1995, 109 Stat. 615, as amended by Pub. L. 105–178, title I, §1211(j), June 9, 1998, 112 Stat. 192; Pub. L. 105–206, title IX, §9003(d)(3), July 22, 1998, 112 Stat. 839, provided that:
 
 “(a)
 
@@ -352,5 +272,5 @@ Definition.—In this section, the term ‘7 or 8 consecutive days’ has the me
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31132, 31134, 31140, 31141, 31142, 31146 of this title.
+This section is referred to in sections 31132, 31141, 31142, 31146, 31315, 31502 of this title.
 

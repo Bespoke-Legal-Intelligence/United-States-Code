@@ -1,6 +1,0 @@
-### §411. Nonpolitical nature of corporation
-
-The corporation, and its members and officers as such, shall not contribute to or otherwise support or assist any political party or candidate for elective public office.
-
-(Apr. 3, 1952, ch. 131, §11, 66 Stat. 40.)
-

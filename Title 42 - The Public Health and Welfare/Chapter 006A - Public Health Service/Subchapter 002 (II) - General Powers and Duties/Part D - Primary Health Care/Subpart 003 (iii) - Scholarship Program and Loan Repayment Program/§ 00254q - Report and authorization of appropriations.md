@@ -32,7 +32,7 @@ The Secretary shall report on March 1 of each year to the Committee on Labor and
 
 &emsp;&emsp;With respect to certification as a nurse practitioner, nurse midwife, or physician assistant, the Secretary shall, of the amounts appropriated under paragraph (1) for a fiscal year, obligate not less than 10 percent for the purpose of providing contracts for scholarships under this subpart to individuals who are entering the first year of study in a course of study or program described in subsection <sup>1</sup> 254<i>l</i>(b)(1)(B) of this title that leads to such a certification. Amounts obligated under this subparagraph shall be in addition to amounts obligated under subparagraph (A).
 
-(July 1, 1944, ch. 373, title III, §338H, formerly §338G, as added Dec. 1, 1987, Pub. L. 100–177, title II, §203, 101 Stat. 999; renumbered §338H and amended Nov. 16, 1990, Pub. L. 101–597, title II, §§204, 205, 104 Stat. 3027, 3028.)
+(July 1, 1944, ch. 373, title III, §338H, formerly §338G, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338H and amended Pub. L. 101–597, title II, §§204, 205, Nov. 16, 1990, 104 Stat. 3027, 3028.)
 
 #### Prior Provisions
 

@@ -22,7 +22,7 @@ Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 1973ff of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section204 of Pub. L. 99–410, set out as an Effective Date note under section 1973ff of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

@@ -34,3 +34,7 @@ Section is comprised of section 208 of Pub. L. 102–138. Subsec. (f) of section
 
 A prior section 2075, Pub. L. 101–513, title II, Nov. 5, 1990, 104 Stat. 1984, was based on section 206 of title II of the House engrossed amendment (as passed the House of Representatives on May 24, 1990) to S. 2364, One Hundred First Congress, which was enacted into law by Pub. L. 101–513, and which was cited as the “Center for Cultural and Technical Interchange between North and South Act of 1990”, established a North-South Center in Florida to promote better relations between the United States and the nations of Latin America and the Caribbean and Canada through study, training, exchange of ideas and views, and other activities in support of the objectives of the United States Information and Educational Exchange Act of 1948, prior to repeal, effective Oct. 1, 1991, by Pub. L. 102–138, title II, §208(f), Oct. 28, 1991, 105 Stat. 694.
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+

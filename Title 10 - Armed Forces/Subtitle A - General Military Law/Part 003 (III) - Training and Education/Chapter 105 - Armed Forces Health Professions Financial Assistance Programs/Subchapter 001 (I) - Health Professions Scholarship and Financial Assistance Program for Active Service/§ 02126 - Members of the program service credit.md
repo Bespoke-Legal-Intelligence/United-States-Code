@@ -20,7 +20,7 @@ Service Creditable for Certain Purposes.—(1) The Secretary concerned may autho
 
 (2) Service credited under paragraph (1) counts only for the following purposes:
 
-&emsp;(A) Award of retirement points for computation of years of service under section 12732 ofthis title and for computation of retired pay under section 12733 of this title.
+&emsp;(A) Award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
 
 &emsp;(B) Computation of years of service creditable under section 205 of title 37.
 

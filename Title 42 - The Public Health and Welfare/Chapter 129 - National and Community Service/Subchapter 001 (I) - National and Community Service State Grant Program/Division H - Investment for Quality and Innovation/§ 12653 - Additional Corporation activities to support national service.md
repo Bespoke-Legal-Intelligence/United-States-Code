@@ -20,7 +20,7 @@ The Corporation may undertake activities to improve the quality of national serv
 
 #### (c) Summer programs
 
-The Corporation may support service programs intended to be carried out between May 1and October 1, except that such a program may also include a year-round component.
+The Corporation may support service programs intended to be carried out between May 1 and October 1, except that such a program may also include a year-round component.
 
 #### (d) Community-based agencies
 
@@ -96,15 +96,13 @@ The Corporation may make grants to, and enter into contracts and cooperative agr
 
 #### (1) Assistance
 
-&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equaleconomic and educational opportunities, and social justice.
+&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equal economic and educational opportunities, and social justice.
 
 #### (2) Eligible entities
 
 &emsp;Any entity otherwise eligible for assistance under the national services laws shall be eligible to receive a grant under this subsection.
 
-#### (3) Consultation
-
-&emsp;In making grants under this subsection, the Corporation shall consult with the Martin Luther King, Jr. Federal Holiday Commission established under section 169j–1 of title 36.
+#### (3) Repealed. Pub. L. 105–354, §2(b), Nov. 3, 1998, 112 Stat. 3244
 
 #### (4) Federal share
 
@@ -114,7 +112,7 @@ The Corporation may make grants to, and enter into contracts and cooperative agr
 
 &emsp;In determining the non-Federal share of the costs of planning and carrying out a service opportunity supported by a grant under this subsection, the Corporation shall consider in-kind contributions (including facilities, equipment, and services) made to plan or carry out the service opportunity.
 
-(Pub. L. 101–610, title I, §198, as added and amended Pub. L. 103–82, title I, §104(c), title IV, §405(p)(2), Sept. 21, 1993, 107 Stat. 840, 922; Pub. L. 103–304, §3(a), (b)(6), Aug. 23, 1994, 108 Stat. 1566, 1568.)
+(Pub. L. 101–610, title I, §198, as added and amended Pub. L. 103–82, title I, §104(c), title IV, §405(p)(2), Sept. 21, 1993, 107 Stat. 840, 922; Pub. L. 103–304, §3(a), (b)(6), Aug. 23, 1994, 108 Stat. 1566, 1568; Pub. L. 105–354, §2(b), Nov. 3, 1998, 112 Stat. 3244.)
 
 #### References in Text
 
@@ -127,6 +125,8 @@ The Head Start Act, referred to in subsec. (r), is subchapter B (§§635–657) 
 A prior section 12653, Pub. L. 101–610, title I, §195, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2522, which stated purpose of Civilian Community Corps, was renumbered section 151 of Pub. L. 101–610 by Pub. L. 103–82, §104(b), and transferred to section 12611 of this title.
 
 #### Amendments
+
+1998—Subsec. (s)(3). Pub. L. 105–354 struck out heading and text of par. (3). Text read as follows: “In making grants under this subsection, the Corporation shall consult with the Martin Luther King, Jr. Federal Holiday Commission established under section 169j–1 of title 36.”
 
 1994—Subsec. (q)(1). Pub. L. 103–304, §3(b)(6), substituted “1995,” for “1995”.
 

@@ -8,9 +8,9 @@
 
 &emsp;(A) titles and duties of civilian members of the faculty; and
 
-&emsp;(B) pay of civilian members of the faculty, notwithstanding chapter 53 of title 5, but subject to the limitation set out in section 5306(e) of title 5.
+&emsp;(B) pay of civilian members of the faculty, notwithstanding chapter 53 of title 5, but subject to the limitation set out in section 5373 of title 5.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Nov. 8, 1985, Pub. L. 99–145, title V, §504(a)(1), (2)(A), 99 Stat. 622; Nov. 14, 1986, Pub. L. 99–661, div. A, title V, §510, 100 Stat. 3868; Nov. 5, 1990, Pub. L. 101–509, title V, §529 \[title I, §106(b)(6)(C)\], 104 Stat. 1427, 1440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 99–145, title V, §504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, §510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, §529 \[title I, §106(b)(6)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, §1102, Oct. 17, 1998, 112 Stat. 2141.)
 
 Historical and Revision Notes
 
@@ -27,6 +27,8 @@ Historical and Revision Notes
 Aug. 31, 1954, ch. 1151, 68 Stat. 1006.
 
 #### Amendments
+
+1998—Subsec. (b)(2)(B). Pub. L. 105–261 substituted “section 5373” for “section 5306(e)”.
 
 1990—Subsec. (b)(2)(B). Pub. L. 101–509 substituted “5306(e)” for “5308”.
 

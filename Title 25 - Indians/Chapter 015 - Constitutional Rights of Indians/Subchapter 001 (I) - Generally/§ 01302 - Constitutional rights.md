@@ -20,7 +20,7 @@ No Indian tribe in exercising powers of self-government shall—
 
 &emsp;(9) pass any bill of attainder or ex post facto law; or
 
-&emsp;(10) deny to any person accused of an offense punishable by imprisonment the right, upon request, to a trial by jury of not less than six persons.
+&emsp;(10) deny to any person accused of an offense punishable by imprisonment the right, uponrequest, to a trial by jury of not less than six persons.
 
 (Pub. L. 90–284, title II, §202, Apr. 11, 1968, 82 Stat. 77; Pub. L. 99–570, title IV, §4217, Oct. 27, 1986, 100 Stat. 3207–146.)
 

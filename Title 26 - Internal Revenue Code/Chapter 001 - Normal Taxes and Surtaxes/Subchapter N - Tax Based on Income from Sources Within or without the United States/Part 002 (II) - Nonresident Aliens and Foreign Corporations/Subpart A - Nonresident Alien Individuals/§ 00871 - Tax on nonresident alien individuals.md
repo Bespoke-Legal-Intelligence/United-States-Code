@@ -1,0 +1,638 @@
+### §871. Tax on nonresident alien individuals
+
+#### (a) Income not connected with United States business—30 percent tax
+
+#### (1) Income other than capital gains
+
+&emsp;Except as provided in subsection (h), there is hereby imposed for each taxable year a tax of 30 percent of the amount received from sources within the United States by a nonresident alien individual as—
+
+&emsp;&emsp;(A) interest (other than original issue discount as defined in section 1273), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income,
+
+&emsp;&emsp;(B) gains described in section 631(b) or (c), and gains on transfers described in section 1235 made on or before October 4, 1966,
+
+&emsp;&emsp;(C) in the case of—
+
+&emsp;&emsp;&emsp;(i) a sale or exchange of an original issue discount obligation, the amount of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
+
+&emsp;&emsp;&emsp;(ii) a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the nonresident alien individual (except that such original issue discount shall be taken into account under this clause only to the extent such discount was not theretofore taken into account under this clause and only to the extent that the tax thereon does not exceed the payment less the tax imposed by subparagraph (A) thereon), and
+
+&emsp;&emsp;(D) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any such property, to the extent such gains are from payments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
+
+> &emsp;but only to the extent the amount so received is not effectively connected with the conduct of a trade or business within the United States.
+
+#### (2) Capital gains of aliens present in the United States 183 days or more
+
+&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
+
+#### (3) Taxation of social security benefits
+
+&emsp;For purposes of this section and section 1441—
+
+&emsp;&emsp;(A) 85 percent of any social security benefit (as defined in section 86(d)) shall be included in gross income (notwithstanding section 207 of the Social Security Act), and
+
+&emsp;&emsp;(B) section 86 shall not apply.
+
+&emsp;&emsp;<b>For treatment of certain citizens of possessions of the United States, see section 932(c).</b><b><sup>1</sup></b>
+
+#### (b) Income connected with United States business—graduated rate of tax
+
+#### (1) Imposition of tax
+
+&emsp;A nonresident alien individual engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 1, 55, or 402(d)(1) on his taxable income which is effectively connected with the conduct of a trade or business within the United States.
+
+#### (2) Determination of taxable income
+
+&emsp;In determining taxable income for purposes of paragraph (1), gross income includes only gross income which is effectively connected with the conduct of a trade or business within the United States.
+
+#### (c) Participants in certain exchange or training programs
+
+For purposes of this section, a nonresident alien individual who (without regard to this subsection) is not engaged in trade or business within the United States and who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(15)(F), (J), (M), or (Q)), shall be treated as a nonresident alien individual engaged in trade or business within the United States, and any income described in the second sentence of section 1441(b) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States.
+
+#### (d) Election to treat real property income as income connected with United States business
+
+#### (1) In general
+
+&emsp;A nonresident alien individual who during the taxable year derives any income—
+
+&emsp;&emsp;(A) from real property held for the production of income and located in the United States, or from any interest in such real property, including (i) gains from the sale or exchange of such real property or an interest therein, (ii) rents or royalties from mines, wells, or other natural deposits, and (iii) gains described in section 631(b) or (c), and
+
+&emsp;&emsp;(B) which, but for this subsection, would not be treated as income which is effectively connected with the conduct of a trade or business within the United States,
+
+> &emsp;may elect for such taxable year to treat all such income as income which is effectively connected with the conduct of a trade or business within the United States. In such case, such income shall be taxable as provided in subsection (b)(1) whether or not such individual is engaged in trade or business within the United States during the taxable year. An election under this paragraph for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary with respect to any taxable year.
+
+#### (2) Election after revocation
+
+&emsp;If an election has been made under paragraph (1) and such election has been revoked, a new election may not be made under such paragraph for any taxable year before the 5th taxable year which begins after the first taxable year for which such revocation is effective, unless the Secretary consents to such new election.
+
+#### (3) Form and time of election and revocation
+
+&emsp;An election under paragraph (1), and any revocation of such an election, may be made only in such manner and at such time as the Secretary may by regulations prescribe.
+
+#### \[(e) Repealed. Pub. L. 99–514, title XII, §1211(b)(5), Oct. 22, 1986, 100 Stat. 2536\]
+
+#### (f) Certain annuities received under qualified plans
+
+#### (1) In general
+
+&emsp;For purposes of this section, gross income does not include any amount received as an annuity under a qualified annuity plan described in section 403(a)(1), or from a qualified trust described in section 401(a) which is exempt from tax under section 501(a), if—
+
+&emsp;&emsp;(A) all of the personal services by reason of which the annuity is payable were either—
+
+&emsp;&emsp;&emsp;(i) personal services performed outside the United States by an individual who, at the time of performance of such personal services, was a nonresident alien, or
+
+&emsp;&emsp;&emsp;(ii) personal services described in section 864(b)(1) performed within the United States by such individual, and
+
+&emsp;&emsp;(B) at the time the first amount is paid as an annuity under the annuity plan or by the trust, 90 percent or more of the employees for whom contributions or benefits are provided under such annuity plan, or under the plan or plans of which the trust is a part, are citizens or residents of the United States.
+
+#### (2) Exclusion
+
+&emsp;Income received during the taxable year which would be excluded from gross income under this subsection but for the requirement of paragraph (1)(B) shall not be included in gross income if—
+
+&emsp;&emsp;(A) the recipient's country of residence grants a substantially equivalent exclusion to residents and citizens of the United States; or
+
+&emsp;&emsp;(B) the recipient's country of residence is a beneficiary developing country under title V of the Trade Act of 1974 19 <sup>2</sup> U.S.C. 2461 et seq.).
+
+#### (g) Special rules for original issue discount
+
+For purposes of this section and section 881—
+
+#### (1) Original issue discount obligation
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the term “original issue discount obligation” means any bond or other evidence of indebtedness having original issue discount (within the meaning of section 1273).
+
+#### (B) Exceptions
+
+&emsp;&emsp;The term “original issue discount obligation” shall not include—
+
+#### (i) Certain short-term obligations
+
+&emsp;&emsp;&emsp;Any obligation payable 183 days or less from the date of original issue (without regard to the period held by the taxpayer).
+
+#### (ii) Tax-exempt obligations
+
+&emsp;&emsp;&emsp;Any obligation the interest on which is exempt from tax under section 103 or under any other provision of law without regard to the identity of the holder.
+
+#### (2) Determination of portion of original issue discount accruing during any period
+
+&emsp;The determination of the amount of the original issue discount which accrues during any period shall be made under the rules of section 1272 (or the corresponding provisions of prior law) without regard to any exception for short-term obligations.
+
+#### (3) Source of original issue discount
+
+&emsp;Except to the extent provided in regulations prescribed by the Secretary, the determination of whether any amount described in subsection (a)(1)(C) is from sources within the United States shall be made at the time of the payment (or sale or exchange) as if such payment (or sale or exchange) involved the payment of interest.
+
+#### (4) Stripped bonds
+
+&emsp;The provisions of section 1286 (relating to the treatment of stripped bonds and stripped coupons as obligations with original issue discount) shall apply for purposes of this section.
+
+#### (h) Repeal of tax on interest of nonresident alien individuals received from certain portfolio debt investments
+
+#### (1) In general
+
+&emsp;In the case of any portfolio interest received by a nonresident individual from sources within the United States, no tax shall be imposed under paragraph (1)(A) or (1)(C) of subsection (a).
+
+#### (2) Portfolio interest
+
+&emsp;For purposes of this subsection, the term “portfolio interest” means any interest (including original issue discount) which would be subject to tax under subsection (a) but for this subsection and which is described in any of the following subparagraphs:
+
+#### (A) Certain obligations which are not registered
+
+&emsp;&emsp;Interest which is paid on any obligation which—
+
+&emsp;&emsp;&emsp;(i) is not in registered form, and
+
+&emsp;&emsp;&emsp;(ii) is described in section 163(f)(2)(B).
+
+#### (B) Certain registered obligations
+
+&emsp;&emsp;Interest which is paid on an obligation—
+
+&emsp;&emsp;&emsp;(i) which is in registered form, and
+
+&emsp;&emsp;&emsp;(ii) with respect to which the United States person who would otherwise be required to deduct and withhold tax from such interest under section 1441(a) receives a statement (which meets the requirements of paragraph (5)) that the beneficial owner of the obligation is not a United States person.
+
+#### (3) Portfolio interest not to include interest received by 10-percent shareholders
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “portfolio interest” shall not include any interest described in subparagraph (A) or (B) of paragraph (2) which is received by a 10-percent shareholder.
+
+#### (B) 10-Percent shareholder
+
+&emsp;&emsp;The term “10-percent shareholder” means—
+
+&emsp;&emsp;&emsp;(i) in the case of an obligation issued by a corporation, any person who owns 10 percent or more of the total combined voting power of all classes of stock of such corporation entitled to vote, or
+
+&emsp;&emsp;&emsp;(ii) in the case of an obligation issued by a partnership, any person who owns 10 percent or more of the capital or profits interest in such partnership.
+
+#### (C) Attribution rules
+
+&emsp;&emsp;For purposes of determining ownership of stock under subparagraph (B)(i) the rules of section 318(a) shall apply, except that—
+
+&emsp;&emsp;&emsp;(i) section 318(a)(2)(C) shall be applied without regard to the 50-percent limitation therein,
+
+&emsp;&emsp;&emsp;(ii) section 318(a)(3)(C) shall be applied—
+
+&emsp;&emsp;&emsp;&emsp;(I) without regard to the 50-percent limitation therein; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in any case where such section would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) which is owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owns in such corporation bears to the value of all stock in such corporation, and
+
+&emsp;&emsp;&emsp;(iii) any stock which a person is treated as owning after application of section 318(a)(4) shall not, for purposes of applying paragraphs (2) and (3) of section 318(a), be treated as actually owned by such person.
+
+> &emsp;&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of the preceding sentence shall be applied in determining the ownership of the capital or profits interest in a partnership for purposes of subparagraph (B)(ii).
+
+#### (4) Portfolio interest not to include certain contingent interest
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term “portfolio interest” shall not include—
+
+&emsp;&emsp;&emsp;(i) any interest if the amount of such interest is determined by reference to—
+
+&emsp;&emsp;&emsp;&emsp;(I) any receipts, sales or other cash flow of the debtor or a related person,
+
+&emsp;&emsp;&emsp;&emsp;(II) any income or profits of the debtor or a related person,
+
+&emsp;&emsp;&emsp;&emsp;(III) any change in value of any property of the debtor or a related person, or
+
+&emsp;&emsp;&emsp;&emsp;(IV) any dividend, partnership distributions, or similar payments made by the debtor or a related person, or
+
+&emsp;&emsp;&emsp;(ii) any other type of contingent interest that is identified by the Secretary by regulation, where a denial of the portfolio interest exemption is necessary or appropriate to prevent avoidance of Federal income tax.
+
+#### (B) Related person
+
+&emsp;&emsp;The term “related person” means any person who is related to the debtor within the meaning of section 267(b) or 707(b)(1), or who is a party to any arrangement undertaken for a purpose of avoiding the application of this paragraph.
+
+#### (C) Exceptions
+
+&emsp;&emsp;Subparagraph (A)(i) shall not apply to—
+
+&emsp;&emsp;&emsp;(i) any amount of interest solely by reason of the fact that the timing of any interest or principal payment is subject to a contingency,
+
+&emsp;&emsp;&emsp;(ii) any amount of interest solely by reason of the fact that the interest is paid with respect to nonrecourse or limited recourse indebtedness,
+
+&emsp;&emsp;&emsp;(iii) any amount of interest all or substantially all of which is determined by reference to any other amount of interest not described in subparagraph (A) (or by reference to the principal amount of indebtedness on which such other interest is paid),
+
+&emsp;&emsp;&emsp;(iv) any amount of interest solely by reason of the fact that the debtor or a related person enters into a hedging transaction to reduce the risk of interest rate or currency fluctuations with respect to such interest,
+
+&emsp;&emsp;&emsp;(v) any amount of interest determined by reference to—
+
+&emsp;&emsp;&emsp;&emsp;(I) changes in the value of property (including stock) that is actively traded (within the meaning of section 1092(d)) other than property described in section 897(c)(1) or (g),
+
+&emsp;&emsp;&emsp;&emsp;(II) the yield on property described in subclause (I), other than a debt instrument that pays interest described in subparagraph (A), or stock or other property that represents a beneficial interest in the debtor or a related person, or
+
+&emsp;&emsp;&emsp;&emsp;(III) changes in any index of the value of property described in subclause (I) or of the yield on property described in subclause (II), and
+
+&emsp;&emsp;&emsp;(vi) any other type of interest identified by the Secretary by regulation.
+
+#### (D) Exception for certain existing indebtedness
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any interest paid or accrued with respect to any indebtedness with a fixed term—
+
+&emsp;&emsp;&emsp;(i) which was issued on or before April 7, 1993, or
+
+&emsp;&emsp;&emsp;(ii) which was issued after such date pursuant to a written binding contract in effect on such date and at all times thereafter before such indebtedness was issued.
+
+#### (5) Certain statements
+
+&emsp;A statement with respect to any obligation meets the requirements of this paragraph if such statement is made by—
+
+&emsp;&emsp;(A) the beneficial owner of such obligation, or
+
+&emsp;&emsp;(B) a securities clearing organization, a bank, or other financial institution that holds customers’ securities in the ordinary course of its trade or business.
+
+> &emsp;The preceding sentence shall not apply to any statement with respect to payment of interest on any obligation by any person if, at least one month before such payment, the Secretary has published a determination that any statement from such person (or any class including such person) does not meet the requirements of this paragraph.
+
+#### (6) Secretary may provide subsection not to apply in cases of inadequate information exchange
+
+#### (A) In general
+
+&emsp;&emsp;If the Secretary determines that the exchange of information between the United States and a foreign country is inadequate to prevent evasion of the United States income tax by United States persons, the Secretary may provide in writing (and publish a statement) that the provisions of this subsection shall not apply to payments of interest to any person within such foreign country (or payments addressed to, or for the account of, persons within such foreign country) during the period—
+
+&emsp;&emsp;&emsp;(i) beginning on the date specified by the Secretary, and
+
+&emsp;&emsp;&emsp;(ii) ending on the date that the Secretary determines that the exchange of information between the United States and the foreign country is adequate to prevent the evasion of United States income tax by United States persons.
+
+#### (B) Exception for certain obligations
+
+&emsp;&emsp;Subparagraph (A) shall not apply to the payment of interest on any obligation which is issued on or before the date of the publication of the Secretary's determination under such subparagraph.
+
+#### (7) Registered form
+
+&emsp;For purposes of this subsection, the term “registered form” has the same meaning given such term by section 163(f).
+
+#### (i) Tax not to apply to certain interest and dividends
+
+#### (1) In general
+
+&emsp;No tax shall be imposed under paragraph (1)(A) or (1)(C) of subsection (a) on any amount described in paragraph (2).
+
+#### (2) Amounts to which paragraph (1) applies
+
+&emsp;The amounts described in this paragraph are as follows:
+
+&emsp;&emsp;(A) Interest on deposits, if such interest is not effectively connected with the conduct of a trade or business within the United States.
+
+&emsp;&emsp;(B) A percentage of any dividend paid by a domestic corporation meeting the 80-percent foreign business requirements of section 861(c)(1) equal to the percentage determined for purposes of section 861(c)(2)(A).
+
+&emsp;&emsp;(C) Income derived by a foreign central bank of issue from bankers’ acceptances.
+
+#### (3) Deposits
+
+&emsp;For purposes of paragraph (2), the term “deposits” means amounts which are—
+
+&emsp;&emsp;(A) deposits with persons carrying on the banking business,
+
+&emsp;&emsp;(B) deposits or withdrawable accounts with savings institutions chartered and supervised as savings and loan or similar associations under Federal or State law, but only to the extent that amounts paid or credited on such deposits or accounts are deductible under section 591 (determined without regard to sections 265 and 291) in computing the taxable income of such institutions, and
+
+&emsp;&emsp;(C) amounts held by an insurance company under an agreement to pay interest thereon.
+
+#### (j) Exemption for certain gambling winnings
+
+No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds from a wager placed in any of the following games: blackjack, baccarat, craps, roulette, or big-6 wheel. The preceding sentence shall not apply in any case where the Secretary determines by regulation that the collection of the tax is administratively feasible.
+
+#### (k) Cross references
+
+&emsp;&emsp;<b>(1) For tax treatment of certain amounts distributed by the United States to nonresident alien individuals, see section 402(e)(2).</b>
+
+&emsp;&emsp;<b>(2) For taxation of nonresident alien individuals who are expatriate United States citizens, see section 877.</b>
+
+&emsp;&emsp;<b>(3) For doubling of tax on citizens of certain foreign countries, see section 891.</b>
+
+&emsp;&emsp;<b>(4) For adjustment of tax in case of nationals or residents of certain foreign countries, see section 896.</b>
+
+&emsp;&emsp;<b>(5) For withholding of tax at source on nonresident alien individuals, see section 1441.</b>
+
+&emsp;&emsp;<b>(6) For election to treat married nonresident alien individual as resident of United States in certain cases, see subsections (g) and (h) of section 6013.</b>
+
+&emsp;&emsp;<b>(7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 104–188, title I, §1401(b)(10), (c), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (b)(1) of this section is amended by striking “section 1, 55, or 402(d)(1)” and inserting “section 1 or 55”.</i>
+
+#### References in Text
+
+Section 207 of the Social Security Act, referred to in subsec. (a)(3)(A), is classified to section 407 of Title 42, The Public Health and Welfare.
+
+Section 932(c), referred to in subsec. (a)(3), was repealed and a new section 932(c) of this title, which does not relate to taxation of social security benefits, was enacted by Pub. L. 99–514, title XII, §§1272(d)(1), 1274(a), Oct. 22, 1986, 100 Stat. 2594, 2596.
+
+The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+
+#### Amendments
+
+1998—Subsec. (f)(2)(B). Pub. L. 105–206 substituted “19 U.S.C. 2461 et seq.)” for “(19 U.S.C. 2462)”.
+
+1996—Subsec. (f)(2)(B). Pub. L. 104–188, §1954(b)(1), substituted “under title V” for “within the meaning of section 502”.
+
+1994—Subsec. (a)(3)(A). Pub. L. 103–465 substituted “85 percent” for “one-half”.
+
+Subsec. (c). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” in two places.
+
+1993—Subsec. (a)(2). Pub. L. 103–66, §13113(d)(5), inserted “such gains and losses shall be determined without regard to section 1202 and” after “except that” in second sentence.
+
+Subsec. (h)(2)(B)(ii). Pub. L. 103–66, §13237(c)(1), substituted “paragraph (5)” for “paragraph (4)”.
+
+Subsec. (h)(4) to (7). Pub. L. 103–66, §13237(a)(1), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
+1992—Subsec. (a)(1)(B). Pub. L. 102–318, §521(b)(28), struck out “402(a)(2), 403(a)(2), or” before “631(b)”.
+
+Subsec. (b)(1). Pub. L. 102–318, §521(b)(29), substituted “402(d)(1)” for “402(e)(1)”.
+
+Subsec. (k)(1). Pub. L. 102–318, §521(b)(30), substituted “402(e)(2)” for “402(a)(4)”.
+
+1988—Subsec. (c). Pub. L. 100–647, §1001(d)(2)(B), substituted “the second sentence of section 1441(b)” for “section 1441(b)(1) or (2)”, and “(F), (J), or (M)” for “(F) or (J)” in two places.
+
+Subsecs. (j), (k). Pub. L. 100–647, §6134(a)(1), added subsec. (j) and redesignated former subsec. (j) as (k).
+
+1986—Subsec. (a)(1). Pub. L. 99–514, §1810(d)(3)(A), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
+
+Subsec. (a)(1)(C). Pub. L. 99–514, §1810(e)(2)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “in the case of—
+
+&emsp;“(i) a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
+
+&emsp;“(ii) the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and”.
+
+Subsec. (a)(1)(D). Pub. L. 99–514, §1211(b)(4), struck out “or from payments which are treated as being so contingent under subsection (e),” after “sold or exchanged,”.
+
+Subsec. (a)(2). Pub. L. 99–514, §301(b)(9), struck out “such gains and losses shall be determined without regard to section 1202 (relating to deduction for capital gains) and” after “United States, except that”.
+
+Subsec. (a)(3). Pub. L. 99–272 inserted at end “For treatment of certain citizens of possessions of the United States, see section 932(c).”
+
+Subsec. (e). Pub. L. 99–514, §1211(b)(5), struck out subsec. (e) which related to gains from sale or exchange of certain intangible property, par. (1) treating payments as contingent on use, etc., and par. (2) containing source rule.
+
+Subsec. (h)(2). Pub. L. 99–514, §1810(d)(1)(A), (3)(B), inserted “which would be subject to tax under subsection (a) but for this subsection and” in introductory provisions and substituted “receives a statement” for “has received a statement” in subpar. (B)(ii).
+
+Subsec. (h)(3)(C)(ii), (iii). Pub. L. 99–514, §1810(d)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsecs. (i), (j). Pub. L. 99–514, §1214(c)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
+
+1984—Subsec. (a)(1). Pub. L. 98–369, §127(a)(2), substituted “Except as provided in subsection (i), there” for “There”.
+
+Subsec. (a)(1)(A). Pub. L. 98–369, §42(a)(9), substituted “section 1273” for “section 1232(b)”.
+
+Subsec. (a)(1)(C). Pub. L. 98–369, §128(a)(1), amended subpar. (C) generally, substituting in cl. (i), “a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and” for “bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, substituting in cl. (ii), “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and” for “bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and”, and striking out cl. (iii) which required that in the case of the payment of interest on an obligation described in cl. (ii), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by subpar. (A) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
+
+Subsec. (g). Pub. L. 98–369, §128(a)(2), added subsec. (g). Former subsec. (g), relating to cross references, redesignated (h).
+
+Subsec. (g)(6) to (8). Pub. L. 98–369, §412(b)(1), amended subsec. (g), relating to cross references, by striking out par. (6) referring to section 6015(j) for the requirement of making a declaration of estimated tax by certain nonresident alien individuals and redesignating pars. (7) and (8) as (6) and (7), respectively.
+
+Subsec. (h). Pub. L. 98–369, §127(a), added subsec. (h). Former subsec. (h), relating to cross references, redesignated (i).
+
+Pub. L. 98–369, §128(a)(2), redesignated subsec. (g), relating to cross references, as (h).
+
+Subsec. (i). Pub. L. 98–369, §127(a)(1), redesignated subsec. (h), relating to cross references, as (i).
+
+1983—Subsec. (a)(3). Pub. L. 98–21, §121(c)(1), added par. (3).
+
+Subsec. (a)(3)(A). Pub. L. 98–21, §335(b)(2)(B), inserted “(notwithstanding section 207 of the Social Security Act)” after “income”.
+
+1981—Subsec. (g)(6). Pub. L. 97–34 substituted “6015(j)” for “6015(i)”.
+
+1980—Subsec. (b)(1). Pub. L. 96–222 substituted “55” for “section 55”.
+
+Subsec. (f). Pub. L. 96–605 designated existing provision as par. (1), inserted heading “In general” and redesignated par. (1) as subpar. (A), cls. (A) and (B) of subpar. (A) as so redesignated as cls. (i) and (ii), and par. (2) as subpar. (B), and added par. (2).
+
+Subsec. (g)(8). Pub. L. 96–499 added par. (8).
+
+1978—Subsec. (b)(1). Pub. L. 95–600, §§401(b)(3), 421(e)(4), substituted “section 1, section 55, or 402(e)(1)” for “section 1, 402(e)(1), or 1201(b)”.
+
+1976—Subsec. (a)(1)(C)(i), (ii). Pub. L. 94–455, §1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+
+Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”, each time appearing.
+
+Subsec. (g)(7). Pub. L. 94–455, §1012(a)(2), added par. (7).
+
+1974—Subsec. (b)(1). Pub. L. 93–406 inserted reference to section 402(e)(1).
+
+1971—Subsec. (a)(1)(A). Pub. L. 92–178, §313(a), inserted “(other than original issue discount as defined in section 1232(b))” after “interest”.
+
+Subsec. (a)(1)(C). Pub. L. 92–178, §313(b), designated existing provisions as cl. (i), inserted “and before April 1, 1972,” after “September 28, 1965,”, substituted “section 1232(a)(2)(B)” for “section 1232”, and inserted “, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, and added cls. (ii) and (iii).
+
+1966—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part of the consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the United States, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
+
+Subsec. (c). Pub. L. 89–809 redesignated subsec. (d) as (c) and inserted provisions that any income described in section 1441(b)(1) or (2) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States. Substance of former subsec. (c) revised and incorporated into subsecs. (a) and (b).
+
+Subsecs. (d) to (f). Pub. L. 89–809 added subsecs. (d) to (f) and redesignated former subsecs. (d) and (e) as (c) and (g), respectively.
+
+Subsec. (g). Pub. L. 89–809 redesignated former subsec. (e) as (g), added pars. (2) and (4) to (6), and redesignated former pars. (1) and (2) as (3) and (1), respectively.
+
+1964—Subsec. (a). Pub. L. 88–272, §113(b)(2), substituted “30 percent tax” for “and gross income of not more than $15,400” in heading.
+
+Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted “$19,000 in the case of a taxable year beginning in 1964 or more than $21,200 in the case of a taxable year beginning after 1964” for “$15,400”, “the credit under section 35” for “the sum of the credits under sections 34 and 35” in text, and “Regular tax” for “and gross income of more than $15,400” in heading.
+
+1961—Subsecs. (d), (e). Pub. L. 87–256 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+1960—Subsec. (d). Pub. L. 86–437 substituted “Cross references” for “Doubling of tax” in heading, and inserted cross reference to section 402(a)(4).
+
+1958—Subsec. (a)(1). Pub. L. 85–866, §40(a), inserted “section 403(a)(2),” after “section 402(a)(2),”.
+
+Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under section 116 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1401(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+
+Amendment by section 1954(b)(1) of Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of Title 19, Customs Duties.
+
+#### Effective Date of 1994 Amendments
+
+Section 733(b) of Pub. L. 103–465 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits paid after December 31, 1994, in taxable years ending after such date.”
+
+Section 320(c) of Pub. L. 103–296 provided that: “The amendments made by this subsection \[probably means this section, which amended this section, sections 872, 1441, 3121, 3231, 3306, and 7701 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall take effect with the calendar quarter following the date of the enactment of this Act \[Aug. 15, 1994\].”
+
+#### Effective Date of 1993 Amendment
+
+Amendment by section 13113(d)(5) of Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
+
+Section 13237(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after December 31, 1993; except that the amendments made by subsection (b) \[amending section 2105 of this title\] shall apply to the estates of decedents dying after December 31, 1993.”
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by section 1001(d)(2)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+Section 6134(b) of Pub. L. 100–647 provided that: “The amendments made by subsection (a) \[amending this section and section 1441 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+
+#### Effective Date of 1986 Amendments
+
+Amendment by section 301(b)(9) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
+
+Amendment by section 1211(b)(4), (5) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
+
+Amendment by section 1214(c)(1) of Pub. L. 99–514 applicable to payments made in taxable year of payor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
+
+Amendment by section 1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+
+Section 12103(c) of Pub. L. 99–272 provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.”
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 42(a)(9) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+
+Section 127(g) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6128(a), Nov. 10, 1988, 102 Stat. 3716, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 163, 864, 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after such date, in taxable years ending after such date.
+
+“(2)
+
+Subsection (d).—The amendment made by subsection (d) \[amending section 2105 of this title\] shall apply to obligations issued after the date of the enactment of this Act \[July 18, 1984\] with respect to the estates of decedents dying after such date.
+
+“(3)
+
+Special rule for certain united states affiliate obligations.—
+
+&emsp;“(A)
+
+In general.—For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], payments of interest on a United States affiliate obligation to an applicable CFC in existence on or before June 22, 1984, shall be treated as payments to a resident of the country in which the applicable CFC is incorporated.
+
+&emsp;“(B)
+
+Exception.—Subparagraph (A) shall not apply to any applicable CFC which did not meet requirements which are based on the principles set forth in Revenue Rulings 69–501, 69–377, 70–645, and 73–110 as such principles are applied in Revenue Ruling 86–6, except that the maximum debt-to-equity ratio described in such Revenue Rulings shall be increased from 5-to-1 to 25-to-1.
+
+&emsp;“(C)
+
+Definitions.—
+
+&emsp;&emsp;“(i) The term ‘applicable CFC’ has the meaning given such term by section 121(b)(2)(D) of this Act \[set out as a note under section 904 of this title\], except that such section shall be applied by substituting ‘the date of interest payment’ for ‘March 31, 1984,’ in clause (i) thereof.
+
+&emsp;&emsp;“(ii) The term ‘United States affiliate obligation’ means an obligation described in section 121(b)(2)(F) of this Act \[set out as a note under section 904 of this title\] which was issued before June 22, 1984.”
+
+\[Section 6128(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending section 127(g) of Pub. L. 98–369, set out above\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”\]
+
+Section 128(d) of Pub. L. 98–369 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 163 and 881 of this title\] shall apply to payments made on or after the 60th day after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after March 31, 1972.
+
+“(2)
+
+Subsection (c).—The amendment made by subsection (c) \[amending section 163 of this title\] shall apply to obligations issued after June 9, 1984.”
+
+Amendment by section 412(b)(1) of Pub. L. 98–369 applicable with respect to taxable years beginning after Dec. 31, 1984, see section 414(a)(1) of Pub. L. 98–369, set out as a note under section 6654 of this title.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by section 121(c)(1) of Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under section 86 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Section 725(d) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 6015, 6153, 6654, and 7701 of this title\] shall apply to estimated tax for taxable years beginning after December 31, 1980.”
+
+#### Effective Date of 1980 Amendments
+
+Section 227(b) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after July 1, 1979.”
+
+Amendment by Pub. L. 96–499 applicable to dispositions after June 18, 1980, see section 1125(a) of Pub. L. 96–499, set out as an Effective Date note under section 897 of this title.
+
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by section 401(b)(3) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+
+Amendment by section 421(e)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by section 1012(a)(2) of Pub. L. 94–455 applicable to taxable years ending on or after Dec. 31, 1975, see section 1012(d) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+
+Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+
+#### Effective Date of 1974 Amendment
+
+Amendment by Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
+
+#### Effective Date of 1971 Amendment
+
+Section 313(f) of Pub. L. 92–178, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments to section 871 and 881 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by this section shall apply with respect to taxable years beginning after December 31, 1966. The amendments to sections 1441 and 1442 of such Code made by this section shall apply with respect to payments occurring on or after April 1, 1972.”
+
+#### Effective Date of 1966 Amendment
+
+Section 103(n) of Pub. L. 89–809 provided that:
+
+“(1) The amendments made by this section (other than the amendments made by subsections (h), (i), and (k)) \[amending this section and sections 1, 116, 154, 872 to 874, 875, 932, 6015, and 7701 of this title, redesignating section 877 as 878, enacting section 877 of this title, and repealing section 1493 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.
+
+“(2) The amendments made by subsection (h) \[amending section 1441 of this title\] shall apply with respect to payments made in taxable years of recipients beginning after December 31, 1966.
+
+“(3) The amendments made by subsection (i) \[amending section 1461 of this title\] shall apply with respect to payments occurring after December 31, 1966.
+
+“(4) The amendments made by subsection (k) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after December 31, 1966.”
+
+#### Effective Date of 1964 Amendment
+
+Amendment by section 113(b)(1) of Pub. L. 88–272 effective, except for purposes of section 21 of this title, with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
+
+Amendment by section 201(d)(12) of Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 37 of this title.
+
+#### Effective Date of 1961 Amendment
+
+Amendment by Pub. L. 87–256 applicable to taxable years beginning after Dec. 31, 1961, see section 110(h)(1) of Pub. L. 87–256, set out as a note under section 117 of this title.
+
+#### Effective Date of 1960 Amendment
+
+Amendment by Pub. L. 86–437 applicable only with respect to taxable years beginning after Dec. 31, 1959, see section 3 of Pub. L. 86–437, set out as a note under section 402 of this title.
+
+#### Effective Date of 1958 Amendment
+
+Section 40(c) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendments made by subsection (b) \[amending section 1441 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
+
+Section 41(c) of Pub. L. 85–866 provided that: “The amendments made by this section \[amending this section and section 35 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957.”
+
+#### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
+
+For nonapplication of amendments by sections 1211(b)(4), (5) and 1214(c)(1) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effecton Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1994
+
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Cross References
+
+Consent dividends, nonresident aliens and foreign corporations, see section 565 of this title.
+
+Dispositions of certain stock, source of gain, see section 306 of this title.
+
+Income tax returns, persons required to make returns of income, see section 6012 of this title.
+
+Judicial proceedings, production of records in case of foreign corporations, foreign trusts or estates and nonresident alien individuals, see section 7456 of this title.
+
+Nonresident alien ineligible for credit for the elderly and the permanently and totally disabled, see section 22 of this title.
+
+Time for filing income tax returns, nonresident aliens and foreign corporations, see section 6072 of this title.
+
+Withholding tax on—
+
+&emsp;Foreign corporations, see section 1442 of this title.
+
+&emsp;Nonresident aliens, see section 1441 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2, 5, 26, 32, 306, 860G, 861, 864, 873, 877, 881, 882, 884, 887, 891, 897, 906, 1235, 1276, 1278, 1441, 1442, 1444, 1445, 2105, 6012, 6049, 7701 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by an opening parenthesis.</i>
+

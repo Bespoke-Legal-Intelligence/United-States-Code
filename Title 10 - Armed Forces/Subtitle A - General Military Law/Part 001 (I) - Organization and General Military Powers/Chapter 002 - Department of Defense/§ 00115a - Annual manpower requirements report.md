@@ -1,6 +1,6 @@
 ### §115a. Annual manpower requirements report
 
-(a) The Secretary of Defense shall submit to Congress, not later than February 15 of each fiscal year, an annual manpower requirements report. The report shall be in writing and shall contain the Secretary's recommendations for—
+(a) The Secretary of Defense shall submit to Congress an annual manpower requirements report. The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report shall contain the Secretary's recommendations for—
 
 &emsp;(1) the annual active-duty end-strength level for each component of the armed forces for the next fiscal year; and
 
@@ -72,13 +72,15 @@
 
 &emsp;&emsp;(B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 of each fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
 
 1997—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted “(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)” after “of the following” in introductory provisions.
 

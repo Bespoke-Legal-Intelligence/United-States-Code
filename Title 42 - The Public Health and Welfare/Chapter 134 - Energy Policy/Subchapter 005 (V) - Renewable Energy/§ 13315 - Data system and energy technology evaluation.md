@@ -6,7 +6,7 @@ The Secretary of Commerce, in his or her role as a member of the interagency wor
 
 &emsp;(2) make such information available to industry, Federal and multilateral lending agencies, nongovernmental organizations, host-country and donor-agency officials, and such others as the Secretary of Commerce considers necessary; and
 
-&emsp;(3) prepare and transmit to the Congress not later than June 1, 1993, and biennially thereafter, a comprehensive report evaluating thefull range of energy and environmental technologies necessary to meet the energy needs of foreign countries, including—
+&emsp;(3) prepare and transmit to the Congress not later than June 1, 1993, and biennially thereafter, a comprehensive report evaluating the full range of energy and environmental technologies necessary to meet the energy needs of foreign countries, including—
 
 &emsp;&emsp;(A) information on the specific energy needs of foreign countries;
 

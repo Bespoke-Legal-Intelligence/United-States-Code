@@ -1,0 +1,13 @@
+Part E—Minority Science and Engineering Improvement Program
+
+#### Part Referred to in Other Sections
+
+This part is referred to in sections 1068, 1068h of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Subpart 001 - Minority Science and Engineering Improvement Program](Subpart%20001%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/README.md)
+- [Subpart 002 - Administrative and General Provisions](Subpart%20002%20-%20Administrative%20and%20General%20Provisions/README.md)

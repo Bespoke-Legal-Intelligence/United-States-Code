@@ -20,7 +20,7 @@ The Corporation shall transfer to the private corporation the right to purchase 
 
 &emsp;(A) the private corporation shall be responsible for any obligation arising under such contract, agreement, or lease after any extension or material amendment, and
 
-&emsp;(B) the United States shall be responsible for any obligation arising under the contract,agreement, or lease before the termination, extension, or material amendment.
+&emsp;(B) the United States shall be responsible for any obligation arising under the contract, agreement, or lease before the termination, extension, or material amendment.
 
 (3) The private corporation shall reimburse the United States for any amount paid by the United States under a settlement agreement entered into with the consent of the private corporation or under a judgment, if the settlement or judgment—
 

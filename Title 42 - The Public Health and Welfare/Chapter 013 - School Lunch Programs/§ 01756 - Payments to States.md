@@ -16,9 +16,9 @@ The Secretary shall certify to the Secretary of the Treasury, from time to time,
 
 #### (d) Combined Federal and State commodity purchases
 
-Notwithstanding any other provision of law, the Secretary may enter into an agreement with a State agency, acting on the request of a school food service authority, under which funds payable to the State under section 1753 or 1759a of this title may be used by the Secretary for thepurpose of purchasing commodities for use by the school food service authority in meals served under the school lunch program under this chapter.
+Notwithstanding any other provision of law, the Secretary may enter into an agreement with a State agency, acting on the request of a school food service authority, under which funds payable to the State under section 1753 or 1759a of this title may be used by the Secretary for the purpose of purchasing commodities for use by the school food service authority in meals served under the school lunch program under this chapter.
 
-(June 4, 1946, ch. 281, §7, 60 Stat. 232; May 14, 1970, Pub. L. 91–248, §4, 84 Stat. 209; Sept. 26, 1972, Pub. L. 92–433, §10, 86 Stat. 731; Oct. 7, 1975, Pub. L. 94–105, §5, 89 Stat. 511; Nov. 10, 1977, Pub. L. 95–166, §19(b), 91 Stat. 1345; Aug. 13, 1981, Pub. L. 97–35, title VIII, §804, 95 Stat. 526; Nov. 10, 1989, Pub. L. 101–147, title III, §303, 103 Stat. 913; Nov. 2, 1994, Pub. L. 103–448, title I, §104, 108 Stat. 4701.)
+(June 4, 1946, ch. 281, §7, 60 Stat. 232; Pub. L. 91–248, §4, May 14, 1970, 84 Stat. 209; Pub. L. 92–433, §10, Sept. 26, 1972, 86 Stat. 731; Pub. L. 94–105, §5, Oct. 7, 1975, 89 Stat. 511; Pub. L. 95–166, §19(b), Nov. 10, 1977, 91 Stat. 1345; Pub. L. 97–35, title VIII, §804, Aug. 13, 1981, 95 Stat. 526; Pub. L. 101–147, title III, §303, Nov. 10, 1989, 103 Stat. 913; Pub. L. 103–448, title I, §104, Nov. 2, 1994, 108 Stat. 4701.)
 
 #### Amendments
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Secretary may enter into an agre
 
 Subsec. (a)(2). Pub. L. 101–147, §303(b), substituted “the” for “the the” before “school year beginning”.
 
-1981—Subsec. (a). Pub. L. 97–35 designated existing provisions as subsec. (a) and substituted provisions relating to funds appropriated to carry out section 1753 of this title during any fiscal year, for provisions relating to funds appropriated to carry out sections 1753 and 1754 of this title during any fiscal year.
+1981—Subsec. (a). Pub. L. 97–35 designated existing provisions as subsec. (a) and substituted provisions relating to funds appropriated to carry out section 1753 ofthis title during any fiscal year, for provisions relating to funds appropriated to carry out sections 1753 and 1754 of this title during any fiscal year.
 
 Subsecs. (b), (c). Pub. L. 97–35 added subsecs. (b) and (c).
 
@@ -54,5 +54,5 @@ Section 19 of Pub. L. 95–166 provided that the amendment made by that section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1755, 1759a of this title.
+This section is referred to in section 1759a of this title.
 

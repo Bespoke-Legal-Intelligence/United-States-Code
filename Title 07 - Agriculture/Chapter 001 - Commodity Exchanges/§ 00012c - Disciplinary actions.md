@@ -24,7 +24,7 @@ The Commission, in its discretion, may order a stay of any action taken pursuant
 
 (2) The regulations issued by the Commission pursuant to this subsection shall prohibit, for a period of time to be determined by the Commission, any individual who is found to have committed any major violation from service on the governing board of any contract market or registered futures association, or on any disciplinary committee thereof.
 
-(Sept. 21, 1922, ch. 369, §8c, as added Oct. 23, 1974, Pub. L. 93–463, title II, §216, 88 Stat. 1405; amended Sept. 30, 1978, Pub. L. 95–405, §18, 92 Stat. 874; Oct. 28, 1992, Pub. L. 102–546, title II, §206(a)(2), 106 Stat. 3602.)
+(Sept. 21, 1922, ch. 369, §8c, as added Pub. L. 93–463, title II, §216, Oct. 23, 1974, 88 Stat. 1405; amended Pub. L. 95–405, §18, Sept. 30, 1978, 92 Stat. 874; Pub. L. 102–546, title II, §206(a)(2), Oct. 28, 1992, 106 Stat. 3602.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment of a Receiver.—If the requirements of section 3101 are satisfied, a courtmay appoint a receiver for property in which the debtor has a substantial nonexempt interest if the United States shows reasonable cause to believe that there is a substantial danger that the property will be removed from the jurisdiction of the court, lost, concealed, materially injured or damaged, or mismanaged.
+Appointment of a Receiver.—If the requirements of section 3101 are satisfied, a court may appoint a receiver for property in which the debtor has a substantial nonexempt interest if the United States shows reasonable cause to believe that there is a substantial danger that the property will be removed from the jurisdiction of the court, lost, concealed, materially injured or damaged, or mismanaged.
 
 (b)
 
@@ -18,7 +18,7 @@ Powers of Receiver.—(1) The appointing court may authorize a receiver—
 
 (c)
 
-Duration of Receivership.—A receivership shall not continue past the entry of judgment, or the conclusion of an appeal of such judgment, unless the court orders it continued under section 3203(e) or unless the court otherwise directs its continuation.
+Duration of Receivership.—A receivership shall not continue past the entry of judgment,or the conclusion of an appeal of such judgment, unless the court orders it continued under section 3203(e) or unless the court otherwise directs its continuation.
 
 (d)
 

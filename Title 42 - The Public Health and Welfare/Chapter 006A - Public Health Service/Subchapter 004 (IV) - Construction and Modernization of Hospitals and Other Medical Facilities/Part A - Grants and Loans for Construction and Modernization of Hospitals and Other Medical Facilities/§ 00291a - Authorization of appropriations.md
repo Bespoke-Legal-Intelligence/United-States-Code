@@ -14,7 +14,7 @@ In order to assist the States in carrying out the purposes of section 291 of thi
 
 &emsp;(c) for grants for modernization of the facilities referred to in paragraphs (a) and (b), $65,000,000 for the fiscal year ending June 30, 1971, $80,000,000 for the fiscal year ending June 30, 1972, $90,000,000 for the fiscal year ending June 30, 1973, and $50,000,000 for the fiscal year ending June 30, 1974.
 
-(July 1, 1944, ch. 373, title VI, §601, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 448; amended Oct. 15, 1968, Pub. L. 90–574, title IV, §402(a), 82 Stat. 1011; June 30, 1970, Pub. L. 91–296, title I, §§101(a), 102(a), 116(a), 84 Stat. 337, 341; June 18, 1973, Pub. L. 93–45, title I, §108(a), 87 Stat. 92.)
+(July 1, 1944, ch. 373, title VI, §601, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 448; amended Pub. L. 90–574, title IV, §402(a), Oct. 15, 1968, 82 Stat. 1011; Pub. L. 91–296, title I, §§101(a), 102(a), 116(a), June 30, 1970, 84 Stat. 337, 341; Pub. L. 93–45, title I, §108(a), June 18, 1973, 87 Stat. 92.)
 
 #### Prior Provisions
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 93–45, §108(a)(2), authorized appropriations of $41,400,
 
 Subsec. (c). Pub. L. 93–45, §108(a)(3), authorized appropriations of $50,000,000 for fiscal year ending June 30, 1974.
 
-1970—Par. (a). Pub. L. 91–296, §§101(a)(1), (2), 116(a), substituted “outpatient facilities” for “diagnostic or treatment centers” in enumeration of facilities eligible for construction grants, extended through fiscal year ending June 30, 1973, authority to appropriate funds for construction grants, increased from $70,000,000 to$85,000,000 annual authority to make grants for public or other nonprofit facilities for long-term care, from $20,000,000 to $70,000,000 authority for public or other nonprofit outpatient facilities, and from $10,000,000 to $15,000,000 authority for public or other nonprofit rehabilitation facilities.
+1970—Par. (a). Pub. L. 91–296, §§101(a)(1), (2), 116(a), substituted “outpatient facilities” for “diagnostic or treatment centers” in enumeration of facilities eligible for construction grants, extended through fiscal year ending June 30, 1973, authority to appropriate funds for construction grants, increased from $70,000,000 to $85,000,000 annual authority to make grants for public or other nonprofit facilities for long-term care, from $20,000,000 to $70,000,000 authority for public or other nonprofit outpatient facilities, and from $10,000,000 to$15,000,000 authority for public or other nonprofit rehabilitation facilities.
 
 Par. (b). Pub. L. 91–296, §§101(a)(3), 102(a)(1), struck out provisions authorizing grants for modernization of facilities and inserted provisions authorizing appropriation of $147,500,000 for fiscal year ending June 30, 1971, $152,500,000 for fiscal year ending June 30, 1972, and $157,500,000 for fiscal year ending June 30, 1973, for grants for construction of public or other nonprofit hospitals and public health centers
 

@@ -2,7 +2,7 @@
 
 There shall be within the Foundation such Divisions as the Director, in consultation with the Board, may from time to time determine.
 
-(May 10, 1950, ch. 171, §8, formerly §7, 64 Stat. 152; renumbered §8 and amended July 18, 1968, Pub. L. 90–407, §§4, 6, 82 Stat. 363, 364.)
+(May 10, 1950, ch. 171, §8, formerly §7, 64 Stat. 152; renumbered §8 and amended Pub. L. 90–407, §§4, 6, July 18, 1968, 82 Stat. 363, 364.)
 
 #### Prior Provisions
 

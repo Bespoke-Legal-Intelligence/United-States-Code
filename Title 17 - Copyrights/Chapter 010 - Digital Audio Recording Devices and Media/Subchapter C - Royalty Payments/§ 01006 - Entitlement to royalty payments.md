@@ -6,7 +6,7 @@ Interested Copyright Parties.—The royalty payments deposited pursuant to secti
 
 &emsp;(1) whose musical work or sound recording has been—
 
-&emsp;&emsp;(A) embodied in a digital musical recording or an analog musical recording lawfullymade under this title that has been distributed, and
+&emsp;&emsp;(A) embodied in a digital musical recording or an analog musical recording lawfully made under this title that has been distributed, and
 
 &emsp;&emsp;(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) entering, or serving in, the armed forces of a foreign state if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or
 
-&emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
+&emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or apolitical subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
 
 &emsp;(5) making a formal renunciation of nationality before a diplomatic or consular officer of the United States in a foreign state, in such form as may be prescribed by the Secretary of State; or
 
@@ -18,7 +18,7 @@
 
 (b) Whenever the loss of United States nationality is put in issue in any action or proceeding commenced on or after September 26, 1961 under, or by virtue of, the provisions of this chapter or any other Act, the burden shall be upon the person or party claiming that such loss occurred, to establish such claim by a preponderance of the evidence. Any person who commits or performs, or who has committed or performed, any act of expatriation under the provisions of this chapter or any other Act shall be presumed to have done so voluntarily, but such presumption may be rebutted upon a showing, by a preponderance of the evidence, that the act or acts committed or performed were not done voluntarily.
 
-(June 27, 1952, ch. 477, title III, ch. 3, §349, 66 Stat. 267; Sept. 3, 1954, ch. 1256, §2, 68 Stat. 1146; Sept. 26, 1961, Pub. L. 87–301, §19, 75 Stat. 656; Sept. 14, 1976, Pub. L. 94–412, title V, §501(a), 90 Stat. 1258; Oct. 10, 1978, Pub. L. 95–432, §§2, 4, 92 Stat. 1046; Dec. 29, 1981, Pub. L. 97–116, §18(k)(2), (q), 95 Stat. 1620, 1621; Nov. 14, 1986, Pub. L. 99–653, §§18, 19, 100 Stat. 3658; Oct. 24, 1988, Pub. L. 100–525, §§8(m), (n), 9(hh), 102 Stat. 2618, 2622.)
+(June 27, 1952, ch. 477, title III, ch. 3, §349, 66 Stat. 267; Sept. 3, 1954, ch. 1256, §2, 68 Stat. 1146; Pub. L. 87–301, §19, Sept. 26, 1961, 75 Stat. 656; Pub. L. 94–412, title V, §501(a), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 95–432, §§2, 4, Oct. 10, 1978, 92 Stat. 1046; Pub. L. 97–116, §18(k)(2), (q), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §§18, 19, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §§8(m), (n), 9(hh), Oct. 24, 1988, 102 Stat. 2618, 2622.)
 
 #### References in Text
 
@@ -108,5 +108,5 @@ Treason, sedition and subversive activities, see section 2381 et seq. of Title 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1483 of this title; title 26 section 6039F.
+This section is referred to in section 1483 of this title; title 26 section 6039G.
 

@@ -106,7 +106,7 @@ Section 1203(e) of title 6, District of Columbia Code, referred to in subsec. (a
 
 1979—Subsec. (a)(1). Pub. L. 96–60 struck out reference to section 1434 of title 22.
 
-1978—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil ServiceCommission” and “Office” for “Commission” wherever appearing.
+1978—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
 1971—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
 
@@ -120,7 +120,7 @@ Section 1(b) of Pub. L. 97–412 provided that: “The authority granted in subs
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Date note under section 1469 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Datenote under section 1469 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

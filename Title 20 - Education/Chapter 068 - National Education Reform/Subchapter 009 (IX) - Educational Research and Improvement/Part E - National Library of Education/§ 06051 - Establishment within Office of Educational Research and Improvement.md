@@ -100,7 +100,7 @@ The Library shall be administered by an Executive Director who shall—
 
 #### (4) Report
 
-&emsp;The Task Force shall prepare and submit to the Assistant Secretary not later than 6 months after the first meeting of the Task Force a report on the activities of the Library.
+&emsp;The Task Force shall prepare and submit to the Assistant Secretary not later than 6months after the first meeting of the Task Force a report on the activities of the Library.
 
 #### (i) Transfer of functions
 

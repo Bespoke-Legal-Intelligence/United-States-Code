@@ -18,3 +18,7 @@ Notwithstanding section 1342 of title 31, the Secretary is authorized to accept 
 
 A prior section 1402, Pub. L. 91–230, title VI, §603, Apr. 13, 1970, 84 Stat. 177; Pub. L. 93–380, title VI, §612(a), Aug. 21, 1974, 88 Stat. 579; Pub. L. 98–199, §3(a), Dec. 2, 1983, 97 Stat. 1357; Pub. L. 101–476, title IX, §901(b)(21), Oct. 30, 1990, 104 Stat. 1143; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to the Office of Special Education Programs, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 29 section 772.
+

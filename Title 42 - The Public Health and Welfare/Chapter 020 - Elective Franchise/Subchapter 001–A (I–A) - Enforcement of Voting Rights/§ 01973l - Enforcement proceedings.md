@@ -2,7 +2,7 @@
 
 #### (a) Criminal contempt
 
-All cases of criminal contempt arising under the provisions of subchapters I–A to I–C of this chapter shall be governed by section 1995 of this title.
+All cases of criminal contempt arising under the provisions of subchapters I–A to I–C of thischapter shall be governed by section 1995 of this title.
 
 #### (b) Jurisdiction of courts for declaratory judgment, restraining orders, or temporary or permanent injunction
 
@@ -10,7 +10,7 @@ No court other than the District Court for the District of Columbia or a court o
 
 #### (c) Definitions
 
-(1) The terms “vote” or “voting” shall include all action necessary to make a vote effective in any primary, special, or general election, including, but not limited to, registration, listing pursuant to this subchapter, or other action required by law prerequisite to voting, casting aballot, and having such ballot counted properly and included in the appropriate totals of votes cast with respect to candidates for public or party office and propositions for which votes are received in an election.
+(1) The terms “vote” or “voting” shall include all action necessary to make a vote effective in any primary, special, or general election, including, but not limited to, registration, listing pursuant to this subchapter, or other action required by law prerequisite to voting, casting a ballot, and having such ballot counted properly and included in the appropriate totals of votes cast with respect to candidates for public or party office and propositions for which votes are received in an election.
 
 (2) The term “political subdivision” shall mean any county or parish, except that where registration for voting is not conducted under the supervision of a county or parish, the term shall include any other subdivision of a State which conducts registration for voting.
 

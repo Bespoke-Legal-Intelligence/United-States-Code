@@ -24,5 +24,5 @@ A prior section 707 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 464, am
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2430a, 2430e of this title.
+This section is referred to in sections 2430a, 2430e, 2431h of this title.
 

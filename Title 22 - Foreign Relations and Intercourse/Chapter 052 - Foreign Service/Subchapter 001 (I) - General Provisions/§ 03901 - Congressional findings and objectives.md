@@ -20,7 +20,7 @@
 
 &emsp;(3) providing for more efficient, economical, and equitable personnel administration through a simplified structure of Foreign Service personnel categories and salaries;
 
-&emsp;(4) establishing a statutory basis for participation by the members of the Foreign Service, through their elected representatives, in theformulation of personnel policies and procedures which affect their conditions of employment, and maintaining a fair and effective system for the resolution of individual grievances that will ensure the fullest measure of due process for the members of the Foreign Service;
+&emsp;(4) establishing a statutory basis for participation by the members of the Foreign Service, through their elected representatives, in the formulation of personnel policies and procedures which affect their conditions of employment, and maintaining a fair and effective system for the resolution of individual grievances that will ensure the fullest measure of due process for the members of the Foreign Service;
 
 &emsp;(5) minimizing the impact of the hardships, disruptions, and other unusual conditions of service abroad upon the members of the Foreign Service, and mitigating the special impact of such conditions upon their families;
 
@@ -61,6 +61,10 @@ Section 2403 of Pub. L. 96–465, as amended by Pub. L. 99–93, title I, §119(
 “(e)(1) The provisions of chapter 8 of title I \[subchapter VIII of this chapter\] regarding the rights of former spouses to any annuity under section 814(a) \[section 4054(a) of this title\] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of an individual who separates from the Service after such date.
 
 “(2) Except to the extent provided in section 2109 \[section 4159 of this title\], the provisions of such chapter \[subchapter VIII of this chapter\] regarding the rights of former spouses to receive survivor annuities under chapter 8 \[subchapter VIII of this chapter\] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of a participant or former participant in the Foreign Service Retirement and Disability System.”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–382, §1, Nov. 13, 1998, 112 Stat. 3406, provided that: “This Act \[amending sections 4044 to 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under section 4044 of this title\] may be cited as the ‘Department of State Special Agents Retirement Act of 1998’.”
 
 #### Short Title of 1986 Amendment
 
@@ -190,11 +194,11 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of theUnited States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
 Section 1. There are hereby delegated to the Secretary of State those functions vested in the President by Sections 205, 401(a), 502(c), 613, and 801 of the Foreign Service Act of 1980, hereinafter referred to as the Act (22 U.S.C. 3925, 3942(a)(1), 3892(c) \[3982(c)\], 4013, and 4041).
 
-Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 U.S.C. 3925), consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency, the Director of the United States International Development Cooperation Agency, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget, in order to ensure compatibility between the Foreign Service personnel system and other government personnel systems.
+Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 U.S.C. 3925), consult with the Secretary of Agriculture, the Secretary of Commerce, the Director of the United States Information Agency,the Director of the United States International Development Cooperation Agency, the Director of the Office of Personnel Management, and the Director of the Office of Management and Budget, in order to ensure compatibility between the Foreign Service personnel system and other government personnel systems.
 
 Sec. 3. The Secretary of State shall make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under Section 827 of the Act (22 U.S.C. 4067) to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System.
 
@@ -281,6 +285,10 @@ Sec. 10. Pursuant to Section 202(a)(2)(B) and (a)(3)(B) of the Act (22 U.S.C. 39
 (b) The United States Travel and Tourism Administration, and the International Trade Administration of the Department of Commerce, not to exceed 30 positions without the prior approval of the Director of the Office of Personnel Management, and providing that assignments to such positions be administered consistent with policies of the Foreign Commercial Service established under Executive Order No. 12188 \[19 U.S.C. 2171 note\].
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
+
+\[For abolition of United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation), transfer of functions, and treatment of references thereto, see sections 6561, 6562, and 6571 of this title.\]
 
 #### Section Referred to in Other Sections
 

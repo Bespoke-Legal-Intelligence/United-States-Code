@@ -58,7 +58,7 @@ The members of the Telephone Bank Board shall elect one of such members to be th
 
 #### (g) Bylaws
 
-The Telephone Bank Board shall prescribe bylaws, not inconsistent with law, regulating themanner in which the telephone bank's business shall be conducted, its directors and officers elected, its stock issued, held, and disposed of, its property transferred, its bylaws amended, and the powers and privileges granted to it by law exercised and enjoyed.
+The Telephone Bank Board shall prescribe bylaws, not inconsistent with law, regulating the manner in which the telephone bank's business shall be conducted, its directors and officers elected, its stock issued, held, and disposed of, its property transferred, its bylaws amended, and the powers and privileges granted to it by law exercised and enjoyed.
 
 #### (h) Meetings
 
@@ -72,7 +72,7 @@ The Telephone Bank Board shall make an annual report to the Secretary for transm
 
 For purposes of section 552b of title 5, the Telephone Bank Board shall be treated as an agency within the meaning of subsection (a)(1) of such section.
 
-(May 20, 1936, ch. 432, title IV, §405, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 32; amended May 11, 1973, Pub. L. 93–32, §4, 87 Stat. 70; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2363(a), (b)(1), (c), 104 Stat. 4042–4044; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(7), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title IV, §405, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 32; amended Pub. L. 93–32, §4, May 11, 1973, 87 Stat. 70; Pub. L. 101–624, title XXIII, §2363(a), (b)(1), (c), Nov. 28, 1990, 104 Stat. 4042–4044; Pub. L. 103–354, title II, §235(a)(7), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

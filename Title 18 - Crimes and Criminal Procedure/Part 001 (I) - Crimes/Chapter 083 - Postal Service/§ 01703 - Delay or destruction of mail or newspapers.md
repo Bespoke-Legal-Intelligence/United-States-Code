@@ -6,7 +6,7 @@
 
 Whoever, without authority, opens, or destroys any mail or package of newspapers not directed to him, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; May 24, 1949, ch. 139, §37, 63 Stat. 95; Aug. 12, 1970, Pub. L. 91–375, §6(j)(16), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), (G), 108 Stat. 2146, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 778; May 24, 1949, ch. 139, §37, 63 Stat. 95; Pub. L. 91–375, §6(j)(16), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(B), (G), Sept. 13, 1994, 108 Stat. 2146, 2147.)
 
 #### Historical and Revision Notes
 

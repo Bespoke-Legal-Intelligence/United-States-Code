@@ -46,7 +46,7 @@ The Chairman (or in his absence the Vice Chairman) of the Joint Chiefs of Staff 
 
 #### (f) Participation by Director of National Drug Control Policy
 
-The Director of National Drug Control Policy may, in his role as principal adviser to the National Security Council on national drug control policy, and subject to the direction of the President, attend and participate in meetings of the National Security Council.
+The Director of National Drug Control Policy may, in the role of the Director as principal adviser to the National Security Council on national drug control policy, and subject to the direction of the President, attend and participate in meetings of the National Security Council.
 
 #### (g) Board for Low Intensity Conflict
 
@@ -86,7 +86,7 @@ The President shall establish within the National Security Council a board to be
 
 (5) The Committee shall submit each year to the Council and to the Director of Central Intelligence a comprehensive report on its activities during the preceding year, including its activities under paragraphs (3) and (4).
 
-#### (i) Committee on Transnational Threats
+#### (i) <sup>1</sup> Committee on Transnational Threats
 
 (1) There is established within the National Security Council a committee to be known as the Committee on Transnational Threats (in this subsection referred to as the “Committee”).
 
@@ -132,11 +132,11 @@ The President shall establish within the National Security Council a board to be
 
 The Director of Central Intelligence (or, in the Director's absence, the Deputy Director of Central Intelligence) may, in the performance of the Director's duties under this Act and subject to the direction of the President, attend and participate in meetings of the National Security Council.
 
-(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476.)
+#### (i) <sup>2</sup> Special Adviser to the President on International Religious Freedom
 
-#### Amendment of Section
+It is the sense of the Congress that there should be within the staff of the National Security Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
 
-<i>For repeal of amendment by section 1506 of Title 21, Food and Drugs, see Effective and Termination Dates of 1988 Amendment note below.</i>
+(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800.)
 
 #### References in Text
 
@@ -154,6 +154,10 @@ In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 #### Amendments
 
+1998—Subsecs. (f), (g). Pub. L. 105–277 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+Subsec. (i). Pub. L. 105–292 added subsec. (i) relating to Special Adviser to the President on International Religious Freedom.
+
 1996—Subsec. (h). Pub. L. 104–293, §802(2), added subsec. (h). Former subsec. (h) redesignated (j).
 
 Subsec. (i). Pub. L. 104–293, §804, added subsec. (i).
@@ -162,7 +166,7 @@ Subsec. (j). Pub. L. 104–293, §802(1), redesignated subsec. (h) as (j).
 
 1992—Subsec. (h). Pub. L. 102–496 added subsec. (h).
 
-1988—Subsecs. (f), (g). Pub. L. 100–690, §§1003(a)(3), 1009, temporarily added subsec. (f) and redesignated former subsec. (f) as (g). See Effective and Termination Dates of 1988 Amendment note below.
+1988—Subsecs. (f), (g). Pub. L. 100–690, §§1003(a)(3), 1009, temporarily added subsec. (f), relating to participation by Director of National Drug Control Policy in meetings of National Security Council, and redesignated former subsec. (f) as (g). See Effective and Termination Dates of 1988 Amendment note below.
 
 1986—Subsec. (e). Pub. L. 99–433 added subsec. (e).
 
@@ -176,7 +180,7 @@ Subsec. (c). Act Oct. 28, 1949, substituted “Classification Act of 1949” for
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed Sept. 30, 1997, see section 1506 of Title 21, Food and Drugs, and section 1012 of Pub. L. 100–690, set out as an Effective Date note under section 1501 of Title 21.
+Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed on Sept. 30, 1997, see sections 1012 and 1009, respectively, of Pub. L. 100–690.
 
 #### Repeals
 
@@ -184,7 +188,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Transfer of Functions
 
-Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No.7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department of State to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
+Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department of State to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
 
 National Security Resources Board, together with Office of Chairman, abolished by section 6 of Reorg. Plan No. 3 of 1953, eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634, set out under section 404 of this title. Functions of Chairman with limited exception, including his functions as a member of National Security Council transferred to Office of Defense Mobilization by section 2(a) of Reorg. Plan No. 3 of 1953. Functions of Director of Office of Defense Mobilization with respect to being a member of National Security Council transferred to Director of Office of Civil and Defense Mobilization by Reorg. Plan No. 1 of 1958, §4, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended by Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861, set out as a note under section 5195 of Title 42, The Public Health and Welfare. For subsequent transfers to Office of Emergency Planning, Office of Emergency Preparedness, and President, see Transfer of Functions notes set out under section 404 of this title.
 
@@ -248,7 +252,7 @@ Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 2
 
 &emsp;&emsp;“(B) in the case of selected personnel serving in circumstances similar to those in which personnel of the Central Intelligence Agency serve, comparable to those provided by the Director of Central Intelligence to personnel of the Central Intelligence Agency;
 
-&emsp;“(2) housing (including heat, light, and household equipment) without cost to such personnel, if the Director of the National Security Agency, on behalf ofthe Secretary of Defense determines that it would be in the public interest to provide such housing; and
+&emsp;“(2) housing (including heat, light, and household equipment) without cost to such personnel, if the Director of the National Security Agency, on behalf of the Secretary of Defense determines that it would be in the public interest to provide such housing; and
 
 &emsp;“(3) special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act (50 U.S.C. 403 note) \[50 U.S.C. 2001 et seq.\] and in section 18 of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 403r\].
 
@@ -330,7 +334,7 @@ Sec. 12. (a)(1) The Secretary of Defense (or his designee) may by regulation est
 
 &emsp;“(B) provide that positions in the Senior Cryptologic Executive Service meet requirements that are consistent with the provisions of section 3132(a)(2) of such title;
 
-&emsp;“(C) provide, without regard to section 2, rates of pay for the Senior Cryptologic Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 of such title, and that are adjusted at the same time and to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
+&emsp;“(C) provide, without regard to section 2, rates of pay for the Senior Cryptologic Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established forthe Senior Executive Service under section 5382 of such title, and that are adjusted at the same time and to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
 
 &emsp;“(D) provide a performance appraisal system for the Senior Cryptologic Executive Service that conforms to the provisions of subchapter II of chapter 43 of such title;
 
@@ -372,7 +376,7 @@ Sec. 14. Funds appropriated to an entity of the Federal Government other than an
 
 Sec. 15. (a) No person may, except with the written permission of the Director of the National Security Agency, knowingly use the words ‘National Security Agency’, the initials ‘NSA’, the seal of the National Security Agency, or any colorable imitation of such words, initials, or seal in connection with any merchandise, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the National Security Agency.
 
-“(b) Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the AttorneyGeneral may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
+“(b) Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought. \[Added Pub. L. 97–89, title VI, §603, Dec. 4, 1981, 95 Stat. 1156.\]
 
 “
 
@@ -390,7 +394,7 @@ Sec. 16. (a) The purpose of this section is to establish an undergraduate traini
 
 &emsp;“(C) to reimburse the United States for the total cost of education (excluding the employee's pay and allowances) provided under this section to the employee if, prior to the employee's completing the educational course of training for which the employee is assigned, the assignment or the employee's employment with the Agency is terminated either by the Agency due to misconduct by the employee or by the employee voluntarily; and
 
-&emsp;“(D) to reimburse the United States if, after completing the educational course of training for which the employee is assigned, the employee's employment with the Agency is terminated either by the Agency due to misconduct by the employee or by the employee voluntarily, prior to the employee's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding the employee's pay and allowances) provided to the employee as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B).
+&emsp;“(D) to reimburse the United States if, after completing the educational course of training for which the employee is assigned, the employee's employment with the Agency is terminated either by the Agency due to misconduct by the employee or by the employee voluntarily, prior to the employee's completion of the service obligation period described in subparagraph (B), in an amount that bears the same ratio to the total cost of the education (excluding theemployee's pay and allowances) provided to the employee as the unserved portion of the service obligation period described in subparagraph (B) bears to the total period of the service obligation described in subparagraph (B).
 
 “(2) Subject to paragraph (3), the obligation to reimburse the United States under an agreement described in paragraph (1), including interest due on such obligation, is for all purposes a debt owing the United States.
 
@@ -425,4 +429,12 @@ Ex. Ord. No. 10483, Sept. 2, 1953, 18 F.R. 5379, as amended by Ex. Ord. No. 1059
 #### Executive Order No. 10700
 
 Ex. Ord. No. 10700, Feb. 25, 1957, 22 F.R. 1111, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. 10838, Sept. 16, 1959, 24 F.R. 7519, which provided for the Operations Coordinating Board, was revoked by Ex. Ord. No. 10920, Feb. 18, 1961, 26 F.R. 1463.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 6402.
+
+<i><sup>1</sup></i><i> So in original. Another subsec. (i) is set out after subsec. (j).</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(k)”.</i>
 

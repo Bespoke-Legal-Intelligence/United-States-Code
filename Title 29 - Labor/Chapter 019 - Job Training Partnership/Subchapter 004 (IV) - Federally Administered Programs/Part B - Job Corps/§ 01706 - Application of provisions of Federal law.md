@@ -26,6 +26,10 @@ Personnel of the uniformed services who are detailed or assigned to duty in the 
 
 (Pub. L. 97–300, title IV, §436, Oct. 13, 1982, 96 Stat. 1378; Pub. L. 102–367, title VII, §702(a)(15), Sept. 7, 1992, 106 Stat. 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.

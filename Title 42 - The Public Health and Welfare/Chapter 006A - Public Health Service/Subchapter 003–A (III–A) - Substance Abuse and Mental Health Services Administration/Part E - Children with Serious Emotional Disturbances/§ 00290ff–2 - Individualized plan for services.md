@@ -28,9 +28,9 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 &emsp;(3) establish objectives to be achieved regarding the needs of the child and the methodology for achieving the objectives; and
 
-&emsp;(4) designate an individual to be responsible for providing the case management required in section 290ff–1(e)(1) of this title or certify thatcase management services will be provided to the child as part of the individualized education program of the child under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
+&emsp;(4) designate an individual to be responsible for providing the case management required in section 290ff–1(e)(1) of this title or certify that case management services will be provided to the child as part of the individualized education program of the child under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
 
-(July 1, 1944, ch. 373, title V, §563, as added July 10, 1992, Pub. L. 102–321, title I, §119, 106 Stat. 354.)
+(July 1, 1944, ch. 373, title V, §563, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 354.)
 
 #### References in Text
 

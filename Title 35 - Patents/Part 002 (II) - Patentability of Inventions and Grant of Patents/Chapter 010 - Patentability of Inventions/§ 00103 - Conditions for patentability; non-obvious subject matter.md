@@ -12,7 +12,7 @@
 
 &emsp;(A) shall also contain the claims to the composition of matter used in or made by that process, or
 
-&emsp;(B) shall, if such composition of matter is claimed in another patent, be set to expire on the same date as such other patent, notwithstanding section 154.
+&emsp;(B) shall, if such composition of matter is claimed in another patent, be set to expire onthe same date as such other patent, notwithstanding section 154.
 
 (3) For purposes of paragraph (1), the term “biotechnological process” means—
 

@@ -62,7 +62,7 @@ The filing with the Commission of a registration statement, or of an amendment t
 
 The information contained in or filed with any registration statement shall be made available to the public under such regulations as the Commission may prescribe, and copies thereof, photostatic or otherwise, shall be furnished to every applicant at such reasonable charge as the Commission may prescribe.
 
-(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Oct. 22, 1965, Pub. L. 89–289, §1, 79 Stat. 1051; Dec. 4, 1987, Pub. L. 100–181, title II, §205, 101 Stat. 1252; Oct. 11, 1996, Pub. L. 104–290, title IV, §404, 110 Stat. 3441.)
+(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441.)
 
 #### Amendments
 
@@ -82,11 +82,9 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Increase in Registration Fees and Deposit Into Treasury
 
-Pub. L. 105–46, §113, Sept. 30, 1997, 111 Stat. 1156, provided that: “Notwithstanding any other provision of this joint resolution \[see Tables for classification\], except section 106 \[111 Stat. 1156\], the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, shall include, in addition to direct appropriations, the amount it collects under the fee rate and offsetting collection authority contained in Public Law 104–208 \[set out as a note below\], which fee rate and offsetting collection authority shall remain in effect during the period of this joint resolution.”
+Pub. L. 105–46, §113, Sept. 30, 1997, 111 Stat. 1156, provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rate and offsetting collection authority contained in Public Law 104–208, which fee rate and offsetting collection authority was to remain in effect during the period of Pub. L. 105–46 which provided continuing appropriations for fiscal year 1998.
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That immediately upon enactment of this Act \[Sept. 30, 1996\], the rate of fees under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) shall increase from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process”.
-
-Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, which provided in part that on Sept. 30, 1996, the rate of fees under subsec. (b) of this section were increased from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase was to be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process, was from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 104–134, title I, §101\[(a)\] \[title V\], Apr. 26, 1996, 110 Stat. 1321, 1321–60; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 

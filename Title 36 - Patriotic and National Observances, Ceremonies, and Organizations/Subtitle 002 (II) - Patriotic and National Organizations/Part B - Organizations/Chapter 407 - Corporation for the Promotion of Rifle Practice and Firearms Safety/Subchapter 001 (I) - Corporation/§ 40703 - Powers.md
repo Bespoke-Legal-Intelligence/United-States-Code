@@ -1,0 +1,68 @@
+### §40703. Powers
+
+The corporation may—
+
+&emsp;(1) adopt, use, and alter a corporate seal, which shall be judicially noticed;
+
+&emsp;(2) make contracts;
+
+&emsp;(3) acquire, own, lease, encumber, and transfer property as necessary or convenient to carry out the activities of the corporation;
+
+&emsp;(4) incur and pay obligations;
+
+&emsp;(5) charge fees to cover the corporation's costs in carrying out the Civilian Marksmanship Program; and
+
+&emsp;(6) do any other act necessary and proper to carry out the activities of the corporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1336.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+40703(1)
+
+36:5508(b).
+
+Feb. 10, 1996, Pub. L. 104–106, title XVI, §1618(a)(1), (2), (b)–(e), 110 Stat. 520.
+
+40703(2)
+
+36:5508(c) (less “leases”).
+
+40703(3)
+
+36:5508(a)(1), (c) (related to leases).
+
+40703(4)
+
+36:5508(d).
+
+40703(5)
+
+36:5508(a)(2).
+
+40703(6)
+
+36:5508(e).
+
+In clause (2), the words “make contracts” are substituted for “enter into contracts” for consistency in the revised title. The words “agreements, or other transactions” are omitted as included in “contracts”.
+
+Clause (3) is substituted for “The Corporation may solicit, accept, hold, use, and dispose of donations of money, property, and services received by gift, devise, bequest, or otherwise” in 36:5508(a)(1) and “enter into . . . leases” in 36:5508(c) for consistency in the revised title.
+
+Clause (4) is substituted for “determine the character of, and necessity for, its obligations and expenditures and the manner in which they shall be incurred, allowed, and paid and may incur, allow, and pay such obligations and expenditures” to eliminate unnecessary words.
+
+In clause (5), the words “charge fees to cover the corporation's costs” are substituted for “impose, collect, and retain such fees as are reasonably necessary to cover the direct and indirect costs of the Corporation” to eliminate unnecessary words.
+
+Clause (6) is substituted for “take such other actions as are necessary or appropriate to carry out the authority provided in this section” for consistency in the revised title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 40704 of this title.
+

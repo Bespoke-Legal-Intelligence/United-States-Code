@@ -1,10 +1,12 @@
 ### §2210. Proceeds of sales of supplies: credit to appropriations
 
-(a) Current applicable appropriations of the Department of Defense may be credited with proceeds of the disposals of supplies that are not financed by stock funds established under section 2208 of this title.
+(a)(1) A working-capital fund established pursuant to section 2208 of this title may retain so much of the proceeds of disposals of property referred to in paragraph (2) as is necessary to recover the expenses incurred by the fund in disposing of such property. Proceeds from the sale or disposal of such property in excess of amounts necessary to recover the expenses may be credited to current applicable appropriations of the Department of Defense.
+
+(2) Paragraph (1) applies to disposals of supplies, material, equipment, and other personal property that were not financed by stock funds established under section 2208 of this title.
 
 (b) Obligations may, without regard to fiscal year limitations, be incurred against anticipated reimbursements to stock funds in such amounts and for such period as the Secretary of Defense, with the approval of the President, may determine to be necessary to maintain stock levels consistently with planned operations for the next fiscal year.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 522; amended Pub. L. 96–513, title V, §511(72), Dec. 12, 1980, 94 Stat. 2926.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 522; amended Pub. L. 96–513, title V, §511(72), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 105–261, div. A, title X, §1009, Oct. 17, 1998, 112 Stat. 2117.)
 
 Historical and Revision Notes
 
@@ -27,6 +29,8 @@ Aug. 1, 1953, ch. 305, §645, 67 Stat. 357.
 In section (a), the words “proceeds of the disposal” are substituted for the words “moneys arising from the disposition”.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Current applicable appropriations of the Department of Defense may be credited with proceeds of the disposals of supplies that are not financed by stock funds established under section 2208 of this title.”
 
 1980—Subsec. (b). Pub. L. 96–513 substituted “President” for “Director of the Bureau of the Budget”.
 

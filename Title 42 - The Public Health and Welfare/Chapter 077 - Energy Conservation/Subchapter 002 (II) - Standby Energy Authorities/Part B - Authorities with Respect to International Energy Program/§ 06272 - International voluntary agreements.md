@@ -4,13 +4,13 @@
 
 Effective 90 days after December 22, 1975, the requirements of this section shall be the sole procedures applicable to—
 
-&emsp;(1) the development or carrying out of voluntary agreements and plans of action to implement the allocation and information provisions of the international energy program, and
+&emsp;(1) the development or carrying out of voluntary agreements and plans of action to implement the international emergency response provisions, and
 
 &emsp;(2) the availability of immunity from the antitrust laws with respect to the development or carrying out of such voluntary agreements and plans of action.
 
 #### (b) Prescription by Secretary of standards and procedures for developing and carrying out voluntary agreements and plans of action
 
-The Secretary, with the approval of the Attorney General, after each of them has consulted with the Federal Trade Commission and the Secretary of State, shall prescribe, by rule, standards and procedures by which persons engaged in the business of producing, transporting, refining, distributing, or storing petroleum products may develop and carry out voluntary agreements, and plans of action, which are required to implement the allocation and information provisions of the international energy program.
+The Secretary, with the approval of the Attorney General, after each of them has consulted with the Federal Trade Commission and the Secretary of State, shall prescribe, by rule, standards and procedures by which persons engaged in the business of producing, transporting, refining, distributing, or storing petroleum products may develop and carry out voluntary agreements, and plans of action, which are required to implement the international emergency response provisions.
 
 #### (c) Requirements for standards and procedures
 
@@ -32,17 +32,17 @@ The standards and procedures prescribed under subsection (b) of this section sha
 
 #### (d) Participation of Attorney General and Federal Trade Commission in development and carrying out of voluntary agreements and plans of action
 
-(1) The Attorney General and the Federal Trade Commission shall participate from the beginning in the development, and when practicable, in the carrying out of voluntary agreements and plans of action authorized under this section. Each may propose any alternative which would avoid or overcome, to the greatest extent practicable, possible anticompetitive effects while achieving substantially the purposes of this part. A voluntary agreement or plan of action under this section may not be carried outunless approved by the Attorney General, after consultation with the Federal Trade Commission. Prior to the expiration of the period determined under paragraph (2), the Federal Trade Commission shall transmit to the Attorney General its views as to whether such an agreement or plan of action should be approved, and shall publish such views in the Federal Register. The Attorney General, in consultation with the Federal Trade Commission, the Secretary of State, and the Secretary, shall have the right to review, amend, modify, disapprove, or revoke, on his own motion or upon the request of the Federal Trade Commission or any interested person, any voluntary agreement or plan of action at any time, and, if revoked, thereby withdraw prospectively any immunity which may be conferred by subsection (f) or (j) of this section.
+(1) The Attorney General and the Federal Trade Commission shall participate from the beginning in the development, and when practicable, in the carrying out of voluntary agreements and plans of action authorized under this section. Each may propose any alternative which would avoid or overcome, to the greatest extent practicable, possible anticompetitive effects while achieving substantially the purposes of this part. A voluntary agreement or plan of action under this section may not be carried out unless approved by the Attorney General, after consultation with the Federal Trade Commission. Prior to the expiration of the period determined under paragraph (2), the Federal Trade Commission shall transmit to the Attorney General its views as to whether such an agreement or plan of action should be approved, and shall publish such views in the Federal Register. The Attorney General, in consultation with the Federal Trade Commission, the Secretary of State, and the Secretary, shall have the right to review, amend, modify, disapprove, or revoke, on his own motion or upon the request of the Federal Trade Commission or any interested person, any voluntary agreement or plan of action at any time, and, if revoked, thereby withdraw prospectively any immunity which may be conferred by subsection (f) or (j) of this section.
 
 (2) Any voluntary agreement or plan of action entered into pursuant to this section shall be submitted in writing to the Attorney General and the Federal Trade Commission 20 days before being implemented; except that during an international energy supply emergency, the Secretary, subject to approval of the Attorney General, may reduce such 20-day period. Any such agreement or plan of action shall be available for public inspection and copying, except that a plan of action shall be so available only to the extent to which records or transcripts are so available as provided in the last sentence of subsection (c)(3) of this section. Any action taken pursuant to such voluntary agreement or plan of action shall be reported to the Attorney General and the Federal Trade Commission pursuant to such regulations as shall be prescribed under paragraphs (3) and (4) of subsection (e) of this section.
 
-(3) A plan of action may not be approved by the Attorney General under this subsection unless such plan (A) describes the types of substantive actions which may be taken under the plan, and (B) is as specific in its description of proposed substantive actions as is reasonable in light of known circumstances.
+(3) A plan of action may not be approved by the Attorney General under this subsection unless such plan (A) describes the types of substantive actions which may be taken under the plan, and (B) is as specific in its description of proposed substantive actions as is reasonable in light of circumstances known at the time of approval.
 
 #### (e) Monitoring of development and carrying out of voluntary agreements and plans of action by Attorney General and Federal Trade Commission
 
 (1) The Attorney General and the Federal Trade Commission shall monitor the development and carrying out of voluntary agreements and plans of action authorized under this section in order to promote competition and to prevent anticompetitive practices and effects, while achieving substantially the purposes of this part.
 
-(2) In addition to any requirement specified under subsections (b) and (c) of this section and in order to carry out the purposes of this section, the Attorney General, in consultation with the Federal Trade Commission and the Secretary, shall promulgate rules concerning the maintenance of necessary and appropriate records related to the development and carrying out of voluntary agreements and plans of action authorized pursuant to this section.
+(2) In addition to any requirement specified under subsections (b) and (c) of this section and in order to carry out the purposes of this section, the Attorney General, in consultation with the Federal Trade Commission and the Secretary, may promulgate rules concerning the maintenance of necessary and appropriate records related to the development and carrying out of voluntary agreements and plans of action authorized pursuant to this section.
 
 (3) Persons developing or carrying out voluntary agreements and plans of action authorized pursuant to this section shall maintain such records as are required by rules promulgated under paragraph (2). The Attorney General and the Federal Trade Commission shall have access to and the right to copy such records at reasonable times and upon reasonable notice.
 
@@ -50,7 +50,7 @@ The standards and procedures prescribed under subsection (b) of this section sha
 
 #### (f) Defense to civil or criminal antitrust actions
 
-(1) There shall be available as a defense to any civil or criminal action brought under the antitrust laws (or any similar State law) in respect to actions taken to develop or carry out a voluntary agreement or plan of action by persons engaged in the business of producing, transporting, refining, distributing, or storing petroleum products (provided that such actions were not taken for the purpose of injuring competition) that—
+(1) There shall be available as a defense to any civil or criminal action brought under the antitrust laws (or any similar State law) in respect to actions taken to develop or carry out a voluntary agreement or plan of action by personsengaged in the business of producing, transporting, refining, distributing, or storing petroleum products (provided that such actions were not taken for the purpose of injuring competition) that—
 
 &emsp;(A) such actions were taken—
 
@@ -60,7 +60,7 @@ The standards and procedures prescribed under subsection (b) of this section sha
 
 &emsp;(B) such persons complied with the requirements of this section and the rules promulgated hereunder.
 
-(2) Except in the case of actions taken to develop a voluntary agreement or plan of action, the defense provided in this subsection shall be available only if the person asserting the defense demonstrates that the actions were specified in, or within the reasonable contemplation of, an approved plan of action.
+(2) Except in the case of actions taken to develop a voluntary agreement or plan of action, the defense provided in this subsection shall be available only if the person asserting the defense demonstrates that the actions were specified in, or within the reasonable contemplation of, an approved voluntary agreement or plan of action.
 
 (3) Persons interposing the defense provided by this subsection shall have the burden of proof, except that the burden shall be on the person against whom the defense is asserted with respect to whether the actions were taken for the purpose of injuring competition.
 
@@ -70,7 +70,11 @@ No provision of this section shall be construed as granting immunity for, or as 
 
 #### (h) Applicability of Defense Production Act of 1950
 
-Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A <sup>1</sup> (other than 708A(<i>o</i>)) of theDefense Production Act of 1950 \[50 App. U.S.C. 2158, 2158a\] shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973 <sup>1</sup> \[15 U.S.C. 751 et seq.\]. For purposes of section 708(A)(<i>o</i>) <sup>2</sup> of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975.
+Section 2158 of title 50, Appendix, shall not apply to any agreement or action undertaken for the purpose of developing or carrying out—
+
+&emsp;(1) the international energy program; or
+
+&emsp;(2) any allocation, price control, or similar program with respect to petroleum products under this chapter.
 
 #### (i) Reports by Attorney General and Federal Trade Commission to Congress and President
 
@@ -86,11 +90,19 @@ As used in this section and section 6274 of this title:
 
 &emsp;(1) The term “international energy supply emergency” means any period (A) beginning on any date which the President determines allocation of petroleum products to nations participating in the international energy program is required by chapters III and IV of such program, and (B) ending on a date on which he determines that such allocation is no longer required. Such a period may not exceed 90 days, but the President may establish one or more additional 90-day periods by making anew the determination under subparagraph (A) of the preceding sentence. Any determination respecting the beginning or end of any such period shall be published in the Federal Register.
 
-&emsp;(2) The term “allocation and information provisions of the international energy program” means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program.
+&emsp;(2) The term “international emergency response provisions” means—
 
-#### (<i>l</i>) Applicability of authority
+&emsp;&emsp;(A) the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in the program; and
 
-The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implement chapters III, IV, and V of the international energy program.
+&emsp;&emsp;(B) the emergency response measures adopted by the Governing Board of the International Energy Agency (including the July 11, 1984, decision by the Governing Board on “Stocks and Supply Disruptions”) for—
+
+&emsp;&emsp;&emsp;(i) the coordinated drawdown of stocks of petroleum products held or controlled by governments; and
+
+&emsp;&emsp;&emsp;(ii) complementary actions taken by governments during an existing or impending international oil supply disruption.
+
+#### (<i>l</i>) Applicability of antitrust defense
+
+The antitrust defense under subsection (f) of this section shall not extend to the international allocation of petroleum products unless allocation is required by chapters III and IV of the international energy program during an international energy supply emergency.
 
 #### (m) Limitation on new plans of action
 
@@ -106,7 +118,7 @@ The authority granted by this section shall apply only to the development or car
 
 &emsp;(B) such defenses shall not be applicable to Type 1 activities if there has been enacted, in accordance with subsection (n) of this section, a joint resolution of disapproval.
 
-(2) The Secretary may withdraw the plan of action at any time prior to adoption of a joint resolution described in subsection (n)(3) of this section by either House of Congress.
+(2) The Secretary may withdraw the plan of action at any time prior to adoption of a jointresolution described in subsection (n)(3) of this section by either House of Congress.
 
 (3) For the purpose of this subsection—
 
@@ -124,7 +136,7 @@ The authority granted by this section shall apply only to the development or car
 
 &emsp;(A) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions described by paragraph (3); it supersedes other rules only to the extent that is inconsistent therewith; and
 
-&emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and tothe same extent as in the case of any other rule of the Senate.
+&emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
 (3) The joint resolution disapproving the transmission under subsection (m) of this section shall read as follows after the resolving clause: “That the Congress of the United States disapproves the availability of the defenses pursuant to section 252 (f) and (j) of the Energy Policy and Conservation Act with respect to Type 1 activities under the plan of action submitted to the Congress by the Secretary of Energy on        .”, the blank space therein being filled with the date and year of receipt by the Congress of the plan of action transmitted as described in subsection (m) of this section.
 
@@ -142,23 +154,35 @@ The authority granted by this section shall apply only to the development or car
 
 (B) Appeals from the decision of the Chair relating to the application of rules of the Senate to the procedures relating to a joint resolution shall be decided without debate.
 
-(Pub. L. 94–163, title II, §252, Dec. 22, 1975, 89 Stat. 894; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–30, June 30, 1979, 93 Stat. 80; Pub. L. 96–94, Oct. 31, 1979, 93 Stat. 720; Pub. L. 96–133, §§1, 2, Nov. 30, 1979, 93 Stat. 1053; Pub. L. 97–5, Mar. 13, 1981, 95 Stat. 7; Pub. L. 97–50, Sept. 30, 1981, 95 Stat. 957; Pub. L. 97–163, Apr. 1, 1982, 96 Stat. 24; Pub. L. 97–190, June 1, 1982, 96 Stat. 106; Pub. L. 97–217, July 19, 1982, 96 Stat. 196; Pub. L. 97–229, §2(a), (b)(2), Aug. 3, 1982, 96 Stat. 248; Pub. L. 98–239, Mar. 20, 1984, 98 Stat. 93; Pub. L. 99–58, title I, §§104(c)(2), (4), 105, July 2, 1985, 99 Stat. 105; Pub. L. 104–66, title I, §1091(g), Dec. 21, 1995, 109 Stat. 722.)
+(Pub. L. 94–163, title II, §252, Dec. 22, 1975, 89 Stat. 894; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–30, June 30, 1979, 93 Stat. 80; Pub. L. 96–94, Oct. 31, 1979, 93 Stat. 720; Pub. L. 96–133, §§1, 2, Nov. 30, 1979, 93 Stat. 1053; Pub. L. 97–5, Mar. 13, 1981, 95 Stat. 7; Pub. L. 97–50, Sept. 30, 1981, 95 Stat. 957; Pub. L. 97–163, Apr. 1, 1982, 96 Stat. 24; Pub. L. 97–190, June 1, 1982, 96 Stat. 106; Pub. L. 97–217, July 19, 1982, 96 Stat. 196; Pub. L. 97–229, §2(a), (b)(2), Aug. 3, 1982, 96 Stat. 248; Pub. L. 98–239, Mar. 20, 1984, 98 Stat. 93; Pub. L. 99–58, title I, §§104(c)(2), (4), 105, July 2, 1985, 99 Stat. 105; Pub. L. 104–66, title I, §1091(g), Dec. 21, 1995, 109 Stat. 722; Pub. L. 105–177, §1(4), June 1, 1998, 112 Stat. 105.)
 
 #### References in Text
 
 The antitrust laws, referred to in subsecs. (a)(2), (e)(4), and (f)(1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§1311 et seq.) of Title 15. For complete classification of that Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
+The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34\(§1311 et seq.) of Title 15. For complete classification of that Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
 The date of enactment of this chapter, referred to in subsec. (g), means the date of enactment of Pub. L. 94–163, which was approved Dec. 22, 1975.
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (h), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
-
-Section 708A of the Defense Production Act of 1950, referred to in subsec. (h), which was classified to section 2158a(<i>o</i>) of Title 50, Appendix, War and National Defense, was repealed by Pub. L. 102–99, §4, Aug. 17, 1991, 105 Stat. 487.
+This chapter, referred to in subsec. (h)(2), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Section 252(f) and (j) of the Energy Policy and Conservation Act, referred to in subsection (n)(3), is classified to subsecs. (f) and (j) of this section.
 
 #### Amendments
+
+1998—Subsecs. (a)(1), (b). Pub. L. 105–177, §1(4)(A), substituted “international emergency response provisions” for “allocation and information provisions of the international energy program”.
+
+Subsec. (d)(3). Pub. L. 105–177, §1(4)(B), substituted “circumstances known at the time of approval” for “known circumstances”.
+
+Subsec. (e)(2). Pub. L. 105–177, §1(4)(C), substituted “may” for “shall”.
+
+Subsec. (f)(2). Pub. L. 105–177, §1(4)(D), inserted “voluntary agreement or” after “approved”.
+
+Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(<i>o</i>)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(<i>o</i>) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975.”
+
+Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘allocation and information provisions of the international energy program’ means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program.”
+
+Subsec. (<i>l</i>). Pub. L. 105–177, §1(4)(G), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implement chapters III, IV, and V of the international energy program.”
 
 1995—Subsec. (i). Pub. L. 104–66 substituted “, at such intervals as are appropriate based on significant developments and issues, reports” for “, at least once every 6 months, a report”.
 
@@ -209,8 +233,4 @@ For provisions relating to the classification of certain information and materia
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6271, 6395 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be section “708A(o)”.</i>
 

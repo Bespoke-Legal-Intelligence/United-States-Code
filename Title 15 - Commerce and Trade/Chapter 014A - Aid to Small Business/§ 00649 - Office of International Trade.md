@@ -12,7 +12,7 @@ The Office, working in close cooperation with the Department of Commerce and oth
 
 &emsp;(2) assist in the aggressive marketing of these programs and the dissemination of marketing information, including computerized marketing data, to the small business community; and
 
-&emsp;(3) give preference in hiring or approving the transfer of any employee into the Office or to a position described in paragraph (8) below to otherwise qualified applicants who are fluent in a language in addition to English. Such employees shall accompany foreign trade missions if designated by the director of the Officeand shall be available as needed to translate documents, interpret conversations and facilitate multilingual transactions including providing referral lists for translation services if required.
+&emsp;(3) give preference in hiring or approving the transfer of any employee into the Office or to a position described in paragraph (8) below to otherwise qualified applicants who are fluent in a language in addition to English. Such employees shall accompany foreign trade missions if designated by the director of the Office and shall be available as needed to translate documents, interpret conversations and facilitate multilingual transactions including providing referral lists for translation services if required.
 
 #### (c) Promotion of sales opportunities for goods and services abroad
 
@@ -62,7 +62,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 #### (d) Access to export and pre-export financing programs
 
-The Office shall work in cooperation with the Export-Import Bank of the United States, the Department of Commerce, other relevant Federal agencies, and the States to develop a program through which export specialists in the regional offices of the Administration, regional and local loan officers, and Small Business Development Center personnel can facilitate the access of small businesses to relevant export financing programs of the Export-Import Bank of the United States and to export and pre-export financing programs available from the Administration and the private sector. To accomplishthis goal, the Office shall work in cooperation with the Export-Import Bank and the small business community, including small business trade associations, to—
+The Office shall work in cooperation with the Export-Import Bank of the United States, the Department of Commerce, other relevant Federal agencies, and the States to develop a program through which export specialists in the regional offices of the Administration, regional and local loan officers, and Small Business Development Center personnel can facilitate the access of small businesses to relevant export financing programs of the Export-Import Bank of the United States and to export and pre-export financing programs available from the Administration and the private sector. To accomplish this goal, the Office shall work in cooperation with the Export-Import Bank and the small business community, including small business trade associations, to—
 
 &emsp;(1) aggressively market existing Administration export financing and pre-export financing programs;
 
@@ -104,7 +104,7 @@ The Office, in cooperation, where appropriate, with the Division of Economic Res
 
 #### Prior Provisions
 
-A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for use of Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
+A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for useof Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
 

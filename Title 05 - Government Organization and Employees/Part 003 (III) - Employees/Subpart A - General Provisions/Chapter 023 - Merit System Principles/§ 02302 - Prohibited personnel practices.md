@@ -1,10 +1,6 @@
 ### §2302. Prohibited personnel practices
 
-(a)(1) For purposes of this title, “prohibited personnel practice” means the following:
-
-&emsp;(A) Any action described in subsection (b) of this section.
-
-&emsp;(B) Any action or failure to act that is designated as a prohibited personnel action under section 1599c(a) of title 10.
+(a)(1) For the purpose of this title, “prohibited personnel practice” means any action described in subsection (b).
 
 (2) For the purpose of this section—
 
@@ -86,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
 
-> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is notspecifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
+> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
 
 &emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
@@ -104,9 +100,13 @@
 
 &emsp;&emsp;(D) for refusing to obey an order that would require the individual to violate a law;
 
-&emsp;(10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States; or
+&emsp;(10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
 
-&emsp;(11) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
+&emsp;(11)(A) knowingly take, recommend, or approve any personnel action if the taking of such action would violate a veterans’ preference requirement; or
+
+&emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement; or
+
+&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
 
 > This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
 
@@ -124,13 +124,47 @@
 
 &emsp;(5) the provisions of any law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741.)
+(e)(1) For the purpose of this section, the term “veterans’ preference requirement” means any of the following provisions of law:
+
+&emsp;(A) Sections 2108, 3305(b), 3309, 3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317(b), 3318, 3320, 3351, 3352, 3363, 3501, 3502(b), 3504, and 4303(e) and (with respect to a preference eligible referred to in section 7511(a)(1)(B)) subchapter II of chapter 75 and section 7701.
+
+&emsp;(B) Sections 943(c)(2) and 1784(c) of title 10.
+
+&emsp;(C) Section 1308(b) of the Alaska National Interest Lands Conservation Act.
+
+&emsp;(D) Section 301(c) of the Foreign Service Act of 1980.
+
+&emsp;(E) Sections 106(f), 7281(e), and 7802(5) of title 38.
+
+&emsp;(F) Section 1005(a) of title 39.
+
+&emsp;(G) Any other provision of law that the Director of the Office of Personnel Management designates in regulations as being a veterans’ preference requirement for the purposes of this subsection.
+
+&emsp;(H) Any regulation prescribed under subsection (b) or (c) of section 1302 and any other regulation that implements a provision of law referred to in any of the preceding subparagraphs.
+
+(2) Notwithstanding any other provision of this title, no authority to order corrective action shall be available in connection with a prohibited personnel practice described in subsection (b)(11). Nothing in this paragraph shall be considered to affect any authority under section 1215 (relating to disciplinary action).
+
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188.)
 
 #### References in Text
 
 The civil service laws, referred to in subsec. (c), are set out in this title. See, particularly, section 3301 et seq. of this title.
 
+Section 1308(b) of the Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(C), is classified to section 3198(b) of Title 16, Conservation.
+
+Section 301(c) of the Foreign Service Act of 1980, referred to in subsec. (e)(1)(D), is classified to section 3941(c) of Title 22, Foreign Relations and Intercourse.
+
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–339, §6(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this title, ‘prohibited personnel practice’ means the following:
+
+&emsp;“(A) Any action described in subsection (b) of this section.
+
+&emsp;“(B) Any action or failure to act that is designated as a prohibited personnel action under section 1599c(a) of title 10.”
+
+Subsec. (b)(10) to (12). Pub. L. 105–339, §6(a), struck out “or” at end of par. (10), added par. (11), and redesignated former par. (11) as (12).
+
+Subsec. (e). Pub. L. 105–339, §6(b), added subsec. (e).
 
 1996—Subsec. (a)(1). Pub. L. 104–201, §1615(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of this title, ‘prohibited personnel practice’ means any action described in subsection (b) of this section.”
 
@@ -152,7 +186,7 @@ Subsec. (a)(2)(C)(i). Pub. L. 103–424, §5(c), inserted before semicolon “,�
 
 Subsec. (a)(2)(C)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title”.
+Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remediesavailable to them under this chapter and chapter 12 of this title”.
 
 1993—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
 
@@ -182,7 +216,11 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
 
+#### Savings Provision
+
+Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This section \[amending this section and repealing section 1599c of Title 10, Armed Forces\] shall be treated as if it had never been enacted for purposes of any personnel action (within the meaning of section 2302 of title 5, United States Code) preceding the date of enactment of this Act \[Oct. 31, 1998\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 sections 1599c, 1612; title 22 sections 3664, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
+This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 section 1612; title 22 sections 3657, 3664, 3673, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
 

@@ -1,6 +1,0 @@
-### §2314. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this chapter $35,000,000 for fiscal year 1991 and such sums as may be necessary for each succeeding fiscal year. Funds appropriated pursuant to this section are authorized to remain available for two fiscal years succeeding the fiscal year for which appropriated.
-
-(Pub. L. 101–554, §15, Nov. 15, 1990, 104 Stat. 2757.)
-

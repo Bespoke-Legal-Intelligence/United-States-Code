@@ -142,7 +142,7 @@ Par. (11). Pub. L. 105–134, §407(1), struck out par. (11) which read as follo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 12131; title 45 section 837.
+This section is referred to in title 42 section 12131.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

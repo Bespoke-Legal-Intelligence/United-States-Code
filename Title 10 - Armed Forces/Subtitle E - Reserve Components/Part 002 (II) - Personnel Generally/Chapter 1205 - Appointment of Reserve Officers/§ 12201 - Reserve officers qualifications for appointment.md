@@ -12,7 +12,7 @@
 
 (d) In prescribing age qualifications under subsection (b) for the appointment of persons as Reserves of the armed forces under his jurisdiction, the Secretary concerned may not prescribe a maximum age qualification of less than 47 years of age for the initial appointment of a person as a Reserve to serve in a health profession specialty which has been designated by the Secretary concerned as a specialty critically needed in wartime.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 24, §591; Sept. 2, 1958, Pub. L. 85–861, §1(10)(A), 72 Stat. 1440; Dec. 23, 1963, Pub. L. 88–236, 77 Stat. 474; Nov. 2, 1966, Pub. L. 89–718, §4, 80 Stat. 1115; Nov. 8, 1967, Pub. L. 90–130, §1(3), 81 Stat. 374; Dec. 12, 1980, Pub. L. 96–513, title V §511(16), 94 Stat. 2921; Dec. 4, 1987, Pub. L. 100–180, div. A, title VII, §718(a), 101 Stat. 1115; renumbered §12201 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1631(b), 1662(c)(2), 108 Stat. 2964, 2990; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(a)(5)(B), (b)(11)(A), 110 Stat. 495, 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 24, §591; Pub. L. 85–861, §1(10)(A), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 88–236, Dec. 23, 1963, 77 Stat. 474; Pub. L. 89–718, §4, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(3), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V §511(16), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 100–180, div. A, title VII, §718(a), Dec. 4, 1987, 101 Stat. 1115; renumbered §12201 and amended Pub. L. 103–337, div. A, title XVI, §§1631(b), 1662(c)(2), Oct. 5, 1994, 108 Stat. 2964, 2990; Pub. L. 104–106, div. A, title XV, §1501(a)(5)(B), (b)(11)(A), Feb. 10, 1996, 110 Stat. 495, 496.)
 
 Historical and Revision Notes<br>1956
 

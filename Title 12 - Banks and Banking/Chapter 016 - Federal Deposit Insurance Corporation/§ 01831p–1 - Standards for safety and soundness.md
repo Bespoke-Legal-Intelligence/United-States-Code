@@ -22,7 +22,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 #### (b) Asset quality, earnings, and stock valuation standards
 
-Each appropriate Federal banking agency shall prescribe standards, by regulation or guideline, for all insured depository institutions relating to asset quality, earnings, and stock valuation that the agency determines to be appropriate.
+Each appropriate Federal banking agency shall prescribe standards, by regulation orguideline, for all insured depository institutions relating to asset quality, earnings, and stock valuation that the agency determines to be appropriate.
 
 #### (c) Compensation standards
 
@@ -106,7 +106,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;(B) may do 1 or more of the following until the deficiency has been corrected:
 
-&emsp;&emsp;&emsp;(i) Prohibit the institution from permitting its average total assets during any calendar quarter to exceed its average total assets during the preceding calendar quarter, or restrict the rate at which theaverage total assets of the institution may increase from one calendar quarter to another.
+&emsp;&emsp;&emsp;(i) Prohibit the institution from permitting its average total assets during any calendar quarter to exceed its average total assets during the preceding calendar quarter, or restrict the rate at which the average total assets of the institution may increase from one calendar quarter to another.
 
 &emsp;&emsp;&emsp;(ii) Require the institution to increase its ratio of tangible equity to assets.
 
@@ -192,7 +192,7 @@ Section 318(d) of Pub. L. 103–325 provided that: “The amendments made by thi
 
 Section 132(c) of Pub. L. 102–242 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the earlier of—
 
-&emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set out below\] become effective \[Final rules were published July 10, 1995, 60 F.R. 35674, eff. Aug. 9, 1995.\]; or
+&emsp;“(1) the date on which final regulations promulgated in accordance with subsection (b) \[set outbelow\] become effective \[Final rules were published July 10, 1995, 60 F.R. 35674, eff. Aug. 9, 1995.\]; or
 
 &emsp;“(2) December 1, 1993.”
 

@@ -1,6 +1,6 @@
 ### \[§§3284 to 3300. Repealed. Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880\]
 
-Section 3284, act Aug. 10, 1956, ch. 1041, 70A Stat. 181, provided that appointments in commissioned grades in Regular Army be made by President, by and with the advice and consent of Senate. See section 531 of this title.
+Section 3284, act Aug. 10, 1956, ch. 1041, 70A Stat. 181, provided that appointments in commissioned grades inRegular Army be made by President, by and with the advice and consent of Senate. See section 531 of this title.
 
 Section 3285, acts Aug. 10, 1956, ch. 1041, 70A Stat. 181; Sept. 2, 1958, Pub. L. 85–861, §1(72), 72 Stat. 1465, prescribed eligibility requirements for original appointment in a commissioned grade in Regular Army, except in Medical Corps or Dental Corps and except a graduating cadet. See section 532 of this title.
 

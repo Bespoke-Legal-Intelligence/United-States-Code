@@ -18,4 +18,4 @@
 - [&sect; 00505 - Arrangements and public records](%C2%A7%2000505%20-%20Arrangements%20and%20public%20records.md)
 - [&sect; 00506 - Authority to investigate](%C2%A7%2000506%20-%20Authority%20to%20investigate.md)
 - [&sect; 00507 - Enforcement](%C2%A7%2000507%20-%20Enforcement.md)
-- [&sect; 00508 - Repealed. Pub. L. 103&#8211;272, &sect;4(j)(11)(B), July 5, 1994, 108 Stat. 1368](%C2%A7%2000508%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A74%28j%29%2811%29%28B%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201368.md)
+- [&sect; 00508 - Safety performance history of new drivers; limitation on liability](%C2%A7%2000508%20-%20Safety%20performance%20history%20of%20new%20drivers%3B%20limitation%20on%20liability.md)

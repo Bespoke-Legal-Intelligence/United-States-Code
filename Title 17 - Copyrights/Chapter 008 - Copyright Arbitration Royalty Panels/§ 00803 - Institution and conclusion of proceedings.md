@@ -1,6 +1,6 @@
 ### §803. Institution and conclusion of proceedings
 
-(a)(1) With respect to proceedings under section 801(b)(1) concerning the adjustment of royalty rates as provided in sections 114, 115 and 116, and with respect to proceedings under subparagraphs (A) and (D) of section 801(b)(2), during the calendar years specified in the schedule set forth in paragraphs (2), (3), (4) and (5), any owner or user of a copyrighted work whose royalty rates are specified by this title, established by the Copyright Royalty Tribunal before the date of the enactment of the Copyright Royalty Tribunal Reform Act of 1993, or established by a copyright arbitration royalty panel after such date of enactment, may file a petition with the Librarian of Congress declaring that the petitioner requests an adjustment of the rate. The Librarian of Congress shall, upon the recommendation of the Register of Copyrights, make a determination as to whether the petitioner has such a significant interest in the royalty rate in which an adjustment is requested. If the Librarian determines that the petitioner has such a significant interest, the Librarian shall cause notice of this determination, with the reasons therefor, to be published in the Federal Register, together with the notice of commencement of proceedings under this chapter.
+(a)(1) With respect to proceedings under section 801(b)(1) concerning the adjustment of royalty rates as provided in sections 112, 114, 115 and 116, and with respect to proceedings under subparagraphs (A) and (D) of section 801(b)(2),during the calendar years specified in the schedule set forth in paragraphs (2), (3), (4) and (5), any owner or user of a copyrighted work whose royalty rates are specified by this title, established by the Copyright Royalty Tribunal before the date of the enactment of the Copyright Royalty Tribunal Reform Act of 1993, or established by a copyright arbitration royalty panel after such date of enactment, may file a petition with the Librarian of Congress declaring that the petitioner requests an adjustment of the rate. The Librarian of Congress shall, upon the recommendation of the Register of Copyrights, make a determination as to whether the petitioner has such a significant interest in the royalty rate in which an adjustment is requested. If the Librarian determines that the petitioner has such a significant interest, the Librarian shall cause notice of this determination, with the reasons therefor, to be published in the Federal Register, together with the notice of commencement of proceedings under this chapter.
 
 (2) In proceedings under section 801(b)(2)(A) and (D), a petition described in paragraph (1) may be filed during 1995 and in each subsequent fifth calendar year.
 
@@ -10,7 +10,7 @@
 
 (B) If a negotiated license authorized by section 116 is terminated or expires and is not replaced by another such license agreement which provides permission to use a quantity of musical works not substantially smaller than the quantity of such works performed on coin-operated phonorecord players during the 1-year period ending March 1, 1989, the Librarian of Congress shall, upon petition filed under paragraph (1) within 1 year after such termination or expiration, convene a copyright arbitration royalty panel. The arbitration panel shall promptly establish an interim royalty rate or rates for the public performance by means of a coin-operated phonorecord player of non-dramatic musical works embodied in phonorecords which had been subject to the terminated or expired negotiated license agreement. Such rate or rates shall be the same as the last such rate or rates and shall remain in force until the conclusion of proceedings by the arbitration panel, in accordance with section 802, to adjust the royalty rates applicable to such works, or until superseded by a new negotiated license agreement, as provided in section 116(b).
 
-(5) With respect to proceedings under section 801(b)(1) concerning the determination of reasonable terms and rates of royalty payments as provided in section 114, the Librarian of Congress shall proceed when and as provided by that section.
+(5) With respect to proceedings under section 801(b)(1) concerning the determination of reasonable terms and rates of royalty payments as provided in section 112 or 114, the Librarian of Congress shall proceed when and as provided by those sections.
 
 (b) With respect to proceedings under subparagraph (B) or (C) of section 801(b)(2), following an event described in either of those subsections, any owner or user of a copyrighted work whose royalty rates are specified by section 111, or by a rate established by the Copyright Royalty Tribunal or the Librarian of Congress, may, within twelve months, file a petition with the Librarian declaring that the petitioner requests an adjustment of the rate. In this event the Librarian shall proceed as in subsection (a) of this section. Any change in royalty rates made by the Copyright Royalty Tribunal or the Librarian of Congress pursuant to this subsection may be reconsidered in 1980, 1985, and each fifth calendar year thereafter, in accordance with the provisions in section 801(b)(2)(B) or (C), as the case may be.
 
@@ -18,7 +18,7 @@
 
 (d) With respect to proceedings under section 801(b)(3) or (4), concerning the distribution of royalty fees in certain circumstances under section 111, 116, 119, or 1007, the Librarian of Congress shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2597, §804; Pub. L. 100–568, §11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered §803 and amended Pub. L. 103–198, §2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, §5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §12(a)(20), Nov. 13, 1997, 111 Stat. 1535.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2597, §804; Pub. L. 100–568, §11(2), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, §202(5), Nov. 16, 1988, 102 Stat. 3958; Pub. L. 101–318, §3(c), July 3, 1990, 104 Stat. 288; Pub. L. 102–563, §3(a)(2), Oct. 28, 1992, 106 Stat. 4248; renumbered §803 and amended Pub. L. 103–198, §2(d), Dec. 17, 1993, 107 Stat. 2307; Pub. L. 104–39, §5(d)(5)–(7), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §12(a)(20), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–304, title IV, §405(e)(5), (6), Oct. 28, 1998, 112 Stat. 2902.)
 
 #### References in Text
 
@@ -29,6 +29,10 @@ The date of the enactment of the Copyright Royalty Tribunal Reform Act of 1993, 
 A prior section 803, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596, related to procedures of the Copyright Royalty Tribunal, prior to repeal by Pub. L. 103–198, §2(c), Dec. 17, 1993, 107 Stat. 2307.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–304, §405(e)(5), substituted “sections 112, 114, 115” for “sections 114, 115”.
+
+Subsec. (a)(5). Pub. L. 105–304, §405(e)(6), substituted “section 112 or 114” for “section 114” and “those sections” for “that section”.
 
 1997—Subsec. (b). Pub. L. 105–80 substituted “subsection (a)” for “subsection subsection (a)”.
 
@@ -46,7 +50,7 @@ Subsec. (b). Pub. L. 103–198, §2(d)(3), substituted “subparagraph (B)” fo
 
 Subsec. (c). Pub. L. 103–198, §2(d)(4), substituted “Librarian of Congress” for “Tribunal”.
 
-Subsec. (d). Pub. L. 103–198, §2(d)(5), substituted “Librarian of Congress” for “Chairman of the Tribunal”and “a determination” for “determination by the Tribunal”.
+Subsec. (d). Pub. L. 103–198, §2(d)(5), substituted “Librarian of Congress” for “Chairman of the Tribunal” and “a determination” for “determination by the Tribunal”.
 
 Subsec. (e). Pub. L. 103–198, §2(d)(6), struck out subsec. (e) which read as follows: “All proceedings under this chapter shall be initiated without delay following publication of the notice specified in this section, and the Tribunal shall render its final decision in any such proceeding within one year from the date of such publication.”
 
@@ -74,5 +78,5 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 114, 115, 802 of this title.
+This section is referred to in sections 112, 114, 115, 802 of this title.
 

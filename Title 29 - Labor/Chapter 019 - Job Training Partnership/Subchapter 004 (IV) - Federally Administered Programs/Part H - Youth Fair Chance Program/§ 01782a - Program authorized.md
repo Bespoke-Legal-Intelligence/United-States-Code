@@ -2,7 +2,7 @@
 
 #### (a) Establishment of program
 
-The Secretary is authorized to establish a national program of Youth Fair Chance grants topay the Federal share attributable to this part of providing comprehensive services to youth living in high poverty areas in the cities and rural areas of the Nation.
+The Secretary is authorized to establish a national program of Youth Fair Chance grants to pay the Federal share attributable to this part of providing comprehensive services to youth living in high poverty areas in the cities and rural areas of the Nation.
 
 #### (b) Eligibility for grants
 
@@ -45,6 +45,10 @@ The Secretary is authorized to establish a national program of Youth Fair Chance
 In awarding grants under this part, the Secretary shall consider the quality of the proposed project, the goals to be achieved, the likelihood of successful implementation, the extent of community support, other Federal and non-Federal funds available for similar purposes, and additional State, local, or private resources that will be provided. The Secretary shall give priority to participating communities with the highest poverty rates.
 
 (Pub. L. 97–300, title IV, §492, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1086.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Section Referred to in Other Sections
 

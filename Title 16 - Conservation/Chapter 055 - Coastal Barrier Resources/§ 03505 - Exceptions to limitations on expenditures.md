@@ -6,7 +6,7 @@ Notwithstanding section 3504 of this title, the appropriate Federal officer, aft
 
 &emsp;(1) Any use or facility necessary for the exploration, extraction, or transportation of energy resources which can be carried out only on, in, or adjacent to a coastal water area because the use or facility requires access to the coastal water body.
 
-&emsp;(2) The maintenance or construction of improvements of existing Federal navigation channels (including the Intracoastal Waterway) and related structures (such as jetties),including the disposal of dredge materials related to such maintenance or construction.
+&emsp;(2) The maintenance or construction of improvements of existing Federal navigation channels (including the Intracoastal Waterway) and related structures (such as jetties), including the disposal of dredge materials related to such maintenance or construction.
 
 &emsp;(3) The maintenance, replacement, reconstruction, or repair, but not the expansion, of publicly owned or publicly operated roads, structures, or facilities that are essential links in a larger network or system.
 
@@ -72,7 +72,7 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is ti
 
 Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), referred to in subsec. (a)(6)(E), was repealed by Pub. L. 103–325, title V, §551(a), Sept. 23, 1994, 108 Stat. 2269.
 
-The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1,1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Amendments
 

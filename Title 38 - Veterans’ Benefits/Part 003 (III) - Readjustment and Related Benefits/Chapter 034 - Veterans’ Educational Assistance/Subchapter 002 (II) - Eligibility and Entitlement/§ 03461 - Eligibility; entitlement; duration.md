@@ -10,7 +10,7 @@
 
 (c) Except as provided in subsection (b) and in subchapter V of this chapter, no eligible veteran shall receive educational assistance under this chapter in excess of 45 months.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1661; amended Pub. L. 90–77, title III, §306(b)(2), Aug. 31, 1967, 81 Stat. 188; Pub. L. 90–631, §1(b), Oct. 23, 1968, 82 Stat. 1331; Pub. L. 91–219, title II, §204(a)(1), Mar. 26, 1970, 84 Stat. 79; Pub. L. 92–540, title IV, §401(1), Oct. 24, 1972, 86 Stat. 1089; Pub. L. 93–508, title II, §202, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§203, 211(2), title IV, §403(a), Oct. 15, 1976, 90 Stat. 2386, 2388, 2393; Pub.L. 96–466, title VI, §601(b), Oct. 17, 1980, 94 Stat. 2208; renumbered §3461 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1661; amended Pub. L. 90–77, title III, §306(b)(2), Aug. 31, 1967, 81 Stat. 188; Pub. L. 90–631, §1(b), Oct. 23, 1968, 82 Stat. 1331; Pub. L. 91–219, title II, §204(a)(1), Mar. 26, 1970, 84 Stat. 79; Pub. L. 92–540, title IV, §401(1), Oct. 24, 1972, 86 Stat. 1089; Pub. L. 93–508, title II, §202, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§203, 211(2), title IV, §403(a), Oct. 15, 1976, 90 Stat. 2386, 2388, 2393; Pub. L. 96–466, title VI, §601(b), Oct. 17, 1980, 94 Stat. 2208; renumbered §3461 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

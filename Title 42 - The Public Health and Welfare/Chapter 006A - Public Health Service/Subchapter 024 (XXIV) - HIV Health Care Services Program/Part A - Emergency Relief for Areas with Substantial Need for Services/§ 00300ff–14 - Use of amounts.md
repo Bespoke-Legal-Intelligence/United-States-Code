@@ -12,7 +12,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (1) In general
 
-&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 ofthis title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related—
+&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 of this title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related—
 
 &emsp;&emsp;(A) outpatient and ambulatory health and support services, including case management, substance abuse treatment and mental health treatment, and comprehensive treatment services, which shall include treatment education and prophylactic treatment for opportunistic infections, for individuals and families with HIV disease; and
 
@@ -30,7 +30,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (3) Priority for women, infants and children
 
-&emsp;For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
+&emsp;For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general populationin such area of individuals with such syndrome.
 
 #### (c) Limited expenditures for personnel needs
 
@@ -94,7 +94,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;For the purposes of paragraph (1), amounts may be used for administrative activities that include—
 
-&emsp;&emsp;(A) routine grant administration and monitoring activities, including the development of applications for part A funds, the receipt and disbursal of program funds, the development and establishment of reimbursement and accounting systems, the preparation of routine programmatic and financial reports, and compliance with grant conditions and audit requirements; and
+&emsp;&emsp;(A) routine grant administration and monitoring activities, including the development of applications for part A funds, the receipt and disbursal of program funds, the development and establishment of reimbursement and accounting systems, the preparation ofroutine programmatic and financial reports, and compliance with grant conditions and audit requirements; and
 
 &emsp;&emsp;(B) all activities associated with the grantee's contract award procedures, including the development of requests for proposals, contract proposal review activities, negotiation and awarding of contracts, monitoring of contracts through telephone consultation, written documentation or onsite visits, reporting on contracts, and funding reallocation activities.
 
@@ -112,7 +112,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 A State may not use amounts received under a grant awarded under this part to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2604, as added Aug. 18, 1990, Pub. L. 101–381, title I, §101(3), 104 Stat. 580; amended Nov. 2, 1994, Pub. L. 103–446, title XII, §1203(a)(3), 108 Stat. 4689; May 20, 1996, Pub. L. 104–146, §3(b)(4), 110 Stat. 1351.)
+(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Subsec. (e). Pub. L. 104–146, §3(b)(4)(C), struck out “and planning” afte
 
 #### Change of Name
 
-Reference to Veterans Administration deemed to refer to Department of Veterans Affairs pursuant tosection 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Reference to Veterans Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1996 Amendment
 

@@ -54,7 +54,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (A) In general
 
-&emsp;&emsp;On the maturity date of the last-maturing debt obligation issued under subsection (a) of this section, the Financial Assistance Corporation shall repay to the Secretary of the Treasury the total amount of any annual interest charges on the debt obligations that Farm Credit System institutions (other than the Financial Assistance Corporation) have not previously paid, and the Financial Assistance Corporation shall not be required to pay any additional interest charges on the payments.
+&emsp;&emsp;On the maturity date of the last-maturing debt obligation issued under subsection (a) of this section, the Financial Assistance Corporation shall repay to the Secretary ofthe Treasury the total amount of any annual interest charges on the debt obligations that Farm Credit System institutions (other than the Financial Assistance Corporation) have not previously paid, and the Financial Assistance Corporation shall not be required to pay any additional interest charges on the payments.
 
 #### (B) Assessment
 
@@ -158,7 +158,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (ii) Expense item
 
-&emsp;&emsp;&emsp;The annual increase in the present value of the estimated obligation of each bank to the Financial Assistance Corporation under this subparagraph shall be recorded each year as an expense item, in accordance with generally accepted accounting principles, on the books of the bank.
+&emsp;&emsp;&emsp;The annual increase in the present value of the estimated obligation of each bank to the Financial Assistance Corporation under this subparagraph shall be recordedeach year as an expense item, in accordance with generally accepted accounting principles, on the books of the bank.
 
 #### (iii) Pass through
 
@@ -228,7 +228,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (ii) Principal of bonds issued to fund purchase of preferred stock
 
-&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required under paragraph (3)(B)(iii) to purchase preferred stock issued by a System institution under section 2278b–7(a) of this title, the Farm Credit System Insurance Corporation shall use funds deposited in the Insurance Fund to repurchase, at par value, from the Secretary of the Treasury such stock required to be purchased under paragraph (3)(B)(iii) as funds become available for such repurchase.
+&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required under paragraph (3)(B)(iii) to purchase preferred stock issued by a System institution under section 2278b–7(a) of this title, the Farm Credit System Insurance Corporation shall use funds deposited in the Insurance Fund to repurchase, at par value, from the Secretary of the Treasury such stock required to be purchased under paragraph (3)(B)(iii)as funds become available for such repurchase.
 
 #### (iii) Priority
 

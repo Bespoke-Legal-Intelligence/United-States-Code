@@ -34,7 +34,7 @@ In subsec. (c), “November 22, 1983” was in the original “the date of enact
 
 #### Change of Name
 
-“United States Information Agency” substituted for “International Communication Agency” in subsec. (b), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
+“United States Information Agency” substituted for “International Communication Agency” in subsec. (b), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Section Referred to in Other Sections
 

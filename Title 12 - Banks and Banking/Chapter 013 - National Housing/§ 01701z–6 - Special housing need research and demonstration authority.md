@@ -2,7 +2,7 @@
 
 #### (a) Special demonstrations of housing design, structure, facilities, and amenities to meet needs of elderly, handicapped, etc.; contracts, grants, and assistance by Secretary
 
-In carrying out activities under section 1701z–1 of this title, the Secretary may undertake special demonstrations to determine the housing design, the housing structure, and the housing-related facilities, and amenities most effective or appropriate to meet the needs of groups withspecial housing needs including the elderly, the handicapped, the displaced, single individuals, broken families, and large households. For this purpose, the Secretary is authorized to enter into contracts with, to make grants to, and to provide other types of assistance to individuals and entities with special competence and knowledge to contribute to the planning, development, design, and management of such housing.
+In carrying out activities under section 1701z–1 of this title, the Secretary may undertake special demonstrations to determine the housing design, the housing structure, and the housing-related facilities, and amenities most effective or appropriate to meet the needs of groups with special housing needs including the elderly, the handicapped, the displaced, single individuals, broken families, and large households. For this purpose, the Secretary is authorized to enter into contracts with, to make grants to, and to provide other types of assistance to individuals and entities with special competence and knowledge to contribute to the planning, development, design, and management of such housing.
 
 #### (b) Areas of preferential attention
 
@@ -28,7 +28,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Indian Public Housing Early Childhood Development Demonstration Program
 
-Pub. L. 101–625, title V, §518, Nov. 28, 1990, 104 Stat. 4201, as amended by Pub. L. 102–550, title I, §124, Oct. 28, 1992, 106 Stat. 3709, authorized Secretary of Housing and Urban Development to carry out demonstration program in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under section 222 of Pub. L. 98–181, set out below, is carried out, and further provided for funding for demonstration program, limitations, and report to Congress, prior to repeal, effective Oct. 1, 1997, by Pub. L. 104–330, title I, §107, title V, §501(d)(1), Oct. 26, 1996, 110 Stat. 4031, 4042, which directed the repeal of section 519 of Pub. L. 101–625 (12 U.S.C. 1701z–6 note), but was executed by repealing section 518 of Pub. L. 101–625, to reflect the probable intent of Congress.
+Pub. L. 101–625, title V, §518, Nov. 28, 1990, 104 Stat. 4201, as amended by Pub. L. 102–550, title I, §124, Oct. 28, 1992, 106 Stat. 3709; Pub. L. 104–330, title V, §501(d)(1), Oct. 26, 1996, 110 Stat. 4042, authorized Secretary of Housing and Urban Development to carry out demonstration program in low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority in the same manner as the demonstration program under section 222 of Pub. L. 98–181 was carried out, and further provided for funding for demonstration program, limitations, and report to Congress, prior to repeal by Pub. L. 105–276, title V, §582(a)(7), Oct. 21, 1998, 112 Stat. 2643.
 
 #### Demonstration Project for Assistance to Units of General Local Government To Encourage Upgrading of Lower Income Family Housing
 
@@ -98,77 +98,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 #### Public Housing Early Childhood Development Program
 
-Pub. L. 98–181, title II, §222, Nov. 30, 1983, 97 Stat. 1188, as amended by Pub. L. 100–242, title I, §117, Feb. 5, 1988, 101 Stat. 1826; Pub. L. 100–628, title X, §1002, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §517, Nov. 28, 1990, 104 Stat. 4200; Pub. L. 102–550, title I, §123, Oct. 28, 1992, 106 Stat. 3709, provided that:
-
-“(a)
-
-Program Authority.—
-
-&emsp;“(1) The Secretary of Housing and Urban Development shall, to the extent approved in appropriation Acts, carry out a demonstration program of making grants to nonprofit organizations to assist such organizations in providing early childhood development services in or near lower income housing projects for lower income families who reside in public housing.
-
-&emsp;“(2) The Secretary shall design the program described in paragraph (1) to determine the extent to which the availability of early childhood development services in or near lower income housing projects facilitates the employability of the parents or guardians of children residing in public housing.
-
-“(b)
-
-Eligibility for Assistance.—The Secretary may make a grant to a nonprofit organization for early childhood development services in or near a lower income housing project only if—
-
-&emsp;“(1) prior to receipt of assistance under this section, an early childhood development services program is not in operation for the project;
-
-&emsp;“(2) the public housing agency agrees to provide suitable facilities in or near the project for the provision of early childhood development services;
-
-&emsp;“(3) the early childhood development services program for the project will serve preschool children during the day, school children after school, or both, in order to permit the parents or guardians of such children to obtain, retain, or train for employment;
-
-&emsp;“(4) the early childhood development services program for the project is designed, to the extent practicable, to involve the participation of the parents of children benefiting from such program;
-
-&emsp;“(5) the early childhood development services program for the project is designed, to the extent practicable, to employ in part-time positions elderly individuals who reside in the lower income housing project involved; and
-
-&emsp;“(6) the early childhood development services program for the project complies with all applicable State and local laws, regulations, and ordinances.
-
-“(c)
-
-Allocation of Assistance.—In providing grants under this section, the Secretary shall—
-
-&emsp;“(1) give priority to nonprofit organizations providing early childhood development services in or near lower income housing projects in which reside the largest number of preschool and school children of lower income families;
-
-&emsp;“(2) seek to ensure a reasonable distribution of such grants between urban and rural areas and among nonprofit organizations providing early childhood development services in or near lower income housing projects of varying sizes; and
-
-&emsp;“(3) seek to provide such grants to the largest number of nonprofit organizations practicable, considering the amount of funds available under this section and the financial requirements of the particular early childhood development programs to be established for the lower income housing projects for which applications are submitted under this section.
-
-“(d)
-
-Administrative Provisions.—
-
-&emsp;“(1) Applications for grants under this section shall be made by nonprofit organizations (in consultation with public housing agencies) in such form, and according to such procedures, as the Secretary may prescribe.
-
-&emsp;“(2) Any nonprofit organization receiving a grant under this section may use such grant only for operating expenses and minor renovations of facilities necessary to the provision of early childhood development services under this section.
-
-&emsp;“(3) The Secretary shall conduct periodic evaluations of each early childhood development program assisted under this section for purposes of—
-
-&emsp;&emsp;“(A) determining the effectiveness of such program in providing early childhood developmentservices and permitting the parents or guardians of children residing in public housing to obtain, retain, or train for employment; and
-
-&emsp;&emsp;“(B) ensuring compliance with the provisions of this section.
-
-&emsp;“(4) No provision of this section may be construed to authorize the Secretary to establish any health, safety, educational, or other standards with respect to early childhood development services or facilities assisted with grants received under this section. Such services and facilities shall comply with all applicable State and local laws, regulations, and ordinances, and all requirements established by the Secretary of Health and Human Services for early childhood development services and facilities.
-
-“(e)
-
-Report to Congress.—Not later than the expiration of the 3-year period following the date of the enactment of the Housing and Community Development Act of 1987 \[Feb. 5, 1988\], the Secretary shall prepare and submit to the Congress a detailed report setting forth the findings and conclusions of the Secretary as a result of carrying out the demonstration program established in this section. Such report shall include any recommendations of the Secretary with respect to the establishment of a permanent program of assisting early childhood development services in or near lower income housing projects.
-
-“(f)
-
-Definitions.—For purposes of this section:
-
-&emsp;“(1) The term ‘lower income families’ has the meaning given such term in section 3(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(2)\].
-
-&emsp;“(2) The terms ‘lower income housing project’ and ‘public housing’ have the meanings given such terms in section 3(b)(1) of the United States Housing Act of 1937.
-
-&emsp;“(3) The term ‘public housing agency’ has the meaning given such term in section 3(b)(6) of the United States Housing Act of 1937.
-
-&emsp;“(4) The term ‘Secretary’ means the Secretary of Housing and Urban Development.
-
-“(g)
-
-Authorization of Appropriations.—To the extent provided in appropriation Acts, of any amounts appropriated for fiscal year 1993 under section 103 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5303\], $5,000,000 shall be available to carry out this section. To the extent approved in appropriation Acts, of any amounts appropriated for fiscal year 1994 under section 5(c) of the United States Housing Act of 1937 \[42 U.S.C. 1437c(c)\] for grants for the development of public housing, $5,210,000 shall be available to carry out this section. Any such amounts shall remain available until expended.”
+Pub. L. 98–181, title II, §222, Nov. 30, 1983, 97 Stat. 1188, as amended by Pub. L. 100–242, title I, §117, Feb. 5, 1988, 101 Stat. 1826; Pub. L. 100–628, title X, §1002, Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §517, Nov. 28, 1990, 104 Stat. 4200; Pub. L. 102–550, title I, §123, Oct. 28, 1992, 106 Stat. 3709, which authorized Secretary of Housing and Urban Development to carry out demonstration program of making grants to nonprofit organizations to assist in providing early childhood development services in or near lower income housing projects, and required report to Congress setting forth findings and conclusions not later than three years after Feb. 5, 1988, was repealed by Pub. L. 105–276, title V, §582(a)(6), Oct. 21, 1998, 112 Stat. 2643.
 
 #### Public Housing Security
 
@@ -216,7 +146,7 @@ Pub. L. 95–557, title II, §207, Oct. 31, 1978, 92 Stat. 2093, as amended by P
 
 “(2) In selecting public housing projects to receive assistance under this section, the Secretary shall assure that a broad spectrum of project types, locations and tenant populations are represented and shall consider at least the following: the extent of crime and vandalism currently existing in the projects; the extent, nature and quality of community anticrime efforts in the projects and surrounding areas; the extent, nature and quality of police and other protective services available to the projects and their tenants; the demand for public housing units in the locality, the vacancy rate, and extent of abandonment of such units; and the characteristics and needs of the public housing tenants.
 
-“(3) In selecting the anticrime and security methods, concepts and techniques to be demonstrated under this section, the Secretary shall consider the improvement of physical security equipment or dwelling units in those projects, social and environmental design improvements, tenant awareness and volunteer programs, tenant participation and employment in providing security services, and such other measures as deemed necessary or appropriate by the Secretary. Particular attention shall be given to comprehensive community anticrime and security plans submitted by public housing authorities which (i) provide for coordination between public housing management and local law enforcement officials, or (ii) coordinate resources available to the community through programs funded by theLaw Enforcement Assistance Administration, the Department of Health and Human Services, the Department of Labor, the Community Services Administration, and the Corporation for National and Community Service, or other Federal or State agencies.
+“(3) In selecting the anticrime and security methods, concepts and techniques to be demonstrated under this section, the Secretary shall consider the improvement of physical security equipment or dwelling units in those projects, social and environmental design improvements, tenant awareness and volunteer programs, tenant participation and employment in providing security services, and such other measures as deemed necessary or appropriate by the Secretary. Particular attention shall be given to comprehensive community anticrime and security plans submitted by public housing authorities which (i) provide for coordination between public housing management and local law enforcement officials, or (ii) coordinate resources available to the community through programs funded by the Law Enforcement Assistance Administration, the Department of Health and Human Services, the Department of Labor, the Community Services Administration, and the Corporation for National and Community Service, or other Federal or State agencies.
 
 “(4) In carrying out the provisions of this section, the Secretary shall coordinate and jointly target resources with other agencies, particularly the Law Enforcement Assistance Administration, the Department of Health and Human Services, the Department of Labor, the Department of Justice, the Department of the Interior, the Department of Commerce, the Department of Education, the Corporation for National and Community Service, the Community Services Administration, and State and local agencies.
 

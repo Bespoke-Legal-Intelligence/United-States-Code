@@ -30,7 +30,7 @@ Exclusions.—The term “consumer report” does not include—
 
 &emsp;&emsp;&emsp;(ii) communication of that information among persons related by common ownership or affiliated by corporate control; or
 
-&emsp;&emsp;&emsp;(iii) any communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons and the consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons;
+&emsp;&emsp;&emsp;(iii) communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons and the consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons;
 
 &emsp;&emsp;(B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device;
 
@@ -38,7 +38,7 @@ Exclusions.—The term “consumer report” does not include—
 
 &emsp;&emsp;(D) a communication described in subsection (<i>o</i>) of this section.
 
-(e) The term “investigative consumer report” means a consumer report or portion thereof in which information on a consumer's character, general reputation, personal characteristics, or mode of living is obtained through personal interviews with neighbors, friends, or associates of the consumer reported on or with others with whom he is acquainted or who may have knowledge concerning any such items of information. However, such information shall not include specific factual information on a consumer's credit record obtained directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a creditor of the consumer or from the consumer.
+(e) The term “investigative consumer report” means a consumer report or portion thereof in which information on a consumer's character,general reputation, personal characteristics, or mode of living is obtained through personal interviews with neighbors, friends, or associates of the consumer reported on or with others with whom he is acquainted or who may have knowledge concerning any such items of information. However, such information shall not include specific factual information on a consumer's credit record obtained directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a creditor of the consumer or from the consumer.
 
 (f) The term “consumer reporting agency” means any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.
 
@@ -126,7 +126,7 @@ State.—The term “State” means any State, the Commonwealth of Puerto Rico, 
 
 Excluded Communications.—A communication is described in this subsection if it is a communication—
 
-&emsp;(1) that, but for subsection (d)(2)(E) of this section, would be an investigative consumer report;
+&emsp;(1) that, but for subsection (d)(2)(D) of this section, would be an investigative consumer report;
 
 &emsp;(2) that is made to a prospective employer for the purpose of—
 
@@ -136,7 +136,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 &emsp;(3) that is made by a person who regularly performs such procurement;
 
-&emsp;(4) that is not used by any person for any purpose other than a purpose described in subparagraph (A) or (B) of paragraph (2); or
+&emsp;(4) that is not used by any person for any purpose other than a purpose described in subparagraph (A) or (B) of paragraph (2); and
 
 &emsp;(5) with respect to which—
 
@@ -164,9 +164,15 @@ Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Na
 
 &emsp;(2) Credit account information from persons who furnish that information regularly and in the ordinary course of business.
 
-(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426.)
+(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211.)
 
 #### Amendments
+
+1998—Subsec. (d)(2)(A)(iii). Pub. L. 105–347, §6(1), struck out “any” before “communication of other”.
+
+Subsec. (<i>o</i>)(1). Pub. L. 105–347, §6(2), substituted “(d)(2)(D)” for “(d)(2)(E)”.
+
+Subsec. (<i>o</i>)(4). Pub. L. 105–347, §6(3), substituted “and” for “or” at end.
 
 1996—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end “The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title.”
 
@@ -183,6 +189,10 @@ Subsec. (<i>o</i>). Pub. L. 104–208, §2402(f), added subsec. (<i>o</i>).
 Subsec. (p). Pub. L. 104–208, §2402(g), added subsec. (p).
 
 1992—Subsec. (j). Pub. L. 102–537 added subsec. (j).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: “The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\].”
 
 #### Effective Date of 1996 Amendment
 

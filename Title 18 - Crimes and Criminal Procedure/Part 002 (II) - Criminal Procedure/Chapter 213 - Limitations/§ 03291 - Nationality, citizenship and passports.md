@@ -2,7 +2,7 @@
 
 No person shall be prosecuted, tried, or punished for violation of any provision of sections 1423 to 1428, inclusive, of chapter 69 and sections 1541 to 1544, inclusive, of chapter 75 of title 18 of the United States Code, or for conspiracy to violate any of such sections, unless the indictment is found or the information is instituted within ten years after the commission of the offense.
 
-(Added June 30, 1951, ch. 194, §1, 65 Stat. 107; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330008(9), 108 Stat. 2143.)
+(Added June 30, 1951, ch. 194, §1, 65 Stat. 107; amended Pub. L. 103–322, title XXXIII, §330008(9), Sept. 13, 1994, 108 Stat. 2143.)
 
 #### Amendments
 

@@ -18,13 +18,17 @@ The purpose of this section is to recognize, encourage, and promote the use of c
 
 &emsp;&emsp;(B) promote the work-learning-service experience as a tool of postsecondary education, financial self-help and community service-learning opportunities;
 
-&emsp;&emsp;(C) carry out activities described in section 2753 or 2756 of this title; and
+&emsp;&emsp;(C) carry out activities described in section 2753 or 2756 of this title;
 
 &emsp;&emsp;(D) be used for the administration, development and assessment of comprehensive work-learning programs, including—
 
 &emsp;&emsp;&emsp;(i) community-based work-learning alternatives that expand opportunities for community service and career-related work; and
 
-&emsp;&emsp;&emsp;(ii) alternatives that develop sound citizenship, encourage student persistence, and make optimum use of assistance under this part in education and student development.
+&emsp;&emsp;&emsp;(ii) alternatives that develop sound citizenship, encourage student persistence, and make optimum use of assistance under this part in education and student development;
+
+&emsp;&emsp;(E) coordinate and carry out joint projects and activities to promote work service learning; and
+
+&emsp;&emsp;(F) carry out a comprehensive, longitudinal study of student academic progress and academic and career outcomes, relative to student self-sufficiency in financing theirhigher education, repayment of student loans, continued community service, kind and quality of service performed, and career choice and community service selected after graduation.
 
 #### (c) Application
 
@@ -52,9 +56,9 @@ For the purpose of this section—
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(Pub. L. 89–329, title IV, §448, as added Pub. L. 102–325, title IV, §447, July 23, 1992, 106 Stat. 567.)
+(Pub. L. 89–329, title IV, §448, as added Pub. L. 102–325, title IV, §447, July 23, 1992, 106 Stat. 567; amended Pub. L. 105–244, title IV, §445, Oct. 7, 1998, 112 Stat. 1714.)
 
 #### References in Text
 
@@ -63,6 +67,16 @@ Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E
 #### Prior Provisions
 
 A prior section 2756b, Pub. L. 89–329, title IV, §448, as added Pub. L. 96–374, title IV, §437, Oct. 3, 1980, 94 Stat. 1436, related to work study programs for community service-learning, prior to the general revision of this part by Pub. L. 99–498. See section 2756a of this title.
+
+#### Amendments
+
+1998—Subsec. (b)(2)(E), (F). Pub. L. 105–244, §445(1), added subpars. (E) and (F).
+
+Subsec. (f). Pub. L. 105–244, §445(2), substituted “1999” for “1993”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date
 

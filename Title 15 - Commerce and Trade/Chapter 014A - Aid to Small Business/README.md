@@ -225,10 +225,14 @@
 | (a) | Establishment. |
 | (b) | Appointment of director. |
 | (c) | Functions. |
-| [654\.](%C2%A7%2000654%20-%20Tourism%20demonstration%20program.md) | Tourism demonstration program. |
-| (a) | In general. |
-| (b) | Authorization of appropriations. |
-| (c) | Report. |
+| [654\.](%C2%A7%2000654%20-%20Drug-free%20workplace%20demonstration%20program.md) | Drug-free workplace demonstration program. |
+| (a) | Definitions. |
+| (b) | Establishment. |
+| (c) | Privacy protection for employees participating in drug-free workplace program. |
+| (d) | Evaluation and coordination. |
+| (e) | Contract authority. |
+| (f) | Construction. |
+| (g) | Authorization. |
 | [655\.](%C2%A7%2000655%20-%20Pilot%20Technology%20Access%20Program.md) | Pilot Technology Access Program. |
 | (a) | Establishment. |
 | (b) | Criteria for selection of Centers. |
@@ -265,7 +269,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16 sections 472a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 section 7661f; title 49 section 13709; title 50 App. section 2017<i>l.</i>
+This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16sections 472a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 section 7661f; title 49 section 13709; title 50 App. section 2017<i>l.</i>
 
 
 ---
@@ -317,7 +321,7 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00651 - National small business tree planting program](%C2%A7%2000651%20-%20National%20small%20business%20tree%20planting%20program.md)
 - [&sect; 00652 - Central European Enterprise Development Commission](%C2%A7%2000652%20-%20Central%20European%20Enterprise%20Development%20Commission.md)
 - [&sect; 00653 - Office of Rural Affairs](%C2%A7%2000653%20-%20Office%20of%20Rural%20Affairs.md)
-- [&sect; 00654 - Tourism demonstration program](%C2%A7%2000654%20-%20Tourism%20demonstration%20program.md)
+- [&sect; 00654 - Drug-free workplace demonstration program](%C2%A7%2000654%20-%20Drug-free%20workplace%20demonstration%20program.md)
 - [&sect; 00655 - Pilot Technology Access Program](%C2%A7%2000655%20-%20Pilot%20Technology%20Access%20Program.md)
 - [&sect; 00656 - Women's business center program](%C2%A7%2000656%20-%20Women%27s%20business%20center%20program.md)
 - [&sect; 00657 - Oversight of regulatory enforcement](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md)

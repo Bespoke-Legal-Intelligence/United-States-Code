@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(ix) a “teacher” or an individual holding a “teaching position” as defined by section 901 of title 20;
 
-&emsp;&emsp;(x) an officer in the executive branch or in the government of the District of Columbiawho is appointed by the President and whose rate of basic pay exceeds the highest rate payable under section 5332 of this title;
+&emsp;&emsp;(x) an officer in the executive branch or in the government of the District of Columbia who is appointed by the President and whose rate of basic pay exceeds the highest rate payable under section 5332 of this title;
 
 &emsp;&emsp;(xi) an officer in the executive branch or in the government of the District of Columbia who is designated by the President, except a postmaster, United States attorney, or United States marshal;
 
@@ -40,7 +40,7 @@ For the purpose of this subchapter—
 
 > Notwithstanding clauses (x)–(xii) of paragraph (2), the term “employee” includes any member of the Senior Foreign Service or any Foreign Service officer (other than a member or officer serving as chief of mission or in a position which requires appointment by and with the advice and consent of the Senate) and any member of the Foreign Service commissioned as a diplomatic or consular officer, or both, under section 312 of the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335, title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 91–375, §6(c)(17), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–519, §1, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §§2312(a), 2314(f)(1), Oct. 17, 1980, 94 Stat. 2166, 2168; Pub. L. 99–335,title II, §207(c)(1), formerly §207(c), June 6, 1986, 100 Stat. 595, renumbered §207(c)(1), Pub. L. 99–556, title II, §201(1), Oct. 27, 1986, 100 Stat. 3135; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274.)
 
 Historical and Revision Notes
 
@@ -138,7 +138,7 @@ Pub. L. 103–388, §1, Oct. 22, 1994, 108 Stat. 4079, provided that: “This Ac
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–103, §1, Oct. 8, 1993, 107 Stat. 1022, provided that: “This Act \[amending sections 6331, 6337, 6361, 6362,and 6373 of this title, enacting provisions set out as notes under section 6331 of this title, and repealing provisions set out as a note under section 6331 of this title\] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
+Pub. L. 103–103, §1, Oct. 8, 1993, 107 Stat. 1022, provided that: “This Act \[amending sections 6331, 6337, 6361, 6362, and 6373 of this title, enacting provisions set out as notes under section 6331 of this title, and repealing provisions set out as a note under section 6331 of this title\] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
 
 #### Short Title of 1988 Amendment
 

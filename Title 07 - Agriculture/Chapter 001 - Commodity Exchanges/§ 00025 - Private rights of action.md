@@ -28,7 +28,7 @@
 
 #### (b) Liabilities of organizations and individuals; bad faith requirement; exclusive remedy
 
-(1)(A) A contract market or clearing organization of a contract market that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by section 7a(8) <sup>1</sup> and section 7a(9) <sup>1</sup> of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any contract market, clearing organization of a contract market, or licensed board of trade that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such contract market or licensed board of trade to the extent of such person's actual losses thatresulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
+(1)(A) A contract market or clearing organization of a contract market that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by section 7a(8) <sup>1</sup> and section 7a(9) <sup>1</sup> of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any contract market, clearing organization of a contract market, or licensed board of trade that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such contract market or licensed board of trade to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
 
 (2) A registered futures association that fails to enforce any bylaw or rule that is required under section 21 of this title or in enforcing any such bylaw or rule violates this chapter or any Commission rule, regulation, or order shall be liable for actual damages sustained by a person that engaged in any transaction specified in subsection (a) of this section to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaw or rule.
 
@@ -46,7 +46,7 @@ The United States district courts shall have exclusive jurisdiction of actions b
 
 The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: <i>Provided</i>, That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
 
-(Sept. 21, 1922, ch. 369, §22, as added Jan. 11, 1983, Pub. L. 97–444, title II, §235, 96 Stat. 2322; amended Oct. 28, 1992, Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), 106 Stat. 3607, 3616, 3625.)
+(Sept. 21, 1922, ch. 369, §22, as added Pub. L. 97–444, title II, §235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625.)
 
 #### References in Text
 

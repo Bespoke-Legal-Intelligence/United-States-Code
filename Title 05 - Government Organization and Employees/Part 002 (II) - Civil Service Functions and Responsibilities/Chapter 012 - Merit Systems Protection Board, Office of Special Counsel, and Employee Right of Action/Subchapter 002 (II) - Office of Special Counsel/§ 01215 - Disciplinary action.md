@@ -24,7 +24,7 @@
 
 (3) A final order of the Board may impose disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000.
 
-(4) There may be no administrative appeal from an order of the Board. An employee subject to a final order imposing disciplinary action under this subsection may obtain judicial reviewof the order by filing a petition therefor with such court, and within such time, as provided for under section 7703(b).
+(4) There may be no administrative appeal from an order of the Board. An employee subject to a final order imposing disciplinary action under this subsection may obtain judicial review of the order by filing a petition therefor with such court, and within such time, as provided for under section 7703(b).
 
 (5) In the case of any State or local officer or employee under chapter 15, the Board shall consider the case in accordance with the provisions of such chapter.
 
@@ -32,11 +32,11 @@
 
 (c)(1) In the case of members of the uniformed services and individuals employed by any person under contract with an agency to provide goods or services, the Special Counsel may transmit recommendations for disciplinary or other appropriate action (including the evidence on which such recommendations are based) to the head of the agency concerned.
 
-(2) In any case in which the Special Counsel transmits recommendations to an agency head under paragraph (1), the agency head shall, within 60 days after receiving such recommendations, transmit a report to the Special Counsel on each recommendation and the action taken, or proposed to be taken, with respect to each such recommendation.
+(2) In any case in which the Special Counsel transmits recommendations to an agency head under paragraph (1), the agency head shall, within 60 days after receiving such recommendations, transmit a report to the Special Counselon each recommendation and the action taken, or proposed to be taken, with respect to each such recommendation.
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 27.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1212, 1216, 1219, 1221, 2105, 3393, 7121, 7502, 7512, 7521, 7542 of this title.
+This section is referred to in sections 1204, 1212, 1216, 1219, 1221, 2105, 2302, 3393, 7121, 7502, 7512, 7521, 7542 of this title.
 

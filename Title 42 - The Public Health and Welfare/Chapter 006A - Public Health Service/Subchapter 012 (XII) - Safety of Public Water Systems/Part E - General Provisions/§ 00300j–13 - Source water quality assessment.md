@@ -10,7 +10,7 @@
 
 &emsp;A source water assessment program under this subsection shall—
 
-&emsp;&emsp;(A) delineate the boundaries of the assessment areas in such State from which one or more public water systems in the State receive supplies of drinking water, using all reasonably available hydrogeologic information on the sources of the supply of drinking water in the State and the water flow, recharge, and discharge and any other reliableinformation as the State deems necessary to adequately determine such areas; and
+&emsp;&emsp;(A) delineate the boundaries of the assessment areas in such State from which one or more public water systems in the State receive supplies of drinking water, using all reasonably available hydrogeologic information on the sources of the supply of drinking water in the State and the water flow, recharge, and discharge and any other reliable information as the State deems necessary to adequately determine such areas; and
 
 &emsp;&emsp;(B) identify for contaminants regulated under this subchapter for which monitoring is required under this subchapter (or any unregulated contaminants selected by the State, in its discretion, which the State, for the purposes of this subsection, has determined may present a threat to public health), to the extent practical, the origins within each delineated area of such contaminants to determine the susceptibility of the public water systems in the delineated area to such contaminants.
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(C) Delineations or assessments of surface or ground water sources under a State pesticide management plan developed pursuant to the Pesticide and Ground Water State Management Plan Regulation (subparts I and J of part 152 of title 40, Code of Federal Regulations), promulgated under section 136a(d) of title 7.
 
-&emsp;&emsp;(D) Delineations or assessments of surface water sources under a State watershed initiative or to satisfy the watershed criterion for determining if filtration is required under the Surface Water Treatment Rule (section 141.70 of title 40, Code of Federal Regulations).
+&emsp;&emsp;(D) Delineations or assessments of surface water sources under a State watershed initiative or to satisfy the watershed criterion for determining if filtration is required under the Surface Water Treatment Rule\(section 141.70 of title 40, Code of Federal Regulations).
 
 &emsp;&emsp;(E) Delineations or assessments of surface or ground water sources under programs or plans pursuant to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\].
 
@@ -48,7 +48,7 @@
 
 For provisions relating to program approval and disapproval, see section 300h–7(c) of this title.
 
-(July 1, 1944, ch. 373, title XIV, §1453, as added Aug. 6, 1996, Pub. L. 104–182, title I, §132(a), 110 Stat. 1673.)
+(July 1, 1944, ch. 373, title XIV, §1453, as added Pub. L. 104–182, title I, §132(a), Aug. 6, 1996, 110 Stat. 1673.)
 
 #### References in Text
 

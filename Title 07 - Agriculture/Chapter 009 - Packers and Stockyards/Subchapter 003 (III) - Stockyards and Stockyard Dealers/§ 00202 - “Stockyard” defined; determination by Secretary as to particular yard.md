@@ -4,7 +4,7 @@
 
 (b) The Secretary shall from time to time ascertain, after such inquiry as he deems necessary, the stockyards which come within the foregoing definition, and shall give notice thereof to the stockyard owners concerned, and give public notice thereof by posting copies of such notice in the stockyard, and in such other manner as he may determine. After the giving of such notice to the stockyard owner and to the public, the stockyard shall remain subject to the provisions of this subchapter until like notice is given by the Secretary that such stockyard no longer comes within the foregoing definition.
 
-(Aug. 15, 1921, ch. 64, title III, §302, 42 Stat. 163; Sept. 2, 1958, Pub. L. 85–909, §2(2), 72 Stat. 1750; July 31, 1968, Pub. L. 90–446, §1(a), 82 Stat. 474.)
+(Aug. 15, 1921, ch. 64, title III, §302, 42 Stat. 163; Pub. L. 85–909, §2(2), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, §1(a), July 31, 1968, 82 Stat. 474.)
 
 #### Amendments
 

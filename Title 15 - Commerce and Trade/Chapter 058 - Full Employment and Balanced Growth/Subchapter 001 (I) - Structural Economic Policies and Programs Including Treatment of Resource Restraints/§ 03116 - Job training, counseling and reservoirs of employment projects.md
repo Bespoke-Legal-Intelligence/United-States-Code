@@ -4,11 +4,11 @@
 
 Further to promote achievement of full employment under this chapter and the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President, through the Secretary of Labor, shall develop policies and procedures and, as necessary, recommend programs for providing employment opportunities to individuals aged 16 and over in the civilian labor force who are able, willing, and seeking to work but who, despite serious efforts to obtain employment, remain unemployed.
 
-#### (b) Utilization of authority under CETA
+#### (b) Utilization of authority under other laws
 
-In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under CETA and other relevant provisions of law to—
+In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other relevant provisions of law to—
 
-&emsp;(1) assure the availability of counseling, training, and other support activities necessary to prepare persons willing and seeking work for employment (including use of section 110 of CETA when necessary);
+&emsp;(1) assure the availability of counseling, training, and other support activities necessary to prepare persons willing and seeking work for employment;
 
 &emsp;(2) refer persons able, willing, and seeking to work to job opportunities in the private and public sectors through the existing public employment placement facilities and through the United States Employment Service of the Department of Labor, including job opportunities in any positions created under programs established pursuant to sections 3112, 3114, and 3115 of this title; and
 
@@ -16,11 +16,11 @@ In meeting the responsibilities under subsection (a) of this section, the Secret
 
 #### (c) Establishment of project reservoirs; restrictions and requirements of new programs
 
-(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of CETA and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
+(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities carried out under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
 
 (2) New programs as may be authorized by law after October 27, 1978, referred to in paragraph (c)(1)—
 
-&emsp;(A) shall not be put into operation earlier than two years after October 27, 1978, nor without a finding by the President, transmitted to the Congress, that other means of employment are not yielding enough jobs to be consistent with attainment of the goals and timetables for the reduction of unemployment set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\];
+&emsp;(A) shall not be put into operation earlier than two years after October 27, 1978, nor without a finding by the President, transmitted to the Congress, that other means of employmentare not yielding enough jobs to be consistent with attainment of the goals and timetables for the reduction of unemployment set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\];
 
 &emsp;(B) shall be designed so that no workers from private employment are drawn into the reservoir projects thereunder;
 
@@ -44,7 +44,15 @@ The Secretary, in carrying out the provisions of this section, shall establish r
 
 &emsp;(4) such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.
 
-(Pub. L. 95–523, title II, §206, Oct. 27, 1978, 92 Stat. 1902.)
+(Pub. L. 95–523, title II, §206, Oct. 27, 1978, 92 Stat. 1902; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(12)(A), (f)(10)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–431.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(10), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, this section is amended as follows:</i>
+
+<i>(1) in subsection (b), in the matter preceding paragraph (1), by striking “CETA” and inserting “the Job Training Partnership Act and”;</i>
+
+<i>(2) in subsection (c)(1), by striking “activities carried out under the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
@@ -52,7 +60,21 @@ For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), se
 
 The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
-CETA, referred to in subsecs. (b) and (c)(1), means the Comprehensive Employment and Training Act of 1973, Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended, which was classified generally to chapter 17 (§801 et seq.) of Title 29, Labor, and was repealed by section184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29. Section 183 of Pub. L. 97–300, classified to section 1592 of Title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act. Section 110 of CETA was classified to section 820 of Title 29 and was omitted from the Code in the general revision of Pub. L. 93–203 by Pub. L. 95–524, Oct. 27, 1978, 92 Stat. 1909.
+The Job Training Partnership Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(II)\], struck out “(including use of section 110 of CETA when necessary)” before semicolon at end.
+
+Subsec. (c)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(ii)\], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(12)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(10)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

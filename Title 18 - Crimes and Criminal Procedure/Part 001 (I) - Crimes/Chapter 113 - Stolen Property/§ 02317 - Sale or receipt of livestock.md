@@ -2,7 +2,7 @@
 
 Whoever receives, conceals, stores, barters, buys, sells, or disposes of any livestock, moving in or constituting a part of interstate or foreign commerce, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 807; Oct. 12, 1984, Pub. L. 98–473, title II, §1114, 98 Stat. 2149; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 98–473, title II, §1114, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 (a) An officer of the Marine Corps who is a judge advocate and a member of the bar of a Federal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be detailed as Staff Judge Advocate to the Commandant of the Marine Corps. If an officer appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a lower regular grade, the officer shall be appointed in the regular grade of brigadier general.
 
-(b) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Staff Judge Advocate to the Commandant of the Marine Corps, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
+(b) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Staff Judge Advocate to the Commandant of the Marine Corps, shall ensure that the officer selected is recommended by a board of officers that, insofaras practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
 (Added Pub. L. 99–661, div. A, title V, §509(a)(1), Nov. 14, 1986, 100 Stat. 3868; amended Pub. L. 103–337, div. A, title V, §504(b)(4), Oct. 5, 1994, 108 Stat. 2751.)
 

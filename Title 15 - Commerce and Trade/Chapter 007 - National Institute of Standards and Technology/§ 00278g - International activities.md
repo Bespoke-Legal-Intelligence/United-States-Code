@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance to foreign nationals
 
-The Secretary is authorized, notwithstanding any other provision of law, to expend such sums, within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
+The Secretary is authorized, notwithstanding any other provision of law, to expend such sums,within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
 
 #### (b) Foreign assistance and compensation to Institute employees
 
@@ -16,7 +16,7 @@ Provisions of law prohibiting the use of any part of any appropriation for the p
 
 For any scientific and engineering disciplines for which there is a shortage of suitably qualified and available United States citizens and nationals, the Secretary is authorized to recruit and employ in scientific and engineering fields at the Institute foreign nationals who have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] and who intend to become United States citizens. Employment of a person under this paragraph shall not be subject to the provisions of title 5 governing employment in the competitive service, or to any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them.
 
-(Mar. 3, 1901, ch. 872, §17, as added Oct. 15, 1980, Pub. L. 96–461, §9, 94 Stat. 2051; amended Aug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433; Feb. 14, 1992, Pub. L. 102–245, title I, §104(h)(2), 106 Stat. 11.)
+(Mar. 3, 1901, ch. 872, §17, as added Pub. L. 96–461, §9, Oct. 15, 1980, 94 Stat. 2051; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, §104(h)(2), Feb. 14, 1992, 106 Stat. 11.)
 
 #### References in Text
 

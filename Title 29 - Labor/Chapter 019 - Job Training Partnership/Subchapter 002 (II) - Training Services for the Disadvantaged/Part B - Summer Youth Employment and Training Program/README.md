@@ -2,7 +2,7 @@ Part B—Summer Youth Employment and Training Program
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1502, 1734 of this title.
+This part is referred to in sections 1502, 1734, 2852 of this title.
 
 
 ---

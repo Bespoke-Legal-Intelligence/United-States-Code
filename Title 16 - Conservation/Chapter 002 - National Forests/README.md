@@ -167,6 +167,14 @@
 | [533\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000533%20-%20Grant%20of%20easements%20for%20road%20rights-of-way%3B%20authority%20of%20Secretary%20of%20Agriculture%3B%20regulations.md) | Grant of easements for road rights-of-way; authority of Secretary of Agriculture; regulations. |
 | [534\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000534%20-%20Termination%20and%20cancellation%20of%20easements%3B%20notice%3B%20hearing.md) | Termination and cancellation of easements; notice; hearing. |
 | [535\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000535%20-%20Forest%20development%20roads%3B%20acquisition%2C%20construction%2C%20and%20maintenance%3B%20maximum%20economy%3B%20methods%20of%20financing%3B%20cost%20arrangements%20for%E2%80%A6.md) | Forest development roads; acquisition, construction, and maintenance; maximum economy; methods of financing; cost arrangements for construction standards; transfer of unused effective purchaser credit for road construction. |
+| [535a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000535a%20-%20Forest%20development%20roads%20prohibition%20on%20credits%3B%20inclusion%20of%20construction%20costs%20in%20notice%20of%20sale%3B%20special%20election%20by%20small%20business%E2%80%A6.md) | Forest development roads: prohibition on credits; inclusion of construction costs in notice of sale; special election by small business concerns; construction standards; authorization of harvesting; treatment of road value. |
+| (a) | Prohibition on timber purchaser road credits. |
+| (b) | Construction of roads by timber purchasers. |
+| (c) | Special election by small business concerns. |
+| (d) | Authorization of harvesting. |
+| (e) | Construction standard. |
+| (f) | Treatment of road value. |
+| (g) | Effective date. |
 | [536\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000536%20-%20Recording%20of%20instruments%3B%20furnishing%20of%20instruments%20affecting%20public%20domain%20lands%20to%20Secretary%20of%20the%20Interior.md) | Recording of instruments; furnishing of instruments affecting public domain lands to Secretary of the Interior. |
 | [537\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000537%20-%20Maintenance%20and%20reconstruction%20by%20road%20users%3B%20funds%20for%20maintenance%20and%20reconstruction%3B%20availability%20of%20deposits%20until%20expended%2C%20transfer%E2%80%A6.md) | Maintenance and reconstruction by road users; funds for maintenance and reconstruction; availability of deposits until expended, transfer of funds, and refunds. |
 | [538\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000538%20-%20User%20fees%20fund%20for%20delayed%20payments%20to%20grantors.md) | User fees fund for delayed payments to grantors. |
@@ -224,6 +232,10 @@
 | (e) | Timber harvesting. |
 | (f) | Motorized travel. |
 | (g) | Management plan. |
+| [539k.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539k%20-%20Kelly%20Butte%20Special%20Management%20Area.md) | Kelly Butte Special Management Area. |
+| (a) | Establishment. |
+| (b) | Management. |
+| (c) | No buffer zones. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

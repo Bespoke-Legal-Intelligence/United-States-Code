@@ -44,7 +44,7 @@
 
 (e) No justice, judge, or magistrate shall accept from the parties to the proceeding a waiver of any ground for disqualification enumerated in subsection (b). Where the ground for disqualification arises only under subsection (a), waiver may be accepted provided it is preceded by a full disclosure on the record of the basis for disqualification.
 
-(f) Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or herspouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge, magistrate, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
+(f) Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or her spouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge, magistrate, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
 
 (June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 93–512, §1, Dec. 5, 1974, 88 Stat. 1609; Pub. L. 95–598, title II, §214(a), (b), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 100–702, title X, §1007, Nov. 19, 1988, 102 Stat. 4667.)
 
@@ -64,11 +64,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–702 added subsec. (f).
+1988—Subsec. (f). Pub. L. 100–702 added subsec. (f).
 
-<b>1978</b>—Pub. L. 95–598 struck out references to referees in bankruptcy in section catchline and in subsecs. (a) and (e).
+1978—Pub. L. 95–598 struck out references to referees in bankruptcy in section catchline and in subsecs. (a) and (e).
 
-<b>1974</b>—Pub. L. 93–512 substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in section catchline, reorganized structure of provisions, and expanded applicability to include magistrates and referees in bankruptcy and grounds for which disqualification may be based, and inserted provisions relating to waiver of disqualification.
+1974—Pub. L. 93–512 substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in section catchline, reorganized structure of provisions, and expanded applicability to include magistrates and referees in bankruptcy and grounds for which disqualification may be based, and inserted provisions relating to waiver of disqualification.
 
 #### Change of Name
 
@@ -88,5 +88,5 @@ Disqualification of trial judge to hear appeal, see section 47 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460, 656 of this title; title 38 section 7264.
+This section is referred to in sections 460, 653, 655 of this title; title 38 section 7264.
 

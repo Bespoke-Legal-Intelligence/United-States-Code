@@ -19,6 +19,8 @@
 | (c) | Powers. |
 | (d) | Certain lands, waters, and interests not subject to condemnation. |
 | (e) | Acquisition, management, and disposal of real property. |
+| (f) | Establishment of national whale conservation endowment fund. |
+| (g) | Consultation. |
 | [3704\.](%C2%A7%2003704%20-%20Administrative%20services%20and%20support.md) | Administrative services and support. |
 | (a) | Provision of services. |
 | (b) | Reimbursement. |

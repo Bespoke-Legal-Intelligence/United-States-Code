@@ -128,7 +128,7 @@ Each recipient of funds awarded pursuant to subsection (a) of this section shall
 
 There are authorized to be appropriated to carry out the provisions of this section $30,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 101–630, title IV, §411, Nov. 28, 1990, 104 Stat. 4553; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190.)
+(Pub. L. 101–630, title IV, §411, Nov. 28, 1990, 104 Stat. 4553; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### References in Text
 
@@ -136,7 +136,13 @@ The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub
 
 #### Amendments
 
+1998—Subsec. (d)(5)(C). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801 of this title.
+
 1995—Subsec. (i). Pub. L. 104–16 substituted “1995, 1996, and 1997” for “and 1995”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

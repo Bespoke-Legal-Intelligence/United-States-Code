@@ -22,7 +22,7 @@
 
 &emsp;(C) Service in any predecessor entity of the Veterans Health Administration shall be considered to be service in the Veterans Health Administration.
 
-(c) Compensation paid as special pay under this subchapter or under an agreement enteredinto under section 4118 <sup>1</sup> of this title (as in effect on the day before the effective date of the Department of Veterans Affairs Physician and Dentist Recruitment and Retention Act of 1991) shall be considered as annual pay for the purposes of chapter 87 of title 5, relating to life insurance for Federal employees.
+(c) Compensation paid as special pay under this subchapter or under an agreement entered into under section 4118 <sup>1</sup> of this title (as in effect on the day before the effective date of the Department of Veterans Affairs Physician and Dentist Recruitment and Retention Act of 1991) shall be considered as annual pay for the purposes of chapter 87 of title 5, relating to life insurance for Federal employees.
 
 (Added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 196.)
 

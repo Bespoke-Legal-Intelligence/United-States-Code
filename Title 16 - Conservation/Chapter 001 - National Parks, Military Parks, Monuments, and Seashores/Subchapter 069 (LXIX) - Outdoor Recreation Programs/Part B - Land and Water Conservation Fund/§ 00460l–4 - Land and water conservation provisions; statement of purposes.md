@@ -14,7 +14,7 @@ Section 1(a) of Pub. L. 88–578 provided in part that: “This Act \[enacting t
 
 #### Survey of Entrance and User Fees
 
-Secretary of the Interior required by section 4 of Pub. L. 91–308, July 7, 1970, 84 Stat. 410 to complete a survey as to policy to be implemented with regard to entrance and user fees and to report his findings to Senate and House Committees on Interior and Insular Affairs on or before Feb. l, 1971.
+Secretary of the Interior required by section 4 of Pub. L. 91–308, July 7, 1970, 84 Stat. 410 to complete a surveyas to policy to be implemented with regard to entrance and user fees and to report his findings to Senate and House Committees on Interior and Insular Affairs on or before Feb. l, 1971.
 
 #### Cross References
 

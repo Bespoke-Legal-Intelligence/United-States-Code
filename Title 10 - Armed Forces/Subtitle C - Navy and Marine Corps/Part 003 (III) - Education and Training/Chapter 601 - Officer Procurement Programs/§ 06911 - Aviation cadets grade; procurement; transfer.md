@@ -12,7 +12,7 @@
 
 (d) Under such regulations as the Secretary prescribes, an aviation cadet may be transferred to another enlisted grade or rating in the naval service, released from active duty, or discharged.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 426; July 31, 1958, Pub. L. 85–578, 72 Stat. 456; Dec. 12, 1980, Pub. L. 96–513, title III, §373(f), 94 Stat. 2903.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 426; Pub. L. 85–578, July 31, 1958, 72 Stat. 456; Pub. L. 96–513, title III, §373(f), Dec. 12, 1980, 94 Stat. 2903.)
 
 Historical and Revision Notes
 

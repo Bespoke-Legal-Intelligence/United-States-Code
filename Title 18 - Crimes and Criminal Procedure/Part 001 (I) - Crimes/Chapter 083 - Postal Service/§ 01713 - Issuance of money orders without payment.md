@@ -2,7 +2,7 @@
 
 Whoever, being an officer or employee of the Postal Service, issues a money order without having previously received the money therefor, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; Aug. 12, 1970, Pub. L. 91–375, §6(j)(23), 84 Stat. 779; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 781; Pub. L. 91–375, §6(j)(23), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

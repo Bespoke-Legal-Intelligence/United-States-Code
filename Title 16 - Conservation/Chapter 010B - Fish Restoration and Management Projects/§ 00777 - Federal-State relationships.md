@@ -20,7 +20,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 &emsp;As used in this subsection, the term “coastal State” means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; July 18, 1984, Pub. L. 98–369, div. A, title X, §1014(a)(1), 98 Stat. 1015; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Sept. 28, 1988, Pub. L. 100–448, §6(c)(1), 102 Stat. 1840.)
+(Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, §1014(a)(1), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, §6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
 
 #### Amendments
 
@@ -38,7 +38,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 #### Effective Date of 1988 Amendment
 
-Section 6(e) of Pub. L. 100–448 provided that: “This section \[enacting section 777<i>l</i> of this title, amending this section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions setout as a note under section 13103 of Title 46\] shall take effect October 1, 1988.”
+Section 6(e) of Pub. L. 100–448 provided that: “This section \[enacting section 777<i>l</i> of this title, amending this section, sections 9503 and 9504 of Title 26, Internal Revenue Code, and sections 13102 and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 13101 of Title 46, and repealing provisions set out as a note under section 13103 of Title 46\] shall take effect October 1, 1988.”
 
 #### Effective Date of 1984 Amendment
 
@@ -48,7 +48,11 @@ Section 1014(b) of Pub. L. 98–369 provided that: “The amendments made by sub
 
 Section 13 of act Aug. 9, 1950, provided that: “The effective date of this Act \[enacting this chapter\] shall be July 1, 1950.”
 
-#### Short Title of 1970 Amendments
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–178, title VII, §7401(a), June 9, 1998, 112 Stat. 482, provided that: “This subtitle \[subtitle D (§§7401–7405) of title VII of Pub. L. 105–178, enacting section 777g–1 of this title and amending sections 777a, 777c, and 777g of this title and sections 13104 and 13106 of Title 46, Shipping\] may be cited as the ‘Sportfishing and Boating Safety Act of 1998’.”
+
+#### Short Title of 1970 Amendment
 
 Section 204 of title II of Pub. L. 91–503, Oct. 23, 1970, 84 Stat. 1104, provided that: “This title \[amending sections 777c, 777e to 777g, and 777k of this title\] may be cited as the ‘Federal Aid in Fish Restoration Act Amendments of 1970’.”
 

@@ -14,7 +14,7 @@
 
 (b)(1) Equipment and material subject to regulation under this section may not be used on any vessel without prior approval of the Secretary.
 
-(2) Except with respect to use on a public vessel, the Secretary may treat an approval ofequipment or materials by a foreign government as approval by the Secretary for purposes of paragraph (1) if the Secretary determines that—
+(2) Except with respect to use on a public vessel, the Secretary may treat an approval of equipment or materials by a foreign government as approval by the Secretary for purposes of paragraph (1) if the Secretary determines that—
 
 &emsp;(A) the design standards and testing procedures used by that government meet the requirements of the International Convention for the Safety of Life at Sea, 1974;
 

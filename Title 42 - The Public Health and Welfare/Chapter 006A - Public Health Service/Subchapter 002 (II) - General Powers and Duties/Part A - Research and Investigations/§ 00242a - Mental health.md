@@ -18,7 +18,7 @@ The Secretary may provide for training, instruction, and traineeships under subs
 
 #### (d) Obligatory service for traineeships
 
-(1) Any individual who has received a clinical traineeship, in psychology, psychiatry, nursing, marital and family therapy, or social work, under subsection (a)(1) of this section that was not of a limited duration or experimental nature (as determined by the Secretary) is obligated to serve, in service determined by the Secretary to be appropriate in the light of the individual's training and experience, at the rate of one year for each year (or academic year, whichever the Secretary determines to be appropriate) of the traineeship.
+(1) Any individual who has received a clinical traineeship, in psychology, psychiatry, nursing, marital and family therapy, counseling, or social work, under subsection (a)(1) of this section that was not of a limited duration or experimental nature (as determined by the Secretary)is obligated to serve, in service determined by the Secretary to be appropriate in the light of the individual's training and experience, at the rate of one year for each year (or academic year, whichever the Secretary determines to be appropriate) of the traineeship.
 
 (2) The service required under paragraph (1) shall be performed—
 
@@ -42,7 +42,7 @@ The Secretary may provide for training, instruction, and traineeships under subs
 
 (5) In disseminating application forms to individuals desiring traineeships, the Secretary shall include with such forms a fair summary of the liabilities under this subsection of an individual who receives a traineeship.
 
-(July 1, 1944, ch. 373, title III, §303, as added July 3, 1946, ch. 538, §7(c), 60 Stat. 423; amended Aug. 2, 1956, ch. 871, title V, §501, 70 Stat. 929; Oct. 27, 1970, Pub. L. 91–513, title I, §3(a), 84 Stat. 1241; May 14, 1974, Pub. L. 93–282, title I, §122(b), 88 Stat. 132; July 12, 1974, Pub. L. 93–348, title I, §104(a)(2), 88 Stat. 346; Nov. 10, 1978, Pub. L. 95–633, title I, §108(b), 92 Stat. 3773; Oct. 7, 1980, Pub. L. 96–398, title VIII, §803(a), 94 Stat. 1607; Dec. 1, 1987, Pub. L. 100–177, title II, §202(a), 101 Stat. 996; Nov. 4, 1988, Pub. L. 100–607, title I, §163(1)(A), 102 Stat. 3062; Nov. 18, 1988, Pub. L. 100–690, title II, §2058(b), 102 Stat. 4214; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035; July 10, 1992, Pub. L. 102–321, title I, §115(b), 106 Stat. 348; Oct. 13, 1992, Pub. L. 102–408, title III, §305, 106 Stat. 2084.)
+(July 1, 1944, ch. 373, title III, §303, as added July 3, 1946, ch. 538, §7(c), 60 Stat. 423; amended Aug. 2, 1956, ch. 871, title V, §501, 70 Stat. 929; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(2), July 12, 1974, 88 Stat. 346; Pub. L. 95–633, title I, §108(b), Nov. 10, 1978, 92 Stat. 3773; Pub. L. 96–398, title VIII, §803(a), Oct. 7, 1980, 94 Stat. 1607; Pub. L. 100–177, title II, §202(a), Dec. 1, 1987, 101 Stat. 996; Pub. L. 100–607, title I, §163(1)(A), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 100–690, title II, §2058(b), Nov. 18, 1988, 102 Stat. 4214; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 102–321, title I, §115(b), July 10, 1992, 106 Stat. 348; Pub. L. 102–408, title III, §305, Oct. 13, 1992, 106 Stat. 2084; Pub. L. 105–392, title IV, §403, Nov. 13, 1998, 112 Stat. 3588.)
 
 #### References in Text
 
@@ -53,6 +53,8 @@ The Mental Health Systems Act, referred to in subsec. (d)(2)(A), is Pub. L. 96�
 Section 288 of this title, referred to in subsec. (d)(4), in the original referred to section 472, meaning section 472 of the Public Health Service Act, which was classified to section 289<i>l</i>–1 of this title. Title IV of the Public Health Service Act was amended generally by section 2 of Pub. L. 99–158, Nov. 20, 1985, 99 Stat. 822, and provisions formerly contained in section 472 were restated in section 487 of the Public Health Service Act, which is classified to section 288 of this title.
 
 #### Amendments
+
+1998—Subsec. (d)(1). Pub. L. 105–392 inserted “counseling,” after “family therapy,”.
 
 1992—Subsec. (a). Pub. L. 102–321, §115(b)(1), struck out “, the Surgeon General is authorized” after “health” in introductory provisions.
 
@@ -68,7 +70,7 @@ Subsec. (d)(2)(D). Pub. L. 102–408 added subpar. (D).
 
 Subsec. (d)(1). Pub. L. 100–690 inserted “marital and family therapy,” after “nursing,”.
 
-1987—Subsec. (d)(4). Pub. L. 100–177 made technical amendment to references to “section 254m or 254n of this title” in two places and substituted “subpart II of Part D of this subchapter” for “subpart IV of Part C of subchapter V of this chapter” to reflect renumbering of corresponding provisions of original act.
+1987—Subsec. (d)(4). Pub. L. 100–177 made technical amendment to references to “section 254m or 254n ofthis title” in two places and substituted “subpart II of Part D of this subchapter” for “subpart IV of Part C of subchapter V of this chapter” to reflect renumbering of corresponding provisions of original act.
 
 1980—Subsec. (d). Pub. L. 96–398 added subsec. (d).
 

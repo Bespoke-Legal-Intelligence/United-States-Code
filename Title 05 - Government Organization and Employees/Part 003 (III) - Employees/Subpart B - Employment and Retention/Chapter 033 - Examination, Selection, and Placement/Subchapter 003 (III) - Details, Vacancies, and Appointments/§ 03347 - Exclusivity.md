@@ -1,0 +1,32 @@
+### §3347. Exclusivity
+
+(a) Sections 3345 and 3346 are the exclusive means for temporarily authorizing an acting official to perform the functions and duties of any office of an Executive agency (including the Executive Office of the President, and other than the General Accounting Office) for which appointment is required to be made by the President, by and with the advice and consent of the Senate, unless—
+
+&emsp;(1) a statutory provision expressly—
+
+&emsp;&emsp;(A) authorizes the President, a court, or the head of an Executive department, to designate an officer or employee to perform the functions and duties of a specified office temporarily in an acting capacity; or
+
+&emsp;&emsp;(B) designates an officer or employee to perform the functions and duties of a specified office temporarily in an acting capacity; or
+
+&emsp;(2) the President makes an appointment to fill a vacancy in such office during the recess of the Senate pursuant to clause 3 of section 2 of article II of the United States Constitution.
+
+(b) Any statutory provision providing general authority to the head of an Executive agency (including the Executive Office of the President, and other than the General Accounting Office) to delegate duties statutorily vested in that agency head to, or to reassign duties among, officers or employees of such Executive agency, is not a statutory provision to which subsection (a)(2) applies.
+
+(Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–613.)
+
+#### Prior Provisions
+
+A prior section 3347, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided for Presidential authority relating to details, prior to repeal by Pub. L. 105–277, div. C, title I, §151(b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–611, 2681–616, effective 30 days after Oct. 21, 1998. See section 3345 of this title.
+
+#### Effective Date
+
+Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under section 3345 of this title.
+
+#### Cross References
+
+Additional pay prohibited for officer performing duties of vacant office as authorized by this section, see section 5535 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3345, 3348, 3349, 3349b, 3349c, 3349d, 5535 of this title; title 10 sections 3017, 5017, 8017.
+

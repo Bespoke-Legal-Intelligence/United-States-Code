@@ -1,6 +1,6 @@
 ### §7502. Audit requirements; exemptions
 
-(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
+(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall haveeither a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
 
 (B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
@@ -28,7 +28,7 @@
 
 &emsp;(1) cover the operations of the entire non-Federal entity; or
 
-&emsp;(2) at the option of such non-Federal entity such audit shall include a series of audits that cover departments, agencies, and other organizational units which expended or otherwise administered Federal awards during such fiscal year provided that each such audit shall encompass the financial statements and scheduleof expenditures of Federal awards for each such department, agency, and organizational unit, which shall be considered to be a non-Federal entity.
+&emsp;(2) at the option of such non-Federal entity such audit shall include a series of audits that cover departments, agencies, and other organizational units which expended or otherwise administered Federal awards during such fiscal year provided that each such audit shall encompass the financial statements and schedule of expenditures of Federal awards for each such department, agency, and organizational unit, which shall be considered to be a non-Federal entity.
 
 (e) The auditor shall—
 
@@ -82,7 +82,7 @@
 
 #### References in Text
 
-For effective date of the Single Audit Act Amendments of 1996, referred to in subsec. (h)(2)(A), is the effective date of Pub. L. 104–156, which is classified generally to this chapter, see section 7507 of this title.
+The effective date of the Single Audit Act Amendments of 1996, referred to in subsec. (h)(2)(A), is the effective date of Pub. L. 104–156, which is classified generally to this chapter. See section 7507 of this title.
 
 #### Amendments
 
@@ -93,6 +93,10 @@ For effective date of the Single Audit Act Amendments of 1996, referred to in su
 Subsec. (d)(5), (6). Pub. L. 103–272, §4(f)(1)(W)(iii), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Each State or local government which, in any fiscal year of such government, receives directly from the Department of the Treasury a total of $25,000 or more under chapter 67 of this title (relating to general revenue sharing) and which is required to conduct an audit pursuant to this chapter for such fiscal year shall not have the option provided by paragraph (1)(A) for such fiscal year.”
 
 Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted “section 3512(c)” for “section 3512(b)”.
+
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

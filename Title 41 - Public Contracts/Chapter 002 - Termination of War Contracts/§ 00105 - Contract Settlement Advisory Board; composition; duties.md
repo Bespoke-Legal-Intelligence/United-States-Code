@@ -14,9 +14,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Transfer of Functions
 
-Contract Settlement Advisory Board and all its property, records, etc., transferred to General Services Administration by section 102(b) of act June 20, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works, but was to retain and perform its functions.
+Contract Settlement Advisory Board and all its property, records, etc., transferred to General Services Administration by section 102(b) of act June 20, 1949, which is classified to section 752(b) of Title 40, PublicBuildings, Property, and Works, but was to retain and perform its functions.
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) ofact June 30, 1949, which is classified to section 752(b) of Title 40.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40.
 
 Contract Settlement Advisory Board transferred to Department of the Treasury by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947. Reorg. Plan No. 1 of 1947 is set out in the Appendix to Title 5, Government Organization and Employees.
 

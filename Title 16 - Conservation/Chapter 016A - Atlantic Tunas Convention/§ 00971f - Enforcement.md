@@ -6,7 +6,7 @@ Any person authorized in accordance with the provisions of this chapter to enfor
 
 &emsp;(1) with or without a warrant, board any vessel subject to the jurisdiction of the United States and inspect such vessel and its catch and, if as a result of such inspection, he has reasonable cause to believe that such vessel or any person on board is engaging in operations in violation of this chapter or any regulations issued thereunder, he may, with or without a warrant or other process, arrest such person;
 
-&emsp;(2) arrest, with or without a warrant, any person who violates the provisions of this chapter or any regulation issued thereunder in his presence or view;
+&emsp;(2) arrest, with or without a warrant, any person who violates the provisions of thischapter or any regulation issued thereunder in his presence or view;
 
 &emsp;(3) execute any warrant or other process issued by an officer or court of competent jurisdiction; and
 

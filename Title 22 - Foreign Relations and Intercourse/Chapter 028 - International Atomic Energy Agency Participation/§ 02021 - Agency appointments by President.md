@@ -14,7 +14,7 @@ The President may also appoint or designate from time to time such other persons
 
 #### (d) Compensation; allowances and benefits
 
-All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by the President upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
+All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by thePresident upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
 
 (Pub. L. 85–177, §2, Aug. 28, 1957, 71 Stat. 453; Pub. L. 96–465, title II, §2206(a)(7)(A), Oct. 17, 1980, 94 Stat. 2161.)
 
@@ -33,6 +33,30 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Short Title
 
 Section 1 of Pub. L. 85–177 provided that: “This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Atomic Energy Agency Participation Act of 1957’.”
+
+#### Opposition to Certain Programs or Projects; Reporting Requirements
+
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2809(b), (c), Oct. 21, 1998, 112 Stat. 2681–850, provided that:
+
+“(b)
+
+Opposition to Certain Programs or Projects.—The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to oppose the following:
+
+&emsp;“(1) Technical assistance programs or projects of the Agency at the Juragua Nuclear Power Plant near Cienfuegos, Cuba, and at the Pedro Pi Nuclear Research Center.
+
+&emsp;“(2) Any other program or project of the Agency in Cuba that is, or could become, a threat to the security of the United States.
+
+“(c)
+
+Reporting Requirements.—
+
+&emsp;“(1)
+
+Request for iaea reports.—The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to request the Director-General of the Agency to submit to the United States all reports prepared with respect to all programs or projects of the Agency that are of concern to the United States, including the programs or projects described in subsection (b).
+
+&emsp;“(2)
+
+Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a)).”
 
 #### Privileges, Exemptions, and Immunities
 

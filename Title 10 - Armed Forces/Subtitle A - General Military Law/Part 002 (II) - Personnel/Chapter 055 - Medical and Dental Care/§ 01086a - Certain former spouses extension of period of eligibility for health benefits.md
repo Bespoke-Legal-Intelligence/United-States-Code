@@ -66,7 +66,7 @@ Section 4407(c) of Pub. L. 102–484 provided that: “In the case of conversion
 
 Section 4408(c) of Pub. L. 102–484 provided that:
 
-“(1) No person may purchase a conversion health policy under section 1145(b) or 1086a of title 10, UnitedStates Code, on or after October 1, 1994. A person covered by such a conversion health policy on that date may cancel that policy and enroll in a health benefits plan under section 1078a of such title.
+“(1) No person may purchase a conversion health policy under section 1145(b) or 1086a of title 10, United States Code, on or after October 1, 1994. A person covered by such a conversion health policy on that date may cancel that policy and enroll in a health benefits plan under section 1078a of such title.
 
 “(2) No person may be covered concurrently by a conversion health policy under section 1145(b) or 1086a of such title and a health benefits plan under section 1078a of such title.”
 

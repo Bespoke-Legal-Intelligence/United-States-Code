@@ -64,7 +64,7 @@ Whoever—
 
 #### (c) Restriction on access to subscribers by common carriers; judicial remedies respecting restrictions
 
-(1) A common carrier within the District of Columbia or within any State, or in interstate or foreign commerce, shall not, to the extenttechnically feasible, provide access to a communication specified in subsection (b) of this section from the telephone of any subscriber who has not previously requested in writing the carrier to provide access to such communication if the carrier collects from subscribers an identifiable charge for such communication that the carrier remits, in whole or in part, to the provider of such communication.
+(1) A common carrier within the District of Columbia or within any State, or in interstate or foreign commerce, shall not, to the extent technically feasible, provide access to a communication specified in subsection (b) of this section from the telephone of any subscriber who has not previously requested in writing the carrier to provide access to such communication if the carrier collects from subscribers an identifiable charge for such communication that the carrier remits, in whole or in part, to the provider of such communication.
 
 (2) Except as provided in paragraph (3), no cause of action may be brought in any court or administrative agency against any common carrier, or any of its affiliates, including their officers, directors, employees, agents, or authorized representatives on account of—
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) does not include an interactive computer service.
 
-&emsp;(2) The term “interactive computer service” has the meaning provided in section 230(e)(2) of this title.
+&emsp;(2) The term “interactive computer service” has the meaning provided in section 230(f)(2) of this title.
 
 &emsp;(3) The term “access software” means software (including client or server software) or enabling tools that do not create or provide the content of the communication but that allow a user to do any one or more of the following:
 
@@ -144,11 +144,11 @@ For purposes of this section—
 
 &emsp;&emsp;(C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
 
-&emsp;(4) The term “institution of higher education” has the meaning provided in section 1141 of title 20.
+&emsp;(4) The term “institution of higher education” has the meaning provided in section 1001 of title 20.
 
 &emsp;(5) The term “library” means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 355e et seq.).
 
-(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133.)
+(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739.)
 
 #### References in Text
 
@@ -157,6 +157,10 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(6), are set out
 The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended. Title III of the Act was classified generally to subchapter III (§355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 #### Amendments
+
+1998—Subsec. (h)(2). Pub. L. 105–277 substituted “230(f)(2)” for “230(e)(2)”.
+
+Subsec. (h)(4). Pub. L. 105–244, which directed amendment of section 223(h)(4) of the Telecommunications Act of 1934 (47 U.S.C. 223(h)(4)) by substituting “section 1001” for “section 1141”, was executed to this section, which is section 223 of the Communications Act of 1934, to reflect the probable intent of Congress.
 
 1996—Subsec. (a). Pub. L. 104–104, §502(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever—
 
@@ -226,13 +230,19 @@ Subsec. (a)(2). Pub. L. 98–214, §8(b), inserted “facility” after “telep
 
 Subsec. (b). Pub. L. 98–214, §8(a)(3), added subsec. (b).
 
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–277, div. C, title XIV, §1406, Oct. 21, 1998, 112 Stat. 2681–741, provided that: “This title \[enacting section 231 of this title, amending this section and section 230 of this title, and enacting provisions set out as notes under sections 231 and 609 of this title\] and the amendments made by this title shall take effect 30 days after the date of enactment of this Act \[Oct. 21, 1998\].”
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–166 effective 120 days after Nov. 21, 1989, see section 521(3) of Pub. L. 101–166, set out as a note under section 152 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–297 effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as a note under section 1201 of Title 20, Education.
+Amendment by Pub. L. 100–297 effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
 #### Expedited Review
 

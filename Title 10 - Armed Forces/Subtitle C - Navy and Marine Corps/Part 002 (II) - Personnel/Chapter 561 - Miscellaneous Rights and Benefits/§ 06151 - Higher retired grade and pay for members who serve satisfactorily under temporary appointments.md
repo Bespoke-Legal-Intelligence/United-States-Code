@@ -10,7 +10,7 @@
 | --- | --- |
 | Retired pay base computed under section 1406(d) or 1407 | Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405. |
 
-(c) Each former member of the Fleet Reserve or the Fleet Marine Corps Reserve who is advanced on the retired list under this section is entitled to retired pay determined in accordance with the following table. References in the table are to sections of this title.
+(c) Each former member of the Fleet Reserve or the Fleet Marine Corps Reserve who is advanced on the retired list under this section isentitled to retired pay determined in accordance with the following table. References in the table are to sections of this title.
 
 &nbsp;
 
@@ -22,7 +22,7 @@
 
 (e) Retired pay computed under subsection (b) or (c), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 385; May 20, 1958, Pub. L. 85–422, §11(a)(6)(A), 72 Stat. 131; Sept. 2, 1958, Pub. L. 85–861, §1(138), (139)(A), 72 Stat. 1507, 1508; Oct. 2, 1963, Pub. L. 88–132, §5(h)(4), 77 Stat. 214; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(d)(13), 94 Stat. 1108; Dec. 12, 1980, Pub. L. 96–512, title V, §§503(45), 513(17), 94 Stat. 2914, 2932; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(9), 923(c)(1), 97 Stat. 641, 643; July 1, 1986, Pub. L. 99–348, title II, §203(c), 100 Stat. 696; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §521(d), 110 Stat. 2517.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 385; Pub. L. 85–422, §11(a)(6)(A), May 20, 1958, 72 Stat. 131; Pub. L. 85–861, §1(138), (139)(A), Sept. 2, 1958, 72 Stat. 1507, 1508; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(13), Sept. 8, 1980, 94 Stat. 1108; Pub. L. 96–512, title V, §§503(45), 513(17), Dec. 12, 1980, 94 Stat. 2914, 2932; Pub. L. 98–94, title IX, §§922(a)(9), 923(c)(1), Sept. 24, 1983, 97 Stat. 641, 643; Pub. L. 99–348, title II, §203(c), July 1, 1986, 100 Stat. 696; Pub. L. 104–201, div. A, title V, §521(d), Sept. 23, 1996, 110 Stat. 2517.)
 
 Historical and Revision Notes<br>1956
 
@@ -106,7 +106,7 @@ Reference to the provisions of law under which temporary appointments in officer
 
 Subsec. (c). Pub. L. 99–348 amended subsec. (c) generally, substituting provision that retired pay of a former member be determined in accordance with the table for provision that retired pay, in the case of a former member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at a rate of 21/2 percent of the basic pay of the grade to which advanced, determined by the same period of service used to determine the basic pay of the grade upon which his retainer pay was based, multiplied by the number of years of creditable service for his retainer pay at the time of retirement, but such retired pay was not to be more than 75 percent of the basic pay upon the computation of retired pay was based, or in the case of a former member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, that retired pay be at a rate of 21/2 percent of the monthly retired pay base computed under section 1407(d), multiplied by the number of years of creditable service for his retainer pay at the time of retirement, but such retired pay was not to be more than 75 percent of the monthly retired pay base upon which the computation of retired pay was based.
 
-1983—Subsec. (b)(2). Pub. L. 98–94, §923(c)(1), substituted “each full month of service that is in addition to the number of full years of service creditable to amember is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+1983—Subsec. (b)(2). Pub. L. 98–94, §923(c)(1), substituted “each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
 Subsec. (e). Pub. L. 98–94, §922(a)(9), added subsec. (e).
 

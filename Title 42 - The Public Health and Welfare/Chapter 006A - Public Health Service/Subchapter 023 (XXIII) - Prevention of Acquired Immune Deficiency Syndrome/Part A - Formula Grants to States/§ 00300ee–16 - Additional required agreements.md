@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may not, except as provided in subsection (b) of this section, make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that—
+The Secretary may not, except as provided in subsection (b) of this section, make paymentsunder section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that—
 
 &emsp;(1) all programs conducted or supported by the State with such payments will establish objectives for the program and will determine the extent to which the objectives are met;
 
@@ -62,7 +62,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 For purposes of subsection (a)(5) of this section, the term “significant percentage” means at least a percentage of 1 percent of the number of reported cases of acquired immune deficiency syndrome in the United States.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2506, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3097; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(d) \[(e)\], 102 Stat. 4243; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2506, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3097; amended Pub. L. 100–690, title II, §2619(d) \[(e)\], Nov. 18, 1988, 102 Stat. 4243; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### References in Text
 

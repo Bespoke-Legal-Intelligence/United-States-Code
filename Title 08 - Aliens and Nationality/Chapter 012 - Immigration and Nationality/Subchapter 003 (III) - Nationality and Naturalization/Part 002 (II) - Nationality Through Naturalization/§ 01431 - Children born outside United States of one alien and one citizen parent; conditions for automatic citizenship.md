@@ -8,7 +8,7 @@
 
 (b) Subsection (a) of this section shall apply to an adopted child only if the child is residing in the United States at the time of naturalization of such adoptive parent, in the custody of his adoptive parents, pursuant to a lawful admission for permanent residence.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §320, 66 Stat. 245; Oct. 5, 1978, Pub. L. 95–417, §4, 92 Stat. 917; Dec. 29, 1981, Pub. L. 97–116, §18(m), 95 Stat. 1620; Nov. 14, 1986, Pub. L. 99–653, §14, 100 Stat. 3657; Oct. 24, 1988, Pub. L. 100–525, §§8(<i>l</i>), 9(w), 102 Stat. 2618, 2621.)
+(June 27, 1952, ch. 477, title III, ch. 2, §320, 66 Stat. 245; Pub. L. 95–417, §4, Oct. 5, 1978, 92 Stat. 917; Pub. L. 97–116, §18(m), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §14, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(<i>l</i>), 9(w), Oct. 24, 1988, 102 Stat. 2618, 2621.)
 
 #### Amendments
 

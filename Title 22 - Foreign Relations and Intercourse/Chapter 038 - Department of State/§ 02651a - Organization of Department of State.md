@@ -16,13 +16,27 @@
 
 #### (b) Under Secretaries
 
-There shall be in the Department of State not more than 5 Under Secretaries of State, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for at level III of the Executive Schedule under section 5314 of title 5.
+#### (1) In general
+
+&emsp;There shall be in the Department of State not more than 6 Under Secretaries of State, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for at level III of the Executive Schedule under section 5314 of title 5.
+
+#### (2) Under Secretary for Arms Control and International Security
+
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
+
+#### (3) Under Secretary for Public Diplomacy
+
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Public Diplomacy, who shall have primary responsibility to assist the Secretary and the Deputy Secretary in the formation and implementation of United States public diplomacy policies and activities, including international educational and cultural exchange programs, information, and international broadcasting.
+
+#### (4) Nomination of Under Secretaries
+
+&emsp;Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the particular Under Secretary position in the Department of State that the individual shall have.
 
 #### (c) Assistant Secretaries
 
 #### (1) In general
 
-&emsp;There shall be in the Department of State not more than 20 Assistant Secretaries of State, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5.
+&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State, each of whom shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
@@ -36,17 +50,45 @@ There shall be in the Department of State not more than 5 Under Secretaries of S
 
 &emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
 
-&emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observanceof internationally recognized human rights by all countries.
+&emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
-#### (d) Deputy Assistant Secretaries
+#### (3) Nomination of Assistant Secretaries
 
-There shall be in the Department of State not more than 66 Deputy Assistant Secretaries of State.
+&emsp;Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
 
-#### (e) Other senior officials
+#### (d) Other senior officials
 
 In addition to officials of the Department of State who are otherwise authorized to be appointed by the President, by and with the advice and consent of the Senate, and to be compensated at level IV of the Executive Schedule of <sup>1</sup> section 5315 of title 5 four other such appointments are authorized.
 
-(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299.)
+#### (e) Coordinator for Counterterrorism
+
+#### (1) In general
+
+&emsp;There is within the office of the Secretary of State a Coordinator for Counterterrorism (in this paragraph referred to as the “Coordinator”) who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+#### (2) Duties
+
+#### (A) In general
+
+&emsp;&emsp;The Coordinator shall perform such duties and exercise such powers as the Secretary of State shall prescribe.
+
+#### (B) Duties described
+
+&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
+
+#### (3) Rank and status of Ambassador
+
+&emsp;The Coordinator shall have the rank and status of Ambassador at Large.
+
+#### (f) Qualifications of officer having primary responsibility for personnel management
+
+The officer of the Department of State with primary responsibility for assisting the Secretary of State with respect to matters relating to personnel in the Department of State, or that officer's principal deputy, shall have substantial professional qualifications in the field of human resource policy and management.
+
+#### (g) Qualifications of officer having primary responsibility for diplomatic security
+
+The officer of the Department of State with primary responsibility for assisting the Secretary of State with respect to diplomatic security, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (1) management, and (2) Federal law enforcement, intelligence, or security.
+
+(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826.)
 
 #### References in Text
 
@@ -60,11 +102,45 @@ Section was also formerly classified to section 170f of Title 5 prior to the gen
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–277, §1213, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+Subsec. (b)(1). Pub. L. 105–277, §2305(a)(1), substituted “6 Under Secretaries” for “5 Under Secretaries”.
+
+Subsec. (b)(3). Pub. L. 105–277, §1313, added par. (3).
+
+Subsec. (b)(4). Pub. L. 105–277, §2306(a), added par. (4).
+
+Subsec. (c)(1). Pub. L. 105–277, §2305(b)(1), substituted “24” for “20”.
+
+Subsec. (c)(3). Pub. L. 105–277, §2306(b), added par. (3).
+
+Subsec. (d). Pub. L. 105–277, §2305(c), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “There shall be in the Department of State not more than 66 Deputy Assistant Secretaries of State.”
+
+Subsec. (e). Pub. L. 105–277, §2305(c)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 105–277, §2305(c)(2), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Pub. L. 105–277, §2301(a), added subsec. (f).
+
+Subsec. (g). Pub. L. 105–277, §2305(c)(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Pub. L. 105–277, §2303, added subsec. (g).
+
+Subsec. (h). Pub. L. 105–277, §2305(c)(2), redesignated subsec. (h) as (g).
+
+Pub. L. 105–277, §2304, added subsec. (h).
+
 1994—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: “The Secretary of State is authorized to establish, maintain, and operate passport and despatch agencies.”
 
 Subsec. (a)(2). Pub. L. 103–415 inserted “and the Deputy Secretary of State” after “Secretary”.
 
 1982—Pub. L. 97–241 substituted “The Secretary” for “That the Secretary”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1213 of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
+Amendment by section 1313 of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -86,23 +162,11 @@ Section 161(d) of Pub. L. 103–236 provided that: “Except as specifically pro
 
 #### Office of Coordinator for Counterterrorism
 
-Section 161(e) of Pub. L. 103–236 provided that: “Notwithstanding any other provision of this section \[amending this section and enacting provisions set out as notes under this section\], for not less than one year after the date of the enactment of this Act \[Apr. 30, 1994\] there shall be in the Department of State an Office of the Coordinator for Counterterrorism which shall be headed by a Coordinator for Counterterrorism. The office shall have the same responsibilities and functions as the Office of the Coordinator for Counterterrorism at the Department of State had as of January 20, 1993.”
+Section 161(e) of Pub. L. 103–236, which established for not less than one year after Apr. 30, 1994, an Office of the Coordinator for Counterterrorism in the Department of State having the same responsibilities and functions as such office had as of Jan. 20, 1993, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2301(b), Oct. 21, 1998, 112 Stat. 2681–824.
 
 #### Deputy Assistant Secretary for Burdensharing
 
-Section 161(f) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(3), Oct. 25, 1994, 108 Stat. 4300, provided that:
-
-“(1)
-
-Establishment.—None of the funds authorized to be appropriated by this Act \[see Tables for classification\] shall be available for obligation or expenditure during fiscal year 1995 unless, not later than 90 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State has established within the Department of State the position of Deputy Assistant Secretary for Burdensharing, the incumbent of which shall be an official of ambassadorial rank, appointed by the President by and with the advice and consent of the Senate.
-
-“(2)
-
-Responsibilities.—The Deputy Assistant Secretary for Burdensharing shall perform such duties and exercise such authorities as the Secretary of State shall prescribe, including the following:
-
-&emsp;“(A) The principal duty of negotiating increased in-kind and financial support (including increased payment of basing costs) by countries allied to the United States for Department of Defense military units and personnel assigned to permanent duty ashore outside the United States in support of the security of such countries.
-
-&emsp;“(B) In consultation with the Department of Defense, assist in negotiations with the host governments for the recoupment of funds associated with financial commitments from such countries for paying the United States the residual value of United States facilities in such countries that the United States relinquishes to such countries upon the termination of the use of such facilities by the United States.”
+Section 161(f) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(3), Oct. 25, 1994, 108 Stat. 4300, which conditioned availability of 1995 appropriations upon establishment of position within Department of State of Deputy Assistant Secretary for Burdensharing and set forth responsibilities of position, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2302, Oct. 21, 1998, 112 Stat. 2681–825.
 
 #### Authorization To Redelegate Certain Responsibilities Vested in the President and Delegated to the Secretary of State
 
@@ -115,6 +179,8 @@ By the authority vested in me by the Constitution and laws of the United States,
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be “under”.</i>
 

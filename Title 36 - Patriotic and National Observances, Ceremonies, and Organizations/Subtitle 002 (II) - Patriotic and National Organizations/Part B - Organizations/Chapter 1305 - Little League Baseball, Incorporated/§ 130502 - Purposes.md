@@ -1,0 +1,30 @@
+### §130502. Purposes
+
+The purposes of the corporation are—
+
+&emsp;(1) to promote, develop, supervise, and voluntarily assist in all lawful ways the interest of young people who participate in Little League baseball;
+
+&emsp;(2) to help and voluntarily assist young people in developing qualities of citizenship and sportsmanship; and
+
+&emsp;(3) using the disciplines of the native American game of baseball, to teach spirit and competitive will to win, physical fitness through individual sacrifice, the values of team play, and wholesome well being through healthy social association with other youngsters under proper leadership.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1377.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+130502
+
+36:1073.
+
+July 16, 1964, Pub. L. 88–378, §3, 78 Stat. 325; Dec. 26, 1974, Pub. L. 93–551, 88 Stat. 1744.
+
+Before clause (1), the word “objects” is omitted as included in “purposes”.
+

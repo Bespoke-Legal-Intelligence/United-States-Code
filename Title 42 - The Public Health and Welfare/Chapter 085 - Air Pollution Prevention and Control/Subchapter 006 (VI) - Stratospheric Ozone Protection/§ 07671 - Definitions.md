@@ -34,7 +34,7 @@ As used in this subchapter—
 
 #### (6) Consumption
 
-&emsp;The term “consumption” means, with respect to any substance, the amount of that substance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
+&emsp;The term “consumption” means, with respect to any substance, the amount of thatsubstance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
 
 #### (7) Import
 
@@ -64,7 +64,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(B) the reuse or recycling of a substance.
 
-(July 14, 1955, ch. 360, title VI, §601, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2649.)
+(July 14, 1955, ch. 360, title VI, §601, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2649.)
 
 #### References in Text
 

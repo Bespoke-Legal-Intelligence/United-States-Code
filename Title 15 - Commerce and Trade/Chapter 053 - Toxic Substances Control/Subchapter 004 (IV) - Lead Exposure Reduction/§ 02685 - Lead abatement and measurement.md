@@ -10,7 +10,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 (2) Not later than 24 months after October 28, 1992, and annually thereafter, the Administrator shall publish and make available to the public a list of certified or accredited environmental sampling laboratories.
 
-(3) If the Administrator determines under paragraph (1) that effective voluntary accreditation programs are in place for environmental sampling laboratories, the Administrator shall review the performance and effectiveness of such programs within 3 years after such determination. If, upon such review, the Administrator determines that the voluntary accreditation programs are not effective in assuring the quality and consistency of laboratory analyses, the Administrator shall, not more than 12 monthsthereafter, establish a certification program that meets the requirements of paragraph (1).
+(3) If the Administrator determines under paragraph (1) that effective voluntary accreditation programs are in place for environmental sampling laboratories, the Administrator shall review the performance and effectiveness of such programs within 3 years after such determination. If, upon such review, the Administrator determines that the voluntary accreditation programs are not effective in assuring the quality and consistency of laboratory analyses, the Administrator shall, not more than 12 months thereafter, establish a certification program that meets the requirements of paragraph (1).
 
 #### (c) Exposure studies
 
@@ -96,7 +96,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 #### (2) Hotline
 
-&emsp;Not later than 6 months after October 28, 1992, the Administrator, in cooperation withother Federal agencies and with State and local governments, shall establish a single lead-based paint hazard hotline to provide the public with answers to questions about lead poisoning prevention and referrals to the Clearinghouse for technical information.
+&emsp;Not later than 6 months after October 28, 1992, the Administrator, in cooperation with other Federal agencies and with State and local governments, shall establish a single lead-based paint hazard hotline to provide the public with answers to questions about lead poisoning prevention and referrals to the Clearinghouse for technical information.
 
 #### (f) Products for lead-based paint activities
 

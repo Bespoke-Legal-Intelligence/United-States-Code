@@ -14,7 +14,7 @@ Notwithstanding the other provisions of this chapter—
 
 &emsp;(6) Whenever the planted acreage of the then current crop of wheat on any farm is less than the farm acreage allotment for such commodity, the total amount of the commodity from any previous crops required to be stored in order to postpone or avoid payment of penalty shall be reduced by that amount which is equal to the normal production of the number of acres by which the farm acreage allotment exceeds the planted acreage. The provisions of section 1326(b) and (c) of this title shall be applicable also to wheat.
 
-&emsp;(7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, who may deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
+&emsp;(7) Until the farm marketing excess of wheat is stored or delivered to the Secretary or the penalty thereon is paid, each bushel of the commodity produced on the farm which is sold by the producer to any person within the United States shall be subject to the penalty as specified in paragraph (2) of this section. Such penalty shall be paid by the buyer, whomay deduct an amount equivalent to the penalty from the price paid to the producer. If the buyer fails to collect such penalty, such buyer and all persons entitled to share in the wheat marketed from the farm or the proceeds thereof shall be jointly and severally liable for such penalty.
 
 &emsp;(8) The marketing penalty for rice produced in the calendar year in which any marketing year begins (if beginning with or after the 1941–1942 marketing year) shall be at a rate equal to 50 per centum of the basic rate of the loan for cooperators for such marketing year under section 1302 of this title and this section.
 
@@ -26,7 +26,7 @@ Notwithstanding the other provisions of this chapter—
 
 &emsp;(12) If marketing quotas for wheat are not in effect for any marketing year, all previous marketing quotas applicable to wheat shall be terminated, effective as of the first day of such marketing year. Such termination shall not abate any penalty previously incurred by a producer or relieve any buyer of the duty to remit penalties previously collected by him.
 
-(May 26, 1941, ch. 133, 55 Stat. 203; Dec. 26, 1941, ch. 626, §2, 55 Stat. 860; Dec. 26, 1941, ch. 636, 55 Stat. 872; Aug. 29, 1949, ch. 518, §3(b), 63 Stat. 676; July 14, 1953, ch. 194, §3, 67 Stat. 151; Aug. 28, 1954, ch. 1041, title III, §313, 68 Stat. 905; Aug. 8, 1961, Pub. L. 87–128, title I, §122(d), 75 Stat. 297; Sept. 27, 1962, Pub. L. 87–703, title III, §§309, 319, 76 Stat. 618, 624; Oct. 11, 1962, Pub. L. 87–801, 76 Stat. 909; Nov. 3, 1965, Pub. L. 89–321, title V, §511(b), 79 Stat. 1205.)
+(May 26, 1941, ch. 133, 55 Stat. 203; Dec. 26, 1941, ch. 626, §2, 55 Stat. 860; Dec. 26, 1941, ch. 636, 55 Stat. 872; Aug. 29, 1949, ch. 518, §3(b), 63 Stat. 676; July 14, 1953, ch. 194, §3, 67 Stat. 151; Aug. 28, 1954, ch. 1041, title III, §313, 68 Stat. 905; Pub. L. 87–128, title I, §122(d), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–703, title III, §§309, 319, Sept. 27, 1962, 76 Stat. 618, 624; Pub. L. 87–801, Oct. 11, 1962, 76 Stat. 909; Pub. L. 89–321, title V, §511(b), Nov. 3, 1965, 79 Stat. 1205.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ Section 1335(d) of this title, referred to in par. (10), was repealed by Pub. L.
 
 Section was not enacted as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
-Par. (9), which directed the Commodity Credit Corporation to make loans upon the 1941 to 1946 cotton,wheat, rice, tobacco, and peanut crops for which producers did not disapprove marketing quotas at the rate of 85% of parity to cooperators and, to noncooperators, at the rate of 60% of the rate specified for cooperators and limited to that amount of the commodity as would be subject to penalty if marketed by the noncooperators, was omitted from the Code.
+Par. (9), which directed the Commodity Credit Corporation to make loans upon the 1941 to 1946 cotton, wheat, rice, tobacco, and peanut crops for which producers did not disapprove marketing quotas at the rate of 85% of parity to cooperators and, to noncooperators, at the rate of 60% of the rate specified for cooperators and limited to that amount of the commodity as would be subject to penalty if marketed by the noncooperators, was omitted from the Code.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Par. (11). Pub. L. 87–703, §319(9), added par. (11). Former par. (11) redesig
 
 Par. (12). Pub. L. 87–703, §319(9), added par. (12). Former par. (12), which limited farm marketing excess for any crop of wheat and provided for return to producer of difference between amount of penalty or storage as computed upon farm marketing excess before adjustment and as computed upon adjusted farm marketing excess, where a downward adjustment in amount of farm marketing excess was made, was repealed by such section 319(9).
 
-1961—Par. (7). Pub. L. 87–128 authorized Secretary to prescribe regulations relating to the exemption of farms from marketing quotas on any crop of wheat, specified the exemption for the 1962 crop and eliminated marketing penalty provisions relating to nonallotment farms under the Soil Conservation and Domestic Allotment Act.
+1961—Par. (7). Pub. L. 87–128 authorized Secretary to prescribe regulations relating to the exemption offarms from marketing quotas on any crop of wheat, specified the exemption for the 1962 crop and eliminated marketing penalty provisions relating to nonallotment farms under the Soil Conservation and Domestic Allotment Act.
 
 1954—Act Aug. 28, 1954, amended section generally to make it inapplicable to corn.
 

@@ -10,7 +10,7 @@ Any live poultry dealer, or any officer, director, agent, or employee of a live 
 
 > shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
 
-(Aug. 15, 1921, ch. 64, title IV, §413, as added Nov. 23, 1987, Pub. L. 100–173, §9(2), 101 Stat. 922.)
+(Aug. 15, 1921, ch. 64, title IV, §413, as added Pub. L. 100–173, §9(2), Nov. 23, 1987, 101 Stat. 922.)
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ Where any employer or his insurance carrier or compensation fund pays or is requ
 
 &emsp;(1) to any person or fund on account of injury or death of any person coming within the purview of this subchapter or chapter 11 of this title, if such injury or death arose from a war-risk hazard, which are payable under any workmen's compensation law of the United States or of any State, Territory, or possession of the United States, or other jurisdiction; or
 
-&emsp;(2) to any person by reason of any agreement outstanding on December 2, 1942 made in accordance with a contract between the United States and any contractor therewith to pay benefits with respect to the death of any employee of such contractor occurring under circumstances not entitling such person to benefits under any workmen's compensation law or to pay benefits with respect to the failure of the United States or its contractor to furnish transportation upon the completion of the employment of any employee of such contractor to his home or to the place where he was employed; or
+&emsp;(2) to any person by reason of any agreement outstanding on December 2, 1942 made in accordance with a contract between the United States and any contractor therewith to pay benefits with respect to the death of any employee of such contractor occurring under circumstances not entitling such person to benefits under any workmen's compensation law or to pay benefits with respect to the failure ofthe United States or its contractor to furnish transportation upon the completion of the employment of any employee of such contractor to his home or to the place where he was employed; or
 
 &emsp;(3) to any person by reason of an agreement approved or authorized by the United States under which a contractor with the United States has agreed to pay workmen's compensation benefits or benefits in the nature of workmen's compensation benefits to an injured employee or his dependents on account of detention by a hostile force or person or on account of injury or death arising from a war-risk hazard;
 
@@ -20,7 +20,7 @@ No reimbursement shall be made under this subchapter in any case in which the Se
 
 The provisions of this section shall not apply with respect to benefits on account of any injury or death occurring within any State.
 
-(Dec. 2, 1942, ch. 668, title I, §104, 56 Stat. 1031; Aug. 8, 1958, Pub. L. 85–608, title I, §104, 72 Stat. 537; June 25, 1959, Pub. L. 86–70, §42(b), 73 Stat. 151.)
+(Dec. 2, 1942, ch. 668, title I, §104, 56 Stat. 1031; Pub. L. 85–608, title I, §104, Aug. 8, 1958, 72 Stat. 537; Pub. L. 86–70, §42(b), June 25, 1959, 73 Stat. 151.)
 
 #### Codification
 

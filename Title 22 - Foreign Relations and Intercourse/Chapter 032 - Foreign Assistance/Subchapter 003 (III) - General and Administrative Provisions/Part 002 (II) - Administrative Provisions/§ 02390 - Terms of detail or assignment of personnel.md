@@ -22,7 +22,5 @@ This chapter, referred to in par. (3), was in the original “this Act”, meani
 
 #### Delegation of Functions
 
-Functions of President under par. (3) delegated to Director of United States International Development Cooperation Agency, to be exercised in consultation with Secretary of State, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under par. (3), to extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State, by section 1–301(b) and (d) of Ex. Ord. No. 12163.
+Functions of President under par. (3), to extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State, by section 1–301(b) and (d) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 

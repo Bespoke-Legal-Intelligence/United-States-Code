@@ -2,11 +2,19 @@
 
 (a)
 
-Definitions.—In this section—
+Definitions.—In this section, the following definitions apply:
 
-&emsp;(1) “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
+&emsp;(1)
 
-&emsp;(2) “truck tractor” means—
+Automobile transporter.—The term “automobile transporter” means any vehicle combination designed and used specifically for the transport of assembled highway vehicles, including truck camper units.
+
+&emsp;(2)
+
+Maxi-cube vehicle.—The term “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
+
+&emsp;(3)
+
+Truck tractor.—The term “truck tractor” means—
 
 &emsp;&emsp;(A) a non-property-carrying power unit that operates in combination with a semitrailer or trailer; or
 
@@ -16,7 +24,7 @@ Definitions.—In this section—
 
 General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
 
-&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feeton a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
+&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
 
 &emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
 
@@ -58,7 +66,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 Accommodating Specialized Equipment.—In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400.)
 
 Historical and Revision Notes
 
@@ -145,6 +153,22 @@ In subsection (f)(4)(C), the reference to regulations prescribed under subsectio
 Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word “vessel” is substituted for “boat” because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178, §4005(1), substituted “section, the following definitions apply:” for “section—” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 105–178, §4005(5), added par. (1). Former par. (1) redesignated (2).
+
+Pub. L. 105–178, §4005(2), inserted “
+
+Maxi-cube vehicle.—The term” after “(1)”.
+
+Subsec. (a)(2). Pub. L. 105–178, §4005(4), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Pub. L. 105–178, §4005(3), inserted “
+
+Truck tractor.—The term” after “(2)”.
+
+Subsec. (a)(3). Pub. L. 105–178, §4005(4), redesignated par. (2) as (3).
 
 1995—Subsec. (b)(1)(E). Pub. L. 104–88 added subpar. (E).
 

@@ -12,7 +12,7 @@ Commander.—The Chief of Naval Reserve shall be the commander of the Naval Rese
 
 Assignment of Forces.—The Secretary of the Navy—
 
-&emsp;(1) shall assign to the Naval Reserve Force specified portions of the Naval Reserve other than forces assigned to the unified combatant command for special operations forces established pursuant to section 167 of this title; and
+&emsp;(1) shall assign to the Naval Reserve Force specified portions of the Naval Reserve other than forces assigned to the unified combatantcommand for special operations forces established pursuant to section 167 of this title; and
 
 &emsp;(2) except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 5013 of this title, shall assign to the combatant commands all such forces assigned to the Naval Reserve Force under paragraph (1) in the manner specified by the Secretary of Defense.
 

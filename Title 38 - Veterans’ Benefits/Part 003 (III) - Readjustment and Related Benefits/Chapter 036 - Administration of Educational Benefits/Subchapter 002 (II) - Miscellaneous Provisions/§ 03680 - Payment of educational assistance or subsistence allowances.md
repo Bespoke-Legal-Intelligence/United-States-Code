@@ -4,7 +4,7 @@
 
 (a) Payment of educational assistance or subsistence allowances to eligible veterans or eligible persons pursuing a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of this title shall be paid as provided in this section and, as applicable, in section 3108, 3482, 3491, or 3532 of this title. Such payments shall be paid only for the period of such veterans’ or persons’ enrollment in, and pursuit of, such program, but no amount shall be paid—
 
-&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly establishedpolicies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
+&emsp;(1) to any eligible veteran or eligible person for any period when such veteran or person is not pursuing such veteran's or person's course in accordance with the regularly established policies and regulations of the educational institution, with the provisions of such regulations as may be prescribed by the Secretary pursuant to subsection (g) of this section, and with the requirements of this chapter or of chapter 34 or 35 of this title, but payment may be made for an actual period of pursuit of one or more unit subjects pursued for a period of time shorter than the enrollment period at the educational institution;
 
 &emsp;(2) to any eligible veteran or person for auditing a course; or
 
@@ -46,7 +46,7 @@
 
 &emsp;(A) in the case of an initial enrollment of a veteran or person in an educational institution, contain information showing that the veteran or person (i) is eligible for educational benefits, (ii) has been accepted by the institution, and (iii) has notified the institution of such veteran's or person's intention to attend that institution; and
 
-&emsp;(B) in the case of a re-enrollment of a veteran or person, contain information showingthat the veteran or person (i) is eligible to continue such veteran's or person's program of education or training and (ii) intends to re-enroll in the same institution,
+&emsp;(B) in the case of a re-enrollment of a veteran or person, contain information showing that the veteran or person (i) is eligible to continue such veteran's or person's program of education or training and (ii) intends to re-enroll in the same institution,
 
 > and, in either case, shall also state the number of semester or clock-hours to be pursued by such veteran or person.
 

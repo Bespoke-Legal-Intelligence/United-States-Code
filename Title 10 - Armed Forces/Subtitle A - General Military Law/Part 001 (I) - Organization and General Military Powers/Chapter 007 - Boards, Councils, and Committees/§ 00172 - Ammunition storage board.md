@@ -4,7 +4,7 @@
 
 (b) The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Sept. 23, 1996, Pub. L. 104–201, div. A, title IX, §909, Sept. 23, 1996, 110 Stat. 2621.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 104–201, div. A, title IX, §909, Sept. 23, 1996, 110 Stat. 2621.)
 
 Historical and Revision Notes
 

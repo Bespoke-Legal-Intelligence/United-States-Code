@@ -10,7 +10,7 @@ The Attorney General may promulgate and enforce any rules, regulations, and proc
 
 #### (c) Acceptance of devices, bequests, gifts, and donations
 
-The Attorney General may accept in the name of the Department of Justice any form of device, bequest, gift, or donation where the donor intends to donate property for the purpose of preventing or controlling the abuse of controlled substances. He may take all appropriate steps to secure possession of such property and may sell, assign, transfer, or convey any such property other than moneys.
+The Attorney General may accept in the name of the Department of Justice any form of device,bequest, gift, or donation where the donor intends to donate property for the purpose of preventing or controlling the abuse of controlled substances. He may take all appropriate steps to secure possession of such property and may sell, assign, transfer, or convey any such property other than moneys.
 
 (Pub. L. 91–513, title II, §501, Oct. 27, 1970, 84 Stat. 1270.)
 

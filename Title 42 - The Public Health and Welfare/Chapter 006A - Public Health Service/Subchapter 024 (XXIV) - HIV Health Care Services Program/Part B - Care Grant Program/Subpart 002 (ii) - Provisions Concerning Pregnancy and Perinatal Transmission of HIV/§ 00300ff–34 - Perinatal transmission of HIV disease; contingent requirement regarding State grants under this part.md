@@ -50,7 +50,7 @@ With respect to an activity described in any of paragraphs (1) through (4) of se
 
 &emsp;(2) Funds that the State or private entities have elected to provide, including through entering into contracts under which health benefits are provided. This section does not require any entity to expend non-Federal funds.
 
-(July 1, 1944, ch. 373, title XXVI, §2626, as added May 20, 1996, Pub. L. 104–146, §7(b)(3), 110 Stat. 1369; amended July 29, 1996, Pub. L. 104–166, §5(1), 110 Stat. 1449.)
+(July 1, 1944, ch. 373, title XXVI, §2626, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat. 1369; amended Pub. L. 104–166, §5(1), July 29, 1996, 110 Stat. 1449.)
 
 #### Amendments
 

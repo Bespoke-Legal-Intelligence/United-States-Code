@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) the writing problem has been magnified by the rapidly changing student populations and the growing number of at-risk students due to limited English proficiency;
 
-&emsp;(3) over the past two decades, universities and colleges across the country have reported increasing numbers of entering freshmen who are unable to write at a level equal to the demands of college work;
+&emsp;(3) over the past two decades, universities and colleges across the country have reportedincreasing numbers of entering freshmen who are unable to write at a level equal to the demands of college work;
 
 &emsp;(4) American businesses and corporations are concerned about the limited writing skills of entry-level workers, and a growing number of executives are reporting that advancement was denied to them due to inadequate writing abilities;
 

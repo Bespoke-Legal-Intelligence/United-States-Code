@@ -20,7 +20,7 @@ Section 2948, Pub. L. 88–452, title VI, §608, Aug. 20, 1964, 78 Stat. 532; Pu
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1981, see section 9912(a) of this title.
+Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.
 
 #### Community Action Programs and Community Economic Development Powers Not Subject to Delegation
 

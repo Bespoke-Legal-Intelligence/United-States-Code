@@ -7,6 +7,7 @@
 | [8902a.](%C2%A7%2008902a%20-%20Debarment%20and%20other%20sanctions.md) | Debarment and other sanctions. |
 | [8903\.](%C2%A7%2008903%20-%20Health%20benefits%20plans.md) | Health benefits plans. |
 | [8903a.](%C2%A7%2008903a%20-%20Additional%20health%20benefits%20plans.md) | Additional health benefits plans. |
+| [8903b.](%C2%A7%2008903b%20-%20Authority%20to%20readmit%20an%20employee%20organization%20plan.md) | Authority to readmit an employee organization plan. |
 | [8904\.](%C2%A7%2008904%20-%20Types%20of%20benefits.md) | Types of benefits. |
 | [8905\.](%C2%A7%2008905%20-%20Election%20of%20coverage.md) | Election of coverage. |
 | [8905a.](%C2%A7%2008905a%20-%20Continued%20coverage.md) | Continued coverage. |
@@ -25,6 +26,8 @@
 
 #### Amendments
 
+1998—Pub. L. 105–266, §6(a)(2), Oct. 19, 1998, 112 Stat. 2369, added item 8903b.
+
 1988—Pub. L. 100–654, title I, §101(b), title II, §201(a)(2), title III, §301(b), Nov. 14, 1988, 102 Stat. 3841, 3845, 3846, added items 8902a, 8905a, and 8906a.
 
 Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added item 8914.
@@ -37,7 +40,7 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1308, 3373, 3374, 3582, 6386 of this title; title 2 sections 31b–5, 72a, 92, 130a; title 22 sections 2391, 3649, 3664, 4069c, 4069c–1, 4606; title 25 section 450i; title 26 section 9801; title 28 sections 332, 627, 634, 996; title 29 section 1181; title 39 section 1005; title 40 section 214c; title 42 sections 300e–1, 300e–6, 300gg, 426a, 1320a–7b, 1320d, 1395y, 2996d, 10704; title 45 section 1206; title 50 section 403p.
+This chapter is referred to in sections 3373, 3374, 3582, 6386 of this title; title 2 sections 31b–5, 72a, 92, 130a; title 22 sections 2391, 3649, 3664, 4069c, 4069c–1, 4606; title 25 section 450i; title 26 section 9801; title 28 sections 332, 627, 634, 996; title 29 section 1181; title 39 section 1005; title 40 section 214c; title 42 sections 300e–1, 300e–6, 300gg, 426a, 1320a–7b, 1320d, 1395w–21, 1395y, 2996d, 10704, 14402; title 45 section 1206; title 50 section 403p.
 
 
 ---
@@ -49,6 +52,7 @@ This chapter is referred to in sections 1308, 3373, 3374, 3582, 6386 of this tit
 - [&sect; 08902a - Debarment and other sanctions](%C2%A7%2008902a%20-%20Debarment%20and%20other%20sanctions.md)
 - [&sect; 08903 - Health benefits plans](%C2%A7%2008903%20-%20Health%20benefits%20plans.md)
 - [&sect; 08903a - Additional health benefits plans](%C2%A7%2008903a%20-%20Additional%20health%20benefits%20plans.md)
+- [&sect; 08903b - Authority to readmit an employee organization plan](%C2%A7%2008903b%20-%20Authority%20to%20readmit%20an%20employee%20organization%20plan.md)
 - [&sect; 08904 - Types of benefits](%C2%A7%2008904%20-%20Types%20of%20benefits.md)
 - [&sect; 08905 - Election of coverage](%C2%A7%2008905%20-%20Election%20of%20coverage.md)
 - [&sect; 08905a - Continued coverage](%C2%A7%2008905a%20-%20Continued%20coverage.md)

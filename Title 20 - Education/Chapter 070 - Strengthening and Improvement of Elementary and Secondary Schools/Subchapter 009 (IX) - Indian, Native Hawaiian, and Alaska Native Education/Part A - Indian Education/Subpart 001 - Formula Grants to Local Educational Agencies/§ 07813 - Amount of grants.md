@@ -48,7 +48,7 @@ In addition to the grants awarded under subsection (a) of this section, and subj
 
 &emsp;&emsp;(A) the Bureau of Indian Affairs; or
 
-&emsp;&emsp;(B) an Indian tribe, or an organization controlled or sanctioned by an Indian tribal government, for the children of such tribe under a contract with, or grant from, the Department of the Interior under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] or the Tribally Controlled Schools Act of 1988 (part B of title V of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988) \[25 U.S.C. 2501 et seq.\]; and
+&emsp;&emsp;(B) an Indian tribe, or an organization controlled or sanctioned by an Indian tribal government, for the children of such tribe under a contract with, or grant from, the Department of the Interior under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] or the Tribally Controlled Schools Act of 1988 (part B of title V of the Augustus F.Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988) \[25 U.S.C. 2501 et seq.\]; and
 
 &emsp;(2) the greater of—
 

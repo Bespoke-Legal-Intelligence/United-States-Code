@@ -14,7 +14,7 @@ It shall be unlawful for any registered investment company to pay any dividend, 
 
 It shall be unlawful in contravention of such rules, regulations, or orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors for any registered investment company to distribute long-term capital gains, as defined in title 26, more often than once every twelve months.
 
-(Aug. 22, 1940, ch. 686, title I, §19, 54 Stat. 821; Dec. 14, 1970, Pub. L. 91–547, §11, 84 Stat. 1422; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095.)
+(Aug. 22, 1940, ch. 686, title I, §19, 54 Stat. 821; Pub. L. 91–547, §11, Dec. 14, 1970, 84 Stat. 1422; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### Amendments
 

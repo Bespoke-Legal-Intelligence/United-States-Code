@@ -38,7 +38,7 @@
 
 #### (3) Administrative costs
 
-&emsp;Not more than 3 percent of the funds that remain available after carrying out sections13709, 13710, and 13711 of this title shall be available to the Attorney General for purposes of—
+&emsp;Not more than 3 percent of the funds that remain available after carrying out sections 13709, 13710, and 13711 of this title shall be available to the Attorney General for purposes of—
 
 &emsp;&emsp;(A) administration;
 
@@ -54,7 +54,7 @@
 
 #### (5) Matching funds
 
-&emsp;The Federal share of a grant received under this part may not exceed 90 percent of the costs of a proposal as described in an application approved under this part.
+&emsp;The Federal share of a grant received under this part may not exceed 90 percent of thecosts of a proposal as described in an application approved under this part.
 
 (Pub. L. 103–322, title II, §20108, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–19; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 

@@ -2,7 +2,7 @@
 
 Whoever, having taken charge of any mail, voluntarily quits or deserts the same before he has delivered it into the post office at the termination of the route, or to some known mail carrier, messenger, agent, or other employee in the Postal Service authorized to receive the same, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

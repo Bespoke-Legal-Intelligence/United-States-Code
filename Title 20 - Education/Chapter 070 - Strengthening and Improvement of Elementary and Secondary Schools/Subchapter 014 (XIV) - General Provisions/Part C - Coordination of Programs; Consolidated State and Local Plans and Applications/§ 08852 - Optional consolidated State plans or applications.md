@@ -18,13 +18,11 @@
 
 &emsp;&emsp;(B) the Prevention and Intervention Programs for Youth Who Are Neglected, Delinquent, or At-Risk of Dropping Out under part D of subchapter I of this chapter;
 
-&emsp;&emsp;(C) programs under part A of title II of the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2331 et seq.\];
+&emsp;&emsp;(C) programs under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
 
-&emsp;&emsp;(D) programs under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
+&emsp;&emsp;(D) programs under the School-to-Work Opportunities Act of 1994 \[20 U.S.C. 6101 et seq.\]; and
 
-&emsp;&emsp;(E) programs under the School-to-Work Opportunities Act of 1994 \[20 U.S.C. 6101 et seq.\]; and
-
-&emsp;&emsp;(F) such other programs as the Secretary may designate.
+&emsp;&emsp;(E) such other programs as the Secretary may designate.
 
 #### (3) Consolidated applications and plans
 
@@ -44,15 +42,17 @@
 
 &emsp;The Secretary shall require only descriptions, information, assurances, and other materials that are absolutely necessary for the consideration of the consolidated State plan or consolidated State application.
 
-(Pub. L. 89–10, title XIV, §14302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3894.)
+(Pub. L. 89–10, title XIV, §14302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3894; amended Pub. L. 105–332, §3(c)(3), Oct. 31, 1998, 112 Stat. 3125.)
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (a)(2)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended. Part A of title II of the Act is classified generally to part A (§2331 et seq.) of subchapter II of chapter 44 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (a)(2)(C), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Goals 2000: Educate America Act, referred to in subsec. (a)(2)(D), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The School-to-Work Opportunities Act of 1994, referred to in subsec. (a)(2)(D), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The School-to-Work Opportunities Act of 1994, referred to in subsec. (a)(2)(E), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+#### Amendments
+
+1998—Subsec. (a)(2)(C) to (F). Pub. L. 105–332 redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “programs under part A of title II of the Carl D. Perkins Vocational and Applied Technology Education Act;”.
 
 #### Section Referred to in Other Sections
 

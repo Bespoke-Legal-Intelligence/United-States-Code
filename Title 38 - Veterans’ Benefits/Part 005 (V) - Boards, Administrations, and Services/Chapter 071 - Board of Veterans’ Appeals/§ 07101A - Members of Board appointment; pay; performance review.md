@@ -1,6 +1,8 @@
 ### §7101A. Members of Board: appointment; pay; performance review
 
-(a) The members of the Board of Veterans’ Appeals other than the Chairman (and including the Vice Chairman) shall be appointed by the Secretary, with the approval of the President, based upon recommendations of the Chairman.
+(a)(1) The members of the Board of Veterans’ Appeals other than the Chairman (and including the Vice Chairman) shall be appointed by the Secretary, with the approval of the President, based upon recommendations of the Chairman.
+
+(2) Each member of the Board shall be a member in good standing of the bar of a State.
 
 (b) Members of the Board (other than the Chairman and any member of the Board who is a member of the Senior Executive Service) shall, in accordance with regulations prescribed by the Secretary, be paid basic pay at rates equivalent to the rates payable under section 5372 of title 5.
 
@@ -26,7 +28,9 @@
 
 (d)(1) If the Secretary, based upon the recommendation of the Chairman, determines that a member of the Board should be noncertified, that member's appointment as a member of the Board shall be terminated and that member shall be removed from the Board.
 
-(2) Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.
+(2)(A) Upon removal from the Board under paragraph (1) of a member of the Board who before appointment to the Board served as an attorney in the civil service, the Secretary shall appoint that member to an attorney position at the Board, if the removed member so requests. If the removed member served in an attorney position at the Board immediately before appointment to the Board, appointment to an attorney position under this paragraph shall be in the grade and step held by the removed member immediately before such appointment to the Board.
+
+(B) The Secretary is not required to make an appointment to an attorney position under this paragraph if the Secretary determines that the member of the Board removed under paragraph (1) is not qualified for the position.
 
 (e)(1) A member of the Board (other than the Chairman or a member of the Senior Executive Service) may be removed as a member of the Board by reason of job performance only as provided in subsections (c) and (d). Such a member may be removed by the Secretary, upon the recommendation of the Chairman, for any other reason as determined by the Secretary.
 
@@ -36,7 +40,13 @@
 
 (g) The Secretary shall prescribe procedures for the administration of this section, including deadlines and time schedules for different actions under this section.
 
-(Added Pub. L. 103–446, title II, §201(a)(1), Nov. 2, 1994, 108 Stat. 4655.)
+(Added Pub. L. 103–446, title II, §201(a)(1), Nov. 2, 1994, 108 Stat. 4655; amended Pub. L. 105–368, title X, §1002, Nov. 11, 1998, 112 Stat. 3363.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–368, §1002(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (d)(2). Pub. L. 105–368, §1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
 
 #### Effective Date
 

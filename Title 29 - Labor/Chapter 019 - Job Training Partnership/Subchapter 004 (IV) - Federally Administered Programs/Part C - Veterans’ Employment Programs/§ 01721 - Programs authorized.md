@@ -26,9 +26,13 @@
 
 (Pub. L. 97–300, title IV, §441, Oct. 13, 1982, 96 Stat. 1380; Pub. L. 99–619, §2(b)(3), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 102–54, §13(k)(2)(C), June 13, 1991, 105 Stat. 277; Pub. L. 103–446, title XII, §1203(c)(2), Nov. 2, 1994, 108 Stat. 4690.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
-1994—Subsec. (b)(2)(B). Pub. L. 103–446 substituted “subchapter II of chapter 77” for “subchapter IV of chapter 3” and “sections 1712A, 1720A, 3687, and 4103A of such title” for “sections 612A, 620A, 1787, and 2003A of such title”.
+1994—Subsec. (b)(2)(B). Pub. L. 103–446 substituted “subchapter II of chapter 77” for “subchapter IV ofchapter 3” and “sections 1712A, 1720A, 3687, and 4103A of such title” for “sections 612A, 620A, 1787, and 2003A of such title”.
 
 1991—Subsec. (b)(2)(B). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
@@ -36,11 +40,11 @@
 
 #### Coordination of Information and Assistance
 
-Pub. L. 100–689, title IV, §402, Nov. 18, 1988, 100 Stat. 4178, provided that:
+Pub. L. 100–689, title IV, §402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(24), (f)(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 “(a)
 
-Purpose.—It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title III of the Job Training Partnership Act (29 U.S.C. 1651 et seq.) or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
+Purpose.—It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title III of the Job Training Partnership Act \[29 U.S.C. 1651 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
 
 &emsp;“(1) to apply for services and benefits for which they are eligible as veterans, dislocated workers, or unemployed persons;
 
@@ -64,7 +68,7 @@ Memorandum of Understanding.—(1) Not later than one year after the date of the
 
 “(c)
 
-Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans’ Employment and Training, in consultation with the office designated or created under section 322(b) of the Job Training Partnership Act \[29 U.S.C. 1662a(b)\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
+Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans’ Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[29 U.S.C. 1662a(b)\] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
 
 “(d)
 
@@ -72,11 +76,11 @@ Covered Services and Benefits.—This section applies with respect to the follow
 
 &emsp;“(1) Employment assistance under—
 
-&emsp;&emsp;“(A) part C of title IV of the Job Training Partnership Act (96 Stat. 1380; 29 U.S.C. 1721 et seq.); and
+&emsp;&emsp;“(A) part C of title IV of the Job Training Partnership Act \[29 U.S.C. 1721 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]; and
 
 &emsp;&emsp;“(B) the Veterans’ Job Training Act (97 Stat. 443; 29 U.S.C. 1721 note).
 
-&emsp;“(2) Employment and training assistance for dislocated workers under title III of the Job Training Partnership Act (29 U.S.C. 1651 et seq.).
+&emsp;“(2) Employment and training activities for dislocated workers under title III of the Job Training Partnership Act \[29 U.S.C. 1651 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 &emsp;“(3) Employment assistance and unemployment compensation under the trade adjustment assistance program provided in chapter 2 of title II of the Trade Act of 1974 (29 U.S.C. 2271 et seq.) \[19 U.S.C. 2271 et seq.\] and under any other program administered by the Employment and Training Administration of the Department of Labor.
 
@@ -91,6 +95,16 @@ Covered Services and Benefits.—This section applies with respect to the follow
 “(e)
 
 Definition.—In this section, the term ‘veteran’ has the meaning given such term in section 101(2) of title 38, United States Code.”
+
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(16), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, section 402 of Pub. L. 100–689, set out above, is amended:
+
+&emsp;\[(1) in subsec. (a), by striking “title III of the Job Training Partnership Act or”; and
+
+&emsp;\[(2) in subsec. (d)—
+
+&emsp;&emsp;\[(A) in par. (1)(A), by striking “part C of title IV of the Job Training Partnership Act or”; and
+
+&emsp;&emsp;\[(B) in par. (2), by striking “title III of the Job Training Partnership Act or”.\]
 
 #### Training and Employment Study and Report
 
@@ -116,7 +130,7 @@ Pub. L. 100–323, §12, May 20, 1988, 102 Stat. 570, provided that: “The Admi
 
 #### Veterans’ Job Training Act
 
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 #### “short title
 
@@ -330,7 +344,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the veteran enters into an approved program of job training of an employer for purposes of assistance under this Act and ending on the last date for which such assistance is payable.
 
-“(b) Assistance may not be paid under this Act to an employer on behalf of an eligible veteran for any period if the employer receives for that period any other form of assistance on account of the training or employment of the veteran, including assistance under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) or a credit under section 44B of the Internal Revenue Code of 1954 (26 U.S.C. 44B) (relating to credit for employment of certain new employees).
+“(b) Assistance may not be paid under this Act to an employer on behalf of an eligible veteran for any period if the employer receives for that period any other form of assistance on account of the training or employment of the veteran, including assistance under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or a credit under section 44B of the Internal Revenue Code of 1954 (26 U.S.C. 44B) (relating to credit for employment of certain new employees).
 
 “(c) Assistance may not be paid under this Act on behalf of a veteran who has completed a program of job training under this Act.
 
@@ -364,13 +378,13 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;“(B) a program of information services under which—
 
-&emsp;&emsp;“(i) each veteran who enters into a program of job training under this Act and each employer participating under this Act is informed of the supportive services and resources available to the veteran (I) under clauses (A) and (B), (II) through Veterans’ Administration counseling and career-development activities (especially, in the case of a Vietnam-era veteran, readjustment counseling services under section 1712A of such title) and under part C of title IV \[29 U.S.C. 1721 et seq.\] of the Job Training Partnership Act (29 U.S.C. 1501 et seq.), and (III) through other appropriate agencies in the community; and
+&emsp;&emsp;“(i) each veteran who enters into a program of job training under this Act and each employer participating under this Act is informed of the supportive services and resources available to the veteran (I) under clauses (A) and (B), (II) through Veterans’ Administration counseling and career-development activities (especially, in the case of a Vietnam-era veteran, readjustment counseling services under section 1712A of such title) and under part C of title IV \[of\] the Job Training Partnership Act \[29 U.S.C. 1721 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and (III) through other appropriate agencies in the community; and
 
 &emsp;&emsp;“(ii) veterans and employers are encouraged to request such services whenever appropriate.
 
 “(c) Before a veteran who voluntarily terminates from a program of job training under this Act or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this Act, such veteran must be provided by the Secretary, after consultation with the Administrator, with a case manager.
 
-“(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readiness skills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
+“(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readinessskills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
 
 #### “information and outreach; use of agency resources
 
@@ -386,7 +400,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(c)(1) The Administrator and the Secretary shall make available in regional and local offices of the Veterans’ Administration and the Department of Labor such personnel as are necessary to facilitate the effective implementation of this Act.
 
-“(2) In carrying out the responsibilities of the Secretary under this Act, the Secretary shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. The Secretary shall also use such resources as are available under part C of title IV \[29 U.S.C. 1721 et seq.\] of the Job Training Partnership Act (29 U.S.C. 1501 et seq.). To the extent that the Administrator withholds approval of veterans’ applications under this Act pursuant to section 5(b)(2)(B), the Secretary shall take steps to assist such veterans in taking advantage of opportunities that may be available to them under title III of that Act \[29 U.S.C. 1651 et seq.\] or under any other program carried out with funds provided by the Secretary.
+“(2) In carrying out the responsibilities of the Secretary under this Act, the Secretary shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. The Secretary shall also use such resources as are available under part C of title IV of the Job Training Partnership Act \[29 U.S.C. 1721 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]. To the extent that the Administrator withholds approval of veterans’ applications under this Act pursuant to section 5(b)(2)(B), the Secretary shall take steps to assist such veterans in taking advantage of opportunities that may be available to them under title III of the Job Training Partnership Act \[29 U.S.C. 1651 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or under any other program carried out with funds provided by the Secretary.
 
 “(d) The Secretary shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for veterans.
 
@@ -398,7 +412,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
 
-“(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for suchpurpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
+“(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### “time periods for application and initiation of training
 
@@ -420,9 +434,21 @@ Sec. 17. Assistance may not be paid to an employer under this Act—
 
 “Sec. 19. This Act shall take effect on October 1, 1983.”
 
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(17), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, Pub. L. 98–77, set out above, is amended:
+
+&emsp;\[(1) In section 13(b), by striking “the Job Training Partnership Act or”.
+
+&emsp;\[(2) In section 14(b)(3)(B)(i)(II), by striking “part C of title IV the Job Training Partnership Act or”.
+
+&emsp;\[(3) In section 15(c)(2)—
+
+&emsp;&emsp;\[(A) in the second sentence, by striking “part C of title IV of the Job Training Partnership Act or”; and
+
+&emsp;&emsp;\[(B) in the third sentence, by striking “title III of the Job Training Partnership Act or”.\]
+
 \[Amendment of Pub. L. 98–77, set out above, by Pub. L. 100–323 effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L. 100–323, set out as a note under section 3104 of Title 38, Veterans’ Benefits.\]
 
-\[Section 201(f) of Pub. L. 99–238 provided that:
+\[Pub. L. 99–238, title II, §201(f), Jan. 13, 1986, 99 Stat. 1768, provided that:
 
 \[“(1) Except as provided in paragraph (2), the amendments made by this section \[amending Pub. L. 98–77 above\] shall take effect on the date of the enactment of this Act \[Jan. 13, 1986\].
 

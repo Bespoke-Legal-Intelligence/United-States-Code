@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in section 219 of thi
 
 #### Persian Gulf War Veterans’ Health Status
 
-Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, §108, Nov. 2, 1994, 108 Stat. 4653, provided that:
+Pub. L. 102–585, title VII, Nov. 4, 1992, 106 Stat. 4975, as amended by Pub. L. 103–446, title I, §108, Nov. 2, 1994, 108 Stat. 4653; Pub. L. 105–368, title I, §§104, 106, Nov. 11, 1998, 112 Stat. 3323, 3325, provided that:
 
 #### “SEC. 701. SHORT TITLE.
 
@@ -106,7 +106,7 @@ Study.—The Director of the Office of Technology Assessment shall, in a manner 
 
 &emsp;“(5) the extent to which the Department of Defense or the Department of Veterans Affairs, as the case may be, is assembling and maintaining information on the Persian Gulf theater of operations (including information on troop locations and atmospheric and weather conditions) in a manner that facilitates the usefulness of, maintenance of, and retrieval of information from, the applicable registry; and
 
-&emsp;“(6) the adequacy and compatibility of protocols for the health examinations and counseling providedunder section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War.
+&emsp;“(6) the adequacy and compatibility of protocols for the health examinations and counseling provided under section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(b)
 
@@ -132,7 +132,7 @@ Definitions.—For the purposes of this section:
 
 “(a)
 
-Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) ofthe Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
@@ -154,7 +154,7 @@ Report.—(1) The agreement under this section shall require the National Academ
 
 &emsp;“(A) The Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
-&emsp;“(B) The Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\].
+&emsp;“(B) The Committees on Armed Services of the Senate and House of Representatives.
 
 &emsp;“(C) The Secretary of Veterans Affairs.
 
@@ -170,15 +170,47 @@ Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense sh
 
 &emsp;“(B) the Secretary of Defense shall make available $250,000 in each of fiscal years 1994 through 2003, from amounts available to the Department of Defense in each such fiscal year, to the National Academy of Sciences for the purposes of carrying out the research referred to in subparagraph (A).
 
-#### “SEC. 707. COORDINATION OF GOVERNMENT ACTIVITIES ON HEALTH-RELATED RESEARCH ON THE PERSIAN GULF WAR.
+“(d)
+
+Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—
+
+&emsp;“(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and
+
+&emsp;“(B) on an ongoing basis, periodically review and provide recommendations regarding the research plans and research strategies of the Departments relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+
+“(2) Recommendations to be provided under paragraph (1)(B) include any recommendations that the Academy considers appropriate for additional scientific studies (including studies related to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of any aspects of such military service. In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
+
+“(3) Not later than 9 months after the Institute of Medicine provides the Secretaries the curriculum developed under paragraph (1)(A), the Secretaries shall provide for the conduct of continuing education programs using that curriculum. Those programs shall include instruction which seeks to emphasize use of appropriate protocols of diagnosis, referral, and treatment of such veterans.
+
+#### “SEC. 707. COORDINATION OF HEALTH-RELATED GOVERNMENT ACTIVITIES ON THE PERSIAN GULF WAR.
 
 “(a)
 
-Designation of Coordinating Organization.—The President shall designate, and may redesignate from time to time, the head of an appropriate department or agency of the Federal Government to coordinate all research activities undertaken or funded by the Executive Branch of the Federal Government on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Designation of Coordinating Organization.—The President shall designate, and may redesignate from time to time, the head of an appropriate department or agency of the Federal Government to coordinate all activities undertaken or funded by the Executive Branch of the Federal Government on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(b)
 
-Report.—Not later than March 1 of each year, the head of the department or agency designated under subsection (a) shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the status and results of all such research activities undertaken or by the Executive Branch of the Federal Government during the previous year.
+Public Advisory Committee.—Not later than January 1, 1999, the head of the department or agency designated under subsection (a) shall establish an advisory committee consisting of members of the general public, including Persian Gulf War veterans and representatives of such veterans, to provide advice to the head of that department or agency on proposed research studies, research plans, or research strategies relating to the health consequences of military service in the Southwest Asia theater of operations during the Persian Gulf War. The department or agency head shall consult with such advisory committee on a regular basis.
+
+“(c)
+
+Reports.—(1) Not later than March 1 of each year, the head of the department or agency designated under subsection (a) shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on—
+
+&emsp;“(A) the status and results of all such research activities undertaken by the executive branch during the previous year; and
+
+&emsp;“(B) research priorities identified during that year.
+
+“(2)(A) Not later than 120 days after submission of the epidemiological research study conducted by the Department of Veterans Affairs entitled ‘VA National Survey of Persian Gulf Veterans—Phase III’, the head of the department or agency designated under subsection (a) shall submit to the congressional committees specified in paragraph (1) a report on the findings under that study and any other pertinent medical literature.
+
+“(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who servedin the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
+
+“(d)
+
+Public Availability of Research Findings.—The head of the department or agency designated under subsection (a) shall ensure that the findings of all research conducted by or for the executive branch relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War (including information pertinent to improving provision of care for veterans of such service) are made available to the public through peer-reviewed medical journals, the World Wide Web, and other appropriate media.
+
+“(e)
+
+Outreach.—The head of the department or agency designated under subsection (a) shall ensure that the appropriate departments consult and coordinate in carrying out an ongoing program to provide information to those who served in the Southwest Asia theater of operations during the Persian Gulf War relating to: (1) the health risks, if any, resulting from any risk factors associated with such service; and (2) any services or benefits available with respect to such health risks.
 
 #### “SEC. 708. DEFINITION.
 

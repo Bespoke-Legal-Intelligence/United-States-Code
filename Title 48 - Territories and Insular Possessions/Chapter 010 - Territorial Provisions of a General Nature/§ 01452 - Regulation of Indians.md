@@ -1,6 +1,6 @@
 ### §1452. Regulation of Indians
 
-Nor shall anything in title 23 of the Revised Statutes be construed to affect the authority of the United States to make any regulations respecting the Indians of any Territory, their lands, property, or rights, by treaty, law, or otherwise, in the same manner as might be made if no temporary government existed, or is hereafter established, in any such Territory. As used herein, the term “Territory” does not include the Virgin Islands, Puerto Rico, American Samoa, Guam, or the Northern Mariana Islands.
+Nor shall anything in title 23 of the Revised Statutes be construed to affect the authority ofthe United States to make any regulations respecting the Indians of any Territory, their lands, property, or rights, by treaty, law, or otherwise, in the same manner as might be made if no temporary government existed, or is hereafter established, in any such Territory. As used herein, the term “Territory” does not include the Virgin Islands, Puerto Rico, American Samoa, Guam, or the Northern Mariana Islands.
 
 (R.S. §1840; Pub. L. 98–213, §15(b), Dec. 8, 1983, 97 Stat. 1462.)
 
@@ -14,5 +14,5 @@ R.S. §1840 derived from N.M., act Sept. 9, 1850, ch. 49, §2, 9 Stat. 447. Utah
 
 #### Amendments
 
-1983—Pub. L. 98–213 inserted provisions excluding from the term “Territory” the Virgin Islands, PuertoRico, American Samoa, Guam, or the Northern Mariana Islands.
+1983—Pub. L. 98–213 inserted provisions excluding from the term “Territory” the Virgin Islands, Puerto Rico, American Samoa, Guam, or the Northern Mariana Islands.
 

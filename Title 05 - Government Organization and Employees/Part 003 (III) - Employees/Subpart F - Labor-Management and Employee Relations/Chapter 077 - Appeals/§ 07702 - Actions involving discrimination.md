@@ -24,7 +24,7 @@
 
 &emsp;(B) any issue of discrimination prohibited under any provision of law described in paragraph (1)(B) of this subsection;
 
-> the agency shall resolve such matter within 120 days. The decision of the agency in any such matter shall be a judicially reviewable actionunless the employee appeals the matter to the Board under paragraph (1) of this subsection.
+> the agency shall resolve such matter within 120 days. The decision of the agency in any such matter shall be a judicially reviewable action unless the employee appeals the matter to the Board under paragraph (1) of this subsection.
 
 (3) Any decision of the Board under paragraph (1) of this subsection shall be a judicially reviewable action as of—
 
@@ -76,7 +76,7 @@
 
 (B) The special panel shall give due deference to the respective expertise of the Board and Commission in making its decision.
 
-(3) The special panel shall refer its decision under paragraph (2) of this subsection to the Board and the Board shall order any agency to take any action appropriate to carry out the decision.
+(3) The special panel shall refer its decision under paragraph (2) of this subsection to the Board and the Board shall order any agency totake any action appropriate to carry out the decision.
 
 (4) The special panel shall permit the employee or applicant who brought the complaint and the employing agency to appear before the panel to present oral arguments and to present written arguments with respect to the matter.
 

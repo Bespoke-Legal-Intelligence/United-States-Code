@@ -20,6 +20,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<i><sup>1</sup></i><i> Editorially supplied.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>
+
 
 ---
 

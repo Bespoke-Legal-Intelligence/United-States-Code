@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the percentage rate computed under subparagraph (C), if more than the maximum contribution limit computed under paragraph (20) shall not be reduced to that limit; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any computations which under subparagraph (C) are to be made on the basis of a 4-quarter or a 12-quarter period ending on a given June 30 shall be made on the basis of a period beginning on January 1, 1990, and ending on that June 30, and the amount so computed shall be increased to an amount that bears the same ratio to the amount so computed as 4 or 12, as appropriate, bears to the number of calendar quarters in the period on which the computation was based.
+&emsp;&emsp;&emsp;&emsp;(II) any computations which under subparagraph (C) are to be made on thebasis of a 4-quarter or a 12-quarter period ending on a given June 30 shall be made on the basis of a period beginning on January 1, 1990, and ending on that June 30, and the amount so computed shall be increased to an amount that bears the same ratio to the amount so computed as 4 or 12, as appropriate, bears to the number of calendar quarters in the period on which the computation was based.
 
 #### (vi) Special transition rule for public commuter railroads
 
@@ -100,7 +100,7 @@
 
 #### (iv) Step 4
 
-&emsp;&emsp;&emsp;Multiply by 100 the total arrived at under the steps set forth in clauses (i)through (iii) so as to obtain a percentage rate, which shall be rounded to the nearest 100th of 1 percent. If the total arrived at under such steps is 0 or less than 0, the percentage rate as so computed shall be 0.
+&emsp;&emsp;&emsp;Multiply by 100 the total arrived at under the steps set forth in clauses (i) through (iii) so as to obtain a percentage rate, which shall be rounded to the nearest 100th of 1 percent. If the total arrived at under such steps is 0 or less than 0, the percentage rate as so computed shall be 0.
 
 #### (v) Step 5
 
@@ -164,7 +164,7 @@
 
 #### (iv) Subsequent calendar years
 
-&emsp;&emsp;&emsp;With respect to all calendar months in calendar years subsequent to that calendar year, the contribution rate shall be determined under subparagraph (C).
+&emsp;&emsp;&emsp;With respect to all calendar months in calendar years subsequent to that calendaryear, the contribution rate shall be determined under subparagraph (C).
 
 #### (v) Meaning of symbols
 
@@ -272,7 +272,7 @@
 
 #### (F) Step 6
 
-&emsp;&emsp;Subtract the aggregate amount of all other income and receipts of the account,during that period, which are not assigned to individual employer balances.
+&emsp;&emsp;Subtract the aggregate amount of all other income and receipts of the account, during that period, which are not assigned to individual employer balances.
 
 #### (G) Step 7
 
@@ -316,7 +316,7 @@
 
 #### (D) Step 4
 
-&emsp;&emsp;Divide the aggregate amount arrived at under step 3 by the system compensation base as of the preceding June 30 as computed under paragraph (11) minus the one-year compensation base of those employers whose rates computed through step 6 of paragraph (1)(C) exceeded the maximum contribution rate computed under paragraph (20). The result is the pooled charge ratio for the calendar year.
+&emsp;&emsp;Divide the aggregate amount arrived at under step 3 by the system compensationbase as of the preceding June 30 as computed under paragraph (11) minus the one-year compensation base of those employers whose rates computed through step 6 of paragraph (1)(C) exceeded the maximum contribution rate computed under paragraph (20). The result is the pooled charge ratio for the calendar year.
 
 #### (14) Surcharge rate
 
@@ -388,7 +388,7 @@
 
 #### (C) Sale of assets
 
-&emsp;&emsp;In the event property of an employer is sold or transferred to another employer or other entity, or is partitioned among 2 or more employers or entities, the cumulative benefit balance, net cumulative contribution balance, 1-year compensation base, and 3-year compensation base of the employer shall be prorated among the employers which receive the property, including any entities which become employers by virtueof such transfer or partition, in such equitable manner as the Board by regulation shall prescribe.
+&emsp;&emsp;In the event property of an employer is sold or transferred to another employer or other entity, or is partitioned among 2 or more employers or entities, the cumulative benefit balance, net cumulative contribution balance, 1-year compensation base, and 3-year compensation base of the employer shall be prorated among the employers which receive the property, including any entities which become employers by virtue of such transfer or partition, in such equitable manner as the Board by regulation shall prescribe.
 
 #### (D) Reincorporation
 
@@ -436,7 +436,7 @@ Each employee representative shall pay a contribution with respect to so much of
 
 &emsp;&emsp;(D) the system unallocated charge balance as of that June 30, as computed in accordance with paragraph (10) of that subsection; and
 
-&emsp;&emsp;(E) the pooled credit ratio, the pooled charge ratio, and the surcharge rate, if any, as determined under paragraph (12), (13), or (14) of that subsection and applicable in the following calendar year.
+&emsp;&emsp;(E) the pooled credit ratio, the pooled charge ratio, and the surcharge rate, if any, as determined under paragraph (12), (13), or\(14) of that subsection and applicable in the following calendar year.
 
 #### (2) Publication of notice
 
@@ -476,7 +476,7 @@ The contributions required by this chapter shall be collected and paid quarterly
 
 All provisions of law, including penalties, applicable with respect to any tax imposed by the provisions of the Railroad Retirement Tax Act \[26 U.S.C. 3201 et seq.\], insofar as applicable and not inconsistent with the provisions of this chapter, shall be applicable with respect to the contributions required by this chapter: <i>Provided</i>, That all authority and functions conferred by or pursuant to such provisions upon any officer or employee of the United States, except the authority to institute and prosecute, and the function of instituting and prosecuting, criminal proceedings, shall, with respect to such contributions, be vested in and exercised by the Board or such officers and employees of the Board as it may designate therefor. The remedies available under the first sentence of this subsection for an employer or employee representative who contests the amount of contributions payable by him shall also apply with respect to a contention that the contribution rate determined by the Board under subsection (a) or (b) of this section to be applicable to such employer or employee representative is inaccurate or otherwise improper.
 
-(June 25, 1938, ch. 680, §8, 52 Stat. 1102; July 31, 1946, ch. 709, §318, 60 Stat. 739; June 23, 1948, ch. 608, §§4, 5(a), 6, 62 Stat. 577, 578; Aug. 31, 1954, ch. 1164, pt. III, §§305, 306, 68 Stat. 1042; Pub. L. 85–927, pt. II, §203, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §§306, 307, May 19, 1959, 73 Stat. 32; Pub. L. 88–133, title III, §§303(a), 304, Oct. 5, 1963, 77 Stat. 222, 223; Pub. L. 89–700, title II, §204, title III, §301(i), (ii), Oct. 30, 1966, 80 Stat. 1087, 1088; Pub. L. 94–92, title I, §1(g), (h), Aug. 9, 1975, 89 Stat. 463; Pub. L. 97–35, title XI, §1128(b), Aug. 13, 1981, 95 Stat. 641; Pub. L. 98–76, title V, §503(a), Aug. 12, 1983, 97 Stat. 440; Pub. L. 100–647, title VII, §§7102(a)–(d), 7103(a), Nov. 10, 1988, 102 Stat. 3759–3770; Pub. L. 101–322, §8(a), July 6, 1990, 104 Stat. 297.)
+(June 25, 1938, ch. 680, §8, 52 Stat. 1102; July 31, 1946, ch. 709, §318, 60 Stat. 739; June 23, 1948, ch. 608, §§4, 5(a), 6, 62 Stat. 577, 578; Aug. 31, 1954, ch.1164, pt. III, §§305, 306, 68 Stat. 1042; Pub. L. 85–927, pt. II, §203, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §§306, 307, May 19, 1959, 73 Stat. 32; Pub. L. 88–133, title III, §§303(a), 304, Oct. 5, 1963, 77 Stat. 222, 223; Pub. L. 89–700, title II, §204, title III, §301(i), (ii), Oct. 30, 1966, 80 Stat. 1087, 1088; Pub. L. 94–92, title I, §1(g), (h), Aug. 9, 1975, 89 Stat. 463; Pub. L. 97–35, title XI, §1128(b), Aug. 13, 1981, 95 Stat. 641; Pub. L. 98–76, title V, §503(a), Aug. 12, 1983, 97 Stat. 440; Pub. L. 100–647, title VII, §§7102(a)–(d), 7103(a), Nov. 10, 1988, 102 Stat. 3759–3770; Pub. L. 101–322, §8(a), July 6, 1990, 104 Stat. 297.)
 
 #### References in Text
 
@@ -532,7 +532,7 @@ Subsec. (b). Pub. L. 98–76, §503(a)(2), struck out “after December 1975” 
 | $300,000,000 or more but less than $350,000,000 | 3 |
 | Less than $300,000,000 | 4” |
 
-Subsec. (b). Pub. L. 94–92, §1(h), substituted “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him for services performed as an employee representative during any month after December 1975 as is not, for any such calendar month, in excess of $400, at the rate applicable to employers in accordance with subsection (a) of this section.” for “Each employee representative shall pay, with respect to his income, a contribution equal to 4 per centum of so much of the compensation of such employee representative as is not in excess of $300 for any calendar month, paid to him for services performed as an employee representative after June 30, 1939, and before July 1, 1954, and as is not in excess of $350 paid to him for services rendered as an employee representative in any calendar month after June 30, 1954, and before June 1, 1959, and as is not in excess of $400 paid to him for services rendered as an employee representative in any calendar month after May 31, 1959.”
+Subsec. (b). Pub. L. 94–92, §1(h), substituted “Each employee representative shall pay a contribution with respect to so much of the compensation paid to him for services performed as an employee representative during any month after December 1975 as is not, for any such calendar month, in excess of $400, at the rate applicable to employers in accordance with subsection (a) of this section.” for “Each employee representative shall pay, with respect to his income, a contribution equal to 4 per centum of so much of the compensation of such employee representative as is not in excess of $300 for any calendar month, paid to him for services performed as an employee representative after June 30, 1939, and before July 1, 1954, and as is not in excess of $350 paid to him for services rendered as an employeerepresentative in any calendar month after June 30, 1954, and before June 1, 1959, and as is not in excess of $400 paid to him for services rendered as an employee representative in any calendar month after May 31, 1959.”
 
 1966—Subsec. (a). Pub. L. 89–700, §301(i), (ii), substituted “before June 1, 1959” for “before the calendar month next following the month in which this Act was amended in 1959”, and “after May 31, 1959” for “after the month in which this Act was so amended”.
 
@@ -558,7 +558,7 @@ Subsec. (f). Act June 23, 1948, §6, changed rates of credits to account and fun
 
 1946—Subsec. (a). Act July 31, 1946, §318(a), changed basis of contributions from compensation payable during a month to compensation paid during the month and inserted provisions relating to proration of contributions where one of the employers is a railway labor organization.
 
-Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code forreferences to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
+Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code for references to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
 
 #### Effective Date of 1990 Amendment
 

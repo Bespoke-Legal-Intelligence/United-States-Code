@@ -38,7 +38,7 @@ Except as authorized under subsection (b) of this section, no person shall offer
 
 This section shall not affect any rights or obligations arising out of any transaction subject to this section, as in effect before November 10, 1986, that was entered into, or the execution of which was confirmed, before November 10, 1986.
 
-(Sept. 21, 1922, ch. 369, §19, as added Sept. 30, 1978, Pub. L. 95–405, §23, 92 Stat. 876; amended Jan. 11, 1983, Pub. L. 97–444, title II, §234, 96 Stat. 2322; Nov. 10, 1986, Pub. L. 99–641, title I, §109, 100 Stat. 3560.)
+(Sept. 21, 1922, ch. 369, §19, as added Pub. L. 95–405, §23, Sept. 30, 1978, 92 Stat. 876; amended Pub. L. 97–444, title II, §234, Jan. 11, 1983, 96 Stat. 2322; Pub. L. 99–641, title I, §109, Nov. 10, 1986, 100 Stat. 3560.)
 
 #### Prior Provisions
 

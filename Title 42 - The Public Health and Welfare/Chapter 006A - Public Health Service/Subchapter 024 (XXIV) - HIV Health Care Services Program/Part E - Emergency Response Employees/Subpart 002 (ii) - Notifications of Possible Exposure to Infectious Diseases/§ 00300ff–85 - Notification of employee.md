@@ -22,5 +22,5 @@ A notification under this subsection to an emergency response employee shall inf
 
 After receiving a response under paragraph (3) or (4) of subsection (d) of section 300ff–83 of this title, or a response under subsection (g)(1) of such section, the designated officer for the employee shall, to the extent practicable, immediately inform the employee of the response.
 
-(July 1, 1944, ch. 373, title XXVI, §2685, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 626.)
+(July 1, 1944, ch. 373, title XXVI, §2685, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 626.)
 

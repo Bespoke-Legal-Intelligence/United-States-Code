@@ -16,7 +16,7 @@ The Secretary of Transportation shall, in accordance with chapter 301 of title 4
 
 The Administrator shall coordinate with the Secretaries of the Department of Energy and the Department of Transportation in carrying out the Administrator's duties under this part.
 
-(July 14, 1955, ch. 360, title II, §250, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2528.)
+(July 14, 1955, ch. 360, title II, §250, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2528.)
 
 #### Codification
 

@@ -22,7 +22,7 @@
 
 &emsp;(5) it is substantiated as prescribed in regulations of the Secretary concerned.
 
-> For the purposes of clause (1), the dates of the beginning and ending of an armed conflict are the dates established by concurrent resolution of Congress or by a determination of the President.
+> For the purposes of clause (1), the dates of the beginning and ending of an armed conflict arethe dates established by concurrent resolution of Congress or by a determination of the President.
 
 (c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States.
 
@@ -36,7 +36,7 @@
 
 (h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Aug. 23, 1958, Pub. L. 85–729, §1, 72 Stat. 813; Sept. 2, 1958, Pub. L. 85–861, §1(54), 72 Stat. 1461; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 26, 1968, Pub. L. 90–522, 82 Stat. 875; Sept. 26, 1968, Pub. L. 90–525, §§1, 3–5, 82 Stat. 877, 878; July 8, 1970, Pub. L. 91–312, §2, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §1, 88 Stat. 291; Dec. 12, 1980, Pub. L. 96–513, title V, §511(94), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §1, 98 Stat. 2918; Oct. 19, 1996, Pub. L. 104–316, title II, §202(e), 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1956
 

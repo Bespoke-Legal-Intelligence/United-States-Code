@@ -70,7 +70,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(ii) the development of high quality and challenging assessment instruments that are nondiscriminatory;
 
-&emsp;&emsp;&emsp;(iii) the development and evaluation of model curricula, textbooks, software, and other educational materials to ensure the absence of gender stereotyping and bias;
+&emsp;&emsp;&emsp;(iii) the development and evaluation of model curricula, textbooks, software, andother educational materials to ensure the absence of gender stereotyping and bias;
 
 &emsp;&emsp;&emsp;(iv) the development of instruments and procedures that employ new and innovative strategies to assess whether diverse educational settings are gender equitable;
 

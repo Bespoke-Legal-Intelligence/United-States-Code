@@ -14,7 +14,7 @@ In developing regulations under this subchapter, the Secretary shall consult wit
 
 &emsp;&emsp;(B) what programs are available to meet the student's educational strengths and needs and how the programs differ in content and instructional goals, and in the case of a student with a disability, how the program meets the objectives of a student's individualized education program; and
 
-&emsp;&emsp;(C) the instructional goals of the bilingual education or special alternative instructional program, and how the program willspecifically help the limited English proficient student acquire English and meet age-appropriate standards for grade-promotion and graduation, including—
+&emsp;&emsp;(C) the instructional goals of the bilingual education or special alternative instructional program, and how the program will specifically help the limited English proficient student acquire English and meet age-appropriate standards for grade-promotion and graduation, including—
 
 &emsp;&emsp;&emsp;(i) the benefits, nature, and past academic results of the bilingual educational program and of the instructional alternatives; and
 

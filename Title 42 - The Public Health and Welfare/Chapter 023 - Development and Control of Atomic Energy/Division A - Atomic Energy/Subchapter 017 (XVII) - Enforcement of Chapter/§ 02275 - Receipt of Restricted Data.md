@@ -2,7 +2,7 @@
 
 Whoever, with intent to injure the United States or with intent to secure an advantage to any foreign nation, acquires, or attempts or conspires to acquire any document, writing, sketch, photograph, plan, model, instrument, appliance, note, or information involving or incorporating Restricted Data, shall upon conviction thereof, be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $20,000 or both.
 
-(Aug. 1, 1946, ch. 724, title I, §225, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 959; amended Dec. 24, 1969, Pub. L. 91–161, §3(b), 83 Stat. 444; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §225, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 959; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

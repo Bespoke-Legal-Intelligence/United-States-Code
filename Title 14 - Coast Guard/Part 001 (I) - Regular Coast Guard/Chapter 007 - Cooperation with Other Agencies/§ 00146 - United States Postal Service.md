@@ -2,7 +2,7 @@
 
 Coast Guard facilities and personnel may be utilized for the transportation and delivery of mail matter during emergency conditions or at isolated locations under such arrangements as may be satisfactory to the Secretary and the United States Postal Service.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 506; Oct. 18, 1976, Pub. L. 94–546, §1(12), 90 Stat. 2519; Nov. 10, 1986, Pub. L. 99–640, §10(a)(5), 100 Stat. 3549.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 506; Pub. L. 94–546, §1(12), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 99–640, §10(a)(5), Nov. 10, 1986, 100 Stat. 3549.)
 
 #### Historical and Revision Notes
 

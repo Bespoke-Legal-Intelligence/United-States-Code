@@ -48,7 +48,7 @@ In the case of high-voltage cables used as trailing cables, temporary splices sh
 
 #### (<i>l</i>) Grounding of frames of underground equipment
 
-Frames, supporting structures, and enclosures of stationary, portable, or mobile underground high-voltage equipment and all high-voltage equipment supplying power to such equipment receiving power from resistance grounded systems shall be effectively grounded to the high-voltage ground.
+Frames, supporting structures, and enclosures of stationary, portable, or mobile undergroundhigh-voltage equipment and all high-voltage equipment supplying power to such equipment receiving power from resistance grounded systems shall be effectively grounded to the high-voltage ground.
 
 #### (m) Moving of power centers, transformers, and cables; deenergizing; exceptions; safety guidelines; record of examinations
 

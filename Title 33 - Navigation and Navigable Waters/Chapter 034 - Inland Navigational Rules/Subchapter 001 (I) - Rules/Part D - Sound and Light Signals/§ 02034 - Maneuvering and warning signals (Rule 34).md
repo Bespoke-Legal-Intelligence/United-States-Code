@@ -4,7 +4,7 @@
 
 When power-driven vessels are in sight of one another and meeting or crossing at a distance within half a mile of each other, each vessel underway, when maneuvering as authorized or required by these Rules:
 
-&emsp;(i) shall indicate that maneuver by the following signals on her whistle: one short blast to mean “I intend to leave you on my port side”; two short blasts to mean “I intend to leave you on my starboard side”; and threeshort blasts to mean “I am operating astern propulsion”.
+&emsp;(i) shall indicate that maneuver by the following signals on her whistle: one short blast to mean “I intend to leave you on my port side”; two short blasts to mean “I intend to leave you on my starboard side”; and three short blasts to mean “I am operating astern propulsion”.
 
 &emsp;(ii) upon hearing the one or two blast signal of the other shall, if in agreement, sound the same whistle signal and take the steps necessary to effect a safe passing. If, however, from any cause, the vessel doubts the safety of the proposed maneuver, she shall sound the danger signal specified in paragraph (d) of this Rule and each vessel shall take appropriate precautionary action until a safe passing agreement is made.
 
@@ -22,7 +22,7 @@ A vessel may supplement the whistle signals prescribed in paragraph (a) of this 
 
 When in sight of one another:
 
-&emsp;(i) a power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by the following signals on her whistle: one short blast to mean “I intend to overtake you on your starboard side”; two short blasts to mean “I intend to overtake you on your port side”; and
+&emsp;(i) a power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by the following signals on her whistle: one short blast to mean “I intendto overtake you on your starboard side”; two short blasts to mean “I intend to overtake you on your port side”; and
 
 &emsp;(ii) the power-driven vessel about to be overtaken shall, if in agreement, sound a similar sound signal. If in doubt she shall sound the danger signal prescribed in paragraph (d).
 

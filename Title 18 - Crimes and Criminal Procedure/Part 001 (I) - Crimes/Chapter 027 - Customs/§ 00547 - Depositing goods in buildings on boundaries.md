@@ -2,7 +2,7 @@
 
 Whoever receives or deposits any merchandise in any building upon the boundary line between the United States and any foreign country, or carries any merchandise through the same, in violation of law, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 717; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

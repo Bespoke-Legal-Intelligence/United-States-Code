@@ -6,7 +6,7 @@ Hereafter the gross salary of any position in the Library which is augmented by 
 
 #### Codification
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of1949” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

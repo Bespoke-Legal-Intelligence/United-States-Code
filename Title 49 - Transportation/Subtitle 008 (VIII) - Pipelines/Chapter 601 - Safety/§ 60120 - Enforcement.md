@@ -8,7 +8,7 @@ Civil Actions.—(1) On the request of the Secretary of Transportation, the Atto
 
 (b)
 
-Jury Trial Demand.—In a trial for criminal contempt for violating an injunction issued under this section, the violation of which is alsoa violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
+Jury Trial Demand.—In a trial for criminal contempt for violating an injunction issued under this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
 
 (c)
 

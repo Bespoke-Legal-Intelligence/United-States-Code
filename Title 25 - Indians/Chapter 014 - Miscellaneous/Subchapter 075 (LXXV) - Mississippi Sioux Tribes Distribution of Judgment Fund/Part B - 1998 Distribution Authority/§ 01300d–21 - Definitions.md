@@ -1,0 +1,32 @@
+### §1300d–21. Definitions
+
+In this part:
+
+#### (1) Covered Indian tribe
+
+&emsp;The term “covered Indian tribe” means an Indian tribe listed in section 1300d–23(a) of this title.
+
+#### (2) Fund Account
+
+&emsp;The term “Fund Account” means the consolidated account for tribal trust funds in theTreasury of the United States that is managed by the Secretary—
+
+&emsp;&emsp;(A) through the Office of Trust Fund Management of the Department of the Interior; and
+
+&emsp;&emsp;(B) in accordance with the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001 et seq.).
+
+#### (3) Secretary
+
+&emsp;The term “Secretary” means the Secretary of the Interior.
+
+#### (4) Tribal governing body
+
+&emsp;The term “tribal governing body” means the duly elected governing body of a covered Indian tribe.
+
+(Pub. L. 105–387, §2, Nov. 13, 1998, 112 Stat. 3471.)
+
+#### References in Text
+
+This part, referred to in text, was in the original “this Act”, meaning Pub. L. 105–387, Nov. 13, 1998, 112 Stat. 3471, which is classified principally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 1300d of this title and Tables.
+
+The American Indian Trust Fund Management Reform Act of 1994, referred to in par. (2)(B), is Pub. L. 103–412, Oct. 25, 1994, 108 Stat. 4239, as amended, which is classified principally to chapter 42 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+

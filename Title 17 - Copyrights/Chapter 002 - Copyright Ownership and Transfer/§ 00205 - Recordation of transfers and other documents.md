@@ -46,7 +46,7 @@ Under subsection (f) of section 205, a nonexclusive license in writing and signe
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title beforesuch date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
 #### Recordation of Shareware
 
@@ -80,5 +80,5 @@ Fee for recordation of a transfer of copyright ownership, see section 708 of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 708 of this title.
+This section is referred to in sections 101, 708 of this title; title 28 section 4001.
 

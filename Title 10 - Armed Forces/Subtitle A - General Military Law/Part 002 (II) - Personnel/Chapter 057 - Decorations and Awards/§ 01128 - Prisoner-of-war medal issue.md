@@ -1,6 +1,6 @@
 ### §1128. Prisoner-of-war medal: issue
 
-(a) The Secretary concerned shall issue a prisoner-of-war medal to any person who, while serving in any capacity with the armed forces, was taken prisoner and held captive—
+(a) The Secretary concerned shall issue a prisoner-of-war medal to any person who, whileserving in any capacity with the armed forces, was taken prisoner and held captive—
 
 &emsp;(1) while engaged in an action against an enemy of the United States;
 

@@ -4,7 +4,7 @@ The Office of Personnel Management may contract for or approve the following hea
 
 &emsp;(1)
 
-Service Benefit Plan.—One Government-wide plan, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
+Service Benefit Plan.—One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Individual-practice prepayment plans.—Individual-practice prepayment plans whi
 
 Mixed model prepayment plans.—Mixed model prepayment plans which are a combination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 602; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(3), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(b), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§102, 111, Feb. 27, 1986, 100 Stat. 14, 19; Pub. L. 100–654, title II, §202(b), Nov. 14, 1988, 102 Stat. 3845.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 602; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(3), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(b), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§102, 111, Feb. 27, 1986, 100 Stat. 14, 19; Pub. L. 100–654, title II, §202(b), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 105–266, §3(b), Oct. 19, 1998, 112 Stat. 2366.)
 
 Historical and Revision Notes
 
@@ -54,6 +54,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+1998—Par. (1). Pub. L. 105–266 substituted “plan, which may be underwritten by participating affiliates licensed in any number of States,” for “plan,”.
+
 1988—Par. (1). Pub. L. 100–654 substituted “former spouses, or persons having continued coverage under section 8905a of this title,” for “or former spouses,” and “former spouse, or person having continued coverage under section 8905a of this title.” for “or former spouse.”
 
 1986—Par. (4)(A). Pub. L. 99–251, §102, amended second sentence generally, substituting “at least 3 physicians” for “physicians representing at least three major medical specialties” and inserted “and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan”.
@@ -68,7 +70,7 @@ Par. (4)(C). Pub. L. 99–251, §111, added subpar. (C).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–654 applicable with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after end of 9-month period beginning Nov. 14, 1988, and with respect to any qualifying event occurring on or after first day of first calendar year beginning after end of such 9-month period, see section 203 of Pub. L. 100–654, set out as a note under section 8902 of this title.
+Amendment by Pub. L. 100–654 applicable with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after end of 9-month period beginning Nov. 14, 1988, andwith respect to any qualifying event occurring on or after first day of first calendar year beginning after end of such 9-month period, see section 203 of Pub. L. 100–654, set out as a note under section 8902 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -80,5 +82,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8901, 8902, 8902a, 8903a, 8904, 8905, 8907, 8908, 8909, 8910, 8913 of this title; title 42 section 1395s.
+This section is referred to in sections 8901, 8902, 8902a, 8903a, 8903b, 8904, 8905, 8907, 8908, 8909, 8910, 8913 of this title; title 42 sections 1395s, 1397cc.
 

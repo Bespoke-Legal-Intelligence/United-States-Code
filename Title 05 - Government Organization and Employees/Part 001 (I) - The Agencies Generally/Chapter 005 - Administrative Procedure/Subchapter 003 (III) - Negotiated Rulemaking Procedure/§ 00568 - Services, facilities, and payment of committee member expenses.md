@@ -10,7 +10,7 @@ In general.—An agency may employ or enter into contracts for the services of a
 
 &emsp;(2)
 
-Determination of conflicting interests.—An agency shall determine whether a person under consideration to serve as convener or facilitator of a committee underparagraph (1) has any financial or other interest that would preclude such person from serving in an impartial and independent manner.
+Determination of conflicting interests.—An agency shall determine whether a person under consideration to serve as convener or facilitator of a committee under paragraph (1) has any financial or other interest that would preclude such person from serving in an impartial and independent manner.
 
 (b)
 

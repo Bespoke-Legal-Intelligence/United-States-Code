@@ -2,7 +2,7 @@
 
 #### (a) Registration statement
 
-Any association of persons may be registered with the Commission as a registered futures association pursuant to subsection (b) of this section, under the terms and conditions hereinafterprovided in this section, by filing with the Commission for review and approval a registration statement in such form as the Commission may prescribe, setting forth the information, and accompanied by the documents, below specified:
+Any association of persons may be registered with the Commission as a registered futures association pursuant to subsection (b) of this section, under the terms and conditions hereinafter provided in this section, by filing with the Commission for review and approval a registration statement in such form as the Commission may prescribe, setting forth the information, and accompanied by the documents, below specified:
 
 &emsp;(1) Data as to its organization, membership, and rules of procedure, and such other information as the Commission may by rules and regulations require as necessary or appropriate in the public interest; and
 
@@ -34,7 +34,7 @@ An applicant association shall not be registered as a futures association unless
 
 &emsp;&emsp;(C) require persons in any such class to pass examinations prescribed in accordance with such rules;
 
-&emsp;&emsp;(D) provide that persons in any such class other than prospective members and partners, officers and supervisory employees (which latter term may be defined by such rules and as so defined shall include branch managers of members) of members, may bequalified solely on the basis of compliance with specified standards of training and such other qualifications as the association finds appropriate;
+&emsp;&emsp;(D) provide that persons in any such class other than prospective members and partners, officers and supervisory employees (which latter term may be defined by such rules and as so defined shall include branch managers of members) of members, may be qualified solely on the basis of compliance with specified standards of training and such other qualifications as the association finds appropriate;
 
 &emsp;&emsp;(E) provide that applications to become a member or a person associated with a member shall set forth such facts as the association may prescribe as to the training, experience, and other qualifications (including, in the case of an applicant for membership, financial responsibility) of the applicant and that the association shall adopt procedures for verification of qualifications of the applicant, which may require the applicant to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing. Notwithstanding any other provision of law, such an association may receive from the Attorney General all the results of such identification and processing; and
 
@@ -64,7 +64,7 @@ An applicant association shall not be registered as a futures association unless
 
 &emsp;&emsp;(i) for payment of actual damages proximately caused by such violation. If an award of actual damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under sections 2, 2a, and 4 of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award; and
 
-&emsp;&emsp;(ii) where the violation is willful and intentional, for payment to the customer of punitive or exemplary damages, in addition to losses proximately caused by the violation, in an amount equal to no more than two times the amount of such losses. If punitive or exemplary damages are awarded against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of such order is held to be responsible under sections 2, 2a, and 4 of this title for the floor broker's violation, such futures commission merchant may be required to satisfy the award of punitive or exemplary damages if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchant only if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker's violation; and <sup>2</sup>
+&emsp;&emsp;(ii) where the violation is willful and intentional, for payment to the customer of punitive or exemplary damages, in addition to losses proximately caused by the violation, in an amount equal to no more thantwo times the amount of such losses. If punitive or exemplary damages are awarded against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of such order is held to be responsible under sections 2, 2a, and 4 of this title for the floor broker's violation, such futures commission merchant may be required to satisfy the award of punitive or exemplary damages if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchant only if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker's violation; and <sup>2</sup>
 
 &emsp;(11) such association provides for meaningful representation on the governing board of such association of a diversity of membership interests and provides that no less than 20 percent of the regular voting members of such board be comprised of qualified nonmembers of or persons who are not regulated by such association.<sup>3</sup>
 
@@ -112,7 +112,7 @@ A registered futures association may, upon such reasonable notice as the Commiss
 
 &emsp;(A) if the Commission finds that—
 
-&emsp;&emsp;(i) the member or person associated with a member has engaged in the acts or practices,or has omitted the acts, that the association has found the member or person to have engaged in or omitted;
+&emsp;&emsp;(i) the member or person associated with a member has engaged in the acts or practices, or has omitted the acts, that the association has found the member or person to have engaged in or omitted;
 
 &emsp;&emsp;(ii) the acts or practices, or omissions to act, are in violation of the rules of the association specified in the determination of the association; and
 
@@ -148,9 +148,9 @@ Every registered futures association shall file with the Commission in accordanc
 
 (1) The Commission is authorized by order to abrogate any rule of a registered futures association, if after appropriate notice and opportunity for hearing, it appears to the Commission that such abrogation is necessary or appropriate to assure fair dealing by the members of such association, to assure a fair representation of its members in the administration of its affairs or effectuate the purposes of this section.
 
-(2) The Commission may in writing request any registered futures association to adopt any specified alteration or supplement to its rules with respect to any of the matters hereinafter enumerated. If such association fails to adopt such alteration or supplement within a reasonable time, the Commission is authorized by order to alter or supplement the rules of such association in the manner theretofore requested, or with such modifications of such alteration or supplement as it deems necessary if, after appropriate notice and opportunity for hearing, it appears to the Commission that such alteration or supplement is necessary or appropriate in the public interest or to effectuate the purposes of this section, with respect to—
+(2) The Commission may in writing request any registered futures association to adopt anyspecified alteration or supplement to its rules with respect to any of the matters hereinafter enumerated. If such association fails to adopt such alteration or supplement within a reasonable time, the Commission is authorized by order to alter or supplement the rules of such association in the manner theretofore requested, or with such modifications of such alteration or supplement as it deems necessary if, after appropriate notice and opportunity for hearing, it appears to the Commission that such alteration or supplement is necessary or appropriate in the public interest or to effectuate the purposes of this section, with respect to—
 
-&emsp;(A) the basis for, and procedure in connection with, the denial of membership or thebarring from being associated with a member or the disciplining of members or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof;
+&emsp;(A) the basis for, and procedure in connection with, the denial of membership or the barring from being associated with a member or the disciplining of members or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof;
 
 &emsp;(B) the method for adoption of any change in or addition to the rules of the association;
 
@@ -186,7 +186,7 @@ The Commission shall include in its annual reports to Congress information conce
 
 (3) Nothing in this section shall affect the Commission's authority to review the granting of a registration application by a registered futures association that is performing any Commission registration function authorized by the Commission under section 12a(10) of this title, this section, or any other applicable provision of this chapter.
 
-(4) If a person against whom a futures association has issued a registration order under this subsection petitions the Commission to review that order and the Commission declines to take review, such person may file a petition for review with a United States court of appeals, in accordance with section 9 of this title.
+(4) If a person against whom a futures association has issued a registration order under thissubsection petitions the Commission to review that order and the Commission declines to take review, such person may file a petition for review with a United States court of appeals, in accordance with section 9 of this title.
 
 #### (p) Establishment of rules for futures associations; approval by Commission
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of this section, each futures association re
 
 Each futures association registered under this section shall develop a comprehensive program that fully implements the rules approved by the Commission under this section as soon as practicable but not later than September 30, 1985, in the case of any futures association registered on January 11, 1983, and not later than two and one-half years after the date of registration in the case of any other futures association registered under this section.
 
-(Sept. 21, 1922, ch. 369, §17, as added Oct. 23, 1974, Pub. L. 93–463, title III, §301, 88 Stat. 1406; amended Sept. 30, 1978, Pub. L. 95–405, §22, 92 Stat. 876; Jan. 11, 1983, Pub. L. 97–444, title II, §§217(b), 233, 96 Stat. 2307, 2320; Nov. 10, 1986, Pub. L. 99–641, title I, §§107, 108, 110(6), (7), 100 Stat. 3558, 3559, 3561; Oct. 28, 1992, Pub. L. 102–546, title II, §§204(a), 206(b), 209(b)(8), 222(c), 228, title IV, §402(12), 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625.)
+(Sept. 21, 1922, ch. 369, §17, as added Pub. L. 93–463, title III, §301, Oct. 23, 1974, 88 Stat. 1406; amended Pub. L. 95–405, §22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§204(a), 206(b), 209(b)(8), 222(c), 228, title IV, §402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625.)
 
 #### References in Text
 

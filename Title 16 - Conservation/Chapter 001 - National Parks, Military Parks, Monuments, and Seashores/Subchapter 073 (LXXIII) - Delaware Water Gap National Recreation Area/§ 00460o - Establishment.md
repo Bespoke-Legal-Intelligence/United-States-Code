@@ -8,9 +8,13 @@ In order to further the purposes of the joint resolution approved September 27, 
 
 The joint resolution approved September 27, 1961, referred to in text, is Pub. L. 87–328, which was not classified to the Code.
 
+#### Joseph M. McDade Recreational Trail
+
+Pub. L. 105–277, div. A, §101(e) \[title I, §118\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–257, provided that: “The 37mile River Valley Trail from the town of Delaware Gap to the edge of the town of Milford, Pennsylvania located within the Delaware Water Gap National Recreation Area shall hereafter be referred to in any law, regulation, document, or record of the United States as the Joseph M. McDade Recreational Trail.”
+
 #### Delaware Water Gap National Recreation Area Citizen Advisory Commission
 
-Pub. L. 100–573, Oct. 31, 1988, 102 Stat. 2890, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(K), Nov. 12, 1996, 110 Stat. 4196, provided that:
+Pub. L. 100–573, Oct. 31, 1988, 102 Stat. 2890, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(K), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–355, title V, §507, Nov. 6, 1998, 112 Stat. 3264, provided that:
 
 #### “SECTION 1. ESTABLISHMENT OF COMMISSION.
 
@@ -86,7 +90,7 @@ Mails.—The Commission may use the United States mails in the same manner and u
 
 #### “SEC. 5. TERMINATION OF COMMISSION.
 
-“The Commission shall terminate on the date that is 10 years after the date of the enactment of this Act \[Oct. 31, 1988\].
+“The Commission shall terminate on the date that is 20 years after the date of the enactment of this Act \[Oct. 31, 1988\].
 
 #### “SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
 

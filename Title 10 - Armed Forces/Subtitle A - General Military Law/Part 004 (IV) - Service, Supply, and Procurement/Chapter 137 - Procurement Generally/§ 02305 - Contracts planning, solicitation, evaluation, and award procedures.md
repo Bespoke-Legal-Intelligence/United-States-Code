@@ -14,7 +14,7 @@
 
 &emsp;(ii) include restrictive provisions or conditions only to the extent necessary to satisfy the needs of the agency or as authorized by law.
 
-(C) For the purposes of subparagraphs (A) and (B), the type of specification included in a solicitation shall depend on the nature of the needs of the agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
+(C) For the purposes of subparagraphs (A) and (B), the type of specification included in a solicitation shall depend on the nature of the needs ofthe agency and the market available to satisfy such needs. Subject to such needs, specifications may be stated in terms of—
 
 &emsp;(i) function, so that a variety of products or services may qualify;
 
@@ -186,7 +186,7 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 2, 1958, Pub. L. 85–861, §1(44), 72 Stat. 1457; Mar. 16, 1968, Pub. L. 90–268, §3, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2723(b), 98 Stat. 1191; Oct. 19, 1984, Pub. L. 98–525, title XII, §1213(a), 98 Stat. 2591; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(14), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], 100 Stat. 1783–82, 1783–153, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], 100 Stat. 3341–82, 3341–153; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), 100 Stat. 3853, 3932, 3933, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Sept. 29, 1988, Pub. L. 100–456, div. A, title VIII, §806, 102 Stat. 2010; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(f), 103 Stat. 1519; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §802(a)–(d), 104 Stat. 1588, 1589; Nov. 30, 1993, Pub. L. 103–160, div. A, title XI, §1182(a)(5), 107 Stat. 1771; Oct. 13, 1994, Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), 108 Stat. 3254–3257, 3347; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), 110 Stat. 643, 644, 653, 699; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), 110 Stat. 2609, 2659, 2660.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660.)
 
 Historical and Revision Notes<br>1956
 
@@ -276,7 +276,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 103–355, §1011(a)(2), substituted “and subfa
 
 Subsec. (a)(2)(B)(ii)(I). Pub. L. 103–355, §1011(a)(3), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intended to be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), unless discussions are determined to be necessary; and”.
 
-Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows:“In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
+Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
 
 Subsec. (a)(4). Pub. L. 103–355, §1011(b), added par. (4).
 
@@ -352,7 +352,7 @@ Amendment by section 5601(a) of Pub. L. 104–106 effective 180 days after Feb. 
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1990 Amendment
 
@@ -364,7 +364,7 @@ Section 802(e) of Pub. L. 101–510 provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 101(c) \[title X, §924(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 924(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §924(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 924(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by this section \[amending thissection\] shall apply with respect to solicitations for sealed bids or competitive proposals issued after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Effective Date of 1984 Amendments
 

@@ -1,0 +1,24 @@
+### §150301. Federal charter
+
+National Academy of Sciences (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1388.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+150301
+
+36:251.
+
+Mar. 3, 1863, ch. 111, §1, 12 Stat. 806.
+
+This section is substituted for the source provision for consistency in the revised title and to eliminate executed and unnecessary words.
+

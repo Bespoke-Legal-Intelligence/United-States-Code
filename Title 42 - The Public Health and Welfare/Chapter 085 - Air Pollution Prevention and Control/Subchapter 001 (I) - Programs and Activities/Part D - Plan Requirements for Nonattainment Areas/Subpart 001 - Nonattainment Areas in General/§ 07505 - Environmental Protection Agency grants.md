@@ -8,7 +8,7 @@ The Administrator shall make grants to any organization of local elected officia
 
 The amount granted to any organization under subsection (a) of this section shall be 100 percent of any additional costs of developing a plan revision under this part for the first two fiscal years following receipt of the grant under this paragraph, and shall supplement any funds available under Federal law to such organization for transportation or air quality maintenance planning. Grants under this section shall not be used for construction.
 
-(July 14, 1955, ch. 360, title I, §175, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 749.)
+(July 14, 1955, ch. 360, title I, §175, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 Whoever forges, counterfeits or falsely alters any writing made or required to be made in connection with the entry or withdrawal of imports or collection of customs duties, or uses any such writing knowing the same to be forged, counterfeited or falsely altered, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

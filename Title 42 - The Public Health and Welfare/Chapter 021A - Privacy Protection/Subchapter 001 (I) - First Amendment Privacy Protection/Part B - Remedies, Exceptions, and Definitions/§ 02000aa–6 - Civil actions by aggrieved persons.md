@@ -6,7 +6,7 @@ A person aggrieved by a search for or seizure of materials in violation of this 
 
 &emsp;(1) against the United States, against a State which has waived its sovereign immunity under the Constitution to a claim for damages resulting from a violation of this chapter, or against any other governmental unit, all of which shall be liable for violations of this chapter by their officers or employees while acting within the scope or under color of their office or employment; and
 
-&emsp;(2) against an officer or employee of a State who has violated this chapter while acting within the scope or under color of his office or employment, if such State has not waived its sovereign immunity as provided in paragraph (1).
+&emsp;(2) against an officer or employee of a State who has violated this chapter while acting within the scope or under color of his office or employment, if such State has not waived itssovereign immunity as provided in paragraph (1).
 
 #### (b) Good faith defense
 

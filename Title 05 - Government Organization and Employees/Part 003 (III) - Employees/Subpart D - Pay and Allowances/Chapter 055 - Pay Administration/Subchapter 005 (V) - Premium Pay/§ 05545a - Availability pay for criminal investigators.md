@@ -4,7 +4,7 @@
 
 &emsp;(1) the term “available” refers to the availability of a criminal investigator and means that an investigator shall be considered generally and reasonably accessible by the agency employing such investigator to perform unscheduled duty based on the needs of an agency;
 
-&emsp;(2) the term “criminal investigator” means a law enforcement officer as defined under section 5541(3) (other than an officer occupying a position under title II of Public Law 99–399) who is required to—
+&emsp;(2) the term “criminal investigator” means a law enforcement officer as defined under section 5541(3) (other than an officer occupying a position under title II of Public Law 99–399, subject to subsection (k)) who is required to—
 
 &emsp;&emsp;(A) possess a knowledge of investigative techniques, laws of evidence, rules of criminal procedure, and precedent court decisions concerning admissibility of evidence, constitutional rights, search and seizure, and related issues;
 
@@ -86,13 +86,33 @@
 
 (j) Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 
-(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.)
+(k)(1) For purposes of this section, the term “criminal investigator” includes a special agent occupying a position under title II of Public Law 99–399 if such special agent—
+
+&emsp;(A) meets the definition of such term under paragraph (2) of subsection (a) (applied disregarding the parenthetical matter before subparagraph (A) thereof); and
+
+&emsp;(B) such special agent satisfies the requirements of subsection (d) without taking into account any hours described in paragraph (2)(B) thereof.
+
+(2) In applying subsection (h) with respect to a special agent under this subsection—
+
+&emsp;(A) any reference in such subsection to “basic pay” shall be considered to include amounts designated as “salary”;
+
+&emsp;(B) paragraph (2)(A) of such subsection shall be considered to include (in addition to the provisions of law specified therein) sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980; and
+
+&emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for “Office of Personnel Management” the following: “Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)”.
+
+(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(a), (c)(1)\], div. G, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
 
 #### References in Text
 
-Title II of Public Law 99–399, referred to in subsec. (a)(2), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, as amended, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
+Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, as amended, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
+
+Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), are classified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–277, §101(b) \[title IV, §407(c)(1)\] and §2316(c)(1), amended subsec. (a)(2) identically, substituting “Public Law 99–399, subject to subsection (k))” for “Public Law 99–399)” in introductory provisions.
+
+Subsec. (k). Pub. L. 105–277, §101(b) \[title IV, §407(a)\] and §2316(a), amended section identically, adding subsec. (k).
 
 1996—Subsec. (h)(2)(A). Pub. L. 104–208 struck out “8431,” after “8331(3),”.
 
@@ -103,6 +123,10 @@ Subsec. (a)(2)(E)(v). Pub. L. 104–19, §901(1)(B), inserted “and” at end.
 Subsec. (i). Pub. L. 104–19, §902(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
+
+#### Effective Date of 1998 Amendment
+
+For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d) of Pub. L. 105–277, set out as a note under section 5542 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -120,11 +144,15 @@ Section 633(e) of Pub. L. 103–329 provided that: “The amendments made by thi
 
 &emsp;“(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensation at the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995.”
 
+#### Implementation
+
+Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(b)\], div. G, §2316(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–828, provided that: “Not later than the date on which the amendments made by this section \[amending this section and section 5542 of this title\] take effect \[see Effective Date of 1998 Amendment note set out above\], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of section 5545a of title 5, United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection.”
+
 #### Certification of Criminal Investigators
 
 Section 633(f) of Pub. L. 103–329 provided that: “Not later than the effective date of this section \[see Effective Date note above\], each criminal investigator under section 5545a of title 5, United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5542, 5547 of this title; title 2 section 1371; title 29 section 213.
+This section is referred to in sections 5542, 5547, 8331 of this title; title 2 section 1371; title 29 section 213.
 

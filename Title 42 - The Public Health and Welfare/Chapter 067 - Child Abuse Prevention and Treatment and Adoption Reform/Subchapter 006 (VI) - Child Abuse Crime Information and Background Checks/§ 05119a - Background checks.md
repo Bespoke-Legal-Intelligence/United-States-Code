@@ -6,6 +6,8 @@
 
 (2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
+(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
+
 #### (b) Guidelines
 
 The procedures established under subsection (a) of this section shall require—
@@ -28,11 +30,11 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;&emsp;(B) to challenge the accuracy and completeness of any information contained in any such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
 
-&emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
+&emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whateverState and local recordkeeping systems are available in order to obtain complete data;
 
 &emsp;(4) that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
-&emsp;(5) that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544.
+&emsp;(5) that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section.
 
 #### (c) Regulations
 
@@ -48,13 +50,17 @@ A qualified entity shall not be liable in an action for damages solely for failu
 
 In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.
 
-(Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132.)
+(Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L. 105–251, title II, §222(a), (b), Oct. 9, 1998, 112 Stat. 1885.)
 
 #### References in Text
 
 Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–251, §222(a), added par. (3).
+
+Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section”.
 
 1994—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted “the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual's fitness to have responsibility for the safety and well-being of children”.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) establish general policies and promulgate such rules and regulations for the Commission as are necessary to carry out the purposes of this chapter;
 
-&emsp;(2) appoint and fix the salary and duties of the Staff Director of the Sentencing Commission, who shall serve at the discretion of the Commission and who shall be compensated at a rate not to exceed the highest rate now or hereafter prescribed for Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382);
+&emsp;(2) appoint and fix the salary and duties of the Staff Director of the Sentencing Commission, who shall serve at the discretion of the Commission and who shall be compensated at a rate not to exceed the highest rate now orhereafter prescribed for Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382);
 
 &emsp;(3) deny, revise, or ratify any request for regular, supplemental, or deficiency appropriations prior to any submission of such request to the Office of Management and Budget by the Chair;
 
@@ -34,7 +34,7 @@
 
 &emsp;(14) publish data concerning the sentencing process;
 
-&emsp;(15) collect systematically and disseminate information concerning sentences actually imposed, and the relationship of such sentencesto the factors set forth in section 3553(a) of title 18, United States Code;
+&emsp;(15) collect systematically and disseminate information concerning sentences actually imposed, and the relationship of such sentences to the factors set forth in section 3553(a) of title 18, United States Code;
 
 &emsp;(16) collect systematically and disseminate information regarding effectiveness of sentences imposed;
 
@@ -56,7 +56,7 @@
 
 (b) The Commission shall have such other powers and duties and shall perform such other functions as may be necessary to carry out the purposes of this chapter, and may delegate to any member or designated person such powers as may be appropriate other than the power to establish general policy statements and guidelines pursuant to section 994(a)(1) and (2), the issuance of general policies and promulgation of rules and regulations pursuant to subsection (a)(1) of this section, and the decisions as to the factors to be considered in establishment of categories of offenses and offenders pursuant to section 994(b). The Commission shall, with respect to its activities under subsections (a)(9), (a)(10), (a)(11), (a)(12), (a)(13), (a)(14), (a)(15), (a)(16), (a)(17), and (a)(18), to the extent practicable, utilize existing resources of the Administrative Office of the United States Courts and the Federal Judicial Center for the purpose of avoiding unnecessary duplication.
 
-(c) Upon the request of the Commission, each Federal agency is authorized and directed to make its services, equipment, personnel, facilities, and information available to the greatest practicable extent to the Commission in the execution of its functions.
+(c) Upon the request of the Commission, each Federal agency is authorized and directed tomake its services, equipment, personnel, facilities, and information available to the greatest practicable extent to the Commission in the execution of its functions.
 
 (d) A simple majority of the membership then serving shall constitute a quorum for the conduct of business. Other than for the promulgation of guidelines and policy statements pursuant to section 994, the Commission may exercise its powers and fulfill its duties by the vote of a simple majority of the members present.
 
@@ -70,11 +70,11 @@ The provisions of title 28, United States Code, with respect to tort claims, ref
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
+1994—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
 
-<b>1990</b>—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
+1990—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
+1988—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
 
 Subsec. (a)(23). Pub. L. 100–690, §7104, added par. (23).
 

@@ -28,7 +28,7 @@ Claims.—Not later than 15 days after receiving a written claim from an air car
 
 Authority To Make Agreements and Incur Obligations.—(1) The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government's share of the compensation.
 
-(2) Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incur obligations under this section. Amounts madeavailable under this section remain available until expended.
+(2) Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incur obligations under this section. Amounts made available under this section remain available until expended.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1151.)
 
@@ -62,7 +62,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(e)(2)–(g); added Oct. 24,
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(<i>l</i>); added Nov. 5, 1990, Pub. L. 101–508, §9113(b)(1), 104 Stat. 1388–363.
 
-In subsection (a)(1), before clause (A), the word “prescribe” is substituted for “establish” to eliminate an executed word. The words “air service or air transportation under this subchapter” are substituted for “air service under this section” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title. In clause (C), the words “the service or transportation for which compensation is being provided” are substituted for “such service” for clarity.
+In subsection (a)(1), before clause (A), the word “prescribe” is substituted for “establish” to eliminate anexecuted word. The words “air service or air transportation under this subchapter” are substituted for “air service under this section” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title. In clause (C), the words “the service or transportation for which compensation is being provided” are substituted for “such service” for clarity.
 
 In subsection (a)(2), the words “compensation provided to a carrier under this subchapter” are substituted for “required compensation” for clarity.
 

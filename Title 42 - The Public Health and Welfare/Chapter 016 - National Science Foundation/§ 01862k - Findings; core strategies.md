@@ -1,0 +1,160 @@
+### §1862k. Findings; core strategies
+
+#### (a) Findings
+
+Congress finds the following:
+
+&emsp;(1) The United States depends upon its scientific and technological capabilities to preserve the military and economic security of the United States.
+
+&emsp;(2) America's leadership in the global marketplace is dependent upon a strong commitment to education, basic research, and development.
+
+&emsp;(3) A nation that is not technologically literate cannot compete in the emerging global economy.
+
+&emsp;(4) A coordinated commitment to mathematics and science instruction at all levels of education is a necessary component of successful efforts to produce technologically literate citizens.
+
+&emsp;(5) Professional development is a necessary component of efforts to produce system-wide improvements in mathematics, engineering, and science education in secondary, elementary, and postsecondary settings.
+
+&emsp;(6)(A) The mission of the National Science Foundation is to provide Federal support for basic scientific and engineering research, and to be a primary contributor to mathematics, science, and engineering education at academic institutions in the United States.
+
+&emsp;(B) In accordance with such mission, the long-term goals of the National Science Foundation include providing leadership to—
+
+&emsp;&emsp;(i) enable the United States to maintain a position of world leadership in all aspects of science, mathematics, engineering, and technology;
+
+&emsp;&emsp;(ii) promote the discovery, integration, dissemination, and application of new knowledge in service to society; and
+
+&emsp;&emsp;(iii) achieve excellence in United States science, mathematics, engineering, and technology education at all levels.
+
+#### (b) Core strategies
+
+In carrying out activities designed to achieve the goals described in subsection (a) of this section, the Foundation shall use the following core strategies:
+
+&emsp;(1) Develop intellectual capital, both people and ideas, with particular emphasis on groups and regions that traditionally have not participated fully in science, mathematics, and engineering.
+
+&emsp;(2) Strengthen the scientific infrastructure by investing in facilities planning and modernization, instrument acquisition, instrument design and development, and shared-use research platforms.
+
+&emsp;(3) Integrate research and education through activities that emphasize and strengthen the natural connections between learning and inquiry.
+
+&emsp;(4) Promote partnerships with industry, elementary and secondary schools, community colleges, colleges and universities, other agencies, State and local governments, and other institutions involved in science, mathematics, and engineering to enhance the delivery of math and science education and improve the technological literacy of the citizens of the United States.
+
+(Pub. L. 105–207, title I, §101, July 29, 1998, 112 Stat. 869.)
+
+#### Codification
+
+Section was enacted as part of the National Science Foundation Authorization Act of 1998, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Indirect Costs
+
+Pub. L. 105–207, title II, §203, July 29, 1998, 112 Stat. 875, provided that:
+
+“(a)
+
+Matching Funds.—Matching funds required pursuant to section 204(a)(2)(C) of the Academic Research Facilities Modernization Act of 1988 (42 U.S.C. 1862c(a)(2)(C)) shall not be considered facilities costs for purposes of determining indirect cost rates under Office of Management and Budget Circular A–21.
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—The Director of the Office of Science and Technology Policy, in consultation with other Federal agencies the Director deems appropriate, shall prepare a report—
+
+&emsp;&emsp;“(A) analyzing the Federal indirect cost reimbursement rates (as the term is defined in Office of Management and Budget Circular A–21) paid to universities in comparison with Federal indirect cost reimbursement rates paid to other entities, such as industry, government laboratories, research hospitals, and nonprofit institutions;
+
+&emsp;&emsp;“(B)(i) analyzing the distribution of the Federal indirect cost reimbursement rates by category (such as administration, facilities, utilities, and libraries), and by the type of entity; and
+
+&emsp;&emsp;“(ii) determining what factors, including the type of research, influence the distribution;
+
+&emsp;&emsp;“(C) analyzing the impact, if any, that changes in Office of Management and Budget Circular A–21 have had on—
+
+&emsp;&emsp;&emsp;“(i) the Federal indirect cost reimbursement rates, the rate of change of the Federal indirect cost reimbursement rates, the distribution by category of the Federal indirect cost reimbursement rates, and the distribution by type of entity of the Federal indirect cost reimbursement rates; and
+
+&emsp;&emsp;&emsp;“(ii) the Federal indirect cost reimbursement (as calculated in accordance with Office of Management and Budget Circular A–21), the rate of change of the Federal indirect cost reimbursement, the distribution by category of the Federal indirect cost reimbursement, and the distribution by type of entity of the Federal indirect cost reimbursement;
+
+&emsp;&emsp;“(D) analyzing the impact, if any, of Federal and State law on the Federal indirect cost reimbursement rates;
+
+&emsp;&emsp;“(E)(i) analyzing options to reduce or control the rate of growth of the Federal indirect cost reimbursement rates, including options such as benchmarking of facilities and equipment cost, elimination of cost studies, mandated percentage reductions in the Federal indirect cost reimbursement; and
+
+&emsp;&emsp;“(ii) assessing the benefits and burdens of the options to the Federal Government, research institutions, and researchers; and
+
+&emsp;&emsp;“(F) analyzing options for creating a database—
+
+&emsp;&emsp;&emsp;“(i) for tracking the Federal indirect cost reimbursement rates and the Federal indirect cost reimbursement; and
+
+&emsp;&emsp;&emsp;“(ii) for analyzing the impact that changes in policies with respect to Federal indirect cost reimbursement will have on the Federal Government, researchers, and research institutions.
+
+&emsp;“(2)
+
+Report to congress.—The report prepared under paragraph (1) shall be submitted to Congressnot later than 1 year after the date of enactment of this Act \[July 29, 1998\].”
+
+#### Notice; Enhancement of Science and Mathematics Programs
+
+Pub. L. 105–207, title II, §§205, 206, July 29, 1998, 112 Stat. 876, provided that:
+
+#### “SEC. 205. NOTICE.
+
+“(a)
+
+Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[See Short Title of 1998 Amendment note set out under section 1861 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Labor and Human Resources of the Senate, and the Committee on Science of the House of Representatives.
+
+“(b)
+
+Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the National Science Foundation, the Director of the National Science Foundation shall provide notice to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science and Transportation, Labor and Human Resources of the Senate, and Appropriations of the Senate.
+
+#### “SEC. 206. ENHANCEMENT OF SCIENCE AND MATHEMATICS PROGRAMS.
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Educationally useful federal equipment.—The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools.
+
+&emsp;“(2)
+
+School.—The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12.
+
+“(b)
+
+Sense of the Congress.—
+
+&emsp;“(1)
+
+In general.—It is the sense of the Congress that the Director should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 484 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
+
+&emsp;“(2)
+
+Reports.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[July 29, 1998\], and annually thereafter, the Director shall prepare and submit to the President a report that meets the requirements of this paragraph. The President shall submit that report to Congress at the same time as the President submits a budget request to Congress under section 1105(a) of title 31, United States Code.
+
+&emsp;&emsp;“(B)
+
+Contents of report.—The report prepared by the Director under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
+
+#### Definitions
+
+Pub. L. 105–207, §2, July 29, 1998, 112 Stat. 869, provided that: “In this Act \[see Short Title of 1998 Amendment note set out under section 1861 of this title\]:
+
+&emsp;“(1)
+
+Director.—The term ‘Director’ means the Director of the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+
+&emsp;“(2)
+
+Foundation.—The term ‘Foundation’ means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+
+&emsp;“(3)
+
+Board.—The term ‘Board’ means the National Science Board established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+
+&emsp;“(4)
+
+United states.—The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+&emsp;“(5)
+
+National research facility.—The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.”
+

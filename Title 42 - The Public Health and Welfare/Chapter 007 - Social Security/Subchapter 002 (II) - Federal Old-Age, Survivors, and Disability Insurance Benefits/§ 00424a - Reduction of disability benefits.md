@@ -34,7 +34,7 @@ If for any month prior to the month in which an individual attains the age of 65
 
 #### (b) Reduction where benefits payable on other than monthly basis
 
-If any periodic benefit for a total or partial disability under a law or plan described in subsection (a)(2) of this section is payable on other than a monthly basis (excluding a benefit payable as a lump sum except to the extent that it is a commutation of, or a substitute for, periodic payments), the reduction under this section shall be made at such time or times and in such amounts as the Commissioner of Social Security finds will approximate as nearly as practicable the reduction prescribed by subsection (a) of this section.
+If any periodic benefit for a total or partial disability under a law or plan described in subsection (a)(2) of this section is payable on other than a monthly basis (excluding a benefit payable as a lump sum except to the extent that it is a commutation of, or a substitute for, periodic payments), the reduction under this section shall be made at such time or times and in such amounts as the Commissioner of Social Securityfinds will approximate as nearly as practicable the reduction prescribed by subsection (a) of this section.
 
 #### (c) Reductions and deductions under other provisions
 
@@ -70,7 +70,7 @@ Whenever a reduction in the total of benefits for any month based on an individu
 
 (2) The Commissioner of Social Security is authorized to enter into agreements with States, political subdivisions, and other organizations that administer a law or plan subject to the provisions of this section, in order to obtain such information as the Commissioner may require to carry out the provisions of this section.
 
-(Aug. 14, 1935, ch. 531, title II, §224, as added July 30, 1965, Pub. L. 89–97, title III, §335, 79 Stat. 406; amended Jan. 2, 1968, Pub. L. 90–248, title I, §159(a), 81 Stat. 869; Oct. 30, 1972, Pub. L. 92–603, title I, §119(a), (b), 86 Stat. 1352; Jan. 2, 1976, Pub. L. 94–202, §8(j), 89 Stat. 1140; Dec. 20, 1977, Pub. L. 95–216, title II, §205(d), title III, §353(c), 91 Stat. 1529, 1553; Aug. 13, 1981, Pub. L. 97–35, title XXII, §2208(a), 95 Stat. 839; Apr. 7, 1986, Pub. L. 99–272, title XII, §12109(a), 100 Stat. 286; Oct. 21, 1986, Pub. L. 99–509, title IX, §9002(c)(2)(F), 100 Stat. 1972; Dec. 19, 1989, Pub. L. 101–239, title X, §10208(b)(2)(A), (C), (d)(2)(A)(i), (iii), 103 Stat. 2477, 2478, 2480, 2481; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title III, §321(e)(2)(H), 108 Stat. 1478, 1540.)
+(Aug. 14, 1935, ch. 531, title II, §224, as added Pub. L. 89–97, title III, §335, July 30, 1965, 79 Stat. 406; amended Pub. L. 90–248, title I, §159(a), Jan. 2, 1968, 81 Stat. 869; Pub. L. 92–603, title I, §119(a), (b), Oct. 30, 1972, 86 Stat. 1352; Pub. L. 94–202, §8(j), Jan. 2, 1976, 89 Stat. 1140; Pub. L. 95–216, title II, §205(d), title III, §353(c), Dec. 20, 1977, 91 Stat. 1529, 1553; Pub. L. 97–35, title XXII, §2208(a), Aug. 13, 1981, 95 Stat. 839; Pub. L. 99–272, title XII, §12109(a), Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–509, title IX, §9002(c)(2)(F), Oct. 21, 1986, 100 Stat. 1972; Pub. L. 101–239, title X, §10208(b)(2)(A), (C), (d)(2)(A)(i), (iii), Dec. 19, 1989, 103 Stat. 2477, 2478, 2480, 2481; Pub. L. 103–296, title I, §107(a)(4), title III, §321(e)(2)(H), Aug. 15, 1994, 108 Stat. 1478, 1540.)
 
 #### Prior Provisions
 
@@ -80,7 +80,7 @@ A prior section 224 of act Aug. 14, 1935, was classified to section 424 of this 
 
 1994—Subsecs. (a)(2)(B), (b), (e), (f)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner may require” for “he may require” in subsec. (e).
 
-Subsec. (f)(2). Pub. L. 103–296, §321(e)(2)(H), inserted “and” at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (f)(2). Pub. L. 103–296, §321(e)(2)(H), inserted “and” at end of subpar. (A), added subpar. (B), andstruck out former subpars. (B) and (C) which read as follows:
 
 “(B) the ratio of (i) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii)(I) the average of the total wages ((as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate for calendar year 1977 or, if later, the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is before 1991, or (II) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is after 1990; and
 
@@ -126,7 +126,7 @@ Subsec. (f)(2). Pub. L. 95–216, §353(c)(2), divided existing provisions into 
 
 1972—Subsec. (a). Pub. L. 92–603 added cl. (C) in provisions for the determination of an individual's average current earnings so as to introduce into the formula a factor of one-twelfth of the total wages and self-employment income for the calendar year in which he had the highest such wages and income during the year in which he became disabled and the five years preceding that year.
 
-1968—Subsec. (a). Pub. L. 90–248 inserted in cl. (B) of first sentence following par. (8) “(computed without regard to the limitations specified in sections 409(a) and 411(b)(1) of this title)” before “for the five”, and inserted last sentence authorizing the Secretary, in certain cases, to estimate the total of wages and self-employment income for purposes of cl. (B) indicating the extent such earnings exceed the limitations in sections 409(a) and 411(b)(1) of this title.
+1968—Subsec. (a). Pub. L. 90–248 inserted in cl. (B) of first sentence following par. (8) “(computed without regard to the limitations specified in sections 409(a) and411(b)(1) of this title)” before “for the five”, and inserted last sentence authorizing the Secretary, in certain cases, to estimate the total of wages and self-employment income for purposes of cl. (B) indicating the extent such earnings exceed the limitations in sections 409(a) and 411(b)(1) of this title.
 
 #### Effective Date of 1994 Amendment
 

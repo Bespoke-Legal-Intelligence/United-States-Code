@@ -98,7 +98,7 @@ Nothing in this section shall apply to—
 
 &emsp;&emsp;(B) January 1, 1991, with respect to States with annual sales volumes greater than 400,000,000 board feet; or
 
-&emsp;(2) any contract under which exports of unprocessed timber were permitted pursuant toan order of the Secretary of Commerce in effect under this section before October 23, 1992.
+&emsp;(2) any contract under which exports of unprocessed timber were permitted pursuant to an order of the Secretary of Commerce in effect under this section before October 23, 1992.
 
 #### (f) Western red cedar
 
@@ -118,7 +118,7 @@ No provision of Federal law which imposes requirements with respect to the gener
 
 #### (j) Surplus timber
 
-The prohibitions on exports contained in orders of the Secretary of Commerce issued under subsection (a) of this section shall not apply to specific quantities of grades and species of unprocessed timber originating from public lands which the Secretary concerned determines by rule to be surplus to the needs of timber manufacturing facilities in the United States. Any such determination may, by rule, be withdrawn by the Secretary concerned if the Secretary determines that the affected timber is no longer surplus to the needs of timber manufacturing facilities in the United States.
+The prohibitions on exports contained in orders of the Secretary of Commerce issued under subsection (a) of this section shall not apply to specific quantities of grades and species of unprocessed timber originating from public lands which the Secretary concerned determines by rule to be surplus to the needs of timber manufacturing facilities in the United States. Any such determination may, by rule, be withdrawn by the Secretary concerned if the Secretary determines that the affected timber is no longersurplus to the needs of timber manufacturing facilities in the United States.
 
 #### (k) Suspension of prohibitions
 

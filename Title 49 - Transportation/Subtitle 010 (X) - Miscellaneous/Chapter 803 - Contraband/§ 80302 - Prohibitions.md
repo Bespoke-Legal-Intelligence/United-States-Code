@@ -124,7 +124,7 @@ In subsection (a)(2), the words “involved in a violation” are substituted fo
 
 In subsection (a)(3), before subclause (A), the words “falsely made” are omitted as being included in “counterfeit”. In subclause (B), the words “coin, obligation, or other security” are added for clarity.
 
-In subsection (a)(4), the words “equipment used” are substituted for “apparatus, or paraphernalia fitted . . . which shall have been used” to eliminate unnecessary words. The words “coin, obligation, or other security referred to in clause (3) of this subsection” are substituted for “such falsely made, forged, altered, or counterfeit coin or obligation or other security” because of the restatement.
+In subsection (a)(4), the words “equipment used” are substituted for “apparatus, or paraphernalia fitted . . .which shall have been used” to eliminate unnecessary words. The words “coin, obligation, or other security referred to in clause (3) of this subsection” are substituted for “such falsely made, forged, altered, or counterfeit coin or obligation or other security” because of the restatement.
 
 In subsection (a)(5), the text of 49 App.:787(g) is omitted as unnecessary because the term “cigarettes” does not appear in 49 App.: ch. 11 and because the definition of “contraband cigarettes” referred to is part of 18:ch. 114.
 

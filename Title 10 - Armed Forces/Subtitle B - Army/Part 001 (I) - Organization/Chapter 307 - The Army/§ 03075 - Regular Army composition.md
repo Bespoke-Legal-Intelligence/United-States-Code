@@ -10,7 +10,7 @@
 
 &emsp;(3) the retired officers and enlisted members of the Regular Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 170; Aug. 6, 1958, Pub. L. 85–600, §1(1), 72 Stat. 522; Oct. 30, 1978, Pub. L. 95–551, §2, 92 Stat. 2069; Oct. 12, 1982, Pub. L. 97–295, §1(39), 96 Stat. 1297.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170; Pub. L. 85–600, §1(1), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 97–295, §1(39), Oct. 12, 1982, 96 Stat. 1297.)
 
 Historical and Revision Notes
 

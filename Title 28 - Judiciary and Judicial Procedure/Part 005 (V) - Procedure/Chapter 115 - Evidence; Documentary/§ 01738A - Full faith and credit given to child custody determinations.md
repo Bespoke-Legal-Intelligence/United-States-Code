@@ -1,44 +1,46 @@
 ### §1738A. Full faith and credit given to child custody determinations
 
-(a) The appropriate authorities of every State shall enforce according to its terms, and shall not modify except as provided in subsection (f) of this section, any child custody determination made consistently with the provisions of this section by a court of another State.
+(a) The appropriate authorities of every State shall enforce according to its terms, and shall not modify except as provided in subsections (f), (g), and (h) of this section, any custody determination or visitation determination made consistently with the provisions of this section by a court of another State.
 
 (b) As used in this section, the term—
 
 &emsp;(1) “child” means a person under the age of eighteen;
 
-&emsp;(2) “contestant” means a person, including a parent, who claims a right to custody or visitation of a child;
+&emsp;(2) “contestant” means a person, including a parent or grandparent, who claims a right to custody or visitation of a child;
 
-&emsp;(3) “custody determination” means a judgment, decree, or other order of a court providing for the custody or visitation of a child, and includes permanent and temporary orders, and initial orders and modifications;
+&emsp;(3) “custody determination” means a judgment, decree, or other order of a court providing for the custody of a child, and includes permanent and temporary orders, and initial orders and modifications;
 
 &emsp;(4) “home State” means the State in which, immediately preceding the time involved, the child lived with his parents, a parent, or a person acting as parent, for at least six consecutive months, and in the case of a child less than six months old, the State in which the child lived from birth with any of such persons. Periods of temporary absence of any of such persons are counted as part of the six-month or other period;
 
-&emsp;(5) “modification” and “modify” refer to a custody determination which modifies, replaces, supersedes, or otherwise is made subsequent to, a prior custody determination concerning the same child, whether made by the same court or not;
+&emsp;(5) “modification” and “modify” refer to a custody or visitation determination which modifies, replaces, supersedes, or otherwise is made subsequent to, a prior custody or visitation determination concerning the same child, whether made by the same court or not;
 
 &emsp;(6) “person acting as a parent” means a person, other than a parent, who has physical custody of a child and who has either been awarded custody by a court or claims a right to custody;
 
-&emsp;(7) “physical custody” means actual possession and control of a child; and
+&emsp;(7) “physical custody” means actual possession and control of a child;
 
-&emsp;(8) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
+&emsp;(8) “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States; and
 
-(c) A child custody determination made by a court of a State is consistent with the provisions of this section only if—
+&emsp;(9) “visitation determination” means a judgment, decree, or other order of a court providing for the visitation of a child and includes permanent and temporary orders and initial orders and modifications.
+
+(c) A child custody or visitation determination made by a court of a State is consistent with the provisions of this section only if—
 
 &emsp;(1) such court has jurisdiction under the law of such State; and
 
 &emsp;(2) one of the following conditions is met:
 
-&emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement ofthe proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceeding and the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
+&emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceeding and the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
 
 &emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State, and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
 
 &emsp;&emsp;(C) the child is physically present in such State and (i) the child has been abandoned, or (ii) it is necessary in an emergency to protect the child because he has been subjected to or threatened with mistreatment or abuse;
 
-&emsp;&emsp;(D)(i) it appears that no other State would have jurisdiction under subparagraph (A), (B), (C), or (E), or another State has declined to exercise jurisdiction on the ground that the State whose jurisdiction is in issue is the more appropriate forum to determine the custody of the child, and (ii) it is in the best interest of the child that such court assume jurisdiction; or
+&emsp;&emsp;(D)(i) it appears that no other State would have jurisdiction under subparagraph (A), (B), (C), or (E), or another State has declined to exercise jurisdiction on the ground that the State whose jurisdiction is in issue is the more appropriate forum to determine the custody or visitation of the child, and (ii) it is in the best interest of the child that such court assume jurisdiction; or
 
 &emsp;&emsp;(E) the court has continuing jurisdiction pursuant to subsection (d) of this section.
 
-(d) The jurisdiction of a court of a State which has made a child custody determination consistently with the provisions of this section continues as long as the requirement of subsection (c)(1) of this section continues to be met and such State remains the residence of the child or of any contestant.
+(d) The jurisdiction of a court of a State which has made a child custody or visitation determination consistently with the provisions of this section continues as long as the requirement of subsection (c)(1) of this section continues to be met and such State remains the residence of the child or of any contestant.
 
-(e) Before a child custody determination is made, reasonable notice and opportunity to be heard shall be given to the contestants, any parent whose parental rights have not been previously terminated and any person who has physical custody of a child.
+(e) Before a child custody or visitation determination is made, reasonable notice and opportunity to be heard shall be given to the contestants, any parent whose parental rights have not been previously terminated and any person who has physical custody of a child.
 
 (f) A court of a State may modify a determination of the custody of the same child made by a court of another State, if—
 
@@ -46,9 +48,33 @@
 
 &emsp;(2) the court of the other State no longer has jurisdiction, or it has declined to exercise such jurisdiction to modify such determination.
 
-(g) A court of a State shall not exercise jurisdiction in any proceeding for a custody determination commenced during the pendency of a proceeding in a court of another State where such court of that other State is exercising jurisdiction consistently with the provisions of this section to make a custody determination.
+(g) A court of a State shall not exercise jurisdiction in any proceeding for a custody or visitation determination commenced during the pendency of a proceeding in a court of another State where such court of that other State is exercising jurisdiction consistently with the provisions of this section to make a custody or visitation determination.
 
-(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569.)
+(h) A court of a State may not modify a visitation determination made by a court of another State unless the court of the other State no longer has jurisdiction to modify such determination or has declined to exercise jurisdiction to modify such determination.
+
+(Added Pub. L. 96–611, §8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, §1, Nov. 12, 1998, 112 Stat. 3383.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–374, §1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
+
+Subsec. (b)(2). Pub. L. 105–374, §1(b), inserted “or grandparent” after “parent”.
+
+Subsec. (b)(3). Pub. L. 105–374, §1(c), struck out “or visitation” after “for the custody”.
+
+Subsec. (b)(5). Pub. L. 105–374, §1(d), substituted “custody or visitation determination” for “custody determination” in two places.
+
+Subsec. (b)(9). Pub. L. 105–374, §1(e), added par. (9).
+
+Subsec. (c). Pub. L. 105–374, §1(f), substituted “custody or visitation determination” for “custody determination” in introductory provisions.
+
+Subsec. (c)(2)(D)(i). Pub. L. 105–374, §1(g), inserted “or visitation” after “determine the custody”.
+
+Subsecs. (d), (e). Pub. L. 105–374, §1(h), (i), substituted “custody or visitation determination” for “custody determination”.
+
+Subsec. (g). Pub. L. 105–374, §1(j), which directed substitution of “custody or visitation determination” for “custody determination”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+
+Subsec. (h). Pub. L. 105–374, §1(k), added subsec. (h).
 
 #### Congressional Findings and Declaration of Purpose
 

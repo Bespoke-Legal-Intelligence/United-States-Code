@@ -1,0 +1,266 @@
+### §6701. Definitions
+
+In this chapter:
+
+#### (1) Chemical weapon
+
+&emsp;The term “chemical weapon” means the following, together or separately:
+
+&emsp;&emsp;(A) A toxic chemical and its precursors, except where intended for a purpose not prohibited under this chapter as long as the type and quantity is consistent with such a purpose.
+
+&emsp;&emsp;(B) A munition or device, specifically designed to cause death or other harm through toxic properties of those toxic chemicals specified in subparagraph (A), which would be released as a result of the employment of such munition or device.
+
+&emsp;&emsp;(C) Any equipment specifically designed for use directly in connection with the employment of munitions or devices specified in subparagraph (B).
+
+#### (2) Chemical Weapons Convention; Convention
+
+&emsp;The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
+
+#### (3) Key component of a binary or multicomponent chemical system
+
+&emsp;The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
+
+#### (4) National of the United States
+
+&emsp;The term “national of the United States” has the same meaning given such term in section 1101(a)(22) of title 8.
+
+#### (5) Organization
+
+&emsp;The term “Organization” means the Organization for the Prohibition of Chemical Weapons.
+
+#### (6) Person
+
+&emsp;The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
+
+#### (7) Precursor
+
+#### (A) In general
+
+&emsp;&emsp;The term “precursor” means any chemical reactant which takes part at any stage in the production by whatever method of a toxic chemical. The term includes any key component of a binary or multicomponent chemical system.
+
+#### (B) List of precursors
+
+&emsp;&emsp;Precursors which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+
+#### (8) Purposes not prohibited by this chapter
+
+&emsp;The term “purposes not prohibited by this chapter” means the following:
+
+#### (A) Peaceful purposes
+
+&emsp;&emsp;Any peaceful purpose related to an industrial, agricultural, research, medical, or pharmaceutical activity or other activity.
+
+#### (B) Protective purposes
+
+&emsp;&emsp;Any purpose directly related to protection against toxic chemicals and to protection against chemical weapons.
+
+#### (C) Unrelated military purposes
+
+&emsp;&emsp;Any military purpose of the United States that is not connected with the use of a chemical weapon and that is not dependent on the use of the toxic or poisonous properties of the chemical weapon to cause death or other harm.
+
+#### (D) Law enforcement purposes
+
+&emsp;&emsp;Any law enforcement purpose, including any domestic riot control purpose and including imposition of capital punishment.
+
+#### (9) Technical Secretariat
+
+&emsp;The term “Technical Secretariat” means the Technical Secretariat of the Organization for the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.
+
+#### (10) Schedule 1 chemical agent
+
+&emsp;The term “Schedule 1 chemical agent” means any of the following, together or separately:
+
+&emsp;&emsp;(A) O-Alkyl (≤C<sub>10</sub>, incl. cycloalkyl) alkyl
+
+&emsp;&emsp;&emsp;(Me, Et, n-Pr or i-Pr)-phosphonofluoridates
+
+&emsp;&emsp;&emsp;(e.g. Sarin: O-Isopropyl methylphosphonofluoridate Soman: O-Pinacolyl methylphosphonofluoridate).
+
+&emsp;&emsp;(B) O-Alkyl (≤C<sub>10</sub>, incl. cycloalkyl) N,N-dialkyl
+
+&emsp;&emsp;&emsp;(Me, Et, n-Pr or i-Pr)-phosphoramidocyanidates
+
+&emsp;&emsp;&emsp;(e.g. Tabun: O-Ethyl N,N-dimethyl phosphoramidocyanidate).
+
+&emsp;&emsp;(C) O-Alkyl (H or ≤C<sub>10</sub>, incl. cycloalkyl) S-2-dialkyl
+
+&emsp;&emsp;&emsp;(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl
+
+&emsp;&emsp;&emsp;(Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts
+
+&emsp;&emsp;&emsp;(e.g. VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate).
+
+&emsp;&emsp;(D) Sulfur mustards:
+
+&emsp;&emsp;&emsp;2-Chloroethylchloromethylsulfide
+
+&emsp;&emsp;&emsp;Mustard gas: (Bis(2-chloroethyl)sulfide
+
+&emsp;&emsp;&emsp;Bis(2-chloroethylthio)methane
+
+&emsp;&emsp;&emsp;Sesquimustard: 1,2-Bis(2-chloroethylthio)ethane
+
+&emsp;&emsp;&emsp;1,3-Bis(2-chloroethylthio)-n-propane
+
+&emsp;&emsp;&emsp;1,4-Bis(2-chloroethylthio)-n-butane
+
+&emsp;&emsp;&emsp;1,5-Bis(2-chloroethylthio)-n-pentane
+
+&emsp;&emsp;&emsp;Bis(2-chloroethylthiomethyl)ether
+
+&emsp;&emsp;&emsp;O-Mustard: Bis(2-chloroethylthioethyl)ether.
+
+&emsp;&emsp;(E) Lewisites:
+
+&emsp;&emsp;&emsp;Lewisite 1: 2-Chlorovinyldichloroarsine
+
+&emsp;&emsp;&emsp;Lewisite 2: Bis(2-chlorovinyl)chloroarsine
+
+&emsp;&emsp;&emsp;Lewisite 3: Tris(2-clorovinyl)arsine.
+
+&emsp;&emsp;(F) Nitrogen mustards:
+
+&emsp;&emsp;&emsp;HN1: Bis(2-chloroethyl)ethylamine
+
+&emsp;&emsp;&emsp;HN2: Bis(2-chloroethyl)methylamine
+
+&emsp;&emsp;&emsp;HN3: Tris(2-chloroethyl)amine.
+
+&emsp;&emsp;(G) Saxitoxin.
+
+&emsp;&emsp;(H) Ricin.
+
+&emsp;&emsp;(I) Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides
+
+&emsp;&emsp;&emsp;e.g. DF: Methylphosphonyldifluoride.
+
+&emsp;&emsp;(J) O-Alkyl (H or ≤C<sub>10</sub>, incl. cycloalkyl)O-2-dialkyl
+
+&emsp;&emsp;&emsp;(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl
+
+&emsp;&emsp;&emsp;(Me, Et, n-Pr or i-Pr) phosphonites and corresponding alkylated or protonated salts
+
+&emsp;&emsp;&emsp;e.g. QL: O-Ethyl O-2-diisopropylaminoethyl methylphosphonite.
+
+&emsp;&emsp;(K) Chlorosarin: O-Isopropyl methylphosphonochloridate.
+
+&emsp;&emsp;(L) Chlorosoman: O-Pinacolyl methylphosphonochloridate.
+
+#### (11) Schedule 2 chemical agent
+
+&emsp;The term “Schedule 2 chemical agent” means the following, together or separately:
+
+&emsp;&emsp;(A) Amiton: O,O-Diethyl S-\[2-(diethylamino)ethyl\]
+
+&emsp;&emsp;&emsp;phosphorothiolate and corresponding alkylated or protonated salts.
+
+&emsp;&emsp;(B) PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene.
+
+&emsp;&emsp;(C) BZ: 3-Quinuclidinyl benzilate
+
+&emsp;&emsp;(D) Chemicals, except for those listed in Schedule 1, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms,
+
+&emsp;&emsp;&emsp;e.g. Methylphosphonyl dichloride Dimethyl methylphosphonate
+
+&emsp;&emsp;&emsp;Exemption: Fonofos: O-Ethyl S-phenyl ethylphosphonothiolothionate.
+
+&emsp;&emsp;(E) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides.
+
+&emsp;&emsp;(F) Dialkyl (Me, Et, n-Pr or i-Pr) N,N-dialkyl (Me, Et, n-Pr or i-Pr)-phosphoramidates.
+
+&emsp;&emsp;(G) arsenic trichloride.
+
+&emsp;&emsp;(H) 2,2-Diphenyl-2-hydroxyacetic acid.
+
+&emsp;&emsp;(I) Quinuclidine-3-ol.
+
+&emsp;&emsp;(J) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides and corresponding protonated salts.
+
+&emsp;&emsp;(K) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts
+
+&emsp;&emsp;Exemptions: N,N-Dimethylaminoethanol and corresponding protonated salts N,N-Diethylaminoethanol and corresponding protonated salts.
+
+&emsp;&emsp;(L) N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-thiols and corresponding protonated salts.
+
+&emsp;&emsp;(M) Thiodiglycol: Bis(2-hydroxyethyl)sulfide.
+
+&emsp;&emsp;(N) Pinacolyl alcohol: 3,3-Dimethylbutane-2-ol.
+
+#### (12) Schedule 3 chemical agent
+
+&emsp;The term “Schedule 3 chemical agent” means any of the following, together or separately:
+
+&emsp;&emsp;(A) Phosgene: carbonyl dichloride.
+
+&emsp;&emsp;(B) Cyanogen chloride.
+
+&emsp;&emsp;(C) Hydrogen cyanide.
+
+&emsp;&emsp;(D) Chloropicrin: trichloronitromethane.
+
+&emsp;&emsp;(E) Phosphorous oxychloride.
+
+&emsp;&emsp;(F) Phosphorous trichloride.
+
+&emsp;&emsp;(G) Phosphorous pentachloride.
+
+&emsp;&emsp;(H) Trimethyl phosphite.
+
+&emsp;&emsp;(I) Triethyl phosphite.
+
+&emsp;&emsp;(J) Dimethyl phosphite.
+
+&emsp;&emsp;(K) Diethyl phosphite.
+
+&emsp;&emsp;(L) Sulfur monochloride.
+
+&emsp;&emsp;(M) Sulfur dichloride.
+
+&emsp;&emsp;(N) Thionyl chloride.
+
+&emsp;&emsp;(O) Ethyldiethanolamine.
+
+&emsp;&emsp;(P) Methyldiethanolamine.
+
+&emsp;&emsp;(Q) Triethanolamine.
+
+#### (13) Toxic chemical
+
+#### (A) In general
+
+&emsp;&emsp;The term “toxic chemical” means any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
+
+#### (B) List of toxic chemicals
+
+&emsp;&emsp;Toxic chemicals which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+
+#### (14) United States
+
+&emsp;The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
+
+&emsp;&emsp;(A) any of the places within the provisions of paragraph (41) of section 40102 of title 49;
+
+&emsp;&emsp;(B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37), respectively, of section 40102 of title 49; and
+
+&emsp;&emsp;(C) any vessel of the United States, as such term is defined in section 1903(b) of title 46, Appendix.
+
+#### (15) Unscheduled discrete organic chemical
+
+&emsp;The term “unscheduled discrete organic chemical” means any chemical not listed on any schedule contained in the Annex on Chemicals of the Convention that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides, and metal carbonates.
+
+(Pub. L. 105–277, div. I, §3, Oct. 21, 1998, 112 Stat. 2681–856.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
+
+Section 1903(b) of title 46, Appendix, referred to in par. (14)(C), was in the original “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))” and was translated as reading section 3(b) of the Maritime Drug Law Enforcement Act to reflect the probable intent of Congress.
+
+#### Short Title
+
+Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6771 of this title.
+

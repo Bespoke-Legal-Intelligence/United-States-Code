@@ -24,6 +24,14 @@ Section 609AA of Pub. L. 98–473 provided that:
 
 “(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984.”
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–390, §1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act \[amending sections 3796d, 3796d–1, 3796d–3, 3796d–5, and 3796d–6 of this title\] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
+
+Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: “This Act \[enacting subchapter XII–M of this chapter, amending sections 3793 and 3797 of this title, and enacting provisions set out as a note under section 3796<i>ll</i> of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 1998’.”
+
+Pub. L. 105–180, §1, June 16, 1998, 112 Stat. 511, provided that: “This Act \[amending sections 3796a–1 and 3796c of this title\] may be cited as the ‘Care for Police Survivors Act of 1998’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–238, §1, Oct. 3, 1996, 110 Stat. 3114, provided that: “This Act \[enacting part B of subchapter XII of this chapter\] may be cited as the ‘Federal Law Enforcement Dependents Assistance Act of 1996’.”

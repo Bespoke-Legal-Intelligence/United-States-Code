@@ -12,7 +12,7 @@
 
 #### (3) Amount of assistance per project; allocation
 
-&emsp;The Secretary of the Treasury shall make available not less than $800,000 per project,subject to the availability of appropriations, and such funds shall be allocated—
+&emsp;The Secretary of the Treasury shall make available not less than $800,000 per project, subject to the availability of appropriations, and such funds shall be allocated—
 
 &emsp;&emsp;(A) 50 percent to the affected State and local law enforcement and prevention organizations participating in such projects; and
 

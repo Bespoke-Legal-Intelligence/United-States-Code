@@ -6,7 +6,7 @@ The Secretary shall, by April 1, 1980, establish a program under which—
 
 &emsp;(2) grants may be provided to State Agencies designated under section 300m(b)(3) <sup>1</sup> of this title for reducing excesses in resources and facilities of hospitals.
 
-(July 1, 1944, ch. 373, title XVI, §1641, as added Oct. 4, 1979, Pub. L. 96–79, title III, §301(a), 93 Stat. 636.)
+(July 1, 1944, ch. 373, title XVI, §1641, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93 Stat. 636.)
 
 #### References in Text
 

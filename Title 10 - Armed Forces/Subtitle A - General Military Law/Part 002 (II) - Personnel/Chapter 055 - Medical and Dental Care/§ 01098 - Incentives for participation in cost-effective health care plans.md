@@ -32,3 +32,7 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 1990—Subsec. (a). Pub. L. 101–510 substituted “subsection (b)” for “subsections (b) and (c)” in introductory provisions.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

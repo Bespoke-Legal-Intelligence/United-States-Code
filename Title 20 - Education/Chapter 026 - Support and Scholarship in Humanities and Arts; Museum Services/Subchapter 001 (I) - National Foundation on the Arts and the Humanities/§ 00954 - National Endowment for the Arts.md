@@ -56,7 +56,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 #### (g) Grants to States for projects and productions; applications; terms and conditions of State plans; minimum allotments; excess appropriations; cost limitations; grants to regional groups; non-Federal funding; definitions
 
-(1) The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of grants-in-aidto assist the several States in supporting existing projects and productions which meet the standards enumerated in subsection (c) of this section, and in developing projects and productions in the arts in such a manner as will furnish adequate programs, facilities, and services in the arts to all the people and communities in each of the several States.
+(1) The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of grants-in-aid to assist the several States in supporting existing projects and productions which meet the standards enumerated in subsection (c) of this section, and in developing projects and productions in the arts in such a manner as will furnish adequate programs, facilities, and services in the arts to all the people and communities in each of the several States.
 
 (2) In order to receive assistance under this subsection in any fiscal year, a State shall submit an application for such grants at such time as shall be specified by the Chairperson and accompany such application with a plan which the Chairperson finds—
 
@@ -166,11 +166,11 @@ The Inspector General of the Endowment shall conduct appropriate reviews to ensu
 
 (3)(A) This subsection shall not apply with respect to financial assistance provided before the effective date of this subsection.
 
-(B) This subsection shall not apply with respect to a project, production, workshop, or program after the expiration of the 7-year period beginning on the latest date on which financial assistance is provided under this section for such project, production, workshop, or program.
+(B) This subsection shall not apply with respect to a project, production, workshop, or program after the expiration of the 7-year periodbeginning on the latest date on which financial assistance is provided under this section for such project, production, workshop, or program.
 
 #### (m) Labor standards of professional performers and personnel; healthy and safe working conditions
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel (other than laborers and mechanics with respect to whom labor standards are prescribed in subsection (n) of this section) employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, notless than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as the Secretary of Labor may deem necessary or appropriate to carry out the provisions of this subsection.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel (other than laborers and mechanics with respect to whom labor standards are prescribed in subsection (n) of this section) employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as the Secretary of Labor may deem necessary or appropriate to carry out the provisions of this subsection.
 
 #### (n) Labor standards of laborers and mechanics
 
@@ -222,7 +222,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 (C) The Chairperson may not provide financial assistance under this paragraph to a particular applicant in more than 3 fiscal years for the purpose specified in subparagraph (A)(i).
 
-(3) The total amount of any payment made under this subsection for a program or projectmay not exceed 50 per centum of the cost of such program or project.
+(3) The total amount of any payment made under this subsection for a program or project may not exceed 50 per centum of the cost of such program or project.
 
 (4) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Arts shall have the same authority as is established in subsection (c) of this section and section 959 of this title.
 
@@ -274,7 +274,7 @@ Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>l</i
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
+Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and\(<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsecs. (k) and (<i>l</i>) as (n) and (<i>o</i>), respectively.
 
@@ -288,7 +288,7 @@ Subsec. (p)(2) to (4). Pub. L. 101–512, §318 \[title I, §104\], added par. (
 
 Subsec. (q). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (p) as (q).
 
-Pub. L. 101–512, §318 \[title I, §103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “andpublic dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
+Pub. L. 101–512, §318 \[title I, §103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
 
 1985—Subsec. (b)(1). Pub. L. 99–194, §105(1), (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
 
@@ -346,7 +346,7 @@ Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl.
 
 Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: “From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term ‘State’ shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts.”
 
-Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
+Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows:“The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
 
 Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted “All amounts allotted or made available” for “All amounts allotted”.
 

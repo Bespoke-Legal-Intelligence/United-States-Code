@@ -1,10 +1,8 @@
 ### §522. Reporting and record keeping violations
 
-(a) A person required to make a report to the Secretary of Transportation, or make, prepare, or preserve a record, under section 504 of this title about transportation by rail carrier, that knowingly and willfully (1) makes a false entry in the report or record, (2) destroys, mutilates, changes, or by another means falsifies the record, (3) does not enter business related facts and transactions in the record, (4) makes, prepares, or preserves the record in violation of a regulation or order of the Secretary, or (5) files a false report or record with the Secretary, shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
+A person required to make a report to the Secretary of Transportation, or make, prepare, or preserve a record, under section 504 of this title about transportation by rail carrier, that knowingly and willfully (1) makes a false entry in the report or record, (2) destroys, mutilates, changes, or by another means falsifies the record, (3) does not enter business related facts and transactions in the record, (4) makes, prepares, or preserves the record in violation of a regulation or order of the Secretary, or (5) files a false report or record with the Secretary, shall be fined not more than $5,000, imprisoned for not more than 2 years, or both.
 
-(b) A person required to make a report to the Secretary, answer a question, or make, prepare, or preserve a record under section 504 of this title about transportation by motor carrier, motor carrier of migrant workers, or motor private carrier, or an officer, agent, or employee of that person, that (1) willfully does not make that report, (2) willfully does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, (3) willfully does not make, prepare, or preserve that record in the form and manner prescribed by the Secretary, (4) knowingly and willfully falsifies, destroys, mutilates, or changes that report or record, (5) knowingly and willfully files a false report or record with the Secretary, (6) knowingly and willfully makes a false or incomplete entry in that record about a business related fact or transaction, or (7) knowingly and willfully makes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be fined not more than $5,000.
-
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2436.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2436; Pub. L. 105–178, title IV, §4015(c), June 9, 1998, 112 Stat. 412.)
 
 Historical and Revision Notes
 
@@ -46,4 +44,8 @@ The section is included because 49:1655(f)(2) gave the same administrative power
 See the revision notes for the revised section for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
 The text of 49:304(a)(3) (last sentence 1st–7th words) and (3a) (last sentence 1st–5th words) is omitted as executed.
+
+#### Amendments
+
+1998—Pub. L. 105–178 struck out “(a)” before “A person required to make a report to the Secretary of Transportation” and struck out subsec. (b) which read as follows: “A person required to make a report to the Secretary, answer a question, or make, prepare, or preserve a record under section 504 of this title about transportation by motor carrier, motor carrier of migrant workers, or motor private carrier, or an officer, agent, or employee of that person, that (1) willfully does not make that report, (2) willfully does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, (3) willfully does not make, prepare, or preserve that record in the form and manner prescribed by the Secretary, (4) knowingly and willfully falsifies, destroys, mutilates, or changes that report or record, (5) knowingly and willfully files a false report or record with the Secretary, (6) knowingly and willfully makes a false or incomplete entry in that record about a business related fact or transaction, or (7) knowingly and willfully makes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be fined not more than $5,000.”
 

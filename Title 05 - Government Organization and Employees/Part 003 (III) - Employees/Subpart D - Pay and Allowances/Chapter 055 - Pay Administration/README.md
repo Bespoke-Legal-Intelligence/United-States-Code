@@ -79,6 +79,7 @@
 | [5544\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005544%20-%20Wage-board%20overtime%20and%20Sunday%20rates%3B%20computation.md) | Wage-board overtime and Sunday rates; computation. |
 | [5545\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005545%20-%20Night%2C%20standby%2C%20irregular%2C%20and%20hazardous%20duty%20differential.md) | Night, standby, irregular, and hazardous duty differential. |
 | [5545a.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005545a%20-%20Availability%20pay%20for%20criminal%20investigators.md) | Availability pay for criminal investigators. |
+| [5545b.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005545b%20-%20Pay%20for%20firefighters.md) | Pay for firefighters. |
 | [5546\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005546%20-%20Pay%20for%20Sunday%20and%20holiday%20work.md) | Pay for Sunday and holiday work. |
 | [5546a.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005546a%20-%20Differential%20pay%20for%20certain%20employees%20of%20the%20Federal%20Aviation%20Administration%20and%20the%20Department%20of%20Defense.md) | Differential pay for certain employees of the Federal Aviation Administration and the Department of Defense. |
 | [5547\.](Subchapter%20005%20%28V%29%20-%20Premium%20Pay/%C2%A7%2005547%20-%20Limitation%20on%20premium%20pay.md) | Limitation on premium pay. |
@@ -139,6 +140,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §628(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, added item 5545b.
 
 1994—Pub. L. 103–329, title VI, §633(b)(3), Sept. 30, 1994, 108 Stat. 2427, added item 5545a.
 

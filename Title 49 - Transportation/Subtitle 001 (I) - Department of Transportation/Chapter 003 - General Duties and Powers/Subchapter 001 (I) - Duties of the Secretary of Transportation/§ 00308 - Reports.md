@@ -24,11 +24,11 @@
 
 \[(d) Repealed. Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724.\]
 
-(e)(1) The Secretary shall submit a report to Congress in January of each even-numbered year of estimates by the Secretary on the current performance and condition of public mass transportation systems with recommendations for necessary administrative or legislative changes.
+(e)(1) The Secretary shall submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report of estimates by the Secretary on the current performance and condition of public mass transportation systems with recommendations for necessary administrative or legislative changes.
 
 (2) In reporting to Congress under this subsection, the Secretary shall prepare a complete assessment of public transportation facilities in the United States. The Secretary also shall assess future needs for those facilities and estimate future capital requirements and operation and maintenance requirements for one-year, 5-year, and 10-year periods at specified levels of service.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(1)(A), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–66, title I, §1121(h), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–362, title XV, §1502(c), Nov. 10, 1998, 112 Stat. 3295.)
 
 Historical and Revision Notes
 
@@ -97,6 +97,8 @@ This \[deletion of the last sentence of subsection (a)\] is necessary because se
 In subsection (e)(1), the words “January of each even-numbered year” are substituted for “January of 1984 and in January of every second year thereafter” to eliminate unnecessary words.
 
 #### Amendments
+
+1998—Subsec. (e)(1). Pub. L. 105–362 substituted “submit to Congress in March 1998, and in March of each even-numbered year thereafter, a report” for “submit a report to Congress in January of each even-numbered year”.
 
 1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress listing assistance provided by Government to railroad industry.
 

@@ -20,7 +20,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;&emsp;(G) Strategies (such as parent groups and training classes in the development of individualized education programs) used by the elementary and secondary programs and the extension centers to reach and actively involve minority parents in the educational programs of their children who are deaf or hard of hearing and the number of parents who have been served as a result of these activities.
 
-&emsp;(3)(A) The annual audited financial statements and auditor's report of the University, as required under section 4353 of this title, and (B) the annual audited financial statements and auditor's report of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
+&emsp;(3)(A) A summary of the annual audited financial statements and auditor's report of the University, as required under section 4353 of this title, and (B) a summary of the annual audited financial statements and auditor's report of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary.
 
 &emsp;(4) For the preceding fiscal year, a statement showing the receipts of the University and NTID and from what Federal sources, and a statement showing the expenditures of each institution by function, activity, and administrative and academic unit.
 
@@ -30,7 +30,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 &emsp;(7) Such additional information as the Secretary may consider necessary.
 
-(Pub. L. 99–371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §917, Oct. 7, 1998, 112 Stat. 1831.)
 
 #### Codification
 
@@ -41,6 +41,8 @@ Section is also set out in D.C. Code, §31–1842.4.
 Provisions similar to this section were contained in section 691f of this title prior to repeal by Pub. L. 99–371.
 
 #### Amendments
+
+1998—Par. (3). Pub. L. 105–244 substituted “A summary of the annual” for “The annual” in subpar. (A) and substituted “a summary of the annual” for “the annual” in subpar. (B).
 
 1993—Par. (1). Pub. L. 103–73, §204(c)(1), substituted “first-time” for “first time”.
 
@@ -55,6 +57,10 @@ Par. (6). Pub. L. 103–73, §204(c)(4), substituted “Program funds are” for
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 

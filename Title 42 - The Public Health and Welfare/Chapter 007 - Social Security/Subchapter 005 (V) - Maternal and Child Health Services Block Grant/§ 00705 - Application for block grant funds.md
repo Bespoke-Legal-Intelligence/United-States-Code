@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) the State will establish a fair method (as determined by the State) for allocating funds allotted to the State under this subchapter among such individuals, areas, and localities identified under paragraph (1)(A) as needing maternal and child health services, and the State will identify and apply guidelines for the appropriate frequency and content of, and appropriate referral and followup with respect to, health care assessments and services financially assisted by the State under this subchapter and methods for assuring quality assessments and services;
 
-&emsp;&emsp;(B) funds allotted to the State under this subchapter will only be used, consistent withsection 708 of this title, to carry out the purposes of this subchapter or to continue activities previously conducted under the consolidated health programs (described in section 701(b)(1) of this title);
+&emsp;&emsp;(B) funds allotted to the State under this subchapter will only be used, consistent with section 708 of this title, to carry out the purposes of this subchapter or to continue activities previously conducted under the consolidated health programs (described in section 701(b)(1) of this title);
 
 &emsp;&emsp;(C) the State will use—
 
@@ -64,13 +64,13 @@
 
 &emsp;(1) the Secretary determines—
 
-&emsp;&emsp;(A) on the basis of information provided in the State's most recent annual report submitted under section 706(a)(1) of this title, that the State has demonstrated an extraordinary unmet need for one of the activities described in subsection (a)(3) of this section, and
+&emsp;&emsp;(A) on the basis of information provided in the State's most recent annual report submitted under section 706(a)(1) of this title, that the State has demonstrated an extraordinary unmet need for one of the activitiesdescribed in subsection (a)(3) of this section, and
 
 &emsp;&emsp;(B) that the granting of the waiver is justified and will assist in carrying out the purposes of this subchapter; and
 
 &emsp;(2) the State provides assurances to the Secretary that the State will provide for the use of some amounts paid to it under section 703 of this title for the activities described in subparagraphs (A) and (B) of subsection (a)(3) of this section and specifies the percentages to be substituted in each of such subparagraphs.
 
-(Aug. 14, 1935, ch. 531, title V, §505, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2192(a), 95 Stat. 822; amended Sept. 3, 1982, Pub. L. 97–248, title I, §137(b)(3), (4), 96 Stat. 377; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6501(b), 6503(b), 103 Stat. 2275, 2276; Nov. 5, 1990, Pub. L. 101–508, title IV, §4755(c)(3), 104 Stat. 1388–210.)
+(Aug. 14, 1935, ch. 531, title V, §505, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 822; amended Pub. L. 97–248, title I, §137(b)(3), (4), Sept. 3, 1982, 96 Stat. 377; Pub. L. 101–239, title VI, §§6501(b), 6503(b), Dec. 19, 1989, 103 Stat. 2275, 2276; Pub. L. 101–508, title IV, §4755(c)(3), Nov. 5, 1990, 104 Stat. 1388–210.)
 
 #### Prior Provisions
 

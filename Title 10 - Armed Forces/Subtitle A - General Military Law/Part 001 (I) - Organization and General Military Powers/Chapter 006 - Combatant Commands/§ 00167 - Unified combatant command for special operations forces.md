@@ -232,7 +232,7 @@ Grade for Commanders of Certain Area Special Operations Commands.—The commande
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 
-Section 101(c) \[§9115(h)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(h)(2) of Pub. L. 99–661, required President, not later than one year after Oct. 1, 1986, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+Section 101(c) \[§9115(h)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(h)(2) of Pub. L. 99–661, required President, not later than one year after Oct. 1, 1986, to transmit to Congress a report on capabilities of United States to conduct special operations and engagein low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
 
 #### Section Referred to in Other Sections
 

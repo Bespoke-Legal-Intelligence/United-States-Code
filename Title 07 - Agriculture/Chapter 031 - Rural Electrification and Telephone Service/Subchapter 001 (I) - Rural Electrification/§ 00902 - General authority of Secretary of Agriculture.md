@@ -8,7 +8,7 @@ The Secretary of Agriculture (referred to in this chapter as the “Secretary”
 
 The Secretary may make, or cause to be made, studies, investigations, and reports regarding matters, including financial, technological, and regulatory matters, affecting the condition and progress of electric, telecommunications, and economic development in rural areas, and publish and disseminate information with respect to the matters.
 
-(May 20, 1936, ch. 432, title I, §2, 49 Stat. 1363; Oct. 28, 1949, ch. 776, §§2, 3, 63 Stat. 948; Nov. 1, 1993, Pub. L. 103–129, §2(c)(1), 107 Stat. 1363; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(2), (13), 108 Stat. 3220, 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §771, 110 Stat. 1149.)
+(May 20, 1936, ch. 432, title I, §2, 49 Stat. 1363; Oct. 28, 1949, ch. 776, §§2, 3, 63 Stat. 948; Pub. L. 103–129, §2(c)(1), Nov. 1, 1993, 107 Stat. 1363; Pub. L. 103–354, title II, §235(a)(2), (13), Oct. 13, 1994, 108 Stat. 3220, 3221; Pub. L. 104–127, title VII, §771, Apr. 4, 1996, 110 Stat. 1149.)
 
 #### Amendments
 

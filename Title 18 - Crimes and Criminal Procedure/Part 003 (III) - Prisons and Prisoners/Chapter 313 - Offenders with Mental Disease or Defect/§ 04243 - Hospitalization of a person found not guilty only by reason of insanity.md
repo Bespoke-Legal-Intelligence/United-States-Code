@@ -92,7 +92,7 @@ Effect.—Nothing in this paragraph shall be construed to—
 
 Construction with other sections.—Subsections (f) and (g) and section 4247 shall apply to any person transferred to the custody of the Attorney General pursuant to this subsection.
 
-(June 25, 1948, ch. 645, 62 Stat. 855; Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2059; Nov. 18, 1988, Pub. L. 100–690, title VII, §7043, 102 Stat. 4400; Oct. 11, 1996, Pub. L. 104–294, title III, §301(a), 110 Stat. 3494.)
+(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2059; Pub. L. 100–690, title VII, §7043, Nov. 18, 1988, 102 Stat. 4400; Pub. L. 104–294, title III, §301(a), Oct. 11, 1996, 110 Stat. 3494.)
 
 #### Historical and Revision Notes
 

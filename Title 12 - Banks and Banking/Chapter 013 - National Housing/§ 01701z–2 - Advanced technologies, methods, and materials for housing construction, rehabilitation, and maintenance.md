@@ -18,7 +18,7 @@ In order to effectively carry out his activities under section 1701z–1 of this
 
 #### (e) Contracts or grants; authority; advance and progress payments; work limitation
 
-The Secretary is authorized to carry out the functions authorized in section 1701z–1 of this title either directly or, without regard to section 5 of title 41, by contract or by grant. Advance and progress payment may be made under such contracts or grants without regard to the provisions of subsections (a) and (b) of section 3324 of title 31 and such contracts or grants may be made for work to continue for not more than four years from the date thereof.
+The Secretary is authorized to carry out the functions authorized in section 1701z–1 of this title either directly or, without regard to section 5 of title 41, by contract or by grant. Advance and progress payment may be made under such contracts or grants without regard to theprovisions of subsections (a) and (b) of section 3324 of title 31 and such contracts or grants may be made for work to continue for not more than four years from the date thereof.
 
 #### (f) Utilization of facilities of other agencies; working agreements, cooperative agreements, contract authority, receipt of funds, and exercise of section 1701c(c) powers
 

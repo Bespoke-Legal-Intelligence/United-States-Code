@@ -4,7 +4,7 @@
 
 (b) A person who serves as a member of a committee may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Nov. 2, 1966, Pub. L. 89–718, §2, 80 Stat. 1115; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(e)(1), 110 Stat. 443.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 89–718, §2, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 104–106, div. A, title X, §1061(e)(1), Feb. 10, 1996, 110 Stat. 443.)
 
 Historical and Revision Notes
 
@@ -50,5 +50,5 @@ In subsection (c), the words “as a part-time adviser” are substituted for th
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

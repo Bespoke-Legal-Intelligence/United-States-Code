@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Each health care provider who administers a vaccine set forth in the Vaccine Injury Table to any person shall record, or ensure that there is recorded, in such person's permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—
+Each health care provider who administers a vaccine set forth in the Vaccine Injury Table toany person shall record, or ensure that there is recorded, in such person's permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—
 
 &emsp;(1) the date of administration of the vaccine,
 
@@ -36,11 +36,11 @@ Each health care provider who administers a vaccine set forth in the Vaccine Inj
 
 &emsp;(B) the legal representative of such person.
 
-(2) For purposes of paragraph (1), the term “information which may identify an individual” shall be limited to the name, street address, and telephone number of the person who receivedthe vaccine and of that person's legal representative and the medical records of such person relating to the administration of the vaccine, and shall not include the locality and State of vaccine administration, the name of the health care provider who administered the vaccine, the date of the vaccination, or information concerning any reported illness, disability, injury, or condition resulting from the administration of the vaccine, any symptom or manifestation of such illness, disability, injury, or condition, or death resulting from the administration of the vaccine.
+(2) For purposes of paragraph (1), the term “information which may identify an individual” shall be limited to the name, street address, and telephone number of the person who received the vaccine and of that person's legal representative and the medical records of such person relating to the administration of the vaccine, and shall not include the locality and State of vaccine administration, the name of the health care provider who administered the vaccine, the date of the vaccination, or information concerning any reported illness, disability, injury, or condition resulting from the administration of the vaccine, any symptom or manifestation of such illness, disability, injury, or condition, or death resulting from the administration of the vaccine.
 
 (3) Except as provided in paragraph (1), all information reported under this section shall be available to the public.
 
-(July 1, 1944, ch. 373, title XXI, §2125, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3774; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4302(b)(1), 101 Stat. 1330–221.)
+(July 1, 1944, ch. 373, title XXI, §2125, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3774; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221.)
 
 #### Codification
 

@@ -6,7 +6,7 @@ Whenever after full hearing upon a complaint made as provided in section 210 of 
 
 (b) May make an order that such owner or operator (1) shall cease and desist from such violation to the extent to which the Secretary finds that it does or will exist; (2) shall not thereafter publish, demand, or collect any rate or charge for the furnishing of stockyard services other than the rate or charge or rates or charges so prescribed; and (3) shall conform to and observe the regulation or practice so prescribed.
 
-(Aug. 15, 1921, ch. 64, title III, §310, 42 Stat. 166; Aug. 10, 1939, ch. 663, 53 Stat. 1351; Oct. 2, 1978, Pub. L. 95–409, §1(b), 92 Stat. 886.)
+(Aug. 15, 1921, ch. 64, title III, §310, 42 Stat. 166; Aug. 10, 1939, ch. 663, 53 Stat. 1351; Pub. L. 95–409, §1(b), Oct. 2, 1978, 92 Stat. 886.)
 
 #### Amendments
 

@@ -62,7 +62,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(B), is act Au
 
 The Railroad Retirement Tax Act, referred to in subsec. (c)(3)(B), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 #### Prior Provisions
 

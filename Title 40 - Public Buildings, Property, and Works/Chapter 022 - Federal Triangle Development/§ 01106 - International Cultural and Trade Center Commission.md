@@ -20,7 +20,7 @@ The duties of the Commission are as follows:
 
 #### (1) Number and appointment
 
-&emsp;The Commission shall be composed of 15 members as follows:
+&emsp;The Commission shall be composed of 14 members as follows:
 
 &emsp;&emsp;(A) The Secretary of State or his delegate.
 
@@ -32,15 +32,13 @@ The duties of the Commission are as follows:
 
 &emsp;&emsp;(E) The Administrator or his delegate.
 
-&emsp;&emsp;(F) The Director of the United States Information Agency or his delegate.
+&emsp;&emsp;(F) The Chairman of the Corporation or his delegate.
 
-&emsp;&emsp;(G) The Chairman of the Corporation or his delegate.
+&emsp;&emsp;(G) The Mayor of the District of Columbia or his delegate.
 
-&emsp;&emsp;(H) The Mayor of the District of Columbia or his delegate.
+&emsp;&emsp;(H) The Chairman of the National Endowment for the Arts or his delegate.
 
-&emsp;&emsp;(I) The Chairman of the National Endowment for the Arts or his delegate.
-
-&emsp;&emsp;(J) 6 individuals appointed by the President one of whom shall be a resident and registered voter of the District of Columbia and all of whom shall be specially qualified to serve on the Commission by virtue of their education, training, or experience in international trade, commerce, cultural exchange, finance, business, or management of facilities similar to the international cultural and trade center described in section 1107 of this title.
+&emsp;&emsp;(I) 6 individuals appointed by the President one of whom shall be a resident and registered voter of the District of Columbia and all of whom shall be specially qualified to serve on the Commission by virtue of their education, training, or experience in international trade, commerce, cultural exchange, finance, business, or management of facilities similar to the international cultural and trade center described in section 1107 of this title.
 
 > &emsp;A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
@@ -48,7 +46,7 @@ The duties of the Commission are as follows:
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B), the terms of office of the private sector Members <sup>1</sup> first taking office shall begin on August 21, 1987, and shall expire as designated at the time of appointment, two at the end of two years, two at the end of four years, and two at the end of six years.
+&emsp;&emsp;Except as provided in subparagraph (B), the terms of office of the private sectorMembers <sup>1</sup> first taking office shall begin on August 21, 1987, and shall expire as designated at the time of appointment, two at the end of two years, two at the end of four years, and two at the end of six years.
 
 #### (B) Filling a vacancy
 
@@ -56,7 +54,7 @@ The duties of the Commission are as follows:
 
 #### (3) Pay
 
-&emsp;Members of the Commission shall serve without pay; except that any member of the Commission appointed under paragraph (1)(J) shall while attending meetings of and attending hearings held by the Commission be entitled to travel or transportation expenses in accordance with section 5703 of title 5.
+&emsp;Members of the Commission shall serve without pay; except that any member of the Commission appointed under paragraph (1)(I) shall while attending meetings of and attending hearings held by the Commission be entitled to travel or transportation expenses in accordance with section 5703 of title 5.
 
 #### (4) Quorum
 
@@ -64,7 +62,7 @@ The duties of the Commission are as follows:
 
 #### (5) Designation of Chairman
 
-&emsp;The Chairman and Vice Chairman of the Commission shall be designated by the President; except that the Chairman may only be designated from individuals appointed under paragraph (1)(J).
+&emsp;The Chairman and Vice Chairman of the Commission shall be designated by the President; except that the Chairman may only be designated from individuals appointed under paragraph (1)(I).
 
 #### (6) Meetings
 
@@ -80,17 +78,17 @@ The duties of the Commission are as follows:
 
 &emsp;The Commission may appoint and fix the pay of not to exceed 10 individuals, including an individual to serve as the executive director of the Commission. Staff appointed under this paragraph shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates; except that—
 
-&emsp;&emsp;(A) the individual appointed to serve as the executive director and one other individual appointed to the staff of the Commissionmay be appointed and compensated without regard to such provisions; and
+&emsp;&emsp;(A) the individual appointed to serve as the executive director and one other individual appointed to the staff of the Commission may be appointed and compensated without regard to such provisions; and
 
 &emsp;&emsp;(B) the pay of any individual (other than the 2 individuals referred to in subparagraph (A)) appointed under this paragraph shall be at a rate not to exceed the maximum rate of basic pay payable for GS–17 of the General Schedule.
 
 #### (3) Detail
 
-&emsp;Subject to paragraph (1), upon request of the Commission, the Secretary of State, the Secretary of Commerce, the Secretary of Agriculture, the Special Trade Representative, the Administrator, and the Director of the United States Information Agency may detail, on a reimbursable basis, such of the personnel of the department or agency such person heads as may be necessary to assist the Commission in carrying out its duties under this chapter.
+&emsp;Subject to paragraph (1), upon request of the Commission, the Secretary of State, the Secretary of Commerce, the Secretary of Agriculture, the Special Trade Representative, and the Administrator may detail, on a reimbursable basis, such of the personnel of the department or agency such person heads as may be necessary to assist the Commission in carrying out its duties under this chapter.
 
 #### (e) Office space and supplies
 
-Upon request of the Commission, the Secretary of State, the Secretary of Commerce, the Secretary of Agriculture, the Special Trade Representative, the Administrator, and the Director of the United States Information Agency may provide, on a reimbursable basis, such office space, supplies, equipment, and other support services as may be necessary for the Commission to carry out its duties under this chapter.
+Upon request of the Commission, the Secretary of State, the Secretary of Commerce, the Secretary of Agriculture, the Special Trade Representative, and the Administrator may provide, on a reimbursable basis, such office space, supplies, equipment, and other support services as may be necessary for the Commission to carry out its duties under this chapter.
 
 #### (f) Powers of Commission
 
@@ -154,11 +152,25 @@ Upon request of the Commission, the Secretary of State, the Secretary of Commerc
 
 &emsp;This subsection shall not be effective with respect to any fiscal year beginning after the last day of the 2-year period beginning on the first day the Commission deposits under section 1107(c) of this title funds into the account established by section 1107(d) of this title.
 
-(Pub. L. 100–113, §7, Aug. 21, 1987, 101 Stat. 741.)
+(Pub. L. 100–113, §7, Aug. 21, 1987, 101 Stat. 741; Pub. L. 105–277, div. G, title XIII, §1335(h), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–277, §1335(h)(1)(A), substituted “14 members” for “15 members” in introductory provisions.
+
+Subsec. (c)(1)(F) to (J). Pub. L. 105–277, §1335(h)(1)(B), (C), redesignated subpars. (G) to (J) as (F) to (I), respectively, and struck out former subpar. (F) which read as follows: “The Director of the United States Information Agency or his delegate.”
+
+Subsec. (c)(3), (5). Pub. L. 105–277, §1335(h)(2), substituted “paragraph (1)(I)” for “paragraph (1)(J)”.
+
+Subsecs. (d)(3), (e). Pub. L. 105–277, §1335(h)(3), which directed the amendment of subsecs. (d)(3) and (e) by substituting “and the Administrator” for “the Administrator and the Director of the United States Information Agency”, was executed by making the substitution for “the Administrator, and the Director of the United States Information Agency”, to reflect the probable intent of Congress.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to the reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

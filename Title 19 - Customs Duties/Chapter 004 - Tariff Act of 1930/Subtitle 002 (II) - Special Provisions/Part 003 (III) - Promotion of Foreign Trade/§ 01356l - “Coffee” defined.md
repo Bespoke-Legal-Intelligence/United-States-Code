@@ -1,6 +1,6 @@
 ### §1356<i>l</i>. “Coffee” defined
 
-As used in sections 1356k to 1356n of this title, the term “coffee” means coffee as defined in article 3 of the International Coffee Agreement, 1983.
+As used in this section and section 1356k of this title, the term “coffee” means coffee as defined in article 3 of the International Coffee Agreement, 1983.
 
 (Pub. L. 96–599, §3, Dec. 24, 1980, 94 Stat. 3491; Pub. L. 98–120, §1(1), Oct. 12, 1983, 97 Stat. 809.)
 
@@ -11,8 +11,4 @@ Section was enacted as part of the International Coffee Agreement Act of 1980, a
 #### Amendments
 
 1983—Pub. L. 98–120 substituted “, 1983” for “1976”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1356m of this title.
 

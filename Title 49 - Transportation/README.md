@@ -1,5 +1,5 @@
 
-49 U.S.C.<br>United States Code, 1997 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+49 U.S.C.<br>United States Code, 1998 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 49—TRANSPORTATION
 
@@ -7612,7 +7612,7 @@ Section 3 of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, provided that:
 
 Section 5(a) of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2216, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Section 5(b) of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2217, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 20, 1997.
+Section 5(b) of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2217, as amended by Pub. L. 105–225, §7(c)(2), Aug. 12, 1998, 112 Stat. 1511, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 20, 1997.
 
 Section 10(a) of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3401, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 

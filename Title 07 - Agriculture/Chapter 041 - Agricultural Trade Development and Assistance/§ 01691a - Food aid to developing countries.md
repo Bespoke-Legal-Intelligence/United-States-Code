@@ -12,7 +12,7 @@ It is the sense of Congress that—
 
 &emsp;(2) the United States should increase its contribution of bona fide food assistance to developing countries consistent with the Agreement on Agriculture.
 
-(July 10, 1954, ch. 469, §3, as added Dec. 20, 1975, Pub. L. 94–161, title II, §202, 89 Stat. 851; amended Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633; Apr. 4, 1996, Pub. L. 104–127, title II, §201(a), 110 Stat. 951.)
+(July 10, 1954, ch. 469, §3, as added Pub. L. 94–161, title II, §202, Dec. 20, 1975, 89 Stat. 851; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 104–127, title II, §201(a), Apr. 4, 1996, 110 Stat. 951.)
 
 #### Amendments
 

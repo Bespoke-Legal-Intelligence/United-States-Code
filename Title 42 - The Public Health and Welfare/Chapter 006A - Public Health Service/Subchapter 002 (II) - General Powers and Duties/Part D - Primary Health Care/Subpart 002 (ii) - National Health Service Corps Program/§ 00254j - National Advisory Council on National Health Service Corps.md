@@ -8,13 +8,13 @@ There is established a council to be known as the National Advisory Council on t
 
 (1) Members of the Council shall be appointed for a term of three years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of such term. No member shall be removed, except for cause. Members may not be reappointed to the Council.
 
-(2) Members of the Council (other than members who are officers or employees of the United States), while attending meetings or conferences thereof or otherwise serving on the business of the Council, shall be entitled to receive for each day (including traveltime) in which they are so serving compensation at a rate fixed by the Secretary (but not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule); and while so serving away from their homes or regular places of business all members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government Service employed intermittently.
+(2) Members of the Council (other than members who are officers or employees of the United States), while attending meetings or conferences thereof or otherwise serving on the business of the Council, shall be entitled to receive for each day (including traveltime) in which they are so serving compensation at a rate fixed by the Secretary (but not to exceed the daily equivalent of the annual rate of basic pay in effect for gradeGS–18 of the General Schedule); and while so serving away from their homes or regular places of business all members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government Service employed intermittently.
 
 #### (c) Termination
 
 Section 14 of the Federal Advisory Committee Act shall not apply with respect to the Council.
 
-(July 1, 1944, ch. 373, title III, §337, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2277; amended July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2707, 95 Stat. 907; Jan. 4, 1983, Pub. L. 97–414, §8(f), 96 Stat. 2061; Dec. 14, 1993, Pub. L. 103–183, title VII, §706(b), 107 Stat. 2241.)
+(July 1, 1944, ch. 373, title III, §337, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277; amended Pub. L. 96–32, §7(g), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title XXVII, §2707, Aug. 13, 1981, 95 Stat. 907; Pub. L. 97–414, §8(f), Jan. 4, 1983, 96 Stat. 2061; Pub. L. 103–183, title VII, §706(b), Dec. 14, 1993, 107 Stat. 2241.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m of this title.
+This section is referred to in sections 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 11709 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

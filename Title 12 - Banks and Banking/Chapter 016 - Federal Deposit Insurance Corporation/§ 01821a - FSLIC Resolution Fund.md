@@ -72,7 +72,7 @@ The FSLIC Resolution Fund shall transfer to the Resolution Funding Corporation a
 
 The FSLIC Resolution Fund shall be dissolved upon satisfaction of all debts and liabilities and sale of all assets. Upon dissolution any remaining funds shall be paid into the Treasury. Any administrative facilities and supplies, including offices and office supplies, shall be transferred to the Corporation for use by and to be held as assets of the Savings Association Insurance Fund.
 
-(Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252; amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–492.)
+(Sept. 21, 1950, ch. 967, §2\[11A\], as added Pub. L. 101–73, title II, §215, Aug. 9, 1989, 103 Stat. 252;amended Pub. L. 102–233, title II, §202(c), (d), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–242, title I, §161(b), Dec. 19, 1991, 105 Stat. 2285; Pub. L. 104–208, div. A, title II, §2704(d)(14)(J)–(L), Sept. 30, 1996, 110 Stat. 3009–492.)
 
 #### Amendment of Section
 

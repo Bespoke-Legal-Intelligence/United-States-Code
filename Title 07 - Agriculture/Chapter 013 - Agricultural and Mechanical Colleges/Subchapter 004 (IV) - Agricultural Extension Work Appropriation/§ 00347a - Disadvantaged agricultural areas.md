@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings
 
-The Congress finds that there exists special circumstances in certain agricultural areas which cause such areas to be at a disadvantage insofar as agricultural development is concerned, which circumstances include the following: (1) There is concentration of farm families on farms either too small or too unproductive orboth; (2) such farm operators because of limited productivity are unable to make adjustments and investments required to establish profitable operations; (3) the productive capacity of the existing farm unit does not permit profitable employment of available labor; (4) because of limited resources, many of these farm families are not able to make full use of current extension programs designed for families operating economic units nor are extension facilities adequate to provide the assistance needed to produce desirable results.
+The Congress finds that there exists special circumstances in certain agricultural areas which cause such areas to be at a disadvantage insofar as agricultural development is concerned, which circumstances include the following: (1) There is concentration of farm families on farms either too small or too unproductive or both; (2) such farm operators because of limited productivity are unable to make adjustments and investments required to establish profitable operations; (3) the productive capacity of the existing farm unit does not permit profitable employment of available labor; (4) because of limited resources, many of these farm families are not able to make full use of current extension programs designed for families operating economic units nor are extension facilities adequate to provide the assistance needed to produce desirable results.
 
 #### (b) Appropriation
 
@@ -20,7 +20,7 @@ No more than 10 per centum of the sums available under this section shall be all
 
 Sums appropriated pursuant to this section shall be in addition to, and not in substitution for, appropriations otherwise available under this subchapter. The amounts authorized to be appropriated pursuant to this section shall not exceed a sum in any year equal to 10 per centum of sums otherwise appropriated pursuant to this subchapter.
 
-(May 8, 1914, ch. 79, §8, as added Aug. 11, 1955, ch. 798, §1(a), 69 Stat. 683; amended Oct. 5, 1962, Pub. L. 87–749, §1(h), 76 Stat. 745.)
+(May 8, 1914, ch. 79, §8, as added Aug. 11, 1955, ch. 798, §1(a), 69 Stat. 683; amended Pub. L. 87–749, §1(h), Oct. 5, 1962, 76 Stat. 745.)
 
 #### Prior Provisions
 

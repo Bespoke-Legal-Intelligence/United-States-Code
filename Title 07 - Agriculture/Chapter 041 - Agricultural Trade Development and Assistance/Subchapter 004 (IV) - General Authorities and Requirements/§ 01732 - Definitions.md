@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Agricultural commodity
 
-&emsp;The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991, for purposes of subchapter III of this chapter, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, if that ingredient is produced and is commercially available in the United States at fair and reasonable prices.
+&emsp;The term “agricultural commodity”, unless otherwise provided for in this chapter, includes any agricultural commodity or the products thereof produced in the United States, including wood and processed wood products, fish, and livestock as well as value-added, fortified, or high-value agricultural products. Effective beginning on October 1, 1991, for purposes of subchapter III of this chapter, a product of an agricultural commodity shall not be considered to be produced in the United States if it contains any ingredient that is not produced in the United States, ifthat ingredient is produced and is commercially available in the United States at fair and reasonable prices.
 
 #### (3) Cooperative
 
@@ -34,7 +34,7 @@ As used in this chapter:
 
 &emsp;The term “Secretary” means the Secretary of Agriculture, unless otherwise specified in this chapter.
 
-(July 10, 1954, ch. 469, title IV, §402, as added Sept. 21, 1959, Pub. L. 86–341, title I, §14, 73 Stat. 610; amended Sept. 27, 1962, Pub. L. 87–703, title II, §201(2), 76 Stat. 611; Nov. 11, 1966, Pub. L.89–808, §2(E), 80 Stat. 1536; July 1, 1971, Pub. L. 92–42, 85 Stat. 99; Sept. 29, 1977, Pub. L. 95–113, title XII, §1205, 91 Stat. 956; Sept. 29, 1979, Pub. L. 96–72, §24, 93 Stat. 536; Dec. 22, 1981, Pub. L. 97–98, title XII, §1213, 95 Stat. 1281; Nov. 8, 1984, Pub. L. 98–623, title IV, §405(b), 98 Stat. 3409; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3645; Apr. 4, 1996, Pub. L. 104–127, title II, §211(b), 110 Stat. 955.)
+(July 10, 1954, ch. 469, title IV, §402, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(2), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 92–42, July 1, 1971, 85 Stat. 99; Pub. L. 95–113, title XII, §1205, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–72, §24, Sept. 29, 1979, 93 Stat. 536; Pub. L. 97–98, title XII, §1213, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 98–623, title IV, §405(b), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3645; Pub. L. 104–127, title II, §211(b), Apr. 4, 1996, 110 Stat. 955.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 (5) The Council shall make such reports and recommendations to the President as he may from time to time request, or as the Council may consider necessary to more effectively or efficiently accomplish the purposes of this subchapter or the purposes for which the Council is created.
 
-(6) The general policy objectives for the guidance of the United States Executive Director ofthe Bank shall take into account the effect that development assistance loans have upon individual industry sectors and international commodity markets—
+(6) The general policy objectives for the guidance of the United States Executive Director of the Bank shall take into account the effect that development assistance loans have upon individual industry sectors and international commodity markets—
 
 &emsp;(A) to minimize projected adverse impacts; and
 
@@ -26,7 +26,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 The representatives of the United States on the Fund and the Bank, and the Export-Import Bank of the United States (and all other agencies of the Government to the extent that they make or participate in the making of foreign loans or engage in foreign financial, exchange or monetary transactions) shall keep the Council fully informed of their activities and shall provide the Council with such further information or data in their possession as the Council may deem necessary to the appropriate discharge of its responsibilities under this subchapter.
 
-(July 31, 1945, ch. 339, §4, 59 Stat. 512; Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141; Oct. 10, 1951, ch. 479, title V, §501(e)(2), 65 Stat. 378; 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637; 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, 67 Stat. 639; Aug. 9, 1954, ch. 660, §2, 68 Stat. 678; Pub. L. 89–126, §1(1), Aug. 14, 1965, 79 Stat. 519; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title VIII, §808(a), Nov. 30, 1983, 97 Stat. 1273; Pub. L. 101–240, title V, §541(d)(1), (f)(1), Dec. 19, 1989, 103 Stat. 2518, 2519.)
+(July 31, 1945, ch. 339, §4, 59 Stat. 512; Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141; Oct. 10,1951, ch. 479, title V, §501(e)(2), 65 Stat. 378; 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637; 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, 67 Stat. 639; Aug. 9, 1954, ch. 660, §2, 68 Stat. 678; Pub. L. 89–126, §1(1), Aug. 14, 1965, 79 Stat. 519; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title VIII, §808(a), Nov. 30, 1983, 97 Stat. 1273; Pub. L. 101–240, title V, §541(d)(1), (f)(1), Dec. 19, 1989, 103 Stat. 2518, 2519.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ By virtue of the authority vested in me by Reorganization Plan No. 4 of 1965 (30
 
 Section 1. <i>Establishment of Council</i>. (a) There is hereby established the National Advisory Council on International Monetary and Financial Policies, hereinafter referred to as the Council.
 
-(b) The Council shall be composed of the following members: the Secretary of the Treasury, who shall be the chairman of the Council, the Assistant to the President for Economic Affairs, who shall be Deputy Chairman of the Council, the Secretary of State, the United States Trade Representative, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the Director of the International Development Cooperation Agency, and thePresident of the Export-Import Bank of Washington \[now the Export-Import Bank of the United States\].
+(b) The Council shall be composed of the following members: the Secretary of the Treasury, who shall be the chairman of the Council, the Assistant to the President for Economic Affairs, who shall be Deputy Chairman of the Council, the Secretary of State, the United States Trade Representative, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the Director of the International Development Cooperation Agency, and the President of the Export-Import Bank of Washington \[now the Export-Import Bank of the United States\].
 
 (c) Whenever matters within the jurisdiction of the Council may be of interest to Federal agencies not represented on the Council under Section 1(b) of this order, the Chairman of the Council may consult with such agencies and may invite them to designate representatives to participate in meetings and deliberations of the Council.
 
@@ -86,7 +86,7 @@ Sec. 2. <i>Functions of the Council</i>. (a) Exclusive of the functions delegate
 
 (b) The functions under Sections 4(a) and 4(b)(3) of the Bretton Woods Agreements Act, including those made applicable to the International Finance Corporation, the Inter-American Development Bank, and the International Development Association (22 U.S.C. 286b(a) and (b)(3); 282b; 283b; 284b), to the extent that such functions consist of coordination of policies, are hereby delegated to the Council. The functions so delegated shall be deemed to include the authority to review proposed individual loan, financial, exchange, or monetary transactions to the extent necessary or desirable to effectuate the coordination of policies.
 
-(c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
+(c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,,\[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
 
 Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President in consequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
 

@@ -28,7 +28,7 @@ The Secretary shall restore to the trust funds established under sections 1395i 
 
 Notwithstanding any other provision of this subchapter, an institution or person shall not be entitled to recover from any State any amount in payment for medical care and services under this subchapter which is withheld by the State agency pursuant to an order by the Secretary under subsection (b) of this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1914, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §905(d), 94 Stat. 2618.)
+(Aug. 14, 1935, ch. 531, title XIX, §1914, as added Pub. L. 96–499, title IX, §905(d), Dec. 5, 1980, 94 Stat. 2618.)
 
 #### Section Referred to in Other Sections
 

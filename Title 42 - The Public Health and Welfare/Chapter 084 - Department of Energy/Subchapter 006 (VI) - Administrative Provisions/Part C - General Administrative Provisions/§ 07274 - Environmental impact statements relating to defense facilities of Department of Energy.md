@@ -14,10 +14,6 @@
 
 Section was enacted as part of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1982, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### National Environmental Policy Act Compliance Report Requirement
 
 Pub. L. 101–510, div. C, title XXXI, §3133, Nov. 5, 1990, 104 Stat. 1832, directed Secretary of Energy, not later than 30 days after the end of each quarter of fiscal years 1991 and 1992, to submit to Congress a brief report on Department of Energy's compliance with National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), which was to contain a brief description of each proposed action to be taken by the Department of Energy, the environmental impact of which was not clearly insignificant, and a description of the steps taken or proposed to be taken by the Department of Energy to assess the environmental impact of the proposed action, and if the Secretary found that the proposed action of the Department of Energy would have no significant impact, the Secretary was to include the rationale for that determination.

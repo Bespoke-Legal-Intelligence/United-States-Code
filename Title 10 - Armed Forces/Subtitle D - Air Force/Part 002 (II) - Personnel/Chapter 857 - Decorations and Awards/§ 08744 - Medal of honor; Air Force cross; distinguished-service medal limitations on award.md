@@ -20,7 +20,7 @@
 
 > a medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, as the case may be, may be awarded to the person concerned within two years after the date of that determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 540; July 5, 1960, Pub. L. 86–582, §1(3), 74 Stat. 320; July 6, 1960, Pub. L. 86–593, §1(2), 74 Stat. 331.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 540; Pub. L. 86–582, §1(3), July 5, 1960, 74 Stat. 320; Pub. L. 86–593, §1(2), July 6, 1960, 74 Stat. 331.)
 
 Historical and Revision Notes
 

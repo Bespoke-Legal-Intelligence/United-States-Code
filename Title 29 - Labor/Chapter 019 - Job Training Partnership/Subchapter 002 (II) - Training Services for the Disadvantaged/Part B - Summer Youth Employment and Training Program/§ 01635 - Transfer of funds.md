@@ -4,6 +4,10 @@ A service delivery area may transfer up to 20 percent of the funds provided unde
 
 (Pub. L. 97–300, title II, §256, as added Pub. L. 102–367, title II, §205, Sept. 7, 1992, 106 Stat. 1063; amended Pub. L. 103–227, title X, §1016(b), Mar. 31, 1994, 108 Stat. 268.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1994—Pub. L. 103–227 substituted “20 percent” for “10 percent”.

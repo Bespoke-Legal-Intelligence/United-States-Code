@@ -4,7 +4,7 @@
 
 Federal, State or Territorial Judges, or U.S. magistrates authorized to issue search warrants, Rule 41(a).
 
-(June 25, 1948, ch. 645, 62 Stat. 819; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(4), 82 Stat. 1115.)
+(June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, §301(a)(4), Oct. 17, 1968, 82 Stat. 1115.)
 
 #### Amendments
 

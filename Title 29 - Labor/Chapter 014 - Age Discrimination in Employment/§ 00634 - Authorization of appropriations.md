@@ -2,7 +2,7 @@
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 90–202, §17, formerly §16, Dec. 15, 1967, 81 Stat. 608; renumbered and amended Pub. L.93–259, §28(a)(5), (b)(1), Apr. 8, 1974, 88 Stat. 74; Pub. L. 95–256, §7, Apr. 6, 1978, 92 Stat. 193.)
+(Pub. L. 90–202, §17, formerly §16, Dec. 15, 1967, 81 Stat. 608; renumbered and amended Pub. L. 93–259, §28(a)(5), (b)(1), Apr. 8, 1974, 88 Stat. 74; Pub. L. 95–256, §7, Apr. 6, 1978, 92 Stat. 193.)
 
 #### Amendments
 

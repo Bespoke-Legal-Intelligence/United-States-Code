@@ -32,7 +32,7 @@
 | (g) | Currency exchanges. |
 | [2456\.](%C2%A7%2002456%20-%20J.%20William%20Fulbright%20Foreign%20Scholarship%20Board.md) | J. William Fulbright Foreign Scholarship Board. |
 | (a) | Appointment; members; considerations for selection. |
-| (b), | (c) Omitted. |
+| (b), | (c) Omitted or Repealed. |
 | (d) | Creation of interagency and other advisory committees; conferences of persons. |
 | (e) | Availability of appropriations for expenses; transportation expenses and per diem; compensation of members of Board and Committees. |
 | (f) | Secretarial and staff assistance. |
@@ -57,6 +57,7 @@
 | (d) | Administration of programs. |
 | (e) | Office of Citizen Exchanges. |
 | (f) | Coordination of exchange program; reports. |
+| (g) | Working Group on United States Government-Sponsored International Exchanges and Training. |
 | [2461\.](%C2%A7%2002461%20-%20Exchanges%20between%20United%20States%20and%20independent%20states%20of%20the%20former%20Soviet%20Union.md) | Exchanges between United States and independent states of the former Soviet Union. |
 | (a) | Financing of exchanges with repayments on Lend-Lease debts. |
 | (b) | Limitation on availability of funds. |

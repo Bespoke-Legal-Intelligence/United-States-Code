@@ -4,7 +4,7 @@ Whoever, being the owner, master or person in charge or command of any private v
 
 In case such vessels are so used, with the knowledge of the owner or master or other person in charge or command thereof, the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws.
 
-(June 25, 1948, ch. 645, 62 Stat. 804; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 804; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

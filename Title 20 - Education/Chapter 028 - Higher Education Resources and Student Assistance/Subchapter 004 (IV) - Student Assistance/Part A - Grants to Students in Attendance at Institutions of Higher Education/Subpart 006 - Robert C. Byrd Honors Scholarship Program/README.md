@@ -2,9 +2,7 @@ subpart 6—robert c. byrd honors scholarship program
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 1070, 1091, 1099a–3 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This subpart is referred to in section 1070 of this title.
 
 
 ---

@@ -8,11 +8,15 @@
 
 &emsp;(2) recommend research priorities and other measures the Director of the Program should take to enhance the safety and efficacy of vaccines,
 
-&emsp;(3) advise the Director of the Program in the implementation of sections 300aa–2, 300aa–3, and 300aa–4 of this title, and
+&emsp;(3) advise the Director of the Program in the implementation of sections 300aa–2, 300aa–3, and 300aa–4 <sup>1</sup> of this title, and
 
-&emsp;(4) identify annually for the Director of the Program the most important areas of government and non-government cooperation that should be considered in implementing sections 300aa–2, 300aa–3, and 300aa–4 of this title.
+&emsp;(4) identify annually for the Director of the Program the most important areas of government and non-government cooperation that should be considered in implementing sections 300aa–2, 300aa–3, and 300aa–4 <sup>1</sup> of this title.
 
-(July 1, 1944, ch. 373, title XXI, §2105, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3758.)
+(July 1, 1944, ch. 373, title XXI, §2105, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758.)
+
+#### References in Text
+
+Section 300aa–4 of this title, referred to in subsec. (b)(3), (4), was repealed by Pub. L. 105–362, title VI, §601(a)(1)(H), Nov. 10, 1998, 112 Stat. 3285.
 
 #### Prior Provisions
 
@@ -25,4 +29,6 @@ A prior section 2105 of act July 1, 1944, was repealed by Pub. L. 99–117, §12
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@ As used in this chapter:
 
 &emsp;&emsp;(C) typically includes at least 2 years of secondary education and at least 1 or 2 years of postsecondary education;
 
-&emsp;&emsp;(D) provides the students, to the extent practicable, with strong experience in andunderstanding of all aspects of the industry the students are planning to enter;
+&emsp;&emsp;(D) provides the students, to the extent practicable, with strong experience in and understanding of all aspects of the industry the students are planning to enter;
 
 &emsp;&emsp;(E) results in the award of—
 
@@ -52,7 +52,7 @@ As used in this chapter:
 
 #### (6) Community-based organizations
 
-&emsp;The term “community-based organizations” has the meaning given such term in section 4(5) of the Job Training Partnership Act (29 U.S.C. 1503(5)).
+&emsp;The term “community-based organizations” has the meaning given such term in section 4(5) of the Job Training Partnership Act (29 U.S.C. 1503(5)).<sup>1</sup>
 
 #### (7) Elementary school
 
@@ -92,7 +92,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(vii) local vocational education entities;
 
-&emsp;&emsp;&emsp;(viii) proprietary institutions of higher education (as defined in section 481(b) of the Higher Education Act of 1965 (20 U.S.C. 1088(b)) that continue to meet the eligibility and certification requirements under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]);
+&emsp;&emsp;&emsp;(viii) proprietary institutions of higher education (as defined in section 102(b) of the Higher Education Act of 1965 \[20 U.S.C. 1002(b)\] <sup>2</sup> that continue to meet the eligibility and certification requirements under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]);
 
 &emsp;&emsp;&emsp;(ix) local government agencies;
 
@@ -102,7 +102,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(xii) vocational student organizations;
 
-&emsp;&emsp;&emsp;(xiii) private industry councils established under section 102 of the Job Training Partnership Act (29 U.S.C. 1512);
+&emsp;&emsp;&emsp;(xiii) private industry councils established under section 102 of the Job Training Partnership Act (29 U.S.C. 1512); <sup>1</sup>
 
 &emsp;&emsp;&emsp;(xiv) federally recognized Indian tribes, Indian organizations, and Alaska Native villages within the meaning of the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and
 
@@ -110,7 +110,7 @@ As used in this chapter:
 
 #### (12) Postsecondary educational institution
 
-&emsp;The term “postsecondary educational institution” means an institution of higher education (as such term is defined in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088)) which continues to meet the eligibility and certification requirements under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]).
+&emsp;The term “postsecondary educational institution” means an institution of higher education (as such term is defined in section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\]) which continues to meet the eligibility and certification requirements under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]).
 
 #### (13) Registered apprenticeship agency
 
@@ -130,7 +130,7 @@ As used in this chapter:
 
 #### (17) School dropout
 
-&emsp;The term “school dropout” means a youth who is no longer attending any school and whohas not received a secondary school diploma or a certificate from a program of equivalency for such a diploma.
+&emsp;The term “school dropout” means a youth who is no longer attending any school and who has not received a secondary school diploma or a certificate from a program of equivalency for such a diploma.
 
 #### (18) School site mentor
 
@@ -146,7 +146,7 @@ As used in this chapter:
 
 &emsp;&emsp;(A) a nonprofit day or residential school that provides secondary education, as determined under State law, except that it does not include any education provided beyond grade 12; and
 
-&emsp;&emsp;(B) a Job Corps center under part B of title IV of the Job Training Partnership Act (29 U.S.C. 1691 et seq.).
+&emsp;&emsp;(B) a Job Corps center under part B of title IV of the Job Training Partnership Act (29 U.S.C. 1691 et seq.).<sup>1</sup>
 
 #### (21) Secretaries
 
@@ -162,13 +162,13 @@ As used in this chapter:
 
 #### (24) State educational agency
 
-&emsp;The term “State educational agency” means the officer or agency primarily responsible for the State supervision of public elementary and secondary schools.
+&emsp;The term “State educational agency” means the officer or agency primarily responsible forthe State supervision of public elementary and secondary schools.
 
 #### (25) Workplace mentor
 
 &emsp;The term “workplace mentor” means an employee or other individual, approved by the employer at a workplace, who possesses the skills and knowledge to be mastered by a student, and who instructs the student, critiques the performance of the student, challenges the student to perform well, and works in consultation with classroom teachers and the employer of the student.
 
-(Pub. L. 103–239, §4, May 4, 1994, 108 Stat. 572; Pub. L. 103–382, title III, §394(j)(1), Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 103–239, §4, May 4, 1994, 108 Stat. 572; Pub. L. 103–382, title III, §394(j)(1), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(c)(1), Oct. 7, 1998, 112 Stat. 1622.)
 
 #### References in Text
 
@@ -180,13 +180,23 @@ The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pu
 
 Section 1401(a)(17) of this title, referred to in par. (15), was in the original a reference to section 602(a)(17) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “related services”.
 
-The Job Training Partnership Act, referred to in par. (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part B of title IV of the Act is classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in pars. (6), (11)(B)(xiii), and (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part B of title IV of the Act was classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor, and sections 4 and 102 of the Act were classified to sections 1503 and 1512, respectively, of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 
 #### Amendments
 
+1988—Par. (11)(B)(viii). Pub. L. 105–244, §102(c)(1)(A), substituted “section 102(b)” for “section 481(b)”.
+
+Par. (12). Pub. L. 105–244, §102(c)(1)(B), substituted “section 102” for “section 481”.
+
 1994—Par. (15). Pub. L. 103–382 substituted “section 1401(a)(17)” for “section 1401(17)”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

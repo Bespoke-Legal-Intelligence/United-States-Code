@@ -4,6 +4,12 @@ This chapter may be cited as the “Fair Labor Standards Act of 1938”.
 
 (June 25, 1938, ch. 676, §1, 52 Stat. 1060.)
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–334, §1, Oct. 31, 1998, 112 Stat. 3137, provided that: “This Act \[amending section 213 of this title and enacting provisions set out as a note under section 213 of this title\] may be cited as the ‘Drive for Teen Employment Act’.”
+
+Pub. L. 105–221, §1, Aug. 7, 1998, 112 Stat. 1248, provided that: “This Act \[amending section 203 of this title\] may be cited as the ‘Amy Somers Volunteers at Food Banks Act’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–188, \[title II\], §2104(a), Aug. 20, 1996, 110 Stat. 1928, provided that: “This section \[amending section 206 of this title\] may be cited as the ‘Minimum Wage Increase Act of 1996’.”
@@ -30,7 +36,7 @@ Pub. L. 93–259, §1(a), Apr. 8, 1974, 88 Stat. 55, provided that: “This Act 
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–601, §1, Sept. 23, 1966, 80 Stat. 830, provided: “That this Act \[amending sections 203, 206, 207, 213, 214, 216, 218, and 255 of this title, and enacting provisions set out as notes under sections 207 and 214 of this title, section 1082 of former Title 5, Executive Departments and Government Officers and Employees, and section 2000e–14 of Title 42, The Public Health and Welfare\] may be cited as the ‘Fair Labor Standards Amendments of 1966’.”
+Pub. L. 89–601, §1, Sept. 23, 1966, 80 Stat. 830, provided: “That this Act \[amending sections 203, 206, 207, 213, 214,216, 218, and 255 of this title, and enacting provisions set out as notes under sections 207 and 214 of this title, section 1082 of former Title 5, Executive Departments and Government Officers and Employees, and section 2000e–14 of Title 42, The Public Health and Welfare\] may be cited as the ‘Fair Labor Standards Amendments of 1966’.”
 
 #### Short Title of 1963 Amendment
 
@@ -46,7 +52,7 @@ Act Aug. 8, 1956, ch. 1035, §1, 70 Stat. 1118, provided: “That this Act \[ame
 
 #### Short Title of 1955 Amendment
 
-Act Aug. 12, 1955, ch. 867, §1, 69 Stat. 711, provided: “That this Act \[amending sections 204–206, 208, and 210of this title and enacting provisions set out as notes under sections 204, 206, and 208 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1955’.”
+Act Aug. 12, 1955, ch. 867, §1, 69 Stat. 711, provided: “That this Act \[amending sections 204–206, 208, and 210 of this title and enacting provisions set out as notes under sections 204, 206, and 208 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1955’.”
 
 #### Short Title of 1949 Amendment
 

@@ -6,7 +6,7 @@ The purpose of this section is to authorize a demonstration mortgage reinsurance
 
 #### (b) One- to four-family dwellings; requirements for private mortgage insurance companies
 
-Notwithstanding any other provision of this chapter inconsistent with this section, the Secretary is authorized to provide mortgage insurance with respect to one- to four-family dwellings under sections 1709(b), 1715y, and 1715z–10 of this title through reinsurance contracts with private mortgage insurance companies which have been determined to be qualified insurersunder section 1717(b)(2)(C) of this title. Such contracts shall require private mortgage insurance companies to—
+Notwithstanding any other provision of this chapter inconsistent with this section, the Secretary is authorized to provide mortgage insurance with respect to one- to four-family dwellings under sections 1709(b), 1715y, and 1715z–10 of this title through reinsurance contracts with private mortgage insurance companies which have been determined to be qualified insurers under section 1717(b)(2)(C) of this title. Such contracts shall require private mortgage insurance companies to—
 
 &emsp;(1) assume a percentage of loss on any mortgage insured pursuant to section 1709(b), 1715y, or 1715z–10 of this title covering a one- to four-family dwelling, which percentage of loss shall be set forth in the reinsurance contract; and
 
@@ -14,7 +14,7 @@ Notwithstanding any other provision of this chapter inconsistent with this secti
 
 #### (c) Required contract provisions
 
-Any contract of reinsurance under this section shall contain such provisions relating to the sharing of premiums on a sound actuarial basis, establishment of insurance reserves, manner of calculating claims on such insurance, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, right of assignees, and other similar matters as the Secretary may prescribe pursuant to regulations. Pursuant to a contract under this section, a private mortgage insurance company shall endorse loans for insurance and take such other actions on behalf of the Secretary and in the Secretary's name as the Secretary may authorize.
+Any contract of reinsurance under this section shall contain such provisions relating to the sharing of premiums on a sound actuarial basis, establishment of insurance reserves, manner of calculating claims on such insurance, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, right of assignees, and other similar matters as the Secretary may prescribe pursuant to regulations. Pursuant to a contract under this section, a private mortgage insurance company shall endorse loans for insurance and take suchother actions on behalf of the Secretary and in the Secretary's name as the Secretary may authorize.
 
 #### (d) Mortgages offered for inclusion by Secretary
 

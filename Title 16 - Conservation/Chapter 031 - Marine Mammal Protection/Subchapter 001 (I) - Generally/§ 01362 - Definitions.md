@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 (4) The term “humane” in the context of the taking of a marine mammal means that method of taking which involves the least possible degree of pain and suffering practicable to the mammal involved.
 
-(5) The term “intermediary nation” means a nation that exports yellowfin tuna or yellowfintuna products to the United States and that imports yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation into the United States pursuant to section 1371(a)(2)(B) of this title.
+(5) The term “intermediary nation” means a nation that exports yellowfin tuna or yellowfin tuna products to the United States and that imports yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation into the United States pursuant to section 1371(a)(2)(B) of this title.
 
 (6) The term “marine mammal” means any mammal which (A) is morphologically adapted to the marine environment (including sea otters and members of the orders Sirenia, Pinnipedia and Cetacea), or (B) primarily inhabits the marine environment (such as the polar bear); and, for the purposes of this chapter, includes any part of any such marine mammal, including its raw, dressed, or dyed fur or skin.
 
@@ -76,7 +76,7 @@ For the purposes of this chapter—
 
 &emsp;(A) for which the level of direct human-caused mortality exceeds the potential biological removal level;
 
-&emsp;(B) which, based on the best available scientific information, is declining and is likelyto be listed as a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] within the foreseeable future; or
+&emsp;(B) which, based on the best available scientific information, is declining and is likely to be listed as a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] within the foreseeable future; or
 
 &emsp;(C) which is listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), or is designated as depleted under this chapter.
 
@@ -156,7 +156,7 @@ Par. (15). Pub. L. 102–582 redesignated par. (14), defining waters under the j
 
 Pub. L. 102–523 added par. (15) defining fishery.
 
-Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductoryprovisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
+Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
 
 Pars. (16), (17). Pub. L. 102–523 added pars. (16) and (17).
 
@@ -216,7 +216,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Effective Date of 1976 Amendment
 
-Section 404(b) of Pub. L. 94–265 provided that the amendment made by section 404(a) of Pub. L. 94–265 to this section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
+Section 404(b) of Pub. L. 94–265 provided that the amendment made by section 404(a) of Pub. L. 94–265 tothis section was to take effect Mar. 1, 1977, prior to the general amendment of title IV of Pub. L. 94–265 by Pub. L. 104–297.
 
 #### Effective Date of 1973 Amendment
 

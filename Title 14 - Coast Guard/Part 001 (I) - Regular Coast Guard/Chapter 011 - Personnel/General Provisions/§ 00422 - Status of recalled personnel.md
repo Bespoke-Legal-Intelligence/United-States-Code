@@ -2,7 +2,7 @@
 
 All retired personnel when recalled to active duty shall serve in the grade or rate in which they were serving at the time of retirement.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 524; July 1, 1986, Pub. L. 99–348, title II, §205(b)(10), 100 Stat. 700.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 524; Pub. L. 99–348, title II, §205(b)(10), July 1, 1986, 100 Stat. 700.)
 
 #### Historical and Revision Notes
 

@@ -10,13 +10,11 @@
 
 (1) The Secretary shall, consistent with this section, make payments to the Federal endowment funds established under subsection (a) of this section from amounts appropriated under subsection (h) of this section for the fund involved.
 
-(2) Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).
-
-(3) Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).
+(2) Subject to the availability of appropriations, the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources during the fiscal year in which the appropriations are made available (excluding transfers from other endowment funds of the institution involved).
 
 #### (c) Investments
 
-(1) Except as provided in subsection (e) of this section, the University and NTID, respectively, shall invest its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of title 26, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
+(1) Except as provided in subsection (e) of this section, the University and NTID, respectively, shall invest the Federal contribution of its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of title 26, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
 
 (2) In managing the investment of its Federal endowment fund, the University or NTID shall exercise the judgment and care, under the prevailing circumstances, that a person of prudence, discretion, and intelligence would exercise in the management of that person's own business affairs.
 
@@ -30,9 +28,9 @@
 
 (B) Neither the University nor NTID may withdraw or expend the income of its Federal endowment fund for any commercial purpose.
 
-(C) Beginning on October 1, 1992, the University and NTID shall maintain records of the income generated from its respective Federal endowment fund for the prior fiscal year.
+(C) The University and NTID shall maintain records of the income generated from its respective Federal endowment fund for the prior fiscal year.
 
-(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, on an annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year.
+(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, on an annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
 
 (B) The Secretary may permit the University or NTID to withdraw or expend a portion of its Federal endowment fund corpus or more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary's satisfaction, that such withdrawal or expenditure is necessary because of—
 
@@ -70,9 +68,9 @@ As used in this section:
 
 #### (h) Authorization of appropriations
 
-(1) In the case of the University, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1993 through 1997.
+(1) In the case of the University, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1998 through 2003.
 
-(2) In the case of NTID, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1993 through 1997.
+(2) In the case of NTID, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1998 through 2003.
 
 (3) Amounts appropriated under paragraph (1) or (2) shall remain available until expended.
 
@@ -80,7 +78,7 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831.)
 
 #### Codification
 
@@ -92,15 +90,31 @@ A prior section 4357, Pub. L. 99–371, title II, §207, formerly title IV, §40
 
 #### Amendments
 
+1998—Subsec. (b)(2). Pub. L. 105–244, §919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
+
+Subsec. (b)(3). Pub. L. 105–244, §919(1)(B), struck out par. (3) which read as follows: “Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).”
+
+Subsec. (c)(1). Pub. L. 105–244, §919(2), inserted “the Federal contribution of” after “shall invest”.
+
+Subsec. (d)(2)(C). Pub. L. 105–244, §919(3)(A), substituted “The University” for “Beginning on October 1, 1992, the University”.
+
+Subsec. (d)(3)(A). Pub. L. 105–244, §919(3)(B), substituted “current” for “prior”.
+
+Subsec. (h)(1), (2). Pub. L. 105–244, §919(4), substituted “1998 through 2003” for “1993 through 1997”.
+
 1993—Subsec. (c)(3). Pub. L. 103–73, §204(f)(1), substituted “advisory group established under section 4332 of this title” for “Advisory Board of NTID”.
 
 Subsec. (e). Pub. L. 103–73, §204(f)(2), substituted “such investment limitations or” for “such investment limitations and”.
 
 Subsec. (i). Pub. L. 103–73, §204(f)(3), substituted “this chapter as enacted on August 4, 1986” for “the provisions of the Education of the Deaf Act of 1986”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4354 of this title.
+This section is referred to in sections 4353, 4354 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “hypothecate,”</i>
 

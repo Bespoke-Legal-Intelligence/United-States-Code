@@ -8,7 +8,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;(2) includes a description of the subject merchandise, in such detail as the administering authority deems necessary, and
 
-&emsp;(3) requires the deposit of estimated countervailing duties pending liquidation of entries of merchandise at the same time as estimated normal customs duties on that merchandise are deposited.
+&emsp;(3) requires the deposit of estimated countervailing duties pending liquidation of entries ofmerchandise at the same time as estimated normal customs duties on that merchandise are deposited.
 
 #### (b) Imposition of duties
 
@@ -18,7 +18,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (2) Special rule
 
-&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds threat of material injury, other than threat of material injury described in paragraph (1), or material retardation of the establishment of an industry in the United States, then merchandise subject to a countervailing duty order which is entered, or withdrawn from warehouse, for consumption on or after the date of publication of notice of an affirmative determination of the Commission under section 1671d(b) of this title shall be subject to the imposition ofcountervailing duties under section 1671(a) of this title, and the administering authority shall release any bond or other security, and refund any cash deposit made, to secure the payment of countervailing duties with respect to entries of the merchandise entered, or withdrawn from warehouse, for consumption before that date.
+&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds threat of material injury, other than threat of material injury described in paragraph (1), or material retardation of the establishment of an industry in the United States, then merchandise subject to a countervailing duty order which is entered, or withdrawn from warehouse, for consumption on or after the date of publication of notice of an affirmative determination of the Commission under section 1671d(b) of this title shall be subject to the imposition of countervailing duties under section 1671(a) of this title, and the administering authority shall release any bond or other security, and refund any cash deposit made, to secure the payment of countervailing duties with respect to entries of the merchandise entered, or withdrawn from warehouse, for consumption before that date.
 
 #### (c) Special rule for regional industries
 
@@ -30,7 +30,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;After publication of the countervailing duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title.
 
-(June 17, 1930, ch. 497, title VII, §706, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 160; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §607, 98 Stat. 3029; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(5), 100 Stat. 2922; Dec. 8, 1994, Pub. L. 103–465, title II, §§218(b)(1), 233(a)(5)(O), 264(c)(9), 265, 270(a)(1)(H), 108 Stat. 4855, 4899, 4914, 4917.)
+(June 17, 1930, ch. 497, title VII, §706, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 160; amended Pub. L. 98–573, title VI, §607, Oct. 30, 1984, 98 Stat. 3029; Pub. L. 99–514, title XVIII, §1886(a)(5), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §§218(b)(1), 233(a)(5)(O), 264(c)(9), 265, 270(a)(1)(H), Dec. 8, 1994, 108 Stat. 4855, 4899, 4914, 4917.)
 
 #### Amendments
 

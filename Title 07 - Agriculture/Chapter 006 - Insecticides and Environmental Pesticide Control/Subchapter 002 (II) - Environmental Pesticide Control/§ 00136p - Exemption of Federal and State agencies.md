@@ -2,7 +2,7 @@
 
 The Administrator may, at the Administrator's discretion, exempt any Federal or State agency from any provision of this subchapter if the Administrator determines that emergency conditions exist which require such exemption. The Administrator, in determining whether or not such emergency conditions exist, shall consult with the Secretary of Agriculture and the Governor of any State concerned if they request such determination.
 
-(June 25, 1947, ch. 125, §18, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 995; amended Nov. 28, 1975, Pub. L. 94–140, §8, 89 Stat. 754; Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(k), 102 Stat. 2682; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(b)(1), (2), 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §18, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 94–140, §8, Nov. 28, 1975, 89 Stat. 754; Pub. L. 100–532, title VIII, §801(k), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895.)
 
 #### Amendments
 

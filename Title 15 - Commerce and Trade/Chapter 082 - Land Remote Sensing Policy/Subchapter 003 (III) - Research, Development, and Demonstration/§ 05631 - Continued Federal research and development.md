@@ -2,7 +2,7 @@
 
 #### (a) Roles of NASA and Department of Defense
 
-(1) The Administrator and the Secretary of Defense are directed to continue and to enhance programs of remote sensing research and development.
+(1) The Administrator and the Secretary of Defense are directed to continue and to enhanceprograms of remote sensing research and development.
 
 (2) The Administrator is authorized and encouraged to—
 

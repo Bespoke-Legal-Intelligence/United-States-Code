@@ -50,7 +50,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 > for so long as such person (i) would be eligible for such supplemental security income benefits, or such State supplementary payments (or payments of the type described in section 212(a) of Public Law 93–66), in the absence of benefits described in paragraph (1)(A), and (ii) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1634, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1478; amended Apr. 7, 1986, Pub. L. 99–272, title XII, §12202(a), 100 Stat. 290; Nov. 10, 1986, Pub. L. 99–643, §6(a), 100 Stat. 3578; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9108, 9116(a), 101 Stat. 1330–302, 1330–305; Nov. 5, 1990, Pub. L. 101–508, title V, §5103(c)(1), 104 Stat. 1388–251; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(3)(D), 108 Stat. 1478, 1504; Mar. 29, 1996, Pub. L. 104–121, title I, §105(b)(4)(B), 110 Stat. 854.)
+(Aug. 14, 1935, ch. 531, title XVI, §1634, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 99–272, title XII, §12202(a), Apr. 7, 1986, 100 Stat. 290; Pub. L. 99–643, §6(a), Nov. 10, 1986, 100 Stat. 3578; Pub. L. 100–203, title IX, §§9108, 9116(a), Dec. 22, 1987, 101 Stat. 1330–302, 1330–305; Pub. L. 101–508, title V, §5103(c)(1), Nov. 5, 1990, 104 Stat. 1388–251; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(3)(D), Aug. 15, 1994, 108 Stat. 1478, 1504; Pub. L. 104–121, title I, §105(b)(4)(B), Mar. 29, 1996, 110 Stat. 854.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Amendment by section 201(b)(3)(D) of Pub. L. 103–296 applicable with respect t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to medical assistance provided after December1990, see section 5103(e) of Pub. L. 101–508, set out as a note under section 402 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to medical assistance provided after December 1990, see section 5103(e) of Pub. L. 101–508, set out as a note under section 402 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -106,7 +106,7 @@ Section 9116(e) of Pub. L. 100–203 provided that: “The amendments made by su
 
 Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
-Section 12202(c) of Pub. L. 99–272 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not have the effect of deeming an individual eligible for medical assistance for any month which begins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Section 12202(c) of Pub. L. 99–272 provided that: “The amendment made by subsection (a)(2) \[amending thissection\] shall not have the effect of deeming an individual eligible for medical assistance for any month which begins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Effective Date
 

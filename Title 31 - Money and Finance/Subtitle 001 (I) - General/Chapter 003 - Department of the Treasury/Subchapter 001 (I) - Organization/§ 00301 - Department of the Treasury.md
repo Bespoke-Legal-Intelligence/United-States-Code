@@ -214,6 +214,8 @@ Designation of officers of Treasury Department to act as Secretary of the Treasu
 
 #### Cross References
 
+Appointment of Chief Counsel of Internal Revenue Service, see section 7803 of Title 26, Internal Revenue Code.
+
 Classification and pay of employees, see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees.
 
 Compensation of Secretary and other officers, see section 5312 et seq. of Title 5.

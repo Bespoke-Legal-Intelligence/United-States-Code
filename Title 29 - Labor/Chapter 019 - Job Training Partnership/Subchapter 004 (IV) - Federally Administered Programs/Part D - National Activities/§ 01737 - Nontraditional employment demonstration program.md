@@ -66,6 +66,10 @@ The Secretary shall provide for evaluation of the demonstration programs carried
 
 (Pub. L. 97–300, title IV, §456, formerly §457, as added Pub. L. 102–235, §9, Dec. 12, 1991, 105 Stat. 1809; renumbered §456 and amended Pub. L. 102–367, title IV, §403(a)(5), Sept. 7, 1992, 106 Stat. 1084.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Prior Provisions
 
 A prior section 456 of Pub. L. 97–300 was classified to section 1736 of this title, prior to repeal by Pub. L. 102–367, title IV, §403(a)(4), Sept. 7, 1992, 106 Stat. 1084.

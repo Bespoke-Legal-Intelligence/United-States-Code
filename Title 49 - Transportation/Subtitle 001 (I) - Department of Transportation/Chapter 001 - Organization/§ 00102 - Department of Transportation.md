@@ -70,6 +70,18 @@ In subsection (e), the words “The Secretary shall cause a . . . of office”
 
 1984—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
 
+#### Notice
+
+Pub. L. 105–178, title V, §5003, June 9, 1998, 112 Stat. 422, provided that:
+
+“(a)
+
+Notice of Reprogramming.—If any funds authorized for carrying out this title \[see Tables for classification\] or the amendments made by this title are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committee on Transportation and Infrastructure and the Committee on Science of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+
+“(b)
+
+Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department of Transportation for which funds are authorized by this title or the amendments made by this title, the Secretary shall provide notice of such reorganization to the Committee on Transportation and Infrastructure and the Committee on Science of the House of Representatives and the Committee on Environment and Public Works of the Senate.”
+
 #### Surface Transportation Administration
 
 Pub. L. 102–240, title V, §5004, Dec. 18, 1991, 105 Stat. 2160, provided that:
@@ -90,7 +102,7 @@ Section 26(c) of Pub. L. 98–557 provided that: “Notwithstanding any other pr
 
 Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453, provided:
 
-By virtue of the authority vested in me as President of the United States by Section 15 \[renumbered section 16\] of the Department of Transportation Act (Public Law 89–670, approved October 15, 1966; 80 Stat. 950) April 1, 1967, is hereby prescribed as the date on which the Department of Transportation Act shall take effect.
+By virtue of the authority vested in me as President of the United States by Section 15 \[renumbered section16\] of the Department of Transportation Act (Public Law 89–670, approved October 15, 1966; 80 Stat. 950) April 1, 1967, is hereby prescribed as the date on which the Department of Transportation Act shall take effect.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -104,7 +104,7 @@
 
 &emsp;(iii) the Secretary of Labor affords an opportunity for a hearing and makes a determination on the record with respect to the respective requirements of clauses (i), (ii), and (iii) of subparagraph (C).
 
-(E) Notwithstanding subparagraph (D), the Secretary of Labor may determine that an exemption granted for any class of fiduciaries or transactions under section 408(a) of the Employee Retirement Income Security Act of 1974 shall, upon publication of notice in the Federal Register under this subparagraph, constitute an exemption for purposes of the provisions of paragraph (2).
+(E) Notwithstanding subparagraph (D), the Secretary of Labor may determine that an exemption granted for any class of fiduciaries or transactions under section 408(a) of the Employee Retirement Income Security Act of 1974shall, upon publication of notice in the Federal Register under this subparagraph, constitute an exemption for purposes of the provisions of paragraph (2).
 
 (d) This section does not prohibit any fiduciary from—
 

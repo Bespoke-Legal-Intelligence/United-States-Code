@@ -1,6 +1,6 @@
 ### §640c–2. Effect on other laws
 
-(a) Except as specifically provided by law, eligibility for assistance under sections 640a to 640c–3 of this title shall not, by itself, preclude the eligibility of the Navajo Community College to receive Federal financial assistance underany program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+(a) Except as specifically provided by law, eligibility for assistance under sections 640a to 640c–3 of this title shall not, by itself, preclude the eligibility of the Navajo Community College to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
 (b) Notwithstanding any other provision of law, funds provided under sections 640a to 640c–3 of this title to the Navajo Community College may be treated as non-Federal, private funds of the College for purposes of any provision of Federal law which requires that non-Federal or private funds of the college be used in a project or for a specific purpose.
 
@@ -20,7 +20,7 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of Title 20, Education.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
 #### Effective Date
 
@@ -28,5 +28,5 @@ Section effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13d–2, 640a, 640c–1, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 2471, 3489.
+This section is referred to in sections 13d–2, 640a, 640c–1, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 3489.
 

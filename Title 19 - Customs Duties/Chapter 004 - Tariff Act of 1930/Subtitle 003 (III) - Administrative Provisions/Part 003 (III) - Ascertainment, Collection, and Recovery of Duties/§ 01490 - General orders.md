@@ -24,7 +24,7 @@
 
 #### (b) Request for possession by Customs
 
-At the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may beunladen and held at the risk and expense of the consignee until entry thereof is made.
+At the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may be unladen and held at the risk and expense of the consignee until entry thereof is made.
 
 #### (c) Government merchandise
 
@@ -36,7 +36,7 @@ Any imported merchandise that—
 
 > shall be stored and disposed of in accordance with such rules and procedures as the Secretary shall by regulation prescribe.
 
-(June 17, 1930, ch. 497, title IV, §490, 46 Stat. 726; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Dec. 8, 1993, Pub. L. 103–182, title VI, §658, 107 Stat. 2212; Oct. 11, 1996, Pub. L. 104–295, §21(e)(9), 110 Stat. 3531.)
+(June 17, 1930, ch. 497, title IV, §490, 46 Stat. 726; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §658, Dec. 8, 1993, 107 Stat. 2212; Pub. L. 104–295, §21(e)(9), Oct. 11, 1996, 110 Stat. 3531.)
 
 #### Prior Provisions
 

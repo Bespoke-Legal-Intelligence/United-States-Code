@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [5501\.](%C2%A7%2005501%20-%20Findings.md) | Findings. |
-| [5502\.](%C2%A7%2005502%20-%20Purpose.md) | Purpose. |
+| [5502\.](%C2%A7%2005502%20-%20Purposes.md) | Purposes. |
 | [5503\.](%C2%A7%2005503%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 | :--- | ---: |
 | [5511\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/%C2%A7%2005511%20-%20National%20High-Performance%20Computing%20Program.md) | National High-Performance Computing Program. |
 | (a) | National High-Performance Computing Program. |
-| (b) | High-performance computing advisory committee. |
+| (b) | Advisory committee. |
 | (c) | Office of Management and Budget. |
 | [5512\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/%C2%A7%2005512%20-%20National%20Research%20and%20Education%20Network.md) | National Research and Education Network. |
 | (a) | Establishment. |
@@ -24,6 +24,11 @@
 | (e) | Information services. |
 | (f) | Use of grant funds. |
 | (g) | Report to Congress. |
+| [5513\.](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/%C2%A7%2005513%20-%20Next%20Generation%20Internet.md) | Next Generation Internet. |
+| (a) | Establishment. |
+| (b) | Duties of Advisory Committee. |
+| (c) | Reports. |
+| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -71,7 +76,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 05501 - Findings](%C2%A7%2005501%20-%20Findings.md)
-- [&sect; 05502 - Purpose](%C2%A7%2005502%20-%20Purpose.md)
+- [&sect; 05502 - Purposes](%C2%A7%2005502%20-%20Purposes.md)
 - [&sect; 05503 - Definitions](%C2%A7%2005503%20-%20Definitions.md)
 - [Subchapter 001 (I) - High-Performance Computing and the National Research and Education Network](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/README.md)
 - [Subchapter 002 (II) - Agency Activities](Subchapter%20002%20%28II%29%20-%20Agency%20Activities/README.md)

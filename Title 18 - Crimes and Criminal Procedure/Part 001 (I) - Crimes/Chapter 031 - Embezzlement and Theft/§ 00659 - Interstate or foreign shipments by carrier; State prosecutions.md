@@ -4,7 +4,7 @@ Whoever embezzles, steals, or unlawfully takes, carries away, or conceals, or by
 
 Whoever buys or receives or has in his possession any such goods or chattels, knowing the same to have been embezzled or stolen; or
 
-Whoever embezzles, steals, or unlawfully takes, carries away, or by fraud or deception obtains with intent to convert to his own use any baggage which shall have come into the possession of any common carrier for transportation in interstate or foreign commerce or breaks into, steals, takes, carries away, or conceals anyof the contents of such baggage, or buys, receives, or has in his possession any such baggage or any article therefrom of whatever nature, knowing the same to have been embezzled or stolen; or
+Whoever embezzles, steals, or unlawfully takes, carries away, or by fraud or deception obtains with intent to convert to his own use any baggage which shall have come into the possession of any common carrier for transportation in interstate or foreign commerce or breaks into, steals, takes, carries away, or conceals any of the contents of such baggage, or buys, receives, or has in his possession any such baggage or any article therefrom of whatever nature, knowing the same to have been embezzled or stolen; or
 
 Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money, baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
 
@@ -18,7 +18,7 @@ To establish the interstate or foreign commerce character of any shipment in any
 
 A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §13, 63 Stat. 91; Oct. 14, 1966, Pub. L. 89–654, §1(a)–(d), 80 Stat. 904; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §13, 63 Stat. 91; Pub. L. 89–654, §1(a)–(d), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

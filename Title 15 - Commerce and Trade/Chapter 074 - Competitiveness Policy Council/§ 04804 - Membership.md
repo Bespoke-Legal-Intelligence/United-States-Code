@@ -116,7 +116,7 @@ Subsec. (f). Pub. L. 101–382, §133(a)(2), added subsec. (f) and struck out fo
 
 &emsp;“(B) shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with section 5703 of such title.
 
-“(2) Each member of the Council who is employed by the Federal Government or any State or local government shall serve on the Council without additional compensation, but while engaged in duties as a member of the Council shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5.”
+“(2) Each member of the Council who is employed by the Federal Government or any State or local government shall serve on the Council without additional compensation, but while engaged in duties as a member of the Council shall be paid actual travel expenses, andper diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5.”
 
 Subsec. (<i>l</i>). Pub. L. 101–382, §133(a)(3), struck out subsec. (<i>l</i>) which read as follows: “The Council may procure temporary and intermittent services under section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule.”
 

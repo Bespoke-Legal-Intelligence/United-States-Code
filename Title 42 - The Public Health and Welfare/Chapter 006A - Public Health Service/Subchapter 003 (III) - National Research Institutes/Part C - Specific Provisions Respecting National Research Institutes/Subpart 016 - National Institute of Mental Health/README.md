@@ -4,6 +4,8 @@ subpart 16—national institute of mental health
 
 This subpart is referred to in section 289c–1 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

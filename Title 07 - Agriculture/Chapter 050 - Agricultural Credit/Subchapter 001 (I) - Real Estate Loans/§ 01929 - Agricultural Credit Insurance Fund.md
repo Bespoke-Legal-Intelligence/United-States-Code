@@ -24,7 +24,7 @@ The Secretary shall deposit in the fund all or a portion, not to exceed one-half
 
 The Secretary may utilize the fund—
 
-&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date ofany payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date of any payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
 &emsp;(2) to pay to the holder of the notes any deferred or defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
 
@@ -32,7 +32,7 @@ The Secretary may utilize the fund—
 
 &emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
 
-&emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loans under this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loansunder this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (g) Transfer of funds from Farmers Home Administration direct loan account and Emergency Credit Revolving Fund; abolition of such account and fund; payments from Agricultural Credit Insurance Fund; interest
 

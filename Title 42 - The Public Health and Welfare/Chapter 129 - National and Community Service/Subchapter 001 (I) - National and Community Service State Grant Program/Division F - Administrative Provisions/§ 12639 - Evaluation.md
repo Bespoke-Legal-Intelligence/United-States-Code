@@ -38,7 +38,7 @@ In evaluating a program receiving assistance under the national service laws, th
 
 #### (f) Comparison of program models
 
-The Corporation shall evaluate and compare the effectiveness of different program models in meeting the program objectives described insubsection (g) of this section including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
+The Corporation shall evaluate and compare the effectiveness of different program models in meeting the program objectives described in subsection (g) of this section including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
 
 #### (g) Program objectives
 
@@ -112,7 +112,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (2) Report
 
-&emsp;The entity conducting the evaluation shall submit a report to the President, Congress,the Corporation, and each State Commission containing the results of the evaluation—
+&emsp;The entity conducting the evaluation shall submit a report to the President, Congress, the Corporation, and each State Commission containing the results of the evaluation—
 
 &emsp;&emsp;(A) with respect to the evaluation covering the year beginning on September 21, 1993, not later than 18 months after September 21, 1993; and
 

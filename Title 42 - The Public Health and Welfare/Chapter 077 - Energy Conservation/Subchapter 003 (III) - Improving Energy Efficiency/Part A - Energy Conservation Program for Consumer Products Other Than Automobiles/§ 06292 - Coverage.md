@@ -56,15 +56,21 @@ The following consumer products, excluding those consumer products designed sole
 
 (2) For purposes of this subsection:
 
-&emsp;(A) The term “average annual per-household energy use with respect to a type of product <sup>1</sup> means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which are used by households in the United States, divided by the number of such households which use products of such type.
+&emsp;(A) The term “average annual per-household energy use with respect to a type of product” means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which are used by households in the United States, divided by the number of such households which use products of such type.
 
 &emsp;(B) The Btu equivalent of one kilowatt-hour is 3,412 British thermal units.
 
 &emsp;(C) The term “household” shall be defined under rules of the Secretary.
 
-(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821.)
+(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov.9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(2)(A). Pub. L. 105–388 inserted closing quotation marks after “type of product”.
 
 1992—Subsec. (a)(14) to (19). Pub. L. 102–486 added pars. (14) to (18) and redesignated former par. (14) as (19).
 
@@ -126,7 +132,7 @@ Monitoring.—The Secretary shall monitor and evaluate the efforts of the Nation
 
 “(c)
 
-Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national window rating program consistentwith the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for windows and window systems.
+Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national window rating program consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for windows and window systems.
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those windows and window systems for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of window or window system (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
@@ -194,7 +200,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for whichthe Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
 “(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
 
@@ -234,11 +240,9 @@ Recommendations and Proposals.—The report submitted under subsection (a) shall
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 
-Section 128 of Pub. L. 102–486 provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
+Section 128 of Pub. L. 102–486 provided that: “Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficientappliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term ‘appliance’ means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\].”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6291, 6293, 6294, 6295, 6317 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by closing quotations.</i>
 

@@ -2,21 +2,67 @@
 
 (a)
 
-Procedure.—(1) The Secretary of Transportation shall prescribe regulations establishing a procedure to decide on the safety fitness of owners and operators of commercial motor vehicles, including persons seeking new or additional operating authority as motor carriers under section 13902 of this title. The procedure shall include—
+In General.—The Secretary shall—
 
-&emsp;(A) specific initial and continuing requirements to be met by the owners, operators, and persons to prove safety fitness;
+&emsp;(1) determine whether an owner or operator is fit to operate safely commercial motor vehicles;
 
-&emsp;(B) a means of deciding whether the owners, operators, and persons meet the safety fitness requirements under clause (A) of this paragraph; and
+&emsp;(2) periodically update such safety fitness determinations;
 
-&emsp;(C) specific time deadlines for action by the Secretary in making fitness decisions.
+&emsp;(3) make such final safety fitness determinations readily available to the public; and
 
-(2) Regulations prescribed under this subsection supersede all regulations of the United States Government on safety fitness and safety rating of motor carriers in effect on October 30, 1984.
+&emsp;(4) prescribe by regulation penalties for violations of this section consistent with section 521.
 
 (b)
 
-Findings and Action on Registrations.—The Secretary shall find that a person seeking to register as a motor carrier is unfit if such person does not meet the safety fitness requirements established under subsection (a) and shall not register such person.
+Procedure.—The Secretary shall maintain by regulation a procedure for determining the safety fitness of an owner or operator. The procedure shall include, at a minimum, the following elements:
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920.)
+&emsp;(1) Specific initial and continuing requirements with which an owner or operator must comply to demonstrate safety fitness.
+
+&emsp;(2) A methodology the Secretary will use to determine whether an owner or operator is fit.
+
+&emsp;(3) Specific time frames within which the Secretary will determine whether an owner or operator is fit.
+
+(c)
+
+Prohibited Transportation.—
+
+&emsp;(1)
+
+In general.—Except as provided in sections 521(b)(5)(A) and 5113 and this subsection, an owner or operator who the Secretary determines is not fit may not operate commercial motor vehicles in interstate commerce beginning on the 61st day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
+
+&emsp;(2)
+
+Owners or operators transporting passengers.—With regard to owners or operators of commercial motor vehicles designed or used to transport passengers, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
+
+&emsp;(3)
+
+Owners or operators transporting hazardous material.—With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
+
+&emsp;(4)
+
+Secretary's discretion.—Except for owners or operators described in paragraphs (2) and (3), the Secretary may allow an owner or operator who is not fit to continue operating for an additional 60 days after the 61st day after the date of the Secretary's fitness determination, if the Secretary determines that such owner or operator is making a good faith effort to become fit.
+
+(d)
+
+Review of Fitness Determinations.—
+
+&emsp;(1)
+
+In general.—Not later than 45 days after an unfit owner or operator requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+
+&emsp;(2)
+
+Owners or operators transporting passengers.—Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport passengers requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+
+&emsp;(3)
+
+Owners or operators transporting hazardous material.—Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+
+(e)
+
+Prohibited Government Use.—A department, agency, or instrumentality of the United States Government may not use to provide any transportation service an owner or operator who the Secretary has determined is not fit until the Secretary determines such owner or operator is fit.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405.)
 
 Historical and Revision Notes
 
@@ -48,7 +94,9 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 
 #### Amendments
 
-1995—Subsec. (a)(1). Pub. L. 104–88, §104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission,the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
+1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), general provisions for provisions relating to procedure and, in subsec. (b), provisions relating to procedure for provisions relating to findings and action on registrations, and adding subsecs. (c) to (e).
+
+1995—Subsec. (a)(1). Pub. L. 104–88, §104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission, the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
 
 Subsec. (b). Pub. L. 104–88, §104(g)(4), added subsec. (b) and struck out former subsec. (b) which read as follows: “
 
@@ -64,5 +112,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13902, 13905 of this title.
+This section is referred to in sections 5113, 13902, 13905 of this title.
 

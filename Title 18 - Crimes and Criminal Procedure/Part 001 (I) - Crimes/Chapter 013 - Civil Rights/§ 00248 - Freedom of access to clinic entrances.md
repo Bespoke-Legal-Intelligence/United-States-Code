@@ -36,7 +36,7 @@ In general.—Any person aggrieved by reason of the conduct prohibited by subsec
 
 &emsp;&emsp;(B)
 
-Relief.—In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief and compensatory and punitive damages, as well as the costs of suit and reasonable fees for attorneys and expert witnesses. With respect to compensatory damages, the plaintiff may elect, at any time prior to the rendering of final judgment, to recover, in lieu of actual damages, an award of statutory damages in the amount of $5,000 per violation.
+Relief.—In any action under subparagraph (A), the court may award appropriaterelief, including temporary, preliminary or permanent injunctive relief and compensatory and punitive damages, as well as the costs of suit and reasonable fees for attorneys and expert witnesses. With respect to compensatory damages, the plaintiff may elect, at any time prior to the rendering of final judgment, to recover, in lieu of actual damages, an award of statutory damages in the amount of $5,000 per violation.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ In general.—If the Attorney General of the United States has reasonable cause 
 
 &emsp;&emsp;(B)
 
-Relief.—In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, and compensatory damages to persons aggrieved as described in paragraph (1)(B). The court, tovindicate the public interest, may also assess a civil penalty against each respondent—
+Relief.—In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, and compensatory damages to persons aggrieved as described in paragraph (1)(B). The court, to vindicate the public interest, may also assess a civil penalty against each respondent—
 
 &emsp;&emsp;&emsp;(i) in an amount not exceeding $10,000 for a nonviolent physical obstruction and $15,000 for other first violations; and
 
@@ -128,7 +128,7 @@ Section 1 of Pub. L. 103–259 provided that: “This Act \[enacting this sectio
 
 #### Severability of Provisions
 
-Section 5 of Pub. L. 103–259 provided that: “If any provision of this Act \[see Short Title note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.”
+Section 5 of Pub. L. 103–259 provided that: “If any provision of this Act \[see Short Title note above\], anamendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.”
 
 #### Congressional Statement of Purpose
 

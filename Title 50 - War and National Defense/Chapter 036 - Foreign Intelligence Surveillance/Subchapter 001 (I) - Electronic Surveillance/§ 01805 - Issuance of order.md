@@ -10,7 +10,7 @@ Upon an application made pursuant to section 1804 of this title, the judge shall
 
 &emsp;(3) on the basis of the facts submitted by the applicant there is probable cause to believe that—
 
-&emsp;&emsp;(A) the target of the electronic surveillance is a foreign power or an agent of a foreign power: <i>Provided</i>, That no United States person may be considered a foreign power or an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
+&emsp;&emsp;(A) the target of the electronic surveillance is a foreign power or an agent of a foreign power: <i>Provided</i>, That no United Statesperson may be considered a foreign power or an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
 
 &emsp;&emsp;(B) each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power;
 
@@ -56,7 +56,7 @@ Whenever the target of the electronic surveillance is a foreign power, as define
 
 (2) Extensions of an order issued under this subchapter may be granted on the same basis as an original order upon an application for an extension and new findings made in the same manner as required for an original order, except that an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no communication of any individual United States person will be acquired during the period.
 
-(3) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assesscompliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
+(3) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
 #### (e) Emergency orders
 
@@ -120,5 +120,5 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except wher
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1801, 1802, 1804, 1806 of this title; title 47 section 1002.
+This section is referred to in sections 1801, 1802, 1804, 1806, 1842 of this title; title 47 section 1002.
 

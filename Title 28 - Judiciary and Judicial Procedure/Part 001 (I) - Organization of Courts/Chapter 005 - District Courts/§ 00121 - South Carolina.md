@@ -62,17 +62,17 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1991</b>—Par. (4). Pub. L. 102–140, §304(1), struck out reference to Hampton County.
+1991—Par. (4). Pub. L. 102–140, §304(1), struck out reference to Hampton County.
 
 Par. (11). Pub. L. 102–140, §304(2), inserted reference to Hampton County.
 
-<b>1986</b>—Pub. L. 99–657, §2(1), substituted “eleven divisions” for “ten divisions” in introductory text.
+1986—Pub. L. 99–657, §2(1), substituted “eleven divisions” for “ten divisions” in introductory text.
 
 Par. (1). Pub. L. 99–657, §2(2), struck out “Beaufort,” after “counties of” and substituted “and Georgetown” for “Georgetown, and Jasper”.
 
 Par. (11). Pub. L. 99–657, §2(3), added par. (11).
 
-<b>1965</b>—Pub. L. 89–242 consolidated into a single district the 10 divisions of the state which had formerly been divided into an Eastern and a Western District.
+1965—Pub. L. 89–242 consolidated into a single district the 10 divisions of the state which had formerly been divided into an Eastern and a Western District.
 
 #### Effective Date of 1986 Amendment
 

@@ -26,9 +26,9 @@
 
 &emsp;(B) a total of $40,000 in the case of any employee.
 
-(3) Nothing in this section shall be considered to authorize an agency to pay any amount to reimburse an employee for any repayments made by such employee prior to the agency's entering into an agreement under this section with such employee.
+(3) Nothing in this section shall be considered to authorize an agency to pay any amount to reimburse an employee for any repayments made by such employee prior to the agency's enteringinto an agreement under this section with such employee.
 
-(c)(1) An employee selected to receive benefits under this section must agree in writing, beforereceiving any such benefit, that the employee will—
+(c)(1) An employee selected to receive benefits under this section must agree in writing, before receiving any such benefit, that the employee will—
 
 &emsp;(A) remain in the service of the agency for a period specified in the agreement (not less than 3 years), unless involuntarily separated; and
 

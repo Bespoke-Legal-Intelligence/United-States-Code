@@ -20,7 +20,7 @@ For the purpose of carrying out technology assessment activities under section 2
 
 For purposes of establishing the program of innovative assessments under section 299a–2(f) of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1993, and such sums as may be necessary in each of the fiscal years 1994 and 1995.
 
-(July 1, 1944, ch. 373, title IX, §926, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2204; amended Aug. 18, 1990, Pub. L. 101–381, title I, §102(7), 104 Stat. 586; Oct. 13, 1992, Pub. L. 102–410, §10, 106 Stat. 2101; June 10, 1993, Pub. L. 103–43, title XX, §2010(b)(8), 107 Stat. 214.)
+(July 1, 1944, ch. 373, title IX, §926, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2204; amended Pub. L. 101–381, title I, §102(7), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–410, §10, Oct. 13, 1992, 106 Stat. 2101; Pub. L. 103–43, title XX, §2010(b)(8), June 10, 1993, 107 Stat. 214.)
 
 #### Amendments
 

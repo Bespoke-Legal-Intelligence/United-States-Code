@@ -12,7 +12,7 @@ The District Court of Guam shall have the jurisdiction of a district court of th
 
 In addition to the jurisdiction described in subsection (b) of this section, the District Court of Guam shall have original jurisdiction in all other causes in Guam, jurisdiction over which is not then vested by the legislature in another court or other courts established by it. In causes brought in the district court solely on the basis of this subsection, the district court shall be considered a court established by the laws of Guam for the purpose of determining the requirements of indictment by grand jury or trial by jury.
 
-(Aug. 1, 1950, ch. 512, §22, 64 Stat. 389; Aug. 27, 1954, ch. 1017, §1, 68 Stat. 882; Pub. L. 85–444, §§1, 2, June 4, 1958, 72 Stat. 178, 179; Pub. L. 95–598, title III, §335, Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VIII, §§801, 803, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1743, 1745.)
+(Aug. 1, 1950, ch. 512, §22, 64 Stat. 389; Aug. 27, 1954, ch. 1017, §1, 68 Stat. 882; Pub. L. 85–444, §§1,2, June 4, 1958, 72 Stat. 178, 179; Pub. L. 95–598, title III, §335, Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VIII, §§801, 803, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1743, 1745.)
 
 #### Amendments
 
@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 95–598, §335(b), substituted “section 2075 of title 28
 
 #### Effective Date of 1984 Amendment
 
-Section 1005 of Pub. L. 98–454 provided that: “Titles VII, VIII, IX, and X of this Act \[enacting sections 1424–1 to 1424–4, 1493, and 1613a of this title, repealing section 1400 of this title, amending this section and sections 1424b, 1561, 1611, 1612, 1613, 1614, 1615, 1617, 1694, and 1821to 1824 of this title, and enacting provisions set out as notes under sections 1424b, 1612, and 1614 of this title and section 373 of Title 28, Judiciary and Judicial Procedure\] shall become effective on the ninetieth day following their enactment \[Oct. 5, 1984\].”
+Section 1005 of Pub. L. 98–454 provided that: “Titles VII, VIII, IX, and X of this Act \[enacting sections 1424–1 to 1424–4, 1493, and 1613a of this title, repealing section 1400 of this title, amending this section and sections 1424b, 1561, 1611, 1612, 1613, 1614, 1615, 1617, 1694, and 1821 to 1824 of this title, and enacting provisions set out as notes under sections 1424b, 1612, and 1614 of this title and section 373 of Title 28, Judiciary and Judicial Procedure\] shall become effective on the ninetieth day following their enactment \[Oct. 5, 1984\].”
 
 #### Effective Date of 1978 Amendment
 

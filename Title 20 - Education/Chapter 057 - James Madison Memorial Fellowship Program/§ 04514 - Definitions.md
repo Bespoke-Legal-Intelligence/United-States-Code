@@ -6,13 +6,23 @@ As used in this chapter—
 
 &emsp;(2) the term “Foundation” means the James Madison Memorial Fellowship Foundation;
 
-&emsp;(3) the term “institution of higher education” has the same meaning given that term by section 1141(a) of this title; and
+&emsp;(3) the term “institution of higher education” has the same meaning given that term by section 1001 of this title; and
 
-&emsp;(4) the term “secondary school” has the same meaning given that term by section 1141(d) of this title.
+&emsp;(4) the term “secondary school” has the same meaning given that term by section 8801 of this title.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §815\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §815\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81.)
+(Pub. L. 99–500, §101(b) \[title VIII, §815\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §815\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 105–244, title I, §102(a)(6)(G), Oct. 7, 1998, 112 Stat. 1618.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+#### Amendments
+
+1998—Par. (3). Pub. L. 105–244, §102(a)(6)(G)(i), substituted “section 1001” for “section 1141(a)”.
+
+Par. (4). Pub. L. 105–244, §102(a)(6)(G)(ii), substituted “section 8801” for “section 1141(d)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

@@ -52,7 +52,7 @@ For purposes of this section:
 
 (1) The contents and adequacy of any regulatory analysis prepared or issued by the Commission under this section, including the adequacy of any procedure involved in such preparation or issuance, shall not be subject to any judicial review in any court, except that a court, upon review of a rule pursuant to section 57a(e) of this title, may set aside such rule if the Commission has failed entirely to prepare a regulatory analysis.
 
-(2) Except as specified in paragraph (1), no Commission action may be invalidated, remanded, or otherwise affected by any court on account of any failure to comply with the requirements of this section.
+(2) Except as specified in paragraph (1), no Commission action may be invalidated, remanded, or otherwise affected by any court onaccount of any failure to comply with the requirements of this section.
 
 (3) The provisions of this subsection do not alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 
@@ -72,7 +72,7 @@ For purposes of this section:
 
 (4) The Commission shall not propose or promulgate a rule which was not listed on a regulatory agenda unless the Commission publishes with the rule an explanation of the reasons the rule was omitted from such agenda.
 
-(Sept. 26, 1914, ch. 311, §22, as added May 28, 1980, Pub. L. 96–252, §15, 94 Stat. 388.)
+(Sept. 26, 1914, ch. 311, §22, as added Pub. L. 96–252, §15, May 28, 1980, 94 Stat. 388.)
 
 #### Effective Date
 

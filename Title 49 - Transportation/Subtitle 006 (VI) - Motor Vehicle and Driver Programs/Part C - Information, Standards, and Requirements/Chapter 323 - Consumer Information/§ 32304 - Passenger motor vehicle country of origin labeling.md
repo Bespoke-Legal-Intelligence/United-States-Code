@@ -20,11 +20,11 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) with the United States and Canada treated as separate countries; and
 
-&emsp;&emsp;(B) the estimate of the percentage of the dollar value shall be based on the purchase price of direct materials, as received at individual engine or transmission plants, of engines of the same displacement and transmissions of the same transmission type.
+&emsp;&emsp;(B) the estimate of the percentage of the dollar value shall be based on the purchase price of direct materials, as received at individual engine or transmission plants, of engines of the same displacement and transmissions of the same transmission type, plus the assembly and labor costs incurred for the final assembly of such engines and transmissions.
 
 &emsp;(4) “dealer” means a person residing or located in the United States, including the District of Columbia or a territory or possession of the United States, and engaged in selling or distributing new passenger motor vehicles to the ultimate purchaser.
 
-&emsp;(5) “final assembly place” means the plant, factory, or other place at which a new passenger motor vehicle is produced or assembled by a manufacturer, and from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
+&emsp;(5) “final assembly place” means the plant, factory, or other place at which a new passenger motor vehicle is produced or assembled by a manufacturer, and from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle. Such term does not include facilities for engine and transmission fabrication and assembly and the facilities for fabrication of motor vehicle equipment component parts which are produced at the same final assembly place using forming processes such as stamping, machining, or molding processes.
 
 &emsp;(6) “foreign content” means passenger motor vehicle equipment that is not of United States/Canadian origin.
 
@@ -40,7 +40,11 @@ Definitions.—In this section—
 
 &emsp;(9) “of United States/Canadian origin”, when referring to passenger motor vehicle equipment, means—
 
-&emsp;&emsp;(A) for an outside supplier, passenger motor vehicle equipment whose purchase price contains at least 70 percent value added in the United States and Canada; and
+&emsp;&emsp;(A) for an outside supplier—
+
+&emsp;&emsp;&emsp;(i) the full purchase price of passenger motor vehicle equipment whose purchase price contains at least 70 percent value added in the United States and Canada; or
+
+&emsp;&emsp;&emsp;(ii) that portion of the purchase price of passenger motor vehicle equipment containing less than 70 percent value added in the United States and Canada that is attributable to the percent value added in the United States and Canada when such percent is expressed to the nearest 5 percent; and
 
 &emsp;&emsp;(B) for an allied supplier, that part of the individual passenger motor vehicle equipment whose purchase price the manufacturer determines remains after subtracting the total of the purchase prices of all material of foreign content purchased from outside suppliers, with the determination of the United States/Canadian origin or of the foreign content from outside suppliers being consistent with subclause (A) of this clause.
 
@@ -86,23 +90,47 @@ Manufacturer Requirement.—(1) Each manufacturer of a new passenger motor vehic
 
 (c)
 
-Dealer Requirement.—Each dealer engaged in the sale or distribution of a new passenger motor vehicle manufactured after September 30, 1994, shall cause to be maintained on that vehicle the label required to be attached to that vehicle under subsection (b) of this section.
+Vehicle Content Percentage by Assembly Plant.—A manufacturer may display separately on the label required by subsection (b) the domestic content of a vehicle based on the assembly plant. Such display shall occur after the matter required to be in the label by subsection (b)(1)(A).
 
 (d)
 
-Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate label that is readily visible.
+Value Added Determination.—If a manufacturer or allied supplier requests information in a timely manner from one or more of its outside suppliers concerning the United States/Canadian content of particular equipment, but does not receive that information despite a good faith effort to obtain it, the manufacturer or allied supplier may make its own good faith value added determinations, subject to the following:
+
+&emsp;(1) The manufacturer or allied supplier shall make the same value added determinations as would be made by the outside supplier, that is, whether 70 percent or more of the value ofequipment is added in the United States and/or Canada.
+
+&emsp;(2) The manufacturer or allied supplier shall consider the amount of value added and the location in which the value was added for all of the stages that the outside supplier would be required to consider.
+
+&emsp;(3) The manufacturer or allied supplier may determine that the value added in the United States and/or Canada is 70 percent or more only if it has a good faith basis to make that determination.
+
+&emsp;(4) A manufacturer and its allied suppliers may, on a combined basis, make value added determinations for no more than 10 percent, by value, of a carline's total parts content from outside suppliers.
+
+&emsp;(5) Value added determinations made by a manufacturer or allied supplier under this paragraph shall have the same effect as if they were made by the outside supplier.
+
+&emsp;(6) This provision does not affect the obligation of outside suppliers to provide the requested information.
 
 (e)
 
-Regulations.—In consultation with the Secretaries of Commerce and the Treasury, the Secretary of Transportation shall prescribe regulations necessary to carry out this section, including regulations establishing a procedure to verify the label information required under subsection (b)(1) of this section. Those regulations shall provide the ultimate purchaser of a new passenger motor vehicle with the best and most understandable information possible about the foreign content and United States/Canadian origin of the equipment of the vehicles without imposing costly and unnecessary burdens on the manufacturers. The Secretary of Transportation shall prescribe the regulations promptly to provide adequate lead time for each manufacturer to comply with this section. The regulations shall include provisions applicable to outside suppliers and allied suppliers to require those suppliers to certify whether passenger motor vehicle equipment provided by those suppliers is of United States origin, of United States/Canadian origin, or of foreign content and to provide other information the Secretary of Transportation decides is necessary to allow each manufacturer to comply reasonably with this section and to rely on that certification and information.
+Small Parts.—The country of origin of nuts, bolts, clips, screws, pins, braces, gasoline, oil, blackout, phosphate rinse, windshield washer fluid, fasteners, tire assembly fluid, rivets, adhesives, and grommets, of any system, subassembly, or component installed in a vehicle shall be considered to be the country in which such parts were included in the final assembly of such vehicle.
 
 (f)
+
+Dealer Requirement.—Each dealer engaged in the sale or distribution of a new passenger motor vehicle manufactured after September 30, 1994, shall cause to be maintained on that vehicle the label required to be attached to that vehicle under subsection (b) of this section.
+
+(g)
+
+Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate label that is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
+
+(h)
+
+Regulations.—In consultation with the Secretaries of Commerce and the Treasury, the Secretary of Transportation shall prescribe regulations necessary to carry out this section, including regulations establishing a procedure to verify the label information required under subsection (b)(1) of this section. Those regulations shall provide the ultimate purchaser of a new passenger motor vehicle with the best and most understandable information possible about the foreign content and United States/Canadian origin of the equipment of the vehicles without imposing costly and unnecessary burdens on the manufacturers. The Secretary of Transportation shall prescribe the regulations promptly to provide adequate lead time for each manufacturer to comply with this section. The regulations shall include provisions applicable to outside suppliers and allied suppliers to require those suppliers to certify whether passenger motor vehicle equipment provided by those suppliers is of United States origin, of United States/Canadian origin, or of foreign content and to provide other information the Secretary of Transportation decides is necessary to allow each manufacturer to comply reasonably with this section and to rely on that certification and information.
+
+(i)
 
 Preemption.—(1) When a label content requirement prescribed under this section is in effect, a State or a political subdivision of a State may not adopt or enforce a law or regulation related to the content of vehicles covered by a requirement under this section.
 
 (2) A State or a political subdivision of a State may prescribe requirements related to the content of passenger motor vehicles obtained for its own use.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1036; Pub. L. 103–429, §6(29), (30), Oct. 31, 1994, 108 Stat. 4380.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1036; Pub. L. 103–429, §6(29), (30), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 105–178, title VII, §7106(d), June 9, 1998, 112 Stat. 467.)
 
 Historical and Revision Notes
 
@@ -190,7 +218,23 @@ This amends 49:32304(a)(14) to reflect the inclusion of the Northern Mariana Isl
 
 #### Amendments
 
-1994—Subsec. (a)(11). Pub. L. 103–429, §6(29), amended par. (11) generally. Prior to amendment, par. (11) readas follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
+1998—Subsec. (a)(3)(B). Pub. L. 105–178, §7106(d)(1)(A), inserted before period at end “, plus the assembly and labor costs incurred for the final assembly of such engines and transmissions”.
+
+Subsec. (a)(5). Pub. L. 105–178, §7106(d)(1)(B), inserted at end “Such term does not include facilities for engine and transmission fabrication and assembly and the facilities for fabrication of motor vehicle equipment component parts which are produced at the same final assembly place using forming processes such as stamping, machining, or molding processes.”
+
+Subsec. (a)(9)(A). Pub. L. 105–178, §7106(d)(1)(C), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “for an outside supplier, passenger motor vehicle equipment whose purchase price contains at least 70 percent value added in the United States and Canada; and”.
+
+Subsec. (c). Pub. L. 105–178, §7106(d)(3), added subsec. (c). Former subsec. (c) redesignated (f).
+
+Subsec. (d). Pub. L. 105–178, §7106(d)(4), added subsec. (d). Former subsec. (d) redesignated (g).
+
+Pub. L. 105–178, §7106(d)(2), inserted at end “A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.”
+
+Subsec. (e). Pub. L. 105–178, §7106(d)(5), added subsec. (e). Former subsec. (e) redesignated (h).
+
+Subsecs. (f) to (i). Pub. L. 105–178, §7106(d)(3), redesignated subsecs. (c) to (f) as (f) to (i), respectively.
+
+1994—Subsec. (a)(11). Pub. L. 103–429, §6(29), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
 
 &emsp;“(A) including a multipurpose vehicle or light duty truck when the vehicle or truck is rated at not more than 8,500 pounds gross vehicle weight; but
 

@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) development of improved designs for vessels and facilities, and improved operational practices;
 
-&emsp;&emsp;(B) research, development, and demonstration of improved technologies to measurethe ullage of a vessel tank, prevent discharges from tank vents, prevent discharges during lightering and bunkering operations, contain discharges on the deck of a vessel, prevent discharges through the use of vacuums in tanks, and otherwise contain discharges of oil from vessels and facilities;
+&emsp;&emsp;(B) research, development, and demonstration of improved technologies to measure the ullage of a vessel tank, prevent discharges from tank vents, prevent discharges during lightering and bunkering operations, contain discharges on the deck of a vessel, prevent discharges through the use of vacuums in tanks, and otherwise contain discharges of oil from vessels and facilities;
 
 &emsp;&emsp;(C) research, development, and demonstration of new or improved systems of mechanical, chemical, biological, and other methods (including the use of dispersants, solvents, and bioremediation) for the recovery, removal, and disposal of oil, including evaluation of the environmental effects of the use of such systems;
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(i) The development of improved models and capabilities for predicting the environmental fate, transport, and effects of oil discharges.
 
-&emsp;&emsp;(ii) The development of methods, including economic methods, to assess damages to natural resources resulting from oil discharges.
+&emsp;&emsp;(ii) The development of methods, including economic methods, to assess damages tonatural resources resulting from oil discharges.
 
 &emsp;&emsp;(iii) The identification of types of ecologically sensitive areas at particular risk to oil discharges and the preparation of scientific monitoring and evaluation plans, one for each of several types of ecological conditions, to be implemented in the event of major oil discharges in such areas.
 
@@ -184,7 +184,7 @@ Not to exceed $22,000,000 of amounts in the Fund shall be available annually to 
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, knownas the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 

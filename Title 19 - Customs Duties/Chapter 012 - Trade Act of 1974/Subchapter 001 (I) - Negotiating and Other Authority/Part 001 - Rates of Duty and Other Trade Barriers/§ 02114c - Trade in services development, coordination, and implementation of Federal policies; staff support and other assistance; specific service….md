@@ -20,7 +20,7 @@
 
 &emsp;(ii) establish one or more intergovernmental policy advisory committees on trade which shall serve as a principal forum in which State and local governments may consult with the Federal Government with respect to the matters described in clause (i); and
 
-&emsp;(iii) provide to State and local governments and to United States service industries, upon their request, advice, assistance, and (exceptas may be otherwise prohibited by law) data, analyses, and information concerning United States policies on international trade in services.
+&emsp;(iii) provide to State and local governments and to United States service industries, upon their request, advice, assistance, and (except as may be otherwise prohibited by law) data, analyses, and information concerning United States policies on international trade in services.
 
 (Pub. L. 98–573, title III, §306(c)(1), (2)(A), Oct. 30, 1984, 98 Stat. 3010, 3011.)
 

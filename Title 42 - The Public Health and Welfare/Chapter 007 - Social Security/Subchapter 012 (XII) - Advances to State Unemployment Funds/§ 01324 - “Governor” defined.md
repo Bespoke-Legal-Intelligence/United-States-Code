@@ -2,7 +2,7 @@
 
 When used in this subchapter, the term “Governor” includes the Mayor of the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title XII, §1204, as added Sept. 13, 1960, Pub. L. 86–778, title V, §522(a), 74 Stat. 979; amended 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title IV, §421, 87 Stat. 789.)
+(Aug. 14, 1935, ch. 531, title XII, §1204, as added Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; amended 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789.)
 
 #### Prior Provisions
 

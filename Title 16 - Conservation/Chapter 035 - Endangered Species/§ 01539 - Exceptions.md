@@ -50,7 +50,7 @@
 
 #### (c) Notice and review
 
-The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this subsection. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
+The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this subsection. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretaryin the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
 
 #### (d) Permit and exemption policy
 
@@ -164,7 +164,7 @@ In connection with any action alleging a violation of section 1538 of this title
 
 &emsp;(A) was not repaired or modified after the date of importation with any part of any endangered species or threatened species listed under section 1533 of this title;
 
-&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture to the United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
+&emsp;(B) was forfeited to the United States before November 10, 1978, or is subject to forfeiture tothe United States on such date of enactment, pursuant to the assessment of a civil penalty under section 1540 of this title; and
 
 &emsp;(C) is in the custody of the United States on November 10, 1978;
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No provision of this chapter, or of the Low-Level Radioactive Waste Policy Act \[42 U.S.C. 2021b et seq.\], may be construed to prohibit or otherwise restrict the authority of any State to regulate, on the basis of radiological hazard, the disposal or off-site incineration of low-level radioactive waste, if the Nuclear Regulatory Commission, after October 24, 1992, exempts such waste from regulation.
+No provision of this chapter, or of the Low-Level Radioactive Waste Policy Act \[42 U.S.C.2021b et seq.\], may be construed to prohibit or otherwise restrict the authority of any State to regulate, on the basis of radiological hazard, the disposal or off-site incineration of low-level radioactive waste, if the Nuclear Regulatory Commission, after October 24, 1992, exempts such waste from regulation.
 
 #### (b) Relation to other State authority
 
@@ -18,7 +18,7 @@ For purposes of this section:
 
 &emsp;(3) The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Aug. 1, 1946, ch. 724, title I, §276, as added Oct. 24, 1992, Pub. L. 102–486, title XXIX, §2901(a), 106 Stat. 3122.)
+(Aug. 1, 1946, ch. 724, title I, §276, as added Pub. L. 102–486, title XXIX, §2901(a), Oct. 24, 1992, 106 Stat. 3122.)
 
 #### References in Text
 

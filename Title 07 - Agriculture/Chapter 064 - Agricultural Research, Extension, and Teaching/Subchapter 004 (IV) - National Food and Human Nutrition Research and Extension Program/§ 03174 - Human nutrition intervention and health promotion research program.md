@@ -16,17 +16,21 @@ In administering human nutrition research projects under this section, the Secre
 
 #### (c) Administration of funds
 
-The Administrator of the Agricultural Research Service shall administer funds made available to carry out this section to ensure a coordinated approach to health and nutrition research efforts.
+The Administrator of the Agricultural Research Service shall administer funds madeavailable to carry out this section to ensure a coordinated approach to health and nutrition research efforts.
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal years 1996 and 1997.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2002.
 
-(Pub. L. 95–113, title XIV, §1424, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162.)
+(Pub. L. 95–113, title XIV, §1424, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title III, §301(a)(4), June 23, 1998, 112 Stat. 562.)
 
 #### Prior Provisions
 
 A prior section 3174, Pub. L. 95–113, title XIV, §1424, as added Pub. L. 101–624, title XVI, §1610(a), Nov. 28, 1990, 104 Stat. 3719, provided for establishment of food science and nutrition research center for Southeast region of United States prior to repeal by Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162.
 
 Another prior section 3174, Pub. L. 95–113, title XIV, §1424, Sept. 29, 1977, 91 Stat. 1000, provided for a study assessing potential value and cost of establishing regional food and human nutrition research centers and a report thereon, with findings and recommendations, to be submitted to the Congress not later than one year after Oct. 1, 1977, prior to repeal by Pub. L. 99–198, title XIV, §1413, Dec. 23, 1985, 99 Stat. 1549.
+
+#### Amendments
+
+1998—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 

@@ -10,11 +10,11 @@ The provisions of this subchapter shall not apply to any of the following securi
 
 &emsp;(3) Repealed. Pub. L. 101–550, title IV, §403(1)(A), Nov. 15, 1990, 104 Stat. 2722.
 
-&emsp;(4)(A) any security exempted from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] by paragraphs (2) to (8), (11), or (14) of subsection 3(a) thereof \[15 U.S.C. 77c(a)\];
+&emsp;(4)(A) any security exempted from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] by paragraphs (2) to (8), (11), or (13) of section 3(a) thereof \[15 U.S.C. 77c(a)\];
 
 &emsp;(B) any security exempted from the provisions of the Securities Act of 1933, as amended \[15 U.S.C. 77a et seq.\], by paragraph (2) of subsection 3(a) thereof, as amended by section 401 of the Employment Security Amendments of 1970 \[15 U.S.C. 77c(a)(2)\];
 
-&emsp;(5) any security issued under a mortgage indenture as to which a contract of insurance under the National Housing Act \[12 U.S.C. 1701 et seq.\] is in effect; and any such security shall be deemed to be exempt from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] to the same extent as though such security were specifically enumerated in section 3(a)(2) of such Act \[15 U.S.C. §77c(a)(2)\];
+&emsp;(5) any security issued under a mortgage indenture as to which a contract of insurance under the National Housing Act \[12 U.S.C. 1701 et seq.\] is in effect; and any such security shall be deemed to be exempt from the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]to the same extent as though such security were specifically enumerated in section 3(a)(2) of such Act \[15 U.S.C. §77c(a)(2)\];
 
 &emsp;(6) any note, bond, debenture, or evidence of indebtedness issued or guaranteed by a foreign government or by a subdivision, department, municipality, agency, or instrumentality thereof;
 
@@ -48,7 +48,7 @@ The Commission may, by rules or regulations upon its own motion, or by order on 
 
 The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
-(May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Aug. 21, 1958, Pub. L. 85–699, title III, §307(b), 72 Stat. 694; Sept. 13, 1960, Pub. L. 86–760, 74 Stat. 902; Nov. 3, 1966, Pub. L. 89–754, title V, §504(b), 80 Stat. 1278; Dec. 22, 1970, Pub. L. 91–567, §6(c), 84 Stat. 1499; Oct. 21, 1980, Pub. L. 96–477, title III, §302, 94 Stat. 2291; Nov. 15, 1990, Pub. L. 101–550, title IV, §403, 104 Stat. 2722; Oct. 11, 1996, Pub. L. 104–290, title V, §508(e), 110 Stat. 3448.)
+(May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Pub. L. 85–699, title III, §307(b), Aug. 21, 1958, 72 Stat. 694; Pub. L. 86–760, Sept. 13, 1960, 74 Stat. 902; Pub. L. 89–754, title V, §504(b), Nov. 3, 1966, 80 Stat. 1278; Pub. L. 91–567, §6(c), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 96–477, title III, §302, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 101–550, title IV, §403, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 104–290, title V, §508(e), Oct. 11, 1996, 110 Stat. 3448; Pub. L. 105–353, title III, §301(e)(2), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### References in Text
 
@@ -61,6 +61,8 @@ Paragraph (11) of section 2 of the Securities Act of 1933, referred to in subsec
 The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified generally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(4)(A). Pub. L. 105–353 substituted “(13) of section” for “(14) of subsection”.
 
 1996—Subsec. (a)(4)(A). Pub. L. 104–290 substituted “(11), or (14)” for “or (11)”.
 

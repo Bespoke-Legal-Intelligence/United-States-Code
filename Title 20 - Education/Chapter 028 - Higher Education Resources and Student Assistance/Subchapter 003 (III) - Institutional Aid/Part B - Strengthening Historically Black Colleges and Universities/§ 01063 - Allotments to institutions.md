@@ -16,7 +16,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 (1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
 
-(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
+(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) <sup>1</sup> of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
 
 #### (e) Reallotment
 
@@ -32,9 +32,11 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 In any fiscal year that the Secretary determines that Howard University or the University of the District of Columbia will receive an allotment under subsections (b) and (c) of this section which is not in excess of amounts received by Howard University under section 123 of this title, relating to annual authorization of appropriations for Howard University, or by the University of the District of Columbia under the District of Columbia Home Rule Act (87 Stat. 774) for such fiscal year, then Howard University and the University of the District of Columbia, as the case may be, shall be ineligible to receive an allotment under this section.
 
-(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
+(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat.1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
 #### References in Text
+
+Section 1069f(a)(2)(A) of this title, referred to in subsec. (d)(2), was in the original a reference to section 360(a)(2)(A) of Pub. L. 89–329. Section 360 of Pub. L. 89–329 was renumbered section 399 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and was transferred to section 1068h of this title.
 
 The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended, which is classified principally to the District of Columbia Code. See chapter 2 (§1–201 et seq.) of Title 1, Administration, of the District of Columbia Code. For classification of this Act to the Code, see Tables.
 
@@ -71,4 +73,6 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1062, 1063a, 1065 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

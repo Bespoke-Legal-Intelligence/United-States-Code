@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsections (c) and (d) of this section, payment under this part may be made forinpatient hospital services or post-hospital extended care services furnished an individual in a religious nonmedical health care institution only if—
+Subject to subsections (c) and (d) of this section, payment under this part may be made for inpatient hospital services or post-hospital extended care services furnished an individual in a religious nonmedical health care institution only if—
 
 &emsp;(1) the individual has an election in effect for such benefits under subsection (b) of this section; and
 
@@ -88,7 +88,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (D) Prohibition of administrative and judicial review
 
-&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, 1395<i>oo</i> of this title, or otherwise of the estimation of expenditures under subparagraph\(A) or the application of reduction amounts under subparagraph (B).
+&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, 1395<i>oo</i> of this title, or otherwise of the estimation of expenditures under subparagraph (A) or the application of reduction amounts under subparagraph (B).
 
 #### (E) Effect on billing
 
@@ -104,7 +104,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was less than, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall be reduced, or increased, respectively, by the amount of such excess or deficit.
+&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was less than, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall bereduced, or increased, respectively, by the amount of such excess or deficit.
 
 #### (ii) Limitation on carryforward
 
@@ -124,7 +124,7 @@ At the beginning of each fiscal year (beginning with fiscal year 1999), the Secr
 
 &emsp;(3) facts and circumstances of any significant change in such level from the level in previous fiscal years.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4454(a)(2), 111 Stat. 428.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428.)
 
 #### Effective Date
 

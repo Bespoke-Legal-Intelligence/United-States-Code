@@ -2,7 +2,7 @@ Part C—Enforcement Powers of Farm Credit Administration
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2252, 2279aa–11 of this title.
+This part is referred to in sections 2252, 2279aa–11, 4909 of this title.
 
 
 ---

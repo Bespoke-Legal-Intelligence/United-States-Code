@@ -16,3 +16,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3034 of this title.
+

@@ -72,7 +72,7 @@ A State child health plan shall include a description of the procedures to be us
 
 &emsp;Coordination of the administration of the State program under this subchapter with other public and private health insurance programs.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 552.)
+(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552.)
 
 #### Section Referred to in Other Sections
 

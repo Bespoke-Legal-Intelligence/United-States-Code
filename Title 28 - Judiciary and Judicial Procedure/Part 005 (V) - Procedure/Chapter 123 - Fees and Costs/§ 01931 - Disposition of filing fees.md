@@ -12,17 +12,17 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–317, §401(b)(1), substituted “$90” for “$60”.
+1996—Subsec. (a). Pub. L. 104–317, §401(b)(1), substituted “$90” for “$60”.
 
 Subsec. (b). Pub. L. 104–317, §401(b)(2), substituted “$150” for “$120” and “$90” for “$60”.
 
-<b>1992</b>—Pub. L. 102–572 substituted present provisions for former provisions which read as follows:
+1992—Pub. L. 102–572 substituted present provisions for former provisions which read as follows:
 
 “The following portion of moneys paid to the clerk of court as filing fees under this chapter shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the courts of the United States:
 
 “Under section 1914(a), $60.”
 
-<b>1989</b>—Pub. L. 101–162, which directed that “as provided in annual appropriation acts” be struck out before colon, was executed by striking out “as provided in annual appropriation Acts” before colon as probable intent of Congress.
+1989—Pub. L. 101–162, which directed that “as provided in annual appropriation acts” be struck out before colon, was executed by striking out “as provided in annual appropriation Acts” before colon as probable intent of Congress.
 
 #### Effective Date of 1996 Amendment
 
@@ -50,7 +50,7 @@ Effective Date.—This section shall take effect 60 days after the date of the e
 
 #### Collection and Deposit of Miscellaneous Bankruptcy Fees
 
-Section 406(b) of Pub. L. 101–162, as amended by Pub. L. 103–121, title I, §111(a)(3), (b)(4), Oct. 27, 1993, 107 Stat. 1164, provided that: “All fees as shall be hereafter collected for any service enumerated after item 18 of the bankruptcy miscellaneous fee schedule prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. section 1930(b) and 30.76 per centum of the fees hereafter collected under 28 U.S.C. section 1930(a)(1) and 25 percent of the fees hereafter collected under 28 U.S.C. section 1930(a)(3) shall be deposited as offsetting receipts to the fund established under 28 U.S.C. section 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation forexpenses of the Courts of Appeals, District Courts, and other Judicial Services and the Administrative Office of the United States Courts. The Judicial Conference shall report to the Committees on Appropriations of the House of Representatives and the Senate on a quarterly basis beginning on the first day of each fiscal year regarding the sums deposited in said fund.”
+Section 406(b) of Pub. L. 101–162, as amended by Pub. L. 103–121, title I, §111(a)(3), (b)(4), Oct. 27, 1993, 107 Stat. 1164, provided that: “All fees as shall be hereafter collected for any service enumerated after item 18 of the bankruptcy miscellaneous fee schedule prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. section 1930(b) and 30.76 per centum of the fees hereafter collected under 28 U.S.C. section 1930(a)(1) and 25 percent of the fees hereafter collected under 28 U.S.C. section 1930(a)(3) shall be deposited as offsetting receipts to the fund established under 28 U.S.C. section 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and other Judicial Services and the Administrative Office of the United States Courts. The Judicial Conference shall report to the Committees on Appropriations of the House of Representatives and the Senate on a quarterly basis beginning on the first day of each fiscal year regarding the sums deposited in said fund.”
 
 \[Section 111(a), (b) of Pub. L. 103–121 provided in part that the amendments to section 406(b) of Pub. L. 101–162, set out above, are effective 30 days after Oct. 27, 1993.\]
 

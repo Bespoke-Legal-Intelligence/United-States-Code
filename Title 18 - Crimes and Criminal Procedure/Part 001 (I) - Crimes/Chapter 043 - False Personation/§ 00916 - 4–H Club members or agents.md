@@ -2,7 +2,7 @@
 
 Whoever, falsely and with intent to defraud, holds himself out as or represents or pretends himself to be a member of, associated with, or an agent or representative for the 4–H clubs, an organization established by the Extension Service of the United States Department of Agriculture and the land grant colleges, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 743; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(F), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 103–322, title XXXIII, §330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(B) the total dollar value of such assistance received by all families; and
 
-&emsp;&emsp;(C) with respect to families and individuals participating in a program operated with funds provided under section 603(a)(5) of this title—
+&emsp;&emsp;(C) with respect to families and individuals participating in a program operated withfunds provided under section 603(a)(5) of this title—
 
 &emsp;&emsp;&emsp;(i) the total number of such families and individuals; and
 
@@ -150,7 +150,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;(4) the trends in employment and earnings of needy families with minor children living at home.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2148; amended Aug. 5, 1997, Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), 111 Stat. 591, 616, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620.)
 
 #### References in Text
 

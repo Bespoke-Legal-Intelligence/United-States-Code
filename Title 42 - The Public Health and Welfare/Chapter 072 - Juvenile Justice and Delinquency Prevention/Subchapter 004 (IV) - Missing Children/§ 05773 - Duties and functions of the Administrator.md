@@ -36,7 +36,7 @@ The Administrator shall—
 
 &emsp;&emsp;(iii) specifying the types and amounts of assistance (other than assistance under section 5775(a)(9) of this title) received by such clearinghouse in such fiscal year; and
 
-&emsp;&emsp;(iv) specifying the number and types of missing children cases handled (and the number of such cases resolved) by such clearinghouse in such fiscal year and summarizing the circumstances of each such cases.<sup>2</sup>
+&emsp;&emsp;(iv) specifying the number and types of missing children cases handled (and thenumber of such cases resolved) by such clearinghouse in such fiscal year and summarizing the circumstances of each such cases.<sup>2</sup>
 
 #### (b) Establishment of toll-free telephone line and national resource center and clearinghouse; national incidence studies; use of school records and birth certificates
 

@@ -138,7 +138,7 @@ For purposes of this section, the term “units of local government” includes 
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
 
-(July 1, 1944, ch. 373, title III, §317D, as added Oct. 27, 1992, Pub. L. 102–531, title III, §308, 106 Stat. 3495; amended June 10, 1993, Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), 107 Stat. 213; Dec. 14, 1993, Pub. L. 103–183, title VII, §705(b), 107 Stat. 2241.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### References in Text
 
@@ -146,9 +146,15 @@ The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935,
 
 #### Amendments
 
+1998—Subsec. (<i>l</i>)(1). Pub. L. 105–392 made technical amendment to directory language of Pub. L. 103–183. See 1993 Amendment note below.
+
 1993—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §308, which enacted this section.
 
-Subsec. (<i>l</i>)(1). Pub. L. 103–183 substituted “through 1998” for “through 1996”.
+Subsec. (<i>l</i>)(1). Pub. L. 103–183, as amended by Pub. L. 105–392, substituted “through 1998” for “through 1996”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

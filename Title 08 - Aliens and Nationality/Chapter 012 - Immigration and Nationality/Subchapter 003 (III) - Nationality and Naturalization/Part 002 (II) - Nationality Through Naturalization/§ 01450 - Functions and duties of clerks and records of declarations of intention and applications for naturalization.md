@@ -14,7 +14,7 @@
 
 (b) Each district office of the Service in the United States shall maintain, in chronological order, indexed, and consecutively numbered, as part of its permanent records, all declarations of intention and applications for naturalization filed with the office.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §339, 66 Stat. 259; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(d)(17), 104 Stat. 5045; Dec. 12, 1991, Pub. L. 102–232, title I, §102(b)(1), 105 Stat. 1735.)
+(June 27, 1952, ch. 477, title III, ch. 2, §339, 66 Stat. 259; Pub. L. 101–649, title IV, §407(d)(17), Nov. 29, 1990, 104 Stat. 5045; Pub. L. 102–232, title I, §102(b)(1), Dec. 12, 1991, 105 Stat. 1735.)
 
 #### Amendments
 

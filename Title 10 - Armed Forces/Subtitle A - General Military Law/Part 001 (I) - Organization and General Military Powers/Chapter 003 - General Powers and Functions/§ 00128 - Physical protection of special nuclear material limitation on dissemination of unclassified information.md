@@ -22,7 +22,7 @@
 
 (b) Nothing in this section shall be construed to authorize the Secretary to withhold, or to authorize the withholding of, information from the appropriate committees of the Congress.
 
-(c) Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5.
+(c) Any determination by the Secretary concerning the applicability of this section shall besubject to judicial review pursuant to section 552(a)(4)(B) of title 5.
 
 (d) The Secretary shall prepare on an annual basis a report to be made available upon the request of any interested person, detailing the Secretary's application during that period of each regulation or order prescribed or issued under this section. In particular, such report shall—
 

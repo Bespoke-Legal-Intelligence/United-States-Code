@@ -20,7 +20,7 @@
 
 (e) The Archivist may approve and effect the disposal of records that are in his legal custody, provided that records that had been in the custody of another existing agency may not be disposed of without the written consent of the head of the agency.
 
-(f) The Archivist shall make an annual report to the Congress concerning the disposal of records under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
+(f) The Archivist shall make an annual report to the Congress concerning the disposal ofrecords under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
 
 (Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290, 2294; Pub. L. 104–186, title II, §223(10), Aug. 20, 1996, 110 Stat. 1752.)
 
@@ -36,9 +36,13 @@ Pub. L. 98–497, §204, inserted “, after publication of notice in the Feder
 
 Subsecs. (b) to (f). Pub. L. 98–497, §107(b)(24)(B), substituted “Archivist” for “Administrator” wherever appearing.
 
-1978—Subsec. (b). Pub. L. 95–440, §1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention periodas between an authorization granted under lists and schedules submitted under section 3303 of this title and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
+1978—Subsec. (b). Pub. L. 95–440, §1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention period as between an authorization granted under lists and schedules submitted under section 3303 of this title and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
 
 Subsec. (d). Pub. L. 95–440, §1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to section 2909 of this title.
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1984 Amendment
 

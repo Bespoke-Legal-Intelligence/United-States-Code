@@ -24,7 +24,7 @@ A health insurance issuer under this part shall comply with the notice requireme
 
 &emsp;Section 300gg–62(a) of this title shall not be construed as superseding a State law described in paragraph (1).
 
-(July 1, 1944, ch. 373, title XXVII, §2751, as added Sept. 26, 1996, Pub. L. 104–204, title VI, §605(a)(4), 110 Stat. 2941.)
+(July 1, 1944, ch. 373, title XXVII, §2751, as added Pub. L. 104–204, title VI, §605(a)(4), Sept. 26, 1996, 110 Stat. 2941.)
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 1990—Pub. L. 101–624 inserted “or by the Rural Development Administration” after “Farmers Home Administration”.
 
-#### Similar Provisions
+#### Prior Provisions
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 

@@ -6,7 +6,7 @@ Except to the extent otherwise provided in this section or other provisions of t
 
 #### (b) Notices of rules and orders imposing prohibitions
 
-Before the Secretary prescribes any rule or issues any order imposing a prohibition under this chapter, he shall publish such proposed rule or order in the Federal Register, together with a statement of the reasons for such rule or order and, in the case of a rule, a detailed statement of any special circumstances or characteristics required to be taken into account in prescribing such rule. A copy shall be transmitted to the person who operates any such powerplant required to be specifically identified in such rule or order.
+Before the Secretary prescribes any rule or issues any order imposing a prohibition under this chapter, he shall publish such proposed rule ororder in the Federal Register, together with a statement of the reasons for such rule or order and, in the case of a rule, a detailed statement of any special circumstances or characteristics required to be taken into account in prescribing such rule. A copy shall be transmitted to the person who operates any such powerplant required to be specifically identified in such rule or order.
 
 #### (c) Petitions for exemptions
 
@@ -36,7 +36,7 @@ A transcript shall be kept of any public hearing made in accordance with this se
 
 #### (f) Environmental Protection Agency comment
 
-A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8374 of this title), or a petition for an exemption (or permit) under this chapter (other than under section 8374 of this title), shall be transmitted by the Secretary tothe Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act \[42 U.S.C. 7401 et seq.\]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.
+A copy of any proposed rule or order to be prescribed or issued by the Secretary which imposes a prohibition under this chapter (other than under section 8374 of this title), or a petition for an exemption (or permit) under this chapter (other than under section 8374 of this title), shall be transmitted by the Secretary to the Administrator of the Environmental Protection Agency and the Secretary shall request such agency to comment thereon within the period provided to the public unless a longer period is provided under the Clean Air Act \[42 U.S.C. 7401 et seq.\]. In any such case, the Administrator of the Environmental Protection Agency shall be afforded the same opportunity to comment and question as is provided other interested persons under subsection (d) of this section.
 
 #### (g) Repealed. Pub. L. 100–42, §1(c)(16)(E), May 21, 1987, 101 Stat. 313
 
@@ -62,7 +62,7 @@ The Department of Energy Organization Act, referred to in subsec. (h)(1), is Pub
 
 #### Amendments
 
-1987—Subsec. (b). Pub. L. 100–42, §1(c)(16)(A), struck out “(other than under section 8372 of this title)” after “this chapter” and “or installation” after “powerplant”.
+1987—Subsec. (b). Pub. L. 100–42, §1(c)(16)(A), struck out “(other than under section 8372 of this title)” after“this chapter” and “or installation” after “powerplant”.
 
 Subsec. (c)(1). Pub. L. 100–42, §1(c)(16)(B)(i), (ii), struck out “or for any permit under section 8375 of this title” after “this chapter” and “or permit” after “such exemption”.
 

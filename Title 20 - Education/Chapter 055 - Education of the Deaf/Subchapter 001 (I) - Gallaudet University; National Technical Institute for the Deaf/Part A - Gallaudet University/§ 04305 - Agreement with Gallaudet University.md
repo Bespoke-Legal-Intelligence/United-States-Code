@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary and Gallaudet University shall establish, within 1 year after October 16, 1992, a new agreement governing the operation and national mission activities, including construction and provision of equipment, of the elementary and secondary education programs at the University. The Secretary and the University shall periodically update the agreement as determined to be necessary by the Secretary or the University.
+The Secretary and Gallaudet University shall establish, and periodically update, an agreement governing the operation and national mission activities, including construction and provision of equipment, of the elementary and secondary education programs at the University. The Secretary or the University shall determine the necessity for the periodic update described in the preceding sentence.
 
 #### (b) Provisions of agreement
 
@@ -18,7 +18,7 @@ The agreement shall—
 
 &emsp;(5) include such other conditions as the Secretary or the University considers necessary to carry out the purposes of this part.
 
-(Pub. L. 99–371, title I, §105, as added Pub. L. 102–421, title I, §113, Oct. 16, 1992, 106 Stat. 2154; amended Pub. L. 103–73, title II, §203(e), Aug. 11, 1993, 107 Stat. 734.)
+(Pub. L. 99–371, title I, §105, as added Pub. L. 102–421, title I, §113, Oct. 16, 1992, 106 Stat. 2154; amended Pub. L. 103–73, title II, §203(e), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, §913, Oct. 7, 1998, 112 Stat. 1830.)
 
 #### References in Text
 
@@ -32,9 +32,15 @@ Section is also set out in D.C. Code, §31–1841.3b.
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–244 substituted “and periodically update, an” for “within 1 year after October 16, 1992, a new” and “The Secretary or the University shall determine the necessity for the periodic update described in the preceding sentence.” for “The Secretary and the University shall periodically update the agreement as determined to be necessary by the Secretary or the University.”
+
 1993—Subsec. (b)(2). Pub. L. 103–73, §203(e)(1), substituted “will” for “shall”.
 
 Subsec. (b)(4). Pub. L. 103–73, §203(e)(2), substituted “Elementary School or the Model” for “Elementary School and the Model” and “except that the Secretary” for “and the Secretary”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date
 
@@ -42,5 +48,5 @@ Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4304 of this title.
+This section is referred to in sections 4304, 4353 of this title.
 

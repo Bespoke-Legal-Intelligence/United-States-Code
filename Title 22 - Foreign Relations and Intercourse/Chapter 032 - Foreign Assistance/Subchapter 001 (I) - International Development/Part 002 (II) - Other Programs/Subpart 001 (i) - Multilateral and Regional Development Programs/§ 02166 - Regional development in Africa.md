@@ -12,7 +12,7 @@ Pub. L. 93–559, §49, Dec. 30, 1974, 88 Stat. 1816, which related to President
 
 Pub. L. 93–559, §50, Dec. 30, 1974, 88 Stat. 1816, as amended by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560, provided that:
 
-“(a)(1) Congress finds that the Government of Portugal's recognition of the right to independence of the African territories of Angola, Mozambique, and Guinea-Bissau marks a significant advance toward the goal of self-determination for all the peoples of Africa, without which peace on the continent is not secure.
+“(a)(1) Congress finds that the Government of Portugal's recognition of the right to independence of theAfrican territories of Angola, Mozambique, and Guinea-Bissau marks a significant advance toward the goal of self-determination for all the peoples of Africa, without which peace on the continent is not secure.
 
 “(2) Congress finds that progress toward independence for the Portuguese African territories will have a significant impact on the international organizations and the community of nations.
 
@@ -74,7 +74,9 @@ Sec. 2. <i>Functions of the Committee</i>. (a) The Committee shall operate in a 
 
 Sec. 3. <i>Annual Report to the President</i>. (a) The Secretary of State and the Secretary of the Treasury shall make a joint report to the President annually on Sub-Saharan Africa.
 
-(b) The annual report shall discuss the economic condition of Sub-Saharan Africa and highlight progress being made in the region toward achieving the goal presented in section 2(a)(1). The annual report shall also affirm that all United States economic programs and policies conform with and support the goal of ending hunger in Sub-Saharan Africa through economic growth and private enterprise development.
+(b) The annual report shall discuss the economic condition of Sub-Saharan Africa and highlight progress being made in the region toward achieving the goal presented in section 2(a)(1). The annual report shallalso affirm that all United States economic programs and policies conform with and support the goal of ending hunger in Sub-Saharan Africa through economic growth and private enterprise development.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 

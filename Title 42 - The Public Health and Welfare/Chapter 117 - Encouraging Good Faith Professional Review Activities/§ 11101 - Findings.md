@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(3) This nationwide problem can be remedied through effective professional peer review.
 
-&emsp;(4) The threat of private money damage liability under Federal laws, including treble damage liability under Federal antitrust law,unreasonably discourages physicians from participating in effective professional peer review.
+&emsp;(4) The threat of private money damage liability under Federal laws, including treble damage liability under Federal antitrust law, unreasonably discourages physicians from participating in effective professional peer review.
 
 &emsp;(5) There is an overriding national need to provide incentive and protection for physicians engaging in effective professional peer review.
 

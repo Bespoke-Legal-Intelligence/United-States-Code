@@ -1,0 +1,24 @@
+### §152508. Principal office
+
+The principal office of the corporation shall be in Chicago, Illinois, or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1417.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+152508
+
+36:465(a).
+
+Aug. 13, 1953, ch. 429, §5(a), 67 Stat. 570.
+
+The word “various” is omitted as unnecessary.
+

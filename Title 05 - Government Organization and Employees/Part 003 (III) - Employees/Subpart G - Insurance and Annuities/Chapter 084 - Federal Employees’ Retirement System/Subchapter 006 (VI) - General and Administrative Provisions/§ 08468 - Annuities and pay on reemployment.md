@@ -1,6 +1,6 @@
 ### §8468. Annuities and pay on reemployment
 
-(a) If an annuitant, except a disability annuitant whose annuity is terminated because of the annuitant's recovery or restoration of earning capacity, becomes employed in an appointive or elective position, an amount equal to the annuity allocable to the period of actual employment shall be deducted from the annuitant's pay, except for lump-sum leave payment purposes under section 5551. Unless the annuitant's appointment is on an intermittent basis or is to a position as a justice or judge (as defined by section 451 of title 28) or as an employee subject to another retirement system for Government employees, or unless the annuitant is serving as President, deductions for the Fund shall be withheld from the annuitant's pay under section 8422(a) and contributions under section 8423 shall be made. The deductions and contributions referred to in the preceding provisions of this subsection shall be deposited in the Treasury of the United States to the credit of the Fund. The annuitant's lump-sum credit may not be reduced by annuity paid during the reemployment.
+(a) If an annuitant, except a disability annuitant whose annuity is terminated because of the annuitant's recovery or restoration of earning capacity, becomes employed in an appointive or elective position, an amount equal to the annuity allocable to the period of actual employment shall be deducted from the annuitant's pay, except for lump-sum leave payment purposes under section 5551. Unless the annuitant's appointment is on an intermittent basis or is to a position as a justice or judge (as defined by section 451 of title 28) or as an employee subject to another retirement system for Governmentemployees, or unless the annuitant is serving as President, deductions for the Fund shall be withheld from the annuitant's pay under section 8422(a) and contributions under section 8423 shall be made. The deductions and contributions referred to in the preceding provisions of this subsection shall be deposited in the Treasury of the United States to the credit of the Fund. The annuitant's lump-sum credit may not be reduced by annuity paid during the reemployment.
 
 (b)(1)(A) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, the annuitant's annuity on termination of reemployment shall be increased by an annuity computed under section 8415(a) through (g) as may apply based on the period of reemployment and the basic pay, before deduction, averaged during the reemployment.
 
@@ -70,6 +70,10 @@ Pub. L. 101–509 added subsec. (f).
 
 1988—Pub. L. 100–238 amended section generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
@@ -100,7 +104,7 @@ Each agency in legislative branch to submit to Speaker of House of Representativ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 4512; title 22 section 4064; title 39 section 1005.
+This section is referred to in title 2 section 61h–6; title 20 section 4512; title 22 section 4064; title 39 section 1005.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “part-time”.</i>
 

@@ -28,11 +28,11 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 &emsp;(A) to avoid unreasonable interference with the interests of other states in their exercise of the freedoms of the high seas, as recognized under general principles of international law;
 
-&emsp;(B) if relevant data and other information (including, but not limited to, data resulting from exploration or commercial recovery activities under the license or permit) indicate that modification is required to protect the quality of the environment or to promote the safety of life and property at sea and if such modification is consistent with the regulations issued to carry out section 1419(b) of this title;
+&emsp;(B) if relevant data and other information (including, but not limited to, data resulting from exploration or commercial recovery activities under the license or permit) indicatethat modification is required to protect the quality of the environment or to promote the safety of life and property at sea and if such modification is consistent with the regulations issued to carry out section 1419(b) of this title;
 
 &emsp;(C) to avoid a conflict with any international obligation of the United States, established by any treaty or convention in force with respect to the United States, as determined in writing by the President; or
 
-&emsp;(D) to avoid any situation which may reasonably be expected to lead to a breach of international peace and security involvingarmed conflict, as determined in writing by the President.
+&emsp;(D) to avoid any situation which may reasonably be expected to lead to a breach of international peace and security involving armed conflict, as determined in writing by the President.
 
 (2) During the term of a license or a permit, the licensee or permittee may submit to the Administrator an application for a revision of the license or permit or the exploration plan or recovery plan associated with the license or permit. The Administrator shall approve such application upon a finding in writing that the revision will comply with the requirements of this chapter and the regulations issued under this chapter.
 

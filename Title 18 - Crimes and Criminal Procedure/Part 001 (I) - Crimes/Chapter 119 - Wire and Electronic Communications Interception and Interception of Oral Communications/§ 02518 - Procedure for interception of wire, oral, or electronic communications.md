@@ -44,7 +44,7 @@
 
 (6) Whenever an order authorizing interception is entered pursuant to this chapter, the order may require reports to be made to the judge who issued the order showing what progress has been made toward achievement of the authorized objective and the need for continued interception. Such reports shall be made at such intervals as the judge may require.
 
-(7) Notwithstanding any other provision of this chapter, any investigative or law enforcement officer, specially designated by the Attorney General, the Deputy Attorney General, the Associate Attorney General, or by the principalprosecuting attorney of any State or subdivision thereof acting pursuant to a statute of that State, who reasonably determines that—
+(7) Notwithstanding any other provision of this chapter, any investigative or law enforcement officer, specially designated by the Attorney General, the Deputy Attorney General, the Associate Attorney General, or by the principal prosecuting attorney of any State or subdivision thereof acting pursuant to a statute of that State, who reasonably determines that—
 
 &emsp;(a) an emergency situation exists that involves—
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(iii) conspiratorial activities characteristic of organized crime,
 
-> &emsp;that requires a wire, oral, or electronic communication to be intercepted before an order authorizing such interception can, with due diligence, be obtained, and
+> &emsp;that requires a wire, oral, or electronic communication to be intercepted before an orderauthorizing such interception can, with due diligence, be obtained, and
 
 &emsp;(b) there are grounds upon which an order could be entered under this chapter to authorize such interception,
 
@@ -88,7 +88,7 @@
 
 > Such motion shall be made before the trial, hearing, or proceeding unless there was no opportunity to make such motion or the person was not aware of the grounds of the motion. If the motion is granted, the contents of the intercepted wire or oral communication, or evidence derived therefrom, shall be treated as having been obtained in violation of this chapter. The judge, upon the filing of such motion by the aggrieved person, may in his discretion make available to the aggrieved person or his counsel for inspection such portions of the intercepted communication or evidence derived therefrom as the judge determines to be in the interests of justice.
 
-(b) In addition to any other right to appeal, the United States shall have the right to appeal from an order granting a motion to suppress made under paragraph (a) of this subsection, or the denial of an application for an order of approval, if the United States attorney shall certify to the judge or other official granting such motion or denying such application that the appeal is not taken for purposes of delay. Such appeal shall be taken within thirty days after the date the order was entered and shall be diligently prosecuted.
+(b) In addition to any other right to appeal, the United States shall have the right to appeal from an order granting a motion to suppressmade under paragraph (a) of this subsection, or the denial of an application for an order of approval, if the United States attorney shall certify to the judge or other official granting such motion or denying such application that the appeal is not taken for purposes of delay. Such appeal shall be taken within thirty days after the date the order was entered and shall be diligently prosecuted.
 
 (c) The remedies and sanctions described in this chapter with respect to the interception of electronic communications are the only judicial remedies and sanctions for nonconstitutional violations of this chapter involving such communications.
 
@@ -106,19 +106,29 @@
 
 &emsp;&emsp;(i) the application is by a Federal investigative or law enforcement officer and is approved by the Attorney General, the Deputy Attorney General, the Associate Attorney General, an Assistant Attorney General, or an acting Assistant Attorney General;
 
-&emsp;&emsp;(ii) the application identifies the person believed to be committing the offense and whose communications are to be intercepted and the applicant makes a showing of a purpose, on the part of that person, to thwart interception by changing facilities; and
+&emsp;&emsp;(ii) the application identifies the person believed to be committing the offense and whose communications are to be intercepted and the applicant makes a showing that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;
 
-&emsp;&emsp;(iii) the judge finds that such purpose has been adequately shown.
+&emsp;&emsp;(iii) the judge finds that such showing has been adequately made; and
 
-(12) An interception of a communication under an order with respect to which the requirements of subsections (1)(b)(ii) and (3)(d) of this section do not apply by reason of subsection (11) shall not begin until the facilities from which, or the place where, the communication is to be intercepted is ascertained by the person implementing the interception order. A provider of wire or electronic communications service that has received an order as provided for in subsection (11)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion. The court, upon notice to the government, shall decide such a motion expeditiously.
+&emsp;&emsp;(iv) the order authorizing or approving the interception is limited to interception only for such time as it is reasonable to presume that the person identified in the application is or was reasonably proximate to the instrument through which such communication will be or was transmitted.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 218; amended Pub. L. 91–358, title II, §211(b), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(d)–(g), Oct. 25, 1978, 92 Stat. 1797, 1798; Pub. L. 98–473, title II, §1203(a), (b), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, 100 Stat. 1851–1853, 1856, 1857; Pub. L. 103–414, title II, §201(b)(1), Oct. 25, 1994, 108 Stat. 4290.)
+(12) An interception of a communication under an order with respect to which the requirements of subsections (1)(b)(ii) and (3)(d) of this section do not apply by reason of subsection (11)(a) shall not begin until the place where the communication is to be intercepted is ascertained by the person implementing the interception order. A provider of wire or electronic communications service that has received an order as provided for in subsection (11)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion. The court, upon notice to the government, shall decide such a motion expeditiously.
+
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 218; amended Pub. L. 91–358, title II, §211(b), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(d)–(g), Oct. 25, 1978, 92 Stat. 1797, 1798; Pub. L. 98–473, title II, §1203(a), (b), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, 100 Stat. 1851–1853, 1856, 1857; Pub. L. 103–414, title II, §201(b)(1), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 105–272, title VI, §604, Oct. 20, 1998, 112 Stat. 2413.)
 
 #### References in Text
 
 The Communications Assistance for Law Enforcement Act, referred to in par. (4), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§1001 et seq.) of chapter 9 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
 
 #### Amendments
+
+1998—Par. (11)(b)(ii). Pub. L. 105–272, §604(a)(1), substituted “that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
+
+Par. (11)(b)(iii). Pub. L. 105–272, §604(a)(2), substituted “such showing has been adequately made; and” for “such purpose has been adequately shown.”
+
+Par. (11)(b)(iv). Pub. L. 105–272, §604(a)(3), added cl. (iv).
+
+Par. (12). Pub. L. 105–272, §604(b), substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
 
 1994—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions “Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
 

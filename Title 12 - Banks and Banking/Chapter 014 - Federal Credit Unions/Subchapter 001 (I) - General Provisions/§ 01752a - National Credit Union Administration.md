@@ -4,9 +4,21 @@
 
 There is established in the executive branch of the Government an independent agency to be known as the National Credit Union Administration. The Administration shall be under the management of a National Credit Union Administration Board.
 
-#### (b) Membership of Board; designation of Chairman
+#### (b) Membership and appointment of Board
 
-The Board shall consist of three members, who are broadly representative of the public interest, appointed by the President, by and with the advice and consent of the Senate. In appointing the members of the Board, the President shall designate the Chairman. Not more than two members of the Board shall be members of the same political party.
+#### (1) In general
+
+&emsp;The Board shall consist of three members, who are broadly representative of the public interest, appointed by the President, by and with the advice and consent of the Senate. In appointing the members of the Board, the President shall designate the Chairman. Not more than two members of the Board shall be members of the same political party.
+
+#### (2) Appointment criteria
+
+#### (A) Experience in financial services
+
+&emsp;&emsp;In considering appointments to the Board under paragraph (1), the President shall give consideration to individuals who, by virtue of their education, training, or experience relating to a broad range of financial services, financial services regulation, or financial policy, are especially qualified to serve on the Board.
+
+#### (B) Limit on appointment of credit union officers
+
+&emsp;&emsp;Not more than one member of the Board may be appointed to the Board from amongindividuals who, at the time of the appointment, are, or have recently been, involved with any insured credit union as a committee member, director, officer, employee, or other institution-affiliated party.
 
 #### (c) Term of office
 
@@ -24,7 +36,7 @@ The Chairman of the Board shall be the spokesman for the Board and shall represe
 
 The financial transactions of the Administration shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
-(June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528.)
+(June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922.)
 
 #### Prior Provisions
 
@@ -40,9 +52,11 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–219 inserted heading, designated existing provisions as par. (1), and added par. (2).
+
 1982—Subsec. (f). Pub. L. 97–320 struck out “on a calendar year basis” after “subject to audit”.
 
-1978—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
+1978—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest themanagement of the National Credit Union Administration in the National Credit Union Administration Board.
 
 1970—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
 
@@ -57,6 +71,22 @@ Section 6 of Pub. L. 91–206 provided that:
 “(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
 
 “(b) The Director of the Bureau of Federal Credit Unions in office on the date of enactment of this Act \[Mar. 10, 1970\] shall serve as acting Administrator of the National Credit Union Administration pending the appointment of an Administrator in accordance with section 3 of the Federal Credit Union Act as amended by this Act \[this section\].”
+
+#### Study and Report on Differing Regulatory Treatment
+
+Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, provided that:
+
+“(a)
+
+Study.—The Secretary \[of the Treasury\] shall conduct a study of—
+
+&emsp;“(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
+
+&emsp;“(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
+
+“(b)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study required by subsection (a).”
 
 #### Study of Corporate Credit Unions
 
@@ -94,7 +124,7 @@ Study.—
 
 In general.—The Secretary, in consultation with the Board, the Corporation, the Comptroller of the Currency, and the Administration, shall conduct a study and evaluation of—
 
-&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, includingthe treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
+&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
 
 &emsp;&emsp;&emsp;“(i) whether those amounts should be—
 

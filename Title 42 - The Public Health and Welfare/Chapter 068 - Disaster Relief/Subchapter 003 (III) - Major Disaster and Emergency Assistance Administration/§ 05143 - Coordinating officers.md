@@ -12,7 +12,7 @@ In order to effectuate the purposes of this chapter, the Federal coordinating of
 
 &emsp;(2) establish such field offices as he deems necessary and as are authorized by the President;
 
-&emsp;(3) coordinate the administration of relief, including activities of the State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief or disaster assistance organizations, which agree to operate under his advice or direction, except that nothing contained in this chapter shall limit or in any way affect the responsibilities of the American National Red Cross under the Act of January 5, 1905, as amended (33 Stat. 599) \[36 U.S.C. 1 et seq.\]; and
+&emsp;(3) coordinate the administration of relief, including activities of the State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief or disaster assistance organizations, which agree to operate under his advice or direction, except that nothing contained in this chapter shall limit or in any way affect the responsibilities of the American National Red Cross under chapter 3001 of title 36; and
 
 &emsp;(4) take such other action, consistent with authority delegated to him by the President, and consistent with the provisions of this chapter, as he may deem necessary to assist local citizens and public officials in promptly obtaining assistance to which they are entitled.
 
@@ -26,7 +26,9 @@ When the President determines assistance under this chapter is necessary, he sha
 
 This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-Act of January 5, 1905, as amended, referred to in subsec. (b)(3), is act Jan. 5, 1905, ch. 23, 33 Stat. 599, as amended, which enacted sections 1, 2, 3, 4, 4a, 5, 6, 8, and 9 of Title 36, Patriotic Societies and Observances. For complete classification of this Act to the Code, see Tables.
+#### Codification
+
+In subsec. (b)(3), “chapter 3001 of title 36” substituted for “the Act of January 5, 1905, as amended (33 Stat. 599)” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Prior Provisions
 

@@ -42,7 +42,7 @@ Except as provided in subsection (f) of this section, the Secretary of the Treas
 
 #### (f) People's Republic of China; claim payment priorities
 
-(1) Out of sums covered after May 11, 1979, into the special fund created pursuant to this sectionto receive funds paid by the People's Republic of China, the Secretary of the Treasury is authorized and directed to make payments on account of awards certified by the Commission pursuant to subchapter V of this chapter with respect to claims included within the terms of the Agreement Between the Government of the United States of America and the Government of the People's Republic of China Concerning the Settlement of Claims, signed on May 11, 1979, in the following order of priority:
+(1) Out of sums covered after May 11, 1979, into the special fund created pursuant to this section to receive funds paid by the People's Republic of China, the Secretary of the Treasury is authorized and directed to make payments on account of awards certified by the Commission pursuant to subchapter V of this chapter with respect to claims included within the terms of the Agreement Between the Government of the United States of America and the Government of the People's Republic of China Concerning the Settlement of Claims, signed on May 11, 1979, in the following order of priority:
 
 &emsp;(A) Payment in the amount of $1,000 or the principal amount of the award, whichever is less.
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 90–421, §1(5), added subsec. (e).
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished andfunctions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 

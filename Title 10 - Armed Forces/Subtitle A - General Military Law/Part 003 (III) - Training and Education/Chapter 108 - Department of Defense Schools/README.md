@@ -28,7 +28,7 @@ Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provid
 
 #### Military Department Affiliation of War College Students
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, whichprovided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, which provided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 104–61, title VIII, §8084, Dec. 1, 1995, 109 Stat. 667.
 
@@ -81,6 +81,10 @@ Maximum Amount of Honorarium.—The amount of any honorarium accepted under this
 “(g)
 
 Effective Date.—This section shall apply with respect to any honorarium for an appearance or speech made, or an article published, on or after the date of the enactment of this Act \[Oct. 23, 1992\].”
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 1552 of this title.
 
 
 ---

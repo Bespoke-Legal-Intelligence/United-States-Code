@@ -2,7 +2,7 @@
 
 #### (a) Parties
 
-Any person, nonprofit agency, institution, or government desiring to make an indemnity agreement for eligible items under this chapter shall make application therefor in accordance with such procedures, in such form, and in such manner as the Council shall, by regulation, prescribe.
+Any person, nonprofit agency, institution, or government desiring to make an indemnityagreement for eligible items under this chapter shall make application therefor in accordance with such procedures, in such form, and in such manner as the Council shall, by regulation, prescribe.
 
 #### (b) Contents
 
@@ -16,7 +16,7 @@ An application under subsection (a) of this section shall—
 
 #### (c) Approval
 
-Upon receipt of an application under this section, the Council shall, if such application conforms with the requirements of this chapter, approve the application and make an indemnity agreement with the applicant. Upon such approval, the agreement shall constitute a contract between the Council and the applicantpledging the full faith and credit of the United States to pay any amount for which the Council becomes liable under such agreement. The Council, for such purpose, is hereby authorized to pledge the full faith and credit of the United States.
+Upon receipt of an application under this section, the Council shall, if such application conforms with the requirements of this chapter, approve the application and make an indemnity agreement with the applicant. Upon such approval, the agreement shall constitute a contract between the Council and the applicant pledging the full faith and credit of the United States to pay any amount for which the Council becomes liable under such agreement. The Council, for such purpose, is hereby authorized to pledge the full faith and credit of the United States.
 
 (Pub. L. 94–158, §4, Dec. 20, 1975, 89 Stat. 845.)
 

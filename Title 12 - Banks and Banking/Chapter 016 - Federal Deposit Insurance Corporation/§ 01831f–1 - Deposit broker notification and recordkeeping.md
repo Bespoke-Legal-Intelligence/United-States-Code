@@ -26,7 +26,7 @@ The Corporation may prescribe regulations requiring each deposit broker that has
 
 #### (2) Designated agent
 
-&emsp;The Corporation may designate another entity as its agent for the purpose of receiving and maintaining reports under this subsection. If the Corporation designates such an agent the Corporation may, through its agent, prescribe and collect an appropriate quarterly fee from each deposit broker that filed reports with the agent during the applicable quarter,in an amount sufficient to defray the Corporation's cost of retaining the agent and to reflect the proportionate amount of the deposits placed with insured depository institutions by each broker during the applicable quarter.
+&emsp;The Corporation may designate another entity as its agent for the purpose of receiving and maintaining reports under this subsection. If the Corporation designates such an agent the Corporation may, through its agent, prescribe and collect an appropriate quarterly fee from each deposit broker that filed reports with the agent during the applicable quarter, in an amount sufficient to defray the Corporation's cost of retaining the agent and to reflect the proportionate amount of the deposits placed with insured depository institutions by each broker during the applicable quarter.
 
 (Sept. 21, 1950, ch. 967, §2\[29A\], as added Pub. L. 102–242, title III, §301(b), Dec. 19, 1991, 105 Stat. 2344.)
 

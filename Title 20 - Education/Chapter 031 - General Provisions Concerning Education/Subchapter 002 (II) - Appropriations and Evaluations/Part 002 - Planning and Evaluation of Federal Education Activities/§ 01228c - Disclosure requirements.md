@@ -106,7 +106,7 @@ As used in this section:
 
 &emsp;&emsp;(i) a local educational agency, State educational agency, a State department of education, or an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
-&emsp;&emsp;(ii) an institution of higher education as defined by section 1141(a) of this title; or
+&emsp;&emsp;(ii) an institution of higher education as defined by section 1001 of this title; or
 
 &emsp;&emsp;(iii) a local organization sponsored by an elementary or secondary school, a recreational organization, an entertainment organization, a local sports activity group, or a social club.
 
@@ -152,7 +152,7 @@ As used in this section:
 
 &emsp;The term “recreational program” includes any activity or service that is intended as an entertainment pastime.
 
-(Pub. L. 90–247, title IV, §429, as added Pub. L. 103–382, title II, §238, Oct. 20, 1994, 108 Stat. 3918.)
+(Pub. L. 90–247, title IV, §429, as added Pub. L. 103–382, title II, §238, Oct. 20, 1994, 108 Stat. 3918; amended Pub. L. 105–244, title I, §102(a)(6)(C), Oct. 7, 1998, 112 Stat. 1618.)
 
 #### References in Text
 
@@ -161,4 +161,12 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2
 #### Prior Provisions
 
 A prior section 429 of Pub. L. 90–247 was classified to section 1231f of this title prior to repeal by Pub. L. 103–382.
+
+#### Amendments
+
+1998—Subsec. (d)(2)(B)(ii). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 46:971
 
-Section 31342 provides that any authorized person providing necessaries for a vessel has a maritime lienon the vessel, may bring a civil action <i>in rem</i> in admiralty to enforce the lien, and is not required to allege or prove that credit was given to the vessel. “Providing” has been substituted for “furnishing” for consistency with other laws. This section makes no substantive change to law. This section does not supersede the prohibition under the Public Vessels Act, the Foreign Sovereign Immunities Act, or the Suits in Admiralty Act, on bringing an <i>in rem</i> action against a public vessel.
+Section 31342 provides that any authorized person providing necessaries for a vessel has a maritime lien on the vessel, may bring a civil action <i>in rem</i> in admiralty to enforce the lien, and is not required to allege or prove that credit was given to the vessel. “Providing” has been substituted for “furnishing” for consistency with other laws. This section makes no substantive change to law. This section does not supersede the prohibition under the Public Vessels Act, the Foreign Sovereign Immunities Act, or the Suits in Admiralty Act, on bringing an <i>in rem</i> action against a public vessel.
 
 #### Amendments
 

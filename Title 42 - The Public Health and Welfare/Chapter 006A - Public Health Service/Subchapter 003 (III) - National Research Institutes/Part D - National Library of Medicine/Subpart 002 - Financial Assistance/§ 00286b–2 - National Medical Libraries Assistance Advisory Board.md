@@ -16,7 +16,7 @@ The Secretary may use the services of any member of the Board, in connection wit
 
 Appointed members of the Board who are not otherwise in the employ of the United States, while attending conferences of the Board or otherwise serving at the request of the Secretary in connection with the administration of this subpart, shall be entitled to receive compensation, per diem in lieu of subsistence, and travel expenses in the same manner and under the same conditions as that prescribed under section 210(c) of this title when attending conferences, traveling, or serving at the request of the Secretary in connection with the Board's function under this section.
 
-(July 1, 1944, ch. 373, title IV, §471, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 860.)
+(July 1, 1944, ch. 373, title IV, §471, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 860.)
 
 #### Termination of Advisory Boards
 

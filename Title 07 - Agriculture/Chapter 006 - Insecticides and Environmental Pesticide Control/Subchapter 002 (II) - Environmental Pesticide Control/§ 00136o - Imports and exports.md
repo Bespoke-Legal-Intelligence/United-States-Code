@@ -26,7 +26,7 @@ The Administrator shall, in cooperation with the Department of State and any oth
 
 The Secretary of the Treasury, in consultation with the Administrator, shall prescribe regulations for the enforcement of subsection (c) of this section.
 
-(June 25, 1947, ch. 125, §17, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 995; amended Sept. 30, 1978, Pub. L. 95–396, §18(a), 92 Stat. 833; Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(j), 102 Stat. 2682; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(9), (b)(2), 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §17, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §18(a), Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title VIII, §801(j), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(a)(9), (b)(2), Dec. 13, 1991, 105 Stat. 1895.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ The Secretary of the Treasury, in consultation with the Administrator, shall pre
 
 Subsec. (c). Pub. L. 102–237, §1006(b)(2), substituted “the Administrator's” for “his”.
 
-1988—Subsec. (c). Pub. L. 100–532 substituted “prescribe. The Secretary” for “prescribe: <i>Provided</i>, That the Secretary” and “bond. All” for “bond: <i>And provided further</i>, That all”.
+1988—Subsec. (c). Pub. L. 100–532 substituted “prescribe. The Secretary” for “prescribe: <i>Provided</i>, Thatthe Secretary” and “bond. All” for “bond: <i>And provided further</i>, That all”.
 
 1978—Subsec. (a). Pub. L. 95–396, §18(a)(1), amended subsec. (a) generally.
 

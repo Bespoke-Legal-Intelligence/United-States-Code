@@ -66,7 +66,7 @@ In addition to the cooperation authorized in subsections (a) and (b) of this sec
 
 The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d) of this section, such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
 
-(Aug. 1, 1946, ch. 724, title I, §144, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended July 2, 1958, Pub. L. 85–479, §§5–7, 72 Stat. 278; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXI, §3155(a), (c)(4), 108 Stat. 3091, 3092.)
+(Aug. 1, 1946, ch. 724, title I, §144, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–479, §§5–7, July 2, 1958, 72 Stat. 278; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–337, div. C, title XXXI, §3155(a), (c)(4), Oct. 5, 1994, 108 Stat. 3091, 3092.)
 
 #### Amendments
 

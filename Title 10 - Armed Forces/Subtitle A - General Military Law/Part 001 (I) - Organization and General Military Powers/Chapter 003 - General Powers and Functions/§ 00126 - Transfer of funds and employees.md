@@ -54,5 +54,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Delegation of Functions
 
-Authority of President under subsec. (a) of this section to approve transfers of balances of appropriations provided for therein delegated to Director of Office of Management and Budget, see section 9(2) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (a) of this section to approve transfers of balances of appropriationsprovided for therein delegated to Director of Office of Management and Budget, see section 9(2) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

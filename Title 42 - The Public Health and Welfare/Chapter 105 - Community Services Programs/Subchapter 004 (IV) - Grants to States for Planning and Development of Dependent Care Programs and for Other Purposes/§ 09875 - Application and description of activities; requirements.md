@@ -18,7 +18,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 #### (c) Description; intended use of payments; comments; revision
 
-(1) The chief executive officer of a State shall, as part of the application required by subsection (a) of this section, also prepare and furnish the Secretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under section 9873 of this title, including information on the programs and activities to be supported. The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
+(1) The chief executive officer of a State shall, as part of the application required by subsection (a) of this section, also prepare and furnish theSecretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under section 9873 of this title, including information on the programs and activities to be supported. The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
 
 (2) The chief executive officer of each State shall include in such a description of—
 
@@ -38,7 +38,7 @@ Except where inconsistent with the provisions of this subchapter, the provisions
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (d), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XIX of the Public Health Service Act isclassified generally to part A (§300w et seq.) of subchapter XVII of chapter 6A of this title. Section 1906(a) of the Act, which is classified to section 300w–5(a) of this title, was amended generally by Pub. L. 102–531, title I, §104(a), Oct. 27, 1992, 106 Stat. 3473, and, as so amended, consists of pars. (1) to (4) rather than pars. (1) to (5). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (d), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XIX of the Public Health Service Act is classified generally to part A (§300w et seq.) of subchapter XVII of chapter 6A of this title. Section 1906(a) of the Act, which is classified to section 300w–5(a) of this title, was amended generally by Pub. L. 102–531, title I, §104(a), Oct. 27, 1992, 106 Stat. 3473, and, as so amended, consists of pars. (1) to (4) rather than pars. (1) to (5). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
 

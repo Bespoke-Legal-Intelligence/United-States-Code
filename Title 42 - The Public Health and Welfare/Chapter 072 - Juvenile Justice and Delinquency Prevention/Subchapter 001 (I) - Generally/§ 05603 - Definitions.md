@@ -22,9 +22,25 @@ For purposes of this chapter—
 
 &emsp;(7) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
 
-&emsp;(8) the term “unit of general local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;
+&emsp;(8) the term “unit of local government” means—
 
-&emsp;(9) the term “combination” as applied to States or units of general local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a juvenile justice and delinquency prevention plan;
+&emsp;&emsp;(A) any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State;
+
+&emsp;&emsp;(B) any law enforcement district or judicial enforcement district that—
+
+&emsp;&emsp;&emsp;(i) is established under applicable State law; and
+
+&emsp;&emsp;&emsp;(ii) has the authority to, in a manner independent of other State entities, establish a budget and raise revenues;
+
+&emsp;&emsp;(C) an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or
+
+&emsp;&emsp;(D) for the purposes of assistance eligibility, any agency of the government of the District of Columbia or the Federal Government that performs law enforcement functions in and for—
+
+&emsp;&emsp;&emsp;(i) the District of Columbia; or
+
+&emsp;&emsp;&emsp;(ii) any Trust Territory of the United States;
+
+&emsp;(9) the term “combination” as applied to States or units of local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a juvenile justice and delinquency prevention plan;
 
 &emsp;(10) the term “construction” means acquisition, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings, or any combination of such activities (including architects’ fees but not the cost of acquisition of land for buildings);
 
@@ -94,9 +110,13 @@ For purposes of this chapter—
 
 &emsp;(23) the term “nonprofit organization” means an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26.
 
-(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983.)
+(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
 
 #### Amendments
+
+1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+
+Par. (9). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(B)\], substituted “units of local government” for “units of general local government”.
 
 1992—Par. (16). Pub. L. 102–586, §1(c)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “the term ‘valid court order’ means a court order given by a juvenile court judge to a juvenile who has been brought before the court and made subject to a court order. The use of the word ‘valid’ permits the incarceration of juveniles for violation of a valid court order only if they received their full due process rights as guaranteed by the Constitution of the United States;”.
 
@@ -154,5 +174,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5633, 11851, 13791 of this title.
+This section is referred to in sections 3791, 5633, 11851, 13791 of this title.
 

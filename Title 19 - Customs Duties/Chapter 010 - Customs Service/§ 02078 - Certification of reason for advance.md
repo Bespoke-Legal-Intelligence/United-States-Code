@@ -2,7 +2,7 @@
 
 A certificate by the Commissioner of Customs stating the amount of an expenditure made from funds advanced and certifying that the confidential nature of the transaction involved renders it inadvisable to specify the details thereof or impracticable to furnish the payee's receipt shall be a sufficient voucher for the sum expressed to have been expended.
 
-(Mar. 28, 1928, ch. 266, §3, as added Aug. 7, 1939, ch. 566, §1, 53 Stat. 1263; amended Oct. 27, 1970, Pub. L. 91–513, title III, §1102(n)(2), 84 Stat. 1293.)
+(Mar. 28, 1928, ch. 266, §3, as added Aug. 7, 1939, ch. 566, §1, 53 Stat. 1263; amended Pub. L. 91–513, title III, §1102(n)(2), Oct. 27, 1970, 84 Stat. 1293.)
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section was formerly classified to section 529d of Title 31 prior to the general
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after the day immediately preceding the date of enactment of Pub. L. 91–513, which was approved on Oct. 27, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after the day immediately preceding the date of enactment of Pub. L. 91–513, which was approved on Oct. 27, 1970, see section1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
 
 #### Savings Provision
 

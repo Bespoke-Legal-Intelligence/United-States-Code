@@ -46,7 +46,7 @@ A grant may not be made under this section unless an application for such grant 
 
 &emsp;(3) demonstrate that the applicant has nationally recognized expertise in the area of domestic violence and a record of high quality service to victims of domestic violence, including a demonstration of support from advocacy groups, such as domestic violence State coalitions or recognized national domestic violence groups;
 
-&emsp;(4) demonstrates that the applicant has a commitment to diversity, and to the provisionof services to ethnic, racial, and non-English speaking minorities, in addition to older individuals and individuals with disabilities; and
+&emsp;(4) demonstrates that the applicant has a commitment to diversity, and to the provision of services to ethnic, racial, and non-English speaking minorities, in addition to older individuals and individuals with disabilities; and
 
 &emsp;(5) contain such other information as the Secretary may require.
 

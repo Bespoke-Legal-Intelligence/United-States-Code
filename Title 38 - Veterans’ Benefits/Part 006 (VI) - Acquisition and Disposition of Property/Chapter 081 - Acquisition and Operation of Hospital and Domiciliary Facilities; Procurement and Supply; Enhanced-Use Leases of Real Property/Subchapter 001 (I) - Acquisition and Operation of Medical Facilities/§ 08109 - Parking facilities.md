@@ -32,7 +32,7 @@
 
 (d)(1) For each medical facility where funds from the revolving fund described in subsection (h) of this section are expended for—
 
-&emsp;(A) a garage constructed or acquired by the Department at a cost exceeding $500,000 (or, inthe case of acquisition by lease, $100,000 per year); or
+&emsp;(A) a garage constructed or acquired by the Department at a cost exceeding $500,000 (or, in the case of acquisition by lease, $100,000 per year); or
 
 &emsp;(B) a project for the alteration of a garage at a cost exceeding $500,000,
 
@@ -56,15 +56,17 @@
 
 (i)(1) The expenditure of funds from the revolving fund may be made only for the construction, alteration, and acquisition (including site acquisition) of parking facilities at medical facilities and may be made only as provided for in appropriation Acts.
 
-(2) For the purpose of section 8104(a)(2) of this title, a bill, resolution, or amendment which provides that funds in the revolving fund (including any funds proposed in such bill, resolution, or amendment to be appropriated to the revolving fund) may be expended for a project involving a total expenditure of more than $3,000,000 for the construction, alteration, or acquisition (including site acquisition) of a parking facility or facilities at a medical facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
+(2) For the purpose of section 8104(a)(2) of this title, a bill, resolution, or amendment which provides that funds in the revolving fund (including any funds proposed in such bill, resolution, or amendment to be appropriated to the revolving fund) may be expended for a project involving a total expenditure of more than $4,000,000 for the construction, alteration, or acquisition (including site acquisition) of a parking facility or facilities at a medical facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5009; amended Pub. L. 99–576, title II, §223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered §8109 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, §3(b), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §207(b), Oct. 9, 1996, 110 Stat. 3190.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5009; amended Pub. L. 99–576, title II, §223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered §8109 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, §3(b), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §207(b), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 105–368, title VII, §705, Nov. 11, 1998, 112 Stat. 3350.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5004 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+1998—Subsec. (i)(2). Pub. L. 105–368 substituted “$4,000,000” for “$3,000,000”.
 
 1996—Subsec. (h)(3)(B). Pub. L. 104–262 substituted “construction documents” for “working drawings”.
 

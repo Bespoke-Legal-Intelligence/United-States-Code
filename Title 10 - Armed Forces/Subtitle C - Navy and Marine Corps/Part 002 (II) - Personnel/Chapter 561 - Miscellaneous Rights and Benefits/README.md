@@ -2,7 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[6141 to 6150. Repealed.\] |  |
+| [6141\.](%C2%A7%2006141%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
+| \[6142 to 6150. Repealed.\] |  |
 | [6151\.](%C2%A7%2006151%20-%20Higher%20retired%20grade%20and%20pay%20for%20members%20who%20serve%20satisfactorily%20under%20temporary%20appointments.md) | Higher retired grade and pay for members who serve satisfactorily under temporary appointments. |
 | [6152\.](%C2%A7%2006152%20-%20Emergency%20shore%20duty%20advance%20of%20funds.md) | Emergency shore duty: advance of funds. |
 | [6153\.](%C2%A7%2006153%20-%20Shore%20patrol%20duty%20payment%20of%20expenses.md) | Shore patrol duty: payment of expenses. |
@@ -22,6 +23,8 @@ I741962 Amendment
 See explanation of section 111(b) \[set out as 1962 Amendment in Historical and Revision Notes under section 2634 of this title\].
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title VI, §644(b)(2), Oct. 17, 1998, 112 Stat. 2049, added item 6141.
 
 1986—Pub. L. 99–661, div. A, title VI, §604(f)(1)(B)(iii), Nov. 14, 1986, 100 Stat. 3877, struck out item 6148 “Disability and death benefits: Naval Reserve and Marine Corps Reserve”.
 
@@ -52,7 +55,8 @@ General military law provisions, see section 1031 et seq. of this title.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06141 to 6147 - Repealed. Pub. L. 87&#8211;649, &sect;14c(37&#8211;43), Sept. 7, 1962, 76 Stat. 501](%C2%A7%2006141%20to%206147%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714c%2837%E2%80%9343%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20501.md)
+- [&sect; 06141 - Presentation of United States flag upon retirement](%C2%A7%2006141%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
+- [&sect; 06142 to 6147 - Repealed. Pub. L. 87&#8211;649, &sect;14c(38&#8211;43), Sept. 7, 1962, 76 Stat. 501](%C2%A7%2006142%20to%206147%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714c%2838%E2%80%9343%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20501.md)
 - [&sect; 06148 - Repealed. Pub. L. 99&#8211;661, div. A, title VI, &sect;604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877](%C2%A7%2006148%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93661%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7604%28f%29%281%29%28A%29%2C%20Nov.%2014%2C%201986%2C%20100%20Stat.%203877.md)
 - [&sect; 06149 - Repealed. Pub. L. 88&#8211;132, &sect;5(h)(3), Oct. 2, 1963, 77 Stat. 214](%C2%A7%2006149%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93132%2C%20%C2%A75%28h%29%283%29%2C%20Oct.%202%2C%201963%2C%2077%20Stat.%20214.md)
 - [&sect; 06150 - Repealed. Pub. L. 86&#8211;155, &sect;9(a)(1), Aug. 11, 1959, 73 Stat. 337](%C2%A7%2006150%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93155%2C%20%C2%A79%28a%29%281%29%2C%20Aug.%2011%2C%201959%2C%2073%20Stat.%20337.md)

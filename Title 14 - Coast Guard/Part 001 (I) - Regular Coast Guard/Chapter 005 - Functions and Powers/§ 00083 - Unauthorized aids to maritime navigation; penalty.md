@@ -2,7 +2,7 @@
 
 No person, or public body, or instrumentality, excluding the armed services, shall establish, erect, or maintain any aid to maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority to do so from the Coast Guard in accordance with applicable regulations. Whoever violates the provisions of this section or any of the regulations issued by the Secretary in accordance herewith shall be guilty of a misdemeanor and shall be fined not more than $100 for each offense. Each day during which such violation continues shall be considered as a new offense.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 500; May 14, 1974, Pub. L. 93–283, §1(1), 88 Stat. 139.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 500; Pub. L. 93–283, §1(1), May 14, 1974, 88 Stat. 139.)
 
 #### Historical and Revision Notes
 

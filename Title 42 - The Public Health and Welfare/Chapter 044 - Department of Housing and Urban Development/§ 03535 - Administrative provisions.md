@@ -56,7 +56,7 @@ Notwithstanding any other provision of law the Secretary is authorized to establ
 
 (2) For the purpose of Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for use of the United States.
 
-(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit ofthe fund and shall be disbursed upon order of the Secretary.
+(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit of the fund and shall be disbursed upon order of the Secretary.
 
 #### (<i>l</i>) Consultants; appointment of advisory committees; compensation and travel expenses
 
@@ -64,7 +64,7 @@ The Secretary is authorized to appoint, without regard to the civil service laws
 
 #### (m) Occupancy preference in rental housing for military personnel
 
-Whenever he shall determine that, because of location, or other considerations, any rental housing project assisted under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title I of the Housing and Urban Development Act of 1965 could ordinarily be expected substantially to serve the family housing needs of lower income military personnel serving on active duty, the Secretary is authorized to provide for or approve such preference or priority of occupancy of such project by such military personnel as he shall determine is appropriate to assure that the project will serve their needs on a continuing basis notwithstanding the frequency with which individual members of such personnel may be transferred or reassigned to new duty stations.
+Whenever he shall determine that, because of location, or other considerations, any rental housing project assisted under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title I of the Housing and Urban Development Act of 1965 could ordinarily be expected substantially to serve the family housing needs of lower income military personnel serving on active duty, the Secretary is authorized to provide for or approve such preference or priority of occupancy of such project by such military personnel as he shall determine is appropriate to assurethat the project will serve their needs on a continuing basis notwithstanding the frequency with which individual members of such personnel may be transferred or reassigned to new duty stations.
 
 #### (n) Day care center for children of employees of Department; establishment; fees and charges
 
@@ -98,7 +98,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(4) an estimate of the effect of the reorganization on the availability, accessibility, and quality of services provided for recipients of those services,
 
-> where any of the above factors cannot be quantified, the Secretary shall provide a statementon the nature and extent of those factors in the cost-benefit analysis.
+> where any of the above factors cannot be quantified, the Secretary shall provide a statement on the nature and extent of those factors in the cost-benefit analysis.
 
 #### (q) Waiver of regulations
 
@@ -124,7 +124,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(B) specify the grounds for approving the waiver; and
 
-&emsp;(C) be maintained in indexed form and made available for public inspection for not less than the 3-year period beginning on the date of the waiver.
+&emsp;(C) be maintained in indexed form and made available for public inspection for not lessthan the 3-year period beginning on the date of the waiver.
 
 #### (r) Program evaluation and monitoring
 
@@ -160,9 +160,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (B) Any amounts not used for grants, contracts, or interagency agreements under subparagraph (A) shall be used in a manner that increases and strengthens the ability of the Department to monitor and evaluate the programs under paragraph (2) and to collect and maintain data for such purposes through officers and employees of the Department.
 
-(5) Not later than December 31 of each year, the Secretary shall submit to the Congress a report regarding the use of amounts made available under this subsection during the fiscal year ending on September 30 of that year, including an analysis of the ability of the Department to monitor and evaluate the programs under paragraph (2) and a statement of any needs determined under paragraph (3).
-
-(6) There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 1993 and fiscal year 1994. Such amounts shall remain available until expended.
+(5) There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 1993 and fiscal year 1994. Such amounts shall remain available until expended.
 
 #### (s) Authorization of appropriations; allocations for staff and training
 
@@ -170,9 +168,9 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (2) Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] for housing consisting of 5 or more dwelling units.
 
-(3) Of the amounts authorized to be appropriated to carry out this section, not less than$5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
+(3) Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 
-(Pub. L. 89–174, §7, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–284, title VIII, §808(b)(2), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title VIII, §807(d), Aug. 1, 1968, 82 Stat. 544; Pub. L. 91–609, title I, §120(c), title IX, §§905, 906, Dec. 31, 1970, 84 Stat. 1775, 1809, 1811; Pub. L. 94–375, §§17(d), 21, Aug. 3, 1976, 90 Stat. 1077; Pub. L. 95–557, title III, §§316, 324, title IX, §908, Oct. 31, 1978, 92 Stat. 2099, 2103, 2129; Pub. L. 96–399, title III, §334(a), Oct. 8, 1980, 94 Stat. 1653; Pub. L. 98–479, title I, §104(b), Oct. 17, 1984, 98 Stat. 2225; Pub. L. 100–242, title V, §563(a), Feb. 5, 1988, 101 Stat. 1944; Pub. L. 101–235, title I, §§106, 123, 124, 141, Dec. 15, 1989, 103 Stat. 2000, 2021, 2022, 2030; Pub. L. 101–625, title IX, §954(a), Nov. 28, 1990, 104 Stat. 4420; Pub. L. 102–550, title IX, §§902(b), (c), 929, Oct. 28, 1992, 106 Stat. 3867, 3887; Pub. L. 103–233, title I, §104, Apr. 11, 1994, 108 Stat. 363.)
+(Pub. L. 89–174, §7, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–284, title VIII, §808(b)(2), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title VIII, §807(d), Aug. 1, 1968, 82 Stat. 544; Pub. L. 91–609, title I, §120(c), title IX, §§905, 906, Dec. 31, 1970, 84 Stat. 1775, 1809, 1811; Pub. L. 94–375, §§17(d), 21, Aug. 3, 1976, 90 Stat. 1077; Pub. L. 95–557, title III, §§316, 324, title IX, §908, Oct. 31, 1978, 92 Stat. 2099, 2103, 2129; Pub. L. 96–399, title III, §334(a), Oct. 8, 1980, 94 Stat. 1653; Pub. L. 98–479, title I, §104(b), Oct. 17, 1984, 98 Stat. 2225; Pub. L. 100–242, title V, §563(a), Feb. 5, 1988, 101 Stat. 1944; Pub. L. 101–235, title I, §§106, 123, 124, 141, Dec. 15, 1989, 103 Stat. 2000, 2021, 2022, 2030; Pub. L. 101–625, title IX, §954(a), Nov. 28, 1990, 104 Stat. 4420; Pub. L. 102–550, title IX, §§902(b), (c), 929, Oct. 28, 1992, 106 Stat. 3867, 3887; Pub. L. 103–233, title I, §104, Apr. 11, 1994, 108 Stat. 363; Pub. L. 105–362, title VII, §701(a), Nov. 10, 1998, 112 Stat. 3287.)
 
 #### References in Text
 
@@ -182,7 +180,7 @@ The classification laws, referred to in subsec. (c), are classified generally to
 
 The National Housing Act, referred to in subsecs. (m) and (s)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451, as amended. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715<i>l</i>, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits, and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
+The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451, as amended. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715<i>l</i>, 1715n, 1717 of Title 12, and section 1816 \[now 3732\] of Title 38, Veterans’ Benefits,and enacted provisions set out as notes under section 1466 of this title and section 1701q of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12 and Tables.
 
 The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (<i>o</i>)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
@@ -214,9 +212,11 @@ Subsec. (d) is comprised of the first sentence of subsec. (d) of section 7 of Pu
 
 #### Amendments
 
+1998—Subsec. (r)(5), (6). Pub. L. 105–362 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Not later than December 31 of each year, the Secretary shall submit to the Congress a report regarding the use of amounts made available under this subsection during the fiscal year ending on September 30 of that year, including an analysis of the ability of the Department to monitor and evaluate the programs under paragraph (2) and a statement of any needs determined under paragraph (3).”
+
 1994—Subsec. (i)(5). Pub. L. 103–233 struck out before last semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
-1992—Subsec. (i)(5). Pub. L. 102–550, §902(b)(1), inserted before semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
+1992—Subsec. (i)(5). Pub. L. 102–550, §902(b)(1), inserted before semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income orability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
 Subsec. (i)(6). Pub. L. 102–550, §902(b)(2), inserted before period “, including any provisions relating to the authority or requirements under paragraph (5)”.
 
@@ -295,6 +295,68 @@ Section 334(b) of Pub. L. 96–399 provided that: “The amendment made by subse
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–448 effective from and after a date, no more than 120 days following Aug. 1, 1968, as established by the Secretary of Housing and Urban Development, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of Title 12, Banks and Banking.
+
+#### Report on Single Family and Multifamily Homes
+
+Pub. L. 105–276, title V, §591, Oct. 21, 1998, 112 Stat. 2652, provided that:
+
+“(a)
+
+In General.—Not later than 12 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Inspector General of the Department of Housing and Urban Development shall submit to the Congress a report, which shall include information relating to—
+
+&emsp;“(1) with respect to 1- to 4-family dwellings owned by the Department of Housing and Urban Development, on a monthly average basis—
+
+&emsp;&emsp;“(A) the total number of units in those dwellings;
+
+&emsp;&emsp;“(B) the number and percentage of units in those dwellings that are unoccupied, and their average period of vacancy, and the number and percentage of units in those dwellings that have been unoccupied for more than 1 year, as of that date; and
+
+&emsp;&emsp;“(C) the number and percentage of units in those projects that are determined by the Inspector General to be substandard, based on any—
+
+&emsp;&emsp;&emsp;“(i) lack of hot or cold piped water;
+
+&emsp;&emsp;&emsp;“(ii) lack of working toilets;
+
+&emsp;&emsp;&emsp;“(iii) regular and prolonged breakdowns in heating;
+
+&emsp;&emsp;&emsp;“(iv) dangerous electrical problems;
+
+&emsp;&emsp;&emsp;“(v) unsafe hallways or stairways;
+
+&emsp;&emsp;&emsp;“(vi) leaking roofs, windows, or pipes;
+
+&emsp;&emsp;&emsp;“(vii) open holes in walls and ceilings; and
+
+&emsp;&emsp;&emsp;“(viii) indications of rodent infestation; and
+
+&emsp;“(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 \[12 U.S.C. 1701z–11\]) owned by the Department of Housing and Urban Development on a monthly average basis—
+
+&emsp;&emsp;“(A) the total number of units in those projects;
+
+&emsp;&emsp;“(B) the number and percentage of units in those projects that are unoccupied, and their average period of vacancy, and the number and percentage of units in those projects that have been unoccupied for more than 1 year, as of that date; and
+
+&emsp;&emsp;“(C) the number and percentage of units in those projects that are determined by the Inspector General to be substandard, based on any—
+
+&emsp;&emsp;&emsp;“(i) lack of hot or cold piped water;
+
+&emsp;&emsp;&emsp;“(ii) lack of working toilets;
+
+&emsp;&emsp;&emsp;“(iii) regular and prolonged breakdowns in heating;
+
+&emsp;&emsp;&emsp;“(iv) dangerous electrical problems;
+
+&emsp;&emsp;&emsp;“(v) unsafe hallways or stairways;
+
+&emsp;&emsp;&emsp;“(vi) leaking roofs, windows, or pipes;
+
+&emsp;&emsp;&emsp;“(vii) open holes in walls and ceilings; and
+
+&emsp;&emsp;&emsp;“(viii) indications of rodent infestation; and
+
+&emsp;“(3) the Department's plans and operations to address vacancies and substandard physical conditions described in paragraphs (1) and (2).
+
+“(b)
+
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Termination of Advisory Committees
 

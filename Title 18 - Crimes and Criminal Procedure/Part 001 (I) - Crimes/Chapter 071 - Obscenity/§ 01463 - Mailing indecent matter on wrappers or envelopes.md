@@ -4,7 +4,7 @@ All matter otherwise mailable by law, upon the envelope or outside cover or wrap
 
 Whoever knowingly deposits for mailing or delivery, anything declared by this section to be nonmailable matter, or knowingly takes the same from the mails for the purpose of circulating or disposing of or aiding in the circulation or disposition of the same, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 769; Aug. 12, 1970, Pub. L. 91–375, §6(j)(13), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 91–375, §6(j)(13), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

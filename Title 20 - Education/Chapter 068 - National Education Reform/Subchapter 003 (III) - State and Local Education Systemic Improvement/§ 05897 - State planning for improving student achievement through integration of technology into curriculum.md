@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to assist each State to plan effectively for improved studentlearning in all schools through the use of technology as an integral part of the State improvement plan described in section 5886 of this title.
+It is the purpose of this section to assist each State to plan effectively for improved student learning in all schools through the use of technology as an integral part of the State improvement plan described in section 5886 of this title.
 
 #### (b) Program authorized
 

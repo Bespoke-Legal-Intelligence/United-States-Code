@@ -36,6 +36,10 @@ A prior section 402 was renumbered section 401(b) of this title.
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “Not later than July 31 each year” for “At the end of each six-month period” and “the 12-month period ending on the preceding June 30” for “such six-month period”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Delegation of Functions
 
 Functions of President under subsec. (b)(2) delegated to Secretary of State by section 1–201(a)(24) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of Title 22, Foreign Relations and Intercourse.

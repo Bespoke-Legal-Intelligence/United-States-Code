@@ -6,7 +6,7 @@ There is hereby established an Inland Waterway Users Board (hereinafter in this 
 
 #### (b) Duties
 
-The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. The Users Board shall, by December 31, 1987, and annually thereafter file such recommendations with the Secretary and with the Congress.
+The Users Board shall meet at least semi-annually to develop and make recommendations to the Secretary regarding construction and rehabilitation priorities and spending levels on the commercial navigational features and components of the inland waterways and inland harbors of the United States for the following fiscal years. Any advice or recommendation made by the Users Board to the Secretary shall reflect the independent judgment of the Users Board. The Users Board shall, by December 31, 1987, andannually thereafter file such recommendations with the Secretary and with the Congress.
 
 #### (c) Administration
 

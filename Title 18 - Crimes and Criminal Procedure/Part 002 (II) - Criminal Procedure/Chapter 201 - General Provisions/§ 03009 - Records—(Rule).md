@@ -4,7 +4,7 @@
 
 Keeping of records by district court clerks and magistrates, rule 55.
 
-(June 25, 1948, ch. 645, 62 Stat. 815; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(4), 82 Stat. 1115.)
+(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 90–578, title III, §301(a)(4), Oct. 17, 1968, 82 Stat. 1115.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 If the Secretary determines that a person has knowingly adopted a material scheme or device to obtain catastrophic risk, additional coverage, or noninsured assistance benefits under this chapter to which the person is not entitled, has evaded this chapter, or has acted with the purposes of evading this chapter, the person shall be ineligible to receive all benefits applicable to the crop year for which the scheme or device was adopted. The authority provided by this section shall be in addition to, and shall not supplant, the authority provided by section 1506(n) of this title.
 
-(Feb. 16, 1938, ch. 30, title V, §521, as added Oct. 13, 1994, Pub. L. 103–354, title I, §114, 108 Stat. 3203.)
+(Feb. 16, 1938, ch. 30, title V, §521, as added Pub. L. 103–354, title I, §114, Oct. 13, 1994, 108 Stat. 3203.)
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ In General.—After notice and an opportunity for a hearing, a person found by t
 
 (b)
 
-Compromise.—The Board may compromise, modify, or remit, with or without consideration, a civil penalty until the assessment is referred to the Attorney General.
+Compromise.—The Board may compromise, modify, or remit, with or without consideration,a civil penalty until the assessment is referred to the Attorney General.
 
 (c)
 

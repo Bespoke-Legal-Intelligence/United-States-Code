@@ -68,7 +68,7 @@ Section 1. <i>Coordination by the Department of Commerce</i>. (a) The Secretary 
 
 (3) on October 1, 1992, any recommendations which the Secretary may have for additional measures, including proposed legislation, needed to achieve the full economic benefits of metric usage.
 
-Sec. 2. <i>Department and Agency Responsibilities</i>. All executive branch departments and agencies of the UnitedStates Government are directed to take all appropriate measures within their authority to carry out the provisions of this order. Consistent with this mission, the head of each executive department and agency shall:
+Sec. 2. <i>Department and Agency Responsibilities</i>. All executive branch departments and agencies of the United States Government are directed to take all appropriate measures within their authority to carry out the provisions of this order. Consistent with this mission, the head of each executive department and agency shall:
 
 (a) use, to the extent economically feasible by September 30, 1992, or by such other date or dates established by the department or agency in consultation with the Secretary of Commerce, the metric system of measurement in Federal Government procurements, grants, and other business-related activities. Other business-related activities include all use of measurement units in agency programs and functions related to trade, industry, and commerce.
 

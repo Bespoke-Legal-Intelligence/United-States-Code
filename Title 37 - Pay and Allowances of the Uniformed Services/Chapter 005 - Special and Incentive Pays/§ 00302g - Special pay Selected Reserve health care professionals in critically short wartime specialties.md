@@ -22,15 +22,17 @@ Inapplicability of Discharge in Bankruptcy.—A discharge in bankruptcy under ti
 
 (f)
 
-Termination of Agreement Authority.—No agreement under this section may be entered into after September 30, 1999.
+Termination of Agreement Authority.—No agreement under this section may be entered into after December 31, 1999.
 
-(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785.)
+(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(a), Oct. 17, 1998, 112 Stat. 2038.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 100–456, div. A, title VI, §613, Sept. 29,1988, 102 Stat. 1981, as amended, which was set out as a note under section 302 of this title, prior to repeal by Pub. L. 104–106, §614(c)(1).
+Provisions similar to those in this section were contained in Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended, which was set out as a note under section 302 of this title, prior to repeal by Pub. L. 104–106, §614(c)(1).
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
 1997—Subsec. (f). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
 

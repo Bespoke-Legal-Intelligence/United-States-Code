@@ -36,7 +36,7 @@ The section is reorganized and restated for clarity and conciseness.
 
 The word “allowances” is substituted for “additional compensation” as a more apt term and for consistency.
 
-In subsection (a), the words “Executive agency” are substituted for “executive departments, independentestablishments, and wholly owned Government corporations” in view of the definition of “Executive agency” in section 105. The exception of a “Government controlled corporation” is added to preserve the application to “wholly owned Government corporation”.
+In subsection (a), the words “Executive agency” are substituted for “executive departments, independent establishments, and wholly owned Government corporations” in view of the definition of “Executive agency” in section 105. The exception of a “Government controlled corporation” is added to preserve the application to “wholly owned Government corporation”.
 
 Subsection (b) is based on the second proviso of former section 118h and is restated to reflect the provisions of sections 511(b), (c)(7) and 521 of the Act of Sept. 6, 1960, Pub. L. 86–707, 74 Stat. 800–802. The reference to section 204 of the Act of Apr. 20, 1948, is omitted as obsolete, since the section was applicable only to fiscal year 1949.
 
@@ -66,7 +66,7 @@ By virtue of the authority vested in me by section 207 of the Independent Office
 
 Section 101.
 
-Definitions. As used in this Part, (a) the words “foreign areas” mean all areas exclusive of (1) the forty-eight states of the United States, (2) the District of Columbia, and (3) non-foreign areas as defined in section 201 of this order, and (b) the words “section 207 of the Act” mean section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948, Public Law 491, 80th Congress, as amended by section 104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948, Public Law 862, 80th Congress.
+Definitions. As used in this Part, (a) the words “foreign areas” mean all areas exclusive of (1)the forty-eight states of the United States, (2) the District of Columbia, and (3) non-foreign areas as defined in section 201 of this order, and (b) the words “section 207 of the Act” mean section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948, Public Law 491, 80th Congress, as amended by section 104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948, Public Law 862, 80th Congress.
 
 Sec. 102.
 
@@ -156,7 +156,7 @@ Coordination. The Office of Personnel Management shall define the extent to whic
 
 Sec. 207.
 
-Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every Executive department, independent establishment, and wholly owned Government corporation shall pay (a) a non-foreign area post differential fixed under section 202 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed, and (b) a non-foreign area cost-of-living allowance fixed under section 205 hereof to each of its employees whose basiccompensation is fixed by statute and who is located at the post for which that allowance has been fixed.
+Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every Executive department, independent establishment, and wholly owned Government corporation shall pay (a) a non-foreign area post differential fixed under section 202 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed, and (b) a non-foreign area cost-of-living allowance fixed under section 205 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that allowance has been fixed.
 
 Sec. 208.
 
@@ -206,5 +206,5 @@ Ex. Ord. No. 12070, June 30, 1978, 43 F.R. 28977, as amended by Ex. Ord. No. 121
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5307 of this title; title 10 section 1603; title 20 section 906; title 22 section 2506; title 39 section 1005.
+This section is referred to in sections 5307, 5545b of this title; title 10 section 1603; title 20 section 906; title 22 section 2506; title 39 section 1005.
 

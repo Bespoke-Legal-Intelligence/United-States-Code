@@ -60,7 +60,7 @@ In subsection (c), the words “(other than for training)” are inserted for cl
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–587, §5205(a), substituted “of pay grade O–6 or below” for “of pay grade O–3, O–4,O–5, or O–6” in text and amended table by substituting “O–4 and below” for “O–4” and striking out line providing monthly rate of $50 for pay grade O–3.
+1992—Subsec. (a). Pub. L. 102–587, §5205(a), substituted “of pay grade O–6 or below” for “of pay grade O–3, O–4, O–5, or O–6” in text and amended table by substituting “O–4 and below” for “O–4” and striking out line providing monthly rate of $50 for pay grade O–3.
 
 Subsec. (c). Pub. L. 102–587, §5205(b), substituted “in each of the pay grades O–3 and below,” for “in pay grade O–3,”.
 
@@ -76,5 +76,5 @@ Subsec. (f). Pub. L. 96–470 substituted provision requiring the Secretary of D
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on October 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on October 22, 1968, see section 6 of Pub. L. 90–623, set out as anote under section 5334 of Title 5, Government Organization and Employees.
 

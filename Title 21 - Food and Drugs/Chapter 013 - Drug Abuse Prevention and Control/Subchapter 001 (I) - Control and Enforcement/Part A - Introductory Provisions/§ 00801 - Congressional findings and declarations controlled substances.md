@@ -2,7 +2,7 @@
 
 The Congress makes the following findings and declarations:
 
-(1) Many of the drugs included within this subchapter have a useful and legitimate medical purpose and are necessary to maintain the health and general welfare of the American people.
+(1) Many of the drugs included within this subchapter have a useful and legitimate medical purpose and are necessary to maintain thehealth and general welfare of the American people.
 
 (2) The illegal importation, manufacture, distribution, and possession and improper use of controlled substances have a substantial and detrimental effect on the health and general welfare of the American people.
 
@@ -37,6 +37,14 @@ Section 704 of title II of Pub. L. 91–513 provided that:
 “(b) Parts A, B, E, and F of this title \[Parts A, B, E, and F of this subchapter\], section 702 \[set out as a note under section 321 of this title\], this section, and sections 705 through 709 \[sections 901 to 904 of this title and note set out below\], shall become effective upon enactment \[Oct. 27, 1970\].
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. C, title VIII, §801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title \[enacting section 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22\] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
+
+Pub. L. 105–277, div. C, title VIII, subtitle G (§§871, 872), §871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §1, Nov. 10, 1998, 112 Stat. 3271, provided that such subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
+
+Pub. L. 105–277, div. E, §1, Oct. 21, 1998, 112 Stat. 2681–759, provided that: “This division \[amending sections 841 and 960 of this title and section 13705 of Title 42, The Public Health and Welfare\] may be cited as the ‘Methamphetamine Trafficking Penalty Enhancement Act of 1998’.”
 
 #### Short Title of 1996 Amendments
 
@@ -422,7 +430,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 \[Chairman; Vice Chairman; compensation of members; meetings\] (1) The President shall designate one of the members of the Commission as Chairman and one as Vice Chairman. Seven members of the Commission shall constitute a quorum, but a lesser number may conduct hearings.
 
-“(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, andother necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
+“(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
 
 “(3) The Commission shall meet at the call of the Chairman or at the call of a majority of the members thereof.
 
@@ -476,7 +484,7 @@ Ex. Ord. No. 11676, July 27, 1972, 37 F.R. 15125, which established the Office o
 
 Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, provided:
 
-Reorganization Plan No. 2 of 1973 \[set out in the Appendix to Title 5, Government Organization and Employees\], which becomes effective on July 1, 1973, among other things establishes a Drug Enforcement Administration in the Department of Justice. In my message to the Congress transmitting that plan, I stated that all functions of the Office for Drug Abuse Law Enforcement (established pursuant to Executive Order No. 11641 of January 28, 1972) and the Office of National Narcotics Intelligence (established pursuant to Executive Order No. 11676 of July 27, 1972) would, together with other related functions, be merged in the new Drug Enforcement Administration.
+Reorganization Plan No. 2 of 1973 \[set out in the Appendix to Title 5, Government Organization and Employees\], which becomes effective on July 1, 1973,among other things establishes a Drug Enforcement Administration in the Department of Justice. In my message to the Congress transmitting that plan, I stated that all functions of the Office for Drug Abuse Law Enforcement (established pursuant to Executive Order No. 11641 of January 28, 1972) and the Office of National Narcotics Intelligence (established pursuant to Executive Order No. 11676 of July 27, 1972) would, together with other related functions, be merged in the new Drug Enforcement Administration.
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and laws of the United States, including section 5317 of title 5 of the United States Code, as amended, it is hereby ordered as follows:
 

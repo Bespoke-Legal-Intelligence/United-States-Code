@@ -32,7 +32,7 @@ Sexual Harassment Defined.—In this section, the term “sexual harassment” m
 
 &emsp;(1) Conduct (constituting a form of sex discrimination) that—
 
-&emsp;&emsp;(A) involves unwelcome sexual advances, requests for sexual favors, and deliberate orrepeated offensive comments or gestures of a sexual nature when—
+&emsp;&emsp;(A) involves unwelcome sexual advances, requests for sexual favors, and deliberate or repeated offensive comments or gestures of a sexual nature when—
 
 &emsp;&emsp;&emsp;(i) submission to such conduct is made either explicitly or implicitly a term or condition of a person's job, pay, or career;
 

@@ -68,7 +68,7 @@
 
 &emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
 
-(July 1, 1944, ch. 373, title V, §561, as added July 10, 1992, Pub. L. 102–321, title I, §119, 106 Stat. 349; amended June 10, 1993, Pub. L. 103–43, title XX, §2017(1), 107 Stat. 218.)
+(July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218.)
 
 #### References in Text
 

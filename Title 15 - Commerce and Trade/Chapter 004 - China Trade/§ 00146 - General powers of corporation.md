@@ -12,7 +12,7 @@ In addition to the powers granted elsewhere in this chapter, a China Trade Act c
 
 (e) May make contracts and incur liabilities;
 
-(f) May acquire and hold real or personal property, necessary to effect the purpose for which it is formed, and dispose of such property when no longer needed for such purposes;
+(f) May acquire and hold real or personal property, necessary to effect the purpose for which itis formed, and dispose of such property when no longer needed for such purposes;
 
 (g) May borrow money and issue its notes, coupon or registered bonds, or other evidences of debt, and secure their payment by a mortgage of its property; and
 

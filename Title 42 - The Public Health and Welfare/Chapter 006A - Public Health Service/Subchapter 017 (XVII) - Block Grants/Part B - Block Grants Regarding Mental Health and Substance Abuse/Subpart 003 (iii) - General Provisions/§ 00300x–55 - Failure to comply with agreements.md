@@ -18,7 +18,7 @@ Subject to subsection (e) of this section, if the Secretary determines that a St
 
 #### (1) In general
 
-&emsp;Subject to subsections (e) and (g)(3) of this section, the Secretary may withhold paymentsdue under section 300x or 300x–21 of this title if the Secretary determines that the State involved is not expending amounts received under the program involved in accordance with the agreements required under the program.
+&emsp;Subject to subsections (e) and (g)(3) of this section, the Secretary may withhold payments due under section 300x or 300x–21 of this title if the Secretary determines that the State involved is not expending amounts received under the program involved in accordance with the agreements required under the program.
 
 #### (2) Termination of withholding
 
@@ -66,7 +66,7 @@ Before taking action against a State under any of subsections (a) through (c) of
 
 &emsp;The Secretary may not institute proceedings under subsection (c) of this section unless the Secretary has conducted an investigation concerning whether the State has expended payments under the program involved in accordance with the agreements required under the program. Any such investigation shall be conducted within the State by qualified investigators.
 
-(July 1, 1944, ch. 373, title XIX, §1945, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 405.)
+(July 1, 1944, ch. 373, title XIX, §1945, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 405.)
 
 #### Section Referred to in Other Sections
 

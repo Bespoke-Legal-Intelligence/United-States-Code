@@ -84,7 +84,7 @@ In carrying out its functions, powers, and responsibilities, the Board—
 
 #### (4) Conflict of interest
 
-&emsp;A voting member of the Board shall be considered a special Government employee for the purposes of the Ethics in Government Act of 1978.
+&emsp;A voting member of the Board shall be considered a special Government employee for thepurposes of the Ethics in Government Act of 1978.
 
 #### (g) Secretarial appointments
 

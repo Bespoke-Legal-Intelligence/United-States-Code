@@ -58,7 +58,7 @@ The following sanctions shall be imposed pursuant to any order issued under subs
 
 #### (C) Extension of period
 
-&emsp;&emsp;After the end of the period described in subparagraph (A), the President may delay,for up to an additional 90 days, the effective date of an order issued under subsection (b) of this section imposing any sanction on a foreign person if the President determines, and certifies in writing to the Congress, that the appropriate foreign government is in the process of taking actions described in subparagraph (B).
+&emsp;&emsp;After the end of the period described in subparagraph (A), the President may delay, for up to an additional 90 days, the effective date of an order issued under subsection (b) of this section imposing any sanction on a foreign person if the President determines, and certifies in writing to the Congress, that the appropriate foreign government is in the process of taking actions described in subparagraph (B).
 
 #### (3) Report to Congress
 

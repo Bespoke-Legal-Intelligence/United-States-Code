@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-The Secretary of the Treasury, in consultation with the Secretary of State, shall establish a Global Climate Change Response Fund to act asa mechanism for United States contributions to assist global efforts in mitigating and adapting to global climate change.
+The Secretary of the Treasury, in consultation with the Secretary of State, shall establish a Global Climate Change Response Fund to act as a mechanism for United States contributions to assist global efforts in mitigating and adapting to global climate change.
 
 #### (b) Restrictions on deposits
 

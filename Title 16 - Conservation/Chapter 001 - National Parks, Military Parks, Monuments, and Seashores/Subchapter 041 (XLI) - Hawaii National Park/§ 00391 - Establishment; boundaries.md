@@ -84,6 +84,10 @@ The last sentence of this section is from section 2 of act May 1, 1922. The rema
 
 1928—Act Apr. 11, 1928, amended subd. First generally.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–380, §1, Nov. 12, 1998, 112 Stat. 3401, provided that: “This Act \[amending section 391b of this title\] may be cited as the ‘Hawaii Volcanoes National Park Adjustment Act of 1998’.”
+
 #### Admission of Hawaii as State
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.

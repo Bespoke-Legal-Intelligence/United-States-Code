@@ -14,7 +14,7 @@ The terms and conditions of the Settlement Agreement may be modified by mutual a
 
 &emsp;(1) is not inconsistent with this subchapter; and
 
-&emsp;(2) does not diminish or impair any right or benefit secured to the Northern CheyenneTribe, the Northern Cheyenne allottees, or their successors in interest by or pursuant to any provision of this subchapter.
+&emsp;(2) does not diminish or impair any right or benefit secured to the Northern Cheyenne Tribe, the Northern Cheyenne allottees, or their successors in interest by or pursuant to any provision of this subchapter.
 
 #### (d) Enforcement
 

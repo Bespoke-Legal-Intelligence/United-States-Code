@@ -42,7 +42,7 @@ In carrying out the provisions of this section, the Administrator may—
 
 The Administrator shall conduct a research program to identify, characterize, and predict air emissions related to the production, distribution, storage, and use of clean alternative fuels to determine the risks and benefits to human health and the environment relative to those from using conventional gasoline and diesel fuels. The Administrator shall consult with other Federal agencies to ensure coordination and to avoid duplication of activities authorized under this subsection.
 
-(July 14, 1955, ch. 360, title I, §104, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 487; amended Dec. 5, 1969, Pub. L. 91–137, 83 Stat. 283; Dec. 31, 1970, Pub. L. 91–604, §§2(b), (c), 13(a), 15(c)(2), 84 Stat. 1676, 1677, 1709, 1713; Apr. 9, 1973, Pub. L. 93–15, §1(a), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, §13(a), 88 Stat. 265; Nov. 15, 1990, Pub. L. 101–549, title IX, §901(d), 104 Stat. 2706.)
+(July 14, 1955, ch. 360, title I, §104, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 487; amended Pub. L. 91–137, Dec. 5, 1969, 83 Stat. 283; Pub. L. 91–604, §§2(b), (c), 13(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1676, 1677, 1709, 1713; Pub. L. 93–15, §1(a), Apr. 9, 1973, 87 Stat. 11; Pub. L. 93–319, §13(a), June 22, 1974, 88 Stat. 265; Pub. L. 101–549, title IX, §901(d), Nov. 15, 1990, 104 Stat. 2706.)
 
 #### Codification
 
@@ -58,7 +58,7 @@ A prior section 104 of act July 14, 1955, was renumbered section 105 by Pub. L. 
 
 1990—Subsecs. (a)(1), (b)(1). Pub. L. 101–549, §901(d)(1), substituted “cost-effective” for “low-cost”.
 
-Subsec. (c). Pub. L. 101–549, §901(d)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) readas follows: “For the purposes of this section there are authorized to be appropriated $75,000,000 for the fiscal year ending June 30, 1971, $125,000,000 for the fiscal year ending June 30, 1972, $150,000,000 for the fiscal year ending June 30, 1973, and $150,000,000 for the fiscal year ending June 30, 1974, and $150,000,000 for the fiscal year ending June 30, 1975. Amounts appropriated pursuant to this subsection shall remain available until expended.”
+Subsec. (c). Pub. L. 101–549, §901(d)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section there are authorized to be appropriated $75,000,000 for the fiscal year ending June 30, 1971, $125,000,000 for the fiscal year ending June 30, 1972, $150,000,000 for the fiscal year ending June 30, 1973, and $150,000,000 for the fiscal year ending June 30, 1974, and $150,000,000 for the fiscal year ending June 30, 1975. Amounts appropriated pursuant to this subsection shall remain available until expended.”
 
 1974—Subsec. (c). Pub. L. 93–319 authorized appropriation of $150,000,000 for fiscal year ending June 30, 1975.
 

@@ -22,7 +22,7 @@
 
 &emsp;(B) in a farm cooperative training course; or
 
-&emsp;(C) in a course described in section <sup>1</sup> subsection (g).
+&emsp;(C) in a course described in subsection (g).
 
 (e) The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
 
@@ -40,9 +40,11 @@
 
 (g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Transportation and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
 
-(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293.)
+(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendments
+
+1998—Subsec. (d)(2)(C). Pub. L. 105–368 struck out “section” before “subsection (g)”.
 
 1997—Subsec. (a)(4). Pub. L. 105–114, §401(d), inserted “(including open circuit television)” before “leading to a standard”.
 
@@ -61,6 +63,4 @@ Section not applicable to any person receiving educational assistance for pursui
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3034, 3241 of this title; title 10 section 16136.
-
-<i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

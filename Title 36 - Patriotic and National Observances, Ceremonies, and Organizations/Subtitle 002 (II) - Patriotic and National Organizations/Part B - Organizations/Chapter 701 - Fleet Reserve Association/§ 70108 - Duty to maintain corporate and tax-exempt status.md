@@ -1,0 +1,34 @@
+### §70108. Duty to maintain corporate and tax-exempt status
+
+(a)
+
+Corporate Status.—The corporation shall maintain its status as a corporation incorporated under the laws of Delaware.
+
+(b)
+
+Tax-Exempt Status.—The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1348.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70108(a)
+
+36:5608(e).
+
+Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§1808(e), 1814 (related to duty to maintain status), 110 Stat. 2761, 2762.
+
+70108(b)
+
+36:5613 (related to duty to maintain status).
+
+In subsection (a), the words “organized and” and “the State of” are omitted as unnecessary.
+

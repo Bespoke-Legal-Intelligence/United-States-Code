@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
-&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established asearly in the acquisition process as practicable (preferably during contract negotiations) and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall be based upon consideration of all of the following factors:
+&emsp;(E) In the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations) and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall be based upon consideration of all of the following factors:
 
 &emsp;&emsp;(i) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (15 U.S.C. 638 note), and the declaration of policy in section 2 of the Small Business Act (15 U.S.C. 631).
 
@@ -102,7 +102,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1994—Subsec. (b)(1). Pub. L. 103–355 inserted before semicolon at end “and providing that, in the case of a contract for a commercial item, the item shall be presumed to be developed at private expense unless shown otherwise in accordance with section 2321(f)”.
 
-1989—Subsec. (a)(4). Pub. L. 101–189 struck out par. (4) which provided that for purposes of this subsection, the term “Federal Acquisition Regulation” means the single system of Government-wide procurement regulations as defined in section 4(4) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)).
+1989—Subsec. (a)(4). Pub. L. 101–189 struck out par. (4) which provided that for purposes of this subsection, theterm “Federal Acquisition Regulation” means the single system of Government-wide procurement regulations as defined in section 4(4) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)).
 
 1987—Subsec. (a)(1). Pub. L. 100–180, §808(a)(1), inserted at end “Such regulations also may not impair the right of a contractor or subcontractor to receive from a third party a fee or royalty for the use of technical data pertaining to an item or process developed exclusively at private expense by the contractor or subcontractor, except as otherwise specifically provided by law.”
 
@@ -174,7 +174,7 @@ Regulations.—(1) Not later than September 15, 1992, the Secretary of Defense s
 
 “(b)
 
-Government-Industry Committee.—(1) Not later than 60 days after the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary of Defense shall appoint a government-industry committee for the purpose of developing regulations to recommend to the Secretary of Defense for purposes of carrying out subsection (a).
+Government-Industry Committee.—(1) Not later than 60 days after the date of the enactment of this Act\[Dec. 5, 1991\], the Secretary of Defense shall appoint a government-industry committee for the purpose of developing regulations to recommend to the Secretary of Defense for purposes of carrying out subsection (a).
 
 “(2) The membership of the committee shall include, at a minimum, representatives of the following:
 

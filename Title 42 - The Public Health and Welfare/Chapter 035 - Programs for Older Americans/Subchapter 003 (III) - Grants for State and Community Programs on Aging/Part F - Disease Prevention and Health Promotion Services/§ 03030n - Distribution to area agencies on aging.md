@@ -6,7 +6,7 @@ The State agency shall give priority, in carrying out this part, to areas of the
 
 &emsp;(2) in which there are a large number of older individuals who have the greatest economic need for such services.
 
-(Pub. L. 89–73, title III, §362, as added Pub. L. 100–175, title I, §143(c), Nov. 29, 1987, 101 Stat. 948;amended Pub. L. 102–375, title I, §102(b)(10)(G), Sept. 30, 1992, 106 Stat. 1202.)
+(Pub. L. 89–73, title III, §362, as added Pub. L. 100–175, title I, §143(c), Nov. 29, 1987, 101 Stat. 948; amended Pub. L. 102–375, title I, §102(b)(10)(G), Sept. 30, 1992, 106 Stat. 1202.)
 
 #### Amendments
 

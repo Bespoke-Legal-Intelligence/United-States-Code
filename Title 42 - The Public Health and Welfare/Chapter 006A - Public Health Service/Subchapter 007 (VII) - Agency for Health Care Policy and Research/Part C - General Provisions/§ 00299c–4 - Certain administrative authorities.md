@@ -52,7 +52,7 @@ The Secretary, in carrying out this subchapter, may secure, from time to time an
 
 The Administrator, in carrying out this subchapter, may accept voluntary and uncompensated services.
 
-(July 1, 1944, ch. 373, title IX, §925, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2203; amended Sept. 23, 1996, Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(B), 110 Stat. 2759.)
+(July 1, 1944, ch. 373, title IX, §925, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2203; amended Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(B), Sept. 23, 1996, 110 Stat. 2759.)
 
 #### References in Text
 

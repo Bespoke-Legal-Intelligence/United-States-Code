@@ -8,7 +8,7 @@ Not later than March 1 of each year beginning in 1996, the Trade Representative 
 
 &emsp;(3) the total number of personnel employed or retained by the Secretariat of the WTO, and the number of professional, administrative, and support staff of the WTO;
 
-&emsp;(4) for each personnel category described in paragraph (3), the number of citizens of each country, and the average salary of the personnel, in that category;
+&emsp;(4) for each personnel category described in paragraph (3), the number of citizens of eachcountry, and the average salary of the personnel, in that category;
 
 &emsp;(5) each report issued by a panel or the Appellate Body in a dispute settlement proceeding regarding Federal or State law, and any efforts by the Trade Representative to provide for implementation of the recommendations contained in a report that is adverse to the United States;
 

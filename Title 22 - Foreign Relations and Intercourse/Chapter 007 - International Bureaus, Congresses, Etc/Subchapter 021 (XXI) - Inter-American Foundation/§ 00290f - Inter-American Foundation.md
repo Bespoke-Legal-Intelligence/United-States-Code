@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is created as an agency of the United States of America a body corporate to be knownas the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
+There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
 
 #### (b) Congressional declaration of purpose
 
@@ -46,7 +46,7 @@ The Foundation, as a corporation—
 
 &emsp;(8) may, with the consent of any board, corporation, commission, independent establishment, or executive department of the Government, including any field service thereof, avail itself of the use of information, services, facilities, officers, and employees thereof in carrying out the provisions of this section;
 
-&emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest, grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
+&emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest,grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
 
 &emsp;(10) may sue and be sued, complain, and defend, in its corporate name in any court of competent jurisdiction; and
 
@@ -92,7 +92,7 @@ The Foundation shall be a nonprofit corporation and shall have no capital stock.
 
 #### (<i>o</i>) Personnel; service in foreign governments or agencies
 
-When approved by the Foundation, in furtherance of its purpose, the officers and employees of the Foundation may accept and hold offices or positions to which no compensation is attached with governments or governmental agencies of foreign countries.
+When approved by the Foundation, in furtherance of its purpose, the officers and employees of the Foundation may accept and hold officesor positions to which no compensation is attached with governments or governmental agencies of foreign countries.
 
 #### (p) Service of employees of other agencies in the Foundation; rights and privileges
 
@@ -108,7 +108,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (s) Authorization of appropriations
 
-(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of$50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
+(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
 (2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) the establishment of control over existing Government facilities for the treatment and storage of nuclear wastes, including all containers, casks, buildings, vehicles, equipment, and all other materials associated with such facilities;
 
-&emsp;&emsp;(B) the establishment of control over all existing nuclear waste in the possession or control of the Government and all commercial nuclear waste presently stored on other than the site of a licensed nuclear power electric generating facility, except thatnothing in this paragraph shall alter or effect title to such waste;
+&emsp;&emsp;(B) the establishment of control over all existing nuclear waste in the possession or control of the Government and all commercial nuclear waste presently stored on other than the site of a licensed nuclear power electric generating facility, except that nothing in this paragraph shall alter or effect title to such waste;
 
 &emsp;&emsp;(C) the establishment of temporary and permanent facilities for storage, management, and ultimate disposal of nuclear wastes;
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) actual damages proximately caused by such violation. If an award of actual damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under sections 2, 2a, and 4 of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award; and
 
-&emsp;(B) in the case of any action arising from a willful and intentional violation in the execution of an order on the floor of a contract market, punitive or exemplary damages equal to no more than two times the amount of such actual damages. If an award of punitive or exemplary damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under sections 2, 2a, and 4 of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchantonly if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker's violation.
+&emsp;(B) in the case of any action arising from a willful and intentional violation in the execution of an order on the floor of a contract market, punitive or exemplary damages equal to no more than two times the amount of suchactual damages. If an award of punitive or exemplary damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under sections 2, 2a, and 4 of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchant only if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker's violation.
 
 (2)(A) An action may be brought under this subsection by any one or more persons described in this subsection for and in behalf of such person or persons and other persons similarly situated, if the Commission permits such actions pursuant to a final rule issued by the Commission.
 
@@ -34,9 +34,9 @@ Unless the party against whom a reparation order has been issued shows to the sa
 
 #### (g) Effective date
 
-The provisions of this section shall not become effective until fifteen months after October 23, 1974: <i>Provided</i>, That claims which arisewithin one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.
+The provisions of this section shall not become effective until fifteen months after October 23, 1974: <i>Provided</i>, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.
 
-(Sept. 21, 1922, ch. 369, §14, as added Oct. 23, 1974, Pub. L. 93–463, title I, §106, 88 Stat. 1393; amended Apr. 16, 1975, Pub. L. 94–16, §3, 89 Stat. 77; Sept. 30, 1978, Pub. L. 95–405, §21, 92 Stat. 875; Jan. 11, 1983, Pub. L. 97–444, title II, §231, 96 Stat. 2319; Oct. 28, 1992, Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), 106 Stat. 3607, 3615, 3617, 3625.)
+(Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625.)
 
 #### References in Text
 

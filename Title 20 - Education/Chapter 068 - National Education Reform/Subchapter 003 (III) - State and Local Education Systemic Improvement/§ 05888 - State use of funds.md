@@ -8,7 +8,7 @@ In the first year for which a State educational agency receives an allotment und
 
 &emsp;&emsp;(A) in accordance with section 5889(a) of this title, to local educational agencies for the development or implementation of local improvement plans; and
 
-&emsp;&emsp;(B) in accordance with section 5889(b) of this title, to improve educator preservice programs and for professional development activities consistent with the State improvement plan;
+&emsp;&emsp;(B) in accordance with section 5889(b) of this title, to improve educator preserviceprograms and for professional development activities consistent with the State improvement plan;
 
 &emsp;(2) if the amount made available under section 5883 of this title for such year is less than $50,000,000, may use such funds for the subgrants described in paragraph (1); and
 

@@ -283,7 +283,6 @@
 | (b) | Procedures for receipt of disclosure reports. |
 | (c) | Effect on agencies. |
 | (d) | Definitions. |
-| (e) | Report. |
 | [1831n.](%C2%A7%2001831n%20-%20Accounting%20objectives%2C%20standards%2C%20and%20requirements.md) | Accounting objectives, standards, and requirements. |
 | (a) | In general. |
 | (b) | Uniform accounting of capital standards. |

@@ -8,7 +8,7 @@ Whoever knowingly so deposits or causes to be delivered as aforesaid, any commun
 
 Whoever, with intent to extort from any person any money or other thing of value, knowingly so deposits or causes to be delivered, as aforesaid, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to injure the property or reputation of the addressee or of another, or the reputation of a deceased person, or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 741; Aug. 12, 1970, Pub. L. 91–375, §6(j)(7), 84 Stat. 777; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330016(1)(G), (H), (K), 330021(2), 108 Stat. 2147, 2150.)
+(June 25, 1948, ch. 645, 62 Stat. 741; Pub. L. 91–375, §6(j)(7), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322, title XXXIII, §§330016(1)(G), (H), (K), 330021(2), Sept. 13, 1994, 108 Stat. 2147, 2150.)
 
 #### Historical and Revision Notes
 

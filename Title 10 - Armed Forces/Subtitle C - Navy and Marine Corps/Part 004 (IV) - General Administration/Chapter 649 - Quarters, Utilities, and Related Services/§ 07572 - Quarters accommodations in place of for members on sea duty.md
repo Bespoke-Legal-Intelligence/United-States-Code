@@ -10,13 +10,7 @@
 
 > on sea duty who is deprived of his quarters on board ship because of repairs or because of other conditions that make his quarters uninhabitable. Lodging accommodations so provided may not be occupied by the member's dependents.
 
-(b)(1) Under such regulations as the Secretary prescribes, a member of a uniformed service on sea duty who is deprived of quarters on board ship because of repairs or because of other conditions that make the member's quarters uninhabitable and for whom it is impracticable to furnish accommodations under subsection (a) may be reimbursed for expenses incurred in obtaining quarters in an amount not more than the basic allowance for housing payable under section 403 of title 37 to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship.
-
-(2) A member entitled to receipt of basic allowance for housing may not be reimbursed for expenses under this subsection when deprived of quarters on board ship at a location at which the member can reside with such member's dependents.
-
-(3) The total amount of reimbursement under this subsection may not exceed $1,657,000 for each of the fiscal years 1987 through 1992.
-
-(4) The authority provided under this subsection shall expire on September 30, 1992.
+\[(b) Repealed. Pub. L. 105–261, div. A, title X, §1069(a)(7), Oct. 17, 1998, 112 Stat. 2136.\]
 
 (c) The Secretary, to the extent he considers proper, may delegate the authority conferred by subsection (a) to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
@@ -28,7 +22,7 @@
 
 (4) The Secretary may prescribe regulations to carry out this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 24, 1980, Pub. L. 96–357, §3, 94 Stat. 1182; Dec. 12, 1980, Pub. L. 96–513, title V, §513(41), 94 Stat. 2935; Oct. 14, 1981, Pub. L. 97–60, title II, §207(b), 95 Stat. 1007; Sept. 24, 1983, Pub. L. 98–94, title IX, §912(a), 97 Stat. 640; Oct. 19, 1984, Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), 98 Stat. 2536, 2537, 2625; Nov. 8, 1985, Pub. L. 99–145, title VI, §606(a), 99 Stat. 638; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §603(a), 100 Stat. 3874; Dec. 5, 1991, Pub. L. 102–190, div. A, title VI, §607(a), (b), 105 Stat. 1375; Nov. 18, 1997, Pub. L. 105–85, div. A, title VI, §603(d)(2)(D), 111 Stat. 1783.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, §513(41), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–60, title II, §207(b), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(a), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), Oct. 19, 1984, 98 Stat. 2536, 2537, 2625; Pub. L. 99–145, title VI, §606(a), Nov. 8, 1985, 99 Stat. 638; Pub. L. 99–661, div. A, title VI, §603(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–190, div. A, title VI, §607(a), (b), Dec. 5, 1991, 105 Stat. 1375; Pub. L. 105–85, div. A, title VI, §603(d)(2)(D), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 105–261, div. A, title X, §1069(a)(7), Oct. 17, 1998, 112 Stat. 2136.)
 
 Historical and Revision Notes
 
@@ -62,13 +56,15 @@ June 19, 1942, ch. 419, §1, 56 Stat. 371.
 
 Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
-In subsection (a) the word “public” is substituted for the words “possessed by the United States” and the subsection is phrased in terms of availability, as it is so interpreted. The itemization of personnel categories for whom quarters may be furnished is inserted to execute the definition of “naval personnel”, made applicable to this section by 5 U.S.C. 421g. The requirement in that definition that personnel be on active duty is omitted since this subsection applies only to personnel on sea duty.
+In subsection (a) the word “public” is substituted for the words “possessed by the United States” and the subsection is phrased in terms of availability, as it is so interpreted. The itemization of personnel categories for whom quarters may be furnished is inserted to execute the definition of “naval personnel”, made applicable to this section by 5 U.S.C. 421g. The requirement inthat definition that personnel be on active duty is omitted since this subsection applies only to personnel on sea duty.
 
 In subsection (b) the words “and who is not entitled to basic allowance for quarters” are inserted to make it clear that the entitlement under this subsection, as interpreted, is not in addition to basic allowance for quarters. The words “in obtaining quarters” are inserted for clarity. The words “basic allowance for quarters of an officer of his grade” are substituted for the words “his quarters allowance” because, under the Career Compensation Act of 1949, members without dependents are not entitled to a quarters allowance when on sea duty, and the limitation must be based upon the allowance of an officer of the same grade who is entitled thereto.
 
 In subsection (c) the words “except the authority to prescribe regulations” are omitted, since subsection (a) does not contain such authority.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–261 struck out subsec. (b) which authorized reimbursements to members of a uniformed service on sea duty who are deprived of quarters on board because of repairs or because of other conditions, and provided that such authority expire on Sept. 30, 1992.
 
 1997—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(D)(i), substituted “the basic allowance for housing payable under section 403 of title 37 to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship.” for “the total of—
 
@@ -134,7 +130,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Section 3 of Pub. L. 96–357, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991.
 
-Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub. L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, provided that authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) is extended through Sept. 30, 1987, at an amount not to exceed $1,657,000.
+Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub. L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119,provided that authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) is extended through Sept. 30, 1987, at an amount not to exceed $1,657,000.
 
 #### Repeals
 

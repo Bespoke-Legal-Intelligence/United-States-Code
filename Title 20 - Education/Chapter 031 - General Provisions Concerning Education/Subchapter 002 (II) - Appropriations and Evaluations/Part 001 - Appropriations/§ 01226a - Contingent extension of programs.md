@@ -44,5 +44,5 @@ Pub. L. 94–328, §2(d), June 30, 1976, 90 Stat. 727, provided that: “The ame
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2502, 3611 of this title; title 42 section 12641.
+This section is referred to in sections 2502, 3611, 6661i of this title; title 42 section 12641.
 

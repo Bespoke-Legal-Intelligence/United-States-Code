@@ -160,7 +160,7 @@ Oversight by Inspector General.—The Inspector General of the Department of Def
 
 “(c)
 
-Waiver Authority.—The Secretary of Defense may waive the application of subsections (a) and (b) for urgent and compelling considerations relating to national security or public safety if the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] of such waiver before the end of the 30-day period beginning on the date that the waiver is made.
+Waiver Authority.—The Secretary of Defense may waive the application of subsections (a) and (b) for urgent and compelling considerations relating to national security or public safety if the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives of such waiver before the end of the 30-day period beginning on the date that the waiver is made.
 
 “(e)
 

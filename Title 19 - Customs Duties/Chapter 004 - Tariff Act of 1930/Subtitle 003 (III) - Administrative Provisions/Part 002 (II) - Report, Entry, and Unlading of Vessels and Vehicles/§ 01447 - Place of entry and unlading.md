@@ -2,7 +2,7 @@
 
 It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof of any vessel elsewhere than at a port of entry: <i>Provided</i>, That upon good cause therefor being shown, the Commissioner of Customs may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: <i>And provided further</i>, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
 
-(June 17, 1930, ch. 497, title IV, §447, 46 Stat. 714; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Dec. 8, 1993, Pub. L. 103–182, title VI, §649(a), 107 Stat. 2208.)
+(June 17, 1930, ch. 497, title IV, §447, 46 Stat. 714; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §649(a), Dec. 8, 1993, 107 Stat. 2208.)
 
 #### Prior Provisions
 

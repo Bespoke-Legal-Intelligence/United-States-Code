@@ -18,7 +18,7 @@
 
 (2) Interest deposited into the trust fund pursuant to paragraph (1)(B)(ii) may be periodically withdrawn and used, at the direction of the Board or its designee, to defray any expense associated with the operation of the Institute, including the expense of operations and maintenance, administration, academic and support personnel, community and student services programs, and technical assistance.
 
-(3) For the purpose of complying with the contribution requirement of paragraph (1)(B), the Institute may use funds or in-kind contributions of real or personal property fairly valued which are made available from any private or tribal source, including interest earned by the funds invested under this subsection. In-kind contributions shall be other than fully depreciable property or property which is designated for addition to the permanent collection of the Museum and shall be valued according to the procedures established for such purpose by the Secretary of the Treasury. For purposes of this paragraph, all contributions, including in-kind and real estate, which are on-hand as of November 29, 1990 and which have been received after June 2, 1988, but which have not been included in computations under this provision shall be eligible for matching with Federal funds appropriated in any fiscal year. All funds transferred to the Institute by the Secretary of the Treasury after June 2, 1988, shall be deemed to have been properly transferred as of July 23, 1992.
+(3) For the purpose of complying with the contribution requirement of paragraph (1)(B), the Institute may use funds or in-kind contributions of real or personal property fairly valued which are made available from any private or tribal source, including interest earned by the funds invested under this subsection. In-kind contributions shall be other than fully depreciableproperty or property which is designated for addition to the permanent collection of the Museum and shall be valued according to the procedures established for such purpose by the Secretary of the Treasury. For purposes of this paragraph, all contributions, including in-kind and real estate, which are on-hand as of November 29, 1990 and which have been received after June 2, 1988, but which have not been included in computations under this provision shall be eligible for matching with Federal funds appropriated in any fiscal year. All funds transferred to the Institute by the Secretary of the Treasury after June 2, 1988, shall be deemed to have been properly transferred as of July 23, 1992.
 
 (4) Amounts appropriated under section 4451(a) of this title for use under this subsection shall be paid by the Secretary of the Treasury to the Institute as a Federal capital contribution equal to the amount of funds or the value of the in-kind contributions which the Institute demonstrates have been placed within the control of, or irrevocably committed to the use of, the Institute as a capital contribution of the Institute in accordance with this subsection.
 
@@ -30,7 +30,7 @@
 
 (3) Funds deposited by the Institute as a match for Federal contributions under paragraph (5) shall remain in the capital endowment fund for a period of not less than two years. If at any time the Institute withdraws any capital contribution to the capital endowment fund before the funds have been deposited for this two-year period, an equal amount of the Federal contribution shall be withdrawn from the capital endowment fund and returned to the Treasury as miscellaneous receipts. At the end of the two-year period, the entire principal and interest of the funds deposited for this period, including the Federal matching portion, shall accrue, without reservation, to the Institute and may be withdrawn, in whole or in part, to defray expenses associated with capital acquisition and improvement of the Institute referred to in paragraph (1).
 
-(4) For the purpose of complying with the contribution requirement of paragraph (2), the Institute may use funds which are available fromany private, non-Federal governmental, or tribal source.
+(4) For the purpose of complying with the contribution requirement of paragraph (2), the Institute may use funds which are available from any private, non-Federal governmental, or tribal source.
 
 (5) Subject to paragraph (3), amounts appropriated under section 4451(a) of this title for use under this subsection shall be paid by the Secretary of the Treasury to the Institute as a Federal capital contribution equal to the amount which the Institute demonstrates has been placed within the control of, or irrevocably committed to the use of, the Institute and is available for deposit as a capital contribution of the Institute in accordance with this subsection.
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
 #### Section Referred to in Other Sections
 

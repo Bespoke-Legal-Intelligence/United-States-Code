@@ -58,7 +58,13 @@
 | [77m.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077m%20-%20Limitation%20of%20actions.md) | Limitation of actions. |
 | [77n.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077n%20-%20Contrary%20stipulations%20void.md) | Contrary stipulations void. |
 | 77<i>o.</i> | Liability of controlling persons. |
-| [77p.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077p%20-%20Additional%20remedies.md) | Additional remedies. |
+| [77p.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077p%20-%20Additional%20remedies%3B%20limitation%20on%20remedies.md) | Additional remedies; limitation on remedies. |
+| (a) | Remedies additional. |
+| (b) | Class action limitations. |
+| (c) | Removal of covered class actions. |
+| (d) | Preservation of certain actions. |
+| (e) | Preservation of State jurisdiction. |
+| (f) | Definitions. |
 | [77q.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077q%20-%20Fraudulent%20interstate%20transactions.md) | Fraudulent interstate transactions. |
 | (a) | Use of interstate commerce for purpose of fraud or deceit. |
 | (b) | Use of interstate commerce for purpose of offering for sale. |

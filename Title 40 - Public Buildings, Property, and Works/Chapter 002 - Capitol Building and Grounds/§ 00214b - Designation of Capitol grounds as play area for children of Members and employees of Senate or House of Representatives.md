@@ -6,7 +6,7 @@ Notwithstanding any other provision of law and subject to the provisions of para
 
 #### (b) Required approval; fences; termination of authority
 
-(1) In the case of any such designation referred to in subsection (a) of this section involving a day care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
+(1) In the case of any such designation referred to in subsection (a) of this section involving aday care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
 
 (2) The Architect of the Capitol shall enclose with a fence any area designated pursuant to subsection (a) of this section as a play area.
 
@@ -39,6 +39,10 @@ Sec. 3. The Committee on Rules and Administration shall supervise any contract e
 #### Amendments
 
 1996—Subsecs. (b)(1), (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Cross References
 

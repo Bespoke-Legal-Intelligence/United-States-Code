@@ -4,7 +4,7 @@
 
 (b) The Coast Guard is authorized, subject to approval by the Administrator of the Federal Aviation Administration, to operate, on floating ocean stations authorized herein, such air navigation facilities as the Administrator may find necessary or desirable for the safe and efficient protection and control of air traffic. The Coast Guard, in establishing, maintaining, or operating such air navigation facilities shall request the cooperation of the Administrator of the Federal Aviation Administration to the end that the personnel and facilities of the Federal Aviation Administration will be utilized to the fullest possible advantage.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 502; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1404, 72 Stat. 808; Oct. 18, 1976, Pub. L. 94–546, §1(8), 90 Stat. 2519.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 502; Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 94–546, §1(8), Oct. 18, 1976, 90 Stat. 2519.)
 
 #### Historical and Revision Notes
 

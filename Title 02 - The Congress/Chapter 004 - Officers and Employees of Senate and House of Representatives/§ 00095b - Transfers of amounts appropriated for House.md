@@ -18,7 +18,7 @@ salaries, officers and employees” may be transferred among the various offices
 
 (2) The headings referred to in paragraph (1) are “
 
-house leadership offices”, “members’ clerk hire”, “committee employees”, “standing committees, special and select”, “houseinformation systems”, “allowances and expenses”, “official mail costs”, and “
+house leadership offices”, “members’ clerk hire”, “committee employees”, “standing committees, special and select”, “house information systems”, “allowances and expenses”, “official mail costs”, and “
 
 salaries, officers and employees”.
 

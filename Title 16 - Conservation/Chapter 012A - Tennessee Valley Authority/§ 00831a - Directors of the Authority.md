@@ -10,7 +10,7 @@ The terms of office of the members first taking office after May 18, 1933, shall
 
 #### (c) Vacancies
 
-Any member appointed to fill a vacancy in the board occurring prior to the expiration of theterm for which his predecessor was appointed shall be appointed for the remainder of such term.
+Any member appointed to fill a vacancy in the board occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (d) Quorums
 

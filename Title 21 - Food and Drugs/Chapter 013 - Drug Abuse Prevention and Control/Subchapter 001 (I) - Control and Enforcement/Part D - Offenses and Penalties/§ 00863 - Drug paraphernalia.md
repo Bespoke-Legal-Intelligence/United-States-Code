@@ -16,7 +16,7 @@ Anyone convicted of an offense under subsection (a) of this section shall be imp
 
 #### (c) Seizure and forfeiture
 
-Any drug paraphernalia involved in any violation of subsection (a) of this section shall be subject to seizure and forfeiture upon the conviction of a person for such violation. Any such paraphernalia shall be delivered to the Administrator of General Services, General Services Administration, who may order such paraphernalia destroyed or may authorize its use for law enforcement or educational purposes by Federal, State, or local authorities.
+Any drug paraphernalia involved in any violation of subsection (a) of this section shall be subject to seizure and forfeiture upon the conviction of a person for such violation. Any suchparaphernalia shall be delivered to the Administrator of General Services, General Services Administration, who may order such paraphernalia destroyed or may authorize its use for law enforcement or educational purposes by Federal, State, or local authorities.
 
 #### (d) “Drug paraphernalia” defined
 

@@ -17,7 +17,7 @@
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–554, title I, §115(b), Oct. 27, 1986, 100 Stat. 3095, added item 589a.
+1986—Pub. L. 99–554, title I, §115(b), Oct. 27, 1986, 100 Stat. 3095, added item 589a.
 
 #### United States Trustee Pilot; Repeal of Bankruptcy Provisions Relating to United States Trustees
 

@@ -42,13 +42,13 @@ Except to the extent that enforcement of the requirements imposed under this sub
 
 The authority of the Board to issue regulations under this subchapter does not impair the authority of any other agency designated in this section to make rules respecting its own procedures in enforcing compliance with requirements imposed under this subchapter.
 
-(Pub. L. 90–321, title VII, §704, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §315, Dec. 29, 1995, 109 Stat. 948.)
+(Pub. L. 90–321, title VII, §704, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §4, Mar. 23, 1976, 90 Stat.253; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §315, Dec. 29, 1995, 109 Stat. 948.)
 
 #### References in Text
 
 Section 25(a) of the Federal Reserve Act, referred to in subsec. (a)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14\(§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (a)(6), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 

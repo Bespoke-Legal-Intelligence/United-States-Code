@@ -20,5 +20,5 @@ As used in this section—
 
 &emsp;(2) the term “allowable floor sweepings” means the quantity of floor sweepings determined by multiplying 0.24 per centum times the total first sales of tobacco at auction for the season for the warehouse involved.
 
-(Feb. 16, 1938, ch. 30, title III, §314A, as added July 20, 1982, Pub. L. 97–218, title III, §306, 96 Stat. 215.)
+(Feb. 16, 1938, ch. 30, title III, §314A, as added Pub. L. 97–218, title III, §306, July 20, 1982, 96 Stat. 215.)
 

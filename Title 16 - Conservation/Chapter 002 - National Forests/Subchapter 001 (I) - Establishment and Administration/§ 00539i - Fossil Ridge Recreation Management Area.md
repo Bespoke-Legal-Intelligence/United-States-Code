@@ -4,7 +4,7 @@
 
 (1) In order to conserve, protect, and enhance the scenic, wildlife, recreational, and other natural resource values of the Fossil Ridge area, there is hereby established the Fossil Ridge Recreation Management Area (hereinafter referred to as the “recreation management area”).
 
-(2) The recreation management area shall consist of certain lands in the Gunnison National Forest, Colorado, which comprise approximately 43,900 acres, as generally depicted as “Area A” on a map entitled “Fossil Ridge Wilderness Proposal”, dated January, 1993.
+(2) The recreation management area shall consist of certain lands in the Gunnison National Forest, Colorado, which comprise approximately43,900 acres, as generally depicted as “Area A” on a map entitled “Fossil Ridge Wilderness Proposal”, dated January, 1993.
 
 #### (b) Administration
 
@@ -28,7 +28,7 @@ No developed campgrounds shall be constructed within the recreation management a
 
 #### (g) Off-road recreation
 
-Motorized travel shall be permitted within the recreation management area only on those established trails and routes existing as of July 1, 1991, on which such travel was permitted as of such date, except that other trails and routesmay be used where necessary for administrative purposes or to respond to an emergency. No later than one year after August 13, 1993, the Secretary shall identify such routes and trails and shall prepare and make available to the public a map showing such routes and trails. Nothing in this subsection shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
+Motorized travel shall be permitted within the recreation management area only on those established trails and routes existing as of July 1, 1991, on which such travel was permitted as of such date, except that other trails and routes may be used where necessary for administrative purposes or to respond to an emergency. No later than one year after August 13, 1993, the Secretary shall identify such routes and trails and shall prepare and make available to the public a map showing such routes and trails. Nothing in this subsection shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
 
 (Pub. L. 103–77, §5, Aug. 13, 1993, 107 Stat. 760.)
 

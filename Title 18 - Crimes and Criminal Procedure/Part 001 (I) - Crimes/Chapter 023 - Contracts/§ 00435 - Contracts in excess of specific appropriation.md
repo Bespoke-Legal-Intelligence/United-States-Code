@@ -2,7 +2,7 @@
 
 Whoever, being an officer or employee of the United States, knowingly contracts for the erection, repair, or furnishing of any public building, or for any public improvement, to pay a larger amount than the specific sum appropriated for such purpose, shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 703; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 703; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

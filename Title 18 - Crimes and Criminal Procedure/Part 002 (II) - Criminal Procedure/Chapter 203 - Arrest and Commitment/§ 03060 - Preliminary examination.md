@@ -10,13 +10,13 @@
 
 (c) With the consent of the arrested person, the date fixed by the judge or magistrate for the preliminary examination may be a date later than that prescribed by subsection (b), or may be continued one or more times to a date subsequent to the date initially fixed therefor. In the absence of such consent of the accused, the date fixed for the preliminary hearing may be a date later than that prescribed by subsection (b), or may be continued to a date subsequent to the date initially fixed therefor, only upon the order of a judge of the appropriate United States district court after a finding that extraordinary circumstances exist, and that the delay of the preliminary hearing is indispensable to the interests of justice.
 
-(d) Except as provided by subsection (e) of this section, an arrested person who has not been accorded the preliminary examination required by subsection (a) within the period of time fixed by the judge or magistrate in compliance with subsections (b) and (c), shall be discharged from custody or from the requirement of bail or any other condition of release, without prejudice, however, to the institution of further criminal proceedings against him upon the charge upon which he was arrested.
+(d) Except as provided by subsection (e) of this section, an arrested person who has not been accorded the preliminary examination required by subsection (a) within the period of time fixed by the judge or magistrate in compliance with subsections (b) and (c), shall be discharged from custody or from the requirement of bail or anyother condition of release, without prejudice, however, to the institution of further criminal proceedings against him upon the charge upon which he was arrested.
 
 (e) No preliminary examination in compliance with subsection (a) of this section shall be required to be accorded an arrested person, nor shall such arrested person be discharged from custody or from the requirement of bail or any other condition of release pursuant to subsection (d), if at any time subsequent to the initial appearance of such person before a judge or magistrate and prior to the date fixed for the preliminary examination pursuant to subsections (b) and (c) an indictment is returned or, in appropriate cases, an information is filed against such person in a court of the United States.
 
 (f) Proceedings before United States magistrates under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the record of such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
-(June 25, 1948, ch. 645, 62 Stat. 819; Oct. 17, 1968, Pub. L. 90–578, title III, §303(a), 82 Stat. 1117.)
+(June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, §303(a), Oct. 17, 1968, 82 Stat. 1117.)
 
 #### Amendments
 
@@ -24,7 +24,7 @@
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistratejudge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1968 Amendment
 

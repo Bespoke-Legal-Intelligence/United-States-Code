@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-Notwithstanding any law or court decision to the contrary, the District Court of Guam is hereby granted authority and jurisdiction to review claims of persons, their heirs or legatees, from whom interests in land on Guam were acquired other than through judicial condemnation proceedings, in which the issue of compensation was adjudicated in a contested trial in the District Court of Guam, by the United States between July 21, 1944, and August 23, 1963, and to award fair compensation in those cases where it is determined that less than fair market value was paid as a result of (1) duress, unfair influence, or other unconscionable actions, or (2) unfair, unjust, and inequitable actions of the United States.
+Notwithstanding any law or court decision to the contrary, the District Court of Guam ishereby granted authority and jurisdiction to review claims of persons, their heirs or legatees, from whom interests in land on Guam were acquired other than through judicial condemnation proceedings, in which the issue of compensation was adjudicated in a contested trial in the District Court of Guam, by the United States between July 21, 1944, and August 23, 1963, and to award fair compensation in those cases where it is determined that less than fair market value was paid as a result of (1) duress, unfair influence, or other unconscionable actions, or (2) unfair, unjust, and inequitable actions of the United States.
 
 #### (b) Acquisitions effected through condemnation proceedings
 
@@ -22,7 +22,7 @@ Awards made hereunder shall be judgments against the United States.
 
 #### (f) Limitation on attorney's fees; violation; penalty
 
-Attorney's fees paid by claimants to counsel representing them may not exceed 5 per centumof any additional award. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives any remuneration in excess of the maximum permitted by this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both. A reasonable attorney's fee may be awarded in appropriate cases.
+Attorney's fees paid by claimants to counsel representing them may not exceed 5 per centum of any additional award. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives any remuneration in excess of the maximum permitted by this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both. A reasonable attorney's fee may be awarded in appropriate cases.
 
 #### (g) Availability of documents, records, and writings to court
 
@@ -32,7 +32,7 @@ All agencies and departments of the United States Government shall, upon request
 
 #### References in Text
 
-This Act, referred to in subsec. (c), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977, which enacted sections 1421q–1, 1424c, 1469a, and 1574–1 of this title, amended sections 1421i, 1422d, 1428, 1574, 1575, 1599, and 1681b of this title, enacted provisions set out as a note under section 1903 of this title, section 7651 of Title 26, Internal Revenue Code, and section 1457 of Title 43, Public Lands, and amended provisions set out as a note under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §401. Congressional declaration of purpose
 
-In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
+In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and aclear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
 
 (July 26, 1947, ch. 343, §2, 61 Stat. 496; Aug. 10, 1949, ch. 412, §2, 63 Stat. 579; Pub. L. 85–599, §2, Aug. 6, 1958, 72 Stat. 514.)
 
@@ -163,7 +163,7 @@ Security Clearances.—Appropriate security clearances shall be required for mem
 
 “(h)
 
-Application of Certain Provisions of Law.—In light of the extraordinary and sensitive nature of its deliberations, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), and the regulations prescribed by the Administrator of General Services pursuant to that Act, shall not apply to the Commission. Further, the provisions of section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’), shall not apply to the Commission; however, records of the Commission shall be subject to the Federal Records Act \[probably means chapters 21 to 31 of Title 44, Public Printing and Documents\] and, when transferred to the National Archives and Records Agency, shall no longer be exempt from the provisions of such section 552.
+Application of Certain Provisions of Law.—In light of the extraordinary and sensitive nature of its deliberations, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), and the regulations prescribed by the Administrator of General Services pursuant to that Act, shall not apply to the Commission. Further, the provisions of section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’), shall not apply to the Commission; however, records of the Commission shall be subject tothe Federal Records Act \[probably means chapters 21 to 31 of Title 44, Public Printing and Documents\] and, when transferred to the National Archives and Records Agency, shall no longer be exempt from the provisions of such section 552.
 
 #### “SEC. 903. DUTIES OF THE COMMISSION.
 
@@ -289,7 +289,7 @@ Administrative and Support Services.—The Director of Central Intelligence shal
 
 #### “SEC. 907. PAYMENT OF COMMISSION EXPENSES.
 
-“The compensation, travel expenses, per diem allowances of members and employees of the Commission,and other expenses of the Commission shall be paid out of funds available to the Director of Central Intelligence for the payment of compensation, travel allowances, and per diem allowances, respectively, of employees of the Central Intelligence Agency.
+“The compensation, travel expenses, per diem allowances of members and employees of the Commission, and other expenses of the Commission shall be paid out of funds available to the Director of Central Intelligence for the payment of compensation, travel allowances, and per diem allowances, respectively, of employees of the Central Intelligence Agency.
 
 #### “SEC. 908. TERMINATION OF THE COMMISSION.
 
@@ -419,7 +419,7 @@ Final Report.—The Commission shall transmit to the President and to Congress a
 
 “(c)
 
-Contents of Reports.—The report under subsection (b) shall contain a detailed statement of thefindings and conclusions of the Commission concerning the matters to be studied by the Commission under section 4, together with its recommendations for such legislation and administrative actions as it considers appropriate. Such report shall include a comprehensive description and discussion of the matters set forth in section 4.
+Contents of Reports.—The report under subsection (b) shall contain a detailed statement of the findings and conclusions of the Commission concerning the matters to be studied by the Commission under section 4, together with its recommendations for such legislation and administrative actions as it considers appropriate. Such report shall include a comprehensive description and discussion of the matters set forth in section 4.
 
 “(d)
 
@@ -932,7 +932,7 @@ The Secretary of Defense shall:
 
 (i) Establish and maintain military intelligence relationships and military intelligence exchange programs with selected cooperative foreign defense establishments and international organizations, and ensure that such relationships and programs are in accordance with policies formulated by the Director of Central Intelligence;
 
-(j) Direct, operate, control and provide fiscal management for the National Security Agency and for defense and military intelligence and national reconnaissance entities; and
+(j) Direct, operate, control and provide fiscal management for the National Security Agency and for defenseand military intelligence and national reconnaissance entities; and
 
 (k) Conduct such administrative and technical support activities within and outside the United States as are necessary to perform the functions described in sections (a) through (j) above.
 
@@ -1022,7 +1022,7 @@ Under the supervision of the Attorney General and pursuant to such regulations a
 
 (a) Within the United States conduct counterintelligence and coordinate counterintelligence activities of other agencies within the Intelligence Community. When a counterintelligence activity of the FBI involves military or civilian personnel of the Department of Defense, the FBI shall coordinate with the Department of Defense;
 
-(b) Conduct counterintelligence activities outside the United States in coordination with the CIA as required by procedures agreed upon by the Director of Central Intelligence and the Attorney General;
+(b) Conduct counterintelligence activities outside the United States in coordination with the CIA as requiredby procedures agreed upon by the Director of Central Intelligence and the Attorney General;
 
 (c) Conduct within the United States, when requested by officials of the Intelligence Community designated by the President, activities undertaken to collect foreign intelligence or support foreign intelligence collection requirements of other agencies within the Intelligence Community, or, when requested by the Director of the National Security Agency, to support the communications security activities of the United States Government;
 
@@ -1098,7 +1098,7 @@ Agencies within the Intelligence Community shall use the least intrusive collect
 
 Attorney General Approval
 
-The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within the United States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that the technique is directed against a foreign power or an agent of a foreign power. Electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\], shall be conducted in accordance with that Act, as well as this Order.
+The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within the United States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that thetechnique is directed against a foreign power or an agent of a foreign power. Electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\], shall be conducted in accordance with that Act, as well as this Order.
 
 #### 2\.6
 
@@ -1140,7 +1140,7 @@ No one acting on behalf of agencies within the Intelligence Community may join o
 
 Human Experimentation
 
-No agency within the Intelligence Community shall sponsor, contract for or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. Thesubject's informed consent shall be documented as required by those guidelines.
+No agency within the Intelligence Community shall sponsor, contract for or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. The subject's informed consent shall be documented as required by those guidelines.
 
 #### 2\.11
 
@@ -1238,7 +1238,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12334
 
-Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R.5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
+Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R. 5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
 
 #### Ex. Ord. No. 12863. President's Foreign Intelligence Advisory Board
 
@@ -1288,7 +1288,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Act Referred to in Other Sections
 
-The National Security Act of 1947 is referred to in section 47e of this title; section 469 of Appendix to this title.
+The National Security Act of 1947 is referred to in section 47e of this title; section 469 of Appendix to this title; title 21 section 1704.
 
 #### Section Referred to in Other Sections
 

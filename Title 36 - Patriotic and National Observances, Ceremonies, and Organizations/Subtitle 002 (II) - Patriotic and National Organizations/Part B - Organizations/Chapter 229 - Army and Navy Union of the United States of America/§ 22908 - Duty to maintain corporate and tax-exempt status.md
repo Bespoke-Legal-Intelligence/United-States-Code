@@ -1,0 +1,34 @@
+### §22908. Duty to maintain corporate and tax-exempt status
+
+(a)
+
+Corporate Status.—The corporation shall maintain its status as a corporation incorporated under the laws of Ohio.
+
+(b)
+
+Tax-Exempt Status.—The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1310.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+22908(a)
+
+36:3908(f).
+
+Nov. 6, 1986, Pub. L. 99–604, §§8(f), 15 (1st sentence), 100 Stat. 3447, 3448.
+
+22908(b)
+
+36:3914 (1st sentence).
+
+In subsection (a), the words “retain and”, “organized and”, and “the State of” are omitted as unnecessary.
+

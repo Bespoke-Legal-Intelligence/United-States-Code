@@ -8,7 +8,7 @@ Every individual who—
 
 > is eligible to enroll in the insurance program established by this part.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1836, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 304; amended Oct. 30, 1972, Pub. L. 92–603, title II, §201(c)(1), 86 Stat. 1372.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1836, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 92–603, title II, §201(c)(1), Oct. 30, 1972, 86 Stat. 1372.)
 
 #### References in Text
 
@@ -16,7 +16,7 @@ Part A of this subchapter, referred to in par. (1), is classified to section 139
 
 #### Amendments
 
-1972—Pub. L. 92–603 designed former par. (2)(B) as par. (1), former par. (1) as introductory clause in par. (2), and former pars. (2)(A)(i) and (ii) as pars. (2)(A) and (B), and struck out “(A)” after “(2)”.
+1972—Pub. L. 92–603 designed former par. (2)(B) as par. (1), former par. (1) as introductory clause in par. (2),and former pars. (2)(A)(i) and (ii) as pars. (2)(A) and (B), and struck out “(A)” after “(2)”.
 
 #### Persons Convicted of Subversive Activities
 

@@ -4,7 +4,7 @@
 
 (b) Whoever violates this section shall be fined under this title, and any goods, wares, or merchandise transported in violation of this section or section 1761 of this title shall be forfeited to the United States, and may be seized and condemned by like proceedings as those provided by law for the seizure and forfeiture of property imported into the United States contrary to law.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Oct. 6, 1992, Pub. L. 102–393, title V, §535(b), 106 Stat. 1764; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(7), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 102–393, title V, §535(b), Oct. 6, 1992, 106 Stat. 1764; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §601(a)(7), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

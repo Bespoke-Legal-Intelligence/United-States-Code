@@ -20,21 +20,35 @@ Exceptions.—A person or entity may divulge the contents of a communication—
 
 &emsp;(2) as otherwise authorized in section 2517, 2511(2)(a), or 2703 of this title;
 
-&emsp;(3) with the lawful consent of the originator or an addressee or intended recipient of such communication, or the subscriber in the case of remote computing service;
+&emsp;(3) with the lawful consent of the originator or an addressee or intended recipient of suchcommunication, or the subscriber in the case of remote computing service;
 
 &emsp;(4) to a person employed or authorized or whose facilities are used to forward such communication to its destination;
 
 &emsp;(5) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service; or
 
-&emsp;(6) to a law enforcement agency, if such contents—
+&emsp;(6) to a law enforcement agency—
 
-&emsp;&emsp;(A) were inadvertently obtained by the service provider; and
+&emsp;&emsp;(A) if the contents—
 
-&emsp;&emsp;(B) appear to pertain to the commission of a crime.
+&emsp;&emsp;&emsp;(i) were inadvertently obtained by the service provider; and
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399.)
+&emsp;&emsp;&emsp;(ii) appear to pertain to the commission of a crime; or
+
+&emsp;&emsp;(B) if required by section 227 of the Crime Control Act of 1990.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat. 2984.)
+
+#### References in Text
+
+Section 227 of the Crime Control Act of 1990, referred to in subsec. (b)(6), is classified to section 13032 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+1998—Subsec. (b)(6). Pub. L. 105–314 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to a law enforcement agency, if such contents—
+
+&emsp;“(A) were inadvertently obtained by the service provider; and
+
+&emsp;“(B) appear to pertain to the commission of a crime.”
 
 1988—Subsec. (b)(2). Pub. L. 100–690 substituted “2517” for “2516”.
 

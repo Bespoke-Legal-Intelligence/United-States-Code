@@ -44,3 +44,7 @@ Section effective 120 days after Nov. 5, 1990, see section 321(e)(1) of Pub. L. 
 
 For authority of Secretary of Defense to prescribe regulations necessary for proper administration of section, see section 321(e)(2) of Pub. L. 101–510, set out as a note under section 1064 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1063a of this title.
+

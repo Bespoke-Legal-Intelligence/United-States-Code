@@ -2,7 +2,7 @@
 
 #### (a) Technical assistance to environmental agencies
 
-Notwithstanding any other provision of law relating to Federal grants and cooperative agreements, the Administrator of the Environmental Protection Agency is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 \[42 U.S.C. 3056 et seq.\] to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Administrator (and consistent with such provisions of law) in providing technical assistance to Federal, State, and local environmental agencies for projects of pollution prevention, abatement, and control. Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and title IV of the Job Training Partnership Act \[29 U.S.C. 1671 et seq.\].
+Notwithstanding any other provision of law relating to Federal grants and cooperative agreements, the Administrator of the Environmental Protection Agency is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 \[42 U.S.C. 3056 et seq.\] to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Administrator (and consistent with such provisions of law) in providing technical assistance to Federal, State, and local environmental agencies for projects of pollution prevention, abatement, and control. Funding for such grants or agreements may be made available from such programs or through title V of the Older Americans Act of 1965 and title IV of the Job Training Partnership Act \[29 U.S.C. 1671 et seq.\] or subtitle D of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2911 et seq.\].
 
 #### (b) Pre-award certifications
 
@@ -18,7 +18,11 @@ Prior to awarding any grant or agreement under subsection (a) of this section, t
 
 Grants or agreements awarded under this section shall be subject to prior appropriation Acts.
 
-(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235.)
+(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(27), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, the second sentence of subsection (a) of this section is amended by striking “title IV of the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
@@ -26,9 +30,19 @@ The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73,
 
 The Job Training Partnership Act, referred to in subsec. (a), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title IV of the Job Training Partnership Act is classified generally to subchapter IV (§1671 et seq.) of chapter 19 of Title 29, Labor. For complete classification of the Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle D of title I of the Act is classified generally to subchapter IV (§2911 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
 #### Codification
 
 Section was enacted as part of the Environmental Programs Assistance Act of 1984, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(35)\], substituted “and title IV of the Job Training Partnership Act or subtitle D of title I of the Workforce Investment Act of 1998” for “and title IV of the Job Training Partnership Act” in second sentence.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(35)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(27)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Short Title
 

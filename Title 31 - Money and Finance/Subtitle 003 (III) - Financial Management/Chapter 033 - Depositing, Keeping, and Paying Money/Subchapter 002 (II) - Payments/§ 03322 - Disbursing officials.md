@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) payable to persons to whom payment is to be made.
 
-(b) In a place without a depositary, the Secretary, on deciding it is essential to the public interest, may authorize specially in writing that public money be—
+(b) In a place without a depositary, the Secretary, on deciding it is essential to the publicinterest, may authorize specially in writing that public money be—
 
 &emsp;(1) deposited in any other public depositary; or
 
@@ -26,7 +26,11 @@
 
 &emsp;&emsp;(B) an equalization or other agreement.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 950; Pub. L. 98–216, §1(3), Feb. 14, 1984, 98 Stat. 3; Pub. L. 104–134, title III, §31001(g)(1)(A), Apr. 26, 1996, 110 Stat. 1321–363.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 950; Pub. L. 98–216, §1(3), Feb. 14, 1984, 98 Stat. 3; Pub. L. 104–134, title III, §31001(g)(1)(A), Apr. 26, 1996, 110 Stat. 1321–363; Pub. L. 105–264, §3(a)(1), Oct. 19, 1998, 112 Stat. 2352.)
+
+#### Amendment of Subsection (c)(1)
+
+<i>Pub. L. 105–264, §3(a)(1), (b), Oct. 19, 1998, 112 Stat. 2352, 2354, provided that, effective 18 months after Oct. 19, 1998, subsection (c)(1) of this section is amended by inserting “if the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government” after “classifications”.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -71,6 +75,10 @@ In subsection (b), before clause (1), the word “however” is omitted as surpl
 1984—Subsec. (a). Pub. L. 98–216 amended subsec. (a) generally, substituting “Except as provided in subsection (b) of this section, a” for “A” in second sentence.
 
 Subsecs. (b), (c). Pub. L. 98–216 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–264, §3(b), Oct. 19, 1998, 112 Stat. 2354, provided that: “The amendments made by this section \[amending this section and sections 3528 and 3726 of this title\] shall become effective 18 months after the date of the enactment of this Act \[Oct. 19, 1998\].”
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 Annual appropriations are authorized to aid in the construction, development, improvement, endowment, and maintenance of the university, no part of which shall be used for religious instruction. The university shall at all times be open to inspection by the Secretary of Education and shall be inspected by the said Secretary at least once each year.
 
-(Mar. 2, 1867, ch. 162, §8, 14 Stat. 439; Dec. 13, 1928, ch. 26, 45 Stat. 1021; 1940 Reorg. Plan No. IV, §11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; Aug. 7, 1946, ch. 770, §1(60), 60 Stat. 871; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, 93 Stat. 678, 692; Oct. 17, 1984, Pub. L. 98–480, title II, §208, 98 Stat. 2247.)
+(Mar. 2, 1867, ch. 162, §8, 14 Stat. 439; Dec. 13, 1928, ch. 26, 45 Stat. 1021; 1940 Reorg. Plan No. IV, §11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; Aug. 7, 1946, ch. 770, §1(60), 60 Stat. 871; Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 98–480, title II, §208, Oct. 17, 1984, 98 Stat. 2247.)
 
 #### Amendments
 
@@ -32,5 +32,5 @@ Office of Education was directed to continue its inspections of Howard Universit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1063, 1132c–3 of this title.
+This section is referred to in sections 1063, 1066c of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Discretion of Secretary; types of assistance
 
-The Secretary may provide a firm, on terms and conditions as the Secretary determines to be appropriate, with such technical assistanceas in his judgment will carry out the purposes of this part with respect to the firm. The technical assistance furnished under this part may consist of one or more of the following:
+The Secretary may provide a firm, on terms and conditions as the Secretary determines to be appropriate, with such technical assistance as in his judgment will carry out the purposes of this part with respect to the firm. The technical assistance furnished under this part may consist of one or more of the following:
 
 &emsp;(1) Assistance to a firm in preparing its petition for certification of eligibility under section 2341 of this title.
 

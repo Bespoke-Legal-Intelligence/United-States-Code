@@ -6,7 +6,7 @@ Retirement Based on Years of Service.—A bankruptcy judge or magistrate to whom
 
 (b)
 
-Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate to whom this section applies, who is not reappointed following the expiration of the term of office of such judge or magistrate, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge's or magistrate's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
+Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate to whom this section applies, who is not reappointed following the expiration of the term ofoffice of such judge or magistrate, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge's or magistrate's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
 
 &emsp;(1) such judge or magistrate has served at least 1 full term as a bankruptcy judge or magistrate, and
 
@@ -82,7 +82,7 @@ Deductions, Contributions, and Deposits.—
 
 &emsp;(1)
 
-Deductions.—Beginning with the next pay period after the Director of the Administrative Office of the United States Courts receives a notice under subsection (f) that a bankruptcy judge or magistrate has elected an annuity under this section, the Director shall deduct and withhold 1 percent of the salary of such bankruptcy judge or magistrate. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Judicial Officers’ Retirement Fund. Deductions under this subsection from the salary of a bankruptcy judge or magistrate shall terminate upon the retirement of the bankruptcyjudge or magistrate or upon completing 14 years of service for which contributions under this section have been made, whether continuously or otherwise, as calculated under subsection (g), whichever occurs first.
+Deductions.—Beginning with the next pay period after the Director of the Administrative Office of the United States Courts receives a notice under subsection (f) that a bankruptcy judge or magistrate has elected an annuity under this section, the Director shall deduct and withhold 1 percent of the salary of such bankruptcy judge or magistrate. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Judicial Officers’ Retirement Fund. Deductions under this subsection from the salary of a bankruptcy judge or magistrate shall terminate upon the retirement of the bankruptcy judge or magistrate or upon completing 14 years of service for which contributions under this section have been made, whether continuously or otherwise, as calculated under subsection (g), whichever occurs first.
 
 &emsp;(2)
 
@@ -132,7 +132,7 @@ Recall not permitted.—Any bankruptcy judge or magistrate who retires under thi
 
 &emsp;(3)
 
-Accepting other employment.—Any bankruptcy judge or magistrate who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as a bankruptcy judge or magistrate under section 155(b), 375, or 636(h) of this title) shall forfeit all rights to an annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term “compensation” includes retired pay or salary received in retired status.
+Accepting other employment.—Any bankruptcy judge or magistrate who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as a bankruptcy judge or magistrate under section 155(b), 375, or 636(h) of this title) shall forfeit all rights toan annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term “compensation” includes retired pay or salary received in retired status.
 
 (n)
 
@@ -160,7 +160,7 @@ Eligibility.—(A) Subject to paragraph (2), an individual who serves as a bankr
 
 &emsp;(E) If a bankruptcy judge or magistrate who is receiving an annuity under this section dies, annuity accrued and unpaid shall be paid.
 
-&emsp;(F) Annuity accrued and unpaid on the termination, except by death, of the annuity of abankruptcy judge or magistrate shall be paid to that individual.
+&emsp;(F) Annuity accrued and unpaid on the termination, except by death, of the annuity of a bankruptcy judge or magistrate shall be paid to that individual.
 
 &emsp;(G) Subject to paragraph (2), a bankruptcy judge or magistrate who forfeits rights to an annuity under subsection (m)(3) before the total annuity paid equals the lump-sum credit, shall be entitled to be paid the difference if the bankruptcy judge or magistrate files an application with the Administrative Office of the United States Courts for payment of that difference. A payment under this subparagraph voids all rights to an annuity on which the payment is based.
 
@@ -234,9 +234,9 @@ Section 404 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549),
 
 #### Amendments
 
-<b>1991</b>—Subsec. (f)(4). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
+1991—Subsec. (f)(4). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–650, §325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitledunder subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
+1990—Subsec. (f). Pub. L. 101–650, §325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
 
 Subsec. (h). Pub. L. 101–650, §325(b)(3)(B), substituted “on or after” for “in or after” in concluding provisions.
 
@@ -278,7 +278,7 @@ Filing of notice of election.—A bankruptcy judge or magistrate shall be entitl
 
 “(3)
 
-Lump-sum credit under title 5.—A bankruptcy judge or magistrate who makes an election under paragraph (2) shall be entitled to a lump-sum credit under section 8342 or 8424 of title 5, United States Code, as the case may be, for any service which is covered under section 377 of title 28, United States Code, as added by this section, pursuant to that election, and with respect to which any contributions were made by the judge or magistrate under the applicable provisions of title 5, United States Code.
+Lump-sum credit under title 5.—A bankruptcy judge or magistrate who makes an election under paragraph (2) shall be entitled to a lump-sum credit undersection 8342 or 8424 of title 5, United States Code, as the case may be, for any service which is covered under section 377 of title 28, United States Code, as added by this section, pursuant to that election, and with respect to which any contributions were made by the judge or magistrate under the applicable provisions of title 5, United States Code.
 
 “(4)
 
@@ -297,6 +297,4 @@ Section 8 of Pub. L. 100–659 provided that: “The Director of the Administrat
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 155, 375, 376, 604, 636 of this title; title 5 sections 8334, 8402, 8440b.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “receive—”.</i>
 

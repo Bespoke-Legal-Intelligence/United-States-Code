@@ -14,7 +14,7 @@ In this chapter—
 
 &emsp;(4) “commercial motor vehicle” means a motor vehicle used in commerce to transport passengers or property that—
 
-&emsp;&emsp;(A) has a gross vehicle weight rating of at least 26,001 pounds or a lesser gross vehicle weight rating the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
+&emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 26,001 pounds, whichever is greater, or a lesser gross vehicle weight rating or gross vehicle weight the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
 
 &emsp;&emsp;(B) is designed to transport at least 16 passengers including the driver; or
 
@@ -22,7 +22,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(i) the vehicle does not satisfy the weight requirements of subclause (A) of this clause;
 
-&emsp;&emsp;&emsp;(ii) the vehicle transporting material listed as hazardous under section 306(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9656(a)) and not otherwise regulated by the Secretary or transporting a consumer commodity or limited quantity of hazardous material as defined in section 171.8 of title 49, Code of Federal Regulations; and
+&emsp;&emsp;&emsp;(ii) the vehicle is transporting material listed as hazardous under section 306(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9656(a)) and is not otherwise regulated by the Secretary or is transporting a consumer commodity or limited quantity of hazardous material as defined in section 171.8 of title 49, Code of Federal Regulations; and
 
 &emsp;&emsp;&emsp;(iii) the Secretary does not deny the application of this exception to the vehicle (individually or as part of a class of motor vehicles) in the interest of safety.
 
@@ -54,7 +54,7 @@ In this chapter—
 
 &emsp;(14) “United States” means the States of the United States and the District of Columbia.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1014.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1014; Pub. L. 105–178, title IV, §4011(a), June 9, 1998, 112 Stat. 407.)
 
 Historical and Revision Notes
 
@@ -137,6 +137,12 @@ Clause (4)(C)(i) is substituted for “and which has a gross vehicle weight rati
 In clause (11), the words “public streets, roads, or” are added for consistency in the revised title.
 
 In clause (12)(C), the words “involving a fatality” are substituted for “arising in connection with a fatal traffic accident” to eliminate unnecessary words.
+
+#### Amendments
+
+1998—Par. (4)(A). Pub. L. 105–178, §4011(a)(1), inserted “or gross vehicle weight” after “rating” first two places that term appears and “, whichever is greater,” after “26,001 pounds”.
+
+Par. (4)(C)(ii). Pub. L. 105–178, §4011(a)(2), inserted “is” before “transporting” in two places and before “not otherwise regulated”.
 
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 

@@ -32,7 +32,7 @@ Not later than May 30 of each year, the Commissioner of Social Security shall pr
 
 Each member of the Social Security Advisory Board shall be permitted to provide an individual report, or a joint report if agreed, of views of the program under this subchapter, to be included in the annual report required under this section.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1637, as added Aug. 22, 1996, Pub. L. 104–193, title II, §231, 110 Stat. 2197.)
+(Aug. 14, 1935, ch. 531, title XVI, §1637, as added Pub. L. 104–193, title II, §231, Aug. 22, 1996, 110 Stat. 2197.)
 
 #### References in Text
 

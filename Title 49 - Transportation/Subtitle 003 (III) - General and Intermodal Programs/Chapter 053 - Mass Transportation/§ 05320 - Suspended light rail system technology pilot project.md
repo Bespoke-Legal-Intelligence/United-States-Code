@@ -20,7 +20,7 @@ General Requirements.—The project shall—
 
 (c)
 
-Competition.—(1) The Secretary of Transportation shall conduct a national competition to select a public entity with which to make a full financing grant agreement to construct the project. Not later than April 16, 1992, the Secretary shall select 3 public entities to be finalists in the competition. In conducting the competition and selecting public entities, the Secretary shall consider—
+Competition.—(1) The Secretary of Transportation shall conduct a national competition to select a public entity with which to make a full funding grant agreement to construct the project. Not later than April 16, 1992, the Secretary shall select 3 public entities to be finalists in the competition. In conducting the competition and selecting public entities, the Secretary shall consider—
 
 &emsp;(A) the public entity's demonstrated understanding and knowledge of the project and its technical, managerial, and financial capacity to construct, manage, and operate the project; and
 
@@ -28,15 +28,15 @@ Competition.—(1) The Secretary of Transportation shall conduct a national comp
 
 (2) The Secretary shall award a grant to each finalist to be used to participate in the final phase of the competition under procedures the Secretary prescribes. A grant may not be more than 80 percent of the cost of participating. A finalist may not receive more than one-third of the amount made available under subsection (h)(1)(A) of this section.
 
-(3) Not later than July 15, 1992, the Secretary shall select from among the 3 finalists a public entity with which to make a full financing grant agreement.
+(3) Not later than July 15, 1992, the Secretary shall select from among the 3 finalists a public entity with which to make a full funding grant agreement.
 
 (d)
 
-Environmental Impact.—Not later than 270 days after a public entity is selected undersubsection (c) of this section, the Secretary shall approve and publish in the Federal Register a notice announcing either a finding of no significant impact or a draft environmental impact statement for the project. The alternatives analysis for the project shall include a decision on whether to construct the project. If a draft statement is published, the Secretary, not later than 180 days after publication, shall approve and publish in the Federal Register a notice of completion of a final environmental impact statement.
+Environmental Impact.—Not later than 270 days after a public entity is selected under subsection (c) of this section, the Secretary shall approve and publish in the Federal Register a notice announcing either a finding of no significant impact or a draft environmental impact statement for the project. The alternatives analysis for the project shall include a decision on whether to construct the project. If a draft statement is published, the Secretary, not later than 180 days after publication, shall approve and publish in the Federal Register a notice of completion of a final environmental impact statement.
 
 (e)
 
-Full Financing Grant Agreement.—Not later than 60 days after carrying out the requirements of subsection (d) of this section, the Secretary shall make a full financing grant agreement under section 5309 of this title with the public entity selected under subsection (c) of this section to construct the project. The agreement shall provide that the system vendor for the project shall finance—
+Full Funding Grant Agreement.—Not later than 60 days after carrying out the requirements of subsection (d) of this section, the Secretary shall make a full funding grant agreement under section 5309 of this title with the public entity selected under subsection (c) of this section to construct the project. The agreement shall provide that the system vendor for the project shall finance—
 
 &emsp;(1) 100 percent of any deficit incurred in operating the project in the first 2 years of revenue operations of the project; and
 
@@ -44,17 +44,17 @@ Full Financing Grant Agreement.—Not later than 60 days after carrying out the 
 
 (f)
 
-Notice To Proceed.—Not later than 30 days after making the full financing grant agreement, the Secretary shall issue a notice to proceed with construction.
+Notice To Proceed.—Not later than 30 days after making the full funding grant agreement, the Secretary shall issue a notice to proceed with construction.
 
 (g)
 
 Option Not To Construct and Reawarding the Grant.—(1) Not later than 30 days after completing preliminary engineering and design, the selected public entity shall decide whether to proceed to constructing the project. If the entity decides not to proceed—
 
-&emsp;(A) the Secretary shall not make the full financing grant agreement;
+&emsp;(A) the Secretary shall not make the full funding grant agreement;
 
 &emsp;(B) remaining amounts received shall be returned to the Secretary and credited to the Mass Transit Account of the Highway Trust Fund; and
 
-&emsp;(C) the Secretary shall use the credited amount and other amounts to be provided under this section to award to another entity selected under subsection (c)(1) of this section a grant under section 5309 of this title to construct the project.
+&emsp;(C) the Secretary shall use the credited amount and other amounts to be providedunder this section to award to another entity selected under subsection (c)(1) of this section a grant under section 5309 of this title to construct the project.
 
 (2) Not later than 60 days after a decision is made under paragraph (1) of this subsection, a grant shall be awarded under paragraph (1)(C) of this subsection after completing a competitive process for selecting the grant recipient.
 
@@ -86,7 +86,7 @@ Project Not Subject to Major Capital Investment Policy.—The project is not sub
 
 Report.—Not later than January 30, 1993, and each year after that date, the Secretary shall submit to Congress a report on the progress and results of the project.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1), July 22, 1998, 112 Stat. 856.)
 
 Historical and Revision Notes
 
@@ -164,13 +164,21 @@ This amends 49:5320(g)(2) to correct an erroneous cross-reference.
 
 #### Amendments
 
+1998—Subsec. (c)(1), (3). Pub. L. 105–178, §3009(h)(3)(A)(i), substituted “full funding” for “full financing”.
+
+Subsec. (e). Pub. L. 105–178, §3009(h)(3)(A)(ii), as amended by Pub. L. 105–206, substituted “Funding” for “Financing” in heading.
+
+Pub. L. 105–178, §3009(h)(3)(A)(i), substituted “full funding” for “full financing”.
+
+Subsecs. (f), (g)(1)(A). Pub. L. 105–178, §3009(h)(3)(A)(i), substituted “full funding” for “full financing”.
+
 1994—Subsec. (g)(2). Pub. L. 103–429 substituted “paragraph (1)(C) of this subsection” for “paragraph (1)(C) of this section”.
+
+#### Effective Date of 1998 Amendment
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5338 of this title.
 

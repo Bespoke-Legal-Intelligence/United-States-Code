@@ -16,7 +16,7 @@ As used in this subchapter, the following terms shall have the meanings ascribed
 
 (g) The term “United States Housing Act of 1937” \[42 U.S.C. 1437 et seq.\] means the provisions of that Act, including all amendments thereto, now or hereafter adopted, except provisions relating to the initial construction of a project or dwelling units.
 
-(Oct. 14, 1940, ch. 862, title VI, §610, as added June 28, 1948, ch. 688, §7, as added Apr. 20, 1950, ch. 94, title II, §201, 64 Stat. 59; amended Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669; 1967 Reorg. Plan No. 3, §402(432), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 948; Dec. 24, 1973, Pub. L. 93–198, title IV, §401, 87 Stat. 785.)
+(Oct. 14, 1940, ch. 862, title VI, §610, as added June 28, 1948, ch. 688, §7, as added Apr. 20, 1950, ch. 94, title II, §201, 64 Stat. 59; amended Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; 1967 Reorg. Plan No. 3, §402(432), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 948; Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785.)
 
 #### References in Text
 
@@ -28,7 +28,7 @@ The United States Housing Act of 1937, referred to in subsecs. (d), (f), and (g)
 
 #### Transfer of Functions
 
-In subsec. (a), “Council of the District of Columbia” substituted for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by section401 of Pub. L. 93–198, classified to section 1–221 of the District of Columbia Code.
+In subsec. (a), “Council of the District of Columbia” substituted for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198, classified to section 1–221 of the District of Columbia Code.
 
 Previously, reference to Board of Commissioners of District of Columbia had been changed to District of Columbia Council pursuant to section 402(432) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, eff. Nov. 3, 1967, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of Board of Commissioners relating to functions under this subchapter previously vested in Board of Commissioners pursuant to this section to District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing District of Columbia Council, see section 201 of the Reorg. Plan No. 3 of 1967.
 

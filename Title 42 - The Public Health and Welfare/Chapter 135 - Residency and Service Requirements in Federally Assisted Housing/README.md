@@ -66,6 +66,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER V—SAFETY AND SECURITY IN PUBLIC AND ASSISTED HOUSING
+
+|  |  |
+| :--- | ---: |
+| [13661\.](Subchapter%20005%20%28V%29%20-%20Safety%20and%20Security%20in%20Public%20and%20Assisted%20Housing/%C2%A7%2013661%20-%20Screening%20of%20applicants%20for%20federally%20assisted%20housing.md) | Screening of applicants for federally assisted housing. |
+| (a) | Ineligibility because of eviction for drug crimes. |
+| (b) | Ineligibility of illegal drug users and alcohol abusers. |
+| (c) | Authority to deny admission to criminal offenders. |
+| [13662\.](Subchapter%20005%20%28V%29%20-%20Safety%20and%20Security%20in%20Public%20and%20Assisted%20Housing/%C2%A7%2013662%20-%20Termination%20of%20tenancy%20and%20assistance%20for%20illegal%20drug%20users%20and%20alcohol%20abusers%20in%20federally%20assisted%20housing.md) | Termination of tenancy and assistance for illegal drug users and alcohol abusers in federally assisted housing. |
+| (a) | In general. |
+| (b) | Consideration of rehabilitation. |
+| [13663\.](Subchapter%20005%20%28V%29%20-%20Safety%20and%20Security%20in%20Public%20and%20Assisted%20Housing/%C2%A7%2013663%20-%20Ineligibility%20of%20dangerous%20sex%20offenders%20for%20admission%20to%20public%20housing.md) | Ineligibility of dangerous sex offenders for admission to public housing. |
+| (a) | In general. |
+| (b) | Obtaining information. |
+| (c) | Requests by owners for PHAs to obtain information. |
+| (d) | Opportunity to dispute. |
+| (e) | Fee. |
+| (f) | Records management. |
+| [13664\.](Subchapter%20005%20%28V%29%20-%20Safety%20and%20Security%20in%20Public%20and%20Assisted%20Housing/%C2%A7%2013664%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -75,3 +97,4 @@
 - [Subchapter 002 (II) - Authority to Provide Preferences for Elderly Residents and Units for Disabled Residents in Certain Section 8 Assisted Housing](Subchapter%20002%20%28II%29%20-%20Authority%20to%20Provide%20Preferences%20for%20Elderly%20Residents%20and%20Units%20for%20Disabled%20Residents%20in%20Certain%20Section%208%20Assisted%20Housing/README.md)
 - [Subchapter 003 (III) - Service Coordinators for Elderly and Disabled Residents of Federally Assisted Housing](Subchapter%20003%20%28III%29%20-%20Service%20Coordinators%20for%20Elderly%20and%20Disabled%20Residents%20of%20Federally%20Assisted%20Housing/README.md)
 - [Subchapter 004 (IV) - General Provisions](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/README.md)
+- [Subchapter 005 (V) - Safety and Security in Public and Assisted Housing](Subchapter%20005%20%28V%29%20-%20Safety%20and%20Security%20in%20Public%20and%20Assisted%20Housing/README.md)

@@ -8,13 +8,13 @@
 
 #### Prior Provisions
 
-A prior section 245 of Pub. L. 93–415 was classified to section 5656 of this title prior to repeal by Pub. L. 100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
+A prior section 245 of Pub. L. 93–415 was classified to section 5656 of this title prior to repeal by Pub. L.100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
 
 Another prior section 245 of Pub. L. 93–415 was classified to section 5655 of this title prior to repeal by Pub. L. 98–473, title II, §634, Oct. 12, 1984, 98 Stat. 2119.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–586 inserted before period at end of first sentence “, including methods andtechniques specifically designed to prevent and reduce the incidence of hate crimes committed by juveniles”.
+1992—Subsec. (a). Pub. L. 102–586 inserted before period at end of first sentence “, including methods and techniques specifically designed to prevent and reduce the incidence of hate crimes committed by juveniles”.
 
 1984—Subsec. (b). Pub. L. 98–473, §637(a), substituted “law enforcement and correctional personnel (including volunteer lay personnel), teachers and special education personnel, family counselors, child welfare workers, juvenile judges and judicial personnel, persons associated with law-related education, youth workers, and representatives of private agencies and organizations with specific experience in the prevention and treatment of juvenile delinquency” for “correctional and law enforcement personnel, teachers and other educational personnel, juvenile welfare workers, juvenile judges and judicial personnel, probation officers, and other persons (including lay personnel, including persons associated with law-related education programs, youth workers, and representatives of private youth agencies and organizations) connected with the prevention and treatment of juvenile delinquency”.
 

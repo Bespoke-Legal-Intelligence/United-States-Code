@@ -1,8 +1,8 @@
 ### §2432. Freedom of emigration in East-West trade
 
-#### (a) Actions of nonmarket economy countries making them ineligible for most-favored-nation treatment, programs of credits, credit guarantees, or investment guarantees, or commercial agreements
+#### (a) Actions of nonmarket economy countries making them ineligible for normal trade relations, programs of credits, credit guarantees, or investment guarantees, or commercial agreements
 
-To assure the continued dedication of the United States to fundamental human rights, and notwithstanding any other provision of law, on or after January 3, 1975, products from any nonmarket economy country shall not be eligible to receive nondiscriminatory treatment (most-favored-nation treatment), such country shall not participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
+To assure the continued dedication of the United States to fundamental human rights, and notwithstanding any other provision of law, on or after January 3, 1975, products from any nonmarket economy country shall not be eligible to receive nondiscriminatory treatment (normal trade relations), such country shall not participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
 
 &emsp;(1) denies its citizens the right or opportunity to emigrate;
 
@@ -14,7 +14,7 @@ To assure the continued dedication of the United States to fundamental human rig
 
 #### (b) Presidential determination and report to Congress that nation is not violating freedom of emigration
 
-After January 3, 1975, (A) products of a nonmarket economy country may be eligible to receive nondiscriminatory treatment (most-favored-nation treatment), (B) such country may participate in any program of the Government of the United States which extends credits orcredit guarantees or investment guarantees, and (C) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of emigration laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter so long as such treatment is received, such credits or guarantees are extended, or such agreement is in effect.
+After January 3, 1975, (A) products of a nonmarket economy country may be eligible to receive nondiscriminatory treatment (normal trade relations), (B) such country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (C) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of emigration laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter so long as such treatment is received, such credits or guarantees are extended, or such agreement is in effect.
 
 #### (c) Waiver authority of President
 
@@ -44,7 +44,7 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 > If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-month extension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
 
-(2)(A) The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title, and—
+(2)(A) The requirements of this paragraph are met if the joint resolution is enacted under theprocedures set forth in section 2193 of this title, and—
 
 &emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
 
@@ -58,7 +58,7 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975.
 
-(Pub. L. 93–618, title IV, §402, Jan. 3, 1975, 88 Stat. 2056; Pub. L. 96–39, title XI, §1106(f)(1), July 26, 1979, 93 Stat. 312; Pub. L. 101–382, title I, §132(a)(1), (2), Aug. 20, 1990, 104 Stat. 643, 644.)
+(Pub. L. 93–618, title IV, §402, Jan. 3, 1975, 88 Stat. 2056; Pub. L. 96–39, title XI, §1106(f)(1), July 26, 1979, 93 Stat. 312; Pub. L. 101–382, title I, §132(a)(1), (2), Aug. 20, 1990, 104 Stat. 643, 644; Pub. L. 105–206, title V, §5003(b)(2)(A), July 22, 1998, 112 Stat. 789.)
 
 #### References in Text
 
@@ -66,7 +66,9 @@ The Tariff Schedules of the United States, referred to in subsec. (e), to be tre
 
 #### Amendments
 
-1990—Subsec. (d)(1). Pub. L. 101–382, §132(a)(1), (2)(A), (B), redesignated par. (5) as (1), and substituted “If thePresident determines that the further extension of the waiver authority granted under subsection (c) of this section will” for “If the waiver authority granted by subsection (c) of this section has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will” in introductory provisions, substituted “, unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).” for “, unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in section 2193 of this title, a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country.” in concluding provisions, and struck out former par. (1) which read as follows: “If the President determines that the extension of the waiver authority granted by subsection (c)(1) of this section will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
+1998—Subsecs. (a), (b). Pub. L. 105–206 substituted “(normal trade relations)” for “(most-favored-nation treatment)”.
+
+1990—Subsec. (d)(1). Pub. L. 101–382, §132(a)(1), (2)(A), (B), redesignated par. (5) as (1), and substituted “If the President determines that the further extension of the waiver authority granted under subsection (c) of this section will” for “If the waiver authority granted by subsection (c) of this section has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will” in introductory provisions, substituted “, unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).” for “, unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in section 2193 of this title, a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country.” in concluding provisions, and struck out former par. (1) which read as follows: “If the President determines that the extension of the waiver authority granted by subsection (c)(1) of this section will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
 
 &emsp;“(A) be made not later than 30 days before the expiration of such authority;
 
@@ -142,6 +144,8 @@ Ex. Ord. No. 12809, June 3, 1992, 57 F.R. 23925.—Albania, Azerbaijan, Georgia,
 
 Ex. Ord. No. 12811, June 24, 1992, 57 F.R. 28585.—Tajikistan and Turkmenistan.
 
+Ex. Ord. No. 13079, Apr. 7, 1998, 63 F.R. 17309.—Vietnam.
+
 #### Presidential Determinations Relating to Waivers
 
 The following Presidential Determinations related to waivers or continuation of waivers for the countries listed:
@@ -215,6 +219,12 @@ Determination No. 97–25, May 29, 1997, 62 F.R. 31313.—People's Republic of C
 Determination No. 97–28, June 3, 1997, 62 F.R. 32019.—Albania, Belarus, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.
 
 Determination No. 98–17, Mar. 9, 1998, 63 F.R. 14329.—Vietnam.
+
+Determination No. 98–26, June 3, 1998, 63 F.R. 32705.—People's Republic of China.
+
+Determination No. 98–27, June 3, 1998, 63 F.R. 32707.—Vietnam.
+
+Determination No. 98–28, June 3, 1998, 63 F.R. 32709.—Republic of Belarus.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ The Secretary shall provide for the establishment of a farm program payment yiel
 
 #### (5) Balancing yields
 
-&emsp;If national, State, or county program payment yields are established, the farm program payment yields shall balance to the national, State, or county program payment yields.
+&emsp;If national, State, or county program payment yields are established, the farm programpayment yields shall balance to the national, State, or county program payment yields.
 
 #### (c) Determination of yields
 
@@ -42,7 +42,7 @@ The Secretary shall provide for the establishment of a farm program payment yiel
 
 #### (2) Prior yields
 
-&emsp;For purposes of the preceding sentence, the farm program payment yield for the 1986 crop year and the actual yield per harvested acre with respect to the 1987 and subsequent cropyears shall be used in determining farm program payment yields.
+&emsp;For purposes of the preceding sentence, the farm program payment yield for the 1986 crop year and the actual yield per harvested acre with respect to the 1987 and subsequent crop years shall be used in determining farm program payment yields.
 
 #### (3) Reduction limitation
 
@@ -70,7 +70,7 @@ In the case of any farm for which the actual yield per harvested acre for any pr
 
 &emsp;The Secretary shall provide timely notification to producers of the provisions of this subsection.
 
-(Oct. 31, 1949, ch. 792, title V, §505, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1462; amended Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3495; Aug. 10, 1993, Pub. L. 103–66, title I, §1101(b)(2)(B), 107 Stat. 314.)
+(Oct. 31, 1949, ch. 792, title V, §505, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1462; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3495; Pub. L. 103–66, title I, §1101(b)(2)(B), Aug. 10, 1993, 107 Stat. 314.)
 
 #### Prior Provisions
 

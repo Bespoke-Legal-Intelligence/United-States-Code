@@ -14,11 +14,19 @@ In exercising his authority to acquire property by exchange, the Secretary may a
 
 The Secretary shall report to the Congress on every exchange carried out under authority of sections 459b to 459b–8 of this title within thirty days from its consummation, and each such report shall include a statement of the fair market values of the properties involved and of any cash equalization payment made or received.
 
-#### (d) “Fair market value” defined; appraisal
+#### (d) Exchange of property; addition to Cape Cod National Seashore
+
+The Secretary may convey to the town of Provincetown, Massachusetts, a parcel of real property consisting of approximately 7.62 acres of Federal land within such area in exchange forapproximately 11.157 acres of land outside of such area, as depicted on the map entitled “Cape Cod National Seashore Boundary Revision Map”, dated May, 1997, and numbered 609/80,801, to allow for the establishment of a municipal facility to serve the town that is restricted to solid waste transfer and recycling facilities and for other municipal activities that are compatible with National Park Service laws and regulations. Upon completion of the exchange, the Secretary shall modify the boundary of the Cape Cod National Seashore to include the land that has been added.
+
+#### (e) “Fair market value” defined; appraisal
 
 As used in sections 459b to 459b–8 of this title the term “fair market value” shall mean the fair market value as determined by the Secretary, who may in his discretion base his determination on an independent appraisal obtained by him.
 
-(Pub. L. 87–126, §2, Aug. 7, 1961, 75 Stat. 287.)
+(Pub. L. 87–126, §2, Aug. 7, 1961, 75 Stat. 287; Pub. L. 105–280, §1(a), Oct. 26, 1998, 112 Stat. 2694.)
+
+#### Amendments
+
+1998—Subsecs. (d), (e). Pub. L. 105–280 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Section Referred to in Other Sections
 

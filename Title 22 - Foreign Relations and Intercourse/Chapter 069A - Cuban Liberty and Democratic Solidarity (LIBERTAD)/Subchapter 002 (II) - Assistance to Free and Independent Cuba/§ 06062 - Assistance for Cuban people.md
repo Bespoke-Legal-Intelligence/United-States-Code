@@ -22,7 +22,7 @@
 
 #### (2) Types of assistance
 
-&emsp;Assistance under the plan developed under paragraph (1) may, subject to an authorizationof appropriations and subject to the availability of appropriations, include the following:
+&emsp;Assistance under the plan developed under paragraph (1) may, subject to an authorization of appropriations and subject to the availability of appropriations, include the following:
 
 #### (A) Transition government
 
@@ -64,7 +64,7 @@ The plan developed under subsection (b) of this section shall include a strategy
 
 #### (d) Distribution
 
-Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
+Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, includinghumanitarian, educational, labor, and private sector organizations.
 
 #### (e) International efforts
 
@@ -94,7 +94,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;&emsp;&emsp;(i) reciprocal extension of nondiscriminatory trade treatment (most-favored-nation treatment);
 
-&emsp;&emsp;&emsp;(ii) designation of Cuba as a beneficiary developing country under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] (relating to the Generalized System of Preferences) or as a beneficiary country under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], and the implications of such designation with respect to trade with any other country that is such a beneficiary developing country orbeneficiary country or is a party to the North American Free Trade Agreement; and
+&emsp;&emsp;&emsp;(ii) designation of Cuba as a beneficiary developing country under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] (relating to the Generalized System of Preferences) or as a beneficiary country under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], and the implications of such designation with respect to trade with any other country that is such a beneficiary developing country or beneficiary country or is a party to the North American Free Trade Agreement; and
 
 &emsp;&emsp;&emsp;(iii) negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
 

@@ -6,7 +6,7 @@
 
 (b) Not more than one Airman's Medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal, the President may award a suitable bar or other device to be worn as he directs.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 542; July 6, 1960, Pub. L. 86–593, §1(6), 74 Stat. 332; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §574(c), 111 Stat. 1758.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 542; Pub. L. 86–593, §1(6), July 6, 1960, 74 Stat. 332; Pub. L. 105–85, div. A, title V, §574(c), Nov. 18, 1997, 111 Stat. 1758.)
 
 Historical and Revision Notes
 

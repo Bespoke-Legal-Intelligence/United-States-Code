@@ -20,7 +20,7 @@ In awarding grants under subsection (a) of this section, the Director may make g
 
 For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §512, as added July 10, 1992, Pub. L. 102–321, title I, §111, 106 Stat. 344.)
+(July 1, 1944, ch. 373, title V, §512, as added Pub. L. 102–321, title I, §111, July 10, 1992, 106 Stat. 344.)
 
 #### Prior Provisions
 

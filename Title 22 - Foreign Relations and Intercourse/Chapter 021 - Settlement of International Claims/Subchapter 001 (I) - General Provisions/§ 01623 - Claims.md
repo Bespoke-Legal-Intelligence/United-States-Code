@@ -2,11 +2,19 @@
 
 #### (a) Jurisdiction of Commission; bases for determination; fair market value
 
-The Commission shall have jurisdiction to receive, examine, adjudicate, and render final decisions with respect to claims of the Government of the United States and of nationals ofthe United States included within the terms of the Yugoslav Claims Agreement of 1948, or included within the terms of any claims agreement on and after March 10, 1954 concluded between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof. In the decision of claims under this subchapter, the Commission shall apply the following in the following order:
+(1) The Commission shall have jurisdiction to receive, examine, adjudicate, and render a final decision with respect to any claim of the Government of the United States or of any national of the United States—
 
-&emsp;(1) The provisions of the applicable claims agreement as provided in this subsection.
+&emsp;(A) included within the terms of the Yugoslav Claims Agreement of 1948;
 
-&emsp;(2) The applicable principles of international law, justice, and equity. In determining the value of a claim under international law, the Commission shall award the fair market value of the property as of the time of the taking by the foreign government involved (without regard to any action or event that occurs after the taking), except that the value of the claim shall not reflect any diminution in value attributable to actions which are carried out, or threats of action which are made, by the foreign government with respect to the property before the taking. Fair market value shall be ascertained in accordance with the method most appropriate to the property taken and equitable to the claimant, including—
+&emsp;(B) included within the terms of any claims agreement concluded on or after March 10, 1954, between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof; or
+
+&emsp;(C) included in a category of claims against a foreign government which is referred to the Commission by the Secretary of State.
+
+(2) In the decision of claims under this subchapter, the Commission shall apply the following in the following order:
+
+&emsp;(A) The provisions of the applicable claims agreement as provided in this subsection.
+
+&emsp;(B) The applicable principles of international law, justice, and equity. In determining the value of a claim under international law, the Commission shall award the fair market value of the property as of the time of the taking by the foreign government involved (without regard to any action or event that occurs after the taking), except that the value of the claim shall not reflect any diminution in value attributable to actions which are carried out, or threats of action which are made, by the foreign government with respect to the property before the taking. Fair market value shall be ascertained in accordance with the method most appropriate to the property taken and equitable to the claimant, including—
 
 &emsp;&emsp;(i) market value of outstanding equity securities;
 
@@ -20,7 +28,7 @@ The Commission shall have jurisdiction to receive, examine, adjudicate, and rend
 
 #### (b) Notice of filing time; publication; basis of decisions; finality of decision
 
-The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
+The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall beupon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
 
 #### (c) Administration of oaths; examination of witnesses; subpenas; reporting of hearings; witness fees; contempt
 
@@ -32,7 +40,7 @@ The Commission may order testimony to be taken by deposition in any inquiry or h
 
 #### (e) Penalties
 
-In addition to the penalties provided in section 1001 of title 18, any person guilty of any act,as provided therein, with respect to any matter under this subchapter, shall forfeit all rights under this subchapter, and, if payment shall have been made or granted, the Commission shall take such action as may be necessary to recover the same.
+In addition to the penalties provided in section 1001 of title 18, any person guilty of any act, as provided therein, with respect to any matter under this subchapter, shall forfeit all rights under this subchapter, and, if payment shall have been made or granted, the Commission shall take such action as may be necessary to recover the same.
 
 #### (f) Attorney's fees; limitation
 
@@ -48,7 +56,7 @@ The Commission shall notify all claimants of the approval or denial of their cla
 
 #### (i) Separation of awards
 
-The Commission may in its discretion enter an award with respect to one or more items deemed to have been clearly established in an individual claim while deferring consideration and action on other items of the same claim.
+The Commission may in its discretion enter an award with respect to one or more itemsdeemed to have been clearly established in an individual claim while deferring consideration and action on other items of the same claim.
 
 #### (j) Compliance with administrative procedure law
 
@@ -58,7 +66,7 @@ The Commission shall comply with the provisions of subchapter II of chapter 5, a
 
 In exercising authority granted after October 8, 1986, under this chapter or any other Act, the Commission, in determining the value of claims of the Government of the United States or of nationals of the United States (as defined in this chapter or such other Act) against any foreign government for losses arising from the nationalization or other taking of property, shall comply with the principles set forth in subsection (a)(2) of this section.
 
-(Mar. 10, 1950, ch. 54, title I, §4, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 90–421, §1(1), July 24, 1968, 82 Stat. 420; Pub. L. 99–451, §1, Oct. 8, 1986, 100 Stat. 1138.)
+(Mar. 10, 1950, ch. 54, title I, §4, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 90–421, §1(1), July 24, 1968, 82 Stat. 420; Pub. L. 99–451, §1, Oct. 8, 1986, 100 Stat. 1138; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2211, Oct. 21, 1998, 112 Stat. 2681–812.)
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 
@@ -69,6 +77,8 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 In subsec. (j), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act of 1946” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 added par. (1), redesignated second sentence as par. (2) and former pars. (1) and (2) as subpars. (A) and (B), respectively, and struck out former first sentence which read as follows: “The Commission shall have jurisdiction to receive, examine, adjudicate, and render final decisions with respect to claims of the Government of the United States and of nationals of the United States included within the terms of the Yugoslav Claims Agreement of 1948, or included within the terms of any claims agreement on and after March 10, 1954 concluded between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof.”
 
 1986—Subsec. (a). Pub. L. 99–451, §1(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the decision of claims under this subchapter, the Commission shall apply the following in the following order: (1) The provisions of the applicable claims agreement as provided in this subsection; and (2) the applicable principles of international law, justice, and equity.”
 
@@ -86,7 +96,7 @@ Section 2 of Pub. L. 99–451 provided that: “The amendments made by this Act 
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
-International Claims Commission of the United States, including offices of its members, abolished andfunctions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring the Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 

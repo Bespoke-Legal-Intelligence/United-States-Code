@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–337, §623(1)(A), substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest” in introductory provisions.
+1994—Subsec. (b)(1). Pub. L. 103–337, §623(1)(A), substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergencyis received or the international airport nearest” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 103–337, §623(1)(B), substituted “closest to the location” for “closest to the international airport”.
 

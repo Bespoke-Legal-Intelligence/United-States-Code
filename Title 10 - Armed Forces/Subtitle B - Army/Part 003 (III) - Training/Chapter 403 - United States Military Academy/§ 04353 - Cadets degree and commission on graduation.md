@@ -4,7 +4,7 @@
 
 (b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Army under section 531 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 245; Sept. 2, 1958, Pub. L. 85–861, §1(103), 72 Stat. 1489; Dec. 12, 1980, Pub. L. 96–513, title V, §502(26), 94 Stat. 2911.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 245; Pub. L. 85–861, §1(103), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 96–513, title V, §502(26), Dec. 12, 1980, 94 Stat. 2911.)
 
 Historical and Revision Notes<br>1956
 

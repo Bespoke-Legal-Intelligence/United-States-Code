@@ -8,7 +8,7 @@
 
 #### (2) State and local program support
 
-&emsp;There is authorized to be appropriated to the Federal Emergency Management Agency for each of the fiscal years 1987, 1988, 1989, and 1990, $5,000,000 for making grants to support programs of State and local governments, and to support university-sponsored programs, which are designed to improve emergency planning, preparedness, mitigation, response, and recovery capabilities. Such programs shall provide special emphasis with respect to emergencies associated with hazardous chemicals. Such grants may not exceed 80 percent of the cost of any such program. The remaining 20 percent of such costs shall be funded from non-Federal sources.
+&emsp;There is authorized to be appropriated to the Federal Emergency Management Agency for each of the fiscal years 1987, 1988, 1989, and 1990, $5,000,000 for making grants to support programs of State and local governments, and to support university-sponsored programs, which are designed to improve emergency planning, preparedness, mitigation, response, and recovery capabilities. Such programs shallprovide special emphasis with respect to emergencies associated with hazardous chemicals. Such grants may not exceed 80 percent of the cost of any such program. The remaining 20 percent of such costs shall be funded from non-Federal sources.
 
 #### (3) Other programs
 
@@ -18,7 +18,7 @@
 
 #### (1) Review
 
-&emsp;The Administrator shall initiate, not later than 30 days after October 17, 1986, a review of emergency systems for monitoring, detecting, and preventing releases of extremely hazardous substances at representative domestic facilities that produce, use, or store extremely hazardous substances. The Administrator mayselect representative extremely hazardous substances from the substances on the list referred to in section 11002(a) of this title for the purposes of this review. The Administrator shall report interim findings to the Congress not later than seven months after October 17, 1986, and issue a final report of findings and recommendations to the Congress not later than 18 months after October 17, 1986. Such report shall be prepared in consultation with the States and appropriate Federal agencies.
+&emsp;The Administrator shall initiate, not later than 30 days after October 17, 1986, a review of emergency systems for monitoring, detecting, and preventing releases of extremely hazardous substances at representative domestic facilities that produce, use, or store extremely hazardous substances. The Administrator may select representative extremely hazardous substances from the substances on the list referred to in section 11002(a) of this title for the purposes of this review. The Administrator shall report interim findings to the Congress not later than seven months after October 17, 1986, and issue a final report of findings and recommendations to the Congress not later than 18 months after October 17, 1986. Such report shall be prepared in consultation with the States and appropriate Federal agencies.
 
 #### (2) Report
 

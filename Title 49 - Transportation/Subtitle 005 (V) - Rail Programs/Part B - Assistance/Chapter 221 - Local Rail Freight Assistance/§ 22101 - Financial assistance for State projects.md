@@ -6,7 +6,7 @@ General.—The Secretary of Transportation shall provide financial assistance to
 
 &emsp;(1) acquiring, in any way the State considers appropriate, an interest in a rail line or rail property to maintain existing, or to provide future, rail freight transportation, but only if the Surface Transportation Board has authorized, or exempted from the requirements of that authorization, the abandonment of, or the discontinuance of rail transportation on, the rail line related to the project;
 
-&emsp;(2) improving and rehabilitating rail property on a rail line to the extent necessary to allow adequate and efficient rail freight transportation on the line, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year; and
+&emsp;(2) improving and rehabilitating rail property on a rail line to the extent necessary to allow adequate and efficient rail freight transportation on the line, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 grosston-miles of freight a mile in the prior year; and
 
 &emsp;(3) building rail or rail-related facilities (including new connections between at least 2 existing rail lines, intermodal freight terminals, sidings, bridges, and relocation of existing lines) to improve the quality and efficiency of the rail freight transportation, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 
@@ -20,7 +20,7 @@ Conditions.—(1) Assistance for a project shall be provided under this chapter 
 
 &emsp;(A) a rail carrier certifies that the rail line related to the project carried more than 20 carloads a mile during the most recent year during which transportation was provided by the carrier on the line; and
 
-&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodologyestablished under subsection (b) of this section, is more than 1.0.
+&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodology established under subsection (b) of this section, is more than 1.0.
 
 (2) If the rail carrier that provided the transportation on the rail line is no longer in existence, the applicant for the project shall provide the information required by the certification under paragraph (1)(A) of this subsection in the way the Secretary prescribes.
 

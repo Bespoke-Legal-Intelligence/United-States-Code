@@ -26,7 +26,7 @@ The TPCC shall—
 
 &emsp;(4) prevent unnecessary duplication in Federal export promotion and export financing activities;
 
-&emsp;(5) assess the appropriate levels and allocation of resources among agencies in support of export promotion and export financing and provide recommendations to the President based on its assessment; and
+&emsp;(5) assess the appropriate levels and allocation of resources among agencies in support of export promotion and export financing andprovide recommendations to the President based on its assessment; and
 
 &emsp;(6) carry out such other duties as are deemed to be appropriate, consistent with the purpose of the TPCC.
 

@@ -4,7 +4,7 @@
 
 (b) Judicial proceedings provided under sections 18 and 21 of the Longshore and Harbor Workers’ Compensation Act \[33 U.S.C. 918, 921\] in respect to a compensation order made pursuant to this chapter shall be instituted in the United States district court of the judicial district wherein is located the office of the deputy commissioner whose compensation order is involved if his office is located in a judicial district, and if not so located, such judicial proceedings shall be instituted in the judicial district nearest the base at which the injury or death occurs.
 
-(Aug. 16, 1941, ch. 357, §3, 55 Stat. 623; 1946 Reorg. Plan No. 2, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; Sept. 28, 1984, Pub. L. 98–426, §27(d)(2), 98 Stat. 1654.)
+(Aug. 16, 1941, ch. 357, §3, 55 Stat. 623; 1946 Reorg. Plan No. 2, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 #### References in Text
 

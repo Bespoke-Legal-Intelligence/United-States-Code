@@ -18,7 +18,7 @@ All official inspection and official weighing, whether performed by authorized e
 
 The Secretary is authorized and directed to require that all corn exported from the United States be tested to ascertain whether it exceeds acceptable levels of aflatoxin contamination, unless the contract for export between the buyer and seller stipulates that aflatoxin testing shall not be conducted.
 
-(Aug. 11, 1916, ch. 313, pt. B, §5, 39 Stat. 483; Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 763; Oct. 21, 1976, Pub. L. 94–582, §6, 90 Stat. 2869; Sept. 29, 1977, Pub. L. 95–113, title XVI, §1606(b), 91 Stat.1030; Oct. 13, 1980, Pub. L. 96–437, §2, 94 Stat. 1870; Nov. 28, 1990, Pub. L. 101–624, title XX, §2007, 104 Stat. 3931; Nov. 24, 1993, Pub. L. 103–156, §12(c), 107 Stat. 1528; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(3), (7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §5, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §6, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, §1606(b), Sept. 29, 1977, 91 Stat. 1030; Pub. L. 96–437, §2, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 101–624, title XX, §2007, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §12(c), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(3), (7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

@@ -42,15 +42,17 @@ In order to foster and promote useful part-time opportunities in community servi
 
 &emsp;&emsp;(III) their physical capabilities;
 
-> &emsp;except to the extent such project has, for the particular participant involved, an assessment of such skills and talents, such need, or such capabilities prepared recently pursuant to another employment or training program (such as a program under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) or the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.));
+> &emsp;except to the extent such project has, for the particular participant involved, an assessment of such skills and talents, such need, or such capabilities prepared recently pursuant to another employment or training program (such as a program under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]);
 
 &emsp;(ii) will provide to eligible individuals training and employment counseling based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment provided for in clause (i); and
 
 &emsp;(iii) will provide counseling to participants on their progress in meeting such objectives and satisfying their need for supportive services;
 
-&emsp;(O) will authorize funds to be used, to the extent feasible, to include individuals participating in such project under any State unemployment insurance plan; and
+&emsp;(O) will authorize funds to be used, to the extent feasible, to include individuals participating in such project under any State unemployment insurance plan;
 
-&emsp;(P) will post in such project workplace a notice, and will make available to each person associated with such project a written explanation, clarifying the law with respect to allowable and unallowable political activities under chapter 15 of title 5, applicable to the project and to each category of individuals associated with such project and containing the address and telephone number of the Inspector General of the Department of Labor, to whom questions regarding the application of such chapter may be addressed.
+&emsp;(P) will post in such project workplace a notice, and will make available to each person associated with such project a written explanation, clarifying the law with respect to allowable and unallowable political activities under chapter 15 of title 5, applicable to the project and to each category of individuals associated with such project and containing the address and telephone number of the Inspector General of the Department of Labor, to whom questions regarding the application of such chapter may be addressed; and
+
+&emsp;(Q) will provide to the Secretary the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 \[29 U.S.C. 2822(b)(8), (14)\].
 
 (2) The Secretary is authorized to establish, issue, and amend such regulations as may be necessary to effectively carry out the provisions of this subchapter.
 
@@ -94,7 +96,7 @@ In order to foster and promote useful part-time opportunities in community servi
 
 &emsp;(B) will emphasize projects involving second careers and job placement and give consideration to placement in growth industries and in jobs reflecting new technological skills; and
 
-&emsp;(C) require the coordination of projects carried out under such agreements, with the programs carried out under section 124 of the Job Training Partnership Act (29 U.S.C. 1534).
+&emsp;(C) require the coordination of projects carried out under such agreements, with the programs carried out under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 (3)(A) The Secretary shall carry out an evaluation of the second career training and job placement projects authorized by this subsection.
 
@@ -106,21 +108,35 @@ In order to foster and promote useful part-time opportunities in community servi
 
 (4) For the purpose of this subsection, “eligible individual” means any individual who is 55 years of age or older and who has an income equal to or less than the intermediate level retired couples budget as determined annually by the Bureau of Labor Statistics.
 
-(Pub. L. 89–73, title V, §502, formerly title IX, §902, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720; renumbered title V, §502, and amended Pub. L. 95–478, title I, §105(a), (b), Oct. 18, 1978, 92 Stat. 1547; Pub. L. 97–115, §12(a)(1), (2), (b)(1), (c), Dec. 29, 1981, 95 Stat. 1606; Pub. L. 98–459, title V, §501, Oct. 9, 1984, 98 Stat. 1786; Pub. L. 100–175, title I, §§161, 162(a), Nov. 29, 1987, 101 Stat. 957; Pub. L. 102–375, title V, §§501, 504(c)(1), (2), title IX, §904(b)(1), Sept. 30, 1992, 106 Stat. 1265, 1269, 1309.)
+(Pub. L. 89–73, title V, §502, formerly title IX, §902, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720; renumbered title V, §502, and amended Pub. L. 95–478, title I, §105(a), (b), Oct. 18, 1978, 92 Stat. 1547; Pub. L. 97–115, §12(a)(1), (2), (b)(1), (c), Dec. 29, 1981, 95 Stat. 1606; Pub. L. 98–459, title V, §501, Oct. 9, 1984, 98 Stat. 1786; Pub. L. 100–175, title I, §§161, 162(a), Nov. 29, 1987, 101 Stat. 957; Pub. L. 102–375, titleV, §§501, 504(c)(1), (2), title IX, §904(b)(1), Sept. 30, 1992, 106 Stat. 1265, 1269, 1309; Pub. L. 105–220, title III, §323, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§403(b), 405(d)(33)(B), (f)(25)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, 2681–426, 2681–433; Pub. L. 105–332, §3(i)(1), Oct. 31, 1998, 112 Stat. 3126.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(25)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–433, 2681–435, provided that, effective July 1, 2000, this section is amended in subsections (b)(1)(N)(i) and (e)(2)(C) of this section by striking “the Job Training Partnership Act and”.</i>
 
 #### References in Text
 
 The Fair Labor Standards Act, referred to in subsec. (b)(1)(J), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (b)(1)(N)(i), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsecs. (b)(1)(N)(i) and (e)(2)(C), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(N)(i) and (e)(2)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
 A prior section 502 of Pub. L. 89–73, title V, as added Pub. L. 93–29, title V, §501, May 3, 1973, 87 Stat. 50, related to requirements for approval of applications, preferred areas, and agency application and was classified to section 3041a of this title, prior to repeal by Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(N)(i). Pub. L. 105–332 struck out “or the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.)” before “);” at end.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(B)(i)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act (29 U.S.C. 1501 et seq.)”.
+
+Subsec. (b)(1)(Q). Pub. L. 105–277, §101(f) \[title VIII, §403(b)\], aligned margins of subpar. (Q) with those of subpar. (P).
+
+Pub. L. 105–220 added subpar. (Q).
+
+Subsec. (e)(2)(C). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(33)(B)(ii)\], substituted “programs carried out under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “programs carried out under section 124 of the Job Training Partnership Act (29 U.S.C. 1534)”.
 
 1992—Subsec. (a). Pub. L. 102–375, §501(1), inserted “and who have poor employment prospects” after “or older”.
 
@@ -144,7 +160,7 @@ Subsec. (e)(2). Pub. L. 102–375, §501(5)(A), substituted “The Secretary sha
 
 Subsec. (e)(2)(C). Pub. L. 102–375, §501(5)(B)–(D), added subpar. (C).
 
-1987—Subsec. (b)(1)(M). Pub. L. 100–175, §162(a), amended subpar. (M) generally. Prior to amendment,subpar. (M) read as follows: “will assure that, to the extent feasible, such project will serve the needs of minority, Indian, and limited English-speaking eligible individuals in proportion to their numbers in the State;”.
+1987—Subsec. (b)(1)(M). Pub. L. 100–175, §162(a), amended subpar. (M) generally. Prior to amendment, subpar. (M) read as follows: “will assure that, to the extent feasible, such project will serve the needs of minority, Indian, and limited English-speaking eligible individuals in proportion to their numbers in the State;”.
 
 Subsec. (c)(3). Pub. L. 100–175, §161, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Of the amount for any project to be paid by the Secretary under this subsection, not more than—
 
@@ -173,6 +189,10 @@ Subsec. (e). Pub. L. 97–115, §12(c), designated existing provisions as par. (
 1978—Subsec. (b)(3), (4). Pub. L. 95–478, §105(b)(1), added pars. (3) and (4).
 
 Subsecs. (d), (e). Pub. L. 95–478, §105(b)(2), added subsecs. (d) and (e).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(33)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(25)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1992 Amendment
 

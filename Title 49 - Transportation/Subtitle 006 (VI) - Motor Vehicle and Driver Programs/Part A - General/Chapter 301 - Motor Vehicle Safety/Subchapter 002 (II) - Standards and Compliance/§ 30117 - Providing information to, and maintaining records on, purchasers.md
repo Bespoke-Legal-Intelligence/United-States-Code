@@ -32,7 +32,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 &emsp;(iii) the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires.
 
-(C) A manufacturer of tires shall reimburse distributors and dealers of that manufacturer'stires for all reasonable costs incurred by the distributors and dealers in complying with a requirement prescribed by the Secretary under subparagraph (A) of this paragraph.
+(C) A manufacturer of tires shall reimburse distributors and dealers of that manufacturer's tires for all reasonable costs incurred by the distributors and dealers in complying with a requirement prescribed by the Secretary under subparagraph (A) of this paragraph.
 
 (D) After making a decision under subparagraph (A) of this paragraph, the Secretary shall submit to each House of Congress a report containing a detailed statement of the decision and an explanation of the reasons for the decision.
 

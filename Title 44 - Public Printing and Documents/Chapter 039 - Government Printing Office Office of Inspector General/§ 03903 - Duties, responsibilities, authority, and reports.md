@@ -6,7 +6,7 @@
 
 &emsp;(2) “Public Printer” for “head of the establishment”.
 
-(b) The Inspector General, in carrying out the provisions of this chapter, is authorized to select, appoint, and employ such officers and employees as may be necessary for carrying out thefunctions, powers, and duties of the Office of Inspector General subject to the provisions of this title governing selections, appointments, and employment in the Government Printing Office (and any regulations thereunder).
+(b) The Inspector General, in carrying out the provisions of this chapter, is authorized to select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of this title governing selections, appointments, and employment in the Government Printing Office (and any regulations thereunder).
 
 (Added Pub. L. 100–504, title II, §202, Oct. 18, 1988, 102 Stat. 2531.)
 

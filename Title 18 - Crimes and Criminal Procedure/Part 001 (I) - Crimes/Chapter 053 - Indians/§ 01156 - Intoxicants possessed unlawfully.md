@@ -4,7 +4,7 @@ Whoever, except for scientific, sacramental, medicinal or mechanical purposes, p
 
 The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, §28, 63 Stat. 94; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, §28, 63 Stat. 94; Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

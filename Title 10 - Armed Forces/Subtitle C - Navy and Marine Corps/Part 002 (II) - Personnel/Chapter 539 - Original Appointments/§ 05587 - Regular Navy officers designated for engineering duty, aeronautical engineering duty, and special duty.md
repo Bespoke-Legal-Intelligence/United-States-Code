@@ -8,7 +8,7 @@
 
 (d) Officers designated for engineering duty, aeronautical engineering duty, or special duty shall perform sea or shore duty appropriate to their special qualifications but may not succeed to command except on shore and then only as authorized by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 325; Dec. 8, 1967, Pub. L. 90–179, §5(2), 81 Stat. 547; July 5, 1968, Pub. L. 90–386, §1(5), 82 Stat. 293; Dec. 12, 1980, Pub. L. 96–513, title III, §324, 94 Stat. 2893.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 325; Pub. L. 90–179, §5(2), Dec. 8, 1967, 81 Stat. 547; Pub. L. 90–386, §1(5), July 5, 1968, 82 Stat. 293; Pub. L. 96–513, title III, §324, Dec. 12, 1980, 94 Stat. 2893.)
 
 Historical and Revision Notes
 

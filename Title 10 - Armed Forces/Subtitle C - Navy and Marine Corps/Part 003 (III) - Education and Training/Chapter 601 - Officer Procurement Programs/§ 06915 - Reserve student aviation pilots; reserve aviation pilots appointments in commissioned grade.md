@@ -16,7 +16,7 @@
 
 (h) An aviation pilot of the Naval Reserve or the Marine Corps Reserve may, if qualified under regulations prescribed by the Secretary, be appointed an ensign in the Naval Reserve or a second lieutenant in the Marine Corps Reserve, as appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 427; Sept. 7, 1962, Pub. L. 87–649, §14c(51), 76 Stat. 501; Dec. 12, 1980, Pub. L. 96–513, title V, §513(21), 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 427; Pub. L. 87–649, §14c(51), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §513(21), Dec. 12, 1980, 94 Stat. 2932.)
 
 Historical and Revision Notes
 

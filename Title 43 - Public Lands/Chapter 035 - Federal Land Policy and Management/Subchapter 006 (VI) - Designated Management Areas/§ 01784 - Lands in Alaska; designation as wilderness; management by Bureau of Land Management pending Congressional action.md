@@ -10,7 +10,7 @@ The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 
 
 #### Codification
 
-Section was enacted as part of the Alaska National Interest Lands Conservation Act, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+Section was enacted as part of the Alaska National Interest Lands Conservation Act, and not as part of theFederal Land Policy and Management Act of 1976 which comprises this chapter.
 
 #### Kenai Natives Association Land Exchange
 
@@ -112,7 +112,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;“(ii) The remaining subsurface estate held by the United States to approximately 13,651 acres, including portions of the Beaver Creek Patented Tract, the Beaver Creek Selected Tract, and portions of the Swanson River Road West Tract and the Swanson River Road East Tract, where the surface was previously or will be conveyed to KNA pursuant to this Act but excluding the SW1/4 of section 21, T. 6 N., R. 9 W\[.\], Seward Meridian, Alaska, which will be retained by the United States. The conveyance of these subsurface interests will be subject to the rights of CIRI to the coal, oil, gas, and to all rights CIRI, its successors, and assigns would have under paragraph 1(B) of the Terms and Conditions, including the right to sand and gravel, to construct facilities, to have rights-of-way, and to otherwise develop it subsurface interests.
 
-&emsp;&emsp;&emsp;“(iii)(I) The nonexclusive right to use sand and gravel which is reasonably necessary for on-site development without compensation or permit on those portions of the Swanson River Road East Tract, comprising approximately 1,738.04 acres; where the entire subsurface of the land is presently owned by the United States. The United States shall retain the ownership of all other sand and gravel located within the subsurface and KNA shall not sell or dispose of such sand and gravel.
+&emsp;&emsp;&emsp;“(iii)(I) The nonexclusive right to use sand and gravel which is reasonably necessary for on-site development without compensation or permit on those portions of the Swanson River Road East Tract, comprising approximately 1,738.04 acres;where the entire subsurface of the land is presently owned by the United States. The United States shall retain the ownership of all other sand and gravel located within the subsurface and KNA shall not sell or dispose of such sand and gravel.
 
 &emsp;&emsp;&emsp;“(II) The right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate.
 
@@ -122,7 +122,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;“(C)
 
-Payment.—The United States shall make a total cash payment to KNA for the above-described lands of $4,443,000, contingent upon the appropriate approvals of the Federal or State of Alaska EVOSTrustees (or both) necessary for any expenditure of the EVOS settlement funds.
+Payment.—The United States shall make a total cash payment to KNA for the above-described lands of $4,443,000, contingent upon the appropriate approvals of the Federal or State of Alaska EVOS Trustees (or both) necessary for any expenditure of the EVOS settlement funds.
 
 &emsp;&emsp;“(D)
 
@@ -176,7 +176,7 @@ Purpose.—To balance the potential effects on fish, wildlife, and habitat of th
 
 Management.—
 
-&emsp;&emsp;“(A) Such designation is subject to all valid existing rights as well as the subsistence preferences provided under title VIII of ANILCA \[16 U.S.C. 3111 et seq.\]. Any lands conveyed to the State of Alaskashall be removed from the Lake Todatonten Special Management Area.
+&emsp;&emsp;“(A) Such designation is subject to all valid existing rights as well as the subsistence preferences provided under title VIII of ANILCA \[16 U.S.C. 3111 et seq.\]. Any lands conveyed to the State of Alaska shall be removed from the Lake Todatonten Special Management Area.
 
 &emsp;&emsp;“(B) The Secretary may permit any additional uses of the area, or grant easements, only to the extent that such use, including leasing under the mineral leasing laws, is determined to not detract from nor materially interfere with the purposes for which the Special Management Area is established.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the environmental requirements that apply to land acquisitions covered under part 151 of title 25, Code of Federal Regulations (or any subsequent similar regulation), the Secretary shall take such action as may be necessary to facilitate the conveyance to theUnited States of title to lands described in exhibits A and B of the State Agreement. Such lands shall be held by the United States in trust for the use and benefit of the Mohegan Tribe as the initial Indian reservation of the Mohegan Tribe.
+Subject to the environmental requirements that apply to land acquisitions covered under part 151 of title 25, Code of Federal Regulations (or any subsequent similar regulation), the Secretary shall take such action as may be necessary to facilitate the conveyance to the United States of title to lands described in exhibits A and B of the State Agreement. Such lands shall be held by the United States in trust for the use and benefit of the Mohegan Tribe as the initial Indian reservation of the Mohegan Tribe.
 
 #### (b) Consultation
 

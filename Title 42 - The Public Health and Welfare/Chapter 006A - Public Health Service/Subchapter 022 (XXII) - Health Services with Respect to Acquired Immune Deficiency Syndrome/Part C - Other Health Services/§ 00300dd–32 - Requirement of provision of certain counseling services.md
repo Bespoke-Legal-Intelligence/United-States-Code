@@ -50,7 +50,7 @@ Agreements entered into pursuant to subsections (a) through (c) of this section 
 
 (4) Paragraph (3) may not be construed to prohibit a counselor who has already performed the counseling of an individual required by paragraph (2), to provide accurate information about means to reduce an individual's risk of exposure to, or the transmission of, the etiologic agent for acquired immune deficiency syndrome, provided that any informational materials used are not obscene.
 
-(July 1, 1944, ch. 373, title XXIV, §2432, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3090; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2618(i), 102 Stat. 4242; July 10, 1992, Pub. L. 102–321, title I, §118(b)(1)(B), 106 Stat. 348.)
+(July 1, 1944, ch. 373, title XXIV, §2432, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3090; amended Pub. L. 100–690, title II, §2618(i), Nov. 18, 1988, 102 Stat. 4242; Pub. L. 102–321, title I, §118(b)(1)(B), July 10, 1992, 106 Stat. 348.)
 
 #### Amendments
 

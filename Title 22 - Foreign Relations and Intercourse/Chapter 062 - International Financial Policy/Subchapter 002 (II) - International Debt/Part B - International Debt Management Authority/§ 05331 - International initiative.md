@@ -32,7 +32,7 @@ In any discussions initiated under subsection (a) of this section, the Secretary
 
 &emsp;(2) That support for such an authority should come from industrialized countries, and that greater support should be expected from countries with strong current account surpluses.
 
-&emsp;(3) That such an authority should have a clearly defined close working relationship with the International Monetary Fund and the International Bank for Reconstruction andDevelopment and the various regional development banks.
+&emsp;(3) That such an authority should have a clearly defined close working relationship with the International Monetary Fund and the International Bank for Reconstruction and Development and the various regional development banks.
 
 &emsp;(4) That such an authority should be designed to operate as a self-supporting entity, requiring no routine appropriation of resources from any member government, and to function subject to the prohibitions contained in the first sentence of section 5332(a) of this title.
 
@@ -44,7 +44,7 @@ At the end of the 6-month period beginning on August 23, 1988, and at the end of
 
 #### (d) Final report
 
-On the conclusion of the study or of discussions described in subsection (a) of this section, the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, together with such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
+On the conclusion of the study or of discussions described in subsection (a) of this section, the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and theCommittee on Foreign Relations of the Senate, together with such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
 
 (Pub. L. 100–418, title III, §3111, Aug. 23, 1988, 102 Stat. 1376.)
 

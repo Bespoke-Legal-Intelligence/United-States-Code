@@ -16,7 +16,7 @@ It shall be unlawful—
 
 &emsp;(g) for any person knowingly to violate any regulation of the Secretary of Agriculture relating to the sampling of cotton made pursuant to section 473c of this title.
 
-(Mar. 3, 1927, ch. 337, §3c–1, as added July 5, 1960, Pub. L. 86–588, 74 Stat. 328.)
+(Mar. 3, 1927, ch. 337, §3c–1, as added Pub. L. 86–588, July 5, 1960, 74 Stat. 328.)
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) “employee” means an employee as defined by section 8101 of this title; and
 
-&emsp;(2) “agency” means an agency in any branch of the Government of the United States, including an instrumentality wholly owned by the United States, and the government of the District of Columbia.
+&emsp;(2) “agency” means an agency in any branch of the Government of the United States (not including the United States Postal Service), including an instrumentality wholly owned by the United States, and the government of the District of Columbia.
 
 (b) The Secretary of Labor shall carry out a safety program under section 941(b)(1) of title 33 covering the employment of each employee of an agency.
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 91–596, §19(c), Dec. 29, 1970, 84 Stat. 1610.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 91–596, §19(c), Dec. 29, 1970, 84 Stat. 1610; Pub. L. 105–241, §2(b)(2), Sept. 28, 1998, 112 Stat. 1572.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,8 @@ In subsection (d), the word “foster” is omitted as included in “develop an
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “Government of the United States”.
 
 1970—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
 
@@ -98,7 +100,7 @@ Heads of Agencies
 
 (c) Designate an agency official with sufficient authority to represent the interest and support of the agency head to be responsible for the management and administration of the agency occupational safety and health program.
 
-(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. When an agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretary and provide justification that equivalent or greater protection will be assured by the alternate standard.
+(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. When an agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretaryand provide justification that equivalent or greater protection will be assured by the alternate standard.
 
 (e) Assure prompt abatement of unsafe or unhealthy working conditions. Whenever an agency cannot promptly abate such conditions, it shall develop an abatement plan setting forth a timetable for abatement and a summary of interim steps to protect employees. Employees exposed to the conditions shall be informed of the provisions of the plan. When a hazard cannot be abated without assistance of the General Services Administration or other Federal lessor agency, an agency shall act with the lessor agency to secure abatement.
 
@@ -166,7 +168,7 @@ Department of Labor
 
 The Federal Advisory Council on Occupational Safety and Health
 
-1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to Executive Order No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
+1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to ExecutiveOrder No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
 
 1–502. The Secretary, or a designee, shall serve as the Chairman of the Council, and shall prescribe rules for the conduct of its business.
 
@@ -192,7 +194,7 @@ General Provisions
 
 1–701. Employees shall be authorized official time to participate in the activities provided for by this order.
 
-1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alterany other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (50 U.S.C. 403(d)(3)).
+1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (50 U.S.C. 403(d)(3)).
 
 1–703. Executive Order No. 11807 of September 28, 1974, is revoked.
 

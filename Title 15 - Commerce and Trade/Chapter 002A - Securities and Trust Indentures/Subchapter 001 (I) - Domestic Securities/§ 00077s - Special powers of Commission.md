@@ -36,7 +36,7 @@
 
 > As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
 
-(May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Feb. 5, 1976, Pub. L. 94–210, title III, §308(a)(2), 90 Stat. 57; Oct. 21, 1980, Pub. L. 96–477, title V, §505, 94 Stat. 2292; Dec. 4, 1987, Pub. L. 100–181, title II, §207, 101 Stat. 1252.)
+(May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Pub. L. 94–210, title III, §308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, §505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, §207, Dec. 4, 1987, 101 Stat. 1252.)
 
 #### Amendments
 

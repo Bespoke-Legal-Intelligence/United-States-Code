@@ -2,7 +2,7 @@
 
 Any enlisted member on the retired list recalled to active duty who during such active duty is advanced to a higher grade or rating under a permanent or temporary appointment or promotion shall, upon relief from active duty be advanced on the retired list to the highest grade or rating held while on active duty. In case the appointment or promotion was temporary the advancement on the retired list shall be made only to such grade or rating in which the member served satisfactorily on active duty.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 522; Aug. 3, 1950, ch. 536, §20, 64 Stat. 407; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), (G), (4)(C)(i), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 522; Aug. 3, 1950, ch. 536, §20, 64 Stat. 407; Pub. L. 98–557, §15(a)(3)(A), (G), (4)(C)(i), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 

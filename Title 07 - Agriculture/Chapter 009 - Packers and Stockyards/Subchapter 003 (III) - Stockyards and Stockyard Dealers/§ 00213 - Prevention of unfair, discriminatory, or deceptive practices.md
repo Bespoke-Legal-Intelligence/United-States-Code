@@ -4,7 +4,7 @@
 
 (b) Whenever complaint is made to the Secretary by any person, or whenever the Secretary has reason to believe, that any stockyard owner, market agency, or dealer is violating the provisions of subsection (a) of this section, the Secretary after notice and full hearing may make an order that he shall cease and desist from continuing such violation to the extent that the Secretary finds that it does or will exist. The Secretary may also assess a civil penalty of not more than $10,000 for each such violation. In determining the amount of the civil penalty to be assessed under this section, the Secretary shall consider the gravity of the offense, the size of the business involved, and the effect of the penalty on the person's ability to continue in business. If, after the lapse of the period allowed for appeal or after the affirmance of such penalty, the person against whom the civil penalty is assessed fails to pay such penalty, the Secretary may refer the matter to the Attorney General who may recover such penalty by an action in the appropriate district court of the United States.
 
-(Aug. 15, 1921, ch. 64, title III, §312, 42 Stat. 167; Sept. 2, 1958, Pub. L. 85–909, §2(5), 72 Stat. 1750; July 31, 1968, Pub. L. 90–446, §1(e), 82 Stat. 475; Sept. 13, 1976, Pub. L. 94–410, §3, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title III, §312, 42 Stat. 167; Pub. L. 85–909, §2(5), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, §1(e), July 31, 1968, 82 Stat. 475; Pub. L. 94–410, §3, Sept. 13, 1976, 90 Stat. 1249.)
 
 #### Amendments
 

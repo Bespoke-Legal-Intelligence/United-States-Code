@@ -1,0 +1,402 @@
+### §2864. Use of funds for employment and training activities
+
+#### (a) Statewide employment and training activities
+
+#### (1) In general
+
+&emsp;Funds reserved by a Governor for a State—
+
+&emsp;&emsp;(A) as described in section 2863(a)(2) of this title shall be used to carry out the statewide rapid response activities described in paragraph (2)(A); and
+
+&emsp;&emsp;(B) as described in sections 2853(a) and 2863(a)(1) of this title—
+
+&emsp;&emsp;&emsp;(i) shall be used to carry out the statewide employment and training activities described in paragraph (2)(B); and
+
+&emsp;&emsp;&emsp;(ii) may be used to carry out any of the statewide employment and training activities described in paragraph (3),
+
+> &emsp;&emsp;regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or under paragraph (1) or (2) of section 2862(b) of this title.
+
+#### (2) Required statewide employment and training activities
+
+#### (A) Statewide rapid response activities
+
+&emsp;&emsp;A State shall use funds reserved as described in section 2863(a)(2) of this title to carry out statewide rapid response activities, which shall include—
+
+&emsp;&emsp;&emsp;(i) provision of rapid response activities, carried out in local areas by the State or by an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas; and
+
+&emsp;&emsp;&emsp;(ii) provision of additional assistance to local areas that experience disasters, mass layoffs or plant closings, or other events that precipitate substantial increases in the number of unemployed individuals, carried out in local areas by the State or by an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas.
+
+#### (B) Other required statewide employment and training activities
+
+&emsp;&emsp;A State shall use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title) to carry out other statewide employment and training activities, which shall include—
+
+&emsp;&emsp;&emsp;(i) disseminating the State list of eligible providers of training services, including eligible providers of nontraditional training services, information identifying eligible providers of on-the-job training and customized training, and performance information and program cost information, as described in subsections (e) and (h) of section 2842 of this title;
+
+&emsp;&emsp;&emsp;(ii) conducting evaluations, under section 2871(e) of this title, of activities authorized in this section, in coordination with the activities carried out under section 2917 of this title;
+
+&emsp;&emsp;&emsp;(iii) providing incentive grants to local areas for regional cooperation among local boards (including local boards for a designated region as described in section 2831(c) of this title), for local coordination of activities carried out under this Act, and for exemplary performance by local areas on the local performance measures;
+
+&emsp;&emsp;&emsp;(iv) providing technical assistance to local areas that fail to meet local performance measures;
+
+&emsp;&emsp;&emsp;(v) assisting in the establishment and operation of one-stop delivery systems described in subsection (c) of this section; and
+
+&emsp;&emsp;&emsp;(vi) operating a fiscal and management accountability information system under section 2871(f) of this title.
+
+#### (3) Allowable statewide employment and training activities
+
+#### (A) In general
+
+&emsp;&emsp;A State may use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title) to carry out additional statewide employment and training activities, which may include—
+
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B), administration by the State of the activities authorized under this section;
+
+&emsp;&emsp;&emsp;(ii) provision of capacity building and technical assistance to local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff and the development of exemplary program activities;
+
+&emsp;&emsp;&emsp;(iii) conduct of research and demonstrations;
+
+&emsp;&emsp;&emsp;(iv)(I) implementation of innovative incumbent worker training programs, which may include the establishment and implementation of an employer loan program to assist in skills upgrading; and
+
+&emsp;&emsp;&emsp;(II) the establishment and implementation of programs targeted to empowerment zones and enterprise communities;
+
+&emsp;&emsp;&emsp;(v) support for the identification of eligible providers of training services as required under section 2842 of this title;
+
+&emsp;&emsp;&emsp;(vi)(I) implementation of innovative programs for displaced homemakers, which for purposes of this subclause may include an individual who is receiving public assistance and is within 2 years of exhausting lifetime eligibility under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
+
+&emsp;&emsp;&emsp;(II) implementation of programs to increase the number of individuals training for and placed in nontraditional employment; and
+
+&emsp;&emsp;&emsp;(vii) carrying out other activities authorized in this section that the State determines to be necessary to assist local areas in carrying out activities described in subsection (d) or (e) of this section through the statewide workforce investment system.
+
+#### (B) Limitation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Of the funds allotted to a State under sections 2852(b) and 2862(b) of this title and reserved as described in sections 2853(a) and 2863(a)(1) of this title for a fiscal year—
+
+&emsp;&emsp;&emsp;&emsp;(I) not more than 5 percent of the amount allotted under section 2852(b)(1) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) not more than 5 percent of the amount allotted under section 2862(b)(1) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(III) not more than 5 percent of the amount allotted under section 2862(b)(2) of this title,
+
+&emsp;&emsp;&nbsp;may be used by the State for the administration of youth activities carried out under section 2854 of this title and employment and training activities carried out under this section.
+
+#### (ii) Use of funds
+
+&emsp;&emsp;&emsp;Funds made available for administrative costs under clause (i) may be used for theadministrative cost of any of the statewide youth activities or statewide employment and training activities, regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title.
+
+#### (b) Local employment and training activities
+
+Funds allocated to a local area for adults under paragraph (2)(A) or (3), as appropriate, of section 2863(b) of this title, and funds allocated to a local area for dislocated workers under section 2863(b)(2)(B) of this title—
+
+&emsp;(1) shall be used to carry out employment and training activities described in subsection (d) of this section for adults or dislocated workers, respectively; and
+
+&emsp;(2) may be used to carry out employment and training activities described in subsection (e) of this section for adults or dislocated workers, respectively.
+
+#### (c) Establishment of one-stop delivery system
+
+#### (1) In general
+
+&emsp;There shall be established in a State that receives an allotment under section 2862(b) of this title a one-stop delivery system, which—
+
+&emsp;&emsp;(A) shall provide the core services described in subsection (d)(2) of this section;
+
+&emsp;&emsp;(B) shall provide access to intensive services and training services as described in paragraphs (3) and (4) of subsection (d) of this section, including serving as the point of access to individual training accounts for training services to participants in accordance with subsection (d)(4)(G) of this section;
+
+&emsp;&emsp;(C) shall provide access to the activities carried out under subsection (e) of this section, if any;
+
+&emsp;&emsp;(D) shall provide access to programs and activities carried out by one-stop partners and described in section 2841(b) of this title; and
+
+&emsp;&emsp;(E) shall provide access to the information described in section 15 of the Wagner-Peyser Act \[29 U.S.C. 49<i>l</i>–2\] and all job search, placement, recruitment, and other labor exchange services authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.).
+
+#### (2) One-stop delivery
+
+&emsp;At a minimum, the one-stop delivery system—
+
+&emsp;&emsp;(A) shall make each of the programs, services, and activities described in paragraph (1) accessible at not less than one physical center in each local area of the State; and
+
+&emsp;&emsp;(B) may also make programs, services, and activities described in paragraph (1) available—
+
+&emsp;&emsp;&emsp;(i) through a network of affiliated sites that can provide one or more of the programs, services, and activities to individuals; and
+
+&emsp;&emsp;&emsp;(ii) through a network of eligible one-stop partners—
+
+&emsp;&emsp;&emsp;&emsp;(I) in which each partner provides one or more of the programs, services, and activities to such individuals and is accessible at an affiliated site that consists of a physical location or an electronically or technologically linked access point; and
+
+&emsp;&emsp;&emsp;&emsp;(II) that assures individuals that information on the availability of the core services will be available regardless of where the individuals initially enter the statewide workforce investment system, including information made available through an access point described in subclause (I).
+
+#### (3) Specialized centers
+
+&emsp;The centers and sites described in paragraph (2) may have a specialization in addressing special needs, such as the needs of dislocated workers.
+
+#### (d) Required local employment and training activities
+
+#### (1) In general
+
+#### (A) Allocated funds
+
+&emsp;&emsp;Funds allocated to a local area for adults under paragraph (2)(A) or (3), as appropriate, of section 2863(b) of this title, and funds allocated to the local area for dislocated workers under section 2863(b)(2)(B) of this title, shall be used—
+
+&emsp;&emsp;&emsp;(i) to establish a one-stop delivery system described in subsection (c) of this section;
+
+&emsp;&emsp;&emsp;(ii) to provide the core services described in paragraph (2) to adults and dislocated workers, respectively, through the one-stop delivery system in accordance with such paragraph;
+
+&emsp;&emsp;&emsp;(iii) to provide the intensive services described in paragraph (3) to adults and dislocated workers, respectively, described in such paragraph; and
+
+&emsp;&emsp;&emsp;(iv) to provide training services described in paragraph (4) to adults and dislocated workers, respectively, described in such paragraph.
+
+#### (B) Other funds
+
+&emsp;&emsp;A portion of the funds made available under Federal law authorizing the programs and activities described in section 2841(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
+
+#### (2) Core services
+
+&emsp;Funds described in paragraph (1)(A) shall be used to provide core services, which shall be available to individuals who are adults or dislocated workers through the one-stop delivery system and shall, at a minimum, include—
+
+&emsp;&emsp;(A) determinations of whether the individuals are eligible to receive assistance under this subchapter;
+
+&emsp;&emsp;(B) outreach, intake (which may include worker profiling), and orientation to the information and other services available through the one-stop delivery system;
+
+&emsp;&emsp;(C) initial assessment of skill levels, aptitudes, abilities, and supportive service needs;
+
+&emsp;&emsp;(D) job search and placement assistance, and where appropriate, career counseling;
+
+&emsp;&emsp;(E) provision of employment statistics information, including the provision of accurate information relating to local, regional, and national labor market areas, including—
+
+&emsp;&emsp;&emsp;(i) job vacancy listings in such labor market areas;
+
+&emsp;&emsp;&emsp;(ii) information on job skills necessary to obtain the jobs described in clause (i); and
+
+&emsp;&emsp;&emsp;(iii) information relating to local occupations in demand and the earnings and skill requirements for such occupations; and
+
+&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
+
+&emsp;&emsp;(G) provision of information regarding how the local area is performing on the local performance measures and any additional performance information with respect to the one-stop delivery system in the local area;
+
+&emsp;&emsp;(H) provision of accurate information relating to the availability of supportive services, including child care and transportation, available in the local area, and referral to such services, as appropriate;
+
+&emsp;&emsp;(I) provision of information regarding filing claims for unemployment compensation;
+
+&emsp;&emsp;(J) assistance in establishing eligibility for—
+
+&emsp;&emsp;&emsp;(i) welfare-to-work activities authorized under section 403(a)(5) of the Social Security Act \[42 U.S.C. 603(a)(5)\] (as added by section 5001 of the Balanced Budget Act of 1997) available in the local area; and
+
+&emsp;&emsp;&emsp;(ii) programs of financial aid assistance for training and education programs that are not funded under this Act and are available in the local area; and
+
+&emsp;&emsp;(K) followup services, including counseling regarding the workplace, for participants in workforce investment activities authorized under this subchapter who are placed in unsubsidized employment, for not less than 12 months after the first day of the employment, as appropriate.
+
+#### (3) Intensive services
+
+#### (A) In general
+
+&emsp;&emsp;Funds allocated to a local area for adults under paragraph (2)(A) or (3), as appropriate, of section 2863(b) of this title, and funds allocated to the local area for dislocated workers under section 2863(b)(2)(B) of this title, shall be used to provide intensive services to adults and dislocated workers, respectively—
+
+&emsp;&emsp;&emsp;(i)(I) who are unemployed and are unable to obtain employment through core services provided under paragraph (2); and
+
+&emsp;&emsp;&emsp;(II) who have been determined by a one-stop operator to be in need of more intensive services in order to obtain employment; or
+
+&emsp;&emsp;&emsp;(ii) who are employed, but who are determined by a one-stop operator to be in need of such intensive services in order to obtain or retain employment that allows for self-sufficiency.
+
+#### (B) Delivery of services
+
+&emsp;&emsp;Such intensive services shall be provided through the one-stop delivery system—
+
+&emsp;&emsp;&emsp;(i) directly through one-stop operators identified pursuant to section 2841(d) of this title; or
+
+&emsp;&emsp;&emsp;(ii) through contracts with service providers, which may include contracts with public, private for-profit, and private nonprofit service providers, approved by the local board.
+
+#### (C) Types of services
+
+&emsp;&emsp;Such intensive services may include the following:
+
+&emsp;&emsp;&emsp;(i) Comprehensive and specialized assessments of the skill levels and service needs of adults and dislocated workers, which may include—
+
+&emsp;&emsp;&emsp;&emsp;(I) diagnostic testing and use of other assessment tools; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in-depth interviewing and evaluation to identify employment barriers and appropriate employment goals.
+
+&emsp;&emsp;&emsp;(ii) Development of an individual employment plan, to identify the employment goals, appropriate achievement objectives, and appropriate combination of services for the participant to achieve the employment goals.
+
+&emsp;&emsp;&emsp;(iii) Group counseling.
+
+&emsp;&emsp;&emsp;(iv) Individual counseling and career planning.
+
+&emsp;&emsp;&emsp;(v) Case management for participants seeking training services under paragraph (4).
+
+&emsp;&emsp;&emsp;(vi) Short-term prevocational services, including development of learning skills, communication skills, interviewing skills, punctuality, personal maintenance skills, and professional conduct, to prepare individuals for unsubsidized employment or training.
+
+#### (4) Training services
+
+#### (A) In general
+
+&emsp;&emsp;Funds allocated to a local area for adults under paragraph (2)(A) or (3), as appropriate, of section 2863(b) of this title, and funds allocated to a local area for dislocated workers under section 2863(b)(2)(B) of this title shall be used to provide training services to adults and dislocated workers, respectively—
+
+&emsp;&emsp;&emsp;(i) who have met the eligibility requirements for intensive services under paragraph (3)(A) and who are unable to obtain or retain employment through such services;
+
+&emsp;&emsp;&emsp;(ii) who after an interview, evaluation, or assessment, and case management, have been determined by a one-stop operator or one-stop partner, as appropriate, to be in need of training services and to have the skills and qualifications to successfully participate in the selected program of training services;
+
+&emsp;&emsp;&emsp;(iii) who select programs of training services that are directly linked to the employment opportunities in the local area involved or in another area in which the adults or dislocated workers receiving such services are willing to relocate;
+
+&emsp;&emsp;&emsp;(iv) who meet the requirements of subparagraph (B); and
+
+&emsp;&emsp;&emsp;(v) who are determined to be eligible in accordance with the priority system, if any, in effect under subparagraph (E).
+
+#### (B) Qualification
+
+#### (i) Requirement
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), provision of such training services shall be limited to individuals who—
+
+&emsp;&emsp;&emsp;&emsp;(I) are unable to obtain other grant assistance for such services, including Federal Pell Grants established under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]); or
+
+&emsp;&emsp;&emsp;&emsp;(II) require assistance beyond the assistance made available under other grant assistance programs, including Federal Pell Grants.
+
+#### (ii) Reimbursements
+
+&emsp;&emsp;&emsp;Training services may be provided under this paragraph to an individual who otherwise meets the requirements of this paragraph while an application for a Federal Pell Grant is pending, except that if such individual is subsequently awarded a Federal Pell Grant, appropriate reimbursement shall be made to the local area from such Federal Pell Grant.
+
+#### (C) Provider qualification
+
+&emsp;&emsp;Training services shall be provided through providers identified in accordance with section 2842 of this title.
+
+#### (D) Training services
+
+&emsp;&emsp;Training services may include—
+
+&emsp;&emsp;&emsp;(i) occupational skills training, including training for nontraditional employment;
+
+&emsp;&emsp;&emsp;(ii) on-the-job training;
+
+&emsp;&emsp;&emsp;(iii) programs that combine workplace training with related instruction, which may include cooperative education programs;
+
+&emsp;&emsp;&emsp;(iv) training programs operated by the private sector;
+
+&emsp;&emsp;&emsp;(v) skill upgrading and retraining;
+
+&emsp;&emsp;&emsp;(vi) entrepreneurial training;
+
+&emsp;&emsp;&emsp;(vii) job readiness training;
+
+&emsp;&emsp;&emsp;(viii) adult education and literacy activities provided in combination with services described in any of clauses (i) through (vii); and
+
+&emsp;&emsp;&emsp;(ix) customized training conducted with a commitment by an employer or group of employers to employ an individual upon successful completion of the training.
+
+#### (E) Priority
+
+&emsp;&emsp;In the event that funds allocated to a local area for adult employment and training activities under paragraph (2)(A) or (3) of section 2863(b) of this title are limited, priority shall be given to recipients of public assistance and other low-income individuals for intensive services and training services. The appropriate local board and the Governor shall direct the one-stop operators in the local area with regard to making determinations related to such priority.
+
+#### (F) Consumer choice requirements
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Training services provided under this paragraph shall be provided in a manner that maximizes consumer choice in the selection of an eligible provider of such services.
+
+#### (ii) Eligible providers
+
+&emsp;&emsp;&emsp;Each local board, through one-stop centers referred to in subsection (c) of this section, shall make available—
+
+&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description of the programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating to eligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
+
+#### (iii) Individual training accounts
+
+&emsp;&emsp;&emsp;An individual who seeks training services and who is eligible pursuant to subparagraph (A), may, in consultation with a case manager, select an eligible provider of training services from the list or identifying information for providers described in clause (ii)(I). Upon such selection, the one-stop operator involved shall, to the extent practicable, refer such individual to the eligible provider of training services, and arrange for payment for such services through an individual training account.
+
+#### (G) Use of individual training accounts
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), training services provided under this paragraph shall be provided through the use of individual training accounts in accordance with this paragraph, and shall be provided to eligible individuals through the one-stop delivery system.
+
+#### (ii) Exceptions
+
+&emsp;&emsp;&emsp;Training services authorized under this paragraph may be provided pursuant to a contract for services in lieu of an individual training account if the requirements of subparagraph (F) are met and if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such services are on-the-job training provided by an employer or customized training;
+
+&emsp;&emsp;&emsp;&emsp;(II) the local board determines there are an insufficient number of eligible providers of training services in the local area involved (such as in a rural area) to accomplish the purposes of a system of individual training accounts; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the local board determines that there is a training services program of demonstrated effectiveness offered in the local area by a community-based organization or another private organization to serve special participant populations that face multiple barriers to employment.
+
+#### (iii) Linkage to occupations in demand
+
+&emsp;&emsp;&emsp;Training services provided under this paragraph shall be directly linked to occupations that are in demand in the local area, or in another area to which an adult or dislocated worker receiving such services is willing to relocate, except that a local board may approve training services for occupations determined by the local board to be in sectors of the economy that have a high potential for sustained demand or growth in the local area.
+
+#### (iv) Definition
+
+&emsp;&emsp;&emsp;In this subparagraph, the term “special participant population that faces multiple barriers to employment” means a population of low-income individuals that is included in one or more of the following categories:
+
+&emsp;&emsp;&emsp;&emsp;(I) Individuals with substantial language or cultural barriers.
+
+&emsp;&emsp;&emsp;&emsp;(II) Offenders.
+
+&emsp;&emsp;&emsp;&emsp;(III) Homeless individuals.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Other hard-to-serve populations as defined by the Governor involved.
+
+#### (e) Permissible local employment and training activities
+
+#### (1) Discretionary one-stop delivery activities
+
+&emsp;Funds allocated to a local area for adults under paragraph (2)(A) or (3), as appropriate, of section 2863(b) of this title, and funds allocated to the local area for dislocated workers under section 2863(b)(2)(B) of this title, may be used to provide, through one-stop delivery described in subsection (c)(2) of this section—
+
+&emsp;&emsp;(A) customized screening and referral of qualified participants in training services described in subsection (d)(4) of this section to employment; and
+
+&emsp;&emsp;(B) customized employment-related services to employers on a fee-for-service basis.
+
+#### (2) Supportive services
+
+&emsp;Funds allocated to a local area for adults under paragraph (2)(A) or (3), as appropriate, of section 2863(b) of this title, and funds allocated to the local area for dislocated workers under section 2863(b)(2)(B) of this title, may be used to provide supportive services to adults and dislocated workers, respectively—
+
+&emsp;&emsp;(A) who are participating in programs with activities authorized in any of paragraphs (2), (3), or (4) of subsection (d) of this section; and
+
+&emsp;&emsp;(B) who are unable to obtain such supportive services through other programs providing such services.
+
+#### (3) Needs-related payments
+
+#### (A) In general
+
+&emsp;&emsp;Funds allocated to a local area for adults under paragraph (2)(A) or (3), as appropriate, of section 2863(b) of this title, and funds allocated to the local area for dislocated workers under section 2863(b)(2)(B) of this title, may be used to provide needs-related payments to adults and dislocated workers, respectively, who are unemployed and do not qualify for (or have ceased to qualify for) unemployment compensation for the purpose of enabling such individuals to participate in programs of training services under subsection (d)(4) of this section.
+
+#### (B) Additional eligibility requirements
+
+&emsp;&emsp;In addition to the requirements contained in subparagraph (A), a dislocated worker who has ceased to qualify for unemployment compensation may be eligible to receive needs-related payments under this paragraph only if such worker was enrolled in the training services—
+
+&emsp;&emsp;&emsp;(i) by the end of the 13th week after the most recent layoff that resulted in a determination of the worker's eligibility for employment and training activities for dislocated workers under this subchapter; or
+
+&emsp;&emsp;&emsp;(ii) if later, by the end of the 8th week after the worker is informed that a short-term layoff will exceed 6 months.
+
+#### (C) Level of payments
+
+&emsp;&emsp;The level of a needs-related payment made to a dislocated worker under this paragraph shall not exceed the greater of—
+
+&emsp;&emsp;&emsp;(i) the applicable level of unemployment compensation; or
+
+&emsp;&emsp;&emsp;(ii) if such worker did not qualify for unemployment compensation, an amount equal to the poverty line, for an equivalent period, which amount shall be adjusted to reflect changes in total family income.
+
+(Pub. L. 105–220, title I, §134, Aug. 7, 1998, 112 Stat. 990; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+
+#### References in Text
+
+This Act, referred to in subsecs. (a)(2)(B)(iii) and (d)(2)(J)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+The Social Security Act, referred to in subsec. (a)(3)(A)(vi)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The Wagner-Peyser Act, referred to in subsecs. (c)(1)(E) and (d)(1)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+
+Title II, referred to in subsec. (d)(2)(F), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (d)(2)(F), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+
+The Rehabilitation Act of 1973, referred to in subsec. (d)(2)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### Amendments
+
+1998—Subsec. (d)(4)(F)(iii). Pub. L. 105–277 added cl. (iii).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 49a, 49<i>l</i>–2, 772, 2102, 2801, 2821, 2822, 2832, 2841, 2842, 2853, 2854, 2863, 2871, 2888, 2913, 2918, 2931, 2934, 2944 of this title; title 5 section 3502.
+

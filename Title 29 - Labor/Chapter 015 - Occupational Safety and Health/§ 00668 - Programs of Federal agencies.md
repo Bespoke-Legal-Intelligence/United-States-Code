@@ -2,7 +2,7 @@
 
 #### (a) Establishment, development, and maintenance by head of each Federal agency
 
-It shall be the responsibility of the head of each Federal agency to establish and maintain an effective and comprehensive occupational safety and health program which is consistent with the standards promulgated under section 655 of this title. The head of each agency shall (after consultation with representatives of the employees thereof)—
+It shall be the responsibility of the head of each Federal agency (not including the United States Postal Service) to establish and maintain an effective and comprehensive occupational safety and health program which is consistent with the standards promulgated under section 655 of this title. The head of each agency shall (after consultation with representatives of the employees thereof)—
 
 &emsp;(1) provide safe and healthful places and conditions of employment, consistent with the standards set under section 655 of this title;
 
@@ -24,7 +24,7 @@ The Secretary shall report to the President a summary or digest of reports submi
 
 The Secretary shall have access to records and reports kept and filed by Federal agencies pursuant to subsections (a)(3) and (5) of this section unless those records and reports are specifically required by Executive order to be kept secret in the interest of the national defense or foreign policy, in which case the Secretary shall have access to such information as will not jeopardize national defense or foreign policy.
 
-(Pub. L. 91–596, §19, Dec. 29, 1970, 84 Stat. 1609; Pub. L. 97–375, title I, §110(c), Dec. 21, 1982, 96 Stat. 1821.)
+(Pub. L. 91–596, §19, Dec. 29, 1970, 84 Stat. 1609; Pub. L. 97–375, title I, §110(c), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 105–241, §2(b)(1), Sept. 28, 1998, 112 Stat. 1572.)
 
 #### Codification
 
@@ -32,7 +32,9 @@ Subsec. (c) of this section amended section 7902 of Title 5, Government Organiza
 
 #### Amendments
 
-1982—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate andHouse a report of the activities of Federal agencies under this section.
+1998—Subsec. (a). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “each Federal agency”.
+
+1982—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate and House a report of the activities of Federal agencies under this section.
 
 #### Occupational Safety and Health Programs for Federal Employees
 

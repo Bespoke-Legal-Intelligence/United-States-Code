@@ -28,7 +28,7 @@
 
 (c) Except as otherwise specifically prescribed by law, the Army Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Dec. 26, 1974, Pub. L. 93–547, 88 Stat. 1742; Jan. 2, 1975, Pub. L. 93–608, §1(6), 88 Stat. 1968; Oct. 19, 1984, Pub. L. 98–525, title V, §515, 98 Stat. 2522; Oct. 1, 1986, Pub. L. 99–433, title V, §502(a), 100 Stat. 1039.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 93–547, Dec. 26, 1974, 88 Stat. 1742; Pub. L. 93–608, §1(6), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, §515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, §502(a), Oct. 1, 1986, 100 Stat. 1039.)
 
 Historical and Revision Notes
 

@@ -6,19 +6,29 @@
 
 &emsp;(2) community physical development programs, including industrial parks and housing activities, which contribute to an improved environment and which create new training, employment and ownership opportunities for residents of such area;
 
-&emsp;(3) training and public service employment programs and related services for unemployed or low-income persons which support and complement community development programs financed under this part, including, without limitation, activities such as those described in the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]; and
+&emsp;(3) training and public service employment programs and related services for unemployedor low-income persons which support and complement community development programs financed under this part, including, without limitation, activities such as the activities described in the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]; and
 
 &emsp;(4) social service programs which support and complement community business and commercial development programs financed under this part, including child care, educational services, health services, credit counseling, energy conservation, recreation services, and programs for the maintenance of housing facilities.
 
 (b) The Secretary shall conduct programs assisted under this part so as to contribute, on an equitable basis between urban and rural areas, to the elimination of poverty and the establishment of permanent economic and social benefits in such areas.
 
-(Pub. L. 97–35, title VI, §617, Aug. 13, 1981, 95 Stat. 491; Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357.)
+(Pub. L. 97–35, title VI, §617, Aug. 13, 1981, 95 Stat. 491; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(40), (f)(31)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
+
+#### Amendment of Subsection (a)(3)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(31), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, subsection (a)(3) of this section is amended by striking “the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
 The Job Training Partnership Act, referred to in subsec. (a)(3), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-#### Codification
+The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-In subsec. (a)(3), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act \[29 U.S.C. 801 et seq.\]” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
+#### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(40)\], substituted “activities such as the activities described in the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “activities such as those described in the Comprehensive Employment and Training Act”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(40)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(31)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 

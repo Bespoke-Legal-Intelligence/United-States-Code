@@ -58,5 +58,5 @@ The National Institute of Education was established by section 1221e of this tit
 
 #### Office of Migrant Education
 
-Pub. L. 98–511, title VII, §701(b), Oct. 19, 1984, 98 Stat. 2405, provided that: “For the purposes of section 413(a) of the Department of Education Organization Act (20 U.S.C. 3473), the Office of Migrant Education shall be considered to be an organizational entity established by such Act \[20 U.S.C. 3401 et seq.\] and shall not be subject to the reorganizational authority of the Secretary of Education under that section or any other provision of law.”
+Pub. L. 98–511, title VII, §701(b), Oct. 19, 1984, 98 Stat. 2405, provided that: “For the purposes of section 413(a)of the Department of Education Organization Act (20 U.S.C. 3473), the Office of Migrant Education shall be considered to be an organizational entity established by such Act \[20 U.S.C. 3401 et seq.\] and shall not be subject to the reorganizational authority of the Secretary of Education under that section or any other provision of law.”
 

@@ -18,7 +18,7 @@ Section 202 of Pub. L. 103–413 provided that: “Congress finds that—
 
 &emsp;“(3) although progress has been made, the Federal bureaucracy, with its centralized rules and regulations, has eroded tribal self-governance and dominates tribal affairs;
 
-&emsp;“(4) the Tribal Self-Governance Demonstration Project \[see title III of Pub. L. 93–638, set out as a note under 25 U.S.C. 450f\] was designed to improve and perpetuate the government-to-government relationship between Indian tribes and the United States and to strengthen tribal control over Federal funding and program management; and
+&emsp;“(4) the Tribal Self-Governance Demonstration Project \[see title III of Pub. L. 93–638, set out as anote under 25 U.S.C. 450f\] was designed to improve and perpetuate the government-to-government relationship between Indian tribes and the United States and to strengthen tribal control over Federal funding and program management; and
 
 &emsp;“(5) Congress has reviewed the results of the Tribal Self-Governance Demonstration Project and finds that—
 

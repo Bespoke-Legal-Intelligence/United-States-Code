@@ -8,7 +8,7 @@
 
 #### (2) Effectiveness of certificate
 
-&emsp;Insurance evidenced by a certificate of insurance pursuant to subsection (a)(1) of this section shall become effective upon the date of issuance of the certificate, except that the Secretary is authorized, in accordance with regulations, to issue commitments with respect to proposed loans, or with respect to lines (or proposed lines) of credit, submitted by eligible lenders, and in that event, upon compliance with subsection (a)(1) of this section by the lender, the certificate of insurance may be issued effective as of the date when any loan, or any payment by the lender pursuant to a line of credit, to be covered by such insurance was made. Such insurance shall cease to be effective upon 60 days’ default by the lender in the payment of any installment of the premiums payable pursuant to subsection (c) of this section.
+&emsp;Insurance evidenced by a certificate of insurance pursuant to subsection (a)(1) of this section shall become effective upon the date of issuance of the certificate, except that the Secretary is authorized, in accordance with regulations, to issue commitments with respect to proposed loans, or with respect tolines (or proposed lines) of credit, submitted by eligible lenders, and in that event, upon compliance with subsection (a)(1) of this section by the lender, the certificate of insurance may be issued effective as of the date when any loan, or any payment by the lender pursuant to a line of credit, to be covered by such insurance was made. Such insurance shall cease to be effective upon 60 days’ default by the lender in the payment of any installment of the premiums payable pursuant to subsection (c) of this section.
 
 #### (3) Contents of applications
 
@@ -22,7 +22,7 @@
 
 #### (2) Uncovered loans
 
-&emsp;If the holder of a certificate of comprehensive insurance coverage issued under this subsection grants to a student a line of credit extending beyond the cutoff date specified in that certificate, loans or payments thereon made by the holder after that date pursuant to the line of credit shall not be deemed to be included in the coverage of that certificate except as may be specifically provided therein; but, subject to the limitations of section 1074 of this title, the Secretary may, in accordance with regulations, make commitments to insure such future loans or payments, and such commitments may be honored either as provided in subsection (a) of this section or by inclusion of such insurance on comprehensive coverage under the subsection for the periodor periods in which such future loans or payments are made.
+&emsp;If the holder of a certificate of comprehensive insurance coverage issued under this subsection grants to a student a line of credit extending beyond the cutoff date specified in that certificate, loans or payments thereon made by the holder after that date pursuant to the line of credit shall not be deemed to be included in the coverage of that certificate except as may be specifically provided therein; but, subject to the limitations of section 1074 of this title, the Secretary may, in accordance with regulations, make commitments to insure such future loans or payments, and such commitments may be honored either as provided in subsection (a) of this section or by inclusion of such insurance on comprehensive coverage under the subsection for the period or periods in which such future loans or payments are made.
 
 #### (c) Charges for Federal insurance
 

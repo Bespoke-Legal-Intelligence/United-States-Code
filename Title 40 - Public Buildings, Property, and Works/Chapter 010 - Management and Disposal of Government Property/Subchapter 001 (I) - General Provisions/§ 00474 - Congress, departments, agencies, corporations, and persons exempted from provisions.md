@@ -124,15 +124,11 @@ Subsec. (d)(21). Pub. L. 96–60 added par. (21).
 
 1950—Act Sept. 5, 1950, §§7(e), (f), 8(c), inserted “and paramount” after “any authority” in subsec. (c), inserted “the” in subsec. (d)(17), inserted reference to “Joint Committee on Printing” in subsec. (d)(18), reenacted subsec. (d)(19), and added subsec. (e).
 
-#### Change of Name
-
-“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (d)(21) pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
-
 #### Effective Date of 1979 Amendments
 
 Amendment by Pub. L. 96–83 effective Oct. 1, 1979, see section 12 of Pub. L. 96–83, set out as a note under section 401 of Title 41, Public Contracts.
 
-Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Date note under section 1469 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1970 Amendment
 
@@ -147,6 +143,8 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 Amendment by Pub. L. 85–726 effective on 60th day following date on which Administrator of Federal Aviation Agency first appointed under Pub. L. 85–726 qualifies and takes office, see section 1505(2) of Pub. L. 85–726. The Administrator was appointed, qualified, and took office on Oct. 31, 1958.
 
 #### Transfer of Functions
+
+“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (d)(21) pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 

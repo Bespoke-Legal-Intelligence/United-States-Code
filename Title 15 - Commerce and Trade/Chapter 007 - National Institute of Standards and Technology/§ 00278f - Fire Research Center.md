@@ -52,7 +52,7 @@ For purposes of this section, there are authorized to be appropriated an amount 
 
 &emsp;(2) $119,000 for adjustments required by law in salaries, pay, retirement, and employee benefits.
 
-(Mar. 3, 1901, ch. 872, §16, as added Oct. 29, 1974, Pub. L. 93–498, §18, 88 Stat. 1545; amended Sept. 13, 1976, Pub. L. 94–411, §1(b), 90 Stat. 1254; Oct. 5, 1978, Pub. L. 95–422, §§1(b), 2(b), 3(b), 92 Stat. 932, 933; Nov. 16, 1979, Pub. L. 96–121, §3, 93 Stat. 863.)
+(Mar. 3, 1901, ch. 872, §16, as added Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545; amended Pub. L. 94–411, §1(b), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §§1(b), 2(b), 3(b), Oct. 5, 1978, 92 Stat. 932, 933; Pub. L. 96–121, §3, Nov. 16, 1979, 93 Stat. 863.)
 
 #### Prior Provisions
 

@@ -44,10 +44,12 @@
 | (h) | Funds for nutrition services and administration. |
 | (i) | Division of funds formula; reallocation of unspent funds; use of State allocation to buy supplemental foods; use of amounts available for succeeding fiscal year. |
 | (j) | Initiative to provide program services at community and migrant health centers. |
-| (k) | National Advisory Council on Maternal, Infant, and Fetal Nutrition; establishment; membership; term; officers; meetings; quorum; study on program improvement; report to President and Congress; technical assistance by Secretary. |
+| (k) | National Advisory Council on Maternal, Infant, and Fetal Nutrition; establishment; membership; term; officers; meetings; quorum; technical assistance by Secretary. |
 | (<i>l</i>) | Donation of foods by Secretary. |
 | (m) | Women, infants, and children farmers’ market nutrition program; establishment, grants, etc. |
 | (n) | Disqualification of vendors who are disqualified under food stamp program. |
+| (<i>o</i>) | Disqualification of vendors convicted of trafficking or illegal sales. |
+| (p) | Criminal forfeiture. |
 | [1787\.](%C2%A7%2001787%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7730%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202305.md) | Repealed. |
 | [1788\.](%C2%A7%2001788%20-%20Nutrition%20education%20and%20training.md) | Nutrition education and training. |
 | (a) | Congressional findings. |
@@ -58,7 +60,7 @@
 | (f) | Use of funds; planning and assessment grants; administrative expenses. |
 | (g) | Accounts, records, and reports; inspection, audit, and preservation. |
 | (h) | State coordinators for nutrition; duties; budget and need assessment. |
-| (i) | Authorization of appropriations; enrollment data. |
+| (i) | Authorization of appropriations. |
 | [1789\.](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | (a) | Purpose of program; availability of payments and commodities. |
 | (b) | Administration of program; eligibility determinations and regulations. |
@@ -82,7 +84,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1769, 1769h, 1776a, 1776b of this title; title 7 sections 2018, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 section 6082.
+This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1766a, 1769, 1769h, 1776a, 1776b of this title; title 7 sections 2018, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 section 6082.
 
 
 ---

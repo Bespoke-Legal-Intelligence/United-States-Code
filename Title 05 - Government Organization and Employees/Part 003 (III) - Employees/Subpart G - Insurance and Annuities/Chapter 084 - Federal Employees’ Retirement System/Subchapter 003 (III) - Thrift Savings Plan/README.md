@@ -24,4 +24,4 @@ This subchapter is referred to in sections 8116, 8351, 8402, 8424, 8461, 8471, 8
 - [&sect; 08440a - Justices and judges](%C2%A7%2008440a%20-%20Justices%20and%20judges.md)
 - [&sect; 08440b - Bankruptcy judges and magistrates](%C2%A7%2008440b%20-%20Bankruptcy%20judges%20and%20magistrates.md)
 - [&sect; 08440c - Court of Federal Claims judges](%C2%A7%2008440c%20-%20Court%20of%20Federal%20Claims%20judges.md)
-- [&sect; 08440d - Judges of the United States Court of Veterans Appeals](%C2%A7%2008440d%20-%20Judges%20of%20the%20United%20States%20Court%20of%20Veterans%20Appeals.md)
+- [&sect; 08440d - Judges of the United States Court of Appeals for Veterans Claims](%C2%A7%2008440d%20-%20Judges%20of%20the%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims.md)

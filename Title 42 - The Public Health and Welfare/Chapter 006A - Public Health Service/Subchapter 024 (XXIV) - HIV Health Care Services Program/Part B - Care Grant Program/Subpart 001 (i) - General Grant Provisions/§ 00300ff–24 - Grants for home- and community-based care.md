@@ -16,7 +16,7 @@ In awarding grants under subsection (a) of this section, a State shall give prio
 
 &emsp;(1) such entities will participate in HIV care consortia if such consortia exist within the State; and
 
-&emsp;(2) such entities will utilize amounts provided under such grants for the provision ofhome- and community-based services to low-income individuals with HIV disease.
+&emsp;(2) such entities will utilize amounts provided under such grants for the provision of home- and community-based services to low-income individuals with HIV disease.
 
 #### (c) “Home- and community-based health services” defined
 
@@ -44,7 +44,7 @@ As used in this part, the term “home- and community-based health services”�
 
 &emsp;&emsp;(B) nursing home and other long term care facilities.
 
-(July 1, 1944, ch. 373, title XXVI, §2614, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 589.)
+(July 1, 1944, ch. 373, title XXVI, §2614, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 589.)
 
 #### References in Text
 

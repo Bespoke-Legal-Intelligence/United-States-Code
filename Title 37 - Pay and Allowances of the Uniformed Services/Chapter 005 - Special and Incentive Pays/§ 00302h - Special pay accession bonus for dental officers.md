@@ -20,7 +20,7 @@ Agreement.—The agreement referred to in subsection (a) shall provide that, con
 
 (d)
 
-Repayment.—(1) An officer who receives a payment under subsection (a) and who fails to become and remain certified or licensed as a dentist during the period for which the payment is made shall refund to the United States an amount equal to the full amount of such payment.
+Repayment.—(1) An officer who receives a payment under subsection (a) and who fails tobecome and remain certified or licensed as a dentist during the period for which the payment is made shall refund to the United States an amount equal to the full amount of such payment.
 
 (2) An officer who voluntarily terminates service on active duty before the end of the period agreed to be served under subsection (a) shall refund to the United States an amount that bears the same ratio to the amount paid to the officer as the unserved part of such period bears to the total period agreed to be served.
 

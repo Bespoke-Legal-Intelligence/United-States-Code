@@ -2,7 +2,7 @@
 
 Vacancies on the active-duty list of the Marine Corps in the grade of second lieutenant shall be filled, so far as practicable, first, from members of the graduating class of the Naval Academy; second, from meritorious noncommissioned officers of the Regular Marine Corps; and third, from other persons.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 324; Dec. 12, 1980, Pub. L. 96–513, title V, §503(29), 94 Stat. 2913.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 324; Pub. L. 96–513, title V, §503(29), Dec. 12, 1980, 94 Stat. 2913.)
 
 Historical and Revision Notes
 

@@ -16,17 +16,23 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 &emsp;(3) whether the administration of activities and operations meets the requirements of applicable laws and regulations and, specifically, whether such administration is consistent with the requirements of section 3905 of this title;
 
-&emsp;(4) whether there exist instances of fraud or other serious problems, abuses, or deficiencies, and whether adequate steps for detection, correction, and prevention have been taken; and
+&emsp;(4) whether there exist instances of fraud or other serious problems, abuses, or deficiencies,and whether adequate steps for detection, correction, and prevention have been taken; and
 
 &emsp;(5) whether policy goals and objectives are being effectively achieved and whether the interests of the United States are being accurately and effectively represented.
 
-#### (c) Policies and procedures governing inspection and audit activities; coordination and cooperation with Comptroller General; report to Attorney General on criminal law violations
+#### (c) Policies and procedures governing inspection and audit activities; coordination and cooperation with Comptroller General; report to Attorney General on criminal law violations; provision of information to employees
 
 (1) The Inspector General shall develop and implement policies and procedures for the inspection and audit activities carried out under this section. These policies and procedures shall be consistent with the general policies and guidelines of the Government for inspection and audit activities and shall comply with the standards established by the Comptroller General of the United States for audits of Government agencies, organizations, programs, activities, and functions.
 
 (2) In carrying out the duties and responsibilities established under this section, the Inspector General shall give particular regard to the activities of the Comptroller General of the United States with a view toward insuring effective coordination and cooperation.
 
 (3) In carrying out the duties and responsibilities established under this section, the Inspector General shall report expeditiously to the Attorney General whenever the Inspector General has reasonable grounds to believe there has been a violation of Federal criminal law.
+
+(4) The Inspector General shall develop and provide to employees—
+
+&emsp;(A) information detailing their rights to counsel; and
+
+&emsp;(B) guidelines describing in general terms the policies and procedures of the Office of Inspector General with respect to individuals under investigation other than matters exempt from disclosure under other provisions of law.
 
 #### (d) Reports by Inspector General and Secretary of State
 
@@ -36,7 +42,7 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of activities and operations of Foreign Service posts, and bureaus and other operating units of the Department of State, which were disclosed by the Inspector General within the reporting period;
 
-&emsp;(B) a description of the recommendations for corrective action made by the Inspector General during the reporting period with respectto significant problems, abuses, or deficiencies described pursuant to subparagraph (A);
+&emsp;(B) a description of the recommendations for corrective action made by the Inspector General during the reporting period with respect to significant problems, abuses, or deficiencies described pursuant to subparagraph (A);
 
 &emsp;(C) an identification of each significant recommendation described in previous annual reports on which corrective action has not been completed;
 
@@ -54,11 +60,13 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 &emsp;(B) specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs.
 
-#### (e) Applicability of powers and responsibilities under other statutory provisions; assignment of Service employees to Inspector General
+#### (e) Applicability of powers and responsibilities under other statutory provisions; assignment of Service employees to Inspector General; participation in formal interviews
 
 (1) The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under section 6 of the Inspector General Act of 1978 to each Inspector General of an establishment (as defined in section 11(2) of such Act) for carrying out the provisions of that Act, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 6(b) and (c) of such Act.
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
+
+(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 
@@ -70,13 +78,17 @@ Inspections, investigations, and audits conducted by or under the direction of t
 
 Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
 
-(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020.)
+(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in Title 5, Appendix, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (c)(4). Pub. L. 105–277, §2208(a), added par. (4).
+
+Subsec. (e)(3). Pub. L. 105–277, §2208(b), added par. (3).
 
 1986—Subsec. (a)(1). Pub. L. 99–529 repealed §413(a)(6) of Pub. L. 99–399 and reenacted last sentence which had been struck out by Pub. L. 99–399.
 
@@ -86,5 +98,5 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3929a, 4102, 4861 of this title.
+This section is referred to in sections 3929a, 4102, 4861, 6203 of this title.
 

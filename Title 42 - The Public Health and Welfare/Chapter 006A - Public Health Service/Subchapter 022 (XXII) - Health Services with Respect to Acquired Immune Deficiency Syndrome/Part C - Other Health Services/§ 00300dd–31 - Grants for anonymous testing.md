@@ -6,7 +6,7 @@ The Secretary may make grants to the States for the purpose of providing opportu
 
 &emsp;(2) to undergo such counseling and testing through the use of a pseudonym.
 
-(July 1, 1944, ch. 373, title XXIV, §2431, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3090.)
+(July 1, 1944, ch. 373, title XXIV, §2431, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3090.)
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) reflect the goals and services described in paragraphs (1), (2), and (3) of subsection (c) of this section; and
 
-&emsp;&emsp;(B) are developed between the State education agency, administrative entities in service delivery areas in the State, and other entities, such as other State agencies,local educational agencies, and alternative service providers (such as community-based and other nonprofit or for-profit organizations).
+&emsp;&emsp;(B) are developed between the State education agency, administrative entities in service delivery areas in the State, and other entities, such as other State agencies, local educational agencies, and alternative service providers (such as community-based and other nonprofit or for-profit organizations).
 
 #### (2) Contents of agreements
 
@@ -78,7 +78,7 @@ The State education agency shall submit for inclusion in the Governor's coordina
 
 &emsp;&emsp;&emsp;(iv) the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
-&emsp;&emsp;&emsp;(v) the Adult Education Act (20 U.S.C. 1201 et seq.);
+&emsp;&emsp;&emsp;(v) the Adult Education Act; <sup>1</sup>
 
 &emsp;&emsp;&emsp;(vi) Repealed. Pub. L. 104–193, title I, §110(n)(4)(A), Aug. 22, 1996, 110 Stat. 2174;
 
@@ -98,7 +98,7 @@ The State education agency shall submit for inclusion in the Governor's coordina
 
 &emsp;&emsp;&emsp;(i) subchapters II and III of this chapter;
 
-&emsp;&emsp;&emsp;(ii) the Adult Education Act \[20 U.S.C. 1201 et seq.\];
+&emsp;&emsp;&emsp;(ii) the Adult Education Act; <sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii) the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\];
 
@@ -108,7 +108,7 @@ The State education agency shall submit for inclusion in the Governor's coordina
 
 &emsp;&emsp;&emsp;(vi) the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.);
 
-&emsp;&emsp;&emsp;(vii) the National Literacy Act of 1991 (Public Law 102–73);
+&emsp;&emsp;&emsp;(vii) the National Literacy Act of 1991 <sup>1</sup> (Public Law 102–73);
 
 &emsp;&emsp;&emsp;(viii) the Emergency Immigrant Education Act of 1984 <sup>1</sup> (20 U.S.C. 3121 et seq.); and
 
@@ -154,25 +154,29 @@ If no agreement is reached in accordance with subsection (b) of this section on 
 
 (Pub. L. 97–300, title I, §123, Oct. 13, 1982, 96 Stat. 1341; Pub. L. 99–496, §§3, 15(e), Oct. 16, 1986, 100 Stat. 1261, 1266; Pub. L. 101–392, §5(a)(1), Sept. 25, 1990, 104 Stat. 758; Pub. L. 102–235, §7, Dec. 12, 1991, 105 Stat. 1808; Pub. L. 102–367, title I, §122, Sept. 7, 1992, 106 Stat. 1038; Pub. L. 104–193, title I, §110(n)(4), Aug. 22, 1996, 110 Stat. 2174.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 The Elementary and Secondary Education Act, referred to in subsec. (c)(1)(E)(ii), probably means the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (c)(1)(E)(iii), (2)(D)(iii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (c)(1)(E)(iii), (2)(D)(iii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(E)(iv), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(E)(iv), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Adult Education Act, referred to in subsec. (c)(1)(E)(v), (2)(D)(ii), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 20 and Tables.
+The Adult Education Act, referred to in subsec. (c)(1)(E)(v), (2)(D)(ii), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of Title 20, Education, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (c)(1)(E)(vii), (2)(D)(iv), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (c)(1)(E)(viii), (2)(D)(ix), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (c)(1)(E)(viii), (2)(D)(ix), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (c)(2)(D)(vi), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The National Literacy Act of 1991, referred to in subsec. (c)(2)(D)(vii), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of Title 20, Education, and Tables.
+The National Literacy Act of 1991, referred to in subsec. (c)(2)(D)(vii), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Emergency Immigrant Education Act of 1984, referred to in subsec. (c)(2)(D)(viii), is part D of title IV of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 242, which was classified generally to part D (§3121 et seq.) of subchapter IV of chapter 47 of Title 20, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to emergency immigrant education, see section 7541 et seq. of Title 20.
+The Emergency Immigrant Education Act of 1984, referred to in subsec. (c)(2)(D)(viii), is part D of title IV of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 242, which was classified generally to part D (§3121 et seq.) of subchapter IV of chapter 47 of Title 20, Education, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to emergency immigrant education, see section 7541 et seq. of Title 20.
 
 #### Amendments
 
@@ -214,7 +218,7 @@ Amendment by Pub. L. 102–235 not to be construed to require, sanction, or auth
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49f, 1532, 1602, 1642, 1792b of this title; title 20 section 2468.
+This section is referred to in sections 1532, 1602, 1642, 1792b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

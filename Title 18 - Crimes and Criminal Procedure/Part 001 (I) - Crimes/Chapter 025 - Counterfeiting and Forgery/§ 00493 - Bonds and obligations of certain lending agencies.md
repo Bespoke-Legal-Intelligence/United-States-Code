@@ -4,7 +4,7 @@ Whoever falsely makes, forges, counterfeits or alters any note, bond, debenture,
 
 Whoever passes, utters, or publishes, or attempts to pass, utter or publish any note, bond, debenture, coupon, obligation, instrument or document knowing the same to have been falsely made, forged, counterfeited or altered, contrary to the provisions of this section, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Oct. 4, 1961, Pub. L. 87–353, §3(p), 75 Stat. 774; May 25, 1967, Pub. L. 90–19, §24(a), 81 Stat. 27; Oct. 19, 1970, Pub. L. 91–468, §3, 84 Stat. 1016; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, §3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, §24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ This section condenses and simplifies the form of the former sections without ch
 
 The enumeration of “note, bond, debenture, coupon, obligation, instrument, or writing” does not occur in any one of the original sections but is an adequate enumeration of the instruments mentioned in each.
 
-Certain specific agencies are enumerated by name as are “land bank, intermediate credit bank, bank for cooperatives,” but the phrase “or any lending, mortgage, insurance, credit, or savings and loan corporation or association” was used to embrace the following: National Farm Loan Association, Federal Savings and Loan Insurance Corporation, Federal Savings and Loan Associations, National Agricultural Credit Corporation, Production Credit Corporations, Production Credit Associations, Home Loan Banks, National Mortgage Associations, and Central Bank for Cooperatives, Regional Agricultural Credit Corporation, or any instrumentalities created for similar purposes.
+Certain specific agencies are enumerated by name as are “land bank, intermediate credit bank, bank for cooperatives,” but the phrase “or any lending, mortgage, insurance, credit, or savings and loan corporation or association” was used to embrace the following: National Farm Loan Association, Federal Savings and Loan Insurance Corporation, Federal Savings and Loan Associations, National Agricultural Credit Corporation, Production Credit Corporations, Production Credit Associations, Home Loan Banks, National MortgageAssociations, and Central Bank for Cooperatives, Regional Agricultural Credit Corporation, or any instrumentalities created for similar purposes.
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary, such persons being principals by section 2 of this title.
 
@@ -24,7 +24,7 @@ The section was written in two paragraphs; the first denouncing forgery, counter
 
 Section 1138d(f) of title 12, U.S.C., 1940 ed., Banks and Banking, was omitted from this revision and recommended for repeal. It provides as follows: “Whoever conspires with another to accomplish any of the acts made unlawful by the preceding provisions of this section shall, on conviction thereof, be subject to the same fine or imprisonment, or both, as is applicable in the case of conviction for doing such unlawful act.”
 
-The only case construing such subsection (f) is <i>United States v. Halbrook</i>, D.C. Mo. 1941, 36 F. Supp. 345, inwhich the District Judge said by way of obiter dictum in a footnote that “Under this section no overt act need be shown as is true in the case of a prosecution under section 37 of the Criminal Code”, now section 371 of this title.
+The only case construing such subsection (f) is <i>United States v. Halbrook</i>, D.C. Mo. 1941, 36 F. Supp. 345, in which the District Judge said by way of obiter dictum in a footnote that “Under this section no overt act need be shown as is true in the case of a prosecution under section 37 of the Criminal Code”, now section 371 of this title.
 
 Indeed the indictment upon which Halbrook was acquitted was drawn under section 88 of title 18, U.S.C., 1940 ed., now section 371 of this title, which required allegation and proof of an overt act and provided punishment by fine of not more than $10,000, or imprisonment for not more than 2 years, or both. The second indictment charged only substantive violations and involved neither conspiracy section.
 

@@ -1,11 +1,6 @@
 ## PART II—PERSONNEL
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>31.</b>](Chapter%20031%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>501</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Officer%20Strength%20and%20Distribution%20in%20Grade/README.md) | <b>Officer Strength and Distribution in Grade</b> | <b>521</b> |

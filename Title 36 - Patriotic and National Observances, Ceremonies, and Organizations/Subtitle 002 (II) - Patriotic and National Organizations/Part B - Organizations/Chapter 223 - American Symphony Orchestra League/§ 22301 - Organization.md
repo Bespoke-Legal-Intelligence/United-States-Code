@@ -1,0 +1,34 @@
+### §22301. Organization
+
+(a)
+
+Federal Charter.—American Symphony Orchestra League (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b)
+
+Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1302.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+22301D36:3401.DOct. 15, 1962, Pub. L. 87–817, §§1, 2, 4(1), 76 Stat. 929, 930.
+
+&nbsp;
+
+36:3402.
+
+36:3404(1).
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
+
+The text of 36:3402 is omitted as executed and obsolete.
+

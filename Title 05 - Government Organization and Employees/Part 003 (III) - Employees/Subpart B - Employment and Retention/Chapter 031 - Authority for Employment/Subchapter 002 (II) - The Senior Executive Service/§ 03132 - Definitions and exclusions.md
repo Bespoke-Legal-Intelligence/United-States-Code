@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,,<sup>1</sup> and, as determined by the President, an Executive agency, or unit thereof, whose principalfunction is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,,<sup>1</sup> and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission; or
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2101a, 3104, 3133, 3151, 3372, 3391, 3591, 4311, 4507, 4508, 5304, 5347, 5376, 5381, 5724, 7323, 8432 of this title; title 10 sections 1606, 1614, 3014, 5014, 8014; title 15 section 656; title 20 section 1402; title 22 section 2664a; title 31 section 733; title 38 sections 308, 7281; title 42 section 904; title 44 section 2103; title 49 section 106.
+This section is referred to in sections 2101a, 3104, 3133, 3151, 3372, 3391, 3591, 4311, 4507, 4508, 5304, 5347, 5376, 5381, 5724, 7323, 8432, 9506 of this title; title 2 section 1316a; title 3 section 115; title 10 sections 1606, 1614, 3014, 5014, 8014; title 15 section 656; title 22 section 2664a; title 31 section 733; title 38 sections 308, 7281; title 42 section 904; title 44 section 2103; title 49 section 106.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

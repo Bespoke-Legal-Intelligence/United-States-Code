@@ -6,7 +6,7 @@ Whenever consistent with the primary purposes of Grand Canyon National Park, sec
 
 #### References in Text
 
-Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat.790. For further details, see Codification note set out under section 79 of this title.
+Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat. 790. For further details, see Codification note set out under section 79 of this title.
 
 #### Cross References
 

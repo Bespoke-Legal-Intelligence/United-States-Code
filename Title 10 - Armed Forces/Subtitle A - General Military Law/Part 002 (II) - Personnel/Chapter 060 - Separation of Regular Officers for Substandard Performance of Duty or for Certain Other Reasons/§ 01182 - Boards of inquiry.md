@@ -4,7 +4,7 @@
 
 (b) A board of inquiry shall give a fair and impartial hearing to each officer required under section 1181 of this title to show cause for retention on active duty.
 
-(c) If a board of inquiry determines that the officer has failed to establish that he should be retained on active duty, it shall send the record of its proceedings to a board of review convened under section 1183 of this title.
+(c) If a board of inquiry determines that the officer has failed to establish that he should be retained on active duty, it shall recommend to the Secretary concerned that the officer not be retained on active duty.
 
 (d)(1) If a board of inquiry determines that the officer has established that he should be retained on active duty, the officer's case is closed.
 
@@ -14,5 +14,13 @@
 
 (B) An officer who has been required to show cause for retention on active duty under subsection (b) of section 1181 of this title and who is thereafter retained on active duty may not again be required to show cause for retention on active duty under such subsection solely because of conduct which was the subject of the previous proceedings, unless the findings or recommendations of the board of inquiry that considered his case are determined to have been obtained by fraud or collusion.
 
-(Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2872.)
+(Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2872; amended Pub. L. 105–261, div. A, title V, §503(b)(1), Oct. 17, 1998, 112 Stat. 2003.)
+
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–261, which directed substitution of “recommend to the Secretary concerned that the officer not be retained on active duty” for “send the record of proceedings to a board of review convened under section 1183 of this title”, was executed by making the substitution for “send the record of its proceedings to a board of review convened under section 1183 of this title”, to reflect the probable intent of Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1184 of this title.
 

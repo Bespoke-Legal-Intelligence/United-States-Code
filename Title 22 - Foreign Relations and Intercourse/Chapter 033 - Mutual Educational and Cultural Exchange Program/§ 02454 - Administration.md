@@ -72,7 +72,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Date note under section 1469 of this title.
+Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 #### Transfer of Functions
 
-“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III,Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 For transfer of functions and offices (relating to education) of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education, and termination of certain offices and positions under Ex. Ord. No. 11034, June 25, 1962, as amended, set out under this section, see sections 3441 and 3503 of Title 20, Education.
 
@@ -126,7 +126,7 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (d) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
-Sec. 3. <i>Department of Commerce</i>. Subject to the provisions of Section 6 of this order, the following functionsconferred upon the President by the Act are hereby delegated to the Secretary of Commerce:
+Sec. 3. <i>Department of Commerce</i>. Subject to the provisions of Section 6 of this order, the following functions conferred upon the President by the Act are hereby delegated to the Secretary of Commerce:
 
 (a) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held in the United States.
 
@@ -138,7 +138,7 @@ Sec. 5. <i>Certain incidental matters</i>. (a) In respect of functions hereinabo
 
 (1) The authority conferred upon the President by Sections 105(d)(2) and (f) and 106(d) and (f) of the Act \[sections 2455(d)(2), (f) and 2456(d), (f) of this title\].
 
-(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the President by Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
+(2) Subject to the provisions of Section 5(b) and (c) of this order, the authority conferred upon the Presidentby Section 104(b) of the Act \[subsec. (b) of this section\] to employ personnel.
 
 (b) The employment, by any department or other executive agency under Section 5(a)(2) of this order, of any of the not to exceed ten persons who may be compensated with regard to the Classification Act of 1949 \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\] under Section 104(b) of the Act \[subsec. (b) of this section\] shall require prior authorization by the Secretary of State concurred in by the Director of the Office of Management and Budget.
 
@@ -206,6 +206,8 @@ Sec. 11. <i>Prior directives and actions</i>. (a) This order supersedes Executiv
 
 Sec. 12. <i>Effective date</i>. The provisions of this order shall be effective immediately.
 
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
+
 #### Ex. Ord. No. 11380. Amending Prior Executive Orders Relating to Mutual Educational and Cultural Exchange and to Allowances and Benefits for Government Personnel on Overseas Duty
 
 Ex. Ord. No. 11380, Nov. 8, 1967, 32 F.R. 15627, provided:
@@ -239,6 +241,8 @@ Sec. 201. Executive Order No. 10903 of January 9, 1961, as amended \[set out as 
 “(g) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat, fuel, and light, in government-owned or rented buildings).”
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### Ex. Ord. No. 11770. Delegation of Functions Respecting International Symposium on Geothermal Energy—1975
 

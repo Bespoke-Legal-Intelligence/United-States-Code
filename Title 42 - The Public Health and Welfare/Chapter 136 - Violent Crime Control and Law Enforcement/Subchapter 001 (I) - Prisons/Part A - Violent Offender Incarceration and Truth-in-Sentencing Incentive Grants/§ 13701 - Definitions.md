@@ -28,7 +28,7 @@ Pub. L. 104–145, §1, May 17, 1996, 110 Stat. 1345, provided that: “This Act
 
 Section 1 of Pub. L. 103–322 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Violent Crime Control and Law Enforcement Act of 1994’.”
 
-Section 31101 of title III of Pub. L. 103–322 provided that: “This subtitle \[subtitle K (§§31101–31133) of titleIII of Pub. L. 103–322, enacting part G (§13821 et seq.) of subchapter II of this chapter\] may be cited as the ‘National Community Economic Partnership Act of 1994’.”
+Section 31101 of title III of Pub. L. 103–322 provided that: “This subtitle \[subtitle K (§§31101–31133) of title III of Pub. L. 103–322, enacting part G (§13821 et seq.) of subchapter II of this chapter\] may be cited as the ‘National Community Economic Partnership Act of 1994’.”
 
 Section 31901 of title III of Pub. L. 103–322 provided that: “This subtitle \[subtitle S (§§31901–31922) of title III of Pub. L. 103–322, enacting part I (§13881 et seq.) of subchapter II of this chapter\] may be cited as the ‘Family Unity Demonstration Project Act’.”
 

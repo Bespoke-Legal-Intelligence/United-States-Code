@@ -8,5 +8,5 @@ Section 1163, Pub. L. 92–255, title III, §303, Mar. 21, 1972, 86 Stat. 75, re
 
 Section 1164, Pub. L. 92–255, title III, §304, Mar. 21, 1972, 86 Stat. 75; Pub. L. 94–237, §4(c)(4), Mar. 19, 1976, 90 Stat. 244; Pub. L. 96–181, §5(c), Jan. 2, 1980, 93 Stat. 1311, related to preparation of the national drug abuse strategy.
 
-Section 1165, Pub. L. 92–255, title III, §305, Mar. 21, 1972, 86 Stat. 75; Pub. L. 94–237, §5, Mar. 19, 1976, 90 Stat. 244; Pub. L. 98–24, §4(a), Apr. 26, 1983, 97 Stat. 183, related to submission by the President to the Congress, onor before Aug. 1, 1984, and every two years thereafter, of a written report describing the national drug abuse strategy, and prescribed the contents of the report.
+Section 1165, Pub. L. 92–255, title III, §305, Mar. 21, 1972, 86 Stat. 75; Pub. L. 94–237, §5, Mar. 19, 1976, 90 Stat. 244; Pub. L. 98–24, §4(a), Apr. 26, 1983, 97 Stat. 183, related to submission by the President to the Congress, on or before Aug. 1, 1984, and every two years thereafter, of a written report describing the national drug abuse strategy, and prescribed the contents of the report.
 

@@ -30,7 +30,7 @@ Officers Ordered to Active Duty in Time of War or National Emergency.—Under re
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 ofthis title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
 

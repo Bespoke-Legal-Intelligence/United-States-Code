@@ -84,7 +84,7 @@ Cordell Bank National Marine Sanctuary.—54 F.R. 22417, May 24, 1989; 15 C.F.R.
 
 Fagatele Bay National Marine Sanctuary.—51 F.R. 15878, Apr. 29, 1986; 15 C.F.R. part 922, subpart J.
 
-Florida Keys National Marine Sanctuary.—Pub. L. 101–605, Nov. 16, 1990, 104 Stat. 3089, as amended by Pub. L. 102–587, title II, §§2206, 2209, Nov. 4, 1992, 106 Stat. 5053, 5054.
+Florida Keys National Marine Sanctuary.—15 C.F.R. part 922, subpart P; Pub. L. 101–605, Nov. 16, 1990, 104 Stat. 3089, as amended by Pub. L. 102–587, title II, §§2206, 2209, Nov. 4, 1992, 106 Stat. 5053, 5054.
 
 Flower Garden Banks National Marine Sanctuary.—56 F.R. 63634, Dec. 5, 1991; 60 F.R. 10312, Feb. 24, 1995; 15 C.F.R. part 922, subpart L; Pub. L. 100–627, title II, §205(a)(2), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–251, title I, §101, Mar. 9, 1992, 106 Stat. 60; Pub. L. 104–283, §8, Oct. 11, 1996, 110 Stat. 3366.
 
@@ -94,11 +94,11 @@ Gray's Reef National Marine Sanctuary.—46 F.R. 7942, Jan. 26, 1981; 15 C.F.R. 
 
 Gulf of the Farallones National Marine Sanctuary (former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997.
 
-Hawaiian Islands Humpback Whale National Marine Sanctuary.—Pub. L. 102–587, title II, subtitle C, §§2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, §7, Oct. 11, 1996, 110 Stat. 3365.
+Hawaiian Islands Humpback Whale National Marine Sanctuary.—15 C.F.R. part 922, subpart Q; Pub. L. 102–587, title II, subtitle C, §§2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, §7, Oct. 11, 1996, 110 Stat. 3365.
 
-Key Largo National Marine Sanctuary.—41 F.R. 2379, Jan. 16, 1976; 48 F.R. 55118, Dec. 9, 1983; 15 C.F.R. part 929.
+Key Largo National Marine Sanctuary.—41 F.R. 2379, Jan. 16, 1976; 48 F.R. 55118, Dec. 9, 1983.
 
-Looe Key National Marine Sanctuary.—46 F.R. 7949, Jan. 26, 1981; 15 C.F.R. part 937.
+Looe Key National Marine Sanctuary.—46 F.R. 7949, Jan. 26, 1981.
 
 MONITOR Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, May 19, 1975; 15 C.F.R. part 922, subpart F.
 

@@ -8,7 +8,7 @@ Upon the filing of an application to purchase any lands subject to the operation
 
 An applicant who applies to purchase lands under the provisions of this section, in order to be entitled to receive a patent must within thirty days from receipt of notice of appraisal by the Secretary of the Interior pay to the officer, as the Secretary of the Interior may designate, of the United States land office of the district in which the lands are situated the appraised price of the lands, and thereupon a patent shall issue to said applicant for such lands as the Secretary of the Interior shall determine that such applicant is entitled to purchase under this section. The proceeds derived by the Government from the sale of lands hereunder shall be covered into the United States Treasury and applied as provided by law for the disposal of the proceeds from the sale of public lands.
 
-The Secretary of the Interior is authorized to prescribe all necessary rules and regulations foradministering the provisions of this section and determining conflicting claims arising hereunder.
+The Secretary of the Interior is authorized to prescribe all necessary rules and regulations for administering the provisions of this section and determining conflicting claims arising hereunder.
 
 (Sept. 21, 1922, ch. 362, §§1–5, 42 Stat. 992; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 

@@ -14,7 +14,7 @@ The Secretary shall ensure that agreements to store petroleum products for forei
 
 #### (d) Availability of funds
 
-Funds collected through the leasing of Strategic Petroleum Reserve facilities authorized bysubsection (a) of this section after September 30, 2007, shall be used by the Secretary of Energy without further appropriation for the purchase of petroleum products for the Strategic Petroleum Reserve.
+Funds collected through the leasing of Strategic Petroleum Reserve facilities authorized by subsection (a) of this section after September 30, 2007, shall be used by the Secretary of Energy without further appropriation for the purchase of petroleum products for the Strategic Petroleum Reserve.
 
 (Pub. L. 94–163, title I, §168, as added Pub. L. 105–33, title IX, §9303(a), Aug. 5, 1997, 111 Stat. 676.)
 

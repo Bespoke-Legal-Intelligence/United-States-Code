@@ -4,7 +4,7 @@ Whoever, with the intent of interfering with, obstructing, or impeding the admin
 
 Nothing in this section shall interfere with or prevent the exercise by any court of the United States of its power to punish for contempt.
 
-(Added Sept. 23, 1950, ch. 1024, title I, §31(a), 64 Stat. 1018; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(Added Sept. 23, 1950, ch. 1024, title I, §31(a), 64 Stat. 1018; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 

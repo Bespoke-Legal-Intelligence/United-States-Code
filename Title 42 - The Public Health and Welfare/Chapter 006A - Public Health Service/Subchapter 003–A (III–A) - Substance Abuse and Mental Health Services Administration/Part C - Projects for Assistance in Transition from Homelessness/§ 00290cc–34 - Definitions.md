@@ -18,7 +18,7 @@ For purposes of this part:
 
 &emsp;The term “substance abuse” means the abuse of alcohol or other drugs.
 
-(July 1, 1944, ch. 373, title V, §534, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 522; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4733.)
+(July 1, 1944, ch. 373, title V, §534, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 522; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4733.)
 
 #### References in Text
 

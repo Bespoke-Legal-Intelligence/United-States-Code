@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) to serve the national interest, the renewable resource program must be based on a comprehensive assessment of present and anticipated uses, demand for, and supply of renewable resources from the Nation's public and private forests and rangelands, through analysis of environmental and economic impacts, coordination of multiple use and sustained yield opportunities as provided in the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531), and public participation in the development of the program;
 
-&emsp;(4) the new knowledge derived from coordinated public and private research programswill promote a sound technical and ecological base for effective management, use, and protection of the Nation's renewable resources;
+&emsp;(4) the new knowledge derived from coordinated public and private research programs will promote a sound technical and ecological base for effective management, use, and protection of the Nation's renewable resources;
 
 &emsp;(5) inasmuch as the majority of the Nation's forests and rangeland is under private, State, and local governmental management and the Nation's major capacity to produce goods and services is based on these nonfederally managed renewable resources, the Federal Government should be a catalyst to encourage and assist these owners in the efficient long-term use and improvement of these lands and their renewable resources consistent with the principles of sustained yield and multiple use;
 
@@ -52,5 +52,5 @@ Section 21 of Pub. L. 94–588 provided that: “If any provision of this Act \[
 
 #### Act Referred to in Other Sections
 
-The National Forest Management Act of 1976 is referred to in sections 460<i>ll</i>, 460qq, 497b, 539d, 544k, 544<i>o</i>, 545b, 620 of this title; title 43 section 1635.
+The National Forest Management Act of 1976 is referred to in sections 460<i>ll</i>, 460qq, 460vv–4, 460vv–13, 460<i>lll</i>–21, 497b, 539c, 539d, 542d, 544k, 544<i>o</i>, 545b, 620 of this title; title 30 section 1272; title 43 section 1635.
 

@@ -2,7 +2,7 @@
 
 For purposes of this subchapter, the term “health services research” means research endeavors that study the impact of the organization, financing and management of health services on the quality, cost, access to and outcomes of care. Such term does not include research on the efficacy of services to prevent, diagnose, or treat medical conditions.
 
-(July 1, 1944, ch. 373, title IV, §409, as added July 10, 1992, Pub. L. 102–321, title I, §121(b), 106 Stat. 358; amended June 10, 1993, Pub. L. 103–43, title XX, §2016(a), 107 Stat. 218.)
+(July 1, 1944, ch. 373, title IV, §409, as added Pub. L. 102–321, title I, §121(b), July 10, 1992, 106 Stat. 358; amended Pub. L. 103–43, title XX, §2016(a), June 10, 1993, 107 Stat. 218.)
 
 #### Amendments
 

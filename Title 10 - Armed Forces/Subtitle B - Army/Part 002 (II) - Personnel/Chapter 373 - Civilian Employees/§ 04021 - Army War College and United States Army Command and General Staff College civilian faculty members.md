@@ -10,7 +10,7 @@ Compensation of Faculty Members.—The compensation of persons employed under th
 
 (c)
 
-Application to Certain Faculty Members.—(1) Except as provided in paragraph (2), this section shall apply with respect to persons who are selected by the Secretary for employment as professors, instructors, and lecturers at the Army War College or the United States Army Command and General Staff College after the end of the 90-day period beginning on the date of the enactment of this section.
+Application to Certain Faculty Members.—(1) Except as provided in paragraph (2), this section shall apply with respect to persons who are selected by the Secretary for employment as professors, instructors, and lecturers atthe Army War College or the United States Army Command and General Staff College after the end of the 90-day period beginning on the date of the enactment of this section.
 
 (2) This section shall not apply with respect to professors, instructors, and lecturers employed at the Army War College or the United States Army Command and General Staff College if the duration of the principal course of instruction offered at the college involved is less than 10 months.
 

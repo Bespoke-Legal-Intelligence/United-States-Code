@@ -4,7 +4,7 @@
 
 (1)(A) Except as provided in subparagraph (B), the Secretary shall, from that percentage of the amount appropriated under section 8621(b) of this title for each fiscal year which is remaining after reserving any amount permitted to be reserved under section 8628a of this title and after the amount of allotments for such fiscal year under subsection (b)(1) of this section is determined by the Secretary, allot to each State an amount equal to such remaining percentage multiplied by the State's allotment percentage.
 
-(B) From the sums appropriated therefor after reserving any amount permitted to be reserved under section 8628a of this title, if for any period a State has a plan which is described in section 8624(c)(1) of this title, the Secretary shall pay to such State an amount equal to 100 percent of the expenditures of such State made during such period in carrying out such plan, including administrative costs (subject to the provisions of section 8624(b)(9)(B) of this title), with respect to households described in section 8624(b)(2) of this title.
+(B) From the sums appropriated therefor after reserving any amount permitted to be reserved under section 8628a of this title, if for any period a State has a plan which is described in section 8624(c)(1) of this title, the Secretary shall pay to such State an amount equal to 100 percent of the expenditures of such State made during such period in carrying out such plan, including administrative costs (subject to the provisions of section 8624(b)(9)(B) of this title), with respect tohouseholds described in section 8624(b)(2) of this title.
 
 (2) For purposes of paragraph (1), for fiscal year 1985 and thereafter, a State's allotment percentage is the percentage which expenditures for home energy by low-income households in that State bears to such expenditures in all States, except that States which thereby receive the greatest proportional increase in allotments by reason of the application of this paragraph from the amount they received pursuant to Public Law 98–139 shall have their allotments reduced to the extent necessary to ensure that—
 
@@ -12,7 +12,7 @@
 
 &emsp;(ii) no State for fiscal year 1986 and thereafter shall receive less than the amount of funds the State would have received in fiscal year 1984 if the appropriations for this subchapter for fiscal year 1984 had been $1,975,000,000, and
 
-&emsp;(B) any State whose allotment percentage out of funds available to States from a total appropriation of $2,250,000,000 would be less than 1 percent, shall not, in any year when total appropriations equal or exceed$2,250,000,000, have its allotment percentage reduced from the percentage it would receive from a total appropriation of $2,140,000,000.
+&emsp;(B) any State whose allotment percentage out of funds available to States from a total appropriation of $2,250,000,000 would be less than 1 percent, shall not, in any year when total appropriations equal or exceed $2,250,000,000, have its allotment percentage reduced from the percentage it would receive from a total appropriation of $2,140,000,000.
 
 (3) If the sums appropriated for any fiscal year for making grants under this subchapter are not sufficient to pay in full the total amount allocated to a State under paragraph (1) for such fiscal year, the amount which all States will receive under this subchapter for such fiscal year shall be ratably reduced.
 
@@ -20,7 +20,7 @@
 
 #### (b) Allotments to insular areas
 
-(1) The Secretary shall apportion not less than one-tenth of 1 percent, and not more than one-half of 1 percent, of the amounts appropriated for each fiscal year to carry out this subchapter on the basis of need among the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The Secretary shall determine the total amount to be apportioned under this paragraph for any fiscal year (which shall not exceed one-half of 1 percent) after evaluating the extent to which each jurisdiction specified in the preceding sentence requires assistance under this paragraph for the fiscal year involved.
+(1) The Secretary shall apportion not less than one-tenth of 1 percent, and not more than one-half of 1 percent, of the amounts appropriated for each fiscal year to carry out this subchapter on the basis of need among the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The Secretary shall determine the total amount to be apportioned under this paragraph for any fiscal year (which shall not exceed one-half of 1 percent) after evaluating the extent to which each jurisdiction specified in the preceding sentence requires assistance under this paragraph for the fiscal year involved.
 
 (2) Each jurisdiction to which paragraph (1) applies may receive grants under this subchapter upon an application submitted to the Secretary containing provisions which describe the programs for which assistance is sought under this subchapter, and which are consistent with the requirements of section 8624 of this title.
 
@@ -40,7 +40,7 @@ Of the funds available to each State under subsection (a) of this section, a rea
 
 &emsp;&emsp;&emsp;(i) to submit applications for energy crisis benefits without leaving their residences; or
 
-&emsp;&emsp;&emsp;(ii) to travel to the sites at which such application <sup>2</sup> are accepted by such entity.
+&emsp;&emsp;&emsp;(ii) to travel to the sites at which such applications are accepted by such entity.
 
 > The preceding sentence shall not apply to a program in a geographical area affected by a natural disaster in the United States designated by the Secretary, or by a major disaster or emergency designated by the President under the Disaster Relief Act of 1974 <sup>1</sup> \[42 U.S.C. 5121 et seq.\], for so long as such designation remains in effect, if the Secretary determines that such disaster or such emergency makes compliance with such sentence impracticable.
 
@@ -54,7 +54,7 @@ Of the funds available to each State under subsection (a) of this section, a rea
 
 > the Secretary shall reserve from amounts which would otherwise be payable to such State from amounts allotted to it under this subchapter for the fiscal year involved the amount determined under paragraph (2).
 
-(2) The amount determined under this paragraph for a fiscal year is the amount which bears the same ratio to the amount which would (but for this subsection) be allotted to such State under this subchapter for such fiscal year (other than by reason of section 8626(b)(2) of this title) as the number of Indian households described in subparagraphs (A) and (B) of section 8624(b)(2) of this title and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation bears to the number of all households described in subparagraphs (A) and (B) of section 8624(b)(2) of this title in such State, or such greater amount as the Indian tribe and the State may agree upon. In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph.
+(2) The amount determined under this paragraph for a fiscal year is the amount whichbears the same ratio to the amount which would (but for this subsection) be allotted to such State under this subchapter for such fiscal year (other than by reason of section 8626(b)(2) of this title) as the number of Indian households described in subparagraphs (A) and (B) of section 8624(b)(2) of this title and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation bears to the number of all households described in subparagraphs (A) and (B) of section 8624(b)(2) of this title in such State, or such greater amount as the Indian tribe and the State may agree upon. In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph.
 
 (3) The sums reserved by the Secretary on the basis of a determination under this subsection shall be granted to—
 
@@ -64,29 +64,11 @@ Of the funds available to each State under subsection (a) of this section, a rea
 
 (4) In order for a tribal organization or other entity to be eligible for an amount under this subsection for a fiscal year, it shall submit to the Secretary a plan (in lieu of being under the State's plan) for such fiscal year which meets such criteria as the Secretary may by regulations prescribe.
 
-#### (e) Repealed. Pub. L. 98–558, §603(c), Oct. 30, 1984, 98 Stat. 2890
+#### (e) Allotment of emergency funds
 
-#### (f) Optional transfer of funds to block grants for community service programs, preventive health services, etc.
+Notwithstanding subsections (a) through (d) of this section, the Secretary may allot amounts appropriated pursuant to section 8621(e) of this title to one or more than one State. In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.
 
-(1) A State may transfer in accordance with paragraph (2) a percentage of the funds payable to it under this section for any fiscal year for its use for such fiscal year under other provisions of Federal law providing block grants for—
-
-&emsp;(A) support of activities under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\];
-
-&emsp;(B) support of activities under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\]; or
-
-&emsp;(C) support of preventive health services, alcohol, drug, and mental health services, and primary care under title XIX of the Public Health Service Act \[42 U.S.C. 300w et seq.\], and maternal and child health services under title V of the Social Security Act \[42 U.S.C. 701 et seq.\];
-
-> or a combination of the activities described in subparagraphs (A), (B), and (C). Amounts allotted to a State under any provisions of Federal law referred to in the preceding sentence and transferred by a State for use in carrying out the purposes of this subchapter shall be treated as if they were paid to the State under this subchapter but shall not affect the computation of the State's allotment under this subchapter. The State shall inform the Secretary of any such transfer of funds.
-
-(2)(A) Not to exceed 10 percent of the funds payable to a State under this section for each of the fiscal years 1991 through 1993 may be transferred under paragraph (1).
-
-(B) Beginning in fiscal year 1994, no funds payable to a State under this section shall be transferred under paragraph (1).
-
-#### (g) Allotment of emergency funds
-
-Notwithstanding subsections (a) through (f) of this section, the Secretary may allot amounts appropriated pursuant to section 8621(e) of this title to one or more than one State. In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.
-
-(Pub. L. 97–35, title XXVI, §2604, Aug. 13, 1981, 95 Stat. 894; Pub. L. 98–558, title VI, §§603, 604, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 99–425, title V, §§502(a), 503, 505(b), Sept. 30, 1986, 100 Stat. 973–975; Pub. L. 101–501, title VII, §703, Nov. 3, 1990, 104 Stat. 1258; Pub. L. 103–252, title III, §§304(c), 311(c)(3), May 18, 1994, 108 Stat. 659, 662.)
+(Pub. L. 97–35, title XXVI, §2604, Aug. 13, 1981, 95 Stat. 894; Pub. L. 98–558, title VI, §§603, 604, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 99–425, title V, §§502(a), 503, 505(b), Sept. 30, 1986, 100 Stat. 973–975; Pub. L. 101–501, title VII, §703, Nov. 3, 1990, 104 Stat. 1258; Pub. L. 103–252, title III, §§304(c), 311(c)(3), May 18, 1994, 108 Stat. 659, 662; Pub. L. 105–285, title III, §§304(b), 305, Oct. 27, 1998, 112 Stat. 2757.)
 
 #### References in Text
 
@@ -98,13 +80,19 @@ This subchapter, referred to in subsec. (c), was in the original “this Act” 
 
 The Disaster Relief Act of 1974, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. The 1974 Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-Subtitle B of title VI, referred to in subsec. (f)(1)(A), is subtitle B of title VI of Pub. L. 97–35, §§671–683, Aug. 13, 1981, 95 Stat. 511, known as the Community Services Block Grant Act, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
-
-The Social Security Act, referred to in subsec. (f)(1)(B), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XX of the Social Security Act are classified principally to subchapters V (§701 et seq.) and XX (§1397 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
-
-The Public Health Service Act, referred to in subsec. (f)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIX of the Public Health Services Act is classified generally to subchapter XVII (§300w et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
-
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–285, §305(1), substituted “and the Commonwealth of the Northern Mariana Islands.” for “the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.”
+
+Subsec. (c)(3)(B)(ii). Pub. L. 105–285, §305(2), substituted “applications” for “application”.
+
+Subsec. (e). Pub. L. 105–285, §305(5), redesignated subsec. (g) as (e).
+
+Subsec. (f). Pub. L. 105–285, §305(3), struck out subsec. (f) relating to optional transfer of funds to block grants for community service programs, preventive health services, etc.
+
+Subsec. (g). Pub. L. 105–285, §305(5), redesignated subsec. (g) as (e).
+
+Pub. L. 105–285, §§304(b), 305(4), substituted “subsections (a) through (d) of this section” for “subsections (a) through (f) of this section” and “In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection.” for “In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds.”
 
 1994—Subsec. (b)(1). Pub. L. 103–252, §311(c)(3), inserted “of the United States” after “Virgin Islands”.
 
@@ -148,10 +136,6 @@ Amendment by section 502(a) of Pub. L. 99–425 effective Dec. 1, 1986, and amen
 
 Amendment by Pub. L. 98–558 effective Oct. 30, 1984, see section 609(a) of Pub. L. 98–558, set out as a note under section 8621 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Rules for Energy Crisis Intervention
 
 Section 502(b) of Pub. L. 99–425 provided that: “Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], the Secretary of Health and Human Services shall issue rules to carry out the amendments made by subsection (a) \[amending this section\].”
@@ -161,6 +145,4 @@ Section 502(b) of Pub. L. 99–425 provided that: “Not later than 60 days afte
 This section is referred to in sections 8621, 8624, 8626 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “applications”.</i>
 

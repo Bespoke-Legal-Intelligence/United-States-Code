@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 8 section 1353; title 22 section 3650; title 46 App. section 1717.
+This subchapter is referred to in title 8 section 1353; title 46 App. section 1717.
 
 
 ---
@@ -30,3 +30,4 @@ This subchapter is referred to in title 8 section 1353; title 22 section 3650; t
 - [&sect; 05736 - Travel, transportation, and relocation expenses of certain nonappropriated fund employees](%C2%A7%2005736%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20certain%20nonappropriated%20fund%20employees.md)
 - [&sect; 05737 - Relocation expenses of an employee who is performing an extended assignment](%C2%A7%2005737%20-%20Relocation%20expenses%20of%20an%20employee%20who%20is%20performing%20an%20extended%20assignment.md)
 - [&sect; 05738 - Regulations](%C2%A7%2005738%20-%20Regulations.md)
+- [&sect; 05739 - Authority for relocation expenses test programs](%C2%A7%2005739%20-%20Authority%20for%20relocation%20expenses%20test%20programs.md)

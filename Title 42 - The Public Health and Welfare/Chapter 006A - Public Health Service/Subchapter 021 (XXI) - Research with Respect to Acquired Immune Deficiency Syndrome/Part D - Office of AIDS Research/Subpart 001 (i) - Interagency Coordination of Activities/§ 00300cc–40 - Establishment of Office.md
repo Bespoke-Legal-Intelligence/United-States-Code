@@ -22,7 +22,7 @@ There is established within the National Institutes of Health an office to be kn
 
 &emsp;&emsp;(B) shall maintain communications with all relevant Public Health Service agencies and with various other departments of the Federal Government, to ensure the timely transmission of information concerning advances in AIDS research and the clinical treatment of acquired immune deficiency syndrome and its related conditions, between these various agencies for dissemination to affected communities and health care providers.
 
-(July 1, 1944, ch. 373, title XXIII, §2351, as added June 10, 1993, Pub. L. 103–43, title XVIII, §1801(a)(3), 107 Stat. 192.)
+(July 1, 1944, ch. 373, title XXIII, §2351, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 192.)
 
 #### Section Referred to in Other Sections
 

@@ -74,7 +74,7 @@ Subsec. (d)(3). Pub. L. 93–618, §602(d), struck out par. (3) which provided f
 
 #### Status of Certain Changes in Tariff Schedules
 
-Section 1(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that: “The rates of duty in rate column numbered 1 \[of item 662.18\] of the Tariff Schedules of the United States (as amended by the subsections (a) and (c)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party. The rate of duty in rate column numbered 1 of item 662.20 of the Tariff Schedules of the United States (as amended by subsection (a)) shall not supersede the staged rates of duty provided for such item in Annex III to Proclamation 3822, dated December 16, 1967 (32 Fed. Reg., No. 244, part II).”
+Section 1(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that: “The rates of duty in rate column numbered 1 \[of item 662.18\] of the Tariff Schedules ofthe United States (as amended by the subsections (a) and (c)) shall be treated as not having the status of statutory provisions enacted by the Congress, but as having been proclaimed by the President as being required or appropriate to carry out foreign trade agreements to which the United States is a party. The rate of duty in rate column numbered 1 of item 662.20 of the Tariff Schedules of the United States (as amended by subsection (a)) shall not supersede the staged rates of duty provided for such item in Annex III to Proclamation 3822, dated December 16, 1967 (32 Fed. Reg., No. 244, part II).”
 
 Section 2(d) of Pub. L. 90–638, Oct. 24, 1968, 82 Stat. 1360, provided that:
 

@@ -36,61 +36,61 @@
 
 Provisions similar to those in subsec. (b)(7) of this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8018\], 98 Stat. 1904, 1926.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8018\], Oct. 12, 1984, 98 Stat. 1904, 1926.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, §722, 97 Stat. 1442.
+Pub. L. 98–212, title VII, §722, Dec. 8, 1983, 97 Stat. 1442.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, §101(c) \[title VII, §722\], 96 Stat. 1833, 1854.
+Pub. L. 97–377, title I, §101(c) \[title VII, §722\], Dec. 21, 1982, 96 Stat. 1833, 1854.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, §722, 95 Stat. 1582.
+Pub. L. 97–114, title VII, §722, Dec. 29, 1981, 95 Stat. 1582.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, §723, 94 Stat. 3085.
+Pub. L. 96–527, title VII, §723, Dec. 15, 1980, 94 Stat. 3085.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, §723, 93 Stat. 1156.
+Pub. L. 96–154, title VII, §723, Dec. 21, 1979, 93 Stat. 1156.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, §823, 92 Stat. 1248.
+Pub. L. 95–457, title VIII, §823, Oct. 13, 1978, 92 Stat. 1248.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, §822, 91 Stat. 903.
+Pub. L. 95–111, title VIII, §822, Sept. 21, 1977, 91 Stat. 903.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, §722, 90 Stat. 1295.
+Pub. L. 94–419, title VII, §722, Sept. 22, 1976, 90 Stat. 1295.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, §722, 90 Stat. 172.
+Pub. L. 94–212, title VII, §722, Feb. 9, 1976, 90 Stat. 172.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, §822, 88 Stat. 1228.
+Pub. L. 93–437, title VIII, §822, Oct. 8, 1974, 88 Stat. 1228.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, §723, 87 Stat. 1042.
+Pub. L. 93–238, title VII, §723, Jan. 2, 1974, 87 Stat. 1042.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, §723, 86 Stat. 1200.
+Pub. L. 92–570, title VII, §723, Oct. 26, 1972, 86 Stat. 1200.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, §723, 85 Stat. 731.
+Pub. L. 92–204, title VII, §723, Dec. 18, 1971, 85 Stat. 731.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, §823, 84 Stat. 2034.
+Pub. L. 91–668, title VIII, §823, Jan. 11, 1971, 84 Stat. 2034.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, §623, 83 Stat. 484.
+Pub. L. 91–171, title VI, §623, Dec. 29, 1969, 83 Stat. 484.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, §522, 82 Stat. 1133.
+Pub. L. 90–580, title V, §522, Oct. 17, 1968, 82 Stat. 1133.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, §622, 81 Stat. 246.
+Pub. L. 90–96, title VI, §622, Sept. 29, 1967, 81 Stat. 246.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, §622, 80 Stat. 995.
+Pub. L. 89–687, title VI, §622, Oct. 15, 1966, 80 Stat. 995.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, §622, 79 Stat. 877.
+Pub. L. 89–213, title VI, §622, Sept. 29, 1965, 79 Stat. 877.
 
-Aug. 19, 1964, Pub. L. 88–446, title VI, §522, 78 Stat. 478.
+Pub. L. 88–446, title VI, §522, Aug. 19, 1964, 78 Stat. 478.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, §522, 77 Stat. 267.
+Pub. L. 88–149, title V, §522, Oct. 17, 1963, 77 Stat. 267.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, §522, 76 Stat. 332.
+Pub. L. 87–577, title V, §522, Aug. 9, 1962, 76 Stat. 332.
 
-Aug. 17, 1961, Pub. L. 87–144, title VI, §622, 75 Stat. 379.
+Pub. L. 87–144, title VI, §622, Aug. 17, 1961, 75 Stat. 379.
 
-July 7, 1960, Pub. L. 86–601, title V, §522, 74 Stat. 353.
+Pub. L. 86–601, title V, §522, July 7, 1960, 74 Stat. 353.
 
-Aug. 18, 1959, Pub. L. 86–166, title V, §622, 73 Stat. 382.
+Pub. L. 86–166, title V, §622, Aug. 18, 1959, 73 Stat. 382.
 
-Aug. 22, 1958, Pub. L. 85–724, title VI, §624, 72 Stat. 728.
+Pub. L. 85–724, title VI, §624, Aug. 22, 1958, 72 Stat. 728.
 
-Aug. 2, 1957, Pub. L. 85–117, title VI, §625, 71 Stat. 327.
+Pub. L. 85–117, title VI, §625, Aug. 2, 1957, 71 Stat. 327.
 
 July 2, 1956, ch. 488, title VI, §625, 70 Stat. 471.
 

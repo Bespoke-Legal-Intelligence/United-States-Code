@@ -14,7 +14,7 @@ For purposes of this chapter—
 
 &emsp;(6) The term “Native American language” means the historical, traditional languages spoken by Native Americans.
 
-&emsp;(7) The term “traditional leaders” includes Native Americans who have special expertisein Native American culture and Native American languages.
+&emsp;(7) The term “traditional leaders” includes Native Americans who have special expertise in Native American culture and Native American languages.
 
 &emsp;(8) The term “Indian reservation” has the same meaning given to the term “reservation” under section 1452 of this title.
 

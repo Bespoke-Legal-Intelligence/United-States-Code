@@ -12,7 +12,7 @@ A merger or transfer satisfies the requirements of this section if—
 
 &emsp;(2) no participant's or beneficiary's accrued benefit will be lower immediately after the effective date of the merger or transfer than the benefit immediately before that date;
 
-&emsp;(3) the benefits of participants and beneficiaries are not reasonably expected to besubject to suspension under section 1426 of this title; and
+&emsp;(3) the benefits of participants and beneficiaries are not reasonably expected to be subject to suspension under section 1426 of this title; and
 
 &emsp;(4) an actuarial valuation of the assets and liabilities of each of the affected plans has been performed during the plan year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the start of that plan year, or other valuation of such assets and liabilities performed under such standards and procedures as the corporation may prescribe by regulation.
 

@@ -56,7 +56,7 @@ The provisions of this section shall not take effect until appropriations are sp
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(16), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (a)(1) of this section is amended by striking “section 1817(b)(2)(H) of this title” and inserting “section 1817(b)(2)(G) of this title”.</i>
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(16), Sept. 30, 1996, 110 Stat. 3009–487,</i><i>3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (a)(1) of this section is amended by striking “section 1817(b)(2)(H) of this title” and inserting “section 1817(b)(2)(G) of this title”.</i>
 
 #### Codification
 
@@ -66,7 +66,7 @@ Section is comprised of section 232 of Pub. L. 102–242. Subsec. (b) of section
 
 #### Amendments
 
-1992—Subsec. (a)(1). Pub. L. 102–558, §303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. Pub. L. 102–550, §1605(a)(3), which made an identicalamendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+1992—Subsec. (a)(1). Pub. L. 102–558, §303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. Pub. L. 102–550, §1605(a)(3), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Subsec. (b). Pub. L. 102–558, §303(b)(1), made technical correction to directory language of subsec. (b)(1). See Codification note above. Pub. L. 102–550, §1604(b)(1), which made a similar amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 

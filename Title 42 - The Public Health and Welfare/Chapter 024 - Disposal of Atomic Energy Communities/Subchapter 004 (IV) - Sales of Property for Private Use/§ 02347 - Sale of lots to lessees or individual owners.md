@@ -4,7 +4,7 @@
 
 (b) The Commission is authorized to offer for sale, as soon as possible, other lots, to individual owners, upon which single family or duplex houses may be erected, taking into consideration the zoning restrictions the new city is likely to enact with respect to those lots. The zoning restrictions to be taken into account at Los Alamos shall be those which the local government is likely to enact with respect to those lots.
 
-(Aug. 4, 1955, ch. 543, ch. 5, §57, 69 Stat. 478; Sept. 28, 1962, Pub. L. 87–719, §13, 76 Stat. 665.)
+(Aug. 4, 1955, ch. 543, ch. 5, §57, 69 Stat. 478; Pub. L. 87–719, §13, Sept. 28, 1962, 76 Stat. 665.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 Whoever, within the United States, knowingly and with intent to defraud, utters, passes, or puts off, in payment or negotiation, any false, forged, or counterfeited bond, certificate, obligation, security, treasury note, bill, or promise to pay, mentioned in section 478 of this title, whether or not the same was made, altered, forged, or counterfeited within the United States, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(J), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -6,7 +6,7 @@ The Secretary shall establish, maintain, and operate a program with respect to i
 
 #### (b) Toll-free telephone communications for health care entities
 
-(1) After consultation with the Director of the Office of AIDS Research, the Administrator of the Health Resources and Services Administration, and the Director of the Centers for Disease Control and Prevention, the Secretary shall provide for toll-free telephone communications toprovide medical and technical information with respect to acquired immune deficiency syndrome to health care professionals, allied health care providers, and to professionals providing emergency health services.
+(1) After consultation with the Director of the Office of AIDS Research, the Administrator of the Health Resources and Services Administration, and the Director of the Centers for Disease Control and Prevention, the Secretary shall provide for toll-free telephone communications to provide medical and technical information with respect to acquired immune deficiency syndrome to health care professionals, allied health care providers, and to professionals providing emergency health services.
 
 (2) Information provided pursuant to paragraph (1) shall include—
 
@@ -32,9 +32,9 @@ The Data Bank shall include the following:
 
 &emsp;(1) A registry of clinical trials of experimental treatments for acquired immune deficiency syndrome and related illnesses conducted under regulations promulgated pursuant to section 355 of title 21 that provides a description of the purpose of each experimental drug protocol either with the consent of the protocol sponsor, or when a trial to test efficacy begins. Information provided shall include eligibility criteria and the location of trial sites, and must be forwarded to the Data Bank by the sponsor of the trial not later than 21 days after the approval by the Food and Drug Administration.
 
-&emsp;(2) Information pertaining to experimental treatments for acquired immune deficiency syndrome that may be available under a treatment investigational new drug application that has been submitted to the Food and Drug Administration pursuant to part 312 of title 21, Code of Federal Regulations. The Data Bank shall also include information pertaining to the results of clinical trials of such treatments, with the consent of the sponsor, of such experimental treatments, including information concerning potential toxicities or adverse effects associated with the use or administration of such experimental treatment.
+&emsp;(2) Information pertaining to experimental treatments for acquired immune deficiency syndrome that may be available under a treatment investigational new drug application that has been submitted to the Food and Drug Administration pursuant to part 312 of title 21, Code of Federal Regulations. The Data Bankshall also include information pertaining to the results of clinical trials of such treatments, with the consent of the sponsor, of such experimental treatments, including information concerning potential toxicities or adverse effects associated with the use or administration of such experimental treatment.
 
-(July 1, 1944, ch. 373, title XXIII, §2317, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3071; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2617(c), 102 Stat. 4240; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(19), 106 Stat. 3505; June 10, 1993, Pub. L. 103–43, title XX, §2008(d)(4), 107 Stat. 212.)
+(July 1, 1944, ch. 373, title XXIII, §2317, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3071; amended Pub. L. 100–690, title II, §2617(c), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, §312(d)(19), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XX, §2008(d)(4), June 10, 1993, 107 Stat. 212.)
 
 #### Amendments
 

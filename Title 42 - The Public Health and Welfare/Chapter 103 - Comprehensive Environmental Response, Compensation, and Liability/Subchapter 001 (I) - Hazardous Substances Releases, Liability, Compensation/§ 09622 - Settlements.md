@@ -16,7 +16,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (3) Retention of funds
 
-&emsp;If, as part of any agreement, the President will be carrying out any action and the parties will be paying amounts to the President, the President may, notwithstanding any otherprovision of law, retain and use such amounts for purposes of carrying out the agreement.
+&emsp;If, as part of any agreement, the President will be carrying out any action and the parties will be paying amounts to the President, the President may, notwithstanding any other provision of law, retain and use such amounts for purposes of carrying out the agreement.
 
 #### (4) Future obligation of Fund
 
@@ -34,7 +34,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;&emsp;(A) The liability of any person under section 9606 or 9607 of this title with respect to any costs or damages which are not included in the agreement.
 
-&emsp;&emsp;(B) The authority of the President to maintain an action under this chapter against any person who is not a party to the agreement.
+&emsp;&emsp;(B) The authority of the President to maintain an action under this chapteragainst any person who is not a party to the agreement.
 
 #### (d) Enforcement
 
@@ -106,7 +106,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (C) Effect
 
-&emsp;&emsp;The nonbinding preliminary allocation of responsibility shall not be admissible as evidence in any proceeding, and no court shall have jurisdiction to review the nonbindingpreliminary allocation of responsibility. The nonbinding preliminary allocation of responsibility shall not constitute an apportionment or other statement on the divisibility of harm or causation.
+&emsp;&emsp;The nonbinding preliminary allocation of responsibility shall not be admissible as evidence in any proceeding, and no court shall have jurisdiction to review the nonbinding preliminary allocation of responsibility. The nonbinding preliminary allocation of responsibility shall not constitute an apportionment or other statement on the divisibility of harm or causation.
 
 #### (D) Costs
 
@@ -158,7 +158,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Factors
 
-&emsp;In assessing the appropriateness of a covenant not to sue under paragraph (1) and any condition to be included in a covenant not to sue under paragraph (1) or (2), the Presidentshall consider whether the covenant or condition is in the public interest on the basis of such factors as the following:
+&emsp;In assessing the appropriateness of a covenant not to sue under paragraph (1) and any condition to be included in a covenant not to sue under paragraph (1) or (2), the President shall consider whether the covenant or condition is in the public interest on the basis of such factors as the following:
 
 &emsp;&emsp;(A) The effectiveness and reliability of the remedy, in light of the other alternative remedies considered for the facility concerned.
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) the chief, and one assistant to the chief, of any technical service, bureau, or office.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(e)(1), 110 Stat. 443.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Pub. L. 104–106, div. A, title X, §1061(e)(1), Feb. 10, 1996, 110 Stat. 443.)
 
 Historical and Revision Notes
 

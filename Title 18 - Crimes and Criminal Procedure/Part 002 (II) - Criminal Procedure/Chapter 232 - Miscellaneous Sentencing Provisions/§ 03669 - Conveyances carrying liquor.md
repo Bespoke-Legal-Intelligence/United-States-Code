@@ -2,7 +2,7 @@
 
 Any conveyance, whether used by the owner or another in introducing or attempting to introduce intoxicants into the Indian country, or into other places where the introduction is prohibited by treaty or enactment of Congress, shall be subject to seizure, libel, and forfeiture.
 
-(June 25, 1948, ch. 645, 62 Stat. 841, §3618; renumbered §3669, Oct. 12, 1984, Pub. L. 98–473, title II, §212(a)(1), 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 841, §3618; renumbered §3669, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ Minor changes were made in arrangement and phraseology.
 
 #### Federal Rules of Civil Procedure
 
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil andadmiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 #### Cross References
 

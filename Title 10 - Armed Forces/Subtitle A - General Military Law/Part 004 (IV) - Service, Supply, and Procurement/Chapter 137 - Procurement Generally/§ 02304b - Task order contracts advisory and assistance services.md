@@ -24,7 +24,7 @@ Required Content of Solicitation and Contract.—(1) The solicitation for the pr
 
 Multiple Awards.—(1) The head of an agency may, on the basis of one solicitation, award separate task order contracts under this section for the same or similar services to two or more sources if the solicitation states that the head of the agency has the option to do so.
 
-(2) If, in the case of a task order contract for advisory and assistance services to be entered into under this section, the contract period is to exceed three years and the contract amount is estimated to exceed $10,000,000 (including all options), the solicitation shall—
+(2) If, in the case of a task order contract for advisory and assistance services to be entered into under this section, the contract period is toexceed three years and the contract amount is estimated to exceed $10,000,000 (including all options), the solicitation shall—
 
 &emsp;(A) provide for a multiple award authorized under paragraph (1); and
 

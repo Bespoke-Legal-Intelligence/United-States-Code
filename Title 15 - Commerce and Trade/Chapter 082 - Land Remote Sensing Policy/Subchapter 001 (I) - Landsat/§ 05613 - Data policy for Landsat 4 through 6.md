@@ -22,7 +22,7 @@ Within 30 days after October 28, 1992, the Landsat Program Management shall ente
 
 #### (b) Failure to reach agreement
 
-If negotiations under subsection (a) of this section have not, by September 30, 1993, resulted in an agreement that the Landsat Program Management determines generally achieves the goals stated in subsection (b)(1) through (8) of this section, the Administrator and the Secretary of Defense shall, within 30 days after the date of such determination, jointly certify and report such determination to the Congress. The report shall include a review of options and projected costs for achieving such goals, and shall include recommendations for achieving such goals. The options reviewed shall include—
+If negotiations under subsection (a) of this section have not, by September 30, 1993, resultedin an agreement that the Landsat Program Management determines generally achieves the goals stated in subsection (b)(1) through (8) of this section, the Administrator and the Secretary of Defense shall, within 30 days after the date of such determination, jointly certify and report such determination to the Congress. The report shall include a review of options and projected costs for achieving such goals, and shall include recommendations for achieving such goals. The options reviewed shall include—
 
 &emsp;(1) retaining the existing or modified contract with the Landsat 6 contractor;
 

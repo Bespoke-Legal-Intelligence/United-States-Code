@@ -2,7 +2,7 @@
 
 #### (a) Composition; Chairman; Acting Chairman; quorum; official spokesman; seal; functions of Chairman and Commission
 
-(1) There is established an independent regulatory commission to be known as the Nuclear Regulatory Commission which shall be composed of five members, each of whom shall be a citizen of the United States. The President shall designate one member of the Commission as Chairman thereof to serve as such during the pleasure of the President. The Chairman may from time to time designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all meetings of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have equal responsibility and authority in all decisions and actions of the Commission, shallhave full access to all information relating to the performance of his duties or responsibilities, and shall have one vote. Action of the Commission shall be determined by a majority vote of the members present. The Chairman (or Acting Chairman in the absence of the Chairman) shall be the official spokesman of the Commission in its relations with the Congress, Government agencies, persons, or the public, and, on behalf of the Commission, shall see to the faithful execution of the policies and decisions of the Commission, and shall report thereon to the Commission from time to time or as the Commission may direct. The Commission shall have an official seal which shall be judicially noticed.
+(1) There is established an independent regulatory commission to be known as the Nuclear Regulatory Commission which shall be composed of five members, each of whom shall be a citizen of the United States. The President shall designate one member of the Commission as Chairman thereof to serve as such during the pleasure of the President. The Chairman may from time to time designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all meetings of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have equal responsibility and authority in all decisions and actions of the Commission, shall have full access to all information relating to the performance of his duties or responsibilities, and shall have one vote. Action of the Commission shall be determined by a majority vote of the members present. The Chairman (or Acting Chairman in the absence of the Chairman) shall be the official spokesman of the Commission in its relations with the Congress, Government agencies, persons, or the public, and, on behalf of the Commission, shall see to the faithful execution of the policies and decisions of the Commission, and shall report thereon to the Commission from time to time or as the Commission may direct. The Commission shall have an official seal which shall be judicially noticed.
 
 (2) The Chairman of the Commission shall be the principal executive officer of the Commission, and he shall exercise all of the executive and administrative functions of the Commission, including functions of the Commission with respect to (a) the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of commissioners other than the Chairman, and except as otherwise provided in this chapter), (b) the distribution of business among such personnel and among administrative units of the Commission, and (c) the use and expenditure of funds.
 
@@ -48,7 +48,7 @@ In addition to other functions and personnel transferred to the Commission, ther
 
 This chapter, referred to in subsecs. (a)(2) and (g)(2), was in the original “the Energy Reorganization Act of 1974”, and “this Act”, respectively, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under section 5801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
@@ -114,7 +114,7 @@ Design of Testing Procedures.—The tests required by subsection (b) shall be de
 
 “(e)
 
-Testing Results: Reports and Public Disclosure.—The Nuclear Regulatory Commission shall transmit to Congress a report on the results of each test conducted under this section and shall make such results available to the public.
+Testing Results: Reports and Public Disclosure.—The Nuclear Regulatory Commission shalltransmit to Congress a report on the results of each test conducted under this section and shall make such results available to the public.
 
 “(f)
 
@@ -168,7 +168,7 @@ Pub. L. 97–415, §13, Jan. 4, 1983, 96 Stat. 2074, provided that:
 
 #### Transportation of Nuclear Waste With Potential for Significant Public Health and Safety Hazards; Regulations for Notice to Governor
 
-Pub. L. 96–295, title III, §301, June 30, 1980, 94 Stat. 789, directed Nuclear Regulatory Commission, within 90 days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notification requirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
+Pub. L. 96–295, title III, §301, June 30, 1980, 94 Stat. 789, directed Nuclear Regulatory Commission, within 90days of June 30, 1980, to promulgate regulations providing for timely notification to the Governor of any State prior to the transport of nuclear waste, including spent nuclear fuel, to, through, or across the boundaries of such State, and provided that such notification requirement would not apply to nuclear waste in such quantities and of such types as the Commission specifically determined did not pose a potentially significant hazard to the health and safety of the public.
 
 #### Review of Selection and Training of Members of Atomic Safety and Licensing Boards; Report to Congress
 
@@ -190,7 +190,7 @@ Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter
 
 &emsp;(1) policy formulation;
 
-&emsp;(2) rulemaking, as defined in section 553 of Title 5 of the United States Code, except that those matters set forth in 553(a)(2) and (b) which do not pertain topolicy formulation orders or adjudications shall be reserved to the Chairman of the Commission;
+&emsp;(2) rulemaking, as defined in section 553 of Title 5 of the United States Code, except that those matters set forth in 553(a)(2) and (b) which do not pertain to policy formulation orders or adjudications shall be reserved to the Chairman of the Commission;
 
 &emsp;(3) orders and adjudications, as defined in section 551 (6) and (7) of Title 5 of the United States Code;
 
@@ -260,7 +260,7 @@ Sec. 3. (a) Notwithstanding sections 1 and 2 of this Reorganization Plan, there 
 
 (d) Following the conclusion of the emergency, the Chairman, or the member of the Commission delegated the emergency functions under subsection (b), shall render a complete and timely report to the Commission on the actions taken during the emergency.
 
-Sec. 4. (a) The Chairman may make such delegations and provide for such reporting as the Chairman deemsnecessary, subject to provisions of law and this Reorganization Plan. Any officer or employee under the Commission may communicate directly to the Commission, or to any member of the Commission, whenever in the view of such officer or employee a critical problem or public health and safety or common defense and security is not being properly addressed.
+Sec. 4. (a) The Chairman may make such delegations and provide for such reporting as the Chairman deems necessary, subject to provisions of law and this Reorganization Plan. Any officer or employee under the Commission may communicate directly to the Commission, or to any member of the Commission, whenever in the view of such officer or employee a critical problem or public health and safety or common defense and security is not being properly addressed.
 
 (b) The Executive Director for Operations shall report for all matters to the Chairman.
 
@@ -292,7 +292,7 @@ Intensive investigations undertaken since the Three Mile Island accident have re
 
 &emsp;—A recently completed independent study authorized and funded by the Nuclear Regulatory Commission itself also found serious fault with the Commission's management and called for a major organizational overhaul. The report states that there is no authoritative manager but, instead, five equally responsible Commissioners who deal individually with office directors who, in turn, head their own “independent fiefdoms.”
 
-&emsp;—Likewise, a recent report of the General Accounting Office notes the failure of the Nuclear Regulatory Commission to define either the authority of the Chairman or that of the Executive Director for Operations. The staff lacks policy guidance and top management leadership to set priorities and resolve safety issues. There are unreasonable delays in developing policies to guide the licensing and enforcement activities of the agency.
+&emsp;—Likewise, a recent report of the General Accounting Office notes the failure of the Nuclear Regulatory Commission to define either the authority ofthe Chairman or that of the Executive Director for Operations. The staff lacks policy guidance and top management leadership to set priorities and resolve safety issues. There are unreasonable delays in developing policies to guide the licensing and enforcement activities of the agency.
 
 The central theme in all three of these studies is the failure of the Nuclear Regulatory Commission to provide unified leadership and consistent direction of the agency's activities. The present statutes contain conflicting and ambiguous provisions for managing the agency. Important corrective actions cannot or will not be taken by the Commission until the laws are changed. Failure to do so constitutes a continuing nuclear safety hazard.
 
@@ -304,7 +304,7 @@ Under the proposed Plan, the Commission would continue to be responsible for pol
 
 #### chairman
 
-Under the Plan, the Chairman would act as the principal executive officer and spokesman for the Commission. To accomplish this, those functions of the Nuclear Regulatory Commission not retained by the Commission would be vested in the Chairman, who is currently coequal with the Commissioners in all decisions and actions. The Chairman would be authorized to make appointments, on his own authority, to all positions not specified for Commission approval and would be responsible to the Commission for assuring staff support bythe operating offices in meeting the needs of the Commission. The Executive Director for Operations would report directly to and receive his authority from the Chairman. Heads of operating offices would also report to the Chairman or, by delegation, to the Executive Director for Operations. Office heads would also be authorized to communicate directly with members of the Commission whenever an office head believed critical safety issues were not being addressed.
+Under the Plan, the Chairman would act as the principal executive officer and spokesman for the Commission. To accomplish this, those functions of the Nuclear Regulatory Commission not retained by the Commission would be vested in the Chairman, who is currently coequal with the Commissioners in all decisions and actions. The Chairman would be authorized to make appointments, on his own authority, to all positions not specified for Commission approval and would be responsible to the Commission for assuring staff support by the operating offices in meeting the needs of the Commission. The Executive Director for Operations would report directly to and receive his authority from the Chairman. Heads of operating offices would also report to the Chairman or, by delegation, to the Executive Director for Operations. Office heads would also be authorized to communicate directly with members of the Commission whenever an office head believed critical safety issues were not being addressed.
 
 #### emergency management
 
@@ -332,7 +332,7 @@ To the Congress of the United States:
 
 I herewith transmit the following amendments to Reorganization Plan No. 1 of 1980, which I sent to the Congress on March 27, 1980.
 
-The amendments to Reorganization Plan No. 1 are consistent with my original intent of strengthening the management of the Nuclear Regulatory Commission in order to improve safety in all of the agency's activities, while preserving the advantages of the Commission form. The amendments reinforce the purpose of the Plan in two respects. First, the amended Plan gives the Commission a greater role in selection of key program officers of the agency by adding four positions to the list of appointments initiated by the Chairman for the Commission's advice and consent. These are the Executive Director for Operations, the Director of Inspection and Enforcement, the Director of Nuclear Regulatory Research, and the Director of Standards Development. Each of these positions contributes to nuclear safety regulation, and each performs functions that help determine the policy and performance of the agency.
+The amendments to Reorganization Plan No. 1 are consistent with my original intent of strengthening the management of the Nuclear Regulatory Commission in order to improve safety in all of the agency's activities, while preserving the advantages of the Commission form. The amendments reinforce the purpose of the Plan in two respects. First, the amended Plan gives the Commission a greater role in selection of key program officers of the agency by adding four positions to the list of appointments initiated by the Chairman for the Commission's advice and consent. These are the Executive Director for Operations, the Director of Inspection and Enforcement, the Director of Nuclear Regulatory Research, and the Director of Standards Development. Each of these positions contributes to nuclear safetyregulation, and each performs functions that help determine the policy and performance of the agency.
 
 The Advisory Committee on Reactor Safeguards advises the Commission as a whole. Since its members serve renewable 4-year terms, another amendment provides that a Commission member, as well as the Chairman, can initiate an appointment to the Advisory Committee on Reactor Safeguards for approval by the Commission.
 

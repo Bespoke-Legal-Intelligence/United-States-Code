@@ -5,10 +5,11 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
+- [&sect; 03310 - Limitation on indirect costs for agricultural research, education, and extension programs](%C2%A7%2003310%20-%20Limitation%20on%20indirect%20costs%20for%20agricultural%20research%2C%20education%2C%20and%20extension%20programs.md)
 - [&sect; 03311 - Authorization of appropriations](%C2%A7%2003311%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03312 - Authorization of appropriations for extension education](%C2%A7%2003312%20-%20Authorization%20of%20appropriations%20for%20extension%20education.md)
 - [&sect; 03313 - Payment of funds](%C2%A7%2003313%20-%20Payment%20of%20funds.md)
-- [&sect; 03314 - Withholding of funds](%C2%A7%2003314%20-%20Withholding%20of%20funds.md)
+- [&sect; 03314 - Repealed. Pub. L. 105&#8211;185, title I, &sect;103(f)(3)(C), June 23, 1998, 112 Stat. 528](%C2%A7%2003314%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93185%2C%20title%20I%2C%20%C2%A7103%28f%29%283%29%28C%29%2C%20June%2023%2C%201998%2C%20112%20Stat.%20528.md)
 - [&sect; 03315 - Auditing, reporting, bookkeeping, and administrative requirements](%C2%A7%2003315%20-%20Auditing%2C%20reporting%2C%20bookkeeping%2C%20and%20administrative%20requirements.md)
 - [&sect; 03316 - Rules and regulations](%C2%A7%2003316%20-%20Rules%20and%20regulations.md)
 - [&sect; 03317 - Program evaluation studies](%C2%A7%2003317%20-%20Program%20evaluation%20studies.md)

@@ -14,7 +14,7 @@
 
 (c) The amount of disability severance pay received under this section shall be deducted from any compensation for the same disability to which the former member of the armed forces or his dependents become entitled under any law administered by the Department of Veterans Affairs. However, no deduction may be made from any death compensation to which his dependents become entitled after his death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Dec. 12, 1980, Pub. L. 96–513, title V, §511(43), 94 Stat. 2924; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602.)
 
 Historical and Revision Notes
 

@@ -46,21 +46,23 @@
 
 (e)(1) Expenditures for the rental of family housing in foreign countries (including the costs of utilities, maintenance, and operation) may not exceed $20,000 per unit per year, except that 450 units may be leased in foreign countries for not more than $25,000 per unit per year. These maximum lease amounts may be waived by the Secretary concerned with respect to not more than a total of 350 such units that are leased for incumbents of special positions or for personnel assigned to Defense Attache Offices or that are leased in countries where excessive costs of housing would cause undue hardship on Department of Defense personnel.
 
-(2) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Navy may lease not more than 2,000 units of family housing in Italy subject to that maximum lease amount.
+(2) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Navy may lease not more than 2,000 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy, subject to that maximum lease amount.
 
-(3) The Secretary concerned shall adjust the maximum lease amounts provided for under paragraphs (1) and (2) for the previous fiscal year—
+(3) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Army may lease not more than 800 units of family housing in Korea subject to that maximum lease amount.
+
+(4) The Secretary concerned shall adjust the maximum lease amounts provided for under paragraphs (1), (2), and (3) for the previous fiscal year—
 
 &emsp;(A) for foreign currency fluctuations from October 1, 1987; and
 
 &emsp;(B) at the beginning of each fiscal year, by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.
 
-(4) The maximum number of family housing units that may be leased in foreign countries under this section at any one time is 53,000.
+(5) The maximum number of family housing units that may be leased in foreign countries under this section at any one time is 53,000.
 
 (f) A lease for family housing facilities, or for real property related to family housing facilities, in a foreign country for which the average estimated annual rental during the term of the lease exceeds $500,000 may not be made under this section until (1) the Secretary concerned provides to the appropriate committees of Congress written notification of the facts concerning the proposed lease, and (2) a period of 21 days elapses after the notification is received by those committees.
 
 (g) Appropriations available to the Department of Defense for maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, §2802, Oct. 17, 1998, 112 Stat. 2202.)
 
 #### Historical and Revision Notes
 
@@ -69,6 +71,16 @@
 Subsection (h) of this section and section 2673 of this title are based on Pub. L. 98–212, title VII, §707, Dec. 8, 1983, 97 Stat. 1438.
 
 #### Amendments
+
+1998—Subsec. (e)(2). Pub. L. 105–261, §2802(a)(1), inserted “, and the Secretary of the Army may lease not more than 500 units of family housing in Italy,” after “family housing in Italy”.
+
+Subsec. (e)(3). Pub. L. 105–261, §2802(a)(3), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (e)(4). Pub. L. 105–261, §2802(b), substituted “, (2), and (3)” for “and (2)”.
+
+Pub. L. 105–261, §2802(a)(2), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (e)(5). Pub. L. 105–261, §2802(a)(2), redesignated par. (4) as (5).
 
 1997—Subsec. (b)(2). Pub. L. 105–85, §2803(a)(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
 
@@ -168,7 +180,7 @@ Subsec. (g)(9). Pub. L. 99–167, §801(b)(1), substituted “September 30, 1986
 
 #### Effective Date of 1991 Amendment
 
-Section 2806(c) of Pub. L. 102–190 provided that: “Section 2835 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b)(1) \[amending this section\] shallnot affect the validity of any contract entered into before that date under section 2828(g) of such title, as in effect on the day before that date.”
+Section 2806(c) of Pub. L. 102–190 provided that: “Section 2835 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b)(1) \[amending this section\] shall not affect the validity of any contract entered into before that date under section 2828(g) of such title, as in effect on the day before that date.”
 
 #### Effective Date of 1988 Amendment
 

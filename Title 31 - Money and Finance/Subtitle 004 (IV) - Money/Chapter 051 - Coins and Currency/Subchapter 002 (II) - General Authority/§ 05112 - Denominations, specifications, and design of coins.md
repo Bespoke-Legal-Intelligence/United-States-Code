@@ -122,6 +122,14 @@ In general.—Notwithstanding the fourth sentence of subsection (d)(1) and subse
 
 Transition provision.—Notwithstanding subparagraph (A), the Secretary may continue to mint and issue quarter dollars in 1999 which bear the design in effect before the redesign required under this subsection and an inscription of the year “1998” as required to ensure a smooth transition into the 10-year program under this subsection.
 
+&emsp;&emsp;(C)
+
+Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars issued during the 10-year period referred to in subparagraph (A) in which—
+
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such quarter dollars; and
+
+&emsp;&emsp;&emsp;(ii) any inscription described in the third sentence of subsection (d)(1) or the designation of the value of the coin appears on the obverse side of any such quarter dollars.
+
 &emsp;(2)
 
 Single state designs.—The design on the reverse side of each quarter dollar issued during the 10-year period referred to in paragraph (1) shall be emblematic of 1 of the 50 States.
@@ -224,7 +232,7 @@ Exception.—If the Secretary determines, based on independent, market-based res
 
 Designated recipient organization defined.—For purposes of this paragraph, the term “designated recipient organization” means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104.)
 
 Historical and Revision Notes<br>1982
 
@@ -356,6 +364,8 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (<
 
 #### Amendments
 
+1998—Subsec. (<i>l</i>)(1)(C). Pub. L. 105–176 added subpar. (C).
+
 1997—Subsec. (a)(1). Pub. L. 105–124, §4(b), struck out “and weighs 8.1 grams” after “diameter”.
 
 Subsec. (b). Pub. L. 105–124, §4(c), struck out “dollar,” before “half dollar” in first sentence and inserted after fourth sentence “The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997.”
@@ -482,7 +492,7 @@ Report.—The Secretary shall submit the study required in subsection (a) above,
 
 “(c) 50-
 
-State Commemorative Coin Program.—The Secretary shall determine by August 1, 1997 whether the results of the study authorized by subsection (a) justify such a program. If the Secretary determines that such a program is justified, then he shall by January 1, 1999, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2) of section 5112, title 31, United States Code, commence a commemorative coin program consisting of the minting and issuance of quarter dollar coins bearing designs, selected in accordance with paragraph (4) of this subsection, which are emblematic of the 50 States. If the Secretary determines that such a commemorative coin program is justified but that it is not practicable to commence the program by January 1, 1999, then he shall notify the Committee on Banking and Financial Services of theHouse of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of such impracticability and of the date on which the program will commence.
+State Commemorative Coin Program.—The Secretary shall determine by August 1, 1997 whether the results of the study authorized by subsection (a) justify such a program. If the Secretary determines that such a program is justified, then he shall by January 1, 1999, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2) of section 5112, title 31, United States Code, commence a commemorative coin program consisting of the minting and issuance of quarter dollar coins bearing designs, selected in accordance with paragraph (4) of this subsection, which are emblematic of the 50 States. If the Secretary determines that such a commemorative coin program is justified but that it is not practicable to commence the program by January 1, 1999, then he shall notify the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of such impracticability and of the date on which the program will commence.
 
 &emsp;“(1)
 
@@ -582,11 +592,19 @@ Final Report.—Each person who receives, after the date of the enactment of thi
 
 #### Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt
 
-Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
+Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing thenational debt, prior to repeal by Pub. L. 102–390, title II, §221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
 
 #### Issuance of Gold Coins To Result in No Net Cost to United States
 
 Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under section 5112(i) of title 31, United States Code, shall result in no net cost to the United States Government.”
+
+#### Thomas Alva Edison Commemorative Coins
+
+Pub. L. 105–331, Oct. 31, 1998, 112 Stat. 3073, directed Secretary of the Treasury to issue not more than 500,000 one dollar silver coins commemorating the 125th anniversary of the invention of the light bulb by Thomas A. Edison, and provided for coin specifications, sources of bullion, design and issuance of coins, and surcharges.
+
+#### Library of Congress Bicentennial Commemorative Coins
+
+Pub. L. 105–268, Oct. 19, 1998, 112 Stat. 2378, directed Secretary of the Treasury to issue not more than 100,000 five dollar gold coins or not more than 200,000 ten dollar bimetallic coins and not more than 500,000 one dollar silver coins commemorating the bicentennial of the Library of Congress, and provided for coin specifications, sources of bullion, design, issuance and sale of coins, and distribution of surcharges.
 
 #### First Flight Commemorative Coins
 
@@ -594,7 +612,7 @@ Pub. L. 105–124, §6, Dec. 1, 1997, 111 Stat. 2537, directed Secretary of the 
 
 #### Establishment of Programs Pursuant to Recommendations of Citizens Commemorative Coin Advisory Committee; Definitions
 
-Pub. L. 104–329, §2, title I, §§101–108, Oct. 20, 1996, 110 Stat. 4005–4011, directed Secretary of the Treasury, pursuant to recommendations of Citizens Commemorative Coin Advisory Committee, to mint and issue commemorative coins in honor of Dolley Madison, George Washington, Black Revolutionary War Patriots, Franklin Delano Roosevelt, Yellowstone National Park, National Law Enforcement Officers Memorial, and Jackie Robinson, and provided for definitions, for specification and design, legal tender status, sources of bullion for coins for quality, issuance and sale of, coins, together with establishment and distribution of surcharges, and financial assurances respecting payment for such coins at no net cost to the Government, and for general waiver of procurement regulations.
+Pub. L. 104–329, §2, title I, §§101–108, Oct. 20, 1996, 110 Stat. 4005–4011, directed Secretary of the Treasury, pursuant to recommendations of Citizens Commemorative Coin Advisory Committee, to mint and issue commemorative coins in honor of Dolley Madison, George Washington, Black Revolutionary War Patriots, Franklin Delano Roosevelt, Yellowstone National Park, National Law Enforcement Officers Memorial, and Jackie Robinson, and provided for definitions, for specification and design, legal tender status, sources of bullion for coins for quality, issuance and sale of, coins, together with establishment and distribution of surcharges, and financial assurances respecting payment for such coins at no net cost to the Government, and for general waiver of procurement regulations. See, also, Pub. L. 105–277, div. C, title I, §139(c), Oct. 21, 1998, 112 Stat. 2681–599.
 
 #### Smithsonian Institution Sesquicentennial Commemorative Coins
 
@@ -674,7 +692,7 @@ Pub. L. 101–404, Oct. 2, 1990, 104 Stat. 875, as amended by Pub. L. 102–390,
 
 #### Mount Rushmore Commemorative Coins
 
-Pub. L. 101–332, July 16, 1990, 104 Stat. 313, as amended by Pub. L. 102–390, title II, §221(c)(2)(C), Oct. 6, 1992, 106 Stat. 1628; Pub. L. 103–328, title II, §209, Sept. 29, 1994, 108 Stat. 2378, directed Secretary of the Treasury to issue not more than 500,000 five dollar gold coins, 2.5 million one dollar silver coins, and 2.5 million half dollar clad coins commemorating the golden anniversary of the Mount Rushmore National Memorial and provided for sources of bullion, specification, design, issuance, and sale of coins, waiver of procurement regulations, distribution of surcharges, audit by Comptroller General, and financial assurances.
+Pub. L. 101–332, July 16, 1990, 104 Stat. 313, as amended by Pub. L. 102–390, title II, §221(c)(2)(C), Oct. 6, 1992, 106Stat. 1628; Pub. L. 103–328, title II, §209, Sept. 29, 1994, 108 Stat. 2378, directed Secretary of the Treasury to issue not more than 500,000 five dollar gold coins, 2.5 million one dollar silver coins, and 2.5 million half dollar clad coins commemorating the golden anniversary of the Mount Rushmore National Memorial and provided for sources of bullion, specification, design, issuance, and sale of coins, waiver of procurement regulations, distribution of surcharges, audit by Comptroller General, and financial assurances.
 
 #### Bicentennial of the United States Congress Commemorative Coins
 

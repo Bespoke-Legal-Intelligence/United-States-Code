@@ -70,7 +70,7 @@ The Commission may adopt rules and regulations proscribing fraud and requiring m
 
 The granting of an exemption under this section shall not affect the authority of the Commission under any other provision of this chapter to conduct investigations in order to determine compliance with the requirements or conditions of such exemption or to take enforcement action for any violation of any provision of this chapter or any rule, regulation or order thereunder caused by the failure to comply with or satisfy such conditions or requirements.
 
-(Sept. 21, 1922, ch. 369, §4, 42 Stat. 999; June 15, 1936, ch. 545, §§2, 4, 49 Stat. 1491, 1492; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), (f), 88 Stat. 1392; Jan. 11, 1983, Pub. L. 97–444, title II, §204, 96 Stat. 2299; Oct. 28, 1992, Pub. L. 102–546, title V, §502(a), 106 Stat. 3629.)
+(Sept. 21, 1922, ch. 369, §4, 42 Stat. 999; June 15, 1936, ch. 545, §§2, 4, 49 Stat. 1491, 1492; Pub. L. 93–463, title I, §103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §204, Jan. 11, 1983, 96 Stat. 2299; Pub. L. 102–546, title V, §502(a), Oct. 28, 1992, 106 Stat. 3629.)
 
 #### References in Text
 

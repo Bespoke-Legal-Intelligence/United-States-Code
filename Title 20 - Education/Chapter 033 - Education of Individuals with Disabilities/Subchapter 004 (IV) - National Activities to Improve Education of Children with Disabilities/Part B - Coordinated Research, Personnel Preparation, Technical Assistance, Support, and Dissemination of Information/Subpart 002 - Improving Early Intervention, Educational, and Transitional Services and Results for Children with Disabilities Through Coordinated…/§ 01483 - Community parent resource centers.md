@@ -1,0 +1,44 @@
+### §1483. Community parent resource centers
+
+#### (a) In general
+
+The Secretary may make grants to, and enter into contracts and cooperative agreements with, local parent organizations to support parent training and information centers that will help ensure that underserved parents of children with disabilities, including low-income parents, parents of children with limited English proficiency, and parents with disabilities, have the training and information they need to enable them to participate effectively in helping their children with disabilities—
+
+&emsp;(1) to meet developmental goals and, to the maximum extent possible, those challenging standards that have been established for all children; and
+
+&emsp;(2) to be prepared to lead productive independent adult lives, to the maximum extent possible.
+
+#### (b) Required activities
+
+Each parent training and information center assisted under this section shall—
+
+&emsp;(1) provide training and information that meets the training and information needs of parents of children with disabilities proposed to be served by the grant, contract, or cooperative agreement;
+
+&emsp;(2) carry out the activities required of parent training and information centers underparagraphs (2) through (7) of section 1482(b) of this title;
+
+&emsp;(3) establish cooperative partnerships with the parent training and information centers funded under section 1482 of this title; and
+
+&emsp;(4) be designed to meet the specific needs of families who experience significant isolation from available sources of information and support.
+
+#### (c) “Local parent organization” defined
+
+As used is this section, the term “local parent organization” means a parent organization, as defined in section 1482(g) of this title, that either—
+
+&emsp;(1) has a board of directors the majority of whom are from the community to be served; or
+
+&emsp;(2) has—
+
+&emsp;&emsp;(A) as a part of its mission, serving the interests of individuals with disabilities from such community; and
+
+&emsp;&emsp;(B) a special governing committee to administer the grant, contract, or cooperative agreement, a majority of the members of which are individuals from such community.
+
+(Pub. L. 91–230, title VI, §683, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 151.)
+
+#### Prior Provisions
+
+A prior section 1483, Pub. L. 91–230, title VI, §683, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1154; amended Pub. L. 101–476, title IX, §901(b)(183), (184), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to Federal administration, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1401, 1415, 1484, 1486 of this title.
+

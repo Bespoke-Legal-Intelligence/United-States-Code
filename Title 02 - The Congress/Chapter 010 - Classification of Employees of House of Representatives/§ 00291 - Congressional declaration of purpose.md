@@ -6,7 +6,7 @@ It is the purpose of this chapter to provide a classification system for the equ
 
 &emsp;&emsp;(A) in accordance with the principle of equal pay for substantially equal work, and
 
-&emsp;&emsp;(B) with due regard to (i) differences in the levels of difficulty, responsibility, and qualification requirements of the work, (ii) the kind of work performed, (iii) satisfactory performance, and (iv) length of service;
+&emsp;&emsp;(B) with due regard to (i) differences in the levels of difficulty, responsibility, and qualification requirements of the work, (ii) thekind of work performed, (iii) satisfactory performance, and (iv) length of service;
 
 &emsp;(2) the application of appropriate position standards and position descriptions for such positions; and
 

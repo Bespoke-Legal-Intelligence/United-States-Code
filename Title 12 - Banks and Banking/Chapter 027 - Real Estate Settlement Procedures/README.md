@@ -51,7 +51,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 15 section 1638; title 42 sections 3541, 4012a, 8232.
+This chapter is referred to in section 4903 of this title; title 15 section 1638; title 42 sections 3541, 4012a, 8232.
 
 
 ---

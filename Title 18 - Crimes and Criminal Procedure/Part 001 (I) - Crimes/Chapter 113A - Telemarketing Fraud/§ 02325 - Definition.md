@@ -44,3 +44,7 @@ Hotline.—The Attorney General shall, subject to the availability of appropriat
 
 Action on Information Gathered.—The Attorney General shall work in cooperation with the Federal Trade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 982, 2703 of this title.
+

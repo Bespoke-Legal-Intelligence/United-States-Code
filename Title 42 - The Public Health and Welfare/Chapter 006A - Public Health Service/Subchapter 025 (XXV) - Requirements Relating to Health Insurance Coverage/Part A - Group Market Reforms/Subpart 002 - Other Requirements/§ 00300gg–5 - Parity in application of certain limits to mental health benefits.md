@@ -8,7 +8,7 @@
 
 #### (A) No lifetime limit
 
-&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially all medical and surgical benefits, the plan or coverage may not impose any aggregate lifetime limit on mental health benefits.
+&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially all medical and surgical benefits, the plan orcoverage may not impose any aggregate lifetime limit on mental health benefits.
 
 #### (B) Lifetime limit
 
@@ -48,7 +48,7 @@ Nothing in this section shall be construed—
 
 &emsp;(1) as requiring a group health plan (or health insurance coverage offered in connection with such a plan) to provide any mental health benefits; or
 
-&emsp;(2) in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan or coverage, except as specifically provided in subsection (a) of this section (in regard to parityin the imposition of aggregate lifetime limits and annual limits for mental health benefits).
+&emsp;(2) in the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan or coverage, except as specifically provided in subsection (a) of this section (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).
 
 #### (c) Exemptions
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 This section shall not apply to benefits for services furnished on or after September 30, 2001.
 
-(July 1, 1944, ch. 373, title XXVII, §2705, as added Sept. 26, 1996, Pub. L. 104–204, title VII, §703(a), 110 Stat. 2947.)
+(July 1, 1944, ch. 373, title XXVII, §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947.)
 
 #### Prior Provisions
 

@@ -2,11 +2,13 @@
 
 (a) Any State approving agency may approve a program of training on the job (other than a program of apprenticeship) only when it finds that the job which is the objective of the training is one in which progression and appointment to the next higher classification are based upon skills learned through organized and supervised training on the job and not on such factors as length of service and normal turnover, and that the provisions of subsections (b) and (c) of this section are met.
 
-(b) The training establishment offering training which is desired to be approved for the purposes of this chapter must submit to the appropriate State approving agency a written application for approval which, in addition to furnishing such information as is required by the State approving agency, contains a certification that—
+(b)(1) The training establishment offering training which is desired to be approved for the purposes of this chapter must submit to the appropriate State approving agency a written application for approval which, in addition to furnishing such information as is required by the State approving agency, contains a certification that—
 
-&emsp;(1) the wages to be paid the eligible veteran or person (A) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 per centum of the wages paid for the job for which the veteran or person is to be trained, and (B) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
+&emsp;(A) the wages to be paid the eligible veteran or person (i) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 per centum of the wages paid for the job for which the veteran or person is to be trained, and (ii) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
 
-&emsp;(2) there is reasonable certainty that the job for which the eligible veteran or person is to be trained will be available to the veteran or person at the end of the training period.
+&emsp;(B) there is reasonable certainty that the job for which the eligible veteran or person is to be trained will be available to the veteran or person at the end of the training period.
+
+(2) The requirement under paragraph (1)(A)(ii) shall not apply with respect to a training establishment operated by the United States or by a State or local government.
 
 (c) As a condition for approving a program of training on the job (other than a program of apprenticeship) the State approving agency must find upon investigation that the following criteria are met:
 
@@ -28,9 +30,11 @@
 
 &emsp;(9) That the course meets such other criteria as may be established by the State approving agency.
 
-(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §205(a), Nov. 11, 1998, 112 Stat. 3327.)
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–368 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former cls. (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A), and added par. (2).
 
 1991—Pub. L. 102–83 renumbered section 1777 of this title as this section.
 
@@ -43,6 +47,10 @@ Subsec. (c). Pub. L. 94–502 substituted “the veteran or person” for “he�
 1972—Subsecs. (b), (c). Pub. L. 92–540 inserted “or person” after “veteran” wherever appearing.
 
 1970—Subsec. (a). Pub. L. 91–219 inserted “and supervised”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–368, title II, §205(b), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to approval of programs of training on the job under section 3677 of title 38, United States Code, on or after October 1, 1998.”
 
 #### Effective Date of 1976 Amendment
 

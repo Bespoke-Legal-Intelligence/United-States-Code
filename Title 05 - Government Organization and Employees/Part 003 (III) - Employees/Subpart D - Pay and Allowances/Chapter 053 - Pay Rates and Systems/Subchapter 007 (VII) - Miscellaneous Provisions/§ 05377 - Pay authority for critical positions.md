@@ -72,7 +72,7 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Delegation of Functions
 
@@ -80,5 +80,5 @@ Authority of President under subsec. (i)(2) of this section delegated to Directo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5304, 5948 of this title; title 42 section 237.
+This section is referred to in sections 5304, 5948, 9502 of this title; title 42 section 237.
 

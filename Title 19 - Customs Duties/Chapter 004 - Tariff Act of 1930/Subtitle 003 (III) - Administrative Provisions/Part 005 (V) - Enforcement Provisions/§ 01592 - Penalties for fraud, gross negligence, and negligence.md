@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into the commerce of the United States by means of—
 
-&emsp;&emsp;&emsp;(i) any document or electronically transmitted data or information, written or oral statement, or act which is material and false, or
+&emsp;&emsp;&emsp;(i) any document or electronically transmitted data or information, written ororal statement, or act which is material and false, or
 
 &emsp;&emsp;&emsp;(ii) any omission which is material, or
 
@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. Thewritten penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -110,7 +110,7 @@
 
 #### (d) Deprivation of lawful duties, taxes, or fees
 
-Notwithstanding section 1514 of this title, if the United States has been deprived of lawfulduties, taxes, or fees as a result of a violation of subsection (a) of this section, the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
+Notwithstanding section 1514 of this title, if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a) of this section, the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
 
 #### (e) Court of International Trade proceedings
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Oct. 3, 1978, Pub. L. 95–410, title I, §110(a), 92 Stat. 893; Oct. 10, 1980, Pub. L. 96–417, title VI, §609, 94 Stat. 1746; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 8, 1993, Pub. L. 103–182, title II, §205(c), title VI, §621, 107 Stat. 2095, 2180; Oct. 11, 1996, Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), 110 Stat. 3515, 3531.)
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986,100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531.)
 
 #### Prior Provisions
 
@@ -182,7 +182,7 @@ Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted “the Customs Se
 
 Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” in two places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
 
-Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received whichcaused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
+Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
 
 Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12), substituted “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”.
 

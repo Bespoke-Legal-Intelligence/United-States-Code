@@ -6,7 +6,7 @@ In order to carry out the provisions of this subchapter effectively, the Assista
 
 #### (b) Technical assistance and cooperation
 
-In carrying out the provisions of this subchapter, the Assistant Secretary may requestthe technical assistance and cooperation of the Department of Education, the National Institutes of Health, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration, and such other agencies and departments of the Federal Government as may be appropriate.
+In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the National Institutes of Health, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration, and such other agencies and departments of the Federal Government as may be appropriate.
 
 #### (c) Minorities
 

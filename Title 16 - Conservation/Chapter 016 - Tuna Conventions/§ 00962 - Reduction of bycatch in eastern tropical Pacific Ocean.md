@@ -10,7 +10,7 @@ The Secretary of State, in consultation with the Secretary of Commerce and actin
 
 &emsp;(4) to reduce, to the maximum extent practicable, the mortality of juveniles of the target species.
 
-(Sept. 7, 1950, ch. 907, §15, as added Aug. 15, 1997, Pub. L. 105–42, §7(c), 111 Stat. 1138.)
+(Sept. 7, 1950, ch. 907, §15, as added Pub. L. 105–42, §7(c), Aug. 15, 1997, 111 Stat. 1138.)
 
 #### Codification
 
@@ -18,5 +18,5 @@ Section 7(c) of Pub. L. 105–42, which directed the addition of this section at
 
 #### Effective Date
 
-Section effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) ofthis title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
+Section effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 

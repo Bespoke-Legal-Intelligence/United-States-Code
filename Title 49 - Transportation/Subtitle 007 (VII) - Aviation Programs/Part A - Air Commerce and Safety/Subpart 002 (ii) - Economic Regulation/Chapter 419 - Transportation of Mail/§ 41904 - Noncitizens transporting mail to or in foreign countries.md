@@ -1,6 +1,6 @@
 ### §41904. Noncitizens transporting mail to or in foreign countries
 
-When the United States Postal Service decides that it may be necessary to have a person not a citizen of the United States transport mail by aircraft to or in a foreign country, the Postal Service may make an arrangement with the person, without advertising, to provide the transportation.
+When the United States Postal Service decides that it may be necessary to have a person not a citizen of the United States transport mail byaircraft to or in a foreign country, the Postal Service may make an arrangement with the person, without advertising, to provide the transportation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1155.)
 

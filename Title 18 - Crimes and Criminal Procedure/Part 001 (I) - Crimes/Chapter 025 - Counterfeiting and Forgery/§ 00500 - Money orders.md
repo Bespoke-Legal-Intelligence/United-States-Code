@@ -28,7 +28,7 @@ Whoever steals, or with intend to defraud or without being lawfully authorized b
 
 Shall be fined under this title <sup>1</sup> or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 712; Aug. 12, 1970, Pub. L. 91–375, §6(j)(5), 84 Stat. 777; Sept. 23, 1972, Pub. L. 92–430, 86 Stat. 722; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 91–375, §6(j)(5), Aug. 12, 1970, 84 Stat. 777; Pub. L. 92–430, Sept. 23, 1972, 86 Stat. 722; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -40,7 +40,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than$5,000” in last par., to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000” in last par., to reflect the probable intent of Congress.
 
 1972—Pub. L. 92–430 substituted “a blank money order or a money order issued by or under the direction of” for “a money order issued by” and struck out “, or by any officer or employee thereof” in first par.; substituted “or initials of any person authorized to issue money orders” for “of any officer or employee of the Postal Service,” in second par.; inserted “or attempts to pass, utter or publish” before “any such forged” and substituted “material initials, signature, stamp impression” for “material signature” in fourth par.; inserted “or Postal Service” after “the United States” in fifth par.; inserted sixth and seventh pars.; inserted “, the Postal Service” after “the United States”, and substituted “presents, or causes to be transmitted or presented, any money order” for “or presents to any officer or employee, or at any office of the United States, any money order” and designated material after “knowing the same” as cls. (1) to (3) with minor changes and added cl. (4) in eighth par.; inserted ninth par., and enacted provisions of former seventh par. as tenth par.
 

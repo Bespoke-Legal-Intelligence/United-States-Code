@@ -88,7 +88,21 @@ Construction of Provision.—Nothing in this section shall be construed as autho
 
 &emsp;(2) the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
 
-(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764.)
+(j)
+
+Oversight and Cost Accounting.—The Secretary of Defense shall establish a program to improve the oversight and cost accounting of training projects conducted in accordance with this section. The program shall include measures to accomplish the following:
+
+&emsp;(1) Ensure that each project that is proposed to be conducted in accordance with this section (regardless of whether additional funding from the Secretary of Defense is sought) is requested in writing, reviewed for full compliance with this section, and approved in advance of initiation by the Secretary of the military department concerned and, in the case of a project that seeks additional funding from the Secretary of Defense, by the Secretary of Defense.
+
+&emsp;(2) Ensure that each project that is conducted in accordance with this section is required to provide, within a specified period following completion of the project, an after-action report to the Secretary of Defense.
+
+&emsp;(3) Require that each application for a project to be conducted in accordance with this section include an analysis and certification that the proposed project would not result in a significant increase in the cost of training (as determined in accordance with procedures prescribed by the Secretary of Defense).
+
+&emsp;(4) Determine the total program cost for each project, including both those costs that are borne by the military departments from their own accounts and those costs that are borne by defense-wide accounts.
+
+&emsp;(5) Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
+
+(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014.)
 
 #### References in Text
 
@@ -96,7 +110,13 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92
 
 #### Amendments
 
+1998—Subsec. (j). Pub. L. 105–261 added subsec. (j).
+
 1997—Subsecs. (g) to (i). Pub. L. 105–85 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+#### Implementation
+
+Pub. L. 105–261, div. A, title V, §525(b), Oct. 17, 1998, 112 Stat. 2014, provided that: “The Secretary of Defense may not initiate any project under section 2012 of title 10, United States Code, after October 1, 1998, until the program required by subsection (i) of that section (as added by subsection (a)) has been established.”
 
 #### Termination of Funding for Office of Civil-Military Programs in Office of the Secretary of Defense
 

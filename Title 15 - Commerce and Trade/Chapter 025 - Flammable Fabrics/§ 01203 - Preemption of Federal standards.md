@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;(2) the term “Commission” means the Consumer Product Safety Commission.
 
-(June 30, 1953, ch. 164, §16, as added Dec. 14, 1967, Pub. L. 90–189, §10, 81 Stat. 574; amended May 11, 1976, Pub. L. 94–284, §17(b), 90 Stat. 512.)
+(June 30, 1953, ch. 164, §16, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 574; amended Pub. L. 94–284, §17(b), May 11, 1976, 90 Stat. 512.)
 
 #### References in Text
 

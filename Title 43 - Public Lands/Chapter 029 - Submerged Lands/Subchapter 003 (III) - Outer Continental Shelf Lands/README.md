@@ -26,7 +26,7 @@ This subchapter is referred to in sections 156, 1842, 1863, 1864, 1866 of this t
 - [&sect; 01340 - Geological and geophysical explorations](%C2%A7%2001340%20-%20Geological%20and%20geophysical%20explorations.md)
 - [&sect; 01341 - Reservation of lands and rights](%C2%A7%2001341%20-%20Reservation%20of%20lands%20and%20rights.md)
 - [&sect; 01342 - Prior claims as unaffected](%C2%A7%2001342%20-%20Prior%20claims%20as%20unaffected.md)
-- [&sect; 01343 - Annual report by Secretary to Congress](%C2%A7%2001343%20-%20Annual%20report%20by%20Secretary%20to%20Congress.md)
+- [&sect; 01343 - Repealed. Pub. L. 105&#8211;362, title IX, &sect;901(l)(1), Nov. 10, 1998, 112 Stat. 3290](%C2%A7%2001343%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IX%2C%20%C2%A7901%28l%29%281%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203290.md)
 - [&sect; 01344 - Outer Continental Shelf leasing program](%C2%A7%2001344%20-%20Outer%20Continental%20Shelf%20leasing%20program.md)
 - [&sect; 01345 - Coordination and consultation with affected State and local governments](%C2%A7%2001345%20-%20Coordination%20and%20consultation%20with%20affected%20State%20and%20local%20governments.md)
 - [&sect; 01346 - Environmental studies](%C2%A7%2001346%20-%20Environmental%20studies.md)

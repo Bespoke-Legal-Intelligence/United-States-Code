@@ -34,7 +34,7 @@
 
 > is requested or demanded in violation of section 3802 of this title in such claim or in a group of related claims which are submitted at the time such claim is submitted.
 
-(2)(A) Except as provided in subparagraph (B) of this paragraph, no allegations of liability against an individual under section 3802 of thistitle with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual shall be referred to a presiding officer under paragraph (2) of subsection (b).
+(2)(A) Except as provided in subparagraph (B) of this paragraph, no allegations of liability against an individual under section 3802 of this title with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual shall be referred to a presiding officer under paragraph (2) of subsection (b).
 
 (B) Allegations of liability against an individual under section 3802 of this title with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual may be referred to a presiding officer under paragraph (2) of subsection (b) if—
 
@@ -174,7 +174,7 @@
 
 (B) Any authority head reviewing under this section the decision, findings, and determinations of a presiding officer shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (f) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the authority head that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at such hearing, the authority head shall remand the matter to the presiding officer for consideration of such additional evidence.
 
-(C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authority head and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
+(C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authorityhead and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
 
 (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 

@@ -6,7 +6,7 @@
 | :--- | ---: |
 | 2051 to 2053. Repealed. |  |
 | [2054\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002054%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
-| [2055\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002055%20-%20Duties%20of%20Director%20of%20United%20States%20Information%20Agency%3B%20establishment%20and%20operation%20of%20educational%20institution%3B%20grants%2C%20fellowships%2C%20and%E2%80%A6.md) | Duties of Director of United States Information Agency; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities. |
+| [2055\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002055%20-%20Duties%20of%20Secretary%20of%20State%3B%20establishment%20and%20operation%20of%20educational%20institution%3B%20grants%2C%20fellowships%2C%20and%20scholarships%3B%20availability%E2%80%A6.md) | Duties of Secretary of State; establishment and operation of educational institution; grants, fellowships, and scholarships; availability of facilities. |
 | [2056\.](Subchapter%20001%20%28I%29%20-%20Center%20Between%20East%20and%20West/%C2%A7%2002056%20-%20Administration.md) | Administration. |
 | (a) | Authority. |
 | (b) | Gifts, bequests, and devises. |

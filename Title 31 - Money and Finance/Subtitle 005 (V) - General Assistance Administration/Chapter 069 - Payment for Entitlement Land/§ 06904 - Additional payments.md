@@ -1,6 +1,6 @@
 ### §6904. Additional payments
 
-(a) In addition to payments the Secretary of the Interior makes under section 6902 of this title, the Secretary shall make a payment for each fiscal year to a unit of general local government collecting and distributing real property taxes (including a unit in Alaska outside the boundaries of an organized borough) in which is located an interest in land that—
+(a) In addition to payments the Secretary of the Interior makes under section 6902 of thistitle, the Secretary shall make a payment for each fiscal year to a unit of general local government collecting and distributing real property taxes (including a unit in Alaska outside the boundaries of an organized borough) in which is located an interest in land that—
 
 &emsp;(1) the United States Government acquires for—
 
@@ -56,7 +56,7 @@ In subsection (a), before clause (1), the words “the Secretary of the Interior
 
 In subsection (b), the words “The Secretary shall make payments only for the 5 fiscal years after the fiscal year in which the interest in land is acquired” are substituted for 31:1603(b)(1st sentence) and (d) to eliminate unnecessary words. The words “affected” and “for addition to either such systems” are omitted as surplus. The words “receiving a distribution” are added for clarity.
 
-In subsection (c), the words “The amount of . . . made . . . fiscal . . . to any unit of local government and affected school districts” are omitted as surplus. The words “by the Secretary” are added for clarity.The words “made for any fiscal year to a unit of local government under subsection (a) of this section”, “assessed and”, “full”, and “for addition to the National Park System or National Forest Wilderness Areas” are omitted as surplus.
+In subsection (c), the words “The amount of . . . made . . . fiscal . . . to any unit of local government and affected school districts” are omitted as surplus. The words “by the Secretary” are added for clarity. The words “made for any fiscal year to a unit of local government under subsection (a) of this section”, “assessed and”, “full”, and “for addition to the National Park System or National Forest Wilderness Areas” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 

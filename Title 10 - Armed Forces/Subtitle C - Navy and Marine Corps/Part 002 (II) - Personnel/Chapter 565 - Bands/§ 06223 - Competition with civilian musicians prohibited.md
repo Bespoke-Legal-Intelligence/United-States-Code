@@ -16,7 +16,7 @@ Exception for Commercial Recordings.—(1) Notwithstanding any limitation contai
 
 (3) The Secretary of the Navy shall prescribe regulations governing the accounting of such proceeds.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §327(b), 104 Stat. 1532; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(j)(7), 105 Stat. 116.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 101–510, div. A, title III, §327(b), Nov. 5, 1990, 104 Stat. 1532; Pub. L. 102–25, title VII, §701(j)(7), Apr. 6, 1991, 105 Stat. 116.)
 
 Historical and Revision Notes
 
@@ -54,13 +54,9 @@ Subsec. (c). Pub. L. 101–510, §327(b)(1), added subsec. (c).
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) of this section delegated to Secretary of Defense, see section 1(13)of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (b) of this section delegated to Secretary of Defense, see section 1(13) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
 #### American Revolution Bicentennial; Recordings for Commercial Sale
 
 Authorization for Navy Band to participate in the production of a collection of recordings for commercial sale in connection with the American Revolution Bicentennial, and for Secretary of Defense to enter into contracts for the production and sale of the collection of recordings, see Pub. L. 93–571, Dec. 31, 1974, 88 Stat. 1868, set out as a note under section 3634 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 974 of this title.
 

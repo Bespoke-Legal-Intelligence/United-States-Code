@@ -12,7 +12,7 @@
 
 (c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Army.
 
-(d) As soon as practicable after the collection of the effects and money of the deceased, the summary court-martial shall send them at the expense of the United States to the living person highest on the following list who can be found by the court:
+(d) As soon as practicable after the collection of the effects and money of the deceased, thesummary court-martial shall send them at the expense of the United States to the living person highest on the following list who can be found by the court:
 
 &emsp;(1) The surviving spouse or legal representative.
 
@@ -30,7 +30,7 @@
 
 (f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court's possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects, and articles not permitted to be sold, to the executive part of the Department of the Army. The Secretary of the Army shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Army under this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 264; Nov. 2, 1966, Pub. L. 89–718, §30, 80 Stat. 1119; Dec. 12, 1980, Pub. L. 96–513, title V, §512(20), 94 Stat. 2930; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(b)(4)(A), 99 Stat. 736; Nov. 5, 1990, Pub. L. 101–510, div. A, title XV, §1533(a)(6), 104 Stat. 1734; Oct. 19, 1996, Pub. L. 104–316, title II, §202(g), 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 264; Pub. L. 89–718, §30, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 96–513, title V, §512(20), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 99–145, title XIII, §1301(b)(4)(A), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–510, div. A, title XV, §1533(a)(6), Nov. 5, 1990, 104 Stat. 1734; Pub. L. 104–316, title II, §202(g), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes
 

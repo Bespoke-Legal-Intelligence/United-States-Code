@@ -4,7 +4,7 @@ Whoever moves or travels in interstate or foreign commerce with intent either (1
 
 Violations of this section may be prosecuted only in the Federal judicial district in which the original crime was alleged to have been committed, or in which the person was held in custody or confinement, or in which an avoidance of service of process or a contempt referred to in clause (3) of the first paragraph of this section is alleged to have been committed, and only upon formal approval in writing by the Attorney General, the Deputy Attorney General, the Associate Attorney General, or an Assistant Attorney General of the United States, which function of approving prosecutions may not be delegated.
 
-(June 25, 1948, ch. 645, 62 Stat. 755; Apr. 6, 1956, ch. 177, §1, 70 Stat. 100; Oct. 4, 1961, Pub. L. 87–368, 75 Stat. 795; Oct. 15, 1970, Pub. L. 91–452, title III, §302, 84 Stat. 932; Nov. 18, 1988, Pub. L. 100–690, title VII, §7020(b), 102 Stat. 4396; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330004(19), 330016(1)(K), 108 Stat. 2142, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(e), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 755; Apr. 6, 1956, ch. 177, §1, 70 Stat. 100; Pub. L. 87–368, Oct. 4, 1961, 75 Stat. 795; Pub. L. 91–452, title III, §302, Oct. 15, 1970, 84 Stat. 932; Pub. L. 100–690, title VII, §7020(b), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title XXXIII, §§330004(19), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, §607(e), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

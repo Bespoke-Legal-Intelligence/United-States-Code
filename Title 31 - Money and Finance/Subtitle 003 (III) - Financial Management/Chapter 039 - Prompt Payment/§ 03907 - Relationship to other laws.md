@@ -54,5 +54,5 @@ The Contract Disputes Act of 1978, referred to in subsecs. (b)(1)(A) and (c), is
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3902 of this title.
+This section is referred to in sections 3901, 3902 of this title.
 

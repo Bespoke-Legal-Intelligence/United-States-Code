@@ -38,7 +38,7 @@ Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–638 provided: “That this Act \[enacting this subchapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
+Section 1 of Pub. L. 93–638 provided: “That this Act \[enacting this subchapter, section 13a of this title, andsection 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
 
 Section 101 of title I of Pub. L. 93–638 provided that: “This title \[enacting part A (§450f et seq.) of this subchapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of the Appendix to Title 50, War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
 
@@ -55,6 +55,58 @@ Pub. L. 100–472, title II, §210, Oct. 5, 1988, 102 Stat. 2298, provided that:
 #### Severability
 
 Pub. L. 100–472, title II, §211, Oct. 5, 1988, 102 Stat. 2298, provided that: “If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby.”
+
+#### Ex. Ord. No. 13084. Consultation and Coordination With Indian Tribal Governments
+
+Ex. Ord. No. 13084, May 14, 1998, 63 F.R. 27655, provided:
+
+The United States has a unique legal relationship with Indian tribal governments as set forth in the Constitution of the United States, treaties, statutes, Executive orders, and court decisions. Since the formation of the Union, the United States has recognized Indian tribes as domestic dependent nations under its protection. In treaties, our Nation has guaranteed the right of Indian tribes to self-government. As domestic dependent nations, Indian tribes exercise inherent sovereign powers over their members and territory. The United States continues to work with Indian tribes on a government-to-government basis to address issues concerning Indian tribal self-government, trust resources, and Indian tribal treaty and other rights.
+
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish regular and meaningful consultation and collaboration with Indian tribal governments in the development of regulatory practices on Federal matters that significantly or uniquely affect their communities; to reduce the imposition of unfunded mandates upon Indian tribal governments; and to streamline the application process for and increase the availability of waivers to Indian tribal governments; it is hereby ordered as follows:
+
+Section 1. <i>Definitions</i>. For purposes of this order:
+
+(a) “State” or “States” refer to the States of the United States of America, individually or collectively, and, where relevant, to State governments, including units of local government and other political subdivisions established by the States.
+
+(b) “Indian tribe” means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
+
+(c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
+
+Sec. 2. <i>Policymaking Criteria</i>. In formulating policies significantly or uniquely affecting Indian tribal governments, agencies shall be guided, to the extent permitted by law, by principles of respect for Indian tribal self-government and sovereignty, for tribal treaty and other rights, and for responsibilities that arise from the unique legal relationship between the Federal Government and Indian tribal governments.
+
+Sec. 3. <i>Consultation</i>. (a) Each agency shall have an effective process to permit elected officials and other representatives of Indian tribal governments to provide meaningful and timely input in the development of regulatory policies on matters that significantly or uniquely affect their communities.
+
+(b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that is not required by statute, that significantly or uniquely affects the communities of the Indian tribal governments, and that imposes substantial direct compliance costs on such communities, unless:
+
+&emsp;(1) funds necessary to pay the direct costs incurred by the Indian tribal government in complying with the regulation are provided by the Federal Government; or
+
+&emsp;(2) the agency, prior to the formal promulgation of the regulation,
+
+&emsp;&emsp;(A) in a separately identified portion of the preamble to the regulation as it is to be issued in the Federal Register, provides to the Director of the Office of Management and Budget a description of the extent of the agency's prior consultation with representatives of affected Indian tribal governments, a summary of the nature of their concerns, and the agency's position supporting the need to issue the regulation; and
+
+&emsp;&emsp;(B) makes available to the Director of the Office of Management and Budget any written communications submitted to the agency by such Indian tribal governments.
+
+Sec. 4. <i>Increasing Flexibility for Indian Tribal Waivers</i>. (a) Agencies shall review the processes under which Indian tribal governments apply for waivers of statutory and regulatory requirements and take appropriate steps to streamline those processes.
+
+(b) Each agency shall, to the extent practicable and permitted by law, consider any application by an Indian tribal government for a waiver of statutory or regulatory requirements in connection with any program administered by that agency with a general view toward increasing opportunities for utilizing flexible policy approaches at the Indian tribal level in cases in which the proposed waiver is consistent with the applicable Federal policy objectives and is otherwise appropriate.
+
+(c) Each agency shall, to the extent practicable and permitted by law, render a decision upon a complete application for a waiver within 120 days of receipt of such application by the agency. The agency shall provide the applicant with timely written notice of the decision and, if the application for a waiver is not granted, the reasons for such denial.
+
+(d) This section applies only to statutory or regulatory requirements that are discretionary and subject to waiver by the agency.
+
+Sec. 5. <i>Cooperation in developing regulations</i>. On issues relating to tribal self-government, trust resources, or treaty and other rights, each agency should explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+
+Sec. 6. <i>Independent agencies</i>. Independent regulatory agencies are encouraged to comply with the provisions of this order.
+
+Sec. 7. <i>General provisions</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+(b) This order shall supplement but not supersede the requirements contained in Executive Order 12866 (“Regulatory Planning and Review”) \[5 U.S.C. 601 note\], Executive Order 12988 (“Civil Justice Reform”) \[28 U.S.C. 519 note\], OMB Circular A–19, and the Executive Memorandum of April 29, 1994 \[set out below\], on Government-to-Government Relations with Native American Tribal Governments.
+
+(c) This order shall complement the consultation and waiver provisions in sections 4 and 5 of the Executive order, entitled “Federalism,” \[Ex. Ord. No. 13083, 5 U.S.C. 601 note\] being issued on this day.
+
+(d) This order shall be effective 90 days after the date of this order.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Government-to-Government Relations With Native American Tribal Governments
 
@@ -76,7 +128,7 @@ In order to ensure that the rights of sovereign tribal governments are fully res
 
 (e) Each executive department and agency shall work cooperatively with other Federal departments and agencies to enlist their interest and support in cooperative efforts, where appropriate, to accomplish the goals of this memorandum.
 
-(f) Each executive department and agency shall apply the requirements of Executive Orders Nos. 12875 (“Enhancing the Intergovernmental Partnership”) and 12866 (“Regulatory Planning and Review”) \[5 U.S.C. 601 notes\] to design solutions and tailor Federal programs, in appropriate circumstances, to address specific or unique needs of tribal communities.
+(f) Each executive department and agency shall apply the requirements of Executive Orders Nos. 12875 (“Enhancing the Intergovernmental Partnership”) \[former 5 U.S.C. 601 note\] and 12866 (“Regulatory Planning and Review”) \[5 U.S.C. 601 note\] to design solutions and tailor Federal programs, in appropriate circumstances, to address specific or unique needs of tribal communities.
 
 The head of each executive department and agency shall ensure that the department or agency's bureaus and components are fully aware of this memorandum, through publication or other means, and that they are in compliance with its requirements.
 

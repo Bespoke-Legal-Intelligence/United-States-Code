@@ -18,7 +18,7 @@ In addition to such other terms and conditions as the President may determine pu
 
 &emsp;(1) there is a bona fide reason, other than the shortage of funds, for providing such articles on a loan basis rather than on a grant basis;
 
-&emsp;(2) there is a reasonable expectation that such articles will be returned to the agencymaking the loan at the end of the loan period, unless the loan is then renewed;
+&emsp;(2) there is a reasonable expectation that such articles will be returned to the agency making the loan at the end of the loan period, unless the loan is then renewed;
 
 &emsp;(3) the loan period is of fixed duration not exceeding five years, during which such article may be recalled for any reason by the United States;
 
@@ -90,7 +90,7 @@ Functions of President under this section, except those functions under subsec. 
 
 #### Reports to Congressional Committees
 
-Section 301 of Pub. L. 100–461 provided: “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or anyfuture Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price.”
+Section 301 of Pub. L. 100–461 provided: “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price.”
 
 #### Findings by Secretary of State
 

@@ -86,7 +86,7 @@ Pub. L. 105–85, div. A, title I, §141, Nov. 18, 1997, 111 Stat. 1652, provide
 
 “(a)
 
-Pilot Program Required.—During fiscal years 1998 and 1999, the Secretary of the Army shall carry out a pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under section 4543 of title 10, United States Code, without regard to the availability of the articles and services from United States commercial sources. In carrying out the pilot program, the Secretary may use articles manufactured at, and services provided by, not more than three Army industrial facilities.
+Pilot Program Required.—During fiscal years 1998 and 1999, the Secretary of the Army shall carry outa pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under section 4543 of title 10, United States Code, without regard to the availability of the articles and services from United States commercial sources. In carrying out the pilot program, the Secretary may use articles manufactured at, and services provided by, not more than three Army industrial facilities.
 
 “(b)
 

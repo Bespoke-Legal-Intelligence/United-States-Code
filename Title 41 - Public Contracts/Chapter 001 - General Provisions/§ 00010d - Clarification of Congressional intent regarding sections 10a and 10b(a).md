@@ -10,7 +10,7 @@ In order to clarify the original intent of Congress, hereafter, section 10a of t
 
 #### Termination Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L.100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
 
 #### Ex. Ord. No. 10582. Uniform Procedures for Determinations
 

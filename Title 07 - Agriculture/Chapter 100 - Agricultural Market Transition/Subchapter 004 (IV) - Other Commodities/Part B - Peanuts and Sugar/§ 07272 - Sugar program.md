@@ -16,7 +16,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (2) Extent of reduction
 
-&emsp;The Secretary shall not reduce the loan rate under subsection (a) or (b) of this sectionbelow a rate that provides an equal measure of support to that provided by other major sugar growing, producing, and exporting countries, based on an examination of both domestic and export subsidies subject to reduction in the Agreement on Agriculture.
+&emsp;The Secretary shall not reduce the loan rate under subsection (a) or (b) of this section below a rate that provides an equal measure of support to that provided by other major sugar growing, producing, and exporting countries, based on an examination of both domestic and export subsidies subject to reduction in the Agreement on Agriculture.
 
 #### (3) Announcement of reduction
 
@@ -68,7 +68,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (3) Processor assurances
 
-&emsp;If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall obtain from each processor that receives a loan under this section such assurances as the Secretary considers adequate to ensure that the processor will provide payments to producers that are proportional to the value of the loan received by the processor for sugar beets and sugarcane delivered by producers served by the processor. The Secretary may establish appropriate minimum payments for purposes of this paragraph.
+&emsp;If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall obtain from each processor that receives a loan under this section such assurances as the Secretary considers adequate to ensure that the processor will provide payments to producers that are proportional to the value of the loan received by the processor for sugar beets andsugarcane delivered by producers served by the processor. The Secretary may establish appropriate minimum payments for purposes of this paragraph.
 
 #### (f) Marketing assessment
 

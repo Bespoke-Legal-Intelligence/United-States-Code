@@ -1,6 +1,6 @@
 ### §§189, 189a. Repealed. Pub. L. 91–412, §3(b), (c), Sept. 25, 1970, 84 Stat. 864
 
-Section 189, act May 15, 1936, ch. 405, §1, 49 Stat. 1335, which authorized Secretary of Commerce to charge for lists of foreign buyers, special statistical services, special commodity news bulletins, and World Trade Directory reports and to deposit collections therefore in the Treasury as miscellaneous receipts, is now covered by sections 1525 and 1526 of this title. Similar provisions were contained in the following acts:
+Section 189, act May 15, 1936, ch. 405, §1, 49 Stat. 1335, which authorized Secretary of Commerce to charge for lists of foreign buyers, special statistical services, special commodity news bulletins, and World Trade Directory reports and to deposit collections therefore in the Treasury as miscellaneous receipts, is now covered bysections 1525 and 1526 of this title. Similar provisions were contained in the following acts:
 
 &emsp;Mar. 22, 1935, ch. 39, 49 Stat. 89.
 

@@ -4,7 +4,7 @@
 
 (2) The Board shall be named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision on the merits on the underlying personnel action or on a request for attorney fees, in which case the agency responsible for taking the personnel action shall be the respondent.
 
-(b)(1) Except as provided in paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 30 days after the date the petitioner received notice of the final order or decision of the Board.
+(b)(1) Except as provided in paragraph (2) of this subsection, a petition to review a finalorder or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board.
 
 (2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30 days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
 
@@ -18,15 +18,19 @@
 
 > except that in the case of discrimination brought under any section referred to in subsection (b)(2) of this section, the employee or applicant shall have the right to have the facts subject to trial de novo by the reviewing court.
 
-(d) The Director of the Office of Personnel Management may obtain review of any final order or decision of the Board by filing a petition for judicial review in the United States Court of Appeals for the Federal Circuit if the Director determines, in his discretion, that the Board erred in interpreting a civil service law, rule, or regulation affecting personnel management and that the Board's decision will have a substantial impact on a civil service law, rule, regulation, or policy directive. If the Director did not intervene in a matter before the Board, the Director may not petition for review of a Board decision under this section unless the Director first petitions the Board for a reconsideration of its decision, and such petition is denied. In addition to the named respondent, the Board and all other parties to the proceedings before the Board shall have the right to appear in the proceeding before the Court of Appeals. The granting of the petition for judicial review shall be at the discretion of the Court of Appeals.
+(d) The Director of the Office of Personnel Management may obtain review of any final order or decision of the Board by filing, within 60 days after the date the Director received notice of the final order or decision of the Board, a petition for judicial review in the United States Court of Appeals for the Federal Circuit if the Director determines, in his discretion, that the Board erred in interpreting a civil service law, rule, or regulation affecting personnel management and that the Board's decision will have a substantial impact on a civil service law, rule, regulation, or policy directive. If the Director did not intervene in a matter before the Board, the Director may not petition for review of a Board decision under this section unless the Director first petitions the Board for a reconsideration of its decision, and such petition is denied. In addition to the named respondent, the Board and all other parties to the proceedings before the Board shall have the right to appear in the proceeding before the Court of Appeals. The granting of the petition for judicial review shall be at the discretion of the Court of Appeals.
 
-(Added Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1143; amended Pub. L. 97–164, title I, §144, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–12, §10, Apr. 10, 1989, 103 Stat. 35.)
+(Added Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1143; amended Pub. L. 97–164, title I, §144, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–12, §10, Apr. 10, 1989, 103 Stat. 35; Pub. L. 105–311, §10(a), Oct. 30, 1998, 112 Stat. 2954.)
 
 #### References in Text
 
 The civil service law, referred to in subsec. (d), is set out in this title. See, particularly, section 3301 et seq. of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–311, §10(a)(1), substituted “within 60 days” for “within 30 days”.
+
+Subsec. (d). Pub. L. 105–311, §10(a)(2), in first sentence, inserted “, within 60 days after the date the Director received notice of the final order or decision of the Board,” after “filing”.
 
 1989—Subsec. (a)(2). Pub. L. 101–12 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Board shall be the named respondent in any proceeding brought pursuant to this subsection, unless the employee or applicant for employment seeks review of a final order or decision issued by the Board under section 7701. In review of a final order or decision issued under section 7701, the agency responsible for taking the action appealed to the Board shall be the named respondent.”
 
@@ -35,6 +39,10 @@ The civil service law, referred to in subsec. (d), is set out in this title. See
 Subsec. (c). Pub. L. 97–164, §144(2), substituted “Court of Appeals for the Federal Circuit” for “Court of Claims or a United States court of appeals”.
 
 Subsec. (d). Pub. L. 97–164, §144(3), substituted “United States Court of Appeals for the Federal Circuit” for “United States Court of Appeals for the District of Columbia”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–311, §10(b), Oct. 30, 1998, 112 Stat. 2954, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 30, 1998\], and apply to any suit, action, or other administrative or judicial proceeding pending on such date or commenced on or after such date.”
 
 #### Effective Date of 1989 Amendment
 

@@ -6,7 +6,7 @@ Section 4222, Pub. L. 98–365, title III, §302, July 17, 1984, 98 Stat. 456, r
 
 Section 4223, Pub. L. 98–365, title III, §303, July 17, 1984, 98 Stat. 456, related to awarding of contract for provision of data continuity.
 
-Section 4224, Pub. L. 98–365, title III, §304, July 17, 1984, 98 Stat. 458, related to terms of data continuitycontract and determination by Secretary of Commerce as to whether contract meets purposes of subchapter.
+Section 4224, Pub. L. 98–365, title III, §304, July 17, 1984, 98 Stat. 458, related to terms of data continuity contract and determination by Secretary of Commerce as to whether contract meets purposes of subchapter.
 
 Section 4225, Pub. L. 98–365, title III, §305, July 17, 1984, 98 Stat. 458, related to marketing of land remote-sensing data, incentive provisions for such activity, and continuation by contractor of data sales or operation of civil remote-sensing systems.
 

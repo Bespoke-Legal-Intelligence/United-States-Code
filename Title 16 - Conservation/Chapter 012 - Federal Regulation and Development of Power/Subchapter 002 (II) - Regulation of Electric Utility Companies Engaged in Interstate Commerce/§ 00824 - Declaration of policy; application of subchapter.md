@@ -2,7 +2,7 @@
 
 #### (a) Federal regulation of transmission and sale of electric energy
 
-It is declared that the business of transmitting and selling electric energy for ultimate distribution to the public is affected with a public interest, and that Federal regulation of matters relating to generation to the extent provided in this subchapter and subchapter III of this chapter and of that part of such business which consists of the transmission of electric energy ininterstate commerce and the sale of such energy at wholesale in interstate commerce is necessary in the public interest, such Federal regulation, however, to extend only to those matters which are not subject to regulation by the States.
+It is declared that the business of transmitting and selling electric energy for ultimate distribution to the public is affected with a public interest, and that Federal regulation of matters relating to generation to the extent provided in this subchapter and subchapter III of this chapter and of that part of such business which consists of the transmission of electric energy in interstate commerce and the sale of such energy at wholesale in interstate commerce is necessary in the public interest, such Federal regulation, however, to extend only to those matters which are not subject to regulation by the States.
 
 #### (b) Use or sale of electric energy in interstate commerce
 
@@ -24,7 +24,7 @@ The term “public utility” when used in this subchapter and subchapter III of
 
 #### (f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt
 
-No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
+No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, or any agency, authority, or instrumentality ofany one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
 #### (g) Books and records
 
@@ -50,7 +50,7 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 (5) As used in this subsection the terms “affiliate”, “associate company”, “electric utility company”, “holding company”, “subsidiary company”, and “exempt wholesale generator” shall have the same meaning as when used in the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
 
-(June 10, 1920, ch. 285, pt. II, §201, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 847; amended Nov. 9, 1978, Pub. L. 95–617, title II, §204(b), 92 Stat. 3140; Oct. 24, 1992, Pub. L. 102–486, title VII, §714, 106 Stat. 2911.)
+(June 10, 1920, ch. 285, pt. II, §201, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 847; amended Pub. L. 95–617, title II, §204(b), Nov. 9, 1978, 92 Stat. 3140; Pub. L. 102–486, title VII, §714, Oct. 24, 1992, 106 Stat. 2911.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (g)(5), i
 
 1978—Subsec. (b). Pub. L. 95–617, §204(b)(1), designated existing provisions as par. (1), inserted “except as provided in paragraph (2)” after “in interstate commerce, but”, and added par. (2).
 
-Subsec. (e). Pub. L. 95–617, §204(b)(2), inserted “(other than facilities subject to such jurisdiction solely byreason of section 824i, 824j, or 824k of this title)” after “under this subchapter”.
+Subsec. (e). Pub. L. 95–617, §204(b)(2), inserted “(other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title)” after “under this subchapter”.
 
 #### Transfer of Functions
 

@@ -12,7 +12,7 @@ This subchapter is referred to in sections 1961, 1963, 1964, 1981b, 1983, 1983a,
 - [&sect; 01922 - Persons eligible for loans](%C2%A7%2001922%20-%20Persons%20eligible%20for%20loans.md)
 - [&sect; 01923 - Purposes of loans](%C2%A7%2001923%20-%20Purposes%20of%20loans.md)
 - [&sect; 01924 - Soil and water conservation and protection](%C2%A7%2001924%20-%20Soil%20and%20water%20conservation%20and%20protection.md)
-- [&sect; 01925 - Limitation on amount of loan](%C2%A7%2001925%20-%20Limitation%20on%20amount%20of%20loan.md)
+- [&sect; 01925 - Limitations on amount of farm ownership loans](%C2%A7%2001925%20-%20Limitations%20on%20amount%20of%20farm%20ownership%20loans.md)
 - [&sect; 01926 - Water and waste facility loans and grants](%C2%A7%2001926%20-%20Water%20and%20waste%20facility%20loans%20and%20grants.md)
 - [&sect; 01926&#8211;1 - Repealed. Pub. L. 104&#8211;127, title VII, &sect;702, Apr. 4, 1996, 110 Stat. 1108](%C2%A7%2001926%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7702%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201108.md)
 - [&sect; 01926a - Emergency community water assistance grant program](%C2%A7%2001926a%20-%20Emergency%20community%20water%20assistance%20grant%20program.md)

@@ -26,7 +26,7 @@ Each report prepared and transmitted by a State under subsection (a) of this sec
 
 For other provisions requiring States to account for Federal grants, see section 6503 of title 31.
 
-(Aug. 14, 1935, ch. 531, title XX, §2006, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a),95 Stat. 870; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(h)(2), 98 Stat. 1169; Oct. 13, 1988, Pub. L. 100–485, title VI, §607, 102 Stat. 2410.)
+(Aug. 14, 1935, ch. 531, title XX, §2006, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 870; amended Pub. L. 98–369, div. B, title VI, §2663(h)(2), July 18, 1984, 98 Stat. 1169; Pub. L. 100–485, title VI, §607, Oct. 13, 1988, 102 Stat. 2410.)
 
 #### Prior Provisions
 

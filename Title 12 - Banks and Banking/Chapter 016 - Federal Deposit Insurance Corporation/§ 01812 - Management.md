@@ -60,7 +60,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No member of the Board of Directors may hold any office, position, or employment inany insured depository institution or any depository institution holding company during—
+&emsp;&emsp;No member of the Board of Directors may hold any office, position, or employment in any insured depository institution or any depository institution holding company during—
 
 &emsp;&emsp;&emsp;(i) the time such member is in office; and
 

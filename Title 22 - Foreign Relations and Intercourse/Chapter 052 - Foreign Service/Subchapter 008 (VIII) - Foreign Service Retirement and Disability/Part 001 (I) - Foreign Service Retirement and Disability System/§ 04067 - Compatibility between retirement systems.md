@@ -34,7 +34,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Reference to Veterans’ Administration Deemed Reference to Department of Veterans Affairs
 
-Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275, provided that: “Any reference to the Veterans’ Administration in any regulation prescribed or Executive order issued pursuant to section 827(a) of the Foreign Service Act of 1980 (22 U.S.C. 4067(a)) shall be deemed to be a reference to the Department of Veterans Affairs.”
+Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275, provided that: “Any reference to the Veterans’ Administration in any regulation prescribed or Executiveorder issued pursuant to section 827(a) of the Foreign Service Act of 1980 (22 U.S.C. 4067(a)) shall be deemed to be a reference to the Department of Veterans Affairs.”
 
 #### Construction of Section With Civil Service Retirement Spouse Equity Act of 1984
 
@@ -134,7 +134,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 “(A) each period of military or naval service performed before January 1, 1957, and
 
-“(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this chapter is based, only if a deposit (with interest if anyis required) is made with respect to that period, as provided in section 805(e) \[22 U.S.C. 4045(e)\].
+“(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this chapter is based, only if a deposit (with interest if any is required) is made with respect to that period, as provided in section 805(e) \[22 U.S.C. 4045(e)\].
 
 “(3) The service of an individual who first became a participant on or after the date of this Order with credit under section 816 \[22 U.S.C. 4056\] for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this chapter is based, subject, in the case of military or naval service performed after December 1956, to section 816(j) \[22 U.S.C. 4056(j)\], as deemed to be added by this Order.
 
@@ -193,6 +193,18 @@ Sec. 6. <i>General Limitation on Cost-of-Living Adjustment for Annuities</i>. (a
 (b) The amendment made by subsection (a) of this Section shall not cause any annuity to be reduced below the rate that is payable on the date of approval of this Order \[Oct. 17, 1983\], but shall apply to any adjustment occurring on or after April 1, 1983 under Section 826 of the Act \[22 U.S.C. 4066\] to any annuity payable from the Foreign Service Retirement and Disability Fund, whether such annuity has a commencing date before, on, or after the date of this Order.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13105. Open Enrollment Season for Participants in the Foreign Service Retirement and Disability System and the Central Intelligence Agency Retirement and Disability System
+
+Ex. Ord. No. 13105, Nov. 2, 1998, 63 F.R. 60201, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067) and section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2141), and in order to conform further the Foreign Service Retirement and Disability System and the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
+
+Section 1. In conjunction with section 860 of the Foreign Service Act of 1980 (22 U.S.C. 4071i), the Secretary of State shall issue regulations providing for an open enrollment period from November 1, 1998, to April 30, 1999, during which employee participants in the Foreign Service Retirement and Disability System may elect to become subject to the Foreign Service Pension System.
+
+Sec. 2. In conjunction with section 307(a) of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2157(a)), the Director shall provide for an open enrollment period from November 1, 1998, to April 30, 1999, during which employee participants in the Central Intelligence Agency Retirement and Disability System may elect to become subject to the Federal Employees’ Retirement System, comparable to the election for civil service employees provided for by the Federal Employees’ Retirement System Open Enrollment Act of 1997, Public Law 105–61 \[5 U.S.C. 8331 note\].
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

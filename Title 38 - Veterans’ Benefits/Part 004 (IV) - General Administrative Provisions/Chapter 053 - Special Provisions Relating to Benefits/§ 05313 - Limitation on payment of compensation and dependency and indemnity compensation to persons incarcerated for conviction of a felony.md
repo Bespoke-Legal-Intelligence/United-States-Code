@@ -8,7 +8,7 @@
 
 (2) The provisions of paragraph (1) of this subsection shall not apply with respect to any period during which a person is participating in a work-release program or is residing in a halfway house.
 
-(b)(1) All or any part of the compensation not paid to a veteran by reason of subsection (a) ofthis section may, as appropriate in an individual case, be apportioned under the same terms and conditions as are provided under section 5307 of this title.
+(b)(1) All or any part of the compensation not paid to a veteran by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned under the same terms and conditions as are provided under section 5307 of this title.
 
 (2) All or any part of the dependency and indemnity compensation not paid to a surviving spouse or child by reason of subsection (a) of this section may, as appropriate in an individual case, be apportioned as follows:
 
@@ -20,7 +20,7 @@
 
 (c) The Secretary shall not assign to any veteran a rating of total disability based on the individual unemployability of the veteran resulting from a service-connected disability during any period during which the veteran is incarcerated in a Federal, State, or local penal institution for conviction of a felony.
 
-(d) The provisions of subsection (a) of this section shall apply (1) with respect to any period of incarceration of a person for conviction of a felony committed after the date of the enactment of this section, and (2) with respect to any period of incarceration on or after October 1, 1980, for conviction of a felony of a person who on October 1, 1980, is incarcerated for conviction of such felony and with respect to whom the action granting an award of compensation or dependency and indemnity compensation is taken on or after such date.
+(d) The provisions of subsection (a) of this section shall apply (1) with respect to any period of incarceration of a person for conviction of a felony committed after October 7, 1980, and (2) with respect to any period of incarceration on or after October 1, 1980, for conviction of a felony of a person who on October 1, 1980, is incarcerated for conviction of such felony and with respect to whom the action granting an award of compensation or dependency and indemnity compensation is taken on or after such date.
 
 (e) For purposes of this section—
 
@@ -28,13 +28,11 @@
 
 &emsp;(2) The term “dependency and indemnity compensation” means death compensation payable under section 1121 or 1141 of this title, death compensation and dependency and indemnity compensation payable under section 1151 of this title, and any benefit payable under chapter 13 of this title.
 
-(Added Pub. L. 96–385, title V, §504(a), Oct. 7, 1980, 94 Stat. 1534, §3113; amended Pub. L. 98–160, title VII, §702(17), Nov. 21, 1983, 97 Stat. 1010; renumbered §5313 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
-
-#### References in Text
-
-The date of the enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L. 96–385, which was approved Oct. 7, 1980.
+(Added Pub. L. 96–385, title V, §504(a), Oct. 7, 1980, 94 Stat. 1534, §3113; amended Pub. L. 98–160, title VII, §702(17), Nov. 21, 1983, 97 Stat. 1010; renumbered §5313 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title X, §1005(b)(16), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendments
+
+1998—Subsec. (d)(1). Pub. L. 105–368 substituted “October 7, 1980,” for “the date of the enactment of this section,”.
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 3113 of this title as this section.
 

@@ -8,7 +8,3 @@ There are authorized to be appropriated to the President to carry out this chapt
 
 1980—Pub. L. 96–533 substituted appropriations authorization of $12,000,000 for fiscal year 1981 for such authorization of $23,750,000 for fiscal year 1980.
 
-#### Allocation of Funds
-
-Funds available to the President for carrying out this chapter were allocated to the Director of the United States International Development Cooperation Agency by section 1–801(a)(2) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
-

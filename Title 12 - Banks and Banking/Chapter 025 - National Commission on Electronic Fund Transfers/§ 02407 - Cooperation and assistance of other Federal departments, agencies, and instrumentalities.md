@@ -2,7 +2,7 @@
 
 (a) Each department, agency, and instrumentality of the executive branch of the Government, including independent agencies, is authorized and directed to furnish to the Commission, upon request, such data, reports, and other information as the Commission deems necessary to carry out its functions under this chapter.
 
-(b) The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Commission may request to assist it in carrying out its functions.
+(b) The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services,with or without reimbursement, as the Commission may request to assist it in carrying out its functions.
 
 (Pub. L. 93–495, title II, §207, Oct. 28, 1974, 88 Stat. 1510.)
 

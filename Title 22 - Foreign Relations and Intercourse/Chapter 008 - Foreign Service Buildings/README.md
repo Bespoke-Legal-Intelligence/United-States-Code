@@ -34,6 +34,7 @@
 | (c) | Contracts for construction, etc., in United States. |
 | (d) | Discretionary determinations by Secretary of State. |
 | (e) | Termination of requirements. |
+| [303\.](%C2%A7%2000303%20-%20Annual%20report%20on%20overseas%20surplus%20properties.md) | Annual report on overseas surplus properties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,3 +64,4 @@ This chapter is referred to in sections 2701, 2703, 4304 of this title; title 7 
 - [&sect; 00300 - Dispositions of property; damage payments; acceptance of gifts or services](%C2%A7%2000300%20-%20Dispositions%20of%20property%3B%20damage%20payments%3B%20acceptance%20of%20gifts%20or%20services.md)
 - [&sect; 00301 - Lease or rental arrangements of not less than ten years; approval by Secretary; delegation of authority; information to Congress](%C2%A7%2000301%20-%20Lease%20or%20rental%20arrangements%20of%20not%20less%20than%20ten%20years%3B%20approval%20by%20Secretary%3B%20delegation%20of%20authority%3B%20information%20to%20Congress.md)
 - [&sect; 00302 - Award of contracts](%C2%A7%2000302%20-%20Award%20of%20contracts.md)
+- [&sect; 00303 - Annual report on overseas surplus properties](%C2%A7%2000303%20-%20Annual%20report%20on%20overseas%20surplus%20properties.md)

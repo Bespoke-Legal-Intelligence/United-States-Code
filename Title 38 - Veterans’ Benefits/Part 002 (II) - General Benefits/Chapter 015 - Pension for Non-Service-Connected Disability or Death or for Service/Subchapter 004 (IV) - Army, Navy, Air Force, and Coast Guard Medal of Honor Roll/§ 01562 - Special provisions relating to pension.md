@@ -1,6 +1,6 @@
 ### §1562. Special provisions relating to pension
 
-(a) The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $400, beginning as of the date of application therefor under section 1560 of this title.
+(a) The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $600, beginning as of the date of application therefor under section 1560 of this title.
 
 (b) The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
@@ -8,7 +8,7 @@
 
 (d) If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, §301(a), Nov. 11, 1998, 112 Stat. 3332.)
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ Another prior section 1683, added Pub. L. 90–77, title III, §304(a), Aug. 31,
 
 Another prior section 1684, which related to overcharging of eligible veterans by educational institutions, was renumbered section 1685 and subsequently repealed by Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079.
 
-Another prior section 1684, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1683; renumbered §1684, Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, §206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§8, 11, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to repeal by Pub. L. 92–540, title III, §304, Oct. 24, 1972, 86 Stat. 1081. See section 3688 of this title.
+Another prior section 1684, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1683; renumbered §1684, Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title II, §206(a), Mar. 26, 1970, 84 Stat. 81; Pub. L. 91–584, §§8, 11, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to repealby Pub. L. 92–540, title III, §304, Oct. 24, 1972, 86 Stat. 1081. See section 3688 of this title.
 
 Another prior section 1685, which related to approval of courses, was renumbered section 1683.
 
@@ -136,6 +136,8 @@ Prior section 1700, which comprised the first section of chapter 35, was renumbe
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–368 substituted “$600” for “$400”.
+
 1993—Subsec. (a). Pub. L. 103–161 substituted “$400” for “$200”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 562 of this title as this section.
@@ -152,7 +154,11 @@ Subsecs. (b), (d). Pub. L. 94–169, §106(45), substituted “such person” fo
 
 1963—Subsec. (a). Pub. L. 88–77 inserted references to the Coast Guard.
 
-1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to himunder subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
+1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–368, title III, §301(b), Nov. 11, 1998, 112 Stat. 3332, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1993 Amendment
 

@@ -30,7 +30,7 @@
 
 (c) If any disposition is authorized by this section and section 2572 of this title, the Secretary may make the gift or loan under either section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Dec. 12, 1980, Pub. L. 96–513, title V, §513(39), (40), 94 Stat. 2934, 2935; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(i), 110 Stat. 443.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443.)
 
 Historical and Revision Notes
 

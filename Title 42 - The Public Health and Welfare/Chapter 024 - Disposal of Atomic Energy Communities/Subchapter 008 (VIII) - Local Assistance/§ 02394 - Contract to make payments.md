@@ -2,7 +2,7 @@
 
 The Administrator is authorized, without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, to enter into a contract with any governmental or other entity to which payments are authorized to be made pursuant to section 2391 of this title, obligating the Administrator to make to such entity the payments directed or authorized to be made by section 2391 of this title: <i>Provided, however</i>, That the term of such contracts, in the case of the cities of Oak Ridge, Tennessee, and Richland, Washington, and the Richland School District, shall not extend beyond June 30, 1979; and in the case of the Los Alamos School Board shall not extend beyond June 30, 1997; and in the case of the county of Los Alamos, New Mexico, shall not extend beyond June 30, 1997. The authority to enter into a contract under the preceding sentence with the Los Alamos School Board and with the county of Los Alamos, New Mexico, shall be effective with respect to a period before July 1, 1997, only to the extent or in such amounts as are provided in appropriation Acts.
 
-(Aug. 4, 1955, ch. 543, ch. 9, §94, 69 Stat. 482; Dec. 14, 1967, Pub. L. 90–190, §3, 81 Stat. 576; Dec. 31, 1975, Pub. L. 94–187, title VI, §601(1), (9), 89 Stat. 1077, 1078; Feb. 25, 1978, Pub. L. 95–238, title II, §205(b), 92 Stat. 61; Nov. 14, 1986, Pub. L. 99–661, div. C, title I, §3138(a), (b)(1), 100 Stat. 4066; Feb. 10, 1996, Pub. L. 104–106, div. C, title XXXI, §3161(d), 110 Stat. 627.)
+(Aug. 4, 1955, ch. 543, ch. 9, §94, 69 Stat. 482; Pub. L. 90–190, §3, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1), (9), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(b), Feb. 25, 1978, 92 Stat. 61; Pub. L. 99–661, div. C, title I, §3138(a), (b)(1), Nov. 14, 1986, 100 Stat. 4066; Pub. L. 104–106, div. C, title XXXI, §3161(d), Feb. 10, 1996, 110 Stat. 627.)
 
 #### Codification
 
@@ -16,7 +16,7 @@ The Administrator is authorized, without regard to sections 1341, 1342, and 1349
 
 Pub. L. 99–661, §3138(b)(1), inserted at end “The authority to enter into a contract under the preceding sentence with the Los Alamos School Board and with the county of Los Alamos, New Mexico, shall be effective with respect to a period before July 1, 1996, only to the extent or in such amounts as are provided in appropriation Acts.”
 
-1978—Pub. L. 95–238 inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, substituted “payments are authorized” for “payments are required or authorized”, and struck out applicability of provisions to Anderson and Roane Counties, Tennessee, for contracts not beyond June 30, 1986.
+1978—Pub. L. 95–238 inserted provisions for applicability to the Los Alamos School Board and the county of Los Alamos, New Mexico, substituted “payments areauthorized” for “payments are required or authorized”, and struck out applicability of provisions to Anderson and Roane Counties, Tennessee, for contracts not beyond June 30, 1986.
 
 1975—Pub. L. 94–187 substituted “Administrator” for “Commission” in two places and inserted provision that the term of such contracts shall not extend beyond June 30, 1986, in the case of Anderson County and Roane County, Tennessee. The latter amendment was executed in this section, rather than to section 2393, as the probable intent of Congress.
 

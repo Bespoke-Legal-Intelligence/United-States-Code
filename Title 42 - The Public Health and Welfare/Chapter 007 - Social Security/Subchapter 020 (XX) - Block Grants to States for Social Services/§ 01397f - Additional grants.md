@@ -156,7 +156,7 @@ As used in this section:
 
 &emsp;The term “urban area” has the meaning given such term in section 1393(a)(3) of the Internal Revenue Code of 1986.
 
-(Aug. 14, 1935, ch. 531, title XX, §2007, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13761, 107 Stat. 664; amended Oct. 31, 1994, Pub. L. 103–432, title II, §263, 108 Stat. 4467.)
+(Aug. 14, 1935, ch. 531, title XX, §2007, as added Pub. L. 103–66, title XIII, §13761, Aug. 10, 1993, 107 Stat. 664; amended Pub. L. 103–432, title II, §263, Oct. 31, 1994, 108 Stat. 4467.)
 
 #### References in Text
 

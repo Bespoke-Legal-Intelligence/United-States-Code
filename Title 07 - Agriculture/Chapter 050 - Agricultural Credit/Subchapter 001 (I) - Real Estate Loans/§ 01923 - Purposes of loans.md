@@ -66,7 +66,7 @@ In making or guaranteeing a loan under this subchapter for purchase of a farm or
 
 #### Effective Date of 1996 Amendment
 
-Section 602(b) of Pub. L. 104–127 provided that: “Section 303(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1923(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 303(c)(2) of the Act.”
+Section 602(b) of Pub. L. 104–127 provided that: “Section 303(c)(1) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1923(c)(1)\] shall not apply until the Secretary of Agriculture makes the determination required by section 303(c)(2) of the Act.” \[The Secretary's determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.\]
 
 #### Effective Date of 1981 Amendment
 

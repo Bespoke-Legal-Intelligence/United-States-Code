@@ -70,7 +70,7 @@
 
 #### (2) Contracts for evaluation
 
-&emsp;Each State educational agency receiving a grant under this section may contract with outside sources, including institutions of higher education, and private and nonprofit organizations, for purposes of evaluating their program and measuring the success of the program toward fostering in students the elements of character listed in subsection (b) of this section.
+&emsp;Each State educational agency receiving a grant under this section may contract withoutside sources, including institutions of higher education, and private and nonprofit organizations, for purposes of evaluating their program and measuring the success of the program toward fostering in students the elements of character listed in subsection (b) of this section.
 
 #### (3) Factors
 

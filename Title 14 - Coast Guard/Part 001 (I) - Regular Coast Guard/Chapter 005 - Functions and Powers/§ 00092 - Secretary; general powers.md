@@ -20,7 +20,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 &emsp;(i) do any and all things necessary to carry out the purposes of this title.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Oct. 12, 1982, Pub. L. 97–295, §2(4), 96 Stat. 1301; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(D), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 

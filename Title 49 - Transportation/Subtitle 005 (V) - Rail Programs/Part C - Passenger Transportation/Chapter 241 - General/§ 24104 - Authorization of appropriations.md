@@ -132,7 +132,7 @@ Pub. L. 105–134, title II, §209, Dec. 2, 1997, 111 Stat. 2584, provided that:
 
 In General.—Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\]—
 
-&emsp;“(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (asthat term is defined in section 977(e)(1) of that Act); or
+&emsp;“(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or
 
 &emsp;“(2) to offset other amounts used for any purpose other than the financing of such expenses.
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) In addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each case under chapter 11 of title 11 for each quarter (including any fraction thereof) until the case is converted or dismissed, whichever occurs first. The fee shall be $250 for each quarter in which disbursements total less than $15,000; $500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.
 
-> An individual commencing a voluntary case or a joint case under title 11 may pay such fee in installments. For converting, on request of the debtor, a case under chapter 7, or 13 of title 11, to a case under chapter 11 of title 11, the debtor shall pay to the clerk of the district court or the clerk of the bankruptcy court, if one has been certified pursuant to section 156(b) of this title, a fee of $400.
+> An individual commencing a voluntary case or a joint case under title 11 may pay such fee in installments. For converting, on request of the debtor, a case under chapter 7, or 13 of title 11, to a case under chapter 11 of title 11, the debtor shall pay to the clerk of the district court or the clerk of the bankruptcy court, if one has beencertified pursuant to section 156(b) of this title, a fee of $400.
 
 (b) The Judicial Conference of the United States may prescribe additional fees in cases under title 11 of the same kind as the Judicial Conference prescribes under section 1914(b) of this title.
 
@@ -34,23 +34,23 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before “800”.
+1996—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before “800”.
 
 Subsec. (a)(6). Pub. L. 104–208 substituted “$500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.” for “$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
 
 Pub. L. 104–91, as amended by Pub. L. 104–99, struck out “a plan is confirmed or” before “the case is converted”.
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–121, §111(a)(1), substituted “$130” for “$120”.
+1993—Subsec. (a)(1). Pub. L. 103–121, §111(a)(1), substituted “$130” for “$120”.
 
 Subsec. (a)(3). Pub. L. 103–81, §111(b)(1), substituted “800” for “$600”.
 
-<b>1991</b>—Subsec. (a)(3). Pub. L. 102–140, §111(a)(1), substituted “$600” for “$500”.
+1991—Subsec. (a)(3). Pub. L. 102–140, §111(a)(1), substituted “$600” for “$500”.
 
 Subsec. (a)(6). Pub. L. 102–140, §111(a)(2), substituted “$250” for “$150”, “$500” for “$300”, “$1,250” for “$750”, “$3,750” for “$2,250”, and “$5,000” for “$3,000”.
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–162 substituted “$120” for “$90”.
+1989—Subsec. (a)(1). Pub. L. 101–162 substituted “$120” for “$90”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–554, §§117(5), 144(f), in introductory and closing provisions, substituted “of the district court or the clerk of the bankruptcy court, if one has been certified pursuant to section 156(b) of this title” for “of the court”, and in closing provisions, inserted provision that for conversion, on request of the debtor, of a case under chapter 7 or 13 of title 11, to a case under chapter 11 of title 11, the debtor pay to the clerk of the court a fee of $400.
+1986—Subsec. (a). Pub. L. 99–554, §§117(5), 144(f), in introductory and closing provisions, substituted “of the district court or the clerk of the bankruptcy court, if one has been certified pursuant to section 156(b) of this title” for “of the court”, and in closing provisions, inserted provision that for conversion, on request of the debtor, of a case under chapter 7 or 13 of title 11, to a case under chapter 11 of title 11, the debtor pay to the clerk of the court a fee of $400.
 
 Subsec. (a)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–554, §117(1), amended par. (1) identically substituting “$90” for “$60”.
 
@@ -60,7 +60,7 @@ Subsec. (a)(4). Pub. L. 99–554, §117(3), substituted “$1,000” for “$500
 
 Subsec. (a)(5), (6). Pub. L. 99–554, §117(4), added pars. (5) and (6).
 
-<b>1984</b>—Pub. L. 98–353, §111(b), substituted “fees” for “courts” in section catchline.
+1984—Pub. L. 98–353, §111(b), substituted “fees” for “courts” in section catchline.
 
 Subsecs. (a), (c), (e). Pub. L. 98–353, §111(a), substituted “clerk of the court” for “clerk of the bankruptcy court”.
 
@@ -174,7 +174,7 @@ Following are fees to be charged for services to be performed by clerks of the b
 
 (15) Repealed.
 
-(16) For docketing a proceeding on appeal or review from a final judgment of a bankruptcy judge pursuant to 28 U.S.C. §158(a) and (b), the fee shall be the same amount as the fee for docketing a case on appeal or review to the appellate court as required by Item 1 of theCourts of Appeals Miscellaneous Fee Schedule. A separate fee shall be paid by each party filing a notice of appeal in the bankruptcy court, but parties filing a joint notice of appeal in the bankruptcy court are required to pay only one fee.
+(16) For docketing a proceeding on appeal or review from a final judgment of a bankruptcy judge pursuant to 28 U.S.C. §158(a) and (b), the fee shall be the same amount as the fee for docketing a case on appeal or review to the appellate court as required by Item 1 of the Courts of Appeals Miscellaneous Fee Schedule. A separate fee shall be paid by each party filing a notice of appeal in the bankruptcy court, but parties filing a joint notice of appeal in the bankruptcy court are required to pay only one fee.
 
 (17) For filing a petition ancillary to a foreign proceeding under 11 U.S.C. §304, $500.
 

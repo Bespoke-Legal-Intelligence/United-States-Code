@@ -26,13 +26,25 @@ Limitation on Contracting.—(1) Except as provided in paragraph (2), performanc
 
 &emsp;(ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 104–106, div. A, title III, §314, Feb. 10, 1996, 110 Stat. 251; Pub. L. 105–85, div. A, title III, §356(a), Nov. 18, 1997, 111 Stat. 1694.)
+(c)
+
+Notification of Determinations Regarding Certain Commercial Items.—The first time that a weapon system or other item of military equipment described in subsection (a)(3) is determined to be a commercial item for the purposes of the exception contained in that subsection, the Secretary of Defense shall submit to Congress a notification of the determination, together with the justification for the determination. The justification for the determination shall include, at a minimum, the following:
+
+&emsp;(1) The estimated percentage of commonality of parts of the version of the item that is sold or leased in the commercial marketplace and the Government's version of the item.
+
+&emsp;(2) The value of any unique support and test equipment and tools that are necessary to support the military requirements if the item were maintained by the Government.
+
+&emsp;(3) A comparison of the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the private sector with the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the Government.
+
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 104–106, div. A, title III, §314, Feb. 10, 1996, 110 Stat. 251; Pub. L. 105–85, div. A, title III, §356(a), Nov. 18, 1997, 111 Stat. 1694; Pub. L. 105–261, div. A, title III, §343(a), Oct. 17, 1998, 112 Stat. 1976.)
 
 #### Historical and Revision Notes
 
 Section is based on Pub. L. 98–525, title III, §307, Oct. 19, 1984, 98 Stat. 2514, as amended by Pub. L. 99–145, title XII, §1231(f), Nov. 8, 1985, 99 Stat. 733.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–261 added subsec. (c).
 
 1997—Pub. L. 105–85 substituted “capabilities” for “functions” in section catchline and amended text generally. Prior to amendment, text related to necessity for core logistics capabilities and restricted contracting out of certain logistics activities and functions of the Department of Defense to non-Government personnel.
 
@@ -47,6 +59,38 @@ Section is based on Pub. L. 98–525, title III, §307, Oct. 19, 1984, 98 Stat. 
 “(4) For purposes of paragraph (3)(B), the continuity of a session of Congress is broken only by an adjournment sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of such 20-day period.”
 
 1989—Subsec. (b)(3)(A). Pub. L. 101–189 substituted “Committees on Appropriations” for “Committee on Appropriations”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title III, §343(b), Oct. 17, 1998, 112 Stat. 1976, provided that: “Subsection (c) of section 2464 of title 10, United States Code (as added by subsection (a)), shall apply with respect to determinations made after the date of the enactment of this Act \[Oct. 17, 1998\].”
+
+#### Conditions on Expansion of Functions Performed Under Prime Vendor Contracts for Depot-Level Maintenance and Repair
+
+Pub. L. 105–261, div. A, title III, §346, Oct. 17, 1998, 112 Stat. 1979, provided that:
+
+“(a)
+
+Conditions on Expanded Use.—The Secretary of Defense or the Secretary of a military department, as the case may be, may not enter into a prime vendor contract for depot-level maintenance and repair of a weapon system or other military equipment described in section 2464(a)(3) of title 10, United States Code, before the end of the 30-day period beginning on the date on which the Secretary submits to Congress a report, specific to the proposed contract, that—
+
+&emsp;“(1) describes the competitive procedures to be used to award the prime vendor contract; and
+
+&emsp;“(2) contains an analysis of costs and benefits that demonstrates that use of the prime vendor contract will result in savings to the Government over the life of the contract.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘prime vendor contract’ means an innovative contract that gives a defense contractor the responsibility to manage, store, and distribute inventory, manage and provide services, or manage and perform research, on behalf of the Department of Defense on a frequent, regular basis, for users within the Department on request. The term includes contracts commonly referred to as prime vendor support contracts, flexible sustainment contracts, and direct vendor delivery contracts.
+
+&emsp;“(2) The term ‘depot-level maintenance and repair’ has the meaning given such term in section 2460 of title 10, United States Code.
+
+“(c)
+
+Relationship to Other Laws.—Nothing in this section shall be construed to exempt a prime vendor contract from the requirements of section 2461 of title 10, United States Code, or any other provision of chapter 146 of such title.”
 
 #### Policy Regarding Performance of Depot-Level Maintenance and Repair for Department of Defense
 
@@ -114,7 +158,7 @@ Considerations.—In developing the policy, the Secretary shall take into consid
 
 &emsp;“(5) Analyses of costs and benefits of alternatives, including a comparative analysis of—
 
-&emsp;&emsp;“(A) the costs and benefits, including any readiness implications, of any proposed policy to convert to contractor performance of depot-level maintenance and repair workloads where the workload isbeing performed by Department of Defense personnel; and
+&emsp;&emsp;“(A) the costs and benefits, including any readiness implications, of any proposed policy to convert to contractor performance of depot-level maintenance and repair workloads where the workload is being performed by Department of Defense personnel; and
 
 &emsp;&emsp;“(B) the costs and benefits, including any readiness implications, of a policy to transfer depot-level maintenance and repair workloads among depots.
 

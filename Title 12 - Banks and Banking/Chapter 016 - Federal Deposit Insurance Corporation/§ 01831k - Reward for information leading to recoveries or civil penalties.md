@@ -50,7 +50,7 @@ An appropriate Federal banking agency may not pay a reward under subsection (a) 
 
 Any agency decision under this section is final and not reviewable by any court.
 
-(Sept. 21, 1950, ch. 967, §2\[34\], as added Pub. L. 101–73, title IX, §933(a), Aug. 9, 1989, 103 Stat. 495; amended Pub. L. 101–647, title XXV, §2586, Nov. 29, 1990, 104 Stat. 4903; Pub. L. 103–325, title VI, §602(a)(62), (63), Sept. 23, 1994, 108 Stat. 2291.)
+(Sept. 21, 1950, ch. 967, §2\[34\], as added Pub. L. 101–73, title IX, §933(a), Aug. 9, 1989, 103 Stat. 495;amended Pub. L. 101–647, title XXV, §2586, Nov. 29, 1990, 104 Stat. 4903; Pub. L. 103–325, title VI, §602(a)(62), (63), Sept. 23, 1994, 108 Stat. 2291.)
 
 #### References in Text
 

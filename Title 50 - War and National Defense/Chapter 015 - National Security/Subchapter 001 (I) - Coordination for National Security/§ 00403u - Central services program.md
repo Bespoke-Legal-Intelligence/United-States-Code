@@ -44,7 +44,7 @@ The total value of all orders for items or services to be provided under the pro
 
 #### (e) Payment for items and services
 
-(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f) of this section. In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment), operation and maintenance expenses, amortized costs, and other expenses.
+(1) A Government agency provided items or services under the program shall pay the centralservice provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f) of this section. In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment), operation and maintenance expenses, amortized costs, and other expenses.
 
 (2) Payment for items or services under paragraph (1) may take the form of an advanced payment by an agency from appropriations available to such agency for the procurement of such items or services.
 
@@ -88,5 +88,9 @@ The total value of all orders for items or services to be provided under the pro
 
 (3) The Director of Central Intelligence and the Director of the Office of Management and Budget may not undertake any action under paragraph (2) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), 111 Stat. 2258.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258.)
+
+#### Availability of Funds Credited to Central Services Working Capital Fund
+
+Pub. L. 105–262, title VIII, §8048, Oct. 17, 1998, 112 Stat. 2307, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended.”
 

@@ -18,6 +18,10 @@ If the amount appropriated for a program year is in excess of the amount necessa
 
 (Pub. L. 97–300, title V, §502, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1096.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Prior Provisions
 
 A prior section 502 of Pub. L. 97–300, which amended sections 632 and 633 of Title 42, The Public Health and Welfare, was renumbered section 602 of Pub. L. 97–300.

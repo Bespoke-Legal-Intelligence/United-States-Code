@@ -4,7 +4,7 @@
 
 &emsp;(1) the severe operating losses and the deteriorating plant and equipment of the Milwaukee Railroad threaten to cause cessation of its operations in the near future;
 
-&emsp;(2) a cessation of operations by the Milwaukee Railroad would have serious repercussions on the economies of the States in which such railroad principally operates (the States of Washington, Montana, Idaho, North Dakota, South Dakota, Illinois, Iowa, Missouri, Michigan, Indiana, Minnesota, and Wisconsin);
+&emsp;(2) a cessation of operations by the Milwaukee Railroad would have serious repercussions on the economies of the States in which suchrailroad principally operates (the States of Washington, Montana, Idaho, North Dakota, South Dakota, Illinois, Iowa, Missouri, Michigan, Indiana, Minnesota, and Wisconsin);
 
 &emsp;(3) a cessation of operations of the Milwaukee Railroad would result in the loss of many thousands of jobs of railroad workers and other workers whose employment is dependent upon rail service over the lines presently operated by the Milwaukee Railroad;
 

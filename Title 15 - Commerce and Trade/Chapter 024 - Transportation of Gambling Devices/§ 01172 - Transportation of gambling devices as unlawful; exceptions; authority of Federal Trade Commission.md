@@ -16,7 +16,7 @@ This section does not prohibit the transport of a gambling device to a place in 
 
 &emsp;(2) the gambling device remains on board that vessel while in that State.
 
-(Jan. 2, 1951, ch. 1194, §2, 64 Stat. 1134; Oct. 18, 1962, Pub. L. 87–840, §4, 76 Stat. 1075; Mar. 9, 1992, Pub. L. 102–251, title II, §202(a), 106 Stat. 61.)
+(Jan. 2, 1951, ch. 1194, §2, 64 Stat. 1134; Pub. L. 87–840, §4, Oct. 18, 1962, 76 Stat. 1075; Pub. L. 102–251, title II, §202(a), Mar. 9, 1992, 106 Stat. 61.)
 
 #### References in Text
 

@@ -72,7 +72,7 @@ The function categories described in this subsection are the following:
 
 #### (B) Repooling of unobligated funds allocated among the States
 
-&emsp;&emsp;Not earlier than July 15 of each fiscal year, the Secretary shall transfer to the national reserve account from each account specified in subsection (c) of this section any amount in the account that is allocated for any State, and has not been obligated by the State director or obligated for specific approved projects in the State.
+&emsp;&emsp;Not earlier than July 15 of each fiscal year, the Secretary shall transfer to the national reserve account from each accountspecified in subsection (c) of this section any amount in the account that is allocated for any State, and has not been obligated by the State director or obligated for specific approved projects in the State.
 
 #### (2) Use
 

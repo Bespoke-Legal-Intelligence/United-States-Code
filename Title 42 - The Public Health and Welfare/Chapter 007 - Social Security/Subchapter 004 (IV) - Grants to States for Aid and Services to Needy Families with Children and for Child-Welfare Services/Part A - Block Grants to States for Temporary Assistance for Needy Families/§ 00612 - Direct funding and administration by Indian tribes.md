@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iii) The Indian tribe has provided the Secretary of Labor with an estimate of the amount that the Indian tribe intends to expend during the fiscal year (excluding tribal expenditures described in section 609(a)(7)(B)(iv) (other than subclause (III) thereof) of this title) pursuant to this paragraph.
 
-&emsp;&emsp;&emsp;(iv) The Indian tribe has agreed to negotiate in good faith with the Secretary of Health and Human Services with respect to the substance and funding of any evaluation under section 613(j) of this title, and to cooperate with the conduct of any such evaluation.
+&emsp;&emsp;&emsp;(iv) The Indian tribe has agreed to negotiate in good faith with the Secretary ofHealth and Human Services with respect to the substance and funding of any evaluation under section 613(j) of this title, and to cooperate with the conduct of any such evaluation.
 
 #### (C) Limitations on use of funds
 
@@ -140,13 +140,13 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programs shall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
+&emsp;Notwithstanding any other provision of this section, and except as provided in paragraph (2), an Indian tribe in the State of Alaska that receives a tribal family assistance grant under this section shall use the grant to operate a program in accordance with requirements comparable to the requirements applicable to the program of the State of Alaska funded under this part. Comparability of programsshall be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and such Indian tribes.
 
 #### (2) Waiver
 
 &emsp;An Indian tribe described in paragraph (1) may apply to the appropriate State authority to receive a waiver of the requirement of paragraph (1).
 
-(Aug. 14, 1935, ch. 531, title IV, §412, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2150; amended Aug. 5, 1997, Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), 111 Stat. 589, 617, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589, 617, 620.)
 
 #### References in Text
 

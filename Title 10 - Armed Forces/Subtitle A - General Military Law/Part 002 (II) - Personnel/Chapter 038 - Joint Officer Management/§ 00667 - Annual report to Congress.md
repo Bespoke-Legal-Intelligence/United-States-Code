@@ -128,7 +128,7 @@ Par. (16). Pub. L. 100–180, §1304(a)(1), redesignated former par. (10) as (16
 
 #### Effective Date of 1987 Amendment
 
-Section 1304(b) of Pub. L. 100–180 provided that: “Paragraphs (3) and (4) of section 667 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
+Section 1304(b) of Pub. L. 100–180 provided that: “Paragraphs (3) and (4) of section 667 of title 10, UnitedStates Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1987.”
 
 #### Additional Information To Be Included in Five Annual Joint Officer Policy Reports After November 30, 1993
 

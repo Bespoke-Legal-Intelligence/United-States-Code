@@ -13,10 +13,13 @@
 | [1129\.](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md) | Purple Heart: members killed or wounded in action by friendly fire. |
 | [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review and recommendation. |
 | [1131\.](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md) | Purple Heart: limitation to members of the armed forces. |
+| [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title V, §537(b), Oct. 17, 1998, 112 Stat. 2019, added item 1132.
 
 1997—Pub. L. 105–85, div. A, title V, §571(a)(2), Nov. 18, 1997, 111 Stat. 1756, added item 1131.
 
@@ -124,9 +127,9 @@ Ex. Ord. No. 11965, Jan. 19, 1977, 42 F.R. 4329, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Humanitarian Service Medal with accompanying ribbons and appurtenances for award by the Secretary of Defense or the Secretary of Transportation with regard to the Coast Guard when not operating as a Service in the Navy. Individuals eligible for the medal are members of the Armed Forces of the United States (including Reserve Components) who, subsequent to April 1, 1975, distinguished themselves by meritorious participation in a military act or operation of a humanitarian nature. The Secretary of Defense and the Secretary of Transportation for the Coast Guard will determine types of acts or operations that warrant award of the medal.
+Section 1. There is hereby established a Humanitarian Service Medal with accompanying ribbons andappurtenances for award by the Secretary of Defense or the Secretary of Transportation with regard to the Coast Guard when not operating as a Service in the Navy. Individuals eligible for the medal are members of the Armed Forces of the United States (including Reserve Components) who, subsequent to April 1, 1975, distinguished themselves by meritorious participation in a military act or operation of a humanitarian nature. The Secretary of Defense and the Secretary of Transportation for the Coast Guard will determine types of acts or operations that warrant award of the medal.
 
-Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretaryof Transportation for the Coast Guard under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Humanitarian Service Medal in an order of precedence immediately after the Vietnam Service Medal.
+Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Transportation for the Coast Guard under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Humanitarian Service Medal in an order of precedence immediately after the Vietnam Service Medal.
 
 Sec. 3. No more than one Humanitarian Service Medal shall be awarded to any one person, but for each subsequent participation in a humanitarian act or operation justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations of the Military Departments.
 
@@ -190,7 +193,7 @@ Ex. Ord. No. 12985, Jan. 11, 1996, 61 F.R. 1209, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including my authority as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is hereby established the Armed Forces Service Medal with accompanyingribbons and appurtenances, for award to members of the Armed Forces of the United States who, on or after June 1, 1992, in the opinion of the Joint Chiefs of Staff: (a) Participate, or have participated, as members of United States military units in a United States military operation in which personnel of any Armed Force participate that is deemed to be significant activity; and
+Section 1. <i>Establishment</i>. There is hereby established the Armed Forces Service Medal with accompanying ribbons and appurtenances, for award to members of the Armed Forces of the United States who, on or after June 1, 1992, in the opinion of the Joint Chiefs of Staff: (a) Participate, or have participated, as members of United States military units in a United States military operation in which personnel of any Armed Force participate that is deemed to be significant activity; and
 
 (b) Encounter no foreign armed opposition or imminent hostile action.
 
@@ -212,6 +215,8 @@ Particular provisions relating to—
 
 &emsp;&emsp;Navy and Marine Corps, see section 6241 et seq. of this title.
 
+<i><sup>1</sup></i><i> So in original. The par. (1) designation probably should not appear here.</i>
+
 
 ---
 
@@ -228,3 +233,4 @@ Particular provisions relating to—
 - [&sect; 01129 - Purple Heart members killed or wounded in action by friendly fire](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md)
 - [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review and recommendation](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md)
 - [&sect; 01131 - Purple Heart limitation to members of the armed forces](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md)
+- [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)

@@ -21,7 +21,7 @@ Pub. L. 102–16, §9(c)(1), Mar. 22, 1991, 105 Stat. 55, struck out “DISABLED
 
 #### Cross References
 
-Employment programs for veterans under Job Training Partnership Act, see section 1721 of Title 29, Labor.
+Workforce investment programs for veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
 
 #### Chapter Referred to in Other Sections
 

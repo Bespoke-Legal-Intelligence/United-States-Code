@@ -80,7 +80,7 @@ For purposes of this chapter:
 
 &emsp;(22) The term “siting research” means activities, including borings, surface excavations, shaft excavations, subsurface lateral excavations and borings, and in situ testing, to determine the suitability of a site for a test and evaluation facility.
 
-&emsp;(23) The term “spent nuclear fuel” means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituent elements of which have not been separated by reprocessing.
+&emsp;(23) The term “spent nuclear fuel” means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituentelements of which have not been separated by reprocessing.
 
 &emsp;(24) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
@@ -140,7 +140,7 @@ Preparation and Submission of Report.—The Secretary of Energy, in consultation
 
 “(b)
 
-Opportunity for Public Comment.—In preparation of the report required under subsection (a), theSecretary of Energy shall offer members of the public an opportunity to provide information and comment and shall solicit the views of the Nuclear Regulatory Commission, the Environmental Protection Agency, and other interested parties.
+Opportunity for Public Comment.—In preparation of the report required under subsection (a), the Secretary of Energy shall offer members of the public an opportunity to provide information and comment and shall solicit the views of the Nuclear Regulatory Commission, the Environmental Protection Agency, and other interested parties.
 
 “(c)
 

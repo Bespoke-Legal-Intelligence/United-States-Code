@@ -1,14 +1,16 @@
 ### §5631. Authority to make grants and contracts
 
-(a) The Administrator is authorized to make grants to States and units of general local government or combinations thereof to assist them in planning, establishing, operating, coordinating, and evaluating projects directly or through grants and contracts with public and private agencies for the development of more effective education, training, research, prevention, diversion, treatment, and rehabilitation programs in the area of juvenile delinquency and programs to improve the juvenile justice system.
+(a) The Administrator is authorized to make grants to States and units of local government or combinations thereof to assist them in planning, establishing, operating, coordinating, and evaluating projects directly or through grants and contracts with public and private agencies for the development of more effective education, training, research, prevention, diversion, treatment, and rehabilitation programs in the area of juvenile delinquency and programs to improve the juvenile justice system.
 
-(b)(1) With not to exceed 2 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments (and combinations thereof), and local private agencies to facilitate compliance with section 5633 of this title and implementation of the State plan approved under section 5633(c) of this title.
+(b)(1) With not to exceed 2 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments <sup>1</sup> (and combinations thereof), and local private agencies to facilitate compliance with section 5633 of this title and implementation of the State plan approved under section 5633(c) of this title.
 
 (2) Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance. In providing such technical assistance, the recipient of a grant or contract under this subsection shall coordinate its activities with the State agency described in section 5671(c)(1) of this title.
 
-(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987.)
+(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 substituted “units of local government” for “units of general local government”.
 
 1992—Subsec. (b)(2). Pub. L. 102–586, §2(f)(1)(A), which directed the substitution of “experience” for “existence”, could not be executed because “existence” did not appear in text.
 
@@ -27,4 +29,6 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “units of local governments”.</i>
 

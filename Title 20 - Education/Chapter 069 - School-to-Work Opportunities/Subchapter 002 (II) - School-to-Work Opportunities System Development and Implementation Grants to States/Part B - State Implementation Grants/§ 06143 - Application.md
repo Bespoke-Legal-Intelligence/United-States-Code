@@ -8,11 +8,11 @@
 
 #### (2) Review and comment by certain individuals and entities
 
-&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
+&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) ofthis section for the State plan described in subsection (d) of this section, then the Governor shall—
 
 &emsp;&emsp;(A) provide such individuals and entities with copies of such application;
 
-&emsp;&emsp;(B) allow such individuals and entities to submit to the Governor, not later than the end of the 30-day period beginning on the date on which the Governor provides such individuals and entities with copies of suchapplication under subparagraph (A), comments on those portions of the plan that address matters that, under State or other applicable law, are under the jurisdiction of such individuals or entities; and
+&emsp;&emsp;(B) allow such individuals and entities to submit to the Governor, not later than the end of the 30-day period beginning on the date on which the Governor provides such individuals and entities with copies of such application under subparagraph (A), comments on those portions of the plan that address matters that, under State or other applicable law, are under the jurisdiction of such individuals or entities; and
 
 &emsp;&emsp;(C) include any such comments in the application in accordance with subsection (b)(5) of this section.
 
@@ -44,9 +44,9 @@ Such application shall include—
 
 &emsp;&emsp;(H) the State agency officials responsible for vocational rehabilitation;
 
-&emsp;&emsp;(I) the individual assigned for the State under section 111(b)(1) of the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2321(b)(1));
+&emsp;&emsp;(I) the individual assigned for the State under section 111(b)(1) of the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2321(b)(1)); <sup>1</sup>
 
-&emsp;&emsp;(J) other appropriate officials, including the State human resource investment council established in accordance with title VII of the Job Training Partnership Act (29 U.S.C. 1792 et seq.), if the State has established such a council; and
+&emsp;&emsp;(J) other appropriate officials, including the State human resource investment council established in accordance with title VII of the Job Training Partnership Act (29 U.S.C. 1792 et seq.),<sup>1</sup> if the State has established such a council; and
 
 &emsp;&emsp;(K) representatives of the private sector;
 
@@ -80,7 +80,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;(6) describe the manner in which the statewide School-to-Work Opportunities system will coordinate with or integrate local school-to-work programs in existence on or after May 4, 1994, including programs financed from State and private sources, with funds available from such related Federal programs as programs under—
 
-&emsp;&emsp;(A) the Adult Education Act (20 U.S.C. 1201 et seq.);
+&emsp;&emsp;(A) the Adult Education Act (20 U.S.C. 1201 et seq.); <sup>1</sup>
 
 &emsp;&emsp;(B) the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
 
@@ -92,11 +92,11 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;&emsp;(F) the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
 
-&emsp;&emsp;(G) the National Skills <sup>1</sup> Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
+&emsp;&emsp;(G) the National Skills <sup>2</sup> Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
 
 &emsp;&emsp;(H) the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
-&emsp;&emsp;(I) the Job Training Partnership Act (29 U.S.C. 1501 et seq.);
+&emsp;&emsp;(I) the Job Training Partnership Act (29 U.S.C. 1501 et seq.); <sup>1</sup>
 
 &emsp;&emsp;(J) the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.);
 
@@ -142,13 +142,13 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (b)(4)(J) and (d)(6)(I), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. Title VII of the Act is classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(4)(I) and (d)(6)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L.105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+
+The Job Training Partnership Act, referred to in subsecs. (b)(4)(J) and (d)(6)(I), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Title VII of the Act was classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The Goals 2000: Educate America Act, referred to in subsecs. (c) and (d)(6)(F), (8), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Adult Education Act, referred to in subsec. (d)(6)(A), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
-
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (d)(6)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Adult Education Act, referred to in subsec. (d)(6)(A), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
@@ -178,5 +178,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 This section is referred to in sections 6103, 6125, 6142, 6144, 6146, 6173, 6192, 6211, 6215 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Skill”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Skill”.</i>
 

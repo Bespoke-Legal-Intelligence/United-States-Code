@@ -34,7 +34,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 &emsp;&emsp;&emsp;(ii) are reasonably related to program eligibility and the applicant's ability to perform the obligations of the lease;
 
-&emsp;&emsp;&emsp;(iii) give reasonable consideration to the housing needs of families that would qualify for a preference under section 1437d(c)(4)(A) of this title; and
+&emsp;&emsp;&emsp;(iii) give reasonable consideration to the housing needs of families that would qualify for a preference under any system of preferences established under section 1437d(c)(1) of this title; and
 
 &emsp;&emsp;&emsp;(iv) provide for (I) the selection of tenants from a written waiting list in the chronological order of their application, to the extent practicable, and (II) for the prompt notification in writing of any rejected applicant of the grounds for any rejection.
 
@@ -82,15 +82,19 @@ The Secretary may waive the requirements of subsection (b) of this section to pe
 
 #### (g) Period of restrictions
 
-A project that receives assistance under this part shall comply with the requirements of this section for the remaining useful life of the property.
+A project that receives assistance under this part shall comply with the requirements of thissection for the remaining useful life of the property.
 
-(Pub. L. 101–625, title IV, §455, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3728.)
+(Pub. L. 101–625, title IV, §455, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3728; amended Pub. L. 105–276, title V, §514(a)(2)(B), Oct. 21, 1998, 112 Stat. 2547.)
 
 #### References in Text
 
 This title, referred to in subsec. (a)(2)(B), means title IV of Pub. L. 101–625, known as the Homeownership and Opportunity Through HOPE Act, and probably should have been “this subtitle”, meaning subtitle D of title IV of Pub. L. 101–625, as added by Pub. L. 102–550, which is classified generally to this part. For complete classification of title IV of Pub. L. 101–625 to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 
 The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (a)(2)(D)(iii). Pub. L. 105–276 substituted “any system of preferences established under section 1437d(c)(1) of this title” for “section 1437d(c)(4)(A) of this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

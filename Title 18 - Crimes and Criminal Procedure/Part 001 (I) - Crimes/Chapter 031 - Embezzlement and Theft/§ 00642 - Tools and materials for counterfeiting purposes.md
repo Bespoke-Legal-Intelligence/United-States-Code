@@ -1,6 +1,6 @@
 ### §642. Tools and materials for counterfeiting purposes
 
-Whoever, without authority from the United States, secretes within, or embezzles, or takes and carries away from any building, room, office, apartment, vault, safe, or other place where the same is kept, used, employed, placed, lodged, or deposited by authority of the United States, any tool, implement, or thing used or fitted to be used in stamping or printing, or in making some other tool or implement used or fitted tobe used in stamping or printing any kind or description of bond, bill, note, certificate, coupon, postage stamp, revenue stamp, fractional currency note, or other paper, instrument, obligation, device, or document, authorized by law to be printed, stamped, sealed, prepared, issued, uttered, or put in circulation on behalf of the United States; or
+Whoever, without authority from the United States, secretes within, or embezzles, or takes and carries away from any building, room, office, apartment, vault, safe, or other place where the same is kept, used, employed, placed, lodged, or deposited by authority of the United States, any tool, implement, or thing used or fitted to be used in stamping or printing, or in making some other tool or implement used or fitted to be used in stamping or printing any kind or description of bond, bill, note, certificate, coupon, postage stamp, revenue stamp, fractional currency note, or other paper, instrument, obligation, device, or document, authorized by law to be printed, stamped, sealed, prepared, issued, uttered, or put in circulation on behalf of the United States; or
 
 Whoever, without such authority, so secretes, embezzles, or takes and carries away any paper, parchment, or other material prepared and intended to be used in the making of any such papers, instruments, obligations, devices, or documents; or
 
@@ -8,7 +8,7 @@ Whoever, without such authority, so secretes, embezzles, or takes and carries aw
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 725; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 725; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -42,6 +42,7 @@
 | :--- | ---: |
 | [3661\.](Subchapter%20004%20%28IV%29%20-%20Postal%20Services%20and%20Complaints/%C2%A7%2003661%20-%20Postal%20services.md) | Postal services. |
 | [3662\.](Subchapter%20004%20%28IV%29%20-%20Postal%20Services%20and%20Complaints/%C2%A7%2003662%20-%20Rate%20and%20service%20complaints.md) | Rate and service complaints. |
+| [3663\.](Subchapter%20004%20%28IV%29%20-%20Postal%20Services%20and%20Complaints/%C2%A7%2003663%20-%20Annual%20report%20on%20international%20services.md) | Annual report on international services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +59,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–277, div. A, §101(h) \[title VI, §648(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, added item 3663.
 
 1993—Pub. L. 103–123, title VII, §704(a)(3)(B)(ii), Oct. 28, 1993, 107 Stat. 1270, substituted “free rates” for “free and reduced rates” in item 3627 and added item 3642.
 

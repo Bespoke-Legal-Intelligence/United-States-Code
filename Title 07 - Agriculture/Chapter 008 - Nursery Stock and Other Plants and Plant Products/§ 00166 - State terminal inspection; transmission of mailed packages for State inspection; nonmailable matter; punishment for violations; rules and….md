@@ -6,7 +6,7 @@ It shall be unlawful for any person, firm, or corporation to deposit in the Unit
 
 The United States Postal Service is authorized and directed to make all needful rules and regulations for carrying out the purposes hereof.
 
-(Mar. 4, 1915, ch. 144, 38 Stat. 1113; June 4, 1936, ch. 495, 49 Stat. 1461; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773.)
+(Mar. 4, 1915, ch. 144, 38 Stat. 1113; June 4, 1936, ch. 495, 49 Stat. 1461; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773.)
 
 #### Codification
 

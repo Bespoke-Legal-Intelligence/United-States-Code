@@ -6,7 +6,7 @@ Nonapplication.—Except as provided in the International Navigational Rules Act
 
 (b)
 
-Extending Application Outside United States.—The President may extend (in the way and for periods the President considers necessary) the application of this part to outside the United States when—
+Extending Application Outside United States.—The President may extend (in the wayand for periods the President considers necessary) the application of this part to outside the United States when—
 
 &emsp;(1) an international arrangement gives the United States Government authority to make the extension; and
 
@@ -50,7 +50,7 @@ Subsection (c) is substituted for 49 App.:1506 to eliminate unnecessary words an
 
 #### References in Text
 
-The International Navigational Rules Act of 1977, referred to in subsec. (a), is Pub. L. 95–75, July 27, 1977, 91Stat. 308, as amended, which is classified principally to chapter 30 (§1601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 33 and Tables.
+The International Navigational Rules Act of 1977, referred to in subsec. (a), is Pub. L. 95–75, July 27, 1977, 91 Stat. 308, as amended, which is classified principally to chapter 30 (§1601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 33 and Tables.
 
 #### Ex. Ord. No. 10854. Extension of Application
 

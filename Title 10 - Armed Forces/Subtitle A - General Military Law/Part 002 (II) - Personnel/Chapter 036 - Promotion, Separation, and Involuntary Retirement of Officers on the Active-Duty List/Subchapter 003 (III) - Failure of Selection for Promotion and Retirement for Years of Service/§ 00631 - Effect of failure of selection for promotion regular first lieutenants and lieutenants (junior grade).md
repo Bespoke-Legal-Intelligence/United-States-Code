@@ -4,9 +4,9 @@
 
 &emsp;(1) be discharged on the date requested by him and approved by the Secretary of the military department concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
 
-&emsp;(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time; or
+&emsp;(2) if he is eligible for retirement under any provision of law, be retired under that law onthe date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time; or
 
-&emsp;(3) if on the date on which he is to be discharged under clause (1) he is within two yearsof qualifying for retirement under section 3911, 6323, or 8911 of this title, be retained on active duty until he is qualified for retirement and then be retired under that section, unless he is sooner retired or discharged under another provision of law.
+&emsp;(3) if on the date on which he is to be discharged under clause (1) he is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, be retained on active duty until he is qualified for retirement and then be retired under that section, unless he is sooner retired or discharged under another provision of law.
 
 (b) The retirement or discharge of an officer pursuant to this section shall be considered to be an involuntary retirement or discharge for purposes of any other provision of law.
 

@@ -27,6 +27,8 @@
 | [525\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000525%20-%20Publication%20of%20laws%20relating%20to%20veterans.md) | Publication of laws relating to veterans. |
 | [527\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000527%20-%20Evaluation%20and%20data%20collection.md) | Evaluation and data collection. |
 | [529\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000529%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [530\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000530%20-%20Annual%20report%20on%20program%20and%20expenditures%20for%20domestic%20response%20to%20weapons%20of%20mass%20destruction.md) | Annual report on program and expenditures for domestic response to weapons of mass destruction. |
+| [531\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000531%20-%20Requirement%20relating%20to%20naming%20of%20Department%20property.md) | Requirement relating to naming of Department property. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,6 +45,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–368, title IX, §906(b), title X, §1001(a)(2), Nov. 11, 1998, 112 Stat. 3362, 3363, added items 530 and 531.
 
 1997—Pub. L. 105–114, title I, §101(a)(2), Nov. 21, 1997, 111 Stat. 2279, added item 516.
 

@@ -4,7 +4,7 @@
 
 (b) Except as to insurance granted under the provisions of section 1922(b) of this title, any person to whom insurance maturing after July 26, 1962, is payable may assign all or any portion of such person's interest in such insurance to a widow, widower, child, father, mother, grandfather, grandmother, brother, or sister of the insured when the designated contingent beneficiary, if any, joins the beneficiary in the assignment. Such joinder shall not be required in any case in which the insurance proceeds are payable in a lump sum.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1153, §718; Pub. L. 87–557, §1, July 27, 1962, 76 Stat. 245; Pub.L. 96–128, title III, §304, Nov. 28, 1979, 93 Stat. 986; Pub. L. 97–295, §4(24), Oct. 12, 1982, 96 Stat. 1306; renumbered §1918 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(III), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1153, §718; Pub. L. 87–557, §1, July 27, 1962, 76 Stat. 245; Pub. L. 96–128, title III, §304, Nov. 28, 1979, 93 Stat. 986; Pub. L. 97–295, §4(24), Oct. 12, 1982, 96 Stat. 1306; renumbered §1918 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(III), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 #### Amendments
 

@@ -100,7 +100,7 @@ In developing regulations and CTGs under this chapter that contain continuous em
 
 The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) of this section to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
 
-(July 14, 1955, ch. 360, title V, §507, as added Nov. 15, 1990, Pub. L. 101–549, title V, §501, 104 Stat. 2645.)
+(July 14, 1955, ch. 360, title V, §507, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2645.)
 
 #### References in Text
 

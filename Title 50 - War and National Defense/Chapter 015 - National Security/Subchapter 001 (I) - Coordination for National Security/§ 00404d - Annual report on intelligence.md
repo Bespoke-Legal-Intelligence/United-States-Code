@@ -52,6 +52,10 @@ Matters To Be Covered In Annual Report.—Each report under this section shall d
 
 Subsec. (c). Pub. L. 104–293, §803(a), added subsec. (c) providing definition.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Delegation of Authority
 
 Memorandum of President of the United States, Aug. 5, 1997, 62 F.R. 51367, provided:

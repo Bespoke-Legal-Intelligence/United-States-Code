@@ -96,19 +96,19 @@ As used in this section:
 
 #### Ex. Ord. No. 13038. Advisory Committee on Public Interest Obligations of Digital Television Broadcasters
 
-Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329, provided:
+Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), and in order to establish an advisory committee on the public interest obligations of digital television broadcasters, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is established the “Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters” (“Committee”). The Committee shall consist of up to 25 members appointed by the President. Members shall be chosen from the private sector, including members of the commercial and noncommercial broadcasting industry, computer industries, producers, academic institutions, public interest organizations, and the advertising community. The President shall designate a Chair or Co-Chairs from among the members of the Committee.
 
-Sec. 2. <i>Functions</i>. On or before June 1, 1998, the Committee shall report to the Vice President on the public interest obligations digital television broadcasters should assume. For the purpose of carrying out its functions the Committee may, in consultation with the Assistant Secretary of Commerce for Communications and Information, hold meetings at such times and places as the Committee may find advisable.
+Sec. 2. <i>Functions</i>. On or before December 31, 1998, the Committee shall report to the Vice President on the public interest obligations digital television broadcasters should assume. For the purpose of carrying out its functions the Committee may, in consultation with the Assistant Secretary of Commerce for Communications and Information, hold meetings at such times and places as the Committee may find advisable.
 
 Sec. 3. <i>Administration</i>. (a) To the extent permitted by law, the heads of executive departments, agencies, and independent instrumentalities shall provide the Committee, upon request, with such information as it may require for the purpose of carrying out its functions.
 
 (b) Upon request of the Chair of the Committee, the head of any executive department, agency, or instrumentality shall, to the extent permitted by law and subject to the discretion of such head, (1) make any of the facilities and services of such department, agency, or instrumentality available to the Committee; and (2) detail any of the personnel of such department, agency, or instrumentality to the Committee to assist the Committee in carrying out its duties.
 
-(c) Members of the Committee shall serve without compensation for their work on the Committee. While engaged in the work of the Committee, members appointed from the private sector may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law and as the Chair, in consultation with the Assistant Secretary of Commerce for Communications and Information, may allow as needed, for persons serving intermittently in the Government service (5 U.S.C. 5701–5707), to the extent funds are available for such purposes.
+(c) Members of the Committee shall serve without compensation for their work on the Committee. While engaged in the work of the Committee, members appointed from the private sector may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law and as the Chair, in consultation with the Assistant Secretary of Commerce for Communications and Information, may allow as needed, forpersons serving intermittently in the Government service (5 U.S.C. 5701–5707), to the extent funds are available for such purposes.
 
 (d) To the extent permitted by law and subject to the availability of appropriations, the Department of Commerce shall provide the Committee with administrative services, staff, and other support services necessary for performance of the Committee's functions.
 

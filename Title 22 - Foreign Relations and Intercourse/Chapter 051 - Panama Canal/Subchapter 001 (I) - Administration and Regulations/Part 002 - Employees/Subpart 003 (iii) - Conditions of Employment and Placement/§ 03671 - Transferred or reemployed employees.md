@@ -16,9 +16,7 @@
 
 (2) The terms and conditions of employment referred to in paragraph (1) of this subsection are the following:
 
-&emsp;(A) rates of basic pay;
-
-&emsp;(B) tropical differential;
+&emsp;(A), (B) Repealed. Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 &emsp;(C) premium pay and night differential;
 
@@ -26,11 +24,7 @@
 
 &emsp;(E) injury and death compensation benefits;
 
-&emsp;(F) leave and travel;
-
-&emsp;(G) transportation and repatriation benefits;
-
-&emsp;(H) group health and life insurance;
+&emsp;(F) to (H) Repealed. Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 &emsp;(I) reduction-in-force rights;
 
@@ -68,7 +62,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 (ii) Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teacher shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
-(Pub. L. 96–70, title I, §1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469; Pub. L. 104–201, div. C, title XXXV, §3537, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3550(d)(2)(C), Nov. 18, 1997, 111 Stat. 2074.)
+(Pub. L. 96–70, title I, §1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469; Pub. L. 104–201, div. C, title XXXV, §3537, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3550(d)(2)(C), Nov.18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 #### References in Text
 
@@ -80,6 +74,20 @@ Section 1231(d) of Pub. L. 96–70 amended sections 5595, 5724a, and 8102 of Tit
 
 #### Amendments
 
+1998—Subsec. (a)(2)(A), (B). Pub. L. 105–261 struck out subpars. (A) and (B) which read as follows:
+
+“(A) rates of basic pay;
+
+“(B) tropical differential;”.
+
+Subsec. (a)(2)(F) to (H). Pub. L. 105–261 struck out subpars. (F) to (H) which read as follows:
+
+“(F) leave and travel;
+
+“(G) transportation and repatriation benefits;
+
+“(H) group health and life insurance;”.
+
 1997—Subsec. (c)(3)(A). Pub. L. 105–85 substituted “September 30, 1979” for “the day before October 1, 1979”.
 
 1996—Subsec. (a)(3). Pub. L. 104–201 struck out par. (3) which read as follows:
@@ -88,7 +96,11 @@ Section 1231(d) of Pub. L. 96–70 amended sections 5595, 5724a, and 8102 of Tit
 
 “(B) No spending authority (as described in section 651(c)(2)(C) of title 2) provided for under this subsection shall take effect before October 1, 1979.
 
-“(C) Effective October 1, 1979, any individual who, but for subparagraph (B) of this paragraph, would havebeen entitled to one or more payments pursuant to this subsection for periods before October 1, 1979, shall be entitled, to the extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such payments.”
+“(C) Effective October 1, 1979, any individual who, but for subparagraph (B) of this paragraph, would have been entitled to one or more payments pursuant to this subsection for periods before October 1, 1979, shall be entitled, to the extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such payments.”
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
 
 #### Section Referred to in Other Sections
 

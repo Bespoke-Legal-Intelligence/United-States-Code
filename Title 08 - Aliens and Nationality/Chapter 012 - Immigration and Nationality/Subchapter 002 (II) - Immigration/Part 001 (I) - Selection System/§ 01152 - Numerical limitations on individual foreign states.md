@@ -14,7 +14,7 @@
 
 #### (3) Exception if additional visas available
 
-&emsp;If because of the application of paragraph (2) with respect to one or more foreign states ordependent areas, the total number of visas available under both subsections (a) and (b) of section 1153 of this title for a calendar quarter exceeds the number of qualified immigrants who otherwise may be issued such a visa, paragraph (2) shall not apply to visas made available to such states or areas during the remainder of such calendar quarter.
+&emsp;If because of the application of paragraph (2) with respect to one or more foreign states or dependent areas, the total number of visas available under both subsections (a) and (b) of section 1153 of this title for a calendar quarter exceeds the number of qualified immigrants who otherwise may be issued such a visa, paragraph (2) shall not apply to visas made available to such states or areas during the remainder of such calendar quarter.
 
 #### (4) Special rules for spouses and children of lawful permanent resident aliens
 
@@ -50,7 +50,7 @@
 
 #### (D) Limiting pass down for certain countries subject to subsection (e)
 
-&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(a)(2) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying paragraphs (3) and (4) of section 1153(a) of this title under subsection (e)(2) of this section all visas shall be deemed to have been required for the classes specified in paragraphs (1) and (2) of such section.
+&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(a)(2) of this title exceeds the maximum number of visas that may bemade available to immigrants of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying paragraphs (3) and (4) of section 1153(a) of this title under subsection (e)(2) of this section all visas shall be deemed to have been required for the classes specified in paragraphs (1) and (2) of such section.
 
 #### (b) Rules for chargeability
 
@@ -76,7 +76,7 @@ If it is determined that the total number of immigrant visas made available unde
 
 > Nothing in this subsection shall be construed as limiting the number of visas that may be issued to natives of a foreign state or dependent area under section 1153(a) or 1153(b) of this title if there is insufficient demand for visas for such natives under section 1153(b) or 1153(a) of this title, respectively, or as limiting the number of visas that may be issued under section 1153(a)(2)(A) of this title pursuant to subsection (a)(4)(A) of this section.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §202, 66 Stat. 176; Sept. 26, 1961, Pub. L. 87–301, §9, 75 Stat. 654; Oct. 3, 1965, Pub. L. 89–236, §2, 79 Stat. 911; Oct. 20, 1976, Pub. L. 94–571, §3, 90 Stat. 2703; Oct. 5, 1978, Pub. L. 95–412, §2, 92 Stat. 907; Mar. 17, 1980, Pub. L. 96–212, title II, §203(b), 94 Stat. 107; Dec. 29, 1981, Pub. L. 97–116, §§18(c), 20(b), 95 Stat. 1620, 1622; Nov. 6, 1986, Pub. L. 99–603, title III, §311(a), 100 Stat. 3434; Nov. 14, 1986, Pub. L. 99–653, §4, 100 Stat. 3655; Oct. 24, 1988, Pub. L. 100–525, §§8(c), 9(f), 102 Stat. 2617, 2620; Nov. 29, 1990, Pub. L. 101–649, title I, §102, 104 Stat. 4982; Dec. 12, 1991, Pub. L. 102–232, title III, §302(a)(3), 105 Stat. 1742; Sept. 30, 1996, Pub. L. 104–208, div. C, title VI, §633, 110 Stat. 3009–701.)
+(June 27, 1952, ch. 477, title II, ch. 1, §202, 66 Stat. 176; Pub. L. 87–301, §9, Sept. 26, 1961, 75 Stat. 654; Pub. L. 89–236, §2, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §3, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §2, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(b), Mar. 17, 1980, 94 Stat. 107; Pub. L. 97–116, §§18(c), 20(b), Dec. 29, 1981, 95 Stat. 1620, 1622; Pub. L. 99–603, title III, §311(a), Nov. 6, 1986, 100 Stat. 3434; Pub. L. 99–653, §4, Nov. 14, 1986, 100 Stat. 3655; Pub. L. 100–525, §§8(c), 9(f), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 101–649, title I, §102, Nov. 29, 1990, 104 Stat. 4982; Pub. L. 102–232, title III, §302(a)(3), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 104–208, div. C, title VI, §633, Sept. 30, 1996, 110 Stat. 3009–701.)
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 101–649 effective Oct. 1, 1991, and applicable beginning 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 8(c) of Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, seesection 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
+Amendment by section 8(c) of Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendments
 

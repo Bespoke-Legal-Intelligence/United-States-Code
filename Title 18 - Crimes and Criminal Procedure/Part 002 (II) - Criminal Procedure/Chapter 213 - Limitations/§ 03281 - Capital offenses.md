@@ -2,7 +2,7 @@
 
 An indictment for any offense punishable by death may be found at any time without limitation.
 
-(June 25, 1948, ch. 645, 62 Stat. 827; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330004(16), 108 Stat. 2142.)
+(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 103–322, title XXXIII, §330004(16), Sept. 13, 1994, 108 Stat. 2142.)
 
 #### Historical and Revision Notes
 

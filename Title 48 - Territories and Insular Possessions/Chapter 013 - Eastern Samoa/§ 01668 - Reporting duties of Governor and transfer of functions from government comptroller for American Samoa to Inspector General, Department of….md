@@ -1,8 +1,8 @@
 ### §1668. Reporting duties of Governor and transfer of functions from government comptroller for American Samoa to Inspector General, Department of the Interior
 
-#### (a) Comprehensive annual financial report; contents; transmittal; other reports; written statement of actions taken or contemplated on Federal audit recommendations
+#### (a) Comprehensive annual financial report; contents; other reports
 
-The Governor of American Samoa shall prepare, publish, and submit to the Congress and the Secretary of the Interior a comprehensive annual financial report in conformance with the standards of the National Council on Governmental Accounting within one hundred and twenty days after the close of the fiscal year. The comprehensive annual financial report shall include statistical data as set forth in the standards of the National Council of Governmental Accounting relating to the physical, economic, social, and political characteristics of the government, and any other information required by the Congress. The Governor shall transmit the comprehensive annual financial report to the Inspector General of the Department of the Interior who shall audit it and report his findings to the Congress. The Governor shall also makesuch other reports at such other times as may be required by the Congress or under applicable Federal law. He shall also submit to the Congress, the Secretary of the Interior, and the cognizant Federal auditors a written statement of actions taken or contemplated on Federal audit recommendations within sixty days after the issuance date of the audit report.
+The Governor of American Samoa shall prepare, publish, and submit to the Congress and the Secretary of the Interior a comprehensive annual financial report in conformance with the standards of the National Council on Governmental Accounting within one hundred and twenty days after the close of the fiscal year. The comprehensive annual financial report shallinclude statistical data as set forth in the standards of the National Council of Governmental Accounting relating to the physical, economic, social, and political characteristics of the government, and any other information required by the Congress. The Governor shall also make such other reports at such other times as may be required by the Congress or under applicable Federal law.
 
 #### (b) Functions, powers, and duties transferred
 
@@ -20,7 +20,7 @@ The authority granted in paragraph (b) of this section shall extend to all activ
 
 In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
-(Pub. L. 96–205, title V, §501, as added Pub. L. 97–357, title IV, §402, Oct. 19, 1982, 96 Stat. 1711.)
+(Pub. L. 96–205, title V, §501, as added Pub. L. 97–357, title IV, §402, Oct. 19, 1982, 96 Stat. 1711; amended Pub. L. 105–362, title IX, §901(<i>o</i>), Nov. 10, 1998, 112 Stat. 3291.)
 
 #### References in Text
 
@@ -29,4 +29,8 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 #### Prior Provisions
 
 A prior section 1668, Pub. L. 96–205, title V, §501, Mar. 12, 1980, 94 Stat. 90, mandated payment of salary and expenses of the government comptroller for American Samoa from funds appropriated to the Department of the Interior, prior to repeal by Pub. L. 97–357, §402.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–362 struck out “The Governor shall transmit the comprehensive annual financial report to the Inspector General of the Department of the Interior who shall audit it and report his findings to the Congress.” after “other information required by the Congress.” and “He shall also submit to the Congress, the Secretary of the Interior, and the cognizant Federal auditors a written statement of actions taken or contemplated on Federal audit recommendations within sixty days after the issuance date of the audit report.” after “under applicable Federal law.”
 

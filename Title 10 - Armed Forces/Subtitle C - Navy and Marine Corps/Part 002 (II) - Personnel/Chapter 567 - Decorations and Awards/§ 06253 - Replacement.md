@@ -1,6 +1,6 @@
 ### §6253. Replacement
 
-The Secretary of the Navy may replace without charge any medal of honor, Navy cross, distinguished-service medal, silver star medal, or Navy and Marine Corps Medal, or any associated bar, emblem, or insignia awarded under this chapter that is lost or destroyed or becomesunfit for use without fault or neglect on the part of the person to whom it was awarded.
+The Secretary of the Navy may replace without charge any medal of honor, Navy cross, distinguished-service medal, silver star medal, or Navy and Marine Corps Medal, or any associated bar, emblem, or insignia awarded under this chapter that is lost or destroyed or becomes unfit for use without fault or neglect on the part of the person to whom it was awarded.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 391.)
 

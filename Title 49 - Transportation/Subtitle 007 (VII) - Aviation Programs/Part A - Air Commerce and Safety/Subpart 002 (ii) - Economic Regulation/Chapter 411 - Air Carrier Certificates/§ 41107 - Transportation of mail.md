@@ -1,12 +1,8 @@
 ### §41107. Transportation of mail
 
-When the United States Postal Service finds that the needs of the Postal Service require the transportation of mail by aircraft in foreign air transportation or between places in Alaska, in addition to the transportation of mail authorized under certificates in effect, the Postal Service shall certify that finding to the Secretary of Transportation with a statement about the additional transportation and facilities necessary to provide the additional transportation. A copy of each certification and statement shall be posted for at least 20 days in the office of the Secretary. After notice and an opportunity for a hearing, the Secretary shall issue a new certificate under section 41102 of this title, or amend or modify an existing certificate under section 41110(a)(2)(A) of this title, to provide the additional transportation and facilities if the Secretary finds the additional transportation is required by the public convenience and necessity.
+When the United States Postal Service finds that the needs of the Postal Service require the transportation of mail by aircraft in foreign air transportation, in addition to the transportation of mail authorized under certificates in effect, the Postal Service shall certify that finding to the Secretary of Transportation with a statement about the additional transportation and facilities necessary to provide the additional transportation. A copy of each certification and statement shall be posted for at least 20 days in the office of the Secretary. After notice and an opportunity for a hearing, the Secretary shall issue a new certificate under section 41102 of this title, or amend or modify an existing certificate under section 41110(a)(2)(A) of this title, to provide the additional transportation and facilities if the Secretary finds the additional transportation is required by the public convenience and necessity.
 
 (Pub. L. 103–272, §§1(e), 4(k)(1), July 5, 1994, 108 Stat. 1121, 1370.)
-
-#### Amendment of Section
-
-<i>Pub. L. 103–272, §4(k)(1), July 5, 1994, 108 Stat. 1370, provided that, effective Jan. 1, 1999, this section is amended by substituting “transportation” for “transportation or between places in Alaska”.</i>
 
 Historical and Revision Notes
 
@@ -57,6 +53,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(8); added Oct. 4, 1984,
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984, Pub. L. 98–443, §3(f), 98 Stat. 1704; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §1601(b)(3) of Federal Aviation Act of 1958), 102 Stat. 2155.
 
 Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
+
+#### Amendments
+
+1994—Pub. L. 103–272, §4(k)(1), substituted “foreign air transportation,” for “foreign air transportation or between places in Alaska,”.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary is authorized to enter into and perform such contracts, leases, cooperative agreements, or other similar transactions withpublic agencies and private organizations and persons, and to make such payments (in lump sum or installments, and by way of advance or reimbursement) as he may deem to be necessary or appropriate to carry out functions now or hereafter vested in the Secretary.
+The Secretary is authorized to enter into and perform such contracts, leases, cooperative agreements, or other similar transactions with public agencies and private organizations and persons, and to make such payments (in lump sum or installments, and by way of advance or reimbursement) as he may deem to be necessary or appropriate to carry out functions now or hereafter vested in the Secretary.
 
 #### (b) Limitation on authority; appropriations
 
@@ -22,7 +22,7 @@ The Secretary may lease, upon terms and conditions the Secretary considers appro
 
 (1) A lease entered into under subsection (c) of this section may not be for a term of more than 10 years, except that the Secretary may enter into a lease that includes an option to renew for a term of more than 10 years if the Secretary determines that entering into such a lease will promote the national security or be in the public interest.
 
-(2) A lease entered into under subsection (c) of this section may provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is less than the fair market rental value of the leasehold interest. Services relating to the protection and maintenance of the leased property may constitute all or part of such consideration.
+(2) A lease entered into under subsection (c) of this section may provide for the payment (incash or in kind) by the lessee of consideration in an amount that is less than the fair market rental value of the leasehold interest. Services relating to the protection and maintenance of the leased property may constitute all or part of such consideration.
 
 #### (e) Environmental concerns
 
@@ -82,7 +82,7 @@ Applicability of Disposal Authority.—Nothing in this section shall be construe
 
 “(e)
 
-Report.—Not later than January 31, 1999, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] a report on amounts retained by the Secretary under subsection (b) during fiscal year 1998.”
+Report.—Not later than January 31, 1999, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on amounts retained by the Secretary under subsection (b) during fiscal year 1998.”
 
 #### Contract Goal for Small Disadvantaged Businesses and Certain Institutions of Higher Education
 

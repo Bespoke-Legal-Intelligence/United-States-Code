@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(F) enjoying the goods, services, facilities, privileges, advantages, or accommodations of any inn, hotel, motel, or other establishment which provides lodging to transient guests, or of any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility which serves the public and which is principally engaged in selling food or beverages for consumption on the premises, or of any gasoline station, or of any motion picture house, theater, concert hall, sports arena, stadium, or any other place of exhibition or entertainment which serves the public, or of any other establishment which serves the public and (i) which is located within the premises of any of the aforesaid establishments or within the premises of which is physically located any of the aforesaid establishments, and (ii) which holds itself out as serving patrons of such establishments; or
 
-&emsp;(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sells or where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
+&emsp;(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sellsor where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
 
 &emsp;(4) any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(B) affording another person or class of persons opportunity or protection to so participate; or
 
-&emsp;(5) any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through\(2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
+&emsp;(5) any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through (2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
 
 > shall be fined under this title, or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under this title, or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death. As used in this section, the term “participating lawfully in speech or peaceful assembly” shall not mean the aiding, abetting, or inciting of other persons to riot or to commit any act of physical violence upon any individual or against any real or personal property in furtherance of a riot. Nothing in subparagraph (2)(F) or (4)(A) of this subsection shall apply to the proprietor of any establishment which provides lodging to transient guests, or to any employee acting on behalf of such proprietor, with respect to the enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of such establishment if such establishment is located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor as his residence.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Fair Housing
 
-Section 101(b) of Pub. L. 90–284 provided that: “Nothing contained in this section \[enacting this section\] shall apply to or affect activities under title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\].”
+Section 101(b) of Pub. L. 90–284 provided that: “Nothing contained in this section \[enacting this section\] shall apply to or affect activities under title VIII ofthis Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\].”
 
 #### Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section
 

@@ -6,7 +6,7 @@ Establishment.—The Secretary of Transportation shall establish one facility fo
 
 (b)
 
-Operation and Maintenance.—The Secretary shall make a contract with a qualified person to operate and maintain the facility. The contract may provide for the testing of rail cars and other vehicles at the facility.
+Operation and Maintenance.—The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, a qualified person or organization to operate and maintain the facility. The contract, cooperative agreement, or grant may provide for the testing of rail cars and other mass transportation vehicles at the facility.
 
 (c)
 
@@ -14,13 +14,13 @@ Fees.—The person operating and maintaining the facility shall establish and co
 
 (d)
 
-Availability of Amounts To Pay for Testing.—The Secretary shall make a contract with the operator of the facility under which the Secretary shall pay 80 percent of the cost of testing a vehicle at the facility from amounts available under section 5338(j)(5) of this title. The entity having the vehicle tested shall pay 20 percent of the cost.
+Availability of Amounts To Pay for Testing.—The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, the operator of the facility under which the Secretary shall pay 80 percent of the cost of testing a vehicle at the facility from amounts available under section 5309(m)(1)(C) of this title. The entity having the vehicle tested shall pay 20 percent of the cost.
 
 (e)
 
 Revolving Loan Fund.—The Secretary has a bus testing revolving loan fund consisting of amounts authorized for the fund under section 317(b)(5) of the Surface Transportation and Uniform Relocation Assistance Act of 1987. The Secretary shall make available as repayable advances from the fund to the person operating and maintaining the facility amounts to operate and maintain the facility.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 817; Pub. L. 103–429, §6(8), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 817; Pub. L. 103–429, §6(8), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title III, §§3018, 3029(b)(8), June 9, 1998, 112 Stat. 361, 372.)
 
 Historical and Revision Notes
 
@@ -86,6 +86,10 @@ Section 317(b)(5) of the Surface Transportation and Uniform Relocation Assistanc
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–178, §3018(a), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and inserted “or organization” after “qualified person”, “, cooperative agreement, or grant” after “The contract”, and “mass transportation” after “and other”.
+
+Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and “5309(m)(1)(C) of this title” for “5338(j)(5) of this title”.
+
 1994—Subsec. (e). Pub. L. 103–429 inserted “Uniform” before “Relocation”.
 
 #### Effective Date of 1994 Amendment
@@ -94,5 +98,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5323, 5333, 5336, 5338 of this title.
+This section is referred to in sections 5307, 5309, 5323, 5333, 5336 of this title.
 

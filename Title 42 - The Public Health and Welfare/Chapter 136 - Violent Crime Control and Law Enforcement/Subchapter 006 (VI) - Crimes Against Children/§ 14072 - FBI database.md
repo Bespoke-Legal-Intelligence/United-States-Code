@@ -6,7 +6,7 @@ For purposes of this section—
 
 &emsp;(1) the term “FBI” means the Federal Bureau of Investigation;
 
-&emsp;(2) the terms “criminal offense against a victim who is a minor”, “sexually violent offense”, “sexually violent predator”, “mental abnormality”, “predatory”, “employed, or carries on a vocation”, and “student” have the same meanings as in section 14071(a)(3) of this title; and
+&emsp;(2) the terms “criminal offense against a victim who is a minor”, “sexually violent offense”, “sexually violent predator”, “mentalabnormality”, “predatory”, “employed, carries on a vocation”, and “student” have the same meanings as in section 14071(a)(3) of this title; and
 
 &emsp;(3) the term “minimally sufficient sexual offender registration program” means any State sexual offender registration program that—
 
@@ -78,7 +78,7 @@ A person described in subsection (b) of this section who is required to register
 
 #### (3) Individual registration requirement
 
-&emsp;A person required to register under subsection (c) of this section or under a minimally sufficient offender registration program, including a program established under section 14071 of this title, who changes address to a State other than the State in which the person resided at the time of the immediately preceding registration shall, not later than 10 days after that person establishes a new residence, register a current address, fingerprints, and photograph of that person, for inclusion in the appropriate database, with—
+&emsp;A person required to register under subsection (c) of this section or under a State sexual offender offender <sup>2</sup> registration program, including a program established under section 14071 of this title, who changes address to a State other than the State in which the person resided at the time of the immediately preceding registration shall, not later than 10 days after that person establishes a new residence, register a current address, fingerprints, and photograph of that person, for inclusion in the appropriate database, with—
 
 &emsp;&emsp;(A) the FBI; and
 
@@ -128,15 +128,15 @@ A person described in subsection (b) of this section who is required to register
 
 #### (i) Penalty
 
-A person required to register under paragraph (1), (2), or (3) of subsection (g) of this section or pursuant to section 14071(b)(7) of this title who knowingly fails to comply with this section shall—
+A person who is—
 
-&emsp;(1) in the case of a first offense—
+&emsp;(1) required to register under paragraph (1), (2), or (3) of subsection (g) of this section and knowingly fails to comply with this section;
 
-&emsp;&emsp;(A) if the person has been convicted of 1 offense described in subsection (b) of this section, be fined not more than $100,000; or
+&emsp;(2) required to register under a sexual offender registration program in the person's State of residence and knowingly fails to register in any other State in which the person is employed, carries on a vocation, or is a student;
 
-&emsp;&emsp;(B) if the person has been convicted of more than 1 offense described in subsection (b) of this section, be imprisoned for up to 1 year and fined not more than $100,000; or
+&emsp;(3) described in section 4042(c)(4) of title 18, and knowingly fails to register in any State in which the person resides, is employed, carries on a vocation, or is a student following release from prison or sentencing to probation; or
 
-&emsp;(2) in the case of a second or subsequent offense, be imprisoned for up to 10 years and fined not more than $100,000.
+&emsp;(4) sentenced by a court martial for conduct in a category specified by the Secretary of Defense under section 115(a)(8)(C) of title I of Public Law 105–119, and knowingly fails to register in any State in which the person resides, is employed, carries on a vocation, or is a student following release from prison or sentencing to probation, shall, in the case of a first offense under this subsection, be imprisoned for not more than 1 year and, in the case of a second or subsequent offense under this subsection, be imprisoned for not more than 10 years.
 
 #### (j) Release of information
 
@@ -146,7 +146,7 @@ The information collected by the FBI under this section shall be disclosed by th
 
 &emsp;&emsp;(A) law enforcement purposes; and
 
-&emsp;&emsp;(B) community notification in accordance with section 14071(d)(3) <sup>2</sup> of this title; and
+&emsp;&emsp;(B) community notification in accordance with section 14071(d)(3) <sup>3</sup> of this title; and
 
 &emsp;(2) to Federal, State, and local governmental agencies responsible for conducting employment-related background checks under section 5119a of this title.
 
@@ -158,13 +158,29 @@ Any State not having established a program described in subsection (a)(3) of thi
 
 &emsp;(2) notify the FBI of the release of each offender who is convicted of an offense described in subparagraph (A) or (B) of section 14071(a)(1) of this title.
 
-(Pub. L. 103–322, title XVII, §170102, as added Pub. L. 104–236, §2(a), Oct. 3, 1996, 110 Stat. 3093; amended Pub. L. 105–119, title I, §115(a)(6), Nov. 26, 1997, 111 Stat. 2463.)
+(Pub. L. 103–322, title XVII, §170102, as added Pub. L. 104–236, §2(a), Oct. 3, 1996, 110 Stat. 3093; amended Pub. L. 105–119, title I, §115(a)(6), Nov. 26, 1997, 111 Stat. 2463; Pub. L. 105–277, div. A, §101(b) \[title I, §123\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72.)
 
 #### References in Text
+
+Section 115(a)(8)(C) of title I of Public Law 105–119, referred to in subsec. (i)(4), is set out as a note under section 951 of Title 10, Armed Forces.
 
 Section 14071(d)(3) of this title, referred to in subsec. (j)(1)(B), was redesignated section 14071(e)(3) of this title by Pub. L. 105–119, title I, §115(a)(3), Nov. 26, 1997, 111 Stat. 2463.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–277, §101(b) \[title I, §123(1)\], struck out “or” after “ ‘employed,”.
+
+Subsec. (g)(3). Pub. L. 105–277, §101(b) \[title I, §123(2)\], substituted “State sexual offender” for “minimally sufficient” in introductory provisions.
+
+Subsec. (i). Pub. L. 105–277, §101(b) \[title I, §123(3)\], amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “A person required to register under paragraph (1), (2), or (3) of subsection (g) of this section or pursuant to section 14071(b)(7) of this title who knowingly fails to comply with this section shall—
+
+&emsp;“(1) in the case of a first offense—
+
+&emsp;&emsp;“(A) if the person has been convicted of 1 offense described in subsection (b) of this section, be fined not more than $100,000; or
+
+&emsp;&emsp;“(B) if the person has been convicted of more than 1 offense described in subsection (b) of this section, be imprisoned for up to 1 year and fined not more than $100,000; or
+
+&emsp;“(2) in the case of a second or subsequent offense, be imprisoned for up to 10 years and fined not more than $100,000.”
 
 1997—Subsec. (a)(2). Pub. L. 105–119, §115(a)(6)(A), substituted “ ‘predatory’, ‘employed, or carries on a vocation’, and ‘student’ ” for “and ‘predatory’ ”.
 
@@ -186,5 +202,7 @@ This section is referred to in section 14071 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 (b) Time required to be made up under section 972(a) of this title may not be counted in determining years of service under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 228; Sept. 2, 1958, Pub. L. 85–861, §1(97), 72 Stat. 1488; Sept. 8, 1980, Pub. L. 96–343, §9(a)(2), 94 Stat. 1128; July 1, 1986, Pub. L. 99–348, title II, §202(c), 100 Stat. 695; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(a)(1), 108 Stat. 2788; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §561(d)(2)(A), 110 Stat. 322.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 228; Pub. L. 85–861, §1(97), Sept. 2, 1958, 72 Stat. 1488; Pub. L. 96–343, §9(a)(2), Sept. 8, 1980, 94 Stat. 1128; Pub. L. 99–348, title II, §202(c), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(a)(1), Oct. 5, 1994, 108 Stat. 2788; Pub. L. 104–106, div. A, title V, §561(d)(2)(A), Feb. 10, 1996, 110 Stat. 322.)
 
 Historical and Revision Notes<br>1956
 
@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 96–343, §9(a)(2)(B), substituted “an enlisted” for �
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 #### Effective Date of 1994 Amendment
 

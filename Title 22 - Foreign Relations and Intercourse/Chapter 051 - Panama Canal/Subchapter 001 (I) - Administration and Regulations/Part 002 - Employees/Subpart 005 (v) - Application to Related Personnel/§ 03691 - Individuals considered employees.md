@@ -2,7 +2,7 @@
 
 #### (a) Individuals considered employees for purposes of certain sections
 
-For the purposes of sections 3646, 3671, and 3672 of this title, including any amendment made by sections 1231, 1241, and 1242 of this Act, the United States Attorney for the District of the Canal Zone and the Assistant United States Attorneys and their clerical assistants, and the United States Marshal for the District of the Canal Zone and his deputies and clerical assistants shall be considered employees of the Commission.
+For the purposes of sections 3646,<sup>1</sup> 3671, and 3672 of this title, including any amendment made by sections 1231, 1241, and 1242 of this Act, the United States Attorney for the District of the Canal Zone and the Assistant United States Attorneys and their clerical assistants, and the United States Marshal for the District of the Canal Zone and his deputies and clerical assistants shall be considered employees of the Commission.
 
 #### (b) Individuals considered employees for certain purposes
 
@@ -11,6 +11,8 @@ For the purposes of this Act, including any amendment made by this Act, the Exec
 (Pub. L. 96–70, title I, §1261(a), (b), Sept. 27, 1979, 93 Stat. 476.)
 
 #### References in Text
+
+Section 3646 of this title, referred to in subsec. (a), was repealed by Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 Section 1231 of this Act, referred to in subsec. (a), amended sections 5595, 5724a, and 8102 of Title 5, Government Organization and Employees.
 

@@ -1,6 +1,6 @@
 ### §770. Rectangular mode of survey; departure from
 
-The Secretary of the Interior may, by regulation, provide that departures may be made from the system of rectangular surveys whenever it is not feasible or economical to extend the rectangular surveys in the regular manner or wheneversuch departure would promote the beneficial use of lands.
+The Secretary of the Interior may, by regulation, provide that departures may be made from the system of rectangular surveys whenever it is not feasible or economical to extend the rectangular surveys in the regular manner or whenever such departure would promote the beneficial use of lands.
 
 (R.S. §2410; Apr. 29, 1950, ch. 134, §2, 64 Stat. 93.)
 

@@ -48,7 +48,7 @@ The Director shall consult with the Commission on Alternative Utilization of Mil
 
 #### References in Text
 
-The Commission on Alternative Utilization of Military Facilities, referred to in subsec. (c), was created by section 2819 of Pub. L. 100–456, as amended, which is set out as a note under section 2391 of Title 10, Armed Forces.
+The Commission on Alternative Utilization of Military Facilities, referred to in subsec. (c), was created by section 2819 of Pub. L. 100–456, as amended, which was set out as a note under section 2391 of Title 10, Armed Forces, prior to repeal by Pub. L. 105–261, div. A, title X, §1031(b), Oct. 17, 1998, 112 Stat. 2123.
 
 #### Prior Provisions
 

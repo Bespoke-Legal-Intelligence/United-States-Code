@@ -8,7 +8,7 @@ The Federal Trade Commission shall have power and jurisdiction over any matter i
 
 &emsp;(1) When the Secretary in the exercise of his duties requests of the Commission that it make investigations and reports in any case.
 
-&emsp;(2) In any investigation of, or proceeding for the prevention of, an alleged violation of anyAct administered by the Commission, arising out of acts or transactions involving meat, meat food products, or livestock products in unmanufactured form, if the Commission determines that effective exercise of its power or jurisdiction with respect to retail sales of any such commodities is or will be impaired by the absence of power or jurisdiction over all acts or transactions involving such commodities in such investigation or proceeding. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Commissioner shall notify the Secretary of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with regard to acts or transactions (other than retail sales) involving such commodities if the Secretary within ten days from the date of receipt of the notice notifies the Commission that there is pending in his Department an investigation of, or proceeding for the prevention of, an alleged violation of this chapter involving the same subject matter.
+&emsp;(2) In any investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission, arising out of acts or transactions involving meat, meat food products, or livestock products in unmanufactured form, if the Commission determines that effective exercise of its power or jurisdiction with respect to retail sales of any such commodities is or will be impaired by the absence of power or jurisdiction over all acts or transactions involving such commodities in such investigation or proceeding. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Commissioner shall notify the Secretary of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with regard to acts or transactions (other than retail sales) involving such commodities if the Secretary within ten days from the date of receipt of the notice notifies the Commission that there is pending in his Department an investigation of, or proceeding for the prevention of, an alleged violation of this chapter involving the same subject matter.
 
 &emsp;(3) Over all transactions in commerce in margarine, oleomargarine, or poultry products and over retail sales of meat, meat food products and livestock products in unmanufactured form.
 
@@ -28,7 +28,7 @@ The Secretary of Agriculture shall exercise jurisdiction over poultry products o
 
 The Secretary of Agriculture and the Federal Trade Commission shall include in their respective annual reports information with respect to the administration of subsections (b), (d), and (e) of this section.
 
-(Aug. 15, 1921, ch. 64, title IV, §406, 42 Stat. 169; Sept. 2, 1958, Pub. L. 85–909, §1(2), 72 Stat. 1749; Nov. 23, 1987, Pub. L. 100–173, §7, 101 Stat. 919; Dec. 13, 1991, Pub. L. 102–237, title X, §1008(2), 105 Stat. 1898.)
+(Aug. 15, 1921, ch. 64, title IV, §406, 42 Stat. 169; Pub. L. 85–909, §1(2), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 100–173, §7, Nov. 23, 1987, 101 Stat. 919; Pub. L. 102–237, title X, §1008(2), Dec. 13, 1991, 105 Stat. 1898.)
 
 #### Codification
 
@@ -42,7 +42,7 @@ Subsection (a) of section 406 is classified to section 226 of this title.
 
 Pub. L. 100–173, §7(1)(A)(i), struck out “or poultry products” after “in unmanufactured form,”.
 
-Subsec. (b)(3). Pub. L. 100–173, §7(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Over all transactions in commerce in margarine or oleomargarine and over retail sales of meat, meat food products, livestock products in unmanufactured form, and poultry products.”
+Subsec. (b)(3). Pub. L. 100–173, §7(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Over all transactions in commerce in margarineor oleomargarine and over retail sales of meat, meat food products, livestock products in unmanufactured form, and poultry products.”
 
 Subsec. (d). Pub. L. 100–173, §7(2), amended subsec. (d) generally, striking out reference to poultry products in two places and substituting “10 days” for “ten days”.
 

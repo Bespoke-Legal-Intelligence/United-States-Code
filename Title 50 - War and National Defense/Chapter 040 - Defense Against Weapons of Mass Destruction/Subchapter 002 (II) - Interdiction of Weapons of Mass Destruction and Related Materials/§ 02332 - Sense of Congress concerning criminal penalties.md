@@ -16,9 +16,13 @@ Congress urges the United States Sentencing Commission to revise the relevant se
 
 &emsp;(4) Section 2139a(c) of title 42.
 
-(Pub. L. 104–201, div. A, title XIV, §1423, Sept. 23, 1996, 110 Stat. 2725.)
+(Pub. L. 104–201, div. A, title XIV, §1423, Sept. 23, 1996, 110 Stat. 2725; Pub. L. 105–261, div. A, title X, §1069(c)(1), Oct. 17, 1998, 112 Stat. 2136.)
 
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(4). Pub. L. 105–261 made technical amendment to reference in original act which appears in text as reference to section 2139a(c) of title 42.
 

@@ -2,7 +2,7 @@
 
 As used in this chapter:
 
-&emsp;(1) The term “high potential historic sites” means those historic sites related to the route, or sites in close proximity thereto, which provide opportunity to interpret the historic significance of the trail during the period of its major use. Criteria for consideration as high potential sites include historic significance, presence of visible historic remnants, scenic quality, and relative freedom from intrusion.
+&emsp;(1) The term “high potential historic sites” means those historic sites related to the route, or sites in close proximity thereto, which provide opportunity to interpret the historic significance of the trail during the period of itsmajor use. Criteria for consideration as high potential sites include historic significance, presence of visible historic remnants, scenic quality, and relative freedom from intrusion.
 
 &emsp;(2) The term “high potential route segments” means those segments of a trail which would afford high quality recreation experience in a portion of the route having greater than average scenic values or affording an opportunity to vicariously share the experience of the original users of a historic route.
 

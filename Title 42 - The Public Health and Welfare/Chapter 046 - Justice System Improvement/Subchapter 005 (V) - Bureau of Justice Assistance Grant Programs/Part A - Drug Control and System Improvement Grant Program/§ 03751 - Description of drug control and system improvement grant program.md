@@ -116,6 +116,150 @@ Subsec. (b)(25). Pub. L. 103–322, §210302(a), added par. (25).
 
 Section 210302(c)(4) of Pub. L. 103–322 provided that: “The amendments made by this section \[enacting subchapter XII–L of this chapter and amending this section and sections 3753, 3793, and 3797 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act \[Sept. 13, 1994\].”
 
+#### Drug-Free Prisons and Jails
+
+Pub. L. 105–277, div. D, title I, subtitle B, Oct. 21, 1998, 112 Stat. 2681–753, provided that:
+
+#### “SEC. 111. SHORT TITLE.
+
+“This subtitle may be cited as the ‘Drug-Free Prisons and Jails Act of 1998’.
+
+#### “SEC. 112. PURPOSE.
+
+“The purpose of this subtitle is to provide for the establishment of model programs for comprehensive treatment of substance-involved offenders in the criminal justice system to reduce drug abuse and drug-related crime, and reduce the costs of the criminal justice system, that can be successfully replicated by States and local units of government through a comprehensive evaluation.
+
+#### “SEC. 113. PROGRAM AUTHORIZATION.
+
+“(a)
+
+Establishment.—The Director of the Bureau of Justice Assistance shall establish a model substance abuse treatment program for substance-involved offenders by—
+
+&emsp;“(1) providing financial assistance to grant recipients selected in accordance with section 114(b); and
+
+&emsp;“(2) evaluating the success of programs conducted pursuant to this subtitle.
+
+“(b)
+
+Grant Awards.—The Director may award not more than 5 grants to units of local government and not more than 5 grants to States.
+
+“(c)
+
+Administrative Costs.—Not more than 5 percent of a grant award made pursuant to this subtitle may be used for administrative costs.
+
+#### “SEC. 114. GRANT APPLICATION.
+
+“(a)
+
+Contents.—An application submitted by a unit of local government or a State for a grant award under this subtitle shall include each of the following:
+
+&emsp;“(1)
+
+Strategy.—A strategy to coordinate programs and services for substance-involved offenders provided by the unit of local government or the State, as the case may be, developed in consultation with representatives from all components of the criminal justice system within the jurisdiction, including judges, law enforcement personnel, prosecutors, corrections personnel, probation personnel, parole personnel, substance abuse treatment personnel, and substance abuse prevention personnel.
+
+&emsp;“(2)
+
+Certification.—A certification that—
+
+&emsp;&emsp;“(A) Federal funds made available under this subtitle will not be used to supplant State or local funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for law enforcement activities; and
+
+&emsp;&emsp;“(B) the programs developed pursuant to this subtitle meet all requirements of this subtitle.
+
+“(b)
+
+Review and Approval.—Subject to section 113(b), the Director shall approve applications and make grant awards to units of local governments and States that show the most promise for accomplishing the purposes of this subtitle consistent with the provisions of section 115.
+
+#### “SEC. 115. USES OF FUNDS.
+
+“A unit of local government or State that receives a grant award under this subtitle shall use such funds to provide comprehensive treatment programs to inmates in prisons or jails, including not less than 3 of the following:
+
+&emsp;“(1) Tailored treatment programs to meet the special needs of different types of substance-involved offenders.
+
+&emsp;“(2) Random and frequent drug testing, including a system of sanctions.
+
+&emsp;“(3) Training and assistance for corrections officers and personnel to assist substance-involved offenders in correctional facilities.
+
+&emsp;“(4) Clinical assessment of incoming substance-involved offenders.
+
+&emsp;“(5) Availability of religious and spiritual activity and counseling to provide an environment that encourages recovery from substance involvement in correctional facilities.
+
+&emsp;“(6) Education and vocational training.
+
+&emsp;“(7) A substance-free correctional facility policy.
+
+#### “SEC. 116. EVALUATION AND RECOMMENDATION REPORT TO CONGRESS.
+
+“(a)
+
+Evaluation.—
+
+&emsp;“(1)
+
+In general.—The Director shall enter into a contract, with an evaluating agency that has demonstrated experience in the evaluation of substance abuse treatment, to conduct an evaluation that incorporates the criteria described in paragraph (2).
+
+&emsp;“(2)
+
+Evaluation criteria.—The Director, in consultation with the Directors of the appropriate National Institutes of Health, shall establish minimum criteria for evaluating each program. Such criteria shall include—
+
+&emsp;&emsp;“(A) reducing substance abuse among participants;
+
+&emsp;&emsp;“(B) reducing recidivism among participants;
+
+&emsp;&emsp;“(C) cost effectiveness of providing services to participants; and
+
+&emsp;&emsp;“(D) a data collection system that will produce data comparable to that used by the Office of Applied Studies of the Substance Abuse and Mental Health Services Administration and the Bureau of Justice Statistics of the Office of Justice Programs.
+
+“(b)
+
+Report.—The Director shall submit to the appropriate committees, at the same time as the President's budget for fiscal year 2001 is submitted, a report that—
+
+&emsp;“(1) describes the activities funded by grant awards under this subtitle;
+
+&emsp;“(2) includes the evaluation submitted pursuant to subsection (a); and
+
+&emsp;“(3) makes recommendations regarding revisions to the authorization of the program, including extension, expansion, application requirements, reduction, and termination.
+
+#### “SEC. 117. DEFINITIONS.
+
+“In this subtitle:
+
+&emsp;“(1)
+
+Appropriate committees.—The term ‘appropriate committees’ means the Committees on the Judiciary and the Committees on Appropriations of the House of Representatives and the Senate.
+
+&emsp;“(2)
+
+Director.—The term ‘Director’ means the Director of the Bureau of Justice Assistance.
+
+&emsp;“(3)
+
+Substance-involved offender.—The term ‘substance-involved offender’ means an individualunder the supervision of a State or local criminal justice system, awaiting trial or serving a sentence imposed by the criminal justice system, who—
+
+&emsp;&emsp;“(A) violated or has been arrested for violating a drug or alcohol law;
+
+&emsp;&emsp;“(B) was under the influence of alcohol or an illegal drug at the time the crime was committed;
+
+&emsp;&emsp;“(C) stole property to buy illegal drugs; or
+
+&emsp;&emsp;“(D) has a history of substance abuse and addiction.
+
+&emsp;“(4)
+
+Unit of local government.—The term ‘unit of local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior and any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands.
+
+#### “SEC. 118. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—There are authorized to be appropriated to carry out this subtitle from the Violent Crime Reduction Trust Fund as authorized by title 31 of the Violent Crime and Control and Law Enforcement Act of 1994 (42 U.S.C. 14211)—
+
+&emsp;“(1) for fiscal year 1999, $30,000,000; and
+
+&emsp;“(2) for fiscal year 2000, $20,000,000.
+
+“(b)
+
+Reservation.—The Director may reserve each fiscal year not more than 20 percent of the funds appropriated pursuant to subsection (a) for activities required under section 116.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3754, 3756, 3760, 3766, 3782 of this title.

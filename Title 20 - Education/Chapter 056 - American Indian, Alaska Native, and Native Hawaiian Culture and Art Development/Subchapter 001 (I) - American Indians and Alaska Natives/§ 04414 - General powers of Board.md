@@ -28,7 +28,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(12) to the extent not already provided by law, to obtain insurance to cover all activities of the Institute, including coverage relating to property and liability, or make other provisions against losses;
 
-&emsp;(13) to use any funds or property received by the Institute to carry out the purpose of this chapter, including the authority to designate on an annual basis a portion, not to exceed 10 percent, of the funds appropriated pursuant to section 4451 of this title for investment, without regard to any other provision of law regarding investment or disposition of federally appropriated funds, on a short-term basis for the purpose of maximizing yield and liquidity of such funds; and
+&emsp;(13) to use any funds or property received by the Institute to carry out the purpose of this chapter, including the authority to designate on an annual basis a portion, not to exceed 10 percent, of the funds appropriated pursuant to section 4451 of this title for investment, without regard to any other provision of law regarding investment or disposition of federallyappropriated funds, on a short-term basis for the purpose of maximizing yield and liquidity of such funds; and
 
 &emsp;(14) to exercise all other lawful powers necessarily or reasonably related to the establishment of the Institute in order to carry out the provisions of this chapter and the exercise of the powers, purposes, functions, duties, and authorized activities of the Institute.
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 101–644, §501(a), added subsec. (c).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “contracts”.</i>
 

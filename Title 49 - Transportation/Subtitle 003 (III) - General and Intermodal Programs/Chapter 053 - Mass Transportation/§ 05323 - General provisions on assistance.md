@@ -34,13 +34,13 @@ Acquiring New Bus Models.—Amounts appropriated or made available under this ch
 
 (d)
 
-Buying and Operating Buses.—(1) Financial assistance under this chapter may be used to buy or operate a bus only if the applicant, governmental authority, or publicly owned operator that receives the assistance agrees that, except as provided in the agreement, the governmental authority or an operator of mass transportation for the governmental authority will not provide charter bus transportation service outside the urban area in which it provides regularly scheduled mass transportation service. An agreement shall provide for a fair arrangementthe Secretary of Transportation considers appropriate to ensure that the assistance will not enable a governmental authority or an operator for a governmental authority to foreclose a private operator from providing intercity charter bus service if the private operator can provide the service.
+Condition on Charter Bus Transportation Service.—(1) Financial assistance under this chapter may be used to buy or operate a bus only if the applicant, governmental authority, or publicly owned operator that receives the assistance agrees that, except as provided in the agreement, the governmental authority or an operator of mass transportation for the governmental authority will not provide charter bus transportation service outside the urban area in which it provides regularly scheduled mass transportation service. An agreement shall provide for a fair arrangement the Secretary of Transportation considers appropriate to ensure that the assistance will not enable a governmental authority or an operator for a governmental authority to foreclose a private operator from providing intercity charter bus service if the private operator can provide the service.
 
 (2) On receiving a complaint about a violation of an agreement, the Secretary of Transportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.
 
 (e)
 
-Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
+Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performancespecifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
 
 (f)
 
@@ -56,7 +56,7 @@ Schoolbus Transportation.—(1) Financial assistance under this chapter may be u
 
 (g)
 
-Buying Buses Under Other Laws.—Subsections (d) and (f) of this section apply to financial assistance to buy a bus under sections 103(e)(4) and 142(a) or (c) of title 23. However, subsection (f)(1)(C) of this section applies to sections 103(e)(4) and 142(a) or (c) only if schoolbus transportation was provided at any time after August 12, 1972, but before August 13, 1973.
+Buying Buses Under Other Laws.—Subsections (d) and (f) of this section apply to financial assistance to buy a bus under sections 103(e)(4) <sup>1</sup> and 142(a) or (c) of title 23. However, subsection (f)(1)(C) of this section applies to sections 103(e)(4) <sup>1</sup> and 142(a) or (c) only if schoolbus transportation was provided at any time after August 12, 1972, but before August 13, 1973.
 
 (h)
 
@@ -68,7 +68,7 @@ Grant and Loan Prohibitions.—A grant or loan may not be used to—
 
 (i)
 
-Government's Share of Costs for Certain Projects.—A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment.
+Government Share of Costs for Certain Projects.—A grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) or vehicle-related equipment (including clean fuel or alternative fuel vehicle-related equipment) for purposes of complying with or maintaining compliance with the Clean Air Act, is for 90 percent of the net project cost of such equipment attributable to compliance with those Acts. The Secretary shall have discretion to determine, through practicable administrative procedures, the costs of such equipment attributable to compliance with those Acts.
 
 (j)
 
@@ -104,19 +104,37 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (6) The Secretary of Transportation may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
 
-(7) Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted.
+(7)
+
+Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properlycomplete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
 (k)
+
+Participation of Governmental Agencies in Design and Delivery of Transportation Services.—To the extent feasible, governmental agencies and nonprofit organizations that receive assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services—
+
+&emsp;(1) shall participate and coordinate with recipients of assistance under this chapter in the design and delivery of transportation services; and
+
+&emsp;(2) shall be included in the planning for those services.
+
+(<i>l</i>)
 
 Application of Section 135
 
 of Title 23.—The planning and programming requirements of section 135 of title 23 apply to a grant made under sections 5307–5311 of this title.
 
-(<i>l</i>)
+(m)
 
 Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary of Transportation shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390.)
+(n)
+
+Submission of Certifications.—A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2).
+
+(<i>o</i>)
+
+Grant Requirements.—The grant requirements under sections 5307 and 5309 apply to any project under this chapter that receives any assistance or other financing under the Transportation Infrastructure Finance and Innovation Act of 1998.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362.)
 
 Historical and Revision Notes
 
@@ -300,13 +318,29 @@ This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erro
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (i), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+Section 103 of title 23, referred to in subsec. (g), was amended generally by Pub. L. 105–178, title I, §1106(b), June 9, 1998, 112 Stat. 131, and, as so amended, no longer contains a subsec. (e)(4).
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (i), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (i), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+
+The Clean Air Act, referred to in subsec. (i), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (j)(5), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
 
+The Transportation Infrastructure Finance and Innovation Act of 1998, referred to in subsec. (<i>o</i>), is chapter 1 (§§1501–1504) of subtitle E of title I of Pub. L. 105–178, June 9, 1998, 112 Stat. 241, which is classified principally to subchapter II (§181 et seq.) of chapter 1 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
+
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–178, §3020(a), substituted “Condition on Charter Bus Transportation Service” for “Buying and Operating Buses” in heading.
+
+Subsec. (i). Pub. L. 105–178, §3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment.”
+
+Subsec. (j)(7). Pub. L. 105–178, §3020(b), inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted.”
+
+Subsecs. (k) to (m). Pub. L. 105–178, §3020(d), added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+
+Subsec. (n). Pub. L. 105–178, §3020(e), added subsec. (n).
+
+Subsec. (<i>o</i>). Pub. L. 105–178, §3020(f), added subsec. (<i>o</i>).
 
 1996—Subsecs. (b)(1), (c), (e). Pub. L. 104–287 struck out “(except section 5307)” after “under this chapter”.
 
@@ -322,7 +356,21 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Final Assembly of Buses
+
+Pub. L. 105–178, title III, §3035, June 9, 1998, 112 Stat. 387, provided that:
+
+“(a)
+
+In General.—All buses manufactured on or after September 1, 1999, that are purchased with Federal funds by recipients of assistance from the Federal Transit Administration shall conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
+
+“(b)
+
+Rule of Construction.—For purposes of this section, a bus shall be considered to be manufactured on or after September 1, 1999, if the manufacturing process for that bus is not completed on or before August 31, 1999.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5311, 5314, 5324, 5333, 5334, 5336 of this title; title 23 sections 103, 135, 142.
+This section is referred to in sections 5307, 5311, 5314, 5324, 5333, 5334, 5336 of this title; title 23 sections 135, 142.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

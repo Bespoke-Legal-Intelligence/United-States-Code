@@ -60,7 +60,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) based on the information shown in the tables, the Secretary's overall assessment of the deployability of units of the Army National Guard, including a discussion of personnel deficiencies and equipment shortfalls in accordance with such section 1121.
 
-&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the Regular Army under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
+&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the RegularArmy under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
 
 &emsp;&emsp;(A) the number of such inspections;
 

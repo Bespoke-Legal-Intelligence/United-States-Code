@@ -1,6 +1,6 @@
 ### §4203. Destruction of old invoices
 
-The Secretary of State is authorized to cause, from time to time, the destruction of invoicesthat have been filed in the consular offices for a period of more than five years.
+The Secretary of State is authorized to cause, from time to time, the destruction of invoices that have been filed in the consular offices for a period of more than five years.
 
 (Feb. 24, 1903, ch. 753, 32 Stat. 854.)
 

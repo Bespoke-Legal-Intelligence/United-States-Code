@@ -18,7 +18,7 @@
 
 &emsp;(B) notify the transferor that the transferor may appeal the determination to the Secretary.
 
-(4)(A) Upon the appeal of the transferor after a determination described in paragraph (3) is made, the Secretary shall, in a timely manner, review and make a determination (or a redetermination in any case in which the Secretary made the determination described in such paragraph) with respect to whether the loan is current and whether the purchaser of the property meets the requirements of paragraph (1)(B) of this subsection. The Secretary shall transmit, in writing, a notice of the nature of such determination to the transferor and the holder and shall inform them of the action that shall or may be taken under subparagraph (B) of thisparagraph as a result of the determination of the Secretary.
+(4)(A) Upon the appeal of the transferor after a determination described in paragraph (3) is made, the Secretary shall, in a timely manner, review and make a determination (or a redetermination in any case in which the Secretary made the determination described in such paragraph) with respect to whether the loan is current and whether the purchaser of the property meets the requirements of paragraph (1)(B) of this subsection. The Secretary shall transmit, in writing, a notice of the nature of such determination to the transferor and the holder and shall inform them of the action that shall or may be taken under subparagraph (B) of this paragraph as a result of the determination of the Secretary.
 
 (B)(i) If the Secretary determines under subparagraph (A) of this paragraph that the loan is current and that the purchaser meets the requirements of paragraph (1)(B) of this subsection, the holder shall approve the assumption of the loan, and the transferor shall be relieved of all liability to the Secretary with respect to such loan.
 
@@ -52,17 +52,15 @@
 
 &emsp;(A) in the case of loans other than loans to finance the purchase of real property described in section 3733(a)(1) of this title, only to loans for which commitments are made on or after March 1, 1988; and
 
-&emsp;(B) in the case of loans to finance the purchase of such property, only to loans which are closed more than 45 days after the date of the enactment of the Veterans’ Benefits and Programs Improvement Act of 1988.
+&emsp;(B) in the case of loans to finance the purchase of such property, only to loans which are closed after January 1, 1989.
 
 (2) This section shall not apply to a loan which the Secretary has sold without recourse.
 
-(Added Pub. L. 100–198, §10(a)(1), Dec. 21, 1987, 101 Stat. 1321, §1817A; renumbered §1814, Pub. L. 100–322, title IV, §415(b)(2)(B), May 20, 1988, 102 Stat. 551; amended Pub. L. 100–689, title III, §302, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3714 and amended Pub. L. 102–83, §§4(a)(2)(B)(iv), (3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 404, 406.)
-
-#### References in Text
-
-The date of enactment of the Veterans’ Benefits and Programs Improvement Act of 1988, referred to in subsec. (f)(1)(B), is the date of enactment of Pub. L. 100–689, which was approved Nov. 18, 1988.
+(Added Pub. L. 100–198, §10(a)(1), Dec. 21, 1987, 101 Stat. 1321, §1817A; renumbered §1814, Pub. L. 100–322, title IV, §415(b)(2)(B), May 20, 1988, 102 Stat. 551; amended Pub. L. 100–689, title III, §302, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3714 and amended Pub. L. 102–83, §§4(a)(2)(B)(iv), (3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 404, 406; Pub. L. 105–368, title X, §1005(b)(10), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendments
+
+1998—Subsec. (f)(1)(B). Pub. L. 105–368 substituted “after January 1, 1989” for “more than 45 days after the date of the enactment of the Veterans’ Benefits and Programs Improvement Act of 1988”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1814 of this title as this section.
 
@@ -82,7 +80,7 @@ Subsec. (f)(1)(A). Pub. L. 102–83, §5(c)(1), substituted “3733(a)(1)” for
 
 Subsec. (a)(1). Pub. L. 100–689, §302(1), substituted “Except as provided in subsection (f) of this section, if” for “If” and “loan guaranteed, insured, or made” for “guaranteed, insured, or direct housing loan obtained by a veteran”.
 
-Subsec. (f). Pub. L. 100–689, §302(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read asfollows: “This section shall apply only to loans for which commitments are made on or after March 1, 1988.”
+Subsec. (f). Pub. L. 100–689, §302(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “This section shall apply only to loans for which commitments are made on or after March 1, 1988.”
 
 #### Section Referred to in Other Sections
 

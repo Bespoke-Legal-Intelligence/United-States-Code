@@ -8,7 +8,7 @@ In the administration of voter registration for elections for Federal office, ea
 
 &emsp;&emsp;(A) in the case of registration with a motor vehicle application under section 1973gg–3 of this title, if the valid voter registration form of the applicant is submitted to the appropriate State motor vehicle authority not later than the lesser of 30 days, or the period provided by State law, before the date of the election;
 
-&emsp;&emsp;(B) in the case of registration by mail under section 1973gg–4 of this title, if thevalid voter registration form of the applicant is postmarked not later than the lesser of 30 days, or the period provided by State law, before the date of the election;
+&emsp;&emsp;(B) in the case of registration by mail under section 1973gg–4 of this title, if the valid voter registration form of the applicant is postmarked not later than the lesser of 30 days, or the period provided by State law, before the date of the election;
 
 &emsp;&emsp;(C) in the case of registration at a voter registration agency, if the valid voter registration form of the applicant is accepted at the voter registration agency not later than the lesser of 30 days, or the period provided by State law, before the date of the election; and
 
@@ -74,11 +74,11 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;(B)(i) has failed to respond to a notice described in paragraph (2); and
 
-&emsp;(ii) has not voted or appeared to vote (and, if necessary, correct the registrar's record of the registrant's address) in an election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice.
+&emsp;(ii) has not voted or appeared to vote (and, if necessary, correct the registrar's record of theregistrant's address) in an election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice.
 
 (2) A notice is described in this paragraph if it is a postage prepaid and pre-addressed return card, sent by forwardable mail, on which the registrant may state his or her current address, together with a notice to the following effect:
 
-&emsp;(A) If the registrant did not change his or her residence, or changed residence but remained in the registrar's jurisdiction, the registrant should return the card not later than the time provided for mail registration under subsection (a)(1)(B) of this section. If the card is not returned, affirmation or confirmation of the registrant's address may be required before the registrant is permitted to vote in a Federal election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after thedate of the notice, and if the registrant does not vote in an election during that period the registrant's name will be removed from the list of eligible voters.
+&emsp;(A) If the registrant did not change his or her residence, or changed residence but remained in the registrar's jurisdiction, the registrant should return the card not later than the time provided for mail registration under subsection (a)(1)(B) of this section. If the card is not returned, affirmation or confirmation of the registrant's address may be required before the registrant is permitted to vote in a Federal election during the period beginning on the date of the notice and ending on the day after the date of the second general election for Federal office that occurs after the date of the notice, and if the registrant does not vote in an election during that period the registrant's name will be removed from the list of eligible voters.
 
 &emsp;(B) If the registrant has changed residence to a place outside the registrar's jurisdiction in which the registrant is registered, information concerning how the registrant can continue to be eligible to vote.
 

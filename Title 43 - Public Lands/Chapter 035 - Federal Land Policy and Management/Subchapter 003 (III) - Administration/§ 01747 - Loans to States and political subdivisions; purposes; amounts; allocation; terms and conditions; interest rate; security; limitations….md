@@ -12,7 +12,7 @@
 
 (6) Any loan made pursuant to this section shall be secured only by a pledge of the revenues received by the State or the political subdivision thereof pursuant to section 35 of the Act of February 25, 1920, as amended \[30 U.S.C. 191\], and shall not constitute an obligation upon the general property or taxing authority of such unit of government.
 
-(7) Notwithstanding any other provision of law, loans made pursuant to this section may be used for the non-Federal share of the aggregatecost of any project or program otherwise funded by the Federal Government which requires a non-Federal share for such project or program and which provides planning or public facilities otherwise eligible for assistance under this section.
+(7) Notwithstanding any other provision of law, loans made pursuant to this section may be used for the non-Federal share of the aggregate cost of any project or program otherwise funded by the Federal Government which requires a non-Federal share for such project or program and which provides planning or public facilities otherwise eligible for assistance under this section.
 
 (8) Nothing in this section shall be construed to preclude any forebearance <sup>1</sup> for the benefit of the borrower including loan restructuring, which may be determined by the Secretary as justified by the failure of anticipated mineral development or related revenues to materialize as expected when the loan was made pursuant to this section.
 

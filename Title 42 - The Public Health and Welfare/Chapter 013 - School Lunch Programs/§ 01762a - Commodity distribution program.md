@@ -2,7 +2,7 @@
 
 #### (a) Applicable period; use of funds for purchase of agricultural commodities and products for donation
 
-Notwithstanding any other provision of law, the Secretary, during the period beginning July 1, 1974, and ending September 30, 1998, shall—
+Notwithstanding any other provision of law, the Secretary, during the period beginning July 1, 1974, and ending September 30, 2003, shall—
 
 &emsp;(1) use funds available to carry out the provisions of section 612c of title 7 which are not expended or needed to carry out such provisions, to purchase (without regard to the provisions of existing law governing the expenditure of public funds) agricultural commodities and their products of the types customarily purchased under such section (which may include domestic seafood commodities and their products), for donation to maintain the annually programmed level of assistance for programs carried on under this chapter, the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], and title III of the Older Americans Act of 1965 \[42 U.S.C. 3021 et seq.\]; and
 
@@ -44,7 +44,7 @@ Each State agency that receives food assistance payments under this section for 
 
 #### (f) Commodity only schools
 
-Commodity only schools shall be eligible to receive donated commodities equal in value to the sum of the national average value of donated foods established under section 1755(e) of this title and the national average payment established under section 1753 of this title. Such schools shall be eligible to receive up to 5 cents per meal of such value in cash for processing and handling expenses related to the use of such commodities. Lunches served in such schools shall consist of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under section 1758(a) of this title, and shall represent the four basic food groups, including a serving of fluid milk.
+Commodity only schools shall be eligible to receive donated commodities equal in value to the sum of the national average value of donated foods established under section 1755(c) of this title and the national average payment established under section 1753 of this title. Such schools shall be eligible to receive up to 5 cents per meal of such value in cash for processing and handling expenses related to the use of such commodities. Lunches served in such schools shall consist of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under section 1758(a) of this title, and shall represent the four basic food groups, including a serving of fluid milk.
 
 #### (g) Extension of alternative means of assistance
 
@@ -52,7 +52,7 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 (2) In accordance with the terms and conditions of section 1581 of such Act, the Secretary shall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
 
-(June 4, 1946, ch. 281, §14, as added June 30, 1974, Pub. L. 93–326, §2, 88 Stat. 286; amended Oct. 7, 1975, Pub. L. 94–105, §10, 89 Stat. 515; Nov. 10, 1977, Pub. L. 95–166, §6, 91 Stat. 1334; Nov. 10, 1978, Pub. L. 95–627, §12(b), 92 Stat. 3625; Dec. 5, 1980, Pub. L. 96–499, title II, §202(c), 94 Stat. 2600; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§813(a), 819(j), 95 Stat. 530, 533; Oct. 9, 1984, Pub. L. 98–459, title VIII, §801(a), 98 Stat. 1792; Oct. 18, 1986, Pub. L. 99–500, title III, §§312, 363, 100 Stat. 1783–360, 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §§312, 363, 100 Stat. 3341–363, 3341–371; Nov. 14, 1986, Pub. L. 99–661, div. D, title I, §4102, title IV, §4403, 100 Stat. 4071, 4079; June 28, 1988, Pub. L. 100–356, §2, 102 Stat. 669; Nov. 10, 1989, Pub. L. 101–147, title I, §103(a)–(b)(2)(A), (c), 103 Stat. 882; Nov. 2, 1994, Pub. L. 103–448, title I, §115, 108 Stat. 4713; Aug. 22, 1996, Pub. L. 104–193, title VII, §707, 110 Stat. 2293.)
+(June 4, 1946, ch. 281, §14, as added Pub. L. 93–326, §2, June 30, 1974, 88 Stat. 286; amended Pub. L. 94–105, §10, Oct. 7, 1975, 89 Stat. 515; Pub. L. 95–166, §6, Nov. 10, 1977, 91 Stat. 1334; Pub. L. 95–627, §12(b), Nov. 10, 1978, 92 Stat. 3625; Pub. L. 96–499, title II, §202(c), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§813(a), 819(j), Aug. 13, 1981, 95 Stat. 530, 533; Pub. L. 98–459, title VIII, §801(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–500, title III, §§312, 363, Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, and Pub. L. 99–591, title III, §§312, 363, Oct. 30, 1986, 100 Stat. 3341–363, 3341–371; Pub. L. 99–661, div. D, title I, §4102, title IV, §4403, Nov. 14, 1986, 100 Stat. 4071, 4079; Pub. L. 100–356, §2, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §103(a)–(b)(2)(A), (c), Nov. 10, 1989, 103 Stat. 882; Pub. L. 103–448, title I, §115, Nov. 2, 1994, 108 Stat. 4713; Pub. L. 104–193, title VII, §707, Aug. 22, 1996, 110 Stat. 2293; Pub. L. 105–336, title I, §§101(b), 106, Oct. 31, 1998, 112 Stat. 3144, 3149.)
 
 #### References in Text
 
@@ -67,6 +67,10 @@ Section 1581 of the Food Security Act, referred to in subsec. (g), is section 15
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–336, §106, substituted “2003” for “1998” in introductory provisions.
+
+Subsec. (f). Pub. L. 105–336, §101(b), substituted “1755(c)” for “1755(e)”.
 
 1996—Subsec. (b). Pub. L. 104–193, §707(a), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “Among the products to be included in the food donations to the school lunch program shall be cereal and shortening and oil products.”
 
@@ -123,6 +127,10 @@ Subsec. (f). Pub. L. 97–35, §813(a), added subsec. (f).
 Subsecs. (c) to (e). Pub. L. 95–166, §6(2), added subsecs. (c) to (e).
 
 1975—Pub. L. 94–105 designated existing provisions as subsec. (a), substituted “September 30, 1977” for “June 30, 1975”, and added subsec. (b).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
 
 #### Effective Date of 1994 Amendment
 

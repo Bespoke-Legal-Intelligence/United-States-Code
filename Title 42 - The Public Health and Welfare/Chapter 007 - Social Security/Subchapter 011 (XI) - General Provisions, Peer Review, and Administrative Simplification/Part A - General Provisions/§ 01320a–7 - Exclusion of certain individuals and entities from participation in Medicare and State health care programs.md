@@ -150,7 +150,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(i) that has been convicted of any offense described in subsection (a) of this section or in paragraph (1), (2), or (3) of this subsection; or
 
-&emsp;&emsp;(ii) that has been excluded from participation under a program under subchapterXVIII of this chapter or under a State health care program.
+&emsp;&emsp;(ii) that has been excluded from participation under a program under subchapter XVIII of this chapter or under a State health care program.
 
 #### (c) Notice, effective date, and period of exclusion
 
@@ -178,7 +178,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 (D) Subject to subparagraph (G), in the case of an exclusion of an individual or entity under paragraph (1), (2), or (3) of subsection (b) of this section, the period of the exclusion shall be 3 years, unless the Secretary determines in accordance with published regulations that a shorter period is appropriate because of mitigating circumstances or that a longer period is appropriate because of aggravating circumstances.
 
-(E) In the case of an exclusion of an individual or entity under subsection (b)(4) or (b)(5) of this section, the period of the exclusion shall not be less than the period during which the individual's or entity's license to provide health care is revoked, suspended, or surrendered, or the individual or the entity is excluded or suspended from a Federal or State health care program.
+(E) In the case of an exclusion of an individual or entity under subsection (b)(4) or (b)(5) of thissection, the period of the exclusion shall not be less than the period during which the individual's or entity's license to provide health care is revoked, suspended, or surrendered, or the individual or the entity is excluded or suspended from a Federal or State health care program.
 
 (F) In the case of an exclusion of an individual or entity under subsection (b)(6)(B) of this section, the period of the exclusion shall be not less than 1 year.
 
@@ -230,7 +230,7 @@ The Secretary shall—
 
 &emsp;(A) there is no basis under subsection (a) or (b) of this section or section 1320a–7a(a) of this title for a continuation of the exclusion, and
 
-&emsp;(B) there are reasonable assurances that the types of actions which formed the basis for the original exclusion have not recurred and will not recur.
+&emsp;(B) there are reasonable assurances that the types of actions which formed the basis for theoriginal exclusion have not recurred and will not recur.
 
 (3) The Secretary shall promptly notify each appropriate State agency administering or supervising the administration of each State health care program (and, in the case of an exclusion effected pursuant to subsection (a) of this section and to which section 824(a)(5) of title 21 may apply, the Attorney General) of the fact and circumstances of each termination of exclusion made under this subsection.
 
@@ -278,7 +278,7 @@ For purposes of subsection (b)(8)(A)(iii) of this section:
 
 &emsp;(2) The term “member of the household” means, with respect to any person, any individual sharing a common abode as part of a single family unit with the person, including domestic employees and others who live together as a family unit, but not including a roomer or boarder.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §913(a), 94Stat. 2619; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), 95 Stat. 791, 873; July 18, 1984, Pub. L. 98–369, div. B, title III, §2333(a), (b), 98 Stat. 1089; Oct. 21, 1986, Pub. L. 99–509, title IX, §9317(c), 100 Stat. 2008; Aug. 18, 1987, Pub. L. 100–93, §2, 101 Stat. 680; Dec. 22, 1987, Pub. L. 100–203, title IV, §4118(e)(2)–(5), 101 Stat. 1330–155, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(k)(10)(D), 102 Stat. 795; July 1, 1988, Pub. L. 100–360, title IV, §411(k)(10)(C), 102 Stat. 795; Dec. 19, 1989, Pub. L. 101–239, title VI, §6411(d)(1), 103 Stat. 2270; Nov. 5, 1990, Pub. L. 101–508, title IV, §4164(b)(3), 104 Stat. 1388–102; June 13, 1991, Pub. L. 102–54, §13(q)(3)(A)(ii), 105 Stat. 279; Aug. 15, 1994, Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), 108 Stat. 1483, 1513; Aug. 21, 1996, Pub. L. 104–191, title II, §§211–213, 110 Stat. 2003–2005; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), 111 Stat. 382, 396, 570.)
+(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570.)
 
 #### Amendments
 
@@ -390,7 +390,7 @@ Section 15 of Pub. L. 100–93 provided that:
 
 “(a)
 
-In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section 1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
+In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section 1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment ofthis Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
 
 “(b)
 

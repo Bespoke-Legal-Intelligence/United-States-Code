@@ -48,7 +48,7 @@ Pub. L. 98–501, title II, §201, Oct. 19, 1984, 98 Stat. 2324, provided that: 
 
 #### Ex. Ord. No. 13037. Commission to Study Capital Budgeting
 
-Ex. Ord. No. 13037, Mar. 3, 1997, 62 F.R. 10185, as amended by Ex. Ord. No. 13066, Oct. 29, 1997, 62 F.R. 59273, provided:
+Ex. Ord. No. 13037, Mar. 3, 1997, 62 F.R. 10185, as amended by Ex. Ord. No. 13066, Oct. 29, 1997, 62 F.R. 59273; Ex. Ord. No. 13108, Dec. 11, 1998, 63 F.R. 69175, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
@@ -64,13 +64,13 @@ Sec. 2. <i>Functions</i>. The Commission shall report on the following:
 
 (d) The effect of a Federal capital budget on budgetary choices between capital and noncapital means of achieving public objectives; implications for macroeconomic stability; and potential mechanisms for budgetary discipline.
 
-Sec. 3. <i>Report</i>. The Commission shall adopt its report through majority vote of its full membership. The Commission shall report to the National Economic Council within 1 year from its first meeting.
+Sec. 3. <i>Report</i>. The Commission shall adopt its report through majority vote of its full membership. The Commission shall report to the National Economic Council by February 1, 1999.
 
 Sec. 4. <i>Administration</i>. (a) Members of the Commission shall serve without compensation for their work on the Commission. While engaged in the work of the Commission, members appointed from among private citizens of the United States may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
-(b) The Department of the Treasury shall provide the Commission with funding and administrative support. The Commission may have a paid staff, includingdetailees from Federal agencies. The Secretary of the Treasury shall perform the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
+(b) The Department of the Treasury shall provide the Commission with funding and administrative support. The Commission may have a paid staff, including detailees from Federal agencies. The Secretary of the Treasury shall perform the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-Sec. 5. <i>General Provisions</i>. The Commission shall terminate 30 days after submitting its report.
+Sec. 5. <i>General Provisions</i>. The Commission shall terminate on September 30, 1999.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

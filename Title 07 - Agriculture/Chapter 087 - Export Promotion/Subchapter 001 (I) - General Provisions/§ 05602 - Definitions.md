@@ -58,7 +58,7 @@ As used in this chapter—
 
 &emsp;The term “independent states of the former Soviet Union” means the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
-(Pub. L. 95–501, title I, §102, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3669; amended Pub. L. 102–511, title VII, §702, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, §243(c), Apr. 4, 1996, 110 Stat. 967.)
+(Pub. L. 95–501, title I, §102, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3669; amended Pub. L. 102–511, title VII, §702, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, §243(c), Apr. 4, 1996, 110 Stat. 967.)
 
 #### Amendments
 

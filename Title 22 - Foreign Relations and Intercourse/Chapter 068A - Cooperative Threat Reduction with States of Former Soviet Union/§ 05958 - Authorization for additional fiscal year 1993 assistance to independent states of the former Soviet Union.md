@@ -14,7 +14,7 @@ The Secretary of Defense may, to the extent provided in appropriations Acts, tra
 
 #### (c) Administrative provisions
 
-(1) Amounts transferred under subsection (b) of this section shall be available subject to the same terms and conditions as the appropriations to which transferred.
+(1) Amounts transferred under subsection (b) of this section shall be available subject to thesame terms and conditions as the appropriations to which transferred.
 
 (2) The authority to make transfers pursuant to this section is in addition to any other transfer authority of the Department of Defense.
 

@@ -2,7 +2,7 @@
 
 #### (a) Grades of commissioned officers
 
-The Surgeon General, during the period of his appointment as such, shall be of the same grade as the Surgeon General of the Army; the Deputy Surgeon General and the Chief Medical Officer of the United States Coast Guard, while assigned as such, shall have the grade corresponding with the grade of major general; and the Chief Dental Officer, while assigned as such, shall have the grade as is prescribed by law for the officer of the Dental Corps selected and appointed as Assistant Surgeon General of the Army. During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army. Assistant Surgeons General, while assigned as such, shall have the grade corresponding with either the grade of brigadier general or the grade of major general, as may be determined by the Secretary after considering the importance of the duties to be performed: <i>Provided</i>, That the number of Assistant Surgeons General having a grade higher than that corresponding to the grade of brigadier general shall at no time exceed one-half of the number of positions created by subsection (b) of section 206 of this title or pursuant to subsection (c) of section 206 of this title. The grades of commissioned officers of the Service shall correspond with grades of officers of the Army as follows:
+The Surgeon General, during the period of his appointment as such, shall be of the same grade as the Surgeon General of the Army; the Deputy Surgeon General and the Chief Medical Officer of the United States Coast Guard, while assigned as such, shall have the grade corresponding withthe grade of major general; and the Chief Dental Officer, while assigned as such, shall have the grade as is prescribed by law for the officer of the Dental Corps selected and appointed as Assistant Surgeon General of the Army. During the period of appointment to the position of Assistant Secretary for Health, a commissioned officer of the Public Health Service shall have the grade corresponding to the grade of General of the Army. Assistant Surgeons General, while assigned as such, shall have the grade corresponding with either the grade of brigadier general or the grade of major general, as may be determined by the Secretary after considering the importance of the duties to be performed: <i>Provided</i>, That the number of Assistant Surgeons General having a grade higher than that corresponding to the grade of brigadier general shall at no time exceed one-half of the number of positions created by subsection (b) of section 206 of this title or pursuant to subsection (c) of section 206 of this title. The grades of commissioned officers of the Service shall correspond with grades of officers of the Army as follows:
 
 &emsp;(1) Officers of the director grade—colonel;
 
@@ -42,7 +42,7 @@ In computing the maximum number of commissioned officers of the Public Health Se
 
 In computing the maximum number of commissioned officers of the Public Health Service authorized by law or administrative determination to serve on active duty, there may be excluded from such computation officers who are assigned to duty in the Department of Defense.
 
-(July 1, 1944, ch. 373, title II, §206, 58 Stat. 684; Feb. 28, 1948, ch. 83, §4, 62 Stat. 39; Oct. 31, 1951, ch. 653, 65 Stat. 700; July 17, 1952, ch. 931, 66 Stat. 758; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 7, 1962, Pub. L. 87–649, §11(1), 76 Stat. 497; Dec. 19, 1977, Pub. L. 95–215, §8(b), 91 Stat. 1507; Sept. 29, 1979, Pub. L. 96–76, title III, §304, 93 Stat. 584; Oct. 7, 1985, Pub. L. 99–117, §9, 99 Stat. 494; Aug. 16, 1989, Pub. L. 101–93, §5(p), 103 Stat. 614; Nov. 3, 1990, Pub. L. 101–502, §5(k)(1), 104 Stat. 1289; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §582, 110 Stat. 2538.)
+(July 1, 1944, ch. 373, title II, §206, 58 Stat. 684; Feb. 28, 1948, ch. 83, §4, 62 Stat. 39; Oct. 31, 1951, ch. 653, 65 Stat. 700; July 17, 1952, ch. 931, 66 Stat. 758; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 87–649, §11(1), Sept. 7, 1962, 76 Stat. 497; Pub. L. 95–215, §8(b), Dec. 19, 1977, 91 Stat. 1507; Pub. L. 96–76, title III, §304, Sept. 29, 1979, 93 Stat. 584; Pub. L. 99–117, §9, Oct. 7, 1985, 99 Stat. 494; Pub. L. 101–93, §5(p), Aug. 16, 1989, 103 Stat. 614; Pub. L. 101–502, §5(k)(1), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 104–201, div. A, title V, §582, Sept. 23, 1996, 110 Stat. 2538.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 #### Delegation of Functions
 
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan.30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 #### Section Referred to in Other Sections
 

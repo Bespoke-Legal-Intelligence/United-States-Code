@@ -2,7 +2,7 @@
 
 Whoever mutilates, cuts, defaces, disfigures, or perforates, or unites or cements together, or does any other thing to any bank bill, draft, note, or other evidence of debt issued by any national banking association, or Federal Reserve bank, or the Federal Reserve System, with intent to render such bank bill, draft, note, or other evidence of debt unfit to be reissued, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 700; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 700; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 Sept. 1, 1954, ch. 1212, §4(a) “Sec. 1506”, 68 Stat. 1133.
 
-In the first sentence of subsection (d), the word “may” is substituted for “shall” since the sentence does not direct the use of the money, rather it limits the purposes for which the money may be used.
+In the first sentence of subsection (d), the word “may” is substituted for “shall” since the sentencedoes not direct the use of the money, rather it limits the purposes for which the money may be used.
 
 In subsections (f) and (g), the word “official” is substituted for “officer” because of the definition of “officer” in section 2104.
 

@@ -2,7 +2,7 @@
 
 #### (a) Administrator; appointment
 
-There shall be at the head of the Administration an Administrator of Energy Research and Development (hereinafter in this chapter referred to as the “Administrator”), who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. A person may not be appointed as Administrator within two years after release from active duty as a commissioned officer of a regular component of an Armed Force. The Administration shall be administered under the supervision anddirection of the Administrator, who shall be responsible for the efficient and coordinated management of the Administration.
+There shall be at the head of the Administration an Administrator of Energy Research and Development (hereinafter in this chapter referred to as the “Administrator”), who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. A person may not be appointed as Administrator within two years after release from active duty as a commissioned officer of a regular component of an Armed Force. The Administration shall be administered under the supervision and direction of the Administrator, who shall be responsible for the efficient and coordinated management of the Administration.
 
 #### (b) Deputy Administrator
 
@@ -40,7 +40,7 @@ The Deputy Administrator (or in the absence or disability of the Deputy Administ
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Transfer of Functions
 

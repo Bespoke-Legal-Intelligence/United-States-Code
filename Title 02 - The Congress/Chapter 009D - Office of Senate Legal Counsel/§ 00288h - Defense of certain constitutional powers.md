@@ -4,7 +4,7 @@ In performing any function under this chapter, the Counsel shall defend vigorous
 
 &emsp;(1) the constitutional privilege from arrest or from being questioned in any other place for any speech or debate under section 6 of article I of the Constitution of the United States;
 
-&emsp;(2) the constitutional power of the Senate to be judge of the elections, returns, and qualifications of its own Members and to punish or expel a Member under section 5 of article I of the Constitution of the United States;
+&emsp;(2) the constitutional power of the Senate to be judge of the elections, returns, and qualifications of its own Members and to punish orexpel a Member under section 5 of article I of the Constitution of the United States;
 
 &emsp;(3) the constitutional power of the Senate to except from publication such parts of its journal as in its judgment may require secrecy;
 

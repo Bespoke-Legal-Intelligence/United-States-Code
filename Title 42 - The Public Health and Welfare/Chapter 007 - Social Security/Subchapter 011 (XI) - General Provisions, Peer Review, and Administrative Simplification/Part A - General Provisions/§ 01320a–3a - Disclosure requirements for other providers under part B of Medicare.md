@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a person who has one of the 5 largest direct or indirect ownership or control interests in the provider.
 
-(Aug. 14, 1935, ch. 531, title XI, §1124A, as added Nov. 5, 1990, Pub. L. 101–508, title IV, §4164(b)(1), 104 Stat. 1388–101; amended Oct. 31, 1994, Pub. L. 103–432, title I, §147(f)(7)(A)(i), 108 Stat. 4432; Aug. 5, 1997, Pub. L. 105–33, title IV, §4313(b), (c), 111 Stat. 388.)
+(Aug. 14, 1935, ch. 531, title XI, §1124A, as added Pub. L. 101–508, title IV, §4164(b)(1), Nov. 5, 1990, 104 Stat. 1388–101; amended Pub. L. 103–432, title I, §147(f)(7)(A)(i), Oct. 31, 1994, 108 Stat. 4432; Pub. L. 105–33, title IV, §4313(b), (c), Aug. 5, 1997, 111 Stat. 388.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Subsec. (c)(1). Pub. L. 105–33, §4313(b)(2), inserted “(or, for purposes of
 
 Subsec. (d). Pub. L. 105–33, §4313(c)(1), redesignated subsec. (c) as (d).
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–432 made technical amendment to reference to subchapter XVIII of thischapter to correct reference to corresponding provision of original act.
+1994—Subsec. (a)(2)(A). Pub. L. 103–432 made technical amendment to reference to subchapter XVIII of this chapter to correct reference to corresponding provision of original act.
 
 #### Effective Date of 1997 Amendment
 

@@ -20,7 +20,7 @@ If it shall appear to the satisfaction of the Attorney General that the master o
 
 The Attorney General is authorized to prescribe the circumstances and conditions under which the list or manifest requirements of subsections (a) and (b) of this section may be waived.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §231, 66 Stat. 195; Dec. 29, 1981, Pub. L. 97–116, §18(g), 95 Stat. 1620; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(1), 104 Stat. 5057; Dec. 12, 1991, Pub. L. 102–232, title III, §306(c)(4)(A), 105 Stat. 1752; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(g)(1), 110 Stat. 3009–622.)
+(June 27, 1952, ch. 477, title II, ch. 4, §231, 66 Stat. 195; Pub. L. 97–116, §18(g), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 101–649, title V, §543(a)(1), Nov. 29, 1990, 104 Stat. 5057; Pub. L. 102–232, title III, §306(c)(4)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622.)
 
 #### Amendments
 
@@ -50,15 +50,17 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Automated Entry-Exit Control System
 
-Section 110 of div. C of Pub. L. 104–208 provided that:
+Section 110 of div. C of Pub. L. 104–208, as amended by Pub. L. 105–259, §1, Oct. 15, 1998, 112 Stat. 1918; Pub. L. 105–277, div. A, title I, §101(b) \[title I, §116\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, provided that:
 
 “(a)
 
-System.—Not later than 2 years after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall develop an automated entry and exit control system that will—
+System.—Not later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney General shall develop an automated entry and exit control system that will—
 
-&emsp;“(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States; and
+&emsp;“(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States;
 
-&emsp;“(2) enable the Attorney General to identify, through on-line searching procedures, lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General.
+&emsp;“(2) enable the Attorney General to identify, through on-line searching procedures, lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General; and
+
+&emsp;“(3) not significantly disrupt trade, tourism, or other legitimate cross-border traffic at land border ports of entry.
 
 “(b)
 
@@ -88,7 +90,7 @@ Bonds—
 
 &emsp;&emsp;Bond from nonimmigrant alien as prerequisite to admission to the United States, see section 1184 of this title.
 
-&emsp;&emsp;Bond or undertaking as prerequisite to admission of aliens likely to become public charges or withcertain physical disabilities, see section 1183 of this title.
+&emsp;&emsp;Bond or undertaking as prerequisite to admission of aliens likely to become public charges or with certain physical disabilities, see section 1183 of this title.
 
 &emsp;&emsp;Bond or undertaking as prerequisite to issuance of visas to aliens with certain physical disabilities or likely to become public charges, see section 1201 of this title.
 

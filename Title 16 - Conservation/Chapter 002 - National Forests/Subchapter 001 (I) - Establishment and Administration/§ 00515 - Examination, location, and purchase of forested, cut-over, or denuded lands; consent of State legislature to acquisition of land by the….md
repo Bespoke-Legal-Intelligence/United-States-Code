@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture is hereby authorized and directed to examine, locate, and purchase such forested, cut-over, or denuded lands within the watersheds of navigable streams as in his judgment may be necessary to the regulation of the flow of navigable streams or for the production of timber. No deed or other instrument of conveyance of lands referred to herein shall be accepted or approved by the Secretary of Agriculture under this Act until the legislature of the State in which the land lies shall have consented to the acquisition of such land by the United States for the purpose of preserving the navigability of navigable streams.
 
-(Mar. 1, 1911, ch. 186, §6, 36 Stat. 962; June 7, 1924, ch. 348, §6, 43 Stat. 654; Oct. 22, 1976, Pub. L. 94–588, §17(a)(3), 90 Stat. 2961.)
+(Mar. 1, 1911, ch. 186, §6, 36 Stat. 962; June 7, 1924, ch. 348, §6, 43 Stat. 654; Pub. L. 94–588, §17(a)(3), Oct. 22, 1976, 90 Stat. 2961.)
 
 #### References in Text
 

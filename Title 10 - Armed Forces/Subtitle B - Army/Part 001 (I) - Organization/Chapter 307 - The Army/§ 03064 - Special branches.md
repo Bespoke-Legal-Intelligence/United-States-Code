@@ -10,11 +10,11 @@
 
 &emsp;(4) such other special branches as may be established by the Secretary of the Army under subsection (b).
 
-(b) The Secretary of the Army may establish special branches for the Army and may assigncommissioned officers (other than officers of the Regular Army) and members to such branches.
+(b) The Secretary of the Army may establish special branches for the Army and may assign commissioned officers (other than officers of the Regular Army) and members to such branches.
 
 (c) Commissioned officers of the Regular Army may be appointed in a special branch, but the Secretary may not assign any officer of the Regular Army to a special branch.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 167; June 4, 1968, Pub. L. 90–329, 82 Stat. 170; Dec. 12, 1980, Pub. L. 96–513, title II, §231, 94 Stat. 2886; July 10, 1981, Pub. L. 97–22, §5(a), 95 Stat. 128.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 167; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title II, §231, Dec. 12, 1980, 94 Stat. 2886; Pub. L. 97–22, §5(a), July 10, 1981, 95 Stat. 128.)
 
 Historical and Revision Notes
 

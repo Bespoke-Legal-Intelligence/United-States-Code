@@ -2,7 +2,7 @@
 
 #### (a) Renewal and transfer of policies; acquisition of policies after filing of maps
 
-Owners of existing National Flood Insurance Act policies with respect to structures located within the Floodway established under section 1600c of title 43 shall have the right to renew and transfer such policies. Owners of existing structures located within said Floodway on October 8, 1986, who have not acquired National Flood Insurance Act policies shall have the right to acquire policies with respect to such structures for six months after the Secretary of the Interior files the Floodway maps required by section1600c(b)(2) of title 43 and to renew and transfer such policies.
+Owners of existing National Flood Insurance Act policies with respect to structures located within the Floodway established under section 1600c of title 43 shall have the right to renew and transfer such policies. Owners of existing structures located within said Floodway on October 8, 1986, who have not acquired National Flood Insurance Act policies shall have the right to acquire policies with respect to such structures for six months after the Secretary of the Interior files the Floodway maps required by section 1600c(b)(2) <sup>1</sup> of title 43 and to renew and transfer such policies.
 
 #### (b) New coverage for new construction or substantial improvements
 
@@ -10,7 +10,7 @@ No new flood insurance coverage may be provided under this chapter on or after a
 
 #### (c) Establishment of temporary boundaries
 
-The Secretary of the Interior may by rule after notice and comment pursuant to section 553 of title 5 establish temporary Floodway boundaries to be in effect until the maps required by section 1600c(b)(2) of title 43 are filed, for the purpose of enforcing subsections (b) and (d) of this section.
+The Secretary of the Interior may by rule after notice and comment pursuant to section 553 of title 5 establish temporary Floodway boundaries to be in effect until the maps required by section 1600c(b)(2) <sup>1</sup> of title 43 are filed, for the purpose of enforcing subsections (b) and (d) of this section.
 
 #### (d) Loans by federally supervised, approved, regulated, or insured financial institutions
 
@@ -21,6 +21,8 @@ A regulated lending institution or Federal agency lender may make loans secured 
 #### References in Text
 
 The National Flood Insurance Act, referred to in subsec. (a), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
+Section 1600c(b)(2) of title 43, referred to in subsecs. (a) and (c), was struck out and former subsec. (b)(1)(ii) redesignated (b)(2) of section 1600c by Pub. L. 105–362, title IX, §901(d)(1), Nov. 10, 1998, 112 Stat. 3289. As amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
 
 #### Amendments
 

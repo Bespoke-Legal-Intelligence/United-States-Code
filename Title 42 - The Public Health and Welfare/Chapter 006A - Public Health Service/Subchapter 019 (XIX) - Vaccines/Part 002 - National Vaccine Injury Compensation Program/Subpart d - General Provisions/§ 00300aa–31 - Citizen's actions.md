@@ -6,13 +6,13 @@ Except as provided in subsection (b) of this section, any person may commence in
 
 #### (b) Notice
 
-No action may be commenced under subsection (a) of this section before the date which is 60 days after the person bringing the action has given written notice of intent to commence such action to the Secretary.
+No action may be commenced under subsection (a) of this section before the date which is 60 days after the person bringing the actionhas given written notice of intent to commence such action to the Secretary.
 
 #### (c) Costs of litigation
 
 The court, in issuing any final order in any action under this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any plaintiff who substantially prevails on one or more significant issues in the action.
 
-(July 1, 1944, ch. 373, title XXI, §2131, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3778; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4305, 101 Stat. 1330–224.)
+(July 1, 1944, ch. 373, title XXI, §2131, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3778; amended Pub. L. 100–203, title IV, §4305, Dec. 22, 1987, 101 Stat. 1330–224.)
 
 #### Amendments
 

@@ -78,7 +78,7 @@ The term “fungus” means any non-chlorophyll-bearing thallophyte (that is, an
 
 #### (<i>l</i>) Imminent hazard
 
-The term “imminent hazard” means a situation which exists when the continued use of apesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
+The term “imminent hazard” means a situation which exists when the continued use of a pesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
 #### (m) Inert ingredient
 
@@ -200,7 +200,7 @@ The term “State” means a State, the District of Columbia, the Commonwealth o
 
 #### (bb) Unreasonable adverse effects on the environment
 
-The term “unreasonable adverse effects on the environment” means (1) any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide, or (2) ahuman dietary risk from residues that result from a use of a pesticide in or on any food inconsistent with the standard under section 346a of title 21. The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.
+The term “unreasonable adverse effects on the environment” means (1) any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide, or (2) a human dietary risk from residues that result from a use of a pesticide in or on any food inconsistent with the standard under section 346a of title 21. The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.
 
 #### (cc) Weed
 
@@ -250,7 +250,7 @@ The term “nitrogen stabilizer” means any substance or mixture of substances 
 
 #### (jj) <sup>4</sup> Maintenance applicator
 
-The term “maintenance applicator” means any individual who, in the principal course of such individual's employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumerproducts pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term “maintenance applicator” does not include private applicators as defined in subsection (e)(2) of this section; individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
+The term “maintenance applicator” means any individual who, in the principal course of such individual's employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumer products pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term “maintenance applicator” does not include private applicators as defined in subsection (e)(2) of this section; individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
 
 #### (kk) Service technician
 
@@ -308,9 +308,9 @@ The term “public health pesticide” means any minor use pesticide product reg
 
 #### (<i>oo</i>) Vector
 
-The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing human discomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
+The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing humandiscomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
 
-(June 25, 1947, ch. 125, §2, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 975; amended Dec. 28, 1973, Pub. L. 93–205, §13(f), 87 Stat. 903; Nov. 28, 1975, Pub. L. 94–140, §9, 89 Stat. 754; Sept. 30, 1978, Pub. L. 95–396, §1, 92 Stat. 819; Oct. 25, 1988, Pub. L. 100–532, title I, §101, title VI, §601(a), title VIII, §801(a), 102 Stat. 2655, 2677, 2679; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(1), (2), (b)(3)(A), (B), 105 Stat. 1894, 1895; Aug. 3, 1996, Pub. L. 104–170, title I, §§105(a), 120, title II, §§210(a), 221, 230, title III, §304, 110 Stat. 1490, 1492, 1493, 1502, 1508, 1512.)
+(June 25, 1947, ch. 125, §2, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 975; amended Pub. L. 93–205, §13(f), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–140, §9, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §1, Sept. 30, 1978, 92 Stat. 819; Pub. L. 100–532, title I, §101, title VI, §601(a), title VIII, §801(a), Oct. 25, 1988, 102 Stat. 2655, 2677, 2679; Pub. L. 102–237, title X, §1006(a)(1), (2), (b)(3)(A), (B), Dec. 13, 1991, 105 Stat. 1894, 1895; Pub. L. 104–170, title I, §§105(a), 120, title II, §§210(a), 221, 230, title III, §304, Aug. 3, 1996, 110 Stat. 1490, 1492, 1493, 1502, 1508, 1512.)
 
 #### References in Text
 
@@ -388,7 +388,7 @@ Subsec. (ee). Pub. L. 95–396, §1(7), added subsec. (ee).
 
 #### Effective Date of 1988 Amendment
 
-Section 901 of Pub. L. 100–532 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1988 Amendment note below\] shall take effect on the expiration of 60 days after the date of enactment of this Act \[Oct. 25, 1988\].”
+Section 901 of Pub. L. 100–532 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1988 Amendmentnote below\] shall take effect on the expiration of 60 days after the date of enactment of this Act \[Oct. 25, 1988\].”
 
 #### Effective Date of 1973 Amendment
 

@@ -22,10 +22,13 @@
 | \[12121. | Repealed.\] |
 | [12122\.](%C2%A7%2012122%20-%20Penalties.md) | Penalties. |
 | 12123\. | Denial and revocation of endorsements. |
+| [12124\.](%C2%A7%2012124%20-%20Surrender%20of%20title%20and%20number.md) | Surrender of title and number. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–383, title IV, §401(b), Nov. 13, 1998, 112 Stat. 3425, added item 12124.
 
 1996—Pub. L. 104–324, title VII, §746(a)(2), title XI, §1115(b)(1), Oct. 19, 1996, 110 Stat. 3943, 3972, struck out item 12107 “Great Lakes endorsements” and struck out item 12123 “Denial and revocation of endorsements” appearing first.
 
@@ -73,3 +76,4 @@ This chapter is referred to in sections 2101, 3316, 3703a, 14301, 14304, 14501, 
 - [&sect; 12122 - Penalties](%C2%A7%2012122%20-%20Penalties.md)
 - [&sect; 12123 - Repealed. Pub. L. 104&#8211;324, title VII, &sect;746(a)(1), Oct. 19, 1996, 110 Stat. 3943](%C2%A7%2012123%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93324%2C%20title%20VII%2C%20%C2%A7746%28a%29%281%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203943.md)
 - [&sect; 12123 - Denial and revocation of endorsements](%C2%A7%2012123%20-%20Denial%20and%20revocation%20of%20endorsements.md)
+- [&sect; 12124 - Surrender of title and number](%C2%A7%2012124%20-%20Surrender%20of%20title%20and%20number.md)

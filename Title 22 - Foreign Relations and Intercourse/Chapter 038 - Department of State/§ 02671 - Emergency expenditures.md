@@ -72,7 +72,7 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 
-(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §122(a), Nov. 22, 1983, 97 Stat. 1023; Pub. L. 103–236, title I, §125, Apr. 30, 1994, 108 Stat. 393;Pub. L. 104–316, title I, §115(g)(2)(D), Oct. 19, 1996, 110 Stat. 3835.)
+(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §122(a), Nov. 22, 1983, 97 Stat. 1023; Pub. L. 103–236, title I, §125, Apr. 30, 1994, 108 Stat. 393; Pub. L. 104–316, title I, §115(g)(2)(D), Oct. 19, 1996, 110 Stat. 3835.)
 
 #### References in Text
 

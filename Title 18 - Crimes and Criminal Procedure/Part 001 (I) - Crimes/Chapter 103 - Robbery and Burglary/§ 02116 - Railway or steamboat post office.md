@@ -2,7 +2,7 @@
 
 Whoever, by violence, enters a post-office car, or any part of any car, steamboat, or vessel, assigned to the use of the mail service, or willfully or maliciously assaults or interferes with any postal clerk in the discharge of his duties in connection with such car, steamboat, vessel, or apartment thereof, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 797; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 797; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

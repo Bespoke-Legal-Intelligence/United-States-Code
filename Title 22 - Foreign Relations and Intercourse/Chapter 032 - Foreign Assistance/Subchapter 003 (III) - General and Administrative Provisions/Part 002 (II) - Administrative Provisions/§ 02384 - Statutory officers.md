@@ -16,7 +16,7 @@ Any person who was appointed by and with the advice and consent of the Senate, t
 
 #### (e) Coordinator for security assistance
 
-In addition to the officers otherwise provided for in this section, the President shall appoint, by and with the advice and consent of the Senate, one officer for the purpose of coordinating security assistance programs.
+In addition to the officers otherwise provided for in this section, the President shall appoint,by and with the advice and consent of the Senate, one officer for the purpose of coordinating security assistance programs.
 
 (Pub. L. 87–195, pt. III, §624, Sept. 4, 1961, 75 Stat. 447; Pub. L. 87–565, pt. III, §302(b), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(b), Dec. 16, 1963, 77 Stat. 388; Pub. L. 88–426, title III, §305(33), (42), Aug. 14, 1964, 78 Stat. 426, 428; Pub. L. 89–171, pt. III, §302(b), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(b), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(a), Nov. 14, 1967, 81 Stat. 460; Pub. L. 91–175, pt. III, §304, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §302, Feb. 7, 1972, 86 Stat. 28; Pub. L. 94–329, title III, §301(b), June 30, 1976, 90 Stat. 750; Pub. L. 95–88, title I, §124(a)(1), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–105, title I, §109(a)(1), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title V, §504, Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–533, title VII, §706, Dec. 16, 1980, 94 Stat. 3158; Pub. L. 97–113, title VII, §705(b)(1), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 98–164, tile X, §1002(b), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 103–236, title I, §162(e)(4), Apr. 30, 1994, 108 Stat. 405.)
 
@@ -88,15 +88,7 @@ Section 124(c) of Pub. L. 95–88 provided that: “The amendments made by this 
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
-
-#### Abolition of Position
-
-For abolition of one of the positions that the President may appoint under subsec. (a), see Reorg. Plan No. 2 of 1979, §7, 44 F.R. 41166, 93 Stat. 1379, eff. July 1, 1980, set out as a note under section 2381 of this title.
-
-#### Agency for International Development
-
-For service of the officers provided for in subsec. (a) in the Agency for International Development and appointment of the Administrator of such Agency pursuant to subsec. (a), see section 1–103(b) and (c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Assumption of Duties by Coordinator for Human Rights and Humanitarian Affairs
 
@@ -116,5 +108,5 @@ Compensation of officers, see chapter 53 of Title 5, Government Organization and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2389 of this title.
+This section is referred to in sections 2389, 6592 of this title.s
 

@@ -6,7 +6,7 @@ The Colorado River compact signed at Santa Fe, New Mexico, November 24, 1922, pu
 
 #### (b) Rights in waters of Colorado River and tributaries; Colorado River compact as controlling
 
-The rights of the United States in or to waters of the Colorado River and its tributaries howsoever claimed or acquired, as well as the rights of those claiming under the United States, shallbe subject to and controlled by said Colorado River compact.
+The rights of the United States in or to waters of the Colorado River and its tributaries howsoever claimed or acquired, as well as the rights of those claiming under the United States, shall be subject to and controlled by said Colorado River compact.
 
 #### (c) Patents, grants, contracts, concessions, etc.; Colorado River compact as controlling
 

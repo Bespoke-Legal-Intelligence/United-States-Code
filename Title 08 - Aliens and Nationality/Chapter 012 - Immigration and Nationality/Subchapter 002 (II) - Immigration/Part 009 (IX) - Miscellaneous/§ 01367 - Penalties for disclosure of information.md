@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 &emsp;&emsp;(A) a spouse or parent who has battered the alien or subjected the alien to extreme cruelty,
 
-&emsp;&emsp;(B) a member of the spouse's or parent's family residing in the same household as thealien who has battered the alien or subjected the alien to extreme cruelty when the spouse or parent consented to or acquiesced in such battery or cruelty,
+&emsp;&emsp;(B) a member of the spouse's or parent's family residing in the same household as the alien who has battered the alien or subjected the alien to extreme cruelty when the spouse or parent consented to or acquiesced in such battery or cruelty,
 
 &emsp;&emsp;(C) a spouse or parent who has battered the alien's child or subjected the alien's child to extreme cruelty (without the active participation of the alien in the battery or extreme cruelty), or
 

@@ -2,41 +2,75 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term “energy burden” means the expenditures of the household for home energy divided by the income of the household.
+&emsp;(1) The term “emergency” means—
 
-&emsp;(2) The term “energy crisis” means weather-related and supply shortage emergencies and other household energy-related emergencies.
+&emsp;&emsp;(A) a natural disaster;
 
-&emsp;(3) The term “highest home energy needs” means the home energy requirements of a household determined by taking into accountboth the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
+&emsp;&emsp;(B) a significant home energy supply shortage or disruption;
 
-&emsp;(4) The term “household” means any individual or group of individuals who are living together as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
+&emsp;&emsp;(C) a significant increase in the cost of home energy, as determined by the Secretary;
 
-&emsp;(5) The term “home energy” means a source of heating or cooling in residential dwellings.
+&emsp;&emsp;(D) a significant increase in home energy disconnections reported by a utility, a State regulatory agency, or another agency with necessary data;
 
-&emsp;(6) The term “poverty level” means, with respect to a household in any State, the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title, as applicable to such State.
+&emsp;&emsp;(E) a significant increase in participation in a public benefit program such as the food stamp program carried out under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), the national program to provide supplemental security income carried out under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or the State temporary assistance for needy families program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), as determined by the head of the appropriate Federal agency;
 
-&emsp;(7) The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;&emsp;(F) a significant increase in unemployment, layoffs, or the number of households with an individual applying for unemployment benefits, as determined by the Secretary of Labor; or
 
-&emsp;(8) The term “State” means each of the several States and the District of Columbia.
+&emsp;&emsp;(G) an event meeting such criteria as the Secretary, in the discretion of the Secretary, may determine to be appropriate.
 
-&emsp;(9) The term “State median income” means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
+&emsp;(2) The term “energy burden” means the expenditures of the household for home energy divided by the income of the household.
 
-(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662.)
+&emsp;(3) The term “energy crisis” means weather-related and supply shortage emergencies and other household energy-related emergencies.
+
+&emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
+
+&emsp;(5) The term “household” means any individual or group of individuals who are livingtogether as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
+
+&emsp;(6) The term “home energy” means a source of heating or cooling in residential dwellings.
+
+&emsp;(7) The term “natural disaster” means a weather event (relating to cold or hot weather), flood, earthquake, tornado, hurricane, or ice storm, or an event meeting such other criteria as the Secretary, in the discretion of the Secretary, may determine to be appropriate.
+
+&emsp;(8) The term “poverty level” means, with respect to a household in any State, the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title, as applicable to such State.
+
+&emsp;(9) The term “Secretary” means the Secretary of Health and Human Services.
+
+&emsp;(10) The term “State” means each of the several States and the District of Columbia.
+
+&emsp;(11) The term “State median income” means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
+
+(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756.)
+
+#### References in Text
+
+The Food Stamp Act of 1977, referred to in par. (1)(E), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+The Social Security Act, referred to in par. (1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
-In par. (9), “August 12, 1981” substituted for “the day before the date of the enactment of this Act”, which date of enactment is Aug. 13, 1981.
+In par. (11), “August 12, 1981” substituted for “the day before the date of the enactment of this Act”, which date of enactment is Aug. 13, 1981.
 
 #### Amendments
 
+1998—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+
+Par. (4). Pub. L. 105–285, §304(a)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Pub. L. 105–285, §303, substituted “The term” for “the term” and a period for the semicolon at end.
+
+Pars. (5), (6). Pub. L. 105–285, §304(a)(3), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (8).
+
+Pars. (7) to (11). Pub. L. 105–285, §304(a)(1), (2), added par. (7) and redesignated formers pars. (6) to (9) as (8) to (11), respectively.
+
 1994—Par. (1). Pub. L. 103–252, §304(b)(1), (2), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 103–252, §304(b)(1), redesignated par. (1) as (2). Former par. (2) redesignated (4).
+Par. (2). Pub. L. 103–252, §311(c)(2), which directed the substitution of “The” for “the” and a period for the semicolon at end, could not be executed because the word “the” and a semicolon did not appear in par. (2) after the redesignations by Pub. L. 103–252, §304(b)(1). See below.
+
+Pub. L. 103–252, §304(b)(1), redesignated par. (1) as (2). Former par. (2) redesignated (4).
 
 Par. (3). Pub. L. 103–252, §304(b)(3), added par. (3). Former par. (3) redesignated (5).
 
-Par. (4). Pub. L. 103–252, §311(c)(2), which directed the substitution of “The” for “the” and a period for the semicolon at end of par. (2), was executed by making the substitutions in par. (4) to reflect the probable intent of Congress and the intervening redesignation of par. (2) as (4). See below.
-
-Pub. L. 103–252, §304(b)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
+Par. (4). Pub. L. 103–252, §304(b)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
 Pars. (5) to (9). Pub. L. 103–252, §304(b)(1), redesignated pars. (3) to (7) as (5) to (9), respectively.
 

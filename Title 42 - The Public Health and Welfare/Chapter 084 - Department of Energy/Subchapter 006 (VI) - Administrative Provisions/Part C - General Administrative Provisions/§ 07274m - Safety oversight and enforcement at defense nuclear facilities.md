@@ -82,7 +82,7 @@ Pub. L. 105–85, div. C, title XXXI, §3162, Nov. 18, 1997, 111 Stat. 2049, pro
 
 “(a)
 
-In General.—Not later than September 1 each year, the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] the report entitled ‘Annual Report to the President on the Status of Safeguards and Security of Domestic Nuclear Weapons Facilities’, or any successor report to such report.
+In General.—Not later than September 1 each year, the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] the report entitled ‘Annual Report to the President on the Status of Safeguards and Security of Domestic Nuclear Weapons Facilities’, or any successor report to such report.
 
 “(b)
 

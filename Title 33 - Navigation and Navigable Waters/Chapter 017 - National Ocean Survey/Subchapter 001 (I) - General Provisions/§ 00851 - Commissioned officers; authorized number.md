@@ -1,8 +1,8 @@
 ### §851. Commissioned officers; authorized number
 
-There are authorized in the National Oceanic and Atmospheric Administration 283 commissioned officers on the active list as of September 30, 1998.
+There are authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999.
 
-(Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2477.)
+(Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 105 Stat. 2681–50, 2681–83.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2477.
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title II\], Sept. 30, 1996, 110 Stat. 3009, 3009–37.
 
@@ -148,6 +150,10 @@ Section 857–5 of this title further provides for applicability of statutory pr
 
 The functions of all officers of Department of Commerce and all functions of all officers and employees of such Department, were, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. The Coast and Geodetic Survey was an agency within the Department of Commerce.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–384, title III, §301, Nov. 13, 1998, 112 Stat. 3454, provided that: “This title \[enacting subchapter IV of this chapter and amending sections 853a and 853u of this title\] may be cited as the ‘Hydrographic Services Improvement Act of 1998’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–567, title VI, §601, Oct. 29, 1992, 106 Stat. 4299, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘NOAA Fleet Modernization Act’.”
@@ -176,7 +182,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 #### Sec. 3. Environmental Science Services Administration
 
-(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agency in the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
+(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agencyin the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
 
 (b) The Secretary shall from time to time establish such constituent organizational entities of the Administration, with such names, as he shall determine.
 
@@ -224,11 +230,11 @@ I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance wi
 
 The reorganization plan consolidates the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration. It is the intention of the Secretary of Commerce to transfer the Central Radio Propagation Laboratory of the National Bureau of Standards to the Administration when the reorganization plan takes effect. The new Administration will then provide a single national focus for our efforts to describe, understand, and predict the state of the oceans, the state of the lower and upper atmosphere, and the size and shape of the earth.
 
-Establishment of the Administration will mark a significant step forward in the continual search by the Federal Government for better ways to meet the needs of the Nation for environmental science services. The organizational improvements made possible by the reorganization plan will enhance our ability to develop an adequate warning system for the severe hazards of nature—for hurricanes, tornadoes, floods, earthquakes, and seismic sea waves, which have proved so disastrous to the Nation in recent years. These improvements will permit us to provide better environmental information to vital segments of the Nation's economy—to agriculture, transportation, communications, and industry, which continually require information about the physical environment. They will mean better services to other Federal departments and agencies—to those that are concerned with the national defense, the exploration of outer space, the management of our mineral and water resources, the protection of the public health against environmental pollution, and the preservation of our wilderness and recreation areas.
+Establishment of the Administration will mark a significant step forward in the continual search by the Federal Government for better ways to meet the needs of the Nation for environmental science services. The organizational improvements made possible by the reorganization plan will enhance our ability to develop an adequate warning system for the severe hazards of nature—for hurricanes, tornadoes, floods, earthquakes, and seismic sea waves, which have proved so disastrous to the Nation in recent years. These improvements will permit us to provide better environmental informationto vital segments of the Nation's economy—to agriculture, transportation, communications, and industry, which continually require information about the physical environment. They will mean better services to other Federal departments and agencies—to those that are concerned with the national defense, the exploration of outer space, the management of our mineral and water resources, the protection of the public health against environmental pollution, and the preservation of our wilderness and recreation areas.
 
 The new Administration will bring together a number of allied scientific disciplines that are concerned with the physical environment. The integration will better enable us to look at man's physical environment as a scientific whole and to seek to understand the interactions among air, sea, and earth and between the upper and lower atmosphere. It will facilitate the development of programs dealing with the physical environment and will permit better management of these programs. It will enhance our capability to identify and solve important long-range scientific and technological problems associated with the physical environment. The new Administration will, in consequence, promote a fresh sense of scientific dedication, discovery, and challenge, which are essential if we are to attract scientists and engineers of creativity and talent to Federal employment in this field.
 
-The reorganization plan provides for an Administrator at the head of the Administration, and for a Deputy Administrator, each of whom will be appointed by the President by and with the advice and consent of theSenate. As authorized by the civil service and other laws and regulations, subordinate officers of the Administration will be appointed by the Secretary of Commerce or be assigned by him from among a corps of commissioned officers. The Administration will perform such functions as the Secretary of Commerce may delegate or otherwise assign to it and will be under his direction and control.
+The reorganization plan provides for an Administrator at the head of the Administration, and for a Deputy Administrator, each of whom will be appointed by the President by and with the advice and consent of the Senate. As authorized by the civil service and other laws and regulations, subordinate officers of the Administration will be appointed by the Secretary of Commerce or be assigned by him from among a corps of commissioned officers. The Administration will perform such functions as the Secretary of Commerce may delegate or otherwise assign to it and will be under his direction and control.
 
 Commissioned officers of the Coast and Geodetic Survey will become commissioned officers of the Administration and may serve at the discretion of the Secretary of Commerce throughout the Administration. The reorganization plan authorizes the President at his discretion to fill the Office of Deputy Administrator by appointment, by and with the advice and consent of the Senate, from the active list of commissioned officers of the Administration.
 

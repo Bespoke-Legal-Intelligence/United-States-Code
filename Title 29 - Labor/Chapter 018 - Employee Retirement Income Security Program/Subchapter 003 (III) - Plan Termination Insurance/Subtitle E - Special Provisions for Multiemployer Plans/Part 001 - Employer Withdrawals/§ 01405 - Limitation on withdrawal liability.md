@@ -2,7 +2,7 @@
 
 #### (a) Unfunded vested benefits allocable to employer in bona fide sale of assets of employer in arms-length transaction to unrelated party; maximum amount; determinative factors
 
-(1) In the case of bona fide sale of all or substantially all of the employer's assets in an arm's-length transaction to an unrelated party (within the meaning of section 1384(d) of this title), the unfunded vested benefits allocable to an employer (after the application of all sections of this part having a lower number designation than this section), other than an employer undergoing reorganization under title 11or similar provisions of State law, shall not exceed the greater of—
+(1) In the case of bona fide sale of all or substantially all of the employer's assets in an arm's-length transaction to an unrelated party (within the meaning of section 1384(d) of this title), the unfunded vested benefits allocable to an employer (after the application of all sections of this part having a lower number designation than this section), other than an employer undergoing reorganization under title 11 or similar provisions of State law, shall not exceed the greater of—
 
 &emsp;(A) a portion (determined under paragraph (2)) of the liquidation or dissolution value of the employer (determined after the sale or exchange of such assets), or
 
@@ -43,7 +43,7 @@ To the extent that the withdrawal liability of an employer is attributable to hi
 
 For purposes of this section—
 
-&emsp;(1) an employer is insolvent if the liabilities of the employer, including withdrawal liability under the plan (determined without regard to subsection (b) of this section), exceed the assets of the employer (determined as of the commencement of the liquidation or dissolution), and
+&emsp;(1) an employer is insolvent if the liabilities of the employer, including withdrawal liability under the plan (determined without regard to subsection (b) of this section), exceed the assets of the employer (determined as of thecommencement of the liquidation or dissolution), and
 
 &emsp;(2) the liquidation or dissolution value of the employer shall be determined without regard to such withdrawal liability.
 

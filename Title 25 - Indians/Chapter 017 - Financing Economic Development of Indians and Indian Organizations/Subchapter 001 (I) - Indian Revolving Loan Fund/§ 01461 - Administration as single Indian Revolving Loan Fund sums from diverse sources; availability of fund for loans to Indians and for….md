@@ -10,7 +10,7 @@ Act of June 18, 1934, referred to in text, popularly known as the Indian Reorgan
 
 Act of June 26, 1936, referred to in text, popularly known as the Oklahoma Welfare Act, is classified generally to subchapter VIII (§501 et seq.) of chapter 14 of this title. Provisions of the act relating to the revolving fund appear in section 506 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 501 of this title and Tables.
 
-Act of April 19, 1950, referred to in text, is classified generally to subchapter XXI (§631 et seq.) of chapter 14of this title. Provisions of the act relating to the revolving fund appear in section 634 of this title. For complete classification of this Act to the Code, see Tables.
+Act of April 19, 1950, referred to in text, is classified generally to subchapter XXI (§631 et seq.) of chapter 14 of this title. Provisions of the act relating to the revolving fund appear in section 634 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

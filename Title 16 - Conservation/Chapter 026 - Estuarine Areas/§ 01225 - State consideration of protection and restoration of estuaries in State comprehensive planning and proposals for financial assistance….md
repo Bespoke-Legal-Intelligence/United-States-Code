@@ -12,7 +12,7 @@ The Federal Aid in Fish Restoration Act, as amended, referred to in text, is act
 
 The Land and Water Conservation Fund Act of 1965, referred to in text, is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-The Commercial Fisheries Research and Development Act of 1964, referred to in text, is Pub. L. 88–309, May 20, 1964, 78 Stat. 197, as amended, which was classified generally to chapter 10D (§779 et seq.) of this title, was repealed by Pub. L. 99–659, title III, §309, Nov. 14, 1986, 100 Stat. 3736.
+The Commercial Fisheries Research and Development Act of 1964, referred to in text, is Pub. L. 88–309, May20, 1964, 78 Stat. 197, as amended, which was classified generally to chapter 10D (§779 et seq.) of this title, was repealed by Pub. L. 99–659, title III, §309, Nov. 14, 1986, 100 Stat. 3736.
 
 The Anadromous and Great Lakes Fisheries Conservation Act of October 30, 1965, referred to in text, probably means the Anadromous Fish Conservation Act, Pub. L. 89–304, Oct. 30, 1965, 79 Stat. 1125, as amended, which is classified generally to sections 757a to 757g of this title. For complete classification of this Act to the Code, see Short Title note set out under section 757a of this title and Tables.
 

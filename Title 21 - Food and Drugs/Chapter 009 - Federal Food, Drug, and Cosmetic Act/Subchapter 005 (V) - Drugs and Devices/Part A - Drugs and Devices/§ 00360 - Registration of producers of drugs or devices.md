@@ -156,7 +156,7 @@ Subsec. (k). Pub. L. 94–295, §4(a)(9), added subsec. (k).
 
 1972—Subsec. (e). Pub. L. 92–387, §4(a), inserted provision that the Secretary may assign a listing number to each drug or class of drugs listed under subsec. (j).
 
-Subsec. (f). Pub. L. 92–387, §4(b), inserted exception that the list submitted under subsec. (j)(3) and information submitted under subsec. (j)(1), (2) shall be exempt from inspection unless the Secretary determines otherwise.
+Subsec. (f). Pub. L. 92–387, §4(b), inserted exception that the list submitted under subsec. (j)(3) and information submitted under subsec. (j)(1), (2) shall be exemptfrom inspection unless the Secretary determines otherwise.
 
 Subsec. (i). Pub. L. 92–387, §4(c), inserted provision that the regulations shall require such establishment to provide the information required by subsec. (j).
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 89–74 effective Feb. 1, 1966, subject to registration wit
 
 #### Savings Provision
 
-Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now theDrug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
+Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
 #### Congressional Declaration of Need for Registration and Inspection of Drug Establishments
 
@@ -212,5 +212,5 @@ Section 303 of Pub. L. 87–781 provided that any person who, on the day immedia
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 352, 353a, 355, 360c, 360e, 360i, 360j, 360m, 374, 379h, 381 of this title.
+This section is referred to in sections 331, 352, 353a, 355, 360c, 360e, 360i, 360j, 360m, 374, 379h, 381, 1602, 1604, 1605 of this title.
 

@@ -24,7 +24,7 @@ As used in this chapter:
 
 #### (B) Substantial portion
 
-&emsp;&emsp;In any case in which a handler packages cut flowers or cut greens with hard goods inan article (such as a gift basket or similar presentation) for sale to a retailer, the PromoFlor Council may determine, under procedures specified in the order, that the cut flowers or cut greens in the article do not constitute a substantial portion of the value of the article and that, based on the determination, the article shall not be treated as an article of cut flowers or cut greens subject to assessment under the order.
+&emsp;&emsp;In any case in which a handler packages cut flowers or cut greens with hard goods in an article (such as a gift basket or similar presentation) for sale to a retailer, the PromoFlor Council may determine, under procedures specified in the order, that the cut flowers or cut greens in the article do not constitute a substantial portion of the value of the article and that, based on the determination, the article shall not be treated as an article of cut flowers or cut greens subject to assessment under the order.
 
 #### (3) Gross sales price
 
@@ -66,7 +66,7 @@ As used in this chapter:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “qualified handler” includes an importer or producer that sells cut flowers or cut greens that the importer or producer has imported into the United States or produced, respectively, directly to consumers and whose sales of the cut flowers and cut greens (as calculated under subparagraph (C)), together with sales of cut flowers and cut greens to retailers or exempt handlers, annually are $750,000 or more.
+&emsp;&emsp;&emsp;&emsp;The term “qualified handler” includes an importer or producer that sells cut flowers or cut greens that the importer or producer has imported into the United States or produced, respectively, directly to consumers and whose sales of the cut flowers and cut greens (as calculated under subparagraph (C)), together with sales of cut flowers and cutgreens to retailers or exempt handlers, annually are $750,000 or more.
 
 #### (II) Sales
 
@@ -154,7 +154,7 @@ As used in this chapter:
 
 #### (ii) Importers and producers
 
-&emsp;&emsp;&emsp;An independently owned distribution center described in clause (i)(II) that also is an importer or producer of cut flowers or cut greens shall be subject to the rules of construction specified in paragraph (4)(A)(iii) and, for the purpose of the rules of construction, be considered to be the seller of the articles directly to the consumer.
+&emsp;&emsp;&emsp;An independently owned distribution center described in clause (i)(II) that also is an importer or producer of cut flowers or cut greens shall be subject to the rules of construction specified in paragraph\(4)(A)(iii) and, for the purpose of the rules of construction, be considered to be the seller of the articles directly to the consumer.
 
 #### (11) Secretary
 

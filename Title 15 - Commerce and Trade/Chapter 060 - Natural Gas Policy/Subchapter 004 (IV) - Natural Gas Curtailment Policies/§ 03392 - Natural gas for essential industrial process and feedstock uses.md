@@ -16,7 +16,7 @@ The provisions of subsection (a) of this section shall apply with respect to any
 
 #### (c) Determination of essential industrial use requirements
 
-The Secretary of Energy shall determine and certify to the Commission the natural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof) for essential industrial process and feedstock uses (other than those referred to in section 3391(f)(1)(B) of this title).
+The Secretary of Energy shall determine and certify to the Commission the natural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof)for essential industrial process and feedstock uses (other than those referred to in section 3391(f)(1)(B) of this title).
 
 #### (d) Definitions
 

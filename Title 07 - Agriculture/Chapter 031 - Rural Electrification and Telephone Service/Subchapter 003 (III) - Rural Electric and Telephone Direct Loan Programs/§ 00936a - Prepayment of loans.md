@@ -2,7 +2,7 @@
 
 #### (a) Conditions for prepayment
 
-Except as provided in subsection (c) of this section, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 936 of this title may prepay such loan (or any loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
+Except as provided in subsection (c) of this section, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 936 of this title may prepay such loan (orany loan advance thereunder) by paying the outstanding principal balance due on the loan (or advance), if—
 
 &emsp;(1) the loan is outstanding on July 2, 1986;
 
@@ -34,7 +34,7 @@ No sums in addition to the payment of the outstanding principal balance due on t
 
 Any guarantee of a loan prepaid under this section shall be fully assignable under the provisions of section 936 of this title and transferable. However, the Secretary may require that any such guarantee, if transfered <sup>1</sup> or assigned, be transferred or assigned to a loan or security that, if sold, will be grouped with nonguaranteed loans or securities and sold in a manner to ensure that such sale will not unreasonably compete with the marketing of obligations of the United States.
 
-(May 20, 1936, ch. 432, title III, §306A, as added Oct. 21, 1986, Pub. L. 99–509, title I, §1011(a), 100 Stat. 1875; amended Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(7), (13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §306A, as added Pub. L. 99–509, title I, §1011(a), Oct. 21, 1986, 100 Stat. 1875; amended Pub. L. 103–354, title II, §235(a)(7), (13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### References in Text
 

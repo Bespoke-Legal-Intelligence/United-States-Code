@@ -2,7 +2,7 @@
 
 In all cases of conviction by a United States magistrate an appeal of right shall lie from the judgment of the magistrate to a judge of the district court of the district in which the offense was committed.
 
-(June 25, 1948, ch. 645, 62 Stat. 831; Oct. 17, 1968, Pub. L. 90–578, title III, §302(b), 82 Stat. 1116; Nov. 19, 1988, Pub. L. 100–702, title IV, §404(b)(2), 102 Stat. 4651.)
+(June 25, 1948, ch. 645, 62 Stat. 831; Pub. L. 90–578, title III, §302(b), Oct. 17, 1968, 82 Stat. 1116; Pub. L. 100–702, title IV, §404(b)(2), Nov. 19, 1988, 102 Stat. 4651.)
 
 #### Historical and Revision Notes
 

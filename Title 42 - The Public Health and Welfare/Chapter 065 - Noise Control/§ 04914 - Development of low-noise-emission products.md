@@ -8,7 +8,7 @@ For the purpose of this section:
 
 &emsp;(2) The term “Federal Government” includes the legislative, executive, and judicial branches of the Government of the United States, and the government of the District of Columbia.
 
-&emsp;(3) The term “low-noise-emission product” means any product which emits noise in amounts significantly below the levels specified in noise emission standards under regulations applicable under section 4905 of this titleat the time of procurement to that type of product.
+&emsp;(3) The term “low-noise-emission product” means any product which emits noise in amounts significantly below the levels specified in noise emission standards under regulations applicable under section 4905 of this title at the time of procurement to that type of product.
 
 &emsp;(4) The term “retail price” means (A) the maximum statutory price applicable to any type of product; or (B) in any case where there is no applicable maximum statutory price, the most recent procurement price paid for any type of product.
 
@@ -38,7 +38,7 @@ For the purpose of this section:
 
 (E) The Administrator shall receive and evaluate written comments and documents from interested persons in support of, or in opposition to, certification of the class or model of product under consideration.
 
-(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shall reach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
+(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shallreach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
 
 (G) Immediately upon making any determination or decision under subparagraph (F), the Administrator shall publish in the Federal Register notice of such determination or decision, including reasons therefor.
 
@@ -58,7 +58,7 @@ For the purpose of procuring certified low-noise-emission products any statutory
 
 #### (f) Tests of noise emissions from products purchased by Federal Government
 
-The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show causewhy the product involved should be eligible for recertification.
+The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show cause why the product involved should be eligible for recertification.
 
 #### (g) Authorization of appropriations
 

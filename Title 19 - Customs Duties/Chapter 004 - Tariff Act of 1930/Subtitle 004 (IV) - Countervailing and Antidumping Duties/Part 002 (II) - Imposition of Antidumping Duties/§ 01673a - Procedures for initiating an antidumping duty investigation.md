@@ -106,7 +106,7 @@
 
 #### (ii) Producers who are importers
 
-&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producers of a domestic like product who are importers of the subject merchandise.
+&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producersof a domestic like product who are importers of the subject merchandise.
 
 #### (C) Special rule for regional industries
 
@@ -122,7 +122,7 @@
 
 #### (E) Comments by interested parties
 
-&emsp;&emsp;Before the administering authority makes a determination with respect to initiatingan investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
+&emsp;&emsp;Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
 #### (5) “Domestic producers or workers” defined
 
@@ -146,7 +146,7 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 > the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under section 1673d(a) of this title, the investigation is terminated, or the administering authority withdraws the request.
 
-(June 17, 1930, ch. 497, title VII, §732, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 162; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §609, 98 Stat. 3030; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(2), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(b)(1), 1326(d)(1), 102 Stat. 1200, 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), 108 Stat. 4843, 4845, 4900, 4901; Oct. 11, 1996, Pub. L. 104–295, §20(b)(4), (8), (9), 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §732, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 162; amended Pub. L. 98–573, title VI, §609, Oct. 30, 1984, 98 Stat. 3030; Pub. L. 99–514, title XVIII, §1886(a)(2), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(b)(1), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1200, 1204; Pub. L. 103–465, title II, §§211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), Dec. 8, 1994, 108 Stat. 4843, 4845, 4900, 4901; Pub. L. 104–295, §20(b)(4), (8), (9), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 
@@ -176,7 +176,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(2), amended heading and text of subsec.
 
 Subsec. (e). Pub. L. 103–465, §233(a)(5)(R), in concluding provisions, substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
 
-Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”.
+Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kindof the merchandise which is the subject of the investigation”.
 
 Subsec. (e)(2). Pub. L. 103–465, §233(a)(5)(Q), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 

@@ -4,7 +4,7 @@
 
 (b) The price established by the Secretary of Agriculture under the foregoing provisions of this section for practical forms representing the official cotton standards of the United States shall cover, as nearly as practicable, the estimated actual cost to the Department of Agriculture for developing and preparing such practical forms.
 
-(Mar. 4, 1923, ch. 288, §5, 42 Stat. 1518; Aug. 13, 1981, Pub. L. 97–35, title I, §156(a), 95 Stat. 373; Oct. 24, 1988, Pub. L. 100–518, §4, 102 Stat. 2587.)
+(Mar. 4, 1923, ch. 288, §5, 42 Stat. 1518; Pub. L. 97–35, title I, §156(a), Aug. 13, 1981, 95 Stat. 373; Pub. L. 100–518, §4, Oct. 24, 1988, 102 Stat. 2587.)
 
 #### References in Text
 
@@ -14,7 +14,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 1988—Subsec. (a). Pub. L. 100–518 included late payment penalties, proceeds, and interest within amounts to be credited to current appropriation account and remain available until expended, and authorized investment of such funds in certain interest-bearing accounts or debt instruments.
 
-1981—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions requiring Secretaryto cause to be collected fees and charges, for provisions authorizing Secretary to cause to be collected charges, and added subsec. (b).
+1981—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions requiring Secretary to cause to be collected fees and charges, for provisions authorizing Secretary to cause to be collected charges, and added subsec. (b).
 
 #### Effective Date of 1981 Amendment
 

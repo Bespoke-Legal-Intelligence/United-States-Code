@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish within the Department of Agriculture a board to be known asthe “National Agricultural Research, Extension, Education, and Economics Advisory Board”.
+The Secretary shall establish within the Department of Agriculture a board to be known as the “National Agricultural Research, Extension, Education, and Economics Advisory Board”.
 
 #### (b) Membership
 
@@ -90,6 +90,10 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 &emsp;The Advisory Board shall establish an executive committee charged with the responsibility of working with the Secretary and officers and employees of the Department of Agriculture to summarize and disseminate the recommendations of the Advisory Board.
 
+#### (7) Equal representation of public and private sector members
+
+&emsp;In appointing members to serve on the Advisory Board, the Secretary shall ensure, to the maximum extent practicable, equal representation of public and private sector members.
+
 #### (c) Duties
 
 The Advisory Board shall—
@@ -102,7 +106,7 @@ The Advisory Board shall—
 
 &emsp;(4) review the mechanisms of the Department of Agriculture for technology assessment (which should be conducted by qualified professionals) for the purposes of—
 
-&emsp;&emsp;(A) performance measurement and evaluation of the implementation by the Secretaryof the strategic plan required under section 306 of title 5;
+&emsp;&emsp;(A) performance measurement and evaluation of the implementation by the Secretary of the strategic plan required under section 306 of title 5;
 
 &emsp;&emsp;(B) implementation of the national research policies and priorities set forth in section 3101 of this title; and
 
@@ -110,7 +114,17 @@ The Advisory Board shall—
 
 #### (d) Consultation
 
-In carrying out this section, the Advisory Board shall solicit opinions and recommendations from persons who will benefit from and use federally funded agricultural research, extension, education, and economics.
+#### (1) Duties of Advisory Board
+
+&emsp;In carrying out this section, the Advisory Board shall solicit opinions and recommendations from persons who will benefit from and use federally funded agricultural research, extension, education, and economics.
+
+#### (2) Duties of Secretary
+
+&emsp;To comply with a provision of this chapter or any other law that requires the Secretary to consult or cooperate with the Advisory Board or that authorizes the Advisory Board to submit recommendations to the Secretary, the Secretary shall—
+
+&emsp;&emsp;(A) solicit the written opinions and recommendations of the Advisory Board; and
+
+&emsp;&emsp;(B) provide a written response to the Advisory Board regarding the manner and extent to which the Secretary will implement recommendations submitted by the Advisory Board.
 
 #### (e) Appointment
 
@@ -120,11 +134,21 @@ A member of the Advisory Board shall be appointed by the Secretary for a term of
 
 The Advisory Board shall be deemed to have filed a charter for the purpose of section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
 
-#### (g) Termination
+#### (g) Annual limitation on Advisory Board expenses
+
+#### (1) Maximum amount
+
+&emsp;Not more than $350,000 may be used to cover the necessary expenses of the Advisory Board for each fiscal year.
+
+#### (2) General limitation
+
+&emsp;The expenses of the Advisory Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture contained in any Act making appropriations for the Department of Agriculture, whether enacted before, on, orafter June 23, 1998, unless the appropriation Act specifically refers to this subsection and specifically includes this Advisory Board within the general limitation.
+
+#### (h) Termination
 
 The Advisory Board shall remain in existence until September 30, 2002.
 
-(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156.)
+(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538.)
 
 #### References in Text
 
@@ -132,9 +156,17 @@ Act of July 2, 1862, referred to in subsec. (b)(3)(M), is act July 2, 1862, ch. 
 
 Act of August 30, 1890, referred to in subsec. (b)(3)(N), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
+For definition of “this chapter”, referred to in subsec. (d)(2), see note set out under section 3102 of this title.
+
 Section 9 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (b)(7). Pub. L. 105–185, §222(a), added par. (7).
+
+Subsec. (d). Pub. L. 105–185, §222(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsecs. (g), (h). Pub. L. 105–185, §222(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which established National Agricultural Research and Extension Users Advisory Board and provided for membership, chairperson and vice-chairperson, meetings, panels of the Board, responsibilities of the Board, reports by the Board, and a report by the Secretary of Agriculture on manner in which recommendations of Board had been incorporated into programs of Department of Agriculture.
 
@@ -166,5 +198,5 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 390b, 2204f of this title; title 16 section 1673.
+This section is referred to in sections 344, 361g, 390b, 450i, 2204f, 7601 of this title; title 16 section 1673.
 

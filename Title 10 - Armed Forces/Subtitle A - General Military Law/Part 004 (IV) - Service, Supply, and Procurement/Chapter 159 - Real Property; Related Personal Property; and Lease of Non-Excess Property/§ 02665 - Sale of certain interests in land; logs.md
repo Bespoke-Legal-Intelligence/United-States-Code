@@ -12,7 +12,7 @@
 
 (2) The amount paid to a State pursuant to paragraph (1) shall be expended as the State legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which the military installation or facility is situated.
 
-(3) In a case in which a military installation or facility is located in more than one State or county, the amount paid pursuant to paragraph (1) shall be distributed in a manner proportional to the area of such installation or facility in each State or county.
+(3) In a case in which a military installation or facility is located in more than one State or county, the amount paid pursuant to paragraph (1) shall be distributed in a manner proportionalto the area of such installation or facility in each State or county.
 
 (f)(1) There is in the Treasury a reserve account administered by the Secretary of Defense for the purposes of this section. Balances in the account may be used for costs of the military departments—
 
@@ -30,7 +30,7 @@
 
 (3) The reserve account may not exceed $4,000,000 on December 31 of any calendar year. Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Aug. 1, 1977, Pub. L. 95–82, title VI, §610, 91 Stat. 378; Dec. 12, 1980, Pub. L. 96–513, title V, §511(91), 94 Stat. 2928; Aug. 6, 1981, Pub. L. 97–31, §12(3)(B), 95 Stat. 153; Dec. 23, 1981, Pub. L. 97–99, title IX, §910(a), 95 Stat. 1386; Oct. 12, 1982, Pub. L. 97–295, §1(33), 96 Stat. 1296; Aug. 28, 1984, Pub. L. 98–407, title VIII, §809(a), 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, §809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151.)
 
 Historical and Revision Notes<br>1956
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 97–99 added subsec. (e).
 
 1980—Subsecs. (a), (b). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board”.
 
-1977—Subsec. (d). Pub. L. 95–82 substituted provisions relating to reimbursement of production expenses during any fiscal year from proceeds from sales for property during such fiscal year, for provisions requiring proceeds from sales under subsecs. (a) or (b) of this section to be credited to the appropriations under which the property concerned was procured.
+1977—Subsec. (d). Pub. L. 95–82 substituted provisions relating to reimbursement of production expenses during any fiscal year from proceeds from sales for property during such fiscal year, for provisions requiringproceeds from sales under subsecs. (a) or (b) of this section to be credited to the appropriations under which the property concerned was procured.
 
 #### Effective Date of 1984 Amendment
 

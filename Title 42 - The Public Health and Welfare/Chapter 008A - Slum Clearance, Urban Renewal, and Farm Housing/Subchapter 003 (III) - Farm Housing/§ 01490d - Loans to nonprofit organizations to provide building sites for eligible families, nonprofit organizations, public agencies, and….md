@@ -10,7 +10,7 @@ Revolving funds.—The Secretary may make grants to nonprofit housing agencies t
 
 (b) In determining whether to extend financial assistance under this section, the Secretary shall take into consideration, among other factors, (1) the suitability of the area to the types of dwellings which can feasibly be provided, and (2) the extent to which the assistance will (i) facilitate providing needed decent, safe, and sanitary housing, (ii) be utilized efficiently and expeditiously, and (iii) fulfill a need in the area which is not otherwise being met through other programs, including those being carried out by other Federal, State, or local agencies.
 
-(July 15, 1949, ch. 338, title V, §524, as added Dec. 24, 1969, Pub. L. 91–152, title IV, §413(f)(1), 83 Stat. 399; amended Aug. 22, 1974, Pub. L. 93–383, title V, §513, 88 Stat. 696; Oct. 8, 1980, Pub. L. 96–399, title V, §507(f), 94 Stat. 1670; Oct. 28, 1992, Pub. L. 102–550, title VII, §715, 106 Stat. 3842.)
+(July 15, 1949, ch. 338, title V, §524, as added Pub. L. 91–152, title IV, §413(f)(1), Dec. 24, 1969, 83 Stat. 399; amended Pub. L. 93–383, title V, §513, Aug. 22, 1974, 88 Stat. 696; Pub. L. 96–399, title V, §507(f), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 102–550, title VII, §715, Oct. 28, 1992, 106 Stat. 3842.)
 
 #### Amendments
 

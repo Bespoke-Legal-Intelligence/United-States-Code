@@ -58,13 +58,13 @@ The Administrator shall conduct biomedical studies to—
 
 #### (2) Training and education
 
-&emsp;The Director and Administrator shall jointly establish a national health care provider training and public education campaign to inform both the professional health care provider community and the general public about waterborne disease and the symptoms that may be caused by infectious agents, including microbial contaminants. In developing such a campaign, they shall seek comment from interested groups and individuals, including scientists, physicians, State and local governments, environmental groups, public water systems, and vulnerable populations.
+&emsp;The Director and Administrator shall jointly establish a national health care provider training and public education campaign to inform both the professional health care provider community and the general public about waterborne disease and the symptoms that may be caused by infectious agents, includingmicrobial contaminants. In developing such a campaign, they shall seek comment from interested groups and individuals, including scientists, physicians, State and local governments, environmental groups, public water systems, and vulnerable populations.
 
 #### (3) Funding
 
 &emsp;There are authorized to be appropriated for each of the fiscal years 1997 through 2001, $3,000,000 to carry out this subsection. To the extent funds under this subsection are not fully appropriated, the Administrator may use not more than $2,000,000 of the funds from amounts reserved under section 300j–12(n) of this title for health effects studies for purposes of this subsection. The Administrator may transfer a portion of such funds to the Centers for Disease Control and Prevention for such purposes.
 
-(July 1, 1944, ch. 373, title XIV, §1458, as added Aug. 6, 1996, Pub. L. 104–182, title I, §137, 110 Stat. 1680.)
+(July 1, 1944, ch. 373, title XIV, §1458, as added Pub. L. 104–182, title I, §137, Aug. 6, 1996, 110 Stat. 1680.)
 
 #### Section Referred to in Other Sections
 

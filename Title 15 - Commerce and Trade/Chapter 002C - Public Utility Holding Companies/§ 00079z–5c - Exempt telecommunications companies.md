@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (b) State consent for sale of existing rate-based facilities
 
-If a rate or charge for the sale of electric energy or natural gas (other than any portion of arate or charge which represents recovery of the cost of a wholesale rate or charge) for, or in connection with, assets of a public utility company that is an associate company or affiliate of a registered holding company was in effect under the laws of any State as of December 19, 1995, the public utility company owning such assets may not sell such assets to an exempt telecommunications company that is an associate company or affiliate unless State commissions having jurisdiction over such public utility company approve such sale. Nothing in this subsection shall preempt the otherwise applicable authority of any State to approve or disapprove the sale of such assets. The approval of the Commission under this chapter shall not be required for the sale of assets as provided in this subsection.
+If a rate or charge for the sale of electric energy or natural gas (other than any portion of a rate or charge which represents recovery of the cost of a wholesale rate or charge) for, or in connection with, assets of a public utility company that is an associate company or affiliate of a registered holding company was in effect under the laws of any State as of December 19, 1995, the public utility company owning such assets may not sell such assets to an exempt telecommunications company that is an associate company or affiliate unless State commissions having jurisdiction over such public utility company approve such sale. Nothing in this subsection shall preempt the otherwise applicable authority of any State to approve or disapprove the sale of such assets. The approval of the Commission under this chapter shall not be required for the sale of assets as provided in this subsection.
 
 #### (c) Ownership of ETCS by exempt holding companies
 
@@ -64,7 +64,7 @@ The relationship between an exempt telecommunications company and a registered h
 
 #### (3) Authority to limit disclosure of information
 
-&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection. Nothing in this subsection shall authorize the Commission to withhold the information from Congress, or prevent the Commission from complying with a request for information from any other Federal or State department or agency requesting the information for purposes within the scope of its jurisdiction. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection. Nothing in this subsection shall authorize the Commission to withhold the information from Congress, or prevent the Commission from complying witha request for information from any other Federal or State department or agency requesting the information for purposes within the scope of its jurisdiction. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (g) Assumption of liabilities
 
@@ -134,7 +134,7 @@ Reciprocal arrangements among companies that are not affiliates or associate com
 
 &emsp;(A) If a State commission orders an audit in accordance with paragraph (1), the public utility company and the State commission shall jointly select, within 60 days, a firm to perform the audit. The firm selected to perform the audit shall possess demonstrated qualifications relating to—
 
-&emsp;&emsp;(i) competency, including adequate technical training and professional proficiencyin each discipline necessary to carry out the audit; and
+&emsp;&emsp;(i) competency, including adequate technical training and professional proficiency in each discipline necessary to carry out the audit; and
 
 &emsp;&emsp;(ii) independence and objectivity, including that the firm be free from personal or external impairments to independence, and should assume an independent position with the State commission and auditee, making certain that the audit is based upon an impartial consideration of all pertinent facts and responsible opinions.
 
@@ -148,7 +148,7 @@ Reciprocal arrangements among companies that are not affiliates or associate com
 
 Nothing in this section shall affect the authority of the Federal Communications Commission under the Communications Act of 1934 \[47 U.S.C. 151 et seq.\], or the authority of State commissions under State laws concerning the provision of telecommunications services, to regulate the activities of an exempt telecommunications company.
 
-(Aug. 26, 1935, ch. 687, title I, §34, as added Feb. 8, 1996, Pub. L. 104–104, title I, §103, 110 Stat. 81.)
+(Aug. 26, 1935, ch. 687, title I, §34, as added Pub. L. 104–104, title I, §103, Feb. 8, 1996, 110 Stat. 81.)
 
 #### References in Text
 

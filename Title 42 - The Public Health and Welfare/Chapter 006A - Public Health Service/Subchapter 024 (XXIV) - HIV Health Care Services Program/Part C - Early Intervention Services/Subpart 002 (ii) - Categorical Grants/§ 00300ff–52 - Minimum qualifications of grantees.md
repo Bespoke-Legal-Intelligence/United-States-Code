@@ -32,11 +32,11 @@ The entities referred to in section 300ff–51(a) of this title are public entit
 
 &emsp;(B) A determination by the Secretary of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
 
-(July 1, 1944, ch. 373, title XXVI, §2652, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 607; amended Nov. 15, 1990, Pub. L. 101–557, title IV, §401(b)(3), 104 Stat. 2771; May 20, 1996, Pub. L. 104–146, §3(d)(2), 110 Stat. 1357.)
+(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357.)
 
 #### References in Text
 
-Sections 254b and 254c of this title, referred to in subsec. (a)(1), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Sections 254b and 254c of this title, referred to in subsec. (a)(1), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enactednew sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 Section 256 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 

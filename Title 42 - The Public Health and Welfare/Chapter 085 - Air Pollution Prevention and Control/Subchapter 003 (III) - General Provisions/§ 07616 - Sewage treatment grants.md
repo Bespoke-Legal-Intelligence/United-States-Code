@@ -26,7 +26,7 @@ The Administrator may withhold, condition, or restrict the making of any grant f
 
 Nothing in this section shall be construed to amend or alter any provision of the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\] or to affect any determination as to whether or not the requirements of such Act have been met in the case of the construction of any sewage treatment works.
 
-(July 14, 1955, ch. 360, title III, §316, as added Aug. 7, 1977, Pub. L. 95–95, title III, §306, 91 Stat. 777.)
+(July 14, 1955, ch. 360, title III, §316, as added Pub. L. 95–95, title III, §306, Aug. 7, 1977, 91 Stat. 777.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ The National Environmental Policy Act, referred to in subsec. (c), probably mean
 
 #### Prior Provisions
 
-A prior section 316 of act July 14, 1955, ch. 360, title III, formerly §13, as added Dec. 17, 1963, Pub. L. 88–206,§1, 77 Stat. 401; renumbered §306 and amended Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), (6), (7), 79 Stat. 992; Oct. 15, 1966, Pub. L. 89–675, §2(a), 80 Stat. 954; renumbered §309 and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §316 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 13(b), 84 Stat. 1705, 1709; Apr. 9, 1973, Pub. L. 93–15, §1(c), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, §13(c), 88 Stat. 265, authorized appropriations for air pollution control, prior to repeal by section 306 of Pub. L. 95–95. See section 7626 of this title.
+A prior section 316 of act July 14, 1955, ch. 360, title III, formerly §13, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 401; renumbered §306 and amended Oct. 20, 1965, Pub. L. 89–272, title I, §101(4), (6), (7), 79 Stat. 992; Oct. 15, 1966, Pub. L. 89–675, §2(a), 80 Stat. 954; renumbered §309 and amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §316 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 13(b), 84 Stat. 1705, 1709; Apr. 9, 1973, Pub. L. 93–15, §1(c), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, §13(c), 88 Stat. 265, authorized appropriations for air pollution control, prior to repeal by section 306 of Pub. L. 95–95. See section 7626 of this title.
 
 #### Effective Date
 

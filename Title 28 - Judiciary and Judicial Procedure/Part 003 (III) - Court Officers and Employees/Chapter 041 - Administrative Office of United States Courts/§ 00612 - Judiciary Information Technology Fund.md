@@ -132,7 +132,7 @@ Section 606 of Public Law 100–459, referred to in subsec. (i), is section 606 
 
 #### Amendments
 
-<b>1997</b>—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+1997—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
 Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read as follows:
 
@@ -140,7 +140,7 @@ Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read a
 
 Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining in the Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
 
-<b>1996</b>—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
+1996—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
 
@@ -166,7 +166,7 @@ Definition.—For purposes of this section, the term ‘automatic data processin
 
 Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
+1994—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
 
 Subsec. (b)(1). Pub. L. 103–420, §2(2), substituted “activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” for “judicial branch”.
 
@@ -193,10 +193,4 @@ Subsec. (m). Pub. L. 103–420, §2(9), (10), redesignated subsec. (<i>l</i>) as
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “subparagraph (c)(1)(B)”.</i>
 

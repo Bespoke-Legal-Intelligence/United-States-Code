@@ -12,7 +12,7 @@
 
 &emsp;(3) The Veterans Benefits Administration.
 
-&emsp;(4) The National Cemetery System.
+&emsp;(4) The National Cemetery Administration.
 
 &emsp;(5) The Board of Veterans’ Appeals.
 
@@ -24,7 +24,7 @@
 
 &emsp;(9) Any office, agency, or activity under the control or supervision of any element named in paragraphs (1) through (8).
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 378.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 378; amended Pub. L. 105–368, title IV, §403(a)(2), Nov. 11, 1998, 112 Stat. 3338.)
 
 #### Prior Provisions
 
@@ -33,6 +33,10 @@ Prior section 301 was renumbered section 1101 of this title.
 Provisions similar to those in subsec. (a) of this section were contained in section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act.
 
 Provisions similar to those in subsec. (b) of this section were contained in section 201 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### Amendments
+
+1998—Subsec. (c)(4). Pub. L. 105–368 substituted “Administration” for “System”.
 
 #### Renaming of Veterans Health Services and Research Administration
 
@@ -62,7 +66,7 @@ Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642,
 
 #### “SEC. 6. VETERANS HEALTH SERVICES AND RESEARCH ADMINISTRATION.
 
-“The establishment within the Veterans’ Administration known as the Department of Medicine and Surgery is hereby redesignated as the Veterans Health Services and Research Administration of the Department of Veterans Affairs.
+“The establishment within the Veterans’ Administration known as the Department of Medicine and Surgeryis hereby redesignated as the Veterans Health Services and Research Administration of the Department of Veterans Affairs.
 
 #### “SEC. 7. VETERANS BENEFITS ADMINISTRATION.
 
@@ -102,9 +106,9 @@ Redesignation.—The Office of Inspector General of the Veterans’ Administrati
 
 &emsp;“(7) to the Department of Veterans’ Benefits of the Veterans’ Administration shall be deemed to refer to the Veterans Benefits Administration of the Department of Veterans Affairs;
 
-&emsp;“(8) to the Chief Memorial Affairs Director of the Veterans’ Administration shall be deemed to refer to the Director of the National Cemetery System of the Department of Veterans Affairs; and
+&emsp;“(8) to the Chief Memorial Affairs Director of the Veterans’ Administration shall be deemed to refer to the Director of the National Cemetery System \[now Under Secretary of Veterans Affairs for Memorial Affairs\] of the Department of Veterans Affairs; and
 
-&emsp;“(9) to the Department of Memorial Affairs of the Veterans’ Administration shall be deemed to refer to the National Cemetery System of the Department of Veterans Affairs.
+&emsp;“(9) to the Department of Memorial Affairs of the Veterans’ Administration shall be deemed to refer to the National Cemetery System \[now National Cemetery Administration\] of the Department of Veterans Affairs.
 
 #### “SEC. 11. SAVINGS PROVISIONS.
 
@@ -142,7 +146,7 @@ Compensation for Continued Service.—Any person—
 
 &emsp;“(2) who continues to serve as Chief Medical Director \[now Under Secretary for Health\] or Chief Benefits Director \[now Under Secretary for Benefits\] of such department under section 3(f) or (g), respectively;
 
-&emsp;“(3) who acts as the Director of the National Cemetery System under section 3(h); or
+&emsp;“(3) who acts as the Director of the National Cemetery System \[now Under Secretary of Veterans Affairs for Memorial Affairs\] under section 3(h); or
 
 &emsp;“(4) who acts as General Counsel of the Department of Veterans Affairs under section 8(b);
 

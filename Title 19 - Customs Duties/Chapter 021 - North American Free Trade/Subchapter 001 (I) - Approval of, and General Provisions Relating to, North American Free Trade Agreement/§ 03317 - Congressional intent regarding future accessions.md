@@ -42,7 +42,7 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 &emsp;&emsp;(B) with respect to each country selected, the specific negotiating objectives that are necessary to meet the objectives of the United States under this section; and
 
-&emsp;&emsp;(C) legislative proposals to ensure adequate consultation with the Congress and the private sector during the negotiations, advance Congressional approval of the negotiations recommended by the President, and Congressional approval of any trade agreement entered into by the President as a result of the negotiations.
+&emsp;&emsp;(C) legislative proposals to ensure adequate consultation with the Congress and the private sector during the negotiations,advance Congressional approval of the negotiations recommended by the President, and Congressional approval of any trade agreement entered into by the President as a result of the negotiations.
 
 #### (5) General negotiating objectives
 

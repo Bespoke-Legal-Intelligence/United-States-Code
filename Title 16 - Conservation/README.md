@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 1997 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 1998 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -20,7 +20,7 @@
 | [<b>5C.</b>](Chapter%20005C%20-%20Conservation%20Programs%20on%20Government%20Lands/README.md) | <b>Conservation Programs on Government Lands</b> | <b>670a</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Game%20and%20Bird%20Preserves%3B%20Protection/README.md) | <b>Game and Bird Preserves; Protection</b> | <b>671</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Protection%20of%20Migratory%20Game%20and%20Insectivorous%20Birds/README.md) | <b>Protection of Migratory Game and Insectivorous Birds</b> | <b>701</b> |
-| [<b>8.</b>](Chapter%20008%20-%20Upper%20Mississippi%20River%20Wild%20Life%20and%20Fish%20Refuge/README.md) | <b>Upper Mississippi River Wild Life and Fish Refuge</b> | <b>721</b> |
+| [<b>8.</b>](Chapter%20008%20-%20Upper%20Mississippi%20River%20National%20Wildlife%20and%20Fish%20Refuge/README.md) | <b>Upper Mississippi River National Wildlife and Fish Refuge</b> | <b>721</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Fish%20and%20Wildlife%20Service/README.md) | <b>Fish and Wildlife Service</b> | <b>741</b> |
 | [<b>9A.</b>](Chapter%20009A%20-%20Preservation%20of%20Fishery%20Resources/README.md) | <b>Preservation of Fishery Resources</b> | <b>755</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Northern%20Pacific%20Halibut%20Fishing/README.md) | <b>Northern Pacific Halibut Fishing</b> | <b>761</b> |
@@ -124,6 +124,7 @@
 | [<b>76.</b>](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md) | <b>Northwest Atlantic Fisheries Convention</b> | <b>5601</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md) | <b>Yukon River Salmon</b> | <b>5701</b> |
 | [<b>78.</b>](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md) | <b>National Natural Resources Conservation Foundation</b> | <b>5801</b> |
+| [<b>79.</b>](Chapter%20079%20-%20National%20Park%20Service%20Management/README.md) | <b>National Park Service Management</b> | <b>5901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -147,7 +148,7 @@
 - [Chapter 005C - Conservation Programs on Government Lands](Chapter%20005C%20-%20Conservation%20Programs%20on%20Government%20Lands/README.md)
 - [Chapter 006 - Game and Bird Preserves; Protection](Chapter%20006%20-%20Game%20and%20Bird%20Preserves%3B%20Protection/README.md)
 - [Chapter 007 - Protection of Migratory Game and Insectivorous Birds](Chapter%20007%20-%20Protection%20of%20Migratory%20Game%20and%20Insectivorous%20Birds/README.md)
-- [Chapter 008 - Upper Mississippi River Wild Life and Fish Refuge](Chapter%20008%20-%20Upper%20Mississippi%20River%20Wild%20Life%20and%20Fish%20Refuge/README.md)
+- [Chapter 008 - Upper Mississippi River National Wildlife and Fish Refuge](Chapter%20008%20-%20Upper%20Mississippi%20River%20National%20Wildlife%20and%20Fish%20Refuge/README.md)
 - [Chapter 009 - Fish and Wildlife Service](Chapter%20009%20-%20Fish%20and%20Wildlife%20Service/README.md)
 - [Chapter 009A - Preservation of Fishery Resources](Chapter%20009A%20-%20Preservation%20of%20Fishery%20Resources/README.md)
 - [Chapter 010 - Northern Pacific Halibut Fishing](Chapter%20010%20-%20Northern%20Pacific%20Halibut%20Fishing/README.md)
@@ -251,3 +252,4 @@
 - [Chapter 076 - Northwest Atlantic Fisheries Convention](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md)
 - [Chapter 077 - Yukon River Salmon](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md)
 - [Chapter 078 - National Natural Resources Conservation Foundation](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md)
+- [Chapter 079 - National Park Service Management](Chapter%20079%20-%20National%20Park%20Service%20Management/README.md)

@@ -24,6 +24,10 @@ Allowances, earnings and payments to individuals participating in programs under
 
 (Pub. L. 97–300, title I, §142, Oct. 13, 1982, 96 Stat. 1345; Pub. L. 97–404, §1(g), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title I, §132, Sept. 7, 1992, 106 Stat. 1045.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 Section 6(c) of the Fair Labor Standards Act, referred to in subsec. (a)(4)(A), is section 6(c) of act June 25, 1938, ch. 676, which was classified to section 206(c) of this title, and was repealed by Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929.

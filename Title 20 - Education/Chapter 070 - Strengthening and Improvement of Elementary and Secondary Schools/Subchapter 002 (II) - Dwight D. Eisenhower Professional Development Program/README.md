@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 6320, 7472, 8332, 8801, 8857, 8893 of this title.
+This subchapter is referred to in sections 2344, 6320, 7472, 8332, 8801, 8857, 8893 of this title.
 
 
 ---
@@ -14,5 +14,6 @@ This subchapter is referred to in sections 6320, 7472, 8332, 8801, 8857, 8893 of
 - [&sect; 06603 - Authorization of appropriations; allocation between parts](%C2%A7%2006603%20-%20Authorization%20of%20appropriations%3B%20allocation%20between%20parts.md)
 - [Part A - Federal Activities](Part%20A%20-%20Federal%20Activities/README.md)
 - [Part B - State and Local Activities](Part%20B%20-%20State%20and%20Local%20Activities/README.md)
-- [Part C - Professional Development Demonstration Project](Part%20C%20-%20Professional%20Development%20Demonstration%20Project/README.md)
-- [Part D - General Provisions](Part%20D%20-%20General%20Provisions/README.md)
+- [Part C - Reading and Literacy Grants](Part%20C%20-%20Reading%20and%20Literacy%20Grants/README.md)
+- [Part D - Professional Development Demonstration Project](Part%20D%20-%20Professional%20Development%20Demonstration%20Project/README.md)
+- [Part E - General Provisions](Part%20E%20-%20General%20Provisions/README.md)

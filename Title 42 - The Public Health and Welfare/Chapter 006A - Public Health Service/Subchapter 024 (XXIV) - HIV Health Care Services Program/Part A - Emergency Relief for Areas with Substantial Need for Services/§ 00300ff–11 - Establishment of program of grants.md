@@ -6,7 +6,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (b) Requirement regarding confirmation of cases
 
-The Secretary may not make a grant under subsection (a) of this section for a metropolitan area unless, before making any payments underthe grant, the cases of acquired immune deficiency syndrome reported for purposes of such subsection have been confirmed by the Secretary, acting through the Director of the Centers for Disease Control and Prevention.
+The Secretary may not make a grant under subsection (a) of this section for a metropolitan area unless, before making any payments under the grant, the cases of acquired immune deficiency syndrome reported for purposes of such subsection have been confirmed by the Secretary, acting through the Director of the Centers for Disease Control and Prevention.
 
 #### (c) Requirements regarding population
 
@@ -28,7 +28,7 @@ The Secretary may not make a grant under subsection (a) of this section for a me
 
 Notwithstanding any other provision of this section, a metropolitan area that was an eligible area under this part for fiscal year 1996 is an eligible area for fiscal year 1997 and each subsequent fiscal year.
 
-(July 1, 1944, ch. 373, title XXVI, §2601, as added Aug. 18, 1990, Pub. L. 101–381, title I, §101(3), 104 Stat. 576; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(25), 106 Stat. 3505; May 20, 1996, Pub. L. 104–146, §§3(a)(1), (2), 12(c)(1), 110 Stat. 1346, 1373.)
+(July 1, 1944, ch. 373, title XXVI, §2601, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 576; amended Pub. L. 102–531, title III, §312(d)(25), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §§3(a)(1), (2), 12(c)(1), May 20, 1996, 110 Stat. 1346, 1373.)
 
 #### Prior Provisions
 

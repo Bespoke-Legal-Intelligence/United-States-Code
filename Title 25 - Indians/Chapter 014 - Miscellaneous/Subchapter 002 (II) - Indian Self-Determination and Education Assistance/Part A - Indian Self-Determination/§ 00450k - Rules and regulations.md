@@ -14,7 +14,7 @@
 
 #### (b) Conflicting laws and regulations
 
-The provisions of this subchapter shall supersede any conflicting provisions of law (includingany conflicting regulations) in effect on the day before October 25, 1994, and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this subchapter.
+The provisions of this subchapter shall supersede any conflicting provisions of law (including any conflicting regulations) in effect on the day before October 25, 1994, and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this subchapter.
 
 #### (c) Revisions and amendments; procedures applicable
 
@@ -88,7 +88,7 @@ Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior t
 
 “(3) Within eight months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall publish proposed rules and regulations in the Federal Register for the purpose of receiving comments from interested parties.
 
-“(4) Within ten months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall promulgate rules and regulations to implement the provisions of this subchapter.”
+“(4) Within ten months from January 4, 1975, the Secretary of the Interior and the Secretary of Health andHuman Services shall promulgate rules and regulations to implement the provisions of this subchapter.”
 
 #### Change of Name
 

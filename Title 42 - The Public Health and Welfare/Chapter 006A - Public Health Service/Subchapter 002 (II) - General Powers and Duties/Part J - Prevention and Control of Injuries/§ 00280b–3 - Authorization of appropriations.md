@@ -2,7 +2,7 @@
 
 For the purpose of carrying out this part, there are authorized to be appropriated $50,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
 
-(July 1, 1944, ch. 373, title III, §394A, formerly §394, as added Nov. 10, 1986, Pub. L. 99–649, §3, 100 Stat. 3634; amended Nov. 15, 1990, Pub. L. 101–558,§2(d), 104 Stat. 2773; renumbered §394A and amended Dec. 14, 1993, Pub. L. 103–183, title II, §§201(1), 204, 107 Stat. 2231, 2233.)
+(July 1, 1944, ch. 373, title III, §394A, formerly §394, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(d), Nov. 15, 1990, 104 Stat. 2773; renumbered §394A and amended Pub. L. 103–183, title II, §§201(1), 204, Dec. 14, 1993, 107 Stat. 2231, 2233.)
 
 #### Prior Provisions
 

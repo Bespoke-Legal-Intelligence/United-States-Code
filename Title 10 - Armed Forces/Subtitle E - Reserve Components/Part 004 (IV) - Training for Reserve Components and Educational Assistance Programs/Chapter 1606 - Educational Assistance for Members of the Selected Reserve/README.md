@@ -18,7 +18,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2006, 2131 of this title.
+This chapter is referred to in sections 2006, 2131 of this title; title 26 section 25A.
 
 
 ---

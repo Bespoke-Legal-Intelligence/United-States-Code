@@ -38,7 +38,8 @@
 | (a) | Authorization. |
 | (b) | Confirmation required. |
 | (c) | Succession. |
-| [6919\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006919%20-%20Pay%20increases%20prohibited.md) | Pay increases prohibited. |
+| [6919\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006919%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28e%29%20%5Btitle%20III%2C%20%C2%A7362%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93231%2C%202681%E2%80%93305.md) | Repealed. |
+| [6920\.](Subchapter%20001%20%28I%29%20-%20General%20Reorganization%20Authorities/%C2%A7%2006920%20-%20Office%20of%20Energy%20Policy%20and%20New%20Uses.md) | Office of Energy Policy and New Uses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -189,6 +190,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VIII–A—MARKETING AND REGULATORY PROGRAMS
+
+|  |  |
+| :--- | ---: |
+| [7005\.](Subchapter%20008%E2%80%93A%20%28VIII%E2%80%93A%29%20-%20Marketing%20and%20Regulatory%20Programs/%C2%A7%2007005%20-%20Under%20Secretary%20of%20Agriculture%20for%20Marketing%20and%20Regulatory%20Programs.md) | Under Secretary of Agriculture for Marketing and Regulatory Programs. |
+| (a) | Authorization. |
+| (b) | Confirmation required. |
+| (c) | Functions of Under Secretary. |
+| (d) | Succession. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER IX—MISCELLANEOUS REORGANIZATION PROVISIONS
 
 |  |  |
@@ -222,4 +235,5 @@
 - [Subchapter 006 (VI) - Research, Education, and Economics](Subchapter%20006%20%28VI%29%20-%20Research%2C%20Education%2C%20and%20Economics/README.md)
 - [Subchapter 007 (VII) - Food Safety](Subchapter%20007%20%28VII%29%20-%20Food%20Safety/README.md)
 - [Subchapter 008 (VIII) - National Appeals Division](Subchapter%20008%20%28VIII%29%20-%20National%20Appeals%20Division/README.md)
+- [Subchapter 008&#8211;A (VIII&#8211;A) - Marketing and Regulatory Programs](Subchapter%20008%E2%80%93A%20%28VIII%E2%80%93A%29%20-%20Marketing%20and%20Regulatory%20Programs/README.md)
 - [Subchapter 009 (IX) - Miscellaneous Reorganization Provisions](Subchapter%20009%20%28IX%29%20-%20Miscellaneous%20Reorganization%20Provisions/README.md)

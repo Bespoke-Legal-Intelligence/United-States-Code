@@ -16,3 +16,4 @@ This subchapter is referred to in section 4153 of this title.
 - [&sect; 04025 - Training grants](%C2%A7%2004025%20-%20Training%20grants.md)
 - [&sect; 04026 - Career counseling](%C2%A7%2004026%20-%20Career%20counseling.md)
 - [&sect; 04027 - Visiting Scholars Program](%C2%A7%2004027%20-%20Visiting%20Scholars%20Program.md)
+- [&sect; 04028 - Training for Foreign Service officers](%C2%A7%2004028%20-%20Training%20for%20Foreign%20Service%20officers.md)

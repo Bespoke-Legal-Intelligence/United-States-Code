@@ -6,7 +6,7 @@ There is created in the Executive Office of the President a Council of Economic 
 
 #### (b) Employment of specialists, experts, and other personnel
 
-The Council is authorized to employ, and fix the compensation of, such specialists and otherexperts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+The Council is authorized to employ, and fix the compensation of, such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 #### (c) Duties
 
@@ -40,7 +40,7 @@ In exercising its powers, functions and duties under this chapter—
 
 To enable the Council to exercise its powers, functions, and duties under this chapter, there are authorized to be appropriated such sums as may be necessary.
 
-(Feb. 20, 1946, ch. 33, §10, formerly §4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; June 16, 1961, Pub. L. 87–49, 75 Stat. 93; renumbered §10 and amended Oct. 27, 1978, Pub. L. 95–523, title I, §§104, 110, 92 Stat. 1893, 1899.)
+(Feb. 20, 1946, ch. 33, §10, formerly §4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat.972; Pub. L. 87–49, June 16, 1961, 75 Stat. 93; renumbered §10 and amended Pub. L. 95–523, title I, §§104, 110, Oct. 27, 1978, 92 Stat. 1893, 1899.)
 
 #### References in Text
 
@@ -106,7 +106,7 @@ Term of the President's Economic Policy Advisory Board extended until Sept. 30, 
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1985, see Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1987, see Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1987, see Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1989, see Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

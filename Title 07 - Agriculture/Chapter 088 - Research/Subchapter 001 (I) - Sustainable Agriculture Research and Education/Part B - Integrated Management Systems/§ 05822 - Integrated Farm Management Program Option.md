@@ -102,7 +102,7 @@ Each plan approved by the Secretary shall—
 
 #### (E) Displacement
 
-&emsp;&emsp;The Secretary shall not approve any plan that will result in the involuntary displacement of farm tenants or lessees by landowners through the removal of substantial portions of the farm from production of a commodity. In the case of any tenant or lessee who has rented or leased the farm (with or without a written option for annual renewal or periodic renewals) for a period of two or more of the immediately precedingyears, the Secretary shall consider the refusal by a landlord, without reasonable cause other than simply for the purpose of enrollment in the program, to renew such rental or lease as an involuntary displacement in the absence of a written consent to such nonrenewal by the tenant or lessee.
+&emsp;&emsp;The Secretary shall not approve any plan that will result in the involuntary displacement of farm tenants or lessees by landowners through the removal of substantial portions of the farm from production of a commodity. In the case of any tenant or lessee who has rented or leased the farm (with or without a written option for annual renewal or periodic renewals) for a period of two or more of the immediately preceding years, the Secretary shall consider the refusal by a landlord, without reasonable cause other than simply for the purpose of enrollment in the program, to renew such rental or lease as an involuntary displacement in the absence of a written consent to such nonrenewal by the tenant or lessee.
 
 #### (2) Certification
 
@@ -142,7 +142,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Limitation on permitted haying and grazing
 
-&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
+&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determinesthat implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
 
 #### (6) Base acre adjustments
 

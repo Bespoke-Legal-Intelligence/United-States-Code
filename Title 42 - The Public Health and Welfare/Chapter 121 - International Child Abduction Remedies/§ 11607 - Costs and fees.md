@@ -2,7 +2,7 @@
 
 #### (a) Administrative costs
 
-No department, agency, or instrumentality of the Federal Government or of any State or localgovernment may impose on an applicant any fee in relation to the administrative processing of applications submitted under the Convention.
+No department, agency, or instrumentality of the Federal Government or of any State or local government may impose on an applicant any fee in relation to the administrative processing of applications submitted under the Convention.
 
 #### (b) Costs incurred in civil actions
 

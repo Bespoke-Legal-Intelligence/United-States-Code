@@ -6,7 +6,7 @@ Each System institution shall comply with uniform financial reporting instructio
 
 #### (b) Computerized system
 
-If the financial reports are maintained by a computer system, each System institution may develop an internal computer system or it may contract out to a vendor under open competitive bidding any or all aspects of the computerized system.
+If the financial reports are maintained by a computer system, each System institution may develop an internal computer system or it may contract out to a vendor under open competitivebidding any or all aspects of the computerized system.
 
 #### (c) Submission of proposal
 

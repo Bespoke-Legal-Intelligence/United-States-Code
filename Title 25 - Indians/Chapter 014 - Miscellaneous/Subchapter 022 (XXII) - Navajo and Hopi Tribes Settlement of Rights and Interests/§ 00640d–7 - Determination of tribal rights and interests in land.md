@@ -2,7 +2,7 @@
 
 #### (a) Authorization to commence and defend actions in District Court
 
-Either tribe, acting through the chairman of its tribal council for and on behalf of the tribe,is each hereby authorized to commence or defend in the District Court an action against the other tribe and any other tribe of Indians claiming any interest in or to the area described in the Act of June 14, 1934, except the reservation established by the Executive Order of December 16, 1882, for the purpose of determining the rights and interests of the tribes in and to such lands and quieting title thereto in the tribes.
+Either tribe, acting through the chairman of its tribal council for and on behalf of the tribe, is each hereby authorized to commence or defend in the District Court an action against the other tribe and any other tribe of Indians claiming any interest in or to the area described in the Act of June 14, 1934, except the reservation established by the Executive Order of December 16, 1882, for the purpose of determining the rights and interests of the tribes in and to such lands and quieting title thereto in the tribes.
 
 #### (b) Allocation of land to respective reservations upon determination of interests
 
@@ -10,7 +10,7 @@ Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by
 
 #### (c) Actions for accounting, fair value of grazing, and claims for damages to land; determination of recovery; defenses
 
-(1) Either as a part of or in a proceeding supplementary to the action authorized in subsection (a) of this section, either tribe, through the chairman of its tribal council for and on behalf of the tribe, including all villages, clans, and individual members thereof, may prosecute or defend an action for the types of relief, including interest, specified in section 640d–17 of this title, including all subsections thereof, against the other tribe, through its tribal chairman in a like representative capacity, and against the United States as to the types of recovery specified in subsection (a)(3) of section 640d–17 of this title and subject to the same provisions as contained in said subsection, such action to apply to the lands in issue in the reservation established by the Act of June 14, 1934 (48 Stat. 960).
+(1) Either as a part of or in a proceeding supplementary to the action authorized in subsection (a) of this section, either tribe, through the chairman of its tribal council for and on behalf of the tribe, including all villages, clans,and individual members thereof, may prosecute or defend an action for the types of relief, including interest, specified in section 640d–17 of this title, including all subsections thereof, against the other tribe, through its tribal chairman in a like representative capacity, and against the United States as to the types of recovery specified in subsection (a)(3) of section 640d–17 of this title and subject to the same provisions as contained in said subsection, such action to apply to the lands in issue in the reservation established by the Act of June 14, 1934 (48 Stat. 960).
 
 (2) In the event the Hopi Tribe or Navajo Tribe is determined to have any interest in the lands in issue, the right of either tribe to recover hereunder shall be based upon that percentage of the total sums collected, use made, waste committed, and other amounts of recovery, which is equal to the percentage of lands in issue in which either tribe is determined to have such interest.
 

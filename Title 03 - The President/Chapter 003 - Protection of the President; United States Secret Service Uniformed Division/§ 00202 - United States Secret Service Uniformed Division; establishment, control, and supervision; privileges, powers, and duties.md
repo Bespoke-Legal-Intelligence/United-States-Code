@@ -56,7 +56,7 @@ Section 135(b)(4) of Pub. L. 102–138 provided that:
 
 #### Effective Date of 1983 Amendment
 
-Section 2 of Pub. L. 97–418 provided that: “The amendments made by the first section of this Act \[amending sections 202 and 208 of this title\] shall take effective on the date of enactment of this Act \[Jan. 4, 1983\], except that no amount authorized to be appropriated by the amendment made by subsection (b) ofthe first section of this Act \[amending section 208(b) of this title\] may be made available for use or obligation prior to October 1, 1982.”
+Section 2 of Pub. L. 97–418 provided that: “The amendments made by the first section of this Act \[amending sections 202 and 208 of this title\] shall take effective on the date of enactment of this Act \[Jan. 4, 1983\], except that no amount authorized to be appropriated by the amendment made by subsection (b) of the first section of this Act \[amending section 208(b) of this title\] may be made available for use or obligation prior to October 1, 1982.”
 
 #### Effective Date of 1978 Amendment
 

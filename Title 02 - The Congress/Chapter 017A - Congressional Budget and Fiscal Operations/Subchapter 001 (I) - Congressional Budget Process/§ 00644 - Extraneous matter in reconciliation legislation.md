@@ -24,7 +24,7 @@ When the Senate is considering a conference report on, or an amendment between t
 
 &emsp;(2) such point of order being sustained,
 
-> such material contained in such conference report or amendment shall be deemed stricken,and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
+> such material contained in such conference report or amendment shall be deemed stricken, and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of orderis sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
 
 #### (e) General point of order
 

@@ -56,7 +56,7 @@
 
 > to ship or transport any explosive in interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in interstate or foreign commerce.
 
-(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Secretary. In promulgating such regulations, the Secretary shall take into consideration theclass, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
+(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Secretary. In promulgating such regulations, the Secretary shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
 
 (k) It shall be unlawful for any person who has knowledge of the theft or loss of any explosive materials from his stock, to fail to report such theft or loss within twenty-four hours of discovery thereof, to the Secretary and to appropriate local authorities.
 

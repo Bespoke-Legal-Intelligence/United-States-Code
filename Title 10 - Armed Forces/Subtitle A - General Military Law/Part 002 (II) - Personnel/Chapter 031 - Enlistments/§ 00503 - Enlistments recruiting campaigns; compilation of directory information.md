@@ -28,6 +28,10 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Measures To Improve Recruit Quality and Reduce Recruit Attrition
 
 Pub. L. 105–85, div. A, title V, subtitle D, Nov. 18, 1997, 111 Stat. 1738, provided that:
@@ -56,7 +60,7 @@ Specific Reforms.—As part of the reforms in military recruiting systems to be 
 
 “(c)
 
-Report.—Not later than March 31, 1998, the Secretary shall submit to Congress a report of the trendsassessed under subsection (b)(5). The information on those trends provided in the report shall be shown by armed force and by category of waiver. The report shall include recommendations of the Secretary for changing, revising, or limiting the use of waivers referred to in that subsection.
+Report.—Not later than March 31, 1998, the Secretary shall submit to Congress a report of the trends assessed under subsection (b)(5). The information on those trends provided in the report shall be shown byarmed force and by category of waiver. The report shall include recommendations of the Secretary for changing, revising, or limiting the use of waivers referred to in that subsection.
 
 #### “SEC. 532. IMPROVEMENTS IN MEDICAL PRESCREENING OF APPLICANTS FOR MILITARY SERVICE.
 

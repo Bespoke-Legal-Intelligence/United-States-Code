@@ -42,7 +42,7 @@
 
 #### Regulations
 
-Small Business Administration to promulgate final rules and regulations to implement this section within60 days of Apr. 7, 1986, see section 18008(d)(2) of Pub. L. 99–272, set out as a note under section 697b of this title.
+Small Business Administration to promulgate final rules and regulations to implement this section within 60 days of Apr. 7, 1986, see section 18008(d)(2) of Pub. L. 99–272, set out as a note under section 697b of this title.
 
 #### Pilot Program Report
 

@@ -12,7 +12,7 @@ Inclusion of Information in Annual Report.—The Secretary of Defense shall incl
 
 Information.—The following information shall be included in the report transmitted to the Secretary under subsection (a) for the period covered by the report (which shall be shown for the Department of Defense as a whole and, with respect to paragraphs (1) through (12), separately for the Army, Navy, Air Force, Marine Corps, Defense Agencies, and Office of the Secretary of Defense):
 
-&emsp;(1) The number of acquisition positions specified under the policy established under section 1722(b)(2) of this title as being available,as of December 1 of the period covered by the report, only to members of the armed forces, set forth separately under each criterion established in the policy, together with a discussion of the types of positions that are so specified.
+&emsp;(1) The number of acquisition positions specified under the policy established under section 1722(b)(2) of this title as being available, as of December 1 of the period covered by the report, only to members of the armed forces, set forth separately under each criterion established in the policy, together with a discussion of the types of positions that are so specified.
 
 &emsp;(2) The total number of persons serving in the Acquisition Corps as of December 1 of the period covered by the report, set forth separately for members of the armed forces and civilian employees, by grade level and by functional specialty.
 

@@ -2,7 +2,7 @@
 
 #### (a) Reports of condition
 
-(1) Each insured credit union shall make reports of condition to the Board upon dates which shall be selected by it. Such reports of condition shall be in such form and shall contain such information as the Board may require. The reporting dates selected for reports of condition shall be the same for all insured credit unions except that when any of said reporting dates is a nonbusiness day for any credit union the preceding business day shall be its reporting date. The total amount of the member accounts of each insured credit union as of each reporting dateshall be reported in such reports of condition in accordance with regulations prescribed by the Board. Each report of condition shall contain a declaration by the president, by a vice president, by the treasurer, or by any other officer designated by the board of directors of the reporting credit union to make such declaration, that the report is true and correct to the best of such officer's knowledge and belief. Unless such requirement is waived by the Board, the correctness of each report of condition shall be attested by the signatures of three of the officers of the reporting credit union with the declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct.
+(1) Each insured credit union shall make reports of condition to the Board upon dates which shall be selected by it. Such reports of condition shall be in such form and shall contain such information as the Board may require. The reporting dates selected for reports of condition shall be the same for all insured credit unions except that when any of said reporting dates is a nonbusiness day for any credit union the preceding business day shall be its reporting date. Thetotal amount of the member accounts of each insured credit union as of each reporting date shall be reported in such reports of condition in accordance with regulations prescribed by the Board. Each report of condition shall contain a declaration by the president, by a vice president, by the treasurer, or by any other officer designated by the board of directors of the reporting credit union to make such declaration, that the report is true and correct to the best of such officer's knowledge and belief. Unless such requirement is waived by the Board, the correctness of each report of condition shall be attested by the signatures of three of the officers of the reporting credit union with the declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct.
 
 (2) The Board may call for such other reports as it may from time to time require.
 
@@ -28,7 +28,35 @@ In general.—Before the end of the 120-day period beginning on August 9, 1989, 
 
 &emsp;(B)
 
-Unsafe or unsound practice.—The Board may treat the failure of any insured credit union to obtain an outside, independent audit for any fiscal year for which such audit is required under subparagraph (A) as an unsafe or unsound practice within the meaning of section 1786(b) of this title.
+Unsafe or unsound practice.—The Board may treat the failure of any insured credit union to obtain an outside, independent audit for any fiscal year for which such audit is required under subparagraph (A) or (D) as an unsafe or unsound practice within the meaning of section 1786(b) of this title.
+
+&emsp;(C)
+
+Accounting principles.—
+
+&emsp;&emsp;(i)
+
+In general.—Accounting principles applicable to reports or statements required to be filed with the Board by each insured credit union shall be uniform and consistent with generally accepted accounting principles.
+
+&emsp;&emsp;(ii)
+
+Board determination.—If the Board determines that the application of any generally accepted accounting principle to any insured credit union is not appropriate, the Board may prescribe an accounting principle for application to the credit union that is no less stringent than generally accepted accounting principles.
+
+&emsp;&emsp;(iii)
+
+De minimus exception.—This subparagraph shall not apply to any insured credit union, the total assets of which are less than $10,000,000, unless prescribed by the Board or an appropriate State credit union supervisor.
+
+&emsp;(D)
+
+Large credit union audit requirement.—
+
+&emsp;&emsp;(i)
+
+In general.—Each insured credit union having total assets of $500,000,000 or more shall have an annual independent audit of the financial statements of the credit union, performed in accordance with generally accepted auditing standards by an independent certified public accountant or public accountant licensed by the appropriate State or jurisdiction to perform those services.
+
+&emsp;&emsp;(ii)
+
+Voluntary audits.—If a Federal credit union that is not required to conduct an audit under clause (i), and that has total assets of more than $10,000,000 conducts such an audit for any purpose, using an independent auditor who is compensated for his or her audit services with respect to that audit, the audit shall be performed consistent with the accountancy laws of the appropriate State or jurisdiction, including licensing requirements.
 
 (7)
 
@@ -80,7 +108,7 @@ Additional information.—In addition to the copies of the reports required to b
 
 #### (d) Remedy for failure to report; penalty for failure to file certified statement or pay premium; dispute as to deposit or premium charge; prohibition on distribution of assets or dividends while in default
 
-(1) Any insured credit union which fails to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by it in connection with determining the amount of its deposit or any premium charge for insurance may be compelled to make such report or to file such statement by mandatory injunction or other appropriate remedy in a suit brought for such purpose by the Board against the credit union and any officer or officers thereof. Any such suit may be brought in any court of the United States of competent jurisdiction in the district or territory in which the principal office of the credit union is located.
+(1) Any insured credit union which fails to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by it in connection with determining the amount of its deposit or any premium charge for insurance may be compelled to make such report or to file such statement by mandatory injunction or other appropriate remedy in a suit brought for such purpose by the Board against the credit union and anyofficer or officers thereof. Any such suit may be brought in any court of the United States of competent jurisdiction in the district or territory in which the principal office of the credit union is located.
 
 (2)
 
@@ -108,7 +136,7 @@ Second tier.—Any insured credit union which—
 
 &emsp;(C)
 
-Third tier.—Notwithstanding subparagraphs (A) and (B), if any insured credit unionknowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) of this section submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
+Third tier.—Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) of this section submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
 
 &emsp;(D)
 
@@ -134,7 +162,7 @@ The Board, in a suit brought at law or in equity in any court of competent juris
 
 #### (f) Penalty for failure to comply with section; court determination of failure; remedies not exclusive
 
-Should any Federal credit union fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed under subsection (b) of this section or to pay its deposit or any premium charge for insurance required to be paid under any provision of this subchapter, and should the credit union fail to correct such failure within thirty days after written notice has been given by the Board to an officer of the credit union, citing this subsection and stating that the credit union has failed to make any such report or file any such statement or pay any such deposit or premium charges as required by law, all the rights, privileges, and franchises of the credit union granted to it under subchapter I of this chapter shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged by any court of the United States of competent jurisdiction in a suit brought for that purpose in the district or territory in which the principal office of such credit union is located, under direction of and by the Board in its own name, before the credit union shall be declared dissolved. The remedies provided in this subsection and in subsections (d) and (e) of this section shall not be construed as limiting any other remedies against any insured credit union but shall be in addition thereto.
+Should any Federal credit union fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed under subsection (b) of this section or to pay its deposit or any premium charge for insurance required to be paid underany provision of this subchapter, and should the credit union fail to correct such failure within thirty days after written notice has been given by the Board to an officer of the credit union, citing this subsection and stating that the credit union has failed to make any such report or file any such statement or pay any such deposit or premium charges as required by law, all the rights, privileges, and franchises of the credit union granted to it under subchapter I of this chapter shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged by any court of the United States of competent jurisdiction in a suit brought for that purpose in the district or territory in which the principal office of such credit union is located, under direction of and by the Board in its own name, before the credit union shall be declared dissolved. The remedies provided in this subsection and in subsections (d) and (e) of this section shall not be construed as limiting any other remedies against any insured credit union but shall be in addition thereto.
 
 #### (g) Records
 
@@ -144,13 +172,117 @@ Each insured credit union shall maintain such records as will readily permit ver
 
 For the purposes of this section—
 
-&emsp;(1) the term “insurance year” means the period beginning on January 1 and ending on thefollowing December 31, both dates inclusive, unless otherwise prescribed by the Board;
+&emsp;(1) the term “insurance year” means the period beginning on January 1 and ending on the following December 31, both dates inclusive, unless otherwise prescribed by the Board;
 
 &emsp;(2) the term “normal operating level”, when applied to the fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine; and
 
 &emsp;(3) the term “insured shares” when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) <sup>1</sup> of this title.
 
-(June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087.)
+(June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–219, title III, §302, Aug. 7, 1998, 112 Stat. 931, provided that, effective on Jan. 1 of the first calendar year beginning more than 180 days after Aug. 7, 1998, this section is amended as follows:</i>
+
+<i>(1) by striking subsection (b) and inserting the following:</i>
+
+#### “(b) Certified statement
+
+#### “(1) Statement required
+
+#### “(A) In general
+
+&emsp;&emsp;“For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c) of this section.
+
+#### “(B) Exception for newly insured credit union
+
+&emsp;&emsp;“Subparagraph (A) shall not apply with respect to a credit union that became insured during the reporting period.
+
+#### “(2) Form
+
+&emsp;“The certified statements required to be filed with the Board pursuant to this subsection shall be in such form and shall set forth such supporting information as the Board shall require.
+
+#### “(3) Certification
+
+&emsp;“The president of the credit union or any officer designated by the board of directors shall certify, with respect to each statement required to be filed with the Board pursuant to this subsection, that to the best of his or her knowledge and belief the statement is true, correct, complete, and in accordance with this subchapter and the regulations issued under this subchapter.”;
+
+<i>(2) in subsection (c)(1)(A), by striking clause (iii) and inserting the following:</i>
+
+“(iii) <i>PERIODIC ADJUSTMENT</i>.—The amount of each insured credit union's deposit shall be adjusted as follows, in accordance with procedures determined by the Board, to reflect changes in the credit union's insured shares:
+
+&emsp;“(I) annually, in the case of an insured credit union with total assets of not more than $50,000,000; and
+
+&emsp;“(II) semi-annually, in the case of an insured credit union with total assets of $50,000,000 or more.”;
+
+<i>(3) in subsection (c), by striking paragraphs (2) and (3) and inserting the following:</i>
+
+“(2) <i>INSURANCE PREMIUM CHARGES.—</i>
+
+&emsp;“(A) <i>IN GENERAL</i>.—Each insured credit union shall, at such times as the Board prescribes (but not more than twice in any calendar year), pay to the Fund a premium charge for insurance in an amount stated as a percentage of insured shares (which shall be the same for all insured credit unions).
+
+&emsp;“(B) <i>RELATION OF PREMIUM CHARGE TO EQUITY RATIO OF FUND</i>.—The Board may assess a premium charge only if—
+
+&emsp;&emsp;“(i) the Fund's equity ratio is less than 1.3 percent; and
+
+&emsp;&emsp;“(ii) the premium charge does not exceed the amount necessary to restore the equity ratio to 1.3 percent.
+
+&emsp;“(C) <i>PREMIUM CHARGE REQUIRED IF EQUITY RATIO FALLS BELOW 1.2 PERCENT</i>.—If the Fund's equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
+
+“(3) <i>DISTRIBUTIONS FROM FUND REQUIRED.—</i>
+
+&emsp;“(A) <i>IN GENERAL</i>.—The Board shall effect a pro rata distribution to insured credit unions after each calendar year if, as of the end of that calendar year—
+
+&emsp;&emsp;“(i) any loans to the Fund from the Federal Government, and any interest on those loans, have been repaid;
+
+&emsp;&emsp;“(ii) the Fund's equity ratio exceeds the normal operating level; and
+
+&emsp;&emsp;“(iii) the Fund's available assets ratio exceeds 1.0 percent.
+
+&emsp;“(B) <i>AMOUNT OF DISTRIBUTION</i>.—The Board shall distribute under subparagraph (A) the maximum possible amount that—
+
+&emsp;&emsp;“(i) does not reduce the Fund's equity ratio below the normal operating level; and
+
+&emsp;&emsp;“(ii) does not reduce the Fund's available assets ratio below 1.0 percent.
+
+&emsp;“(C) <i>CALCULATION BASED ON CERTIFIED STATEMENTS</i>g940<i>.—In calculating the Fund's equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section for the final reporting period of the calendar year referred to in subparagraph (A).”;</i>
+
+<i>(4) in subsection (c), by adding at the end the following new paragraph:</i>
+
+“(4) <i>TIMELINESS AND ACCURACY OF DATA</i>.—In calculating the available assets ratio and equity ratio of the Fund, the Board shall use the most current and accurate data reasonably available.”; and
+
+<i>(5) by striking subsection (h) and inserting the following:</i>
+
+#### “(h) Definitions
+
+“For purposes of this section, the following definitions shall apply:
+
+#### “(1) Available assets ratio
+
+&emsp;“The term ‘available assets ratio’, when applied to the Fund, means the ratio of—
+
+&emsp;&emsp;“(A) the amount determined by subtracting—
+
+&emsp;&emsp;&emsp;<i>“(i) direct liabilities of the Fund and contingent liabilities for which no provision for losses has been made, from</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the sum of cash and the market value of unencumbered investments authorized under section 1783(c) of this title, to</i>
+
+&emsp;&emsp;“(B) the aggregate amount of the insured shares in all insured credit unions.
+
+#### “(2) Equity ratio
+
+&emsp;“The term ‘equity ratio’, when applied to the Fund, means the ratio of—
+
+&emsp;&emsp;“(A) the amount of Fund capitalization, including insured credit unions’ 1 percent capitalization deposits and the retained earnings balance of the Fund (net of direct liabilities of the Fund and contingent liabilities for which no provision for losses has been made); to
+
+&emsp;&emsp;“(B) the aggregate amount of the insured shares in all insured credit unions.
+
+#### “(3) Insured shares
+
+&emsp;“The term ‘insured shares’, when applied to this section, includes share, share draft, share certificate, and other similar accounts as determined by the Board, but does not include amounts exceeding the insured account limit set forth in section 1787(c)(1) of this title.
+
+#### “(4) Normal operating level
+
+&emsp;“The term ‘normal operating level’, when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.”
 
 #### References in Text
 
@@ -158,11 +290,13 @@ Section 1787(c)(1) of this title, referred to in subsec. (h)(3), was redesignate
 
 #### Amendments
 
+1998—Subsec. (a)(6). Pub. L. 105–219, §201, substituted “subparagraph (A) or (D)” for “subparagraph (A)” in subpar. (B) and added subpars. (C) and (D).
+
 1992—Subsec. (d)(2). Pub. L. 102–550, in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1) of this section”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
 
 1991—Subsec. (d)(2). Pub. L. 102–242 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.”
 
-1989—Subsec. (a)(3). Pub. L. 101–73, §911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
+1989—Subsec. (a)(3). Pub. L. 101–73, §911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such reportwithin ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
 
 Subsec. (a)(6). Pub. L. 101–73, §919, added par. (6).
 
@@ -213,6 +347,10 @@ Subsecs. (b) to (g). Pub. L. 95–630, §502(b), substituted “Board” for “
 Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
 
 1974—Subsec. (h)(3). Pub. L. 93–383 added par. (3).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–219, title III, §302(b), Aug. 7, 1998, 112 Stat. 934, provided that: “This section \[amending this section\] and the amendments made by this section shall become effective on January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act \[Aug. 7, 1998\].”
 
 #### Effective Date of 1992 Amendment
 

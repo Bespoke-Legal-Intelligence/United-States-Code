@@ -92,7 +92,7 @@ Section 60019(c) of Pub. L. 103–322 provided that: “This section \[enacting 
 
 &emsp;“(2)(A) in the case of section 2280 of title 18, United States Code, the date the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation has come into force and the United States has become a party to that Convention; and
 
-&emsp;“(B) in the case of section 2281 of title 18, United States Code, the date the Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf has come into force and the United States has become a party to that Protocol.”
+&emsp;“(B) in the case of section 2281 of title 18, United States Code, the date the Protocol for the Suppression of Unlawful Acts Against the Safety of FixedPlatforms Located on the Continental Shelf has come into force and the United States has become a party to that Protocol.”
 
 > \[Convention and Protocol came into force Mar. 1, 1992, and entered into force with respect to the United States Mar. 6, 1995, Treaty Doc. 101–1.\]
 

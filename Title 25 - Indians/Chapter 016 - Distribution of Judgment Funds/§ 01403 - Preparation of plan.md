@@ -12,7 +12,7 @@ The Secretary shall prepare a plan which shall best serve the interests of all t
 
 In preparing a plan for the use or distribution of the funds of each Indian judgment, the Secretary shall, among other things, be assured that—
 
-&emsp;(1) legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribe which is entitled to such funds to assist it to develop and communicate to the Secretary pursuant to clause (1) of subsection\(a) of this section its own suggested plan for the distribution and use of such funds;
+&emsp;(1) legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribe which is entitled to such funds to assist it to develop and communicate to the Secretary pursuant to clause (1) of subsection (a) of this section its own suggested plan for the distribution and use of such funds;
 
 &emsp;(2) the needs and desires of any groups or individuals who are in a minority position, but who are also entitled to receive such funds, have been fully ascertained and considered;
 
@@ -20,7 +20,7 @@ In preparing a plan for the use or distribution of the funds of each Indian judg
 
 &emsp;(4) any provision, including enrollment provisions, of the constitution, bylaws, rules, and procedures of such tribe which may affect the distribution or other use of such funds are in full accord with the principles of fairness and equity;
 
-&emsp;(5) a significant portion of such funds shall be set aside and programed to serve common tribal needs, educational requirements, and such other purposes as the circumstances of the affected Indian tribe may justify, except not less than 20 per centum of such funds shall be so set aside and programed unless the Secretary determines that the particular circumstances of the pertinent Indian tribe clearly warrant otherwise: <i>Provided</i>, That in the development of such plan the Secretary shall survey past and present plans of the tribe for economic development, shall consider long range benefits which might accrue to the tribe from such plans, and shall encourage programing of funds for economic development purposes where appropriate; and
+&emsp;(5) a significant portion of such funds shall be set aside and programed to serve common tribal needs, educational requirements, and such other purposes as the circumstances of the affected Indian tribe may justify, except not less than 20 per centum of such funds shall be so set aside and programed unless the Secretary determines that the particular circumstances of the pertinent Indian tribe clearly warrant otherwise: <i>Provided</i>, That in the development of such plan the Secretary shall survey past and present plans of the tribe foreconomic development, shall consider long range benefits which might accrue to the tribe from such plans, and shall encourage programing of funds for economic development purposes where appropriate; and
 
 &emsp;(6) methods exist and will be employed to insure the proper performance of the plan once it becomes effective under section 1405 of this title.
 

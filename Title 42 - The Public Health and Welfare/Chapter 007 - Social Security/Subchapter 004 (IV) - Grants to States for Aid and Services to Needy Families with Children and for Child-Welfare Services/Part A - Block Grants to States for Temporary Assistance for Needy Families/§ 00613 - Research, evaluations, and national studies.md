@@ -64,7 +64,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shall prepare and submit to the Committees on Ways and Means and on Economic and Educational Opportunities of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
+&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shall prepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
 
 &emsp;&emsp;(A) Individuals who were children in families that have become ineligible for assistance under a State program funded under this part by reason of having reached a time limit on the provision of such assistance.
 
@@ -180,7 +180,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;&emsp;Not later than January 1, 2001,<sup>3</sup> (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-(Aug. 14, 1935, ch. 531, title IV, §413, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2153; amended Aug. 5, 1997, Pub. L.105–33, title V, §§5001(f), 5509, 5514(c), 111 Stat. 592, 618, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V,§§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673.)
 
 #### References in Text
 
@@ -197,6 +197,8 @@ August 22, 1996, referred to in subsec. (i)(1), was in the original “such date
 A prior section 613, act Aug. 14, 1935, ch. 531, title IV, §413, as added June 9, 1980, Pub. L. 96–265, title IV, §406(c), 94 Stat. 467, related to technical assistance for developing management information systems, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+1998—Subsec. (g)(1). Pub. L. 105–200 substituted “Education and the Workforce” for “Economic and Educational Opportunities”.
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 

@@ -28,6 +28,10 @@ The words “civil service in the executive branch” are substituted for “civ
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: “This section \[enacting sections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3345 of this title\] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
+
 #### Short Title of 1991 Amendment
 
 Pub. L. 102–175, §1, Dec. 2, 1991, 105 Stat. 1222, provided that: “This Act \[amending sections 3395, 3396, 5383, and 7701 of this title\] may be cited as the ‘Senior Executive Service Improvements Act’.”
@@ -64,7 +68,7 @@ Applicability.—(1) This section shall apply to any individual who—
 
 &emsp;“(B) becomes a displaced employee on or after the date of the enactment of this Act and before October 1, 1997.
 
-“(2) In the case of a displaced employee described in paragraph (1)(A), for purposes of computing any periodof time under subsection (c), the date of the specific notice described in subsection (a)(2)(A) (or, if the employee was separated as described in subsection (a)(2)(B) before the date of enactment of this Act, the date of separation) shall be deemed to have occurred on such date of enactment.
+“(2) In the case of a displaced employee described in paragraph (1)(A), for purposes of computing any period of time under subsection (c), the date of the specific notice described in subsection (a)(2)(A) (or, if the employee was separated as described in subsection (a)(2)(B) before the date of enactment of this Act, the date of separation) shall be deemed to have occurred on such date of enactment.
 
 “(3) Nothing in this section shall be considered to apply with respect to any position—
 
@@ -252,7 +256,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (g) Any person whose name has been placed upon three registers of eligibles covering positions of the same grade, and who has not been appointed therefrom, shall not thereafter be eligible for placement upon any subsequently established register covering positions of such grade.
 
-(h) So far as practicable and consistent with good administration, the eligibles on any register for attorney positions and appointments for such register shall be apportioned among the several States and Territories and the District of Columbia upon the basis of population as ascertained in the last preceding census. The Office shall certify to the appointing officer for eachvacancy all the eligibles on the appropriate register except those whose appointment would, in the determination of the Board, be inconsistent with the apportionment policy herein prescribed. The appointing officer shall make selections for any vacancy or vacancies in attorney positions from the register so certified, with sole reference to merit and fitness.
+(h) So far as practicable and consistent with good administration, the eligibles on any register for attorney positions and appointments for such register shall be apportioned among the several States and Territories and the District of Columbia upon the basis of population as ascertained in the last preceding census. The Office shall certify to the appointing officer for each vacancy all the eligibles on the appropriate register except those whose appointment would, in the determination of the Board, be inconsistent with the apportionment policy herein prescribed. The appointing officer shall make selections for any vacancy or vacancies in attorney positions from the register so certified, with sole reference to merit and fitness.
 
 (i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16, 1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classified civil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
 
@@ -302,7 +306,7 @@ As used in these Rules:
 
 (b) “Competitive position” shall mean a position in the competitive service.
 
-(c) “Competitive status” shall mean basic eligibility to be noncompetitively selected to fill a vacancy in acompetitive position. A competitive status shall be acquired by career-conditional or career appointment through open competitive examination upon satisfactory completion of a probationary period, or may be granted by statute, executive order, or the Civil Service Rules without competitive examination. A person with competitive status may be promoted, transferred, reassigned, reinstated, or demoted without taking an open competitive examination, subject to the conditions prescribed by the Civil Service Rules and Regulations.
+(c) “Competitive status” shall mean basic eligibility to be noncompetitively selected to fill a vacancy in a competitive position. A competitive status shall be acquired by career-conditional or career appointment through open competitive examination upon satisfactory completion of a probationary period, or may be granted by statute, executive order, or the Civil Service Rules without competitive examination. A person with competitive status may be promoted, transferred, reassigned, reinstated, or demoted without taking an open competitive examination, subject to the conditions prescribed by the Civil Service Rules and Regulations.
 
 (d) An employee shall be considered as being in the competitive service when he has a competitive status and occupies a competitive position unless he is serving under a temporary appointment: <i>Provided</i>, That an employee who is in the competitive service at the time his position is first listed under Schedule A, B, or C shall be considered as continuing in the competitive service as long as he continues to occupy such position.
 
@@ -346,11 +350,11 @@ Persons selected from registers of eligibles for career or career-conditional ap
 
 #### §3.1. Classes of Persons Who May Noncompetitively Acquire Status
 
-(a) Upon recommendation by the agency concerned, and subject to such noncompetitive examination, timelimits, or other requirements as the Office may prescribe, the following classes of persons may acquire a competitive status without competitive examination:
+(a) Upon recommendation by the agency concerned, and subject to such noncompetitive examination, time limits, or other requirements as the Office may prescribe, the following classes of persons may acquire a competitive status without competitive examination:
 
 (1) A person holding a permanent position when it is placed in the competitive service by statute or executive order or is otherwise made subject to competitive examination.
 
-(2) A disabled veteran who, in a manner satisfactory to the Office, has completed a course of training in the executive branch of the Government prescribed by the Administrator of Veterans’ Affairs in accordance with the act of March 24, 1943, 57 Stat. 43.
+(2) A disabled veteran who, in a manner satisfactory to the Office, has completed a course of training in theexecutive branch of the Government prescribed by the Administrator of Veterans’ Affairs in accordance with the act of March 24, 1943, 57 Stat. 43.
 
 (3) An employee who has served at least two years in the immediate office of the President or on the White House Staff and who is transferred to a competitive position at the request of an agency.
 
@@ -398,13 +402,13 @@ The Director may secure effective implementation of the civil service laws, rule
 
 (c) Investigating, or directing an agency to investigate and report on, apparent violations of applicable laws, rules, regulations, or directives requiring corrective action, found in the course of an evaluation.
 
-(d) Requiring agencies to report, in a manner and at times as the Director may prescribe, personnel information the Director requests relating to civilian employees in the Executive branch of the Government, as defined by Section 311 of the Civil Service Reform Actof 1978 \[set out as a note under section 3101 of this title\], including positions and officers and employees in the competitive, excepted and Senior Executive services, whether permanent, career-conditional, temporary or emergency.
+(d) Requiring agencies to report, in a manner and at times as the Director may prescribe, personnel information the Director requests relating to civilian employees in the Executive branch of the Government, as defined by Section 311 of the Civil Service Reform Act of 1978 \[set out as a note under section 3101 of this title\], including positions and officers and employees in the competitive, excepted and Senior Executive services, whether permanent, career-conditional, temporary or emergency.
 
 #### §5.3. Enforcement
 
 (a) The Director is authorized to ensure enforcement of the civil service laws, rules, and regulations, and all applicable Executive orders, by:
 
-(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
+(1) Instructing an agency to separate or take other action against an employee serving an appointmentsubject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
 (2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutorial jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 
@@ -460,13 +464,13 @@ No person who is serving under an excepted appointment shall be assigned to the 
 
 #### §6.6. Revocation of Exceptions
 
-The Office may remove any position from or may revoke in whole or in part any provision of Schedule A,B, or C. Notice of the Office's decision making these changes shall be published in the
+The Office may remove any position from or may revoke in whole or in part any provision of Schedule A, B, or C. Notice of the Office's decision making these changes shall be published in the
 
 Federal Register.
 
 #### §6.7. Movement of Persons Between the Civil-Service System and Other Merit Systems
 
-Whenever the Office and any Federal agency having an established merit system determine it to be in the interest of good administration and consistent with the intent of the civil-service laws and any other applicable laws, they may enter into an agreement prescribing conditions under which persons may be moved from one system to the other and defining the status and tenure that the persons affected shall acquire upon such movement.
+Whenever the Office and any Federal agency having an established merit system determine it to be in the interest of good administration and consistent with the intent of the civil-service laws and any other applicable laws, they may enter into an agreement prescribing conditions under which persons may be moved from onesystem to the other and defining the status and tenure that the persons affected shall acquire upon such movement.
 
 #### §6.8. Specified Exceptions
 
@@ -524,7 +528,7 @@ This Rule shall not apply to positions in Hawaii, Puerto Rico, the Virgin Island
 
 #### §201
 
-(a) Under such conditions as the Office of Personnel Management may prescribe, all employees serving under indefinite appointments in the competitive service on the effective date of this order who were appointed by selection in regular order from appropriate competitive civil-service registers established subsequent to February 4, 1946, shall, as of the effective date of this order, have their appointments converted to career-conditional appointments if they have had less than three years of creditable service, and to career appointments if they have had three or more years ofsuch service since they were appointed: <i>Provided</i>, That any such employees who left their positions prior to the effective date of this order to enter the armed forces of the United States and are reemployed in the competitive service after the effective date of this order pursuant to application for employment made within ninety days after honorable discharge, or after hospitalization continuing after discharge for not more than one year, shall have their former indefinite appointments converted to career-conditional or career appointments in accordance with this section: <i>Provided further</i>, That employees serving in excepted positions who would meet the conditions for career-conditional or career appointments if they were serving in competitive positions shall be granted competitive status upon completion of a probationary period.
+(a) Under such conditions as the Office of Personnel Management may prescribe, all employees serving under indefinite appointments in the competitive service on the effective date of this order who were appointed by selection in regular order from appropriate competitive civil-service registers established subsequent to February 4, 1946, shall, as of the effective date of this order, have their appointments converted to career-conditional appointments if they have had less than three years of creditable service, and to career appointments if they have had three or more years of such service since they were appointed: <i>Provided</i>, That any such employees who left their positions prior to the effective date of this order to enter the armed forces of the United States and are reemployed in the competitive service after the effective date of this order pursuant to application for employment made within ninety days after honorable discharge, or after hospitalization continuing after discharge for not more than one year, shall have their former indefinite appointments converted to career-conditional or career appointments in accordance with this section: <i>Provided further</i>, That employees serving in excepted positions who would meet the conditions for career-conditional or career appointments if they were serving in competitive positions shall be granted competitive status upon completion of a probationary period.
 
 (b) The Office may prescribe the conditions under which employees who are serving under indefinite appointments in the competitive service on the effective date of this order and who were not appointed by selection in regular order from competitive civil-service registers may be examined and have their names entered on existing competitive civil-service registers. When such employees are within reach for appointment from such registers they shall be eligible for career-conditional appointments if, since they were given indefinite appointments, they have had less than three years of creditable service, and for career appointments if they have had three or more years of such service.
 
@@ -634,7 +638,7 @@ Sec. 2. For the purposes of Section 1—
 
 (1) “full-time continuous service” means service without a break of more than 30 calendar days;
 
-(2) except as provided in paragraph (3) of this section, active service in the Armed Forces of the United States shall be deemed to be full-time continuous service in a position concerned with the protective function if the employee concerned shall have left a position concerned with the protective function to enter the Armed Forces and shall have been re-employed in a position concerned with the protective function within 120 days after he shall have been discharged from the Armed Forces under honorable conditions; and
+(2) except as provided in paragraph (3) of this section, active service in the Armed Forces of the United States shall be deemed to be full-time continuous service in a position concerned with the protective function if the employee concerned shall have left a position concerned with the protective function to enter the Armed Forces and shall have been re-employed in a position concerned with the protective function within 120 daysafter he shall have been discharged from the Armed Forces under honorable conditions; and
 
 (3) active service in the Armed Forces shall not be deemed to be full-time continuous service in a position concerned with the protective function if such active service exceeds a total of four years plus any period of additional service imposed pursuant to law.
 

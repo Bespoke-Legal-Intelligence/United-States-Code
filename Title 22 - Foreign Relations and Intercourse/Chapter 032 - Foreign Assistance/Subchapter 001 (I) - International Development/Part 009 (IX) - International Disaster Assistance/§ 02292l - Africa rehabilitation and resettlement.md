@@ -34,7 +34,5 @@ Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as 
 
 #### Delegation of Functions; Allocation of Funds
 
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President relating to policy decisions pertaining to refugee programs delegated to Secretary of State by section 1–201(a)(3) of Ex. Ord. No. 12163.
+Functions of President relating to policy decisions pertaining to refugee programs delegated to Secretary of State by section 1–201(a)(3) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

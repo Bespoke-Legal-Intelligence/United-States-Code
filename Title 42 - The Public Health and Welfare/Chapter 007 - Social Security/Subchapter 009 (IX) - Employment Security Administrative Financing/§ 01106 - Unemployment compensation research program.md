@@ -8,7 +8,7 @@
 
 (b) To assist in the establishment and provide for the continuation of the comprehensive research program relating to the unemployment compensation system, there are hereby authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter, such sums, not to exceed $8,000,000, as may be necessary to carry out the purposes of this section. From the sums authorized to be appropriated by this subsection the Secretary may provide for the conduct of such research through grants or contracts.
 
-(Aug. 14, 1935, ch. 531, title IX, §906, as added Aug. 10, 1970, Pub. L. 91–373, title I, §141, 84 Stat. 705.)
+(Aug. 14, 1935, ch. 531, title IX, §906, as added Pub. L. 91–373, title I, §141, Aug. 10, 1970, 84 Stat. 705.)
 
 #### Prior Provisions
 

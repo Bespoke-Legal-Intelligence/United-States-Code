@@ -14,3 +14,4 @@ This subchapter is referred to in section 2275 of this title.
 - [&sect; 04413 - Eligibility of the Endowment for grants](%C2%A7%2004413%20-%20Eligibility%20of%20the%20Endowment%20for%20grants.md)
 - [&sect; 04414 - Requirements relating to the Endowment and its grantees](%C2%A7%2004414%20-%20Requirements%20relating%20to%20the%20Endowment%20and%20its%20grantees.md)
 - [&sect; 04415 - Freedom of information](%C2%A7%2004415%20-%20Freedom%20of%20information.md)
+- [&sect; 04416 - Retention of interest](%C2%A7%2004416%20-%20Retention%20of%20interest.md)

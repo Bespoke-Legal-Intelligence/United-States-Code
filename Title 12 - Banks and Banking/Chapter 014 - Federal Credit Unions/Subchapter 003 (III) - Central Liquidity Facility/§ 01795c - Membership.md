@@ -30,7 +30,7 @@ An Agent member of the Facility shall perform for its member credit unions those
 
 #### (e) Withdrawal from or termination of membership
 
-(1) A member of the Facility whose capital stock subscription constitutes less than 5 percentum of such stock outstanding, may withdraw from membership in the Facility six months after notifying the Board of its intention to do so.
+(1) A member of the Facility whose capital stock subscription constitutes less than 5 per centum of such stock outstanding, may withdraw from membership in the Facility six months after notifying the Board of its intention to do so.
 
 (2) A member of the Facility whose capital stock subscription constitutes 5 per centum or more of such stock outstanding, may withdraw from membership in the Facility twenty-four months after notifying the Board of its intention to do so.
 

@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 94–432, §203(5), substituted “$24” for “$22”.
 
 Subsec. (a). Pub. L. 94–169, §101(2)(B), substituted “surviving spouse” for “widow” and struck out “his” before “death”.
 
-Subsec. (b). Pub. L. 94–169, §103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $108 to $117, substituted $900 to $1500 for $900 to $2100, $1500 to $2700 for $2100 to $3000 the minimum and maximum income ranges for which the pension rates will be reduced by 4 and 5 cents per dollar, respectively, inserted incomerange of $2700 to $3300 for which the pension rate will be reduced by 6 cents, and increased from $3000 to $3300 the maximum income in excess of which no pension will be paid.
+Subsec. (b). Pub. L. 94–169, §103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of pension from $108 to $117, substituted $900 to $1500 for $900 to $2100, $1500 to $2700 for $2100 to $3000 the minimum and maximum income ranges for which the pension rates will be reduced by 4 and 5 cents per dollar, respectively, inserted income range of $2700 to $3300 for which the pension rate will be reduced by 6 cents, and increased from $3000 to $3300 the maximum income in excess of which no pension will be paid.
 
 Subsec. (c). Pub. L. 94–169, §103(1), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, pension rate from $128 to $139, substituted $1100 to $1800 for $1100 to $2100, $1800 to $2700 for $2100 to $3000, $2700 to $3500 for $3000 to $4200 the minimum and maximum income ranges for which the pension rates will be reduced by 2, 3 and 4 cents per dollar, respectively, inserted income range of $3500 to $4500 for which the rate will be reduced by 5 cents, and increased the maximum income from $4200 to $4500 in excess of which no pension will be paid.
 
@@ -138,7 +138,7 @@ Subsec. (d). Pub. L. 90–77, §106(c), substituted “$16” for “$15”.
 
 Subsec. (e)(1). Pub. L. 90–77, §202(e), added item (D).
 
-Subsec. (e)(2), (3). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to oneyear and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+Subsec. (e)(2), (3). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
 1964—Subsec. (b). Pub. L. 88–664, §3(c), increased monthly pension rate in column II from $60, $45, and $25 to $64, $48, and $27, respectively.
 

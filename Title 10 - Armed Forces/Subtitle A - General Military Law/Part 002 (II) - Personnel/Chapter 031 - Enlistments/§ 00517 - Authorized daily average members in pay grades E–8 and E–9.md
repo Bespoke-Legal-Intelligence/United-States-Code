@@ -1,10 +1,10 @@
 ### §517. Authorized daily average: members in pay grades E–8 and E–9
 
-(a) Except as provided in section 307 of title 37, the authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a calendar year may not be more than 2 percent (or, in the case of the Army, 2.5 percent) and 1 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on January 1 of that year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty (other than for training) in connection with organizing, administering, recruiting, instructing, or training the reserve component of an armed force.
+(a) The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2 percent (or, in the case of the Army, 2.5 percent) and 1 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty (other than for training) in connection with organizing, administering, recruiting, instructing, or training the reserve component of an armed force.
 
 (b) Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
 
-(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988.)
+(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, §407(a), title X, §1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135.)
 
 Historical and Revision Notes
 
@@ -21,6 +21,10 @@ Historical and Revision Notes
 Oct. 12, 1949, ch. 681, §201(c) (last sentence); added May 20, 1958, Pub. L. 85–422, §1(3) (last sentence), 72 Stat. 124.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261, §1069(a)(2), substituted “The authorized” for “Except as provided in section 307 of title 37, the authorized”.
+
+Pub. L. 105–261, §407(a), substituted “a fiscal year” for “a calendar year” and “the first day of that fiscal year” for “January 1 of that year”.
 
 1994—Subsec. (a). Pub. L. 103–337, §552(a), inserted “(or, in the case of the Army, 2.5 percent)” after “may not be more than 2 percent”.
 
@@ -40,7 +44,7 @@ Pub. L. 101–189, §413(a)(1), in table, increased fiscal year limitation on nu
 
 1987—Subsec. (b). Pub. L. 100–180, §413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 529 and 2,350 from 517 and 2,295, respectively; Navy, to 180 and 400 from 175 and 390, respectively; Air Force, to 150 and 425 from 125 and 425, respectively. Marine Corps figures remained unchanged.
 
-Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
+Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
 
 1985—Subsec. (b). Pub. L. 99–145 in table, changed fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 165 and 381 from 156 and 381, respectively; Air Force, to 80 and 358 from 87 and 455, respectively. Army and Marine Corps figures remained unchanged.
 
@@ -57,6 +61,10 @@ Pub. L. 98–525, §413(a), in table, increased fiscal year limitation on number
 Subsec. (c). Pub. L. 97–86, §503(2), added subsec. (c).
 
 1980—Pub. L. 96–584 designated existing provisions as subsec. (a), inserted provisions respecting computation of limitations, and added subsec. (b).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title IV, §407(b), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1999.”
 
 #### Effective Date of 1994 Amendment
 

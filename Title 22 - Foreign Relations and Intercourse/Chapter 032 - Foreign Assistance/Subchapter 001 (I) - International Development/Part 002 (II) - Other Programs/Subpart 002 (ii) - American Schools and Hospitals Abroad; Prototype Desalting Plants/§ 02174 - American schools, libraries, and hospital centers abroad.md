@@ -102,10 +102,6 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 Section 116(b) of Pub. L. 95–88 provided that: “The amendment made by subsection (a)(3) \[amending this section\] shall not apply to funds appropriated before the date of enactment of this Act \[Aug. 3, 1977\].”
 
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2370 of this title; title 40 section 512.

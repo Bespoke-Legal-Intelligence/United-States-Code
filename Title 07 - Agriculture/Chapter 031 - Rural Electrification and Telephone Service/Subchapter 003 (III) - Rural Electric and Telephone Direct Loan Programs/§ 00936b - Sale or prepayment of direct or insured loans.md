@@ -28,7 +28,7 @@
 
 &emsp;&emsp;A borrower that has prepaid an insured or direct loan shall under this chapter in the same manner as other borrowers, except that—
 
-&emsp;&emsp;&emsp;(i) a borrower that has prepaid a loan, either before or after October 21, 1992, at adiscount rate as provided by paragraph (3), shall not be eligible, except at the discretion of the Secretary, to apply for or receive direct or insured loans under this chapter during the 120-month period beginning on the date of the prepayment; and
+&emsp;&emsp;&emsp;(i) a borrower that has prepaid a loan, either before or after October 21, 1992, at a discount rate as provided by paragraph (3), shall not be eligible, except at the discretion of the Secretary, to apply for or receive direct or insured loans under this chapter during the 120-month period beginning on the date of the prepayment; and
 
 &emsp;&emsp;&emsp;(ii) a borrower that prepaid a loan before October 21, 1992, at a discount rate greater than that provided by paragraph (3), shall not be eligible—
 
@@ -46,7 +46,7 @@
 
 #### (C) Distribution borrowers
 
-&emsp;&emsp;A distribution borrower not in default on the repayment of loans made or insured under this chapter shall be eligible for discounted prepayment as provided in this subsection. For the purpose of determining eligibility for discounted prepayment under this subsection or eligibility for assistance under this chapter, a default by a borrower from which a distribution borrower purchases wholesale power shall not be considered a default by the distribution borrower.
+&emsp;&emsp;A distribution borrower not in default on the repayment of loans made or insuredunder this chapter shall be eligible for discounted prepayment as provided in this subsection. For the purpose of determining eligibility for discounted prepayment under this subsection or eligibility for assistance under this chapter, a default by a borrower from which a distribution borrower purchases wholesale power shall not be considered a default by the distribution borrower.
 
 #### (6) Definitions
 
@@ -64,7 +64,7 @@
 
 Notwithstanding subsection (a) of this section, a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987, prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term “direct loan” means a loan made under section 904 of this title.
 
-(May 20, 1936, ch. 432, title III, §306B, as added Oct. 21, 1986, Pub. L. 99–509, title I, §1011(a), 100 Stat. 1876; amended Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2387, 104 Stat. 4051; Oct. 21, 1992, Pub. L. 102–428, §2, 106 Stat. 2183; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §306B, as added Pub. L. 99–509, title I, §1011(a), Oct. 21, 1986, 100 Stat. 1876; amended Pub. L. 101–624, title XXIII, §2387, Nov. 28, 1990, 104 Stat. 4051; Pub. L. 102–428, §2, Oct. 21, 1992, 106 Stat. 2183; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Codification
 

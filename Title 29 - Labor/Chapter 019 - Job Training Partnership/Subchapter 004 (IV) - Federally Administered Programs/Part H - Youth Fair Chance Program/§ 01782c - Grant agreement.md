@@ -48,13 +48,17 @@ Each such agreement shall—
 
 &emsp;(6) contain assurances that the participating community will undertake outreach and recruitment efforts in the target area to encourage, to the maximum extent possible, participation by the disadvantaged youth who are currently unserved, or underserved, by education and training programs, including targeted measures specifically designed to enlist the participation of youth, particularly males, under the jurisdiction of the child welfare, juvenile justice, and criminal justice systems;
 
-&emsp;(7) provide that the participating community will carry out special efforts to establishcoordination with Federal, State, or local programs that serve the target population;
+&emsp;(7) provide that the participating community will carry out special efforts to establish coordination with Federal, State, or local programs that serve the target population;
 
 &emsp;(8) provide assurances that funds provided under this part for a fiscal year will be used only to pay the Federal share attributable to this part of the cost of programs and services not otherwise available in the target area and will supplement, and not supplant, funding from other local, State, and Federal sources available to youth in the target area during the previous year; and
 
 &emsp;(9) permit funds provided under this part to be used to support paid work experience programs if such programs are combined with other education and training activities.
 
 (Pub. L. 97–300, title IV, §494, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1089; amended Pub. L. 103–50, ch. V, §502, July 2, 1993, 107 Stat. 254.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Amendments
 

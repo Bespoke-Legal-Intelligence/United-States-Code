@@ -1,6 +1,0 @@
-### §532. Completion of organization
-
-A majority of the persons named in section 531 of this title, acting in person or by written proxy, are authorized to complete the organization of the corporation by the selection of officers and employees, the adoption of a constitution and bylaws not inconsistent with this chapter, and the doing of such other acts as may be necessary for such purpose.
-
-(Aug. 20, 1954, ch. 774, §2, 68 Stat. 749.)
-

@@ -4,7 +4,7 @@
 
 (b) The Archivist shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5.
 
-(c) There shall be in the Administration a Deputy Archivist of the United States, who shall be appointed by and who shall serve at the pleasure of the Archivist. The Deputy Archivist shall be established as a career reserved position in the Senior Executive Service within the meaning ofsection 3132(a)(8) of title 5. The Deputy Archivist shall perform such functions as the Archivist shall designate. During any absence or disability of the Archivist, the Deputy Archivist shall act as Archivist. In the event of a vacancy in the office of the Archivist, the Deputy Archivist shall act as Archivist until an Archivist is appointed under subsection (a).
+(c) There shall be in the Administration a Deputy Archivist of the United States, who shall be appointed by and who shall serve at the pleasure of the Archivist. The Deputy Archivist shall be established as a career reserved position in the Senior Executive Service within the meaning of section 3132(a)(8) of title 5. The Deputy Archivist shall perform such functions as the Archivist shall designate. During any absence or disability of the Archivist, the Deputy Archivist shall act as Archivist. In the event of a vacancy in the office of the Archivist, the Deputy Archivist shall act as Archivist until an Archivist is appointed under subsection (a).
 
 (Added Pub. L. 98–497, title I, §102(a)(2), Oct. 19, 1984, 98 Stat. 2280.)
 

@@ -8,7 +8,7 @@ The Bureau of the Census shall continue to collect data on the 1992 and 1993 pan
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, and 2002 for payment to the Bureau of the Census to carry out subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §414, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2156; amended Aug. 5, 1997, Pub. L. 105–33, title V, §5514(c), 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §414, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2156; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
 #### References in Text
 

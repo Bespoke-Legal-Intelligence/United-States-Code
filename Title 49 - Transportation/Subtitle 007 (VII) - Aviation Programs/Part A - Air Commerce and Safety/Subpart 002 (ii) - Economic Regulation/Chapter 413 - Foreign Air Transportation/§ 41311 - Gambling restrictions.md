@@ -16,7 +16,7 @@ Definition.—In this section, the term “gambling device” means any machine 
 
 #### Study of Gambling on Commercial Aircraft
 
-Section 205(b) of Pub. L. 103–305 provided that: “Not later than 1 year after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall complete a study of—
+Section 205(b) of Pub. L. 103–305 provided that: “Not later than 1 year after the date of the enactment of thisAct \[Aug. 23, 1994\], the Secretary shall complete a study of—
 
 &emsp;“(1) the aviation safety effects of gambling applications on electronic interactive video systems installed on board aircraft for passenger use, including an evaluation of the effect of such systems on the navigational and other electronic equipment of the aircraft, on the passengers and crew of the aircraft, and on issues relating to the method of payment;
 

@@ -34,7 +34,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 &emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more major allies of the United States or NATO organizations, an assessment by the Under Secretary of Defense for Acquisition and Technology as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
 
-&emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more major allies of the United States or NATO organizations.
+&emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization,and Interoperability (RSI) of seeking to structure a cooperative development program with one or more major allies of the United States or NATO organizations.
 
 &emsp;(D) The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more major allies of the United States or NATO organizations.
 
@@ -119,6 +119,10 @@ Subsec. (i)(4). Pub. L. 103–337, §1301(b), added par. (4).
 1991—Subsec. (g)(1)(A), (4)(A). Pub. L. 102–190 inserted “and other friendly foreign countries” after “major allies of the United States”.
 
 1990—Subsec. (g)(4). Pub. L. 101–510 amended introductory provisions generally, substituting “submit to Congress each year, not later than March 1, a report containing” for “include in the annual report to Congress required by section 2457(d) of this title”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Termination Date of 1992 Amendment
 

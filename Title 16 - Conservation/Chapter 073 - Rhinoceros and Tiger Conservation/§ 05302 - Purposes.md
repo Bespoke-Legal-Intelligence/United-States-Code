@@ -6,5 +6,11 @@ The purposes of this chapter are the following:
 
 &emsp;(2) To provide financial resources for those programs.
 
-(Pub. L. 103–391, §3, Oct. 22, 1994, 108 Stat. 4095.)
+&emsp;(3) To prohibit the sale, importation, and exportation of products intended for human consumption or application containing, or labeled or advertised as containing, any substance derived from any species of rhinoceros or tiger.
+
+(Pub. L. 103–391, §3, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, §403, Oct. 30, 1998, 112 Stat. 2959.)
+
+#### Amendments
+
+1998—Par. (3). Pub. L. 105–312 added par. (3).
 

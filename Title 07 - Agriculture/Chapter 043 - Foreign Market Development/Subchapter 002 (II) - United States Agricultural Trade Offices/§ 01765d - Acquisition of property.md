@@ -2,7 +2,7 @@
 
 Upon the request of the Secretary of Agriculture, the Secretary of State may use the authorities contained in the Foreign Service Buildings Act, 1926 \[22 U.S.C. 292 et seq.\], to acquire sites and buildings, including living quarters, for the purpose of establishing United States Agricultural Trade Offices.
 
-(Aug. 28, 1954, ch. 1041, title VI, §605D, as added Oct. 21, 1978, Pub. L. 95–501, title IV, §401(1), 92 Stat. 1690.)
+(Aug. 28, 1954, ch. 1041, title VI, §605D, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1690.)
 
 #### References in Text
 

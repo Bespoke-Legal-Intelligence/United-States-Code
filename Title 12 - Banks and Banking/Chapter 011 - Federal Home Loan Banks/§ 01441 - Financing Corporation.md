@@ -572,6 +572,10 @@ Section 318 of Pub. L. 102–233 provided that: “The effective date of the Res
 
 Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
+#### Abolition of Thrift Depositor Protection Oversight Board
+
+Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
+
 #### Prohibition on Deposit Shifting
 
 Section 2703(d) of Pub. L. 104–208 provided that:
@@ -622,7 +626,7 @@ In General.—The following provisions shall cease to be effective on the date t
 
 “(b)
 
-Notice of Completion of Net New Borrowing by Financing Corporation.—When the Financing Corporation established pursuant to section 21 of the Federal Home Loan Bank Act \[12 U.S.C. 1441\] has completed all net new borrowing under such section, the Financing Corporation shall publish a notice of such fact in the Federal Register. \[Notice that the FinancingCorporation had completed all net new borrowings and would issue no additional obligations after Dec. 12, 1991, was published Mar. 30, 1992, 57 F.R. 10763.\]
+Notice of Completion of Net New Borrowing by Financing Corporation.—When the Financing Corporation established pursuant to section 21 of the Federal Home Loan Bank Act \[12 U.S.C. 1441\] has completed all net new borrowing under such section, the Financing Corporation shall publish a notice of such fact in the Federal Register. \[Notice that the Financing Corporation had completed all net new borrowings and would issue no additional obligations after Dec. 12, 1991, was published Mar. 30, 1992, 57 F.R. 10763.\]
 
 “(c)
 

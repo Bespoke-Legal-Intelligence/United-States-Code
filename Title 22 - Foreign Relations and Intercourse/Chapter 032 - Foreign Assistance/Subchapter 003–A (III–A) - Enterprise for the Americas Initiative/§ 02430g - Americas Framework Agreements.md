@@ -96,5 +96,5 @@ A prior section 708 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 464, am
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2430a of this title.
+This section is referred to in sections 2430a, 2431g of this title.
 

@@ -26,7 +26,7 @@ In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b
 
 #### (3) Third tier
 
-&emsp;Notwithstanding paragraphs (1) and (2), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
+&emsp;Notwithstanding paragraphs (1) and (2), the maximum amount of penalty for each such actor omission shall be $100,000 for a natural person or $500,000 for any other person if—
 
 &emsp;&emsp;(A) the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
@@ -56,7 +56,7 @@ In any proceeding in which the Commission or the appropriate regulatory agency m
 
 In any proceeding in which the Commission or the appropriate regulatory agency may impose a penalty under this section, the Commission or the appropriate regulatory agency may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-(June 6, 1934, ch. 404, title I, §21B, as added Oct. 15, 1990, Pub. L. 101–429, title II, §202(a), 104 Stat. 937.)
+(June 6, 1934, ch. 404, title I, §21B, as added Pub. L. 101–429, title II, §202(a), Oct. 15, 1990, 104 Stat. 937.)
 
 #### References in Text
 

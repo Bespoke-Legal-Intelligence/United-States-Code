@@ -12,7 +12,7 @@ The Commission is not responsible, and may not consider any claim, for demurrage
 
 &emsp;(5) congestion of traffic;
 
-&emsp;(6) investigation of a marine accident that is conducted within 24 hours after the accidentoccurs, except that any liability of the Commission beyond that 24-hour period shall be limited to the extent to which the accident was caused, or contributed to, by the negligence of an employee of the Commission acting within the scope of the employee's official duties; or
+&emsp;(6) investigation of a marine accident that is conducted within 24 hours after the accident occurs, except that any liability of the Commission beyond that 24-hour period shall be limited to the extent to which the accident was caused, or contributed to, by the negligence of an employee of the Commission acting within the scope of the employee's official duties; or
 
 &emsp;(7) except as specially set forth in this subpart, any other cause.
 

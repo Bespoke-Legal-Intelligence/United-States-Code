@@ -2,7 +2,7 @@
 
 In any removal proceedings before an immigration judge and in any appeal proceedings before the Attorney General from any such removal proceedings, the person concerned shall have the privilege of being represented (at no expense to the Government) by such counsel, authorized to practice in such proceedings, as he shall choose.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §292, 66 Stat. 235; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(d)(4)(O), 371(b)(9), 110 Stat. 3009–619, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 9, §292, 66 Stat. 235; Pub. L. 104–208, div. C, title III, §§308(d)(4)(O), 371(b)(9), Sept. 30, 1996, 110 Stat. 3009–619, 3009–645.)
 
 #### Amendments
 

@@ -26,17 +26,9 @@ Amounts expended for furnishing services referred to in subsection (c) of this s
 
 &emsp;(2) other persons authorized to receive such services who are eligible to receive them pursuant to the Panama Canal Treaty of 1977 and related agreements.
 
-> The appropriations or funds of any other department or agency of the United States conducting operations in the Republic of Panama, including the Smithsonian Institution, shall be available for reimbursements on behalf of employees of such department or agency and their dependents.
+> The appropriations or funds of any other department or agency of the United States conductingoperations in the Republic of Panama, including the Smithsonian Institution, shall be available for reimbursements on behalf of employees of such department or agency and their dependents.
 
-#### (e) Availability of funds to defray certain costs
-
-The appropriations or funds of the Commission, or of any other department or agency of the United States conducting operations in the Republic of Panama, shall be available to defray the cost of—
-
-&emsp;(1) health care services provided by medical facilities licensed and approved by the Republic of Panama (and not operated by the United States) to elderly or disabled persons who were eligible to receive such services before October 1, 1979, less amounts payable by such persons, and
-
-&emsp;(2) educational services provided by schools in the Republic of Panama or the United States, which are not operated by the United States, to employees of the Commission who are citizens of the United States, to other Commission employees when determined by the Commission to be necessary for their recruitment or retention, and to other persons who were receiving such services at the expense of the Canal Zone Government before October 1, 1979.
-
-> Notwithstanding the provisions relating to the availability of adequate schools contained in section 5924(4)(A) of title 5, the Commission shall by regulation determine the extent to which costs of educational services may be defrayed under this subsection.
+#### (e) Repealed. Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269
 
 #### (f) Reimbursement of United States by Republic of Panama for salaries and other employment costs
 
@@ -50,13 +42,15 @@ Notwithstanding any other provision of law, the President, through the appropria
 
 Except as expressly provided in this chapter, funds available to the Panama Canal Commission may not be made available to any other agency as that term is defined in section 551 of title 5, nor may funds be authorized or appropriated for any function other than Panama Canal Commission activities.
 
-(Pub. L. 96–70, title I, §1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, §5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, §8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, §3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, §3604, Oct. 5, 1994, 108 Stat. 3112; Pub. L. 104–106, div. C, title XXXV, §3529(3), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, §3542, Sept. 23, 1996, 110 Stat. 2867; Pub. L. 105–85, div. C, title XXXV, §§3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, 111 Stat. 2066, 2074.)
+(Pub. L. 96–70, title I, §1321, Sept. 27, 1979, 93 Stat. 480; Pub. L. 99–223, §5(c), Dec. 28, 1985, 99 Stat. 1739; Pub. L. 100–705, §8, Nov. 19, 1988, 102 Stat. 4686; Pub. L. 102–484, div. C, title XXXV, §3512, Oct. 23, 1992, 106 Stat. 2655; Pub. L. 103–337, div. C, title XXXVI, §3604, Oct. 5, 1994, 108 Stat. 3112; Pub. L. 104–106, div. C, title XXXV, §3529(3), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, §3542, Sept. 23, 1996, 110 Stat. 2867; Pub. L. 105–85, div. C, title XXXV, §§3525(b), 3550(d)(2)(A), (B), Nov. 18, 1997, 111 Stat. 2066, 2074; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–261 struck out subsec. (e) which provided that appropriations or funds of the Commission or of any other department or agency of the United States conducting operations in the Republic of Panama were available to defray the cost of certain health care services and educational services.
 
 1997—Subsec. (c)(1). Pub. L. 105–85, §3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
@@ -75,6 +69,10 @@ Subsec. (e). Pub. L. 104–201 inserted concluding provisions “Notwithstanding
 1988—Subsec. (h). Pub. L. 100–705 added subsec. (h).
 
 1985—Subsec. (e). Pub. L. 99–223 amended subsec. (e) generally, striking out “, in accordance with subsection (d) of this section,” after “shall be available” in provisions preceding par. (1) and inserting “employees of the Commission who are citizens of the United States and” in par. (2).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (e) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (e) of this section is terminated.
 
 #### Effective Date of 1988 Amendment
 

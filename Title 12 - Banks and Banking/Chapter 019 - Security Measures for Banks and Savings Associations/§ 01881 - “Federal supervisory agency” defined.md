@@ -20,7 +20,7 @@ Par. (4). Pub. L. 101–73, §744(h)(1), substituted “Director of the Office o
 
 #### Short Title
 
-Section 1 of Pub. L. 90–389 provided: “That this Act \[enacting this chapter and amending section 1729 of this title\] may be cited as the ‘Bank Protection Act of 1968’.”
+Section 1 of Pub. L. 90–389 provided: “That this Act \[enacting this chapter and amending section 1729 ofthis title\] may be cited as the ‘Bank Protection Act of 1968’.”
 
 #### Section Referred to in Other Sections
 

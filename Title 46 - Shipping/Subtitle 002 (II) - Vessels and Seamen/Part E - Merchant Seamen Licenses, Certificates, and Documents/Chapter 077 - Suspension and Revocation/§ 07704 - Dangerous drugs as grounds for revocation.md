@@ -4,7 +4,7 @@
 
 (b) If it is shown at a hearing under this chapter that a holder of a license, certificate of registry, or merchant mariner's document issued under this part, within 10 years before the beginning of the proceedings, has been convicted of violating a dangerous drug law of the United States or of a State, the license, certificate, or document shall be revoked.
 
-(c) If it is shown that a holder has been a user of, or addicted to, a dangerous drug, the license, certificate of registry, or merchant mariner's document shall be revoked unless the holder provides satisfactory proof that the holder is cured.
+(c) If it is shown that a holder has been a user of, or addicted to, a dangerous drug, the license, certificate of registry, or merchant mariner's document shall be revoked unless the holderprovides satisfactory proof that the holder is cured.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(9)(F), (G), May 15, 1985, 99 Stat. 68; Pub. L. 101–380, title IV, §4103(a)(2)(B), Aug. 18, 1990, 104 Stat. 511.)
 

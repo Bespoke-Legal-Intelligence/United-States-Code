@@ -6,7 +6,7 @@
 
 (c) The enlisted members assigned to the Naval Academy Band shall be distributed in grade substantially the same as in the United States Navy Band.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 435; Sept. 7, 1962, Pub. L. 87–649, §14c(52), 76 Stat. 501.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 435; Pub. L. 87–649, §14c(52), Sept. 7, 1962, 76 Stat. 501.)
 
 Historical and Revision Notes
 

@@ -28,7 +28,7 @@
 
 (1) Not later than 1 year after the effective date of this Act,<sup>1</sup> the Director of the National Institute of Justice shall certify to the Committees on the Judiciary of the House and Senate that—
 
-&emsp;(A) the Institute has entered into a contract with, or made a grant to, an appropriate entity for establishing, or has taken other appropriate action to ensure that there is established, not later than 2 years after September 13, 1994, a blind external proficiency testing program for DNA analyses, which shall be available to public and private laboratories performing forensic DNA analyses;
+&emsp;(A) the Institute has entered into a contract with, or made a grant to, an appropriate entity for establishing, or has taken other appropriate action to ensure that there is established, not later than 2 years after September 13, 1994, a blind external proficiency testingprogram for DNA analyses, which shall be available to public and private laboratories performing forensic DNA analyses;
 
 &emsp;(B) a blind external proficiency testing program for DNA analyses is already readily available to public and private laboratories performing forensic DNA analyses; or
 
@@ -46,7 +46,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(2),
 
 The effective date of this Act, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
-This subtitle, referred to in subsec. (c)(3), is subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2065, known as the DNA Identification Act of 1994, which enacted this part and sections 3796kkto 3796kk–6 of this title, amended sections 3751, 3753, 3793, and 3797 of this title, and enacted provisions set out as notes under sections 3751 and 13701 of this title. For complete classification of this subtitle to the Code, see Short Title note set out under section 13701 of this title and Tables.
+This subtitle, referred to in subsec. (c)(3), is subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2065, known as the DNA Identification Act of 1994, which enacted this part and sections 3796kk to 3796kk–6 of this title, amended sections 3751, 3753, 3793, and 3797 of this title, and enacted provisions set out as notes under sections 3751 and 13701 of this title. For complete classification of this subtitle to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(3), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Part X of title I of the Act is classified generally to subchapter XII–L (§3796kk et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 

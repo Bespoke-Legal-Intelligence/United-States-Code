@@ -52,7 +52,7 @@ All records of persons described in subsection (a) of this section are subject a
 
 &emsp;(B) make such inquiry with respect to information reported pursuant to this subsection as the Commission, by rule, prescribes as necessary or appropriate in the public interest or for the protection of investors, to determine whether securities in their custody or control, for which they are responsible, or in which they are effecting, clearing, or settling a transaction have been reported as missing, lost, counterfeit, or stolen.
 
-(2) Every member of a national securities exchange, broker, dealer, registered transfer agent, and registered clearing agency, shall require that each of its partners, directors, officers, and employees be fingerprinted and shall submit such fingerprints, or cause the same to be submitted, to the Attorney General of the United States for identification and appropriate processing. The Commission, by rule, may exempt from the provisions of this paragraph upon specified terms, conditions, and periods, any class of partners, directors, officers, or employees of any such member, broker, dealer, transfer agent, or clearing agency, if the Commission finds that such action is not inconsistent with the public interest or the protection of investors. Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.
+(2) Every member of a national securities exchange, broker, dealer, registered transfer agent, and registered clearing agency, shall require that each of its partners, directors, officers, and employees be fingerprinted and shall submit such fingerprints, or cause the same to be submitted, to the Attorney General of the United States for identification and appropriate processing. The Commission, by rule, may exempt from the provisions of this paragraph upon specified terms, conditions, and periods, any class of partners, directors, officers, or employees of any such member, broker, dealer, transferagent, or clearing agency, if the Commission finds that such action is not inconsistent with the public interest or the protection of investors. Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.
 
 (3)(A) In order to carry out the authority under paragraph (1) above, the Commission or its designee may enter into agreement with the Attorney General to use the facilities of the National Crime Information Center (“NCIC”) to receive, store, and disseminate information in regard to missing, lost, counterfeit, or stolen securities and to permit direct inquiry access to NCIC's file on such securities for the financial community.
 
@@ -86,7 +86,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (A) Cooperation in implementation
 
-&emsp;&emsp;In developing and implementing reporting requirements pursuant to paragraph (1) of this subsection with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agency comments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to such written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
+&emsp;&emsp;In developing and implementing reporting requirements pursuant to paragraph (1) of this subsection with respect to associated persons subject to examination by or reporting requirements of a Federal banking agency, the Commission shall consult with and consider the views of each such Federal banking agency. If a Federal banking agencycomments in writing on a proposed rule of the Commission under this subsection that has been published for comment, the Commission shall respond in writing to such written comment before adopting the proposed rule. The Commission shall, at the request of the Federal banking agency, publish such comment and response in the Federal Register at the time of publishing the adopted rule.
 
 #### (B) Use of banking agency reports
 
@@ -156,13 +156,13 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (B) Appropriate disclosure not prohibited
 
-&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority to withhold information from the Congress, or prevent the Commission or any examiningauthority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
+&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority to withhold information from the Congress, or prevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
 #### (5) “Examining authority” defined
 
 &emsp;For purposes of this subsection, the term “examining authority” means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
 
-(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; June 4, 1975, Pub. L. 94–29, §14, 89 Stat. 137; Oct. 28, 1986, Pub. L. 99–571, title I, §102(h), (i), 100 Stat. 3219; Dec. 4, 1987, Pub. L. 100–181, title III, §321, title VIII, §801(b), 101 Stat. 1257, 1265; Oct. 16, 1990, Pub. L. 101–432, §4(a), 104 Stat. 966; Oct. 11, 1996, Pub. L. 104–290, title I, §108, 110 Stat. 3425.)
+(June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
 
@@ -171,6 +171,8 @@ This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), 
 Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–353 substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board” in first sentence.
 
 1996—Subsec. (i). Pub. L. 104–290 added subsec. (i).
 
@@ -199,10 +201,6 @@ Subsecs. (b) to (g). Pub. L. 94–29 added subsecs. (b) to (f) and redesignated 
 1938—Subsec. (a). Act June 25, 1938, inserted “every registered securities association”.
 
 1936—Subsec. (a). Act May 27, 1936, substituted “every broker or dealer registered pursuant to section 78<i>o</i> of this title” for “every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce”.
-
-#### Change of Name
-
-Section 203(a) of act Aug. 23, 1935, substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
 
 #### Effective Date of 1986 Amendment
 

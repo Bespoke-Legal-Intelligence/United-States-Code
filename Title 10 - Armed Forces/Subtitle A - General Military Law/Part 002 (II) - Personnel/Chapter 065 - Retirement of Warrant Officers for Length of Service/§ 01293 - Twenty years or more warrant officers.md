@@ -2,7 +2,7 @@
 
 The Secretary concerned may, upon the warrant officer's request, retire a warrant officer of any armed force under his jurisdiction who has at least 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Sept. 7, 1962, Pub. L. 87–649, §6(f)(3), 76 Stat. 494.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, §6(f)(3), Sept. 7, 1962, 76 Stat. 494.)
 
 Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 May 29, 1954, ch. 249, §§2(d) (as applicable to §14(a)), 14(a), 68 Stat. 157, 162.
 
-The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and inthe discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
+The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and in the discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Pub. L. 104–106, div. A, title V, §566(c), Feb. 10, 1996, 110 Stat. 328, prov
 
 Pub. L. 103–337, div. A, title V, §542(d), Oct. 5, 1994, 108 Stat. 2769, provided that: “Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Transportation shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel.”
 
-Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, §561(a), Oct. 17, 1998, 112 Stat. 2025, provided that:
 
 “(a)
 
@@ -112,7 +112,7 @@ Computation of Retired Pay.—Retired or retainer pay of a member retired (or tr
 
 Funding.—(1) Notwithstanding section 1463 of title 10, United States Code, and subject to the availability of appropriations for this purpose, the Secretary of each military department shall provide in accordance with this section for the payment of retired pay payable during the fiscal years covered by the other provisions of this subsection to members of the Armed Forces under the jurisdiction of that Secretary who are being retired under the authority of this section.
 
-“(2) In each fiscal year in which the Secretary of a military department retires a member of the Armed Forces under the authority of this section, the Secretary shall credit to a subaccount (which the Secretary shall establish) within the appropriation account for that fiscal year for pay and allowances of active duty members of the Armed Forces under the jurisdiction of that Secretary such amount as is necessary to pay the retired pay payable to such member for the entire initial period (determined under paragraph (3)) of the entitlement of that member to receive retired pay.
+“(2) In each fiscal year in which the Secretary of a military department retires a member of the ArmedForces under the authority of this section, the Secretary shall credit to a subaccount (which the Secretary shall establish) within the appropriation account for that fiscal year for pay and allowances of active duty members of the Armed Forces under the jurisdiction of that Secretary such amount as is necessary to pay the retired pay payable to such member for the entire initial period (determined under paragraph (3)) of the entitlement of that member to receive retired pay.
 
 “(3) The initial period applicable under paragraph (2) in the case of a retired member referred to in that paragraph is the number of years (and any fraction of a year) that is equal to the difference between 20 years and the number of years (and any fraction of a year) of service that were completed by the member (as computed under the provision of law used for determining the member's years of service for eligibility to retirement) before being retired under the authority of this section.
 
@@ -136,7 +136,7 @@ Members Receiving SSB or VSI.—The Secretary of a military department may retir
 
 “(i)
 
-Active Force Drawdown Period.—For purposes of this section, the active force drawdown period is the period beginning on the date of the enactment of this Act and ending on October 1, 1999.”
+Active Force Drawdown Period.—For purposes of this section, the active force drawdown period is the period beginning on the date of the enactment of this Act and ending on October 1, 2001.”
 
 #### Cross References
 

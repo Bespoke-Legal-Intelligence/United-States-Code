@@ -42,17 +42,17 @@ The Secretary of Commerce shall prepare, for each biennial period commencing wit
 
 &emsp;(A) ensure that personnel and resources of each regional research center shall have substantial participation in the stock assessments and monitoring of highly migratory species that occur in the region;
 
-&emsp;(B) provide for comparable monitoring of all United States fishermen to which the Atlantic Tunas Convention Act <sup>1</sup> applies with respect to effort and species composition of catch and discards;
+&emsp;(B) provide for comparable monitoring of all United States fishermen to which the Atlantic Tunas Convention Act of 1975 applies with respect to effort and species composition of catch and discards;
 
 &emsp;(C) consult with relevant Federal and State agencies, scientific and technical experts, commercial and recreational fishermen, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan; and
 
 &emsp;(D) through the Secretary of State, encourage other member nations to adopt a similar program.
 
-(Pub. L. 96–339, §3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, §302(b), Nov. 3, 1995, 109 Stat. 382.)
+(Pub. L. 96–339, §3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, §302(b), Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, §202(b)(2), Nov. 13, 1998, 112 Stat. 3453.)
 
 #### References in Text
 
-The Atlantic Tunas Convention Act, referred to in subsec. (b)(3)(B), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 #### Codification
 
@@ -60,7 +60,7 @@ Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 whi
 
 #### Amendments
 
-1995—Pub. L. 104–43 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, struck out last sentence which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”, and added subsec. (b).
+1998—Subsec. (b)(3)(B). Pub. L. 105–384 inserted “of 1975” after “Act”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1995—Pub. L. 104–43 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, struck out last sentence which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”, and added subsec. (b).
 

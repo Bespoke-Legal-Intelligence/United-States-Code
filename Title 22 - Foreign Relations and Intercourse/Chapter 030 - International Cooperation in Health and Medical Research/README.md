@@ -15,7 +15,7 @@
 | (e) | Consultants; advisory committees; compensation and travel expenses. |
 | (f) | Delegation of authority; regulations. |
 | (g) | Use of foreign currencies and credits. |
-| (h) | Report to Congress. |
+| (h) | Repealed. |
 | (i) | Definitions. |
 | [2104\.](%C2%A7%2002104%20-%20Authority%20of%20Federal%20officers%20and%20agencies%20unaffected.md) | Authority of Federal officers and agencies unaffected. |
 

@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescribe rules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
+A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered the Supreme Court to prescriberules for review of decisions of the Tax Court of the United States, prior to repeal by Pub. L. 89–773, §2, Nov. 6, 1966, 80 Stat. 1323.
 
 #### Effective Date
 
@@ -88,7 +88,7 @@ Pub. L. 94–349, §2, July 8, 1976, 90 Stat. 822, provided: “That, notwithsta
 
 #### Approval and Effective Date of Amendments Proposed November 20, 1972 and December 18, 1972
 
-Pub. L. 93–595, §3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The Congress expressly approves the amendments to the Federal Rules of Civil Procedure \[Rules 30(c), 32(c), 43, and 44.1\] and the amendments to the Federal Rules of Criminal Procedure \[Rules 26, 26.1, and 28\], which are embraced by the orders entered by the Supreme Court of the United States on November 20, 1972, and December 18, 1972, and such amendments shall take effect on the one hundred and eightieth day beginning after the date of the enactment of this Act \[Jan. 2, 1975\].”
+Pub. L. 93–595, §3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The Congress expressly approves the amendments to the Federal Rules of Civil Procedure \[Rules 30(c), 32(c), 43, and 44.1\] and the amendments to the Federal Rules of Criminal Procedure \[Rules 26, 26.1, and 28\], which are embraced by the orders entered by the Supreme Court of the United States on November 20,1972, and December 18, 1972, and such amendments shall take effect on the one hundred and eightieth day beginning after the date of the enactment of this Act \[Jan. 2, 1975\].”
 
 #### Congressional Approval Requirement for Proposed Rules of Evidence for United States Courts and Amendments to Federal Rules of Civic Procedure and Criminal Procedure; Suspension of Effectiveness of Such Rules
 

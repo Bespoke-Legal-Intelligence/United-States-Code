@@ -8,7 +8,7 @@ Whenever the Attorney General of the United States has brought an action under t
 
 To assist a State attorney general in evaluating the notice or in bringing any action under this Act, the Attorney General of the United States shall, upon request by such State attorney general, make available to him, to the extent permitted by law, any investigative files or other materials which are or may be relevant or material to the actual or potential cause of action under this Act.
 
-(Oct. 15, 1914, ch. 323, §4F, as added Sept. 30, 1976, Pub. L. 94–435, title III, §301, 90 Stat. 1395.)
+(Oct. 15, 1914, ch. 323, §4F, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1395.)
 
 #### References in Text
 

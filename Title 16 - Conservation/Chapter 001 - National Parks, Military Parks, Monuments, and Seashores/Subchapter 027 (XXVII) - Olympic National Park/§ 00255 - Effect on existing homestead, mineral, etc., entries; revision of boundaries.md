@@ -2,7 +2,7 @@
 
 Nothing contained herein shall affect any valid existing claim, location, or entry made under the land laws of the United States, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land, nor the rights reserved by treaty to the Indians of any tribes. The boundaries of Olympic National Park may be revised only by Act of Congress.
 
-(June 29, 1938, ch. 812, §5, 52 Stat. 1242; Oct. 21, 1976, Pub. L. 94–578, title III, §320(c), 90 Stat. 2739.)
+(June 29, 1938, ch. 812, §5, 52 Stat. 1242; Pub. L. 94–578, title III, §320(c), Oct. 21, 1976, 90 Stat. 2739.)
 
 #### References in Text
 
@@ -12,7 +12,7 @@ The land laws of the United States, referred to in text, are classified generall
 
 #### Amendments
 
-1976—Pub. L. 94–578 substituted “The boundaries of Olympic National Park may be revised only by Act of Congress” for “The President may after eight months from June 29, 1938 by proclamation add to the Olympic National Park any lands within the boundaries of the Olympic National Forest, and any lands which may be acquired by the Government by gift or purchase, which he may deem it advisable to add to such park; and any lands so added to such park shall, upon their addition thereto, become subject to all laws and regulations applicable to other lands within such park: <i>Provided</i>, That the total area of the said park shall not exceed eight hundred and ninety-eight thousand two hundred and ninety-two acres: <i>Provided further</i>, That before issuing any such proclamation, the President shall consult with the Governor of the State of Washington, the Secretary of the Interior, and the Secretary of Agriculture and advise them of the lands which he proposes to addto such park, and shall afford them a reasonable opportunity to consult with and communicate to him their views and recommendations with respect to the addition of such lands to such park.”
+1976—Pub. L. 94–578 substituted “The boundaries of Olympic National Park may be revised only by Act of Congress” for “The President may after eight months from June 29, 1938 by proclamation add to the Olympic National Park any lands within the boundaries of the Olympic National Forest, and any lands which may be acquired by the Government by gift or purchase, which he may deem it advisable to add to such park; and any lands so added to such park shall, upon their addition thereto, become subject to all laws and regulations applicable to other lands within such park: <i>Provided</i>, That the total area of the said park shall not exceed eight hundred and ninety-eight thousand two hundred and ninety-two acres: <i>Provided further</i>, That before issuing any such proclamation, the President shall consult with the Governor of the State of Washington, the Secretary of the Interior, and the Secretary of Agriculture and advise them of the lands which he proposes to add to such park, and shall afford them a reasonable opportunity to consult with and communicate to him their views and recommendations with respect to the addition of such lands to such park.”
 
 #### Proclamation No. 3003
 

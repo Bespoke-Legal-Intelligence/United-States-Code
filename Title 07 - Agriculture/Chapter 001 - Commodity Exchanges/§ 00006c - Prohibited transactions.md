@@ -70,7 +70,7 @@ Nothing in this chapter shall be deemed to govern or in any way be applicable to
 
 The Commission shall adopt rules requiring that a contemporaneous written record be made, as practicable, of all orders for execution on the floor or subject to the rules of each contract market placed by a member of the contract market who is present on the floor at the time such order is placed.
 
-(Sept. 21, 1922, ch. 369, §4c, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), title IV, §402, 88 Stat. 1392, 1412; Sept. 30, 1978, Pub. L. 95–405, §3, 92 Stat. 867; Jan. 11, 1983, Pub. L. 97–444, title I, §102, title II, §206, 96 Stat. 2296, 2301; Nov. 10, 1986, Pub. L. 99–641, title I, §102, 100 Stat. 3557; Oct. 28, 1992, Pub. L. 102–546, title II, §203(a), title IV, §402(4), 106 Stat. 3600, 3624.)
+(Sept. 21, 1922, ch. 369, §4c, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 93–463, title I, §103(a), title IV, §402, Oct. 23, 1974, 88 Stat. 1392, 1412; Pub. L. 95–405, §3, Sept. 30, 1978, 92 Stat. 867; Pub. L. 97–444, title I, §102, title II, §206, Jan. 11, 1983, 96 Stat. 2296, 2301; Pub. L. 99–641, title I, §102, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §203(a), title IV, §402(4), Oct. 28, 1992, 106 Stat. 3600, 3624.)
 
 #### Amendments
 

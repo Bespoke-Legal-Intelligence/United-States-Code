@@ -44,7 +44,7 @@ In selecting a proposal and in negotiating financial assistance under this secti
 
 The Secretary shall require that—
 
-&emsp;(1) as a part of a demonstration project, the user or users of the electric motor vehicles will provide to the proposer and the manufacturer information regarding the operation, maintenance, performance, and use of the electric motor vehicles for 5 years after the beginning of the demonstration project;
+&emsp;(1) as a part of a demonstration project, the user or users of the electric motor vehicles will provide to the proposer and the manufacturer information regarding the operation, maintenance, performance, and use of theelectric motor vehicles for 5 years after the beginning of the demonstration project;
 
 &emsp;(2) the proposer shall provide to the Secretary such information regarding the operation, maintenance, performance, and use of the electric motor vehicles as the Secretary may request during the period of the demonstration project;
 

@@ -18,7 +18,7 @@ Generally.—Any importer or manufacturer that distributes any digital audio rec
 
 &emsp;(2)
 
-Certification, verification, and confidentiality.—Each such statement shall be certified as accurate by an authorized officer or principal of the importer or manufacturer. The Register shall issue regulations to provide for the verification and audit of such statements and to protect the confidentiality of the information contained in such statements. Such regulations shall provide for the disclosure, in confidence, of such statements to interested copyright parties.
+Certification, verification, and confidentiality.—Each such statement shall be certified as accurate by an authorized officer or principal of the importer or manufacturer. The Register shall issue regulations to provide for the verification and audit of such statements and to protect the confidentiality of theinformation contained in such statements. Such regulations shall provide for the disclosure, in confidence, of such statements to interested copyright parties.
 
 &emsp;(3)
 

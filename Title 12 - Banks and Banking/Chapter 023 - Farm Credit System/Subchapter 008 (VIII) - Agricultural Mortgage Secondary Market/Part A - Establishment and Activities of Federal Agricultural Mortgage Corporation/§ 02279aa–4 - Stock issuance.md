@@ -16,7 +16,7 @@
 
 #### (4) Transferability
 
-&emsp;Subject to such limitations as the Board may impose, any share of any class of votingcommon stock issued under this section shall be transferable among the institutions or entities to which shares of such class of common stock may be offered under paragraph (1), except that, as to the Corporation, such shares shall be transferable only on the books of the Corporation.
+&emsp;Subject to such limitations as the Board may impose, any share of any class of voting common stock issued under this section shall be transferable among the institutions or entities to which shares of such class of common stock may be offered under paragraph (1), except that, as to the Corporation, such shares shall be transferable only on the books of the Corporation.
 
 #### (5) Maximum number of shares
 

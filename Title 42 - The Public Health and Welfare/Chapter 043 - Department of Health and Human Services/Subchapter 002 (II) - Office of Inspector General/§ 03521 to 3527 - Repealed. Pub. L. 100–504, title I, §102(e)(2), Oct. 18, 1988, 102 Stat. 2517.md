@@ -6,7 +6,7 @@ Section 3522, Pub. L. 94–505, title II, §202, Oct. 15, 1976, 90 Stat. 2430; P
 
 Section 3523, Pub. L. 94–505, title II, §203, Oct. 15, 1976, 90 Stat. 2430; Pub. L. 96–226, title II, §201, Apr. 3, 1980, 94 Stat. 315, prescribed duties and responsibilities of Inspector General.
 
-Section 3524, Pub. L. 94–505, title II, §204, Oct. 15, 1976, 90 Stat. 2431; Pub. L. 95–142, §4(c), Oct. 25, 1977, 91 Stat.1183; Pub. L. 97–375, title II, §206(c), Dec. 21, 1982, 96 Stat. 1824, required preparation and submission of reports.
+Section 3524, Pub. L. 94–505, title II, §204, Oct. 15, 1976, 90 Stat. 2431; Pub. L. 95–142, §4(c), Oct. 25, 1977, 91 Stat. 1183; Pub. L. 97–375, title II, §206(c), Dec. 21, 1982, 96 Stat. 1824, required preparation and submission of reports.
 
 Section 3525, Pub. L. 94–505, title II, §205, Oct. 15, 1976, 90 Stat. 2432, related to administrative provisions.
 

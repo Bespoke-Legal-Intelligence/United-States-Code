@@ -8,7 +8,7 @@ After the Secretary acquires fee title to at least 10,000 acres of land on Grand
 
 The comprehensive management plan shall include, but not be limited to, the following issues:
 
-&emsp;(1) Public recreation, including consideration of a range of appropriate recreationalopportunities consistent with the rustic, natural, and historic character of the island, including, but not limited to, a system of trails and campsites in conjunction with the lodge referred to in paragraph (2) of this section.<sup>1</sup>
+&emsp;(1) Public recreation, including consideration of a range of appropriate recreational opportunities consistent with the rustic, natural, and historic character of the island, including, but not limited to, a system of trails and campsites in conjunction with the lodge referred to in paragraph (2) of this section.<sup>1</sup>
 
 &emsp;(2) The feasibility of a concessionaire constructed, operated, and maintained rustic lodge and educational facility on no more than 55 acres located so as not to impair or alter existing scenic views or the existing tree line and forested appearance of Grand Island from any point within the boundaries of Pictured Rocks National Lakeshore. The plan shall address the economics of constructing, operating, and maintaining such a facility by a concessionaire or other entity; access by roads and waters; utilities; waste water treatment, garbage disposal, and other associated environmental impacts; management operations including construction, operation and maintenance; and the potential for permitted uses by government agencies, profit and nonprofit organizations, or individuals.
 

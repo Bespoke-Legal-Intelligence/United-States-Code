@@ -56,7 +56,7 @@ Section 28 of Pub. L. 95–384 provided that:
 
 &emsp;“(4) the establishment of secure, recognized, and defensible borders between Israel and its neighbors will discourage hostilities; and
 
-&emsp;“(5) full, normalized relations between Israel and its Arab neighbors, including trade, travel, tourism, communications, and diplomatic relations are vital for peace.
+&emsp;“(5) full, normalized relations between Israel and its Arab neighbors, including trade, travel, tourism,communications, and diplomatic relations are vital for peace.
 
 “(b) It is the sense of the Congress that the Government of the United States should continue to promote direct negotiations between Israel and Egypt and to encourage other Arab countries to enter into negotiations leading to peace treaties with Israel.
 

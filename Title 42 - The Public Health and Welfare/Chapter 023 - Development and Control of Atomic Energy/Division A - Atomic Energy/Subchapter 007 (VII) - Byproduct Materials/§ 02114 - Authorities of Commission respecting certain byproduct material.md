@@ -24,7 +24,7 @@ In carrying out its authority under this section, the Commission is authorized t
 
 In the case of sites at which ores are processed primarily for their source material content or which are used for the disposal of byproduct material as defined in section 2014(e)(2) of this title, a licensee may propose alternatives to specific requirements adopted and enforced by the Commission under this chapter. Such alternative proposals may take into account local or regional conditions, including geology, topography, hydrology and meteorology. The Commission may treat such alternatives as satisfying Commission requirements if the Commission determines that such alternatives will achieve a level of stabilization and containment of the sites concerned, and a level of protection for public health, safety, and the environment from radiological and nonradiological hazards associated with such sites, which is equivalent to, to the extent practicable, or more stringent than the level which would be achieved by standards and requirements adopted and enforced by the Commission for the same purpose and any final standards promulgated by the Administrator of the Environmental Protection Agency in accordance with section 2022 of this title.
 
-(Aug. 1, 1946, ch. 724, title I, §84, as added Nov. 8, 1978, Pub. L. 95–604, title II, §205(a), 92 Stat. 3039; amended Jan. 4, 1983, Pub. L. 97–415, §§20, 22(a), 96 Stat. 2079, 2080; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §84, as added Pub. L. 95–604, title II, §205(a), Nov. 8, 1978, 92 Stat. 3039; amended Pub. L. 97–415, §§20, 22(a), Jan. 4, 1983, 96 Stat. 2079, 2080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is titl
 
 #### Amendments
 
-1983—Subsec. (a)(1). Pub. L. 97–415, §22(a), inserted provision that the Commission is to take into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
+1983—Subsec. (a)(1). Pub. L. 97–415, §22(a), inserted provision that the Commission is to take into accountthe risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate.
 
 Subsec. (c). Pub. L. 97–415, §20, added subsec. (c).
 

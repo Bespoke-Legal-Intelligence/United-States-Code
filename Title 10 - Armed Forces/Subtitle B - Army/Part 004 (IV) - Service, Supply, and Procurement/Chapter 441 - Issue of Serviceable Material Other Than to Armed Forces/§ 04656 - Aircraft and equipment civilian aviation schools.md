@@ -2,7 +2,7 @@
 
 The Secretary of the Army, under regulations to be prescribed by him, may lend aircraft, aircraft parts, and aeronautical equipment and accessories that are required for instruction, training, and maintenance, to accredited civilian aviation schools at which personnel of the Department of the Army or the Department of the Air Force are pursuing a course of instruction and training under detail by competent orders.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 261; Oct. 12, 1982, Pub. L. 97–295, §1(42), 96 Stat. 1298.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 261; Pub. L. 97–295, §1(42), Oct. 12, 1982, 96 Stat. 1298.)
 
 Historical and Revision Notes
 
@@ -22,5 +22,5 @@ The words “in his discretion and”, “rules”, “limitations”, and “on
 
 #### Amendments
 
-1982—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots” after “competent orders”.
+1982—Pub. L. 97–295 struck out “, and at least one of which is designated by the Civil Aeronautics Authorityfor the training of Negro air pilots” after “competent orders”.
 

@@ -68,5 +68,5 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3502, 6303 of this title; title 10 sections 1586, 1599c, 1610; title 22 sections 1438, 4010a.
+This section is referred to in sections 2302, 3502, 6303 of this title; title 10 sections 1586, 1610; title 22 sections 1438, 4010a.
 

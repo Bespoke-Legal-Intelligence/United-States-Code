@@ -12,7 +12,7 @@
 
 (b) Contracts under this chapter providing for the obligation of funds may be entered into for a period of five years, renewable for an additional five-year period; however, such contracts may obligate funds only to the extent that such funds are made available in appropriation Acts.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Oct. 11, 1962, Pub. L. 87–796, §1(8), 76 Stat. 905; Apr. 5, 1976, Pub. L. 94–258, title II, §201(13), 90 Stat. 312; Dec. 12, 1979, Pub. L. 96–137, §3(b)(1), 93 Stat. 1061; Dec. 12, 1980, Pub. L. 96–513, title V, §513(35), 94 Stat. 2934.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Pub. L. 87–796, §1(8), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(13), Apr. 5, 1976, 90 Stat. 312; Pub. L. 96–137, §3(b)(1), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, §513(35), Dec. 12, 1980, 94 Stat. 2934.)
 
 Historical and Revision Notes
 

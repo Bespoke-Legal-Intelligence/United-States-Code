@@ -18,7 +18,7 @@ The service projects carried out by the Civilian Community Corps shall—
 
 #### (A) Specific executive departments
 
-&emsp;&emsp;Upon the establishment of the Program, the Secretary of Agriculture, the Secretaryof the Interior, and the Secretary of Housing and Urban Development shall develop proposals for Corps projects pursuant to guidance which the Director shall prescribe.
+&emsp;&emsp;Upon the establishment of the Program, the Secretary of Agriculture, the Secretary of the Interior, and the Secretary of Housing and Urban Development shall develop proposals for Corps projects pursuant to guidance which the Director shall prescribe.
 
 #### (B) Other sources
 

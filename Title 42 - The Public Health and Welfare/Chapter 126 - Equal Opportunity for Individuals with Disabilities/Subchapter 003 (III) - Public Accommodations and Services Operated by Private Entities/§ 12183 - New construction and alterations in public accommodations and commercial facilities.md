@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, as applied to public accom
 
 #### (b) Elevator
 
-Subsection (a) of this section shall not be construed to require the installation of an elevator for facilities that are less than three stories orhave less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.
+Subsection (a) of this section shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.
 
 (Pub. L. 101–336, title III, §303, July 26, 1990, 104 Stat. 358.)
 

@@ -14,13 +14,25 @@
 
 &emsp;(1) such training is generally accepted as necessary for the attainment of a recognized vocational objective in the field of aviation;
 
-&emsp;(2) the individual possesses a valid private pilot's license and meets the medical requirements necessary for a commercial pilot's license; and
+&emsp;(2) the individual possesses a valid private pilot certificate and meets, on the day the individual begins a course of flight training, the medical requirements necessary for a commercial pilot certificate; and
 
-&emsp;(3) the flight school courses meet Federal Aviation Administration standards for suchcourses and are approved by the Federal Aviation Administration and the State approving agency.
+&emsp;(3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670.)
+(e)(1) In the case of a member of the Armed Forces who participates in basic educational assistance under this chapter, the Secretary shall furnish the information described in paragraph (2) to each such member. The Secretary shall furnish such information as soon as practicable after the basic pay of the member has been reduced by $1,200 in accordance with section 3011(b) or 3012(c) of this title and at such additional times as the Secretary determines appropriate.
+
+(2) The information referred to in paragraph (1) is information with respect to the benefits, limitations, procedures, eligibility requirements (including time-in-service requirements), and other important aspects of the basic educational assistance program under this chapter, including application forms for such basic educational assistance under section 5102 of this title.
+
+(3) The Secretary shall furnish the forms described in paragraph (2) and other educational materials to educational institutions, training establishments, and military education personnel, as the Secretary determines appropriate.
+
+(4) The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
+
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1434; amended Pub. L. 99–576, title III, §§301(c), 302, 305, 308(a), Oct. 28, 1986, 100 Stat. 3268–3270; Pub. L. 100–689, title I, §§106(a), 111(a)(7)(B), Nov. 18, 1988, 102 Stat. 4166, 4172; Pub. L. 101–237, title IV, §§415(b), 422(a)(1), 423(a)(5)(A), (6), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2086, 2088, 2091, 2092; Pub. L. 102–16, §2(b)(2), Mar. 22, 1991, 105 Stat. 49; renumbered §3034 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(4), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §§204(a), 206(a), Nov. 11, 1998, 112 Stat. 3327.)
 
 #### Amendments
+
+1998—Subsec. (d)(2). Pub. L. 105–368, §204(a), substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
+
+Subsec. (e). Pub. L. 105–368, §206(a), added subsec. (e).
 
 1994—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
@@ -73,6 +85,12 @@ Subsec. (b). Pub. L. 99–576, §305, amended subsec. (b) generally. Prior to am
 &emsp;“(2) from the educational institution a certification, or an endorsement of the individual's certificate, that such individual was enrolled in and pursuing a program of education during such period.”
 
 Subsecs. (c), (d). Pub. L. 99–576, §302, added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 204(a) of Pub. L. 105–368 applicable with respect to courses of flight training beginning on or after Oct. 1, 1998, see section 204(c) of Pub. L. 105–368, set out as a note under section 16136 of Title 10, Armed Forces.
+
+Pub. L. 105–368, title II, §206(b), Nov. 11, 1998, 112 Stat. 3328, provided that: “The amendment made by this section \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

@@ -4,29 +4,33 @@ As used in this subchapter—
 
 &emsp;(1) The term “Administration” means the National Oceanic and Atmospheric Administration.
 
-&emsp;(2) The term “Director” means the Director of the national sea grant college program, appointed pursuant to section 1123(b) of this title.
+&emsp;(2) The term “Director” means the Director of the national sea grant college program, appointed pursuant to section 1123(b) <sup>1</sup> of this title.
 
-&emsp;(3) the <sup>1</sup> term “director of a sea grant college” means a person designated by their university or institution to direct a sea grant college, programs, or regional consortium.
+&emsp;(3) the <sup>2</sup> term “director of a sea grant college” means a person designated by his or her institution to direct a sea grant college or sea grant institute.
 
-&emsp;(4) The term “field related to ocean, coastal, and Great Lakes resources” means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marine technology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.
+&emsp;(4) The term “field related to ocean, coastal, and Great Lakes resources” means any discipline or field, including marine affairs, resource management, technology, education, or science, which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, or Great Lakes resources.
 
-&emsp;(5) The term “includes” and variants thereof should be read as if the phrase “but is not limited to” were also set forth.
+&emsp;(5) The term “institution” means any public or private institution of higher education, institute, laboratory, or State or local agency.
 
-&emsp;(6) The term “ocean, coastal, and Great Lakes resources” means the resources that are located in, derived from, or traceable to, the seabed, subsoil, and waters of—
+&emsp;(6) The term “includes” and variants thereof should be read as if the phrase “but is not limited to” were also set forth.
+
+&emsp;(7) The term “ocean, coastal, and Great Lakes resources” means the resources that are located in, derived from, or traceable to, the seabed, subsoil, and waters of—
 
 &emsp;&emsp;(A) the coastal zone, as defined in section 1453(1) of title 16;
 
 &emsp;&emsp;(B) the Great Lakes;
 
-&emsp;&emsp;(C) the territorial sea;
+&emsp;&emsp;(C) Lake Champlain (to the extent that such resources have hydrological, biological, physical, or geological characteristics and problems similar or related to those of the Great Lakes);
 
-&emsp;&emsp;(D) the exclusive economic zone;
+&emsp;&emsp;(D) the territorial sea;
 
-&emsp;&emsp;(E) the Outer Continental Shelf; and
+&emsp;&emsp;(E) the exclusive economic zone;
 
-&emsp;&emsp;(F) the high seas.
+&emsp;&emsp;(F) the Outer Continental Shelf; and
 
-&emsp;(7) The term “resource” means—
+&emsp;&emsp;(G) the high seas.
+
+&emsp;(8) The term “resource” means—
 
 &emsp;&emsp;(A) living resources (including natural and cultured plant life, fish, shellfish, marine mammals, and wildlife);
 
@@ -36,39 +40,27 @@ As used in this subchapter—
 
 &emsp;&emsp;(D) man-made, tangible, intangible, actual, or potential resources.
 
-&emsp;(8) The term “panel” means the sea grant review panel established under section 1128 of this title.
+&emsp;(9) The term “panel” means the sea grant review panel established under section 1128 of this title.
 
-&emsp;(9) The term “person” means any individual; any public or private corporation, partnership, or other association or entity (including any sea grant college, sea grant regional consortium, institution of higher education, institute, or laboratory); or any State, political subdivision of a State, or agency or officer thereof.
+&emsp;(10) The term “person” means any individual; any public or private corporation, partnership, or other association or entity (including any sea grant college, sea grant institute or other institution); or any State, political subdivision of a State, or agency or officer thereof.
 
-&emsp;(10) The term “sea grant college” means any public or private institution of higher education which is designated as such by the Secretary under section 1126 of this title.
+&emsp;(11) The term “project” means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or advisory services administered by a person with expertise in such a field.
 
-&emsp;(11) The term “sea grant program” means any program which—
+&emsp;(12) The term “sea grant college” means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
-&emsp;&emsp;(A) is administered by any sea grant college, sea grant regional consortium, institution of higher education, institute, laboratory, or State or local agency; and
+&emsp;(13) The term “sea grant institute” means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
-&emsp;&emsp;(B) includes two or more projects involving one or more of the following activities in fields related to ocean, coastal, and Great Lakes resources:
+&emsp;(14) The term “sea grant program” means a program of research and outreach which is administered by one or more sea grant colleges or sea grant institutes.
 
-&emsp;&emsp;&emsp;(i) research,
+&emsp;(15) The term “Secretary” means the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere.
 
-&emsp;&emsp;&emsp;(ii) education,
+&emsp;(16) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
 
-&emsp;&emsp;&emsp;(iii) training, or
+(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L. 95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title II, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, §4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, §10003, May 1, 1998, 112 Stat. 99.)
 
-&emsp;&emsp;&emsp;(iv) advisory services.
+#### Amendment of Section
 
-&emsp;(12) The term “sea grant regional consortium” means any association or other alliance which is designated as such by the Secretary under section 1126 of this title.
-
-&emsp;(13) The term “Secretary” means the Secretary of Commerce.
-
-&emsp;(14) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
-
-&emsp;(15) The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
-
-(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L.95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title II, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66.)
-
-#### Amendment of Paragraph (6)
-
-<i>Pub. L. 102–251, title III, §§307(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (6) of this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§307(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the</i><i>United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (6) of this section is amended:</i>
 
 <i>(1) by striking “and” at the end of subparagraph (E);</i>
 
@@ -78,7 +70,41 @@ As used in this subchapter—
 
 (F) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured; and
 
+#### References in Text
+
+Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
+
 #### Amendments
+
+1998—Par. (3). Pub. L. 105–160, §4(a)(1), substituted “his or her” for “their university or” and “college or sea grant institute” for “college, programs, or regional consortium”.
+
+Par. (4). Pub. L. 105–160, §4(a)(2), added par. (4) and struck out former par. (4) which read as follows: “The term ‘field related to ocean, coastal, and Great Lakes resources’ means any discipline or field (including marine science (and the physical, natural, and biological sciences, and engineering, included therein), marine technology, education, marine affairs and resource management, economics, sociology, communications, planning, law, international affairs, and public administration) which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources.”
+
+Par. (5). Pub. L. 105–174, §10003(1), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “The term ‘Great Lakes’ includes Lake Champlain.”
+
+Pub. L. 105–160, §4(a)(3), added par. (5). Former par. (5) redesignated (7).
+
+Par. (6). Pub. L. 105–174, §10003(1), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Pub. L. 105–160, §4(a)(3), added par. (6). Former par. (6) redesignated (8).
+
+Par. (7). Pub. L. 105–174, §10003, redesignated par. (8) as (7), added subpar. (C), and redesignated former subpars. (C) to (F) as (D) to (G), respectively. Former par. (7) redesignated (6).
+
+Pub. L. 105–160, §4(a)(3), redesignated par. (5) as (7). Former par. (7) redesignated (9).
+
+Pars. (8) to (10). Pub. L. 105–174, §10003(1), redesignated pars. (9) to (11) as (8) to (10), respectively. Former par. (8) redesignated (7).
+
+Pub. L. 105–160, §4(a)(3), redesignated pars. (6) to (8) as (8) to (10), respectively. Former pars. (9) and (10) redesignated (11) and (12), respectively.
+
+Par. (11). Pub. L. 105–174, §10003(1), redesignated par. (12) as (11). Former par. (11) redesignated (10).
+
+Pub. L. 105–160, §4(a)(3), (4), redesignated par. (9) as (11) and substituted “institute or other institution” for “regional consortium, institution of higher education, institute, or laboratory”. Former par. (11) redesignated (13).
+
+Pars. (12) to (17). Pub. L. 105–174, §10003(1), redesignated pars. (13) to (17) as (12) to (16), respectively. Former par. (12) redesignated (11).
+
+Pub. L. 105–160, §4(a)(5), added pars. (12) to (17) and struck out former pars. (12) to (17) which defined “sea grant college”, “sea grant program”, “sea grant regional consortium”, “Secretary”, “State”, and “Under Secretary”, respectively.
+
+Pub. L. 105–160, §4(a)(3), redesignated pars. (10) to (15) as (12) to (17), respectively.
 
 1991—Par. (4). Pub. L. 102–186 inserted “marine affairs and resource management,” after “education,”.
 
@@ -116,9 +142,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between the 
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-This section is referred to in section 1124a of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

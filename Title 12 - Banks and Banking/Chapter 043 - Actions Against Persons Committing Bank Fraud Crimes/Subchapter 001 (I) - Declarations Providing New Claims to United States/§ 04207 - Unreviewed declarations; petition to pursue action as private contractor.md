@@ -16,7 +16,7 @@ In response to a notification under subsection (a)(1) of this section, the Attor
 
 #### (c) Grant of contract
 
-If the Attorney General decides to grant a contract, the declarant, after consultation with theAttorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant's counsel shall act in accordance with subchapter III of this chapter.
+If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant's counsel shall act in accordance with subchapter III of this chapter.
 
 (Pub. L. 101–647, title XXV, §2567, Nov. 29, 1990, 104 Stat. 4898.)
 

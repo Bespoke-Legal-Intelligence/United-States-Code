@@ -2,7 +2,7 @@
 
 No merchandise, baggage, or passengers arriving in the United States from any foreign port or place, and no bonded merchandise or baggage being transported from one port to another, shall be unladen from the carrying aircraft, vessel or vehicle on Sunday, a holiday, or during overtime hours, except under special license granted by the appropriate customs officer under such regulations as the Secretary of the Treasury may prescribe.
 
-(June 17, 1930, ch. 497, title IV, §450, 46 Stat. 715; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13811(b)(2), 107 Stat. 670.)
+(June 17, 1930, ch. 497, title IV, §450, 46 Stat. 715; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–66, title XIII, §13811(b)(2), Aug. 10, 1993, 107 Stat. 670.)
 
 #### Prior Provisions
 

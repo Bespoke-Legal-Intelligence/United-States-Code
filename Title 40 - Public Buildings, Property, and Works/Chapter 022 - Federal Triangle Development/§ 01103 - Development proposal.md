@@ -18,7 +18,7 @@ The Corporation shall prepare a written proposal for development of the Federal 
 
 &emsp;(7) Design criteria for the building.
 
-&emsp;(8) An estimate of the cost of construction of the building and of the annual cost to the United States of leasing the building under section 1105 of this title.
+&emsp;(8) An estimate of the cost of construction of the building and of the annual cost to theUnited States of leasing the building under section 1105 of this title.
 
 &emsp;(9) Environmental impact documentation for development of the Federal Triangle property under Federal laws and regulations.
 
@@ -64,7 +64,7 @@ In preparing the development proposal under subsection (a) of this section, the 
 
 #### (1) Submission for review
 
-&emsp;As soon as practicable but not later than 365 days after August 21, 1987, the Corporationshall submit the development proposal prepared under subsection (a) of this section to the General Services Administration, the Commission, the National Capital Planning Commission, and the Commission of Fine Arts.
+&emsp;As soon as practicable but not later than 365 days after August 21, 1987, the Corporation shall submit the development proposal prepared under subsection (a) of this section to the General Services Administration, the Commission, the National Capital Planning Commission, and the Commission of Fine Arts.
 
 #### (2) Approval or recommended modifications
 

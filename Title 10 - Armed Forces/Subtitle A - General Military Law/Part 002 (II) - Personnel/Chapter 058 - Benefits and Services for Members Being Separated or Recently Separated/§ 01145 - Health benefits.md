@@ -2,7 +2,7 @@
 
 (a)
 
-Transitional Health Care.—(1) For the applicable time period described in paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the nine-year period beginning on October 1, 1990 (and the dependents of the member), shall be entitled to receive—
+Transitional Health Care.—(1) For the applicable time period described in paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on September 30, 2001 (and the dependents of the member), shall be entitled to receive—
 
 &emsp;(A) medical and dental care under section 1076 of this title in the same manner as a dependent described in subsection (a)(2) of such section; and
 
@@ -38,7 +38,7 @@ Conversion Health Policies.—(1) The Secretary of Defense shall inform each mem
 
 (c)
 
-Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces during the nine-year period beginning on October 1, 1990, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
+Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces during the period beginning on October 1, 1990, and ending on September 30, 2001, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
 
 (2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
@@ -48,11 +48,15 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 (e)
 
-Coast Guard.—The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the five-year period beginning on October 1, 1994. The Secretary of Transportation shall implement this section for the Coast Guard.
+Coast Guard.—The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on September 30, 2001. The Secretary of Transportation shall implement this section for the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026.)
 
 #### Amendments
+
+1998—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, §561(h)(1), substituted “during the period beginning on October 1,1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+
+Subsec. (e). Pub. L. 105–261, §561(h)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 
 1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 

@@ -54,7 +54,7 @@ In determining whether to enter into an agreement under this section, the Presid
 
 &emsp;(B) Commodity Credit Corporation stocks are insufficient to satisfy commitments made in agreements entered into under this section and such commodities are needed to fulfill such commitments.
 
-(3) No funds of the Commodity Credit Corporation in excess of $30,000,000 (exclusive of the cost of commodities) may be used for each of fiscal years 1996 through 2002 to carry out this section with respect to commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
+(3) No funds of the Commodity Credit Corporation in excess of $30,000,000 (or, in the case of fiscal year 1999, $35,000,000) (exclusive of the cost of commodities) may be used for each of fiscal years 1996 through 2002 to carry out this section with respect to commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
 
 (4) The cost of commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such commodities, shall be in addition to the level of assistance programmed under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] and may not be considered expenditures for international affairs and finance.
 
@@ -80,7 +80,7 @@ This section shall be effective during the period beginning October 1, 1985, and
 
 #### (<i>l</i>) Additional assistance in administration of food assistance programs
 
-(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2002, use in addition to any amounts or commodities otherwise made available under this section for such activities, not to exceed $10,000,000 of Commodity Credit Corporation funds (or commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
+(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2002, use in addition to any amounts or commodities otherwise made available under this section for such activities, not to exceed $10,000,000 (or, in the case of fiscal year 1999, $12,000,000) of Commodity Credit Corporation funds (or commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
 
 (2) To carry out this subsection, the President may provide agricultural commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such commodities.
 
@@ -94,11 +94,15 @@ In carrying out this section, the President shall approve, as determined appropr
 
 &emsp;(2) the use of the proceeds generated in the humanitarian and development programs of such agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives.
 
-#### (n) “Independent states of the former Soviet Union” defined
+#### (n) Private Voluntary Organizations to carry out section
+
+During fiscal year 1999, to the maximum extent practicable, the Secretary shall utilize Private Voluntary Organizations to carry out this section.
+
+#### (<i>o</i>) “Independent states of the former Soviet Union” defined
 
 As used in this section, the term “independent states of the former Soviet Union” means the independent states of the former Soviet Union as defined in section 5602(8) of this title.
 
-(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974.)
+(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, title I, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45.)
 
 #### References in Text
 
@@ -109,6 +113,12 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in su
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Trade Development and Assistance Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (f)(3). Pub. L. 105–277, §101(a) \[title XI, §1125(1)\], inserted “(or, in the case of fiscal year 1999, $35,000,000)” after “$30,000,000”.
+
+Subsec. (<i>l</i>)(1). Pub. L. 105–277, §101(a) \[title XI, §1125(2)\], inserted “(or, in the case of fiscal year 1999, $12,000,000)” after “$10,000,000”.
+
+Subsecs. (n), (<i>o</i>). Pub. L. 105–277, §101(a) \[title XI, §1125(3), (4)\], added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
 1996—Subsec. (b). Pub. L. 104–127, §227(1), struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
 
@@ -128,7 +138,7 @@ Subsec. (k). Pub. L. 104–127, §227(6), substituted “2002” for “1995”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
 
-Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
+Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section”and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
 1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 

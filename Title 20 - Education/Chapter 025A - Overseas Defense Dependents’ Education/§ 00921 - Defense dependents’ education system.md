@@ -20,7 +20,7 @@ The Secretary of Defense shall establish and operate a program (hereinafter in t
 
 &emsp;(E) individuals of limited English-speaking ability.
 
-(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) of this section who are of preschool age if a preschool program is not otherwise available for such individuals and if funds for such a program are available.
+(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) of this section who are of preschool age if a preschool program is not otherwiseavailable for such individuals and if funds for such a program are available.
 
 #### (c) Consultation requirements
 

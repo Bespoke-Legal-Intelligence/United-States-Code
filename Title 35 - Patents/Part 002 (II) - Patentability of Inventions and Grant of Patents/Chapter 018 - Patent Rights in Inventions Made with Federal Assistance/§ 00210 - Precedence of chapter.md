@@ -22,29 +22,27 @@
 
 &emsp;(10) section 32 of the Arms Control and Disarmament Act of 1961 (22 U.S.C. 2572; 75 Stat. 634);
 
-&emsp;(11) subsection (e) of section 302 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 302(e); 79 Stat. 5);
+&emsp;(11) section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901; <sup>2</sup> 88 Stat. 1878);
 
-&emsp;(12) section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901; <sup>2</sup> 88 Stat. 1878);
+&emsp;(12) section 5(d) of the Consumer Product Safety Act (15 U.S.C. 2054(d); 86 Stat. 1211);
 
-&emsp;(13) section 5(d) of the Consumer Product Safety Act (15 U.S.C. 2054(d); 86 Stat. 1211);
+&emsp;(13) section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191); <sup>1</sup>
 
-&emsp;(14) section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191); <sup>1</sup>
+&emsp;(14) section 8001(c)(3) of the Solid Waste Disposal Act (42 U.S.C. 6981(c); 90 Stat. 2829);
 
-&emsp;(15) section 8001(c)(3) of the Solid Waste Disposal Act (42 U.S.C. 6981(c); 90 Stat. 2829);
+&emsp;(15) section 219 of the Foreign Assistance Act of 1961 (22 U.S.C. 2179; 83 Stat. 806);
 
-&emsp;(16) section 219 of the Foreign Assistance Act of 1961 (22 U.S.C. 2179; 83 Stat. 806);
+&emsp;(16) section 427(b) of the Federal Mine Health and Safety Act of 1977 (30 U.S.C. 937(b); 86 Stat. 155);
 
-&emsp;(17) section 427(b) of the Federal Mine Health and Safety Act of 1977 (30 U.S.C. 937(b); 86 Stat. 155);
+&emsp;(17) section 306(d) of the Surface Mining and Reclamation Act of 1977 (30 U.S.C. 1226(d); 91 Stat. 455); <sup>1</sup>
 
-&emsp;(18) section 306(d) of the Surface Mining and Reclamation Act of 1977 (30 U.S.C. 1226(d); 91 Stat. 455); <sup>1</sup>
+&emsp;(18) section 21(d) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2218(d); 88 Stat. 1548);
 
-&emsp;(19) section 21(d) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2218(d); 88 Stat. 1548);
+&emsp;(19) section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516);
 
-&emsp;(20) section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516);
+&emsp;(20) section 12 of the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178(j); <sup>3</sup> 92 Stat. 2533); and
 
-&emsp;(21) section 12 of the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178(j); <sup>3</sup> 92 Stat. 2533); and
-
-&emsp;(22) section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360).
+&emsp;(21) section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360).
 
 > The Act creating this chapter shall be construed to take precedence over any future Act unless that Act specifically cites this Act and provides that it shall take precedence over this Act.
 
@@ -56,25 +54,27 @@
 
 (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625.)
 
 #### References in Text
 
-The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186, 2457, and 5908 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 14 and 41 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 41 of this title and Tables.
+The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186, 2457, and 5908 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 14 and 41 of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); 82 Stat. 360), referred to in subsec. (a)(5), was amended by Pub. L. 99–159, title I, §109(c), Nov. 22, 1985, 99 Stat. 889, by striking out subsec. (b) and designating subsec. (a) as the entire section.
 
-Section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191), referred to in subsec. (a)(14), was omitted from the Code.
+Section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191), referred to in subsec. (a)(13), was omitted from the Code.
 
-Section 306(d) of the Surface Mining and Reclamation Act, referred to in subsec. (a)(18), was classified to section 1226(d) of Title 30, Mineral Lands and Mining, prior to enactment of Pub. L. 98–409, which enacted a new section 1226 of Title 30. See section 1226(c) of Title 30.
+Section 306(d) of the Surface Mining and Reclamation Act, referred to in subsec. (a)(17), was classified to section 1226(d) of Title 30, Mineral Lands and Mining, prior to enactment of Pub. L. 98–409, which enacted a new section 1226 of Title 30. See section 1226(c) of Title 30.
 
-The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(21), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, as amended, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§178 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 178 of this title and Tables.
+The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, as amended, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 178 of Title 7 and Tables.
 
-Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(22), was repealed by Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101. See section 10308 of Title 42, The Public Health and Welfare.
+Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(21), was repealed by Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101. See section 10308 of Title 42, The Public Health and Welfare.
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(11) to (22). Pub. L. 105–393 redesignated pars. (12) to (22) as (11) to (21), respectively, and struck out former par. (11) which read as follows: “subsection (e) of section 302 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 302(e); 79 Stat. 5);”.
 
 1996—Subsec. (e). Pub. L. 104–113 struck out “, as amended by the Federal Technology Transfer Act of 1986,” after “1980”.
 

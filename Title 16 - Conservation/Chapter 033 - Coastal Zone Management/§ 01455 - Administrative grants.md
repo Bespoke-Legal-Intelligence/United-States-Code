@@ -6,7 +6,7 @@ The Secretary may make grants to any coastal state for the purpose of administer
 
 &emsp;(1) For those States for which programs were approved prior to November 5, 1990, 1 to 1 for any fiscal year.
 
-&emsp;(2) For programs approved after November 5, 1990, 4 to 1 for the first fiscal year, 2.3 to 1 forthe second fiscal year, 1.5 to 1 for the third fiscal year, and 1 to 1 for each fiscal year thereafter.
+&emsp;(2) For programs approved after November 5, 1990, 4 to 1 for the first fiscal year, 2.3 to 1 for the second fiscal year, 1.5 to 1 for the third fiscal year, and 1 to 1 for each fiscal year thereafter.
 
 #### (b) Grants to coastal states; requirements
 
@@ -128,7 +128,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is
 
 1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions which authorized grants for administering a state management program, provided for a ratio of Federal to State contributions, allocation of grants, program requirements, required authority for management of coastal zone, required findings prior to approval of grants, allocation to other political subdivisions, program modification, segmental development, and inventory and designation of areas of national significance and standards for protection of coastal resources.
 
-1986—Subsec. (a). Pub. L. 99–272, §6043(b)(1), amended introductory text generally, which prior to amendment read as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state's management program if the Secretary—”.
+1986—Subsec. (a). Pub. L. 99–272, §6043(b)(1), amended introductory text generally, which prior to amendmentread as follows: “The Secretary may make grants to any coastal state for not more than 80 per centum of the costs of administering such state's management program if the Secretary—”.
 
 Subsec. (g). Pub. L. 99–272, §6043(c), inserted “, and subject to the following conditions:” in provisions preceding par. (1), added pars. (1) to (3), and struck out provision that except with respect to any management program amendment which was made before Oct. 1, 1978, for the purpose of complying with the requirements of section 1454(b)(7), (8) and (9) of this title, no grant was to be made under this section to any coastal state after the date of such amendment or modification, until the Secretary approved such amendment or modification.
 

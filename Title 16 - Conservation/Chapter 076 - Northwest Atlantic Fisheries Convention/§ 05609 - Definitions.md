@@ -46,7 +46,7 @@ In this chapter the following definitions apply:
 
 &emsp;The term “Secretary” means the Secretary of Commerce.
 
-(Pub. L. 104–43, title II, §210, Nov. 3, 1995, 109 Stat. 381; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 104–43, title II, §210, Nov. 3, 1995, 109 Stat. 381; Pub. L. 105–384, title II, §201(b)(3), Nov. 13, 1998, 112 Stat. 3451.)
 
 #### References in Text
 
@@ -54,11 +54,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 
 #### Amendments
 
-1996—Par. (6). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
-
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+1998—Par. (6). Pub. L. 105–384 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Articles”.</i>
 

@@ -8,7 +8,7 @@ It shall be unlawful for any person who is related to a business development com
 
 &emsp;(2) knowingly to purchase from such business development company or from any company controlled by such business development company, any security or other property (except securities of which the seller is the issuer);
 
-&emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by such business development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) or section 80a–61 of this title; or
+&emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by suchbusiness development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) or section 80a–61 of this title; or
 
 &emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such person, except that nothing contained in this paragraph shall be deemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
 
@@ -56,7 +56,7 @@ The provisions of subsection (d) of this section shall apply to the following pe
 
 Notwithstanding subsection (d) of this section, a person described in subsection (e) of this section may engage in a proposed transaction described in subsection (d) of this section if such proposed transaction is approved by the required majority (as defined in subsection (<i>o</i>) of this section) of the directors of or general partners in the business development company on the basis that—
 
-&emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of thebusiness development company and do not involve overreaching of such company or its shareholders or partners on the part of any person concerned;
+&emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or its shareholders or partners on the part of any person concerned;
 
 &emsp;(2) the proposed transaction is consistent with the interests of the shareholders or partners of the business development company and is consistent with the policy of such company as recited in filings made by such company with the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], its registration statement and reports filed under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and its reports to shareholders or partners; and
 
@@ -108,7 +108,7 @@ It shall be unlawful for any person described in subsection (<i>l</i>) of this s
 
 &emsp;&emsp;(C) 1 per centum of the purchase or sale price of such securities if the sale is otherwise effected,
 
-> unless the Commission, by rules and regulations or order in the public interest and consistentwith the protection of investors, permits a larger commission.
+> unless the Commission, by rules and regulations or order in the public interest and consistent with the protection of investors, permits a larger commission.
 
 #### (<i>l</i>) Persons subject to brokerage commission restrictions
 
@@ -142,7 +142,7 @@ For purposes of subsections (a) and (d) of this section, a person who is a direc
 
 The term “required majority”, when used with respect to the approval of a proposed transaction, plan, or arrangement, means both a majority of a business development company's directors or general partners who have no financial interest in such transaction, plan, or arrangement and a majority of such directors or general partners who are not interested persons of such company.
 
-(Aug. 22, 1940, ch. 686, title I, §57, as added Oct. 21, 1980, Pub. L. 96–477, title I, §105, 94 Stat. 2280; amended Dec. 4, 1987, Pub. L. 100–181, title VI, §627, 101 Stat. 1263.)
+(Aug. 22, 1940, ch. 686, title I, §57, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2280; amended Pub. L. 100–181, title VI, §627, Dec. 4, 1987, 101 Stat. 1263.)
 
 #### References in Text
 

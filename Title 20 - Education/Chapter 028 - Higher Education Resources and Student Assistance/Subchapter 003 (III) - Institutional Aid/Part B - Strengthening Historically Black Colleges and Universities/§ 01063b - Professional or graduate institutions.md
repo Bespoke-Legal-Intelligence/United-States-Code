@@ -2,9 +2,9 @@
 
 #### (a) General authorization
 
-(1) Subject to the availability of funds appropriated to carry out this section, the Secretary shall award program grants to each of the postgraduate institutions listed in subsection (e) of this section that is determined by the Secretary to be making a substantial contribution to the legal, medical, dental, veterinary, or other graduate education opportunities for Black Americans.
+(1) Subject to the availability of funds appropriated to carry out this section, the Secretary shall award program grants to each of the postgraduate institutions listed in subsection (e) of this section that is determined by the Secretary to be making a substantial contribution to the legal, medical, dental, veterinary, or other graduate education opportunities in mathematics, engineering, or the physical or natural sciences for Black Americans.
 
-(2) No grant in excess of $500,000 may be made under this section unless the postgraduate institution provides assurances that 50 percent of the cost of the purposes for which the grant is made will be paid from non-Federal sources except that the Morehouse School of Medicine shall receive at least $3,000,000.
+(2) No grant in excess of $1,000,000 may be made under this section unless the postgraduate institution provides assurances that 50 percent of the cost of the purposes for which the grant is made will be paid from non-Federal sources, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.
 
 #### (b) Duration
 
@@ -14,11 +14,19 @@ Grants shall be made for a period not to exceed 5 years.
 
 A grant under this section may be used for—
 
-&emsp;(1) any of the purposes enumerated under section 1062 of this title;
+&emsp;(1) purchase, rental or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes;
 
-&emsp;(2) to establish or improve a development office to strengthen and increase contributions from alumni and the private sector; and
+&emsp;(2) construction, maintenance, renovation, and improvement in classroom, library, laboratory, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services;
 
-&emsp;(3) to assist in the establishment or maintenance of an institutional endowment to facilitate financial independence pursuant to section 1065 of this title.
+&emsp;(3) purchase of library books, periodicals, technical and other scientific journals, microfilm, microfiche, and other educational materials, including telecommunications program materials;
+
+&emsp;(4) scholarships, fellowships, and other financial assistance for needy graduate and professional students to permit the enrollment of the students in and completion of the doctoral degree in medicine, dentistry, pharmacy, veterinary medicine, law, and the doctorate degree in the physical or natural sciences, engineering, mathematics, or other scientific disciplines in which African Americans are underrepresented;
+
+&emsp;(5) establish or improve a development office to strengthen and increase contributions from alumni and the private sector;
+
+&emsp;(6) assist in the establishment or maintenance of an institutional endowment to facilitate financial independence pursuant to section 1065 of this title; and
+
+&emsp;(7) funds and administrative management, and the acquisition of equipment, including software, for use in strengthening funds management and management information systems.
 
 #### (d) Application
 
@@ -26,13 +34,13 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 &emsp;(1) demonstrates how the grant funds will be used to improve graduate educational opportunities for Black and low-income students, and lead to greater financial independence; and
 
-&emsp;(2) provides, in the case of applications for grants in excess of $500,000, the assurances required by subsection (a)(2) of this section and specifies the manner in which the eligible institution is going to pay the non-Federal share of the cost of the application.
+&emsp;(2) provides, in the case of applications for grants in excess of $1,000,000, the assurances required by subsection (a)(2) of this section and specifies the manner in which the eligible institution is going to pay the non-Federal share of the cost of the application.
 
 #### (e) Eligibility
 
 #### (1) In general
 
-&emsp;Independent professional or graduate institutions and programs eligible for grants under subsection (a) of this section include—
+&emsp;Independent professional or graduate institutions and programs eligible for grants under subsection (a) of this section are the following <sup>1</sup>
 
 &emsp;&emsp;(A) Morehouse School of Medicine;
 
@@ -42,17 +50,17 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 &emsp;&emsp;(D) Clark-Atlanta University;
 
-&emsp;&emsp;(E) Tuskegee University School of Veterinary Medicine;
+&emsp;&emsp;(E) Tuskegee University School of Veterinary Medicine and other qualified graduate programs;
 
-&emsp;&emsp;(F) Xavier University School of Pharmacy;
+&emsp;&emsp;(F) Xavier University School of Pharmacy and other qualified graduate programs;
 
-&emsp;&emsp;(G) Southern University School of Law;
+&emsp;&emsp;(G) Southern University School of Law and other qualified graduate programs;
 
-&emsp;&emsp;(H) Texas Southern University School of Law and School of Pharmacy;
+&emsp;&emsp;(H) Texas Southern University School of Law and School of Pharmacy and other qualified graduate programs;
 
-&emsp;&emsp;(I) Florida A\&M University School of Pharmaceutical Sciences;
+&emsp;&emsp;(I) Florida A\&M University School of Pharmaceutical Sciences and other qualified graduate programs;
 
-&emsp;&emsp;(J) North Carolina Central University School of Law;
+&emsp;&emsp;(J) North Carolina Central University School of Law and other qualified graduate programs;
 
 &emsp;&emsp;(K) Morgan State University qualified graduate program;
 
@@ -62,41 +70,103 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 &emsp;&emsp;(N) North Carolina A\&T State University qualified graduate program;
 
-&emsp;&emsp;(O) University of Maryland Eastern Shore qualified graduate program; and
+&emsp;&emsp;(O) University of Maryland Eastern Shore qualified graduate program;
 
-&emsp;&emsp;(P) Jackson State qualified graduate program.
+&emsp;&emsp;(P) Jackson State University qualified graduate program;
+
+&emsp;&emsp;(Q) Norfolk State University qualified graduate programs; and
+
+&emsp;&emsp;(R) Tennessee State University qualified graduate programs.
 
 #### (2) Qualified graduate program
 
-&emsp;For the purposes of this section, the term “qualified graduate program” means a graduate or professional program that—
+&emsp;(A) For the purposes of this section, the term “qualified graduate program” means a graduate or professional program that provides a program of instruction in the physical or natural sciences, engineering, mathematics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
 
-&emsp;&emsp;(A) provides a program of instruction in the physical or natural sciences, engineering, mathematics, or other scientific discipline in which African Americans are underrepresented; and
-
-&emsp;&emsp;(B) has students enrolled in such program at the time of application for a grant under this section.
+&emsp;(B) Notwithstanding the enrollment requirement contained in subparagraph (A), an institution may use an amount equal to not more than 10 percent of the institution's grant under this section for the development of a new qualified graduate program.
 
 #### (3) Special rule
 
-&emsp;Graduate institutions that were awarded grants under this section prior to October 1, 1992 shall continue to receive such grant payments, regardless of the eligibility of the graduate institutions described in subparagraphs (F) through (P), until such grant period has expired or September 30, 1993, whichever is later.
+&emsp;Institutions that were awarded grants under this section prior to October 1, 1998, shall continue to receive such grants, subject to the availability of appropriated funds, regardless of the eligibility of the institutions described in subparagraphs (Q) and (R) of paragraph (1).
 
 #### (4) One grant per institution
 
 &emsp;The Secretary shall not award more than 1 grant under this section in any fiscal year to any institution of higher education or university system.
 
+#### (5) Institutional choice
+
+&emsp;The president or chancellor of the institution may decide which graduate or professional school or qualified graduate program will receive funds under the grant in any 1 fiscal year, if the allocation of funds among the schools or programs is delineated in the application for funds submitted to the Secretary under this section.
+
 #### (f) Funding rule
 
-Of the amount appropriated to carry out this section for any fiscal year—
+Subject to subsection (g) of this section, of the amount appropriated to carry out this section for any fiscal year—
 
-&emsp;(1) the first $12,000,000 (or any lesser amount appropriated) shall be available only for the purposes of making grants to institutions or programs described in subparagraphs (A) through (E) of subsection (e)(1) of this section;
+&emsp;(1) the first $26,600,000 (or any lesser amount appropriated) shall be available only for the purposes of making grants to institutions or programs described in subparagraphs (A) through (P) of subsection (e)(1) of this section;
 
-&emsp;(2) any amount appropriated in excess of $12,000,000 shall be available—
+&emsp;(2) any amount in excess of $26,600,000, but not in excess of $28,600,000, shall be available for the purpose of making grants to institutions or programs described in subparagraphs (Q) and (R) of subsection (e)(1) of this section; and
 
-&emsp;&emsp;(A) for the purposes of making grants, in equal amounts not to exceed $500,000, to institutions or programs described in subparagraphs (F) through (P) of subsection (e)(1) of this section; and
+&emsp;(3) any amount in excess of $28,600,000, shall be made available to each of the institutions or programs identified in subparagraphs (A) through (R) <sup>2</sup> pursuant to a formula developed by the Secretary that uses the following elements:
 
-&emsp;&emsp;(B) secondly for the purposes of making grants to institutions or programs described in subparagraphs (A) through (P) of subsection (e)(1) of this section.
+&emsp;&emsp;(A) The ability of the institution to match Federal funds with non-Federal funds.
 
-(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 104–141, §2, May 6, 1996, 110 Stat. 1328.)
+&emsp;&emsp;(B) The number of students enrolled in the programs for which the eligible institution received funding under this section in the previous year.
+
+&emsp;&emsp;(C) The average cost of education per student, for all full-time graduate or professional students (or the equivalent) enrolled in the eligible professional or graduate school, or for doctoral students enrolled in the qualified graduate programs.
+
+&emsp;&emsp;(D) The number of students in the previous year who received their first professional or doctoral degree from the programs for which the eligible institution received funding under this section in the previous year.
+
+&emsp;&emsp;(E) The contribution, on a percent basis, of the programs for which the institution is eligible to receive funds under this section to the total number of African Americans receiving graduate or professional degrees in the professions or disciplines related to the programs for the previous year.
+
+#### (g) Hold harmless rule
+
+Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no institution or qualified program identified in subsection (e)(1) of this section that received a grant for fiscal year 1998 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year that is less than the grant amount received for fiscal year 1998, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
+
+(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 104–141, §2, May 6, 1996, 110 Stat. 1328; Pub. L. 105–244, title III, §304(b), Oct. 7, 1998, 112 Stat. 1643.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted “in mathematics, engineering, or the physical or natural sciences” after “graduate education opportunities”.
+
+Subsec. (a)(2). Pub. L. 105–244, §304(b)(1)(A)(ii), substituted “$1,000,000 may” for “$500,000 may” and “, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.” for “except that the Morehouse School of Medicine shall receive at least $3,000,000.”
+
+Subsec. (c). Pub. L. 105–244, §304(b)(2), added pars. (1) to (7) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) any of the purposes enumerated under section 1062 of this title;
+
+“(2) to establish or improve a development office to strengthen and increase contributions from alumni and the private sector; and
+
+“(3) to assist in the establishment or maintenance of an institutional endowment to facilitate financial independence pursuant to section 1065 of this title.”
+
+Subsec. (d)(2). Pub. L. 105–244, §304(b)(1)(B), substituted “$1,000,000” for “$500,000”.
+
+Subsec. (e)(1). Pub. L. 105–244, §304(b)(3)(A)(i), substituted “are the following” for “include—” in introductory provisions.
+
+Subsec. (e)(1)(E) to (J). Pub. L. 105–244, §304(b)(3)(A)(ii), inserted “and other qualified graduate programs” before semicolon at end.
+
+Subsec. (e)(1)(P). Pub. L. 105–244, §304(b)(3)(A)(iv)(I), inserted “University” after “State”.
+
+Subsec. (e)(1)(Q), (R). Pub. L. 105–244, §304(b)(3)(A)(iii), (iv)(II), (III), added subpars. (Q) and (R).
+
+Subsec. (e)(2). Pub. L. 105–244, §304(b)(3)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For the purposes of this section, the term ‘qualified graduate program’ means a graduate or professional program that—
+
+&emsp;“(A) provides a program of instruction in the physical or natural sciences, engineering, mathematics, or other scientific discipline in which African Americans are underrepresented; and
+
+&emsp;“(B) has students enrolled in such program at the time of application for a grant under this section.”
+
+Subsec. (e)(3). Pub. L. 105–244, §304(b)(3)(B), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “Graduate institutions that were awarded grants under this section prior to October 1, 1992 shall continue to receive such grant payments, regardless of the eligibility of the graduate institutions described in subparagraphs (F) through (P), until such grant period has expired or September 30, 1993, whichever is later.”
+
+Subsec. (e)(5). Pub. L. 105–244, §304(b)(3)(C), added par. (5).
+
+Subsec. (f). Pub. L. 105–244, §304(b)(4)(A), substituted “Subject to subsection (g), of the amount appropriated” for “Of the amount appropriated” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 105–244, §304(b)(4)(B), substituted “$26,600,000” for “$12,000,000” and “(A) through (P)” for “(A) through (E)”.
+
+Subsec. (f)(2), (3). Pub. L. 105–244, §304(b)(4)(C), added pars. (2) and (3) and struck out former par. (2) which read as follows: “any amount appropriated in excess of $12,000,000 shall be available—
+
+&emsp;“(A) for the purposes of making grants, in equal amounts not to exceed $500,000, to institutions or programs described in subparagraphs (F) through (P) of subsection (e)(1) of this section; and
+
+&emsp;“(B) secondly for the purposes of making grants to institutions or programs described in subparagraphs (A) through (P) of subsection (e)(1) of this section.”
+
+Subsec. (g). Pub. L. 105–244, §304(b)(5), added subsec. (g).
 
 1996—Subsec. (b). Pub. L. 104–141 struck out at end “No more than two 5-year grants (for a period of not more than 10 years) may be made to any one undergraduate or postgraduate institution.”
 
@@ -120,9 +190,13 @@ Subsec. (f). Pub. L. 102–325, §303(g), added subsec. (f).
 
 Subsec. (c)(3). Pub. L. 100–50, §2(a)(10), made technical amendment to reference to section 1065 of this title to correct reference to corresponding section of original act.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -146,5 +220,9 @@ Section 1 of Pub. L. 104–141 provided that: “The Congress finds the followin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1069f of this title.
+This section is referred to in section 1068h of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a colon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraphs (A) to (R) of subsection (e)(1) of this section”.</i>
 

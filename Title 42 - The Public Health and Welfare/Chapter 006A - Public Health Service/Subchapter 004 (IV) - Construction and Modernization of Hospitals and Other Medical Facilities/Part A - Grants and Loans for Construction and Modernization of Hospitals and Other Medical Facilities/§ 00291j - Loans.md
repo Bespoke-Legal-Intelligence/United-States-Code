@@ -20,7 +20,7 @@ Except as provided in this section, an application for a loan with respect to an
 
 Any loan under this part shall be made out of the allotment from which a grant for the project concerned would be made. Payments of interest and repayments of principal on loans under this part shall be deposited in the Treasury as miscellaneous receipts.
 
-(July 1, 1944, ch. 373, title VI, §610, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 457.)
+(July 1, 1944, ch. 373, title VI, §610, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 457.)
 
 #### References in Text
 

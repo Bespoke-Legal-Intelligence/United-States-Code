@@ -20,7 +20,7 @@ The Institute shall—
 
 &emsp;(5) develop guidelines for use by operators of Federal computer systems that contain sensitive information in training their employees in security awareness and accepted security practice, as required by section 5 of the Computer Security Act of 1987; and
 
-&emsp;(6) develop validation procedures for, and evaluate the effectiveness of, standards and guidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
+&emsp;(6) develop validation procedures for, and evaluate the effectiveness of, standards andguidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
 
 #### (b) Technical assistance and implementation of standards developed
 
@@ -78,7 +78,7 @@ As used in this section—
 
 &emsp;(5) the term “Federal agency” has the meaning given such term by section 472(b) of title 40.
 
-(Mar. 3, 1901, ch. 872, §20, as added Jan. 8, 1988, Pub. L. 100–235, §3(2), 101 Stat. 1724; amendedAug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433; Feb. 10, 1996, Pub. L. 104–106, div. E, title LVI, §5607(a), 110 Stat. 701; Nov. 18, 1997, Pub. L. 105–85, div. A, title X, §1073(h)(1), 111 Stat. 1906.)
+(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906.)
 
 #### References in Text
 

@@ -96,10 +96,6 @@ The President is authorized to provide assistance to the independent states of t
 
 (Pub. L. 87–195, pt. I, §498, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3324.)
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to United States International Development Cooperation Agency by section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2295b, 5813, 5821 of this title.

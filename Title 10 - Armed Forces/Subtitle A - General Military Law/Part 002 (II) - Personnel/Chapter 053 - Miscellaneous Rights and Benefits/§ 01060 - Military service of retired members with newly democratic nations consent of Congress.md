@@ -40,6 +40,10 @@ Civil Employment by Foreign Governments.—For a provision of law providing the 
 
 1994—Pub. L. 103–337 renumbered section 1058 of this title as this section.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date
 
 Section 1433(d) of Pub. L. 103–160 provided that this section was to take effect as of Jan. 1, 1993, prior to repeal by Pub. L. 103–236, title I, §182(b), Apr. 30, 1994, 108 Stat. 418.

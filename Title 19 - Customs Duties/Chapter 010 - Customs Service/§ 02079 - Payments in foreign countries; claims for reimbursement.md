@@ -2,11 +2,11 @@
 
 The provisions of this Act shall not affect payments made for the United States Customs Service in foreign countries, nor the right of any customs officer or employee to claim reimbursement for personal funds expended in connection with the enforcement of the customs laws.
 
-(Mar. 28, 1928, ch. 266, §4, as added Aug. 7, 1939, ch. 566, §1, 53 Stat. 1263; amended Oct. 27, 1970, Pub. L. 91–513, title III, §1102(n)(3), 84 Stat. 1293.)
+(Mar. 28, 1928, ch. 266, §4, as added Aug. 7, 1939, ch. 566, §1, 53 Stat. 1263; amended Pub. L. 91–513, title III, §1102(n)(3), Oct. 27, 1970, 84 Stat. 1293.)
 
 #### References in Text
 
-This Act, referred to in text, is act Mar. 28, 1928, ch. 266, 45 Stat. 374, as amended, which enacted sections 2077 to 2080 of this title and sections 529a and 529g of former Title 31, Money and Finance. Sections 529a and529g of former Title 31, were repealed by sections 1101(a)(3) and 1101(a)(6), respectively, of Pub. L. 91–513, title III, Oct. 27, 1970, 84 Stat. 1291, 1292.
+This Act, referred to in text, is act Mar. 28, 1928, ch. 266, 45 Stat. 374, as amended, which enacted sections 2077 to 2080 of this title and sections 529a and 529g of former Title 31, Money and Finance. Sections 529a and 529g of former Title 31, were repealed by sections 1101(a)(3) and 1101(a)(6), respectively, of Pub. L. 91–513, title III, Oct. 27, 1970, 84 Stat. 1291, 1292.
 
 The customs laws, referred to in text, are classified generally to this title.
 

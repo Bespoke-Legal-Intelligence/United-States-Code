@@ -6,7 +6,7 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 &emsp;(2) that such appraisals shall be written appraisals.
 
-> Each such agency or instrumentality may require compliance with additional standards if itmakes a determination in writing that such additional standards are required in order to properly carry out its statutory responsibilities.
+> Each such agency or instrumentality may require compliance with additional standards if it makes a determination in writing that such additional standards are required in order to properly carry out its statutory responsibilities.
 
 (Pub. L. 101–73, title XI, §1110, Aug. 9, 1989, 103 Stat. 514.)
 

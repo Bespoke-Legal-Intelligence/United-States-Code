@@ -6,7 +6,7 @@ The Attorney General may make funds available under this subchapter to States an
 
 #### Prior Provisions
 
-A prior section 2401 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 2401 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Effective Date
 

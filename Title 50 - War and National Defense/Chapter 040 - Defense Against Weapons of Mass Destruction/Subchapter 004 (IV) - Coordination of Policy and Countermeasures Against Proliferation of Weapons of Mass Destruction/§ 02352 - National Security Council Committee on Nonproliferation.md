@@ -62,5 +62,5 @@ The Committee has the following responsibilities:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2351, 2353, 2354 of this title.
+This section is referred to in sections 2353, 2354 of this title.
 

@@ -2,7 +2,7 @@
 
 Abraham Lincoln Birthplace National Historic Site shall be under the control of the National Park Service and administered under such regulations not inconsistent with law as it may from time to time prescribed.
 
-(July 17, 1916, ch. 247, §4, 39 Stat. 386; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Mar. 2, 1934, ch. 38, §1, 48 Stat. 389; Aug. 11, 1939, ch. 686, 53 Stat. 1405; Sept. 8, 1959, Pub. L. 86–231, 73 Stat. 466.)
+(July 17, 1916, ch. 247, §4, 39 Stat. 386; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Mar. 2, 1934, ch. 38, §1, 48 Stat. 389; Aug. 11, 1939, ch. 686, 53 Stat. 1405; Pub. L. 86–231, Sept. 8, 1959, 73 Stat. 466.)
 
 #### Codification
 
@@ -24,5 +24,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 215, 217 of this title.
+This section is referred to in sections 215, 217, 218a of this title.
 

@@ -8,11 +8,11 @@
 
 (d) To be admitted to the Academy, an appointee must take and subscribe to the following oath—
 
-“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear that I will support the Constitution of theUnited States, and bear true allegiance to the National Government; that I will maintain and defend the sovereignty of the United States, paramount to any and all allegiance, sovereignty, or fealty I may owe to any State or country whatsoever; and that I will at all times obey the legal orders of my superior officers, and the Uniform Code of Military Justice.”
+“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear that I will support the Constitution of the United States, and bear true allegiance to the National Government; that I will maintain and defend the sovereignty of the United States, paramount to any and all allegiance, sovereignty, or fealty I may owe to any State or country whatsoever; and that I will at all times obey the legal orders of my superior officers, and the Uniform Code of Military Justice.”
 
 > If a candidate for admission refuses to take this oath, his appointment is terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §555(b), 110 Stat. 2527.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 104–201, div. A, title V, §555(b), Sept. 23, 1996, 110 Stat. 2527.)
 
 Historical and Revision Notes
 

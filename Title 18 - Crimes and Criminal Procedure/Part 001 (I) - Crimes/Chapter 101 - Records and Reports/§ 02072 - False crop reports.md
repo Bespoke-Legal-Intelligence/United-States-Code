@@ -2,7 +2,7 @@
 
 Whoever, being an officer or employee of the United States or any of its agencies, whose duties require the compilation or report of statistics or information relating to the products of the soil, knowingly compiles for issuance, or issues, any false statistics or information as a report of the United States or any of its agencies, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 795; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -4,3 +4,7 @@ No later than 4 months after March 22, 1995, and no later than March 15 of each 
 
 (Pub. L. 104–4, title III, §304, Mar. 22, 1995, 109 Stat. 70.)
 
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

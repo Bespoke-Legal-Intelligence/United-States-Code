@@ -2,7 +2,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “activated channels” means those channels engineered at the headend of a cable system for the provision of services generally available to residential subscribers of the cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use;
+&emsp;(1) the term “activated channels” means those channels engineered at the headend of a cable system for the provision of services generally available to residential subscribers ofthe cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use;
 
 &emsp;(2) the term “affiliate”, when used in relation to any person, means another person who owns or controls, is owned or controlled by, or is under common ownership or control with, such person;
 
@@ -10,7 +10,7 @@ For purposes of this subchapter—
 
 &emsp;(4) the term “cable channel” or “channel” means a portion of the electromagnetic frequency spectrum which is used in a cable system and which is capable of delivering a television channel (as television channel is defined by the Commission by regulation);
 
-&emsp;(5) the term “cable operator” means any person or group of persons (A) who providescable service over a cable system and directly or through one or more affiliates owns a significant interest in such cable system, or (B) who otherwise controls or is responsible for, through any arrangement, the management and operation of such a cable system;
+&emsp;(5) the term “cable operator” means any person or group of persons (A) who provides cable service over a cable system and directly or through one or more affiliates owns a significant interest in such cable system, or (B) who otherwise controls or is responsible for, through any arrangement, the management and operation of such a cable system;
 
 &emsp;(6) the term “cable service” means—
 
@@ -74,5 +74,5 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 153, 271, 303a, 309, 551, 554, 571 of this title; title 17 section 114.
+This section is referred to in sections 153, 271, 303a, 309, 551, 554, 571 of this title; title 17 sections 114, 1202.
 

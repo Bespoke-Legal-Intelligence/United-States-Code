@@ -52,7 +52,7 @@ That Act, referred to in par. (5), is act June 25, 1938, ch. 676, 52 Stat. 1060,
 
 #### Amendments
 
-1986—Par. (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Par. (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Pars. (8)(B)(ii), (10)(B)(iii). Pub. L. 99–603 substituted “1101(a)(15)(H)(ii)(a)” for “1101(a)(15)(H)(ii)”.
 

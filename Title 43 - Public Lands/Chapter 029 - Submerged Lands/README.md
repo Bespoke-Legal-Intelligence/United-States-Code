@@ -59,7 +59,7 @@
 | (e) | Lands beneath navigable waters. |
 | [1336\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001336%20-%20Controversies%20over%20jurisdiction%3B%20agreements%3B%20payments%3B%20final%20settlement%20or%20adjudication%3B%20approval%20of%20notice%20concerning%20oil%20and%20gas%E2%80%A6.md) | Controversies over jurisdiction; agreements; payments; final settlement or adjudication; approval of notice concerning oil and gas operations in Gulf of Mexico. |
 | [1337\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001337%20-%20Grant%20of%20leases%20by%20Secretary.md) | Grant of leases by Secretary. |
-| (a) | Oil and gas leases; award to highest responsible qualified bidder; method of bidding; royalty relief; Congressional consideration of bidding system; notice; annual report to Congress. |
+| (a) | Oil and gas leases; award to highest responsible qualified bidder; method of bidding; royalty relief; Congressional consideration of bidding system; notice. |
 | (b) | Terms and provisions of oil and gas leases. |
 | (c) | Antitrust review of lease sales. |
 | (d) | Due diligence. |
@@ -94,7 +94,7 @@
 | (e) | Source materials essential to production of fissionable materials. |
 | (f) | Helium ownership; rules and regulations governing extraction. |
 | [1342\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001342%20-%20Prior%20claims%20as%20unaffected.md) | Prior claims as unaffected. |
-| [1343\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001343%20-%20Annual%20report%20by%20Secretary%20to%20Congress.md) | Annual report by Secretary to Congress. |
+| [1343\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001343%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IX%2C%20%C2%A7901%28l%29%281%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203290.md) | Repealed. |
 | [1344\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001344%20-%20Outer%20Continental%20Shelf%20leasing%20program.md) | Outer Continental Shelf leasing program. |
 | (a) | Schedule of proposed oil and gas lease sales. |
 | (b) | Estimates of appropriations and staff required for management of leasing program. |
@@ -131,7 +131,6 @@
 | (d) | Investigation and report on major fires, oil spills, death, or serious injury. |
 | (e) | Review of allegations of violations. |
 | (f) | Summoning of witnesses and production of evidence. |
-| (g) | Report to Congress of violations and action taken. |
 | [1349\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001349%20-%20Citizens%20suits%2C%20jurisdiction%20and%20judicial%20review.md) | Citizens suits, jurisdiction and judicial review. |
 | (a) | Persons who may bring actions; persons against whom action may be brought; time of action; intervention by Attorney General; costs and fees; security. |
 | (b) | Jurisdiction and venue of actions. |

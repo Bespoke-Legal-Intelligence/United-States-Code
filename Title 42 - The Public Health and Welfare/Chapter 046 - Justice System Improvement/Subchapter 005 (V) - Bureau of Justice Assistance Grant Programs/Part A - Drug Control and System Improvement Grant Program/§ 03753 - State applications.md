@@ -30,7 +30,7 @@
 
 &emsp;(7) A provision for fund accounting, auditing, monitoring, and such evaluation procedures as may be necessary to keep such records that the Bureau shall prescribe to assure fiscal control, proper management, and efficient disbursement of funds reviewed under this section.
 
-&emsp;(8) An assurance that the applicant shall maintain such data and information and submit such reports in such form, at such times, and containing such data and information as the Bureau may reasonably require to administer other provisions of this part.
+&emsp;(8) An assurance that the applicant shall maintain such data and information and submit such reports in such form, at such times,and containing such data and information as the Bureau may reasonably require to administer other provisions of this part.
 
 &emsp;(9) A certification that its programs meet all the requirements of this section, that all the information contained in the application is correct, that there has been appropriate coordination with affected agencies, and that the applicant will comply with all provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Bureau and shall be executed by the chief executive or such other officer of the applicant qualified under regulations promulgated by the Office.
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory, will undergo, at regular intervals of not to exceed 180 days, external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
 
-(b) Within 30 days after November 18, 1988, the Director shall promulgate regulations to implement this section (including the information that must be included and the requirements thatthe States must meet) in submitting the applications required under this section.
+(b) Within 30 days after November 18, 1988, the Director shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States must meet) in submitting the applications required under this section.
 
 (Pub. L. 90–351, title I, §503, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, §507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, §210302(b), Sept. 13, 1994, 108 Stat. 2065.)
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary shall prescribe the grades or ratings for persons enlisting in the Regular Coast Guard.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, §16, 64 Stat. 407; Aug. 10, 1956, ch. 1041, §§8(a), 53, 70A Stat. 620, 679; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(F), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, §16, 64 Stat. 407; Aug. 10, 1956, ch. 1041, §§8(a), 53, 70A Stat. 620, 679; Pub. L. 98–557, §15(a)(3)(F), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,7 @@ Based on title 14, U.S.C., 1946 ed., §§35, 35a, 206 (May 26, 1906, ch. 2556, �
 
 Section 35 of title 14, U.S.C., 1946 ed., has been divided. The provisions of the first sentence of subsection (a) are placed in this section. The proviso of subsection (a) is covered in section 367(b) of this title. Subsection (b) is placed in section 365 of this title. Subsections (c) and (d) are placed in section 367(a) of this title, except that part (3) of subsection (c) is covered by section 366 of this title.
 
-Section 206 of title 14, U.S.C., 1946 ed., has been divided. That part dealing with special temporary enlistments is incorporated in this section. That part dealing with temporary appointments of warrant officers is placed in section 302 of this title.
+Section 206 of title 14, U.S.C., 1946 ed., has been divided. That part dealing with special temporary enlistments is incorporated in this section. That part dealingwith temporary appointments of warrant officers is placed in section 302 of this title.
 
 Certain additional details concerning the two types of enlistments are added; these details were previously covered in Coast Guard Regulations.
 

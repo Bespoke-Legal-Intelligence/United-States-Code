@@ -1,8 +1,8 @@
 ### §1301. Alien seeking entry; contents
 
-No visa shall be issued to any alien seeking to enter the United States until such alien has been registered in accordance with section 1201(b) of this title.
+No visa shall be issued to any alien seeking to enter the United States until such alien hasbeen registered in accordance with section 1201(b) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 7, §261, 66 Stat. 223; Nov. 14, 1986, Pub. L. 99–653, §8, 100 Stat. 3657; Oct. 24, 1988, Pub. L. 100–525, §8(g), 102 Stat. 2617.)
+(June 27, 1952, ch. 477, title II, ch. 7, §261, 66 Stat. 223; Pub. L. 99–653, §8, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(g), Oct. 24, 1988, 102 Stat. 2617.)
 
 #### Amendments
 

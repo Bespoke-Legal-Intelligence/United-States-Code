@@ -8,7 +8,7 @@ Any lease under section 1441 of this title shall be for a period not to exceed t
 
 (c) That the lessee shall make reasonable regulations to govern the use of the airport, but such regulations shall take effect only upon approval by the Administrator of the Federal Aviation Agency.
 
-(d) That all departments and agencies of the United States operating aircraft (1) shall have free and unrestricted use of the airport, and (2) with the approval of the Secretary of the Interior, shall have the right to erect and install therein such structures and improvements as the heads of such departments and agencies deem advisable, including facilities for maintaining supplies of fuel, oil, and other materials for operating aircraft.
+(d) That all departments and agencies of the United States operating aircraft (1) shall havefree and unrestricted use of the airport, and (2) with the approval of the Secretary of the Interior, shall have the right to erect and install therein such structures and improvements as the heads of such departments and agencies deem advisable, including facilities for maintaining supplies of fuel, oil, and other materials for operating aircraft.
 
 (e) That whenever the President may deem it necessary for military purposes, the Secretary of the Army may assume full control of the airport.
 

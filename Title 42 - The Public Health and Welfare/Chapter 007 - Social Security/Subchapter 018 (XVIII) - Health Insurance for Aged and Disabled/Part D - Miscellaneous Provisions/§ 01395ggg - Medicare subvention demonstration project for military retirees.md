@@ -20,7 +20,7 @@ In this section:
 
 &emsp;The term “medicare-eligible military retiree or dependent” means an individual described in section 1074(b) or 1076(b) of title 10 who—
 
-&emsp;&emsp;(A) would be eligible for health benefits under section 1086 of such title by reason of subsection (c)(1) of such section 1086 but for the operation of subsection (d) of such section 1086;
+&emsp;&emsp;(A) would be eligible for health benefits under section 1086 of such title by reason ofsubsection (c)(1) of such section 1086 but for the operation of subsection (d) of such section 1086;
 
 &emsp;&emsp;(B)(i) is entitled to benefits under part A of this subchapter; and
 
@@ -150,7 +150,7 @@ Participation of medicare-eligible military retirees or dependents in the demons
 
 #### (1) Modification of TRICARE contracts
 
-&emsp;In carrying out the demonstration project, the Secretary of Defense is authorized toamend existing TRICARE contracts (including contracts with designated providers) in order to provide the medicare health care services to the medicare-eligible military retirees and dependents enrolled in the demonstration project consistent with part C of this subchapter.
+&emsp;In carrying out the demonstration project, the Secretary of Defense is authorized to amend existing TRICARE contracts (including contracts with designated providers) in order to provide the medicare health care services to the medicare-eligible military retirees and dependents enrolled in the demonstration project consistent with part C of this subchapter.
 
 #### (2) Health care benefits
 
@@ -202,7 +202,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### (A) In general
 
-&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General, shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents during the period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
+&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General,shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents during the period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
 
 #### (B) Annual report by the Comptroller General
 
@@ -272,7 +272,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 &emsp;&emsp;(C) whether the terms and conditions of the project should be continued (or modified) if the project is extended or expanded.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1896, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4015(a), 111 Stat. 337.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1896, as added Pub. L. 105–33, title IV, §4015(a), Aug. 5, 1997, 111 Stat. 337.)
 
 #### References in Text
 
@@ -285,4 +285,8 @@ Part C of this subchapter, referred to in subsecs. (d), (g)(1), and (i)(1), is c
 #### Implementation Plan for Veterans Subvention
 
 Section 4015(b) of Pub. L. 105–33 provided that: “Not later than 12 months after the start of the demonstration project, the Secretary of Health and Human Services and the Secretary of Veterans Affairs shall jointly submit to Congress a detailed implementation plan for a subvention demonstration project (that follows the model of the demonstration project conducted under section 1896 of the Social Security Act \[this section\] (as added by subsection (a)) to begin in 1999 for veterans (as defined in section 101 of title 38, United States Code) that are eligible for benefits under title XVIII of the Social Security Act \[this subchapter\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 1108.
 

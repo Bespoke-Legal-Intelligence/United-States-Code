@@ -62,7 +62,7 @@ A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacanc
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–598 substituted “ten” for “nine”.
+1978—Pub. L. 95–598 substituted “ten” for “nine”.
 
 #### Effective Date of 1978 Amendment
 

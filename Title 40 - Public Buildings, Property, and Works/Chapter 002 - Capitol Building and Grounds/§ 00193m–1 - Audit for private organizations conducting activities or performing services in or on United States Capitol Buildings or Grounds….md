@@ -10,5 +10,5 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1205 of this title; title 36 section 1213.
+This section is referred to in section 1205 of this title; title 36 section 220314.
 

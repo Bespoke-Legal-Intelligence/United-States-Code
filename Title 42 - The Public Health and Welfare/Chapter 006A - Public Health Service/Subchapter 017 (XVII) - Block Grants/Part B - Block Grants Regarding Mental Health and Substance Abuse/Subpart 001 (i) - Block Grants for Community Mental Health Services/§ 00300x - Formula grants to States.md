@@ -14,7 +14,7 @@ A funding agreement for a grant under subsection (a) of this section is that, su
 
 &emsp;(3) planning, administration, and educational activities related to providing services under the plan.
 
-(July 1, 1944, ch. 373, title XIX, §1911, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 378.)
+(July 1, 1944, ch. 373, title XIX, §1911, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 378.)
 
 #### Prior Provisions
 

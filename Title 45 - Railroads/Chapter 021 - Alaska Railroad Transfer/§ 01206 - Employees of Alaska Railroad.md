@@ -30,7 +30,7 @@ Any employee who transfers to the State-owned railroad under this chapter shall 
 
 #### (e) Continued coverage for certain employees and annuitants in Federal health benefits plans and life insurance plans
 
-(1) Any person described under the provisions of paragraph (2) may elect life insurance coverage under chapter 87 of title 5 and enroll in a health benefits plan under chapter 89 of title 5 in accordance with the provisions of this subsection.
+(1) Any person described under the provisions of paragraph (2) may elect life insurance coverage under chapter 87 of title 5 and enroll in ahealth benefits plan under chapter 89 of title 5 in accordance with the provisions of this subsection.
 
 (2) The provisions of paragraph (1) shall apply to any person who—
 
@@ -50,7 +50,7 @@ Any employee who transfers to the State-owned railroad under this chapter shall 
 
 #### References in Text
 
-The Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(4)(A), is Pub. L. 103–226, Mar. 30,1994, 108 Stat. 111. Section 3 of the Act is set out as a note under section 5597 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2101 of Title 5 and Tables.
+The Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(4)(A), is Pub. L. 103–226, Mar. 30, 1994, 108 Stat. 111. Section 3 of the Act is set out as a note under section 5597 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2101 of Title 5 and Tables.
 
 #### Amendments
 

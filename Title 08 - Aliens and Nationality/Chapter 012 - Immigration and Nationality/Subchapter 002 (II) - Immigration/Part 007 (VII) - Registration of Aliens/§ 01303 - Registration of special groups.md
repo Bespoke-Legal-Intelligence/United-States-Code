@@ -4,7 +4,7 @@
 
 (b) The provisions of section 1302 of this title and of this section shall not be applicable to any alien who is in the United States as a nonimmigrant under section 1101(a)(15)(A) or (a)(15)(G) of this title until the alien ceases to be entitled to such a nonimmigrant status.
 
-(June 27, 1952, ch. 477, title II, ch. 7, §263, 66 Stat. 224; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(e)(1)(J), 323, 110 Stat. 3009–619, 3009–629.)
+(June 27, 1952, ch. 477, title II, ch. 7, §263, 66 Stat. 224; Pub. L. 104–208, div. C, title III, §§308(e)(1)(J), 323, Sept. 30, 1996, 110 Stat. 3009–619, 3009–629.)
 
 #### Amendments
 

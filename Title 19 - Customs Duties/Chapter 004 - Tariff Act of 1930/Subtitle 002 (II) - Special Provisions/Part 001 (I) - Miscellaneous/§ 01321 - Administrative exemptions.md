@@ -22,7 +22,7 @@ The Secretary of the Treasury, in order to avoid expense and inconvenience to th
 
 The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) of this section whenever he finds that such action is consistent with the purpose of subsection (a) of this section or is necessary for any reason to protect the revenue or to prevent unlawful importations.
 
-(June 17, 1930, ch. 497, title III, §321, as added June 25, 1938, ch. 679, §7, 52 Stat. 1081; amended Aug. 8, 1953, ch. 397, §13, 67 Stat. 515; Sept. 21, 1961, Pub. L. 87–261, §2(c), 75 Stat. 541; June 30, 1965, Pub. L. 89–62, §2, 79 Stat. 208; Jan. 3, 1975, Pub. L. 93–618, title VI, §610(a), 88 Stat. 2075; Oct. 3, 1978, Pub. L. 95–410, title II, §205, 92 Stat. 900; Jan. 12, 1983, Pub. L. 97–446, title I, §115(b), 96 Stat. 2335; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(h)(2), 102 Stat. 1157; Dec. 8, 1993, Pub. L. 103–182, title VI, §651, 107 Stat. 2209; Oct. 11, 1996, Pub. L. 104–295, §3(a)(8), (12), 110 Stat. 3516.)
+(June 17, 1930, ch. 497, title III, §321, as added June 25, 1938, ch. 679, §7, 52 Stat. 1081; amended Aug. 8, 1953, ch. 397, §13, 67 Stat. 515; Pub. L. 87–261, §2(c), Sept. 21, 1961, 75 Stat. 541; Pub. L. 89–62, §2, June 30, 1965, 79 Stat. 208; Pub. L. 93–618, title VI, §610(a), Jan. 3, 1975, 88 Stat. 2075; Pub. L. 95–410, title II, §205, Oct. 3, 1978, 92 Stat. 900; Pub. L. 97–446, title I, §115(b), Jan. 12, 1983, 96 Stat. 2335; Pub. L. 100–418, title I, §1214(h)(2), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 103–182, title VI, §651, Dec. 8, 1993, 107 Stat. 2209; Pub. L. 104–295, §3(a)(8), (12), Oct. 11, 1996, 110 Stat. 3516.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ Subsec. (a)(2)(B). Pub. L. 104–295, §3(a)(8), inserted “, 9804.00.65,” a
 
 Subsec. (a)(3). Pub. L. 104–295, §3(a)(12)(B), substituted “taxes, and interest” for “and taxes” and “taxes, or interest” for “or taxes”.
 
-1993—Subsec. (a)(1). Pub. L. 103–182, §651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than$10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end.
+1993—Subsec. (a)(1). Pub. L. 103–182, §651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than $10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end.
 
 Subsec. (a)(2). Pub. L. 103–182, §651(2), substituted “shall not exceed an amount specified by the Secretary by regulation, but not less than—” for “shall not exceed—” in introductory provisions, substituted “$100” and “$200” for “$50” and “$100”, respectively, in subpar. (A), substituted “$200” for “$25” in subpar. (B), substituted “$200” for “$5” in subpar. (C), and substituted “; and” for period at end.
 

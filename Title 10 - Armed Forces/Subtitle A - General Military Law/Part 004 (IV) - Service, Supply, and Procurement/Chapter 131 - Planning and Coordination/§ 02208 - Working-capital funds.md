@@ -60,13 +60,65 @@
 
 &emsp;(B) to the extent that the Secretary determines necessary to support a contingency operation.
 
-(3) In this subsection:
+(3) The total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
+
+(4) In this subsection:
 
 &emsp;(A) The term “advance billing”, with respect to a working-capital fund, means a billing of a customer by the fund, or a requirement for a customer to reimburse or otherwise credit the fund, for the cost of goods or services provided (or for other expenses incurred) on behalf of the customer that is rendered or imposed before the customer receives the goods or before the services have been performed.
 
 &emsp;(B) The term “customer” means a requisitioning component or agency.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873.)
+(m)
+
+Capital Asset Subaccounts.—Amounts charged for depreciation of capital assets shall be credited to a separate capital asset subaccount established within a working-capital fund.
+
+(n)
+
+Separate Accounting, Reporting, and Auditing of Funds and Activities.—The Secretary of Defense, with respect to the working-capital funds of each Defense Agency, and the Secretary of each military department, with respect to the working-capital funds of the military department, shall provide for separate accounting, reporting, and auditing of funds and activities managed through the working-capital funds.
+
+(<i>o</i>)
+
+Charges for Goods and Services Provided Through the Fund.—(1) Charges for goods and services provided for an activity through a working-capital fund shall include the following:
+
+&emsp;(A) Amounts necessary to recover the full costs of the goods and services provided for that activity.
+
+&emsp;(B) Amounts for depreciation of capital assets, set in accordance with generally accepted accounting principles.
+
+(2) Charges for goods and services provided through a working-capital fund may not include the following:
+
+&emsp;(A) Amounts necessary to recover the costs of a military construction project (as defined in section 2801(b) of this title), other than a minor construction project financed by the fund pursuant to section 2805(c)(1) of this title.
+
+&emsp;(B) Amounts necessary to cover costs incurred in connection with the closure or realignment of a military installation.
+
+&emsp;(C) Amounts necessary to recover the costs of functions designated by the Secretary of Defense as mission critical, such as ammunition handling safety, and amounts for ancillary tasks not directly related to the mission of the function or activity managed through the fund.
+
+(p)
+
+Procedures For Accumulation of Funds.—The Secretary of Defense, with respect to each working-capital fund of a Defense Agency, and the Secretary of a military department, with respect to each working-capital fund of the military department, shall establish billing procedures to ensure that the balance in that working-capital fund does not exceed the amount necessary to provide for the working-capital requirements of that fund, as determined by the Secretary.
+
+(q)
+
+Annual Reports and Budget.—The Secretary of Defense, with respect to each working-capital fund of a Defense Agency, and the Secretary of each military department, with respect to each working-capital fund of the military department, shall annually submit to Congress, at the same time that the President submits the budget under section 1105 of title 31, the following:
+
+&emsp;(1) A detailed report that contains a statement of all receipts and disbursements of the fund (including such a statement for each subaccount of the fund) for the fiscal year ending in the year preceding the year in which the budget is submitted.
+
+&emsp;(2) A detailed proposed budget for the operation of the fund for the fiscal year for which the budget is submitted.
+
+&emsp;(3) A comparison of the amounts actually expended for the operation of the fund for the fiscal year referred to in paragraph (1) with the amount proposed for the operation of the fund for that fiscal year in the President's budget.
+
+&emsp;(4) A report on the capital asset subaccount of the fund that contains the following information:
+
+&emsp;&emsp;(A) The opening balance of the subaccount as of the beginning of the fiscal year in which the report is submitted.
+
+&emsp;&emsp;(B) The estimated amounts to be credited to the subaccount in the fiscal year in which the report is submitted.
+
+&emsp;&emsp;(C) The estimated amounts of outlays to be paid out of the subaccount in the fiscal year in which the report is submitted.
+
+&emsp;&emsp;(D) The estimated balance of the subaccount at the end of the fiscal year in which the report is submitted.
+
+&emsp;&emsp;(E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will be needed to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
+
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340.)
 
 Historical and Revision Notes<br>1956
 
@@ -144,7 +196,15 @@ Dec. 21, 1979, Pub. L. 96–154, §767, 93 Stat. 1163.
 
 The word “hereafter” is omitted as executed.
 
+#### Prior Provisions
+
+Provisions similar to those in subsecs. (m) to (q) of this section were contained in section 2216a of this title prior to repeal by Pub. L. 105–261, §1008(b).
+
 #### Amendments
+
+1998—Subsec. (<i>l</i>)(3), (4). Pub. L. 105–261, §1007(e)(1), and Pub. L. 105–262 amended subsec. (<i>l</i>) identically, adding par. (3) and redesignating former par. (3) as (4).
+
+Subsecs. (m) to (q). Pub. L. 105–261, §1008(a), added subsecs. (m) to (q).
 
 1997—Subsec. (k). Pub. L. 105–85, §1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
 
@@ -180,6 +240,10 @@ Subsec. (k). Pub. L. 101–510, §1301(6), struck out subsec. (k) which read as 
 
 1982—Subsec. (h). Pub. L. 97–295 inserted provision that supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title X, §1007(e)(2), Oct. 17, 1998, 112 Stat. 2115, and Pub. L. 105–262, title VIII, §8146(d)(2), Oct. 17, 1998, 112 Stat. 2340, provided that: “Section 2208(<i>l</i>)(3) of such title, as added by paragraph (1), applies to fiscal years after fiscal year 1999.”
+
 #### Effective Date of 1983 Amendment
 
 Section 1204(b) of Pub. L. 98–94 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984.”
@@ -188,7 +252,7 @@ Section 1204(b) of Pub. L. 98–94 provided that: “The amendment made by subse
 
 Pub. L. 103–337, div. A, title III, §311(b)–(e), Oct. 5, 1994, 108 Stat. 2708, which related to purchase from other sources, limitation on inclusion of certain costs in DBOF charges, procedures for accumulation of funds, and annual reports and budget, was repealed and restated in section 2216a(d)(2)(B), (f) to (h)(3) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(1), Feb. 10, 1996, 110 Stat. 277–279.
 
-Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and required Comptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
+Pub. L. 103–337, div. A, title III, §311(f), (g), Oct. 5, 1994, 108 Stat. 2709, required Secretary of Defense to submit to congressional defense committees, not later than Feb. 1, 1995, a report on progress made in implementing the Defense Business Operations Fund Improvement Plan, dated September 1993, and requiredComptroller General to monitor and evaluate the Department of Defense implementation of the Plan and to report to congressional defense committees not later than Mar. 1, 1995.
 
 #### Charges for Goods and Services Provided Through Defense Business Operations Fund
 
@@ -204,7 +268,7 @@ Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as am
 
 #### Defense Business Operations Fund
 
-Section 8121 of Pub. L. 102–172, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a workingcapital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, §371(b)(5), Feb. 10, 1996, 110 Stat. 280. See section 2216a of this title.
+Section 8121 of Pub. L. 102–172, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, §371(b)(5), Feb. 10, 1996, 110 Stat. 280.
 
 #### Sale of Inventories for Performance of Contracts With Defense Department
 
@@ -216,7 +280,7 @@ Sale of articles acquired with working capital funds, see sections 4621 and 9621
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 129, 2210, 2216a, 2350c, 4543, 4621, 7227, 7606, 9621 of this title; title 40 section 484.
+This section is referred to in sections 129, 2210, 2350c, 4543, 4621, 7227, 7606, 9621 of this title; title 40 section 484.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

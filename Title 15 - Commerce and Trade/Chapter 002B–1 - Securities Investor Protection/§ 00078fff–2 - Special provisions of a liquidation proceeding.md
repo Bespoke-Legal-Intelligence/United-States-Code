@@ -12,7 +12,7 @@
 
 #### (3) Time limitations
 
-&emsp;No claim of a customer or other creditor of the debtor which is received by the trusteeafter the expiration of the six-month period beginning on the date of publication of notice under paragraph (1) shall be allowed, except that the court may, upon application within such period and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian. Any claim of a customer for net equity which is received by the trustee after the expiration of such period of time as may be fixed by the court (not exceeding sixty days after the date of publication of notice under paragraph (1)) need not be paid or satisfied in whole or in part out of customer property, and, to the extent such claim is satisfied from moneys advanced by SIPC, it shall be satisfied in cash or securities (or both) as the trustee determines is most economical to the estate.
+&emsp;No claim of a customer or other creditor of the debtor which is received by the trustee after the expiration of the six-month period beginning on the date of publication of notice under paragraph (1) shall be allowed, except that the court may, upon application within such period and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian. Any claim of a customer for net equity which is received by the trustee after the expiration of such period of time as may be fixed by the court (not exceeding sixty days after the date of publication of notice under paragraph (1)) need not be paid or satisfied in whole or in part out of customer property, and, to the extent such claim is satisfied from moneys advanced by SIPC, it shall be satisfied in cash or securities (or both) as the trustee determines is most economical to the estate.
 
 #### (4) Effect on claims
 
@@ -46,7 +46,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), of 
 
 #### (2) Delivery of customer name securities
 
-&emsp;The trustee shall deliver customer name securities to or on behalf of a customer of the debtor entitled thereto if the customer is not indebted to the debtor. If the customer is so indebted, such customer may, with the approval of the trustee, reclaim customer name securities upon payment to the trustee, within such period of time as the trustee determines, of all indebtedness of such customer to the debtor.
+&emsp;The trustee shall deliver customer name securities to or on behalf of a customer of the debtor entitled thereto if the customer is not indebted to the debtor. If the customer is so indebted, such customer may, with the approval of the trustee, reclaim customer name securities upon payment to the trustee, within such period of time as the trustee determines,of all indebtedness of such customer to the debtor.
 
 #### (3) Recovery of transfers
 
@@ -90,11 +90,11 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 #### (f) Transfer of customer accounts
 
-In order to facilitate the prompt satisfaction of customer claims and the orderly liquidation of the debtor, the trustee may, pursuant to terms satisfactory to him and subject to the prior approval of SIPC, sell or otherwise transfer to another member of SIPC, without consent of any customer, all or any part of the account of a customer of the debtor. In connection with any such sale or transfer to another member of SIPC and subject to the prior approval of SIPC, the trustee may—
+In order to facilitate the prompt satisfaction of customer claims and the orderly liquidation of the debtor, the trustee may, pursuant toterms satisfactory to him and subject to the prior approval of SIPC, sell or otherwise transfer to another member of SIPC, without consent of any customer, all or any part of the account of a customer of the debtor. In connection with any such sale or transfer to another member of SIPC and subject to the prior approval of SIPC, the trustee may—
 
 &emsp;(1) waive or modify the need to file a written statement of claim pursuant to subsection (a)(2) of this section; and
 
-&emsp;(2) enter into such agreements as the trustee considers appropriate under the circumstancesto indemnify any such member of SIPC against shortages of cash or securities in the customer accounts sold or transferred.
+&emsp;(2) enter into such agreements as the trustee considers appropriate under the circumstances to indemnify any such member of SIPC against shortages of cash or securities in the customer accounts sold or transferred.
 
 > The funds of SIPC may be made available to guarantee or secure any indemnification under paragraph (2). The prior approval of SIPC to such indemnification shall be conditioned, among such other standards as SIPC may determine, upon a determination by SIPC that the probable cost of any such indemnification can reasonably be expected not to exceed the cost to SIPC of proceeding under section 78fff–3(a) of this title and section 78fff–3(b) of this title.
 

@@ -2,7 +2,7 @@
 
 The Secretary of the Air Force may spend, from any appropriation for contingent expenses of the Department of the Air Force, amounts necessary to provide medals and devices under sections 8741, 8742, 8743, 8744, 8746, 8747, and 8752 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 541; July 6, 1960, Pub. L. 86–593, §1(5), 74 Stat. 332.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 541; Pub. L. 86–593, §1(5), July 6, 1960, 74 Stat. 332.)
 
 Historical and Revision Notes
 

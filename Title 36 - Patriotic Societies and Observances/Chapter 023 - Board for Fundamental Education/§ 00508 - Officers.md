@@ -1,6 +1,0 @@
-### §508. Officers
-
-The officers of the corporation shall consist of a chairman of the board, a president, one or more vice presidents, a secretary, a treasurer, and such assistant officers as the board of directors shall designate. The officers shall perform such duties and have such powers as the bylaws and the board of directors may from time to time prescribe.
-
-(July 19, 1954, ch. 536, §8, 68 Stat. 491.)
-

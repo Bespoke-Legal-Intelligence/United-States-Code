@@ -24,7 +24,7 @@ Each such entity shall file at least annually with the Secretary a statement whi
 
 &emsp;(2) the costs to such facility of providing health services in such facility, and the charges made for such services, during the period with respect to which the statement is filed.
 
-(July 1, 1944, ch. 373, title XVI, §1625, formerly §1634, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88Stat. 2273; renumbered §1625, Oct. 4, 1979, Pub. L. 96–79, title II, §202(b), 93 Stat. 632.)
+(July 1, 1944, ch. 373, title XVI, §1625, formerly §1634, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2273; renumbered §1625, Pub. L. 96–79, title II, §202(b), Oct. 4, 1979, 93 Stat. 632.)
 
 #### Prior Provisions
 

@@ -50,7 +50,7 @@ In administering the functions of the Administration under this chapter, the Ass
 
 #### (c) Regulations; notice and comment
 
-Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
+Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, infinal form, regulations for the administration of this chapter.
 
 #### (d) Publication of goals
 

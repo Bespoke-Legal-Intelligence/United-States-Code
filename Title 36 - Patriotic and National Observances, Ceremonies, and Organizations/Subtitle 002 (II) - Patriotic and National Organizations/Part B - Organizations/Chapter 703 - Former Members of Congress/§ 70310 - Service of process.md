@@ -1,0 +1,22 @@
+### §70310. Service of process
+
+The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1351.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70310
+
+36:2204.
+
+Jan. 8, 1983, Pub. L. 97–427, §4, 96 Stat. 2265.
+

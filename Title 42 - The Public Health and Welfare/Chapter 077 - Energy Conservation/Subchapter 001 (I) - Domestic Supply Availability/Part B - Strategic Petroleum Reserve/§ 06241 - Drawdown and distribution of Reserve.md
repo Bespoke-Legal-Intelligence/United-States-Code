@@ -72,7 +72,7 @@ The Secretary may permit any importer or refiner who owns any petroleum products
 
 &emsp;(D) below the level of an aggregate of 500,000,000 barrels of petroleum product stored in the Reserve.
 
-(3) During any period in which there is a drawdown and distribution of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and distribution of petroleum products under this subsection and an assessment of its effect.
+(3) During any period in which there is a drawdown and distribution of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and distribution ofpetroleum products under this subsection and an assessment of its effect.
 
 (4) In no case may the drawdown under this subsection be extended beyond 60 days with respect to any domestic energy supply shortage.
 
@@ -80,13 +80,129 @@ The Secretary may permit any importer or refiner who owns any petroleum products
 
 Notwithstanding any other law, the President may permit any petroleum products withdrawn from the Strategic Petroleum Reserve in accordance with this section to be sold and delivered for refining or exchange outside of the United States, in connection with an arrangement for the delivery of refined petroleum products to the United States.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993.)
+#### (j) Purchases from Strategic Petroleum Reserve by entities in insular areas of United States and Freely Associated States
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Binding offer
+
+&emsp;&emsp;The term “binding offer” means a bid submitted by the State of Hawaii for an assured award of a specific quantity of petroleum product, with a price to be calculated pursuant to paragraph (2) of this subsection, that obligates the offeror to take title to the petroleum product without further negotiation or recourse to withdraw the offer.
+
+#### (B) Category of petroleum product
+
+&emsp;&emsp;The term “category of petroleum product” means a master line item within a notice of sale.
+
+#### (C) Eligible entity
+
+&emsp;&emsp;The term “eligible entity” means an entity that owns or controls a refinery that is located within the State of Hawaii.
+
+#### (D) Full tanker load
+
+&emsp;&emsp;The term “full tanker load” means a tanker of approximately 700,000 barrels of capacity, or such lesser tanker capacity as may be designated by the State of Hawaii.
+
+#### (E) Insular area
+
+&emsp;&emsp;The term “insular area” means the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Freely Associated States of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+
+#### (F) Offering
+
+&emsp;&emsp;The term “offering” means a solicitation for bids for a quantity or quantities of petroleum product from the Strategic Petroleum Reserve as specified in the notice of sale.
+
+#### (G) Notice of sale
+
+&emsp;&emsp;The term “notice of sale” means the document that announces—
+
+&emsp;&emsp;&emsp;(i) the sale of Strategic Petroleum Reserve products;
+
+&emsp;&emsp;&emsp;(ii) the quantity, characteristics, and location of the petroleum product being sold;
+
+&emsp;&emsp;&emsp;(iii) the delivery period for the sale; and
+
+&emsp;&emsp;&emsp;(iv) the procedures for submitting offers.
+
+#### (2) In general
+
+&emsp;In the case of an offering of a quantity of petroleum product during a drawdown of the Strategic Petroleum Reserve—
+
+&emsp;&emsp;(A) the State of Hawaii, in addition to having the opportunity to submit a competitive bid, may—
+
+&emsp;&emsp;&emsp;(i) submit a binding offer, and shall on submission of the offer, be entitled to purchase a category of a petroleum product specified in a notice of sale at a price equal to the volumetrically weighted average of the successful bids made for the remaining quantity of the petroleum product within the category that is the subject of the offering; and
+
+&emsp;&emsp;&emsp;(ii) submit one or more alternative offers, for other categories of the petroleum product, that will be binding if no price competitive contract is awarded for the category of petroleum product on which a binding offer is submitted under clause (i); and
+
+&emsp;&emsp;(B) at the request of the Governor of the State of Hawaii, a petroleum product purchased by the State of Hawaii at a competitive sale or through a binding offer shall have first preference in scheduling for lifting.
+
+#### (3) Limitation on quantity
+
+#### (A) In general
+
+&emsp;&emsp;In administering this subsection, in the case of each offering, the Secretary may impose the limitation described in subparagraph (B) or (C) that results in the purchase of the lesser quantity of petroleum product.
+
+#### (B) Portion of quantity of previous imports
+
+&emsp;&emsp;The Secretary may limit the quantity of a petroleum product that the State of Hawaii may purchase through a binding offer at any offering to 1/12 of the total quantity of imports of the petroleum product brought into the State during the previous year (or other period determined by the Secretary to be representative).
+
+#### (C) Percentage of offering
+
+&emsp;&emsp;The Secretary may limit the quantity that may be purchased through binding offers at any offering to 3 percent of the offering.
+
+#### (4) Adjustments
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any limitation imposed under paragraph (3), in administering this subsection, in the case of each offering, the Secretary shall, at the request of the Governor of the State of Hawaii, or an eligible entity certified under paragraph (7), adjust the quantity to be sold to the State of Hawaii in accordance with this paragraph.
+
+#### (B) Upward adjustment
+
+&emsp;&emsp;The Secretary shall adjust upward to the next whole number increment of a full tanker load if the quantity to be sold is—
+
+&emsp;&emsp;&emsp;(i) less than 1 full tanker load; or
+
+&emsp;&emsp;&emsp;(ii) greater than or equal to 50 percent of a full tanker load more than a whole number increment of a full tanker load.
+
+#### (C) Downward adjustment
+
+&emsp;&emsp;The Secretary shall adjust downward to the next whole number increment of a full tanker load if the quantity to be sold is less than 50 percent of a full tanker load more than a whole number increment of a full tanker load.
+
+#### (5) Delivery to other locations
+
+&emsp;The State of Hawaii may enter into an exchange or a processing agreement that requires delivery to other locations, if a petroleum product of similar value or quantity is delivered to the State of Hawaii.
+
+#### (6) Standard sales provisions
+
+&emsp;Except as otherwise provided in this chapter, the Secretary may require the State of Hawaii to comply with the standard sales provisions applicable to purchasers of petroleum products at competitive sales.
+
+#### (7) Eligible entities
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraphs (B) and (C) and notwithstanding any other provision of this paragraph, if the Governor of the State of Hawaii certifies to the Secretary that the State has entered into an agreement with an eligible entity to carry out this chapter, the eligible entity may act on behalf of the State of Hawaii to carry out this subsection.
+
+#### (B) Limitation
+
+&emsp;&emsp;The Governor of the State of Hawaii shall not certify more than one eligible entity under this paragraph for each notice of sale.
+
+#### (C) Barred company
+
+&emsp;&emsp;If the Secretary has notified the Governor of the State of Hawaii that a company has been barred from bidding (either prior to, or at the time that a notice of sale is issued), the Governor shall not certify the company under this paragraph.
+
+#### (8) Supplies of petroleum products
+
+&emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
+
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Section 753 of title 15, referred to in subsec. (e), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
 
 #### Amendments
+
+1998—Subsec. (j). Pub. L. 105–388 added subsec. (j).
 
 1992—Subsec. (d). Pub. L. 102–486, §1401(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -104,9 +220,33 @@ Subsec. (g). Pub. L. 99–58, §103(a), added subsec. (g).
 
 1978—Subsecs. (a), (e), (f). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–388, §9(c), Nov. 13, 1998, 112 Stat. 3484, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on the earlier of—
+
+&emsp;“(1) the date that is 180 days after the date of enactment of this Act \[Nov. 13, 1998\]; or
+
+&emsp;“(2) the date that final regulations are issued under subsection (b) \[set out as a note below\].”
+
+#### Regulations
+
+Pub. L. 105–388, §9(b), Nov. 13, 1998, 112 Stat. 3484, provided that:
+
+“(1)
+
+In general.—The Secretary of Energy shall issue such regulations as are necessary to carry out the amendment made by subsection (a) \[amending this section\].
+
+“(2)
+
+Administrative procedure.—Regulations issued to carry out the amendment made by subsection (a) shall not be subject to—
+
+&emsp;“(A) section 523 of the Energy Policy and Conservation Act (42 U.S.C. 6393); or
+
+&emsp;“(B) section 501 of the Department of Energy Organization Act (42 U.S.C. 7191).”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6239, 6240, 6247 of this title.
+This section is referred to in sections 6234, 6239, 6240, 6247 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

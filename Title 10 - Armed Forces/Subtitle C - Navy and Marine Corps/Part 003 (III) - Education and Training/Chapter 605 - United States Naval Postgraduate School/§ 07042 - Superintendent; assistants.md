@@ -8,7 +8,7 @@
 
 &emsp;(2) the administration of the Postgraduate School.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Dec. 12, 1980, Pub. L. 96–513, title V, §503(53), 94 Stat. 2915.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §503(53), Dec. 12, 1980, 94 Stat. 2915.)
 
 Historical and Revision Notes
 

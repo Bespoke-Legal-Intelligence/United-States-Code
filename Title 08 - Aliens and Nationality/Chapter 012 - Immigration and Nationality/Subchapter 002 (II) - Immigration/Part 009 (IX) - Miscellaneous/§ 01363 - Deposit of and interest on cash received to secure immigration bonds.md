@@ -4,5 +4,5 @@
 
 (b) The interest accruing on cash received by the Attorney General as security on an immigration bond shall be subject to the same disposition as prescribed for the principal cash, except that interest accruing to the date of breach of the immigration bond shall be paid to the obligor on the bond.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §293, as added July 10, 1970, Pub. L. 91–313, §2, 84 Stat. 413.)
+(June 27, 1952, ch. 477, title II, ch. 9, §293, as added Pub. L. 91–313, §2, July 10, 1970, 84 Stat. 413.)
 

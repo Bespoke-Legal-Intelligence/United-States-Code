@@ -4,7 +4,7 @@ Whoever, not being connected with the letter-carrier branch of the Postal Servic
 
 The provisions of the preceding paragraph shall not apply to an actor or actress in a theatrical, television, or motion-picture production who wears the uniform or badge of the letter-carrier branch of the Postal Service while portraying a member of that service.
 
-(June 25, 1948, ch. 645, 62 Stat. 785; July 21, 1968, Pub. L. 90–413, 82 Stat. 396; Aug. 12, 1970, Pub. L. 91–375, §6(j)(35), 84 Stat. 780; Nov. 29, 1990, Pub. L. 101–647, title XII, §1210(a), 104 Stat. 4832; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 90–413, July 21, 1968, 82 Stat. 396; Pub. L. 91–375, §6(j)(35), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XII, §1210(a), Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

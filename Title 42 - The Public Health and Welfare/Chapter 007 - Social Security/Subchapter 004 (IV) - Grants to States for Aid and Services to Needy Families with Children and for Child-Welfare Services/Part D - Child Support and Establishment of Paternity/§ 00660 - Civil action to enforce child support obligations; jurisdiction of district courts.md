@@ -2,7 +2,7 @@
 
 The district courts of the United States shall have jurisdiction, without regard to any amount in controversy, to hear and determine any civil action certified by the Secretary of Health and Human Services under section 652(a)(8) of this title. A civil action under this section may be brought in any judicial district in which the claim arose, the plaintiff resides, or the defendant resides.
 
-(Aug. 14, 1935, ch. 531, title IV, §460, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2358; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(B)(xi), 98 Stat. 1170.)
+(Aug. 14, 1935, ch. 531, title IV, §460, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2358; amended Pub. L. 98–369, div. B, title VI, §2663(j)(2)(B)(xi), July 18, 1984, 98 Stat. 1170.)
 
 #### Amendments
 

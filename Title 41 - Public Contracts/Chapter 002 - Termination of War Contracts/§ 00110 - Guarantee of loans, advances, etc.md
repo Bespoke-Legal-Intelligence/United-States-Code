@@ -4,9 +4,9 @@
 
 Any contracting agency is authorized—
 
-&emsp;(1) to enter into contracts with any Federal Reserve bank, or other public or private financing institution, guaranteeing such financing institution against loss of principal or interest on loans, discounts, or advances or on commitments in connection therewith, which such financing institution may make to any war contractor or to any person who is or has been engaged in performing any operation deemed by such contracting agency to be connected with or related to war production, for the purpose of financing such war contractor or other person in connection with or in contemplation of the termination of one or more such war contracts or operations; and
+&emsp;(1) to enter into contracts with any Federal Reserve bank, or other public or private financing institution, guaranteeing such financing institution against loss of principal or interest on loans, discounts, or advances or on commitments in connection therewith, which such financing institution may make to any war contractor or to any person who is or has been engaged in performing any operation deemed by such contracting agency to be connected with or related to war production, forthe purpose of financing such war contractor or other person in connection with or in contemplation of the termination of one or more such war contracts or operations; and
 
-&emsp;(2) to make, enter into contracts to make, or to participate with any Government agency,any Federal Reserve bank or public or private financing institution in making loans, discounts, or advances, or commitments in connection therewith, for the purpose of financing any such war contractor or other person in connection with or in contemplation of the termination of such war contracts or operations.
+&emsp;(2) to make, enter into contracts to make, or to participate with any Government agency, any Federal Reserve bank or public or private financing institution in making loans, discounts, or advances, or commitments in connection therewith, for the purpose of financing any such war contractor or other person in connection with or in contemplation of the termination of such war contracts or operations.
 
 #### (b) By assignment
 

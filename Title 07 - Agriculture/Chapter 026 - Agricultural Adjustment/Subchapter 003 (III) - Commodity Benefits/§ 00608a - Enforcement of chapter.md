@@ -22,7 +22,7 @@ The remedies provided for in this section shall be in addition to, and not exclu
 
 The term “person” as used in this chapter includes an individual, partnership, corporation, association, and any other business unit.
 
-(May 12, 1933, ch. 25, title I, §8a, as added May 9, 1934, ch. 263, §4, 48 Stat. 672; amended Aug. 24, 1935, ch. 641, §§8–10, 49 Stat. 762; June 3, 1937, ch. 296, §§1, 2(c), 50 Stat. 246, 247; June 25, 1948, ch. 646, §1, 62 Stat. 909; Aug. 8, 1961, Pub. L. 87–128, title I, §141(2), 75 Stat. 304.)
+(May 12, 1933, ch. 25, title I, §8a, as added May 9, 1934, ch. 263, §4, 48 Stat. 672; amended Aug. 24, 1935, ch. 641, §§8–10, 49 Stat. 762; June 3, 1937, ch. 296, §§1, 2(c), 50 Stat. 246, 247; June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 87–128, title I, §141(2), Aug. 8, 1961, 75 Stat. 304.)
 
 #### Codification
 

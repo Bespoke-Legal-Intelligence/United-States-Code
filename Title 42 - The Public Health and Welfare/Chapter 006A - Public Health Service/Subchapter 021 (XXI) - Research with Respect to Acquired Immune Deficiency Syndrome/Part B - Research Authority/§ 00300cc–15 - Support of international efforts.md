@@ -44,7 +44,7 @@ The Secretary may not make a grant or enter into a cooperative agreement or cont
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
 
-(July 1, 1944, ch. 373, title XXIII, §2315, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3070; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(18), 106 Stat. 3505; June 10, 1993, Pub. L. 103–43, title XVIII, §1811(3), 107 Stat. 199.)
+(July 1, 1944, ch. 373, title XXIII, §2315, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3070; amended Pub. L. 102–531, title III, §312(d)(18), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XVIII, §1811(3), June 10, 1993, 107 Stat. 199.)
 
 #### Prior Provisions
 

@@ -22,7 +22,7 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (C) Substantial actuarial value for additional services included in benchmark package
 
-&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+&emsp;&emsp;With respect to each of the categories of additional services described in subsection\(c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
 
 #### (3) Existing comprehensive State-based coverage
 
@@ -180,7 +180,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;Coverage offered under this section shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–4 et seq.\] insofar as such requirements apply with respect to a health insurance issuer that offers group health insurance coverage.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 554.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554.)
 
 #### References in Text
 

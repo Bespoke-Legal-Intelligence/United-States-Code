@@ -176,7 +176,7 @@ Par. (6)(B). Pub. L. 96–151, §201(b)(3), substituted “travel and incidental
 
 Par. (4)(C). Pub. L. 94–581, §202(b)(2), inserted “when facilities described in clause (A) or (B) of this paragraph are not capable of furnishing economical care because of geographical inaccessibility or of furnishing the care or services required” after “contracts” in provisions preceding subcl. (i), substituted “to a veteran for the treatment of a service-connected disability or a disability for which a veteran was discharged” for “for persons suffering from service-connected disabilities or from disabilities for which such persons were discharged” in subcl. (i), added subcls. (ii) and (iii), redesignated former subcls. (ii) and (iii) as (iv) and (v), respectively, and in subcl. (v) as so redesignated, substituted “subclause (v)” for “clause (iii)”.
 
-Par. (5)(A)(ii). Pub. L. 94–581, §202(b)(3), substituted “pursuant to the provisions of section 111 of this title” for “for any veteran who is in need of treatment for a service-connected disability or who is unable to defray the expense of transportation”.
+Par. (5)(A)(ii). Pub. L. 94–581, §202(b)(3), substituted “pursuant to the provisions of section 111 of this title”for “for any veteran who is in need of treatment for a service-connected disability or who is unable to defray the expense of transportation”.
 
 Par. (5)(B). Pub. L. 94–581, §102(1), substituted “for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title; and” for “(including (i) necessary expenses for transportation if unable to defray such expenses; or (ii) necessary expenses of transportation and subsistence in the case of a veteran who is receiving care for a service-connected disability, or in the case of a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title, under the terms and conditions set forth in section 111 of this title) of the members of the immediate family (including legal guardians) of a veteran or such a dependent or survivor of a veteran, or in the case of a veteran or such dependent or survivor of a veteran who has no immediate family members (or legal guardian), the person in whose household such veteran, or such a dependent or survivor certifies his intention to live, as may be necessary or appropriate to the effective treatment and rehabilitation of a veteran or such a dependent or a survivor of a veteran; and”.
 
@@ -232,7 +232,7 @@ Section 1104 of Pub. L. 103–446 directed Secretary of Veterans Affairs to subm
 
 #### Contract Health Care; Ratification of Action of Administrator of Veterans’ Affairs
 
-Section 103(b) of Pub. L. 98–528 ratified actions by Administrator of Veterans’ Affairs in entering into contracts applicable to the period beginning Oct. 1, 1984, and ending Oct. 19, 1984, for care described in par. (4)(C)(v) of this section and in making waivers described in that provision.
+Section 103(b) of Pub. L. 98–528 ratified actions by Administrator of Veterans’ Affairs in entering into contracts applicable to the period beginning Oct. 1, 1984,and ending Oct. 19, 1984, for care described in par. (4)(C)(v) of this section and in making waivers described in that provision.
 
 #### Administration Capability To Provide Appropriate Care for Gender-Specific Disabilities of Women Veterans
 
@@ -248,5 +248,5 @@ Section 8 of Pub. L. 95–520, as amended by Pub. L. 96–330, title IV, §407, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1151, 1712A, 2303, 7318, 8111, 8111A, 8152 of this title.
+This section is referred to in sections 1151, 1712A, 2303, 7318, 8111, 8111A, 8152 of this title; title 10 section 2641a.
 

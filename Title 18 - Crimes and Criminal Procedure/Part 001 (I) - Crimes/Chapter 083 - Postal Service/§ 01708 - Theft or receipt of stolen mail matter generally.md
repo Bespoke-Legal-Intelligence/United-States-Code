@@ -8,7 +8,7 @@ Whoever buys, receives, or conceals, or unlawfully has in his possession, any le
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, §39, 63 Stat. 95; July 1, 1952, ch. 535, 66 Stat. 314; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 779; May 24, 1949, ch. 139, §39, 63 Stat. 95; July 1, 1952, ch. 535, 66 Stat. 314; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

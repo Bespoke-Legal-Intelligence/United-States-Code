@@ -8,7 +8,7 @@ A proceeding for the development of a consumer product safety rule shall be comm
 
 &emsp;(2) include a summary of each of the regulatory alternatives under consideration by the Commission (including voluntary consumer product safety standards);
 
-&emsp;(3) include information with respect to any existing standard known to the Commission which may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that such standard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
+&emsp;(3) include information with respect to any existing standard known to the Commissionwhich may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that such standard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
 
 &emsp;(4) invite interested persons to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days or more than 60 days after the date of publication of the notice), comments with respect to the risk of injury identified by the Commission, the regulatory alternatives being considered, and other possible alternatives for addressing the risk;
 
@@ -16,7 +16,7 @@ A proceeding for the development of a consumer product safety rule shall be comm
 
 &emsp;(6) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify or develop a voluntary consumer product safety standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
 
-> The Commission shall transmit such notice within 10 calendar days to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (b) Voluntary standard; publication as proposed rule; notice of reliance of Commission on standard
 
@@ -136,7 +136,7 @@ Subsec. (c). Pub. L. 97–35 amended subsec. (c) generally, substituting provisi
 
 Subsec. (d). Pub. L. 97–35 amended subsec. (d) generally, substituting provisions relating to the time for promulgation of the rule in accordance with section 553 of title 5 or withdrawal of the applicable notice for provisions relating to the effective dates for rules and standards and the authority of the Commission to prohibit stockpiling.
 
-Subsec. (e). Pub. L. 97–35 amended subsec. (e) generally, substituting provisions relating to the requirement that the consumer product safety rule express the risk of injury which is to be eliminated or reduced andrequiring, that in promulgating the rule, the Commission to consider available product data and the needs of the elderly and handicapped persons for provisions relating to the amendment and revocation of rules.
+Subsec. (e). Pub. L. 97–35 amended subsec. (e) generally, substituting provisions relating to the requirement that the consumer product safety rule express the risk of injury which is to be eliminated or reduced and requiring, that in promulgating the rule, the Commission to consider available product data and the needs of the elderly and handicapped persons for provisions relating to the amendment and revocation of rules.
 
 Subsecs. (f) to (h). Pub. L. 97–35 added subsecs. (f) to (h).
 

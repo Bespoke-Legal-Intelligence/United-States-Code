@@ -6,7 +6,7 @@ Before assuming the duties of his office or employment, each member of the Board
 
 #### (b) Adoption of code of conduct; time limit; contents
 
-Not later than 60 days after all the members of the Board of the Commission have been appointed, the Board shall adopt a code of conduct applicable to the persons referred to in subsection (a) of this section. The code of conduct shall contain provisions substantially equivalent to those contained in part 735 of title 5 of the Code of Federal Regulations on October 1, 1979. The code of conduct shall, at a minimum, contain provisions substantially equivalent to the following provisions of law:
+Not later than 60 days after all the members of the Board of the Commission have been appointed, the Board shall adopt a code of conductapplicable to the persons referred to in subsection (a) of this section. The code of conduct shall contain provisions substantially equivalent to those contained in part 735 of title 5 of the Code of Federal Regulations on October 1, 1979. The code of conduct shall, at a minimum, contain provisions substantially equivalent to the following provisions of law:
 
 &emsp;(1) the provisions of chapter 11 of title 18, relating to bribery, graft, or conflicts of interest, as appropriate to the employees concerned;
 
@@ -22,7 +22,7 @@ Not later than 60 days after all the members of the Board of the Commission have
 
 #### (c) Investigations by Commission respecting violations; recommendations for suspension
 
-The Commission shall investigate any allegations regarding the violation of the code of conduct adopted pursuant to subsection (b) of this section. The Commission may recommend thatthe President suspend from the performance of his duties any member of the Board of the Commission or any officer or employee of the Commission, pending judicial proceedings by appropriate authorities concerning such allegations.
+The Commission shall investigate any allegations regarding the violation of the code of conduct adopted pursuant to subsection (b) of this section. The Commission may recommend that the President suspend from the performance of his duties any member of the Board of the Commission or any officer or employee of the Commission, pending judicial proceedings by appropriate authorities concerning such allegations.
 
 #### (d) Measures to insure compliance with code of conduct
 

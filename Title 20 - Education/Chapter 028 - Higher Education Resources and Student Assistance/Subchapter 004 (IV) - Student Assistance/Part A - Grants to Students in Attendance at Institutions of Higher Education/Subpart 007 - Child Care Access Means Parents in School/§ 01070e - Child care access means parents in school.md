@@ -1,0 +1,144 @@
+### §1070e. Child care access means parents in school
+
+#### (a) Purpose
+
+The purpose of this section is to support the participation of low-income parents in postsecondary education through the provision of campus-based child care services.
+
+#### (b) Program authorized
+
+#### (1) Authority
+
+&emsp;The Secretary may award grants to institutions of higher education to assist the institutions in providing campus-based child care services to low-income students.
+
+#### (2) Amount of grants
+
+#### (A) In general
+
+&emsp;&emsp;The amount of a grant awarded to an institution of higher education under this section for a fiscal year shall not exceed 1 percent of the total amount of all Federal Pell Grant funds awarded to students enrolled at the institution of higher education for the preceding fiscal year.
+
+#### (B) Minimum
+
+&emsp;&emsp;A grant under this section shall be awarded in an amount that is not less than $10,000.
+
+#### (3) Duration; renewal; and payments
+
+#### (A) Duration
+
+&emsp;&emsp;The Secretary shall award a grant under this section for a period of 4 years.
+
+#### (B) Payments
+
+&emsp;&emsp;Subject to subsection (e)(2) of this section, the Secretary shall make annual grant payments under this section.
+
+#### (4) Eligible institutions
+
+&emsp;An institution of higher education shall be eligible to receive a grant under this section for a fiscal year if the total amount of all Federal Pell Grant funds awarded to students enrolled at the institution of higher education for the preceding fiscal year equals or exceeds $350,000.
+
+#### (5) Use of funds
+
+&emsp;Grant funds under this section shall be used by an institution of higher education to support or establish a campus-based child care program primarily serving the needs of low-income students enrolled at the institution of higher education. Grant funds under this section may be used to provide before and after school services to the extent necessary to enable low-income students enrolled at the institution of higher education to pursue postsecondary education.
+
+#### (6) Construction
+
+&emsp;Nothing in this section shall be construed to prohibit an institution of higher education that receives grant funds under this section from serving the child care needs of the community served by the institution.
+
+#### (7) Definition of low-income student
+
+&emsp;For the purpose of this section, the term “low-income student” means a student who is eligible to receive a Federal Pell Grant for the fiscal year for which the determination is made.
+
+#### (c) Applications
+
+An institution of higher education desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall—
+
+&emsp;(1) demonstrate that the institution is an eligible institution described in subsection (b)(4) of this section;
+
+&emsp;(2) specify the amount of funds requested;
+
+&emsp;(3) demonstrate the need of low-income students at the institution for campus-based child care services by including in the application—
+
+&emsp;&emsp;(A) information regarding student demographics;
+
+&emsp;&emsp;(B) an assessment of child care capacity on or near campus;
+
+&emsp;&emsp;(C) information regarding the existence of waiting lists for existing child care;
+
+&emsp;&emsp;(D) information regarding additional needs created by concentrations of poverty or by geographic isolation; and
+
+&emsp;&emsp;(E) other relevant data;
+
+&emsp;(4) contain a description of the activities to be assisted, including whether the grant fundswill support an existing child care program or a new child care program;
+
+&emsp;(5) identify the resources, including technical expertise and financial support, the institution will draw upon to support the child care program and the participation of low-income students in the program, such as accessing social services funding, using student activity fees to help pay the costs of child care, using resources obtained by meeting the needs of parents who are not low-income students, and accessing foundation, corporate or other institutional support, and demonstrate that the use of the resources will not result in increases in student tuition;
+
+&emsp;(6) contain an assurance that the institution will meet the child care needs of low-income students through the provision of services, or through a contract for the provision of services;
+
+&emsp;(7) describe the extent to which the child care program will coordinate with the institution's early childhood education curriculum, to the extent the curriculum is available, to meet the needs of the students in the early childhood education program at the institution, and the needs of the parents and children participating in the child care program assisted under this section;
+
+&emsp;(8) in the case of an institution seeking assistance for a new child care program—
+
+&emsp;&emsp;(A) provide a timeline, covering the period from receipt of the grant through the provision of the child care services, delineating the specific steps the institution will take to achieve the goal of providing low-income students with child care services;
+
+&emsp;&emsp;(B) specify any measures the institution will take to assist low-income students with child care during the period before the institution provides child care services; and
+
+&emsp;&emsp;(C) include a plan for identifying resources needed for the child care services, including space in which to provide child care services, and technical assistance if necessary;
+
+&emsp;(9) contain an assurance that any child care facility assisted under this section will meet the applicable State or local government licensing, certification, approval, or registration requirements; and
+
+&emsp;(10) contain a plan for any child care facility assisted under this section to become accredited within 3 years of the date the institution first receives assistance under this section.
+
+#### (d) Priority
+
+The Secretary shall give priority in awarding grants under this section to institutions of higher education that submit applications describing programs that—
+
+&emsp;(1) leverage significant local or institutional resources, including in-kind contributions, to support the activities assisted under this section; and
+
+&emsp;(2) utilize a sliding fee scale for child care services provided under this section in order to support a high number of low-income parents pursuing postsecondary education at the institution.
+
+#### (e) Reporting requirements; continuing eligibility
+
+#### (1) Reporting requirements
+
+#### (A) Reports
+
+&emsp;&emsp;Each institution of higher education receiving a grant under this section shall report to the Secretary 18 months, and 36 months, after receiving the first grant payment under this section.
+
+#### (B) Contents
+
+&emsp;&emsp;The report shall include—
+
+&emsp;&emsp;&emsp;(i) data on the population served under this section;
+
+&emsp;&emsp;&emsp;(ii) information on campus and community resources and funding used to help low-income students access child care services;
+
+&emsp;&emsp;&emsp;(iii) information on progress made toward accreditation of any child care facility; and
+
+&emsp;&emsp;&emsp;(iv) information on the impact of the grant on the quality, availability, and affordability of campus-based child care services.
+
+#### (2) Continuing eligibility
+
+&emsp;The Secretary shall make the third annual grant payment under this section to an institution of higher education only if the Secretary determines, on the basis of the 18-month report submitted under paragraph (1), that the institution is making a good faith effort to ensure that low-income students at the institution have access to affordable, quality child care services.
+
+#### (f) Construction
+
+No funds provided under this section shall be used for construction, except for minor renovation or repair to meet applicable State or local health or safety requirements.
+
+#### (g) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section $45,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+
+(Pub. L. 89–329, title IV, §419N, as added Pub. L. 105–244, title IV, §410, Oct. 7, 1998, 112 Stat. 1668.)
+
+#### Prior Provisions
+
+A prior section 1070e, Pub. L. 89–329, title IV, §420, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1346, related to payments to institutions of higher education, prior to repeal by Pub. L. 102–325, title IV, §407, July 23, 1992, 106 Stat. 510.
+
+Another prior section 1070e, Pub. L. 89–329, title IV, §420, formerly §419, as added Pub. L. 92–318, title X, §1001(a), June 23, 1972, 86 Stat. 375; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; renumbered Pub. L. 98–558, title VIII, §801(b)(1), Oct. 30, 1984, 98 Stat. 2902, related to payments to institutions of higher education, prior to the general amendment of this part by Pub. L. 99–498.
+
+A prior section 1070e–1, Pub. L. 89–329, title IV, §420A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1348; amended Pub. L. 100–50, §8, June 3, 1987, 101 Stat. 341; Pub. L. 102–54, §13(g)(2), June 13, 1991, 105 Stat. 275; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to veterans education outreach program, prior to repeal by Pub. L. 102–325, title IV, §408, July 23, 1992, 106 Stat. 510.
+
+Another prior section 1070e–1, Pub. L. 89–329, title IV, §420A, formerly §420, as added Pub. L. 92–318, title X, §1001(a), June 23, 1972, 86 Stat. 378; amended Pub. L. 93–380, title VIII, §834(a), Aug. 21, 1974, 88 Stat. 604; Pub. L. 94–482, title I, §126(a)–(c), Oct. 12, 1976, 90 Stat. 2098; Pub. L. 95–336, §6(a), Aug. 4, 1978, 92 Stat. 453; Pub. L. 96–49, §5(a)(7), Aug. 13, 1979, 93 Stat. 352; Pub. L. 96–374, title IV, §407, Oct. 3, 1980, 94 Stat. 1412; Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357; renumbered §420A, Pub. L. 98–558, title VIII, §801(b)(2), Oct. 30, 1984, 98 Stat. 2902, related to veterans’ cost-of-instruction payments to institutions of higher education, prior to the general amendment of this part by Pub. L. 99–498.
+
+#### Effective Date
+
+Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
+

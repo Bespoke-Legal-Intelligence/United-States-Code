@@ -34,7 +34,7 @@ Such contributions may be in the form of—
 
 &emsp;(6) up to—
 
-&emsp;&emsp;(A) 50 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a multifamily affordable housing project financed, and
+&emsp;&emsp;(A) 50 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentalitythereof, or political subdivision thereof, and repayable with revenues derived from a multifamily affordable housing project financed, and
 
 &emsp;&emsp;(B) 25 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a single-family project financed,
 

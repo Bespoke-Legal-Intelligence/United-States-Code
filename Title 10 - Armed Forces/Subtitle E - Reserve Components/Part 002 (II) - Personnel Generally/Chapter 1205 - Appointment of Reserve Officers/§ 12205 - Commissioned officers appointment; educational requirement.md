@@ -52,3 +52,15 @@ Subsec. (b)(5). Pub. L. 103–337, §520(a), added par. (5).
 
 Subsec. (c). Pub. L. 103–337, §519(2), added subsec. (c).
 
+#### Authority for Temporary Waiver for Certain Army Reserve Officers of Baccalaureate Degree Requirement for Promotion of Reserve Officers
+
+Pub. L. 105–261, div. A, title V, §516, Oct. 17, 1998, 112 Stat. 2008, provided that:
+
+“(a)
+
+Waiver Authority for Army OCS Graduates.—The Secretary of the Army may waive the applicability of section 12205(a) of title 10, United States Code, to any officer who before the date of the enactment of thisAct \[Oct. 17, 1998\] was commissioned through the Army Officer Candidate School. Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than 2 years after the waiver is granted. The Secretary may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
+
+“(b)
+
+Expiration of Authority.—A waiver under this section may not be granted after September 30, 2000.”
+

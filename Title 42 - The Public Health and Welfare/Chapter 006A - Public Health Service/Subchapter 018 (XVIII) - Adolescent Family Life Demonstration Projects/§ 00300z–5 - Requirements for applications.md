@@ -58,7 +58,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(19) assurances that fees collected by the applicant for services rendered in accordance with this subchapter shall be used by the applicant to further the purposes of this subchapter;
 
-&emsp;(20) assurances that the applicant, if providing both prevention and care services will not exclude or discriminate against any adolescent who receives prevention services and subsequently requires care services as a pregnant adolescent;
+&emsp;(20) assurances that the applicant, if providing both prevention and care services will notexclude or discriminate against any adolescent who receives prevention services and subsequently requires care services as a pregnant adolescent;
 
 &emsp;(21) a description of how the applicant will, as appropriate in the provision of services—
 
@@ -92,7 +92,7 @@ An application for a grant for a demonstration project for services under this s
 
 (1) Each grantee which receives funds for a demonstration project for services under this subchapter shall expend at least 1 per centum but not in excess of 5 per centum of the amounts received under this subchapter for the conduct of evaluations of the services supported under this subchapter. The Secretary may, for a particular grantee upon good cause shown, waive the provisions of the preceding sentence with respect to the amounts to be expended on evaluations, but may not waive the requirement that such evaluations be conducted.
 
-(2) Evaluations required by paragraph (1) shall be conducted by an organization or entity which is independent of the grantee providing servicessupported under this subchapter. To assist in conducting the evaluations required by paragraph (1), each grantee shall develop a working relationship with a college or university located in the grantee's State which will provide or assist in providing monitoring and evaluation of services supported under this subchapter unless no college or university in the grantee's State is willing or has the capacity to provide or assist in providing such monitoring and assistance.
+(2) Evaluations required by paragraph (1) shall be conducted by an organization or entity which is independent of the grantee providing services supported under this subchapter. To assist in conducting the evaluations required by paragraph (1), each grantee shall develop a working relationship with a college or university located in the grantee's State which will provide or assist in providing monitoring and evaluation of services supported under this subchapter unless no college or university in the grantee's State is willing or has the capacity to provide or assist in providing such monitoring and assistance.
 
 (3) The Secretary may provide technical assistance with respect to the conduct of evaluations required under this subsection to any grantee which is unable to develop a working relationship with a college or university in the applicant's State for the reasons described in paragraph (2).
 
@@ -114,7 +114,7 @@ Each applicant shall provide the Governor of the State in which the applicant is
 
 No application submitted for a grant for a demonstration project for care services under this subchapter may be approved unless the Secretary is satisfied that core services shall be available through the applicant within a reasonable time after such grant is received.
 
-(July 1, 1944, ch. 373, title XX, §2006, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §955(a), 95 Stat. 585.)
+(July 1, 1944, ch. 373, title XX, §2006, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 585.)
 
 #### References in Text
 

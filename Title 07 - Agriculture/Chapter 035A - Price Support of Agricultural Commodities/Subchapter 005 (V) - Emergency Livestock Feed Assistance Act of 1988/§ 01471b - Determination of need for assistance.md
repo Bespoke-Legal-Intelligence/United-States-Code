@@ -18,7 +18,7 @@ The Secretary shall act on requests for determinations under subsection (a) of t
 
 Notwithstanding the preceding provisions of this section, any State, county, or area determined eligible, due to drought or related conditions in 1988, for the emergency feed program or emergency feed assistance program conducted prior to the effective date of this subchapter shall continue to be eligible for such programs and may be eligible for other programs under this subchapter for such drought or related condition. As soon as practicable after the effective date of this subchapter, the Secretary shall determine whether any of the programs described in section 1471d of this title, other than the emergency feed program under section 1471d(a)(4) of this title and the emergency feed assistance program under section 1471d(a)(2) of this title, or in section 1471e of this title should be made available in such State, county, or area. If the Secretary makes such determination, the Secretary shall make such programs immediately available to livestock producers in the State, county, or area.
 
-(Oct. 31, 1949, ch. 792, title VI, §604, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 927.)
+(Oct. 31, 1949, ch. 792, title VI, §604, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 927.)
 
 #### References in Text
 
@@ -26,7 +26,7 @@ The effective date of this subchapter, referred to in subsec. (d), is 15 days af
 
 #### Effective Date
 
-Section effective 15 days after Aug. 11, 1988, with subsec. (d) of this section applicable only with respect to any livestock emergency in 1988, see section 101(c) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
+Section effective 15 days after Aug. 11, 1988, with subsec. (d) of this section applicable only with respect toany livestock emergency in 1988, see section 101(c) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
 #### Inapplicability of Section
 

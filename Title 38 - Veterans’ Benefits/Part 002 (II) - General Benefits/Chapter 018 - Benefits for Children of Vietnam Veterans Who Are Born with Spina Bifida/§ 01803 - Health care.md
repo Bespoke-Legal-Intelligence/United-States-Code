@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the provision of such pharmaceuticals, supplies, equipment, devices, appliances, assistive technology, direct transportation costs to and from approved sources of health care, and other materials as the Secretary determines necessary.
 
-&emsp;(2) The term “health care provider” includes specialized spina bifida clinics, health care plans, insurers, organizations, institutions, and any other entity or individual who furnishes health care that the Secretary determines <sup>1</sup> authorized under this section.
+&emsp;(2) The term “health care provider” includes specialized spina bifida clinics, health care plans, insurers, organizations, institutions, and any other entity or individual furnishing health care services that the Secretary determines are authorized under this section.
 
 &emsp;(3) The term “home care” means outpatient care, habilitative and rehabilitative care, preventive health services, and health-related services furnished to an individual in the individual's home or other place of residence.
 
@@ -32,11 +32,13 @@
 
 &emsp;(9) The term “respite care” means care furnished on an intermittent basis for a limited period to an individual who resides primarily in a private residence when such care will help the individual to continue residing in such private residence.
 
-(Added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Stat. 2923.)
+(Added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Stat. 2923; amended Pub. L. 105–368, title X, §1005(b)(4), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Prior Provisions
 
 A prior section 1803 was renumbered section 3703 of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–368 substituted “furnishing health care services that the Secretary determines are authorized” for “who furnishes health care that the Secretary determines authorized”.
 

@@ -40,7 +40,7 @@
 
 #### (c) Civil actions for response costs and damages
 
-The Attorney General, upon request of the Secretary, may commence a civil action in theUnited States district court for the appropriate district against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+The Attorney General, upon request of the Secretary, may commence a civil action in the United States district court for the appropriate district against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
 
 #### (d) Use of recovered amounts
 

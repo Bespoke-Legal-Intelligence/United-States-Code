@@ -44,7 +44,7 @@ Section 3774, Pub. L. 90–351, title I, §704, as added Pub. L. 96–157, §2, 
 
 A prior section 704 of Pub. L. 96–351, title I, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1347, provided for the administration of the program of public safety officers’ death benefits and was classified to former section 3796c of this title, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-Section 3775, Pub. L. 90–351, title I, §705, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1199; amended Pub. L. 96–88, title III, §§301(a)(1), 305, title V, §507, Oct.17, 1979, 93 Stat. 677, 680, 692, authorized a criminal justice education program.
+Section 3775, Pub. L. 90–351, title I, §705, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1199; amended Pub. L. 96–88, title III, §§301(a)(1), 305, title V, §507, Oct. 17, 1979, 93 Stat. 677, 680, 692, authorized a criminal justice education program.
 
 For other prior sections 3772 to 3774, see note set out preceding section 3750 of this title.
 
@@ -54,9 +54,11 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 #### Annual Outstanding Student Award
 
-Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1275, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
+Pub. L. 105–277, div. A, §101(h) \[title I\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–483, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1275.
 
 Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–317.
 

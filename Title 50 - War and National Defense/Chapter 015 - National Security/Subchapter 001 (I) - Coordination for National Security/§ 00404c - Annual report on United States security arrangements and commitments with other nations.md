@@ -42,7 +42,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 1996—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(C)(i), substituted “shall submit to the congressional committees specified in subsection (d) of this section each year” for “shall submit to the Committees on Armed Services and on Foreign Affairs of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate each year”.
 
-Subsec. (c). Pub. L. 104–106, §1502(c)(4)(C)(ii), substituted “The President” for “(1) Except as provided in paragraph (2), the President” and struck out par. (2) which read as follows: “In the case of the report required to be submitted in 1991, the evaluation, plan,and assessment referred to in paragraphs (2), (3), and (4) of subsection (b) of this section may be submitted not later than May 1, 1991.”
+Subsec. (c). Pub. L. 104–106, §1502(c)(4)(C)(ii), substituted “The President” for “(1) Except as provided in paragraph (2), the President” and struck out par. (2) which read as follows: “In the case of the report required to be submitted in 1991, the evaluation, plan, and assessment referred to in paragraphs (2), (3), and (4) of subsection (b) of this section may be submitted not later than May 1, 1991.”
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(C)(iii), added subsec. (d).
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

@@ -10,7 +10,7 @@
 
 (b) Any Federal agency (including any wholly owned Government corporation) having under its jurisdiction lands across which run any part of a utility system for housing under the jurisdiction of the Secretary is authorized to grant to the Secretary, or to the purchasers or transferees of such housing, easements (which may be perpetual) on such land for utility purposes.
 
-(June 28, 1948, ch. 688, §2, 62 Stat. 1063; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
+(June 28, 1948, ch. 688, §2, 62 Stat. 1063; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
 #### Codification
 

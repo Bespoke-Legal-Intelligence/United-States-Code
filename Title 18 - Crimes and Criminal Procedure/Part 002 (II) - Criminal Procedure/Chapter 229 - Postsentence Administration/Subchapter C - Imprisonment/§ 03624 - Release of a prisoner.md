@@ -16,7 +16,7 @@ Credit Toward Service of Sentence for Satisfactory Behavior.—(1) Subject to pa
 
 (c)
 
-Pre-Release Custody.—The Bureau of Prisons shall, to the extent practicable, assurethat a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner's re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.
+Pre-Release Custody.—The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner's re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody.
 
 (d)
 
@@ -72,7 +72,7 @@ Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second senten
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(C)\], in third sentence substituted “Subject to paragraph (2), if the Bureau” for “If the Bureau”.
 
-Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(D)\], in fourth sentence substituted “In awarding credit underthis section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau's determination shall be made within fifteen days after the end of each year of the sentence.”
+Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(D)\], in fourth sentence substituted “In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree.” for “The Bureau's determination shall be made within fifteen days after the end of each year of the sentence.”
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(E)\], in sixth sentence substituted “Subject to paragraph (2), credit for the last” for “Credit for the last”.
 

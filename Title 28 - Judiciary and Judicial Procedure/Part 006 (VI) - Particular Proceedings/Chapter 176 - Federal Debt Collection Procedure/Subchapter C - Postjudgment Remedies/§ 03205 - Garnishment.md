@@ -28,7 +28,7 @@ Proper garnishee for particular property.—
 
 &emsp;&emsp;(C) If the property or a debt is evidenced by a negotiable instrument for the payment of money, a negotiable document of title or a certificate of stock of an association or corporation, the instrument, document, or certificate shall be treated as property capable of delivery and the person holding it shall be the garnishee, except that—
 
-&emsp;&emsp;&emsp;(i) subject to clause (ii), in the case of a security which is transferable in the manner set forth in State law, the entity that carries on its books an account in thename of the debtor in which is reflected such security shall be the garnishee; and
+&emsp;&emsp;&emsp;(i) subject to clause (ii), in the case of a security which is transferable in the manner set forth in State law, the entity that carries on its books an account in the name of the debtor in which is reflected such security shall be the garnishee; and
 
 &emsp;&emsp;&emsp;(ii) notwithstanding clause (i), the pledgee shall be the garnishee if such security is pledged.
 
@@ -58,7 +58,7 @@ Form of writ.—The writ shall state—
 
 &emsp;(3)
 
-Service of writ.—The United States shall serve the garnishee and the judgment debtor with a copy of the writ of garnishment and shall certify to the court that this service was made. The writ shall be accompanied by—
+Service of writ.—The United States shall serve the garnishee and the judgmentdebtor with a copy of the writ of garnishment and shall certify to the court that this service was made. The writ shall be accompanied by—
 
 &emsp;&emsp;(A) an instruction explaining the requirement that the garnishee submit a written answer to the writ; and
 
@@ -106,7 +106,7 @@ Termination of garnishment.—A garnishment under this chapter is terminated onl
 
 &emsp;&emsp;(A) a court order quashing the writ of garnishment;
 
-&emsp;&emsp;(B) exhaustion of property in the possesion,<sup>1</sup> custody, or control of the garnishee in which the debtor has a substantial nonexempt interest (including nonexempt disposable earnings), unless the garnishee reinstates or reemploys the judgment debtorwithin 90 days after the judgment debtor's dismissal or resignation; or
+&emsp;&emsp;(B) exhaustion of property in the possesion,<sup>1</sup> custody, or control of the garnishee in which the debtor has a substantial nonexempt interest (including nonexempt disposable earnings), unless the garnishee reinstates or reemploys the judgment debtor within 90 days after the judgment debtor's dismissal or resignation; or
 
 &emsp;&emsp;(C) satisfaction of the debt with respect to which the writ is issued.
 

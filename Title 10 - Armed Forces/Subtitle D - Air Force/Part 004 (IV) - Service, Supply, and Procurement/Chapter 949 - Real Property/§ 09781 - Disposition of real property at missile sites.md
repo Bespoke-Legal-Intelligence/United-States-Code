@@ -30,7 +30,7 @@
 
 (c) The Administrator shall determine the fair market value of the interest of the United States to be conveyed under this section.
 
-(d) The requirement to determine whether any tract of land described in subsection (a)(2) is excess property or surplus property under title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.) beforedisposing of such tract shall not be applicable to the disposition of such tract under this section.
+(d) The requirement to determine whether any tract of land described in subsection (a)(2) is excess property or surplus property under title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.) before disposing of such tract shall not be applicable to the disposition of such tract under this section.
 
 (e) The disposition of a tract of land under this section to any person shall be subject to (1) any easement retained by the Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator considers necessary or appropriate to protect the interests of the United States.
 

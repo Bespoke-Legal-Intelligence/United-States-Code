@@ -2,7 +2,7 @@
 
 #### (a) Continuing availability of otherwise available governmental programs
 
-The payments and grants authorized under this chapter constitute compensation for the extinguishment of claims to land, and shall not be deemed to substitute for any governmental programs otherwise available to the Native people of Alaska as citizens of the United States and the State of Alaska.
+The payments and grants authorized under this chapter constitute compensation for the extinguishment of claims to land, and shall not be deemed to substitute for any governmental programs otherwise available to the Native peopleof Alaska as citizens of the United States and the State of Alaska.
 
 #### (b) Food stamp program
 
@@ -20,9 +20,9 @@ In determining the eligibility of a household, an individual Native, or a descen
 
 > none of the following, received from a Native Corporation, shall be considered or taken into account as an asset or resource:
 
-&emsp;(A) cash (including cash dividends on stock received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum;
+&emsp;(A) cash (including cash dividends on stock received from a Native Corporation and on bonds received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum;
 
-&emsp;(B) stock (including stock issued or distributed by a Native Corporation as a dividend or distribution on stock);
+&emsp;(B) stock (including stock issued or distributed by a Native Corporation as a dividend or distribution on stock) or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution;
 
 &emsp;(C) a partnership interest;
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of “employer” by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
 
-(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115.)
+(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131.)
 
 #### References in Text
 
@@ -71,6 +71,10 @@ The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, J
 Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, and provided for effective date of such amendment.
 
 #### Amendments
+
+1998—Subsec. (c)(3)(A). Pub. L. 105–333, §5(1), inserted “and on bonds received from a Native Corporation”.
+
+Subsec. (c)(3)(B). Pub. L. 105–333, §5(2), inserted before semicolon at end “or bonds issued by a Native Corporation which bonds shall be subject to the protection of section 1606(h) of this title until voluntarily and expressly sold or pledged by the shareholder subsequent to the date of distribution”.
 
 1992—Subsec. (e)(1), (2). Pub. L. 102–415, §10, inserted “and economically disadvantaged” after “minority”.
 

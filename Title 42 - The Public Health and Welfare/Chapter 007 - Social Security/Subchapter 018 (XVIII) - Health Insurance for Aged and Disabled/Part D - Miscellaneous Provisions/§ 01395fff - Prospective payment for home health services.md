@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for cost reporting periods beginning on or after October 1, 1999, for payments for home health services in accordance with a prospective payment system established by the Secretary under this section.
+Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for portions of cost reporting periods occurring on or after October 1, 2000, for payments for home health services in accordance with a prospective payment system established by the Secretary under this section.
 
 #### (b) System of prospective payment for home health services
 
@@ -20,19 +20,27 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2000 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.
+&emsp;&emsp;&emsp;Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2001 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different homehealth agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.
 
 #### (ii) Reduction
 
-&emsp;&emsp;&emsp;The reduction described in this clause is a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits are in effect on September 30, 1999.
+&emsp;&emsp;&emsp;The reduction described in this clause is a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits are in effect on September 30, 2000.
 
 #### (B) Annual update
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The standard prospective payment amount (or amounts) shall be adjusted foreach fiscal year (beginning with fiscal year 2001) in a prospective manner specified by the Secretary by the home health market basket percentage increase applicable to the fiscal year involved.
+&emsp;&emsp;&emsp;The standard prospective payment amount (or amounts) shall be adjusted for each fiscal year (beginning with fiscal year 2002) in a prospective manner specified by the Secretary by the home health applicable increase percentage (as defined in clause (ii)) applicable to the fiscal year involved.
 
-#### (ii) Home health market basket percentage increase
+#### (ii) Home health applicable increase percentage
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “home health applicable increase percentage” means, with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) fiscal year 2002 or 2003, the home health market basket percentage increase (as defined in clause (iii)) minus 1.1 percentage points; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any subsequent fiscal year, the home health market basket percentage increase.
+
+#### (iii) Home health market basket percentage increase
 
 &emsp;&emsp;&emsp;For purposes of this subsection, the term “home health market basket percentage increase” means, with respect to a fiscal year, a percentage (estimated by the Secretary before the beginning of the fiscal year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year.
 
@@ -94,11 +102,25 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(6) the establishment of any adjustments for outliers under subsection (b)(5) of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4603(a), 111 Stat. 467.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §5101(c)(1)(A), substituted “for portions of cost reporting periods occurring on or after October 1, 2000” for “for cost reporting periods beginning on or after October 1, 1999”.
+
+Subsec. (b)(3)(A)(i). Pub. L. 105–277, §5101(c)(1)(B)(i), substituted “fiscal year 2001” for “fiscal year 2000”.
+
+Subsec. (b)(3)(A)(ii). Pub. L. 105–277, §5101(c)(1)(B)(ii), substituted “September 30, 2000” for “September 30, 1999”.
+
+Subsec. (b)(3)(B)(i). Pub. L. 105–277, §5101(d)(2)(A), substituted “home health applicable increase percentage (as defined in clause (ii))” for “home health market basket percentage increase”.
+
+Pub. L. 105–277, §5101(c)(1)(B)(iii), substituted “fiscal year 2002” for “fiscal year 2001”.
+
+Subsec. (b)(3)(B)(ii), (iii). Pub. L. 105–277, §5101(d)(2)(B), (C), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 #### Effective Date
 
-Section 4603(d) of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395<i>l</i>, 1395u, and 1395y of this title\] shall apply to cost reporting periods beginning on or after October 1, 1999.”
+Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “Except as otherwise provided, the amendments made by this section \[enacting this section and amending sections 1395f, 1395g, 1395k, 1395<i>l</i>, 1395u, and 1395y of this title\] shall apply to portions of cost reporting periods occurring on or after October 1, 2000.”
 
 #### Case Mix System Development
 
@@ -110,7 +132,7 @@ Section 4602(e) of Pub. L. 105–33 provided that: “Effective for cost reporti
 
 #### Prospective Payment System Contingency
 
-Section 4603(e) of Pub. L. 105–33 provided that: “If the Secretary of Health and Human Services for any reason does not establish and implement the prospective payment system for home health services described in section 1895(b) of the Social Security Act \[subsec. (b) of this section\] (as added by subsection (a)) for cost reporting periods described in subsection (d) \[set out as a note above\], for such cost reporting periods the Secretary shall provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1861(v)(1)(L) of such Act \[section 1395x(v)(1)(L) of this title\], as those limits would otherwise be in effect on September 30, 1999.”
+Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(3), Oct. 21, 1998, 112 Stat. 2681–914, provided that: “If the Secretary of Health and Human Services for any reason does not establish and implement the prospective payment system for home health services described in section 1895(b) of the Social Security Act \[subsec. (b) of this section\] (as added by subsection (a)) for portions of cost reporting periods described in subsection (d) \[set out above\], for such portions the Secretary shall provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1861(v)(1)(L) of such Act \[section 1395x(v)(1)(L) of this title\], as those limits would otherwise be in effect on September 30, 2000.”
 
 #### Reports to Congress Regarding Home Health Cost Containment
 
@@ -126,5 +148,5 @@ Annual Report.—Not later than the end of each of years 1999 through 2002, the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395f, 1395<i>l</i> of this title.
+This section is referred to in sections 1395f, 1395<i>l</i>, 1395r of this title.
 

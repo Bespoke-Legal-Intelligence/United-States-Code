@@ -2,7 +2,7 @@
 
 #### (a) Appointment; purposes
 
-The Commission shall appoint Chronic Hazard Advisory Panels (hereinafter referred to as the Panel or Panels) to advise the Commission in accordance with the provisions of section 2080(b) of this title respecting the chronic hazards of cancer, birth defects, and gene mutations associated with consumer products.
+The Commission shall appoint Chronic Hazard Advisory Panels (hereinafter referred to as thePanel or Panels) to advise the Commission in accordance with the provisions of section 2080(b) of this title respecting the chronic hazards of cancer, birth defects, and gene mutations associated with consumer products.
 
 #### (b) Composition; membership
 
@@ -12,7 +12,7 @@ Each Panel shall consist of 7 members appointed by the Commission from a list of
 
 &emsp;(2) who have demonstrated the ability to critically assess chronic hazards and risks to human health presented by the exposure of humans to toxic substances or as demonstrated by the exposure of animals to such substances.
 
-> The President of the National Academy of Sciences shall nominate for each Panel a number ofindividuals equal to three times the number of members to be appointed to the Panel.
+> The President of the National Academy of Sciences shall nominate for each Panel a number of individuals equal to three times the number of members to be appointed to the Panel.
 
 #### (c) Chairman and Vice Chairman; election; term
 

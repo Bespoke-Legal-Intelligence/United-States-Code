@@ -16,7 +16,7 @@
 
 (2) Any person or entity convicted of a violation of subsection (a) of this section or of section 408 of this title may not be certified as a representative payee under section 1383(a)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1632, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1478; amended Oct. 9, 1984, Pub. L. 98–460, §16(c)(1), 98 Stat. 1810; Aug. 15, 1994, Pub. L. 103–296, title II, §206(c)(1), (2), 108 Stat. 1513.)
+(Aug. 14, 1935, ch. 531, title XVI, §1632, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 98–460, §16(c)(1), Oct. 9, 1984, 98 Stat. 1810; Pub. L. 103–296, title II, §206(c)(1), (2), Aug. 15, 1994, 108 Stat. 1513.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 103–296, §206(c)(2), amended subsec. (b) generally. Prio
 
 “(b)(1) Any person or other entity who is convicted of a violation of any of the provisions of paragraphs (1) through (4) of subsection (a) of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a payee under section 1383(a)(2) of this title on behalf of another individual (other than such person's eligible spouse), in lieu of the penalty set forth in subsection (a) of this section—
 
-&emsp;“(A) upon his first such conviction, shall be guilty of a misdemeanor and shall be fined not more than$5,000 or imprisoned for not more than one year, or both; and
+&emsp;“(A) upon his first such conviction, shall be guilty of a misdemeanor and shall be fined not more than $5,000 or imprisoned for not more than one year, or both; and
 
 &emsp;“(B) upon his second or any subsequent such conviction, shall be guilty of a felony and shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
@@ -42,7 +42,7 @@ Section 206(c)(3) of Pub. L. 103–296 provided that: “The amendments made by 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–460 effective Oct. 9, 1984, and applicable with respect to violations occurring on or after such date, see section 16(d) of Pub. L. 98–460, set out as a note under section 405 of this title.
+Amendment by Pub. L. 98–460 effective Oct. 9, 1984, and applicable with respect to violations occurring onor after such date, see section 16(d) of Pub. L. 98–460, set out as a note under section 405 of this title.
 
 #### Effective Date
 

@@ -40,7 +40,7 @@ The Secretary may not make payments under section 300ee–11(a) of this title fo
 
 The Comptroller General of the United States shall, from time to time, evaluate the expenditures by States of payments received under section 300ee–11(a) of this title in order to ensure that expenditures are consistent with the provisions of this part.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2505, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3095; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(d), 102 Stat. 4242; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2505, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3095; amended Pub. L. 100–690, title II, §2619(d), Nov. 18, 1988, 102 Stat. 4242; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Prior Provisions
 

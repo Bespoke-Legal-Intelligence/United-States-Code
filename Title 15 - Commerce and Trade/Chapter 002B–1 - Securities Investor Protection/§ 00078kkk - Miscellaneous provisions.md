@@ -40,7 +40,7 @@ This chapter, referred to in subsecs. (a) to (f), was in the original “this Ac
 
 1978—Subsec. (b). Pub. L. 95–283, §14(c), redesignated subsec. (c) as (b). Former subsec. (b), relating to application of securities investor protection provisions to foreign members, was struck out.
 
-Subsec. (c). Pub. L. 95–283, §14(a), (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees” after “Directors” in heading and text. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 95–283, §14(a), (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees”after “Directors” in heading and text. Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 95–283, §14(b), (c), redesignated subsec. (e) as (d), inserted provisions authorizing SIPC to prescribe necessary and proper minimal requirements for providing public notice of membership by a member of SIPC in SIPC, and struck out provisions authorizing rules by SIPC to implement advertising requirements. Former subsec. (d) redesignated (c).
 

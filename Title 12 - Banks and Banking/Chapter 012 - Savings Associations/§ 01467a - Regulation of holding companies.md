@@ -12,7 +12,7 @@
 
 #### (B) Uninsured institution
 
-&emsp;&emsp;The term “uninsured institution” means any depository institution the deposits ofwhich are not insured by the Federal Deposit Insurance Corporation.
+&emsp;&emsp;The term “uninsured institution” means any depository institution the deposits of which are not insured by the Federal Deposit Insurance Corporation.
 
 #### (C) Company
 
@@ -22,7 +22,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “savings and loan holding company” means any company that directly or indirectly controls a savings association or that controls any other company that is a savings and loan holding company.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “savings and loan holding company”means any company that directly or indirectly controls a savings association or that controls any other company that is a savings and loan holding company.
 
 #### (ii) Exclusion
 
@@ -74,7 +74,7 @@
 
 #### (4) Special rule relating to qualified stock issuance
 
-&emsp;No savings and loan holding company shall be deemed to control a savings association solely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued byany savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Director under subsection (q)(1)(D) of this section, unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
+&emsp;No savings and loan holding company shall be deemed to control a savings association solely by reason of the purchase by such savings and loan holding company of shares issued by such savings association, or issued by any savings and loan holding company (other than a bank holding company) which controls such savings association, in connection with a qualified stock issuance if such purchase is approved by the Director under subsection (q)(1)(D) of this section, unless the acquiring savings and loan holding company, directly or indirectly, or acting in concert with 1 or more other persons, or through 1 or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 15 percent of the voting shares of such savings association or holding company.
 
 #### (b) Registration and examination
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(B) more than 1 savings association, if—
 
-&emsp;&emsp;&emsp;(i) all, or all but 1, of the savings association subsidiaries of such company were initially acquired by the company or by an individual who would be deemed to control such company if such individual were a company—
+&emsp;&emsp;&emsp;(i) all, or all but 1, of the savings association subsidiaries of such company were initially acquired by the company or by anindividual who would be deemed to control such company if such individual were a company—
 
 &emsp;&emsp;&emsp;&emsp;(I) pursuant to an acquisition under section 13(c) or 13(k) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(c) or (k)\] or section 408(m) <sup>1</sup> of the National Housing Act \[12 U.S.C. 1730a(m)\]; or
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;&emsp;(i) The savings and loan holding company acquires control of a bank or an additional savings association (other than a savings association acquired pursuant to section 13(c) or 13(k) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(c) or (k)\] or section 406(f) or 408(m) <sup>1</sup> of the National Housing Act \[12 U.S.C. 1729(f) or 1730a(m)\]).
 
-&emsp;&emsp;&emsp;(ii) Any savings association subsidiary of the savings and loan holding company failsto qualify as a domestic building and loan association under section 7701(a)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(19)\].
+&emsp;&emsp;&emsp;(ii) Any savings association subsidiary of the savings and loan holding company fails to qualify as a domestic building and loan association under section 7701(a)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(19)\].
 
 &emsp;&emsp;&emsp;(iii) The savings and loan holding company engages in any business activity—
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in which it was not engaged on March 5, 1987.
 
-&emsp;&emsp;&emsp;(iv) Any savings association subsidiary of the savings and loan holding company increases the number of locations from which such savings association conducts business after March 5, 1987 (other than an increase which occurs in connection with a transaction under section 13(c) or (k) of the Federal Deposit Insurance Act or section 408(m) <sup>2</sup> of the National Housing Act.
+&emsp;&emsp;&emsp;(iv) Any savings association subsidiary of the savings and loan holding company increases the number of locations fromwhich such savings association conducts business after March 5, 1987 (other than an increase which occurs in connection with a transaction under section 13(c) or (k) of the Federal Deposit Insurance Act or section 408(m) <sup>2</sup> of the National Housing Act.
 
 &emsp;&emsp;&emsp;(v) Any savings association subsidiary of the savings and loan holding company permits any overdraft (including an intraday overdraft), or incurs any such overdraft in its account at a Federal Reserve bank, on behalf of an affiliate, unless such overdraft is the result of an inadvertent computer or accounting error that is beyond the control of both the savings association subsidiary and the affiliate.
 
@@ -256,7 +256,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;&nbsp;except that the aggregate amount of shares held under this clause (other than under subclauses (I), (II), (III), (IV), and (VI)) may not exceed 15 percent of all outstanding shares or of the voting power of a savings association or savings and loan holding company; or
 
-&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Director may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Director finds such extension is warranted and is not detrimental to the public interest; and
+&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except thatthe Director may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Director finds such extension is warranted and is not detrimental to the public interest; and
 
 &emsp;&emsp;(B) any other company, without the prior written approval of the Director, directly or indirectly, or through one or more subsidiaries or through one or more transactions, to acquire the control of one or more savings associations, except that such approval shall not be required in connection with the control of a savings association, (i) acquired by devise under the terms of a will creating a trust which is excluded from the definition of “savings and loan holding company” under subsection (a) of this section, (ii) acquired in connection with a reorganization in which a person or group of persons, having had control of a savings association for more than 3 years, vests control of that association in a newly formed holding company subject to the control of the same person or group of persons, or (iii) acquired by a bank holding company that is registered under, and subject to, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company. The Director shall approve an acquisition of a savings association under this subparagraph unless the Director finds the financial and managerial resources and future prospects of the company and association involved to be such that the acquisition would be detrimental to the association or the insurance risk of the Savings Association Insurance Fund or Bank Insurance Fund, and shall render a decision within 90 days after submission to the Director of the complete record on the application.
 
@@ -280,7 +280,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;(A) such company, or a savings association subsidiary of such company, is authorized to acquire control of a savings association subsidiary, or to operate a home or branch office, in the additional State or States pursuant to section 13(k) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(k)\];
 
-&emsp;&emsp;(B) such company controls a savings association subsidiary which operated a home orbranch office in the additional State or States as of March 5, 1987; or
+&emsp;&emsp;(B) such company controls a savings association subsidiary which operated a home or branch office in the additional State or States as of March 5, 1987; or
 
 &emsp;&emsp;(C) the statutes of the State in which the savings association to be acquired is located permit a savings association chartered by such State to be acquired by a savings association chartered by the State where the acquiring savings association or savings and loan holding company is located or by a holding company that controls such a State chartered savings association, and such statutes specifically authorize such an acquisition by language to that effect and not merely by implication.
 
@@ -358,7 +358,7 @@ It shall be unlawful for—
 
 #### (A) Penalty
 
-&emsp;&emsp;Any company which violates, and any person who participates in a violation of, anyprovision of this section, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation continues.
+&emsp;&emsp;Any company which violates, and any person who participates in a violation of, any provision of this section, or any regulation or order issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation continues.
 
 #### (B) Assessment
 
@@ -620,7 +620,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 &emsp;&emsp;(i) Assets of the subsidiary are consolidated with the assets of the savings association in determining the savings association's qualified thrift investments; or
 
-&emsp;&emsp;(ii) Residential mortgage loans originated by the subsidiary are included pursuant to paragraph (4)(C)(iii)(I) in determining the savings association's qualified thrift investments.
+&emsp;&emsp;(ii) Residential mortgage loans originated by the subsidiary are included pursuant to paragraph (4)(C)(iii)(I) in determining thesavings association's qualified thrift investments.
 
 &emsp;(B) In determining the amount of a savings association's portfolio assets and qualified thrift investments, consistent accounting principles shall be applied.
 
@@ -714,7 +714,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (n) Tying restrictions
 
-A savings and loan holding company and any of its affiliates shall be subject to section 1464(q)of this title and regulations prescribed under such section, in connection with transactions involving the products or services of such company or affiliate and those of an affiliated savings association as if such company or affiliate were a savings association.
+A savings and loan holding company and any of its affiliates shall be subject to section 1464(q) of this title and regulations prescribed under such section, in connection with transactions involving the products or services of such company or affiliate and those of an affiliated savings association as if such company or affiliate were a savings association.
 
 #### (<i>o</i>) Mutual holding companies
 

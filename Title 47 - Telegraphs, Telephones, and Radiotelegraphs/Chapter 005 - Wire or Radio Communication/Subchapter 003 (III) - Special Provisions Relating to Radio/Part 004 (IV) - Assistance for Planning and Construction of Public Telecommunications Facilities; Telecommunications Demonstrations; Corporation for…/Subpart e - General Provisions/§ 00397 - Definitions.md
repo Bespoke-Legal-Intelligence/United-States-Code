@@ -98,5 +98,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 309 of this title; title 17 sections 110, 111, 114, 118, 119; title 20 sections 1015c, 3913, 3914, 6813, 6898, 8801.
+This section is referred to in section 309 of this title; title 17 sections 110, 111, 114, 118, 119; title 20 sections 3913, 3914, 6813, 6898, 8801.
 

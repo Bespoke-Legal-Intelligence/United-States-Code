@@ -1,6 +1,6 @@
 ### §3733. Property management
 
-(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary inorder to maintain the effective functioning of the loan guaranty program.
+(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
 
 (2) After September 30, 1990, the percentage limitations described in paragraph (1) of this subsection shall have no effect.
 
@@ -18,7 +18,7 @@
 
 (5) The Secretary may include, as part of a loan to finance a purchase of real property from the Secretary described in paragraph (1) of this subsection, an amount to be used only for the purpose of rehabilitating such property. Such amount may not exceed the amount necessary to rehabilitate the property to a habitable state, and payments shall be made available periodically as such rehabilitation is completed.
 
-(6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) of this subsection at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Department of Veterans Affairs Loan Guaranty Revolving Fund established by section 3724(a) of this title.
+(6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) of this subsection at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
 
 (b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
 
@@ -30,17 +30,19 @@
 
 (2) For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-(e) Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
-
-&emsp;(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
-
-&emsp;(2) in any case in which there was no requirement of (or exemption from) a fee at the time of the original guaranty of the loan that was secured by the same property, the Loan Guaranty Revolving Fund; and
-
-> the total so credited to any revolving fund for a fiscal year shall offset outlays attributed to such revolving fund during such fiscal year.
-
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346.)
 
 #### Amendments
+
+1998—Subsec. (a)(6). Pub. L. 105–368, §602(e)(1)(E), substituted “Veterans Housing Benefit Program Fund established by section 3722(a)” for “Department of Veterans Affairs Loan Guaranty Revolving Fund established by section 3724(a)”.
+
+Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: “Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
+
+&emsp;“(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
+
+&emsp;“(2) in any case in which there was no requirement of (or exemption from) a fee at the time of the original guaranty of the loan that was secured by the same property, the Loan Guaranty Revolving Fund; and
+
+> the total so credited to any revolving fund for a fiscal year shall offset outlays attributed to such revolving fund during such fiscal year.”
 
 1992—Subsec. (e). Pub. L. 102–291 inserted “, and the amount received from the sale of securities under section 3720(h) of this title,”.
 
@@ -110,6 +112,10 @@ Subsec. (d) \[formerly §1832\]. Pub. L. 99–576, §408(a), enacted section. Se
 
 1984—Subsec. (a) \[formerly §1816(d)\]. Pub. L. 98–369, §2512(a)(2), added subsec. (d). See 1988 Amendment note above.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
+
 #### Effective Date of 1991 Amendment
 
 Section 14(g)(1) of Pub. L. 102–54 provided that the amendment made by that section is effective as of May 20, 1988.
@@ -136,7 +142,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, see section 2512(c) of Pub
 
 #### Rule for Construction of Duplicate Provisions
 
-Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying the provisions of this title \[title VIIof Pub. L. 100–203\] and the provisions of the Veterans’ Home Loan Program Improvements and Property Rehabilitation Act of 1987 \[Pub. L. 100–198\] which make the same amendments as the provisions of this title \[amending sections 1816 \[now 3733\] and 1829 \[now 3729\] of this title\]—
+Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying the provisions of this title \[title VII of Pub. L. 100–203\] and the provisions of the Veterans’ Home Loan Program Improvements and Property Rehabilitation Act of 1987 \[Pub. L. 100–198\] which make the same amendments as the provisions of this title \[amending sections 1816 \[now 3733\] and 1829 \[now 3729\] of this title\]—
 
 &emsp;“(1) the identical provisions of title 38, United States Code, amended by the provisions of this title and the provisions of such Act shall be treated as having been amended only once; and
 
@@ -148,5 +154,5 @@ Section 6(c) of Pub. L. 100–198 directed Administrator of Veterans’ Affairs,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3714, 3729, 3735 of this title.
+This section is referred to in sections 3714, 3722, 3729, 3735 of this title.
 

@@ -70,7 +70,7 @@ Each State and unit of general local government receiving a grant under this sec
 
 #### Codification
 
-Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, and also as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
+Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, andalso as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
 
 Section is comprised of section 1204 of Pub. L. 102–550. Subsection (i) of section 1204 of Pub. L. 102–550 amended section 5306 of this title.
 

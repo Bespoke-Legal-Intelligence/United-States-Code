@@ -2,7 +2,7 @@
 
 The President may appoint in the Coast Guard, by and with the advice and consent of the Senate, the professors, associate professors, assistant professors, and instructors who are to serve on the permanent commissioned teaching staff of the Academy. An original appointment to the permanent commissioned teaching staff, unless the appointee has served as a civilian member of the teaching staff, regular commissioned officer, temporary commissioned officer, or reserve commissioned officer in the Coast Guard, shall be a temporary appointment until the appointee has satisfactorily completed a probationary term of four years of service; thereafter he may be regularly appointed and his rank shall date from the date of his temporary appointment in the grade in which permanently appointed.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 509; May 14, 1960, Pub. L. 86–474, §1(11), 74 Stat. 145; Oct. 18, 1976, Pub. L. 94–546, §1(15), 90 Stat. 2520.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 509; Pub. L. 86–474, §1(11), May 14, 1960, 74 Stat. 145; Pub. L. 94–546, §1(15), Oct. 18, 1976, 90 Stat. 2520.)
 
 #### Historical and Revision Notes
 

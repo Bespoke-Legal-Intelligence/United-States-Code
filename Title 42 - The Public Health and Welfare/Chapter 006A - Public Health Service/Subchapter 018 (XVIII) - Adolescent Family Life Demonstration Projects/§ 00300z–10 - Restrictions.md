@@ -4,5 +4,5 @@
 
 (b) The Secretary shall ascertain whether programs or projects comply with subsection (a) of this section and take appropriate action if programs or projects do not comply with such subsection, including withholding of funds.
 
-(July 1, 1944, ch. 373, title XX, §2011, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §955(a), 95 Stat. 592.)
+(July 1, 1944, ch. 373, title XX, §2011, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 592.)
 

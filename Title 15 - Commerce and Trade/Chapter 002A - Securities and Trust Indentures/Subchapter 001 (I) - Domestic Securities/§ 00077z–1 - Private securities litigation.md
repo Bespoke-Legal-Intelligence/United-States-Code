@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiff or plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
+&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiff or plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a noticeadvising members of the purported plaintiff class—
 
 &emsp;&emsp;&emsp;&emsp;(I) of the pendency of the action, the claims asserted therein, and the purported class period; and
 
@@ -158,6 +158,10 @@
 
 &emsp;A party aggrieved by the willful failure of an opposing party to comply with paragraph (2) may apply to the court for an order awarding appropriate sanctions.
 
+#### (4) Circumvention of stay of discovery
+
+&emsp;Upon a proper showing, a court may stay discovery proceedings in any private action in a State court as necessary in aid of its jurisdiction, or to protect or effectuate its judgments, in an action subject to a stay of discovery pursuant to this subsection.
+
 #### (c) Sanctions for abusive litigation
 
 #### (1) Mandatory review by court
@@ -166,7 +170,7 @@
 
 #### (2) Mandatory sanctions
 
-&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
+&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules ofCivil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
 
 #### (3) Presumption in favor of attorneys’ fees and costs
 
@@ -194,11 +198,21 @@
 
 In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
 
-(May 27, 1933, ch. 38, title I, §27, as added Dec. 22, 1995, Pub. L. 104–67, title I, §101(a), 109 Stat. 737.)
+(May 27, 1933, ch. 38, title I, §27, as added Pub. L. 104–67, title I, §101(a), Dec. 22, 1995, 109 Stat. 737; amended Pub. L. 105–353, title I, §101(a)(2), title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3230, 3235.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii), (B)(iii)(I)(cc), (vi), (b)(2), and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### Amendments
+
+1998—Pub. L. 105–353, §301(a)(5), made technical correction relating to placement of section in subchapter.
+
+Subsec. (b)(4). Pub. L. 105–353, §101(a)(2), added par. (4).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(a)(2) of Pub. L. 105–353 not to affect or apply to any action commenced before and pending on Nov. 3, 1998, see section 101(c) of Pub. L. 105–353, set out as a note under section 77p of this title.
 
 #### Effective Date
 

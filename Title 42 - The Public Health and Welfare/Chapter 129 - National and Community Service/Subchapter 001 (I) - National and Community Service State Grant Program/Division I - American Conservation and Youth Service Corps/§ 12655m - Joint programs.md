@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including the Job Training Partnership Act (29 U.S.C. 1501 et seq.)).
+The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]).
 
 #### (b) Standards
 
@@ -16,11 +16,17 @@ Program agencies may enter into contracts and other appropriate arrangements wit
 
 The Corporation and program agencies carrying out programs under this division shall coordinate the programs with related Federal, State, local, and private activities.
 
-(Pub. L. 101–610, title I, §199L, formerly §134, Nov. 16, 1990, 104 Stat. 3148; renumbered §199N, renumbered §199L, and amended Pub. L. 103–82, title I, §101(a), (e)(1), (8)(B), Sept. 21, 1993, 107 Stat. 788, 815, 816.)
+(Pub. L. 101–610, title I, §199L, formerly §134, Nov. 16, 1990, 104 Stat. 3148; renumbered §199N, renumbered §199L, and amended Pub. L. 103–82, title I, §101(a), (e)(1), (8)(B), Sept. 21, 1993, 107 Stat. 788, 815, 816; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(C), (f)(33)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(33)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, subsection (a) of this section is amended by striking “the Job Training Partnership Act and”.</i>
 
 #### References in Text
 
 The Job Training Partnership Act, referred to in subsec. (a), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+
+The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Codification
 
@@ -32,7 +38,13 @@ A prior section 199L of Pub. L. 101–610 was classified to section 12655k of th
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(C)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act (29 U.S.C. 1501 et seq.)”.
+
 1993—Subsecs. (a), (d). Pub. L. 103–82, §101(e)(1), substituted “Corporation” for “Commission”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(42)(C)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(33)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1993 Amendment
 

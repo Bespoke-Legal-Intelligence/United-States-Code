@@ -12,7 +12,7 @@ Where appropriate, the provisions of part II of title 18 and of title 28 and, no
 
 The Attorney General shall appoint a United States marshal for the Virgin Islands, to whose office the provisions of chapter 37 of title 28 shall apply.
 
-(July 22, 1954, ch. 558, §24, 68 Stat. 506; Pub. L. 85–851, §7, Aug. 28, 1958, 72 Stat. 1095; Pub. L. 91–272, §3(b), June 2, 1970, 84 Stat. 296; Pub. L. 98–454, title VII, §706(a), (b), Oct. 5, 1984, 98 Stat. 1740.)
+(July 22, 1954, ch. 558, §24, 68 Stat. 506; Pub. L. 85–851, §7, Aug. 28, 1958, 72 Stat. 1095; Pub. L. 91–272, §3(b), June 2, 1970, 84 Stat. 296; Pub. L.98–454, title VII, §706(a), (b), Oct. 5, 1984, 98 Stat. 1740.)
 
 #### References in Text
 
@@ -26,7 +26,7 @@ In subsec. (c), “chapter 37 of title 28” substituted for “chapter 33 of ti
 
 1984—Subsec. (a). Pub. L. 98–454, §706(a), substituted provisions extending the term of a judge of the district court from eight to ten years, further substituted “of a court of the Virgin Islands established by local law,” for “a judge of the municipal court of the Virgin Islands,” in third sentence, and inserted provisions regarding the designation of the chief judge.
 
-Subsec. (b). Pub. L. 98–454, §706(b), substituted provisions relating to criminal procedure in the districtcourts for former provisions which related to the chief judge of the district court and which are now set out in subsec. (a).
+Subsec. (b). Pub. L. 98–454, §706(b), substituted provisions relating to criminal procedure in the district courts for former provisions which related to the chief judge of the district court and which are now set out in subsec. (a).
 
 1970—Subsec. (a). Pub. L. 91–272 designated existing provisions as subsec. (a), increased from one to two the number of district judges, added judges of the municipal court of the Virgin Islands to the list of judges from which may be drawn temporary judges for the district court, and transferred to subsec. (c) provisions covering the appointment of a United States marshal for the Virgin Islands.
 

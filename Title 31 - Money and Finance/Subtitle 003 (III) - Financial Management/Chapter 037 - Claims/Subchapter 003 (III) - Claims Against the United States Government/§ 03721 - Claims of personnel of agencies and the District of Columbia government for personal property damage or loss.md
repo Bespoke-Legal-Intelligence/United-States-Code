@@ -254,5 +254,5 @@ Section 1088(c) of Pub. L. 104–106 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 14 section 823a; title 16 sections 18i, 558c; title 26 section 6402; title 43 section 1737.
+This section is referred to in title 10 section 2739; title 14 section 823a; title 16 sections 18i, 558c; title 26 section 6402; title 43 section 1737.
 

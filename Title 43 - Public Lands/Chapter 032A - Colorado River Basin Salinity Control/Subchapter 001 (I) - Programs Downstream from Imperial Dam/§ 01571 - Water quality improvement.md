@@ -2,7 +2,7 @@
 
 #### (a) Authority to proceed with program
 
-The Secretary of the Interior, hereinafter referred to as the “Secretary”, is authorized and directed to proceed with a program of works of improvement for the enhancement and protection of the quality of water available in the Colorado River for use in the United States and the Republic of Mexico, and to enable the United States to comply with its obligations under the agreement with Mexico of August 30, 1973\(Minute No. 242 of the International Boundary and Water Commission, United States and Mexico), concluded pursuant to the Treaty of February 3, 1944 (TS 994), in accordance with the provisions of this chapter.
+The Secretary of the Interior, hereinafter referred to as the “Secretary”, is authorized and directed to proceed with a program of works of improvement for the enhancement and protection of the quality of water available in the Colorado River for use in the United States and the Republic of Mexico, and to enable the United States to comply with its obligations under the agreement with Mexico of August 30, 1973 (Minute No. 242 of the International Boundary and Water Commission, United States and Mexico), concluded pursuant to the Treaty of February 3, 1944 (TS 994), in accordance with the provisions of this chapter.
 
 #### (b) Desalting complexes and plants
 
@@ -16,7 +16,7 @@ The Secretary of the Interior, hereinafter referred to as the “Secretary”, i
 
 #### (c) Replacement water studies
 
-Replacement of the reject stream from the desalting plant, Colorado River waters used for the mitigation of fish and wildlife habitat losses and of any Wellton-Mohawk drainage water bypassed to the Santa Clara Slough to accomplish essential operation except at such times when there exists surplus water of the Colorado River under the terms of the Mexican Water Treaty of 1944, is recognized as a national obligation as provided in section 1512 of this title. Studies to identify feasible measures to provide adequate replacement water shall be completed not later than June 30, 1980. Said studies shall be limited to potential sources within the States of Arizona, California, Colorado, New Mexico, and those portions of Nevada, Utah, and Wyoming which are within the natural drainage basin of the Colorado River. Measures found necessary to replace the reject stream from the desalting plant, Colorado River waters used for the mitigation of fish and wildlife habitat losses and any Wellton-Mohawk drainage bypassed to the Santa Clara Slough to accomplish essential operations may be undertaken independently of the national obligation set forth in section 1512 of this title.
+Replacement of the reject stream from the desalting plant, Colorado River waters used for the mitigation of fish and wildlife habitat losses and of any Wellton-Mohawk drainage water bypassed to the Santa Clara Slough to accomplish essential operation except at such times when there exists surplus water of the Colorado River under the terms of the Mexican Water Treaty of 1944, is recognized as a national obligation asprovided in section 1512 of this title. Studies to identify feasible measures to provide adequate replacement water shall be completed not later than June 30, 1980. Said studies shall be limited to potential sources within the States of Arizona, California, Colorado, New Mexico, and those portions of Nevada, Utah, and Wyoming which are within the natural drainage basin of the Colorado River. Measures found necessary to replace the reject stream from the desalting plant, Colorado River waters used for the mitigation of fish and wildlife habitat losses and any Wellton-Mohawk drainage bypassed to the Santa Clara Slough to accomplish essential operations may be undertaken independently of the national obligation set forth in section 1512 of this title.
 
 #### (d) Advancement of funds for that portion of bypass drain within Mexico
 
@@ -24,7 +24,7 @@ The Secretary is hereby authorized to advance funds to the United States section
 
 #### (e) Desalted water exchange
 
-Any desalted water not needed for the purposes of this subchapter may be exchanged at prices and under terms and conditions satisfactory to the Secretary and the proceeds therefrom shall be deposited in the General Fund ofthe Treasury. The city of Yuma, Arizona, shall have first right of refusal to any such water.
+Any desalted water not needed for the purposes of this subchapter may be exchanged at prices and under terms and conditions satisfactory to the Secretary and the proceeds therefrom shall be deposited in the General Fund of the Treasury. The city of Yuma, Arizona, shall have first right of refusal to any such water.
 
 #### (f) Return flow reduction
 
@@ -56,7 +56,7 @@ The Secretary is authorized to acquire through the Corps of Engineers fee title 
 
 #### (k) Transfer of funds
 
-To the extent desirable to carry out subsections (f)(1) and (h) of this section, the Secretary may transfer funds to the Secretary of Agriculture as may be required for technical assistance to farmers, conduct of research and demonstrations, and such related investigations as are required to achieve higher on-farm irrigation efficiencies.
+To the extent desirable to carry out subsections (f)(1) and (h) of this section, the Secretary may transfer funds to the Secretary of Agriculture as may be required for technical assistance to farmers, conduct of research anddemonstrations, and such related investigations as are required to achieve higher on-farm irrigation efficiencies.
 
 #### (<i>l</i>) Nonreimbursable costs
 

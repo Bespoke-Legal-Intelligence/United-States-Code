@@ -60,7 +60,7 @@ The Board may evaluate information received from the scientific and industrial c
 
 &emsp;(2) suggestions for specific measures to improve the content of standards described in section 2286a(1) of this title, the implementation of such standards, or research relating to such standards at Department of Energy defense nuclear facilities.
 
-(Aug. 1, 1946, ch. 724, title I, §313, as added Sept. 29, 1988, Pub. L. 100–456, div. A, title XIV, §1441(a)(1), 102 Stat. 2079; amended Nov. 5, 1990, Pub. L. 101–510, div. C, title XXXII, §3202, 104 Stat. 1844; Dec. 5, 1991, Pub. L. 102–190, div. C, title XXXII, §3202(a), 105 Stat. 1582; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §313, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2079; amended Pub. L. 101–510, div. C, title XXXII, §3202, Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXII, §3202(a), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 

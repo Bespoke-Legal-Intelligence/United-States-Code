@@ -22,11 +22,11 @@
 
 1989—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
 
-1987—Subsec. (a)(1). Pub. L. 100–180, §2312, substituted “Except as provided in paragraph (2), the total cost authorized for military construction projects at an installation (including each project the cost of which is included in such total authorized cost and is less than the minor project ceiling) may be increased by not more than 25 percent of the total amount appropriated for such projects” for “Except as provided in paragraph (2), the cost authorized for a military construction project (other than a project for which the approved amount isless than the minor project ceiling (as defined in subsection (f))) may be increased by not more than 25 percent of the amount appropriated for the project”.
+1987—Subsec. (a)(1). Pub. L. 100–180, §2312, substituted “Except as provided in paragraph (2), the total cost authorized for military construction projects at an installation (including each project the cost of which is included in such total authorized cost and is less than the minor project ceiling) may be increased by not more than 25 percent of the total amount appropriated for such projects” for “Except as provided in paragraph (2), the cost authorized for a military construction project (other than a project for which the approved amount is less than the minor project ceiling (as defined in subsection (f))) may be increased by not more than 25 percent of the amount appropriated for the project”.
 
 Pub. L. 100–26, §7(f)(2)(A), substituted “the minor project ceiling (as defined in subsection (f))” for “the amount specified by law as the maximum amount for a minor military construction project”.
 
-Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project”.
+Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as themaximum amount for a minor military construction project”.
 
 Subsec. (a)(2). Pub. L. 100–26, §7(f)(2)(B), substituted “the minor project ceiling” for “the amount specified by law as the maximum amount for a minor military construction project” in two places.
 

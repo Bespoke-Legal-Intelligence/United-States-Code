@@ -10,7 +10,7 @@ Written Findings Required.—(1) Each determination or decision under section 23
 
 (2) Each finding referred to in paragraph (1) is final. The head of the agency making such finding shall maintain a copy of the finding for not less than 6 years after the date of the determination or decision.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Aug. 28, 1958, Pub. L. 85–800, §10, 72 Stat. 967; Sept. 10, 1962, Pub. L. 87–653, §1(f), 76 Stat. 529; Sept. 27, 1966, Pub. L. 89–607, §1(1), 80 Stat. 850; July 5, 1968, Pub. L. 90–378, §2, 82 Stat. 290; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2725, 98 Stat. 1193; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(16), 99 Stat. 739; Oct. 13, 1994, Pub. L. 103–355, title I, §1504, 108 Stat. 3297.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 85–800, §10, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, §1(f), Sept. 10, 1962, 76 Stat. 529; Pub. L. 89–607, §1(1), Sept. 27, 1966, 80 Stat. 850; Pub. L. 90–378, §2, July 5, 1968, 82 Stat. 290; Pub. L. 98–369, div. B, title VII, §2725, July 18, 1984, 98 Stat. 1193; Pub. L. 99–145, title XIII, §1303(a)(16), Nov. 8, 1985, 99 Stat. 739; Pub. L. 103–355, title I, §1504, Oct. 13, 1994, 108 Stat. 3297.)
 
 Historical and Revision Notes
 

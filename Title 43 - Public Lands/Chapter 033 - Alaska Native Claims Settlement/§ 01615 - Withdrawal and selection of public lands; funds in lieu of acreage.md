@@ -72,5 +72,5 @@ Pub. L. 94–204, §9, added subsec. (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1611, 1613, 1621, 1631, 1641 of this title.
+This section is referred to in sections 1602, 1611, 1613, 1621, 1641 of this title.
 

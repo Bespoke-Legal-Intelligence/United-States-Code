@@ -6,7 +6,7 @@
 
 #### (A) Sale or lease within same State
 
-&emsp;&emsp;Subject to subparagraph (B) and such terms and conditions as the Secretary may prescribe, the owner, or operator with the permission of the owner, of a farm in a State for which a farm poundage quota has been established may sell or lease all or any part of the poundage quota to any other owner or operator of a farm within the same State for transfer to the farm. However, any such lease of poundage quota may be entered into in the fall or after the normal planting season—
+&emsp;&emsp;Subject to subparagraph (B) and such terms and conditions as the Secretary may prescribe, the owner, or operator with the permission of the owner, of a farm in a State for which a farm poundage quota has been established may sell or lease all or any part of the poundage quota to any other owner or operator of a farm within the same State for transfer to the farm. However, any such lease of poundage quota may be entered intoin the fall or after the normal planting season—
 
 &emsp;&emsp;&emsp;(i) if not less than 90 percent of the basic quota (the farm quota and temporary quota transfers), plus any poundage quota transferred to the farm under this subsection, has been planted or considered planted on the farm from which the quota is to be leased; and
 
@@ -38,7 +38,7 @@
 
 #### (2) Transfers to other self-owned farms
 
-&emsp;The owner or operator of a farm may transfer all or any part of the farm poundage quota to any other farm owned or controlled by the owner or operator that is in the same county or in a county contiguous to the county in the same State and that had a farm poundagequota for the preceding year's crop. Any farm poundage quota transferred under this paragraph shall not result in any reduction in the farm poundage quota for the transferring farm if the transferred quota is produced or considered produced on the receiving farm.
+&emsp;The owner or operator of a farm may transfer all or any part of the farm poundage quota to any other farm owned or controlled by the owner or operator that is in the same county or in a county contiguous to the county in the same State and that had a farm poundage quota for the preceding year's crop. Any farm poundage quota transferred under this paragraph shall not result in any reduction in the farm poundage quota for the transferring farm if the transferred quota is produced or considered produced on the receiving farm.
 
 #### (3) Transfers in States with small quotas
 
@@ -72,13 +72,13 @@ Transfers (including transfer by sale or lease) of farm poundage quotas under th
 
 Notwithstanding any other provision of law, this section shall be effective only for the 1991 through 2002 crops of peanuts.
 
-(Feb. 16, 1938, ch. 30, title III, §358b, as added Nov. 28, 1990, Pub. L. 101–624, title VIII, §803, 104 Stat. 3466; amended Dec. 13, 1991, Pub. L. 102–237, title I, §122, 105 Stat. 1844; Apr. 4, 1996, Pub. L. 104–127, title I, §155(i)(1)(B), (4)(B), (6), 110 Stat. 928, 929.)
+(Feb. 16, 1938, ch. 30, title III, §358b, as added Pub. L. 101–624, title VIII, §803, Nov. 28, 1990, 104 Stat. 3466; amended Pub. L. 102–237, title I, §122, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 104–127, title I, §155(i)(1)(B), (4)(B), (6), Apr. 4, 1996, 110 Stat. 928, 929.)
 
 #### Amendments
 
 1996—Pub. L. 104–127, §155(i)(1)(B)(i), struck out “1991 through 1995 crops of” before “peanuts” in section catchline.
 
-Subsec. (a)(1). Pub. L. 104–127, §155(i)(6)(A), added par. (1) and struck out heading and text of former par. (1). Prior to amendment, text read as follows: “Subject to such terms, conditions, or limitations as the Secretary may prescribe, the owner, or operator with the permission of the owner, of any farm for which a farm poundage quota has been established under this chapter may sell or lease all or any part of the poundage quota (including any applicable under marketings) to any other owner or operator of a farm within the same county for transfer to the farm, except that any such lease of poundage quota (including any applicable under marketings) may be entered into in the fall or after the normal planting season—
+Subsec. (a)(1). Pub. L. 104–127, §155(i)(6)(A), added par. (1) and struck out heading and text of former par. (1).Prior to amendment, text read as follows: “Subject to such terms, conditions, or limitations as the Secretary may prescribe, the owner, or operator with the permission of the owner, of any farm for which a farm poundage quota has been established under this chapter may sell or lease all or any part of the poundage quota (including any applicable under marketings) to any other owner or operator of a farm within the same county for transfer to the farm, except that any such lease of poundage quota (including any applicable under marketings) may be entered into in the fall or after the normal planting season—
 
 &emsp;“(A) if not less than 90 percent of the basic quota (the farm quota exclusive of undermarketings and temporary quota transfers), plus any poundage quota transferred to the farm under this subsection, has been planted or considered planted on the farm from which the quota is to be leased; and
 

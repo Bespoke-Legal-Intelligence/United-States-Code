@@ -28,7 +28,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (1) In general
 
-&emsp;Subject to paragraph (4) and subsection (d) of this section, of the amount available for allotment under subsection (a) of this section for a fiscal year, reduced by the amount of allotments made under subsection (c) of this section for the fiscal year, the Secretary shall allot to each State (other than a State described in such subsection) with a State child health plan approved under this subchapter the same proportion as the ratio of—
+&emsp;Subject to paragraph (4) and subsection (d) of this section, of the amount available for allotment under subsection (a) of this section for a fiscal year, reduced by the amount of allotments made under subsection (c) of this section (determined without regard to paragraph (4) thereof) for the fiscal year, the Secretary shall allot to each State (other than a State described in such subsection) with a State child health plan approved under this subchapter the same proportion as the ratio of—
 
 &emsp;&emsp;(A) the product of (i) the number of children described in paragraph (2) for the State for the fiscal year and (ii) the State cost factor for that State (established under paragraph (3)); to
 
@@ -102,7 +102,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (3) Commonwealths and territories
 
-&emsp;A commonwealth or territory described in this paragraph is any of the following if it has a State child health plan approved under this subchapter:
+&emsp;A commonwealth or territory described in this paragraph is any of the following if it hasa State child health plan approved under this subchapter:
 
 &emsp;&emsp;(A) Puerto Rico.
 
@@ -113,6 +113,16 @@ For the purpose of providing allotments to States under this section, there is a
 &emsp;&emsp;(D) American Samoa.
 
 &emsp;&emsp;(E) The Northern Mariana Islands.
+
+#### (4) Additional allotment
+
+#### (A) In general
+
+&emsp;&emsp;In addition to the allotment under paragraph (1), the Secretary shall allot each commonwealth and territory described in paragraph (3) the applicable percentage specified in paragraph (2) of the amount appropriated under subparagraph (B).
+
+#### (B) Appropriations
+
+&emsp;&emsp;For purposes of providing allotments pursuant to subparagraph (A), there is appropriated, out of any money in the Treasury not otherwise appropriated $32,000,000 for fiscal year 1999.
 
 #### (d) Certain medicaid expenditures counted against individual State allotments
 
@@ -130,9 +140,13 @@ Amounts allotted to a State pursuant to this section for a fiscal year shall rem
 
 The Secretary shall determine an appropriate procedure for redistribution of allotments from States that were provided allotments under this section for a fiscal year but that do not expend all of the amount of such allotments during the period in which such allotments are available for expenditure under subsection (e) of this section, to States that have fully expended the amount of their allotments under this section.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 558; amended Nov. 19, 1997, Pub. L. 105–100, title I, §162(6), (8), 111 Stat. 2189, 2190.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389.)
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VII, §706(b)\], inserted “(determined without regard to paragraph (4) thereof)” after “subsection (c) of this section”.
+
+Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VII, §706(a)\], added par. (4).
 
 1997—Subsec. (a)(1). Pub. L. 105–100, §162(8)(A), substituted “$4,295,000,000” for “$4,275,000,000”.
 
@@ -149,6 +163,14 @@ Subsec. (d)(2). Pub. L. 105–100, §162(6)(B), added par. (2) and struck out fo
 #### Effective Date of 1997 Amendment
 
 Section 162 of Pub. L. 105–100 provided that the amendment made by that section is effective as if included in the enactment of subtitle J (§§4901–4923) of title IV of the Balanced Budget Act of 1997, Pub. L. 105–33.
+
+#### Determination of Number of Children and State Cost Factors for Fiscal Years 1998 and 1999
+
+Pub. L. 105–277, div. A, §101(f) \[title VII, §707\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: “Notwithstanding any other provision of law, for purposes of determining the product under section 2104(b)(1)(A) of the Social Security Act (42 U.S.C. 1397dd(b)(1)(A)) for a State for each of fiscal years 1998 and 1999—
+
+&emsp;“(1) the number of children under clause (i) of such section shall be the number of low-income children specified for the State in Column B of the table on pages 48101–48102 of the Federal Register published on September 12, 1997, adjusted by the Census Bureau as necessary to treat children as being without health insurance if they have access to health care funded by the Indian Health Service but do not have health insurance; and
+
+&emsp;“(2) the State cost factor under clause (ii) of such section shall be the State cost factor specified for the State in Column C of such table.”
 
 #### Section Referred to in Other Sections
 

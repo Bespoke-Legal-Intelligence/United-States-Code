@@ -8,7 +8,7 @@ The National Institutes of Health shall be headed by the Director of the Nationa
 
 In carrying out the purposes of section 241 of this title, the Secretary, acting through the Director of NIH—
 
-&emsp;(1) shall be responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the management and operation of programs and activities within the National Institutes of Health;
+&emsp;(1) shall be responsible for the overall direction of the National Institutes of Health and for the establishment and implementation of general policies respecting the managementand operation of programs and activities within the National Institutes of Health;
 
 &emsp;(2) shall coordinate and oversee the operation of the national research institutes and administrative entities within the National Institutes of Health;
 
@@ -32,9 +32,17 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(10) may accept voluntary and uncompensated services;
 
-&emsp;(11) may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter; and
+&emsp;(11) may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter;
 
-&emsp;(12) after consultation with the Director of the Office of Research on Women's Health, shall ensure that resources of the National Institutes of Health are sufficiently allocated for projects of research on women's health that are identified under section 287d(b) of this title.
+&emsp;(12) after consultation with the Director of the Office of Research on Women's Health, shall ensure that resources of the National Institutes of Health are sufficiently allocated for projects of research on women's health that are identified under section 287d(b) of this title;
+
+&emsp;(13) may conduct and support research training—
+
+&emsp;&emsp;(A) for which fellowship support is not provided under section 288 of this title; and
+
+&emsp;&emsp;(B) which does not consist of residency training of physicians or other health professionals; and
+
+&emsp;(14) may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38.
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (6). The members of such a group shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of such group. Not more than one-fourth of the members of any such group shall be officers or employees of the United States.
 
@@ -64,23 +72,17 @@ The Director of NIH shall—
 
 &emsp;(5) ensure that, after January 1, 1994, all new or revised health education and promotion materials developed or funded by the National Institutes of Health and intended for the general public are in a form that does not exceed a level of functional literacy, as defined in the National Literacy Act of 1991 (Public Law 102–73).
 
-#### (f) Associate Director for Prevention; functions; report to Director
+#### (f) Associate Director for Prevention; functions
 
 There shall be in the National Institutes of Health an Associate Director for Prevention. The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
 
-&emsp;(1) annually review the efficacy of existing policies and techniques used by the national research institutes to disseminate the results of disease prevention and behavioral research programs;
+&emsp;(1) annually review the efficacy of existing policies and techniques used by the national research institutes to disseminate the results of disease prevention and behavioral research programs; and
 
-&emsp;(2) recommend, coordinate, and oversee the modification or reconstruction of such policies and techniques to ensure maximum dissemination, using advanced technologies to the maximum extent practicable, of research results to such entities; and
-
-&emsp;(3) annually prepare and submit to the Director of NIH a report concerning the prevention and dissemination activities undertaken by the Associate Director, including—
-
-&emsp;&emsp;(A) a summary of the Associate Director's review of existing dissemination policies and techniques together with a detailed statement concerning any modification or restructuring, or recommendations for modification or restructuring, of such policies and techniques; and
-
-&emsp;&emsp;(B) a detailed statement of the expenditures made for the prevention and dissemination activities reported on and the personnel used in connection with such activities.
+&emsp;(2) recommend, coordinate, and oversee the modification or reconstruction of such policies and techniques to ensure maximum dissemination, using advanced technologies to the maximum extent practicable, of research results to such entities.
 
 #### (g) Enhancing competitiveness of certain entities in obtaining research funds
 
-(1)(A) In the case of entities described in subparagraph (B), the Director of NIH, acting through the Director of the National Center for Research Resources, shall establish a program to enhance the competitiveness of such entities in obtaining funds from the national researchinstitutes for conducting biomedical and behavioral research.
+(1)(A) In the case of entities described in subparagraph (B), the Director of NIH, acting through the Director of the National Center for Research Resources, shall establish a program to enhance the competitiveness of such entities in obtaining funds from the national research institutes for conducting biomedical and behavioral research.
 
 (B) The entities referred to in subparagraph (A) are entities that conduct biomedical and behavioral research and are located in a State in which the aggregate success rate for applications to the national research institutes for assistance for such research by the entities in the State has historically constituted a low success rate of obtaining such funds, relative to such aggregate rate for such entities in other States.
 
@@ -114,7 +116,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (j) Data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions
 
-(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities of the data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services, and to the extent practicable, coordinated with other data banks containing similar information.
+(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities of the data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services,and to the extent practicable, coordinated with other data banks containing similar information.
 
 (B) The Secretary shall establish the data bank after consultation with the Commissioner of Food and Drugs, the directors of the appropriate agencies of the National Institutes of Health (including the National Library of Medicine), and the Director of the Centers for Disease Control and Prevention.
 
@@ -130,7 +132,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;(ii) as a Group C cancer drug (as defined by the National Cancer Institute).
 
-> &emsp;The data bank may also include information pertaining to the results of clinical trials ofsuch treatments, with the consent of the sponsor, including information concerning potential toxicities or adverse effects associated with the use or administration of such experimental treatments.
+> &emsp;The data bank may also include information pertaining to the results of clinical trials of such treatments, with the consent of the sponsor, including information concerning potential toxicities or adverse effects associated with the use or administration of such experimental treatments.
 
 (4) The data bank shall not include information relating to an investigation if the sponsor has provided a detailed certification to the Secretary that disclosure of such information would substantially interfere with the timely enrollment of subjects in the investigation, unless the Secretary, after the receipt of the certification, provides the sponsor with a detailed written determination that such disclosure would not substantially interfere with such enrollment.
 
@@ -148,21 +150,31 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).
 
-(July 1, 1944, ch. 373, title IV, §402, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 823; amended Nov. 4, 1988, Pub. L. 100–607, title I, §111, 102 Stat. 3052; July 10, 1992, Pub. L. 102–321, title I, §163(b)(3), 106 Stat. 376; June 10, 1993, Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), 107 Stat. 139, 144, 148–150, 153; Nov. 21, 1997, Pub. L. 105–115, title I, §113(a), 111 Stat. 2310.)
+(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589.)
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(6), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b)(6), (14), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The General Schedule, referred to in subsec. (b)(6), is set out under section 5332 of Title 5.
+The General Schedule, referred to in subsec. (b)(6), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
+The provisions of title 5 relating to classifications, referred to in subsec. (b)(14), are classified generally to chapter 51 (§5101 et seq.) and to subchapter III (§5331 et seq.) of chapter 53 of Title 5, Government Organization and Employees.
 
-The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (d)(2)(A), are classified generally to section 5701 et seq. of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of Title 20, Education, and Tables.
+The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (d)(2)(A), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
+
+The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(13), (14). Pub. L. 105–392 added pars. (13) and (14).
+
+Subsec. (f). Pub. L. 105–362 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “annually prepare and submit to the Director of NIH a report concerning the prevention and dissemination activities undertaken by the Associate Director, including—
+
+&emsp;“(A) a summary of the Associate Director's review of existing dissemination policies and techniques together with a detailed statement concerning any modification or restructuring, or recommendations for modification or restructuring, of such policies and techniques; and
+
+&emsp;“(B) a detailed statement of the expenditures made for the prevention and dissemination activities reported on and the personnel used in connection with such activities.”
 
 1997—Subsecs. (j) to (<i>l</i>). Pub. L. 105–115 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
@@ -218,7 +230,7 @@ Report.—Not later than two years after the date of enactment of this section \
 
 #### Chronic Fatigue Syndrome; Experts and Research Representatives on Advisory Committees and Boards
 
-Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall ensure that appropriate individuals with expertise in chronic fatigue syndrome or neuromuscular diseases and representative of a variety of disciplines and fields within the research communityare appointed to appropriate National Institutes of Health advisory committees and boards.”
+Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall ensure that appropriate individuals with expertise in chronic fatigue syndrome or neuromuscular diseases and representative of a variety of disciplines and fields within the research community are appointed to appropriate National Institutes of Health advisory committees and boards.”
 
 #### Third-Party Payments Regarding Certain Clinical Trials and Certain Life-Threatening Illnesses
 
@@ -242,7 +254,7 @@ Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services
 
 #### Master Plan for Physical Infrastructure for Research
 
-Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
+Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director ofthe National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
 
 #### Section Referred to in Other Sections
 

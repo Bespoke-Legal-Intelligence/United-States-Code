@@ -54,7 +54,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) an employee who dies as a result of injury or illness compensable under that subchapter; or
 
-&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years ofservice and who dies while receiving monthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
+&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years of service and who dies while receiving monthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
 
 &emsp;(4) “service”, as used by paragraph (3) of this section, means service which is creditable under subchapter III of chapter 83 or chapter 84 of this title;
 
@@ -68,7 +68,7 @@ For the purpose of this chapter—
 
 &emsp;(6) “health benefits plan” means a group insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar group arrangements provided by a carrier for the purpose of providing, paying for, or reimbursing expenses for health services;
 
-&emsp;(7) “carrier” means a voluntary association, corporation, partnership, or other nongovernmental organization which is lawfully engaged in providing, paying for, or reimbursing the cost of, health services under group insurance policies or contracts, medical or hospital service agreements, membership or subscription contracts, or similar group arrangements, in consideration of premiums or other periodic charges payable to the carrier, including a health benefits plan duly sponsored or underwritten by an employee organization;
+&emsp;(7) “carrier” means a voluntary association, corporation, partnership, or other nongovernmental organization which is lawfully engaged in providing, paying for, or reimbursing the cost of, health services under group insurance policies or contracts, medical or hospital service agreements, membership or subscription contracts, or similar group arrangements, in consideration of premiums or other periodic charges payable to the carrier, including a health benefits plan duly sponsored or underwritten by an employee organization and an association of organizations or other entities described in this paragraph sponsoring a health benefits plan;
 
 &emsp;(8) “employee organization” means—
 
@@ -102,7 +102,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(ii) meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, §1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, §2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, §2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, §2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, §1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, §105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, §207(<i>l</i>), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, §503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, §13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, §7202(<i>l</i>), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, §3(a), Oct. 19, 1998, 112 Stat. 2366.)
 
 Historical and Revision Notes<br>1966
 
@@ -172,6 +172,8 @@ The date of enactment of section 8903a of this title, referred to in par. (8)(B)
 
 #### Amendments
 
+1998—Par. (7). Pub. L. 105–266 substituted “organization and an association of organizations or other entities described in this paragraph sponsoring a health benefits plan;” for “organization;”.
+
 1992—Par. (3)(A)(iv). Pub. L. 102–378, §2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
 
 Par. (10)(C)(ii). Pub. L. 102–378, §2(75)(B), inserted comma after “8341(h)”.
@@ -228,7 +230,7 @@ Gallaudet College, referred to in par. (1)(F), was redesignated Gallaudet Univer
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a),\(b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -260,6 +262,10 @@ Amendment by Pub. L. 95–583 effective Nov. 2, 1978, see section 3 of Pub. L. 9
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of thistitle, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
+
 #### Short Title of 1988 Amendment
 
 Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Act \[enacting sections 8440a, 8902a, 8905a, and 8906a of this title, amending sections 8902, 8903, 8905, 8909, and 8913 of this title, and enacting provisions set out as notes under sections 8902, 8902a, and 8906a of this title\] may be cited as the ‘Federal Employees Health Benefits Amendments Act of 1988’.”
@@ -267,6 +273,62 @@ Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Ac
 #### Short Title of 1986 Amendment
 
 Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
+
+#### Continued Coverage for Individuals Enrolled in Plan Administered by Federal Deposit Insurance Corporation or for Employees of Board of Governors of Federal Reserve System
+
+Pub. L. 105–266, §4, Oct. 19, 1998, 112 Stat. 2367, provided that:
+
+“(a)
+
+Enrollment in Chapter 89
+
+Plan.—For purposes of chapter 89 of title 5, United States Code, any period of enrollment—
+
+&emsp;“(1) in a health benefits plan administered by the Federal Deposit Insurance Corporation before the termination of such plan on or before January 2, 1999; or
+
+&emsp;“(2) subject to subsection (c), in a health benefits plan (not under chapter 89 of such title) with respect to which the eligibility of any employees or retired employees of the Board of Governors of the Federal Reserve System terminates on or before January 2, 1999,
+
+> shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
+
+“(b)
+
+Continued Coverage.—(1) Subject to subsection (c), any individual who, on or before January 2, 1999, is enrolled in a health benefits plan described in subsection (a)(1) or (2) may enroll in an approved health benefits plan under chapter 89 of title 5, United States Code, either as an individual or for self and family, if, after taking into account the provisions of subsection (a), such individual—
+
+&emsp;“(A) meets the requirements of such chapter for eligibility to become so enrolled as an employee, annuitant, or former spouse (within the meaning of such chapter); or
+
+&emsp;“(B) would meet those requirements if, to the extent such requirements involve either retirement system under such title 5, such individual satisfies similar requirements or provisions of the Retirement Plan for Employees of the Federal Reserve System.
+
+> Any determination under subparagraph (B) shall be made under guidelines which the Office of Personnel Management shall establish in consultation with the Board of Governors of the Federal Reserve System.
+
+“(2) Subject to subsection (c), any individual who, on or before January 2, 1999, is entitled to continued coverage under a health benefits plan described in subsection (a)(1) or (2) shall be deemed to be entitled to continued coverage under section 8905a of title 5, United States Code, but only for the same remaining period as would have been allowable under the health benefits plan in which such individual was enrolled on or before January 2, 1999, if—
+
+&emsp;“(A) such individual had remained enrolled in such plan; and
+
+&emsp;“(B) such plan did not terminate, or the eligibility of such individual with respect to such plan did not terminate, as described in subsection (a).
+
+“(3) Subject to subsection (c), any individual (other than an individual under paragraph (2)) who, on or before January 2, 1999, is covered under a health benefits plan described in subsection (a)(1) or (2) as an unmarried dependent child, but who does not then qualify for coverage under chapter 89 of title 5, United States Code, as a family member (within the meaning of such chapter) shall be deemed to be entitled to continued coverage under section 8905a of such title, to the same extent and in the same manner as if such individual had, on or before January 2, 1999, ceased to meet the requirements for being considered an unmarried dependent child of an enrollee under such chapter.
+
+“(4) Coverage under chapter 89 of title 5, United States Code, pursuant to an enrollment under this section shall become effective on January 3, 1999 or such earlier date as established by the Office of Personnel Management after consultation with the Federal Deposit Insurance Corporation or the Board of Governors of the Federal Reserve System, as appropriate.
+
+“(c)
+
+Eligibility for FEHBP Limited to Individuals Losing Eligibility Under Former Health Plan.—Nothing in subsection (a)(2) or any paragraph of subsection (b) (to the extent such paragraph relates to the plan described in subsection (a)(2)) shall be considered to apply with respect to any individual whose eligibility for coverage under such plan does not involuntarily terminate on or before January 2, 1999.
+
+“(d)
+
+Transfers to the Employees Health Benefits Fund.—The Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System shall transfer to the Employees Health Benefits Fund under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office of Personnel Management in addition to amounts available under section 8906(g)(1) of such title.
+
+“(e)
+
+Administration and Regulations.—The Office of Personnel Management—
+
+&emsp;“(1) shall administer the provisions of this section to provide for—
+
+&emsp;&emsp;“(A) a period of notice and open enrollment for individuals affected by this section; and
+
+&emsp;&emsp;“(B) no lapse of health coverage for individuals who enroll in a health benefits plan under chapter 89 of title 5, United States Code, in accordance with this section; and
+
+&emsp;“(2) may prescribe regulations to implement this section.”
 
 #### Continued Coverage for Individuals Enrolled in Plan Administered by Farm Credit Administration
 

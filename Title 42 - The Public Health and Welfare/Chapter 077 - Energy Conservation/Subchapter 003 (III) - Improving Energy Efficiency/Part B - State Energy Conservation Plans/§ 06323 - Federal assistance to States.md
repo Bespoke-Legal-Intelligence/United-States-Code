@@ -6,7 +6,7 @@ Upon request of the Governor of any State, the Secretary shall provide, subject 
 
 &emsp;(1) the preparation of the reports described in section 6322 of this title, and
 
-&emsp;(2) the development, implementation, or modification of an energy conservation plan ofsuch State submitted under section 6322(b) or (e) of this title.
+&emsp;(2) the development, implementation, or modification of an energy conservation plan of such State submitted under section 6322(b) or (e) of this title.
 
 #### (b) Financial assistance to assist State in development, implementation, or modification of energy conservation plan; submission of plan to and approval of Secretary; considerations governing approval; amount of assistance
 
@@ -50,7 +50,7 @@ If the Secretary determines that a State has demonstrated a commitment to improv
 
 &emsp;(2) such State has established a program, including a revolving fund, to finance energy efficiency improvement projects in State and local government facilities and buildings; and
 
-&emsp;(3) such State has obtained funding from non-Federal sources, including but not limited to, oil overcharge funds, State or local government appropriations, or utility contributions (including rebates) equal to or greater thanthree times the amount provided by the Secretary under this subsection for deposit into such revolving fund.
+&emsp;(3) such State has obtained funding from non-Federal sources, including but not limited to, oil overcharge funds, State or local government appropriations, or utility contributions (including rebates) equal to or greater than three times the amount provided by the Secretary under this subsection for deposit into such revolving fund.
 
 (Pub. L. 94–163, title III, §363, Dec. 22, 1975, 89 Stat. 934; Pub. L. 94–385, title IV, §432(b), (c), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §3(b), Oct. 18, 1990, 104 Stat. 1007; Pub. L. 102–486, title I, §141(a)(1), Oct. 24, 1992, 106 Stat. 2840.)
 

@@ -54,7 +54,7 @@ Not more than 30 percent of the funds available in any fiscal year to carry out 
 
 Research activities supported under this section—
 
-&emsp;(1) shall be carried out in consultation with the Office of Educational Research and Improvement to ensure that such activities are coordinated with and enhance the researchand development activities supported by such Office; and
+&emsp;(1) shall be carried out in consultation with the Office of Educational Research and Improvement to ensure that such activities are coordinated with and enhance the research and development activities supported by such Office; and
 
 &emsp;(2) may include collaborative research activities which are jointly funded and carried out with such Office.
 

@@ -26,7 +26,7 @@
 
 #### (b) Limitation on age of children provided access to system
 
-A funding agreement for a grant under section 290ff(a) of this title is that a system of careunder subsection (a) of this section will not provide an individual with access to the system if the individual is more than 21 years of age.
+A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) of this section will not provide an individual with access to the system if the individual is more than 21 years of age.
 
 #### (c) Required mental health services of system
 
@@ -126,7 +126,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 &emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuing education whose duration does not exceed 2 days.
 
-(July 1, 1944, ch. 373, title V, §562, as added July 10, 1992, Pub. L. 102–321, title I, §119, 106 Stat. 351.)
+(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Operation and maintenance of navigation projects
 
-Whenever necessary to meet the requirements of the Federal Water Pollution Control Act \[33U.S.C. 1251 et seq.\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, may remove and remediate, as part of operation and maintenance of a navigation project, contaminated sediments outside the boundaries of and adjacent to the navigation channel.
+Whenever necessary to meet the requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, may remove and remediate, as part of operation and maintenance of a navigation project, contaminated sediments outside the boundaries of and adjacent to the navigation channel.
 
 #### (b) Nonproject specific
 
@@ -44,7 +44,7 @@ In carrying out this section, the Secretary shall give priority to work in the f
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§1251 etseq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 

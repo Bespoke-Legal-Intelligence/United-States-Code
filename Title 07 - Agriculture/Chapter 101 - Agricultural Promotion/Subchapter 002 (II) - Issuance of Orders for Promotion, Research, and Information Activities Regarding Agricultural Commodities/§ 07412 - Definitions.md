@@ -72,7 +72,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (12) Promotion
 
-&emsp;The term “promotion” means any action taken by a board under an order, includingpaid advertising, to present a favorable image of an agricultural commodity to the public to improve the competitive position of the agricultural commodity in the marketplace and to stimulate sales of the agricultural commodity.
+&emsp;The term “promotion” means any action taken by a board under an order, including paid advertising, to present a favorable image of an agricultural commodity to the public to improve the competitive position of the agricultural commodity in the marketplace and to stimulate sales of the agricultural commodity.
 
 #### (13) Research
 

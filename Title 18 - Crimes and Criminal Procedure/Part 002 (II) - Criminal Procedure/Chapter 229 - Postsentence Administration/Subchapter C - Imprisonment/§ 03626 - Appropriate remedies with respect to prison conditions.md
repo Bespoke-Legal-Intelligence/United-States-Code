@@ -20,7 +20,7 @@ Prospective relief.—(A) Prospective relief in any civil action with respect to
 
 &emsp;(2)
 
-Preliminary injunctive relief.—In any civil action with respect to prison conditions,to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
+Preliminary injunctive relief.—In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
 
 &emsp;(3)
 
@@ -50,7 +50,7 @@ Termination of Relief.—
 
 &emsp;(1)
 
-Termination of prospective relief.—(A) In any civil action with respect to prison conditions in which prospective relief is ordered, such relief shall be terminable upon the motion of any party or intervener—
+Termination of prospective relief.—(A) In any civil action with respect to prison conditions in which prospective relief is ordered,such relief shall be terminable upon the motion of any party or intervener—
 
 &emsp;&emsp;(i) 2 years after the date the court granted or approved the prospective relief;
 
@@ -88,7 +88,7 @@ Private settlement agreements.—(A) Nothing in this section shall preclude part
 
 (d)
 
-State Law Remedies.—The limitations on remedies in this section shall not apply to reliefentered by a State court based solely upon claims arising under State law.
+State Law Remedies.—The limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.
 
 (e)
 
@@ -140,7 +140,7 @@ Interlocutory appeal.—Any party shall have the right to an interlocutory appea
 
 &emsp;(4)
 
-Compensation.—The compensation to be allowed to a special master under this section shall be based on an hourly rate not greater than the hourly rate established under section 3006A for payment of court-appointed counsel, plus costs reasonably incurred by the special master. Such compensation and costs shall be paid with funds appropriated to the Judiciary.
+Compensation.—The compensation to be allowed to a special master under this section shall be based on an hourly rate not greater than the hourly rate established under section3006A for payment of court-appointed counsel, plus costs reasonably incurred by the special master. Such compensation and costs shall be paid with funds appropriated to the Judiciary.
 
 &emsp;(5)
 
@@ -216,7 +216,7 @@ Section 101\[(a)\] \[title VIII, §802(b)(1)\] of Pub. L. 104–134 provided tha
 
 #### Effective and Termination Dates
 
-Section 20409(b) of Pub. L. 103–322, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and section 20409(d) of Pub. L. 103–322, which provided for the repeal of this section 5 years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(2)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Section 20409(b) of Pub. L. 103–322, which provided that this section applied to all court orders outstanding on Sept. 13, 1994, and section 20409(d) of Pub. L. 103–322, which provided for the repeal of this section 5years after Sept. 13, 1994, were repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(2)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### Severability
 

@@ -10,5 +10,5 @@ There are authorized to be appropriated—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7111, 7131, 7132, 7133 of this title.
+This section is referred to in sections 7111, 7131, 7133 of this title.
 

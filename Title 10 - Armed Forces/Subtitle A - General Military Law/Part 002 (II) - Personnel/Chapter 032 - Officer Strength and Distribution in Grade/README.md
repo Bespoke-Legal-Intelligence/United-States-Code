@@ -15,7 +15,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title IV, §405(b)(2), title XVI, §1671(b)(4), Oct. 5, 1994, 108 Stat. 2745, 3013, struck out item 524 “Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain”, struck out “524,” after “523,” in item 527, and added item 528.
+1994—Pub. L. 103–337, div. A, title IV, §405(b)(2), title XVI, §1671(b)(4), Oct. 5, 1994, 108 Stat. 2745, 3013, struckout item 524 “Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain”, struck out “524,” after “523,” in item 527, and added item 528.
 
 1988—Pub. L. 100–370, §1(b)(3), July 19, 1988, 102 Stat. 840, struck out former item 526 “Authority to suspend sections 523, 524, and 525”, and added items 526 and 527.
 

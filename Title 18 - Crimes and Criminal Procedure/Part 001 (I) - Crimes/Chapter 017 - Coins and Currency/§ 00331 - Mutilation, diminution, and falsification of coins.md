@@ -6,7 +6,7 @@ Whoever fraudulently possesses, passes, utters, publishes, or sells, or attempts
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 700; July 16, 1951, ch. 226, §1, 65 Stat. 121; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 700; July 16, 1951, ch. 226, §1, 65 Stat. 121; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

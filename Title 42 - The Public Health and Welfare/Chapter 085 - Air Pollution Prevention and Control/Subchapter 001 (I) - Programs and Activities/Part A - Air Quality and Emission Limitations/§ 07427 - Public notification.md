@@ -8,7 +8,7 @@ Each State plan shall contain measures which will be effective to notify the pub
 
 The Administrator is authorized to make grants to States to assist in carrying out the requirements of subsection (a) of this section.
 
-(July 14, 1955, ch. 360, title I, §127, as added Aug. 7, 1977, Pub. L. 95–95, title I, §124, 91 Stat. 725.)
+(July 14, 1955, ch. 360, title I, §127, as added Pub. L. 95–95, title I, §124, Aug. 7, 1977, 91 Stat. 725.)
 
 #### Effective Date
 

@@ -40,7 +40,7 @@ Each State to which a grant is made under this section—
 
 &emsp;(3) shall monitor, evaluate, and report on such programs in accordance with regulations prescribed by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title IV, §469B, as added Aug. 22, 1996, Pub. L. 104–193, title III, §391, 110 Stat. 2258.)
+(Aug. 14, 1935, ch. 531, title IV, §469B, as added Pub. L. 104–193, title III, §391, Aug. 22, 1996, 110 Stat. 2258.)
 
 #### Effective Date
 

@@ -58,7 +58,7 @@
 
 (i) The Secretary shall require the testing of an individual who applies for issuance or renewal of a license or certificate of registry under this chapter for use of a dangerous drug in violation of law or Federal regulation.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 539; Pub. L. 98–557, §29(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 101–380, title IV, §4101(a), Aug. 18, 1990, 104 Stat.509; Pub. L. 104–324, title VII, §720, Oct. 19, 1996, 110 Stat. 3938.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 539; Pub. L. 98–557, §29(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 101–380, title IV, §4101(a), Aug. 18, 1990, 104 Stat. 509; Pub. L. 104–324, title VII, §720, Oct. 19, 1996, 110 Stat. 3938.)
 
 Historical and Revision Notes
 

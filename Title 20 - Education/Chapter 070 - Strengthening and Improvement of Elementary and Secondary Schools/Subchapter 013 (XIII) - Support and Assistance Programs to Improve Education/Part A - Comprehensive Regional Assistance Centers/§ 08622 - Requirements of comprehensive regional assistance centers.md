@@ -42,7 +42,7 @@ Each comprehensive regional assistance center established under section 8621(a) 
 
 &emsp;(7) provide services to States, local educational agencies, tribes, and schools, in coordination with the National Diffusion Network State Facilitators activities under section 8651 of this title, in order to better implement the purposes of this part and provide the support and assistance diffusion agents need to carry out such agents’ mission effectively; and
 
-&emsp;(8) provide professional development services to State educational agencies, local educational agencies, and the National DiffusionNetwork State Facilitators to increase the capacity of such entities to provide high-quality technical assistance in support of programs under this chapter.
+&emsp;(8) provide professional development services to State educational agencies, local educational agencies, and the National Diffusion Network State Facilitators to increase the capacity of such entities to provide high-quality technical assistance in support of programs under this chapter.
 
 #### (b) Priority
 
@@ -56,7 +56,7 @@ Each comprehensive regional assistance center assisted under this part shall giv
 
 #### References in Text
 
-The National Literacy Act of 1991, referred to in subsec. (a)(4), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of this title and Tables.
+The National Literacy Act of 1991, referred to in subsec. (a)(4), was Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

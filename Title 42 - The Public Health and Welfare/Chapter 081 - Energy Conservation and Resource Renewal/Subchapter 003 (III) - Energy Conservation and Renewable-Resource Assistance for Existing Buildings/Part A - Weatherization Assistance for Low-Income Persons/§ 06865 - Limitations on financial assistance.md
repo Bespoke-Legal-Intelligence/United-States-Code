@@ -56,7 +56,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 #### (d) Supplementary financial assistance to States
 
-Beginning with fiscal year 1992, the Secretary may allocate funds appropriated pursuant to section 6872(b) of this title to provide supplementary financial assistance to those States which the Secretary determines have achieved the best performance during the previous fiscal year in achieving the purposes of this part. In making this determination, the Secretary shall—
+Beginning with fiscal year 1992, the Secretary may allocate funds appropriated pursuant to section 6872(b) <sup>1</sup> of this title to provide supplementary financial assistance to those States which the Secretary determines have achieved the best performance during the previous fiscal year in achieving the purposes of this part. In making this determination, the Secretary shall—
 
 &emsp;(1) consult with the State Energy Advisory Board established under section 6325(g) of this title; and
 
@@ -64,7 +64,7 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 #### (e) Supplementary financial assistance to grant recipients
 
-(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
+(1)(A) Beginning with fiscal year 1992, the Secretary may allocate, from funds appropriated pursuant to section 6872(b) <sup>1</sup> of this title, among the States an equal amount for each State not to exceed $100,000 per State. Each State shall make available amounts received under this subsection to provide supplementary financial assistance to recipients of grants under this part that have achieved the best performance during the previous fiscal year in advancing the purposes of this part.
 
 (B) None of the funds made available under this subsection may be used by any State for administrative purposes.
 
@@ -75,6 +75,8 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 #### References in Text
 
 The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+
+Section 6872 of this title, referred to in subsecs. (d) and (e)(1)(A), was amended by Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477, and, as so amended, no longer contains a subsec. (b).
 
 #### Amendments
 
@@ -92,7 +94,7 @@ Subsec. (e). Pub. L. 101–440, §7(i), added subsec. (e).
 
 1984—Subsec. (a). Pub. L. 98–558, §403(1), substituted provisions that an average of at least forty percent of the funds provided shall be spent for weatherization for former provisions which directed the Secretary to use funds to the maximum extent practicable.
 
-Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and public service employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying personswho would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
+Subsec. (c). Pub. L. 98–558, §403(2), in amending subsec. (c) generally, substituted provisions that expenditures shall not exceed an average of $1,600 per dwelling unit for former provisions which provided for an $800 per dwelling unit limit in par. (1), struck out “(not to exceed $150)” after “the cost” in par. (1)(D), substituted provisions that dwelling units partially weatherized between certain dates could receive further financial assistance under this part for former provisions that $800 limit would not apply if the State policy advisory council requested greater amounts from the Secretary and the Secretary gave approval in par. (2), and deleted former par. (3) which provided that in areas where the Secretary, after consultation with the Secretary of Labor, determined that there was an insufficient number of volunteers and training participants and publicservice employment workers, assisted pursuant to the Comprehensive Employment and Training Act of 1973, available to work on weatherization projects under the supervision of qualified supervisors and foremen, the Secretary could increase the limitation of $800 to not more than $1,600 to cover the costs of paying persons who would install the weatherization materials and, to the maximum extent practicable, who would otherwise be able to participate as training participants and public service employment workers pursuant to the Comprehensive Employment and Training Act of 1973.
 
 Subsec. (d). Pub. L. 98–558, §404, added subsec. (d).
 
@@ -117,4 +119,6 @@ Pub. L. 99–190, §101(d) \[title II, §201\], Dec. 19, 1985, 99 Stat. 1224, 12
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1474, 6864, 6872 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

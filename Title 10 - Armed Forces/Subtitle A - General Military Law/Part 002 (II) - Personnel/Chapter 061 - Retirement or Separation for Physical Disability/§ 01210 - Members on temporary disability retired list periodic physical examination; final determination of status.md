@@ -22,13 +22,13 @@
 
 (2)(A) For the purpose of paragraph (1)(B), a member shall be considered qualified for retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve or is required to be discharged, retired, or eliminated from an active status if, were the member reappointed or reenlisted under section 1211 of this title, the member would in all other respects be qualified for or would be required to be retired, transferred to the Fleet Reserve or Fleet Marine Corps Reserve, discharged, or eliminated from an active status under any other provision of law.
 
-(B) The grade of a member retired, transferred, discharged, or eliminated from an active status pursuant to paragraph (1)(B) shall be determined under the provisions of law under which the member is retired, transferred, discharged, or eliminated. The member's retired, retainer, severance, readjustment, or separation pay shall be computed as if the member had been reappointed or reenlisted upon removal from the temporary disability retired list and before the retirement, transfer, discharge, or elimination. Notwithstanding section 8301 of title 5, a member who is retired shall be entitled to retired pay effective on the day after the last day on which the member is entitled to disability retired pay.
+(B) The grade of a member retired, transferred, discharged, or eliminated from an active status pursuant to paragraph (1)(B) shall be determined under the provisions of law under which the member is retired, transferred, discharged, or eliminated. The member's retired, retainer, severance, readjustment, or separation pay shall be computed as if the member had been reappointed or reenlisted upon removal from the temporary disability retired list and before the retirement, transfer, discharge, or elimination. Notwithstanding section 8301 oftitle 5, a member who is retired shall be entitled to retired pay effective on the day after the last day on which the member is entitled to disability retired pay.
 
 (g) Any member of the armed forces whose name is on the temporary disability retired list, and who is required to travel to submit to a physical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
 
 (h) If his name is not sooner removed, the disability retired pay of a member whose name is on the temporary disability retired list terminates upon the expiration of five years after the date when his name was placed on that list.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 95; Nov. 8, 1985, Pub. L. 99–145, title V, §513(a)(2), 99 Stat. 627; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 95; Pub. L. 99–145, title V, §513(a)(2), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602.)
 
 Historical and Revision Notes
 

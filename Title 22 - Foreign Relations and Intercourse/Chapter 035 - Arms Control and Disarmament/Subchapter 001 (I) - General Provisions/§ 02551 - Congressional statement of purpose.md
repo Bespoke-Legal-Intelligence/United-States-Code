@@ -1,28 +1,30 @@
 ### §2551. Congressional statement of purpose
 
-An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by creating a new agency of peace to deal with the problem of reduction and control of armaments looking toward ultimate world disarmament.
+An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by addressing the problem of reduction and control of armaments looking toward ultimate world disarmament.
 
-Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy.
+The Secretary of State must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. The Secretary shall have the authority, under the direction of the President, to carry out the following primary functions:
 
-This organization must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. It shall have the authority, under the direction of the President and the Secretary of State, to carry out the following primary functions:
+&emsp;(1) The preparation for and management of United States participation in international negotiations and implementation fora in the arms control, nonproliferation, and disarmament field.
 
-&emsp;(1) The preparation for and management of United States participation in international negotiations and implementation fora in the arms control and disarmament field.
+&emsp;(2) The conduct, support, and coordination of research for arms control, nonproliferation, and disarmament policy formulation.
 
-&emsp;(2) When directed by the President, the preparation for, and management of, United States participation in international negotiations and implementation fora in the nonproliferation field.
+&emsp;(3) The preparation for, operation of, or direction of, United States participation in such control systems as may become part of United States arms control, nonproliferation, and disarmament activities.
 
-&emsp;(3) The conduct, support, and coordination of research for arms control, nonproliferation, and disarmament policy formulation.
+&emsp;(4) The dissemination and coordination of public information concerning arms control, nonproliferation, and disarmament.
 
-&emsp;(4) The preparation for, operation of, or, as appropriate, direction of, United States participation in such control systems as may become part of United States arms control, nonproliferation, and disarmament activities.
-
-&emsp;(5) The dissemination and coordination of public information concerning arms control, nonproliferation, and disarmament.
-
-(Pub. L. 87–297, title I, §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144, Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501.)
+(Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144, Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501; renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
 
 #### Amendments
 
+1998—Pub. L. 105–277, §1223(1)(A), in first undesignated par., substituted “addressing” for “creating a new agency of peace to deal with”.
+
+Pub. L. 105–277, §1223(1)(B), struck out second undesignated par. which read as follows: “Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy.”
+
+Pub. L. 105–277, §1223(1)(C), in last undesignated par., in introductory provisions, substituted “The Secretary of State” for “This organization”, substituted “The Secretary shall have” for “It shall have”, and struck out “and the Secretary of State” after “the President”, in subpar. (1) inserted “, nonproliferation,” after “arms control”, redesignated subpar. (3) as (2) and struck out former subpar. (2) which read as follows: “When directed by the President, the preparation for, and management of, United States participation in international negotiations and implementation fora in the nonproliferation field.”, redesignated subpar. (4) as (3) and struck out “, as appropriate,” before “direction of”, and redesignated subpar. (5) as (4).
+
 1994—Pub. L. 103–236, §719(a), inserted “, nonproliferation,” after “Arms control” in second undesignated par. and after “arms control” wherever appearing in second and third undesignated pars.
 
-Pub. L. 103–236, §703, substituted pars. (1) to (5) for former pars. (a) to (d) which read as follows:
+Pub. L. 103–236, §703, substituted subpars. (1) to (5) for former subpars. (a) to (d) which read as follows:
 
 “(a) The conduct, support, and coordination of research for arms control and disarmament policy formulation;
 
@@ -34,13 +36,17 @@ Pub. L. 103–236, §703, substituted pars. (1) to (5) for former pars. (a) to (
 
 1975—Pub. L. 94–141 substituted “It shall have the authority, under the direction of the President and the Secretary of State,” for “It must be able”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
 #### Short Title of 1994 Amendment
 
 Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–216, §1, Dec. 11, 1989, 103 Stat. 1853, provided that: “This Act \[enacting sections 2577a and 2595 to 2595c of this title, amending sections 2563, 2567, 2588, and 2589 of this title, and enacting provisions set out as notes under sections 2565 and 2567 of this title\] may be cited as the ‘Arms Control and Disarmament Amendments Act of 1989’.”
+Pub. L. 101–216, §1, Dec. 11, 1989, 103 Stat. 1853, provided that: “This Act \[enacting sections 2577a and 2595to 2595c of this title, amending sections 2563, 2567, 2588, and 2589 of this title, and enacting provisions set out as notes under sections 2565 and 2567 of this title\] may be cited as the ‘Arms Control and Disarmament Amendments Act of 1989’.”
 
 #### Short Title of 1987 Amendment
 
@@ -56,31 +62,15 @@ Pub. L. 95–108, §1, Aug. 17, 1977, 91 Stat. 871, provided that: “This Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 87–297 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Arms Control and Disarmament Act’.”
+Pub. L. 87–297, title I, §101, formerly §1, Sept. 26, 1961, 75 Stat. 631, as renumbered §101 by Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(21), Oct. 21, 1998, 112 Stat. 2681–772, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Arms Control and Disarmament Act’.”
 
 #### Congressional Declarations; Purposes of 1994 Amendment
 
-Section 702 of Pub. L. 103–236 provided that:
-
-“(a)
-
-Congressional Declarations.—The Congress declares that—
-
-&emsp;“(1) a fundamental goal of the United States, particularly in the wake of the highly turbulent and uncertain international situation fostered by the end of the Cold War, the disintegration of the Soviet Union and the resulting emergence of fifteen new independent states, and the revolutionary changes in Eastern Europe, is to prevent the proliferation of nuclear weapons and their means of delivery and of advanced conventional armaments, to eliminate chemical and biological weapons, and to reduce and limit the large numbers of nuclear weapons in the former Soviet Union, as well as to prevent regional conflicts and conventional arms races; and
-
-&emsp;“(2) an ultimate goal of the United States continues to be a world in which the use of force is subordinated to the rule of law and international change is achieved peacefully without the danger and burden of destabilizing and costly armaments.
-
-“(b)
-
-Purpose.—The purpose of this part \[part A of title VII of Pub. L. 103–236, see Short Title of 1994 Amendment note above\] is—
-
-&emsp;“(1) to strengthen the United States Arms Control and Disarmament Agency; and
-
-&emsp;“(2) to improve congressional oversight of the arms control, nonproliferation, and disarmament activities of the United States Arms Control and Disarmament Agency, and of the Agency's operating budget.”
+Section 702 of Pub. L. 103–236 stated congressional declarations and purposes of amendments by part A of title VII of Pub. L. 103–236 (see Short Title of 1994 Amendment note above) to strengthen United States Arms Control and Disarmament Agency, and to improve congressional oversight of arms control, nonproliferation, and disarmament activities of United States Arms Control and Disarmament Agency, and of Agency's operating budget.
 
 #### Report on Revitalization of ACDA
 
-Section 717(b) of Pub. L. 103–236 provided that: “Not later than December 31, 1995, the Director of the United States Arms Control and Disarmament Agency shall submit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a detailed report describing the actions that have been taken and that are underway to revitalize the United States Arms Control and Disarmament Agency pursuant to the provisions of this part \[part A of title VII of Pub. L. 103–236, see Short Title of 1994 Amendment note above\] and the amendments made by this part.”
+Section 717(b) of Pub. L. 103–236 provided that not later than Dec. 31, 1995, Director of United States Arms Control and Disarmament Agency was to submit to Congress a detailed report describing actions undertaken to revitalize United States Arms Control and Disarmament Agency.
 
 #### Soviet Weapons Destruction
 
@@ -100,7 +90,7 @@ Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L
 
 Findings.—The Congress finds—
 
-&emsp;“(1) that Soviet President Gorbachev has requested Western help in dismantling nuclear weapons, andPresident Bush has proposed United States cooperation on the storage, transportation, dismantling, and destruction of Soviet nuclear weapons;
+&emsp;“(1) that Soviet President Gorbachev has requested Western help in dismantling nuclear weapons, and President Bush has proposed United States cooperation on the storage, transportation, dismantling, and destruction of Soviet nuclear weapons;
 
 &emsp;“(2) that the profound changes underway in the Soviet Union pose three types of danger to nuclear safety and stability, as follows: (A) ultimate disposition of nuclear weapons among the Soviet Union, its republics, and any successor entities that is not conducive to weapons safety or to international stability; (B) seizure, theft, sale, or use of nuclear weapons or components; and (C) transfers of weapons, weapons components, or weapons know-how outside of the territory of the Soviet Union, its republics, and any successor entities, that contribute to worldwide proliferation; and
 

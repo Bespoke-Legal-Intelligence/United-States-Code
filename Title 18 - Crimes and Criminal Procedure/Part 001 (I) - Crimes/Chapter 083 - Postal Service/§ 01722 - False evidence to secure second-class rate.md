@@ -2,7 +2,7 @@
 
 Whoever knowingly submits to the Postal Service or to any officer or employee of the Postal Service, any false evidence relative to any publication for the purpose of securing the admission thereof at the second-class rate, for transportation in the mails, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 783; Aug. 12, 1970, Pub. L. 91–375, §6(j)(30), 84 Stat. 780; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 783; Pub. L. 91–375, §6(j)(30), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

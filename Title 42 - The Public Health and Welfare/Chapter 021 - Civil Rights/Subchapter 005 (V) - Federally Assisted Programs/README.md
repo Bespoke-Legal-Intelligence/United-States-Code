@@ -8,7 +8,7 @@ Age discrimination in federally assisted programs, see section 6101 et seq. of t
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 290cc–33, 300w–7, 300x–57, 608, 708, 1437<i>l</i>, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 1760, 1988, 1996b, 2000d–6, 2000d–7, 2000h, 3608, 3608a, 4621, 5057, 5309, 5891, 6709, 6870, 8013, 8625, 9906, 10406, 11386, 11394, 12635, 12754, 12872, 12873, 12892, 12893, 12899b, 12899c of this title; title 12 section 1701q; title 15 sections 719<i>o</i>, 775, 3151; title 20 sections 1221, 1231e, 1232i, 1717, 7205, 7402, 7426, 7602, 8066; title 23 sections 108, 117, 324; title 25 section 4131; title 29 sections 794a, 1577, 2618; title 40 section 476; title 43 section 1863; title 49 sections 306, 5332, 47123, 70304.
+This subchapter is referred to in sections 290cc–33, 300w–7, 300x–57, 608, 708, 1437c–1, 1437d, 1437aaa–1, 1437aaa–2, 1760, 1988, 1996b, 2000d–6, 2000d–7, 2000h, 3608, 3608a, 4621, 5057, 5309, 5891, 6709, 6870, 8013, 8625, 9906, 10406, 11386, 11394, 12635, 12754, 12872, 12873, 12892, 12893, 12899b, 12899c of this title; title 12 section 1701q; title 15 sections 719<i>o</i>, 775, 3151; title 20 sections 1221, 1231e, 1232i, 1717, 7205, 7402, 7426, 7602, 8066; title 23 sections 108, 182, 324; title 25 section 4131; title 29 sections 794a, 1577, 2618, 2938; title 40 section 476; title 43 section 1863; title 49 sections 306, 5332, 47123, 70304.
 
 
 ---

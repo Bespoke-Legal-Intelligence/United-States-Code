@@ -20,5 +20,5 @@
 
 &emsp;&emsp;(B) use of the fuel or target will permit the large majority of ongoing and planned experiments and isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor.
 
-(Aug. 1, 1946, ch. 724, title I, §134, as added Oct. 24, 1992, Pub. L. 102–486, title IX, §903(a)(1), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §134, as added Pub. L. 102–486, title IX, §903(a)(1), Oct. 24, 1992, 106 Stat. 2944.)
 

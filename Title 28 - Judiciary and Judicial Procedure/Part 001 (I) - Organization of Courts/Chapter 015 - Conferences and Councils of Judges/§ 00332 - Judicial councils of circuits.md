@@ -16,7 +16,7 @@
 
 (c) The chief judge shall submit to the council the semiannual reports of the Director of the Administrative Office of the United States Courts. The council shall take such action thereon as may be necessary.
 
-(d)(1) Each judicial council shall make all necessary and appropriate orders for the effective and expeditious administration of justice within its circuit. Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public. Each council is authorized to hold hearings, to take sworn testimony, and to issue subpoenas and subpoenas duces tecum. Subpoenas and subpoenas duces tecum shall be issued by the clerk of the court of appeals, at the direction of the chief judge of the circuit or his designee and under the seal of the court, and shall be served in the manner provided in rule 45(c) of the Federal Rules of Civil Procedure for subpoenas and subpoenas duces tecum issued on behalf of the United States or an officer or agency thereof.
+(d)(1) Each judicial council shall make all necessary and appropriate orders for the effectiveand expeditious administration of justice within its circuit. Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public. Each council is authorized to hold hearings, to take sworn testimony, and to issue subpoenas and subpoenas duces tecum. Subpoenas and subpoenas duces tecum shall be issued by the clerk of the court of appeals, at the direction of the chief judge of the circuit or his designee and under the seal of the court, and shall be served in the manner provided in rule 45(c) of the Federal Rules of Civil Procedure for subpoenas and subpoenas duces tecum issued on behalf of the United States or an officer or agency thereof.
 
 (2) All judicial officers and employees of the circuit shall promptly carry into effect all orders of the judicial council. In the case of failure to comply with an order made under this subsection or a subpoena issued under section 372(c) of this title, a judicial council or a special committee appointed under section 372(c)(4) of this title may institute a contempt proceeding in any district court in which the judicial officer or employee of the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.
 
@@ -76,11 +76,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 #### Amendments
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–317 added subsec. (g).
+1996—Subsec. (g). Pub. L. 104–317 added subsec. (g).
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–198 substituted “such number” for “such member” and “service” for “services”.
+1991—Subsec. (a)(1). Pub. L. 102–198 substituted “such number” for “such member” and “service” for “services”.
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–650, §323(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he may designate, a meeting of the judicial council of the circuit, consisting of—
+1990—Subsec. (a)(1). Pub. L. 101–650, §323(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he may designate, a meeting of the judicial council of the circuit, consisting of—
 
 &emsp;“(A) the chief judge of the circuit, who shall preside;
 
@@ -90,7 +90,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 &emsp;&emsp;“(i) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph is less than six, the number of district judges fixed in accordance with this subparagraph shall be no less than two; and
 
-&emsp;&emsp;“(ii) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph issix or more, the number of district judges fixed in accordance with this subparagraph shall be no less than three.”
+&emsp;&emsp;“(ii) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph is six or more, the number of district judges fixed in accordance with this subparagraph shall be no less than three.”
 
 Subsec. (a)(3) to (7). Pub. L. 101–650, §323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
 
@@ -98,7 +98,7 @@ Subsec. (d)(2). Pub. L. 101–650, §403, inserted at end “In the case of fail
 
 Subsec. (f)(1). Pub. L. 101–650, §325(b)(1), substituted “under section 5315 of title 5” for “(5 U.S.C. 5316)”.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–702, §1020(a)(1), substituted “semiannual” for “semi-annually”.
+1988—Subsec. (c). Pub. L. 100–702, §1020(a)(1), substituted “semiannual” for “semi-annually”.
 
 Subsec. (d)(1). Pub. L. 100–702, §403(b), inserted after first sentence “Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public.”
 
@@ -110,7 +110,7 @@ Subsec. (f). Pub. L. 100–702, §1018(2), designated last four undesignated par
 
 Pub. L. 100–459 substituted “level IV” for “level V”.
 
-<b>1980</b>—Pub. L. 96–458, §2(d)(1), substituted “Judicial councils of circuits” for “Judicial councils” in section catchline.
+1980—Pub. L. 96–458, §2(d)(1), substituted “Judicial councils of circuits” for “Judicial councils” in section catchline.
 
 Subsec. (a). Pub. L. 96–458, §2(a), in par. (1) designated existing provisions as introductory provision and in such introductory provision substituted “each judicial circuit” for “each circuit”, substituted “a meeting of the judicial council of the circuit, consisting of—” for “a council of the circuit judges for the circuit, in regular active service, at which he shall preside. Each circuit judge, unless excused by the chief judge, shall attend all sessions of the council.”, and added subpars. (A) to (C) and pars. (2) to (7).
 
@@ -118,11 +118,11 @@ Subsec. (c). Pub. L. 96–458, §2(b), substituted “semiannually” for “qua
 
 Subsec. (d). Pub. L. 96–458, §2(c), amended subsec. (d) generally, designating existing provisions as par. (1), inserting “and appropriate” after “all necessary”, substituting “justice within its circuit” for “the business of the courts within its circuit”, striking out “The district judges shall promptly carry into effect all orders of the judicial council.” after “within its circuit.”, inserting provisions relating to the holding of hearings, taking of testimony, the issuance of subpoenas and service thereof under the Federal Rules of Civil Procedure, and adding pars. (2) and (3).
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–598 directed the amendment of subsec. (d) by inserting “and bankruptcy judges” after “The district judges”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsec. (d). Pub. L. 95–598 directed the amendment of subsec. (d) by inserting “and bankruptcy judges” after “The district judges”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1971</b>—Pub. L. 91–647 designated existing four paragraphs as subsecs. (a), (b), (c), and (d), respectively, and added subsecs. (e) and (f).
+1971—Pub. L. 91–647 designated existing four paragraphs as subsecs. (a), (b), (c), and (d), respectively, and added subsecs. (e) and (f).
 
-<b>1963</b>—Pub. L. 88–176 inserted “regular” before “active service” in first sentence.
+1963—Pub. L. 88–176 inserted “regular” before “active service” in first sentence.
 
 #### Effective Date of 1990 Amendment
 

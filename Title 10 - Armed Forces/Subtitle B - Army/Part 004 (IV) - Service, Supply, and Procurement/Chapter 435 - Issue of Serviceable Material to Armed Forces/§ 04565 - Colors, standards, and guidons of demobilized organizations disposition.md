@@ -12,7 +12,7 @@
 
 (c) No color, standard, or guidon may be disposed of under this section unless provision satisfactory to the Secretary has been made for its preservation and care.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 256; Nov. 2, 1966, Pub. L. 89–718, §29, 80 Stat. 1119.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 256; Pub. L. 89–718, §29, Nov. 2, 1966, 80 Stat. 1119.)
 
 Historical and Revision Notes
 

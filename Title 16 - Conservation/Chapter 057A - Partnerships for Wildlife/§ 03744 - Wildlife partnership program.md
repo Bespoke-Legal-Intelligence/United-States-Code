@@ -70,11 +70,13 @@ No designated State agency shall be eligible to receive matching funds from the 
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to the Fund and to the Secretary for each of fiscal years 1992 through 1998 not to exceed $6,250,000.
+There are authorized to be appropriated to the Fund and to the Secretary not to exceed $6,250,000 for each of fiscal years 1999 through 2003.
 
-(Pub. L. 102–587, title VII, §7105, Nov. 4, 1992, 106 Stat. 5097; Pub. L. 103–375, §6(4)–(7), Oct. 19, 1994, 108 Stat. 3495, 3496.)
+(Pub. L. 102–587, title VII, §7105, Nov. 4, 1992, 106 Stat. 5097; Pub. L. 103–375, §6(4)–(7), Oct. 19, 1994, 108 Stat. 3495, 3496; Pub. L. 105–312, title III, §303, Oct. 30, 1998, 112 Stat. 2958.)
 
 #### Amendments
+
+1998—Subsec. (h). Pub. L. 105–312 substituted “not to exceed $6,250,000 for each of fiscal years 1999 through 2003.” for “for each of fiscal years 1992 through 1998 not to exceed $6,250,000.”
 
 1994—Subsec. (d)(5). Pub. L. 103–375, §6(4), struck out par. (5) which read as follows: “may not exceed the State share of the cost of implementing such a project.”
 

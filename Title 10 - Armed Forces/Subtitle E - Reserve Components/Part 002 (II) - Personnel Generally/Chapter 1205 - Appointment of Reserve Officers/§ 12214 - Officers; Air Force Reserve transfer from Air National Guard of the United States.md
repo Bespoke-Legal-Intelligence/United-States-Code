@@ -4,7 +4,7 @@
 
 (b) Unless discharged from his appointment as a Reserve, an officer of the Air National Guard of the United States whose Federal recognition as a member of the Air National Guard is withdrawn becomes a member of the Air Force Reserve. An officer who so becomes a member of the Air Force Reserve ceases to be a member of the Air National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 520, §8352; Sept. 7, 1962, Pub. L. 87–651, title I, §126, 76 Stat. 514; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059; renumbered §12214 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1662(c)(3), 1675(b)(2), 108 Stat. 2990, 3017; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(b)(13)(A), 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 520, §8352; Pub. L. 87–651, title I, §126, Sept. 7, 1962, 76 Stat. 514; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12214 and amended Pub. L. 103–337, div. A, title XVI,§§1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§706 (less last 15 words of 1st sentence, and less applicability to enlistments), 707 (less applicability to enlistments), 66 Stat. 503.
 
-In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Air Force” are substituted for the words “highest permanent grade previously held in \* \* \* the Air Force or any component thereof”, since “permanent” grades areheld only in a component and there are no “nonpermanent” grades held in a component.
+In subsection (a), the words “at any time”, “of any person”, and “from the National Guard of the United States or from the Air National Guard of the United States” are omitted as surplusage. The words “highest regular or reserve grade ever held by him in the Air Force” are substituted for the words “highest permanent grade previously held in \* \* \* the Air Force or any component thereof”, since “permanent” grades are held only in a component and there are no “nonpermanent” grades held in a component.
 
 In subsection (b), the words “appointment as a Reserve” are substituted for the words “appointment or \* \* \* as a Reserve officer or”. The words “whose Federal recognition as a member \* \* \* is withdrawn” are substituted for the words “ceases to hold a status as a federally recognized member”.
 

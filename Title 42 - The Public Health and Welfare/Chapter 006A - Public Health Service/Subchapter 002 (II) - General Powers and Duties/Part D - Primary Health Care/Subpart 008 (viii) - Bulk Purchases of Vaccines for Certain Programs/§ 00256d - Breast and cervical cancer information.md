@@ -10,7 +10,7 @@ In carrying out subsection (a) of this section, an entity specified in subsectio
 
 &emsp;(1) may make the information involved available to such individuals as the entity determines appropriate;
 
-&emsp;(2) may, as appropriate, provide information under subsection (a) of this section on theneed for self-examination of the breasts and on the skills for such self-examinations;
+&emsp;(2) may, as appropriate, provide information under subsection (a) of this section on the need for self-examination of the breasts and on the skills for such self-examinations;
 
 &emsp;(3) shall provide information under subsection (a) of this section in the language and cultural context most appropriate to the individuals to whom the information is provided; and
 
@@ -40,7 +40,7 @@ The entities specified in this subsection are the following:
 
 &emsp;(10) Non-Federal entities authorized under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
-(July 1, 1944, ch. 373, title III, §340D, as added Dec. 14, 1993, Pub. L. 103–183, title I, §104, 107 Stat. 2230.)
+(July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230.)
 
 #### References in Text
 

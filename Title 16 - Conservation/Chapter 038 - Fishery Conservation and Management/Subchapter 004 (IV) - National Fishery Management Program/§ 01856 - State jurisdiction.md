@@ -96,35 +96,53 @@ Subsec. (c)(2). Pub. L. 101–627, §112(2), added par. (2) and struck out forme
 
 Section 3 of Pub. L. 97–191 provided that: “This Act \[amending this section and section 1857 of this title\] shall take effect on June 1, 1982.”
 
-#### Interim Authority for Dungeness Crab
+#### Authority of States of Washington, Oregon, and California To Manage Dungeness Crab Fishery
 
-Section 112(d) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 105–384, title II, §203, Nov. 13, 1998, 112 Stat. 3453, provided that:
 
-“(1) Subject to the provisions of this subsection and notwithstanding section 306(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1856(a)), the States of Washington, Oregon, and California may each enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+“(a)
 
-“(2) Any law or regulation promulgated under this subsection shall apply equally to vessels operating in the exclusive economic zone and adjacent State waters and shall be limited to—
+In General.—Subject to the provisions of this section and notwithstanding section 306(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1856(a)), each of the States of Washington, Oregon, and California may adopt and enforce State laws and regulations governing fishing and processing in the exclusive economic zone adjacent to that State in any Dungeness crab (Cancer magister) fishery for which there is no fishery management plan in effect under that Act \[16 U.S.C. 1801 et seq.\].
 
-&emsp;“(A) establishment of season opening and closing dates, including presoak dates for crab pots;
+“(b)
 
-&emsp;“(B) setting of minimum sizes and crab meat recovery rates;
+Requirements for State Management.—Any law or regulation adopted by a State under this section for a Dungeness crab fishery—
 
-&emsp;“(C) restrictions on the retention of crab of a certain sex; and
+&emsp;“(1) except as provided in paragraph (2), shall apply equally to vessels engaged in the fishery in the exclusive economic zone and vessels engaged in the fishery in the waters of the State, and without regard to the State that issued the permit under which a vessel is operating;
 
-&emsp;“(D) closure of areas or pot limitations to meet the harvest requirements arising under the jurisdiction of United States v. Washington, subproceeding 89–3.
+&emsp;“(2) shall not apply to any fishing by a vessel in exercise of tribal treaty rights except as provided in United States v. Washington, D.C. No. CV–70–09213, United States District Court for the Western District of Washington; and
 
-“(3) With respect to the States of Washington, Oregon, and California—
+&emsp;“(3) shall include any provisions necessary to implement tribal treaty rights pursuant to the decision in United States v. Washington, D.C. No. CV–70–09213.
 
-&emsp;“(A) any State law limiting entry to a fishery subject to regulation under this subsection may not beenforced against a vessel that is operating in the exclusive economic zone off that State and is not registered under the law of that State, if the vessel is otherwise legally fishing in the exclusive economic zone, except that State laws regulating landings may be enforced; and
+“(c)
 
-&emsp;“(B) no vessel may harvest or process fish which is subject to regulation under this subsection unless under an appropriate State permit or pursuant to a Federal court order.
+Limitation on Enforcement of State Limited Access Systems.—Any law of the State of Washington, Oregon, or California that establishes or implements a limited access system for a Dungeness crab fishery may not be enforced against a vessel that is otherwise legally fishing in the exclusive economic zone adjacent to that State and that is not registered under the laws of that State, except a law regulating landings.
 
-“(4) The authority provided under this subsection to regulate the Dungeness crab fishery shall terminate on October 1, 1999, or when a fishery management plan is implemented under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) for such fishery, whichever date is earlier.
+“(d)
 
-“(5) Nothing in this subsection shall reduce the authority of any State, as such authority existed on July 1, 1996, to regulate fishing, fish processing, or landing of fish.
+State Permit or Treaty Right Required.—No vessel may harvest or process Dungeness crab in the exclusive economic zone adjacent to the State of Washington, Oregon, or California, except as authorized by a permit issued by any of those States or pursuant to any tribal treaty rights to Dungeness crab pursuant to the decision in United States v. Washington, D.C. No. CV–70–09213.
 
-“(6)(A) It is the sense of Congress that the Pacific Fishery Management Council, at the earliest practicable date, should develop and submit to the Secretary fishery management plans for shellfish fisheries conducted in the geographic area of authority of the Council, especially Dungeness crab, which are not subject to a fishery management plan on the date of enactment of this Act \[Oct. 11, 1996\].
+“(e)
 
-“(B) Not later than December 1, 1997, the Pacific Fishery Management Council shall provide a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives describing the progress in developing the fishery management plans referred to in subparagraph (A) and any impediments to such progress.”
+State Authority Otherwise Preserved.—Except as expressly provided in this section, nothing in this section reduces the authority of any State under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) to regulate fishing, fish processing, or landing of fish.
+
+“(f)
+
+Termination of Authority.—The authority of the States of Washington, Oregon, and California under this section with respect to a Dungeness crab fishery shall expire on the effective date of a fishery management plan for the fishery under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
+
+“(g)
+
+Repeal.—\[Repealed section 112(d) of Pub. L. 104–297, see below.\]
+
+“(h)
+
+Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802) shall apply to this section.
+
+“(i)
+
+Sunset.—This section shall have no force or effect on and after September 30, 2001.”
+
+Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
 
 #### Foreign Fish Processing in Norton Sound
 

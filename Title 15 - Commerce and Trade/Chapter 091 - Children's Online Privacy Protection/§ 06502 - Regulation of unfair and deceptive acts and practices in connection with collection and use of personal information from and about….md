@@ -1,0 +1,92 @@
+### §6502. Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet
+
+#### (a) Acts prohibited
+
+#### (1) In general
+
+&emsp;It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b) of this section.
+
+#### (2) Disclosure to parent protected
+
+&emsp;Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator's agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) of this section to the parent of a child.
+
+#### (b) Regulations
+
+#### (1) In general
+
+&emsp;Not later than 1 year after October 21, 1998, the Commission shall promulgate under section 553 of title 5 regulations that—
+
+&emsp;&emsp;(A) require the operator of any website or online service directed to children that collects personal information from children or the operator of a website or online service that has actual knowledge that it is collecting personal information from a child—
+
+&emsp;&emsp;&emsp;(i) to provide notice on the website of what information is collected from children by the operator, how the operator uses such information, and the operator's disclosure practices for such information; and
+
+&emsp;&emsp;&emsp;(ii) to obtain verifiable parental consent for the collection, use, or disclosure of personal information from children;
+
+&emsp;&emsp;(B) require the operator to provide, upon request of a parent under this subparagraph whose child has provided personal information to that website or online service, upon proper identification of that parent, to such parent—
+
+&emsp;&emsp;&emsp;(i) a description of the specific types of personal information collected from the child by that operator;
+
+&emsp;&emsp;&emsp;(ii) the opportunity at any time to refuse to permit the operator's further use or maintenance in retrievable form, or future online collection, of personal information from that child; and
+
+&emsp;&emsp;&emsp;(iii) notwithstanding any other provision of law, a means that is reasonable under the circumstances for the parent to obtain any personal information collected from that child;
+
+&emsp;&emsp;(C) prohibit conditioning a child's participation in a game, the offering of a prize, or another activity on the child disclosing more personal information than is reasonably necessary to participate in such activity; and
+
+&emsp;&emsp;(D) require the operator of such a website or online service to establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children.
+
+#### (2) When consent not required
+
+&emsp;The regulations shall provide that verifiable parental consent under paragraph (1)(A)(ii) is not required in the case of—
+
+&emsp;&emsp;(A) online contact information collected from a child that is used only to respond directly on a one-time basis to a specific request from the child and is not used to recontact the child and is not maintained in retrievable form by the operator;
+
+&emsp;&emsp;(B) a request for the name or online contact information of a parent or child that is used for the sole purpose of obtaining parental consent or providing notice under this section and where such information is not maintained in retrievable form by the operator if parental consent is not obtained after a reasonable time;
+
+&emsp;&emsp;(C) online contact information collected from a child that is used only to respondmore than once directly to a specific request from the child and is not used to recontact the child beyond the scope of that request—
+
+&emsp;&emsp;&emsp;(i) if, before any additional response after the initial response to the child, the operator uses reasonable efforts to provide a parent notice of the online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or
+
+&emsp;&emsp;&emsp;(ii) without notice to the parent in such circumstances as the Commission may determine are appropriate, taking into consideration the benefits to the child of access to information and services, and risks to the security and privacy of the child, in regulations promulgated under this subsection;
+
+&emsp;&emsp;(D) the name of the child and online contact information (to the extent reasonably necessary to protect the safety of a child participant on the site)—
+
+&emsp;&emsp;&emsp;(i) used only for the purpose of protecting such safety;
+
+&emsp;&emsp;&emsp;(ii) not used to recontact the child or for any other purpose; and
+
+&emsp;&emsp;&emsp;(iii) not disclosed on the site,
+
+> &emsp;&emsp;if the operator uses reasonable efforts to provide a parent notice of the name and online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or
+
+&emsp;&emsp;(E) the collection, use, or dissemination of such information by the operator of such a website or online service necessary—
+
+&emsp;&emsp;&emsp;(i) to protect the security or integrity of its website;
+
+&emsp;&emsp;&emsp;(ii) to take precautions against liability;
+
+&emsp;&emsp;&emsp;(iii) to respond to judicial process; or
+
+&emsp;&emsp;&emsp;(iv) to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety.
+
+#### (3) Termination of service
+
+&emsp;The regulations shall permit the operator of a website or an online service to terminate service provided to a child whose parent has refused, under the regulations prescribed under paragraph (1)(B)(ii), to permit the operator's further use or maintenance in retrievable form, or future online collection, of personal information from that child.
+
+#### (c) Enforcement
+
+Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) of this section shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 57a(a)(1)(B) of this title.
+
+#### (d) Inconsistent State law
+
+No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
+
+(Pub. L. 105–277, div. C, title XIII, §1303, Oct. 21, 1998, 112 Stat. 2681–730.)
+
+#### Effective Date
+
+For effective date of subsec. (a) of this section, see section 1308 of Pub. L. 105–277, set out as a note under section 6501 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6503, 6504, 6505, 6506 of this title.
+

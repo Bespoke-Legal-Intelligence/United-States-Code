@@ -20,7 +20,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (b) Counseling of individuals with negative test results
 
-The Secretary may not make a grant under this part unless the applicant for the grant agrees that, if the results of testing conducted for HIV disease indicate that an individual does not have the disease, the applicant will review for the individual the information provided pursuant to subsection (a) of this section, including—
+The Secretary may not make a grant under this part unless the applicant for the grant agrees that, if the results of testing conducted for HIV disease indicate that an individual does not have the disease, the applicant will reviewfor the individual the information provided pursuant to subsection (a) of this section, including—
 
 &emsp;(1) the information described in paragraphs (1) through (3) of such subsection; and
 
@@ -56,7 +56,7 @@ The Secretary may not make a grant under this part to a State unless the State a
 
 Agreements made pursuant to this section may not be construed to prohibit any grantee under this part from expending the grant for the purpose of providing counseling services described in this section to an individual who does not undergo testing for HIV disease as a result of the grantee or the individual determining that such testing of the individual is not appropriate.
 
-(July 1, 1944, ch. 373, title XXVI, §2662, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 610.)
+(July 1, 1944, ch. 373, title XXVI, §2662, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 610.)
 
 #### Section Referred to in Other Sections
 

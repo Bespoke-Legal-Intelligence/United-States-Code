@@ -42,7 +42,7 @@ The removal court shall provide for the designation of a panel of attorneys each
 
 &emsp;(2) has agreed to represent permanent resident aliens with respect to classified information under section 1534(e)(3) of this title in accordance with (and subject to the penalties under) this subchapter.
 
-(June 27, 1952, ch. 477, title V, §502, as added Apr. 24, 1996, Pub. L. 104–132, title IV, §401(a), 110 Stat. 1259; amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §354(a)(4), 110 Stat. 3009–643.)
+(June 27, 1952, ch. 477, title V, §502, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1259; amended Pub. L. 104–208, div. C, title III, §354(a)(4), Sept. 30, 1996, 110 Stat. 3009–643.)
 
 #### References in Text
 

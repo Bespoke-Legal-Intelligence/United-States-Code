@@ -10,7 +10,7 @@
 
 (b) No correction may be made under subsection (a)(1) unless the claimant or his heir or legal representative files a request for the correction within three years after he discovers the error or injustice. However, a board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
 
-(c) The Secretary concerned may pay, from applicable current appropriations, a claim for theloss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be. If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
+(c) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, or on account of his or another's service as a civilian employee. If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
 
 &emsp;(1) to the surviving spouse, heir, or beneficiaries, in the order prescribed by the law applicable to that kind of payment;
 
@@ -30,7 +30,9 @@
 
 &emsp;(2) action on the sentence of a court-martial for purposes of clemency.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; June 29, 1960, Pub. L. 86–533, §1(4), 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Dec. 6, 1983, Pub. L. 98–209, §11(a), 97 Stat. 1407; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(a), 102 Stat. 2057; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), 103 Stat. 1441, 1603; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1052(19), 106 Stat. 2500.)
+(g) In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L.96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022.)
 
 Historical and Revision Notes
 
@@ -100,9 +102,13 @@ In subsection (e), the words “No payment may be made under this section” are
 
 #### References in Text
 
-The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47\(§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
+The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–261, §545(a), inserted “, or on account of his or another's service as a civilian employee” before period at end of first sentence.
+
+Subsec. (g). Pub. L. 105–261, §545(b), added subsec. (g).
 
 1992—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
 
@@ -132,7 +138,7 @@ Pub. L. 101–225, title II, §212, Dec. 12, 1989, 103 Stat. 1914, provided that
 
 &emsp;“(1) amend part 52 of title 33, Code of Federal Regulations, governing the proceedings of the board established by the Secretary under section 1552 of title 10, United States Code, to ensure that a complete application for correction of military records is processed expeditiously and that final action on the application is taken within 10 months of its receipt; and
 
-&emsp;“(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve as members of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
+&emsp;“(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve asmembers of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
 
 #### Cross References
 

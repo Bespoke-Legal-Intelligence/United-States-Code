@@ -22,7 +22,7 @@
 
 (b)(1) The head of an agency may provide for the procurement of property or services covered by this chapter using competitive procedures but excluding a particular source in order to establish or maintain an alternative source or sources of supply for that property or service if the head of the agency determines that to do so—
 
-&emsp;(A) would increase or maintain competition and would likely result in reduced overallcosts for such procurement, or for any anticipated procurement, of property or services;
+&emsp;(A) would increase or maintain competition and would likely result in reduced overall costs for such procurement, or for any anticipated procurement, of property or services;
 
 &emsp;(B) would be in the interest of national defense in having a facility (or a producer, manufacturer, or other supplier) available for furnishing the property or service in case of a national emergency or industrial mobilization;
 
@@ -36,7 +36,7 @@
 
 (2) The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act (15 U.S.C. 638, 644) and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 2323 of this title.
 
-(3) A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by subsection (f)(1).
+(3) A contract awarded pursuant to the competitive procedures referred to in paragraphs (1)and (2) shall not be subject to the justification and approval required by subsection (f)(1).
 
 (4) A determination under paragraph (1) may not be made for a class of purchases or contracts.
 
@@ -76,7 +76,7 @@
 
 (2) The authority of the head of an agency under subsection (c)(7) may not be delegated.
 
-(e) The head of an agency using procedures other than competitive procedures to procure property or services by reason of the application of subsection (c)(2) or (c)(6) shall request offersfrom as many potential sources as is practicable under the circumstances.
+(e) The head of an agency using procedures other than competitive procedures to procure property or services by reason of the application of subsection (c)(2) or (c)(6) shall request offers from as many potential sources as is practicable under the circumstances.
 
 (f)(1) Except as provided in paragraph (2), the head of an agency may not award a contract using procedures other than competitive procedures unless—
 
@@ -188,7 +188,7 @@
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Aug. 28, 1958, Pub. L. 85–800, §8, 72 Stat. 967; Sept. 2, 1958, Pub. L. 85–861, §33(a)(12), 72 Stat. 1565; Sept. 10, 1962, Pub. L. 87–653, §1(a)–(c), 76 Stat. 528; Mar. 16, 1968, Pub. L. 90–268, §5, 82 Stat. 50; Sept. 20, 1968, Pub. L. 90–500, title IV, §405, 82 Stat. 851; July 25, 1974, Pub. L. 93–356, §4, 88 Stat. 390; Dec. 12, 1980, Pub. L. 96–513, title V, §511(76), 94 Stat. 2926; Dec. 1, 1981, Pub. L. 97–86, title IX, §907(a), 95 Stat. 1117; Oct. 12, 1982, Pub. L. 97–295, §1(24), 96 Stat. 1290; Dec. 21, 1982, Pub. L. 97–375, title I, §114, 96 Stat. 1821; July 18, 1984, Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), 98 Stat. 1187, 1194; Oct. 30, 1984, Pub. L. 98–577, title V, §504(b)(1), (2), 98 Stat. 3086; Nov. 8, 1985, Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), 99 Stat. 703, 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], 100 Stat. 1783–82, 1783–152, 1783–155, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], 100 Stat. 3341–82, 3341–152, 3341–155; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), 100 Stat. 3932, 3935, 3993, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Apr. 21, 1987, Pub. L. 100–26, §7(d)(3), 101 Stat. 281; Sept. 29, 1988, Pub. L. 100–456, div. A, title VIII, §803, 102 Stat. 2008; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), 103 Stat. 1493, 1501, 1502, 1519; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §806(b), 104 Stat. 1592; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(2), 105 Stat. 114; Oct. 23, 1992, Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), 106 Stat. 2445, 2454, 2500; Nov. 30, 1993, Pub. L. 103–160, div. A, title IX, §904(d)(1), 107 Stat. 1728; Oct. 13, 1994, Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), 108 Stat. 3249, 3253, 3254, 3347, 3379; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), 110Stat. 642, 643, 652, 672; Oct. 19, 1996, Pub. L. 104–320, §§7(a)(1), 11(c)(1), 110 Stat. 3871, 3873; Nov. 18, 1997, Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), 111 Stat. 1843, 1850, 1902.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902.)
 
 Historical and Revision Notes<br>1956
 
@@ -414,7 +414,7 @@ Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§923(a)\], Pu
 
 Subsec. (d)(1)(A). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§923(b)\], Pub. L. 99–661, §923(b), amended subpar. (A) identically, substituting “a concept—” for “a unique and innovative concept”, adding cl. (i), and designating provision relating to nonavailability to the United States and nonresemblance to a pending competitive procurement as cl. (ii).
 
-Subsec. (d)(1)(B). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§923(c)\], Pub. L. 99–661, §923(c), amended subpar. (B) identically, inserting “, or the continued provision of highly specialized services, such property or services may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures” after “highly specializedequipment”, inserted a one-em dash after “would result in”, paragraphed cls. (i) and (ii), in cl. (i) substituted “competition;” for “competition,”, and in cl. (ii) struck out “, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures” after “agency's needs”.
+Subsec. (d)(1)(B). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§923(c)\], Pub. L. 99–661, §923(c), amended subpar. (B) identically, inserting “, or the continued provision of highly specialized services, such property or services may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures” after “highly specialized equipment”, inserted a one-em dash after “would result in”, paragraphed cls. (i) and (ii), in cl. (i) substituted “competition;” for “competition,”, and in cl. (ii) struck out “, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures” after “agency's needs”.
 
 Subsec. (i). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§927(a)\], Pub. L. 99–661, §927(a), amended section identically, adding subsec. (i).
 
@@ -490,7 +490,7 @@ Section 101(c) \[title X, §923(d)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Effective Date of 1985 Amendment
 
-Section 961(e) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) \[amending this section and section 253 of Title 41, Public Contracts\], (b) \[amending section 2323 (now section 2343) of this title\], and (c) \[amending section 759 of Title 40, Public Buildings, Property, and Works\] shall take effect as if included in the enactment of the Competition in Contracting Act of 1984 (title VII of division B of PublicLaw 98–369) \[see Effective Date of 1985 Amendment note set out under section 251 of Title 41\].”
+Section 961(e) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) \[amending this section and section 253 of Title 41, Public Contracts\], (b) \[amending section 2323 (now section 2343) of this title\], and (c) \[amending section 759 of Title 40, Public Buildings, Property, and Works\] shall take effect as if included in the enactment of the Competition in Contracting Act of 1984 (title VII of division B of Public Law 98–369) \[see Effective Date of 1985 Amendment note set out under section 251 of Title 41\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -515,6 +515,22 @@ Repeal of prior subsec. (j) of this section by section 1004(b) of Pub. L. 103–
 #### Construction of 1984 Amendment
 
 Section 2723(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2305 of this title\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
+
+#### Procurement of Conventional Ammunition
+
+Pub. L. 105–261, div. A, title VIII, §806, Oct. 17, 1998, 112 Stat. 2084, provided that:
+
+“(a)
+
+Authority.—The official in the Department of Defense designated as the single manager for conventional ammunition in the Department shall have the authority to restrict the procurement of conventional ammunition to sources within the national technology and industrial base in accordance with the authority in section 2304(c) of title 10, United States Code.
+
+“(b)
+
+Requirement.—The official in the Department of Defense designated as the single manager for conventional ammunition in the Department of Defense shall limit a specific procurement of ammunition to sources within the national technology and industrial base in accordance with section 2304(c)(3) of title 10, United States Code, in any case in which that manager determines that such limitation is necessary to maintain a facility, producer, manufacturer, or other supplier available for furnishing an essential item of ammunition or ammunition component in cases of national emergency or to achieve industrial mobilization.
+
+“(c)
+
+Conventional Ammunition Defined.—For purposes of this section, the term ‘conventional ammunition’ has the meaning given that term in Department of Defense Directive 5160.65, dated March 8, 1995.”
 
 #### Warranty Claims Recovery Pilot Program
 
@@ -592,7 +608,7 @@ Plan.—Not later than March 1, 1998, the Secretary of Defense shall provide to 
 
 “(d)
 
-Report.—Not later than March 1 in each of the years 1999, 2000, and 2001, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] a report on the implementation of this section. Each report shall include—
+Report.—Not later than March 1 in each of the years 1999, 2000, and 2001, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the implementation of this section. Each report shall include—
 
 &emsp;“(A) the total dollar amount of all Department of Defense purchases for an amount less than the micro-purchase threshold in the fiscal year preceding the year in which the report is submitted;
 
@@ -826,7 +842,7 @@ Pub. L. 97–377, title I, §101(c) \[title VII, §797\], Dec. 21, 1982, 96 Sta
 
 #### Insurance To Protect Government Contractors Against Cost of Correcting Contractor's Own Defects; Reimbursement Prohibited
 
-Pub. L. 97–12, title I, §100, June 5, 1981, 95 Stat. 29, and Pub. L. 97–114, title VII, §770, Dec. 29, 1981, 95 Stat. 1590, which provided that no funds authorized for the Department of Defense in fiscal year 1981 and thereafter would be available to reimburse a contractor for the cost of commercial insurance, except for that normally maintained in the conduct of his business, that would protect against the cost for correction for the contractor's own defects in materials or workmanship such as were not a fortuitous casualty or loss, were repealedand restated in section 2399 of this title by Pub. L. 97–295, §§1(29)(A), 6(b), Oct. 12, 1982, 96 Stat. 1293, 1315.
+Pub. L. 97–12, title I, §100, June 5, 1981, 95 Stat. 29, and Pub. L. 97–114, title VII, §770, Dec. 29, 1981, 95 Stat. 1590, which provided that no funds authorized for the Department of Defense in fiscal year 1981 and thereafter would be available to reimburse a contractor for the cost of commercial insurance, except for that normally maintained in the conduct of his business, that would protect against the cost for correction for the contractor's own defects in materials or workmanship such as were not a fortuitous casualty or loss, were repealed and restated in section 2399 of this title by Pub. L. 97–295, §§1(29)(A), 6(b), Oct. 12, 1982, 96 Stat. 1293, 1315.
 
 #### Restrictions on Conversion of Performance of Commercial and Industrial Type Functions From Department of Defense Personnel to Private Contractors; Annual Report to Congress
 

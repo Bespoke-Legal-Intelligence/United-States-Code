@@ -6,5 +6,5 @@ Section, Pub. L. 89–10, title V, §541, as added Pub. L. 91–230, title I, §
 
 A prior section 868, Pub. L. 89–10, title V, §508, Apr. 11, 1965, 79 Stat. 54, which provided for administration of State plan, was repealed by Pub. L. 91–230, title I, §143(a)(4)(A), Apr. 13, 1970, 84 Stat. 142.
 
-Provisions similar to those comprising subsecs. (a)(1), (2)(A), (E), and (a)(3) of this section were contained in section 510(a), (b), (d) of Pub. L. 89–10, title V, Apr. 11,1965, 79 Stat. 54, which was classified to section 870(a), (b), (d) of this title, prior to repeal of section 870 and general amendment of title V by section 143(a)(4)(A) and (D) of Pub. L. 91–230, respectively.
+Provisions similar to those comprising subsecs. (a)(1), (2)(A), (E), and (a)(3) of this section were contained in section 510(a), (b), (d) of Pub. L. 89–10, title V, Apr. 11, 1965, 79 Stat. 54, which was classified to section 870(a), (b), (d) of this title, prior to repeal of section 870 and general amendment of title V by section 143(a)(4)(A) and (D) of Pub. L. 91–230, respectively.
 

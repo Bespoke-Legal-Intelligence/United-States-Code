@@ -42,7 +42,7 @@ Subsec. (a). Pub. L. 99–167, §802(a), (b)(1), designated existing provisions 
 
 Subsec. (b). Pub. L. 99–167, §802(b)(1), (c)(1), inserted “and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy” and “(in the case of liability under subsection (a)(1))”.
 
-Subsec. (c)(1). Pub. L. 99–167, §802(c)(2), substituted “subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a familyhousing unit referred to in subsection (a)(2),” for “subsection (a)”.
+Subsec. (c)(1). Pub. L. 99–167, §802(c)(2), substituted “subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2),” for “subsection (a)”.
 
 Subsec. (d). Pub. L. 99–167, §802(b)(2), (c)(3), inserted “or failure to clean satisfactorily a family housing unit” and “, or the operating expenses account of the Coast Guard, as appropriate”.
 

@@ -2,7 +2,7 @@
 
 Section 3796ii, Pub. L. 90–351, title I, §2201, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to grant authority.
 
-A prior section 2201 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 2201 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 Section 3796ii–1, Pub. L. 90–351, title I, §2202, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to prohibition of participation by violent offenders.
 

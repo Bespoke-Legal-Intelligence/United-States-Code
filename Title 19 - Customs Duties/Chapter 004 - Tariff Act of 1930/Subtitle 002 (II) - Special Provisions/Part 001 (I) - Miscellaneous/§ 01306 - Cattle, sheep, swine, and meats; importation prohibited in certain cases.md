@@ -12,7 +12,7 @@ The Secretary of Agriculture may permit, subject to such terms and conditions as
 
 The Secretary of Agriculture is authorized to make rules and regulations to carry out the purposes of this section, and in such rules and regulations the Secretary of Agriculture may prescribe the terms and conditions for the destruction of all cattle, sheep, and other ruminants, and swine, and of all meats, offered for entry and refused admission into the United States, unless such cattle, sheep, ruminants, swine, or meats be exported by the consignee within the time fixed therefor in such rules and regulations.
 
-(June 17, 1930, ch. 497, title III, §306, 46 Stat. 689; Sept. 2, 1958, Pub. L. 85–867, 72 Stat. 1685; Dec. 15, 1967, Pub. L. 90–201, §18, 81 Stat. 600; Sept. 28, 1988, Pub. L. 100–449, title III, §301(f)(5), 102 Stat. 1869; Dec. 8, 1993, Pub. L. 103–182, title III, §361(d)(1), 107 Stat. 2123; Dec. 8, 1994, Pub. L. 103–465, title IV, §431(g), 108 Stat. 4969.)
+(June 17, 1930, ch. 497, title III, §306, 46 Stat. 689; Pub. L. 85–867, Sept. 2, 1958, 72 Stat. 1685; Pub. L. 90–201, §18, Dec. 15, 1967, 81 Stat. 600; Pub. L. 100–449, title III, §301(f)(5), Sept. 28, 1988, 102 Stat. 1869; Pub. L. 103–182, title III, §361(d)(1), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, §431(g), Dec. 8, 1994, 108 Stat. 4969.)
 
 #### Prior Provisions
 

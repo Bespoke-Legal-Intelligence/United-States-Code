@@ -30,7 +30,7 @@
 
 #### (4) Federal share
 
-&emsp;The Federal share of assistance under this section shall be 100 percent; except that theFederal share of assistance under this section for construction and site development costs (including installation of utilities) at a mobile home group site shall be 75 percent of the eligible cost of such assistance. The State or local government receiving assistance under this section shall pay any cost which is not paid for from the Federal share.
+&emsp;The Federal share of assistance under this section shall be 100 percent; except that the Federal share of assistance under this section for construction and site development costs (including installation of utilities) at a mobile home group site shall be 75 percent of the eligible cost of such assistance. The State or local government receiving assistance under this section shall pay any cost which is not paid for from the Federal share.
 
 #### (b) Temporary mortgage and rental payments
 
@@ -48,7 +48,7 @@ In lieu of providing other types of temporary housing after a major disaster, th
 
 #### (2) Transfers to States, local governments, and voluntary organizations
 
-&emsp;The President may sell or otherwise make available temporary housing units directly to States, other governmental entities, and voluntary organizations. The President shall impose as a condition of transfer under this paragraph a covenant to comply with the provisions of section 5151 of this title requiring nondiscrimination in occupancy of such temporary housing units. Such disposition shall be limited to units purchased under the provisions of subsection (a) of this section and to the purposes of providing temporary housing for disaster victims in major disasters or emergencies.
+&emsp;The President may sell or otherwise make available temporary housing units directly toStates, other governmental entities, and voluntary organizations. The President shall impose as a condition of transfer under this paragraph a covenant to comply with the provisions of section 5151 of this title requiring nondiscrimination in occupancy of such temporary housing units. Such disposition shall be limited to units purchased under the provisions of subsection (a) of this section and to the purposes of providing temporary housing for disaster victims in major disasters or emergencies.
 
 #### (e) Notification
 

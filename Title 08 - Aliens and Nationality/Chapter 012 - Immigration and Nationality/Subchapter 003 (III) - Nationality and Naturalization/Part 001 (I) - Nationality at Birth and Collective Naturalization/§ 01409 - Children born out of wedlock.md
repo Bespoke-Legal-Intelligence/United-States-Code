@@ -20,7 +20,7 @@
 
 (c) Notwithstanding the provision of subsection (a) of this section, a person born, after December 23, 1952, outside the United States and out of wedlock shall be held to have acquired at birth the nationality status of his mother, if the mother had the nationality of the United States at the time of such person's birth, and if the mother had previously been physically present in the United States or one of its outlying possessions for a continuous period of one year.
 
-(June 27, 1952, ch. 477, title III, ch. 1, §309, 66 Stat. 238; Dec. 29, 1981, Pub. L. 97–116, §18(<i>l</i>), 95 Stat. 1620; Nov. 14, 1986, Pub. L. 99–653, §13, 100 Stat. 3657; Oct. 24, 1988, Pub. L. 100–525, §§8(k), 9(r), 102 Stat. 2617, 2621.)
+(June 27, 1952, ch. 477, title III, ch. 1, §309, 66 Stat. 238; Pub. L. 97–116, §18(<i>l</i>), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §13, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(k), 9(r), Oct. 24, 1988, 102 Stat. 2617, 2621.)
 
 #### References in Text
 

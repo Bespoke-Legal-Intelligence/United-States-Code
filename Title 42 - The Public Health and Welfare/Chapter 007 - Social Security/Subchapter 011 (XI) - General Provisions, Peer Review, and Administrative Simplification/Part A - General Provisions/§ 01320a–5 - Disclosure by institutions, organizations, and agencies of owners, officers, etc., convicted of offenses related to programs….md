@@ -1,10 +1,10 @@
 ### §1320a–5. Disclosure by institutions, organizations, and agencies of owners, officers, etc., convicted of offenses related to programs; notification requirements; “managing employee” defined
 
-(a) As a condition of participation in or certification or recertification under the programs established by subchapters XVIII,<sup>1</sup> and XIX of this chapter, any hospital, nursing facility, or other entity (other than an individual practitioner or group of practitioners) shall be required to disclose to the Secretary or to the appropriate State agency the name of any person that is a person described in subparagraphs (A) and (B) of section 1320a–7(b)(8) of this title. The Secretary or the appropriate State agency shall promptly notify the Inspector General in the Department of Health and Human Services of the receipt from any entity of any application or request for such participation, certification, or recertification which discloses the name of any such person, and shall notify the InspectorGeneral of the action taken with respect to such application or request.
+(a) As a condition of participation in or certification or recertification under the programs established by subchapters XVIII,<sup>1</sup> and XIX of this chapter, any hospital, nursing facility, or other entity (other than an individual practitioner or group of practitioners) shall be required to disclose to the Secretary or to the appropriate State agency the name of any person that is a person described in subparagraphs (A) and (B) of section 1320a–7(b)(8) of this title. The Secretary or the appropriate State agency shall promptly notify the Inspector General in the Department of Health and Human Services of the receipt from any entity of any application or request for such participation, certification, or recertification which discloses the name of any such person, and shall notify the Inspector General of the action taken with respect to such application or request.
 
 (b) For the purposes of this section, the term “managing employee” means, with respect to an entity, an individual, including a general manager, business manager, administrator, and director, who exercises operational or managerial control over the entity, or who directly or indirectly conducts the day-to-day operations of the entity.
 
-(Aug. 14, 1935, ch. 531, title XI, §1126, as added Oct. 25, 1977, Pub. L. 95–142, §8(a), 91 Stat. 1194; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(j), 95 Stat. 873; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(vi), 98 Stat. 1170; Aug. 18, 1987, Pub. L. 100–93, §8(b), 101 Stat. 692.)
+(Aug. 14, 1935, ch. 531, title XI, §1126, as added Pub. L. 95–142, §8(a), Oct. 25, 1977, 91 Stat. 1194; amended Pub. L. 97–35, title XXIII, §2353(j), Aug. 13, 1981, 95 Stat. 873; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(vi), July 18, 1984, 98 Stat. 1170; Pub. L. 100–93, §8(b), Aug. 18, 1987, 101 Stat. 692.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 ofPub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
 #### Effective Date
 

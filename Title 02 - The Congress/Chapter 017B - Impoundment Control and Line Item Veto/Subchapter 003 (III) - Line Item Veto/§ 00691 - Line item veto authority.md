@@ -20,7 +20,7 @@ Notwithstanding the provisions of subchapters I and II of this chapter, and subj
 
 &emsp;&emsp;(iii) not harm the national interest; and
 
-&emsp;(B) notifies the Congress of such cancellation by transmitting a special message, in accordance with section 691a of this title, within five calendar days (excluding Sundays) after the enactment of the law providing the dollar amount of discretionary budget authority, item of new direct spending, or limited tax benefit that was canceled.
+&emsp;(B) notifies the Congress of such cancellation by transmitting a special message, in accordance with section 691a of this title, withinfive calendar days (excluding Sundays) after the enactment of the law providing the dollar amount of discretionary budget authority, item of new direct spending, or limited tax benefit that was canceled.
 
 #### (b) Identification of cancellations
 

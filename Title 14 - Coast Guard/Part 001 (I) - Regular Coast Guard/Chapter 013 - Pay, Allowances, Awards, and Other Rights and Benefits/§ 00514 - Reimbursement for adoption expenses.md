@@ -66,7 +66,7 @@ Subsec. (g)(3). Pub. L. 104–201, §652(b)(2), added par. (3).
 
 #### Effective Date
 
-Section effective Dec. 5, 1991, and applicable to adoptions completed on or after that date, see section 651(c) of Pub. L. 102–190, set out as a note under section 1052 of Title 10, Armed Forces.
+Section effective Dec. 5, 1991, and applicable to adoptions completed on or after that date, see section 651(c)of Pub. L. 102–190, set out as a note under section 1052 of Title 10, Armed Forces.
 
 #### Reimbursement for Adoptions Completed During Interim Between Test and Permanent Program
 

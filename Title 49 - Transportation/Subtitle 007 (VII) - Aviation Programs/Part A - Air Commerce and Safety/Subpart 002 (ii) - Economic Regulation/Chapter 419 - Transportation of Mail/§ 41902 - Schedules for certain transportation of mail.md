@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft inforeign air transportation or between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft in foreign air transportation only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
 (b)
 
@@ -10,11 +10,9 @@ Statements on Places and Schedules.—Every air carrier shall file with the Secr
 
 &emsp;(1) the places between which the carrier is authorized to provide foreign air transportation;
 
-&emsp;(2) the places between which the carrier is authorized to transport mail in Alaska;
+&emsp;(2) every schedule of aircraft regularly operated by the carrier between places described in clause (1) of this subsection and every change in each schedule; and
 
-&emsp;(3) every schedule of aircraft regularly operated by the carrier between places described in clauses (1) and (2) of this subsection and every change in each schedule; and
-
-&emsp;(4) for each schedule, the places served by the carrier and the time of arrival at, and departure from, each place.
+&emsp;(3) for each schedule, the places served by the carrier and the time of arrival at, and departure from, each place.
 
 (c)
 
@@ -37,12 +35,6 @@ Orders.—An order of the Postal Service under this section may become effective
 Proceedings Preferences.—The Secretary shall give preference to a proceeding under this section over all other proceedings before the Secretary under this subpart.
 
 (Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389.)
-
-#### Amendment of Subsections (a) and (b)
-
-<i>Pub. L. 103–272, §4(k)(1), July 5, 1994, 108 Stat. 1370, provided that, effective Jan. 1, 1999, subsection (a) of this section is amended by substituting “transportation” for “transportation or between places in Alaska”.</i>
-
-<i>Pub. L. 103–272, §4(k)(3), July 5, 1994, 108 Stat. 1370, as amended by Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389, provided that, effective Jan. 1, 1999, subsection (b) of this section is amended by striking par. (2), redesignating pars. (3) and (4) as (2) and (3), respectively, and in par. (2), as redesignated, substituting “clause (1)” for “clauses (1) and (2)”.</i>
 
 Historical and Revision Notes
 
@@ -114,7 +106,7 @@ In subsection (d), the word “alter” is omitted as being included in “amend
 
 In subsection (e), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title. The words “appeal the order” are substituted for “apply . . . for a review of such order” for consistency in the revised title and with other titles of the United States Code. The words “The Board may review, and” are omitted as surplus. The words “amend, modify” are substituted for “amend, revise” for consistency in the revised title.
 
-Subsection (f) is substituted for 49 App.:1375(b) (8th sentence) to reflect the transfer of functions of theCivil Aeronautics Board to the Secretary of Transportation.
+Subsection (f) is substituted for 49 App.:1375(b) (8th sentence) to reflect the transfer of functions of the Civil Aeronautics Board to the Secretary of Transportation.
 
 Pub. L. 103–272, §4(k)(1), (3)
 
@@ -139,6 +131,12 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(8); added Oct. 4, 1984,
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984, Pub. L. 98–443, §3(f), 98 Stat. 1704; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §1601(b)(3) of Federal Aviation Act of 1958), 102 Stat. 2155.
 
 Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–272, §4(k)(1), substituted “foreign air transportation” for “foreign air transportation or between places in Alaska”.
+
+Subsec. (b)(2) to (4). Pub. L. 103–272, §4(k)(3), as amended by Pub. L. 103–429, redesignated par. (3) as (2) and substituted “clause (1)” for “clauses (1) and (2)”, struck out former par. (2) which read as follows: “the places between which the carrier is authorized to transport mail in Alaska;”, and redesignated par. (4) as (3).
 
 #### Effective Date of 1994 Amendments
 

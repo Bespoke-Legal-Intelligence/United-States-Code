@@ -6,7 +6,7 @@ There is established the United States National Tourism Organization which shall
 
 #### (b) Organization not Federal agency
 
-The Organization shall (1) not be considered a Federal agency, (2) have employees appointed without regard to the provisions of title 5 governing appointments in the competitive service, and paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, and (3) not be subject to the Federal Advisory Committee Act or any other Federal law governing the operation of Federal agencies.
+The Organization shall (1) not be considered a Federal agency, (2) have employees appointed without regard to the provisions of title 5 governing appointments in the competitive service, and paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and GeneralSchedule pay rates, and (3) not be subject to the Federal Advisory Committee Act or any other Federal law governing the operation of Federal agencies.
 
 #### (c) IRS status
 

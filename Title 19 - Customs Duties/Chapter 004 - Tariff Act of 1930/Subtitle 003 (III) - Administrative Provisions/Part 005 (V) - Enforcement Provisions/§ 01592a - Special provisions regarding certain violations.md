@@ -32,7 +32,7 @@
 
 #### (A) Responsibility of importers and others
 
-&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary of the Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named person to show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
+&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary ofthe Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named person to show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
 
 #### (B) Failure to exercise reasonable care
 
@@ -58,7 +58,7 @@
 
 &emsp;For purposes of this subsection, the term “country” means a foreign country or territory, including any overseas dependent territory or possession of a foreign country.
 
-(June 17, 1930, ch. 497, title IV, §592A, as added Dec. 8, 1994, Pub. L. 103–465, title III, §333, 108 Stat. 4947; amended Oct. 11, 1996, Pub. L. 104–295, §20(c)(3), 110 Stat. 3528.)
+(June 17, 1930, ch. 497, title IV, §592A, as added Pub. L. 103–465, title III, §333, Dec. 8, 1994, 108 Stat. 4947; amended Pub. L. 104–295, §20(c)(3), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### References in Text
 

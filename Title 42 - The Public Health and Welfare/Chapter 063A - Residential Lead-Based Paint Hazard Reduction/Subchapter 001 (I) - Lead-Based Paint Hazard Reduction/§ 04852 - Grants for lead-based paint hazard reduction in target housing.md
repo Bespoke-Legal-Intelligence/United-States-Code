@@ -18,7 +18,7 @@ A State or unit of local government that has an approved comprehensive housing a
 
 To receive a grant under this section, a State or unit of local government shall submit an application in such form and in such manner as the Secretary shall prescribe. An application shall contain—
 
-&emsp;(1) a copy of that portion of an applicant's comprehensive housing affordability strategy required by section 12705(b)(16) of this title;
+&emsp;(1) a copy of that portion of an applicant's comprehensive housing affordability strategy required by section 12705(b)(16) <sup>1</sup> of this title;
 
 &emsp;(2) a description of the amount of assistance the applicant seeks under this section;
 
@@ -74,7 +74,7 @@ The applicant may provide the services described in this section through a varie
 
 #### (1) In general
 
-&emsp;The Secretary shall develop the capacity of eligible applicants to carry out the requirements of section 12705(b)(16) of this title and to carry out activities under this section. In fiscal years 1993 and 1994, the Secretary may make grants of up to $200,000 for the purpose of establishing State training, certification or accreditation programs that meet the requirements of section 2682 of title 15.
+&emsp;The Secretary shall develop the capacity of eligible applicants to carry out the requirements of section 12705(b)(16) <sup>1</sup> of this title and to carry out activities under this section. In fiscal years 1993 and 1994, the Secretary may make grants of up to $200,000 for the purpose of establishing State training, certification or accreditation programs that meet the requirements of section 2682 of title 15.
 
 #### (2) Set-aside
 
@@ -122,7 +122,7 @@ Effective 2 years after the date of promulgation of regulations under section 26
 
 #### (1) In general
 
-&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>1</sup> Act, established under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall be subject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
+&emsp;For purposes of environmental review, decisionmaking, and action pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and other provisions of law that further the purposes of such Act, a grant under this section shall be treated as assistance under the HOME Investment Partnership <sup>2</sup> Act, established under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], and shall be subject to the regulations promulgated by the Secretary to implement section 288 of such Act \[42 U.S.C. 12838\].
 
 #### (2) Applicability
 
@@ -140,11 +140,13 @@ For the purposes of carrying out this chapter, there are authorized to be approp
 
 #### References in Text
 
+Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
+
 This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
 
 This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715<i>l</i> of Title 12, Banks and Banking.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (<i>o</i>)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified generally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
@@ -162,5 +164,7 @@ Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). Pub. L. 104–134, §101(e) \[
 
 This section is referred to in section 4854b of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Partnerships”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Partnerships”.</i>
 

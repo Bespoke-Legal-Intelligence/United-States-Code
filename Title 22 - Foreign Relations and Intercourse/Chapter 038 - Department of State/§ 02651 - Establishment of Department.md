@@ -14,6 +14,10 @@ Section was formerly classified to section 151 of Title 5 prior to the general r
 
 Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\].”
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. G, subdiv. B, title XX, §2001, Oct. 21, 1998, 112 Stat. 2681–801, provided that: “This subdivision \[see Tables for classification\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1998 and 1999’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–236, §1, Apr. 30, 1994, 108 Stat. 382, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1994 and 1995’.”
@@ -66,7 +70,7 @@ For assignment of certain emergency preparedness functions to Secretary of State
 
 #### Order of Succession
 
-For order of succession in case of death, resignation, absence, or sickness of Secretary, see Ex. Ord. No. 10839, Sept. 30, 1959, 24 F.R. 7939, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in case of death, resignation, absence, or sickness of Secretary, see Ex. Ord. No. 10839, Sept. 30, 1959, 24 F.R. 7939, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Compliance With Congressional Budget Act
 

@@ -24,7 +24,7 @@
 
 &emsp;(2) Members of any other organization designated by the Secretary of a military department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(a)(1), 99 Stat. 735; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §551(b), 110 Stat. 2525.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525.)
 
 Historical and Revision Notes
 

@@ -18,7 +18,7 @@ The initial schedule of any fees assessed under this section, and any subsequent
 
 #### (d) Effective date of assessments; progressive increments
 
-Any assessment of fees under this section by the National Environmental Satellite, Data, and Information Service for archived data shall meet the following requirements:
+Any assessment of fees under this section by the National Environmental Satellite, Data, andInformation Service for archived data shall meet the following requirements:
 
 &emsp;(1) The initial schedule of fees established by the National Environmental Satellite, Data, and Information Service for archived data shall remain in effect for the 3-year period beginning on the date that the fees under that schedule take effect.
 

@@ -28,7 +28,7 @@ United States policy regarding Cyprus, Greece, and Turkey shall be directed towa
 
 &emsp;(5) The United States shall use its influence to ensure the continuation of the ceasefire on Cyprus until an equitable negotiated settlement is reached.
 
-&emsp;(6) The United States shall use its influence to achieve the withdrawal of Turkish military forces from Cyprus in the context of a solution to the Cyprus problem.
+&emsp;(6) The United States shall use its influence to achieve the withdrawal of Turkish militaryforces from Cyprus in the context of a solution to the Cyprus problem.
 
 #### (c) Review of policy; report to Congress
 
@@ -84,7 +84,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) the inability to achieve a just and lasting Cyprus settlement will continue to affect relations among the United States and its close NATO allies, Greece and Turkey, to the detriment of larger, mutually shared, security interests in the Eastern Mediterranean region;
 
-&emsp;“(2) it is of paramount importance that Cyprus, Greece, and Turkey resolve their differences throughnegotiations and otherwise peaceful procedures, and that the United States should support the resolution of these differences through all the diplomatic means at its disposal;
+&emsp;“(2) it is of paramount importance that Cyprus, Greece, and Turkey resolve their differences through negotiations and otherwise peaceful procedures, and that the United States should support the resolution of these differences through all the diplomatic means at its disposal;
 
 &emsp;“(3) it is in the national interest of the United States that the President make a significant new diplomatic demarche towards bringing this dispute to a resolution; and
 
@@ -92,7 +92,7 @@ Findings.—The Congress finds that—
 
 “(b)
 
-Appointment of Special Ambassador.—The President is authorized to appoint a special ambassadorial level envoy who shall be responsible for representing the United States in direct negotiations with the parties to the Cyprus dispute, for representing the United States in negotiations through international intermediaries and, generally, lending the good offices of the United States to the parties in this dispute in order to facilitate a peaceful settlement on Cyprus. As agreed to by Greece and Turkey, the special envoy shall also represent the United States in promoting mutual discussions between those countries concerning their differences on Aegean issues. The special ambassador appointed under this section shall have available the services of two deputies (one to specialize on the Cyprus question, the other on general Aegean issues) and such senior level Department of State personnel as may be required by the special ambassador in order to carry out his responsibilities.
+Appointment of Special Ambassador.—The President is authorized to appoint a special ambassadorial level envoy who shall be responsible for representing the United States in direct negotiations with the parties to the Cyprus dispute, for representing the United States in negotiations through international intermediaries and, generally, lending the good offices of the United States to the parties in this dispute in order to facilitate a peaceful settlement on Cyprus. As agreed to by Greece and Turkey, the special envoy shall also represent the United States in promoting mutual discussions between those countries concerning their differences on Aegean issues. The special ambassador appointed under this section shall have availablethe services of two deputies (one to specialize on the Cyprus question, the other on general Aegean issues) and such senior level Department of State personnel as may be required by the special ambassador in order to carry out his responsibilities.
 
 “(c)
 

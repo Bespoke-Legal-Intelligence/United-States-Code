@@ -12,7 +12,7 @@ Printing or binding may be done at the Government Printing Office only when auth
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §111 and 116 (part) (Jan. 12, 1895, ch. 23, §§86, 87, 28 Stat. 662; Mar. 1, 1919, ch. 86, §11, 40 Stat. 1270; July 5, 1949, ch. 296, 63 Stat. 405).
+Based on 44 U.S. Code, 1964 ed., §111 and 116 (part) (Jan. 12, 1895, ch. 23, §§86, 87, 28 Stat. 662; Mar. 1, 1919,ch. 86, §11, 40 Stat. 1270; July 5, 1949, ch. 296, 63 Stat. 405).
 
 This section incorporates only the first sentence of former section 116. The balance will be found in section 1123 of the revision.
 
@@ -98,7 +98,7 @@ Exceptions.—Subsection (a) shall not apply to lithographic printing performed 
 
 &emsp;“(2)
 
-Notice to congress.—Not later than 30 days after making a determination under paragraph (1)(A), the head of a Federal agency shall report the determination to the Committee on Government Operations \[now Committee on Government Reform and Oversight\] and the Committee on House Administration \[now Committee on House Oversight\] of the House of Representatives, and the Committee on Rules of the Senate.
+Notice to congress.—Not later than 30 days after making a determination under paragraph (1)(A), the head of a Federal agency shall report the determination to the Committee on Government Operations \[now Committee on Government Reform\] and the Committee on House Administration of the House of Representatives, and the Committee on Rules of the Senate.
 
 “(c)
 
@@ -130,7 +130,7 @@ Pub. L. 100–202, §101(i) \[title III, §309\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Cross References
 
-American Battle Monuments Commission, printing authority, see section 138b of Title 36, Patriotic Societies and Observances.
+American Battle Monuments Commission, printing authority, see section 2103 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 Engraving and printing currency and security documents by Secretary of the Treasury, see section 5114 of Title 31, Money and Finance.
 
@@ -166,5 +166,5 @@ Tax Court reports, publication at Government Printing Office, see section 7462 o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2588, 2669, 3714b; title 33 section 1123; title 42 sections 284, 1870.
+This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 42 sections 284, 1870.
 

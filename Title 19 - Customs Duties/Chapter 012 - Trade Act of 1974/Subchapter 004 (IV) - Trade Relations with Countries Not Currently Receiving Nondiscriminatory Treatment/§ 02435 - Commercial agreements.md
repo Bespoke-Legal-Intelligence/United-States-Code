@@ -20,7 +20,7 @@ Any such bilateral commercial agreement shall—
 
 &emsp;(4) if the other party to the bilateral agreement is not a party to the Paris Convention for the Protection of Industrial Property, provide rights for United States nationals with respect to patents and trademarks in such country not less than the rights specified in such convention;
 
-&emsp;(5) if the other party to the bilateral agreement is not a party to the Universal Copyright Convention, provide rights for United States nationals with respect to copyrights in such country not less than the rights specified in such convention;
+&emsp;(5) if the other party to the bilateral agreement is not a party to the Universal Copyright Convention, provide rights for United Statesnationals with respect to copyrights in such country not less than the rights specified in such convention;
 
 &emsp;(6) in the case of an agreement entered into or renewed after January 3, 1975, provide arrangements for the protection of industrial rights and processes;
 
@@ -42,7 +42,7 @@ An agreement referred to in subsection (a) of this section, and a proclamation r
 
 This chapter, referred to in subsecs. (a) and (b)(10), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-The Universal Copyright Convention, referred to in subsec. (b)(5), is set out under section 9 of Title 17, Copyrights.
+The Universal Copyright Convention, referred to in subsec. (b)(5), is set out under section 104 of Title 17, Copyrights.
 
 #### Amendments
 

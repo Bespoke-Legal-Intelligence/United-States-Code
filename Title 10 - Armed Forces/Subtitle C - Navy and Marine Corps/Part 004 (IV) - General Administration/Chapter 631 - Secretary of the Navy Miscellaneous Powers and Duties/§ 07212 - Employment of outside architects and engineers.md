@@ -4,7 +4,7 @@
 
 (b) The fee for any service under this section may not exceed 6 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 444; Nov. 2, 1966, Pub. L. 89–718, §28, 80 Stat. 1119; Oct. 13, 1978, Pub. L. 95–454, title VII, §703(c)(3), title VIII, §801(a)(3)(I), 92 Stat. 1217, 1222; Dec. 12, 1980, Pub. L. 96–513, title V, §513(25), 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 444; Pub. L. 89–718, §28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, §703(c)(3), title VIII, §801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, §513(25), Dec. 12, 1980, 94 Stat. 2932.)
 
 Historical and Revision Notes
 

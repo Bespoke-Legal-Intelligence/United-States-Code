@@ -10,7 +10,7 @@
 
 &emsp;(3) has made reasonable efforts to notify such person about the proposed deductions from such payments.
 
-(c) Notwithstanding any other provision of this title or of any other law, the authority of the Secretary to make deductions under this section or to take other administrative action authorized by law for the purpose of collectingan indebtedness described in subsection (a) of this section, or for the purpose of determining the creditworthiness of a person who owes such an indebtedness, shall not be subject to any limitation with respect to the time for bringing civil actions or for commencing administrative proceedings.
+(c) Notwithstanding any other provision of this title or of any other law, the authority of the Secretary to make deductions under this section or to take other administrative action authorized by law for the purpose of collecting an indebtedness described in subsection (a) of this section, or for the purpose of determining the creditworthiness of a person who owes such an indebtedness, shall not be subject to any limitation with respect to the time for bringing civil actions or for commencing administrative proceedings.
 
 (d) The Secretary shall prescribe regulations for the administration of this section.
 

@@ -18,7 +18,7 @@ Section 1750gg, acts Aug. 2, 1954, ch. 649, title VI, §607, 68 Stat. 639; Sept.
 
 Section 1750hh, act Aug. 2, 1954, ch. 649, title VI, §608, 68 Stat. 640, authorized Administrator, after consultation with National Committee, to issue general rules and procedures for implementation of this subchapter and functioning of regional subcommittees.
 
-Section 1750ii, act Aug. 2, 1954, ch. 649, title VI, §609, 68 Stat. 640, exempted laws promulgated pursuant to this subchapter from prohibitions of antitrust laws or Federal Trade Commission Act of United States, provided for status of members of National Committee or any of regional subcommittees, and provided for an office, staff assistance and expenses of members.
+Section 1750ii, act Aug. 2, 1954, ch. 649, title VI, §609, 68 Stat. 640, exempted laws promulgated pursuant to this subchapter from prohibitions of antitrust laws or Federal Trade Commission Act of United States, provided for status of members of National Committee orany of regional subcommittees, and provided for an office, staff assistance and expenses of members.
 
 Section 1750jj, acts Aug. 2, 1954, ch. 649, title VI, §610, 68 Stat. 640; June 29, 1957, Pub. L. 85–66, 71 Stat. 209; July 12, 1957, Pub. L. 85–104, title VI, §602, 71 Stat. 304; July 31, 1959, Pub. L. 86–119, 73 Stat. 266; Sept. 23, 1959, Pub. L. 86–372, title VIII, §806, 73 Stat. 687; June 30, 1961, Pub. L. 87–70, title IX, §903, 75 Stat. 191, provided that, unless Congress authorized for an earlier termination, this subchapter and all authority conferred hereunder was to terminate at close of Oct. 1, 1965.
 

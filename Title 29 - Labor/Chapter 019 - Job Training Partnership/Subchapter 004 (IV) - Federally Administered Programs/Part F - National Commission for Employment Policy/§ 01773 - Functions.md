@@ -26,6 +26,10 @@ The Commission shall—
 
 (Pub. L. 97–300, title IV, §473, Oct. 13, 1982, 96 Stat. 1388; Pub. L. 98–524, §4(a)(8), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title VII, §702(a)(18), Sept. 7, 1992, 106 Stat. 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Par. (7). Pub. L. 102–367 redesignated subpar. (A) as entire par., struck out “, after consultation with the National Council on Vocational Education,” after “identify”, substituted a period for “; and” after “meeting such needs”, and struck out subpar. (B) which read as follows: “comment, at least once annually, on the reports of the National Council on Vocational Education, which comments shall be included in one of the reports submitted by the National Commission pursuant to this subchapter and in one of the reports submitted by the National Council on Vocational Education pursuant to part D of subchapter IV of the Carl D. Perkins Vocational Education Act;”.

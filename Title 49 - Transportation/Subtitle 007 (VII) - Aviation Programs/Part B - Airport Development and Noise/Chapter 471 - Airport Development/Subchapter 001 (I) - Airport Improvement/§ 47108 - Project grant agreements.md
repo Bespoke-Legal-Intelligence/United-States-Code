@@ -76,7 +76,7 @@ In subsection (b)(2), the text of 49 App.:2211(b)(2) (last sentence) is restated
 
 In subsection (b)(3)(B), the words “for fiscal year 1993 and thereafter” are omitted as unnecessary.
 
-In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “a project receiving assistance under” are added for consistency.
+In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. Thewords “a project receiving assistance under” are added for consistency.
 
 In subsection (d), the word “sponsor” is substituted for “grant recipient” for clarity. The words “amount the Government may pay” are substituted for “obligation of the United States authorized” for clarity and consistency in this section.
 

@@ -2,7 +2,21 @@
 
 #### (a) Authority to borrow
 
-Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
+#### (1) Authority and eligibility
+
+&emsp;Parents of a dependent student shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, if—
+
+&emsp;&emsp;(A) the parents do not have an adverse credit history as determined pursuant to regulations promulgated by the Secretary; and
+
+&emsp;&emsp;(B) the parents meet such other eligibility criteria as the Secretary may establish by regulation, after consultation with guaranty agencies, eligible lenders, and other organizations involved in student financial assistance.
+
+#### (2) Terms, conditions, and benefits
+
+&emsp;Except as provided in subsections (c), (d), and (e) of this section, loans made under this section shall have the same terms, conditions, and benefits as all other loans made under this part.
+
+#### (3) Special rule
+
+&emsp;Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
 
 #### (b) Limitation based on need
 
@@ -32,7 +46,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (4) Applicable rates of interest
 
-&emsp;Interest on loans made pursuant to this section shall be at the applicable rate of interest provided in section 1077a(c) of this title.
+&emsp;Interest on loans made pursuant to this section shall be at the applicable rate of interest provided in section 1077a of this title.
 
 #### (5) Amortization
 
@@ -48,7 +62,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (1) Refinancing to secure combined payment
 
-&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension of the promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrative forbearance of the repayment terms of the included loan.
+&emsp;An eligible lender may at any time consolidate loans held by it which are made under this section to a borrower, including loans which were made under this section as in effect prior to October 17, 1986, under a single repayment schedule which provides for a single principal payment and a single payment of interest, and shall calculate the repayment period for each included loan from the date of the commencement of repayment of the most recent included loan. Unless the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3), such consolidated loan shall bear interest at the weighted average of the rates of all included loans. The extension of any repayment period of an included loan pursuant to this paragraph shall be reported (if required by them) to the Secretary or guaranty agency insuring the loan, as the case may be, but no additional insurance premiums shall be payable with respect to any such extension. The extension of the repayment period of any included loan shall not require the formal extension of the promissory note evidencing the included loan or the execution of a new promissory note, but shall be treated as an administrativeforbearance of the repayment terms of the included loan.
 
 #### (2) Refinancing to secure variable interest rate
 
@@ -80,7 +94,15 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;&emsp;(C) that, with respect to any option that the holder will not make available, the holder will, to the extent practicable, refer the borrower to an eligible lender offering such option.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369.)
+#### (f) Verification of immigration status and social security number
+
+A parent who wishes to borrow funds under this section shall be subject to verification of the parent's—
+
+&emsp;(1) immigration status in the same manner as immigration status is verified for students under section 1091(g) of this title; and
+
+&emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
+
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694.)
 
 #### Codification
 
@@ -92,13 +114,21 @@ A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 9
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–244, §419(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+
+Subsec. (d)(4). Pub. L. 105–244, §416(a)(2), substituted “section 1077a” for “section 1077a(c)”.
+
+Pub. L. 105–178 which directed substitution of “section 1077a of this title for loans made under this section” for “section 1077a(c) of this title” in “section 428B(d)(4) (20 U.S.C. 1078–2(d)(4))” could not be executed because it did not indicate what act was to be amended.
+
+Subsec. (f). Pub. L. 105–244, §419(2), added subsec. (f).
+
 1993—Subsec. (c). Pub. L. 103–66 inserted “shall be disbursed in accordance with the requirements of section 1078–7 of this title and” after “under this section”.
 
 1992—Pub. L. 102–325, §418(a), substituted “Federal PLUS” for “PLUS” in section catchline.
 
 Subsec. (a). Pub. L. 102–325, §418(b)(1), substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)” and inserted “, who do not have an adverse credit history as determined pursuant to regulations of the Secretary,” after “a dependent student”.
 
-Subsec. (b). Pub. L. 102–325, §418(b)(2), struck out subsec. (b) designation and heading, redesignated par. (3) as subsec. (b), and struck out pars. (1) and (2) which set the annual limit on the amount parents may borrow for one student in any academic year at $4,000 and set the aggregate insured principal amount for insured loans at not to exceed $20,000.
+Subsec. (b). Pub. L. 102–325, §418(b)(2), struck out subsec. (b) designation and heading, redesignated par. (3) as subsec. (b), and struck out pars. (1) and (2) which set the annual limit on the amount parents may borrow forone student in any academic year at $4,000 and set the aggregate insured principal amount for insured loans at not to exceed $20,000.
 
 Subsec. (c). Pub. L. 102–325, §418(b)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -130,6 +160,12 @@ Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted “under this section 
 
 Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 416(a)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under section 1078–3 of this title for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
+
+Amendment by section 419 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Section 4109(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 1078–7 of this title\] shall be effective with respect to loans for which the first disbursement is made on or after October 1, 1993.”
@@ -144,9 +180,9 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 
-Section 10(r)(2) of Pub. L. 100–50 provided that: “An eligible lender who has refinanced a loan or loans under section 428A(d) or 428B(d) \[20 U.S.C. 1078–1(d), 1078–2(d)\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[20 U.S.C. 1077a(c)(4)\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C).”
+Section 10(r)(2) of Pub. L. 100–50 provided that: “An eligible lender who has refinanced a loan or loans under section 428A(d) \[former 20 U.S.C. 1078–1(d)\] or 428B(d) \[20 U.S.C. 1078–2(d)\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[20 U.S.C. 1077a(c)(4)\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1075, 1077, 1077a, 1078, 1078–8, 1078–10, 1083, 1085, 1087, 1087–0, 1087–1, 1087d, 1087e, 1091, 1091b, 1092, 1099a–3 of this title; title 26 section 144; title 42 section 12604.
+This section is referred to in sections 1075, 1077, 1077a, 1078, 1078–8, 1078–11, 1082, 1083, 1085, 1087, 1087–1, 1087d, 1087e, 1091, 1091b, 1092 of this title; title 26 section 144; title 42 section 12604.
 

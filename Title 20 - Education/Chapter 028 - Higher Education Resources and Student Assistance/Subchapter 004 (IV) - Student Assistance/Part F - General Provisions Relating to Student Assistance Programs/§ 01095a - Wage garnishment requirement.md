@@ -28,9 +28,25 @@ A hearing described in subsection (a)(5) of this section shall be provided prior
 
 The notice to the employer of the withholding order shall contain only such information as may be necessary for the employer to comply with the withholding order.
 
-#### (d) “Disposable pay” defined
+#### (d) No attachment of student assistance
+
+Except as authorized in this section, notwithstanding any other provision of Federal or State law, no grant, loan, or work assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42, or property traceable to such assistance, shall be subject to garnishment or attachment in order to satisfy any debt owed by the student awarded such assistance, other than a debt owed to the Secretary and arising under this subchapter and part C of subchapter I of chapter 34 of title 42.
+
+#### (e) “Disposable pay” defined
 
 For the purpose of this section, the term “disposable pay” means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by law to be withheld.
 
-(Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066.)
+(Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066; amended Pub. L. 105–244, title IV, §490A, Oct. 7, 1998, 112 Stat. 1753.)
+
+#### Amendments
+
+1998—Subsecs. (d), (e). Pub. L. 105–244 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1078–3 of this title.
 

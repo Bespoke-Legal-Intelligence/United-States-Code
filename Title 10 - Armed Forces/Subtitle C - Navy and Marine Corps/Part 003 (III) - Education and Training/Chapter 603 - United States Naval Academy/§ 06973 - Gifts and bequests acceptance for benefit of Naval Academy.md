@@ -1,6 +1,6 @@
 ### §6973. Gifts and bequests: acceptance for benefit of Naval Academy
 
-(a) The Secretary of the Navy may accept, hold, administer, and spend gifts and bequests of personal property made on the condition that it be used for the benefit of, or for use in connection with, the Naval Academy. Gifts and bequests of money and the proceeds from the sales of property received as gifts shall be deposited in the Treasury in the fund called “UnitedStates Naval Academy general gift fund”. The Secretary may disburse funds deposited under this subsection for the benefit or use of the Naval Academy subject to the terms of the gift or bequest.
+(a) The Secretary of the Navy may accept, hold, administer, and spend gifts and bequests of personal property made on the condition that it be used for the benefit of, or for use in connection with, the Naval Academy. Gifts and bequests of money and the proceeds from the sales of property received as gifts shall be deposited in the Treasury in the fund called “United States Naval Academy general gift fund”. The Secretary may disburse funds deposited under this subsection for the benefit or use of the Naval Academy subject to the terms of the gift or bequest.
 
 (b) For the purpose of Federal income, estate, and gift taxes, property that is accepted under this section is considered as a gift or bequest to or for the use of the United States.
 

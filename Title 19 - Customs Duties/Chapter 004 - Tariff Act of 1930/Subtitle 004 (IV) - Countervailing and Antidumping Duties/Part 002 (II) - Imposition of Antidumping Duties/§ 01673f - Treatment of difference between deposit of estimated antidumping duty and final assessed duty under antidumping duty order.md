@@ -10,7 +10,7 @@ If the amount of a cash deposit, or the amount of any bond or other security, re
 
 #### (b) Deposit of estimated antidumping duty under section 1673e(a)(3) of this title
 
-If the amount of an estimated antidumping duty deposited under section 1673e(a)(3) of thistitle is different from the amount of the antidumping duty determined under an antidumping duty order published under section 1673e of this title, then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption after notice of the affirmative determination of the Commission under section 1673d(b) of this title is published shall be—
+If the amount of an estimated antidumping duty deposited under section 1673e(a)(3) of this title is different from the amount of the antidumping duty determined under an antidumping duty order published under section 1673e of this title, then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption after notice of the affirmative determination of the Commission under section 1673d(b) of this title is published shall be—
 
 &emsp;(1) collected, to the extent that the deposit under section 1673e(a)(3) of this title is lower than the duty determined under the order, or
 
@@ -18,7 +18,7 @@ If the amount of an estimated antidumping duty deposited under section 1673e(a)(
 
 > together with interest as provided by section 1677g of this title.
 
-(June 17, 1930, ch. 497, title VII, §737, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 173; amended Dec. 8, 1994, Pub. L. 103–465, title II, §219(c)(10), 108 Stat. 4857; Oct. 11, 1996, Pub. L. 104–295, §40, 110 Stat. 3541.)
+(June 17, 1930, ch. 497, title VII, §737, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 173; amended Pub. L. 103–465, title II, §219(c)(10), Dec. 8, 1994, 108 Stat. 4857; Pub. L. 104–295, §40, Oct. 11, 1996, 110 Stat. 3541.)
 
 #### Amendments
 

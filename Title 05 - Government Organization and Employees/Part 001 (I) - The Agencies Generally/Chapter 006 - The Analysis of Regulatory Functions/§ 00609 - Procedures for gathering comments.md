@@ -14,7 +14,7 @@
 
 (b) Prior to publication of an initial regulatory flexibility analysis which a covered agency is required to conduct by this chapter—
 
-&emsp;(1) a covered agency shall notify the Chief Counsel for Advocacy of the Small Business Administration and provide the Chief Counselwith information on the potential impacts of the proposed rule on small entities and the type of small entities that might be affected;
+&emsp;(1) a covered agency shall notify the Chief Counsel for Advocacy of the Small Business Administration and provide the Chief Counsel with information on the potential impacts of the proposed rule on small entities and the type of small entities that might be affected;
 
 &emsp;(2) not later than 15 days after the date of receipt of the materials described in paragraph (1), the Chief Counsel shall identify individuals representative of affected small entities for the purpose of obtaining advice and recommendations from those individuals about the potential impacts of the proposed rule;
 
@@ -26,7 +26,7 @@
 
 &emsp;(6) where appropriate, the agency shall modify the proposed rule, the initial regulatory flexibility analysis or the decision on whether an initial regulatory flexibility analysis is required.
 
-(c) An agency may in its discretion apply subsection (b) to rules that the agency intends to certify under subsection 605(b), but the agency believes may have a greater than de minimis impact on a substantial number of small entities.
+(c) An agency may in its discretion apply subsection (b) to rules that the agency intends tocertify under subsection 605(b), but the agency believes may have a greater than de minimis impact on a substantial number of small entities.
 
 (d) For purposes of this section, the term “covered agency” means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor.
 

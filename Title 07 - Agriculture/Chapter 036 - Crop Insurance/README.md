@@ -37,6 +37,7 @@
 | (p) | Regulations. |
 | (q) | Program compliance. |
 | (r) | Purchase of American-made equipment and products. |
+| (s) | Procedures for responding to certain inquiries. |
 | 1506a, 1506b. Omitted. |  |
 | [1507\.](%C2%A7%2001507%20-%20Personnel%20of%20Corporation.md) | Personnel of Corporation. |
 | (a) | Appointment; civil service exemption; compensation. |
@@ -79,7 +80,7 @@
 | (f) | Termination of authority. |
 | [1516\.](%C2%A7%2001516%20-%20Funding.md) | Funding. |
 | (a) | Authorization of appropriations. |
-| (b) | Payment of expenses. |
+| (b) | Payment of Corporation expenses from insurance fund. |
 | (c) | Insurance fund. |
 | [1517\.](%C2%A7%2001517%20-%20Separability.md) | Separability. |
 | [1518\.](%C2%A7%2001518%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |

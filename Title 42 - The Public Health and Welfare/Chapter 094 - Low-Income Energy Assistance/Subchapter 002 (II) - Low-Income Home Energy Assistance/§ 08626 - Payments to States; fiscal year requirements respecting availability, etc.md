@@ -22,19 +22,21 @@
 
 (2)(A) Any State may request that an amount allotted to such State for a fiscal year be held available for such State for the following fiscal year. Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year. Any amount so held available for the following fiscal year shall not be taken into account in computing the allotment of or the amount payable to such State for such fiscal year under this subchapter.
 
-(B) No amount may be held available under this paragraph for a State from a prior fiscal year to the extent such amount exceeds 10 percent of the amount payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title. For purposes of the preceding sentence, the amount payable to a State but not transferred by the State for a fiscal year shall be determined without regard to any amount held available under this paragraph for such State for such fiscal year from the prior fiscal year.
+(B) No amount may be held available under this paragraph for a State from a prior fiscal year to the extent such amount exceeds 10 percent of the amount payable to such State for such prior fiscal year. For purposes of the preceding sentence, the amount payable to a State for a fiscal year shall be determined without regard to any amount held available under this paragraph for such State for such fiscal year from the prior fiscal year.
 
 (C) The Secretary shall reallot amounts made available under this paragraph for the fiscal year following the fiscal year of the original allotment in accordance with paragraph (1) of this subsection.
 
 (3) During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
 
-(Pub. L. 97–35, title XXVI, §2607, Aug. 13, 1981, 95 Stat. 900; Pub. L. 98–558, title VI, §606, Oct. 30, 1984, 98 Stat. 2892; Pub. L. 101–501, title VII, §706, Nov. 3, 1990, 104 Stat. 1260; Pub. L. 103–252, title III, §310, May 18, 1994, 108 Stat. 661.)
+(Pub. L. 97–35, title XXVI, §2607, Aug. 13, 1981, 95 Stat. 900; Pub. L. 98–558, title VI, §606, Oct. 30, 1984, 98 Stat. 2892; Pub. L. 101–501, title VII, §706, Nov. 3, 1990, 104 Stat. 1260; Pub. L. 103–252, title III, §310, May 18, 1994, 108 Stat. 661; Pub. L. 105–285, title III, §307, Oct. 27, 1998, 112 Stat. 2758.)
 
 #### Codification
 
 In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 203 of the Intergovernmental Cooperation Act of 1968 \[42 U.S.C. 4213\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1998—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of this title” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
 
 1994—Subsec. (a). Pub. L. 103–252 designated existing provisions as par. (1) and added par. (2).
 

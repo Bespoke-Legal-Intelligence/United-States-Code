@@ -16,7 +16,7 @@
 
 #### (2) Exception
 
-&emsp;Paragraph (1)(A) shall not apply in connection with any group health plan or health insurance issuer in any case in which the decision to discharge the mother or her newborn child prior to the expiration of the minimum length of stay otherwise required under paragraph (1)(A) is made by an attending provider in consultation with the mother.
+&emsp;Paragraph (1)(A) shall not apply in connection with any group health plan or health insurance issuer in any case in which the decision to discharge the mother or her newborn child prior to the expiration of the minimumlength of stay otherwise required under paragraph (1)(A) is made by an attending provider in consultation with the mother.
 
 #### (b) Prohibitions
 
@@ -68,7 +68,7 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 &emsp;Section 300gg–23(a)(1) of this title shall not be construed as superseding a State law described in paragraph (1).
 
-(July 1, 1944, ch. 373, title XXVII, §2704, as added Sept. 26, 1996, Pub. L. 104–204, title VI, §604(a)(3), 110 Stat. 2939.)
+(July 1, 1944, ch. 373, title XXVII, §2704, as added Pub. L. 104–204, title VI, §604(a)(3), Sept. 26, 1996, 110 Stat. 2939.)
 
 #### Prior Provisions
 

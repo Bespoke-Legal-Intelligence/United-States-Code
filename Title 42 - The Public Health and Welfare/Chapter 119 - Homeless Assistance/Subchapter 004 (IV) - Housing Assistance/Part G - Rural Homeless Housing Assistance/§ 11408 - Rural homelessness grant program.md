@@ -96,7 +96,7 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(3) an assurance that the assistance to be provided is closely related to the identified needs of the target population;
 
-&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existingassistance or provide assistance not available in the immediate area;
+&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existing assistance or provide assistance not available in the immediate area;
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served; and
 
@@ -176,7 +176,7 @@ For purposes of this section:
 
 &emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. The Secretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
 
-(Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat.4035; amended Pub. L. 104–330, title V, §506(a)(10), Oct. 26, 1996, 110 Stat. 4045.)
+(Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat. 4035; amended Pub. L. 104–330, title V, §506(a)(10), Oct. 26, 1996, 110 Stat. 4045.)
 
 #### References in Text
 

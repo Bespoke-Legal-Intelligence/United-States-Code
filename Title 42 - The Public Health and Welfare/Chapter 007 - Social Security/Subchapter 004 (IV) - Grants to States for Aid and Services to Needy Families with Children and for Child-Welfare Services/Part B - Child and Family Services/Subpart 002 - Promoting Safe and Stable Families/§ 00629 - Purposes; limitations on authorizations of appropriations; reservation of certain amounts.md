@@ -54,7 +54,7 @@ For purposes of subsection (b)(5)(B) of this section, the inflation percentage a
 
 &emsp;The Secretary shall reserve 1 percent of the amounts described in subsection (b) of this section for each fiscal year, for allotment to Indian tribes in accordance with section 629c(a) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §430, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(a)(2), 107 Stat. 649; amended Nov. 19, 1997, Pub. L. 105–89, title III, §305(a)(1), (2), (b)(3)(A), 111 Stat. 2130, 2131.)
+(Aug. 14, 1935, ch. 531, title IV, §430, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 649; amended Pub. L. 105–89, title III, §305(a)(1), (2), (b)(3)(A), Nov. 19, 1997, 111 Stat. 2130, 2131.)
 
 #### References in Text
 

@@ -20,7 +20,7 @@ The authorization in subsection (a) of this section expires March 1, 1999 and sh
 
 &emsp;(6) after the Secretary of the Interior issues an opinion of value to the Committee on Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Committees on Appropriations of the House and Senate for the land and property to be acquired by the Federal Government. Such opinion of value shall also include the total value of all compensation (including tax benefits) proposed to be provided for the acquisition;
 
-&emsp;(7) after an Environmental Impact Statement for the proposed Habitat ConservationPlan has been prepared and completed in accordance with the applicable provisions of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]; and
+&emsp;(7) after an Environmental Impact Statement for the proposed Habitat Conservation Plan has been prepared and completed in accordance with the applicable provisions of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\]; and
 
 &emsp;(8) when adequate provision has been made for public access to the property.
 

@@ -30,7 +30,7 @@
 
 (B) If the member dies before the full recovery of the amount of annuity payments described in subparagraph (A) has been made by the United States, the remaining amount of such annuity payments may be collected from the member's beneficiary under this subchapter if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 110; Aug. 13, 1968, Pub. L. 90–485, §1(7), 82 Stat. 753; Sept. 21, 1972, Pub. L. 92–425, §1(2)(A), 86 Stat. 706; Dec. 12, 1980, Pub. L. 96–513, title V, §511(57), 94 Stat. 2925; Sept. 24, 1983, Pub. L. 98–94, title IX, §922(a)(14)(A), 97 Stat. 642; Oct. 19, 1984, Pub. L. 98–525, title VI, §642(a)(1), 98 Stat. 2545; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(9), 99 Stat. 739.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 110; Pub. L. 90–485, §1(7), Aug. 13, 1968, 82 Stat. 753; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706; Pub. L. 96–513, title V, §511(57), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–94, title IX, §922(a)(14)(A), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §642(a)(1), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title XIII, §1303(a)(9), Nov. 8, 1985, 99 Stat. 739.)
 
 Historical and Revision Notes
 

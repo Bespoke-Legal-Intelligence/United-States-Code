@@ -7,9 +7,8 @@
 | [5803\.](%C2%A7%2005803%20-%20Launch%20voucher%20demonstration%20program.md) | Launch voucher demonstration program. |
 | (a) | Commercial space voucher demonstration program; effective period. |
 | (b) | Award of vouchers. |
-| (c) | Assumption of certain responsibilities. |
-| (d) | Assistance. |
-| (e) | Report. |
+| (c) | Assistance. |
+| (d) | Report. |
 | [5804\.](%C2%A7%2005804%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | Repealed. |
 | [5805\.](%C2%A7%2005805%20-%20Identification%20of%20launch%20support%20facilities.md) | Identification of launch support facilities. |
 | (a) | Identification. |

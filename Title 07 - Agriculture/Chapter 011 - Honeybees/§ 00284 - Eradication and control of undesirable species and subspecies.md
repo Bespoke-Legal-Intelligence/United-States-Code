@@ -12,7 +12,7 @@ The Secretary of Agriculture is authorized to cooperate with the Governments of 
 
 In performing the operations or measures authorized in this chapter, the cooperating foreign country, State, or local agency shall be responsible for the authority to carry out such operations or measures on all lands and properties within the foreign country or State, other than those owned or controlled by the Federal Government of the United States, and for such other facilities and means as in the discretion of the Secretary of Agriculture are necessary.
 
-(Aug. 31, 1922, ch. 301, §3, as added June 25, 1976, Pub. L. 94–319, §3, 90 Stat. 709.)
+(Aug. 31, 1922, ch. 301, §3, as added Pub. L. 94–319, §3, June 25, 1976, 90 Stat. 709.)
 
 #### Indemnification for Beekeepers
 

@@ -8,7 +8,7 @@
 
 #### (A) Mutual assistance in law enforcement
 
-&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islandswill authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
+&emsp;&emsp;The law enforcement agencies of the United States and the Marshall Islands shall assist one another, as mutually agreed, in the prevention and investigation of crimes and the enforcement of the laws of the United States and the Marshall Islands specified in subparagraph (C) of this paragraph. The United States and the Marshall Islands will authorize mutual assistance with respect to investigations, inquiries, audits and related activities by the law enforcement agencies of both Governments in the United States and the Marshall Islands. In conducting activities authorized in accordance with this section, the United States and the Marshall Islands will act in accordance with the constitution and laws of the jurisdiction in which such activities are conducted.
 
 #### (B) Narcotics and control of illegal substances
 
@@ -54,7 +54,7 @@
 
 #### (c) Ejit
 
-(1) The President of the United States shall negotiate with the Government of the Marshall Islands an agreement whereby, without prejudice as to any claims which have been or may be asserted by any party as to rightful title and ownership of any lands on Ejit, the Government of the Marshall Islands shall assure that lands on Ejit used as of January 1, 1985, by the people of Bikini, will continue to be available without charge for their use, until such time as Bikini is restored and inhabitable and the continued useof Ejit is no longer necessary, unless a Marshall Islands court of competent jurisdiction finally determines that there are legal impediments to continued use of Ejit by the people of Bikini.
+(1) The President of the United States shall negotiate with the Government of the Marshall Islands an agreement whereby, without prejudice as to any claims which have been or may be asserted by any party as to rightful title and ownership of any lands on Ejit, the Government of the Marshall Islands shall assure that lands on Ejit used as of January 1, 1985, by the people of Bikini, will continue to be available without charge for their use, until such time as Bikini is restored and inhabitable and the continued use of Ejit is no longer necessary, unless a Marshall Islands court of competent jurisdiction finally determines that there are legal impediments to continued use of Ejit by the people of Bikini.
 
 (2) If the impediments described in paragraph (1) do arise, the United States will cooperate with the Government of the Marshall Islands in assisting any person adversely affected by such judicial determination to remain on Ejit, or in locating suitable and acceptable alternative lands for such person's use.
 
@@ -88,7 +88,7 @@
 
 #### (f) Nuclear test effects
 
-In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap);and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (g) Espousal provisions
 
@@ -104,11 +104,11 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (2) Agricultural and food programs
 
-&emsp;Notwithstanding any other provision of law, upon the request of the Government of the Marshall Islands, for the first ten years after the effective date of the Compact, the President (either through an appropriate department or agency of the United States or by contract with a United States firm or by a grant to the Government of the Republic of the Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands) shall provide technical and other assistance—
+&emsp;Notwithstanding any other provision of law, upon the request of the Government of the Marshall Islands, for the first fifteen years after the effective date of the Compact, the President (either through an appropriate department or agency of the United States or by contract with a United States firm or by a grant to the Government of the Republic of the Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands) shall provide technical and other assistance—
 
 &emsp;&emsp;(A) without reimbursement, to continue the planting and agricultural maintenance program on Enewetak;
 
-&emsp;&emsp;(B) without reimbursement, to continue the food programs of the Bikini, Rongelap, Utrik, and Enewetak people described in section 1(d) of Article II of the Subsidiary Agreement for the Implementation of Section 177 of the Compact and for continued waterborne transportation of agricultural products to Enewetak including operations and maintenance of the vessel used for such purposes.
+&emsp;&emsp;(B) without reimbursement, to continue the food programs of the Bikini, Rongelap, Utrik, and Enewetak people described in section 1(d) of Article II of the Subsidiary Agreement for the Implementation of Section 177 of the Compact and for continued waterborne transportation of agricultural products to Enewetak including operations and maintenance of the vessel used for such purposes. The President shall ensure the assistance provided under these programs reflects the changes in the population since the inception of such programs.
 
 #### (3) Payments
 
@@ -116,7 +116,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (i) Rongelap
 
-(1) Because Rongelap was directly affected by fallout from a 1954 United States thermonuclear test and because the Rongelap people remain unconvinced that it is safe to continue to live on Rongelap Island, it is the intent of Congress to take such steps (if any) as may be necessary to overcome the effects of such fallout on the habitability of Rongelap Island, and to restore Rongelap Island, if necessary, so that it can be safely inhabited. Accordingly, it is the expectation of the Congress that the Government of the Marshall Islands shall use such portion of the funds specified in Article II, section 1(e) of the subsidiary agreement for the implementation of section 177 of the Compact as are necessary for the purpose of contracting with a qualified scientist or group of scientists to review the data collected by the Department of Energy relating to radiation levels and other conditions on Rongelap Island resulting from the thermonuclear test. It is the expectation of the Congress that the Government of the Marshall Islands, after consultation with the people of Rongelap, shall select the party to review such data, and shall contract for such review and for submission of a report to the President of the United States and the Congress as to the results thereof.
+(1) Because Rongelap was directly affected by fallout from a 1954 United States thermonuclear test and because the Rongelap people remain unconvinced that it is safe to continue to live on Rongelap Island, it is the intent of Congress to take such steps (if any) as may be necessary to overcome the effects of such fallout on the habitability of Rongelap Island, and to restore Rongelap Island, if necessary, so that it can be safely inhabited. Accordingly, it is the expectation of the Congress that the Government of the Marshall Islands shall use such portion of the funds specified in Article II, section 1(e) of the subsidiary agreement for the implementation of section 177 of the Compact as are necessary for the purpose of contracting with a qualified scientist or group of scientists to review the data collected by the Department of Energy relatingto radiation levels and other conditions on Rongelap Island resulting from the thermonuclear test. It is the expectation of the Congress that the Government of the Marshall Islands, after consultation with the people of Rongelap, shall select the party to review such data, and shall contract for such review and for submission of a report to the President of the United States and the Congress as to the results thereof.
 
 (2) The purpose of the review referred to in paragraph (1) of this subsection shall be to establish whether the data cited in support of the conclusions as to the habitability of Rongelap Island, as set forth in the Department of Energy report entitled: “The Meaning of Radiation for Those Atolls in the Northern Part of the Marshall Islands That Were Surveyed in 1978”, dated November 1982, are adequate and whether such conclusions are fully supported by the data. If the party reviewing the data concludes that such conclusions as to habitability are fully supported by adequate data, the report to the President of the United States and the Congress shall so state. If the party reviewing the data concludes that the data are inadequate to support such conclusions as to habitability or that such conclusions as to habitability are not fully supported by the data, the Government of the Marshall Islands shall contract with an appropriate scientist or group of scientists to undertake a complete survey of radiation and other effects of the nuclear testing program relating to the habitability of Rongelap Island. Such sums as are necessary for such survey and report concerning the results thereof and as to steps needed to restore the habitability of Rongelap Island are authorized to be made available to the Government of the Marshall Islands.
 
@@ -140,7 +140,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (2) Monitor conditions
 
-&emsp;Upon the request of the Government of the Marshall Islands, the United States shall monitor the radiation and other conditions on Enjebi and within one year of receiving such a request shall report to the Government of the Marshall Islands when the people of Enjebi may resettle Enjebi under circumstances where the radioactive contamination at Enjebi, including contamination derived from consumption of locally grown food products, can be reduced or otherwise controlled to meet whole body Federal radiation protection standards for the general population, including mean annual dose and mean 30-year cumulative dose standards.
+&emsp;Upon the request of the Government of the Marshall Islands, the United States shall monitor the radiation and other conditions on Enjebi and within one year of receiving such a request shall report to the Government of the Marshall Islands when the people of Enjebi may resettle Enjebi under circumstances where the radioactive contamination at Enjebi, including contamination derived from consumption of locally grown food products,can be reduced or otherwise controlled to meet whole body Federal radiation protection standards for the general population, including mean annual dose and mean 30-year cumulative dose standards.
 
 #### (3) Resettlement of Enjebi
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (4) Resettlement of other location
 
-&emsp;In the event that the United States determines that within 25 years of January 14, 1986,the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
+&emsp;In the event that the United States determines that within 25 years of January 14, 1986, the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
 
 #### (5) Interest from Fund
 
@@ -218,7 +218,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 &emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
-(Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39.)
+(Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39; Pub. L. 105–209, §2, July 29, 1998, 112 Stat. 880.)
 
 #### References in Text
 
@@ -230,7 +230,7 @@ Section 2291(e) of title 22, referred to in subsec. (a)(4), was repealed and sec
 
 For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsecs. (b)(1), (e)(4), (h)(2), and (j)(2), (3), see Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title.
 
-Public Law 95–134, referred to in subsecs. (h)(1) and (j)(1), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 95–134, referred to in subsecs. (h)(1) and (j)(1), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 
 Public Law 96–205, referred to in subsecs. (h)(1) and (j)(1), is Pub. L. 96–205, Mar. 12, 1980, 94 Stat. 84, as amended. For complete classification of this Act to the Code, see Tables.
 
@@ -239,6 +239,10 @@ Public Law 96–205, referred to in subsecs. (h)(1) and (j)(1), is Pub. L. 96–
 Section was formerly set out as a note under section 1681 of this title.
 
 #### Amendments
+
+1998—Subsec. (h)(2). Pub. L. 105–209, §2(1), substituted “fifteen years” for “ten years” in introductory provisions.
+
+Subsec. (h)(2)(B). Pub. L. 105–209, §2(2), inserted at end “The President shall ensure the assistance provided under these programs reflects the changes in the population since the inception of such programs.”
 
 1992—Subsec. (h)(2). Pub. L. 102–247 substituted “ten years” for “five years” in introductory provisions.
 
@@ -260,7 +264,7 @@ Effective Date.—The provisions of subsection (a) shall apply to all taxable ye
 
 Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, Mar. 12, 1980, 94 Stat. 84; amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that:
 
-“(a) In addition to any other payments or benefits provided by law to compensate inhabitants of the atolls of Bikini, Enewetak, Rongelap, and Utirik, in the Marshall Islands, for radiation exposure or other losses sustained by them as a result of the United States nuclear weapons testing program at or near their atolls during the period 1946 to 1958, the Secretary of the Interior (hereinafter in this section referred to as the ‘Secretary’) shall provide for the people of the atolls of Bikini, Enewetak, Rongelap, and Utirik and for the people of such other atolls as may be found to be or to have been exposed to radiation from the nuclear weapons testing program, a program of medical care and treatment and environmental research and monitoring for any injury, illness, or condition which may be the result directly or indirectly of such nuclear weapons testing program. The program shall be implemented according to a plan developed by the Secretary in consultation with the Secretaries of Defense, Energy, and Health and Human Services and with the direct involvement of representatives from the people of each of the affected atolls and from the government of the Marshall Islands. The plan shall set forth, as appropriate to the situation, condition, and needs of the individual atoll peoples:
+“(a) In addition to any other payments or benefits provided by law to compensate inhabitants of the atolls of Bikini, Enewetak, Rongelap, and Utirik, in the Marshall Islands, for radiation exposure or other losses sustained by them as a result of the United States nuclear weapons testing program at or near their atolls during the period 1946 to 1958, the Secretary of the Interior (hereinafter in this section referred to as the ‘Secretary’) shall provide for the people of the atolls of Bikini, Enewetak, Rongelap, and Utirik and for the people of such other atolls as may be found to be or to have been exposed to radiation from the nuclear weapons testing program, a program of medical care andtreatment and environmental research and monitoring for any injury, illness, or condition which may be the result directly or indirectly of such nuclear weapons testing program. The program shall be implemented according to a plan developed by the Secretary in consultation with the Secretaries of Defense, Energy, and Health and Human Services and with the direct involvement of representatives from the people of each of the affected atolls and from the government of the Marshall Islands. The plan shall set forth, as appropriate to the situation, condition, and needs of the individual atoll peoples:
 
 &emsp;“(1) an integrated, comprehensive health care program including primary, secondary, and tertiary care with special emphasis upon the biological effects of ionizing radiation;
 

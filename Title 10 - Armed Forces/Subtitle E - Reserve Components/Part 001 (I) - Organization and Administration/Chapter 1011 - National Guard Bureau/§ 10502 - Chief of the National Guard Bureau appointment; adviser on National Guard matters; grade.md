@@ -12,7 +12,7 @@ Appointment.—There is a Chief of the National Guard Bureau, who is responsible
 
 (b)
 
-Term of Office.—An officer appointed as Chief of the National Guard Bureau serves at the pleasure of the President for a term of fouryears. An officer may not hold that office after becoming 64 years of age. An officer may be reappointed as Chief of the National Guard Bureau. While holding that office, the Chief of the National Guard Bureau may not be removed from the reserve active-status list, or from an active status, under any provision of law that otherwise would require such removal due to completion of a specified number of years of service or a specified number of years of service in grade.
+Term of Office.—An officer appointed as Chief of the National Guard Bureau serves at the pleasure of the President for a term of four years. An officer may not hold that office after becoming 64 years of age. An officer may be reappointed as Chief of the National Guard Bureau. While holding that office, the Chief of the National Guard Bureau may not be removed from the reserve active-status list, or from an active status, under any provision of law that otherwise would require such removal due to completion of a specified number of years of service or a specified number of years of service in grade.
 
 (c)
 

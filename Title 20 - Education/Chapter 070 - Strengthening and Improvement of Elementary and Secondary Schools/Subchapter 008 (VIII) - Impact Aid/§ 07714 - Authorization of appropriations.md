@@ -28,7 +28,7 @@ For the purpose of carrying out section 7708 of this title, there are authorized
 
 For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated such sums as are necessary beginning in fiscal year 1998 and for each succeeding fiscal year.
 
-(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 104–78, title III, Nov. 13, 1997, 111 Stat. 1498.)
+(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498.)
 
 #### Amendments
 

@@ -6,11 +6,11 @@ The Secretary of the Treasury or such officer or employee as he shall designate,
 
 &emsp;(2) verify, to such extent as the Secretary of the Treasury shall direct, assessments of duties and taxes and allowances of drawback.
 
-(June 17, 1930, ch. 497, title IV, §523, 46 Stat. 740; Aug. 8, 1953, ch. 397, §2(d), 67 Stat. 508; June 2, 1970, Pub. L. 91–271, title III, §301(s), 84 Stat. 290.)
+(June 17, 1930, ch. 497, title IV, §523, 46 Stat. 740; Aug. 8, 1953, ch. 397, §2(d), 67 Stat. 508; Pub. L. 91–271, title III, §301(s), June 2, 1970, 84 Stat. 290.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §523, 42Stat. 974. That section was superseded by section 523 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §523, 42 Stat. 974. That section was superseded by section 523 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

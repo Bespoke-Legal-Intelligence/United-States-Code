@@ -2,7 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[8681 to 8683. Repealed.\] |  |
+| [8681\.](%C2%A7%2008681%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
+| \[8682, 8683. Repealed.\] |  |
 | [8684\.](%C2%A7%2008684%20-%20Service%20credit%20regular%20enlisted%20members%3B%20service%20as%20an%20officer%20to%20be%20counted%20as%20enlisted%20service.md) | Service credit: regular enlisted members; service as an officer to be counted as enlisted service. |
 | \[8685 to 8690. Repealed.\] |  |
 | [8691\.](%C2%A7%2008691%20-%20Flying%20officer%20rating%20qualifications.md) | Flying officer rating: qualifications. |
@@ -11,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title VI, §644(c)(2), Oct. 17, 1998, 112 Stat. 2049, added item 8681.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(6), Oct. 5, 1994, 108 Stat. 3016, struck out item 8686 “Members of Air National Guard of United States: credit for service as members of Air National Guard”.
 
@@ -31,7 +34,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08681 - Repealed. Pub. L. 85&#8211;861, &sect;36B(28), Sept. 2, 1958, 72 Stat. 1571](%C2%A7%2008681%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93861%2C%20%C2%A736B%2828%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201571.md)
+- [&sect; 08681 - Presentation of United States flag upon retirement](%C2%A7%2008681%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)
 - [&sect; 08682 - Repealed. Pub. L. 90&#8211;235, &sect;6(a)(2), Jan. 2, 1968, 81 Stat. 761](%C2%A7%2008682%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A76%28a%29%282%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20761.md)
 - [&sect; 08683 - Repealed. Pub. L. 99&#8211;145, title XIII, &sect;1301(d)(1)(A), Nov. 8, 1985, 99 Stat. 736](%C2%A7%2008683%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20XIII%2C%20%C2%A71301%28d%29%281%29%28A%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20736.md)
 - [&sect; 08684 - Service credit regular enlisted members; service as an officer to be counted as enlisted service](%C2%A7%2008684%20-%20Service%20credit%20regular%20enlisted%20members%3B%20service%20as%20an%20officer%20to%20be%20counted%20as%20enlisted%20service.md)

@@ -8,7 +8,7 @@ An entity receiving funds under section 6921 of this title shall prepare and sub
 
 &emsp;(2) the support materials that have been developed to accompany the programming, and the method by which such materials are distributed to consumers and users of the programming;
 
-&emsp;(3) the means by which programming developed under this section has been distributed,including the distance learning technologies that have been utilized to make programming available and the geographic distribution achieved through such technologies; and
+&emsp;(3) the means by which programming developed under this section has been distributed, including the distance learning technologies that have been utilized to make programming available and the geographic distribution achieved through such technologies; and
 
 &emsp;(4) the initiatives undertaken by the entity to develop public-private partnerships to secure non-Federal support for the development and distribution and broadcast of educational and instructional programming.
 

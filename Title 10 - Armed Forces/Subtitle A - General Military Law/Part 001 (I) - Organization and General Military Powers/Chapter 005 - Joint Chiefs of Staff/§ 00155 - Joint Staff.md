@@ -16,7 +16,7 @@ Appointment of Officers to Joint Staff.—(1) There is a Joint Staff under the C
 
 (b)
 
-Director.—The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and withthe approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
+Director.—The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and with the approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
 
 (c)
 
@@ -80,7 +80,7 @@ Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted “the President
 
 #### Effective Date of 1993 Amendment
 
-Section 202(b) of Pub. L. 103–35 provided that: “The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
+Section 202(b) of Pub. L. 103–35 provided that: “The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of \[former\] Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
 
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 
@@ -118,7 +118,7 @@ Term of Office.—Each Assistant to the Chairman under subsection (a) serves at 
 
 “(d)
 
-Grade.—Each Assistant to the Chairman, while so serving, holds the grade of major general or, in thecase of the Naval Reserve, rear admiral. Each such officer shall be considered to be serving in a position external to that officer's Armed Force for purposes of section 721 of title 10, United States Code, as added by section 501(a).
+Grade.—Each Assistant to the Chairman, while so serving, holds the grade of major general or, in the case of the Naval Reserve, rear admiral. Each such officer shall be considered to be serving in a position external to that officer's Armed Force for purposes of section 721 of title 10, United States Code, as added by section 501(a).
 
 “(e)
 
@@ -126,7 +126,7 @@ Duties.—The Assistant to the Chairman for National Guard Matters is an adviser
 
 “(f)
 
-Other Reserve Component Representation on Joint Staff.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs, shall develop appropriate policy guidance to ensure that, to the maximum extent practicable, the level of reserve component officer representation within the Joint Staff is commensurate with the significant role of the reserve components within the Total Force.
+Other Reserve Component Representation on Joint Staff.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs, shall develop appropriate policy guidance to ensure that, to the maximum extent practicable, the level of reserve component officer representation within the JointStaff is commensurate with the significant role of the reserve components within the Total Force.
 
 “(2) Not later than March 1, 1998, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report describing the steps taken and being taken to implement this subsection.
 

@@ -52,11 +52,13 @@ Grants made under subsection (a) of this section may include programs, projects,
 
 &emsp;(7) establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
-&emsp;(8) develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
+&emsp;(8) establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities;
 
-&emsp;(9) establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members; and
+&emsp;(9) develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
-&emsp;(10) support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing.
+&emsp;(10) establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members; and
+
+&emsp;(11) support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing.
 
 #### (e) Preferential consideration of applications for certain grants
 
@@ -86,7 +88,7 @@ Unless all applications submitted by any State and grantee within the State purs
 
 #### (i) Matching funds
 
-The portion of the costs of a program, project, or activity provided by a grant under subsection (a) of this section may not exceed 75 percent, unless the Attorney General waives, wholly or in part, the requirement under this subsection of a non-Federal contribution to the costs of a program, project, or activity. In relation to a grant for a period exceeding 1 year for hiring or rehiring career law enforcement officers, the Federal share shall decrease from year to year for up to 5 years, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support, as provided in an approved plan pursuant to section 3796dd–1(c)(8) of this title.
+The portion of the costs of a program, project, or activity provided by a grant under subsection (a) of this section may not exceed 75 percent, unless the Attorney General waives, wholly or in part, the requirement under this subsection of a non-Federal contribution to the costs of a program, project, or activity. In relation to a grant for a period exceeding 1 year for hiring or rehiring career law enforcement officers, the Federal share shall decrease from year to year for up to 5 years, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion ofFederal support, as provided in an approved plan pursuant to section 3796dd–1(c)(8) of this title.
 
 #### (j) Allocation of funds
 
@@ -96,7 +98,7 @@ The funds available under this subchapter shall be allocated as provided in sect
 
 The authority under subsection (a) of this section to make grants for the hiring and rehiring of additional career law enforcement officers shall lapse at the conclusion of 6 years from September 13, 1994. Prior to the expiration of this grant authority, the Attorney General shall submit a report to Congress concerning the experience with and effects of such grants. The report may include any recommendations the Attorney General may have for amendments to this subchapter and related provisions of law in light of the termination of the authority to make grants for the hiring and rehiring of additional career law enforcement officers.
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468.)
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841.)
 
 #### References in Text
 
@@ -104,9 +106,11 @@ The Public Safety Partnership and Community Policing Act of 1994, referred to in
 
 #### Prior Provisions
 
-A prior section 1701 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments
+
+1998—Subsec. (d)(8) to (11). Pub. L. 105–302 added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
 1997—Subsec. (b)(2)(A). Pub. L. 105–119 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “may not exceed—
 
@@ -116,7 +120,7 @@ A prior section 1701 of Pub. L. 90–351 was renumbered section 2501 and is clas
 
 &emsp;“(iii) 10 percent of the funds available for grants pursuant to this subsection in fiscal years 1997, 1998, 1999, and 2000; and”.
 
-#### Purposes of Public Safety Partnership and Community Policing Act of 1994
+#### Purposes of 1994 Amendments
 
 Section 10002 of title I of Pub. L. 103–322 provided that: “The purposes of this title \[see Short Title of 1994 Amendment note set out under section 3711 of this title\] are to—
 

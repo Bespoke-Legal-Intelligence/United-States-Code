@@ -10,9 +10,9 @@
 
 (3) The aggregate amount of performance awards paid under this section by an agency during any fiscal year may not exceed the greater of—
 
-&emsp;(A) an amount equal to 3 percent of the aggregate amount of basic pay paid to career appointees in such agency during the preceding fiscal year; or
+&emsp;(A) an amount equal to 10 percent of the aggregate amount of basic pay paid to career appointees in such agency during the preceding fiscal year; or
 
-&emsp;(B) an amount equal to 15 percent of the average of the annual rates of basic pay paid to career appointees in such agency during the preceding fiscal year.
+&emsp;(B) an amount equal to 20 percent of the average of the annual rates of basic pay paid to career appointees in such agency during the preceding fiscal year.
 
 (c)(1) Performance awards paid by any agency under this section shall be based on recommendations by performance review boards established by such agency under section 4314 of this title.
 
@@ -20,15 +20,21 @@
 
 (d) The Office of Personnel Management may issue guidance to agencies concerning the proportion of Senior Executive Service salary expenses that may be appropriately applied to payment of performance awards and the distribution of awards.
 
-(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, title III, §302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, §625(a), Nov. 3, 1989, 103 Stat. 822.)
+(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, title III, §302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, §625(a), Nov. 3, 1989, 103 Stat. 822; Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §632(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 #### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–277 substituted “10 percent” for “3 percent” in subpar. (A) and substituted “20 percent” for “15 percent” in subpar. (B).
 
 1989—Subsec. (c). Pub. L. 101–136 designated existing provisions as par. (1) and added par. (2).
 
 1984—Subsec. (b)(2). Pub. L. 98–615, §302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
 
 Subsec. (b)(3). Pub. L. 98–615, §302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §632(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998, or the date of enactment of this Act \[Oct. 21, 1998\], whichever is later.”
 
 #### Effective Date of 1984 Amendment
 
@@ -50,7 +56,7 @@ Pub. L. 96–304, title III, §303, July 8, 1980, 94 Stat. 927.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 4314, 4507 of this title; title 10 section 1606; title 22 section 3965; title 31 section 733; title 38 section 7404.
+This section is referred to in sections 3151, 4314, 4507, 9505 of this title; title 10 section 1606; title 22 section 3965; title 31 section 733; title 38 section 7404.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

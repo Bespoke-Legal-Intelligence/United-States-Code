@@ -18,7 +18,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (1) Prohibition
 
-&emsp;It shall be unlawful for any member of a national securities exchange or any broker ordealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
+&emsp;It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
 
 &emsp;&emsp;(A) on any security (other than an exempted security), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the “Board”) shall prescribe under subsections (a) and (b) of this section; and
 
@@ -38,7 +38,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 > &emsp;except that the Board may impose such rules and regulations, in whole or in part, on any credit otherwise exempted by this paragraph if the Board determines that such action is necessary or appropriate in the public interest or for the protection of investors.
 
-#### (d) Unlawful credit extension in violation of rules and regulations; exception to application of rules, etc.
+#### (d) Unlawful credit extension in violation of rules and regulations; exceptions to application of rules, etc.
 
 #### (1) Prohibition
 
@@ -76,7 +76,7 @@ The provisions of this section or the rules and regulations thereunder shall not
 
 (2) For the purposes of this subsection—
 
-&emsp;(A) The term “United States person” includes a person which is organized or exists under the laws of any State or, in the case of a natural person, a citizen or resident of theUnited States; a domestic estate; or a trust in which one or more of the foregoing persons has a cumulative direct or indirect beneficial interest in excess of 50 per centum of the value of the trust.
+&emsp;(A) The term “United States person” includes a person which is organized or exists under the laws of any State or, in the case of a natural person, a citizen or resident of the United States; a domestic estate; or a trust in which one or more of the foregoing persons has a cumulative direct or indirect beneficial interest in excess of 50 per centum of the value of the trust.
 
 &emsp;(B) The term “United States security” means a security (other than an exempted security) issued by a person incorporated under the laws of any State, or whose principal place of business is within a State.
 
@@ -88,15 +88,19 @@ The provisions of this section or the rules and regulations thereunder shall not
 
 Subject to such rules and regulations as the Board of Governors of the Federal Reserve System may adopt in the public interest and for the protection of investors, no member of a national securities exchange or broker or dealer shall be deemed to have extended or maintained credit or arranged for the extension or maintenance of credit for the purpose of purchasing a security, within the meaning of this section, by reason of a bona fide agreement for delayed delivery of a mortgage related security or a small business related security against full payment of the purchase price thereof upon such delivery within one hundred and eighty days after the purchase, or within such shorter period as the Board of Governors of the Federal Reserve System may prescribe by rule or regulation.
 
-(June 6, 1934, ch. 404, title I, §7, 48 Stat. 886; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; July 29, 1968, Pub. L. 90–437, 82 Stat. 452; Oct. 26, 1970, Pub. L. 91–508, title III, §301(a), 84 Stat. 1124; Oct. 3, 1984, Pub. L. 98–440, title I, §102, 98 Stat. 1690; Sept. 23, 1994, Pub. L. 103–325, title II, §203, 108 Stat. 2199; Oct. 11, 1996, Pub. L. 104–290, title I, §104(a), 110 Stat. 3422.)
+(June 6, 1934, ch. 404, title I, §7, 48 Stat. 886; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 90–437, July 29, 1968, 82 Stat. 452; Pub. L. 91–508, title III, §301(a), Oct. 26, 1970, 84 Stat. 1124; Pub. L. 98–440, title I, §102, Oct. 3, 1984, 98 Stat. 1690; Pub. L. 103–325, title II, §203, Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–290, title I, §104(a), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title III, §301(b)(5), (6), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### Amendments
+
+1998—Subsecs. (a), (b). Pub. L. 105–353, §301(b)(5), substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+
+Subsec. (d). Pub. L. 105–353, §301(b)(6), substituted “exceptions” for “exception” in heading.
 
 1996—Subsec. (c). Pub. L. 104–290, §104(a)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
 
 &emsp;“(1) on any security (other than an exempted security), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System shall prescribe under subsections (a) and (b) of this section;
 
-&emsp;“(2) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe (A) to permit under specified conditions and for a limited period any such member, broker, or dealer to maintain a credit initially extended in conformity with the rules and regulations of the Board of Governors of the Federal Reserve System, and (B) to permit the extension or maintenance of credit in cases where the extension or maintenance of credit is not for the purpose of purchasing or carrying securities or of evading or circumventing the provisions of paragraph (1) of this subsection.”
+&emsp;“(2) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe (A) to permit under specified conditions and for a limited period any such member, broker, or dealer to maintain a credit initially extended in conformity with the rules and regulations of the Board of Governors of the Federal Reserve System, and (B) to permit the extensionor maintenance of credit in cases where the extension or maintenance of credit is not for the purpose of purchasing or carrying securities or of evading or circumventing the provisions of paragraph (1) of this subsection.”
 
 Subsec. (d). Pub. L. 104–290, §104(a)(2), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “It shall be unlawful for any person not subject to subsection (c) of this section to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board of Governors of the Federal Reserve System shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) of this section and the rules and regulations thereunder. This subsection and the rules and regulations thereunder shall not apply (A) to a loan made by a person not in the ordinary course of his business, (B) to a loan on an exempted security, (C) to a loan to a dealer to aid in the financing of the distribution of securities to customers not through the medium of a national securities exchange, (D) to a loan by a bank on a security other than an equity security, or (E) to such other loans as the Board of Governors of the Federal Reserve System shall, by such rules and regulations as it may deem necessary or appropriate in the public interest or for the protection of investors, exempt, either unconditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection and the rules and regulations thereunder.”
 
@@ -114,13 +118,13 @@ Subsec. (d). Pub. L. 90–437, §1(3), struck out “registered on a national se
 
 #### Change of Name
 
-Act Aug. 23, 1935, substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+Act Aug. 23, 1935, in subsec. (e), substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–508 effective on first day of seventh calendar month which begins after Oct. 26, 1970, except as otherwise provided in section 401(c) of Pub. L. 91–508, see section 401(a) of Pub. L. 91–508, set out as a note under section 1951 of Title 12, Banks and Banking.
 
-Section 401(c) of Pub. L. 91–508 provided that: “The Board of Governors of the Federal Reserve System mayby regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\].”
+Section 401(c) of Pub. L. 91–508 provided that: “The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\].”
 
 #### Validity of Rules and Regulations
 

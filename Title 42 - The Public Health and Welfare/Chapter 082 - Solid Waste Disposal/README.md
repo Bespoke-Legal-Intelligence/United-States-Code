@@ -37,6 +37,7 @@
 | (e) | Multi-media permits. |
 | (f) | “Small town” defined. |
 | (g) | Authorization. |
+| [6908a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2006908a%20-%20Agreements%20with%20Indian%20tribes.md) | Agreements with Indian tribes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -359,7 +360,6 @@
 | [6977\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2006977%20-%20Grants%20or%20contracts%20for%20training%20projects.md) | Grants or contracts for training projects. |
 | (a) | General authority. |
 | (b) | Purposes. |
-| (c) | Study. |
 | [6978\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Provisions/%C2%A7%2006978%20-%20Payments.md) | Payments. |
 | (a) | General rule. |
 | (b) | Prohibition. |
@@ -506,10 +506,7 @@
 | (a) | State inspections and enforcement. |
 | (b) | Retention of State authority. |
 | (c) | State forms. |
-| [6992g.](Subchapter%20010%20%28X%29%20-%20Demonstration%20Medical%20Waste%20Tracking%20Program/%C2%A7%2006992g%20-%20Report%20to%20Congress.md) | Report to Congress. |
-| (a) | Final report. |
-| (b) | Interim reports. |
-| (c) | Consultation. |
+| [6992g.](Subchapter%20010%20%28X%29%20-%20Demonstration%20Medical%20Waste%20Tracking%20Program/%C2%A7%2006992g%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20V%2C%20%C2%A7501%28h%29%281%29%28A%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203284.md) | Repealed. |
 | [6992h.](Subchapter%20010%20%28X%29%20-%20Demonstration%20Medical%20Waste%20Tracking%20Program/%C2%A7%2006992h%20-%20Health%20impacts%20report.md) | Health impacts report. |
 | [6992i.](Subchapter%20010%20%28X%29%20-%20Demonstration%20Medical%20Waste%20Tracking%20Program/%C2%A7%2006992i%20-%20General%20provisions.md) | General provisions. |
 | (a) | Consultation. |
@@ -522,7 +519,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 300h–6, 300h–7, 2022, 2114, 4365, 4368b, 5919, 7412, 7429, 8302, 9601, 9604, 9613, 9614, 9619, 6920, 9621, 9659, 9660, 14323 of this title; title 7 section 136q; title 10 sections 2708, 7311; title 18 section 1956; title 20 section 1132a; title 25 section 3908; title 26 section 468; title 30 section 1292; title 33 sections 1319, 2602, 2622, 2718; title 49 section 14901.
+This chapter is referred to in sections 300h–6, 300h–7, 2022, 2114, 4365, 4368b, 5919, 7412, 7429, 8302, 9601, 9604, 9613, 9614, 9619, 6920, 9621, 9659, 9660, 14323 of this title; title 7 section 136q; title 10 sections 2708, 7311; title 16 section 460<i>lll</i>; title 18 section 1956; title 25 section 3908; title 26 section 468; title 30 section 1292; title 33 sections 1319, 2602, 2622, 2718; title 49 section 14901.
 
 
 ---

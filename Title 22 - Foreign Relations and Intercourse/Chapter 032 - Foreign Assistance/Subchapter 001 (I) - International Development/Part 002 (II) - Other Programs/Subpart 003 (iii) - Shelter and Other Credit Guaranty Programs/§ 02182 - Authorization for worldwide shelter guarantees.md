@@ -58,7 +58,7 @@ Subsec. (k). Pub. L. 99–83, §313(c), added subsec. (k).
 
 1978—Pub. L. 95–424 amended section generally to provide a new consolidated section which provides a single authorization for the worldwide housing guarantee program, a new list of the types of programs to be emphasized, increased the worldwide authorization to $1,180,000,000, and encourages officials and governments in developing countries to consider the use of solar energy in housing projects.
 
-1977—Subsec. (c). Pub. L. 95–88 inserted “or under section 2181 of this title” after “Latin American housing guaranty authority repealed by the Foreign AssistanceAct of 1969” and substituted “$1,030,000,000” for “$600,000,000”.
+1977—Subsec. (c). Pub. L. 95–88 inserted “or under section 2181 of this title” after “Latin American housing guaranty authority repealed by the Foreign Assistance Act of 1969” and substituted “$1,030,000,000” for “$600,000,000”.
 
 1975—Subsec. (c). Pub. L. 94–161 substituted “$600,000,000” for “$550,000,000”.
 
@@ -73,10 +73,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

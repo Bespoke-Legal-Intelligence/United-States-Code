@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Director is authorized to enter into such agreements with the pool formed or otherwisecreated under this part as he deems necessary to carry out the purposes of this chapter.
+The Director is authorized to enter into such agreements with the pool formed or otherwise created under this part as he deems necessary to carry out the purposes of this chapter.
 
 #### (b) Terms and conditions
 

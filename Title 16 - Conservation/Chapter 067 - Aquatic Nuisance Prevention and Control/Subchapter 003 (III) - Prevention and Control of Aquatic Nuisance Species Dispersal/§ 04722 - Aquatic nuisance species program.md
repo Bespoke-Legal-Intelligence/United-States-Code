@@ -80,7 +80,7 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (3) Grants for research
 
-&emsp;The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquatic nuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and Wildlife Research Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
+&emsp;The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquaticnuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and Wildlife Research Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
 
 #### (g) Technical assistance
 
@@ -148,7 +148,7 @@ The Task Force shall, with the program developed under subsection (a) of this se
 
 #### (4) Contributions
 
-&emsp;To the extent allowable by law, in carrying out the studies under paragraphs (2) and (3), the Administrator of the Environmental Protection Agency and the Secretary of the Army may enter into an agreement with an interested party under which that party provides in kind or monetary contributions for the study.
+&emsp;To the extent allowable by law, in carrying out the studies under paragraphs (2) and (3),the Administrator of the Environmental Protection Agency and the Secretary of the Army may enter into an agreement with an interested party under which that party provides in kind or monetary contributions for the study.
 
 #### (5) Technical assistance
 

@@ -40,7 +40,7 @@ For the purpose described in subsection (b) of this section, the Secretary shall
 
 For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 1998 through 2002. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year.
 
-(Aug. 14, 1935, ch. 531, title V, §510, as added Aug. 22, 1996, Pub. L. 104–193, title IX, §912, 110 Stat. 2353.)
+(Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353.)
 
 #### Prior Provisions
 

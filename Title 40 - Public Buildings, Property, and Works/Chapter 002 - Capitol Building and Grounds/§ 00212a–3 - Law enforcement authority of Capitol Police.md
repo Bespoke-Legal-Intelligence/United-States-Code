@@ -6,7 +6,7 @@ Subject to such regulations as may be prescribed by the Capitol Police Board and
 
 &emsp;(1) within the District of Columbia, with respect to any crime of violence committed within the United States Capitol Grounds;
 
-&emsp;(2) within the District of Columbia, with respect to any crime of violence committed inthe presence of the member, if the member is in the performance of official duties when the crime is committed;
+&emsp;(2) within the District of Columbia, with respect to any crime of violence committed in the presence of the member, if the member is in the performance of official duties when the crime is committed;
 
 &emsp;(3) within the District of Columbia, to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties when the authority is exercised; and
 
@@ -33,4 +33,8 @@ Section is also set out in D.C. Code, §9–115.2.
 #### Amendments
 
 1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

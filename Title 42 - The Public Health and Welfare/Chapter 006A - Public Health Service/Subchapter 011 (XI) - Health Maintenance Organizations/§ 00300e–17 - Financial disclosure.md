@@ -60,7 +60,7 @@ Any health maintenance organization failing to file with the Secretary the annua
 
 Whoever knowingly and willfully makes or causes to be made any false statement or representation of a material fact in any statement filed pursuant to this section shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
-(July 1, 1944, ch. 373, title XIII, §1318, as added Nov. 1, 1978, Pub. L. 95–559, §9(a), 92 Stat. 2135; amended Aug. 13, 1981, Pub. L. 97–35, title IX, §948, 95 Stat. 577; Nov. 14, 1986, Pub. L. 99–660, title VIII, §810, 100 Stat. 3801.)
+(July 1, 1944, ch. 373, title XIII, §1318, as added Pub. L. 95–559, §9(a), Nov. 1, 1978, 92 Stat. 2135; amended Pub. L. 97–35, title IX, §948, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–660, title VIII, §810, Nov. 14, 1986, 100 Stat. 3801.)
 
 #### Amendments
 

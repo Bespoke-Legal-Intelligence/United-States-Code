@@ -6,5 +6,9 @@ Any person in the employ or service of the Government of the United States while
 
 #### Amendments
 
-1982—Pub. L. 97–241 substituted “person in the employ or service of the Government of the UnitedStates” for “citizen of the United States” and “Director of the United States Information Agency” for “Secretary”.
+1982—Pub. L. 97–241 substituted “person in the employ or service of the Government of the United States” for “citizen of the United States” and “Director of the United States Information Agency” for “Secretary”.
+
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 

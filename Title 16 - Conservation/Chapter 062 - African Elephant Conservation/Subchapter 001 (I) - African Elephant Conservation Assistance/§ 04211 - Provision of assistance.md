@@ -44,3 +44,7 @@ Each entity that receives assistance under this section shall provide such perio
 
 (Pub. L. 100–478, title II, §2101, Oct. 7, 1988, 102 Stat. 2316.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4246 of this title.
+

@@ -597,7 +597,7 @@ Value of commodities.
 
 |  |  |
 | :--- | ---: |
-| 1736f–1. | Establishment of commodity reserve. |
+| 1736f–1. | Establishment of commodity trust. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -607,7 +607,7 @@ In general.
 
 (b)
 
-Commodities in reserve.
+Commodities or funds in trust.
 
 (c)
 
@@ -619,7 +619,7 @@ Management of eligible commodities.
 
 (e)
 
-Treatment of reserve under other law.
+Treatment of trust under other law.
 
 (f)
 
@@ -734,6 +734,10 @@ Additional assistance in administration of food assistance programs.
 Agreements for sale of commodities.
 
 (n)
+
+Private Voluntary Organizations to carry out section.
+
+(<i>o</i>)
 
 “Independent states of the former Soviet Union” defined.
 

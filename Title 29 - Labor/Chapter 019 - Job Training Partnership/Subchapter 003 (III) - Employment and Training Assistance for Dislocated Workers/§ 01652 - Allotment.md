@@ -62,6 +62,10 @@ Not more than 0.3 percent of the amounts appropriated pursuant to section 1502(b
 
 (Pub. L. 97–300, title III, §302, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1525; amended Pub. L. 102–367, title I, §102(b), title VII, §702(a)(11), Sept. 7, 1992, 106 Stat. 1024, 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Prior Provisions
 
 A prior section 1652, Pub. L. 97–300, title III, §302, Oct. 13, 1982, 96 Stat. 1365; Pub. L. 99–496, §11, Oct. 16, 1986, 100 Stat. 1264, related to identification of dislocated workers, prior to the general revision of this subchapter by Pub. L. 100–418.
@@ -80,5 +84,5 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1653, 1661, 1661c, 1661f, 1662a, 1662b, 1662c of this title.
+This section is referred to in sections 1653, 1661, 1661c, 1661f, 1662a, 1662b, 1662c, 2862 of this title.
 

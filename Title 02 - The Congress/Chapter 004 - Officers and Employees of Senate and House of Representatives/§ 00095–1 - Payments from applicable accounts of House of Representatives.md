@@ -22,3 +22,7 @@ Section is comprised of section 105 of Pub. L. 104–186. Subsec. (c) of section
 
 Provisions similar to those in this section were contained in section 95 of this title prior to amendment by Pub. L. 104–186, §105(c).
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

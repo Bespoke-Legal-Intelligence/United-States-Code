@@ -90,7 +90,7 @@
 
 (h)(1) The Director shall, out of funds appropriated for the operation and maintenance of the courts, provide facilities and pay necessary expenses incurred by the judicial councils of the circuits and the Judicial Conference under section 372 of this title, including mileage allowance and witness fees, at the same rate as provided in section 1821 of this title. Administrative and professional assistance from the Administrative Office of the United States Courts may be requested by each judicial council and the Judicial Conference for purposes of discharging their duties under section 372 of this title.
 
-(2) The Director of the Administrative Office of the United States Courts shall include in his annual report filed with the Congress under this section a summary of the number of complaints filed with each judicial council under section 372(c) of this title, indicating the general nature of such complaints and the disposition of those complaints in which action has been taken.
+(2) The Director of the Administrative Office of the United States Courts shall include in his annual report filed with the Congress under thissection a summary of the number of complaints filed with each judicial council under section 372(c) of this title, indicating the general nature of such complaints and the disposition of those complaints in which action has been taken.
 
 (June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, §3, 70 Stat. 1026; Pub. L. 90–219, title II, §203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, §201, Oct. 17, 1968, 82 Stat. 1114; Pub. L. 92–397, §4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, §204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, §225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, §5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, §5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, §1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, §7, Sept. 27, 1982, 96 Stat. 1139; Pub. L. 99–554, title I, §116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, §2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, §6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, §402(a), title X, §§1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, §5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, §2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§306(e)(1), 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5121; Pub. L. 102–572, title V, §503, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516.)
 
@@ -118,7 +118,7 @@ Two references to “officials and employees covered by this chapter” were cha
 
 Similar language was used in paragraph (b) instead of “The clerks of the district courts, their deputies and assistants, and all other employees of said courts.”
 
-The provisions of section 374b of title 28, U.S.C., 1940 ed., based on successive acts relating to classification and compensation of secretaries and law clerks were omitted as temporary and unnecessary in revision, inview of subsection (a)(5) of this section under which the salaries of all personnel are necessarily limited by current appropriation acts.
+The provisions of section 374b of title 28, U.S.C., 1940 ed., based on successive acts relating to classification and compensation of secretaries and law clerks were omitted as temporary and unnecessary in revision, in view of subsection (a)(5) of this section under which the salaries of all personnel are necessarily limited by current appropriation acts.
 
 For increases in basic rates of compensation for other judicial officers and employees see, also, section 521 of Act June 30, 1945, ch. 212.
 
@@ -142,11 +142,11 @@ Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(7), (23). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a)(7), (23). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (g)(3). Pub. L. 102–572, §503, added par. (3).
 
-<b>1990</b>—Subsec. (a)(7). Pub. L. 101–650, §325(c)(1), amended Pub. L. 100–702, §1011. See 1988 Amendment note below.
+1990—Subsec. (a)(7). Pub. L. 101–650, §325(c)(1), amended Pub. L. 100–702, §1011. See 1988 Amendment note below.
 
 Pub. L. 101–650, §306(e)(1)(B)(i), inserted “judges of the United States Claims Court,” before “bankruptcy judges”.
 
@@ -160,7 +160,7 @@ Subsec. (a)(24). Pub. L. 101–650, §306(e)(1)(B)(ii), redesignated par. (23), 
 
 Pub. L. 101–647 added par. (24) relating to statistical tables.
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–702, §1020(a)(2), substituted “semiannually” for “quarterly”.
+1988—Subsec. (a)(2). Pub. L. 100–702, §1020(a)(2), substituted “semiannually” for “quarterly”.
 
 Subsec. (a)(7). Pub. L. 100–702, §1011, as amended by Pub. L. 101–650, §325(c)(1), which directed amendment of par. (7) “by \[sic\] at the end the following: ‘without regard to the per diem allowances and amounts for reimbursement of actual and necessary expenses established by the Administrator of General Services under section 5702 of title 5, except that the reimbursement of subsistence expenses may not exceed that authorized by the Director for judges of the United States under section 456 of this title;’ ” was executed by inserting the new language after the comma at the end to reflect the probable intent of Congress.
 
@@ -188,11 +188,11 @@ Subsec. (a)(22). Pub. L. 100–702, §1010, added par. (22).
 
 Subsec. (a)(23). Pub. L. 100–702, §402(a)(1), as amended by Pub. L. 101–474, §5(r), and Pub. L. 101–650, §306(e)(1)(A), redesignated par. (19), relating to performance of other duties, as (23).
 
-<b>1987</b>—Subsec. (a)(17), (18). Pub. L. 100–185 added par. (17) and redesignated former par. (17) as (18).
+1987—Subsec. (a)(17), (18). Pub. L. 100–185 added par. (17) and redesignated former par. (17) as (18).
 
-<b>1986</b>—Subsec. (f). Pub. L. 99–554 struck out subsec. (f) as added by Pub. L. 99–598, §225(b), which related to the Director naming qualified persons to membership on the panel of trustees, their number, qualifications, removal, etc.
+1986—Subsec. (f). Pub. L. 99–554 struck out subsec. (f) as added by Pub. L. 99–598, §225(b), which related to the Director naming qualified persons to membership on the panel of trustees, their number, qualifications, removal, etc.
 
-<b>1982</b>—Subsec. (a)(9). Pub. L. 97–267, §7(1), struck out “agencies” after “pretrial services”.
+1982—Subsec. (a)(9). Pub. L. 97–267, §7(1), struck out “agencies” after “pretrial services”.
 
 Subsec. (a)(10). Pub. L. 97–267, §7(2), substituted “providing pretrial services” for “for pretrial services agencies”.
 
@@ -200,15 +200,15 @@ Subsec. (a)(11). Pub. L. 97–267, §7(3), substituted “offices providing pret
 
 Subsec. (a)(12). Pub. L. 97–267, §7(4), substituted “offices providing pretrial services” for “pretrial services agencies”.
 
-<b>1980</b>—Subsec. (a)(16)(A). Pub. L. 96–523 inserted “(b)” after “3102”.
+1980—Subsec. (a)(16)(A). Pub. L. 96–523 inserted “(b)” after “3102”.
 
 Subsec. (h). Pub. L. 96–458 added subsec. (h).
 
-<b>1979</b>—Subsec. (d)(3). Pub. L. 96–82 added cls. (A), (B), and (C).
+1979—Subsec. (d)(3). Pub. L. 96–82 added cls. (A), (B), and (C).
 
-<b>1978</b>—Subsec. (a)(10). Pub. L. 95–539, §3(a), expanded the duties of the Director to include providing or making available equipment for interpretation of proceedings in accordance with section 1828 of this title and to include entering into and performing contracts necessary to the conduct of the work of the judicial branch and exempted from the provisions of section 5 of title 41 contracts for nonpersonal services for pretrial agencies, for interpretation of proceedings, and for special interpretation services pursuant to section 1828 of this title.
+1978—Subsec. (a)(10). Pub. L. 95–539, §3(a), expanded the duties of the Director to include providing or making available equipment for interpretation of proceedings in accordance with section 1828 of this title and to include entering into and performing contracts necessary to the conduct of the work of the judicial branch and exempted from the provisions of section 5 of title 41 contracts for nonpersonal services for pretrial agencies, for interpretation of proceedings, and for special interpretation services pursuant to section 1828 of this title.
 
-Subsec. (a)(13), (14). Pub. L. 95–598, §225(a), added par. (13) relating to annual statistical tables reflecting thebusiness of the several bankruptcy courts, and redesignated former par. (13), relating to provision of special interpretation services in courts of the United States, as (14).
+Subsec. (a)(13), (14). Pub. L. 95–598, §225(a), added par. (13) relating to annual statistical tables reflecting the business of the several bankruptcy courts, and redesignated former par. (13), relating to provision of special interpretation services in courts of the United States, as (14).
 
 Subsec. (a)(13) to (16). Pub. L. 95–539, §3(b), (c), added pars. (13) to (16). Former par. (13) redesignated (17).
 
@@ -218,7 +218,7 @@ Subsec. (f). Pub. L. 95–598, §225(b), added subsec. (f) relating to the namin
 
 Subsecs. (f), (g). Pub. L. 95–539, §4, added subsecs. (f) and (g).
 
-<b>1975</b>—Subsec. (a)(9). Pub. L. 93–619 added par. (9). Former par. (9) redesignated (10).
+1975—Subsec. (a)(9). Pub. L. 93–619 added par. (9). Former par. (9) redesignated (10).
 
 Subsec. (a)(10). Pub. L. 93–619 redesignated former par. (9) as (10) and substituted “the offices of the United States magistrates and commissioners, and the offices of pretrial services agencies” for and the Administrative Office and the offices of the United States magistrates”. Former par. (10) redesignated (11).
 
@@ -228,19 +228,19 @@ Subsec. (a)(12). Pub. L. 93–619 redesignated former par. (11) as (12) and inse
 
 Subsec. (a)(13). Pub. L. 93–619 redesignated former (12) as (13).
 
-<b>1972</b>—Subsec. (a)(7). Pub. L. 92–397 substituted “children of justices and judges of the United States” for “children of judges”.
+1972—Subsec. (a)(7). Pub. L. 92–397 substituted “children of justices and judges of the United States” for “children of judges”.
 
-<b>1968</b>—Subsec. (a)(9). Pub. L. 90–578, §201(a), substituted “United States magistrates” for “United States Commissioners”.
+1968—Subsec. (a)(9). Pub. L. 90–578, §201(a), substituted “United States magistrates” for “United States Commissioners”.
 
 Subsecs. (d), (e). Pub. L. 90–578 §201(b), added subsecs. (d) and (e).
 
-<b>1967</b>—Subsec. (a)(7). Pub. L. 90–219, §203(a), amended par. (7) generally, inserting “, Directors of the Federal Judicial Center, and Directors of the Administrative Office,” after “judges” and “and the Federal Judicial Center,” after “Administrative Office”.
+1967—Subsec. (a)(7). Pub. L. 90–219, §203(a), amended par. (7) generally, inserting “, Directors of the Federal Judicial Center, and Directors of the Administrative Office,” after “judges” and “and the Federal Judicial Center,” after “Administrative Office”.
 
 Subsec. (a)(9). Pub. L. 90–219, §203(b), inserted “, the Federal Judicial Center,” after “courts”.
 
 Subsec. (a)(10), (11). Pub. L. 90–219, §203(c), inserted “, the Federal Judicial Center,” after “courts”.
 
-<b>1956</b>—Subsec. (a)(7). Act Aug. 3, 1956, inserted “annuities to widows and surviving dependent children of judges and” after “Regulate and pay”.
+1956—Subsec. (a)(7). Act Aug. 3, 1956, inserted “annuities to widows and surviving dependent children of judges and” after “Regulate and pay”.
 
 #### Change of Name
 
@@ -370,31 +370,31 @@ Sept. 6, 1950, ch. 896, Ch. III, title IV, 64 Stat. 631.
 
 #### Limitation on Aggregate Salaries of Secretaries and Law Clerks
 
-<b>1967</b>—Pub. L. 90–206, title II, §213(b), Dec. 16, 1967, 81 Stat. 635, provided that: “The limitations provided by applicable law on the effective date of this section \[see Effective Date of 1967 Amendment Note set out under section 5332 of Title 5, Government Organization and Employees\] with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 202(a) of this title \[amending section 5332(a) of Title 5\] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code”.
+1967—Pub. L. 90–206, title II, §213(b), Dec. 16, 1967, 81 Stat. 635, provided that: “The limitations provided by applicable law on the effective date of this section \[see Effective Date of 1967 Amendment Note set out under section 5332 of Title 5, Government Organization and Employees\] with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 202(a) of this title \[amending section 5332(a) of Title 5\] in corresponding rates of compensation for officers and employees subject to section 5332 of Title 5, United States Code”.
 
 Section 213(b) of Pub. L. 90–206 effective as of the beginning of the first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5.
 
-<b>1966</b>—Pub. L. 89–504, title II, §202(b), July 18, 1966, 80 Stat. 294, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 102(a) of title I of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
+1966—Pub. L. 89–504, title II, §202(b), July 18, 1966, 80 Stat. 294, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 102(a) of title I of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
 
 Provision effective first day of first pay period which begins on or after July 1, 1966, see section 203 of Pub. L. 89–504, set out as a note under section 603 of this title.
 
-<b>1965</b>—Pub. L. 89–301, §12(b), Oct. 29, 1965, 79 Stat. 1122, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
+1965—Pub. L. 89–301, §12(b), Oct. 29, 1965, 79 Stat. 1122, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
 
-<b>1964</b>—Pub. L. 88–426, title IV, §402(b), Aug. 14, 1964, 78 Stat. 433, provided that: “The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
+1964—Pub. L. 88–426, title IV, §402(b), Aug. 14, 1964, 78 Stat. 433, provided that: “The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
 
-<b>1962</b>—Pub. L. 87–793, title VI, §1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
+1962—Pub. L. 87–793, title VI, §1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].”
 
-<b>1960</b>—Pub. L. 86–568, title I, §116(b), July 1, 1960, 74 Stat. 303, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by the amounts necessary to pay the additional basic compensation provided by this part.”
+1960—Pub. L. 86–568, title I, §116(b), July 1, 1960, 74 Stat. 303, provided that: “The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by the amounts necessary to pay the additional basic compensation provided by this part.”
 
 Words “this part”, referred to above, means Part B of Pub. L. 86–568, which enacted section 932e of former Title 5, Executive Departments and Government Officers and Employees, amended section 753 of this title, sections 1113, 2091, 2252 and 3002 of former Title 5, sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and former sections 4103, 4107 and 4108 of Title 38, Veterans’ Benefits, and enacted notes set out under sections 603 and 604 of this title, sections 60a and 60f of Title 2, The Congress, sections 1113, and 2252 of former Title 5, section 590h of Title 16, Conservation, and section 867 of Title 22,
 
-<b>1958</b>—Pub. L. 85–462, §3(b), June 20, 1958, 72 Stat. 207, provided that: “The limitations of $13,485 and $18,010 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph designated “Salaries of supporting personnel” in the Judiciary Appropriation Act, 1958 (71 Stat. 65; Public Law 85–49), or any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
+1958—Pub. L. 85–462, §3(b), June 20, 1958, 72 Stat. 207, provided that: “The limitations of $13,485 and $18,010 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph designated “Salaries of supporting personnel” in the Judiciary Appropriation Act, 1958 (71 Stat. 65; Public Law 85–49), or any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
-<b>1955</b>—Act June 28, 1955, ch. 189, §3(b), 69 Stat. 175, provided that: “The limitations of $10,560 and $14,355 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading ‘
+1955—Act June 28, 1955, ch. 189, §3(b), 69 Stat. 175, provided that: “The limitations of $10,560 and $14,355 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading ‘
 
 salaries of supporting personnel’ in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
-<b>1951</b>—Act Oct. 24, 1951, ch. 554, §1(d), 65 Stat. 613, provided that: “The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the sixteenth paragraph under the head ‘Miscellaneous salaries’ in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by theamounts necessary to pay the additional basic compensation provided by this Act.”
+1951—Act Oct. 24, 1951, ch. 554, §1(d), 65 Stat. 613, provided that: “The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the sixteenth paragraph under the head ‘Miscellaneous salaries’ in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
 The particular paragraph of the “Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress)”, referred to above, is act Sept. 6, 1950, ch. 896, ch. III, title IV, §401 (part), 64 Stat. 631. The salary limitations therein, also referred to above, were identical with those in the Judiciary Appropriation Act, 1952 (act Oct. 22, 1951, ch. 533, title IV, §401 (part), 65 Stat. 596).
 

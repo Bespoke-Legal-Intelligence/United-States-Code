@@ -1,6 +1,6 @@
 ### §1310. Commerce Department: navigation and weather information
 
-The Secretary of Commerce may cause to be printed the number of copies of tide tables,coast pilots, and other special publications relating to the Coast and Geodetic Survey, Weather Bureau maps, charts, bulletins of not more than one hundred octavo pages, and minor reports of the Weather Bureau, he considers for the best interest of the Government.
+The Secretary of Commerce may cause to be printed the number of copies of tide tables, coast pilots, and other special publications relating to the Coast and Geodetic Survey, Weather Bureau maps, charts, bulletins of not more than one hundred octavo pages, and minor reports of the Weather Bureau, he considers for the best interest of the Government.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1267.)
 

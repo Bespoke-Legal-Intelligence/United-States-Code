@@ -8,7 +8,7 @@ The provisions of sections 2002, 2031(b)(1)–(3), 2031(f), 2031(g), 2031(h)(2),
 
 The Director of the Office of Personnel Management, in consultation with the Director of Central Intelligence, shall prescribe such regulations as may be necessary to implement the provisions of this section.
 
-(June 20, 1949, ch. 227, §14, as added Pub. L. 97–269, title VI, §612, Sept. 27, 1982, 96 Stat. 1154;amended Pub. L. 99–569, title III, §302(b), Oct. 27, 1986, 100 Stat. 3194; Pub. L. 100–178, title IV, §§401(b), 402(b)(3), Dec. 2, 1987, 101 Stat. 1013, 1014; Pub. L. 102–496, title VIII, §803(a)(1), Oct. 24, 1992, 106 Stat. 3251.)
+(June 20, 1949, ch. 227, §14, as added Pub. L. 97–269, title VI, §612, Sept. 27, 1982, 96 Stat. 1154; amended Pub. L. 99–569, title III, §302(b), Oct. 27, 1986, 100 Stat. 3194; Pub. L. 100–178, title IV, §§401(b), 402(b)(3), Dec. 2, 1987, 101 Stat. 1013, 1014; Pub. L. 102–496, title VIII, §803(a)(1), Oct. 24, 1992, 106 Stat. 3251.)
 
 #### Codification
 
@@ -16,7 +16,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204, 221 to 225, 232, 234 and 263 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under section 403 of this title.
+1992—Subsec. (a). Pub. L. 102–496 substituted references to sections 2002, 2031 to 2035, 2052, 2071, and 2094 of this title for references in original to sections 204, 221 to 225, 232, 234 and 263 of the Central IntelligenceAgency Retirement Act of 1964 for Certain Employees which were formerly set out in a note under section 403 of this title.
 
 1987—Subsec. (a). Pub. L. 100–178, §402(b)(3), inserted “232(b),” before “234(c), 234(d),”.
 

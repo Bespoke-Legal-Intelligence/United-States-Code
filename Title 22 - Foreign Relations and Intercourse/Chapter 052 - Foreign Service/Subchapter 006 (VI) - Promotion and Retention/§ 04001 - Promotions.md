@@ -2,7 +2,7 @@
 
 #### (a) Method of promotion
 
-Career members of the Senior Foreign Service are promoted by appointment under section 3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
+Career members of the Senior Foreign Service are promoted by appointment under section3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
 
 #### (b) Recommendations and rankings of selection boards
 
@@ -50,15 +50,15 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 #### Reports Eliminated
 
-Pub. L. 104–66, title II, §2241, Dec. 21, 1995, 109 Stat. 733, provided that: “Notwithstanding section 601(c)(4) of the Foreign Service Act of 1980 (22 U.S.C. 4001(c)(4)), the reports otherwise required under such section shall not cover the activities of the United States Information Agency.”
+Pub. L. 104–66, title II, §2241, Dec. 21, 1995, 109 Stat. 733, which provided that reports required under section 4001(c)(4) of this title would not cover activities of the United States Information Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(5), Oct. 21, 1998, 112 Stat. 2681–790.
 
 #### Language Training in Foreign Service
 
-Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, provided that: “The Department of State, the Department of Commerce, and the United States Information Agency shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
+Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(q), Oct. 21, 1998, 112 Stat. 2681–789, provided that: “The Department of State and the Department of Commerce shall ensure that the precepts for promotion of Foreign Service employees provide that end-of-training reports for employees in full-time language training shall be weighed as heavily as the annual employee efficiency reports, in order to ensure that employees in language training are not disadvantaged in the promotion process.”
 
 #### Foreign Service Promotion Panels
 
-Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, provided that: “It is the sense of the Congress that, tothe greatest extent possible, Foreign Service promotion panels should—
+Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, provided that: “It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
 
 &emsp;“(1) only promote candidates to the Senior Foreign Service who have demonstrated foreign language proficiency in at least one language at the General Professional Speaking Proficiency level, as defined by the Foreign Service Institute;
 

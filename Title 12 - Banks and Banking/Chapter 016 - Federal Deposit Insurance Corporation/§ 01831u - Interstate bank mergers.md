@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997, if the home State of each bank involved in the transaction has in effect, as of the date of the approval of such transaction, a law that—
+&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997,if the home State of each bank involved in the transaction has in effect, as of the date of the approval of such transaction, a law that—
 
 &emsp;&emsp;&emsp;(i) applies equally to all out-of-State banks; and
 
@@ -100,11 +100,11 @@
 
 #### (C) Effectiveness of State deposit caps
 
-&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, or order, the percentage of the total amount of deposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
+&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, ororder, the percentage of the total amount of deposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
 
 #### (D) Exceptions to subparagraph (B)
 
-&emsp;&emsp;The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section without regard to the applicability ofsubparagraph (B) with respect to any State if—
+&emsp;&emsp;The responsible agency may approve an application for an interstate merger transaction pursuant to subsection (a) of this section without regard to the applicability of subparagraph (B) with respect to any State if—
 
 &emsp;&emsp;&emsp;(i) there is a limitation described in subparagraph (C) in a State statute, regulation, or order which has the effect of permitting a bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to control a greater percentage of total deposits of all insured depository institutions in the State than the percentage permitted under subparagraph (B); or
 
@@ -176,11 +176,11 @@
 
 #### (1) Continued operations
 
-&emsp;A resulting bank may, subject to the approval of the appropriate Federal banking agency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
+&emsp;A resulting bank may, subject to the approval of the appropriate Federal bankingagency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
 
 #### (2) Additional branches
 
-&emsp;Following the consummation of any interstate merger transaction, the resulting bank may establish, acquire, or operate additional branches at any location where any bank involved in the transaction could have established, acquired, or operated a branch underapplicable Federal or State law if such bank had not been a party to the merger transaction.
+&emsp;Following the consummation of any interstate merger transaction, the resulting bank may establish, acquire, or operate additional branches at any location where any bank involved in the transaction could have established, acquired, or operated a branch under applicable Federal or State law if such bank had not been a party to the merger transaction.
 
 #### (3) Certain conditions and commitments continued
 

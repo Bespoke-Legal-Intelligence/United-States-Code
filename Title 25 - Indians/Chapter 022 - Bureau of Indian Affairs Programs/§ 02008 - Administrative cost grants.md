@@ -62,7 +62,7 @@
 
 &emsp;(B) operates 1 or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\],
 
-> the Secretary shall ensure that the Indian tribe or tribal organization is provided with the full amount of the administrative costs, and of the indirect costs, that are associated with operating the contract or grant school, a school operated under the Tribally Controlled Schools Act of 1988, and all of such other programs, except that funds appropriated for implementation of this section shall be used only to supply the amount of the grant required to be provided by this section.
+> the Secretary shall ensure that the Indian tribe or tribal organization is provided with the fullamount of the administrative costs, and of the indirect costs, that are associated with operating the contract or grant school, a school operated under the Tribally Controlled Schools Act of 1988, and all of such other programs, except that funds appropriated for implementation of this section shall be used only to supply the amount of the grant required to be provided by this section.
 
 #### (e) Definitions
 
@@ -126,7 +126,7 @@ For purposes of this section:
 
 (1) Upon April 28, 1988, the Secretary shall—
 
-&emsp;(A) conduct such studies as may be needed to establish an empirical basis for determiningrelevant factors substantially affecting the required administrative costs of tribal elementary and secondary educational programs, using the formula set forth in subsection (c) of this section, and
+&emsp;(A) conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting the required administrative costs of tribal elementary and secondary educational programs, using the formula set forth in subsection (c) of this section, and
 
 &emsp;(B) conduct a study to determine—
 
@@ -246,5 +246,5 @@ Section 2008a, Pub. L. 95–561, title XI, §1128A, as added Pub. L. 100–297, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 458cc, 2019, 2503, 2504, 2511 of this title; title 20 section 1484.
+This section is referred to in sections 458cc, 2503, 2504, 2511 of this title.
 

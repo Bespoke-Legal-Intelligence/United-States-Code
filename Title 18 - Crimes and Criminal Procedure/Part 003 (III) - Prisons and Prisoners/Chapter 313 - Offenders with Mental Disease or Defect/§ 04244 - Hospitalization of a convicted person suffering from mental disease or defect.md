@@ -14,13 +14,13 @@ Hearing.—The hearing shall be conducted pursuant to the provisions of section 
 
 (d)
 
-Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect and that he should, in lieu of being sentenced to imprisonment, be committed to a suitable facility for care or treatment, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for care or treatment in a suitable facility. Such a commitment constitutes a provisional sentence of imprisonment to the maximum term authorized by law for the offense for which the defendant was found guilty.
+Determination and Disposition.—If, after the hearing, the court finds by a preponderanceof the evidence that the defendant is presently suffering from a mental disease or defect and that he should, in lieu of being sentenced to imprisonment, be committed to a suitable facility for care or treatment, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for care or treatment in a suitable facility. Such a commitment constitutes a provisional sentence of imprisonment to the maximum term authorized by law for the offense for which the defendant was found guilty.
 
 (e)
 
 Discharge.—When the director of the facility in which the defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant's counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the provisional sentence imposed pursuant to subsection (d) has not expired, the court shall proceed finally to sentencing and may modify the provisional sentence.
 
-(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 686; amended Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2061.)
+(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 686; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2061.)
 
 #### Amendments
 

@@ -28,7 +28,7 @@
 
 &emsp;(11) The construction, outfitting, and repair of military equipment.
 
-&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities and the acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
+&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities andthe acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
 
 (c) Subject to the authority, direction, and control of the Secretary of Defense, the Secretary of the Navy is also responsible to the Secretary of Defense for—
 
@@ -116,7 +116,7 @@ Report.—Not later than 90 days after the termination of the pilot program, the
 
 “(g)
 
-Limitation on Funding Source.—Any funds required for the pilot program for a fiscal year shall be derived only from the appropriation ‘Operation and Maintenance, Navy’ for that fiscal year.”
+Limitation on Funding Source.—Any funds required for the pilot program for a fiscal year shall bederived only from the appropriation ‘Operation and Maintenance, Navy’ for that fiscal year.”
 
 #### Use of Naval Installations for Employment Training of Nonviolent Offenders in State Penal Systems
 
@@ -154,13 +154,13 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 “(f)
 
-Report.—Not later than two years after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall submit to Congress a report evaluating thesuccess of the demonstration project and containing such recommendations with regard to the termination, continuation, or expansion of the demonstration project as the Secretary considers to be appropriate.”
+Report.—Not later than two years after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall submit to Congress a report evaluating the success of the demonstration project and containing such recommendations with regard to the termination, continuation, or expansion of the demonstration project as the Secretary considers to be appropriate.”
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3347 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3345 of Title 5.
 
 #### Cross References
 

@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;(4) The term “person” includes an individual, partnership, corporation, or joint-stock company,
 
-(Feb. 22, 1935, ch. 18, §2, 49 Stat. 30; Oct. 13, 1966, Pub. L. 89–644, 80 Stat. 890.)
+(Feb. 22, 1935, ch. 18, §2, 49 Stat. 30; Pub. L. 89–644, Oct. 13, 1966, 80 Stat. 890.)
 
 #### Amendments
 

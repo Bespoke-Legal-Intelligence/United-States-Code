@@ -46,7 +46,7 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 (4) As used in this subsection, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include any rate which takes effect subject to refund and subject to a later determination of the appropriate amount of such rate.
 
-(June 10, 1920, ch. 285, pt. II, §205, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 851; amended Nov. 9, 1978, Pub. L. 95–617, title II, §§207(a), 208, 92 Stat. 3142.)
+(June 10, 1920, ch. 285, pt. II, §205, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 851; amended Pub. L. 95–617, title II, §§207(a), 208, Nov. 9, 1978, 92 Stat. 3142.)
 
 #### Amendments
 

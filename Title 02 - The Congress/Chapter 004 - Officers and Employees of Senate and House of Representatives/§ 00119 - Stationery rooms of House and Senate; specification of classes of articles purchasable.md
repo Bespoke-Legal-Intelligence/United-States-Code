@@ -12,6 +12,8 @@ The Committee on House Oversight of the House of Representatives and the Committ
 
 #### Change of Name
 
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 Stationery room of House of Representatives redesignated Office Supply Service.
 
 #### Effective Date of 1946 Amendment

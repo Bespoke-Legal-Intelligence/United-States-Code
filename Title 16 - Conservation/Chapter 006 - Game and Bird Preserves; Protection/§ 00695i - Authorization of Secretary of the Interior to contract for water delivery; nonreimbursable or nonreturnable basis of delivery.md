@@ -18,7 +18,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 &emsp;in accordance with existing or future contracts, the use of lands located within the boundaries of the public organizations or agencies shall be restricted by covenants requiring that such lands be used only for the purpose of waterfowl and wildlife habitat conservation or other uses as may be mutually agreed upon by the public organizations or agencies and the Service.
 
-(Aug. 27, 1954, ch. 1012, §6, 68 Stat. 879; Nov. 8, 1978, Pub. L. 95–616, §10(a), 92 Stat. 3115.)
+(Aug. 27, 1954, ch. 1012, §6, 68 Stat. 879; Pub. L. 95–616, §10(a), Nov. 8, 1978, 92 Stat. 3115.)
 
 #### References in Text
 

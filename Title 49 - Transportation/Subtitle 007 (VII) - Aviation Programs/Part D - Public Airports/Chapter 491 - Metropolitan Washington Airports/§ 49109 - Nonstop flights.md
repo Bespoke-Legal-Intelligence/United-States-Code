@@ -1,8 +1,8 @@
 ### §49109. Nonstop flights
 
-An air carrier may not operate an aircraft nonstop in air transportation between Washington National Airport and another airport that is more than 1,250 statute miles away from Washington National Airport.
+An air carrier may not operate an aircraft nonstop in air transportation between Ronald Reagan Washington National Airport and another airport that is more than 1,250 statute miles away from Ronald Reagan Washington National Airport.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3.)
 
 Historical and Revision Notes
 
@@ -25,4 +25,8 @@ Oct. 18, 1986, Pub. L. 99–500, title VI, §6012, 100 Stat. 1783–385.
 &nbsp;
 
 Oct. 30, 1986, Pub. L. 99–591, title VI, §6012, 100 Stat. 3341–388.
+
+#### Amendments
+
+1998—Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” in two places.
 

@@ -10,24 +10,6 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The “Berne Convention” is the Convention for the Protection of Literary and Artistic Works, signed at Berne, Switzerland, on September 9, 1886, and all acts, protocols, and revisions thereto.
 
-&emsp;A work is a “Berne Convention work” if—
-
-&emsp;&emsp;(1) in the case of an unpublished work, one or more of the authors is a national of a nation adhering to the Berne Convention, or in the case of a published work, one or more of the authors is a national of a nation adhering to the Berne Convention on the date of first publication;
-
-&emsp;&emsp;(2) the work was first published in a nation adhering to the Berne Convention, or was simultaneously first published in a nation adhering to the Berne Convention and in a foreign nation that does not adhere to the Berne Convention;
-
-&emsp;&emsp;(3) in the case of an audiovisual work—
-
-&emsp;&emsp;&emsp;(A) if one or more of the authors is a legal entity, that author has its headquarters in a nation adhering to the Berne Convention; or
-
-&emsp;&emsp;&emsp;(B) if one or more of the authors is an individual, that author is domiciled, or has his or her habitual residence in, a nation adhering to the Berne Convention;
-
-&emsp;&emsp;(4) in the case of a pictorial, graphic, or sculptural work that is incorporated in a building or other structure, the building or structure is located in a nation adhering to the Berne Convention; or
-
-&emsp;&emsp;(5) in the case of an architectural work embodied in a building, such building is erected in a country adhering to the Berne Convention.
-
-> &emsp;For purposes of paragraph (1), an author who is domiciled in or has his or her habitual residence in, a nation adhering to the Berne Convention is considered to be a national of that nation. For purposes of paragraph (2), a work is considered to have been simultaneously published in two or more nations if its dates of publication are within 30 days of one another.
-
 &emsp;The “best edition” of a work is the edition, published in the United States at any time before the date of deposit, that the Library of Congress determines to be most suitable for its purposes.
 
 &emsp;A person's “children” are that person's immediate offspring, whether legitimate or not, and any children legally adopted by that person.
@@ -40,23 +22,21 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Copyright owner”, with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right.
 
-&emsp;The “country of origin” of a Berne Convention work, for purposes of section 411, is the United States if—
+&emsp;For purposes of section 411, a work is a “United States work” only if—
 
 &emsp;&emsp;(1) in the case of a published work, the work is first published—
 
 &emsp;&emsp;&emsp;(A) in the United States;
 
-&emsp;&emsp;&emsp;(B) simultaneously in the United States and another nation or nations adhering to the Berne Convention, whose law grants a term of copyright protection that is the same as or longer than the term provided in the United States;
+&emsp;&emsp;&emsp;(B) simultaneously in the United States and another treaty party or parties, whose law grants a term of copyright protection that is the same as or longer than the term provided in the United States;
 
-&emsp;&emsp;&emsp;(C) simultaneously in the United States and a foreign nation that does not adhere to the Berne Convention; or
+&emsp;&emsp;&emsp;(C) simultaneously in the United States and a foreign nation that is not a treaty party; or
 
-&emsp;&emsp;&emsp;(D) in a foreign nation that does not adhere to the Berne Convention, and all of the authors of the work are nationals, domiciliaries, or habitual residents of, or in the case of an audiovisual work legal entities with headquarters in, the United States;
+&emsp;&emsp;&emsp;(D) in a foreign nation that is not a treaty party, and all of the authors of the work are nationals, domiciliaries, or habitual residents of, or in the case of an audiovisual work legal entities with headquarters in, the United States;
 
 &emsp;&emsp;(2) in the case of an unpublished work, all the authors of the work are nationals, domiciliaries, or habitual residents of the United States, or, in the case of an unpublished audiovisual work, all the authors are legal entities with headquarters in the United States; or
 
 &emsp;&emsp;(3) in the case of a pictorial, graphic, or sculptural work incorporated in a building or structure, the building or structure is located in the United States.
-
-> &emsp;For the purposes of section 411, the “country of origin” of any other Berne Convention work is not the United States.
 
 &emsp;A work is “created” when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
 
@@ -68,11 +48,35 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;To “display” a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially.
 
+&emsp;An “establishment” is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
+
+&emsp;A “food service or drinking establishment” is a restaurant, inn, bar, tavern, or any other similar place of business in which the public or patrons assemble for the primary purpose of being served food or drink, in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
+
 &emsp;The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
 
 &emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
 
+&emsp;The “Geneva Phonograms Convention” is the Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms, concluded at Geneva, Switzerland, on October 29, 1971.
+
+&emsp;The “gross square feet of space” of an establishment means the entire interior space of that establishment, and any adjoining outdoor space used to serve patrons, whether on a seasonal basis or otherwise.
+
 &emsp;The terms “including” and “such as” are illustrative and not limitative.
+
+&emsp;An “international agreement” is—
+
+&emsp;&emsp;(1) the Universal Copyright Convention;
+
+&emsp;&emsp;(2) the Geneva Phonograms Convention;
+
+&emsp;&emsp;(3) the Berne Convention;
+
+&emsp;&emsp;(4) the WTO Agreement;
+
+&emsp;&emsp;(5) the WIPO Copyright Treaty;
+
+&emsp;&emsp;(6) the WIPO Performances and Phonograms Treaty; and
+
+&emsp;&emsp;(7) any other copyright treaty to which the United States is a party.
 
 &emsp;A “joint work” is a work prepared by two or more authors with the intention that their contributions be merged into inseparable or interdependent parts of a unitary whole.
 
@@ -82,13 +86,17 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;To “perform” a work means to recite, render, play, dance, or act it, either directly or by means of any device or process or, in the case of a motion picture or other audiovisual work, to show its images in any sequence or to make the sounds accompanying it audible.
 
+&emsp;A “performing rights society” is an association, corporation, or other entity that licenses the public performance of nondramatic musical works on behalf of copyright owners of such works, such as the American Society of Composers, Authors and Publishers (ASCAP), Broadcast Music, Inc. (BMI), and SESAC, Inc.
+
 &emsp;“Phonorecords” are material objects in which sounds, other than those accompanying a motion picture or other audiovisual work, are fixed by any method now known or later developed, and from which the sounds can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “phonorecords” includes the material object in which the sounds are first fixed.
 
 &emsp;“Pictorial, graphic, and sculptural works” include two-dimensional and three-dimensional works of fine, graphic, and applied art, photographs, prints and art reproductions, maps, globes, charts, diagrams, models, and technical drawings, including architectural plans. Such works shall include works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned; the design of a useful article, as defined in this section, shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article.
 
+&emsp;A “proprietor” is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunications company, or any other such audio or audiovisual service or programmer now known or as may be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor.
+
 &emsp;A “pseudonymous work” is a work on the copies or phonorecords of which the author is identified under a fictitious name.
 
-&emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
+&emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or displayof a work does not of itself constitute publication.
 
 &emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the original or the renewed and extended term of copyright.
 
@@ -96,7 +104,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) to perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
 
-&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it inthe same place or in separate places and at the same time or at different times.
+&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
 
 &emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
 
@@ -107,6 +115,8 @@ Except as otherwise provided in this title, as used in this title, the following
 &emsp;A “transmission program” is a body of material that, as an aggregate, has been produced for the sole purpose of transmission to the public in sequence and as a unit.
 
 &emsp;To “transmit” a performance or display is to communicate it by any device or process whereby images or sounds are received beyond the place from which they are sent.
+
+&emsp;A “treaty party” is a country or intergovernmental organization other than the United States that is a party to an international agreement.
 
 &emsp;The “United States”, when used in a geographical sense, comprises the several States, the District of Columbia and the Commonwealth of Puerto Rico, and the organized territories under the jurisdiction of the United States Government.
 
@@ -140,9 +150,21 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
 
+&emsp;The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
+
 &emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–304, title I, §§102(a)(6), 105(b)(1)(B), Oct. 28, 1998, 112 Stat. 2861, 2877, provided that, effective upon the entry into force of the WIPO Copyright Treaty with respect to the United States, this section is amended by inserting after the definition of “widow” the following:</i>
+
+The “WIPO Copyright Treaty” is the WIPO Copyright Treaty concluded at Geneva, Switzerland, on December 20, 1996.
+
+<i>Pub. L. 105–304, title I, §§102(a)(7), 105(b)(2)(B), Oct. 28, 1998, 112 Stat. 2862, 2877, provided that, effective upon the entry into force of the WIPO Performances and Phonograms Treaty with respect to the United States, this section is amended by inserting after the definition of “The ‘WIPO Copyright Treaty’ ” the following:</i>
+
+The “WIPO Performances and Phonograms Treaty” is the WIPO Performances and Phonograms Treaty concluded at Geneva, Switzerland, on December 20, 1996.
 
 #### Historical and Revision Notes
 
@@ -150,7 +172,29 @@ I74house report no. 94–1476
 
 The significant definitions in this section will be mentioned or summarized in connection with the provisions to which they are most relevant.
 
+#### References in Text
+
+The Universal Copyright Convention, referred to in definition of “international agreement”, is set out under section 104 of this title.
+
+Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “WTO Agreement” and “WTO member country”, is classified to section 3501 of Title 19, Customs Duties.
+
 #### Amendments
+
+1998—Pub. L. 105–304, §102(a)(1), struck out definition of “Berne Convention work”.
+
+Pub. L. 105–304, §102(a)(2), in definition of “country of origin”, substituted “For purposes of section 411, a work is a ‘United States work’ only if” for “The ‘country of origin’ of a Berne Convention work, for purposes of section 411, is the United States if” in introductory provisions, substituted “treaty party or parties” for “nation or nations adhering to the Berne Convention” in par. (1)(B) and “is not a treaty party” for “does not adhere to the Berne Convention” in par. (1)(C), (D), and struck out at end “For the purposes of section 411, the ‘country of origin’ of any other Berne Convention work is not the United States.”
+
+Pub. L. 105–298, §205(1), inserted definitions of “establishment” and “food service or drinking establishment”.
+
+Pub. L. 105–304, §102(a)(3), inserted definition of “Geneva Phonograms Convention”.
+
+Pub. L. 105–298, §205(2), inserted definition of “gross square feet of space”.
+
+Pub. L. 105–304, §102(a)(4), inserted definition of “international agreement”.
+
+Pub. L. 105–298, §205(3), (4), inserted definitions of “performing rights society” and “proprietor”.
+
+Pub. L. 105–304, §102(a)(5), (8), inserted definitions of “treaty party”, “WTO Agreement”, and “WTO member country”.
 
 1997—Pub. L. 105–147 inserted definition of “financial gain”.
 
@@ -176,17 +220,53 @@ Pub. L. 100–568, §4(a)(1)(A), in definition of “Pictorial, graphic, and scu
 
 1980—Pub. L. 96–517 inserted definition of “computer program”.
 
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–304, title I, §105, Oct. 28, 1998, 112 Stat. 2877, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this title \[see section 101 of Pub. L. 105–304, set out as a Short Title of 1998 Amendments note below\], this title and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].
+
+“(b)
+
+Amendments Relating to Certain International Agreements.—(1) The following shall take effect upon the entry into force of the WIPO Copyright Treaty with respect to the United States:
+
+&emsp;“(A) Paragraph (5) of the definition of ‘international agreement’ contained in section 101 of title 17, United States Code, as amended by section 102(a)(4) of this Act.
+
+&emsp;“(B) The amendment made by section 102(a)(6) of this Act \[amending this section\].
+
+&emsp;“(C) Subparagraph (C) of section 104A(h)(1) of title 17, United States Code, as amended by section 102(c)(1) of this Act.
+
+&emsp;“(D) Subparagraph (C) of section 104A(h)(3) of title 17, United States Code, as amended by section 102(c)(2) of this Act.
+
+“(2) The following shall take effect upon the entry into force of the WIPO Performances and Phonograms Treaty with respect to the United States:
+
+&emsp;“(A) Paragraph (6) of the definition of ‘international agreement’ contained in section 101 of title 17, United States Code, as amended by section 102(a)(4) of this Act.
+
+&emsp;“(B) The amendment made by section 102(a)(7) of this Act \[amending this section\].
+
+&emsp;“(C) The amendment made by section 102(b)(2) of this Act \[amending section 104 of this title\].
+
+&emsp;“(D) Subparagraph (D) of section 104A(h)(1) of title 17, United States Code, as amended by section 102(c)(1) of this Act.
+
+&emsp;“(E) Subparagraph (D) of section 104A(h)(3) of title 17, United States Code, as amended by section 102(c)(2) of this Act.
+
+&emsp;“(F) The amendments made by section 102(c)(3) of this Act \[amending section 104A of this title\].”
+
+Pub. L. 105–298, title II, §207, Oct. 27, 1998, 112 Stat. 2834, provided that: “This title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\] and the amendments made by this title shall take effect 90 days after the date of the enactment of this Act \[Oct. 27, 1998\].”
+
 #### Effective Date of 1995 Amendment
 
 Section 6 of Pub. L. 104–39 provided that: “This Act \[see Short Title of 1995 Amendment note below\] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act \[Nov. 1, 1995\], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act.”
 
 #### Effective Date of 1992 Amendment
 
-Section 102(g) of Pub. L. 102–307 provided that:
+Section 102(g) of Pub. L. 102–307, as amended by Pub. L. 105–298, title I, §102(d)(2)(B), Oct. 27, 1998, 112 Stat. 2828, provided that:
 
 “(1) Subject to paragraphs (2) and (3), this section \[amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as a note under section 304 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[June 26, 1992\].
 
-“(2) The amendments made by this section shall apply only to those copyrights secured between January 1, 1964, and December 31, 1977. Copyrights secured before January 1, 1964, shall be governed by the provisions of section 304(a) of title 17, United States Code, as in effect on the day before the effective date of this section \[June 26, 1992\].
+“(2) The amendments made by this section shall apply only to those copyrights secured between January 1, 1964, and December 31, 1977. Copyrights secured before January 1, 1964, shall be governed by the provisions of section 304(a) of title 17, United States Code, as in effect on the day before the effective date of this section \[June 26, 1992\], except each reference to forty-seven years in such provisions shall be deemed to be 67 years.
 
 “(3) This section and the amendments made by this section shall not affect any court proceedings pending on the effective date of this section.”
 
@@ -212,6 +292,22 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
+
+Pub. L. 105–304, title I, §101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title \[enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title\] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
+
+Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 of this title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
+
+Pub. L. 105–304, title III, §301, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title \[amending section 117 of this title\] may be cited as the ‘Computer Maintenance Competition Assurance Act’.”
+
+Pub. L. 105–304, title V, §501, Oct. 28, 1998, 112 Stat. 2905, provided that: “This Act \[probably means “this title”, enacting chapter 13 of this title and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\] may be referred to as the ‘Vessel Hull Design Protection Act’.”
+
+Pub. L. 105–298, title I, §101, Oct. 27, 1998, 112 Stat. 2827, provided that: “This title \[amending sections 108, 203, and 301 to 304 of this title, enacting provisions set out as a note under section 108 of this title, and amending provisions set out as notes under this section and section 304 of this title\] may be referred to as the ‘Sonny Bono Copyright Term Extension Act’.”
+
+Pub. L. 105–298, title II, §201, Oct. 27, 1998, 112 Stat. 2830, provided that: “This title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Fairness In Music Licensing Act of 1998’.”
+
 #### Short Title of 1995 Amendment
 
 Section 1 of Pub. L. 104–39 provided that: “This Act \[amending this section and sections 106, 111, 114, 115, 119, and 801 to 803 of this title and enacting provisions set out as a note above\] may be cited as the ‘Digital Performance Right in Sound Recordings Act of 1995’.”
@@ -226,7 +322,7 @@ Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
+Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress,amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
 
 Section 101 of title I of Pub. L. 102–307 provided that: “This title \[amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as notes under this section and section 304 of this title\] may be referred to as the ‘Copyright Renewal Act of 1992’.”
 
@@ -240,7 +336,7 @@ Section 801 of title VIII of Pub. L. 101–650 provided that: “This title \[am
 
 Pub. L. 101–553, §1, Nov. 15, 1990, 104 Stat. 2749, provided that: “This Act \[enacting section 511 of this title, amending sections 501, 910, and 911 of this title, and enacting provisions set out as a note under section 501 of this title\] may be cited as the ‘Copyright Remedy Clarification Act’.”
 
-Pub. L. 101–319, §1, July 3, 1990, 104 Stat. 290, provided that: “This Act \[amending sections 701 and 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 701 of this title\] may becited as the ‘Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989’.”
+Pub. L. 101–319, §1, July 3, 1990, 104 Stat. 290, provided that: “This Act \[amending sections 701 and 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 701 of this title\] may be cited as the ‘Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989’.”
 
 Pub. L. 101–318, §1, July 3, 1990, 104 Stat. 287, provided that: “This Act \[amending sections 106, 111, 704, 708, 801, and 804 of this title and enacting provisions set out as notes under sections 106, 111, 708, and 804 of this title\] may be cited as the ‘Copyright Fees and Technical Amendments Act of 1989’.”
 
@@ -253,6 +349,10 @@ Section 1(a) of Pub. L. 100–568 provided that: “This Act \[enacting section 
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–450, §1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act \[amending sections 109 and 115 of this title and enacting provisions set out as a note under section 109 of this title\] may be cited as the ‘Record Rental Amendment of 1984’.”
+
+#### Construction of 1998 Amendment
+
+Pub. L. 105–298, title II, §206, Oct. 27, 1998, 112 Stat. 2834, provided that: “Except as otherwise provided in this title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\], nothing in this title shall be construed to relieve any performing rights society of any obligation under any State or local statute, ordinance, or law, or consent decree or other court order governing its operation, as such statute, ordinance, law, decree, or order is in effect on the date of the enactment of this Act \[Oct. 27, 1998\], as it may be amended after such date, or as it may be issued or agreed to after such date.”
 
 #### First Amendment Application
 
@@ -294,7 +394,7 @@ Section 12 of Pub. L. 100–568 provided that: “Title 17, United States Code, 
 
 #### Definitions
 
-Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: “For purposes of this title \[enacting section 1101 of this title and section 2319A of Title 18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title\]—
+Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: “For purposes of this title \[enacting section 1101 of this title and section 2319A of Title18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title\]—
 
 &emsp;“(1) the term ‘WTO Agreement’ has the meaning given that term in section 2(9) of the Uruguay Round Agreements Act \[19 U.S.C. 3501(9)\]; and
 
@@ -302,5 +402,5 @@ Pub. L. 103–465, title V, §501, Dec. 8, 1994, 108 Stat. 4973, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106A, 114 of this title; title 2 section 179u; title 18 sections 2318, 2319.
+This section is referred to in sections 106A, 114 of this title; title 2 section 179u; title 18 sections 2318, 2319; title 28 section 4001.
 

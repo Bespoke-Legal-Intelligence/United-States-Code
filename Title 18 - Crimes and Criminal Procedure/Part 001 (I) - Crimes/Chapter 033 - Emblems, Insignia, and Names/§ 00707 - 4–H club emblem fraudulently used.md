@@ -8,7 +8,7 @@ Shall be fined under this title or imprisoned not more than six months, or both.
 
 This section shall not make unlawful the use of any such emblem, sign, insignia or words which was lawful on the date of enactment of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 733; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(E), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 733; Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

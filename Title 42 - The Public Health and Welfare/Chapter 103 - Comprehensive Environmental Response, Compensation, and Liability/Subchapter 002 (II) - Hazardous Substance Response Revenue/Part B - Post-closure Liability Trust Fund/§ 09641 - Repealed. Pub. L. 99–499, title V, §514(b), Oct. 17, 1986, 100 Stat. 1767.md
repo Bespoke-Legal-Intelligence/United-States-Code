@@ -12,5 +12,5 @@ In general.—The amendments made by this section \[repealing this section and s
 
 “(2)
 
-Waiver of statute of limitations.—If on the date of the enactment of this Act \[Oct. 17, 1986\] (or atany time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of this section is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act.”
+Waiver of statute of limitations.—If on the date of the enactment of this Act \[Oct. 17, 1986\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of this section is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act.”
 

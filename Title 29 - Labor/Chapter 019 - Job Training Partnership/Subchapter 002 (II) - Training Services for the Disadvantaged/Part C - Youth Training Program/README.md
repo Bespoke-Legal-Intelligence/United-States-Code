@@ -2,7 +2,7 @@ Part C—Youth Training Program
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1502, 1503, 1516, 1518, 1519, 1551, 1606, 1631, 1632, 1633, 1634, 1635, 1734 of this title.
+This part is referred to in sections 1502, 1503, 1516, 1518, 1519, 1551, 1606, 1631, 1632, 1633, 1634, 1635, 1734, 2852 of this title.
 
 
 ---

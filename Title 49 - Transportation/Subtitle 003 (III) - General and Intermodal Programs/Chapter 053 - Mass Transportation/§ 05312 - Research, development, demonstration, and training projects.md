@@ -42,7 +42,61 @@ Training Fellowships and Innovative Techniques and Methods.—(1) The Secretary 
 
 &emsp;(C) the regular salary of the fellowship recipient for the period of the fellowship to the extent the salary is actually paid or reimbursed by the grant recipient.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811.)
+(d)
+
+Joint Partnership Program for Deployment of Innovation.—
+
+&emsp;(1)
+
+Definition of consortium.—In this subsection, the term “consortium”—
+
+&emsp;&emsp;(A) means 1 or more public or private organizations located in the United States that provide mass transportation service to the public and 1 or more businesses, including small- and medium-sized businesses, incorporated in a State, offering goods or services or willing to offer goods and services to mass transportation operators; and
+
+&emsp;&emsp;(B) may include, as additional members, public or private research organizations located in the United States, or State or local governmental authorities.
+
+&emsp;(2)
+
+General authority.—The Secretary may, under terms and conditions that the Secretary prescribes, enter into grants, contracts, cooperative agreements, and other agreements with consortia selected in accordance with paragraph (4), to promote the early deployment of innovation in mass transportation services, management, operational practices, or technology that has broad applicability. This paragraph shall be carried out in consultation with the transit industry by competitively selected consortia that will share costs, risks, and rewards of early deployment of innovation.
+
+&emsp;(3)
+
+Consortium contribution.—A consortium assisted under this subsection shall provide not less than 50 percent of the costs of any joint partnership project. Any business, organization, person, or governmental body may contribute funds to a joint partnership project.
+
+&emsp;(4)
+
+Notice requirement.—The Secretary shall periodically give public notice of the technical areas for which joint partnerships are solicited, required qualifications of consortia desiring to participate, the method of selection and evaluation criteria to be used in selecting participating consortia and projects, and the process by which innovation projects described in paragraph (1) will be awarded.
+
+&emsp;(5)
+
+Use of revenues.—The Secretary shall accept, to the maximum extent practicable, a portion of the revenues resulting from sales of an innovation project funded under this section. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary for activities under this subsection. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation.
+
+(e)
+
+International Mass Transportation Program.—
+
+&emsp;(1)
+
+Activities.—The Secretary is authorized to engage in activities to inform the United States domestic mass transportation community about technological innovations available in the international marketplace and activities that may afford domestic businesses the opportunity to become globally competitive in the export of mass transportation products and services. Such activities may include—
+
+&emsp;&emsp;(A) development, monitoring, assessment, and dissemination domestically of information about worldwide mass transportation market opportunities;
+
+&emsp;&emsp;(B) cooperation with foreign public sector entities in research, development, demonstration, training, and other forms of technology transfer and exchange of experts and information;
+
+&emsp;&emsp;(C) advocacy, in international mass transportation markets, of firms, products, and services available from the United States;
+
+&emsp;&emsp;(D) informing the international market about the technical quality of mass transportation products and services through participation in seminars, expositions, and similar activities; and
+
+&emsp;&emsp;(E) offering those Federal Transit Administration technical services which cannot be readily obtained from the United States private sector to foreign public authorities planning or undertaking mass transportation projects if the cost of these services will be recovered under the terms of each project.
+
+&emsp;(2)
+
+Cooperation.—The Secretary may carry out activities under this subsection in cooperation with other Federal agencies, State or local agencies, public and private nonprofit institutions, government laboratories, foreign governments, or any other organization the Secretary determines is appropriate.
+
+&emsp;(3)
+
+Funding.—The funds available to carry out this subsection shall include revenues paid to the Secretary by any cooperating organization or person. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary to carry out activities under this subsection, including promotional materials, travel, reception, and representation expenses necessary to carry out such activities. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation. Not later than January 1 of each fiscal year, the Secretary shall publish a report on the activities under this paragraph funded from the account.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811; Pub. L. 105–178, title III, §3015(a), June 9, 1998, 112 Stat. 359.)
 
 Historical and Revision Notes
 
@@ -107,6 +161,10 @@ In subsection (b)(3), the word “appropriate” is added for clarity.
 In subsection (c)(1), the words “and agencies thereof” are omitted as surplus.
 
 In subsection (c)(3), before clause (A), the words “public or private training” and “the sum of” are omitted as surplus. In clause (B), the words “in connection with the fellowship” are omitted as surplus.
+
+#### Amendments
+
+1998—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ Grants made under subsection (a) of this section shall, to the extent deemed pos
 
 &emsp;(E) serve for a fixed term of office.
 
-(3) For any grants made with respect to Alaska Native art and culture, the members of the governing board which is required to be established under paragraph (1) shall—
+(3) For any grants made with respect to Alaska Native art and culture, the members of thegoverning board which is required to be established under paragraph (1) shall—
 
 &emsp;(A) include Alaska Natives and individuals widely recognized in the field of Alaska Native art and culture,
 

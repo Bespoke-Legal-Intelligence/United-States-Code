@@ -72,5 +72,5 @@ Subsec. (d). Pub. L. 104–201, §3522(2), struck out subsec. (d) which read as 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 5595, 5724, 5724a, 8102; title 8 section 1101.
+This section is referred to in title 5 sections 5595, 5721, 8102; title 8 section 1101.
 

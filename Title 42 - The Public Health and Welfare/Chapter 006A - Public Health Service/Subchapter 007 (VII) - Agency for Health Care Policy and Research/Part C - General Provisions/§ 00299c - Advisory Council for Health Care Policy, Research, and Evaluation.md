@@ -26,7 +26,7 @@ There is established an advisory council to be known as the National Advisory Co
 
 #### (1) In general
 
-&emsp;The Council shall, in accordance with this subsection, be composed of appointed membersand ex officio members. All members of the Council shall be voting members, other than officials designated under paragraph (3)(B) as ex officio members of the Council.
+&emsp;The Council shall, in accordance with this subsection, be composed of appointed members and ex officio members. All members of the Council shall be voting members, other than officials designated under paragraph (3)(B) as ex officio members of the Council.
 
 #### (2) Appointed members
 
@@ -94,7 +94,7 @@ The Administrator shall provide to the Council such staff, information, and othe
 
 Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Council shall continue in existence until otherwise provided by law.
 
-(July 1, 1944, ch. 373, title IX, §921, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2199; amended Oct. 13, 1992, Pub. L. 102–410, §8, 106 Stat. 2100.)
+(July 1, 1944, ch. 373, title IX, §921, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2199; amended Pub. L. 102–410, §8, Oct. 13, 1992, 106 Stat. 2100.)
 
 #### References in Text
 

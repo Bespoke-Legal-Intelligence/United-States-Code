@@ -2,7 +2,7 @@
 
 The Secretary of the Navy may buy such mileage books, commutation tickets, and other similar transportation tickets as he considers necessary, and he may furnish them to persons ordered to perform travel on official business. Payment for those tickets before the travel is performed is not an advance of public money within the meaning of subsections (a) and (b) of section 3324 of title 31.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 386; Sept. 13, 1982, Pub. L. 97–258, §3(b)(8), 96 Stat. 1063; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(56)(A), 98 Stat. 2626.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 386; Pub. L. 97–258, §3(b)(8), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626.)
 
 Historical and Revision Notes
 

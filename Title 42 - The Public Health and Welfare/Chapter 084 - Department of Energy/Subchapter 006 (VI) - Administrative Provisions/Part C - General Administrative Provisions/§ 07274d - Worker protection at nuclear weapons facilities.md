@@ -26,7 +26,7 @@
 
 &emsp;(B) fails (i) to provide for the training of such individuals to carry out such hazardous substance response or emergency response, or (ii) to certify to the Department of Energy that such employees are adequately trained for such response pursuant to orders issued by the Department of Energy relating to employee safety training (including orders numbered 5480.4 and 5480.11).
 
-(2) Civil penalties assessed under this subsection may not exceed $5,000 for each day inwhich a failure referred to in paragraph (1)(B) occurs.
+(2) Civil penalties assessed under this subsection may not exceed $5,000 for each day in which a failure referred to in paragraph (1)(B) occurs.
 
 #### (c) Regulations
 
@@ -48,5 +48,5 @@ Section 3101(9)(A), referred to in subsec. (e), is section 3101(9)(A) of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, andnot as part of the Department of Energy Organization Act which comprises this chapter.
 

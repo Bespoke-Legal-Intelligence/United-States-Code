@@ -80,7 +80,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 #### (c) Amendment of multiemployer plan for determination respecting amount of unfunded vested benefits allocable to employer withdrawn from plan; factors determining computation of amount
 
-(1) A multiemployer plan, other than a plan which primarily covers employees in the building and construction industry, may be amended to provide that the amount of unfunded vested benefits allocable to an employer that withdraws from the plan is an amount determined under paragraph (2), (3), (4), or (5) of this subsection, rather than under subsection (b) or (d)of this section. A plan described in section 1383(b)(1)(B)(i) of this title (relating to the building and construction industry) may be amended, to the extent provided in regulations prescribed by the corporation, to provide that the amount of the unfunded vested benefits allocable to an employer not described in section 1383(b)(1)(A) of this title shall be determined in a manner different from that provided in subsection (b) of this section.
+(1) A multiemployer plan, other than a plan which primarily covers employees in the building and construction industry, may be amended to provide that the amount of unfunded vested benefits allocable to an employer that withdraws from the plan is an amount determined under paragraph (2), (3), (4), or (5) of this subsection, rather than under subsection (b) or (d) of this section. A plan described in section 1383(b)(1)(B)(i) of this title (relating to the building and construction industry) may be amended, to the extent provided in regulations prescribed by the corporation, to provide that the amount of the unfunded vested benefits allocable to an employer not described in section 1383(b)(1)(A) of this title shall be determined in a manner different from that provided in subsection (b) of this section.
 
 (2)(A) The amount of the unfunded vested benefits allocable to any employer under this paragraph is the sum of the amounts determined under subparagraphs (B) and (C).
 
@@ -128,7 +128,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (B) The plan's unfunded vested benefits which are attributable to participants’ service with the employer is the amount equal to the value of nonforfeitable benefits under the plan which are attributable to participants’ service with such employer (determined under plan rules not inconsistent with regulations of the corporation) decreased by the share of plan assets determined under subparagraph (C) which is allocated to the employer as provided under subparagraph (D).
 
-(C) The value of plan assets determined under this subparagraph is the value of plan assets allocated to nonforfeitable benefits which are attributable to service with the employers who have an obligation to contribute under the planin the plan year preceding the plan year in which the employer withdraws, which is determined by multiplying—
+(C) The value of plan assets determined under this subparagraph is the value of plan assets allocated to nonforfeitable benefits which are attributable to service with the employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which the employer withdraws, which is determined by multiplying—
 
 &emsp;(i) the value of the plan assets as of the end of the plan year preceding the plan year in which the employer withdraws, by
 
@@ -166,7 +166,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(I) the value of all nonforfeitable benefits under the plan at the end of such plan year, reduced by
 
-&emsp;&emsp;(II) the value of nonforfeitable benefits under the plan at the end of such plan year which are attributable to participants’ service with employers who have an obligation to contribute under the plan for such plan year; reduced by
+&emsp;&emsp;(II) the value of nonforfeitable benefits under the plan at the end of such plan yearwhich are attributable to participants’ service with employers who have an obligation to contribute under the plan for such plan year; reduced by
 
 &emsp;(ii) an amount equal to—
 
@@ -214,7 +214,7 @@ Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted “September 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 #### Section Referred to in Other Sections
 

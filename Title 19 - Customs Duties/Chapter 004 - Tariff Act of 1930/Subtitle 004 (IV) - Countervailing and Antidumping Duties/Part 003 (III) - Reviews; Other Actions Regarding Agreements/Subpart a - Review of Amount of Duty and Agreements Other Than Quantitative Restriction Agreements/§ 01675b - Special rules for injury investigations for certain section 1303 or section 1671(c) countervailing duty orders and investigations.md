@@ -56,7 +56,7 @@
 
 #### (A) Net countervailable subsidy
 
-&emsp;&emsp;The administering authority shall provide to the Commission the net countervailable subsidy that is likely to prevail if the order which is the subject of the investigation is revoked. The administering authority normally shall choose a net countervailable subsidy that was determined under section 1671d of this title or subsection (a) or (b)(1) of section 1675 of this title. If the Commission considers the magnitude of the net countervailable subsidy in making its determination under this section, the Commission shall use the net countervailable subsidy provided by the administering authority.
+&emsp;&emsp;The administering authority shall provide to the Commission the net countervailablesubsidy that is likely to prevail if the order which is the subject of the investigation is revoked. The administering authority normally shall choose a net countervailable subsidy that was determined under section 1671d of this title or subsection (a) or (b)(1) of section 1675 of this title. If the Commission considers the magnitude of the net countervailable subsidy in making its determination under this section, the Commission shall use the net countervailable subsidy provided by the administering authority.
 
 #### (B) Nature of subsidy
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;Upon being notified by the Commission that it has made an affirmative determination under subsection (a)(1) of this section—
 
-&emsp;&emsp;&emsp;(i) the administering authority shall order the termination of the suspension ofliquidation required pursuant to subsection (a)(4) of this section, and
+&emsp;&emsp;&emsp;(i) the administering authority shall order the termination of the suspension of liquidation required pursuant to subsection (a)(4) of this section, and
 
 &emsp;&emsp;&emsp;(ii) the countervailing duty order shall remain in effect until revoked, in whole or in part, under section 1675(d) of this title.
 
@@ -112,7 +112,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### (A) Requests for reviews
 
-&emsp;&emsp;Notwithstanding section 1675(c)(6)(A) of this title and except as provided in subparagraph (B), an interested party may request a review of an order under section 1675(c) of this title at the same time the party requests an investigation under subsection (a) of this section, if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with the Commission, shall initiate a review of the order under section 1675(c) of this title. The Commission shall combine such review with the investigation under this section.
+&emsp;&emsp;Notwithstanding section 1675(c)(6)(A) of this title and except as provided in subparagraph (B), an interested party may request a review of an order under section 1675(c) of this title at the same time the party requests an investigation under subsection (a) of this section, if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with theCommission, shall initiate a review of the order under section 1675(c) of this title. The Commission shall combine such review with the investigation under this section.
 
 #### (B) Exception
 
@@ -126,7 +126,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 &emsp;The Commission shall render its determination in the investigation conducted under this section at the same time as the Commission's determination is made in the review under section 1675(c) of this title that is initiated pursuant to this subsection. The Commission shall in all other respects apply the procedures and standards set forth in section 1675(c) of this title to such section 1675(c) of this title reviews.
 
-(June 17, 1930, ch. 497, title VII, §753, as added Dec. 8, 1994, Pub. L. 103–465, title II, §271(a), 108 Stat. 4918; amended Oct. 11, 1996, Pub. L. 104–295, §39, 110 Stat. 3540.)
+(June 17, 1930, ch. 497, title VII, §753, as added Pub. L. 103–465, title II, §271(a), Dec. 8, 1994, 108 Stat. 4918; amended Pub. L. 104–295, §39, Oct. 11, 1996, 110 Stat. 3540.)
 
 #### References in Text
 

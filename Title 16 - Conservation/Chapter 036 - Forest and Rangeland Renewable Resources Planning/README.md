@@ -73,12 +73,17 @@
 | (a) | Authorization; scope and purposes of activities. |
 | (b) | Development of periodic Renewable Resource Assessment through survey and analysis of conditions; implementation; authorization of appropriations. |
 | (c) | Program of research and study relative to health and productivity of domestic forest ecosystems; advisory committee; reports. |
-| (d) | Studies relative to problems associated with urban forests; effects of Federal revenue codes on private forests; development of improved delivery systems for information and technical assistance provided to private landowners. |
+| (d) | High priority forestry and rangeland research and education. |
+| (e) | Forest inventory and analysis. |
 | [1643\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001643%20-%20Implementation%20of%20provisions.md) | Implementation of provisions. |
 | (a) | Establishment and maintenance of research facilities; acquisition, expenditures, etc., for property. |
 | (b) | Acceptance, holding, and administration of gifts, donations, and bequests; use and investment of gifts, proceeds, etc.; funding requirements. |
 | (c) | Cooperation with international, Federal, State, and other governmental agencies, public and private agencies, etc.; funding requirements for contributions from cooperators. |
-| [1644\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001644%20-%20Competitive%20grants%3B%20scope%20and%20purposes%3B%20prerequisites.md) | Competitive grants; scope and purposes; prerequisites. |
+| [1644\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001644%20-%20Forestry%20and%20rangeland%20competitive%20research%20grants.md) | Forestry and rangeland competitive research grants. |
+| (a) | Competitive grant authority. |
+| (b) | Emphasis on certain high priority forestry research. |
+| (c) | Emphasis on certain high priority rangeland research. |
+| (d) | Priorities. |
 | [1645\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001645%20-%20General%20provisions.md) | General provisions. |
 | (a) | Availability of funds to cooperators and grantees. |
 | (b) | Coordination of cooperative aid and grants with other aid and grant authorities. |

@@ -104,7 +104,7 @@ Sept. 30, 1981, Pub. L. 97–49, 95 Stat. 956—Increase of $679,800,000,000 for
 
 #### Repeals of Temporary Increases in Public Debt Limit
 
-Pub. L. 103–12, Apr. 6, 1993, 107 Stat. 42, providing for a temporary increase in public debt limit to$4,370,000,000,000 for the period Apr. 6, 1993, to Sept. 30, 1993, was repealed by Pub. L. 103–66, title XIII, §13411(b), Aug. 10, 1993, 107 Stat. 565, effective Aug. 10, 1993.
+Pub. L. 103–12, Apr. 6, 1993, 107 Stat. 42, providing for a temporary increase in public debt limit to $4,370,000,000,000 for the period Apr. 6, 1993, to Sept. 30, 1993, was repealed by Pub. L. 103–66, title XIII, §13411(b), Aug. 10, 1993, 107 Stat. 565, effective Aug. 10, 1993.
 
 Pub. L. 99–509, title VIII, §8201, Oct. 21, 1986, 100 Stat. 1968, providing for a temporary increase in public debt limit of $189,000,000,000 for the period Oct. 21, 1986, to May 15, 1987, was repealed by Pub. L. 100–40, §1(b), May 15, 1987, 101 Stat. 308, effective May 15, 1987.
 
@@ -180,7 +180,7 @@ Pub. L. 87–69, June 30, 1961, 75 Stat. 148, provided for a temporary increase 
 
 Pub. L. 86–564, title I, §101, June 30, 1960, 74 Stat. 290, provided for a temporary increase from $285,000,000,000 to $293,000,000,000 for the period July 1, 1960, to June 30, 1961.
 
-Pub. L. 86–74, §2, June 30, 1959, 73 Stat. 156, provided for a temporary increase from $285,000,000,000 to$295,000,000,000 for the period July 1, 1959, to June 30, 1960.
+Pub. L. 86–74, §2, June 30, 1959, 73 Stat. 156, provided for a temporary increase from $285,000,000,000 to $295,000,000,000 for the period July 1, 1959, to June 30, 1960.
 
 Pub. L. 85–336, Feb. 26, 1958, 72 Stat. 27, provided for a temporary increase from $275,000,000,000 to $280,000,000,000 for the period Feb. 26, 1958, to June 30, 1959.
 

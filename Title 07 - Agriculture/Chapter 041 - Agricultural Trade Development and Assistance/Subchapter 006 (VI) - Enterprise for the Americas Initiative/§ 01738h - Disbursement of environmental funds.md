@@ -2,7 +2,7 @@
 
 Funds in an Environmental Fund shall be disbursed only pursuant to a framework agreement entered into pursuant to section 1738f of this title.
 
-(July 10, 1954, ch. 469, title VI, §609, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3661.)
+(July 10, 1954, ch. 469, title VI, §609, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3661.)
 
 #### Section Referred to in Other Sections
 

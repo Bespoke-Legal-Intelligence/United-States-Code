@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Skills Verification.—The Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skillsand experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+Employment Skills Verification.—The Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
 
 (b)
 
@@ -52,7 +52,7 @@ Grant Eligibility Criteria.—An organization is eligible to receive a grant fro
 
 &emsp;“(2) has entered into an agreement with a joint labor-management training fund established consistent with section 8(f) of the National Labor Relations Act (29 U.S.C. 158(f)) to implement and operate a training and employment program for veterans;
 
-&emsp;“(3) agrees under the agreement referred to in paragraph (2) to use grant funds to carry out a program that will provide eligible veterans with training for employment in the construction and hazardous waste remediation industries;
+&emsp;“(3) agrees under the agreement referred to in paragraph (2) to use grant funds to carry out a program that will provide eligible veterans with training foremployment in the construction and hazardous waste remediation industries;
 
 &emsp;“(4) provides such training for an eligible veteran for not more than 18 months;
 
@@ -80,7 +80,7 @@ Preference.—In carrying out the demonstration program under this section, the 
 
 “(e)
 
-Hazardous Waste Operations Training Goal.—It is the sense of Congress that at least 20 percent ofthe total number of veterans completing training under the demonstration program under this section should complete the training required—
+Hazardous Waste Operations Training Goal.—It is the sense of Congress that at least 20 percent of the total number of veterans completing training under the demonstration program under this section should complete the training required—
 
 &emsp;“(1) for certification under section 126 of the Superfund Amendments and Reauthorization Act of 1986 \[Pub. L. 99–499\] (29 U.S.C. 655 note); and
 
@@ -118,19 +118,19 @@ Termination.—Not later than October 1, 1994, the Secretary shall obligate, in 
 
 #### Improved Coordination of Job Training and Placement Programs for Members of Armed Forces
 
-Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, provided that: “The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
+Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125, provided that: “The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
 
-&emsp;“(1) The Job Training Partnership Act (29 U.S.C. 1501 et seq.).
+&emsp;“(1) The Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 &emsp;“(2) Sections 1143 and 1144 of title 10, United States Code.
 
 &emsp;“(3) Chapter 41 of title 38, United States Code.
 
-&emsp;“(4) The Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.).
+&emsp;“(4) The Act of August 16, 1937 (Chapter 663; 50 Stat 664; 29 U.S.C. 50 et seq.), commonly known as the National Apprenticeship Act.
 
-&emsp;“(5) The Act of August 16, 1937 (Chapter 663; 50 Stat 664; 29 U.S.C. 50 et seq.), commonly known as the National Apprenticeship Act.
+&emsp;“(5) The Wagner-Peyser Act (29 U.S.C. 49 et seq.)\[.\]”
 
-&emsp;“(6) The Wagner-Peyser Act (29 U.S.C. 49 et seq.)\[.\]”
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(6)(B), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 4461(1) of Pub. L. 102–484, set out above, is amended by substituting “Title” for “The Job Training Partnership Act of \[or\] title”.\]
 
 #### Participation of Discharged Military Personnel in Upward Bound Projects To Prepare for College
 
@@ -172,7 +172,7 @@ Use of Assistance.—A member of the Armed Forces who is selected to participate
 
 “(f)
 
-Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submittingthe request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.). Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
+Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.). Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
 
 “(g)
 
@@ -186,7 +186,7 @@ Application to Coast Guard.—The Secretary of Transportation may implement the 
 
 Section 543(g)(2) of Pub. L. 103–337 provided that: “As soon as possible after the date of the enactment of this Act \[Oct. 5, 1994\], the Secretary of Transportation shall implement the requirements of the Service Members Occupational Conversion and Training Act of 1992 (subtitle G of title XLIV of Public Law 102–484; 10 U.S.C. 1143 note) for the Coast Guard.”
 
-Pub. L. 102–484, div. D, title XLIV, subtitle G, Oct. 23, 1992, 106 Stat. 2757, as amended by Pub. L. 103–160, div. A, title XIII, §1338, Nov. 30, 1993, 107 Stat. 1807; Pub. L. 103–337, div. A, title V, §543(g)(1), Oct. 5, 1994, 108 Stat. 2772; Pub. L. 103–446, title VI, §610(a)(1), (2)(A), (b), (c), Nov. 2, 1994, 108 Stat. 4673, provided that:
+Pub. L. 102–484, div. D, title XLIV, subtitle G, Oct. 23, 1992, 106 Stat. 2757, as amended by Pub. L. 103–160, div. A, title XIII, §1338, Nov. 30, 1993, 107 Stat. 1807; Pub. L. 103–337, div. A, title V, §543(g)(1), Oct. 5, 1994, 108 Stat. 2772; Pub. L. 103–446, title VI, §610(a)(1), (2)(A), (b), (c), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(D), (f)(6)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, provided that:
 
 #### “SEC. 4481. SHORT TITLE.
 
@@ -490,13 +490,13 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 “(a)
 
-Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer onbehalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
+Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
 “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
 “(b)
 
-Other Training and Employment.—Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period if the employer receives for that period any other form of assistance on account of the training or employment of the eligible person, including assistance under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or a credit under section 51 of the Internal Revenue Code of 1986 \[26 U.S.C. 51\] (relating to credit for employment of certain new employees).
+Other Training and Employment.—Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period if the employer receives for that period any other form of assistance on account of the training or employment of the eligible person, including assistance under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or a credit under section 51 of the Internal Revenue Code of 1986 \[26 U.S.C. 51\] (relating to credit for employment of certain new employees).
 
 “(c)
 
@@ -560,7 +560,7 @@ Coordination.—The Secretary, the Secretary of Veterans Affairs, and the Secret
 
 Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shall make available such personnel as are necessary to facilitate the effective implementation of this subtitle.
 
-“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall takesteps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
+“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall take steps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
 
 “(d)
 
@@ -605,6 +605,8 @@ Contingent Amendment.—If a transfer is made in accordance with section 4501(c)
 “(b)
 
 Publication in the Federal Register.—If the transfer described in subsection (a) is made, then the Secretary of Defense shall promptly publish in the Federal Register a notice of such transfer. Such notice shall specify the date on which such transfer occurred.”
+
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(6)(D), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 4492(b) of Pub. L. 102–484, set out above, is amended by striking out “the Job Training Partnership Act or”.\]
 
 \[Section 610(a)(2)(B) of Pub. L. 103–446 provided that: “The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\].”\]
 

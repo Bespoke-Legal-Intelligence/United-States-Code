@@ -108,13 +108,17 @@ Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted “for any fiscal year
 
 1990—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
 
-1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
+1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for ComptrollerGeneral as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
 Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” for “made”.
 
 #### Effective Date of 1994 Amendment
 
 Section 119(d)(2) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
+
+#### Conforming Paygo Scorecard With Transportation Equity Act for 21st Century
+
+Pub. L. 105–178, title VIII, §8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, §9013(c), July 22, 1998, 112 Stat. 865, provided that: “Upon the enactment of this Act \[June 9, 1998\], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\] of changes in direct spending outlays and receipts for any fiscal year resulting from this title \[see Tables for classification\] or from section 1102 of this Act \[23 U.S.C. 104 note\].”
 
 #### Reduction of Preexisting Balances and Exclusion of Effects of Pub. L. 105–33 From Paygo Scorecard
 

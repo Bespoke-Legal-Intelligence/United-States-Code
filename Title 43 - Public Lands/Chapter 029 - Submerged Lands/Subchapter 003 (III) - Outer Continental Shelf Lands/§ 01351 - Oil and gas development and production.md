@@ -56,7 +56,7 @@ If approval of a development and production plan is not found to be a major Fede
 
 &emsp;(C) if operations threaten national security or national defense; or
 
-&emsp;(D) if the Secretary determines, because of exceptional geological conditions in the lease areas, exceptional resource values in the marine or coastal environment, or other exceptional circumstances, that (i) implementation of the plan would probably cause serious harm or damage to life (including fish and other aquatic life), to property, to any mineral deposits (in areas leased or not leased), to the national security or defense, or to the marine, coastal or human environments, (ii) the threat of harm or damage will not disappear or decrease to an acceptable extent within a reasonable period of time, and (iii) the advantages of disapproving the plan outweigh the advantages of development and production.
+&emsp;(D) if the Secretary determines, because of exceptional geological conditions in the lease areas, exceptional resource values in the marine or coastal environment, or other exceptional circumstances, that (i) implementation of the plan would probably cause serious harmor damage to life (including fish and other aquatic life), to property, to any mineral deposits (in areas leased or not leased), to the national security or defense, or to the marine, coastal or human environments, (ii) the threat of harm or damage will not disappear or decrease to an acceptable extent within a reasonable period of time, and (iii) the advantages of disapproving the plan outweigh the advantages of development and production.
 
 (2)(A) If a plan is disapproved—
 
@@ -100,5 +100,5 @@ The Secretary may require the provisions of this section to apply to an oil and 
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (e)(2), (h)(1), and (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A)(ii), (B)(ii), is title III of Pub. L.89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A)(ii), (B)(ii), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 

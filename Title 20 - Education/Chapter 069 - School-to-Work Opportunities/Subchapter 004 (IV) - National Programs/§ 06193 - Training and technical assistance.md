@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The Secretaries shall work in cooperation with the States, the individuals assigned under section 2321(b)(1) of this title, employers and their associations, secondary schools and postsecondary educational institutions, student and teacher organizations, labor organizations, and community-based organizations, to increase their capacity to develop and implement effective School-to-Work Opportunities programs.
+The Secretaries shall work in cooperation with the States, the individuals assigned under section 2321(b)(1) <sup>1</sup> of this title, employers and their associations, secondary schools and postsecondary educational institutions, student and teacher organizations, labor organizations, and community-based organizations, to increase their capacity to develop and implement effective School-to-Work Opportunities programs.
 
 #### (b) Authorized activities
 
@@ -21,4 +21,10 @@ The Secretaries shall provide, through grants, contracts, or otherwise—
 &emsp;(4) assistance to States and local partnerships involved in carrying out School-to-Work Opportunities programs to design and implement school-sponsored enterprises.
 
 (Pub. L. 103–239, title IV, §403, May 4, 1994, 108 Stat. 596.)
+
+#### References in Text
+
+Section 2321(b)(1) of this title, referred to in subsec. (a), was omitted in the general amendment of chapter 44 (§2301 et seq.) of this title by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

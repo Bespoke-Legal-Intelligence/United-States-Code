@@ -2,7 +2,7 @@
 
 When used in this chapter the term “packer” means any person engaged in the business (a) of buying livestock in commerce for purposes of slaughter, or (b) of manufacturing or preparing meats or meat food products for sale or shipment in commerce, or (c) of marketing meats, meat food products, or livestock products in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce.
 
-(Aug. 15, 1921, ch. 64, title II, §201, 42 Stat. 160; Sept. 13, 1976, Pub. L. 94–410, §2, 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title II, §201, 42 Stat. 160; Pub. L. 94–410, §2, Sept. 13, 1976, 90 Stat. 1249.)
 
 #### Amendments
 

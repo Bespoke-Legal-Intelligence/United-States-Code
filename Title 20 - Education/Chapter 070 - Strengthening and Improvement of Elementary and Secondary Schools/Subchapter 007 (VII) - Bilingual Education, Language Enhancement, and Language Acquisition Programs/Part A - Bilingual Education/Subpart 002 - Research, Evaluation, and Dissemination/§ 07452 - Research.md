@@ -10,7 +10,7 @@ Such research activities—
 
 &emsp;(1) shall have a practical application to teachers, counselors, paraprofessionals, school administrators, parents, and others involved in improving the education of limited English proficient students and their families;
 
-&emsp;(2) may include research on effective instructional practices for multilingual classes, and on effective instruction strategies to be used by teachers and other staff who do notknow the native language of a limited English proficient child or youth in their classrooms;
+&emsp;(2) may include research on effective instructional practices for multilingual classes, and on effective instruction strategies to be used by teachers and other staff who do not know the native language of a limited English proficient child or youth in their classrooms;
 
 &emsp;(3) may include establishing (through the National Center for Education Statistics in consultation with experts in bilingual education, second language acquisition, and English-as-a-second-language) a common definition of “limited English proficient student” for purposes of national data collection; and
 

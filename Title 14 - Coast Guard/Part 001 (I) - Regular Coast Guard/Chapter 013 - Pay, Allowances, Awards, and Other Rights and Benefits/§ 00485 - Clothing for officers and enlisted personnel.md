@@ -4,7 +4,7 @@
 
 (b) The Coast Guard may purchase uniform clothing for sale to enlisted personnel of the Coast Guard. The actual cost of the clothing thus sold to enlisted personnel may be withheld from their pay.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 534; Aug. 3, 1950, ch. 536, §33, 64 Stat. 408; Sept. 7, 1962, Pub. L. 87–649, §14d(4), 76 Stat. 502.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 534; Aug. 3, 1950, ch. 536, §33, 64 Stat. 408; Pub. L. 87–649, §14d(4), Sept. 7, 1962, 76 Stat. 502.)
 
 #### Historical and Revision Notes
 

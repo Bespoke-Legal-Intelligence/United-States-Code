@@ -28,7 +28,7 @@ Special Apportionment Categories.—(1) The Secretary shall use amounts availabl
 
 &emsp;(A) At least 31 percent for grants for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c) of this title. The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 31 percent requirement is being met in that fiscal year.
 
-&emsp;(B) at <sup>1</sup> least 4 percent for each of fiscal years 1997 and 1998 to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
+&emsp;(B) at <sup>1</sup> least 4 percent for each of fiscal years 1997 and 1998 to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport doesnot exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
 
 (2) If the Secretary decides that an amount required to be used for grants under paragraph (1) of this subsection cannot be used for a fiscal year because there are insufficient qualified grant applications, the amount the Secretary determines cannot be used is available during the fiscal year for grants for other airports or for other purposes for which amounts are authorized for grants under section 48103 of this title.
 
@@ -51,10 +51,6 @@ Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subs
 Limiting Authority of Secretary.—The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215.)
-
-#### Amendment of Subsections (b) and (e)
-
-<i>For termination of amendment by section 125 of Pub. L. 104–264, see Effective and Termination Dates of 1996 Amendments notes below.</i>
 
 Historical and Revision Notes
 
@@ -170,7 +166,7 @@ Sept. 3, 1982, Pub. L. 97–248, §508(d), as amended May 26, 1994, Pub. L. 103�
 
 #### Pub. L. 104–287, §5(82)(A)
 
-This amends 49:47117(e)(1)(B) because of the redesignation of 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and\(D) by section 6(71)(C) of the Act of October 31, 1994 (Public Law 103–429, 108 Stat. 4387).
+This amends 49:47117(e)(1)(B) because of the redesignation of 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) by section 6(71)(C) of the Act of October 31, 1994 (Public Law 103–429, 108 Stat. 4387).
 
 #### Pub. L. 104–287, §5(82)(B)
 
@@ -184,25 +180,25 @@ Subsec. (e)(1)(B). Pub. L. 105–102, §3(c)(2), repealed Pub. L. 104–264, §1
 
 Pub. L. 105–102, §3(c)(1)(A), amended Pub. L. 104–264, §123(b)(6). See 1996 Amendment note below.
 
-1996—Subsec. (b). Pub. L. 104–264, §§123(a), 125, temporarily inserted “or the 3 fiscal years immediately following that year in the case of a primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year” before period at end of first sentence. See Effective and Termination Dates of 1996 Amendments note below.
+1996—Subsec. (b). Pub. L. 104–264, §123(a), inserted “or the 3 fiscal years immediately following that year in the case of a primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year” before period at end of first sentence.
 
-Subsec. (e)(1). Pub. L. 104–264, §§123(b)(1), 125, temporarily substituted “available to the discretionary fund under section 47115” for “made available under section 48103” in introductory provisions. See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (e)(1). Pub. L. 104–264, §123(b)(1), substituted “available to the discretionary fund under section 47115” for “made available under section 48103” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 104–264, §123(d), as added by Pub. L. 105–102, §3(c)(1)(B), temporarily substituted “47504(c)” for “47504(c)(1)”. See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (e)(1)(A). Pub. L. 104–264, §123(d), as added by Pub. L. 105–102, §3(c)(1)(B), substituted “47504(c)” for “47504(c)(1)”.
 
-Pub. L. 104–264, §§123(b)(4), (5), 125, temporarily substituted “At least 31” for “at least 12.5” and inserted at end “The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 31 percent requirement is being met in that fiscal year.” See Effective and Termination Dates of 1996 Amendments note below.
+Pub. L. 104–264, §123(b)(4), (5), substituted “At least 31” for “at least 12.5” and inserted at end “The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 31 percent requirement is being met in that fiscal year.”
 
-Pub. L. 104–264, §§123(b)(2), (3), 125, temporarily redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “at least 5 percent for grants for reliever airports.” See Effective and Termination Dates of 1996 Amendments note below.
+Pub. L. 104–264, §123(b)(2), (3), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “at least 5 percent for grants for reliever airports.”
 
 Subsec. (e)(1)(B). Pub. L. 104–287, §5(82)(A), which directed the amendment of subpar. (B) by substituting “47504(c)” for “47504(c)(1)”, could not be executed because “47504(c)(1)” did not appear in text of subpar. (B) subsequent to amendment by Pub. L. 104–264. See below.
 
-Pub. L. 104–264, §124(d), which directed the temporary amendment of subpar. (B) by substituting “1996, 1997, and 1998” for “and 1996,”, was repealed by Pub. L. 105–102, §3(c)(2).
+Pub. L. 104–264, §124(d), which directed the amendment of subpar. (B) by substituting “1996, 1997, and 1998” for “and 1996,”, was repealed by Pub. L. 105–102, §3(c)(2).
 
-Pub. L. 104–264, §123(b)(6), as amended by Pub. L. 105–102, §3(c)(1)(A), and §125, temporarily substituted “at least 4 percent for each of fiscal years 1997 and 1998” for “at least 2.25 percent for the fiscal year ending September 30, 1993, and at least 2.5 percent for each of the fiscal years ending September 30, 1994, 1995, and 1996,”. See Effective and Termination Dates of 1996 Amendments note below.
+Pub. L. 104–264, §123(b)(6), as amended by Pub. L. 105–102, §3(c)(1)(A), substituted “at least 4 percent for each of fiscal years 1997 and 1998” for “at least 2.25 percent for the fiscal year ending September 30, 1993, and at least 2.5 percent for each of the fiscal years ending September 30, 1994, 1995, and 1996,”.
 
-Pub. L. 104–264, §§123(b)(3), (7), 125, temporarily redesignated subpar. (E) as (B) and inserted before period at end “and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant”. Former subpar. (B) temporarily redesignated (A). See Effective and Termination Dates of 1996 Amendments note below.
+Pub. L. 104–264, §123(b)(3), (7), redesignated subpar. (E) as (B) and inserted before period at end “and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant”. Former subpar. (B) redesignated (A).
 
-Subsec. (e)(1)(C), (D). Pub. L. 104–264, §§123(b)(2), 125, temporarily struck out subpars. (C) and (D) which read as follows:
+Subsec. (e)(1)(C), (D). Pub. L. 104–264, §123(b)(2), struck out subpars. (C) and (D) which read as follows:
 
 “(C) at least 1.5 percent for grants for—
 
@@ -210,11 +206,11 @@ Subsec. (e)(1)(C), (D). Pub. L. 104–264, §§123(b)(2), 125, temporarily struc
 
 &emsp;“(ii) public airports (except commercial service airports) that were eligible for United States Government assistance from amounts apportioned under section 15(a)(3) of the Airport and Airway Development Act of 1970, and to which section 15(a)(3)(A)(I) or (II) of the Act applied during the fiscal year that ended September 30, 1981.
 
-“(D) at least .75 percent for integrated airport system planning grants to planning agencies designated by the Secretary and authorized by the laws of a State or political subdivision of a State to do planning for an area of the State or subdivision in which a grant under this chapter is to be used.” See Effective and Termination Dates of 1996 Amendments note below.
+“(D) at least .75 percent for integrated airport system planning grants to planning agencies designated by the Secretary and authorized by the laws of a State or political subdivision of a State to do planning for an area of the State or subdivision in which a grant under this chapter is to be used.”
 
-Subsec. (e)(1)(E). Pub. L. 104–264, §§123(b)(3), 125, temporarily redesignated subpar. (E) as (B). See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (e)(1)(E). Pub. L. 104–264, §123(b)(3), redesignated subpar. (E) as (B).
 
-Subsec. (e)(2), (3). Pub. L. 104–264, §§123(c), 125, temporarily redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “A grant from the amount apportioned under section 47114(e) of this title may not be included as part of the 1.5 percent required to be used for grants under paragraph (1)(C) of this subsection.” See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (e)(2), (3). Pub. L. 104–264, §123(c), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “A grant from the amount apportioned under section 47114(e) of this title may not be included as part of the 1.5 percent required to be used for grants under paragraph (1)(C) of this subsection.”
 
 Subsec. (g)(1). Pub. L. 104–287, §5(82)(B), substituted “47105(f)” for “47105(e)”.
 
@@ -234,13 +230,11 @@ Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amen
 
 Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 
-#### Effective and Termination Dates of 1996 Amendments
+#### Effective Date of 1996 Amendments
 
-Section 8(2) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(B), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by section 5(81)(B), (82)(A), and (83)(A) \[amending this section and sections 47115 and 47118 of this title\] shall take effect on September 30, 1998.”
+Section 8(2) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(B), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by section 5(81)(B),\(82)(A), and (83)(A) \[amending this section and sections 47115 and 47118 of this title\] shall take effect on September 30, 1998.”
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-Amendment by Pub. L. 104–264 to cease to be effective Sept. 30, 1998, and on and after such date this section to read as if such amendment had not been enacted, see section 125 of Pub. L. 104–264 set out as a note under section 47114 of this title.
 
 #### Section Referred to in Other Sections
 

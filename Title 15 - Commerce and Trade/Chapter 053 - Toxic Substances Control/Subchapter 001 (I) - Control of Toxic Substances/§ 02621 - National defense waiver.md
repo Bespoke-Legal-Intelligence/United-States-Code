@@ -4,7 +4,3 @@ The Administrator shall waive compliance with any provision of this chapter upon
 
 (Pub. L. 94–469, title I, §22, Oct. 11, 1976, 90 Stat. 2044; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

@@ -1,6 +1,0 @@
-### §5607. Officers
-
-Except as provided in section 5608(g) of this title, the positions of officers of the association and the election of members to such positions shall be as provided in the bylaws and articles of incorporation of the association and in conformity with the laws of the State of Delaware.
-
-(Pub. L. 104–201, div. A, title XVIII, §1807, Sept. 23, 1996, 110 Stat. 2761.)
-

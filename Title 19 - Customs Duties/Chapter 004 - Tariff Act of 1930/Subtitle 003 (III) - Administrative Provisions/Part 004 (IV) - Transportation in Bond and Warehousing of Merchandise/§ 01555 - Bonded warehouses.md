@@ -76,7 +76,7 @@ Subject to subsection (b) of this section, buildings or parts of buildings and o
 
 &emsp;(G) The term “personal use quantities” means quantities that are only suitable for uses other than resale, and includes reasonable quantities for household or family consumption as well as for gifts to others.
 
-(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Oct. 30, 1984, Pub. L. 98–573, title II, §211, 98 Stat. 2977; Aug. 23, 1988, Pub. L. 100–418, title I, §1908(b), 102 Stat. 1315; Aug. 20, 1990, Pub. L. 101–382, title I, §139(a)(1), 104 Stat. 653; Oct. 11, 1996, Pub. L. 104–295, §29, 110 Stat. 3535.)
+(June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §211, Oct. 30, 1984, 98 Stat. 2977; Pub. L. 100–418, title I, §1908(b), Aug. 23, 1988, 102 Stat. 1315; Pub. L. 101–382, title I, §139(a)(1), Aug. 20, 1990, 104 Stat. 653; Pub. L. 104–295, §29, Oct. 11, 1996, 110 Stat. 3535.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Prior provisions dealing with the subject matter of this section were contained 
 
 #### Amendments
 
-1996—Subsec. (b)(6). Pub. L. 104–295 designated existing provisions as subpar. (A), substituted “Except asprovided in subparagraph (B), merchandise” for “Merchandise”, and added subpar. (B).
+1996—Subsec. (b)(6). Pub. L. 104–295 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), merchandise” for “Merchandise”, and added subpar. (B).
 
 1990—Subsec. (b)(6). Pub. L. 101–382, which directed substitution of “subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States” for “subpart A of part 2 of schedule 8 of the Tariff schedules of the United States”, was executed by making the substitution for “subpart A of part 2 of schedule 8 of the Tariff Schedules of the United States” to reflect the probable intent of Congress.
 

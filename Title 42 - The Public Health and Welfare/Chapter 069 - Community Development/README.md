@@ -36,6 +36,7 @@
 | (e) | Guidelines for evaluating and selecting economic development projects. |
 | (f) | Assistance to for-profit entities. |
 | (g) | Microenterprise and small business program requirements. |
+| (h) | Prohibition on use of assistance for employment relocation activities. |
 | [5306\.](%C2%A7%2005306%20-%20Allocation%20and%20distribution%20of%20funds.md) | Allocation and distribution of funds. |
 | (a) | Amounts allocated to Indian tribes, discretionary fund, and metropolitan cities and urban counties; limitations on amount of annual grants. |
 | (b) | Computation of amount allocated to metropolitan cities and urban counties. |
@@ -116,9 +117,8 @@
 | (c) | Criteria for awarding grants. |
 | (d) | Consultation with informal working group. |
 | (e) | Matching funds for participating organizations. |
-| (f) | Report to Congress. |
-| (g) | Authorization. |
-| (h) | Short title. |
+| (f) | Authorization. |
+| (g) | Short title. |
 | [5319\.](%C2%A7%2005319%20-%20Community%20participation%20in%20programs.md) | Community participation in programs. |
 | [5320\.](%C2%A7%2005320%20-%20Historic%20preservation%20requirements.md) | Historic preservation requirements. |
 | (a) | Regulations. |
@@ -130,7 +130,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437ff, 1439, 1440, 3013, 3533, 3535, 5133, 9816, 11505 of this title; title 12 sections 1464, 1701x, 1715z, 1715z–13, 1834a; title 40 App. section 214.
+This chapter is referred to in sections 1437d, 1437ff, 1439, 1440, 3013, 3533, 3535, 5133, 9816, 11505 of this title; title 12 sections 1464, 1701x, 1715z, 1715z–13, 1834a; title 40 App. section 214.
 
 
 ---

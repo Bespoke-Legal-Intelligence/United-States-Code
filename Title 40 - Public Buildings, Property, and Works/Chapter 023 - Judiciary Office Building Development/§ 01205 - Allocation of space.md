@@ -32,7 +32,7 @@
 
 #### (B) Space available to GSA
 
-&emsp;&emsp;In any case in which such additional space is provided from space in the building made available to the Administrator of GeneralServices, the space shall be vacated expeditiously by not later than a date mutually agreed upon by the Chief Justice and the Administrator of General Services.
+&emsp;&emsp;In any case in which such additional space is provided from space in the building made available to the Administrator of General Services, the space shall be vacated expeditiously by not later than a date mutually agreed upon by the Chief Justice and the Administrator of General Services.
 
 #### (C) Unoccupied space
 

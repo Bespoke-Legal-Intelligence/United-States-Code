@@ -8,7 +8,7 @@
 
 &emsp;(A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $4,000,000, but such term does not include an acquisition by exchange.
 
-&emsp;(B) The term “major medical facility lease” means a lease for space for use as a new medical facility at an average annual rental of more than $300,000.
+&emsp;(B) The term “major medical facility lease” means a lease for space for use as a new medical facility at an average annual rental of more than $600,000.
 
 (b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
@@ -40,9 +40,11 @@
 
 &emsp;(2) a period of 30 days has passed after the date on which the report is received by the committees.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350.)
 
 #### Amendments
+
+1998—Subsec. (a)(3)(B). Pub. L. 105–368 substituted “$600,000” for “$300,000”.
 
 1996—Subsec. (a)(3)(A). Pub. L. 104–262, §206(a), substituted “$4,000,000” for “$3,000,000”.
 
@@ -108,7 +110,7 @@ Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and 
 
 &emsp;“(1) no appropriation may be made for the construction, alteration, or acquisition (not including exchanges) of any medical facility which involves a total expenditure of more than $2,000,000 unless each committee has first adopted a resolution approving such construction, alteration, or acquisition and setting forth the estimated cost thereof; and
 
-&emsp;“(2) no appropriation may be made for the lease of any space for use as a medical facility at an averageannual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.”
+&emsp;“(2) no appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.”
 
 Subsec. (b)(1). Pub. L. 99–166, §303, inserted “and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase” after “such facility”.
 

@@ -106,9 +106,17 @@ Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is t
 
 #### Federal Employee Pay Adjustments
 
+1998—Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §621\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–518, provided that: “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1999 in the rates of basic pay for the statutory pay systems.”
+
+Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §647\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–527, provided that:
+
+“(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 1999 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.6 percent.
+
+“(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 1999.”
+
 1996—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §637\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, provided that: “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1997 in the rates of basic pay for the statutory pay systems.”
 
-1995—Pub. L. 104–52, title VI, §633, Nov. 19, 1995, 109 Stat. 507, provided that: “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1996 in the rates of basic pay for the statutory pay systems.”
+1995—Pub. L. 104–52, title VI, §633, Nov. 19, 1995, 109 Stat. 507, provided that: “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note),no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1996 in the rates of basic pay for the statutory pay systems.”
 
 1994—Pub. L. 103–329, title VI, §630(a), Sept. 30, 1994, 108 Stat. 2424, provided that:
 
@@ -202,7 +210,7 @@ Adjustments in Rates of Pay.—Notwithstanding any other provision of law (inclu
 
 &emsp;“(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 \[Pub. L. 100–202\]; (101 Stat. 1329–434; 5 U.S.C. 5305 note \[set out below\]);
 
-&emsp;“(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
+&emsp;“(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
 
 &emsp;“(C) the percentage increase that would take effect in fiscal year 1990 by the application of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) (as adjusted under subparagraphs (A) and (B) of this paragraph) without regard to subsection (b) of section 619 of the Treasury, Postal Service and General Government Appropriations Act, 1990 (Public Law 101–136) \[set out below\].
 
@@ -258,7 +266,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 &emsp;“(2) to a rate exceeding the rate of basic pay payable for level V of the Executive Schedule under such section 5316 as of September 30, 1987, if, as of that date, the rate of salary or basic pay payable for that office or position was less than the rate of basic pay then payable for such level V.
 
-“(b) For purposes of subsection (a), the rate of salary or basic pay payable as of September 30, 1987, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
+“(b) For purposes of subsection (a), the rate of salary or basic pay payable as of September 30, 1987, for any office or position which was not in existence on suchdate shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
 
 &emsp;“(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
 
@@ -378,5 +386,5 @@ whichever is greater; and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5304, 5304a, 5306, 5318, 5332, 5376, 5382, 5392 of this title; title 2 sections 31, 57a, 60a–1, 60a–1b, 60a–2, 60a–2a, 906; title 3 section 104; title 22 section 3963; title 28 section 461; title 31 section 325; title 42 section 254<i>l.</i>
+This section is referred to in sections 5304, 5304a, 5306, 5318, 5332, 5376, 5382, 5392 of this title; title 2 sections 31, 57a, 60a–1, 60a–1b, 60a–2, 60a–2a, 906; title 3 section 104; title 22 section 3963; title 28 section 461; title 31 section 325; title 37 section 1009; title 42 section 254<i>l.</i>
 

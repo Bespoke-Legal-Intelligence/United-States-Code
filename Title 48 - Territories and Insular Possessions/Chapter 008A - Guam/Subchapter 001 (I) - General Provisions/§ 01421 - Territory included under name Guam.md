@@ -8,6 +8,10 @@ The territory ceded to the United States in accordance with the provisions of th
 
 Section 34 of act Aug. 1, 1950, provided that on the 21st day of July 1950, the authority and powers conferred by this chapter would come into force, and authorized the President, for a period not to exceed one year from Aug. 1, 1950, to continue the administration of Guam in all or in some respects as provided by law, Executive order, or local regulation in force on Aug. 1, 1950. It further authorized the President in his discretion to place in operation all or some of the provisions of this chapter if practicable before the expiration of the period of one year.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–291, §1, Oct. 27, 1998, 112 Stat. 2785, provided that: “This Act \[amending sections 1421g, 1423a, and 1423b of this title\] may be cited as the ‘Guam Organic Act Amendments of 1998’.”
+
 #### Short Title of 1968 Amendments
 
 Pub. L. 90–601, §1, Oct. 17, 1968, 82 Stat. 1172, provided that: “This Act \[enacting sections 1428 to 1428e of this title\] may be cited as the ‘Guam Development Fund Act of 1968’.”

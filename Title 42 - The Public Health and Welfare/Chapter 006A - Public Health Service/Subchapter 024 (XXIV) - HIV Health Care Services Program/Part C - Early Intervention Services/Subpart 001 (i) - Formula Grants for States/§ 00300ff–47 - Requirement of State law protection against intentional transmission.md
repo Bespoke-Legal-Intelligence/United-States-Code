@@ -26,7 +26,7 @@ With respect to receiving a grant under section 300ff–41 of this title, if a S
 
 &emsp;(2) for fiscal year 1993 and subsequent fiscal years, the State has established such prohibitions.
 
-(July 1, 1944, ch. 373, title XXVI, §2647, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104Stat. 603; amended Nov. 3, 1990, Pub. L. 101–502, §6(c), 104 Stat. 1291; May 20, 1996, Pub. L. 104–146, §12(c)(4), 110 Stat. 1373.)
+(July 1, 1944, ch. 373, title XXVI, §2647, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 603; amended Pub. L. 101–502, §6(c), Nov. 3, 1990, 104 Stat. 1291; Pub. L. 104–146, §12(c)(4), May 20, 1996, 110 Stat. 1373.)
 
 #### Amendments
 

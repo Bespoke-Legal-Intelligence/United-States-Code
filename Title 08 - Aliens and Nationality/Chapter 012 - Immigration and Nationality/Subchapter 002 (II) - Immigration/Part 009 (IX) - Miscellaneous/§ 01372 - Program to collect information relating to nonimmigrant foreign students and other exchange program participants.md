@@ -34,7 +34,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (2) FERPA
 
-&emsp;The Family Educational Rights and Privacy Act of 1974 \[20 U.S.C. 1232g\] shall not apply to aliens described in subsection (a) of this section to the extent that the Attorney General determines necessary to carry out the program under subsection (a) of this section.
+&emsp;The Family Educational Rights and Privacy Act of 1974 \[20 U.S.C. 1232g\] shall not apply to aliens described in subsection (a) of this section to the extent that the Attorney Generaldetermines necessary to carry out the program under subsection (a) of this section.
 
 #### (3) Electronic collection
 

@@ -12,7 +12,7 @@ Considerations and Consultation.—When prescribing a motor vehicle safety stand
 
 &emsp;(2) consult with the agency established under the Act of August 20, 1958 (Public Law 85–684, 72 Stat. 635), and other appropriate State or interstate authorities (including legislative committees);
 
-&emsp;(3) consider whether a proposed standard is reasonable, practicable, and appropriate forthe particular type of motor vehicle or motor vehicle equipment for which it is prescribed; and
+&emsp;(3) consider whether a proposed standard is reasonable, practicable, and appropriate for the particular type of motor vehicle or motor vehicle equipment for which it is prescribed; and
 
 &emsp;(4) consider the extent to which the standard will carry out section 30101 of this title.
 
@@ -78,7 +78,7 @@ In subsection (b)(4), the words “contribute to” are omitted as surplus.
 
 In subsection (c), the words “departments, agencies, and instrumentalities of the United States Government, States, and other public and private agencies” are substituted for “other Federal departments and agencies, and State and other interested public and private agencies” for consistency. The words “planning and” are omitted as surplus.
 
-In subsection (d), the words “The Secretary” are added for clarity. The words “effective date” are substituted for “the date . . . is to take effect” to eliminate unnecessary words. The words “under this chapter” are added for clarity. The words “However, the Secretary may prescribe a different effective date” are substituted for “unless the Secretary” for clarity. The word “different” is substituted for “earlier or later” to eliminate unnecessary words.
+In subsection (d), the words “The Secretary” are added for clarity. The words “effective date” are substituted for “the date . . . is to take effect” to eliminate unnecessary words. The words “under this chapter” are added for clarity. The words “However, the Secretary may prescribe a different effective date” are substituted for “unless the Secretary” for clarity. Theword “different” is substituted for “earlier or later” to eliminate unnecessary words.
 
 In subsection (e), the words “duties and powers” are substituted for “responsibilities”, and the word “change” is substituted for “adjust”, and for clarity and consistency in the revised title.
 

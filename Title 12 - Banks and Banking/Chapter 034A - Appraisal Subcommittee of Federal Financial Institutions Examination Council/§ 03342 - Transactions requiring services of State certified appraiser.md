@@ -4,7 +4,7 @@ In determining whether an appraisal in connection with a federally related trans
 
 &emsp;(1) a State certified appraiser shall be required for all federally related transactions having a value of $1,000,000 or more; and
 
-&emsp;(2) 1-to-4 unit, single family residential appraisals may be performed by State licensedappraisers unless the size and complexity requires a State certified appraiser.
+&emsp;(2) 1-to-4 unit, single family residential appraisals may be performed by State licensed appraisers unless the size and complexity requires a State certified appraiser.
 
 (Pub. L. 101–73, title XI, §1113, Aug. 9, 1989, 103 Stat. 514.)
 

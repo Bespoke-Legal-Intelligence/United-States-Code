@@ -174,7 +174,7 @@ Pub. L. 89–586, as amended by Pub. L. 90–426, July 26, 1968, 82 Stat. 445, p
 
 #### Construction of 1990 Amendment
 
-Section 702(h)(2) of Pub. L. 102–237, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) ofthe Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted.”
+Section 702(h)(2) of Pub. L. 102–237, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

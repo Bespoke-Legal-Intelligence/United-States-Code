@@ -2,7 +2,7 @@
 
 #### Reimbursements Relating to Professional Liability Insurance
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, provided that:
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, title I, §101(h) \[title VI, §644\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526, provided that:
 
 “(a)
 
@@ -20,15 +20,15 @@ Qualified Employee.—For purposes of this section, the term ‘qualified employ
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘agency’ means an Executive agency, as defined by section 105 of title 5, United States Code, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
+&emsp;“(1) the term ‘agency’ means an Executive agency, as defined by section 105 of title 5, United States Code, any agency or court in the Judicial Branch, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
 
-&emsp;“(2) the term ‘law enforcement officer’ means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, or detention of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, or under section 4823 of title 22, United States Code;
+&emsp;“(2) the term ‘law enforcement officer’ means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, detention, or supervision of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, or under section 4823 of title 22, United States Code;
 
-&emsp;“(3) the terms ‘supervisor’ and ‘management official’ have the respective meanings given them by section 7103(a) of such title 5, and
+&emsp;“(3) the terms ‘supervisor’ and ‘management official’ have the respective meanings given them by section 7103(a) of such title 5, and, with regard to the Judicial Branch, mean a justice or judge of the United States as defined in 28 U.S.C. 451 in regular active service or retired from regular active service, other judicial officers as authorized by the Judicial Conference of the United States, and supervisors and managers within the Judicial Branch as authorized by the Judicial Conference of the United States, and
 
 &emsp;“(4) the term ‘professional liability insurance’ means insurance which provides coverage for—
 
-&emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or other damage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
+&emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or otherdamage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
 
 &emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while in the performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding.
 

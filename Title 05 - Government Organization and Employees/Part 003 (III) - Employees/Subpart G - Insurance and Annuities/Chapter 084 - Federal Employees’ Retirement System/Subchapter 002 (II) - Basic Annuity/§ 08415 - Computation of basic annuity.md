@@ -16,7 +16,7 @@
 
 &emsp;(A) the average pay of the employee, to the extent that it includes pay for service performed in any position on a part-time basis, shall be determined by using the annual rate of basic pay that would be payable for full-time service in the position; and
 
-&emsp;(B) the benefit so computed shall then be multiplied by a fraction equal to the ratio which the employee's actual service, as determined by prorating the employee's total service to reflect the service that was performed on a part-time basis, bears to the total service that would be creditable for the employee if all of the service had been performed on a full-time basis.
+&emsp;(B) the benefit so computed shall then be multiplied by a fraction equal to the ratio which the employee's actual service, as determined by prorating the employee's total service to reflect the service that was performedon a part-time basis, bears to the total service that would be creditable for the employee if all of the service had been performed on a full-time basis.
 
 (2) For the purpose of this subsection, employment on a part-time basis shall not be considered to include employment on a temporary or intermittent basis.
 
@@ -34,19 +34,25 @@
 
 &emsp;(B) at the time of the separation on which entitlement to the annuity is based, is at least 62 years of age and has completed at least 20 years of service;
 
-> but does not apply in the case of a Congressional employee, military reserve technician, law enforcement officer, firefighter, or air traffic controller.
+> but does not apply in the case of a Congressional employee, military reserve technician, law enforcement officer, firefighter, nuclear materials courier, or air traffic controller.
 
 (h) The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255.)
 
 #### Amendments
+
+1998—Subsec. (g)(2). Pub. L. 105–261 inserted “nuclear materials courier,” after “firefighter,” in concluding provisions.
 
 1997—Subsec. (h). Pub. L. 105–61 added subsec. (h).
 
 1994—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
 
 1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendment
 

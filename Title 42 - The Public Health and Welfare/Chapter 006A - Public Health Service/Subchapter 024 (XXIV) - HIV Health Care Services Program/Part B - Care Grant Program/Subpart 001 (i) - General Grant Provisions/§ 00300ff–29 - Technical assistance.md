@@ -2,7 +2,7 @@
 
 The Secretary shall provide technical assistance in administering and coordinating the activities authorized under section 300ff–22 of this title, including technical assistance for the development and implementation of statewide coordinated statements of need.
 
-(July 1, 1944, ch. 373, title XXVI, §2619, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 597; amended May 20, 1996, Pub. L. 104–146, §3(c)(6), 110 Stat. 1356.)
+(July 1, 1944, ch. 373, title XXVI, §2619, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 597; amended Pub. L. 104–146, §3(c)(6), May 20, 1996, 110 Stat. 1356.)
 
 #### Amendments
 

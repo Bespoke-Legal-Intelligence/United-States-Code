@@ -26,5 +26,5 @@ Pub. L. 104–106, div. C, title XXXI, §3159, Feb. 10, 1996, 110 Stat. 626, req
 
 #### “Congressional Defense Committees” Defined
 
-Congressional defense committees means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives, see section 3 of Pub. L. 104–201, 110 Stat. 2439.
+Congressional defense committees means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security (now Committee on Armed Services) and the Committee on Appropriations of the House of Representatives, see section 3 of Pub. L. 104–201, 110 Stat. 2439.
 

@@ -2,7 +2,7 @@
 
 Bulletins, reports, periodicals, reprints of articles, and other publications necessary for the dissemination of results of the researches and experiments, including lists of publications available for distribution by the experiment stations, shall be transmitted in the mails of the United States under penalty indicia: <i>Provided, however</i>, That each publication shall bear such indicia as are prescribed by the United States Postal Service and shall be mailed under such regulations as the United States Postal Service may from time to time prescribe. Such publications may be mailed from the principal place of business of the station or from an established subunit of said station.
 
-(Mar. 2, 1887, ch. 314, §6, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773.)
+(Mar. 2, 1887, ch. 314, §6, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773.)
 
 #### Codification
 

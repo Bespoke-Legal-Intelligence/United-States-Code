@@ -2,7 +2,7 @@
 
 #### (a) Disclosure required prior to disbursement
 
-Each institution of higher education, in order to carry out the provisions of section 1087cc(a)(8) of this title, shall, at or prior to the time such institution makes a loan to a student borrower which is made under this part, provide thorough and adequate loan information on such loan to the student borrower. Any disclosure required by this subsection may be made by an institution of higher education as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosures shall include—
+Each institution of higher education, in order to carry out the provisions of section 1087cc(a)(8) <sup>1</sup> of this title, shall, at or prior to the time such institution makes a loan to a student borrower which is made under this part, provide thorough and adequate loan information on such loan to the student borrower. Any disclosure required by this subsection may be made by an institution of higher education as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosures shall include—
 
 &emsp;(1) the name of the institution of higher education, and the address to which communications and payments should be sent;
 
@@ -58,6 +58,10 @@ Such information shall be available without cost to the borrower. The failure of
 
 (Pub. L. 89–329, title IV, §463A, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1446; amended Pub. L. 100–50, §13(g), (h), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(c), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(8), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 104–106, div. A, title XV, §1501(e)(4), Feb. 10, 1996, 110 Stat. 501.)
 
+#### References in Text
+
+Section 1087cc(a) of this title, referred to in subsec. (a), was amended by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724, which redesignated pars. (8) and (9) as (7) and (8), respectively.
+
 #### Prior Provisions
 
 A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L. 96–374, title IV, §447(b), Oct. 3, 1980, 94 Stat. 1443; amended Pub. L. 97–301, §13, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §3(b), Aug. 15, 1983, 97 Stat. 478; Pub. L. 99–272, title XVI, §16027, Apr. 7, 1986, 100 Stat. 353, related to student loan information to be provided by institutions, prior to the general revision of this part by Pub. L. 99–498.
@@ -90,7 +94,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -103,4 +107,6 @@ Section applicable only to loans made for periods of enrollment beginning on or 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1087cc of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

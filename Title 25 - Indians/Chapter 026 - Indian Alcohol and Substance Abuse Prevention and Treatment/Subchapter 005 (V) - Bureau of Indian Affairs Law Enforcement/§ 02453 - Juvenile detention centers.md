@@ -10,7 +10,7 @@ The Secretary of the Interior shall construct or renovate and staff new or exist
 
 (2) For the purpose of staffing and operating juvenile detention centers, there are authorized to be appropriated $7,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
-(Pub. L. 99–570, title IV, §4220, Oct. 27, 1986, 100 Stat. 3207–147; Pub. L. 100–690, title II, §2211, Nov. 18, 1988, 102 Stat. 4219; Pub. L. 102–573, title VII, §703(10), Oct. 29, 1992, 106 Stat. 4584.)
+(Pub. L. 99–570, title IV, §4220, Oct. 27, 1986, 100 Stat. 3207–147; Pub. L. 100–690, title II, §2211,Nov. 18, 1988, 102 Stat. 4219; Pub. L. 102–573, title VII, §703(10), Oct. 29, 1992, 106 Stat. 4584.)
 
 #### References in Text
 

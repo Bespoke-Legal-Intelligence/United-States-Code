@@ -42,7 +42,7 @@ The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set outas a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -96,9 +96,7 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under subsecs. (a), (d)(1), and (h), to the extent they relate to other functions under this chapter administered by Department of Defense, delegated to Secretary of Defense, by section 1–301(b) of Ex. Ord. No. 12163.
+Functions of President under subsecs. (a), (d)(1), and (h), to the extent they relate to other functions underthis chapter administered by Department of Defense, delegated to Secretary of Defense, by section 1–301(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 Function of prescribing regulations conferred upon President by proviso contained in subsec. (b) delegated to Director of Office of Personnel Management by section 1–503 of Ex. Ord. No. 12163.
 
@@ -107,10 +105,6 @@ Functions of President under subsec. (d), insofar as they relate to personnel in
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Authority of Director of United States International Development Cooperation Agency
-
-In carrying out functions of President under subsec. (d), and delegated to the Director of United States International Development Cooperation Agency (see Delegation of Functions note above), the Director shall authorize such agencies that administer programs under this chapter as he may deem appropriate to perform any of the functions under subsec. (d) to the extent that said functions relate to the programs administered by the respective agencies, see section 1–602(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 
 #### Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months
 

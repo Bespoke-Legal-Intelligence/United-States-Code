@@ -106,7 +106,7 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 &emsp;&emsp;(D) the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 112 to 114a–1, 115, 117–119, and 130) (commonly known as the “Animal Industry Act”);
 
-&emsp;&emsp;(E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, and 114d–1);
+&emsp;&emsp;(E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, \[114d,\] and 114d–1);
 
 &emsp;&emsp;(F) the Act of June 16, 1948 (62 Stat. 458, chapter 477; 21 U.S.C. 114e and 114f);
 

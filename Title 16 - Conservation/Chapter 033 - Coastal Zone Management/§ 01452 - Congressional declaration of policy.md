@@ -2,7 +2,7 @@
 
 The Congress finds and declares that it is the national policy—
 
-&emsp;(1) to preserve, protect, develop, and where possible, to restore or enhance, the resources of the Nation's coastal zone for this and succeeding generations;
+&emsp;(1) to preserve, protect, develop, and where possible, to restore or enhance, the resourcesof the Nation's coastal zone for this and succeeding generations;
 
 &emsp;(2) to encourage and assist the states to exercise effectively their responsibilities in the coastal zone through the development and implementation of management programs to achieve wise use of the land and water resources of the coastal zone, giving full consideration to ecological, cultural, historic, and esthetic values as well as the needs for compatible economic development, which programs should at least provide for—
 

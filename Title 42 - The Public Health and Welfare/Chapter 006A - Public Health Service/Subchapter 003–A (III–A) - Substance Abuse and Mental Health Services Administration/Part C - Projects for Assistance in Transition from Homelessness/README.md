@@ -1,9 +1,5 @@
 Part C—Projects for Assistance in Transition From Homelessness
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 11465 of this title.
-
 
 ---
 

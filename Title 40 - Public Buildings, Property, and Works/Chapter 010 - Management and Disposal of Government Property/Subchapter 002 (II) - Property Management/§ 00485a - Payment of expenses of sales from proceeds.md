@@ -12,7 +12,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in tex
 
 Section was a provision of the Deficiency Appropriation Act for the fiscal year 1896.
 
-Section was formerly classified to section 489 of Title 31 prior to the general revision and enactment of Title31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 489 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 

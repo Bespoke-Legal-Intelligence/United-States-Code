@@ -4,7 +4,7 @@ No part of the money appropriated by any enactment of Congress shall, in the abs
 
 Whoever, being an officer or employee of the United States or of any department or agency thereof, violates or attempts to violate this section, shall be fined under this title or imprisoned not more than one year, or both; and after notice and hearing by the superior officer vested with the power of removing him, shall be removed from office or employment.
 
-(June 25, 1948, ch. 645, 62 Stat. 792; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

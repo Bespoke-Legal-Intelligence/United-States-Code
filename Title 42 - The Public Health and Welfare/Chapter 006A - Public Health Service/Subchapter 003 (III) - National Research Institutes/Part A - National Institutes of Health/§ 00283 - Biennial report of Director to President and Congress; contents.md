@@ -14,7 +14,7 @@ The Secretary shall transmit to the President and to the Congress a biennial rep
 
 > The first report under this section shall be submitted not later than July 1, 1986, and shall relate to the fiscal year ending September 30, 1985. The next report shall be submitted not later than December 30, 1988, and shall relate to the two-fiscal-year period ending on the preceding September 30. Each subsequent report shall be submitted not later than 90 days after the end of the two-fiscal-year period for which the report is to be submitted.
 
-(July 1, 1944, ch. 373, title IV, §403, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 826; amended Nov. 4, 1988, Pub. L. 100–607, title I, §112, 102 Stat. 3052.)
+(July 1, 1944, ch. 373, title IV, §403, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §112, Nov. 4, 1988, 102 Stat. 3052.)
 
 #### Amendments
 
@@ -28,5 +28,5 @@ National Center for Nursing Research changed to National Institute of Nursing Re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 283e, 283g, 284b, 285g–4, 285q–3, 287a–1, 287d, 287d–2, 289a–2 of this title.
+This section is referred to in sections 283e, 284b, 285g–4, 285q–3, 287a–1, 287d, 287d–2, 289a–2 of this title.
 

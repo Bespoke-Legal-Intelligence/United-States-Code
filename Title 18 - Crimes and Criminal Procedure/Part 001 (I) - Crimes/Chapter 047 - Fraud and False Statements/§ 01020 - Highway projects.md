@@ -8,7 +8,7 @@ Whoever knowingly makes any false statement or false representation as to a mate
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 753; Oct. 31, 1951, ch. 655, §27, 65 Stat. 721; May 6, 1954, ch. 181, §18, 68 Stat. 76; Oct. 15, 1966, Pub. L. 89–670, §10(f), 80 Stat. 948; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 753; Oct. 31, 1951, ch. 655, §27, 65 Stat. 721; May 6, 1954, ch. 181, §18, 68 Stat. 76; Pub. L. 89–670, §10(f), Oct. 15, 1966, 80 Stat. 948; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

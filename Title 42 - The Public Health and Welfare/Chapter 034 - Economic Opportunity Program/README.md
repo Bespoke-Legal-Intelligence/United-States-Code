@@ -11,7 +11,7 @@
 
 #### SUBCHAPTER I—RESEARCH AND DEMONSTRATIONS
 
-#### Part A—Research, Demonstration, and Pilot Projects
+#### Part A—Research, Demonstration, and Pilot Proects
 
 |  |
 | :--- |
@@ -37,19 +37,20 @@
 | (c) | “Community services” defined. |
 | [2752\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002752%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
 | (a) | Allocation based on previous allocation. |
-| (b) | Allocation of excess based on pro rata share. |
-| (c) | Allocation of excess based on share of excess eligible amounts. |
-| (d) | Determination of institution's need. |
-| (e) | Reallocation of excess allocations. |
-| (f) | Filing deadlines. |
+| (b) | Allocation of excess based on share of excess eligible amounts. |
+| (c) | Determination of institution's need. |
+| (d) | Reallocation of excess allocations. |
+| (e) | Filing deadlines. |
 | [2753\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002753%20-%20Grants%20for%20Federal%20work-study%20programs.md) | Grants for Federal work-study programs. |
 | (a) | Agreements required. |
 | (b) | Contents of agreements. |
 | (c) | Private sector employment agreement. |
+| (d) | Tutoring and literacy activities. |
 | [2754\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002754%20-%20Sources%20of%20matching%20funds.md) | Sources of matching funds. |
 | [2755\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002755%20-%20Flexible%20use%20of%20funds.md) | Flexible use of funds. |
 | (a) | Carry-over authority. |
 | (b) | Carry-back authority. |
+| (c) | Flexible use of funds. |
 | [2756\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Demonstrations/Part%20C%20-%20Federal%20Work-Study%20Programs/%C2%A7%2002756%20-%20Job%20location%20and%20development%20programs.md) | Job location and development programs. |
 | (a) | Agreements required. |
 | (b) | Contents of agreements. |
@@ -281,8 +282,8 @@
 | (c) | Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas. |
 | (d) | Grants to improve tribal regulation of environmental quality |
 | 2991b–1. | Loan fund; demonstration project. |
-| (a) | Grants to Hawaiian agency or organization to establish revolving loan fund; purposes of fund; administrative costs; matching funds. |
-| (b) | Loans to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending. |
+| (a) | Grant to Office of Hawaiian Affairs to establish revolving loan fund; purposes of fund; administrative costs; matching funds. |
+| (b) | Loans or loan guarantees to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending. |
 | (c) | Notice to Commissioner of loans in default and uncollectability of such loans; instructions by Commissioner. |
 | (d) | Payment of administrative costs; management and technical assistance. |
 | (e) | Regulations. |
@@ -413,7 +414,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter referred to in sections 3131, 3141, 6861, 8624, 9902, 9912 of this title; title 2 section 452; title 5 section 8332; title 12 section 1766; title 38 section 4213.
+This chapter is referred to in sections 6861, 8624, 9902, 9912 of this title; title 2 section 452; title 5 section 8332; title 12 section 1766; title 38 section 4213.
 
 
 ---

@@ -22,7 +22,7 @@ In awarding grants and entering into contracts under subsection (a) of this sect
 
 #### (d) Application
 
-To be eligible to receive a grant or enter into a contract under subsection (a) of this section,an organization shall submit an application to the Assistant Secretary at such time, in such manner, and accompanied by such information as the Assistant Secretary may reasonably require.
+To be eligible to receive a grant or enter into a contract under subsection (a) of this section, an organization shall submit an application to the Assistant Secretary at such time, in such manner, and accompanied by such information as the Assistant Secretary may reasonably require.
 
 #### (e) Eligible organizations
 

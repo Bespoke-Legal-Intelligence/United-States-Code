@@ -52,5 +52,5 @@ Ex. Ord. No. 10014, Nov. 3, 1948, 13 F.R. 6601, which related to the cooperation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1252a, 1375 of this title.
+This section is referred to in section 1252a of this title.
 

@@ -32,7 +32,7 @@ The President may authorize the Commission or the Department of Defense, with th
 
 > whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomic weapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
 
-(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended July 2, 1958, Pub. L. 85–479, §1, 72 Stat. 276; Nov. 29, 1989, Pub. L. 101–189, div. C, title XXXI, §3157, 103 Stat. 1684; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989,103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -51,6 +51,74 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 #### Delegation of Functions
 
 Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
+
+#### Report on Stockpile Stewardship Criteria
+
+Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, provided that:
+
+“(a)
+
+Requirement for Criteria.—The Secretary of Energy shall develop clear and specific criteria for judging whether the science-based tools being used by the Department of Energy for determining the safety and reliability of the nuclear weapons stockpile are performing in a manner that will provide an adequate degree of certainty that the stockpile is safe and reliable.
+
+“(b)
+
+Coordination With Secretary of Defense.—The Secretary of Energy, in developing the criteria required by subsection (a), shall coordinate with the Secretary of Defense.
+
+“(c)
+
+Report.—Not later than March 1, 2000, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the efforts by the Department of Energy to develop the criteria required by subsection (a). The report shall include—
+
+&emsp;“(1) a description of the information needed to determine that the nuclear weapons stockpile is safe and reliable and the relationship of the science-based tools to the collection of that information; and
+
+&emsp;“(2) a description of the criteria required by subsection (a) to the extent they have been developed as of the date of the submission of the report.”
+
+#### Panel To Assess the Reliability, Safety, and Security of the United States Nuclear Stockpile
+
+Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, provided that:
+
+“(a)
+
+Requirement for Panel.—The Secretary of Defense, in consultation with the Secretary of Energy, shall enter into a contract with a federally funded research and development center to establish a panel for the assessment of the certification process for the reliability, safety, and security of the United States nuclear stockpile.
+
+“(b)
+
+Composition and Administration of Panel.—(1) The panel shall consist of private citizens of the United States with knowledge and expertise in the technical aspects of design, manufacture, and maintenance of nuclear weapons.
+
+“(2) The federally funded research and development center shall be responsible for establishing appropriate procedures for the panel, including selection of a panel chairman.
+
+“(c)
+
+Duties of Panel.—Each year the panel shall review and assess the following:
+
+&emsp;“(1) The annual certification process, including the conclusions and recommendations resulting from the process, for the safety, security, and reliability of the nuclear weapons stockpile of the United States, as carried out by the directors of the national weapons laboratories.
+
+&emsp;“(2) The long-term adequacy of the process of certifying the safety, security, and reliability of the nuclear weapons stockpile of the United States.
+
+&emsp;“(3) The adequacy of the criteria established by the Secretary of Energy pursuant to section 3158 \[set out as a note above\] for achieving the purposes for which those criteria are established.
+
+“(d)
+
+Report.—Not later than October 1 of each year, beginning with 1999, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report setting forth its findings and conclusions resulting from the review and assessment carried out for the year covered by the report. The report shall be submitted in classified and unclassified form.
+
+“(e)
+
+Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy, the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
+
+“(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, the Pantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1).
+
+“(3) The Secretary of Energy and the Secretary of Defense shall each designate at least one officer or employee of the Department of Energy and the Department of Defense, respectively, to serve as a liaison officer between the department and the panel.
+
+“(f)
+
+Funding.—The Secretary of Defense and the Secretary of Energy shall each contribute 50 percent of the amount of funds that are necessary for the panel to carry out its duties. Funds available for the Department of Energy for atomic energy defense activities shall be available for the Department of Energy contribution.
+
+“(g)
+
+Termination of Panel.—The panel shall terminate three years after the date of the appointment of the member designated as chairman of the panel.
+
+“(h)
+
+Initial Implementation.—The Secretary of Defense shall enter into the contract required under subsection (a) not later than 60 days after the date of the enactment of this Act \[Oct. 17, 1998\]. The panel shall convene its first meeting not later than 30 days after the date as of which all members of the panel have been appointed.”
 
 #### Commission on Maintaining United States Nuclear Weapons Expertise
 
@@ -162,7 +230,7 @@ Cost-Benefit Analysis.—(1) The Secretary shall include in the statements refer
 
 “(e)
 
-Report.—Not later than 45 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the tritium production program established pursuant to subsection (a). The report shall include a specification of—
+Report.—Not later than 45 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretaryshall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the tritium production program established pursuant to subsection (a). The report shall include a specification of—
 
 &emsp;“(1) the planned expenditures of the Department during fiscal year 1996 for any of the alternative means for tritium production assessed under subsection (a)(2);
 
@@ -334,29 +402,7 @@ Definition.—In this section, the term ‘low-yield nuclear weapon’ means a n
 
 #### Stockpile Stewardship Program
 
-Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, provided that:
-
-“(a)
-
-Findings.—Congress makes the following findings:
-
-&emsp;“(1) Eliminating the threat posed by nuclear weapons to the United States is an important national security goal.
-
-&emsp;“(2) As long as nuclear threats remain, the nuclear deterrent of the United States must be effective and reliable.
-
-&emsp;“(3) A safe, secure, effective, and reliable United States nuclear stockpile is central to the current nuclear deterrence strategy of the United States.
-
-&emsp;“(4) The Secretary of Energy has undertaken a stockpile stewardship and management program to ensure the safety, security, effectiveness, and reliability of the nuclear weapons stockpile of the United States, consistent with all United States treaty requirements and the requirements of the nuclear deterrence strategy of the United States.
-
-&emsp;“(5) It is the policy of the current administration that new nuclear warhead designs are not required to effectively implement the nuclear deterrence strategy of the United States.
-
-“(b)
-
-Policy.—It is the policy of the United States that—
-
-&emsp;“(1) activities of the stockpile stewardship program shall be directed toward ensuring that the United States possesses a safe, secure, effective, and reliable nuclear stockpile, consistent with the national security requirements of the United States; and
-
-&emsp;“(2) stockpile stewardship activities of the United States shall be conducted in conformity with the terms of the Treaty on the Non-Proliferation of Nuclear Weapons and the Comprehensive Test Ban Treaty signed by the President on September 24, 1996, when and if that treaty enters into force.”
+Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, expressed findings of Congress and policy of United States about the direction and conduct of the stockpile stewardship program, prior to repeal by Pub. L. 105–261, div. C, title XXXI, §3157, Oct. 17, 1998, 112 Stat. 2257.
 
 Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042, provided that:
 
@@ -410,7 +456,7 @@ In General.—Of the funds authorized to be appropriated under section 3101(a)(2
 
 “(b)
 
-Atmospheric Testing of Nuclear Weapons.—None of the funds appropriated pursuant to this Act or any other Act for any fiscal year may be available tomaintain the capability of the United States to conduct atmospheric testing of a nuclear weapon.”
+Atmospheric Testing of Nuclear Weapons.—None of the funds appropriated pursuant to this Act or any other Act for any fiscal year may be available to maintain the capability of the United States to conduct atmospheric testing of a nuclear weapon.”
 
 Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
@@ -430,7 +476,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 &emsp;“(2) only if the test is conducted during the period covered by the report.
 
-“(d)(1) Not later than March 1, of each year beginning after 1992, the President shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives \[Committee on Armed Services of House of Representatives now Committee on National Security\], in classified and unclassified forms, a report containing the following matters:
+“(d)(1) Not later than March 1, of each year beginning after 1992, the President shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, in classified and unclassified forms, a report containing the following matters:
 
 &emsp;“(A) A schedule for resumption of the Nuclear Testing Talks with Russia.
 
@@ -490,13 +536,13 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 #### Nuclear Test Ban Readiness Program
 
-Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, provided that:
+Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, titleXXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, provided that:
 
 “(a)
 
 Findings.—The Congress makes the following findings:
 
-&emsp;“(1) On September 17, 1987, the United States and the Soviet Union announced that they would resume full-scale, stage-by-stage negotiations on issues relating to nuclear testing, including further intermediatelimitations on nuclear testing leading to the ultimate objective of a comprehensive nuclear test ban.
+&emsp;“(1) On September 17, 1987, the United States and the Soviet Union announced that they would resume full-scale, stage-by-stage negotiations on issues relating to nuclear testing, including further intermediate limitations on nuclear testing leading to the ultimate objective of a comprehensive nuclear test ban.
 
 &emsp;“(2) It was agreed that the first step in these negotiations would be to reach agreement on verification measures that will make possible the ratification of the Threshold Test Ban Treaty of 1974 and the Peaceful Nuclear Explosions Treaty of 1976.
 
@@ -524,5 +570,5 @@ Conduct of Program.—The Secretary of Energy shall carry out the program provid
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2014, 2122, 2131, 2140, 2153, 2153a, 2153f, 2159, 2160, 2286d, 2297b–2 of this title.
+This section is referred to in sections 2014, 2122, 2131, 2140, 2153, 2153a, 2153f, 2159, 2160, 2286d of this title.
 

@@ -10,9 +10,9 @@ All patents granted, or preemption or homesteads allowed, shall be subject to an
 
 <i>Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, provided that effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System this section is amended to read as follows:</i>
 
-<i>“Whenever, by priority of possession, rights to the use of water for mining, agricultural, manufacturing, or other purposes, have vested and accrued, and the same are recognized and acknowledged by the local customs, laws, and the decisions of courts, the possessors and owners of such vested rights shall be maintained and protected in the same.</i>
+Whenever, by priority of possession, rights to the use of water for mining, agricultural, manufacturing, or other purposes, have vested and accrued, and the same are recognized and acknowledged by the local customs, laws, and the decisions of courts, the possessors and owners of such vested rights shall be maintained and protected in the same.
 
-<i>“All patents granted, or preemption or homesteads allowed, shall be subject to any vested and accrued water rights as may have been acquired under or recognized by this section.”</i>
+All patents granted, or preemption or homesteads allowed, shall be subject to any vested and accrued water rights as may have been acquired under or recognized by this section.
 
 #### Codification
 

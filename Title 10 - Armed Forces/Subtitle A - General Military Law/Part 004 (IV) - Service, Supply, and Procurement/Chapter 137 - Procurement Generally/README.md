@@ -6,12 +6,7 @@
 | [2302\.](%C2%A7%2002302%20-%20Definitions.md) | Definitions. |
 | [2302a.](%C2%A7%2002302a%20-%20Simplified%20acquisition%20threshold.md) | Simplified acquisition threshold. |
 | [2302b.](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md) | Implementation of simplified acquisition procedures. |
-| [2302c.](%C2%A7%2002302c%20-%20Implementation%20of%20electronic%20commerce%20capability.md) | Implementation of FACNET capability.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2302c.](%C2%A7%2002302c%20-%20Implementation%20of%20electronic%20commerce%20capability.md) | Implementation of electronic commerce capability. |
 | [2302d.](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md) | Major system: definitional threshold amounts. |
 | [2303\.](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md) | Applicability of chapter. |
 | \[2303a. | Repealed.\] |
@@ -55,6 +50,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title X, §1069(a)(3), Oct. 17, 1998, 112 Stat. 2135, substituted “electronic commerce capability” for “FACNET capability” in item 2302c.
 
 1997—Pub. L. 105–85, div. A, title VIII, §804(a)(2), title X, §1073(a)(48)(B), Nov. 18, 1997, 111 Stat. 1833, 1903, substituted “contracts: acquisition of property” for “contracts” in item 2306b and added item 2325.
 
@@ -111,8 +108,6 @@ Particular provisions relating to Navy procurement, see section 7521 et seq. of 
 This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 section 13556.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 105–85 without corresponding amendment of chapter analysis.</i>
 
 
 ---

@@ -82,7 +82,7 @@ Subsec. (d)(6). Pub. L. 87–192, §2, redesignated second sentence of former pa
 
 Subsec. (d)(7), (8). Pub. L. 87–192, §2, added pars. (7) and (8).
 
-Subsec. (d)(9). Pub. L. 87–192, §2, redesignated former par. (3) as (9) and made it applicable to each panel ofthe Commission, each employee board instead of each board, and each individual employee.
+Subsec. (d)(9). Pub. L. 87–192, §2, redesignated former par. (3) as (9) and made it applicable to each panel of the Commission, each employee board instead of each board, and each individual employee.
 
 1952—Act July 16, 1952, amended section generally to provide for the organization of the staff, integrated bureaus, and for a review staff.
 

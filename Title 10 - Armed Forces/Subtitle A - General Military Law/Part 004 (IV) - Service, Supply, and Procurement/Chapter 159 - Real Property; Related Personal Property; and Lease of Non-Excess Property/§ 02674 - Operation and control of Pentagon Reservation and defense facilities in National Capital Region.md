@@ -38,7 +38,7 @@
 
 #### Prior Provisions
 
-A prior section 2674, added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, §112(b), Sept. 7, 1962, 76 Stat. 511; Pub. L. 88–174, title VI, §608, Nov. 7, 1963, 77 Stat. 328; Pub. L. 89–188, title VI, §613, Sept. 16, 1965, 79 Stat. 819; Pub. L. 89–568, title VI, §608, Sept. 12, 1966, 80 Stat. 756; Pub. L. 91–511, title VI, §607(2)–(4), Oct. 26, 1970, 84 Stat. 1224; Pub. L. 92–145, title VII, §707(1), Oct. 27, 1971, 85 Stat. 411; Pub. L. 93–166, title VI, §608(1), Nov. 29, 1973, 87 Stat. 682; Pub. L. 94–107, title VI, §607(2)–(4), Oct. 7, 1975, 89 Stat. 566; Pub. L. 95–82, title VI, §608(a), Aug. 1, 1977, 91 Stat. 377; Pub. L. 95–356, title VI, §603(h)(1), Sept. 8, 1978, 92 Stat. 582; Pub. L. 96–125, title VIII, §801, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title IX, §907, Dec. 23, 1981, 95 Stat. 1385, related to minor construction projects, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2805 of this title.
+A prior section 2674, added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I,§112(b), Sept. 7, 1962, 76 Stat. 511; Pub. L. 88–174, title VI, §608, Nov. 7, 1963, 77 Stat. 328; Pub. L. 89–188, title VI, §613, Sept. 16, 1965, 79 Stat. 819; Pub. L. 89–568, title VI, §608, Sept. 12, 1966, 80 Stat. 756; Pub. L. 91–511, title VI, §607(2)–(4), Oct. 26, 1970, 84 Stat. 1224; Pub. L. 92–145, title VII, §707(1), Oct. 27, 1971, 85 Stat. 411; Pub. L. 93–166, title VI, §608(1), Nov. 29, 1973, 87 Stat. 682; Pub. L. 94–107, title VI, §607(2)–(4), Oct. 7, 1975, 89 Stat. 566; Pub. L. 95–82, title VI, §608(a), Aug. 1, 1977, 91 Stat. 377; Pub. L. 95–356, title VI, §603(h)(1), Sept. 8, 1978, 92 Stat. 582; Pub. L. 96–125, title VIII, §801, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title IX, §907, Dec. 23, 1981, 95 Stat. 1385, related to minor construction projects, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2805 of this title.
 
 #### Amendments
 
@@ -53,4 +53,8 @@ Subsec. (b). Pub. L. 104–201, §369(a), substituted “in the National Capital
 1991—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
 
 Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

@@ -48,6 +48,12 @@
 | (d) | Recruitment and employment of resident aliens. |
 | 278g–1. | Research fellowships and other financial assistance to students at institutes of higher education. |
 | 278g–2. | Post-doctoral fellowship program. |
+| 278g–2a. | Teacher science and technology enhancement Institute program. |
+| (a) | Establishment. |
+| (b) | Areas of focus. |
+| (c) | Procedures and selection criteria. |
+| (d) | Scheduling. |
+| (e) | Means of accomplishing goals. |
 | 278g–3. | Computer standards program. |
 | (a) | Development of standards, guidelines, methods, and techniques for computer systems. |
 | (b) | Technical assistance and implementation of standards developed. |
@@ -83,6 +89,9 @@
 | (i) | Acceptance of funds from other Federal departments and agencies. |
 | (j) | Definitions. |
 | 278<i>o.</i> | User fees. |
+| [278p.](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md) | Notice to Congress. |
+| (a) | Notice of reprogramming. |
+| (b) | Notice of reorganization. |
 | [279\.](%C2%A7%2000279%20-%20Absence%20of%20Director.md) | Absence of Director. |
 | 280, 281. | Repealed. |
 | [281a.](%C2%A7%2000281a%20-%20Structural%20failures.md) | Structural failures. |
@@ -123,6 +132,7 @@ This chapter is referred to in section 290d of this title.
 - [&sect; 00278g - International activities](%C2%A7%2000278g%20-%20International%20activities.md)
 - [&sect; 00278g&#8211;1 - Research fellowships and other financial assistance to students at institutes of higher education](%C2%A7%2000278g%E2%80%931%20-%20Research%20fellowships%20and%20other%20financial%20assistance%20to%20students%20at%20institutes%20of%20higher%20education.md)
 - [&sect; 00278g&#8211;2 - Post-doctoral fellowship program](%C2%A7%2000278g%E2%80%932%20-%20Post-doctoral%20fellowship%20program.md)
+- [&sect; 00278g&#8211;2a - Teacher science and technology enhancement Institute program](%C2%A7%2000278g%E2%80%932a%20-%20Teacher%20science%20and%20technology%20enhancement%20Institute%20program.md)
 - [&sect; 00278g&#8211;3 - Computer standards program](%C2%A7%2000278g%E2%80%933%20-%20Computer%20standards%20program.md)
 - [&sect; 00278g&#8211;4 - Computer System Security and Privacy Advisory Board](%C2%A7%2000278g%E2%80%934%20-%20Computer%20System%20Security%20and%20Privacy%20Advisory%20Board.md)
 - [&sect; 00278h - Appropriations; availability](%C2%A7%2000278h%20-%20Appropriations%3B%20availability.md)
@@ -133,6 +143,7 @@ This chapter is referred to in section 290d of this title.
 - [&sect; 00278m - Non-energy inventions program](%C2%A7%2000278m%20-%20Non-energy%20inventions%20program.md)
 - [&sect; 00278n - Advanced Technology Program](%C2%A7%2000278n%20-%20Advanced%20Technology%20Program.md)
 - [&sect; 00278o - User fees](%C2%A7%2000278o%20-%20User%20fees.md)
+- [&sect; 00278p - Notice to Congress](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md)
 - [&sect; 00279 - Absence of Director](%C2%A7%2000279%20-%20Absence%20of%20Director.md)
 - [&sect; 00280, 281 - Repealed. Pub. L. 100&#8211;418, title V, &sect;5113, Aug. 23, 1988, 102 Stat. 1432](%C2%A7%2000280%2C%20281%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20V%2C%20%C2%A75113%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201432.md)
 - [&sect; 00281a - Structural failures](%C2%A7%2000281a%20-%20Structural%20failures.md)

@@ -34,6 +34,14 @@ If a Federal agency has a child care facility in its space, or is a sponsoring a
 
 Section was not enacted as part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
 
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in the following appropriation acts:
+
+Pub. L. 99–500, §101(m) \[title VI, §616\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–331, and Pub. L. 99–591, §101(m) \[title VI, §616\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–331.
+
+Pub. L. 99–190, §139, Dec. 19, 1985, 99 Stat. 1323.
+
 #### Amendments
 
 1992—Subsec. (a)(2). Pub. L. 102–393, §528(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “such officer or agency determines that such space will be used to provide child care services to a group of individuals of whom at least 50 percent are Federal employees; and”.
@@ -46,13 +54,27 @@ Subsec. (b)(4). Pub. L. 102–393, §528(3), redesignated par. (3) as (4).
 
 Subsecs. (c), (d). Pub. L. 102–393, §528(4), added subsecs. (c) and (d).
 
-#### Prior Provisions
+#### Reimbursement of Child-Care Providers for Certain Travel, Transportation, and Subsistence Expenses
 
-Provisions similar to those in this section were contained in the following appropriation acts:
+Pub. L. 105–277, div. A, §101(h) \[title VI, §603\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–513, provided that: “Notwithstanding 31 U.S.C. 1345, any agency, department, or instrumentality of the United States which provides or proposes to provide child care services for Federal employees may, in fiscal year 1999 and thereafter, reimburse any Federal employee or any person employed to provide such services for travel, transportation, and subsistence expenses incurred for training classes, conferences, or other meetings in connection with the provision of such services: <i>Provided</i>, That any per diem allowance made pursuant to this section shall not exceed the rate specified in regulations prescribed pursuant to section 5707 of title 5, United States Code.”
 
-Pub. L. 99–500, §101(m) \[title VI, §616\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–331, and Pub. L. 99–591, §101(m) \[title VI, §616\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–331.
+Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 99–190, §139, Dec. 19, 1985, 99 Stat. 1323.
+Pub. L. 105–61, title VI, §603, Oct. 10, 1997, 111 Stat. 1308.
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–353.
+
+Pub. L. 104–52, title VI, §603, Nov. 19, 1995, 109 Stat. 497.
+
+Pub. L. 103–329, title VI, §603, Sept. 30, 1994, 108 Stat. 2416.
+
+Pub. L. 103–123, title VI, §603, Oct. 28, 1993, 107 Stat. 1259.
+
+Pub. L. 102–393, title VI, §604, Oct. 6, 1992, 106 Stat. 1766.
+
+Pub. L. 102–141, title VI, §604, Oct. 28, 1991, 105 Stat. 868.
+
+Pub. L. 101–509, title VI, §625, Nov. 5, 1990, 104 Stat. 1476.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Subject to regulations of the President, dependent members of families (as defin
 
 #### (c) Identification
 
-The National Oceanic and Atmospheric Administration shall furnish proper identificationto those persons entitled to medical treatment under the provisions of this section.
+The National Oceanic and Atmospheric Administration shall furnish proper identification to those persons entitled to medical treatment under the provisions of this section.
 
 (Pub. L. 88–71, §1, July 19, 1963, 77 Stat. 83; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 98–498, title III, §310(b), (c), Oct. 19, 1984, 98 Stat. 2306, 2307.)
 

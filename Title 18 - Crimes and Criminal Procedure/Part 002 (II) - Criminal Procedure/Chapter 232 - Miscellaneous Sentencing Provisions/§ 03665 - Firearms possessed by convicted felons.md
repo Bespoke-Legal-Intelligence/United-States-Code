@@ -4,7 +4,7 @@ A judgment of conviction for transporting a stolen motor vehicle in interstate o
 
 The court may direct the delivery of such firearms or ammunition to the law-enforcement agency which apprehended such person, for its use or for any other disposition in its discretion.
 
-(June 25, 1948, ch. 645, 62 Stat. 839, §3611; renumbered §3665, Oct. 12, 1984, Pub. L. 98–473, title II, §212(a)(1), 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 839, §3611; renumbered §3665, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 #### Historical and Revision Notes
 

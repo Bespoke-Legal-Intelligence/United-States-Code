@@ -2,7 +2,7 @@
 
 In this chapter, the term “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or by disallowance.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §1231(19)(B), 101 Stat. 1161.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270; Pub. L. 100–180, div. A, title XII, §1231(19)(B), Dec. 4, 1987, 101 Stat. 1161.)
 
 Historical and Revision Notes
 

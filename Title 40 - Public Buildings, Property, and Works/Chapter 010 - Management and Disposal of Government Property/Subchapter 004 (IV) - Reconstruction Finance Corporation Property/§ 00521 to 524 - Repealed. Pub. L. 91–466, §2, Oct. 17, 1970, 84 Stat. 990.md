@@ -1,6 +1,6 @@
 ### §§521 to 524. Repealed. Pub. L. 91–466, §2, Oct. 17, 1970, 84 Stat. 990
 
-Section 521, act June 30, 1949, ch. 288, title VII, §701, as added Aug. 12, 1955, ch. 874, §3, 69 Stat. 722, stated congressional declaration of policy regarding Reconstruction Finance Corporation property.
+Section 521, act June 30, 1949, ch. 288, title VII, §701, as added Aug. 12, 1955, ch. 874, §3, 69 Stat. 722, statedcongressional declaration of policy regarding Reconstruction Finance Corporation property.
 
 Section 522, act June 30, 1949, ch. 288, title VII, §702, as added Aug. 12, 1955, ch. 874, §3, 69 Stat. 722; amended June 25, 1959, Pub. L. 86–70, §30(b), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, §27(d), 74 Stat. 418, defined State, real property, local taxing authority, real property tax, Government department, transfer, and Reconstruction Finance Corporation as used in the subchapter.
 

@@ -148,7 +148,7 @@ Not later than February 1 of each of the years 1991 and 1992, and of each second
 
 &emsp;&emsp;(iv) education and information dissemination.
 
-(Aug. 14, 1935, ch. 531, title XI, §1142, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(b)(1), 103 Stat. 2195.)
+(Aug. 14, 1935, ch. 531, title XI, §1142, as added Pub. L. 101–239, title VI, §6103(b)(1), Dec. 19, 1989, 103 Stat. 2195.)
 
 #### Codification
 

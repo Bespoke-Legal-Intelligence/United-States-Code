@@ -10,7 +10,7 @@ The purpose of this chapter is to provide for—
 
 &emsp;(4) any other use of those facilities by the United States, in time of war or national emergency, to the greatest practicable extent for efficiency and economy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 120, §2231; Aug. 29, 1957, Pub. L. 85–215, §1, 71 Stat. 489; renumbered §18231, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 120, §2231; Pub. L. 85–215, §1, Aug. 29, 1957, 71 Stat. 489; renumbered §18231, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
 
 Historical and Revision Notes
 

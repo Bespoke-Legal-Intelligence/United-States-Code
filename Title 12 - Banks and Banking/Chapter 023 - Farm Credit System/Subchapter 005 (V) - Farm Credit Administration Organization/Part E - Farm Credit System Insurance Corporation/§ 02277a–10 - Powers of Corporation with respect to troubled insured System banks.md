@@ -40,7 +40,7 @@
 
 #### (A) Least-cost resolution
 
-&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to the Corporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriatethe opportunity to submit information relating to the determination.
+&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to the Corporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriate the opportunity to submit information relating to the determination.
 
 #### (B) Determining least costly approach
 
@@ -100,7 +100,7 @@ The Corporation, in its discretion, may make loans on the security of, or may pu
 
 #### (2) Receipt of dividends
 
-&emsp;Subrogation under paragraph (1) shall include the right on the part of the Corporation to receive the same dividends from the proceeds of the assets of the bank as would have been payable to the owner on a claim for the insured obligation.
+&emsp;Subrogation under paragraph (1) shall include the right on the part of the Corporationto receive the same dividends from the proceeds of the assets of the bank as would have been payable to the owner on a claim for the insured obligation.
 
 #### (d) Right to assets
 

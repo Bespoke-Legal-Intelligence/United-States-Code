@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) collaborate with State educational agencies and local educational agencies requesting collaboration, particularly in the development of strategies for assisting those schools with the highest numbers or percentages of disadvantaged students with little or no access to technology in the classroom;
 
-&emsp;&emsp;(B) provide information, in coordination with information available from the Secretary, to State educational agencies, local educational agencies, schools and adult education programs, on the types and features of various educational technology equipment and software available, evaluate and make recommendations on equipment and software that support the National Education Goals and are suited for a school's particular needs, and compile and share information regarding creative and effective applications of technology in the classroom and school library media centers in order to support the purposes of this part;
+&emsp;&emsp;(B) provide information, in coordination with information available from the Secretary, to State educational agencies, local educational agencies, schools and adult education programs, on the types and features of various educational technology equipment and software available, evaluate and make recommendations on equipment and software that support the National Education Goals and are suited for a school's particular needs, and compile and share information regarding creative and effective applications of technology in the classroomand school library media centers in order to support the purposes of this part;
 
 &emsp;&emsp;(C) collaborate with such State educational agencies, local educational agencies, or schools requesting to participate in the tailoring of software programs and other supporting materials to meet challenging State content standards or challenging State student performance standards that may be developed; and
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(B) provide outreach and, at the request of a State or local educational agency, work with such agency to assist in the development and validation of instructionally based technology education resources; and
 
-&emsp;&emsp;(C) coordinate activities and establish partnerships with organizations and institutions of higher education that represent theinterests of the region as such interests pertain to the application of technology in teaching, learning, instructional management, dissemination, collection and distribution of educational statistics, and the transfer of student information.
+&emsp;&emsp;(C) coordinate activities and establish partnerships with organizations and institutions of higher education that represent the interests of the region as such interests pertain to the application of technology in teaching, learning, instructional management, dissemination, collection and distribution of educational statistics, and the transfer of student information.
 
 #### (4) Coordination
 

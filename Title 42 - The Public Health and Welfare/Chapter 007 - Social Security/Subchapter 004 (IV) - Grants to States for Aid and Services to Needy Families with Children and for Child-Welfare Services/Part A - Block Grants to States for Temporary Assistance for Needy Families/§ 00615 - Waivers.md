@@ -50,7 +50,7 @@ The Secretary shall encourage any State operating a waiver described in subsecti
 
 A State may elect to continue 1 or more individual waivers described in subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §415, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2157; amended Aug. 5, 1997, Pub. L. 105–33, title V, §5514(c), 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §415, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2157; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
 #### References in Text
 

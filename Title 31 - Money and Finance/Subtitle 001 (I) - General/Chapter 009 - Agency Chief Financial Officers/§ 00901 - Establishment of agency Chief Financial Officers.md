@@ -90,7 +90,7 @@ Section 206 of Pub. L. 101–576 provided that:
 
 “(a)
 
-Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall requireeach agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
+Agency Reviews of Financial Management Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 15, 1990\], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
 
 “(b)
 

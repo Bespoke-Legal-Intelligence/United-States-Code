@@ -8,7 +8,7 @@ None of the provisions of this chapter shall be construed to apply—
 
 &emsp;(3) to any so-called claw, crane, or digger machine and similar devices which are not operated by coin, are actuated by a crank, and are designed and manufactured primarily for use at carnivals or county or State fairs.
 
-(Jan. 2, 1951, ch. 1194, §9, as added Oct. 18, 1962, Pub. L. 87–840, §6, 76 Stat. 1077.)
+(Jan. 2, 1951, ch. 1194, §9, as added Pub. L. 87–840, §6, Oct. 18, 1962, 76 Stat. 1077.)
 
 #### Effective Date
 

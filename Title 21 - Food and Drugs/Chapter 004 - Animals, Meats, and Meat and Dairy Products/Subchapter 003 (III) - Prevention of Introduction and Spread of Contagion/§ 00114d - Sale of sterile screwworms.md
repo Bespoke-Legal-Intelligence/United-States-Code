@@ -24,3 +24,7 @@ The Secretary may provide for the sale of screwworms under subsection (a) of thi
 
 A prior section 114d, act Feb. 28, 1947, ch. 8, §3, 61 Stat. 8, related to reports by Secretary of Agriculture to Congress with respect to activities carried on under sections 114b and 114c of this title, prior to repeal by Pub. L. 86–533, §1(20), June 29, 1960, 74 Stat. 249.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 114b, 114c, 114d–1, 129, 136a of this title.
+

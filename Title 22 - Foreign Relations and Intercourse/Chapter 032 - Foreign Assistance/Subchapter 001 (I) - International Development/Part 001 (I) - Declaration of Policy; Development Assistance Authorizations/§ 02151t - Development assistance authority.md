@@ -6,7 +6,7 @@ In order to carry out the purposes of this part, the President is authorized to 
 
 #### (b) Authority of President to make loans; terms and conditions
 
-The President is authorized to make loans payable as to principal and interest in United States dollars on such terms and conditions as he may determine, in order to promote the economic development of countries and areas, with emphasis upon assisting long-range plans and programs designed to develop economic resources and increase productive capacities. The President shall determine the interest payable on any loan. In making loans under this part, the President shall consider the economic circumstances of the borrower and other relevant factors, including the capacity of the recipient country to repay the loan at a reasonable rate ofinterest, except that loans may not be made at a rate of interest of less than 3 per centum per annum commencing not later than ten years following the date on which the funds are initially made available under the loan, during which ten-year period the rate of interest shall not be lower than 2 per centum per annum, nor higher than the applicable legal rate of interest of the country in which the loan is made.
+The President is authorized to make loans payable as to principal and interest in United States dollars on such terms and conditions as he may determine, in order to promote the economic development of countries and areas, with emphasis upon assisting long-range plans and programs designed to develop economic resources and increase productive capacities. The President shall determine the interest payable on any loan. In making loans under this part, the President shall consider the economic circumstances of the borrower and other relevant factors, including the capacity of the recipient country to repay the loan at a reasonable rate of interest, except that loans may not be made at a rate of interest of less than 3 per centum per annum commencing not later than ten years following the date on which the funds are initially made available under the loan, during which ten-year period the rate of interest shall not be lower than 2 per centum per annum, nor higher than the applicable legal rate of interest of the country in which the loan is made.
 
 #### (c) Dollar receipts from loans to be paid into Treasury
 
@@ -33,10 +33,6 @@ Subsec. (b) of this section consists of provisions formerly contained in subsect
 #### Effective Date
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
-
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with the exception of those functions in subsec. (e) of this section and certain other exceptions, by sections 1–102(a)(1), (e), 1–701(a), and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Development Loan Committee
 

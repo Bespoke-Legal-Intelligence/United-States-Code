@@ -26,7 +26,7 @@
 
 #### (3) “Educational program” defined
 
-&emsp;For the purposes of this section, the term “educational program” includes educational policies, research findings, practices, and products.
+&emsp;For the purposes of this section, the term “educational program” includes educationalpolicies, research findings, practices, and products.
 
 #### (b) Establishment of Office
 
@@ -88,7 +88,7 @@ The Assistant Secretary shall coordinate a process through which successful educ
 
 &emsp;The Assistant Secretary, in consultation with the Board, shall establish 1 or more panels of appropriately qualified experts and practitioners to—
 
-&emsp;&emsp;(A) evaluate educational programs that have been identified by the Secretary under subsection (c) of this section or that have been submitted to the Secretary for such evaluation by some other individual or organization; and
+&emsp;&emsp;(A) evaluate educational programs that have been identified by the Secretary under subsection (c) of this section or that have been submitted to the Secretary for suchevaluation by some other individual or organization; and
 
 &emsp;&emsp;(B) recommend to the Secretary programs that should be designated as exemplary or promising educational programs.
 
@@ -164,7 +164,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 #### (5) Copyright prohibited
 
-&emsp;(A) No clearinghouse or other entity receiving assistance under this subsection may copyright or otherwise charge a royalty or other fee that—
+&emsp;(A) No clearinghouse or other entity receiving assistance under this subsection maycopyright or otherwise charge a royalty or other fee that—
 
 &emsp;&emsp;(i) is for the use or redissemination of any database, index, abstract, report, or other information produced with assistance under this subsection; and
 
@@ -378,7 +378,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 &emsp;&emsp;(B) Comply with the standards developed by the Assistant Secretary and approved by the Board under section 6011 of this title.
 
-&emsp;&emsp;(C) Coordinate its activities, collaborate, and regularly exchange information with the Institutes established under section 6041 <sup>2</sup> of this title, the National Diffusion Network, and its Developer-Demonstrator and State Facilitator projects, learning grant institutions and district education agents assisted under subsection (i) of this section, the Educational Resources Information Center Clearinghouses, and other entities engaged in technical assistance and dissemination activities which are supported by other offices of the Department of Education.
+&emsp;&emsp;(C) Coordinate its activities, collaborate, and regularly exchange information with theInstitutes established under section 6041 <sup>2</sup> of this title, the National Diffusion Network, and its Developer-Demonstrator and State Facilitator projects, learning grant institutions and district education agents assisted under subsection (i) of this section, the Educational Resources Information Center Clearinghouses, and other entities engaged in technical assistance and dissemination activities which are supported by other offices of the Department of Education.
 
 &emsp;&emsp;(D) Allocate the regional educational laboratory's resources to and within each State in a manner which reflects the need for assistance, taking into account such factors as the proportion of economically disadvantaged students, the increased cost burden of service delivery in areas of sparse populations, and any special initiatives being undertaken by State, intermediate, local educational agencies, or Bureau-funded schools, as appropriate, which may require special assistance from the laboratory.
 
@@ -586,93 +586,11 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 &emsp;&emsp;(D) plan for the expansion of the Goals 2000 Community Partnerships program throughout the remainder of the United States beginning in fiscal year 1999.
 
-#### (j) Teacher research dissemination demonstration program
+(Pub. L. 103–227, title IX, §941, Mar. 31, 1994, 108 Stat. 243; Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.)
 
-#### (1) Findings
+#### Amendments
 
-&emsp;The Congress finds that—
-
-&emsp;&emsp;(A) education research, including research funded by the Office, is not having the impact on the schools of the United States that such research should;
-
-&emsp;&emsp;(B) relevant education research and resulting solutions are not being adequately disseminated to and used by the teachers that need such research and solutions;
-
-&emsp;&emsp;(C) there are insufficient linkages between the research and development centers assisted under this section, the regional educational laboratories described in subsection (h) of this section, the National Diffusion Network State facilitators, the Educational Resources Information Center Clearinghouses, the comprehensive technical assistance centers assisted under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], and the public schools to ensure that research on effective practice is disseminated and technical assistance provided to all teachers;
-
-&emsp;&emsp;(D) the average teacher has little time to plan or engage in a professional dialogue with peers about strategies for improved learning;
-
-&emsp;&emsp;(E) teachers do not have direct access to information systems or networks;
-
-&emsp;&emsp;(F) teachers have little control over what inservice education teachers will be offered; and
-
-&emsp;&emsp;(G) individual teachers are not encouraged to move beyond the walls of their school buildings to identify and use outside resources.
-
-#### (2) Establishment
-
-#### (A) In general
-
-&emsp;&emsp;The Secretary is authorized to make grants to, and enter into contracts or cooperative agreements with, public and private agencies and organizations, including institutions of higher education, the regional education laboratories, and the research and development centers, or consortia thereof—
-
-&emsp;&emsp;&emsp;(i) to develop and carry out projects that demonstrate effective strategies for helping elementary and secondary education teachers, in both urban and rural areas, become knowledgeable about, assist in the design and use of, and use, education research, including education research carried out under this section; and
-
-&emsp;&emsp;&emsp;(ii) to develop, implement, and evaluate models for creation of teacher research dissemination networks.
-
-#### (B) Priority
-
-&emsp;&emsp;In awarding grants and entering into contracts and cooperative agreements under subparagraph (A) the Secretary shall give priority to entities that have received Federal funds for research and dissemination.
-
-#### (3) Applications
-
-#### (A) In general
-
-&emsp;&emsp;An entity desiring to receive assistance under this subsection shall submit an application to the Secretary in such form, at such time, and containing such information and assurances as the Secretary may require.
-
-#### (B) Contents
-
-&emsp;&emsp;Each such application shall describe how the project described in the application—
-
-&emsp;&emsp;&emsp;(i) was developed with the active participation of elementary and secondary school teachers;
-
-&emsp;&emsp;&emsp;(ii) will include the continuing participation of elementary and secondary school teachers in the management of the project;
-
-&emsp;&emsp;&emsp;(iii) is organized around one or more significant research topics;
-
-&emsp;&emsp;&emsp;(iv) will involve collaboration with entities that have received Federal funds for research and dissemination; and
-
-&emsp;&emsp;&emsp;(v) will sustain over time teacher research dissemination networks after Federal funding for such networks terminates.
-
-#### (4) Use of funds
-
-&emsp;Funds provided under this subsection may be used—
-
-&emsp;&emsp;(A) to train elementary and secondary education teachers (particularly new teachers) about the sources of education research findings, including research findings available through activities supported by the Office, and how to access and use such findings to improve the quality of instruction;
-
-&emsp;&emsp;(B) to develop simple formats, both administrative and technological, that allow elementary and secondary education teachers easy access to and use of education research findings;
-
-&emsp;&emsp;(C) to share strategies and materials;
-
-&emsp;&emsp;(D) to support professional networks;
-
-&emsp;&emsp;(E) to survey teacher needs in the areas of research and development; and
-
-&emsp;&emsp;(F) for other activities designed to support elementary and secondary education teachers in becoming knowledgeable about, assisting in the design of, and using, educational research.
-
-#### (5) Stipends
-
-&emsp;The Secretary may provide for the payment of such stipends (including allowances for subsistence and other expenses for elementary and secondary teachers), as the Secretary determines to be appropriate, to teachers participating in the projects authorized under this subsection.
-
-#### (6) Coordination
-
-&emsp;Recipients of funds under this subsection shall, to the greatest extent possible, coordinate their activities with related activities under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
-
-#### (7) Report
-
-&emsp;The Secretary shall, within 5 years of March 31, 1994, submit to the Congress a report on the effectiveness of activities assisted under this subsection.
-
-(Pub. L. 103–227, title IX, §941, Mar. 31, 1994, 108 Stat. 243.)
-
-#### References in Text
-
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (j)(1)(C), (6), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+1998—Subsec. (j). Pub. L. 105–277 struck out subsec. (j) which related to teacher research dissemination demonstration program.
 
 #### Section Referred to in Other Sections
 

@@ -146,7 +146,7 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, the fe
 
 #### (B) Waiver of application fee
 
-&emsp;&emsp;The Secretary shall waive under paragraph (1)(E) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
+&emsp;&emsp;The Secretary shall waive under paragraph (1)(E) the application fee for the first humandrug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
 
 &emsp;&emsp;&emsp;(i) application fees for all subsequent human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business; and
 
@@ -164,7 +164,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of paragraph (1)and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for human drug applications and supplements, prescription drug establishments, and prescription drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for human drug applications and supplements, prescription drug establishments, and prescription drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid.
 
 #### (g) Crediting and availability of fees
 
@@ -212,7 +212,7 @@ To qualify for consideration for a waiver or reduction under subsection (d) of t
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of human drug applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304.)
+(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494;amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304.)
 
 #### Amendment of Section
 
@@ -244,7 +244,7 @@ Final payment.—The remaining 50 percent of the fee required by subparagraph (A
 
 &emsp;“(I) the expiration of 30 days from the date the Secretary sends to the applicant a letter designated by the Secretary as an action letter described in section 379g(6)(B) of this title, or
 
-&emsp;“(II) the withdrawal of the application or supplement after it is filed unless the Secretary waives thefee or a portion of the fee because no substantial work was performed on such application or supplement after it was filed.
+&emsp;“(II) the withdrawal of the application or supplement after it is filed unless the Secretary waives the fee or a portion of the fee because no substantial work was performed on such application or supplement after it was filed.
 
 > The designation under subclause (I) or the waiver under subclause (II) shall be solely in the discretion of the Secretary and shall not be reviewable.” See Effective and Termination Dates of 1997 Amendment note below.
 
@@ -274,7 +274,7 @@ Subsec. (c)(2). Pub. L. 105–115, §§103(c)(3), 107, temporarily substituted �
 
 Subsec. (c)(3). Pub. L. 105–115, §§103(c)(4), 107, temporarily substituted “this subsection” for “paragraph (2)”. See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (d). Pub. L. 105–115, §§103(d), 107, temporarily struck out introductory provisions which read “The Secretary shall grant a waiver from or a reduction of 1 or more fees under subsection (a) of this section where the Secretary finds that—” and closing provisions which read “In making the finding in paragraph (3), the Secretary may use standard costs.”, inserted designation heading and introductory provisions of par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added pars. (1)(E), (2), and (3). See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (d). Pub. L. 105–115, §§103(d), 107, temporarily struck out introductory provisions which read “The Secretary shall grant a waiver from or a reduction of 1 or more fees under subsection (a) of this section where the Secretary finds that—” and closing provisions which read “In making the finding in paragraph (3), the Secretary may use standard costs.”, inserted designation, heading, and introductory provisions of par. (1), redesignated former pars. (1) to (4) as subpars.\(A) to (D), respectively, of par. (1), and added pars. (1)(E), (2), and (3). See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (f)(1). Pub. L. 105–115, §§103(e), 107, temporarily substituted “fiscal year 1997” for “fiscal year 1993” and “fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year)” for “fiscal year 1992”. See Effective and Termination Dates of 1997 Amendment note below.
 

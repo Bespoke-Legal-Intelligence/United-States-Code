@@ -128,7 +128,7 @@ Section 409(a) of Pub. L. 97–306 provided that: “It is the policy of the Uni
 
 &emsp;“(1) shall maintain a comprehensive, nationwide health-care system for the direct provision of quality health-care services to eligible veterans; and
 
-&emsp;“(2) shall operate such system through cost-effective means that are consistent with carrying outfully the functions of the Department of Medicine and Surgery of the Veterans’ Administration under title 38, United States Code.”
+&emsp;“(2) shall operate such system through cost-effective means that are consistent with carrying out fully the functions of the Department of Medicine and Surgery of the Veterans’ Administration under title 38, United States Code.”
 
 #### Section Referred to in Other Sections
 

@@ -24,7 +24,7 @@ General Definitions.—In this part—
 
 &emsp;(6) “aircraft” means any contrivance invented, used, or designed to navigate, or fly in, the air.
 
-&emsp;(7) “aircraft engine” means an engine used, or intended to be used, to propel an aircraft, including a part, appurtenance, and accessory of the engine, except a propeller.
+&emsp;(7) “aircraft engine” means an engine used, or intended to be used, to propel an aircraft,including a part, appurtenance, and accessory of the engine, except a propeller.
 
 &emsp;(8) “airman” means an individual—
 
@@ -472,5 +472,5 @@ Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 1101, 1131, 5114, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 553; title 19 sections 1627a, 1644a, 2492; title 22 section 5605; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
+This section is referred to in sections 321, 1101, 1131, 5114, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
 

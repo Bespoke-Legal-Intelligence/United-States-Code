@@ -14,7 +14,7 @@ Assistance under this section shall be provided in accordance with the policies 
 
 #### (d) Obligations charged against appropriations
 
-Obligations incurred prior to April 18, 1977, against other appropriations or accounts for thepurpose of providing relief and rehabilitation assistance to the people of Romania may be charged to the appropriations authorized under this section.
+Obligations incurred prior to April 18, 1977, against other appropriations or accounts for the purpose of providing relief and rehabilitation assistance to the people of Romania may be charged to the appropriations authorized under this section.
 
 #### (e) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560
 
@@ -31,8 +31,4 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 #### Amendments
 
 1981—Subsec. (e). Pub. L. 97–113 repealed subsec. (e) which required quarterly reports on the programming and obligation of funds under this section.
-
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -20,7 +20,7 @@ Any agreement under this subpart may require any officer or employee of the Stat
 
 #### Amendments
 
-1981—Subsec. (a). Pub. L. 97–35 struck out provisions relating to payment to the State by the Secretary of the Treasury from the Adjustment Assistance Trust Fund prior to audit or settlement by the General Accounting Office.
+1981—Subsec. (a). Pub. L. 97–35 struck out provisions relating to payment to the State by the Secretary ofthe Treasury from the Adjustment Assistance Trust Fund prior to audit or settlement by the General Accounting Office.
 
 Subsec. (b). Pub. L. 97–35 struck out provisions relating to crediting money returned to the Secretary of the Treasury to the Adjustment Assistance Trust Fund.
 

@@ -2,7 +2,7 @@
 
 Nothing in this part shall be construed as precluding State courts from exercising their discretion to protect the health and safety of children in individual cases, including cases other than those described in section 671(a)(15)(D) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §478, as added Nov. 19, 1997, Pub. L. 105–89, title I, §101(d), 111 Stat. 2117.)
+(Aug. 14, 1935, ch. 531, title IV, §478, as added Pub. L. 105–89, title I, §101(d), Nov. 19, 1997, 111 Stat. 2117.)
 
 #### Prior Provisions
 

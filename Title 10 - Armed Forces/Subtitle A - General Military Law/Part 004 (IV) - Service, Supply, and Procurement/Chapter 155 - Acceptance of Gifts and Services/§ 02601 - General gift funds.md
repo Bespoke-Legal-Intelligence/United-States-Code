@@ -18,7 +18,7 @@
 
 (d) The Secretary of the Treasury, upon the request of the Secretary of a military department, may retain money, securities, and the proceeds of the sale of securities, in the gift fund of the department concerned, and may invest money and reinvest the proceeds of the sale of securities in that fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The Secretary of the Treasury may do likewise with respect to the Coast Guard General Gift Fund. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund of the department concerned and may be disbursed as provided in subsection (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Dec. 12, 1980, Pub. L. 96–513, title V, §511(86), 94 Stat. 2927.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927.)
 
 Historical and Revision Notes
 

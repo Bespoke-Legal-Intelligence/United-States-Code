@@ -14,7 +14,7 @@ The Congress finds and declares as follows:
 
 &emsp;(6) In 1898, the joint resolution entitled “A Joint Resolution to provide for annexing the Hawaiian Islands to the United States”, approved July 7, 1898 (30 Stat. 750), ceded absolute title of all lands held by the Republic of Hawai‘i, including the government and crown lands of the former Kingdom of Hawai‘i, to the United States, but mandated that revenue generated from these lands be used “solely for the benefit of the inhabitants of the Hawaiian Islands for educational and other public purposes”.
 
-&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778to an alarming 22,600, and in recognition of this severe decline, the Congress in 1921 enacted the Hawaiian Homes Commission Act, 1920, which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
+&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778 to an alarming 22,600, and in recognition of this severe decline, the Congress in 1921 enacted the Hawaiian Homes Commission Act, 1920, which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
 
 &emsp;(8) Through the enactment of the Hawaiian Homes Commission Act, 1920, the Congress affirmed the special relationship between the United States and the Native Hawaiians, as expressed by then Secretary of the Interior Franklin K. Lane, who was quoted in the committee report for the Hawaiian Homes Commission Act, 1920, as saying: “One thing that impressed me . . . was the fact that the natives of the island who are our wards, I should say, and for whom in a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.”.
 
@@ -50,7 +50,7 @@ The Congress finds and declares as follows:
 
 &emsp;&emsp;(D) both public and private schools continue to show a pattern of lower percentages of Native Hawaiian students in the uppermost achievement levels and in gifted and talented programs;
 
-&emsp;&emsp;(E) Native Hawaiian students continue to be overrepresented among students qualifying for special education programs providedto students with learning disabilities, mild mental retardation, emotional impairment, and other such disabilities;
+&emsp;&emsp;(E) Native Hawaiian students continue to be overrepresented among students qualifying for special education programs provided to students with learning disabilities, mild mental retardation, emotional impairment, and other such disabilities;
 
 &emsp;&emsp;(F) Native Hawaiians continue to be underrepresented in institutions of higher education and among adults who have completed four or more years of college;
 

@@ -1,11 +1,6 @@
 ### <b>CHAPTER 138—COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Cross-Servicing%20Agreements/README.md) | <b>Acquisition and Cross-Servicing Agreements</b> | <b>2341</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Other%20Cooperative%20Agreements/README.md) | <b>Other Cooperative Agreements</b> | <b>2350a</b> |

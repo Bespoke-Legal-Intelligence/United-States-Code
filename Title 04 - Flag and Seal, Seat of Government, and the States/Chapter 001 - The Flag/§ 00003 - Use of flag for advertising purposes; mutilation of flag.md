@@ -10,15 +10,7 @@ Any person who, within the District of Columbia, in any manner, for exhibition o
 
 #### Cross References
 
-Display and use of flag by civilians, see section 173 of Title 36, Patriotic Societies and Observances.
-
-Time and occasions for display of flag, see section 174 of Title 36, Patriotic Societies and Observances.
-
-Manner of display of flag, see section 175 of Title 36, Patriotic Societies and Observances.
-
 Penalty for desecration of the flag, see section 700 of Title 18, Crimes and Criminal Procedure.
 
 Police uniforms to display U.S. flag emblem or colors, see section 210a of Title 40, Public Buildings, Property, and Works.
-
-Respect for flag, see section 176 of Title 36, Patriotic Societies and Observances.
 

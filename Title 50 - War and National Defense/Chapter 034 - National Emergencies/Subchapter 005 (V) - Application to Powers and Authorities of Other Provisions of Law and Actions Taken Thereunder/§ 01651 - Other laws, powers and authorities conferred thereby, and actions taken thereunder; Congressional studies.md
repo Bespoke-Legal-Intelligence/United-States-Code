@@ -12,13 +12,13 @@
 
 &emsp;(5) Section 3737 of the Revised Statutes, as amended (41 U.S.C. 15);
 
-&emsp;(6) Public Law 85–804 (Act of Aug. 28, 1958, 72 Stat. 972; 50 U.S.C. 1431–1435);
+&emsp;(6) Public Law 85–804 (Act of Aug. 28, 1958, 72 Stat. 972; 50 U.S.C. 1431 et seq.);
 
 &emsp;(7) Section 2304(a)(1) <sup>1</sup> of title 10; <sup>2</sup>
 
 (b) Each committee of the House of Representatives and the Senate having jurisdiction with respect to any provision of law referred to in subsection (a) of this section shall make a complete study and investigation concerning that provision of law and make a report, including any recommendations and proposed revisions such committee may have, to its respective House of Congress within two hundred and seventy days after September 14, 1976.
 
-(Pub. L. 94–412, title V, §502, Sept. 14, 1976, 90 Stat. 1258; Pub. L. 95–223, title I, §101(d), Dec. 28, 1977, 91 Stat. 1625; Pub. L. 96–513, title V, §507(b), Dec. 12, 1980, 94 Stat. 2919.)
+(Pub. L. 94–412, title V, §502, Sept. 14, 1976, 90 Stat. 1258; Pub. L. 95–223, title I, §101(d), Dec. 28, 1977, 91 Stat. 1625; Pub. L. 96–513, title V, §507(b), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 105–362, title IX, §901(r)(2), Nov. 10, 1998, 112 Stat. 3291.)
 
 #### References in Text
 
@@ -33,6 +33,8 @@ Section 2304(a)(1) of title 10, referred to in subsec. (a)(7), originally author
 In subsec. (a)(4), “Section 3727(a)–(e)(1) of title 31” substituted for “Section 3477 of the Revised Statutes, as amended (31 U.S.C. 203)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1998—Subsec. (a)(6). Pub. L. 105–362 substituted “1431 et seq.” for “1431–1435”.
 
 1980—Subsec. (a)(8). Pub. L. 96–513 struck out par. (8) which made reference to sections 3313, 6386(c), and 8313 of title 10.
 

@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, after September 30, 1990, amounts de
 
 #### Codification
 
-Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development,and Independent Agencies Appropriations Act, 1990, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1990, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 

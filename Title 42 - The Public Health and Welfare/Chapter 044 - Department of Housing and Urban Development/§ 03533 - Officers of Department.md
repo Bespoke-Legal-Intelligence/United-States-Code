@@ -26,7 +26,7 @@ There shall be in the Department an Assistant to the Secretary, designated by th
 
 &emsp;(i) administering, in coordination with the relevant office in the Department, the provision of housing assistance to Indian tribes or Indian housing authorities under each program of the Department that provides for such assistance;
 
-&emsp;(ii) administering the community development block grant program for Indian tribes under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] and the provision of assistance to Indian tribes under such Act;
+&emsp;(ii) administering the community development block grant program for Indian tribes under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\]and the provision of assistance to Indian tribes under such Act;
 
 &emsp;(iii) directing, coordinating, and assisting in managing any regional offices of the Department that administer Indian programs to the extent of such programs; and
 
@@ -112,7 +112,7 @@ Section 902(a)(2), (3) of Pub. L. 102–550 provided that:
 
 “(2)
 
-Transfer of functions.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall transfer to the Special Assistant for Indian and Alaska Native Programs any functions and duties described in section 4(e)(1)(B) of the Department of Housing and Urban Development Act \[42 U.S.C. 3533(e)(1)(B)\] (as added by paragraph (1) of this subsection).
+Transfer of functions.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretaryof Housing and Urban Development shall transfer to the Special Assistant for Indian and Alaska Native Programs any functions and duties described in section 4(e)(1)(B) of the Department of Housing and Urban Development Act \[42 U.S.C. 3533(e)(1)(B)\] (as added by paragraph (1) of this subsection).
 
 “(3)
 

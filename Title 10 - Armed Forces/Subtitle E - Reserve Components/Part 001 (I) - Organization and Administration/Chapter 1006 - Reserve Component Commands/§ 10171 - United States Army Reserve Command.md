@@ -6,7 +6,7 @@ Command.—The United States Army Reserve Command is a separate command of the A
 
 (b)
 
-Chain of Command.—Except as otherwise prescribed by the Secretary of Defense, the Secretary of the Army shall prescribe the chain ofcommand for the United States Army Reserve Command.
+Chain of Command.—Except as otherwise prescribed by the Secretary of Defense, the Secretary of the Army shall prescribe the chain of command for the United States Army Reserve Command.
 
 (c)
 

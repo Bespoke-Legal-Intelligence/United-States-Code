@@ -14,7 +14,7 @@ Shall be fined under this title or imprisoned not more than five years, or both;
 
 This section shall not prevent any officer or member of the Armed Forces from exercising the right of suffrage in any district to which he may belong, if otherwise qualified according to the laws of the State of such district.
 
-(June 25, 1948, ch. 645, 62 Stat. 719; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 719; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

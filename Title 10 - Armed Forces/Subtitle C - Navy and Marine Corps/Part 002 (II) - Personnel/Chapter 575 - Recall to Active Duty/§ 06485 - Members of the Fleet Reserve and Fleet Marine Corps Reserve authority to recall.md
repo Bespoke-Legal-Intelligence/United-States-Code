@@ -10,7 +10,7 @@
 
 (b) In time of peace any member of the Fleet Reserve or the Fleet Marine Corps Reserve may be required to perform not more than two months’ active duty for training in each four-year period.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 417; July 30, 1977, Pub. L. 95–79, title VIII, §805, 91 Stat. 333.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 417; Pub. L. 95–79, title VIII, §805, July 30, 1977, 91 Stat. 333.)
 
 Historical and Revision Notes
 

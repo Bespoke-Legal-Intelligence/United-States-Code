@@ -6,7 +6,7 @@ Notwithstanding the tribe's previous rejection of the Act of June 18, 1934 (25 U
 
 #### (b) Adoption of constitution
 
-Upon written request of the General Council, the Secretary shall conduct an election pursuant to section 16 of the Act approved on June 18,1934 (43 Stat. 987; 25 U.S.C. 476), for the purpose of adopting a new constitution for the tribe.
+Upon written request of the General Council, the Secretary shall conduct an election pursuant to section 16 of the Act approved on June 18, 1934 (43 Stat. 987; 25 U.S.C. 476), for the purpose of adopting a new constitution for the tribe.
 
 (Pub. L. 99–398, §4, Aug. 27, 1986, 100 Stat. 850.)
 

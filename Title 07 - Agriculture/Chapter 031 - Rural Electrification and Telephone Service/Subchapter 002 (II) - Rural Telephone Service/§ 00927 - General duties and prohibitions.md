@@ -26,7 +26,7 @@ The Secretary and the Governor of the telephone bank shall not—
 
 &emsp;(3) deny a loan or advance to, or take any other adverse action against, an applicant for, or a borrower of, a telephone loan under this chapter for any reason that is not based on a rule, regulation, bulletin, or other written policy standard that has not been published pursuant to section 553 of title 5.
 
-(May 20, 1936, ch. 432, title II, §206, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2357, 104 Stat. 4040; amended Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(7), (13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title II, §206, as added Pub. L. 101–624, title XXIII, §2357, Nov. 28, 1990, 104 Stat. 4040; amended Pub. L. 103–354, title II, §235(a)(7), (13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Active service of commissioned officers of the National Oceanic and Atmospheric 
 
 #### References in Text
 
-The Servicemens’ Indemnity Act of 1951, referred to in text, is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, §502(9), 70 Stat. 886.
+The Servicemens’ Indemnity Act of 1951, referred to in text, is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33,which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, §502(9), 70 Stat. 886.
 
 Section 410 of title 42 as in effect prior to the Social Security Act Amendments of 1950, referred to in text, means section 410 of Title 42, The Public Health and Welfare, as in effect prior to Sept. 1, 1950, which was the effective date of section 105 of act Aug. 28, 1950, ch. 809, title I, 64 Stat. 492, which struck out the former provisions of section 410.
 

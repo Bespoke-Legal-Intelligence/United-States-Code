@@ -1,0 +1,24 @@
+### §20911. Service of process
+
+The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1292.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+20911
+
+36:2104.
+
+Aug. 10, 1982, Pub. L. 97–234, §4, 96 Stat. 262.
+
+The words “in furtherance of its corporate purposes” are omitted as unnecessary.
+

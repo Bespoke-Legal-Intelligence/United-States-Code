@@ -42,7 +42,7 @@ Amtrak General and Legislative Annual Report.—(1) Not later than February 15 o
 
 (c)
 
-Secretary's Report on Effectiveness of This Part.—The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
+Secretary's Report on Effectiveness of This Part.—The Secretary of Transportationshall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
 
 (d)
 

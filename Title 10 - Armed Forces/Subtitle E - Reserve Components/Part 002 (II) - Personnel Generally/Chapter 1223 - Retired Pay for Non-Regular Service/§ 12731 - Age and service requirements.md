@@ -1,6 +1,6 @@
 ### §12731. Age and service requirements
 
-(a) Except as provided in subsection (c), a person is entitled, upon application, to retired paycomputed under section 12739 of this title, if the person—
+(a) Except as provided in subsection (c), a person is entitled, upon application, to retired pay computed under section 12739 of this title, if the person—
 
 &emsp;(1) is at least 60 years of age;
 
@@ -34,9 +34,9 @@
 
 (e) Notwithstanding section 8301 of title 5, the date of entitlement to retired pay under this section shall be the date on which the requirements of subsection (a) have been completed.
 
-(f) In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting “the last six years” for “the last eight years”.
+(f) In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on September 30, 2001, the provisions of subsection (a)(3) shall be applied by substituting “the last six years” for “the last eight years”.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Aug. 21, 1958, Pub. L. 85–704, 72 Stat. 702; Sept. 2, 1958, Pub. L. 85–861, §33(a)(8), 72 Stat. 1564; Oct. 14, 1966, Pub. L. 89–652, §1, 80 Stat. 902; Aug. 13, 1968, Pub. L. 90–485, §2, 82 Stat. 754; Sept. 30, 1978, Pub. L. 95–397, title II, §206, 92 Stat. 847; Dec. 12, 1980, Pub. L. 96–513, title V, §511(47), 94 Stat. 2924; Sept. 24, 1983, Pub. L. 98–94, title IX, §924(a), 97 Stat. 644; Nov. 29, 1989, Pub. L. 101–189, div. A, title XIV, §1404(b)(1), 103 Stat. 1586; renumbered §12731 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), 108 Stat. 2790, 2999; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(b)(20), 110 Stat. 497.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847;Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026.)
 
 Historical and Revision Notes<br>1956
 
@@ -87,6 +87,8 @@ In subsection (c), the words “the Army without component or other category cov
 The change makes clear that in the determination of eligibility for retired pay for non–regular service, the service of a Regular serving in a temporary grade (that is, without component) may not be counted. See opinion of the Judge Advocate General of the Army, JAGA 1957/4463, May 13, 1957.
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
 
 1996—Subsec. (f). Pub. L. 104–106 substituted “October 5, 1994,” for “the date of the enactment of this subsection”.
 

@@ -28,5 +28,5 @@ Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5061, 12511 of this title; title 36 section 169j–3.
+This section is referred to in sections 5061, 12511 of this title.
 

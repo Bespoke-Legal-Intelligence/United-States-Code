@@ -12,15 +12,15 @@ Any reservation of radioactive mineral substances, fissionable materials, or sou
 
 Notwithstanding the provisions of the Atomic Energy Act of 1946, as amended \[42 U.S.C. 1801 et seq.\], and particularly section 5(b)(7) thereof \[42 U.S.C. 1805(b)(7)\], or the provisions of sections 501 to 505 of title 30, and particularly section 503 of title 30, any mining claim, heretofore located under the mining laws of the United States, for or based upon a discovery of a mineral deposit which is a source material and which, except for the possible contrary construction of said Atomic Energy Act, would have been locatable under such mining laws, shall, insofar as adversely affected by such possible contrary construction, be valid and effective, in all respects to the same extent as if said mineral deposit were a locatable mineral deposit other than a source material.
 
-(Aug. 1, 1946, ch. 724, title I, §68, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 934; amended Aug. 19, 1958, Pub. L. 85–681, §3, 72 Stat. 632; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §68, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 934; amended Pub. L. 85–681, §3, Aug. 19, 1958, 72 Stat. 632; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 
-The Atomic Energy Act of 1946, referred to in subsecs. (b) and (c), is act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified generally to chapter 14 (§1801 et seq.) of this title prior to the general amendment by act Aug. 30, 1954, ch. 1073, 68 Stat. 921, known as the Atomic Energy Act of 1954, which is classified principally to this chapter (§2011 et seq.). For complete classification of the Atomic Energy Act of 1954 to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1946, referred to in subsecs. (b) and (c), is act Aug. 1, 1946, ch. 724, 60 Stat. 755, whichwas classified generally to chapter 14 (§1801 et seq.) of this title prior to the general amendment by act Aug. 30, 1954, ch. 1073, 68 Stat. 921. The act of Aug. 1, 1946, ch. 724, is now known as the Atomic Energy Act of 1954, and is classified principally to this chapter (§2011 et seq.). For complete classification of the Atomic Energy Act of 1954 to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-Section 5(b)(7) thereof, referred to in subsec. (c), was classified to section 1805(b)(7) of this title and was omitted in the general amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921, known as the Atomic Energy Act of 1954.
+Section 5(b)(7) thereof, referred to in subsec. (c), was classified to section 1805(b)(7) of this title and was omitted in the general amendment of the Atomic Energy Act of 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921.
 
-The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The mining laws of the United States, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 

@@ -4,7 +4,7 @@ Pistols, revolvers, and other firearms capable of being concealed on the person 
 
 Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail according to the direction thereon, or at any place to which it is directed to be delivered by the person to whom it is addressed, any pistol, revolver, or firearm declared nonmailable by this section, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 24, 1949, ch. 139, §40, 63 Stat. 95; Aug. 12, 1970, Pub. L. 91–375, §6(j)(24), 84 Stat. 779; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(f), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 24, 1949, ch. 139, §40, 63 Stat. 95; Pub. L. 91–375, §6(j)(24),Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §607(f), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 40\] inserts “Air Force,” in section 1715 of title 18, U.S.C., in view of the establishmentin 1947 of this separate branch of the armed forces, and substitutes, “Organized” for “Officers’ ”, preceding “Reserve Corps”, to conform to section 2 of title 10, U.S.C., as amended by the act of March 25, 1948 (ch. 157, §1, 62 Stat. 87), which grouped all reserve branches into a reserve component called the Organized Reserve Corps.
+This section \[section 40\] inserts “Air Force,” in section 1715 of title 18, U.S.C., in view of the establishment in 1947 of this separate branch of the armed forces, and substitutes, “Organized” for “Officers’ ”, preceding “Reserve Corps”, to conform to section 2 of title 10, U.S.C., as amended by the act of March 25, 1948 (ch. 157, §1, 62 Stat. 87), which grouped all reserve branches into a reserve component called the Organized Reserve Corps.
 
 #### Amendments
 

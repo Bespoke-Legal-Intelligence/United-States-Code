@@ -1,6 +1,0 @@
-### §148. Last Sunday in September designated as Gold Star Mother's Day
-
-The last Sunday in September shall be designated and known as “Gold Star Mother's Day”, and it shall be the duty of the President to request its observance as provided for in section 147 of this title.
-
-(June 23, 1936, ch. 736, §2, 49 Stat. 1895.)
-

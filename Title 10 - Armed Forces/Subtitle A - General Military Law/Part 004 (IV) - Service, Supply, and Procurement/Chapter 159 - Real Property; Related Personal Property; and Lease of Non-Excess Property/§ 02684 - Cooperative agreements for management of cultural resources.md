@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a Stateor local government or other entity for the preservation, management, maintenance, and improvement of cultural resources on military installations and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject to the availability of funds to carry out the cooperative agreement.
+Authority.—The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a State or local government or other entity for the preservation, management, maintenance, and improvement of cultural resources on military installations and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject to the availability of funds to carry out the cooperative agreement.
 
 (b)
 
@@ -16,7 +16,7 @@ Cultural Resource Defined.—In this section, the term “cultural resource” m
 
 &emsp;(2) Cultural items, as that term is defined in section 2(3) of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001(3)).
 
-&emsp;(3) An archaeological resource, as that term is defined in section 3(1) of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470bb(1)).
+&emsp;(3) An archaeological resource, as that term is defined in section 3(1) of the ArchaeologicalResources Protection Act of 1979 (16 U.S.C. 470bb(1)).
 
 &emsp;(4) An archaeological artifact collection and associated records covered by section 79 of title 36, Code of Federal Regulations.
 

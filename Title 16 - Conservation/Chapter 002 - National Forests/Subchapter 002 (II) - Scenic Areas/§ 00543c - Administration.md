@@ -4,7 +4,7 @@
 
 (1) Except as otherwise provided in sections 543 to 543h of this title, the Secretary, acting through the Chief of the Forest Service, shall administer the Scenic Area as a separate unit within the boundary of the Inyo National Forest in accordance with the laws, rules, and regulations applicable to the National Forest System. All Bureau of Land Management administered lands that fall within the boundaries of the Scenic Area are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System.
 
-(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:
+(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest andshall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:
 
 &emsp;township 1 south; range 26 east; Mount Diablo Meridian:
 
@@ -48,7 +48,7 @@ The Secretary may enter into cooperative agreements with the State of California
 
 #### (e) Management plan
 
-Within three years after September 28, 1984, the Secretary shall submit to the committeesreferred to in section 543 of this title, a detailed and comprehensive management plan for the Scenic Area which is consistent with the protection of water rights as provided in subsection (b)(1) of this section. The plan shall include but not be limited to—
+Within three years after September 28, 1984, the Secretary shall submit to the committees referred to in section 543 of this title, a detailed and comprehensive management plan for the Scenic Area which is consistent with the protection of water rights as provided in subsection (b)(1) of this section. The plan shall include but not be limited to—
 
 &emsp;(1) an inventory of natural (including geologic) and cultural resources;
 

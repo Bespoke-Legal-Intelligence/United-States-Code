@@ -1,0 +1,34 @@
+### §153902. Purposes
+
+The purposes of the corporation are patriotic, historical, and educational and are—
+
+&emsp;(1) to foster and perpetuate the memory of the service of Yoemen (f) in the United States Naval Reserve Force of the United States Navy during World War I;
+
+&emsp;(2) to preserve the memories and incidents of their association in World War I by the encouragement of historical research concerning the service of Yoemen (f);
+
+&emsp;(3) to cherish, maintain, and extend the institutions of American freedom by the promotion of celebrations of all patriotic anniversaries;
+
+&emsp;(4) to foster true patriotism and love of country; and
+
+&emsp;(5) to aid in securing for mankind all the blessings of liberty.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1431.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+153902
+
+36:139 (words beginning with “for patriotic, historical, and educational purposes”).
+
+June 15, 1936, ch. 546, §1 (words beginning with “for patriotic, historical, and educational purposes”), 49 Stat. 1506.
+
+The words “World War I” are substituted for “the World War” for clarity.
+

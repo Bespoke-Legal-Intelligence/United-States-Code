@@ -48,6 +48,30 @@ In subsec. (f), “section 3324(a) and (b) of title 31” substituted for “sec
 
 For effective date of amendment by Pub. L. 91–375, see section 15(a) of Pub. L. 91–375, set out as an Effective Dates note preceding section 101 of Title 39, Postal Service.
 
+#### Study Regarding Improved Outdoor Recreational Access for Persons With Disabilities
+
+Pub. L. 105–359, §1, Nov. 10, 1998, 112 Stat. 3275, provided that:
+
+“(a)
+
+Study Required.—The Secretary of Agriculture and the Secretary of the Interior shall jointly conduct a study regarding ways to improve the access for persons with disabilities to outdoor recreational opportunities (such as fishing, hunting, trapping, wildlife viewing, hiking, boating, and camping) made available to the public on the Federal lands described in subsection (b).
+
+“(b)
+
+Covered Federal Lands.—The Federal lands referred to in subsection (a) are the following:
+
+&emsp;“(1) National Forest System lands.
+
+&emsp;“(2) Units of the National Park System.
+
+&emsp;“(3) Areas in the National Wildlife Refuge System.
+
+&emsp;“(4) Lands administered by the Bureau of Land Management.
+
+“(c)
+
+Report on Study.—Not later than 18 months after the date of the enactment of this Act \[Nov. 10, 1998\], the Secretaries shall submit to Congress a report containing the results of the study.”
+
 #### Connecticut River National Recreation Area Feasibility Study
 
 Pub. L. 89–616, Oct. 3, 1966, 80 Stat. 867, directed Secretary of the Interior to study, investigate, and formulate recommendations on feasibility and desirability of establishing all or parts of Connecticut River Valley from its source to its mouth, in States of Connecticut, Massachusetts, Vermont, and New Hampshire, as a Connecticut River National Recreation Area and to submit to President, within two years after Oct. 3, 1966, a report of his findings and recommendations, with President to submit to Congress such recommendations, including legislation, as he deemed appropriate.

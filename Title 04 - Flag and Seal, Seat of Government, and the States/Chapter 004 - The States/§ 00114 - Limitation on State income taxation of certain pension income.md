@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a period of not less than 10 years, or
 
-&emsp;&emsp;&emsp;(ii) is a payment received after termination of employment and under a plan, program, or arrangement (to which such employment relates) maintained solely for the purpose of providing retirement benefits for employees in excess of the limitations imposed by 1 or more of sections 401(a)(17), 401(k), 401(m), 402(g), 403(b), 408(k), or 415 of such Code or any otherlimitation on contributions or benefits in such Code on plans to which any of such sections apply.
+&emsp;&emsp;&emsp;(ii) is a payment received after termination of employment and under a plan, program, or arrangement (to which such employment relates) maintained solely for the purpose of providing retirement benefits for employees in excess of the limitations imposed by 1 or more of sections 401(a)(17), 401(k), 401(m), 402(g), 403(b), 408(k), or 415 of such Code or any other limitation on contributions or benefits in such Code on plans to which any of such sections apply.
 
 > &emsp;Such term includes any retired or retainer pay of a member or former member of a uniform service computed under chapter 71 of title 10, United States Code.
 
@@ -51,4 +51,6 @@ Section 514 of the Employee Retirement Income Security Act of 1974, referred to 
 #### Effective Date
 
 Section 1(c) of Pub. L. 104–95 provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts received after December 31, 1995.”
+
+<i><sup>1</sup></i><i> So in original. No subsecs. (c) and (d) have been enacted.</i>
 

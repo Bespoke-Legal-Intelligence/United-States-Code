@@ -10,7 +10,7 @@
 
 &emsp;(2) unless otherwise entitled to higher pay, is entitled to retired pay computed under section 6333 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 395; May 20, 1958, Pub. L. 85–422, §6(9), 72 Stat. 129; Sept. 2, 1958, Pub. L. 85–861, §36B(20), 72 Stat. 1571; Oct. 2, 1963, Pub. L. 88–132, §5(h)(4), 77 Stat. 214; Dec. 16, 1967, Pub. L. 90–207, §3(3), 81 Stat. 653; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(d)(4), 94 Stat. 1105; Dec. 12, 1980, Pub. L. 96–513, title V, §513(17), (19), 94 Stat. 2932; July 1, 1986, Pub. L. 99–348, title II, §203(b)(4), 100 Stat. 696.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 395; Pub. L. 85–422, §6(9), May 20, 1958, 72 Stat. 129; Pub. L. 85–861, §36B(20), Sept. 2, 1958, 72 Stat. 1571; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §3(3), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(d)(4), Sept. 8, 1980, 94 Stat. 1105; Pub. L. 96–513, title V, §513(17), (19), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 99–348, title II, §203(b)(4), July 1, 1986, 100 Stat. 696.)
 
 Historical and Revision Notes
 
@@ -76,7 +76,7 @@ Subsection (d) is substituted for 34 U.S.C. 350i(e) as that section pertains to 
 
 1980—Subsec. (c)(2). Pub. L. 96–513 substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing, and “master chief petty officer” for “senior enlisted advisor”.
 
-Pub. L. 96–342 designated existing provisions as subpar. (A), inserted provision limiting applicability to persons who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
+Pub. L. 96–342 designated existing provisions as subpar. (A), inserted provision limiting applicability topersons who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
 1967—Subsec. (c)(2). Pub. L. 90–207 inserted “, or if he has served as senior enlisted advisor of the Navy or as sergeant major of the Marine Corps, he shall be entitled to retired pay at the rate of 75 percent of the highest basic pay to which he was entitled while so serving, if that rate is higher” after “retirement”.
 

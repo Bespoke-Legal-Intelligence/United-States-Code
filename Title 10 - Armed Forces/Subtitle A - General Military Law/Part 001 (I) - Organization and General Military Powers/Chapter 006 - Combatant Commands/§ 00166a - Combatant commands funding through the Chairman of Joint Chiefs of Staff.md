@@ -64,13 +64,13 @@ Inclusion of NORAD.—For purposes of this section, the Commander, United States
 
 Subsec. (b)(7). Pub. L. 103–35, §201(a)(2), struck out second of two identical parenthetical phrases at end of par. (7) which read as follows: “(including transportation, translation, and administrative expenses)”.
 
-1992—Subsec. (a). Pub. L. 102–484, §934(a), which directed substitution of “funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by theChairman of the Joint Chiefs of Staff for such purpose.” for “funds, upon request,” and all that follows through the period, could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–396, §9128(a). See below.
+1992—Subsec. (a). Pub. L. 102–484, §934(a), which directed substitution of “funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose.” for “funds, upon request,” and all that follows through the period, could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–396, §9128(a). See below.
 
 Pub. L. 102–396, §9128(a), substituted “funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.” for “funds, upon request, to the commanders of the combatant commands.”
 
 Subsec. (b)(7). Pub. L. 102–396, §9128(b), and Pub. L. 102–484, §934(b), both inserted before period at end “(including transportation, translation, and administrative expenses)”.
 
-Subsec. (c). Pub. L. 102–484, §934(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund, should give priority consideration to requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds (c)
+Subsec. (c). Pub. L. 102–484, §934(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund, should give priority consideration to requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds (c)
 
 Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund or the provision of funds to the Director of the Joint Staff under subsection (a), should give priority consideration to—
 

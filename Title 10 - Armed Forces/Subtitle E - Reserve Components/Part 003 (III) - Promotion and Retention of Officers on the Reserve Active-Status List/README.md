@@ -1,11 +1,6 @@
 ## PART III—PROMOTION AND RETENTION OF OFFICERS ON THE RESERVE ACTIVE-STATUS LIST
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1401.</b>](Chapter%201401%20-%20Applicability%20and%20Reserve%20Active-Status%20Lists/README.md) | <b>Applicability and Reserve Active-Status Lists</b> | <b>14001</b> |
 | [<b>1403.</b>](Chapter%201403%20-%20Selection%20Boards/README.md) | <b>Selection Boards</b> | <b>14101</b> |

@@ -2,7 +2,7 @@
 
 #### (a) Rights abrogated or diminished
 
-All rights and privileges of the Tribe which may have been abrogated or diminished before October 31, 1990, by reason of any provision of Public Law 87–629 \[25 U.S.C. 971 et seq.\] are hereby restored and such law shall no longer apply with respect to the Tribe or the members.
+All rights and privileges of the Tribe which may have been abrogated or diminished before October 31, 1990, by reason of any provision ofPublic Law 87–629 \[25 U.S.C. 971 et seq.\] are hereby restored and such law shall no longer apply with respect to the Tribe or the members.
 
 #### (b) Rights existing prior to restoration
 

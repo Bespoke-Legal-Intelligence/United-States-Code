@@ -18,7 +18,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Order of Succession
 
-For order of succession in case of absence, sickness, resignation, or death of Secretary, see Ex. Ord. No. 11793, July 10, 1974, 39 F.R. 25631, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in case of absence, sickness, resignation, or death of Secretary, see Ex. Ord. No. 11793, July 10, 1974, 39 F.R. 25631, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Cross References
 

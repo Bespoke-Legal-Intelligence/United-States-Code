@@ -14,7 +14,19 @@ Persons Eligible for Plan.—The following persons are eligible to enroll in the
 
 &emsp;(3) Eligible dependents of a member described in paragraph (1) or (2) who are covered by the enrollment of the member in the plan.
 
-&emsp;(4) The unremarried surviving spouse and eligible child dependents of a deceased member—
+&emsp;(4) Eligible dependents of a member described in paragraph (1) or (2) who is not enrolled in the plan and who—
+
+&emsp;&emsp;(A) is enrolled under section 1705 of title 38 to receive dental care from the Secretary of Veterans Affairs;
+
+&emsp;&emsp;(B) is enrolled in a dental plan that—
+
+&emsp;&emsp;&emsp;(i) is available to the member as a result of employment by the member that is separate from the military service of the member; and
+
+&emsp;&emsp;&emsp;(ii) is not available to dependents of the member as a result of such separate employment by the member; or
+
+&emsp;&emsp;(C) is prevented by a medical or dental condition from being able to obtain benefits under the plan.
+
+&emsp;(5) The unremarried surviving spouse and eligible child dependents of a deceased member—
 
 &emsp;&emsp;(A) who died while in a status described in paragraph (1) or (2);
 
@@ -46,7 +58,7 @@ Termination of Enrollment.—The Secretary shall terminate the enrollment of any
 
 &emsp;(2) In the case of an enrollment under subsection (b)(2), termination of the member's status as a member of the Retired Reserve.
 
-&emsp;(3) In the case of an enrollment under subsection (b)(4), remarriage of the surviving spouse.
+&emsp;(3) In the case of an enrollment under subsection (b)(5), remarriage of the surviving spouse.
 
 (g)
 
@@ -66,9 +78,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term “retired pay” includes retainer pay.
 
-(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813.)
+(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056.)
 
 #### Amendments
+
+1998—Subsec. (b)(4), (5). Pub. L. 105–261, §702(a), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (f)(3). Pub. L. 105–261, §702(b), substituted “(b)(5)” for “(b)(4)”.
 
 1997—Subsec. (a). Pub. L. 105–85, §734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established on the books of the Treasury of the United States a revolving fund to be known as the Community Adjustment Assistance Fund. The fund shall consist of such amounts as may be deposited in it pursuant to the authorization in subsection (b) of this section and any collections, repayments of loans, or other receipts received under the program established in section 2373(a) of this title. Amounts in the fund may be used only to carry out the provisions of sections 2372 and 2373(b) of this title, including administrative costs. Amounts appropriated to the fund shall be available to the Secretary without fiscal year limitation. Upon liquidation of all remaining obligations, any balances remaining in the fund after September 30, 1980, shall be transferred to the general fund of the Treasury.
+There is established on the books of the Treasury of the United States a revolving fund to be known as the Community Adjustment Assistance Fund. The fund shall consist of such amounts as may be deposited in it pursuant to the authorization in subsection (b) of this section and any collections, repayments of loans, or other receipts received under the program established in section 2373(a) of this title.Amounts in the fund may be used only to carry out the provisions of sections 2372 and 2373(b) of this title, including administrative costs. Amounts appropriated to the fund shall be available to the Secretary without fiscal year limitation. Upon liquidation of all remaining obligations, any balances remaining in the fund after September 30, 1980, shall be transferred to the general fund of the Treasury.
 
 #### (b) Authorization of appropriations
 

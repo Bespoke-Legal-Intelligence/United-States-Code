@@ -24,7 +24,7 @@ The Congress finds that—
 
 &emsp;(6) Native Americans and Native American languages (as such terms are defined in section 2902 of title 25), including native residents of the outlying areas, have a unique status under Federal law that requires special policies within the broad purposes of this chapter to serve the education needs of language minority students in the United States;
 
-&emsp;(7) institutions of higher education can assist in preparing teachers, administrators andother school personnel to understand and build upon the educational strengths and needs of language-minority and culturally diverse student enrollments;
+&emsp;(7) institutions of higher education can assist in preparing teachers, administrators and other school personnel to understand and build upon the educational strengths and needs of language-minority and culturally diverse student enrollments;
 
 &emsp;(8) it is the purpose of this subchapter to help ensure that limited English proficient students master English and develop high levels of academic attainment in content areas;
 

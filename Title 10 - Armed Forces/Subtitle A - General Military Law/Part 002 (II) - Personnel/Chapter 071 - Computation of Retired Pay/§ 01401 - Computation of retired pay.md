@@ -7,7 +7,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 &nbsp;
 
 | Formula No. | For sections | Column 1Take | Column 2Multiply by | Column 3Add | Column 4Subtract |
-| --- | :---: | :---: | :---: | :---: | ---: |
+| --- | --- | --- | --- | --- | --- |
 | 1 | 12011204 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability on date when retired. | &nbsp; | Excess over 75% of retired pay base upon which computation is based. |
 |  |  |  |  |  |  |
 | 2 | 12021205 | Retired pay base as computed under section 1406(b) or 1407. | As member elects—  (1) 21/2% of years of service credited to him under section 1208; <sup>1</sup> or  (2) the percentage of disability on date when his name was placed on temporary disability retired list. | Amount necessary to increase product of columns 1 and 2 to 50% of retired pay base upon which computation is based. | Excess over 75% of retired pay base upon which computation is based. |
@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; May 20, 1958, Pub. L. 85–422, §§6(7), 11(a)(2), 72 Stat. 129, 131; Oct. 2, 1963, Pub. L. 88–132, §5(h)(1), 77 Stat. 214; Aug. 21, 1965, Pub. L. 89–132, §6, 79 Stat. 547; Dec. 16, 1967, Pub. L. 90–207, §3(1), 81 Stat. 653; Oct. 2, 1972, Pub. L. 92–455, §1, 86 Stat. 761; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(b)(1), 94 Stat. 1102; Dec. 12, 1980, Pub. L. 96–513, title I, §113(a), title V, §511(49), 94 Stat. 2876, 2924; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), 97 Stat. 641, 642; Oct. 30, 1984, Pub. L. 98–557, §35(b), 98 Stat. 2877; July 1, 1986, Pub. L. 99–348, title II, §201(a), 100 Stat. 691; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1052(18), 106 Stat. 2500; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(2), 108 Stat. 3004.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.)
 
 Historical and Revision Notes
 
@@ -152,7 +152,7 @@ Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting
 
 1963—Pub. L. 88–132 struck out from footnote 1 of table “, and adjust to reflect later changes in applicable permanent rates” after “as the case may be.”
 
-1958—Pub. L. 85–422, §6(7)(A), inserted provisions in Column 1 of formulas 1 and 2 permitting the taking ofthe monthly basic pay to which a member was entitled on the day before retirement or placement on temporary disability retired list, increased, for members credited with two or less years of service for basic pay purposes, by 6 percent.
+1958—Pub. L. 85–422, §6(7)(A), inserted provisions in Column 1 of formulas 1 and 2 permitting the taking of the monthly basic pay to which a member was entitled on the day before retirement or placement on temporary disability retired list, increased, for members credited with two or less years of service for basic pay purposes, by 6 percent.
 
 Pub. L. 85–422, §11(a)(2), substituted “under section 1405 of this title” for “in computing basic pay” in column 2 of formula 4.
 
@@ -206,7 +206,7 @@ Section 305(b) of Pub. L. 99–348 provided that:
 
 “(1)
 
-General rule.—Retired pay or retainer pay may not be paid to a covered member of the Armed Forces (as defined in paragraph (3)) for any month in an amount that is greater than the amount otherwise determined to be payable after such reductions as may be necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for a part of a year of service to permit credit for a part of a year of service only for such month or months actually served.
+General rule.—Retired pay or retainer pay may not be paid to a covered member of the Armed Forces (as defined in paragraph (3)) for any month in an amount that is greater than the amount otherwise determined to be payable after such reductions as may be necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for a partof a year of service to permit credit for a part of a year of service only for such month or months actually served.
 
 “(2)
 
@@ -232,7 +232,7 @@ Cross reference.—For the effective date of October 1, 1983, for provisions mak
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year ofservice only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
@@ -276,7 +276,7 @@ Section 4 of Pub. L. 85–422, as amended by Pub. L. 85–855, §1(a), Aug. 28, 
 
 “(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act \[June 1, 1958\]”.
 
-Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of Pub. L. 85–422, which eliminated the words “and persons with two or less years of service for basic pay purposes who were retired for physical disability or placed on the temporary disability retired list” preceding “members and former members” should be effective June 1, 1958.
+Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of Pub. L. 85–422, whicheliminated the words “and persons with two or less years of service for basic pay purposes who were retired for physical disability or placed on the temporary disability retired list” preceding “members and former members” should be effective June 1, 1958.
 
 #### Public Health Service
 

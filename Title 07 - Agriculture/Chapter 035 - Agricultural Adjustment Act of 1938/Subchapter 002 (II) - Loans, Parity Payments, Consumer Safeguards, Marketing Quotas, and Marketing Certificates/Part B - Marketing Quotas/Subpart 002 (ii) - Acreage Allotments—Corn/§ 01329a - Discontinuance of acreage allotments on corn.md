@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law, acreage allotments and a commercial corn-producing area shall not be established for the 1959 and subsequent crops of corn.
 
-(Feb. 16, 1938, ch. 30, title III, §330, as added Oct. 31, 1949, ch. 792, title I, §104(b)(1), as added Aug. 28, 1958, Pub. L. 85–835, title II, §201, 72 Stat. 994.)
+(Feb. 16, 1938, ch. 30, title III, §330, as added Oct. 31, 1949, ch. 792, title I, §104(b)(1), as added Pub. L. 85–835, title II, §201, Aug. 28, 1958, 72 Stat. 994.)
 
 #### Inapplicability of Section
 

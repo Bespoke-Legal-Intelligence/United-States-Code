@@ -38,5 +38,5 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 #### Definition of “Administrator”
 
-Section 127 of title I of Pub. L. 101–611 provided that: “For purposes of this title \[enacting this section and sections 2459a and 2471a of this title and section 1535 of Title 15, Commerce and Trade, amending section 2473 of this title and sections 2601, 2602, 2604, 2614, and 2623 of former Title 49, Transportation, and enacting provisions set out as notes under sections 2451, 2459, and 2471 of this title\], the term ‘Administrator’ means the Administrator of the National Aeronautics and Space Administration.”
+Section 127 of title I of Pub. L. 101–611 provided that: “For purposes of this title \[enacting this section andsections 2459a and 2471a of this title and section 1535 of Title 15, Commerce and Trade, amending section 2473 of this title and sections 2601, 2602, 2604, 2614, and 2623 of former Title 49, Transportation, and enacting provisions set out as notes under sections 2451, 2459, and 2471 of this title\], the term ‘Administrator’ means the Administrator of the National Aeronautics and Space Administration.”
 

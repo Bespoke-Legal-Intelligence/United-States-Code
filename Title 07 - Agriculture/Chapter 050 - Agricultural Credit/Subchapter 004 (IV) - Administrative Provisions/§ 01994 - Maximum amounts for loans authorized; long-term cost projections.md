@@ -158,7 +158,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (ii) Operating loans
 
-&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for guarantees of operating loans, the Secretary shall reserve 40 percent for qualified beginning farmers and ranchers.
+&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for guarantees of operatingloans, the Secretary shall reserve 40 percent for qualified beginning farmers and ranchers.
 
 #### (iii) Funds reserved until April 1
 
@@ -216,7 +216,7 @@ For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), se
 
 1996—Subsec. (a). Pub. L. 104–127, §641(1), in second sentence, struck out “with or without authority for the Secretary to transfer amounts between such categories within a given program for more effective administration” before period at end.
 
-Subsec. (b). Pub. L. 104–127, §641(2), added subsec. (b) and struck out former subsec. (b), which set forth maximum amounts for direct and guaranteed loans underthe Agricultural Credit Insurance Fund for fiscal years 1991 to 1995.
+Subsec. (b). Pub. L. 104–127, §641(2), added subsec. (b) and struck out former subsec. (b), which set forth maximum amounts for direct and guaranteed loans under the Agricultural Credit Insurance Fund for fiscal years 1991 to 1995.
 
 1992—Subsec. (b)(2). Pub. L. 102–554, §20(b), inserted sentence at end.
 

@@ -36,6 +36,10 @@ For the purposes of this section—
 
 &emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
 
+#### (3) Land acquisition
+
+&emsp;Notwithstanding subsection (h) of this section, the Secretary is authorized to acquire, in partnership with other entities, a less than fee interest in lands at Thompson Island within the recreation area. The Secretary may acquire the lands only by donation, purchase with donated or appropriated funds, or by exchange.
+
 #### (d) Administration of recreation area
 
 #### (1) In general
@@ -240,9 +244,13 @@ For the purposes of this section—
 
 &emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ration <sup>4</sup> of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
-(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232.)
+(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266.)
 
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1998—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
 

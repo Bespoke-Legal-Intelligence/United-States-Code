@@ -16,7 +16,7 @@ If any person summoned under section 1509 of this title does not comply with the
 
 (3) The sanctions which may be imposed under paragraphs (1) and (2) are in addition to any punishment which may be imposed by the court for contempt.
 
-(June 17, 1930, ch. 497, title IV, §510, 46 Stat. 733; June 2, 1970, Pub. L. 91–271, title III, §301(<i>o</i>), 84 Stat. 290; Oct. 3, 1978, Pub. L. 95–410, title I, §106, 92 Stat. 891; Dec. 8, 1993, Pub. L. 103–182, title VI, §616, 107 Stat. 2179.)
+(June 17, 1930, ch. 497, title IV, §510, 46 Stat. 733; Pub. L. 91–271, title III, §301(<i>o</i>), June 2, 1970, 84 Stat. 290; Pub. L. 95–410, title I, §106, Oct. 3, 1978, 92 Stat. 891; Pub. L. 103–182, title VI, §616, Dec. 8, 1993, 107 Stat. 2179.)
 
 #### References in Text
 

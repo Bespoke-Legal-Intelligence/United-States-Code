@@ -6,7 +6,7 @@
 
 (c) The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the certificate program provided for under section 1379d of this title to a program under which no certificates are required. Notwithstanding any other provision of law, such authority shall include, but shall not be limited to the authority to exempt all or a portion of wheat or food products made therefrom in the channels of trade on July 1, 1973, from the marketing restrictions in subsection (b) of section 1379d of this title, or to sell certificates to persons owning such wheat or food products made therefrom at such price and under such terms and conditions as the Secretary may determine. Any such certificate shall be issued by the Commodity Credit Corporation. Nothing herein shall authorize the Secretary to require certificates on wheat processed after June 30, 1973.
 
-(Feb. 16, 1938, ch. 30, title III, §379g as added Sept. 27, 1962, Pub. L. 87–703, title III, §324(2), 76 Stat. 629; amended Nov. 3, 1965, Pub. L. 89–321, title V, §504(d), 79 Stat. 1203; Nov. 30, 1970, Pub. L. 91–524, title IV, §403(b), as added Aug. 10, 1973, Pub. L. 93–86, §1(10), 87 Stat. 228.)
+(Feb. 16, 1938, ch. 30, title III, §379g, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, §504(d), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 91–524, title IV, §403(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(10), Aug. 10, 1973, 87 Stat. 228.)
 
 #### References in Text
 
@@ -20,7 +20,7 @@ This part, referred to in subsecs. (a) and (b), commences with section 1379a of 
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
 

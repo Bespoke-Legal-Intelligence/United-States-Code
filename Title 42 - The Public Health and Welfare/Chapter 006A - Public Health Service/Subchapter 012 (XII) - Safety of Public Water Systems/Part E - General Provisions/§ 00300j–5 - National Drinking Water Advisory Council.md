@@ -22,13 +22,13 @@ Members of the Council appointed under this section shall, while attending meeti
 
 Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
 
-(July 1, 1944, ch. 373, title XIV, §1446, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1688; amended Aug. 6, 1996, Pub. L. 104–182, title I, §127, 110 Stat. 1659.)
+(July 1, 1944, ch. 373, title XIV, §1446, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1688; amended Pub. L. 104–182, title I, §127, Aug. 6, 1996, 110 Stat. 1659.)
 
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

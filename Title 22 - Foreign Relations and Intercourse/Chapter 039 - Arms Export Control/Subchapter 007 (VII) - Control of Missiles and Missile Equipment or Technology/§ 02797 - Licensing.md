@@ -2,25 +2,33 @@
 
 #### (a) Establishment of list of controlled items
 
-The Secretary of State, in consultation with the Secretary of Defense, the Director of the Arms Control and Disarmament Agency, and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405(<i>l</i>) of title 50, Appendix.
+The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 2405(<i>l</i>) of title 50, Appendix.
 
 #### (b) Referral of license applications
 
-(1) A determination of the Secretary of State to approve a license for the export of an item on the list established under subsection (a) of this section may be made only after the license application is referred to the Secretary of Defense and the Director of the United States Arms Control and Disarmament Agency.
+(1) A determination of the Secretary of State to approve a license for the export of an item on the list established under subsection (a) of this section may be made only after the license application is referred to the Secretary of Defense.
 
-(2) Within 10 days after a license is issued for the export of an item on the list established under subsection (a) of this section, the Secretary of State shall provide to the Secretary of Defense, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency the license application and accompanying documents issued to the applicant, to the extent that the relevant Secretary or the Director indicates the need to receive such application and documents.
+(2) Within 10 days after a license is issued for the export of an item on the list established under subsection (a) of this section, the Secretary of State shall provide to the Secretary of Defense and the Secretary of Commerce the license application and accompanying documents issued to the applicant, to the extent that the relevant Secretary indicates the need to receive such application and documents.
 
 #### (c) Information sharing
 
-The Secretary of State shall establish a procedure for sharing information with appropriate officials of the intelligence community, as determined by the Director of Central Intelligence, with the Director of the United States Arms Control and Disarmament Agency, and with other appropriate Government agencies, that will ensure effective monitoring of transfers of MTCR equipment or technology and other missile technology.
+The Secretary of State shall establish a procedure for sharing information with appropriate officials of the intelligence community, as determined by the Director of Central Intelligence, and with other appropriate Government agencies, that will ensure effective monitoring of transfers of MTCR equipment or technology and other missile technology.
 
 #### (d) Exports to space launch vehicle programs
 
-Within 15 days after the issuance of a license for the export of items valued at less than$14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex, the Secretary shall transmit to the Congress a report describing the licensed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. The requirement contained in the preceding sentence shall not apply to licenses for exports to countries that were members of the MTCR as of April 17, 1987.
+Within 15 days after the issuance of a license for the export of items valued at less than $14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex, the Secretary shall transmit to the Congress a report describing the licensed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. The requirement contained in the preceding sentence shall not apply to licenses for exports to countries that were members of the MTCR as of April 17, 1987.
 
-(Pub. L. 90–629, ch. 7, §71, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506.)
+(Pub. L. 90–629, ch. 7, §71, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(4)–(7), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §1225(a)(4), struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
+
+Subsec. (b)(1). Pub. L. 105–277, §1225(a)(5), struck out “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
+
+Subsec. (b)(2). Pub. L. 105–277, §1225(a)(6), substituted “and the Secretary of Commerce” for “the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” and struck out “or the Director” after “the relevant Secretary”.
+
+Subsec. (c). Pub. L. 105–277, §1225(a)(7), struck out “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 
 1994—Subsec. (a). Pub. L. 103–236, §714(a)(3), inserted “, the Director of the Arms Control and Disarmament Agency,” after “the Secretary of Defense”.
 
@@ -32,9 +40,13 @@ Subsec. (c). Pub. L. 103–236, §714(a)(6), inserted “with the Director of th
 
 Subsec. (d). Pub. L. 103–236, §735(c), added subsec. (d).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
 #### Delegation of Functions
 
-Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
+Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation ofcertain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
 
 #### Report on Missile Proliferation
 
@@ -66,7 +78,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[50 App. U.S.C. 2401 et seq.\] are delegated to the Secretary of Commerce.
 
-(2) The authority and duties vested in me to deny certain United States Government contracts as providedin sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
+(2) The authority and duties vested in me to deny certain United States Government contracts as provided in sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
 
 (3) The authority and duties vested in me to prohibit certain imports as provided in section 73(a)(2)(C), pursuant to a determination made by the Secretary of State under that section, and the obligation to implement the exceptions provided in section 73(g), are delegated to the Secretary of the Treasury.
 
@@ -93,4 +105,6 @@ Sec. 6. <i>Delegations</i>. The functions delegated herein may be redelegated as
 Sec. 7. <i>Priority</i>. This order supercedes the Memorandum of the President, “Delegation of Authority Regarding Missile Technology Proliferation,” June 25, 1991. To the extent that this order is inconsistent with any provisions of any prior Executive order or Presidential memorandum, this order shall control.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 

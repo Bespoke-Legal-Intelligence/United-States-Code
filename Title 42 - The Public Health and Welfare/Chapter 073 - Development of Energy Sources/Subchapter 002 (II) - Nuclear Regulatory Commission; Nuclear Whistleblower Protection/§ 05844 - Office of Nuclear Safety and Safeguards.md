@@ -16,7 +16,7 @@ Subject to the provisions of this chapter, the Director of Nuclear Material Safe
 
 &emsp;&emsp;(B) developing, in consultation and coordination with the Administration, contingency plans for dealing with threats, thefts, and sabotage relating to special nuclear materials, high-level radioactive wastes and nuclear facilities resulting from all activities licensed under the Atomic Energy Act of 1954, as amended;
 
-&emsp;&emsp;(C) assessing the need for, and the feasibility of, establishing a security agency within the office for the performance of the safeguards functions, and a report with recommendations on this matter shall be prepared within one year of the effective date of this chapter and promptly transmitted to the Congress by the Commission.
+&emsp;&emsp;(C) assessing the need for, and the feasibility of, establishing a security agency withinthe office for the performance of the safeguards functions, and a report with recommendations on this matter shall be prepared within one year of the effective date of this chapter and promptly transmitted to the Congress by the Commission.
 
 &emsp;(3) Recommending research to enable the Commission to more effectively perform its functions.
 
@@ -28,7 +28,7 @@ Nothing in this section shall be construed to limit in any way the functions of 
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (b)(1), (2), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (b)(1), (2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (b)(2)(C), refers to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Provisions note under section 5801 of this title.
 

@@ -30,7 +30,7 @@ Sec. 4. Travel and transportation allowances paid before the effective date of t
 
 “
 
-Sec. 5. Any person who was ordered by competent authority after January 1, 1950, and before the effectivedate of this Act \[Aug. 14, 1959\] to escort dependents of members of the uniformed services and who has not been paid travel and transportation allowances, or who has repaid the United States the amount so paid to him, is entitled to be paid the amount otherwise authorized by section 1 of this Act \[enacting this section\], if application for such payment is made not later than one year after the effective date of this Act \[Aug. 14, 1959\].
+Sec. 5. Any person who was ordered by competent authority after January 1, 1950, and before the effective date of this Act \[Aug. 14, 1959\] to escort dependents of members of the uniformed services and who has not been paid travel and transportation allowances, or who has repaid the United States the amount so paid to him, is entitled to be paid the amount otherwise authorized by section 1 of this Act \[enacting this section\], if application for such payment is made not later than one year after the effective date of this Act \[Aug. 14, 1959\].
 
 “
 

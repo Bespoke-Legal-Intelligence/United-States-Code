@@ -20,7 +20,7 @@ No grant may be made under this part unless the public or nonprofit private orga
 
 &emsp;(8) provide a preference for Native Hawaiians 60 years of age and older for full or part-time staff positions wherever feasible;
 
-&emsp;(9) provide that any legal or ombudsman services made available to older Native Hawaiians represented by the nonprofit private organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing and similar services; and
+&emsp;(9) provide that any legal or ombudsman services made available to older Native Hawaiians represented by the nonprofit private organization will be substantially in compliance with the provisions of subchapter III of thischapter relating to the furnishing and similar services; and
 
 &emsp;(10) provide satisfactory assurances that the fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the nonprofit private organization, including any funds paid by the organization to a recipient of a grant or contract.
 

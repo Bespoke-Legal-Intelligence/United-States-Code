@@ -42,7 +42,7 @@
 
 #### (6) Exercise of jurisdiction by Commission
 
-&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercisethat jurisdiction by filing a new certification that meets the requirements of paragraph (3). Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
+&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercise that jurisdiction by filing a new certification that meets the requirements of paragraph (3). Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
 
 #### (7) Aggregation of equipment costs
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;(B) procedures for the expeditious resolution of disputes between cable operators and franchising authorities concerning the administration of such regulations;
 
-&emsp;&emsp;(C) standards and procedures to prevent unreasonable charges for changes in the subscriber's selection of services or equipment subject to regulation under this section, which standards shall require that charges for changing the service tier selected shallbe based on the cost of such change and shall not exceed nominal amounts when the system's configuration permits changes in service tier selection to be effected solely by coded entry on a computer terminal or by other similarly simple method; and
+&emsp;&emsp;(C) standards and procedures to prevent unreasonable charges for changes in the subscriber's selection of services or equipment subject to regulation under this section, which standards shall require that charges for changing the service tier selected shall be based on the cost of such change and shall not exceed nominal amounts when the system's configuration permits changes in service tier selection to be effected solely by coded entry on a computer terminal or by other similarly simple method; and
 
 &emsp;&emsp;(D) standards and procedures to assure that subscribers receive notice of the availability of the basic service tier required under this section.
 
@@ -168,7 +168,7 @@
 
 &emsp;&emsp;(C) the history of the rates for cable programming services of the system, including the relationship of such rates to changes in general consumer prices;
 
-&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cableservices provided by the system, other than programming provided on a per channel or per program basis;
+&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cable services provided by the system, other than programming provided on a per channel or per program basis;
 
 &emsp;&emsp;(E) capital and operating costs of the cable system, including the quality and costs of the customer service provided by the cable system; and
 

@@ -16,7 +16,7 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 (b)
 
-Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officer of the State and of the local jurisdiction in which the prisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
+Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which a prisoner described in paragraph (3) is to be released on supervised release, or, in the case of a prisoner on supervised release, at least 5 days prior to the date on which the prisoner changes residence to a new jurisdiction, written notice of the release or change of residence shall be provided to the chief law enforcement officer of the State and of the local jurisdiction in which theprisoner will reside. Notice prior to release shall be provided by the Director of the Bureau of Prisons. Notice concerning a change of residence following release shall be provided by the probation officer responsible for the supervision of the released prisoner, or in a manner specified by the Director of the Administrative Office of the United States Courts. The notice requirements under this subsection do not apply in relation to a prisoner being protected under chapter 224.
 
 (2) A notice under paragraph (1) shall disclose—
 
@@ -64,7 +64,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 Application of Section.—This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; July 1, 1968, Pub. L. 90–371, 82 Stat. 280; Sept. 13, 1994, Pub. L. 103–322, title II, §20417, 108 Stat. 1834; Nov. 26, 1997, Pub. L. 105–119, title I, §115(a)(8)(A), 111 Stat. 2464.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464.)
 
 #### Historical and Revision Notes
 
@@ -94,7 +94,15 @@ Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, setout as a note under section 14071 of Title 42, The Public Health and Welfare.
+
+#### Guidelines for States Regarding Infectious Diseases in Correctional Institutions
+
+Pub. L. 105–370, §2(c), Nov. 12, 1998, 112 Stat. 3375, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 12, 1998\], the Attorney General, in consultation with the Secretary of Health and Human Services, shall provide to the several States proposed guidelines for the prevention, detection, and treatment of incarcerated persons and correctional employees who have, or may be exposed to, infectious diseases in correctional institutions.”
+
+#### Prisoner Access
+
+Pub. L. 105–314, title VIII, §801, Oct. 30, 1998, 112 Stat. 2990, provided that: “Notwithstanding any other provision of law, no agency, officer, or employee of the United States shall implement, or provide any financial assistance to, any Federal program or Federal activity in which a Federal prisoner is allowed access to any electronic communication service or remote computing service without the supervision of an official of the Federal Government.”
 
 #### Application to Prisoners to Which Prior Law Applies
 
@@ -106,7 +114,7 @@ Pub. L. 101–647, title XXIX, §2907, Nov. 29, 1990, 104 Stat. 4915, provided t
 
 #### Administration of Confinement Facilities Located on Military Installations by Bureau of Prisons
 
-Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided that: “In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 \[see section 2819 of Pub. L. 100–456, set out as a note under section 2391 of Title 10, Armed Forces\], the Bureau of Prisons shall be responsible for—
+Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided that: “In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 \[see section 2819 of Pub. L. 100–456, 104 Stat. 1820, formerly set out as a note under section 2391 of Title 10, Armed Forces\], the Bureau of Prisons shall be responsible for—
 
 &emsp;“(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible men housed in such or similar minimum security confinement facilities (i.e., prison camps);
 

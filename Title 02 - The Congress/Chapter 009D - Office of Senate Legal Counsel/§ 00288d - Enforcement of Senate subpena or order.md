@@ -30,7 +30,7 @@ The provisions of subsection (c) of this section are enacted—
 
 &emsp;(1) as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule of the Senate only to the extent that rule is inconsistent therewith; and
 
-&emsp;(2) with full recognition of the constitutional right of the Senate to change such rules (so far as relating to the procedure in the Senate) at any time, in the same manner, and tothe same extent as in the case of any other rule of the Senate.
+&emsp;(2) with full recognition of the constitutional right of the Senate to change such rules (so far as relating to the procedure in the Senate) at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
 
 #### (e) Committee reports
 

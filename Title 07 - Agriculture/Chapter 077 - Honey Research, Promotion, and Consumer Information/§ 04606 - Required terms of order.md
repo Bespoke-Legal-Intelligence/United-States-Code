@@ -8,13 +8,13 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 (1) Such order shall provide for the establishment and appointment by the Secretary of a National Honey Nominations Committee which shall consist of not more than one member from each State, from nominations submitted by each State association. If a State association does not submit a nomination, the Secretary may provide for nominations from that State to be made in a different manner, except that if a State which is not one of the top twenty honey-producing States in the United States (as determined by the Secretary) does not submit a nomination, such State shall not be represented on the Committee.
 
-(2) Members of the Committee shall serve for three-year terms with no member serving more than two consecutive three-year terms, except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms.
+(2) Members of the Committee shall serve for three-year terms with no member serving more than two consecutive three-year terms, except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary.
 
 (3) The Committee shall select its Chairman by a majority vote.
 
 (4) The members of the Committee shall serve without compensation but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Committee.
 
-(5) The Committee shall nominate the members and alternates of the Honey Board and submit such nominations to the Secretary. In making such nominations, the Committee shall meet annually, except that after the first annual meeting, when determined by the Chairman, the Committee may conduct its business by mail ballot in lieu of an annual meeting. In order to nominate members to the Honey Board, at least 50 per centum of the members from the twenty leading honey producing States must vote. A majority of the National Honey Nominations Committee shall constitute a quorum for voting at an annual meeting. In the case of a mail ballot, votes must be received from a majority of the Committee.
+(5) The Committee shall nominate the members and alternates of the Honey Board and submit such nominations to the Secretary. In making such nominations, the Committee shall meet annually, except that, when determined by the Chairman, the Committee may conduct its business by mail ballot in lieu of an annual meeting. In order to nominate members to the Honey Board, at least 50 percent of the members from the twenty leading honey producing States must vote. A majority of the National Honey Nominations Committee shall constitute a quorum for voting at an annual meeting. In the case of a mail ballot, votes must be received from a majority of the Committee.
 
 #### (c) Honey Board; membership; terms; alternates; compensation; powers; duties
 
@@ -22,25 +22,185 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 (2) The membership of the Honey Board shall consist of—
 
-&emsp;(A) seven members who are honey producers appointed from nominations submitted by the National Honey Nominations Committee, one from each of seven regions of the United States which shall be established by the Secretary on the basis of the production of honey in the different areas of the country;
+&emsp;(A) 7 members who are honey producers appointed from nominations submitted by the National Honey Nominations Committee, one from each of seven regions of the United States which shall be established by the Secretary on the basis of the production of honey in the different areas of the country;
 
-&emsp;(B) two members who are handlers of honey appointed from nominations submitted by the Committee from recommendations made by industry organizations representing handler interests;
+&emsp;(B) 2 members who are handlers appointed from nominations submitted by the Committee from recommendations made by qualified national organizations representing handler interests;
 
-&emsp;(C) two members who are either importers or exporters, of which at least one shall be an importer, appointed from nominations submitted by the Committee from recommendations by industry organizations representing importer and exporter interests;
+&emsp;(C) if approved in a referendum conducted under this chapter, 2 members who—
 
-&emsp;(D) one member who is an officer or employee of a honey marketing cooperative appointed from nominations submitted by the Committee; and
+&emsp;&emsp;(i) are handlers of honey;
 
-&emsp;(E) one member selected by the Secretary from the general public.
+&emsp;&emsp;(ii) during any 3 of the preceding 5 years, were also importers of record of at least 40,000 pounds of honey; and
 
-> The Committee shall also submit nominations for an alternate for each member of the Honey Board described in subparagraphs (A) through (D), and the Secretary shall appoint an alternate for the member described in subparagraph (E). Such alternates shall be appointed in the same manner as members are and shall serve only whenever the member is absent from a meeting or is disqualified. However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.
+&emsp;&emsp;(iii) are appointed from nominations submitted by the Committee from recommendations made by—
 
-(3) Members of the Honey Board shall serve for three-year terms with no member serving more than two consecutive three-year terms except that the initial appointments to the Honey Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms.
+&emsp;&emsp;&emsp;(I) qualified national organizations representing handler interests or qualified national organizations representing importer interests; or
 
-(4) In the event any member of the Honey Board ceases to be a member of the category of members from which the member was appointed to the Honey Board, such person shall be automatically replaced by an alternate, except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed.
+&emsp;&emsp;&emsp;(II) if the Secretary determines that there is not a qualified national organization representing handler interests or a qualified national organization representing importer interests, individual handlers or importers that have paid assessments to the Honey Board on imported honey or honey products;
 
-(5) The members of the Honey Board shall serve without compensation but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Honey Board.
+&emsp;(D) 2 members who are importers appointed from nominations submitted by the Committee from recommendations made by—
 
-(6) The powers and duties of the Honey Board shall be to—
+&emsp;&emsp;(i) qualified national organizations representing importer interests; or
+
+&emsp;&emsp;(ii) if the Secretary determines that there is not a qualified national organization representing importer interests, individual importers that have paid assessments to the Honey Board on imported honey or honey products; and
+
+&emsp;(E) 1 member who is an officer, director, or employee of a national honey marketing cooperative appointed from nominations submitted by the Committee from recommendations made by qualified national honey marketing cooperatives.
+
+(3)
+
+Alternates.—The Committee shall submit nominations for an alternate for each member of the Honey Board described in paragraph (2). An alternate shall be appointed in the same manner as a member and shall serve when the member is absent from a meeting or is disqualified.
+
+(4)
+
+Reconstitution.—
+
+&emsp;(A)
+
+Review.—If approved in a referendum conducted under this chapter and in accordance with rules issued by the Secretary, the Honey Board shall review, at times determined under subparagraph (E)—
+
+&emsp;&emsp;(i) the geographic distribution of the quantities of domestically produced honey assessed under the order; and
+
+&emsp;&emsp;(ii) changes in the annual average percentage of assessments owed by importers under the order relative to assessments owed by producers and handlers of domestic honey, including—
+
+&emsp;&emsp;&emsp;(I) whether any changes in assessments owed on imported quantities are owed by importers described in paragraph (5)(B); or
+
+&emsp;&emsp;&emsp;(II) whether such importers are handler-importers described in paragraph (2)(C).
+
+&emsp;(B)
+
+Recommendations.—If warranted and in accordance with this subsection, the Honey Board shall recommend to the Secretary—
+
+&emsp;&emsp;(i) changes in the regional representation of honey producers established by the Secretary;
+
+&emsp;&emsp;(ii) if necessary to reflect any changes in the proportion of domestic and imported honey assessed under the order or the source of assessments on imported honey or honey products, the reallocation of—
+
+&emsp;&emsp;&emsp;(I) handler-importer member positions under paragraph (2)(C) as handler member positions under paragraph (2)(B);
+
+&emsp;&emsp;&emsp;(II) importer member positions under paragraph (2)(D) as handler-importer member positions under paragraph (2)(C); or
+
+&emsp;&emsp;&emsp;(III) handler-importer member positions under paragraph (2)(C) as importer member positions under paragraph (2)(D); or
+
+&emsp;&emsp;(iii) if necessary to reflect any changes in the proportion of domestic and imported honey or honey products assessed under the order, the addition of members to the Honey Board under subparagraph (A), (B), (C), or (D) of paragraph (2).
+
+&emsp;(C)
+
+Scope of review.—The review required under subparagraph (A) shall be based on data from the 5-year period preceding the year in which the review is conducted.
+
+&emsp;(D)
+
+Basis for recommendations.—
+
+&emsp;&emsp;(i)
+
+In general.—Except as provided in subparagraph (F), recommendations made under subparagraph (B) shall be based on—
+
+&emsp;&emsp;&emsp;(I) the 5-year average annual assessments, excluding the 2 years containing the highest and lowest disparity between the proportion of assessments owed from imported and domestic honey or honey products, determined pursuant to the review that is conducted under subparagraph (A); and
+
+&emsp;&emsp;&emsp;(II) whether any change in the average annual assessments is from the assessments owed by importers described in paragraph (5)(B) or from the assessments owed by handler-importers described in paragraph (2)(C).
+
+&emsp;&emsp;(ii)
+
+Proportions.—The Honey Board shall recommend a reallocation or addition of members pursuant to clause (ii) or (iii) of subparagraph (B) only if 1 or more of the following proportions change by more than 6 percent from the base period proportion determined in accordance with subparagraph (F):
+
+&emsp;&emsp;&emsp;(I) The proportion of assessments owed by handler-importers described in paragraph (2)(C) compared with the proportion of assessments owed by importers described in paragraph (2)(D).
+
+&emsp;&emsp;&emsp;(II) The proportion of assessments owed by importers compared with the proportion of assessments owed on domestic honey by producers and handlers.
+
+&emsp;(E)
+
+Timing of review.—
+
+&emsp;&emsp;(i)
+
+In general.—The Honey Board shall conduct the reviews required under this paragraph not more than once during each 5-year period.
+
+&emsp;&emsp;(ii)
+
+Initial review.—The Honey Board shall conduct the initial review required under this paragraph prior to the initial continuation referendum conducted under section 4612(c) of this title following the referendum conducted under section 4613 of this title.
+
+&emsp;(F)
+
+Base period proportions.—
+
+&emsp;&emsp;(i)
+
+In general.—The base period proportions for determining the magnitude of change under subparagraph (D) shall be the proportions determined during the prior review conducted under this paragraph.
+
+&emsp;&emsp;(ii)
+
+Initial review.—In the case of the initial review required under subparagraph (E)(ii), the base period proportions shall be the proportions determined by the Honey Board for fiscal year 1996.
+
+(5)
+
+Restrictions on nomination and appointment.—
+
+&emsp;(A)
+
+Producer-packers as producers.—No producer-packer that, during any 3 of the preceding 5 years, purchased for resale more honey than the producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in paragraph (2)(A) or as an alternate to such a producer.
+
+&emsp;(B)
+
+Importers.—No importer that, during any 3 of the preceding 5 years, did not receive at least 75 percent of the gross income generated by the sale of honey and honey products from the sale of imported honey and honey products shall be eligible for nomination or appointment to the Honey Board as an importer described in paragraph (2)(D) or an alternate to such an importer.
+
+(6)
+
+Certification of organizations.—
+
+&emsp;(A)
+
+In general.—The eligibility of an organization to participate in the making of recommendations to the Committee for nomination to the Honey Board to represent handlers or importers under this section shall be certified by the Secretary.
+
+&emsp;(B)
+
+Eligibility criteria.—Subject to the other provisions of this paragraph, the Secretary shall certify an organization that the Secretary determines meets the eligibility criteria established by the Secretary under this paragraph.
+
+&emsp;(C)
+
+Finality.—An eligibility determination of the Secretary under this paragraph shall be final.
+
+&emsp;(D)
+
+Basis for certification.—Certification of an organization under this paragraph shall be based on, in addition to other available information, a factual report submitted by the organization that contains information considered relevant by the Secretary, including—
+
+&emsp;&emsp;(i) the geographic territory covered by the active membership of the organization;
+
+&emsp;&emsp;(ii) the nature and size of the active membership of the organization, including the proportion of the total number of active handlers or importers represented by the organization;
+
+&emsp;&emsp;(iii) evidence of the stability and permanency of the organization;
+
+&emsp;&emsp;(iv) sources from which the operating funds of the organization are derived;
+
+&emsp;&emsp;(v) the functions of the organization; and
+
+&emsp;&emsp;(vi) the ability and willingness of the organization to further the purposes of this chapter.
+
+&emsp;(E)
+
+Primary considerations.—A primary consideration in determining the eligibility of an organization under this paragraph shall be whether—
+
+&emsp;&emsp;(i) the membership of the organization consists primarily of handlers or importers that derive a substantial quantity of their income from sales of honey and honey products; and
+
+&emsp;&emsp;(ii) the organization has an interest in the marketing of honey and honey products.
+
+&emsp;(F)
+
+Nonmembers.—As a condition of certification under this paragraph, an organization shall agree—
+
+&emsp;&emsp;(i) to notify nonmembers of the organization of Honey Board nomination opportunities for which the organization is certified to make recommendations to the Committee; and
+
+&emsp;&emsp;(ii) to consider the nomination of nonmembers when making the nominations of the organization to the Committee, if nonmembers indicate an interest in serving on the Honey Board.
+
+(7)
+
+Minimum percentage of honey producers.—Notwithstanding any other provision of this subsection, at least 50 percent of the members of the Honey Board shall be honey producers.
+
+(8) Members of the Honey Board shall serve for three-year terms with no member serving more than two consecutive three-year terms except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups..<sup>1</sup>
+
+(9) In the event any member of the Honey Board ceases to be a member of the category of members from which the member was appointed to the Honey Board, such person shall be automatically replaced by an alternate, except that if, as a result of the adjustment of the boundaries of the regions established under paragraph (2)(A), a producer member or alternate is no longer from the region from which such person was appointed, such member or alternate may serve out the term for which such person was appointed.
+
+(10) The members of the Honey Board shall serve without compensation but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Honey Board.
+
+(11) The powers and duties of the Honey Board shall be to—
 
 &emsp;(A) administer any order, issued by the Secretary under this chapter, in accordance with its terms and provisions and consistent with the provisions of this chapter;
 
@@ -56,31 +216,87 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 The Honey Board shall prepare and submit to the Secretary, for the Secretary's approval, a budget (on a fiscal period basis) of its anticipated expenses and disbursements in the administration of the order, including probable costs of research, promotion, and consumer information.
 
-#### (e) Assessment; collection; rate; exemption; effect of exemption on referendum voting status
+#### (e) Assessment; collection; rates; exemption; effect of exemption on referendum voting status
 
-(1) The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.
+(1)
 
-(2)(A) Honey that is consumed at home by the producer or importer or donated by the producer or importer to a nonprofit, government, or other entity, as determined appropriate by the Secretary, rather than sold shall be exempt from assessment under the order, except that donated honey that later is sold in a commercial outlet by a donee or a donee's assignee shall be subject to assessment on such sale.
+In general.—The Honey Board shall administer collection of the assessment provided for in this subsection, and may accept voluntary contributions from other sources, to finance the expenses described in subsections (d) and (f) of this section.
 
-(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption in such year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
+(2)
 
-(ii) In order to claim an exemption under this subparagraph, a person shall submit an application to the Honey Board stating the basis on which the person claims the exemption for such year.
+Rate.—Except as provided in paragraph (3), the assessment rate shall be $0.01 per pound (payable in the manner described in section 4608 of this title), with—
 
-(iii) If, after a person claims an exemption from assessments for any year under this subparagraph, such person no longer meets the requirements of this subparagraph for an exemption, such person shall file a report with the Honey Board in the form and manner prescribed by the Board and pay an assessment on or before March 15 of the subsequent year on all honey produced or imported by such person during the year for which the person claimed the exemption.
+&emsp;(A) in the case of honey produced in the United States, $0.01 per pound payable by honey producers; and
 
-(3) If a producer, producer-packer, or importer does not pay any assessments under this chapter due to the applicability to such person of the exemptions from assessments provided in paragraph (2), then such producer, producer-packer, or importer shall not be considered a producer or importer for purposes of voting in any referendum conducted under this chapter during the period the person's exemption from all assessments is in effect.
+&emsp;(B) in the case of honey or honey products imported into the United States, $0.01 per pound payable by honey importers.
 
-#### (f) Funds; use of; reimbursement; Secretary
+(3)
 
-Funds collected by the Honey Board from the assessments shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter. The Secretary shall be reimbursed from assessments collected by the Honey Board for any expenses incurred for the conduct of referenda.
+Alternative rate approved in referendum.—If approved in a referendum conducted under this chapter, the assessment rate shall be $0.015 per pound (payable in the manner described in section 4608 of this title)—
+
+&emsp;(A) in the case of honey produced in the United States—
+
+&emsp;&emsp;(i) $0.0075 per pound payable by—
+
+&emsp;&emsp;&emsp;(I) honey producers; and
+
+&emsp;&emsp;&emsp;(II) producer-packers on all honey produced by the producer-packers; and
+
+&emsp;&emsp;(ii) $0.0075 per pound payable by—
+
+&emsp;&emsp;&emsp;(I) handlers; and
+
+&emsp;&emsp;&emsp;(II) producer-packers on all honey and honey products handled by the producer-packers, including honey produced by the producer-packers); and
+
+&emsp;(B) in the case of honey and honey products imported into the United States, $0.015 per pound payable by honey importers, of which $0.0075 per pound represents the assessment due from the handler to be paid by the importer on behalf of the handler.
+
+(4)(A) Honey that is consumed at home by the producer or importer or donated by the producer or importer to a nonprofit, government, or other entity, as determined appropriate by the Secretary, rather than sold shall be exempt from assessment under the order, except that donated honey that later is sold in a commercial outlet by a donee or a donee's assignee shall be subject to assessment on such sale.
+
+(B)
+
+Small quantities.—
+
+&emsp;(i)
+
+In general.—A producer, producer-packer, handler, or importer that produces, imports, or handles during a year less than 6,000 pounds of honey or honey products shall be exempt in that year from payment of an assessment on honey or honey products that the person distributes directly through local retail outlets, as determined by the Secretary, during that year.
+
+&emsp;(ii)
+
+Inapplicability.—If a person no longer meets the requirements of clause (i) for an exemption, the person shall—
+
+&emsp;&emsp;(I) file a report with the Honey Board in the form and manner prescribed by the Honey Board; and
+
+&emsp;&emsp;(II) pay an assessment on or before March 15 of the subsequent year on all honey or honey products produced, imported, or handled by the person during the year in which the person no longer meets the requirements of clause (i) for an exemption.
+
+(5) If a producer, producer-packer handler,,<sup>2</sup> or importer does not pay any assessments under this chapter due to the applicability to such person of the exemptions from assessments provided in paragraph (4), then such producer, producer-packer handler,,<sup>2</sup> or importer shall not be considered a producer, handler, or importer for purposes of voting in any referendum conducted under this chapter during the period the person's exemption from all assessments is in effect.
+
+#### (f) Funds
+
+#### (1) Use
+
+&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
+
+#### (2) Research projects
+
+#### (A) In general
+
+&emsp;&emsp;If approved in a referendum conducted under this chapter, the Honey Board shall reserve at least 8 percent of all assessments collected during a year for expenditure on approved research projects designed to advance the cost effectiveness, competitiveness, efficiency, pest and disease control, and other management aspects of beekeeping, honey production, and honey bees.
+
+#### (B) Carryover
+
+&emsp;&emsp;If all funds reserved under subparagraph (A) are not allocated to approved research projects in a year, any reserved funds remaining unallocated shall be carried forward for allocation and expenditure under subparagraph (A) in subsequent years.
+
+#### (3) Reimbursement
+
+&emsp;The Secretary shall be reimbursed from assessments collected by the Honey Board for any expenses incurred for the conduct of referenda.
 
 #### (g) False or unwarranted claims or statements
 
-No promotion funded with assessments collected under this chapter may make any false or unwarranted claims on behalf of honey or its products or false or unwarranted statements with respect to the attributes or use of any competing product.
+No promotion funded by the Honey Board under this chapter may make any false or unwarranted claims on behalf of honey or its products or false or unwarranted statements with respect to the attributes or use of any competing product.
 
 #### (h) Influencing governmental policy or action
 
-No funds collected through assessments authorized by this chapter may, in any manner, be used for the purpose of influencing governmental policy or action, except for making recommendations to the Secretary as provided for in this chapter.
+No funds collected by the Honey Board under this chapter may, in any manner, be used for the purpose of influencing governmental policy or action, except for making recommendations to the Secretary as provided for in this chapter.
 
 #### (i) Plans or projects; contracts
 
@@ -94,9 +310,59 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
-(Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905.)
+(Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+
+Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out “after the first annual meeting” after “except that” in second sentence and substituted “percent” for “per centum” in third sentence.
+
+Subsec. (c)(2)(A). Pub. L. 105–185, §605(f)(2)(B)(i), substituted “7 members” for “seven members”.
+
+Subsec. (c)(2)(B) to (E). Pub. L. 105–185, §605(f)(2)(B)(ii), added subpars. (B) to (E) and struck out former subpars. (B) to (E) and concluding provisions which read as follows:
+
+&emsp;“(B) two members who are handlers of honey appointed from nominations submitted by the Committee from recommendations made by industry organizations representing handler interests;
+
+&emsp;“(C) two members who are either importers or exporters, of which at least one shall be an importer, appointed from nominations submitted by the Committee from recommendations by industry organizations representing importer and exporter interests;
+
+&emsp;“(D) one member who is an officer or employee of a honey marketing cooperative appointed from nominations submitted by the Committee; and
+
+&emsp;“(E) one member selected by the Secretary from the general public.
+
+> The Committee shall also submit nominations for an alternate for each member of the Honey Board described in subparagraphs (A) through (D), and the Secretary shall appoint an alternate for the member described in subparagraph (E). Such alternates shall be appointed in the same manner as members are and shall serve only whenever the member is absent from a meeting or is disqualified. However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
+
+Subsec. (c)(3) to (7). Pub. L. 105–185, §605(f)(2)(A), (C), added pars. (3) to (7) and redesignated former pars. (3) to (6) as (8) to (11), respectively.
+
+Subsec. (c)(8). Pub. L. 105–185, §605(f)(2)(A), (D), redesignated par. (3) as (8) and substituted “except that appointments to the Honey Board may be staggered periodically, as determined by the Secretary, to maintain continuity of the Honey Board with respect to all members and with respect to members representing particular groups.” for “except that the initial appointments to the Honey Board shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+
+Subsec. (c)(9) to (11). Pub. L. 105–185, §605(f)(2)(A), redesignated pars. (4) to (6) as (9) to (11), respectively.
+
+Subsec. (e)(1). Pub. L. 105–185, §605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
+
+Subsec. (e)(2). Pub. L. 105–277 substituted “$0.01” for “$0.0075” wherever appearing.
+
+Pub. L. 105–185, §605(f)(3)(A), (B), added par. (2) and redesignated former par. (2) as (4).
+
+Subsec. (e)(3). Pub. L. 105–185, §605(f)(3)(A), (B), added par. (3) and redesignated former par. (3) as (5).
+
+Subsec. (e)(4). Pub. L. 105–185, §605(f)(3)(A), redesignated par. (2) as (4).
+
+Subsec. (e)(4)(B). Pub. L. 105–185, §605(f)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows:
+
+“(B)(i) A producer, producer-packer, or importer who produces or imports during any year less than 6,000 pounds of honey shall be eligible for an exemption in such year from paying an assessment on honey such person distributes directly through local retail outlets, as determined by the Secretary, during such year.
+
+“(ii) In order to claim an exemption under this subparagraph, a person shall submit an application to the Honey Board stating the basis on which the person claims the exemption for such year.
+
+“(iii) If, after a person claims an exemption from assessments for any year under this subparagraph, such person no longer meets the requirements of this subparagraph for an exemption, such person shall file a report with the Honey Board in the form and manner prescribed by the Board and pay an assessment on or before March 15 of the subsequent year on all honey produced or imported by such person during the year for which the person claimed the exemption.”
+
+Subsec. (e)(5). Pub. L. 105–185, §605(f)(3)(A), (D), redesignated par. (3) as (5), inserted “handler,” after “producer-packer” in two places, substituted “paragraph (4)” for “paragraph (2)”, and inserted “, handler,” after “considered a producer”.
+
+Subsec. (f). Pub. L. 105–185, §605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out “from the assessments” before “shall be used”, added par. (2), designated second sentence as par. (3), and added par. heading.
+
+Subsec. (g). Pub. L. 105–185, §605(f)(5), substituted “by the Honey Board” for “with assessments collected”.
+
+Subsec. (h). Pub. L. 105–185, §605(f)(6), substituted “by the Honey Board under” for “through assessments authorized by”.
 
 1990—Subsec. (c)(2). Pub. L. 101–624, §1983(1)(B), (C), in concluding provisions, substituted “submit nominations for an alternate” for “nominate an alternate or alternates” and inserted at end “However, no producer-packer who, during any three of the preceding five years, purchased for resale more honey than such producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in subparagraph (A) or as an alternate to such producer.”
 
@@ -110,7 +376,15 @@ Subsec. (e)(2), (3). Pub. L. 101–624, §1984(a)(2), added pars. (2) and (3) an
 
 Subsec. (k). Pub. L. 101–624, §1983(2), added subsec. (k).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4602, 4608, 4611 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

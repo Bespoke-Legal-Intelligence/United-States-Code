@@ -12,7 +12,7 @@ Whoever after such postage stamp, postage meter stamp, stamped envelope, or post
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Aug. 12, 1970, Pub. L. 91–375, §6(j)(6), 84 Stat. 777; Oct. 14, 1970, Pub. L. 91–448, §1(a), 84 Stat. 920; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 91–375, §6(j)(6), Aug. 12, 1970, 84 Stat. 777; Pub. L. 91–448, §1(a), Oct. 14, 1970, 84 Stat. 920; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

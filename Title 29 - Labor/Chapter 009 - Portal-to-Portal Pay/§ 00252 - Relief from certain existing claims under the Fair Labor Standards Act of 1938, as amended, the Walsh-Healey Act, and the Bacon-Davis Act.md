@@ -2,7 +2,7 @@
 
 #### (a) Liability of employer
 
-No employer shall be subject to any liability or punishment under the Fair Labor StandardsAct of 1938, as amended \[29 U.S.C. 201 et seq.\] the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act \[40 U.S.C. 276a et seq.\] (in any action or proceeding commenced prior to or on or after May 14, 1947), on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any activity of an employee engaged in prior to May 14, 1947, except an activity which was compensable by either—
+No employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\] the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act \[40 U.S.C. 276a et seq.\] (in any action or proceeding commenced prior to or on or after May 14, 1947), on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any activity of an employee engaged in prior to May 14, 1947, except an activity which was compensable by either—
 
 &emsp;(1) an express provision of a written or nonwritten contract in effect, at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer; or
 
@@ -10,7 +10,7 @@ No employer shall be subject to any liability or punishment under the Fair Labor
 
 #### (b) Compensable activity
 
-For the purposes of subsection (a) of this section, an activity shall be considered as compensable under such contract provision or such custom or practice only when it was engaged in during the portion of the day with respect to which it was so made compensable.
+For the purposes of subsection (a) of this section, an activity shall be considered as compensable under such contract provision or such custom or practice only when it was engaged induring the portion of the day with respect to which it was so made compensable.
 
 #### (c) Time of employment
 

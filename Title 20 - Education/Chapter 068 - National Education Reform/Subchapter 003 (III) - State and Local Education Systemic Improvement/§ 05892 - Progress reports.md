@@ -20,7 +20,7 @@ By April 30, 1996, and every 2 years thereafter, the Secretary shall submit a re
 
 &emsp;&emsp;(A) a listing of all State educational agencies, local educational agencies and schools seeking and receiving waivers;
 
-&emsp;&emsp;(B) a summary of the State and Federal statutory or regulatory requirements that have been waived, including the number of waivers sought and granted under each such statutory or regulatory requirement;
+&emsp;&emsp;(B) a summary of the State and Federal statutory or regulatory requirements that have been waived, including the number ofwaivers sought and granted under each such statutory or regulatory requirement;
 
 &emsp;&emsp;(C) a summary of waivers that have been terminated, including a rationale for the terminations; and
 

@@ -38,10 +38,13 @@
 | [1092\.](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md) | Studies and demonstration projects relating to delivery of health and medical care. |
 | [1093\.](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md) | Performance of abortions: restrictions. |
 | [1094\.](%C2%A7%2001094%20-%20Licensure%20requirement%20for%20health-care%20professionals.md) | Licensure requirement for health-care professionals. |
+| [1094a.](%C2%A7%2001094a%20-%20Continuing%20medical%20education%20requirements%20system%20for%20monitoring%20physician%20compliance.md) | Continuing medical education requirements: system for monitoring physician compliance. |
 | [1095\.](%C2%A7%2001095%20-%20Health%20care%20services%20incurred%20on%20behalf%20of%20covered%20beneficiaries%20collection%20from%20third-party%20payers.md) | Health care services incurred on behalf of covered beneficiaries: collection from third-party payers. |
 | [1095a.](%C2%A7%2001095a%20-%20Medical%20care%20members%20held%20as%20captives%20and%20their%20dependents.md) | Medical care: members held as captives and their dependents. |
+| [1095b.](%C2%A7%2001095b%20-%20TRICARE%20program%20contractor%20payment%20of%20certain%20claims.md) | TRICARE program: contractor payment of certain claims. |
 | [1096\.](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md) | Military-civilian health services partnership program. |
 | [1097\.](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md) | Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care. |
+| [1097a.](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md) | TRICARE Prime: automatic enrollments; payment options. |
 | [1098\.](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md) | Incentives for participation in cost-effective health care plans. |
 | [1099\.](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md) | Health care enrollment system. |
 | [1100\.](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md) | Defense Health Program Account. |
@@ -52,16 +55,20 @@
 | [1105\.](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md) | Specialized treatment facility program. |
 | [1106\.](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md) | Submittal of claims: standard form; time limits. |
 | [1107\.](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md) | Notice of use of an investigational new drug or a drug unapproved for its applied use. |
+| [1108\.](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md) | Health care coverage through Federal Employees Health Benefits program: demonstration project. |
+| [1109\.](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md) | Organ and tissue donor program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1998—Pub. L. 105–261, div. A, title VII, §§711(b), 712(a)(2), 721(a)(2), 734(b)(2), 741(b)(2), Oct. 17, 1998, 112 Stat. 2058, 2059, 2065, 2073, 2074, added items 1094a, 1095b, 1097a, 1108, and 1109.
+
 1997—Pub. L. 105–85, div. A, title VII, §§738(b), 764(b), 765(a)(2), 766(b), Nov. 18, 1997, 111 Stat. 1815, 1826–1828, added items 1074e, 1074f, 1106, and 1107 and struck out former item 1106 “Submittal of claims under CHAMPUS”.
 
 1996—Pub. L. 104–201, div. A, title VII, §§701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted “Certain primary and preventive health care services” for “Primary and preventive health care services for women” in item 1074d and added items 1076c and 1079a.
 
-Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item 1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
+Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 10, 1996, 110 Stat. 373, 383, added item1076b and substituted “Performance of abortions: restrictions” for “Restriction on use of funds for abortions” in item 1093 and “Defense Health Program Account” for “Military Health Care Account” in item 1100.
 
 1993—Pub. L. 103–160, div. A, title VII, §§701(a)(2), 712(a)(2), 714(b)(2), 716(a)(2), Nov. 30, 1993, 107 Stat. 1686, 1689, 1690, 1692, added item 1074d, substituted “Personal services contracts” for “Contracts for direct health care providers” in item 1091 and “Resource allocation methods: capitation or diagnosis-related groups” for “Diagnosis-related groups” in item 1101, added item 1105, and struck out former item 1105 “Issuance of nonavailability of health care statements”.
 
@@ -109,7 +116,7 @@ Third party tort liability to United States for hospital and medical care, see s
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 26 sections 9801, 9805; title 29 sections 1181, 1191b; title 38 sections 1713, 7423, 8111; title 42 sections 300gg, 300gg–91.
+This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 26 sections 9801, 9832; title 29 sections 1181, 1191b; title 38 sections 1713, 7423, 8111; title 42 sections 300gg, 300gg–91, 1395w–21, 14402, 14405.
 
 
 ---
@@ -152,10 +159,13 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01092 - Studies and demonstration projects relating to delivery of health and medical care](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md)
 - [&sect; 01093 - Performance of abortions restrictions](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md)
 - [&sect; 01094 - Licensure requirement for health-care professionals](%C2%A7%2001094%20-%20Licensure%20requirement%20for%20health-care%20professionals.md)
+- [&sect; 01094a - Continuing medical education requirements system for monitoring physician compliance](%C2%A7%2001094a%20-%20Continuing%20medical%20education%20requirements%20system%20for%20monitoring%20physician%20compliance.md)
 - [&sect; 01095 - Health care services incurred on behalf of covered beneficiaries collection from third-party payers](%C2%A7%2001095%20-%20Health%20care%20services%20incurred%20on%20behalf%20of%20covered%20beneficiaries%20collection%20from%20third-party%20payers.md)
 - [&sect; 01095a - Medical care members held as captives and their dependents](%C2%A7%2001095a%20-%20Medical%20care%20members%20held%20as%20captives%20and%20their%20dependents.md)
+- [&sect; 01095b - TRICARE program contractor payment of certain claims](%C2%A7%2001095b%20-%20TRICARE%20program%20contractor%20payment%20of%20certain%20claims.md)
 - [&sect; 01096 - Military-civilian health services partnership program](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md)
 - [&sect; 01097 - Contracts for medical care for retirees, dependents, and survivors alternative delivery of health care](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md)
+- [&sect; 01097a - TRICARE Prime automatic enrollments; payment options](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md)
 - [&sect; 01098 - Incentives for participation in cost-effective health care plans](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md)
 - [&sect; 01099 - Health care enrollment system](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md)
 - [&sect; 01100 - Defense Health Program Account](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md)
@@ -166,3 +176,5 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01105 - Specialized treatment facility program](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md)
 - [&sect; 01106 - Submittal of claims standard form; time limits](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md)
 - [&sect; 01107 - Notice of use of an investigational new drug or a drug unapproved for its applied use](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md)
+- [&sect; 01108 - Health care coverage through Federal Employees Health Benefits program demonstration project](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md)
+- [&sect; 01109 - Organ and tissue donor program](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md)

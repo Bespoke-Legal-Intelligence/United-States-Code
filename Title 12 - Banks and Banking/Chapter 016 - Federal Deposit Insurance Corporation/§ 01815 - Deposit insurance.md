@@ -36,7 +36,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;(3) its future earnings prospects,
 
-&emsp;(4) the general character and fitness of its management, including but not limited to the management of the branch proposed to be insured,
+&emsp;(4) the general character and fitness of its management, including but not limited to themanagement of the branch proposed to be insured,
 
 &emsp;(5) the risk presented to the Bank Insurance Fund or the Savings Association Insurance Fund,
 
@@ -54,7 +54,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
 
-(4) The purpose of the surety bonds and pledges of assets required under this subsectionis to provide protection to the deposit insurance fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
+(4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the deposit insurance fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
 (5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only as provided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
 
@@ -90,7 +90,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;For purposes of this paragraph, the term “conversion transaction” means—
 
-&emsp;&emsp;&emsp;(i) the change of status of an insured depository institution from a Bank Insurance Fund member to a Savings Association Insurance Fund member or from a Savings Association Insurance Fund member to a Bank Insurance Fund member;
+&emsp;&emsp;&emsp;(i) the change of status of an insured depository institution from a Bank Insurance Fund member to a Savings Association Insurance Fund member or from aSavings Association Insurance Fund member to a Bank Insurance Fund member;
 
 &emsp;&emsp;&emsp;(ii) the merger or consolidation of a Bank Insurance Fund member with a Savings Association Insurance Fund member;
 
@@ -120,7 +120,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(i) the conversion transaction affects an insubstantial portion, as determined by the Corporation, of the total deposits of each depository institution participating in the conversion transaction;
 
-&emsp;&emsp;&emsp;(ii) the conversion occurs in connection with the acquisition of a Savings Association Insurance Fund member in default orin danger of default, and the Corporation determines that the estimated financial benefits to the Savings Association Insurance Fund or Resolution Trust Corporation equal or exceed the Corporation's estimate of loss of assessment income to such insurance fund over the remaining balance of the moratorium period established by subparagraph (A), and the Resolution Trust Corporation concurs in the Corporation's determination; or
+&emsp;&emsp;&emsp;(ii) the conversion occurs in connection with the acquisition of a Savings Association Insurance Fund member in default or in danger of default, and the Corporation determines that the estimated financial benefits to the Savings Association Insurance Fund or Resolution Trust Corporation equal or exceed the Corporation's estimate of loss of assessment income to such insurance fund over the remaining balance of the moratorium period established by subparagraph (A), and the Resolution Trust Corporation concurs in the Corporation's determination; or
 
 &emsp;&emsp;&emsp;(iii) the conversion occurs in connection with the acquisition of a Bank Insurance Fund member in default or in danger of default and the Corporation determines that the estimated financial benefits to the Bank Insurance Fund equal or exceed the Corporation's estimate of the loss of assessment income to the insurance fund over the remaining balance of the moratorium period established by subparagraph (A).
 
@@ -150,7 +150,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(iii) an entrance fee in an amount to be determined by the Corporation (and assessed in accordance with subparagraph (F)(ii)), except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Bank Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Bank Insurance Fund, and shall be paid to the Bank Insurance Fund; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Bank Insurance Fund member, the fee shall bethe approximate amount which the Corporation calculates as necessary to prevent dilution of the Bank Insurance Fund, and shall be paid to the Bank Insurance Fund; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Savings Association Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Savings Association Insurance Fund, and shall be paid to the Savings Association Insurance Fund.
 
@@ -178,7 +178,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (A) Conversions allowed
 
-&emsp;&emsp;Notwithstanding paragraph (2)(A), and subject to the requirements of this paragraph, any insured depository institution may participate in a transaction describedin clause (ii), (iii), or (iv) of paragraph (2)(B) if the transaction is approved by the responsible agency under section 1828(c)(2) of this title.
+&emsp;&emsp;Notwithstanding paragraph (2)(A), and subject to the requirements of this paragraph, any insured depository institution may participate in a transaction described in clause (ii), (iii), or (iv) of paragraph (2)(B) if the transaction is approved by the responsible agency under section 1828(c)(2) of this title.
 
 #### (B) Assessments on deposits attributable to former depository institution
 
@@ -216,7 +216,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (ii) No transfer of deposit insurance permitted
 
-&emsp;&emsp;&emsp;This paragraph shall not be construed as authorizing transactions which result in the transfer of any insured depository institution's Federal deposit insurance from 1 Federal deposit insurance fund to the other Federal deposit insurance fund.
+&emsp;&emsp;&emsp;This paragraph shall not be construed as authorizing transactions which result inthe transfer of any insured depository institution's Federal deposit insurance from 1 Federal deposit insurance fund to the other Federal deposit insurance fund.
 
 #### (iii) Capital requirements
 
@@ -236,7 +236,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(i) after the end of the moratorium period established by paragraph (2)(A), the Corporation approves an application by any acquiring, assuming, or resulting depository institution to treat the transaction described in subparagraph (A) as a conversion transaction; and
 
-&emsp;&emsp;&emsp;(ii) the acquiring, assuming, or resulting depository institution pays the amount of any exit and entrance fee assessed by the Corporation under subparagraph (E) ofparagraph (2) with respect to such transaction.
+&emsp;&emsp;&emsp;(ii) the acquiring, assuming, or resulting depository institution pays the amount of any exit and entrance fee assessed by the Corporation under subparagraph (E) of paragraph (2) with respect to such transaction.
 
 #### (I) “Acquiring, assuming, or resulting depository institution” defined
 
@@ -364,7 +364,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation, in its discretion, may exempt any insured depository institution from the provisions of this subsection if the Corporation determines that such exemption is in the best interests of the Bank Insurance Fund or the Savings Association Insurance Fund.
+&emsp;&emsp;The Corporation, in its discretion, may exempt any insured depository institution from the provisions of this subsection if the Corporation determines that such exemptionis in the best interests of the Bank Insurance Fund or the Savings Association Insurance Fund.
 
 #### (B) Condition
 

@@ -12,15 +12,15 @@ In authorizing the operation of vending facilities on Federal property, priority
 
 &emsp;(2) wherever feasible, one or more vending facilities are established on all Federal property to the extent that any such facility or facilities would not adversely affect the interests of the United States.
 
-> Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
+> Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination.The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
 
-(June 20, 1936, ch. 638, §1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, §4(a), 68 Stat. 663; Dec. 7, 1974, Pub. L. 93–516, title II, §202, 88 Stat. 1623; Nov. 21, 1974, Pub. L. 93–651, title II, §202, 89 Stat. 2–8.)
+(June 20, 1936, ch. 638, §1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, §4(a), 68 Stat. 663; Pub. L. 93–516, title II, §202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §202, Nov. 21, 1974, 89 Stat. 2–8.)
 
 #### Codification
 
 The content of Pub. L. 93–516, including provisions thereof which amended and enacted various sections of this chapter, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the Presidenton Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516.
 
 #### Amendments
 

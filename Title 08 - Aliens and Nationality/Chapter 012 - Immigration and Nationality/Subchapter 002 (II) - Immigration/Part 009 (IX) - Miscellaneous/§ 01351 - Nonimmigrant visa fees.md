@@ -2,7 +2,7 @@
 
 The fees for the furnishing and verification of applications for visas by nonimmigrants of each foreign country and for the issuance of visas to nonimmigrants of each foreign country shall be prescribed by the Secretary of State, if practicable, in amounts corresponding to the total of all visa, entry, residence, or other similar fees, taxes, or charges assessed or levied against nationals of the United States by the foreign countries of which such nonimmigrants are nationals or stateless residents: <i>Provided,</i> That nonimmigrant visas issued to aliens coming to the United States in transit to and from the headquarters district of the United Nations in accordance with the provisions of the Headquarters Agreement shall be gratis. Subject to such criteria as the Secretary of State may prescribe, including the duration of stay of the alien and the financial burden upon the charitable organization, the Secretary of State shall waive or reduce the fee for application and issuance of a nonimmigrant visa for any alien coming to the United States primarily for, or in activities related to, a charitable purpose involving health or nursing care, the provision of food or housing, job training, or any other similar direct service or assistance to poor or otherwise needy individuals in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §281, 66 Stat. 230; Oct. 3, 1965, Pub. L. 89–236, §14, 79 Stat. 919; Oct. 21, 1968, Pub. L. 90–609, §1, 82 Stat. 1199; Oct. 6, 1997, Pub. L. 105–54, §2(a), 111 Stat. 1175.)
+(June 27, 1952, ch. 477, title II, ch. 9, §281, 66 Stat. 230; Pub. L. 89–236, §14, Oct. 3, 1965, 79 Stat. 919; Pub. L. 90–609, §1, Oct. 21, 1968, 82 Stat. 1199; Pub. L. 105–54, §2(a), Oct. 6, 1997, 111 Stat. 1175.)
 
 #### References in Text
 
@@ -30,9 +30,11 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Surcharge for Processing Machine Readable Nonimmigrant Visas
 
-Pub. L. 105–119, title IV, Nov. 26, 1997, 111 Stat. 2494, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[set out below\], fees may be collected during fiscal years 1998 and 1999 under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 1998 and 1999 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended.”
+Pub. L. 105–277, div. A, title I, §101(b) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–93, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (PublicLaw 103–236) \[set out below\], fees may be collected during fiscal years 1999 and 2000 under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 1999 and 2000 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 105–119, title IV, Nov. 26, 1997, 111 Stat. 2494.
 
 Pub. L. 105–46, §116, Sept. 30, 1997, 111 Stat. 1157.
 

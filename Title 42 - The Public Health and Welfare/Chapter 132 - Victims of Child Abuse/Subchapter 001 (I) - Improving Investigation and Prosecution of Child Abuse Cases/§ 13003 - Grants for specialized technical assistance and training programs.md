@@ -12,7 +12,7 @@ An organization to which a grant is made pursuant to subsection (a) of this sect
 
 (1) The Administrator shall establish the criteria to be used for evaluating applications for grants under this section, consistent with sections 5665a, 5673,<sup>1</sup> and 5676 <sup>1</sup> of this title.
 
-(2) The grant criteria established pursuant to paragraph (1) shall require that a program provide training and technical assistance that includes information regarding improved child interview techniques, thorough investigativemethods, interagency coordination and effective presentation of evidence in court, including the use of alternative courtroom procedures described in this title.<sup>1</sup>
+(2) The grant criteria established pursuant to paragraph (1) shall require that a program provide training and technical assistance that includes information regarding improved child interview techniques, thorough investigative methods, interagency coordination and effective presentation of evidence in court, including the use of alternative courtroom procedures described in this title.<sup>1</sup>
 
 (Pub. L. 101–647, title II, §214A, formerly §213, Nov. 29, 1990, 104 Stat. 4793; renumbered §214A and amended Pub. L. 102–586, §6(b)(1), (d), Nov. 4, 1992, 106 Stat. 5029, 5034.)
 

@@ -4,7 +4,7 @@
 
 (b) Wherever the term “armed services” appears in this subchapter it shall be deemed to include the United States Coast Guard.
 
-(Aug. 11, 1955, ch. 783, title IV, §409, 69 Stat. 654; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938; May 25, 1967, Pub. L. 90–19, §12(g), 81 Stat. 24.)
+(Aug. 11, 1955, ch. 783, title IV, §409, 69 Stat. 654; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938; Pub. L. 90–19, §12(g), May 25, 1967, 81 Stat. 24.)
 
 #### References in Text
 

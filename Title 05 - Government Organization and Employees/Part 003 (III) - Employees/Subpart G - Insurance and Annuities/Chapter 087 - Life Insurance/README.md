@@ -41,7 +41,7 @@ Pub. L. 90–83, §1(94), Sept. 11, 1967, 81 Stat. 219, substituted “Advisory 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1103, 1308, 3373, 3374, 3582, 5304, 5362, 5948 of this title; title 2 sections 31b–5, 72a, 92, 130a; title 20 section 125; title 22 sections 2025, 2391, 3649, 3658, 3664, 4606; title 25 section 450i; title 28 sections 332, 627, 634, 996; title 38 sections 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 2996d, 4276, 10704; title 45 section 1206.
+This chapter is referred to in sections 1103, 3373, 3374, 3582, 5304, 5362, 5948 of this title; title 2 sections 31b–5, 72a, 92, 130a; title 20 section 125; title 22 sections 2025, 2391, 3649, 3658, 3664, 4606; title 25 section 450i; title 28 sections 332, 627, 634, 996; title 38 sections 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 2996d, 4276, 10704; title 45 section 1206.
 
 
 ---

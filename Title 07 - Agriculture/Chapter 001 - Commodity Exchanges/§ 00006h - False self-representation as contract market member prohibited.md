@@ -2,7 +2,7 @@
 
 It shall be unlawful for any person falsely to represent such person to be a member of a contract market or the representative or agent of such member, or to be a registrant under this chapter or the representative or agent of any registrant, in soliciting or handling any order or contract for the purchase or sale of any commodity in interstate commerce or for future delivery, or falsely to represent in connection with the handling of any such order or contract that the same is to be or has been executed on, or by or through a member of, any contract market.
 
-(Sept. 21, 1922, ch. 369, §4h, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Jan. 11, 1983, Pub. L. 97–444, title II, §210, 96 Stat. 2302.)
+(Sept. 21, 1922, ch. 369, §4h, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 97–444, title II, §210, Jan. 11, 1983, 96 Stat. 2302.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (2) Comment
 
-&emsp;Before adopting regulations, the Board shall provide a comment period of at least 30 days after publication of a general notice of proposed rulemaking.
+&emsp;Before adopting regulations, the Board shall provide a comment period of at least 30 daysafter publication of a general notice of proposed rulemaking.
 
 #### (3) Adoption
 
@@ -74,7 +74,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (3) Effective date
 
-&emsp;Regulations shall become effective not less than 60 days after the regulations are issued,except that the Board may provide for an earlier effective date for good cause found (within the meaning of section 553(d)(3) of title 5) and published with the regulation.
+&emsp;Regulations shall become effective not less than 60 days after the regulations are issued, except that the Board may provide for an earlier effective date for good cause found (within the meaning of section 553(d)(3) of title 5) and published with the regulation.
 
 #### (e) Amendment of regulations
 
@@ -104,9 +104,9 @@ The Executive Director, the Deputy Directors, and the Board—
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which enacted subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of title II to the Code, see Tables.
+Subchapter II of this chapter, referred to in subsec. (a)(1), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, as amended, which enacted subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of title II to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1312, 1313, 1314, 1315, 1316, 1331, 1341, 1351, 1382, 1409, 1431 of this title.
+This section is referred to in sections 1312, 1313, 1314, 1315, 1316, 1316a, 1331, 1341, 1351, 1382, 1409, 1431 of this title.
 

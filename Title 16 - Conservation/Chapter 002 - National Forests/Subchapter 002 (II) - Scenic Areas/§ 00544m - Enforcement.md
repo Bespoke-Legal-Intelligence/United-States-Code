@@ -8,7 +8,7 @@
 
 #### (2) Appeal to the Commission
 
-&emsp;Any person or entity adversely affected by any final action or order of a county relatingto the implementation of sections 544 to 544p of this title may appeal such action or order to the Commission by filing with the Commission within thirty days of such action or order, a written petition requesting that such action or order be modified, terminated, or set aside.
+&emsp;Any person or entity adversely affected by any final action or order of a county relating to the implementation of sections 544 to 544p of this title may appeal such action or order to the Commission by filing with the Commission within thirty days of such action or order, a written petition requesting that such action or order be modified, terminated, or set aside.
 
 #### (3) Civil penalties
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(C) any appeal to the Commission pursuant to this section;
 
-&emsp;&emsp;(D) any civil penalty assessed by the Commission pursuant to paragraph (a)(3) of this subsection may appeal such action or order by filing in any of the courts specified in paragraph (5) of this subsection, within sixty days after the date of service of such order or within sixty days after such action is taken, a written petition requesting such action, order, land use ordinance, interimguideline, or appeal taken to the Commission be modified, terminated, or set aside.
+&emsp;&emsp;(D) any civil penalty assessed by the Commission pursuant to paragraph (a)(3) of this subsection may appeal such action or order by filing in any of the courts specified in paragraph (5) of this subsection, within sixty days after the date of service of such order or within sixty days after such action is taken, a written petition requesting such action, order, land use ordinance, interim guideline, or appeal taken to the Commission be modified, terminated, or set aside.
 
 #### (5) Federal court jurisdiction
 

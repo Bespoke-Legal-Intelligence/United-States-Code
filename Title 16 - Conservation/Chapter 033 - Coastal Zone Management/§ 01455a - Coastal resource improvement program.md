@@ -26,7 +26,7 @@ The Secretary may make grants to any eligible coastal state to assist that state
 
 #### (c) Uses, terms and conditions of grants
 
-(1) Each grant made by the Secretary under this section shall be subject to such terms and conditions as may be appropriate to ensure that the grant is used for purposes consistent with this section.
+(1) Each grant made by the Secretary under this section shall be subject to such terms andconditions as may be appropriate to ensure that the grant is used for purposes consistent with this section.
 
 (2) Grants made under this section may be used for—
 

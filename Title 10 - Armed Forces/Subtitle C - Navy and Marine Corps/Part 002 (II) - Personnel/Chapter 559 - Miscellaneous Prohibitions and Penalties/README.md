@@ -4,7 +4,7 @@
 | :--- | ---: |
 | \[6111, 6112. Repealed.\] |  |
 | [6113\.](%C2%A7%2006113%20-%20Loans%20Supply%20Corps%20officers.md) | Loans: Supply Corps officers. |
-| \[6114 to 6116.   Repealed.\] |  |
+| \[6114 to 6116. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

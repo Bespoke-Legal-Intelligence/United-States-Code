@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section R.S. §2483, authorized the issuance of patents to purchasers or locators who have made entries on public lands claimed as swamp lands.
+Section, R.S. §2483, authorized the issuance of patents to purchasers or locators who have made entries on public lands claimed as swamp lands.
 

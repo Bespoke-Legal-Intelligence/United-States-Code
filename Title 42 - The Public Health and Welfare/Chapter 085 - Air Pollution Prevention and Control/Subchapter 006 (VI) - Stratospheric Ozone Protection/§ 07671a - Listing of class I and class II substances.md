@@ -166,7 +166,7 @@ chlorofluorocarbon-13 (CFC–13)
 
 chlorofluorocarbon-111 (CFC–111)
 
-&nbsp;1.0&nbsp;
+&nbsp;1.0 
 
 chlorofluorocarbon-112 (CFC–112)
 
@@ -254,7 +254,7 @@ hydrochlorofluorocarbon-142(b) (HCFC–142(b))
 
 > Where the ozone-depletion potential of a substance is specified in the Montreal Protocol, the ozone-depletion potential specified for that substance under this section shall be consistent with the Montreal Protocol.
 
-(July 14, 1955, ch. 360, title VI, §602, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2650.)
+(July 14, 1955, ch. 360, title VI, §602, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2650.)
 
 #### Section Referred to in Other Sections
 

@@ -46,3 +46,7 @@ This Act, referred to in subsec. (a)(2)(A), is Pub. L. 104–53, Nov. 19, 1995, 
 
 Section 102 of the Legislative Branch Appropriations Act, 1989, referred to in subsec. (a)(2)(B), is section 102 of Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2165, which is not classified to the Code.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

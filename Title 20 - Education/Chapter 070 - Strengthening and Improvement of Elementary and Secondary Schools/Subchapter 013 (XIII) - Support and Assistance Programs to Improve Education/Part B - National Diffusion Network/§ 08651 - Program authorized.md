@@ -8,7 +8,7 @@
 
 #### (2) Program requirements
 
-&emsp;In carrying out the program under this part, the Secretary shall award grants and contracts to National Diffusion Network StateFacilitators in each State and outlying area, and to the Bureau of Indian Affairs, in order to assist State and local educational agencies, schools, and other appropriate educational entities—
+&emsp;In carrying out the program under this part, the Secretary shall award grants and contracts to National Diffusion Network State Facilitators in each State and outlying area, and to the Bureau of Indian Affairs, in order to assist State and local educational agencies, schools, and other appropriate educational entities—
 
 &emsp;&emsp;(A) to identify and secure appropriate, high-quality technical assistance from the comprehensive regional assistance centers under part A of this subchapter and other sources; and
 
@@ -74,7 +74,7 @@ In addition, National Diffusion Network State Facilitators shall—
 
 #### References in Text
 
-The National Literacy Act of 1991, referred to in subsec. (e)(2), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1201 of this title and Tables.
+The National Literacy Act of 1991, referred to in subsec. (e)(2), was Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

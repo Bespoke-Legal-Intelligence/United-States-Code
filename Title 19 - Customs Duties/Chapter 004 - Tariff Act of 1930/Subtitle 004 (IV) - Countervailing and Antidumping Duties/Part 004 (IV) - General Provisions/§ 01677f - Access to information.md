@@ -36,7 +36,7 @@
 
 &emsp;&emsp;Except as provided in subsection (a)(4)(A) of this section and subsection (c) of this section, information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
 
-&emsp;&emsp;&emsp;(i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted or any review under this subtitle covering the same subject merchandise, or
+&emsp;&emsp;&emsp;(i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection withwhich the information is submitted or any review under this subtitle covering the same subject merchandise, or
 
 &emsp;&emsp;&emsp;(ii) to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
 
@@ -136,7 +136,7 @@ Any party submitting written information, including business proprietary informa
 
 &emsp;&emsp;&emsp;(iii) any officer or employee of the United States Government designated by the administering authority or the Commission, as appropriate, to whom disclosure is necessary in order to make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement, and
 
-&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (as defined in section 1516a(f)(10) of this title) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
+&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (asdefined in section 1516a(f)(10) of this title) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
 
 #### (C) Review
 
@@ -144,7 +144,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (2) Contents of protective order
 
-&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure thatregulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
+&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
 #### (3) Prohibited acts
 
@@ -178,7 +178,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (B) Witnesses and evidence
 
-&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidenceconcerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
+&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
 #### (C) Mandamus
 
@@ -236,7 +236,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 &emsp;&emsp;(B) the Commission shall include in a final determination of injury an explanation of the basis for its determination that addresses relevant arguments that are made by interested parties who are parties to the investigation or review (as the case may be) concerning volume, price effects, and impact on the industry of imports of the subject merchandise.
 
-(June 17, 1930, ch. 497, title VII, §777, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 187; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §619, 98 Stat. 3038; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §§1886(a)(13), 1889(8), 100 Stat. 2922, 2926; Aug. 23, 1988, Pub. L. 100–418, title I, §1332, 102 Stat. 1207; Sept. 28, 1988, Pub. L. 100–449, title IV, §403(c), 102 Stat. 1884; Aug. 20, 1990, Pub. L. 101–382, title I, §§134(a)(4), 135(b), 104 Stat. 650, 651; Dec. 8, 1993, Pub. L. 103–182, title IV, §412(c), 107 Stat. 2146; Dec. 8, 1994, Pub. L. 103–465, title II, §§226–228, 231(b), (d)(1), 108 Stat. 4886–4888, 4896, 4897.)
+(June 17, 1930, ch. 497, title VII, §777, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 187; amended Pub. L. 98–573, title VI, §619, Oct. 30, 1984, 98 Stat. 3038; Pub. L. 99–514, title XVIII, §§1886(a)(13), 1889(8), Oct. 22, 1986, 100 Stat. 2922, 2926; Pub. L. 100–418, title I, §1332, Aug. 23, 1988, 102 Stat. 1207; Pub. L. 100–449, title IV, §403(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 101–382, title I, §§134(a)(4), 135(b), Aug. 20, 1990, 104 Stat. 650, 651; Pub. L. 103–182, title IV, §412(c), Dec. 8, 1993, 107 Stat. 2146; Pub. L. 103–465, title II, §§226–228, 231(b), (d)(1), Dec. 8, 1994, 108 Stat. 4886–4888, 4896, 4897.)
 
 #### Amendments
 
@@ -272,7 +272,7 @@ Subsec. (f). Pub. L. 101–382, §134(a)(4), redesignated subsec. (d), relating 
 
 Subsec. (f)(1)(A). Pub. L. 101–382, §134(a)(4)(A), struck out “(but not privileged material as defined by the rules of procedure referred to in article 1904(14) of the United States-Canada Agreement)” after “all proprietary material” and inserted at end “If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).”
 
-Subsec. (f)(1)(B)(ii) to (iv). Pub. L. 101–382, §134(a)(4)(B), inserted “, and persons under the direction and control,” after “employees” in cl. (ii), substituted “make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement, and” for “implement the United States-Canada Agreement with respect to such proceeding.” in cl. (iii), and added cl. (iv).
+Subsec. (f)(1)(B)(ii) to (iv). Pub. L. 101–382, §134(a)(4)(B), inserted “, and persons under the direction and control,” after “employees” in cl. (ii), substituted “make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement, and” for “implement the United States-CanadaAgreement with respect to such proceeding.” in cl. (iii), and added cl. (iv).
 
 Subsec. (f)(3). Pub. L. 101–382, §134(a)(4)(C), struck out “or” after “violate,” in two places and inserted “or knowingly to receive information the receipt of which constitutes a violation of,” after “the violation of,” in two places.
 

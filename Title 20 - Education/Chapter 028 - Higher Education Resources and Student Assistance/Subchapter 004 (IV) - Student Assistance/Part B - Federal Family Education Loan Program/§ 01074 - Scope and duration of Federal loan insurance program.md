@@ -2,13 +2,13 @@
 
 #### (a) Limitations on amounts of loans covered by Federal insurance
 
-The total principal amount of new loans made and installments paid pursuant to lines of credit (as defined in section 1085 of this title) to students covered by Federal loan insurance under this part shall not exceed $2,000,000,000 for the period from July 1, 1976, to September 30, 1976, and for each of the succeeding fiscal years ending prior to October 1, 2002. Thereafter, Federal loan insurance pursuant to this part may be granted only for loans made (or for loan installments paid pursuant to lines of credit) to enable students, who have obtained prior loans insured under this part, to continue or complete their educational program; but no insurance may be granted for any loan made or installment paid after September 30, 2006.
+The total principal amount of new loans made and installments paid pursuant to lines of credit (as defined in section 1085 of this title) to students covered by Federal loan insurance under this part shall not exceed $2,000,000,000 for the period from July 1, 1976, to September 30, 1976, and for each of the succeeding fiscal years ending prior to October 1, 2004. Thereafter, Federal loan insurance pursuant to this part may be granted only for loans made (or for loan installments paid pursuant to lines of credit) to enable students, who have obtained prior loans insured under this part, to continue or complete their educational program; but no insurance may be granted for any loan made or installment paid after September 30, 2008.
 
 #### (b) Apportionment of amounts
 
 The Secretary may, if he or she finds it necessary to do so in order to assure an equitable distribution of the benefits of this part, assign, within the maximum amounts specified in subsection (a) of this section, Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
 
-(Pub. L. 89–329, title IV, §424, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1358; amended Pub. L. 102–325, title IV, §411(b)(1), July 23, 1992, 106 Stat. 510; Pub. L. 105–33, title VI, §6104(1), Aug. 5, 1997, 111 Stat. 652.)
+(Pub. L. 89–329, title IV, §424, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1358; amended Pub. L. 102–325, title IV, §411(b)(1), July 23, 1992, 106 Stat. 510; Pub. L. 105–33, title VI, §6104(1), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §414, Oct. 7, 1998, 112 Stat. 1679.)
 
 #### Prior Provisions
 
@@ -16,9 +16,15 @@ A prior section 1074, Pub. L. 89–329, title IV, §424, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–244 substituted “October 1, 2004” for “October 1, 2002” and “September 30, 2008” for “September 30, 2006”.
+
 1997—Subsec. (a). Pub. L. 105–33 substituted “October 1, 2002” for “October 1, 1998” and “September 30, 2006” for “September 30, 2002”.
 
 1992—Subsec. (a). Pub. L. 102–325 substituted “October 1, 1998” for “October 1, 1992” and “September 30, 2002” for “September 30, 1997”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -24,11 +24,11 @@ The written agreement described in subsection (a) of this section shall—
 
 #### (c) Breach of service contract
 
-If an individual breaches the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
+If an individual breaches the contract entered into under section 254<i>l</i> or 254<i>l</i>–1 of this title byfailing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
 
 #### (d) Travel expenses
 
-The Secretary may pay an individual who has entered into an agreement with the Secretaryunder subsection (a) of this section an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
+The Secretary may pay an individual who has entered into an agreement with the Secretary under subsection (a) of this section an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
 
 #### (e) Sale of equipment and supplies
 
@@ -52,7 +52,7 @@ The Secretary may, out of appropriations authorized under section 254k of this t
 
 The Secretary shall, upon request, provide to each individual released from service obligation under this section technical assistance to assist such individual in fulfilling his or her agreement under this section.
 
-(July 1, 1944, ch. 373, title III, §338D, formerly title VII, §753, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2285; amended Dec. 17, 1980, Pub. L. 96–538, title IV, §403, 94 Stat. 3192; renumbered §338C and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), (d), 95 Stat. 908, 910; renumbered §338D and amended Dec. 1, 1987, Pub. L. 100–177, title II, §201(2), title III, §307, 101 Stat. 992, 1005; Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035.)
+(July 1, 1944, ch. 373, title III, §338D, formerly title VII, §753, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2285; amended Pub. L. 96–538, title IV, §403, Dec. 17, 1980, 94 Stat. 3192; renumbered §338C and amended Pub. L. 97–35, title XXVII, §2709(a), (d), Aug. 13, 1981, 95 Stat. 908, 910; renumbered §338D and amended Pub. L. 100–177, title II, §201(2), title III, §307, Dec. 1, 1987, 101 Stat. 992, 1005; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035.)
 
 #### References in Text
 
@@ -98,7 +98,7 @@ See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 242a, 254d, 254<i>l</i>, 254<i>l</i>–1, 254m, 254<i>o</i>, 254p, 294cc of this title.
+This section is referred to in sections 242a, 254d, 254<i>l</i>, 254<i>l</i>–1, 254m, 254<i>o</i>, 254p, 294cc, 11709 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

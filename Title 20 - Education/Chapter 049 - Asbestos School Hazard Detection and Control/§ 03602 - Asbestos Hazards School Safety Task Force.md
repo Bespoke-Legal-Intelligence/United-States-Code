@@ -34,7 +34,7 @@
 
 (1) Members of the Task Force who are not full-time officers or employees of the Federal Government shall receive compensation at a rate determined by the Secretary, but not to exceed the daily equivalent of the maximum annual rate of pay in effect for grade GS–16 of the General Schedule, for each day (including traveltime) during which they are engaged in the performance of the duties of the Task Force.
 
-(2) While away from their homes or regular places of business in the performance of the duties of the Task Force, all members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+(2) While away from their homes or regular places of business in the performance of the duties of the Task Force, all members of the TaskForce shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (d) Availability of Department of Education personnel; use of mails
 
@@ -56,7 +56,7 @@ The duties of the Task Force shall include—
 
 &emsp;(3) the review of applications for grants and loans under sections 3604 and 3605 of this title, and the submission to the Secretary of recommendations respecting the approval or disapproval of such applications;
 
-&emsp;(4) the review of any guidelines established by the Environmental Protection Agency for identifying those schools in which exposure toasbestos fibers constitutes a health problem and for taking appropriate corrective actions at such schools, in order to determine whether any modifications of such guidelines should be recommended to the Secretary under paragraph (5); and
+&emsp;(4) the review of any guidelines established by the Environmental Protection Agency for identifying those schools in which exposure to asbestos fibers constitutes a health problem and for taking appropriate corrective actions at such schools, in order to determine whether any modifications of such guidelines should be recommended to the Secretary under paragraph (5); and
 
 &emsp;(5) providing the Secretary with assistance in formulating standards and procedures under section 3606 of this title by—
 

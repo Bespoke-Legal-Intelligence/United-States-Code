@@ -21,19 +21,21 @@
 | Third 6 months | 136 | 171 | 198 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14 |
 | Fourth and any succeeding 6-month periods | 68 | 101 | 131 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14 |
 
-(2) The monthly training assistance allowance of an eligible person pursuing a program described under subsection (a) shall be $294 for the first six months, $220 for the second six months, $146 for the third six months, and $73 for the fourth and any succeeding six-month periods of training.
+(2) The monthly training assistance allowance of an eligible person pursuing a program described under subsection (a) shall be $353 for the first six months, $264 for the second six months, $175 for the third six months, and $88 for the fourth and any succeeding six-month periods of training.
 
 (3) In any month in which an eligible veteran or person pursuing a program of apprenticeship or a program of other on-job training fails to complete one hundred and twenty hours of training in such month, the monthly training assistance allowance set forth in subsection (b)(1) or (2) of this section, as applicable, shall be reduced proportionately in the proportion that the number of hours worked bears to one hundred and twenty hours rounded off to the nearest eight hours.
 
 (c) For the purpose of this chapter, the terms “program of apprenticeship” and “program of other on-job training” shall have the same meaning as “program of education”; and the term “training assistance allowance” shall have the same meaning as “educational assistance allowance” as set forth in chapters 34 and 35 of this title.
 
-(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec.18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 1683, as added by Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–178, §8210(d), as added by Pub. L. 105–206, §9014(b), substituted “$353” for “$294”, “$264” for “$220”, “$175” for “$146”, and “$88” for “$73”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1787 of this title as this section.
 
@@ -58,6 +60,12 @@ Pub. L. 96–466, §203(3), increased monthly training assistance allowance of e
 1974—Subsec. (b)(1). Pub. L. 93–508, §104(2), increased monthly training assistance allowance of eligible veterans in column II from “$160, $120, $80, and $40” to “$189, $142, $95, and $47”; in column III from “$179, $139, $99, and $59” to “$212, $164, $117, and $70”; in column IV from “$196, $156, $116, and $76” to “$232, $184, $137, and $90”; and in column V from “$8, $8, $8, and $8” to “$9, $9, $9, and $9” respectively.
 
 Subsec. (b)(2). Pub. L. 93–508, §104(3), substituted “computed at the rate prescribed in paragraph (1) of this subsection for an eligible veteran with no dependents pursuing such a course” for “(A) $160 during the first six-month period, (B) $120 during the second six-month period, (C) $80 during the third six-month period, and (D) $40 during the fourth and any succeeding six-month period”.
+
+#### Effective Date of 1998 Amendments
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 105–178 effective Oct. 1, 1998, and applicable with respect to educational assistance allowances paid for months after September 1998, see section 8210(e) of Pub. L. 105–178, set out as a note under section 3532 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -97,5 +105,5 @@ Termination of eligibility period for a wife or widow, or an eligible person eig
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3002, 3034, 3116, 3202, 3241, 3482, 3484, 3534, 3672, 4102A, 4103A of this title; title 10 section 16136; title 29 section 1721.
+This section is referred to in sections 3002, 3034, 3116, 3202, 3241, 3482, 3484, 3534, 3672, 4102A, 4103A of this title; title 10 section 16136; title 29 sections 1721, 2913.
 

@@ -76,7 +76,7 @@ Funds under this section may be used to—
 
 &emsp;&emsp;(A) school-based management projects and activities;
 
-&emsp;&emsp;(B) programs designed to test efforts to increase the professionalization of teachers orto bring teachers up to national voluntary standards;
+&emsp;&emsp;(B) programs designed to test efforts to increase the professionalization of teachers or to bring teachers up to national voluntary standards;
 
 &emsp;&emsp;(C) alternative routes to certification for qualified individuals from business, the military, and other fields;
 

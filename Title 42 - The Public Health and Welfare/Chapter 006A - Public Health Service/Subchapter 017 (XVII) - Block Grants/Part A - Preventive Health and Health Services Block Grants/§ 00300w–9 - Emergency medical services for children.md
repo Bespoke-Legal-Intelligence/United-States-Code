@@ -2,11 +2,11 @@
 
 #### (a) Grant authority
 
-For activities in addition to the activities which may be carried out by States under section 300w–3(a)(1)(F) <sup>1</sup> of this title, the Secretary may make grants to States or accredited schools of medicine in States to support a program of demonstration projects for the expansion and improvement of emergency medical services for children who need treatment for trauma or critical care. Any grant made under this subsection shall be for not more than a two-year period, subject to annual evaluation by the Secretary. Only one grant under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year.
+For activities in addition to the activities which may be carried out by States under section 300w–3(a)(1)(F) <sup>1</sup> of this title, the Secretary may make grants to States or accredited schools of medicine in States to support a program of demonstration projects for the expansion and improvement of emergency medical services for children who need treatment for trauma or critical care. Any grant made under this subsection shall be for not more than a 3-year period (with an optional 4th year based on performance), subject to annual evaluation by the Secretary. Only 3 grants under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year.
 
 #### (b) Renewals
 
-The Secretary may renew a grant made under subsection (a) of this section for one additionalone-year period only if the Secretary determines that renewal of such grant will provide significant benefits through the collection, analysis, and dissemination of information or data which will be useful to States in which grants under such subsection have not been made.
+The Secretary may renew a grant made under subsection (a) of this section for one additional one-year period only if the Secretary determines that renewal of such grant will provide significant benefits through the collection, analysis, and dissemination of information or data which will be useful to States in which grants under such subsection have not been made.
 
 #### (c) Definitions
 
@@ -18,9 +18,9 @@ For purposes of this section—
 
 #### (d) Authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1997.
+To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2005.
 
-(July 1, 1944, ch. 373, title XIX, §1910, as added Oct. 30, 1984, Pub. L. 98–555, §7, 98 Stat. 2856; amended Apr. 7, 1986, Pub. L. 99–272, title XVII, §17004, 100 Stat. 360; Nov. 4, 1988, Pub. L. 100–607, title III, §302, 102 Stat. 3112; Nov. 16, 1990, Pub. L. 101–590, §5, 104 Stat. 2928; Oct. 13, 1992, Pub. L. 102–410, §11, 106 Stat. 2101.)
+(July 1, 1944, ch. 373, title XIX, §1910, as added Pub. L. 98–555, §7, Oct. 30, 1984, 98 Stat. 2856; amended Pub. L. 99–272, title XVII, §17004, Apr. 7, 1986, 100 Stat. 360; Pub. L. 100–607, title III, §302, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §5, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–410, §11, Oct. 13, 1992, 106 Stat. 2101; Pub. L. 105–392, title IV, §415, Nov. 13, 1998, 112 Stat. 3590.)
 
 #### References in Text
 
@@ -29,6 +29,10 @@ Section 300w–3(a)(1) of this title, referred to in subsec. (a), was amended ge
 Section 292a of this title, referred to in subsec. (c), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see section 295p of this title.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–392, §415(1), substituted “3-year period (with an optional 4th year based on performance)” for “two-year period” and “3 grants” for “one grant”.
+
+Subsec. (d). Pub. L. 105–392, §415(2), substituted “2005” for “1997”.
 
 1992—Subsec. (a). Pub. L. 102–410, §11(1), substituted “grants” for “not more than four grants in any fiscal year” after “Secretary may make” in first sentence.
 

@@ -60,7 +60,7 @@ In carrying out the purpose described in subsection (a) of this section, it shal
 
 (2) If any State does not apply for funds under this section for any fiscal year within the time provided in subsection (c) of this section, the funds to which such State would have been entitled for such fiscal year shall be reallocated to one or more other States on the basis of their relative need for additional payments under this section (as determined by the Secretary).
 
-(3) Any amounts payable to States under this section shall be in addition to amounts payableto States under subsections (a)(1), (a)(2), and (a)(3) of section 674 of this title, and shall supplement and not replace any other funds which may be available for the same general purposes in the localities involved. Amounts payable under this section may not be used for the provision of room or board.
+(3) Any amounts payable to States under this section shall be in addition to amounts payable to States under subsections (a)(1), (a)(2), and (a)(3) of section 674 of this title, and shall supplement and not replace any other funds which may be available for the same general purposes in the localities involved. Amounts payable under this section may not be used for the provision of room or board.
 
 #### (f) Payments; restrictions; estimation and adjustment; time of expenditure
 
@@ -94,7 +94,7 @@ Notwithstanding any other provision of this subchapter, payments made and servic
 
 The Secretary shall promulgate final regulations for implementing this section within 60 days after April 7, 1986.
 
-(Aug. 14, 1935, ch. 531, title IV, §477, as added Apr. 7, 1986, Pub. L. 99–272, title XII, §12307(a), 100 Stat. 294; amended Nov. 10, 1988, Pub. L. 100–647, title VIII, §8104(a)–(d), (f), 102 Stat. 3796, 3797; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8002(a), (b), 103 Stat. 2452; Nov. 5, 1990, Pub. L. 101–508, title V, §5073(a), 104 Stat. 1388–233; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13714(a), 107 Stat. 657; Nov. 19, 1997, Pub. L. 105–89, title III, §304, 111 Stat. 2130.)
+(Aug. 14, 1935, ch. 531, title IV, §477, as added Pub. L. 99–272, title XII, §12307(a), Apr. 7, 1986,100 Stat. 294; amended Pub. L. 100–647, title VIII, §8104(a)–(d), (f), Nov. 10, 1988, 102 Stat. 3796, 3797; Pub. L. 101–239, title VIII, §8002(a), (b), Dec. 19, 1989, 103 Stat. 2452; Pub. L. 101–508, title V, §5073(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13714(a), Aug. 10, 1993, 107 Stat. 657; Pub. L. 105–89, title III, §304, Nov. 19, 1997, 111 Stat. 2130.)
 
 #### Amendments
 
@@ -118,7 +118,7 @@ Subsec. (c). Pub. L. 101–239, §8002(a)(2), substituted “any of the fiscal y
 
 Subsec. (e)(1). Pub. L. 101–239, §8002(b)(1), (2), (4), (5), designated existing provisions as subpar. (A), substituted “The basic amount” for “The amount” and “the basic ceiling for such fiscal year” for “$45,000,000”, and added subpars. (B) and (C).
 
-Pub. L. 101–239, §8002(b)(3), which directed amendment of subpar. (A) by substituting “1989, 1990, 1991, and 1992” for “and 1989” could not be executed because thewords “and 1989” did not appear after execution of amendment by Pub. L. 101–239, §8002(a)(1), see below.
+Pub. L. 101–239, §8002(b)(3), which directed amendment of subpar. (A) by substituting “1989, 1990, 1991, and 1992” for “and 1989” could not be executed because the words “and 1989” did not appear after execution of amendment by Pub. L. 101–239, §8002(a)(1), see below.
 
 Pub. L. 101–239, §8002(a)(1), substituted “through 1992” for “, 1988, and 1989”.
 

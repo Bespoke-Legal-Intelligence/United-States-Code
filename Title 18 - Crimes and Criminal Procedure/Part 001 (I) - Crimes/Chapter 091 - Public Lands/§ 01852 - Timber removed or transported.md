@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not prevent any miner or agriculturist from clearing his land in the ordinary working of his mining claim, or in the preparation of his farm for tillage, or from taking the timber necessary to support his improvements, or the taking of timber for the use of the United States; nor shall it interfere with or take away any right or privilege under any existing law of the United States to cut or remove timber from any public lands.
 
-(June 25, 1948, ch. 645, 62 Stat. 787; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 787; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

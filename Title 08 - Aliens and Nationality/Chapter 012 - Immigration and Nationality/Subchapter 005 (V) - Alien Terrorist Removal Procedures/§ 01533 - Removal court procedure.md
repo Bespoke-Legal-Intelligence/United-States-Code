@@ -54,7 +54,7 @@ The Attorney General may dismiss a removal action under this subchapter at any s
 
 If an order is issued under this section granting an application, the rights of the alien regarding removal and expulsion shall be governed solely by this subchapter, and except as they are specifically referenced in this subchapter, no other provisions of this chapter shall be applicable.
 
-(June 27, 1952, ch. 477, title V, §503, as added Apr. 24, 1996, Pub. L. 104–132, title IV, §401(a), 110 Stat. 1259.)
+(June 27, 1952, ch. 477, title V, §503, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1259.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 The Secretary of Commerce shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency.
 
-(July 19, 1940, ch. 642, §1, 54 Stat. 773; Dec. 19, 1973, Pub. L. 93–193, §2, 87 Stat. 765; July 9, 1975, Pub. L. 94–55, §2(b), 89 Stat. 262.)
+(July 19, 1940, ch. 642, §1, 54 Stat. 773; Pub. L. 93–193, §2, Dec. 19, 1973, 87 Stat. 765; Pub. L. 94–55, §2(b), July 9, 1975, 89 Stat. 262.)
 
 #### Amendments
 

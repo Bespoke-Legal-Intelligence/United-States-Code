@@ -168,7 +168,7 @@ The State shall make copies of the reports and audits required by this section a
 
 (3) For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b) <sup>1</sup> of title 31.
 
-(Aug. 14, 1935, ch. 531, title V, §506, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2192(a), 95 Stat. 823; amended July 18, 1984, Pub. L. 98–369, div. B, title III, §2373(a)(2), 98 Stat. 1111; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, 103 Stat. 2278; Oct. 19, 1996, Pub. L. 104–316, title I, §122(f), 110 Stat. 3837.)
+(Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837.)
 
 #### References in Text
 

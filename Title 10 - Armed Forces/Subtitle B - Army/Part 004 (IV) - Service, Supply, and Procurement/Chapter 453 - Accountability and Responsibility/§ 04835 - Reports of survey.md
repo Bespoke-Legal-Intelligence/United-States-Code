@@ -4,7 +4,7 @@
 
 (b) Action taken under subsection (a) is final, except that action holding a person pecuniarily liable for loss, spoilage, destruction, or damage is not final until approved by the Secretary or the Secretary's designee. The Secretary may designate officers of the Army or civilian employees of the Department of the Army to approve such action.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Nov. 30, 1993, Pub. L. 103–160, div. A, title III, §362, 107 Stat. 1628.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 103–160, div. A, title III, §362, Nov. 30, 1993, 107 Stat. 1628.)
 
 Historical and Revision Notes
 

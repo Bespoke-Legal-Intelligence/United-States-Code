@@ -14,7 +14,7 @@ A prior section 2072, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, c
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–650 added subsec. (c).
+1990—Subsec. (c). Pub. L. 101–650 added subsec. (c).
 
 #### Change of Name
 

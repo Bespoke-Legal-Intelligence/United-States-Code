@@ -22,7 +22,7 @@
 
 (3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), and any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall be included on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
 
-(4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for which such a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
+(4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for whichsuch a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
@@ -134,7 +134,7 @@
 
 #### (c) Certification of local governments by State Historic Preservation Officer; transfer of portion of grants; certification by Secretary; nomination of properties by local governments for inclusion on National Register
 
-(1) Any State program approved under this section shall provide a mechanism for the certification by the State Historic Preservation Officer of local governments to carry out the purposes of this subchapter and provide for the transfer, in accordance with section 470c(c) of this title, of a portion of the grants received by the States under this subchapter, to such local governments. Any local government shall be certified to participate under the provisions of this section if the applicable State Historic Preservation Officer, and the Secretary, certifies that the local government—
+(1) Any State program approved under this section shall provide a mechanism for the certification by the State Historic Preservation Officer of local governments to carry out the purposes of this subchapter and provide for the transfer, in accordance with section 470c(c) of this title, of a portion of the grants received by the States under this subchapter, to such local governments. Any local government shall be certified to participate under the provisions ofthis section if the applicable State Historic Preservation Officer, and the Secretary, certifies that the local government—
 
 &emsp;(A) enforces appropriate State or local legislation for the designation and protection of historic properties;
 
@@ -324,7 +324,7 @@ Subsecs. (f) to (i). Pub. L. 102–575, §4006(a)(1), redesignated subsecs. (e) 
 
 Subsec. (j). Pub. L. 102–575, §4008, added subsec. (j).
 
-1980—Subsec. (a). Pub. L. 96–515 substituted provision designating certain properties as National HistoricalLandmarks, providing for establishment by the Secretary of the Interior of criteria for inclusion on or removal from the National Register, designation of properties as National Historical Landmarks and removal of such designation, and nomination of properties for inclusion in the World Heritage List, authorizing any State, local government, or person to nominate properties for inclusion on the National Register and to appeal a nomination or refusal to nominate, requiring that before property be included on the National Register or designated as a National Historic Landmark, the owner or owners of the property be given an opportunity to concur in, or object to, its inclusion, and authorizing the Secretary to promulgate regulations to ensure that significant prehistoric and historic artifacts and records receive proper treatment, to establish standards for documenting historic properties for incorporation in the national historical, architectural, and engineering records within the Library of Congress, and to certify local governments for allocation of funds, for provision authorizing the Secretary to grant funds to States for preparing comprehensive statewide historic surveys and plans for preservation and acquisition of historic properties, to establish programs of matching grants-in-aid to States for the purpose of historical preservation and to the National Trust for Historic Preservation in the United States for the purpose of carrying out the responsibilities of the National Trust, and to withhold from disclosure to the public, information relating to the location of sites or objects listed on the National Register whenever he determines that disclosure of specific information would create a risk of destruction or harm to such sites or objects.
+1980—Subsec. (a). Pub. L. 96–515 substituted provision designating certain properties as National Historical Landmarks, providing for establishment by the Secretary of the Interior of criteria for inclusion on or removal from the National Register, designation of properties as National Historical Landmarks and removal of such designation, and nomination of properties for inclusion in the World Heritage List, authorizing any State, local government, or person to nominate properties for inclusion on the National Register and to appeal a nomination or refusal to nominate, requiring that before property be included on the National Register or designated as a National Historic Landmark, the owner or owners of the property be given an opportunity to concur in, or object to, its inclusion, and authorizing the Secretary to promulgate regulations to ensure that significant prehistoric and historic artifacts and records receive proper treatment, to establish standards for documenting historic properties for incorporation in the national historical, architectural, and engineering records within the Library of Congress, and to certify local governments for allocation of funds, for provision authorizing the Secretary to grant funds to States for preparing comprehensive statewide historic surveys and plans for preservation and acquisition of historic properties, to establish programs of matching grants-in-aid to States for the purpose of historical preservation and to the National Trust for Historic Preservation in the United States for the purpose of carrying out the responsibilities of the National Trust, and to withhold from disclosure to the public, information relating to the location of sites or objects listed on the National Register whenever he determines that disclosure of specific information would create a risk of destruction or harm to such sites or objects.
 
 Pub. L. 96–205, §608(a)(1), in par. (2) struck out “and” after “culture;”, and in par. (3) substituted “Trust; and” for “Trust.”.
 
@@ -341,6 +341,164 @@ Subsecs. (c) to (h). Pub. L. 96–515 added subsecs. (c) to (h).
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Women's Progress Commemoration
+
+Pub. L. 105–341, Oct. 31, 1998, 112 Stat. 3196, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Women's Progress Commemoration Act’.
+
+#### “SEC. 2. DECLARATION.
+
+“Congress declares that—
+
+&emsp;“(1) the original Seneca Falls Convention, held in upstate New York in July 1848, convened to consider the social conditions and civil rights of women at that time;
+
+&emsp;“(2) the convention marked the beginning of an admirable and courageous struggle for equal rights for women;
+
+&emsp;“(3) the 150th Anniversary of the convention provides an excellent opportunity to examine the history of the women's movement; and
+
+&emsp;“(4) a Federal Commission should be established for the important task of ensuring the historic preservation of sites that have been instrumental in American women's history, creating a living legacy for generations to come.
+
+#### “SEC. 3. ESTABLISHMENT OF COMMISSION.
+
+“(a)
+
+Establishment.—There is established a commission to be known as the ‘Women's Progress Commemoration Commission’ (referred to in this Act as the ‘Commission’).
+
+“(b)
+
+Membership.—
+
+&emsp;“(1)
+
+In general.—The Commission shall be composed of 15 members, of whom—
+
+&emsp;&emsp;“(A) 3 shall be appointed by the President;
+
+&emsp;&emsp;“(B) 3 shall be appointed by the Speaker of the House of Representatives;
+
+&emsp;&emsp;“(C) 3 shall be appointed by the minority leader of the House of Representatives;
+
+&emsp;&emsp;“(D) 3 shall be appointed by the majority leader of the Senate; and
+
+&emsp;&emsp;“(E) 3 shall be appointed by the minority leader of the Senate.
+
+&emsp;“(2)
+
+Persons eligible.—
+
+&emsp;&emsp;“(A)
+
+In general.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission. The members may be from the public or private sector, and may include Federal, State, or local employees, members of academia, nonprofit organizations, or industry, or other interested individuals.
+
+&emsp;&emsp;“(B)
+
+Diversity.—It is the intent of Congress that persons appointed to the Commission under paragraph (1) be persons who represent diverse economic, professional, and cultural backgrounds.
+
+&emsp;“(3)
+
+Consultation and appointment.—
+
+&emsp;&emsp;“(A)
+
+In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
+
+&emsp;&emsp;“(B)
+
+Completion of appointments; vacancies.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall conduct the consultation under subparagraph (3) and make their respective appointments not later than 60 days after the date of enactment of this Act \[Oct. 31, 1998\].
+
+&emsp;“(4)
+
+Vacancies.—A vacancy in the membership of the Commission shall not affect the powers of the Commission and shall be filled in the same manner as the original appointment not later than 30 days after the vacancy occurs.
+
+“(c)
+
+Meetings.—
+
+&emsp;“(1)
+
+Initial meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
+
+&emsp;“(2)
+
+Subsequent meetings.—After the initial meeting, the Commission shall meet at the call of the Chairperson.
+
+“(d)
+
+Quorum.—A majority of the members of the Commission shall constitute a quorum for the transaction of business, but a lesser number of members may hold hearings.
+
+“(e)
+
+Chairperson and Vice Chairperson.—The Commission shall select a Chairperson and Vice Chairperson from among its members.
+
+#### “SEC. 4. DUTIES OF THE COMMISSION.
+
+“Not later than 1 year after the initial meeting of the Commission, the Commission, in cooperation with the Secretary of the Interior and other appropriate Federal, State, and local public and private entities, shall prepare and submit to the Secretary of the Interior a report that—
+
+&emsp;“(1) identifies sites of historical significance to the women's movement; and
+
+&emsp;“(2) recommends actions, under the National Historic Preservation Act (16 U.S.C. 470 et seq.) and other law, to rehabilitate and preserve the sites and provide to the public interpretive and educational materials and activities at the sites.
+
+#### “SEC. 5. POWERS OF THE COMMISSION.
+
+“(a)
+
+Hearings.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out its duties of this Act.
+
+“(b)
+
+Information From Federal Agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this Act. At the request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
+
+#### “SEC. 6. COMMISSION PERSONNEL MATTERS.
+
+“(a)
+
+Compensation of Members.—A member of the Commission who is not otherwise an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission. A member of the Commission who is otherwise an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
+
+“(b)
+
+Travel Expenses.—A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of service for the Commission.
+
+“(c)
+
+Staff.—
+
+&emsp;“(1)
+
+In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment and termination of an executive director shall be subject to confirmation by a majority of the members of the Commission.
+
+&emsp;“(2)
+
+Compensation.—The executive director shall be compensated at a rate not to exceed the rate payable for a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. The Chairperson may fix the compensation of other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for such personnel may not exceed the rate payable for a position at level V of the Executive Schedule under section 5316 of that title.
+
+&emsp;“(3)
+
+Detail of government employees.—Any Federal Government employee, with the approval of the head of the appropriate Federal agency, may be detailed to the Commission without reimbursement, and the detail shall be without interruption or loss of civil service status, benefits, or privilege.
+
+“(d)
+
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed for a position at level V of the Executive Schedule under section 5316 of that title.
+
+#### “SEC. 7. FUNDING.
+
+“(a)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Commission such sums as are necessary to carry out this Act.
+
+“(b)
+
+Donations.—The Commission may accept donations from non-Federal sources to defray the costs of the operations of the Commission.
+
+#### “SEC. 8. TERMINATION.
+
+“The Commission shall terminate on the date that is 30 days after the date on which the Commission submits to the Secretary of the Interior the report under section 4(b).
+
+#### “SEC. 9. REPORTS TO CONGRESS.
+
+“Not later than 2 years and not later than 5 years after the date on which the Commission submits to the Secretary of the Interior the report under section 4, the Secretary of the Interior shall submit to Congress a report describing the actions that have been taken to preserve the sites identified in the Commission report as being of historical significance.”
 
 #### Historically Black Colleges and Universities Historic Building Restoration and Preservation
 
@@ -394,7 +552,7 @@ Section 4025 of Pub. L. 102–575 directed Secretary of the Interior, not later 
 
 #### Preservation and Conservation of Intangible Aspects of American Cultural Heritage; Report to President and Congress
 
-Section 502 of Pub. L. 96–515 directed Secretary, in cooperation with American Folklife Center of Library of Congress, to submit within two years after Dec. 12, 1980,a report to President and Congress on preserving and conserving the intangible elements of our cultural heritage such as arts, skills, folklife, and folkways, the report to take into account the view of other public and private organizations, as appropriate, and to include recommendations for legislative and administrative actions by Federal Government in order to preserve, conserve, and encourage the continuation of the diverse traditional prehistoric, historic, ethnic, and folk cultural traditions that underlie and are a living expression of our American heritage.
+Section 502 of Pub. L. 96–515 directed Secretary, in cooperation with American Folklife Center of Library of Congress, to submit within two years after Dec. 12, 1980, a report to President and Congress on preserving and conserving the intangible elements of our cultural heritage such as arts, skills, folklife, and folkways, the report to take into account the view of other public and private organizations, as appropriate, and to include recommendations for legislative and administrative actions by Federal Government in order to preserve, conserve, and encourage the continuation of the diverse traditional prehistoric, historic, ethnic, and folk cultural traditions that underlie and are a living expression of our American heritage.
 
 #### Coordinated System of Cultural Parks and Historic Conservation Districts; Comprehensive Study and Formulation of Recommendations; Report to President and Congress
 

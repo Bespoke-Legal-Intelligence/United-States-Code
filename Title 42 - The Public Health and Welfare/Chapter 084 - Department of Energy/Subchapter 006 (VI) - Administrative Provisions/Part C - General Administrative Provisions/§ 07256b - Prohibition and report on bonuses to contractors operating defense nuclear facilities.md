@@ -22,7 +22,3 @@ The Secretary of Energy shall promulgate regulations to implement subsection (a)
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1990 and 1991, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-

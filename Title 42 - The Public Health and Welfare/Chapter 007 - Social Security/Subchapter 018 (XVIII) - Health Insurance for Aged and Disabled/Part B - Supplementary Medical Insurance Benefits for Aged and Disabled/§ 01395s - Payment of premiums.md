@@ -2,9 +2,9 @@
 
 #### (a) Deductions from section 402 or 423 monthly benefits
 
-(1) In the case of an individual who is entitled to monthly benefits under section 402 or 423 ofthis title, his monthly premiums under this part shall (except as provided in subsections (b)(1) and (c) of this section) be collected by deducting the amount thereof from the amount of such monthly benefits. Such deduction shall be made in such manner and at such times as the Commissioner of Social Security shall by regulation prescribe. Such regulations shall be prescribed after consultation with the Secretary.
+(1) In the case of an individual who is entitled to monthly benefits under section 402 or 423 of this title, his monthly premiums under this part shall (except as provided in subsections (b)(1) and (c) of this section) be collected by deducting the amount thereof from the amount of such monthly benefits. Such deduction shall be made in such manner and at such times as the Commissioner of Social Security shall by regulation prescribe. Such regulations shall be prescribed after consultation with the Secretary.
 
-(2) The Secretary of the Treasury shall, from time to time, transfer from the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund to the Federal Supplementary Medical Insurance Trust Fund the aggregate amount deducted under paragraph (1) for the period to which such transfer relates from benefits under section 402 or 423 of this title which are payable from such Trust Fund. Such transfer shall be made on the basis of a certification by the Commissioner of Social Security and shall be appropriately adjusted to the extent that prior transfers were too great or too small.
+(2) The Secretary of the Treasury shall, from time to time, transfer from the Federal Old-Ageand Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund to the Federal Supplementary Medical Insurance Trust Fund the aggregate amount deducted under paragraph (1) for the period to which such transfer relates from benefits under section 402 or 423 of this title which are payable from such Trust Fund. Such transfer shall be made on the basis of a certification by the Commissioner of Social Security and shall be appropriately adjusted to the extent that prior transfers were too great or too small.
 
 #### (b) Deductions from railroad retirement annuities or pensions
 
@@ -38,7 +38,7 @@ In the case of an individual who participates in the insurance program establish
 
 In the case of an individual who is enrolled under the program established by this part as a member of a coverage group to which an agreement with a State entered into pursuant to section 1395v of this title is applicable, subsections (a), (b), (c), and (d) of this section shall not apply to his monthly premium for any month in his coverage period which is determined under section 1395v(d) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1840, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 306; amended Apr. 8, 1966, Pub. L. 89–384, §4(c), 80 Stat. 106; Jan. 2, 1968, Pub. L. 90–248, title I, §166, title IV, §403(g), 81 Stat. 874, 932; Oct. 30, 1972, Pub. L. 92–603, title II, §§201(c)(6), 263(a)–(d)(3), 86 Stat. 1373, 1448, 1449; Oct. 16, 1974, Pub. L. 93–445, title III, §306, 88 Stat. 1358; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(b)(11), title VI, §2663(j)(2)(F)(ii), 98 Stat. 1101, 1170; June 17, 1985, Pub. L. 99–53, §2(g), 99 Stat. 94; July 1, 1988, Pub. L. 100–360, title II, §212(b)(1), 102 Stat. 740; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(10)(B), 102 Stat. 2415; Dec. 13, 1989, Pub. L. 101–234, title II, §202(a), 103 Stat. 1981; Aug. 15, 1994, Pub. L. 103–296, title I, §108(c)(2), 108 Stat. 1485.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1840, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 306; amended Pub. L. 89–384, §4(c), Apr. 8, 1966, 80 Stat. 106; Pub. L. 90–248, title I, §166, title IV, §403(g), Jan. 2, 1968, 81 Stat. 874, 932;Pub. L. 92–603, title II, §§201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, 86 Stat. 1373, 1448, 1449; Pub. L. 93–445, title III, §306, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 98–369, div. B, title III, §2354(b)(11), title VI, §2663(j)(2)(F)(ii), July 18, 1984, 98 Stat. 1101, 1170; Pub. L. 99–53, §2(g), June 17, 1985, 99 Stat. 94; Pub. L. 100–360, title II, §212(b)(1), July 1, 1988, 102 Stat. 740; Pub. L. 100–485, title VI, §608(d)(10)(B), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(2), Aug. 15, 1994, 108 Stat. 1485.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1972 Amendment
 
-Section 263(f) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 1395t and 1395u of this title\] with respect to collection of premiums shall apply to premiums becoming due and payable after the fourthmonth following the month in which this Act is enacted \[October 1972\].”
+Section 263(f) of Pub. L. 92–603 provided that: “The amendments made by this section \[amending this section and sections 1395t and 1395u of this title\] with respect to collection of premiums shall apply to premiums becoming due and payable after the fourth month following the month in which this Act is enacted \[October 1972\].”
 
 #### Section Referred to in Other Sections
 

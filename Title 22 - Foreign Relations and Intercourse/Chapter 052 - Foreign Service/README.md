@@ -38,9 +38,9 @@
 | [3929\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929%20-%20Inspector%20General.md) | Inspector General. |
 | (a) | Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office. |
 | (b) | Subject matter of inspections, investigations, and audits. |
-| (c) | Policies and procedures governing inspection and audit activities; coordination and cooperation with Comptroller General; report to Attorney General on criminal law violations. |
+| (c) | Policies and procedures governing inspection and audit activities; coordination and cooperation with Comptroller General; report to Attorney General on criminal law violations; provision of information to employees. |
 | (d) | Reports by Inspector General and Secretary of State. |
-| (e) | Applicability of powers and responsibilities under other statutory provisions; assignment of Service employees to Inspector General. |
+| (e) | Applicability of powers and responsibilities under other statutory provisions; assignment of Service employees to Inspector General; participation in formal interviews. |
 | (f) | Reception and investigation of complaints or information; disclosure of identity of informer. |
 | (g) | Review of activities and operations of chiefs of mission. |
 | [3929a.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929a%20-%20Abolishment%20of%20Inspector%20General%20of%20Department%20of%20State%20and%20Foreign%20Service.md) | Abolishment of Inspector General of Department of State and Foreign Service. |
@@ -109,6 +109,7 @@
 | (b) | Criteria; limitations. |
 | (c) | Determination of amount by Secretary; distribution on basis of selection board recommendations. |
 | (d) | Recommendations for meritorious or distinguished service awards. |
+| (e) | Recognition in lieu of award. |
 | [3966\.](Subchapter%20004%20%28IV%29%20-%20Compensation/%C2%A7%2003966%20-%20Within-class%20salary%20increases.md) | Within-class salary increases. |
 | (a) | Time period; limitation. |
 | (b) | Additional increase for meritorious service. |
@@ -210,6 +211,9 @@
 | (b) | Provision of training. |
 | (c) | Training and instruction to citizens of Trust Territory of the Pacific Islands. |
 | (d) | Training and instruction of employees of foreign governments. |
+| (e) | Training or services for United States person. |
+| (f) | Programs for Members of Congress or the Judiciary. |
+| (g) | Applicability of section 4024 of this title. |
 | [4022\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004022%20-%20Foreign%20language%20requirements.md) | Foreign language requirements. |
 | [4023\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004023%20-%20Career%20development%20program.md) | Career development program. |
 | (a) | Establishment; primary attention and emphasis. |
@@ -221,6 +225,7 @@
 | (a) | Nature and correlation of training and instruction; encouragement of complementary programs; employment of personnel; acquisition of property and equipment. |
 | (b) | Payment of salary, tuition, and other expenses; special monetary or other incentives. |
 | (c) | Orientation and training for family members. |
+| (d) | Training and certification for employees performing consular functions. |
 | [4025\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004025%20-%20Training%20grants.md) | Training grants. |
 | (a) | Family members attending approved programs of study; limitations. |
 | (b) | Compensation for individuals unable to participate in language training furnished by Government. |
@@ -231,6 +236,7 @@
 | (a) | Establishment of program. |
 | (b) | Selection and appointment of scholars. |
 | (c) | Establishment of selection board. |
+| [4028\.](Subchapter%20007%20%28VII%29%20-%20Career%20Development%2C%20Training%2C%20and%20Orientation/%C2%A7%2004028%20-%20Training%20for%20Foreign%20Service%20officers.md) | Training for Foreign Service officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -351,6 +357,8 @@
 | (d) | Annuity rights to be determined under this section. |
 | (e) | Notice; direct payment of salary. |
 | (f) | Recovery of overpayment. |
+| (g) | Waiver. |
+| (h) | Effects of waiver. |
 | [4065\.](Subchapter%20008%20%28VIII%29%20-%20Foreign%20Service%20Retirement%20and%20Disability/Part%20001%20%28I%29%20-%20Foreign%20Service%20Retirement%20and%20Disability%20System/%C2%A7%2004065%20-%20Voluntary%20contribution%20account.md) | Voluntary contribution account. |
 | (a) | Composition; election and return. |
 | (b) | Computation of benefits. |
@@ -711,9 +719,7 @@
 | [4209\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004209%20-%20Exaction%20of%20excessive%20fees%20generally%3B%20penalty%20of%20treble%20amount.md) | Exaction of excessive fees generally; penalty of treble amount. |
 | [4210\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004210%20-%20Liability%20for%20uncollected%20fees.md) | Liability for uncollected fees. |
 | [4211\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004211%20-%20Returns%20as%20to%20fees%20by%20officers%20compensated%20by%20fees.md) | Returns as to fees by officers compensated by fees. |
-| [4212\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004212%20-%20Receipt%20for%20fees%3B%20numbering%20receipts.md) | Receipt for fees; numbering receipts. |
-| [4213\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004213%20-%20Registry%20of%20fees.md) | Registry of fees. |
-| [4214\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004214%20-%20Account%20of%20fees%3B%20certification.md) | Account of fees; certification. |
+| 4212 to 4214. Repealed. |  |
 | [4215\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004215%20-%20Notarial%20acts%2C%20oaths%2C%20affirmations%2C%20affidavits%2C%20and%20depositions%3B%20fees.md) | Notarial acts, oaths, affirmations, affidavits, and depositions; fees. |
 | [4216\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004216%20-%20Posting%20rates%20of%20fees.md) | Posting rates of fees. |
 | [4217\.](Subchapter%20014%20%28XIV%29%20-%20Powers%2C%20Duties%20and%20Liabilities%20of%20Consular%20Officers%20Generally/%C2%A7%2004217%20-%20Embezzlement%20of%20fees%20or%20of%20effects%20of%20American%20citizens.md) | Embezzlement of fees or of effects of American citizens. |
@@ -850,7 +856,7 @@ For authority of Secretary of Commerce to establish a Foreign Commercial Service
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 285a, 290g–l, 290i–2, 1474, 1928, 2021, 2024, 2385, 2391, 2396, 2504, 2506, 2582, 2588, 2605, 2664a, 2684, 3503, 4823 of this title; title 5 sections 5102, 5724; title 15 section 4721; title 38 section 707; title 42 section 5055.
+This chapter is referred to in sections 285a, 290g–l, 290i–2, 1474, 1928, 2021, 2024, 2385, 2391, 2396, 2504, 2506, 2605, 2664a, 2684, 3503, 4823 of this title; title 5 sections 5102, 5721, 5724; title 15 section 4721; title 38 section 707; title 42 section 5055.
 
 
 ---

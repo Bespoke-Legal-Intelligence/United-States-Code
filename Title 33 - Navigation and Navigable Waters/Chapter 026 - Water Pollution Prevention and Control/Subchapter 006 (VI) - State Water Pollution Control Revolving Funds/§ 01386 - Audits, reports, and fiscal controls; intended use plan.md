@@ -12,7 +12,7 @@ Each State electing to establish a water pollution control revolving fund under 
 
 #### (b) Annual Federal audits
 
-The Administrator shall, at least on an annual basis, conduct or require each State to haveindependently conducted reviews and audits as may be deemed necessary or appropriate by the Administrator to carry out the objectives of this section. Audits of the use of funds deposited in the water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the General Accounting Office, including chapter 75 of title 31.
+The Administrator shall, at least on an annual basis, conduct or require each State to have independently conducted reviews and audits as may be deemed necessary or appropriate by the Administrator to carry out the objectives of this section. Audits of the use of funds deposited in the water pollution revolving fund established by such State shall be conducted in accordance with the auditing procedures of the General Accounting Office, including chapter 75 of title 31.
 
 #### (c) Intended use plan
 

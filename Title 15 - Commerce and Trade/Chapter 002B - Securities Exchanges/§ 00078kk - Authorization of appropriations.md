@@ -1,10 +1,30 @@
 ### §78kk. Authorization of appropriations
 
-There are authorized to be appropriated to carry out the functions, powers, and duties of the Commission $300,000,000 for fiscal year 1997, in addition to any other funds authorized to be appropriated to the Commission.
+#### (a) In general
 
-(June 6, 1934, ch. 404, title I, §35, as added June 4, 1975, Pub. L. 94–29, §24, 89 Stat. 162; amended Apr. 13, 1977, Pub. L. 95–20, 91 Stat. 47; Dec. 19, 1977, Pub. L. 95–211, 91 Stat. 1492; Oct. 6, 1978, Pub. L. 95–425, §1, 92 Stat. 962; Oct. 21, 1980, Pub. L. 96–477, title IV, §401, 94 Stat. 2291; Dec. 4, 1987, Pub. L. 100–181, title I, §101, 101 Stat. 1249; Nov. 19, 1988, Pub. L. 100–704, §8, 102 Stat. 4683; Nov. 15, 1990, Pub. L. 101–550, title I, §102, 104 Stat. 2713; Oct. 11, 1996, Pub. L. 104–290, title IV, §403, 110 Stat. 3441.)
+In addition to any other funds authorized to be appropriated to the Commission, there are authorized to be appropriated to carry out the functions, powers, and duties of the Commission, $351,280,000 for fiscal year 1999.
+
+#### (b) Miscellaneous expenses
+
+Funds appropriated pursuant to this section are authorized to be expended—
+
+&emsp;(1) not to exceed $3,000 per fiscal year, for official reception and representation expenses;
+
+&emsp;(2) not to exceed $10,000 per fiscal year, for funding a permanent secretariat for the International Organization of Securities Commissions; and
+
+&emsp;(3) not to exceed $100,000 per fiscal year, for expenses for consultations and meetings hosted by the Commission with foreign governmental and other regulatory officials, members of their delegations, appropriate representatives, and staff to exchange views concerning developments relating to securities matters, for development and implementation of cooperation agreements concerning securities matters, and provision of technical assistance for the development of foreign securities markets, such expenses to include necessary logistic and administrative expenses and the expenses of Commission staff and foreign invitees in attendance at such consultations and meetings, including—
+
+&emsp;&emsp;(A) such incidental expenses as meals taken in the course of such attendance;
+
+&emsp;&emsp;(B) any travel or transportation to or from such meetings; and
+
+&emsp;&emsp;(C) any other related lodging or subsistence.
+
+(June 6, 1934, ch. 404, title I, §35, as added Pub. L. 94–29, §24, June 4, 1975, 89 Stat. 162; amended Pub. L. 95–20, Apr. 13, 1977, 91 Stat. 47; Pub. L. 95–211, Dec. 19, 1977, 91 Stat. 1492; Pub. L. 95–425, §1, Oct. 6, 1978, 92 Stat. 962; Pub. L. 96–477, title IV, §401, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 100–181, title I, §101, Dec. 4, 1987, 101 Stat. 1249; Pub. L. 100–704, §8, Nov. 19, 1988, 102 Stat. 4683; Pub. L. 101–550, title I, §102, Nov. 15, 1990, 104 Stat. 2713; Pub. L. 104–290, title IV, §403, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 105–353, title II, §201, Nov. 3, 1998, 112 Stat. 3233.)
 
 #### Amendments
+
+1998—Pub. L. 105–353 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the functions, powers, and duties of the Commission $300,000,000 for fiscal year 1997, in addition to any other funds authorized to be appropriated to the Commission.”
 
 1996—Pub. L. 104–290 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the functions, powers, and duties of the Commission—
 
@@ -12,7 +32,7 @@ There are authorized to be appropriated to carry out the functions, powers, and 
 
 &emsp;“(2) $212,609,000 for the fiscal year ending September 30, 1991.”
 
-1990—Pub. L. 101–550 amended section generally, substituting present provisions for former provisions which provided for fiscal years 1988 and 1989: in subsec.\(a), for authorization of appropriations for the Commission; in subsec. (b), for amounts for the EDGAR system; and in subsec. (c), for amounts for reception and representation expenses and for membership in the International Organization of Securities Commissions.
+1990—Pub. L. 101–550 amended section generally, substituting present provisions for former provisions which provided for fiscal years 1988 and 1989: in subsec. (a), for authorization of appropriations for the Commission; in subsec. (b), for amounts for the EDGAR system; and in subsec. (c), for amounts for reception and representation expenses and for membership in the International Organization of Securities Commissions.
 
 1988—Subsec. (c). Pub. L. 100–704 added subsec. (c).
 
@@ -33,8 +53,4 @@ Amendment by Pub. L. 100–704 not applicable to actions occurring before Nov. 1
 #### Effective Date
 
 Section effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>ll</i> of this title.
 

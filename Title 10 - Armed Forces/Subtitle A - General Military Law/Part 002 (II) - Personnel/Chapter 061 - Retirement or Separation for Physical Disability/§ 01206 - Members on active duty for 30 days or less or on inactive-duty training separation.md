@@ -18,9 +18,9 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 &emsp;(5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.
 
-> However, if the member is eligible for transfer to the inactive status list under section 1209 ofthis title, and so elects, he shall be transferred to that list instead of being separated.
+> However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §604(d)(1), (3), 100 Stat. 3876; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 23, 1992, Pub. L. 102–484, div. A, title V, §516(a), 106 Stat. 2407; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §513(c)(2), (d)(2), 111 Stat. 1731.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–661, div. A, title VI, §604(d)(1), (3), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 105–85, div. A, title V, §513(c)(2), (d)(2), Nov. 18, 1997, 111 Stat. 1731.)
 
 Historical and Revision Notes
 

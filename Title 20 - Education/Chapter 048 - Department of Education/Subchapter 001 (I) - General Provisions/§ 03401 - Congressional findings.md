@@ -38,7 +38,7 @@ Section 601 of Pub. L. 96–88 provided that:
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–392, title VI, §601, Sept. 25, 1990, 104 Stat. 840, provided that: “This title \[enacting section 3423a ofthis title, amending section 3424 of this title, repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under section 2403 of this title\] may be cited as the ‘Office of Correctional Education Act of 1990’.”
+Pub. L. 101–392, title VI, §601, Sept. 25, 1990, 104 Stat. 840, provided that: “This title \[enacting section 3423a of this title, amending section 3424 of this title, repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under section 2403 of this title\] may be cited as the ‘Office of Correctional Education Act of 1990’.”
 
 #### Short Title
 

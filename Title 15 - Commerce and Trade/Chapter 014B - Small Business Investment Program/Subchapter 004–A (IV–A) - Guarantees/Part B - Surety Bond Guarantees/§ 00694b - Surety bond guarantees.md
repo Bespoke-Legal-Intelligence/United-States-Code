@@ -2,7 +2,7 @@
 
 #### (a) Authority of Administration to guarantee surety against loss from principal's breach of bond
 
-(1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $1,250,000.
+(1) The Administration may, upon such terms and conditions as it may prescribe, guaranteeand enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $1,250,000.
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 

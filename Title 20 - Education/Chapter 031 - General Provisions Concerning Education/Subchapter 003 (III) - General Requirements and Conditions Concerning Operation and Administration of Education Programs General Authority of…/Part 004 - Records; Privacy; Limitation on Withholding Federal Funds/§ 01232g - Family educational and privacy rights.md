@@ -12,7 +12,7 @@
 
 &emsp;(ii) confidential letters and statements of recommendation, which were placed in the education records prior to January 1, 1975, if such letters or statements are not used for purposes other than those for which they were specifically intended;
 
-&emsp;(iii) if the student has signed a waiver of the student's right of access under this subsectionin accordance with subparagraph (D), confidential recommendations—
+&emsp;(iii) if the student has signed a waiver of the student's right of access under this subsection in accordance with subparagraph (D), confidential recommendations—
 
 &emsp;&emsp;(I) respecting admission to any educational agency or institution,
 
@@ -54,9 +54,9 @@
 
 &emsp;(A) other school officials, including teachers within the educational institution or local educational agency, who have been determined by such agency or institution to have legitimate educational interests, including the educational interests of the child for whom consent would otherwise be required;
 
-&emsp;(B) officials of other schools or school systems in which the student seeks or intends toenroll, upon condition that the student's parents be notified of the transfer, receive a copy of the record if desired, and have an opportunity for a hearing to challenge the content of the record;
+&emsp;(B) officials of other schools or school systems in which the student seeks or intends to enroll, upon condition that the student's parents be notified of the transfer, receive a copy of the record if desired, and have an opportunity for a hearing to challenge the content of the record;
 
-&emsp;(C) authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, under the conditions set forth in paragraph (3) of this subsection;
+&emsp;(C)(i) authorized representatives of (I) the Comptroller General of the United States, (II) the Secretary, or (III) State educational authorities, under the conditions set forth in paragraph (3), or (ii) authorized representatives of the Attorney General for law enforcement purposes under the same conditions as apply to the Secretary under paragraph (3);
 
 &emsp;(D) in connection with a student's application for, or receipt of, financial aid;
 
@@ -76,7 +76,7 @@
 
 &emsp;(H) parents of a dependent student of such parents, as defined in section 152 of title 26;
 
-&emsp;(I) subject to regulations of the Secretary, in connection with an emergency, appropriate persons if the knowledge of such information is necessary to protect the health or safety of the student or other persons; and
+&emsp;(I) subject to regulations of the Secretary, in connection with an emergency, appropriatepersons if the knowledge of such information is necessary to protect the health or safety of the student or other persons; and
 
 &emsp;(J)(i) the entity or persons designated in a Federal grand jury subpoena, in which case the court shall order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished to the grand jury in response to the subpoena; and
 
@@ -98,7 +98,15 @@
 
 (5) Nothing in this section shall be construed to prohibit State and local educational officials from having access to student or other records which may be necessary in connection with the audit and evaluation of any federally or State supported education program or in connection with the enforcement of the Federal legal requirements which relate to any such program, subject to the conditions specified in the proviso in paragraph (3).
 
-(6) Nothing in this section shall be construed to prohibit an institution of postsecondary education from disclosing, to an alleged victim of any crime of violence (as that term is defined in section 16 of title 18), the results of any disciplinary proceeding conducted by such institution against the alleged perpetrator of such crime with respect to such crime.
+(6)(A) Nothing in this section shall be construed to prohibit an institution of postsecondary education from disclosing, to an alleged victim of any crime of violence (as that term is defined in section 16 of title 18), or a nonforcible sex offense, the final results of any disciplinary proceeding conducted by such institution against the alleged perpetrator of such crime or offense with respect to such crime or offense.
+
+(B) Nothing in this section shall be construed to prohibit an institution of postsecondary education from disclosing the final results of any disciplinary proceeding conducted by such institution against a student who is an alleged perpetrator of any crime of violence (as that term is defined in section 16 of title 18), or a nonforcible sex offense, if the institution determines as a result of that disciplinary proceeding that the student committed a violation of the institution's rules or policies with respect to such crime or offense.
+
+(C) For the purpose of this paragraph, the final results of any disciplinary proceeding—
+
+&emsp;(i) shall include only the name of the student, the violation committed, and any sanction imposed by the institution on that student; and
+
+&emsp;(ii) may include the name of any other student, such as a victim or witness, only with the written consent of that other student.
 
 #### (c) Surveys or data-gathering activities; regulations
 
@@ -128,13 +136,39 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 &emsp;(2) disclosing such information to teachers and school officials, including teachers and school officials in other schools, who have legitimate educational interests in the behavior of the student.
 
-(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928.)
+#### (i) Drug and alcohol violation disclosures
+
+#### (1) In general
+
+&emsp;Nothing in this Act or the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student's education records, if—
+
+&emsp;&emsp;(A) the student is under the age of 21; and
+
+&emsp;&emsp;(B) the institution determines that the student has committed a disciplinary violation with respect to such use or possession.
+
+#### (2) State law regarding disclosure
+
+&emsp;Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a) of this section.
+
+(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836.)
+
+#### References in Text
+
+This Act, referred to in subsec. (i)(1), is Pub. L. 90–247, Jan. 2, 1968, 80 Stat. 783, as amended, known as the Elementary and Secondary Education Amendments of 1967. Title IV of the Act, known as the General Education Provisions Act, is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 6301 of this title and Tables.
+
+The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 444 of Pub. L. 90–247 was classified to section 1233c of this title prior to repeal by Pub. L. 103–382.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(C). Pub. L. 105–244, §951(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “authorized representatives of (i) the Comptroller General of the United States, (ii) the Secretary, or (iii) State educational authorities, under the conditions set forth in paragraph (3) of this subsection;”.
+
+Subsec. (b)(6). Pub. L. 105–244, §951(2), designated existing provisions as subpar. (A), substituted “or a nonforcible sex offense, the final results” for “the results”,substituted “such crime or offense” for “such crime” in two places, and added subpars. (B) and (C).
+
+Subsec. (i). Pub. L. 105–244, §952, added subsec. (i).
 
 1994—Subsec. (a)(1)(B). Pub. L. 103–382, §249(1)(A)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
 
@@ -192,13 +226,17 @@ Subsec. (b)(1). Pub. L. 93–568, §2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(
 
 Subsec. (b)(2). Pub. L. 93–568, §2(a)(1)(E), (2)(E), substituted “educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section”.
 
-Subsec. (b)(3). Pub. L. 93–568, §2(a)(8)(D), substituted “information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements” for “data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected”.
+Subsec. (b)(3). Pub. L. 93–568, §2(a)(8)(D), substituted “information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements” for “data is specifically authorized by Federal law, any data collected by such officials withrespect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected”.
 
-Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student's record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the records ofthe student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
+Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student's record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the records of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
 
 Subsec. (e). Pub. L. 93–568, §2(a)(1)(F), substituted “to any educational agency or institution unless such agency or institution” for “unless the recipient of such funds”.
 
 Subsec. (g). Pub. L. 93–568, §2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -218,7 +256,7 @@ Section 513(b)(1) of Pub. L. 93–380 provided that: “The provisions of this s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1232i, 1417, 5917 of this title; title 8 section 1372; title 25 section 3205; title 42 section 11432.
+This section is referred to in sections 1092, 1232i, 1417, 2304, 5917, 9274 of this title; title 8 section 1372; title 25 section 3205; title 42 section 11432.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, any State that establishes to the sa
 
 Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to a PM–10 nonattainment area in such State, such State would have attained the national ambient air quality standard for carbon monoxide by the applicable attainment date, but for emissions emanating from outside the United States, shall not be subject to the provisions of section 7513(b)(2) of this title.
 
-(July 14, 1955, ch. 360, title I, §179B, as added Nov. 15, 1990, Pub. L. 101–549, title VIII, §818, 104 Stat. 2697.)
+(July 14, 1955, ch. 360, title I, §179B, as added Pub. L. 101–549, title VIII, §818, Nov. 15, 1990, 104 Stat. 2697.)
 
 #### Establishment of Program To Monitor and Improve Air Quality in Regions Along Border Between United States and Mexico
 

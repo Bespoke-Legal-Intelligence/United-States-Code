@@ -36,7 +36,7 @@ For purposes of this chapter:
 
 #### Codification
 
-In par. (3)(A), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In par. (3)(A), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat.1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -34,7 +34,7 @@ The Board shall not act in the absence of a quorum, which shall consist of seven
 
 #### (e) Allowance for travel expenses
 
-Members of the Board, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise performing duties at the request ofthe Board Chairman while away from their homes or a regular place of business, may be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5.
+Members of the Board, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise performing duties at the request of the Board Chairman while away from their homes or a regular place of business, may be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5.
 
 #### (f) Staff services and utilization of Federal personnel
 
@@ -44,7 +44,7 @@ To provide the staff services necessary to assist the Board in carrying out its 
 
 As used in this section, the terms “computer system” and “Federal computer system” have the meanings given in section 278g–3 of this title.
 
-(Mar. 3, 1901, ch. 872, §21, as added Jan. 8, 1988, Pub. L. 100–235, §3(2), 101 Stat. 1727; amended Aug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433.)
+(Mar. 3, 1901, ch. 872, §21, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1727; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
 
 #### Amendments
 

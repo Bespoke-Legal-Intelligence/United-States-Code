@@ -16,7 +16,7 @@ There are authorized to be appropriated to carry out this chapter—
 
 #### (b) Section 10402(a) and (b)
 
-Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 70 percent shall be used for making grants under subsection 10402(a) of this title, and not less than 10 percent shall be used for the purpose of carrying out section 10402(b) of this title.
+Of the amounts appropriated under subsection (a) of this section for each fiscal year, not lessthan 70 percent shall be used for making grants under subsection 10402(a) of this title, and not less than 10 percent shall be used for the purpose of carrying out section 10402(b) of this title.
 
 #### (c) Section 10407
 
@@ -24,7 +24,7 @@ Of the amounts appropriated under subsection (a) of this section for each fiscal
 
 #### (d) Grants for State coalitions
 
-Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 10 percent of such amounts shall be used bythe Secretary for making grants under section 10410 of this title.
+Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 10 percent of such amounts shall be used by the Secretary for making grants under section 10410 of this title.
 
 #### (e) Non-supplanting requirement
 

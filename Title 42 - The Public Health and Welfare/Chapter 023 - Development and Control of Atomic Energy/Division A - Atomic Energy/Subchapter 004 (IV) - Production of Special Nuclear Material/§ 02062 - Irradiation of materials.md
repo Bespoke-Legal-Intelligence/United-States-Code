@@ -2,7 +2,7 @@
 
 The Commission and persons lawfully producing or utilizing special nuclear material are authorized to expose materials of any kind to the radiation incident to the processes of producing or utilizing special nuclear material.
 
-(Aug. 1, 1946, ch. 724, title I, §42, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 929; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §42, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 929; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

@@ -14,8 +14,6 @@ Section 2586, Pub. L. 87–415, title II, §206, Mar. 15, 1962, 76 Stat. 29, aut
 
 Section 2587, Pub. L. 87–415, title II, §207, Mar. 15, 1962, 76 Stat. 29, empowered Secretary of Labor to promulgate rules and regulations.
 
-See section 1501 et seq. of Title 29, Labor.
-
 #### Effective Date of Repeal
 
 Section 714, formerly §614, of Pub. L. 93–203 provided that the repeal is effective with respect to fiscal years after June 30, 1974.

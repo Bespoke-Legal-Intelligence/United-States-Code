@@ -36,9 +36,13 @@ the <sup>1</sup> Director of the Institute may develop, or make grants to devel
 
 #### (e) “Council on Alzheimer's Disease” defined
 
-For purposes of this section, the term “Council on Alzheimer's Disease” means the council established in section 11211(a) of this title.
+For purposes of this section, the term “Council on Alzheimer's Disease” means the council established in section 11211(a) <sup>2</sup> of this title.
 
-(July 1, 1944, ch. 373, title IV, §445C, formerly Pub. L. 99–660, title IX, §941, Nov. 14, 1986, 100 Stat. 3808; renumbered §445C of act July 1, 1944; amended Nov. 4, 1988, Pub. L. 100–607, title I, §142(a), (d)(2), 102 Stat. 3057, 3058; Oct. 24, 1992, Pub. L. 102–507, §9, 106 Stat. 3287; June 10, 1993, Pub. L. 103–43, title VIII, §804, 107 Stat. 164.)
+(July 1, 1944, ch. 373, title IV, §445C, formerly Pub. L. 99–660, title IX, §941, Nov. 14, 1986, 100 Stat. 3808; renumbered §445C of act July 1, 1944; amended Pub. L. 100–607, title I, §142(a), (d)(2), Nov. 4, 1988, 102 Stat. 3057, 3058; Pub. L. 102–507, §9, Oct. 24, 1992, 106 Stat. 3287; Pub. L. 103–43, title VIII, §804, June 10, 1993, 107 Stat. 164.)
+
+#### References in Text
+
+Section 11211 of this title, referred to in subsec. (e), was repealed by Pub. L. 105–362, title VI, §601(a)(2)(E), Nov. 10, 1998, 112 Stat. 3286.
 
 #### Codification
 
@@ -69,4 +73,6 @@ Subsecs. (b)(2), (c). Pub. L. 100–607, §142(d)(2)(B)(iii), (C), substituted �
 This section is referred to in section 285e–6 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

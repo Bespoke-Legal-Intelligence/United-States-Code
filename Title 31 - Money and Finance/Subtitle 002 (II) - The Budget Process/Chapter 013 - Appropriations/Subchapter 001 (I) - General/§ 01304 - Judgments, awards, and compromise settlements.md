@@ -96,7 +96,7 @@ Section 2(m) of Pub. L. 97–258 provided that the amendment made by that sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2, 838<i>l</i>; title 23 section 307; title 26 section 7435; title 28 sections 1961, 3906; title 32 sections 334, 715; title 41 section 612.
+This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2, 838<i>l</i>; title 26 sections 7426, 7435; title 28 sections 1961, 3906; title 32 sections 334, 715; title 41 section 612.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

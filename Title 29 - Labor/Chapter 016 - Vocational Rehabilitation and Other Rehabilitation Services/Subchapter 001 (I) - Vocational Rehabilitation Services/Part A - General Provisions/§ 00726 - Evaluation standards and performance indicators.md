@@ -4,15 +4,25 @@
 
 #### (1) In general
 
-&emsp;The Commissioner shall, not later than September 30, 1994, establish and publish evaluation standards and performance indicators for the vocational rehabilitation program under this subchapter.
+#### (A) Establishment of standards and indicators
+
+&emsp;&emsp;The Commissioner shall, not later than July 1, 1999, establish and publish evaluation standards and performance indicators for the vocational rehabilitation program carried out under this subchapter.
+
+#### (B) Review and revision
+
+&emsp;&emsp;Effective July 1, 1999, the Commissioner shall review and, if necessary, revise the evaluation standards and performance indicators every 3 years. Any revisions of the standards and indicators shall be developed with input from State vocational rehabilitation agencies, related professional and consumer organizations, recipients of vocational rehabilitation services, and other interested parties. Any revisions of the standards and indicators shall be subject to the publication, review, and comment provisions of paragraph (3).
+
+#### (C) Bases
+
+&emsp;&emsp;Effective July 1, 1999, to the maximum extent practicable, the standards and indicators shall be consistent with the core indicators of performance established under section 2871(b) of this title.
 
 #### (2) Measures
 
-&emsp;The standards and indicators shall include outcome and related measures of program performance that facilitate and in no way impede the accomplishment of the purpose and policy of this subchapter.
+&emsp;The standards and indicators shall include outcome and related measures of program performance that facilitate the accomplishment of the purpose and policy of this subchapter.
 
 #### (3) Comment
 
-&emsp;The standards and indicators shall be developed with input from State vocational rehabilitation agencies, related professional and consumer organizations, recipients of vocational rehabilitation services, and other interested parties. The Commissioner shall publish in the Federal Register a notice of intent to regulate regarding the development of proposed standards and indicators. Proposed standards and indicators shall be published in the Federal Register for review and comment. Final standards and indicators shall be published in the Federal Register.
+&emsp;The standards and indicators shall be developed with input from State vocational rehabilitation agencies, related professional and consumer organizations, recipients of vocational rehabilitation services, and other interested parties. The Commissioner shall publishin the Federal Register a notice of intent to regulate regarding the development of proposed standards and indicators. Proposed standards and indicators shall be published in the Federal Register for review and comment. Final standards and indicators shall be published in the Federal Register.
 
 #### (b) Compliance
 
@@ -24,7 +34,7 @@
 
 #### (A) Plan
 
-&emsp;&emsp;If the Commissioner determines that the performance of any State is below established standards, the Commissioner shall provide technical assistance to the State and the State and the Commissioner shall jointly develop a program improvement plan outlining the specific actions to be taken by the State to improve program performance.
+&emsp;&emsp;If the Commissioner determines that the performance of any State is below established standards, the Commissioner shall provide technical assistance to the State, and the State and the Commissioner shall jointly develop a program improvement plan outlining the specific actions to be taken by the State to improve program performance.
 
 #### (B) Review
 
@@ -36,15 +46,19 @@
 
 #### (c) Withholding
 
-If the Commissioner determines that a State whose performance falls below the established standards has failed to enter into a program improvement plan, or is not complying substantially with the terms and conditions of such a program improvement plan, the Commissioner shall, consistent with subsections (c) and (d) ofsection 727 of this title, reduce or make no further payments to the State under this program, until the State has entered into an approved program improvement plan, or satisfies the Commissioner that the State is complying substantially with the terms and conditions of such a program improvement plan, as appropriate.
+If the Commissioner determines that a State whose performance falls below the established standards has failed to enter into a program improvement plan, or is not complying substantially with the terms and conditions of such a program improvement plan, the Commissioner shall, consistent with subsections (c) and (d) of section 727 of this title, reduce or make no further payments to the State under this program, until the State has entered into an approved program improvement plan, or satisfies the Commissioner that the State is complying substantially with the terms and conditions of such a program improvement plan, as appropriate.
 
 #### (d) Report to Congress
 
-Beginning in fiscal year 1996, the Commissioner shall include in each annual report to the Congress under section 712 of this title an analysis of program performance, including relative State performance, based on the standards and indicators.
+Beginning in fiscal year 1999, the Commissioner shall include in each annual report to the Congress under section 710 of this title an analysis of program performance, including relative State performance, based on the standards and indicators.
 
-(Pub. L. 93–112, title I, §106, as added Pub. L. 102–569, title I, §127(a), Oct. 29, 1992, 106 Stat. 4385.)
+(Pub. L. 93–112, title I, §106, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1156.)
+
+#### Prior Provisions
+
+A prior section 726, Pub. L. 93–112, title I, §106, as added Pub. L. 102–569, title I, §127(a), Oct. 29, 1992, 106 Stat. 4385, related to evaluation standards and performance indicators, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 727 of this title.
+This section is referred to in sections 721, 727 of this title.
 

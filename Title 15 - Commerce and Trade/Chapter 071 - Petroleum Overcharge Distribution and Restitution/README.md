@@ -10,9 +10,8 @@
 | (e) | Interest. |
 | [4502\.](%C2%A7%2004502%20-%20Identification%20and%20disbursement%20of%20restitutionary%20amounts.md) | Identification and disbursement of restitutionary amounts. |
 | (a) | In general. |
-| (b) | Disbursement of restitutionary amounts as direct restitution to injured persons. |
-| (c) | Determination of excess amount to be used for indirect restitution. |
-| (d) | Disbursement of excess amount as indirect restitution for energy conservation programs. |
+| (b) | to (d) Repealed. |
+| (e) | Repeal of subsections (b) to (d); equitable distribution of escrow remainder to claimants. |
 | [4503\.](%C2%A7%2004503%20-%20Deposit%20of%20remainder%20of%20excess%20amount%20into%20Treasury%20as%20indirect%20restitution.md) | Deposit of remainder of excess amount into Treasury as indirect restitution. |
 | [4504\.](%C2%A7%2004504%20-%20Statute%20of%20limitation.md) | Statute of limitation. |
 | (a) | In general. |

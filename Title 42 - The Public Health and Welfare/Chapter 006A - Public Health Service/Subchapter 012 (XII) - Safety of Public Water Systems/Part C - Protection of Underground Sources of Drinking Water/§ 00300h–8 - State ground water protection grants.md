@@ -32,13 +32,13 @@ The amount of a grant awarded pursuant to paragraph (1) shall not exceed 50 perc
 
 #### (e) Evaluations and reports
 
-Not later than 3 years after August 6, 1996, and every 3 years thereafter, the Administrator shall evaluate the State ground water protection programs that are the subject of grants awarded pursuant to this section and report to the Congress on the status of ground water quality in the United States and the effectiveness of State programs for ground water protection.
+Not later than 3 years after August 6, 1996, and every 3 years thereafter, the Administratorshall evaluate the State ground water protection programs that are the subject of grants awarded pursuant to this section and report to the Congress on the status of ground water quality in the United States and the effectiveness of State programs for ground water protection.
 
 #### (f) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 1997 through 2003.
 
-(July 1, 1944, ch. 373, title XIV, §1429, as added Aug. 6, 1996, Pub. L. 104–182, title I, §131, 110 Stat. 1672.)
+(July 1, 1944, ch. 373, title XIV, §1429, as added Pub. L. 104–182, title I, §131, Aug. 6, 1996, 110 Stat. 1672.)
 
 #### Section Referred to in Other Sections
 

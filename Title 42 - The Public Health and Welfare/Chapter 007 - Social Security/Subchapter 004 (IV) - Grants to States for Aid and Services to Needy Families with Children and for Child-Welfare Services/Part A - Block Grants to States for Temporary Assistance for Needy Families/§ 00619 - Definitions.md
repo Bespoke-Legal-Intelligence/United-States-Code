@@ -56,7 +56,7 @@ As used in this part:
 
 &emsp;Except as otherwise specifically provided, the term “State” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
 
-(Aug. 14, 1935, ch. 531, title IV, §419, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(2), 110 Stat. 2159.)
+(Aug. 14, 1935, ch. 531, title IV, §419, as added Pub. L. 104–193, title I, §103(a)(2), Aug. 22, 1996, 110 Stat. 2159.)
 
 #### Effective Date
 

@@ -54,7 +54,7 @@
 
 &emsp;(B) with respect to each major defense acquisition program that was not included in the most recent comprehensive annual Selected Acquisition Report, the information described in subsection (c).
 
-(2) Selected Acquisition Reports for the second, third, and fourth quarters of a fiscal yearshall be known as Quarterly Selected Acquisition Reports.
+(2) Selected Acquisition Reports for the second, third, and fourth quarters of a fiscal year shall be known as Quarterly Selected Acquisition Reports.
 
 (e) Information to be included under this subsection in a Quarterly Selected Acquisition Report with respect to a major defense acquisition program is as follows:
 
@@ -112,9 +112,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Subsec. (c)(1). Pub. L. 104–201, §806(1), struck out “and” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-Subsec. (c)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (c)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee onNational Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “The completion status of the program (A) expressed as the percentage that the number of years for which funds have been appropriated for theprogram is of the number of years for which it is planned that funds will be appropriated for the program, and (B) expressed as the percentage that the amount of funds that have been appropriated for the program is of the total amount of funds which it is planned will be appropriated for the program.”
+Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “The completion status of the program (A) expressed as the percentage that the number of years for which funds have been appropriated for the program is of the number of years for which it is planned that funds will be appropriated for the program, and (B) expressed as the percentage that the amount of funds that have been appropriated for the program is of the total amount of funds which it is planned will be appropriated for the program.”
 
 Subsec. (h)(1). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
@@ -208,6 +208,10 @@ Subsec. (f). Pub. L. 98–525, §1242(a)(4), substituted: “60” for “30”,
 
 Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1990 Amendment
 
 Section 1407(d) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(8), Apr. 6, 1991, 105 Stat. 119, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to Selected Acquisition Reports submitted under section 2432 of title 10, United States Code, after December 31, 1991.”
@@ -232,7 +236,7 @@ Section 127 of Pub. L. 100–180, as amended by Pub. L. 102–484, div. A, title
 
 “(a)
 
-SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\], in accordance with the provisions of subsection (b) of section 2432 of title 10, United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code.
+SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives, in accordance with the provisions of subsection (b) of section 2432 of title 10, United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code.
 
 “(b)
 

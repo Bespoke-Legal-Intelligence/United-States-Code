@@ -16,7 +16,7 @@
 
 (2) If the owner of a building wishes to remove a work of visual art which is a part of such building and which can be removed from the building without the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), the author's rights under paragraphs (2) and (3) of section 106A(a) shall apply unless—
 
-&emsp;(A) the owner has made a diligent, good faith attempt without success to notify theauthor of the owner's intended action affecting the work of visual art, or
+&emsp;(A) the owner has made a diligent, good faith attempt without success to notify the author of the owner's intended action affecting the work of visual art, or
 
 &emsp;(B) the owner did provide such notice in writing and the person so notified failed, within 90 days after receiving such notice, either to remove the work or to pay for its removal.
 

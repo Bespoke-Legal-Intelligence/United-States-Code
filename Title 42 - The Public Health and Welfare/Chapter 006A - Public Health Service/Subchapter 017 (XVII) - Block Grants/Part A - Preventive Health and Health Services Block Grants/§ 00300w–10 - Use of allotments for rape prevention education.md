@@ -44,11 +44,11 @@ For purposes of this section, the term “rape prevention and education” inclu
 
 The Secretary shall make allotments to each State on the basis of the population of the State, and subject to the conditions provided in this section and sections 300w–3 through 300w–8 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1910A, as added Sept. 13, 1994, Pub. L. 103–322, title IV, §40151, 108 Stat. 1920.)
+(July 1, 1944, ch. 373, title XIX, §1910A, as added Pub. L. 103–322, title IV, §40151, Sept. 13, 1994, 108 Stat. 1920.)
 
 #### Codification
 
-Section 40151 of Pub. L. 103–322, which directed that this section be added at the end of part A of title XIX of the “Public Health and Human Services Act”, was executed by adding this section at the end of part A of title XIX of the Public Health Service Act, to reflect the probable intent of Congress.
+Section 40151 of Pub. L. 103–322, which directed that this section be added at the end of part A of title XIX of the “Public Health and Human Services Act”, wasexecuted by adding this section at the end of part A of title XIX of the Public Health Service Act, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

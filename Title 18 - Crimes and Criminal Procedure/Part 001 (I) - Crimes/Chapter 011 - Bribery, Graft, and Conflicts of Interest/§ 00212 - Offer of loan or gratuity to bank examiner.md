@@ -4,7 +4,7 @@ Whoever, being an officer, director or employee of a financial institution which
 
 The provisions of this section and section 213 of this title shall apply to all public examiners and assistant examiners who examine member banks of the Federal Reserve System, insured financial institutions, branches or agencies of foreign banks (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), organizations operating under section 25 or section 25(a) <sup>1</sup> of the Federal Reserve Act, whether appointed by the Comptroller of the Currency, by the Board of Governors of the Federal Reserve System, by a Federal Reserve Agent, by a Federal Reserve bank, by the Federal Deposit Insurance Corporation, by the Office of Thrift Supervision, or by the Federal Housing Finance Board, or appointed or elected under the laws of any state; but shall not apply to private examiners or assistant examiners employed only by a clearinghouse association or by the directors of a bank.
 
-(June 25, 1948, ch. 645, 62 Stat. 694, §212, formerly §217; Aug. 21, 1958, Pub. L. 85–699, title VII, §701(a), 72 Stat. 698; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387; renumbered §212, Oct. 23, 1962, Pub. L. 87–849, §1(d), 76 Stat. 1125; Aug. 9, 1989, Pub. L. 101–73, title IX, §962(a)(1), 103 Stat. 501; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(b), 104 Stat. 4908; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330004(1), 330010(1), 330016(1)(K), 108 Stat. 2141, 2143, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 694, §212, formerly §217; Pub. L. 85–699, title VII, §701(a), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; renumbered §212, Pub. L. 87–849, §1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, §962(a)(1), Aug. 9, 1989, 103 Stat. 501; Pub. L. 101–647, title XXV, §2597(b), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 103–322, title XXXIII, §§330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2143, 2147.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Changes in phraseology were also made.
 
 Section 1(b) of the International Banking Act of 1978, referred to in text, is classified to section 3101 of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) ofchapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 4.26 of the Farm Credit Act of 1971, referred to in text, is classified to section 2212 of Title 12.
 

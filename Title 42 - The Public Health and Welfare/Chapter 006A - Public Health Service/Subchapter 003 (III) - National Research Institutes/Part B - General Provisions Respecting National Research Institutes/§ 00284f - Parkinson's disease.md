@@ -62,7 +62,7 @@ The Director of NIH is authorized to establish a grant program to support invest
 
 For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000.
 
-(July 1, 1944, ch. 373, title IV, §409B, as added Nov. 13, 1997, Pub. L. 105–78, title VI, §603(c), 111 Stat. 1520.)
+(July 1, 1944, ch. 373, title IV, §409B, as added Pub. L. 105–78, title VI, §603(c), Nov. 13, 1997, 111 Stat. 1520.)
 
 #### Finding and Purpose
 

@@ -54,7 +54,7 @@ Army To Be Executive Agent.—The Secretary of Defense shall designate the Secre
 
 “(d)
 
-Implementation Plan.—If the Secretary of Defense intends to change the plan for the implementation of the program previously submitted to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\], the amended plan shall be submitted to such committees before implementation.
+Implementation Plan.—If the Secretary of Defense intends to change the plan for the implementation of the program previously submitted to the Committees on Armed Services of the Senate and House of Representatives, the amended plan shall be submitted to such committees before implementation.
 
 “(e)
 

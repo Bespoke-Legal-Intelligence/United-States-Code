@@ -8,7 +8,7 @@ And nothing in this Act shall be construed to affect or alter their rates of pay
 
 #### References in Text
 
-This Act, referred to in text, means act May 22, 1917, ch. 20, 40 Stat. 84, as amended, which, insofar as it was classified to the Code, enacted sections 854, 855, 856, 857 and 858 of this title, and sections 1, 152, 212 to 216, 280,284, 297, 322, 323, 424, 425, 640 and 864 of former Title 34, Navy, and amended section 96 of former Title 18, Criminal Code and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act May 22, 1917, ch. 20, 40 Stat. 84, as amended, which, insofar as it was classified to the Code, enacted sections 854, 855, 856, 857 and 858 of this title, and sections 1, 152, 212 to 216, 280, 284, 297, 322, 323, 424, 425, 640 and 864 of former Title 34, Navy, and amended section 96 of former Title 18, Criminal Code and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 For each fiscal year beginning with the fiscal year ending June 30, 1951, the Secretary of the Interior shall certify to the Secretary of the Treasury, and to each State fish and game department, the sum which he has estimated to be deducted for administering and executing this chapter and the sum which he has apportioned to each State for such fiscal year.
 
-(Aug. 9, 1950, ch. 658, §5, 64 Stat. 432; July 18, 1984, Pub. L. 98–369, div. A, title X, §1014(a)(4), 98 Stat. 1015.)
+(Aug. 9, 1950, ch. 658, §5, 64 Stat. 432; Pub. L. 98–369, div. A, title X, §1014(a)(4), July 18, 1984, 98 Stat. 1015.)
 
 #### Amendments
 

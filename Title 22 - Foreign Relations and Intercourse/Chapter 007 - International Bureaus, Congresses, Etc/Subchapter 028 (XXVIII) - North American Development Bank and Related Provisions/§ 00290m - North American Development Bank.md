@@ -10,7 +10,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury may subscribe on behalf of the United States up to 150,000 shares of the capital stock of the Bank.
+&emsp;&emsp;The Secretary of the Treasury may subscribe on behalf of the United States up to150,000 shares of the capital stock of the Bank.
 
 #### (B) Effectiveness of subscription
 
@@ -24,7 +24,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (A) Funding
 
-&emsp;&emsp;For fiscal year 1995, the Secretary of the Treasury shall pay to the Bank out of any sums in the Treasury not otherwise appropriated the sum of $56,250,000 for the paid-in portion of the United States share of the capital stock of the Bank, 10 percent of which may be transferred by the Bank to the President pursuant to section 290m–2 of thistitle to pay for the cost of direct and guaranteed Federal loans.
+&emsp;&emsp;For fiscal year 1995, the Secretary of the Treasury shall pay to the Bank out of any sums in the Treasury not otherwise appropriated the sum of $56,250,000 for the paid-in portion of the United States share of the capital stock of the Bank, 10 percent of which may be transferred by the Bank to the President pursuant to section 290m–2 of this title to pay for the cost of direct and guaranteed Federal loans.
 
 #### (B) Limitation on callable capital subscriptions
 
@@ -70,7 +70,7 @@ For the purpose of any civil action which may be brought within the United State
 
 #### (3) Authority of Securities and Exchange Commission to suspend exemption; reports to the Congress
 
-&emsp;The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of paragraph (2) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this subsection and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
+&emsp;The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspendthe provisions of paragraph (2) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this subsection and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
 (Pub. L. 103–182, title V, §541, Dec. 8, 1993, 107 Stat. 2165.)
 

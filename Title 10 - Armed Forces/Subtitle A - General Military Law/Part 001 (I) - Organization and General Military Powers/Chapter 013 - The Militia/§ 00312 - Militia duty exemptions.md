@@ -20,7 +20,7 @@
 
 (b) A person who claims exemption because of religious belief is exempt from militia duty in a combatant capacity, if the conscientious holding of that belief is established under such regulations as the President may prescribe. However, such a person is not exempt from militia duty that the President determines to be noncombatant.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 15; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(3), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15; Pub. L. 100–456, div. A, title XII, §1234(a)(3), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

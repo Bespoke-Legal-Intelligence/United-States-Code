@@ -2,7 +2,7 @@ Part B—Independent Living Services for Older Individuals Who Are Blind
 
 #### Part Referred to in Other Sections
 
-This part is referred to in section 718 of this title.
+This part is referred to in section 716 of this title.
 
 
 ---

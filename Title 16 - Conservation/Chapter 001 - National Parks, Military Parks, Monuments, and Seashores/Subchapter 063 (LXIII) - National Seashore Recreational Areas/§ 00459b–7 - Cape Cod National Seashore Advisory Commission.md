@@ -2,7 +2,7 @@
 
 #### (a) Establishment; termination
 
-There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the “Commission”). Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title.
+There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall terminate September 26, 2008.
 
 #### (b) Membership; term
 
@@ -46,7 +46,7 @@ No permit for the commercial or industrial use of property located within the se
 
 &emsp;(ii) during the period of such appointment, and the further period of two years after the termination thereof, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter concerning which the appointee had any responsibility arising out of his appointment during the period of such appointment.
 
-(Pub. L. 87–126, §8, Aug. 7, 1961, 75 Stat. 292; Pub. L. 99–420, title II, §201, Sept. 25, 1986, 100 Stat. 960.)
+(Pub. L. 87–126, §8, Aug. 7, 1961, 75 Stat. 292; Pub. L. 99–420, title II, §201, Sept. 25, 1986, 100 Stat. 960; Pub. L. 105–280, §1(b), Oct. 26, 1998, 112 Stat. 2694.)
 
 #### References in Text
 
@@ -55,6 +55,8 @@ Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (h)(1), wer
 Section 190 of the Revised Statutes (5 U.S.C. 99), referred to in subsec. (h)(1), was repealed by Pub. L. 87–849, §3, Oct. 23, 1962, 76 Stat. 1126. See section 207 of Title 18.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–280 substituted “The Commission shall terminate September 26, 2008.” for “Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title.”
 
 1986—Subsec. (a). Pub. L. 99–420 substituted “30 years” for “ten years”.
 

@@ -8,7 +8,7 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 &emsp;(2) the indenture trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, in the absence of bad faith on the part of such trustee, upon certificates or opinions conforming to the requirements of the indenture;
 
-> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnnof this title to determine whether or not such evidence conforms to the requirements of the indenture.
+> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnn of this title to determine whether or not such evidence conforms to the requirements of the indenture.
 
 #### (b) Notice of defaults
 
@@ -32,7 +32,7 @@ The indenture to be qualified shall not contain any provisions relieving the ind
 
 The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions to the effect that all parties thereto, including the indenture security holders, agree that the court may in its discretion require, in any suit for the enforcement of any right or remedy under such indenture, or in any suit against the trustee for any action taken or omitted by it as trustee, the filing by any party litigant in such suit of an undertaking to pay the costs of such suit, and that such court may in its discretion assess reasonable costs, including reasonable attorney's fees, against any party litigant in such suit, having due regard to the merits and good faith of the claims or defenses made by such party litigant: <i>Provided</i>, That the provisions of this subsection shall not apply to any suit instituted by such trustee, to any suit instituted by any indenture security holder, or group of indenture security holders, holding in the aggregate more than 10 per centum in principal amount of the indenture securities outstanding, or to any suit instituted by any indenture security holder for the enforcement of the payment of the principal of or interest on any indenture security, on or after the respective due dates expressed in such indenture security.
 
-(May 27, 1933, ch. 38, title III, §315, as added Aug. 3, 1939, ch. 411, 53 Stat. 1171; amended Nov. 15, 1990, Pub. L. 101–550, title IV, §414, 104 Stat. 2730.)
+(May 27, 1933, ch. 38, title III, §315, as added Aug. 3, 1939, ch. 411, 53 Stat. 1171; amended Pub. L. 101–550, title IV, §414, Nov. 15, 1990, 104 Stat. 2730.)
 
 #### Amendments
 

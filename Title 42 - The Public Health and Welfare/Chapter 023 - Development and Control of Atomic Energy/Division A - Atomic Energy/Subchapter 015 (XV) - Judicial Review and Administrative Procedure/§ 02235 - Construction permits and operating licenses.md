@@ -4,7 +4,7 @@
 
 (b) After holding a public hearing under section 2239(a)(1)(A) of this title, the Commission shall issue to the applicant a combined construction and operating license if the application contains sufficient information to support the issuance of a combined license and the Commission determines that there is reasonable assurance that the facility will be constructed and will operate in conformity with the license, the provisions of this chapter, and the Commission's rules and regulations. The Commission shall identify within the combined license the inspections, tests, and analyses, including those applicable to emergency planning, that the licensee shall perform, and the acceptance criteria that, if met, are necessary and sufficient to provide reasonable assurance that the facility has been constructed and will be operated in conformity with the license, the provisions of this chapter, and the Commission's rules and regulations. Following issuance of the combined license, the Commission shall ensure that the prescribed inspections, tests, and analyses are performed and, prior to operation of the facility, shall find that the prescribed acceptance criteria are met. Any finding made under this subsection shall not require a hearing except as provided in section 2239(a)(1)(B) of this title.
 
-(Aug. 1, 1946, ch. 724, title I, §185, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 955; renumbered title I and amended Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), title XXVIII, §2801, 106 Stat. 2944, 3120.)
+(Aug. 1, 1946, ch. 724, title I, §185, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 955; renumberedtitle I and amended Pub. L. 102–486, title IX, §902(a)(8), title XXVIII, §2801, Oct. 24, 1992, 106 Stat. 2944, 3120.)
 
 #### Amendments
 

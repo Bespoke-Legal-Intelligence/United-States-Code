@@ -40,7 +40,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 (B) The Commission shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
 
-(June 10, 1920, ch. 285, pt. I, §31, as added Oct. 16, 1986, Pub. L. 99–495, §12, 100 Stat. 1255.)
+(June 10, 1920, ch. 285, pt. I, §31, as added Pub. L. 99–495, §12, Oct. 16, 1986, 100 Stat. 1255.)
 
 #### Effective Date
 

@@ -14,7 +14,7 @@
 
 &emsp;(5) The Assistant Secretary of Energy responsible for environmental restoration and waste management.
 
-&emsp;(6) The Director of the Department of Energy Office of Energy Research.
+&emsp;(6) The Director of the Department of Energy Office of Science.
 
 &emsp;(7) The Administrator of the Environmental Protection Agency.
 
@@ -80,7 +80,7 @@
 
 &emsp;(8) provide for the identification of, and planning for the demonstration and use of, existing environmentally sound, energy-efficient technologies developed by the private sector that could be used directly by the Department of Defense;
 
-&emsp;(9) provide for the identification of military specifications that prevent or limit the use ofenvironmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
+&emsp;(9) provide for the identification of military specifications that prevent or limit the use of environmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
 
 &emsp;(10) to ensure that the research and development programs identified for support pursuant to the policies and procedures prescribed by the Council are closely coordinated with, and do not duplicate, ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other Federal agencies.
 
@@ -90,13 +90,15 @@
 
 (2) Not later than March 15 of each year, the Secretary of Defense shall submit such annual report to Congress, along with such comments as the Secretary considers appropriate.
 
-(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1751; amended Pub. L. 102–190, div. A, title II, §257(a), title X, §1061(a)(19), Dec. 5, 1991, 105 Stat. 1331, 1473; Pub. L. 102–484, div. A, title X, §1052(38), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 103–160, div. A, title II, §265(a), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(a)–(b)(2), (c), Feb. 10, 1996, 110 Stat. 217, 218.)
+(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1751; amended Pub. L. 102–190, div. A, title II, §257(a), title X, §1061(a)(19), Dec. 5, 1991, 105 Stat. 1331, 1473; Pub. L. 102–484, div. A, title X, §1052(38), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 103–160, div. A, title II, §265(a), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(a)–(b)(2), (c), Feb. 10, 1996, 110 Stat. 217, 218; Pub. L. 105–245, title III, §309(b)(2)(B), Oct. 7, 1998, 112 Stat. 1853.)
 
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(7), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(6). Pub. L. 105–245 substituted “Science” for “Energy Research”.
 
 1996—Subsec. (b). Pub. L. 104–106, §203(a)(1), substituted “12” for “thirteen” in introductory provisions.
 

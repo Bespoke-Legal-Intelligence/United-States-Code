@@ -2,7 +2,7 @@
 
 The provisions of section 300gg(e) of this title shall apply to health insurance coverage offered by a health insurance issuer in the individual market in the same manner as it applies to health insurance coverage offered by a health insurance issuer in connection with a group health plan in the small or large group market.
 
-(July 1, 1944, ch. 373, title XXVII, §2743, as added Aug. 21, 1996, Pub. L. 104–191, title I, §111(a), 110 Stat. 1983.)
+(July 1, 1944, ch. 373, title XXVII, §2743, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1983.)
 
 #### Effective Date
 

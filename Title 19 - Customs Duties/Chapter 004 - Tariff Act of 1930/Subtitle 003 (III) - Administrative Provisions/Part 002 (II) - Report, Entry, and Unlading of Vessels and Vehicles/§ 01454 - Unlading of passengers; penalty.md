@@ -2,7 +2,7 @@
 
 If any passenger is unladen from any vessel or vehicle without a special license or permit therefor issued by the appropriate customs officer, the master of such vessel or the person in charge of such vehicle and every other person who knowingly is concerned, or who aids therein, shall each be liable to a penalty of $1,000 for the first passenger and $500 for each additional such passenger so unladen.
 
-(June 17, 1930, ch. 497, title IV, §454, 46 Stat. 716; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Oct. 27, 1986, Pub. L. 99–570, title III, §3114, 100 Stat. 3207–82.)
+(June 17, 1930, ch. 497, title IV, §454, 46 Stat. 716; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 99–570, title III, §3114, Oct. 27, 1986, 100 Stat. 3207–82.)
 
 #### Amendments
 

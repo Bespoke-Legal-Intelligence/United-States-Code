@@ -22,7 +22,7 @@
 
 (d) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850.)
+(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964,78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850.)
 
 #### Historical and Revision Notes
 
@@ -62,7 +62,7 @@ The revised section removes an uncertainty referred to in the McGarry case, supr
 
 The sentence “The foregoing provisions as to the sum or value of the matter in controversy shall not be construed to apply to any of the cases mentioned in the succeeding paragraphs of this section” was omitted as unnecessary. Those paragraphs are (2)–(28) of said section 41 of title 28, U.S.C., 1940 ed., which are revised and incorporated in this chapter and, except for those relating to actions against the United States and interpleader, contains no provision as to a sum or value necessary to confer jurisdiction. Consequently the omitted sentence is covered by excluding such requirement.
 
-Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to include all jurisdictional provisions relating to the district courts. Subsequently,many special jurisdictional provisions were enacted and incorporated in other titles of the U.S.C., 1940 ed., as follows:
+Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to include all jurisdictional provisions relating to the district courts. Subsequently, many special jurisdictional provisions were enacted and incorporated in other titles of the U.S.C., 1940 ed., as follows:
 
 <i>Title</i>
 
@@ -704,9 +704,9 @@ D.C. Code
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
+1996—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
+1988—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
 
 Pub. L. 100–702, §203(a), inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
@@ -714,21 +714,21 @@ Subsec. (b). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,0
 
 Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
 
-<b>1976</b>—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
+1976—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
 
 Subsec. (a)(3). Pub. L. 94–583 substituted “citizens or subjects of a foreign state are additional parties; and” for “foreign states or citizens or subjects thereof are additional parties”.
 
 Subsec. (a)(4). Pub. L. 94–583 added par. (4).
 
-<b>1964</b>—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
+1964—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
 
-<b>1958</b>—Pub. L. 85–554 included costs in section catchline.
+1958—Pub. L. 85–554 included costs in section catchline.
 
 Subsec. (a). Pub. L. 85–554 substituted “$10,000” for “$3,000”.
 
 Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-<b>1956</b>—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
+1956—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
 
 #### Effective Date of 1996 Amendment
 

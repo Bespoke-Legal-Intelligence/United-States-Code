@@ -4,7 +4,7 @@ No contract for furnishing supplies to the Postal Service shall be made with any
 
 Whoever violates this section shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both; and if the offender is a contractor for furnishing such supplies his contract may be annulled.
 
-(June 25, 1948, ch. 645, 62 Stat. 704; Aug. 12, 1970, Pub. L. 91–375, §6(j)(4), 84 Stat. 777; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 704; Pub. L. 91–375, §6(j)(4), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

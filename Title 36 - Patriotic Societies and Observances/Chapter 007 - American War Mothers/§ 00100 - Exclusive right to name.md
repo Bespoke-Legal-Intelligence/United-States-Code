@@ -1,6 +1,0 @@
-### §100. Exclusive right to name
-
-The corporation and its State, Territorial, and local subdivisions shall have the sole and exclusive right to have and to use in carrying out its business purposes the name of American War Mothers.
-
-(Feb. 24, 1925, ch. 303, §10, 43 Stat. 968.)
-

@@ -86,7 +86,7 @@ The Corporation may impose, by regulation or order, such additional restrictions
 
 #### (h) Deposit solicitation restricted
 
-An insured depository institution that is undercapitalized, as defined in section 1831<i>o</i> ofthis title, shall not solicit deposits by offering rates of interest that are significantly higher than the prevailing rates of interest on insured deposits—
+An insured depository institution that is undercapitalized, as defined in section 1831<i>o</i> of this title, shall not solicit deposits by offering rates of interest that are significantly higher than the prevailing rates of interest on insured deposits—
 
 &emsp;(1) in such institution's normal market areas; or
 

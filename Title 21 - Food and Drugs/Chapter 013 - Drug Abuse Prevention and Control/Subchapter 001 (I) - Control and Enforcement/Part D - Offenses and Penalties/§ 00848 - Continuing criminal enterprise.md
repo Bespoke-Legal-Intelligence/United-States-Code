@@ -8,7 +8,7 @@ Any person who engages in a continuing criminal enterprise shall be sentenced to
 
 Any person who engages in a continuing criminal enterprise shall be imprisoned for life and fined in accordance with subsection (a) of this section, if—
 
-&emsp;(1) such person is the principal administrator, organizer, or leader of the enterprise or is one of several such principal administrators, organizers, or leaders; and
+&emsp;(1) such person is the principal administrator, organizer, or leader of the enterprise oris one of several such principal administrators, organizers, or leaders; and
 
 &emsp;(2)(A) the violation referred to in subsection (c)(1) of this section involved at least 300 times the quantity of a substance described in subsection 841(b)(1)(B) of this title, or
 
@@ -72,7 +72,7 @@ A person shall be subjected to the penalty of death for any offense under this s
 
 &emsp;(C) before the court alone, upon the motion of the defendant and with the approval of the Government.
 
-(2) A jury impaneled under paragraph (1)(B) shall consist of 12 members, unless, at any time before the conclusion of the hearing, the parties stipulate with the approval of the court that it shall consist of any number less than 12.
+(2) A jury impaneled under paragraph (1)(B) shall consist of 12 members, unless, at any timebefore the conclusion of the hearing, the parties stipulate with the approval of the court that it shall consist of any number less than 12.
 
 #### (j) Proof of aggravating and mitigating factors
 
@@ -98,7 +98,7 @@ In determining whether a sentence of death is to be imposed on a defendant, the 
 
 &emsp;(2) The defendant was under unusual and substantial duress, regardless of whether the duress was of such a degree as to constitute a defense to the charge.
 
-&emsp;(3) The defendant is punishable as a principal (as defined in section 2 of title 18) in the offense, which was committed by another, but the defendant's participation was relatively minor, regardless of whether the participation was so minor as to constitute a defense to the charge.
+&emsp;(3) The defendant is punishable as a principal (as defined in section 2 of title 18) in the offense, which was committed by another, but the defendant's participation was relativelyminor, regardless of whether the participation was so minor as to constitute a defense to the charge.
 
 &emsp;(4) The defendant could not reasonably have foreseen that the defendant's conduct in the course of the commission of murder, or other offense resulting in death for which the defendant was convicted, would cause, or would create a grave risk of causing, death to any person.
 
@@ -192,7 +192,7 @@ If a person is convicted for an offense under subsection (e) of this section and
 
 > shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with paragraphs (5), (6), (7), (8), and (9).
 
-(B) In any post conviction proceeding under section 2254 or 2255 of title 28 seeking to vacate or set aside a death sentence, any defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services shall be entitled to the appointment of one or more attorneys and the furnishing of such other services inaccordance with paragraphs (5), (6), (7), (8), and (9).
+(B) In any post conviction proceeding under section 2254 or 2255 of title 28 seeking to vacate or set aside a death sentence, any defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with paragraphs (5), (6), (7), (8), and (9).
 
 (5) If the appointment is made before judgment, at least one attorney so appointed must have been admitted to practice in the court in which the prosecution is to be tried for not less than five years, and must have had not less than three years experience in the actual trial of felony prosecutions in that court.
 
@@ -204,7 +204,7 @@ If a person is convicted for an offense under subsection (e) of this section and
 
 (9) Upon a finding that investigative, expert, or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or the sentence, the court may authorize the defendant's attorneys to obtain such services on behalf of the defendant and, if so authorized, shall order the payment of fees and expenses therefor under paragraph (10). No ex parte proceeding, communication, or request may be considered pursuant to this section unless a proper showing is made concerning the need for confidentiality. Any such proceeding, communication, or request shall be transcribed and made a part of the record available for appellate review.
 
-(10)(A) Compensation shall be paid to attorneys appointed under this subsection at a rate of not more than $125 per hour for in-court and out-of-court time. Not less than 3 years after April 24, 1996, the Judicial Conference is authorized to raise the maximum for hourly payment specified in the paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay for the General Schedule made pursuant to section 5305 of title 5 on or after April 24, 1996. After the rates are raised under the preceding sentence, such hourly range may be raised at intervals of not less than one year, up to the aggregate of the overall average percentages of such adjustments made since the last raise under this paragraph.
+(10)(A) Compensation shall be paid to attorneys appointed under this subsection at a rate of not more than $125 per hour for in-court and out-of-court time. Not less than 3 years after April 24, 1996, the Judicial Conference is authorized to raise the maximum for hourly payment specified in the paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay for the General Schedule made pursuant to section 5305 of title 5 on or after April 24, 1996. After the rates are raised under the preceding sentence, such hourly rangemay be raised at intervals of not less than one year, up to the aggregate of the overall average percentages of such adjustments made since the last raise under this paragraph.
 
 (B) Fees and expenses paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9) shall not exceed $7,500 in any case, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge, if the services were rendered in connection with the case disposed of entirely before such magistrate judge, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active circuit judge.
 
@@ -226,7 +226,7 @@ The Civil Rights Act of 1964, referred to in subsec. (<i>o</i>)(2)(A), is Pub. L
 
 #### Amendments
 
-1996—Subsec. (q)(9). Pub. L. 104–132, §108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expensestherefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.”
+1996—Subsec. (q)(9). Pub. L. 104–132, §108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant's attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.”
 
 Subsec. (q)(10). Pub. L. 104–132, §903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9).”
 

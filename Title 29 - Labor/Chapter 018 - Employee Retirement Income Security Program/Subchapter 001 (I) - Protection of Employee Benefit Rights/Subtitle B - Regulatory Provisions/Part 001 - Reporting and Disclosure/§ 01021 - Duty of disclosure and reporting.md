@@ -2,7 +2,7 @@
 
 #### (a) Summary plan description and information to be furnished to participants and beneficiaries
 
-The administrator of each employee benefit plan shall cause to be furnished in accordancewith section 1024(b) of this title to each participant covered under the plan and to each beneficiary who is receiving benefits under the plan—
+The administrator of each employee benefit plan shall cause to be furnished in accordance with section 1024(b) of this title to each participant covered under the plan and to each beneficiary who is receiving benefits under the plan—
 
 &emsp;(1) a summary plan description described in section 1022(a)(1) <sup>1</sup> of this title; and
 
@@ -62,41 +62,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on January 1, 1995) shall have the same meaning as when used in such section.
 
-#### (f) Information necessary to comply with Medicare and Medicaid Coverage Data Bank requirements
-
-#### (1) Provision of information by group health plan upon request of employer
-
-#### (A) In general
-
-&emsp;&emsp;An employer shall comply with the applicable requirements of section 1320b–14 oftitle 42. Upon the request of an employer maintaining a group health plan, any plan sponsor, plan administrator, insurer, third-party administrator, or other person who maintains under the plan the information necessary to enable the employer to comply with the applicable requirements of section 1320b–14 of title 42 shall, in such form and manner as may be prescribed in regulations of the Secretary (in consultation with the Secretary of Health and Human Services), provide such information (not inconsistent with paragraph (2))—
-
-&emsp;&emsp;&emsp;(i) in the case of a request by an employer described in subparagraph (B) and a plan that is not a multiemployer plan or a component of an arrangement described in subparagraph (C), to the Medicare and Medicaid Coverage Data Bank;
-
-&emsp;&emsp;&emsp;(ii) in the case of a plan that is a multiemployer plan or is a component of an arrangement described in subparagraph (C), to the employer or to such Data Bank, at the option of the plan; and
-
-&emsp;&emsp;&emsp;(iii) in any other case, to the employer or to such Data Bank, at the option of the employer.
-
-#### (B) Employer described
-
-&emsp;&emsp;An employer is described in this subparagraph for any calendar year if such employer normally employed fewer than 50 employees on a typical business day during such calendar year.
-
-#### (C) Arrangement described
-
-&emsp;&emsp;An arrangement described in this subparagraph is any arrangement in which two or more employers contribute for the purpose of providing group health plan coverage for employees.
-
-#### (2) Information not required to be provided
-
-&emsp;Any plan sponsor, plan administrator, insurer, third-party administrator, or other person described in paragraph (1)(A) (other than the employer) that maintains the information under the plan shall not provide to an employer in order to satisfy the requirements of section 1320b–14 of title 42, and shall not provide to the Data Bank under such section, information that pertains in any way to—
-
-&emsp;&emsp;(A) the health status of a participant, or of the participant's spouse, dependent child, or other beneficiary,
-
-&emsp;&emsp;(B) the cost of coverage provided to any participant or beneficiary, or
-
-&emsp;&emsp;(C) any limitations on such coverage specific to any participant or beneficiary.
-
-#### (3) Regulations
-
-&emsp;The Secretary may, in consultation with the Secretary of Health and Human Services, prescribe such regulations as are necessary to carry out this subsection.
+#### (f) Repealed. Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668
 
 #### (g) Reporting by certain arrangements
 
@@ -130,13 +96,15 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668.)
 
 #### References in Text
 
 Section 1022(a)(1) of this title, referred to in subsec. (a)(1), was redesignated section 1022(a) of this title by Pub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–200 struck out subsec. (f) relating to information necessary to comply with Medicare and Medicaid Coverage Data Bank requirements.
 
 1997—Subsec. (b). Pub. L. 105–34 redesignated pars. (4) and (5) as (1) and (2), respectively, and struck out former pars. (1) to (3), which read as follows:
 
@@ -167,6 +135,10 @@ Pub. L. 104–188, §1421(d)(1), redesignated subsec. (g), relating to cross ref
 Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted “an employer maintaining a plan” for “an employer of a plan”.
 
 1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–200, title IV, §401(h)(1)(B), July 16, 1998, 112 Stat. 668, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of the Act entitled ‘An Act to repeal the Medicare and Medicaid Coverage Data Bank’, approved October 2, 1996 (Public Law 104–226; 110 Stat. 3033).”
 
 #### Effective Date of 1996 Amendments
 

@@ -20,6 +20,10 @@ The Secretary shall encourage and cooperate in activities to establish a mutuall
 
 (Pub. L. 97–300, title IV, §431, Oct. 13, 1982, 96 Stat. 1375.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1703 of this title.

@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, gaming regulated by this c
 
 (1) Subsection (a) of this section will not apply when—
 
-&emsp;(A) the Secretary, after consultation with the Indian tribe and appropriate State and local officials, including officials of other nearby Indian tribes, determines that a gaming establishment on newly acquired lands would be in the best interest of the Indian tribe and its members, and would not be detrimental to the surrounding community, but only if the Governor of the State in which the gaming activity is to be conducted concurs in the Secretary's determination; or
+&emsp;(A) the Secretary, after consultation with the Indian tribe and appropriate State andlocal officials, including officials of other nearby Indian tribes, determines that a gaming establishment on newly acquired lands would be in the best interest of the Indian tribe and its members, and would not be detrimental to the surrounding community, but only if the Governor of the State in which the gaming activity is to be conducted concurs in the Secretary's determination; or
 
 &emsp;(B) lands are taken into trust as part of—
 

@@ -8,7 +8,7 @@ This section shall not prohibit any person from receiving and delivering to the 
 
 (c) This chapter shall not prohibit the conveyance or transmission of letters or packets by private hands without compensation, or by special messenger employed for the particular occasion only. Whenever more than twenty-five such letters or packets are conveyed or transmitted by such special messenger, the requirements of section 601 of title 39, shall be observed as to each piece.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; Aug. 12, 1970, Pub. L. 91–375, §6(j)(14), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(A), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; Pub. L. 91–375, §6(j)(14), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

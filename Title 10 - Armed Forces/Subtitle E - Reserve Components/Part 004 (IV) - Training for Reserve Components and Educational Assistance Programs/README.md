@@ -1,11 +1,6 @@
 ## PART IV—TRAINING FOR RESERVE COMPONENTS AND EDUCATIONAL ASSISTANCE PROGRAMS
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1601.</b>](Chapter%201601%20-%20Training%20Generally/README.md) | <b>Training Generally. \[No present sections\]</b> |  |
 | [<b>1606.</b>](Chapter%201606%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>16131</b> |

@@ -50,7 +50,7 @@ Par. (11). Pub. L. 103–355, §3031(b)(3), (4), redesignated par. (12) as (11),
 
 Par. (12). Pub. L. 103–355, §3031(b)(3), redesignated par. (12) as (11).
 
-1989—Par. (2). Pub. L. 101–189, §1636(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘cargo air service’ means the carriage of property or mail on the main deck of a civil aircraft.”
+1989—Par. (2). Pub. L. 101–189, §1636(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “The term ‘cargo air service’ means the carriage of property or mail on the main deck of a civil aircraft.”
 
 Par. (5). Pub. L. 101–189, §1636(a)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘cargo-convertible feature’ means equipment or design features included or incorporated in a passenger aircraft that can readily enable all or substantially all of that aircraft's main deck to be used for the carriage of property or mail.”
 

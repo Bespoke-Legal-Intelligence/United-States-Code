@@ -1,6 +1,6 @@
 ### §2673. International Civil Aviation Organization; availability of funds for participation
 
-The provisions of section 287e of this title, and regulations thereunder, applicable to expenses incurred pursuant to sections 287 to 287e of thistitle, may be applicable to the obligation and expenditure of funds in connection with United States participation in the International Civil Aviation Organization.
+The provisions of section 287e of this title, and regulations thereunder, applicable to expenses incurred pursuant to sections 287 to 287e of this title, may be applicable to the obligation and expenditure of funds in connection with United States participation in the International Civil Aviation Organization.
 
 (Aug. 1, 1956, ch. 841, title I, §6, 70 Stat. 891; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 

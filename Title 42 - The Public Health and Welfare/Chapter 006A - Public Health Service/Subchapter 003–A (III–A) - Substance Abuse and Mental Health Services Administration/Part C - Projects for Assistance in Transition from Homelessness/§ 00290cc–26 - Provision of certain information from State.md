@@ -18,7 +18,7 @@ The Secretary may not make payments under section 290cc–21 of this title to a 
 
 &emsp;(6) contain such other information or assurances as the Secretary may reasonably require.
 
-(July 1, 1944, ch. 373, title V, §526, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 519; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4729.)
+(July 1, 1944, ch. 373, title V, §526, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 519; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4729.)
 
 #### Prior Provisions
 

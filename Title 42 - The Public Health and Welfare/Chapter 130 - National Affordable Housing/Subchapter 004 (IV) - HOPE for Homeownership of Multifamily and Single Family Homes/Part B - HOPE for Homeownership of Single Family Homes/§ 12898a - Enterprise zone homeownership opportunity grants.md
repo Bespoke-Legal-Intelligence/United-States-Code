@@ -120,7 +120,7 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;&emsp;(B) non-Federal public and private financial or other contributions (including tax abatements, waivers of fees related to development, waivers of construction, development, or zoning requirements, and direct financial contributions) will reduce the cost of home <sup>1</sup> constructed or rehabilitated under each program;
 
-&emsp;&emsp;(C) each program will produce the greatest number of units for the least amount of assistance provided under this section, taking into consideration the cost differences among different market areas; and
+&emsp;&emsp;(C) each program will produce the greatest number of units for the least amount of assistance provided under this section, takinginto consideration the cost differences among different market areas; and
 
 &emsp;&emsp;(D) each program provides for the involvement of local residents in the planning, and construction or rehabilitation, of homes.
 

@@ -36,7 +36,7 @@ Of the funds made available under this part in each of the fiscal years 1986 and
 
 (C) Not more than 20 per centum of the assets of the revolving fund account under this section may be used to support projects in any one country.
 
-(D) In order to maximize the impact on institution building, loans under this section shall be made primarily to intermediary entities which provide necessary support and services for private sector activities.
+(D) In order to maximize the impact on institution building, loans under this section shall bemade primarily to intermediary entities which provide necessary support and services for private sector activities.
 
 (E) Loans under this section shall be at or near the interest rate otherwise available to the recipient.
 
@@ -78,13 +78,13 @@ Not later than December 31 of each year, the President shall submit to the Congr
 
 &emsp;(D) No loan may be guaranteed unless the agency determines that the lender is responsible and that adequate provision is made for servicing the loan on reasonable terms and protecting the financial interest of the United States.
 
-&emsp;(E) The fees earned from the loan guarantees issued under this subsection shall be deposited in the revolving fund account as part of the guarantee reserve established under paragraph (5) of this subsection. Fees shall be assessed at a level such that the fees received, plus the funds from the revolving fund account placed in the guarantee reserve, satisfy the requirements of paragraph (5). Fees shall be reviewedevery twelve months to ensure that the fees assessed on new loan guarantees are at the required level.
+&emsp;(E) The fees earned from the loan guarantees issued under this subsection shall be deposited in the revolving fund account as part of the guarantee reserve established under paragraph (5) of this subsection. Fees shall be assessed at a level such that the fees received, plus the funds from the revolving fund account placed in the guarantee reserve, satisfy the requirements of paragraph (5). Fees shall be reviewed every twelve months to ensure that the fees assessed on new loan guarantees are at the required level.
 
 &emsp;(F) Any guarantee shall be conclusive evidence that such guarantee has been properly obtained, and that the underlying loan as contracted qualifies for such guarantee. Except for fraud or material misrepresentation for which the parties seeking payment under such guarantee are responsible, such guarantee shall be presumed to be valid, legal, and enforceable.
 
 &emsp;(G) The agency shall determine that the standards used by the lender for assessing the credit risk of new and existing guaranteed loans are reasonable. The agency shall require that there be a reasonable assurance of repayment before credit assistance is extended.
 
-&emsp;(H) Commitments to guarantee loans may be made by the agency only to the extent that the total loan principal, any part of which is guaranteed, will not exceed the amount specified in annual appropriations Acts.
+&emsp;(H) Commitments to guarantee loans may be made by the agency only to the extent thatthe total loan principal, any part of which is guaranteed, will not exceed the amount specified in annual appropriations Acts.
 
 (3) To the extent that fees are not sufficient as specified under paragraph (2)(E) to cover expected future liabilities, appropriations are authorized to maintain an appropriate reserve.
 

@@ -1,0 +1,30 @@
+### §30906. Restrictions
+
+(a)
+
+Profit.—The corporation may not operate for pecuniary profit to its members.
+
+(b)
+
+Stocks and Dividends.—The corporation may not issue stock or declare or pay a dividend.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1326.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30906
+
+36:24 (words after semicolon).
+
+June 15, 1916, ch. 148, §4 (words after semicolon), 39 Stat. 228.
+
+The words “certificates of” and “its object and purposes being solely of a benevolent character” are omitted as unnecessary.
+

@@ -54,7 +54,7 @@ Compensation Payments.—(1) The Secretary shall pay compensation under this sec
 
 (e)
 
-Review.—The Secretary shall review periodically the level of air transportation provided under this section. Based on the review and consultation with any interested community, the appropriate State authority of the State inwhich the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
+Review.—The Secretary shall review periodically the level of air transportation provided under this section. Based on the review and consultation with any interested community, the appropriate State authority of the State in which the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
 
 (f)
 
@@ -62,7 +62,7 @@ Withdrawal of Eligibility Designations.—After providing notice and an opportun
 
 (g)
 
-Ending, Suspending, and Reducing Air Transportation.—An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
+Ending, Suspending, and Reducing Air Transportation.—An air carrier providing airtransportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149.)
 

@@ -2,7 +2,7 @@
 
 Each civilian member shall make a monthly allotment in an amount equal to 10 percent of his monthly basic salary toward the purchase of his deferred annuity policy. For each month the allotment is in force, the pay account of the civilian member shall be credited monthly from appropriations made for this purpose with an additional amount equal to 5 percent of his monthly basic salary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 439; Nov. 2, 1966, Pub. L. 89–718, §39, 80 Stat. 1120.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 439; Pub. L. 89–718, §39, Nov. 2, 1966, 80 Stat. 1120.)
 
 Historical and Revision Notes
 

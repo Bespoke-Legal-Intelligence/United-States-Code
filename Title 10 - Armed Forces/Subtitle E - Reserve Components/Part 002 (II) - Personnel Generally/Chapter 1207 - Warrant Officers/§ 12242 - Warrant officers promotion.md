@@ -2,7 +2,7 @@
 
 The promotion of permanent reserve warrant officers not on the warrant officer active-duty list to permanent reserve warrant officer grades shall be governed by such regulations as the Secretary concerned may prescribe.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §598; Dec. 5, 1991, Pub. L. 102–190, div. A, title XI, §1131(3), 105 Stat. 1505; renumbered §12242, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), 108 Stat. 2991.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §598; Pub. L. 102–190, div. A, title XI, §1131(3), Dec. 5, 1991, 105 Stat. 1505; renumbered §12242, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), Oct. 5, 1994, 108 Stat. 2991.)
 
 Historical and Revision Notes
 

@@ -94,7 +94,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;&emsp;(A) made or caused to be made in any application for registration or report required to be filed with a foreign securities authority, or in any proceeding before a foreign securities authority with respect to registration, any statement that was at the time and in light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any application or report to a foreign securities authority any material fact that is required to be stated therein;
 
-&emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade;
+&emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
 &emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>2</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision.
 
@@ -138,7 +138,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $100,000for a natural person or $500,000 for any other person if—
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
@@ -192,7 +192,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (A) Commission review
 
-&emsp;&emsp;At any time after the respondent has been served with a temporary cease-and-desistorder pursuant to paragraph (3), the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
+&emsp;&emsp;At any time after the respondent has been served with a temporary cease-and-desist order pursuant to paragraph (3), the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
 
 #### (B) Judicial review
 
@@ -216,7 +216,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 &emsp;In any cease-and-desist proceeding under paragraph (1), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-(Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Sept. 13, 1960, Pub. L. 86–750, §§2–5, 74 Stat. 885, 886; Dec. 14, 1970, Pub. L. 91–547, §24, 84 Stat. 1430; June 4, 1975, Pub. L. 94–29, §29(1)–(4), 89 Stat. 166–169; Oct. 21, 1980, Pub. L. 96–477, title II, §202, 94 Stat. 2290; Oct. 28, 1986, Pub. L. 99–571, title I, §102(m), 100 Stat. 3220; Dec. 4, 1987, Pub. L. 100–181, title VII, §702, 101 Stat. 1263; Oct. 15, 1990, Pub. L. 101–429, title IV, §401, 104 Stat. 946; Nov. 15, 1990, Pub. L. 101–550, title II, §205(b), (c), 104 Stat. 2719, 2720; Dec. 8, 1995, Pub. L. 104–62, §5, 109 Stat. 685; Oct. 11, 1996, Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), 110 Stat. 3438, 3439, 3448.)
+(Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### References in Text
 
@@ -229,6 +229,8 @@ The Securities Exchange Act of 1934, referred to in subsecs. (e)(5), (6) and (i)
 The Investment Company Act of 1940, referred to in subsec. (e)(5), (6), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (e)(8)(B). Pub. L. 105–353 inserted “or” after semicolon at end.
 
 1996—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) of this section”, was executed by making the substitution for “subsection (b)” to reflect the probable intent of Congress.
 
@@ -244,7 +246,7 @@ Pub. L. 104–290, §305(a)(1), redesignated par. (5) as (6). Former par. (6) re
 
 Subsec. (e)(7), (8). Pub. L. 104–290, §305(a)(1), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted “paragraph (1), (5), (6), or (8) of subsection (e) of this section” for “paragraph (1), (4), (5), or (7) of subsection (e) of this section” and “paragraph (4)” for “paragraph (3)” and substituted “subsection (e)” for “said subsection (e)” in two places.
+Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted “paragraph (1), (5), (6), or (8) of subsection (e) of this section” for “paragraph (1), (4), (5), or (7) of subsection (e) of this section” and “paragraph (4)” for “paragraph\(3)” and substituted “subsection (e)” for “said subsection (e)” in two places.
 
 Subsec. (h). Pub. L. 104–290, §303(b)(2), substituted “existence,” for “existence or” and inserted “or is prohibited from registering as an investment adviser under section 80b–3a of this title,” after “investment adviser,”.
 
@@ -256,7 +258,7 @@ Subsec. (i)(1)(D). Pub. L. 104–290, §305(b)(3), substituted “subsection (e)
 
 Subsec. (e)(2)(A). Pub. L. 101–550, §205(b)(2), inserted “any substantially equivalent activity however denominated by the laws of the relevant foreign government,” after “burglary,”.
 
-Subsec. (e)(2)(B). Pub. L. 101–550, §205(b)(3), inserted “foreign person performing a function substantially equivalent to any of the above,” after “transfer agent,”and “or any substantially equivalent statute or regulation” after “Commodity Exchange Act”.
+Subsec. (e)(2)(B). Pub. L. 101–550, §205(b)(3), inserted “foreign person performing a function substantially equivalent to any of the above,” after “transfer agent,” and “or any substantially equivalent statute or regulation” after “Commodity Exchange Act”.
 
 Subsec. (e)(2)(C). Pub. L. 101–550, §205(b)(4), inserted “or substantially equivalent activity however denominated by the laws of the relevant foreign government” after “securities”.
 
@@ -300,7 +302,7 @@ Subsecs. (g), (h). Pub. L. 94–29, §29(4), redesignated subsecs. (h) and (i) a
 
 Subsec. (c)(1)(F). Pub. L. 91–547, §24(b), substituted “any person associated with such investment adviser” for “any partner, officer, director thereof, or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser” and reference to subsec. “(e)” for “(d)”.
 
-Subsecs. (d), (e). Pub. L. 91–547, §24(c), (d), added subsec. (d), redesignated former subsec. (d) as (e), and in amending its provisions, inserted reference to “censure” in two places and substituted “such investment adviser or any person associated with such investment adviser” for “(1) such investment adviser, whether prior or subsequent to becoming such, or (2) any partner, officer, or director thereof, or any person performing similar functions, or (3) any person directly or indirectly controlling or controlled by such investment adviser, whether prior or subsequent to becoming such,” in introductory text preceding par. (1), formerly cl. (A), redesignated as pars. (1) to (5) former cls. (A) to (E), redesignated as items (A) to (D) of par. (2) former items (i) to (iv), striking out “, as heretofore or hereafter amended” after “Title 18”, substituted in par. (3) “an affiliated person” for “as an affiliated person”, in par. (4) included reference to subchapter I of this chapter and struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, in par. (5) included reference to subchapter I of this chapter, struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, inserted provision respecting disciplining an investment adviser for failure reasonably to supervise, with a view to preventing violations of statutes, rules, and regulations, another person who commits such a violation if such other person is subject to his supervision, including subpars. (A) and (B) respecting failure to supervise a person, and inserted par. (6). Former subsec. (e) redesignated (g).
+Subsecs. (d), (e). Pub. L. 91–547, §24(c), (d), added subsec. (d), redesignated former subsec. (d) as (e), and in amending its provisions, inserted reference to “censure” in two places and substituted “such investment adviser or any person associated with such investment adviser” for “(1) such investment adviser, whether prior or subsequent to becoming such, or (2) any partner, officer, or director thereof, or any person performing similar functions, or (3) any person directly or indirectly controlling or controlled by such investment adviser, whether prior or subsequent to becoming such,” in introductory text preceding par. (1), formerly cl. (A), redesignated as pars. (1) to (5) former cls. (A) to (E), redesignated as items (A) to (D) of par. (2) former items (i) to (iv), striking out “, as heretofore or hereafter amended” after “Title 18”, substituted in par. (3) “an affiliated person” for “as an affiliated person”, in par.\(4) included reference to subchapter I of this chapter and struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, in par. (5) included reference to subchapter I of this chapter, struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, inserted provision respecting disciplining an investment adviser for failure reasonably to supervise, with a view to preventing violations of statutes, rules, and regulations, another person who commits such a violation if such other person is subject to his supervision, including subpars. (A) and (B) respecting failure to supervise a person, and inserted par. (6). Former subsec. (e) redesignated (g).
 
 Subsec. (f). Pub. L. 91–547, §24(e), inserted subsec. (f). Former subsec. (f) redesignated (h).
 
@@ -308,7 +310,7 @@ Subsec. (g). Pub. L. 91–547, §24(c), redesignated former subsec. (e) as (g). 
 
 Subsecs. (h), (i). Pub. L. 91–547, §24(e), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
-1960—Subsec. (c)(1)(F). Pub. L. 86–750, §2, substituted “or any person performing similar functions, or anyperson directly or indirectly controlling or controlled by such investment adviser, is subject to any disqualification which would be a basis for denial, suspension, or revocation of registration of such investment adviser under the provisions of subsection (d)” for “person performing similar function or controlling person thereof (i) within ten years of the filing of such application has been convicted of any felony or misdemeanor of the character described in paragraph (1) of subsection (d) of this section, or (ii) is permanently or temporarily enjoined by an order, judgment or decree of the character described in paragraph (2) of said subsection (d) and in each case the facts relating to such conviction or injunction”.
+1960—Subsec. (c)(1)(F). Pub. L. 86–750, §2, substituted “or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser, is subject to any disqualification which would be a basis for denial, suspension, or revocation of registration of such investment adviser under the provisions of subsection (d)” for “person performing similar function or controlling person thereof (i) within ten years of the filing of such application has been convicted of any felony or misdemeanor of the character described in paragraph (1) of subsection (d) of this section, or (ii) is permanently or temporarily enjoined by an order, judgment or decree of the character described in paragraph (2) of said subsection (d) and in each case the facts relating to such conviction or injunction”.
 
 Subsec. (c)(2). Pub. L. 86–750, §3(a), substituted “a statement as to whether the principal business of such investment adviser consists or is to consist of acting as investment adviser and a statement as to whether a substantial part of the business of such investment adviser consists or is to consist of rendering investment supervisory services” for “a statement as to whether such investment adviser is engaged or is to engage primarily in the business of rendering investment supervisory services”.
 

@@ -18,7 +18,7 @@ When all class A stock has been fully redeemed and retired, loans made by the te
 
 Congress reserves the right to review the continued operations of the telephone bank after all class A stock has been fully redeemed and retired.
 
-(May 20, 1936, ch. 432, title IV, §410, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 36; amended Apr. 21, 1976, Pub. L. 94–273, §2(2), 90 Stat. 375; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2363(b)(2), 104 Stat. 4043; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(11), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title IV, §410, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, §2363(b)(2), Nov. 28, 1990, 104 Stat. 4043; Pub. L. 103–354, title II, §235(a)(11), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

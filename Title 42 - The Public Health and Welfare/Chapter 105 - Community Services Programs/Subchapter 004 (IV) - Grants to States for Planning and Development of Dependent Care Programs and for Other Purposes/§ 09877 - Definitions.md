@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 &emsp;(4) the term “equipment” has the same meaning given that term by section 198(a)(8) of the Elementary and Secondary Education Act of 1965; <sup>1</sup>
 
-&emsp;(5) the term “institution of higher education” has the same meaning given that term under section 1141(a) of title 20;
+&emsp;(5) the term “institution of higher education” has the same meaning given that term under section 1001 of title 20;
 
 &emsp;(6) the term “local educational agency” has the same meaning given that term under section 8801 of title 20;
 
@@ -26,11 +26,11 @@ For purposes of this subchapter—
 
 &emsp;(9) the term “Secretary” means the Secretary of Health and Human Services;
 
-&emsp;(10) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, and the Commonwealth of the Northern Mariana Islands; and
+&emsp;(10) the term “State” means each of the several States, the District of Columbia, theCommonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, and the Commonwealth of the Northern Mariana Islands; and
 
 &emsp;(11) the term “State educational agency” has the meaning given that term under section 8801 of title 20.
 
-(Pub. L. 97–35, title VI, §670G, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2883; amended Pub. L. 99–425, title III, §303, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §305(c), Nov. 3, 1990, 104 Stat. 1250; Pub. L. 103–382, title III, §394(<i>l</i>), Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 97–35, title VI, §670G, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2883; amended Pub. L. 99–425, title III, §303, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §305(c), Nov. 3, 1990, 104 Stat. 1250; Pub. L. 103–382, title III, §394(<i>l</i>), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(13)(H), Oct. 7, 1998, 112 Stat. 1621.)
 
 #### References in Text
 
@@ -39,6 +39,8 @@ Section 6001(7) of this title, referred to in par. (3), was subsequently amended
 Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), is section 198 of Pub. L. 89–10, title I, as added Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, as amended, which was classified to section 2854 of Title 20, Education, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
 
 #### Amendments
+
+1998—Par. (5). Pub. L. 105–244, which directed amendment of section 670G(5) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9877(5)) by substituting “section 1001” for “section 1141(a)”, was executed to this section, which is section 670G(5) of subchapter E of chapter 8 of subtitle A of title VI of Pub. L. 97–35, known as the State Dependent Care Development Grants Act, to reflect the probable intent of Congress.
 
 1994—Par. (6). Pub. L. 103–382, §394(<i>l</i>)(1), substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
@@ -51,6 +53,10 @@ Par. (7). Pub. L. 101–501, §305(c)(2), inserted “in” after first referenc
 Par. (10). Pub. L. 101–501, §305(c)(3), substituted “Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “Trust Territory of the Pacific Islands”.
 
 1986—Par. (7). Pub. L. 99–425 inserted “, except that in any State which by State law children at an earlier age are provided free public education, the age provided in State law shall be substituted for age five”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1990 Amendment
 

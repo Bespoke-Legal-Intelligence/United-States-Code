@@ -186,6 +186,10 @@ I74subpart 1—basic program requirements
 | (a) | Selection process. |
 | (b) | Duration. |
 | [6369\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369%20-%20Evaluation.md) | Evaluation. |
+| [6369a.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369a%20-%20Indicators%20of%20program%20quality.md) | Indicators of program quality. |
+| [6369b.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006369b%20-%20Research.md) | Research. |
+| (a) | In general. |
+| (b) | Dissemination. |
 | [6370\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20B%20-%20Even%20Start%20Family%20Literacy%20Programs/%C2%A7%2006370%20-%20Construction.md) | Construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -307,14 +311,7 @@ I74subpart 1—basic program requirements
 | [6492\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20E%20-%20Federal%20Evaluations%2C%20Demonstrations%2C%20and%20Transition%20Projects/%C2%A7%2006492%20-%20Demonstrations%20of%20innovative%20practices.md) | Demonstrations of innovative practices. |
 | (a) | Demonstration programs to improve achievement. |
 | (b) | Partnerships. |
-| [6493\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20E%20-%20Federal%20Evaluations%2C%20Demonstrations%2C%20and%20Transition%20Projects/%C2%A7%2006493%20-%20Innovative%20elementary%20school%20transition%20projects.md) | Innovative elementary school transition projects. |
-| (a) | In general. |
-| (b) | Grants. |
-| (c) | Applications. |
-| (d) | National activities. |
-| (e) | Coordination of regulations. |
-| (f) | General provisions. |
-| (g) | Definitions. |
+| [6493\.](Subchapter%20001%20%28I%29%20-%20Helping%20Disadvantaged%20Children%20Meet%20High%20Standards/Part%20E%20-%20Federal%20Evaluations%2C%20Demonstrations%2C%20and%20Transition%20Projects/%C2%A7%2006493%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28f%29%20%5Btitle%20VIII%2C%20%C2%A7301%28c%29%281%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93337%2C%202681%E2%80%93410.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -418,35 +415,70 @@ I74subpart 1—basic program requirements
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Professional Development Demonstration Project
+#### Part C—Reading and Literacy Grants
 
 |  |  |
 | :--- | ---: |
-| [6671\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006671%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
-| (a) | Findings. |
-| (b) | Purpose. |
-| [6672\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006672%20-%20Demonstration%20program%20authorized.md) | Demonstration program authorized. |
-| (a) | General authority. |
-| (b) | Eligible partnerships. |
-| [6673\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006673%20-%20Grants.md) | Grants. |
-| (a) | Authority. |
-| (b) | Grant requirements. |
-| [6674\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006674%20-%20Plan.md) | Plan. |
-| [6675\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006675%20-%20Technical%20assistance.md) | Technical assistance. |
-| [6676\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006676%20-%20Matching%20funds.md) | Matching funds. |
+| [6661\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661%20-%20Purposes.md) | Purposes. |
+| [6661a.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661a%20-%20Definitions.md) | Definitions. |
+| [6661b.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661b%20-%20Reading%20and%20literacy%20grants%20to%20State%20educational%20agencies.md) | Reading and literacy grants to State educational agencies. |
+| (a) | Program authorized. |
+| (b) | Application. |
+| (c) | Approval of applications. |
+| (d) | Reading and literacy partnerships. |
+| [6661c.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661c%20-%20Use%20of%20amounts%20by%20State%20educational%20agencies.md) | Use of amounts by State educational agencies. |
+| [6661d.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661d%20-%20Local%20reading%20improvement%20subgrants.md) | Local reading improvement subgrants. |
+| (a) | In general. |
+| (b) | Applications. |
+| (c) | Special rule. |
+| (d) | Use of funds. |
+| (e) | Training nonrecipients. |
+| [6661e.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661e%20-%20Tutorial%20assistance%20subgrants.md) | Tutorial assistance subgrants. |
+| (a) | In general. |
+| (b) | Use of funds. |
+| [6661f.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661f%20-%20National%20evaluation.md) | National evaluation. |
+| [6661g.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661g%20-%20Information%20dissemination.md) | Information dissemination. |
+| (a) | In general. |
+| (b) | Coordination. |
+| [6661h.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661h%20-%20State%20evaluations%3B%20performance%20reports.md) | State evaluations; performance reports. |
+| (a) | State evaluations. |
+| (b) | Performance reports. |
+| [6661i.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20C%20-%20Reading%20and%20Literacy%20Grants/%C2%A7%2006661i%20-%20Authorizations%20of%20appropriations%3B%20reservations%20from%20appropriations%3B%20sunset.md) | Authorizations of appropriations; reservations from appropriations; sunset. |
+| (a) | Authorizations. |
+| (b) | Reservations. |
+| (c) | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—General Provisions
+#### Part D—Professional Development Demonstration Project
 
 |  |  |
 | :--- | ---: |
-| [6701\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20General%20Provisions/%C2%A7%2006701%20-%20Reporting%20and%20accountability.md) | Reporting and accountability. |
+| [6671\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006671%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
+| (a) | Findings. |
+| (b) | Purpose. |
+| [6672\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006672%20-%20Demonstration%20program%20authorized.md) | Demonstration program authorized. |
+| (a) | General authority. |
+| (b) | Eligible partnerships. |
+| [6673\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006673%20-%20Grants.md) | Grants. |
+| (a) | Authority. |
+| (b) | Grant requirements. |
+| [6674\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006674%20-%20Plan.md) | Plan. |
+| [6675\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006675%20-%20Technical%20assistance.md) | Technical assistance. |
+| [6676\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20Professional%20Development%20Demonstration%20Project/%C2%A7%2006676%20-%20Matching%20funds.md) | Matching funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [6701\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20E%20-%20General%20Provisions/%C2%A7%2006701%20-%20Reporting%20and%20accountability.md) | Reporting and accountability. |
 | (a) | States. |
 | (b) | Local educational agencies. |
 | (c) | Federal evaluation. |
 | (d) | Prohibition on funds being used for construction or renovation. |
-| [6702\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20D%20-%20General%20Provisions/%C2%A7%2006702%20-%20Definitions.md) | Definitions. |
+| [6702\.](Subchapter%20002%20%28II%29%20-%20Dwight%20D.%20Eisenhower%20Professional%20Development%20Program/Part%20E%20-%20General%20Provisions/%C2%A7%2006702%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -720,10 +752,7 @@ I74subpart 1—state grants for drug and violence prevention programs
 | [7131\.](Subchapter%20004%20%28IV%29%20-%20Safe%20and%20Drug-Free%20Schools%20and%20Communities/Part%20A%20-%20State%20Grants%20for%20Drug%20and%20Violence%20Prevention%20Programs/Subpart%20002%20-%20National%20Programs/%C2%A7%2007131%20-%20Federal%20activities.md) | Federal activities. |
 | (a) | Program authorized. |
 | (b) | Peer review. |
-| [7132\.](Subchapter%20004%20%28IV%29%20-%20Safe%20and%20Drug-Free%20Schools%20and%20Communities/Part%20A%20-%20State%20Grants%20for%20Drug%20and%20Violence%20Prevention%20Programs/Subpart%20002%20-%20National%20Programs/%C2%A7%2007132%20-%20Grants%20to%20institutions%20of%20higher%20education.md) | Grants to institutions of higher education. |
-| (a) | In general. |
-| (b) | Applications. |
-| (c) | Equitable participation. |
+| [7132\.](Subchapter%20004%20%28IV%29%20-%20Safe%20and%20Drug-Free%20Schools%20and%20Communities/Part%20A%20-%20State%20Grants%20for%20Drug%20and%20Violence%20Prevention%20Programs/Subpart%20002%20-%20National%20Programs/%C2%A7%2007132%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93244%2C%20title%20IX%2C%20%C2%A7981%2C%20Oct.%207%2C%201998%2C%20112%20Stat.%201837.md) | Repealed. |
 | [7133\.](Subchapter%20004%20%28IV%29%20-%20Safe%20and%20Drug-Free%20Schools%20and%20Communities/Part%20A%20-%20State%20Grants%20for%20Drug%20and%20Violence%20Prevention%20Programs/Subpart%20002%20-%20National%20Programs/%C2%A7%2007133%20-%20Hate%20crime%20prevention.md) | Hate crime prevention. |
 | (a) | Grant authorization. |
 | (b) | Use of funds. |
@@ -741,6 +770,11 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (a) | “Wrong and harmful” message. |
 | (b) | Curriculum. |
 | [7143\.](Subchapter%20004%20%28IV%29%20-%20Safe%20and%20Drug-Free%20Schools%20and%20Communities/Part%20A%20-%20State%20Grants%20for%20Drug%20and%20Violence%20Prevention%20Programs/Subpart%20003%20-%20General%20Provisions/%C2%A7%2007143%20-%20Prohibited%20uses%20of%20funds.md) | Prohibited uses of funds. |
+| [7144\.](Subchapter%20004%20%28IV%29%20-%20Safe%20and%20Drug-Free%20Schools%20and%20Communities/Part%20A%20-%20State%20Grants%20for%20Drug%20and%20Violence%20Prevention%20Programs/Subpart%20003%20-%20General%20Provisions/%C2%A7%2007144%20-%20Quality%20rating.md) | Quality rating. |
+| (a) | In general. |
+| (b) | Criteria. |
+| (c) | Request for quality program school designation. |
+| (d) | Public notification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1165,6 +1199,7 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (h) | Hold-harmless amounts. |
 | (i) | Priority payments. |
 | (j) | Additional assistance for certain local educational agencies impacted by Federal property acquisition. |
+| (k) | Special rule. |
 | [7703\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007703%20-%20Payments%20for%20eligible%20federally%20connected%20children.md) | Payments for eligible federally connected children. |
 | (a) | Computation of payment. |
 | (b) | Basic support payments; insufficient appropriations; State with only one local educational agency. |
@@ -1532,6 +1567,8 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (b) | Special rule. |
 | (c) | Program periods. |
 | (d) | Limitation. |
+| (e) | Priority treatment. |
+| (f) | Amount criteria. |
 | [8063\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008063%20-%20Applications.md) | Applications. |
 | (a) | Applications from State agencies. |
 | (b) | Contents of State educational agency application. |
@@ -1546,6 +1583,14 @@ I74subpart 1—state grants for drug and violence prevention programs
 | (f) | Use of funds. |
 | (g) | Tribally controlled schools. |
 | [8065\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065%20-%20National%20activities.md) | National activities. |
+| (a) | In general. |
+| (b) | Construction. |
+| [8065a.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065a%20-%20Federal%20formula%20allocation%20during%20first%20year%20and%20for%20successive%20enrollment%20expansions.md) | Federal formula allocation during first year and for successive enrollment expansions. |
+| (a) | In general. |
+| (b) | Adjustment and late openings. |
+| [8065b.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065b%20-%20Solicitation%20of%20input%20from%20charter%20school%20operators.md) | Solicitation of input from charter school operators. |
+| [8065c.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065c%20-%20Records%20transfer.md) | Records transfer. |
+| [8065d.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008065d%20-%20Paperwork%20reduction.md) | Paperwork reduction. |
 | [8066\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008066%20-%20Definitions.md) | Definitions. |
 | [8067\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20C%20-%20Public%20Charter%20Schools/%C2%A7%2008067%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -1685,14 +1730,9 @@ I74subpart 1—arts education
 
 #### Part H—De Lugo Territorial Education Improvement Program
 
-|  |  |
-| :--- | ---: |
-| [8221\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20H%20-%20De%20Lugo%20Territorial%20Education%20Improvement%20Program/%C2%A7%2008221%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
-| [8222\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20H%20-%20De%20Lugo%20Territorial%20Education%20Improvement%20Program/%C2%A7%2008222%20-%20Grant%20authorization.md) | Grant authorization. |
-| [8223\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20H%20-%20De%20Lugo%20Territorial%20Education%20Improvement%20Program/%C2%A7%2008223%20-%20Construction.md) | Construction. |
-| [8224\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20H%20-%20De%20Lugo%20Territorial%20Education%20Improvement%20Program/%C2%A7%2008224%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 8221 to 8224. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1804,15 +1844,7 @@ I74subpart 1—arts education
 
 |  |  |
 | :--- | ---: |
-| [8351\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Extended%20Time%20for%20Learning%20and%20Longer%20School%20Year/%C2%A7%2008351%20-%20Extended%20time%20for%20learning%20and%20longer%20school%20year.md) | Extended time for learning and longer school year. |
-| (a) | Findings. |
-| (b) | Purposes. |
-| (c) | Program authorized. |
-| (d) | Application. |
-| (e) | Authorized activities. |
-| (f) | “Common core learning time” defined. |
-| (g) | Administration. |
-| (h) | Appropriations authorization. |
+| [8351\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20L%20-%20Extended%20Time%20for%20Learning%20and%20Longer%20School%20Year/%C2%A7%2008351%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28f%29%20%5Btitle%20VIII%2C%20%C2%A7301%28c%29%283%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93337%2C%202681%E2%80%93410.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1820,7 +1852,7 @@ I74subpart 1—arts education
 
 |  |  |
 | :--- | ---: |
-| [8371\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20M%20-%20Territorial%20Assistance/%C2%A7%2008371%20-%20General%20assistance%20for%20Virgin%20Islands.md) | General assistance for Virgin Islands. |
+| [8371\.](Subchapter%20010%20%28X%29%20-%20Programs%20of%20National%20Significance/Part%20M%20-%20Territorial%20Assistance/%C2%A7%2008371%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28f%29%20%5Btitle%20VIII%2C%20%C2%A7301%28c%29%284%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93337%2C%202681%E2%80%93410.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2133,11 +2165,11 @@ I74subpart 1—arts education
 
 #### Codification
 
-The Elementary and Secondary Education Act of 1965, comprising this chapter, was originally enacted as Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, and amended by Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191; Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 783; Pub. L. 90–576, title III, §307, Oct. 16, 1968, 82 Stat. 1097; Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–193, §1(c), Dec. 31, 1975, 89 Stat. 1102; Pub. L. 94–273, §§2(12), 3(8), 49(a)–(c), Apr. 21, 1976, 90 Stat. 375, 376, 382; Pub. L. 94–482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 95–112, Aug. 24, 1977, 91 Stat. 911, and was classified to sections 241a et seq., 242 et seq., 331 et seq., 821 et seq., and 1801 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, and amended by Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367; Pub. L. 96–470, Oct. 19, 1980, 94 Stat. 2237; Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357; Pub. L. 98–211, Dec. 8, 1983, 97 Stat. 1412; Pub. L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887, and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130, and amended by Pub. L. 100–569, Oct. 31, 1988, 102 Stat. 2862; Pub. L. 100–570, Oct. 31, 1988, 102 Stat. 2865; Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181; Pub. L.101–226, Dec. 12, 1989, 103 Stat. 1928; Pub. L. 101–250, Mar. 6, 1990, 104 Stat. 96; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 101–589, Nov. 16, 1990, 104 Stat. 2881; Pub. L. 101–600, Nov. 16, 1990, 104 Stat. 3042; Pub. L. 101–647, Nov. 29, 1990, 104 Stat. 4789; Pub. L. 102–62, June 27, 1991, 105 Stat. 305; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–103, Aug. 17, 1991, 105 Stat. 497; Pub. L. 102–325, July 23, 1992, 106 Stat. 448; Pub. L. 102–359, Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–545, Oct. 27, 1992, 106 Stat. 3586; Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125; Pub. L. 103–252, May 18, 1994, 108 Stat. 623, and was classified to section 2701 et seq. of this title. The Act is shown, herein, however, as having been added by Pub. L. 103–382 without reference to such intervening amendments because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic 1965 Act's provisions by Pub. L. 103–382.
+The Elementary and Secondary Education Act of 1965, comprising this chapter, was originally enacted as Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, and amended by Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191; Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 783; Pub. L. 90–576, title III, §307, Oct. 16, 1968, 82 Stat. 1097; Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–193, §1(c), Dec. 31, 1975, 89 Stat. 1102; Pub. L. 94–273, §§2(12), 3(8), 49(a)–(c), Apr. 21, 1976, 90 Stat. 375, 376, 382; Pub. L. 94–482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 95–112, Aug. 24, 1977, 91 Stat. 911, and was classified to sections 241a et seq., 242 et seq., 331 et seq., 821 et seq., and 1801 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, and amended by Pub. L. 96–46, Aug. 6, 1979, 93 Stat. 338; Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668; Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367; Pub. L. 96–470, Oct. 19, 1980, 94 Stat. 2237; Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357; Pub. L. 98–211, Dec. 8, 1983, 97 Stat. 1412; Pub.L. 98–511, Oct. 19, 1984, 98 Stat. 2366; Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2435; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887, and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130, and amended by Pub. L. 100–569, Oct. 31, 1988, 102 Stat. 2862; Pub. L. 100–570, Oct. 31, 1988, 102 Stat. 2865; Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181; Pub. L. 101–226, Dec. 12, 1989, 103 Stat. 1928; Pub. L. 101–250, Mar. 6, 1990, 104 Stat. 96; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 101–589, Nov. 16, 1990, 104 Stat. 2881; Pub. L. 101–600, Nov. 16, 1990, 104 Stat. 3042; Pub. L. 101–647, Nov. 29, 1990, 104 Stat. 4789; Pub. L. 102–62, June 27, 1991, 105 Stat. 305; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–103, Aug. 17, 1991, 105 Stat. 497; Pub. L. 102–325, July 23, 1992, 106 Stat. 448; Pub. L. 102–359, Aug. 26, 1992, 106 Stat. 962; Pub. L. 102–545, Oct. 27, 1992, 106 Stat. 3586; Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125; Pub. L. 103–252, May 18, 1994, 108 Stat. 623, and was classified to section 2701 et seq. of this title. The Act is shown, herein, however, as having been added by Pub. L. 103–382 without reference to such intervening amendments because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic 1965 Act's provisions by Pub. L. 103–382.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1228c, 1453, 5893, 6041, 6143 of this title; title 8 section 1613; title 29 section 1533; title 42 sections 2000d–5, 5667e–5, 9832.
+This chapter is referred to in sections 1228c, 1453, 5893, 6143 of this title; title 8 section 1613; title 29 section 1533; title 42 sections 2000d–5, 5667e–5, 9832.
 
 
 ---

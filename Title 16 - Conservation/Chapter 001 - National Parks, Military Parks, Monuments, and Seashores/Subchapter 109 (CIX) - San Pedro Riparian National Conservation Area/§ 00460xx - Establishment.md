@@ -6,7 +6,7 @@ In order to protect the riparian area and the aquatic, wildlife, archeological, 
 
 #### (b) Area included
 
-The conservation area shall consist of public lands as generally depicted on a map entitled “San Pedro Riparian National Conservation Area—Proposed” numbered AZ–040–OZ, dated January 1988, and consisting of approximately 56,431 acres.
+The conservation area shall consist of public lands as generally depicted on a map entitled“San Pedro Riparian National Conservation Area—Proposed” numbered AZ–040–OZ, dated January 1988, and consisting of approximately 56,431 acres.
 
 #### (c) Map
 
@@ -16,7 +16,7 @@ As soon as is practicable after November 18, 1988, a map and legal description o
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee onNatural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Short Title
 

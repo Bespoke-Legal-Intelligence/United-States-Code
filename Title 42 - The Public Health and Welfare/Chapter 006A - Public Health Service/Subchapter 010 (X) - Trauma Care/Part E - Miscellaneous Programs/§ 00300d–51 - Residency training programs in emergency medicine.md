@@ -12,5 +12,5 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 For the purpose of carrying out this section, there is authorized to be appropriated $400,000 for each of the fiscal years 1993 through 1995.
 
-(July 1, 1944, ch. 373, title XII, §1251, as added Oct. 13, 1992, Pub. L. 102–408, title III, §304, 106 Stat. 2084.)
+(July 1, 1944, ch. 373, title XII, §1251, as added Pub. L. 102–408, title III, §304, Oct. 13, 1992, 106 Stat. 2084.)
 

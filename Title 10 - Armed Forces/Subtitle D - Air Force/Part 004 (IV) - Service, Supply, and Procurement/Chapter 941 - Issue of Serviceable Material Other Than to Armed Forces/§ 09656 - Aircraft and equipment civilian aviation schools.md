@@ -2,7 +2,7 @@
 
 The Secretary of the Air Force, under regulations to be prescribed by him, may lend aircraft, aircraft parts, and aeronautical equipment and accessories that are required for instruction, training, and maintenance, to accredited civilian aviation schools at which personnel of the Department of the Air Force or the Department of the Army are pursuing a course of instruction and training under detail by competent orders.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Oct. 12, 1982, Pub. L. 97–295, §1(53), 96 Stat. 1301.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Pub. L. 97–295, §1(53), Oct. 12, 1982, 96 Stat. 1301.)
 
 Historical and Revision Notes<br>1956
 
@@ -20,7 +20,7 @@ Act
 
 Apr. 3, 1939, ch. 35, §4, 53 Stat. 556.
 
-The words “in his discretion and”, “rules”, “limitations”, and “on hand and belonging to the Government such articles as may appear to be” are omitted as surplusage. The words “Department of the Air Force or the Department of the Army” are substituted for the words “Military Establishment”, since the authority is reciprocal.
+The words “in his discretion and”, “rules”, “limitations”, and “on hand and belonging to the Government such articles as may appear to be” are omitted as surplusage. The words “Department of the Air Force or the Department of the Army” are substituted for thewords “Military Establishment”, since the authority is reciprocal.
 
 #### 1982 Act
 

@@ -4,7 +4,7 @@
 
 (b) Whoever uses or attempts to use the mails or Postal Service for the transmission of any matter declared by this section to be nonmailable, shall be fined under this title or imprisoned not more than ten years or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 782; Sept. 2, 1960, Pub. L. 86–682, §12(b), 74 Stat. 708; Aug. 12, 1970, Pub. L. 91–375, §6(j)(27), 84 Stat. 780; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3552(a), 104 Stat. 4926; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 782; Pub. L. 86–682, §12(b), Sept. 2, 1960, 74 Stat. 708; Pub. L. 91–375, §6(j)(27), Aug. 12, 1970, 84 Stat. 780; Pub. L. 101–647, title XXXV, §3552(a), Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

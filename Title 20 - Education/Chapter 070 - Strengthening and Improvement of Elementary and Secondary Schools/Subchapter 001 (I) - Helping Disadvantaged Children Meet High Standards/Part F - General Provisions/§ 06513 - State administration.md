@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Each State educational agency shall create a State committee of practitioners to advise the State in carrying out its responsibilities under this subchapter.
+&emsp;Each State educational agency shall create a State committee of practitioners to advisethe State in carrying out its responsibilities under this subchapter.
 
 #### (2) Membership
 

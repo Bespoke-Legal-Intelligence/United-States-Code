@@ -2,11 +2,11 @@
 
 #### (a) Financial transactions of Commission; access to books, accounts, etc.
 
-Notwithstanding any other provision of law, and subject to subsection (d) <sup>1</sup> of this section, financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31.
+Notwithstanding any other provision of law, and subject to subsection (c) of this section, financial transactions of the Commission shall be audited by the Comptroller General of the United States (hereinafter in this chapter referred to as the “Comptroller General”). In conducting any such audit, the appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files, and other papers, items, or property in use by the Commission and necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. Any such audit shall first be conducted with respect to the fiscal year in which this chapter becomes effective. An audit performed under this section is subject to the requirements of paragraphs (2), (3), and (5) of section 9105(a) of title 31.
 
 #### (b) Annual report to Congress; contents
 
-Subject to subsection (d) <sup>1</sup> of this section, the Comptroller General shall, not later than six months after the end of each fiscal year, submit to the Congress a report of the audit conducted pursuant to subsection (a) of this section with respect to such fiscal year. Such report shall set forth the scope of the audit and shall include—
+Subject to subsection (c) of this section, the Comptroller General shall, not later than six months after the end of each fiscal year, submit to the Congress a report of the audit conducted pursuant to subsection (a) of this section with respect to such fiscal year. Such report shall set forth the scope of the audit and shall include—
 
 &emsp;(1) a statement of assets and liabilities, capital, and surplus or deficit, based on the accounts of the Commission established pursuant to this part,
 
@@ -26,15 +26,17 @@ At the discretion of the Board provided for in section 3612 of this title, the C
 
 #### (d) Examination and report on Commission's financial forecast
 
-In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (d) <sup>1</sup> of this section) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission's financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999.
+In addition to auditing the financial statements of the Commission, the Comptroller General (or the independent auditor if one is employed pursuant to subsection (c) of this section) shall, in accordance with standards for an examination of a financial forecast established by the American Institute of Certified Public Accountants, examine and report on the Commission's financial forecast that it will be in a position to meet its financial liabilities on December 31, 1999.
 
-(Pub. L. 96–70, title I, §1313, Sept. 27, 1979, 93 Stat. 479; Pub. L. 104–106, div. C, title XXXV, §3526(a), Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §§3541(b), 3546(a)(9), (b), Sept. 23, 1996, 110 Stat. 2867, 2868.)
+(Pub. L. 96–70, title I, §1313, Sept. 27, 1979, 93 Stat. 479; Pub. L. 104–106, div. C, title XXXV,§3526(a), Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §§3541(b), 3546(a)(9), (b), Sept. 23, 1996, 110 Stat. 2867, 2868; Pub. L. 105–261, div. C, title XXXV, §3512(a)(3), Oct. 17, 1998, 112 Stat. 2271.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
+
+1998—Subsecs. (a), (b), (d). Pub. L. 105–261 substituted “subsection (c)” for “subsection (d)”.
 
 1996—Pub. L. 104–106, §3526(a)(1), substituted “Audits” for “Audit by the Comptroller General of the United States” as section catchline.
 

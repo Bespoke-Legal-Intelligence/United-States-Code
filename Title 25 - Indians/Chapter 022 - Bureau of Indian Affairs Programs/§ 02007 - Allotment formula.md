@@ -2,7 +2,7 @@
 
 #### (a) Factors considered; revision to reflect standards
 
-(1) The Secretary shall establish, by regulation adopted in accordance with section 2019 of this title, a formula for determining the minimum annual amount of funds necessary to sustain each Bureau funded school. In establishing such formula, the Secretary shall consider—
+(1) The Secretary shall establish, by regulation adopted in accordance with section 2019 <sup>1</sup> of this title, a formula for determining the minimum annual amount of funds necessary to sustain each Bureau funded school. In establishing such formula, the Secretary shall consider—
 
 &emsp;(A) the number of eligible Indian students served and size of the school;
 
@@ -104,7 +104,7 @@ For the purpose of this section, the term “eligible Indian student” means a 
 
 &emsp;(C) the student is a dependent of a Bureau, Indian Health Service, or tribal government, employee who lives on or near the school site, or
 
-&emsp;(D) a tuition is paid for the student that is not more than that charged by the nearest public school district for out-of-district students, is <sup>1</sup> in addition to the school's allocation under this section.
+&emsp;(D) a tuition is paid for the student that is not more than that charged by the nearest public school district for out-of-district students, is <sup>2</sup> in addition to the school's allocation under this section.
 
 (3) The school board of a contract or grant school may permit students who are not eligible Indian students under this subsection to attend its contract school or grant school and any tuition collected for those students is in addition to funding under this section.
 
@@ -118,13 +118,19 @@ Beginning with academic year 1994–1995, tuition for the out-of-State students 
 
 (Pub. L. 95–561, title XI, §1127, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3989.)
 
+#### References in Text
+
+Section 2019 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 105–362, title VIII, §801(c)(5), Nov. 10, 1998, 112 Stat. 3288.
+
 #### Prior Provisions
 
 A prior section 2007, Pub. L. 95–561, title XI, §1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2001, 2010, 2019 of this title.
+This section is referred to in sections 2001, 2010 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “students. The tuition collected is”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “students. The tuition collected is”.</i>
 

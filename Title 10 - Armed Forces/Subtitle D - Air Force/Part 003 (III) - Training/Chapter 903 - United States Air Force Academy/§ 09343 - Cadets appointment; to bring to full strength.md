@@ -2,7 +2,7 @@
 
 If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Air Force may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academy Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in clauses (2) through (8) of section 9342(a) of this title, and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 564; Mar. 3, 1964, Pub. L. 88–276, §4(2), 78 Stat. 153; Nov. 2, 1966, Pub. L. 89–718, §46, 80 Stat. 1121; Nov. 29, 1973, Pub. L. 93–171, §3(5), 87 Stat. 691; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(a)(2), (c)(2), 104 Stat. 1563, 1564.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 88–276, §4(2), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–718, §46, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 93–171, §3(5), Nov. 29, 1973, 87 Stat. 691; Pub. L. 101–510, div. A, title V, §532(a)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1563, 1564.)
 
 Historical and Revision Notes
 

@@ -40,13 +40,13 @@ If the Secretary finds, after consideration of an application under subsection (
 
 (3) A transitional allowance shall take effect on a date established by the Secretary, but not earlier than the date of completion of the closure or conversion concerned.
 
-(4) A transitional allowance shall not be considered in applying the limits to costs recognized as reasonable pursuant to the third sentence of subparagraph (A) and subparagraph (L)(i) of section 1395x(v)(1) of this title, or in determining whether the reasonable cost exceeds the customary charges for a service for purposesof determining the amount to be paid to a provider pursuant to sections 1395f(b) and 1395<i>l</i>(a)(2) of this title.
+(4) A transitional allowance shall not be considered in applying the limits to costs recognized as reasonable pursuant to the third sentence of subparagraph (A) and subparagraph (L)(i) of section 1395x(v)(1) of this title, or in determining whether the reasonable cost exceeds the customary charges for a service for purposes of determining the amount to be paid to a provider pursuant to sections 1395f(b) and 1395<i>l</i>(a)(2) of this title.
 
 #### (d) Hearing to review determination
 
 A hospital dissatisfied with a determination of the Secretary on its application under this section may obtain an informal or formal hearing, at the discretion of the Secretary, by filing (in such form and within such time period as the Secretary establishes) a request for such a hearing. The Secretary shall make a final determination on such application within 30 days after the last day of such hearing.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1884, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2101(a)\[(1)\], 95 Stat. 785; amended Sept. 3, 1982, Pub. L. 97–248, title I, §128(a)(6), 96 Stat. 366.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1884, as added Pub. L. 97–35, title XXI, §2101(a)\[(1)\], Aug. 13, 1981, 95 Stat. 785; amended Pub. L. 97–248, title I, §128(a)(6), Sept. 3, 1982, 96 Stat. 366.)
 
 #### Amendments
 

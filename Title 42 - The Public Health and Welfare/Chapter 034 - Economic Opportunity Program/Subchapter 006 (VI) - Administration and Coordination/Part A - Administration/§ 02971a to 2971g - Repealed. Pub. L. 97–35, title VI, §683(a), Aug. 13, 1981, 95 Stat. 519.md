@@ -16,5 +16,5 @@ Section 2971g, Pub. L. 88–452, title VI, §627, as added Pub. L. 93–644, §9
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1981, see section 9912(a) of this title.
+Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.
 

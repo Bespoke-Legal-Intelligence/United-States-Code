@@ -4,13 +4,13 @@
 
 (b) If two or more persons conspire to violate this section, and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in subsection (a) of this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 799; June 30, 1953, ch. 175, §2, 67 Stat. 133; Sept. 3, 1954, ch. 1261, title I, §103, 68 Stat. 1218; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 799; June 30, 1953, ch. 175, §2, 67 Stat. 133; Sept. 3, 1954, ch. 1261, title I, §103, 68 Stat. 1218; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
 Based on section 103 of title 50, U.S.C., 1940 ed., War and National Defense (Apr. 20, 1918, ch. 59, §3, 40 Stat. 534).
 
-The conspiracy provisions are new. Their addition to the section was strongly urged by the Criminal Division of the Department of Justice, considering the gravity of the substantive offense as evidenced by the prescribed punishment therefor. The punishment provisions of the general conspiracy statute, section 371 of this title, are inadequate.
+The conspiracy provisions are new. Their addition to the section was strongly urged by the Criminal Division of the Department of Justice, considering thegravity of the substantive offense as evidenced by the prescribed punishment therefor. The punishment provisions of the general conspiracy statute, section 371 of this title, are inadequate.
 
 Words “upon conviction thereof” were omitted as unnecessary, since punishment cannot be imposed until a conviction is secured.
 

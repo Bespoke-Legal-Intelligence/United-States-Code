@@ -2,13 +2,13 @@
 
 The term “utilization and quality control peer review organization” means an entity which—
 
-&emsp;(1)(A) is composed of a substantial number of the licensed doctors of medicine and osteopathy engaged in the practice of medicine or surgery in the area and who are representative of the practicing physicians in the area, designated by the Secretary under section 1320c–2 of this title, with respect to which the entity shall perform services under this part, or (B) has available to it, by arrangement or otherwise, the services of a sufficient number of licensed doctors of medicine or osteopathy engaged in the practice of medicine or surgery insuch area to assure that adequate peer review of the services provided by the various medical specialties and subspecialties can be assured;
+&emsp;(1)(A) is composed of a substantial number of the licensed doctors of medicine and osteopathy engaged in the practice of medicine or surgery in the area and who are representative of the practicing physicians in the area, designated by the Secretary under section 1320c–2 of this title, with respect to which the entity shall perform services under this part, or (B) has available to it, by arrangement or otherwise, the services of a sufficient number of licensed doctors of medicine or osteopathy engaged in the practice of medicine or surgery in such area to assure that adequate peer review of the services provided by the various medical specialties and subspecialties can be assured;
 
 &emsp;(2) is able, in the judgment of the Secretary, to perform review functions required under section 1320c–3 of this title in a manner consistent with the efficient and effective administration of this part and to perform reviews of the pattern of quality of care in an area of medical practice where actual performance is measured against objective criteria which define acceptable and adequate practice; and
 
 &emsp;(3) has at least one individual who is a representative of consumers on its governing body.
 
-(Aug. 14, 1935, ch. 531, title XI, §1152, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 382; amended Oct. 21, 1986, Pub. L. 99–509, title IX, §9353(b)(1), 100 Stat. 2046.)
+(Aug. 14, 1935, ch. 531, title XI, §1152, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382; amended Pub. L. 99–509, title IX, §9353(b)(1), Oct. 21, 1986, 100 Stat. 2046.)
 
 #### Prior Provisions
 

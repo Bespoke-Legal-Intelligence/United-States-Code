@@ -12,7 +12,7 @@ Congress hereby finds and declares that:
 
 &emsp;(4) The Passamaquoddy Tribe, as represented as of the time of passage of this subchapter by the Joint Tribal Council of the Passamaquoddy Tribe, is the sole successor in interest to the aboriginal entity generally known as the Passamaquoddy Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
 
-&emsp;(5) The Houlton Band of Maliseet Indians, as represented as of the time of passage of this subchapter by the Houlton Band Council, is the sole successor in interest, as to lands within the United States, to the aboriginal entity generally known as the Maliseet Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
+&emsp;(5) The Houlton Band of Maliseet Indians, as represented as of the time of passage of this subchapter by the Houlton Band Council, isthe sole successor in interest, as to lands within the United States, to the aboriginal entity generally known as the Maliseet Tribe which years ago claimed aboriginal title to certain lands in the State of Maine.
 
 &emsp;(6) Substantial economic and social hardship to a large number of landowners, citizens, and communities in the State of Maine, and therefore to the economy of the State of Maine as a whole, will result if the aforementioned claims are not resolved promptly.
 
@@ -86,7 +86,7 @@ Purpose.—It is the purpose of this Act to—
 
 “For the purposes of this Act:
 
-&emsp;“(1) The term ‘Band’ means the Aroostook Band of Micmacs, the sole successor to the Micmac Nation as constituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Aroostook Band of Micmacs is represented, as of the date of enactment of this Act \[Nov. 26, 1991\], as to lands within the United States, by the Aroostook Micmac Council.
+&emsp;“(1) The term ‘Band’ means the Aroostook Band of Micmacs, the sole successor to the Micmac Nation asconstituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Aroostook Band of Micmacs is represented, as of the date of enactment of this Act \[Nov. 26, 1991\], as to lands within the United States, by the Aroostook Micmac Council.
 
 &emsp;“(2) The term ‘Band Tax Fund’ means the fund established under section 4(b) of this Act.
 
@@ -178,7 +178,7 @@ Alienation.—(1) Land or natural resources acquired with funds expended under t
 
 “(c)
 
-Condemnation by State of Maine and Political Subdivisions Thereof.—(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Band may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Nov. 26, 1991\].
+Condemnation by State of Maine and Political Subdivisions Thereof.—(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Band may be condemned for public purposes by theState of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Nov. 26, 1991\].
 
 “(2) The consent of the United States is hereby given to the State of Maine to further amend the Micmac Settlement Act for the purpose of embodying the agreement described in paragraph (1).
 
@@ -190,7 +190,7 @@ Acquisition.—(1) Lands and natural resources may be acquired by the Secretary 
 
 &emsp;“(B) provided the Secretary of State of the State of Maine with a copy of the procedures for filing and payment of claims prescribed under section 4(d).
 
-“(2)(A) No land or natural resources may be acquired by the Secretary for the Band until the Secretary files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyancesetting forth the location and boundaries of the land or natural resources to be acquired.
+“(2)(A) No land or natural resources may be acquired by the Secretary for the Band until the Secretary files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyance setting forth the location and boundaries of the land or natural resources to be acquired.
 
 “(B) For purposes of subparagraph (A), a filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.
 
@@ -256,5 +256,5 @@ Band and Members of the Band.—(1) The eligibility for, or receipt of, payments
 
 #### “SEC. 12. LIMITATION OF ACTIONS.
 
-“No provision of this Act may be construed to confer jurisdiction to sue, or to grant implied consent to the Band to sue, the United States or any of its officerswith respect to the claims extinguished by the Maine Indian Claims Settlement Act of 1980 \[25 U.S.C. 1721 et seq.\].”
+“No provision of this Act may be construed to confer jurisdiction to sue, or to grant implied consent to the Band to sue, the United States or any of its officers with respect to the claims extinguished by the Maine Indian Claims Settlement Act of 1980 \[25 U.S.C. 1721 et seq.\].”
 

@@ -8,11 +8,11 @@ The Secretary of the Treasury is authorized to prescribe and issue regulations f
 
 In ascertaining tare on imports of crude oil, and on imports of petroleum products, allowance shall be made for all detectable moisture and impurities present in, or upon, the imported crude oil or petroleum products.
 
-(June 17, 1930, ch. 497, title IV, §507, 46 Stat. 732; Aug. 23, 1988, Pub. L. 100–418, title I, §1902(a), 102 Stat. 1312.)
+(June 17, 1930, ch. 497, title IV, §507, 46 Stat. 732; Pub. L. 100–418, title I, §1902(a), Aug. 23, 1988, 102 Stat. 1312.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §506, 42Stat. 968. That section was superseded by section 507 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §506, 42 Stat. 968. That section was superseded by section 507 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision relative to the allowance of tare, prohibiting any allowance for draught, was contained in R.S. §2898, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

@@ -84,7 +84,7 @@ The Director shall make an annual report to the Congress. Such report shall incl
 
 #### (3) Additional compensation and benefits
 
-&emsp;The Director may provide additional compensation and benefits to employees of the Office if the same type of compensation or benefits are then being provided by any Federal banking agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Office, the Director shall consult, and seek to maintain comparability with, the Federal banking agencies.
+&emsp;The Director may provide additional compensation and benefits to employees of the Office if the same type of compensation or benefits are then being provided by any Federal banking agency or, if not then being provided,could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Office, the Director shall consult, and seek to maintain comparability with, the Federal banking agencies.
 
 #### (4) Delegation authority
 
@@ -100,7 +100,7 @@ The Director shall make an annual report to the Congress. Such report shall incl
 
 &emsp;&emsp;Notwithstanding subparagraph (A)(ii), the Director shall not, directly or indirectly—
 
-&emsp;&emsp;&emsp;(i) after October 10, 1989, delegate to any Federal home loan bank or to any officer,director, or employee of a Federal home loan bank, any power involving examining, supervising, taking enforcement action with respect to, or otherwise regulating any savings association, savings and loan holding company, or other person subject to regulation by the Director; or
+&emsp;&emsp;&emsp;(i) after October 10, 1989, delegate to any Federal home loan bank or to any officer, director, or employee of a Federal home loan bank, any power involving examining, supervising, taking enforcement action with respect to, or otherwise regulating any savings association, savings and loan holding company, or other person subject to regulation by the Director; or
 
 &emsp;&emsp;&emsp;(ii) delegate the Director's authority to serve as a member of the Corporation's Board of Directors.
 

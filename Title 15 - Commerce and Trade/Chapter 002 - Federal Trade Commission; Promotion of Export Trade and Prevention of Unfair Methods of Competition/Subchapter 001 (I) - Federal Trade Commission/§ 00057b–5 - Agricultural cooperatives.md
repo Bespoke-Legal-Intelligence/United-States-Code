@@ -4,7 +4,7 @@
 
 (b) The Commission shall not have any authority to conduct any study or investigation of any agricultural marketing orders.
 
-(Sept. 26, 1914, ch. 311, §24, as added Aug. 26, 1994, Pub. L. 103–312, §2, 108 Stat. 1691.)
+(Sept. 26, 1914, ch. 311, §24, as added Pub. L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691.)
 
 #### References in Text
 

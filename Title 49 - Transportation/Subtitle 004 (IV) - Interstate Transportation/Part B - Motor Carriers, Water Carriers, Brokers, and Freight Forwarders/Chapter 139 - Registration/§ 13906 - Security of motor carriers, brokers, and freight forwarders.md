@@ -18,7 +18,7 @@ Transportation insurance.—The Secretary may require a registered motor carrier
 
 (b)
 
-Broker Requirements.—The Secretary may register a person as a broker under section13904 only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary to ensure that the transportation for which a broker arranges is provided. The registration remains in effect only as long as the broker continues to satisfy the security requirements of this subsection.
+Broker Requirements.—The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary to ensure that the transportation for which a broker arranges is provided. The registration remains in effect only as long as the broker continues to satisfy the security requirements of this subsection.
 
 (c)
 
@@ -30,7 +30,7 @@ Liability insurance.—The Secretary may register a person as a freight forwarde
 
 &emsp;(2)
 
-Freight forwarder insurance.—The Secretary may require a registered freight forwarder to file with the Secretary a bond, insurance policy, or other type of security approved by the Secretary sufficient to pay, not more than the amount of the security, for loss of, or damage to, property for which the freight forwarder provides service.
+Freight forwarder insurance.—The Secretary may require a registered freight forwarder to file with the Secretary a bond, insurance policy, or other type of security approved by the Secretary sufficient to pay, not more than the amount of the security, for lossof, or damage to, property for which the freight forwarder provides service.
 
 &emsp;(3)
 

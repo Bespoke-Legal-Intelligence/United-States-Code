@@ -36,7 +36,7 @@
 | [167m.](%C2%A7%2000167m%20-%20Report%20on%20helium.md) | Report on helium. |
 | (a) | NAS study and report. |
 | (b) | Transmission to Congress. |
-| [167n.](%C2%A7%2000167n%20-%20Reports.md) | Reports. |
+| [167n.](%C2%A7%2000167n%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IX%2C%20%C2%A7901%28q%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203291.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,4 +62,4 @@
 - [&sect; 00167k - Violations; penalties](%C2%A7%2000167k%20-%20Violations%3B%20penalties.md)
 - [&sect; 00167l - Injunctions](%C2%A7%2000167l%20-%20Injunctions.md)
 - [&sect; 00167m - Report on helium](%C2%A7%2000167m%20-%20Report%20on%20helium.md)
-- [&sect; 00167n - Reports](%C2%A7%2000167n%20-%20Reports.md)
+- [&sect; 00167n - Repealed. Pub. L. 105&#8211;362, title IX, &sect;901(q), Nov. 10, 1998, 112 Stat. 3291](%C2%A7%2000167n%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20IX%2C%20%C2%A7901%28q%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203291.md)

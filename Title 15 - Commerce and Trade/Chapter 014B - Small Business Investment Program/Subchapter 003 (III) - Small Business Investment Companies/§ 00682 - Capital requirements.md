@@ -12,7 +12,7 @@
 
 #### (2) Exception
 
-&emsp;The Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, permit the private capital of a licensee authorized or seeking authorization to issue participating securities to be purchased or guaranteed by the Administration to be less than $10,000,000, but not less than $5,000,000, if the Administrator determines that such action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
+&emsp;The Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, permit the private capital of a licensee authorized or seeking authorization to issue participating securities to be purchased or guaranteed by the Administration to be less than $10,000,000,but not less than $5,000,000, if the Administrator determines that such action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
 
 #### (3) Adequacy
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) determine whether the private capital of each licensee is adequate to assure a reasonable prospect that the licensee will be operated soundly and profitably, and managed actively and prudently in accordance with its articles; and
 
-&emsp;&emsp;(B) determine that the licensee will be able<sup>1</sup> both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company's owners and managers, the history of the company as an entity, if any, and the company's financial resources.
+&emsp;&emsp;(B) determine that the licensee will be able <sup>1</sup> both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company's owners and managers, the history of the company as an entity, if any, and the company's financial resources.
 
 #### (4) Exemption from capital requirements
 

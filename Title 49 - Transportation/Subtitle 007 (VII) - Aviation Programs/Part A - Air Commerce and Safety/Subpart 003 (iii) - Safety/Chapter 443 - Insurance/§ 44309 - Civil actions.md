@@ -2,11 +2,29 @@
 
 (a)
 
-Disputed Losses.—A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under section 1346(a)(2) of title 28 applies to an action under this subsection.
+Losses.—
+
+&emsp;(1)
+
+Actions against united states.—A person may bring a civil action in a district court of the United States or in the United States Court of Federal Claims against the United States Government when—
+
+&emsp;&emsp;(A) a loss insured under this chapter is in dispute; or
+
+&emsp;&emsp;(B)(i) the person is subrogated under a contract between the person and a party insured under this chapter (other than section 44305(b)) to the rights of the insured party against the United States Government; and
+
+&emsp;&emsp;(ii) the person has paid to the insured party, with the approval of the Secretary of Transportation, an amount for a physical damage loss that the Secretary has determined is a loss covered by insurance issued under this chapter (other than section 44305(b)).
+
+&emsp;(2)
+
+Limitation.—A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter.
+
+&emsp;(3)
+
+Procedure.—To the extent applicable, the procedure in an action brought under section 1346(a)(2) of title 28, United States Code, applies to an action under this subsection.
 
 (b)
 
-Venue and Joinder.—(1) A civil action under subsection (a) of this section may be brought in the judicial district for the District of Columbia or in the judicial district in which the plaintiff or the agent of the plaintiff residesif the plaintiff resides in the United States. If the plaintiff does not reside in the United States, the action may be brought in the judicial district for the District of Columbia or in the judicial district in which the Attorney General agrees to accept service.
+Venue and Joinder.—(1) A civil action under subsection (a) of this section may be brought in the judicial district for the District of Columbia or in the judicial district in which the plaintiff or the agent of the plaintiff resides if the plaintiff resides in the United States. If the plaintiff does not reside in the United States, the action may be brought in the judicial district for the District of Columbia or in the judicial district in which the Attorney General agrees to accept service.
 
 (2) An interested person may be joined as a party to a civil action brought under subsection (a) of this section initially or on motion of either party to the action.
 
@@ -22,7 +40,7 @@ Interpleader.—(1) If the Secretary admits the Government owes money under an i
 
 (3) Judgment in a civil action under this subsection discharges the Government from further liability to the parties to the action and to all other persons served by publication under paragraph (2) of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1172.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1172; Pub. L. 105–277, div. C, title I, §110(c)(1), Oct. 21, 1998, 112 Stat. 2681–587.)
 
 Historical and Revision Notes
 
@@ -62,11 +80,15 @@ In subsection (b)(1), the words “A civil action under subsection (a) of this s
 
 In subsection (b)(2), the words “interested person” are substituted for “All persons having or claiming or who might have an interest in such insurance” to eliminate unnecessary words. The word “either” is omitted as surplus. The words “to a civil action brought under subsection (a) of this section” are added for clarity.
 
-In subsection (c), the words “during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section” are substituted for “within which suits may be commenced contained in section 2401 of title 28 providing for bringing of suits against the United States” for clarity. The words “from such time of filing” are omitted as surplus. The words “60 days after the Secretary of Transportation denies the claim” are substituted for “the claim shall have been administratively denied by the Secretary and for sixty days thereafter” for clarity.
+In subsection (c), the words “during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section” are substituted for “within which suits may be commenced contained insection 2401 of title 28 providing for bringing of suits against the United States” for clarity. The words “from such time of filing” are omitted as surplus. The words “60 days after the Secretary of Transportation denies the claim” are substituted for “the claim shall have been administratively denied by the Secretary and for sixty days thereafter” for clarity.
 
 In subsection (d)(1), the words “a civil action of interpleader” are substituted for “an action in the nature of a bill of interpleader” because of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “persons that may be entitled to payment” are substituted for “such parties” for clarity.
 
 In subsection (d)(2), the words “in which the action is brought” are added for clarity. The words “The order shall be” are added because of the restatement. The words “the court may order service on that person” are substituted for “it may direct service upon such persons unknown” as being more precise.
 
 In subsection (d)(3), the words “in a civil action under this subsection” are substituted for “in any such suit” for clarity.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “A person may bring a civil action in a district court of the United States against the United States Government when a loss insured under this chapter is in dispute. A civil action involving the same matter (except the action authorized by this subsection) may not be brought against an agent, officer, or employee of the Government carrying out this chapter. To the extent applicable, the procedure in an action brought under section 1346(a)(2) of title 28 applies to an action under this subsection.”
 

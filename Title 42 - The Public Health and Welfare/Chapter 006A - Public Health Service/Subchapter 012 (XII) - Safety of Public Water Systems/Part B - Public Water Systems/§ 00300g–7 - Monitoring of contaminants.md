@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Each State exercising primary enforcement responsibility for public water systems under this subchapter and having an approved source water assessment program may adopt, in accordance with guidance published by the Administrator, tailored alternative monitoring requirements for public water systems in such State (as an alternative to the monitoring requirements for chemical contaminants set forth in the applicable national primary drinking water regulations) where the State concludes that (based on data available at the time of adoption concerning susceptibility, use, occurrence, or wellhead protection, or from the State's drinking water source water assessment program) such alternative monitoring would provide assurance that it complies with the Administrator's guidelines. The State program must be adequate to assure compliance with, and enforcement of, applicable national primary drinking water regulations. Alternative monitoring shall not apply to regulated microbiological contaminants (or indicators thereof), disinfectants and disinfection byproducts, or corrosion byproducts. The preceding sentence is not intended to limit other authority of the Administrator under other provisions of this subchapter to grant monitoring flexibility.
+&emsp;Each State exercising primary enforcement responsibility for public water systems under this subchapter and having an approved source water assessment program may adopt, in accordance with guidance published by the Administrator, tailored alternative monitoring requirements for public water systems in such State (as an alternative to the monitoring requirements for chemical contaminants set forth in the applicable national primary drinking water regulations) where the State concludes that (based on data available at the time of adoption concerning susceptibility, use, occurrence, or wellhead protection, or from the State's drinking water source water assessment program) such alternative monitoring would provide assurance that it complies with the Administrator's guidelines. The State program must be adequate to assure compliance with, and enforcement of, applicable national primary drinking water regulations. Alternative monitoring shall not apply to regulated microbiological contaminants (or indicators thereof), disinfectants and disinfection byproducts, or corrosion byproducts. Thepreceding sentence is not intended to limit other authority of the Administrator under other provisions of this subchapter to grant monitoring flexibility.
 
 #### (2) Guidelines
 
@@ -28,7 +28,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the phrase “reliably and consistently below the maximum contaminant level” means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that the maximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such resultsto the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to be reliably and consistently below the maximum contaminant level.
+&emsp;&emsp;For purposes of subparagraph (A), the phrase “reliably and consistently below the maximum contaminant level” means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that the maximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such results to the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to be reliably and consistently below the maximum contaminant level.
 
 #### (3) Effect of detection of contaminants
 
@@ -50,7 +50,7 @@ All monitoring relief granted by a State to a public water system for a regulate
 
 Nothing in this section shall be construed to affect the authority of the States under applicable national primary drinking water regulations to alter monitoring requirements through waivers or other existing authorities. The Administrator shall periodically review and, as appropriate, revise such authorities.
 
-(July 1, 1944, ch. 373, title XIV, §1418, as added Aug. 6, 1996, Pub. L. 104–182, title I, §125(b), 110 Stat. 1654.)
+(July 1, 1944, ch. 373, title XIV, §1418, as added Pub. L. 104–182, title I, §125(b), Aug. 6, 1996, 110 Stat. 1654.)
 
 #### Section Referred to in Other Sections
 

@@ -10,9 +10,9 @@ Pursuant to regulations prescribed by the President, and to the extent consisten
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–82 effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation published in the Federal Register, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 
-Authority of President under this section delegated to Director of Office of Management and Budget, see section 1 of Ex. Ord. No. 11893, eff. Dec. 31, 1975, 41 F.R. 1040, set out as a note under section 7103 of Title 31, Money and Finance.
+Authority of President under this section delegated to Director of Office of Management and Budget, seesection 1 of Ex. Ord. No. 11893, eff. Dec. 31, 1975, 41 F.R. 1040, set out as a note under section 7103 of Title 31, Money and Finance.
 

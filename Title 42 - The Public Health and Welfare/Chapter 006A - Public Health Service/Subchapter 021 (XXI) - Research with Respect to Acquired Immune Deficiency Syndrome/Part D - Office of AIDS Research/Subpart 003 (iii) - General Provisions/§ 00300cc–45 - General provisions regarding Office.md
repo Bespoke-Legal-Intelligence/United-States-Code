@@ -32,7 +32,7 @@ For purposes of this part:
 
 &emsp;(4) The term “Plan” means the plan required in section 300cc–40b(a)(1) of this title.
 
-(July 1, 1944, ch. 373, title XXIII, §2359, as added June 10, 1993, Pub. L. 103–43, title XVIII, §1803, 107 Stat. 198.)
+(July 1, 1944, ch. 373, title XXIII, §2359, as added Pub. L. 103–43, title XVIII, §1803, June 10, 1993, 107 Stat. 198.)
 
 #### Change of Name
 

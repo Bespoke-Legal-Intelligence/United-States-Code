@@ -16,7 +16,9 @@
 
 &emsp;(6) when a documented vessel, other than a vessel with only a recreational endorsement, is placed under the command of a person not a citizen of the United States.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 590; Pub. L. 99–307, §1(16), May 19, 1986, 100 Stat. 446; Pub. L. 104–324, title III, §301(a), (b), Oct. 19, 1996, 110 Stat. 3916.)
+(c) In addition to penalties under subsections (a) and (b), the owner of a documented vessel for which a fishery endorsement has been issued is liable to the United States Government for a civil penalty of up to $100,000 for each day in which such vessel has engaged in fishing (as such term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802)) within the exclusive economic zone of the United States, if the owner or the representative or agent of the owner knowingly falsified or concealed a material fact, or knowingly made a false statement or representation with respect to the eligibility of the vessel under section 12102(c) of this title in applying for or applying to renew such fishery endorsement.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 590; Pub. L. 99–307, §1(16), May 19, 1986, 100 Stat. 446; Pub. L. 104–324, title III, §301(a), (b), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 105–277, div. C, title II, §203(f), Oct. 21, 1998, 112 Stat. 2681–620.)
 
 Historical and Revision Notes
 
@@ -39,6 +41,8 @@ Historical and Revision Notes
 Section 12122 provides a civil penalty of not more than $500 for each violation of this chapter. It also provides for seizure and forfeiture of a vessel for false statements or representations in connection with the documentation of vessels and for fraudulent use of a certificate of documentation.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–277 added subsec. (c).
 
 1996—Subsec. (a). Pub. L. 104–324, §301(a), substituted “$10,000” for “$500”.
 

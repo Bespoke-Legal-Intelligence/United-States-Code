@@ -144,7 +144,7 @@
 
 &emsp;(57) Reduce smokeless tobacco use by youth to a prevalence of no more than 10 percent.
 
-&emsp;(58) Increase to at least 65 percent the proportion of parents and caregivers who usefeeding practices that prevent baby bottle tooth decay.
+&emsp;(58) Increase to at least 65 percent the proportion of parents and caregivers who use feeding practices that prevent baby bottle tooth decay.
 
 &emsp;(59) Increase to at least 75 percent the proportion of mothers who breast feed their babies in the early postpartum period, and to at least 50 percent the proportion who continue breast feeding until their babies are 5 to 6 months old.
 

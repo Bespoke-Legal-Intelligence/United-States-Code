@@ -58,7 +58,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(F) the term “serious violent felony” means—
 
-&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; or attempt, conspiracy, or solicitation to commit any of the above offenses; and
+&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as describedin section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
 &emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
@@ -106,9 +106,31 @@ Special provision for indian country.—No person subject to the criminal jurisd
 
 Resentencing upon overturning of prior conviction.—If the conviction for a serious violent felony or serious drug offense that was a basis for sentencing under this subsection is found, pursuant to any appropriate State or Federal procedure, to be unconstitutional or is vitiated on the explicit basis of innocence, or if the convicted person is pardoned on the explicit basis of innocence, the person serving a sentence imposed under this subsection shall be resentenced to any sentence that was available at the time of the original sentencing.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982.)
+(d)
+
+Death or Imprisonment for Crimes Against Children.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2) and notwithstanding any other provision of law, a person who is convicted of a Federal offense that is a serious violent felony (as defined in subsection (c)) or a violation of section 2422, 2423, or 2251 shall, unless the sentence of death is imposed, be sentenced to imprisonment for life, if—
+
+&emsp;&emsp;(A) the victim of the offense has not attained the age of 14 years;
+
+&emsp;&emsp;(B) the victim dies as a result of the offense; and
+
+&emsp;&emsp;(C) the defendant, in the course of the offense, engages in conduct described in section 3591(a)(2).
+
+&emsp;(2)
+
+Exception.—With respect to a person convicted of a Federal offense described in paragraph (1), the court may impose any lesser sentence that is authorized by law to take into account any substantial assistance provided by the defendant in the investigation or prosecution of another person who has committed an offense, in accordance with the Federal Sentencing Guidelines and the policy statements of the Federal Sentencing Commission pursuant to section 994(p) of title 28, or for other good cause.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470.)
 
 #### Amendments
+
+1998—Subsec. (c)(2)(F)(i). Pub. L. 105–386 inserted “firearms possession (as described in section 924(c));” after “firearms use;”.
+
+Subsec. (d). Pub. L. 105–314 added subsec. (d).
 
 1994—Subsec. (b). Pub. L. 103–322, §70001(1), substituted “Except as provided in subsection (c), an” for “An”.
 
@@ -132,5 +154,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3154, 3582 of this title; title 49 section 46502.
+This section is referred to in sections 3154, 3582 of this title; title 10 section 1132; title 49 section 46502.
 

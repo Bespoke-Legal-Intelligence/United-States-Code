@@ -40,7 +40,7 @@ The Corporation, in consultation with the Secretary of Education, may make grant
 
 > &emsp;who will identify the community partners described in paragraph (2)(B) and assist in the design and implementation of a program described in paragraph (2); and
 
-&emsp;(4) implementing, operating, or expanding school-based service-learning programs involving adult volunteers to utilize service-learning to improve the education of students, through State distribution of Federal funds madeavailable under this part to local partnerships among—
+&emsp;(4) implementing, operating, or expanding school-based service-learning programs involving adult volunteers to utilize service-learning to improve the education of students, through State distribution of Federal funds made available under this part to local partnerships among—
 
 &emsp;&emsp;(A) local educational agencies; and
 

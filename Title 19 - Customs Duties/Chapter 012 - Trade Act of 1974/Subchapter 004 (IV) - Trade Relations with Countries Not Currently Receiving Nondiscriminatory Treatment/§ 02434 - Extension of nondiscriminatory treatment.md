@@ -2,7 +2,7 @@
 
 #### (a) Presidential proclamation
 
-Subject to the provisions of section 2435(c) of this title, the President may by proclamationextend nondiscriminatory treatment to the products of a foreign country which has entered into a bilateral commercial agreement referred to in section 2435 of this title.
+Subject to the provisions of section 2435(c) of this title, the President may by proclamation extend nondiscriminatory treatment to the products of a foreign country which has entered into a bilateral commercial agreement referred to in section 2435 of this title.
 
 #### (b) Limitation on period of effectiveness
 
@@ -196,7 +196,7 @@ Pub. L. 102–182, title I, Dec. 4, 1991, 105 Stat. 1235, provided that:
 
 &emsp;“(2) The Government of the United States entered into agreements extending most-favored-nation treatment with the Government of Estonia on August 1, 1925, the Government of Latvia on April 30, 1926, and the Government of Lithuania on July 10, 1926.
 
-&emsp;“(3) The Union of Soviet Socialist Republics incorporated Estonia, Latvia, and Lithuania involuntarily into the Union as a result of a secret protocol to a German-Soviet agreement in 1939 which assignedthose three states to the Soviet sphere of influence; and the Government of the United States has at no time recognized the forcible incorporation of those states into the Union of Soviet Socialist Republics.
+&emsp;“(3) The Union of Soviet Socialist Republics incorporated Estonia, Latvia, and Lithuania involuntarily into the Union as a result of a secret protocol to a German-Soviet agreement in 1939 which assigned those three states to the Soviet sphere of influence; and the Government of the United States has at no time recognized the forcible incorporation of those states into the Union of Soviet Socialist Republics.
 
 &emsp;“(4) The Trade Agreements Extension Act of 1951 \[see Short Title of 1951 Amendment note set out under section 1654 of this title\] required the President to suspend, withdraw, or prevent the application of trade benefits, including most-favored-nation treatment, to countries under the domination or control of the world Communist movement.
 
@@ -450,7 +450,7 @@ NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, actin
 
 (1) This proclamation shall become effective, said Agreement shall enter into force, and nondiscriminatory treatment shall be extended to the products of the Republic of Bulgaria, in accordance with the terms of said Agreement, on the date of exchange of written notices of acceptance in accordance with Article XVII of said Agreement. The United States Trade Representative shall publish notice of the effective date in the Federal Register.
 
-(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whose products are subject to duty at the rates set forth in rate of duty column 2 of the tariff schedule, is modified by striking out “Bulgaria”.
+(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whoseproducts are subject to duty at the rates set forth in rate of duty column 2 of the tariff schedule, is modified by striking out “Bulgaria”.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-fourth day of June, in the year of our Lord nineteen hundred and ninety-one, and of the Independence of the United States of America the two hundred and fifteenth.
 
@@ -480,7 +480,7 @@ Proc. No. 6308, June 24, 1991, 56 F.R. 29834, provided:
 
 5\. Article XVII of the Agreement provides that the Agreement shall enter into force on the date of exchange of written notices of acceptance by the two Governments.
 
-6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of acountry heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act.
+6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of a country heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act.
 
 7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
 
@@ -612,7 +612,7 @@ Proc. No. 6445, June 15, 1992, 57 F.R. 26921, provided:
 
 5\. Article XVII of the Agreement provides that the Agreement shall enter into force on the date of exchange of written notices of acceptance by the two Governments.
 
-6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of acountry heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act.
+6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of a country heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act.
 
 7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
 
@@ -654,7 +654,7 @@ Proc. No. 6449, June 22, 1992, 57 F.R. 28033, provided:
 
 2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
 
-3\. As a result of these negotiations, an “Agreement on Trade Relations Between the Government of the United States of America and the Government of Romania,” including exchanges of letters which form an integral part of the Agreement, the foregoing in English and Romanian, was signed on April 3, 1992, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
+3\. As a result of these negotiations, an “Agreement on Trade Relations Between the Government of the United States of America and the Government of Romania,” including exchanges of letters which form an integral part of the Agreement, the foregoing inEnglish and Romanian, was signed on April 3, 1992, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
 
 4\. This Agreement conforms to the requirements relating to bilateral commercial agreements set forth in section 405(b) of the Trade Act (19 U.S.C. 2435(b)).
 
@@ -720,7 +720,7 @@ Determination of President of the United States, No. 92–34, June 22, 1992, 57 
 
 Proc. No. 6922, Sept. 27, 1996, 61 F.R. 51205, provided:
 
-The United States has had in effect a bilateral Agreement on Trade Relations with Bulgaria since 1991, which was last renewed for an additional 3-year term in 1994. Pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), I reconfirm that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement and that actual or foreseeable reductions in U.S. tariffs and nontariff barriers to trade resulting from multilateral negotiations are, and continuously have been, satisfactorily reciprocated by Bulgaria.
+The United States has had in effect a bilateral Agreement on Trade Relations with Bulgaria since 1991, which was last renewed for an additional 3-year term in 1994. Pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), Ireconfirm that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement and that actual or foreseeable reductions in U.S. tariffs and nontariff barriers to trade resulting from multilateral negotiations are, and continuously have been, satisfactorily reciprocated by Bulgaria.
 
 Moreover, pursuant to section 2 of Public Law 104–162 \[set out as a note above\], and having due regard for the findings of the Congress in section 1 of said Law \[set out as a note above\], I hereby determine that title IV of the Trade Act of 1974 (19 U.S.C. 2431–2441) should no longer apply to Bulgaria.
 
@@ -750,7 +750,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 
 (3) The extension of nondiscriminatory treatment to the products of Romania shall be effective as of the date of publication of this proclamation in the Federal Register \[Nov. 12, 1996\].
 
-IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of November, in the year of ourLord nineteen hundred and ninety-six, and of the Independence of the United States of America the two hundred and twenty-first.
+IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of November, in the year of our Lord nineteen hundred and ninety-six, and of the Independence of the United States of America the two hundred and twenty-first.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

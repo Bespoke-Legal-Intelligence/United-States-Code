@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) by the rules and regulations of the Secretary of Agriculture under this chapter, when after investigation he shall determine that a weed is noxious in the United States or in any specifically designated area thereof.
 
-&emsp;(B) For the purpose of subchapter III of this chapter, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidiumrepens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
+&emsp;(B) For the purpose of subchapter III of this chapter, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
 
 &emsp;(10) The term “origin” means the State, District of Columbia, Puerto Rico, or possession of the United States, or the foreign country, or designated portion thereof, where the seed was grown.
 
@@ -78,7 +78,7 @@
 
 &emsp;(24) The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
 
-(Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956, ch. 852, §1, 70 Stat. 908; Aug. 1, 1958, Pub. L. 85–581, §§1–3, 72 Stat. 476; Oct. 15, 1966, Pub. L. 89–686, §§1–3, 19, 80 Stat. 975, 979; Oct. 17, 1969, Pub. L. 91–89, §1, 83 Stat. 134; Jan. 8, 1983, Pub. L. 97–439, §5(a), 96 Stat. 2288.)
+(Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956, ch. 852, §1, 70 Stat. 908; Pub. L. 85–581, §§1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, §1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, §5(a), Jan. 8, 1983, 96 Stat. 2288.)
 
 #### Codification
 
@@ -124,7 +124,7 @@ Subsec. (a)(9)(A)(ii). Act Aug. 1, 1956, §1(b), inserted “Guam” after “Pu
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–581, §16, provided that: “This Act, and the amendments \[amending sections 1561, 1562, 1571 to 1574, 1581, 1582, and 1586 of this title\] made hereby, shall take effect upon the date of enactment \[Aug. 1, 1958\].”
+Pub. L. 85–581, §16, provided that: “This Act, and the amendments \[amending sections 1561, 1562, 1571 to 1574,1581, 1582, and 1586 of this title\] made hereby, shall take effect upon the date of enactment \[Aug. 1, 1958\].”
 
 #### Effective Date
 

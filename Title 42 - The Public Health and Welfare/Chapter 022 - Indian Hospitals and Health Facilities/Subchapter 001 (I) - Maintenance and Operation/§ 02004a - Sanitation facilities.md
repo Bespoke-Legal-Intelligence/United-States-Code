@@ -20,7 +20,7 @@ The Secretary of the Interior is authorized to transfer to the Surgeon General f
 
 The Surgeon General shall consult with, and encourage the participation of, the Indians concerned, States and political subdivisions thereof, in carrying out the provisions of this section.
 
-(Aug. 5, 1954, ch. 658, §7, as added July 31, 1959, Pub. L. 86–121, §1, 73 Stat. 267.)
+(Aug. 5, 1954, ch. 658, §7, as added Pub. L. 86–121, §1, July 31, 1959, 73 Stat. 267.)
 
 #### Transfer of Functions
 

@@ -256,28 +256,36 @@
 | (b) | Goods or services. |
 | (c) | Audits of records. |
 | (d) | Definitions. |
-| [5923\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005923%20-%20Livestock%20product%20safety%20and%20inspection%20program.md) | Livestock product safety and inspection program. |
-| (a) | Establishment. |
-| (b) | Eligible entities. |
-| (c) | Contribution by entity. |
+| [5923\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005923%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93185%2C%20title%20III%2C%20%C2%A7302%28c%29%2C%20June%2023%2C%201998%2C%20112%20Stat.%20563.md) | Repealed. |
+| [5924\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005924%20-%20Agricultural%20Genome%20Initiative.md) | Agricultural Genome Initiative. |
+| (a) | Goals. |
+| (b) | Duties of Secretary. |
+| (c) | Grants and cooperative agreements. |
 | (d) | Administration. |
-| (e) | Authorization of appropriations. |
-| [5924\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005924%20-%20Plant%20genome%20mapping%20program.md) | Plant genome mapping program. |
-| (a) | Program required. |
-| (b) | Competitive grants. |
-| (c) | Research areas. |
-| (d) | Plan for making grants. |
-| (e) | Coordination of efforts. |
-| (f) | Proprietary interests. |
+| (e) | Matching of funds. |
+| (f) | Consultation with National Academy of Sciences. |
+| [5925\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925%20-%20High-priority%20research%20and%20extension%20initiatives.md) | High-priority research and extension initiatives. |
+| (a) | Competitive specialized research and extension grants authorized. |
+| (b) | Administration. |
+| (c) | Matching funds required. |
+| (d) | Partnerships encouraged. |
+| (e) | High-priority research and extension areas. |
+| (f) | Imported fire ant control, management, and eradication. |
+| (g) | Formosan termite research and eradication. |
+| (h) | Authorization of appropriations. |
+| [5925a.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925a%20-%20Nutrient%20management%20research%20and%20extension%20initiative.md) | Nutrient management research and extension initiative. |
+| (a) | Competitive research and extension grants authorized. |
+| (b) | Administration. |
+| (c) | Matching funds required. |
+| (d) | Partnerships encouraged. |
+| (e) | Nutrient management research and extension areas. |
 | (g) | Authorization of appropriations. |
-| [5925\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925%20-%20Specialized%20research%20programs.md) | Specialized research programs. |
-| (a) | Brown citrus aphid and citrus tristeza virus. |
-| (b) | Ethanol research. |
-| (c) | Aflatoxin research. |
-| (d) | Mesquite research. |
-| (e) | Prickly pear research. |
-| (f) | Deer tick ecology and related research. |
-| (g) | Administrative provisions. |
+| [5925b.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925b%20-%20Organic%20agriculture%20research%20and%20extension%20initiative.md) | Organic agriculture research and extension initiative. |
+| (a) | Competitive specialized research and extension grants authorized. |
+| (b) | Grant types and process, prohibition on construction. |
+| (c) | Matching funds required. |
+| (d) | Partnerships encouraged. |
+| (e) | Authorization of appropriations. |
 | [5926\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005926%20-%20Agricultural%20telecommunications%20program.md) | Agricultural telecommunications program. |
 | (a) | Purpose. |
 | (b) | Objectives. |
@@ -287,15 +295,7 @@
 | (f) | Applications for program production and delivery. |
 | (g) | Limitations on assistance. |
 | (h) | Authorization of appropriations. |
-| [5927\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005927%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7864%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201174.md) | Repealed. |
-| [5928\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005928%20-%20National%20centers%20for%20agricultural%20product%20quality%20research.md) | National centers for agricultural product quality research. |
-| (a) | Purposes. |
-| (b) | Characteristics of centers. |
-| (c) | Establishment of centers. |
-| (d) | Program plan and review. |
-| (e) | Limitation on use of funds. |
-| (f) | Definitions. |
-| (g) | Authorization of appropriations. |
+| 5927, 5928. Repealed. |  |
 | [5929\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005929%20-%20Red%20meat%20safety%20research%20center.md) | Red meat safety research center. |
 | (a) | Establishment of center. |
 | (b) | Eligible research facility described. |
@@ -314,6 +314,7 @@
 | [5933\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005933%20-%20Assistive%20technology%20program%20for%20farmers%20with%20disabilities.md) | Assistive technology program for farmers with disabilities. |
 | (a) | Special demonstration grants. |
 | (b) | National grant for technical assistance, training, and dissemination. |
+| (c) | Authorization of appropriations |
 | [5934\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005934%20-%20Research%20on%20honeybee%20diseases.md) | Research on honeybee diseases. |
 | (a) | Sense of Congress. |
 | (b) | Research. |

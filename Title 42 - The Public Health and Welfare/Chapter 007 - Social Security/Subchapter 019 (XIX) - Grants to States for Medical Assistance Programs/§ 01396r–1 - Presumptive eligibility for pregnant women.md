@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made, and
 
-&emsp;(B) inform the woman at the time the determination is made that she is required to make application for medical assistance under the State plan by not later than the last day of the month following the month during which the determination is made.
+&emsp;(B) inform the woman at the time the determination is made that she is required to makeapplication for medical assistance under the State plan by not later than the last day of the month following the month during which the determination is made.
 
 (3) A pregnant woman who is determined by a qualified provider to be presumptively eligible for medical assistance under a State plan shall make application for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(<i>l</i>)(1)(A) of this title.
 
@@ -74,7 +74,7 @@ Notwithstanding any other provision of this subchapter, ambulatory prenatal care
 
 > shall be treated as medical assistance provided by such plan for purposes of section 1396b of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Oct. 21, 1986, Pub. L. 99–509, title IX, §9407(b), 100 Stat. 2058; amended July 1, 1988, Pub. L. 100–360, title IV, §411(k)(16)(A), (B), 102 Stat. 799; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(26)(L), 102 Stat. 2422; Nov. 5, 1990, Pub. L. 101–508, title IV, §4605(a), (b), 104 Stat. 1388–169.)
+(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169.)
 
 #### References in Text
 

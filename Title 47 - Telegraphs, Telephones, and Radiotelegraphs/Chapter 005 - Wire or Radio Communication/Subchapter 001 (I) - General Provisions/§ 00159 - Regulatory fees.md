@@ -4,7 +4,7 @@
 
 #### (1) Recovery of costs
 
-&emsp;The Commission, in accordance with this section, shall assess and collect regulatory fees to recover the costs of the following regulatory activities of the Commission: enforcement activities, policy and rulemaking activities, user information services, and international activities.
+&emsp;The Commission, in accordance with this section, shall assess and collect regulatoryfees to recover the costs of the following regulatory activities of the Commission: enforcement activities, policy and rulemaking activities, user information services, and international activities.
 
 #### (2) Fees contingent on appropriations
 
@@ -16,7 +16,7 @@
 
 &emsp;The fees assessed under subsection (a) of this section shall—
 
-&emsp;&emsp;(A) be derived by determining the full-time equivalent number of employees performingthe activities described in subsection (a) of this section within the Private Radio Bureau, Mass Media Bureau, Common Carrier Bureau, and other offices of the Commission, adjusted to take into account factors that are reasonably related to the benefits provided to the payor of the fee by the Commission's activities, including such factors as service area coverage, shared use versus exclusive use, and other factors that the Commission determines are necessary in the public interest;
+&emsp;&emsp;(A) be derived by determining the full-time equivalent number of employees performing the activities described in subsection (a) of this section within the Private Radio Bureau, Mass Media Bureau, Common Carrier Bureau, and other offices of the Commission, adjusted to take into account factors that are reasonably related to the benefits provided to the payor of the fee by the Commission's activities, including such factors as service area coverage, shared use versus exclusive use, and other factors that the Commission determines are necessary in the public interest;
 
 &emsp;&emsp;(B) be established at amounts that will result in collection, during each fiscal year, of an amount that can reasonably be expected to equal the amount appropriated for such fiscal year for the performance of the activities described in subsection (a) of this section; and
 

@@ -2,7 +2,7 @@
 
 As used in this chapter, the term “debtor” means a debtor concerning whom a petition has been filed under title 11.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Nov. 6, 1978, Pub. L. 95–598, title III, §314(b)(1), 92 Stat. 2676; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330008(5), 108 Stat. 2143.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 95–598, title III, §314(b)(1), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 103–322, title XXXIII, §330008(5), Sept. 13, 1994, 108 Stat. 2143.)
 
 #### Historical and Revision Notes
 

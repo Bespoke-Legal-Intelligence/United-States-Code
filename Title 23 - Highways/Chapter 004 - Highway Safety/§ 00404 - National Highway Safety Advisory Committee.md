@@ -10,7 +10,7 @@
 
 (c) The National Highway Safety Advisory Committee shall meet from time to time as the Secretary shall direct, but at least once each year.
 
-(d) The Secretary shall provide to the National Highway Safety Committee from among the personnel and facilities of the Department ofCommerce <sup>1</sup> such staff and facilities as are necessary to carry out the functions of such Committee.
+(d) The Secretary shall provide to the National Highway Safety Committee from among the personnel and facilities of the Department of Commerce <sup>1</sup> such staff and facilities as are necessary to carry out the functions of such Committee.
 
 (Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 90–150, Nov. 24, 1967, 81 Stat. 507; Pub. L. 93–87, title II, §223, Aug. 13, 1973, 87 Stat. 292; Pub. L. 94–280, title II, §209, May 5, 1976, 90 Stat. 455.)
 
@@ -18,7 +18,7 @@
 
 The date of enactment of this section, referred to in subsec. (a)(2)(A), is Sept. 9, 1966.
 
-Section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2), referred to in subsec. (a)(2)(B), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632. Section 7(b) of Pub. L. 89–554 provided that references to sections of former Title 5, Executive Departments and Government Officers and Employees, are to be deemed to be references to corresponding provisions of Title 5, Government Organization and Employees. Provisions similar to section 73b–2 of former title 5 are now contained in section 5703 of Title 5, Government Organization and Employees.
+Section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2), referred to in subsec. (a)(2)(B), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632. Section 7(b) of Pub. L. 89–554 provided that references to sections of former Title 5, Executive Departmentsand Government Officers and Employees, are to be deemed to be references to corresponding provisions of Title 5, Government Organization and Employees. Provisions similar to section 73b–2 of former title 5 are now contained in section 5703 of Title 5, Government Organization and Employees.
 
 #### Amendments
 

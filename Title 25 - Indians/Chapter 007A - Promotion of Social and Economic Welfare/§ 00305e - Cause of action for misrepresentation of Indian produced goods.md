@@ -10,7 +10,7 @@ A person specified in subsection (c) of this section may, in a civil action in a
 
 &emsp;&emsp;(A) treble damages; or
 
-&emsp;&emsp;(B) in the case of each aggrieved individual Indian, Indian tribe, or Indian arts and crafts organization, not less than $1,000 for each day on which the offer or display for sale or sale continues.
+&emsp;&emsp;(B) in the case of each aggrieved individual Indian, Indian tribe, or Indian arts and crafts organization, not less than $1,000 foreach day on which the offer or display for sale or sale continues.
 
 #### (b) Punitive damages; attorney's fee
 
@@ -48,7 +48,7 @@ As used in this section—
 
 #### (e) Severability
 
-In the event that any provision of this section is held invalid, it is the intent of Congress thatthe remaining provisions of this section shall continue in full force and effect.
+In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
 (Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664.)
 

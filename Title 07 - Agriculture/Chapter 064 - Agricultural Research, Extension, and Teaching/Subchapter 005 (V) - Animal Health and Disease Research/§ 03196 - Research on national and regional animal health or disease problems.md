@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but not to exceed $35,000,000 for each of the fiscal years 1991 through 1997, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
+There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but not to exceed $35,000,000 for each of the fiscal years 1991 through 2002, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
 
 #### (b) Duration of grants
 
@@ -10,7 +10,7 @@ Notwithstanding the provisions of section 3197 of this title, funds appropriated
 
 #### (c) Establishment of annual priority lists for allocation of funds
 
-In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease, food safety, and animal well-being problems of national or regional significance. Such lists shall be prepared afterconsultation with the Advisory Board and the Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary, the Advisory Board, and the Board shall consider the following factors:
+In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease, food safety, and animal well-being problems of national or regional significance. Such lists shall be prepared after consultation with the Advisory Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary and the Advisory Board shall consider the following factors:
 
 &emsp;(1) any health or disease problem which causes or may cause significant economic losses to any part of the livestock production industry;
 
@@ -34,7 +34,7 @@ In the case of multiyear grants, the Secretary shall distribute funds to grant r
 
 The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act \[7 U.S.C. 2281 et seq.\] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
-(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171.)
+(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3), June 23, 1998, 112 Stat. 562, 604.)
 
 #### References in Text
 
@@ -43,6 +43,10 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, as amended, which is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–185, §301(a)(8), substituted “2002” for “1997”.
+
+Subsec. (c). Pub. L. 105–185, §606(d)(3), struck out “and the Board” after “Advisory Board” in second sentence and substituted “and the Advisory Board” for “, the Advisory Board, and the Board” in fourth sentence.
 
 1996—Subsec. (a). Pub. L. 104–127, §812(1), inserted “or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being,” after “problems,” and substituted “1997” for “1995”.
 

@@ -76,7 +76,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 
 &emsp;(B) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
-(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit toCongress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
+(2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
 (3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
 
@@ -142,6 +142,10 @@ Subsecs. (k), (<i>l</i>). Pub. L. 104–106, §5601(b), redesignated subsec. (<i
 
 Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.”
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1997 Amendment
 
 Section 806(a)(2) of Pub. L. 105–85 provided that: “Paragraph (3) of section 2306b(i) of title 10, United States Code, as added by paragraph (1), shall not apply with respect to a contract authorized by law before the date of the enactment of this Act \[Nov. 18, 1997\].”
@@ -160,7 +164,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided that:
 
-“(a) None of the funds provided in this Act \[see Tables for classification\] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees have been notified at least 30 days in advance of the proposed contract award: <i>Provided</i>, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government's liability: <i>Provided further</i>, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: <i>Provided further</i>, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: <i>Provided further</i>, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
+“(a) None of the funds provided in this Act \[see Tables for classification\] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees have been notified at least 30 days in advance of the proposed contract award: <i>Provided</i>, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government's liability: <i>Provided further</i>, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: <i>Provided further</i>, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\]: <i>Provided further</i>, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
 “Funds appropriated in title III of this Act \[111 Stat. 1211\] may be used for multiyear procurement contracts as follows:
 
@@ -178,7 +182,9 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 105–262, title VIII, §8008, Oct. 17, 1998, 112 Stat. 2298.
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8009\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–89.
 

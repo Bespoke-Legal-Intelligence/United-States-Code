@@ -12,7 +12,7 @@
 
 (4) In carrying out such research program, the Secretary shall act in cooperation with the entities described in section 7302(d) of this title.
 
-(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic, and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such research available to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(2) <sup>1</sup> of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2)) (relating to the establishment and support of Rehabilitation Engineering Research Centers).
+(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic, and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such research available to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973 (relating to the establishment and support of Rehabilitation Engineering Research Centers).
 
 (c)(1) In conducting or supporting clinical research, the Secretary shall ensure that, whenever possible and appropriate—
 
@@ -32,13 +32,15 @@
 
 &emsp;(C) Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242.)
 
 #### References in Text
 
-Section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2)), referred to in subsec. (b), was struck out and a new subsec. (b)(2) added by Pub. L. 102–569, title II, §205(b)(2), Oct. 29, 1992, 106 Stat. 4403, which no longer contains provisions relating to Rehabilitation Engineering Research Centers. See 29 U.S.C. 762(b)(3).
+Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b), is classified to section 764(b)(3) of Title 29, Labor.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
 
 1994—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
 
@@ -55,6 +57,4 @@ Pub. L. 102–585, title I, §109, Nov. 4, 1992, 106 Stat. 4948, provided for in
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3904, 7317, 7362 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

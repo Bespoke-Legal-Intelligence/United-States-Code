@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A homeownership program under this part shall provide for acquisition by eligible families of ownership interests in, or shares representing, units in an eligible property under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership), for occupancy by the eligible families.
+A homeownership program under this part shall provide for acquisition by eligible familiesof ownership interests in, or shares representing, units in an eligible property under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership), for occupancy by the eligible families.
 
 #### (b) Affordability
 
@@ -38,7 +38,7 @@ Each homeownership program under this part shall provide that, in making vacant 
 
 #### References in Text
 
-This title, referred to in subsec. (e)(2), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enacted this subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, Banks and Banking, and enacted provisions set out as notes under sections1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
+This title, referred to in subsec. (e)(2), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enacted this subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §732. Personnel management system
 
-(a) The Comptroller General shall maintain a personnel management system. The ComptrollerGeneral may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the General Accounting Office because of comments on a proposed regulation about the system.
+(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the General Accounting Office because of comments on a proposed regulation about the system.
 
 (b) The personnel management system shall—
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) except as provided in clause (4) of this subsection and section 733(a)(3)(A) of this title, the highest basic pay rate under the pay schedule may not be more than the highest basic rate for GS–15;
 
-&emsp;(3) except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;
+&emsp;(3) except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the sametime and to the same extent as basic pay rates of the General Schedule are adjusted;
 
 &emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service under section 733 of this title (except positions included in the Service under section 733(c) of this title); and
 

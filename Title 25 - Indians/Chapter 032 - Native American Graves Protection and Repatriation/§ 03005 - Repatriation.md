@@ -2,9 +2,9 @@
 
 #### (a) Repatriation of Native American human remains and objects possessed or controlled by Federal agencies and museums
 
-(1) If, pursuant to section 3003 of this title, the cultural affiliation of Native American human remains and associated funerary objects with aparticular Indian tribe or Native Hawaiian organization is established, then the Federal agency or museum, upon the request of a known lineal descendant of the Native American or of the tribe or organization and pursuant to subsections (b) and (e) of this section, shall expeditiously return such remains and associated funerary objects.
+(1) If, pursuant to section 3003 of this title, the cultural affiliation of Native American human remains and associated funerary objects with a particular Indian tribe or Native Hawaiian organization is established, then the Federal agency or museum, upon the request of a known lineal descendant of the Native American or of the tribe or organization and pursuant to subsections (b) and (e) of this section, shall expeditiously return such remains and associated funerary objects.
 
-(2) If, pursuant to section 3004 of this title, the cultural affiliation with a particular Indian tribe or Native Hawaiian organization is shown with respect to unassociated funerary objects, sacred objects or objects of cultural patrimony, then the Federal agency or museum, upon the request of the Indian tribe or Native Hawaiian organization and pursuant to subsections (b), (c) and (e) of this section, shall expeditiously return such objects.
+(2) If, pursuant to section 3004 of this title, the cultural affiliation with a particular Indian tribe or Native Hawaiian organization is shown with respect to unassociated funerary objects, sacred objects or objects of cultural patrimony, then the Federal agency or museum, upon the request of the Indian tribe or Native Hawaiian organization and pursuant to subsections (b), (c)and (e) of this section, shall expeditiously return such objects.
 
 (3) The return of cultural items covered by this chapter shall be in consultation with the requesting lineal descendant or tribe or organization to determine the place and manner of delivery of such items.
 

@@ -112,7 +112,7 @@ Subsec. (h)(6). Pub. L. 102–582, §201(b)(3), struck out par. (6) which read a
 
 Subsec. (h)(7). Pub. L. 102–582, §201(b)(4), redesignated par. (7) as (5).
 
-1988—Subsec. (h)(4). Pub. L. 100–711 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘fish products’ means fish and marine mammals and all products thereof taken by fishing vesselsof an offending country whether or not packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
+1988—Subsec. (h)(4). Pub. L. 100–711 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘fish products’ means fish and marine mammals and all products thereof taken by fishing vessels of an offending country whether or not packed, processed, or otherwise prepared for export in such country or within the jurisdiction thereof.”
 
 1979—Subsec. (a)(3), (4). Pub. L. 96–61, §3(b)(1), added par. (3) and redesignated former par. (3) as (4).
 

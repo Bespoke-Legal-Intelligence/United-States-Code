@@ -186,7 +186,7 @@ For purposes of this section:
 
 #### (A) Time of payment
 
-&emsp;&emsp;The entitlement of a qualified former spouse under paragraph (1) shall be effective on the date the divorce of the qualified former spouse and employee becomes final. The qualified former spouse's benefit shall be payable after the date on which the Director receives the divorce decree or any applicable court order or spousal agreement, together with such additional information or documentation as the Director may require.
+&emsp;&emsp;The entitlement of a qualified former spouse under paragraph (1) shall be effective on the date the divorce of the qualified former spouse and employee becomes final.The qualified former spouse's benefit shall be payable after the date on which the Director receives the divorce decree or any applicable court order or spousal agreement, together with such additional information or documentation as the Director may require.
 
 #### (B) Method of payment
 

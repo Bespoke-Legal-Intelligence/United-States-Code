@@ -52,11 +52,15 @@
 | [417\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000417%20-%20Directors%20and%20staff.md) | Directors and staff. |
 | (a) | Appointment and qualifications. |
 | (b) | Application of civil service laws to appointment and fixing pay. |
-| (c) | Term of Director. |
+| (c) | Terms of Directors. |
 | (d) | Duties of Directors. |
 | (e) | Staff. |
 | (f) | Annual evaluation of Directors. |
-| [418\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000418%20-%20Inspection%20by%20Inspector%20General%20of%20Department%20of%20Defense.md) | Inspection by Inspector General of Department of Defense. |
+| (g) | Definitions. |
+| [418\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000418%20-%20Inspection%20of%20Retirement%20Home.md) | Inspection of Retirement Home. |
+| (a) | Triennial inspection. |
+| (b) | Alternating duty among Inspectors General. |
+| (c) | Reports. |
 | [419\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000419%20-%20Retirement%20Home%20Trust%20Fund.md) | Retirement Home Trust Fund. |
 | (a) | Establishment. |
 | (b) | Availability and use of Fund. |

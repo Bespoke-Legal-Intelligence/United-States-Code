@@ -58,7 +58,7 @@ The Secretary may not make a grant under this section unless the applicant submi
 
 The Secretary shall make information concerning successful models developed under this part available to grantees under this subchapter for the purpose of coordination, replication, and integration. To facilitate efforts under this subsection, the Secretary may provide for peer-based technical assistance from grantees funded under this part.
 
-(July 1, 1944, ch. 373, title XXVI, §2691, as added May 20, 1996, Pub. L. 104–146, §3(g)(1), 110 Stat. 1362.)
+(July 1, 1944, ch. 373, title XXVI, §2691, as added Pub. L. 104–146, §3(g)(1), May 20, 1996, 110 Stat. 1362.)
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations—
+General Authority.—The Administrator of the Federal Aviation Administration maymake grants to institutions of higher education and nonprofit research organizations—
 
 &emsp;(1) to conduct aviation research related to the development of technologies and methods to assess the risk of, and prevent, defects, failures, and malfunctions of products, parts, processes, and articles manufactured for use in aircraft, aircraft engines, propellers, and appliances that could result in a catastrophic failure of an aircraft; and
 

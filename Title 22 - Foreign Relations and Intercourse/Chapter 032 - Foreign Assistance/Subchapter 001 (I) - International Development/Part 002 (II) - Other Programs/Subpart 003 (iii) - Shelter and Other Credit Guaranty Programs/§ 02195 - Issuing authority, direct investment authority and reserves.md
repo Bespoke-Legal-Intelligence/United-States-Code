@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 103–392, §104, struck out heading and text of subsec. (g
 
 Subsec. (a). Pub. L. 102–549, §104(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(1) The maximum contingent liability outstanding at any one time pursuant to insurance issued undersection 2194(a) of this title shall not exceed $7,500,000,000.
+“(1) The maximum contingent liability outstanding at any one time pursuant to insurance issued under section 2194(a) of this title shall not exceed $7,500,000,000.
 
 “(2) The maximum contingent liability outstanding at any one time pursuant to guaranties issued under section 2194(b) of this title shall not exceed in the aggregate $1,500,000,000. Commitments to guarantee loans are authorized for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 

@@ -20,7 +20,7 @@
 
 #### (5) Statements
 
-&emsp;An applicant for admission may be required to state under oath any information sought byan immigration officer regarding the purposes and intentions of the applicant in seeking admission to the United States, including the applicant's intended length of stay and whether the applicant intends to remain permanently or become a United States citizen, and whether the applicant is inadmissible.
+&emsp;An applicant for admission may be required to state under oath any information sought by an immigration officer regarding the purposes and intentions of the applicant in seeking admission to the United States, including the applicant's intended length of stay and whether the applicant intends to remain permanently or become a United States citizen, and whether the applicant is inadmissible.
 
 #### (b) Inspection of applicants for admission
 
@@ -64,7 +64,7 @@
 
 #### (II) Record of determination
 
-&emsp;&emsp;&emsp;&emsp;The officer shall prepare a written record of a determination under subclause (I). Such record shall include a summary of the material facts as stated by the applicant, such additional facts (if any) relied upon by the officer, and the officer's analysis of why, in the light of such facts, the alien has not established a credible fear of persecution. A copy of the officer's interview notes shall be attached to the written summary.
+&emsp;&emsp;&emsp;&emsp;The officer shall prepare a written record of a determination under subclause (I). Such record shall include asummary of the material facts as stated by the applicant, such additional facts (if any) relied upon by the officer, and the officer's analysis of why, in the light of such facts, the alien has not established a credible fear of persecution. A copy of the officer's interview notes shall be attached to the written summary.
 
 #### (III) Review of determination
 
@@ -80,7 +80,7 @@
 
 #### (v) “Credible fear of persecution” defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “credible fear of persecution” meansthat there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim and such other facts as are known to the officer, that the alien could establish eligibility for asylum under section 1158 of this title.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “credible fear of persecution” means that there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim and such other facts as are known to the officer, that the alien could establish eligibility for asylum under section 1158 of this title.
 
 #### (C) Limitation on administrative review
 
@@ -160,7 +160,7 @@
 
 #### (1) Authority to search conveyances
 
-&emsp;Immigration officers are authorized to board and search any vessel, aircraft, railway car, orother conveyance or vehicle in which they believe aliens are being brought into the United States.
+&emsp;Immigration officers are authorized to board and search any vessel, aircraft, railway car, or other conveyance or vehicle in which they believe aliens are being brought into the United States.
 
 #### (2) Authority to order detention and delivery of arriving aliens
 
@@ -180,7 +180,7 @@
 
 &emsp;(B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(11), 104 Stat. 5083; Apr. 24, 1996, Pub. L. 104–132, title IV, §§422(a), 423(b), 110 Stat. 1270, 1272; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), 110 Stat. 3009–579, 3009–619, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon written application of the State of Washington (in this section referred to as the “State”) and after the approval of such application by the Secretary, the State may conduct a Family Independence Demonstration Project (in this section referred to as the “Project”) in all or in part of the State in accordance with this section to determine whether the Project, as an alternative to providing benefits under the food stamp program, would more effectively break the cycle of poverty and would provide families with opportunities for economic independence and strengthened family functioning.
+Upon written application of the State of Washington (in this section referred to as the“State”) and after the approval of such application by the Secretary, the State may conduct a Family Independence Demonstration Project (in this section referred to as the “Project”) in all or in part of the State in accordance with this section to determine whether the Project, as an alternative to providing benefits under the food stamp program, would more effectively break the cycle of poverty and would provide families with opportunities for economic independence and strengthened family functioning.
 
 #### (b) Nature of Project
 
@@ -54,7 +54,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;&emsp;(II) otherwise establish criteria and verification standards for representation under this clause.
 
-&emsp;&emsp;(v) The State shall provide a method for reviewing applications to participate in the Project submitted by, and distributing food assistance under the Project to, individuals who do not reside in permanent dwellings or who have no fixed mailing address. In carrying out the preceding sentence, the State shall take such steps as are necessary to ensure that participation in the Project is limited to eligible individuals.
+&emsp;&emsp;(v) The State shall provide a method for reviewing applications to participate in theProject submitted by, and distributing food assistance under the Project to, individuals who do not reside in permanent dwellings or who have no fixed mailing address. In carrying out the preceding sentence, the State shall take such steps as are necessary to ensure that participation in the Project is limited to eligible individuals.
 
 &emsp;(3) An assurance that the State will allow any individual to apply to participate in the food stamp program without applying to participate in the Project.
 
@@ -124,7 +124,7 @@ For purposes of any other Federal, State or local law—
 
 &emsp;(1) cash assistance provided under the Project that represents food assistance shall be treated in the same manner as coupons provided under the food stamp program are treated; and
 
-&emsp;(2) participants in the program who receive food assistance under the Project shall be treated in the same manner as recipients of coupons under the food stamp program are treated.
+&emsp;(2) participants in the program who receive food assistance under the Project shall be treated in the same manner as recipients ofcoupons under the food stamp program are treated.
 
 #### (g) Project audits
 

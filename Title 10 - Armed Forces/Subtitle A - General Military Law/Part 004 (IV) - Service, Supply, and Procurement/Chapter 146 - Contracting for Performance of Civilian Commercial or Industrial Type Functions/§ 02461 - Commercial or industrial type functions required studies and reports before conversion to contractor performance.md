@@ -2,53 +2,93 @@
 
 (a)
 
-Required Notice to Congress.—A commercial or industrial type function of the Department of Defense that on October 1, 1980, was being performed by Department of Defense civilian employees may not be converted to performance by a private contractor unless the Secretary of Defense provides to Congress in a timely manner—
-
-&emsp;(1) notification of any decision to study such function for possible performance by a private contractor and the anticipated length and cost of the study;
-
-&emsp;(2) a detailed summary of a comparison of the cost of performance of such function by Department of Defense civilian employees and by private contractor which demonstrates that the performance of such function by a private contractor will result in a cost savings to the Government over the life of the contract and a certification that the entire cost comparison is available;
-
-&emsp;(3) a certification that the Government calculation for the cost of performance of such function by Department of Defense civilian employees is based on an estimate of the most efficient and cost effective organization for performance of such function by Department of Defense civilian employees; and
-
-&emsp;(4) a report, to be submitted with the certification required by paragraph (3), showing—
-
-&emsp;&emsp;(A) the potential economic effect on employees affected, and the potential economic effect on the local community and Federal Government if more than 75 employees are involved, of contracting for performance of such function;
-
-&emsp;&emsp;(B) the effect of contracting for performance of such function on the military mission of such function; and
-
-&emsp;&emsp;(C) the amount of the bid accepted for the performance of such function by the private contractor whose bid is accepted and the cost of performance of such function by Department of Defense civilian employees, together with costs and expenditures which the Government will incur because of the contract.
+Reporting and Analysis Requirements as Precondition to Change in Performance.—A commercial or industrial type function of the Department of Defense that, as of October 1, 1980, was being performed by Department of Defense civilian employees may not be changed to performance by the private sector until the Secretary of Defense fully complies with the reporting and analysis requirements specified in subsections (b) and (c).
 
 (b)
 
-Congressional Notification of Decision To Convert.—If, after completion of the studiesrequired for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance.
+Notification and Elements of Analysis.—(1) Before commencing to analyze a commercial or industrial type function described in subsection (a) for possible change to performance by the private sector, the Secretary of Defense shall submit to Congress a report containing the following:
+
+&emsp;(A) The function to be analyzed for possible change.
+
+&emsp;(B) The location at which the function is performed by Department of Defense civilian employees.
+
+&emsp;(C) The number of civilian employee positions potentially affected.
+
+&emsp;(D) The anticipated length and cost of the analysis.
+
+&emsp;(E) A certification that a proposed performance of the commercial or industrial type function by persons who are not civilian employees of the Department of Defense is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
+
+(2) The duty to prepare a report under paragraph (1) may be delegated. A report prepared below the major command or claimant level of a military department, or below the equivalent level in a Defense Agency, pursuant to any such delegation shall be reviewed at the major command, claimant level, or equivalent level, as the case may be, before submission to Congress.
+
+(3) An analysis of a commercial or industrial type function for possible change to performance by the private sector shall include the following:
+
+&emsp;(A) An examination of the cost of performance of the function by Department of Defense civilian employees and by one or more private contractors to demonstrate whether change to performance by the private sector will result in savings to the Government over the life of the contract, including in the examination the following:
+
+&emsp;&emsp;(i) The cost to the Government, estimated by the Secretary of Defense (based on offersreceived), for performance of the function by the private sector.
+
+&emsp;&emsp;(ii) The estimated cost to the Government of Department of Defense civilian employees performing the function.
+
+&emsp;&emsp;(iii) In addition to the costs referred to in clause (i), an estimate of all other costs and expenditures that the Government would incur because of the award of such a contract.
+
+&emsp;(B) An examination of the potential economic effect of performance of the function by the private sector on the following:
+
+&emsp;&emsp;(i) Employees of the Department of Defense who would be affected by such a change in performance.
+
+&emsp;&emsp;(ii) The local community and the Government, if more than 75 employees of the Department of Defense perform the function.
+
+&emsp;(C) An examination of the effect of performance of the function by the private sector on the military mission associated with the performance of the function.
+
+(4)(A) A representative individual or entity at a facility where a commercial or industrial type function is analyzed for possible change in performance may submit to the Secretary of Defense an objection to the analysis on the grounds that the report required by paragraph (1) has not been submitted or that the certification required by paragraph (1)(E) is not included in the report submitted as a condition for the analysis. The objection shall be in writing and shall be submitted within 90 days after the following date:
+
+&emsp;(i) In the case of a failure to submit the report when required, the date on which the representative individual or an official of the representative entity authorized to pose the objection first knew or should have known of that failure.
+
+&emsp;(ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
+
+(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the commercial or industrial type function covered by the analysis to which objected may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
 
 (c)
 
-Annual Reports.—Not later than February 1 of each fiscal year, the Secretary of Defense shall submit to Congress a written report describing the extent to which commercial and industrial type functions were performed by Department of Defense contractors during the preceding fiscal year. The Secretary shall include in each such report an estimate of the percentage of commercial and industrial type functions of the Department of Defense that will be performed by Department of Defense civilian employees, and the percentage of such functions that will be performed by private contractors, during the fiscal year during which the report is submitted.
+Notification of Decision.—(1) If, as a result of the completion of the examinations under subsection (b)(3), a decision is made to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, the Secretary of Defense shall submit to Congress a report describing that decision. The report shall contain the following:
+
+&emsp;(A) An indication that the examinations required under subsection (b)(3) have been completed.
+
+&emsp;(B) The Secretary's certification that the Government calculation of the cost of performance of the function by Department of Defense civilian employees is based on an estimate of the most cost effective manner for performance of the function by Department of Defense civilian employees.
+
+&emsp;(C) The Secretary's certification that the examination required by subsection (b)(3)(A) as part of the analysis demonstrates that the performance of the function by the private sector will result in savings to the Government over the life of the contract.
+
+&emsp;(D) The Secretary's certification that the entire analysis is available for examination.
+
+&emsp;(E) A schedule for completing the change to performance of the function by the private sector.
+
+(2) The change of the function to contractor performance may not begin until after the submission of the report required by this subsection.
 
 (d)
 
-Waiver for Small Functions.—Subsections (a) through (c) shall not apply to a commercial or industrial type function of the Department of Defense that is being performed by 20 or fewer Department of Defense civilian employees.
+Waiver for Small Functions.—Subsections (a) through (c) and subsection (g) shall not apply to a commercial or industrial type function of the Department of Defense that is being performed by 50 or fewer Department of Defense civilian employees.
 
 (e)
 
-Waiver for the Purchase of Products and Services of the Blind and Other Severely Handicapped Persons.—Subsections (a) through (c) shall not apply to a commercial or industrial type function of the Department of Defense that—
+Waiver for the Purchase of Products and Services of the Blind and Other Severely Handicapped Persons.—Subsections (a) through (c) and subsection (g) shall not apply to a commercial or industrial type function of the Department of Defense that—
 
 &emsp;(1) is included on the procurement list established pursuant to section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47); or
 
-&emsp;(2) is planned to be converted to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.
+&emsp;(2) is planned to be changed to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped persons in accordance with that Act.
 
 (f)
 
-Additional Limitations.—(1) A commercial or industrial type function of the Department of Defense that on October 1, 1980, was being performed by Department of Defense civilian employees may not be converted to performance by a private contractor to circumvent a civilian personnel ceiling.
+Additional Limitations.—(1) A commercial or industrial type function of the Department of Defense that on October 1, 1980, was being performed by Department of Defense civilian employees may not be changed to performance by a private contractor to circumvent a civilian personnel ceiling.
 
-(2) In no case may a commercial or industrial type function being performed by Department of Defense personnel be modified, reorganized, divided, or in any way changed for the purpose of exempting from the requirements of subsection (a) the conversion of all or any part of such function to performance by a private contractor.
+(2) In no case may a commercial or industrial type function being performed by Department of Defense personnel be modified, reorganized, divided, or in any way changed for the purpose of exempting from the requirements of subsection (a) the change of all or any part of such function to performance by a private contractor.
 
 (g)
 
-Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
+Annual Reports.—Not later than February 1 of each fiscal year, the Secretary of Defense shall submit to Congress a written report describing the extent to which commercial and industrial type functions were performed by Department of Defense contractors during the preceding fiscal year. The Secretary shall include in each such report an estimate of the percentage of commercial and industrial type functions of the Department of Defense that will be performed by Department of Defense civilian employees, and the percentage of such functions that will be performed by private contractors, during the fiscal year during which the report is submitted.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711.)
+(h)
+
+Inapplicability During War or Emergency.—The provisions of this section shall notapply during war or during a period of national emergency declared by the President or Congress.
+
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976.)
 
 #### Historical and Revision Notes
 
@@ -60,6 +100,20 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (e), is act June 25, 1938, c
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–261, §342(a)(2), added subsec. (a) and struck out former subsec. (a) which provided that commercial or industrial type functions of the Department of Defense that on Oct. 1, 1980, were being performed by Department of Defense civilian employees could not be converted to performance by private contractors unless the Secretary of Defense provided certain notices, information, certifications, and reports to Congress.
+
+Subsec. (b). Pub. L. 105–261, §342(a)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If, after completion of the studies required for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance.”
+
+Subsec. (c). Pub. L. 105–261, §342(a)(2), added subsec. (c). Former subsec. (c) redesignated (g).
+
+Subsec. (d). Pub. L. 105–261, §342(b), (c)(1), substituted “50” for “20” and inserted “and subsection (g)” after “Subsections (a) through (c)”.
+
+Subsec. (e). Pub. L. 105–261, §342(c)(1), (2), inserted “and subsection (g)” after “Subsections (a) through (c)” in introductory provisions and substituted “changed” for “converted” in par. (2).
+
+Subsec. (f). Pub. L. 105–261, §342(c)(2), (3), substituted “changed” for “converted” in par. (1) and “change” for “conversion” in par. (2).
+
+Subsecs. (g), (h). Pub. L. 105–261, §342(a)(1), redesignated subsecs. (c) and (g) as (g) and (h), respectively.
+
 1997—Subsec. (a)(1). Pub. L. 105–85, §384(a), inserted “and the anticipated length and cost of the study” before semicolon at end.
 
 Subsec. (b). Pub. L. 105–85, §384(b), inserted at end “The notification shall include the timetable for completing conversion of the function to contractor performance.”
@@ -70,13 +124,17 @@ Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45
 
 1989—Subsecs. (e) to (g). Pub. L. 101–189 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\], but the amendments shall not apply with respect to a conversion of a function of the Department of Defense to performance by a private contractor concerning which the Secretary of Defense provided to Congress, before the date of the enactment of this Act, a notification under paragraph (1) of section 2461(a) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act.”
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations
 
-Section 389 of Pub. L. 105–85 provided that:
+Section 389 of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title X, §1069(b)(1), Oct. 17, 1998, 112 Stat. 2136, provided that:
 
 “(a)
 
@@ -96,7 +154,7 @@ Incentive for Use.—Beginning not later than October 1, 1998, if a standard per
 
 “(e)
 
-Exclusion of Multifunction Conversion.—If a commercial service or function for which a standardform is developed under subsection (a) is combined with another service or function (for which such a form has not yet been developed) for purposes of considering the services and functions at the military installation for conversion to contractor performance, a standard performance work statement or a standard request for a proposal developed under subsection (a) may not be used in the conversion process in lieu of the procedures and requirements of Office of Management and Budget Circular A–76.
+Exclusion of Multifunction Conversion.—If a commercial service or function for which a standard form is developed under subsection (a) is combined with another service or function (for which such a form has not yet been developed) for purposes of considering the services and functions at the military installation for conversion to contractor performance, a standard performance work statement or a standard request for a proposal developed under subsection (a) may not be used in the conversion process in lieu of the procedures and requirements of Office of Management and Budget Circular A–76.
 
 “(f)
 
@@ -104,11 +162,13 @@ Effect on Other Laws.—Nothing in this section shall be construed to supersede 
 
 “(g)
 
-GAO Report.—Not later than June 1, 1999, the Secretary of Defense shall submit to Congress a report reviewing the implementation of this section.
+GAO Report.—Not later than June 1, 1999, the Comptroller General shall submit to Congress a report reviewing the implementation of this section.
 
 “(h)
 
 Military Installation Defined.—For purposes of this section, the term ‘military installation’ means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility.”
+
+\[Pub. L. 105–261, div. A, title X, §1069(b), Oct. 17, 1998, 112 Stat. 2136, provided that the amendment made by that section to section 389 of Pub. L. 105–85, set out above, is effective as of Nov. 18, 1997, and as if included in the National Defense Authorization Act for Fiscal Year 1998, Pub. L. 105–85, as enacted.\]
 
 #### Private-Sector Operation of Certain Payroll, Finance, and Accounting Functions of Department of Defense; Plan; Report
 
@@ -182,7 +242,7 @@ Program Requirements.—(1) Under the demonstration program, the Secretary shall
 
 “(c)
 
-Audit Requirements.—In conducting an audit under the demonstration program, a contractor shallcompare Department of Defense purchase agreements (and related documents) with invoices submitted by vendors under the purchase agreements. A purpose of the comparison is to identify, in the case of each audited purchase agreement, the following:
+Audit Requirements.—In conducting an audit under the demonstration program, a contractor shall compare Department of Defense purchase agreements (and related documents) with invoices submitted by vendors under the purchase agreements. A purpose of the comparison is to identify, in the case of each audited purchase agreement, the following:
 
 &emsp;“(1) Any payments to the vendor for costs that are not allowable under the terms of the purchase agreement or by law.
 
@@ -292,7 +352,7 @@ Regulations.—The Secretary shall prescribe regulations to carry out this secti
 
 Report.—(1) The Secretary shall identify activities of the Department (other than activities specified by the Secretary pursuant to subsection (b)) that are carried out by employees of the Department to provide commercial-type products or services for the Department.
 
-“(2) Not later than April 15, 1996, the Secretary shall transmit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and on Appropriations of the House of Representatives\] a report on opportunities for increased use of private-sector sources to provide commercial products and services for the Department.
+“(2) Not later than April 15, 1996, the Secretary shall transmit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and Appropriations of the House of Representatives\] a report on opportunities for increased use of private-sector sources to provide commercial products and services for the Department.
 
 “(3) The report required by paragraph (2) shall include the following:
 

@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) whose business is conducted by a general agent of the Secretary of Commerce;
 
-> &emsp;&emsp;if contributions on account of the service are required to be made to an unemploymentfund under a State unemployment compensation law under section 3305(g) of title 26;
+> &emsp;&emsp;if contributions on account of the service are required to be made to an unemployment fund under a State unemployment compensation law under section 3305(g) of title 26;
 
 &emsp;(2) “Federal wages” means all pay and allowances, in cash and in kind, for Federal service;
 

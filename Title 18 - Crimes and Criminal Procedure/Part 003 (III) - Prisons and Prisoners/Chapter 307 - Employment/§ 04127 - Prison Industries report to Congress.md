@@ -2,7 +2,7 @@
 
 The board of directors of Federal Prison Industries shall submit an annual report to the Congress on the conduct of the business of the corporation during each fiscal year, and on the condition of its funds during such fiscal year. Such report shall include a statement of the amount of obligations issued under section 4129(a)(1) during such fiscal year, and an estimate of the amount of obligations that will be so issued in the following fiscal year.
 
-(June 25, 1948, ch. 645, 62 Stat. 852; Nov. 18, 1988, Pub. L. 100–690, title VII, §7095, 102 Stat. 4413.)
+(June 25, 1948, ch. 645, 62 Stat. 852; Pub. L. 100–690, title VII, §7095, Nov. 18, 1988, 102 Stat. 4413.)
 
 #### Historical and Revision Notes
 

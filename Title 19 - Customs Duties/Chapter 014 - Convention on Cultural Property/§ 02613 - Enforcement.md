@@ -1,6 +1,6 @@
 ### §2613. Enforcement
 
-In the customs territory of the United States, and in the Virgin Islands, the provisions of this chapter shall be enforced by appropriate customs officers. In any other territory or area within the United States, but not within such customs territory or the Virgin Islands, such provisions shall be enforced by such persons as may be designated by the President.
+In the customs territory of the United States, and in the Virgin Islands, the provisions of thischapter shall be enforced by appropriate customs officers. In any other territory or area within the United States, but not within such customs territory or the Virgin Islands, such provisions shall be enforced by such persons as may be designated by the President.
 
 (Pub. L. 97–446, title III, §314, Jan. 12, 1983, 96 Stat. 2363.)
 

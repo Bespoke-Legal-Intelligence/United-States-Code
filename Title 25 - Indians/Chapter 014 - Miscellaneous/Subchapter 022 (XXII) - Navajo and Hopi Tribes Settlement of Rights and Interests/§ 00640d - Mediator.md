@@ -26,7 +26,7 @@ The Mediator may retain the services of such staff assistants and consultants as
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–180, §1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act \[amending sections 640d–11 and 640d–24 of this title and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 640d–11 of this title\] may be cited as the ‘Navajo-Hopi Relocation Housing Program Reauthorization Act of 1991’.”
+Pub. L. 102–180, §1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act \[amending sections 640d–11 and 640d–24of this title and section 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 640d–11 of this title\] may be cited as the ‘Navajo-Hopi Relocation Housing Program Reauthorization Act of 1991’.”
 
 #### Short Title of 1988 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 96–305, §1, July 8, 1980, 94 Stat. 929, provided: “That this Act \[
 
 #### Navajo-Hopi Land Dispute Settlement Act of 1996
 
-Pub. L. 104–301, Oct. 11, 1996, 110 Stat. 3649, provided that:
+Pub. L. 104–301, Oct. 11, 1996, 110 Stat. 3649, as amended by Pub. L. 105–256, §3, Oct. 14, 1998, 112 Stat. 1897, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -222,7 +222,7 @@ Water rights.—Subject to the other provisions of this section, newly acquired 
 
 &emsp;&emsp;“(B) All rights to the use of surface water on such lands existing under State law on the date of acquisition, with the priority date of such right under State law.
 
-&emsp;&emsp;“(C) The right to make any further beneficial use on such lands which is unappropriated on the date each parcel of newly acquired trust lands is taken into trust. The priority date for the right shall be the date the lands are taken into trust.
+&emsp;&emsp;“(C) The right to make any further beneficial use on such lands of surface water which is unappropriated on the date each parcel of newly acquired trust lands is taken into trust. The priority date for the right shall be the date the lands are taken into trust.
 
 &emsp;“(2)
 
@@ -234,7 +234,7 @@ Recognition as valid uses.—
 
 &emsp;“(1)
 
-Groundwater.—With respect to water rights associated with newly acquired trust lands, the Tribe, and the United States on the Tribe's behalf, shall recognize as valid all uses of groundwater which may be made from wells (or their subsequent replacements) in existence on the date each parcel of newly acquired trust land is acquired and shall not object to suchgroundwater uses on the basis of water rights associated with the newly acquired trust lands. The Tribe, and the United States on the Tribe's behalf, may object only to the impact of groundwater uses on newly acquired trust lands which are initiated after the date the lands affected are taken into trust and only on grounds allowed by the State law as it exists when the objection is made. The Tribe, and the United States on the Tribe's behalf, shall not object to the impact of groundwater uses on the Tribe's right to surface water established pursuant to subsection (a)(3) when those groundwater uses are initiated before the Tribe initiates its beneficial use of surface water pursuant to subsection (a)(3).
+Groundwater.—With respect to water rights associated with newly acquired trust lands, the Tribe, and the United States on the Tribe's behalf, shall recognize as valid all uses of groundwater which may be made from wells (or their subsequent replacements) in existence on the date each parcel of newly acquired trust land is acquired and shall not object to such groundwater uses on the basis of water rights associated with the newly acquired trust lands. The Tribe, and the United States on the Tribe's behalf, may object only to the impact of groundwater uses on newly acquired trust lands which are initiated after the date the lands affected are taken into trust and only on grounds allowed by the State law as it exists when the objection is made. The Tribe, and the United States on the Tribe's behalf, shall not object to the impact of groundwater uses on the Tribe's right to surface water established pursuant to subsection (a)(1)(C) when those groundwater uses are initiated before the Tribe initiates its beneficial use of surface water pursuant to subsection (a)(1)(C).
 
 &emsp;“(2)
 

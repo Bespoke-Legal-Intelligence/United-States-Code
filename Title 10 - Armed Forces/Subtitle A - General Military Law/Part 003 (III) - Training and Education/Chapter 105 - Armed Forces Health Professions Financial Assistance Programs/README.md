@@ -1,11 +1,6 @@
 ### <b>CHAPTER 105—ARMED FORCES HEALTH PROFESSIONS FINANCIAL ASSISTANCE PROGRAMS</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Health%20Professions%20Scholarship%20and%20Financial%20Assistance%20Program%20for%20Active%20Service/README.md) | <b>Health Professions Scholarship and Financial Assistance Program for Active Service</b> | <b>2120</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Nurse%20Officer%20Candidate%20Accession%20Program/README.md) | <b>Nurse Officer Candidate Accession Program</b> | <b>2130a</b> |

@@ -2,7 +2,7 @@
 
 (a)(1) There are authorized to be appropriated to the Secretary of the Interior (hereafter in this subchapter referred to as the “Secretary”) funds adequate to provide for each participating State $400,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994, to assist the States in carrying on the work of a competent and qualified mining and mineral resources research institute or center (hereafter in this subchapter referred to as the “institute”) at one public college or university in the State which meets the eligibility criteria established in section 1230 of this title.
 
-(2)(A) Funds appropriated under this section shall be made available for grants to be matched on a basis of no less than 2 non-Federal dollars for each Federal dollar.
+(2)(A) Funds appropriated under this section shall be made available for grants to be matchedon a basis of no less than 2 non-Federal dollars for each Federal dollar.
 
 (B) If there is more than one such eligible college or university in a State, funds appropriated under this subchapter shall, in the absence of a designation to the contrary by act of the legislature of the State, be granted to one such college or university designated by the Governor of the State.
 

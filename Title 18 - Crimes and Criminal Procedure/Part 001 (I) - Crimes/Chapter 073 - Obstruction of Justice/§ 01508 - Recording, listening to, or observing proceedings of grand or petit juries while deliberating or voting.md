@@ -10,7 +10,7 @@ Whoever knowingly and willfully, by any means or device whatsoever—
 
 Nothing in paragraph (a) of this section shall be construed to prohibit the taking of notes by a grand or petit juror in any court of the United States in connection with and solely for the purpose of assisting him in the performance of his duties as such juror.
 
-(Added Aug. 2, 1956, ch. 879, §1, 70 Stat. 935; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(f)(13), 110 Stat. 3500.)
+(Added Aug. 2, 1956, ch. 879, §1, 70 Stat. 935; amended Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §601(f)(13), Oct. 11, 1996, 110 Stat. 3500.)
 
 #### Amendments
 

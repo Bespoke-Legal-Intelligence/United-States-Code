@@ -26,7 +26,7 @@ Prior Certification.—The Administrator may authorize an aircraft, aircraft eng
 
 (d)
 
-Delegation.—(1) Subject to regulations, supervision, and review the Administrator mayprescribe, the Administrator may delegate to a qualified private person, or to an employee under the supervision of that person, a matter related to—
+Delegation.—(1) Subject to regulations, supervision, and review the Administrator may prescribe, the Administrator may delegate to a qualified private person, or to an employee under the supervision of that person, a matter related to—
 
 &emsp;(A) the examination, testing, and inspection necessary to issue a certificate under this chapter; and
 

@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1952</b>—Act July 10, 1952, permitted Superintendent of Documents to sell reports under same terms as other Government publications.
+1952—Act July 10, 1952, permitted Superintendent of Documents to sell reports under same terms as other Government publications.
 
 #### Cross References
 

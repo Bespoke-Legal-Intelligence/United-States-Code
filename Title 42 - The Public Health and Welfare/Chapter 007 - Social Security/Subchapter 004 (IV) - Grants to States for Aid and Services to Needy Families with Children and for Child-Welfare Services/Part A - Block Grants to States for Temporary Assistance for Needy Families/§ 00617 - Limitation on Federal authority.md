@@ -2,7 +2,7 @@
 
 No officer or employee of the Federal Government may regulate the conduct of States under this part or enforce any provision of this part, except to the extent expressly provided in this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §417, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2159; amended Aug. 5, 1997, Pub. L. 105–33, title V, §5514(c), 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §417, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2159; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
 #### Prior Provisions
 

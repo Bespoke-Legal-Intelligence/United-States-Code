@@ -12,7 +12,7 @@ Ways To Remedy.—(1) Subject to subsections (f) and (g) of this section, when n
 
 &emsp;&emsp;(iii) by refunding the purchase price, less a reasonable allowance for depreciation.
 
-&emsp;(B) if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.
+&emsp;(B) if replacement equipment, by repairing the equipment or replacing the equipmentwith identical or reasonably equivalent equipment.
 
 (2) The Secretary of Transportation may prescribe regulations to allow the manufacturer to impose conditions on the replacement of a motor vehicle or refund of its price.
 
@@ -60,7 +60,7 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 (i)
 
-Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time ofnotification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
+Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
 
 &emsp;(A) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
 
@@ -68,7 +68,7 @@ Limitation on Sale or Lease.—(1) If notification is required by an order under
 
 (2) This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952; Pub. L. 105–178, title VII, §7106(a), June 9, 1998, 112 Stat. 467.)
 
 Historical and Revision Notes
 
@@ -183,6 +183,10 @@ In subsection (f), the word “fair” is substituted for “fair and equitable�
 In subsection (g)(2), the words “In the case of notification required by an order” are omitted as unnecessary. The word “civil” is added because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 In subsection (h), the words “any requirement under”, “or to remedy”, and “as it relates” are omitted as surplus. The words “The Secretary may take action under this subsection only” are added because of the restatement.
+
+#### Amendments
+
+1998—Subsec. (i)(1). Pub. L. 105–178 inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

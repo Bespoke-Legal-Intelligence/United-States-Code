@@ -4,9 +4,9 @@
 
 #### (1) In general
 
-&emsp;The accounts of the Foundation shall be audited in accordance with Public Law 88–504 (36 U.S.C. 1101 et seq.), including an audit of lobbying and litigation activities carried out by the Foundation.
+&emsp;The accounts of the Foundation shall be audited in accordance with section 10101 of title 36, including an audit of lobbying and litigation activities carried out by the Foundation.
 
-#### (2) Omitted
+#### (2) Repealed. Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499
 
 #### (b) Relief with respect to certain Foundation acts or failure to act
 
@@ -16,13 +16,13 @@ The Attorney General may petition in the United States District Court for the Di
 
 &emsp;(2) refuses, fails, neglects, or threatens to refuse, fail, or neglect, to discharge the obligations of the Foundation under this chapter.
 
-(Pub. L. 104–127, title III, §358, Apr. 4, 1996, 110 Stat. 1014.)
-
-#### References in Text
-
-Public Law 88–504, referred to in subsec. (a)(1), is Pub. L. 88–504, Aug. 30, 1964, 78 Stat. 635, as amended, which is classified principally to chapter 42 (§1101 et seq.) of Title 36, Patriotic Societies and Observances. For complete classification of this Act to the Code, see Tables.
+(Pub. L. 104–127, title III, §358, Apr. 4, 1996, 110 Stat. 1014; Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499.)
 
 #### Codification
 
-Section is comprised of section 358 of Pub. L. 104–127. Subsec. (a)(2) of section 358 of Pub. L. 104–127 amended section 1101 of Title 36, Patriotic Societies and Observances.
+“Section 10101 of title 36” substituted in subsec. (a)(1) for “Public Law 88–504 (36 U.S.C. 1101 et seq.)” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+
+#### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–225 repealed par. (2) which amended section 1101(77) of former title 36.
 

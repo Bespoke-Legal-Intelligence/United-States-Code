@@ -4,7 +4,7 @@ Whoever, willfully and without authority, sets on fire any timber, underbrush, o
 
 This section shall not apply in the case of a fire set by an allottee in the reasonable exercise of his proprietary rights in the allotment.
 
-(June 25, 1948, ch. 645, 62 Stat. 788; Nov. 18, 1988, Pub. L. 100–690, title VI, §6254(j), 102 Stat. 4368.)
+(June 25, 1948, ch. 645, 62 Stat. 788; Pub. L. 100–690, title VI, §6254(j), Nov. 18, 1988, 102 Stat. 4368.)
 
 #### Historical and Revision Notes
 

@@ -6,7 +6,7 @@ After August 2, 1954, (i) the Secretary shall not enter into contracts for insur
 
 The insurance authority provided under this section may be made available with respect to any existing manufactured home that has not been insured under this section if such home was constructed in accordance with the standards issued under the National Manufactured Housing Construction and Safety Standards Act of 1974 \[42 U.S.C. 5401 et seq.\] and it meets standards similar to the minimum property standards applicable to existing homes insured under subchapter II of this chapter.
 
-Alterations, repairs, and improvements upon or in connection with existing structures may include the provision of fire safety equipment, energy conserving improvements, or the installation of solar energy systems. Alterations, repairs, and improvements upon or in connection with existing structures may also include the evaluation and reduction of lead-based paint hazards. As used in this section—
+Alterations, repairs, and improvements upon or in connection with existing structures may include the provision of fire safety equipment, energy conserving improvements, or the installation of solar energy systems. Alterations, repairs, and improvements upon or in connection with existing structures may also include theevaluation and reduction of lead-based paint hazards. As used in this section—
 
 &emsp;(1) the term “fire safety equipment” means any device or facility which is designed to reduce the risk of personal injury or property damage resulting from fire and is in conformity with such criteria and standards as shall be prescribed by the Secretary;
 
@@ -52,7 +52,7 @@ Alterations, repairs, and improvements upon or in connection with existing struc
 
 &emsp;(F) fifteen years and thirty-two days if made for the purpose of financing the preservation of an historic structure;
 
-&emsp;(G) such term to maturity as the Secretary may prescribe if made for the purpose of financing the construction of a new structurefor use in whole or in part for agricultural purposes; and
+&emsp;(G) such term to maturity as the Secretary may prescribe if made for the purpose of financing the construction of a new structure for use in whole or in part for agricultural purposes; and
 
 &emsp;(H) such term to maturity as the Secretary may prescribe if made for the purpose of financing fire safety equipment for a nursing home, extended health care facility, intermediate health care facility, or other comparable health care facility.
 
@@ -80,7 +80,7 @@ Alterations, repairs, and improvements upon or in connection with existing struc
 
 (d) The Secretary is authorized and empowered, under such regulations as he may prescribe, to transfer to any such approved financial institution any insurance in connection with any loans and advances of credit which may be sold to it by another approved financial institution.
 
-(e) The Secretary is authorized to waive compliance with regulations heretofore or hereafter prescribed by him with respect to the interest and maturity of and the terms, conditions, andrestrictions under which loans, advances of credit, and purchases may be insured under this section and section 1706a <sup>4</sup> of this title, if in his judgment the enforcement of such regulations would impose an injustice upon an insured institution which has substantially complied with such regulations in good faith and refunded or credited any excess charge made, and where such waiver does not involve an increase of the obligation of the Secretary beyond the obligation which would have been involved if the regulations had been fully complied with.
+(e) The Secretary is authorized to waive compliance with regulations heretofore or hereafter prescribed by him with respect to the interest and maturity of and the terms, conditions, and restrictions under which loans, advances of credit, and purchases may be insured under this section and section 1706a <sup>4</sup> of this title, if in hisjudgment the enforcement of such regulations would impose an injustice upon an insured institution which has substantially complied with such regulations in good faith and refunded or credited any excess charge made, and where such waiver does not involve an increase of the obligation of the Secretary beyond the obligation which would have been involved if the regulations had been fully complied with.
 
 (f) The Secretary shall fix a premium charge for the insurance hereafter granted under this section, but in the case of any obligation representing any loan, advance of credit, or purchase, such premium charge shall not exceed an amount equivalent to 1 per centum per annum of the net proceeds of such loan, advance of credit, or purchase, for the term of such obligation, and such premium charge shall be payable in advance by the financial institution and shall be paid at such time and in such manner as may be prescribed by the Secretary.
 
@@ -324,7 +324,7 @@ Subsec. (f). Act Oct. 15, 1943, §4, struck out “three-fourths of” before �
 
 1941—Subsec. (a). Act June 28, 1941, §§1, 2, substituted “July 1, 1943” for “July 1, 1941” in first sentence; inserted “and other sources” after “premiums”; and substituted “$165,000,000” for “$100,000,000”.
 
-Subsec. (b). Act June 28, 1941, §3, substituted “made for the purpose of financing the alteration, repair, or improvement of existing structures exceeds $2,500 (or in the case of the alteration, repair, or improvement of an existing dwelling designed or to be designed for more than one family, exceeds $5,000), or for the purpose of financing the construction of new structures exceeds$3,000” for “exceeds $2,500”; substituted in cl. (2) “where the loan, advance of credit, or purchase does not exceed $2,500, or has a maturity in excess of five years and thirty-two days, where the loan, advance of credit, or purchase exceeds $2,500 but does not exceed $5,000; except that such maturity limitations shall not apply if” for “unless”; and inserted proviso at end.
+Subsec. (b). Act June 28, 1941, §3, substituted “made for the purpose of financing the alteration, repair, or improvement of existing structures exceeds $2,500 (or in the case of the alteration, repair, or improvement of an existing dwelling designed or to be designed for more than one family, exceeds $5,000), or for the purpose of financing the construction of new structures exceeds $3,000” for “exceeds $2,500”; substituted in cl. (2) “where the loan, advance of credit, or purchase does not exceed $2,500, or has a maturity in excess of five years and thirty-two days, where the loan, advance of credit, or purchase exceeds $2,500 but does not exceed $5,000; except that such maturity limitations shall not apply if” for “unless”; and inserted proviso at end.
 
 Subsec. (c). Act June 28, 1941, §4, designated existing provisions as par. (1), inserted “personal” before “property”, and added par. (2).
 

@@ -10,7 +10,7 @@ Except as otherwise provided by this section, any debt collector who fails to co
 
 &emsp;(B) in the case of a class action, (i) such amount for each named plaintiff as could be recovered under subparagraph (A), and (ii) such amount as the court may allow for all other class members, without regard to a minimum individual recovery, not to exceed the lesser of $500,000 or 1 per centum of the net worth of the debt collector; and
 
-&emsp;(3) in the case of any successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney's fee as determined by the court. On a finding by the court that an action under this section was brought in bad faith and for the purpose of harassment, the court may award to the defendant attorney's fees reasonable in relation to the work expended and costs.
+&emsp;(3) in the case of any successful action to enforce the foregoing liability, the costs of theaction, together with a reasonable attorney's fee as determined by the court. On a finding by the court that an action under this section was brought in bad faith and for the purpose of harassment, the court may award to the defendant attorney's fees reasonable in relation to the work expended and costs.
 
 #### (b) Factors considered by court
 

@@ -2,47 +2,15 @@
 
 (a)
 
-Reporting System and Uniform System of Accounts and Records.—(1) To help meet the needs of individual mass transportation systems, the United States Government, State and local governments, and the public for information on which to base mass transportation service planning, the Secretary of Transportation shall maintain a reporting system, by uniform categories, to accumulate mass transportation financial and operating information and a uniform system of accounts and records. The reporting and uniform systems shall contain appropriate information to help any level of government make a public sector investment decision. The Secretary may request and receive appropriate information from any source.
+National Transit Database.—(1) To help meet the needs of individual mass transportation systems, the United States Government, State and local governments, and the public for information on which to base mass transportation service planning, the Secretary of Transportation shall maintain a reporting system, using uniform categories to accumulate mass transportation financial and operating information and using a uniform system of accounts. The reporting and uniform systems shall contain appropriate information to help any level of government make a public sector investment decision. The Secretary may request and receive appropriate information from any source.
 
 (2) The Secretary may make a grant under section 5307 of this title only if the applicant, and any person that will receive benefits directly from the grant, are subject to the reporting and uniform systems.
 
 (b)
 
-Quarterly Reports.—Not later than 30 days after the last day of each calendar quarter, the Secretary shall submit to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate a report on—
+Biennial Transferability Report.—In January 1993, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on carrying out section 5307(b)(5) <sup>1</sup> of this title. The report shall—
 
-&emsp;(1) obligations by State, designated recipient, and applicant made under this chapter during the quarter;
-
-&emsp;(2) the balance of unobligated apportionments under this chapter on the last day of the quarter;
-
-&emsp;(3) the balance of unobligated amounts under this chapter on the last day of the quarter that the Secretary may expend;
-
-&emsp;(4) letters of intent issued during the quarter;
-
-&emsp;(5) letters of intent outstanding on the last day of the quarter; and
-
-&emsp;(6) grant contracts executed and reimbursement authority established for amounts obligated for each State, designated recipient, and applicant.
-
-(c)
-
-Biennial Needs Report.—In January 1993, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing an evaluation of the extent to which current mass transportation needs are addressed adequately and an estimate of the future mass transportation needs of the United States, including mass transportation needs in rural areas (particularly access to health care facilities). The report shall include—
-
-&emsp;(1) an assessment of needs related to rail modernization, guideway modernization, replacing, rehabilitating, and buying buses and related equipment, constructing bus related facilities, and constructing new fixed guideway systems and extensions to existing fixed guideway systems;
-
-&emsp;(2) a 5-year projection of maintenance and modernization needs resulting from aging of existing equipment and facilities, including the need to overhaul or replace existing bus fleets and rolling stock used on fixed guideway systems;
-
-&emsp;(3) a 5-year projection of the need to invest in the expansion of existing mass transportation systems to meet changing economic, commuter, and residential patterns;
-
-&emsp;(4) an estimate of the level of expenditure needed to satisfy the needs identified in clauses (1)–(3) of this paragraph;
-
-&emsp;(5) an examination of existing Government, State, local, and private resources that are or reasonably can be expected to be made available to support public mass transportation; and
-
-&emsp;(6) the gap between the level of expenditure estimated under clause (4) of this paragraph and the level of resources identified under clause (5) of this paragraph that are available to meet the needs.
-
-(d)
-
-Biennial Transferability Report.—In January 1993, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on carrying out section 5307(b)(5) of this title. The report shall—
-
-&emsp;(1) identify, by State, the amount of mass transportation money transferred for non-mass transportation purposes under section 5307(b)(5) of this title during the prior fiscal year;
+&emsp;(1) identify, by State, the amount of mass transportation money transferred for non-mass transportation purposes under section 5307(b)(5) <sup>1</sup> of this title during the prior fiscal year;
 
 &emsp;(2) include an assessment of the impact of the transfers on the mass transportation needs of individuals and communities in the State, including the impact on—
 
@@ -54,7 +22,7 @@ Biennial Transferability Report.—In January 1993, the Comptroller General shal
 
 &emsp;(3) examine the relative levels of Government mass transportation assistance and services in urban and rural areas in the fiscal year that ended September 30, 1991, and the extent to which the assistance and service has changed in later fiscal years because of mass transportation resources made available under this chapter and the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 1914).
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838; Pub. L. 104–287, §5(9), (18), Oct. 11, 1996, 110 Stat. 3389, 3390; Pub. L. 104–316, title I, §127(b), Oct. 19, 1996, 110 Stat. 3840.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838; Pub. L. 104–287, §5(9), (18), Oct. 11, 1996, 110 Stat. 3389, 3390; Pub. L. 104–316, title I, §127(b), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §3026, June 9, 1998, 112 Stat. 365.)
 
 Historical and Revision Notes
 
@@ -128,13 +96,21 @@ This amends 49:5335(d)(2)(B) to amend an erroneous cross-reference.
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (d)(2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+Section 5307(b)(5) of this title, referred to in subsec. (b), was repealed by Pub. L. 105–178, title III, §3007(c)(5), June 9, 1998, 112 Stat. 347.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(2)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (b)(2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (d)(3), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+
+The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (b)(3), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178, §3026(a)(1), substituted “National Transit Database” for “Reporting System and Uniform System of Accounts and Records” in heading.
+
+Subsec. (a)(1). Pub. L. 105–178, §3026(a)(2), substituted “using uniform categories” for “by uniform categories,” and “and using a uniform system of accounts” for “and a uniform system of accounts and records”.
+
+Subsecs. (b) to (d). Pub. L. 105–178, §3026(b), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which related to quarterly reports and biennial needs report, respectively.
 
 1996—Subsec. (b). Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
 
@@ -147,4 +123,6 @@ Subsec. (d). Pub. L. 104–316 struck out “and in January of every 2d year aft
 Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
 
 Subsec. (d)(2)(B). Pub. L. 104–287, §5(18), substituted “Americans with Disabilities Act” for “Americans With Disabilities Act”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

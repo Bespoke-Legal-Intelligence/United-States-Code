@@ -2,7 +2,7 @@
 
 The Joint Economic Committee is authorized to issue a monthly publication entitled “Economic Indicators”, and a sufficient quantity shall be printed to furnish one copy to each Member of Congress; the Secretary and the Sergeant at Arms of the Senate; the Clerk, Sergeant at Arms, and Chief Administrative Officer of the House of Representatives; two copies to the libraries of the Senate and House, and the Congressional Library; seven hundred copies to the Joint Economic Committee; and the required number of copies to the Superintendent of Documents for distribution to depository libraries; and the Superintendent of Documents is authorized to have copies printed for sale to the public.
 
-(June 23, 1949, ch. 237, 63 Stat. 264; Aug. 20, 1996, Pub. L. 104–186, title II, §217, 110 Stat. 1747.)
+(June 23, 1949, ch. 237, 63 Stat. 264; Pub. L. 104–186, title II, §217, Aug. 20, 1996, 110 Stat. 1747.)
 
 #### Codification
 

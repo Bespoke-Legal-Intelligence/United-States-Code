@@ -1,6 +1,6 @@
 ### §5522. Advance payments; rates; amounts recoverable
 
-(a) The head of each agency may provide for the advance payment of the pay, allowances, and differentials, or any of them, covering a period of not more than 30 days, to or for the account of each employee of the agency (or, under emergency circumstances and on a reimbursable basis, an employee of another agency) whose departure (or that of his dependents or immediate family, as the case may be) from a place inside or outside the United States is officially authorized or ordered—
+(a) The head of each agency may provide for the advance payment of the pay, allowances,and differentials, or any of them, covering a period of not more than 30 days, to or for the account of each employee of the agency (or, under emergency circumstances and on a reimbursable basis, an employee of another agency) whose departure (or that of his dependents or immediate family, as the case may be) from a place inside or outside the United States is officially authorized or ordered—
 
 &emsp;(1) from a place outside the United States from which the Secretary of State determines it is in the national interest to require the departure of some or all employees, their dependents, or both; or
 

@@ -14,7 +14,7 @@ No grant may be made under this part or contract entered into under section 274 
 
 #### (c) Determination of grant amount; terms of payment; recordkeeping; access for purposes of audits and examination of records
 
-(1) The Secretary shall determine the amount of a grant or contract made under section 273 or 274a of this title. Payments under such grants and contracts may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants and contracts.
+(1) The Secretary shall determine the amount of a grant or contract made under section 273 or 274a of this title. Payments under such grantsand contracts may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants and contracts.
 
 (2)(A) Each recipient of a grant or contract under section 273 or 274a of this title shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant or contract, the total cost of the undertaking in connection with which such grant or contract was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
@@ -28,7 +28,7 @@ For purposes of this part:
 
 &emsp;(2) The term “organ” means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of section 274a of this title, such term includes bone marrow.
 
-(July 1, 1944, ch. 373, title III, §374, as added Oct. 19, 1984, Pub. L. 98–507, title II, §201, 98 Stat. 2345;amended Nov. 4, 1988, Pub. L. 100–607, title IV, §402(b), 102 Stat. 3114; Nov. 16, 1990, Pub. L. 101–616, title II, §203, 104 Stat. 3284.)
+(July 1, 1944, ch. 373, title III, §374, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2345; amended Pub. L. 100–607, title IV, §402(b), Nov. 4, 1988, 102 Stat. 3114; Pub. L. 101–616, title II, §203, Nov. 16, 1990, 104 Stat. 3284.)
 
 #### Prior Provisions
 

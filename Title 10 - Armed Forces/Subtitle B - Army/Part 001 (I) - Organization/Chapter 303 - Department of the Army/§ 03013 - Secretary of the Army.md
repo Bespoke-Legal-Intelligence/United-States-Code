@@ -1,6 +1,6 @@
 ### §3013. Secretary of the Army
 
-(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, byand with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
+(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
 
 (2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -86,7 +86,7 @@ Sources of Training.—The Secretary may enter into a cooperative agreement with
 
 “(c)
 
-Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United StatesCode, the use of such real property or facilities may be permitted with or without reimbursement.
+Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
 
 “(d)
 
@@ -112,9 +112,9 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3347 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
 
 #### Cross References
 
@@ -138,5 +138,5 @@ President's appointing power, see Const. Art. II, §2, cl. 2.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 3033, 10171 of this title.
+This section is referred to in sections 162, 3033, 10171 of this title; title 32 section 113.
 

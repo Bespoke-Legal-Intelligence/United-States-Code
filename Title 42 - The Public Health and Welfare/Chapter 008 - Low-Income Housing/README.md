@@ -47,7 +47,7 @@ Reimbursement for costs of implementation.
 
 “Applicable Secretary” defined.
 
-(h)
+(i)
 
 Verification of eligibility.
 
@@ -55,6 +55,7 @@ Verification of eligibility.
 | :--- | ---: |
 | [1436b.](%C2%A7%2001436b%20-%20Financial%20assistance%20in%20impacted%20areas.md) | Financial assistance in impacted areas. |
 | [1436c.](%C2%A7%2001436c%20-%20Insurance%20for%20public%20housing%20agencies%20and%20Indian%20housing%20authorities.md) | Insurance for public housing agencies and Indian housing authorities. |
+| [1436d.](%C2%A7%2001436d%20-%20Consultation%20with%20affected%20areas%20in%20settlement%20of%20litigation.md) | Consultation with affected areas in settlement of litigation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,14 +63,27 @@ Verification of eligibility.
 
 |  |  |
 | :--- | ---: |
-| [1437\.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
+| [1437\.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437%20-%20Declaration%20of%20policy%20and%20public%20housing%20agency%20organization.md) | Declaration of policy and public housing agency organization. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Declaration of policy.
+
+(b)
+
+Public housing agency organization.
+
+|  |  |
+| :--- | ---: |
 | [1437a.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437a%20-%20Rental%20payments.md) | Rental payments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Families included; amount.
+Families included; rent options; minimum amount; occupancy by police officers and over-income families.
 
 (b)
 
@@ -79,30 +93,21 @@ Definition of terms under this chapter.
 
 Definition of terms used in reference to public housing.
 
-|  |  |
-| :--- | ---: |
-| 1437a–1. | Public housing rent waiver for police officers. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Authority.
-
-(b)
-
-Plan.
-
-(c)
-
-Approval.
-
 (d)
 
-Terms.
+Disallowance of earned income from rent determinations.
+
+(e)
+
+Individual savings accounts.
+
+(f)
+
+Availability of income matching information.
 
 |  |  |
 | :--- | ---: |
+| 1437a–1. | Repealed. |
 | [1437b.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437b%20-%20Loans%20and%20commitments%20to%20make%20loans%20for%20low-income%20housing%20projects.md) | Loans and commitments to make loans for low-income housing projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -143,7 +148,7 @@ Scope of contracts for loans or annual contributions.
 
 (e)
 
-Local determination of need as prerequisite for contracts for preliminary loans, and contracts for loans or annual contributions.
+Local determination of need as prerequisite for contracts for preliminary loans, and contracts for loans or annual contributions; notice.
 
 (f)
 
@@ -155,19 +160,65 @@ Pledge of annual contributions as guarantee of payment of obligations issued by 
 
 (h)
 
-Sale of project to lower income tenants by public housing agency; terms and conditions; commitment by Secretary to pay annual contribution unaffected.
+Audits.
 
 (i)
 
-Installation of passive or active solar energy systems.
+Prohibition on use of funds.
+
+|  |  |
+| :--- | ---: |
+| 1437c–1. | Public housing agency plans. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+5-year plan.
+
+(b)
+
+Annual plan.
+
+(c)
+
+Procedures.
+
+(d)
+
+Contents.
+
+(e)
+
+Resident advisory board.
+
+(f)
+
+Notice and hearing.
+
+(g)
+
+Amendments and modifications to plans.
+
+(h)
+
+Submission of plans.
+
+(i)
+
+Review and determination of compliance.
 
 (j)
 
-Limitation on public housing development; assurance of public housing quality standards.
+Troubled and at-risk PHAs.
 
 (k)
 
-Limitation on recapture of funding reservations.
+Streamlined plan.
+
+(<i>l</i>)
+
+Compliance with plan.
 
 |  |  |
 | :--- | ---: |
@@ -177,7 +228,7 @@ Limitation on recapture of funding reservations.
 
 (a)
 
-Conditions; playgrounds and elevators.
+Conditions; elevators.
 
 (b)
 
@@ -193,11 +244,11 @@ Exemption from personal and real property taxes; payments in lieu of taxes; cash
 
 (e)
 
-Excess funds.
+Repealed.
 
 (f)
 
-Repealed.
+Housing quality requirements.
 
 (g)
 
@@ -237,7 +288,7 @@ Public housing assistance for foster care children.
 
 (p)
 
-Preference for areas with inadequate supply of very low-income housing.
+Repealed.
 
 (q)
 
@@ -245,7 +296,15 @@ Availability of records.
 
 (r)
 
-Ineligibility because of eviction for drug-related activity.
+Site-based waiting lists.
+
+(s)
+
+Authority to require access to criminal records.
+
+(t)
+
+Obtaining information from drug abuse treatment facilities.
 
 |  |  |
 | :--- | ---: |
@@ -281,10 +340,6 @@ Effectiveness.
 
 Inapplicability of Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970.
 
-(h)
-
-Inapplicability to Indian housing.
-
 |  |  |
 | :--- | ---: |
 | [1437f.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437f%20-%20Low-income%20housing%20assistance.md) | Low-income housing assistance. |
@@ -297,7 +352,7 @@ Authorization for assistance payments.
 
 (b)
 
-Rental certificates and other existing housing programs.
+Other existing housing programs.
 
 (c)
 
@@ -329,23 +384,19 @@ Receipt of assistance by public housing agency under other law not to be conside
 
 (j)
 
-Assistance for manufactured homes.
+Repealed.
 
 (k)
 
 Verification of income.
 
-(<i>l</i>),
+(<i>l</i>)
 
-(m) Repealed.
-
-(n)
-
-Assistance for dwellings without bathrooms and kitchens; conditions; waiver of limitations.
+to (n) Repealed.
 
 (<i>o</i>)
 
-Rental vouchers.
+Voucher program.
 
 (p)
 
@@ -353,11 +404,11 @@ Shared housing for elderly and handicapped.
 
 (q)
 
-Administrative fees for certificate and housing voucher programs.
+Administrative fees.
 
 (r)
 
-Portability of certificates and vouchers; authority of public housing agency; Secretary to consider reduction in families in preceding fiscal year; authority of Secretary under other law unrestricted.
+Portability.
 
 (s)
 
@@ -365,7 +416,7 @@ Prohibition of denial of certificates and vouchers to residents of public housin
 
 (t)
 
-Nondiscrimination against certificate holders and voucher holders.
+Repealed.
 
 (u)
 
@@ -399,31 +450,75 @@ Omitted.
 
 Transfer, reuse, and rescission of budget authority.
 
+(cc)
+
+Law enforcement and security personnel.
+
+(dd)
+
+Tenant-based contract renewals.
+
 |  |  |
 | :--- | ---: |
-| [1437g.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437g%20-%20Annual%20contributions%20for%20operation%20of%20low-income%20housing.md) | Annual contributions for operation of low-income housing. |
+| [1437g.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437g%20-%20Public%20housing%20Capital%20and%20Operating%20Funds.md) | Public housing Capital and Operating Funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Determination of amounts; contract authorization; standards for payments; necessity of contribution contracts; performance funding system; audit.
+Merger into Capital Fund.
 
 (b)
 
-Limitation on amount of aggregate rentals paid by families residing in dwelling units receiving annual contributions.
+Merger into Operating Fund.
 
 (c)
 
-Authorization of appropriations.
+Allocation amount.
 
 (d)
 
-Distribution of remaining appropriated funds to housing projects incurring excessive costs.
+Capital Fund.
 
 (e)
 
-Time of payment.
+Operating Fund.
+
+(f)
+
+Negotiated rulemaking procedure.
+
+(g)
+
+Limitations on use of funds.
+
+(h)
+
+Technical assistance.
+
+(i)
+
+Eligibility of units acquired from proceeds of sales under demolition or disposition plan.
+
+(j)
+
+Penalty for slow expenditure of capital funds.
+
+(k)
+
+Emergency reserve and use of amounts.
+
+(<i>l</i>)
+
+Treatment of nonrental income.
+
+(m)
+
+Provision of only capital or operating assistance.
+
+(n)
+
+Treatment of public housing.
 
 |  |  |
 | :--- | ---: |
@@ -446,83 +541,56 @@ Federal Reserve banks to act as depositories, custodians and fiscal agents; reim
 |  |  |
 | :--- | ---: |
 | [1437i.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437i%20-%20Obligations%20of%20public%20housing%20agencies%3B%20contestability%3B%20full%20faith%20and%20credit%20of%20United%20States%20pledged%20as%20security%3B%20tax%20exemption.md) | Obligations of public housing agencies; contestability; full faith and credit of United States pledged as security; tax exemption. |
-| [1437j.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437j%20-%20Labor%20protection%3B%20payment%20of%20wages%20prevailing%20in%20locality%3B%20certification%20of%20compliance%3B%20exceptions.md) | Labor protection; payment of wages prevailing in locality; certification of compliance; exceptions. |
-| 1437j–1. | Payment for development managers. |
-| [1437k.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437k%20-%20Energy%20conservation.md) | Energy conservation. |
-| 1437<i>l.</i> | Public housing modernization. |
+| [1437j.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437j%20-%20Labor%20standards%20and%20community%20service%20requirement.md) | Labor standards and community service requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Purposes.
+Payment of wages prevailing in locality.
 
 (b)
 
-Authorization for assistance payments; duration of grants contract.
+Exception for volunteers.
 
 (c)
 
-Low-rent housing projects qualifying for assistance.
+Community service requirement.
 
 (d)
 
-Application for assistance.
+Treatment of income changes resulting from welfare program requirements.
 
 (e)
 
-Comprehensive plans; contents; approval.
+Lease provisions.
 
 (f)
 
-Amount of assistance; approved uses.
+Treatment of income.
 
 (g)
 
-Requirements for additional assistance.
-
-(h)
-
-Public housing agencies entitled to preference.
-
-(i)
-
-Assistance to housing agencies meeting emergency or special needs; rules and regulations.
-
-(j)
-
-Rules and regulations.
-
-(k)
-
-Formula allocation of modernization funding.
-
-(<i>l</i>)
-
-Annual report.
-
-(m)
-
-Regulations.
-
-(n)
-
-Limitation.
-
-(<i>o</i>)
-
-Uses of obligated amounts by public housing agencies.
-
-(p)
-
-Reduction of vacancies in public housing units.
-
-(q)
-
-Other uses of modernization and development assistance.
+Definition.
 
 |  |  |
 | :--- | ---: |
+| 1437j–1. | Repealed. |
+| [1437k.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437k%20-%20Consortia%2C%20joint%20ventures%2C%20affiliates%2C%20and%20subsidiaries%20of%20public%20housing%20agencies.md) | Consortia, joint ventures, affiliates, and subsidiaries of public housing agencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Consortia.
+
+(b)
+
+Joint ventures.
+
+|  |  |
+| :--- | ---: |
+| 1437<i>l.</i> | Repealed. |
 | [1437m.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437m%20-%20Payment%20of%20non-Federal%20share.md) | Payment of non-Federal share. |
 | [1437n.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437n%20-%20Eligibility%20for%20assisted%20housing.md) | Eligibility for assisted housing. |
 
@@ -530,23 +598,27 @@ Other uses of modernization and development assistance.
 
 (a)
 
-Percentage availability under contracts prior to October 1, 1981.
+Income eligibility for public housing.
 
 (b)
 
-Percentage availability under contracts on or after October 1, 1981.
+Income eligibility for tenant-based section 1437f assistance.
 
 (c)
 
-Admission procedures.
+Income eligibility for project-based section 1437f assistance.
 
 (d)
 
-Applicability of admission procedures limitations.
+Establishment of different standards.
 
 (e)
 
-Ineligibility of illegal drug users and alcohol abusers.
+Repealed.
+
+(f)
+
+Ineligibility of individuals convicted of manufacturing or producing methamphetamine on the premises.
 
 |  |  |
 | :--- | ---: |
@@ -557,31 +629,35 @@ Ineligibility of illegal drug users and alcohol abusers.
 
 (a)
 
-Obsolescence; best-interests transfers; use of proceeds.
+Applications for demolition and disposition.
 
 (b)
 
-Consultation with tenants and tenant councils; opportunity to purchase; relocation assistance.
+Disapproval of applications.
 
 (c)
 
-Financial assistance; contributions.
+Resident opportunity to purchase in case of proposed disposition.
 
 (d)
 
-Conditions for agency action.
+Replacement units.
 
 (e)
 
-Set-asides for replacement housing.
+Consolidation of occupancy within or among buildings.
 
 (f)
 
-Construction on original site or in same neighborhood.
+De minimus exception to demolition requirements.
 
 (g)
 
-Applicability to disposition of public housing project in accordance with approved homeownership program.
+Uniform Relocation and Real Property Acquisition Act.
+
+(h)
+
+Relocation and replacement.
 
 |  |  |
 | :--- | ---: |
@@ -600,7 +676,7 @@ Program requirements.
 
 (c)
 
-Comprehensive improvement assistance.
+Assistance amounts.
 
 (d)
 
@@ -608,15 +684,11 @@ Waiver of Federal requirements.
 
 (e)
 
-Operating subsidy and project income.
+Direct provision of operating and capital assistance.
 
-(f)
+(f),
 
-Resident management technical assistance and training.
-
-(g)
-
-Assessment and report by Secretary.
+(g) Repealed.
 
 (h)
 
@@ -658,53 +730,33 @@ Limitation.
 
 |  |  |
 | :--- | ---: |
-| [1437t.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437t%20-%20Family%20investment%20centers.md) | Family investment centers. |
+| [1437t.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437t%20-%20Authority%20to%20convert%20public%20housing%20to%20vouchers.md) | Authority to convert public housing to vouchers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Purpose.
+Authority.
 
 (b)
 
-Grant authority.
+Conversion assessment.
 
 (c)
 
-Use of amounts.
+Criteria for implementation of conversion plan.
 
 (d)
 
-Allocation of grant amounts.
+Conversion plan requirement.
 
 (e)
 
-Applications.
+Review and approval of conversion plans.
 
 (f)
 
-Selection.
-
-(g)
-
-Reports.
-
-(h)
-
-Employment of public housing residents.
-
-(i)
-
-Treatment of income.
-
-(j)
-
-“Supportive services” defined.
-
-(k)
-
-Authorization of appropriations.
+Tenant-based assistance.
 
 |  |  |
 | :--- | ---: |
@@ -774,101 +826,101 @@ Effective date and regulations.
 
 |  |  |
 | :--- | ---: |
-| [1437v.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437v%20-%20Revitalization%20of%20severely%20distressed%20public%20housing.md) | Revitalization of severely distressed public housing. |
+| [1437v.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437v%20-%20Demolition%2C%20site%20revitalization%2C%20replacement%20housing%2C%20and%20tenant-based%20assistance%20grants%20for%20projects.md) | Demolition, site revitalization, replacement housing, and tenant-based assistance grants for projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Program authority.
+Purposes.
 
 (b)
 
-Designation of eligible projects.
+Grant authority.
 
 (c)
 
-Planning grants.
+Contribution requirement.
 
 (d)
 
-Implementation grants.
+Eligible activities.
 
 (e)
 
-Exception to general program requirements.
+Application and selection.
 
 (f)
 
-Other program requirements.
+Cost limits.
 
 (g)
 
-Administration.
+Disposition and replacement.
 
 (h)
 
-Definitions.
+Administration by other entities.
 
 (i)
 
-Annual report.
-
-|  |  |
-| :--- | ---: |
-| [1437w.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437w%20-%20Choice%20in%20public%20housing%20management.md) | Choice in public housing management. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Short title.
-
-(b)
-
-Funding.
-
-(c)
-
-Program authority.
-
-(d)
-
-Operating subsidies.
-
-(e)
-
-Rehabilitation grants and capital improvement funding.
-
-(f)
-
-Application.
-
-(g)
-
-Review and approval by Secretary.
-
-(h)
-
-Contract between Secretary and manager.
-
-(i)
-
-Other program requirements.
+Withdrawal of funding.
 
 (j)
 
-Performance review and compliance.
+Definitions.
 
 (k)
 
-Nondiscrimination.
+Grantee reporting.
 
 (<i>l</i>)
 
-Relationship to other programs.
+Annual report.
 
 (m)
+
+Funding.
+
+(n)
+
+Sunset.
+
+|  |  |
+| :--- | ---: |
+| [1437w.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437w%20-%20Transfer%20of%20management%20of%20certain%20housing%20to%20independent%20manager%20at%20request%20of%20residents.md) | Transfer of management of certain housing to independent manager at request of residents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Request for transfer.
+
+(c)
+
+Capital and operating assistance.
+
+(d)
+
+Contract between Secretary and manager.
+
+(e)
+
+Compliance with public housing agency plan.
+
+(f)
+
+Demolition and disposition by manager.
+
+(g)
+
+Limitation on PHA liability.
+
+(h)
 
 Definitions.
 
@@ -898,7 +950,7 @@ Approval by States.
 | :--- | ---: |
 | [1437y.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437y%20-%20Provision%20of%20information%20to%20law%20enforcement%20and%20other%20agencies.md) | Provision of information to law enforcement and other agencies. |
 | [1437z.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437z%20-%20Exchange%20of%20information%20with%20law%20enforcement%20agencies.md) | Exchange of information with law enforcement agencies. |
-| 1437z–1. | Civil money penalties against section 8 owners. |
+| 1437z–1. | Civil money penalties against section 1437f owners. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -933,6 +985,202 @@ Deposit of penalties.
 (h)
 
 Definitions.
+
+|  |  |
+| :--- | ---: |
+| 1437z–2. | Public housing mortgages and security interests. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+General authorization.
+
+(b)
+
+Terms and conditions.
+
+(c)
+
+No Federal liability.
+
+|  |  |
+| :--- | ---: |
+| 1437z–3. | Pet ownership in public housing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Ownership conditions.
+
+(b)
+
+Reasonable requirements.
+
+(c)
+
+Pet ownership in public housing designated for occupancy by elderly or handicapped families.
+
+(d)
+
+Regulations.
+
+|  |  |
+| :--- | ---: |
+| 1437z–4. | Resident homeownership programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Participating units.
+
+(c)
+
+Eligible purchasers.
+
+(d)
+
+Right of first refusal.
+
+(e)
+
+Protection of nonpurchasing residents.
+
+(f)
+
+Financing and assistance.
+
+(g)
+
+Downpayment requirement.
+
+(h)
+
+Ownership interests.
+
+(i)
+
+Resale.
+
+(j)
+
+Net proceeds.
+
+(k)
+
+Homeownership assistance.
+
+(<i>l</i>)
+
+Inapplicability of disposition requirements.
+
+|  |  |
+| :--- | ---: |
+| 1437z–5. | Required conversion of distressed public housing to tenant-based assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Identification of units.
+
+(b)
+
+Consultation.
+
+(c)
+
+Plan for removal of units from inventories of PHA's.
+
+(d)
+
+Conversion to tenant-based assistance.
+
+(e)
+
+Cessation of unnecessary spending.
+
+(f)
+
+Use of budget authority.
+
+(g)
+
+Removal by Secretary.
+
+(h)
+
+Administration.
+
+|  |  |
+| :--- | ---: |
+| 1437z–6. | Services for public housing residents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligible activities.
+
+(c)
+
+Funding distribution.
+
+(d)
+
+Matching requirement.
+
+(e)
+
+Funding for resident organizations.
+
+|  |  |
+| :--- | ---: |
+| 1437z–7. | Mixed-finance public housing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Assistance.
+
+(c)
+
+Compliance with public housing requirements.
+
+(d)
+
+Mixed-finance projects.
+
+(e)
+
+Structure of projects.
+
+(f)
+
+Taxation.
+
+(g)
+
+Use of savings.
+
+(h)
+
+Effect of certain contract terms.
 
 #### SUBCHAPTER II—ASSISTED HOUSING FOR INDIANS AND ALASKA NATIVES
 
@@ -1089,7 +1337,7 @@ Annual contributions.
 
 (e)
 
-Operating subsidies.
+Amounts from Operating Fund allocation.
 
 (f)
 
@@ -1128,11 +1376,142 @@ Records and audit of recipients of assistance.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER II–B—HOME RULE FLEXIBLE GRANT DEMONSTRATION
+
+|  |  |
+| :--- | ---: |
+| [1437bbb.](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Home%20Rule%20Flexible%20Grant%20Demonstration/%C2%A7%2001437bbb%20-%20Purpose.md) | Purpose. |
+| 1437bbb–1. | Flexible grant program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority and use.
+
+(b)
+
+Period of participation.
+
+(c)
+
+Participating jurisdictions.
+
+|  |  |
+| :--- | ---: |
+| 1437bbb–2. | Program allocation and covered housing assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program allocation.
+
+(b)
+
+Covered housing assistance.
+
+|  |  |
+| :--- | ---: |
+| 1437bbb–3. | Applicability of requirements under programs for covered housing assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Number of families assisted.
+
+(c)
+
+Protection of recipients.
+
+(d)
+
+Effect on ability to compete for other programs.
+
+|  |  |
+| :--- | ---: |
+| 1437bbb–4. | Program requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Applicability of certain provisions.
+
+(b)
+
+Compliance with assistance plan.
+
+|  |  |
+| :--- | ---: |
+| 1437bbb–5. | Application. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Review, approval, and performance standards.
+
+(c)
+
+Status of PHAs.
+
+(d)
+
+PHA plans.
+
+|  |  |
+| :--- | ---: |
+| 1437bbb–6. | Training. |
+| 1437bbb–7. | Accountability. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Maintenance of records.
+
+(b)
+
+Reports.
+
+(c)
+
+Access to documents by Secretary and Comptroller General.
+
+(d)
+
+Performance review and evaluation.
+
+|  |  |
+| :--- | ---: |
+| 1437bbb–8. | Definitions. |
+| 1437bbb–9. | Termination and evaluation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Termination.
+
+(b)
+
+Evaluation.
+
 #### SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
 |  |  |
 | :--- | ---: |
-| [1438\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001438%20-%20Special%20low-income%20housing%20projects%20for%20elderly%20or%20disabled%20families%3B%20consultations%3B%20applicable%20design%20and%20equipment%20standards.md) | Special low-income housing projects for elderly or disabled families; consultations; applicable design and equipment standards. |
+| [1438\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001438%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93276%2C%20title%20V%2C%20%C2%A7582%28a%29%2815%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202644.md) | Repealed. |
 | [1439\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001439%20-%20Local%20housing%20assistance%20plan.md) | Local housing assistance plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1147,7 +1526,7 @@ Housing assistance applications subject to procedures.
 
 (c)
 
-Approval of housing assistance application for areas not subject to approved plan.
+Repealed.
 
 (d)
 
@@ -1197,7 +1576,7 @@ Protection of guarantees issued by United States; inclusion by purchaser in gros
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1437a–1, 1437j–1, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 20 section 7713; title 25 sections 640d–14, 4103, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32; title 29 section 1605.
+This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910, 14614 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 20 section 7713; title 25 sections 640d–14, 4103, 4111, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32; title 29 section 1605.
 
 
 ---
@@ -1226,7 +1605,9 @@ This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1437a�
 - [&sect; 01436a - Restriction on use of assisted housing by non-resident aliens](%C2%A7%2001436a%20-%20Restriction%20on%20use%20of%20assisted%20housing%20by%20non-resident%20aliens.md)
 - [&sect; 01436b - Financial assistance in impacted areas](%C2%A7%2001436b%20-%20Financial%20assistance%20in%20impacted%20areas.md)
 - [&sect; 01436c - Insurance for public housing agencies and Indian housing authorities](%C2%A7%2001436c%20-%20Insurance%20for%20public%20housing%20agencies%20and%20Indian%20housing%20authorities.md)
+- [&sect; 01436d - Consultation with affected areas in settlement of litigation](%C2%A7%2001436d%20-%20Consultation%20with%20affected%20areas%20in%20settlement%20of%20litigation.md)
 - [Subchapter 001 (I) - General Program of Assisted Housing](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/README.md)
 - [Subchapter 002 (II) - Assisted Housing for Indians and Alaska Natives](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/README.md)
 - [Subchapter 002&#8211;A (II&#8211;A) - HOPE for Public Housing Homeownership](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20HOPE%20for%20Public%20Housing%20Homeownership/README.md)
+- [Subchapter 002&#8211;B (II&#8211;B) - Home Rule Flexible Grant Demonstration](Subchapter%20002%E2%80%93B%20%28II%E2%80%93B%29%20-%20Home%20Rule%20Flexible%20Grant%20Demonstration/README.md)
 - [Subchapter 003 (III) - Miscellaneous Provisions](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md)

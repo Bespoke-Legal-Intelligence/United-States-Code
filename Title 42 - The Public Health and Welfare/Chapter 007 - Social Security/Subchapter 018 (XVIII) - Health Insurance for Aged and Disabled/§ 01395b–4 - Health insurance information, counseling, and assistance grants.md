@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall make grants to States, with approved State regulatory programs under section 1395ss of this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as “eligible individuals”). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
+The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall make grants to States, with approved State regulatory programs under section 1395ssof this title, that submit applications to the Secretary that meet the requirements of this section for the purpose of providing information, counseling, and assistance relating to the procurement of adequate and appropriate health insurance coverage to individuals who are eligible to receive benefits under this subchapter (in this section referred to as “eligible individuals”). The Secretary shall prescribe regulations to establish a minimum level of funding for a grant issued under this section.
 
 #### (b) Grant applications
 
@@ -62,7 +62,7 @@ In issuing a grant under this section, the Secretary shall consider—
 
 &emsp;(2) the population of eligible individuals in such State as a percentage of the population of such State; and
 
-&emsp;(3) in order to ensure the needs of rural areas in such State, the relative costs and special problems associated with addressing the special problems of providing health care information, counseling, and assistance eligible <sup>1</sup> individuals residing in rural areas of such State.
+&emsp;(3) in order to ensure the needs of rural areas in such State, the relative costs and specialproblems associated with addressing the special problems of providing health care information, counseling, and assistance eligible <sup>1</sup> individuals residing in rural areas of such State.
 
 #### (e) Annual State report
 
@@ -76,7 +76,7 @@ A State that receives a grant under this section shall, not later than 180 days 
 
 #### (f) Report to Congress
 
-Not later than 180 days after November 5, 1990, and annually thereafter, the Secretary shall issue a report to the Committee on Finance of the Senate, the Special Committee on Aging of the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives that—
+Beginning with 1992, and annually thereafter, the Secretary shall issue a report to the Committee on Finance of the Senate, the Special Committee on Aging of the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives that—
 
 &emsp;(1) summarizes the allocation of funds authorized for grants under this section and the expenditure of such funds;
 
@@ -90,7 +90,7 @@ Not later than 180 days after November 5, 1990, and annually thereafter, the Sec
 
 There are authorized to be appropriated, in equal parts from the Federal Hospital Insurance Trust Fund and from the Federal Supplementary Medical Insurance Trust Fund, $10,000,000 for each of fiscal years 1991, 1992, 1993, 1994, 1995, and 1996, to fund the grant programs described in this section.
 
-(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591.)
+(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–362, title VI, §602(b)(2), Nov. 10, 1998, 112 Stat. 3286.)
 
 #### References in Text
 
@@ -101,6 +101,8 @@ The Older Americans Act, referred to in subsec. (d)(1)(C)(ii), probably means th
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Social Security Act which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–362 substituted “Beginning with 1992” for “Not later than 180 days after November 5, 1990”.
 
 1994—Subsec. (b)(2)(A)(ii). Pub. L. 103–432, §171(i)(1), inserted closing parenthesis after “of this title”.
 
@@ -116,7 +118,7 @@ Subsec. (e). Pub. L. 103–432, §171(i)(6)(A), (B), in introductory provisions,
 
 Subsec. (e)(1). Pub. L. 103–432, §171(i)(6)(C), struck out “State-wide” before “health insurance information”.
 
-Subsec. (f). Pub. L. 103–437, §15(b)(1), in introductory provisions, substituted “and the Committee on Energyand Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
+Subsec. (f). Pub. L. 103–437, §15(b)(1), in introductory provisions, substituted “and the Committee on Energy and Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
 
 Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 

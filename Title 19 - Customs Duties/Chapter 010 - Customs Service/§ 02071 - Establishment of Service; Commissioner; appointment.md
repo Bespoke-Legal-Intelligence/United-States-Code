@@ -8,11 +8,11 @@ There shall be in the Department of the Treasury a service to be known as the Un
 
 &emsp;(3) report to the Secretary of the Treasury through such other officials as may be designated by the Secretary.
 
-(Mar. 3, 1927, ch. 348, §1, 44 Stat. 1381; May 27, 1930, ch. 342, §8, 46 Stat. 430; Ex. Ord. No. 6639, §1a, Mar. 10, 1934; Dec. 7, 1989, Pub. L. 101–207, §3(b)(1), 103 Stat. 1833.)
+(Mar. 3, 1927, ch. 348, §1, 44 Stat. 1381; May 27, 1930, ch. 342, §8, 46 Stat. 430; Ex. Ord. No. 6639, §1a, Mar. 10, 1934; Pub. L. 101–207, §3(b)(1), Dec. 7, 1989, 103 Stat. 1833.)
 
 #### Codification
 
-Provisions that fixed the compensation of the Commissioner have been omitted as the position is underthe Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
+Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
 
 Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
@@ -68,7 +68,7 @@ Pub. L. 101–382, title II, §233, Aug. 20, 1990, 104 Stat. 663, provided that:
 
 “(a)
 
-Establishment of Program.—Subject to subsection (b), the Commissioner of Customs shall carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner of Customs considers appropriate for testing the extent to which the availability of preclearance operations can assist in the development of tourism.
+Establishment of Program.—Subject to subsection (b), the Commissioner of Customs shall carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which theCommissioner of Customs considers appropriate for testing the extent to which the availability of preclearance operations can assist in the development of tourism.
 
 “(b)
 
@@ -88,7 +88,7 @@ Restrictions Regarding Program.—
 
 &emsp;&emsp;“(E) United States employees and their families will not be subject to fear of reprisal, acts of terrorism, and threats of intimidation.
 
-&emsp;“(3) In determining the country in which to establish the operation described in paragraph (1), the Commissioner of Customs and the Commissioner of Immigration and Naturalization shall first determine the viability of establishing such operations in either Aruba or Jamaica. If the Commissioners determine,after full consultation with the governments of such countries, that it is not viable to establish pre-clearance operations in either Aruba or Jamaica, they shall so report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, including an explanation of how this determination was reached. Such report shall be submitted to those Committees within six months after the date of the enactment of this Act \[Aug. 20, 1990\]. Following the submission of such a report, the Commissioners shall take all necessary steps, consistent with the requirements of this section, to establish such operations in another country.
+&emsp;“(3) In determining the country in which to establish the operation described in paragraph (1), the Commissioner of Customs and the Commissioner of Immigration and Naturalization shall first determine the viability of establishing such operations in either Aruba or Jamaica. If the Commissioners determine, after full consultation with the governments of such countries, that it is not viable to establish pre-clearance operations in either Aruba or Jamaica, they shall so report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, including an explanation of how this determination was reached. Such report shall be submitted to those Committees within six months after the date of the enactment of this Act \[Aug. 20, 1990\]. Following the submission of such a report, the Commissioners shall take all necessary steps, consistent with the requirements of this section, to establish such operations in another country.
 
 “(c)
 

@@ -14,7 +14,7 @@ With respect to the purchase of new buses, a public entity may apply for, and th
 
 #### (b) Duration and notice to Congress
 
-Any relief granted under subsection (a) of this section shall be limited in duration by a specified date, and the appropriate committees ofCongress shall be notified of any such relief granted.
+Any relief granted under subsection (a) of this section shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.
 
 #### (c) Fraudulent application
 

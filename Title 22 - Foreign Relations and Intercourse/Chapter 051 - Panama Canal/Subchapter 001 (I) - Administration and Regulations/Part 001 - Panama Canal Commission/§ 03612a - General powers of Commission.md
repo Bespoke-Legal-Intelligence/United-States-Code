@@ -40,7 +40,7 @@ The Commission shall have the priority of the Government of the United States in
 
 (2) Every notarial act performed by a person acting as a notary under paragraph (1) shall be as valid, and of like force and effect within the United States, as if executed by or before a duly authorized and competent notary public in the United States.
 
-(3) The signature of any person acting as a notary under paragraph (1), when it appears withthe title of that person's office, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
+(3) The signature of any person acting as a notary under paragraph (1), when it appears with the title of that person's office, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
 
 #### (h) Limitations on authority
 

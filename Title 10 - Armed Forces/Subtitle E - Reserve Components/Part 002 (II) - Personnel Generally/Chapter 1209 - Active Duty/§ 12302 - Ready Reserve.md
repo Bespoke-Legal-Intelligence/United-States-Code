@@ -1,6 +1,6 @@
 ### §12302. Ready Reserve
 
-(a) In time of national emergency declared by the President after January 1, 1953, or whenotherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons concerned, order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve under the jurisdiction of that Secretary to active duty (other than for training) for not more than 24 consecutive months.
+(a) In time of national emergency declared by the President after January 1, 1953, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons concerned, order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve under the jurisdiction of that Secretary to active duty (other than for training) for not more than 24 consecutive months.
 
 (b) To achieve fair treatment as between members in the Ready Reserve who are being considered for recall to duty without their consent, consideration shall be given to—
 
@@ -16,7 +16,7 @@
 
 (d) Whenever one or more units of the Ready Reserve are ordered to active duty, the President shall, on the first day of the second fiscal year quarter immediately following the quarter in which the first unit or units are ordered to active duty and on the first day of each succeeding six-month period thereafter, so long as such unit is retained on active duty, submit a report to the Congress regarding the necessity for such unit or units being ordered to and retained on active duty. The President shall include in each such report a statement of the mission of each such unit ordered to active duty, an evaluation of such unit's performance of that mission, where each such unit is being deployed at the time of the report, and such other information regarding each unit as the President deems appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Sept. 2, 1958, Pub. L. 85–861, §§1(14), 33(a)(5), 72 Stat. 1441, 1564; Nov. 16, 1973, Pub. L. 93–155, title III, §303(a), 87 Stat. 607; renumbered §12302, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), 108 Stat. 2992; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(2), 110 Stat. 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502.)
 
 Historical and Revision Notes<br>1956
 
@@ -80,6 +80,10 @@ The changes are necessary to reflect section 101(b) of the Armed Forces Reserve 
 
 Subsec. (c). Pub. L. 85–861, §1(14)(B), added subsec. (c).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1973 Amendment
 
 Section 303(b) of Pub. L. 93–155 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall be effective with respect to any unit of the Ready Reserve ordered to active duty on or after the date of enactment of this Act \[Nov. 16, 1973\].”
@@ -92,7 +96,7 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 
 Ex. Ord. No. 12743, Jan. 18, 1991, 56 F.R. 2661, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3 of the United States Code; in furtherance of Executive Order No. 12722, dated August 2, 1990 \[50 U.S.C. 1701 note\], which declared a national emergency to address the threat to the national security and foreign policy of the United States posed by the invasion of Kuwait by Iraq; and, in accordance with the requirements contained in section 301 of the National Emergencies Act, 50 U.S.C. 1631, I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3 of the United States Code; in furtherance of Executive Order No. 12722, dated August 2, 1990 \[50 U.S.C. 1701 note\], which declared a national emergency to address the threat to the national security and foreign policy of the United States posed by the invasion of Kuwait by Iraq; and, in accordance with the requirements contained in section 301 of the National Emergencies Act, 50 U.S.C. 1631, I hereby order as follows:
 
 Section 1. To provide additional authority to the Department of Defense and the Department of Transportation to respond to the continuing threat posed by Iraq's invasion of Kuwait, the authority under section 673 \[now 12302\] of title 10, United States Code, to order any unit, and any member not assigned to a unit organized to serve as a unit, in the Ready Reserve to active duty (other than for training) for not more than 24 consecutive months, is invoked and made available, according to its terms, to the Secretary concerned, subject, in the case of the Secretaries of the Army, Navy, and Air Force, to the direction of the Secretary of Defense. The term “Secretary concerned” is defined in section 101(8) \[now 101(9)\] of title 10, United States Code, to mean the Secretary of the Army with respect to the Army; the Secretary of the Navy with respect to the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy; the Secretary of the Air Force with respect to the Air Force; and, the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 

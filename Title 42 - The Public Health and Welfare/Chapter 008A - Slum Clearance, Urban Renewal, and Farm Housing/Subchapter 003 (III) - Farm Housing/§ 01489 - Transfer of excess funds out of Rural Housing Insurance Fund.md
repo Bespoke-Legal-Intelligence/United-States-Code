@@ -2,7 +2,7 @@
 
 Any sums in the Rural Housing Insurance Fund which the Secretary determines are in excess of amounts needed to meet the obligations and carry out the purposes of such Fund shall be returned to miscellaneous receipts of the Treasury.
 
-(July 15, 1949, ch. 338, title V, §519, as added Aug. 10, 1965, Pub. L. 89–117, title X, §1006, 79 Stat. 501; amended Dec. 24, 1969, Pub. L. 91–152, title IV, §413(e)(4), 83 Stat. 399.)
+(July 15, 1949, ch. 338, title V, §519, as added Pub. L. 89–117, title X, §1006, Aug. 10, 1965, 79 Stat. 501; amended Pub. L. 91–152, title IV, §413(e)(4), Dec. 24, 1969, 83 Stat. 399.)
 
 #### Amendments
 

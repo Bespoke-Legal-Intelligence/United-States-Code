@@ -4,7 +4,7 @@
 
 Whoever—
 
-&emsp;(1) for the purpose of causing an increase in any payment authorized to be made under this subchapter, or for the purpose of causing any payment to be made where no payment is authorized under this subchapter, shall make or cause to be made any false statement or representation (including any false statement or representation in connection with any matter arising under subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939, or chapter 2 or 21 or subtitle F of the Internal Revenue Code of 1954) as to—
+&emsp;(1) for the purpose of causing an increase in any payment authorized to be made under this subchapter, or for the purpose of causing anypayment to be made where no payment is authorized under this subchapter, shall make or cause to be made any false statement or representation (including any false statement or representation in connection with any matter arising under subchapter E of chapter 1, or subchapter A or E of chapter 9 of the Internal Revenue Code of 1939, or chapter 2 or 21 or subtitle F of the Internal Revenue Code of 1954) as to—
 
 &emsp;&emsp;(A) whether wages were paid or received for employment (as said terms are defined in this subchapter and the Internal Revenue Code), or the amount of wages or the period during which paid or the person to whom paid; or
 
@@ -18,7 +18,7 @@ Whoever—
 
 &emsp;(4) having knowledge of the occurrence of any event affecting (1) his initial or continued right to any payment under this subchapter, or (2) the initial or continued right to any payment of any other individual in whose behalf he has applied for or is receiving such payment, conceals or fails to disclose such event with an intent fraudulently to secure payment either in a greater amount than is due or when no payment is authorized; or
 
-&emsp;(5) having made application to receive payment under this subchapter for the use and benefit of another and having received such a payment, knowingly and willfully convertssuch a payment, or any part thereof, to a use other than for the use and benefit of such other person; or
+&emsp;(5) having made application to receive payment under this subchapter for the use and benefit of another and having received such a payment, knowingly and willfully converts such a payment, or any part thereof, to a use other than for the use and benefit of such other person; or
 
 &emsp;(6) willfully, knowingly, and with intent to deceive the Commissioner of Social Security as to his true identity (or the true identity of any other person) furnishes or causes to be furnished false information to the Commissioner of Social Security with respect to any information required by the Commissioner of Social Security in connection with the establishment and maintenance of the records provided for in section 405(c)(2) of this title; or
 
@@ -68,7 +68,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 (3) Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) of this section to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) of this section were not committed.
 
-(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Aug. 28, 1958, Pub. L. 85–840, title III, §310, 72 Stat. 1034; Sept. 13, 1960, Pub. L. 86–778, title II, §211(m), 74 Stat. 958; Oct. 30, 1972, Pub. L. 92–603, title I, §130(a), 86 Stat. 1359; Oct. 4, 1976, Pub. L. 94–455, title XII, §1211(a), (d), 90 Stat.1711, 1712; Dec. 29, 1981, Pub. L. 97–123, §4(a), (b), 95 Stat. 1663, 1664; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(a)(5), 98 Stat. 1162; Oct. 9, 1984, Pub. L. 98–460, §16(c)(2), 98 Stat. 1811; Nov. 18, 1988, Pub. L. 100–690, title VII, §7088, 102 Stat. 4409; Nov. 5, 1990, Pub. L. 101–508, title V, §§5121, 5130(a)(1), 104 Stat. 1388–283, 1388–289; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), 108 Stat. 1478, 1536.)
+(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1981 Amendment
 
-Section 4(c) of Pub. L. 97–123 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section\] shall be effective with respect to violations committed after the date of the enactment of this Act \[Dec. 29, 1981\].”
+Section 4(c) of Pub. L. 97–123 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be effective with respect to violations committed after the date of the enactment of this Act \[Dec. 29, 1981\].”
 
 #### Effective Date of 1972 Amendment
 

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III ofchapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entities must meet to qualify as provider-sponsored organizations under this part.
+&emsp;&emsp;The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entities must meet to qualify as provider-sponsored organizations under this part.
 
 #### (B) Factors to consider for solvency standards
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(iii) Coverage determinations (including related appeals and grievance processes).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4001, 111 Stat. 317.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 317.)
 
 #### Section Referred to in Other Sections
 

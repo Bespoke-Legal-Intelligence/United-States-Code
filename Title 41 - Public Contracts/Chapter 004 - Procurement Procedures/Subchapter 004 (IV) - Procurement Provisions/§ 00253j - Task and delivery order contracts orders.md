@@ -26,7 +26,7 @@ A task or delivery order shall include a statement of work that clearly specifie
 
 #### (d) Protests
 
-A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.
+A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, ormaximum value of the contract under which the order is issued.
 
 #### (e) Task and delivery order ombudsman
 

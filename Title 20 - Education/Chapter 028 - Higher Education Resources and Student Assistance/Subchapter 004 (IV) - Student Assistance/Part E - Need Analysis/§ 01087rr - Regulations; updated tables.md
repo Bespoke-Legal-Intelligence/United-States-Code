@@ -12,7 +12,13 @@
 
 #### (b) Income protection allowance
 
-For each academic year after academic year 1993–1994, the Secretary shall publish in the Federal Register a revised table of income protection allowances for the purpose of sections 1087<i>oo</i>(c)(4) and 1087qq(b)(4) of this title. Such revised table shall be developed by increasing each of the dollar amounts contained in the table in each such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.
+#### (1) Revised tables
+
+&emsp;For each academic year after academic year 1993–1994, the Secretary shall publish in the Federal Register a revised table of income protection allowances for the purpose of sections 1087<i>oo</i>(c)(4) and 1087qq(b)(4) of this title. Such revised table shall be developed by increasing each of the dollar amounts contained in the table in each such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.
+
+#### (2) Revised amounts
+
+&emsp;For each academic year after academic year 2000–2001, the Secretary shall publish in the Federal Register revised income protection allowances for the purpose of sections 1087<i>oo</i>(g)(2)(D) and 1087pp(b)(1)(A)(iv) of this title. Such revised allowances shall be developed by increasing each of the dollar amounts contained in such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1999 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.
 
 #### (c) Adjusted net worth of a farm or business
 
@@ -52,9 +58,11 @@ For each award year after award year 1993–1994, the Secretary shall publish in
 
 For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of employment expense allowances for the purpose of sections 1087<i>oo</i>(c)(5), 1087pp(b)(4), and 1087qq(b)(5) of this title. Such revised table shall be developed by increasing the dollar amount specified in sections 1087<i>oo</i>(c)(5)(A), 1087<i>oo</i>(c)(5)(B), 1087pp(b)(4)(A), 1087pp(b)(4)(B), 1087qq (b)(5)(A), and 1087qq(b)(5)(B) of this title to reflect increases in the amount and percent of the Bureau of Labor Statistics budget of the marginal costs for meals away from home, apparel and upkeep, transportation, and housekeeping services for a two-worker versus one-worker family.
 
-(Pub. L. 89–329, title IV, §478, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1470; amended Pub. L. 100–50, §14(20)–(22), June 3, 1987, 101 Stat. 351, 352; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 602; Pub. L. 103–208, §2(g)(8), (9), Dec. 20, 1993, 107 Stat. 2472.)
+(Pub. L. 89–329, title IV, §478, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1470; amended Pub. L. 100–50, §14(20)–(22), June 3, 1987, 101 Stat. 351, 352; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 602; Pub. L. 103–208, §2(g)(8), (9), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §476, Oct. 7, 1998, 112 Stat. 1730.)
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–244 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1993—Subsec. (b). Pub. L. 103–208, §2(g)(8)(A), substituted “1993–1994” for “1992–1993”.
 
@@ -72,9 +80,13 @@ Subsec. (d). Pub. L. 100–50, §14(20), inserted “, rounded to the nearest $
 
 Subsec. (f). Pub. L. 100–50, §14(22), substituted “Consumer Price Index for All Urban Consumers” for “Consumer Price Index for Wage Earners and Clerical Workers”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

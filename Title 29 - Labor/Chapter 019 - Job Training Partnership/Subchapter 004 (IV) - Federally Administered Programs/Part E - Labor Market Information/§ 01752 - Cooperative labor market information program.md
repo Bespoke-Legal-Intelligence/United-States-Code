@@ -64,6 +64,10 @@ The Secretary shall develop and maintain statistical data relating to permanent 
 
 (Pub. L. 97–300, title IV, §462, Oct. 13, 1982, 96 Stat. 1384; Pub. L. 100–418, title VI, §6306(a), Aug. 23, 1988, 102 Stat. 1540; Pub. L. 102–367, title IV, §405(a), title VII, §702(a)(16), Sept. 7, 1992, 106 Stat. 1085, 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (f)(2). Pub. L. 102–367, §702(a)(16), inserted period at end.

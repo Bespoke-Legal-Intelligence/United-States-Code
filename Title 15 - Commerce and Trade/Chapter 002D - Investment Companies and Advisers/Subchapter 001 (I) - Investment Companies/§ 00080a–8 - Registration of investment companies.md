@@ -20,7 +20,7 @@ Every registered investment company shall file with the Commission, within such 
 
 #### (c) Alternative information
 
-The Commission shall make provision, by permissive rules and regulations or order, for the filing of the following, or so much of the following as the Commission may designate, in lieu of the information and documents required pursuant to subsection (b) of this section:
+The Commission shall make provision, by permissive rules and regulations or order, for the filing of the following, or so much of the following as the Commission may designate, in lieu ofthe information and documents required pursuant to subsection (b) of this section:
 
 &emsp;(1) copies of the most recent registration statement filed by the registrant under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and currently effective under such Act, or if the registrant has not filed such a statement, copies of a registration statement filed by the registrant under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] and currently effective under such Act;
 
@@ -44,7 +44,7 @@ If it appears to the Commission that a registered investment company has failed 
 
 Whenever the Commission, on its own motion or upon application, finds that a registered investment company has ceased to be an investment company, it shall so declare by order and upon the taking effect of such order the registration of such company shall cease to be in effect. If necessary for the protection of investors, an order under this subsection may be made upon appropriate conditions. The Commission's denial of any application under this subsection shall be by order.
 
-(Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; June 11, 1960, Pub. L. 86–507, §1(14), 74 Stat. 201; Dec. 14, 1970, Pub. L. 91–547, §3(c), 84 Stat. 1415.)
+(Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415.)
 
 #### References in Text
 

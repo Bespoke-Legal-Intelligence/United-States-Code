@@ -4,7 +4,7 @@
 
 (b) All statements, reports, and representations required by the regulations shall be under oath, unless otherwise specified, and in such form as the Secretary requires.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Apr. 5, 1976, Pub. L. 94–258, title II, §201(18), 90 Stat. 313.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Pub. L. 94–258, title II, §201(18), Apr. 5, 1976, 90 Stat. 313.)
 
 Historical and Revision Notes
 

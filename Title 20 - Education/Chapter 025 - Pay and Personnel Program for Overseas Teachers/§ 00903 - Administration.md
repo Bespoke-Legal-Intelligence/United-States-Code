@@ -24,7 +24,7 @@ The Secretary of Defense may prescribe and issue such regulations as he deems ap
 
 #### Codification
 
-In subsec. (b), “section 5103 of title 5” and “paragraph (22) of section 5102(c) of title 5” substituted for “section 202 of the Classification Act of 1949” and “paragraph\(33) of section 202 of such Act, added by section 3 of this Act” respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b), “section 5103 of title 5” and “paragraph (22) of section 5102(c) of title 5” substituted for “section 202 of the Classification Act of 1949” and “paragraph (33) of section 202 of such Act, added by section 3 of this Act” respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Provisions of section 1(b) and (c) of Pub. L. 89–391 for amendment of subsec. (c) of this section and addition of other provisions as another subsec. (c), have been executed in the Code as an amendment of subsec. (c) of this section and addition of subsec. (e) of this section, respectively.
 

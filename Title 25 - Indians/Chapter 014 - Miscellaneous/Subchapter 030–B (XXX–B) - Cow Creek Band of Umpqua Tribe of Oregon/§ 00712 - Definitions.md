@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 &emsp;(1) the term “tribe” means the Cow Creek Band of Umpqua Tribe of Indians; and
 
-&emsp;(2) the term “member”, when used with respect to the tribe, means a person enrolled onthe membership roll of the tribe in accordance with section 712c of this title.
+&emsp;(2) the term “member”, when used with respect to the tribe, means a person enrolled on the membership roll of the tribe in accordance with section 712c of this title.
 
 (Pub. L. 97–391, §2, Dec. 29, 1982, 96 Stat. 1960; Pub. L. 100–139, §5(b), Oct. 26, 1987, 101 Stat. 827.)
 

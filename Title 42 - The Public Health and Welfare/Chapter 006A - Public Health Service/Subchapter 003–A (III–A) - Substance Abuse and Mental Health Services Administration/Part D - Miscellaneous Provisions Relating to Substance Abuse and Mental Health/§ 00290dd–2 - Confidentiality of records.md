@@ -32,9 +32,9 @@ The prohibitions of this section continue to apply to records concerning any ind
 
 The prohibitions of this section do not apply to any interchange of records—
 
-&emsp;(1) within the Armed Forces or within those components of the Department of Veterans Affairs furnishing health care to veterans; or
+&emsp;(1) within the Uniformed Services or within those components of the Department of Veterans Affairs furnishing health care to veterans; or
 
-&emsp;(2) between such components and the Armed Forces.
+&emsp;(2) between such components and the Uniformed Services.
 
 > The prohibitions of this section do not apply to the reporting under State law of incidents of suspected child abuse and neglect to the appropriate State or local authorities.
 
@@ -48,15 +48,17 @@ Except as provided in subsection (h) of this section, the Secretary shall prescr
 
 #### (h) Application to Department of Veterans Affairs
 
-The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) of this section to records maintained in connection with the provision of hospital care, nursing homecare, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) of this section to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
 
-(July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(13), 97 Stat. 181; renumbered §543, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; July 10, 1992, Pub. L. 102–321, title I, §131, 106 Stat. 368; Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985.)
+(July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; renumbered §543, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L.102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 105–392, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3588.)
 
 #### Codification
 
 Section was formerly classified to section 4581 of this title prior to renumbering by Pub. L. 98–24.
 
 #### Amendments
+
+1998—Subsec. (e)(1), (2). Pub. L. 105–392 substituted “Uniformed Services” for “Armed Forces”.
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subsec. (h).
 

@@ -10,7 +10,7 @@
 
 &emsp;(3) entering into cooperative agreements when authorized to do so under this chapter or any other Act.
 
-(Mar. 3, 1901, ch. 872, §26, as added Aug. 23, 1988, Pub. L. 100–418, title V, §5121(a), 102 Stat. 1435.)
+(Mar. 3, 1901, ch. 872, §26, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1435.)
 
 #### Technology Extension Services
 

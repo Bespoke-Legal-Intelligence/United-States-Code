@@ -72,7 +72,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(A) The unit to which the hazardous substance or pollutant or contaminant is transferred is not releasing any hazardous waste, or constituent thereof, into the groundwater or surface water or soil.
 
-&emsp;(B) All such releases from other units at the facility are being controlled by a corrective action program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
+&emsp;(B) All such releases from other units at the facility are being controlled by a correctiveaction program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
 
 > The President shall notify the owner or operator of such facility of determinations under this paragraph.
 
@@ -96,7 +96,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (1) No Federal, State, or local permit shall be required for the portion of any removal or remedial action conducted entirely onsite, where such remedial action is selected and carried out in compliance with this section.
 
-(2) A State may enforce any Federal or State standard, requirement, criteria, or limitation to which the remedial action is required to conform under this chapter in the United States district court for the district in which the facility is located. Any consent decree shall require the parties to attempt expeditiously to resolve disagreements concerning implementation of the remedial action informally with the appropriate Federal and State agencies. Where the parties agree, the consent decree may provide for administrative enforcement. Each consent decree shall also contain stipulated penalties forviolations of the decree in an amount not to exceed $25,000 per day, which may be enforced by either the President or the State. Such stipulated penalties shall not be construed to impair or affect the authority of the court to order compliance with the specific terms of any such decree.
+(2) A State may enforce any Federal or State standard, requirement, criteria, or limitation to which the remedial action is required to conform under this chapter in the United States district court for the district in which the facility is located. Any consent decree shall require the parties to attempt expeditiously to resolve disagreements concerning implementation of the remedial action informally with the appropriate Federal and State agencies. Where the parties agree, the consent decree may provide for administrative enforcement. Each consent decree shall also contain stipulated penalties for violations of the decree in an amount not to exceed $25,000 per day, which may be enforced by either the President or the State. Such stipulated penalties shall not be construed to impair or affect the authority of the court to order compliance with the specific terms of any such decree.
 
 #### (f) State involvement
 
@@ -128,7 +128,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(H) Prompt notice and explanation of each proposed action to the State in which the facility is located.
 
-> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
+> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State mayparticipate in such negotiations and, subject to paragraph (2), any settlements.
 
 (2)(A) This paragraph shall apply to remedial actions secured under section 9606 of this title. At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
 

@@ -58,8 +58,6 @@ Level V of the Executive Schedule applies to the following positions, for which 
 
 &emsp;Deputy Commissioner of Internal Revenue, Department of the Treasury.
 
-&emsp;Deputy Director, Policy and Plans, United States Information Agency.
-
 &emsp;Deputy General Counsel, Department of Defense.
 
 &emsp;Associate Director of the Federal Mediation and Conciliation Service.
@@ -77,8 +75,6 @@ Level V of the Executive Schedule applies to the following positions, for which 
 &emsp;General Counsel of the Agency for International Development.
 
 &emsp;General Counsel of the Nuclear Regulatory Commission.
-
-&emsp;General Counsel of the United States Arms Control and Disarmament Agency.
 
 &emsp;General Counsel of the National Aeronautics and Space Administration.
 
@@ -98,8 +94,6 @@ Level V of the Executive Schedule applies to the following positions, for which 
 
 &emsp;Assistant Director (Program Planning, Analysis and Research), Office of Economic Opportunity.
 
-&emsp;Associate Director (Policy and Plans), United States Information Agency.
-
 &emsp;Deputy Director, National Security Agency.
 
 &emsp;Director, Bureau of Land Management, Department of the Interior.
@@ -117,8 +111,6 @@ Level V of the Executive Schedule applies to the following positions, for which 
 &emsp;Director, United States National Museum, Smithsonian Institution.
 
 &emsp;Director, Smithsonian Astrophysical Observatory, Smithsonian Institution.
-
-&emsp;Administrator for Economic Development.
 
 &emsp;Administrator of the Environmental Science Services Administration.
 
@@ -178,7 +170,7 @@ Level V of the Executive Schedule applies to the following positions, for which 
 
 &emsp;Director, Bureau of Transportation Statistics.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 463; Pub. L. 89–670, §10(d)(5), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, §1(2), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, §8(c)(2), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–9, §6, Apr. 10, 1967, 81 Stat. 12; Pub. L. 90–83, §1(16), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(c), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, §506, June 19, 1968, 82 Stat. 205; Pub. L. 90–407, §15(a)(3), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, §1(4), (5), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–175, pt. V, §503(3), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, §6(c)(15), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–453, §12, Oct. 15, 1970, 84 Stat. 968; Pub. L. 91–644, title I, §7(2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, §3, June 1, 1971, 85 Stat. 76; Pub. L. 92–255, title II, §212(c), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, §9(c), (d), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(d), May 18, 1972, 86 Stat. 149; Pub. L. 92–603, title IV, §404(a), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 93–43, §2(c), June 18, 1973, 87 Stat. 78; Pub. L. 93–74, §8, July 23, 1973, 87 Stat. 175; Pub. L. 90–351, title I, §506(b), as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–271, §2, Apr. 22, 1974, 88 Stat. 92; Pub. L. 93–126, §9(c), as added Pub. L. 93–312, §9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, §818(b), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–438, title III, §310(4), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, §102(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 93–618, title I, §172(c)(3), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, §202(b)(5), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–183, §2(19), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–307, §7, June 4, 1976, 90 Stat. 681; Pub. L. 94–370, §15(b), July 26, 1976, 90 Stat. 1032; Pub. L. 94–422, title II, §202, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–503, title II, §202(c), Oct. 15, 1976, 90 Stat. 2427; Pub. L. 94–561, §3(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 94–582, §26, Oct. 21, 1976, 90 Stat. 2889; Pub. L. 95–89, title II, §209, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–91, title VII, §710(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–115, §3(a)(6), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 95–219, §3(b), Dec. 28, 1977, 91 Stat. 1614; Pub. L. 95–452, §10(b), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§201(b)(3), 202(c)(4), title VII, §703(e), Oct. 13, 1978, 92 Stat. 1121, 1131, 1217; Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–53, title IV, §412(c), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(11), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–88, title V, §508(f), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, §820(e)(2), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–209, title I, §109, Mar. 14, 1980, 94 Stat. 97; Pub. L. 96–466, title V, §504(d), Oct. 17,1980, 94 Stat. 2203; Pub. L. 97–31, §12(1)(C), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–113, title VII, §705(b)(3), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 97–258, §2(a), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 97–325, §8(c), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, §3(4), (5), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–557, §26(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–73, §6(b)(2), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title VII, §704(a)(3), Aug. 16, 1985, 99 Stat. 446; Pub. L. 99–145, title XII, §1204(c), Nov. 8, 1985, 99 Stat. 721; Pub. L. 99–383, §7(b)(2), Aug. 21, 1986, 100 Stat. 814; Pub. L. 99–619, §2(c)(2), (d), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(3), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–180, div. A, title XII, §1245(c), Dec. 4, 1987, 101 Stat. 1165; Pub. L. 100–504, title I, §103(b), Oct. 18, 1988, 102 Stat. 2522; Pub. L. 100–527, §13(g), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, §8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–607, title V, §503(b)(1), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–690, title VII, §7252(b)(4), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 100–713, title VI, §601(d), Nov. 23, 1988, 102 Stat. 4826; Pub. L. 101–319, §§3(b), 4, July 3, 1990, 104 Stat. 290, 291; Pub. L. 101–501, title IX, §915(b)(1)(B), Nov. 3, 1990, 104 Stat. 1263; Pub. L. 101–509, title V, §529 \[title I, §113(1)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 102–190, div. A, title IX, §903(a)(2), div. C, title XXXV, §3504(b), Dec. 5, 1991, 105 Stat. 1451, 1586; Pub. L. 102–240, title III, §3004(d)(2), title VI, §6006(d), Dec. 18, 1991, 105 Stat. 2088, 2174; Pub. L. 102–359, §2(b)(2), Aug. 26, 1992, 106 Stat. 962; Pub. L. 103–123, title I, §108(a)(1), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–333, title I, §106, Sept. 30, 1994, 108 Stat. 2549; Pub. L. 103–354, title II, §294, Oct. 13, 1994, 108 Stat. 3237; Pub. L. 104–106, div. A, title IX, §904(b)(2), Feb. 10, 1996, 110 Stat. 403; Pub. L. 104–201, div. A, title X, §1073(e)(1)(A), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(e)(2), Nov. 18, 1997, 111 Stat. 1906.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 463; Pub. L. 89–670, §10(d)(5), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 89–734, §1(2), Nov. 2, 1966, 80 Stat. 1163; Pub. L. 89–779, §8(c)(2), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–9, §6, Apr. 10, 1967, 81 Stat. 12; Pub. L. 90–83, §1(16), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(c), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, §506, June 19, 1968, 82 Stat. 205; Pub. L. 90–407, §15(a)(3), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, §1(4), (5), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–175, pt. V, §503(3), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, §6(c)(15), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–453, §12, Oct. 15, 1970, 84 Stat. 968; Pub. L. 91–644, title I, §7(2), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 92–22, §3, June 1, 1971, 85 Stat. 76; Pub. L. 92–255, title II, §212(c), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–261, §9(c), (d), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(d), May 18, 1972, 86 Stat. 149; Pub. L. 92–603, title IV, §404(a), Oct. 30, 1972, 86 Stat. 1488; Pub. L. 93–43, §2(c), June 18, 1973, 87 Stat. 78; Pub. L. 93–74, §8, July 23, 1973, 87 Stat. 175; Pub. L. 90–351, title I, §506(b), as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–271, §2, Apr. 22, 1974, 88 Stat. 92; Pub. L. 93–126, §9(c), as added Pub. L. 93–312, §9, June 8, 1974, 88 Stat. 238; Pub. L. 93–383, title VIII, §818(b), Aug. 22, 1974, 88 Stat. 740; Pub. L. 93–438, title III, §310(4), Oct. 11, 1974, 88 Stat. 1253; Pub. L. 93–463, title I, §102(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 93–618, title I, §172(c)(3), Jan. 3, 1975, 88 Stat. 2010; Pub. L. 94–82, title II, §202(b)(5), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–183, §2(19), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–307, §7, June 4, 1976, 90 Stat. 681; Pub. L. 94–370, §15(b), July 26, 1976, 90 Stat. 1032; Pub. L. 94–422, title II, §202, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–503, title II, §202(c), Oct. 15, 1976, 90 Stat. 2427; Pub. L. 94–561, §3(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 94–582, §26, Oct. 21, 1976, 90 Stat. 2889; Pub. L. 95–89, title II, §209, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–91, title VII, §710(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–115, §3(a)(6), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 95–219, §3(b), Dec. 28, 1977, 91 Stat. 1614; Pub. L. 95–452, §10(b), Oct. 12, 1978, 92 Stat. 1108; Pub. L. 95–454, title II, §§201(b)(3), 202(c)(4), title VII, §703(e), Oct. 13, 1978, 92 Stat. 1121, 1131, 1217; Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–53, title IV, §412(c), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(11), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–88, title V, §508(f), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 96–107, title VIII, §820(e)(2), Nov. 9, 1979, 93 Stat. 819; Pub. L. 96–209, title I, §109, Mar. 14, 1980, 94 Stat. 97; Pub. L. 96–466, title V, §504(d), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–31, §12(1)(C), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–113, title VII, §705(b)(3), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 97–258, §2(a), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 97–325, §8(c), Oct. 15, 1982, 96 Stat. 1605; Pub. L. 97–449, §3(4), (5), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 98–557, §26(b), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–73, §6(b)(2), July 29, 1985, 99 Stat. 173; Pub. L. 99–93, title VII, §704(a)(3), Aug. 16, 1985, 99 Stat. 446; Pub. L. 99–145, title XII, §1204(c), Nov. 8, 1985, 99 Stat. 721; Pub. L. 99–383, §7(b)(2), Aug. 21, 1986, 100 Stat. 814; Pub. L. 99–619, §2(c)(2), (d), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(3), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–180, div. A, title XII, §1245(c), Dec. 4, 1987, 101 Stat. 1165; Pub. L. 100–504, title I, §103(b), Oct. 18, 1988, 102 Stat. 2522; Pub. L. 100–527, §13(g), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, §8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–607, title V, §503(b)(1), Nov. 4, 1988, 102 Stat. 3121; Pub. L. 100–690, title VII, §7252(b)(4), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 100–713, title VI, §601(d), Nov. 23, 1988, 102 Stat. 4826; Pub. L. 101–319, §§3(b), 4, July 3, 1990, 104 Stat. 290, 291; Pub. L. 101–501, title IX, §915(b)(1)(B), Nov. 3, 1990, 104 Stat. 1263; Pub. L. 101–509, title V, §529 \[title I, §113(1)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 102–190, div. A, title IX, §903(a)(2), div. C, title XXXV, §3504(b), Dec. 5, 1991, 105 Stat. 1451, 1586; Pub. L. 102–240, title III, §3004(d)(2), title VI, §6006(d), Dec. 18, 1991, 105 Stat. 2088, 2174; Pub. L. 102–359, §2(b)(2), Aug. 26, 1992, 106 Stat. 962; Pub. L. 103–123, title I, §108(a)(1), Oct. 28, 1993, 107 Stat. 1234; Pub. L. 103–333, title I, §106, Sept. 30, 1994, 108 Stat. 2549; Pub. L. 103–354, title II, §294, Oct. 13, 1994, 108 Stat. 3237; Pub. L. 104–106, div. A, title IX, §904(b)(2), Feb. 10, 1996, 110 Stat. 403; Pub. L. 104–201, div. A, title X, §1073(e)(1)(A), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div.A, title X, §1073(e)(2), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–277, div. G, title XII, §1224(4), title XIII, §1332(3), Oct. 21, 1998, 112 Stat. 2681–772, 2681–785; Pub. L. 105–393, title I, §103, Nov. 13, 1998, 112 Stat. 3617.)
 
 Historical and Revision Notes<br>1966
 
@@ -281,6 +273,12 @@ The redesignation of paragraphs (117) and (118) as paragraphs “(118)” and �
 The paragraph designations for the positions added by Pub. L. 96–88 have been omitted in view of the deletion of all paragraph designations in this section by Pub. L. 96–54.
 
 #### Amendments
+
+1998—Pub. L. 105–393 struck out item relating to Administrator for Economic Development.
+
+Pub. L. 105–277, §1332(3), struck out items relating to Deputy Director, Policy and Plans, United States Information Agency, and Associate Director (Policy and Plans), United States Information Agency.
+
+Pub. L. 105–277, §1224(4), struck out item relating to General Counsel of the United States Arms Control and Disarmament Agency.
 
 1997—Pub. L. 105–85 substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
 
@@ -504,6 +502,14 @@ Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of P
 
 Geological Survey redesignated United States Geological Survey by provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
+#### Effective Date of 1998 Amendments
+
+Amendment by Pub. L. 105–393 effective on date determined by Secretary of Commerce, but not later than 90 days after Nov. 13, 1998, see section 105 of Pub. L. 105–393, set out as an Effective Date note under section 3121 of Title 42, The Public Health and Welfare.
+
+Amendment by section 1224(4) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
+
+Amendment by section 1332(3) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–123 effective on first applicable pay period after Oct. 28, 1993, see section 108(b) of Pub. L. 103–123, set out as a note under section 5315 of this title.
@@ -614,10 +620,6 @@ Environmental Science Services Administration in Department of Commerce, includi
 
 Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by 1973 Reorg. Plan No. 2, eff. July 1, 1973, 38 FR 15932, 87 Stat. 1091, set out in the Appendix to this title, 1973 Reorg. Plan No. 2 also created in Department of Justice an agency to be known as Drug Enforcement Administration, with an Administrator and Deputy Administrator appointed by President with advice and consent of Senate.
 
-#### United States Information Agency
-
-United States Information Agency, including offices of Director, Deputy Director, Deputy Director (Policy and Plans), referred to in this section, Associate Director (Policy and Plans), referred to in this section, and additional offices created by Reorg. Plan No. 8 of 1953, §1(d), eff. Aug. 1, 1953, 18 F.R. 4542, 67 Stat. 642, set out in the Appendix to this title, abolished and replaced by International Communication Agency pursuant to Reorg. Plan No. 2 of 1977, 42 F.R. 62461, 91 Stat. 1636, set out in the Appendix to this title, effective on or before July 1, 1978, at such times as specified by President. International Communication Agency redesignated United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
-
 #### Indian Claims Commission
 
 Indian Claims Commission terminated on Sept. 30, 1978, pursuant to Pub. L. 94–465, §2, Oct. 8, 1976, 90 Stat. 1990.
@@ -636,7 +638,7 @@ Pub. L. 100–456, div. A, title VII, §703(b), Sept. 29, 1988, 102 Stat. 1996, 
 
 #### Compensation of Deputy Assistant Secretary of Commerce for Communications and Information
 
-Pub. L. 95–567, title I, §106(c), Nov. 2, 1978, 92 Stat. 2409, provided that: “The position of Deputy AssistantSecretary of Commerce for Communications and Information, established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978), shall be compensated at the rate of pay in effect from time to time for level V of the Executive Schedule under section 5316 of title 5, United States Code.”
+Pub. L. 95–567, title I, §106(c), Nov. 2, 1978, 92 Stat. 2409, provided that: “The position of Deputy Assistant Secretary of Commerce for Communications and Information, established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978), shall be compensated at the rate of pay in effect from time to time for level V of the Executive Schedule under section 5316 of title 5, United States Code.”
 
 #### Subversive Activities Control Board
 
@@ -644,7 +646,9 @@ Subversive Activities Control Board, Chairman and Members of which were compensa
 
 #### Salary Increases
 
-1998—Salaries of positions at level V increased to $110,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title.
+1999—Salaries of positions at level V continued at $110,700 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of this title.
+
+1998—Salaries of positions at level V increased to $110,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521.
 
 1997—Salaries of positions at level V continued at $108,200 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987.
 
@@ -696,7 +700,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated 
 
 1977—Salaries of positions at level V increased to $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-1976—Salaries of positions at level V increased to $39,600 per annum, effective on the first day of the firstpay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $37,800.
+1976—Salaries of positions at level V increased to $39,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $37,800.
 
 1975—Salaries of positions at level V increased to $37,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
 
@@ -704,5 +708,5 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 60a–2, 74a–3, 166, 282b, 288, 353, 437c, 1381, 1382; title 3 section 113; title 10 section 973; title 12 sections 1723a, 4703; title 15 section 2204; title 18 section 207; title 20 sections 1145a, 1221e, 3501, 3503, 5826, 5848, 5933, 6021; title 21 section 1305; title 22 sections 286a, 1465c, 1622c, 3506, 3612, 3961, 4106, 5510; title 25 section 3505; title 26 sections 3121, 6103; title 28 sections 537, 548, 625; title 29 section 761a; title 31 section 731; title 38 sections 7404, 7451; title 39 section 206; title 41 section 422; title 42 sections 300aa–12, 410, 907a, 1108, 1320b–9, 2996d, 3015, 3201, 5871, 5872, 7211, 7232, 7291, 7293, 10704, 11314; title 44 sections 303, 3319; title 47 section 155; title 49 section 106.
+This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 60a–2, 74a–3, 166, 282b, 288, 353, 437c, 1381, 1382; title 3 section 113; title 10 section 973; title 12 sections 1723a, 4703; title 15 section 2204; title 18 section 207; title 20 sections 1145a, 1221e, 3501, 3503, 5826, 5848, 5933, 6021; title 21 section 1305; title 22 sections 286a, 1465c, 1622c, 3506, 3612, 3961, 4106, 5510; title 25 section 3505; title 26 sections 3121, 6103; title 28sections 537, 548, 625; title 29 section 761a; title 31 section 731; title 38 sections 7404, 7451; title 39 section 206; title 41 section 422; title 42 sections 300aa–12, 410, 907a, 1108, 1320b–9, 2996d, 3015, 3201, 5871, 5872, 7211, 7232, 7291, 7293, 10704, 11314; title 44 sections 303, 3319; title 47 section 155; title 49 section 106.
 

@@ -22,7 +22,7 @@
 | (a) | Violation of conditions; amount. |
 | (b) | Civil action. |
 | [10508\.](%C2%A7%2010508%20-%20Recordkeeping%20requirement.md) | Recordkeeping requirement. |
-| [10509\.](%C2%A7%2010509%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [10509\.](%C2%A7%2010509%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20X%2C%20%C2%A71001%28a%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203291.md) | Repealed. |
 | [10510\.](%C2%A7%2010510%20-%20Bureau%20of%20Justice%20Assistance.md) | Bureau of Justice Assistance. |
 | [10511\.](%C2%A7%2010511%20-%20Limitation%20on%20civil%20justice%20matters.md) | Limitation on civil justice matters. |
 | [10512\.](%C2%A7%2010512%20-%20Issuance%20of%20rules.md) | Issuance of rules. |
@@ -31,6 +31,8 @@
 | (b) | Assistance other than funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original.</i>
 
 
 ---
@@ -45,7 +47,7 @@
 - [&sect; 10506 - Prohibition of land acquisition](%C2%A7%2010506%20-%20Prohibition%20of%20land%20acquisition.md)
 - [&sect; 10507 - Repayment](%C2%A7%2010507%20-%20Repayment.md)
 - [&sect; 10508 - Recordkeeping requirement](%C2%A7%2010508%20-%20Recordkeeping%20requirement.md)
-- [&sect; 10509 - Report to Congress](%C2%A7%2010509%20-%20Report%20to%20Congress.md)
+- [&sect; 10509 - Repealed. Pub. L. 105&#8211;362, title X, &sect;1001(a), Nov. 10, 1998, 112 Stat. 3291](%C2%A7%2010509%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20X%2C%20%C2%A71001%28a%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203291.md)
 - [&sect; 10510 - Bureau of Justice Assistance](%C2%A7%2010510%20-%20Bureau%20of%20Justice%20Assistance.md)
 - [&sect; 10511 - Limitation on civil justice matters](%C2%A7%2010511%20-%20Limitation%20on%20civil%20justice%20matters.md)
 - [&sect; 10512 - Issuance of rules](%C2%A7%2010512%20-%20Issuance%20of%20rules.md)

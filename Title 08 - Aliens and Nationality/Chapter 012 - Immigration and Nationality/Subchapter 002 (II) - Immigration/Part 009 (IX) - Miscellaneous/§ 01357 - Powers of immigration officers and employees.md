@@ -44,7 +44,7 @@ In the case of an alien who is arrested by a Federal, State, or local law enforc
 
 #### (e) Restriction on warrantless entry in case of outdoor agricultural operations
 
-Notwithstanding any other provision of this section other than paragraph (3) of subsection\(a) of this section, an officer or employee of the Service may not enter without the consent of the owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person's right to be or to remain in the United States.
+Notwithstanding any other provision of this section other than paragraph (3) of subsection (a) of this section, an officer or employee of the Service may not enter without the consent of the owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person's right to be or to remain in the United States.
 
 #### (f) Fingerprinting and photographing of certain aliens
 
@@ -78,7 +78,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 &emsp;(B) otherwise to cooperate with the Attorney General in the identification, apprehension, detention, or removal of aliens not lawfully present in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Oct. 18, 1976, Pub. L. 94–550, §7, 90 Stat. 2535; Oct. 27, 1986, Pub. L. 99–570, title I, §1751(d), 100 Stat. 3207–47; Nov. 6, 1986, Pub. L. 99–603, title I, §116, 100 Stat. 3384; Oct. 24, 1988, Pub. L. 100–525, §§2(e), 5, 102 Stat. 2610, 2615; Nov. 29, 1990, Pub. L. 101–649, title V, §503(a), (b)(1), 104 Stat. 5048, 5049; Dec. 12, 1991, Pub. L. 102–232, title III, §306(a)(3), 105 Stat. 1751; Sept. 30, 1996, Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623.)
+(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623.)
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 104–208, §308(d)(4)(L)(ii), substituted “denial of adm
 
 Subsec. (f)(1). Pub. L. 104–208, §308(g)(5)(A)(i), substituted “section 1229a” for “section 1252”.
 
-Subsec. (g). Pub. L. 104–208, §308(e)(1)(M), which directed amendment of subsec. (g) by substituting “removal” for “deportation” wherever appearing, could not be executed because the word “deportation” did not appear in subsec. (g).
+Subsec. (g). Pub. L. 104–208, §308(e)(1)(M), which directed amendment of subsec. (g) by substituting “removal” for “deportation” wherever appearing, couldnot be executed because the word “deportation” did not appear in subsec. (g).
 
 Pub. L. 104–208, §133, added subsec. (g).
 

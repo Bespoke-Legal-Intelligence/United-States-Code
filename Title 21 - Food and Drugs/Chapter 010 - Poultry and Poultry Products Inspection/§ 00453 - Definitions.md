@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
-&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than onewhich is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
+&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
 &emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title;
 
@@ -52,7 +52,7 @@ For purposes of this chapter—
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
-&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
+&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be requiredby such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 457 of this title, and it falls below the standard to fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
@@ -62,7 +62,7 @@ For purposes of this chapter—
 
 &emsp;(11) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative unless it bears labeling stating that fact: <i>Provided</i>, That, to the extent that compliance with the requirements of this subparagraph (11) is impracticable, exemptions shall be established by regulations promulgated by the Secretary; or
 
-&emsp;(12) if it fails to bear on its containers, and in the case of nonconsumer packaged carcasses (if the Secretary so requires) directlythereon, as the Secretary may by regulations prescribe, the official inspection legend and official establishment number of the establishment where the article was processed, and, unrestricted by any of the foregoing, such other information as the Secretary may require in such regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
+&emsp;(12) if it fails to bear on its containers, and in the case of nonconsumer packaged carcasses (if the Secretary so requires) directly thereon, as the Secretary may by regulations prescribe, the official inspection legend and official establishment number of the establishment where the article was processed, and, unrestricted by any of the foregoing, such other information as the Secretary may require in such regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
 
 (i) The term “Secretary” means the Secretary of Agriculture or his delegate.
 
@@ -98,7 +98,7 @@ For purposes of this chapter—
 
 (y) The terms “pesticide chemical,” “food additive”, “color additive”, and “raw agricultural commodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
-(z) The term “poultry products broker” means any person engaged in the business of buying or selling poultry products on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person.
+(z) The term “poultry products broker” means any person engaged in the business of buying orselling poultry products on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person.
 
 (aa) The term “renderer” means any person engaged in the business of rendering carcasses, or parts or products of the carcasses, of poultry, except rendering conducted under inspection or exemption under this chapter.
 

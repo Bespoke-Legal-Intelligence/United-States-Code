@@ -90,7 +90,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(i) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activity that provides significant support services for members of the armed forces stationed or deployed outside the United States;
 
-&emsp;(ii) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals; and
+&emsp;(ii) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor toemployees under the contract who are foreign nationals; and
 
 &emsp;(iii) the payment of severance pay is necessary in order to comply with a law that is generally applicable to a significant number of businesses in the country in which the foreign national receiving the payment performed services under the contract or is necessary to comply with a collective bargaining agreement.
 
@@ -180,7 +180,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (2) A disposition referred to in paragraph (1)(B) is any of the following:
 
-&emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
+&emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant toa plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
 
 &emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
@@ -236,7 +236,7 @@ Definitions.—In this section:
 
 &emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
 
-&emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, theamount shall be rounded to the next higher multiple of $50,000.
+&emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
 &emsp;(2) The term “head of the agency” or “agency head” does not include the Secretary of a military department.
 
@@ -244,17 +244,11 @@ Definitions.—In this section:
 
 &emsp;(4) The term “compensation”, for a year, means the total amount of wages, salary, bonuses and deferred compensation for the year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the year.
 
-&emsp;(5) The term “senior executive”, with respect to a contractor, means—
-
-&emsp;&emsp;(A) the chief executive officer of the contractor or any individual acting in a similar capacity for the contractor;
-
-&emsp;&emsp;(B) the four most highly compensated employees in management positions of the contractor other than the chief executive officer; and
-
-&emsp;&emsp;(C) in the case of a contractor that has components which report directly to the contractor's headquarters, the five most highly compensated employees in management positions at each such component.
+&emsp;(5) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
 
 &emsp;(6) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700 §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b)\[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700 §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083.)
 
 #### Historical and Revision Notes
 
@@ -273,6 +267,14 @@ Section 4 of the Buy American Act (41 U.S.C. 10b–1), referred to in subsec. (e
 Another section 2324 of this title was contained in chapter 138 and was renumbered section 2344 of this title.
 
 #### Amendments
+
+1998—Subsec. (<i>l</i>)(5). Pub. L. 105–261 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘senior executive’, with respect to a contractor, means—
+
+&emsp;“(A) the chief executive officer of the contractor or any individual acting in a similar capacity for the contractor;
+
+&emsp;“(B) the four most highly compensated employees in management positions of the contractor other than the chief executive officer; and
+
+&emsp;“(C) in the case of a contractor that has components which report directly to the contractor's headquarters, the five most highly compensated employees in management positions at each such component.”
 
 1997—Subsec. (e)(1)(P). Pub. L. 105–85, §808(a)(1), added subpar. (P).
 
@@ -314,7 +316,7 @@ Subsec. (e)(3)(A). Pub. L. 103–355, §2101(a)(5)(F), substituted “the Federa
 
 Subsec. (e)(4). Pub. L. 103–355, §2101(a)(5)(G), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary shall prescribe regulations to implement this section. Such regulations may establish appropriate definitions, exclusions, limitations, and qualifications.”
 
-Subsec. (f)(1). Pub. L. 103–355, §2101(a)(6)(A), inserted heading and substituted “(1) The Federal Acquisition Regulation shall contain provisions on the allowability of contractor costs. Such provisions” for “(1) The Secretary shall prescribe proposed regulations to amend those provisions of the Department of Defense Supplement to the Federal Acquisition Regulation dealing with the allowability of contractor costs. The amendments” and “The regulations” for “These regulations”.
+Subsec. (f)(1). Pub. L. 103–355, §2101(a)(6)(A), inserted heading and substituted “(1) The Federal AcquisitionRegulation shall contain provisions on the allowability of contractor costs. Such provisions” for “(1) The Secretary shall prescribe proposed regulations to amend those provisions of the Department of Defense Supplement to the Federal Acquisition Regulation dealing with the allowability of contractor costs. The amendments” and “The regulations” for “These regulations”.
 
 Subsec. (f)(1)(Q). Pub. L. 103–355, §2101(c), added subpar. (Q).
 
@@ -434,6 +436,10 @@ Subsec. (h)(2). Pub. L. 99–190, §101(b) \[§8112(a)(2)\], inserted “, in a
 
 Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j) and redesignated former subsec. (j) as (k).
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title VIII, §804(d), Oct. 17, 1998, 112 Stat. 2083, provided that: “The amendments made by this section \[amending this section, sections 256 and 435 of Title 41, Public Contracts, and provisions set out as a note under section 435 of Title 41\] shall apply with respect to costs of compensation of senior executives incurred after January 1, 1999, under covered contracts (as defined in section 2324(<i>l</i>) of title 10, United States Code, and section 306(<i>l</i>) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C.256(<i>l</i>)) entered into before, on, or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–85 effective on date that is 90 days after Nov. 18, 1997, and applicable with respect to costs of compensation incurred after Jan. 1, 1998, under covered contracts entered into before, on, or after Nov. 18, 1997, see section 808(e) of Pub. L. 105–85, set out as an Effective Date note under section 435 of Title 41, Public Contracts.
@@ -462,7 +468,7 @@ Section 346(b) of Pub. L. 102–190 provided that: “The amendments made by sub
 
 #### Effective Date of 1989 Amendment
 
-Section 311(a)(2) of Pub. L. 101–189 provided that: “Subparagraph (N) of such subsection \[10 U.S.C. 2324(e)(1)(N)\], as added by paragraph (1), shall not apply with respect to the termination of the employment of a foreign national employed under any covered contract (as defined in subsection (<i>l</i>) of such section \[10 U.S.C. 2324(<i>l</i>)\]) if such termination is the result of theclosing of, or the curtailment of activities at, a United States military facility in a foreign country pursuant to an agreement entered into with the government of that country before the date of the enactment of this Act \[Nov. 29, 1989\].”
+Section 311(a)(2) of Pub. L. 101–189 provided that: “Subparagraph (N) of such subsection \[10 U.S.C. 2324(e)(1)(N)\], as added by paragraph (1), shall not apply with respect to the termination of the employment of a foreign national employed under any covered contract (as defined in subsection (<i>l</i>) of such section \[10 U.S.C. 2324(<i>l</i>)\]) if such termination is the result of the closing of, or the curtailment of activities at, a United States military facility in a foreign country pursuant to an agreement entered into with the government of that country before the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 Section 853(a)(3) of Pub. L. 101–189 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note below\] shall take effect as of November 19, 1988.”
 
@@ -566,7 +572,7 @@ Comptroller General Reports.—(1) Not later than March 1, 1995, the Comptroller
 
 #### Reimbursement of Indirect Costs of Institutions of Higher Education Under Department of Defense Contracts
 
-Pub. L. 103–160, div. A, title VIII, §841, Nov. 30, 1993, 107 Stat. 1719, provided that:
+Pub. L. 103–160, div. A, title VIII, §841, Nov. 30, 1993, 107 Stat. 1719, as amended by Pub. L. 105–244, title I, §102(a)(2)(C), Oct. 7, 1998, 112 Stat. 1617, provided that:
 
 “(a)
 
@@ -582,7 +588,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘allowable indirect costs’ means costs that are generally considered allowable as indirect costs under regulations that establish the cost reimbursement principles applicable to an institution of higher education for purposes of Department of Defense contracts.
 
-&emsp;“(2) The term ‘institution of higher education’ has the meaning given such term in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)).”
+&emsp;“(2) The term ‘institution of higher education’ has the meaning given such term in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\].”
 
 #### Assessment of Regulations Relating to Allowability of Costs To Promote Export of Defense Products; Report to Congress
 

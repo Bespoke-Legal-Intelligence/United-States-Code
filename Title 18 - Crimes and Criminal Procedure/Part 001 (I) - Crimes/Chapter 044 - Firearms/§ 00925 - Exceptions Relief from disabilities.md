@@ -12,7 +12,7 @@
 
 (b) A licensed importer, licensed manufacturer, licensed dealer, or licensed collector who is indicted for a crime punishable by imprisonment for a term exceeding one year, may, notwithstanding any other provision of this chapter, continue operation pursuant to his existing license (if prior to the expiration of the term of the existing license timely application is made for a new license) during the term of such indictment and until any conviction pursuant to the indictment becomes final.
 
-(c) A person who is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition may make application to the Secretary for relief from the disabilities imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms, and the Secretary may grant such relief if it is established to his satisfaction that the circumstances regarding the disability, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief would not be contrary to the public interest. Any person whose application for relief from disabilities is denied by the Secretary may file a petition with the United States district court for the district in which he resides for a judicial review of such denial. The court may in its discretion admit additional evidence where failure to do so would result in a miscarriage of justice. A licensed importer, licensed manufacturer, licensed dealer, or licensed collector conducting operations under this chapter, who makes application for relief from the disabilities incurred under this chapter, shall not be barred by such disability from further operations under his license pending final action on an application for relief filed pursuant to this section. Whenever the Secretary grants relief to any person pursuant to this section he shall promptly publish in the Federal Register notice of such action, together with the reasons therefor.
+(c) A person who is prohibited from possessing, shipping, transporting, or receiving firearms or ammunition may make application to the Secretary for relief from the disabilities imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms, and the Secretary may grant such relief if it is established to his satisfaction that the circumstances regarding the disability, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief would not be contrary to the public interest. Any person whose application for relief from disabilities is denied by the Secretary may file a petition with the United States district court for the district in which he resides for a judicial review of such denial. The court may in its discretion admit additional evidence where failure to do so would result in a miscarriage of justice. A licensed importer, licensed manufacturer, licensed dealer, or licensed collector conducting operations under this chapter, who makes application for relief from the disabilities incurred under this chapter, shall not be barred by such disability from further operations under his license pending final action on an application forrelief filed pursuant to this section. Whenever the Secretary grants relief to any person pursuant to this section he shall promptly publish in the Federal Register notice of such action, together with the reasons therefor.
 
 (d) The Secretary shall authorize a firearm or ammunition to be imported or brought into the United States or any possession thereof if the firearm or ammunition—
 
@@ -38,7 +38,7 @@
 
 #### Amendment of Section
 
-<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, provided that, effective 10 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (1) to (4) and subsection (f) of this section is repealed.</i>
+<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that, effective 15 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (1) to (4) and subsection (f) of this section is repealed.</i>
 
 #### References in Text
 
@@ -86,11 +86,11 @@ Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammun
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of Title 36, Patriotic Societies and Observances, or Oct. 1, 1996, see section 1624(c) of Pub. L. 104–106, set out as a note under section 4313 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of \[former\] Title 36, Patriotic Societies and Observances, or Oct. 1, 1996, see section 1624(c) of Pub. L. 104–106, set out as a note under section 4316 of Title 10, Armed Forces.
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 
-Amendment by section 2(c) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 10 years after such effective date, see section 2(f) of Pub. L. 100–649, set out as a note under section 922 of this title.
+Amendment by section 2(c) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 15 years after such effective date, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under section 922 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -40,11 +40,13 @@ As used in this part, unless otherwise specified—
 
 &emsp;&emsp;&emsp;&emsp;(II) to the contributions made under the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 (5 U.S.C. 8331 note); and
 
-&emsp;&emsp;&emsp;(iv) any other appropriate amount, as determined by the Secretary of State in accordance with generally accepted actuarial practices and principles; and
+&emsp;&emsp;&emsp;(iv) any other appropriate amount, as determined by the Secretary of State in accordance with generally accepted actuarial practices and principles;
 
-&emsp;(8) the term “System” means the Foreign Service Pension System.
+&emsp;(8) the term “System” means the Foreign Service Pension System; and
 
-(Pub. L. 96–465, title I, §852, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 615; amended Pub. L. 100–238, title II, §241, Jan. 8, 1988, 101 Stat. 1776.)
+&emsp;(9) the term “special agent” has the same meaning given in section 4044(15) of this title.
+
+(Pub. L. 96–465, title I, §852, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 615; amended Pub. L. 100–238, title II, §241, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 105–382, §2(a)(2), Nov. 13, 1998, 112 Stat. 3406.)
 
 #### References in Text
 
@@ -52,7 +54,13 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 #### Amendments
 
+1998—Par. (9). Pub. L. 105–382 added par. (9).
+
 1988—Pars. (3) to (8). Pub. L. 100–238 added par. (3) and redesignated former pars. (3) to (7) as (4) to (8), respectively.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, set out as a note under section 4044 of this title.
 
 #### Effective Date of 1988 Amendment
 

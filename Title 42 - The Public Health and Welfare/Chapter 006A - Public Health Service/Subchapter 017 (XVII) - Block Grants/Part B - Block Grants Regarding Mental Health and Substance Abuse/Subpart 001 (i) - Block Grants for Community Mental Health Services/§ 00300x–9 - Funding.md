@@ -18,7 +18,7 @@ For the purpose of carrying out this subpart, and subpart III and section 290aa�
 
 &emsp;The purpose specified in this paragraph is the conduct of evaluations of prevention and treatment programs and services with respect to mental health to determine methods for improving the availability and quality of such programs and services.
 
-(July 1, 1944, ch. 373, title XIX, §1920, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 388.)
+(July 1, 1944, ch. 373, title XIX, §1920, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 388.)
 
 #### Prior Provisions
 

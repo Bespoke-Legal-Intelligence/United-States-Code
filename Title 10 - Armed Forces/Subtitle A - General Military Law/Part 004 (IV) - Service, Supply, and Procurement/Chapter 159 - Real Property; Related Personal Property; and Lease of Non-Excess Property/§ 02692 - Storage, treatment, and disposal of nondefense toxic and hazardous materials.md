@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) provides for the prospective user's continued financial and environmental responsibility and liability with regard to the material; and
 
-&emsp;(11) the storage of any material that is not owned by the Department of Defense if theSecretary of the military department concerned determines that the material is required or generated in connection with the use of a space launch facility located on an installation of the Department of Defense or on other land controlled by the United States.
+&emsp;(11) the storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the use of a space launch facility located on an installation of the Department of Defense or on other land controlled by the United States.
 
 (c) The Secretary of Defense may grant exceptions to subsection (a) when essential to protect the health and safety of the public from imminent danger if the Secretary otherwise determines the exception is essential and if the storage or disposal authorized does not compete with private enterprise.
 

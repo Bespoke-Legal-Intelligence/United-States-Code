@@ -94,9 +94,9 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 &emsp;Eligibility for trade benefits under the Generalized System of Preferences.
 
-#### (11) Most favored nation trade status
+#### (11) Normal trade relations
 
-&emsp;The granting of temporary or permanent nondiscriminatory treatment (commonly referred to as “most favored nation status”) to the products of an East European country through the application of the criteria and procedures established by section 2432 of title 19 (commonly referred to as the “Jackson-Vanik amendment”).
+&emsp;The granting of temporary or permanent nondiscriminatory treatment to the products of an East European country through the application of the criteria and procedures established by section 2432 of title 19 (commonly referred to as the “Jackson-Vanik amendment”).
 
 #### (12) Overseas Private Investment Corporation
 
@@ -154,7 +154,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 &emsp;Encouraging private investment and voluntary private assistance, using a variety of means including a SEED Information Center System and the provision by the Department of Defense of transportation for private nonfinancial contributions.
 
-(Pub. L. 101–179, §2, Nov. 28, 1989, 103 Stat. 1299; Pub. L. 102–549, title II, §202(e), Oct. 28, 1992, 106 Stat. 3658.)
+(Pub. L. 101–179, §2, Nov. 28, 1989, 103 Stat. 1299; Pub. L. 102–549, title II, §202(e), Oct. 28, 1992, 106 Stat. 3658; Pub. L. 105–206, title V, §5003(b)(6), July 22, 1998, 112 Stat. 790.)
 
 #### References in Text
 
@@ -164,11 +164,17 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 8
 
 #### Amendments
 
+1998—Subsec. (c)(11). Pub. L. 105–206 in heading substituted “Normal trade relations” for “Most favored nation trade status” and in text struck out “(commonly referred to as ‘most favored nation status’)” after “nondiscriminatory treatment”.
+
 1992—Subsec. (c)(14). Pub. L. 102–549 substituted “Agency” for “Program”.
 
 #### Short Title
 
 Section 1(a) of Pub. L. 101–179 provided that: “This Act \[enacting this chapter and section 2185 of this title, amending sections 2184 and 2199 of this title, section 1757 of Title 12, Banks and Banking, and section 2462 of Title 19, Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, section 635 of Title 12, and section 7872 of Title 26, Internal Revenue Code, and amending provisions set out as a note under section 7872 of Title 26\] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
+
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Ex. Ord. No. 12703. Support for East European Democracy (SEED) Program
 

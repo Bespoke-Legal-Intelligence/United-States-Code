@@ -52,7 +52,7 @@
 
 &emsp;(A) shall be given to—
 
-&emsp;&emsp;(i) the appropriate State dislocated worker unit or units (referred to in section 311(b)(2) of the Job Training Partnership Act); and
+&emsp;&emsp;(i) the appropriate State dislocated worker unit or office (referred to in section 311(b)(2) of the Job Training Partnership Act), or the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
 
 &emsp;&emsp;(ii) the chief elected official of such unit or each of such units of local government as may be appropriate; and
 
@@ -62,9 +62,9 @@
 
 &emsp;&emsp;(ii) when those separations will occur; and
 
-&emsp;&emsp;(iii) any other matter which might facilitate the delivery of rapid response assistance or other services under the Job Training Partnership Act.
+&emsp;&emsp;(iii) any other matter which might facilitate the delivery of rapid response assistance or other services under the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.
 
-(4) The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to the Job Training Partnership Act.
+(4) The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to the Job Training Partnership Act or title I of the Workforce Investment Act of 1998.
 
 (e)(1) Subject to paragraph (3), upon request submitted under paragraph (2), the President may, in writing, shorten the period of advance notice required under subsection (d)(1)(A) and (B), with respect to a particular reduction in force, if necessary because of circumstances not reasonably foreseeable.
 
@@ -76,7 +76,7 @@
 
 &emsp;(A) separate from service any employee who volunteers to be separated under this subparagraph even though the employee is not otherwise subject to separation due to a reduction in force; and
 
-&emsp;(B) for each employee voluntarily separated under subparagraph (A), retain an employee in a similar position who would otherwise be separated due to a reduction in force.
+&emsp;(B) for each employee voluntarily separated under subparagraph (A), retain an employee ina similar position who would otherwise be separated due to a reduction in force.
 
 (2) The separation of an employee under paragraph (1)(A) shall be treated as an involuntary separation due to a reduction in force.
 
@@ -86,7 +86,21 @@
 
 (5) No authority under paragraph (1) may be exercised after September 30, 2001.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(d)(1), (f)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–429.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(f)(1), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–429, 2681–435, provided that, effective July 1, 2000, subsection (d) of this section is amended:</i>
+
+<i>(1) in paragraph (3)—</i>
+
+<i>(A) in subparagraph (A), by striking clause (i) and inserting the following:</i>
+
+(i) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
+
+<i>(B) in subparagraph (B)(iii), by striking “under the Job Training Partnership Act or”; and</i>
+
+<i>(2) in paragraph (4), in the second sentence, by striking “the Job Training Partnership Act or”.</i>
 
 Historical and Revision Notes
 
@@ -126,7 +140,15 @@ Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(
 
 The Job Training Partnership Act, referred to in subsec. (d)(3), (4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. Section 311(b)(2) of the Act is classified to section 1661(b)(2) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to section 2864(a)(2)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
 #### Amendments
+
+1998—Subsec. (d)(3)(A)(i). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(i)\], added cl. (i) and struck out former cl. (i) which read as follows: “the appropriate State dislocated worker unit or units (referred to in section 311(b)(2) of the Job Training Partnership Act); and”.
+
+Subsec. (d)(3)(B)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(ii)\], substituted “other services under the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998” for “other services under the Job Training Partnership Act”.
+
+Subsec. (d)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(B)\], substituted “Secretary of Labor on matters relating to the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Secretary of Labor on matters relating to the Job Training Partnership Act”.
 
 1996—Subsec. (a)(C)(ii). Pub. L. 104–106, §1043(d)(1), substituted “January 1, 1966” for “January 1, 1987”.
 
@@ -156,13 +178,33 @@ Pub. L. 104–106, §1034, added subsec. (f).
 
 1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible witha compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
+Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
 
 Subsec. (c). Pub. L. 95–454, §307(e), added subsec. (c).
 
 1968—Subsec. (a). Pub. L. 90–623 made minor changes in form and punctuation in subpars. (A) and (B), and, in subpar. (C), substituted “section 590h(b) of title 16” and “section 610(b) of title 7” for “section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b))” and “section 10(b) of the Agricultural Adjustment Act of May 12, 1933 (48 Stat. 37)” respectively.
 
 Subsec. (a)(C). Pub. L. 90–367 added subsec. (a)(C).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(g)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, provided that:
+
+“(1)
+
+Immediately effective amendments.—The amendments made by subsections (a) through (d) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636, 1022a, 3116, and 3151 of Title 15, Commerce and Trade, section 79<i>l</i> of Title 16, Conservation, section 665 of Title 18, Crimes and Criminal Procedure, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 3443, 5934, 5938, 6365, 6434, 6453, and 6455 of Title 20, Education, section 5855 of Title 22, Foreign Relations and Intercourse, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6103, 6864, 6873, 7274h, 9806, 11302, 12637, 12653c, 12655m, 12899c, 12899e, and 13823 of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2391, 2501, 2701, and 2687 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38, and repealing provisions set out as notes under sections 1501 and 1551 of Title 29\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
+
+“(2)
+
+Subsequently effective amendments.—
+
+&emsp;“(A)
+
+Stewart b. mckinney homeless assistance act.—The amendments made by subsection (e) shall take effect on July 1, 1999.
+
+&emsp;“(B)
+
+Job training partnership act.—The amendments made by subsection (f) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans’ Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2701, and 2687 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38\] shall take effect on July 1, 2000.”
 
 #### Effective Date of 1996 Amendment
 
@@ -276,5 +318,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7512, 7521 of this title; title 10 sections 1586, 1599c, 1610; title 22 section 1438; title 25 section 472a; title 32 section 709; title 42 sections 616, 7237.
+This section is referred to in sections 2302, 7512, 7521, 9508 of this title; title 10 sections 1586, 1610; title 22 section 1438; title 25 section 472a; title 32 section 709; title 42 sections 616, 7237.
 

@@ -12,6 +12,10 @@ Section is based on section 3 of House Resolution 804, Ninety-sixth Congress, Oc
 
 1996—Pub. L. 104–186 substituted “House Oversight of the House of Representatives” for “House Administration”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 92b–1, 92b–2 of this title.

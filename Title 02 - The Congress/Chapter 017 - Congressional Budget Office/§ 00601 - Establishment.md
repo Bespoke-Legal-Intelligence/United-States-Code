@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) There is established an office of the Congress to be known as the Congressional BudgetOffice (hereinafter in this chapter referred to as the “Office”). The Office shall be headed by a Director; and there shall be a Deputy Director who shall perform such duties as may be assigned to him by the Director and, during the absence or incapacity of the Director or during a vacancy in that office, shall act as Director.
+(1) There is established an office of the Congress to be known as the Congressional Budget Office (hereinafter in this chapter referred to as the “Office”). The Office shall be headed by a Director; and there shall be a Deputy Director who shall perform such duties as may be assigned to him by the Director and, during the absence or incapacity of the Director or during a vacancy in that office, shall act as Director.
 
 (2) The Director shall be appointed by the Speaker of the House of Representatives and the President pro tempore of the Senate after considering recommendations received from the Committees on the Budget of the House and the Senate, without regard to political affiliation and solely on the basis of his fitness to perform his duties. The Deputy Director shall be appointed by the Director.
 
@@ -26,7 +26,7 @@ The Director is authorized to secure information, data, estimates, and statistic
 
 #### (e) Relationship to other agencies of Congress
 
-In carrying out the duties and functions of the Office, and for the purpose of coordinating the operations of the Office with those of other congressional agencies with a view to utilizing most effectively the information, services, and capabilities of all such agencies in carrying out the various responsibilities assigned to each, the Director is authorized to obtain information, data, estimates, and statistics developed by the General Accounting Office, and the Library of Congress, and (upon agreement with them) to utilize their services, facilities, and personnel with or without reimbursement. The Comptroller General, and the Librarian of Congress, are authorized to provide the Office with the information, data, estimates, and statistics, and the services, facilities, and personnel, referred to in the preceding sentence.
+In carrying out the duties and functions of the Office, and for the purpose of coordinating the operations of the Office with those of other congressional agencies with a view to utilizing most effectively the information, services, and capabilities of all such agencies in carrying out the various responsibilities assigned to each, the Director is authorized to obtain information, data, estimates, and statistics developed by the General Accounting Office,<sup>1</sup> and the Library of Congress, and (upon agreement with them) to utilize their services, facilities, and personnel with or without reimbursement. The Comptroller General,<sup>1</sup> and the Librarian of Congress,<sup>1</sup> are authorized to provide the Office with the information, data, estimates, and statistics, and the services, facilities, and personnel, referred to in the preceding sentence.
 
 #### (f) Revenue estimates
 
@@ -36,7 +36,7 @@ For the purposes of revenue legislation which is income, estate and gift, excise
 
 There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with section 68 of this title, and upon vouchers approved by the Director.
 
-(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12,1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678.)
+(Pub. L. 93–344, title II, §201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, §273, Dec. 12, 1985, 99 Stat. 1098, renumbered §201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, §13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, §13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, §10102, Aug. 5, 1997, 111 Stat. 678.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ This Act, referred to in subsec. (f), means Pub. L. 93–344, July 12, 1974, 88 
 
 #### Codification
 
-Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 of this title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
+Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 ofthis title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
 
 #### Amendments
 
@@ -75,4 +75,6 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Section Referred to in Other Sections
 
 This section is referred to in section 603 of this title.
+
+<i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

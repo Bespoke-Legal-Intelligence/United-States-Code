@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of section 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
 
-&emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, arepresentative of an estate and, when the Secretary prescribes, a governmental entity.
+&emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
 
 &emsp;(5) “United States” means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
 
@@ -166,7 +166,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 section 1953; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
+This section is referred to in section 5340 of this title; title 12 section 1953; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -60,7 +60,7 @@ Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and red
 
 #### Limitation on Transfer of Funds Between CIA and Department of Defense; Congressional Notification Required
 
-Pub. L. 103–139, title VIII, §8107, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscalyear and thereafter, no funds may be made available through transfer, reprogramming, or other means between the Central Intelligence Agency and the Department of Defense for any intelligence or special activity different from that previously justified to the Congress unless the Director of Central Intelligence or the Secretary of Defense has notified the House and Senate Appropriations Committees of the intent to make such funds available for such activity.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 103–139, title VIII, §8107, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscal year and thereafter, no funds may be made available through transfer, reprogramming, or other means between the Central Intelligence Agency and the Department of Defense for any intelligence or special activity different from that previously justified to the Congress unless the Director of Central Intelligence or the Secretary of Defense has notified the House and Senate Appropriations Committees of the intent to make such funds available for such activity.” Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–396, title IX, §9014, Oct. 6, 1992, 106 Stat. 1903.
 
@@ -87,6 +87,10 @@ Pub. L. 102–172, title VIII, §8089, Nov. 26, 1991, 105 Stat. 1193, provided t
 Section 401(c) of Pub. L. 99–169 provided that: “The amendment made by section 401(a) of this Act \[enacting this section\] shall not apply with respect to funds appropriated to the Director of Central Intelligence under the heading ‘
 
 enhanced security countermeasures capabilities’ in the Supplemental Appropriations Act, 1985 (Public Law 99–88) \[Aug. 15, 1985, 99 Stat. 311\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 21 section 1703.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “unforeseen”.</i>
 

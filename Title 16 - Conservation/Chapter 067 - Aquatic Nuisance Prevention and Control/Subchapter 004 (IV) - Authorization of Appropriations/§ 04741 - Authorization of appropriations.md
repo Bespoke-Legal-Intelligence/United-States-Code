@@ -22,7 +22,7 @@ There are authorized to be appropriated to develop and implement the provisions 
 
 &emsp;(5) for each of fiscal years 1997 through 2002—
 
-&emsp;&emsp;(A) $3,000,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized,to the Under Secretary to carry out section 4712(e) of this title; and
+&emsp;&emsp;(A) $3,000,000, which shall be made available from funds otherwise authorized to be appropriated if such funds are so authorized, to the Under Secretary to carry out section 4712(e) of this title; and
 
 &emsp;&emsp;(B) $500,000 to the Secretary to carry out section 4712(f) of this title.
 

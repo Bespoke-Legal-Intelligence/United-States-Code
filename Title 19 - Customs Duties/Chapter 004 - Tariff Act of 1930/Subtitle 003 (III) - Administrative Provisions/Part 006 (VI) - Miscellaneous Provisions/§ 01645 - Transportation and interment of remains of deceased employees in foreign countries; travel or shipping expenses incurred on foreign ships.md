@@ -20,7 +20,7 @@ Section is comprised of subsecs. (a) and (c) of section 645 of act June 17, 1930
 
 #### Amendments
 
-1946—Subsec. (a). Act Aug. 2, 1946, eff. Nov. 1, 1946, repealed first sentence relating to traveling expenses of transferred employees. See section 5729 of Title 5, Government Organization and Employees.
+1946—Subsec. (a). Act Aug. 2, 1946, eff. Nov. 1, 1946, repealed first sentence relating to traveling expenses oftransferred employees. See section 5729 of Title 5, Government Organization and Employees.
 
 #### Change of Name
 

@@ -40,7 +40,7 @@ Prior to any import prohibition or regulation under this section being made effe
 
 The Secretary may proceed with the proposed prohibition or regulation if the Secretary receives the advice and concurrence of the United States Trade Representative within 60 days of the notification under subsection (c)(1) of this section.
 
-(May 12, 1933, ch. 25, title I, §8e, as added Aug. 28, 1954, ch. 1041, title IV, §401(e), 68 Stat. 907; amended Aug. 31, 1954, ch. 1172, §3(a), 68 Stat. 1047; Aug. 8, 1961, Pub. L. 87–128, title I, §141(5), 75 Stat. 305; Jan. 11, 1971, Pub. L. 91–670, title IV, §401, 84 Stat. 2047; Sept. 29, 1977, Pub. L. 95–113, title X, §1006, 91 Stat. 951; Oct. 14, 1982, Pub. L. 97–312, §2, 96 Stat. 1461; Aug. 23, 1988, Pub. L. 100–418, title IV, §4603, 102 Stat. 1407; Nov. 28, 1990, Pub. L. 101–624, title XIII, §§1307, 1308, 104 Stat. 3561.)
+(May 12, 1933, ch. 25, title I, §8e, as added Aug. 28, 1954, ch. 1041, title IV, §401(e), 68 Stat. 907; amended Aug. 31, 1954, ch. 1172, §3(a), 68 Stat. 1047; Pub. L. 87–128, title I, §141(5), Aug. 8, 1961, 75 Stat. 305; Pub. L. 91–670, title IV, §401, Jan. 11, 1971, 84 Stat. 2047; Pub. L. 95–113, title X, §1006, Sept. 29, 1977, 91 Stat. 951; Pub. L. 97–312, §2, Oct. 14, 1982, 96 Stat. 1461; Pub. L. 100–418, title IV, §4603, Aug. 23, 1988, 102 Stat. 1407; Pub. L. 101–624, title XIII, §§1307, 1308, Nov. 28, 1990, 104 Stat. 3561.)
 
 #### Amendments
 

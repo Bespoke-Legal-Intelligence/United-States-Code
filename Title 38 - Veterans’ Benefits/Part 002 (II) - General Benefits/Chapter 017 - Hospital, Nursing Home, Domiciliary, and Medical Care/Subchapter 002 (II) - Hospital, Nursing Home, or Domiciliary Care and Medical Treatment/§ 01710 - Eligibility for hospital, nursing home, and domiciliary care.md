@@ -46,27 +46,33 @@
 
 &emsp;(ii) any other disease for which the Secretary, based on the advice of the Advisory Committee on Environmental Hazards, determines that there is credible evidence of a positive association between occurrence of the disease in humans and exposure to ionizing radiation.
 
-(C) Subject to paragraphs (2) and (3) of this subsection, a veteran who served on active dutyin the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
+(C) Subject to paragraphs (2) and (3) of this subsection, a veteran who served on active duty in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
+
+(D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities (as defined in section 1712A(a)(2)(B) of this title) after the date of the enactment of this subparagraph, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
 
 (2)(A) In the case of a veteran described in paragraph (1)(A), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to—
 
 &emsp;(i) a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in paragraph (4)(A)(ii); or
 
-&emsp;(ii) a disease for which the National Academy of Sciences, in a report issued in accordance with section 2 of the Agent Orange Act of 1991, has determined that there is limited or suggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
+&emsp;(ii) a disease for which the National Academy of Sciences, in a report issued in accordance with section 3 of the Agent Orange Act of 1991, has determined that there is limited or suggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
 
-(B) In the case of a veteran described in paragraph (1)(C), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service described in that paragraph.
+(B) In the case of a veteran described in paragraph (1)(C) or (1)(D), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service described in that paragraph.
 
 (3) Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F)—
 
-&emsp;(A) in the case of care for a veteran described in paragraph (1)(A), after December 31, 2002; and
+&emsp;(A) in the case of care for a veteran described in paragraph (1)(A), after December 31, 2002;
 
-&emsp;(B) in the case of care for a veteran described in paragraph (1)(C), after December 31, 1998.
+&emsp;(B) in the case of care for a veteran described in paragraph (1)(C), after December 31, 2001; and
+
+&emsp;(C) in the case of care for a veteran described in paragraph (1)(D), after a period of 2 years beginning on the date of the veteran's discharge or release from active military, naval, or air service.
 
 (4) For purposes of this subsection—
 
 &emsp;(A) The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
 
 &emsp;(B) The term “radiation-exposed veteran” has the meaning given that term in section 1112(c)(3) of this title.
+
+(5) When the Secretary first provides care for veterans using the authority provided in paragraph (1)(D), the Secretary shall establish a system for collection and analysis of information on the general health status and health care utilization patterns of veterans receiving care under that paragraph. Not later than 18 months after first providing care under such authority, the Secretary shall submit to Congress a report on the experience under that authority. The Secretary shall include in the report any recommendations of the Secretary for extension of that authority.
 
 (f)(1) The Secretary may not furnish hospital care or nursing home care under this section to a veteran who is eligible for such care under subsection (a)(3) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) of this subsection.
 
@@ -104,7 +110,7 @@
 
 > whichever occurs first.
 
-(D) In the case of a veteran who is admitted for hospital care under this section after having been furnished, during the preceding 365-day period, nursing home care for which the veteran has paid the amount of the inpatient Medicaredeductible under this subsection and who has not been furnished 90 days of nursing home care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such hospital care until—
+(D) In the case of a veteran who is admitted for hospital care under this section after having been furnished, during the preceding 365-day period, nursing home care for which the veteran has paid the amount of the inpatient Medicare deductible under this subsection and who has not been furnished 90 days of nursing home care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such hospital care until—
 
 &emsp;(i) the veteran has been furnished, beginning with the first day of such nursing home care furnished in connection with such payment, a total of 90 days of nursing home care and hospital care; or
 
@@ -126,21 +132,37 @@
 
 (h) Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365.)
 
 #### References in Text
 
-Section 2 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 2 of Pub. L. 102–4, which enacted section 1116 of this title and amended section 1113 of this title. Section 3 of Pub. L. 102–4, which is set out as a note under section 1116 of this title, provided for the National Academy of Sciences to transmit reports regarding associations between diseases and exposure to chemical compounds in herbicides.
+The date of the enactment of this subparagraph, referred to in subsec. (e)(1)(D), is the date of enactment of Pub. L. 105–368, which was approved Nov. 11, 1998.
+
+Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 3 of Pub. L. 102–4, which is set out as a note under section 1116 of this title.
 
 #### Codification
 
-The text of subsec. (f) of section 1712 of this title, which was transferred to this section, redesignated subsec. (g), and amended by Pub. L. 104–262, §101(b)(2), was based on Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a)(3)–(7), title II, §202(f)(2), Oct. 21, 1976, 90 Stat. 2844, 2856; Pub. L. 96–22, title I, §102(b), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(b), Aug. 14, 1981, 95 Stat. 937; Pub. L. 97–72, title I, §103(b)(2), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 97–295, §4(17)(C), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(b)(2), Apr. 7, 1986, 100 Stat. 375; Pub. L. 99–576, title II, §§202(1), 237(b)(2), Oct. 28, 1986, 100 Stat. 3254, 3267; Pub. L. 100–322, title I, §101(e)(1), May 20, 1988, 102 Stat. 491; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.
+The text of subsec. (f) of section 1712 of this title, which was transferred to this section, redesignated subsec. (g), and amended by Pub. L. 104–262, §101(b)(2), was based on Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a)(3)–(7), title II, §202(f)(2), Oct. 21, 1976, 90 Stat. 2844, 2856; Pub. L. 96–22, title I, §102(b), June 13,1979, 93 Stat. 47; Pub. L. 97–37, §5(b), Aug. 14, 1981, 95 Stat. 937; Pub. L. 97–72, title I, §103(b)(2), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 97–295, §4(17)(C), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(b)(2), Apr. 7, 1986, 100 Stat. 375; Pub. L. 99–576, title II, §§202(1), 237(b)(2), Oct. 28, 1986, 100 Stat. 3254, 3267; Pub. L. 100–322, title I, §101(e)(1), May 20, 1988, 102 Stat. 491; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.
 
 #### Prior Provisions
 
 A prior section 1710 was renumbered section 3510 of this title.
 
 #### Amendments
+
+1998—Subsec. (e)(1)(D). Pub. L. 105–368, §102(a)(1), added subpar. (D).
+
+Subsec. (e)(2)(A)(ii). Pub. L. 105–368, §1005(b)(3), substituted “section 3” for “section 2”.
+
+Subsec. (e)(2)(B). Pub. L. 105–368, §102(a)(2), inserted “or (1)(D)” after “paragraph (1)(C)”.
+
+Subsec. (e)(3)(A). Pub. L. 105–368, §102(a)(3)(A), struck out “and” at end.
+
+Subsec. (e)(3)(B). Pub. L. 105–368, §102(a)(3)(B), substituted “December 31, 2001; and” for “December 31, 1998.”
+
+Subsec. (e)(3)(C). Pub. L. 105–368, §102(a)(3)(C), added subpar. (C).
+
+Subsec. (e)(5). Pub. L. 105–368, §102(a)(4), added par. (5).
 
 1997—Subsec. (a)(2)(B). Pub. L. 105–114, §402(a), struck out “compensable” before “disability”.
 
@@ -414,6 +436,10 @@ Section 102(b) of Pub. L. 104–262 provided that: “The provisions of sections
 
 Section 102(c) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall not limit or restrict the eligibility for domiciliary care of a veteran who was a patient or a resident in a State home facility or a Veterans’ Administration domiciliary facility during the period beginning on January 1, 1987, and ending on April 1, 1988.”
 
+#### Implementation Report
+
+Pub. L. 105–368, title I, §102(b), Nov. 11, 1998, 112 Stat. 3322, provided that: “Not later than October 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's plan for establishing and operating the system for collection and analysis of information required by paragraph (5) of section 1710(e) of title 38, United States Code, as added by subsection (a)(4) \[amending this section\].”
+
 #### Demonstration Projects for Treatment of Persian Gulf Illness
 
 Section 209(b) of Pub. L. 105–114 provided that:
@@ -568,7 +594,7 @@ Pub. L. 102–585, title V, §525, Nov. 4, 1992, 106 Stat. 4960, directed Secret
 
 #### Reports on Furnishing of Health Care and Implementation of Changes in Eligibility
 
-Section 19011(e) of Pub. L. 99–272, as amended by Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, §201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, §302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §4, May 20, 1992, 106 Stat. 179, directed Administrator of Veterans Affairs to submit to Congress a report for each fiscal year through fiscal year 1992 concerning implementation of the amendments made by section 19011 of Pub. L. 99–272, which amended this section and sections 1525, 1701, 1712, 1712A, 1720, 1722, and 1763 of this title and enacted provisions set out as notes under this section and section 1722 of thistitle, specified detailed information required to be submitted in each report, and provided that each report be submitted not later than the Feb. 1 following the end of the fiscal year for which it is submitted.
+Section 19011(e) of Pub. L. 99–272, as amended by Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, §201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, §302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §4, May 20, 1992, 106 Stat. 179, directed Administrator of Veterans Affairs to submit to Congress a report for each fiscal year through fiscal year 1992 concerning implementation of the amendments made by section 19011 of Pub. L. 99–272, which amended this section and sections 1525, 1701, 1712, 1712A, 1720, 1722, and 1763 of this title and enacted provisions set out as notes under this section and section 1722 of this title, specified detailed information required to be submitted in each report, and provided that each report be submitted not later than the Feb. 1 following the end of the fiscal year for which it is submitted.
 
 #### Chiropractic Services Pilot Program
 

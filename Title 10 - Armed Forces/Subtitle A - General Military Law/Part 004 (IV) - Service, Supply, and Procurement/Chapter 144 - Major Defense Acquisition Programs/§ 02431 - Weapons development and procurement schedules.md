@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) The term “minimum sustaining rate” means the production rate for each budget year that is necessary to keep production lines open while maintaining a base of responsive vendors and suppliers.
 
-(c) In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requestedby the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
+(c) In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
 
 (Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 614, §139; amended Pub. L. 94–106, title VIII, §805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, §909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, §3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered §2431 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, §1301(13), title XIV, §1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, §3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, §4321(b)(18), Feb. 10, 1996, 110 Stat. 673.)
 
@@ -230,7 +230,7 @@ Interoperability and Support of Core Systems.—To maximize effectiveness and fl
 
 Follow-on Systems.—(1) The Secretary of Defense shall prepare an affordable development plan for theater missile defense systems to be developed as follow-on systems to the core systems specified in subsection (a). The Secretary shall make the selection of a system for inclusion in the plan based on the capability of the system to satisfy military requirements not met by the systems in the core program and on the capability of the system to use prior investments in technologies, infrastructure, and battle-management capabilities that are incorporated in, or associated with, the systems in the core program.
 
-“(2) The Secretary may not proceed with the development of a follow-on theater missile defense system beyond the Demonstration/Validation stage of development unless the Secretary designates that system as a part of the core program under this section and submits to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and on Appropriations of the House of Representatives\] notice of that designation. The Secretary shall include with any such notification a report describing—
+“(2) The Secretary may not proceed with the development of a follow-on theater missile defense system beyond the Demonstration/Validation stage of development unless the Secretary designates that system as a part of the core program under this section and submits to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and House of Representatives\] notice of that designation. The Secretary shall include with any such notification a report describing—
 
 &emsp;“(A) the requirements for the system and the specific threats that such system is designed to counter;
 
@@ -248,7 +248,7 @@ Program Accountability Report.—(1) As part of the annual report of the Ballist
 
 “(f)
 
-Reports on TMD System Limitations Under ABM Treaty.—(1) Whenever, after January 1, 1993, the Secretary of Defense issues a certification with respect to the compliance of a particular Theater Missile Defense system with the ABM Treaty, the Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a copy of such certification. Such transmittal shall be made not later than 30 days after the date on which such certification is issued, except that in the case of a certification issued before the date of the enactment of this Act \[Feb. 10, 1996\], such transmittal shall be made not later than 60 days after the date of the enactment of this Act.
+Reports on TMD System Limitations Under ABM Treaty.—(1) Whenever, after January 1, 1993, the Secretary of Defense issues a certification with respect to the compliance of a particular Theater Missile Defense system with the ABM Treaty, the Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a copy of such certification. Such transmittal shall be made not later than 30 days after the date on which such certification is issued, except that in the case of a certification issued before the date of the enactment of this Act \[Feb. 10, 1996\], such transmittal shall be made not later than 60 days after the date of the enactment of this Act.
 
 “(2) If a certification under paragraph (1) is based on application of a policy concerning United States compliance with the ABM Treaty that differs from the policy described in section 235(b)(1), the Secretary shall include with the transmittal under that paragraph a report providing a detailed assessment of—
 
@@ -272,7 +272,7 @@ Findings.—(1) Congress hereby reaffirms—
 
 Sense of Congress Concerning Compliance Policy.—It is the sense of Congress that—
 
-&emsp;“(1) unless a missile defense system, system upgrade, or system component (including one that exploits data from space-based or other external sensors) is flight tested in an ABM-qualifying flight test (as defined in subsection (e)), that system, system upgrade, or system component has not, for purposes of the ABM Treaty, been tested in an ABM mode norbeen given capabilities to counter strategic ballistic missiles and, therefore, is not subject to any application, limitation, or obligation under the ABM Treaty; and
+&emsp;“(1) unless a missile defense system, system upgrade, or system component (including one that exploits data from space-based or other external sensors) is flight tested in an ABM-qualifying flight test (as defined in subsection (e)), that system, system upgrade, or system component has not, for purposes of the ABM Treaty, been tested in an ABM mode nor been given capabilities to counter strategic ballistic missiles and, therefore, is not subject to any application, limitation, or obligation under the ABM Treaty; and
 
 &emsp;“(2) any international agreement that would limit the research, development, testing, or deployment of missile defense systems, system upgrades, or system components that are designed to counter modern theater ballistic missiles in a manner that would be more restrictive than the compliance criteria specified in paragraph (1) should be entered into only pursuant to the treaty making powers of the President under the Constitution.
 
@@ -352,7 +352,7 @@ Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense sha
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director of the Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation of the ABM Treaty and accompanied by an enclosure setting forth such interpretation.
+&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director ofthe Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation of the ABM Treaty and accompanied by an enclosure setting forth such interpretation.
 
 &emsp;“(2) The term ‘ABM Treaty’ means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missiles, signed in Moscow on May 26, 1972.
 
@@ -606,11 +606,11 @@ Contract Award Requirements.—(1) A contract under subsection (b) shall be awar
 
 Requirements Applicable to FFRDC.—The Secretary of Defense shall—
 
-&emsp;“(1) require that the contract referred to in subsection (b) include a provision stating that no officer or employee of the Department of Defense shall have the authority to veto the employment of any person selected to serve as an officer or employee of the new FFRDC;
+&emsp;“(1) require that the contract referred to in subsection (b) include a provision stating that no officer or employee of the Department of Defense shall have the authority to veto the employment of any personselected to serve as an officer or employee of the new FFRDC;
 
 &emsp;“(2) require that at least 5 percent of the total amount of funds available for the new FFRDC shall be set aside for independent research to be performed by the staff of the new FFRDC under the direction of the chief executive officer of the new FFRDC;
 
-&emsp;“(3) impose a limitation on the compensation payable to each senior executive of the new FFRDC forservices performed for the new FFRDC so that such compensation shall be comparable to the amount of compensation payable to senior executives of comparable federally funded research and development centers for similar services;
+&emsp;“(3) impose a limitation on the compensation payable to each senior executive of the new FFRDC for services performed for the new FFRDC so that such compensation shall be comparable to the amount of compensation payable to senior executives of comparable federally funded research and development centers for similar services;
 
 &emsp;“(4) require that the new FFRDC publicly disclose the salary of its chief executive officer;
 
@@ -638,7 +638,7 @@ Pub. L. 99–661, div. A, title II, §213, Nov. 14, 1986, 100 Stat. 3841, provid
 
 Limitation.—The Secretary of Defense may not obligate or expend any funds for the purpose of operating a Federally funded research and development center that is established for the support of the Strategic Defense Initiative Program after the date of the enactment of this Act \[Nov. 14, 1986\] unless—
 
-&emsp;“(1) the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report with respect to such proposed center that provides the information described in subsection (b); and
+&emsp;“(1) the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report with respect to such proposed center that provides the information described in subsection (b); and
 
 &emsp;“(2) funds are specifically authorized to be appropriated for such purpose after the date of the enactment of this Act in an Act other than—
 
@@ -710,7 +710,7 @@ Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
-Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted afterdate of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed asconsequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
 
 #### Annual Report on Ballistic Missile Defense Program
 
@@ -766,7 +766,7 @@ Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than o
 
 #### Consultation With Allies on Strategic Defense Initiative Program
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8104\], Oct. 12, 1984, 98 Stat. 1904, 1942, provided that: “It is the sense of the Congress that—(a) the President shall inform and make every effort to consult with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning the research being conducted in the Strategic Defense Initiative program. (b) The Secretary of Defense, in coordination with the Secretary of State and the Director of the Arms Control and Disarmament Agency, shall at the time of the submission of the annual budget presentation materials for each fiscal year beginning after September 30, 1984, report to the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate and the Committees on Appropriations, Armed Services \[now National Security\], and Foreign Affairs \[now International Relations\] of the House of Representatives on the status of the consultations referred to under subsection (a).”
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8104\], Oct. 12, 1984, 98 Stat. 1904, 1942, provided that: “It is the sense of the Congress that—(a) the President shall inform and make every effort to consult with other member nations of the North Atlantic Treaty Organization, Japan, and other appropriate allies concerning the research being conducted in the Strategic Defense Initiative program. (b) The Secretary of Defense, in coordination with the Secretary of State and the Director of the Arms Control and Disarmament Agency, shall at the time of the submission of the annual budget presentation materials for each fiscal year beginning after September 30, 1984, report to the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate and the Committees on Appropriations, Armed Services, and Foreign Affairs \[now International Relations\] of the House of Representatives on the status of the consultations referred to under subsection (a).”
 
 #### Antisatellite Weapons Test
 
@@ -900,7 +900,7 @@ Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provide
 
 “(d) Any funds appropriated to the Department of Defense for the fiscal year beginning July 1, 1974, for carrying out the TRIDENT Weapon System shall be utilized by the Secretary of Defense in carrying out the provisions of this section to the extent that funds are unavailable under other Federal programs. Funds appropriated to the Department of Defense for any fiscal year beginning after June 30, 1975, for carrying out the TRIDENT Weapon System may, to the extent specifically authorized in an annual Military Construction Authorization Act, be utilized by the Secretary of Defense in carrying out the provision of this section to the extent that funds are unavailable under other Federal programs.
 
-“(e) The Secretary shall transmit to the Committees on Armed Services of the Senate and the House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] semiannual reports indicating the total amount expended in the case of each local community which was provided assistance under the authority of this section during the preceding six-month period, the specific projects for which assistance was provided during such period, and the total amount provided for each such project during such period.”
+“(e) The Secretary shall transmit to the Committees on Armed Services of the Senate and the House of Representatives semiannual reports indicating the total amount expended in the case of each local community which was provided assistance under the authority of this section during the preceding six-month period, the specific projects for which assistance was provided during such period, and the total amount provided for each such project during such period.”
 
 #### Section Referred to in Other Sections
 

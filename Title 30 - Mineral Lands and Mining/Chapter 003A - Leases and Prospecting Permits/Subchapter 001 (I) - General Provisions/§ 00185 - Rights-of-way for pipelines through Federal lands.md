@@ -32,13 +32,13 @@ Rights-of-way or permits granted or renewed pursuant to this section shall be su
 
 #### (g) Pipeline safety
 
-The Secretary or agency head shall impose requirements for the operation of the pipeline and related facilities in a manner that will protectthe safety of workers and protect the public from sudden ruptures and slow degradation of the pipeline.
+The Secretary or agency head shall impose requirements for the operation of the pipeline and related facilities in a manner that will protect the safety of workers and protect the public from sudden ruptures and slow degradation of the pipeline.
 
 #### (h) Environmental protection
 
 (1) Nothing in this section shall be construed to amend, repeal, modify, or change in any way the requirements of section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] or any other provision of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
-(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
+(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities inconnection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
 
 #### (i) Disclosure
 
@@ -68,7 +68,7 @@ Each right-of-way or permit granted or renewed pursuant to this section shall be
 
 (1) Abandonment of a right-of-way or noncompliance with any provision of this section may be grounds for suspension or termination of the right-of-way if (A) after due notice to the holder of the right-of-way, (B) a reasonable opportunity to comply with this section, and (C) an appropriate administrative proceeding pursuant to section 554 of title 5, the Secretary or agency head determines that any such ground exists and that suspension or termination is justified. No administrative proceeding shall be required where the right-of-way by its terms provides that it terminates on the occurrence of a fixed or agreed upon condition, event, or time.
 
-(2) If the Secretary or agency head determines that an immediate temporary suspension of activities within a right-of-way or permit area is necessary to protect public health or safety orthe environment, he may abate such activities prior to an administrative proceeding.
+(2) If the Secretary or agency head determines that an immediate temporary suspension of activities within a right-of-way or permit area is necessary to protect public health or safety or the environment, he may abate such activities prior to an administrative proceeding.
 
 (3) Deliberate failure of the holder to use the right-of-way for the purpose for which it was granted or renewed for any continuous two-year period shall constitute a rebuttable presumption of abandonment of the right-of-way: <i>Provided</i>, That where the failure to use the right-of-way is due to circumstances not within the holder's control the Secretary or agency head is not required to commence proceedings to suspend or terminate the right-of-way.
 
@@ -110,7 +110,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 > If the President determines that exports of this oil are in the national interest, he may impose such terms and conditions (other than a volume limitation) as are necessary or appropriate to ensure that such exports are consistent with the national interest.
 
-(2) Except in the case of oil exported to a country with which the United States entered into a bilateral international oil supply agreement before November 26, 1979, or to a country pursuant to the International Emergency Oil Sharing Plan of the International Energy Agency, any oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43 shall, when exported, be transported by a vessel documented under the laws of the United States and owned by a citizen of the United States (as determined in accordance with section 802 of title 46, Appendix.
+(2) Except in the case of oil exported to a country with which the United States entered into a bilateral international oil supply agreement before November 26, 1979, or to a country pursuant to the International Emergency Oil Sharing Plan of the International Energy Agency, any oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43 shall, when exported, be transported by a vessel documented under the laws of the United Statesand owned by a citizen of the United States (as determined in accordance with section 802 of title 46, Appendix.
 
 (3) Nothing in this subsection shall restrict the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), or Part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271–76) to prohibit exports.
 
@@ -144,7 +144,7 @@ The Secretary or agency head shall take into consideration and to the extent pra
 
 (1) The Secretary or agency head shall promulgate regulations and may impose stipulations specifying the extent to which holders of rights-of-way and permits under this chapter shall be liable to the United States for damage or injury incurred by the United States in connection with the right-of-way or permit. Where the right-of-way or permit involves lands which are under the exclusive jurisdiction of the Federal Government, the Secretary or agency head shall promulgate regulations specifying the extent to which holders shall be liable to third parties for injuries incurred in connection with the right-of-way or permit.
 
-(2) The Secretary or agency head may, by regulation or stipulation, impose a standard of strict liability to govern activities taking place on a right-of-way or permit area which the Secretary or agency head determines, in his discretion, to present a foreseeable hazard or risk of danger to the United States.
+(2) The Secretary or agency head may, by regulation or stipulation, impose a standard ofstrict liability to govern activities taking place on a right-of-way or permit area which the Secretary or agency head determines, in his discretion, to present a foreseeable hazard or risk of danger to the United States.
 
 (3) Regulations and stipulations pursuant to this subsection shall not impose strict liability for damage or injury resulting from (A) an act of war, or (B) negligence of the United States.
 
@@ -188,7 +188,7 @@ Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “T
 
 1994—Subsec. (w)(1), (2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
-1990—Subsec. (w)(1). Pub. L. 101–475, §1(a), substituted “Committee on Interior and Insular Affairs of theUnited States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
+1990—Subsec. (w)(1). Pub. L. 101–475, §1(a), substituted “Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
 
 Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary's or agency head's detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
 
@@ -209,6 +209,26 @@ Committee on Natural Resources of House of Representatives treated as referring 
 Enforcement functions of Secretary or other official in Department of the Interior related to compliance with grants of rights-of-way and temporary use permits for Federal land and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of Department of Agriculture, related to compliance with associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
 “Secretary of Energy or Federal Energy Regulatory Commission” substituted for “Interstate Commerce Commission or Federal Power Commission” in subsec. (r)(5) pursuant to sections 301(b), 306, 402(a), (b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7155, 7172(a), (b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which transferred functions vested in Interstate Commerce Commission, and Chairman and members thereof, relating to transportation of oil by pipeline to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission within Department of Energy), and terminated Federal Power Commission and transferred its functions to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission).
+
+#### Reimbursement of Administrative and Other Costs
+
+Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272, provided that: “Notwithstanding any other provision of law, hereafter money collected, in advance or otherwise, by the Forest Service under authority of section 101 of Public Law 93–153 (30 U.S.C. 185(1)\[(<i>l</i>)\]) as reimbursement of administrative and other costs incurred in processing pipeline right-of-way or permit applications and for costs incurred in monitoring the construction, operation, maintenance, and termination of any pipeline and related facilities, may be used to reimburse the applicable appropriation to which such costs were originally charged.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1576.
+
+Pub. L. 104–208, div. A, title I, §101(d) \[title II\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
+
+Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–184; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2524.
+
+Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1403.
+
+Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1401.
+
+Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1017.
 
 #### GAO Report
 

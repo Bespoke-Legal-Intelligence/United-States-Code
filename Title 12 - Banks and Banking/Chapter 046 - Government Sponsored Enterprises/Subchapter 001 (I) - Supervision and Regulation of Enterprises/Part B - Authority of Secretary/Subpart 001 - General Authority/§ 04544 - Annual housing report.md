@@ -8,7 +8,7 @@ After reviewing and analyzing the reports submitted under section 1723a(n) of th
 
 The report shall—
 
-&emsp;(1) aggregate and analyze census tract data to assess the compliance of each enterprise with the central cities, rural areas, and other underserved areas housing goal and to determine levels of business in central cities, rural areas, underserved areas, low- and moderate-income census tracts, minority census tracts, and other geographical areas deemed appropriate by the Secretary;
+&emsp;(1) aggregate and analyze census tract data to assess the compliance of each enterprise with the central cities, rural areas, and otherunderserved areas housing goal and to determine levels of business in central cities, rural areas, underserved areas, low- and moderate-income census tracts, minority census tracts, and other geographical areas deemed appropriate by the Secretary;
 
 &emsp;(2) aggregate and analyze data on income to assess the compliance of each enterprise with the low- and moderate-income and special affordable housing goals;
 

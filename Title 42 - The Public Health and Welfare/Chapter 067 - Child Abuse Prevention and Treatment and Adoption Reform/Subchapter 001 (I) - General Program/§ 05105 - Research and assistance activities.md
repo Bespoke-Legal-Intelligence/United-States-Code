@@ -102,9 +102,9 @@
 
 #### (3) Notice of approval
 
-&emsp;(A) The Secretary shall provide grants and contracts under this section from among the projects which the peer review panels established under paragraph (1)(A) have determined to have merit.
+&emsp;(A) The Secretary shall provide grants and contracts under this section from among theprojects which the peer review panels established under paragraph (1)(A) have determined to have merit.
 
-&emsp;(B) In the instance in which the Secretary approves an application for a program without having approved all applications ranked above such application (as determined under paragraph (2)(B)), the Secretary shall append to the approved application a detailed explanation of the reasons relied on for approving the application and for failing to approve eachpending application that is superior in merit, as indicated on the list under paragraph (2)(B).
+&emsp;(B) In the instance in which the Secretary approves an application for a program without having approved all applications ranked above such application (as determined under paragraph (2)(B)), the Secretary shall append to the approved application a detailed explanation of the reasons relied on for approving the application and for failing to approve each pending application that is superior in merit, as indicated on the list under paragraph (2)(B).
 
 (Pub. L. 93–247, title I, §104, formerly §6, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §105, Apr. 24, 1978, 92 Stat. 207; Pub. L. 98–457, title I, §105, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 99–401, title I, §104, Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 106; renumbered title I, §105, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(3), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §§112, 141(5), May 28, 1992, 106 Stat. 190, 200; renumbered §104 and amended Pub. L. 104–235, title I, §§105, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3067, 3079.)
 

@@ -38,7 +38,7 @@ A State's application under this section shall also contain a comprehensive plan
 
 &emsp;(2) a description of how the chief executive officer will coordinate such officer's activities under this part with the State educational agency and other State agencies and organizations involved with drug and violence prevention efforts;
 
-&emsp;(3) a description of how funds reserved under section 7114(a) of this title will be used so as not to duplicate the efforts of the State educational agency and local educational agencies with regard to the provision of school-basedprevention efforts and services and how those funds will be used to serve populations not normally served by the State educational agency, such as school dropouts and youth in detention centers;
+&emsp;(3) a description of how funds reserved under section 7114(a) of this title will be used so as not to duplicate the efforts of the State educational agency and local educational agencies with regard to the provision of school-based prevention efforts and services and how those funds will be used to serve populations not normally served by the State educational agency, such as school dropouts and youth in detention centers;
 
 &emsp;(4) a description of how the chief executive officer will award funds under section 7114(a) of this title and a plan for monitoring the performance of, and providing technical assistance to, recipients of such funds;
 

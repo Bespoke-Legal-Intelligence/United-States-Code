@@ -2,7 +2,7 @@ Part I—Declaration of Policy; Development Assistance Authorizations
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 2218, 2261, 2293, 2346, 2354, 2357, 2358, 2361, 2370, 2394, 2394–1, 2395, 2396, 2399d, 2421d, 5423, 5442, 5452, 6062 of this title; title 20 section 226.
+This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 2218, 2261, 2293, 2346, 2354, 2357, 2358, 2361, 2370, 2394, 2394–1, 2395, 2396, 2399d, 2421d, 5423, 5442, 5452, 6062, 6591 of this title; title 20 section 226.
 
 
 ---
@@ -42,3 +42,5 @@ This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 221
 - [&sect; 02151x&#8211;2 - Assistance in furtherance of narcotics control objectives of United States](%C2%A7%2002151x%E2%80%932%20-%20Assistance%20in%20furtherance%20of%20narcotics%20control%20objectives%20of%20United%20States.md)
 - [&sect; 02151y - Accelerated loan repayments; annual review of countries with bilateral concessional loan balances; priority of determinations respecting&#8230;](%C2%A7%2002151y%20-%20Accelerated%20loan%20repayments%3B%20annual%20review%20of%20countries%20with%20bilateral%20concessional%20loan%20balances%3B%20priority%20of%20determinations%20respecting%E2%80%A6.md)
 - [&sect; 02151z - Targeted assistance](%C2%A7%2002151z%20-%20Targeted%20assistance.md)
+- [&sect; 02151aa - Program to provide technical assistance to foreign governments and foreign central banks of developing or transitional countries](%C2%A7%2002151aa%20-%20Program%20to%20provide%20technical%20assistance%20to%20foreign%20governments%20and%20foreign%20central%20banks%20of%20developing%20or%20transitional%20countries.md)
+- [&sect; 02152 - Assistance for victims of torture](%C2%A7%2002152%20-%20Assistance%20for%20victims%20of%20torture.md)

@@ -1,6 +1,6 @@
 ### §8350. Retirement counseling
 
-(a) For the purposes of this section, the term “retirement counselor”, when used with respect to an agency, means an employee of the agency who is designated by the head of the agency to furnish information on benefits under this subchapter and chapter 84 of this title and counseling services relating to such benefits to other employees of the agency.
+(a) For the purposes of this section, the term “retirement counselor”, when used with respectto an agency, means an employee of the agency who is designated by the head of the agency to furnish information on benefits under this subchapter and chapter 84 of this title and counseling services relating to such benefits to other employees of the agency.
 
 (b) The Director of the Office of Personnel Management shall establish a training program for all retirement counselors of agencies of the Federal Government.
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
-&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has takena lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
+&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
 
 &emsp;(6) The Federal Government should maintain a national science, engineering, and technology laboratory which provides measurement methods, standards, and associated technologies and which aids United States companies in using new technologies to improve products and manufacturing processes.
 
@@ -26,7 +26,7 @@
 
 &emsp;(4) to promote shared risks, accelerated development, and pooling of skills which will be necessary to strengthen America's manufacturing industries.
 
-(Mar. 3, 1901, ch. 872, §1, 31 Stat. 1449; Aug. 23, 1988, Pub. L. 100–418, title V, §5111, 102 Stat. 1427.)
+(Mar. 3, 1901, ch. 872, §1, 31 Stat. 1449; Pub. L. 100–418, title V, §5111, Aug. 23, 1988, 102 Stat. 1427.)
 
 #### References in Text
 
@@ -42,6 +42,10 @@ Section 5115(c) of Pub. L. 100–418 provided that: “References in any other F
 
 Act Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–309, §1, Oct. 30, 1998, 112 Stat. 2935, provided that: “This Act \[enacting sections 278g–2a, 278p, and 1511e of this title, amending sections 278k, 3704, and 3711a of this title, enacting provisions set out as notes under sections 272 and 3711 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Technology Administration Act of 1998’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title \[amending sections 272 and 278n of this title and enacting provisions set out as notes under section 278n of this title\] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
@@ -52,11 +56,11 @@ Section 5101 of Pub. L. 100–418 provided that: “This part \[part I (§§5101
 
 #### Short Title
 
-Act Mar. 3, 1901, ch. 872, §31, formerly §23, as added Jan. 8, 1988, Pub. L. 100–235, §3(3), 101 Stat. 1728; renumbered §31 and amended Pub. L. 100–418, title V, §§5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433, provided that: “This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act.”
+Act Mar. 3, 1901, ch. 872, §32, formerly §23, as added Jan. 8, 1988, Pub. L. 100–235, §3(3), 101 Stat. 1728; renumbered §31 and amended Pub. L. 100–418, title V, §§5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered §32, Pub. L. 105–309, §4(a), Oct. 30, 1998, 112 Stat. 2935, provided that: “This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act.”
 
 #### Savings Provision
 
-Act Mar. 3, 1901, ch. 872, §29, as added Aug. 23, 1988, Pub. L. 100–418, title V, §5161, 102 Stat. 1449, provided that: “All rules and regulations, determinations, standards, contracts, certifications, authorizations, delegations, results and findings of investigations, or other actions duly issued, made, or taken by or pursuant to this Act \[enacting this chapter\], or under the authority of any other statutes which resulted in the assignment of functions or activities to the Secretary, the Department, the Director, or the Institute, as are in effect immediately before the date of enactment of this section \[Aug. 23, 1988\], and not suspended by the Secretary, the Director, the Institute or the courts, shall continue in full force and effect after the date of enactment of this section until modified or rescinded.”
+Act Mar. 3, 1901, ch. 872, §29, as added Aug. 23, 1988, Pub. L. 100–418, title V, §5161, 102 Stat. 1449, providedthat: “All rules and regulations, determinations, standards, contracts, certifications, authorizations, delegations, results and findings of investigations, or other actions duly issued, made, or taken by or pursuant to this Act \[enacting this chapter\], or under the authority of any other statutes which resulted in the assignment of functions or activities to the Secretary, the Department, the Director, or the Institute, as are in effect immediately before the date of enactment of this section \[Aug. 23, 1988\], and not suspended by the Secretary, the Director, the Institute or the courts, shall continue in full force and effect after the date of enactment of this section until modified or rescinded.”
 
 #### Cross References
 

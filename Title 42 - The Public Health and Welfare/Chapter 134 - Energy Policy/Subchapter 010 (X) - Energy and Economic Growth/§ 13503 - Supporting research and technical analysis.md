@@ -4,7 +4,7 @@
 
 #### (1) Program direction
 
-&emsp;The Secretary shall continue to support a vigorous program of basic energy sciences to provide basic research support for the development of energy technologies. Such program shall focus on the efficient production and use of energy, and the expansion of our knowledge of materials, chemistry, geology, and other related areas of advancing technology development.
+&emsp;The Secretary shall continue to support a vigorous program of basic energy sciences toprovide basic research support for the development of energy technologies. Such program shall focus on the efficient production and use of energy, and the expansion of our knowledge of materials, chemistry, geology, and other related areas of advancing technology development.
 
 #### (2) User facilities
 
@@ -32,7 +32,7 @@
 
 (2) The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
 
-(3)(A)(i) The Director of the Office of Energy Research shall operate an Experimental Program to Stimulate Competitive Research (in this paragraph referred to as “EPSCoR”) as part of the Department of Energy's University and Science Education Programs.
+(3)(A)(i) The Director of the Office of Science shall operate an Experimental Program to Stimulate Competitive Research (in this paragraph referred to as “EPSCoR”) as part of the Department of Energy's University and Science Education Programs.
 
 (ii) The objectives of EPSCoR shall be—
 
@@ -48,7 +48,7 @@
 
 &emsp;(II) have demonstrated a commitment to develop their research bases and improve science and engineering research and education programs at their universities and colleges.
 
-(B) For purposes of this paragraph, the term “eligible States” means States that received aDepartment-EPSCoR planning or traineeship grant in fiscal year 1991 or fiscal year 1992.
+(B) For purposes of this paragraph, the term “eligible States” means States that received a Department-EPSCoR planning or traineeship grant in fiscal year 1991 or fiscal year 1992.
 
 (C) No more than $5,000,000 of the funds appropriated to EPSCoR in any fiscal year, through fiscal year 1997, are authorized to be appropriated for graduate traineeships.
 
@@ -64,7 +64,7 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 #### (2) Facility plan
 
-&emsp;Within 1 year after October 24, 1992, the Secretary shall prepare and submit to the Congress a comprehensive plan for conducting future facility maintenance, making repairs, modifications, and new additions, and constructing new facilities at multiprogram energy laboratories. Such plan shall provide for facilities work in accordance with the following priorities, listed in descending order of priority:
+&emsp;Within 1 year after October 24, 1992, the Secretary shall prepare and submit to the Congress a comprehensive plan for conducting future facility maintenance, making repairs, modifications, and new additions, and constructing new facilities at multiprogram energy laboratories. Such plan shall provide forfacilities work in accordance with the following priorities, listed in descending order of priority:
 
 &emsp;&emsp;(A) Providing for the safety and health of employees, visitors, and the general public with regard to correcting existing structural, mechanical, electrical, and environmental deficiencies.
 
@@ -78,7 +78,11 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University and Science Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
 
-(Pub. L. 102–486, title XXII, §2203, Oct. 24, 1992, 106 Stat. 3087.)
+(Pub. L. 102–486, title XXII, §2203, Oct. 24, 1992, 106 Stat. 3087; Pub. L. 105–245, title III, §309(b)(2)(F), Oct. 7, 1998, 112 Stat. 1853.)
+
+#### Amendments
+
+1998—Subsec. (b)(3)(A)(i). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
 
 #### Section Referred to in Other Sections
 

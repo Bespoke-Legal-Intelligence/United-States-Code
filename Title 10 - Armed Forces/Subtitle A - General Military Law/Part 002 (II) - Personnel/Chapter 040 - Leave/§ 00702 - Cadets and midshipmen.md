@@ -1,10 +1,44 @@
 ### §702. Cadets and midshipmen
 
-(a) Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy who, upon graduation, are appointed in a component of an armed force, may, in the discretion of the Secretary concerned or his designated representative, be granted graduation leave of not more than 60 days. Leave granted under this subsection is in addition to any other leave and may not be deducted from or charged against other leave authorized by this chapter, and must be completed within three months of the date of graduation. Leave under this subsection may not be carried forward as credit beyond the date of reporting to the first permanent duty station or to a port of embarkation for permanent duty outside the United States or in Alaska or Hawaii.
+(a)
 
-(b) Sections 701, 703, and 704 of this title and subsection (a) do not apply to cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, midshipmen at the United States Naval Academy, or cadets or midshipmen serving elsewhere in the armed forces. The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
+Graduation Leave.—Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy who, upon graduation, are appointed in a component of an armed force, may, in the discretion of the Secretary concerned or his designated representative, be granted graduation leave of not more than 60 days. Leave granted under this subsection is in addition to any other leave and may not be deducted from or charged against other leave authorized by this chapter, and must be completed within three months of the date of graduation. Leave under this subsection may not be carried forward as credit beyond the date of reporting to the first permanent duty station or to a port of embarkation for permanent duty outside the United States or in Alaska or Hawaii.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–513, title V, §511(20), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 103–160, div. A, title V, §532, Nov. 30, 1993, 107 Stat. 1657.)
+(b)
+
+Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen.—(1) Under regulations prescribed under subsection (d), the Secretary concerned may place an academy cadet or midshipman on involuntary leave for any period during which the Superintendent of the Academy at which the cadet or midshipman is admitted has suspended the cadet or midshipman from duty at the Academy—
+
+&emsp;(A) pending separation from the Academy;
+
+&emsp;(B) pending return to the Academy to repeat an academic semester or year; or
+
+&emsp;(C) for other good cause.
+
+(2) A cadet or midshipman placed on involuntary leave under paragraph (1) is not entitled to any pay under section 230(c) <sup>1</sup> of title 37 for the period of the leave.
+
+(3) Return of an academy cadet or midshipman to a pay status at the Academy concerned from involuntary leave status under paragraph (1) does not restore any entitlement of the cadet or midshipman to pay for the period of the involuntary leave.
+
+(c)
+
+Inapplicable Leave Provisions.—Sections 701, 703, and 704 of this title and subsection (a) do not apply to academy cadets or midshipmen or cadets or midshipmen serving elsewhere in the armed forces.
+
+(d)
+
+Regulations.—The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
+
+(e)
+
+Definition.—In this section, the term “academy cadet or midshipman” means—
+
+&emsp;(1) a cadet of the United States Military Academy;
+
+&emsp;(2) a midshipman of the United States Naval Academy;
+
+&emsp;(3) a cadet of the United States Air Force Academy; or
+
+&emsp;(4) a cadet of the United States Coast Guard Academy.
+
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–513, title V, §511(20), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 103–160, div. A, title V, §532, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 105–261, div. A, title V, §562, Oct. 17, 1998, 112 Stat. 2027.)
 
 Historical and Revision Notes
 
@@ -44,6 +78,16 @@ In subsections (a) and (b), the words “, or his designated representative,”
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–261, §562(c)(1), inserted heading.
+
+Subsec. (b). Pub. L. 105–261, §562(a)(3), added subsec. (b). Former first and second sentences of subsec. (b) redesignated subsecs. (c) and (d), respectively.
+
+Subsec. (c). Pub. L. 105–261, §562(a)(2), (b)(1), (c)(2), redesignated first sentence of subsec. (b) as subsec. (c), inserted heading, and substituted “academy cadets or midshipmen” for “cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, midshipmen at the United States Naval Academy,”.
+
+Subsec. (d). Pub. L. 105–261, §562(a)(1), (c)(3), redesignated second sentence of subsec. (b) as subsec. (d) and inserted heading.
+
+Subsec. (e). Pub. L. 105–261, §562(b)(2), added subsec. (e).
+
 1993—Subsec. (a). Pub. L. 103–160 struck out “regular” before “component” in first sentence.
 
 1980—Subsec. (b). Pub. L. 96–513 substituted “Sections 701, 703, and 704 of this title and subsection (a)” for “Sections 701, 702(a), 703, and 704 of this chapter”.
@@ -55,4 +99,6 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date
 
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “203(c)”.</i>
 

@@ -32,5 +32,5 @@ Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 113, 2501.
+This section is referred to in title 10 sections 113, 117, 2501.
 

@@ -4,7 +4,7 @@ Grants made by the Attorney General under this section shall be used—
 
 &emsp;(1) to fund programs that require the cooperation and coordination of prosecutors, school officials, police, probation officers, youth and social service professionals, and community members in the effort to reduce the incidence of, and increase the successful identification and speed of prosecution of, young violent offenders;
 
-&emsp;(2) to fund programs in which prosecutors focus on the offender, not simply the specific offense, and impose individualized sanctions, designed to deter that offender from further antisocial conduct, and impose increasingly serious sanctions on a young offender who continues to commit offenses;
+&emsp;(2) to fund programs in which prosecutors focus on the offender, not simply the specificoffense, and impose individualized sanctions, designed to deter that offender from further antisocial conduct, and impose increasingly serious sanctions on a young offender who continues to commit offenses;
 
 &emsp;(3) to fund programs that coordinate criminal justice resources with educational, social service, and community resources to develop and deliver violence prevention programs, including mediation and other conflict resolution methods, treatment, counseling, educational, and recreational programs that create alternatives to criminal activity; and
 

@@ -54,13 +54,27 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a junior or community college.
 
-&emsp;(2) The term “tribally controlled community college” has the meaning given to such term by section 1801(4) of this title.
+&emsp;(2) The term “tribally controlled community college” has the meaning given to such term by section 1801(4) <sup>1</sup> of this title.
 
-&emsp;(3) The term “junior or community college” has the meaning given to such term by section 1058(e) of title 20.
+&emsp;(3) The term “junior or community college” has the meaning given to such term by section 1058(e) <sup>1</sup> of title 20.
 
-(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544.)
+(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
+
+#### References in Text
+
+Section 1801 of this title, referred to in subsec. (e)(2), was amended by Pub. L. 98–192, §1(1), Dec. 1, 1983, 97 Stat. 1335, to designate par. (4) as subsec. (a)(4), and was amended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, so that it no longer defines the term “tribally controlled community college”.
+
+Section 1058 of title 20, referred to in subsec. (e)(3), was amended by Pub. L. 105–244, title III, §303(b)(1), Oct. 7, 1998, 112 Stat. 1639, which redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 #### Amendments
 
+1998—Subsec. (e)(2). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(4) of this title.
+
 1992—Subsec. (f). Pub. L. 102–573 struck out subsec. (f) which authorized appropriations for fiscal years 1990 to 1992.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

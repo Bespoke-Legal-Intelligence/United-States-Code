@@ -34,27 +34,15 @@
 
 28
 
-&emsp;&emsp;Medical Corps
+&emsp;&emsp;Medical Department staff corps
 
-5
+9
 
 &emsp;&emsp;Chaplain Corps
 
 1
 
 &emsp;&emsp;Judge Advocate General's Corps
-
-1
-
-&emsp;&emsp;Dental Corps
-
-2
-
-&emsp;&emsp;Nurse Corps
-
-1
-
-&emsp;&emsp;Medical Service Corps
 
 1
 
@@ -68,19 +56,35 @@
 
 (3) Not more than 50 percent of the officers in an active status authorized under this section for the Navy may serve in the grade of rear admiral.
 
+(4)(A) For the purposes of paragraph (1), the Medical Department staff corps referred to in the table are as follows:
+
+&emsp;(i) The Medical Corps.
+
+&emsp;(ii) The Dental Corps.
+
+&emsp;(iii) The Nurse Corps.
+
+&emsp;(iv) The Medical Service Corps.
+
+(B) Each of the Medical Department staff corps is authorized one rear admiral (lower half) within the strength authorization distributed to the Medical Department staff corps under paragraph (1). The Secretary of the Navy shall distribute the remainder of the strength authorization for the Medical Department staff corps under that paragraph among those staff corps as the Secretary determines appropriate to meet the needs of the Navy.
+
 (d) The authorized strength of the Marine Corps under subsection (a) is exclusive of those counted under section 526 of this title.
 
-(e)(1) A reserve general officer of the Army or Air Force may not be reduced in grade becauseof a reduction in the number of general officers authorized under subsection (a).
+(e)(1) A reserve general officer of the Army or Air Force may not be reduced in grade because of a reduction in the number of general officers authorized under subsection (a).
 
 (2) An officer of the Naval Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2984; amended Pub. L. 104–106, div. A, title XV, §1501(b)(9), Feb. 10, 1996, 110 Stat. 496.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2984; amended Pub. L. 104–106, div. A, title XV, §1501(b)(9), Feb. 10, 1996, 110 Stat. 496; Pub. L. 105–261, div. A, title IV, §415, Oct. 17, 1998, 112 Stat. 1998.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3218, 5457(a), 5458(a), and 8218 of this title, prior to repeal by Pub. L. 103–337, §1662(a)(3).
 
 #### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–261, §415(1), in table, inserted item relating to Medical Department staffcorps and struck out items relating to Medical Corps, Dental Corps, Nurse Corps, and Medical Service Corps.
+
+Subsec. (c)(4). Pub. L. 105–261, §415(2), added par. (4).
 
 1996—Subsec. (a). Pub. L. 104–106 substituted “active status, are” for “active-status, are”.
 

@@ -1,12 +1,12 @@
 ### §605. Disclosure of names of persons on relief
 
-Whoever, for political purposes, furnishes or discloses any list or names of persons receiving compensation, employment or benefits provided for or made possible by any Act of Congress appropriating, or authorizing the appropriation of funds for work relief or relief purposes, to a political candidate, committee, campaign manager, or to any person for delivery to a political candidate, committee, or campaign manager; and
+Whoever, for political purposes, furnishes or discloses any list or names of persons receivingcompensation, employment or benefits provided for or made possible by any Act of Congress appropriating, or authorizing the appropriation of funds for work relief or relief purposes, to a political candidate, committee, campaign manager, or to any person for delivery to a political candidate, committee, or campaign manager; and
 
 Whoever receives any such list or names for political purposes—
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 722; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 722; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

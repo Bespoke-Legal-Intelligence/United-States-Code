@@ -22,7 +22,7 @@ Each justice or judge retiring under this section after serving ten years contin
 
 &emsp;(A) dismiss the complaint, if he finds it to be (i) not in conformity with paragraph (1) of this subsection, (ii) directly related to the merits of a decision or procedural ruling, or (iii) frivolous; or
 
-&emsp;(B) conclude the proceeding if he finds that appropriate corrective action has been taken or that action on the complaint is no longer necessary because of intervening events.
+&emsp;(B) conclude the proceeding if he finds that appropriate corrective action has been takenor that action on the complaint is no longer necessary because of intervening events.
 
 > The chief judge shall transmit copies of his written order to the complainant and to the judge or magistrate whose conduct is the subject of the complaint.
 
@@ -110,7 +110,7 @@ Each justice or judge retiring under this section after serving ten years contin
 
 (16) Upon the request of a judge or magistrate whose conduct is the subject of a complaint under this subsection, the judicial council may, if the complaint has been finally dismissed under paragraph (6)(C), recommend that the Director of the Administrative Office of the United States Courts award reimbursement, from funds appropriated to the Federal judiciary, for those reasonable expenses, including attorneys’ fees, incurred by that judge or magistrate during the investigation which would not have been incurred but for the requirements of this subsection.
 
-(17) Except as expressly provided in this subsection, nothing in this subsection shall be construed to affect any other provision of this title, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the Federal Rules of Appellate Procedure, or the Federal Rules of Evidence.
+(17) Except as expressly provided in this subsection, nothing in this subsection shall be construed to affect any other provision of this title, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the FederalRules of Appellate Procedure, or the Federal Rules of Evidence.
 
 (18) The United States Court of Federal Claims, the Court of International Trade, and the Court of Appeals for the Federal Circuit shall each prescribe rules, consistent with the foregoing provisions of this subsection, establishing procedures for the filing of complaints with respect to the conduct of any judge of such court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, each such court shall have the powers granted to a judicial council under this subsection.
 
@@ -148,9 +148,9 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c)(17), are set
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c)(18). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (c)(18). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1990</b>—Subsec. (c)(1). Pub. L. 101–650, §402(a), inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
+1990—Subsec. (c)(1). Pub. L. 101–650, §402(a), inserted at end “In the interests of the effective and expeditious administration of the business of the courts and on the basis of information available to the chief judge of the circuit, the chief judge may, by written order stating reasons therefor, identify a complaint for purposes of this subsection and thereby dispense with filing of a written complaint.”
 
 Subsec. (c)(3)(B). Pub. L. 101–650, §402(f), inserted before period at end “or that action on the complaint is no longer necessary because of intervening events”.
 
@@ -178,27 +178,27 @@ Subsec. (c)(14)(C). Pub. L. 101–650, §402(c)(2)(D), (i)(2), redesignated subp
 
 Subsec. (c)(16) to (18). Pub. L. 101–650, §402(h), added par. (16) and redesignated former pars. (16) and (17) as (17) and (18), respectively.
 
-<b>1988</b>—Subsec. (c)(11). Pub. L. 100–702 inserted before last sentence “Any such rule shall be made or amended only after giving appropriate public notice and an opportunity for comment.”
+1988—Subsec. (c)(11). Pub. L. 100–702 inserted before last sentence “Any such rule shall be made or amended only after giving appropriate public notice and an opportunity for comment.”
 
-<b>1984</b>—Subsec. (c)(6)(B)(vii). Pub. L. 98–353 substituted “section 152” for “section 153”.
+1984—Subsec. (c)(6)(B)(vii). Pub. L. 98–353 substituted “section 152” for “section 153”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §112(a), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
+1982—Subsec. (a). Pub. L. 97–164, §112(a), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” in third and fifth pars.
 
 Subsec. (b). Pub. L. 97–164, §112(b), struck out “Court of Claims, Court of Customs and Patent Appeals, or” before “Court of International Trade” wherever appearing.
 
 Subsec. (c)(17). Pub. L. 97–164, §112(c), substituted “United States Claims Court, the Court of International Trade, and the Court of Appeals for the Federal Circuit” for “Court of Claims, the Court of Customs and Patent Appeals, and the Customs Court”.
 
-<b>1980</b>—Pub. L. 96–458, §3(b), inserted “judicial discipline” in section catchline.
+1980—Pub. L. 96–458, §3(b), inserted “judicial discipline” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
 Subsec. (c). Pub. L. 96–458, §3(a), added subsec. (c).
 
-<b>1957</b>—Subsec. (b). Pub. L. 85–261 added subsec. (b).
+1957—Subsec. (b). Pub. L. 85–261 added subsec. (b).
 
-<b>1954</b>—Act Feb. 10, 1954, inserted “; substitute judge on failure to retire” in section catchline (but without adding any provisions on such subject to the text of the section, see 1957 amendment), and inserted “under this section” after “retire” in third, fourth, and fifth pars.
+1954—Act Feb. 10, 1954, inserted “; substitute judge on failure to retire” in section catchline (but without adding any provisions on such subject to the text of the section, see 1957 amendment), and inserted “under this section” after “retire” in third, fourth, and fifth pars.
 
-<b>1949</b>—Act May 24, 1949, amended section to include provision that appointment of successors to justices or judges must be made with consent of Senate, and inserted “continuously or otherwise” after “Each justice or judge” in last par.
+1949—Act May 24, 1949, amended section to include provision that appointment of successors to justices or judges must be made with consent of Senate, and inserted “continuously or otherwise” after “Each justice or judge” in last par.
 
 #### Change of Name
 

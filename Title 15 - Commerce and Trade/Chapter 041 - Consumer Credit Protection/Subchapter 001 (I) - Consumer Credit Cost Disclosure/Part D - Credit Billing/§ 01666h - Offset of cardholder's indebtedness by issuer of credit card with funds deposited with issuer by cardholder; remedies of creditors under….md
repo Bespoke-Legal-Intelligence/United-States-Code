@@ -12,7 +12,7 @@ A card issuer may not take any action to offset a cardholder's indebtedness aris
 
 #### (b) Attachments and levies
 
-This section does not alter or affect the right under State law of a card issuer to attach orotherwise levy upon funds of a cardholder held on deposit with the card issuer if that remedy is constitutionally available to creditors generally.
+This section does not alter or affect the right under State law of a card issuer to attach or otherwise levy upon funds of a cardholder held on deposit with the card issuer if that remedy is constitutionally available to creditors generally.
 
 (Pub. L. 90–321, title I, §169, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1515.)
 

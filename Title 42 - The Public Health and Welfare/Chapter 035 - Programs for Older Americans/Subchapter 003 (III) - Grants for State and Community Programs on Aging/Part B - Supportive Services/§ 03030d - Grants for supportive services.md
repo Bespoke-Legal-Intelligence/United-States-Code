@@ -82,7 +82,7 @@ Subsec. (a)(6). Pub. L. 102–375, §312(4), amended par. (6) generally. Prior t
 
 Subsec. (a)(7). Pub. L. 102–375, §312(5), substituted “physical activity, exercise, music therapy, art therapy, and dance-movement therapy” for “physical activity and exercise”.
 
-Subsec. (a)(9). Pub. L. 102–375, §312(6), substituted “, for older individuals, preretirement counseling and assistance in planning for and assessing future post-retirement needs with regard to public and private insurance, public benefits, lifestyle changes, relocation, legal matters, leisure time, and other appropriate matters” for “preretirement and second career counseling for older individuals”.
+Subsec. (a)(9). Pub. L. 102–375, §312(6), substituted “, for older individuals, preretirement counseling andassistance in planning for and assessing future post-retirement needs with regard to public and private insurance, public benefits, lifestyle changes, relocation, legal matters, leisure time, and other appropriate matters” for “preretirement and second career counseling for older individuals”.
 
 Subsec. (a)(11). Pub. L. 102–375, §312(7), inserted before semicolon at end “, and of older individuals who provide uncompensated care to their adult children with disabilities”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings
 
-The Congress finds that participation by Central American countries in an effective forumfor dialog on, and the continuous review and advancement of, Central America's political, economic, and social development would foster cooperation between the United States and Central American countries.
+The Congress finds that participation by Central American countries in an effective forum for dialog on, and the continuous review and advancement of, Central America's political, economic, and social development would foster cooperation between the United States and Central American countries.
 
 #### (b) Sense of Congress; Central American Development Organization; establishment, etc.
 

@@ -1,15 +1,22 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title6",
- "package": "USCODE-1997-title6",
+ "package": "USCODE-1998-title6",
  "pieces": [
   {
    "id": "6_",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     3,
+     "[Page 1]",
+     true
+    ]
+   ],
    "path": "README.md",
    "printed_pages": [
-    null,
-    null
+    1,
+    1
    ]
   },
   {
@@ -17,8 +24,8 @@
    "marks": [],
    "path": "§ 00001 to 5 - Repealed. Pub. L. 92–310, title II, §203(1), June 6, 1972, 86 Stat. 202.md",
    "printed_pages": [
-    null,
-    null
+    1,
+    1
    ]
   },
   {
@@ -26,8 +33,8 @@
    "marks": [],
    "path": "§ 00006 to 13 - Repealed. Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085.md",
    "printed_pages": [
-    null,
-    null
+    1,
+    1
    ]
   },
   {
@@ -35,8 +42,8 @@
    "marks": [],
    "path": "§ 00014 - Repealed. Pub. L. 92–310, title II, §203(1), June 6, 1972, 86 Stat. 202.md",
    "printed_pages": [
-    null,
-    null
+    1,
+    1
    ]
   },
   {
@@ -44,11 +51,11 @@
    "marks": [],
    "path": "§ 00015 - Repealed. Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085.md",
    "printed_pages": [
-    null,
-    null
+    1,
+    1
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1997-title6 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1998-title6 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 06 - Surety Bonds [Repealed]"
 }

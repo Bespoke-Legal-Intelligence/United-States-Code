@@ -12,7 +12,7 @@ Not later than one year after August 7, 1977, and after notice and opportunity f
 
 > The operation of such air quality monitoring system may be carried out by the Administrator or by such other departments, agencies, or entities of the Federal Government (including the National Weather Service) as the President may deem appropriate. Any air quality monitoring system required under any applicable implementation plan under section 7410 of this title shall, as soon as practicable following promulgation of regulations under this section, utilize the standard criteria and methodology, and measure air quality according to the standard index, established under such regulations.
 
-(July 14, 1955, ch. 360, title III, §319, as added Aug. 7, 1977, Pub. L. 95–95, title III, §309, 91 Stat. 781.)
+(July 14, 1955, ch. 360, title III, §319, as added Pub. L. 95–95, title III, §309, Aug. 7, 1977, 91 Stat. 781.)
 
 #### Effective Date
 

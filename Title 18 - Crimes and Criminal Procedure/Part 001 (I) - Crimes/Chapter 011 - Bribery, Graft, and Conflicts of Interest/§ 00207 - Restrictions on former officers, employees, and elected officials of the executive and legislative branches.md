@@ -248,7 +248,7 @@ State and local governments and institutions, hospitals, and organizations.—Th
 
 &emsp;&emsp;(A) an agency or instrumentality of a State or local government if the appearance, communication, or representation is on behalf of such government, or
 
-&emsp;&emsp;(B) an accredited, degree-granting institution of higher education, as defined in section 1201(a) of the Higher Education Act of 1965, or a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, if the appearance, communication, or representation is on behalf of such institution, hospital, or organization.
+&emsp;&emsp;(B) an accredited, degree-granting institution of higher education, as defined in section 101 of the Higher Education Act of 1965, or a hospital or medical research organization, exempted and defined under section 501(c)(3) of the Internal Revenue Code of 1986, if the appearance, communication, or representation is on behalf of such institution, hospital, or organization.
 
 &emsp;(3)
 
@@ -328,7 +328,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 (E) As used in this subsection, the term “civil service” has the meaning given that term in section 2101 of title 5.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618.)
 
 #### References in Text
 
@@ -342,13 +342,13 @@ Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(7)(L
 
 Section 1(e) and (f) of the Foreign Agents Registration Act of 1938, referred to in subsec. (f)(3), is classified to section 611(e) and (f) of Title 22, Foreign Relations and Intercourse.
 
-Section 1201(a) of the Higher Education Act of 1965, referred to in subsec. (j)(2)(B), is classified to section 1141(a) of Title 20, Education.
+Section 101 of the Higher Education Act of 1965, referred to in subsec. (j)(2)(B), is classified to section 1001 of Title 20, Education.
 
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (j)(2)(B), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
 #### Codification
 
-Another section 501(a) of Pub. L. 95–521, as added by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1760, is set out in the Appendix to Title 5, Government Organization and Employees.
+Another section 501(a) of Pub. L. 95–521, as added by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat.1760, is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -357,6 +357,8 @@ A prior section 207, act June 25, 1948, ch. 645, 62 Stat. 692, related to the ac
 Provisions similar to those comprising this section were contained in section 284 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+
+1998—Subsec. (j)(2)(B). Pub. L. 105–244 substituted “section 101” for “section 1201(a)”.
 
 1996—Subsec. (c)(2)(A)(ii). Pub. L. 104–179, §6, substituted “level 5 of the Senior Executive Service,” for “level V of the Executive Schedule,”.
 
@@ -412,7 +414,7 @@ Subsec. (f)(1)(A). Pub. L. 101–280, §2(a)(8)(B), amended subsec. (f)(1)(A), a
 
 Subsec. (f)(1)(B). Pub. L. 101–280, §2(a)(8)(C), amended subsec. (f)(1)(B), as amended by Pub. L. 101–194, by striking out “of the Government” after “department or agency”.
 
-Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intent to affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
+Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intentto affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
 
 Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (a), (c), (d), and (e)”, “on behalf of” for “as an officer or employee of”, and “or the District of Columbia” for “Government”.
 
@@ -435,6 +437,10 @@ Subsec. (k). Pub. L. 101–189 added subsec. (k).
 Subsec. (d). Pub. L. 96–28, §2, designated existing provisions as par. (1), designated existing pars. (1) and (3) as subpars. (A) and (B) of par. (1) as so designated, and added subpar. (C) of par. (1) and par. (2), incorporating into the new par. and subpar. portions of former provisions relating to positions for which the basic rate of pay was equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of Title 5 and who had significant decision-making or supervisory responsibility, as designated by the Director of the Office of Government Ethics, in consultation with the head of the department or agency concerned, and provisions relating to the designation of positions by the Director of the Office of Government Ethics.
 
 1978—Pub. L. 95–521 expanded section to include provisions designed to more effectively deal with the problem of the disproportionate influence former officers and employees might have upon the government processes and decision-making in their previous departments or agencies when they return in the role of representatives or advocates of nongovernmental groups or interests before those same departments or agencies.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1995 Amendment
 
@@ -476,7 +482,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 #### “§207. Disqualification of former officers and employees; disqualification of partners of current officers and employees
 
-“(a) Whoever, having been an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, after his employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, any other person (except the UnitedStates), in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of any other person (except the United States) to—
+“(a) Whoever, having been an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, after his employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, any other person (except the United States), in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of any other person (except the United States) to—
 
 &emsp;“(1) any department, agency, court, court-martial, or any civil, military, or naval commission of the United States or the District of Columbia, or any officer or employee thereof, and
 
@@ -518,7 +524,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 “(e) For the purposes of subsection (c), whenever the Director of the Office of Government Ethics determines that a separate statutory agency or bureau within a department or agency exercises functions which are distinct and separate from the remaining functions of the department or agency, the Director shall by rule designate such agency or bureau as a separate department or agency; except that such designation shall not apply to former heads of designated bureaus or agencies, or former officers and employees of the department or agency whose official responsibilities included supervision of said agency or bureau.
 
-“(f) The prohibitions of subsections (a), (b), and (c) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information under procedures acceptable to the department or agency concerned, or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee.
+“(f) The prohibitions of subsections (a), (b), and (c) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information under procedures acceptable to the department or agency concerned, or if the head of the department or agency concerned with theparticular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee.
 
 “(g) Whoever, being a partner of an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, acts as agent or attorney for anyone other than the United States before any department, agency, court, court-martial, or any civil, military, or naval commission of the United States or the District of Columbia, or any officer or employee thereof, in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter in which the United States or the District of Columbia is a party or has a direct and substantial interest and in which such officer or employee or special Government employee participates or has participated personally and substantially as an officer or employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, or which is the subject of his official responsibility, shall be fined not more than $5,000, or imprisoned for not more than one year, or both.
 
@@ -566,7 +572,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 #### Regulations
 
-Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
+Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section,see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 
@@ -602,7 +608,7 @@ Wartime suspension of limitations, see section 3287 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 16 section 459b–7; title 19 section 2171; title 22 sections 3310, 3507, 3508, 3622; title 25 section 450i; title 28 sections 594, 656; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 sections 1396a, 2297h–3; title 48 section 1907; title 50 section 405; title 50 App. section 463.
+This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 12 section 2245; title 16 section 459b–7; title 19 section 2171; title 22 sections 3310, 3507, 3508, 3613, 3622; title 25 section 450i; title 28 sections 594, 656; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 sections 1396a, 2297h–3; title 48 section 1907; title 50 section 405; title 50 App. section 463.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

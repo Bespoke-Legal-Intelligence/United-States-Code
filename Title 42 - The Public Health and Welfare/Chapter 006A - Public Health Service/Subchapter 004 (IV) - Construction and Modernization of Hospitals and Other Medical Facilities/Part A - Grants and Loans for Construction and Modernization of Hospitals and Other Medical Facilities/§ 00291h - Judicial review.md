@@ -12,7 +12,7 @@ The findings of the Surgeon General as to the facts, if supported by substantial
 
 The judgment of the court affirming or setting aside, in whole or in part, any action of the Surgeon General shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this section shall not, unless so specifically ordered by the court, operate as a stay of the Surgeon General's action.
 
-(July 1, 1944, ch. 373, title VI, §608, as added Aug. 18, 1964, Pub. L. 88–443, §3(a), 78 Stat. 456.)
+(July 1, 1944, ch. 373, title VI, §608, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 456.)
 
 #### Prior Provisions
 

@@ -1,5 +1,5 @@
 
-25 U.S.C.<br>United States Code, 1997 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
+25 U.S.C.<br>United States Code, 1998 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 25—INDIANS
 
@@ -26,7 +26,7 @@
 | [<b>17.</b>](Chapter%20017%20-%20Financing%20Economic%20Development%20of%20Indians%20and%20Indian%20Organizations/README.md) | <b>Financing Economic Development of Indians and Indian Organizations</b> | <b>1451</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Indian%20Health%20Care/README.md) | <b>Indian Health Care</b> | <b>1601</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Indian%20Land%20Claims%20Settlements/README.md) | <b>Indian Land Claims Settlements</b> | <b>1701</b> |
-| [<b>20.</b>](Chapter%20020%20-%20Tribally%20Controlled%20Community%20College%20Assistance/README.md) | <b>Tribally Controlled Community College Assistance</b> | <b>1801</b> |
+| [<b>20.</b>](Chapter%20020%20-%20Tribally%20Controlled%20College%20or%20University%20Assistance/README.md) | <b>Tribally Controlled College or University Assistance</b> | <b>1801</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Indian%20Child%20Welfare/README.md) | <b>Indian Child Welfare</b> | <b>1901</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md) | <b>Bureau of Indian Affairs Programs</b> | <b>2001</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Development%20of%20Tribal%20Mineral%20Resources/README.md) | <b>Development of Tribal Mineral Resources</b> | <b>2101</b> |
@@ -79,7 +79,7 @@
 - [Chapter 017 - Financing Economic Development of Indians and Indian Organizations](Chapter%20017%20-%20Financing%20Economic%20Development%20of%20Indians%20and%20Indian%20Organizations/README.md)
 - [Chapter 018 - Indian Health Care](Chapter%20018%20-%20Indian%20Health%20Care/README.md)
 - [Chapter 019 - Indian Land Claims Settlements](Chapter%20019%20-%20Indian%20Land%20Claims%20Settlements/README.md)
-- [Chapter 020 - Tribally Controlled Community College Assistance](Chapter%20020%20-%20Tribally%20Controlled%20Community%20College%20Assistance/README.md)
+- [Chapter 020 - Tribally Controlled College or University Assistance](Chapter%20020%20-%20Tribally%20Controlled%20College%20or%20University%20Assistance/README.md)
 - [Chapter 021 - Indian Child Welfare](Chapter%20021%20-%20Indian%20Child%20Welfare/README.md)
 - [Chapter 022 - Bureau of Indian Affairs Programs](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md)
 - [Chapter 023 - Development of Tribal Mineral Resources](Chapter%20023%20-%20Development%20of%20Tribal%20Mineral%20Resources/README.md)

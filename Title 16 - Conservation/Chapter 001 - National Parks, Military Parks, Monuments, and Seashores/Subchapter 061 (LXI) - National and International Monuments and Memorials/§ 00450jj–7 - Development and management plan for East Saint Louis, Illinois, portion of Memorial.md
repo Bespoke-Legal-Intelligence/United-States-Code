@@ -24,7 +24,7 @@
 
 > In carrying out its duties under this section, the Commission shall take into account Federal, State, and local plans and studies respecting the area, including the study by the National Park Service on the feasibility of a museum of American ethnic culture to be a part of any development plans for the Memorial.
 
-(May 17, 1954, ch. 204, §8, as added Aug. 24, 1984, Pub. L. 98–398, title II, §201(a), 98 Stat. 1470.)
+(May 17, 1954, ch. 204, §8, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1470.)
 
 #### Section Referred to in Other Sections
 

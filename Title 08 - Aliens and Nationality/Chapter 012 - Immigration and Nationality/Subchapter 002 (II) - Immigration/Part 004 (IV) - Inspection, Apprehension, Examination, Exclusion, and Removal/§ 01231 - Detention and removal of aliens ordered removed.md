@@ -24,7 +24,7 @@
 
 #### (2) Detention
 
-&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
+&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
 
 #### (3) Supervision after 90-day period
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
 
-&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of thistitle <sup>2</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>2</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
 &emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove an alien to a country if the Attorney General decides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
+&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove analien to a country if the Attorney General decides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
 
 #### (B) Exception
 
@@ -188,7 +188,7 @@
 
 #### (1) Vessels and aircraft
 
-&emsp;An alien arriving at a port of entry of the United States who is ordered removed eitherwithout a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
+&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
 
 &emsp;&emsp;(A) it is impracticable to remove the alien on one of those vessels or aircraft within a reasonable time, or
 
@@ -348,7 +348,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailablefor rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
+&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailable for rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
 
 #### (2) Detention facilities of the Immigration and Naturalization Service
 
@@ -398,7 +398,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (6) To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), 110 Stat. 3009–598, 3009–607, 3009–630.)
+(June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630.)
 
 #### Codification
 
@@ -426,9 +426,45 @@ Section 328(a)(2) of div. C of Pub. L. 104–208 provided that: “The amendment
 
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
+#### United States Policy With Respect to Involuntary Return of Persons in Danger of Subjection to Torture
+
+Pub. L. 105–277, div. G, title XXII, §2242, Oct. 21, 1998, 112 Stat. 2681–822, provided that:
+
+“(a)
+
+Policy.—It shall be the policy of the United States not to expel, extradite, or otherwise effect the involuntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
+
+“(b)
+
+Regulations.—Not later than 120 days after the date of enactment of this Act \[Oct. 21, 1998\], the heads of the appropriate agencies shall prescribe regulations to implement the obligations of the United States under Article 3 of the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
+
+“(c)
+
+Exclusion of Certain Aliens.—To the maximum extent consistent with the obligations of the United States under the Convention, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention, the regulations described in subsection (b) shall exclude from the protection of such regulations aliens described in section 241(b)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)(B)).
+
+“(d)
+
+Review and Construction.—Notwithstanding any other provision of law, and except as provided in the regulations described in subsection (b), no court shall have jurisdiction to review the regulations adopted to implement this section, and nothing in this section shall be construed as providing any court jurisdiction to consider or review claims raised under the Convention or this section, or any other determination made with respect to the application of the policy set forth in subsection (a), except as part of the review of a final order of removal pursuant to section 242 of the Immigration and Nationality Act (8 U.S.C. 1252).
+
+“(e)
+
+Authority To Detain.—Nothing in this section shall be construed as limiting the authority of the Attorney General to detain any person under any provision of law, including, but not limited to, any provision of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
+
+“(f)
+
+Definitions.—
+
+&emsp;“(1)
+
+Convention defined.—In this section, the term ‘Convention’ means the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, done at New York on December 10, 1984.
+
+&emsp;“(2)
+
+Same terms as in the convention.—Except as otherwise provided, the terms used in this section have the meanings given those terms in the Convention, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.”
+
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) ofPub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Pilot Program on Use of Closed Military Bases for Detention of Inadmissible or Deportable Aliens
 

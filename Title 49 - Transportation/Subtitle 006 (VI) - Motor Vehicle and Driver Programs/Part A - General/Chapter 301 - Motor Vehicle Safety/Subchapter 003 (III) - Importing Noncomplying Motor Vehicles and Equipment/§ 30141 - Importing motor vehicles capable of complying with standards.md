@@ -20,7 +20,7 @@ General.—Section 30112(a) of this title does not apply to a motor vehicle if�
 
 &emsp;(2) the vehicle is imported by a registered importer; and
 
-&emsp;(3) the registered importer pays the annual fee the Secretary of Transportation establishes under subsection (e) of this section to pay for the costs of carrying out the registration program for importers under subsection (c) of this section and any other fees the Secretary of Transportation establishes to pay for the costs of—
+&emsp;(3) the registered importer pays the annual fee the Secretary of Transportation establishes under subsection (e) of this section topay for the costs of carrying out the registration program for importers under subsection (c) of this section and any other fees the Secretary of Transportation establishes to pay for the costs of—
 
 &emsp;&emsp;(A) processing bonds provided to the Secretary of the Treasury under subsection (d) of this section; and
 
@@ -110,13 +110,13 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(c)(2), (3)(A)–(D); added 
 
 In subsection (a)(1)(A)(iv), the words “prescribed under this chapter” are substituted for “Federal” for consistency in this chapter.
 
-In subsection (a)(3), before clause (A), the words “any other fees” are substituted for “such other annual fee or fees” to eliminate unnecessary words. In clause (B), the words “this subchapter” are substituted for “this section” for clarity. See H. Rept. No. 100–431, 100th Cong., 1st Sess., p. 19 (1987).
+In subsection (a)(3), before clause (A), the words “any other fees” are substituted for “such other annual feeor fees” to eliminate unnecessary words. In clause (B), the words “this subchapter” are substituted for “this section” for clarity. See H. Rept. No. 100–431, 100th Cong., 1st Sess., p. 19 (1987).
 
 In subsection (b)(1), the words “procedures for making a decision under subsection (a)(1) of this section” are substituted for “procedures for considering such petitions” and “procedures for determinations made on the Secretary's initiative” because of the restatement. The words “(whether or not confidential)” are omitted as unnecessary because of the restatement.
 
 In subsection (b)(2), the word “permits” is substituted for “shall be sufficient authority” for clarity. The word “conditions” is omitted as being included in “terms”.
 
-In subsection (c)(1), before clause (A), the words “under this subsection” are added for clarity. The word “including” is substituted for “include, as a minimum” to eliminate unnecessary words. In clause (B), thewords “(relating to discovery, notification, and remedy of defects)” are omitted as surplus.
+In subsection (c)(1), before clause (A), the words “under this subsection” are added for clarity. The word “including” is substituted for “include, as a minimum” to eliminate unnecessary words. In clause (B), the words “(relating to discovery, notification, and remedy of defects)” are omitted as surplus.
 
 In subsection (c)(3), the words “directly or indirectly” are omitted as unnecessary because of the restatement.
 

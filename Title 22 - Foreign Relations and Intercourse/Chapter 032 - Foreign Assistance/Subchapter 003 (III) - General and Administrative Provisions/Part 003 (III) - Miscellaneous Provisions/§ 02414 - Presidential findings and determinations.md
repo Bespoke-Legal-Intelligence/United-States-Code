@@ -28,3 +28,7 @@ The Foreign Military Sales Act, referred to in subsecs. (a) and (d), is Pub. L. 
 
 Functions of President under this section delegated to heads of agencies having responsibilities for carrying out provisions of this chapter by section 1–601(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title, except that function under second sentence of subsec. (c) of this section, with respect to publication in Federal Register of any findings or determination reserved to President, provided that any officer to whom there is delegated function of making any finding or determination within purview of subsec. (a) of this section is also authorized to reach conclusion specified in performance of any functions delegated to him, by section 1–701(e)(4) of Ex. Ord. No. 12163 (44 F.R. 56677).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6448 of this title.
+

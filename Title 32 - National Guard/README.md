@@ -1,5 +1,5 @@
 
-32 U.S.C.<br>United States Code, 1997 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+32 U.S.C.<br>United States Code, 1998 Edition<br>Title 32 - NATIONAL GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 32—NATIONAL GUARD
 
@@ -590,7 +590,7 @@ Section 36 of Pub. L. 85–861 repealed certain laws except with respect to righ
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 10 section 14317; title 36 section 5507.
+This title is referred to in title 10 section 14317; title 36 section 40727.
 
 
 ---

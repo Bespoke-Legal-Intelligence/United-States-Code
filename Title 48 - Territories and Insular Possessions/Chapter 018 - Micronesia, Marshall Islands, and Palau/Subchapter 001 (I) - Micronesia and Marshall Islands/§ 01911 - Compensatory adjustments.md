@@ -2,7 +2,7 @@
 
 #### (a) Additional programs and services
 
-In addition to the programs and services set forth in Section 221 of the Compact, and pursuant to Section 224 of the Compact, the services and programs of the following U.S. agenciesshall be made available to the Federated States of Micronesia and the Marshall Islands: The Federal Deposit Insurance Corporation, Small Business Administration, Economic Development Administration, the Rural Electrification Administration, Job Partnership Training Act \[29 U.S.C. 1501 et seq.\], Job Corps, and the programs and services of the Department of Commerce relating to tourism and to marine resource development.
+In addition to the programs and services set forth in Section 221 of the Compact, and pursuant to Section 224 of the Compact, the services and programs of the following U.S. agencies shall be made available to the Federated States of Micronesia and the Marshall Islands: The Federal Deposit Insurance Corporation, Small Business Administration, Economic Development Administration, the Rural Electrification Administration, Job Partnership Training Act \[29 U.S.C. 1501 et seq.\], Job Corps, and the programs and services of the Department of Commerce relating to tourism and to marine resource development.
 
 #### (b) Investment Development Funds
 
@@ -28,7 +28,7 @@ The governments of the Federated States of Micronesia and the Marshall Islands m
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
-The Job Training Partnership Act, referred to in subsec. (a), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19\(§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsec. (b)(1), see Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title.
 

@@ -2,7 +2,7 @@
 
 Any person who violates any provision of section 281 of this title or any regulation issued under it is guilty of an offense against the United States and shall, upon conviction, be fined not more than $1,000, or imprisoned for not more than one year, or both.
 
-(Aug. 31, 1922, ch. 301, §2, 42 Stat. 834; June 25, 1976, Pub. L. 94–319, §2, 90 Stat. 709.)
+(Aug. 31, 1922, ch. 301, §2, 42 Stat. 834; Pub. L. 94–319, §2, June 25, 1976, 90 Stat. 709.)
 
 #### Amendments
 

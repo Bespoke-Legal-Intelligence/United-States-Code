@@ -2,7 +2,7 @@
 
 Section 30112(a) of this title does not apply to a motor vehicle or motor vehicle equipment if the vehicle or equipment—
 
-&emsp;(1) requires further manufacturing to perform its intended function as decided under regulations prescribed by the Secretary of Transportation; and
+&emsp;(1) requires further manufacturing to perform its intended function as decided underregulations prescribed by the Secretary of Transportation; and
 
 &emsp;(2) is accompanied at the time of importation by a written statement issued by the manufacturer indicating the applicable motor vehicle safety standard prescribed under this chapter with which it does not comply.
 

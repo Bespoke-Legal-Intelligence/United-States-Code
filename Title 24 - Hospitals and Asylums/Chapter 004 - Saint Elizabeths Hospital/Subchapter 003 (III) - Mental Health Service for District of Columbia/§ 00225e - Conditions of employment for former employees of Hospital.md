@@ -4,7 +4,7 @@
 
 Each individual accepting employment without a break in service with the District government pursuant to section 225d of this title shall—
 
-&emsp;(1) except as specifically provided in this subchapter, be required to meet all District qualifications other than licensure requirements for appointment required of other candidates, and shall become District employees in the comparable District service subject to the provisions of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–601.1 et seq.\], and all other statutes and regulations governing District personnel;
+&emsp;(1) except as specifically provided in this subchapter, be required to meet all District qualifications other than licensure requirements for appointment required of other candidates, and shall become District employees in the comparable District service subject tothe provisions of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1–601.1 et seq.\], and all other statutes and regulations governing District personnel;
 
 &emsp;(2) meet all licensure requirements within 18 months of appointment by the District government;
 

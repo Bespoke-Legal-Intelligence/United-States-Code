@@ -20,7 +20,7 @@ No entity may receive grants under subsection (a) of this section for more than 
 
 There are authorized to be appropriated to carry out this section, $50,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §506, formerly §512, as added Oct. 19, 1984, Pub. L. 98–509, title II, §206(a), 98 Stat. 2361; amended July 22, 1987, Pub. L. 100–77, title VI, §613(a), (b), 101 Stat. 524; renumbered §506 and amended July 10, 1992, Pub. L. 102–321, title I, §106, 106 Stat. 334.)
+(July 1, 1944, ch. 373, title V, §506, formerly §512, as added Pub. L. 98–509, title II, §206(a), Oct. 19, 1984, 98 Stat. 2361; amended Pub. L. 100–77, title VI, §613(a), (b), July 22, 1987, 101 Stat. 524; renumbered §506 and amended Pub. L. 102–321, title I, §106, July 10, 1992, 106 Stat. 334.)
 
 #### Codification
 
@@ -28,7 +28,7 @@ Section was formerly classified to section 290bb–1a of this title prior to ren
 
 #### Prior Provisions
 
-A prior section 290aa–5, act July 1, 1944, ch. 373, title V, §507, formerly §506, as added Apr. 26, 1983, Pub. L. 98–24, §2(b)(7), 97 Stat. 178; amended Nov. 20, 1985, Pub. L. 99–158, §3(c), 99 Stat. 879; renumbered §507 and amended Oct. 27, 1986, Pub. L. 99–570, title IV, §§4004(a), 4007, 100 Stat. 3207–109, 3207–115, which related to peerreview of biomedical and behavioral research and development grants, was renumbered section 504 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–3 of this title.
+A prior section 290aa–5, act July 1, 1944, ch. 373, title V, §507, formerly §506, as added Apr. 26, 1983, Pub. L. 98–24, §2(b)(7), 97 Stat. 178; amended Nov. 20, 1985, Pub. L. 99–158, §3(c), 99 Stat. 879; renumbered §507 and amended Oct. 27, 1986, Pub. L. 99–570, title IV, §§4004(a), 4007, 100 Stat. 3207–109, 3207–115, which related to peer review of biomedical and behavioral research and development grants, was renumbered section 504 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–3 of this title.
 
 A prior section 506 of act July 1, 1944, which was classified to section 224 of this title, was successively renumbered by subsequent acts, and transferred, see section 238c of this title.
 

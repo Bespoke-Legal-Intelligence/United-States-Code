@@ -12,13 +12,13 @@ Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C.
 
 &emsp;(2) by financing visits and interchanges between the United States and countries in transition from totalitarianism to democracy.
 
-> The program under this section shall be coordinated by the United States Information Agency.
+> The program under this section shall be coordinated by the Department of State.
 
 #### (b) Transfer of funds
 
-The President is authorized to transfer to the appropriations account of the United States Information Agency such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State and the United States Information Agency, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
+The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
 
-(Pub. L. 101–610, title VI, §602, Nov. 16, 1990, 104 Stat. 3186.)
+(Pub. L. 101–610, title VI, §602, Nov. 16, 1990, 104 Stat. 3186; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(c), Oct. 21, 1998, 112 Stat. 2681–787.)
 
 #### References in Text
 
@@ -27,4 +27,14 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 #### Codification
 
 Section was enacted as part of the National and Community Service Act of 1990, and not as part of the Mutual Educational and Cultural Exchange Act of 1961 which comprises this chapter.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §1335(c)(1), substituted “Department of State” for “United States Information Agency” before period at end.
+
+Subsec. (b). Pub. L. 105–277, §1335(c)(2), in first sentence, substituted “appropriate appropriations account of the Department of State” for “appropriations account of the United States Information Agency” and struck out “and the United States Information Agency” before “, as the President”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 

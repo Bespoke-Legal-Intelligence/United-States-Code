@@ -4,7 +4,7 @@ The Secretary of the Interior is authorized and directed to acquire, on behalf o
 
 The property acquired under the provisions of the first paragraph of this section shall constitute the Whitman Mission National Historic Site and shall be a public national memorial to Marcus Whitman and his wife, Narcissa Prentiss Whitman, who here established their Indian mission and school, and ministered to the physical and spiritual needs of the Indians until massacred with twelve others <sup>1</sup> persons in 1847. The Director of the National Park Service, under the direction of the Secretary of the Interior, shall have the supervision, management, and control of such national historic site, and shall maintain and preserve it for the benefit and enjoyment of the people of the United States.
 
-(June 29, 1936, ch. 863, §§1, 2, 49 Stat. 2028; May 31, 1962, Pub. L. 87–471, 76 Stat. 90.)
+(June 29, 1936, ch. 863, §§1, 2, 49 Stat. 2028; Pub. L. 87–471, May 31, 1962, 76 Stat. 90.)
 
 #### Change of Name
 

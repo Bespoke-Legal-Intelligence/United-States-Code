@@ -38,7 +38,7 @@ An organization that desires to receive a grant under this section shall submit 
 
 &emsp;(3) includes a complete description of the applicant's plan for the establishment and operation of the community project, including a description of—
 
-&emsp;&emsp;(A) the method for identification and selection of an administrative committee made up of persons knowledgeable in domestic violence to oversee the project, hire staff,assure compliance with the project outline, and secure annual evaluation of the project;
+&emsp;&emsp;(A) the method for identification and selection of an administrative committee made up of persons knowledgeable in domestic violence to oversee the project, hire staff, assure compliance with the project outline, and secure annual evaluation of the project;
 
 &emsp;&emsp;(B) the method for identification and selection of project staff and a project evaluator;
 
@@ -88,13 +88,17 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(1) $4,000,000 for fiscal year 1996; and
 
-&emsp;(2) $6,000,000 for fiscal year 1997.
+&emsp;(2) $6,000,000 for for <sup>1</sup> each of the fiscal years 1997 through 2002.
 
 #### (i) Regulations
 
 Not later than 60 days after September 13, 1994, the Secretary shall publish proposed regulations implementing this section. Not later than 120 days after September 13, 1994, the Secretary shall publish final regulations implementing this section.
 
-(Pub. L. 98–457, title III, §318, as added Pub. L. 103–322, title IV, §40261, Sept. 13, 1994, 108 Stat. 1935.)
+(Pub. L. 98–457, title III, §318, as added Pub. L. 103–322, title IV, §40261, Sept. 13, 1994, 108 Stat. 1935; amended Pub. L. 105–392, title IV, §407(a), Nov. 13, 1998, 112 Stat. 3589.)
+
+#### Amendments
+
+1998—Subsec. (h)(2). Pub. L. 105–392 substituted “for each of the fiscal years 1997 through 2002” for “fiscal year 1997”.
 
 #### Section Referred to in Other Sections
 

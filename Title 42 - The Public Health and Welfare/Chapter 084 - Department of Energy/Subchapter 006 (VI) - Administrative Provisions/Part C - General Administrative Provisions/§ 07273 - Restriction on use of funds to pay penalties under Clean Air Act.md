@@ -8,7 +8,7 @@ None of the funds authorized to be appropriated by this or any other Act may be 
 
 This Act, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, known as the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, which insofar as classified to the Code, enacted sections 7272 and 7273 of this title.
 
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classifiedgenerally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Codification
 

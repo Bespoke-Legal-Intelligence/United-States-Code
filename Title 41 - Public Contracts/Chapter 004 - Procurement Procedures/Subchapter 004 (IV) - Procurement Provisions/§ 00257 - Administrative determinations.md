@@ -8,7 +8,7 @@ Determinations and decisions provided in this Act to be made by the Administrato
 
 Each determination or decision required by section 254 or by section 255(d) of this title shall be based upon written findings made by the official making such determination, which findings shall be final and shall be available within the agency for a period of at least six years following the date of the determination.
 
-(June 30, 1949, ch. 288, title III, §307, 63 Stat. 396; Pub. L. 85–800, §5, Aug. 28, 1958, 72 Stat. 967; Pub.L. 89–343, §§3, 4, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, §2714(a)(4), July 18, 1984, 98 Stat. 1184; Pub. L. 104–106, div. D, title XLIII, §4321(e)(6), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–316, title I, §121(c), Oct. 19, 1996, 110 Stat. 3836.)
+(June 30, 1949, ch. 288, title III, §307, 63 Stat. 396; Pub. L. 85–800, §5, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, §§3, 4, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, §2714(a)(4), July 18, 1984, 98 Stat. 1184; Pub. L. 104–106, div. D, title XLIII, §4321(e)(6), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–316, title I, §121(c), Oct. 19, 1996, 110 Stat. 3836.)
 
 #### References in Text
 

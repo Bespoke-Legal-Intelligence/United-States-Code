@@ -12,7 +12,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (b) Reliance of Commission upon voluntary standards
 
-(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate oradequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
+(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
 
 (2) The Commission shall devise procedures to monitor compliance with any voluntary standards—
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 95–631, §5, amended subsec. (c) generally, inserting pro
 
 Subsec. (d)(1). Pub. L. 95–631, §4(a)(1), inserted “subsection (b)(2) and by” after “as provided by” and substituted references to subsec. (b)(1)(D)(ii)(I) for (b)(4)(B) of this section and subsec. (b)(1)(E) for (b) of this section.
 
-Subsec. (d)(2). Pub. L. 95–631, §4(a)(2)(A)–(C), inserted in first sentence “or if any person participates with the Commission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section” after “under this subsection”, “or the person's cost with respect to such participation” after “safety standards” and “or person” after “offeror”.
+Subsec. (d)(2). Pub. L. 95–631, §4(a)(2)(A)–(C), inserted in first sentence “or if any person participates with the Commission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section” after “under this subsection”, “or the person's cost with respect to such participation”after “safety standards” and “or person” after “offeror”.
 
 Subsec. (d)(4). Pub. L. 95–631, §4(a)(3), added par. (4).
 
@@ -70,7 +70,7 @@ Subsec. (d)(2). Pub. L. 94–284, §8(a), inserted provision which permits the C
 
 Subsec. (e). Pub. L. 94–284, §7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
 
-Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or theproceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
+Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
 
 #### Effective Date of 1981 Amendment
 

@@ -22,7 +22,7 @@
 
 #### References in Text
 
-The date of the enactment of the first Act providing for appropriations for fiscal year 1982 (other than continuing appropriations) for the Department of Housingand Urban Development and Independent Agencies, referred to in subsec. (a)(1)(A), is Dec. 23, 1981, the date of enactment of Pub. L. 97–101, 95 Stat. 1417, known as the Department of Housing and Urban Development—Independent Agencies Appropriation Act, 1982.
+The date of the enactment of the first Act providing for appropriations for fiscal year 1982 (other than continuing appropriations) for the Department of Housing and Urban Development and Independent Agencies, referred to in subsec. (a)(1)(A), is Dec. 23, 1981, the date of enactment of Pub. L. 97–101, 95 Stat. 1417, known as the Department of Housing and Urban Development—Independent Agencies Appropriation Act, 1982.
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ The Secretary may arrange for enrollee education and vocational training through
 
 #### (c) High school equivalency certificates
 
-To the extent feasible, arrangements for education, both at the center and at other locations, shall provide opportunities for qualified enrollees to obtain the equivalent of a certificate of graduation from high school. The Secretary, with the concurrence of the Secretary ofEducation, shall develop certificates to be issued to each enrollee who satisfactorily completes service in the Job Corps and which will reflect the enrollee's level of educational attainment.
+To the extent feasible, arrangements for education, both at the center and at other locations, shall provide opportunities for qualified enrollees to obtain the equivalent of a certificate of graduation from high school. The Secretary, with the concurrence of the Secretary of Education, shall develop certificates to be issued to each enrollee who satisfactorily completes service in the Job Corps and which will reflect the enrollee's level of educational attainment.
 
 #### (d) Advanced career training: postsecondary institutions; company-sponsored training programs; availability of benefits; demonstration of reasonable program completion and placement
 
@@ -33,6 +33,10 @@ The Secretary shall, to the extent practicable, provide child care at or near Jo
 Each Job Corps center shall provide to enrollees who are dependent on, or who have a history of abuse of, alcohol or drugs, with counseling and referral to related services necessary to prevent the continuance or recurrence of such dependency or abuse.
 
 (Pub. L. 97–300, title IV, §428, Oct. 13, 1982, 96 Stat. 1373; Pub. L. 102–367, title IV, §402(e), Sept. 7, 1992, 106 Stat. 1077.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Amendments
 

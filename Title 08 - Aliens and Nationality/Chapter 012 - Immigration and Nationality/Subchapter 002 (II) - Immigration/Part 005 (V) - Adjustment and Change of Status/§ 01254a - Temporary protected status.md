@@ -12,7 +12,7 @@
 
 #### (2) Duration of work authorization
 
-&emsp;Work authorization provided under this section shall be effective throughout the periodthe alien is in temporary protected status under this section.
+&emsp;Work authorization provided under this section shall be effective throughout the period the alien is in temporary protected status under this section.
 
 #### (3) Notice
 
@@ -32,7 +32,7 @@
 
 #### (5) Clarification
 
-&emsp;Nothing in this section shall be construed as authorizing the Attorney General to deny temporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
+&emsp;Nothing in this section shall be construed as authorizing the Attorney General to denytemporary protected status to an alien based on the alien's immigration status or to require any alien, as a condition of being granted such status, either to relinquish nonimmigrant or other status the alien may have or to execute any waiver of other rights under this chapter. The granting of temporary protected status under this section shall not be considered to be inconsistent with the granting of nonimmigrant status under this chapter.
 
 #### (b) Designations
 
@@ -68,7 +68,7 @@
 
 #### (A) Periodic review
 
-&emsp;&emsp;At least 60 days before end of the initial period of designation, and any extended period of designation, of a foreign state (or part thereof) under this section the Attorney General, after consultation with appropriate agencies of the Government, shall review the conditions in the foreign state (or part of such foreign state) for which a designation is in effect under this subsection and shall determine whether the conditions for such designation under this subsection continue to be met. The Attorney General shall provideon a timely basis for the publication of notice of each such determination (including the basis for the determination, and, in the case of an affirmative determination, the period of extension of designation under subparagraph (C)) in the Federal Register.
+&emsp;&emsp;At least 60 days before end of the initial period of designation, and any extended period of designation, of a foreign state (or part thereof) under this section the Attorney General, after consultation with appropriate agencies of the Government, shall review the conditions in the foreign state (or part of such foreign state) for which a designation is in effect under this subsection and shall determine whether the conditions for such designation under this subsection continue to be met. The Attorney General shall provide on a timely basis for the publication of notice of each such determination (including the basis for the determination, and, in the case of an affirmative determination, the period of extension of designation under subparagraph (C)) in the Federal Register.
 
 #### (B) Termination of designation
 
@@ -156,7 +156,7 @@
 
 #### (5) Construction
 
-&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to, or to be admitted to, the United States in order to apply for temporary protected status under this section.
+&emsp;Nothing in this section shall be construed as authorizing an alien to apply for admission to,or to be admitted to, the United States in order to apply for temporary protected status under this section.
 
 #### (6) Confidentiality of information
 
@@ -238,7 +238,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Nov. 29, 1990, Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), 104 Stat. 5030, 5084; Dec. 12, 1991, Pub. L. 102–232, title III, §§304(b), 307(<i>l</i>)(5), 105 Stat. 1749, 1756; Oct. 25, 1994, Pub. L. 103–416, title II, §219(j), (z)(2), 108 Stat. 4317, 4318; renumbered §244 and amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
+(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(<i>l</i>)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
 #### Amendments
 
@@ -280,7 +280,7 @@ Subsec. (c)(2)(A)(iii)(IV). Pub. L. 101–649, §603(a)(24)(E), struck out subcl
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30,1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -310,7 +310,7 @@ Section 304(c) of Pub. L. 102–232, as amended by Pub. L. 104–208, div. C, ti
 
 &emsp;“(A) the alien shall be inspected and admitted in the same immigration status the alien had at the time of departure if—
 
-&emsp;&emsp;“(i) in the case of an alien described in paragraph (2)(A), the alien is found not to be excludable on a ground of exclusion referred to in section 301(a)(1) of the Immigration Act of 1990 \[Pub. L. 101–649, set out as a note under section 1255a of this title\], or
+&emsp;&emsp;“(i) in the case of an alien described in paragraph (2)(A), the alien is found not to be excludable on aground of exclusion referred to in section 301(a)(1) of the Immigration Act of 1990 \[Pub. L. 101–649, set out as a note under section 1255a of this title\], or
 
 &emsp;&emsp;“(ii) in the case of an alien described in paragraph (2)(B), the alien is found not to be excludable on a ground of exclusion referred to in section 244(c)(2)(A)(iii) of the Immigration and Nationality Act \[8 U.S.C. 1254a(c)(2)(A)(iii)\]; and
 

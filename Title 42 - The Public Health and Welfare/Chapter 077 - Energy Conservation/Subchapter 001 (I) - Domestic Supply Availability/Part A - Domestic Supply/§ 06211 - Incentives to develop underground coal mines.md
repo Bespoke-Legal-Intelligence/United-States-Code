@@ -26,7 +26,7 @@ The Secretary may, in accordance with subsection (b) of this section and rules p
 
 (2) The total amount of guarantees issued to any person (including all persons affiliated with such person) may not exceed $30,000,000. The amount of a guarantee issued with respect to any loan may not exceed 80 percent of the lesser of (A) the principal balance of the loan or, (B) the cost of developing such new underground coal mine.
 
-(3) The aggregate outstanding principal amount of loans which are guaranteed underthis section may not at any time exceed $750,000,000. Not more than 20 percent of the amount of guarantees issued under this section in any fiscal year may be issued with respect to loans for the purpose of opening new underground coal mines which produce coal which is not low sulfur coal.
+(3) The aggregate outstanding principal amount of loans which are guaranteed under this section may not at any time exceed $750,000,000. Not more than 20 percent of the amount of guarantees issued under this section in any fiscal year may be issued with respect to loans for the purpose of opening new underground coal mines which produce coal which is not low sulfur coal.
 
 #### (c) Construction and definition of terms
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;(3) The term “low sulfur coal” means coal which, in a quantity necessary to produce one million British thermal units, does not contain sulfur or sulfur compounds the elemental sulfur content of which exceeds 0.6 pound. Sulfur content shall be determined after the application of any coal preparation process which takes place before sale of the coal by the producer.
 
-&emsp;(4) The term “developing new underground coal mine” includes expansion of any existing underground coal mine in a manner designed to increase the rate of production of such mine, and the reopening of any underground coal mine which had previously been closed. Such term also includes construction of a coal preparation plant which is designed to reduce the sulfur content of coal produced from any coal mine.
+&emsp;(4) The term “developing new underground coal mine” includes expansion of any existing underground coal mine in a manner designed to increase the rate of production of such mine, and the reopening of any underground coal mine which had previously been closed. Such term also includes construction of a coalpreparation plant which is designed to reduce the sulfur content of coal produced from any coal mine.
 
 #### (d) Rules and regulations
 

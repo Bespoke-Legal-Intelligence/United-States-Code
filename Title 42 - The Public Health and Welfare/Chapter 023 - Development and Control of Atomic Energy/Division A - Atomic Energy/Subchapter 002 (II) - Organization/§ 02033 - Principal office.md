@@ -2,7 +2,7 @@
 
 The principal office of the Commission shall be in or near the District of Columbia, but the Commission or any duly authorized representative may exercise any or all of its powers in any place; however, the Commission shall maintain an office for the service of process and papers within the District of Columbia.
 
-(Aug. 1, 1946, ch. 724, title I, §23, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §23, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

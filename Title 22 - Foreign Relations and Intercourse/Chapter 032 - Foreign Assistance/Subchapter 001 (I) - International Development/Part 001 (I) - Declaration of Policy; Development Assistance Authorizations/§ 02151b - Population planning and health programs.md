@@ -22,7 +22,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 (C) Appropriations pursuant to subparagraph (B) may be referred to as the “Child Survival Fund”.
 
-(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to theChild Survival Fund) and to carry out subsection (c) of this section (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
+(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to the Child Survival Fund) and to carry out subsection (c) of this section (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
 
 #### (d) Administration of assistance
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (e)(1), was in the original “this Act”,
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
@@ -138,15 +138,11 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 Section 103(d) of Pub. L. 95–88 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1977.”
 
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Progress Report on Implementation of Immunization and Oral Rehydration Promotion Programs
 
 Section 305(b) of Pub. L. 99–83 provided that: “Each annual report required by section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\] shall describe the progress achieved during the preceding fiscal year in carrying out section 104(c)(3) of such Act \[22 U.S.C. 2151b(c)(3)\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1727c, 1727e, 2151a, 2151d, 2151f, 2151q, 2151u, 2293, 2346, 5453 of this title.
+This section is referred to in sections 1727c, 1727e, 2151a, 2151d, 2151f, 2151q, 2151u, 2293, 5453 of this title.
 

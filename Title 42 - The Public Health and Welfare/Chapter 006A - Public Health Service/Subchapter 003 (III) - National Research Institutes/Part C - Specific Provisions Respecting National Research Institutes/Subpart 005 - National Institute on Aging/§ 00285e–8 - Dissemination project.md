@@ -30,7 +30,7 @@ In order to receive a grant or contract under this section, an organization shal
 
 &emsp;(3) such other information as the Director may prescribe.
 
-(July 1, 1944, ch. 373, title IV, §445F, formerly Pub. L. 99–660, title IX, §952, Nov. 14, 1986, 100 Stat. 3813; renumbered §445F of act July 1, 1944, and amended Nov. 4, 1988, Pub. L. 100–607, title I, §142(a), (d)(5), 102 Stat. 3057, 3058.)
+(July 1, 1944, ch. 373, title IV, §445F, formerly Pub. L. 99–660, title IX, §952, Nov. 14, 1986, 100 Stat. 3813; renumbered §445F of act July 1, 1944, and amended Pub. L. 100–607, title I, §142(a), (d)(5), Nov. 4, 1988, 102 Stat. 3057, 3058.)
 
 #### Codification
 

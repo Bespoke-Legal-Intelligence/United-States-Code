@@ -74,7 +74,7 @@
 | [4136\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004136%20-%20Certification%20of%20compliance%20with%20subsidy%20layering%20requirements.md) | Certification of compliance with subsidy layering requirements. |
 | [4137\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004137%20-%20Lease%20requirements%20and%20tenant%20selection.md) | Lease requirements and tenant selection. |
 | (a) | Leases. |
-| (b) | Tenant selection. |
+| (b) | Tenant and homebuyer selection. |
 | [4138\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004138%20-%20Availability%20of%20records.md) | Availability of records. |
 | (a) | Provision of information. |
 | (b) | Exception. |
@@ -128,6 +128,7 @@
 | [4167\.](Subchapter%20004%20%28IV%29%20-%20Compliance%2C%20Audits%2C%20and%20Reports/%C2%A7%2004167%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | In general. |
 | (b) | Related reports. |
+| [4168\.](Subchapter%20004%20%28IV%29%20-%20Compliance%2C%20Audits%2C%20and%20Reports/%C2%A7%2004168%20-%20Public%20availability%20of%20information.md) | Public availability of information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

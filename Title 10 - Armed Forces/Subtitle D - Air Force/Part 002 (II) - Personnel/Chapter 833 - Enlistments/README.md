@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 8259 “Air Force Reserve: transfer from Air National Guard of United States”, 8260 “Air Force Reserve: transfer to upon withdrawal as member of Air National Guard”, and 8261 “Air National Guard of United States”.
+1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 8259 “AirForce Reserve: transfer from Air National Guard of United States”, 8260 “Air Force Reserve: transfer to upon withdrawal as member of Air National Guard”, and 8261 “Air National Guard of United States”.
 
 1988—Pub. L. 100–456, div. A, title V, §522(a)(2), Sept. 29, 1988, 102 Stat. 1973, added item 8252.
 

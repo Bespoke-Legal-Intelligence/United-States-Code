@@ -6,7 +6,7 @@ Any person who intentionally causes a condition for which Federal assistance is 
 
 #### (b) Rendering of care
 
-A person shall not be liable under this section for costs incurred by the United States as a result of actions taken or omitted by such personin the course of rendering care or assistance in response to a major disaster or emergency.
+A person shall not be liable under this section for costs incurred by the United States as a result of actions taken or omitted by such person in the course of rendering care or assistance in response to a major disaster or emergency.
 
 (Pub. L. 93–288, title III, §317, as added Pub. L. 100–707, title I, §105(m)(1), Nov. 23, 1988, 102 Stat. 4695.)
 

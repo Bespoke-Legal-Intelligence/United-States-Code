@@ -30,7 +30,7 @@ The Committee shall—
 
 &emsp;(4) conduct a study for the purpose of developing, with respect to individuals infected with the etiologic agent for acquired immune deficiency syndrome, a consensus among health care professionals on clinical treatments for preventing or minimizing the development of symptoms or conditions arising from infection with such etiologic agent.
 
-(July 1, 1944, ch. 373, title XXIII, §2304, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3065; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2617(a), 102 Stat. 4240; June 10, 1993, Pub. L. 103–43, title XVIII, §1811(1), title XX, §2008(d)(1), 107 Stat. 199, 212.)
+(July 1, 1944, ch. 373, title XXIII, §2304, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3065; amended Pub. L. 100–690, title II, §2617(a), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 103–43, title XVIII, §1811(1), title XX, §2008(d)(1), June 10, 1993, 107 Stat. 199, 212.)
 
 #### Prior Provisions
 
@@ -52,7 +52,7 @@ Subsec. (c)(1). Pub. L. 103–43, §1811(1), in introductory provisions inserted
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
 #### Termination of Advisory Committees
 

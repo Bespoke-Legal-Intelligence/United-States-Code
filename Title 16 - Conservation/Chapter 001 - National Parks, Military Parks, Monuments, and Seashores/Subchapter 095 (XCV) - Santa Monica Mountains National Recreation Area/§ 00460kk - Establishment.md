@@ -200,6 +200,10 @@ This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 1
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Anthony C. Beilenson Visitor Center
+
+Pub. L. 105–277, div. A, §101(e) \[title I, §145\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267, provided that: “The principal visitor center for the Santa Monica Mountains National Recreation Area, regardless of location, shall be named for Anthony C. Beilenson and shall be referred to in any law, document or record of the United States as the ‘Anthony C. Beilenson Visitor Center’.”
+
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.

@@ -60,5 +60,5 @@ Seniority not affected by transfer of postal ten-point preference eligibles, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3313, 3320 of this title; title 10 section 1599c; title 22 section 1438.
+This section is referred to in sections 2302, 3313, 3320 of this title; title 2 section 1316a; title 3 section 115; title 22 section 1438.
 

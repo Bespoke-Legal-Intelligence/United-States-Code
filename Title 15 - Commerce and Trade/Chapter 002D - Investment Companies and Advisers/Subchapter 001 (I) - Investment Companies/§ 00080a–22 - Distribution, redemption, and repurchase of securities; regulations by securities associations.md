@@ -2,7 +2,7 @@
 
 #### (a) Rules relating to minimum and maximum prices for purchase and sale of securities from investment company; time for resale and redemption
 
-A securities association registered under section 78<i>o</i>–3 of this title may prescribe, by rules adopted and in effect in accordance with said section and subject to all provisions of said section applicable to the rules of such an association—
+A securities association registered under section 78<i>o</i>–3 of this title may prescribe, by rulesadopted and in effect in accordance with said section and subject to all provisions of said section applicable to the rules of such an association—
 
 &emsp;(1) a method or methods for computing the minimum price at which a member thereof may purchase from any investment company any redeemable security issued by such company and the maximum price at which a member may sell to such company any redeemable security issued by it or which he may receive for such security upon redemption, so that the price in each case will bear such relation to the current net asset value of such security computed as of such time as the rules may prescribe; and
 
@@ -40,13 +40,13 @@ No registered investment company shall suspend the right of redemption, or postp
 
 #### (f) Restrictions on transferability or negotiability of securities
 
-No registered open-end company shall restrict the transferability or negotiability of any security of which it is the issuer except in conformity with the statements with respect theretocontained in its registration statement nor in contravention of such rules and regulations as the Commission may prescribe in the interests of the holders of all of the outstanding securities of such investment company.
+No registered open-end company shall restrict the transferability or negotiability of any security of which it is the issuer except in conformity with the statements with respect thereto contained in its registration statement nor in contravention of such rules and regulations as the Commission may prescribe in the interests of the holders of all of the outstanding securities of such investment company.
 
 #### (g) Issuance of securities for services or property other than cash
 
 No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
 
-(Aug. 22, 1940, ch. 686, title I, §22, 54 Stat. 823; Dec. 14, 1970, Pub. L. 91–547, §12, 84 Stat. 1422; Dec. 4, 1987, Pub. L. 100–181, title VI, §616, 101 Stat. 1262.)
+(Aug. 22, 1940, ch. 686, title I, §22, 54 Stat. 823; Pub. L. 91–547, §12, Dec. 14, 1970, 84 Stat. 1422; Pub. L. 100–181, title VI, §616, Dec. 4, 1987, 101 Stat. 1262.)
 
 #### Amendments
 

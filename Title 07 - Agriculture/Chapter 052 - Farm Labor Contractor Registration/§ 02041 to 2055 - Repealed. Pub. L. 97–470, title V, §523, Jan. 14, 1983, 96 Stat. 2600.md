@@ -104,7 +104,7 @@ Section 2050a, Pub. L. 88–582, §12, as added Pub. L. 93–518, §14(a), Dec. 
 
 Section 2050b, Pub. L. 88–582, §13, as added Pub. L. 93–518, §14(a), Dec. 7, 1974, 88 Stat. 1658, provided for discrimination prohibition, limitations, investigations, appropriate civil relief, and back pay or damages.
 
-Section 2050c. Pub. L. 88–582, §14, as added Pub. L. 93–518, §14(a), Dec. 7, 1974, 88 Stat. 1658, related to recordkeeping.
+Section 2050c, Pub. L. 88–582, §14, as added Pub. L. 93–518, §14(a), Dec. 7, 1974, 88 Stat. 1658, related to recordkeeping.
 
 Section 2051, Pub. L. 88–582, §15, formerly §12, Sept. 7, 1964, 78 Stat. 924, renumbered Pub. L. 93–518, §14(a), Dec. 7, 1974, 88 Stat. 1657, required compliance with State laws and regulations.
 

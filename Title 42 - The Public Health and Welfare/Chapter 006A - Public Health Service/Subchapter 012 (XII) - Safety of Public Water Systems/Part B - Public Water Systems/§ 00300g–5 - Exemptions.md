@@ -76,7 +76,7 @@ If a State does not have primary enforcement responsibility for public water sys
 
 If an application for an exemption under this section is made, the State receiving the application or the Administrator, as the case may be, shall act upon such application within a reasonable period (as determined under regulations prescribed by the Administrator) after the date of its submission.
 
-(July 1, 1944, ch. 373, title XIV, §1416, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1672; amended Nov. 16, 1977, Pub. L. 95–190, §10(a), 91 Stat. 1398; Dec. 5, 1980, Pub. L. 96–502, §§1, 4(b), 94 Stat. 2737, 2738; June 19, 1986, Pub. L. 99–339, title I, §§101(c)(4), 105, 100 Stat. 646, 649; Aug. 6, 1996, Pub. L. 104–182, title I, §117(a), 110 Stat. 1644.)
+(July 1, 1944, ch. 373, title XIV, §1416, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1672; amended Pub. L. 95–190, §10(a), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 96–502, §§1, 4(b), Dec. 5, 1980, 94 Stat. 2737, 2738; Pub. L. 99–339, title I, §§101(c)(4), 105, June 19, 1986, 100 Stat. 646, 649; Pub. L. 104–182, title I, §117(a), Aug. 6, 1996, 110 Stat. 1644.)
 
 #### Amendments
 

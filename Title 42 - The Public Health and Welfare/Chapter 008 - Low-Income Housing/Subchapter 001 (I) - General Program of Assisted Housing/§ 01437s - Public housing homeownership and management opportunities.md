@@ -16,7 +16,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (2) Homeownership assistance
 
-&emsp;(A) The Secretary may provide comprehensive improvement assistance under section 1437<i>l</i> of this title to a public housing project in which homeownership activities under this section are conducted.
+&emsp;(A) The Secretary may provide assistance from the Capital Fund to a public housing project in which homeownership activities under this section are conducted.
 
 &emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to be necessary to promote homeownership opportunities under this section.
 
@@ -28,7 +28,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;(i) the resident management corporation has met the conditions of paragraph (1);
 
-&emsp;&emsp;(ii) the resident management corporation has applied for and is prepared to undertakethe ownership, management, and maintenance of the building or buildings with continued assistance from the Secretary;
+&emsp;&emsp;(ii) the resident management corporation has applied for and is prepared to undertake the ownership, management, and maintenance of the building or buildings with continued assistance from the Secretary;
 
 &emsp;&emsp;(iii) the public housing agency has held one or more public hearings to obtain the views of citizens regarding the proposed purchase and, in consultation with the Secretary, has certified that the purchase will not interfere with the rights of other families residing in public housing, will not harm the efficient operation of other public housing, and is in the interest of the community;
 
@@ -36,9 +36,9 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;&emsp;(I) production, acquisition, or rehabilitation of vacant public housing units by the public housing agency; and
 
-&emsp;&emsp;&emsp;(II) acquisition by the resident management corporation of nonpublicly owned, decent, and affordable housing units, which the resident management corporation shall operate as rental housing subject to tenant income and rent limitations comparable to the limitations applicable to public housing; and
+&emsp;&emsp;&emsp;(II) acquisition by the resident management corporation of nonpublicly owned, decent, and affordable housing units, which the resident management corporation shall operate as rental housing subject to tenant income and rent limitationscomparable to the limitations applicable to public housing; and
 
-&emsp;&emsp;(v) the building or buildings meet the minimum safety and livability standards applicable under section 1437<i>l</i> of this title, and the physical condition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
+&emsp;&emsp;(v) the building or buildings meet the housing quality standards applicable under section 1437d(f) of this title, and the physical condition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
 
 &emsp;(B) The price of a building purchased under the preceding sentence shall be approved by the Secretary, in consultation with the public housing agency and resident management corporation, taking into account the fair market value of the property, the ability of resident families to afford and maintain the property, and such other factors as the Secretary determines to be consistent with increasing the supply of dwelling units affordable to very low income families.
 
@@ -90,15 +90,15 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (6) Financing
 
-&emsp;When financing for the purchase of the property is not otherwise available for purposes of assisting any purchase by a family or resident management corporation under this section, the public housing agency involved may make a loan on the security of the property involved to the family or resident management corporation at a rate of interest that shall not be lower than 70 percent of the market interest rate for conventional mortgages on the date on which the loan is made.
+&emsp;When financing for the purchase of the property is not otherwise available for purposes of assisting any purchase by a family or resident management corporation under this section,the public housing agency involved may make a loan on the security of the property involved to the family or resident management corporation at a rate of interest that shall not be lower than 70 percent of the market interest rate for conventional mortgages on the date on which the loan is made.
 
-#### (7) Annual contributions
+#### (7) Capital and operating assistance
 
-&emsp;Notwithstanding the purchase of a building in a public housing project under this section, the Secretary shall continue to pay annual contributions with respect to the project. Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.
+&emsp;Notwithstanding the purchase of a building in a public housing project under this section, the Secretary shall continue to provide assistance under section 1437g of this title with respect to the project. Such assistance may not exceed the allocation for the project under section 1437g of this title.
 
-#### (8) Operating subsidies
+#### (8) Operating Fund allocation
 
-&emsp;Operating subsidies shall not be available with respect to a building after the date of its sale by the public housing agency.
+&emsp;Amounts from the Operating Fund shall not be available with respect to a building after the date of its sale by the public housing agency.
 
 #### (b) Protection of nonpurchasing families
 
@@ -112,7 +112,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (3) Rental assistance
 
-&emsp;If any family resides in a dwelling unit in a building purchased by a resident management corporation, and the family decides not to purchase the dwelling unit, the Secretary shall offer to provide to the family (at the option of the family) a certificate under section 1437f(b)(1) of this title or a housing voucher under section 1437f(<i>o</i>) of this title for as long as the family continues to reside in the building. The Secretary may adjust the fair market rent for such certificate to take into account conditions under which the building was purchased.
+&emsp;If any family resides in a dwelling unit in a building purchased by a resident management corporation, and the family decides not to purchase the dwelling unit, the Secretary shall offer to provide to the family (at the option of the family) tenant-based assistance under section 1437f(<i>o</i>) of this title for as long as the family continues to reside in the building. The Secretary may adjust the payment standard for such assistance to take into account conditions under which the building was purchased.
 
 #### (4) Rental and relocation assistance
 
@@ -128,7 +128,7 @@ The Secretary shall provide to public housing agencies such financial assistance
 
 #### (d) Additional homeownership and management opportunities
 
-This section shall not apply to the turnkey III, the mutual help, or any other homeownership program established under section 1437c(h) of this title or section 1437d(c)(4)(D) of this title and in existence before February 5, 1988.
+This section shall not apply to the turnkey III, the mutual help, or any other homeownership program established under section 1437d(c)(4)(D) of this title, as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, and in existence before February 5, 1988.
 
 #### (e) Regulations
 
@@ -140,9 +140,27 @@ The Secretary shall issue such regulations as may be necessary to carry out the 
 
 Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
 
-(Sept. 1, 1937, ch. 896, title I, §21, as added Feb. 5, 1988, Pub. L. 100–242, title I, §123, 101 Stat. 1842; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; amended Nov. 28, 1990, Pub. L. 101–625, title IV, §416, title V, §572(1), 104 Stat. 4161, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §118, 106 Stat. 3695; Dec. 21, 1995, Pub. L. 104–66, title I, §1071(a), 109 Stat. 720.)
+(Sept. 1, 1937, ch. 896, title I, §21, as added Pub. L. 100–242, title I, §123, Feb. 5, 1988, 101 Stat. 1842; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 101–625, title IV, §416, title V, §572(1), Nov. 28, 1990, 104 Stat. 4161, 4236; Pub. L. 102–550, title I, §118, Oct. 28, 1992, 106 Stat. 3695; Pub. L. 104–66, title I, §1071(a), Dec. 21, 1995, 109 Stat. 720; Pub. L. 105–276, title V, §§518(a)(2)(A), 532(b), Oct. 21, 1998, 112 Stat. 2551, 2575.)
+
+#### References in Text
+
+Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (d), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+1998—Subsec. (a)(2)(A). Pub. L. 105–276, §532(b)(1)(A), substituted “assistance from the Capital Fund” for “comprehensive improvement assistance under section 1437<i>l</i> of this title”.
+
+Subsec. (a)(3)(A)(v). Pub. L. 105–276, §532(b)(1)(B), substituted “housing quality standards applicable under section 1437d(f) of this title” for “minimum safety and livability standards applicable under section 1437<i>l</i> of this title”.
+
+Subsec. (a)(7). Pub. L. 105–276, §532(b)(1)(C), in heading, substituted “Capital and operating assistance” for “Annual contributions”, in first sentence, substituted “provide assistance under section 1437g of this title” for “pay annual contributions”, and at end, substituted “Such assistance may not exceed the allocation for the project under section 1437g of this title” for “Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.”
+
+Subsec. (a)(8). Pub. L. 105–276, §532(b)(1)(D), in heading substituted “fund allocation” for “subsidies” and in text substituted “Amounts from the Operating Fund” for “Operating subsidies”.
+
+Subsec. (b)(3). Pub. L. 105–276, §532(b)(2), in first sentence, substituted “tenant-based assistance” for “a certificate under section 1437f(b)(1) of this title or a housing voucher” and, in second sentence, substituted “payment standard for such assistance” for “fair market rent for such certificate”.
+
+Subsec. (d). Pub. L. 105–276, §532(b)(3), inserted “, as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998,” after “section 1437d(c)(4)(D) of this title”.
+
+Pub. L. 105–276, §518(a)(2)(A), struck out “section 1437c(h) of this title or” after “program established under”.
 
 1995—Subsec. (f). Pub. L. 104–66 struck out heading and text of subsec. (f). Text read as follows: “The Secretary shall annually submit to the Congress a report setting forth—
 
@@ -173,4 +191,8 @@ Subsec. (a)(2)(C). Pub. L. 101–625, §416(2), substituted “the effective dat
 Subsec. (a)(3)(C). Pub. L. 101–625, §416(3), substituted “the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990” for “September 30, 1990”.
 
 Subsec. (f)(7). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 

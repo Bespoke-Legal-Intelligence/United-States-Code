@@ -18,6 +18,10 @@ Each service delivery area shall establish written program goals and objectives 
 
 (Pub. L. 97–300, title II, §255, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1063.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Prior Provisions
 
 A prior section 1634, Pub. L. 97–300, title II, §255, formerly §254, Oct. 13, 1982, 96 Stat. 1364; renumbered §255 and amended Pub. L. 99–496, §8(a)(1), (c), Oct. 16, 1986, 100 Stat. 1263, related to private industry councils and service delivery areas, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.

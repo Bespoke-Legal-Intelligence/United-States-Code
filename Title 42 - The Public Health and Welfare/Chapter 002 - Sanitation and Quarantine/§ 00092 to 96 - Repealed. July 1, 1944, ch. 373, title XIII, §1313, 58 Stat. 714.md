@@ -8,7 +8,7 @@ Section 93, acts Feb. 15, 1893, ch. 114, §4, 27 Stat. 451; July 1, 1902, ch. 13
 
 Section 94, act Feb. 15, 1893, ch. 114, §5, 27 Stat. 451, provided for regulations to secure sanitary conditions of vessels. See section 269 of this title.
 
-Section 94a, act Feb. 15, 1893, ch. 114, §14, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided for hours of inspection at quarantine stations. See section 267 of this title.
+Section 94a, act Feb. 15, 1893, ch. 114, §14, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided for hoursof inspection at quarantine stations. See section 267 of this title.
 
 Section 94b, act Feb. 15, 1893, ch. 114, §16, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided for schedule of charges and payment of them. See section 269 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) Subparts 1, 2, and 3
 
-&emsp;There are authorized to be appropriated $200,000,000 for fiscal year 1995 and such sumsas may be necessary for each of the four succeeding fiscal years to carry out subparts 1, 2, and 3 of this part, of which—
+&emsp;There are authorized to be appropriated $200,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years to carry out subparts 1, 2, and 3 of this part, of which—
 
 &emsp;&emsp;(A)(i) $3,000,000 shall be available to carry out subpart 1 of this part (National Programs for Technology in Education) for any such year for which the amount appropriated under this subsection is less than $75,000,000; and
 

@@ -6,7 +6,7 @@ The Secretaries of the Army, Navy, and Air Force and the Federal Security Admini
 
 This section shall not be construed as conferring on the personnel of the Departments of the Army, Navy, or Air Force or the Federal Security Agency any authority to make criminal investigations, searches, seizures, or arrests of civilians charged with violations of this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 765; May 24, 1949, ch. 139, §35, 63 Stat. 94; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 765; May 24, 1949, ch. 139, §35, 63 Stat. 94; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

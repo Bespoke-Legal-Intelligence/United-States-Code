@@ -40,6 +40,10 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 1991—Subsec. (c). Pub. L. 102–138 added subsec. (c).
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
 #### Television Broadcasting to Cuba
 
 Determination of President of the United States, No. 90–35, Aug. 26, 1990, 55 F.R. 38659, provided:

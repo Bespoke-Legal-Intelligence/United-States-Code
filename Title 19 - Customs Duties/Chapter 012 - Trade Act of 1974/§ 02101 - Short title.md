@@ -26,7 +26,7 @@ Pub. L. 101–382, §1(a), Aug. 20, 1990, 104 Stat. 629, provided that: “This 
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: “This Act \[amending section 4611 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set out as notes under sections 2253 and 2703 of this title\] may be cited as the ‘Steel Trade Liberalization Program Implementation Act’.”
+Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: “This Act \[amending section 4611 of Title26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set out as notes under sections 2253 and 2703 of this title\] may be cited as the ‘Steel Trade Liberalization Program Implementation Act’.”
 
 #### Short Title of 1986 Amendment
 

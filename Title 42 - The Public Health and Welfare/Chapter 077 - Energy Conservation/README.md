@@ -61,6 +61,7 @@
 | (c) | Levels of crude oil to be stored. |
 | (d) | Plan objectives. |
 | (e) | Plan provisions. |
+| (f) | Purpose of drawdown and distribution; requests for funds for storage. |
 | [6235\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006235%20-%20Early%20Storage%20Reserve.md) | Early Storage Reserve. |
 | (a) | Establishment; design; ownership of stored petroleum products; minimum number of barrels of petroleum products in Reserve if Strategic Petroleum Reserve Plan has not become effective. |
 | (b) | Meeting regional needs for residual fuel oil and refined petroleum products. |
@@ -106,6 +107,7 @@
 | (g) | Directive to carry out test drawdown. |
 | (h) | Prevention or reduction of adverse impact of severe domestic energy supply interruptions. |
 | (i) | Exchange of withdrawn products. |
+| (j) | Purchases from Strategic Petroleum Reserve by entities in insular areas of United States and Freely Associated States. |
 | [6242\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006242%20-%20Coordination%20with%20import%20quota%20system.md) | Coordination with import quota system. |
 | [6243\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006243%20-%20Records%20and%20accounts.md) | Records and accounts. |
 | (a) | Preparation and maintenance. |
@@ -199,7 +201,7 @@
 | (i) | Reports by Attorney General and Federal Trade Commission to Congress and President. |
 | (j) | Defense in breach of contract actions. |
 | (k) | Definitions. |
-| (<i>l</i>) | Applicability of authority. |
+| (<i>l</i>) | Applicability of antitrust defense. |
 | (m) | Limitation on new plans of action. |
 | (n) | Joint resolution of disapproval. |
 | [6273\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20B%20-%20Authorities%20with%20Respect%20to%20International%20Energy%20Program/%C2%A7%2006273%20-%20Advisory%20committees.md) | Advisory committees. |
@@ -431,12 +433,10 @@
 | (a) | Definitions. |
 | (b) | Grant program. |
 | (c) | Other Federal assistance. |
-| (d) | Report. |
-| (e) | Authorization of appropriations. |
+| (d) | Authorization of appropriations. |
 | [6350\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Conservation/%C2%A7%2006350%20-%20Industrial%20insulation%20and%20audit%20guidelines.md) | Industrial insulation and audit guidelines. |
 | (a) | Voluntary guidelines for energy efficiency auditing and insulating. |
 | (b) | Educational and technical assistance. |
-| (c) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -562,7 +562,7 @@
 | (e) | Detail of personnel. |
 | (f) | Exemptions. |
 | (g) | Definitions. |
-| (i) | Funding. |
+| (h) | Funding. |
 | [6374a.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20H%20-%20Encouraging%20Use%20of%20Alternative%20Fuels/%C2%A7%2006374a%20-%20Alternative%20fuels%20truck%20commercial%20application%20program.md) | Alternative fuels truck commercial application program. |
 | (a) | Establishment. |
 | (b) | Funding. |

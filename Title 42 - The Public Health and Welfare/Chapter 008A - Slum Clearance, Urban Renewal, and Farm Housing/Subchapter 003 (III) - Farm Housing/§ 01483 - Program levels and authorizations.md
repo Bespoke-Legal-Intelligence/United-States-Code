@@ -54,13 +54,13 @@ There are authorized to be appropriated for fiscal years 1993 and 1994, and to r
 
 (1) The Secretary, to the extent approved in appropriations Acts for fiscal years 1993 and 1994, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $414,100,000 for fiscal year 1993 and $431,492,200 for fiscal year 1994.
 
-(2) Any authority approved in appropriation Acts for fiscal year 1988 or any succeeding fiscal year for rental assistance payment contracts under section 1490a(a)(2)(A) of this title shall be used by the Secretary—
+(2) Any authority approved in appropriation Acts for fiscal year 1988 or any succeeding fiscal year for rental assistance payment contracts under section 1490a(a)(2)(A) of this title or contracts for operating assistance under section 1490a(a)(5) of this title shall be used by the Secretary—
 
-&emsp;(A) to renew rental assistance payment contracts that expire during such fiscal year;
+&emsp;(A) to renew rental assistance payment contracts or operating assistance contracts that expire during such fiscal year;
 
-&emsp;(B) to provide amounts required to continue rental assistance payments for the remaining period of an existing contract, in any case in which the original amount of rental assistance is used prior to the end of the term of the contract; and
+&emsp;(B) to provide amounts required to continue assistance payments for the remaining period of an existing contract, in any case in which the original amount of assistance is used prior to the end of the term of the contract; and
 
-&emsp;(C) to make additional rental assistance payment contracts for existing or newly constructed dwelling units.
+&emsp;(C) to make additional rental assistance payment contracts or operating assistance contracts for existing or newly constructed dwelling units.
 
 #### (d) Supplemental rental assistance contracts
 
@@ -68,15 +68,23 @@ The Secretary, to the extent approved in appropriations Acts for fiscal years 19
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated for rural housing vouchers under section 1490r of this title, $130,000,000 for fiscal year 1993 and $140,000,000 for fiscal year 1994.
+There are authorized to be appropriated for rural housing vouchers under section 1490r ofthis title, $130,000,000 for fiscal year 1993 and $140,000,000 for fiscal year 1994.
 
-(July 15, 1949, ch. 338, title V, §513, 63 Stat. 438; July 14, 1952, ch. 723, §11(c), 66 Stat. 604; June 29, 1954, ch. 410, §5(c), 68 Stat. 320; Aug. 2, 1954, ch. 649, title VIII, §812(c), 68 Stat. 647; Aug. 11, 1955, ch. 783, title V, §501(3), 69 Stat. 654; Aug. 7, 1956, ch. 1029, title VI, §606(c), 70 Stat. 1115; June 30, 1961, Pub. L. 87–70, title VIII, §§801(c), 805(b), 75 Stat. 186, 188; Sept. 2, 1964, Pub. L. 88–560, title V, §§501(c), 503(b), 78 Stat. 796, 798; Aug. 10, 1965, Pub. L. 89–117, title X, §1005(b), 79 Stat. 501; Aug. 1, 1968, Pub. L. 90–448, title X, §1003, 82 Stat. 553; Sept. 30, 1969, Pub. L. 91–78, §1, 83 Stat. 125; Dec. 24, 1969, Pub. L. 91–152, title IV, §413(a), 83 Stat. 398; Oct. 2, 1973, Pub. L. 93–117, §13(a), 87 Stat. 423; Aug. 22, 1974, Pub. L. 93–383, title V, §509(a), 88 Stat. 694; June 30, 1977, Pub. L. 95–60, §4(a), 91 Stat. 258; July 31, 1977, Pub. L. 95–80, §4(a), 91 Stat. 340; Oct. 12, 1977, Pub. L. 95–128, title V, §501(a), 91 Stat. 1138; Sept. 30, 1978, Pub. L. 95–406, §7(a), 92 Stat. 880; Oct. 31, 1978, Pub. L. 95–557, title V, §501(a)–(c), 92 Stat. 2110, 2111;Nov. 9, 1978, Pub. L. 95–619, title II, §232(b), 92 Stat. 3227; Sept. 28, 1979, Pub. L. 96–71, §5(a), 93 Stat. 502; Nov. 8, 1979, Pub. L. 96–105, §5(a), 93 Stat. 795; Dec. 21, 1979, Pub. L. 96–153, title V, §501(a), 93 Stat. 1132; Oct. 3, 1980, Pub. L. 96–372, §6(a), 94 Stat. 1364; Oct. 8, 1980, Pub. L. 96–399, title V, §501(a), 94 Stat. 1667; Aug. 13, 1981, Pub. L. 97–35, title III, §351(a), 95 Stat. 420; Nov. 30, 1983, Pub. L. 98–181, title V, §511(a), 97 Stat. 1243; Oct. 17, 1984, Pub. L. 98–479, title I, §105(d), 98 Stat. 2227; Apr. 7, 1986, Pub. L. 99–272, title III, §3005, 100 Stat. 103; Feb. 5, 1988, Pub. L. 100–242, title III, §301(a)–(d), (g), 101 Stat. 1891–1893; Nov. 28, 1990, Pub. L. 101–625, title VII, §701(a)–(d), 104 Stat. 4281, 4282; Oct. 28, 1992, Pub. L. 102–550, title VII, §701(a)–(d), (f), 106 Stat. 3832–3834.)
+(July 15, 1949, ch. 338, title V, §513, 63 Stat. 438; July 14, 1952, ch. 723, §11(c), 66 Stat. 604; June 29, 1954, ch. 410, §5(c), 68 Stat. 320; Aug. 2, 1954, ch. 649, title VIII, §812(c), 68 Stat. 647; Aug. 11, 1955, ch. 783, title V, §501(3), 69 Stat. 654; Aug. 7, 1956, ch. 1029, title VI, §606(c), 70 Stat. 1115; Pub. L. 87–70, title VIII, §§801(c), 805(b), June 30, 1961, 75 Stat. 186, 188; Pub. L. 88–560, title V, §§501(c), 503(b), Sept. 2, 1964, 78 Stat. 796, 798; Pub. L. 89–117, title X, §1005(b), Aug. 10, 1965, 79 Stat. 501; Pub. L. 90–448, title X, §1003, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a), Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–117, §13(a), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §509(a), Aug. 22, 1974, 88 Stat. 694; Pub. L. 95–60, §4(a), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(a), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §501(a), Oct. 12, 1977, 91 Stat. 1138; Pub. L. 95–406, §7(a), Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title V, §501(a)–(c), Oct. 31, 1978, 92 Stat. 2110, 2111; Pub. L. 95–619, title II, §232(b), Nov. 9, 1978, 92 Stat. 3227; Pub. L. 96–71, §5(a), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(a), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §501(a), Dec. 21, 1979, 93 Stat. 1132; Pub. L. 96–372, §6(a), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §501(a), Oct. 8, 1980, 94 Stat. 1667; Pub. L. 97–35, title III, §351(a), Aug. 13, 1981, 95 Stat. 420; Pub. L. 98–181, title V, §511(a), Nov. 30, 1983, 97 Stat. 1243; Pub. L. 98–479, title I, §105(d), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 99–272, title III, §3005, Apr. 7, 1986, 100 Stat. 103; Pub. L. 100–242, title III, §301(a)–(d), (g), Feb. 5, 1988, 101 Stat. 1891–1893; Pub. L. 101–625, title VII, §701(a)–(d), Nov. 28, 1990, 104 Stat. 4281, 4282; Pub. L. 102–550, title VII, §701(a)–(d), (f), Oct. 28, 1992, 106 Stat. 3832–3834; Pub. L. 105–276, title V, §599C(e)(2)(C), Oct. 21, 1998, 112 Stat. 2662.)
 
 #### References in Text
 
 Section 1490c(f) of this title, referred to in subsec. (b)(8), was repealed by Pub. L. 102–550, title VII, §710(2), Oct. 28, 1992, 106 Stat. 3840.
 
 #### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–276, §599C(e)(2)(C)(i), inserted “or contracts for operating assistance under section 1490a(a)(5) of this title” after “section 1490a(a)(2)(A) of this title” in introductory provisions.
+
+Subsec. (c)(2)(A). Pub. L. 105–276, §599C(e)(2)(C)(ii), inserted “or operating assistance contracts” after “contracts”.
+
+Subsec. (c)(2)(B). Pub. L. 105–276, §599C(e)(2)(C)(iii), struck out “rental” before “assistance” in two places.
+
+Subsec. (c)(2)(C). Pub. L. 105–276, §599C(e)(2)(C)(iv), inserted “or operating assistance contracts” after “contracts”.
 
 1992—Subsec. (a). Pub. L. 102–550, §701(a), inserted heading and amended par. (1) generally, substituting provisions relating to aggregate amounts for which Secretary may insure and guarantee loans for fiscal years 1993 and 1994 for provisions authorizing aggregate amounts for fiscal years 1991 and 1992.
 

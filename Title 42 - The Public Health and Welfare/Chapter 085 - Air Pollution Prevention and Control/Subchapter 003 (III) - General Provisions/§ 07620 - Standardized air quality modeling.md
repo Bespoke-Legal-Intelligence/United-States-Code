@@ -16,7 +16,7 @@ Interested persons shall be permitted to submit written comments and a verbatim 
 
 The comments submitted and the transcript maintained pursuant to subsection (c) of this section shall be included in the docket required to be established for purposes of promulgating or revising any regulation relating to air quality modeling under part C of subchapter I of this chapter.
 
-(July 14, 1955, ch. 360, title III, §320, as added Aug. 7, 1977, Pub. L. 95–95, title III, §310, 91 Stat. 782; amended Aug. 23, 1988, Pub. L. 100–418, title V, §5115(c), 102 Stat. 1433.)
+(July 14, 1955, ch. 360, title III, §320, as added Pub. L. 95–95, title III, §310, Aug. 7, 1977, 91 Stat. 782; amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 #### Amendments
 

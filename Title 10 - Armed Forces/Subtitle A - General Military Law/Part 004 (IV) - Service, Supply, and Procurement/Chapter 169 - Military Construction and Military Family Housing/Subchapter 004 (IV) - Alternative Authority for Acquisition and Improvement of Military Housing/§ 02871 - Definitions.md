@@ -2,7 +2,7 @@
 
 In this subchapter:
 
-&emsp;(1) The term “ancillary supporting facilities” means facilities related to military housing units, including child care centers, day care centers, tot lots, community centers, housing offices, dining facilities, unit offices, and other similar facilities for the support of military housing.
+&emsp;(1) The term “ancillary supporting facilities” means facilities related to military housing units, including facilities to provide or support elementary or secondary education, child care centers, day care centers, tot lots, community centers, housing offices, dining facilities, unit offices, and other similar facilities for the support of military housing.
 
 &emsp;(2) The term “base closure law” means the following:
 
@@ -22,5 +22,9 @@ In this subchapter:
 
 &emsp;(7) The term “United States” includes the Commonwealth of Puerto Rico.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202.)
+
+#### Amendments
+
+1998—Par. (1). Pub. L. 105–261 inserted “facilities to provide or support elementary or secondary education,” after “including”.
 

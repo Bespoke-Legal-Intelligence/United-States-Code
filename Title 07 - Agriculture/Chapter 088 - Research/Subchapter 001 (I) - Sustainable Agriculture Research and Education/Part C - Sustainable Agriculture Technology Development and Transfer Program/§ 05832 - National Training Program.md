@@ -12,7 +12,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (1) Agricultural agents
 
-&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative Extension Service have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
+&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative ExtensionService have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
 
 #### (2) Proof of training
 
@@ -48,15 +48,15 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (2) Short courses
 
-&emsp;The purpose of the grants made available under paragraph (1) shall be to establish, in various regions in the United States, training programs that consist of workshops and short courses designed to familiarize participantswith the concepts and importance of sustainable agriculture.
+&emsp;The purpose of the grants made available under paragraph (1) shall be to establish, in various regions in the United States, training programs that consist of workshops and short courses designed to familiarize participants with the concepts and importance of sustainable agriculture.
 
 #### (f) Regional specialists
 
-To assist county agents and farmers implement production practices developed under this subchapter, chapter 86 of this title, and other appropriate research programs of the Department, regional sustainable agriculture specialists may be designated within each State who shall report to the State coordinator of that State. The specialists shall be responsible for developing and coordinating local dissemination of sustainable agriculture information in a manner that is useful to farmers in the region.
+To assist county agents and farmers implement production practices developed under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department, regional sustainable agriculture specialists may be designated within each State who shall report to the State coordinator of that State. The specialists shall be responsible for developing and coordinating local dissemination of sustainable agriculture information in a manner that is useful to farmers in the region.
 
 #### (g) Information availability
 
-The Cooperative Extension Service within each State shall transfer information developed under this subchapter, chapter 86 of this title, section 5881 <sup>1</sup> of this title, and other appropriate research programs of the Department through a program that shall—
+The Cooperative Extension Service within each State shall transfer information developed under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department through a program that shall—
 
 &emsp;(1) assist in developing farmer-to-farmer information exchange networks to enable farmers making transitions to more sustainable farming systems to share ideas and draw on the experiences of other farmers;
 
@@ -74,11 +74,11 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(8) establish a well-water testing program designed to provide those persons dependent upon underground drinking water supplies with an understanding of the need for regular water testing, information on sources of testing, and an understanding of how to interpret test results and provide for the protection of underground water supplies;
 
-&emsp;(9) provide specific information on water quality practices developed through the research programs in chapter 86 of this title;
+&emsp;(9) provide specific information on water quality practices developed through the research programs in chapter 86 of this title; <sup>1</sup>
 
-&emsp;(10) provide specific information on nutrient management practices developed through the research programs in chapter 86 of this title; and
+&emsp;(10) provide specific information on nutrient management practices developed through the research programs in chapter 86 of this title; <sup>1</sup> and
 
-&emsp;(11) provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title, and other appropriate research programs of the Department.
+&emsp;(11) provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 
 #### (h) “Appropriate field office personnel” defined
 
@@ -88,19 +88,17 @@ For purposes of this section, the term “appropriate field office personnel” 
 
 There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.
 
-(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174.)
+(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604.)
 
 #### References in Text
 
-Section 5881 of this title, referred to in subsec. (g), was repealed by Pub. L. 104–127, title VIII, §862(a), Apr. 4, 1996, 110 Stat. 1174.
+Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–185 struck out “section 5881 of this title,” before “and other appropriate research” in introductory provisions.
 
 1996—Subsecs. (f), (g)(11). Pub. L. 104–127 struck out “section 5881 of this title,” before “and other appropriate”.
 
 1991—Subsec. (c)(1). Pub. L. 102–237 substituted “ensure” for “insure”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5503 of this title.
 

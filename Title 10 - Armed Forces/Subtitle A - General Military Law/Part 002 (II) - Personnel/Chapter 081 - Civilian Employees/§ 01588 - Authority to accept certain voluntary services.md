@@ -42,7 +42,7 @@ Requirements and Limitations.—(1) The Secretary concerned shall notify the per
 
 (c)
 
-Authority To Recruit and Train Persons Providing Services.—The Secretary concerned may recruit and train persons to provide voluntary services accepted under subsection (a).
+Authority To Recruit and Train Persons Providing Services.—The Secretary concernedmay recruit and train persons to provide voluntary services accepted under subsection (a).
 
 (d)
 
@@ -94,7 +94,7 @@ Reimbursement of Incidental Expenses.—The Secretary concerned may provide for 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986,see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -108,7 +108,7 @@ Section 1061(b) of Pub. L. 103–337 provided that:
 
 “(2) The Secretary may not accept voluntary services under section 1588 of title 10, United States Code (other than services that may have been accepted under such section before the date of the enactment of this Act \[Oct. 5, 1994\]), and may not issue regulations to implement the amendment to such section made by subsection (a), until after the termination of the pilot program.
 
-“(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report on the results of the pilot program.”
+“(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program.”
 
 #### Section Referred to in Other Sections
 

@@ -305,13 +305,7 @@
 | (a) | Access to health services. |
 | (b) | Terms and conditions. |
 | (c) | Application for medical assistance. |
-| [1645\.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Access%20to%20Health%20Services/%C2%A7%2001645%20-%20Demonstration%20program%20for%20direct%20billing%20of%20medicare%2C%20medicaid%2C%20and%20other%20third%20party%20payors.md) | Demonstration program for direct billing of medicare, medicaid, and other third party payors. |
-| (a) | Establishment. |
-| (b) | Direct reimbursement. |
-| (c) | Requirements for participation. |
-| (d) | Examination and implementation changes. |
-| (e) | Report. |
-| (f) | Retrocession of contract. |
+| [1645\.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Access%20to%20Health%20Services/%C2%A7%2001645%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VI%2C%20%C2%A7601%28a%29%282%29%28B%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203285.md) | Repealed. |
 | [1646\.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Access%20to%20Health%20Services/%C2%A7%2001646%20-%20Authorization%20for%20emergency%20contract%20health%20services.md) | Authorization for emergency contract health services. |
 | [1647\.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Access%20to%20Health%20Services/%C2%A7%2001647%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -362,6 +356,9 @@
 | (c) | Criteria. |
 | (d) | Treatment of funds received by urban Indian organizations. |
 | [1660b.](Subchapter%20004%20%28IV%29%20-%20Health%20Services%20for%20Urban%20Indians/%C2%A7%2001660b%20-%20Treatment%20of%20certain%20demonstration%20projects.md) | Treatment of certain demonstration projects. |
+| (a) | In general. |
+| (b) | Report. |
+| (c) | Appropriations. |
 | [1660c.](Subchapter%20004%20%28IV%29%20-%20Health%20Services%20for%20Urban%20Indians/%C2%A7%2001660c%20-%20Urban%20NIAAA%20transferred%20programs.md) | Urban NIAAA transferred programs. |
 | (a) | Duty of Secretary. |
 | (b) | Use of grants. |
@@ -534,7 +531,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 450<i>l</i> of this title; title 40 section 276d–3; title 42 sections 254b, 1320d.
+This chapter is referred to in section 450<i>l</i> of this title; title 40 section 276d–3; title 42 sections 254b, 1320d, 14402.
 
 
 ---

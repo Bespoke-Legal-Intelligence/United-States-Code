@@ -12,5 +12,5 @@ The period during which a trauma center receives payments under section 300d–4
 
 A grant under section 300d–41 of this title may not be made in an amount exceeding $2,000,000.
 
-(July 1, 1944, ch. 373, title XII, §1244, as added July 10, 1992, Pub. L. 102–321, title VI, §601, 106 Stat. 435.)
+(July 1, 1944, ch. 373, title XII, §1244, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 435.)
 

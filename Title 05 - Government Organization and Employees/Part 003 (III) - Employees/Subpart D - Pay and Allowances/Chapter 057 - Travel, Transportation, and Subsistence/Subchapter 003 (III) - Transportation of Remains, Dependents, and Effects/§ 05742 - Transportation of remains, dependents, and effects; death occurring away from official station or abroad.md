@@ -12,9 +12,11 @@
 
 (b) When an employee dies, the head of the agency concerned, under regulations prescribed by the President and, except as otherwise provided by law, may pay from appropriations available for the activity in which the employee was engaged—
 
-&emsp;(1) the expense of preparing and transporting the remains to the home or official station of the employee, or such other place appropriate for interment as is determined by the head of the agency concerned, if death occurred while the employee was in a travel status away from his official station in the United States or while performing official duties outside the continental United States or in transit thereto or therefrom; and
+&emsp;(1) the expense of preparing and transporting the remains to the home or official station of the employee, or such other place appropriate for interment as is determined by the head of the agency concerned, if death occurred while the employee was in a travel status away from his official station in the United States or while performing official duties outside the continental United States or in transit thereto or therefrom;
 
-&emsp;(2) the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom.
+&emsp;(2) the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and
+
+&emsp;(3) the travel expenses of not more than 2 persons to escort the remains of a deceased employee, if death occurred while the employee was in travel status away from his official station in the United States or while performing official duties outside the United States or in transit thereto or therefrom, from the place of death to the home or official station of such person, or such other place appropriate for interment as is determined by the head of the agency concerned.
 
 (c) When a dependent of an employee dies while residing with the employee performing official duties outside the continental United States or in Alaska or in transit thereto or therefrom, the head of the agency concerned may pay the necessary expenses of transporting the remains to the home of the dependent, or such other place appropriate for interment as is determined by the head of the agency concerned. If practicable, the agency concerned in respect of the deceased may furnish mortuary services and supplies on a reimbursable basis when—
 
@@ -28,7 +30,7 @@
 
 (e) Employees covered by this section include an employee who has been reassigned away from the employee's home of record pursuant to a mandatory mobility agreement executed as a condition of employment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104 Stat. 1661.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 105–277, div. A, title I, §101(d) \[title V, §589(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210.)
 
 Historical and Revision Notes
 
@@ -63,6 +65,8 @@ Subsection (b) is restated for clarity and conciseness and to eliminate redundan
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–277 added par. (3).
 
 1990—Subsec. (b)(1), (2). Pub. L. 101–510, §1206(d)(1), inserted “continental” after “outside the”.
 

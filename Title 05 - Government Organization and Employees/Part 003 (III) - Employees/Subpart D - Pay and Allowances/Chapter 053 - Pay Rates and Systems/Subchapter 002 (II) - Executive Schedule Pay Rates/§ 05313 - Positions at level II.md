@@ -24,10 +24,6 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Director of the Office of Science and Technology.
 
-&emsp;Director of the United States Arms Control and Disarmament Agency.
-
-&emsp;Director of the United States Information Agency.
-
 &emsp;Director of Central Intelligence.
 
 &emsp;Secretary of the Air Force.
@@ -76,7 +72,9 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Administrator of the Community Development Financial Institutions Fund.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169.)
+&emsp;Deputy Director of National Drug Control Policy.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785.)
 
 Historical and Revision Notes<br>1966
 
@@ -104,6 +102,12 @@ The deletion of paragraph (6) of 5 U.S.C. 5313 reflects the abolition of the pos
 
 #### Amendments
 
+1998—Pub. L. 105–277, §1332(1), struck out item relating to Director of the United States Information Agency.
+
+Pub. L. 105–277, §1224(1), struck out item relating to Director of the United States Arms Control and Disarmament Agency.
+
+Pub. L. 105–277, §713(a)(2), inserted item relating to Deputy Director of National Drug Control Policy.
+
 1994—Pub. L. 103–325 inserted item relating to Administrator of the Community Development Financial Institutions Fund.
 
 Pub. L. 103–296 inserted item relating to Deputy Commissioner of Social Security, Social Security Administration.
@@ -116,7 +120,7 @@ Pub. L. 103–296 inserted item relating to Deputy Commissioner of Social Securi
 
 1990—Pub. L. 101–576 inserted item relating to Deputy Director for Management, Office of Management and Budget.
 
-Pub. L. 101–509 inserted items relating to Deputy Secretary of Health and Human Services, Deputy Secretary of the Interior, Deputy Secretary of Education,and Deputy Secretary of Housing and Urban Development.
+Pub. L. 101–509 inserted items relating to Deputy Secretary of Health and Human Services, Deputy Secretary of the Interior, Deputy Secretary of Education, and Deputy Secretary of Housing and Urban Development.
 
 1989—Pub. L. 101–73 inserted item relating to Independent Members, Oversight Board, Resolution Trust Corporation.
 
@@ -172,6 +176,12 @@ Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Acti
 
 1966—Pub. L. 89–670 substituted “Under Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1224(1) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
+
+Amendment by section 1332(1) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under 6531 of Title 22.
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L. 102–233, set out as a note under section 1441 of Title 12, Banks and Banking.
@@ -216,7 +226,7 @@ Section 5 of Pub. L. 94–561 provided that:
 
 #### Effective Date of 1974 Amendment
 
-Amendment of Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811 to 5820 of Title 42,The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
+Amendment of Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811 to 5820 of Title 42, The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
 
 #### Effective Date of 1972 Amendment
 
@@ -234,13 +244,11 @@ Amendment by Pub. L. 89–670 effective April 1, 1967, see section 16(a), former
 
 Office of Director of Office of Science and Technology abolished and functions vested by law in such office transferred to Director of the National Science Foundation by sections 2 and 3(a)(5) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to this title.
 
-#### United States Information Agency
-
-United States Information Agency, including the Office of Director, referred to in text, abolished and replaced by International Communication Agency pursuant to Reorg. Plan No. 2 of 1977, 42 F.R. 62461, 91 Stat. 1636, set out in the Appendix to this title, effective on or before July 1, 1978, at such time as specified by the President. International Communication Agency redesignated United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
-
 #### Salary Increases
 
-1998—Salaries of positions at level II increased to $136,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title.
+1999—Salaries of positions at level II continued at $136,700 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of this title.
+
+1998—Salaries of positions at level II increased to $136,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521.
 
 1997—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987.
 
@@ -272,7 +280,7 @@ Salaries of positions at level II increased to $77,400 per annum, effective on t
 
 Maximum rate payable after Dec. 17, 1982, increased from $60,662.50 to $69,800.00, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of this title.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
+Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, orjudicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 
 1981—Salaries of positions at level II increased to $74,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $60,662.50.
 
@@ -282,7 +290,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated 
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
 
-1979—Salaries of positions at level II increased to $65,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuantto section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $60,662.50.
+1979—Salaries of positions at level II increased to $65,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $60,662.50.
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
 
@@ -308,5 +316,5 @@ Director of Federal Bureau of Investigation, Department of Justice to receive co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5315, 5377, 5380, 8432, 8701, 8714b of this title; title 2 section 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section 207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293; title 49 section 106.
+This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 section 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section 207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293; title 49 section 106.
 

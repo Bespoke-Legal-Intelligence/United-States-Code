@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Department of the Interior $25,00
 
 #### (c) Additional authorization
 
-The amounts authorized to be appropriated under this section are in addition to any amounts provided or available to the Foundation under any other Federal law.
+The amounts authorized to be appropriated under this section are in addition to anyamounts provided or available to the Foundation under any other Federal law.
 
 (Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337.)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for payment to be available under section 1396b(a) of this title for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall not be effective until the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
+&emsp;In order for payment to be available under section 1396b(a) of this title for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and mustmeet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall not be effective until the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
 
 #### (2) Effective date
 
@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A manufacturer meets the requirements of this paragraph if the manufacturer complies with the provisions of section 8126 of title 38, including the requirement of entering into a master agreement with the Secretary of Veterans Affairs under such section.
+&emsp;&emsp;A manufacturer meets the requirements of this paragraph if the manufacturer complies with the provisions of section 8126 of title 38,including the requirement of entering into a master agreement with the Secretary of Veterans Affairs under such section.
 
 #### (B) Effect of subsequent amendments
 
@@ -334,7 +334,7 @@
 
 &emsp;&emsp;(A) a State may not reduce the payment limits established by regulation under this subchapter or any limitation described in paragraph (3) with respect to the ingredient cost of a covered outpatient drug or the dispensing fee for such a drug below the limits in effect as of January 1, 1991, and
 
-&emsp;&emsp;(B) except as provided in paragraph (2), the Secretary may not modify by regulation the formula established under sections 447.331 through 447.334 of title 42, Code of Federal Regulations, in effect on November 5, 1990, to reduce the limits described in subparagraph (A).
+&emsp;&emsp;(B) except as provided in paragraph (2), the Secretary may not modify by regulation the formula established under sections 447.331through 447.334 of title 42, Code of Federal Regulations, in effect on November 5, 1990, to reduce the limits described in subparagraph (A).
 
 #### (2) Special rule
 
@@ -388,7 +388,7 @@
 
 &emsp;&emsp;(ii) As part of the State's prospective drug use review program under this subparagraph applicable State law shall establish standards for counseling of individuals receiving benefits under this subchapter by pharmacists which includes at least the following:
 
-&emsp;&emsp;&emsp;(I) The pharmacist must offer to discuss with each individual receiving benefits under this subchapter or caregiver of such individual (in person, whenever practicable, or through access to a telephone service which is toll-free for long-distancecalls) who presents a prescription, matters which in the exercise of the pharmacist's professional judgment (consistent with State law respecting the provision of such information), the pharmacist deems significant including the following:
+&emsp;&emsp;&emsp;(I) The pharmacist must offer to discuss with each individual receiving benefits under this subchapter or caregiver of such individual (in person, whenever practicable, or through access to a telephone service which is toll-free for long-distance calls) who presents a prescription, matters which in the exercise of the pharmacist's professional judgment (consistent with State law respecting the provision of such information), the pharmacist deems significant including the following:
 
 &emsp;&emsp;&emsp;&emsp;(aa) The name and description of the medication.
 
@@ -458,7 +458,7 @@
 
 &emsp;&emsp;&emsp;(iii) Ongoing interventions for physicians and pharmacists, targeted toward therapy problems or individuals identified in the course of retrospective drug use reviews performed under this subsection. Intervention programs shall include, in appropriate instances, at least:
 
-&emsp;&emsp;&emsp;&emsp;(I) information dissemination sufficient to ensure the ready availability tophysicians and pharmacists in the State of information concerning its duties, powers, and basis for its standards;
+&emsp;&emsp;&emsp;&emsp;(I) information dissemination sufficient to ensure the ready availability to physicians and pharmacists in the State of information concerning its duties, powers, and basis for its standards;
 
 &emsp;&emsp;&emsp;&emsp;(II) written, oral, or electronic reminders containing patient-specific or drug-specific (or both) information and suggested changes in prescribing or dispensing practices, communicated in a manner designed to ensure the privacy of patient-related information;
 
@@ -522,7 +522,7 @@ In this section—
 
 #### (1) Average manufacturer price
 
-&emsp;The term “average manufacturer price” means, with respect to a covered outpatientdrug of a manufacturer for a rebate period, the average price paid to the manufacturer for the drug in the United States by wholesalers for drugs distributed to the retail pharmacy class of trade, after deducting customary prompt pay discounts.
+&emsp;The term “average manufacturer price” means, with respect to a covered outpatient drug of a manufacturer for a rebate period, the average price paid to the manufacturer for thedrug in the United States by wholesalers for drugs distributed to the retail pharmacy class of trade, after deducting customary prompt pay discounts.
 
 #### (2) Covered outpatient drug
 
@@ -584,7 +584,7 @@ In this section—
 
 #### (6) Medically accepted indication
 
-&emsp;The term “medically accepted indication” means any use for a covered outpatient drug which is approved under the Federal Food,Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.
+&emsp;The term “medically accepted indication” means any use for a covered outpatient drug which is approved under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.
 
 #### (7) Multiple source drug; innovator multiple source drug; noninnovator multiple source drug; single source drug
 
@@ -634,7 +634,7 @@ In this section—
 
 &emsp;The term “State agency” means the agency designated under section 1396a(a)(5) of this title to administer or supervise the administration of the State plan for medical assistance.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Nov. 5, 1990, Pub. L. 101–508, title IV, §4401(a)(3), 104 Stat. 1388–143; amended Nov. 4, 1992, Pub. L. 102–585, title VI, §601(a)–(c), 106 Stat. 4962–4964; Apr. 12, 1993, Pub. L. 103–18, §2(a), 107 Stat. 54; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13602(a), 107 Stat. 613; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, 111 Stat. 493, 527.)
+(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; amended Pub. L. 102–585, title VI, §601(a)–(c), Nov. 4, 1992, 106 Stat. 4962–4964; Pub. L. 103–18, §2(a), Apr. 12, 1993, 107 Stat. 54; Pub. L. 103–66, title XIII, §13602(a), Aug. 10, 1993, 107 Stat. 613; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, Aug. 5, 1997, 111 Stat. 493, 527.)
 
 #### References in Text
 
@@ -656,7 +656,7 @@ A prior section 1927 of act Aug. 14, 1935, was renumbered section 1928 and is cl
 
 Subsec. (j)(1). Pub. L. 105–33, §4701(b)(2)(A)(x), substituted “health maintenance organizations, including medicaid managed care organizations” for “\* \* \* Health Maintenance Organizations, including those organizations”.
 
-1993—Subsec. (b)(1)(A). Pub. L. 103–66, §13602(a)(2)(A)(i)(II), which directed amendment of subpar. (A) by substituting “dispensed after December 31, 1990, for which payment was made under the State plan for such period” for “dispensed under the plan during the quarter (or other period as the Secretary may specify)”, was executed by making the substitution for “dispensed under the plan during the quarter (or such other period as the Secretary may specify)” to reflect the probable intent of Congress.
+1993—Subsec. (b)(1)(A). Pub. L. 103–66, §13602(a)(2)(A)(i)(II), which directed amendment of subpar. (A) by substituting “dispensed after December 31, 1990, for which payment was made under the State planfor such period” for “dispensed under the plan during the quarter (or other period as the Secretary may specify)”, was executed by making the substitution for “dispensed under the plan during the quarter (or such other period as the Secretary may specify)” to reflect the probable intent of Congress.
 
 Pub. L. 103–66, §13602(a)(2)(A)(i)(I), substituted “for a rebate period” for “each calendar quarter (or periodically in accordance with a schedule specified by the Secretary)”.
 
@@ -720,7 +720,7 @@ Section 13602(d) of Pub. L. 103–66 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1396a and 1396b of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].
 
-“(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsection amends section 1927(d) of the Social Security Act \[subsec. (d) of this section\]) and the amendment made by subsection (c) \[amending section 1396a of this title\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
+“(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsectionamends section 1927(d) of the Social Security Act \[subsec. (d) of this section\]) and the amendment made by subsection (c) \[amending section 1396a of this title\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
 
 Section 2(b) of Pub. L. 103–18 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 601(c) of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\].”
 

@@ -50,3 +50,23 @@ The definitions of “Secretary”, “Register”, and “Register system” ar
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Evaluation and Assessment of Alternatives
+
+Pub. L. 105–178, title II, §2006(c), June 9, 1998, 112 Stat. 336, provided that:
+
+“(1)
+
+Evaluation.—The Secretary shall evaluate the implementation of chapter 303 of title 49, United StatesCode, and the programs under sections 31106 and 31309 of such title and identify alternatives to improve the ability of the States to exchange information about unsafe drivers and to identify drivers with multiple licenses.
+
+“(2)
+
+Technology assessment.—The Secretary, in conjunction with the American Association of Motor Vehicle Administrators, shall conduct an assessment of available electronic technologies to improve access to and exchange of motor vehicle driving records. The assessment may consider alternative unique motor vehicle driver identifiers that would facilitate accurate matching of drivers and their records.
+
+“(3)
+
+Report to congress.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the evaluation and technology assessment, together with any recommendations for appropriate administrative and legislative actions.
+
+“(4)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out paragraph (2) $250,000 in the aggregate for fiscal years beginning after September 30, 1998.”
+

@@ -50,5 +50,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8705, 8707, 8708, 8714a, 8714b, 8714c of this title.
+This section is referred to in sections 8705, 8706, 8707, 8708, 8714a, 8714b, 8714c of this title.
 

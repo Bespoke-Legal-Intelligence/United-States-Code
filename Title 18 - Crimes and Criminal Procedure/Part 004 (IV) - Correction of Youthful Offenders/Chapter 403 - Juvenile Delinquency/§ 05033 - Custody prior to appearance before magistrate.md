@@ -4,7 +4,7 @@ Whenever a juvenile is taken into custody for an alleged act of juvenile delinqu
 
 The juvenile shall be taken before a magistrate forthwith. In no event shall the juvenile be detained for longer than a reasonable period of time before being brought before a magistrate.
 
-(June 25, 1948, ch. 645, 62 Stat. 857; Sept. 7, 1974, Pub. L. 93–415, title V, §503, 88 Stat. 1135.)
+(June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 93–415, title V, §503, Sept. 7, 1974, 88 Stat. 1135.)
 
 #### Historical and Revision Notes
 

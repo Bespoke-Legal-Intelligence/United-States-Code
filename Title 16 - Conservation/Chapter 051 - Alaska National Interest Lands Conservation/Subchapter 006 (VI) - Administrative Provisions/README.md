@@ -7,6 +7,7 @@
 
 - [&sect; 03191 - Management plans](%C2%A7%2003191%20-%20Management%20plans.md)
 - [&sect; 03192 - Land acquisition authority](%C2%A7%2003192%20-%20Land%20acquisition%20authority.md)
+- [&sect; 03192a - Restrictions on use of appropriated funds](%C2%A7%2003192a%20-%20Restrictions%20on%20use%20of%20appropriated%20funds.md)
 - [&sect; 03193 - Use of cabins and other sites of occupancy on conservation system units](%C2%A7%2003193%20-%20Use%20of%20cabins%20and%20other%20sites%20of%20occupancy%20on%20conservation%20system%20units.md)
 - [&sect; 03194 - Archeological and paleontological sites](%C2%A7%2003194%20-%20Archeological%20and%20paleontological%20sites.md)
 - [&sect; 03195 - Cooperative information and education centers](%C2%A7%2003195%20-%20Cooperative%20information%20and%20education%20centers.md)

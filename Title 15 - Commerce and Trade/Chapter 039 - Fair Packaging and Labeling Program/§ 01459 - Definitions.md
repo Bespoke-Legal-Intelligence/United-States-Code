@@ -42,7 +42,7 @@ The eighth paragraph under the heading “Bureau of Animal Industry” of the Vi
 
 The Federal Alcohol Administration Act, referred to in subsec. (a)(4), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
-The Federal Seed Act, referred to in subsec. (a)(5), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, as amended, which is classified generally to chapter 37 (§1551 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1551 of Title 7 and Tables.
+The Federal Seed Act, referred to in subsec. (a)(5), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, as amended, which is classified generally to chapter 37 (§1551 et seq.) ofTitle 7, Agriculture. For complete classification of this Act to the Code, see section 1551 of Title 7 and Tables.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 (3) In the case of an enlisted member who served as the master chief petty officer of the Coast Guard, retired pay under paragraph (1) shall be computed at the highest rate of basic pay to which the member was entitled while so serving, if that basic pay is greater than the basic pay of the grade or rate to which the member is otherwise entitled at the time of retirement.
 
-(4) In the case of an officer whose retired pay is computed on the pay of a grade for which basic pay is not based upon years of service, retired pay under paragraph (1) shall be computed on the basis of the number of years of service forwhich the officer would be entitled to credit in the computation of pay on the active list had the officer been serving in the grade of captain at the time of retirement.
+(4) In the case of an officer whose retired pay is computed on the pay of a grade for which basic pay is not based upon years of service, retired pay under paragraph (1) shall be computed on the basis of the number of years of service for which the officer would be entitled to credit in the computation of pay on the active list had the officer been serving in the grade of captain at the time of retirement.
 
 (b) The retired pay of a member who first became a member of a uniformed service (as defined in section 101 of title 10) on or after September 8, 1980, is determined by multiplying—
 
@@ -30,7 +30,7 @@
 
 (2) Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 525; Aug. 3, 1950, ch. 536, §23, 64 Stat. 407; May 20, 1958, Pub. L. 85–422, §11(b), 72 Stat. 132; Oct. 2, 1963, Pub. L. 88–132, §5(i), 77 Stat. 214; Oct. 2, 1972, Pub. L. 92–455, §2, 86 Stat. 761; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(f)(2), 94 Stat. 1109; Oct. 12, 1982, Pub. L. 97–295, §2(12), 96 Stat. 1302; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(b), 923(d), 97 Stat. 642, 643; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), 98 Stat. 2865; July 1, 1986, Pub. L. 99–348, title II, §205(a), 100 Stat. 699.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 525; Aug. 3, 1950, ch. 536, §23, 64 Stat. 407; Pub. L. 85–422, §11(b), May 20, 1958, 72 Stat. 132; Pub. L. 88–132, §5(i), Oct. 2, 1963, 77 Stat. 214; Pub. L. 92–455, §2, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(f)(2), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 97–295, §2(12), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–94, title IX, §§922(b), 923(d), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 98–557, §15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–348, title II, §205(a), July 1, 1986, 100 Stat. 699.)
 
 #### Historical and Revision Notes
 

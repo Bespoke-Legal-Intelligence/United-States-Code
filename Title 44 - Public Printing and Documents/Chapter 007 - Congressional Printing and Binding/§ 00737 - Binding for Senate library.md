@@ -1,6 +1,6 @@
 ### §737. Binding for Senate library
 
-The Secretary of the Senate may make requisition upon the Public Printer for the bindingfor the Senate library of books he considers necessary, at a cost not to exceed $200 per year.
+The Secretary of the Senate may make requisition upon the Public Printer for the binding for the Senate library of books he considers necessary, at a cost not to exceed $200 per year.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1254.)
 

@@ -28,7 +28,5 @@ The word “issue” is substituted for the words “grant permission”. The wo
 
 #### Cross References
 
-American National Red Cross, see section 1 et seq. of Title 36, Patriotic Societies and Observances.
-
 Cooperation and assistance to armed forces, see section 2602 of this title.
 

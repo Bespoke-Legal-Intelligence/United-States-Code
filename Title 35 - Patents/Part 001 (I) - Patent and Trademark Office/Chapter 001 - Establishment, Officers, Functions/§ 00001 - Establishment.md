@@ -26,9 +26,15 @@ Section 3 of Pub. L. 93–596 provided that: “The terms ‘Patent Office’ an
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–358, §1, Nov. 10, 1998, 112 Stat. 3272, provided that: “This Act \[amending sections 41 and 42 ofthis title and enacting provisions set out as a note under section 41 of this title\] may be cited as the ‘United States Patent and Trademark Office Reauthorization Act, Fiscal Year 1999’.”
+
+Pub. L. 105–289, §1, Oct. 27, 1998, 112 Stat. 2780, provided that: “This Act \[amending section 163 of this title and enacting provisions set out as notes under sections 41 and 163 of this title\] may be cited as the ‘Plant Patent Amendments Act of 1998’.”
+
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–418, §9001, Aug. 23, 1988, 102 Stat. 1563, provided that: “This subtitle \[subtitle A (§§9001–9007) oftitle IX of Pub. L. 100–418, enacting section 295 of this title, amending sections 154, 271, and 287 of this title, and enacting provisions set out as notes under section 271 of this title\] may be cited as the ‘Process Patent Amendments Act of 1988’.”
+Pub. L. 100–418, §9001, Aug. 23, 1988, 102 Stat. 1563, provided that: “This subtitle \[subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title, amending sections 154, 271, and 287 of this title, and enacting provisions set out as notes under section 271 of this title\] may be cited as the ‘Process Patent Amendments Act of 1988’.”
 
 Pub. L. 100–418, title IX, §9101(a), Aug. 23, 1988, 102 Stat. 1567, provided that: “This section \[amending sections 184 to 186 of this title and enacting provisions set out as notes under section 184 of this title\] may be cited as the ‘Patent Law Foreign Filing Amendments Act of 1988’.”
 

@@ -68,7 +68,7 @@ In general.—A civil investigative demand issued under subsection (a) may not r
 
 &emsp;&emsp;(A) the standards applicable to subpoenas or subpoenas duces tecum issued by a court of the United States to aid in a grand jury investigation; or
 
-&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this section.
+&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand isappropriate and consistent with the provisions and purposes of this section.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Interrogatories.—Each interrogatory in a civil investigative demand served und
 
 &emsp;(2) in the case of a person other than a natural person, the person or persons responsible for answering each interrogatory.
 
-> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
+> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand isdirected has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
 
 (h)
 
@@ -170,7 +170,7 @@ Furnishing or inspection of transcript by witness.—Upon payment of reasonable 
 
 &emsp;(7)
 
-Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such personrefuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
+Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
 
 &emsp;(B) If such person refuses to answer any question on the grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of part V of title 18.
 
@@ -188,7 +188,7 @@ Designation.—The Attorney General shall designate a false claims law investiga
 
 &emsp;(2)
 
-Responsibility for materials; disclosure.—(A) A false claims law investigator who receives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
+Responsibility for materials; disclosure.—(A) A false claims law investigator whoreceives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
 
 &emsp;(B) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for official use by any false claims law investigator, or other officer or employee of the Department of Justice, who is authorized for such use under regulations which the Attorney General shall issue. Such material, answers, and transcripts may be used by any such authorized false claims law investigator or other officer or employee in connection with the taking of oral testimony under this section.
 
@@ -280,7 +280,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(2) the term “false claims law investigation” means any inquiry conducted by any false claims law investigator for the purpose of ascertaining whether any person is or has been engaged in any violation of a false claims law;
 
-&emsp;(3) the term “false claims law investigator” means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
+&emsp;(3) the term “false claims law investigator” means any attorney or investigator employedby the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
 
 &emsp;(4) the term “person” means any natural person, partnership, corporation, association, or other legal entity, including any State or political subdivision of a State;
 

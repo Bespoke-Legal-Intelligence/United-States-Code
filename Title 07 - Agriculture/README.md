@@ -1,5 +1,5 @@
 
-7 U.S.C.<br>United States Code, 1997 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+7 U.S.C.<br>United States Code, 1998 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 7—AGRICULTURE
 
@@ -119,6 +119,7 @@
 | [<b>100.</b>](Chapter%20100%20-%20Agricultural%20Market%20Transition/README.md) | <b>Agricultural Market Transition</b> | <b>7201</b> |
 | [<b>101.</b>](Chapter%20101%20-%20Agricultural%20Promotion/README.md) | <b>Agricultural Promotion</b> | <b>7401</b> |
 | [<b>102.</b>](Chapter%20102%20-%20Emergency%20Food%20Assistance/README.md) | <b>Emergency Food Assistance</b> | <b>7501</b> |
+| [<b>103.</b>](Chapter%20103%20-%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Reform/README.md) | <b>Agricultural Research, Extension, and Education Reform</b> | <b>7601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -241,3 +242,4 @@
 - [Chapter 100 - Agricultural Market Transition](Chapter%20100%20-%20Agricultural%20Market%20Transition/README.md)
 - [Chapter 101 - Agricultural Promotion](Chapter%20101%20-%20Agricultural%20Promotion/README.md)
 - [Chapter 102 - Emergency Food Assistance](Chapter%20102%20-%20Emergency%20Food%20Assistance/README.md)
+- [Chapter 103 - Agricultural Research, Extension, and Education Reform](Chapter%20103%20-%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Reform/README.md)

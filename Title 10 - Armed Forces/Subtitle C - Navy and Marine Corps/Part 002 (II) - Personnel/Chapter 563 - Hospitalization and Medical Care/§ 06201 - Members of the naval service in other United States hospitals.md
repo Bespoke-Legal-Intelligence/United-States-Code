@@ -4,7 +4,7 @@
 
 (b) The deduction authorized by section 4812 of the Revised Statutes (24 U.S.C. 16) shall be made from accounts of members hospitalized under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 387; Sept. 2, 1958, Pub. L. 85–861, §36B(19), 72 Stat. 1571; Dec. 12, 1980, Pub. L. 96–513, title V, §513(14), 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 387; Pub. L. 85–861, §36B(19), Sept. 2, 1958, 72 Stat. 1571; Pub. L. 96–513, title V, §513(14), Dec. 12, 1980, 94 Stat. 2932.)
 
 Historical and Revision Notes
 

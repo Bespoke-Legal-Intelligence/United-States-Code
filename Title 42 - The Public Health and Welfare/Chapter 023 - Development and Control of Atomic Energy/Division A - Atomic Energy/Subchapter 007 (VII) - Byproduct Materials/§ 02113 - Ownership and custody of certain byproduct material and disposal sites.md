@@ -18,7 +18,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 &emsp;(ii) the State in which such land is located, at the option of such State,
 
-> unless the Commission determines prior to such termination that transfer of title to such land and such byproduct material is not necessary or desirable to protect the public health, safety, or welfare or to minimize or eliminate danger to life or property. Such determination shall be made in accordance with section 2231 of this title. Notwithstanding any other provision of law or any such determination, such property and materials shall be maintained pursuant to a license issued by the Commission pursuant to section 2111 of this title in such manner as will protect the public health, safety, and the environment.
+> unless the Commission determines prior to such termination that transfer of title to such land and such byproduct material is not necessary or desirable to protect the public health, safety, or welfare or to minimize or eliminate danger to life or property. Such determination shall be made in accordance with section 2231 of thistitle. Notwithstanding any other provision of law or any such determination, such property and materials shall be maintained pursuant to a license issued by the Commission pursuant to section 2111 of this title in such manner as will protect the public health, safety, and the environment.
 
 (B) If the Commission determines by order that use of the surface or subsurface estates, or both, of the land transferred to the United States or to a State under subparagraph (A) would not endanger the public health, safety, welfare, or environment, the Commission, pursuant to such regulations as it may prescribe, shall permit the use of the surface or subsurface estates, or both, of such land in a manner consistent with the provisions of this section. If the Commission permits such use of such land, it shall provide the person who transferred such land with the right of first refusal with respect to such use of such land.
 
@@ -28,7 +28,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 (4) In the case of any such license under section 2092 of this title, which was in effect on the effective date of this section, the Commission may require, before the termination of such license, such transfer of land and interests therein (as described in paragraph (1) of this subsection) to the United States or a State in which such land is located, at the option of such State, as may be necessary to protect the public health, welfare, and the environment from any effects associated with such byproduct material. In exercising the authority of this paragraph, the Commission shall take into consideration the status of the ownership of such land and interests therein and the ability of the licensee to transfer title and custody thereof to the United States or a State.
 
-(5) The Commission may, pursuant to a license, or by rule or order, require the Secretary or other Federal agency or State having custodyof such property and materials to undertake such monitoring, maintenance, and emergency measures as are necessary to protect the public health and safety and such other actions as the Commission deems necessary to comply with the standards promulgated pursuant to section 2114 of this title. The Secretary or such other Federal agency is authorized to carry out maintenance, monitoring, and emergency measures, but shall take no other action pursuant to such license, rule or order, with respect to such property and materials unless expressly authorized by Congress after November 8, 1978.
+(5) The Commission may, pursuant to a license, or by rule or order, require the Secretary or other Federal agency or State having custody of such property and materials to undertake such monitoring, maintenance, and emergency measures as are necessary to protect the public health and safety and such other actions as the Commission deems necessary to comply with the standards promulgated pursuant to section 2114 of this title. The Secretary or such other Federal agency is authorized to carry out maintenance, monitoring, and emergency measures, but shall take no other action pursuant to such license, rule or order, with respect to such property and materials unless expressly authorized by Congress after November 8, 1978.
 
 (6) The transfer of title to land or byproduct materials, as defined in section 2014(e)(2) of this title, to a State or the United States pursuant to this subsection shall not relieve any licensee of liability for any fraudulent or negligent acts done prior to such transfer.
 
@@ -40,7 +40,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 Upon termination on <sup>1</sup> any license to which this section applies, the Commission shall determine whether or not the licensee has complied with all applicable standards and requirements under such license.
 
-(Aug. 1, 1946, ch. 724, title I, §83, as added Nov. 8, 1978, Pub. L. 95–604, title II, §202(a), 92 Stat. 3033; amended Nov. 9, 1979, Pub. L. 96–106, §22(c), (e), 93 Stat. 800; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §83, as added Pub. L. 95–604, title II, §202(a), Nov. 8, 1978, 92 Stat. 3033; amended Pub. L. 96–106, §22(c), (e), Nov. 9, 1979, 93 Stat. 800; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 
@@ -48,7 +48,7 @@ Effective date of this section, referred to in subsecs. (a) and (b)(1)(A), (4), 
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–106, §22(c), substituted “Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination” for “Any license in effect on November 8, 1978, shall either contain such terms and conditions on renewal thereof after the effective date of this section, or comply with paragraphs (1) and (2) upon the termination of such license, whichever first occurs”.
+1979—Subsec. (a). Pub. L. 96–106, §22(c), substituted “Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination” for “Any license in effect on November 8, 1978, shall either contain such terms and conditions on renewal thereof after the effective date ofthis section, or comply with paragraphs (1) and (2) upon the termination of such license, whichever first occurs”.
 
 Subsec. (b)(1)(A). Pub. L. 96–106, §22(e), among other changes, substituted reference to section 2111 of this title for reference to section 2114(b) of this title.
 

@@ -32,6 +32,28 @@ Subsec. (b). Pub. L. 104–106, §4321(b)(1), substituted “October 13, 1994”
 
 For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs
+
+Pub. L. 105–261, div. A, title VIII, §816, Oct. 17, 1998, 112 Stat. 2088, provided that:
+
+“(a)
+
+Designation of Pilot Programs.—The Secretary of Defense, acting through the Secretaries of the military departments, shall designate 10 acquisition programs of the military departments as pilot programs on program manager responsibility for product support.
+
+“(b)
+
+Responsibilities of Program Managers.—The program manager for each acquisition program designated as a pilot program under this section shall have the responsibility for ensuring that the product support functions for the program are properly carried out over the entire life cycle of the program.
+
+“(c)
+
+Report.—Not later than February 1, 1999, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the pilot programs. The report shall contain the following:
+
+&emsp;“(1) A description of the acquisition programs designated as pilot programs under subsection (a).
+
+&emsp;“(2) For each such acquisition program, the specific management actions taken to ensure that the program manager has the responsibility for oversight of the performance of the product support functions.
+
+&emsp;“(3) Any proposed change to law, policy, regulation, or organization that the Secretary considers desirable, and determines feasible to implement, for ensuring that the program managers are fully responsible under the pilot programs for the performance of all such responsibilities.”
+
 #### Enhanced System of Performance Incentives
 
 Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretary of Defense shall review the incentives and personnel actions available to the Secretary of Defense for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives to facilitate the achievement of goals approved or defined pursuant to section 2220(a) of title 10, United States Code. The enhanced system of incentives shall, to the maximum extent consistent with applicable law—

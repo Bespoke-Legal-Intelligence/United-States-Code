@@ -30,7 +30,7 @@
 
 &emsp;(2) seek to encourage the development by the representatives of such entities, in coordination with the director, of a plan to coordinate among such public and private programs the provision of services to homeless veterans;
 
-&emsp;(3) take appropriate action to meet, to the maximum extent practicable through existing programs and available resources, the needs ofhomeless veterans that are identified in the assessment conducted under subsection (b); and
+&emsp;(3) take appropriate action to meet, to the maximum extent practicable through existing programs and available resources, the needs of homeless veterans that are identified in the assessment conducted under subsection (b); and
 
 &emsp;(4) attempt to inform homeless veterans whose needs the director cannot meet under paragraph (3) of the services available to such veterans within the area served by such center or office.
 

@@ -26,7 +26,7 @@ This subchapter constitutes budget authority in advance of appropriations Acts a
 
 No State is eligible for payments under section 1397ee of this title for child health assistance for coverage provided for periods beginning before October 1, 1997.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2101, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 552.)
+(Aug. 14, 1935, ch. 531, title XXI, §2101, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552.)
 
 #### Section Referred to in Other Sections
 

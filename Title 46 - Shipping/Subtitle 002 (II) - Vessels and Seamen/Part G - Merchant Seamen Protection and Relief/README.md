@@ -20,5 +20,6 @@ This part is referred to in sections 2113, 14305 of this title.
 - [Chapter 107 - Effects of Deceased Seamen](Chapter%20107%20-%20Effects%20of%20Deceased%20Seamen/README.md)
 - [Chapter 109 - Proceedings on Unseaworthiness](Chapter%20109%20-%20Proceedings%20on%20Unseaworthiness/README.md)
 - [Chapter 111 - Protection and Relief](Chapter%20111%20-%20Protection%20and%20Relief/README.md)
+- [Chapter 112 - Merchant Mariner Benefits](Chapter%20112%20-%20Merchant%20Mariner%20Benefits/README.md)
 - [Chapter 113 - Official Logbooks](Chapter%20113%20-%20Official%20Logbooks/README.md)
 - [Chapter 115 - Offenses and Penalties](Chapter%20115%20-%20Offenses%20and%20Penalties/README.md)

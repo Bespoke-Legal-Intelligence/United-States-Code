@@ -4,7 +4,7 @@
 
 &emsp;(1) who at the time of death was in receipt of compensation (or but for the receipt of retirement pay would have been entitled to compensation) or was in receipt of pension, or
 
-&emsp;(2) who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurredor aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and with respect to whom the Secretary determines—
+&emsp;(2) who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and with respect to whom the Secretary determines—
 
 &emsp;&emsp;(A) that there is no next of kin or other person claiming the body of the deceased veteran, and
 

@@ -18,5 +18,5 @@ Subsec. (b). Pub. L. 103–238, §13(b), inserted “(except as provided in sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1377, 1379, 1383, 1387, 1417 of this title.
+This section is referred to in sections 1377, 1379, 1383, 1387, 1417, 3703 of this title.
 

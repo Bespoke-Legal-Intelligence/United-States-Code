@@ -4,35 +4,37 @@
 
 #### (1) Discretionary expenses
 
-&emsp;There are authorized to be appropriated for each of fiscal years 1995 through 2001 such sums as are necessary to cover—
-
-&emsp;&emsp;(A) the salaries and expenses of the Corporation; and
-
-&emsp;&emsp;(B) the administrative and operating expenses of the Corporation for the sales commissions of agents.
+&emsp;There are authorized to be appropriated for fiscal year 1999 and each subsequent fiscal year such sums as are necessary to cover the salaries and expenses of the Corporation.
 
 #### (2) Mandatory expenses
 
-&emsp;There are authorized to be appropriated such sums as are necessary to cover—
+&emsp;There are authorized to be appropriated such sums as are necessary to cover for each of the 1999 and subsequent reinsurance years—
 
-&emsp;&emsp;(A) in the case of each of the 1995 through 1997 reinsurance years, the administrative and operating expenses of the Corporation for the sales commissions of agents, consistent with subsection (b)(1) of this section; and
+&emsp;&emsp;(A) the administrative and operating expenses of the Corporation for the sales commissions of agents; and
 
 &emsp;&emsp;(B) premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
 
-#### (b) Payment of expenses
+#### (b) Payment of Corporation expenses from insurance fund
 
-#### (1) Administrative and operating expenses
+#### (1) Expenses generally
 
-&emsp;In the case of each of the 1995 through 1997 reinsurance years, the Corporation is authorized to pay from the insurance fund established under subsection (c) of this section, the administrative and operating expenses of an approved insurance provider, including expenses covered by subsection (a)(1)(B) of this section.
+&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) of this section all expenses of the Corporation (other than expenses covered by subsection (a)(1) of this section and expenses covered by paragraph (2)(A)), including—
 
-#### (2) Other expenses
+&emsp;&emsp;(A) premium subsidies and indemnities;
 
-&emsp;The Corporation is authorized to pay from the insurance fund established under subsection (c) of this section—
+&emsp;&emsp;(B) administrative and operating expenses of the Corporation necessary to pay the sales commissions of agents; and
 
-&emsp;&emsp;(A) all other expenses of the Corporation (other than expenses covered by subsection (a)(1) of this section), including all premium subsidies and indemnities;
+&emsp;&emsp;(C) all administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
 
-&emsp;&emsp;(B) in the case of each of the 1995 through 1997 reinsurance years, all administrative and expense reimbursements due under a reinsurance agreement with an approved insurance provider; and
+#### (2) Research and development expenses
 
-&emsp;&emsp;(C) to the extent necessary, expenses incurred by the Corporation to carry out research and development.
+#### (A) In general
+
+&emsp;&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) of this section research and development expenses of the Corporation, but not to exceed $3,500,000 for each fiscal year.
+
+#### (B) Dairy options pilot program
+
+&emsp;&emsp;Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on research and development expenses specified in subparagraph (A).
 
 #### (c) Insurance fund
 
@@ -48,9 +50,35 @@
 
 &emsp;&emsp;(B) the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b) of this section.
 
-(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Sept. 26, 1980, Pub. L. 96–365, title I, §§109, 110, 94 Stat. 1317, 1318; May 22, 1981, Pub. L. 97–11, 95 Stat. 13; Dec. 23, 1985, Pub. L. 99–198, title X, §1021, 99 Stat. 1459; Oct. 13, 1994, Pub. L. 103–354, title I, §110, 108 Stat. 3198; Apr. 4, 1996, Pub. L. 104–127, title I, §193(e), 110 Stat. 945.)
+(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–185, §531(1)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “There are authorized to be appropriated for each of fiscal years 1995 through 2001 such sums as are necessary to cover—
+
+&emsp;“(A) the salaries and expenses of the Corporation; and
+
+&emsp;“(B) the administrative and operating expenses of the Corporation for the sales commissions of agents.”
+
+Subsec. (a)(2). Pub. L. 105–185, §531(1)(B)(i), inserted “for each of the 1999 and subsequent reinsurance years” after “are necessary to cover” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 105–185, §531(1)(B)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “in the case of each of the 1995 through 1997 reinsurance years, the administrative and operating expenses of the Corporation for the sales commissions of agents, consistent with subsection (b)(1) of this section; and”.
+
+Subsec. (b). Pub. L. 105–185, §531(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+
+“(1)
+
+Administrative and operating expenses.—In the case of each of the 1995 through 1997 reinsurance years, the Corporation is authorized to pay from the insurance fund established under subsection (c) of this section, the administrative and operating expenses of an approved insurance provider, including expenses covered by subsection (a)(1)(B) of this section.
+
+“(2)
+
+Other expenses.—The Corporation is authorized to pay from the insurance fund established under subsection (c) of this section—
+
+&emsp;“(A) all other expenses of the Corporation (other than expenses covered by subsection (a)(1) of this section), including all premium subsidies and indemnities;
+
+&emsp;“(B) in the case of each of the 1995 through 1997 reinsurance years, all administrative and expense reimbursements due under a reinsurance agreement with an approved insurance provider; and
+
+&emsp;“(C) to the extent necessary, expenses incurred by the Corporation to carry out research and development.”
 
 1996—Subsec. (a)(2)(C). Pub. L. 104–127, §193(e)(1), struck out subpar. (C) which read as follows: “payments for noninsured assistance losses under section 1519 of this title.”
 
@@ -70,9 +98,13 @@ Subsec. (b)(2)(B). Pub. L. 104–127, §193(e)(2)(B), struck out “subject to p
 
 Subsecs. (c), (d). Pub. L. 96–365, §110, added subsecs. (c) and (d).
 
-1956—Subsec. (a). Act Aug. 3, 1956, added to list of costs which may be considered as nonadministrative or nonoperating, the direct cost of loss adjusters for crop inspections and loss adjustment, and authorized use of premium income for administrative and operating costs within limits prescribed by applicable appropriation.
+1956—Subsec. (a). Act Aug. 3, 1956, added to list of costs which may be considered as nonadministrative ornonoperating, the direct cost of loss adjusters for crop inspections and loss adjustment, and authorized use of premium income for administrative and operating costs within limits prescribed by applicable appropriation.
 
 1941—Subsec. (a). Act June 21, 1941, substituted “the agricultural commodity” for “wheat”, and “$12,000,000” for “$6,000,000”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–185 effective July 1, 1998, see section 537 of Pub. L. 105–185, set out as a note under section 1506 of this title.
 
 #### Effective Date of 1994 Amendment
 

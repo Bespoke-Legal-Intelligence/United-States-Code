@@ -10,7 +10,7 @@
 
 &emsp;(B) the product of—
 
-&emsp;&emsp;(i) the normal-cost percentage, as determined for Members, Congressional employees, law enforcement officers, firefighters, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
+&emsp;&emsp;(i) the normal-cost percentage, as determined for Members, Congressional employees, law enforcement officers, firefighters, nuclear materials couriers, air traffic controllers, military reserve technicians, and employees under sections 302 and 303 of the Central Intelligence Agency Retirement Act, multiplied by
 
 &emsp;&emsp;(ii) the aggregate amount of basic pay payable by the agency, for the period involved, to employees and Members (under clause (i)) who are within such agency.
 
@@ -18,7 +18,7 @@
 
 (3) Contributions under this subsection shall be paid—
 
-&emsp;(A) in the case of law enforcement officers, firefighters, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, firefighters, air traffic controllers, military reserve technicians, or other employees, respectively;
+&emsp;(A) in the case of law enforcement officers, firefighters, nuclear materials couriers, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, firefighters, nuclear materials couriers, air traffic controllers, military reserve technicians, or other employees, respectively;
 
 &emsp;(B) in the case of elected officials, from an appropriation or fund available for payment of other salaries of the same office or establishment; and
 
@@ -48,13 +48,13 @@
 
 (5) For the purpose of carrying out paragraph (1) with respect to any fiscal year, the Office may—
 
-&emsp;(A) require the Board of Actuaries of the Civil Service Retirement System to make actuarial determinations and valuations, make recommendations, and maintain records in thesame manner as provided in section 8347(f); and
+&emsp;(A) require the Board of Actuaries of the Civil Service Retirement System to make actuarial determinations and valuations, make recommendations, and maintain records in the same manner as provided in section 8347(f); and
 
 &emsp;(B) use the latest actuarial determinations and valuations made by such Board of Actuaries.
 
 (c) Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256.)
 
 #### References in Text
 
@@ -62,11 +62,17 @@ Sections 302 and 303 of the Central Intelligence Agency Retirement Act, referred
 
 #### Amendments
 
+1998—Subsec. (a)(1)(B)(i), (3)(A). Pub. L. 105–261 inserted “nuclear materials couriers,” after “firefighters,” wherever appearing.
+
 1996—Subsec. (a)(3)(C). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives” for “Clerk of the House of Representatives, from the contingent fund of the House”.
 
 1992—Subsec. (a)(1)(B)(i). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
 Pub. L. 102–378 substituted “multiplied” for “multipled”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1992 Amendment
 

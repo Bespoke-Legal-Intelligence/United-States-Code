@@ -2,7 +2,7 @@
 
 Whoever robs or attempts to rob another of any kind or description of personal property belonging to the United States, shall be imprisoned not more than fifteen years.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320903(a)(2), 108 Stat. 2124.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 103–322, title XXXII, §320903(a)(2), Sept. 13, 1994, 108 Stat. 2124.)
 
 #### Historical and Revision Notes
 

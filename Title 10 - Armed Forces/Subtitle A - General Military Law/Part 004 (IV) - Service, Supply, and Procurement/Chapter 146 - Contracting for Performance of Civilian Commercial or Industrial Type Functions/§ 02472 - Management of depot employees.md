@@ -20,6 +20,10 @@ The text of section 2466(b) of this title, which was transferred to this section
 
 1996—Subsec. (a). Pub. L. 104–106, §312(b), renumbered section 2466(b) of this title as subsec. (a) of this section.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Submission of Initial Report
 
 Section 312(c) of Pub. L. 104–106 provided that: “The report under subsection (b) of section 2472 of title 10, United States Code, as added by subsection (a), for fiscal year 1996 shall be submitted not later than March 15, 1996 (notwithstanding the date specified in such subsection).”

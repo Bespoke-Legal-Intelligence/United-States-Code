@@ -2,7 +2,7 @@
 
 #### (a) Examinations and interviews
 
-Photographs, x-rays, medical examinations, psychological examinations, and interviews of an Indian child alleged to have been subject to abuse in Indian country shall be allowed without parental consent if local child protective services or local law enforcement officials have reason to believe the child has been subject to abuse.
+Photographs, x-rays, medical examinations, psychological examinations, and interviews of an Indian child alleged to have been subject toabuse in Indian country shall be allowed without parental consent if local child protective services or local law enforcement officials have reason to believe the child has been subject to abuse.
 
 #### (b) Interviews by law enforcement and child protective services officials
 

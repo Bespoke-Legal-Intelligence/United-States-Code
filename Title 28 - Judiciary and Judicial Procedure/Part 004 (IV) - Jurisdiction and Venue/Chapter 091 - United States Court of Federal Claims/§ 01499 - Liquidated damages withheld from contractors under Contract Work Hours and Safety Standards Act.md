@@ -1,6 +1,6 @@
 ### §1499. Liquidated damages withheld from contractors under Contract Work Hours and Safety Standards Act
 
-The United States Court of Federal Claims shall have jurisdiction to render judgment uponany claim for liquidated damages withheld from a contractor or subcontractor under section 104 of the Contract Work Hours and Safety Standards Act.
+The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim for liquidated damages withheld from a contractor or subcontractor under section 104 of the Contract Work Hours and Safety Standards Act.
 
 (June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 87–581, title II, §202(a), Aug. 13, 1962, 76 Stat. 360; Pub. L. 97–164, title I, §133(e)(1), (2)(A), Apr. 2, 1982, 96 Stat. 40, 41; Pub. L. 101–650, title III, §325(b)(7), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -18,13 +18,13 @@ Contract Work Hours and Safety Standards Act, referred to in section catchline a
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1990</b>—Pub. L. 101–650 substituted “Hours and Safety Standards” for “Hours Standards” in text.
+1990—Pub. L. 101–650 substituted “Hours and Safety Standards” for “Hours Standards” in text.
 
-<b>1982</b>—Pub. L. 97–164 substituted “Contract Work Hours and Safety Standards Act” for “Contract Work Hours Standards Act” in section catchline and “United States Claims Court” for “Court of Claims” in text.
+1982—Pub. L. 97–164 substituted “Contract Work Hours and Safety Standards Act” for “Contract Work Hours Standards Act” in section catchline and “United States Claims Court” for “Court of Claims” in text.
 
-<b>1962</b>—Pub. L. 87–581 amended section generally, substituting “Liquidated damages withheld from contractors under Contract Work Hours Standards Act” for “Penalties imposed against contractors under eight hour law” in section catchline, and “liquidated damages withheld from a contractor or subcontractor under section 104 of the Contract Work Hours Standards Act” for “a penalty withheld from a contractor or subcontractor under section 324 of Title 40” in text.
+1962—Pub. L. 87–581 amended section generally, substituting “Liquidated damages withheld from contractors under Contract Work Hours Standards Act” for “Penalties imposed against contractors under eight hour law” in section catchline, and “liquidated damages withheld from a contractor or subcontractor under section 104 of the Contract Work Hours Standards Act” for “a penalty withheld from a contractor or subcontractor under section 324 of Title 40” in text.
 
 #### Effective Date of 1992 Amendment
 

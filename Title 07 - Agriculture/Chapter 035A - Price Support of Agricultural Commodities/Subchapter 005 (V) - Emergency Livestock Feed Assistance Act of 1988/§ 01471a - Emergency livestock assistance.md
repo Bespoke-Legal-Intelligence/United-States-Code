@@ -2,7 +2,7 @@
 
 (a) The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock in any State or area of a State where, because of disease, insect infestation, flood, drought, fire, hurricane, earthquake, storm, hot weather, or other natural disaster, the Secretary determines that a livestock emergency exists.
 
-(b)(1) The Secretary shall provide emergency feed assistance under this subchapter for thepreservation and maintenance of livestock, to livestock producers that—
+(b)(1) The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock, to livestock producers that—
 
 &emsp;(A) conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has determined, under subsection (a) of this section, that a livestock emergency exists, and
 
@@ -10,7 +10,7 @@
 
 (2) The Secretary shall accept applications for assistance under this subsection from producers that are affected by the livestock emergency at any time during the eight-month period beginning on the date on which the Secretary determines that such emergency exists in the other county.
 
-(Oct. 31, 1949, ch. 792, title VI, §603, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 927.)
+(Oct. 31, 1949, ch. 792, title VI, §603, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 927.)
 
 #### Effective Date
 

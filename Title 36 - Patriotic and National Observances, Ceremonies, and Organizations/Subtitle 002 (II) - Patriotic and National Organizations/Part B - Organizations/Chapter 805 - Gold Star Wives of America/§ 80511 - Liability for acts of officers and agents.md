@@ -1,0 +1,22 @@
+### §80511. Liability for acts of officers and agents
+
+The corporation is liable for the acts of its officers and agents acting within the scope of their authority and in accordance with the laws of the States in which it carries on its activities.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1364.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+80511
+
+36:1609.
+
+Dec. 4, 1980, Pub. L. 96–497, §9, 94 Stat. 2596.
+

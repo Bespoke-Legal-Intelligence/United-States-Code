@@ -238,11 +238,11 @@ For the purposes of this subpart and title I of the Agricultural Act of 1949 (7 
 
 Notwithstanding any other provision of law, this section shall be effective only for the 1991 through 2002 crops of peanuts.
 
-(Feb. 16, 1938, ch. 30, title III, §358–1, as added Nov. 28, 1990, Pub. L. 101–624, title VIII, §802, 104 Stat. 3459; amended Dec. 13, 1991, Pub. L. 102–237, title I, §117(b)(2)(B), 105 Stat. 1841; Aug. 10, 1993, Pub. L. 103–66, title I, §1109(c)(1), 107 Stat. 326; Apr. 4, 1996, Pub. L. 104–127, title I, §155(i)(1)(A), (2)–(4)(A), (5), 110 Stat. 927–929.)
+(Feb. 16, 1938, ch. 30, title III, §358–1, as added Pub. L. 101–624, title VIII, §802, Nov. 28, 1990, 104 Stat. 3459; amended Pub. L. 102–237, title I, §117(b)(2)(B), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1109(c)(1), Aug. 10, 1993, 107 Stat. 326; Pub. L. 104–127, title I, §155(i)(1)(A), (2)–(4)(A), (5), Apr. 4, 1996, 110 Stat. 927–929.)
 
 #### References in Text
 
-The Agricultural Act of 1949, as amended, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051,as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, as amended, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 
@@ -290,7 +290,7 @@ Subsec. (b)(8). Pub. L. 104–127, §155(i)(5), added par. (8).
 
 Pub. L. 104–127, §155(i)(4)(A)(iii), struck out par. (8) which provided for increase in quota for undermarketings in previous marketing years.
 
-Subsec. (b)(9). Pub. L. 104–127, §155(i)(4)(A)(iii), struck out heading and text of par. (9). Prior to amendment, text read as follows: “Notwithstanding the foregoing provisions of this subsection, if the total of all increases in individual farm poundage quotas under paragraph (8) exceeds 10 percent of the national poundage quota for the marketing year in which the increases shall be applicable, the Secretary shall adjust the increases so that the total of all the increases does not exceed 10 percent of the national poundage quota.”
+Subsec. (b)(9). Pub. L. 104–127, §155(i)(4)(A)(iii), struck out heading and text of par. (9). Prior to amendment,text read as follows: “Notwithstanding the foregoing provisions of this subsection, if the total of all increases in individual farm poundage quotas under paragraph (8) exceeds 10 percent of the national poundage quota for the marketing year in which the increases shall be applicable, the Secretary shall adjust the increases so that the total of all the increases does not exceed 10 percent of the national poundage quota.”
 
 Subsec. (f). Pub. L. 104–127, §155(i)(1)(A)(vii), substituted “2002” for “1997”.
 

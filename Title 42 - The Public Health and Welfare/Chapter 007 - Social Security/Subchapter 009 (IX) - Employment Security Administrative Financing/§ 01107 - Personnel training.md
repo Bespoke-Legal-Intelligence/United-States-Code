@@ -22,7 +22,7 @@ The Secretary, with the concurrence of the State, may detail Federal employees t
 
 There are hereby authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter such sums, not to exceed $5,000,000, as may be necessary to carry out the purposes of this section.
 
-(Aug. 14, 1935, ch. 531, title IX, §907, as added Aug. 10, 1970, Pub. L. 91–373, title I, §141, 84 Stat. 705.)
+(Aug. 14, 1935, ch. 531, title IX, §907, as added Pub. L. 91–373, title I, §141, Aug. 10, 1970, 84 Stat. 705.)
 
 #### References in Text
 

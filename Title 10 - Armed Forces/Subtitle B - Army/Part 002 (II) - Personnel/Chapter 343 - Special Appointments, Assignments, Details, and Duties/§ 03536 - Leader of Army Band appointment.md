@@ -6,7 +6,7 @@
 
 (c) Upon retirement, the leader of the Army band has the grade of warrant officer, with the retired pay to which he would have been entitled had he not been appointed leader.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 201; Sept. 7, 1962, Pub. L. 87–649, §14c(5), 76 Stat. 501.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 201; Pub. L. 87–649, §14c(5), Sept. 7, 1962, 76 Stat. 501.)
 
 Historical and Revision Notes
 

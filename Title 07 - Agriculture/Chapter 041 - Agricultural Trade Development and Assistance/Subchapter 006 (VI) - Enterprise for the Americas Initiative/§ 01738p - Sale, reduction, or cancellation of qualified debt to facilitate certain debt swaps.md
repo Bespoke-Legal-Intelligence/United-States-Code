@@ -52,7 +52,7 @@ The proceeds from the sale, reduction, or cancellation of qualified debt pursuan
 
 As used in this section, the term “eligible debt swap” means a debt-for-development swap or debt-for-nature swap.
 
-(July 10, 1954, ch. 469, title VI, §617, as added Oct. 27, 1992, Pub. L. 102–532, §2, 106 Stat. 3510.)
+(July 10, 1954, ch. 469, title VI, §617, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3510.)
 
 #### Section Referred to in Other Sections
 

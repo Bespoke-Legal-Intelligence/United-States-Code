@@ -14,7 +14,7 @@ Grants provided under this section shall—
 
 &emsp;(3) facilitate tribal control in all matters relating to the education of Indian children on Indian reservations and on former Indian reservations in Oklahoma,
 
-&emsp;(4) provide for the development of coordinated educational programs on Indian reservations (including all preschool, elementary, secondary, and higher or vocational educational programs funded by tribal, Federal, or other sources) by encouraging tribal administrative support of all Bureau funded educational programs as well as encouraging tribal cooperation and coordination with all educational programs receiving financial support from State agencies, other Federal agencies, or private entities,
+&emsp;(4) provide for the development of coordinated educational programs on Indian reservations (including all preschool, elementary, secondary, and higher or vocational educational programs funded by tribal, Federal, or other sources) by encouraging tribal administrative support of all Bureau funded educational programs as well as encouraging tribal cooperation and coordination with all educational programs receiving financial support fromState agencies, other Federal agencies, or private entities,
 
 &emsp;(5) provide for the development and enforcement of tribal educational codes, including tribal educational policies and tribal standards applicable to curriculum, personnel, students, facilities, and support programs, and
 
@@ -30,7 +30,7 @@ Grants provided under this section shall—
 
 &emsp;&emsp;(ii) the distribution of all funds received under the unified application will be equal to the amount of funds provided by the applicable agency to which each of such schools is entitled under law,
 
-&emsp;(B) includes assurances from the tribal governing body that the tribal department of education funded under this section will administer all contracts or grants (except those covered by the other provisions of this chapter and the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\]) for education programs administered by the tribe and will coordinate all of the programs to the greatest extent possible,
+&emsp;(B) includes assurances from the tribal governing body that the tribal department of education funded under this section will administer all contracts or grants (except those covered by the other provisions of this chapter and the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\]) for education programs administered by the tribe and will coordinate all of the programs to the greatest extent possible,
 
 &emsp;(C) includes assurances for the monitoring and auditing by or through the tribal department of education of all education programs for which funds are provided by contract or grant to ensure that the programs meet the requirements of law, and
 
@@ -52,13 +52,21 @@ The Secretary shall not impose any terms, conditions, or requirements on the pro
 
 For the purpose of carrying out the provisions of this section, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the fiscal years 1996, 1997, 1998, and 1999.
 
-(Pub. L. 95–561, title XI, §1144, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4013.)
+(Pub. L. 95–561, title XI, §1144, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4013; amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XI (§§1101–1152) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (c)(1)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (c)(1)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (c)(1)(B). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

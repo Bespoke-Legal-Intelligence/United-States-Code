@@ -42,7 +42,7 @@ Notwithstanding any other provision of law:
 
 &emsp;(II) In defining the term “person” as it will apply to irrevocable trusts and estates, the Secretary shall ensure that fair and equitable treatment is given to trusts and estates and the beneficiaries thereof.
 
-&emsp;(III) Notwithstanding any other provision of law, to be considered a separate person under this section, an irrevocable trust (other than a trust established prior to January 1, 1987) must not allow for modification or termination of the trust by the grantor, allow for the grantor to have any future, contingent, or remainder interest in the corpus of the trust, or provide for the transfer of the corpus of the trust to the remainder beneficiary in less than 20 years from the date the trust is establishedexcept in cases where the transfer is contingent on the remainder beneficiary achieving at least the age of majority or is contingent on the death of the grantor or income beneficiary.
+&emsp;(III) Notwithstanding any other provision of law, to be considered a separate person under this section, an irrevocable trust (other than a trust established prior to January 1, 1987) must not allow for modification or termination of the trust by the grantor, allow for the grantor to have any future, contingent, or remainder interest in the corpus of the trust, or provide for the transfer of the corpus of the trust to the remainder beneficiary in less than 20 years from the date the trust is established except in cases where the transfer is contingent on the remainder beneficiary achieving at least the age of majority or is contingent on the death of the grantor or income beneficiary.
 
 &emsp;(iii) The regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that, for the purpose of the application of the limitations established under this section—
 
@@ -118,7 +118,7 @@ Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designate
 
 Par. (2)(A). Pub. L. 100–203, §1301(a)(2)(A), substituted “Subject to sections 1308–1 through 1308–3 of this title, for each” for “For each”.
 
-Par. (2)(C). Pub. L. 100–203, §1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such crop under the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
+Par. (2)(C). Pub. L. 100–203, §1307, struck out cl. (ii) designation, and struck out cl. (i) which read as follows: “The total amount of loans on a crop of honey that a person may have outstanding at any one time under the annual program established for such cropunder the Agricultural Act of 1949 may not exceed $250,000 less the amount of payments, as described in paragraph (1) and subparagraphs (A) and (B) of this paragraph, received by such person for the crop year involved.”
 
 Pub. L. 100–203, §1301(a)(2)(B), which directed substitution of “Subject to sections 1308–1 through 1308–3 of this title, the total” for “The total” could not be executed in view of amendments by Pub. L. 100–71 and section 1307 of Pub. L. 100–203.
 
@@ -144,7 +144,7 @@ Par. (3). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), temporarily substi
 
 Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted “lands or animals owned” for“lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
 
 #### Effective Date of 1990 Amendment
 
@@ -226,7 +226,7 @@ Section 108(c) of Pub. L. 99–500 and Pub. L. 99–591 provided that:
 
 “(B) The Secretary also shall review the amendments to section 1001 of the Food Security Act of 1985 made by this section.
 
-“(2) Based on the reviews conducted under paragraph (1), the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry ofthe Senate and the Committee on Agriculture of the House of Representatives, not later than March 1, 1987, a report on such reviews and—
+“(2) Based on the reviews conducted under paragraph (1), the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives, not later than March 1, 1987, a report on such reviews and—
 
 &emsp;“(A) with respect to the matters reviewed under paragraph (1)(A), proposed regulations or amendments to regulations, to take effect not earlier than October 1, 1987, that will meet the object with respect to limitations specified in paragraph (1)(A); and
 

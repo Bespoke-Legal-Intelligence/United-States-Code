@@ -2,7 +2,7 @@
 
 The Secretary of Commerce, in cooperation with the United States Postal Service, may arrange a plan by which there shall be displayed on all cars and other conveyances used for transporting United States mail suitable flags or other signals to indicate weather forecasts, cold-wave warnings, frost warnings, and so forth, to be furnished by the Secretary.
 
-(Apr. 25, 1896, ch. 140, 29 Stat. 108; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773.)
+(Apr. 25, 1896, ch. 140, 29 Stat. 108; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773.)
 
 #### Transfer of Functions
 

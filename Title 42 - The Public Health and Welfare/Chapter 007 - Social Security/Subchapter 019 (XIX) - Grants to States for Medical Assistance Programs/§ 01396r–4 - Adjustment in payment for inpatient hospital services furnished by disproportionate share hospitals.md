@@ -2,7 +2,7 @@
 
 #### (a) Implementation of requirement
 
-(1) A State plan under this subchapter shall not be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs), as of July 1, 1988, unless the State has submitted to the Secretary, by not later than such date, an amendment to such plan that—
+(1) A State plan under this subchapter shall not be considered to meet the requirement ofsection 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs), as of July 1, 1988, unless the State has submitted to the Secretary, by not later than such date, an amendment to such plan that—
 
 &emsp;(A) specifically defines the hospitals so described (and includes in such definition any disproportionate share hospital described in subsection (b)(1) of this section which meets the requirements of subsection (d) of this section), and
 
@@ -28,7 +28,7 @@
 
 &emsp;(B) the hospital's low-income utilization rate (as defined in paragraph (3)) exceeds 25 percent.
 
-(2) For purposes of paragraph (1)(A), the term “medicaid inpatient utilization rate” means, for a hospital, a fraction (expressed as a percentage), the numerator of which is the hospital's number of inpatient days attributable to patients who (for such days) were eligible for medical assistance under a State plan approved under this subchapter in a period, and the denominator of which is the total number of the hospital's inpatient days in that period. In this paragraph, the term “inpatient day” includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized wardand whether or not the individual remains in the hospital for lack of suitable placement elsewhere.
+(2) For purposes of paragraph (1)(A), the term “medicaid inpatient utilization rate” means, for a hospital, a fraction (expressed as a percentage), the numerator of which is the hospital's number of inpatient days attributable to patients who (for such days) were eligible for medical assistance under a State plan approved under this subchapter in a period, and the denominator of which is the total number of the hospital's inpatient days in that period. In this paragraph, the term “inpatient day” includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized ward and whether or not the individual remains in the hospital for lack of suitable placement elsewhere.
 
 (3) For purposes of paragraph (1)(B), the term “low-income utilization rate” means, for a hospital, the sum of—
 
@@ -80,7 +80,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (e) Special rule
 
-(1) A State plan shall be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs) without regard to the requirement of subsection (a) of this section if (A)(i) the plan provided for payment adjustments based on a pooling arrangement involving a majority of the hospitals participating under the plan for disproportionate share hospitals as of January 1, 1984, or (ii) the plan as of January 1, 1987, provided for payment adjustments based on a statewide pooling arrangement involving all acute care hospitals and the arrangement provides for reimbursement of the total amount of uncompensated care provided by each participating hospital, (B) the aggregate amount of the payment adjustments under the plan for such hospitals is not less than the aggregate amount of such adjustments otherwise required to be made under such subsection, and (C) the plan meets the requirement of subsection (d)(3) of this section and such payment adjustments are made consistent with the last sentence of subsection (c) of this section.
+(1) A State plan shall be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs) without regard to the requirement of subsection (a) of this section if (A)(i) the plan provided for payment adjustments based on a pooling arrangement involving a majority of the hospitals participating under the plan for disproportionate share hospitals as of January 1, 1984, or (ii) the plan as of January 1, 1987, provided for payment adjustments based on a statewide pooling arrangement involving all acute care hospitalsand the arrangement provides for reimbursement of the total amount of uncompensated care provided by each participating hospital, (B) the aggregate amount of the payment adjustments under the plan for such hospitals is not less than the aggregate amount of such adjustments otherwise required to be made under such subsection, and (C) the plan meets the requirement of subsection (d)(3) of this section and such payment adjustments are made consistent with the last sentence of subsection (c) of this section.
 
 (2) In the case of a State that used a health insuring organization before January 1, 1986, to administer a portion of its plan on a statewide basis, beginning on July 1, 1988—
 
@@ -163,7 +163,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (A) In general
 
-&emsp;&emsp;The DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year isequal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraph (B), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
+&emsp;&emsp;The DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraph (B), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
 
 #### (B) Limitation
 
@@ -183,7 +183,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (A) In general
 
-&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) of this section with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year. For purposes of the preceding sentence, payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party payment.
+&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent withsubsection (c) of this section with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year. For purposes of the preceding sentence, payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party payment.
 
 #### (B) Limit to public hospitals during transition period
 
@@ -227,7 +227,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (B) Applicable percentage of 1995 total DSH payment allotment
 
-&emsp;&emsp;The amount of such payment adjustments which are equal to the applicable percentageof the Federal share of payment adjustments made to hospitals in the State under subsection (c) of this section that are attributable to the 1995 DSH allotment for the State for payments to institutions for mental diseases and other mental health facilities (based on reporting data specified by the State on HCFA Form 64 as mental health DSH, and as approved by the Secretary).
+&emsp;&emsp;The amount of such payment adjustments which are equal to the applicable percentage of the Federal share of payment adjustments made to hospitals in the State under subsection (c) of this section that are attributable to the 1995 DSH allotment for the State for payments to institutions for mental diseases and other mental health facilities (based on reporting data specified by the State on HCFA Form 64 as mental health DSH, and as approved by the Secretary).
 
 #### (2) Applicable percentage
 
@@ -271,7 +271,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;Paragraph (1) shall not apply to a payment adjustment provided pursuant to a payment arrangement in effect on July 1, 1997.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended July 1, 1988, Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), 102 Stat. 752, 792–794; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), 102 Stat. 2417, 2421, 2422; Dec. 19, 1989, Pub. L. 101–239, title VI, §6411(c)(1), 103 Stat. 2270; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), 104 Stat. 1388–171; Dec. 12, 1991, Pub. L. 102–234, §§3(b)(1), (2)(A), (c), 105 Stat. 1799, 1802, 1803; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), 107 Stat. 629–631; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), 111 Stat. 508, 511, 513, 514.)
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514.)
 
 #### References in Text
 
@@ -433,11 +433,21 @@ Amendment by section 302(b)(2) of Pub. L. 100–360 effective July 1, 1988, see 
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(k)(6)(A)–(B)(ix) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
-#### DSH Allotments for 1998
+#### DSH Allotments for Specific Years
 
-Pub. L. 105–78, title VI, §601, Nov. 13, 1997, 111 Stat. 1519, provided that: “The amount of the DSH allotment for the State of Minnesota for fiscal year 1998, specified in the table under section 1923(f)(2) of the Social Security Act \[subsection (f)(2) of this section\] (as amended by section 4721(a)(1) of Public Law 105–33) is deemed to be $33,000,000.”
+Pub. L. 105–277, div. A, §101(f) \[title VII, §702\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: “The amount of the DSH allotment for the State of Minnesota for fiscal year 1999, specified in the table under section 1923(f)(2) of the Social Security Act \[subsection (f)(2) of this section\] (as amended by section 4721(a)(1) of Public Law 105–33) is deemed to be $33,000,000.”
 
-Pub. L. 105–78, title VI, §602, Nov. 13, 1997, 111 Stat. 1519, provided that: “Notwithstanding section 1923(f)(2) of the Social Security Act (42 U.S.C. 1396r–4(f)(2)) (as amended by section 4721(a)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 511)), the amount of the DSH allotment for Wyoming for fiscal year 1998 is deemed to be $67,000.”
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 105–78, title VI, §601, Nov. 13, 1997, 111 Stat. 1519.
+
+Pub. L. 105–277, div. A, §101(f) \[title VII, §703\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: “The amount of the DSH allotment for the State of New Mexico for fiscal year 1999, specified in the table under section 1923(f)(2) of the Social Security Act \[subsection (f)(2) of this section\] (as amended by section 4721(a)(1) of Public Law 105–33) is deemed to be $9,000,000.”
+
+Pub. L. 105–277, div. A, §101(f) \[title VII, §704\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: “Notwithstanding section 1923(f)(2) of the Social Security Act (42 U.S.C. 1396r–4(f)(2)) (as amended by section 4721(a)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 511)\[)\], the amount of the DSH allotment for Wyoming for fiscal year 1999 is deemed to be $95,000.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 105–78, title VI, §602, Nov. 13, 1997, 111 Stat. 1519.
 
 #### California Transition Rule
 

@@ -32,7 +32,7 @@ The Secretary is authorized to:
 
 #### (b) Use of facilities
 
-Any of the activities authorized by subsection (a) of this section may be conducted through Department research and development facilities.The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
+Any of the activities authorized by subsection (a) of this section may be conducted through Department research and development facilities. The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
 
 #### (c) Funding
 

@@ -20,7 +20,7 @@
 
 > a medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, as the case may be, may be awarded to the person concerned within two years after the date of that determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 216; July 5, 1960, Pub. L. 86–582, §1(1), 74 Stat. 320.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 216; Pub. L. 86–582, §1(1), July 5, 1960, 74 Stat. 320.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this chapter, such sums to remain available until expended. No appropriation hereafter available for assisting local organizations in preparing and carrying out plans for works of improvement under the provisions of section 1003 of this title or clause (a) of section 1006a of this title shall be available for any works of improvement pursuant to this chapter or otherwise in connection with the eleven watershed improvement programs authorized by section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, or for making loans or advancements to State and local agencies as authorized by clause (b) of section 1006a of this title.
 
-(Aug. 4, 1954, ch. 656, §10, formerly §8, 68 Stat. 668; renumbered §10, Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1090; amended May 13, 1960, Pub. L. 86–468, §3, 74 Stat. 132.)
+(Aug. 4, 1954, ch. 656, §10, formerly §8, 68 Stat. 668; renumbered §10, Aug. 7, 1956, ch. 1027, §1(g), 70 Stat. 1090; amended Pub. L. 86–468, §3, May 13, 1960, 74 Stat. 132.)
 
 #### References in Text
 

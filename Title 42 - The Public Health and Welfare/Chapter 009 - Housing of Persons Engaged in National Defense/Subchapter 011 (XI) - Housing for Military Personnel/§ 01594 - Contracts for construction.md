@@ -6,7 +6,7 @@ The Secretary of Defense or his designee is authorized to enter into contracts w
 
 #### (b) “Eligible bidder” defined
 
-For the purposes of this subchapter, the term “eligible bidder” means a person, partnership, firm, or corporation determined by the Secretary of Defense after consultation with the Secretary of Housing and Urban Development (1) to be qualified by experience and financial responsibility to construct housing of the type described in subsection (a) of this section, and (2) to have submitted the lowest acceptable bid.
+For the purposes of this subchapter, the term “eligible bidder” means a person, partnership,firm, or corporation determined by the Secretary of Defense after consultation with the Secretary of Housing and Urban Development (1) to be qualified by experience and financial responsibility to construct housing of the type described in subsection (a) of this section, and (2) to have submitted the lowest acceptable bid.
 
 #### (c) Acquisition of capital stock of property covered by mortgage
 
@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, the Secretary of Defense or his desi
 
 On request by the Secretary of Defense, the Attorney General shall furnish to the Secretary of Defense, or his designee, an opinion as to the sufficiency of title to any property on which it is proposed to construct housing, or on which housing has been constructed, under this section. If the opinion of the Attorney General is that the title to any such property is good and sufficient, the Secretary of Defense is authorized to guarantee, or enter into a commitment to guarantee, the mortgagee, under a mortgage on such property which is insured under title VIII of the National Housing Act \[12 U.S.C. 1748 et seq.\], against any losses that may thereafter arise from adverse claims to title. None of the proceeds of any mortgage loan hereafter insured under such title VIII shall be used for title search and title insurance costs: <i>Provided</i>, That if the Secretary of Defense, or his designee, determines in the case of any housing project, that the financing of the construction of such project is impossible unless title insurance is provided, the Secretary of Defense may provide for the payment of the reasonable costs necessary for obtaining title search and title insurance. Any payments by the Secretary of Defense hereunder shall be made from the revolving fund established under section 1594a(g) <sup>1</sup> of this title. Any determination by the Secretary of Defense under the foregoing proviso shall be set forth in writing, together with the reasons therefor. The Committees on Armed Services of the Senate and House of Representatives shall be promptly notified of each such determination, and of the amount of any payment made by the Secretary of Defense for title search and title insurance costs.
 
-(Aug. 11, 1955, ch. 783, title IV, §403, 69 Stat. 651; Aug. 7, 1956, ch. 1029, title V, §§506(b)–(d), 507, 70 Stat. 1110; Aug. 10, 1959, Pub. L. 86–149, title IV, §415, 73 Stat. 323; May 25, 1967, Pub. L. 90–19, §12(d), (h)(1)–(3), 81 Stat. 23, 24.)
+(Aug. 11, 1955, ch. 783, title IV, §403, 69 Stat. 651; Aug. 7, 1956, ch. 1029, title V, §§506(b)–(d), 507, 70 Stat. 1110; Pub. L. 86–149, title IV, §415, Aug. 10, 1959, 73 Stat. 323; Pub. L. 90–19, §12(d), (h)(1)–(3), May 25, 1967, 81 Stat. 23, 24.)
 
 #### References in Text
 
@@ -43,10 +43,6 @@ Subsec. (d). Pub. L. 90–19, §12(h)(3), substituted “Secretary of Defense”
 1956—Subsec. (a). Act Aug. 7, 1956, §§506(b), (c), (d), 507, substituted “eligible bidder” for “eligible builder” in first sentence; substituted “the mortgagor” for “the builder” in two places in third sentence; inserted provision before last sentence, relating to furnishing by contractor of a performance bond and a payment bond with surety satisfactory to Secretary; and struck out from last sentence “with any builder” after “Before the Secretary shall enter into any contract”.
 
 Subsec. (b). Act Aug. 7, 1956, §506(b), substituted “eligible bidder” for “eligible builder”.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

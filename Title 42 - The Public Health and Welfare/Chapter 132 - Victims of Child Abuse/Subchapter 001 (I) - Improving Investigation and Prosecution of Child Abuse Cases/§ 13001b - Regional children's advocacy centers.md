@@ -8,7 +8,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;(2) provide support for nonoffending family members;
 
-&emsp;(3) enhance coordination among community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases; and
+&emsp;(3) enhance coordination among community agencies and professionals involved in theintervention, prevention, prosecution, and investigation systems that respond to child abuse cases; and
 
 &emsp;(4) train physicians and other health care and mental health care professionals in the multidisciplinary approach to child abuse so that trained medical personnel will be available to provide medical support to community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases.
 
@@ -20,7 +20,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;&emsp;(A) establish regional children's advocacy program centers;
 
-&emsp;&emsp;(B) fund existing regional centers with expertise in the prevention, judicial handling,and treatment of child abuse and neglect; and
+&emsp;&emsp;(B) fund existing regional centers with expertise in the prevention, judicial handling, and treatment of child abuse and neglect; and
 
 &emsp;&emsp;(C) fund the establishment of freestanding facilities in multidisciplinary programs within communities that have yet to establish such facilities,
 

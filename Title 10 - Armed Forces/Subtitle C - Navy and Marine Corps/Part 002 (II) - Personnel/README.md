@@ -1,11 +1,6 @@
 ## PART II—PERSONNEL
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | <b>\[531.</b> | <b>Repealed.\]</b> |  |
 | [<b>533.</b>](Chapter%20533%20-%20Distribution%20in%20Grade/README.md) | <b>Distribution in Grade</b> | <b>5441</b> |

@@ -22,11 +22,11 @@ The Secretary may prescribe the manner in which a mortgage may be accepted for i
 
 #### (d) Entitlement of mortgagee to benefits
 
-Any mortgagee under a mortgage insured under this section is entitled to the benefits ofthe insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
+Any mortgagee under a mortgage insured under this section is entitled to the benefits of the insurance as provided in section 1710(a) of this title with respect to mortgages insured under section 1709 of this title.
 
 #### (e) Applicability of other provisions
 
-The provisions of subsections (b), (c), (d), (e), (f), (g), (h), (j), and (k) of section 1710 of this title shall apply to mortgages insured under this section, except that as applied to those mortgages (1) all references to the Fund, or Mutual Mortgage Insurance Fund, shall refer to the General Insurance Fund, and (2) all references to section 1709 of this title shall refer to this section.
+The provisions of subsections (b), (c), (d), (e), (f), (g), (h),<sup>2</sup> (j), and (k) <sup>2</sup> of section 1710 of this title shall apply to mortgages insured under this section, except that as applied to those mortgages (1) all references to the Fund, or Mutual Mortgage Insurance Fund, shall refer to the General Insurance Fund, and (2) all references to section 1709 of this title shall refer to this section.
 
 #### (f) Transfer of insurance on mortgages covering single-family dwellings or one-family units in condominium projects if mortgage is assumed by serviceman
 
@@ -34,13 +34,17 @@ The Secretary is authorized to transfer to this section the insurance on any mor
 
 #### (g) Extension of period of ownership where serviceman dies while on active duty
 
-Where a serviceman dies while on active duty in the armed forces of the United States or in the United States Coast Guard or in the United States National Oceanic and Atmospheric Administration, leaving a surviving widow as owner of the property, the period of ownership by the serviceman (within the meaning of subsection (c) of this section) shall extend for two years beyond the date of the serviceman's death or until the date the widow disposes of the property, whichever date occurs first. The Secretary of Defense or the Secretary of Transportation, or the Secretary of Commerce, as the case may be, shall notify such widow promptly following the serviceman's death of the additional costs to be borne by the mortgagor following termination of the two-year period.
+Where a serviceman dies while on active duty in the armed forces of the United States or in the United States Coast Guard or in the United States National Oceanic and Atmospheric Administration, leaving a surviving widow as owner of the property, the period of ownership by the serviceman (within the meaning of subsection (c) of this section) shall extend for two years beyond the date of the serviceman's death or until the date the widow disposes of the property, whichever date occurs first. The Secretary of Defense or the Secretary of Transportation,or the Secretary of Commerce, as the case may be, shall notify such widow promptly following the serviceman's death of the additional costs to be borne by the mortgagor following termination of the two-year period.
 
 (June 27, 1934, ch. 847, title II, §222, as added Aug. 2, 1954, ch. 649, title I, §124, 68 Stat. 603; amended Pub. L. 85–104, title I, §§103, 112, July 12, 1957, 71 Stat. 296, 297; Pub. L. 86–372, title I, §§111, 116(b), Sept. 23, 1959, 73 Stat. 661, 664; Pub. L. 88–560, title I, §115, Sept. 2, 1964, 78 Stat. 779; Pub. L. 89–117, title II, §212, title XI, §1108(j), Aug. 10, 1965, 79 Stat. 470, 505; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title III, §301, Aug. 1, 1968, 82 Stat. 505; Pub. L. 91–152, title I, §§102(c), 105, 113(f), Dec. 24, 1969, 83 Stat. 380, 381, 384; Pub. L. 91–621, §7(b), Dec. 31, 1970, 84 Stat. 1865; Pub. L. 93–383, title III, §§302(d), 310(c), Aug. 22, 1974, 88 Stat. 676, 682; Pub. L. 95–128, title III, §§303(d), 304(c), Oct. 12, 1977, 91 Stat. 1132, 1133; Pub. L. 96–153, title III, §312(c), Dec. 21, 1979, 93 Stat. 1116; Pub. L. 96–399, title III, §336(c), Oct. 8, 1980, 94 Stat. 1654; Pub. L. 100–242, title IV, §406(b)(14), Feb. 5, 1988, 101 Stat. 1901.)
 
 #### References in Text
 
 The General Insurance Fund, referred to in text, was established by section 1735c of this title.
+
+Subsection (h) of section 1710 of this title, referred to in subsec. (e), was redesignated subsec. (i) by Pub. L. 105–276, title VI, §602(1), Oct. 21, 1998, 112 Stat. 2674.
+
+Subsection (k) of section 1710 of this title, referred to in subsec. (e), was repealed by Pub. L. 105–276, title VI, §601(c), Oct. 21, 1998, 112 Stat. 2673.
 
 #### Codification
 
@@ -105,4 +109,6 @@ Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured
 This section is referred to in sections 1709, 1715q of this title; title 10 sections 2831, 2833.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “mortgagee”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

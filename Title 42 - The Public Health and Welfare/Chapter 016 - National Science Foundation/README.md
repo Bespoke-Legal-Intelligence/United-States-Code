@@ -41,6 +41,13 @@
 | (f) | Functions of Director. |
 | (g) | Definitions. |
 | [1862j.](%C2%A7%2001862j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1862k.](%C2%A7%2001862k%20-%20Findings%3B%20core%20strategies.md) | Findings; core strategies. |
+| (a) | Findings. |
+| (b) | Core strategies. |
+| 1862<i>l</i>. | National research facilities. |
+| (a) | Facilities plan. |
+| (b) | Status of facilities under construction. |
+| [1862m.](%C2%A7%2001862m%20-%20Financial%20disclosure.md) | Financial disclosure. |
 | [1863\.](%C2%A7%2001863%20-%20National%20Science%20Board.md) | National Science Board. |
 | (a) | Composition; appointment; establishment of policies of the Foundation. |
 | (b) | Executive Committee; delegation of powers and functions. |
@@ -53,13 +60,13 @@
 | (i) | Committees; survey and advisory functions. |
 | (j) | Report to President; submittal to Congress. |
 | (k) | Closed meetings. |
-| (k) | Financial disclosure report for Board members. |
+| (<i>l</i>) | Financial disclosure report for Board members. |
 | [1864\.](%C2%A7%2001864%20-%20Director%20of%20Foundation.md) | Director of Foundation. |
 | (a) | Appointment; compensation; term of office. |
 | (b) | Exercise of authority of Foundation; actions as final and binding upon the Foundation. |
 | (c) | Delegation and redelegation of functions. |
 | (d) | Formulation of programs. |
-| (e) | Authority to grant, contract, etc.; delegation of authority or imposition of conditions; reporting requirement; termination of provisions. |
+| (e) | Authority to grant, contract, etc.; delegation of authority or imposition of conditions; reporting requirement. |
 | (f) | Status; power to vote and hold office. |
 | [1864a.](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md) | Deputy Director of the Foundation. |
 | [1865\.](%C2%A7%2001865%20-%20Executive%20Committee.md) | Executive Committee. |
@@ -73,6 +80,11 @@
 | [1869\.](%C2%A7%2001869%20-%20Scholarships%20and%20graduate%20fellowships.md) | Scholarships and graduate fellowships. |
 | [1869a.](%C2%A7%2001869a%20-%20Contracts%20for%20precollege%20science%20or%20engineering%20curriculum%20development%20activities%3B%20inspection%20of%20materials%20by%20parent%20or%20guardian.md) | Contracts for precollege science or engineering curriculum development activities; inspection of materials by parent or guardian. |
 | [1869b.](%C2%A7%2001869b%20-%20Issuance%20of%20instructions%20to%20grantees%20of%20pre-college%20curriculum%20projects.md) | Issuance of instructions to grantees of pre-college curriculum projects. |
+| [1869c.](%C2%A7%2001869c%20-%20Low-income%20scholarship%20program.md) | Low-income scholarship program. |
+| (1) | Establishment. |
+| (2) | Eligibility. |
+| (3) | Limitation. |
+| (4) | Funding. |
 | [1870\.](%C2%A7%2001870%20-%20General%20authority%20of%20Foundation.md) | General authority of Foundation. |
 | [1870a.](%C2%A7%2001870a%20-%20Buy-American%20requirements.md) | Buy-American requirements. |
 | (a) | Award of contracts. |
@@ -113,14 +125,13 @@
 | [1884\.](%C2%A7%2001884%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93159%2C%20title%20I%2C%20%C2%A7109%28h%29%2C%20Nov.%2022%2C%201985%2C%2099%20Stat.%20890.md) | Repealed. |
 | [1885\.](%C2%A7%2001885%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20policy%20respecting%20equal%20opportunities%20in%20science%20and%20engineering.md) | Congressional statement of findings and declaration of policy respecting equal opportunities in science and engineering. |
 | [1885a.](%C2%A7%2001885a%20-%20Women%20in%20science%20and%20engineering%3B%20support%20of%20activities%20by%20Foundation%20for%20promotion%2C%20etc.md) | Women in science and engineering; support of activities by Foundation for promotion, etc. |
-| [1885b.](%C2%A7%2001885b%20-%20Minorities%20in%20science%20and%20engineering%3B%20support%20of%20program%20and%20activities%20by%20Foundation%20for%20promotion%2C%20etc.%3B%20report%20to%20Congress.md) | Minorities in science and engineering; support of program and activities by Foundation for promotion, etc.; report to Congress. |
+| [1885b.](%C2%A7%2001885b%20-%20Participation%20in%20science%20and%20engineering%20of%20minorities%20and%20persons%20with%20disabilities.md) | Participation in science and engineering of minorities and persons with disabilities. |
 | [1885c.](%C2%A7%2001885c%20-%20Committee%20on%20Equal%20Opportunities%20in%20Science%20and%20Engineering.md) | Committee on Equal Opportunities in Science and Engineering. |
 | (a) | Establishment; purposes. |
 | (b) | Membership; Chairperson; term of members. |
-| (c) | Subcommittee on Women in Science and Engineering; purposes; membership. |
-| (d) | Subcommittee on Minorities in Science and Engineering; purposes; membership. |
-| (e) | Additional standing or ad hoc subcommittees. |
-| (f) | Biennial report. |
+| (c) | Responsibilities of Committee. |
+| (d) | Standing or ad hoc subcommittees. |
+| (e) | Biennial report. |
 | [1885d.](%C2%A7%2001885d%20-%20Biennial%20reports.md) | Biennial reports. |
 | [1886\.](%C2%A7%2001886%20-%20Data%20collection%20and%20analysis.md) | Data collection and analysis. |
 | [1887\.](%C2%A7%2001887%20-%20Indemnification%20of%20grantees%2C%20contractors%2C%20and%20subcontractors%20under%20ocean%20drilling%20program%3B%20approvals%20and%20certifications%20by%20Director.md) | Indemnification of grantees, contractors, and subcontractors under ocean drilling program; approvals and certifications by Director. |
@@ -148,6 +159,9 @@ This chapter is referred to in title 15 section 3707; title 20 section 3444.
 - [&sect; 01862h - Congressional statement of findings and declaration of purposes respecting scientific and technical education and training](%C2%A7%2001862h%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20purposes%20respecting%20scientific%20and%20technical%20education%20and%20training.md)
 - [&sect; 01862i - Scientific and technical education](%C2%A7%2001862i%20-%20Scientific%20and%20technical%20education.md)
 - [&sect; 01862j - Authorization of appropriations](%C2%A7%2001862j%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 01862k - Findings; core strategies](%C2%A7%2001862k%20-%20Findings%3B%20core%20strategies.md)
+- [&sect; 01862l - National research facilities](%C2%A7%2001862l%20-%20National%20research%20facilities.md)
+- [&sect; 01862m - Financial disclosure](%C2%A7%2001862m%20-%20Financial%20disclosure.md)
 - [&sect; 01863 - National Science Board](%C2%A7%2001863%20-%20National%20Science%20Board.md)
 - [&sect; 01864 - Director of Foundation](%C2%A7%2001864%20-%20Director%20of%20Foundation.md)
 - [&sect; 01864a - Deputy Director of the Foundation](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md)
@@ -158,6 +172,7 @@ This chapter is referred to in title 15 section 3707; title 20 section 3444.
 - [&sect; 01869 - Scholarships and graduate fellowships](%C2%A7%2001869%20-%20Scholarships%20and%20graduate%20fellowships.md)
 - [&sect; 01869a - Contracts for precollege science or engineering curriculum development activities; inspection of materials by parent or guardian](%C2%A7%2001869a%20-%20Contracts%20for%20precollege%20science%20or%20engineering%20curriculum%20development%20activities%3B%20inspection%20of%20materials%20by%20parent%20or%20guardian.md)
 - [&sect; 01869b - Issuance of instructions to grantees of pre-college curriculum projects](%C2%A7%2001869b%20-%20Issuance%20of%20instructions%20to%20grantees%20of%20pre-college%20curriculum%20projects.md)
+- [&sect; 01869c - Low-income scholarship program](%C2%A7%2001869c%20-%20Low-income%20scholarship%20program.md)
 - [&sect; 01870 - General authority of Foundation](%C2%A7%2001870%20-%20General%20authority%20of%20Foundation.md)
 - [&sect; 01870a - Buy-American requirements](%C2%A7%2001870a%20-%20Buy-American%20requirements.md)
 - [&sect; 01871 - Disposition of inventions produced under contracts or other arrangements](%C2%A7%2001871%20-%20Disposition%20of%20inventions%20produced%20under%20contracts%20or%20other%20arrangements.md)
@@ -177,7 +192,7 @@ This chapter is referred to in title 15 section 3707; title 20 section 3444.
 - [&sect; 01884 - Repealed. Pub. L. 99&#8211;159, title I, &sect;109(h), Nov. 22, 1985, 99 Stat. 890](%C2%A7%2001884%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93159%2C%20title%20I%2C%20%C2%A7109%28h%29%2C%20Nov.%2022%2C%201985%2C%2099%20Stat.%20890.md)
 - [&sect; 01885 - Congressional statement of findings and declaration of policy respecting equal opportunities in science and engineering](%C2%A7%2001885%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20policy%20respecting%20equal%20opportunities%20in%20science%20and%20engineering.md)
 - [&sect; 01885a - Women in science and engineering; support of activities by Foundation for promotion, etc](%C2%A7%2001885a%20-%20Women%20in%20science%20and%20engineering%3B%20support%20of%20activities%20by%20Foundation%20for%20promotion%2C%20etc.md)
-- [&sect; 01885b - Minorities in science and engineering; support of program and activities by Foundation for promotion, etc.; report to Congress](%C2%A7%2001885b%20-%20Minorities%20in%20science%20and%20engineering%3B%20support%20of%20program%20and%20activities%20by%20Foundation%20for%20promotion%2C%20etc.%3B%20report%20to%20Congress.md)
+- [&sect; 01885b - Participation in science and engineering of minorities and persons with disabilities](%C2%A7%2001885b%20-%20Participation%20in%20science%20and%20engineering%20of%20minorities%20and%20persons%20with%20disabilities.md)
 - [&sect; 01885c - Committee on Equal Opportunities in Science and Engineering](%C2%A7%2001885c%20-%20Committee%20on%20Equal%20Opportunities%20in%20Science%20and%20Engineering.md)
 - [&sect; 01885d - Biennial reports](%C2%A7%2001885d%20-%20Biennial%20reports.md)
 - [&sect; 01886 - Data collection and analysis](%C2%A7%2001886%20-%20Data%20collection%20and%20analysis.md)

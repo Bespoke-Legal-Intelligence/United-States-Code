@@ -80,9 +80,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1970</b>—Subsec. (c)(1). Pub. L. 91–272, §12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
+1970—Subsec. (c)(1). Pub. L. 91–272, §12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
 
 Subsec. (c)(2). Pub. L. 91–272, §12(b), struck out Haywood County from the enumeration of counties comprising the Western Division of the Western District.
 
-<b>1961</b>—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
+1961—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
 

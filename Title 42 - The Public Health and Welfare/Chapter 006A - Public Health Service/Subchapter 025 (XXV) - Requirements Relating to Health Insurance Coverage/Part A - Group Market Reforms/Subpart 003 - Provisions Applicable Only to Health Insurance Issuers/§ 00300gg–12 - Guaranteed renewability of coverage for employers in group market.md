@@ -6,7 +6,7 @@ Except as provided in this section, if a health insurance issuer offers health i
 
 #### (b) General exceptions
 
-A health insurance issuer may nonrenew or discontinue health insurance coverage offered in connection with a group health plan in the small or large group market based only on one or more of the following:
+A health insurance issuer may nonrenew or discontinue health insurance coverage offered inconnection with a group health plan in the small or large group market based only on one or more of the following:
 
 #### (1) Nonpayment of premiums
 
@@ -70,7 +70,7 @@ At the time of coverage renewal, a health insurance issuer may modify the health
 
 In applying this section in the case of health insurance coverage that is made available by a health insurance issuer in the small or large group market to employers only through one or more associations, a reference to “plan sponsor” is deemed, with respect to coverage provided to an employer member of the association, to include a reference to such employer.
 
-(July 1, 1944, ch. 373, title XXVII, §2712, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1964.)
+(July 1, 1944, ch. 373, title XXVII, §2712, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1964.)
 
 #### Prior Provisions
 

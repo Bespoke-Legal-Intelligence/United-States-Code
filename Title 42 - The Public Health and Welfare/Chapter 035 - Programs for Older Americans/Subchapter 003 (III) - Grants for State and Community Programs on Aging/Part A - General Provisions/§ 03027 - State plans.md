@@ -6,7 +6,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(1) The plan shall contain assurances that the State plan will be based upon area plans developed by area agencies on aging within the State designated under section 3025(a)(2)(A) of this title and that the State will prepare and distribute a uniform format for use by area agencies on aging in developing area plans under section 3026 of this title.
 
-&emsp;(2) The plan shall provide that each area agency on aging designated under section 3025(a)(2)(A) of this title will develop and submit to the State agency for approval an area plan which complies with the provisions of section 3026 of this title.
+&emsp;(2) The plan shall provide that each area agency on aging designated under section3025(a)(2)(A) of this title will develop and submit to the State agency for approval an area plan which complies with the provisions of section 3026 of this title.
 
 &emsp;(3)(A) The plan shall provide that the State agency will evaluate the need for supportive services (including legal assistance and transportation services), nutrition services, and multipurpose senior centers within the State and determine the extent to which existing public or private programs meet such need. To conduct the evaluation, the State agency shall use the procedures implemented under section 3012(a)(29) of this title.
 
@@ -68,7 +68,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(C)(i) each project will permit recipients of grants or contracts to solicit voluntary contributions for meals furnished in accordance with guidelines established by the Assistant Secretary, taking into consideration the income ranges of eligible individuals in local communities and other sources of income of the recipients of a grant or contract; and
 
-&emsp;&emsp;(ii) such voluntary contributions will be used to increase the number of meals servedby the project involved, to facilitate access to such meals, and to provide other supportive services directly related to nutrition services;
+&emsp;&emsp;(ii) such voluntary contributions will be used to increase the number of meals served by the project involved, to facilitate access to such meals, and to provide other supportive services directly related to nutrition services;
 
 &emsp;&emsp;(D) in the case of meals served in a congregate setting, a site for such services and for comprehensive supportive services is furnished in as close proximity to the majority of eligible individuals’ residences as feasible, with particular attention upon a multipurpose senior center, a school, a church, or other appropriate community facility, preferably within walking distance where possible, and where appropriate, transportation to such site is furnished;
 
@@ -186,7 +186,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) are patients in hospitals and are at risk of prolonged institutionalization; or
 
-&emsp;&emsp;(C) are patients in long-term care facilities, but who can return to their homes if community-based services are provided to them.
+&emsp;&emsp;(C) are patients in long-term care facilities, but who can return to their homes ifcommunity-based services are provided to them.
 
 &emsp;(27) The plan shall provide assurances of consultation and coordination in planning and provision of in-home services under section 3030h of this title with State and local agencies and private nonprofit organizations which administer and provide services relating to health, social services, rehabilitation, and mental health services.
 
@@ -250,7 +250,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 #### (b) Approval by Assistant Secretary; waiver of requirements
 
-(1) The Assistant Secretary shall approve any State plan which the Assistant Secretary finds fulfills the requirements of subsection (a) of this section, except the Assistant Secretary may not approve such plan unless the Assistant Secretary determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title.
+(1) The Assistant Secretary shall approve any State plan which the Assistant Secretary finds fulfills the requirements of subsection (a) of thissection, except the Assistant Secretary may not approve such plan unless the Assistant Secretary determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title.
 
 (2) The Assistant Secretary, in approving any State plan under this section, may waive the requirement described in paragraph (3)(B) of subsection (a) of this section if the State agency demonstrates to the Assistant Secretary that the service needs of older individuals residing in rural areas in the State are being met, or that the number of older individuals residing in such rural areas is not sufficient to require the State agency to comply with such requirement.
 
@@ -288,7 +288,7 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 (2) Information disclosed under section 3026(a)(14)(B)(i) of this title or subsection (a)(7)(C)(ii)(I) of this section may be disclosed to the public by the State agency or the State only if such information could be disclosed under section 552 of title 5 by an agency of the United States.
 
-(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990.)
+(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990.)
 
 #### References in Text
 
@@ -450,7 +450,7 @@ Subsec. (a)(20). Pub. L. 100–175, §182(k)(20), inserted “The plan shall”,
 
 Subsec. (a)(20)(A). Pub. L. 100–175, §155(e)(2)(A), substituted “sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title” for “section 3026(a)(2)(A) of this title”.
 
-Subsec. (a)(21). Pub. L. 100–175, §129(e), amended par. (21) generally. Prior to amendment, par. (21) read as follows: “provide that the State agency, from funds allotted under section 3024(a) of this title for part B will use an amount equal to an amount not less than 1 percent of such allotment or $20,000, whichever is greater, for the purpose of carrying out the provisions of clause (12), except that (A) the requirement of this clause shall not apply in any fiscal year in which a State spends from State or local sources an amount equal to the amount required to be spent by this clause; and (B) the provisions of this clause shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
+Subsec. (a)(21). Pub. L. 100–175, §129(e), amended par. (21) generally. Prior to amendment, par. (21) read asfollows: “provide that the State agency, from funds allotted under section 3024(a) of this title for part B will use an amount equal to an amount not less than 1 percent of such allotment or $20,000, whichever is greater, for the purpose of carrying out the provisions of clause (12), except that (A) the requirement of this clause shall not apply in any fiscal year in which a State spends from State or local sources an amount equal to the amount required to be spent by this clause; and (B) the provisions of this clause shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.”
 
 Subsec. (a)(22). Pub. L. 100–175, §130(b), added par. (22).
 
@@ -494,7 +494,7 @@ Subsec. (a)(15). Pub. L. 98–459, §307(a)(5), substituted “legal assistance�
 
 Subsec. (a)(15)(A). Pub. L. 98–459, §307(a)(5), substituted “legal assistance” for “legal services” wherever appearing.
 
-Subsec. (a)(15)(B). Pub. L. 98–459, §307(a)(6), in amending subpar. (B) generally, substituted provisions requiring assurances regarding the furnishing of legal assistance by grantees administering programs designed to provide legal assistance to older individuals with socialor economic need for provisions requiring assurances regarding the furnishing of legal services by grantees who were either recipients of funds under the Legal Services Corporation Act or who administered programs designed to provide legal services to all older individuals with social or economic need.
+Subsec. (a)(15)(B). Pub. L. 98–459, §307(a)(6), in amending subpar. (B) generally, substituted provisions requiring assurances regarding the furnishing of legal assistance by grantees administering programs designed to provide legal assistance to older individuals with social or economic need for provisions requiring assurances regarding the furnishing of legal services by grantees who were either recipients of funds under the Legal Services Corporation Act or who administered programs designed to provide legal services to all older individuals with social or economic need.
 
 Subsec. (a)(16) to (18). Pub. L. 98–459, §307(a)(10), added pars. (16) to (18). Former pars. (16) to (18) redesignated (19) to (21), respectively.
 
@@ -528,7 +528,7 @@ Subsec. (a)(13)(C)(ii). Pub. L. 97–115, §7(d), inserted “, to facilitate a
 
 Subsec. (a)(13)(D). Pub. L. 97–115, §§3(d), 7(e), inserted “in the case of meals served in a congregate setting,” before “a site for such services”, substituted “supportive services” for “social services”, and struck out “or home delivered meals are furnished to eligible individuals who are homebound” after “transportation to such site is furnished”.
 
-Subsec. (a)(13)(I). Pub. L. 97–115, §7(f), substituted “each area agency shall establish procedures that will allow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percent of its amount allotted under part C in areas with unusually high supportive services costs”.
+Subsec. (a)(13)(I). Pub. L. 97–115, §7(f), substituted “each area agency shall establish procedures that will allow nutrition project administrators the option to offer a meal, on the same basis as meals are provided to elderly participants, to individuals providing volunteer services during the meal hours” for “each State agency may only for fiscal years 1979 and 1980, use not to exceed 20 percent for the amounts allotted under part C to the State for supportive services, including recreational activities, informational services, health and welfare counseling, and referral services, directly related to the delivery of congregate or home delivered meals, except that the Commissioner may approve an application from a State to use not to exceed 50 percentof its amount allotted under part C in areas with unusually high supportive services costs”.
 
 Subsec. (a)(16) to (18). Pub. L. 97–115, §7(g), added pars. (16) and (17) and redesignated former par. (16) as (18).
 
@@ -558,5 +558,5 @@ Section 129(b) of Pub. L. 100–175 directed Commissioner on Aging, not later th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3012, 3017, 3020e, 3021, 3024, 3025, 3026, 3028, 3029,3030d, 3030e, 3030f, 3030g–11, 3030h, 3030i, 3030<i>l</i>, 3030m, 3030p, 3035a, 3035c, 3035<i>o</i>, 3057e, 3058d of this title.
+This section is referred to in sections 1395i–3, 1396r, 3002, 3011, 3012, 3017, 3020e, 3021, 3024, 3025, 3026, 3028, 3029, 3030d, 3030e, 3030f, 3030g–11, 3030h, 3030i, 3030<i>l</i>, 3030m, 3030p, 3035a, 3035c, 3035<i>o</i>, 3057e, 3058d of this title.
 

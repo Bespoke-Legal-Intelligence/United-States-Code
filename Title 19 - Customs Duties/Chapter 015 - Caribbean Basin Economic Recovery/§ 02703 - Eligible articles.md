@@ -6,7 +6,7 @@
 
 &emsp;(A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
-&emsp;(B) the sum of (i) the cost or value of the materials produced in a beneficiary country ortwo or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
+&emsp;(B) the sum of (i) the cost or value of the materials produced in a beneficiary country or two or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
 
 > For purposes of determining the percentage referred to in subparagraph (B), the term “beneficiary country” includes the Commonwealth of Puerto Rico and the United States Virgin Islands. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
 
-> Such phrase does not include costs which are not directly attributable to the merchandise concerned or are not costs of manufacturing the product, such as (i) profit, and (ii) general expenses of doing business which are either not allocable to the specific merchandise or are not related to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions or expenses.
+> Such phrase does not include costs which are not directly attributable to the merchandise concerned or are not costs of manufacturing the product, such as (i) profit, and (ii) general expenses of doing business which are either not allocable to the specific merchandise or are notrelated to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions or expenses.
 
 (4) Notwithstanding section 1311 of this title, the products of a beneficiary country which are imported directly from any beneficiary country into Puerto Rico may be entered under bond for processing or use in manufacturing in Puerto Rico. No duty shall be imposed on the withdrawal from warehouse of the product of such processing or manufacturing if, at the time of such withdrawal, such product meets the requirements of paragraph (1)(B).
 
@@ -82,7 +82,7 @@ The duty-free treatment provided under this chapter shall not apply to—
 
 (3) Before the President suspends duty-free treatment by reason of paragraph (2)(A), (B), or (C) to the sugar and beef products of a beneficiary country, he must offer to enter into consultation with the beneficiary country for purposes of formulating appropriate remedial action which may be taken by that country to avoid such suspension. If the beneficiary country thereafter enters into consultation within a reasonable time and undertakes to formulate remedial action in good faith, the President shall withhold the suspension of duty-free treatment on the condition that the remedial action agreed upon be appropriately implemented by that country.
 
-(4) The President shall monitor on a biennial basis the operation of the Plans implemented by beneficiary countries, and shall submit a written report to Congress by March 15 following the close of each biennium, that—
+(4) The President shall monitor on a biennial basis the operation of the Plans implemented bybeneficiary countries, and shall submit a written report to Congress by March 15 following the close of each biennium, that—
 
 &emsp;(A) specifies the extent to which each Plan, and remedial actions, if any, agreed upon under paragraph (4), have been implemented; and
 
@@ -136,7 +136,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 &emsp;(B) fresh or chilled vegetables provided for in headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS;
 
-&emsp;(C) fresh fruit provided for in subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and
+&emsp;(C) fresh fruit provided for in subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit ofsubheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and
 
 &emsp;(D) concentrated citrus fruit juice provided for in subheadings 2009.11.00, 2009.19.40, 2009.20.40, 2009.30.20, and 2009.30.60 of the HTS.
 
@@ -374,7 +374,7 @@ Definitions.—For purposes of this section \[amending this section and General 
 
 &emsp;&emsp;“(ii) The term ‘local feedstock’ means hydrous ethyl alcohol which is wholly produced or manufactured in any insular possession or beneficiary country.
 
-&emsp;&emsp;“(iii) The term ‘local feedstock requirement’ means the minimum percent, by volume, of localfeedstock that must be included in dehydrated alcohol and mixtures.
+&emsp;&emsp;“(iii) The term ‘local feedstock requirement’ means the minimum percent, by volume, of local feedstock that must be included in dehydrated alcohol and mixtures.
 
 &emsp;“(4) The term ‘beneficiary country’ has the meaning given to such term under section 212 of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702).
 

@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers HomeAdministration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers Home Administration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
 
 &emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independence within a home environment for such residents capable of self-care with appropriate supportive services; or
 
@@ -128,7 +128,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as “service coordinator”) who may be responsible for—
 
-&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoingbasis to assess the service needs of eligible residents;
+&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoing basis to assess the service needs of eligible residents;
 
 &emsp;&emsp;(B) working with service providers and the professional assessment committee to tailor the provision of services to the needs and characteristics of eligible residents;
 
@@ -348,7 +348,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) housing assisted under section 1701q of title 12;
 
-&emsp;&emsp;(D) housing assisted under section 1715<i>l</i>(d) or 1715z–1 of title 12, with respect to which the owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage or terminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
+&emsp;&emsp;(D) housing assisted under section 1715<i>l</i>(d) or 1715z–1 of title 12, with respect to whichthe owner has made a binding commitment to the Secretary of Housing and Urban Development not to prepay the mortgage or terminate the insurance contract under section 1715t of title 12 (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for the remaining useful life of the housing);
 
 &emsp;&emsp;(E) housing assisted under section 1484 or 1485 of this title, with respect to which the owner has made a binding commitment to the Secretary of Agriculture not to prepay or refinance the mortgage (unless the binding commitments have been made to extend the low-income use restrictions relating to such housing for not less than the 20-year period under section 1472(c)(4) of this title); and
 
@@ -402,7 +402,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) describing the activities being carried out with assistance under this section and the population being served by such activities;
 
-&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregateservices under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
+&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregate services under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
 
 &emsp;&emsp;(C) containing any other information that the Secretary concerned considers helpful to the Congress in evaluating the effectiveness of this section.
 
@@ -494,7 +494,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437g, 1485, 13631 of this title; title 12 section 1715w.
+This section is referred to in sections 1485, 13631 of this title; title 12 section 1715w.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
 

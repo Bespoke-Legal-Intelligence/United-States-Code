@@ -4,7 +4,7 @@
 
 (1) There is established in the Treasury of the United States a fund to be known as the “Customs Forfeiture Fund” (hereafter in this section referred to as the “Fund”), which shall be available to the United States Customs Service, subject to appropriation, with respect to seizures and forfeitures by the United States Customs Service and the United States Coast Guard under any law enforced or administered by those agencies for payment, or for reimbursement to the appropriation from which payment was made, for—
 
-&emsp;(A) all proper expenses of the seizure (including investigative costs incurred by the United States Customs Service leading to seizures) or the proceedings of forfeiture and sale, including, but not limited to, the expenses of inventory, security, and maintenance of custody of the property, advertisement and sale of the property, and if condemned by the court and a bond for such costs was not given, the costs as taxed by the court;
+&emsp;(A) all proper expenses of the seizure (including investigative costs incurred by the United States Customs Service leading to seizures) or the proceedings of forfeiture and sale, including, but not limited to, the expenses of inventory, security, and maintenance of custody of the property, advertisement and sale of theproperty, and if condemned by the court and a bond for such costs was not given, the costs as taxed by the court;
 
 &emsp;(B) awards of compensation to informers under section 1619 of this title;
 
@@ -44,7 +44,7 @@
 
 #### (b) United States Coast Guard
 
-The Commissioner of Customs shall make available to the United States Coast Guard,from funds appropriated under subsection (f)(2) of this section in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
+The Commissioner of Customs shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) of this section in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
 
 &emsp;(1) equipment for any vessel, vehicle, or aircraft available for official use by the United States Coast Guard to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
 
@@ -110,7 +110,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 (3) At the end of each fiscal year, any unobligated amount in excess of $15,000,000 remaining in the Fund shall be deposited into the general fund of the Treasury of the United States.
 
-(June 17, 1930, ch. 497, title IV, §613A, as added Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(11), 98 Stat. 2986; amended Oct. 27, 1986, Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), 100 Stat. 3207–12, 3207–93; July 11, 1987, Pub. L. 100–71, title I, §101, 101 Stat. 438; Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title I, §106\], 101 Stat. 1329–390, 1329–397; Aug. 23, 1988, Pub. L. 100–418, title I, §1912, 102 Stat. 1320; Nov. 18, 1988, Pub. L. 100–690, title VII, §7364, 102 Stat. 4475; Aug. 20, 1990, Pub. L. 101–382, title I, §121, 104 Stat. 640; Nov. 5, 1990, Pub. L. 101–508, title X, §10012(a), 104 Stat. 1388–390; Oct. 19, 1996, Pub. L. 104–316, title I, §110(a), 110 Stat. 3832.)
+(June 17, 1930, ch. 497, title IV, §613A, as added Pub. L. 98–573, title II, §213(a)(11), Oct. 30, 1984, 98 Stat. 2986; amended Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), Oct. 27, 1986, 100 Stat. 3207–12, 3207–93; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 438; Pub. L. 100–202, §101(m) \[title I, §106\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–397; Pub. L. 100–418, title I, §1912, Aug. 23, 1988, 102 Stat. 1320; Pub. L. 100–690, title VII, §7364, Nov. 18, 1988, 102 Stat. 4475; Pub. L. 101–382, title I, §121, Aug. 20, 1990, 104 Stat. 640; Pub. L. 101–508, title X, §10012(a), Nov. 5, 1990, 104 Stat. 1388–390; Pub. L. 104–316, title I, §110(a), Oct. 19, 1996, 110 Stat. 3832.)
 
 #### Prior Provisions
 
@@ -166,7 +166,7 @@ Subsec. (f). Pub. L. 99–570, §3142(a)(2), amended subsec. (f) generally. Prio
 
 “(1) There are authorized to be appropriated from the fund for each of the four fiscal years beginning with fiscal year 1984, not more than $10,000,000.
 
-“(2) At the end of each of the first three of such four fiscal years, any amount in the fund in excess of $10,000,000 shall be deposited in the general fund of the Treasury. At the end of the last of such four fiscal years, any amount in the fund shall be deposited in the general fund of the Treasury, and the fund shall cease to exist.”
+“(2) At the end of each of the first three of such four fiscal years, any amount in the fund in excess of $10,000,000 shall be deposited in the general fund of theTreasury. At the end of the last of such four fiscal years, any amount in the fund shall be deposited in the general fund of the Treasury, and the fund shall cease to exist.”
 
 #### Effective Date of 1990 Amendment
 

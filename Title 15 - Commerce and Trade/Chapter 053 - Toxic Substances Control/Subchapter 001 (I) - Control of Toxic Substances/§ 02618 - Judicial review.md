@@ -12,7 +12,7 @@
 
 &emsp;(A) the rule being reviewed under this section;
 
-&emsp;(B) in the case of a rule under section 2603(a) of this title, the finding required by such section, in the case of a rule under section 2604(b)(4) of this title, the finding required by such section, in the case of a rule under section 2605(a) of this title the finding required by section 2604(f) or 2605(a) of this title, as the case may be, in the case of a rule under section 2605(a) of this title, the statement required by section 2605(c)(1) of this title, and in the case of a rule under section 2605(e) of this title, the findings required by paragraph (2)(B) or (3)(B) of such section, as the case may be <sup>1</sup> and in the case of a rule under subchapter IV, of this chapter, the finding required for the issuance of such a rule;
+&emsp;(B) in the case of a rule under section 2603(a) of this title, the finding required by such section, in the case of a rule under section 2604(b)(4) of this title, the finding required by such section, in the case of a rule under section 2605(a) of this title the finding required by section 2604(f) or 2605(a) of this title, as the case may be, in the case of a rule under section 2605(a) of this title, the statement required by section 2605(c)(1) of this title, and in the case of a rule under section 2605(e) of this title, the findings required by paragraph (2)(B) or (3)(B) of such section, as the case may be <sup>1</sup> and in the case of a rule under subchapter IV of this chapter, the finding required for the issuance of such a rule;
 
 &emsp;(C) any transcript required to be made of oral presentations made in proceedings for the promulgation of such rule;
 
@@ -26,7 +26,7 @@ If in an action under this section to review a rule the petitioner or the Admini
 
 #### (c) Standard of review
 
-(1)(A) Upon the filing of a petition under subsection (a)(1) of this section for judicial review of a rule, the court shall have jurisdiction (i) to grant appropriate relief, including interim relief, as provided in chapter 7 of title 5, and (ii) except as otherwise provided in subparagraph (B), to review such rule in accordance with chapter 7 of title 5.
+(1)(A) Upon the filing of a petition under subsection (a)(1) of this section for judicial review of a rule, the court shall have jurisdiction (i) to grant appropriate relief, including interim relief, as provided in chapter 7 of title 5, and (ii) except as otherwise provided in subparagraph\(B), to review such rule in accordance with chapter 7 of title 5.
 
 (B) Section 706 of title 5 shall apply to review of a rule under this section, except that—
 

@@ -26,7 +26,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(iii) who is involuntarily confined in a municipal detention facility for reasons other than serving a sentence resulting from conviction for a criminal offense.
 
-&emsp;(5) The term “neglect” means a negligent act or omission by any individual responsible for providing services in a facility rendering care or treatment which caused or may have caused injury or death to a <sup>1</sup> individual with mental illness or which placed a <sup>1</sup> individual with mental illness at risk of injury or death, and includes an act or omission such as the failure to establish or carry out an appropriate individual program plan or treatment plan for a <sup>1</sup> individual with mental illness, the failure to provide adequate nutrition, clothing, or health care to a <sup>1</sup> individual with mental illness, or the failure to provide a safe environment for a <sup>1</sup> individual with mental illness, including the failure to maintain adequate numbers of appropriately trained staff.
+&emsp;(5) The term “neglect” means a negligent act or omission by any individual responsible for providing services in a facility rendering care or treatment which caused or may have caused injury or death to a <sup>1</sup> individual with mental illness or which placed a <sup>1</sup> individual with mental illness at risk of injury or death,and includes an act or omission such as the failure to establish or carry out an appropriate individual program plan or treatment plan for a <sup>1</sup> individual with mental illness, the failure to provide adequate nutrition, clothing, or health care to a <sup>1</sup> individual with mental illness, or the failure to provide a safe environment for a <sup>1</sup> individual with mental illness, including the failure to maintain adequate numbers of appropriately trained staff.
 
 &emsp;(6) The term “Secretary” means the Secretary of Health and Human Services.
 
@@ -56,7 +56,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 10851 of this title.
+This section is referred to in section 10851 of this title; title 29 section 794e.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

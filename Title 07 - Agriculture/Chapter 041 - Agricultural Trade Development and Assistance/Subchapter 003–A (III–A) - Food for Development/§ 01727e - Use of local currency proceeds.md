@@ -48,7 +48,7 @@ A nongovernmental organization may invest local currencies that accrue to that o
 
 If the Administrator determines that local currencies deposited in a special account pursuant to this subchapter are not needed for any of the activities prescribed in paragraphs (1) through (13) of subsection (a) of this section or for any other specific economic development purpose in the recipient country, the Administrator may use those currencies to provide support for any institution (other than an institution whose primary purpose is to provide religious education) located in the recipient country that provides education in agricultural sciences or other disciplines for a significant number of United States nationals (who may include members of the United States Armed Forces or the Foreign Service or dependents of such members).
 
-(July 10, 1954, ch. 469, title III, §306, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 551; amended Aug. 14, 1979, Pub. L. 96–53, title II, §207(a), 93 Stat. 369; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3643; Apr. 4, 1996, Pub. L. 104–127, title II, §211(a), 110 Stat. 955.)
+(July 10, 1954, ch. 469, title III, §306, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 551; amended Pub. L. 96–53, title II, §207(a), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3643; Pub. L. 104–127, title II, §211(a), Apr. 4, 1996, 110 Stat. 955.)
 
 #### Prior Provisions
 

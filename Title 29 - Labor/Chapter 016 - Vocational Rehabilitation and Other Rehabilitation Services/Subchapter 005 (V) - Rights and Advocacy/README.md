@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 702, 706, 718b, 720, 743, 762, 784 of this title; title 20 sections 1221, 1415; title 38 section 3116; title 42 section 12201.
+This subchapter is referred to in sections 702, 705, 718, 720, 764, 784 of this title; title 20 sections 1221, 1415; title 38 section 3116; title 42 section 12201.
 
 
 ---
@@ -17,5 +17,5 @@ This subchapter is referred to in sections 702, 706, 718b, 720, 743, 762, 784 of
 - [&sect; 00794a - Remedies and attorney fees](%C2%A7%2000794a%20-%20Remedies%20and%20attorney%20fees.md)
 - [&sect; 00794b - Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or&#8230;](%C2%A7%2000794b%20-%20Removal%20of%20architectural%2C%20transportation%2C%20or%20communication%20barriers%3B%20technical%20and%20financial%20assistance%3B%20compensation%20of%20experts%20or%E2%80%A6.md)
 - [&sect; 00794c - Interagency Disability Coordinating Council](%C2%A7%2000794c%20-%20Interagency%20Disability%20Coordinating%20Council.md)
-- [&sect; 00794d - Electronic and information technology accessibility guidelines](%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology%20accessibility%20guidelines.md)
+- [&sect; 00794d - Electronic and information technology](%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology.md)
 - [&sect; 00794e - Protection and advocacy of individual rights](%C2%A7%2000794e%20-%20Protection%20and%20advocacy%20of%20individual%20rights.md)

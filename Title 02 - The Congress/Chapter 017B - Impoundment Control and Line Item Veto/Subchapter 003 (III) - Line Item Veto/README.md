@@ -4,6 +4,10 @@
 
 <i>For termination of subchapter, see Effective and Termination Dates note set out under section 691 of this title.</i>
 
+#### Constitutionality of Line Item Veto
+
+For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, —— U.S. ——, 118 S.Ct. 2091, 141 L.Ed. 2d 393 (1998).
+
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in section 692 of this title.

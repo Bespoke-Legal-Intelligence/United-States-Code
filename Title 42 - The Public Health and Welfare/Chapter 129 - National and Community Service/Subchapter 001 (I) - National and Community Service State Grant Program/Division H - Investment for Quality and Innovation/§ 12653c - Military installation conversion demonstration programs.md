@@ -18,7 +18,11 @@ As used in this section:
 
 #### (1) Affected military installation
 
-&emsp;The term “affected military installation” means a military installation described in section 1662d(e)(1) of title 29.
+&emsp;The term “affected military installation” means a military installation being closed or realigned under—
+
+&emsp;&emsp;(A) the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of division B of Public Law 101–510; 10 U.S.C. 2687 note); and
+
+&emsp;&emsp;(B) title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
 #### (2) Community
 
@@ -70,7 +74,7 @@ As used in this section:
 
 #### (1) Stipend
 
-&emsp;A community or community-based agency that receives a grant under subsection (c) of this section to establish and carry out a project through a demonstration program mayuse the funds made available through such grant to pay for a portion of a stipend for the participants in the project.
+&emsp;A community or community-based agency that receives a grant under subsection (c) of this section to establish and carry out a project through a demonstration program may use the funds made available through such grant to pay for a portion of a stipend for the participants in the project.
 
 #### (2) Limitation on amount of stipend
 
@@ -92,7 +96,7 @@ As used in this section:
 
 &emsp;&emsp;(ii) a youth described in section 12614(a) of this title; or
 
-&emsp;&emsp;(iii) an eligible youth described in section 1693 of title 29.
+&emsp;&emsp;(iii) an eligible youth described in section 1693 of title 29 or an individual described in section 2884 of title 29.
 
 #### (2) Participation
 
@@ -130,15 +134,35 @@ As used in this section:
 
 In making a grant under subsection (c) of this section with respect to a demonstration program to assist in converting an affected military installation, the Corporation shall not make a grant for more than 25 percent of the total cost of the conversion.
 
-(Pub. L. 101–610, title I, §198C, as added Pub. L. 103–82, title I, §104(c), Sept. 21, 1993, 107 Stat. 843.)
+(Pub. L. 101–610, title I, §198C, as added Pub. L. 103–82, title I, §104(c), Sept. 21, 1993, 107 Stat. 843; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(42)(B), (f)(33)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
+
+#### Amendment of Subsection (e)(1)(B)(iii)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(33)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, subsection (e)(1)(B) of this section is amended by striking clause (iii) and inserting the following:</i>
+
+(iii) an individual described in section 2884 of title 29.
 
 #### References in Text
+
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (b)(1)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+
+The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (b)(1)(B), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of Title 10 and Tables.
 
 The Head Start Act, referred to in subsec. (b)(3)(A)(iv), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 12653c, Pub. L. 101–610, title I, §195C, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2524, which related to summer national service program of Civilian Community Corps Demonstration Program, was renumbered section 154 of Pub. L. 101–610 by Pub. L. 103–82, §104(b), and transferred to section 12614 of this title.
+
+#### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(i)\], substituted “a military installation being closed or realigned under—” and subpars. (A) and (B) for “a military installation described in section 1662d(e)(1) of title 29”.
+
+Subsec. (e)(1)(B)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(42)(B)(ii)\], added cl. (iii) and struck out former cl. (iii) which read as follows: “an eligible youth described in section 1693 of title 29.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(42)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(33)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

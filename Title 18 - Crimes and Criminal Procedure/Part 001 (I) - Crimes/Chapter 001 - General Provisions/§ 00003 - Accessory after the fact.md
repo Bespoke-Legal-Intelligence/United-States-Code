@@ -2,9 +2,9 @@
 
 Whoever, knowing that an offense against the United States has been committed, receives, relieves, comforts or assists the offender in order to hinder or prevent his apprehension, trial or punishment, is an accessory after the fact.
 
-Except as otherwise expressly provided by any Act of Congress, an accessory after the fact shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half the maximum fine prescribed for the punishment of the principal, or both; or if the principal is punishable by life imprisonment or death, the accessory shall be imprisoned not more than 15 years.
+Except as otherwise expressly provided by any Act of Congress, an accessory after the factshall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half the maximum fine prescribed for the punishment of the principal, or both; or if the principal is punishable by life imprisonment or death, the accessory shall be imprisoned not more than 15 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 684; Nov. 10, 1986, Pub. L. 99–646, §43, 100 Stat. 3601; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3502, 104 Stat. 4921;Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §§330011(h), 330016(2)(A), 108 Stat. 2145, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 684; Pub. L. 99–646, §43, Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XXXV, §3502, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §§330011(h), 330016(2)(A), Sept. 13, 1994, 108 Stat. 2145, 2148.)
 
 #### Historical and Revision Notes
 

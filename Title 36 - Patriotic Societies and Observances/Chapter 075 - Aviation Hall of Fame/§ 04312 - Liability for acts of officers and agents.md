@@ -1,6 +1,0 @@
-### §4312. Liability for acts of officers and agents
-
-The corporation shall be liable for the acts of its officers and agents when acting within the scope of their authority.
-
-(Pub. L. 88–372, §12, July 14, 1964, 78 Stat. 317.)
-

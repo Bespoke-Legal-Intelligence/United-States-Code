@@ -18,5 +18,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1261, 1262, 1375 of this title.
+This section is referred to in sections 1261, 1262 of this title.
 

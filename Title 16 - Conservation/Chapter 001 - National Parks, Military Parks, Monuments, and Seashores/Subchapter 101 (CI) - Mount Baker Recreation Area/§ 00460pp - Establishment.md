@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to assure the conservation and protection of certain natural, scenic, historic, pastoral, and fish and wildlife values and to provide for the enhancement of the recreational values associated therewith, the Mount Baker National Recreation Area located in the Mount Baker-Snoqualmie National Forest, Washington, is hereby established.
+In order to assure the conservation and protection of certain natural, scenic, historic, pastoral, and fish and wildlife values and to provide for the enhancement of the recreational valuesassociated therewith, the Mount Baker National Recreation Area located in the Mount Baker-Snoqualmie National Forest, Washington, is hereby established.
 
 #### (b) Acreage
 

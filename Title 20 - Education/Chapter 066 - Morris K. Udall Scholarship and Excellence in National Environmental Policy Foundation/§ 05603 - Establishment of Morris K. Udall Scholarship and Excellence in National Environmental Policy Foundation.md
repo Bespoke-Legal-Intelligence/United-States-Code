@@ -6,7 +6,7 @@ There is established as an independent entity of the executive branch of the Uni
 
 #### (b) Board of Trustees
 
-The Foundation shall be subject to the supervision and direction of the Board of Trustees. The Board shall be comprised of twelve trustees, eleven of whom shall be voting members of the Board, as follows:
+The Foundation shall be subject to the supervision and direction of the Board of Trustees. The Board shall be comprised of thirteen trustees, eleven of whom shall be voting members of the Board, as follows:
 
 &emsp;(1) Two Trustees, shall be appointed by the President, with the advice and consent of the Senate, after considering the recommendation of the Speaker of the House of Representatives, in consultation with the Minority Leader of the House of Representatives.
 
@@ -24,6 +24,8 @@ The Foundation shall be subject to the supervision and direction of the Board of
 
 &emsp;(6) The President of the University of Arizona shall serve as a nonvoting, ex officio member and shall not be eligible to serve as chairperson.<sup>1</sup>
 
+&emsp;(7) The chairperson of the President's Council on Environmental Quality, who shall serve as a nonvoting, ex officio member and shall not be eligible to serve as chairperson.<sup>1</sup>
+
 #### (c) Term of office
 
 (1) <sup>2</sup>
@@ -34,7 +36,7 @@ In general.—The term of office of each member of the Board shall be six years,
 
 &emsp;&emsp;(i) as designated by the President, one Trustee appointed pursuant to subsection (b)(2) of this section and two trustees appointed pursuant to subsection (b)(3) of this section shall each serve two years; and
 
-&emsp;&emsp;(ii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
+&emsp;&emsp;(ii) as designated by the President, one Trustee appointed pursuant to subsection\(b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
 
 &emsp;&emsp;(iii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section, one Trustee appointed pursuant to subsection (b)(2) of this section, and one Trustee appointed pursuant to subsection (b)(3) of this section shall each serve six years;
 
@@ -60,9 +62,13 @@ The Foundation shall be located in Tucson, Arizona.
 
 &emsp;The Executive Director of the Foundation shall be compensated at the rate specified for employees in level IV of the Executive Schedule under section 5315 of title 5.
 
-(Pub. L. 102–259, §5, Mar. 19, 1992, 106 Stat. 79; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §655\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369.)
+(Pub. L. 102–259, §5, Mar. 19, 1992, 106 Stat. 79; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §655\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 105–156, §3, Feb. 11, 1998, 112 Stat. 8.)
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–156, §3(1), substituted “thirteen” for “twelve” in introductory provisions.
+
+Subsec. (b)(7). Pub. L. 105–156, §3(2), added par. (7).
 
 1996—Subsec. (c)(1)(C). Pub. L. 104–208 added subpar. (C).
 

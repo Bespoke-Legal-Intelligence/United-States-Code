@@ -14,7 +14,7 @@
 
 (c) The Secretary, to the extent he considers proper, may delegate the authority conferred by subsection (a), except the authority to prescribe regulations, to any person in the Department of the Navy, with or without authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 467; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, §513(41), 94 Stat. 2935.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 467; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §513(41), Dec. 12, 1980, 94 Stat. 2935.)
 
 Historical and Revision Notes
 

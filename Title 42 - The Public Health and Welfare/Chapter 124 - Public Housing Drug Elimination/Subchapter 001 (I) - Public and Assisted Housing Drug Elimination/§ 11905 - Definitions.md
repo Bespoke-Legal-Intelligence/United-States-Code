@@ -24,19 +24,27 @@ For the purposes of this subchapter:
 
 &emsp;&emsp;(C) section 1437f of this title; or
 
-&emsp;&emsp;(D) the Native American Housing Assistance and Self-Determination Act \[25 U.S.C. 4101 et seq.\].
+&emsp;&emsp;(D) the Native American Housing Assistance and Self-Determination Act <sup>1</sup> \[25 U.S.C. 4101 et seq.\].
 
-#### (5) Tribally designated housing entity
+#### (5) Recipient
 
-&emsp;The term “tribally designated housing entity” has the meaning given such term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4103\].
+&emsp;The term “recipient”, when used in reference to the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\], has the meaning given such term in section 4 of such Act \[25 U.S.C. 4103\].
 
-(Pub. L. 100–690, title V, §5126, Nov. 18, 1988, 102 Stat. 4302; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4247; Pub. L. 104–330, title VII, §704(4), Oct. 26, 1996, 110 Stat. 4051.)
+#### (6) Indian tribe
+
+&emsp;The term “Indian tribe” has the meaning given the term in section 4(12) of the Native American Housing Assistance and Self Determination Act of 1996, 25 U.S.C. 4103(12).
+
+(Pub. L. 100–690, title V, §5126, Nov. 18, 1988, 102 Stat. 4302; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4247; Pub. L. 104–330, title VII, §704(4), Oct. 26, 1996, 110 Stat. 4051; Pub. L. 105–276, title II, §220(4), title V, §586(f), Oct. 21, 1998, 112 Stat. 2488, 2649.)
 
 #### References in Text
 
-The Native American Housing Assistance and Self-Determination Act, referred to in par. (4)(D), probably means the Native American Housing Assistance and Self-Determination Act of 1996, Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in pars. (4)(D) and (5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 #### Amendments
+
+1998—Par. (5). Pub. L. 105–276, §586(f), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘tribally designated housing entity’ has the meaning given such term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996.”
+
+Par. (6). Pub. L. 105–276, §220(4), added par. (6).
 
 1996—Par. (4)(D). Pub. L. 104–330, §704(4)(A), added subpar. (D).
 
@@ -44,11 +52,13 @@ Par. (5). Pub. L. 104–330, §704(4)(B), added par. (5).
 
 1990—Pub. L. 101–625 amended section generally, adding provisions defining “Federally assisted low-income housing”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11903a of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of 1996”.</i>
 

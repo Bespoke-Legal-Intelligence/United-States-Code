@@ -26,7 +26,7 @@ This section \[section 62\] incorporates in section 4121 of title 18, U.S.C., wi
 
 #### Transfer of Functions
 
-Federal Prison Industries, Inc. (together with its Board of Directors), and its functions transferred to Department of Justice to be administered under general direction and supervision of Attorney General, by Reorg. Plan No. II of 1939, §3(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431, set out in the Appendix to Title 5, Government Organization and Employees. See, also, Reorg. Plan No. 2 of 1950, §1, eff. May 1, 1950, 15 F.R.3173, 64 Stat. 1261, and section 509 of Title 28, Judiciary and Judicial Procedure.
+Federal Prison Industries, Inc. (together with its Board of Directors), and its functions transferred to Department of Justice to be administered under general direction and supervision of Attorney General, by Reorg. Plan No. II of 1939, §3(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431, set out in the Appendix to Title 5, Government Organization and Employees. See, also, Reorg. Plan No. 2 of 1950, §1, eff. May 1, 1950, 15 F.R. 3173, 64 Stat. 1261, and section 509 of Title 28, Judiciary and Judicial Procedure.
 
 #### Mandatory Work Requirement for All Prisoners
 

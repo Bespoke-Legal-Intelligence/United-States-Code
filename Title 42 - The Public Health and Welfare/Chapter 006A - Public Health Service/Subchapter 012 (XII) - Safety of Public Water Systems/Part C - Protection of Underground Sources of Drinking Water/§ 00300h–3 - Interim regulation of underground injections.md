@@ -4,7 +4,7 @@
 
 (1) Any person may petition the Administrator to have an area of a State (or States) designated as an area in which no new underground injection well may be operated during the period beginning on the date of the designation and ending on the date on which the applicable underground injection control program covering such area takes effect unless a permit for the operation of such well has been issued by the Administrator under subsection (b) of this section. The Administrator may so designate an area within a State if he finds that the area has one aquifer which is the sole or principal drinking water source for the area and which, if contaminated, would create a significant hazard to public health.
 
-(2) Upon receipt of a petition under paragraph (1) of this subsection, the Administrator shall publish it in the Federal Register and shall provide an opportunity to interested persons to submit written data, views, or arguments thereon. Not later than the 30th day following the date of the publication of a petition under this paragraph in the Federal Register, the Administrator shall either make the designation forwhich the petition is submitted or deny the petition.
+(2) Upon receipt of a petition under paragraph (1) of this subsection, the Administrator shall publish it in the Federal Register and shall provide an opportunity to interested persons to submit written data, views, or arguments thereon. Not later than the 30th day following the date of the publication of a petition under this paragraph in the Federal Register, the Administrator shall either make the designation for which the petition is submitted or deny the petition.
 
 #### (b) Well operation permits; publication in Federal Register; notice and hearing; issuance or denial; conditions for issuance
 
@@ -26,7 +26,7 @@ For purposes of this section, the term “new underground injection well” mean
 
 If the Administrator determines, on his own initiative or upon petition, that an area has an aquifer which is the sole or principal drinking water source for the area and which, if contaminated, would create a significant hazard to public health, he shall publish notice of that determination in the Federal Register. After the publication of any such notice, no commitment for Federal financial assistance (through a grant, contract, loan guarantee, or otherwise) may be entered into for any project which the Administrator determines may contaminate such aquifer through a recharge zone so as to create a significant hazard to public health, but a commitment for Federal financial assistance may, if authorized under another provision of law, be entered into to plan or design the project to assure that it will not so contaminate the aquifer.
 
-(July 1, 1944, ch. 373, title XIV, §1424, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1678.)
+(July 1, 1944, ch. 373, title XIV, §1424, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1678.)
 
 #### Section Referred to in Other Sections
 

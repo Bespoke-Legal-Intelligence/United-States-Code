@@ -8,7 +8,7 @@ The President may award an Air Force cross of appropriate design, with ribbons a
 
 &emsp;(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 540; July 6, 1960, Pub. L. 86–593, §1(1), 74 Stat. 331; July 25, 1963, Pub. L. 88–77, §3(2), 77 Stat. 94.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 540; Pub. L. 86–593, §1(1), July 6, 1960, 74 Stat. 331; Pub. L. 88–77, §3(2), July 25, 1963, 77 Stat. 94.)
 
 Historical and Revision Notes
 

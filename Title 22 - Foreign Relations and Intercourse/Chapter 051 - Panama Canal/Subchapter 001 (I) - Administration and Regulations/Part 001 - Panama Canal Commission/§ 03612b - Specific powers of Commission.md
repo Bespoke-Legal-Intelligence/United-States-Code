@@ -36,13 +36,21 @@ The Commission may take such actions as are necessary or appropriate to carry ou
 
 The Commission may conduct and promote commercial activities related to the management, operation, or maintenance of the Panama Canal. Any such commercial activity shall be carried out consistent with the Panama Canal Treaty of 1977 and related agreements.
 
-(Pub. L. 96–70, title I, §1102b, as added Pub. L. 104–106, div. C, title XXXV, §3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, §3547, Nov. 18, 1997, 111 Stat. 2073.)
+#### (f) Donations
+
+(1) The Commission may seek and accept donations of funds, property, and services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out its promotional activities.
+
+(2) The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds, property, or services authorized by paragraph (1) would reflect unfavorably upon the ability of the Commission (or any employee of the Commission) to carry out its responsibilities or official duties in a fair and objective manner or would compromise the integrity or the appearance of the integrity of its programs or of any official in those programs.
+
+(Pub. L. 96–70, title I, §1102b, as added Pub. L. 104–106, div. C, title XXXV, §3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, §3547, Nov. 18, 1997, 111 Stat. 2073; Pub. L. 105–261, div. C, title XXXV, §3505, Oct. 17, 1998, 112 Stat. 2268.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–261 added subsec. (f).
 
 1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 

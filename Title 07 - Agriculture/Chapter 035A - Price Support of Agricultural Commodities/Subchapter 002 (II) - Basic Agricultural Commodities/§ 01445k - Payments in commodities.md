@@ -18,13 +18,13 @@ The Secretary may make in-kind payments—
 
 &emsp;(3) by the issuance of negotiable certificates which the Commodity Credit Corporation shall redeem for a commodity in accordance with regulations prescribed by the Secretary; or
 
-&emsp;(4) by such other methods as the Secretary determines appropriate to enable the producer to receive payments in an efficient, equitable,and expeditious manner so as to ensure that the producer receives the same total return as if the payments had been made in cash.
+&emsp;(4) by such other methods as the Secretary determines appropriate to enable the producer to receive payments in an efficient, equitable, and expeditious manner so as to ensure that the producer receives the same total return as if the payments had been made in cash.
 
 #### (c) Commodity certificates
 
 The Secretary shall pay interest on the cash redemption of a commodity certificate issued by the Secretary to a producer who holds the certificate for at least 150 days. This subsection shall not apply with respect to commodity certificates issued in connection with the export enhancement program or the marketing promotion program established under the Agricultural Trade Act of 1978.
 
-(Oct. 31, 1949, ch. 792, title I, §115, formerly §107E, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1005, 99 Stat. 1448; renumbered §115 and amended Nov. 28, 1990, Pub. L. 101–624, title XI, §§1122(a), 1161(a)(1), 104 Stat. 3503, 3520.)
+(Oct. 31, 1949, ch. 792, title I, §115, formerly §107E, as added Pub. L. 99–198, title X, §1005, Dec. 23, 1985, 99 Stat. 1448; renumbered §115 and amended Pub. L. 101–624, title XI, §§1122(a), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3503, 3520.)
 
 #### References in Text
 

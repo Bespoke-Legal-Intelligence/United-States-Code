@@ -6,7 +6,7 @@ The Secretary of Agriculture shall charge a rental charge for all ski area permi
 
 #### (b) Formula
 
-(1) The ski area permit rental charge (SAPRC) shall be calculated by adding the permittee'sgross revenues from lift ticket/year-round ski area use pass sales plus revenue from ski school operations (LT+SS) and multiplying such total by the slope transport feet percentage (STFP) on National Forest System land. That amount shall be increased by the gross year-round revenue from ancillary facilities (GRAF) physically located on national forest land, including all permittee or subpermittee lodging, food service, rental shops, parking and other ancillary operations, to determine the adjusted gross revenue (AGR) subject to the permit rental charge. The final rental charge shall be calculated by multiplying the AGR by the following percentages for each revenue bracket and adding the total for each revenue bracket:
+(1) The ski area permit rental charge (SAPRC) shall be calculated by adding the permittee's gross revenues from lift ticket/year-round ski area use pass sales plus revenue from ski school operations (LT+SS) and multiplying such total by the slope transport feet percentage (STFP) on National Forest System land. That amount shall be increased by the gross year-round revenue from ancillary facilities (GRAF) physically located on national forest land, including all permittee or subpermittee lodging, food service, rental shops, parking and other ancillary operations, to determine the adjusted gross revenue (AGR) subject to the permit rental charge. The final rental charge shall be calculated by multiplying the AGR by the following percentages for each revenue bracket and adding the total for each revenue bracket:
 
 &emsp;(A) 1.5 percent of all adjusted gross revenue below $3,000,000;
 
@@ -50,7 +50,7 @@ To reduce administrative costs of ski area permittees and the Forest Service the
 
 #### (g) Minimum rental charge
 
-In cases where an area of national forest land is under a ski area permit but the permittee does not have revenue or sales qualifying for rental charge payment pursuant to subsection (a) of this section, the permittee shall pay anannual minimum rental charge of $2 for each national forest acre under permit or a percentage of appraised land value, as determined appropriate by the Secretary.
+In cases where an area of national forest land is under a ski area permit but the permittee does not have revenue or sales qualifying for rental charge payment pursuant to subsection (a) of this section, the permittee shall pay an annual minimum rental charge of $2 for each national forest acre under permit or a percentage of appraised land value, as determined appropriate by the Secretary.
 
 #### (h) Five-year phase-in of increase
 

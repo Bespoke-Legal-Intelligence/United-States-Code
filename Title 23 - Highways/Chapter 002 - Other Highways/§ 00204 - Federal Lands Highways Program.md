@@ -1,14 +1,44 @@
 ### §204. Federal Lands Highways Program
 
-(a) Recognizing the need for all Federal roads which are public roads to be treated under the same uniform policies as roads which are on the Federal-aid systems, there is established a coordinated Federal lands highways program which shall consist of the public lands highways, park roads, parkways, and Indian reservation roads as defined in section 101 of this title. The Secretary, in cooperation with the Secretary of the Interior and the Secretary of Agriculture, shall develop appropriate transportation planning procedures and safety, bridge, and pavement management systems for roads funded under the Federal Lands Highway Program. Notwithstanding any other provision of this title, no public lands highway project may be undertaken in any State pursuant to this section unless the State concurs in the selection and planning of the project.
+(a)
 
-(b) Funds available for public lands highways shall be used by the Secretary to pay for the cost of planning, research, engineering and construction thereof. Funds available for park roads, parkways, and Indian reservation roads shall be used by the Secretary or the Secretary of the Interior to pay for the cost of construction and improvement thereof. In connection therewith, the Secretary and the Secretary of the Interior, as appropriate, may enter into construction contracts and such other contracts with a State or civil subdivision thereof or Indian tribe as deemed advisable. In the case of Indian reservation roads, Indian labor may be employed in such construction and improvement under such rules and regulations as may be prescribed by the Secretary of the Interior. No ceiling on Federal employment shall be applicable to construction or improvement of Indian reservation roads. Funds available for each class of Federal lands highways shall be available for any kind of transportation project eligible for assistance under this title that is within or adjacent to or provides access to the areas served by the particular class of Federal lands highways. The Secretary of Interior may reserve funds from the Bureau of Indian Affairs’ administrative funds associated with the Indian reservation roads program to finance the Indian technical centers authorized under section 326.
+Establishment.—
+
+&emsp;(1)
+
+In general.—Recognizing the need for all Federal roads that are public roads to be treated under uniform policies similar to the policies that apply to Federal-aid highways, there is established a coordinated Federal lands highways program that shall apply to public lands highways, park roads and parkways, and Indian reservation roads and bridges.
+
+&emsp;(2)
+
+Transportation planning procedures.—In consultation with the Secretary of each appropriate Federal land management agency, the Secretary shall develop, by rule, transportation planning procedures that are consistent with the metropolitan and statewide planning processes required under sections 134 and 135.
+
+&emsp;(3)
+
+Approval of transportation improvement program.—The transportation improvement program developed as a part of the transportation planning process under this section shall be approved by the Secretary.
+
+&emsp;(4)
+
+Inclusion in other plans.—All regionally significant Federal lands highways program projects—
+
+&emsp;&emsp;(A) shall be developed in cooperation with States and metropolitan planning organizations; and
+
+&emsp;&emsp;(B) shall be included in appropriate Federal lands highways program, State, and metropolitan plans and transportation improvement programs.
+
+&emsp;(5)
+
+Inclusion in state programs.—The approved Federal lands highways program transportation improvement program shall be included in appropriate State and metropolitan planning organization plans and programs without further action on the transportation improvement program.
+
+&emsp;(6)
+
+Development of systems.—The Secretary and the Secretary of each appropriate Federal land management agency shall, to the extent appropriate, develop by rule safety, bridge, pavement, and congestion management systems for roads funded under the Federal lands highways program.
+
+(b) Funds available for public lands highways, park roads and parkways, and Indian reservation roads shall be used by the Secretary and the Secretary of the appropriate Federal land management agency to pay for the cost of transportation planning, research, engineering, and construction of the highways, roads, and parkways, or of transit facilities within public lands, national parks, and Indian reservations. In connection with activities under the preceding sentence, the Secretary and the Secretary of the appropriate Federal land management agency may enter into construction contracts and other appropriate contracts with a State or civil subdivision of a State or Indian tribe. In the case of Indian reservation roads, Indian labor may be employed in such construction and improvement under such rules and regulations as may be prescribed by the Secretary of the Interior. No ceiling on Federal employment shall be applicable to construction or improvement of Indian reservation roads. Funds available for each class of Federal lands highways shall be available for any kind of transportation project eligible for assistance under this title that is within or adjacent to or provides access to the areas served by the particular class of Federal lands highways. The Secretary of Interior may reserve funds from the Bureau of Indian Affairs’ administrative funds associated with the Indian reservation roads program to finance the Indian technical centers authorized under section 504(b).
 
 (c) Before approving as a project on an Indian reservation road any project eligible for funds apportioned under section 104 or section 144 of this title in a State, the Secretary must determine that the obligation of funds for such project is supplementary to and not in lieu of the obligation, for projects on Indian reservation roads, of a fair and equitable share of funds apportioned to such State under section 104 of this title. Notwithstanding any other provision of this title, Indian reservation roads under the jurisdiction of the Bureau of Indian Affairs of the Department of the Interior shall be eligible to expend not more than 15 percent funds <sup>1</sup> apportioned for Indian reservation roads from the Highway Trust Fund for the purpose of road sealing projects. The Bureau of Indian Affairs shall continue to retain responsibility, including annual funding request responsibility, for road maintenance programs on Indian reservations.
 
 (d) Cooperation of States, counties, or other local subdivisions may be accepted in construction and improvement, and any funds received from a State, county, or local subdivision shall be credited to appropriations available for the class of Federal lands highways to which such funds were contributed.
 
-(e) Construction of each project shall be performed by contract awarded by competitive bidding, unless the Secretary or the Secretary of the Interior shall affirmatively find that, under the circumstances relating to such project, some other method is in the public interest. Notwithstanding the foregoing, the provisions of section 23 of the “Buy Indian” Act of June 25, 1910 (36 Stat. 891), and the provisions of section 7(b) of the Indian Self-Determination and Education Assistance Act (88 Stat. 2205) shall apply to all funds administered by the Secretary of the Interior which are appropriated for the construction and improvement of Indian reservation roads.
+(e) Construction of each project shall be performed by contract awarded by competitive bidding, unless the Secretary or the Secretary of the appropriate Federal land management agency shall affirmatively find that, under the circumstances relating to such project, some other method is in the public interest. Notwithstanding the foregoing, the provisions of section 23 of the “Buy Indian” Act of June 25, 1910 (36 Stat. 891), and the provisions of section 7(b) of the Indian Self-Determination and Education Assistance Act (88 Stat. 2205) shall apply to all funds administered by the Secretary of the Interior which are appropriated for the construction and improvement of Indian reservation roads.
 
 (f) All appropriations for the construction and improvement of each class of Federal lands highways shall be administered in conformity with regulations and agreements jointly approved by the Secretary and the Secretary of the appropriate Federal land managing agency.
 
@@ -32,23 +62,71 @@ Eligible Projects.—Funds available for each class of Federal lands highways ma
 
 &emsp;(7) Other appropriate public road facilities such as visitor centers as determined by the Secretary.
 
+&emsp;(8) A project to build a replacement of the federally owned bridge over the Hoover Dam in the Lake Mead National Recreation Area between Nevada and Arizona.
+
 (i)
 
-Transfers to Secretary of the Interior.—The Secretary shall transfer to the Secretary of the Interior from the appropriation for public land highways amounts as may be needed to cover necessary administrative costs of the Bureau of Land Management in connection with public lands highways.
+Transfers of Costs to Secretaries of Federal Land Management Agencies.—
+
+&emsp;(1)
+
+Administrative costs.—The Secretary shall transfer to the appropriate Federal land management agency from amounts made available for public lands highways such amounts as are necessary to pay necessary administrative costs of the agency in connection with public lands highways.
+
+&emsp;(2)
+
+Transportation planning costs.—The Secretary shall transfer to the appropriate Federal land management agency from amounts made available for public lands highways such amounts as are necessary to paythe cost to the agency to conduct necessary transportation planning for Federal lands, if funding for the planning is not otherwise provided under this section.
 
 (j)
 
-Indian Reservation Roads Planning.—Up to 2 percent of funds made available for Indian reservation roads for each fiscal year shall be allocated to those Indian tribal governments applying for transportation planning pursuant to the provisions of the Indian Self-Determination and Education Assistance Act. The Indian tribal government, in cooperation with the Secretary of the Interior, and, as may be appropriate, with a State, local government, or metropolitan planning organization, shall develop a transportation improvement program, that includes all Indian reservation road projects proposed for funding. Projects shall be selected by the Indian tribal government from the transportation improvement program and shall be subject to the approval of the Secretary of the Interior and the Secretary.
+Indian Reservation Roads Planning.—Up to 2 percent of funds made available for Indian reservation roads for each fiscal year shall be allocated to those Indian tribal governments applying for transportation planning pursuant to the provisions of the Indian Self-Determination and Education Assistance Act. The Indian tribal government, in cooperation with the Secretary of the Interior, and as appropriate, with a State, local government, or metropolitan planning organization, shall carry out a transportation planning process in accordance with subsection (a). Projects shall be selected by the Indian tribal government from the transportation improvement program and shall be subject to the approval of the Secretary of the Interior and the Secretary.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 97–424, title I, §126(b), Jan. 6, 1983, 96 Stat. 2114; Pub. L. 100–17, title I, §133(b)(13), (14), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–240, title I, §§1030, 1032(b), title VI, §6004(c), Dec. 18, 1991, 105 Stat. 1970, 1974, 2169.)
+(k)
+
+Refuge Roads.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of this title, funds made available for refuge roads shall be used by the Secretary and the Secretary of the Interior only to pay the cost of—
+
+&emsp;&emsp;(A) maintenance and improvements of refuge roads;
+
+&emsp;&emsp;(B) maintenance and improvements of eligible projects described in paragraphs (2), (5), and (6) of subsection (h) that are located in or adjacent to wildlife refuges; and
+
+&emsp;&emsp;(C) administrative costs associated with such maintenance and improvements.
+
+&emsp;(2)
+
+Contracts.—In carrying out paragraph (1), the Secretary and the Secretary of the Interior, as appropriate, may enter into contracts with a State or civil subdivision of a State or Indian tribe as is determined advisable.
+
+&emsp;(3)
+
+Compliance with other law.—Funds made available for refuge roads shall be used only for projects that are in compliance with the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.).
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 97–424, title I, §126(b), Jan. 6, 1983, 96 Stat. 2114; Pub. L. 100–17, title I, §133(b)(13), (14), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–240, title I, §§1030, 1032(b), title VI, §6004(c), Dec. 18, 1991, 105 Stat. 1970, 1974, 2169; Pub. L. 105–178, title I, §1115(d), (e)(4), title V, §5119(a), June 9, 1998, 112 Stat. 156, 158, 452.)
 
 #### References in Text
 
 Section 23 of the “Buy Indian” Act of June 25, 1910 (36 Stat. 861), referred to in subsec. (e), is classified to section 47 of Title 25, Indians.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (j), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25. Section 7(b) of the Act is classified to section 450e(b) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (j), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. Section 7(b) of the Act is classified to section 450e(b) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+
+The National Wildlife Refuge System Administration Act of 1966, referred to in subsec. (k)(3), consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of Title 16, Conservation. For further details, see Short Title note set out under section 668dd of Title 16.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178, §1115(d)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Recognizing the need for all Federal roads which are public roads to be treated under the same uniform policies as roads which are on the Federal-aid systems, there is established a coordinated Federal lands highways program which shall consist of the public lands highways, park roads, parkways, and Indian reservation roads as defined in section 101 of this title. The Secretary, in cooperation with the Secretary of the Interior and the Secretary of Agriculture, shall develop appropriate transportation planning procedures and safety, bridge, and pavement management systems for roads funded under the Federal Lands Highway Program. Notwithstanding any other provision of this title, no public lands highway project may be undertaken in any State pursuant to this section unless the State concurs in the selection and planning of the project.”
+
+Subsec. (b). Pub. L. 105–178, §§1115(d)(2), 5119(a), substituted “Funds available for public lands highways, park roads and parkways, and Indian reservation roads shall be used by the Secretary and the Secretary of the appropriate Federal land management agency to pay for the cost of transportation planning, research, engineering, and construction of the highways, roads, and parkways, or of transit facilities within public lands, national parks, and Indian reservations. In connection with activities under the preceding sentence, the Secretary and the Secretary of the appropriate Federal land management agency may enter into construction contracts and other appropriate contracts with a State or civil subdivision of a State or Indian tribe.” for “Funds available for public lands highways shall be used by the Secretary to pay for the cost of planning, research, engineering and construction thereof. Funds available for park roads, parkways, and Indian reservation roads shall be used by the Secretary or the Secretary of the Interior to pay for the cost of construction and improvement thereof. In connection therewith, the Secretary and the Secretary of the Interior, as appropriate, may enter into construction contracts and such other contracts with a State or civil subdivision thereof or Indian tribe as deemed advisable.” and “section 504(b)” for “section 326”.
+
+Subsec. (e). Pub. L. 105–178, §1115(d)(3), substituted “Secretary of the appropriate Federal land management agency” for “Secretary of the Interior” in first sentence.
+
+Subsec. (h)(8). Pub. L. 105–178, §1115(d)(4), added par. (8).
+
+Subsec. (i). Pub. L. 105–178, §1115(d)(5), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “The Secretary shall transfer to the Secretary of the Interior from the appropriation for public land highways amounts as may be needed to cover necessary administrative costs of the Bureau of Land Management in connection with public lands highways.”
+
+Subsec. (j). Pub. L. 105–178, §1115(d)(6), substituted second sentence for former second sentence which read as follows: “The Indian tribal government, in cooperation with the Secretary of the Interior, and, as may be appropriate, with a State, local government, or metropolitan planning organization, shall develop a transportation improvement program, that includes all Indian reservation road projects proposed for funding.”
+
+Subsec. (k). Pub. L. 105–178, §1115(e)(4), added subsec. (k).
 
 1991—Subsec. (a). Pub. L. 102–240, §1032(b)(1), struck out “forest highways,” before “public lands highways” and inserted provisions requiring Secretary, in cooperation with Secretaries of the Interior and Agriculture, to develop transportation planning procedures and safety, bridge, and pavement management systems for roads funded under Federal Lands Highway Program, and provisions prohibiting public lands highway projects from being undertaken in any State pursuant to this section unless State concurs in selection and planning of project.
 
@@ -76,7 +154,7 @@ Subsec. (d). Pub. L. 97–424 redesignated former subsec. (b) as (d) and substit
 
 Subsec. (e). Pub. L. 97–424 redesignated former subsec. (c) as (e) and substituted provisions relating to competitive bidding and preference for Indians for provisions that construction estimated to cost $5,000 or more per mile, exclusive of bridges, was to be advertised and let to contract, that if such estimated cost was less than $5,000 per mile or if, after proper advertising, no acceptable bid was received or the bids deemed excessive, the work might be done by the Secretary on his own account, and that for such purpose, the Secretary might purchase, lease, hire, rent, or otherwise obtain all necessary supplies, materials, tools, equipment, and facilities required to perform the work, and might pay wages, salaries, and other expenses for help employed in connection with such work. Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 97–424 redesignated former subsec. (d) as (f), inserted reference to each class of Federal lands highways and to agreements, and substituted reference to the Secretary of the appropriate Federal landmanagement agency for reference to the Secretary of Agriculture. Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 97–424 redesignated former subsec. (d) as (f), inserted reference to each class of Federal lands highways and to agreements, and substituted reference to the Secretary of the appropriate Federal land management agency for reference to the Secretary of Agriculture. Former subsec. (f) redesignated (h).
 
 Subsec. (g). Pub. L. 97–424 redesignated former subsec. (e) as (g) and substituted “forest highways” for “forest-highway program”.
 
@@ -88,7 +166,7 @@ Amendment by sections 1030 and 1032 of Pub. L. 102–240 effective Dec. 18, 1991
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 138, 315 of this title; title 41 section 252; title 49 section 303.
+This section is referred to in sections 104, 120, 138, 315 of this title; title 16 section 460<i>lll</i>–14; title 41 section 252; title 49 section 303.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of funds”.</i>
 

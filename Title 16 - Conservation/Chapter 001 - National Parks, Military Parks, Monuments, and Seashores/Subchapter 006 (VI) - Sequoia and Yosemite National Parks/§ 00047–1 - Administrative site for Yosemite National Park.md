@@ -22,7 +22,7 @@ Until further action by the Congress, the lands acquired by or transferred to th
 
 #### (f) Availability of funds
 
-Funds now or hereafter appropriated or otherwise available for operating and capital programs in the areas administered by the NationalPark Service, including funds for acquisition of land and interests in land, are made available to acquire land, interests in land, and appurtenances thereto, within the administrative site, and to further the purpose of this section.
+Funds now or hereafter appropriated or otherwise available for operating and capital programs in the areas administered by the National Park Service, including funds for acquisition of land and interests in land, are made available to acquire land, interests in land, and appurtenances thereto, within the administrative site, and to further the purpose of this section.
 
 (Pub. L. 85–922, §§1–6, Sept. 2, 1958, 72 Stat. 1772.)
 
@@ -33,6 +33,10 @@ Week's law, referred to in subsec. (c), is act Mar. 1, 1911, ch. 186, 36 Stat. 9
 #### Codification
 
 Subsecs. (a) to (f) are based on sections 1 to 6, respectively, of Pub. L. 85–922.
+
+#### Land Exchange, El Portal Administrative Site, California
+
+Pub. L. 105–363, §4, Nov. 6, 1998, 112 Stat. 3298, authorized transfer from the United States of land within the El Portal Administrative Site to party conveying to United States an adjacent property known as the Yosemite View parcel, and provided for equalization of values of Federal and non-Federal lands, applicability of other laws to the exchange, boundary adjustment, map, and additional terms and conditions.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 Nothing in this chapter shall be deemed to repeal, modify, amend, or alter the provisions of section 9(a) of the Atomic Energy Act of 1946, as heretofore amended.
 
-(Aug. 1, 1946, ch. 724, title I, §241, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §241, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 

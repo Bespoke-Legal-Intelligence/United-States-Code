@@ -6,7 +6,7 @@ Such fugitive first mentioned may, by any officer or representative of the Unite
 
 Such marshal or other officer, or the deputies of such marshal or officer, when engaged in executing such warrant without the jurisdiction of the court to which they are attached, shall have all the powers of a marshal of the United States so far as such powers are requisite for the prisoner's safekeeping and the execution of the warrant.
 
-(June 25, 1948, ch. 645, 62 Stat. 815; Oct. 12, 1984, Pub. L. 98–473, title II, §204(b), 98 Stat. 1985.)
+(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 98–473, title II, §204(b), Oct. 12, 1984, 98 Stat. 1985.)
 
 #### Historical and Revision Notes
 

@@ -30,7 +30,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1978</b>—Par. (6). Pub. L. 95–539 added par. (6).
+1978—Par. (6). Pub. L. 95–539 added par. (6).
 
 #### Effective Date of 1978 Amendment
 
@@ -72,5 +72,5 @@ Taxation of costs in fine, forfeiture and criminal proceedings, see section 1918
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 654, 655, 1821, 2412, 2503 of this title; title 21 section 844.
+This section is referred to in sections 1821, 2412, 2503 of this title; title 21 section 844.
 

@@ -280,58 +280,55 @@ Reductions and increases in amount of funds provided.
 
 (c)
 
-Annual report.
+Treatment of shortfalls in indirect cost recoveries.
 
 (d)
 
-Treatment of shortfalls in indirect cost recoveries.
+Liability for indebtedness incurred before fiscal year 1992.
 
 (e)
 
-Liability for indebtedness incurred before fiscal year 1992.
+Limitation on remedies relating to cost disallowances.
 
 (f)
 
-Limitation on remedies relating to cost disallowances.
+Addition to contract of full amount contractor entitled; adjustment.
 
 (g)
 
-Addition to contract of full amount contractor entitled; adjustment.
+Indirect costs for contracts for construction programs.
 
 (h)
 
-Indirect costs for contracts for construction programs.
+Indian Health Service and Bureau of Indian Affairs budget consultations.
 
 (i)
 
-Indian Health Service and Bureau of Indian Affairs budget consultations.
+Use of funds for matching or cost participation requirements.
 
 (j)
 
-Use of funds for matching or cost participation requirements.
+Allowable uses of funds without approval of Secretary.
 
 (k)
 
-Allowable uses of funds without approval of Secretary.
+Suspension, withholding, or delay in payment of funds.
 
 (<i>l</i>)
 
-Suspension, withholding, or delay in payment of funds.
+Use of program income earned.
 
 (m)
 
-Use of program income earned.
-
-(n)
-
 Reduction of administrative or other responsibilities of Secretary; use of savings.
 
-(<i>o</i>)
+(n)
 
 Rebudgeting by tribal organization.
 
 |  |  |
 | :--- | ---: |
+| 450j–2. | Indian Health Service Funds; permissible uses. |
 | [450k.](Subchapter%20002%20%28II%29%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/Part%20A%20-%20Indian%20Self-Determination/%C2%A7%2000450k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -770,13 +767,9 @@ Waiver of applicability in personnel actions; scope, procedures, etc.
 
 (d)
 
-Annual report respecting Indians qualifying for preference positions.
+Placement of non-Indian employees in other Federal positions; assistance of Office of Personnel Management; cooperation of other Federal agencies.
 
 (e)
-
-Placement of non-Indian employees in other Federal positions; assistance of Office of Personnel Management; cooperation of other Federal agencies; reporting requirements.
-
-(f)
 
 Definitions.
 
@@ -1167,7 +1160,7 @@ Sale of retained lands to Secretary of Agriculture.
 
 (f)
 
-Klamath Forest National Wildlife Refuge; appropriation.
+Klamath Marsh National Wildlife Refuge; appropriation.
 
 (g)
 
@@ -2610,6 +2603,7 @@ Limitation; tribal discretion; additional requirements.
 |  |  |
 | :--- | ---: |
 | [712d.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712d%20-%20Rules.md) | Rules. |
+| [712e.](Subchapter%20030%E2%80%93B%20%28XXX%E2%80%93B%29%20-%20Cow%20Creek%20Band%20of%20Umpqua%20Tribe%20of%20Oregon/%C2%A7%2000712e%20-%20Certain%20property%20taken%20into%20trust.md) | Certain property taken into trust. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4055,7 +4049,7 @@ Determination of value of unallotted and allotted lands; exclusion of deceased a
 
 (b)
 
-Lands not subject to allotment; distribution of revenues from Mineral Springs parcel.
+Lands not subject to allotment.
 
 (c)
 
@@ -4899,9 +4893,11 @@ Cooperation with Mexican Government and joint funding agreements for meeting spe
 
 #### SUBCHAPTER LXXV—MISSISSIPPI SIOUX TRIBES: DISTRIBUTION OF JUDGMENT FUND
 
+#### Part A—1972 Distribution Authority
+
 |  |  |
 | :--- | ---: |
-| [1300d.](Subchapter%20075%20%28LXXV%29%20-%20Mississippi%20Sioux%20Tribes%20Distribution%20of%20Judgment%20Fund/%C2%A7%2001300d%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
+| [1300d.](Subchapter%20075%20%28LXXV%29%20-%20Mississippi%20Sioux%20Tribes%20Distribution%20of%20Judgment%20Fund/Part%20A%20-%201972%20Distribution%20Authority/%C2%A7%2001300d%20-%20Distribution%20of%20funds%3B%20attorney%20fees%20and%20expenses.md) | Distribution of funds; attorney fees and expenses. |
 | 1300d–1. | Lower Council Sioux. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4957,6 +4953,103 @@ Per capita distribution to enrollees.
 | 1300d–10. | Authority to settle action. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—1998 Distribution Authority
+
+|  |  |
+| :--- | ---: |
+| 1300d–21. | Definitions. |
+| 1300d–22. | Distribution to, and use of certain funds by, the Sisseton and Wahpeton Tribes of Sioux Indians. |
+| 1300d–23. | Distribution of funds to tribes. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use.
+
+(c)
+
+Tribal governing body of Assiniboine and Sioux Tribes of Fort Peck Reservation.
+
+(d)
+
+Tribal Trust Fund Accounts.
+
+|  |  |
+| :--- | ---: |
+| 1300d–24. | Use of distributed funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Prohibition.
+
+(b)
+
+Purposes.
+
+(c)
+
+Management.
+
+(d)
+
+Withdrawal of funds by covered tribes.
+
+|  |  |
+| :--- | ---: |
+| 1300d–25. | Effect of payments to covered Indian tribes on benefits. |
+| 1300d–26. | Distribution of funds to lineal descendants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Adjustments.
+
+(c)
+
+Verification of ancestry.
+
+|  |  |
+| :--- | ---: |
+| 1300d–27. | Jurisdiction; procedure. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Actions authorized.
+
+(b)
+
+Jurisdiction and venue.
+
+(c)
+
+Notice to covered tribes.
+
+(d)
+
+Statute of limitations.
+
+(e)
+
+Special rule.
+
+(f)
+
+Limitation on claims by a covered Indian tribe.
 
 #### SUBCHAPTER LXXVI—ASSINIBOINE TRIBES OF MONTANA: DISTRIBUTION OF JUDGMENT FUND
 

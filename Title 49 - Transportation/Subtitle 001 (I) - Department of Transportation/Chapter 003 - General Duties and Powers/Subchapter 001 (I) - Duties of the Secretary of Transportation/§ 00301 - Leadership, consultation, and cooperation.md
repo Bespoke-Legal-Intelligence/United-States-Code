@@ -8,17 +8,19 @@ The Secretary of Transportation shall—
 
 &emsp;(3) coordinate Federal policy on intermodal transportation and initiate policies to promote efficient intermodal transportation in the United States;
 
-&emsp;(4) promote and undertake the development, collection, and dissemination of technological, statistical, economic, and other informationrelevant to domestic and international transportation;
+&emsp;(4) promote and undertake the development, collection, and dissemination of technological, statistical, economic, and other information relevant to domestic and international transportation;
 
 &emsp;(5) consult and cooperate with the Secretary of Labor in compiling information regarding the status of labor-management contracts and other labor-management problems and in promoting industrial harmony and stable employment conditions in all modes of transportation;
 
 &emsp;(6) promote and undertake research and development related to transportation, including noise abatement, with particular attention to aircraft noise, and including basic highway vehicle science;
 
-&emsp;(7) consult with the heads of other departments, agencies, and instrumentalities of the United States Government on the transportation requirements of the Government, including encouraging them to establish and observe policies consistent with maintaining a coordinated transportation system in procuring transportation or in operating their own transport services; and
+&emsp;(7) consult with the heads of other departments, agencies, and instrumentalities of the United States Government on the transportation requirements of the Government, including encouraging them to establish and observe policies consistent with maintaining a coordinated transportation system in procuring transportation or in operating their own transport services;
 
-&emsp;(8) consult and cooperate with State and local governments, carriers, labor, and other interested persons, including, when appropriate, holding informal public hearings.
+&emsp;(8) consult and cooperate with State and local governments, carriers, labor, and other interested persons, including, when appropriate, holding informal public hearings; and
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2418; Pub. L. 102–240, title V, §5002(a), title VI, §6017, Dec. 18, 1991, 105 Stat. 2158, 2183.)
+&emsp;(9) develop and coordinate Federal policy on financing transportation infrastructure, including the provision of direct Federal credit assistance and other techniques used to leverage Federal transportation funds.
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2418; Pub. L. 102–240, title V, §5002(a), title VI, §6017, Dec. 18, 1991, 105 Stat. 2158, 2183; Pub. L. 105–178, title I, §1504, June 9, 1998, 112 Stat. 251.)
 
 Historical and Revision Notes
 
@@ -42,11 +44,35 @@ In clause (4), the word “compiling” is substituted for “gathering” for c
 
 #### Amendments
 
+1998—Par. (9). Pub. L. 105–178 added par. (9).
+
 1991—Pars. (3) to (5). Pub. L. 102–240, §5002(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
 Par. (6). Pub. L. 102–240, §§5002(a), 6017, redesignated par. (5) as (6) and inserted “, and including basic highway vehicle science”. Former par. (6) redesignated (7).
 
 Pars. (7), (8). Pub. L. 102–240, §5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+#### Coordinated Transportation Services
+
+Pub. L. 105–178, title III, §3034, June 9, 1998, 112 Stat. 386, provided that:
+
+“(a)
+
+Study.—The Comptroller General shall conduct a study of Federal departments and agencies (other than the Department of Transportation) that receive Federal financial assistance for non-emergency transportation services.
+
+“(b)
+
+Contents.—In conducting the study, the Comptroller General shall—
+
+&emsp;“(1) identify each Federal department and agency (other than the Department of Transportation) that has received Federal financial assistance for non-emergency transportation services in any of the 3 fiscal years preceding the date of enactment of this Act \[June 9, 1998\];
+
+&emsp;“(2) identify the amount of such assistance received by each Federal department and agency in such fiscal years; and
+
+&emsp;“(3) identify the projects and activities funded using such financial assistance.
+
+“(c)
+
+Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide funding for non-emergency transportation.”
 
 #### Establishment of Nationwide Differential Global Positioning System
 
@@ -62,7 +88,7 @@ Pub. L. 105–66, title III, §346, Oct. 27, 1997, 111 Stat. 1449, provided that
 
 &emsp;“(3) modify the positioning system operated by the Coast Guard at the time of the establishment of the NDGPS to integrate the reference stations made available pursuant to subsection (a);
 
-&emsp;“(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integrated into, the Continuously Operating Reference Station (commonly referred to as ‘CORS’) system of the National Geodetic Survey of the Department of Commerce; and
+&emsp;“(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integratedinto, the Continuously Operating Reference Station (commonly referred to as ‘CORS’) system of the National Geodetic Survey of the Department of Commerce; and
 
 &emsp;“(5) in cooperation with the Secretary of Commerce, investigate the use of the NDGPS reference stations for the Global Positioning System Integrated Precipitable Water Vapor System of the National Oceanic and Atmospheric Administration.
 
@@ -120,7 +146,7 @@ Pub. L. 100–457, title III, §317(b), Sept. 30, 1988, 102 Stat. 2149, directed
 
 #### Commercial Expendable Launch Vehicle Activities
 
-Designation of Department of Transportation as lead agency and duties of the Secretary for encouraging, facilitating, and developing commercial expendable launch vehicle operations by private enterprise, see Ex. Ord. No. 12465, Feb. 24, 1984, 49 F.R. 7211, set out under section 2465 of Title 42, The Public Health and Welfare.
+Designation of Department of Transportation as lead agency and duties of the Secretary for encouraging, facilitating, and developing commercial expendable launch vehicle operations by private enterprise, see Ex. Ord. No. 12465, Feb. 24, 1984, 49 F.R. 7211, set out under section 70101 of this title.
 
 #### Section Referred to in Other Sections
 

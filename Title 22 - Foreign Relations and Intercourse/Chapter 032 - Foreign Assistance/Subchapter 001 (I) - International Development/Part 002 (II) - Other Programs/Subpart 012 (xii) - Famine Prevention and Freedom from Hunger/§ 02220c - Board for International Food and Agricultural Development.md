@@ -2,7 +2,7 @@
 
 #### (a) Establishment; terms and expenses of members
 
-To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the “Board”) consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the Presidentat the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate.
+To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the “Board”) consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate.
 
 #### (b) General areas of responsibility
 
@@ -40,7 +40,7 @@ The Board's duties shall include, but not necessarily be limited to—
 
 &emsp;(5) reviewing and evaluating agreements and activities authorized by this subpart and undertaken by universities to assure compliance with the purposes of this subpart;
 
-&emsp;(6) recommending to the Director the apportionment of funds under section 2220b of this title; and
+&emsp;(6) recommending to the Administrator the apportionment of funds under section 2220b of this title; and
 
 &emsp;(7) assessing the impact of programs carried out under this subpart in solving agricultural problems in the developing nations.
 
@@ -56,15 +56,7 @@ The President may authorize the Board to create such subordinate units as may be
 
 In addition to any other functions assigned to and agreed to by the Board, the Board shall be consulted in the preparation of the annual report required by section 2220e of this title and on other agricultural development activities related to programs under this subpart.
 
-(Pub. L. 87–195, pt. I, §298, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 864; amended 1979 Reorg. Plan No. 2, §6(a)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379.)
-
-#### Transfer of Functions
-
-“Director”, meaning Director of the United States International Development Cooperation Agency, substituted for “Administrator”, meaning Administrator of the Agency for International Development, in subsec. (c)(6), pursuant to Reorg. Plan No. 2 of 1979, §6(a)(1), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred functions and authorities of Administrator of Agency for International Development under subsec. (c)(6) of this section to Director of United States International Development Cooperation Agency.
-
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with exception of functions under subsec. (a) and certain other exceptions, by sections 1–102(a)(1), (e) and 1–701(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+(Pub. L. 87–195, pt. I, §298, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 864.)
 
 #### Section Referred to in Other Sections
 

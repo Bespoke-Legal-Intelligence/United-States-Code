@@ -1,8 +1,0 @@
-### §20g. Recordkeeping; audit and examination; access to books and records
-
-Each concessioner shall keep such records as the Secretary may prescribe to enable the Secretary to determine that all terms of the concession contract have been and are being faithfully performed, and the Secretary and his duly authorized representatives shall, for the purpose of audit and examination, have access to said records and to other books, documents, and papers of the concessioner pertinent to the contract and all the terms and conditions thereof.
-
-The Comptroller General of the United States or any of his duly authorized representatives shall, until the expiration of five (5) calendar years after the close of the business year of each concessioner or subconcessioner have access to and the right to examine any pertinent books, documents, papers, and records of the concessioner or subconcessioner related to the negotiated contract or contracts involved.
-
-(Pub. L. 89–249, §9, Oct. 9, 1965, 79 Stat. 971.)
-

@@ -18,7 +18,7 @@
 
 (b) Centers supported under this section shall provide data to the Assistant Secretary on the projects and activities for which funds are provided under this subchapter. Such data shall include the number of personnel trained, the number of older individuals served, the number of schools assisted, and other information that will facilitate achieving the objectives of this chapter.
 
-(Pub. L. 89–73, title IV, §412, as added Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1601; amended Pub. L. 98–459, title IV, §404, Oct. 9, 1984, 98 Stat. 1782; Pub. L. 100–175, title I, §§105(e)(2), 134(c)(4), 146(c), 156(b), Nov. 29, 1987, 101 Stat. 930, 941, 950, 954; Pub. L. 102–375, title I, §102(b)(10)(I),title IV, §405, title IX, §904(a)(17), Sept. 30, 1992, 106 Stat. 1202, 1245, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title IV, §412, as added Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1601; amended Pub. L. 98–459, title IV, §404, Oct. 9, 1984, 98 Stat. 1782; Pub. L. 100–175, title I, §§105(e)(2), 134(c)(4), 146(c), 156(b), Nov. 29, 1987, 101 Stat. 930, 941, 950, 954; Pub. L. 102–375, title I, §102(b)(10)(I), title IV, §405, title IX, §904(a)(17), Sept. 30, 1992, 106 Stat. 1202, 1245, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
 #### Prior Provisions
 

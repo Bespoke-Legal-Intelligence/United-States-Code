@@ -64,7 +64,7 @@ Each Center shall be staffed by members of the United States and Foreign Commerc
 
 #### (2) Consolidation of Department of Commerce operations in host countries
 
-&emsp;For the purpose of obtaining maximum effectiveness and efficiency and to the extent consistent with the purposes of the Centers, the Secretary of Commerce is encouraged to place all personnel of the Department of Commerce who are assigned to the city in which a Center is located in the same facilities as those in which the Center conducts its activities.
+&emsp;For the purpose of obtaining maximum effectiveness and efficiency and to the extentconsistent with the purposes of the Centers, the Secretary of Commerce is encouraged to place all personnel of the Department of Commerce who are assigned to the city in which a Center is located in the same facilities as those in which the Center conducts its activities.
 
 #### (h) Use of Market Development Cooperator Program
 

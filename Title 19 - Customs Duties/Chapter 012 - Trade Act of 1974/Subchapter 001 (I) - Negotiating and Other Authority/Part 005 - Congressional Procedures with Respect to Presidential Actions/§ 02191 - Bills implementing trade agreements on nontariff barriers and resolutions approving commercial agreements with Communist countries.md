@@ -36,7 +36,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 #### (e) Period for committee and floor consideration
 
-(1) Except as provided in paragraph (2), if the committee or committees of either House to which an implementing bill or approval resolution has been referred have not reported it at the close of the 45th day after its introduction, such committee or committees shall be automatically discharged from further consideration of the bill or resolution and it shall be placed on the appropriate calendar. A vote on final passage of the bill or resolution shall be taken in each House on or before the close of the 15th day after the bill or resolution is reported by the committee or committees of that House to which it was referred, or after such committeeor committees have been discharged from further consideration of the bill or resolution. If prior to the passage by one House of an implementing bill or approval resolution of that House, that House receives the same implementing bill or approval resolution from the other House, then—
+(1) Except as provided in paragraph (2), if the committee or committees of either House to which an implementing bill or approval resolution has been referred have not reported it at the close of the 45th day after its introduction, such committee or committees shall be automatically discharged from further consideration of the bill or resolution and it shall be placed on the appropriate calendar. A vote on final passage of the bill or resolution shall be taken in each House on or before the close of the 15th day after the bill or resolution is reported by the committee or committees of that House to which it was referred, or after such committee or committees have been discharged from further consideration of the bill or resolution. If prior to the passage by one House of an implementing bill or approval resolution of that House, that House receives the same implementing bill or approval resolution from the other House, then—
 
 &emsp;(A) the procedure in that House shall be the same as if no implementing bill or approval resolution had been received from the other House, but
 
@@ -68,7 +68,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 (4) A motion in the Senate to further limit debate is not debatable. A motion to recommit an implementing bill or approval resolution is not in order.
 
-(Pub. L. 93–618, title I, §151, Jan. 3, 1975, 88 Stat. 2001; Pub. L. 100–418, title I, §1107(b)(1), Aug. 23, 1988, 102 Stat. 1135; Pub. L. 101–382, title I, §132(b)(2), Aug. 20, 1990, 104 Stat. 645; Pub. L. 103–465, title II, §282(c)(4), Dec. 8, 1994, 108 Stat. 4929.)
+(Pub. L. 93–618, title I, §151, Jan. 3, 1975, 88 Stat. 2001; Pub. L. 100–418, title I, §1107(b)(1), Aug. 23,1988, 102 Stat. 1135; Pub. L. 101–382, title I, §132(b)(2), Aug. 20, 1990, 104 Stat. 645; Pub. L. 103–465, title II, §282(c)(4), Dec. 8, 1994, 108 Stat. 4929.)
 
 #### Amendments
 

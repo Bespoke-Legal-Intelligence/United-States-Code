@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(III) deposits of public moneys.
 
-&emsp;(F) No trust company or mutual savings bank which is an insured bank under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] is a bank holding company by virtue of its direct or indirect ownership or control of one bank located in the same State, if (i) such ownership or control existed on December 31,1970, authorized by applicable State law, and (ii) the trust company or mutual savings bank does not after that date acquire an interest in any company that, together with any other interest it holds in that company, will exceed 5 per centum of any class of the voting shares of that company, except that this limitation shall not be applicable to investments of the trust company or mutual savings bank, direct and indirect, which are otherwise in accordance with the limitations applicable to national banks under section 24 of this title.
+&emsp;(F) No trust company or mutual savings bank which is an insured bank under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] is a bank holding company by virtue of its direct or indirect ownership or control of one bank located in the same State, if (i) such ownership or control existed on December 31, 1970, authorized by applicable State law, and (ii) the trust company or mutual savings bank does not after that date acquire an interest in any company that, together with any other interest it holds in that company, will exceed 5 per centum of any class of the voting shares of that company, except that this limitation shall not be applicable to investments of the trust company or mutual savings bank, direct and indirect, which are otherwise in accordance with the limitations applicable to national banks under section 24 of this title.
 
 (6) For the purposes of this chapter, any successor to a bank holding company shall be deemed to be a bank holding company from the date on which the predecessor company became a bank holding company.
 
@@ -102,7 +102,7 @@ Exceptions.—The term “bank” does not include any of the following:
 
 &emsp;&emsp;&emsp;(i) an institution organized under the laws of a State which, on March 5, 1987, had in effect or had under consideration in such State's legislature a statute which required or would require such institution to obtain insurance under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]—
 
-&emsp;&emsp;&emsp;&emsp;(I) which does not accept demand deposits that the depositor may withdraw by check or similar means for payment to third parties;
+&emsp;&emsp;&emsp;&emsp;(I) which does not accept demand deposits that the depositor may withdrawby check or similar means for payment to third parties;
 
 &emsp;&emsp;&emsp;&emsp;(II) which has total assets of less than $100,000,000; or
 
@@ -110,7 +110,7 @@ Exceptions.—The term “bank” does not include any of the following:
 
 &emsp;&emsp;&emsp;(ii) an institution which does not, directly, indirectly, or through an affiliate, engage in any activity in which it was not lawfully engaged as of March 5, 1987,
 
-> &emsp;&emsp;except that this subparagraph shall cease to apply to any institution which permits anyoverdraft (including any intraday overdraft), or which incurs any such overdraft in such institution's account at a Federal Reserve bank, on behalf of an affiliate if such overdraft is not the result of an inadvertent computer or accounting error that is beyond the control of both the institution and the affiliate.
+> &emsp;&emsp;except that this subparagraph shall cease to apply to any institution which permits any overdraft (including any intraday overdraft), or which incurs any such overdraft in such institution's account at a Federal Reserve bank, on behalf of an affiliate if such overdraft is not the result of an inadvertent computer or accounting error that is beyond the control of both the institution and the affiliate.
 
 &emsp;&emsp;(I) The Investors Fiduciary Trust Company, located in Kansas City, Missouri, so long as such institution—
 
@@ -162,7 +162,7 @@ District bank.—The term “District bank” means any bank operating under the
 
 (h)(1) Except as provided by paragraph (2), the application of this chapter and of section 371c of this title shall not be affected by the fact that a transaction takes place wholly or partly outside the United States or that a company is organized or operates outside the United States.
 
-(2) Except as provided in paragraph (3), the prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States. Forthe purpose of this subsection, the term “section 2(h)(2) company” means any company whose shares are held pursuant to this paragraph.
+(2) Except as provided in paragraph (3), the prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States. For the purpose of this subsection, the term “section 2(h)(2) company” means any company whose shares are held pursuant to this paragraph.
 
 (3) Nothing in paragraph (2) authorizes a section 2(h)(2) company to engage in (or acquire or hold more than 5 percent of the outstanding shares of any class of voting securities of a company engaged in) any banking, securities, insurance, or other financial activities, as defined by the Board, in the United States. This paragraph does not prohibit a section 2(h)(2) company from holding shares that were lawfully acquired before August 10, 1987.
 
@@ -260,7 +260,7 @@ Home state.—The term “home State” means—
 
 &emsp;&emsp;(B) with respect to a State bank, the State by which the bank is chartered; and
 
-&emsp;&emsp;(C) with respect to a bank holding company, the State in which the total depositsof all banking subsidiaries of such company are the largest on the later of—
+&emsp;&emsp;(C) with respect to a bank holding company, the State in which the total deposits of all banking subsidiaries of such company are the largest on the later of—
 
 &emsp;&emsp;&emsp;(i) July 1, 1966; or
 
@@ -346,13 +346,13 @@ Qualified family partnership.—The term “qualified family partnership” mean
 
 #### Amendment of Subsection (j)(2)
 
-<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(17), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (j)(2) of this section is amended by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(17), Sept. 30, 1996, 110 Stat. 3009–487, 3009–495, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (j)(2) of this</i><i>section is amended by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (4), (c), and (g) to (<i>o</i>), was in the original “this Act”, meaning act May 9, 1956, ch. 240, 70 Stat. 133, as amended, known as the Bank Holding Company Act of 1956, which enacted this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsecs. (a)(5)(F) and (c)(2)(H)(i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsecs. (a)(5)(F) and (c)(2)(H)(i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 Enactment of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (b), means enactment of Pub. L. 91–607, on Dec. 31, 1970. For classification of Pub. L. 91–607, see Short Title of 1970 Amendment note below.
 
@@ -442,7 +442,7 @@ Pub. L. 97–290, title II, §201, Oct. 8, 1982, 96 Stat. 1235, provided that: �
 
 #### Short Title of 1970 Amendment
 
-Section 1 of Pub. L. 91–607 provided: “That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
+Section 1 of Pub. L. 91–607 provided: “That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
 
 #### Short Title
 

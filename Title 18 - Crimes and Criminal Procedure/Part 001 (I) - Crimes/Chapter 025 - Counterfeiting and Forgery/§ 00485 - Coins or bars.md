@@ -2,11 +2,11 @@
 
 Whoever falsely makes, forges, or counterfeits any coin or bar in resemblance or similitude of any coin of a denomination higher than 5 cents or any gold or silver bar coined or stamped at any mint or assay office of the United States, or in resemblance or similitude of any foreign gold or silver coin current in the United States or in actual use and circulation as money within the United States; or
 
-Whoever passes, utters, publishes, sells, possesses, or brings into the United States anyfalse, forged, or counterfeit coin or bar, knowing the same to be false, forged, or counterfeit, with intent to defraud any body politic or corporate, or any person, or attempts the commission of any offense described in this paragraph—
+Whoever passes, utters, publishes, sells, possesses, or brings into the United States any false, forged, or counterfeit coin or bar, knowing the same to be false, forged, or counterfeit, with intent to defraud any body politic or corporate, or any person, or attempts the commission of any offense described in this paragraph—
 
 Shall be fined under this title or imprisoned not more than fifteen years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; July 23, 1965, Pub. L. 89–81, title II, §211(a), 79 Stat. 257; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 89–81, title II, §211(a), July 23, 1965, 79 Stat. 257; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -4,7 +4,7 @@ Adjustment Assistance for Firms
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 1998, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after June 30, 1999, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Part Referred to in Other Sections
 

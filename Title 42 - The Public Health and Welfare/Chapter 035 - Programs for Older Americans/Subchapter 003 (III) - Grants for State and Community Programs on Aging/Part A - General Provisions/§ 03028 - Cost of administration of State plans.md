@@ -58,7 +58,7 @@
 
 (ii) If a State demonstrates, to the satisfaction of the Assistant Secretary, that funds received by the State and attributable to funds appropriated under part B of this subchapter or part C of this subchapter (including funds transferred under subparagraph (A) without regard to this subparagraph) for fiscal year 1996 are insufficient to satisfy the need for services under such part, then the Assistant Secretary may grant a waiver that permits the State to transfer under subparagraph (A) to satisfy such need an additional 8 percent of the funds so received for such fiscal year.
 
-(C) At a minimum, the application described in subparagraph (A) shall include a description of the amount to be transferred, the purposes of the transfer, the need for the transfer, and the impact of the transfer on the provision of services from which the funding will be transferred. The Assistant Secretary shall approve or deny the application in writing.
+(C) At a minimum, the application described in subparagraph (A) shall include a description of the amount to be transferred, the purposes ofthe transfer, the need for the transfer, and the impact of the transfer on the provision of services from which the funding will be transferred. The Assistant Secretary shall approve or deny the application in writing.
 
 (6) A State agency may not delegate to an area agency on aging or any other entity the authority to make a transfer under paragraph (4)(A) or (5)(A).
 
@@ -88,7 +88,7 @@
 
 The amounts of any State's allotment under subsection (b) of this section for any fiscal year which the Assistant Secretary determines will not be required for that year for the purposes described in subsection (a)(1) of this section shall be available to provide services under part B of this subchapter or part C of this subchapter, or both, in the State.
 
-(Pub. L. 89–73, title III, §308, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1530; amended Pub. L. 97–115, §§3(d), 8, Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §308, Oct. 9, 1984, 98 Stat. 1777; Pub. L. 100–175, title I, §§129(c)(2), 182(<i>l</i>), Nov. 29, 1987, 101 Stat. 935, 966; Pub. L. 102–375, title I, §102(b)(9)(C), (10)(A), title III, §308, title IX, §904(a)(14), Sept. 30, 1992, 106Stat. 1202, 1234, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title III, §308, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1530; amended Pub. L. 97–115, §§3(d), 8, Dec. 29, 1981, 95 Stat. 1597, 1600; Pub. L. 98–459, title III, §308, Oct. 9, 1984, 98 Stat. 1777; Pub. L. 100–175, title I, §§129(c)(2), 182(<i>l</i>), Nov. 29, 1987, 101 Stat. 935, 966; Pub. L. 102–375, title I, §102(b)(9)(C), (10)(A), title III, §308, title IX, §904(a)(14), Sept. 30, 1992, 106 Stat. 1202, 1234, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
 #### Prior Provisions
 
@@ -134,7 +134,7 @@ Pub. L. 100–175, §129(c)(2)(B), inserted “subsections (a)(1) and (b) of” 
 
 Subsec. (a)(2). Pub. L. 98–459, §308(a)(2), substituted “available to a State under subsection (b)(1) of this section” for “received by a State under this section”.
 
-Subsec. (b)(1). Pub. L. 98–459, §308(b)(6), added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared to all States, and specifying minimum amounts for each State of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
+Subsec. (b)(1). Pub. L. 98–459, §308(b)(6), added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared to all States, and specifying minimum amounts for eachState of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
 
 Subsec. (b)(2). Pub. L. 98–459, §308(b)(6), added par. (2). Former par. (2) redesignated (3).
 

@@ -40,7 +40,7 @@ Considerations.—The Secretary may increase or decrease under this subsection a
 
 (d)
 
-Reservation for Adjustments.—The Secretary may reserve a percentage of not more than 2 percent of the amount under this section for a payment period for all units of general local government in a State if the Secretary considers the reserve is necessary to ensure the availability of sufficient amounts to pay adjustments after the final allocation of amountsamong the units of general local government in the State.
+Reservation for Adjustments.—The Secretary may reserve a percentage of not more than 2 percent of the amount under this section for a payment period for all units of general local government in a State if the Secretary considers the reserve is necessary to ensure the availability of sufficient amounts to pay adjustments after the final allocation of amounts among the units of general local government in the State.
 
 (e)
 
@@ -86,7 +86,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(A) the term “small business concern” has the meaning such term has under section 3 of the Small Business Act;
 
-&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section; and
+&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaningsuch term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section; and
 
 &emsp;&emsp;(C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(<i>o</i>) <sup>1</sup>).
 

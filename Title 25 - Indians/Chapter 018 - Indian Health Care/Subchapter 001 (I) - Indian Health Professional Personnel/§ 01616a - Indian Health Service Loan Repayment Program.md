@@ -50,7 +50,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (<i>l</i>) of this section in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
-(2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
+(2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a mannercalculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
 (3) The Secretary shall make such application forms, contract forms, and other information available to individuals desiring to participate in the Loan Repayment Program on a date sufficiently early to ensure that such individuals have adequate time to carefully review and evaluate such forms and information.
 
@@ -164,7 +164,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receive consideration on an equal basis with programs that are administered directly by the Service; and
 
-&emsp;(2) give priority to assigning individuals to Indian health programs that have a need for health professionals to provide health careservices as a result of individuals having breached contracts entered into under this section.
+&emsp;(2) give priority to assigning individuals to Indian health programs that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
 
 #### (<i>l</i>) Voluntary termination of study or dismissal from educational institution; collection of damages
 
@@ -190,7 +190,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(A) “A” is the amount the United States is entitled to recover;
 
-&emsp;(B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
+&emsp;(B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest atthe maximum legal prevailing rate, as determined by the Treasurer of the United States;
 
 &emsp;(C) “t” is the total number of months in the individual's period of obligated service in accordance with subsection (f) of this section; and
 
@@ -234,7 +234,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 &emsp;(6) the amount of scholarship grants provided under section 1613a of this title, in total and by health profession;
 
-&emsp;(7) the number of providers of health care that will be needed by Indian health programs,by location and profession, during the three fiscal years beginning after the date the report is filed; and
+&emsp;(7) the number of providers of health care that will be needed by Indian health programs, by location and profession, during the three fiscal years beginning after the date the report is filed; and
 
 &emsp;(8) the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 
@@ -254,7 +254,7 @@ Subsec. (b)(1)(A)(ii). Pub. L. 102–573, §106(a)(2)(A)(ii), substituted “a h
 
 Subsec. (b)(1)(B). Pub. L. 102–573, §106(a)(2)(B), in cl. (i), substituted “a degree in a health profession; and” for “a degree in medicine, osteopathy, dentistry, or other health profession;”, redesignated cl. (iii) as (ii) and substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”, and struck out former cl. (ii) which read as follows: “completed an approved graduate training program in medicine, osteopathy, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and”.
 
-Subsec. (b)(2) to (4). Pub. L. 102–573, §106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), and struck out former pars. (3) and (4) which read as follows:
+Subsec. (b)(2) to (4). Pub. L. 102–573, §106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), andstruck out former pars. (3) and (4) which read as follows:
 
 “(3) submit an application to participate in the Loan Repayment Program; and
 

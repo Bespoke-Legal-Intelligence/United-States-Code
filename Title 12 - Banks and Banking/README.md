@@ -1,5 +1,5 @@
 
-12 U.S.C.<br>United States Code, 1997 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
+12 U.S.C.<br>United States Code, 1998 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 12—BANKS AND BANKING
 
@@ -59,6 +59,7 @@
 | [<b>46.</b>](Chapter%20046%20-%20Government%20Sponsored%20Enterprises/README.md) | <b>Government Sponsored Enterprises</b> | <b>4501</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Community%20Development%20Banking/README.md) | <b>Community Development Banking</b> | <b>4701</b> |
 | [<b>48.</b>](Chapter%20048%20-%20Financial%20Institutions%20Regulatory%20Improvement/README.md) | <b>Financial Institutions Regulatory Improvement</b> | <b>4801</b> |
+| [<b>49.</b>](Chapter%20049%20-%20Homeowners%20Protection/README.md) | <b>Homeowners Protection</b> | <b>4901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -121,3 +122,4 @@
 - [Chapter 046 - Government Sponsored Enterprises](Chapter%20046%20-%20Government%20Sponsored%20Enterprises/README.md)
 - [Chapter 047 - Community Development Banking](Chapter%20047%20-%20Community%20Development%20Banking/README.md)
 - [Chapter 048 - Financial Institutions Regulatory Improvement](Chapter%20048%20-%20Financial%20Institutions%20Regulatory%20Improvement/README.md)
+- [Chapter 049 - Homeowners Protection](Chapter%20049%20-%20Homeowners%20Protection/README.md)

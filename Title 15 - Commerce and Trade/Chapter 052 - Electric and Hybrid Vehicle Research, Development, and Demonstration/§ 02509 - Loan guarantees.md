@@ -50,7 +50,7 @@ Loan guarantees under this section shall be on such terms and conditions as the 
 
 #### (f) Qualified borrower
 
-As used in this section, the term “qualified borrower” means any partnership, corporation, or other legal entity which (as determined by the Secretary of Energy) has presented satisfactory evidence of an interest in electric or hybrid vehicle technology and is capable of performing research or completing the development and production of electric or hybrid vehicles or any components thereof in an acceptable manner.
+As used in this section, the term “qualified borrower” means any partnership, corporation, or other legal entity which (as determined by the Secretary of Energy) has presented satisfactory evidence of an interest in electric or hybrid vehicle technology and is capable of performing research or completing the development andproduction of electric or hybrid vehicles or any components thereof in an acceptable manner.
 
 #### (g) Payment of principal and interest; default; recovery of losses
 

@@ -86,5 +86,5 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 36 section 173.
+This section is referred to in section 5 of this title.
 

@@ -38,7 +38,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(7) commits an act described in paragraph (1) or (2) of section 1320a–7b(b) of this title;
 
-> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each daythe prohibited relationship occurs; or in cases under paragraph (7), $50,000 for each such act). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; or in cases under paragraph (7), $50,000 for each such act). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 #### (b) Payments to induce reduction or limitation of services
 
@@ -58,7 +58,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(ii) three times the amount of the payments under subchapter XVIII of this chapter for home health services which are made pursuant to such certification.
 
-(B) A document described in this subparagraph is any document that certifies, for purposes of subchapter XVIII of this chapter, that an individual meets the requirements of section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title in the case of home health services furnished to the individual.
+(B) A document described in this subparagraph is any document that certifies, for purposes of subchapter XVIII of this chapter, that an individual meets the requirements of section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title in thecase of home health services furnished to the individual.
 
 #### (c) Initiation of proceeding; authorization by Attorney General, notice, etc., estoppel, failure to comply with order or procedure
 
@@ -108,7 +108,7 @@ Any person adversely affected by a determination of the Secretary under this sec
 
 #### (f) Compromise of penalties and assessments; recovery; use of funds recovered
 
-Civil money penalties and assessments imposed under this section may be compromised by the Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
+Civil money penalties and assessments imposed under this section may be compromised bythe Secretary and may be recovered in a civil action in the name of the United States brought in United States district court for the district where the claim was presented, or where the claimant resides, as determined by the Secretary. Amounts recovered under this section shall be paid to the Secretary and disposed of as follows:
 
 &emsp;(1)(A) In the case of amounts recovered arising out of a claim under subchapter XIX of this chapter, there shall be paid to the State agency an amount bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid for such claim.
 
@@ -128,7 +128,7 @@ A determination by the Secretary to impose a penalty, assessment, or exclusion u
 
 #### (h) Notification of appropriate entities of finality of determination
 
-Whenever the Secretary's determination to impose a penalty, assessment, or exclusion under subsection (a) or (b) of this section becomes final, he shall notify the appropriate State or local medical or professional organization, the appropriate State agency or agenciesadministering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title), and the appropriate utilization and quality control peer review organization, and the appropriate State or local licensing agency or organization (including the agency specified in section 1395aa(a) and 1396a(a)(33) of this title) that such a penalty, assessment, or exclusion has become final and the reasons therefor.
+Whenever the Secretary's determination to impose a penalty, assessment, or exclusion under subsection (a) or (b) of this section becomes final, he shall notify the appropriate State or local medical or professional organization, the appropriate State agency or agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title), and the appropriate utilization and quality control peer review organization, and the appropriate State or local licensing agency or organization (including the agency specified in section 1395aa(a) and 1396a(a)(33) of this title) that such a penalty, assessment, or exclusion has become final and the reasons therefor.
 
 #### (i) Definitions
 
@@ -158,9 +158,9 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) fails to collect coinsurance or deductible amounts after making reasonable collection efforts;
 
-&emsp;&emsp;(B) any permissible waiver as specified in section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;
+&emsp;&emsp;(B) subject to subsection (n) of this section, any permissible practice described in any subparagraph of section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;
 
-&emsp;&emsp;(C) differentials in coinsurance and deductible amounts as part of a benefit plan design as long as the differentials have been disclosed in writing to all beneficiaries, third party payers, and providers, to whom claims are presented and as long as the differentials meet the standards as defined in regulations promulgated by the Secretary not later than 180 days after August 21, 1996; or
+&emsp;&emsp;(C) differentials in coinsurance and deductible amounts as part of a benefit plan designas long as the differentials have been disclosed in writing to all beneficiaries, third party payers, and providers, to whom claims are presented and as long as the differentials meet the standards as defined in regulations promulgated by the Secretary not later than 180 days after August 21, 1996; or
 
 &emsp;&emsp;(D) <sup>2</sup> incentives given to individuals to promote the delivery of preventive care as determined by the Secretary in regulations so promulgated.
 
@@ -200,7 +200,17 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 (B) If the conditions specified in subparagraph (A) are fulfilled, the Inspector General of the department or agency initiating the action is authorized to exercise all powers granted under the Inspector General Act of 1978 (5 U.S.C. App.) with respect to the claims submitted to the other departments or agencies to the same manner and extent as provided in that Act with respect to claims submitted to such departments or agencies.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2105(a), 95 Stat. 789; amended Sept. 3, 1982, Pub. L. 97–248, title I, §137(b)(26), 96 Stat. 380; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), 98 Stat. 1073, 1100; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), 100 Stat. 2003, 2008; Aug. 18, 1987, Pub. L. 100–93, §3, 101 Stat. 686; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), 101 Stat. 1330–155, as amended July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), 102 Stat. 775, 794, 795; July 1, 1988, Pub. L. 100–360, title II, §202(c)(2), 102 Stat. 715; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), 102 Stat. 2422; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), 103 Stat. 2153; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Oct. 31, 1994, Pub. L. 103–432, title I, §160(d)(4), 108 Stat. 4444; Aug. 21, 1996, Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), 110 Stat. 2012–2015; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), 111 Stat. 373, 383, 396, 449.)
+#### (n) Safe harbor for payment of medigap premiums
+
+(1) Subparagraph (B) of subsection (i)(6) of this section shall not apply to a practice described in paragraph (2) unless—
+
+&emsp;(A) the Secretary, through the Inspector General of the Department of Health and Human Services, promulgates a rule authorizing such a practice as an exception to remuneration; and
+
+&emsp;(B) the remuneration is offered or transferred by a person under such rule during the 2-year period beginning on the date the rule is first promulgated.
+
+(2) A practice described in this paragraph is a practice under which a health care provider or facility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII of this chapter pursuant to section 426–1 of this title.
+
+(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L.101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916.)
 
 #### References in Text
 
@@ -211,6 +221,10 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 The Inspector General Act of 1978, referred to in subsec. (m)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (i)(6)(B). Pub. L. 105–277, §5201(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any permissible waiver as specified in section 1320a–7b(b)(3) of this title or in regulations issued by the Secretary;”.
+
+Subsec. (n). Pub. L. 105–277, §5201(b)(1), added subsec. (n).
 
 1997—Subsec. (a). Pub. L. 105–33, §4304(b)(2), in concluding provisions, substituted “occurs; or in cases under paragraph (7), $50,000 for each such act).” for “occurs).” and inserted “(or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose)” after “of such claim”.
 
@@ -344,7 +358,7 @@ Pub. L. 100–93, §3(b), (c), substituted “penalty, assessment, or exclusion�
 
 Subsec. (d). Pub. L. 100–93, §3(c), substituted “penalty, assessment, or exclusion” for “penalty or assessment” in introductory provisions.
 
-Subsec. (f)(1)(A). Pub. L. 100–93, §3(d), substituted “bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amountpaid” for “equal to the State's share of the amount paid by the State agency”.
+Subsec. (f)(1)(A). Pub. L. 100–93, §3(d), substituted “bearing the same proportion to the total amount recovered as the State's share of the amount paid by the State agency for such claim bears to the total amount paid” for “equal to the State's share of the amount paid by the State agency”.
 
 Subsec. (g). Pub. L. 100–93, §3(c), substituted “penalty, assessment, or exclusion” for “penalty or assessment” in two places.
 
@@ -396,6 +410,10 @@ Subsec. (g). Pub. L. 98–369, §2354(a)(3), substituted “utilization and qual
 
 1982—Subsec. (a). Pub. L. 97–248 redesignated as part of par. (1) preceding subpar. (A) provisions formerly preceding par. (1), in subpar. (B) substituted “or pursuant to a determination by the Secretary under section 1395cc(b)(2) of this title with respect to which the Secretary has initiated termination proceedings;” for “or 1395cc(b)(2) of this title,”, and in par. (2) substituted “presents or causes to be presented to any person a request for payment which is in violation of the terms of (A) an assignment under section 1842(b)(3)(B)(ii), or (B) an agreement with a State agency not to charge a person for an item or service in excess of the amount permitted to be charged” for “is submitted in violation of an agreement between the person and the United States or a State agency”.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. J, title V, §5201(d), Oct. 21, 1998, 112 Stat. 2681–917, provided that: “The amendments made by this section \[amending this section and section 1320a–7d of this title\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
@@ -432,7 +450,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendments
 
-Section 4118(e)(14), formerly section 4118(e)(3), of Pub. L. 100–203, as renumbered and amended by Pub. L.100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4118(e)(14), formerly section 4118(e)(3), of Pub. L. 100–203, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, except that amendment by section 3(a)(1) of Pub. L. 100–93 applicable to claims presented for services performed on or after date at end of fourteen-day period beginning Aug. 18, 1987, without regard to the date the physician's misrepresentation of fact was made, and amendment by section 3(f) of Pub. L. 100–93 effective Aug. 18, 1987, see section 15(a), (c)(3), and (d) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
@@ -457,6 +475,14 @@ Amendment by section 2354(a)(3) of Pub. L. 98–369 effective July 18, 1984, but
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–248 effective as if originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
+
+#### Regulations
+
+Pub. L. 105–277, div. J, title V, §5201(e), Oct. 21, 1998, 112 Stat. 2681–917, provided that: “The Secretary of Health and Human Services may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment, in order to implement the amendments made by this section \[amending this section and section 1320a–7d of this title\] in a timely manner.”
+
+#### GAO Study and Report on Impact of Safe Harbor on Medigap Policies
+
+Pub. L. 105–277, div. J, title V, §5201(b)(2), Oct. 21, 1998, 112 Stat. 2681–917, provided that: “If a permissible practice is promulgated under section 1128A(n)(1)(A) of the Social Security Act \[subsec. (n)(1)(A) of this section\] (as added by paragraph (1)), the Comptroller General of the United States shall conduct a study that compares any disproportionate impact on specific issuers of medicare supplemental policies (including the impact on premiums for non-ESRD medicare beneficiaries enrolled in such policies) due to adverse selection in enrolling medicare ESRD beneficiaries before the enactment of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, Aug. 21, 1996\] and 1 year after the date of promulgation of such permissible practice under section 1128A(n)(1)(A) of the Social Security Act. Not later than 18 months after the date of promulgation of such practice, the Comptroller General shall submit a report to Congress on such study and shall include in the report recommendations concerning whether the time limitation imposed under section 1128A(n)(1)(B) of such Act \[subsec. (n)(1)(B) of this section\] should be extended.”
 
 #### Repeal of 1988 Expansion of Medicare Part B Benefits
 

@@ -40,7 +40,7 @@ The Secretary may make grants for the purpose of providing for the operating exp
 
 &emsp;&emsp;(B) agrees to implement the plan according to a schedule approved by the Secretary.
 
-(July 1, 1944, ch. 373, title XII, §1241, as added July 10, 1992, Pub. L. 102–321, title VI, §601, 106 Stat. 433.)
+(July 1, 1944, ch. 373, title XII, §1241, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 433.)
 
 #### Effective Date
 

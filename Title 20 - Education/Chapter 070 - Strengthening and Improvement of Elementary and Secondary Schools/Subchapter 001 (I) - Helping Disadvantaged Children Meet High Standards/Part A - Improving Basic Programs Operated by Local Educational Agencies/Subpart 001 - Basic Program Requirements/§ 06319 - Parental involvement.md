@@ -8,7 +8,7 @@
 
 #### (2) Written policy
 
-&emsp;Each local educational agency that receives funds under this part shall develop jointly with, agree upon with, and distribute to, parents of participating children a written parent involvement policy that is incorporated into the local educational agency's plan developed under section 6312 of this title, establishes the expectations for parent involvement, and describes how the local educational agency will—
+&emsp;Each local educational agency that receives funds under this part shall develop jointly with, agree upon with, and distribute to, parents of participating children a written parent involvement policy that is incorporated into the local educational agency's plan developedunder section 6312 of this title, establishes the expectations for parent involvement, and describes how the local educational agency will—
 
 &emsp;&emsp;(A) involve parents in the joint development of the plan under section 6312 of this title, and the process of school review and improvement under section 6317 of this title;
 
@@ -28,7 +28,7 @@
 
 #### (3) Reservation
 
-&emsp;(A) Each local educational agency shall reserve not less than 1 percent of such agency's allocation under this part to carry out this section, including family literacy and parenting skills, except that this paragraph shall notapply if 1 percent of such agency's allocation under this part (other than funds allocated under section 6302(e) of this title) for the fiscal year for which the determination is made is $5,000 or less.
+&emsp;(A) Each local educational agency shall reserve not less than 1 percent of such agency's allocation under this part to carry out this section, including family literacy and parenting skills, except that this paragraph shall not apply if 1 percent of such agency's allocation under this part (other than funds allocated under section 6302(e) of this title) for the fiscal year for which the determination is made is $5,000 or less.
 
 &emsp;(B) Parents of children receiving services under this part shall be involved in the decisions regarding how funds reserved under subparagraph (A) are allotted for parental involvement activities.
 
@@ -72,7 +72,7 @@ Each school served under this part shall—
 
 &emsp;&emsp;(E) timely responses to parents’ suggestions under subparagraph (D); and
 
-&emsp;(5) if the schoolwide program plan under section 6314(b)(2) of this title is not satisfactory to the parents of participating children, submit any parent comments on the plan when the school makes the plan available to the local educational agency.
+&emsp;(5) if the schoolwide program plan under section 6314(b)(2) of this title is not satisfactoryto the parents of participating children, submit any parent comments on the plan when the school makes the plan available to the local educational agency.
 
 #### (d) Shared responsibilities for high student performance
 

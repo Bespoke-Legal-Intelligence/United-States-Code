@@ -32,7 +32,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (5) Funding
 
-&emsp;The Secretary shall, with the funds made available in accordance with section 3955 of this title, allocate funds among the members of the Task Force based on the need for such funds and such other factors as the Task Force deems appropriate to carry out the purposes of this subsection.
+&emsp;The Secretary shall, with the funds made available in accordance with section 3955 of this title, allocate funds among the members of the Task Force based on the need for such funds and such other factors as the Task Forcedeems appropriate to carry out the purposes of this subsection.
 
 #### (b) Federal and State project planning
 
@@ -90,7 +90,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (c) Coastal wetlands restoration project benefits
 
-Where such a determination is required under applicable law, the net ecological, aesthetic, and cultural benefits, together with the economic benefits, shall be deemed to exceed the costs of any coastal wetlands restoration project withinthe State which the Task Force finds to contribute significantly to wetlands restoration.
+Where such a determination is required under applicable law, the net ecological, aesthetic, and cultural benefits, together with the economic benefits, shall be deemed to exceed the costs of any coastal wetlands restoration project within the State which the Task Force finds to contribute significantly to wetlands restoration.
 
 #### (d) Consistency
 

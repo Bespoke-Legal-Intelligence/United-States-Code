@@ -1,10 +1,10 @@
 ### \[§§3781 to 3787. Repealed. Pub. L. 96–513, title II, §213, Dec. 12, 1980, 94 Stat. 2885\]
 
-Section 3781, acts Aug. 10, 1956, ch. 1041, 70A Stat. 218; July 12, 1960, Pub. L. 86–616, §2(a), 74 Stat. 386, authorized Secretary of the Army to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Army to determine whether he should be required, because of substandard performance of duty, to show cause for his retention on active list. See section 1181(a) of this title.
+Section 3781, acts Aug. 10, 1956, ch. 1041, 70A Stat. 218; July 12, 1960, Pub. L. 86–616, §2(a), 74 Stat. 386, authorized Secretary of the Army to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Army to determinewhether he should be required, because of substandard performance of duty, to show cause for his retention on active list. See section 1181(a) of this title.
 
 Section 3782, acts Aug. 10, 1956, ch. 1041, 70A Stat. 218; July 12, 1960, Pub. L. 86–616, §2(a), 74 Stat. 387, provided for boards of inquiry, composed of three or more officers, to be convened at such places as Secretary of the Army prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under section 3781 of this title, should be retained on active list of Regular Army. See section 1182 of this title.
 
-Section 3783, acts Aug. 10, 1956, ch. 1041, 70A Stat. 218; July 12, 1960, Pub. L. 86–616, §2(a), 74 Stat. 387, provided for boards of review, composed of three or more officers, to be convened by Secretary of the Army, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Army. See section 1183 of this title.
+Section 3783, acts Aug. 10, 1956, ch. 1041, 70A Stat. 218; July 12, 1960, Pub. L. 86–616, §2(a), 74 Stat. 387, provided for boards of review, composed of three or more officers, to be convened by Secretary of the Army, at such places as he prescribes, to review records of cases of officers recommended by boards of inquiry for removal from active list of Regular Army.
 
 Section 3784, acts Aug. 10, 1956, ch. 1041, 70A Stat. 219; July 12, 1960, Pub. L. 86–616, §2(a), 74 Stat. 387, authorized Secretary of the Army to remove an officer from active list of Regular Army if his removal is recommended by a board of review and provided that decision of Secretary in such a case is final and conclusive. See section 1184 of this title.
 

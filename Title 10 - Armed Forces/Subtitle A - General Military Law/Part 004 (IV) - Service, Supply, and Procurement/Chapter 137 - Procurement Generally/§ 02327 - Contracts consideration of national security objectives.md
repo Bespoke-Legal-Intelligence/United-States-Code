@@ -8,13 +8,13 @@ Disclosure of Ownership or Control by a Foreign Government.—The head of an age
 
 Prohibition on Entering Into Contracts Against the Interests of the United States.—Except as provided in subsection (c), the head of an agency may not enter into a contract with a firm or a subsidiary of a firm if—
 
-&emsp;(1) a foreign government owns or controls (whether directly or indirectly) a significantinterest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary); and
+&emsp;(1) a foreign government owns or controls (whether directly or indirectly) a significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary); and
 
 &emsp;(2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
 
 (c)
 
-Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that entering into a contract with a firm or a subsidiary of a firm described in subsection (b) is not inconsistent with the national security objectives of the United States, the head of an agency may enter into a contract with such firm or subsidiary after the date on which such head of an agency submits to Congress a report on the contract.
+Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that enteringinto a contract with a firm or a subsidiary of a firm described in subsection (b) is not inconsistent with the national security objectives of the United States, the head of an agency may enter into a contract with such firm or subsidiary after the date on which such head of an agency submits to Congress a report on the contract.
 
 (B) A report under subparagraph (A) shall include the following:
 

@@ -30,7 +30,7 @@ Pub. L. 100–233, §805(r), substituted “court shall” for “court, shall�
 
 Pub. L. 99–205, §305(a), inserted after first sentence a sentence requiring the regulations, in the case of a voluntary liquidation of an association, to direct the supervising bank to institute appropriate measures to minimize the adverse effect of the liquidation on borrowers whose loans are purchased by or otherwise transferred to another System institution.
 
-Subsec. (b). Pub. L. 99–205, §102, in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the handsof a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
+Subsec. (b). Pub. L. 99–205, §102, in revising subsec. (b), substituted expanded provisions respecting appointment of conservator or receiver for former provision, which read as follows: “Upon default of any obligation by any institution of the System, such institution may be declared insolvent and placed in the hands of a conservator or a receiver appointed by the Governor and the proceedings thereon shall be in accordance with regulations of the Farm Credit Administration regarding such insolvencies.”
 
 Subsec. (c). Pub. L. 99–205, §305(b), added subsec. (c).
 

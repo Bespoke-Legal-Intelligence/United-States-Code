@@ -9,6 +9,7 @@
 | \[133b. | Renumbered.\] |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
 | [134a.](%C2%A7%2000134a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Deputy Under Secretary of Defense for Policy. |
+| [134b.](%C2%A7%2000134b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Technology%20Security%20Policy.md) | Deputy Under Secretary of Defense for Technology Security Policy. |
 | [135\.](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md) | Under Secretary of Defense (Comptroller). |
 | [136\.](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Under Secretary of Defense for Personnel and Readiness. |
 | \[136a. | Renumbered.\] |
@@ -24,6 +25,8 @@
 
 #### Amendments
 
+1998—Pub. L. 105–261, div. A, title XV, §1521(b)(2), Oct. 17, 1998, 112 Stat. 2179, added item 134b.
+
 1997—Pub. L. 105–85, div. A, title IX, §911(d)(2), Nov. 18, 1997, 111 Stat. 1859, added item 143.
 
 1996—Pub. L. 104–106, div. A, title IX, §904(a)(2), Feb. 10, 1996, 110 Stat. 403, substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy” in item 142.
@@ -32,7 +35,7 @@ Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 
 
 1994—Pub. L. 103–337, div. A, title IX, §903(a)(3), Oct. 5, 1994, 108 Stat. 2823, substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” in item 135.
 
-1993—Pub. L. 103–160, div. A, title IX, §906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally, inserting “and Technology” after “Acquisition” initems 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
+1993—Pub. L. 103–160, div. A, title IX, §906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally, inserting “and Technology” after “Acquisition” in items 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
 
 1991—Pub. L. 102–190, div. A, title IX, §901(a)(2), Dec. 5, 1991, 105 Stat. 1450, added item 134a.
 
@@ -84,6 +87,7 @@ This chapter is referred to in title 41 section 421.
 - [&sect; 00133b - Renumbered &sect;118](%C2%A7%2000133b%20-%20Renumbered%20%C2%A7118.md)
 - [&sect; 00134 - Under Secretary of Defense for Policy](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
 - [&sect; 00134a - Deputy Under Secretary of Defense for Policy](%C2%A7%2000134a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Policy.md)
+- [&sect; 00134b - Deputy Under Secretary of Defense for Technology Security Policy](%C2%A7%2000134b%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Technology%20Security%20Policy.md)
 - [&sect; 00135 - Under Secretary of Defense (Comptroller)](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md)
 - [&sect; 00136 - Under Secretary of Defense for Personnel and Readiness](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md)
 - [&sect; 00136a - Renumbered &sect;139](%C2%A7%2000136a%20-%20Renumbered%20%C2%A7139.md)

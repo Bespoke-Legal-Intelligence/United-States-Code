@@ -16,7 +16,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (1) Specific qualifications
 
-&emsp;Selection and appointment of members of the Board shall be without regard to politicalaffiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
+&emsp;Selection and appointment of members of the Board shall be without regard to political affiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
 
 #### (2) Disqualifications for appointments
 
@@ -36,7 +36,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), membership on the Board shall be for 5 years. A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.
+&emsp;Except as provided in paragraph (2), membership on the Board shall be for 5 years. Amember of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office.
 
 #### (2) First appointments
 
@@ -108,9 +108,13 @@ Members of the Board and officers and employees of the Office shall file the fin
 
 The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. See section 1601 et seq. of this title.
 
-This chapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

@@ -299,6 +299,23 @@ I74subpart 1—grants to public and private entities
 |  |  |
 | :--- | ---: |
 | [3760\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20B%20-%20Discretionary%20Grants/Subpart%20001%20-%20Grants%20to%20Public%20and%20Private%20Entities/%C2%A7%2003760%20-%20Purposes.md) | Purposes. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Grants and contracts.
+
+(c)
+
+Firearm safety education grants.
+
+|  |  |
+| :--- | ---: |
 | [3761\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20B%20-%20Discretionary%20Grants/Subpart%20001%20-%20Grants%20to%20Public%20and%20Private%20Entities/%C2%A7%2003761%20-%20Allocation%20of%20funds%20for%20grants.md) | Allocation of funds for grants. |
 | [3762\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20B%20-%20Discretionary%20Grants/Subpart%20001%20-%20Grants%20to%20Public%20and%20Private%20Entities/%C2%A7%2003762%20-%20Limitation%20on%20use%20of%20discretionary%20grant%20funds.md) | Limitation on use of discretionary grant funds. |
 
@@ -722,9 +739,21 @@ Limitations on benefits.
 | [3796a.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796a%20-%20Limitations%20on%20benefits.md) | Limitations on benefits. |
 | 3796a–1. | National programs for families of public safety officers who have died in line of duty. |
 | [3796b.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796b%20-%20Definitions.md) | Definitions. |
-| [3796c.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796c%20-%20Administrative%20provisions%3B%20rules%2C%20regulations%2C%20and%20procedures%3B%20use%20of%20State%20and%20local%20administrative%20and%20investigative%20assistance.md) | Administrative provisions; rules, regulations, and procedures; use of State and local administrative and investigative assistance. |
+| [3796c.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796c%20-%20Administrative%20provisions.md) | Administrative provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Rules, regulations, and procedures.
+
+(b)
+
+Use of State and local administrative and investigative assistance.
+
+(c)
+
+Use of appropriated funds to conduct appeals.
 
 #### Part B—Educational Assistance to Dependents of Civilian Federal Law Enforcement Officers Killed or Disabled in Line of Duty
 
@@ -768,6 +797,19 @@ Notification.
 |  |  |
 | :--- | ---: |
 | 3796d–3. | Regulations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Sliding scale.
+
+|  |  |
+| :--- | ---: |
 | 3796d–4. | Discontinuation for unsatisfactory conduct or progress. |
 | 3796d–5. | Special rule. |
 
@@ -1575,6 +1617,66 @@ Records.
 
 Access.
 
+#### SUBCHAPTER XII–M—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS
+
+|  |  |
+| :--- | ---: |
+| 3796<i>ll.</i> | Program authorized. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Uses of funds.
+
+(c)
+
+Preferential consideration.
+
+(d)
+
+Minimum amount.
+
+(e)
+
+Maximum amount.
+
+(f)
+
+Matching funds.
+
+(g)
+
+Allocation of funds.
+
+|  |  |
+| :--- | ---: |
+| 3796<i>ll</i>–1. | Applications. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Regulations.
+
+(c)
+
+Eligibility.
+
+|  |  |
+| :--- | ---: |
+| 3796<i>ll</i>–2. | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER XIII—TRANSITION; EFFECTIVE DATE; REPEALER
 
 |  |  |
@@ -1661,4 +1763,5 @@ This chapter is referred to in sections 5119b, 5751, 10501 of this title.
 - [Subchapter 012&#8211;J (XII&#8211;J) - Drug Courts](Subchapter%20012%E2%80%93J%20%28XII%E2%80%93J%29%20-%20Drug%20Courts/README.md)
 - [Subchapter 012&#8211;K (XII&#8211;K) - Family Support](Subchapter%20012%E2%80%93K%20%28XII%E2%80%93K%29%20-%20Family%20Support/README.md)
 - [Subchapter 012&#8211;L (XII&#8211;L) - DNA Identification Grants](Subchapter%20012%E2%80%93L%20%28XII%E2%80%93L%29%20-%20DNA%20Identification%20Grants/README.md)
+- [Subchapter 012&#8211;M (XII&#8211;M) - Matching Grant Program for Law Enforcement Armor Vests](Subchapter%20012%E2%80%93M%20%28XII%E2%80%93M%29%20-%20Matching%20Grant%20Program%20for%20Law%20Enforcement%20Armor%20Vests/README.md)
 - [Subchapter 013 (XIII) - Transition; Effective Date; Repealer](Subchapter%20013%20%28XIII%29%20-%20Transition%3B%20Effective%20Date%3B%20Repealer/README.md)

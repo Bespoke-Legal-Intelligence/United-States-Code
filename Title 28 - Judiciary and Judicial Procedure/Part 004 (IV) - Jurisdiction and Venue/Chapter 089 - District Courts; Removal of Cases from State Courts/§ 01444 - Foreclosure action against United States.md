@@ -20,7 +20,7 @@ This section corrects typographical errors in section 1444 of title 28, U.S.C.
 
 #### Amendments
 
-<b>1949</b>—Act May 24, 1949, inserted “court” between “State” and “may”, and substituted “division” for “divisions”.
+1949—Act May 24, 1949, inserted “court” between “State” and “may”, and substituted “division” for “divisions”.
 
 #### Cross References
 

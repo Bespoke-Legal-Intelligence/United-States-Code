@@ -22,7 +22,7 @@ Additional Fee.—
 
 &emsp;&emsp;“(C) the date of the enactment of a disapproval resolution that passes both Houses of the Congress within the 90-day period beginning on the date that is 2 years after the date of enactment of this Act.
 
-&emsp;“(2) If the President determines on the date that is 2 years after the date of enactment of this Act that the fee imposed by the amendment made by section 1428(b) is not in the national economic interest, subparagraph (B) of paragraph (1) shall not be taken into account in applying the provisions of paragraph (1). \[See Determination of President of the United States, No. 90–34, set out below.\]
+&emsp;“(2) If the President determines on the date that is 2 years after the date of enactment of this Act thatthe fee imposed by the amendment made by section 1428(b) is not in the national economic interest, subparagraph (B) of paragraph (1) shall not be taken into account in applying the provisions of paragraph (1). \[See Determination of President of the United States, No. 90–34, set out below.\]
 
 &emsp;“(3) The amendment made by section 1428(b) shall apply (if at all) to the products of any foreign country described in section 1428(a)(1)(B) \[set out as a note below\] that are entered, or withdrawn from warehouse for consumption, after the later of—
 
@@ -56,7 +56,7 @@ Section 1428(a) of Pub. L. 100–418 provided that:
 
 “(1) The President shall—
 
-&emsp;“(A) undertake negotiations necessary to achieve changes in the General Agreement on Tariffs and Trade that would allow any country to impose a small uniform fee of not more than 0.15 percent on allimports to such country for the purpose of using the revenue from such fee to fund programs which directly assist adjustment to import competition, and
+&emsp;“(A) undertake negotiations necessary to achieve changes in the General Agreement on Tariffs and Trade that would allow any country to impose a small uniform fee of not more than 0.15 percent on all imports to such country for the purpose of using the revenue from such fee to fund programs which directly assist adjustment to import competition, and
 
 &emsp;“(B) undertake negotiations with any foreign country that has entered into a free trade agreement with the United States under subtitle A \[§§1101 to 1125, of title I of Pub. L. 100–418, see Tables for classification\] or under section 102 of the Trade Act of 1974 \[19 U.S.C. 2112\] to obtain the consent of such country to the imposition of such a fee by the United States.
 

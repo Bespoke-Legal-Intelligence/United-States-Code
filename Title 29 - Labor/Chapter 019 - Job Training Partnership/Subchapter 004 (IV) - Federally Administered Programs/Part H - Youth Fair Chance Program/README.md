@@ -2,7 +2,7 @@ Part H—Youth Fair Chance Program
 
 #### Part Referred to in Other Sections
 
-This part is referred to in section 1502 of this title; title 20 section 6235; title 42 section 11421.
+This part is referred to in section 1502 of this title; title 20 section 6235.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

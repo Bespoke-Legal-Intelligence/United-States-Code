@@ -70,11 +70,11 @@ Lenders shall reduce by 50 percent the risk-based premium to eligible borrowers 
 
 An institution may pay off the outstanding principal and interest owed by the borrowers of such institution who have defaulted on loans made under this subpart in order to reduce the risk category of the institution.
 
-(July 1, 1944, ch. 373, title VII, §708, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2004.)
+(July 1, 1944, ch. 373, title VII, §708, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2004.)
 
 #### Prior Provisions
 
-A prior section 292g, act July 1, 1944, ch. 373, title VII, §707, as added Oct. 12, 1976, Pub. L. 94–484, title II, §205, 90 Stat. 2249; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(r), 91 Stat. 395, related to delegation of authority by the Secretary, prior to the general revision of this subchapter by Pub. L. 102–408. See section 295<i>o</i>(b) of this title.
+A prior section 292g, act July 1, 1944, ch. 373, title VII, §707, as added Oct. 12, 1976, Pub. L. 94–484, title II, §205, 90 Stat. 2249; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(r), 91 Stat. 395, related to delegation of authority by the Secretary, prior to the general revision of this subchapter by Pub. L. 102–408.
 
 Another prior section 292g, act July 1, 1944, ch. 373, title VII, §708, as added July 30, 1956, ch. 779, §2, 70 Stat. 720; amended Oct. 5, 1961, Pub. L. 87–395, §8(d), 75 Stat. 827; Sept. 24, 1963, Pub. L. 88–129, §2(a), 77 Stat. 164, prohibited Federal interference with administration of institutions where grants were made for construction of health research facilities, prior to repeal by Pub. L. 94–484, title II, §201(a), Oct. 12, 1976, 90 Stat. 2246.
 

@@ -40,7 +40,7 @@ For purposes of subsection (a)(1)(B) of this section, a manufacturer may dissemi
 
 &emsp;The period of 36 months authorized in paragraph (1)(A)(ii) for the completion of studies may be extended by the Secretary if—
 
-&emsp;&emsp;(A) the Secretary determines that the studies needed to submit such an applicationcannot be completed and submitted within 36 months; or
+&emsp;&emsp;(A) the Secretary determines that the studies needed to submit such an application cannot be completed and submitted within 36 months; or
 
 &emsp;&emsp;(B) the manufacturer involved submits to the Secretary a written request for the extension and the Secretary determines that the manufacturer has acted with due diligence to conduct the studies in a timely manner, except that an extension under this subparagraph may not be provided for more than 24 additional months.
 

@@ -6,7 +6,7 @@ Whenever a State law prohibits, or requires approval or authorization of, the ow
 
 &emsp;(2) if it already has any such interest, to acquire, without the express approval of the State commission, any direct or indirect interest in an electric utility company or gas utility company serving substantially the same territory as that served by such companies in which it already has an interest.
 
-(Aug. 26, 1935, ch. 687, title I, §8, 49 Stat. 817; Dec. 4, 1987, Pub. L. 100–181, title IV, §401, 101 Stat. 1259.)
+(Aug. 26, 1935, ch. 687, title I, §8, 49 Stat. 817; Pub. L. 100–181, title IV, §401, Dec. 4, 1987, 101 Stat. 1259.)
 
 #### Amendments
 

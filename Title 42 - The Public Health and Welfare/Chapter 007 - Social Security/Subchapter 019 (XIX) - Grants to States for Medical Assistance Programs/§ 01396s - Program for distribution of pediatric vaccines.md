@@ -192,7 +192,7 @@ For purposes of this section:
 
 &emsp;(9) The terms “vaccine-eligible child”, “federally vaccine-eligible child”, and “State vaccine-eligible child” have the meaning given such terms in subsection (b) of this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1928, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13631(b)(2), 107 Stat. 637.)
+(Aug. 14, 1935, ch. 531, title XIX, §1928, as added Pub. L. 103–66, title XIII, §13631(b)(2), Aug. 10, 1993, 107 Stat. 637.)
 
 #### References in Text
 

@@ -14,7 +14,11 @@
 | (f) | Reviews and reports. |
 | 670a–1. | Repealed. |
 | [670b.](Subchapter%20001%20%28I%29%20-%20Conservation%20Programs%20on%20Military%20Installations/%C2%A7%2000670b%20-%20Migratory%20game%20birds%3B%20permits%3B%20fees%3B%20Stamp%20Act%20and%20State%20law%20requirements.md) | Migratory game birds; permits; fees; Stamp Act and State law requirements. |
-| [670c.](Subchapter%20001%20%28I%29%20-%20Conservation%20Programs%20on%20Military%20Installations/%C2%A7%2000670c%20-%20Public%20outdoor%20recreation%20resources%20program.md) | Public outdoor recreation resources program. |
+| [670c.](Subchapter%20001%20%28I%29%20-%20Conservation%20Programs%20on%20Military%20Installations/%C2%A7%2000670c%20-%20Program%20for%20public%20outdoor%20recreation.md) | Program for public outdoor recreation. |
+| (a) | Program authorized. |
+| (b) | Access for disabled veterans, military dependents with disabilities, and other persons with disabilities. |
+| (c) | Acceptance of donations. |
+| (d) | Treatment of volunteers. |
 | 670c–1. | Cooperative agreements for land management on Department of Defense installations. |
 | (a) | Authority of Secretary of a military department. |
 | (b) | Multiyear agreements. |

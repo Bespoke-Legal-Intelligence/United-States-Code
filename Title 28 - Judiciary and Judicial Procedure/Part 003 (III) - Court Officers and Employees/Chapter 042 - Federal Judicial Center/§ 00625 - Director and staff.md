@@ -2,7 +2,7 @@
 
 (a) The Director shall supervise the activities of persons employed by the Center and perform other duties assigned to him by the Board.
 
-(b) The Director shall appoint and fix the compensation of such additional professional personnel as the Board may deem necessary, without regard to the provisions of title 5, United States Code, governing appointments in competitive service, or the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates: <i>Provided, however</i>, That the compensation of any person appointed under this subsection shall not exceed the annual rate of basic pay of level V of the Executive Schedule pay rates, section 5316, title 5, United States Code: <i>And provided further</i>, That the salary of a reemployed annuitant under the Civil Servive <sup>1</sup> Retirement Act shall be adjusted pursuant to the provisions of section 8344, title 5, United States Code.
+(b) The Director shall appoint and fix the compensation of such additional professional personnel as the Board may deem necessary, without regard to the provisions of title 5, United States Code, governing appointments in competitiveservice, or the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates: <i>Provided, however</i>, That the compensation of any person appointed under this subsection shall not exceed the annual rate of basic pay of level V of the Executive Schedule pay rates, section 5316, title 5, United States Code: <i>And provided further</i>, That the salary of a reemployed annuitant under the Civil Servive <sup>1</sup> Retirement Act shall be adjusted pursuant to the provisions of section 8344, title 5, United States Code.
 
 (c) The Director shall appoint and fix the compensation of such secretarial and clerical personnel as he may deem necessary, subject to the provisions of title 5, United States Code, governing appointments in competitive service without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
@@ -22,7 +22,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted “competitive service without regard to” for “competitive service and”.
+1992—Subsec. (c). Pub. L. 102–572 substituted “competitive service without regard to” for “competitive service and”.
 
 #### Effective Date of 1992 Amendment
 

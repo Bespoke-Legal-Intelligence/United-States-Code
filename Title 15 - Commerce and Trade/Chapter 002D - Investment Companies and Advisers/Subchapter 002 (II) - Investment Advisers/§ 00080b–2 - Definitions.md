@@ -14,7 +14,7 @@
 
 &emsp;(6) “Convicted” includes a verdict, judgment, or plea of guilty, or a finding of guilt on a plea of nolo contendere, if such verdict, judgment, plea, or finding has not been reversed, set aside, or withdrawn, whether or not sentence has been imposed.
 
-&emsp;(7) “Dealer” means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, or any person insofar as he is engaged in investing, reinvesting or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.
+&emsp;(7) “Dealer” means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, orany person insofar as he is engaged in investing, reinvesting or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.
 
 &emsp;(8) “Director” means any director of a corporation or any person performing similar functions with respect to any organization, whether incorporated or unincorporated.
 
@@ -62,7 +62,7 @@
 
 (b) No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
-(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; June 25, 1959, Pub. L. 86–70, §12(c), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §7(d), 74 Stat. 412; Sept. 13, 1960, Pub. L. 86–750, §1, 74 Stat. 885; July 1, 1966, Pub. L. 89–485, §13(j), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §23, 84 Stat. 1430; Nov. 6, 1978, Pub. L. 95–598, title III, §311, 92 Stat. 2676; Oct. 21, 1980, Pub. L. 96–477, title II, §201, 94 Stat. 2289; Oct. 13, 1982, Pub. L. 97–303, §6, 96 Stat. 1410; Dec. 4, 1987, Pub. L. 100–181, title VII, §701, 101 Stat. 1263; Nov. 15, 1990, Pub. L. 101–550, title II, §206(b), 104 Stat. 2720; Oct. 11, 1996, Pub. L. 104–290, title III, §303(c), 110 Stat. 3438.)
+(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Subsec. (a)(25). Pub. L. 104–290, §303(c)(2), added par. (25).
 
 1987—Subsec. (a)(19). Pub. L. 100–181 struck out reference to Canal Zone.
 
-1982—Subsec. (a)(18). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
+1982—Subsec. (a)(18). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group orindex of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
 
 1980—Subsec. (a)(22). Pub. L. 96–477 added par. (22).
 

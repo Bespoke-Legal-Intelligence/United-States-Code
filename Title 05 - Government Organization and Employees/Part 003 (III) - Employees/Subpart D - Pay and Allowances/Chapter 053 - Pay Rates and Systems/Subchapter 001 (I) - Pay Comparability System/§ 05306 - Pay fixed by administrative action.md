@@ -20,7 +20,7 @@
 
 &emsp;(iii) in the case of minimum or maximum rates of pay, or monetary limitations of allowances with respect to pay, by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as may be appropriate, to the percentage of the pay adjustment provided under section 5303.
 
-(b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates of pay, the monetary limitations or allowances with respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
+(b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates of pay, the monetary limitations or allowanceswith respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
 
 (c) This section does not authorize any adjustment in the rates of pay of employees whose rates of pay are fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates or practices.
 

@@ -2,11 +2,23 @@
 
 #### (a) Liquidation by Board; bond; appointment of agent; fees to be fixed by Board
 
-(1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint himself <sup>1</sup> liquidating agent therefor.
+(1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
 
-(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
+(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward theremoval of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
 
 (2) Notwithstanding any other provision of law, the Board as liquidating agent of a closed Federal credit union insured under this subchapter shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such liquidating agent. All fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Board and may be paid by them out of funds coming into its possession as such liquidating agent.
+
+(3)
+
+Liquidation to facilitate prompt corrective action.—The Board may close any credit union for liquidation, and appoint itself or another (including, in the case of a State-chartered insured credit union, the State official having jurisdiction over the credit union) as liquidating agent of that credit union, if—
+
+&emsp;(A) the Board determines that—
+
+&emsp;&emsp;(i) the credit union is significantly undercapitalized, as defined in section 1790d of this title, and has no reasonable prospect of becoming adequately capitalized, as defined in section 1790d of this title; or
+
+&emsp;&emsp;(ii) the credit union is critically undercapitalized, as defined in section 1790d of this title; and
+
+&emsp;(B) in the case of a State-chartered insured credit union, the Board has complied with section 1790d(<i>l</i>) of this title.
 
 #### (b) Powers and duties of Board as conservator or liquidating agent
 
@@ -32,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) collect all obligations and money due the credit union;
 
-&emsp;&emsp;&emsp;(iii) perform all functions of the credit union in the name of the credit unionwhich is consistent with the appointment as conservator or liquidating agent; and
+&emsp;&emsp;&emsp;(iii) perform all functions of the credit union in the name of the credit union which is consistent with the appointment as conservator or liquidating agent; and
 
 &emsp;&emsp;&emsp;(iv) preserve and conserve the assets and property of such credit union.
 
@@ -162,7 +174,7 @@
 
 #### (ii) Certain exceptions
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any claim filed by any claimant after the date specified in the notice published under paragraph (3)(B)(i) and such claim may be considered by the liquidating agent if—
+&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any claim filed by any claimant after thedate specified in the notice published under paragraph (3)(B)(i) and such claim may be considered by the liquidating agent if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the claimant did not receive notice of the appointment of the liquidating agent in time to file such claim before such date; and
 
@@ -206,7 +218,7 @@
 
 &emsp;&emsp;&emsp;(ii) file suit on such claim (or continue an action commenced before the appointment of the liquidating agent),
 
-> &emsp;&emsp;before the end of the 60-day period described in subparagraph (A), the claim shall bedeemed to be disallowed (other than any portion of such claim which was allowed by the liquidating agent) as of the end of such period, such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+> &emsp;&emsp;before the end of the 60-day period described in subparagraph (A), the claim shall be deemed to be disallowed (other than any portion of such claim which was allowed by the liquidating agent) as of the end of such period, such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
 
 #### (7) Review of claims
 
@@ -290,7 +302,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The liquidating agent may, in the liquidating agent's discretion and to the extentfunds are available, pay creditor claims which are allowed by the liquidating agent, approved by the Board pursuant to a final determination pursuant to paragraph (7) or (8), or determined by the final judgment of any court of competent jurisdiction in such manner and amounts as are authorized under this chapter.
+&emsp;&emsp;The liquidating agent may, in the liquidating agent's discretion and to the extent funds are available, pay creditor claims which are allowed by the liquidating agent, approved by the Board pursuant to a final determination pursuant to paragraph (7) or (8), or determined by the final judgment of any court of competent jurisdiction in such manner and amounts as are authorized under this chapter.
 
 #### (B) Payment of dividends on claims
 
@@ -382,7 +394,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Board as conservator or liquidating agent shall, consistent with the accountingand reporting practices and procedures established by the Board, maintain a full accounting of each conservatorship and liquidation or other disposition of credit unions in default.
+&emsp;&emsp;The Board as conservator or liquidating agent shall, consistent with the accounting and reporting practices and procedures established by the Board, maintain a full accounting of each conservatorship and liquidation or other disposition of credit unions in default.
 
 #### (B) Annual accounting or report
 
@@ -466,7 +478,7 @@
 
 &emsp;&emsp;In the case of any qualified financial contract or agreement to which paragraph (8) applies, compensatory damages shall be—
 
-&emsp;&emsp;&emsp;(i) deemed to include normal and reasonable costs of cover or other reasonablemeasures of damages utilized in the industries for such contract and agreement claims; and
+&emsp;&emsp;&emsp;(i) deemed to include normal and reasonable costs of cover or other reasonable measures of damages utilized in the industries for such contract and agreement claims; and
 
 &emsp;&emsp;&emsp;(ii) paid in accordance with this subsection and subsection (f) of this section except as otherwise specifically provided in this section.
 
@@ -550,7 +562,7 @@
 
 #### (ii) No liability after assignment and sale
 
-&emsp;&emsp;&emsp;If an assignment and sale described in clause (i) is consummated, the conservatoror liquidating agent shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
+&emsp;&emsp;&emsp;If an assignment and sale described in clause (i) is consummated, the conservator or liquidating agent shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
 
 #### (7) Provisions applicable to service contracts
 
@@ -624,7 +636,7 @@
 
 &emsp;&emsp;&emsp;The term “repurchase agreement”—
 
-&emsp;&emsp;&emsp;&emsp;(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15,<sup>2</sup> any mortgage loan, and any interest in any mortgage loan; and
+&emsp;&emsp;&emsp;&emsp;(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15,<sup>1</sup> any mortgage loan, and any interest in any mortgage loan; and
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term.
 
@@ -660,7 +672,7 @@
 
 &emsp;&emsp;&emsp;(iv) all property securing any claim described in clause (ii) or (iii) under any such contract; or
 
-&emsp;&emsp;(B) transfer none of the financial contracts, claims, or property referred to in subparagraph (A) (with respect to such person and any affiliate of such person).
+&emsp;&emsp;(B) transfer none of the financial contracts, claims, or property referred to insubparagraph (A) (with respect to such person and any affiliate of such person).
 
 #### (10) Notification of transfer
 
@@ -704,7 +716,7 @@
 
 #### (1) In general
 
-&emsp;In case of the liquidation of any insured credit union, payment of the insured depositsin such credit union shall be made by the Board as soon as possible, subject to the provisions of subsection (e) of this section, either by cash or by making available to each accountholder a transferred deposit in a new credit union in the same community or in another insured credit union in an amount equal to the insured deposit of such accountholder.
+&emsp;In case of the liquidation of any insured credit union, payment of the insured deposits in such credit union shall be made by the Board as soon as possible, subject to the provisions of subsection (e) of this section, either by cash or by making available to each accountholder a transferred deposit in a new credit union in the same community or in another insured credit union in an amount equal to the insured deposit of such accountholder.
 
 #### (2) Proof of claims
 
@@ -712,7 +724,7 @@
 
 #### (3) Resolution of disputes
 
-#### (A) Resolutions in accordance to <sup>3</sup> Board regulations
+#### (A) Resolutions in accordance to <sup>2</sup> Board regulations
 
 &emsp;&emsp;In the case of any disputed claim relating to any insured deposit or any determination of insurance coverage with respect to any deposit, the Board may resolve such disputed claim in accordance with regulations prescribed by the Board establishing procedures for resolving such claims.
 
@@ -736,7 +748,7 @@
 
 #### (2) Dividends on subrogated amounts
 
-&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
+&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but suchaccountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
 
 #### (f) Valuation of claims in default
 
@@ -752,7 +764,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Board may, in its discretion and in the interests of minimizing its losses, use its own resources to make additional payments or credit additional amounts to or with respect to or for the account of any claimant or category of claimants. The Board shall not be obligated, as a result of having made any such payment or credited any such amount to or with respect to or for the account of any claimant or category of claimants, to make payments to any other claimant or category or <sup>4</sup> claimants.
+&emsp;&emsp;The Board may, in its discretion and in the interests of minimizing its losses, use its own resources to make additional payments or credit additional amounts to or with respect to or for the account of any claimant or category of claimants. The Board shall not be obligated, as a result of having made any such payment or credited any such amount to or with respect to or for the account of any claimant or category of claimants, to make payments to any other claimant or category or <sup>3</sup> claimants.
 
 #### (B) Manner of payment
 
@@ -770,7 +782,7 @@ A director or officer of an insured credit union may be held personally liable f
 
 &emsp;(2) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed by such liquidating agent or conservator, or
 
-&emsp;(3) acting based upon a suit, claim, or cause of action purchased from, assigned by, orotherwise conveyed in whole or in part by an insured credit union or its affiliate in connection with assistance provided under section 1788 of this title,
+&emsp;(3) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by an insured credit union or its affiliate in connection with assistance provided under section 1788 of this title,
 
 > for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence) including intentional tortious conduct, as such terms are defined and determined under applicable State law. Nothing in this paragraph shall impair or affect any right, if any, of the Board under other applicable law.
 
@@ -862,7 +874,7 @@ The Board, as conservator or liquidating agent of any insured credit union and f
 
 &emsp;(2) may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.
 
-(June 26, 1934, ch. 750, title II, §207, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1010; amended Pub. L. 93–495, title I, §§101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, §502(b), title XIV, §1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, §323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, §714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, §915(c), title XII, §1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§2521(a)(2),2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, §501(c)(1), Oct. 22, 1994, 108 Stat. 4143.)
+(June 26, 1934, ch. 750, title II, §207, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1010; amended Pub. L. 93–495, title I, §§101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, §502(b), title XIV, §1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, §323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, §714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, §915(c), title XII, §1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, §501(c)(1), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 105–219, title III, §301(b)(2), Aug. 7, 1998, 112 Stat. 930.)
 
 #### References in Text
 
@@ -871,6 +883,10 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(2)(G), (H), are
 For definition of Canal Zone, referred to in subsec. (k)(2)(A)(iv), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1998—Subsec. (a)(1)(A). Pub. L. 105–219, §301(b)(2)(A), substituted “itself” for “himself”.
+
+Subsec. (a)(3). Pub. L. 105–219, §301(b)(2)(B), added par. (3).
 
 1994—Subsec. (c)(8)(D). Pub. L. 103–394 substituted “section 741” for “section 741(7)” in cl. (ii)(I), “section 101” for “section 101(24)” in cl. (iii), “section 101” for “section 101(41)” in cl. (iv)(I), and “section 101” for “section 101(50)” in cl. (v).
 
@@ -908,7 +924,7 @@ Subsecs. (<i>l</i>) to (p). Pub. L. 101–73, §1217(a)(3), redesignated former 
 
 1987—Subsec. (a)(1). Pub. L. 100–86, §714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
+Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulationof the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
 
 1986—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -954,7 +970,7 @@ For effective date of amendment by section 101(c)(1), (2) of Pub. L. 93–495 se
 
 Section 104(b), (c) of Pub. L. 93–495 provided that:
 
-“(b) The amendment made by this section \[amending this section\] is not applicable to any claim arising outof the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
+“(b) The amendment made by this section \[amending this section\] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
 
 “(c) The amendment made by this section shall take effect on the thirtieth day beginning after the date of enactment of this Act \[Oct. 28, 1974.\].”
 
@@ -962,11 +978,9 @@ Section 104(b), (c) of Pub. L. 93–495 provided that:
 
 This section is referred to in sections 1752, 1757, 1782, 1783, 1786 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “itself”.</i>
+<i><sup>1</sup></i><i> So in original. A close parenthesis probably should precede the comma.</i>
 
-<i><sup>2</sup></i><i> So in original. A close parenthesis probably should precede the comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “with”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “with”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “of”.</i>
 

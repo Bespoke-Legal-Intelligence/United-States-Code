@@ -2,7 +2,7 @@
 
 (a)
 
-Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on September 30, 1999, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $15,000 for any 12-month period.
+Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 1999, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $15,000 for any 12-month period.
 
 (2) The Secretary concerned shall determine the amount of incentive special pay to be paid to an officer under paragraph (1). In determining that amount, the Secretary concerned shall consider the period of obligated service provided for in the agreement under that paragraph.
 
@@ -38,9 +38,11 @@ Repayment.—(1) An officer who voluntarily terminates service on active duty be
 
 (3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after November 29, 1989.
 
-(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786.)
+(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(c), Oct. 17, 1998, 112 Stat. 2039.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
 1997—Subsec. (a)(1). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
 

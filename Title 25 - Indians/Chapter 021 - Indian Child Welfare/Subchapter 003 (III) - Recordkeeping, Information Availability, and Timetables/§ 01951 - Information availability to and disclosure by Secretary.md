@@ -2,7 +2,7 @@
 
 #### (a) Copy of final decree or order; other information; anonymity affidavit; exemption from Freedom of Information Act
 
-Any State court entering a final decree or order in any Indian child adoptive placement after November 8, 1978, shall provide the Secretary with a copy of such decree or order together with such other information as may be necessary to show—
+Any State court entering a final decree or order in any Indian child adoptive placementafter November 8, 1978, shall provide the Secretary with a copy of such decree or order together with such other information as may be necessary to show—
 
 &emsp;(1) the name and tribal affiliation of the child;
 

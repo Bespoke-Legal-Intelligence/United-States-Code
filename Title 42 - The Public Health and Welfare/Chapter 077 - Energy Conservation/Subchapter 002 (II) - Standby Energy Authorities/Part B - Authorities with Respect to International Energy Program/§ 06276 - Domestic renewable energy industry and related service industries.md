@@ -68,7 +68,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;&emsp;(A) provide technical training and education for international development personnel and local users in their own country;
 
-&emsp;&emsp;(B) provide financial and technical assistance to nonprofit institutions that supportthe marketing and export efforts of domestic companies that provide renewable energy and energy efficiency products and services;
+&emsp;&emsp;(B) provide financial and technical assistance to nonprofit institutions that support the marketing and export efforts of domestic companies that provide renewable energy and energy efficiency products and services;
 
 &emsp;&emsp;(C) develop environmentally sustainable renewable energy and energy efficiency projects in foreign countries;
 
@@ -92,7 +92,7 @@ The interagency working group established under subsection (d) of this section s
 
 &emsp;(A) establish, in consultation with representatives of affected industries, a plan to increase United States exports of renewable energy and energy efficiency technologies, and include in such plan recommended guidelines for agencies that are represented on the working group with respect to the financing of, or other actions they can take within their programs to promote, exports of such renewable energy and energy efficiency technologies;
 
-&emsp;(B) develop, in consultation with representatives of affected industries, recommended administrative guidelines for Federal export loan programs to simplify application by firms seeking export assistance for renewable energy and energy efficiency technologies from agencies implementing such programs; and
+&emsp;(B) develop, in consultation with representatives of affected industries, recommended administrative guidelines for Federal exportloan programs to simplify application by firms seeking export assistance for renewable energy and energy efficiency technologies from agencies implementing such programs; and
 
 &emsp;(C) recommend specific renewable energy and energy efficiency technology markets for primary emphasis by Federal export loan programs, development programs, and private sector assistance programs.
 

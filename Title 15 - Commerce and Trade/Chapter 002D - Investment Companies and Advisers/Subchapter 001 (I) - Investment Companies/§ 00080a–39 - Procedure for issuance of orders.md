@@ -12,7 +12,7 @@ The Commission may provide, by appropriate rules or regulations, that an applica
 
 In any proceeding before the Commission, the Commission, in accordance with such rules and regulations as it may prescribe, shall admit as a party any interested State or State agency, and may admit as a party any representative of interested security holders, or any other person whose participation in the proceeding may be in the public interest or for the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §40, 54 Stat. 842; June 11, 1960, Pub. L. 86–507, §1(15), 74 Stat. 201.)
+(Aug. 22, 1940, ch. 686, title I, §40, 54 Stat. 842; Pub. L. 86–507, §1(15), June 11, 1960, 74 Stat. 201.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ The Secretary shall take appropriate action, in accordance with the provisions o
 
 #### (d) Personnel
 
-The Secretary is authorized to hire qualified personnel necessary to carry out the Secretary's duties under subsection (a) of this section and under sections 1418, 1461, and 1473 of this title (or their predecessor authorities through October 1, 1997) without regard to the provisions of title 5 relating to appointments in the competitive service and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and general schedule pay rates,except that no more than twenty such personnel shall be employed at any time.
+The Secretary is authorized to hire qualified personnel necessary to carry out the Secretary's duties under subsection (a) of this section and under sections 1418, 1461, and 1473 of this title (or their predecessor authorities through October 1, 1997) without regard to the provisions of title 5 relating to appointments in the competitive service and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and general schedule pay rates, except that no more than twenty such personnel shall be employed at any time.
 
 (Pub. L. 91–230, title VI, §617, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 100.)
 
@@ -40,5 +40,5 @@ Section effective Oct. 1, 1997, see section 201(a)(2)(B) of Pub. L. 105–17, se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1412, 1415, 1442, 1483 of this title.
+This section is referred to in sections 1412, 1415, 1442 of this title.
 

@@ -38,7 +38,7 @@ Except as provided in subsection (e) of this section, the Secretary shall annual
 
 For fiscal year 1989, the report required in subsection (d) of this section shall, not less than quarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
-(July 1, 1944, ch. 373, title XXIII, §2302, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3063.)
+(July 1, 1944, ch. 373, title XXIII, §2302, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063.)
 
 #### Prior Provisions
 

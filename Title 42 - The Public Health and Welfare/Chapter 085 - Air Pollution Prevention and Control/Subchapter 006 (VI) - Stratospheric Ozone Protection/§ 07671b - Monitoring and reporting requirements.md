@@ -40,7 +40,7 @@ The Administrator shall review, on a periodic basis, the progress being made in 
 
 If, in consultation with the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and after notice and opportunity for public comment, the Administrator determines that the global production, consumption, and use of class II substances are projected to contribute to an atmospheric chlorine loading in excess of the base case projections by more than 5/10ths parts per billion, the Administrator shall so inform the Congress immediately. The determination referred to in the preceding sentence shall be based on the monitoring under subsection (d) of this section and updated not less often than every 3 years.
 
-(July 14, 1955, ch. 360, title VI, §603, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2653.)
+(July 14, 1955, ch. 360, title VI, §603, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2653.)
 
 #### Methane Studies
 

@@ -40,7 +40,7 @@ The provisions contained in subsections (b) and (c) of this section shall expire
 
 #### (f) Agency ombudsman
 
-(1) The head of each executive agency that awards construction contracts within the United States and its territories shall designate a senior agency official to serve as a construction metrication ombudsman who shall be responsible for reviewing and responding to complaintsfrom prospective bidders, subcontractors, suppliers, or their designated representatives related to—
+(1) The head of each executive agency that awards construction contracts within the United States and its territories shall designate a senior agency official to serve as a construction metrication ombudsman who shall be responsible for reviewing and responding to complaints from prospective bidders, subcontractors, suppliers, or their designated representatives related to—
 
 &emsp;(A) guidance or regulations issued by the agency on the use of the metric system of measurement in contracts for the construction of Federal buildings; and
 

@@ -6,13 +6,13 @@ When authorized by and in accordance with applicable regulations:
 
 &emsp;(b) any member on the retired list shall be entitled to wear the uniform of his rank or rating.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 533; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(H), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 533; Pub. L. 98–557, §15(a)(3)(H), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 
 Subsection (a) is based on title 14, U.S.C., 1946 ed., §167b–2 (June 21, 1930, ch. 563, §2, 46 Stat. 793).
 
-Inasmuch as the act cited above applies equally to the Navy and Marine Corps as well as the Coast Guard, it is not scheduled for repeal but is being amended by section 12 of this act to eliminate reference to the Coast Guard.
+Inasmuch as the act cited above applies equally to the Navy and Marine Corps as well as the Coast Guard,it is not scheduled for repeal but is being amended by section 12 of this act to eliminate reference to the Coast Guard.
 
 Subsection (b) is new to the Coast Guard, although it has been the practice for retired officers to wear the uniform when they so desire. Such authority is granted to retired officers of the Navy (see title 34, U.S.C., 1946 ed., §389).
 

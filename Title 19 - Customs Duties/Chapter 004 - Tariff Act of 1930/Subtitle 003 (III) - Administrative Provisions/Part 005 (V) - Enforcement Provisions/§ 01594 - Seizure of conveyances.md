@@ -18,7 +18,7 @@ Whenever—
 
 &emsp;(B) in baggage belonging to and accompanying a passenger being lawfully transported on such conveyance; or
 
-&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks,numbers, weights and quantities of the outer packages or containers agree with the manifest;
+&emsp;(C) in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outer packages or containers agree with the manifest;
 
 > unless the owner or operator, or the master, pilot, conductor, driver or other person in charge participated in, or had knowledge of, the violation, or was grossly negligent in preventing or discovering the violation.
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 When a common carrier has been seized in accordance with the provisions of subsection (c) of this section and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
 
-(June 17, 1930, ch. 497, title IV, §594, 46 Stat. 751; Oct. 27, 1986, Pub. L. 99–570, title III, §3121, 100 Stat. 3207–86; Nov. 18, 1988, Pub. L. 100–690, title VI, §6076(b), 102 Stat. 4324.)
+(June 17, 1930, ch. 497, title IV, §594, 46 Stat. 751; Pub. L. 99–570, title III, §3121, Oct. 27, 1986, 100 Stat. 3207–86; Pub. L. 100–690, title VI, §6076(b), Nov. 18, 1988, 102 Stat. 4324.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@ Eligible local educational agencies desiring assistance under this section shall
 
 &emsp;(8) as appropriate, a description of how the program will involve parents in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
 
-&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under the Job Training and <sup>1</sup> Partnership Act \[29 U.S.C. 1501 et seq.\] and vocational education programs serving this at-risk population of youth;
+&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and vocational education programs serving this at-risk population of youth;
 
 &emsp;(10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable;
 
@@ -32,13 +32,25 @@ Eligible local educational agencies desiring assistance under this section shall
 
 &emsp;(13) as appropriate, a description of the steps participating schools will take to find alternative placements for youth interested in continuing their education but unable to participate in a regular public school program.
 
-(Pub. L. 89–10, title I, §1423, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3598.)
+(Pub. L. 89–10, title I, §1423, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3598; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(C), (f)(13)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431.)
+
+#### Amendment of Paragraph (9)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(13)(C), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, paragraph (9) is amended by striking “the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
 The Job Training Partnership Act, referred to in par. (9), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+#### Amendments
+
+1998—Par. (9). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(18)(C)\], substituted “programs under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “programs under the Job Training Partnership Act”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(18)(C)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(13)(C)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 

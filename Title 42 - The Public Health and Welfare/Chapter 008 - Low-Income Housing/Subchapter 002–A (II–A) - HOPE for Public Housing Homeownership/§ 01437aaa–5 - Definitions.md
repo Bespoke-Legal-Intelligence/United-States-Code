@@ -22,7 +22,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) a low-income family; or
 
-&emsp;&emsp;(C) a family or individual who is assisted under a housing program administered by the Secretary or the Secretary of Agriculture (not including any non-low income families assisted under any mortgage insurance program administered by either Secretary).
+&emsp;&emsp;(C) a family or individual who is assisted under a housing program administered by the Secretary or the Secretary of Agriculture (not including any non-low incomefamilies assisted under any mortgage insurance program administered by either Secretary).
 
 &emsp;(3) The term “homeownership program” means a program for homeownership meeting the requirements under this subchapter.
 
@@ -36,7 +36,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) has a democratically elected governing board, elected by the tenants of the housing.
 
-(Sept. 1, 1937, ch. 896, title III, §306, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4158; amended Oct. 26, 1996, Pub. L. 104–330, title V, §501(c)(2), 110 Stat. 4042.)
+(Sept. 1, 1937, ch. 896, title III, §306, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4158; amended Pub. L. 104–330, title V, §501(c)(2), Oct. 26, 1996, 110 Stat. 4042.)
 
 #### Amendments
 

@@ -36,7 +36,7 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Mar. 3, 1964, Pub. L. 88–276, §5(a), 78 Stat. 153; Oct. 13, 1964, Pub. L. 88–647, title III, §301(25), 78 Stat. 1073; Oct. 19, 1984, Pub. L. 98–525, title V, §§541(c), 542(d), 98 Stat. 2529; Nov. 8, 1985, Pub. L. 99–145, title V, §512(c), 99 Stat. 625; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §511(d), title XVI, §1622(e)(5), 103 Stat. 1439, 1605; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §531(c), 110 Stat. 314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(25), Oct. 13, 1964, 78 Stat. 1073; Pub. L. 98–525, title V, §§541(c), 542(d), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(c), Nov. 8, 1985, 99 Stat. 625; Pub. L. 101–189, div. A, title V, §511(d), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(c), Feb. 10, 1996, 110 Stat. 314.)
 
 Historical and Revision Notes
 
@@ -106,7 +106,7 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 
 #### Regulations Implementing 1985 Amendment
 
-Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub.L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 
 #### Cross References
 

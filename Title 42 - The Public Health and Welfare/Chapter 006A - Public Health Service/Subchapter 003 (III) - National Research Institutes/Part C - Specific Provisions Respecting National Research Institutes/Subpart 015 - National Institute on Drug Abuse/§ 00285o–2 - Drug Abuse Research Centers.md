@@ -24,7 +24,7 @@ The Director of the Institute may designate National Drug Abuse Research Centers
 
 The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
 
-(July 1, 1944, ch. 373, title IV, §464N, as added July 10, 1992, Pub. L. 102–321, title I, §123(b), 106 Stat. 361; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(4), 106 Stat. 938.)
+(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3013, 3058k, 6862, 9904 of this title; title 7 section 2014; title 31 section 3803.
+This subchapter is referred to in sections 3013, 3058k, 6862, 9908 of this title; title 7 section 2014; title 31 section 3803.
 
 
 ---
@@ -19,5 +19,5 @@ This subchapter is referred to in sections 3013, 3058k, 6862, 9904 of this title
 - [&sect; 08626b - Residential Energy Assistance Challenge option (R.E.A.Ch.)](%C2%A7%2008626b%20-%20Residential%20Energy%20Assistance%20Challenge%20option%20%28R.E.A.Ch.%29.md)
 - [&sect; 08627 - Withholding of funds](%C2%A7%2008627%20-%20Withholding%20of%20funds.md)
 - [&sect; 08628 - Limitation on use of grants for construction](%C2%A7%2008628%20-%20Limitation%20on%20use%20of%20grants%20for%20construction.md)
-- [&sect; 08628a - Technical assistance and training](%C2%A7%2008628a%20-%20Technical%20assistance%20and%20training.md)
+- [&sect; 08628a - Technical assistance, training, and compliance reviews](%C2%A7%2008628a%20-%20Technical%20assistance%2C%20training%2C%20and%20compliance%20reviews.md)
 - [&sect; 08629 - Studies and reports](%C2%A7%2008629%20-%20Studies%20and%20reports.md)

@@ -66,7 +66,7 @@ Notwithstanding the provisions of subsection (d)(1) of this section, there shall
 
 For purposes of this section, “profit gained” or “loss avoided” is the difference between the purchase or sale price of the security and the value of that security as measured by the trading price of the security a reasonable period after public dissemination of the nonpublic information.
 
-(June 6, 1934, ch. 404, title I, §21A, as added Nov. 19, 1988, Pub. L. 100–704, §3(a)(2), 102 Stat. 4677; amended Oct. 15, 1990, Pub. L. 101–429, title II, §202(b), 104 Stat. 938.)
+(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938.)
 
 #### References in Text
 

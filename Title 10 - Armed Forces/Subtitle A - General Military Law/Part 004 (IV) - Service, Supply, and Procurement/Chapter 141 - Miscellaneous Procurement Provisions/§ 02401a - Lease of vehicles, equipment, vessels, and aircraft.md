@@ -24,6 +24,16 @@ A prior section 2401a was renumbered section 2350f of this title.
 
 1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
 
+#### Lease of Firefighting, Crash Rescue, and Snow Removal Equipment
+
+Pub. L. 105–262, title VIII, §8126, Oct. 17, 1998, 112 Stat. 2333, provided that:
+
+“(a) The Secretary of the Army and the Secretary of the Air Force may each enter into one or more multiyear leases of nontactical firefighting equipment, nontactical crash rescue equipment, or nontactical snow removal equipment. The period of a lease entered into under this section shall be for any period not in excess of 10 years. Any such lease shall provide that performance under the lease during the second and subsequent years of the contract is contingent upon the appropriation of funds and shall provide for a cancellation payment to be made to the lessor if such appropriations are not made.
+
+“(b) Lease payments made under subsection (a) shall be made from amounts provided in this or future appropriations Acts.
+
+“(c) This section is effective for all fiscal years beginning after September 30, 1998.”
+
 #### Pilot Program for Leasing Commercial Utility Cargo Vehicles
 
 Section 807(c) of Pub. L. 104–106 provided that:
@@ -34,7 +44,7 @@ Section 807(c) of Pub. L. 104–106 provided that:
 
 &emsp;“(A) the Secretary may trade existing commercial utility cargo vehicles of the Army for credit against the costs of leasing new replacement commercial utility cargo vehicles for the Army;
 
-&emsp;“(B) the quantities and trade-in value of commercial utility cargo vehicles to be traded in shall be subject to negotiation between the Secretary and the lessors of the new replacement commercial utility cargo vehicles;
+&emsp;“(B) the quantities and trade-in value of commercial utility cargo vehicles to be traded in shall be subject to negotiation between the Secretary and thelessors of the new replacement commercial utility cargo vehicles;
 
 &emsp;“(C) the lease agreement for a new commercial utility cargo vehicle may be executed with or without an option to purchase at the end of the lease period;
 
@@ -46,11 +56,11 @@ Section 807(c) of Pub. L. 104–106 provided that:
 
 “(4) The pilot program may not be commenced until—
 
-&emsp;“(A) the Secretary submits to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report that contains the plans of the Secretary for implementing the program and that sets forth in detail the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles; and
+&emsp;“(A) the Secretary submits to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report that contains the plans of the Secretary for implementing the program and that sets forth in detail the savings in operating and support costs expected to be derived from retiring older commercial utility cargo vehicles, as compared to the expected costs of leasing newer commercial utility cargo vehicles; and
 
 &emsp;“(B) a period of 30 calendar days has elapsed after submission of such report.
 
-“(5) Not later than one year after the date on which the first lease under the pilot program is entered into, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the status of the pilot program. Such report shall be based on at least six months of experience in operating the pilot program.
+“(5) Not later than one year after the date on which the first lease under the pilot program is entered into, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the status of the pilot program. Such report shall be based on at least six months of experience in operating the pilot program.
 
 “(6) The Secretary may exercise an option provided for under paragraph (2) only after a period of 60 days has elapsed after the submission of the report.
 

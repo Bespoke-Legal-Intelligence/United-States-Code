@@ -48,7 +48,7 @@ Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving
 
 &emsp;(2) discharge any passenger or merchandise (including baggage).
 
-(June 17, 1930, ch. 497, title IV, §433, 46 Stat. 711; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Oct. 27, 1986, Pub. L. 99–570, title III, §3112, 100 Stat. 3207–80; Dec. 8, 1993, Pub. L. 103–182, title VI, §652, 107 Stat. 2209.)
+(June 17, 1930, ch. 497, title IV, §433, 46 Stat. 711; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 99–570, title III, §3112, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §652, Dec. 8, 1993, 107 Stat. 2209.)
 
 #### Prior Provisions
 

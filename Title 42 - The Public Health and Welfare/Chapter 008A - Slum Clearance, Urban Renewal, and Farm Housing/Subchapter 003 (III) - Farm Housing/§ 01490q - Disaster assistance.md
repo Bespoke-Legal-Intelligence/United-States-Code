@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subchapter, in the event of a natural disaster, so declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Secretary shall allocate, for assistance under this section to the States affected for use in the counties designated as disaster areas and thecounties contiguous to such counties, amounts made available to the Secretary by an appropriations Act for such purpose. Allocations under this section may be made for each of the fiscal years ending during the 3-year period beginning on the declaration of the disaster by the President.
+&emsp;Notwithstanding any other provision of this subchapter, in the event of a natural disaster, so declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the Secretary shall allocate, for assistance under this section to the States affected for use in the counties designated as disaster areas and the counties contiguous to such counties, amounts made available to the Secretary by an appropriations Act for such purpose. Allocations under this section may be made for each of the fiscal years ending during the 3-year period beginning on the declaration of the disaster by the President.
 
 #### (2) Amount
 
@@ -30,7 +30,7 @@ The Secretary may waive the application of the provisions of section 1490 of thi
 
 The Secretary is authorized to advance from the Rural Housing Insurance Fund such sums as may be necessary to meet the requirements of subsection (a)(1) of this section, subject to limits previously approved in appropriations Acts.
 
-(July 15, 1949, ch. 338, title V, §541, as added Nov. 28, 1990, Pub. L. 101–625, title IX, §934, 104 Stat. 4404; amended Oct. 28, 1992, Pub. L. 102–550, title VII, §713, 106 Stat. 3842.)
+(July 15, 1949, ch. 338, title V, §541, as added Pub. L. 101–625, title IX, §934, Nov. 28, 1990, 104 Stat. 4404; amended Pub. L. 102–550, title VII, §713, Oct. 28, 1992, 106 Stat. 3842.)
 
 #### References in Text
 

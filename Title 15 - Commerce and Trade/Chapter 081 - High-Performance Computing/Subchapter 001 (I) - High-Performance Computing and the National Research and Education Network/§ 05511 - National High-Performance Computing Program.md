@@ -10,9 +10,9 @@
 
 (2) The Program shall—
 
-&emsp;(A) provide for the establishment of policies for management and access to the Network;
+&emsp;(A) provide for the development of technologies to advance the capacity and capabilities of the Internet;
 
-&emsp;(B) provide for oversight of the operation and evolution of the Network;
+&emsp;(B) provide for high performance testbed networks to enable the research, development, and demonstration of advanced networking technologies and to develop and demonstrate advanced applications made possible by the existence of such testbed networks;
 
 &emsp;(C) promote connectivity among computer networks of Federal agencies and departments;
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(xi) such other agencies and departments as the President or the Director considers appropriate;
 
-&emsp;(C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
+&emsp;(C) describe the levels of Federal funding for the fiscal year during which such report issubmitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for specific activities, including education, research, hardware and software development, and support for the establishment of the Network;
 
 &emsp;(D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
 
@@ -76,7 +76,7 @@
 
 &emsp;(F) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
 
-#### (b) High-performance computing advisory committee
+#### (b) Advisory committee
 
 The President shall establish an advisory committee on high-performance computing consisting of non-Federal members, including representatives of the research, education, and library communities, network providers, and industry, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of—
 
@@ -100,9 +100,17 @@ The President shall establish an advisory committee on high-performance computin
 
 (2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(3)(A) of this section, and shall include, in the President's annual budget estimate, a statement of the portion of each appropriate agency's or department's annual budget estimate relating to its activities undertaken pursuant to the Program.
 
-(Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719.)
+(Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, §4, Oct. 28, 1998, 112 Stat. 2921.)
 
 #### Amendments
+
+1998—Subsec. (a)(2)(A), (B). Pub. L. 105–305, §4(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
+
+“(A) provide for the establishment of policies for management and access to the Network;
+
+“(B) provide for oversight of the operation and evolution of the Network;”.
+
+Subsec. (b). Pub. L. 105–305, §4(b), struck out “High-performance computing” before “advisory committee” in heading.
 
 1995—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
@@ -110,15 +118,15 @@ The President shall establish an advisory committee on high-performance computin
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Ex. Ord. No. 13035. Advisory Committee on High-Performance Computing and Communications, Information Technology, and the Next Generation Internet
+#### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 
-Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, provided:
+Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, as amended by Ex. Ord. No. 13092, July 24, 1998, 63 F.R. 40167; Ex. Ord. No. 13113, Feb. 10, 1999, 64 F.R. 7489, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the High-Performance Computing Act of 1991 (Public Law 102–194) (“Act”) \[15 U.S.C. 5501 et seq.\], and in order to establish an advisory committee on high-performance computing and communications, Information Technology, and the Next Generation Internet, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the High-Performance Computing Act of 1991 (Public Law 102–194) (“Act”) \[15 U.S.C. 5501 et seq.\], as amended by the Next Generation Internet Research Act of 1998 (Public Law 105–305) (“Research Act”) \[see Short Title of 1998 Amendment note set out under section 5501 of this title\], and in order to establish an advisory committee on high-performance computing and communications, Information Technology \[sic\], and the Next Generation Internet, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the “Advisory Committee on High-Performance Computing and Communications, Information Technology, and the Next Generation Internet” (“Committee”). The Committee shall consist of not more than 25 nonfederal members appointed by the President, including representatives of the research, education, and library communities, network providers, and representatives from critical industries. The President shall designate co-chairs from among the members of the Committee.
+Section 1. <i>Establishment</i>. There is established the “President's Information Technology Advisory Committee” (“Committee”). The Committee shall consist of not more than 30 nonfederal members appointed by the President, including representatives of the research, education, and library communities, network providers, and representatives from critical industries. The President shall designate co-chairs from among the members of the Committee.
 
-Sec. 2. <i>Functions</i>. The Committee shall provide the National Science and Technology Council (NSTC), through the Director of the Office of Science and Technology Policy (“Director”), with advice and information on high-performance computing and communications, information technology, and the Next Generation Internet. The Committee shall provide an independent assessment of:
+Sec. 2. <i>Functions</i>. (a) The Committee shall provide the National Science and Technology Council (NSTC), through the Director of the Office of Science and Technology Policy (“Director”), with advice and information on high-performance computing and communications, information technology, and the Next Generation Internet. The Committee shall provide an independent assessment of:
 
 (1) progress made in implementing the High-Performance Computing and Communications (HPCC) Program;
 
@@ -132,6 +140,8 @@ Sec. 2. <i>Functions</i>. The Committee shall provide the National Science and T
 
 (6) other issues as specified by the Director.
 
+(b) The Committee shall carry out its responsibilities under the Research Act in the manner described in the Research Act.
+
 Sec. 3. <i>Administration</i>. To the extent permitted by law and subject to the availability of appropriations, the Department of Defense shall provide the financial and administrative support for the Committee. Further, the Director of the National Coordination Office for Computing Information, and Communications (“Director of the NCO”) shall provide such coordination and technical assistance to the Committee as the co-chairs of the Committee may request.
 
 (a) The heads of executive agencies shall, to the extent permitted by law, provide to the Committee such information as it may require for the purpose of carrying out its functions.
@@ -142,11 +152,11 @@ Sec. 3. <i>Administration</i>. To the extent permitted by law and subject to the
 
 Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 App. U.S.C.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
 
-(b) The Committee shall terminate 2 years from the date of this order unless extended by the President prior to such date.
+(b) The Committee shall terminate February 11, 2001, unless extended by the President prior to such date.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5503, 5523, 5528 of this title.
+This section is referred to in sections 5503, 5513, 5523, 5528 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Termination of assistance
 
-After September 30, 1997, financial assistance may not be provided under the United StatesHousing Act of 1937 \[42 U.S.C. 1437 et seq.\] or pursuant to any commitment entered into under such Act, for Indian housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority, unless such assistance is provided from amounts made available for fiscal year 1997 and pursuant to a commitment entered into before September 30, 1997.
+After September 30, 1997, financial assistance may not be provided under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] or pursuant to any commitment entered into under such Act, for Indian housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority, unless such assistance is provided from amounts made available for fiscal year 1997 and pursuant to a commitment entered into before September 30, 1997.
 
 #### (b) Termination of restrictions on use of Indian housing
 

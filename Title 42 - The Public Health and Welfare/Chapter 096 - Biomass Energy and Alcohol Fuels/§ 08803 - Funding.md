@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-To the extent provided in advance in appropriation Acts, for the two year period beginning October 1, 1980, there is authorized to be appropriated and transferred $1,170,000,000 from the Energy Security Reserve established in theTreasury of the United States under title II of the Act entitled “An Act making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1980, and for other purposes” (Public Law 96–126; 93 Stat. 970) and made available for obligation by such Act only to the extent provided in advance in appropriation Acts, as follows:
+To the extent provided in advance in appropriation Acts, for the two year period beginning October 1, 1980, there is authorized to be appropriated and transferred $1,170,000,000 from the Energy Security Reserve established in the Treasury of the United States under title II of the Act entitled “An Act making appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1980, and for other purposes” (Public Law 96–126; 93 Stat. 970) and made available for obligation by such Act only to the extent provided in advance in appropriation Acts, as follows:
 
 &emsp;(1) $460,000,000 to the Secretary of Agriculture for carrying out activities under subchapter I of this chapter, except of the amount of the financial assistance provided by the Secretary of Agriculture under subchapter I of this chapter, up to one-third shall be for small-scale biomass energy projects;
 

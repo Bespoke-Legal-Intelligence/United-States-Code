@@ -32,7 +32,7 @@ As used in this chapter:
 
 (5) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
 
-(6) The term “health and safety study” means any study of any effect of a chemical substanceor mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
+(6) The term “health and safety study” means any study of any effect of a chemical substance or mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
 
 (7) The term “manufacture” means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
 
@@ -76,7 +76,7 @@ As used in this chapter:
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 

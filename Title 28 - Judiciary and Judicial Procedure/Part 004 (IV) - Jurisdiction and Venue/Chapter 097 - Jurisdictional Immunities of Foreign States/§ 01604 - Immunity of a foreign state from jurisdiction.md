@@ -1,6 +1,6 @@
 ### §1604. Immunity of a foreign state from jurisdiction
 
-Subject to existing international agreements to which the United States is a party at the time of enactment of this Act a foreign state shall be immune from the jurisdiction of thecourts of the United States and of the States except as provided in sections 1605 to 1607 of this chapter.
+Subject to existing international agreements to which the United States is a party at the time of enactment of this Act a foreign state shall be immune from the jurisdiction of the courts of the United States and of the States except as provided in sections 1605 to 1607 of this chapter.
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892.)
 

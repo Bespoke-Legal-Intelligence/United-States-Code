@@ -1,6 +1,8 @@
 ### §5608. Administrative provisions
 
-In general.—In order to carry out the provisions of this chapter, the Foundation may—
+#### (a) In general
+
+In order to carry out the provisions of this chapter, the Foundation may—
 
 &emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Director be compensated at a rate to exceed the maximum rate for employees in grade GS–15 of the General Schedule under section 5332 of title 5;
 
@@ -16,5 +18,13 @@ In general.—In order to carry out the provisions of this chapter, the Foundati
 
 &emsp;(7) make other necessary expenditures.
 
-(Pub. L. 102–259, §10, Mar. 19, 1992, 106 Stat. 83.)
+#### (b) The Institute
+
+The authorities set forth above shall, with the exception of paragraph (4), apply to the Institute established pursuant to section 5607a of this title.
+
+(Pub. L. 102–259, §12, formerly §10, Mar. 19, 1992, 106 Stat. 83; renumbered §12, Pub. L. 105–156, §6(a), Feb. 11, 1998, 112 Stat. 9; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512.)
+
+#### Amendments
+
+1998—Pub. L. 105–277 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -82,7 +82,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Office of Personnel Management, seesection 1(2) of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a) of this section delegated to Office of Personnel Management, see section 1(2) of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
 
 #### Ex. Ord. No. 10471. Authorization To Grant Leaves of Absence
 

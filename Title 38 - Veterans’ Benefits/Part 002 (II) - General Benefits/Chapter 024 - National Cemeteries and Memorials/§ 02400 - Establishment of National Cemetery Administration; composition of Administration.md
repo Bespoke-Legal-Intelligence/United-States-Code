@@ -1,0 +1,156 @@
+### §2400. Establishment of National Cemetery Administration; composition of Administration
+
+(a) There shall be within the Department a National Cemetery Administration responsible for the interment of deceased servicemembers and veterans. The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs, who shall perform such functions as may be assigned by the Secretary.
+
+(b) The national cemeteries and other facilities under the control of the National Cemetery Administration shall consist of—
+
+&emsp;(1) national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973;
+
+&emsp;(2) cemeteries under the jurisdiction of the Veterans’ Administration on the date of enactment of this chapter; and
+
+&emsp;(3) any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
+
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII,§701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
+
+#### References in Text
+
+The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
+
+For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
+
+The date of enactment of this chapter, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 93–43, which was approved June 18, 1973.
+
+#### Amendments
+
+1998—Pub. L. 105–368, §403(c)(3)(C), substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in section catchline.
+
+Subsec. (a). Pub. L. 105–368, §403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
+
+Subsec. (b). Pub. L. 105–368, §403(c)(3)(B), substituted “national cemeteries and other facilities under the control of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 1000 of this title as this section.
+
+Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+
+1989—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
+
+1988—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
+
+1986—Subsec. (a). Pub. L. 99–576 substituted “servicemembers” for “servicemen” and “The Administrator” for “To assist him in carrying out his responsibilities in administering the cemeteries within the System, the Administrator”.
+
+#### Change of Name
+
+Pub. L. 105–368, title IV, §403(a)(1), Nov. 11, 1998, 112 Stat. 3337, provided that: “The National Cemetery System of the Department of Veterans Affairs shall hereafter be known and designated as the National Cemetery Administration. The position of Director of the National Cemetery System is hereby redesignated as Under Secretary of Veterans Affairs for Memorial Affairs.”
+
+Pub. L. 105–368, title IV, §403(d), Nov. 11, 1998, 112 Stat. 3339, provided that:
+
+“(1) Any reference in a law, map, regulation, document, paper, or other record of the United States to the National Cemetery System shall be deemed to be a reference to the National Cemetery Administration.
+
+“(2) Any reference in a law, map, regulation, document, paper, or other record of the United States to the Director of the National Cemetery System shall be deemed to be a reference to the Under Secretary of Veterans Affairs for Memorial Affairs.”
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of this title.
+
+#### Effective Date
+
+Section 10(a) of Pub. L. 93–43 provided that: “The first section \[set out as a Short Title of 1973 Amendment note under section 101 of this title\] and sections 2 \[enacting this chapter and amending section 5316 of Title 5, Government Organization and Employees\], 3 \[set out as a note under section 2404 of this title\], 4 \[enacting section 218 and repealing section 625 of this title\], and 8 \[amending section 3505 \[now 6105\] of this title\] of this Act shall take effect on the date of enactment of this Act \[June 18, 1973\].”
+
+#### Short Title
+
+For short title of Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which enacted this chapter, as the “National Cemeteries Act of 1973”, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title.
+
+#### Reimbursement of Account
+
+Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: “That during fiscal year 1999, or in subsequent fiscal years, the ‘Construction, major projects’ account shall be reimbursed, in the amount transferred, from other funds as they become part of the Pershing Hall Revolving Fund.”
+
+#### Transfer of Pershing Hall to Department of Veterans Affairs
+
+Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, §4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, §1202(c), Nov. 2, 1994, 108 Stat. 4689, provided that:
+
+“(a)
+
+In General.—Pershing Hall, an existing memorial in Paris, France, owned by the United States, together with the personal property of such memorial, is hereby placed under the jurisdiction, custody, and control of the Department of Veterans Affairs so that the memorial to the commander-in-chief, officers, men, and auxiliary services of the American Expeditionary Forces in France during World War I may be continued in an appropriate manner and financial support be provided therefor.
+
+“(b)
+
+Administration.—(1)(A) The Secretary of Veterans Affairs shall administer, operate, develop, and improve Pershing Hall and its site in such manner as the Secretary determines is in the best interests of the United States, which may include use of Pershing Hall to meet the needs of veterans. To meet such needs, the Secretary may establish and operate a regional or other office to disseminate information, respond to inquiries, and otherwise assist veterans and their families in obtaining veterans’ benefits.
+
+“(B) To carry out the purposes of this section, the Secretary may enter into agreements authorized by subsection (c) to fund the operation of the memorial and projects authorized by subsection (d)(6).
+
+“(2)(A) The Secretary shall, after consultation with the American Battle Monuments Commission, provide for a portion of Pershing Hall to be specifically dedicated, with appropriate exhibitions and monuments, to the memory of the commander-in-chief, officers, men, and auxiliary services of the American Expeditionary Forces in France during World War I.
+
+“(B) The establishment and continuing supervision of the memorial that is dedicated pursuant to subparagraph (A) shall be carried out by the American Battle Monuments Commission.
+
+“(3) To the extent that funds are available in the Pershing Hall Revolving Fund established by subsection (d), the Secretary may incur such expenses with respect to Pershing Hall as the Secretary determines necessary or appropriate.
+
+“(4) The Secretary of Veterans Affairs may provide the allowances and benefits described in section 707 of title 38, United States Code, to personnel of the Department of Veterans Affairs who are United States citizens and are assigned by the Secretary to Pershing Hall.
+
+“(c)
+
+Leases.—(1) The Secretary may enter into agreements as the Secretary determines necessary or appropriate for the operation, development, and improvement of Pershing Hall and its site, including the leasing of portions of the Hall for terms not to exceed 99 years in areas that are newly constructed or substantially rehabilitated and for not to exceed 20 years in other areas of the Hall.
+
+“(2) Leases entered into by the Secretary under this subsection shall be for consideration in the form of cash or in-kind, or a combination of the two, as determined by the Secretary, which shall include the value of space leased back to the Secretary by the lessee, net of rent paid by the Secretary, and the present value of the residual interest of the Secretary at the end of the lease term.
+
+“(d)
+
+Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be administered by the Secretary of Veterans Affairs.
+
+“(2) There shall be transferred to the Pershing Hall Revolving Fund, at such time or times as the Secretary may determine without limitation as to year, amounts as determined by the Secretary, not to exceed $1,000,000 in total, from funds appropriated to the Department of Veterans Affairs for the construction of major projects. The account from which any such amount is transferred shall be reimbursed promptly from other funds as they become part of the Pershing Hall Revolving Fund.
+
+“(3) The Pershing Hall Memorial Fund, established in the Treasury of the United States pursuant to section 2 of the Act of June 28, 1935 (Public Law 74–171; 49 Stat. 426) \[former 36 U.S.C. 491\], is hereby abolished and the corpus of the fund, including accrued interest, is transferred to the Pershing Hall Revolving Fund.
+
+“(4) Funds received by the Secretary from operation of Pershing Hall or from any lease or other agreement with respect to Pershing Hall shall be deposited in the Pershing Hall Revolving Fund.
+
+“(5) The Secretary of the Treasury shall invest any portion of the Revolving Fund that, as determined by the Secretary of Veterans Affairs, is not required to meet current expenses of the Fund. Each investment shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Secretary of Veterans Affairs, has a maturity suitable for the Revolving Fund. The Secretary of the Treasury shall credit to the Revolving Fund the interest on, and the proceeds from the sale or redemption of, such obligations.
+
+“(6)(A) Subject to subparagraphs (B) and (C), the Secretary of Veterans Affairs may expend not more than $100,000 from the Fund in any fiscal year upon projects, activities, and facilities determined by the Secretary to be in keeping with the mission of the Department.
+
+“(B) An expenditure under subparagraph (A) may be made only from funds that will remain in the Fund in any fiscal year after payment of expenses incurred with respect to Pershing Hall for such fiscal year and only after the reimbursement of all amounts transferred to the Fund under subsection (d)(2) has been completed.
+
+“(C) An expenditure authorized by subparagraph (A) shall be reported by the Secretary to the Congress no later than November 1 of each year for the fiscal year ending on the previous September 30.
+
+“(e)
+
+Waiver.—The Secretary may carry out the provisions of this section without regard to section 8122 of title 38, United States Code, section 321 of the Act of June 30, 1932 (40 U.S.C. 303b; 47 Stat. 412), sections 202 and 203 of the Federal Property and Administrative Services Act (40 U.S.C. 483 and 484), or any other provision of law inconsistent with this section.”
+
+\[Section 403 of Pub. L. 102–86, set out above, was classified to section 493 of former Title 36 prior to the general revision and enactment of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253.\]
+
+#### Authority To Establish National Cemeteries
+
+Section 414 of Pub. L. 99–576 provided that:
+
+“(a)
+
+Authority.—The authority of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under chapter 24 of title 38, United States Code, to develop and acquire cemeteries as part of the National Cemetery System \[now National Cemetery Administration\] includes, but is not limited to, the authority to establish additional national cemeteries to serve the needs of veterans and their families in—
+
+&emsp;“(1) San Francisco, California;
+
+&emsp;“(2) Chicago, Illinois;
+
+&emsp;“(3) Cleveland, Ohio;
+
+&emsp;“(4) Pittsburgh, Pennsylvania;
+
+&emsp;“(5) Dallas/Fort Worth, Texas;
+
+&emsp;“(6) Miami, Florida;
+
+&emsp;“(7) Seattle, Washington;
+
+&emsp;“(8) Atlanta, Georgia;
+
+&emsp;“(9) Phoenix/Tucson, Arizona;
+
+&emsp;“(10) Birmingham, Alabama; and
+
+&emsp;“(11) any other State in which a national cemetery is not available for the burial of veterans.
+
+“(b)
+
+Land Acquisition.—The Administrator \[now Secretary\] may acquire land necessary for a cemetery authorized by subsection (a) of this section by donation, purchase, condemnation, exchange of lands in the United States public domain, or otherwise.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 307 of this title.
+

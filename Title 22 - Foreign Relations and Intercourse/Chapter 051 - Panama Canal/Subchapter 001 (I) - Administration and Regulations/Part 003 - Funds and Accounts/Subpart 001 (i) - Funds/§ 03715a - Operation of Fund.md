@@ -16,7 +16,7 @@ The Secretary of the Treasury, upon the request of the Secretary of Labor, shall
 
 #### Codification
 
-Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
+Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not aspart of the Panama Canal Act of 1979 which comprises this chapter.
 
 #### Effective Date
 

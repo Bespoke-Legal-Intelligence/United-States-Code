@@ -22,7 +22,7 @@ As used in this part:
 
 &emsp;&emsp;(B) the estimated cost of maintaining a loan as a nonperforming asset;
 
-&emsp;&emsp;(C) the estimated cost of administrative and legal actions necessary to foreclose a loan and dispose of property acquired as theresult of the foreclosure, including attorneys’ fees and court costs;
+&emsp;&emsp;(C) the estimated cost of administrative and legal actions necessary to foreclose a loan and dispose of property acquired as the result of the foreclosure, including attorneys’ fees and court costs;
 
 &emsp;&emsp;(D) the estimated cost of changes in the value of collateral used to secure a loan during the period beginning on the date of the initiation of an action to foreclose or liquidate the loan and ending on the date of the disposition of the collateral; and
 
@@ -152,7 +152,7 @@ If two or more restructuring alternatives are available to a qualified lender un
 
 #### (1) Establishment
 
-&emsp;Each bank board of directors shall develop a policy within 60 days after January 6, 1988, that is consistent with this section, to govern the restructuring of distressed loans. Such policy shall constitute the restructuring policy of each qualified lender within the district.
+&emsp;Each bank board of directors shall develop a policy within 60 days after January 6, 1988, that is consistent with this section, to govern the restructuring of distressed loans. Suchpolicy shall constitute the restructuring policy of each qualified lender within the district.
 
 #### (2) Contents of policy
 
@@ -184,7 +184,7 @@ This section shall not be construed to prevent any qualified lender from enforci
 
 #### (k) Application of section
 
-The time limitation prescribed in subsection (b)(2) of this section, and the requirements ofsubsection (c) of this section, shall not apply to a loan that became a distressed loan before January 6, 1988, if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
+The time limitation prescribed in subsection (b)(2) of this section, and the requirements of subsection (c) of this section, shall not apply to a loan that became a distressed loan before January 6, 1988, if the borrower and lender of the loan are in the process of negotiating loan restructuring with respect to the loan.
 
 #### (<i>l</i>) Assistance in restructuring
 

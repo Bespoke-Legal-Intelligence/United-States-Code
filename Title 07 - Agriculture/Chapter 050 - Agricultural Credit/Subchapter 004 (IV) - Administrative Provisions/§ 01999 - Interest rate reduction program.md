@@ -44,9 +44,9 @@ The Secretary shall make available to farmers, on request, a list of lenders in 
 
 #### (g) Foreclosure action provision in farm loan guarantees
 
-Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988, shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.
+Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988, shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after adetermination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.
 
-(Pub. L. 87–128, title III, §351, as added Pub. L. 99–198, title XIII, §1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, §220,Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, §643(a), Apr. 4, 1996, 110 Stat. 1102.)
+(Pub. L. 87–128, title III, §351, as added Pub. L. 99–198, title XIII, §1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, §220, Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, §643(a), Apr. 4, 1996, 110 Stat. 1102.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ For purposes of carrying out this subchapter, the Advisory Commission may procur
 
 #### (b) Detail of staff of Federal agencies
 
-Upon request of the Executive Director of the Advisory Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Advisory Commission to assist it in carrying out this subchapter.
+Upon request of the Executive Director of the Advisory Commission, the head of any Federaldepartment or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Advisory Commission to assist it in carrying out this subchapter.
 
 #### (c) Administrative support services
 

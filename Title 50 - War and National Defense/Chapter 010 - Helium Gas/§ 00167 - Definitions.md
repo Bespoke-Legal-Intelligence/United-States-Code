@@ -32,11 +32,11 @@ Section 1 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that:
 
 #### Separability
 
-Section 17 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that: “If any provision of this Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Section 17 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that: “If any provision of this Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or theapplication of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 #### Severance Package for Helium Operations Employees
 
-Pub. L. 105–83, title I, §113, Nov. 14, 1997, 111 Stat. 1562, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title I, §112\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–254, provided that:
 
 “(a) Employees of Helium Operations, Bureau of Land Management, entitled to severance pay under 5 U.S.C. 5595, may apply for, and the Secretary of the Interior may pay, the total amount of the severance pay to the employee in a lump sum. Employees paid severance pay in a lump sum and subsequently reemployed by the Federal Government shall be subject to the repayment provisions of 5 U.S.C. 5595(i)(2) and (3), except that any repayment shall be made to the Helium Fund.
 
@@ -44,7 +44,11 @@ Pub. L. 105–83, title I, §113, Nov. 14, 1997, 111 Stat. 1562, provided that:
 
 “(c) The Secretary of the Interior may provide for training to assist Helium Operations employees in the transition to other Federal or private sector jobs during the facility shut-down and disposition process and for up to 12 months following separation from Federal employment, including retraining and relocation incentives on the same terms and conditions as authorized for employees of the Department of Defense in section 348 of the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, 10 U.S.C. 1597 note\].
 
-“(d) For purposes of the annual leave restoration provisions of 5 U.S.C. 6304(d)(1)(B), the cessation of helium production and sales, and other related Helium Program activities shall be deemed to create an exigency of public business under, and annual leave that is lost during leave years 1997 through 2001 because of, 5 U.S.C. 6304 (regardless of whether such leave was scheduled in advance) shall be restored to the employee and shall be credited and available in accordance with 5 U.S.C. 6304(d)(2). Annual leave so restored and remaining unused upon the transfer of a Helium Program employee to a position of the executive branch outside of the Helium Program shall be liquidated by payment to the employee of a lump sum from the Helium Fund for such leave.
+“(d) For purposes of the annual leave restoration provisions of 5 U.S.C. 6304(d)(1)(B), the cessation of helium production and sales, and other related Helium Program activities shall be deemed to create an exigency of public business under, and annual leave that is lost during leave years 1997 through 2001 because of 5 U.S.C. 6304 (regardless of whether such leave was scheduled in advance) shall be restored to the employee and shall be credited and available in accordance with 5 U.S.C. 6304(d)(2). Annual leave so restored and remaining unused upon the transfer of a Helium Program employee to a position of the executive branch outside of the Helium Program shall be liquidated by payment to the employee of a lump sum from the Helium Fund for such leave.
 
 “(e) Benefits under this section shall be paid from the Helium Fund in accordance with section 4(c)(4) of the Helium Privatization Act of 1996 \[probably means the Helium Act, which is classified to section 167b(c)(4) of this title\]. Funds may be made available to Helium Program employees who are or will be separated before October 1, 2002 because of the cessation of helium production and sales and other related activities. Retraining benefits, including retraining and relocation incentives, may be paid for retraining commencing on or before September 30, 2002.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 105–83, title I, §113, Nov. 14, 1997, 111 Stat. 1562.
 

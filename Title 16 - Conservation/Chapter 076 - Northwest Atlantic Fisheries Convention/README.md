@@ -35,6 +35,11 @@
 | (c) | Status as Federal employees. |
 | [5609\.](%C2%A7%2005609%20-%20Definitions.md) | Definitions. |
 | [5610\.](%C2%A7%2005610%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [5611\.](%C2%A7%2005611%20-%20Annual%20report.md) | Annual report. |
+| [5612\.](%C2%A7%2005612%20-%20Quota%20allocation%20practice.md) | Quota allocation practice. |
+| (a) | In general. |
+| (b) | Report. |
+| (c) | “Straddling Fish Stocks Agreement” defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,3 +58,5 @@
 - [&sect; 05608 - Administrative matters](%C2%A7%2005608%20-%20Administrative%20matters.md)
 - [&sect; 05609 - Definitions](%C2%A7%2005609%20-%20Definitions.md)
 - [&sect; 05610 - Authorization of appropriations](%C2%A7%2005610%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 05611 - Annual report](%C2%A7%2005611%20-%20Annual%20report.md)
+- [&sect; 05612 - Quota allocation practice](%C2%A7%2005612%20-%20Quota%20allocation%20practice.md)

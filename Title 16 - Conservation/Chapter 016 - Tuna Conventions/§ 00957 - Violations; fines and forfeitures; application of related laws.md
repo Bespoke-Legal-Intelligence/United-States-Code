@@ -14,9 +14,9 @@
 
 (g) All fish taken or retained in violation of subsection (a) of this section, or the monetary value thereof, may be forfeited.
 
-(h) All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation ofsuch forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
+(h) All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
-(Sept. 7, 1950, ch. 907, §8, 64 Stat. 779; Oct. 15, 1962, Pub. L. 87–814, §4, 76 Stat. 924; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Sept. 7, 1950, ch. 907, §8, 64 Stat. 779; Pub. L. 87–814, §4, Oct. 15, 1962, 76 Stat. 924; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ In accordance with article 25 of the treaty of peace with Bulgaria, article 29 o
 
 #### (b) Net proceeds of property vested in Alien Property Custodian or Attorney General
 
-The net proceeds of any property which was vested in the Alien Property Custodian or the Attorney General after December 17, 1941, pursuant to the Trading With the Enemy Act, as amended, and which at the date of vesting was owned directly or indirectly by Bulgaria, Hungary, or Rumania, or any national thereof, shall after completion of the administration, liquidation, and disposition of such property pursuant to such Act, including the adjudication of any suits or claims with respect thereto under such Act, be covered into the Treasury, except that the net proceeds of any such property which the President or his designee shall determine was directly owned by a natural person at the date ofvesting shall be divested by the President or such officer or agency as he may designate and carried in blocked accounts with the Treasury, bearing no interest, in the name of the owner thereof at the date of vesting, subject to release when, as, and upon such terms as the President or his designee may prescribe.
+The net proceeds of any property which was vested in the Alien Property Custodian or the Attorney General after December 17, 1941, pursuant to the Trading With the Enemy Act, as amended, and which at the date of vesting was owned directly or indirectly by Bulgaria, Hungary, or Rumania, or any national thereof, shall after completion of the administration, liquidation, and disposition of such property pursuant to such Act, including the adjudication of any suits or claims with respect thereto under such Act, be covered into the Treasury, except that the net proceeds of any such property which the President or his designee shall determine was directly owned by a natural person at the date of vesting shall be divested by the President or such officer or agency as he may designate and carried in blocked accounts with the Treasury, bearing no interest, in the name of the owner thereof at the date of vesting, subject to release when, as, and upon such terms as the President or his designee may prescribe.
 
 #### (c) Determination of ownership by natural person of vested property
 
@@ -22,7 +22,7 @@ The President or his designee may require any person to furnish, in the form of 
 
 Executive Order 8389 of April 10, 1940, referred to in subsecs. (a) and (d), is Ex. Ord. 8389, Apr. 10, 1940, 5 F.R. 1400, which is set out under section 95a of Title 12, Banks and Banking.
 
-The Trading With the Enemy Act, as amended, and such Act, referred to in subsec. (b), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, as amended, and such Act, referred to in subsec. (b), is act Oct. 6, 1917,ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Alien Property Custodian Functions
 

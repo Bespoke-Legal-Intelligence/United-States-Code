@@ -24,5 +24,5 @@ Subsec. (b)(iii). Pub. L. 98–11, §204(2)–(4), added cl. (iii).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1242, 1261 of this title.
+This section is referred to in sections 460<i>lll</i>–27, 1242, 1261 of this title.
 

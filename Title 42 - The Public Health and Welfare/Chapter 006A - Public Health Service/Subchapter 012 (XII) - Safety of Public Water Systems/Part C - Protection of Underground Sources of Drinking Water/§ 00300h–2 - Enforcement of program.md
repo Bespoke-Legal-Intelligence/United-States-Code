@@ -32,7 +32,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 > the Administrator may also issue an order under this subsection either assessing a civil penalty of not more than $5,000 for each day of violation for any past or current violation, up to a maximum administrative penalty of $125,000, or requiring compliance with such regulation or other requirement, or both.
 
-(3)(A) An order under this subsection shall be issued by the Administrator after opportunity (provided in accordance with this subparagraph) for a hearing. Before issuing the order, the Administrator shall give to the person to whom it is directed written notice of the Administrator's proposal to issue such order and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the order. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
+(3)(A) An order under this subsection shall be issued by the Administrator after opportunity (provided in accordance with this subparagraph) for a hearing. Before issuing the order, the Administrator shall give to the person to whom it is directed written notice of the Administrator's proposal to issue such order and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on theorder. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
 (B) The Administrator shall provide public notice of, and reasonable opportunity to comment on, any proposed order.
 
@@ -44,7 +44,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 (B) In assessing any civil penalty under this subsection, the Administrator shall take into account appropriate factors, including (i) the seriousness of the violation; (ii) the economic benefit (if any) resulting from the violation; (iii) any history of such violations; (iv) any good-faith efforts to comply with the applicable requirements; (v) the economic impact of the penalty on the violator; and (vi) such other matters as justice may require.
 
-(5) Any violation with respect to which the Administrator has commenced and is diligently prosecuting an action, or has issued an order under this subsection assessing a penalty, shall not be subject to an action under subsection (b) of this section or section 300h–3(c) or 300j–8 of this title, except that the foregoing limitationon civil actions under section 300j–8 of this title shall not apply with respect to any violation for which—
+(5) Any violation with respect to which the Administrator has commenced and is diligently prosecuting an action, or has issued an order under this subsection assessing a penalty, shall not be subject to an action under subsection (b) of this section or section 300h–3(c) or 300j–8 of this title, except that the foregoing limitation on civil actions under section 300j–8 of this title shall not apply with respect to any violation for which—
 
 &emsp;(A) a civil action under section 300j–8(a)(1) of this title has been filed prior to commencement of an action under this subsection, or
 
@@ -66,7 +66,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 Nothing in this subchapter shall diminish any authority of a State or political subdivision to adopt or enforce any law or regulation respecting underground injection but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
 
-(July 1, 1944, ch. 373, title XIV, §1423, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1677; amended Dec. 5, 1980, Pub. L. 96–502, §2(b), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §202, 100 Stat. 654.)
+(July 1, 1944, ch. 373, title XIV, §1423, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1677; amended Pub. L. 96–502, §2(b), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title II, §202, June 19, 1986, 100 Stat. 654.)
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Subsec. (a)(1). Pub. L. 99–339, §202(a)(1), substituted provisions which rela
 
 Subsec. (a)(2). Pub. L. 99–339, §202(a)(2), substituted provision that the Administrator issue an order under subsec. (c) of this section or commence a civil action under subsec. (b) of this section for provision that he commence a civil action under subsec. (b)(1) of this section.
 
-Subsec. (b). Pub. L. 99–339, §202(b), amended subsec. (b) generally, substituting provisions relating to jurisdiction of the appropriate Federal district court, entry of judgment, civil penalty of $25,000 per day, criminal liability and fine for willful violation for provisions which related to judicial determinations in appropriate Federal district courts, civil penalties of $5,000 per day, and fines of $10,000 per day for willful violations.
+Subsec. (b). Pub. L. 99–339, §202(b), amended subsec. (b) generally, substituting provisions relating to jurisdiction of the appropriate Federal district court, entry of judgment, civil penalty of $25,000 per day, criminalliability and fine for willful violation for provisions which related to judicial determinations in appropriate Federal district courts, civil penalties of $5,000 per day, and fines of $10,000 per day for willful violations.
 
 Subsecs. (c), (d). Pub. L. 99–339, §202(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 

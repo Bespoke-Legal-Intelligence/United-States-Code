@@ -4,7 +4,7 @@
 
 (2) For purposes of this section, the term “qualified veteran” means a veteran who has a service-connected disability, or service-connected disabilities, not rated as total but who has been awarded a rating of total disability by reason of inability to secure or follow a substantially gainful occupation as a result of such disability or disabilities.
 
-(b) The Secretary shall make counseling services described in section 3104(a)(2) of this title and placement and postplacement services described in section 3104(a)(5) of this title available to each qualified veteran (whether or not theveteran is participating in a vocational rehabilitation program under chapter 31 of this title).
+(b) The Secretary shall make counseling services described in section 3104(a)(2) of this title and placement and postplacement services described in section 3104(a)(5) of this title available to each qualified veteran (whether or not the veteran is participating in a vocational rehabilitation program under chapter 31 of this title).
 
 (c)(1) In the case of each award after January 31, 1985, of a rating of total disability described in subsection (a)(2) of this section to a veteran, the Secretary shall provide to the veteran, at the time that notice of the award is provided to the veteran, a statement providing—
 
@@ -66,7 +66,7 @@ Section 2(e) of Pub. L. 102–291 provided that: “The following actions of the
 
 &emsp;“(1) A failure to reduce the disability rating of a veteran who began to engage in a substantially gainful occupation during that period.
 
-&emsp;“(2) The provision of a vocational training program (including related evaluations and other related services) to a veteran under section 1524 of title 38, United States Code, and the making of related determinations under that section.
+&emsp;“(2) The provision of a vocational training program (including related evaluations and other related services) to a veteran under section 1524 of title 38, UnitedStates Code, and the making of related determinations under that section.
 
 &emsp;“(3) The provision of health care and services to a veteran pursuant to section 1525 of title 38, United States Code.”
 

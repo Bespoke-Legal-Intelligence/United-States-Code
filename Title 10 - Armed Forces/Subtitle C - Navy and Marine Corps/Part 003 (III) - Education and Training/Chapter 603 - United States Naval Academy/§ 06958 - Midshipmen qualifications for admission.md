@@ -18,7 +18,7 @@
 
 (d) To be admitted to the Naval Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Navy. If a candidate for admission refuses to take and subscribe to the prescribed oath, the candidate's appointment is terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Sept. 14, 1962, Pub. L. 87–663, §1(4), 76 Stat. 547; Nov. 29, 1973, Pub. L. 93–171, §2(5), 87 Stat. 690; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(3), 104 Stat. 1563; Dec. 5, 1991, Pub. L. 102–190, div. A, title V, §512, 105 Stat. 1360; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §555(c), 110 Stat. 2527; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §541(a), 111 Stat. 1740.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 87–663, §1(4), Sept. 14, 1962, 76 Stat. 547; Pub. L. 93–171, §2(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 101–510, div. A, title V, §532(b)(3), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 102–190, div. A, title V, §512, Dec. 5, 1991, 105 Stat. 1360; Pub. L. 104–201, div. A, title V, §555(c), Sept. 23, 1996, 110 Stat. 2527; Pub. L. 105–85, div. A, title V, §541(a), Nov. 18, 1997, 111 Stat. 1740.)
 
 Historical and Revision Notes
 

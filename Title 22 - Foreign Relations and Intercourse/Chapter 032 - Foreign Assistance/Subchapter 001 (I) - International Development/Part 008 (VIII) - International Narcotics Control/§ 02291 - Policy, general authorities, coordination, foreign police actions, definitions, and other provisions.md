@@ -28,7 +28,7 @@
 
 #### (1) Responsibility of Secretary of State
 
-&emsp;Consistent with chapter 1 of the National Narcotics Leadership Act of 1988 \[21 U.S.C. 1501 et seq.\], the Secretary of State shall be responsible for coordinating all assistance provided by the United States Government to support international efforts to combat illicit narcotics production or trafficking.
+&emsp;Consistent with chapter 1 of the National Narcotics Leadership Act of 1988,<sup>1</sup> the Secretary of State shall be responsible for coordinating all assistance provided by the United States Government to support international efforts to combat illicit narcotics production or trafficking.
 
 #### (2) Rule of construction
 
@@ -38,7 +38,7 @@
 
 #### (1) Prohibition on effecting an arrest
 
-&emsp;No officer or employee of the United States may directly effect an arrest in any foreign country as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
+&emsp;No officer or employee of the United States may directly effect an arrest in any foreigncountry as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
 
 #### (2) Participation in arrest actions
 
@@ -92,7 +92,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;&emsp;(C) 5,000 hectares or more of illicit cannabis is cultivated or harvested during a year, unless the President determines that such illicit cannabis production does not significantly affect the United States;
 
-&emsp;(3) the term “narcotic and psychotropic drugs and other controlled substances” hasthe same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned;
+&emsp;(3) the term “narcotic and psychotropic drugs and other controlled substances” has the same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned;
 
 &emsp;(4) the term “United States assistance” means—
 
@@ -130,7 +130,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act is classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 21 and Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -154,7 +154,7 @@ A prior section 481 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I
 
 Subsec. (a)(4). Pub. L. 104–164, §131(a)(2), inserted “, or for other anticrime purposes” before period at end.
 
-1994—Subsec. (d)(2) to (4). Pub. L. 103–447, §101(a), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
+1994—Subsec. (d)(2) to (4). Pub. L. 103–447, §101(a), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
 
 Subsec. (e). Pub. L. 103–447, §101(b)(1), substituted “For” for “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for”.
 
@@ -242,7 +242,7 @@ Subsecs. (f) to (h). Pub. L. 102–583, §6(b)(2), struck out subsec. (f) relati
 
 Subsec. (i). Pub. L. 102–583, §6(b)(3), redesignated subsec. (i) as (e).
 
-Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
+Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted ofsubpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
 
 Subsec. (i)(5). Pub. L. 102–550, §1519(c), inserted “or” at end of subpar. (A), substituted a period for “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government.”
 
@@ -284,7 +284,7 @@ Subsec. (h)(2). Pub. L. 100–690, §4407(a), added par. (2) and struck out form
 
 Subsec. (h)(2)(A)(i)(I). Pub. L. 100–461, §578(g)(3), inserted “or multilateral agreement which achieves the objectives of this subsection,” after “(ii)”.
 
-Subsec. (h)(2)(A)(ii). Pub. L. 100–461, §578(g)(1), amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to takespecific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
+Subsec. (h)(2)(A)(ii). Pub. L. 100–461, §578(g)(1), amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to take specific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
 
 Subsec. (h)(2)(B). Pub. L. 100–461, §578(i), substituted “subparagraph (A)(i)(II)” for “clause (A)(ii)”.
 
@@ -392,7 +392,23 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this part delegated and funds available to President under this section allocated to Secretary of State by sections 1–201(a)(26), 1–701(d), and 1–801(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+Functions of President under this part delegated and funds available to President under this section allocated to Secretary of State by sections 1–201(a)(27), 1–701(d), and 1–801(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+
+#### Limitation on Counternarcotics Assistance to Colombia
+
+Pub. L. 105–277, div. C, title VIII, §821(b), Oct. 21, 1998, 112 Stat. 2681–700, provided that:
+
+“(1)
+
+Limitation on provision of assistance.—Except as provided in paragraph (2), United States counternarcotics assistance may not be provided for the Government of Colombia under this title \[see Tables for classification\] or under any other provision of law on or after the date of enactment of this Act \[Oct. 21, 1998\] if the Government of Colombia negotiates or permits the establishment of any demilitarized zone in which the eradication of drug production by the security forces of Colombia, including the Colombian National Police antinarcotics unit, is prohibited.
+
+“(2)
+
+Exception.—If the Government of Colombia negotiates or permits the establishment of a demilitarized zone described in paragraph (1), United States counternarcotics assistance may be provided for the Government of Colombia for a period of up to 90 consecutive days upon a finding by the President that providing such assistance is in the national interest of the United States.
+
+“(3)
+
+Notification.—In each case in which counternarcotics assistance is provided for the Government of Colombia as a result of a finding by the President described in paragraph (2), the President shall notify the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate not later than 5 days after such assistance is provided.”
 
 #### Report on Armed Forces Stationed in Andean Countries
 
@@ -490,7 +506,7 @@ Section 4003 of title IV of Pub. L. 100–690 defined terms “drug” and “na
 
 #### Regional Anti-Narcotics Forces
 
-Section 4101 of Pub. L. 100–690 stated need for anti-narcotics multinational force in Western Hemisphereand authorized diplomatic efforts toward creation of such a force, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Section 4101 of Pub. L. 100–690 stated need for anti-narcotics multinational force in Western Hemisphere and authorized diplomatic efforts toward creation of such a force, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Determining Major Drug-Transit Countries With Respect to Fiscal Year 1989
 
@@ -663,4 +679,6 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2151x–2, 2291a of this title; title 7 section 1736g–1; title 12 section 635; title 48 sections 1902, 1903.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

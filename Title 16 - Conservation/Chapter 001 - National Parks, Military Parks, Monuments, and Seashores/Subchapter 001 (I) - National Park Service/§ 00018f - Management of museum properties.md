@@ -12,7 +12,7 @@ Purchase museum objects, museum collections, and other personal properties at pr
 
 #### (c) Exchanges
 
-Make exchanges by accepting museum objects, museum collections, and other personal properties, and by granting in exchange therefor museum property under the administrative jurisdiction of the Secretary which is no longer needed or which may be held in duplicate among themuseum properties administered by the Secretary, such exchanges to be consummated on a basis which the Secretary considers to be equitable and in the public interest;
+Make exchanges by accepting museum objects, museum collections, and other personal properties, and by granting in exchange therefor museum property under the administrative jurisdiction of the Secretary which is no longer needed or which may be held in duplicate among the museum properties administered by the Secretary, such exchanges to be consummated on a basis which the Secretary considers to be equitable and in the public interest;
 
 #### (d) Accepting loans of museum objects
 
@@ -22,7 +22,7 @@ Accept the loan of museum objects, museum collections, and other personal proper
 
 Loan to responsible public or private organizations, institutions, or agencies, without cost to the United States, such museum objects, museum collections, and other personal property as he shall consider advisable, such loans to be made upon terms and conditions which he shall consider necessary to protect the public interest in such properties.
 
-(July 1, 1955, ch. 259, §1, 69 Stat. 242; Nov. 12, 1996, Pub. L. 104–333, div. I, title VIII, §804(a)(1), 110 Stat. 4187.)
+(July 1, 1955, ch. 259, §1, 69 Stat. 242; Pub. L. 104–333, div. I, title VIII, §804(a)(1), Nov. 12, 1996, 110 Stat. 4187.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Procedure for prescription of rules
 
-(1) In addition to the requirements of section 553 of title 5, rules prescribed under section 6293, 6294, 6295, 6297, or 6298 of this title shall affordinterested persons an opportunity to present written and oral data, views, and arguments with respect to any proposed rule.
+(1) In addition to the requirements of section 553 of title 5, rules prescribed under section 6293, 6294, 6295, 6297, or 6298 of this title shall afford interested persons an opportunity to present written and oral data, views, and arguments with respect to any proposed rule.
 
 (2) In the case of a rule prescribed under section 6295 of this title, the Secretary shall, by means of conferences or other informal procedures, afford any interested person an opportunity to question—
 
@@ -18,7 +18,7 @@
 
 (1) Any person who will be adversely affected by a rule prescribed under section 6293, 6294, or 6295 of this title may, at any time within 60 days after the date on which such rule is prescribed, file a petition with the United States court of appeals for the circuit in which such person resides or has his principal place of business, for judicial review of such rule. A copy of the petition shall be transmitted by the clerk of the court to the agency which prescribed the rule. Such agency shall file in the court the written submissions to, and transcript of, the proceedings on which the rule was based, as provided in section 2112 of title 28.
 
-(2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. No rule under section 6293, 6294, or 6295 of this title may be affirmed unless supported by substantial evidence.
+(2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. No rule under section6293, 6294, or 6295 of this title may be affirmed unless supported by substantial evidence.
 
 (3) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -36,15 +36,13 @@ Jurisdiction is vested in the Federal district courts of the United States over 
 
 &emsp;(1) any adversely affected person to determine whether a State or local government is complying with the requirements of this part; and
 
-&emsp;(2) any person who files a petition under section 6295(k) <sup>1</sup> of this title which is denied by the Secretary.
+&emsp;(2) any person who files a petition under section 6295(n) of this title which is denied by the Secretary.
 
-(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101 Stat. 123.)
-
-#### References in Text
-
-Section 6295(k) of this title, referred to in subsec. (c)(2), was redesignated section 6295(n) of this title by Pub. L. 102–486, title I, §123(f)(1), Oct. 24, 1992, 106 Stat. 2824.
+(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101 Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–388 substituted “section 6295(n)” for “section 6295(k)”.
 
 1987—Subsec. (a). Pub. L. 100–12 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Rules under sections 6293, 6294, 6295(a), 6297(b), or 6298 of this title shall be prescribed in accordance with section 553 of title 5, except that—
 
@@ -91,6 +89,4 @@ Subsec. (c). Pub. L. 95–619, §427, added subsec. (c).
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6295, 6316 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

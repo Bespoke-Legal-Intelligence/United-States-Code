@@ -68,7 +68,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and of paragraph (2) regarding limitations on the maximum amount of charges; and
 
-&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing theamount of the charge, subject to such provisions.
+&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
 
 #### (4) Applicability of limitation on amount of charge
 
@@ -98,7 +98,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(1) the applicant will not expend amounts received pursuant to this part for any purpose other than the purposes described in the subpart under which the grant involved is made;
 
-&emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
+&emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting asmay be necessary to ensure proper disbursement and accounting with respect to the grant;
 
 &emsp;(3) the applicant will not expend more than 7.5 percent including planning and evaluation of the grant for administrative expenses with respect to the grant; and
 
@@ -108,7 +108,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2664, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 611; amended May 20, 1996, Pub. L. 104–146, §3(d)(5), 110 Stat. 1358.)
+(July 1, 1944, ch. 373, title XXVI, §2664, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 611; amended Pub. L. 104–146, §3(d)(5), May 20, 1996, 110 Stat. 1358.)
 
 #### Amendments
 

@@ -6,5 +6,5 @@ The Secretary of Agriculture is authorized to receive the property transferred b
 
 #### Authorization of Appropriations; Abolition of Army Remount Program
 
-Section 4 of act Apr. 21, 1948, provided: “There is hereby authorized to be appropriated to the Department of Agriculture such funds as may be necessary to carry out this Act \[sections 436 to 438 of this title\]. The authority of the Department of the Army to conduct a remount breeding program is hereby abolished. Funds appropriated pursuant to this Act \[said sections\] shall be available for necessary administrative expenses, including personal services in the District of Columbia, printing and binding, and purchase or hire of passenger motor vehicles.”
+Section 4 of act Apr. 21, 1948, provided: “There is hereby authorized to be appropriated to the Department of Agriculture such funds as may be necessary to carry out this Act \[sections 436 to 438 of this title\]. Theauthority of the Department of the Army to conduct a remount breeding program is hereby abolished. Funds appropriated pursuant to this Act \[said sections\] shall be available for necessary administrative expenses, including personal services in the District of Columbia, printing and binding, and purchase or hire of passenger motor vehicles.”
 

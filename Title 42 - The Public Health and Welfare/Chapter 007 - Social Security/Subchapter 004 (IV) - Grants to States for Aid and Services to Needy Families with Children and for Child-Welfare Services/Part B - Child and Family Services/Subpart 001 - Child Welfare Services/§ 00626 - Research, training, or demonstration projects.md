@@ -50,7 +50,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 Payments of grants or under contracts or cooperative arrangements under this section may be made in advance or by way of reimbursement, and in such installments, as the Secretary may determine; and shall be made on such conditions as the Secretary finds necessary to carry out the purposes of the grants, contracts, or other arrangements.
 
-(Aug. 14, 1935, ch. 531, title IV, §426, as added Jan. 2, 1968, Pub. L. 90–248, title II, §240(c), 81 Stat. 915; amended Dec. 22, 1987, Pub. L. 100–203, title IX, §9137, 101 Stat. 1330–319; Oct. 31, 1994, Pub. L. 103–432, title II, §205(b), 108 Stat. 4457.)
+(Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457.)
 
 #### Amendments
 
@@ -68,5 +68,5 @@ Section 240(g) of Pub. L. 90–248 provided that any appropriations or grants ma
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 628a, 11471 of this title.
+This section is referred to in section 628a of this title.
 

@@ -1,8 +1,8 @@
 ### §2156a. Regulations establishing levels of physical security to protect facilities and material
 
-Within sixty days of March 10, 1978, the Commission shall, in consultation with the Secretary of State, the Secretary of Energy, the Secretary of Defense, and the Director, promulgate (and may from time to time amend) regulations establishing the levels of physical security which in its judgement are no less strict than those established by any international guidelines to which the United States subscribes and which in its judgment will provide adequate protection for facilities and material referred to in paragraph (3) of section 2156 of this title taking into consideration variations in risks to security as appropriate.
+Within sixty days of March 10, 1978, the Commission shall, in consultation with the Secretary of State, the Secretary of Energy, and the Secretary of Defense, promulgate (and may from time to time amend) regulations establishing the levels of physical security which in its judgement are no less strict than those established by any international guidelines to which the United States subscribes and which in its judgment will provide adequate protection for facilities and material referred to in paragraph (3) of section 2156 of this title taking into consideration variations in risks to security as appropriate.
 
-(Pub. L. 95–242, title III, §304(d), Mar. 10, 1978, 92 Stat. 135.)
+(Pub. L. 95–242, title III, §304(d), Mar. 10, 1978, 92 Stat. 135; Pub. L. 105–277, div. G, title XII, §1225(e)(3), Oct. 21, 1998, 112 Stat. 2681–775.)
 
 #### References in Text
 
@@ -11,6 +11,14 @@ Commission, referred to in text, is defined as meaning the Nuclear Regulatory Co
 #### Codification
 
 Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+1998—Pub. L. 105–277 substituted “and the Secretary of Defense,” for “the Secretary of Defense, and the Director,”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
 
 #### Effective Date
 

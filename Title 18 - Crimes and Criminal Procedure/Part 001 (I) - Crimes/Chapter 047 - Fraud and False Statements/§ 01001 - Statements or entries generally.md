@@ -18,7 +18,7 @@
 
 &emsp;(2) any investigation or review, conducted pursuant to the authority of any committee, subcommittee, commission or office of the Congress, consistent with applicable rules of the House or Senate.
 
-(June 25, 1948, ch. 645, 62 Stat. 749; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–292, §2, 110 Stat. 3459.)
+(June 25, 1948, ch. 645, 62 Stat. 749; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–292, §2, Oct. 11, 1996, 110 Stat. 3459.)
 
 #### Historical and Revision Notes
 
@@ -39,6 +39,12 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 1996—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both.”
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–318, §1, Oct. 30, 1998, 112 Stat. 3007, provided that: “This Act \[amending sections 982, 1028, and 2516 of this title and section 105 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 1028 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Identity Theft and Assumption Deterrence Act of 1998’.”
+
+Pub. L. 105–172, §1, Apr. 24, 1998, 112 Stat. 53, provided that: “This Act \[amending section 1029 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Wireless Telephone Protection Act’.”
 
 #### Short Title of 1996 Amendment
 
@@ -104,5 +110,5 @@ Public buildings, section as applicable to statements by contractors, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 15 section 657a; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
+This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 15 section 657a; title 17 section 1312; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
 

@@ -16,7 +16,7 @@ General Authority.—(1) In carrying out this chapter, the Secretary of Transpor
 
 &emsp;(D) under lawful process—
 
-&emsp;&emsp;(i) enter at a reasonable time a launch site, production facility, assembly site of a launch vehicle, or site at which a payload is integrated with a launch vehicle to inspect an object to which this chapter applies or a record or report the Secretary requires be made or kept under this chapter; and
+&emsp;&emsp;(i) enter at a reasonable time a launch site, reentry site, production facility, assembly site of a launch vehicle or reentry vehicle, or site at which a payload is integrated with a launch vehicle or reentry vehicle to inspect an object to which this chapter applies or a record or report the Secretary requires be made or kept under this chapter; and
 
 &emsp;&emsp;(ii) seize the object, record, or report when there is probable cause to believe the object, record, or report was used, is being used, or likely will be used in violation of this chapter.
 
@@ -36,7 +36,7 @@ Civil Penalty.—(1) After notice and an opportunity for a hearing on the record
 
 (4) The Secretary shall recover a civil penalty not paid after the penalty is final or after a court enters a final judgment for the Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341; Pub. L. 105–303, title I, §102(a)(14), Oct. 28, 1998, 112 Stat. 2850.)
 
 Historical and Revision Notes
 
@@ -95,4 +95,8 @@ In subsection (c)(2), the words “relevant papers, books, documents, and other�
 In subsection (c)(3), the word “impose” is substituted for “assessed” for consistency in the revised title and with other titles of the Code. The words “amount of such” and “modify . . . with or without conditions” are omitted as surplus.
 
 Subsection (c)(4) is substituted for 49 App.:2618(b) to eliminate unnecessary words.
+
+#### Amendments
+
+1998—Subsec. (b)(1)(D)(i). Pub. L. 105–303 inserted “reentry site,” after “launch site,” and inserted “or reentry vehicle” after “launch vehicle” in two places.
 

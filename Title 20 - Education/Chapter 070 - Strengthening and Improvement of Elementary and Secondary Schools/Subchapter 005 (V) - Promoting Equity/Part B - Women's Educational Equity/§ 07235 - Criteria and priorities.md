@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish separate criteria and priorities for awards under paragraphs (1) and (2) of section 7233(b) of this title to ensure that funds under this part are used for programs that most effectively will achieve the purposes of this part.
+&emsp;The Secretary shall establish separate criteria and priorities for awards under paragraphs (1) and (2) of section 7233(b) of this title to ensure that funds under this part are usedfor programs that most effectively will achieve the purposes of this part.
 
 #### (2) Criteria
 

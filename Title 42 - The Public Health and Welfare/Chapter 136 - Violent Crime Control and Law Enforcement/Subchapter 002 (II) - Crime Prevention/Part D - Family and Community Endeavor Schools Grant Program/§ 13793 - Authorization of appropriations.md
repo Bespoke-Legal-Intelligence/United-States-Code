@@ -22,9 +22,13 @@ Of the amounts appropriated under subsection (a) of this section for any fiscal 
 
 &emsp;(1) 70 percent shall be made available to carry out section 13791 of this title; and
 
-&emsp;(2) 30 percent shall be made available to carry out section 13792 of this title.
+&emsp;(2) 30 percent shall be made available to carry out section 13792 <sup>1</sup> of this title.
 
 (Pub. L. 103–322, title III, §30403, Sept. 13, 1994, 108 Stat. 1855.)
+
+#### References in Text
+
+Section 13792 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(d)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
 
 #### Section Referred to in Other Sections
 

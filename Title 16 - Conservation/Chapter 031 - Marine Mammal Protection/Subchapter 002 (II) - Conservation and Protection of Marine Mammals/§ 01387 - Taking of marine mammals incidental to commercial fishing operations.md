@@ -80,7 +80,7 @@
 
 (B) The Secretary may suspend or revoke an authorization granted under this subsection, and may not issue a decal or other physical evidence of the authorization for any vessel which fails to comply with a take reduction plan or emergency regulations issued under this section.
 
-(C) The owner and master of a vessel which fails to comply with a take reduction plan shall be subject to the penalties of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title.
+(C) The owner and master of a vessel which fails to comply with a take reduction plan shallbe subject to the penalties of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title.
 
 (5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
@@ -190,7 +190,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (B) The Secretary may request a take reduction team to address a stock that extends over one or more regions or fisheries, or multiple stocks within a region or fishery, if the Secretary determines that doing so would facilitate the development and implementation of plans required under this subsection.
 
-(C) Members of take reduction teams shall have expertise regarding the conservation or biology of the marine mammal species which the take reduction plan will address, or the fishing practices which result in the incidental mortality and serious injury of such species. Members shall include representatives of Federal agencies, each coastal State which has fisheries which interact with the species or stock, appropriate Regional Fishery Management Councils, interstate fisheries commissions, academic and scientific organizations, environmental groups, all commercial and recreational fisheries groups and gear types which incidentally take the species or stock, Alaska Native organizations or Indian tribal organizations, and others as the Secretary deems appropriate. Take reduction teams shall, to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests.
+(C) Members of take reduction teams shall have expertise regarding the conservation or biology of the marine mammal species which the take reduction plan will address, or the fishing practices which result in the incidental mortality and serious injury of such species. Members shall include representatives of Federal agencies, each coastal State which has fisheries which interact with the species or stock, appropriate Regional Fishery Management Councils, interstate fisheries commissions, academic and scientific organizations, environmental groups,all commercial and recreational fisheries groups and gear types which incidentally take the species or stock, Alaska Native organizations or Indian tribal organizations, and others as the Secretary deems appropriate. Take reduction teams shall, to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests.
 
 (D) Take reduction teams shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.). Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
 
@@ -228,7 +228,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at suchother intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
@@ -276,7 +276,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;&emsp;(ii) immediately review the stock assessment for such stock or species and the classification of such commercial fishery under this section to determine if a take reduction team should be established; and
 
-&emsp;&emsp;(iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii) of this section, if the Secretary has reason to believe such vessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
+&emsp;&emsp;(iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii) of this section, if the Secretary has reason to believe suchvessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
 
 (2) Prior to taking action under paragraph (1)(A), (B), or (C), the Secretary shall consult with the Marine Mammal Commission, all appropriate Regional Fishery Management Councils, State fishery managers, and the appropriate take reduction team (if established).
 

@@ -1,6 +1,6 @@
 ### §2635. Filing of official documents
 
-(a) In any action commenced in the Court of International Trade contesting the denial of a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the Customs Service, as prescribed by the rules of the court, shall file with the clerk of the court, as part of the official record, any document, paper, information or data relating to the entry of merchandise and the administrative determination that is the subject of the protest or petition.
+(a) In any action commenced in the Court of International Trade contesting the denial of a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 ofsuch Act, the Customs Service, as prescribed by the rules of the court, shall file with the clerk of the court, as part of the official record, any document, paper, information or data relating to the entry of merchandise and the administrative determination that is the subject of the protest or petition.
 
 (b)(1) In any civil action commenced in the Court of International Trade under section 516A of the Tariff Act of 1930, within forty days or within such other period of time as the court may specify, after the date of service of a complaint on the administering authority established to administer title VII of the Tariff Act of 1930 or the United States International Trade Commission, the administering authority or the Commission shall transmit to the clerk of the court the record of such action, as prescribed by the rules of the court. The record shall, unless otherwise stipulated by the parties, consist of—
 
@@ -36,7 +36,7 @@ A prior section 2635, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–182 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+1993—Subsec. (a). Pub. L. 103–182 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(1) Upon service of the summons on the Secretary of the Treasury in any civil action contesting the denial of a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the appropriate customs officer shall forthwith transmit to the clerk of the Court of International Trade, as prescribed by its rules, and as a part of the official record—
 

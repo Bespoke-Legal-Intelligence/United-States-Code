@@ -12,7 +12,7 @@
 
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
-(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System and who has completed at least 5 years as a member of the Foreign Service shall be entitled to an immediate annuity computed under paragraph (2).
+(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
 
 (2) An annuity under paragraph (1) shall be computed—
 
@@ -26,11 +26,11 @@
 
 &emsp;(B) at the rate stated in section 8415(a) of title 5 for all other service creditable under this System including service in excess of 20 years otherwise creditable under paragraph (A).
 
-(3) Any participant who is involuntarily retired or separated under section 4007, 4008, or 4010 of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
+(3) Any participant who is involuntarily retired or separated under section 4007, 4008, 4010, or 4010a of this title and who would if a participant under part I of this subchapter, become eligible for a refund of contributions or a deferred annuity under part I of this subchapter, shall, in lieu thereof, receive benefits for an involuntary separation under this part.
 
 (4) A disability annuity under this part required to be redetermined under section 8452(b) of title 5, or computed under section 8452(c) or (d) of such title 5, shall be recomputed or computed using the formula in subsection (b)(2)(A) of this section rather than section 8415 of such title 5 (as stated in section 8452(b)(2)(A) and 8452(c) and (d) of such title). Such annuity shall also be computed in accordance with the preceding sentence if, as of the day on which such annuity commences or is restored, the annuitant satisfies the age and service requirements for entitlement to an immediate annuity under section 4051 of this title.
 
-(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(f)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50years of age as of the date on which the annuity is to commence.
+(5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(f)(1) of such title 5 if the former participant has 20 years of servicecreditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
 
 (6)(A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
 
@@ -44,13 +44,23 @@ A participant who is entitled to an immediate annuity under subsection (b) of th
 
 Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
-(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033.)
+(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, §2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408.)
 
 #### References in Text
 
 The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–277, §2312(b)(1)(A), and Pub. L. 105–382 amended par. (1) identically, inserting “4010a,” after “4008,”.
+
+Pub. L. 105–277, §2312(b)(1)(C), substituted “Service, shall” for “Service shall”.
+
+Pub. L. 105–277, §2312(b)(1)(B), inserted “or for participants in the Foreign Service Pension System,” after “Retirement and Disability System”.
+
+Subsec. (b)(3). Pub. L. 105–382, which directed the insertion of “4010a,” after “4008,” in par. (3), was not executed to reflect the probable intent of Congress and the amendment by Pub. L. 105–277, §2312(b)(2). See below.
+
+Pub. L. 105–277, §2312(b)(2), substituted “4010, or 4010a” for “or 4010”.
 
 1993—Subsec. (b)(2)(A)(ii). Pub. L. 103–178 substituted “under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b))” for “under title II of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees or under section 302(a) or 303(b) of that Act”.
 
@@ -66,11 +76,17 @@ Subsec. (b)(2). Pub. L. 99–556, §406(b), amended par. (2) by substituting sub
 
 Subsec. (b)(3) to (6). Pub. L. 99–556, §406(c), added pars. (3) to (6).
 
+#### Effective Date of 1998 Amendments
+
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, set out as a note under section 4044 of this title.
+
+Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment made by section 2312(b)(1)(A), (2) of Pub. L. 105–277 applicable with respect to any actions taken under section 4010a of this title on or after Jan. 1, 1996, see section 2312(c) of Pub. L. 105–277, set out as a note under section 4009 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L. 99–556, set out as a note under section 4046 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4053 of this title.
+This section is referred to in sections 4009, 4053 of this title.
 

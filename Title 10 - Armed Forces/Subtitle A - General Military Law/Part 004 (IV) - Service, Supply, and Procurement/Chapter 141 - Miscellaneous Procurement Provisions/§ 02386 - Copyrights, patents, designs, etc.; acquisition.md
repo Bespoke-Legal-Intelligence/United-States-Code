@@ -10,7 +10,7 @@ Funds appropriated for a military department available for making or procuring s
 
 &emsp;(4) Releases for past infringement of patents or copyrights or for unauthorized use of technical data or computer software.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 137; Sept. 8, 1960, Pub. L. 86–726, §3, 74 Stat. 855; Oct. 13, 1994, Pub. L. 103–355, title III, §3063, 108 Stat. 3337; Feb. 10, 1996, Pub. L. 104–106, div. A, title VIII, §813, 110 Stat. 395.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 137; Pub. L. 86–726, §3, Sept. 8, 1960, 74 Stat. 855; Pub. L. 103–355, title III, §3063, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. A, title VIII, §813, Feb. 10, 1996, 110 Stat. 395.)
 
 Historical and Revision Notes
 

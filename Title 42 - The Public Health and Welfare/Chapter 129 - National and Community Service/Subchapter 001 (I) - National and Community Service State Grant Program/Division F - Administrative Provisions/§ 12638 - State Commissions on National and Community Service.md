@@ -12,7 +12,7 @@
 
 #### (b) Appointment and size
 
-Except as provided in subsection (c)(3) of this section, the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c) of this section.
+Except as provided in subsection (c)(3) of this section, the members of a State Commission fora State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c) of this section.
 
 #### (c) Composition and membership
 
@@ -94,7 +94,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
-&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such member is, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
+&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such memberis, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
 
 #### (B) Exception
 
@@ -254,7 +254,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 The Domestic Volunteer Service Act of 1973, referred to in subsecs. (c)(2)(E) and (e)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (i)(1), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+The Community Services Block Grant Act, referred to in subsec. (i)(1), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 #### Prior Provisions
 

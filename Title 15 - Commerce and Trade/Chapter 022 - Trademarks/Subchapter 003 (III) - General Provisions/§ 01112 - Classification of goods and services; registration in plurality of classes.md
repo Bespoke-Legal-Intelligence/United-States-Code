@@ -1,0 +1,34 @@
+### §1112. Classification of goods and services; registration in plurality of classes
+
+The Commissioner may establish a classification of goods and services, for convenience of Patent and Trademark Office administration, but not to limit or extend the applicant's or registrant's rights. The applicant may apply to register a mark for any or all of the goods or services on or in connection with which he or she is using or has a bona fide intention to use the mark in commerce: <i>Provided</i>, That if the Commissioner by regulation permits the filing of an application for the registration of a mark for goods or services which fall within a plurality of classes, a fee equaling the sum of the fees for filing an application in each class shall be paid, and the Commissioner may issue a single certificate of registration for such mark.
+
+(July 5, 1946, ch. 540, title IV, §30, 60 Stat. 436; Pub. L. 87–772, §16, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §126, Nov. 16, 1988, 102 Stat. 3943.)
+
+#### Prior Provisions
+
+Act May 4, 1906, ch. 2081, §2, 34 Stat. 169.
+
+#### Amendments
+
+1988—Pub. L. 100–667 inserted “or registrant's” after “applicant's” and substituted “may apply” for “may file an application”, “goods or services on or in connection with which he or she is using or has a bona fide intention to use the mark in commerce:” for “goods and services upon or in connection with which he is actually using the mark:”, and “<i>Provided</i>, That if the Commissioner by regulation permits the filing of an application for the registration of a mark for goods or services which fall” for “<i>Provided</i>, That when such goods or services fall”.
+
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+1962—Pub. L. 87–772, among other changes, substituted “may” for “shall”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see section 136 of Pub. L. 100–667, set out as a note under section 1051 of this title.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of this title.
+
+#### Repeal and Effect on Existing Rights
+
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+

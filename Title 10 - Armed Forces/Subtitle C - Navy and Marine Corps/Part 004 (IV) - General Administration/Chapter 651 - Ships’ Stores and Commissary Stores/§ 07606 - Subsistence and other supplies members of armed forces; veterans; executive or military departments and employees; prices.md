@@ -12,7 +12,7 @@
 
 (c) The Secretary may sell serviceable supplies, other than subsistence supplies, to members of other armed forces for the buyers’ use in the service. The prices at which the supplies are sold shall be the same prices at which like property is sold to members of the Navy and Marine Corps.
 
-(d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
+(d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, atthe prices at which like property is sold to members of the Navy and Marine Corps.
 
 (e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged honorably or under honorable conditions from the Navy or Marine Corps, at the prices at which like articles are sold to members of the Navy or Marine Corps. This subsection does not modify section 772 or 773 of this title.
 

@@ -156,7 +156,7 @@
 
 #### (2) Course of action
 
-&emsp;The course of action under paragraph (1) may be implemented by both such governments and private nongovernmental entities, may be funded from proceeds of any program administered by the Secretary of Housing and Urban Development or of any program administered by the Secretary of Agriculture under title V of the Housing Act of 1949 \[42 U.S.C.1471 et seq.\], and may include, but is not limited to—
+&emsp;The course of action under paragraph (1) may be implemented by both such governments and private nongovernmental entities, may be funded from proceeds of any program administered by the Secretary of Housing and Urban Development or of any program administered by the Secretary of Agriculture under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], and may include, but is not limited to—
 
 &emsp;&emsp;(A) a reduction of tax rates or fees applying within the enterprise zone;
 
@@ -224,7 +224,7 @@ For purposes of this section:
 
 The date of the enactment of the Housing and Community Development Act of 1992, referred to in subsec. (a)(4)(B), is the date of enactment of Pub. L. 102–550, which was approved Oct. 28, 1992.
 
-The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 #### Amendments
 

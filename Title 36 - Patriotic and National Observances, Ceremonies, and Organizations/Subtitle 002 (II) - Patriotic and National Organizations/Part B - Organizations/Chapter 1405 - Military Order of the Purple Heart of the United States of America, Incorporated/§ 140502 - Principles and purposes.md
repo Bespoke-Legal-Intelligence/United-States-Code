@@ -1,0 +1,54 @@
+### §140502. Principles and purposes
+
+(a)
+
+Principles.—The principles underlying the corporation are patriotic allegiance to the United States, fidelity to the Constitution and laws of the United States, the security of civil liberty, and the permanence of free institutions.
+
+(b)
+
+Purposes.—The purposes of the corporation are educational, fraternal, historical, and patriotic, perpetuating the principles of liberty and justice which have created the United States, by—
+
+&emsp;(1) commemorating all national patriotic holidays;
+
+&emsp;(2) maintaining true allegiance to the Government of the United States and fidelity to its Constitution and laws;
+
+&emsp;(3) preserving and strengthening comradeship and patriotism among its members;
+
+&emsp;(4) assisting, comforting, and aiding all needy and distressed members and their dependents;
+
+&emsp;(5) giving needed hospital and service work through its Department of Veterans Affairs certified service officers;
+
+&emsp;(6) cooperating with other civic and patriotic organizations having worthy objectives;
+
+&emsp;(7) keeping alive the achievements and memory of our country's founders;
+
+&emsp;(8) ever cherishing the memory of General George Washington, who founded the Purple Heart at his headquarters at Newburgh-on-the-Hudson on August 7, 1782;
+
+&emsp;(9) influencing and teaching our citizenry, in a loyal appreciation of the heritages of American citizenship, with its responsibilities and privileges; and
+
+&emsp;(10) preserving and defending the United States from all enemies.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1381.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+140502
+
+36:823.
+
+Aug. 26, 1958, Pub. L. 85–761, §3, 72 Stat. 856; June 13, 1991, Pub. L. 102–54, §13(n)(3), 105 Stat. 278.
+
+In this section, the words “of America” are omitted for consistency in the revised title.
+
+In subsection (b)(3), the word “among” is substituted for “amongst” to use more common terminology.
+
+In subsection (b)(10), the word “whomsoever” is omitted as unnecessary.
+

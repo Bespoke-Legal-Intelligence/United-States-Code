@@ -22,5 +22,5 @@ After consultation with the Director of the National Heart, Lung, and Blood Inst
 
 &emsp;(3) in the case of the community, increase coordination, communication, and collaboration among community, professional, industry, and government organizations regarding blood donation and transfusion issues.
 
-(July 1, 1944, ch. 373, title XXIII, §2319, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3074.)
+(July 1, 1944, ch. 373, title XXIII, §2319, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3074.)
 

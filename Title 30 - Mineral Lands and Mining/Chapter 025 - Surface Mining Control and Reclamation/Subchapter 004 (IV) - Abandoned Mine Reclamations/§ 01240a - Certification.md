@@ -2,11 +2,11 @@
 
 #### (a) Certification of completion of coal reclamation
 
-The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section 1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in the Federal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
+The Governor of a State, or the head of a governing body of an Indian tribe, with an approved abandoned mine reclamation program under section 1235 of this title may certify to the Secretary that all of the priorities stated in section1233(a) of this title for eligible lands and waters pursuant to section 1234 of this title have been achieved. The Secretary, after notice in the Federal Register and opportunity for public comment, shall concur with such certification if the Secretary determines that such certification is correct.
 
 #### (b) Eligible lands, waters, and facilities
 
-If the Secretary has concurred in a State or tribal certification under subsection (a) of thissection, for purposes of determining the eligibility of lands and waters for annual grants under section 1232(g)(1) of this title, section 1234 of this title shall not apply, and eligible lands, waters, and facilities shall be those—
+If the Secretary has concurred in a State or tribal certification under subsection (a) of this section, for purposes of determining the eligibility of lands and waters for annual grants under section 1232(g)(1) of this title, section 1234 of this title shall not apply, and eligible lands, waters, and facilities shall be those—
 
 &emsp;(1) which were mined or processed for minerals or which were affected by such mining or processing, and abandoned or left in an inadequate reclamation status prior to August 3, 1977; and
 

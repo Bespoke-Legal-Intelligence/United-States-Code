@@ -50,29 +50,71 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(ii) information from the consumer report will not be used in violation of any applicable Federal or State equal employment opportunity law or regulation; and
 
-&emsp;&emsp;(B) the consumer reporting agency provides with the report a summary of the consumer's rights under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+&emsp;&emsp;(B) the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer's rights under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
 
 #### (2) Disclosure to consumer
 
-&emsp;A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
+#### (A) In general
 
-&emsp;&emsp;(A) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
+&emsp;&emsp;Except as provided in subparagraph (B), a person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
 
-&emsp;&emsp;(B) the consumer has authorized in writing the procurement of the report by that person.
+&emsp;&emsp;&emsp;(i) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
+
+&emsp;&emsp;&emsp;(ii) the consumer has authorized in writing (which authorization may be made on the document referred to in clause (i)) the procurement of the report by that person.
+
+#### (B) Application by mail, telephone, computer, or other similar means
+
+&emsp;&emsp;If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, at any time before a consumer report is procured or caused to be procured in connection with that application—
+
+&emsp;&emsp;&emsp;(i) the person who procures the consumer report on the consumer for employment purposes shall provide to the consumer, by oral, written, or electronic means, notice that a consumer report may be obtained for employment purposes, and a summary of the consumer's rights under section 1681m(a)(3) of this title; and
+
+&emsp;&emsp;&emsp;(ii) the consumer shall have consented, orally, in writing, or electronically to the procurement of the report by that person.
+
+#### (C) Scope
+
+&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
+
+&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
+
+&emsp;&emsp;&emsp;(ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
 
 #### (3) Conditions on use for adverse actions
 
-&emsp;In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
+#### (A) In general
 
-&emsp;&emsp;(A) a copy of the report; and
+&emsp;&emsp;Except as provided in subparagraph (B), in using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
 
-&emsp;&emsp;(B) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+&emsp;&emsp;&emsp;(i) a copy of the report; and
+
+&emsp;&emsp;&emsp;(ii) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+
+#### (B) Application by mail, telephone, computer, or other similar means
+
+&emsp;&emsp;(i) If a consumer described in subparagraph (C) applies for employment by mail, telephone, computer, or other similar means, and if a person who has procured a consumer report on the consumer for employment purposes takes adverse action on the employment application based in whole or in part on the report, then the person must provide to the consumer to whom the report relates, in lieu of the notices required under subparagraph (A) of this section and under section 1681m(a) of this title, within 3 business days of taking such action, an oral, written or electronic notification—
+
+&emsp;&emsp;&emsp;(I) that adverse action has been taken based in whole or in part on a consumer report received from a consumer reporting agency;
+
+&emsp;&emsp;&emsp;(II) of the name, address and telephone number of the consumer reporting agency that furnished the consumer report (including a toll-free telephone number established by the agency if the agency compiles and maintains files on consumers on a nationwide basis);
+
+&emsp;&emsp;&emsp;(III) that the consumer reporting agency did not make the decision to take the adverse action and is unable to provide to the consumer the specific reasons why the adverse action was taken; and
+
+&emsp;&emsp;&emsp;(IV) that the consumer may, upon providing proper identification, request a free copy of a report and may dispute with the consumer reporting agency the accuracy or completeness of any information in a report.
+
+&emsp;&emsp;(ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer's request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer's rights as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+
+#### (C) Scope
+
+&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
+
+&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
+
+&emsp;&emsp;&emsp;(ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
 
 #### (4) Exception for national security investigations
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an agency or department of the United States Government which seeks to obtain and use a consumer report for employment purposes, paragraph (3) shall not apply to any adverse action by such agency or department which is based in part on such consumer report, if the head of such agency or department makes a written finding that—
+&emsp;&emsp;In the case of an agency or department of the United States Government which seeksto obtain and use a consumer report for employment purposes, paragraph (3) shall not apply to any adverse action by such agency or department which is based in part on such consumer report, if the head of such agency or department makes a written finding that—
 
 &emsp;&emsp;&emsp;(i) the consumer report is relevant to a national security investigation of such agency or department;
 
@@ -108,7 +150,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (D) Report to the Congress
 
-&emsp;&emsp;Not later than January 31 of each year, the head of each agency and department of theUnited States Government that exercised authority under this paragraph during the preceding year shall submit a report to the Congress on the number of times the department or agency exercised such authority during the year.
+&emsp;&emsp;Not later than January 31 of each year, the head of each agency and department of the United States Government that exercised authority under this paragraph during the preceding year shall submit a report to the Congress on the number of times the department or agency exercised such authority during the year.
 
 #### (E) Definitions
 
@@ -186,7 +228,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(ii) until the consumer notifies the agency under subparagraph (C), in the case of an election for which a consumer notifies the agency in accordance with paragraph (2)(B);
 
-&emsp;&emsp;(C) shall not be effective after the date on which the consumer notifies the agency,through the notification system established by the agency under paragraph (5), that the election is no longer effective; and
+&emsp;&emsp;(C) shall not be effective after the date on which the consumer notifies the agency, through the notification system established by the agency under paragraph (5), that the election is no longer effective; and
 
 &emsp;&emsp;(D) shall be effective with respect to each affiliate of the agency.
 
@@ -222,15 +264,31 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (g) Furnishing reports containing medical information
 
-A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction or a direct marketing transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.
+A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div.A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211.)
 
 #### References in Text
 
 Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(B). Pub. L. 105–347, §3, inserted “, or has previously provided,” before “a summary”.
+
+Subsec. (b)(2). Pub. L. 105–347, §2(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
+
+&emsp;“(A) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
+
+&emsp;“(B) the consumer has authorized in writing the procurement of the report by that person.”
+
+Subsec. (b)(3). Pub. L. 105–347, §2(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
+
+&emsp;“(A) a copy of the report; and
+
+&emsp;“(B) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.”
+
+Subsec. (g). Pub. L. 105–347, §6(4), struck out “or a direct marketing transaction” after “or insurance transaction”.
 
 1997—Subsec. (b)(4). Pub. L. 105–107 added par. (4).
 
@@ -248,6 +306,10 @@ Pars. (4), (5). Pub. L. 104–193, §352, added pars. (4) and (5).
 
 1989—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
@@ -264,5 +326,5 @@ Section 2404(c) of div. A of Pub. L. 104–208 provided that: “The Federal Tra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681a, 1681e, 1681f, 1681m, 1681s–1, 1681t, 1681u, 1692d of this title; title 31 section 3711.
+This section is referred to in sections 1681a, 1681e, 1681f, 1681g, 1681k, 1681m, 1681s–1, 1681t, 1681u, 1692d of this title; title 31 section 3711.
 

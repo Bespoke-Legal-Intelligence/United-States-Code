@@ -16,11 +16,11 @@ For the purposes of this part—
 
 &emsp;(7) the term “life cycle cost” means the total costs of owning, operating, and maintaining a building over its useful life (including such costs as fuel, energy, labor, and replacement components) determined on the basis of a systematic evaluation and comparison of alternative building systems, except that in the case of leased buildings, the life cycle costs shall be calculated over the effective remaining term of the lease;
 
-&emsp;(8) the term “renewable energy sources” includes, but is not limited to, sources such as agriculture and urban waste, goethermal <sup>1</sup> energy, solar energy, and wind energy; and
+&emsp;(8) the term “renewable energy sources” includes, but is not limited to, sources such as agriculture and urban waste, geothermal energy, solar energy, and wind energy; and
 
 &emsp;(9) the term “Secretary” means the Secretary of Energy.
 
-(Pub. L. 95–619, title V, §551, formerly §549, Nov. 9, 1978, 92 Stat. 3280; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3188; renumbered §551, Pub. L. 102–486, title I, §152(h)(1), Oct. 24, 1992, 106 Stat. 2848.)
+(Pub. L. 95–619, title V, §551, formerly §549, Nov. 9, 1978, 92 Stat. 3280; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3188; renumbered §551, Pub. L. 102–486, title I, §152(h)(1), Oct. 24, 1992, 106 Stat. 2848; amended Pub. L. 105–388, §5(c)(5), Nov. 13, 1998, 112 Stat. 3479.)
 
 #### Prior Provisions
 
@@ -28,11 +28,11 @@ A prior section 551 of Pub. L. 95–619 was classified to section 8261 of this t
 
 #### Amendments
 
+1998—Par. (8). Pub. L. 105–388 substituted “geothermal” for “goethermal”.
+
 1988—Pub. L. 100–615 amended section generally, substituting provisions relating to definitions for Federal energy management for former provision relating to budget treatment of energy conserving improvements by Federal agencies.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8262, 8287c of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “geothermal”.</i>
 

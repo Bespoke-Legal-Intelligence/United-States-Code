@@ -38,7 +38,7 @@ The Buy American Act, referred to in subsec. (b), is title III of act Mar. 3, 19
 
 1996—Subsec. (c). Pub. L. 104–106, §4311, substituted “an employee of an executive agency or a member of the Armed Forces of the United States authorized to do so” for “the contracting officer”.
 
-Pub. L. 104–106, §4304(b)(4), (c)(3), redesignated subsec. (d) as (c) and struck out heading and text of formersubsec. (c). Text read as follows: “For purposes of section 423 of this title, an officer or employee of an executive agency, or a member of the Armed Forces of the United States, shall not be considered a procurement official if—
+Pub. L. 104–106, §4304(b)(4), (c)(3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of section 423 of this title, an officer or employee of an executive agency, or a member of the Armed Forces of the United States, shall not be considered a procurement official if—
 
 &emsp;“(1) the contracting authority of the officer, employee, or member does not exceed $2,500; and
 

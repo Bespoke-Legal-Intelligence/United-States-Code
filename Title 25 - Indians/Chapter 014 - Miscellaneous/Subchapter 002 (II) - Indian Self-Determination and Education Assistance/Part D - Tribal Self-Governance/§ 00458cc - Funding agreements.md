@@ -22,7 +22,7 @@ Each funding agreement shall—
 
 &emsp;(4) prohibit the inclusion of funds provided—
 
-&emsp;&emsp;(A) pursuant to the Tribally Controlled Community College Assistance Act of 1978 (25 U.S.C. 1801 et seq.);
+&emsp;&emsp;(A) pursuant to the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.);
 
 &emsp;&emsp;(B) for elementary and secondary schools under the formula developed pursuant to section 2008 of this title; and
 
@@ -44,7 +44,7 @@ Each funding agreement shall—
 
 #### (c) Additional activities
 
-Each funding agreement negotiated pursuant to subsections (a) and (b) of this section may, inaccordance to such additional terms as the parties deem appropriate, also include other programs, services, functions, and activities, or portions thereof, administered by the Secretary of the Interior which are of special geographic, historical, or cultural significance to the participating Indian tribe requesting a compact.
+Each funding agreement negotiated pursuant to subsections (a) and (b) of this section may, in accordance to such additional terms as the parties deem appropriate, also include other programs, services, functions, and activities, or portions thereof, administered by the Secretary of the Interior which are of special geographic, historical, or cultural significance to the participating Indian tribe requesting a compact.
 
 #### (d) Provisions relating to Secretary
 
@@ -76,7 +76,7 @@ Not later than 90 days before the proposed effective date of an agreement entere
 
 (2) The funding agreements authorized by this part and title III of this Act shall provide for advance payments to the tribes in the form of annual or semi-annual installments at the discretion of the tribes.
 
-(3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b) of this section, the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities, or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
+(3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b) of this section, the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities,or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
 
 (4) Funds for trust services to individual Indians shall be available under an agreement entered into under this section only to the extent that the same services that would have been provided by the Secretary are provided to individual Indians by the tribe.
 
@@ -104,19 +104,19 @@ All funds provided under funding agreements entered into pursuant to this subcha
 
 #### (k) Disclaimer
 
-Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) of this section and section 458ee(c)(1) of this title with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: <i>Provided</i>, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element ofa program to be included in a compact under subsection (b)(2) of this section.
+Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) of this section and section 458ee(c)(1) of this title with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: <i>Provided</i>, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element of a program to be included in a compact under subsection (b)(2) of this section.
 
 #### (<i>l</i>) Incorporate self-determination provisions
 
 At the option of a participating tribe or tribes, any or all provisions of part A of this subchapter shall be made part of an agreement entered into under title III of this Act or this part. The Secretary is obligated to include such provisions at the option of the participating tribe or tribes. If such provision is incorporated it shall have the same force and effect as if set out in full in title III or this part.
 
-(Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, §19, Feb. 12, 1996, 110 Stat. 766.)
+(Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, §19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### References in Text
 
 Act of April 16, 1934, referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (e)(1), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
@@ -128,11 +128,17 @@ Part A of this subchapter, referred to in subsec. (<i>l</i>), was in the origina
 
 #### Amendments
 
+1998—Subsec. (b)(4)(A). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+
 1996—Subsec. (<i>l</i>). Pub. L. 104–109 added subsec. (<i>l</i>).
 
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

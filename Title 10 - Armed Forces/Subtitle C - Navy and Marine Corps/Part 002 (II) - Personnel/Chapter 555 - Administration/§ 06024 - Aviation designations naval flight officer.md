@@ -2,7 +2,7 @@
 
 Any officer of the naval service may be designated a naval flight officer if he has successfully completed the course prescribed for naval flight officers.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 377; Feb. 26, 1970, Pub. L. 91–198, §1(2), 84 Stat. 15.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 377; Pub. L. 91–198, §1(2), Feb. 26, 1970, 84 Stat. 15.)
 
 Historical and Revision Notes
 

@@ -70,8 +70,6 @@ Pub. L. 103–377, div. A, title III, §383(b), Oct. 5, 1994, 108 Stat. 2740, pr
 
 #### Cross References
 
-American National Red Cross, see section 1 et seq. of Title 36, Patriotic Societies and Observances.
-
 Equipment for instruction and practice, loan to American National Red Cross, see section 2542 of this title.
 
 Fees for execution and issuance of passport, see section 214 of Title 22, Foreign Relations and Intercourse.

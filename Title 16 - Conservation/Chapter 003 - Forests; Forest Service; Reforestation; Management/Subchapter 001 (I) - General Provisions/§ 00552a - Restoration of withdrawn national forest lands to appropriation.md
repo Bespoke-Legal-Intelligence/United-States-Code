@@ -2,7 +2,7 @@
 
 The President, upon recommendation of the Secretaries of the Interior and Agriculture, may, by Executive order, when in his judgment the public interest would best be served thereby and after reasonable notice has been given through the Department of the Interior, restore any reserved national-forest lands covered by a cooperative agreement with the Secretary of Agriculture for the protection of a watershed within a national forest from which water is secured, to appropriation under any applicable public-lands law.
 
-(May 28, 1940, ch. 220, §1, 54 Stat. 224; Oct. 21, 1976, Pub. L. 94–579, title VII, §704(a), 90 Stat. 2792.)
+(May 28, 1940, ch. 220, §1, 54 Stat. 224; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 #### Codification
 

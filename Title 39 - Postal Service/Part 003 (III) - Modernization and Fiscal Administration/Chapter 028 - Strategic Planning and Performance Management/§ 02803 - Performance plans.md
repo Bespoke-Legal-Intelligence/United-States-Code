@@ -26,7 +26,7 @@
 
 &emsp;(2) state why it is infeasible or impractical to express a performance goal in any form for the program activity.
 
-(c) In preparing a comprehensive and informative plan under this section, the Postal Service may aggregate, disaggregate, or consolidate program activities, except that any aggregation or consolidation may not omit or minimize the significance of any program activity constituting a major function or operation.
+(c) In preparing a comprehensive and informative plan under this section, the Postal Servicemay aggregate, disaggregate, or consolidate program activities, except that any aggregation or consolidation may not omit or minimize the significance of any program activity constituting a major function or operation.
 
 (d) The Postal Service may prepare a non-public annex to its plan covering program activities or parts of program activities relating to—
 

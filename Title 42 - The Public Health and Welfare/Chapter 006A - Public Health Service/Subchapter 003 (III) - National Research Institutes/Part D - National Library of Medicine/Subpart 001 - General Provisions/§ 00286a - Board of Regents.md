@@ -6,7 +6,7 @@
 
 (B) The ex officio members are the Surgeons General of the Public Health Service, the Army, the Navy, and the Air Force, the Under Secretary for Health of the Department of Veterans Affairs, the Dean of the Uniformed Services University of the Health Sciences, the Assistant Director for Biological, Behavioral, and Social Sciences of the National Science Foundation, the Director of the National Agricultural Library, and the Librarian of Congress (or their designees).
 
-(C) The appointed members shall be selected from among leaders in the various fields of thefundamental sciences, medicine, dentistry, public health, hospital administration, pharmacology, health communications technology, or scientific or medical library work, or in public affairs. At least six of the appointed members shall be selected from among leaders in the fields of medical, dental, or public health research or education.
+(C) The appointed members shall be selected from among leaders in the various fields of the fundamental sciences, medicine, dentistry, public health, hospital administration, pharmacology, health communications technology, or scientific or medical library work, or in public affairs. At least six of the appointed members shall be selected from among leaders in the fields of medical, dental, or public health research or education.
 
 (2) The Board shall annually elect one of the appointed members to serve as chairman until the next election. The Secretary shall designate a member of the Library staff to act as executive secretary of the Board.
 
@@ -18,7 +18,7 @@ The Board shall advise, consult with, and make recommendations to the Secretary 
 
 Each appointed member of the Board shall hold office for a term of four years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor of such member was appointed shall be appointed for the remainder of such term. None of the appointed members shall be eligible for reappointment within one year after the end of the preceding term of such member.
 
-(July 1, 1944, ch. 373, title IV, §466, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 859; amended Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985; June 10, 1993, Pub. L. 103–43, title XX, §2008(b)(11), 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §466, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 859; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XX, §2008(b)(11), June 10, 1993, 107 Stat. 211.)
 
 #### Amendments
 

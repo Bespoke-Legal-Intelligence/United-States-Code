@@ -44,7 +44,7 @@ The Federal Tort Claims Act, referred to in subsec. (c)(2), is classified to sec
 
 Subsec. (b). Pub. L. 95–454, §603(b), (d)(1), inserted provisions relating to nonapplicability of exceptions to non-Federal employees, and substituted “Federal” for “executive”.
 
-Subsec. (c). Pub. L. 95–454, §603(b), (d)(2), (3), inserted provisions relating to pay received from the State or local government at less than the appropriate rate ofpay, and provisions relating to contributions to employee benefit systems, and substituted “a Federal” for “an executive” and “Federal agency” for “executive agency” wherever appearing.
+Subsec. (c). Pub. L. 95–454, §603(b), (d)(2), (3), inserted provisions relating to pay received from the State or local government at less than the appropriate rate of pay, and provisions relating to contributions to employee benefit systems, and substituted “a Federal” for “an executive” and “Federal agency” for “executive agency” wherever appearing.
 
 Subsec. (d). Pub. L. 95–454, §603(b), substituted “a Federal” for “an executive” in two places.
 

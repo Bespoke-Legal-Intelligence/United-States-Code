@@ -10,7 +10,7 @@
 
 &emsp;(4) to such other terms and conditions as the Secretary concerned may prescribe to protect the interest of the United States.
 
-(b) The Secretary concerned shall determine the period of active duty to be served by any person for advanced education assistance to be provided such person by an armed force, except that if the period of active duty required to beserved is specified under another provision of law with respect to the advanced education assistance to be provided, the period specified in the agreement referred to in subsection (a) shall be the same as the period specified in such other provision of law.
+(b) The Secretary concerned shall determine the period of active duty to be served by any person for advanced education assistance to be provided such person by an armed force, except that if the period of active duty required to be served is specified under another provision of law with respect to the advanced education assistance to be provided, the period specified in the agreement referred to in subsection (a) shall be the same as the period specified in such other provision of law.
 
 (c) Subject to the provisions of subsection (d), the obligation to reimburse the United States under an agreement described in subsection (a) is, for all purposes, a debt owing the United States.
 

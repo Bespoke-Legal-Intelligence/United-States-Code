@@ -24,7 +24,7 @@ The amount of funds apportioned to each State shall be determined by the Secreta
 
 &emsp;(D) has entered into an interstate cooperative fishery management agreement and has in effect an interstate fisheries management or interstate fisheries research program.
 
-(4) No State that, under the apportionment formula in subsection (b) of this section, has a ratio of less than one-third of one percent and meets any of the requirements set forth in paragraph (1)(A), (B), (C), or (D) may receive an apportionment for any fiscal year which is less than one-half of one percent of the total amount of funds available for apportionment for such fiscal year.
+(4) No State that, under the apportionment formula in subsection (b) of this section, has aratio of less than one-third of one percent and meets any of the requirements set forth in paragraph (1)(A), (B), (C), or (D) may receive an apportionment for any fiscal year which is less than one-half of one percent of the total amount of funds available for apportionment for such fiscal year.
 
 (5) No State may receive an apportionment for any fiscal year under this section which is more than 6 percent of the total amount of funds available for apportionment for such fiscal year.
 

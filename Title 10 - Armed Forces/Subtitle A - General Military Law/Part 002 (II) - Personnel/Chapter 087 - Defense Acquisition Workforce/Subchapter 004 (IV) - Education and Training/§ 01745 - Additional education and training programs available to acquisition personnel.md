@@ -2,7 +2,7 @@
 
 (a)
 
-Tuition Reimbursement and Training.—The Secretary of Defense shall provide for tuition reimbursement and training (including a full-time course of study leading to a degree) under section 4107(b) of title 5 for acquisition personnel in the Department of Defense for the purposes described in that section. For purposes of such section 4107(b), there is deemed to be, until September 30, 2001, a shortage of qualified personnel to serve in acquisition positions in the Department of Defense.
+Tuition Reimbursement and Training.—The Secretary of Defense shall provide for tuition reimbursement and training (including a full-time course of study leading to a degree) under section 4107(b) of title 5 for acquisitionpersonnel in the Department of Defense for the purposes described in that section. For purposes of such section 4107(b), there is deemed to be, until September 30, 2001, a shortage of qualified personnel to serve in acquisition positions in the Department of Defense.
 
 (b)
 

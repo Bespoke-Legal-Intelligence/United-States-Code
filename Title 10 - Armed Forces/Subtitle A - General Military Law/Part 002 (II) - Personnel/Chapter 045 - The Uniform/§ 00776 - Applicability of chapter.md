@@ -8,7 +8,7 @@ This chapter applies in—
 
 &emsp;(3) all other places under the jurisdiction of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36, §774; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(1), 100 Stat. 3992; Apr. 21, 1987, Pub. L. 100–26, §3(6), 101 Stat. 273; renumbered §775, Dec. 4, 1987, Pub. L. 100–180, div. A, title V, §508(a)(1), 101 Stat. 1086; renumbered §776, Oct. 23, 1992, Pub. L. 102–484, div. A, title III, §377(a)(1), 106 Stat. 2386.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36, §774; Pub. L. 99–661, div. A, title XIII, §1343(a)(1), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, §3(6), Apr. 21, 1987, 101 Stat. 273; renumbered §775, Pub. L. 100–180, div. A, title V, §508(a)(1), Dec. 4, 1987, 101 Stat. 1086; renumbered §776, Pub. L. 102–484, div. A, title III, §377(a)(1), Oct. 23, 1992, 106 Stat. 2386.)
 
 Historical and Revision Notes
 

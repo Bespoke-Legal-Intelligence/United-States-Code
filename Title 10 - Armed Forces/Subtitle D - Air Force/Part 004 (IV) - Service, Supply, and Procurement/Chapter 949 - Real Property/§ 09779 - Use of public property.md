@@ -4,7 +4,7 @@
 
 (b) No money appropriated for the support of the Air Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Nov. 14, 1986, Pub. L. 99–661, div. B, title VII, §2721, 100 Stat. 4042.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 99–661, div. B, title VII, §2721, Nov. 14, 1986, 100 Stat. 4042.)
 
 Historical and Revision Notes
 

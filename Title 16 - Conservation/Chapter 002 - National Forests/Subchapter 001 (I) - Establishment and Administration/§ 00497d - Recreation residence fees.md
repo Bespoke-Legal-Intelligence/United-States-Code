@@ -4,3 +4,7 @@ The Secretary of Agriculture shall on and after November 14, 1997, phase in, ove
 
 (Pub. L. 105–83, title III, §343, Nov. 14, 1997, 111 Stat. 1604.)
 
+#### Limitation on Recreation Residence Fee Increases on Sawtooth National Forest
+
+Pub. L. 105–277, div. A, §101(e) \[title III, §345\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, provided that: “Notwithstanding section 343 of Public Law 105–83 \[16 U.S.C. 497d\], increases in recreation residence fees on the Sawtooth National Forest shall be implemented in fiscal year 1999 only to the extent that such fee increases do not exceed 25 percent.”
+

@@ -16,7 +16,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 #### (c) Residence requirement by State or subdivision for supplementary payments; disregarding amounts of certain income by State or subdivision in determining eligibility for supplementary payments
 
-(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in the State (or political subdivision) for less than a minimum period prior to application for such payments.
+(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in theState (or political subdivision) for less than a minimum period prior to application for such payments.
 
 (2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include a provision specifying the amount of any such income that will be disregarded, if any.
 
@@ -68,19 +68,19 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (4)(A) The first $5 of each administration fee assessed pursuant to paragraph (2), upon collection, shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.
 
-(B) That portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to paragraph (3), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a specialfund established in the Treasury of the United States for State supplementary payment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this subchapter and related laws.
+(B) That portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to paragraph (3), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a special fund established in the Treasury of the United States for State supplementary payment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this subchapter and related laws.
 
 #### (e) State standards; establishment; annual public review; annual certification; payments to individuals
 
 (1) Each State shall establish or designate one or more State or local authorities which shall establish, maintain, and insure the enforcement of standards for any category of institutions, foster homes, or group living arrangements in which (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
 
-(2) Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of any waivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
+(2) Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of anywaivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
 
 (3) Each State shall certify annually to the Commissioner of Social Security that it is in compliance with the requirements of this subsection.
 
 (4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedical care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1616, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1474; amended Dec. 31, 1973, Pub. L. 93–233, §14, 87 Stat. 965; Oct. 20, 1976, Pub. L. 94–566, title V, §505(c), (d), 90 Stat. 2687; June 9, 1980, Pub. L. 96–265, title II, §201(b)(1), 94 Stat. 446; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(n), 95 Stat. 873; Apr. 7, 1986, Pub. L. 99–272, title XII, §12201(b), 100 Stat. 290; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13731(a)(1), 107 Stat. 660; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478; Aug. 5, 1997, Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), 111 Stat. 595, 596; Nov. 13, 1997, Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), 111 Stat. 1517, 1518.)
+(Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518.)
 
 #### Amendments
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Section 13731(b) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to supplementary paymentsmade pursuant to section 1616(a) of the Social Security Act \[subsec. (a) of this section\] or section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of this title\] for any calendar month beginning after September 30, 1993, and to services furnished after such date, regardless of whether regulations to implement such amendments have been promulgated by such date, or whether any agreement entered into under such section 1616(a) or such section 212(a) has been modified.”
+Section 13731(b) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to supplementary payments made pursuant to section 1616(a) of the Social Security Act \[subsec. (a) of this section\] or section 212(a) of Public Law 93–66 \[set out as a note under section 1382 of this title\] for any calendar month beginning after September 30, 1993, and to services furnished after such date, regardless of whether regulations to implement such amendments have been promulgated by such date, or whether any agreement entered into under such section 1616(a) or such section 212(a) has been modified.”
 
 #### Effective Date of 1981 Amendment
 
@@ -166,7 +166,7 @@ Section 8(d) of Pub. L. 93–233, as added by Pub. L. 94–379, §1(a), Aug. 10,
 
 Section 8(e), formerly §8(d) of Pub. L. 93–233, as renumbered §8(e) by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, provided that: “Section 401(b)(1) of the Social Security Amendments of 1972 \[set out below\] is amended by striking out everything after the word ‘exceed’ and inserting in lieu thereof: ‘a payment level modification (as defined in paragraph (2) of this subsection) with respect to such plans’.”
 
-Section 8(f), formerly §8(e), of Pub. L. 93–233, as amended by Pub. L. 93–335, §1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, §3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, §2(2), July 14, 1976, 90 Stat. 990, and renumbered §8(f) and amended by Pub. L. 94–379, §1(a), (b), Aug. 10, 1976, 90 Stat. 1111; Pub. L. 95–59, §3(2), June 30, 1977, 91 Stat. 255; Pub. L. 95–113, title XIII, §1302(a)(4), Sept. 29, 1977, 91 Stat. 979, provided that: “The amendment made by subsection (e) \[set out above\] shall not be effective in any State which provides supplementary payments of the type described in section 1616(a) of theSocial Security Act \[subsec. (a) of this section\] the level of which has been found by the Secretary to have been specifically increased so as to include the bonus value of food stamps.”
+Section 8(f), formerly §8(e), of Pub. L. 93–233, as amended by Pub. L. 93–335, §1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, §3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, §2(2), July 14, 1976, 90 Stat. 990, and renumbered §8(f) and amended by Pub. L. 94–379, §1(a), (b), Aug. 10, 1976, 90 Stat. 1111; Pub. L. 95–59, §3(2), June 30, 1977, 91 Stat. 255; Pub. L. 95–113, title XIII, §1302(a)(4), Sept. 29, 1977, 91 Stat. 979, provided that: “The amendment made by subsection (e) \[set out above\] shall not be effective in any State which provides supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] the level of which has been found by the Secretary to have been specifically increased so as to include the bonus value of food stamps.”
 
 \[Amendment of section 8(e) \[now §8(f)\] of Pub. L. 93–233 by section 1(b) of Pub. L. 93–335, effective July 1, 1974, see section 1(c) of Pub. L. 93–335, set out as a note below.\]
 
@@ -228,7 +228,7 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 \[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–585 inserting parenthetical text in subpar. (B) and enacting last sentence, such amendments being identical to amendments by Pub. L. 94–566 less the words “and before July 1, 1979” following “June 30, 1977”, effective with respect to benefits payable for months after June 1977, see section 2(c) of Pub. L. 94–585, set out as a note under section 1382g of this title.\]
 
-\[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–566 inserting parenthetical text in subpar. (B) and enacting last sentence effective under provisions of Pub. L. 94–566, title V, §504(b), Oct. 20, 1976, 90 Stat. 2686, with respect to benefits payable for months after June 1977.\]
+\[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–566 inserting parenthetical text in subpar. (B) and enacting last sentence effective under provisions of Pub. L. 94–566, title V, §504(b), Oct.20, 1976, 90 Stat. 2686, with respect to benefits payable for months after June 1977.\]
 
 \[Amendment of section 401 of Pub. L. 92–603, set out above, by section 18(h) of Pub. L. 93–233 effective Jan. 1, 1974, see section 18(z–3)(1) of Pub. L. 93–233.\]
 
@@ -248,5 +248,5 @@ Pub. L. 87–543, §141(f), July 25, 1962, 76 Stat. 205, provided that: “In th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402, 426, 1310, 1320a–6, 1382d, 1382g, 1382i, 1383, 1383c, 1396a, 1396d, 3002 of this title; title 7 sections 2012, 2015; title 8 section 1612; title 12 section 1715w; title 26 sections 51, 6103.
+This section is referred to in sections 402, 404, 426, 1310, 1320a–6, 1320b–17, 1382d, 1382g, 1382i, 1383, 1383c, 1396a, 1396d, 3002 of this title; title 7 sections 2012, 2015; title 8 section 1612; title 12 section 1715w; title 26 sections 51, 6103.
 

@@ -26,7 +26,7 @@
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Dec. 12, 1980, Pub. L. 96–513, title V, §504(4), 94 Stat. 2916; Oct. 1, 1986, Pub. L. 99–433, title I, §110(g)(10), 100 Stat. 1004; Apr. 21, 1987, Pub. L. 100–26, §7(g)(3), 101 Stat. 282; Dec. 4, 1987, Pub. L. 100–180, div. A, title XIII, §1314(b)(9), 101 Stat. 1176.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176.)
 
 Historical and Revision Notes
 

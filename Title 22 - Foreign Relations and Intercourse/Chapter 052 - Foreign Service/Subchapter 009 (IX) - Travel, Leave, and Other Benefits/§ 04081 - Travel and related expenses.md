@@ -24,7 +24,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 > &emsp;except that, unless the Secretary otherwise specifies in extraordinary circumstances, travel expenses under this paragraph shall be limited to the cost for a member of the Service, and for each member of the family of the member, of 1 round trip during any continuous 2-year tour unbroken by home leave and of 2 round trips during any continuous 3-year tour unbroken by home leave;
 
-&emsp;(7) removal of the family members of a member of the Service, and the furniture and household and personal effects (including automobiles) of the family, from a Foreign Service post where there is imminent dangerbecause of the prevalence of disturbed conditions, and the return of such individuals, furniture, and effects to such post upon the cessation of such conditions, or to such other Foreign Service post as may in the meantime have become the post to which the member of the Service has been reassigned;
+&emsp;(7) removal of the family members of a member of the Service, and the furniture and household and personal effects (including automobiles) of the family, from a Foreign Service post where there is imminent danger because of the prevalence of disturbed conditions, and the return of such individuals, furniture, and effects to such post upon the cessation of such conditions, or to such other Foreign Service post as may in the meantime have become the post to which the member of the Service has been reassigned;
 
 &emsp;(8) trips by a member of the Service for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of the member because of imminent danger due to the prevalence of disturbed conditions, except that—
 
@@ -60,7 +60,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(B) to visit the other parent of the child if the other parent resides in a country other than the country to which the member is assigned and the child regularly resides with the member and does not regularly attend school in the country in which the other parent resides,
 
-> &emsp;except that a payment under this paragraph may not exceed the cost of round-trip travelbetween the post to which the member is assigned and the port of entry in the contiguous 48 States which is nearest to that post.
+> &emsp;except that a payment under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the port of entry in the contiguous 48 States which is nearest to that post.
 
 (Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669.)
 

@@ -46,7 +46,7 @@ The State council shall—
 
 &emsp;(7) review the activities of the Governor to train, place, and retain women in nontraditional employment, including activities under section 1533 of this title, prepare a summary of activities and an analysis of results, and disseminate annually such summary to service delivery areas, service providers throughout the State, and the Secretary;
 
-&emsp;(8) consult with the sex equity coordinator established under section 111(b) of the Carl D. Perkins Vocational and Applied TechnologyEducation Act \[20 U.S.C. 2321(b)\], obtain from the sex equity coordinator a summary of activities and an analysis of results in training women in nontraditional employment under the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\], and disseminate annually such summary to service delivery areas, service providers throughout the State, and the Secretary;
+&emsp;(8) consult with the sex equity coordinator established under section 111(b) of the Carl D. Perkins Vocational and Applied Technology Education Act, obtain from the sex equity coordinator a summary of activities and an analysis of results in training women in nontraditional employment under the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\], and disseminate annually such summary to service delivery areas, service providers throughout the State, and the Secretary;
 
 &emsp;(9) review and comment on the State plan developed for the State employment service agency;
 
@@ -64,17 +64,21 @@ In addition to the functions described in subsection (b) of this section, the Go
 
 #### (d) Designation of State human resources investment council to carry out duties of State Council
 
-(1) In lieu of establishing the State council required under subsection (a) of this section, each State may satisfy the requirements of this section by designating the State human resource investment council established in accordance with subchapter VI of this chapter (in this subsection referred to as the “State Council”) to carry out the duties described in subsection (b) of this section.
+(1) In lieu of establishing the State council required under subsection (a) of this section, each State may satisfy the requirements of this section by designating the State human resource investment council established in accordancewith subchapter VI of this chapter (in this subsection referred to as the “State Council”) to carry out the duties described in subsection (b) of this section.
 
 (2) Funding provided to carry out this section may be allotted to the State Council to carry out such functions and the other functions of the State Council if the Governor and the head of the State agency responsible for administration of programs under this chapter agree to such an allotment.
 
 (Pub. L. 97–300, title I, §122, Oct. 13, 1982, 96 Stat. 1339; Pub. L. 97–404, §1(d), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 98–524, §4(a)(2), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 100–418, title VI, §6304(b), Aug. 23, 1988, 102 Stat. 1538; Pub. L. 102–235, §6, Dec. 12, 1991, 105 Stat. 1808; Pub. L. 102–367, title VI, §601(b)(3), title VII, §702(a)(5), Sept. 7, 1992, 106 Stat. 1103, 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 Section 1514(b) of this title, referred to in subsec. (b)(5), (6), was amended generally by Pub. L. 102–367, title I, §113(b), Sept. 7, 1992, 106 Stat. 1027, which restated in section 1514(b)(13)(D) and (E) the provisions formerly contained in section 1514(b)(12)(D) and (E). Section 1514(b)(12) no longer contains a subpar. (D) or (E).
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(8), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(8), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. Section 111 of the Act was classified to section 2321 of Title 20 prior to the general amendment of Pub. L. 88–210 by Pub. L. 105–332. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of such Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -98,7 +102,7 @@ Subsec. (d). Pub. L. 102–367, §601(b)(3)(B), added subsec. (d).
 
 &emsp;“(A) One-third of the membership of the State council shall be representatives of business and industry (including agriculture, where appropriate) in the State, including individuals who are representatives of business and industry on private industry councils in the State.
 
-&emsp;“(B) Not less than 20 percent of the membership of the State council shall be representatives of the State legislature and State agencies and organizations, such as the State educational agency, the State vocational education board, the State advisory council on vocational education, the State board of education (when not otherwise represented), State public assistance agencies, the State employment security agency, the State rehabilitation agency, theState occupational information coordinating committee, State postsecondary institutions, the State economic development agency, State veterans’ affairs agencies or equivalent, and such other agencies as the Governor determines to have a direct interest in employment and training and human resource utilization within the State.
+&emsp;“(B) Not less than 20 percent of the membership of the State council shall be representatives of the State legislature and State agencies and organizations, such as the State educational agency, the State vocational education board, the State advisory council on vocational education, the State board of education (when not otherwise represented), State public assistance agencies, the State employment security agency, the State rehabilitation agency, the State occupational information coordinating committee, State postsecondary institutions, the State economic development agency, State veterans’ affairs agencies or equivalent, and such other agencies as the Governor determines to have a direct interest in employment and training and human resource utilization within the State.
 
 &emsp;“(C) Not less than 20 percent of the membership of the State council shall be representatives of the units or consortia of units of general local government in such State (including those which are administrative entities or grantees under this chapter) which shall be nominated by the chief elected officials of the units or consortia of units of general local government; and
 
@@ -132,7 +136,7 @@ Amendment by Pub. L. 102–235 not to be construed to require, sanction, or auth
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49j, 1602, 1642, 1733 of this title; title 20 section 2322.
+This section is referred to in sections 1602, 1642, 1733, 2821 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

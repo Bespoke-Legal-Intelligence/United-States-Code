@@ -36,9 +36,13 @@ In subsection (c), the words “Office of the Fiscal Assistant Secretary” in s
 
 Subsection (d) is substituted for the text of section 1(a)(7)(last sentence) of Reorganization Plan No. 3 of 1940 for consistency in the revised title. The text of section 1(a)(5) and (6), (b), and (c) is omitted as superseded by the source provisions restated in section 321 of the revised title.
 
-#### Reimbursement of Financial Management Service From Social Security Trust Funds and by Internal Revenue Service and National Finance Center
+#### Reimbursement of Financial Management Service and Bureau of the Public Debt
 
 Pub. L. 102–393, title I, §105, Oct. 6, 1992, 106 Stat. 1737, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, the Financial Management Service (FMS) shall be reimbursed by the Internal Revenue Service (IRS) and the Department of Agriculture, National Finance Center (NFC), for the postage costs the FMS incurs to make check payments on behalf of the IRS and the NFC.”
 
-Pub. L. 101–136, title I, §104, Nov. 3, 1989, 103 Stat. 789, provided that: “Notwithstanding any other provision of law, beginning October 1, 1990, and thereafter, the Financial Management Service shall be fully and directly reimbursed from the Social Security Trust Funds for the costs it incurs in the issuance of Social Security Trust Funds benefit payments, including all physical costs associated with payment preparation and postage costs. Such direct reimbursement shall also be made for all other trust and special funds which are the recipients of services performed by the Financial Management Service and which prior to enactment of this provision \[Nov. 3, 1989\] reimburse the General Fund of the Treasury for such services.”
+Pub. L. 105–277, div. A, §101(h) \[title I\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–486, provided in part: “That notwithstanding any other provisions of law, effective upon enactment \[Oct. 21, 1998\] and thereafter, the Bureau of the Public Debt shall be fully and directly reimbursed by the funds described in section 104 of Public Law 101–136 (103 Stat. 789) \[set out below\] for costs and services performed by the Bureau in the administration of such funds.”
+
+Similar provisions were contained in Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1279.
+
+Pub. L. 101–136, title I, §104, Nov. 3, 1989, 103 Stat. 789, provided that: “Notwithstanding any other provision of law, beginning October 1, 1990, and thereafter, the Financial Management Service shall be fully and directly reimbursed from the Social Security Trust Funds for the costs it incurs in the issuance of Social Security Trust Funds benefit payments, including all physical costs associated with payment preparation and postage costs. Such direct reimbursement shall also be madefor all other trust and special funds which are the recipients of services performed by the Financial Management Service and which prior to enactment of this provision \[Nov. 3, 1989\] reimburse the General Fund of the Treasury for such services.”
 

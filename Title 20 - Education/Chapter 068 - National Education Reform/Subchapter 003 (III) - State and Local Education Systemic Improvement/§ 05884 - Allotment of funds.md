@@ -32,7 +32,7 @@ If the Secretary determines that any amount of a State educational agency's allo
 
 #### (d) Maintenance of effort
 
-Each recipient of funds under this subchapter, in utilizing the proceeds of an allotment received under this subchapter, shall maintain the expenditures of such recipient for the activities assisted under this subchapter at a level equal to not less than the level of such expenditures maintained by such recipient for the fiscal year preceding the fiscal year for which such allotment is received, except that the Secretary may reduce, temporarily or permanently, the level of expenditures required by this subsection if the Secretary determines that such recipient hasjustifiable reasons for a reduction in the level of expenditures required by this subsection.
+Each recipient of funds under this subchapter, in utilizing the proceeds of an allotment received under this subchapter, shall maintain the expenditures of such recipient for the activities assisted under this subchapter at a level equal to not less than the level of such expenditures maintained by such recipient for the fiscal year preceding the fiscal year for which such allotment is received, except that the Secretary may reduce, temporarily or permanently, the level of expenditures required by this subsection if the Secretary determines that such recipient has justifiable reasons for a reduction in the level of expenditures required by this subsection.
 
 #### (e) Direct grants to local educational agencies
 

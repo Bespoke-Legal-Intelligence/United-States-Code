@@ -2,7 +2,7 @@
 
 It shall not be lawful for any foreign consul to deliver to the master of any foreign vessel the register, or document in lieu thereof, deposited with him in accordance with the provisions of section 1434 of this title, or regulations issued thereunder, until such master shall produce to him a clearance in due form from the Customs Service in the port in which such vessel has entered. Any consul offending against the provisions of this section shall be liable to a fine of not more than $5,000.
 
-(June 17, 1930, ch. 497, title IV, §438, 46 Stat. 712; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Dec. 8, 1993, Pub. L. 103–182, title VI, §654, 107 Stat. 2210.)
+(June 17, 1930, ch. 497, title IV, §438, 46 Stat. 712; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §654, Dec. 8, 1993, 107 Stat. 2210.)
 
 #### Prior Provisions
 

@@ -24,7 +24,7 @@
 
 (e) In this section:
 
-&emsp;(1) The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+&emsp;(1) The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, or Guam. Such term does notinclude any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
 &emsp;(2) The term “civilian personnel” means direct-hire, permanent civilian employees of the Department of Defense.
 
@@ -56,6 +56,10 @@ Subsec. (d)(1)(B). Pub. L. 98–525, §1405(41)(D), substituted “300” for �
 
 1978—Subsec. (d)(1)(B). Pub. L. 95–356 substituted “three hundred” for “five hundred”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1985 Amendment
 
 Section 1202(b) of Pub. L. 99–145 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to closures and realignments completed on or after the date of the enactment of this Act \[Nov. 8, 1985\], except that any action taken to effect or implement any closure or realignment for which a public announcement was made pursuant to section 2687(b)(1) of title 10, United States Code, after April 1, 1985, and before the date of enactment of this Act shall be subject to the provisions of section 2687 of such title as in effect on the day before such date of enactment.”
@@ -70,7 +74,7 @@ Pub. L. 100–526, §1, Oct. 24, 1988, 102 Stat. 2623, provided that: “This Ac
 
 #### Effective Date of 1994 Amendments by Section 2813(d)(1) and (2) of Pub. L. 103–337
 
-Pub. L. 103–337, div. B, title XXVIII, §2813(d)(3), Oct. 5, 1994, 108 Stat. 3055, provided that: “The amendments made by paragraphs (1) and (2) \[amending section 209(10) of Pub. L. 100–526 and section 2910(9) of Pub. L. 101–510, set out below\] shall take effect as if included inthe amendments made by section 2918 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1927).”
+Pub. L. 103–337, div. B, title XXVIII, §2813(d)(3), Oct. 5, 1994, 108 Stat. 3055, provided that: “The amendments made by paragraphs (1) and (2) \[amending section 209(10) of Pub. L. 100–526 and section 2910(9) of Pub. L. 101–510, set out below\] shall take effect as if included in the amendments made by section 2918 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1927).”
 
 #### Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190
 
@@ -78,11 +82,11 @@ Pub. L. 102–190, div. A, title III, §344(c), Dec. 5, 1991, 105 Stat. 1346, pr
 
 #### Report on Closure and Realignment of Military Installations
 
-Pub. L. 105–85, div. B, title XXVIII, §2824, Nov. 18, 1997, 111 Stat. 1998, provided that:
+Pub. L. 105–85, div. B, title XXVIII, §2824, Nov. 18, 1997, 111 Stat. 1998, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(9), (f)(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, provided that:
 
 “(a)
 
-Report.—(1) The Secretary of Defense shall prepare and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] a report on the costs and savings attributable to the rounds of base closures and realignments conducted under the base closure laws and on the need, if any, for additional rounds of base closures and realignments.
+Report.—(1) The Secretary of Defense shall prepare and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the costs and savings attributable to the rounds of base closures and realignments conducted under the base closure laws and on the need, if any, for additional rounds of base closures and realignments.
 
 “(2) For purposes of this section, the term ‘base closure laws’ means—
 
@@ -140,7 +144,7 @@ Method of Presenting Information.—The statement and comparison required by par
 
 &emsp;&emsp;“(C) to the extent available, expenditures by the Economic Development Administration, the Federal Aviation Administration, and the Department of Labor relating to economic assistance.
 
-&emsp;“(5) To the extent information is available, unemployment compensation costs, early retirement benefits (including benefits paid under section 5597 of title 5, United States Code), and worker retraining expenses under the Priority Placement Program, the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\], and any other federally funded job training program.
+&emsp;“(5) To the extent information is available, unemployment compensation costs, early retirement benefits (including benefits paid under section 5597 of title 5, United States Code), and worker retraining expenses under the Priority Placement Program, the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and any other federally funded job training program.
 
 &emsp;“(6) Costs associated with military health care.
 
@@ -171,6 +175,8 @@ Sense of Congress.—It is the sense of the Congress that—
 &emsp;“(1) the Secretary should develop a system having the capacity to quantify the actual costs and savings attributable to the closure and realignment of military installations pursuant to the base closure process; and
 
 &emsp;“(2) the Secretary should develop the system in expedient fashion, so that the system may be used to quantify costs and savings attributable to the 1995 base closure round.”
+
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(8), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 2824(c)(5) of Pub. L. 105–85, set out above, is amended by striking out “Job Training Partnership Act or”.\]
 
 #### Retention of Civilian Employee Positions at Military Training Bases Transferred to National Guard
 
@@ -236,7 +242,7 @@ Pub. L. 103–421, §2(e), Oct. 25, 1994, 108 Stat. 4352, as amended by Pub. L. 
 
 “(3) Upon receipt under paragraph (1)(B) of a timely request with respect to an installation, the Secretary of Defense shall publish in the Federal Register and in a newspaper of general circulation in the communities in the vicinity of the installation information describing the redevelopment authority for the installation.
 
-“(4)(A) The Secretary of Housing and Urban Development and the Secretary of Health and Human Services shall not, during the 60-day period beginning on the date of the enactment of this Act \[Oct. 25, 1994\], carry out with respect to any military installation approved for closure under the 1988 base closure Act or the 1990 base closure Act before such date any action required of such Secretaries under the 1988 base closure Act or the 1990 base closure Act, as the case may be, or under section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411).
+“(4)(A) The Secretary of Housing and Urban Development and the Secretary of Health and Human Services shall not, during the 60-day period beginning on the date of the enactment of this Act \[Oct. 25, 1994\], carry out with respect to any military installation approved for closure under the 1988 base closure Act or the 1990 base closure Act before such date any action required of such Secretaries under the 1988 base closure Act or the 1990 base closure Act, as the case may be, or undersection 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411).
 
 “(B)(i) Upon receipt under paragraph (1)(A) of a timely request with respect to an installation, the Secretary of Defense shall notify the Secretary of Housing and Urban Development and the Secretary of Health and Human Services that the disposal of buildings and property at the installation shall be determined under such paragraph (7) in accordance with this subsection.
 
@@ -444,7 +450,7 @@ Limitation.—If the Secretary of Defense recommends to the Defense Base Closure
 
 “(b)
 
-Exception.—The limitation in subsection (a) ceases to be applicable to military construction in support of the transfer of a function to an installation on the 60th day following the date on which the Secretary submits to the Committee on Armed Services of the Senate and the Committee on National Security of theHouse of Representatives a notification of the proposed transfer that—
+Exception.—The limitation in subsection (a) ceases to be applicable to military construction in support of the transfer of a function to an installation on the 60th day following the date on which the Secretary submits to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a notification of the proposed transfer that—
 
 &emsp;“(1) identifies the installation to which the function is to be transferred; and
 
@@ -460,7 +466,7 @@ Definitions.—In this section:
 
 #### Sense of Congress on Development of Base Closure Criteria
 
-Pub. L. 103–160, div. B, title XXIX, §2925, Nov. 30, 1993, 107 Stat. 1932, as amended by Pub. L. 104–106, div. A, title XV, §1502(c)(1), Feb. 10, 1996, 110 Stat. 506, provided that:
+Pub. L. 103–160, div. B, title XXIX, §2925, Nov. 30, 1993, 107 Stat. 1932, as amended by Pub. L. 104–106, div. A,title XV, §1502(c)(1), Feb. 10, 1996, 110 Stat. 506, provided that:
 
 “(a)
 
@@ -468,7 +474,7 @@ Sense of Congress.—It is the sense of Congress that the Secretary of Defense c
 
 “(b)
 
-Report on Amendment.—(1) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on any amended criteria developed by the Secretary under section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 after the date of the enactment of this Act \[Nov. 30, 1993\]. Such report shall include a discussion of the amended criteria and include a justification for any decision not to propose a criterion regarding the direct costs of base closures and realignments to other Federal agencies and departments.
+Report on Amendment.—(1) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on any amended criteria developed by the Secretary under section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 after the date of the enactment of this Act \[Nov. 30, 1993\]. Such report shall include a discussion of the amended criteria and include a justification for any decision not to propose a criterion regarding the direct costs of base closures and realignments to other Federal agencies and departments.
 
 “(2) The Secretary shall submit the report upon publication of the amended criteria in accordance with section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990.”
 
@@ -538,7 +544,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;“(C) Section 2687 of title 10, United States Code.
 
-&emsp;&emsp;“(D) Any provision of law authorizing the closure or realignment of a military installation enacted on or after the date of the enactment of this Act \[Oct. 23, 1992\].”
+&emsp;&emsp;“(D) Any provision of law authorizing the closure or realignment of a military installation enactedon or after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
 #### Demonstration Project for Use of National Relocation Contractor To Assist Department of Defense
 
@@ -618,7 +624,7 @@ Base Closure Law Defined.—For purposes of this section, the term ‘base closu
 
 “(e)
 
-Depository Institution Defined.—For purposes of this section, the term ‘depository institution’ has the meaning given that term in section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)).”
+Depository Institution Defined.—For purposes of this section, the term ‘depository institution’ hasthe meaning given that term in section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)).”
 
 #### Report on Environmental Restoration Costs for Installations To Be Closed Under 1990 Base Closure Law
 
@@ -706,7 +712,7 @@ Meetings.—(1) The Commission shall meet only during calendar years 1991, 1993,
 
 &emsp;“(i) The Chairman and the ranking minority party member of the Subcommittee on Readiness, Sustainability, and Support of the Committee on Armed Services of the Senate, or such other members of the Subcommittee designated by such Chairman or ranking minority party member.
 
-&emsp;“(ii) The Chairman and the ranking minority party member of the Subcommittee on Military Installations and Facilities of the Committee on National Security of the House of Representatives, or such other members of the Subcommittee designated by such Chairman or ranking minority party member.
+&emsp;“(ii) The Chairman and the ranking minority party member of the Subcommittee on Military Installations and Facilities of the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\], or such other members of the Subcommittee designated by such Chairman or ranking minority party member.
 
 &emsp;“(iii) The Chairmen and ranking minority party members of the Subcommittees on Military Construction of the Committees on Appropriations of the Senate and of the House of Representatives, or such other members of the Subcommittees designated by such Chairmen or ranking minority party members.
 
@@ -796,7 +802,7 @@ Force-Structure Plan.—(1) As part of the budget justification documents submit
 
 &emsp;“(A) a description of the assessment referred to in paragraph (1);
 
-&emsp;“(B) a description (i) of the anticipated force structure during and at the end of each such period for each military department (with specifications of the number and type of units in the active and reserve forces of each such department), and (ii) of the units that will need to be forward based (with a justification thereof) during and at the end of each such period; and
+&emsp;“(B) a description (i) of the anticipated force structure during and at the end of each such period for each military department (with specifications of thenumber and type of units in the active and reserve forces of each such department), and (ii) of the units that will need to be forward based (with a justification thereof) during and at the end of each such period; and
 
 &emsp;“(C) a description of the anticipated implementation of such force-structure plan.
 
@@ -932,9 +938,9 @@ In General.—(1) In closing or realigning any military installation under this 
 
 &emsp;“(C) carry out activities for the purposes of environmental restoration and mitigation at any such installation, and shall use for such purposes funds in the Account;
 
-&emsp;“(D) provide outplacement assistance to civilian employees employed by the Department of Defense at military installations being closed or realigned, andmay use for such purpose funds in the Account or funds appropriated to the Department of Defense for outplacement assistance to employees; and
+&emsp;“(D) provide outplacement assistance to civilian employees employed by the Department of Defense at military installations being closed or realigned, and may use for such purpose funds in the Account or funds appropriated to the Department of Defense for outplacement assistance to employees; and
 
-&emsp;“(E) reimburse other Federal agencies for actions performed at the request of the Secretary with respect to any such closure or realignment, and may use for such purpose funds in the Account or funds appropriated to the Department of Defense and available for such purpose.
+&emsp;“(E) reimburse other Federal agencies for actions performed at the request of the Secretary with respect to any such closure or realignment, and mayuse for such purpose funds in the Account or funds appropriated to the Department of Defense and available for such purpose.
 
 “(2) In carrying out any closure or realignment under this part, the Secretary shall ensure that environmental restoration of any property made excess to the needs of the Department of Defense as a result of such closure or realignment be carried out as soon as possible with funds available for such purpose.
 
@@ -1050,7 +1056,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 “(B)(i) Not later than the date on which the Secretary of Defense completes the determination under paragraph (5) of the transferability of any portion of an installation to be closed under this part, the Secretary shall—
 
-&emsp;“(I) complete any determinations or surveys necessary to determine whether any building or property referred to in clause (ii) is excess property, surplus property, or unutilized or underutilized property forthe purpose of the information referred to in section 501(a) of such Act (42 U.S.C. 11411(a)); and
+&emsp;“(I) complete any determinations or surveys necessary to determine whether any building or property referred to in clause (ii) is excess property, surplus property, or unutilized or underutilized property for the purpose of the information referred to in section 501(a) of such Act (42 U.S.C. 11411(a)); and
 
 &emsp;“(II) submit to the Secretary of Housing and Urban Development information on any building or property that is so determined.
 
@@ -1190,7 +1196,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(II) takes into consideration any economic impact of the homeless assistance under the plan on the communities in the vicinity of the installation;
 
-&emsp;“(III) balances in an appropriate manner the needs of the communities in the vicinity of the installationfor economic redevelopment and other development with the needs of the homeless in such communities;
+&emsp;“(III) balances in an appropriate manner the needs of the communities in the vicinity of the installation for economic redevelopment and other development with the needs of the homeless in such communities;
 
 &emsp;“(IV) was developed in consultation with representatives of the homeless and the homeless assistance planning boards, if any, in the communities in the vicinity of the installation; and
 
@@ -1256,7 +1262,7 @@ Management and Disposal of Property.—(1) The Administrator of General Services
 
 &emsp;“(II) notify the Secretary of Defense of the extent to which the revised plan meets the criteria set forth in subparagraph (H)(i).
 
-“(iv)(I) Upon notice from the Secretary of Housing and Urban Development with respect to an installation under clause (iii), the Secretary of Defense shall dispose of buildings and property at the installation in consultation with the Secretary of Housing and Urban Development and the redevelopment authority concerned.
+“(iv)(I) Upon notice from the Secretary of Housing and Urban Development with respect to an installation under clause (iii), the Secretary of Defense shall dispose of buildings and property at the installation inconsultation with the Secretary of Housing and Urban Development and the redevelopment authority concerned.
 
 “(II) For purposes of carrying out an environmental assessment of the closure or realignment of an installation, the Secretary of Defense shall treat the redevelopment plan submitted by the redevelopment authority for the installation (including the aspects of the plan providing for disposal to State or local governments, representatives of the homeless, and other interested parties) as part of the proposed Federal action for the installation. The Secretary of Defense shall incorporate the notification of the Secretary of Housing and Urban Development under clause (iii)(I) as part of the proposed Federal action for the installation only to the extent, if any, that the Secretary of Defense considers such incorporation to be appropriate and consistent with the best and highest use of the installation as a whole, taking into consideration the redevelopment plan submitted by the redevelopment authority.
 
@@ -1310,7 +1316,7 @@ Waiver.—The Secretary of Defense may close or realign military installations u
 
 “(e)
 
-Transfer Authority in Connection With Payment of Environmental Remediation Costs.—(1)(A) Subject to paragraph (2) of this subsection and section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)), the Secretary may enter into an agreement to transfer by deed real property or facilities referred to in subparagraph (B) with any person who agrees to perform all environmental restoration, waste management, and environmental compliance activities that are required for the property or facilities under Federal and State laws, administrative decisions, agreements (including schedules and milestones), and concurrences.
+Transfer Authority in Connection With Payment of Environmental Remediation Costs.—(1)(A)Subject to paragraph (2) of this subsection and section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)), the Secretary may enter into an agreement to transfer by deed real property or facilities referred to in subparagraph (B) with any person who agrees to perform all environmental restoration, waste management, and environmental compliance activities that are required for the property or facilities under Federal and State laws, administrative decisions, agreements (including schedules and milestones), and concurrences.
 
 “(B) The real property and facilities referred to in subparagraph (A) are the real property and facilities located at an installation closed or to be closed under this part that are available exclusively for the use, or expression of an interest in a use, of a redevelopment authority under subsection (b)(6)(F) during the period provided for that use, or expression of interest in use, under that subsection.
 
@@ -1452,7 +1458,7 @@ Terms of the Resolution.—For purposes of section 2904(b), the term ‘joint re
 
 “(b)
 
-Referral.—A resolution described in subsection (a) that is introduced in the House of Representatives shall be referred to the Committee on National Security of the House of Representatives. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
+Referral.—A resolution described in subsection (a) that is introduced in the House of Representatives shall be referred to the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\]. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
 
 “(c)
 
@@ -1518,13 +1524,13 @@ Exception.—Nothing in this part affects the authority of the Secretary to carr
 
 &emsp;“(1) The term ‘Account’ means the Department of Defense Base Closure Account 1990 established by section 2906(a)(1).
 
-&emsp;“(2) The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+&emsp;“(2) The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security \[now Committee on Armed Services\] and the Committee on Appropriations of the House of Representatives.
 
 &emsp;“(3) The term ‘Commission’ means the Commission established by section 2902.
 
 &emsp;“(4) The term ‘military installation’ means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility. Such term does not include any facility used primarily for civil works, rivers and harbors projects, flood control, or other projects not under the primary jurisdiction or control of the Department of Defense.
 
-&emsp;“(5) The term ‘realignment’ includes any action which both reduces and relocates functions and civilian personnel positions but does not include a reduction in force resulting from workload adjustments, reduced personnel or funding levels, or skill imbalances.
+&emsp;“(5) The term ‘realignment’ includes any action which both reduces and relocates functions and civilian personnel positions but does not include a reduction in force resulting from workload adjustments,reduced personnel or funding levels, or skill imbalances.
 
 &emsp;“(6) The term ‘Secretary’ means the Secretary of Defense.
 
@@ -1568,6 +1574,8 @@ Pub. L. 102–396, title IX, §9047A, Oct. 6, 1992, 106 Stat. 1913, as amended b
 
 Similar provisions for specified fiscal years were contained in the following appropriation acts:
 
+Pub. L. 105–262, title VIII, §8019, Oct. 17, 1998, 112 Stat. 2301.
+
 Pub. L. 105–56, title VIII, §8019, Oct. 8, 1997, 111 Stat. 1224.
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8020\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–92.
@@ -1584,7 +1592,7 @@ Section 2921 of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, titl
 
 Sense of Congress.—It is the sense of the Congress that—
 
-&emsp;“(1) the termination of military operations by the United States at military installations outside theUnited States should be accomplished at the discretion of the Secretary of Defense at the earliest opportunity;
+&emsp;“(1) the termination of military operations by the United States at military installations outside the United States should be accomplished at the discretion of the Secretary of Defense at the earliest opportunity;
 
 &emsp;“(2) in providing for such termination, the Secretary of Defense should take steps to ensure that the United States receives, through direct payment or otherwise, consideration equal to the fair market value of the improvements made by the United States at facilities that will be released to host countries;
 
@@ -1642,7 +1650,7 @@ Negotiations for Payments-in-Kind.—(1) Before the Secretary of Defense enters 
 
 “(3) For purposes of this subsection, the appropriate congressional committees are—
 
-&emsp;“(A) the Committee on National Security, the Committee on Appropriations, and the National Security Subcommittee of the Committee on Appropriations of the House of Representatives; and
+&emsp;“(A) the Committee on National Security \[now Committee on Armed Services\], the Committee on Appropriations, and the National Security Subcommittee of the Committee on Appropriations of the House of Representatives; and
 
 &emsp;“(B) the Committee on Armed Services, the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
 
@@ -1650,7 +1658,7 @@ Negotiations for Payments-in-Kind.—(1) Before the Secretary of Defense enters 
 
 Review of Proposed Settlements.—(1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
 
-“(2) Each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
+“(2) Each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
 
 “(g)
 
@@ -1746,7 +1754,7 @@ Applicability.—This section shall apply to environmental restoration activitie
 
 Program Requirements.—In carrying out the model program, the Secretary of Defense shall:
 
-&emsp;“(1) Designate for the model program two installations under his jurisdiction that have been designated for closure pursuant to the Defense AuthorizationAmendments and Base Closure and Realignment Act (Public Law 100–526) \[see Short Title of 1988 Amendment note above\] and for which preliminary assessments, site inspections, and Environmental Impact Statements required by law or regulation have been completed. The Secretary shall designate only those installations which have satisfied the requirements of section 204 of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526) \[set out below\].
+&emsp;“(1) Designate for the model program two installations under his jurisdiction that have been designated for closure pursuant to the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526) \[see Short Title of 1988 Amendment note above\] and for which preliminary assessments, site inspections, and Environmental ImpactStatements required by law or regulation have been completed. The Secretary shall designate only those installations which have satisfied the requirements of section 204 of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526) \[set out below\].
 
 &emsp;“(2) Compile a prequalification list of prospective contractors for solicitation and negotiation in accordance with the procedures set forth in title IX of the Federal Property and Administrative Services Act (Public Law 92–582; 40 U.S.C. 541 et seq., as amended) \[probably means title IX of the Federal Property and Administrative Services Act of 1949, act June 30, 1949\]. Such contractors shall satisfy all applicable statutory and regulatory requirements. In addition, the contractor selected for one of the two installations under this program shall indemnify the Federal Government against all liabilities, claims, penalties, costs, and damages caused by (A) the contractor's breach of any term or provision of the contract; and (B) any negligent or willful act or omission of the contractor, its employees, or its subcontractors in the performance of the contract.
 
@@ -2284,7 +2292,7 @@ Rules of the Senate and House.—This section is enacted by Congress—
 
 &emsp;“(1) The term ‘Account’ means the Department of Defense Base Closure Account established by section 207(a)(1).
 
-&emsp;“(2) The term ‘appropriate committees of Congress’ means the Committees on Armed Services and theCommittees on Appropriations of the Senate and the House of Representatives \[Committee on Armed Services of the House of Representatives now Committee on National Security\].
+&emsp;“(2) The term ‘appropriate committees of Congress’ means the Committees on Armed Services and theCommittees on Appropriations of the Senate and the House of Representatives.
 
 &emsp;“(3) The terms ‘Commission on Base Realignment and Closure’ and ‘Commission’ mean the Commission established by the Secretary of Defense in the charter signed by the Secretary on May 3, 1988, and as altered thereafter with respect to the membership and voting.
 

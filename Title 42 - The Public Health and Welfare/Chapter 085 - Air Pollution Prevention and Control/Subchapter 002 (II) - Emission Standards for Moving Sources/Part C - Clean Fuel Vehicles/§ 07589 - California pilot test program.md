@@ -29,7 +29,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 &emsp;(B) The State may by regulation grant persons subject to the requirements prescribed under this paragraph an appropriate amount of credits for exceeding such requirements, and any person granted credits may transfer some or all of the credits for use by one or more persons in demonstrating compliance with such requirements. The State may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as the State finds appropriate.
 
-&emsp;(C) The State may also by regulation establish specifications for any clean alternative fuel produced and made available under thisparagraph as the State finds necessary to reduce or eliminate an unreasonable risk to public health, welfare, or safety associated with its use or to ensure acceptable vehicle maintenance and performance characteristics.
+&emsp;(C) The State may also by regulation establish specifications for any clean alternative fuel produced and made available under this paragraph as the State finds necessary to reduce or eliminate an unreasonable risk to public health, welfare, or safety associated with its use or to ensure acceptable vehicle maintenance and performance characteristics.
 
 &emsp;(D) If a retail gasoline dispensing facility would have to remove or replace one or more motor vehicle fuel underground storage tanks and accompanying piping in order to comply with the provisions of this section, and it had removed and replaced such tank or tanks and accompanying piping in order to comply with subtitle I of the Solid Waste Disposal Act \[42 U.S.C. 6991 et seq.\] prior to November 15, 1990, it shall not be required to comply with this subsection until a period of 7 years has passed from the date of the removal and replacement of such tank or tanks.
 
@@ -43,7 +43,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 &emsp;(A) The sale of more clean-fuel vehicles than required under subsection (c)(1) of this section.
 
-&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or all of the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respect to the same vehicles under any State law, rule, or regulation.
+&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or all of the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respectto the same vehicles under any State law, rule, or regulation.
 
 (2)
 
@@ -75,7 +75,7 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 #### (2) Plan revisions
 
-&emsp;Any State in which there is located all or part of an ozone nonattainment area classified under subpart D of subchapter I of this chapter as Serious, Severe, or Extreme may submit a revision of the applicable implementation plan under part D of subchapter I of this chapter and section 7410 of this title to provide incentives for the sale or use in such an area or State of clean-fuel vehicles which are required to be produced, sold, and distributed in the State of California, and for the use in such an area or State of clean alternative fuels required to be produced and distributed by fuel suppliers and made available in California.Such plan provisions shall not take effect until 1 year after the State has provided notice of such provisions to motor vehicle manufacturers and to fuel suppliers.
+&emsp;Any State in which there is located all or part of an ozone nonattainment area classified under subpart D of subchapter I of this chapter as Serious, Severe, or Extreme may submit a revision of the applicable implementation plan under part D of subchapter I of this chapter and section 7410 of this title to provide incentives for the sale or use in such an area or State of clean-fuel vehicles which are required to be produced, sold, and distributed in the State of California, and for the use in such an area or State of clean alternative fuels required to be produced and distributed by fuel suppliers and made available in California. Such plan provisions shall not take effect until 1 year after the State has provided notice of such provisions to motor vehicle manufacturers and to fuel suppliers.
 
 #### (3) Incentives
 
@@ -93,7 +93,7 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 &emsp;The regulations and plan revisions under paragraphs (1) and (2) shall not include any production or sales mandate for clean-fuel vehicles or clean alternative fuels. Such regulations and plan revisions shall also provide that vehicle manufacturers and fuel suppliers may not be subject to penalties or sanctions for failing to produce or sell clean-fuel vehicles or clean alternative fuels.
 
-(July 14, 1955, ch. 360, title II, §249, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2525.)
+(July 14, 1955, ch. 360, title II, §249, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2525.)
 
 #### References in Text
 

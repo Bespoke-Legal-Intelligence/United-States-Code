@@ -88,5 +88,5 @@ Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 17
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4804 of this title.
+This section is referred to in sections 535a, 4804 of this title.
 

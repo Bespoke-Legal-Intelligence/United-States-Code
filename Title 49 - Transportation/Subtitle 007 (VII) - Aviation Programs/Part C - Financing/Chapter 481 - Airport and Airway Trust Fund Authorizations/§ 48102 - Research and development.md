@@ -46,7 +46,7 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(I) $8,532,000 for environment and energy projects and activities; and
 
-&emsp;&emsp;(J) $5,459,000 for innovative/cooperative research projects and activities; and
+&emsp;&emsp;(J) $5,459,000 for innovative/cooperative research projects and activities;
 
 &emsp;(3) for fiscal year 1997—
 
@@ -68,7 +68,31 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(I) $3,600,000 for environment and energy projects and activities; and
 
-&emsp;&emsp;(J) $2,000,000 for innovative/cooperative research projects and activities.
+&emsp;&emsp;(J) $2,000,000 for innovative/cooperative research projects and activities;
+
+&emsp;(4) for fiscal year 1998, $226,800,000, including—
+
+&emsp;&emsp;(A) $16,379,000 for system development and infrastructure projects and activities;
+
+&emsp;&emsp;(B) $27,089,000 for capacity and air traffic management technology projects and activities;
+
+&emsp;&emsp;(C) $23,362,000 for communications, navigation, and surveillance projects and activities;
+
+&emsp;&emsp;(D) $16,600,000 for weather projects and activities;
+
+&emsp;&emsp;(E) $7,854,000 for airport technology projects and activities;
+
+&emsp;&emsp;(F) $49,202,000 for aircraft safety technology projects and activities;
+
+&emsp;&emsp;(G) $53,759,000 for system security technology projects and activities;
+
+&emsp;&emsp;(H) $26,550,000 for human factors and aviation medicine projects and activities;
+
+&emsp;&emsp;(I) $2,891,000 for environment and energy projects and activities; and
+
+&emsp;&emsp;(J) $3,114,000 for innovative/cooperative research projects and activities, of which $750,000 shall be for carrying out the grant program established under subsection (h); and
+
+&emsp;(5) for fiscal year 1999, $229,673,000.
 
 (b)
 
@@ -102,7 +126,39 @@ Air Traffic Controller Performance Research.—Necessary amounts may be appropri
 
 Availability of Amounts.—Amounts appropriated under subsection (a) of this section remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396.)
+(h) <sup>1</sup>
+
+Research Grants Program Involving Undergraduate Students.—
+
+&emsp;(1)
+
+Establishment.—The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjects of relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
+
+&emsp;&emsp;(A) research projects to be carried out at primarily undergraduate institutions and technical colleges;
+
+&emsp;&emsp;(B) research projects that combine research at primarily undergraduate institutions and technical colleges with other research supported by the Federal Aviation Administration; or
+
+&emsp;&emsp;(C) research on future training requirements on projected changes in regulatory requirements for aircraft maintenance and power plant licensees.
+
+&emsp;(2)
+
+Notice of criteria.—Within 6 months after the date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, the Administrator of the Federal Aviation Administration shall establish and publish in the Federal Register criteria for the submittal of proposals for agrant under this subsection, and for the awarding of such grants.
+
+&emsp;(3)
+
+Principal criteria.—The principal criteria for the awarding of grants under this subsection shall be—
+
+&emsp;&emsp;(A) the relevance of the proposed research to technical research needs identified by the Federal Aviation Administration;
+
+&emsp;&emsp;(B) the scientific and technical merit of the proposed research; and
+
+&emsp;&emsp;(C) the potential for participation by undergraduate students in the proposed research.
+
+&emsp;(4)
+
+Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5.)
 
 Historical and Revision Notes
 
@@ -160,7 +216,19 @@ In subsection (d)(1), the words “Notwithstanding any other provision of this s
 
 In subsection (d)(2), the reference to fiscal years 1988–1992 and the words “by the Administrator for research and development” are omitted as surplus.
 
+#### References in Text
+
+The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
+
 #### Amendments
+
+1998—Subsec. (a)(4). Pub. L. 105–155, §2, added par. (4).
+
+Subsec. (a)(4)(J). Pub. L. 105–155, §3(b), inserted “, of which $750,000 shall be for carrying out the grant program established under subsection (h)” after “projects and activities”.
+
+Subsec. (a)(5). Pub. L. 105–155, §2, added par. (5).
+
+Subsec. (h). Pub. L. 105–155, §3(a), added subsec. (h).
 
 1996—Subsec. (a)(3). Pub. L. 104–264, §1102, added par. (3).
 
@@ -206,7 +274,21 @@ Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” f
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Notices
+
+Pub. L. 105–155, §4, Feb. 11, 1998, 112 Stat. 6, provided that:
+
+“(a)
+
+Reprogramming.—If any funds authorized by the amendments made by this Act \[amending this section\] are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+“(b)
+
+Notice of Reorganization.—The Administrator of the Federal Aviation Administration shall provide notice to the Committees on Science, Transportation and Infrastructure, and Appropriations of the House of Representatives, and the Committees on Commerce,Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization (as determined by the Administrator) of any program of the Federal Aviation Administration for which funds are authorized by this Act.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 44508, 47108, 48104, 48108, 48109, 50101, 50102, 50103, 50105 of this title.
+
+<i><sup>1</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
 

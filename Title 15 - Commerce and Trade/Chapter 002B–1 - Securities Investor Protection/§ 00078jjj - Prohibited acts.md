@@ -44,7 +44,7 @@ It shall be unlawful for any broker or dealer for whom a trustee has been appoin
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), and (c)(1)(C), (2), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a), (b), and (c)(1)(C), (2), was in the original “this Act”, meaningPub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 &emsp;Except as provided in paragraph (2), the Secretary shall approve any new program of an enterprise for purposes of subsection (a) of this section unless—
 
-&emsp;&emsp;(A) for a new program of the Federal National Mortgage Association, the Secretary determines that the program is not authorized under paragraph (2), (3), (4), or (5) of section 1717(b) of this title, or under section 1719 of this title;
+&emsp;&emsp;(A) for a new program of the Federal National Mortgage Association, the Secretarydetermines that the program is not authorized under paragraph (2), (3), (4), or (5) of section 1717(b) of this title, or under section 1719 of this title;
 
 &emsp;&emsp;(B) for a new program of the Federal Home Loan Mortgage Corporation, the Secretary determines that the program is not authorized under section 1454(a)(1), (4), or (5) of this title; or
 
@@ -36,7 +36,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 #### (3) Failure to respond
 
-&emsp;If the Secretary fails to approve the request or fails to submit a report under paragraph (2) during the period under such paragraph, therequest shall be considered to have been approved.
+&emsp;If the Secretary fails to approve the request or fails to submit a report under paragraph (2) during the period under such paragraph, the request shall be considered to have been approved.
 
 #### (4) Review of disapproval
 

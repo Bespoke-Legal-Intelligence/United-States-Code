@@ -6,7 +6,7 @@ The Administrator shall as soon as practicable appoint a special industry commit
 
 #### (b) Appointment of committee without regard to other laws pertaining to the appointment and compensation of employees of the United States; composition of committees
 
-An industry committee shall be appointed by the Administrator without regard to any other provisions of law regarding the appointment and compensation of employees of the United States. It shall include a number of disinterested persons representing the public, one of whom the Administrator shall designate as chairman, a like number of persons representing employees in the industry, and a like number representing employers in the industry. In the appointment of the persons representing each group, the Administrator shall give due regard to the geographical regions in which the industry is carried on.
+An industry committee shall be appointed by the Administrator without regard to any other provisions of law regarding the appointment and compensation of employees of the United States. It shall include a number of disinterested persons representing the public, one of whom the Administrator shall designate as chairman, a like number of persons representing employees in the industry, and a like number representingemployers in the industry. In the appointment of the persons representing each group, the Administrator shall give due regard to the geographical regions in which the industry is carried on.
 
 #### (c) Quorum; compensation; employees
 

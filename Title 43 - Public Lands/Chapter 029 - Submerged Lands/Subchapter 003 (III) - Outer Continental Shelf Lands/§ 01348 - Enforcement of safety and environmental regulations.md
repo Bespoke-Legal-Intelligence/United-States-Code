@@ -36,11 +36,11 @@ The Secretary, or, in the case of occupational safety and health, the Secretary 
 
 In any investigation conducted pursuant to this section, the Secretary or the Secretary of the Department in which the Coast Guard is operating shall have power to summon witnesses and to require the production of books, papers, documents, and any other evidence. Attendance of witnesses or the production of books, papers, documents, or any other evidence shall be compelled by a similar process, as in the district courts of the United States. Such Secretary, or his designee, shall administer all necessary oaths to any witnesses summoned before such investigation.
 
-#### (g) Report to Congress of violations and action taken
+(Aug. 7, 1953, ch. 345, §22, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 655; amended Pub. L. 105–362, title IX, §901(<i>l</i>)(2), Nov. 10, 1998, 112 Stat. 3290.)
 
-The Secretary shall, after consultation with the Secretary of the Department in which the Coast Guard is operating, include in his annual report to the Congress required by section 1343 of this title the number of violations of safety regulations reported or alleged, any investigations undertaken, the results of such investigations, and any administrative or judicial action taken as a result of such investigations, and the results of the diving studies conducted under section 1347(e) of this title.
+#### Amendments
 
-(Aug. 7, 1953, ch. 345, §22, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 655.)
+1998—Subsec. (g). Pub. L. 105–362 struck out subsec. (g) which read as follows: “The Secretary shall, after consultation with the Secretary of the Department in which the Coast Guard is operating, include in his annual report to the Congress required by section 1343 of this title the number of violations of safety regulations reported or alleged, any investigations undertaken, the results of such investigations, and any administrative or judicial action taken as a result of such investigations, and the results of the diving studies conducted under section 1347(e) of this title.”
 
 #### Report and Recommendations by Secretary to Congress for Training Program
 

@@ -8,7 +8,7 @@
 
 (d) A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this chapter shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by the United States.
 
-(Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–620, title IV, §402(24)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–67, title I, §107, Dec. 22, 1995, 109 Stat. 758.)
+(Added Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–620, titleIV, §402(24)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–67, title I, §107, Dec. 22, 1995, 109 Stat. 758.)
 
 #### Amendments
 

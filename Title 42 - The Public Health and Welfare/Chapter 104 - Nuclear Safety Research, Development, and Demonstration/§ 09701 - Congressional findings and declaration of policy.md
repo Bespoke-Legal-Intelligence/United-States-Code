@@ -16,7 +16,7 @@
 
 &emsp;(2) to reduce the likelihood of disrupting the population in the vicinity of nuclear powerplants as the result of nuclear powerplant accidents.
 
-> Nothing in this chapter shall be construed as preventing the Secretary from undertaking projects or activities, in addition to those specified in this chapter, which appropriately further the purpose and objectives set forth in this subsection. Nothing in this chapter shall authorize the Secretary to assume responsibility for the management, cleanup or repair of any commercial nuclear powerplant. Nothing in this chapter shall be construed as limiting the authority of the Secretary under any other law.
+> Nothing in this chapter shall be construed as preventing the Secretary from undertaking projects or activities, in addition to those specified in this chapter, which appropriately furtherthe purpose and objectives set forth in this subsection. Nothing in this chapter shall authorize the Secretary to assume responsibility for the management, cleanup or repair of any commercial nuclear powerplant. Nothing in this chapter shall be construed as limiting the authority of the Secretary under any other law.
 
 (Pub. L. 96–567, §2, Dec. 22, 1980, 94 Stat. 3329.)
 

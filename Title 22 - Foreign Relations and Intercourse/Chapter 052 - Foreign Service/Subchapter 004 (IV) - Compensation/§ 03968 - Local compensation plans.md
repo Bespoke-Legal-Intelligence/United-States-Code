@@ -12,7 +12,7 @@
 
 (3)(A) Whenever a foreign national employee so elects during a one-year period established by the Secretary of State with respect to each post abroad, the Secretary of the Treasury (at the direction of the Secretary of State) shall transfer such employee's interest in the Civil Service Retirement and Disability Fund to a trust or other local retirement plan certified by the United States Government under a local compensation plan established for foreign national employees pursuant to this section (excluding local social security plans).
 
-(B) For purposes of subparagraph (A), the phrase “employee's interest in the Civil Service Retirement and Disability Fund” means the total contributions of the employee and the employing agency with respect to such employee, pursuant to sections 8331(8) and 8334(a)(1) of title 5, respectively, plus interest at the rate provided in section 8334(e)(3) of such title.
+(B) For purposes of subparagraph (A), the phrase “employee's interest in the Civil Service Retirement and Disability Fund” means thetotal contributions of the employee and the employing agency with respect to such employee, pursuant to sections 8331(8) and 8334(a)(1) of title 5, respectively, plus interest at the rate provided in section 8334(e)(3) of such title.
 
 (C) Any such transfer shall void any annuity rights or entitlement to lump-sum credit under subchapter III of chapter 83 of such title.
 

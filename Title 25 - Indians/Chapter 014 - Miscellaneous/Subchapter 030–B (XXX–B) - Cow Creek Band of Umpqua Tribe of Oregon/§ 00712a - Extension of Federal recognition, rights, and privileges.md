@@ -2,7 +2,7 @@
 
 #### (a) Federal recognition
 
-Notwithstanding any provision of the Act approved August 13, 1954 (25 U.S.C. 691 et seq.), or any other law, Federal recognition is extended to the Cow Creek Band of Umpqua Tribe of Indians. Except as otherwise provided in this subchapter, all laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians which are not inconsistent with any specific provision of this subchapter shall be applicable to the tribe.
+Notwithstanding any provision of the Act approved August 13, 1954 (25 U.S.C. 691 et seq.), or any other law, Federal recognition is extended to the Cow Creek Band of Umpqua Tribe of Indians. Except as otherwise provided in this subchapter, all laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians which are notinconsistent with any specific provision of this subchapter shall be applicable to the tribe.
 
 #### (b) Restoration of rights and privileges
 

@@ -10,7 +10,7 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(4) provide support programs which encourage youth who have dropped out to reenter school once their term has been completed or provide such youth with the skills necessary for such youth to gain employment or seek a secondary school diploma or its recognized equivalent;
 
-&emsp;(5) work to ensure such facilities are staffed with teachers and other qualified staff who are trained to work with children with disabilities and other students with special needs taking into consideration the unique needs of such children and students;
+&emsp;(5) work to ensure such facilities are staffed with teachers and other qualified staff who aretrained to work with children with disabilities and other students with special needs taking into consideration the unique needs of such children and students;
 
 &emsp;(6) ensure educational programs in correctional facilities are related to assisting students meet high educational standards;
 
@@ -18,17 +18,31 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(8) where feasible, involve parents in efforts to improve the educational achievement of their children and prevent the further involvement of such children in delinquent activities;
 
-&emsp;(9) coordinate funds received under this program with other local, State, and Federal funds available to provide services to participating youth, such as funds under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\], and vocational education funds;
+&emsp;(9) coordinate funds received under this program with other local, State, and Federal funds available to provide services to participating youth, such as funds made available under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and vocational education funds;
 
 &emsp;(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable; and
 
 &emsp;(11) if appropriate, work with local businesses to develop training and mentoring programs for participating youth.
 
-(Pub. L. 89–10, title I, §1425, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3599.)
+(Pub. L. 89–10, title I, §1425, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3599; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(18)(D), (f)(13)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431.)
+
+#### Amendment of Paragraph (9)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(13)(D), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, paragraph (9) is amended by striking “the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
 The Job Training Partnership Act, referred to in par. (9), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+
+#### Amendments
+
+1998—Par. (9). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(18)(D)\], substituted “, such as funds made available under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “, such as funds under the Job Training Partnership Act”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(18)(D)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(13)(D)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 

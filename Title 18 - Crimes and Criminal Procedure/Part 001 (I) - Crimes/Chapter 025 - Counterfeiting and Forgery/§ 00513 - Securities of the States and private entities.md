@@ -12,7 +12,7 @@
 
 &emsp;(3) the term “security” means—
 
-&emsp;&emsp;(A) a note, stock certificate, treasury stock certificate, bond, treasury bond, debenture, certificate of deposit, interest coupon, bill, check, draft, warrant, debit instrument as defined in section 916(c) of the Electronic Fund Transfer Act, money order,traveler's check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest in or participation in any profit-sharing agreement, collateral-trust certificate, pre-reorganization certificate of subscription, transferable share, investment contract, voting trust certificate, or certificate of interest in tangible or intangible property;
+&emsp;&emsp;(A) a note, stock certificate, treasury stock certificate, bond, treasury bond, debenture, certificate of deposit, interest coupon, bill, check, draft, warrant, debit instrument as defined in section 916(c) of the Electronic Fund Transfer Act, money order, traveler's check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest in or participation in any profit-sharing agreement, collateral-trust certificate, pre-reorganization certificate of subscription, transferable share, investment contract, voting trust certificate, or certificate of interest in tangible or intangible property;
 
 &emsp;&emsp;(B) an instrument evidencing ownership of goods, wares, or merchandise;
 

@@ -1,6 +1,0 @@
-### §64. Acquisition of assets and liabilities of existing corporation
-
-The Belleau Wood Memorial Association, a corporation heretofore incorporated under the laws of the District of Columbia, is authorized to transfer to the corporation created by this chapter all of its property, rights, and assets, and such corporation is authorized to receive all of such property, rights, and assets. Upon such transfer, such association shall thereby be dissolved, and such corporation shall be liable for all the obligations of, and claims against, such association, and all of such obligations and claims may be enforced against the corporation.
-
-(Mar. 3, 1923, ch. 228, §4, 42 Stat. 1441.)
-

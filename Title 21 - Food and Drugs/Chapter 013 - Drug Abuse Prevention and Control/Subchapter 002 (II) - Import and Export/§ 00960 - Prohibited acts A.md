@@ -38,7 +38,7 @@ Any person who—
 
 &emsp;(G) 1000 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
 
-&emsp;(H) 100 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 1 kilogram or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.<sup>1</sup>
+&emsp;(H) 50 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.<sup>1</sup>
 
 > the person committing such violation shall be sentenced to a term of imprisonment of not less than 10 years and not more than life and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than 20 years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $8,000,000 if the defendant is an individual or $20,000,000 if the defendant is other than an individual, or both. Any sentence under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
 
@@ -54,7 +54,7 @@ Any person who—
 
 &emsp;&emsp;(iii) ecgonine, its derivatives, their salts, isomers, and salts of isomers; or
 
-&emsp;&emsp;(iv) any compound, mixture, or preparation which contains any quantity of any of the substances referred to in clauses (i) through (iii);
+&emsp;&emsp;(iv) any compound, mixture, or preparation which contains any quantity of any ofthe substances referred to in clauses (i) through (iii);
 
 &emsp;(C) 5 grams or more of a mixture or substance described in subparagraph (B) which contains cocaine base;
 
@@ -66,13 +66,13 @@ Any person who—
 
 &emsp;(G) 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
 
-&emsp;(H) 10 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 100 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.<sup>2</sup>
+&emsp;(H) 5 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 50 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.<sup>2</sup>
 
 > the person committing such violation shall be sentenced to a term of imprisonment of not less than 5 years and not more than 40 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 10 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Any sentence imposed under this paragraph shall, in the absence of such a prior conviction, include a term of supervised release of at least 4 years in addition to such term of imprisonment and shall, if there was such a prior conviction, include a term of supervised release of at least 8 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
 
 (3) In the case of a violation under subsection (a) of this section involving a controlled substance in schedule I or II, or flunitrazepam, the person committing such violation shall, except as provided in paragraphs (1), (2), and (4), be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than twenty years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 30 years and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results, nor shall a person so sentenced be eligible for parole during the term of such a sentence.
 
-(4) In the case of a violation under subsection (a) of this section with respect to less than 50 kilograms of marihuana, except in the case of 100 or more marihuana plants regardless of weight, less than 10 kilograms of hashish, less than one kilogram of hashish oil, or any quantity of a controlled substance in schedule III, IV, or V,<sup>3</sup> (except a violation involving flunitrazepam) the person committing such violation shall be imprisoned not more than five years, or be fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall, in addition to such term of imprisonment, include (A) a term of supervised release of not less than two years if such controlled substance is in schedule I, II, III, or (B) a term ofsupervised release of not less than one year if such controlled substance is in schedule IV.
+(4) In the case of a violation under subsection (a) of this section with respect to less than 50 kilograms of marihuana, except in the case of 100 or more marihuana plants regardless of weight, less than 10 kilograms of hashish, less than one kilogram of hashish oil, or any quantity of a controlled substance in schedule III, IV, or V,<sup>3</sup> (except a violation involving flunitrazepam) the person committing such violation shall be imprisoned not more than five years, or be fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall, in addition to such term of imprisonment, include (A) a term of supervised release of not less than two years if such controlled substance is in schedule I, II, III, or (B) a term of supervised release of not less than one year if such controlled substance is in schedule IV.
 
 #### (c) Repealed. Pub. L. 98–473, title II, §225, formerly §225(a), Oct. 12, 1984, 98 Stat. 2030, as amended by Pub. L. 99–570, title I, §1005(c), Oct. 27, 1986, 100 Stat. 3207–6
 
@@ -80,7 +80,7 @@ Any person who—
 
 A person who knowingly or intentionally—
 
-&emsp;(1) imports or exports a listed chemical with intent to manufacture a controlled substance in violation of this subchapter or subchapter I of this chapter;
+&emsp;(1) imports or exports a listed chemical with intent to manufacture a controlled substancein violation of this subchapter or subchapter I of this chapter;
 
 &emsp;(2) exports a listed chemical in violation of the laws of the country to which the chemical is exported or serves as a broker or trader for an international transaction involving a listed chemical, if the transaction is in violation of the laws of the country to which the chemical is exported;
 
@@ -96,13 +96,17 @@ A person who knowingly or intentionally—
 
 > shall be fined in accordance with title 18, imprisoned not more than 20 years in the case of a violation of paragraph (1) or (3) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (3) involving a list I chemical, or both.
 
-(Pub. L. 91–513, title III, §1010, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§225, formerly §225(a), 504, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§1004(a), 1005(c), 1302, 1866(e), Oct. 27, 1986, 100 Stat. 3207–6, 3207–15, 3207–55; Pub. L. 100–690, title VI, §§6053(c), 6475, Nov. 18, 1988, 102 Stat. 4315, 4380; Pub. L. 101–647, title XII, §1204, title XXXV, §3599J, Nov. 29, 1990, 104 Stat. 4830, 4932; Pub. L. 103–200, §§4(b), 5(b), Dec. 17, 1993, 107 Stat. 2338, 2339; Pub. L. 103–322, title IX, §90105(a), title XXXIII, §330024(d)(2), Sept. 13, 1994, 108 Stat. 1987, 2151; Pub. L. 104–237, title I, §102(c), title III, §302(b), Oct. 3, 1996, 110 Stat. 3100, 3105; Pub. L. 104–305, §2(b)(2)(B), (C), Oct. 13, 1996, 110 Stat. 3807.)
+(Pub. L. 91–513, title III, §1010, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§225, formerly §225(a), 504, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§1004(a), 1005(c), 1302, 1866(e), Oct. 27, 1986, 100 Stat. 3207–6, 3207–15, 3207–55; Pub. L. 100–690, title VI, §§6053(c), 6475, Nov. 18, 1988, 102 Stat. 4315, 4380; Pub. L. 101–647, title XII, §1204, title XXXV, §3599J, Nov. 29, 1990, 104 Stat. 4830, 4932; Pub. L. 103–200, §§4(b), 5(b), Dec. 17, 1993, 107 Stat. 2338, 2339; Pub. L. 103–322, title IX, §90105(a), title XXXIII, §330024(d)(2), Sept. 13, 1994, 108 Stat. 1987, 2151; Pub. L. 104–237, title I, §102(c), title III, §302(b), Oct. 3, 1996, 110 Stat. 3100, 3105; Pub. L. 104–305, §2(b)(2)(B), (C), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, §2(b), Oct. 21, 1998, 112 Stat. 2681–759.)
 
 #### References in Text
 
 Schedules I, II, III, IV, and V, referred to in subsec. (b), are set out in section 812(c) of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(H). Pub. L. 105–277, §2(b)(1), substituted “50 grams” and “500 grams” for “100 grams” and “1 kilogram”, respectively.
+
+Subsec. (b)(2)(H). Pub. L. 105–277, §2(b)(2), substituted “5 grams” and “50 grams” for “10 grams” and “100 grams”, respectively.
 
 1996—Subsec. (b)(3). Pub. L. 104–305, §2(b)(2)(B), inserted “or flunitrazepam,” after “schedule I or II,”.
 
@@ -204,7 +208,7 @@ Amendment by section 225 of Pub. L. 98–473 effective Nov. 1, 1987, and applica
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 848, 962 of this title; title 5 section 3113; title 18 sections 36, 3553, 3559, 5032; title 28 section 994; title 46 App. section 1903.
+This section is referred to in sections 848, 962, 1710 of this title; title 5 section 3113; title 18 sections 36, 3553, 3559, 5032; title 28 section 994; title 46 App. section 1903.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

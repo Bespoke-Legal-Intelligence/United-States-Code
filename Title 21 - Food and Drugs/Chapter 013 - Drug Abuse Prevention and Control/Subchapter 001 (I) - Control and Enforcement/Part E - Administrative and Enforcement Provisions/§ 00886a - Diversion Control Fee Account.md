@@ -10,11 +10,13 @@ There is established in the general fund of the Treasury a separate account whic
 
 &emsp;(4) The amount required to be refunded from the Diversion Control Fee Account for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate fifteen days in advance.
 
-&emsp;(5) The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
-
-(Pub. L. 102–395, title I, §111(b), Oct. 6, 1992, 106 Stat. 1843.)
+(Pub. L. 102–395, title I, §111(b), Oct. 6, 1992, 106 Stat. 1843; Pub. L. 105–362, title X, §1001(b), Nov. 10, 1998, 112 Stat. 3291.)
 
 #### Codification
 
 Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+#### Amendments
+
+1998—Par. (5). Pub. L. 105–362 struck out par. (5) which read as follows: “The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.”
 

@@ -10,7 +10,7 @@ As used in this subchapter—
 
 &emsp;(4) the term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
 
-(Pub. L. 89–73, title V, §507, formerly title IX, §907, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 724; renumbered title V, §507, and amended Pub. L. 95–478, title I, §105(a), (f), Oct. 18, 1978, 92 Stat. 1547, 1548; Pub. L. 97–115, §12(a)(3), (f), Dec. 29, 1981, 95 Stat. 1606, 1607; Pub. L. 98–459, title V, §503(c), Oct. 9, 1984, 98 Stat. 1787; Pub. L. 100–175, title I, §§164, 182(b)(4), (p), Nov. 29, 1987, 101 Stat. 958, 964, 967; Pub. L. 100–628, title VII, §705(9), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(8), title V, §504(c)(1), Sept. 30, 1992, 106 Stat. 1201, 1269.)
+(Pub. L. 89–73, title V, §507, formerly title IX, §907, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 724; renumbered title V, §507, and amended Pub. L. 95–478, title I, §105(a), (f), Oct. 18, 1978, 92 Stat. 1547, 1548; Pub. L. 97–115, §12(a)(3), (f), Dec. 29, 1981, 95 Stat. 1606, 1607; Pub. L. 98–459, title V, §503(c), Oct. 9, 1984, 98 Stat. 1787; Pub. L. 100–175, title I, §§164, 182(b)(4), (p),Nov. 29, 1987, 101 Stat. 958, 964, 967; Pub. L. 100–628, title VII, §705(9), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(8), title V, §504(c)(1), Sept. 30, 1992, 106 Stat. 1201, 1269.)
 
 #### Prior Provisions
 

@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;(8) the term “ivory quota” means a quota submitted by an ivory producing country to the CITES Secretariat in accordance with the CITES Ivory Control System;
 
-&emsp;(9) the term “personal effects” means articles which are not intended for sale and are part of a shipment of the household effects of a person who is moving his or her residence to or from the United States, or are included in personal accompanying baggage;
+&emsp;(9) the term “personal effects” means articles which are not intended for sale and arepart of a shipment of the household effects of a person who is moving his or her residence to or from the United States, or are included in personal accompanying baggage;
 
 &emsp;(10) the term “raw ivory” means any African elephant tusk, and any piece thereof, the surface of which, polished or unpolished, is unaltered or minimally carved;
 

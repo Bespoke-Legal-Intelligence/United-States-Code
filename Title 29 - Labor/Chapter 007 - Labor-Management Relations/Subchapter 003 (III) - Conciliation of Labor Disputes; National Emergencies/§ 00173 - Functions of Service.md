@@ -14,7 +14,7 @@ If the Director is not able to bring the parties to agreement by conciliation wi
 
 #### (d) Use of conciliation and mediation services as last resort
 
-Final adjustment by a method agreed upon by the parties is declared to be the desirable method for settlement of grievance disputes arising over the application or interpretation of an existing collective-bargaining agreement. The Service is directed to make its conciliation andmediation services available in the settlement of such grievance disputes only as a last resort and in exceptional cases.
+Final adjustment by a method agreed upon by the parties is declared to be the desirable method for settlement of grievance disputes arising over the application or interpretation of an existing collective-bargaining agreement. The Service is directed to make its conciliation and mediation services available in the settlement of such grievance disputes only as a last resort and in exceptional cases.
 
 #### (e) Encouragement and support of establishment and operation of joint labor management activities conducted by committees
 

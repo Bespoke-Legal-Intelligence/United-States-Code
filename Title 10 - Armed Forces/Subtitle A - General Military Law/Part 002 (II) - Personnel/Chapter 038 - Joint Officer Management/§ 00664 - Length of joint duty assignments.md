@@ -134,7 +134,7 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 (5) Officers for whom joint duty credit is granted pursuant to this subsection may not be taken into account for the purposes of any of the following provisions of this title: section 661(d)(1), section 662(a)(3), section 662(b), subsection (a) of this section, and paragraphs (7), (8), (9), (11), and (12) of section 667.
 
-(6) In the case of an officer credited with having completed a full tour of duty in a joint duty assignment pursuant to this subsection, the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of this title that the tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section. The provisions of subparagraphs (C) and (D) of section 661(c)(3) of thistitle shall apply to such a waiver in the same manner as to a waiver under subparagraph (A) of that section.
+(6) In the case of an officer credited with having completed a full tour of duty in a joint duty assignment pursuant to this subsection, the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of this title that the tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section. The provisions of subparagraphs (C) and (D) of section 661(c)(3) of this title shall apply to such a waiver in the same manner as to a waiver under subparagraph (A) of that section.
 
 (Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292.)
 
@@ -234,7 +234,7 @@ Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as am
 
 “(a)
 
-Authority To Give Joint Duty Credit.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, may give an officer who has completed service described in paragraph (2) credit for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of title 10, United States Code, notwithstanding the length of such serviceor whether that service is within the definition of ‘joint duty assignment’ in section 668 of title 10, United States Code.
+Authority To Give Joint Duty Credit.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, may give an officer who has completed service described in paragraph (2) credit for having completed a full tour of duty in a joint duty assignment, or credit countable for determining cumulative service in joint duty assignments, for the purposes of any provision of title 10, United States Code, notwithstanding the length of such service or whether that service is within the definition of ‘joint duty assignment’ in section 668 of title 10, United States Code.
 
 “(2) Service referred to in paragraph (1) is service performed by an officer, any portion of which took place during the period beginning on August 2, 1990, and ending on February 28, 1991, in an assignment in the Persian Gulf combat zone that (as determined by the Secretary of Defense) provided significant experience in joint matters.
 

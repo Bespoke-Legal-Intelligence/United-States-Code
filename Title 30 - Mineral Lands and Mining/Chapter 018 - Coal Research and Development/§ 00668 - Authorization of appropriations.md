@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 #### (b) Fiscal years beginning after June 30, 1961
 
-There are hereby authorized to be appropriated for each fiscal year beginning after June 30, 1961, such sums as may be necessary to carry out the purposes of this chapter.
+There are hereby authorized to be appropriated for each fiscal year beginning after June30, 1961, such sums as may be necessary to carry out the purposes of this chapter.
 
 #### (c) Availability of sums
 

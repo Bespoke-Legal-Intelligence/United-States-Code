@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on September 30, 1999, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 1999, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 (b)
 
@@ -16,7 +16,7 @@ Covered Officers.—An aviation officer referred to in subsection (a) is an offi
 
 &emsp;(4) is qualified to perform operational flying duty;
 
-&emsp;(5) has completed at least six but less than 13 years of active duty; and
+&emsp;(5) has completed at least six but less than 13 years of aviation service; and
 
 &emsp;(6) has completed any active duty service commitment incurred for undergraduate aviator training.
 
@@ -66,17 +66,27 @@ Reports.—(1) Not later than February 15 of each year, the Secretaries concerne
 
 Definitions.—In this section:
 
-&emsp;(1) The term “aviation service” means the service performed by an officer holding an aeronautical rating or designation (except a flight surgeon or other medical officer).
+&emsp;(1) The term “aviation service” means service performed by an officer (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
 &emsp;(2) The term “aviation specialty” means a specific community of pilots identified by type of aircraft or weapon system or a specific community of other designated aeronautical officers so identified.
 
 &emsp;(3) The term “critical aviation specialty” means an aviation specialty in which there exists a shortage of officers on the date of designation under subsection (b).
 
-&emsp;(4) The term “operational flying duty” has the meaning given such term in section 301a(a)(6)(A) of this title.
+&emsp;(4) The term “operational flying duty” has the meaning given such term in section 301a(a)(6)(A) <sup>1</sup> of this title.
 
-(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div. A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29, 1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X, §1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(a), title XV, §1502(b), Feb. 10, 1996, 110 Stat. 359, 506; Pub. L. 104–201, div. A, title VI, §613(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(a), 616(a)–(d), Nov. 18, 1997, 111 Stat. 1786, 1787.)
+(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div. A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29,1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X, §1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(a), title XV, §1502(b), Feb. 10, 1996, 110 Stat. 359, 506; Pub. L. 104–201, div. A, title VI, §613(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(a), 616(a)–(d), Nov. 18, 1997, 111 Stat. 1786, 1787; Pub. L. 105–261, div. A, title VI, §§613(a), 615(a)(2), (c)(2), Oct. 17, 1998, 112 Stat. 2039–2041.)
+
+#### References in Text
+
+Section 301a(a)(6)(A) of this title, referred to in subsec. (j)(4), was redesignated section 301a(a)(6)(B) by Pub. L. 105–261, div. A, title VI, §615(a)(1)(A), Oct. 17, 1998, 112 Stat. 2040.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261, §613(a), substituted “December 31, 1999,” for “September 30, 1999,”.
+
+Subsec. (b)(5). Pub. L. 105–261, §615(c)(2), substituted “aviation service” for “active duty”.
+
+Subsec. (j)(1). Pub. L. 105–261, §615(a)(2), added par. (1) and struck out former par. (1) which read as follows: “The term ‘aviation service’ means the service performed by an officer holding an aeronautical rating or designation (except a flight surgeon or other medical officer).”
 
 1997—Subsec. (a). Pub. L. 105–85, §613(a), substituted “September 30, 1999” for “September 30, 1998”.
 
@@ -144,6 +154,10 @@ Subsec. (f). Pub. L. 98–94, §904(a)(2), substituted “September 30, 1984” 
 
 1981—Subsecs. (e), (f). Pub. L. 97–60 added subsecs. (e) and (f).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1997 Amendment
 
 Section 616(e) of Pub. L. 105–85 provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 1996, and shall apply with respect to agreements accepted under section 301b of title 37, United States Code, on or after that date.”
@@ -174,11 +188,11 @@ Section 806(b) of Pub. L. 96–342 provided that: “Agreements may not be enter
 
 #### Payment of Bonus to Aviation Officers Killed in Persian Gulf War Before Completion of Service
 
-Pub. L. 102–172, title VIII, §8135, Nov. 26, 1991, 105 Stat. 1212, provided that:
+Pub. L. 102–172, title VIII, §8135, Nov. 26, 1991, 105 Stat. 1212, as amended by Pub. L. 105–277, div. C, title I, §148, Oct. 21, 1998, 105 Stat. 2681–610, provided that:
 
-“(a) Notwithstanding any provision of section 301b of title 37, United States Code, \[or\] of section 611 of Public Law 100–456 \[set out below\] as in effect at any time prior to the date of enactment of this Act \[Nov. 26, 1991\], in the case of any officer described in subsection (b), who was entitled to special pay under an agreement authorized by one of those sections, who was not paid the full amount due under such agreement, the unpaid balance shall be paid as part of the settlement of the officer's final military pay account.
+“(a) Notwithstanding any provision of section 301b of title 37, United States Code, \[or\] of section 611 of Public Law 100–456 \[set out below\] as in effect at any time prior to the date of enactment of this Act \[Nov. 26, 1991\], in the case of any officer described in subsection (b), who was entitled to special pay under an agreement authorized by one of those sections, who was not paid the full amount due under such agreement, the unpaid balance shall be paid as part of the settlement of the officer's final military pay account or as a supplemental payment if the officer's final military pay account is already settled.
 
-“(b) An officer to whom subsection (a) \[applies\] is an aviation officer who died as a result of flight operations on or after January 17, 1991, in those areas of the Arabian Peninsula, airspace, and adjacent waters designated by the President in Executive Order 12744 on 21 January 1991 \[26 U.S.C. 112 note\] as a combat zone and prior to cessation of hostilities as declared by competent authority, before completing the full period of aviation service agreed to in his or her agreement to remain on active duty in aviation service under section 302b \[301b\] of title 37, United States Code, or section 611 of Public Law 100–456 \[set out below\].”
+“(b) An officer to whom subsection (a) applies is an aviation officer who died as a result of flight operations on or after August 2, 1990, in those areas of the Arabian Peninsula, airspace, and adjacent waters designated by the President in Executive Order 12744 on 21 January 1991 \[26 U.S.C. 112 note\] as a combat zone (regardless of the date of the commencement of combatant activities in such zone as specified in that Executive Order) and prior to cessation of hostilities as declared by competent authority, before completing the full period of aviation service agreed to in his or her agreement to remain on active duty in aviation service under section 301b of title 37, United States Code, or section 611 of Public Law 100–456 \[set out below\].”
 
 #### Agreements Entered Into Under Former Law
 
@@ -210,7 +224,7 @@ Section 613(i) of Pub. L. 103–160 provided that:
 
 Section 612(j)(2) of Pub. L. 102–484 provided that:
 
-“(A) In the case of a person described in subparagraph (B) who executes an agreement described in subparagraph (C) during the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary concerned may treat such agreement for purposes of the bonus or special pay authorized under such agreement as having been executed and accepted on the first date on which the person would have qualified for such an agreement had the amendments made by this section \[amending this section and sections 302d, 302e, 308 to 308e, 308h, and 308i of this title and sections 2130a and 2172 \[now 16302\] of Title 10, Armed Forces\] taken effect on October 1, 1992.
+“(A) In the case of a person described in subparagraph (B) who executes an agreement described in subparagraph (C) during the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary concerned may treat such agreement for purposes of the bonus or special pay authorized under suchagreement as having been executed and accepted on the first date on which the person would have qualified for such an agreement had the amendments made by this section \[amending this section and sections 302d, 302e, 308 to 308e, 308h, and 308i of this title and sections 2130a and 2172 \[now 16302\] of Title 10, Armed Forces\] taken effect on October 1, 1992.
 
 “(B) A person referred to in subparagraph (A) is a person who, during the period beginning on October 1, 1992, and ending on the date of the enactment of this Act, would have qualified for an agreement described in subparagraph (C) with the Secretary concerned had the amendments made by this section taken effect on October 1, 1992.
 
@@ -253,4 +267,6 @@ Section 904(b) of Pub. L. 98–94 provided that:
 &emsp;“(C) an explanation and justification for the Secretary's designation of an aviation specialty as ‘critical’ and for the payment of special pay under section 301b of such title to officers who have more than eight years of prior active service and who are serving in pay grade O–4 or above, if payment of such pay was made to such officers; and
 
 &emsp;“(D) an evaluation of the progress made since the date of the enactment of this Act toward eliminating shortages of aviators in the aviation specialties designated by the Secretary as critical.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

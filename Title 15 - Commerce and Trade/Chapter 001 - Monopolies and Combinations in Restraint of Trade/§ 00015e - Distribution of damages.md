@@ -8,7 +8,7 @@ Monetary relief recovered in an action under section 15c(a)(1) of this title sha
 
 > subject in either case to the requirement that any distribution procedure adopted afford each person a reasonable opportunity to secure his appropriate portion of the net monetary relief.
 
-(Oct. 15, 1914, ch. 323, §4E, as added Sept. 30, 1976, Pub. L. 94–435, title III, §301, 90 Stat. 1395.)
+(Oct. 15, 1914, ch. 323, §4E, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1395.)
 
 #### Effective Date
 

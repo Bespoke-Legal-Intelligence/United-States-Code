@@ -1,0 +1,36 @@
+### §140709. Records and inspection
+
+(a)
+
+Records.—The corporation shall keep—
+
+&emsp;(1) correct and complete records of account;
+
+&emsp;(2) minutes of the proceedings of its members, board of directors, and committees having any of the authority of its board of directors; and
+
+&emsp;(3) at its principal office, a record of the names and addresses of its members entitled to vote.
+
+(b)
+
+Inspection.—A member entitled to vote, or an agent or attorney of the member, may inspect the records of the corporation for any proper purpose, at any reasonable time.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1385.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+140709
+
+36:5011.
+
+Oct. 23, 1992, Pub. L. 102–484, title XVIII, §1811, 106 Stat. 2583.
+
+The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
+

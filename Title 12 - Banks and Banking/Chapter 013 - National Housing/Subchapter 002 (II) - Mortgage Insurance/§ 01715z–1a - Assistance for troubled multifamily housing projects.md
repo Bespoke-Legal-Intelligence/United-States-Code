@@ -16,7 +16,7 @@ A rental or cooperative housing project is eligible for assistance under this se
 
 &emsp;(B) is assisted under section 23 of the United States Housing Act of 1937 \[42 U.S.C. 1421b\], as in effect immediately before January 1, 1975, section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] following conversion to such assistance from assistance under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] or section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\]; or
 
-&emsp;(C) met the criteria specified in subparagraph (A) of this paragraph before the acquisition of such project by the Secretary and has been sold by the Secretary, subject to a mortgage insured or held by the Secretary and subject to an agreement (in effect during the period of assistance under this section) which provides that the low- and moderate-income character of the project will be maintained; except that, with respect to projects sold after October 1, 1978, assistance shall be available for a period not to exceed three years; and
+&emsp;(C) met the criteria specified in subparagraph (A) of this paragraph before the acquisition of such project by the Secretary and has been sold by the Secretary, subject to a mortgage insured or held by the Secretary and subject to an agreement (in effect during the period of assistance under this section) whichprovides that the low- and moderate-income character of the project will be maintained; except that, with respect to projects sold after October 1, 1978, assistance shall be available for a period not to exceed three years; and
 
 &emsp;(2) meets such other requirements consistent with the purposes of this section as the Secretary may prescribe.
 
@@ -78,7 +78,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 > except that—
 
-&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance programin which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is less than 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
+&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance program in which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is less than 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
 
 &emsp;(F) in computing the estimated amount of rent to be expended by tenants and the estimated amount of rental assistance payments to be made on behalf of such tenants, the Secretary may permit a delinquency-and-vacancy allowance of not more than 6 per centum of the estimated amount of such rent and payments computed without regard to such allowance; except that, with respect to the first three years in which assistance is provided to a project under this section, the Secretary may permit such allowance for such project to exceed such 6 percent by an amount which the Secretary determines is appropriate to carry out the purposes of this section.
 
@@ -102,7 +102,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 (1) For purposes of carrying out the provisions of this section, there is hereby established in the Treasury of the United States a revolving fund, to be known as the Flexible Subsidy Fund. The Fund shall, to the extent approved in appropriation Acts, be available to the Secretary to provide assistance under this section (including assistance for capital improvements) and shall not (except as provided in Public Law 100–4–4 <sup>1</sup> (102 Stat. 1018), as in effect on October 1, 1988) be available for any other purpose.
 
-(2) The Fund shall consist of (A) any amount appropriated to carry out the purposes of this section; (B) any amount repaid on any assistance provided under this section; (C) any amounts credited to the reserve fund described in section 236(g) of the National Housing Act \[12 U.S.C. 1715z–1(g)\]; (D) any other amount received by the Secretary under this section (including any amount realized under paragraph (3)),<sup>2</sup> and (E) any amount received by the Secretary pursuant to section 537 of the National Housing Act \[12 U.S.C. 1735f–15\] and section 202a of the Housing Act of 1959 \[12 U.S.C. 1701q–1\].
+(2) The Fund shall consist of (A) any amount appropriated to carry out the purposes of thissection; (B) any amount repaid on any assistance provided under this section; (C) any amounts credited to the reserve fund described in section 236(g) of the National Housing Act \[12 U.S.C. 1715z–1(g)\]; (D) any other amount received by the Secretary under this section (including any amount realized under paragraph (3)),<sup>2</sup> and (E) any amount received by the Secretary pursuant to section 537 of the National Housing Act \[12 U.S.C. 1735f–15\] and section 202a of the Housing Act of 1959 \[12 U.S.C. 1701q–1\].
 
 (3) Any amounts in the Fund determined by the Secretary to be in excess of the amounts currently required to carry out the provisions of this section shall be invested by the Secretary in obligations of, or obligations guaranteed as to both principal and interest by, the United States or any agency of the United States.
 
@@ -138,7 +138,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 (C) Each loan for capital improvements provided under this section shall be considered to be a liability of the project involved, and shall not be dischargeable in any bankruptcy proceeding under section 727, 1141, or 1328(b) of title 11.
 
-(D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term “remaining useful life” means, with respect to housing assisted under this section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
+(D) The Secretary may establish such additional conditions on loans provided under this section as the Secretary determines to be appropriate. The Secretary may require owners receiving assistance for capital improvements under this section to retain the housing as housing affordable for very low-income families or persons, low-income families or persons and moderate-income families or persons for the remaining useful life of the housing. For purposes of this section, the term “remaining useful life” means, with respect to housing assisted underthis section, the period during which the physical characteristics of the housing remain in a condition suitable for occupancy, assuming normal maintenance and repairs are made and major systems and capital components are replaced as becomes necessary.
 
 (E) The Secretary may provide more than one loan or assistance in any other form to any project under this section, if each loan or other assistance complies with the provisions of this section.
 
@@ -148,7 +148,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 (2) In order to minimize any increases in rental payments that may occur as a result of the debt service and other expenses of a loan for capital improvements provided under this section for a project and that would be incurred by lower income residents of the project involved whose rental payments are, or would as a result of such expenses be, in excess of the amount allowable if section 3(a) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)\] were applicable to such residents, or where appropriate to implement a plan of action under subtitle B of the Emergency Low Income Housing Preservation Act of 1987, the Secretary may take any or all of the following actions:
 
-&emsp;(A) Provide assistance with respect to such project under section 8(b)(1) of the United States Housing Act of 1937 \[42 U.S.C.1437f(b)(1)\], to the extent amounts are available for such assistance and without regard to section 16 of such Act \[42 U.S.C. 1437n\].
+&emsp;(A) Provide assistance with respect to such project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], to the extent amounts are available for such assistance and without regard to section 16 of such Act \[42 U.S.C. 1437n\].
 
 &emsp;(B) Notwithstanding subsection (<i>l</i>)(2)(B) of this section, reduce the rate of interest charged on such loan to a rate of not less than 1 percent.
 
@@ -198,7 +198,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 The Secretary shall coordinate the allocation of assistance under this section with assistance made available under section 8(v) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(v)\] and section 1701z–11 of this title to enhance the cost effectiveness of the Federal response to troubled multifamily housing.
 
-(Pub. L. 95–557, title II, §201, Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title II, §§205(a), 211(c), Dec. 21, 1979, 93 Stat. 1108, 1110; Pub. L. 96–399, title II, §204(a), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §§321(f)(1), (2), 329C, Aug. 13, 1981, 95 Stat. 399, 400, 409; Pub. L. 98–181, title II, §217(a), (b), Nov. 30, 1983, 97 Stat. 1186; Pub. L. 98–479, title II, §204(n)(1), (2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–242, title I, §§185, 186(b), Feb. 5, 1988, 101 Stat. 1873, 1877; Pub. L. 100–628, title X, §1011(a), Nov. 7, 1988, 102 Stat. 3268; Pub. L. 101–235, title I, §109(c), title II, §203(a)(2), Dec. 15, 1989, 103 Stat. 2011, 2037; Pub. L. 101–625, title V, §578(b), (c), Nov. 28, 1990, 104 Stat. 4244, 4245; Pub. L. 102–550, title IV, §§405, 406, 408(a), Oct. 28, 1992, 106 Stat. 3776, 3778; Pub. L. 103–233, title I, §103(b), Apr. 11, 1994, 108 Stat. 359.)
+(Pub. L. 95–557, title II, §201, Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title II, §§205(a), 211(c), Dec. 21, 1979, 93 Stat. 1108, 1110; Pub. L. 96–399, title II, §204(a), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §§321(f)(1), (2), 329C, Aug. 13, 1981, 95 Stat. 399, 400, 409; Pub. L. 98–181, title II, §217(a), (b), Nov. 30, 1983, 97 Stat. 1186; Pub. L.98–479, title II, §204(n)(1), (2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–242, title I, §§185, 186(b), Feb. 5, 1988, 101 Stat. 1873, 1877; Pub. L. 100–628, title X, §1011(a), Nov. 7, 1988, 102 Stat. 3268; Pub. L. 101–235, title I, §109(c), title II, §203(a)(2), Dec. 15, 1989, 103 Stat. 2011, 2037; Pub. L. 101–625, title V, §578(b), (c), Nov. 28, 1990, 104 Stat. 4244, 4245; Pub. L. 102–550, title IV, §§405, 406, 408(a), Oct. 28, 1992, 106 Stat. 3776, 3778; Pub. L. 103–233, title I, §103(b), Apr. 11, 1994, 108 Stat. 359; Pub. L. 105–276, title V, §550(g), Oct. 21, 1998, 112 Stat. 2610.)
 
 #### References in Text
 
@@ -210,7 +210,7 @@ The Housing Act of 1959, referred to in subsec. (a), is Pub. L. 86–372, Sept. 
 
 The Housing and Urban Development Act of 1965, as amended, referred to in subsecs. (a), (c)(1)(A), (B), and (h), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451, as amended. Section 101 of the Act enacted section 1701s of this title and amended sections 1451 and 1465 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1965 Amendment note set out under section 1701 of this title and Tables.
 
-Section 23 of the United States Housing Act of 1937, referred to in subsec. (c)(1)(B), was classified to section 1421b of Title 42 and was omitted in the general revisionof the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
+Section 23 of the United States Housing Act of 1937, referred to in subsec. (c)(1)(B), was classified to section 1421b of Title 42 and was omitted in the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
 Public Law 100–4–4 (102 Stat. 1018), referred to in subsec. (j)(1), probably means Pub. L. 100–404, Aug. 19, 1988, 102 Stat. 1014, known as the Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1989. Provisions appearing on 102 Stat. 1018 of Pub. L. 100–404 relating to transfer of funds from the “Flexible subsidy fund” for carrying out community development grants programs are not classified to the Code.
 
@@ -225,6 +225,8 @@ Another subsec. (k) of section 201 of Pub. L. 95–557 amended section 1715z–1
 Section was enacted as part of the Housing and Community Development Amendments of 1978, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (m)(2)(A). Pub. L. 105–276 substituted “section 8” for “section 8(b)(1)”.
 
 1994—Subsec. (i). Pub. L. 103–233, §103(b)(1), struck out subsec. (i) which read as follows: “Notwithstanding any other provision of law, in exercising any authority relating to the approval or disapproval of rentals charged tenants residing in projects which are eligible for assistance under this section, the Secretary—
 
@@ -359,6 +361,10 @@ Subsec. (j). Pub. L. 97–35, §321(f)(1), (2)(A), redesignated former subsec. (
 1979—Subsec. (d)(1). Pub. L. 96–153, §211(c), inserted requirement that the owner agree to maintain the low- and moderate-income character of such project for a period at least equal to the remaining term of the project mortgage.
 
 Subsec. (h). Pub. L. 96–153, §205(a), authorized appropriations for fiscal year 1980.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -540,7 +546,7 @@ Review.—The Secretary shall annually conduct a comprehensive review of—
 
 &emsp;“(2)
 
-Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described in section 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
+Report.—The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described insection 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
 
 #### Funding of Multifamily Housing Projects; Operating, Capital Improvement and Loan Management Assistance; Amounts
 

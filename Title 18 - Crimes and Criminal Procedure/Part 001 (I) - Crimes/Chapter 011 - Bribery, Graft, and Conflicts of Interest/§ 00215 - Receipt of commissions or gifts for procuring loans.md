@@ -6,15 +6,15 @@
 
 &emsp;(2) as an officer, director, employee, agent, or attorney of a financial institution, corruptly solicits or demands for the benefit of any person, or corruptly accepts or agrees to accept, anything of value from any person, intending to be influenced or rewarded in connection with any business or transaction of such institution;
 
-> shall be fined not more than $1,000,000 or three times the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted, whichever is greater, or imprisoned not more than 30 years, or both, but if the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted does not exceed $1,000, shall be fined under this title or imprisoned not more than one year, or both.
+> shall be fined not more than $1,000,000 or three times the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted, whichever is greater, or imprisoned not more than 30 years, or both, but if the value of the thing given, offered, promised, solicited, demanded, accepted, or agreed to be accepted does not exceed $1,000, shall be finedunder this title or imprisoned not more than one year, or both.
 
 \[(b) Transferred\]
 
 (c) This section shall not apply to bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in the usual course of business.
 
-(d) Federal agencies with responsibility for regulating a financial institution shall jointlyestablish such guidelines as are appropriate to assist an officer, director, employee, agent, or attorney of a financial institution to comply with this section. Such agencies shall make such guidelines available to the public.
+(d) Federal agencies with responsibility for regulating a financial institution shall jointly establish such guidelines as are appropriate to assist an officer, director, employee, agent, or attorney of a financial institution to comply with this section. Such agencies shall make such guidelines available to the public.
 
-(June 25, 1948, ch. 645, 62 Stat. 695, §215, formerly §220; Sept. 21, 1950, ch. 967, §4, 64 Stat. 894; renumbered §215, Oct. 23, 1962, Pub. L. 87–849, §1(d), 76 Stat. 1125; Oct. 12, 1984, Pub. L. 98–473, title II, §1107(a), 98 Stat. 2145; Aug. 4, 1986, Pub. L. 99–370, §2, 100 Stat. 779; Aug. 9, 1989, Pub. L. 101–73, title IX, §§961(a), 962(e)(1), 103 Stat. 499, 503; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2504(a), 104 Stat. 4861; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 695, §215, formerly §220; Sept. 21, 1950, ch. 967, §4, 64 Stat. 894; renumbered §215, Pub. L. 87–849, §1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 98–473, title II, §1107(a), Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–370, §2, Aug. 4, 1986, 100 Stat. 779; Pub. L. 101–73, title IX, §§961(a), 962(e)(1), Aug. 9, 1989, 103 Stat. 499, 503; Pub. L. 101–647, title XXV, §2504(a), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

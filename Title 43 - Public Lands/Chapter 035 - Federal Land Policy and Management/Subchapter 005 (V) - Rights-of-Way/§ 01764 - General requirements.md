@@ -6,7 +6,7 @@ The Secretary concerned shall specify the boundaries of each right-of-way as pre
 
 #### (b) Terms and conditions of right-of-way or permit
 
-Each right-of-way or permit granted, issued, or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project. In determining the duration of a right-of-way the Secretary concerned shall, among other things, take into consideration the cost of the facility, its useful life, and any public purpose it serves. The right-of-way shall specify whether it is or is not renewable and the terms and conditions applicable to the renewal.
+Each right-of-way or permit granted, issued, or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project. In determining the duration of a right-of-way the Secretary concerned shall, among other things, take intoconsideration the cost of the facility, its useful life, and any public purpose it serves. The right-of-way shall specify whether it is or is not renewable and the terms and conditions applicable to the renewal.
 
 #### (c) Applicability of regulations or stipulations
 
@@ -32,7 +32,7 @@ The holder of a right-of-way shall pay in advance the fair market value thereof,
 
 (1) The Secretary concerned shall promulgate regulations specifying the extent to which holders of rights-of-way under this subchapter shall be liable to the United States for damage or injury incurred by the United States caused by the use and occupancy of the rights-of-way. The regulations shall also specify the extent to which such holders shall indemnify or hold harmless the United States for liabilities, damages, or claims caused by their use and occupancy of the rights-of-way.
 
-(2) Any regulation or stipulation imposing liability without fault shall include a maximum limitation on damages commensurate with the foreseeable risks or hazards presented. Any liability for damage or injury in excess of this amount shall be determined by ordinary rules of negligence.
+(2) Any regulation or stipulation imposing liability without fault shall include a maximum limitation on damages commensurate with the foreseeable risks or hazards presented. Any liability for damage or injury in excess of thisamount shall be determined by ordinary rules of negligence.
 
 #### (i) Bond or security requirements
 

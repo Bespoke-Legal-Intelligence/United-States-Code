@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized and directed, with the advice and co
 
 #### References in Text
 
-Act of June 25, 1938, referred to in text, provided for an appropriation for payment of judgments rendered by the court of claims and reported to the 75th Congress in Senate Document Numbered 191, and House Documents Numbered 661 and 686. House Document No. 661 listed a judgment in favor of the Shoshone Tribe of Indians of the Wind River Reservation in Wyoming, in the sum of $4,408,444.23, with interest on a part thereof to the date of payment, for the taking of land.
+Act of June 25, 1938, referred to in text, provided for an appropriation for payment of judgments rendered by the court of claims and reported to the 75th Congress inSenate Document Numbered 191, and House Documents Numbered 661 and 686. House Document No. 661 listed a judgment in favor of the Shoshone Tribe of Indians of the Wind River Reservation in Wyoming, in the sum of $4,408,444.23, with interest on a part thereof to the date of payment, for the taking of land.
 
 #### Section Referred to in Other Sections
 

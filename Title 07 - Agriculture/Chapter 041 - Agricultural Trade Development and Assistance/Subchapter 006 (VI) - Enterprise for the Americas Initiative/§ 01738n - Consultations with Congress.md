@@ -2,5 +2,5 @@
 
 The President shall consult with the appropriate congressional committees on a periodic basis to review the operation of the Facility under this subchapter and the eligibility of countries for benefits from the Facility under this subchapter.
 
-(July 10, 1954, ch. 469, title VI, §615, as added Dec. 13, 1991, Pub. L. 102–237, title III, §331, 105 Stat. 1858.)
+(July 10, 1954, ch. 469, title VI, §615, as added Pub. L. 102–237, title III, §331, Dec. 13, 1991, 105 Stat. 1858.)
 

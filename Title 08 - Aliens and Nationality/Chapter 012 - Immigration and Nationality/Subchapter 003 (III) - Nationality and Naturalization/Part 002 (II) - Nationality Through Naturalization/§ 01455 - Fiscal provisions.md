@@ -12,13 +12,13 @@
 
 (d) During the time when the United States is at war the Attorney General may not charge or collect a naturalization fee from an alien in the military, air, or naval service of the United States for filing an application for naturalization or issuing a certificate of naturalization upon admission to citizenship.
 
-(e) In addition to the other fees required by this subchapter, the applicant for naturalization shall, upon the filing of an application for naturalization, deposit with and pay to the Attorney General a sum of money sufficient to cover the expenses of subpenaing and paying the legal fees of any witnesses for whom such applicant may request a subpena, and upon the final discharge of such witnesses, they shall receive, if they demand the same from the Attorney General, the customary and usual witness fees from the moneys which the applicant shall have paid to the Attorney General for such purpose, and the residue, if any, shall be returned by the Attorney General to the applicant.
+(e) In addition to the other fees required by this subchapter, the applicant for naturalization shall, upon the filing of an application for naturalization, deposit with and pay to the Attorney General a sum of money sufficient to cover the expenses of subpenaing and paying the legal feesof any witnesses for whom such applicant may request a subpena, and upon the final discharge of such witnesses, they shall receive, if they demand the same from the Attorney General, the customary and usual witness fees from the moneys which the applicant shall have paid to the Attorney General for such purpose, and the residue, if any, shall be returned by the Attorney General to the applicant.
 
 (f)(1) The Attorney General shall pay over to courts administering oaths of allegiance to persons under this subchapter a specified percentage of all fees described in subsection (a)(1) of this section collected by the Attorney General with respect to persons administered the oath of allegiance by the respective courts. The Attorney General, annually and in consultation with the courts, shall determine the specified percentage based on the proportion, of the total costs incurred by the Service and courts for essential services directly related to the naturalization process, which are incurred by courts.
 
 (2) The Attorney General shall provide on an annual basis to the Committees on the Judiciary of the House of Representatives and of the Senate a detailed report on the use of the fees described in paragraph (1) and shall consult with such Committees before increasing such fees.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §344, 66 Stat. 264; July 7, 1958, Pub. L. 85–508, §26, 72 Stat. 351; Oct. 21, 1968, Pub. L. 90–609, §3, 82 Stat. 1200; Dec. 29, 1981, Pub. L. 97–116, §16, 95 Stat. 1619; Oct. 1, 1988, Pub. L. 100–459, title II, §209(b), 102 Stat. 2203; Oct. 24, 1988, Pub. L. 100–525, §9(ff), 102 Stat. 2621; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(c)(20), (d)(19), 104 Stat. 5041, 5046; Dec. 12, 1991, Pub. L. 102–232, title I, §102(b)(3), title III, §§305(<i>l</i>), 309(a)(1)(A)(ii), (b)(14), 105 Stat. 1736, 1750, 1758, 1759.)
+(June 27, 1952, ch. 477, title III, ch. 2, §344, 66 Stat. 264; Pub. L. 85–508, §26, July 7, 1958, 72 Stat. 351; Pub. L. 90–609, §3, Oct. 21, 1968, 82 Stat. 1200; Pub. L. 97–116, §16, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–459, title II, §209(b), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §9(ff), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(20), (d)(19), Nov. 29, 1990, 104 Stat. 5041, 5046; Pub. L. 102–232, title I, §102(b)(3), title III, §§305(<i>l</i>), 309(a)(1)(A)(ii), (b)(14), Dec. 12, 1991, 105 Stat. 1736, 1750, 1758, 1759.)
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Subsec. (g). Pub. L. 90–609 substituted fees received under this subchapter fo
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 102(b)(3) of Pub. L. 102–232 effective 30 days after Dec. 12, 1991, see section 102(c) of Pub. L. 102–232, set out as a note under section 1421 of this title.
+Amendment by section 102(b)(3) of Pub. L. 102–232 effective 30 days after Dec. 12, 1991, see section 102(c) ofPub. L. 102–232, set out as a note under section 1421 of this title.
 
 Amendment by section 305(<i>l</i>) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 

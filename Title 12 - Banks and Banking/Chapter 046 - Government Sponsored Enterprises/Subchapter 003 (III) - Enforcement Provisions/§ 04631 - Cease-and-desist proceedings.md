@@ -10,7 +10,7 @@ The Director may issue and serve a notice of charges under this section upon an 
 
 &emsp;(3) any conduct that violates—
 
-&emsp;&emsp;(A) any provision of this chapter, the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\], the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\], or any order, rule, or regulation under any such chapter or Act, except that the Director may not enforce compliance with any housing goal established under subpart 2 of part B of subchapter I of this chapter, with section 4566 or 4567 of this title, or with subsection (m) or (n) of section 309 of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1723a(m), (n)\] or subsection (e) or (f) of section 307 of the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1456(e), (f)\]; or
+&emsp;&emsp;(A) any provision of this chapter, the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\], the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\], or any order, rule, or regulation under any such chapter or Act, except that the Director may not enforce compliancewith any housing goal established under subpart 2 of part B of subchapter I of this chapter, with section 4566 or 4567 of this title, or with subsection (m) or (n) of section 309 of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1723a(m), (n)\] or subsection (e) or (f) of section 307 of the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1456(e), (f)\]; or
 
 &emsp;&emsp;(B) any written agreement entered into by the enterprise with the Director.
 

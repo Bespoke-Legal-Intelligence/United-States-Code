@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A determination of whether a person is a sexually violent predator for purposes of this section shall be made by a court after considering the recommendation of a board composed of experts in the behavior and treatment of sex offenders, victims’ rights advocates, and representatives of law enforcement agencies.
+&emsp;&emsp;A determination of whether a person is a sexually violent predator for purposes of thissection shall be made by a court after considering the recommendation of a board composed of experts in the behavior and treatment of sex offenders, victims’ rights advocates, and representatives of law enforcement agencies.
 
 #### (B) Waiver
 
@@ -82,7 +82,7 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(v) require the person to read and sign a form stating that the duty of the person to register under this section has been explained.
 
-&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to register under subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipated future residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
+&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to registerunder subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipated future residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
 
 #### (2) Transfer of information to State and FBI; participation in national sex offender registry
 
@@ -162,13 +162,57 @@ Law enforcement agencies, employees of law enforcement agencies and independent 
 
 Reallocation of funds.—Any funds that are not allocated for failure to comply with this section shall be reallocated to States that comply with this section.
 
-#### (g) <sup>1</sup> Fingerprints
+#### (h) Fingerprints
 
 Each requirement to register under this section shall be deemed to also require the submission of a set of fingerprints of the person required to register, obtained in accordance with regulations prescribed by the Attorney General under section 14072(h) of this title.
 
-(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463.)
+#### (i) Grants to States for costs of compliance
+
+#### (1) Program authorized
+
+#### (A) In general
+
+&emsp;&emsp;The Director of the Bureau of Justice Assistance (in this subsection referred to as the “Director”) shall carry out a program, which shall be known as the “Sex Offender Management Assistance Program” (in this subsection referred to as the “SOMA program”), under which the Director shall award a grant to each eligible State to offset costs directly associated with complying with this section.
+
+#### (B) Uses of funds
+
+&emsp;&emsp;Each grant awarded under this subsection shall be—
+
+&emsp;&emsp;&emsp;(i) distributed directly to the State for distribution to State and local entities; and
+
+&emsp;&emsp;&emsp;(ii) used for training, salaries, equipment, materials, and other costs directly associated with complying with this section.
+
+#### (2) Eligibility
+
+#### (A) Application
+
+&emsp;&emsp;To be eligible to receive a grant under this subsection, the chief executive of a State shall, on an annual basis, submit to the Director an application (in such form and containing such information as the Director may reasonably require) assuring that—
+
+&emsp;&emsp;&emsp;(i) the State complies with (or made a good faith effort to comply with) this section; and
+
+&emsp;&emsp;&emsp;(ii) where applicable, the State has penalties comparable to or greater than Federal penalties for crimes listed in this section, except that the Director may waive the requirement of this clause if a State demonstrates an overriding need for assistance under this subsection.
+
+#### (B) Regulations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 90 days after October 30, 1998, the Director shall promulgate regulations to implement this subsection (including the information that must be included and the requirements that the States must meet) in submitting the applications required under this subsection. In allocating funds under this subsection, the Director may consider the annual number of sex offenders registered in each eligible State's monitoring and notification programs.
+
+#### (ii) Certain training programs
+
+&emsp;&emsp;&emsp;Prior to implementing this subsection, the Director shall study the feasibility of incorporating into the SOMA program the activities of any technical assistance or training program established as a result of section 13941 of this title. In a case in which incorporating such activities into the SOMA program will eliminate duplication of efforts or administrative costs, the Director shall take administrative actions, as allowable, and make recommendations to Congress to incorporate such activities into the SOMA program prior to implementing the SOMA program.
+
+#### (3) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection, $25,000,000 for each of fiscal years 1999 and 2000.
+
+(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985.)
 
 #### Amendments
+
+1998—Subsecs. (g), (h). Pub. L. 105–314, §607(a)(1), which directed the amendment of this section by redesignating the second subsection designated as subsection (g) as subsection (h), was executed by redesignating subsec. (g), relating to fingerprints, as (h) to reflect the probable intent of Congress.
+
+Subsec. (i). Pub. L. 105–314, §607(a)(2), added subsec. (i).
 
 1997—Subsec. (a)(1)(A), (B). Pub. L. 105–119, §115(a)(1)(A), struck out “with a designated State law enforcement agency” after “current address”.
 
@@ -204,7 +248,7 @@ Subsec. (b)(3)(A)(i) to (iv). Pub. L. 105–119, §115(a)(2)(C)(ii), which direc
 
 “(iv) If the person fails to mail the verification form to the designated State law enforcement agency within 10 days after receipt of the form, the person shall be in violation of this section unless the person proves that the person has not changed the residence address.”
 
-Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and enteredinto the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agency with which the person must register in the new State, if the new State has a registration requirement”.
+Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agency with which the person must register in the new State, if the new State has a registration requirement”.
 
 Subsec. (b)(5). Pub. L. 105–119, §115(a)(2)(E), substituted “and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agency responsible for registration in the new State, if that State requires registration” for “shall register the new address with a designated law enforcement agency in another State to which the person moves not later than 10 days after such person establishes residence in the new State, if the new State has a registration requirement”.
 
@@ -272,7 +316,7 @@ Ineligibility for Funds.—
 
 “(d)
 
-Effective Date.—States shall be allowed the time specified in subsection (b) to establish minimally sufficient sexual offender registration programs for purposes of the amendments made by section 2 \[enacting section 14072 of this title\]. Subsections (c) and (k) of section 170102 of the Violent Crime Control and Law Enforcement Act of 1994 \[42 U.S.C. 14072(c), (k)\], andany requirement to issue related regulations, shall take effect at the conclusion of the time provided under this subsection for the establishment of minimally sufficient sexual offender registration programs.”
+Effective Date.—States shall be allowed the time specified in subsection (b) to establish minimally sufficient sexual offender registration programs for purposes of the amendments made by section 2 \[enacting section 14072 of this title\]. Subsections (c) and (k) of section 170102 of the Violent Crime Control and Law Enforcement Act of 1994 \[42 U.S.C. 14072(c), (k)\], and any requirement to issue related regulations, shall take effect at the conclusion of the time provided under this subsection for the establishment of minimally sufficient sexual offender registration programs.”
 
 #### Regulations
 
@@ -282,9 +326,27 @@ Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the
 
 Section 11 of Pub. L. 104–236 provided that: “If any provision of this Act \[see Effective Date of 1996 Amendment note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
+#### Study of Sex Offender Management Assistance Program
+
+Pub. L. 105–314, title VI, §607(b), Oct. 30, 1998, 112 Stat. 2986, provided that: “Not later than March 1, 2000, the Director shall conduct a study to assess the efficacy of the Sex Offender Management Assistance Program under section 170101(i) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(i)), as added by this section, and submit recommendations to Congress.”
+
+#### Study of Hotlines
+
+Pub. L. 105–314, title IX, §902, Oct. 30, 1998, 112 Stat. 2991, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Oct. 30, 1998\], the Attorney General shall conduct a study in accordance with subsection (b) and submit to Congress a report on the results of that study.
+
+“(b)
+
+Contents of Study.—The study under this section shall include an examination of—
+
+&emsp;“(1) existing State programs for informing the public about the presence of sexual predators released from prison, as required in section 170101 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071), including the use of CD-ROMs, Internet databases, and Sexual Offender Identification Hotlines, such as those used in the State of California; and
+
+&emsp;“(2) the feasibility of establishing a national hotline for parents to access a Federal Bureau of Investigation database that tracks the location of convicted sexual predators established under section 170102 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14072) and, in determining that feasibility, the Attorney General shall examine issues including the cost, necessary changes to Federal and State laws necessitated by the creation of such a hotline, consistency with Federal and State case law pertaining to community notification, and the need for, and accuracy and reliability of, the information available through such a hotline.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14072 of this title; title 18 sections 3563, 3583.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(h)”.</i>
 

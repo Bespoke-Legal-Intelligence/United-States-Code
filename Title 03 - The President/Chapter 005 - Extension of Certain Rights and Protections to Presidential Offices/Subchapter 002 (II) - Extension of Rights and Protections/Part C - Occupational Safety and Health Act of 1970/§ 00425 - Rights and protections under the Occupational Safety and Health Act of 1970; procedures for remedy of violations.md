@@ -34,7 +34,7 @@ Citations, notices, and notifications.—The Secretary of Labor shall have the a
 
 &emsp;&emsp;(A) a citation or notice to any employing office responsible for correcting a violation of subsection (a); or
 
-&emsp;&emsp;(B) a notification to any employing office that the Secretary of Labor believes has failed to correct a violation for which a citation has been issued within the period permitted for its correction.
+&emsp;&emsp;(B) a notification to any employing office that the Secretary of Labor believes hasfailed to correct a violation for which a citation has been issued within the period permitted for its correction.
 
 &emsp;(3)
 
@@ -66,7 +66,7 @@ In general.—The President, or the designee of the President, shall issue regul
 
 &emsp;(2)
 
-Agency regulations.—The regulations issued under paragraph (1) shall be the same assubstantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b)—
+Agency regulations.—The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b)—
 
 &emsp;&emsp;(A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 

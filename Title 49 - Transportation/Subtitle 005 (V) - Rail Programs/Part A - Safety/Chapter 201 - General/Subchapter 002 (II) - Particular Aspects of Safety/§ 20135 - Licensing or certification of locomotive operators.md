@@ -84,7 +84,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(i); added June 22, 1988, Pu
 
 45:431(i)(3).
 
-In subsection (a), the words “within 12 months after June 22, 1988” are omitted as executed. The words “including any locomotive engineer” are omitted as surplus. The words “after one year after” are substitutedfor “after the expiration of 12 months following” to eliminate unnecessary words.
+In subsection (a), the words “within 12 months after June 22, 1988” are omitted as executed. The words “including any locomotive engineer” are omitted as surplus. The words “after one year after” are substituted for “after the expiration of 12 months following” to eliminate unnecessary words.
 
 In subsection (b)(5), the word “requirements” is substituted for “terms” for consistency in this section.
 

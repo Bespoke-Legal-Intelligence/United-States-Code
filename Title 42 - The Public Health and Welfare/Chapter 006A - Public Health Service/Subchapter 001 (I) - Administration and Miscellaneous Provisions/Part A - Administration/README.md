@@ -40,7 +40,7 @@ Part A—Administration
 - [&sect; 00217a&#8211;1 - Advisory committees; prohibition of consideration of political affiliations](%C2%A7%2000217a%E2%80%931%20-%20Advisory%20committees%3B%20prohibition%20of%20consideration%20of%20political%20affiliations.md)
 - [&sect; 00217b - Volunteer services](%C2%A7%2000217b%20-%20Volunteer%20services.md)
 - [&sect; 00218 - National Advisory Councils on Migrant Health](%C2%A7%2000218%20-%20National%20Advisory%20Councils%20on%20Migrant%20Health.md)
-- [&sect; 00218a - Training of officers; availability of appropriations for pay and allowances, tuition, fees, and expenses; payment by officer upon&#8230;](%C2%A7%2000218a%20-%20Training%20of%20officers%3B%20availability%20of%20appropriations%20for%20pay%20and%20allowances%2C%20tuition%2C%20fees%2C%20and%20expenses%3B%20payment%20by%20officer%20upon%E2%80%A6.md)
+- [&sect; 00218a - Training of officers](%C2%A7%2000218a%20-%20Training%20of%20officers.md)
 - [&sect; 00219 to 224 - Transferred](%C2%A7%2000219%20to%20224%20-%20Transferred.md)
 - [&sect; 00225 - Repealed. July 12, 1955, ch. 328, &sect;5(4), 69 Stat. 296](%C2%A7%2000225%20-%20Repealed.%20July%2012%2C%201955%2C%20ch.%20328%2C%20%C2%A75%284%29%2C%2069%20Stat.%20296.md)
 - [&sect; 00225a to 227 - Transferred](%C2%A7%2000225a%20to%20227%20-%20Transferred.md)

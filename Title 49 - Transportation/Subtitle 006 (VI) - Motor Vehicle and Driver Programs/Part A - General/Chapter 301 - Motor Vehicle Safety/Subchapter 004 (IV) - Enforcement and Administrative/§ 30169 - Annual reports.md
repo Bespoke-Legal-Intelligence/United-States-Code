@@ -16,7 +16,7 @@ General Report.—The Secretary of Transportation shall submit to the President 
 
 &emsp;(6) enforcement actions;
 
-&emsp;(7) the extent to which technical information was given the scientific community and consumer-oriented information was made available to the public; and
+&emsp;(7) the extent to which technical information was given the scientific community andconsumer-oriented information was made available to the public; and
 
 &emsp;(8) recommendations for legislation needed to promote cooperation among the States in improving traffic safety and strengthening the national traffic safety program.
 

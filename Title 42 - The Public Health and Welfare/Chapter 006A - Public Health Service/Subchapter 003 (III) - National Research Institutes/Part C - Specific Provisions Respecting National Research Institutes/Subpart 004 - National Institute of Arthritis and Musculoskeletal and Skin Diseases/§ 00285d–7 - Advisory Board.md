@@ -54,7 +54,7 @@ The Advisory Board shall—
 
 #### (i) Subcommittees; establishment and membership
 
-In carrying out its functions, the Advisory Board may establish subcommittees, convene workshops and conferences, and collect data.Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
+In carrying out its functions, the Advisory Board may establish subcommittees, convene workshops and conferences, and collect data. Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
 
 #### (j) Annual report
 
@@ -74,7 +74,7 @@ The Advisory Board shall prepare an annual report for the Secretary which—
 
 The National Arthritis Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Board established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The member of the Board in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Advisory Board established under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §442, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 852; amended Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(7), 106 Stat. 3504; June 10, 1993, Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), 107 Stat. 162, 211.)
+(July 1, 1944, ch. 373, title IV, §442, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 852; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(7), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), June 10, 1993, 107 Stat. 162, 211.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Secretary shall also determine and announce, not later than the first day of
 
 Within thirty days after the proclamation of national marketing quotas under subsection (a) of this section, the Secretary shall conduct a referendum of farmers engaged in the production of the crop of tobacco harvested immediately prior to the holding of the referendum to determine whether such farmers are in favor of or opposed to such quotas for the next three succeeding marketing years. If more than one-third of the farmers voting oppose the national marketing quotas, such results shall be proclaimed by the Secretary and the national marketing quotas so proclaimed shall not be in effect but such results shall in no wise affect or limit the subsequent proclamation and submission to a referendum, as otherwise provided in this section, of a national marketing quota.
 
-(Feb. 16, 1938, ch. 30, title III, §312, 52 Stat. 46; Mar. 26, 1938, ch. 54, 52 Stat. 120; Aug. 7, 1939, ch. 562, 563, 53 Stat. 1261; June 13, 1940, ch. 360, §§2, 3, 54 Stat. 392; Nov. 22, 1940, ch. 914, §§2, 5, 54Stat. 1209, 1210; Feb. 28, 1942, ch. 123, 56 Stat. 121; July 3, 1948, ch. 827, title II, §208, 62 Stat. 1257; Aug. 9, 1955, ch. 639, 69 Stat. 557; June 22, 1956, ch. 427, 70 Stat. 330; Apr. 7, 1986, Pub. L. 99–272, title I, §1104(a), 100 Stat. 89.)
+(Feb. 16, 1938, ch. 30, title III, §312, 52 Stat. 46; Mar. 26, 1938, ch. 54, 52 Stat. 120; Aug. 7, 1939, ch. 562, 563, 53 Stat. 1261; June 13, 1940, ch. 360, §§2, 3, 54 Stat. 392; Nov. 22, 1940, ch. 914, §§2, 5, 54 Stat. 1209, 1210; Feb. 28, 1942, ch. 123, 56 Stat. 121; July 3, 1948, ch. 827, title II, §208, 62 Stat. 1257; Aug. 9, 1955, ch. 639, 69 Stat. 557; June 22, 1956, ch. 427, 70 Stat. 330; Pub. L. 99–272, title I, §1104(a), Apr. 7, 1986, 100 Stat. 89.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Joint Res. July 7, 1943, ch. 195, 57 Stat. 387, as amended by Joint Res. Mar. 31
 
 #### Proclamations Affirmed
 
-Act Apr. 7, 1938, ch. 107, §19, 52 Stat. 205, provided that proclamations issued by Secretary of Agriculture under sections 1312(a), 1327, 1328, and 1345 of this titleshould be effective as provided in those sections, and no provision of any amendment made by that act should be construed as requiring any further action under section 1312(c) or 1347 of this title with respect to marketing years beginning in 1938.
+Act Apr. 7, 1938, ch. 107, §19, 52 Stat. 205, provided that proclamations issued by Secretary of Agriculture under sections 1312(a), 1327, 1328, and 1345 of this title should be effective as provided in those sections, and no provision of any amendment made by that act should be construed as requiring any further action under section 1312(c) or 1347 of this title with respect to marketing years beginning in 1938.
 
 #### Cross References
 

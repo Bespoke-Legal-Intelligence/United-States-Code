@@ -34,9 +34,9 @@ Discharge.—When the director of the facility in which a defendant is hospitali
 
 (f)
 
-Admissibility of Finding of Competency.—A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged, and shall not be admissible as evidence in a trial for the offense charged.
+Admissibility of Finding of Competency.—A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged,and shall not be admissible as evidence in a trial for the offense charged.
 
-(June 25, 1948, ch. 645, 62 Stat. 855; Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2057.)
+(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2057.)
 
 #### Historical and Revision Notes
 

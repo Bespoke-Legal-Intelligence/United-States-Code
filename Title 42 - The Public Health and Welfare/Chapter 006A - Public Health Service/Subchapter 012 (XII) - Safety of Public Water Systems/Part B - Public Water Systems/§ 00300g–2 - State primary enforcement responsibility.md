@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of this subchapter, a State has primary enforcement responsibility for public water systems during any period for which theAdministrator determines (pursuant to regulations prescribed under subsection (b) of this section) that such State—
+For purposes of this subchapter, a State has primary enforcement responsibility for public water systems during any period for which the Administrator determines (pursuant to regulations prescribed under subsection (b) of this section) that such State—
 
 &emsp;(1) has adopted drinking water regulations that are no less stringent than the national primary drinking water regulations promulgated by the Administrator under subsections (a) and (b) of section 300g–1 of this title not later than 2 years after the date on which the regulations are promulgated by the Administrator, except that the Administrator may provide for an extension of not more than 2 years if, after submission and review of appropriate, adequate documentation from the State, the Administrator determines that the extension is necessary and justified;
 
@@ -32,7 +32,7 @@ For purposes of this subchapter, a State has primary enforcement responsibility 
 
 A State that has primary enforcement authority under this section with respect to each existing national primary drinking water regulation shall be considered to have primary enforcement authority with respect to each new or revised national primary drinking water regulation during the period beginning on the effective date of a regulation adopted and submitted by the State with respect to the new or revised national primary drinking water regulation in accordance with subsection (b)(1) of this section and ending at such time as the Administrator makes a determination under subsection (b)(2)(B) of this section with respect to the regulation.
 
-(July 1, 1944, ch. 373, title XIV, §1413, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1665; amended June 19, 1986, Pub. L. 99–339, title I, §101(c)(2), 100 Stat. 646; Aug. 6, 1996, Pub. L. 104–182, title I, §§112, 113(b), 110 Stat. 1633, 1635.)
+(July 1, 1944, ch. 373, title XIV, §1413, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1665; amended Pub. L. 99–339, title I, §101(c)(2), June 19, 1986, 100 Stat. 646; Pub. L. 104–182, title I, §§112, 113(b), Aug. 6, 1996, 110 Stat. 1633, 1635.)
 
 #### Amendments
 

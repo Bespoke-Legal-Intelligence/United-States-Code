@@ -20,7 +20,7 @@
 | (b) | Exception. |
 | [13705\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013705%20-%20Special%20rules.md) | Special rules. |
 | (a) | Sharing of funds with counties and other units of local government. |
-| (b) | Additional requirement. |
+| (b) | Additional requirements. |
 | (c) | Funds for juvenile offenders. |
 | (d) | Private facilities. |
 | (e) | “Part 1 violent crime” defined. |
@@ -170,19 +170,7 @@
 | (i) | Investigations and inspections. |
 | (j) | Payments; Federal share; non-Federal share. |
 | (k) | Evaluation. |
-| [13792\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20D%20-%20Family%20and%20Community%20Endeavor%20Schools%20Grant%20Program/%C2%A7%2013792%20-%20Family%20and%20community%20endeavor%20schools%20grant%20program.md) | Family and community endeavor schools grant program. |
-| (a) | Short title. |
-| (b) | Purpose. |
-| (c) | Program authority. |
-| (d) | Program requirements. |
-| (e) | Eligible community identification. |
-| (f) | Grant eligibility. |
-| (g) | Applications. |
-| (h) | Peer review panel. |
-| (i) | Investigations and inspections. |
-| (j) | Federal share. |
-| (k) | Evaluation. |
-| (<i>l</i>) | Definitions. |
+| [13792\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20D%20-%20Family%20and%20Community%20Endeavor%20Schools%20Grant%20Program/%C2%A7%2013792%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28f%29%20%5Btitle%20VIII%2C%20%C2%A7301%28d%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93337%2C%202681%E2%80%93410.md) | Repealed. |
 | [13793\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20D%20-%20Family%20and%20Community%20Endeavor%20Schools%20Grant%20Program/%C2%A7%2013793%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Programs. |
@@ -581,7 +569,8 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (e) | Release of information. |
 | (f) | Immunity for good faith conduct. |
 | (g) | Compliance. |
-| (g) | Fingerprints. |
+| (h) | Fingerprints. |
+| (i) | Grants to States for costs of compliance. |
 | [14072\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014072%20-%20FBI%20database.md) | FBI database. |
 | (a) | Definitions. |
 | (b) | Establishment. |

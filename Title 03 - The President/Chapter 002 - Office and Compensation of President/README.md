@@ -16,10 +16,13 @@
 | [112\.](%C2%A7%2000112%20-%20Detail%20of%20employees%20of%20executive%20departments.md) | Detail of employees of executive departments. |
 | [113\.](%C2%A7%2000113%20-%20Personnel%20report.md) | Personnel report. |
 | [114\.](%C2%A7%2000114%20-%20General%20pay%20limitation.md) | General pay limitation. |
+| [115\.](%C2%A7%2000115%20-%20Veterans%E2%80%99%20preference.md) | Veterans’ preference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–339, §4(b)(2), Oct. 31, 1998, 112 Stat. 3185, added item 115.
 
 1978—Pub. L. 95–570, §§1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, 92 Stat. 2447, 2449, 2450, 2451, substituted in item 105 “Assistance and services for the President” for “Compensation of secretaries and executive, administrative, and staff assistants to President”; in item 106 “Assistance and services for the Vice President” for “Administrative assistants”; in item 107 “Domestic Policy Staff and Office of Administration; personnel” for “Detail of employees of executive departments to office of President”; in item 108 “Assistance to the President for unanticipated needs” for “Accommodations for vehicles”; and in item 109 “the Executive Residence at the White House” for “Executive Mansion”; inserted in item 110 “the Executive Residence at the” before “White House”; and added items 112, 113 and 114.
 
@@ -536,3 +539,4 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 00112 - Detail of employees of executive departments](%C2%A7%2000112%20-%20Detail%20of%20employees%20of%20executive%20departments.md)
 - [&sect; 00113 - Personnel report](%C2%A7%2000113%20-%20Personnel%20report.md)
 - [&sect; 00114 - General pay limitation](%C2%A7%2000114%20-%20General%20pay%20limitation.md)
+- [&sect; 00115 - Veterans&#8217; preference](%C2%A7%2000115%20-%20Veterans%E2%80%99%20preference.md)

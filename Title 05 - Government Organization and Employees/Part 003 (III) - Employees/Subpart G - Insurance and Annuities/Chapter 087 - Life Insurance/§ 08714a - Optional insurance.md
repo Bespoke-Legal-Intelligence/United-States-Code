@@ -1,6 +1,6 @@
 ### §8714a. Optional insurance
 
-(a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, theOffice of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
+(a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
 
 (b) The optional life insurance and accidental death and dismemberment insurance shall be made available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
 
@@ -30,13 +30,17 @@
 
 (2) If an agency fails to withhold the proper cost of optional insurance from an individual's salary, compensation, or retirement annuity, the collection of amounts properly due may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of any unpaid amount, the agency shall submit an amount equal to the uncollected amount to the Office for deposit to the Employees’ Life Insurance Fund.
 
+(3) Notwithstanding paragraph (1), an employee who is subject to withholdings under this subsection and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue optional insurance if the employee arranges to pay currently into the Employees’ Life Insurance Fund, through the agency or retirement system which administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this subsection.
+
 (e) The cost of the optional insurance shall be determined from time to time by the Office on the basis of such age groups as it considers appropriate.
 
 (f) The amount of optional life, or life and accidental death, insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title.
 
-(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639.)
+(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986,100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951.)
 
 #### Amendments
+
+1998—Subsec. (d)(3). Pub. L. 105–311 added par. (3).
 
 1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, §206, generally. See 1984 Amendment note below.
 
@@ -72,6 +76,10 @@ Subsec. (d). Pub. L. 95–583, §1(c)(3), struck out “or 8706(c)” after “s
 
 Subsec. (e). Pub. L. 95–454 substituted “Office” for “Commission”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–311 effective on the first day of the first applicable pay period beginning on or after Oct. 30, 1998, see section 11(d) of Pub. L. 105–311, set out as a note under section 8701 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
@@ -104,7 +112,7 @@ Enactment of this section by Pub. L. 90–206 to have no effect in the case of a
 
 #### Availability of Certain Funds in Employees’ Life Insurance Fund
 
-Section 11 of Pub. L. 96–427 provided that: “Amounts credited to the Employees’ Life Insurance Fund under section 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act \[enacting sections 8714b, 8714c, and 8701(d) of this title\].”
+Section 11 of Pub. L. 96–427 provided that: “Amounts credited to the Employees’ Life Insurance Fund undersection 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act \[enacting sections 8714b, 8714c, and 8701(d) of this title\].”
 
 #### Section Referred to in Other Sections
 

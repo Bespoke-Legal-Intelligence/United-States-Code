@@ -1,6 +1,6 @@
 ### §1734. Court record lost or destroyed, generally
 
-(a) A lost or destroyed record of any proceeding in any court of the United States may besupplied on application of any interested party not at fault, by substituting a copy certified by the clerk of any court in which an authentic copy is lodged.
+(a) A lost or destroyed record of any proceeding in any court of the United States may be supplied on application of any interested party not at fault, by substituting a copy certified by the clerk of any court in which an authentic copy is lodged.
 
 (b) Where a certified copy is not available, any interested person not at fault may file in such court a verified application for an order establishing the lost or destroyed record.
 

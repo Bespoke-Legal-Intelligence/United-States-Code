@@ -30,7 +30,7 @@
 
 #### (2) Financial condition and reports of operations
 
-&emsp;As soon as practicable after the end of each fiscal quarter, the Corporation shall submit to the Secretary of the Treasury a copy of the report of the Corporation's financial condition as of the end of such fiscal quarter and the results of the Corporation's operations during such fiscal quarter.
+&emsp;As soon as practicable after the end of each fiscal quarter, the Corporation shall submit tothe Secretary of the Treasury a copy of the report of the Corporation's financial condition as of the end of such fiscal quarter and the results of the Corporation's operations during such fiscal quarter.
 
 #### (3) Items to be included
 
@@ -80,7 +80,7 @@ For the purpose of conducting such audit the Comptroller General is authorized i
 
 #### (1) In general
 
-&emsp;In addition to the reports required under subsections (a), (b), and (c) of this section, the Corporation shall submit to Congress not later than April 30 and October 31 of each year, a semiannual report on the activities and efforts of the Corporation for the 6-month period ending on the last day of the month prior to the month in which such report is required to be submitted.
+&emsp;In addition to the reports required under subsections (a), (b), and (c) of this section, the Corporation shall submit to Congress not later than April 30 and October 31 of each year, asemiannual report on the activities and efforts of the Corporation for the 6-month period ending on the last day of the month prior to the month in which such report is required to be submitted.
 
 #### (2) Contents of report
 
@@ -160,5 +160,5 @@ Time for Submission.—The reports described in subsection (a) shall be transmit
 
 #### Report to Congress on Risk-Based Assessments
 
-Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
+Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable,Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
 

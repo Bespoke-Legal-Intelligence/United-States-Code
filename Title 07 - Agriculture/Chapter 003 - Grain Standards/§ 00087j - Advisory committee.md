@@ -14,13 +14,13 @@ The Secretary shall provide the advisory committee with necessary clerical assis
 
 #### (d) Compensation and travel expenses
 
-Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of title 5.
+Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieuof subsistence, as authorized under section 5703 of title 5.
 
 #### (e) Expiration of Secretary's authority
 
 The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2000.
 
-(Aug. 11, 1916, ch. 313, pt. B, §21, as added Oct. 24, 1988, Pub. L. 100–518, §2(5), 102 Stat. 2586; amended Nov. 24, 1993, Pub. L. 103–156, §§13(b)(1), 14(c), 107 Stat. 1529, 1530; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 
 1994—Subsecs. (a), (c). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-1993—Subsec. (a). Pub. L. 103–156, §13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of theadvisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.”
+1993—Subsec. (a). Pub. L. 103–156, §13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.”
 
 Subsec. (e). Pub. L. 103–156, §14(c), added subsec. (e).
 

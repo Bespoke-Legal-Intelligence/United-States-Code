@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall provide guidance and technical assistance, to States and service delivery areas, relating to the documentation required to verify the eligibility of participants under parts A, B, and C of subchapter II of this chapter, particularly the hard-to-serve individuals specified in section 1603(b) of this title and subsections (b) and (d) of section 1643 of this title. Such documentation shall, to the extent practicable, be uniform and standard.
+The Secretary shall provide guidance and technical assistance, to States and service delivery areas, relating to the documentation required to verify the eligibility of participants under parts A, B, and C of subchapter II of thischapter, particularly the hard-to-serve individuals specified in section 1603(b) of this title and subsections (b) and (d) of section 1643 of this title. Such documentation shall, to the extent practicable, be uniform and standard.
 
 #### (b) Guidance
 
@@ -21,6 +21,10 @@ The guidance provided pursuant to subsection (a) of this section shall specifica
 The Secretary shall provide the guidance described in subsection (a) of this section not later than December 18, 1992.
 
 (Pub. L. 97–300, title IV, §454, as added Pub. L. 102–367, title IV, §403(b), Sept. 7, 1992, 106 Stat. 1084; amended Pub. L. 104–193, title I, §110(n)(12), Aug. 22, 1996, 110 Stat. 2174.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Prior Provisions
 

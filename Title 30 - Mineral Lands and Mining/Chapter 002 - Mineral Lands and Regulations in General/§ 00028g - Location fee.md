@@ -1,12 +1,20 @@
 ### §28g. Location fee
 
-Notwithstanding any other provision of law, for every unpatented mining claim, mill or tunnel site located after August 10, 1993, and before September 30, 1998, pursuant to the Mining Laws of the United States, the locator shall, at the time the location notice is recorded with the Bureau of Land Management, pay to the Secretary of the Interior a location fee, in addition to the claim maintenance fee required by section 28f of this title, of $25.00 per claim.
+Notwithstanding any other provision of law, for every unpatented mining claim, mill or tunnel site located after August 10, 1993, and before September 30, 2001, pursuant to the Mining Laws of the United States, the locator shall, at the time the location notice is recorded with the Bureau of Land Management, pay to the Secretary of the Interior a location fee, in addition to the claim maintenance fee required by section 28f of this title, of $25.00 per claim.
 
-(Pub. L. 103–66, title X, §10102, Aug. 10, 1993, 107 Stat. 406.)
+(Pub. L. 103–66, title X, §10102, Aug. 10, 1993, 107 Stat. 406; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–235.)
 
 #### References in Text
 
 The Mining Laws of the United States, referred to in text, are classified generally to this title.
+
+#### Codification
+
+Pub. L. 105–277, which directed the amendment of section 28g of title 30, United States Code, was executed by making the amendment to section 10102 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 1998 Amendment note below.
+
+#### Amendments
+
+1998—Pub. L. 105–277 substituted “2001” for “1998”. See Codification note above.
 
 #### Similar Provisions
 

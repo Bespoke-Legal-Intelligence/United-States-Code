@@ -8,10 +8,10 @@
 | (a) | Establishment. |
 | (b) | Board of Trustees; composition; regional balance. |
 | (c) | Term of office. |
-| (d) | Compensation of Board members; travel expenses. |
-| (e) | Chairman; Vice Chairman; election; vacancies; quorum. |
-| (f) | Director; Deputy Director; appointment and compensation. |
-| (g) | Duties of Director and Deputy Director. |
+| (d) | Reimbursement for expenses. |
+| (e) | Chairman; Vice Chairman; election; vacancies; quorum; annual meeting. |
+| (f) | Director; appointment and compensation. |
+| (g) | Duties of Director. |
 | [2104\.](%C2%A7%2002104%20-%20Functions%20of%20Center.md) | Functions of Center. |
 | (a) | Contracts; national archive and center for American folklife; loan of items in archive; procurement, display, etc., of items in archive; miscellaneous programs. |
 | (b) | Functions carried out through Center. |

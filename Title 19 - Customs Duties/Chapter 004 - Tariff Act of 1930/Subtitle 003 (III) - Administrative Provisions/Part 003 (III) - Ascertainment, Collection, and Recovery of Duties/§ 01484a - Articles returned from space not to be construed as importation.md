@@ -16,7 +16,7 @@ The return of articles from space shall not be considered an importation, and an
 
 > without regard to whether such articles have been advanced in value or improved in condition by any process of manufacture or other means while in space.
 
-(June 17, 1930, ch. 497, title IV, §484a, as added Oct. 30, 1984, Pub. L. 98–573, title II, §209(a), 98 Stat. 2976.)
+(June 17, 1930, ch. 497, title IV, §484a, as added Pub. L. 98–573, title II, §209(a), Oct. 30, 1984, 98 Stat. 2976.)
 
 #### Effective Date
 

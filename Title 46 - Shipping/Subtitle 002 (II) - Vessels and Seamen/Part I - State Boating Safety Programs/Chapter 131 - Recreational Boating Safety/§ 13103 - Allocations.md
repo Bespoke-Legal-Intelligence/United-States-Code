@@ -52,7 +52,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to f
 
 #### Payment of Administrative Costs; Retention of Amount Prior to Allocations
 
-Pub. L. 99–640, §7(d), Nov. 10, 1986, 100 Stat. 3548, which provided that before making any allocation under this section \[46 U.S.C. 13103\] for a fiscal year, the Secretary shall retain not less than one percent nor more than two percent of the amount appropriated for that year for State recreational boating safety programs for the payment of costs of administration of this chapter \[46 U.S.C. 13101 et seq.\], was repealed by Pub. L. 100–448, §6(b)(1)(B), Sept. 28, 1988, 102 Stat. 1840.
+Pub. L. 99–640, §7(d), Nov. 10, 1986, 100 Stat. 3548, which provided that before making any allocation under this section \[46 U.S.C. 13103\] for a fiscal year, theSecretary shall retain not less than one percent nor more than two percent of the amount appropriated for that year for State recreational boating safety programs for the payment of costs of administration of this chapter \[46 U.S.C. 13101 et seq.\], was repealed by Pub. L. 100–448, §6(b)(1)(B), Sept. 28, 1988, 102 Stat. 1840.
 
 #### Section Referred to in Other Sections
 

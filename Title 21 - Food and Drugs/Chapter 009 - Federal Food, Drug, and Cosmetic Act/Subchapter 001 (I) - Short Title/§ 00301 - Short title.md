@@ -30,6 +30,10 @@ Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this 
 
 Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–324, §1, Oct. 30, 1998, 112 Stat. 3035, provided that: “This Act \[amending sections 321 and 346a of this title\] may be cited as the ‘Antimicrobial Regulation Technical Corrections Act of 1998’.”
+
 #### Short Title of 1997 Amendment
 
 Pub. L. 105–115, §1(a), Nov. 21, 1997, 111 Stat. 2296, provided that: “This Act \[enacting sections 343–3, 353a, 355a, 356 to 356c, 360m, 360aaa to 360aaa–6, 360bbb to 360bbb–2, 379k, 379<i>l</i>, 379<i>o</i>, 379r, 379s, 379v, 396, and 397 of this title and sections 247b–8 and 299a–3 of Title 42, The Public Health and Welfare, amending sections 321, 331, 334, 335a, 343, 348, 351 to 353, 355, 360, 360b to 360e, 360g, 360i, 360j, 360<i>l</i>, 360aa to 360cc, 360ee, 371, 374, 379a, 379g, 379h, 381 to 383, 393, and 802 of this title, section 45C of Title 26, Internal Revenue Code, section 156 of Title 35, Patents, section 8126 of Title 38, Veterans’ Benefits, and sections 262, 263a, and 282 of Title 42, repealing sections 356 and 357 of this title, and enacting provisions set out as notes under sections 321, 348, 351, 352, 353a, 355 to 356b, 360i, 360<i>l</i>, 360m, 360aaa, 371, 379g, 379h, 379k, and 393 of this title and sections 247b–8 and 282 of Title 42\] may be cited as the ‘Food and Drug Administration Modernization Act of 1997’.”
@@ -60,9 +64,9 @@ Pub. L. 102–571, title I, §101(a), Oct. 29, 1992, 106 Stat. 4491, provided th
 
 Pub. L. 102–571, title II, §201, Oct. 29, 1992, 106 Stat. 4500, provided that: “This title \[enacting provisions set out as notes under sections 343 and 393 of this title and amending provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Dietary Supplement Act of 1992’.”
 
-Pub. L. 102–353, §1(a), Aug. 26, 1992, 106 Stat. 941, provided that: “This Act \[amending sections 333, 353, and 381 of this title and enacting provisions set out as a note under section 353 of this title\] may be cited as the ‘Prescription Drug Amendments of 1992’.”
+Pub. L. 102–353, §1(a), Aug. 26, 1992, 106 Stat. 941, provided that: “This Act \[amending sections 333, 353, and381 of this title and enacting provisions set out as a note under section 353 of this title\] may be cited as the ‘Prescription Drug Amendments of 1992’.”
 
-Pub. L. 102–300, §1(a), June 16, 1992, 106 Stat. 238, provided that: “This Act \[amending sections 321, 331, 334, 346a, 352, 353, 356, 357, 360c, 360d, 360g to 360i, 360<i>l</i>,360mm, 371 to 372a, 376, and 381 of this title and section 262 of Title 42, The Public Health and Welfare and enacting and amending provisions set out as notes under section 360i of this title\] may be cited as the ‘Medical Device Amendments of 1992’.”
+Pub. L. 102–300, §1(a), June 16, 1992, 106 Stat. 238, provided that: “This Act \[amending sections 321, 331, 334, 346a, 352, 353, 356, 357, 360c, 360d, 360g to 360i, 360<i>l</i>, 360mm, 371 to 372a, 376, and 381 of this title and section 262 of Title 42, The Public Health and Welfare and enacting and amending provisions set out as notes under section 360i of this title\] may be cited as the ‘Medical Device Amendments of 1992’.”
 
 Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: “This Act \[enacting sections 335a to 335c of this title, amending sections 321, 336, 337, and 355 of this title, and enacting provisions set out as notes under section 335a of this title\] may be cited as the ‘Generic Drug Enforcement Act of 1992’.”
 
@@ -120,11 +124,11 @@ Pub. L. 94–295, §1(a), May 28, 1976, 90 Stat. 539, provided that: “This Act
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–387, §1, Aug. 16, 1972, 86 Stat. 559, provided that: “This Act \[amending sections 331, 335, and 360 of this title and enacting provisions set out as notes under section 360 of this title\] may be cited as the ‘Drug Listing Act of 1972’.”
+Pub. L. 92–387, §1, Aug. 16, 1972, 86 Stat. 559, provided that: “This Act \[amending sections 331, 335, and 360 ofthis title and enacting provisions set out as notes under section 360 of this title\] may be cited as the ‘Drug Listing Act of 1972’.”
 
 #### Short Title of 1968 Amendments
 
-Pub. L. 90–602, §1, Oct. 18, 1968, 82 Stat. 1173, provided that: “This Act \[enacting provisions now comprisingpart C (§§360hh–360ss) of subchapter III of this chapter and provisions set out as notes under section 360hh of this title\] may be cited as the ‘Radiation Control for Health and Safety Act of 1968’.”
+Pub. L. 90–602, §1, Oct. 18, 1968, 82 Stat. 1173, provided that: “This Act \[enacting provisions now comprising part C (§§360hh–360ss) of subchapter III of this chapter and provisions set out as notes under section 360hh of this title\] may be cited as the ‘Radiation Control for Health and Safety Act of 1968’.”
 
 Pub. L. 90–399, §1, July 13, 1968, 82 Stat. 342, provided: “That this Act \[enacting section 360b of this title, amending sections 321, 331, 342, 351, 352, 357, 381, and 392 of this title, and enacting provisions set out as a note under section 360b of this title\] may be cited as the ‘Animal Drug Amendments of 1968’.”
 

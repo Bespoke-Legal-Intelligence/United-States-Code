@@ -20,9 +20,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–554 provided for holding court at Lawrence.
+1986—Pub. L. 99–554 provided for holding court at Lawrence.
 
-<b>1949</b>—Act Aug. 27, 1949, abolished the three divisions which constituted the judicial district, and added Dodge City as an additional place for holding court.
+1949—Act Aug. 27, 1949, abolished the three divisions which constituted the judicial district, and added Dodge City as an additional place for holding court.
 
 #### Effective Date of 1986 Amendment
 

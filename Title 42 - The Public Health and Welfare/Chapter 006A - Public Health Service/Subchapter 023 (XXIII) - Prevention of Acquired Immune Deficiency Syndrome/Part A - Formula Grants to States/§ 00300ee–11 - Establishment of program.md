@@ -8,7 +8,7 @@ For the purpose described in subsection (b) of this section, the Secretary shall
 
 The Secretary may not make payments under subsection (a) of this section for a fiscal year unless the State involved agrees to expend the payments only for the purpose of carrying out, in accordance with section 300ee–12 of this title, public information activities with respect to acquired immune deficiency syndrome.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2501, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3093; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2501, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3093; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Prior Provisions
 

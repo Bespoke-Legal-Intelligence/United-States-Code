@@ -18,7 +18,7 @@
 
 &emsp;(B) the allowances for the kinds of travel, but not more than the amounts authorized in this section.
 
-(2) In prescribing such conditions and allowances, the Secretaries concerned shall provide that a member who is performing travel under orders away from his designated post of duty and who is authorized a per diem under clause (2) of subsection (d) shall be paid for the meals portion of that per diem in a cash amount at a rate that is not less than the rate established under section 1011(a) of this title for meals sold to members. The preceding sentence shall not apply with respect to a member on field duty or sea duty (as defined in regulations prescribedunder section 402(e) <sup>1</sup> of this title) or a member of a unit with respect to which the Secretary concerned has determined that unit messing is essential to the accomplishment of the unit's training and readiness.
+(2) In prescribing such conditions and allowances, the Secretaries concerned shall provide that a member who is performing travel under orders away from his designated post of duty and who is authorized a per diem under clause (2) of subsection (d) shall be paid for the meals portion of that per diem in a cash amount at a rate that is not less than the rate established under section 1011(a) of this title for meals sold to members. The preceding sentence shall not apply with respect to a member on field duty or sea duty (as defined in regulations prescribed under section 402(e) <sup>1</sup> of this title) or a member of a unit with respect to which the Secretary concerned has determined that unit messing is essential to the accomplishment of the unit's training and readiness.
 
 (c)(1) Under uniform regulations prescribed by the Secretaries concerned and as provided in paragraph (2), a member who—
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) is retired with pay under any other law, or, immediately following at least eight years of continuous active duty with no single break therein or more than 90 days, is discharged with separation pay or severance pay or is involuntarily released from active duty with separation pay or readjustment pay; or
 
-&emsp;(C) is involuntarily separated from active duty during the nine-year period beginning on October 1, 1990,
+&emsp;(C) is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on September 30, 2001,
 
 > may, not later than one year from the date he is so retired, placed on that list, involuntarily separated, discharged, or released, except as prescribed in regulations by the Secretaries concerned, select his home for the purposes of the travel and transportation allowances authorized by subsection (a).
 
@@ -42,7 +42,7 @@
 
 (d)(1) The travel and transportation allowances authorized for each kind of travel may not be more than one of the following:
 
-&emsp;(A) Transportation in kind, reimbursement therefor, or, under regulations prescribed by the Secretaries concerned, when travel by privately owned conveyance is authorized or approved as more advantageous to the Government, a monetary allowance in place of the cost of transportation, at the rates provided in section 5704 of title 5.
+&emsp;(A) Transportation in kind, reimbursement therefor, or, under regulations prescribed bythe Secretaries concerned, when travel by privately owned conveyance is authorized or approved as more advantageous to the Government, a monetary allowance in place of the cost of transportation, at the rates provided in section 5704 of title 5.
 
 &emsp;(B) Transportation in kind, reimbursement therefor, or a monetary allowance as provided in subparagraph (A), plus a payment in lieu of subsistence as provided in paragraph (2) in an amount sufficient to meet normal and necessary expenses in the area to which travel is performed.
 
@@ -78,11 +78,11 @@
 
 &emsp;(ii) who is separated from the service or released from active duty for a medical condition affecting the member, as determined by the Secretary concerned;
 
-&emsp;(iii) who is separated from the service or released from active duty because the period oftime for which the member initially enlisted or otherwise initially agreed to serve has been reduced by the Secretary concerned and is separated or released under honorable conditions;
+&emsp;(iii) who is separated from the service or released from active duty because the period of time for which the member initially enlisted or otherwise initially agreed to serve has been reduced by the Secretary concerned and is separated or released under honorable conditions;
 
 &emsp;(iv) who is discharged under section 1173 of title 10; or
 
-&emsp;(v) who is involuntarily separated from active duty during the nine-year period beginning on October 1, 1990.
+&emsp;(v) who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on September 30, 2001.
 
 (3) For purposes of entitlement to per diem in place of subsistence under subsection (d)(2), a member shall not be considered under subsection (a)(1) to be performing travel under orders away from his designated post of duty if such member—
 
@@ -116,7 +116,7 @@
 
 (j) In this section, the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025.)
 
 Historical and Revision Notes
 
@@ -162,7 +162,7 @@ In subsection (b), the words “The Secretaries concerned” are substituted for
 
 In subsection (c)(1), the words “under chapter 61 of title 10” are inserted for clarity. In clause (2), the words “under any other law” are substituted for the words “for any other reason”.
 
-In subsection (d), the words “may not be more than one of the following” are substituted for the words “shall be limited to one of the following”. The words “or to be established” and “existing” are omitted, since this section, being permanent law, is consistently applicable in the present and does not speak only as of the date of its enactment. The words “of the Army” aresubstituted for the words “Department of the Army” after the words “Chief of Finance” to conform to section 3036(a)(5) of title 10. The words “under clause (1) of this subsection” are substituted for the words “pursuant to existing law”.
+In subsection (d), the words “may not be more than one of the following” are substituted for the words “shall be limited to one of the following”. The words “or to be established” and “existing” are omitted, since this section, being permanent law, is consistently applicable in the present and does not speak only as of the date of its enactment. The words “of the Army” are substituted for the words “Department of the Army” after the words “Chief of Finance” to conform to section 3036(a)(5) of title 10. The words “under clause (1) of this subsection” are substituted for the words “pursuant to existing law”.
 
 In subsection (e), the words “Fleet Logistic Air Wings” are substituted for the words “Fleet Logistics Support Unit” to reflect present terminology.
 
@@ -170,7 +170,7 @@ In subsection (f), the words “under this section” are substituted for the wo
 
 #### References in Text
 
-Section 402 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771, and, as so amended, subsec. (e) of section 402 no longer relates to regulations. Authority to prescribe regulations for the administration of section 402 is contained elsewhere in section 402.
+Section 402 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771, and was further amended by Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037, and, as so amended, subsec. (e) of section 402 no longer relates to regulations. Authority to prescribe regulations for the administration of section 402 is contained elsewhere in section 402.
 
 #### Codification
 
@@ -191,6 +191,8 @@ Dec. 21, 1982, Pub. L. 97–377, title I, §101(c) \[title VII, §767\], 96 Stat
 Dec. 29, 1981, Pub. L. 97–114, title VII, §771, 95 Stat. 1590.
 
 #### Amendments
+
+1998—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
 
@@ -320,7 +322,7 @@ Section 807(b) of Pub. L. 96–342 provided that: “The amendments made by subs
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–296 provided that: “The amendments made by this Act \[amending this section\]become effective on the first day of the first calendar month following the date of enactment \[May 29, 1976\].”
+Section 2 of Pub. L. 94–296 provided that: “The amendments made by this Act \[amending this section\] become effective on the first day of the first calendar month following the date of enactment \[May 29, 1976\].”
 
 #### Effective Date of 1967 Amendment
 
@@ -332,7 +334,7 @@ Section 8(a) of Pub. L. 100–26, as amended by Pub. L. 100–180, div. A, title
 
 #### Transmission of Certification of Travel and Transportation Allowances to Congress With Respect to Fiscal Year 1987
 
-Section 615(b) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, related to transmission to Congress by Secretary of Defense of certification of costs of travel and transportation allowances for fiscal year 1987. See Termination of Amendments by Public Laws 99–500 and 99–591 note above.
+Section 615(b) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, related to transmission to Congress by Secretary of Defense of certification of costs of travel and transportation allowances for fiscal year 1987. See Terminationof Amendments by Public Laws 99–500 and 99–591 note above.
 
 #### Increase in Rate Per Mile for Mileage Allowance
 

@@ -128,7 +128,7 @@ Nothing contained in this section shall be construed to authorize or permit any 
 
 #### (<i>l</i>) Advisory committees established by Department of Agriculture
 
-The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to any advisory committee established under subsection (c) of this section.
+The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.)shall not apply to any advisory committee established under subsection (c) of this section.
 
 #### (m) “Non-Federal government” defined
 
@@ -182,7 +182,7 @@ Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted “The President s
 
 Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for “policy advice”, “technical advice” and “advice on other factors”, struck out “on negotiations” and “on negotiations on particular products both domestic and foreign” after “policy advice” and “technical advice and information” and substituted “factors relevant to the matters referred to in subsection (a) of this section” for “factors relevant to positions of the United States in trade negotiations.”
 
-Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
+Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committeefor Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
 
 Subsec. (f)(2). Pub. L. 96–39, §1103(15)(A), (B), substituted “committees” for “groups” and “with respect to matters referred to in subsection (a) of this section” for “on the negotiation of any trade agreement”.
 
@@ -190,7 +190,7 @@ Subsec. (g). Pub. L. 96–39, §1103(16), (17)(A), (B), substituted in par. (1)(
 
 Subsec. (i). Pub. L. 96–39, §1103(18)(A)–(C), struck out in provision before cl. (1) “, both during preparation for negotiations and actual negotiations” after “basis” and in cl. (1) “arising in preparation for or in the course of such negotiations” after “developments” and substituted in cl. (2) “with respect to matters referred to in subsection (a) of this section” for “to the negotiations”.
 
-Subsec. (j). Pub. L. 96–39, §1103(19), substituted “matters referred to in subsection (a) of this section” for“trade agreement referred to in section 2111 or 2112 of this title”.
+Subsec. (j). Pub. L. 96–39, §1103(19), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title”.
 
 Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
 
@@ -252,5 +252,5 @@ Term of Trade and Environment Policy Committee extended until Sept. 30, 1997, by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
+This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2902, 2903, 3108,3313, 3437, 3524, 3533, 3537 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
 

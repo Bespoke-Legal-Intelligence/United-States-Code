@@ -16,7 +16,7 @@ The purpose of the Residential Energy Assistance Challenge (in this section refe
 
 #### (1) Allocation
 
-&emsp;For each of the fiscal years 1996 through 1999, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to Statesthat submit qualifying plans that are approved by the Secretary as R.E.A.Ch. initiatives. States may use such grants for the costs of planning, implementing, and evaluating the initiative.
+&emsp;For each fiscal year, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to States that submit qualifying plans that are approved by the Secretary as R.E.A.Ch. initiatives. States may use such grants for the costs of planning, implementing, and evaluating the initiative.
 
 #### (2) Reservation
 
@@ -94,9 +94,9 @@ The State may designate all or part of the State, or all or part of the client p
 
 &emsp;&emsp;&emsp;(iii) the amount of such benefit required to meet the goals of the program;
 
-&emsp;&emsp;(F) <sup>1</sup> a method for targeting nonmonetary benefits;
+&emsp;&emsp;(E) a method for targeting nonmonetary benefits;
 
-&emsp;&emsp;(G) a description of the crisis and emergency assistance activities the State will undertake that are designed to—
+&emsp;&emsp;(F) a description of the crisis and emergency assistance activities the State will undertake that are designed to—
 
 &emsp;&emsp;&emsp;(i) discourage family energy crises;
 
@@ -104,45 +104,71 @@ The State may designate all or part of the State, or all or part of the client p
 
 &emsp;&emsp;&emsp;(iii) provide only financial incentives that encourage household payment;
 
-&emsp;&emsp;(H) a description of the activities the State will undertake to—
+&emsp;&emsp;(G) a description of the activities the State will undertake to—
 
 &emsp;&emsp;&emsp;(i) provide incentives for recipients of assistance to pay home energy costs; and
 
 &emsp;&emsp;&emsp;(ii) provide incentives for vendors to help reduce the energy burdens of recipients of assistance;
 
-&emsp;&emsp;(I) an assurance that the State will require each entity that receives a grant or enters into a contract under this section to solicit and be responsive to the views of individuals who are financially eligible for benefits and services under this section in establishing its local program;
+&emsp;&emsp;(H) an assurance that the State will require each entity that receives a grant or enters into a contract under this section to solicit and be responsive to the views of individuals who are financially eligible for benefits and services under this section in establishing its local program;
 
-&emsp;&emsp;(J) a description of performance goals for the State R.E.A.Ch. initiative including—
+&emsp;&emsp;(I) a description of performance goals for the State R.E.A.Ch. initiative including—
 
-&emsp;&emsp;&emsp;(i) a reduction in the energy costs on participating households over one or more fiscal years;
+&emsp;&emsp;&emsp;(i) a reduction in the energy costs of participating households over one or more fiscal years;
 
 &emsp;&emsp;&emsp;(ii) an increase in the regularity of home energy bill payments by eligible households; and
 
 &emsp;&emsp;&emsp;(iii) an increase in energy vendor contributions towards reducing energy burdens of eligible households;
 
-&emsp;&emsp;(K) a description of the indicators that will be used by the State to measure whether the performance goals have been achieved;
+&emsp;&emsp;(J) a description of the indicators that will be used by the State to measure whether the performance goals have been achieved;
 
-&emsp;&emsp;(L) a demonstration that the plan is consistent with section 8622 of this title, paragraphs (2), (3), (4), (5), (7), (9), (10), (11), (12), (13), and (14) of section 8624(b) of this title, subsections (d), (e), (f), (g), (h), (i), and (j) of section 8624 of this title, and section 8625 of this title;
+&emsp;&emsp;(K) a demonstration that the plan is consistent with section 8622 of this title, paragraphs (2), (3), (4), (5), (7), (9), (10), (11), (12), (13), and (14) of section 8624(b) of this title, subsections (d), (e), (f), (g), (h), (i), and (j) of section 8624 of this title, and section 8625 of this title;
 
-&emsp;&emsp;(M) an assurance that benefits and services will be provided in addition to other benefit payments and services provided under this subchapter and in coordination with such benefit payments and services; and
+&emsp;&emsp;(L) an assurance that benefits and services will be provided in addition to other benefit payments and services provided under this subchapter and in coordination with such benefit payments and services; and
 
-&emsp;&emsp;(N) an assurance that no regulated utility covered by the plan will be required to act in a manner that is inconsistent with applicable regulatory requirements.
+&emsp;&emsp;(M) an assurance that no regulated utility covered by the plan will be required to act in a manner that is inconsistent with applicable regulatory requirements.
 
-#### (g) <sup>2</sup> Cost or function
+#### (f) Cost or function
 
 None of the costs of providing services or benefits under this section shall be considered to be an administrative cost or function for purposes of any limitation on administrative costs or functions contained in this subchapter.
 
-(Pub. L. 97–35, title XXVI, §2607B, as added Pub. L. 103–252, title III, §312, May 18, 1994, 108 Stat. 662.)
+(Pub. L. 97–35, title XXVI, §2607B, as added Pub. L. 103–252, title III, §312, May 18, 1994, 108 Stat. 662; amended Pub. L. 105–285, title III, §308(c), (d), Oct. 27, 1998, 112 Stat. 2758.)
 
 #### References in Text
 
 The Energy Conservation and Production Act, referred to in subsec. (e)(2)(B)(iii), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
+#### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–285, §308(c), substituted “For each fiscal year” for “For each of the fiscal years 1996 through 1999”.
+
+Subsec. (e)(2)(E) to (H). Pub. L. 105–285, §308(d)(1)(A), redesignated subpars. (F) to (I) as (E) to (H), respectively.
+
+Subsec. (e)(2)(I). Pub. L. 105–285, §308(d)(1)(A), redesignated subpar. (J) as (I). Former subpar. (I) redesignated (H).
+
+Subsec. (e)(2)(I)(i). Pub. L. 105–285, §308(d)(1)(B), substituted “of” for “on”.
+
+Subsec. (e)(2)(J) to (N). Pub. L. 105–285, §308(d)(1)(A), redesignated subpars. (K) to (N) as (J) to (M), respectively.
+
+Subsecs. (f), (g). Pub. L. 105–285, §308(d)(2), redesignated subsec. (g) as (f).
+
 #### Effective Date
 
 Section effective Oct. 1, 1994, see section 314 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 8621 of this title.
 
-<i><sup>1</sup></i><i> So in original. No subpar. (E) has been enacted.</i>
+#### Evaluation and Report on Residential Energy Assistance Challenge Option
 
-<i><sup>2</sup></i><i> So in original. No subsec. (f) has been enacted.</i>
+Pub. L. 105–285, title III, §308(a), (b), Oct. 27, 1998, 112 Stat. 2758, provided that:
+
+“(a)
+
+Evaluation.—The Comptroller General of the United States shall conduct an evaluation of the Residential Energy Assistance Challenge program described in section 2607B of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8626b).
+
+“(b)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[Oct. 27, 1998\], the Comptroller General of the United States shall prepare and submit to Congress a report containing—
+
+&emsp;“(1) the findings resulting from the evaluation described in subsection (a); and
+
+&emsp;“(2) the State evaluations described in paragraphs (1) and (2) of subsection (b) of such section 2607B.”
 

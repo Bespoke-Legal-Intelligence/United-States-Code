@@ -225,6 +225,7 @@
 | (g) | Annual reports. |
 | [5196c.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20A%20-%20Powers%20and%20Duties/%C2%A7%2005196c%20-%20Requirement%20for%20State%20matching%20funds%20for%20construction%20of%20emergency%20operating%20centers.md) | Requirement for State matching funds for construction of emergency operating centers. |
 | [5196d.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20A%20-%20Powers%20and%20Duties/%C2%A7%2005196d%20-%20Use%20of%20funds%20to%20prepare%20for%20and%20respond%20to%20hazards.md) | Use of funds to prepare for and respond to hazards. |
+| [5196e.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20A%20-%20Powers%20and%20Duties/%C2%A7%2005196e%20-%20Radiological%20Emergency%20Preparedness%20Fund.md) | Radiological Emergency Preparedness Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -273,7 +274,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1490q, 3030, 3231, 4003, 4104c, 5154a, 5203, 5306, 5665a, 8623, 9601, 12750 of this title; title 2 section 59–1; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 7285; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708; title 29 section 1784; title 33 section 701n; title 38 section 3720; title 43 section 1600e.
+This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 4003, 4104c, 5154a, 5203, 5306, 5665a, 8623, 9601, 12750 of this title; title 2 section 59–1; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708, 6404; title 29 section 1784; title 33 section 701n; title 38 section 3720; title 43 section 1600e.
 
 
 ---

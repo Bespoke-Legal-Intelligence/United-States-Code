@@ -2,7 +2,7 @@
 
 The President is authorized from time to time, as the exigencies of the service may require, to rearrange, by consolidation or otherwise, the several customs-collection districts and to discontinue ports of entry by abolishing the same or establishing others in their stead. The President is authorized from time to time to change the location of the headquarters in any customs-collection district as the needs of the service may require.
 
-(Aug. 1, 1914, ch. 223, 38 Stat. 623; May 29, 1928, ch. 901, §1(19), 45 Stat. 987; June 2, 1970, Pub. L. 91–271, title III, §302, 84 Stat. 291.)
+(Aug. 1, 1914, ch. 223, 38 Stat. 623; May 29, 1928, ch. 901, §1(19), 45 Stat. 987; Pub. L. 91–271, title III, §302, June 2, 1970, 84 Stat. 291.)
 
 #### Amendments
 
@@ -41,8 +41,4 @@ Pub. L. 98–573, title II, §238, Oct. 30, 1984, 98 Stat. 2993, directed Commis
 #### Pembina, North Dakota, Customs District; Change in Boundaries Prohibited Without Congressional Consent
 
 Pub. L. 93–245, ch. X, §1000, Jan. 3, 1974, 87 Stat. 1083, prohibited use of funds to change boundaries of Pembina, North Dakota Customs District (Region IX), without consent of certain Congressional committees.
-
-#### Display of Flag at Ports of Entry
-
-For provisions concerning display of flag of United States Customs Ports of Entry, see Proc. No. 4131, May 5, 1972, 37 F.R. 9311, set out as a note under section 174 of Title 36, Patriotic Societies and Observances.
 

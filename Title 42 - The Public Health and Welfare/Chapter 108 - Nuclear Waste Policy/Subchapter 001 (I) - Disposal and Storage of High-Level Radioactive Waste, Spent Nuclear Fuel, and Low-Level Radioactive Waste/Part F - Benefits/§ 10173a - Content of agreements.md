@@ -46,7 +46,7 @@ A benefits agreement under section 10173 of this title shall provide that—
 
 &emsp;(4) the State or Indian tribe that is party to such agreement participate in the design of the repository or monitored retrievable storage facility and in the preparation of documents required under law or regulation governing the effects of the facility on the public health and safety; and
 
-&emsp;(5)  the  State  or  Indian  tribe  waive  its rights,  if  any,  to  impact  assistance  under sections   10136(c)(1)(B)(ii),   10136(c)(2), 10138(b)(2)(A)(ii), and 10138(b)(3) of this title.
+&emsp;(5) the State or Indian tribe waive its rights, if any, to impact assistance under sections 10136(c)(1)(B)(ii), 10136(c)(2), 10138(b)(2)(A)(ii), and 10138(b)(3) of this title.
 
 #### (c) Payments by Secretary
 

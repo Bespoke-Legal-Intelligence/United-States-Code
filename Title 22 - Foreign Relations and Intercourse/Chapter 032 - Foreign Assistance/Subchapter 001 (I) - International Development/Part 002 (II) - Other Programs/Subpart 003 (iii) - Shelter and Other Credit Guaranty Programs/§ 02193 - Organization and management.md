@@ -6,7 +6,7 @@ The Corporation shall have a Board of Directors, a President, an Executive Vice 
 
 #### (b) Board of directors
 
-All powers of the Corporation shall vest in and be exercised by or under the authority of its Board of Directors (“the Board”) which shall consist of fifteen Directors, including the Chairman, with eight Directors constituting a quorum for the transaction of business. The Director of the United States International Development Cooperation Agency shall be the Chairman of the Board, ex officio. The United States Trade Representative shall be the Vice Chairman of the Board, ex officio, except that the United States Trade Representative may designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative. Eight Directors (other than the President of the Corporation, appointed pursuant to subsection (c) of this section who shall serve as a Director, ex officio) shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall not be officials or employees of the Government of the United States. At least two of the eight Directors appointed under the preceding sentence shall be experienced in small business, one in organized labor, and one in cooperatives. Each such Director shall be appointed for a term of no more than three years. The terms of no more than three such Directors shall expire in any one year. Such Directors shall serve until their successors are appointed and qualified and may be reappointed.
+All powers of the Corporation shall vest in and be exercised by or under the authority of itsBoard of Directors (“the Board”) which shall consist of fifteen Directors, including the Chairman, with eight Directors constituting a quorum for the transaction of business. The Administrator of the Agency for International Development shall be the Chairman of the Board, ex officio. The United States Trade Representative shall be the Vice Chairman of the Board, ex officio, except that the United States Trade Representative may designate the Deputy United States Trade Representative to serve as Vice Chairman of the Board in place of the United States Trade Representative. Eight Directors (other than the President of the Corporation, appointed pursuant to subsection (c) of this section who shall serve as a Director, ex officio) shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall not be officials or employees of the Government of the United States. At least two of the eight Directors appointed under the preceding sentence shall be experienced in small business, one in organized labor, and one in cooperatives. Each such Director shall be appointed for a term of no more than three years. The terms of no more than three such Directors shall expire in any one year. Such Directors shall serve until their successors are appointed and qualified and may be reappointed.
 
 The other Directors shall be officials of the Government of the United States, including an official of the Department of Labor, designated by and serving at the pleasure of the President of the United States.
 
@@ -20,7 +20,7 @@ The President of the Corporation shall be appointed by the President of the Unit
 
 The Executive Vice President of the Corporation shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall serve at the pleasure of the President. Other officers, attorneys, employees, and agents shall be selected and appointed by the Corporation, and shall be vested with such powers and duties as the Corporation may determine. Of such persons employed by the Corporation, not to exceed twenty may be appointed, compensated, or removed without regard to the civil service laws and regulations: <i>Provided</i>, That under such regulations as the President of the United States may prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, except for cause, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those otherwise authorized by law, including those authorized by section 5108 of title 5.
 
-(Pub. L. 87–195, pt. I, §233, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 810; amended 1979 Reorg. Plan No. 2, §6(a)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379; Pub. L. 97–65, §3(a), (b), Oct. 16, 1981, 95 Stat. 1021, 1022.)
+(Pub. L. 87–195, pt. I, §233, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 810; amended Pub. L. 97–65, §3(a), (b), Oct. 16, 1981, 95 Stat. 1021, 1022.)
 
 #### References in Text
 
@@ -39,14 +39,6 @@ A prior section 233 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, con
 #### Effective Date of 1981 Amendment
 
 Section 3(c) of Pub. L. 97–65 provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1981.”
-
-#### Transfer of Functions
-
-“The Director of the United States International Development Cooperation Agency” substituted for “The Administrator of the Agency for International Development” in subsec. (b), pursuant to Reorg. Plan No. 2 of 1979, §6(a)(1), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred all functions and authorities of the Administrator of the Agency for International Development under subsec. (b) of this section to the Director of the United States International Development Cooperation Agency.
-
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with exception of functions under subsec. (b) of this section and certain other exceptions, by sections 1–102(a)(1), (e) and 1–701(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Members of Board of Directors of Overseas Private Investment Corporation
 

@@ -82,7 +82,7 @@ Subsection (c) provides flexibility in the inspection of various sizes of nautic
 
 #### References in Text
 
-Section 13 of the Coast Guard Authorization Act of 1986, referred to in subsec. (c), is section 13 of Pub. L. 99–640, which enacted section 484d of Title 40, Public Buildings, Property, and Works and amended sections 2101 and 3305 of this title.
+Section 13 of the Coast Guard Authorization Act of 1986, referred to in subsec. (c), is section 13 of Pub. L. 99–640, which enacted section 484d of Title 40, Public Buildings, Property, and Works, and amended sections 2101 and 3305 of this title.
 
 #### Amendments
 

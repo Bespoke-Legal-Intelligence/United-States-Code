@@ -20,7 +20,7 @@ General Limitations.—A State may not allow by any means the operation, on any 
 
 Special Rules for Wyoming, Ohio, Alaska, and Iowa.—In addition to the vehicles allowed under subsection (b) of this section—
 
-&emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, ifthe vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
+&emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
 
 &emsp;(2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
 
@@ -58,7 +58,7 @@ Limitations on Statutory Construction.—This section may not be construed—
 
 &emsp;(2) to affect in any way the operation of a commercial motor vehicle having only one property-carrying unit; or
 
-&emsp;(3) to affect in any way the operation in a State of a commercial motor vehicle with more than one property-carrying unit if thevehicle was in actual operation on a regular or periodic basis (including seasonal operation) in that State before June 2, 1991, that was authorized under State law or regulation or lawful State permit.
+&emsp;(3) to affect in any way the operation in a State of a commercial motor vehicle with more than one property-carrying unit if the vehicle was in actual operation on a regular or periodic basis (including seasonal operation) in that State before June 2, 1991, that was authorized under State law or regulation or lawful State permit.
 
 (g)
 

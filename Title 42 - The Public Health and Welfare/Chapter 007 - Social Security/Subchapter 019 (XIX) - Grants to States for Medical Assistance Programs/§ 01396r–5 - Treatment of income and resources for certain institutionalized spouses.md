@@ -22,7 +22,7 @@
 
 #### (A) Application in States operating under demonstration projects
 
-&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the Statehad in effect a plan approved under this subchapter.
+&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (B) No application in commonwealths and territories
 
@@ -30,7 +30,7 @@
 
 #### (5) Application to individuals receiving services under PACE programs
 
-&emsp;This section applies to individuals receiving institutional or noninstitutional services under a PACE demonstration waiver program (as defined in section 1396u–4(a)(7) of this title) or under a PACE program under section 1396u–4 or 1395eee of this title.
+&emsp;This section applies to individuals receiving institutional or noninstitutional servicesunder a PACE demonstration waiver program (as defined in section 1396u–4(a)(7) of this title) or under a PACE program under section 1396u–4 or 1395eee of this title.
 
 #### (b) Rules for treatment of income
 
@@ -168,7 +168,7 @@
 
 #### (C) Cap on minimum monthly maintenance needs allowance
 
-&emsp;&emsp;The minimum monthly maintenance needs allowance established under subparagraph\(A) may not exceed $1,500 (subject to adjustment under subsections (e) and (g) of this section).
+&emsp;&emsp;The minimum monthly maintenance needs allowance established under subparagraph (A) may not exceed $1,500 (subject to adjustment under subsections (e) and (g) of this section).
 
 #### (4) Excess shelter allowance defined
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;(A) the greatest of—
 
-&emsp;&emsp;&emsp;(i) $12,000 (subject to adjustment under subsection (g) of this section), or, if greater (but not to exceed the amount specifiedin clause (ii)(II)) an amount specified under the State plan,
+&emsp;&emsp;&emsp;(i) $12,000 (subject to adjustment under subsection (g) of this section), or, if greater (but not to exceed the amount specified in clause (ii)(II)) an amount specified under the State plan,
 
 &emsp;&emsp;&emsp;(ii) the lesser of (I) the spousal share computed under subsection (c)(1) of this section, or (II) $60,000 (subject to adjustment under subsection (g) of this section),
 
@@ -268,7 +268,7 @@ In this section:
 
 &emsp;(2) The term “community spouse” means the spouse of an institutionalized spouse.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1924, as added July 1, 1988, Pub. L. 100–360, title III, §303(a)(1)(B), 102 Stat. 754; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(16)(A), 102 Stat. 2417; Dec. 19, 1989, Pub. L. 101–239, title VI, §6411(e)(3), 103 Stat. 2271; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), 104 Stat. 1388–192, 1388–198; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), 107 Stat. 627, 647; May 18, 1994, Pub. L. 103–252, title I, §125(b), 108 Stat. 650; Aug. 5, 1997, Pub. L. 105–33, title IV, §4802(b)(1), 111 Stat. 548.)
+(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548.)
 
 #### Prior Provisions
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to paymentsunder this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
+Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
 
 #### Effective Date of 1990 Amendment
 

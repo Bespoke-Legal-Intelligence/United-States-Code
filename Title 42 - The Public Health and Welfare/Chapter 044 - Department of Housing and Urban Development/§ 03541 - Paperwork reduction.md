@@ -40,7 +40,7 @@ The Director of the Office of Management and Budget shall coordinate and monitor
 
 #### References in Text
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(1)(E), Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(1)(E), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 Public Law 93–556, referred to in subsec. (c), is Pub. L. 93–556, Dec. 27, 1974, 88 Stat. 1789, which is set out as a note under section 3501 of Title 44, Public Printing and Documents.
 
@@ -56,7 +56,7 @@ Section was not enacted as part of the Department of Housing and Urban Developme
 
 1979—Subsec. (a). Pub. L. 96–153 reenacted subsec. (a) without change.
 
-Subsec. (b). Pub. L. 96–153 substituted, in provision preceding par. (1)(A), “Not later than October 1, 1980, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Administrator of Veterans’ Affairs shall, consistent with provisions of law governing the conduct of housing programs,” for “Insofar as it is practicable and to the extent that such action would result in a reduction in paperwork and regulatory burden, the Department of Housing and Urban Development and the Veterans’ Administration shall”, inserted reference to Secretary of Agriculture in par. (1)(F), added par. (2), redesignated former par. (2) as (3), and struck out former par. (3), which authorized the President to require the Farmers Home Administration and Administrator of the Farmers Home Administration to comply with the requirements of this section if such compliance would contribute to a reduction in the paperwork and regulatory burden of housing and housing finance programs administered by that agency.
+Subsec. (b). Pub. L. 96–153 substituted, in provision preceding par. (1)(A), “Not later than October 1, 1980, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Administrator of Veterans’ Affairs shall, consistent with provisions of law governing the conduct of housing programs,” for “Insofar as it is practicable and to the extent that such action would result in a reduction in paperwork and regulatory burden, the Department of Housing and Urban Development and the Veterans’ Administration shall”, inserted reference to Secretary of Agriculture in par. (1)(F), added par. (2), redesignated former par. (2) as (3), and struck out former par. (3), which authorized the President to require the Farmers Home Administration and Administrator of the Farmers Home Administration to comply with the requirements of thissection if such compliance would contribute to a reduction in the paperwork and regulatory burden of housing and housing finance programs administered by that agency.
 
 Subsec. (c). Pub. L. 96–153 inserted provision requiring the reports to include an estimate of the reduction of the level of paperwork burden hours of the affected agencies as allocated by the Office of Management and Budget.
 

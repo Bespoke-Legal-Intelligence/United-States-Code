@@ -6,7 +6,7 @@ I, A. B., master \_\_\_\_\_\_, of the \_\_\_\_\_\_, arriving from \_\_\_\_\_\_, 
 
 Whoever, being the master or other person having charge or control of such vessel, breaks bulk before he has arranged for such delivery or onward carriage, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 777; July 3, 1952, ch. 553, 66 Stat. 325; Aug. 12, 1970, Pub. L. 91–375, §6(j)(15), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 777; July 3, 1952, ch. 553, 66 Stat. 325; Pub. L. 91–375, §6(j)(15), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

@@ -12,7 +12,7 @@ The Secretary may make a grant under section 300x–21 of this title only if the
 
 &emsp;(5) the extent to which the availability of such activities is insufficient to meet the need for the activities, the interim services to be made available under sections 300x–23(a) and 300x–27(b) of this title, and the manner in which such services are to be so available.
 
-(July 1, 1944, ch. 373, title XIX, §1929, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 396.)
+(July 1, 1944, ch. 373, title XIX, §1929, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 396.)
 
 #### Prior Provisions
 

@@ -30,7 +30,7 @@ As used in this section—
 
 &emsp;(1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-&emsp;(2) the term “intern” means, with respect to a Member of the House of Representatives, anindividual who serves in the office of the Member for not more than 120 days in a 12-month period and whose service is primarily for the educational experience of the individual;
+&emsp;(2) the term “intern” means, with respect to a Member of the House of Representatives, an individual who serves in the office of the Member for not more than 120 days in a 12-month period and whose service is primarily for the educational experience of the individual;
 
 &emsp;(3) the term “part-time employee” means, with respect to a Member of the House of Representatives, an individual who is employed by the Member and whose normally assigned work schedule is not more than the equivalent of 15 full working days per month;
 
@@ -55,6 +55,10 @@ A prior section 92, acts Jan. 25, 1923, ch. 43, 42 Stat. 1217; July 25, 1939, ch
 #### Amendments
 
 1997—Subsec. (c)(2). Pub. L. 105–55 struck out “in the District of Columbia” after “office of the Member”.
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1997 Amendment
 

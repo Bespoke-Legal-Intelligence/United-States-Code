@@ -30,7 +30,7 @@ It is the purpose of this chapter—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 100–77, July 22,1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 1994 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 103–120, §2, Oct. 27, 1993, 107 Stat. 1144, as amended by Pub. L. 104
 
 #### Strategy To Eliminate Unfit Transient Facilities
 
-Pub. L. 101–625, title VIII, §825, Nov. 28, 1990, 104 Stat. 4356, as amended by Pub. L. 102–550, title XIV, §1412, Oct. 28, 1992, 106 Stat. 4039, directed Secretary of Housing and Urban Development, not more than 9 months after Oct. 28, 1992, to identify the States and units of general local government using unfit transient facilities as housing for homeless families with children and develop and publish in the Federal Register a strategy to eliminate such use by July 1, 1994, and in developing such strategy, to consult with the Secretary of the Department of Health and Human Services, the Administrator of the Federal Emergency Management Agency,other appropriate Federal officials, appropriate States and units of general local government, major organizations representing homeless persons and other experts.
+Pub. L. 101–625, title VIII, §825, Nov. 28, 1990, 104 Stat. 4356, as amended by Pub. L. 102–550, title XIV, §1412, Oct. 28, 1992, 106 Stat. 4039, directed Secretary of Housing and Urban Development, not more than 9 months after Oct. 28, 1992, to identify the States and units of general local government using unfit transient facilities as housing for homeless families with children and develop and publish in the Federal Register a strategy to eliminate such use by July 1, 1994, and in developing such strategy, to consult with the Secretary of the Department of Health and Human Services, the Administrator of the Federal Emergency Management Agency, other appropriate Federal officials, appropriate States and units of general local government, major organizations representing homeless persons and other experts.
 
 #### Report on Effect of Rent Control on Homelessness
 

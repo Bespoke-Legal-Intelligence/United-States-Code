@@ -6,17 +6,19 @@ OSIA should receive policy guidance which is formulated through an interagency m
 
 #### (b) Role of Secretary of Defense
 
-The Secretary of Defense should provide to OSIA appropriate policy guidance formulatedthrough the interagency mechanism described in subsection (a) of this section and operational direction, consistent with section 113(b) of title 10.
+The Secretary of Defense should provide to OSIA appropriate policy guidance formulated through the interagency mechanism described in subsection (a) of this section and operational direction, consistent with section 113(b) of title 10.
 
-#### (c) Role of Director
+#### (c) Role of Secretary of State
 
-The Director should provide to the interagency mechanism described in subsection (a) of this section appropriate recommendations for policy guidance to OSIA consistent with sections 2551(d),<sup>1</sup> 2562, and 2574(c) of this title.
+The Secretary of State should provide to the interagency mechanism described in subsection (a) of this section appropriate recommendations for policy guidance to OSIA consistent with sections 2551(3) and 2574(b) of this title.
 
-(Pub. L. 87–297, title V, §62, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1855.)
+(Pub. L. 87–297, title V, §502, formerly §62, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1855; renumbered §502 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(18), (21), Oct. 21, 1998, 112 Stat. 2681–772.)
 
-#### References in Text
+#### Amendments
 
-Section 2551 of this title, referred to in subsec. (c), was amended by Pub. L. 103–236, title VII, §703, Apr. 30, 1994, 108 Stat. 491, and, as so amended, no longer contains a par. (d). See section 2551(4) of this title.
+1998—Subsec. (c). Pub. L. 105–277, §1223(18), in heading substituted “Secretary of State” for “Director” and in text substituted “Secretary of State” for “Director” and “2551(3) and 2574(b)” for “2551(d), 2562, and 2574(c)”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

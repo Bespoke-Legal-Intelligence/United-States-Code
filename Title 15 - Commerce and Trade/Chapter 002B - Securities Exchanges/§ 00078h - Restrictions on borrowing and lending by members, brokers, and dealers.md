@@ -6,7 +6,7 @@ It shall be unlawful for any registered broker or dealer, member of a national s
 
 (b) To lend or arrange for the lending of any securities carried for the account of any customer without the written consent of such customer or in contravention of such rules and regulations as the Commission shall prescribe for the protection of investors.
 
-(June 6, 1934, ch. 404, title I, §8, 48 Stat. 888; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 4, 1975, Pub. L. 94–29, §5, 89 Stat. 109; Oct. 3, 1984, Pub. L. 98–440, title I, §103, 98 Stat. 1690; Sept. 23, 1994, Pub. L. 103–325, title II, §204, 108 Stat. 2199; Oct. 11, 1996, Pub. L. 104–290, title I, §104(b), 110 Stat. 3423.)
+(June 6, 1934, ch. 404, title I, §8, 48 Stat. 888; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 94–29, §5, June 4, 1975, 89 Stat. 109; Pub. L. 98–440, title I, §103, Oct. 3, 1984, 98 Stat. 1690; Pub. L. 103–325, title II, §204, Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–290, title I, §104(b), Oct. 11, 1996, 110 Stat. 3423.)
 
 #### Amendments
 

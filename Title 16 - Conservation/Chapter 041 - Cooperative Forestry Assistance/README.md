@@ -87,6 +87,7 @@
 | (c) | Conditions. |
 | (d) | Definitions. |
 | (e) | Retroactive assistance. |
+| [2106b.](%C2%A7%2002106b%20-%20Use%20of%20money%20collected%20from%20States%20for%20fire%20suppression%20assistance.md) | Use of money collected from States for fire suppression assistance. |
 | [2107\.](%C2%A7%2002107%20-%20Financial%2C%20technical%2C%20and%20related%20assistance%20to%20States.md) | Financial, technical, and related assistance to States. |
 | (a) | Development of State organizations for protection and management of non-Federal forest lands; scope of assistance; request by officials. |
 | (b) | Assembly, analysis, display, and reporting of State forest resources data, resources planning, etc.; scope of assistance; other statutory provisions unaffected. |
@@ -149,6 +150,7 @@ This chapter is referred to in sections 1606, 2106a of this title; title 7 secti
 - [&sect; 02105 - Urban and community forestry assistance](%C2%A7%2002105%20-%20Urban%20and%20community%20forestry%20assistance.md)
 - [&sect; 02106 - Rural fire prevention and control](%C2%A7%2002106%20-%20Rural%20fire%20prevention%20and%20control.md)
 - [&sect; 02106a - Emergency reforestation assistance](%C2%A7%2002106a%20-%20Emergency%20reforestation%20assistance.md)
+- [&sect; 02106b - Use of money collected from States for fire suppression assistance](%C2%A7%2002106b%20-%20Use%20of%20money%20collected%20from%20States%20for%20fire%20suppression%20assistance.md)
 - [&sect; 02107 - Financial, technical, and related assistance to States](%C2%A7%2002107%20-%20Financial%2C%20technical%2C%20and%20related%20assistance%20to%20States.md)
 - [&sect; 02108 - Consolidation of payments](%C2%A7%2002108%20-%20Consolidation%20of%20payments.md)
 - [&sect; 02109 - General provisions](%C2%A7%2002109%20-%20General%20provisions.md)

@@ -120,7 +120,7 @@
 
 #### (ii) Public notice
 
-&emsp;&emsp;&emsp;Upon the effective date of any designation of an area as a qualified distressed community, an insured depository institution shall publish a notice of such designation in major newspapers and other community publications which serve such area.
+&emsp;&emsp;&emsp;Upon the effective date of any designation of an area as a qualified distressedcommunity, an insured depository institution shall publish a notice of such designation in major newspapers and other community publications which serve such area.
 
 #### (B) Agency duties relating to designations
 
@@ -130,7 +130,7 @@
 
 #### (ii) Period for disapproval
 
-&emsp;&emsp;&emsp;Any notice received by the appropriate Federal banking agency from any insureddepository institution under subparagraph (A)(i) shall take effect at the end of the 90-day period beginning on the date such notice is received unless written notice of the approval or disapproval of the application by the agency is provided to the institution before the end of such period.
+&emsp;&emsp;&emsp;Any notice received by the appropriate Federal banking agency from any insured depository institution under subparagraph (A)(i) shall take effect at the end of the 90-day period beginning on the date such notice is received unless written notice of the approval or disapproval of the application by the agency is provided to the institution before the end of such period.
 
 #### (3) Minimum area requirements
 
@@ -238,7 +238,7 @@ No community development financial institution may receive a community enterpris
 
 #### (A) In general
 
-&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for anyfiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
+&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
 
 #### (B) Priority for support of efforts of CDFI
 
@@ -316,7 +316,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557,set out as a Short Title note under section 8101 of Title 42 and Tables.
+The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557, set out as a Short Title note under section 8101 of Title 42 and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(D), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
@@ -386,7 +386,7 @@ Income.—At least 70 percent of the families and unrelated individuals residing
 
 “(B)
 
-Poverty.—At least 20 percent of the residents residing in the area have incomes which are less thanthe national poverty level (as determined pursuant to criteria established by the Director of the Office of Management and Budget).
+Poverty.—At least 20 percent of the residents residing in the area have incomes which are less than the national poverty level (as determined pursuant to criteria established by the Director of the Office of Management and Budget).
 
 “(C)
 

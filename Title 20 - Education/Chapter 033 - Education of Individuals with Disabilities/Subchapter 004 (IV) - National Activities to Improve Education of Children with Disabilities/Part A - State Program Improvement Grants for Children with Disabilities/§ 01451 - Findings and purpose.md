@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(A) maintain high academic standards and clear performance goals for children with disabilities, consistent with the standards and expectations for all students in the educational system, and provide for appropriate and effective strategies and methods to ensure that students who are children with disabilities have maximum opportunities to achieve those standards and goals;
 
-&emsp;&emsp;(B) create a system that fully addresses the needs of all students, including children with disabilities, by addressing the needs of children with disabilities in carrying out educational reform activities;
+&emsp;&emsp;(B) create a system that fully addresses the needs of all students, including children with disabilities, by addressing the needs ofchildren with disabilities in carrying out educational reform activities;
 
 &emsp;&emsp;(C) clearly define, in measurable terms, the school and post-school results that children with disabilities are expected to achieve;
 

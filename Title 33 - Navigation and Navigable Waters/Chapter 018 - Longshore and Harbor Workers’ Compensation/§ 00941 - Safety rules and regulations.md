@@ -8,7 +8,7 @@ Every employer shall furnish and maintain employment and places of employment wh
 
 The Secretary, in enforcing and administering the provisions of this section, is authorized in addition to such other powers and duties as are conferred upon him—
 
-&emsp;(1) to make studies and investigations with respect to safety provisions and the causes andprevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
+&emsp;(1) to make studies and investigations with respect to safety provisions and the causes and prevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
 
 &emsp;(2) to utilize the services of any agency of the United States or any State agency engaged in similar work (with the consent of such agency) in connection with the administration of this section;
 
@@ -54,7 +54,7 @@ Act of May 22, 1953, referred to in subsec. (g)(1), is known as the Submerged La
 
 Act of May 17, 1928, referred to in subsec. (g)(1), extended the applicability of this chapter in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia. See D.C. Law 3–77 (D.C. Code, §36–301 et seq.).
 
-Act of August 16, 1941, referred to in subsec. (g)(1), is known as the Defense Base Act and is classified generally to chapter 11 (§1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 42 and Tables.
+Act of August 16, 1941, referred to in subsec. (g)(1), is known as the Defense Base Act and is classified generally to chapter 11 (§1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 1651 of Title 42 and Tables.
 
 #### Codification
 

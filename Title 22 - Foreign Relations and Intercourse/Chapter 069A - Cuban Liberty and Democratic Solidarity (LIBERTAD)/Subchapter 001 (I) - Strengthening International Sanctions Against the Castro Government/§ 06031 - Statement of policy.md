@@ -14,7 +14,7 @@ It is the sense of the Congress that—
 
 &emsp;&emsp;(B) any further political manipulation of the desire of Cubans to escape that results in mass migration to the United States,
 
-> &emsp;will be considered an act of aggression which will be met with an appropriate response in order to maintain the security of the nationalborders of the United States and the health and safety of the American people.
+> &emsp;will be considered an act of aggression which will be met with an appropriate response in order to maintain the security of the national borders of the United States and the health and safety of the American people.
 
 (Pub. L. 104–114, title I, §101, Mar. 12, 1996, 110 Stat. 791.)
 

@@ -129,8 +129,6 @@
 | (b) | Conformity with rulemaking provisions. |
 | (c) | Contracts with non-Federal Government inspectors, auditors, etc.; coordination of auditing and enforcement functions. |
 | [1752\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001752%20-%20Reports.md) | Reports. |
-| (a) | Submission of annual report to Congress; contents. |
-| (b) | Biennial audit of Federal royalty management system; submission to Secretary and Congress. |
 | [1753\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001753%20-%20Relation%20to%20other%20laws.md) | Relation to other laws. |
 | (a) | Supplemental nature of chapter. |
 | (b) | Responsibilities of Secretary related to minerals on Federal and Indian lands. |

@@ -78,7 +78,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 &emsp;(A) The President may waive the requirement of paragraph (1) to withhold assistance if the President certifies to the appropriate congressional committees that the provision of such assistance is important to the national security of the United States, and, in the case of such a certification made with respect to Russia, if the President certifies that the Russian Government has assured the United States Government that the Russian Government is not sharing intelligence data collected at the Lourdes facility with officials or agents of the Cuban Government.
 
-&emsp;(B) At the time of a certification made with respect to Russia under subparagraph (A), the President shall also submit to the appropriate congressional committees a report describing the intelligence activities of Russia in Cuba, including the purposes for which the Lourdes facility is used by the Russian Government and the extent to which the Russian Government provides payment or government credits to the Cuban Government for the continued use of the Lourdes facility.
+&emsp;(B) At the time of a certification made with respect to Russia under subparagraph (A), the President shall also submit to the appropriate congressional committees a report describing the intelligence activities of Russia in Cuba, including the purposes for which the Lourdes facility is used by the Russian Governmentand the extent to which the Russian Government provides payment or government credits to the Cuban Government for the continued use of the Lourdes facility.
 
 &emsp;(C) The report required by subparagraph (B) may be submitted in classified form.
 
@@ -130,13 +130,15 @@ The Conference on Security and Cooperation in Europe to be called the Organizati
 
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
 #### Delegation of Functions
 
 Functions of President under subsecs. (a) and (c)(2) of this section delegated to Coordinator by section 2(c), (d) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 
 Functions of President under subsecs. (b)(1)–(3), (5), and (c)(1) of this section delegated to Secretary of State by section 1(2), (3) of Ex. Ord. No. 12884.
-
-Functions of President under subsec. (c)(3) of this section delegated to United States International Development Cooperation Agency by section 3(c) of Ex. Ord. No. 12884.
 
 #### Ineligibility for Assistance of Institutions Withholding Certain Documents of United States Nationals
 

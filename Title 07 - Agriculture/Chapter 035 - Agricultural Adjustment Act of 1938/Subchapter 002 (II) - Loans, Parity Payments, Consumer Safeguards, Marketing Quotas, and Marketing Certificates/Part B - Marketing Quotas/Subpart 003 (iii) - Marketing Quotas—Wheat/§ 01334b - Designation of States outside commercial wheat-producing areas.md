@@ -2,7 +2,7 @@
 
 If the acreage allotment for any State for any crop of wheat is twenty-five thousand acres or less, the Secretary, in order to promote efficient administration of this chapter and the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may designate such State as outside the commercial wheat-producing area for the marketing year for such crop. If such State is so designated, acreage allotments for such crop and marketing quotas for the marketing year therefor shall not be applicable to any farm in such State. Acreage allotments in any State shall not be increased by reason of such designation.
 
-(Feb. 16, 1938, ch. 30, title III, §334a, as added Sept. 27, 1962, Pub. L. 87–703, title III, §314, 76 Stat. 620.)
+(Feb. 16, 1938, ch. 30, title III, §334a, as added Pub. L. 87–703, title III, §314, Sept. 27, 1962, 76 Stat. 620.)
 
 #### References in Text
 

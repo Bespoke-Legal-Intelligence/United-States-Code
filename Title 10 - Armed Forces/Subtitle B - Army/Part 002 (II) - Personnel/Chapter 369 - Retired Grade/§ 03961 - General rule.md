@@ -4,7 +4,7 @@
 
 (b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that he holds on the date of his retirement.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 230; Dec. 12, 1980, Pub. L. 96–513, title V, §502(18), 94 Stat. 2910; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1672(c)(2), 108 Stat. 3015.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 230; Pub. L. 96–513, title V, §502(18), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 103–337, div. A, title XVI, §1672(c)(2), Oct. 5, 1994, 108 Stat. 3015.)
 
 Historical and Revision Notes
 

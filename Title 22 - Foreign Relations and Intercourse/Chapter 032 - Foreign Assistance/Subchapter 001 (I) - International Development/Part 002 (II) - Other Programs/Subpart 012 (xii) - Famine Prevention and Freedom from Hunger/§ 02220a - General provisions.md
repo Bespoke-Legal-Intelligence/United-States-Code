@@ -8,7 +8,7 @@ The Congress so declares because it finds—
 
 &emsp;(1) that the establishment, endowment, and continuing support of land-grant universities in the United States by Federal, State, and county governments has led to agricultural progress in this country;
 
-&emsp;(2) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate withforeign agricultural institutions in expanding indigenous food production for both domestic and international markets;
+&emsp;(2) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with foreign agricultural institutions in expanding indigenous food production for both domestic and international markets;
 
 &emsp;(3) that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;
 
@@ -58,11 +58,11 @@ As used in this subpart, the term “universities” means those colleges or uni
 
 &emsp;(2) can contribute effectively to the attainment of the objectives of this subpart.
 
-#### (e) Director
+#### (e) Administrator
 
-As used in this subpart, the term “Director” means the Director of the United States International Development Cooperation Agency.
+As used in this subpart, the term “Administrator” means the Administrator of the Agency for International Development.
 
-(Pub. L. 87–195, pt. I, §296, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 861; amended Pub. L. 95–424, title I, §103(c), Oct. 6, 1978, 92 Stat. 945; 1979 Reorg. Plan No. 2, §6(a)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379.)
+(Pub. L. 87–195, pt. I, §296, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 861; amended Pub. L. 95–424, title I, §103(c), Oct. 6, 1978, 92 Stat. 945.)
 
 #### References in Text
 
@@ -77,10 +77,6 @@ The National Sea Grant College and Program Act, referred to in subsec. (d), is t
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Transfer of Functions
-
-“Director” and “Director of the United States International Development Cooperation Agency” substituted for “Administrator” and “Administrator ofthe Agency for International Development”, respectively, in subsec. (e), pursuant to Reorg. Plan No. 2 of 1979, §6(a)(1), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred functions and authorities of Administrator of Agency for International Development under subsec. (e) of this section to Director of United States International Development Cooperation Agency.
 
 #### International Food Reserve
 

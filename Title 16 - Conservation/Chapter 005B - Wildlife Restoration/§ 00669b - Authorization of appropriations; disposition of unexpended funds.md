@@ -16,7 +16,7 @@
 
 &emsp;(C) shall become available for apportionment under this chapter at the beginning of fiscal year 2006.
 
-(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Oct. 23, 1970, Pub. L. 91–503, title I, §101, 84 Stat. 1097; Oct. 25, 1972, Pub. L. 92–558, title I, §101(a), 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Dec. 13, 1989, Pub. L. 101–233, §7(a)(1), 103 Stat. 1974.)
+(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974.)
 
 #### References in Text
 

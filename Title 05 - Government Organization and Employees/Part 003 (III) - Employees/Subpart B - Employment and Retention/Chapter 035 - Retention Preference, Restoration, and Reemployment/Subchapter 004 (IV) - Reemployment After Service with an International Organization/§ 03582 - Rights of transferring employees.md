@@ -16,7 +16,7 @@
 
 &emsp;(2) he applies for reemployment not later than 90 days after the separation.
 
-> On reemployment, he is entitled to the rate of basic pay to which he would be entitled had he remained in the civil service. On reemployment, the agency shall restore his sick leave account, by credit or charge, to its status at the time of transfer. The period of separation caused by his employment with the international organization and the period necessary to effect reemployment are deemed creditable service for all appropriate civil service employment purposes. On reemployment, he is entitled to be paid, under such regulations as the President may prescribe and from appropriations or funds of the agency from which transferred, an amount equal to the difference between the pay, allowances, post differential, and other monetary benefits paid bythe international organization and the pay, allowances, post differential, and other monetary benefits that would have been paid by the agency had he been detailed to the international organization under section 3343 of this title. Such a payment shall be made to an employee who is unable to exercise his reemployment right because of disability incurred while on transfer to an international organization under this subchapter and, in the case of any employee who dies while on such a transfer or during the period after separation from the international organization in which he is properly exercising or could exercise his reemployment right, in accordance with subchapter VIII of chapter 55 of this title. This subsection does not apply to a congressional employee nor may any payment provided for in the preceding two sentences of this subsection be based on a period of employment with an international organization occurring before the first day of the first pay period which begins after December 29, 1969.
+> On reemployment, an employee entitled to the benefits of subsection (a) is entitled to the rate of basic pay to which the employee would have been entitled had the employee remained in the civil service. On reemployment, the agency shall restore the sick leave account of the employee, by credit or charge, to its status at the time of transfer. The period of separation caused by the employment of the employee with the international organization and the period necessary to effect reemployment are deemed creditable service for all appropriate civil service employment purposes. This subsection does not apply to a congressional employee.
 
 (c) This section applies only with respect to so much of a period of employment with an international organization as does not exceed 5 years, or any extension thereof, or such shorter period named by the head of the agency at the time of consent to transfer, except that for retirement and insurance purposes this section continues to apply during the period after separation from the international organization in which—
 
@@ -28,7 +28,7 @@
 
 (d) During the employee's period of service with the international organization, the agency from which the employee is transferred shall make contributions for retirement and insurance purposes from the appropriations or funds of that agency so long as contributions are made by the employee.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 430; Pub. L. 91–175, pt. V, §502(c)–(f), Dec. 30, 1969, 83 Stat. 825, 826; Pub. L. 94–183, §2(10), Dec. 31, 1975, 89 Stat. 1057.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 430; Pub. L. 91–175, pt. V, §502(c)–(f), Dec. 30, 1969, 83 Stat. 825, 826; Pub. L. 94–183, §2(10), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 105–277, div. G, title XXV, §2504(a), Oct. 21, 1998, 112 Stat. 2681–837.)
 
 Historical and Revision Notes
 
@@ -50,6 +50,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–277 inserted concluding provisions and struck out former concluding provisions which read as follows: “On reemployment, he is entitled to the rate of basic pay to which he would be entitled had he remained in the civil service. On reemployment, the agency shall restore his sick leave account, by credit or charge, to its status at the time of transfer. The period of separation caused by his employment with the international organization and the period necessary to effect reemployment are deemed creditable service for all appropriate civil service employment purposes. On reemployment, he is entitled to be paid, under such regulations as the President may prescribe and from appropriations or funds of the agency from which transferred, an amount equal to the difference between the pay, allowances, post differential, and other monetary benefits paid by the international organization and the pay, allowances, post differential, and other monetary benefits that would have been paid by the agency had he been detailed to the international organization under section 3343 of this title. Such a payment shall be made to an employee who is unable to exercise his reemployment right because of disability incurred while on transfer to an international organization under this subchapter and, in the case of any employee who dies while on such a transfer or during the period after separation from the international organization in which he is properly exercising or could exercise his reemployment right, in accordance with subchapter VIII of chapter 55 of this title. This subsection does not apply to a congressional employee nor may any payment provided for in the preceding two sentences of this subsection be based on a period of employment with an international organization occurring before the first day of the first pay period which begins after December 29, 1969.”
+
 1975—Subsec. (b). Pub. L. 94–183 substituted “after December 29, 1969” for “on or after the date of enactment of the Foreign Assistance Act of 1969” in last sentence.
 
 1969—Subsec. (a). Pub. L. 91–175, §502(c), inserted provision at end of cl. (1) excepting from creditable service, for the purpose of any retirement system, an agency employee who transfers to an international organization, if such service forms the basis for an annuity or pension under the retirement system of the international organization, and, in cl. (2), inserted references to chapter 89 and Employees’ Health Benefits Fund.
@@ -59,6 +61,10 @@ Subsec. (b). Pub. L. 91–175, §502(d), struck out “, except a Congressional
 Subsec. (c). Pub. L. 91–175, §502(e), substituted “5 years, or any extension thereof,” for “3 years”.
 
 Subsec. (d). Pub. L. 91–175, §502(f), made contributions for retirement and insurance purposes mandatory by the agency from which employee is transferred, during employee's period of service with international organization, so long as contributions are made by employee.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. G, title XXV, §2504(b), Oct. 21, 1998, 112 Stat. 2681–837, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transfers that take effect on or after the date of enactment of this Act \[Oct. 21, 1998\].”
 
 #### Delegation of Authority
 

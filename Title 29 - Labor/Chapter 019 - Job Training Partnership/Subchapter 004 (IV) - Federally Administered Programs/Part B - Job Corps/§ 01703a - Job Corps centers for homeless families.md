@@ -48,9 +48,13 @@ The Secretary shall, pursuant to section 1732(d) of this title, conduct evaluati
 
 #### (f) “Family” defined
 
-As used in the <sup>1</sup> section, the term “family” may include, at a minimum, dependent children, and the brothers, sisters and parents of those dependent children.
+As used in the <sup>1</sup> section, the term “family” may include, at a minimum, dependent children,and the brothers, sisters and parents of those dependent children.
 
 (Pub. L. 97–300, title IV, §433A, as added Pub. L. 101–645, title VI, §622, Nov. 29, 1990, 104 Stat. 4744; amended Pub. L. 102–367, title VII, §702(a)(14), Sept. 7, 1992, 106 Stat. 1112.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Amendments
 

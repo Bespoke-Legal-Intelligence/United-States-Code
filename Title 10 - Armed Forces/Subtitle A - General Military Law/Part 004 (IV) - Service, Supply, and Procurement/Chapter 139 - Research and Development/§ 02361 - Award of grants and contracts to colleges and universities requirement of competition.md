@@ -20,7 +20,7 @@
 
 &emsp;(B) a period of 180 days has elapsed after the date on which the notice is received by Congress.
 
-(Added Pub. L. 100–456, div. A, title II, §220(a), Sept. 29, 1988, 102 Stat. 1940; amended Pub. L. 101–189, div. A, title II, §252(a), (b)(1), (c)(1), Nov. 29, 1989, 103 Stat. 1404, 1405; Pub. L. 101–510, div. A, title XIII, §1311(4), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 103–35, title II, §201(g)(5), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title VIII, §821(b), Nov. 30, 1993, 107 Stat. 1704; Pub. L. 103–337, div. A, title VIII, §813, Oct. 5, 1994, 108 Stat. 2816; Pub. L. 104–106, div. A, title II, §264, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 237, 502; Pub. L. 104–201, div. A, title II, §265, Sept. 23, 1996, 110 Stat. 2466.)
+(Added Pub. L. 100–456, div. A, title II, §220(a), Sept. 29, 1988, 102 Stat. 1940; amended Pub. L. 101–189, div. A, title II, §252(a), (b)(1), (c)(1), Nov. 29, 1989, 103 Stat. 1404, 1405; Pub. L. 101–510, div. A, title XIII, §1311(4), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 103–35, title II, §201(g)(5), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title VIII, §821(b), Nov. 30, 1993, 107 Stat. 1704; Pub. L. 103–337, div. A, title VIII, §813, Oct. 5, 1994, 108 Stat. 2816; Pub. L. 104–106, div. A, title II, §264,title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 237, 502; Pub. L. 104–201, div. A, title II, §265, Sept. 23, 1996, 110 Stat. 2466.)
 
 #### Prior Provisions
 

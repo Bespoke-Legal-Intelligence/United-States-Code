@@ -8,7 +8,7 @@
 
 &emsp;(3) knowingly cause or attempt (whether successfully or not) to cause the issuance of a false or incorrect official certificate or other official form by any means, including but not limited to deceptive loading, handling, weighing, or sampling of grain, or submitting grain for official inspection or official weighing or supervision of weighing knowing that it has been deceptively loaded, handled, weighed, or sampled, without disclosing such knowledge to the official inspection personnel before official sampling or official weighing or supervision of weighing;
 
-&emsp;(4) alter any official sample of grain in any manner or, knowing that an official samplehas been altered, thereafter represent it as an official sample;
+&emsp;(4) alter any official sample of grain in any manner or, knowing that an official sample has been altered, thereafter represent it as an official sample;
 
 &emsp;(5) knowingly use any official grade designation or official mark on any container of grain by means of a tag, label, or otherwise, unless the grain in such container was officially inspected on the basis of an official sample taken while the grain was being loaded into or was in such container or officially weighed, respectively, and the grain was found to qualify for such designation or mark;
 
@@ -74,7 +74,7 @@
 
 (3)(A) The Secretary may, by regulation, exempt from paragraph (1) the last handling of grain in the final sale and shipment of such grain to a domestic user or processor if such exemption is determined by the Secretary to be in the best economic interest of producers, grain merchants, the industry involved, and the public.
 
-(B) Grain sold under an exemption authorized by this paragraph shall be consumed or processed into one or more products by the purchaser, but may not be resold into commercial channels for such grain or blended with othergrain for resale. Neither products nor byproducts derived therefrom (except vegetable oils as defined by the Secretary and used as a dust suppressant) shall be blended with or added to grain in commercial channels.
+(B) Grain sold under an exemption authorized by this paragraph shall be consumed or processed into one or more products by the purchaser, but may not be resold into commercial channels for such grain or blended with other grain for resale. Neither products nor byproducts derived therefrom (except vegetable oils as defined by the Secretary and used as a dust suppressant) shall be blended with or added to grain in commercial channels.
 
 (e)(1) The Secretary may prohibit the contamination of sound and pure grain as a result of the introduction of—
 
@@ -92,7 +92,7 @@
 
 (5) In implementing paragraph (1)(C), the Secretary shall report any prohibitions to other appropriate public health agencies.
 
-(Aug. 11, 1916, ch. 313, pt. B, §13, as added Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 766; amended Oct. 21, 1976, Pub. L. 94–582, §15, 90 Stat. 2883; Sept. 29, 1977, Pub. L. 95–113, title XVI, §§1604(j), 1606(h), 91 Stat. 1029, 1030; Nov. 10, 1986, Pub. L. 99–641, title III, §303(a), 100 Stat. 3564; Nov. 28, 1990, Pub. L. 101–624, title XX, §2008, 104 Stat. 3931; Nov. 24, 1993, Pub. L. 103–156, §§7, 12(<i>l</i>), 107 Stat. 1526, 1529; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §13, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, §15, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–113, title XVI, §§1604(j), 1606(h), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 99–641, title III, §303(a), Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2008, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §§7, 12(<i>l</i>), Nov. 24, 1993, 107 Stat. 1526, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

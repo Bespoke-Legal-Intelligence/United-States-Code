@@ -22,7 +22,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;&emsp;(i) in the case of a subcontract under a prime contract referred to in subparagraph (A)(i), the price of the subcontract is expected to exceed $500,000;
 
-&emsp;&emsp;(ii) in the case of a subcontract entered into after December 5, 1991, under a prime contract that was entered into on or before December 5, 1990, and that has been modified pursuant to paragraph (6), the price of thesubcontract is expected to exceed $500,000; and
+&emsp;&emsp;(ii) in the case of a subcontract entered into after December 5, 1991, under a prime contract that was entered into on or before December 5, 1990, and that has been modified pursuant to paragraph (6), the price of the subcontract is expected to exceed $500,000; and
 
 &emsp;&emsp;(iii) in the case of a subcontract not covered by clause (i) or (ii), the price of the subcontract is expected to exceed $100,000.
 
@@ -34,7 +34,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 (2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the agency concerned to submit such data under subsection (c)) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
-(3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c)), and a certification required to be submitted under paragraph (2), shall be submitted—
+(3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c)),and a certification required to be submitted under paragraph (2), shall be submitted—
 
 &emsp;(A) in the case of a submission by a prime contractor (or an offeror for a prime contract), to the contracting officer for the contract (or to a designated representative of the contracting officer); or
 
@@ -42,7 +42,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 (4) Except as provided under subsection (b), this section applies to contracts entered into by the head of an agency on behalf of a foreign government.
 
-(5) For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(C) shall be considered as having been required to make available cost or pricing data under this section.
+(5) A waiver of requirements for submission of certified cost or pricing data that is granted under subsection (b)(1)(C) in the case of a contract or subcontract does not waive the requirement under paragraph (1)(C) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that paragraph should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
 
 (6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before December 5, 1990, the head of the agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1). All such modifications shall be made without requiring consideration.
 
@@ -96,7 +96,7 @@ Submission of Other Information.—
 
 &emsp;(1)
 
-Authority to require submission.—When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the data submitted shall include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+Authority to require submission.—When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
 &emsp;(2)
 
@@ -176,7 +176,7 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 Commercial item.—The term “commercial item” has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085.)
 
 #### References in Text
 
@@ -189,6 +189,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+1998—Subsec. (a)(5). Pub. L. 105–261, §805(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(C) shall be considered as having been required to make available cost or pricing data under this section.”
+
+Subsec. (d)(1). Pub. L. 105–261, §808(a), substituted “the contracting officer shall require that the data submitted” for “the data submitted shall”.
 
 1997—Subsec. (a)(5). Pub. L. 105–85 substituted “subsection (b)(1)(C)” for “subsection (b)(1)(B)”.
 
@@ -236,7 +240,7 @@ Subsec. (b). Pub. L. 103–355, §1202(a), as amended by Pub. L. 104–106, §43
 
 &emsp;“(2) in an exceptional case when the head of the agency determines that the requirements of this section may be waived and states in writing his reasons for such determination.”
 
-Subsec. (c). Pub. L. 103–355, §1203, amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “When cost or pricing data are not required to be submitted by subsection (a), such data may nevertheless be required to be submitted by the head of the agency if the head of the agency determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract or subcontract. In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
+Subsec. (c). Pub. L. 103–355, §1203, amended heading and text of subsec. (c) generally. Prior to amendment,text read as follows: “When cost or pricing data are not required to be submitted by subsection (a), such data may nevertheless be required to be submitted by the head of the agency if the head of the agency determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract or subcontract. In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
 
 Subsec. (d). Pub. L. 103–355, §1204, added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -306,7 +310,7 @@ Subsec. (a)(1)(C)(i). Pub. L. 101–510, §803(a)(1)(C), substituted “$500,000
 
 Subsec. (a)(1)(D). Pub. L. 101–510, §803(a)(1)(D), substituted “$500,000 (or such lesser amount as may be prescribed by the head of the agency) or, in the case of a change or modification to be made after December 31, 1995, $100,000” for “$100,000”.
 
-Subsec. (c). Pub. L. 101–510, §803(d), inserted at end “In any case in which the head of the agency requiressuch data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
+Subsec. (c). Pub. L. 101–510, §803(d), inserted at end “In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
 
 1987—Subsec. (a)(5). Pub. L. 100–180, §804(b)(1), substituted “a waiver under subsection (b)(2)” for “such a waiver”, and struck out first sentence authorizing head of an agency to waive requirement under this subsection for contractor, subcontractor, or offeror to submit cost or pricing data.
 
@@ -348,11 +352,57 @@ Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 Section 803(c) of Pub. L. 101–510, directed Secretary of Defense to prescribe regulations identifying type of procurements for which contracting officers should consider requiring submission of certified cost or pricing data under subsec. (c) of this section, and also directed Secretary to prescribe regulations concerning types of information that offerors had to submit for contracting officer to consider in determining whether price of procurement to Government was fair and reasonable when certified cost or pricing data were not required to be submitted under this section because price of procurement to the United States was not expected to exceed $500,000, such information, at minimum, to include appropriate information on prices at which such offeror had previously sold same or similar products, with such regulations to be prescribed not later than six months after Nov. 5, 1990, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
 
+#### Defense Commercial Pricing Management Improvement
+
+Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, provided that:
+
+“(a)
+
+Modification of Pricing Regulations for Certain Commercial Items Exempt From Cost or Pricing Data Certification Requirements.—(1) The Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 405, 421) shall be revised to clarify the procedures and methods to be used for determining the reasonableness of prices of exempt commercial items (as defined in subsection (d)).
+
+“(2) The regulations shall, at a minimum, provide specific guidance on—
+
+&emsp;“(A) the appropriate application and precedence of such price analysis tools as catalog-based pricing, market-based pricing, historical pricing, parametric pricing, and value analysis;
+
+&emsp;“(B) the circumstances under which contracting officers should require offerors of exempt commercial items to provide—
+
+&emsp;&emsp;“(i) information on prices at which the offeror has previously sold the same or similar items; or
+
+&emsp;&emsp;“(ii) other information other than certified cost or pricing data;
+
+&emsp;“(C) the role and responsibility of Department of Defense support organizations in procedures for determining price reasonableness; and
+
+&emsp;“(D) the meaning and appropriate application of the term ‘purposes other than governmental purposes’ in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
+
+“(3) This subsection shall cease to be effective 1 year after the date on which final regulations prescribed pursuant to paragraph (1) take effect.
+
+“(b)
+
+Unified Management of Procurement of Exempt Commercial Items.—The Secretary of Defense shall develop and implement procedures to ensure that, whenever appropriate, a single item manager or contracting officer is responsible for negotiating and entering into all contracts from a single contractor for the procurement of exempt commercial items or for the procurement of items in a category of exempt commercial items.
+
+“(c)
+
+Commercial Price Trend Analysis.—(1) The Secretary of Defense shall develop and implement procedures that, to the maximum extent that is practicable and consistent with the efficient operation of the Department of Defense, provide for the collection and analysis of information on price trends for categories of exempt commercial items described in paragraph (2).
+
+“(2) A category of exempt commercial items referred to in paragraph (1) consists of exempt commercial items—
+
+&emsp;“(A) that are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends; and
+
+&emsp;“(B) for which there is a potential for the price paid to be significantly higher (on a percentage basis) than the prices previously paid in procurements of the same or similar items for the Department of Defense, as determined by the head of the procuring Department of Defense agency or the Secretary of the procuring military department on the basis of criteria prescribed by the Secretary of Defense.
+
+“(3) The head of a Department of Defense agency or the Secretary of a military department shall take appropriate action to address any unreasonable escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
+
+“(4) Not later than April 1 of each of fiscal years 2000, 2001, and 2002, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the analyses of price trends that were conducted for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken to identify and address any unreasonable price escalation for the categories of items.
+
+“(d)
+
+Exempt Commercial Items Defined.—For the purposes of this section, the term ‘exempt commercial item’ means a commercial item that is exempt under subsection (b)(1)(B) of section 2306a of title 10, United States Code, or subsection (b)(1)(B) of section 304A of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b), from the requirements for submission of certified cost or pricing data under that section.”
+
 #### Review by Inspector General
 
 Section 803(b) of Pub. L. 101–510 provided that (1) after increase in threshold for submission of cost or pricing data under subsec. (a) of this section, as amended by section 803(a) of Pub. L. 101–510, had been in effect for three years, Inspector General of Department of Defense was to conduct review of effects of increase in threshold, (2) that such review was to address whether increasing threshold improved acquisition process in terms of reduced paperwork, financial or other savings to government, an increase in number of contractors participating in defense contracting process, and adequacy of information available to contracting officers in cases in which certified cost or pricing data were not required under this section, (3) that Inspector General was to submit to Secretary of Defense a report on review conducted under paragraph (1), with Secretary of Defense required to submit such report to Congress, along with appropriate comments, upon completion of report (and comments) but not later than date on which President submitted budget to Congress pursuant to section 1105 of Title 31, Money and Finance, for fiscal year 1996, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2306, 2313, 2343, 2375 of this title; title 15 section 4602; title 41 section 423.
+This section is referred to in sections 2306, 2313, 2343, 2375, 2473 of this title; title 15 section 4602; title 41 section 423.
 

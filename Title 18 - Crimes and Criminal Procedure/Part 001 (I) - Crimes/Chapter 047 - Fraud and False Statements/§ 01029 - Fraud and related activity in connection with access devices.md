@@ -20,27 +20,39 @@
 
 &emsp;(7) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a telecommunications instrument that has been modified or altered to obtain unauthorized use of telecommunications services;
 
-&emsp;(8) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
+&emsp;(8) knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses a scanning receiver;
 
-&emsp;&emsp;(A) a scanning receiver; or
+&emsp;(9) knowingly uses, produces, traffics in, has control or custody of, or possesses hardware or software, knowing it has been configured to insert or modify telecommunication identifying information associated with or contained in a telecommunications instrument so that such instrument may be used to obtain telecommunications service without authorization; or
 
-&emsp;&emsp;(B) hardware or software used for altering or modifying telecommunications instruments to obtain unauthorized access to telecommunications services,<sup>1</sup> or
-
-&emsp;(9) without the authorization of the credit card system member or its agent, knowingly and with intent to defraud causes or arranges for another person to present to the member or its agent, for payment, 1 or more evidences or records of transactions made by an access device;
+&emsp;(10) without the authorization of the credit card system member or its agent, knowingly and with intent to defraud causes or arranges for another person to present to the member or its agent, for payment, 1 or more evidences or records of transactions made by an access device;
 
 > shall, if the offense affects interstate or foreign commerce, be punished as provided in subsection (c) of this section.
 
-(b)(1) Whoever attempts to commit an offense under subsection (a) of this section shall be punished as provided in subsection (c) of this section.
+(b)(1) Whoever attempts to commit an offense under subsection (a) of this section shall be subject to the same penalties as those prescribed for the offense attempted.
 
 (2) Whoever is a party to a conspiracy of two or more persons to commit an offense under subsection (a) of this section, if any of the parties engages in any conduct in furtherance of such offense, shall be fined an amount not greater than the amount provided as the maximum fine for such offense under subsection (c) of this section or imprisoned not longer than one-half the period provided as the maximum imprisonment for such offense under subsection (c) of this section, or both.
 
-(c) The punishment for an offense under subsection (a) or (b)(1) of this section is—
+(c)
 
-&emsp;(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
+Penalties.—
 
-&emsp;(2) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than fifteen years, or both, in the case of an offense under subsection (a)(1), (4), (5), (6), (7), or (8) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph; and
+&emsp;(1)
 
-&emsp;(3) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this paragraph.
+Generally.—The punishment for an offense under subsection (a) of this section is—
+
+&emsp;&emsp;(A) in the case of an offense that does not occur after a conviction for another offense under this section—
+
+&emsp;&emsp;&emsp;(i) if the offense is under paragraph (1), (2), (3), (6), (7), or (10) of subsection (a), a fine under this title or imprisonment for not more than 10 years, or both; and
+
+&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9),<sup>1</sup> of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
+
+&emsp;&emsp;(B) in the case of an offense that occurs after a conviction for another offense under this section, a fine under this title or imprisonment for not more than 20 years, or both; and
+
+&emsp;&emsp;(C) in either case, forfeiture to the United States of any personal property used or intended to be used to commit the offense.
+
+&emsp;(2)
+
+Forfeiture procedure.—The forfeiture of property under this section, including any seizure and disposition of the property and any related administrative and judicial proceeding, shall be governed by section 413 of the Controlled Substances Act, except for subsection (d) of that section.
 
 (d) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.
 
@@ -56,17 +68,55 @@
 
 &emsp;(5) the term “traffic” means transfer, or otherwise dispose of, to another, or obtain control of with intent to transfer or dispose of;
 
-&emsp;(6) the term “device-making equipment” means any equipment, mechanism, or impression designed or primarily used for making an access device or a counterfeit access device; and
+&emsp;(6) the term “device-making equipment” means any equipment, mechanism, or impression designed or primarily used for making an access device or a counterfeit access device;
 
-&emsp;(7) the term “credit card system member” means a financial institution or other entity that is a member of a credit card system, including an entity, whether affiliated with or identical to the credit card issuer, that is the sole member of a credit card system.
+&emsp;(7) the term “credit card system member” means a financial institution or other entity that is a member of a credit card system, including an entity, whether affiliated with or identical to the credit card issuer, that is the sole member of a credit card system;
 
-&emsp;(8) the term “scanning receiver” means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119.
+&emsp;(8) the term “scanning receiver” means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119 or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument <sup>2</sup>
+
+&emsp;(9) the term “telecommunications service” has the meaning given such term in section 3 of title I of the Communications Act of 1934 (47 U.S.C. 153);
+
+&emsp;(10) the term “facilities-based carrier” means an entity that owns communications transmission facilities, is responsible for the operation and maintenance of those facilities, and holds an operating license issued by the Federal Communications Commission under the authority of title III of the Communications Act of 1934; and
+
+&emsp;(11) the term “telecommunication identifying information” means electronic serial number or any other number or signal that identifies a specific telecommunications instrument or account, or a specific communication transmitted from a telecommunications instrument.
 
 (f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under chapter 224 of this title. For purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501.)
+(g)(1) It is not a violation of subsection (a)(9) for an officer, employee, or agent of, or a person engaged in business with, a facilities-based carrier, to engage in conduct (other than trafficking) otherwise prohibited by that subsection for the purpose of protecting the property or legal rights of that carrier, unless such conduct is for the purpose of obtaining telecommunications service provided by another facilities-based carrier without the authorization of such carrier.
+
+(2) In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
+
+(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54.)
+
+#### References in Text
+
+Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is classified to section 853 of Title 21, Food and Drugs.
+
+The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§301 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(8) to (10). Pub. L. 105–172, §2(a), added pars. (8) and (9), redesignated former par. (9) as (10), and struck out former par. (8) which read as follows: “knowingly and with intent to defraud uses, produces, traffics in, has control or custody of, or possesses—
+
+&emsp;“(A) a scanning receiver; or
+
+&emsp;“(B) hardware or software used for altering or modifying telecommunications instruments to obtain unauthorized access to telecommunications services, or”.
+
+Subsec. (b)(1). Pub. L. 105–172, §2(b)(2), substituted “subject to the same penalties as those prescribed for the offense attempted” for “punished as provided in subsection (c) of this section”.
+
+Subsec. (c). Pub. L. 105–172, §2(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The punishment for an offense under subsection (a) or (b)(1) of this section is—
+
+&emsp;“(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
+
+&emsp;“(2) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than fifteen years, or both, inthe case of an offense under subsection (a)(1), (4), (5), (6), (7), or (8) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph; and
+
+&emsp;“(3) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a) of this section which occurs after a conviction for another offense under such subsection, or an attempt to commit an offense punishable under this paragraph.”
+
+Subsec. (e)(8). Pub. L. 105–172, §2(c), inserted “or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument” before the period at end.
+
+Subsec. (e)(9) to (11). Pub. L. 105–172, §2(d)(2), added pars. (9) to (11).
+
+Subsec. (g). Pub. L. 105–172, §2(d)(1), added subsec. (g).
 
 1996—Subsec. (a)(5). Pub. L. 104–294, §601(<i>l</i>)(1)(A), redesignated par. (5), relating to instruments that have been modified or altered to obtain unauthorized access to telecommunications services, as (7).
 
@@ -128,7 +178,9 @@ Section 1603 of Pub. L. 98–473 directed Attorney General to report to Congress
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 1030, 1961, 2326, 2516 of this title; title 31 section 9703.
+This section is referred to in sections 981, 982, 1028, 1030, 1961, 2326, 2516 of this title; title 31 section 9703.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

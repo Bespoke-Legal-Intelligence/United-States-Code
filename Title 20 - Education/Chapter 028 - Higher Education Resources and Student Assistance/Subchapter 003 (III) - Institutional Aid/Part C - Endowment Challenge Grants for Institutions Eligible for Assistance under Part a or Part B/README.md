@@ -2,7 +2,7 @@ Part C—Endowment Challenge Grants for Institutions Eligible for Assistance Und
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1066, 1069f of this title.
+This part is referred to in sections 1057, 1059c, 1062, 1068, 1068h, 1101b of this title.
 
 
 ---

@@ -12,7 +12,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1991 through 1995.
 
-(July 1, 1944, ch. 373, title XXVI, §2680, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 622.)
+(July 1, 1944, ch. 373, title XXVI, §2680, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 622.)
 
 #### Effective Date
 

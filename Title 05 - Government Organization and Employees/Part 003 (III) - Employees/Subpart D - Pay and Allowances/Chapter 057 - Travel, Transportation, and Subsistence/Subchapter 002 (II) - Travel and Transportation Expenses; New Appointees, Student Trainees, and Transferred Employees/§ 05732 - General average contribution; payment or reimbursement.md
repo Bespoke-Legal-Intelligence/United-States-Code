@@ -1,6 +1,6 @@
 ### §5732. General average contribution; payment or reimbursement
 
-Under such regulations as the President may prescribe, appropriations chargeable for the transportation of baggage and household goods and personal effects of employees of the United States, volunteers as defined by section 8142(a) of this title, and members of the uniformed services are available for the payment or reimbursement of general average contributions required. Appropriations are not available for the payment or reimbursement of general average contributions—
+Under such regulations as the President may prescribe, appropriations chargeable for the transportation of baggage and household goods and personal effects of employees of the Government, volunteers as defined by section 8142(a) of this title, and members of the uniformed services are available for the payment or reimbursement of general average contributions required. Appropriations are not available for the payment or reimbursement of general average contributions—
 
 &emsp;(1) required in connection with and applicable to quantities of baggage and household goods and personal effects in excess of quantities authorized by statute or regulation to be transported;
 
@@ -8,7 +8,7 @@ Under such regulations as the President may prescribe, appropriations chargeable
 
 &emsp;(3) when the individual concerned selected the means of shipment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506; Pub. L. 105–264, §6(11), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -32,6 +32,10 @@ The word “personal” is added before the word “effects” for clarity and t
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### Amendments
+
+1998—Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
+
 #### Ex. Ord. No. 10614. Payment of General-Average Contributions in Connection With Transportation of Effects
 
 Ex. Ord. No. 10614, May 25, 1955, 20 F.R. 3699, provided:
@@ -50,7 +54,7 @@ Section 1. <i>Definitions</i>. As used in these regulations:
 
 (f) The term “household goods” means such baggage, household goods, and effects, including privately-owned automobiles and professional books, papers, and equipment, of military personnel and civilian employees as are authorized to be transported at Government expense by law or regulations pursuant to law.
 
-Sec. 2. <i>Allowance of general-average contributions</i>. Whenever military personnel or civilian employees of a department are liable for general-average contributions arising out of shipments of household goods (as defined in section 1 (f) hereof), authorized or approved under law or regulations pursuant to law, disbursements shall be made, under rules and regulations prescribed by the head of the department concerned, from appropriations chargeable for the transportation of baggage and household goods and effects (a) for the payment of the general-average contributions for which such military personnel or civilian employees are liable, or (b) for the reimbursement of such military personnel or civilian employees in the amounts of their general-average liability paid by them and for which receipts are furnished, subject to the limitations set forth in section 3 hereof.
+Sec. 2. <i>Allowance of general-average contributions</i>. Whenever military personnel or civilian employees of a department are liable for general-average contributions arising out of shipments of household goods (as defined in section 1 (f) hereof), authorized or approved under law or regulations pursuant to law, disbursements shall be made, under rules and regulations prescribed by the head of the department concerned, from appropriationschargeable for the transportation of baggage and household goods and effects (a) for the payment of the general-average contributions for which such military personnel or civilian employees are liable, or (b) for the reimbursement of such military personnel or civilian employees in the amounts of their general-average liability paid by them and for which receipts are furnished, subject to the limitations set forth in section 3 hereof.
 
 Sec. 3. <i>Limitations</i>. The provisions of section 2 hereof shall not apply:
 

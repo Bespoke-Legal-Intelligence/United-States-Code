@@ -194,5 +194,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 507, 521, 526, 10927, 13906 of this title; title 42 section 9608.
+This section is referred to in sections 507, 521, 526, 10927, 13906, 31102 of this title; title 42 section 9608.
 

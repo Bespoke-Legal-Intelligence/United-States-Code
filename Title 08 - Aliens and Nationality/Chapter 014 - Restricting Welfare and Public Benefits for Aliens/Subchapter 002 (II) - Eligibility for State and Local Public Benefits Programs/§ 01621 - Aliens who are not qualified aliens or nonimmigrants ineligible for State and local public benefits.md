@@ -22,7 +22,7 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 &emsp;(3) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C)are necessary for the protection of life or safety.
+&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
 #### (c) “State or local public benefit” defined
 
@@ -34,9 +34,11 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 (2) Such term shall not apply—
 
-&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect; or
+&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
 
-&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Secretary of State, after consultation with the Attorney General.
+&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Secretary of State, after consultation with the Attorney General; or
+
+&emsp;(C) to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
 
 (3) Such term does not include any Federal public benefit under section 1611(c) of this title.
 
@@ -44,7 +46,7 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) of this section only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
 
-(Pub. L. 104–193, title IV, §411, Aug. 22, 1996, 110 Stat. 2268; Pub. L. 105–33, title V, §§5565, 5581(b)(1), Aug. 5, 1997, 111 Stat. 639, 642.)
+(Pub. L. 104–193, title IV, §411, Aug. 22, 1996, 110 Stat. 2268; Pub. L. 105–33, title V, §§5565, 5581(b)(1), Aug. 5, 1997, 111 Stat. 639, 642; Pub. L. 105–306, §5(b), Oct. 28, 1998, 112 Stat. 2927.)
 
 #### References in Text
 
@@ -53,6 +55,8 @@ The Immigration and Nationality Act, referred to in subsecs. (a)(2) and (c)(2)(B
 Section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658, referred to in subsec. (c)(2)(A), means section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of Title 48, Territories and Insular Possessions, and section 141 of the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48.
 
 #### Amendments
+
+1998—Subsec. (c)(2)(C). Pub. L. 105–306 added subpar. (C).
 
 1997—Subsec. (c)(2)(A). Pub. L. 105–33, §5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
 

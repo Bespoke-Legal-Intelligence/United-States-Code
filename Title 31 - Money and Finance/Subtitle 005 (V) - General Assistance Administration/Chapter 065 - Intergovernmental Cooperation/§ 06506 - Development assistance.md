@@ -24,7 +24,7 @@
 
 (e) To the maximum extent practicable, each executive agency carrying out a development assistance program shall consult with and seek advice from all other significantly affected executive agencies in an effort to ensure completely coordinated programs. To the extent possible, systematic planning required by individual United States Government programs (such as highway construction, urban renewal, and open space) shall be coordinated with and, to the extent authorized by law, made part of comprehensive local and areawide development planning.
 
-(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government instead of the special-purpose unit of local government in the absence of substantial reasons to the contrary.
+(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government insteadof the special-purpose unit of local government in the absence of substantial reasons to the contrary.
 
 (g) The President may designate an executive agency to prescribe regulations to carry out this section.
 
@@ -96,7 +96,7 @@ Sec. 2. To the extent the States, in consultation with local general purpose gov
 
 (b) Communicate with State and local elected officials as early in the program planning cycle as is reasonably feasible to explain specific plans and actions.
 
-(c) Make efforts to accommodate State and local elected officials’ concerns with proposed Federal financial assistance and direct Federal development that arecommunicated through the designated State process. For those cases where the concerns cannot be accommodated, Federal officials shall explain the bases for their decision in a timely manner.
+(c) Make efforts to accommodate State and local elected officials’ concerns with proposed Federal financial assistance and direct Federal development that are communicated through the designated State process. For those cases where the concerns cannot be accommodated, Federal officials shall explain the bases for their decision in a timely manner.
 
 (d) Allow the States to simplify and consolidate existing Federally required State plan submissions. Where State planning and budgeting systems are sufficient and where permitted by law, the substitution of State plans for Federally required State plans shall be encouraged by the agencies.
 

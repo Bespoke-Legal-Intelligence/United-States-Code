@@ -88,10 +88,6 @@ Reducing Apportionments.—An amount that would be apportioned under this sectio
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217.)
 
-#### Amendment of Subsections (c) and (d)(2)
-
-<i>For termination of amendment by section 125 of Pub. L. 104–264, see Effective and Termination Dates of 1996 Amendment note below.</i>
-
 Historical and Revision Notes
 
 Pub. L. 103–272
@@ -201,37 +197,37 @@ Section 15(a) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Amendments
 
-1996—Subsec. (c)(1)(A)(iv). Pub. L. 104–264, §§121(a)(1)(B), 125, temporarily substituted “of the next 500,000 passenger boardings” for “additional passenger boarding”. See Effective and Termination Dates of 1996 Amendment note below.
+1996—Subsec. (c)(1)(A)(iv). Pub. L. 104–264, §121(a)(1)(B), substituted “of the next 500,000 passenger boardings” for “additional passenger boarding”.
 
-Subsec. (c)(1)(A)(v). Pub. L. 104–264, §§121(a)(1)(A), (C), (D), 125, temporarily added cl. (v). See Effective and Termination Dates of 1996 Amendment note below.
+Subsec. (c)(1)(A)(v). Pub. L. 104–264, §121(a)(1)(A), (C), (D), added cl. (v).
 
-Subsec. (c)(2). Pub. L. 104–264, §§121(a)(2)(A), 125, temporarily amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+Subsec. (c)(2). Pub. L. 104–264, §121(a)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2)(A) The Secretary shall apportion to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds for each fiscal year an amount equal to 3.5 percent of the amount subject to apportionment each year, allocated among those airports in the proportion that the total annual landed weight of those aircraft landing at each of those airports bears to the total annual landed weight of those aircraft landing at all those airports. However, not more than 8 percent of the amount apportioned under this paragraph may be apportioned for any one airport.
 
-“(B) Landed weight under subparagraph (A) of this paragraph is the landed weight of aircraft landing ateach of those airports and all those airports during the prior calendar year.” See Effective and Termination Dates of 1996 Amendment note below.
+“(B) Landed weight under subparagraph (A) of this paragraph is the landed weight of aircraft landing at each of those airports and all those airports during the prior calendar year.”
 
-Subsec. (c)(3). Pub. L. 104–264, §§121(a)(3), 125, temporarily struck out par. (3) which read as follows:
+Subsec. (c)(3). Pub. L. 104–264, §121(a)(3), struck out par. (3) which read as follows:
 
 “(3)(A) Except as provided in subparagraph (B) of this paragraph, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 49.5 percent limit is achieved.
 
-“(B) If a law limits the amount subject to apportionment to less than $1,900,000,000 for a fiscal year, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 44 percent limit is achieved.” See Effective and Termination Dates of 1996 Amendment note below.
+“(B) If a law limits the amount subject to apportionment to less than $1,900,000,000 for a fiscal year, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 44 percent limit is achieved.”
 
-Subsec. (d)(2). Pub. L. 104–264, §§121(b)(1), 125, temporarily substituted “18.5” for “12” in introductory provisions. See Effective and Termination Dates of 1996 Amendment note below.
+Subsec. (d)(2). Pub. L. 104–264, §121(b)(1), substituted “18.5” for “12” in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 104–264, §§121(b)(2), 125, temporarily substituted “0.66” for “one”. See Effective and Termination Dates of 1996 Amendment note below.
+Subsec. (d)(2)(A). Pub. L. 104–264, §121(b)(2), substituted “0.66” for “one”.
 
-Subsec. (d)(2)(B), (C). Pub. L. 104–264, §§121(b)(3), (4), 125, temporarily substituted “49.67” for “49.5” and “excluding primary airports but including reliever and nonprimary commercial service airports,” for “except primary airports and airports described in section 47117(e)(1)(C) of this title,”. See Effective and Termination Dates of 1996 Amendment note below.
+Subsec. (d)(2)(B), (C). Pub. L. 104–264, §§121(b)(3), (4), substituted “49.67” for “49.5” and “excluding primary airports but including reliever and nonprimary commercial service airports,” for “except primary airports and airports described in section 47117(e)(1)(C) of this title,”.
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–429, §6(66)(A), substituted “$500,000” for “$400,000”.
 
 Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the” for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
 
-#### Effective and Termination Dates of 1996 Amendment
+#### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
-Section 125 of title I of Pub. L. 104–264 provided that: “The amendments made by this subtitle \[subtitle B (§§121–125) of title I of Pub. L. 104–264, amending this section and sections 47115, 47117, and 47118 of this title\] shall cease to be effective on September 30, 1998. On and after such date, sections 47114, 47115, 47117, and 47118 of title 49, United States Code, shall read as if such amendments had not been enacted.”
+Section 125 of title I of Pub. L. 104–264, which provided that the amendments made by subtitle B (§§121–125) of title I of Pub. L. 104–264, amending this section and sections 47115, 47117, and 47118 of this title, were to cease to be effective on Sept. 30, 1998, and that on and after such date, sections 47114, 47115, 47117, and 47118 of this title were to read as if such amendments had not been enacted, was repealed by Pub. L. 105–277, div. C, title I, §110(a), Oct. 21, 1998, 112 Stat. 2681–587, effective Sept. 29, 1998.
 
 #### Effective Date of 1994 Amendment
 

@@ -18,7 +18,7 @@
 
 &emsp;(7) assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international communications and information policy issues.
 
-(Aug. 1, 1956, ch. 841, title I, §35, as added Pub. L. 98–164, title I, §124, Nov. 22, 1983, 97 Stat. 1025; amended Pub. L. 100–204, title I, §173(a)(1), Dec.22, 1987, 101 Stat. 1360; Pub. L. 103–236, title I, §162(k)(1), Apr. 30, 1994, 108 Stat. 408.)
+(Aug. 1, 1956, ch. 841, title I, §35, as added Pub. L. 98–164, title I, §124, Nov. 22, 1983, 97 Stat. 1025; amended Pub. L. 100–204, title I, §173(a)(1), Dec. 22, 1987, 101 Stat. 1360; Pub. L. 103–236, title I, §162(k)(1), Apr. 30, 1994, 108 Stat. 408.)
 
 #### Prior Provisions
 

@@ -92,7 +92,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) Actions by Federal or State agencies responsible for the licensing and certification of health care providers, suppliers, and licensed health care practitioners, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) formal or official actions, such as revocation or suspension of a license\(and the length of any such suspension), reprimand, censure or probation,
+&emsp;&emsp;&emsp;&emsp;(I) formal or official actions, such as revocation or suspension of a license (and the length of any such suspension), reprimand, censure or probation,
 
 &emsp;&emsp;&emsp;&emsp;(II) any other loss of license or the right to apply for, or renew, a license of the provider, supplier, or practitioner, whether by operation of law, voluntary surrender, non-renewability, or otherwise, or
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 &emsp;For purposes of paragraph (1), the existence of a conviction shall be determined under paragraphs (1) through (4) of section 1320a–7(i) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128E, as added Aug. 21, 1996, Pub. L. 104–191, title II, §221(a), 110 Stat. 2009; amended Aug. 5, 1997, Pub. L. 105–33, title IV, §4331(a)(2), (b), (d), 111 Stat. 395, 396.)
+(Aug. 14, 1935, ch. 531, title XI, §1128E, as added Pub. L. 104–191, title II, §221(a), Aug. 21, 1996, 110 Stat. 2009; amended Pub. L. 105–33, title IV, §4331(a)(2), (b), (d), Aug. 5, 1997, 111 Stat. 395, 396.)
 
 #### References in Text
 

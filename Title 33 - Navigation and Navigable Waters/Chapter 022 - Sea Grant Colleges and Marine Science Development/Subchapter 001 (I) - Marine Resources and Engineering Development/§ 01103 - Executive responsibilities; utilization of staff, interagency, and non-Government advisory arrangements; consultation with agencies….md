@@ -4,7 +4,7 @@
 
 &emsp;(1) survey all significant marine science activities, including the policies, plans, programs, and accomplishments of all departments and agencies of the United States engaged in such activities;
 
-&emsp;(2) develop a comprehensive program of marine science activities, including, but not limited to, exploration, description and prediction of the marine environment, exploitation and conservation of the resources of the marineenvironment, marine engineering, studies of air-sea interaction, transmission of energy, and communications, to be conducted by departments and agencies of the United States, independently or in cooperation with such non-Federal organizations as States, institutions and industry;
+&emsp;(2) develop a comprehensive program of marine science activities, including, but not limited to, exploration, description and prediction of the marine environment, exploitation and conservation of the resources of the marine environment, marine engineering, studies of air-sea interaction, transmission of energy, and communications, to be conducted by departments and agencies of the United States, independently or in cooperation with such non-Federal organizations as States, institutions and industry;
 
 &emsp;(3) designate and fix responsibility for the conduct of the foregoing marine science activities by departments and agencies of the United States;
 

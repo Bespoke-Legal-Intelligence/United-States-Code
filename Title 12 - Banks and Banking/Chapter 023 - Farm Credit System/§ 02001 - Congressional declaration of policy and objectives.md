@@ -18,7 +18,7 @@ The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle 
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–205, title IV, §401, Dec. 23, 1985, 99 Stat. 1709, provided that: “The provisions of titles I, II, III, and VI of this Act \[enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under section 2001 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title\] shall become effective thirty days after enactment \[Dec. 23, 1985\].”
+Pub. L. 99–205, title IV, §401, Dec. 23, 1985, 99 Stat. 1709, provided that: “The provisions of titles I, II, III,and VI of this Act \[enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under section 2001 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title\] shall become effective thirty days after enactment \[Dec. 23, 1985\].”
 
 #### Short Title of 1996 Amendment
 
@@ -40,7 +40,7 @@ Pub. L. 100–233, §1(a), Jan. 6, 1988, 101 Stat. 1568, provided that: “This 
 
 #### Short Title of 1986 Amendment
 
-Section 1031 of title I of Pub. L. 99–509 provided that: “This subtitle \[subtitle D (§§1031–1037) of title I of Pub.L. 99–509, amending sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title\] may be cited as the ‘Farm Credit Act Amendments of 1986’.”
+Section 1031 of title I of Pub. L. 99–509 provided that: “This subtitle \[subtitle D (§§1031–1037) of title I of Pub. L. 99–509, amending sections 2001, 2015, 2075, 2131, 2159, 2205, 2252, and 2254 of this title\] may be cited as the ‘Farm Credit Act Amendments of 1986’.”
 
 #### Short Title of 1985 Amendment
 
@@ -92,7 +92,7 @@ Regulations relating to disclosure by banks and associations.—Any regulation i
 
 Pub. L. 92–181, which enacted this chapter, represents a complete rewriting of the farm credit laws and a fundamental reworking of the statutory basis for the farm credit system. In connection with such reworking of material, the existing statutory provisions covering this area were repealed and their substance revised, reenacted, and expanded by Pub. L. 92–181.
 
-The repealed provisions constituted the bulk of chapter 7 of this title. Section 5.40(a), formerly 5.26(a), of Pub. L. 92–181, as renumbered by Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, enumerated the repealed statutes as follows: The Federal Farm Loan Act, as amended; section 2 of the Act of March 10, 1924 (Public Numbered 35, Sixty-eighth Congress, 43 Stat. 17), as amended; section 6 of the Act of January 23, 1932 (Public Numbered 3, Seventy-second Congress, 47 Stat. 14), as amended; the Farm Credit Act of 1933, as amended; sections 29 and 40 of the Emergency Farm Mortgage Act of 1933; Act of June 18, 1934 (Public Numbered 381, Seventy-third Congress, 48 Stat. 983); Act of June 4, 1936 (Public Numbered 644, Seventy-fourth Congress, 49 Stat. 1461), as amended; sections 5, 6, 20, 25(b) and 39 of the Farm Credit Act of 1937, as amended; sections 601 and 602 of the Act of September 21, 1944 (Public Law 425, Seventy-eighth Congress, 58 Stat. 740, 741), as amended; sections 1, 2, 3, 4, 5, 6, 7, 8, 16, and 17(b) of the Farm Credit Act of 1953, as amended; sections 2, 101, and 201(b) of the Farm Credit Act of 1956.
+The repealed provisions constituted the bulk of chapter 7 of this title. Section 5.40(a), formerly 5.26(a), of Pub. L. 92–181, as renumbered by Pub. L. 99–205, title II,§205(a)(2), Dec. 23, 1985, 99 Stat. 1703, enumerated the repealed statutes as follows: The Federal Farm Loan Act, as amended; section 2 of the Act of March 10, 1924 (Public Numbered 35, Sixty-eighth Congress, 43 Stat. 17), as amended; section 6 of the Act of January 23, 1932 (Public Numbered 3, Seventy-second Congress, 47 Stat. 14), as amended; the Farm Credit Act of 1933, as amended; sections 29 and 40 of the Emergency Farm Mortgage Act of 1933; Act of June 18, 1934 (Public Numbered 381, Seventy-third Congress, 48 Stat. 983); Act of June 4, 1936 (Public Numbered 644, Seventy-fourth Congress, 49 Stat. 1461), as amended; sections 5, 6, 20, 25(b) and 39 of the Farm Credit Act of 1937, as amended; sections 601 and 602 of the Act of September 21, 1944 (Public Law 425, Seventy-eighth Congress, 58 Stat. 740, 741), as amended; sections 1, 2, 3, 4, 5, 6, 7, 8, 16, and 17(b) of the Farm Credit Act of 1953, as amended; sections 2, 101, and 201(b) of the Farm Credit Act of 1956.
 
 #### Savings Provision
 
@@ -156,7 +156,7 @@ Items in Study.—In conducting the study, the Secretary shall base the study on
 
 “(d)
 
-Interagency Task Force.—In completing the study, the Secretary shall use, among other things, data and information obtained by the interagency task force on rural credit.”
+Interagency Task Force.—In completing the study, the Secretary shall use, among other things,data and information obtained by the interagency task force on rural credit.”
 
 #### GAO Study of Rural Credit Cost and Availability
 
@@ -172,5 +172,5 @@ Pub. L. 99–205, title III, §307, Dec. 23, 1985, 99 Stat. 1709, required each 
 
 #### National Commission on Agricultural Finance
 
-Pub. L. 99–205, title V, §501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and Farmers Home Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure,performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
+Pub. L. 99–205, title V, §501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and Farmers Home Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure, performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
 

@@ -76,7 +76,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (A) Landowners
 
-&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation if the landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
+&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation ifthe landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
 
 #### (B) Family members
 

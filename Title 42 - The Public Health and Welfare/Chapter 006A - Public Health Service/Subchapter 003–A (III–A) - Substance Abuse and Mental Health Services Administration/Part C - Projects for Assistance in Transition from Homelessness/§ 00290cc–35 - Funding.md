@@ -14,7 +14,7 @@ For the purpose of carrying out this part, there is authorized to be appropriate
 
 &emsp;Paragraph (1) may not be construed to require the Secretary to make a grant under such paragraph to each State.
 
-(July 1, 1944, ch. 373, title V, §535, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 523; amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §811(a), 102 Stat. 3169; Nov. 7, 1988, Pub. L. 100–628, title VI, §611(a), 102 Stat. 3242; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4733.)
+(July 1, 1944, ch. 373, title V, §535, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 523; amended Pub. L. 100–607, title VIII, §811(a), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §611(a), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–93, §5(t)(1), Aug. 16, 1989, 103 Stat. 615; Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4733.)
 
 #### Prior Provisions
 

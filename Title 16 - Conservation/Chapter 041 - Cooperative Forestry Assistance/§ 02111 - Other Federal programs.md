@@ -42,7 +42,7 @@ Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2108, 2109 of this title.
+This section is referred to in sections 2106b, 2108, 2109 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

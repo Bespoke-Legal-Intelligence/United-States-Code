@@ -1,6 +1,6 @@
 ### §3110. Sale of obligations of governments of foreign countries
 
-(a) With the approval of the President, the Secretary of the Treasury may sell obligations of the government of a foreign country when the obligations were acquired under—
+(a) With the approval of the President, the Secretary of the Treasury may sell obligationsof the government of a foreign country when the obligations were acquired under—
 
 &emsp;(1) the First Liberty Bond Act and matured before June 16, 1947;
 

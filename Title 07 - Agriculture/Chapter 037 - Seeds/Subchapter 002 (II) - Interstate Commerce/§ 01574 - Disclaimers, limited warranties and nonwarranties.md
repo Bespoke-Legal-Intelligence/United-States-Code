@@ -2,11 +2,11 @@
 
 The use of a disclaimer, limited warranty, or nonwarranty clause in any invoice, advertising, labeling, or written, printed, or graphic matter, pertaining to any seed shall not constitute a defense, or be used as a defense in any way, in any prosecution or other proceeding brought under the provisions of this chapter, or the rules and regulations made and promulgated thereunder. Nothing in this section is intended to preclude the use of a disclaimer, limited warranty, or nonwarranty clause as a defense in any proceeding not brought under this chapter.
 
-(Aug. 9, 1939, ch. 615, title II, §204, 53 Stat. 1282; July 9, 1956, ch. 520, §2, 70 Stat. 508; Aug. 1, 1958, Pub. L. 85–581, §11, 72 Stat. 478.)
+(Aug. 9, 1939, ch. 615, title II, §204, 53 Stat. 1282; July 9, 1956, ch. 520, §2, 70 Stat. 508; Pub. L. 85–581, §11, Aug. 1, 1958, 72 Stat. 478.)
 
 #### Amendments
 
-1958—Pub. L. 85–581 precluded use of limited warranty clause as defense in prosecution or other proceedingbrought under provisions of this chapter and stated that use of enumerated clauses as defenses in proceedings not brought under this chapter is not barred.
+1958—Pub. L. 85–581 precluded use of limited warranty clause as defense in prosecution or other proceeding brought under provisions of this chapter and stated that use of enumerated clauses as defenses in proceedings not brought under this chapter is not barred.
 
 1956—Act July 9, 1956, substituted “or other proceeding” for “, or in any proceeding for confiscation of seeds,”.
 

@@ -8,11 +8,13 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 &emsp;(2) solicit, receive, accept, and hold gifts, including money, plant material, and other property, on behalf of the Botanic Garden, and to dispose of, utilize, obligate, expend, disburse, and administer such gifts for the benefit of the Botanic Garden, including among other things, the carrying out of any programs, duties, or functions of the Botanic Garden, and for constructing, equipping, and maintaining the National Garden referred to in paragraph (1).
 
-#### (b) Gifts and bequests of money; appropriations
+#### (b) Gifts and bequests of money; investment; appropriations
 
 (1) Gifts or bequests of money under subsection (a)(2) of this section shall, when received by the Architect, be deposited with the Treasurer of the United States, who shall credit these deposits as offsetting collections to an account entitled “Botanic Garden, Gifts and Donations”. The gifts or bequests described under subsection (a)(2) of this section shall be accepted only in the total amount provided in appropriations Acts.
 
-(2) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by the Architect, without regard to section 5 of title 41, for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
+(2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
+
+(3) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by the Architect, without regard to section 5 of title 41, for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
 
 #### (c) Donations of personal services
 
@@ -28,13 +30,15 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 Any gift accepted by the Architect of the Capitol under this section shall be considered a gift to the United States for purposes of income, estate, and gift tax laws of the United States.
 
-(Pub. L. 100–458, title III, §307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, §209(a), Dec. 12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, §201(b), Nov. 19, 1995, 109 Stat. 529.)
+(Pub. L. 100–458, title III, §307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, §209(a), Dec. 12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, §201(b), Nov. 19, 1995, 109 Stat. 529; Pub. L. 105–275, title II, §201, Oct. 21, 1998, 112 Stat. 2445.)
 
 #### References in Text
 
 The income, estate, and gift tax laws of the United States, referred to in subsec. (d), are classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1998—Subsec. (b)(2), (3). Pub. L. 105–275 added par. (2) and redesignated former par. (2) as (3).
 
 1995—Subsec. (a)(1). Pub. L. 104–53 substituted “plants” for “plans”.
 

@@ -10,15 +10,9 @@
 
 #### SUBCHAPTER II—COUNCIL ON ALZHEIMER'S DISEASE
 
-|  |  |
-| :--- | ---: |
-| [11211\.](Subchapter%20002%20%28II%29%20-%20Council%20on%20Alzheimer%27s%20Disease/%C2%A7%2011211%20-%20Establishment.md) | Establishment. |
-| (a) | Composition. |
-| (b) | Chairman. |
-| (c) | Quorum. |
-| (d) | Meetings. |
-| (e) | Appointment of Executive Secretary; administrative staff and support. |
-| [11212\.](Subchapter%20002%20%28II%29%20-%20Council%20on%20Alzheimer%27s%20Disease/%C2%A7%2011212%20-%20Functions.md) | Functions. |
+|  |
+| :--- |
+| 11211, 11212. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,13 +6,13 @@ The reports and dispatches prepared by the officers appointed or assigned under 
 
 #### (b) Office space, equipment, and administrative and clerical services
 
-The Secretary of State is authorized upon request of the Secretary of Agriculture to provide office space, equipment, facilities, and such other administrative and clerical services as may be required for the personnel affected by this subchapter. The Secretary of Agriculture is authorized to reimburse or advance funds to the Secretary of State for such services.
+The Secretary of State is authorized upon request of the Secretary of Agriculture to provideoffice space, equipment, facilities, and such other administrative and clerical services as may be required for the personnel affected by this subchapter. The Secretary of Agriculture is authorized to reimburse or advance funds to the Secretary of State for such services.
 
 #### (c) Agency services, personnel, and facilities
 
 Upon the request of the Secretary of Agriculture, each Federal agency may make its services, personnel, and facilities available to officers and employees appointed and assigned to a post abroad under this subchapter in the performance of the functions of such officers and employees. The Secretary of Agriculture may reimburse or advance funds to any such agency for services, personnel, and facilities so made available.
 
-(Aug. 28, 1954, ch. 1041, title VI, §604, 68 Stat. 909; Oct. 21, 1978, Pub. L. 95–501, title III, §301(4), (6), 92 Stat. 1688.)
+(Aug. 28, 1954, ch. 1041, title VI, §604, 68 Stat. 909; Pub. L. 95–501, title III, §301(4), (6), Oct. 21, 1978, 92 Stat. 1688.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Every registered investment company shall file annually with the Commission such
 
 Every registered investment company shall file with the Commission—
 
-&emsp;(1) such information, documents, and reports (other than financial statements), as the Commission may require to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; <sup>1</sup>
+&emsp;(1) such information, documents, and reports (other than financial statements), as the Commission may require to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and
 
 &emsp;(2) copies of every periodic or interim report or similar communication containing financial statements and transmitted to any class of such company's security holders, such copies to be filed not later than ten days after such transmission.
 
@@ -32,9 +32,9 @@ Every registered investment company shall file with the Commission—
 
 The Commission shall issue rules and regulations permitting the filing with the Commission, and with any national securities exchange concerned, of copies of periodic reports, or of extracts therefrom, filed by any registered investment company pursuant to subsections (a) and (b) of this section, in lieu of any reports and documents required of such company under section 13 or 15(d) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m or 78<i>o</i>(d)\].
 
-#### (e) Semi-annual reports to stockholders
+#### (e) Semiannual reports to stockholders
 
-Every registered investment company shall transmit to its stockholders, at least semi-annually, reports containing such of the following information and financial statements or their equivalent, as of a reasonably current date, as the Commission may prescribe by rules and regulations for the protection of investors, which reports shall not be misleading in any material respect in the light of the reports required to be filed pursuant to subsections (a) and (b) of this section:
+Every registered investment company shall transmit to its stockholders, at least semiannually, reports containing such of the following information and financial statements or their equivalent, as of a reasonably current date, as the Commission may prescribe by rules and regulations for the protection of investors, which reports shall not be misleading in any material respect in the light of the reports required to be filed pursuant to subsections (a) and (b) of this section:
 
 &emsp;(1) a balance sheet accompanied by a statement of the aggregate value of investments on the date of such balance sheet;
 
@@ -42,7 +42,7 @@ Every registered investment company shall transmit to its stockholders, at least
 
 &emsp;(3) a statement of income, for the period covered by the report, which shall be itemized at least with respect to each category of income and expense representing more than 5 per centum of total income or expense;
 
-&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
+&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each chargeor credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
 
 &emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and to each member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
 
@@ -54,15 +54,15 @@ Every registered investment company shall transmit to its stockholders, at least
 
 The Commission may, by rule, require that semiannual reports containing the information set forth in subsection (e) of this section include such other information as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
-#### (g) <sup>2</sup> Certificate of independent public accountants
+#### (g) Certificate of independent public accountants
 
 Financial statements contained in annual reports required pursuant to subsections (a) and (e) of this section, if required by the rules and regulations of the Commission, shall be accompanied by a certificate of independent public accountants. The certificate of such independent public accountants shall be based upon an audit not less in scope or procedures followed than that which independent public accountants would ordinarily make for the purpose of presenting comprehensive and dependable financial statements, and shall contain such information as the Commission may prescribe, by rules and regulations in the public interest or for the protection of investors, as to the nature and scope of the audit and the findings and opinion of the accountants. Each such report shall state that such independent public accountants have verified securities owned, either by actual examination, or by receipt of a certificate from the custodian, as the Commission may prescribe by rules and regulations.
 
-#### (h) <sup>3</sup> Duties and liabilities of affiliated persons
+#### (h) Duties and liabilities of affiliated persons
 
 Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of outstanding securities (other than short-term paper) of which a registered closed-end company is the issuer or who is an officer, director, member of an advisory board, investment adviser, or affiliated person of an investment adviser of such a company shall in respect of his transactions in any securities of such company (other than short-term paper) be subject to the same duties and liabilities as those imposed by section 16 of the Securities Exchange Act of 1934 \[15 U.S.C. 78p\] upon certain beneficial owners, directors, and officers in respect of their transactions in certain equity securities.
 
-#### (g) <sup>2</sup> Disclosure to church plan participants
+#### (i) Disclosure to church plan participants
 
 A person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title shall provide disclosure to plan participants, in writing, and not less frequently than annually, and for new participants joining such a plan after May 31, 1996, as soon as is practicable after joining such plan, that—
 
@@ -70,19 +70,25 @@ A person that maintains a church plan that is excluded from the definition of an
 
 &emsp;(2) plan participants and beneficiaries therefore will not be afforded the protections of those provisions.
 
-#### (h) <sup>3</sup> Notice to Commission
+#### (j) Notice to Commission
 
 The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Oct. 11, 1996, Pub. L. 104–290, title II, §206, title V, §508(g), 110 Stat. 3430, 3449.)
+(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g), Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (g)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (i)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–353, §301(c)(5)(A), inserted “and” after semicolon at end.
+
+Subsec. (e). Pub. L. 105–353, §301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
+
+Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
 
 1996—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
 
@@ -115,10 +121,4 @@ Reports by registered investment company in lieu of registration statement, see 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–2, 80a–6, 80a–8, 80a–24, 80a–63 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (g) have been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

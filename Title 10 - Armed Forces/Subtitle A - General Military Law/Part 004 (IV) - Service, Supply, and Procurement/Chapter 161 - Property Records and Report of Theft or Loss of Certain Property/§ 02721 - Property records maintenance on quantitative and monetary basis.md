@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the amounts obligated for such inventory purchases out of the corresponding appropriations account for the preceding fiscal year.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 152, §2701; renumbered §2721, Oct. 17, 1986, Pub. L. 99–499, title II, §211(a)(1)(A), 100 Stat. 1719; amended Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, §1322(a)(12), 104 Stat. 1671; Dec. 5, 1991, Pub. L. 102–190, div. A, title III, §347(b), title X, §1061(a)(17)(A), 105 Stat. 1347, 1473.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 152, §2701; renumbered §2721, Pub. L. 99–499, title II, §211(a)(1)(A), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIII, §1322(a)(12), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §347(b), title X, §1061(a)(17)(A), Dec. 5, 1991, 105 Stat. 1347, 1473.)
 
 Historical and Revision Notes
 

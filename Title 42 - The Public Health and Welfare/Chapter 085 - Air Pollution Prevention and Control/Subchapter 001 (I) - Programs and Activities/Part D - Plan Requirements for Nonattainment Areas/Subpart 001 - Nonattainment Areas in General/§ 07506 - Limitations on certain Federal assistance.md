@@ -78,7 +78,7 @@ Applicability.—This subsection shall apply only with respect to—
 
 Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
 
-(July 14, 1955, ch. 360, title I, §176, as added Aug. 7, 1977, Pub. L. 95–95, title I, §129(b), 91 Stat. 749; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(59), 91 Stat. 1403; Nov. 15, 1990, Pub. L. 101–549, title I, §§101(f), 110(4), 104 Stat. 2409, 2470; Nov. 28, 1995, Pub. L. 104–59, title III, §305(b), 109 Stat. 580; Oct. 9, 1996, Pub. L. 104–260, §1, 110 Stat. 3175.)
+(July 14, 1955, ch. 360, title I, §176, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749; amended Pub. L. 95–190, §14(a)(59), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §§101(f), 110(4), Nov. 15, 1990, 104 Stat. 2409, 2470; Pub. L. 104–59, title III, §305(b), Nov. 28, 1995, 109 Stat. 580; Pub. L. 104–260, §1, Oct. 9, 1996, 110 Stat. 3175.)
 
 #### References in Text
 

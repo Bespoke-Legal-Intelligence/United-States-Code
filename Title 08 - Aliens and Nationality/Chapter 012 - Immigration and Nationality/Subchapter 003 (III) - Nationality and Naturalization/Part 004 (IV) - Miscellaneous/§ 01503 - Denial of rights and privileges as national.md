@@ -12,7 +12,7 @@ If any person who is not within the United States claims a right or privilege as
 
 A person who has been issued a certificate of identity under the provisions of subsection (b) of this section, and while in possession thereof, may apply for admission to the United States at any port of entry, and shall be subject to all the provisions of this chapter relating to the conduct of proceedings involving aliens seeking admission to the United States. A final determination by the Attorney General that any such person is not entitled to admission to the United States shall be subject to review by any court of competent jurisdiction in habeas corpus proceedings and not otherwise. Any person described in this section who is finally denied admission to the United States shall be subject to all the provisions of this chapter relating to aliens seeking admission to the United States.
 
-(June 27, 1952, ch. 477, title III, ch. 4, §360, 66 Stat. 273; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(P), 110 Stat. 3009–619.)
+(June 27, 1952, ch. 477, title III, ch. 4, §360, 66 Stat. 273; Pub. L. 104–208, div. C, title III, §308(d)(4)(P), Sept. 30, 1996, 110 Stat. 3009–619.)
 
 #### Amendments
 

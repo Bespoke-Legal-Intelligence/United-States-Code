@@ -188,7 +188,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;&emsp;&emsp;(III) continuing educational and professional opportunities available to teachers;
 
-&emsp;&emsp;&emsp;&emsp;(IV) physical facilities and equipment, such as office space, telephone, computer access, and fax machines and television cable access available to teachers in the work environment;
+&emsp;&emsp;&emsp;&emsp;(IV) physical facilities and equipment, such as office space, telephone, computer access, and fax machines and televisioncable access available to teachers in the work environment;
 
 &emsp;&emsp;&emsp;&emsp;(V) opportunities for teachers to share information and resources with other teachers and education professionals;
 
@@ -252,7 +252,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(B) Rural schools enroll a disproportionately large share of the poor and at-risk students of the United States and yet often lack the means to address effectively the needs of these children. Intensive efforts should be made to overcome the problems of geographic isolation, declining population, inadequate financial resources and other impediments to the educational success of children residing in rural areas.
 
-&emsp;&emsp;(C) By the year 2000, an estimated 3,400,000 school age children with limited-English proficiency will be entering the school system. The Federal Government should develop effective policies and programs to address the educational needs of this growing population of children who are at increased risk of educational failure.
+&emsp;&emsp;(C) By the year 2000, an estimated 3,400,000 school age children with limited-Englishproficiency will be entering the school system. The Federal Government should develop effective policies and programs to address the educational needs of this growing population of children who are at increased risk of educational failure.
 
 &emsp;&emsp;(D) An educational emergency exists in those urban and rural areas where there are large concentrations of children who live in poverty. The numbers of disadvantaged children will substantially increase by the year 2020, when the number of impoverished children alone will be 16,500,000, a 33 percent increase over the 12,400,000 children in poverty in 1987.
 
@@ -274,7 +274,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;&emsp;(iv) innovative teacher training and professional development methods to help at-risk students meet challenging standards;
 
-&emsp;&emsp;&emsp;(v) methods to improve the quality of the education of American Indian and Alaska Native students not only in schools funded by the Bureau, but also in publicelementary and secondary schools located on or near Indian reservations, including—
+&emsp;&emsp;&emsp;(v) methods to improve the quality of the education of American Indian and Alaska Native students not only in schools funded by the Bureau, but also in public elementary and secondary schools located on or near Indian reservations, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) research on mechanisms to facilitate the establishment of tribal departments of education that assume responsibility for all education programs of State educational agencies operating on an Indian reservation and all education programs funded by the Bureau on an Indian reservation;
 
@@ -408,7 +408,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(N) effective approaches to increasing the representation of women and minorities among leadership and management positions in education;
 
-&emsp;&emsp;(O) approaches to systemic reforms involving the coordination of multiple policies ofeach level of government to promote higher levels of student achievement;
+&emsp;&emsp;(O) approaches to systemic reforms involving the coordination of multiple policies of each level of government to promote higher levels of student achievement;
 
 &emsp;&emsp;(P) approaches to coordinated services for children;
 
@@ -432,7 +432,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;(C) The more than 1,000,000 men and women incarcerated in the prisons and jails in the United States are among the most severely educationally disadvantaged in the United States, with high rates of functional illiteracy and extremely low levels of educational attainment. Since an estimated 90 percent of these individuals are expected to be released by the end of the decade, the United States must act to assure that our correctional system has the means to equip these Americans with the knowledge and skills they will need to participate productively in our society.
 
-&emsp;&emsp;(D) The development of a “Nation of Students” capable of and committed to the pursuit of formal and informal lifelong learning and literacy is essential to sustain both national and individual economic success and to provide a nurturing environment in which all children and youth can learn and achieve. Historically the most effective community resource for lifelong learning, the public library system of the United States, should expand and restructure its delivery of services to take full advantage of the potential of new information technologies to meet the needs of learning communities.
+&emsp;&emsp;(D) The development of a “Nation of Students” capable of and committed to the pursuit of formal and informal lifelong learningand literacy is essential to sustain both national and individual economic success and to provide a nurturing environment in which all children and youth can learn and achieve. Historically the most effective community resource for lifelong learning, the public library system of the United States, should expand and restructure its delivery of services to take full advantage of the potential of new information technologies to meet the needs of learning communities.
 
 #### (2) Purpose
 
@@ -466,7 +466,7 @@ In order to fulfill the research and development purposes of the Office, and to 
 
 &emsp;&emsp;&emsp;(xii) effective teaching for the preparation and continuing education of teachers;
 
-&emsp;&emsp;&emsp;(xiii) the development and evaluation of curricular materials for the initial andcontinuing education of teachers and teacher educators;
+&emsp;&emsp;&emsp;(xiii) the development and evaluation of curricular materials for the initial and continuing education of teachers and teacher educators;
 
 &emsp;&emsp;&emsp;(xiv) the role of Historically Black Colleges and Universities, Tribally Controlled Indian Community Colleges, women's colleges, and other special mission institutions in providing access, excellence, and equal opportunity in higher education;
 

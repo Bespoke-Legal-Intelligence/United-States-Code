@@ -24,7 +24,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [115\.](%C2%A7%2000115%20-%20Limitation%20on%20State%20authority%20to%20tax%20compensation%20paid%20to%20individuals%20performing%20services%20at%20Fort%20Campbell%2C%20Kentucky.md) | Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title X, §1075(a)(2), Oct. 17, 1998, 112 Stat. 2138, added item 115.
 
 1996—Pub. L. 104–95, §1(b), Jan. 10, 1996, 109 Stat. 980, added item 114.
 
@@ -63,3 +71,4 @@ Consent of United States to other States to assume jurisdiction with respect to 
 - [&sect; 00112 - Compacts between States for cooperation in prevention of crime; consent of Congress](%C2%A7%2000112%20-%20Compacts%20between%20States%20for%20cooperation%20in%20prevention%20of%20crime%3B%20consent%20of%20Congress.md)
 - [&sect; 00113 - Residence of Members of Congress for State income tax laws](%C2%A7%2000113%20-%20Residence%20of%20Members%20of%20Congress%20for%20State%20income%20tax%20laws.md)
 - [&sect; 00114 - Limitation on State income taxation of certain pension income](%C2%A7%2000114%20-%20Limitation%20on%20State%20income%20taxation%20of%20certain%20pension%20income.md)
+- [&sect; 00115 - Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky](%C2%A7%2000115%20-%20Limitation%20on%20State%20authority%20to%20tax%20compensation%20paid%20to%20individuals%20performing%20services%20at%20Fort%20Campbell%2C%20Kentucky.md)

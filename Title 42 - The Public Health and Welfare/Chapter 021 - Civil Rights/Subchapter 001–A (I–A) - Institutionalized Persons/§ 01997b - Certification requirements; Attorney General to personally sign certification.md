@@ -4,7 +4,7 @@
 
 &emsp;(1) that at least 49 calendar days previously the Attorney General has notified in writing the Governor or chief executive officer and attorney general or chief legal officer of the appropriate State or political subdivision and the director of the institution of—
 
-&emsp;&emsp;(A) the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of the United States and the alleged pattern orpractice of resistance to the full enjoyment of such rights, privileges, or immunities;
+&emsp;&emsp;(A) the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of the United States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
 
 &emsp;&emsp;(B) the supporting facts giving rise to the alleged conditions and the alleged pattern or practice, including the dates or time period during which the alleged conditions and pattern or practice of resistance occurred; and when feasible, the identity of all persons reasonably suspected of being involved in causing the alleged conditions and pattern or practice at the time of the certification, and the date on which the alleged conditions and pattern or practice were first brought to the attention of the Attorney General; and
 

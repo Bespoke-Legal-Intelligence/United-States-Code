@@ -8,6 +8,10 @@ The amount of the incentive bonus paid to each State shall be the sum of—
 
 (Pub. L. 97–300, title V, §503, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3249; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1096.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 The Social Security Act, referred to in par. (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.

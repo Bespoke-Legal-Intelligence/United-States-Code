@@ -14,7 +14,7 @@
 
 #### (1) General exemption
 
-&emsp;Any security or obligation that has been provided a guarantee by the Corporation shallbe exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by, or guaranteed as to principal and interest by, the United States or any agency or instrumentality of the United States.
+&emsp;Any security or obligation that has been provided a guarantee by the Corporation shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by, or guaranteed as to principal and interest by, the United States or any agency or instrumentality of the United States.
 
 #### (2) State override
 
@@ -46,7 +46,7 @@
 
 #### (d) State usury laws superseded
 
-A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to the Corporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the date the loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
+A provision of the Constitution or law of any State shall not apply to an agricultural loan made by an originator or a certified facility in accordance with this subchapter for sale to theCorporation or to a certified facility for inclusion in a pool for which the Corporation has provided, or has committed to provide, a guarantee, if the loan, not later than 180 days after the date the loan was made, is sold to the Corporation or included in a pool for which the Corporation has provided a guarantee, if the provision—
 
 &emsp;(1) limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by an agricultural lender or a certified facility; or
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 

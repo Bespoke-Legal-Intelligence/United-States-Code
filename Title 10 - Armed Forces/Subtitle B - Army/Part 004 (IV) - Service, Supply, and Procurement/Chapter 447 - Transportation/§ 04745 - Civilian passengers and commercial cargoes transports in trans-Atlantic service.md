@@ -4,7 +4,7 @@
 
 (b) Amounts received under this section shall be covered into the Treasury as miscellaneous receipts.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 267; Dec. 12, 1980, Pub. L. 96–513, title V, §512(22), 94 Stat. 2930; Aug. 6, 1981, Pub. L. 97–31, §12(3)(C), 95 Stat. 154.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267; Pub. L. 96–513, title V, §512(22), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 97–31, §12(3)(C), Aug. 6, 1981, 95 Stat. 154.)
 
 Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 June 5, 1920, ch. 240 (6th proviso under “Transportation of the Army and Its Supplies”), 41 Stat. 960.
 
-In subsection (a), the words “Federal Maritime Board” are substituted for the words “United States Maritime Commission”, since the functions of thechairman of that commission were transferred to the chairman of the Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273. The words “the same kinds of service” are substituted for the words “the same class of accommodations”. The words “shipments of” and “between the same ports” are omitted as surplusage. (See also third sentence of revision note for section 4746 of this title, below.)
+In subsection (a), the words “Federal Maritime Board” are substituted for the words “United States Maritime Commission”, since the functions of the chairman of that commission were transferred to the chairman of the Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273. The words “the same kinds of service” are substituted for the words “the same class of accommodations”. The words “shipments of” and “between the same ports” are omitted as surplusage. (See also third sentence of revision note for section 4746 of this title, below.)
 
 #### Amendments
 

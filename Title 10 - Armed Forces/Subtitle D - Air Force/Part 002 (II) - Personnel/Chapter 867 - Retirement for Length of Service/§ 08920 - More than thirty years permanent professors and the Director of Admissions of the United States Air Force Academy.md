@@ -8,7 +8,7 @@
 
 &emsp;(2) The Director of Admissions of the United States Air Force Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 551; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §509(b)(1), 110 Stat. 298.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 551; Pub. L. 104–106, div. A, title V, §509(b)(1), Feb. 10, 1996, 110 Stat. 298.)
 
 Historical and Revision Notes
 

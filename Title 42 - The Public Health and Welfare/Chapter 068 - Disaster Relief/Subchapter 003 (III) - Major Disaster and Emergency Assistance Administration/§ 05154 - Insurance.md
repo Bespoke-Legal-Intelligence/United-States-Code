@@ -4,7 +4,7 @@
 
 #### (1) Compliance with certain regulations
 
-&emsp;An applicant for assistance under section 5172 of this title (relating to repair, restoration, and replacement of damaged facilities), section 5189 of this title (relating to simplified procedure) or section 3233 of this title shall comply with regulations prescribed by the President to assure that, with respect to any property to be replaced, restored, repaired, or constructed with such assistance, such types and extent of insurance will be obtained and maintained as may be reasonably available, adequate, and necessary, to protect against future loss to such property.
+&emsp;An applicant for assistance under section 5172 of this title (relating to repair, restoration, and replacement of damaged facilities), section 5189 of this title (relating to simplified procedure) or section 3233 <sup>1</sup> of this title shall comply with regulations prescribed by the President to assure that, with respect to any property to be replaced, restored, repaired, or constructed with such assistance, such types and extent of insurance will be obtained and maintained as may be reasonably available, adequate, and necessary, to protect against future loss to such property.
 
 #### (2) Determination
 
@@ -12,13 +12,17 @@
 
 #### (b) Maintenance of insurance
 
-No applicant for assistance under section 5172 of this title (relating to repair, restoration, and replacement of damaged facilities), section 5189 of this title (relating to simplified procedure), or section 3233 of this title may receive such assistance for any property or part thereof for which the applicant has previously received assistance under this chapter unless all insurance required pursuant to this section has been obtained and maintained with respect to such property. The requirements of this subsection may not be waived under section 5141 of this title.
+No applicant for assistance under section 5172 of this title (relating to repair, restoration, andreplacement of damaged facilities), section 5189 of this title (relating to simplified procedure), or section 3233 <sup>1</sup> of this title may receive such assistance for any property or part thereof for which the applicant has previously received assistance under this chapter unless all insurance required pursuant to this section has been obtained and maintained with respect to such property. The requirements of this subsection may not be waived under section 5141 of this title.
 
 #### (c) State acting as self-insurer
 
-A State may elect to act as a self-insurer with respect to any or all of the facilities owned by the State. Such an election, if declared in writing at the time of acceptance of assistance under section 5172 or 5189 of this title or section 3233 of this title or subsequently and accompanied by a plan for self-insurance which is satisfactory to the President, shall be deemed compliance with subsection (a) of this section. No such self-insurer may receive assistance under section 5172 or 5189 of this title for any property or part thereof for which it has previously received assistance under this chapter, to the extent that insurance for such property or part thereof would have been reasonably available.
+A State may elect to act as a self-insurer with respect to any or all of the facilities owned by the State. Such an election, if declared in writing at the time of acceptance of assistance under section 5172 or 5189 of this title or section 3233 <sup>1</sup> of this title or subsequently and accompanied by a plan for self-insurance which is satisfactory to the President, shall be deemed compliance with subsection (a) of this section. No such self-insurer may receive assistance under section 5172 or 5189 of this title for any property or part thereof for which it has previously received assistance under this chapter, to the extent that insurance for such property or part thereof would have been reasonably available.
 
 (Pub. L. 93–288, title III, §311, as added Pub. L. 100–707, title I, §105(h), Nov. 23, 1988, 102 Stat. 4692; amended Pub. L. 103–325, title V, §521, Sept. 23, 1994, 108 Stat. 2257.)
+
+#### References in Text
+
+Section 3233 of this title, referred to in subsecs. (a)(1), (b), and (c), was repealed by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617.
 
 #### Prior Provisions
 
@@ -29,4 +33,6 @@ A prior section 311 of Pub. L. 93–288 was renumbered section 308 by Pub. L. 10
 #### Amendments
 
 1994—Subsec. (b). Pub. L. 103–325 inserted at end “The requirements of this subsection may not be waived under section 5141 of this title.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

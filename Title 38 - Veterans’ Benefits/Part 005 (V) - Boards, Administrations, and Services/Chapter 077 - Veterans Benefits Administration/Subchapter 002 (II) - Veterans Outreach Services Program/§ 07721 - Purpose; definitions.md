@@ -32,7 +32,7 @@ Annual Report.—(1) Not later than April 15 of each year, the Secretary of Vete
 
 &emsp;“(D) evaluate the effectiveness of the programs of the Department (including residential work-therapy programs, programs combining outreach, community-based residential treatment, and case-management, and contract care programs for alcohol and drug-dependence or abuse disabilities) in providing assistance to homeless veterans; and
 
-&emsp;“(E) evaluate the effectiveness of programs established by recipients of grants under section 3 of theHomeless Veterans Comprehensive Service Programs Act of 1992 \[Pub. L. 102–590\] (38 U.S.C. 7721 note), and describe the experience of such recipients in applying for and receiving grants from the Secretary of Housing and Urban Development to serve primarily homeless persons who are veterans.
+&emsp;“(E) evaluate the effectiveness of programs established by recipients of grants under section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992 \[Pub. L. 102–590\] (38 U.S.C. 7721 note), and describe the experience of such recipients in applying for and receiving grants from the Secretary of Housing and Urban Development to serve primarily homeless persons who are veterans.
 
 “\[(b) Repealed. Pub. L. 105–114, title II, §204(2), Nov. 21, 1997, 111 Stat. 2288.\]”
 

@@ -14,7 +14,7 @@
 
 (b) Not later than 90 days after the end of a fiscal year, the Secretary shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on actions taken under subsection (a) of this section in such fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §494, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 875; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(9), 106 Stat. 3504.)
+(July 1, 1944, ch. 373, title IV, §494, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 875; amended Pub. L. 102–531, title III, §312(d)(9), Oct. 27, 1992, 106 Stat. 3504.)
 
 #### Amendments
 

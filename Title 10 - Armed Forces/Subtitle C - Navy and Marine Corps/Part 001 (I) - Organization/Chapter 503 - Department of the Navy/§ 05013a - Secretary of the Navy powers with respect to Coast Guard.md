@@ -4,7 +4,7 @@
 
 (b) While operating as a service in the Navy, the Coast Guard is subject to the orders of the Secretary of the Navy, who may order changes in Coast Guard operations to make them uniform, to the extent he considers advisable, with Navy operations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 279, §5032; Dec. 12, 1980, Pub. L. 96–513, title V, §513(3), 94 Stat. 2931; renumbered §5013a, Oct. 1, 1986, Pub. L. 99–433, title V, §511(c)(3), 100 Stat. 1045.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 279, §5032; Pub. L. 96–513, title V, §513(3), Dec. 12, 1980, 94 Stat. 2931; renumbered §5013a, Pub. L. 99–433, title V, §511(c)(3), Oct. 1, 1986, 100 Stat. 1045.)
 
 #### Historical and Revision Notes
 

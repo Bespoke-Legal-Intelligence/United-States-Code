@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1437d, 1437f, 1437u of this title.
+This subchapter is referred to in sections 1437c–1, 1437u of this title.
 
 
 ---

@@ -36,7 +36,7 @@ The operating agency shall—
 
 &emsp;(2) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours; and
 
-&emsp;(3) reimburse participants for actual costs of transportation and other actual costs all ofwhich are reasonably necessary and directly related to participation in the program but not to exceed $25 in the aggregate per month.
+&emsp;(3) reimburse participants for actual costs of transportation and other actual costs all of which are reasonably necessary and directly related to participation in the program but not to exceed $25 in the aggregate per month.
 
 #### (e) Job search period
 
@@ -104,7 +104,7 @@ Subsec. (g)(2), (3). Pub. L. 97–253, §188, added par. (2) and redesignated fo
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 109(e) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to Stateoptions to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 109(e) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1991 Amendment
 

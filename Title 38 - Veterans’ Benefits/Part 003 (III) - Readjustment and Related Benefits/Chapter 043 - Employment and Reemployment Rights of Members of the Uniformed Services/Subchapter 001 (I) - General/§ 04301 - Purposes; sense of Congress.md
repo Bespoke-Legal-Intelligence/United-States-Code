@@ -82,7 +82,7 @@ Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b
 
 Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
 
-“(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph\(1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
+“(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
 
 “(i)
 

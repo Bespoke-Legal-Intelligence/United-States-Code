@@ -4,14 +4,17 @@
 | :--- | ---: |
 | [49\.](%C2%A7%2000049%20-%20United%20States%20Employment%20Service%20established.md) | United States Employment Service established. |
 | [49a.](%C2%A7%2000049a%20-%20Definitions.md) | Definitions. |
-| [49b.](%C2%A7%2000049b%20-%20Function%20of%20Service.md) | Function of Service. |
+| [49b.](%C2%A7%2000049b%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
+| (a) | Assistance to State public employment services. |
+| (b) | Provision of unemployment compensation information. |
+| (c) | Public labor exchange services. |
 | [49c.](%C2%A7%2000049c%20-%20Acceptance%20by%20States%3B%20creation%20of%20State%20agencies.md) | Acceptance by States; creation of State agencies. |
 | 49c–1. | Transfer to States of property used by United States Employment Service. |
 | 49c–2 to 49c–5. Omitted, Repealed, or Transferred. |  |
 | [49d.](%C2%A7%2000049d%20-%20Appropriations%3B%20certification%20for%20payment%20to%20States.md) | Appropriations; certification for payment to States. |
 | (a) | Authorization of appropriations. |
 | (b) | Certification for payment to States. |
-| (c) | Availability of appropriations; transition. |
+| (c) | Availability of appropriations. |
 | 49d–1. | Omitted. |
 | [49e.](%C2%A7%2000049e%20-%20Allotment%20of%20funds.md) | Allotment of funds. |
 | [49f.](%C2%A7%2000049f%20-%20Percentage%20disposition%20of%20allotted%20funds.md) | Percentage disposition of allotted funds. |
@@ -19,12 +22,12 @@
 | (b) | Use of 10 percent of funds allotted. |
 | (c) | Joint funding. |
 | (d) | Performance of services and activities under contract. |
+| (e) | Provision of services as part of one-stop delivery system. |
 | [49g.](%C2%A7%2000049g%20-%20State%20plans.md) | State plans. |
-| (a) | Submission to Secretary of Labor. |
-| (b) | Plan preparation at State and national level. |
-| (c) | Review by Governor. |
-| (d) | Contents of plans. |
-| (e) | Approval by Secretary. |
+| (a) | Submission to Secretary. |
+| (b) | Contents of plans. |
+| (c) | Information on coordination of workforce investment activities and one-stop delivery system development. |
+| (d) | Approval by Secretary. |
 | [49h.](%C2%A7%2000049h%20-%20Fiscal%20controls%20and%20accounting%20procedures.md) | Fiscal controls and accounting procedures. |
 | (a) | Audit. |
 | (b) | Evaluations by Comptroller General. |
@@ -33,10 +36,19 @@
 | (a) | Records. |
 | (b) | Investigations. |
 | (c) | Reports. |
-| [49j.](%C2%A7%2000049j%20-%20Federal%20Advisory%20Council%3B%20establishment%20and%20composition%3B%20State%20Advisory%20Councils%3B%20notice%20of%20strikes%20and%20lockouts%20to%20applicants.md) | Federal Advisory Council; establishment and composition; State Advisory Councils; notice of strikes and lockouts to applicants. |
+| [49j.](%C2%A7%2000049j%20-%20Notice%20of%20strikes%20and%20lockouts%20to%20applicants.md) | Notice of strikes and lockouts to applicants. |
 | [49k.](%C2%A7%2000049k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | 49<i>l.</i> | Miscellaneous operating authorities. |
 | 49<i>l</i>–1. | Authorization of appropriations. |
+| 49<i>l</i>–2. | Employment statistics. |
+| (a) | System content. |
+| (b) | System responsibilities. |
+| (c) | Annual plan. |
+| (d) | Coordination with the States. |
+| (e) | State responsibilities. |
+| (f) | Nonduplication requirement. |
+| (g) | Authorization of appropriations. |
+| (h) | “Local area” defined. |
 | 49m, 49n. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,7 +59,7 @@ National Policy on Employment, see sections 1021 to 1025 of Title 15, Commerce a
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1532, 1535, 1605, 1645, 1661c, 1732, 1735, 1751, 1792, 1811 of this title; title 20 sections 2403, 2468; title 26 section 51; title 38 sections 4101, 4104; title 39 section 3202; title 42 sections 1101, 4728.
+This chapter is referred to in sections 1532, 1535, 1605, 1645, 1661c, 1732, 1735, 1751, 1792, 1811, 2822, 2841, 2864, 2943 of this title; title 20 sections 2308, 2328, 2411, 9271; title26 section 51; title 38 sections 4101, 4104; title 39 section 3202; title 42 sections 1101, 4728.
 
 
 ---
@@ -56,7 +68,7 @@ This chapter is referred to in sections 1532, 1535, 1605, 1645, 1661c, 1732, 173
 
 - [&sect; 00049 - United States Employment Service established](%C2%A7%2000049%20-%20United%20States%20Employment%20Service%20established.md)
 - [&sect; 00049a - Definitions](%C2%A7%2000049a%20-%20Definitions.md)
-- [&sect; 00049b - Function of Service](%C2%A7%2000049b%20-%20Function%20of%20Service.md)
+- [&sect; 00049b - Duties of Secretary](%C2%A7%2000049b%20-%20Duties%20of%20Secretary.md)
 - [&sect; 00049c - Acceptance by States; creation of State agencies](%C2%A7%2000049c%20-%20Acceptance%20by%20States%3B%20creation%20of%20State%20agencies.md)
 - [&sect; 00049c&#8211;1 - Transfer to States of property used by United States Employment Service](%C2%A7%2000049c%E2%80%931%20-%20Transfer%20to%20States%20of%20property%20used%20by%20United%20States%20Employment%20Service.md)
 - [&sect; 00049c&#8211;2 - Omitted](%C2%A7%2000049c%E2%80%932%20-%20Omitted.md)
@@ -70,8 +82,9 @@ This chapter is referred to in sections 1532, 1535, 1605, 1645, 1661c, 1732, 173
 - [&sect; 00049g - State plans](%C2%A7%2000049g%20-%20State%20plans.md)
 - [&sect; 00049h - Fiscal controls and accounting procedures](%C2%A7%2000049h%20-%20Fiscal%20controls%20and%20accounting%20procedures.md)
 - [&sect; 00049i - Recordkeeping and accountability](%C2%A7%2000049i%20-%20Recordkeeping%20and%20accountability.md)
-- [&sect; 00049j - Federal Advisory Council; establishment and composition; State Advisory Councils; notice of strikes and lockouts to applicants](%C2%A7%2000049j%20-%20Federal%20Advisory%20Council%3B%20establishment%20and%20composition%3B%20State%20Advisory%20Councils%3B%20notice%20of%20strikes%20and%20lockouts%20to%20applicants.md)
+- [&sect; 00049j - Notice of strikes and lockouts to applicants](%C2%A7%2000049j%20-%20Notice%20of%20strikes%20and%20lockouts%20to%20applicants.md)
 - [&sect; 00049k - Rules and regulations](%C2%A7%2000049k%20-%20Rules%20and%20regulations.md)
 - [&sect; 00049l - Miscellaneous operating authorities](%C2%A7%2000049l%20-%20Miscellaneous%20operating%20authorities.md)
 - [&sect; 00049l&#8211;1 - Authorization of appropriations](%C2%A7%2000049l%E2%80%931%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00049l&#8211;2 - Employment statistics](%C2%A7%2000049l%E2%80%932%20-%20Employment%20statistics.md)
 - [&sect; 00049m, 49n - Omitted](%C2%A7%2000049m%2C%2049n%20-%20Omitted.md)

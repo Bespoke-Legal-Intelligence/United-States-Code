@@ -38,11 +38,11 @@ Upon a determination under subsection (a) of this section—
 
 The Governor, in the case of action under subsection (b)(1) of this section, or the Administrator, in the case of an action under subsection (b)(2) or (3) of this section shall, by rule or order, require each source to which such action applies to—
 
-&emsp;(1) enter into long-term contracts of at least ten years in duration (except as the President or his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
+&emsp;(1) enter into long-term contracts of at least ten years in duration (except as the Presidentor his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
 
 &emsp;(2) enter into contracts to acquire any additional means of emission limitation which the Administrator or the State determines may be necessary to comply with the requirements of this chapter while using such coal or coal derivatives as fuel, and
 
-&emsp;(3) comply with such schedules (including increments of progress), timetables and other requirements as may be necessary to assurecompliance with the requirements of this chapter.
+&emsp;(3) comply with such schedules (including increments of progress), timetables and other requirements as may be necessary to assure compliance with the requirements of this chapter.
 
 > Requirements under this subsection shall be established simultaneously with, and as a condition of, any action under subsection (b) of this section.
 
@@ -70,7 +70,7 @@ The President may delegate his authority under this section to an officer or emp
 
 For the purpose of this section the term “locally or regionally available coal or coal derivatives” means coal or coal derivatives which is, or can in the judgment of the State or the Administrator feasibly be, mined or produced in the local or regional area (as determined by the Administrator) in which the major fuel burning stationary source is located.
 
-(July 14, 1955, ch. 360, title I, §125, as added Aug. 7, 1977, Pub. L. 95–95, title I, §122, 91 Stat. 722.)
+(July 14, 1955, ch. 360, title I, §125, as added Pub. L. 95–95, title I, §122, Aug. 7, 1977, 91 Stat. 722.)
 
 #### Effective Date
 

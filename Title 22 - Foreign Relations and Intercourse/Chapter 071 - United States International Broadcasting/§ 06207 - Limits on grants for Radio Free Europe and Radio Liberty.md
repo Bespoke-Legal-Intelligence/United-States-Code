@@ -62,39 +62,37 @@ No grant funds provided under this section may be used for the following purpose
 
 #### (i) Report on management practices
 
-(1) <sup>1</sup> Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the United States Information Agency shall submit to the Board, the Director of the United States Information Agency, and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the United States Information Agency shall establish a special unit within the Inspector General's office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
+(1) <sup>1</sup> Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General's office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
 
 #### (j) Audit authority
 
-(1) Such financial transactions of RFE/RL, Incorporated, as relate to functions carried out under this section may be audited by the General Accounting Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
+(1) Such financial transactions of RFE/RL, Incorporated, as relate to functions carried outunder this section may be audited by the General Accounting Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Any such audit shall be conducted at the place or places where accounts of RFE/RL, Incorporated, are normally kept.
 
 (2) Representatives of the General Accounting Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
 
-(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the United States Information Agency is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
+(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
 
-#### (k) Plan for relocation
-
-None of the funds authorized to be appropriated for the fiscal years <sup>2</sup> 1994 or 1995 may be used to relocate the offices or operations of RFE/RL, Incorporated from Munich, Germany, unless—
-
-&emsp;(1) such relocation is specifically provided for in an appropriation Act or pursuant to a reprogramming notification; and
-
-&emsp;(2)(A) such relocation is authorized by the Board and the Board submits to the Comptroller General of the United States and the appropriate Congressional <sup>3</sup> committees a detailed plan for such relocation, including cost estimates and any and all fiscal data, audits, business plans, and other documents which justify such relocation; or
-
-&emsp;(B) prior to the confirmation of all members of the Board, such relocation is authorized by the President, the President certifies that a significant national interest requires that such relocation determination be made before the confirmation of all members of the Board, and the President submits to the Comptroller General of the United States and the appropriate congressional committees a detailed plan for such relocation, including cost estimates and any and all fiscal data, audits, business plans, and other documents which justify such relocation.
-
-#### (<i>l</i>) Reports on personnel classification
-
-Not later than 90 days after the date of confirmation of all members of the Board, the Board shall submit a report to the Congress containing a justification, in terms of the types of duties performed at specific rates of salary and other compensation, of the classification of personnel employed by RFE/RL, Incorporated. The report shall include a comparison of the rates of salary or other compensation and classifications provided to employees of RFE/RL, Incorporated, with the rates of salary or other compensation and classifications of employees of the Voice of America stationed overseas in comparable positions and shall identify any disparities and steps which should be taken to eliminate such disparities.
-
-(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437.)
+(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780.)
 
 #### References in Text
 
 The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
-The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct.19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
+The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
 
 The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1998—Subsec. (i)(1). Pub. L. 105–277, §1314(d), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency” in two places and struck out “, the Director of the United States Information Agency,” after “shall submit to the Board”.
+
+Subsec. (j)(3). Pub. L. 105–277, §1314(d)(1), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
+
+Subsecs. (k), (<i>l</i>). Pub. L. 105–277, §1323(<i>l</i>)(1), struck out subsecs. (k) and (<i>l</i>), which listed conditions placed upon plan for relocation of offices or operations of RFE/RL, Incorporated from Munich, Germany, and required report to Congress on classification of personnel not later than 90 days after confirmation of all members of Board, respectively.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Liaison With RFE/RL, Incorporated; Representation at Board Meetings
 
@@ -104,23 +102,9 @@ Section 305(b) of Pub. L. 99–93 provided that: “The Secretary of State shall
 
 &emsp;“(2) be represented by an observer at each meeting of the Board for International Broadcasting and of the Board of Directors of RFE/RL, Incorporated.”
 
-#### Presidential Determination on RFE/RL Relocation
-
-Determination of President of the United States, No. 94–32, July 12, 1994, 59 F.R. 37649, provided:
-
-Pursuant to the authority vested in me by section 308(k) of the United States International Broadcasting Act of 1994 (Public Law 103–236) \[22 U.S.C. 6207(k)\] (the “Act”), I hereby certify that significant national interest requires a relocation of the operations of RFE/RL, Incorporated from Munich, Germany, to Prague, Czech Republic, before the confirmation of a new Board of Broadcasting Governors can be completed.
-
-You are authorized and directed to transmit this determination to the appropriate committees of the Congress (as defined in section 314 of the Act \[22 U.S.C. 6213\]) and to arrange for its publication in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6204, 6206 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “year”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -1,11 +1,6 @@
 ## PART IV—SERVICE, SUPPLY, AND PROCUREMENT
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | <b>\[431.</b> | <b>Repealed.\]</b> |  |
 | [<b>433.</b>](Chapter%20433%20-%20Procurement/README.md) | <b>Procurement</b> | <b>4531</b> |

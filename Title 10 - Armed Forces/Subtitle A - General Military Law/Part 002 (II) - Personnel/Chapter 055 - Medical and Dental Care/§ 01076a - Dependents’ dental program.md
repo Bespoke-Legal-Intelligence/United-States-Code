@@ -10,7 +10,13 @@ Authority to Establish Plans.—(1) The Secretary of Defense may establish basic
 
 Premiums.—(1) Members enrolling in a dental benefits plan established under subsection (a) shall be required to pay a share of the member's premium.
 
-(2) A member enrolled in a basic dental benefits plan shall pay a premium of not more than $20 per month for the member and the family of the member.
+(2)(A) A member enrolled in a basic dental benefits plan shall pay a premium of not more than $20 per month for the member and the family of the member.
+
+(B) Effective as of January 1 of each year, the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
+
+&emsp;(i) the percent by which the rates of basic pay of members of the uniformed services are increased on such date; or
+
+&emsp;(ii) the sum of one-half percent and the percent computed under section 5303(a) of title 5 for the increase in rates of basic pay for statutory pay systems for pay periods beginning on or after such date.
 
 (3) The Secretary of Defense may reduce the monthly premium required to be paid under paragraph (2) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental benefits plan established under subsection (a). The reduction in the amount of the premium may not exceed $10 per month.
 
@@ -56,9 +62,21 @@ Eligible Dependent Defined.—(1) In this section, the term “eligible dependen
 
 (2) The term includes a dependent described in such subparagraphs of a member who dies while on active duty for a period of more than 30 days if the dependent is enrolled on the date of the death of the member in a dental benefits plan established under subsection (a), except that the term does not include the dependent after the end of the one-year period beginning on the date of the member's death. The Secretary of Defense may waive (in whole or in part) any requirements of the plan as the Secretary determines necessary for the effective administration of the plan for a dependent covered by this paragraph.
 
-(Added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812.)
+(j)
+
+Limitation on Reduction of Benefits.—The Secretary of Defense may not reduce benefits provided under this section until—
+
+&emsp;(1) the Secretary provides notice of the Secretary's intent to reduce such benefits to the Committee on National Security of the House of Representatives and the Committee on Armed Services of the Senate; and
+
+&emsp;(2) 1 year has elapsed following the date of such notice.
+
+(Added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905;Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)\[(1)\], (b), Oct. 17, 1998, 112 Stat. 2056.)
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–261, §701(a)\[(1)\], designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (j). Pub. L. 105–261, §701(b), added subsec. (j).
 
 1997—Subsec. (h). Pub. L. 105–85 substituted “The Secretary of Defense may” for “The Secretary may” and inserted at end “In the case of such an overseas dental plan, the Secretary may waive or reduce the copayments otherwise required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.”
 
@@ -100,7 +118,7 @@ Limitations on Expenditures.—The Secretary of Defense may not spend more than 
 
 1991—Subsec. (a). Pub. L. 102–190, §701(e)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 102–190, §701(a), substituted “basic and supplemental dental benefits plans” for“dental benefit plans” in first sentence and inserted at end “A member may not enroll in a supplemental dental benefits plan unless the member is also a member of a basic dental benefits plan.”
+Subsec. (a)(1). Pub. L. 102–190, §701(a), substituted “basic and supplemental dental benefits plans” for “dental benefit plans” in first sentence and inserted at end “A member may not enroll in a supplemental dental benefits plan unless the member is also a member of a basic dental benefits plan.”
 
 Subsec. (b). Pub. L. 102–190, §701(c)(1), inserted heading.
 
@@ -129,6 +147,14 @@ Subsecs. (f) to (h). Pub. L. 102–190, §701(e)(3)–(5), inserted headings.
 1986—Subsec. (b)(2). Pub. L. 99–661, §707(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall establish the amount of the premium to be paid by a member enrolled in a plan under this section.”
 
 Subsec. (h). Pub. L. 99–661, §707(b), added subsec. (h).
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title VII, §701(a)(2), Oct. 17, 1998, 112 Stat. 2056, provided that: “The amendment made by subparagraph (B) of paragraph (1) \[amending this section\] shall take effect on January 1, 1999, and shall apply to months after 1998 as if such subparagraph had been in effect since December 31, 1993.”
 
 #### Effective Date of 1994 Amendment
 

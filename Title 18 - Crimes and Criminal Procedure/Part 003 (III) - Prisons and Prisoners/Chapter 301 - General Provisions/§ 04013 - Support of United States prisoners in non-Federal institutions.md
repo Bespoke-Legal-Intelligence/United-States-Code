@@ -50,6 +50,10 @@ Subsec. (b). Pub. L. 101–647, §1701, added subsec. (b).
 
 Section 330011(<i>o</i>) of Pub. L. 103–322 provided that the amendment made by that section is effective Nov. 29, 1990.
 
+#### Justice Prisoner and Alien Transportation System Fund, United States Marshals Service
+
+Pub. L. 105–277, div. A, §101(b) \[title I\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–54, provided that: “There is hereby established a Justice Prisoner and Alien Transportation System Fund for the payment of necessary expenses related to the scheduling and transportation of United States prisoners and illegal and criminal aliens in the custody of the United States Marshals Service, as authorized in 18 U.S.C. 4013, including, without limitation, salaries and expenses, operations, and the acquisition, lease, and maintenance of aircraft and support facilities: <i>Provided</i>, That the Fund shall be reimbursed or credited with advance payments from amounts available to the Department of Justice, other Federal agencies, and other sources at rates that will recover the expenses of Fund operations, including, without limitation, accrual of annual leave and depreciation of plant and equipment of the Fund: <i>Provided further</i>, That proceeds from the disposal of Fund aircraft shall be credited to the Fund: <i>Provided further</i>, That amounts in the Fund shall be available without fiscal year limitation, and may be used for operating equipment lease agreements that do not exceed 5 years.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 42 section 13711.

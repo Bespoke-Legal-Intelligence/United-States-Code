@@ -24,7 +24,7 @@
 
 &emsp;(A) produce national intelligence estimates for the Government, including, whenever the Council considers appropriate, alternative views held by elements of the intelligence community;
 
-&emsp;(B) evaluate community-wide collection and production of intelligence by the intelligencecommunity and the requirements and resources of such collection and production; and
+&emsp;(B) evaluate community-wide collection and production of intelligence by the intelligence community and the requirements and resources of such collection and production; and
 
 &emsp;(C) otherwise assist the Director in carrying out the responsibilities described in subsection (a) of this section.
 
@@ -32,7 +32,7 @@
 
 (4) Subject to the direction and control of the Director of Central Intelligence, the Council may carry out its responsibilities under this subsection by contract, including contracts for substantive experts necessary to assist the Council with particular assessments under this subsection.
 
-(5) The Director shall make available to the Council such staff as may be necessary to permit the Council to carry out its responsibilities under this subsection and shall take appropriate measures to ensure that the Council and its staff satisfy the needs of policymaking officials and other consumers of intelligence. The Council shall also be readily accessible to policymaking officials and other appropriate individuals not otherwise associated with the intelligence community.
+(5) The Director shall make available to the Council such staff as may be necessary to permit the Council to carry out its responsibilities under this subsection and shall take appropriatemeasures to ensure that the Council and its staff satisfy the needs of policymaking officials and other consumers of intelligence. The Council shall also be readily accessible to policymaking officials and other appropriate individuals not otherwise associated with the intelligence community.
 
 (6) The heads of elements within the intelligence community shall, as appropriate, furnish such support to the Council, including the preparation of intelligence analyses, as may be required by the Director.
 

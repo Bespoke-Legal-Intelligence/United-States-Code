@@ -16,7 +16,7 @@ A majority of the members shall constitute a quorum for the transaction of busin
 
 #### (2) Final decisions
 
-&emsp;(A) In making final decisions of the Goals Panel with respect to the exercise of its duties and powers the Goals Panel shall operate on the principle of consensus among the members of the Goals Panel.
+&emsp;(A) In making final decisions of the Goals Panel with respect to the exercise of its duties and powers the Goals Panel shall operate onthe principle of consensus among the members of the Goals Panel.
 
 &emsp;(B) Except as otherwise provided in this part, if a vote of the membership of the Goals Panel is required to reach a final decision with respect to the exercise of its duties and powers, then such final decision shall be made by a three-fourths vote of the members of the Goals Panel who are present and voting.
 

@@ -30,7 +30,7 @@ Compensation shall not be required under subsection (a) of this section if the S
 
 #### (c) Transcripts
 
-The State regulatory authority or nonregulated electric utility, as the case may be, shall make transcripts of the proceeding available, at cost of reproduction, to parties or intervenors in any ratemaking proceeding, or other regulatory proceeding relating to rates or rate design, before a State regulatory authority or nonregulated electric utility.
+The State regulatory authority or nonregulated electric utility, as the case may be, shallmake transcripts of the proceeding available, at cost of reproduction, to parties or intervenors in any ratemaking proceeding, or other regulatory proceeding relating to rates or rate design, before a State regulatory authority or nonregulated electric utility.
 
 #### (d) Federal agencies
 

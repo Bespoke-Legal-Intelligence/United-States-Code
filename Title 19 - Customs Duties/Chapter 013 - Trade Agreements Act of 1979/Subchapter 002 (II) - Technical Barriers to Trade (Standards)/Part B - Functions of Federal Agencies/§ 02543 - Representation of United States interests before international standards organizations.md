@@ -30,7 +30,7 @@ The Secretary concerned shall—
 
 #### (3) Inadequate representation
 
-&emsp;If the Secretary concerned, after inquiry instituted on his own motion or at the request of any private person, Federal agency, or State agency having an interest therein, has reason to believe that the participation by the organization member in the proceedings of a private international standards organization will not result in the adequate representation of United States interests that are, or may be, affected by the activities of such organization (particularly with regard to the potential impact of any such activity on the international trade of the United States), the Secretary concerned shall immediately notify the organization member concerned. During any such inquiry, the Secretary concerned may solicit and consider the advice of the appropriate representatives referred to in section 2547 of this title.
+&emsp;If the Secretary concerned, after inquiry instituted on his own motion or at the request ofany private person, Federal agency, or State agency having an interest therein, has reason to believe that the participation by the organization member in the proceedings of a private international standards organization will not result in the adequate representation of United States interests that are, or may be, affected by the activities of such organization (particularly with regard to the potential impact of any such activity on the international trade of the United States), the Secretary concerned shall immediately notify the organization member concerned. During any such inquiry, the Secretary concerned may solicit and consider the advice of the appropriate representatives referred to in section 2547 of this title.
 
 #### (4) Action by organization member
 
@@ -56,7 +56,7 @@ With respect to any international standards organization before which the intere
 
 &emsp;(3) not preempt the responsibilities of any Federal agency that has jurisdiction with respect to the activities undertaken by such organization, unless requested to do so by such agency.
 
-(Pub. L. 96–39, title IV, §413, July 26, 1979, 93 Stat. 244; Pub. L. 103–182, title III, §351(b)(2)(A),Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, §413, July 26, 1979, 93 Stat. 244; Pub. L. 103–182, title III, §351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 #### Amendments
 

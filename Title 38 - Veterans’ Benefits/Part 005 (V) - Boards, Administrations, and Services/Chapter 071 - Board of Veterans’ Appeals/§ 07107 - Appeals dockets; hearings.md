@@ -1,8 +1,16 @@
 ### §7107. Appeals: dockets; hearings
 
-(a)(1) Except as provided in subsection (f), each case received pursuant to application for review on appeal shall be considered and decided in regular order according to its place upon the docket.
+(a)(1) Except as provided in paragraphs (2) and (3) and in subsection (f), each case received pursuant to application for review on appeal shall be considered and decided in regular order according to its place upon the docket.
 
-(2) A case referred to in paragraph (1) may, for cause shown, be advanced on motion for earlier consideration and determination. Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.
+(2) A case referred to in paragraph (1) may, for cause shown, be advanced on motion for earlier consideration and determination. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+
+&emsp;(A) if the case involves interpretation of law of general application affecting other claims;
+
+&emsp;(B) if the appellant is seriously ill or is under severe financial hardship; or
+
+&emsp;(C) for other sufficient cause shown.
+
+(3) A case referred to in paragraph (1) may be postponed for later consideration and determination if such postponement is necessary to afford the appellant a hearing.
 
 (b) The Board shall decide any appeal only after affording the appellant an opportunity for a hearing.
 
@@ -10,9 +18,15 @@
 
 (d)(1) An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.
 
-(2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in the order in which requests for hearings within that area are received by the Department.
+(2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
 
-(3) In a case in which the Secretary is aware that the appellant is seriously ill or is under severe financial hardship, a hearing may be scheduled at a time earlier than would be provided for under paragraph (2).
+(3) A hearing to be held within an area served by a regional office of the Department may, for cause shown, be advanced on motion for an earlier hearing. Any such motion shall set forth succinctly the grounds upon which the motion is based. Such a motion may be granted only—
+
+&emsp;(A) if the case involves interpretation of law of general application affecting other claims;
+
+&emsp;(B) if the appellant is seriously ill or is under severe financial hardship; or
+
+&emsp;(C) for other sufficient cause shown.
 
 (e)(1) At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable an appellant located at a facility within the area served by a regional office to participate, through voice transmission or through picture and voice transmission, by electronic or other means, in a hearing with a Board member or members sitting at the Board's principal location.
 
@@ -24,9 +38,19 @@
 
 &emsp;(2) the development, or attempted development, of a record found to be inadequate for decisional purposes.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, §1003, Nov. 11, 1998, 112 Stat. 3363.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–368, §1003(a)(1), inserted “in paragraphs (2) and (3) and” after “Except as provided”.
+
+Subsec. (a)(2). Pub. L. 105–368, §1003(a)(2), added second and third sentences and struck out former second sentence which read as follows: “Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.”
+
+Subsec. (a)(3). Pub. L. 105–368, §1003(a)(3), added par. (3).
+
+Subsec. (d)(2). Pub. L. 105–368, §1003(b)(1), substituted “in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.” for “in the order in which requests for hearings within that area are received by the Department.”
+
+Subsec. (d)(3). Pub. L. 105–368, §1003(b)(2), added par. (3) and struck out former par. (3) which read as follows: “In a case in which the Secretary is aware that the appellant is seriously ill or is under severe financial hardship, a hearing may be scheduled at a time earlier than would be provided for under paragraph (2).”
 
 1994—Pub. L. 103–446 substituted “Except as provided in subsection (f), each case” for “Each case” in subsec. (a)(1) and added subsec. (f).
 

@@ -10,7 +10,7 @@ The Secretary of the Treasury is authorized to prescribe such regulations as he 
 
 Under such regulations as the Secretary of the Treasury may prescribe and subject to any conditions imposed thereby the consignee may at any time within three years from the date of original importation, abandon to the Government any merchandise in bonded warehouse, whereupon any duties on such merchandise may be remitted or refunded as the case may be, but any merchandise so abandoned shall not be less than an entire package and shall be abandoned in the original package without having been repacked while in a bonded warehouse (other than a bonded manipulating warehouse).
 
-(June 17, 1930, ch. 497, title IV, §563, 46 Stat. 746; June 25, 1938, ch. 679, §23(a), 52 Stat. 1088; June 2, 1970, Pub. L. 91–271, title III, §301(v), 84 Stat. 290.)
+(June 17, 1930, ch. 497, title IV, §563, 46 Stat. 746; June 25, 1938, ch. 679, §23(a), 52 Stat. 1088; Pub. L. 91–271, title III, §301(v), June 2, 1970, 84 Stat. 290.)
 
 #### Codification
 

@@ -24,7 +24,7 @@ Withholding.—If the Secretary determines that any registrant under this sectio
 
 &emsp;(4)
 
-Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board, the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection.
+Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary andthe Board, the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection.
 
 (b)
 
@@ -236,7 +236,7 @@ Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see forme
 
 As set forth in the Statement of Administrative Action regarding the North American Free Trade Agreement (NAFTA) that I submitted to the Congress on November 3, 1993, the moratorium with respect to Mexico will be lifted in phases to coincide with the schedule of liberalization in the relevant provisions of the NAFTA. The NAFTA specifically states that the moratorium will not apply to the provision of cross-border charter or tour bus services as of the date of entry into force of the Agreement.
 
-This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(<i>l</i>)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that sectionand all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
+This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(<i>l</i>)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
 
 The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexican motor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, in round-trip or one-way service between Mexico and the United States.
 
@@ -248,7 +248,7 @@ This determination shall be published in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
+\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate,see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
 
 #### Extension of Moratorium
 
@@ -274,5 +274,5 @@ Memorandum of President of the United States, Aug. 30, 1984, 49 F.R. 35001, exte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13507, 13905, 13906, 14301, 14701, 14702, 14707, 14708, 14901, 14910, 24305, 31144 of this title.
+This section is referred to in sections 13507, 13905, 13906, 14301, 14701, 14702, 14707, 14708, 14901, 14910, 24305 of this title.
 

@@ -202,7 +202,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (1) In general
 
-&emsp;The appropriate State bank supervisor of a host State may examine a branch operated in such State by an out-of-State insured State bank that resulted from an interstate merger transaction approved under section 1831u of this title or a branch established in such Statepursuant to section 36(g) of this title or section 1828(d)(4) of this title—
+&emsp;The appropriate State bank supervisor of a host State may examine a branch operated in such State by an out-of-State insured State bank that resulted from an interstate merger transaction approved under section 1831u of this title or a branch established in such State pursuant to section 36(g) of this title or section 1828(d)(4) of this title—
 
 &emsp;&emsp;(A) for the purpose of determining compliance with host State laws, including those that govern banking, community reinvestment, fair lending, consumer protection, and permissible activities; and
 

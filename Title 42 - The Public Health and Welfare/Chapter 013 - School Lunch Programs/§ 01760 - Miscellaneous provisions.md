@@ -24,9 +24,9 @@ Child.—
 
 In general.—The term “child” includes an individual, regardless of age, who—
 
-&emsp;&emsp;&emsp;(i) is determined by a State educational agency, in accordance with regulations prescribed by the Secretary, to have one or more mental or physical disabilities; and
+&emsp;&emsp;&emsp;(i) is determined by a State educational agency, in accordance with regulations prescribed by the Secretary, to have one or more disabilities; and
 
-&emsp;&emsp;&emsp;(ii) is attending any institution, as defined in section 1766(a) of this title, or any nonresidential public or nonprofit private school of high school grade or under, for the purpose of participating in a school program established for individuals with mental or physical disabilities.
+&emsp;&emsp;&emsp;(ii) is attending any institution, as defined in section 1766(a) of this title, or any nonresidential public or nonprofit private school of high school grade or under, for the purpose of participating in a school program established for individuals with disabilities.
 
 &emsp;&emsp;(B)
 
@@ -44,17 +44,21 @@ Relationship to child and adult care food program.—No institution that is not 
 
 &emsp;(7) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
 
+&emsp;(8)
+
+Disability.—The term “disability” has the meaning given the term in the Rehabilitation Act of 1973 for purposes of title II of that Act (29 U.S.C 760 et seq.).
+
 #### (e) Value of assistance as income or resources under Federal or State laws
 
 The value of assistance to children under this chapter shall not be considered to be income or resources for any purposes under any Federal or State laws, including laws relating to taxation and welfare and public assistance programs.
 
 #### (f) Adjustment of national average payment rate for Alaska, Hawaii, territories and possessions, etc.
 
-In providing assistance for school breakfasts and lunches served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753 and 1759a of this title and section 1773 of this title, to reflect the differences between the costs of providing lunches and breakfasts in those States and the costs of providing lunches and breakfasts in all other States.
+In providing assistance for breakfasts, lunches, suppers, and supplements served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753, 1759a, 1761, and 1766 of this title and section 4 of the Child Nutrition Act of 1966 \[42 U.S.C. 1773\], to reflect the differences between the costs of providing meals and supplements in those States and the costs of providing meals and supplements in all other States.
 
 #### (g) Criminal penalties
 
-Whoever embezzles, willfully misapplies, steals, or obtains by fraud any funds, assets, or property that are the subject of a grant or other form of assistance under this chapter or the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], whether received directly or indirectly from the United States Department of Agriculture, or whoever receives, conceals, or retains such funds, assets, or property to personal use or gain, knowing such funds, assets, or property have been embezzled, willfully misapplied, stolen, or obtained by fraud shall, if such funds, assets, or property are of the value of $100 or more, be fined not more than $10,000 or imprisoned not more than five years, or both, or, if such funds, assets, or property are of a value of less than $100, shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
+Whoever embezzles, willfully misapplies, steals, or obtains by fraud any funds, assets, orproperty that are the subject of a grant or other form of assistance under this chapter or the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], whether received directly or indirectly from the United States Department of Agriculture, or whoever receives, conceals, or retains such funds, assets, or property to personal use or gain, knowing such funds, assets, or property have been embezzled, willfully misapplied, stolen, or obtained by fraud shall, if such funds, assets, or property are of the value of $100 or more, be fined not more than $25,000 or imprisoned not more than five years, or both, or, if such funds, assets, or property are of a value of less than $100, shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
 #### (h) Combined allocation for breakfast and lunch
 
@@ -188,17 +192,51 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(F) be able to provide model curricula, examples, advice, and guidance to schools, community groups, States, and local organizations regarding means of carrying out similar projects.
 
-(3) Subject to the availability of appropriations to carry out this subsection, the Secretary shall make grants to each of the 3 private organizations or institutions selected under this subsection in amounts of not less than $100,000, nor more than $200,000, for each of fiscal years 1995 through 1998.
+(3) Subject to the availability of appropriations to carry out this subsection, the Secretary shall make grants to each of the 3 private organizations or institutions selected under this subsection in amounts of not less than $100,000, nor more than $200,000, for each of fiscal years 1995 through 2003.
 
 (4) The Secretary shall establish fair and reasonable auditing procedures regarding the expenditure of funds under this subsection.
 
-(5) There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 1995 through 1998.
+(5) There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 1995 through 2003.
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Sept. 25, 1962, Pub. L. 87–688, §3(a), 76 Stat. 587; renumbered §12 and amended Oct. 15, 1962, Pub. L. 87–823, §5, 76 Stat. 945; May 14, 1970, Pub. L. 91–248, §1(b), 84 Stat. 208; Oct. 7, 1975, Pub. L. 94–105, §9, 89 Stat. 514; Nov. 10, 1977, Pub. L. 95–166, §§3, 19(c), 91 Stat. 1332, 1345; Nov. 10, 1978, Pub. L. 95–627, §§6(a), 10(a), (b), 92 Stat. 3620, 3623; Dec. 5, 1980, Pub. L. 96–499, title II, §205, 94 Stat. 2601; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), 95 Stat. 527, 530, 533; Oct. 18, 1986, Pub. L. 99–500, title III, §§325(a), 326, 373(a), 100 Stat. 1783–361, 1783–369, and Oct. 30, 1986, Pub. L. 99–591, title III, §§325(a), 326, 373(a), 100 Stat. 3341–364, 3341–365, 3341–372; Nov. 14, 1986, Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), 100 Stat. 4072, 4073, 4081; July 11, 1987, Pub. L. 100–71, title I, §101(a), 101 Stat. 429; Nov. 10, 1989, Pub. L. 101–147, title III, §§306, 312(1), 103 Stat. 914, 916; Nov. 2, 1994, Pub. L.103–448, title I, §§112(a)(1), (b)–(d), 113, 108 Stat. 4708–4712; Aug. 22, 1996, Pub. L. 104–193, title VII, §§701(b), 705, 110 Stat. 2288, 2290.)
+#### (n) Buy American
+
+#### (1) Definition of domestic commodity or product
+
+&emsp;In this subsection, the term “domestic commodity or product” means—
+
+&emsp;&emsp;(A) an agricultural commodity that is produced in the United States; and
+
+&emsp;&emsp;(B) a food product that is processed in the United States substantially using agricultural commodities that are produced in the United States.
+
+#### (2) Requirement
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall require that a school food authority purchase, to the maximum extent practicable, domestic commodities or products.
+
+#### (B) Limitations
+
+&emsp;&emsp;Subparagraph (A) shall apply only to—
+
+&emsp;&emsp;&emsp;(i) a school food authority located in the contiguous United States; and
+
+&emsp;&emsp;&emsp;(ii) a purchase of a domestic commodity or product for the school lunch programunder this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+
+#### (3) Applicability to Hawaii
+
+&emsp;Paragraph (2)(A) shall apply to a school food authority in Hawaii with respect to domestic commodities or products that are produced in Hawaii in sufficient quantities to meet the needs of meals provided under the school lunch program under this chapter or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+
+#### (<i>o</i>) Procurement contracts
+
+In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
+
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153.)
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsecs. (g) to (i) and (<i>l</i>)(1)(A), (4)(G), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(8), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+The Child Nutrition Act of 1966, referred to in subsecs. (g) to (i), (<i>l</i>)(1)(A), (4)(G), and (<i>o</i>), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
@@ -218,6 +256,20 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+1998—Subsec. (d)(1)(A)(i), (ii). Pub. L. 105–336, §107(j)(3)(A)(i), struck out “mental or physical” before “disabilities”.
+
+Subsec. (d)(8). Pub. L. 105–336, §107(j)(3)(A)(ii), added par. (8).
+
+Subsec. (f). Pub. L. 105–336, §104(a), substituted “breakfasts, lunches, suppers, and supplements” for “school breakfasts and lunches”, substituted “sections 1753, 1759a, 1761, and 1766” for “sections 1753 and 1759a”, and substituted “meals and supplements” for “lunches and breakfasts” in two places.
+
+Subsec. (g). Pub. L. 105–336, §104(b), substituted “$25,000” for “$10,000”.
+
+Subsec. (m)(3), (5). Pub. L. 105–336, §104(c), substituted “2003” for “1998”.
+
+Subsec. (n). Pub. L. 105–336, §104(d), added subsec. (n).
+
+Subsec. (<i>o</i>). Pub. L. 105–336, §104(e), added subsec. (<i>o</i>).
+
 1996—Subsec. (a). Pub. L. 104–193, §705(a), substituted “be available at any reasonable time” for “at all times be available”.
 
 Subsec. (c). Pub. L. 104–193, §705(b), substituted “the Secretary shall not” for “neither the Secretary nor the State shall”.
@@ -230,7 +282,7 @@ Subsec. (d)(2). Pub. L. 104–193, §705(c)(3), redesignated par. (7) as (2). Fo
 
 Subsec. (d)(3). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “ ‘Participation rate’ for a State means a number equal to the number of lunches, consisting of a combination of foods and meeting the minimum requirements prescribed by the Secretary pursuant to section 1758 of this title, served in the fiscal year beginning two years immediately prior to the fiscal year for which the Federal funds are appropriated by schools participating in the program under this chapter in the State, as determined by the Secretary.”
 
-Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “ ‘Assistance need rate’ (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For the purposes of this paragraph (i) the average annual per capita income for any State and for all the States shall be determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the average annual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.”
+Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) whichread as follows: “ ‘Assistance need rate’ (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For the purposes of this paragraph (i) the average annual per capita income for any State and for all the States shall be determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the average annual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.”
 
 Subsec. (d)(5). Pub. L. 104–193, §705(c)(3), redesignated par. (8) as (5). Former par. (5) redesignated (3).
 
@@ -308,7 +360,7 @@ Subsec. (b). Pub. L. 101–147, §§306(b)(1), 312(1), substituted “the Secret
 
 Subsec. (d)(5). Pub. L. 101–147, §306(b)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-Subsec. (d)(8). Pub. L. 101–147, §306(a)(1), amended par. (8), as amended identically by Pub. L. 99–500 and 99–591, §373(a), and Pub. L. 99–661, §4503(a), to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
+Subsec. (d)(8). Pub. L. 101–147, §306(a)(1), amended par. (8), as amended identically by Pub. L. 99–500 and 99–591,§373(a), and Pub. L. 99–661, §4503(a), to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
 Subsec. (g). Pub. L. 101–147, §306(b)(3), substituted “personal” for “his” before “use”.
 
@@ -368,6 +420,10 @@ Pub. L. 87–688 inserted “American Samoa,” after “Guam”.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Section 112(a)(2) of Pub. L. 103–448 provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on October 1, 1995.”
@@ -411,4 +467,8 @@ Amendment by act July 12, 1952, effective only with respect to funds appropriate
 #### Study of Cost Accounting Requirements
 
 Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1766, 1766a, 1786 of this title.
 

@@ -18,6 +18,10 @@ The Secretary shall conduct or provide for an evaluation of the success of each 
 
 (Pub. L. 97–300, title III, §324, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1538; amended Pub. L. 102–367, title III, §303, Sept. 7, 1992, 106 Stat. 1074.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–367 substituted “1992 through 1996” for “1989, 1990, and 1991”.

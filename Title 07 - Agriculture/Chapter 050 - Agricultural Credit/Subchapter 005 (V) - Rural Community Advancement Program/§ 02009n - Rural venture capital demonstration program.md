@@ -12,7 +12,7 @@ The Secretary may designate for each fiscal year up to 10 community development 
 
 #### (2) Guarantee
 
-&emsp;From amounts in the national reserve account of the Trust Fund, the Secretary shallguarantee the funds in a pool against loss, except that the guarantee shall not exceed an amount equal to 30 percent of the total funds in the pool.
+&emsp;From amounts in the national reserve account of the Trust Fund, the Secretary shall guarantee the funds in a pool against loss, except that the guarantee shall not exceed an amount equal to 30 percent of the total funds in the pool.
 
 #### (3) Amount
 

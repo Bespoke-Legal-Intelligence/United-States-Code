@@ -2,13 +2,13 @@
 
 Each county committee, in accordance with regulations prescribed by the Secretary, may require any producer who seeks to establish a crop acreage base or farm program payment yield for a farm for a crop year to provide planting and production history of the farm for each of the 5 crop years immediately preceding the crop year.
 
-(Oct. 31, 1949, ch. 792, title V, §506, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1463; amended Mar. 20, 1986, Pub. L. 99–260, §3, 100 Stat. 48; Dec. 22, 1987, Pub. L. 100–203, title I, §1109, 101 Stat. 1330–6; Dec. 12, 1989, Pub. L. 101–220, §11(a), 103 Stat. 1882; Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3497.)
+(Oct. 31, 1949, ch. 792, title V, §506, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1463; amended Pub. L. 99–260, §3, Mar. 20, 1986, 100 Stat. 48; Pub. L. 100–203, title I, §1109, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 101–220, §11(a), Dec. 12, 1989, 103 Stat. 1882; Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3497.)
 
 #### Prior Provisions
 
 A prior section 1466, act Oct. 31, 1949, ch. 792, title V, §507, formerly §506, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered §507, Oct. 3, 1961, Pub. L. 87–345, §3, 75 Stat. 761, related to utilization of Federal and State agencies by Secretary of Labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-A prior section 506(a), formerly 505(a), of act Oct. 31, 1949, ch. 792, title V, as added July 12, 1951, ch. 223, 65 Stat. 120; renumbered §506(a), Oct. 3, 1961, Pub. L. 87–345, §3, 75 Stat. 761, amended section 410(a)(1) of Title 42, The Public Health and Welfare.
+A prior section 506(a), formerly 505(a), of act Oct. 31, 1949, ch. 792, title V, as added July 12, 1951, ch. 223, 65Stat. 120; renumbered §506(a), Oct. 3, 1961, Pub. L. 87–345, §3, 75 Stat. 761, amended section 410(a)(1) of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

@@ -6,7 +6,7 @@
 
 (c) Upon the request of the Secretary of the Navy, the Secretary of the Treasury may invest or reinvest all or any part of the funds deposited under this section in securities of the United States or in securities guaranteed by the United States. The interest accruing from these securities shall be deposited to the credit of the Naval Historical Center Fund.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 446; Sept. 23, 1996, Pub. L. 104–201, div. A, title X, §1073(b)(1), (2)(A), 110 Stat. 2657.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 446; Pub. L. 104–201, div. A, title X, §1073(b)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2657.)
 
 Historical and Revision Notes
 

@@ -6,7 +6,7 @@ For purposes of this chapter, in determining the number of qualifying quarters o
 
 &emsp;(2) all of the qualifying quarters worked by a spouse of such alien during their marriage and the alien remains married to such spouse or such spouse is deceased.
 
-> No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under section 1613 of this title) during the period for which such qualifying quarter of coverage is socredited. Notwithstanding section 6103 of title 26, the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien's spouse or parents to a government agency for the purposes of this chapter.
+> No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under section 1613 of this title) during the period for which such qualifying quarter of coverage is so credited. Notwithstanding section 6103 of title 26, the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien's spouse or parents to a government agency for the purposes of this chapter.
 
 (Pub. L. 104–193, title IV, §435, Aug. 22, 1996, 110 Stat. 2275; Pub. L. 105–33, title V, §5573, Aug. 5, 1997, 111 Stat. 641.)
 

@@ -40,7 +40,7 @@ The Director of the Office shall each fiscal year prepare and submit to the Secr
 
 In carrying out subsection (a) of this section, the Director of the Office shall establish projects to promote cooperation among Federal agencies, State, local, and regional public health agencies, and private entities, in research concerning the diagnosis, prevention, and treatment of acquired immune deficiency syndrome.
 
-(July 1, 1944, ch. 373, title XXIII, §2354, formerly §2351, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3076; renumbered §2354 and amended June 10, 1993, Pub. L. 103–43, title XVIII, §1801(a)(2), (b), 107 Stat. 192, 196.)
+(July 1, 1944, ch. 373, title XXIII, §2354, formerly §2351, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3076; renumbered §2354 and amended Pub. L. 103–43, title XVIII, §1801(a)(2), (b), June 10, 1993, 107 Stat. 192, 196.)
 
 #### Amendments
 

@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 100–713, §401(a), substituted “skilled nursing facilit
 
 #### Effective Date of 1992 Amendment
 
-Section 401(b)(2) of Pub. L. 102–573 provided that: “The increase (from 50 percent) in the percentage of thepayments from the fund to be made to each service unit of the Service specified in the amendment made by paragraph (1) \[amending this section\] shall take effect beginning with payments made on January 1, 1993.”
+Section 401(b)(2) of Pub. L. 102–573 provided that: “The increase (from 50 percent) in the percentage of the payments from the fund to be made to each service unit of the Service specified in the amendment made by paragraph (1) \[amending this section\] shall take effect beginning with payments made on January 1, 1993.”
 
 #### Effective Date of 1988 Amendment
 
@@ -36,5 +36,5 @@ Section 401(c) of Pub. L. 100–713 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1645, 1680c of this title.
+This section is referred to in section 1680c of this title.
 

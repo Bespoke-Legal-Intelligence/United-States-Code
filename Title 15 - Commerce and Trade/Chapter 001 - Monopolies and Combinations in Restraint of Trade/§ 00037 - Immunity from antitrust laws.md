@@ -20,7 +20,7 @@ Any annuity treated as a charitable gift annuity, or any trust treated as a char
 
 #### (d) Limitation
 
-Subsections (a) and (b) of this section shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
+Subsections (a) and (b) of this section shall not apply with respect to the enforcement of aState law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
 
 (Pub. L. 104–63, §2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, §2(1), July 3, 1997, 111 Stat. 241.)
 

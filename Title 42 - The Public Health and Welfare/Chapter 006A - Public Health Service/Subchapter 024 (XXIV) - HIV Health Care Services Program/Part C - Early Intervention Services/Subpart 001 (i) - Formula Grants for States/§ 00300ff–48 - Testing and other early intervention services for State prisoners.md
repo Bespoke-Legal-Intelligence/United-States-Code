@@ -20,7 +20,7 @@ In addition to grants under section 300ff–41 of this title, the Secretary may 
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and services (or portions of services) subsidized by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairlyevaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and services (or portions of services) subsidized by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (c) Testing
 
@@ -86,7 +86,7 @@ With respect to testing inmates of State prisons for HIV disease without the con
 
 To carry out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1988 through 1995.
 
-(July 1, 1944, ch. 373, title XXVI, §2648, formerly Pub. L. 100–607, title IX, §902, Nov. 4, 1988, 102 Stat. 3171; amended Pub. L. 100–690, title II, §2605(a), Nov. 18, 1988, 102 Stat. 4234; renumbered §2648 and amended Aug. 18, 1990, Pub. L. 101–381, title III, §301(b), 104 Stat. 614; May 20, 1996, Pub. L. 104–146, §12(c)(5), 110 Stat. 1374.)
+(July 1, 1944, ch. 373, title XXVI, §2648, formerly Pub. L. 100–607, title IX, §902, Nov. 4, 1988, 102 Stat. 3171; amended Pub. L. 100–690, title II, §2605(a), Nov. 18, 1988, 102 Stat. 4234; renumbered §2648 and amended Pub. L. 101–381, title III, §301(b), Aug. 18, 1990, 104 Stat. 614; Pub. L. 104–146, §12(c)(5), May 20, 1996, 110 Stat. 1374.)
 
 #### Codification
 

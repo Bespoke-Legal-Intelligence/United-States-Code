@@ -2,7 +2,7 @@
 
 The Commission may, in accordance with the procedures provided for in this chapter, refuse to register, register conditionally, or suspend, place restrictions upon, or revoke the registration of, any person, and may bar for any period as it deems appropriate any person from using or participating in any manner in any market regulated by the Commission, if such person is subject to a final decision or order of any court of competent jurisdiction or agency of the United States finding such person to have knowingly violated any provision of the export sales reporting requirements of section 612c–3 <sup>1</sup> of this title, or of any regulation issued thereunder.
 
-(Sept. 21, 1922, ch. 369, §8d, as added Jan. 11, 1983, Pub. L. 97–444, title II, §226, 96 Stat. 2316.)
+(Sept. 21, 1922, ch. 369, §8d, as added Pub. L. 97–444, title II, §226, Jan. 11, 1983, 96 Stat. 2316.)
 
 #### References in Text
 

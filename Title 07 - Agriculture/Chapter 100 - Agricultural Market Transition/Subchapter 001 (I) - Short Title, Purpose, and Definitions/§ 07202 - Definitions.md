@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Contract
 
-&emsp;The terms “contract” and “production flexibility contract” mean a production flexibility contract entered into under section 7211 of this title.
+&emsp;The terms “contract” and “production flexibility contract” mean a production flexibilitycontract entered into under section 7211 of this title.
 
 #### (4) Contract acreage
 

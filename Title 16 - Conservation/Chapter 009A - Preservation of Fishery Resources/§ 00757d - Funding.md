@@ -32,7 +32,7 @@ Subsec. (a)(7). Pub. L. 101–627, §401(2), redesignated par. (7) as (1).
 
 1983—Subsec. (a)(4). Pub. L. 97–453 added par. (4).
 
-1979—Subsec. (a). Pub. L. 96–118, §3(a), substituted provisions authorizing appropriations of not to exceed $11,000,000, $13,000,000, and $15,000,000 for fiscal years 1980 through 1982, respectively, for provisions authorizing appropriations of not to exceed $25,000,000, $6,000,000, $7,500,000, $8,500,000, $20,000,000, $20,000,000, $20,000,000,$20,000,000, $20,000,000, and $20,000,000 for fiscal years ending June 30, 1970, through June 30, 1979, respectively.
+1979—Subsec. (a). Pub. L. 96–118, §3(a), substituted provisions authorizing appropriations of not to exceed $11,000,000, $13,000,000, and $15,000,000 for fiscal years 1980 through 1982, respectively, for provisions authorizing appropriations of not to exceed $25,000,000, $6,000,000, $7,500,000, $8,500,000, $20,000,000, $20,000,000, $20,000,000, $20,000,000, $20,000,000, and $20,000,000 for fiscal years ending June 30, 1970, through June 30, 1979, respectively.
 
 Subsec. (b). Pub. L. 96–118, §3(b), substituted “$1,250,000” for “$1,000,000”.
 

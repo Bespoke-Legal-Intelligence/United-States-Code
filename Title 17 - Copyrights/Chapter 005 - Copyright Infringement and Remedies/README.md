@@ -13,10 +13,21 @@
 | [509\.](%C2%A7%2000509%20-%20Seizure%20and%20forfeiture.md) | Seizure and forfeiture. |
 | [510\.](%C2%A7%2000510%20-%20Remedies%20for%20alteration%20of%20programing%20by%20cable%20systems.md) | Remedies for alteration of programing by cable systems. |
 | [511\.](%C2%A7%2000511%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20copyright.md) | Liability of States, instrumentalities of States, and State officials for infringement of copyright. |
+| 512\.<sup>1</sup> | Determination of reasonable license fees for individual proprietors. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 512\.<sup>1</sup> | Limitations on liability relating to material online. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–304, title II, §202(b), Oct. 28, 1998, 112 Stat. 2886, added item 512 “Limitations on liability relating to material online”.
+
+Pub. L. 105–298, title II, §203(b), Oct. 27, 1998, 112 Stat. 2833, added item 512 “Determination of reasonable license fees for individual proprietors”.
 
 1997—Pub. L. 105–80, §12(a)(12), Nov. 13, 1997, 105 Stat. 1535, substituted “Damages” for “Damage” in item 504.
 
@@ -25,6 +36,8 @@
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 104A, 115, 912 of this title.
+
+<i><sup>1</sup></i><i> So in original. There are two items 512 which do not conform to order of sections.</i>
 
 
 ---
@@ -42,3 +55,5 @@ This chapter is referred to in sections 104A, 115, 912 of this title.
 - [&sect; 00509 - Seizure and forfeiture](%C2%A7%2000509%20-%20Seizure%20and%20forfeiture.md)
 - [&sect; 00510 - Remedies for alteration of programing by cable systems](%C2%A7%2000510%20-%20Remedies%20for%20alteration%20of%20programing%20by%20cable%20systems.md)
 - [&sect; 00511 - Liability of States, instrumentalities of States, and State officials for infringement of copyright](%C2%A7%2000511%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20copyright.md)
+- [&sect; 00512 - 1 Limitations on liability relating to material online](%C2%A7%2000512%20-%201%20Limitations%20on%20liability%20relating%20to%20material%20online.md)
+- [&sect; 00512 - 1 Determination of reasonable license fees for individual proprietors](%C2%A7%2000512%20-%201%20Determination%20of%20reasonable%20license%20fees%20for%20individual%20proprietors.md)

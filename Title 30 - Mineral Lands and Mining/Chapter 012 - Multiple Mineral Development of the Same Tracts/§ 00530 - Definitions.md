@@ -16,7 +16,7 @@ The Geothermal Steam Act of 1970, referred to in text, is Pub. L. 91–581, Dec.
 
 The effective date of the Geothermal Steam Act of 1970, referred to in text, probably means the date of enactment of Pub. L. 91–581, which was approved Dec. 24, 1970.
 
-The Atomic Energy Act, referred to in text, is a reference to the Atomic Energy Act of 1946 (act Aug. 1, 1946, ch. 724, 60 Stat. 755), prior to its complete amendment and revision by the Atomic Energy Act of 1954, act Aug. 30, 1954, ch. 1073, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For further details, see Codification note set out under sections 1801 to 1819 of Title 42 and Short Title note set out under section 2011 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Atomic Energy Act, referred to in text, is a reference to the Atomic Energy Act of 1946 (act Aug. 1, 1946, ch. 724, 60 Stat. 755), prior to its complete amendment and revision by act Aug. 30, 1954, ch. 1073, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For further details, see Codification note set out under sections 1801 to 1819 of Title 42 and Short Title note set out under section 2011 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 Section 5(b)(1) of the Atomic Energy Act, as amended, referred to in text, was formerly classified to section 1805(b)(1) of Title 42 and defined “source material”. The term is defined in section 11(z) of the Atomic Energy Act of 1954, as amended, which is classified to section 2014(z) of Title 42.
 

@@ -22,7 +22,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(10) “Vehicular natural gas” means natural gas that is ultimately used as a fuel in a self-propelled vehicle.
 
-(June 21, 1938, ch. 556, §2, 52 Stat. 821; Oct. 24, 1992, Pub. L. 102–486, title IV, §404(a)(2), 106 Stat. 2879.)
+(June 21, 1938, ch. 556, §2, 52 Stat. 821; Pub. L. 102–486, title IV, §404(a)(2), Oct. 24, 1992, 106 Stat. 2879.)
 
 #### Amendments
 

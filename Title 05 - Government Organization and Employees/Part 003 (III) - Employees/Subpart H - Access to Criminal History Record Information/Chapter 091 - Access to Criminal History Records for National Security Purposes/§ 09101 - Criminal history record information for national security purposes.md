@@ -62,3 +62,7 @@ Section 803(b) of Pub. L. 99–169 provided that: “Three years after the date 
 
 Section 803(a) of Pub. L. 99–169, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 14614.
+

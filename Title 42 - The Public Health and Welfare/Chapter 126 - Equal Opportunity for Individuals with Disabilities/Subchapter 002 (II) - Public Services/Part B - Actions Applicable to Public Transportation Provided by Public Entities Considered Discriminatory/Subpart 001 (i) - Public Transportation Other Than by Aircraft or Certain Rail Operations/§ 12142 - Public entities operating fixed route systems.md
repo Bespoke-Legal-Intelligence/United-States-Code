@@ -12,7 +12,7 @@ Subject to subsection (c)(1) of this section, it shall be considered discriminat
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system—
+&emsp;Except as provided in paragraph (2), it shall be considered discrimination for purposes of section 12132 of this title and section 794 oftitle 29 for a public entity which operates a fixed route system—
 
 &emsp;&emsp;(A) to remanufacture a vehicle for use on such system so as to extend its usable life for 5 years or more, which remanufacture begins (or for which the solicitation is made) after the 30th day following July 26, 1990; or
 

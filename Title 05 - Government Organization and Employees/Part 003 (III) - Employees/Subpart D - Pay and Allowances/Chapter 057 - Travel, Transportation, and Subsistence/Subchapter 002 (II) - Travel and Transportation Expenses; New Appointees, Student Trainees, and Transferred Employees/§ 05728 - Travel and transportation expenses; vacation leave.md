@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
 
-(b) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee of the United States appointed by the President, by and with the advice and consent of the Senate, for a term fixed by statute, and of transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment to the post of duty, after he has satisfactorily completed each 2 years of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving at least 2 more years of duty outside the continental United States, Alaska, and Hawaii.
+(b) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee of the Government appointed by the President, by and with the advice and consent of the Senate, for a term fixed by statute, and of transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment to the post of duty, after he has satisfactorily completed each 2 years of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving at least 2 more years of duty outside the continental United States, Alaska, and Hawaii.
 
 (c)(1) Under regulations prescribed under section 5738 of this title, an agency may pay, subject to paragraph (3) of this subsection, the expenses described in paragraph (2) of this subsection in any case in which the head of the agency determines that the payment of such expenses is necessary for the purpose of recruiting or retaining an employee for service of a tour of duty at a post of duty in Alaska or Hawaii.
 
@@ -12,7 +12,7 @@
 
 (d) This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 97–253, title III, §351(a), (b), Sept. 8, 1982, 96 Stat. 800; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), Sept. 23, 1996, 110 Stat. 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 97–253, title III, §351(a), (b), Sept. 8, 1982, 96 Stat. 800; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, §6(8), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,8 @@ The first 14 words of subsections (a) and (b), and subsection (c), are added on 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–264 substituted “an employee of the Government” for “an employee of the United States”.
 
 1996—Subsecs. (a) to (c)(1). Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 

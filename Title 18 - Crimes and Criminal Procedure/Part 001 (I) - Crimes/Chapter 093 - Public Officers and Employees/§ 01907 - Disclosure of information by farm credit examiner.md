@@ -2,7 +2,7 @@
 
 Whoever, being a farm credit examiner or any examiner, public or private, discloses the names of borrowers of any Federal land bank association or Federal land bank, or any organization examined by him under the provisions of law relating to Federal intermediate credit banks, to other than the proper officers of such institution or organization, without first having obtained express permission in writing from the Land Bank Commissioner or from the board of directors of such institution or organization, except when ordered to do so by a court of competent jurisdiction or by direction of the Congress of the United States or either House thereof, or any committee of Congress or either House duly authorized, shall be fined under this title or imprisoned not more than one year, or both; and shall be disqualified from holding office as a farm credit examiner.
 
-(June 25, 1948, ch. 645, 62 Stat. 791; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387; Oct. 12, 1982, Pub. L. 97–297, §4(c), 96 Stat. 1318; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 97–297, §4(c), Oct. 12, 1982, 96 Stat. 1318; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

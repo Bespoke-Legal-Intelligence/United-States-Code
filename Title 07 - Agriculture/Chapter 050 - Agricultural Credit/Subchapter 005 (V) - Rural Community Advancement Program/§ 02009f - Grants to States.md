@@ -52,7 +52,7 @@ Federal funds shall not be used for any administrative costs incurred by a State
 
 #### (1) In general
 
-&emsp;Payments to a State from a grant under this section for a fiscal year shall be obligated bythe State in the fiscal year or in the succeeding fiscal year. A State shall obligate funds under this section to provide assistance to rural areas.
+&emsp;Payments to a State from a grant under this section for a fiscal year shall be obligated by the State in the fiscal year or in the succeeding fiscal year. A State shall obligate funds under this section to provide assistance to rural areas.
 
 #### (2) Failure to obligate
 

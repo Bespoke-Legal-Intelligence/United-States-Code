@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) part C of subchapter I of this chapter (migrant education);
 
-&emsp;&emsp;(B) subchapter II of this chapter (other than section 6623 of this title and part C of such subchapter);
+&emsp;&emsp;(B) subchapter II of this chapter (other than section 6623 of this title and part D of such subchapter);
 
 &emsp;&emsp;(C) subchapter VII of this chapter;
 
@@ -82,7 +82,11 @@
 
 &emsp;(C) Funds used to provide services under this section shall not be commingled with non-Federal funds.
 
-(Pub. L. 89–10, title XIV, §14503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3902.)
+(Pub. L. 89–10, title XIV, §14503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3902; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407.)
+
+#### Amendments
+
+1998—Subsec. (b)(1)(B). Pub. L. 105–277 substituted “part D” for “part C”.
 
 #### Section Referred to in Other Sections
 

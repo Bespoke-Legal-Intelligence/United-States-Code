@@ -46,5 +46,5 @@ In subsection (b), the words “or the head of a department, agency, or instrume
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 44302 of this title; title 10 section 9514.
+This section is referred to in sections 44302, 44309 of this title; title 10 section 9514.
 

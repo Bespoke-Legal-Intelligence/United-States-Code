@@ -8,7 +8,7 @@
 
 &emsp;(B) applications made for biomedical and behavioral research and development contracts to be administered through the National Institutes of Health.
 
-(2) Regulations promulgated under paragraph (1) shall require that the review of applicationsmade for grants, contracts, and cooperative agreements required by the regulations be conducted—
+(2) Regulations promulgated under paragraph (1) shall require that the review of applications made for grants, contracts, and cooperative agreements required by the regulations be conducted—
 
 &emsp;(A) to the extent practical, in a manner consistent with the system for technical and scientific peer review applicable on November 20, 1985, to grants under this chapter for biomedical and behavioral research, and
 
@@ -32,7 +32,7 @@ The Director of NIH shall establish procedures for periodic technical and scient
 
 (2) Paragraph (1) shall not apply to any proposal for clinical research that, pursuant to subsection (b) of section 289a–2 of this title, is not subject to the requirement of subsection (a) of such section regarding the inclusion of women and members of minority groups as subjects in clinical research.
 
-(July 1, 1944, ch. 373, title IV, §492, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 874; amended June 10, 1993, Pub. L. 103–43, title I, §132, 107 Stat. 135.)
+(July 1, 1944, ch. 373, title IV, §492, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amended Pub. L. 103–43, title I, §132, June 10, 1993, 107 Stat. 135.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 The Corporation, including its franchise, its capital, reserves, and surplus, and its income and property, shall be exempt from all taxation on or after February 16, 1938, imposed by the United States or by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority. A contract of insurance of the Corporation, and a contract of insurance reinsured by the Corporation, shall be exempt from taxation imposed by any State, municipality, or local taxing authority.
 
-(Feb. 16, 1938, ch. 30, title V, §511, 52 Stat. 75; Oct. 13, 1994, Pub. L. 103–354, title I, §108, 108 Stat. 3197.)
+(Feb. 16, 1938, ch. 30, title V, §511, 52 Stat. 75; Pub. L. 103–354, title I, §108, Oct. 13, 1994, 108 Stat. 3197.)
 
 #### Amendments
 

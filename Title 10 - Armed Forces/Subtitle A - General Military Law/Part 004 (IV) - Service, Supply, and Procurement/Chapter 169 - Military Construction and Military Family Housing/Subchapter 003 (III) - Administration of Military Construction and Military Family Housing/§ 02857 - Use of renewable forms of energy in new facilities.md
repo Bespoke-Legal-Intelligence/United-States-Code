@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 97–321, §801(b)(1)(F), substituted “heating equipment,
 
 #### Effective Date of 1984 Amendment
 
-Section 1405(45)(B) of Pub. L. 98–525 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if it had been included in the amendments made by section 801 of Public Law 97–321.”
+Section 1405(45)(B) of Pub. L. 98–525 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall take effect as if it had been included in the amendments made by section 801 of Public Law 97–321.”
 
 #### Effective Date
 

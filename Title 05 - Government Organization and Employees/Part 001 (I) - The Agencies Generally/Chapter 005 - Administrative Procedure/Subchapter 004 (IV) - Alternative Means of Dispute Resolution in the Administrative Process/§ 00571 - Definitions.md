@@ -10,7 +10,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(4) “award” means any decision by an arbitrator resolving the issues in controversy;
 
-&emsp;(5) “dispute resolution communication” means any oral or written communication prepared for the purposes of a dispute resolution proceeding, including any memoranda, notes or work product of the neutral, parties or nonparty participant; except that a written agreement to enter into a dispute resolution proceeding, or final written agreement or arbitral award reached as a result of a dispute resolution proceeding, is not a dispute resolution communication;
+&emsp;(5) “dispute resolution communication” means any oral or written communication prepared for the purposes of a dispute resolutionproceeding, including any memoranda, notes or work product of the neutral, parties or nonparty participant; except that a written agreement to enter into a dispute resolution proceeding, or final written agreement or arbitral award reached as a result of a dispute resolution proceeding, is not a dispute resolution communication;
 
 &emsp;(6) “dispute resolution proceeding” means any process in which an alternative means of dispute resolution is used to resolve an issue in controversy in which a neutral is appointed and specified parties participate;
 
@@ -66,7 +66,7 @@ Section 11 of Pub. L. 101–552, as amended by Pub. L. 104–106, div. D, title 
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure,section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
+Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
 #### Short Title
 
@@ -172,7 +172,7 @@ Disqualification of Representation or Assistance.—Any agency that adopts regul
 
 #### Definitions
 
-Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, providedthat: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
+Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Regional districts; establishment; notice to State commissions
 
-For the purpose of assuring an abundant supply of electric energy throughout the United States with the greatest possible economy and with regard to the proper utilization and conservation of natural resources, the Commission is empowered and directed to divide the country into regional districts for the voluntary interconnection and coordination of facilities for the generation, transmission, and sale of electric energy, and it may at any time thereafter, upon its own motion or upon application, make such modifications thereof as in its judgment will promote the public interest. Each such district shall embrace an area which, in the judgment of the Commission, can economically be served by such interconnection and coordinated electric facilities. It shall be the duty of the Commission to promote and encourage such interconnection and coordination within each such district and between such districts. Before establishing any such district and fixing or modifying the boundaries thereof the Commission shall give notice to the State commission of each State situated wholly or in part within such district, and shall afford each such State commission reasonable opportunity to present its views and recommendations, and shall receive and consider such views and recommendations.
+For the purpose of assuring an abundant supply of electric energy throughout the United States with the greatest possible economy and with regard to the proper utilization and conservation of natural resources, the Commission is empowered and directed to divide the country into regional districts for the voluntary interconnection and coordination of facilities for the generation, transmission, and sale of electric energy, and it may at any time thereafter, upon its own motion or upon application, make such modifications thereof as in its judgment will promote the public interest. Each such district shall embrace an area which, in the judgment of the Commission, can economically be served bysuch interconnection and coordinated electric facilities. It shall be the duty of the Commission to promote and encourage such interconnection and coordination within each such district and between such districts. Before establishing any such district and fixing or modifying the boundaries thereof the Commission shall give notice to the State commission of each State situated wholly or in part within such district, and shall afford each such State commission reasonable opportunity to present its views and recommendations, and shall receive and consider such views and recommendations.
 
 #### (b) Sale or exchange of energy; establishing physical connections
 
@@ -28,7 +28,7 @@ The ownership or operation of facilities for the transmission or sale at wholesa
 
 In order to insure continuity of service to customers of public utilities, the Commission shall require, by rule, each public utility to—
 
-&emsp;(1) report promptly to the Commission and any appropriate State regulatory authorities any anticipated shortage of electric energy or capacity which would affect such utility's capability of serving its wholesale customers,
+&emsp;(1) report promptly to the Commission and any appropriate State regulatory authoritiesany anticipated shortage of electric energy or capacity which would affect such utility's capability of serving its wholesale customers,
 
 &emsp;(2) submit to the Commission, and to any appropriate State regulatory authority, and periodically revise, contingency plans respecting—
 
@@ -42,7 +42,7 @@ In order to insure continuity of service to customers of public utilities, the C
 
 &emsp;&emsp;(B) provide that all persons served directly or indirectly by such public utility will be treated, without undue prejudice or disadvantage.
 
-(June 10, 1920, ch. 285, pt. II, §202, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 848; amended Aug. 7, 1953, ch. 343, 67 Stat. 461; Nov. 9, 1978, Pub. L. 95–617, title II, §206(a), 92 Stat. 3141.)
+(June 10, 1920, ch. 285, pt. II, §202, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 848; amended Aug. 7, 1953, ch. 343, 67 Stat. 461; Pub. L. 95–617, title II, §206(a), Nov. 9, 1978, 92 Stat. 3141.)
 
 #### Amendments
 

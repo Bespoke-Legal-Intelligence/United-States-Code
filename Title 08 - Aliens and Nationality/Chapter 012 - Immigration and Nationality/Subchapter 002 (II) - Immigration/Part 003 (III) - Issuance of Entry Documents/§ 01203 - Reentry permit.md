@@ -6,7 +6,7 @@
 
 #### (b) Issuance of permit; nonrenewability
 
-If the Attorney General finds (1) that the applicant under subsection (a)(1) of this section has been lawfully admitted to the United States for permanent residence, or that the applicant under subsection (a)(2) of this section has since admission maintained the status required of him at the time of his admission and such applicant desires to visit abroad and to return to the United States to resume the status existing at the time of his departure for such visit, (2) that the application is made in good faith, and (3) that the alien's proposed departure from the United States would not be contrary to the interests of the United States, the Attorney General may, in his discretion, issue the permit, which shall be valid for not more than two years from the date of issuance and shall not be renewable. The permit shall be in such form as shall be by regulations prescribed for the complete identification of the alien.
+If the Attorney General finds (1) that the applicant under subsection (a)(1) of this section has been lawfully admitted to the United States for permanent residence, or that the applicant under subsection (a)(2) of this section has since admission maintained the status required of him at the time of his admission and such applicant desires to visit abroad and to return to the United States to resume the status existing atthe time of his departure for such visit, (2) that the application is made in good faith, and (3) that the alien's proposed departure from the United States would not be contrary to the interests of the United States, the Attorney General may, in his discretion, issue the permit, which shall be valid for not more than two years from the date of issuance and shall not be renewable. The permit shall be in such form as shall be by regulations prescribed for the complete identification of the alien.
 
 #### (c) Multiple reentries
 
@@ -20,11 +20,11 @@ Upon the return of the alien to the United States the permit shall be presented 
 
 A permit issued under this section in the possession of the person to whom issued, shall be accepted in lieu of any visa which otherwise would be required from such person under this chapter. Otherwise a permit issued under this section shall have no effect under the immigration laws except to show that the alien to whom it was issued is returning from a temporary visit abroad; but nothing in this section shall be construed as making such permit the exclusive means of establishing that the alien is so returning.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §223, 66 Stat. 194; Dec. 29, 1981, Pub. L. 97–116, §6, 95 Stat. 1615.)
+(June 27, 1952, ch. 477, title II, ch. 3, §223, 66 Stat. 194; Pub. L. 97–116, §6, Dec. 29, 1981, 95 Stat. 1615.)
 
 #### References in Text
 
-Clause (6) of section 3 of the Immigration Act of 1924, referred to in subsec. (a), which was classified to section 203(6) of this title, was repealed by section 403(a)(2)of act June 27, 1952. See section 1101(a)(15)(E) of this title.
+Clause (6) of section 3 of the Immigration Act of 1924, referred to in subsec. (a), which was classified to section 203(6) of this title, was repealed by section 403(a)(2) of act June 27, 1952. See section 1101(a)(15)(E) of this title.
 
 #### Amendments
 

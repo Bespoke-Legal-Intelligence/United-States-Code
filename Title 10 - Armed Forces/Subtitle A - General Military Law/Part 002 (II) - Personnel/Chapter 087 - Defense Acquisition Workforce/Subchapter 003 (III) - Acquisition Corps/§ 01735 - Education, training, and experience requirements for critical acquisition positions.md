@@ -20,7 +20,7 @@ Program Managers and Deputy Program Managers.—Before being assigned to a posit
 
 &emsp;&emsp;(C) a deputy program manager of a major defense acquisition program, must have at least six years of experience in acquisition, at least two years of which were performed in a systems program office or similar organization; and
 
-&emsp;&emsp;(D) a deputy program manager of a significant nonmajor defense acquisition program, must have at least four years of experience in acquisition.
+&emsp;&emsp;(D) a deputy program manager of a significant nonmajor defense acquisition program,must have at least four years of experience in acquisition.
 
 (c)
 

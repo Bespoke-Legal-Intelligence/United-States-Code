@@ -18,7 +18,7 @@ The Secretary shall provide assistance to participating communities in implement
 
 &emsp;&emsp;(B) the extent to which participating communities fulfilled the goal of guaranteed access to appropriate education, training, and supportive services to all eligible youth residing in target areas who seek to participate;
 
-&emsp;&emsp;(C) the effectiveness of guaranteed access to comprehensive services combined with outreach and recruitment efforts in enlisting the participation of previously unserved or underserved youth residing in target areas;
+&emsp;&emsp;(C) the effectiveness of guaranteed access to comprehensive services combined withoutreach and recruitment efforts in enlisting the participation of previously unserved or underserved youth residing in target areas;
 
 &emsp;&emsp;(D) the effectiveness of efforts to integrate service delivery in target areas, including systems of common intake, assessment, and case management; and
 
@@ -33,4 +33,8 @@ The Secretary shall prepare a report detailing the results of the independent ev
 The Secretary may reserve not more than 5 percent of the amount appropriated under this part in each fiscal year to carry out the provisions of this section.
 
 (Pub. L. 97–300, title IV, §498, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1091.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 

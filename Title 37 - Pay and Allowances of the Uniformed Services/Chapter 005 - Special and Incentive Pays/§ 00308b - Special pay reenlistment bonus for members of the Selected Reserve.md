@@ -42,11 +42,13 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (f)
 
-Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after September 30, 1999, reenlists or voluntarily extends his enlistment in a reserve component.
+Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 1999, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790.)
+(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038.)
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
 1997—Subsec. (a). Pub. L. 105–85, §621(e)(1), inserted heading.
 
@@ -64,7 +66,7 @@ Subsec. (b). Pub. L. 105–85, §621(b), amended subsec. (b) generally. Prior to
 
 Subsec. (c). Pub. L. 105–85, §621(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “No member shall be paid more than one bonus under this section.”
 
-Subsec. (d). Pub. L. 105–85, §621(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A member who fails to participate satisfactorily in training with his unit during a term of enlistment for which a bonus is being paid to him under thissection shall refund an amount equal to the amount by which the amount of such bonus exceeds the product of—
+Subsec. (d). Pub. L. 105–85, §621(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A member who fails to participate satisfactorily in training with his unit during a term of enlistment for which a bonus is being paid to him under this section shall refund an amount equal to the amount bywhich the amount of such bonus exceeds the product of—
 
 &emsp;“(1) the number of months during that term of enlistment during which such member participated satisfactorily in training with his unit; and
 

@@ -38,7 +38,7 @@ Subsec. (a)(2). Pub. L. 96–92 added par. (2).
 
 1978—Subsec. (a). Pub. L. 95–384 substituted “fiscal year 1979 not to exceed $5,000,000” for “fiscal year 1978 not to exceed $5,000,000”.
 
-1977—Subsec. (a). Pub. L. 95–92 substituted provisions authorizing appropriations of not to exceed $5,000,000for fiscal year 1978, for provisions authorizing appropriations of not to exceed $5,000,000 for fiscal years 1976 and 1977.
+1977—Subsec. (a). Pub. L. 95–92 substituted provisions authorizing appropriations of not to exceed $5,000,000 for fiscal year 1978, for provisions authorizing appropriations of not to exceed $5,000,000 for fiscal years 1976 and 1977.
 
 1976—Subsec. (a). Pub. L. 94–329 substituted “fiscal year 1976 not to exceed $5,000,000 and for the fiscal year 1977 not to exceed $5,000,000” for “fiscal year 1975 not to exceed $5,000,000,” and “authorized by subchapter I of this chapter for any emergency” for “authorized by this subchapter or by section 2399 of this title for any emergency” and inserted provision authorizing that funds appropriated remain available until expended.
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 93–559 added subsec. (c).
 
 1972—Subsec. (a). Pub. L. 92–226 authorized appropriations not to exceed $30,000,000 for fiscal years 1972 and 1973, and struck out provision for authorization of not to exceed $15,000,000 for fiscal year 1970, and not to exceed $30,000,000 for fiscal year 1971.
 
-1971—Subsec. (a). Pub. L. 91–652 substituted “1971 not to exceed $30,000,000” for “1971 not to exceed $15,000,000”, and inserted proviso which required $15,000,000 of the amount authorized for the fiscal year 1971 to be used for the relief of cyclone, etc., victims in East Pakistan.
+1971—Subsec. (a). Pub. L. 91–652 substituted “1971 not to exceed $30,000,000” for “1971 not to exceed$15,000,000”, and inserted proviso which required $15,000,000 of the amount authorized for the fiscal year 1971 to be used for the relief of cyclone, etc., victims in East Pakistan.
 
 1969—Subsec. (a). Pub. L. 91–175 substituted “ fiscal year 1970 not to exceed $15,000,000, and for the fiscal year 1971 not to exceed $15,000,000” for “fiscal year 1968 not to exceed $50,000,000, and for the fiscal year 1969 not to exceed $10,000,000”.
 

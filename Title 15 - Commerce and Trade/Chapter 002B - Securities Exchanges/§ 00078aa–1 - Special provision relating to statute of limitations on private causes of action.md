@@ -14,5 +14,5 @@ Any private civil action implied under section 78j(b) of this title that was com
 
 > shall be reinstated on motion by the plaintiff not later than 60 days after December 19, 1991.
 
-(June 6, 1934, ch. 404, title I, §27A, as added Dec. 19, 1991, Pub. L. 102–242, title IV, §476, 105 Stat. 2387.)
+(June 6, 1934, ch. 404, title I, §27A, as added Pub. L. 102–242, title IV, §476, Dec. 19, 1991, 105 Stat. 2387.)
 

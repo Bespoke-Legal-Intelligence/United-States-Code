@@ -5,6 +5,4 @@ Part A—Basic State Grants
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01203 - Basic grants](%C2%A7%2001203%20-%20Basic%20grants.md)
-- [&sect; 01203a - Use of funds; local applications](%C2%A7%2001203a%20-%20Use%20of%20funds%3B%20local%20applications.md)
-- [&sect; 01203b - Local administrative cost limits](%C2%A7%2001203b%20-%20Local%20administrative%20cost%20limits.md)
+- [&sect; 01203 to 1203b - Repealed. Pub. L. 105&#8211;220, title II, &sect;251(a)(1), Aug. 7, 1998, 112 Stat. 1079](%C2%A7%2001203%20to%201203b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93220%2C%20title%20II%2C%20%C2%A7251%28a%29%281%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%201079.md)

@@ -1,6 +1,6 @@
 ### §288. Regular captains; retirement
 
-(a) Each officer of the Regular Coast Guard serving in the grade of captain whose name is not carried on an approved list of officers selected for promotion to the grade of rear admiral (lower half) shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which he, or any captain junior to him on the active duty promotion list who has not lost numbers or precedence, completes thirty years of active commissioned service in the Coast Guard. An officer advanced in precedence on the active duty promotion list because of his promotion resulting from selection for promotion from below the zone is not subjectto involuntary retirement under this section earlier than if he had not been selected from below the zone.
+(a) Each officer of the Regular Coast Guard serving in the grade of captain whose name is not carried on an approved list of officers selected for promotion to the grade of rear admiral (lower half) shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which he, or any captain junior to him on the active duty promotion list who has not lost numbers or precedence, completes thirty years of active commissioned service in the Coast Guard. An officer advanced in precedence on the active duty promotion list because of his promotion resulting from selection for promotion from below the zone is not subject to involuntary retirement under this section earlier than if he had not been selected from below the zone.
 
 (b) Retired pay computed under section 423(a) of this title of an officer retired under this section shall not be less than 50 percent of the basic pay upon which the computation of his retired pay is based.
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 93–283 effective Sept. 24, 1963, see section 2 of Pub. L.
 
 #### Retirement, Retired Pay, and Election of Annuity as Affected by Pub. L. 88–130
 
-Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirement, retirement pay, and election, change or revocation of election of an annuity, are set out as a note under section 211 of this title.
+Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirement, retirement pay, and election,change or revocation of election of an annuity, are set out as a note under section 211 of this title.
 
 #### Interim Authority for Selection of Commanders and Captains for Continuation on Active Duty
 

@@ -1,8 +1,0 @@
-### §576. Membership; voting rights
-
-(a) The membership of the corporation consists of the persons listed in section 571 of this title, the persons who hereafter become members of the National Council of the Federal Bar Association, a non-profit corporation of the District of Columbia (for the duration of their membership as such), and such others as the corporation may provide for by bylaw or otherwise.
-
-(b) Each member of the corporation may cast one vote on each matter submitted to a vote of the members.
-
-(Aug. 24, 1954, ch. 911, §6, 68 Stat. 798.)
-

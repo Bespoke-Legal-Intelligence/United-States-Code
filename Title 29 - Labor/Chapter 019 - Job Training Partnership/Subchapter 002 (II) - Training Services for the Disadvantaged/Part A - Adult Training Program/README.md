@@ -2,7 +2,7 @@ Part A—Adult Training Program
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1502, 1503, 1516, 1518, 1519, 1531, 1551, 1634, 1642, 1644, 1645, 1646, 1652, 1734, 1791a, 1791g of this title.
+This part is referred to in sections 1502, 1503, 1516, 1518, 1519, 1531, 1551, 1634, 1642, 1644, 1645, 1646, 1652, 1734, 1791a, 1791g, 2831, 2862 of this title.
 
 
 ---

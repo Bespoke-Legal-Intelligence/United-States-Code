@@ -4,6 +4,10 @@ It is declared that it is a national policy to preserve for public use historic 
 
 (Aug. 21, 1935, ch. 593, §1, 49 Stat. 666.)
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–203, §1, July 21, 1998, 112 Stat. 678, provided that: “This Act \[enacting sections 469<i>l</i> and 469<i>l</i>–1 of this title\] may be cited as the ‘National Underground Railroad Network to Freedom Act of 1998’.”
+
 #### Short Title
 
 Act Aug. 21, 1935, ch. 593, 49 Stat. 666, which is classified to sections 461 to 467 of this title, is popularly known as the “Historic Sites, Buildings, and Antiquities Act”.
@@ -12,7 +16,7 @@ National Historic Sites
 
 &nbsp;
 
-Adams National Historic Site, Massachusetts.—Designated Dec. 9, 1946.
+Adams National Historic Site, Massachusetts \[redesignated Adams National Historical Park by Pub. L. 105–342, §5(e), Nov. 2, 1998, 112 Stat. 3202 (16 U.S.C. 410eee et seq.)\].—Designated Dec. 9, 1946.
 
 Allegheny Portage Railroad National Historic Site, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752.
 
@@ -40,7 +44,7 @@ Edison National Historic Site.—Pub. L. 87–628, Sept. 5, 1962, 76 Stat. 428.
 
 Eisenhower National Historic Site.—33 F.R. 16031, Nov. 27, 1967; Pub. L. 91–133, Dec. 2, 1969, 83 Stat. 274.
 
-Eleanor Roosevelt National Historic Site, New York.—Pub. L. 95–32, May 26, 1977, 91 Stat. 171.
+Eleanor Roosevelt National Historic Site, New York.—Pub. L. 95–32, May 26, 1977, 91 Stat. 171; Pub. L. 105–364, Nov. 6, 1998, 112 Stat. 3300.
 
 Eugene O'Neill National Historic Site, California.—Pub. L. 94–539, §§1, 2, Oct. 18, 1976, 90 Stat. 2501.
 
@@ -48,7 +52,7 @@ Ford's Theatre National Historic Site, District of Columbia.—Pub. L. 91–288,
 
 Fort Bowie National Historic Site, Arizona.—Pub. L. 88–510, Aug. 30, 1964, 78 Stat. 681.
 
-Fort Davis National Historic Site, Texas.—Pub. L. 87–213, Sept. 8, 1961, 75 Stat. 488.
+Fort Davis National Historic Site, Texas.—Pub. L. 87–213, Sept. 8, 1961, 75 Stat. 488; Pub. L. 105–355, title V, §506, Nov. 6, 1998, 112 Stat. 3263.
 
 Fort Laramie National Historic Site, Wyoming.—Proc. No. 2292, July 16, 1938, 53 Stat. 2461; Pub. L. 86–444, Apr. 29, 1960, 74 Stat. 83.
 
@@ -66,7 +70,7 @@ Fort Smith National Historic Site, Arkansas.—Pub. L. 87–215, Sept. 13, 1961,
 
 Fort Union Trading Post National Historic Site, North Dakota and Montana.—Pub. L. 89–458, June 20, 1966, 80 Stat. 211.
 
-Frederick Law Olmsted National Historic Site, Massachusetts.—Pub. L. 96–87, title II, Oct. 12, 1979, 93 Stat. 664.
+Frederick Law Olmsted National Historic Site, Massachusetts.—Pub. L. 96–87, title II, Oct. 12, 1979, 93 Stat. 664; Pub. L. 105–343, Nov. 2, 1998, 112 Stat. 3203.
 
 Friendship Hill National Historic Site, Pennsylvania.—Pub. L. 95–625, title V, §509, Nov. 10, 1978, 92 Stat. 3509.
 
@@ -74,7 +78,7 @@ Georgia O'Keeffe National Historic Site, New Mexico.—Pub. L. 96–344, §3, Se
 
 Golden Spike National Historic Site, Utah.—Pub. L. 89–102, July 30, 1965, 79 Stat. 426.
 
-Grant-Kohrs Ranch National Historic Site, Montana.—Pub. L. 92–406, Aug. 25, 1972, 86 Stat. 632.
+Grant-Kohrs Ranch National Historic Site, Montana.—Pub. L. 92–406, Aug. 25, 1972, 86 Stat. 632; Pub. L. 105–365, Nov. 6, 1998, 112 Stat. 3301.
 
 Hampton National Historic Site, Maryland.—Designated June 22, 1948.
 
@@ -82,7 +86,7 @@ Harry S Truman National Historic Site, Missouri.—Pub. L. 98–32, May 23, 1983
 
 Herbert Hoover National Historic Site, Iowa.—Pub. L. 89–119, Aug. 12, 1965, 79 Stat. 510.
 
-Home of Franklin D. Roosevelt National Historic Site, New York.—Designated Jan. 15, 1944.
+Home of Franklin D. Roosevelt National Historic Site, New York.—Designated Jan. 15, 1944; Pub. L. 105–364, Nov. 6, 1998, 112 Stat. 3300.
 
 Hopewell Village National Historic Site, Pennsylvania.—Designated Aug. 3, 1938.
 
@@ -101,6 +105,10 @@ John Muir National Historic Site, California.—Pub. L. 88–547, Aug. 31, 1964,
 Knife River Indian Villages National Historic Site, North Dakota.—Pub. L. 93–486, title I, §101(a)(3), Oct. 26, 1974, 88 Stat. 1461; Pub. L. 101–430, §1, Oct. 15, 1990, 104 Stat. 959.
 
 Lincoln Home National Historic Site, Illinois.—Pub. L. 92–127, Aug. 18, 1971, 85 Stat. 347.
+
+Little Rock Central High School National Historic Site, Arkansas.—Pub. L. 105–356, Nov. 6, 1998, 112 Stat. 3268.
+
+Lower East Side Tenement National Historic Site, New York.—Pub. L. 105–378, title I, Nov. 12, 1998, 112 Stat. 3395.
 
 Lyndon B. Johnson National Historic Site, Texas \[redesignated Lyndon B. Johnson National Historical Park by Pub. L. 96–607, title VI, Dec. 3, 1980, 94 Stat. 3540 (16 U.S.C. 410kk to 410kk–2).—Pub. L. 91–134, Dec. 2, 1969, 83 Stat. 274.
 
@@ -148,13 +156,15 @@ Theodore Roosevelt Inaugural \[formerly Ansley Wilcox House\] National Historic 
 
 Thomas Stone National Historic Site, Maryland.—Pub. L. 95–625, title V, §510, Nov. 10, 1978, 92 Stat. 3510.
 
+Tuskegee Airmen National Historic Site, Alabama.—Pub. L. 105–355, title III, Nov. 6, 1998, 112 Stat. 3254.
+
 Tuskegee Institute National Historic Site, Alabama.—Pub. L. 93–486, title I, §101(a)(5), Oct. 26, 1974, 88 Stat. 1462.
 
 Ulysses S. Grant National Historic Site, Missouri.—Pub. L. 101–106, Oct. 2, 1989, 103 Stat. 677.
 
 Vanderbilt Mansion National Historic Site, New York.—Designated Dec. 18, 1940.
 
-Weir Farm National Historic Site, Connecticut.—Pub. L. 101–485, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, Nov. 2, 1994, 108 Stat. 4756.
+Weir Farm National Historic Site, Connecticut.—Pub. L. 101–485, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, Nov. 2, 1994, 108 Stat. 4756; Pub. L. 105–363, §1, Nov. 6, 1998, 112 Stat. 3296.
 
 William Howard Taft National Historic Site, Ohio.—Pub. L. 91–132, Dec. 2, 1969, 83 Stat. 273.
 
@@ -176,13 +186,13 @@ National Heritage and River Corridors
 
 &nbsp;
 
-Blackstone River Valley National Heritage Corridor, Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201.
+Blackstone River Valley National Heritage Corridor, Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, §501, Nov. 6, 1998, 112 Stat. 3261.
 
 Cache La Poudre Corridor, Colorado.—Pub. L. 104–323, Oct. 19, 1996, 110 Stat. 3889.
 
-Delaware and Lehigh Navigation Canal National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552.
+Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258.
 
-Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456; Pub. L. 104–333, div. I, title IX, §902, Nov. 12, 1996, 110 Stat. 4204.
+Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456; Pub. L. 104–333, div. I, title IX, §902, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 105–355, title V, §502, Nov. 6, 1998, 112 Stat. 3261.
 
 Ohio \& Erie Canal National Heritage Corridor, Ohio.—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267.
 
@@ -195,6 +205,8 @@ National Heritage Areas
 &nbsp;
 
 Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249.
+
+Automobile National Heritage Area, Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247.
 
 Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257.
 
@@ -212,9 +224,31 @@ National Heritage Partnerships
 
 America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264.
 
+#### Charleston, Arkansas, National Commemorative Site
+
+Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–262, provided that:
+
+“(a) The Congress finds that—
+
+&emsp;“(1) the 1954 U.S. Supreme Court decision of Brown v. Board of Education, which mandated an end to the segregation of public schools, was one of the most significant Court decisions in the history of the United States;
+
+&emsp;“(2) the Charleston Public School District in Charleston, Arkansas, in September, 1954, became the first previously-segregated public school district in the former Confederacy to integrate following the Brown decision;
+
+&emsp;“(3) the orderly and peaceful integration of the public schools in Charleston served as a model and inspiration in the development of the Civil Rights movement in the United States, particularly with respect to public education; and
+
+&emsp;“(4) notwithstanding the important role of the Charleston School District in the successful implementation of integrated public schools, the role of the district has not been adequately commemorated and interpreted for the benefit and understanding of the nation.
+
+“(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the ‘Charleston National Commemorative Site’ in commemoration of the Charleston schools’ role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
+
+“(c) The Secretary, after consultation with the Charleston Public School District, shall establish an appropriate commemorative monument and interpretive exhibit at the Charleston National Commemorative Site to commemorate the 1954 integration of Charleston's public schools.”
+
+#### Chesapeake Bay Initiative
+
+Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
+
 #### Vancouver National Historic Reserve
 
-Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted byNational Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
+Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
 
 #### Great Falls Historic District, New Jersey
 
@@ -272,7 +306,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;“(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
 
-“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of theowner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
+“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
 
 “Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
@@ -294,7 +328,7 @@ Pub. L. 93–645, Jan. 4, 1975, 88 Stat. 2330, provided that:
 
 “
 
-Sec. 1. \[Lowell Historic Canal District Commission; establishment purpose\] For the purpose of preserving and interpreting for the educational and inspirational benefit of present and future generations the unique and significant contribution to our national heritage of certain historic and cultural lands, waterways, and edifices in the city of Lowell, Massachusetts (the cradle of the industrial revolution in America as well as America's first planned industrial city) with emphasis on harnessing this unique urban environment for its educational value as well as for recreation, there is hereby established the Lowell Historic Canal District Commission (hereinafter referred to as the ‘Commission’), the purpose of which shall be to prepare a plan for the preservation, interpretation, development, and use, by public and private entities, of the historic, cultural, and architectural resources of the Lowell Historic Canal District in the city of Lowell, Massachusetts.
+Sec. 1. \[Lowell Historic Canal District Commission; establishment purpose\] For the purpose of preserving and interpreting for the educational and inspirational benefit of present and future generations the uniqueand significant contribution to our national heritage of certain historic and cultural lands, waterways, and edifices in the city of Lowell, Massachusetts (the cradle of the industrial revolution in America as well as America's first planned industrial city) with emphasis on harnessing this unique urban environment for its educational value as well as for recreation, there is hereby established the Lowell Historic Canal District Commission (hereinafter referred to as the ‘Commission’), the purpose of which shall be to prepare a plan for the preservation, interpretation, development, and use, by public and private entities, of the historic, cultural, and architectural resources of the Lowell Historic Canal District in the city of Lowell, Massachusetts.
 
 “
 
@@ -376,7 +410,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing WhiteLight “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 
@@ -394,5 +428,5 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
 

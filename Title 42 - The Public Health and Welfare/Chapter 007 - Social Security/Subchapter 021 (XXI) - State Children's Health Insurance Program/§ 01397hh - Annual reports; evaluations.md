@@ -48,7 +48,7 @@ The State shall—
 
 &emsp;The Secretary shall submit to Congress and make available to the public by December 31, 2001, a report based on the evaluations submitted by States under paragraph (1), containing any conclusions and recommendations the Secretary considers appropriate.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2108, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 566.)
+(Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566.)
 
 #### Section Referred to in Other Sections
 

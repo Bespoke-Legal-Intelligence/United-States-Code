@@ -78,7 +78,7 @@ July 5, 1966, Pub. L. 89–492 §5, 80 Stat. 262.
 
 The amendment to 5 U.S.C. 3104(a)(5) reflects Public Law 89–492, section 5.
 
-The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of July 20, 1958, Public Law 85–568\(72 Stat. 433), 42 U.S.C. 2453, and transfer plan, effective March 15, 1960, 25 Federal Register 2151, section (2)(a)(2), (b) of which in effect transferred from the Department of Defense to the National Aeronautics and Space Administration 12 of the 450 scientific and professional positions authorized by section 2 of Public Law 86–377 (10 U.S.C. 1581). Provisions relating to the date for reporting to Congress are based on 10 U.S.C. 1582.
+The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of July 20, 1958, Public Law 85–568 (72 Stat. 433), 42 U.S.C. 2453, and transfer plan, effective March 15, 1960, 25 Federal Register 2151, section (2)(a)(2), (b) of which in effect transferred from the Department of Defense to the National Aeronautics and Space Administration 12 of the 450 scientific and professional positions authorized by section 2 of Public Law 86–377 (10 U.S.C. 1581). Provisions relating to the date for reporting to Congress are based on 10 U.S.C. 1582.
 
 #### Amendments
 
@@ -106,9 +106,83 @@ Amendment by section 414(a)(2)(B), (C) of Pub. L. 95–454 effective 180 days af
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
+#### Defense Advanced Research Projects Agency Experimental Personnel Management Program for Technical Personnel
+
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, provided that:
+
+“(a)
+
+Program Authorized.—During the 5-year period beginning on the date of the enactment of this Act \[Oct. 17, 1998\], the Secretary of Defense may carry out a program of experimental use of the special personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects administered by the Defense Advanced Research Projects Agency.
+
+“(b)
+
+Special Personnel Management Authority.—Under the program, the Secretary may—
+
+&emsp;“(1) appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of title 5, United States Code) to not more than 20 scientific and engineering positions in the Defense Advanced Research Projects Agency without regard to any provision of title 5, United States Code, governing the appointment of employees in the civil service;
+
+&emsp;“(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5, United States Code, notwithstanding any provision of such title governing the rates of pay or classification of employees in the executive branch; and
+
+&emsp;“(3) pay any employee appointed under paragraph (1) payments in addition to basic pay within the limit applicable to the employee under subsection (d)(1).
+
+“(c)
+
+Limitation on Term of Appointment.—(1) Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed 4 years.
+
+“(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 2 years if the Secretary determines that such action is necessary to promote the efficiency of the Defense Advanced Research Projects Agency.
+
+“(d)
+
+Limitations on Additional Payments.—(1) The total amount of the additional payments paid to an employee under subsection (b)(3) for any 12-month period may not exceed the least of the following amounts:
+
+&emsp;“(A) $25,000.
+
+&emsp;“(B) The amount equal to 25 percent of the employee's annual rate of basic pay.
+
+&emsp;“(C) The amount of the limitation that is applicable for a calendar year under section 5307(a)(1) of title 5, United States Code.
+
+“(2) An employee appointed under subsection (b)(1) is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under subsection (b)(3).
+
+“(e)
+
+Period of Program.—(1) The program authorized under this section shall terminate at the end of the 5-year period referred to in subsection (a).
+
+“(2) After the termination of the program—
+
+&emsp;“(A) no appointment may be made under paragraph (1) of subsection (b);
+
+&emsp;“(B) a rate of basic pay prescribed under paragraph (2) of that subsection may not take effect for a position; and
+
+&emsp;“(C) no period of service may be extended under subsection (c)(1) \[(c)(2)\].
+
+“(f)
+
+Savings Provisions.—In the case of an employee who, on the day before the termination of the program, is serving in a position pursuant to an appointment under subsection (b)(1)—
+
+&emsp;“(1) the termination of the program does not terminate the employee's employment in that position before the expiration of the lesser of—
+
+&emsp;&emsp;“(A) the period for which the employee was appointed; or
+
+&emsp;&emsp;“(B) the period to which the employee's service is limited under subsection (c), including any extension made under paragraph (2) of that subsection before the termination of the program; and
+
+&emsp;“(2) the rate of basic pay prescribed for the position under subsection (b)(2) may not be reduced for so long (within the period applicable to the employee under paragraph (1)) as the employee continues to serve in the position without a break in service.
+
+“(g)
+
+Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 and ending in 2004, the Secretary of Defense shall submit a report on the program to the Committee on Armed Services of the Senate and the Committee on National Security \[now Committee on Armed Services\] of the House of Representatives. The report submitted in a year shall cover the 12-month period ending on the day before the anniversary, in that year, of the date of the enactment of this Act.
+
+“(2) The annual report shall contain, for the period covered by the report, the following:
+
+&emsp;“(A) A detailed discussion of the exercise of authority under this section.
+
+&emsp;“(B) The sources from which individuals appointed under subsection (b)(1) were recruited.
+
+&emsp;“(C) The methodology used for identifying and selecting such individuals.
+
+&emsp;“(D) Any additional information that the Secretary considers helpful for assessing the utility of the authority under this section.”
+
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
 
-Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, provided that:
+Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585, provided that:
 
 “(a) Notwithstanding any other provision of law relating to position classification or employee pay or performance, during the 3-year period beginning on the date of enactment of this Act \[Nov. 26, 1997\], the Director of the Federal Bureau of Investigation may, with the approval of the Attorney General, establish a personnel management system providing for the compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in the Federal Bureau of Investigation.
 
@@ -116,7 +190,7 @@ Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, provided that:
 
 “(c) Total payments to employees under any system established under this section shall be subject to the limitation on payments to employees set forth in section 5307 of title 5, United States Code.
 
-“(d) Not later than 90 days after the date of enactment of this Act \[Nov. 26, 1998\], the Director of the Federal Bureau of Investigation shall submit to the Committees on Appropriations and the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on Government Reform and Oversight of the House of Representatives, and the Committee on Governmental Affairs of the Senate, an operating plan describing the Director's intended use of the authority under this section, and identifying any provisions of title 5, United States Code, being waived for purposes of any personnel management system to be established by the Director under this section.
+“(d) Not later than 90 days after the date of enactment of this Act \[Nov. 26, 1997\], the Director of the Federal Bureau of Investigation shall submit to the Committees on Appropriations and the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives, and the Committee on Governmental Affairs of the Senate, an operating plan describing the Director's intended use of the authority under this section, and identifying any provisions of title 5, United States Code, being waived for purposes of any personnel management system to be established by the Director under this section.
 
 “(e) Any performance management system established under this section shall have not less than 2 levels of performance above a retention standard.
 
@@ -130,9 +204,17 @@ Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, provided that:
 
 &emsp;“(2) if appropriate, a recommendation for legislation to extend the authority under this section.
 
-“(g) Notwithstanding any other provision of law, the Secretary of the Treasury shall have the same authority provided to the Office of Personnel Management under section 4703 of title 5, United States Code, to establish, in the discretion of the Secretary, demonstration projects for a period of 3 years, for not to exceed a combined total of 950 employees, to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in the Bureau of Alcohol, Tobacco and Firearms, the United States Customs Service, and the United States Secret Service.
+“(g)(1) Notwithstanding any other provision of law and subject to paragraph (2), the Secretary of the Treasury is authorized to establish, for a period of three years from date of enactment of this provision \[Nov. 26, 1997\], a personnel management demonstration project providing for the compensation and performance management of not more than a combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in the Bureau of Alcohol, Tobacco and Firearms, the United States Customs Service, and the United States Secret Service.
 
-“(h) The authority under this section shall terminate 3 years after the date of enactment of this Act \[Nov. 26, 1997\].”
+“(2) The provisions of subsections (b) through (f) and subsection (h) shall apply to the demonstration project authorized by paragraph (1) except that—
+
+&emsp;“(A) any reference in such subsections to the Director of the Federal Bureau of Investigation shall include a reference to the Secretary of the Treasury;
+
+&emsp;“(B) the operating plan required by subsection (d) shall be submitted not later than February 1, 1999 to the House and Senate Committees on Appropriations, the House Committee on Government Reform and Oversight \[now House Committee on Government Reform\], the Senate Committee on Governmental Affairs, the House Committee on Ways and Means, and the Senate Committee on Finance; and
+
+&emsp;“(C) the report required by subsection (f) shall be submitted not later than March 31, 2001.
+
+“(h) The authority to establish a demonstration project under this section shall terminate on November 26, 2000.”
 
 #### Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule
 

@@ -74,7 +74,7 @@ The provisions of law and Executive orders to which subsection (e)(6) of this se
 
 #### References in Text
 
-This Act, referred to in subsec. (a), means Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968, which enacted this chapter, sections 231 to 233, 245, 2101, and 2102 of Title 18, Crimes and Criminal Procedure, and sections 1301 to 1303, 1311, 1312, 1321 to 1326, 1331, and 1341 of Title 25, Indians, amended sections 1973j, 3533, 3535 of this title, and sections 241, 242, and 1153 of Title 18, enacted provisions set out as notes under sections 231 and 245 of Title 18, and repealed provisions set out as notes under section 1360 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), means Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968, which enacted this chapter, sections 231 to 233, 245, 2101, and 2102 of Title 18, Crimes and Criminal Procedure, and sections 1301 to 1303, 1311, 1312, 1321 to 1326, 1331, and 1341 of Title 25, Indians, amended sections 1973j, 3533, 3535 of this title,and sections 241, 242, and 1153 of Title 18, enacted provisions set out as notes under sections 231 and 245 of Title 18, and repealed provisions set out as notes under section 1360 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
@@ -122,6 +122,18 @@ Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 
 
 Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4)(A) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of Title 5, Government Organization and Employees.
 
+#### Treatment of Occupancy Standards
+
+Pub. L. 105–276, title V, §589, Oct. 21, 1998, 112 Stat. 2651, provided that:
+
+“(a)
+
+Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and provides that the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
+
+“(b)
+
+Prohibition of National Standard.—The Secretary of Housing and Urban Development shall not directly or indirectly establish a national occupancy standard.”
+
 #### Executive Order No. 12259
 
 Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253, which related to leadership and coordination by Secretary of Housing and Urban Development of fair housing programs and activities in Federal programs, was revoked by Ex. Ord. No. 12892, §6–607, Jan. 17, 1994, 59 F.R. 2939, set out below.
@@ -146,7 +158,7 @@ Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
 2–203. In carrying out the responsibilities in this order, the head of each executive agency shall take appropriate steps to require that all persons or other entities who are applicants for, or participants in, or who are supervised or regulated under, agency programs and activities relating to housing and urban development shall comply with this order.
 
-2–204. Upon receipt of a complaint alleging facts that may constitute a violation of the Act or upon receipt of information from a consumer compliance examination or other information suggesting a violation of the Act, each executive agency shall forward such facts or information to the Secretary of Housing and Urban Development for processing under the Act. Where such facts or information indicate a possible pattern or practice of discrimination in violation of the Act, they also shall be forwarded to the Attorney General. The authority of the Federal depository institution regulatory agencies to take appropriate action under their statutory authority remains unaffected.
+2–204. Upon receipt of a complaint alleging facts that may constitute a violation of the Act or upon receipt of information from a consumer compliance examination or other information suggesting a violation of the Act, each executive agency shall forward such facts orinformation to the Secretary of Housing and Urban Development for processing under the Act. Where such facts or information indicate a possible pattern or practice of discrimination in violation of the Act, they also shall be forwarded to the Attorney General. The authority of the Federal depository institution regulatory agencies to take appropriate action under their statutory authority remains unaffected.
 
 Sec. 3. <i>President's Fair Housing Council.</i>
 
@@ -198,7 +210,7 @@ Sec. 5. <i>Administrative Enforcement.</i>
 
 (a) cancellation or termination of agreements or contracts with such person, entity, or any State or local public agency;
 
-(b) refusal to extend any further aid under any program or activity administered by it and affected by this order until it is satisfied that the affected person, entity, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order;
+(b) refusal to extend any further aid under any program or activity administered by it and affected by this order until it is satisfied that the affected person,entity, or State or local public agency will comply with the rules, regulations, and procedures issued or adopted pursuant to this order;
 
 (c) refusal to grant supervisory or regulatory approval to such person, entity, or State or local public agency under any program or activity administered by it that is affected by this order or revoke such approval if previously given; and
 
@@ -252,7 +264,7 @@ Racial and ethnic segregation, both in the private housing market and in public 
 
 The resulting decline in the very heart of too many of our metropolitan areas threatens all of us: the health of our dynamic regional economies—the very lifeblood of future national economic growth and higher living standards for all of us and all of our children—is placed at risk.
 
-We can do better. We can start by making sure that our own Federal policies and programs across all of our agencies support the fair housing and equal opportunity goals to which all Americans are committed. If all of our executive agencies affirmatively further fair housing in the design of their policies and administration of their programs relating to housing and urban development, a truly nondiscriminatory housing market will be closer to achievement.
+We can do better. We can start by making sure that our own Federal policies and programs across all of our agencies support the fair housing and equal opportunity goals to which all Americans are committed. If all of our executive agencies affirmatively further fairhousing in the design of their policies and administration of their programs relating to housing and urban development, a truly nondiscriminatory housing market will be closer to achievement.
 
 By an Executive Order \[Ex. Ord. No. 12892, set out above\] (“the Order”) I am issuing today and this memorandum, I am addressing those needs. The Secretary of Housing and Urban Development and, where appropriate, the Attorney General—the officials with the primary responsibility for the enforcement of Federal fair housing laws—will take the lead in developing and coordinating measures to carry out the purposes of this Order.
 
@@ -272,7 +284,7 @@ The President's Fair Housing Council shall review the design and delivery of Fed
 
 I direct the Secretary of Housing and Urban Development and the President's Fair Housing Council to develop a pilot program to be implemented in selected metropolitan areas. This initiative will promote fair housing choice by helping inner-city families to move to suburban neighborhoods and by making the central city more attractive to those who have left it. I direct the members of the Council to undertake a demonstration program that will reinvent the way assisted housing is offered to applicants, will break down jurisdictional barriers in housing opportunities, and will promote the use of subsidies that diminish residential segregation, and will combine these initiatives with refined educational incentives aimed at improving the effectiveness of inner-city schools. I am directing that transportation alternatives be considered along with targeted social service and job training programs as part of the support necessary to create a one-stop, metropolitan area-wide fair housing opportunity pilot program that will effectively offer Federally assisted housing, Federally insured housing, and private market housing within a metropolitan area to all residents of the area. The pilot program should call upon realtors, mortgage lenders, housing providers, and local governments, among others, to assist in expanding housing choices.
 
-To address the findings of recent studies, I hereby direct the Secretary of Housing and Urban Development and the Attorney General and, where appropriate, the heads of the Federal banking agencies to exercise national leadership to end discrimination in mortgage lending, the secondary mortgage market, and property insurance practices. The Secretary is directed to issue regulations to define discriminatory practices in these areas and the Secretary and the Attorney General aredirected to aggressively enforce the laws prohibiting these practices.
+To address the findings of recent studies, I hereby direct the Secretary of Housing and Urban Development and the Attorney General and, where appropriate, the heads of the Federal banking agencies to exercise national leadership to end discrimination in mortgage lending, the secondary mortgage market, and property insurance practices. The Secretary is directed to issue regulations to define discriminatory practices in these areas and the Secretary and the Attorney General are directed to aggressively enforce the laws prohibiting these practices.
 
 In each of these areas, I direct the Secretary of Housing and Urban Development to take the lead with the other Federal agencies in working to gain the voluntary cooperation, participation, and expertise of all of those in private industry, the States and localities who can assist in achieving the Nation's fair housing goals.
 

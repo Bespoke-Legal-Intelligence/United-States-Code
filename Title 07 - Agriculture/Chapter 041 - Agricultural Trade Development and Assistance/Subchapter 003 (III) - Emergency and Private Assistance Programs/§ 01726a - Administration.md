@@ -20,7 +20,7 @@
 
 Not later than 30 days prior to the issuance of a final guideline to carry out this subchapter, the Administrator shall—
 
-&emsp;(1) provide notice of the existence of a proposed guideline, and that such guideline is available for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
+&emsp;(1) provide notice of the existence of a proposed guideline, and that such guideline isavailable for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
 
 &emsp;(2) make the proposed guideline available, on request, to the eligible organizations and other persons referred to in paragraph (1); and
 
@@ -52,7 +52,7 @@ Not later than 30 days prior to the issuance of a final guideline to carry out t
 
 Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation.
 
-(July 10, 1954, ch. 469, title II, §207, as added Dec. 23, 1985, Pub. L. 99–198, title XI, §1104(a), 99 Stat.1466; amended Dec. 22, 1987, Pub. L. 100–202, §14, 101 Stat. 1329–449; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3640; Apr. 4, 1996, Pub. L. 104–127, title II, §207(b), 110 Stat. 954.)
+(July 10, 1954, ch. 469, title II, §207, as added Pub. L. 99–198, title XI, §1104(a), Dec. 23, 1985, 99 Stat. 1466; amended Pub. L. 100–202, §14, Dec. 22, 1987, 101 Stat. 1329–449; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3640; Pub. L. 104–127, title II, §207(b), Apr. 4, 1996, 110 Stat. 954.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@
 
 #### (2) Combination of funds
 
-&emsp;To carry out such purposes, a local partnership that receives assistance under subchapter II or III of this chapter may carry out schoolwide school-to-work activities in schools that meet the requirements of subparagraphs (A) and (B) of section 263(g)(1) of the Job Training Partnership Act (29 U.S.C. 1643(g)(1)(A) and (B)) with funds obtained by combining—
+&emsp;To carry out such purposes, a local partnership that receives assistance under subchapter II or III of this chapter may carry out schoolwide school-to-work activities in schools that meet the requirements of subparagraphs (A) and (B) of section 263(g)(1) of the Job Training Partnership Act (29 U.S.C. 1643(g)(1)(A) and (B)) <sup>1</sup> with funds obtained by combining—
 
 &emsp;&emsp;(A) Federal funds under this chapter; and
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) the provisions of law listed in paragraphs (2) through (6) of section 6212(b) of this title; and
 
-&emsp;&emsp;&emsp;(ii) the Job Training Partnership Act (29 U.S.C. 1501 et seq.).
+&emsp;&emsp;&emsp;(ii) the Job Training Partnership Act (29 U.S.C. 1501 et seq.).<sup>1</sup>
 
 #### (b) Use of funds
 
@@ -46,5 +46,7 @@ The local partnership shall, to the extent feasible, provide information on the 
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (a)(2)(B)(ii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Section 263 of the Act was classified to section 1643 of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

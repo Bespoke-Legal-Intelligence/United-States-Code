@@ -24,7 +24,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(8) The exclusion from gross income provided by section 931 of the Internal Revenue Code of 1986 shall not apply;
 
-&emsp;(9) There shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary of the Treasury or his delegate, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments to continue at least until such partner's death, if—
+&emsp;(9) There shall be excluded amounts received by a partner pursuant to a written plan of the partnership, which meets such requirements as are prescribed by the Secretary of the Treasury or his delegate, and which provides for payments on account of retirement, on a periodic basis, to partners generally or to a class or classes of partners, such payments tocontinue at least until such partner's death, if—
 
 &emsp;&emsp;(A) such partner rendered no services with respect to any trade or business carried on by such partnership (or its successors) during the taxable year of such partnership (or its successors), ending within or with his taxable year, in which such amounts were received, and
 
@@ -52,7 +52,7 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(i) in the case of an individual, if the gross income derived by him from such trade or business is not more than $2,400, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 662/3 percent of such gross income; or
 
-&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade orbusiness is more than $2,400 and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than $1,600, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be $1,600; and
+&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than $2,400 and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than $1,600, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be $1,600; and
 
 &emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is not more than $2,400, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
 
@@ -90,7 +90,7 @@ The term “self-employment income” means the net earnings from self-employmen
 
 &emsp;&emsp;(H) For any taxable year beginning after 1973 and prior to 1975, (i) $13,200, minus (ii) the amount of the wages paid to such individual during the taxable year; and
 
-&emsp;&emsp;(I) For any taxable year beginning in any calendar year after 1974, (i) an amount equal to the contribution and benefit base (as determined under section 430 of this title)which is effective for such calendar year, minus (ii) the amount of the wages paid to such individual during such taxable year; or
+&emsp;&emsp;(I) For any taxable year beginning in any calendar year after 1974, (i) an amount equal to the contribution and benefit base (as determined under section 430 of this title) which is effective for such calendar year, minus (ii) the amount of the wages paid to such individual during such taxable year; or
 
 &emsp;(2) The net earnings from self-employment, if such net earnings for the taxable year are less than $400.
 
@@ -200,7 +200,7 @@ Nothing in subsection (a) of this section shall be construed as including in the
 
 &emsp;&emsp;(B) does not depend to any extent on length of service or overall earnings from services performed for such company (without regard to whether eligibility for payment depends on length of service).
 
-(Aug. 14, 1935, ch. 531, title II, §211, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 502; amended Sept. 23, 1950, ch. 994, title II, §221(j)(2), 64 Stat. 947; Sept. 1, 1954, ch. 1206, title I, §§101(d), (g), 104(b), 68 Stat. 1054, 1078; Aug. 1, 1956, ch. 836, title I, §§104(c)(2), (3), (d), (h), 106(a), 70 Stat. 824–826, 828; Aug. 30, 1957, Pub. L. 85–239, §5(a), 71 Stat. 523; Aug. 28, 1958, Pub. L. 85–840, title I, §102(b), title III, §313(a), 72 Stat. 1019, 1036; Sept. 13, 1960, Pub. L. 86–778, title I, §§103(g), (h), (j)(3), 106(a), 74 Stat. 937, 938, 945; Feb. 26, 1964, Pub. L. 88–272, title II, §227(b)(7), 78 Stat. 98; July 30, 1965, Pub. L. 89–97, title III, §§311(a)(1), (2), 312(a), 319(b), 320(a)(2), 79 Stat. 380, 381, 391, 393; Jan. 2, 1968, Pub. L. 90–248, title I, §§108(a)(2), 115(a), 118(b), 122(a), 81 Stat. 834, 839, 841, 843; Mar. 17, 1971, Pub. L. 92–5, title II, §203(a)(2), 85 Stat. 10; July 1, 1972, Pub. L. 92–336, title II, §203(a)(2), 86 Stat. 418; Oct. 30, 1972, Pub. L. 92–603, title I, §§121(a), 124(a), 140(a), 86 Stat. 1353, 1357, 1366; July 9, 1973, Pub. L. 93–66, title II, §203(a)(2), 87 Stat. 153; Dec. 31, 1973, Pub. L. 93–233, §5(a)(2), 87 Stat. 953; Aug. 7, 1974, Pub. L. 93–368, §10(a), 88 Stat. 422; Oct. 4, 1976, Pub. L. 94–455, title XII, §1207(e)(2)(B), 90 Stat. 1707; Dec. 20, 1977, Pub. L. 95–216, title III, §313(a), 91 Stat. 1535; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(14)(D), (E), 92 Stat. 2942; Apr. 20, 1983, Pub. L. 98–21, title I, §124(c)(3), title III, §§322(b)(1), 323(b)(2), 97 Stat. 90, 121; July 18, 1984, Pub. L. 98–369, div. A, title I, §102(c)(2), div. B, title VI, §§2603(c)(1), (d)(1), 2663(a)(8), 98 Stat. 622, 1129, 1163; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §§1882(b)(2), 1883(a)(6), 100 Stat. 2915, 2916; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9022(a), 9023(b), 101 Stat. 1330–295, 1330–296; Nov. 10, 1988, Pub. L. 100–647, title I, §1011B(b)(4), title III, §3043(b), title VIII, §8016(a)(2), 102 Stat. 3488, 3642, 3792; Nov. 5, 1990, Pub. L. 101–508, title V, §§5123(a)(1), 5130(a)(2), (3), 104 Stat. 1388–284, 1388–289; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title III, §§319(b)(2), 321(a)(14), (c)(5), (6)(E)–(G), 108 Stat. 1478, 1535, 1536, 1538; Aug. 5, 1997, Pub. L. 105–34, title IX, §922(b), 111 Stat. 880.)
+(Aug. 14, 1935, ch. 531, title II, §211, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 502; amended Sept. 23, 1950, ch. 994, title II, §221(j)(2), 64 Stat. 947; Sept. 1, 1954, ch. 1206, title I, §§101(d), (g), 104(b), 68 Stat. 1054, 1078; Aug. 1, 1956, ch. 836, title I, §§104(c)(2), (3), (d), (h), 106(a), 70 Stat. 824–826, 828; Pub. L. 85–239, §5(a), Aug. 30, 1957, 71 Stat. 523; Pub. L. 85–840, title I, §102(b), title III, §313(a), Aug. 28, 1958, 72 Stat. 1019, 1036; Pub. L. 86–778, title I, §§103(g), (h), (j)(3), 106(a), Sept. 13, 1960, 74 Stat. 937, 938, 945; Pub. L. 88–272, title II, §227(b)(7), Feb. 26, 1964, 78 Stat. 98; Pub. L. 89–97, title III, §§311(a)(1), (2), 312(a), 319(b), 320(a)(2), July 30, 1965, 79 Stat. 380, 381, 391, 393; Pub. L. 90–248, title I, §§108(a)(2), 115(a), 118(b), 122(a), Jan. 2, 1968, 81 Stat. 834, 839, 841, 843; Pub. L. 92–5, title II, §203(a)(2), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(2), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(a), 124(a), 140(a), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(a)(2), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(2), Dec. 31, 1973, 87 Stat. 953; Pub. L. 93–368, §10(a), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–455, title XII, §1207(e)(2)(B), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 95–216, title III, §313(a), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 95–600, title VII, §703(j)(14)(D), (E), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 98–21, title I, §124(c)(3), title III, §§322(b)(1), 323(b)(2), Apr. 20, 1983, 97 Stat. 90, 121; Pub. L. 98–369, div. A, title I, §102(c)(2), div. B, title VI, §§2603(c)(1), (d)(1), 2663(a)(8), July 18, 1984, 98 Stat. 622, 1129, 1163; Pub. L. 99–514, title XVIII, §§1882(b)(2), 1883(a)(6), Oct. 22, 1986, 100 Stat. 2915, 2916; Pub. L. 100–203, title IX, §§9022(a), 9023(b), Dec. 22, 1987, 101 Stat. 1330–295, 1330–296; Pub. L. 100–647, title I, §1011B(b)(4), title III, §3043(b), title VIII, §8016(a)(2), Nov. 10, 1988, 102 Stat. 3488, 3642, 3792; Pub. L. 101–508, title V, §§5123(a)(1), 5130(a)(2), (3), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §§319(b)(2), 321(a)(14), (c)(5), (6)(E)–(G), Aug. 15, 1994, 108 Stat. 1478, 1535, 1536, 1538; Pub. L. 105–34, title IX, §922(b), Aug. 5, 1997, 111 Stat. 880.)
 
 #### References in Text
 
@@ -210,7 +210,7 @@ The Internal Revenue Code of 1986, referred to in text, is classified to Title 2
 
 1997—Subsec. (j). Pub. L. 105–34 added subsec. (j).
 
-1994—Subsec. (a). Pub. L. 103–296, §321(c)(6)(E), substituted “1986” for “1954” after “Code of” wherever appearing in introductory provisions, in pars. (3), (4), (6),\(10), (11), and (12), and in cls. (iii) and (iv) of closing provisions.
+1994—Subsec. (a). Pub. L. 103–296, §321(c)(6)(E), substituted “1986” for “1954” after “Code of” wherever appearing in introductory provisions, in pars. (3), (4), (6), (10), (11), and (12), and in cls. (iii) and (iv) of closing provisions.
 
 Subsec. (a)(13) to (15). Pub. L. 103–296, §321(a)(14), (c)(5), struck out “and” at end of par. (13), substituted “; and” for period at end of par. (14), and inserted “of the Internal Revenue Code of 1986” after “section 162(m)” in par. (15).
 
@@ -290,7 +290,7 @@ Subsec. (a)(11), (12). Pub. L. 98–21, §124(c)(3), added par. (11) and redesig
 
 Subsec. (b). Pub. L. 98–21, §322(b)(1), as amended by Pub. L. 101–508, §5130(a)(2), inserted “, except as provided by an agreement under section 433 of this title” after “non-resident alien individual” in provisions preceding par. (1).
 
-1978—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described insection 35 of the Internal Revenue Code of 1954)” be struck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
+1978—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described in section 35 of the Internal Revenue Code of 1954)” be struck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
 
 Subsec. (c)(6). Pub. L. 95–600, §703(j)(14)(E), substituted “section 1402(g)” for “section 1402(h)”.
 
@@ -338,7 +338,7 @@ Subsec. (c)(6). Pub. L. 89–97, §319(b), added par. (6).
 
 1964—Subsec. (a)(3)(B), Pub. L. 88–272 amended cl. (B) generally, substituting “, coal, or iron ore, if section 631 of the Internal Revenue Code of 1954 applies” for “or coal, if section 117(j) of the Internal Revenue Code of 1954 is applicable”.
 
-1960—Subsec. (a)(6). Pub. L. 86–778, §103(j)(3), substituted “section 933 of the Internal Revenue Code of 1954” for “section 116(1) of the Internal Revenue Code of 1954”, and struck out provisions which defined “possession of the United States” in the case of taxable years beginning before the effective date specified in former section 419 of this title.
+1960—Subsec. (a)(6). Pub. L. 86–778, §103(j)(3), substituted “section 933 of the Internal Revenue Code of 1954” for “section 116(1) of the Internal Revenue Code of1954”, and struck out provisions which defined “possession of the United States” in the case of taxable years beginning before the effective date specified in former section 419 of this title.
 
 Subsec. (a)(8). Pub. L. 86–778, §103(g), added par. (8) and inserted a reference to paragraph (8) in cls. (v) and (vi) of last sentence.
 
@@ -410,7 +410,7 @@ Amendment by section 8016(a)(2) of Pub. L. 100–647 effective Nov. 10, 1988, ex
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxable years beginning on or after Jan. 1, 1988, see section 9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 9022(a) of Pub. L. 100–203 applicable with respect to services performed in taxableyears beginning on or after Jan. 1, 1988, see section 9022(c) of Pub. L. 100–203, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment
 
@@ -494,7 +494,7 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 #### Effective Date of 1960 Amendment
 
-Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
+Amendment by section 103(g) of Pub. L. 86–778 applicable only in the case of taxable years beginning after1960, except that, insofar as involves the nonapplication of section 932 of Title 26, Internal Revenue Code, to the Virgin Islands for purposes of sections 1401 et seq. of Title 26 and this section, such amendment shall be effective in the case of all taxable years with respect to which such sections 1401 et seq. (and corresponding provisions of prior law) and this section are applicable, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
 Amendment by section 103(h) of Pub. L. 86–778 applicable only in the case of taxable years beginning after 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 

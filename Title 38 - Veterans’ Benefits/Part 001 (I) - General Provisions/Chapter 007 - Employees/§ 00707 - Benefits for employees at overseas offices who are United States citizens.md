@@ -44,7 +44,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 Ex. Ord. No. 12228, July 24, 1980, 45 F.R. 49903, as amended by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967, provided:
 
-By the authority vested in me as President of the United States of America by Sections 7 and 8 of the Defense Department Overseas Teachers Pay and Personnel Practices Act of 1959, as amended (20 U.S.C. 905–906), Section 235 \[see 707\] of Title 38 of the United States Code, and Section 301 of Title 3 of the United StatesCode, and in order to delegate authority with respect to allowances for Veterans Administration \[now Department of Veterans Affairs\] personnel and to update existing authorities, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Sections 7 and 8 of the Defense Department Overseas Teachers Pay and Personnel Practices Act of 1959, as amended (20 U.S.C. 905–906), Section 235 \[see 707\] of Title 38 of the United States Code, and Section 301 of Title 3 of the United States Code, and in order to delegate authority with respect to allowances for Veterans Administration \[now Department of Veterans Affairs\] personnel and to update existing authorities, it is hereby ordered as follows:
 
 1–101. Payment of the additional compensation authorized by Section 8(a)(2) of the Defense Department Overseas Teachers Pay and Personnel Practices Act of 1959, as amended, shall be governed by the regulations contained in Executive Order No. 10000, as amended \[set out as a note under section 5941 of Title 5, Government Organization and Employees\], which govern the payment of additional compensation in foreign areas (referred to as foreign post differential), subject to the provisions of Section 8(b) of that Act (20 U.S.C. 906(a)(2) and (b)).
 
@@ -69,8 +69,4 @@ By the authority vested in me as President of the United States of America by Se
 1–103. The following functions vested in the President by Section 235 \[see 707\] of Title 38 of the United States Code are delegated to the Administrator of the Veterans Administration \[now Secretary of Veterans Affairs\]. The authority with respect to the allowances or benefits of paragraphs (1) and (4) of Section 235 \[see 707(1), (4)\] which are similar to the benefits and allowances provided in the sections of the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], designated in those paragraphs.
 
 1–104. Executive Order No. 10853 \[not classified to Code\], as amended, is revoked. The rules and regulations which were prescribed by the Secretary of State or the Administrator of the Veterans Administration \[now Secretary of Veterans Affairs\] pursuant to Executive Order No. 10853, as amended, and which would be valid if issued pursuant to this Order, shall be deemed to have been issued under this Order.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 36 section 493.
 

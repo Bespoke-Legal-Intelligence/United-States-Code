@@ -1,14 +1,98 @@
 ### §1a–5. Additional areas for National Park System
 
-#### (a) Areas of national significance for potential inclusion; investigation and study; transmittal to Congress of report and annual listings of areas, included on Registry of Natural Landmarks and National Register of Historic places, subject to threats of damage; printing as House document; authorization of appropriations
+#### (a) General authority
 
-The Secretary of the Interior is directed to investigate, study, and continually monitor the welfare of areas whose resources exhibit qualities of national significance and which may have potential for inclusion in the National Park System. At the beginning of each fiscal year, the Secretary shall transmit to the Speaker of the House of Representatives and to the President of the Senate, comprehensive reports on each of those areas upon which studies have been completed. Each such report shall indicate and elaborate on the theme(s) which the area represents as indicated in the National Park System Plan. On this same date, and accompanying such reports, the Secretary shall transmit a listing, in generally descending order of importance or merit, of not less than twelve such areas which appear to be of national significance and which may have potential for inclusion in the National Park System. Threats to resource values, and cost escalation factors shall be considered in listing the order of importance or merit. Such listing may be comprised of any areas heretofore submitted under terms of this section, and which at the time of listing are not included in the National Park System. Accompanying the annual listing of areas shall be a synopsis, for each report previously submitted, of the current and changed condition of the resource integrity of the area and other relevant factors, compiled as a result of continual periodic monitoring and embracing the period since the previous such submission or initial report submission one year earlier. The Secretary is also directed to transmit annually to the Speaker of the House of Representatives and to the President of the Senate, at the beginning of each fiscal year, a complete and current list of all areas included on the Registry of Natural Landmarks and those areas of national significance listed on the National Register of Historic places which areas exhibit known or anticipated damage or threats to the integrity of their resources, along with notations as to the nature and severity of such damage or threats. Each report and annual listing shall be printed as a House document: <i>Provided</i>, That should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon thereceipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Natural Resources of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case. For the purposes of carrying out the studies for potential new Park System units and for monitoring the welfare of those resources, there are authorized to be appropriated annually not to exceed $1,000,000. For the purposes of monitoring the welfare and integrity of the national landmarks, there are authorized to be appropriated annually not to exceed $1,500,000.
+The Secretary of the Interior is directed to investigate, study, and continually monitor the welfare of areas whose resources exhibit qualities of national significance and which may have potential for inclusion in the National Park System. Accompanying the annual listing of areas shall be a synopsis, for each report previously submitted, of the current and changed condition of the resource integrity of the area and other relevant factors, compiled as a result of continual periodic monitoring and embracing the period since the previous such submission or initial report submission one year earlier. The Secretary is also directed to transmit annually to the Speaker of the House of Representatives and to the President of the Senate, at the beginning of each fiscal year, a complete and current list of all areas included on the Registry of Natural Landmarks and those areas of national significance listed on the National Register of Historic places which areas exhibit known or anticipated damage or threats to the integrity of their resources, along with notations as to the nature and severity of such damage or threats. Each report and annual listing shall be printed as a House document: <i>Provided</i>, That should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Natural Resources of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
 
-#### (b) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(I), Nov. 12, 1996, 110 Stat. 4196
+#### (b) Studies of areas for potential addition
 
-(Pub. L. 91–383, §8, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, §604(1), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 96–199, title I, §104, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §8, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 103–437, §6(b), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(I), Nov. 12, 1996, 110 Stat. 4196.)
+(1) At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a list of areas recommended for study for potential inclusion in the National Park System.
+
+(2) In developing the list to be submitted under this subsection, the Secretary shall consider—
+
+&emsp;(A) those areas that have the greatest potential to meet the established criteria of national significance, suitability, and feasibility;
+
+&emsp;(B) themes, sites, and resources not already adequately represented in the National Park System; and
+
+&emsp;(C) public petition and Congressional resolutions.
+
+(3) No study of the potential of an area for inclusion in the National Park System may be initiated after November 13, 1998, except as provided by specific authorization of an Act of Congress.
+
+(4) Nothing in this Act shall limit the authority of the National Park Service to conduct preliminary resource assessments, gather data on potential study areas, provide technical and planning assistance, prepare or process nominations for administrative designations, update previous studies, or complete reconnaissance surveys of individual areas requiring a total expenditure of less than $25,000.
+
+(5) Nothing in this section shall be construed to apply to or to affect or alter the study of any river segment for potential addition to the national wild and scenic rivers system or to apply to or to affect or alter the study of any trail for potential addition to the national trails system.
+
+#### (c) Report
+
+(1) The Secretary shall complete the study for each area for potential inclusion in the National Park System within 3 complete fiscal years following the date on which funds are first made available for such purposes. Each study under this section shall be prepared with appropriate opportunity for public involvement, including at least one public meeting in the vicinity of the area under study, and after reasonable efforts to notify potentially affected landowners and State and local governments.
+
+(2) In conducting the study, the Secretary shall consider whether the area under study—
+
+&emsp;(A) possesses nationally significant natural or cultural resources and represents one of the most important examples of a particular resource type in the country; and
+
+&emsp;(B) is a suitable and feasible addition to the system.
+
+(3) Each study—
+
+&emsp;(A) shall consider the following factors with regard to the area being studied—
+
+&emsp;&emsp;(i) the rarity and integrity of the resources;
+
+&emsp;&emsp;(ii) the threats to those resources;
+
+&emsp;&emsp;(iii) similar resources are already protected in the National Park System or in other public or private ownership;
+
+&emsp;&emsp;(iv) the public use potential;
+
+&emsp;&emsp;(v) the interpretive and educational potential;
+
+&emsp;&emsp;(vi) costs associated with acquisition, development and operation;
+
+&emsp;&emsp;(vii) the socioeconomic impacts of any designation;
+
+&emsp;&emsp;(viii) the level of local and general public support; and
+
+&emsp;&emsp;(ix) whether the area is of appropriate configuration to ensure long-term resource protection and visitor use;
+
+&emsp;(B) shall consider whether direct National Park Service management or alternative protection by other public agencies or the private sector is appropriate for the area;
+
+&emsp;(C) shall identify what alternative or combination of alternatives would in the professional judgment of the Director of the National Park Service be most effective and efficient in protecting significant resources and providing for public enjoyment; and
+
+&emsp;(D) may include any other information which the Secretary deems to be relevant.
+
+(4) Each study shall be completed in compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+
+(5) The letter transmitting each completed study to Congress shall contain a recommendation regarding the Secretary's preferred management option for the area.
+
+#### (d) New area study office
+
+The Secretary shall designate a single office to be assigned to prepare all new area studies and to implement other functions of this section.
+
+#### (e) List of areas
+
+At the beginning of each calendar year, along with the annual budget submission, the Secretary shall submit to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate a list of areas which have been previously studied which contain primarily historical resources, and a list of areas which have been previously studied which contain primarily natural resources, in numerical order of priority for addition to the National Park System. In developing the lists, the Secretary should consider threats to resource values, cost escalation factors, and other factors listed in subsection (c) of this section. The Secretary should only include on the lists areas for which the supporting data is current and accurate.
+
+#### (f) Authorization of appropriations
+
+For the purposes of carrying out the studies for potential new Park System units and for monitoring the welfare of those resources, there are authorized to be appropriated annually notto exceed $1,000,000. For the purposes of monitoring the welfare and integrity of the national landmarks, there are authorized to be appropriated annually not to exceed $1,500,000. For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year.
+
+(Pub. L. 91–383, §8, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, §604(1), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 96–199, title I, §104, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, §8, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 103–437, §6(b), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(I), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–391, title III, §303, Nov. 13, 1998, 112 Stat. 3501.)
+
+#### References in Text
+
+This Act, referred to in subsec. (b)(4), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, popularly known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–391, §303(1), (2), inserted heading and struck out after first sentence “At the beginning of each fiscal year, the Secretary shall transmit to the Speaker of the House of Representatives and to the President of the Senate, comprehensive reports on each of those areas upon which studies have been completed. Each such report shall indicate and elaborate on the theme(s) which the area represents as indicated in the National Park System Plan. On this same date, and accompanying such reports, the Secretary shall transmit a listing, in generally descending order of importance or merit, of not less than twelve such areas which appear to be of national significance and which may have potential for inclusion in the National Park System. Threats to resource values, and cost escalation factors shall be considered in listing the order of importance or merit. Such listing may be comprised of any areas heretofore submitted under terms of this section, and which at the time of listing are not included in the National Park System.”
+
+Pub. L. 105–391, §303(3), redesignated last two sentences as subsec. (f).
+
+Subsecs. (b) to (e). Pub. L. 105–391, §303(4), added subsecs. (b) to (e).
+
+Subsec. (f). Pub. L. 105–391, §303(3), (5), redesignated last two sentences of subsec. (a) as (f), inserted heading, and inserted at end “For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year.”
 
 1996—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: “The Secretary shall submit to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive, ‘National Park System Plan’, which document shall constitute a professional guide for the identification of natural and historic themes of the United States, and from which candidate areas can be identified and selected to constitute units of the National Park System. Such plan shall be revised and updated annually.”
 
@@ -27,6 +111,10 @@ Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Purpose of 1998 Amendment
+
+Pub. L. 105–391, title III, §302, Nov. 13, 1998, 112 Stat. 3501, provided that: “It is the purpose of this title \[amending this section and enacting provisions set out as a note under section 1 of this title\] to reform the process by which areas are considered for addition to the National Park System.”
 
 #### Revolutionary War and War of 1812 Historic Preservation Study
 
@@ -50,7 +138,7 @@ Pub. L. 102–98, Aug. 17, 1991, 105 Stat. 485, directed Secretary of the Interi
 
 #### Niobrara-Buffalo Prairie National Park Study
 
-Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the Interior to study within 18 months after May 24, 1991, feasibility and suitability of establishing Niobrara-Buffalo Prairie National Park in Nebraska, including assessment of significance of natural, cultural, historic, scenic, and recreational resources and study of feasibility of managing the area by various methods, in consultation with appropriate Federal agencies, Nature Conservancy, and Nebraska Game and Parks Commission, and directed Secretary to submit study to Congress.
+Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the Interior to study within 18 months after May 24, 1991, feasibility and suitability of establishing Niobrara-Buffalo Prairie National Park in Nebraska, including assessment of significance of natural, cultural, historic, scenic, and recreational resources and study of feasibility of managing the area by various methods, in consultation with appropriate Federal agencies, Nature Conservancy, and Nebraska Game and Parks Commission, and directed Secretary to submit study to Congress, prior to repeal by Pub. L. 105–362, title IX, §901(g)(1), Nov. 10, 1998, 112 Stat. 3290.
 
 #### Underground Railroad Study
 
@@ -70,7 +158,7 @@ Pub. L. 95–629, title IV, §401, Nov. 10, 1978, 92 Stat. 3640, directed Secret
 
 #### Crow Creek Village Archeological Site, South Dakota; Feasibility/Suitability Study; Transmittal to Congressional Committees; Cost Estimates; Site Preservation
 
-Section 512 of Pub. L. 95–625 directed Secretary to prepare and transmit to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within two years from Nov. 10, 1978, a feasibility/suitability study of Crow Creek Village archeological site, Buffalo County, South Dakota, as a unit of National Park System, including cost estimates for any necessary acquisition, development, operation and maintenance, as well as any feasible alternatives for administration and protection of area, including, but not limited to, Federal financial and technical assistance to State of South Dakota, Buffalo County or other suitable entity, and directed Secretary of the Army to take such actions as may be necessary to preserve and protect such site from any adverse impact on site and to refrain from any activities which might cause such impact until two years from date of submission of study by Secretary.
+Section 512 of Pub. L. 95–625 directed Secretary to prepare and transmit to Committee on Energy and Natural Resources of Senate and Committee on Interior and Insular Affairs of House of Representatives within two years from Nov. 10, 1978, a feasibility/suitability study of Crow Creek Village archeological site, Buffalo County, South Dakota, as a unit of National Park System, including cost estimates for any necessary acquisition, development, operation and maintenance, as well as any feasible alternatives for administration and protection of area, including, but not limited to, Federal financial and technical assistance to State of South Dakota, Buffalo County or other suitable entity, and directed Secretary of the Army to take such actions as may be necessary to preserve and protect suchsite from any adverse impact on site and to refrain from any activities which might cause such impact until two years from date of submission of study by Secretary.
 
 #### Ridgelands Area Study; Consultation and Coordination; Report to President and Congress; Authorization of Appropriations
 

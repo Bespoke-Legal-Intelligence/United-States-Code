@@ -68,6 +68,132 @@ Section 1 of Pub. L. 94–370 provided: “That this Act \[enacting section 1511
 
 Section 301 of title III of Pub. L. 89–454, as added by Pub. L. 92–583, provided that: “This title \[enacting this chapter\] may be cited as the ‘Coastal Zone Management Act of 1972’.”
 
+#### Harmful Algal Blooms and Hypoxia Research and Control
+
+Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, provided that:
+
+#### “SEC. 601. SHORT TITLE.
+
+“This title may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Act of 1998’.
+
+#### “SEC. 602. FINDINGS.
+
+“The Congress finds that—
+
+&emsp;“(1) the recent outbreak of the harmful microbe Pfiesteria piscicida in the coastal waters of the United States is one example of potentially harmful algal blooms composed of naturally occurring species that reproduce explosively and that are increasing in frequency and intensity in the Nation's coastal waters;
+
+&emsp;“(2) other recent occurrences of harmful algal blooms include red tides in the Gulf of Mexico and the Southeast; brown tides in New York and Texas; ciguatera fish poisoning in Hawaii, Florida, Puerto Rico, and the United States Virgin Islands; and shellfish poisonings in the Gulf of Maine, the Pacific Northwest, and the Gulf of Alaska;
+
+&emsp;“(3) in certain cases, harmful algal blooms have resulted in fish kills, the deaths of numerous endangered West Indian manatees, beach and shellfish bed closures, threats to public health and safety, and concern among the public about the safety of seafood;
+
+&emsp;“(4) according to some scientists, the factors causing or contributing to harmful algal blooms may include excessive nutrients in coastal waters, other forms of pollution, the transfer of harmful species through ship ballast water, and ocean currents;
+
+&emsp;“(5) harmful algal blooms may have been responsible for an estimated $1,000,000,000 in economic losses during the past decade;
+
+&emsp;“(6) harmful algal blooms and blooms of non-toxic algal species may lead to other damaging marine conditions such as hypoxia (reduced oxygen concentrations), which are harmful or fatal to fish, shellfish, and benthic organisms;
+
+&emsp;“(7) according to the National Oceanic and Atmospheric Administration in the Department of Commerce, 53 percent of United States estuaries experience hypoxia for at least part of the year and a 7,000 square mile area in the Gulf of Mexico off Louisiana and Texas suffers from hypoxia;
+
+&emsp;“(8) according to some scientists, a factor believed to cause hypoxia is excessive nutrient loading into coastal waters;
+
+&emsp;“(9) there is a need to identify more workable and effective actions to reduce nutrient loadings to coastal waters;
+
+&emsp;“(10) the National Oceanic and Atmospheric Administration, through its ongoing research, education, grant, and coastal resource management programs, possesses a full range of capabilities necessary to support a near and long-term comprehensive effort to prevent, reduce, and control harmful algal blooms and hypoxia;
+
+&emsp;“(11) funding for the research and related programs of the National Oceanic and Atmospheric Administration will aid in improving the Nation's understanding and capabilities for addressing the human and environmental costs associated with harmful algal blooms and hypoxia; and
+
+&emsp;“(12) other Federal agencies such as the Environmental Protection Agency, the Department of Agriculture, and the National Science Foundation, along with the States, Indian tribes, and local governments, conduct important work related to the prevention, reduction, and control of harmful algal blooms and hypoxia.
+
+#### “SEC. 603. ASSESSMENTS.
+
+“(a)
+
+Establishment of Inter-Agency Task Force.—The President, through the Committee on Environment and Natural Resources of the National Science and Technology Council, shall establish an Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia (hereinafter referred to as the ‘Task Force’). The Task Force shall consist of the following representatives from—
+
+&emsp;“(1) the Department of Commerce (who shall serve as Chairman of the Task Force);
+
+&emsp;“(2) the Environmental Protection Agency;
+
+&emsp;“(3) the Department of Agriculture;
+
+&emsp;“(4) the Department of the Interior;
+
+&emsp;“(5) the Department of the Navy;
+
+&emsp;“(6) the Department of Health and Human Services;
+
+&emsp;“(7) the National Science Foundation;
+
+&emsp;“(8) the National Aeronautics and Space Administration;
+
+&emsp;“(9) the Food and Drug Administration;
+
+&emsp;“(10) the Office of Science and Technology Policy;
+
+&emsp;“(11) the Council on Environmental Quality; and
+
+&emsp;“(12) such other Federal agencies as the President considers appropriate.
+
+“(b)
+
+Assessment of Harmful Algal Blooms.—
+
+&emsp;“(1) Not later than 12 months after the date of the enactment of this title \[Nov. 13, 1998\], the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
+
+&emsp;“(2) The assessment shall—
+
+&emsp;&emsp;“(A) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to harmful algal blooms; and
+
+&emsp;&emsp;“(B) provide for Federal cooperation and coordination with and assistance to the coastal States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of harmful algal blooms and their environmental and public health impacts.
+
+“(c)
+
+Assessment of Hypoxia.—
+
+&emsp;“(1) Not later than 12 months after the date of the enactment of this title \[Nov. 13, 1998\], the Task Force, in cooperation with the States, Indian tribes, local governments, industry, agricultural, academic institutions, and non-governmental organizations with expertise in watershed and coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of hypoxia in United States coastal waters, alternatives for reducing, mitigating, and controlling hypoxia, and the social and economic costs and benefits of such alternatives.
+
+&emsp;“(2) The assessment shall—
+
+&emsp;&emsp;“(A) establish needs, priorities, and guidelines for a peer-reviewed, inter-agency research program on the causes, characteristics, and impacts of hypoxia;
+
+&emsp;&emsp;“(B) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to hypoxia; and
+
+&emsp;&emsp;“(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
+
+“(e)\[(d)\]
+
+Disestablishment of Task Force.—The President may disestablish the Task Force after submission of the plan in section 604(d) \[604(b)\].
+
+#### “SEC. 604. NORTHERN GULF OF MEXICO HYPOXIA.
+
+“(a)
+
+Assessment Report.—Not later than May 30, 1999, the Task Force shall complete and submit to Congress and the President an integrated assessment of hypoxia in the northern Gulf of Mexico that examines: the distribution, dynamics, and causes; ecological and economic consequences; sources and loads of nutrients transported by the Mississippi River to the Gulf of Mexico; effects of reducing nutrient loads; methods for reducing nutrient loads; and the social and economic costs and benefits of such methods.
+
+“(b)
+
+Submission of a Plan.—No later than March 30, 2000, the President, in conjunction with the chief executive officers of the States, shall develop and submit to Congress a plan, based on the integrated assessment submitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the northern Gulf of Mexico. In developing such plan, the President shall consult with State, Indian tribe, and local governments, academic, agricultural, industry, and environmental groups and representatives. Such plan shall include incentive-based partnership approaches. The plan shall also include the social and economic costs and benefits of the measures for reducing, mitigating, and controlling hypoxia. At least 90 days before the President submits such plan to the Congress, a summary of the proposed plan shall be published in the Federal Register for a public comment period of not less than 60 days.
+
+#### “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, and $19,000,000 for fiscal year 2001, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
+
+&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, and $2,000,000 for fiscal year 2001 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessmentactivities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
+
+&emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, and $5,500,000 for fiscal year 2001 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
+
+&emsp;“(3) $1,000,000 for fiscal year 1999, $2,000,000 for fiscal year 2000, and $2,000,000 for fiscal year 2001 may be used by the National Ocean Service of the National Oceanic and Atmospheric Administration to carry out a peer-reviewed research project on management measures that can be taken to prevent, reduce, control, and mitigate harmful algal blooms;
+
+&emsp;“(4) $5,500,000 for each of the fiscal years 1999, 2000, and 2001 may be used to carry out Federal and State annual monitoring and analysis activities for harmful algal blooms administered by the National Ocean Service of the National Oceanic and Atmospheric Administration; and
+
+&emsp;“(5) $3,000,000 for fiscal year 1999, $3,750,000 for fiscal year 2000, and $4,000,000 for fiscal year 2001 may be used for activities related to research and monitoring on hypoxia by the National Ocean Service and the Office of Oceanic and Atmospheric Research of the National Oceanic and Atmospheric Administration.
+
+#### “SEC. 606. PROTECTION OF STATES’ RIGHTS.
+
+“(a) Nothing in this title shall be interpreted to adversely affect existing State regulatory or enforcement power which has been granted to any State through the Clean Water Act \[33 U.S.C. 1251 et seq.\] or Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\].
+
+“(b) Nothing in this title shall be interpreted to expand the regulatory or enforcement power of the Federal Government which has been delegated to any State through the Clean Water Act or Coastal Zone Management Act of 1972.”
+
 #### Findings and Purpose of Coastal Zone Act Reauthorization Amendments of 1990
 
 Section 6202 of Pub. L. 101–508 provided that:
@@ -105,4 +231,40 @@ Section 15(c) of Pub. L. 94–370 related to establishment and compensation of f
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Ex. Ord. No. 13089. Coral Reef Protection
+
+Ex. Ord. No. 13089, June 11, 1998, 63 F.R. 32701, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the Clean Water Act of 1977, as amended (33 U.S.C. 1251, <i>et seq</i>.), Coastal Zone Management Act (16 U.S.C. 1451, <i>et seq</i>.), Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801, <i>et seq</i>.), National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321, <i>et seq</i>.), National Marine Sanctuaries Act, (16 U.S.C. 1431, <i>et seq</i>.), National Park Service Organic Act (16 U.S.C. 1, <i>et seq</i>.), National Wildlife Refuge System Administration Act (16 U.S.C. 668dd–ee), and other pertinent statutes, to preserve and protect the biodiversity, health, heritage, and social and economic value of U.S. coral reef ecosystems and the marine environment, it is hereby ordered as follows:
+
+Section 1. <i>Definitions</i>. (a) “U.S. coral reef ecosystems” means those species, habitats, and other natural resources associated with coral reefs in all maritime areas and zones subject to the jurisdiction or control of the United States (e.g., Federal, State, territorial, or commonwealth waters), including reef systems in the south Atlantic, Caribbean, Gulf of Mexico, and Pacific Ocean. (b) “U.S. Coral Reef Initiative” is an existing partnership between Federal agencies and State, territorial, commonwealth, and local governments, nongovernmental organizations, and commercial interests to design and implement additional management, education, monitoring, research, and restoration efforts to conserve coral reef ecosystems for the use and enjoyment of future generations. The existing U.S. Islands Coral Reef Initiative strategy covers approximately 95 percent of U.S. coral reef ecosystems and is a key element of the overall U.S. Coral Reef Initiative. (c) “International Coral Reef Initiative” is an existing partnership, founded by the United States in 1994, of governments, intergovernmental organizations, multilateral development banks, nongovernmental organizations, scientists, and the private sector whose purpose is to mobilize governments and other interested parties whose coordinated, vigorous, and effective actions are required to address the threats to the world's coral reefs.
+
+Sec. 2. <i>Policy</i>. (a) All Federal agencies whose actions may affect U.S. coral reef ecosystems shall: (a) identify their actions that may affect U.S. coral reef ecosystems; (b) utilize their programs and authorities to protect and enhance the conditions of such ecosystems; and (c) to the extent permitted by law, ensure that any actions they authorize, fund, or carry out will not degrade the conditions of such ecosystems.
+
+(b) Exceptions to this section may be allowed under terms prescribed by the heads of Federal agencies:
+
+(1) during time of war or national emergency;
+
+(2) when necessary for reasons of national security, as determined by the President;
+
+(3) during emergencies posing an unacceptable threat to human health or safety or to the marine environment and admitting of no other feasible solution; or
+
+(4) in any case that constitutes a danger to human life or a real threat to vessels, aircraft, platforms, or other man-made structures at sea, such as cases of <i>force majeure</i> caused by stress of weather or other act of God.
+
+Sec. 3. <i>Federal Agency Responsibilities</i>. In furtherance of section 2 of this order, Federal agencies whose actions affect U.S. coral reef ecosystems, shall, subject to the availability of appropriations, provide for implementation of measures needed to research, monitor, manage, and restore affected ecosystems, including, but not limited to, measures reducing impacts from pollution, sedimentation, and fishing. To the extent not inconsistent with statutory responsibilities and procedures, these measures shall be developed in cooperation with the U.S. Coral Reef Task Force and fishery management councils and in consultation with affected States, territorial, commonwealth, tribal, and local government agencies, nongovernmental organizations, the scientific community, and commercial interests.
+
+Sec. 4. <i>U.S. Coral Reef Task Force</i>. The Secretary of the Interior and the Secretary of Commerce, through the Administrator of the National Oceanic and Atmospheric Administration, shall co-chair a U.S. Coral Reef Task Force (“Task Force”), whose members shall include, but not be limited to, the Administrator of the Environmental Protection Agency, the Attorney General, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Defense, the Secretary of State, the Secretary of Transportation, the Director of the National Science Foundation, the Administrator of the Agency for International Development, and the Administrator of the National Aeronautics and Space Administration. The Task Force shall oversee implementation of the policy and Federal agency responsibilities set forth in this order, and shall guide and support activities under the U.S. Coral Reef Initiative (“CRI”). All Federal agencies whose actions may affect U.S. coral reef ecosystems shall review their participation in the CRI and the strategies developed under it, including strategies and plans of State, territorial, commonwealth, and local governments, and, to the extent feasible, shall enhance Federal participation and support of such strategies and plans. The Task Force shall work in cooperation with State, territorial, commonwealth, and local government agencies, nongovernmental organizations, the scientific community, and commercial interests.
+
+Sec. 5. <i>Duties of the U.S. Coral Reef Task Force</i>. (a) <i>Coral Reef Mapping and Monitoring</i>. The Task Force, in cooperation with State, territory, commonwealth, and local government partners, shall coordinate a comprehensive program to map and monitor U.S. coral reefs. Such programs shall include, but not be limited to, territories and commonwealths, special marine protected areas such as National Marine Sanctuaries, National Estuarine Research Reserves, National Parks, National Wildlife Refuges, and other entities having significant coral reef resources. To the extent feasible, remote sensing capabilities shall be developed and applied to this program and local communities should be engaged in the design and conduct of programs.
+
+(b) <i>Research</i>. The Task Force shall develop and implement, with the scientific community, research aimed at identifying the major causes and consequences of degradation of coral reef ecosystems. This research shall include fundamental scientific research to provide a sound framework for the restoration and conservation of coral reef ecosystems worldwide. To the extent feasible, existing and planned environmental monitoring and mapping programs should be linked with scientific research activities. This Executive order shall not interfere with the normal conduct of scientific studies on coral reef ecosystems.
+
+(c) <i>Conservation, Mitigation, and Restoration</i>. The Task Force, in cooperation with State, territorial, commonwealth, and local government agencies, nongovernmental organizations, the scientific community and commercial interests, shall develop, recommend, and seek or secure implementation of measures necessary to reduce and mitigate coral reef ecosystem degradation and to restore damaged coral reefs. These measures shall include solutions to problems such as land-based sources of water pollution, sedimentation, detrimental alteration of salinity or temperature, over-fishing, over-use, collection of coral reef species, and direct destruction caused by activities such as recreational and commercial vessel traffic and treasure salvage. In developing these measures, the Task Force shall review existing legislation to determine whether additional legislation is necessary to complement the policy objectives of this order and shall recommend such legislation if appropriate. The Task Force shall further evaluate existing navigational aids, including charts, maps, day markers, and beacons to determine if the designation of the location of specific coral reefs should be enhanced through the use, revision, or improvement of such aids.
+
+(d) <i>International Cooperation</i>. The Secretary of State and the Administrator of the Agency for International Development, in cooperation with other members of the Coral Reef Task Force and drawing upon their expertise, shall assess the U.S. role in international trade and protection of coral reef species and implement appropriate strategies and actions to promote conservation and sustainable use of coral reef resources worldwide. Such actions shall include expanded collaboration with other International Coral Reef Initiative (“ICRI”) partners, especially governments, to implement the ICRI through its Framework for Action and the Global Coral Reef Monitoring Network at regional, national, and local levels.
+
+Sec. 6. This order does not create any right or benefit, substantive or procedural, enforceable in law or equity by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

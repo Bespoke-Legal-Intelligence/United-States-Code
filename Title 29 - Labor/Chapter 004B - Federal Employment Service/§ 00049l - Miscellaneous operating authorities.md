@@ -18,5 +18,5 @@ A prior section 49<i>l</i>, act June 6, 1933, ch. 49, §13, 48 Stat. 117, relati
 
 #### Effective Date
 
-Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which is classified to section 1591(i) of this title.
+Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 

@@ -1,11 +1,6 @@
 ## PART I—ORGANIZATION AND ADMINISTRATION
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1001.</b>](Chapter%201001%20-%20Definitions/README.md) | <b>Definitions</b> | <b>10001</b> |
 | [<b>1003.</b>](Chapter%201003%20-%20Reserve%20Components%20Generally/README.md) | <b>Reserve Components Generally</b> | <b>10101</b> |

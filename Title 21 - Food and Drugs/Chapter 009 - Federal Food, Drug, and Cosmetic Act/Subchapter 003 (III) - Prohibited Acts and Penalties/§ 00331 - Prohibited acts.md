@@ -34,7 +34,7 @@ The following acts and the causing thereof are prohibited:
 
 (n) The using, in labeling, advertising or other sales promotion of any reference to any report or analysis furnished in compliance with section 374 of this title.
 
-(<i>o</i>) In the case of a prescription drug distributed or offered for sale in interstate commerce, the failure of the manufacturer, packer, or distributor thereof to maintain for transmittal, or to transmit, to any practitioner licensed by applicable State law to administer such drug who makes written request for information as to such drug, true and correct copies of all printedmatter which is required to be included in any package in which that drug is distributed or sold, or such other printed matter as is approved by the Secretary. Nothing in this paragraph shall be construed to exempt any person from any labeling requirement imposed by or under other provisions of this chapter.
+(<i>o</i>) In the case of a prescription drug distributed or offered for sale in interstate commerce, the failure of the manufacturer, packer, or distributor thereof to maintain for transmittal, or to transmit, to any practitioner licensed by applicable State law to administer such drug who makes written request for information as to such drug, true and correct copies of all printed matter which is required to be included in any package in which that drug is distributed or sold, or such other printed matter as is approved by the Secretary. Nothing in this paragraph shall be construed to exempt any person from any labeling requirement imposed by or under other provisions of this chapter.
 
 (p) The failure to register in accordance with section 360 of this title, the failure to provide any information required by section 360(j) or 360(k) of this title, or the failure to provide a notice required by section 360(j)(2) of this title.
 
@@ -46,7 +46,7 @@ The following acts and the causing thereof are prohibited:
 
 (s) The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title, the failure to retain the records required by section 350a(b)(4) of this title, or the failure to meet the requirements prescribed under section 350a(f)(3) of this title.
 
-(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
+(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
 
 (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 103–396 effective upon adoption of final regulations unde
 
 #### Effective Date of 1990 Amendment
 
-Section 4755(c)(2) of Pub. L. 101–508 provided that the amendment made by that section is effective as if included in subtitle D of title VI of the Omnibus BudgetReconciliation Act of 1989, Pub. L. 101–239, title VI, §§6601, 6602, Dec. 19, 1989, 103 Stat. 2285, see 42 U.S.C. 300aa–1 note, 300aa–10 note.
+Section 4755(c)(2) of Pub. L. 101–508 provided that the amendment made by that section is effective as if included in subtitle D of title VI of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, title VI, §§6601, 6602, Dec. 19, 1989, 103 Stat. 2285, see 42 U.S.C. 300aa–1 note, 300aa–10 note.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 The Commission shall establish standard specifications upon which it may grant a patent license to use any patent declared to be affected with the public interest pursuant to section 2183(a) of this title. Such a patent license shall not waive any of the other provisions of this chapter.
 
-(Aug. 1, 1946, ch. 724, title I, §156, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Dec. 12, 1980, Pub. L. 96–517, §7(a), 94 Stat. 3027; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §156, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Pub. L. 96–517, §7(a), Dec. 12, 1980, 94 Stat. 3027; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

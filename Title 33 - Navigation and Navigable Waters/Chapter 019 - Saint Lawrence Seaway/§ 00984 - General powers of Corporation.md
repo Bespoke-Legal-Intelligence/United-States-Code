@@ -14,7 +14,7 @@
 
 &emsp;(6) shall be held to be an inhabitant and resident of the northern judicial district of New York within the meaning of the laws of the United States relating to venue of civil suits;
 
-&emsp;(7) may appoint and fix the compensation, in accordance with the provisions of chapter 51and subchapter III of chapter 53 of title 5, of such officers, attorneys, and employees as may be necessary for the conduct of its business, define their authority and duties, and delegate to them such of the powers vested in the Corporation as the Administrator may determine;
+&emsp;(7) may appoint and fix the compensation, in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, of such officers, attorneys, and employees as may be necessary for the conduct of its business, define their authority and duties, and delegate to them such of the powers vested in the Corporation as the Administrator may determine;
 
 &emsp;(8) may acquire, by purchase, lease, condemnation, or donation such real and personal property and any interest therein, and may sell, lease, or otherwise dispose of such real and personal property, as the Administrator deems necessary for the conduct of its business;
 

@@ -6,7 +6,7 @@ Subject to the exceptions prescribed in section 662(h) of this title, whenever t
 
 #### (b) Use and availability of waters, land, or interests therein
 
-The use of such waters, land, or interests therein for wildlife conservation purposes shall be in accordance with general plans approved jointly (1) by the head of the particular department or agency exercising primary administration in each instance, (2) by the Secretary of the Interior, and (3) by the head of the agency exercising the administration of the wildlife resources of the particular State wherein the waters and areas lie. Such waters and other interests shall be made available, without cost for administration, by such State agency, if the management of the properties relate to the conservation of wildlife other than migratory birds, or by the Secretary of the Interior, for administration in such manner as he may deem advisable, where the particular properties have value in carrying out the national migratory bird management program: <i>Provided</i>, That nothing in this section shall be construed as affecting the authority of the Secretary of Agriculture to cooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
+The use of such waters, land, or interests therein for wildlife conservation purposes shall be in accordance with general plans approved jointly (1) by the head of the particular department or agency exercising primary administration in each instance, (2) by the Secretary of the Interior, and (3) by the head of the agency exercising the administration of the wildlife resources of the particular State wherein the waters and areas lie. Such waters and other interests shall be made available, without cost for administration, by such State agency, if the management of the properties relate to the conservation of wildlife other than migratory birds,or by the Secretary of the Interior, for administration in such manner as he may deem advisable, where the particular properties have value in carrying out the national migratory bird management program: <i>Provided</i>, That nothing in this section shall be construed as affecting the authority of the Secretary of Agriculture to cooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
 
 #### (c) Acquisition of land, waters, and interests therein; report to Congress
 
@@ -24,7 +24,7 @@ Federal lands acquired or withdrawn for Federal water-resource purposes and made
 
 Any lands acquired pursuant to this section by any Federal agency within the exterior boundaries of a national forest shall, upon acquisition, be added to and become national forest lands, and shall be administered as a part of the forest within which they are situated, subject to all laws applicable to lands acquired under the provisions of the Act of March 1, 1911 (36 Stat. 961), unless such lands are acquired to carry out the National Migratory Bird Management Program.
 
-(Mar. 10, 1934, ch. 55, §3, 48 Stat. 401; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Aug. 12, 1958, Pub. L. 85–624, §2, 72 Stat. 566.)
+(Mar. 10, 1934, ch. 55, §3, 48 Stat. 401; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1080; Pub. L. 85–624, §2, Aug. 12, 1958, 72 Stat. 566.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat
 
 1958—Subsec. (a). Pub. L. 85–624 designated first sentence of existing provisions as subsec. (a), and, among other changes, inserted “Subject to the exceptions prescribed in section 662(h) of this title” before “whenever the waters”, substituted “diverted, the channel deepened, or the stream or other body of water otherwise controlled or modified for any purpose whatever, including navigation and drainage” for “diverted, or otherwise controlled for any purpose whatever”, and inserted provisions requiring adequate provision to be made for the development and improvement of wildlife resources pursuant to the provisions of section 662 of this title.
 
-Subsec. (b). Pub. L. 85–624 designated second sentence of existing provisions as subsec. (b), included the use of land for wildlife conservation purpose, and provided that nothing in this section shall be construed as effecting the authority of the Secretary of Agriculture tocooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
+Subsec. (b). Pub. L. 85–624 designated second sentence of existing provisions as subsec. (b), included the use of land for wildlife conservation purpose, and provided that nothing in this section shall be construed as effecting the authority of the Secretary of Agriculture to cooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
 
 Subsecs. (c) to (f). Pub. L. 85–624 added subsecs. (c) to (f).
 

@@ -1,6 +1,0 @@
-### §980. Nonpolitical nature of corporation
-
-The corporation and its members, governors, officers, and employees as such shall not contribute to or otherwise support or assist any political party or candidate for public office.
-
-(Pub. L. 86–680, §10, Aug. 31, 1960, 74 Stat. 576.)
-

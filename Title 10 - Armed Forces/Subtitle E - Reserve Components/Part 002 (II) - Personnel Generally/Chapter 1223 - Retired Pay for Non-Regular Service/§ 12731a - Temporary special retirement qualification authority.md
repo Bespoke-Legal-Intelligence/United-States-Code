@@ -6,17 +6,17 @@ Retirement With At Least 15
 
 Years of Service.—For the purposes of section 12731 of this title, the Secretary concerned may—
 
-&emsp;(1) during the period described in subsection (b), determine to treat a member of the Selected Reserve of a reserve component of thearmed force under the jurisdiction of that Secretary as having met the service requirements of subsection (a)(2) of that section and provide the member with the notification required by subsection (d) of that section if the member—
+&emsp;(1) during the period described in subsection (b), determine to treat a member of the Selected Reserve of a reserve component of the armed force under the jurisdiction of that Secretary as having met the service requirements of subsection (a)(2) of that section and provide the member with the notification required by subsection (d) of that section if the member—
 
 &emsp;&emsp;(A) as of October 1, 1991, has completed at least 15, and less than 20, years of service computed under section 12732 of this title; or
 
-&emsp;&emsp;(B) after that date and before October 1, 1999, completes 15 years of service computed under that section; and
+&emsp;&emsp;(B) after that date and before October 1, 2001, completes 15 years of service computed under that section; and
 
 &emsp;(2) upon the request of the member submitted to the Secretary, transfer the member to the Retired Reserve.
 
 (b)
 
-Period of Authority.—The period referred to in subsection (a)(1) is the period beginning on October 23, 1992, and ending on October 1, 1999.
+Period of Authority.—The period referred to in subsection (a)(1) is the period beginning on October 23, 1992, and ending on October 1, 2001.
 
 (c)
 
@@ -34,13 +34,15 @@ Exclusion.—This section does not apply to persons referred to in section 12731
 
 Regulations.—The authority provided in this section shall be subject to regulations prescribed by the Secretary of Defense and by the Secretary of Transportation with respect to the Coast Guard.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4417(a), Oct. 23, 1992, 106 Stat. 2716, §1331a; amended Pub. L. 103–35, title II, §201(f)(2), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §§561(f)(4), 564(c), Nov. 30, 1993, 107 Stat. 1668, 1670; renumbered §12731a and amended Pub. L. 103–337, div. A, title V, §517, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2754, 2998, 3000; Pub. L. 104–106, div. A, title XV, §1501(b)(21), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4417(a), Oct. 23, 1992, 106 Stat. 2716, §1331a; amended Pub. L. 103–35, title II, §201(f)(2), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §§561(f)(4), 564(c), Nov. 30, 1993, 107 Stat. 1668, 1670; renumbered §12731a and amended Pub. L. 103–337, div. A, title V, §517, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2754, 2998, 3000; Pub. L. 104–106, div. A, title XV, §1501(b)(21), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(2), Oct. 17, 1998, 112 Stat. 2026.)
 
 #### References in Text
 
 Section 4414(a) of the National Defense Authorization Act for Fiscal Year 1993 and section 4415(2) of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (c)(2), (3), are sections 4414(a) and 4415(2) of Pub. L. 102–484, which are set out in a note under section 12681 of this title.
 
 #### Amendments
+
+1998—Subsec. (a)(1)(B), (b). Pub. L. 105–261 substituted “October 1, 2001” for “October 1, 1999”.
 
 1996—Subsec. (c)(3). Pub. L. 104–106 inserted comma after “Defense Conversion”.
 

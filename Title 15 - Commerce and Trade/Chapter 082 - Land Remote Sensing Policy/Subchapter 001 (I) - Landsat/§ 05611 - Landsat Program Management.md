@@ -6,7 +6,7 @@ The Administrator and the Secretary of Defense shall be responsible for manageme
 
 #### (b) Management plan
 
-The Administrator, the Secretary of Defense, and any other United States Government official the President designates as responsible for part of the Landsat program, shall establish, through a management plan, the roles, responsibilities, and funding expectations for the Landsat Program <sup>1</sup> of the appropriate UnitedStates Government agencies. The management plan shall—
+The Administrator, the Secretary of Defense, and any other United States Government official the President designates as responsible for part of the Landsat program, shall establish, through a management plan, the roles, responsibilities, and funding expectations for the Landsat Program <sup>1</sup> of the appropriate United States Government agencies. The management plan shall—
 
 &emsp;(1) specify that the fundamental goal of the Landsat Program Management is the continuity of unenhanced Landsat data through the acquisition and operation of a Landsat 7 satellite as quickly as practicable which is, at a minimum, functionally equivalent to the Landsat 6 satellite, with the addition of a tracking and data relay satellite communications capability;
 

@@ -6,7 +6,7 @@
 
 (c) To the maximum extent possible and consistent with the kind, timeliness, quality and scope of the statistics required, the Secretary shall acquire and use information available from any source referred to in subsection (a) or (b) of this section instead of conducting direct inquiries.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Aug. 28, 1957, Pub. L. 85–207, §3, 71 Stat. 481; Oct. 17, 1976, Pub. L. 94–521, §5(a), 90 Stat. 2460.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Pub. L. 85–207, §3, Aug. 28, 1957, 71 Stat. 481; Pub. L. 94–521, §5(a), Oct. 17, 1976, 90 Stat. 2460.)
 
 #### Historical and Revision Notes
 

@@ -10,7 +10,7 @@
 
 &emsp;(ii) motion filed with the panel by a party in any action in which transfer for coordinated or consolidated pretrial proceedings under this section may be appropriate. A copy of such motion shall be filed in the district court in which the moving party's action is pending.
 
-The panel shall give notice to the parties in all actions in which transfers for coordinated or consolidated pretrial proceedings are contemplated, and such notice shall specify the time and place of any hearing to determine whether such transfer shall be made. Orders of the panel to set a hearing and other orders of the panel issued prior to the order either directing or denying transfer shall be filed in the office of the clerk of the district court in which a transfer hearing is to be or has been held. The panel's order of transfer shall be based upon a record of such hearing at which material evidence may be offered by any party to an action pending in any district that would be affected by the proceedings under this section, and shall be supported by findings of fact and conclusions of law based upon such record. Orders of transfer and such other orders as the panel may makethereafter shall be filed in the office of the clerk of the district court of the transferee district and shall be effective when thus filed. The clerk of the transferee district court shall forthwith transmit a certified copy of the panel's order to transfer to the clerk of the district court from which the action is being transferred. An order denying transfer shall be filed in each district wherein there is a case pending in which the motion for transfer has been made.
+The panel shall give notice to the parties in all actions in which transfers for coordinated or consolidated pretrial proceedings are contemplated, and such notice shall specify the time and place of any hearing to determine whether such transfer shall be made. Orders of the panel to set a hearing and other orders of the panel issued prior to the order either directing or denying transfer shall be filed in the office of the clerk of the district court in which a transfer hearing is to be or has been held. The panel's order of transfer shall be based upon a record of such hearing at which material evidence may be offered by any party to an action pending in any district that would be affected by the proceedings under this section, and shall be supported by findings of fact and conclusions of law based upon such record. Orders of transfer and such other orders as the panel may make thereafter shall be filed in the office of the clerk of the district court of the transferee district and shall be effective when thus filed. The clerk of the transferee district court shall forthwithtransmit a certified copy of the panel's order to transfer to the clerk of the district court from which the action is being transferred. An order denying transfer shall be filed in each district wherein there is a case pending in which the motion for transfer has been made.
 
 (d) The judicial panel on multidistrict litigation shall consist of seven circuit and district judges designated from time to time by the Chief Justice of the United States, no two of whom shall be from the same circuit. The concurrence of four members shall be necessary to any action by the panel.
 
@@ -32,7 +32,7 @@ Section 4C of the Clayton Act, referred to in subsec. (h), is section 4C of act 
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–435 added subsec. (h).
+1976—Pub. L. 94–435 added subsec. (h).
 
 #### Section Referred to in Other Sections
 
@@ -40,7 +40,7 @@ This section is referred to in section 2112 of this title; title 15 section 78u;
 
 ### <b>RULES OF PROCEDURE OF THE JUDICIAL PANEL ON MULTIDISTRICT LITIGATION</b>
 
-#### <i>(Adopted February 26, 1981, effective June 1, 1981, as amended to November 2, 1998)</i>
+#### <i>(Adopted February 26, 1981, effective June 1, 1981, as amended to January 5, 1999)</i>
 
 #### I. GENERAL RULES/RULES FOR MULTIDISTRICT LITIGATION UNDER 28 U.S.C. §1407
 
@@ -336,7 +336,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 ### Rule 7.3: Show Cause Orders
 
-(a) When transfer of multidistrict litigation is being considered on the initiative of the Panel pursuant to 28 U.S.C. §1407(c)(i), an order shall be filed by the Clerk of the Panel directing the parties to show cause why the action or actions should not be transferred for coordinated or consolidated pretrial proceedings. Any party or counsel in such actions shall promptly notify the Clerk of the Panel of any other federal district court actions related to the litigation encompassed by the show cause order. Such notification shall be made for additional actions pending at the time of the issuance of the show cause order and whenever new actions are filed.
+(a) When transfer of multidistrict litigation is being considered on the initiative of the Panelpursuant to 28 U.S.C. §1407(c)(i), an order shall be filed by the Clerk of the Panel directing the parties to show cause why the action or actions should not be transferred for coordinated or consolidated pretrial proceedings. Any party or counsel in such actions shall promptly notify the Clerk of the Panel of any other federal district court actions related to the litigation encompassed by the show cause order. Such notification shall be made for additional actions pending at the time of the issuance of the show cause order and whenever new actions are filed.
 
 (b) Any party may file a response to the show cause order within twenty days of the filing of said order unless otherwise provided for in the order. Failure of a party to respond to a show cause order shall be treated as that party's acquiescence to the Panel action contemplated in the order.
 
@@ -382,7 +382,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 In the absence of unusual circumstances—
 
-(a) Actions terminated in the transferee district court by valid judgment, including but not limited to summary judgment, judgment of dismissal and judgment upon stipulation, shall not be remanded by the Panel and shall be dismissed by the transferee district court. The clerk of the transferee district court shall send a copy of the order terminating the action to the Clerk of the Panel but shall retain the original files and records unless otherwise directed by the transferee judge or by the Panel.
+(a) Actions terminated in the transferee district court by valid judgment, including but not limited to summary judgment, judgment of dismissal and judgment upon stipulation, shall notbe remanded by the Panel and shall be dismissed by the transferee district court. The clerk of the transferee district court shall send a copy of the order terminating the action to the Clerk of the Panel but shall retain the original files and records unless otherwise directed by the transferee judge or by the Panel.
 
 (b) Each action transferred only for coordinated or consolidated pretrial proceedings that has not been terminated in the transferee district court shall be remanded by the Panel to the transferor district for trial. Actions that were originally filed in the transferee district require no action by the Panel to be reassigned to another judge in the transferee district at the conclusion of the coordinated or consolidated pretrial proceedings affecting those actions.
 
@@ -430,7 +430,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 (a) Hearings shall be held as ordered by the Panel. The Panel shall convene whenever and wherever desirable or necessary in the judgment of the Chairman. The Chairman shall determine which matters shall be set for hearing at each session and the Clerk of the Panel shall give notice to counsel for all parties involved in the litigation of the time, place and subject matter of such hearing.
 
-(b) No transfer or remand determination regarding any action pending in district court shall be made by the Panel when any party timely opposes such transfer or remand unless ahearing has been held or unless the matter has been submitted on the briefs in accordance with Rule 16.2 of these Rules. Unless otherwise ordered by the Panel, all other matters before the Panel, such as a motion for reconsideration, shall be considered and determined upon the basis of the papers filed.
+(b) No transfer or remand determination regarding any action pending in district court shall be made by the Panel when any party timely opposes such transfer or remand unless a hearing has been held or unless the matter has been submitted on the briefs in accordance with Rule 16.2 of these Rules. Unless otherwise ordered by the Panel, all other matters before thePanel, such as a motion for reconsideration, shall be considered and determined upon the basis of the papers filed.
 
 (c) Except for leave of the Panel on a showing of good cause, only those parties to actions scheduled for hearing who have filed a motion or written response to a motion or order shall be permitted to appear before the Panel and present oral argument.
 

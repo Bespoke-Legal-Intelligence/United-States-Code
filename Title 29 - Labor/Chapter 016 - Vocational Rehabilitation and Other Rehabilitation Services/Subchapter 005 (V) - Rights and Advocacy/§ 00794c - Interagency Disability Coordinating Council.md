@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-There is hereby established an Interagency Disability Coordinating Council (hereafter in this section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, and such other officials as may be designated by the President.
+There is hereby established an Interagency Disability Coordinating Council (hereafter inthis section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, and such other officials as may be designated by the President.
 
 #### (b) Duties
 
 The Council shall—
 
-&emsp;(1) have the responsibility for developing and implementing agreements, policies, and practices designed to maximize effort, promote efficiency, and eliminate conflict, competition, duplication, and inconsistencies among the operations, functions, and jurisdictions of thevarious departments, agencies, and branches of the Federal Government responsible for the implementation and enforcement of the provisions of this subchapter, and the regulations prescribed thereunder;
+&emsp;(1) have the responsibility for developing and implementing agreements, policies, and practices designed to maximize effort, promote efficiency, and eliminate conflict, competition, duplication, and inconsistencies among the operations, functions, and jurisdictions of the various departments, agencies, and branches of the Federal Government responsible for the implementation and enforcement of the provisions of this subchapter, and the regulations prescribed thereunder;
 
 &emsp;(2) be responsible for developing and implementing agreements, policies, and practices designed to coordinate operations, functions, and jurisdictions of the various departments and agencies of the Federal Government responsible for promoting the full integration into society, independence, and productivity of individuals with disabilities; and
 
@@ -35,8 +35,4 @@ Pub. L. 99–506, §1001(f)(4), which directed the substitution of “Chairperso
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2215, 2231 of this title.
 

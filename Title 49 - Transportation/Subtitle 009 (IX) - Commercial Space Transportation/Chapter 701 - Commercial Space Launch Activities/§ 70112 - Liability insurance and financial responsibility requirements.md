@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) When a license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
+General Requirements.—(1) When a launch or reentry license is issued or transferred under this chapter, the licensee or transferee shall obtain liability insurance or demonstrate financial responsibility in amounts to compensate for the maximum probable loss from claims by—
 
 &emsp;(A) a third party for death, bodily injury, or property damage or loss resulting from an activity carried out under the license; and
 
@@ -10,7 +10,7 @@ General Requirements.—(1) When a license is issued or transferred under this c
 
 (2) The Secretary of Transportation shall determine the amounts required under paragraph (1)(A) and (B) of this subsection, after consulting with the Administrator of the National Aeronautics and Space Administration, the Secretary of the Air Force, and the heads of other appropriate executive agencies.
 
-(3) For the total claims related to one launch, a licensee or transferee is not required to obtain insurance or demonstrate financial responsibility of more than—
+(3) For the total claims related to one launch or reentry, a licensee or transferee is not required to obtain insurance or demonstrate financial responsibility of more than—
 
 &emsp;(A)(i) $500,000,000 under paragraph (1)(A) of this subsection; or
 
@@ -18,7 +18,7 @@ General Requirements.—(1) When a license is issued or transferred under this c
 
 &emsp;(B) the maximum liability insurance available on the world market at reasonable cost if the amount is less than the applicable amount in clause (A)(i) or (ii) of this paragraph.
 
-(4) An insurance policy or demonstration of financial responsibility under this subsection shall protect the following, to the extent of their potential liability for involvement in launch services, at no cost to the Government:
+(4) An insurance policy or demonstration of financial responsibility under this subsection shall protect the following, to the extent of their potential liability for involvement in launch services or reentry services, at no cost to the Government:
 
 &emsp;(A) the Government.
 
@@ -30,9 +30,9 @@ General Requirements.—(1) When a license is issued or transferred under this c
 
 (b)
 
-Reciprocal Waiver of Claims.—(1) A license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the license.
+Reciprocal Waiver of Claims.—(1) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.
 
-(2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services, and contractors and subcontractors involved in launch services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right torecover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
+(2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
 (c)
 
@@ -46,13 +46,13 @@ Annual Report.—(1) Not later than November 15 of each year, the Secretary of T
 
 (e)
 
-Launches Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
+Launches or Reentries Involving Government Facilities and Personnel.—The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launchsite or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
 
 (f)
 
-Collection and Crediting Payments.—The head of a department, agency, or instrumentality of the Government shall collect a payment owed for damage or loss to Government property under its jurisdiction or control resulting from an activity carried out under a license issued or transferred under this chapter. The payment shall be credited to the current applicable appropriation, fund, or account of the department, agency, or instrumentality.
+Collection and Crediting Payments.—The head of a department, agency, or instrumentality of the Government shall collect a payment owed for damage or loss to Government property under its jurisdiction or control resulting from an activity carried out under a launch or reentry license issued or transferred under this chapter. The payment shall be credited to the current applicable appropriation, fund, or account of the department, agency, or instrumentality.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1336; Pub. L. 104–287, §5(74), (93), Oct. 11, 1996, 110 Stat. 3396, 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1336; Pub. L. 104–287, §5(74), (93), Oct. 11, 1996, 110 Stat. 3396, 3398; Pub. L. 105–303, title I, §102(a)(12), Oct. 28, 1998, 112 Stat. 2850.)
 
 Historical and Revision Notes
 
@@ -127,6 +127,20 @@ In subsection (f), the words “department, agency, or instrumentality of the Go
 This amends 49:70112(a)(3)(B) to clarify a cross-reference in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1337).
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–303, §102(a)(12)(A), inserted “launch or reentry” before “license is issued”.
+
+Subsec. (a)(3). Pub. L. 105–303, §102(a)(12)(B), inserted “or reentry” after “one launch” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 105–303, §102(a)(12)(C), inserted “or reentry services” after “launch services” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 105–303, §102(a)(12)(D)–(F), inserted “launch or reentry” before “license issued or transferred”, “or reentry services” after “launch services”, and “applicable” after “carried out under the”.
+
+Subsec. (b)(2). Pub. L. 105–303, §102(a)(12)(E), (F), inserted “or reentry services” after “launch services” wherever appearing and “applicable” after “carried out under the”.
+
+Subsec. (e). Pub. L. 105–303, §102(a)(12)(G), (H), inserted “or Reentries” after “Launches” in heading and “or reentry site or a reentry” after “launch site” in text.
+
+Subsec. (f). Pub. L. 105–303, §102(a)(12)(I), inserted “launch or reentry” before “license issued or transferred”.
 
 1996—Subsec. (a)(3)(B). Pub. L. 104–287, §5(93), substituted “clause (A)(i) or (ii)” for “clause (A)”.
 

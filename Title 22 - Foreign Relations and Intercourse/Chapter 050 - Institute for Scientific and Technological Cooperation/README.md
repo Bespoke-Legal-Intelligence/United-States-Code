@@ -33,8 +33,7 @@
 | (e) | Admission into United States of alien participants in program. |
 | [3509\.](%C2%A7%2003509%20-%20Conflict%20of%20interest%3B%20personnel%20and%20activities%20covered.md) | Conflict of interest; personnel and activities covered. |
 | [3510\.](%C2%A7%2003510%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [3511\.](%C2%A7%2003511%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93164%2C%20title%20X%2C%20%C2%A71011%28a%29%286%29%2C%20Nov.%2022%2C%201983%2C%2097%20Stat.%201061.md) | Repealed. |
-| [3512\.](%C2%A7%2003512%20-%20Establishment%20within%20International%20Development%20Cooperation%20Agency.md) | Establishment within International Development Cooperation Agency. |
+| 3511, 3512. | Repealed. |
 | [3513\.](%C2%A7%2003513%20-%20Expiration%20of%20statutory%20authorities.md) | Expiration of statutory authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,5 +54,5 @@
 - [&sect; 03509 - Conflict of interest; personnel and activities covered](%C2%A7%2003509%20-%20Conflict%20of%20interest%3B%20personnel%20and%20activities%20covered.md)
 - [&sect; 03510 - Authorization of appropriations](%C2%A7%2003510%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03511 - Repealed. Pub. L. 98&#8211;164, title X, &sect;1011(a)(6), Nov. 22, 1983, 97 Stat. 1061](%C2%A7%2003511%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93164%2C%20title%20X%2C%20%C2%A71011%28a%29%286%29%2C%20Nov.%2022%2C%201983%2C%2097%20Stat.%201061.md)
-- [&sect; 03512 - Establishment within International Development Cooperation Agency](%C2%A7%2003512%20-%20Establishment%20within%20International%20Development%20Cooperation%20Agency.md)
+- [&sect; 03512 - Repealed. Pub. L. 105&#8211;277, div. G, subdiv. A, title XIV, &sect;1422(b)(5), Oct. 21, 1998, 112 Stat. 2681&#8211;793](%C2%A7%2003512%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20G%2C%20subdiv.%20A%2C%20title%20XIV%2C%20%C2%A71422%28b%29%285%29%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93793.md)
 - [&sect; 03513 - Expiration of statutory authorities](%C2%A7%2003513%20-%20Expiration%20of%20statutory%20authorities.md)

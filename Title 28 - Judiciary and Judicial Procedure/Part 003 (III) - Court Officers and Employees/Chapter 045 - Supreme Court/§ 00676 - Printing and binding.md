@@ -22,7 +22,7 @@ This section corrects a grammatical error in subsection (a) of section 676 of ti
 
 #### Amendments
 
-<b>1951</b>—Subsec. (b). Act Oct. 31, 1951, inserted “of this title” in two places.
+1951—Subsec. (b). Act Oct. 31, 1951, inserted “of this title” in two places.
 
-<b>1949</b>—Subsec. (a). Act May 24, 1949, inserted “whom” between “printers” and “the Court”.
+1949—Subsec. (a). Act May 24, 1949, inserted “whom” between “printers” and “the Court”.
 

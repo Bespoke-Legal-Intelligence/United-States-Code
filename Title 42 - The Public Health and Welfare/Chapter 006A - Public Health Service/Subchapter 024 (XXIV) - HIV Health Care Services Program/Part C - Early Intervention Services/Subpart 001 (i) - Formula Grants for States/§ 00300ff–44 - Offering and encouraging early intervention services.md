@@ -24,7 +24,7 @@ Subject to section 300ff–41(b)(4) of this title, an entity to which subsection
 
 &emsp;(2) provides the early intervention services only with the consent of the individuals.
 
-(July 1, 1944, ch. 373, title XXVI, §2644, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 601.)
+(July 1, 1944, ch. 373, title XXVI, §2644, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 601.)
 
 #### Section Referred to in Other Sections
 

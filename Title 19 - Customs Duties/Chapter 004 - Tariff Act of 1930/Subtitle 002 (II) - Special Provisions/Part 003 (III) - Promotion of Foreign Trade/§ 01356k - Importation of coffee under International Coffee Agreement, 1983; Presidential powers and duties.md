@@ -40,5 +40,5 @@ Section 1 of Pub. L. 96–599 provided that: “This Act \[enacting this section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1356<i>l</i>, 1356m of this title.
+This section is referred to in section 1356<i>l</i> of this title.
 

@@ -1,11 +1,6 @@
 ## PART III—TRAINING AND EDUCATION
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>101.</b>](Chapter%20101%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>2001</b> |
 | [<b>102.</b>](Chapter%20102%20-%20Junior%20Reserve%20Officers%E2%80%99%20Training%20Corps/README.md) | <b>Junior Reserve Officers’ Training Corps</b> | <b>2031</b> |

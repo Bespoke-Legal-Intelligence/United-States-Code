@@ -12,7 +12,7 @@
 
 &emsp;The purposes of the Foundation are—
 
-&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) of thissection, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
+&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) of this section, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
 
 &emsp;&emsp;(B) to conduct such other environmental education activities as will further the development of an environmentally conscious and responsible public, a well-trained and environmentally literate workforce, and an environmentally advanced educational system;
 
@@ -138,7 +138,7 @@ The Administrator may accept, without regard to the civil service classification
 
 #### (h) Audits and petition of Attorney General for equitable relief
 
-For purposes of the Act entitled “An Act for audit of accounts of private corporations established under Federal law”, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103), the Foundation shall be treated as a private corporation established under Federal law.
+For purposes of section 10101 of title 36, the Foundation shall be treated as a corporation in part B of subtitle II of title 36.
 
 #### (i) United States release from liability
 
@@ -156,7 +156,9 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 The civil service classification laws, referred to in subsec. (g), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
-The Act entitled “An Act for audit of accounts of private corporations established under Federal law”, approved August 30, 1964 (Public Law 88–504, 36 U.S.C. 1101–1103), referred to in subsec. (h), is Pub. L. 88–504, Aug. 30, 1964, 78 Stat. 635, as amended, which is classified principally to chapter 42 (§1101 et seq.) of Title 36, Patriotic Societies and Observances. For complete classification of this Act to the Code, see Tables.
+#### Codification
+
+In subsec. (h), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Change of Name
 

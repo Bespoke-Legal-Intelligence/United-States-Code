@@ -56,7 +56,7 @@ A prior section 162 of Pub. L. 101–610 was classified to section 12613 of this
 
 #### Amendments
 
-1994—Subsec. (a)(1)(B)(i). Pub. L. 103–304, which directed the substitution of “section 1143a of title 10” for “section 4462 of the National Defense Authorization Act for Fiscal Year 1993” in subsec. (a)(1)(B)(ii) of this section, was executed by making the substitution in subsec. (a)(1)(B)(i) of this section to reflect the probable intent of Congress.
+1994—Subsec. (a)(1)(B)(i). Pub. L. 103–304, which directed the substitution of “section 1143a of title 10” for “section 4462 of the National Defense Authorization Act for Fiscal Year 1993” in subsec. (a)(1)(B)(ii) of this section, was executed by making the substitution insubsec. (a)(1)(B)(i) of this section to reflect the probable intent of Congress.
 
 1993—Subsec. (a)(2)(A). Pub. L. 103–82, §104(e)(2)(G), substituted “section 12611(3)” for “section 12653(3)”.
 

@@ -294,6 +294,10 @@ Adjustments due to supplemental security income payments.
 
 Collection of delinquent amounts.
 
+(g)
+
+Recovery of overpayment of supplemental security income benefits.
+
 |  |  |
 | :--- | ---: |
 | [405\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000405%20-%20Evidence%2C%20procedure%2C%20and%20certification%20for%20payments.md) | Evidence, procedure, and certification for payments. |
@@ -405,7 +409,24 @@ Notification of options for obtaining attorneys.
 
 |  |  |
 | :--- | ---: |
-| [407\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000407%20-%20Assignment%3B%20amendment%20of%20section.md) | Assignment; amendment of section. |
+| [407\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000407%20-%20Assignment%20of%20benefits.md) | Assignment of benefits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Amendment of section.
+
+(c)
+
+Withholding of taxes.
+
+|  |  |
+| :--- | ---: |
 | [408\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000408%20-%20Penalties.md) | Penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1403,6 +1424,10 @@ Sanction welfare recipients for failing to ensure that minor dependent children 
 
 Requirement for high school diploma or equivalent.
 
+(k)
+
+Limitations on use of grant for matching under certain Federal transportation program.
+
 |  |  |
 | :--- | ---: |
 | [604a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20A%20-%20Block%20Grants%20to%20States%20for%20Temporary%20Assistance%20for%20Needy%20Families/%C2%A7%2000604a%20-%20Services%20provided%20by%20charitable%2C%20religious%2C%20or%20private%20organizations.md) | Services provided by charitable, religious, or private organizations. |
@@ -2109,6 +2134,10 @@ Training of Federal and State staff, research and demonstration programs, and sp
 
 Denial of passports for nonpayment of child support.
 
+(<i>l</i>)
+
+Facilitation of agreements between State agencies and financial institutions.
+
 |  |  |
 | :--- | ---: |
 | [653\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/%C2%A7%2000653%20-%20Federal%20Parent%20Locator%20Service.md) | Federal Parent Locator Service. |
@@ -2381,6 +2410,36 @@ Estimates by Secretary; quarterly payments.
 
 |  |  |
 | :--- | ---: |
+| [658a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/%C2%A7%2000658a%20-%20Incentive%20payments%20to%20States.md) | Incentive payments to States. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Amount of incentive payment.
+
+(c)
+
+Treatment of interstate collections.
+
+(d)
+
+Administrative provisions.
+
+(e)
+
+Regulations.
+
+(f)
+
+Reinvestment.
+
+|  |  |
+| :--- | ---: |
 | [659\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/%C2%A7%2000659%20-%20Consent%20by%20United%20States%20to%20income%20withholding%2C%20garnishment%2C%20and%20similar%20proceedings%20for%20enforcement%20of%20child%20support%20and%20alimony%E2%80%A6.md) | Consent by United States to income withholding, garnishment, and similar proceedings for enforcement of child support and alimony obligations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2572,7 +2631,7 @@ Technical assistance to States; State to furnish Secretary with copies.
 
 (a)
 
-Statistics on need for and actual provision of services.
+In general.
 
 (b)
 
@@ -2580,7 +2639,11 @@ Types of services.
 
 (c)
 
-Actual provision of services.
+Types of service recipients.
+
+(d)
+
+Rule of interpretation.
 
 |  |  |
 | :--- | ---: |
@@ -2767,10 +2830,6 @@ Automated data collection expenditures.
 (d)
 
 Reduction for violation of plan requirement.
-
-(e)
-
-Condition of assistance.
 
 |  |  |
 | :--- | ---: |
@@ -3919,6 +3978,10 @@ Liability of principal for acts of agent.
 
 Claims within jurisdiction of other departments or agencies.
 
+(n)
+
+Safe harbor for payment of medigap premiums.
+
 |  |  |
 | :--- | ---: |
 | 1320a–7b. | Criminal penalties for acts involving Federal health care programs. |
@@ -4389,8 +4452,17 @@ In general.
 |  |  |
 | :--- | ---: |
 | 1320b–16. | Public disclosure of certain information on hospital financial interest and referral patterns. |
+| 1320b–17. | Recovery of SSI overpayments from social security benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+No effect on SSI eligibility or benefit amount.
 
 #### Part B—Peer Review of Utilization and Quality of Health Care Services
 
@@ -6042,6 +6114,10 @@ State payment of part B late enrollment premium increases.
 
 Limitation on increase in monthly premium.
 
+(g)
+
+Exclusions from estimate of benefits and administrative costs.
+
 |  |  |
 | :--- | ---: |
 | [1395s.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395s%20-%20Payment%20of%20premiums.md) | Payment of premiums. |
@@ -7361,7 +7437,7 @@ Amended NAIC Model Regulation or Federal model standards applicable; effective d
 
 (<i>l</i>)
 
-Transitional compliance with NAIC Model Transition Regulation; “qualifying medicare supplemental policy” and “NAIC Model Transition Regulation” defined; report to Congress respecting State action in adopting equal or more stringent standards.
+Transitional compliance with NAIC Model Transition Regulation; “qualifying medicare supplemental policy” and “NAIC Model Transition Regulation” defined.
 
 (m)
 
@@ -9207,7 +9283,7 @@ Additional definitions.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 718, 728, 1082, 1552; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 App. section 202; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
+This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 1552, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 App. section 202; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
 
 
 ---

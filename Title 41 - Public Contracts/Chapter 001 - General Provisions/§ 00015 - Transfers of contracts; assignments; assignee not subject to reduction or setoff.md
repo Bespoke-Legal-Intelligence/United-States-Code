@@ -108,7 +108,7 @@ The provisions of the National Emergencies Act (Pub. L. 94–412, Sept. 14, 1976
 
 #### Moneys Due Under Letters of Commitment Issued in Connection With Disposition of Surplus Agricultural Commodities
 
-Moneys due under letters of commitment issued against funds or guaranties of funds supplied by Commodity Credit Corporation in connection with disposition of surplus agricultural commodities to foreign countries, as assignable under the Assignment of Claims Act of 1940, which constitutes this section andformer section 203 of Title 31, Money and Finance, see section 1702 of Title 7, Agriculture.
+Moneys due under letters of commitment issued against funds or guaranties of funds supplied by Commodity Credit Corporation in connection with disposition of surplus agricultural commodities to foreign countries, as assignable under the Assignment of Claims Act of 1940, which constitutes this section and former section 203 of Title 31, Money and Finance, see section 1702 of Title 7, Agriculture.
 
 #### Cross References
 

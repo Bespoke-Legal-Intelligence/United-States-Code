@@ -14,7 +14,7 @@
 
 With respect to a determination described in paragraph (1) or (2), the notification required in each of such paragraphs shall be made as soon as is practicable, but not later than 48 hours after the determination is made.
 
-(July 1, 1944, ch. 373, title XXVI, §2682, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 623.)
+(July 1, 1944, ch. 373, title XXVI, §2682, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 623.)
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §1992. Wrecking trains
 
-(a) Whoever willfully derails, disables, or wrecks any train, engine, motor unit, or carused, operated, or employed in interstate or foreign commerce by any railroad; or
+(a) Whoever willfully derails, disables, or wrecks any train, engine, motor unit, or car used, operated, or employed in interstate or foreign commerce by any railroad; or
 
 Whoever willfully sets fire to, or places any explosive substance on or near, or undermines any tunnel, bridge, viaduct, trestle, track, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance used in the operation of any such railroad in interstate or foreign commerce, or otherwise makes any such tunnel, bridge, viaduct, trestle, track, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance unworkable or unusable or hazardous to work or use, with the intent to derail, disable, or wreck a train, engine, motor unit, or car used, operated, or employed in interstate or foreign commerce; or
 
@@ -12,7 +12,7 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 Whoever is convicted of any such violation involving a train that, at the time the violation occurred, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12))) or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23))), shall be fined under this title and imprisoned for any term or <sup>1</sup> years not less than 30, or for life.
 
-(June 25, 1948, ch. 645, 62 Stat. 794; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), 108 Stat. 1969, 2147; Dec. 29, 1995, Pub. L. 104–88, title IV, §402(b), 109 Stat. 955.)
+(June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, §402(b), Dec. 29, 1995, 109 Stat. 955.)
 
 #### Historical and Revision Notes
 

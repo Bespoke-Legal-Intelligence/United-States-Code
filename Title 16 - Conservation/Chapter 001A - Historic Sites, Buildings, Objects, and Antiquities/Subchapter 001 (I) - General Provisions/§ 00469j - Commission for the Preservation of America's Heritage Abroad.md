@@ -20,7 +20,7 @@ The Commission shall—
 
 #### (d) Membership
 
-(1) The Commission shall consist of 21 members appointed by the President, 7 of whom shall be appointed after consultation with the Speaker of the House of Representatives and 7 of whom shall be appointed after consultation with the President pro tempore of the Senate.
+(1) The Commission shall consist of 21 members appointed by the President, 7 of whom shallbe appointed after consultation with the Speaker of the House of Representatives and 7 of whom shall be appointed after consultation with the President pro tempore of the Senate.
 
 (2)(A) Except as provided in subparagraphs (B) and (C), members of the Commission shall be appointed for terms of 3 years.
 
@@ -34,7 +34,7 @@ The Commission shall—
 
 #### (e) Meetings
 
-The Commission shall meet at least once every three months.
+The Commission shall meet at least once every six months.
 
 #### (f) Compensation and per diem
 
@@ -64,13 +64,17 @@ The Commission shall meet at least once every three months.
 
 The Commission shall transmit an annual report to the President and to each House of Congress as soon as practicable after the end of each fiscal year. Each report shall include a detailed statement of the activities and accomplishments of the Commission during the preceding fiscal year and any recommendations by the Commission for legislation and administrative actions.
 
-(Pub. L. 99–83, title XIII, §1303, Aug. 8, 1985, 99 Stat. 280.)
+(Pub. L. 99–83, title XIII, §1303, Aug. 8, 1985, 99 Stat. 280; Pub. L. 105–277, div. A, §101(b) \[title VI, §620\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–115.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (g)(2), is set out under section 5332 of Title 5.
+
+#### Amendments
+
+1998—Subsec. (e). Pub. L. 105–277 substituted “six” for “three”.
 
 #### Effective Date
 

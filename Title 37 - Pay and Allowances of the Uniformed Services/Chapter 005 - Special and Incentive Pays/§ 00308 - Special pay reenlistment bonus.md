@@ -8,7 +8,11 @@
 
 &emsp;(C) is not receiving special pay under section 312a of this title; and
 
-&emsp;(D) reenlists or voluntarily extends his enlistment in a regular component of the service concerned for a period of at least three years;
+&emsp;(D) reenlists or voluntarily extends the member's enlistment for a period of at least three years—
+
+&emsp;&emsp;(i) in a regular component of the service concerned; or
+
+&emsp;&emsp;(ii) in a reserve component of the service concerned, if the member is performing active Guard and Reserve duty (as defined in section 101(d)(6) of title 10).<sup>1</sup>
 
 > may be paid a bonus as provided in paragraph (2).
 
@@ -26,9 +30,7 @@
 
 (4) Notwithstanding paragraph (1)(B), a member who agrees to train and reenlist for service in a military skill which, at the time of that agreement, is designated as critical, may be paid the bonus approved for that skill, at the rate in effect at the time of agreement, upon completion of training and qualification in that skill, if otherwise qualified under this subsection and even if that skill is no longer designated as critical at the time the member becomes eligible for payment of the bonus.
 
-(b)(1) Bonus payments authorized under this section may be paid in either a lump sum or in installments. If the bonus is paid in installments, the initial payment shall be not less than 50 percent of the total bonus amount.
-
-(2) Of the bonuses paid under this section to members of a uniformed service during a fiscal year, not more than 10 percent may exceed $20,000.
+(b) Bonus payments authorized under this section may be paid in either a lump sum or in installments. If the bonus is paid in installments, the initial payment shall be not less than 50 percent of the total bonus amount.
 
 (c) For the purpose of computing the reenlistment bonus in the case of an officer with prior enlisted service who may be entitled to a bonus under subsection (a), the monthly basic pay of the grade in which he is enlisted, computed in accordance with his years of service computed under section 205 of this title, shall be used instead of the monthly basic pay to which he was entitled at the time of his release from active duty as an officer.
 
@@ -46,9 +48,9 @@
 
 (f) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after September 30, 1999.
+(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 1999.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(b), Nov. 18, 1997, 111 Stat. 1786.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(b), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§613(b), 618, 619, Oct. 17, 1998, 112 Stat. 2039, 2042.)
 
 Historical and Revision Notes
 
@@ -93,6 +95,12 @@ In subsection (a), the words “reenlists . . . after . . . compulsory or vo
 In subsection (b), the words “a total of” are omitted as surplusage.
 
 #### Amendments
+
+1998—Subsec. (a)(1)(D). Pub. L. 105–261, §618, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “reenlists or voluntarily extends his enlistment in a regular component of the service concerned for a period of at least three years;”.
+
+Subsec. (b). Pub. L. 105–261, §619, designated par. (1) as entire subsec. and struck out par. (2) which read as follows: “Of the bonuses paid under this section to members of a uniformed service during a fiscal year, not more than 10 percent may exceed $20,000.”
+
+Subsec. (g). Pub. L. 105–261, §613(b), substituted “December 31, 1999” for “September 30, 1999”.
 
 1997—Subsec. (g). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
 
@@ -231,4 +239,6 @@ Section 3 of Pub. L. 93–277 provided that: “Notwithstanding section 308 of t
 #### Section Referred to in Other Sections
 
 This section is referred to in section 312a of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

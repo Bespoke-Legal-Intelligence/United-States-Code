@@ -2,7 +2,7 @@
 
 In time of peace, no person may be accepted for original enlistment in the Army unless he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under the applicable provisions of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 177; Aug. 17, 1961, Pub. L. 87–143, §1(1), 75 Stat. 364; Jan. 2, 1968, Pub. L. 90–235, §2(a)(2)(A), 81 Stat. 756; Dec. 12, 1980, Pub. L. 96–513, title V, §512(3), 94 Stat. 2929.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 87–143, §1(1), Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–235, §2(a)(2)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, §512(3), Dec. 12, 1980, 94 Stat. 2929.)
 
 Historical and Revision Notes
 
@@ -56,7 +56,7 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 1968—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) disqualifying insane persons, intoxicated persons, deserters and convicted felons from Army service, and provisions formerly set out as subsec. (b) disqualifying from reenlistment in the Army persons whose service during their last term of enlistment was not honest and faithful, and redesignated as entire section provisions formerly set out as subsec. (c).
 
-1961—Subsec. (c). Pub. L. 87–143 substituted “a citizen of the United States or has been lawfully admitted to the United States for permanent residence under the applicable provisions of chapter 12 of title 8” for “, orhas made a legal declaration of intention to become, a citizen of the United States”.
+1961—Subsec. (c). Pub. L. 87–143 substituted “a citizen of the United States or has been lawfully admitted to the United States for permanent residence under the applicable provisions of chapter 12 of title 8” for “, or has made a legal declaration of intention to become, a citizen of the United States”.
 
 #### Effective Date of 1980 Amendment
 

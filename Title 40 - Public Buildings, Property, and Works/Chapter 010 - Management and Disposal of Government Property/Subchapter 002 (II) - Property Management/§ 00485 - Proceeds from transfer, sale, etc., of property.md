@@ -86,6 +86,10 @@ Subsec. (h). Pub. L. 101–510, §2805(3), added subsec. (h).
 
 1954—Subsecs. (b) to (g). Act Aug. 31, 1954, added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Transfer of Functions
 
 War Assets Administration abolished June 30, 1949, and its functions transferred for liquidation to General Services Administration by act June 30, 1949, ch. 288, §105, 63 Stat. 381.

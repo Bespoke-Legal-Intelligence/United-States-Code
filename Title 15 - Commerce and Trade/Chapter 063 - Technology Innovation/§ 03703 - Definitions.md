@@ -32,7 +32,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 #### References in Text
 
-Sections 3705 and 3707 of this title, referred to in pars. (4) and (6), were in the original references to sections 6and 8 of this Act, respectively, meaning sections 6 and 8 of the Stevenson-Wydler Technology Innovation Act of 1980. Sections 6 and 8 of this Act were renumbered sections 7 and 9, respectively, by section 5122(a)(1) of Pub. L. 100–418 without corresponding amendment to this section.
+Sections 3705 and 3707 of this title, referred to in pars. (4) and (6), were in the original references to sections 6 and 8 of this Act, respectively, meaning sections 6 and 8 of the Stevenson-Wydler Technology Innovation Act of 1980. Sections 6 and 8 of this Act were renumbered sections 7 and 9, respectively, by section 5122(a)(1) of Pub. L. 100–418 without corresponding amendment to this section.
 
 The Plant Variety Protection Act, referred to in par. (9), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 
@@ -52,7 +52,7 @@ Par. (3). Pub. L. 99–502, §9(b)(2)(B), substituted “ ‘Assistant Secretar
 
 Par. (4). Pub. L. 99–502, §9(b)(2)(C), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
 
-Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned and funded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
+Par. (6). Pub. L. 99–502, §9(b)(2)(D), (E), redesignated par. (7) as (6), substituted “owned, leased, or otherwise used by a Federal agency and funded” for “owned andfunded”, and struck out former par. (6) which defined “Board” to mean the National Industrial Technology Board established pursuant to section 3709 of this title.
 
 Pars. (7) to (12). Pub. L. 99–502, §9(b)(2)(D), (d), redesignated pars. (7) and (8) as (6) and (7), respectively, and added pars. (8) to (12).
 

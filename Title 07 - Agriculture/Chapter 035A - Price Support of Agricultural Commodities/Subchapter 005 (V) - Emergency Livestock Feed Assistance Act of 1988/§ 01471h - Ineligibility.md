@@ -8,7 +8,7 @@
 
 &emsp;(2) if less than a majority of the person's annual income is received from farming and ranching operations, the person's gross revenue from all sources.
 
-(Oct. 31, 1949, ch. 792, title VI, §610, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 931.)
+(Oct. 31, 1949, ch. 792, title VI, §610, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 931.)
 
 #### Effective Date
 

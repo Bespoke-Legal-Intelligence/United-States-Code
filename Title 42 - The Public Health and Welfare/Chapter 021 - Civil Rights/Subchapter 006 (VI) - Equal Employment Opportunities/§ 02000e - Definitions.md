@@ -40,7 +40,7 @@ For the purposes of this subchapter—
 
 &emsp;(n) The term “respondent” means an employer, employment agency, labor organization, joint labor-management committee controlling apprenticeship or other training or retraining program, including an on-the-job training program, or Federal entity subject to section 2000e–16 of this title.
 
-(Pub. L. 88–352, title VII, §701, July 2, 1964, 78 Stat. 253; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662; Pub. L. 92–261, §2, Mar. 24, 1972, 86 Stat. 103; Pub. L. 95–555, §1, Oct. 31, 1978, 92 Stat. 2076; Pub. L. 95–598, title III, §330, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–166, title I, §§104, 109(a), Nov. 21, 1991, 105 Stat. 1074, 1077.)
+(Pub. L. 88–352, title VII, §701, July 2, 1964, 78 Stat. 253; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80Stat. 662; Pub. L. 92–261, §2, Mar. 24, 1972, 86 Stat. 103; Pub. L. 95–555, §1, Oct. 31, 1978, 92 Stat. 2076; Pub. L. 95–598, title III, §330, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–166, title I, §§104, 109(a), Nov. 21, 1991, 105 Stat. 1074, 1077.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7
 
 #### Amendments
 
-1991—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country,such term includes an individual who is a citizen of the United States.”
+1991—Subsec. (f). Pub. L. 102–166, §109(a), inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
 
 Subsecs. (<i>l</i>) to (n). Pub. L. 102–166, §104, added subsecs. (<i>l</i>) to (n).
 
@@ -162,7 +162,7 @@ Sec. 203. (a) Each contractor having a contract containing the provisions prescr
 
 (c) Whenever the contractor or subcontractor has a collective bargaining agreement or other contract or understanding with a labor union or an agency referring workers or providing or supervising apprenticeship or training for such workers, the Compliance Report shall include such information as to such labor union's or agency's practices and policies affecting compliance as the Secretary of Labor may prescribe: <i>Provided</i>, That to the extent such information is within the exclusive possession of a labor union or any agency referring workers or providing or supervising apprenticeship or training and such labor union or agency shall refuse to furnish such information to the contractor, the contractor shall so certify to the Secretary of Labor as part of its Compliance Report and shall set forth what efforts he has made to obtain such information.
 
-(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, theCompliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
+(d) The Secretary of Labor may direct that any bidder or prospective contractor or subcontractor shall submit, as part of his Compliance Report, a statement in writing, signed by an authorized officer or agent on behalf of any labor union or any agency referring workers or providing or supervising apprenticeship or other training, with which the bidder or prospective contractor deals, with supporting information, to the effect that the signer's practices and policies do not discriminate on the grounds of race, color, religion, sex or national origin, and that the signer either will affirmatively cooperate in the implementation of the policy and provisions of this order or that it consents and agrees that recruitment, employment, and the terms and conditions of employment under the proposed contract shall be in accordance with the purposes and provisions of the order. In the event that the union, or the agency shall refuse to execute such a statement, the Compliance Report shall so certify and set forth what efforts have been made to secure such a statement and such additional factual material as the Secretary of Labor may require.
 
 Sec. 204. The Secretary of Labor may, when he deems that special circumstances in the national interest so require, exempt a contracting agency from the requirement of including any or all of the provisions of Section 202 of this Order in any specific contract, subcontract, or purchase order. The Secretary of Labor may, by rule or regulation, also exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial supplies or raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier. The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities of a contractor which are in all respects separate and distinct from activities of the contractor related to the performance of the contract: <i>Provided</i>, That such an exemption will not interfere with or impede the effectuation of the purposes of this order: <i>And provided further</i>, That in the absence of such an exemption all facilities shall be covered by the provisions of this Order.
 
@@ -192,7 +192,7 @@ Sec. 209. (a) In accordance with such rules, regulations, or orders as the Secre
 
 (4) Recommend to the Department of Justice that criminal proceedings be brought for the furnishing of false information to any contracting agency or to the Secretary of Labor as the case may be.
 
-(5) After consulting with the contracting agency, direct the contracting agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor or subcontractor to comply with equal employment opportunity provisions of the contract. Contracts may be cancelled, terminated, or suspended absolutely or continuance of contracts may be conditioned upon a program for future compliance approved by the Secretary of Labor.
+(5) After consulting with the contracting agency, direct the contracting agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor or subcontractor tocomply with equal employment opportunity provisions of the contract. Contracts may be cancelled, terminated, or suspended absolutely or continuance of contracts may be conditioned upon a program for future compliance approved by the Secretary of Labor.
 
 (6) Provide that any contracting agency shall refrain from entering into further contracts, or extensions or other modifications of existing contracts, with any noncomplying contractor, until such contractor has satisfied the Secretary of Labor that such contractor has established and will carry out personnel and employment policies in compliance with the provisions of this Order.
 
@@ -246,11 +246,11 @@ Sec. 405. This Order shall become effective thirty days after the date of this O
 
 #### Ex. Ord. No. 11478. Equal Employment Opportunity in Federal Government
 
-Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, as amended by Ex. Ord. No. 11590, Apr. 23, 1971, 36 F.R. 7831; Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053, provided:
+Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, as amended by Ex. Ord. No. 11590, Apr. 23, 1971, 36 F.R. 7831; Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 13087, May 28, 1998, 63 F.R. 30097, provided:
 
 NOW THEREFORE, under and by virtue of the authority vested in me as President of the United States by the Constitution and statutes of the United States, it is ordered as follows:
 
-Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, or age, and to promote the full realization of equal employment opportunity through a continuing affirmative program in each executive department and agency. This policy of equal opportunity applies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government.
+Section 1. It is the policy of the Government of the United States to provide equal opportunity in Federal employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, handicap, age, or sexual orientation, and to promote the full realization of equal employment opportunity through a continuing affirmative program in each executive department and agency. This policy of equal opportunity applies to and must be an integral part of every aspect of personnel policy and practice in the employment, development, advancement, and treatment of civilian employees of the Federal Government, to the extent permitted by law.
 
 Sec. 2. The head of each executive department and agency shall establish and maintain an affirmative program of equal employment opportunity for all civilian employees and applicants for employment within his jurisdiction in accordance with the policy set forth in section 1. It is the responsibility of each department and agency head, to the maximum extent possible, to provide sufficient resources to administer such a program in a positive and effective manner; assure that recruitment activities reach all sources of job candidates; utilize to the fullest extent the present skills of each employee; provide the maximum feasible opportunity to employees to enhance their skills so they may perform at their highest potential and advance in accordance with their abilities; provide training and advice to managers and supervisors to assure their understanding and implementation of the policy expressed in this Order; assure participation at the local level with other employers, schools, and public or private groups in cooperative efforts to improve community conditions which affect employability; and provide for a system within the department or agency for periodically evaluating the effectiveness with which the policy of this Order is being carried out.
 
@@ -430,7 +430,7 @@ Sec. 206. (a) The Secretary of Labor may investigate the employment practices of
 
 “(b) Pursuant to rules and regulations prescribed by the Secretary of Labor, the Secretary shall make reasonable efforts, within a reasonable time limitation, to secure compliance with the contract provisions of this Order by methods of conference, conciliation, mediation, and persuasion before proceedings shall be instituted under subsection (a)(2) of this Section, or before a contract shall be cancelled or terminated in whole or in part under subsection (a)(5) of this Section.”.
 
-1–210. In order to reflect the responsibility of the contracting agencies for prompt compliance with the directions of the Secretary of Labor, Sections 210 and 211of Executive Order No. 11246, as amended, are amended to read:
+1–210. In order to reflect the responsibility of the contracting agencies for prompt compliance with the directions of the Secretary of Labor, Sections 210 and 211 of Executive Order No. 11246, as amended, are amended to read:
 
 “
 
@@ -551,6 +551,8 @@ Sec. 4. <i>General Provisions</i>. (a) Section 1–101(h) of Executive Order No.
 (c) Section 6 of Executive Order No. 12050, as amended, is revoked.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[The International Communication Agency was redesignated the United States Information Agency, see section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22.\]
 
 #### Section Referred to in Other Sections
 

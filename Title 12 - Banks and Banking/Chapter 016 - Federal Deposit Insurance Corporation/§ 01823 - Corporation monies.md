@@ -12,7 +12,7 @@
 
 #### (b) Depository accounts
 
-The depository accounts of the Corporation shall be kept with the Treasurer of the United States, or, with the approval of the Secretary of the Treasury, with a Federal Reserve bank, or with a depository institution designated as a depository or fiscal agent of the United States: <i>Provided</i>, That the Secretary of the Treasury may waive the requirements of this subsection under such conditions as he may determine: <i>And provided further</i>, That this subsection shall not apply to the establishment and maintenance in any depository institution for temporary purposes of depository accounts not in excess of $50,000 in any one depository institution, or tothe establishment and maintenance in any depository institution of any depository accounts to facilitate the payment of insured deposits, or the making of loans to, or the purchase of assets of, insured depository institutions. When designated for that purpose by the Secretary of the Treasury, the Corporation shall be a depositary of public moneys, except receipts from customs, under such regulations as may be prescribed by the said Secretary, and may also be employed as a financial agent of the Government. It shall perform all such reasonable duties as depositary of public moneys and financial agent of the Government as may be required of it.
+The depository accounts of the Corporation shall be kept with the Treasurer of the United States, or, with the approval of the Secretary of the Treasury, with a Federal Reserve bank, or with a depository institution designated as a depository or fiscal agent of the United States: <i>Provided</i>, That the Secretary of the Treasury may waive the requirements of this subsection under such conditions as he may determine: <i>And provided further</i>, That this subsection shall not apply to the establishment and maintenance in any depository institution for temporary purposes of depository accounts not in excess of $50,000 in any one depository institution, or to the establishment and maintenance in any depository institution of any depository accounts to facilitate the payment of insured deposits, or the making of loans to, or the purchase of assets of, insured depository institutions. When designated for that purpose by the Secretary of the Treasury, the Corporation shall be a depositary of public moneys, except receipts from customs, under such regulations as may be prescribed by the said Secretary, and may also be employed as a financial agent of the Government. It shall perform all such reasonable duties as depositary of public moneys and financial agent of the Government as may be required of it.
 
 #### (c) Assistance to insured depository institutions
 
@@ -74,7 +74,7 @@ Present-value analysis; documentation required.—The Corporation shall—
 
 &emsp;&emsp;(ii)
 
-Foregone tax revenues.—Federal tax revenues that the Government would foregoas the result of a proposed transaction, to the extent reasonably ascertainable, shall be treated as if they were revenues foregone by the deposit insurance fund.
+Foregone tax revenues.—Federal tax revenues that the Government would forego as the result of a proposed transaction, to the extent reasonably ascertainable, shall be treated as if they were revenues foregone by the deposit insurance fund.
 
 &emsp;(C)
 
@@ -116,7 +116,7 @@ Deadline for regulations.—The Corporation shall prescribe regulations to imple
 
 &emsp;&emsp;(iii)
 
-Purchase and assumption transactions.—No provision of this subparagraph shall be construed as prohibiting the Corporation from allowing any person who acquires any assets or assumes any liabilities of any insured depository institution for which the Corporation has been appointed conservator or receiver to acquire uninsured deposit liabilities of such institution so long as the insurance fund does not incur any loss with respect to such deposit liabilities in an amount greater than the loss which would have been incurred with respect to such liabilities if the institution had been liquidated.
+Purchase and assumption transactions.—No provision of this subparagraph shall be construed as prohibiting the Corporation from allowing any person who acquires any assets or assumes any liabilities of any insured depository institution for which the Corporation has been appointed conservator or receiver to acquire uninsured deposit liabilities of such institution so longas the insurance fund does not incur any loss with respect to such deposit liabilities in an amount greater than the loss which would have been incurred with respect to such liabilities if the institution had been liquidated.
 
 &emsp;(F)
 
@@ -168,7 +168,7 @@ Notice.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—The Secretary of the Treasury shall provide written notice of any determination under clause (i) to theCommittee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
+In general.—The Secretary of the Treasury shall provide written notice of any determination under clause (i) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -206,7 +206,7 @@ Troubled condition criteria.—The Corporation determines—
 
 Other criteria.—The depository institution meets the following criteria:
 
-&emsp;&emsp;&emsp;(I) The appropriate Federal banking agency and the Corporation have determined that, during such period of time preceding the date of such determination as the agency or the Corporation considers to be relevant, the institution's management has been competent and has complied with applicable laws, rules, and supervisory directives and orders.
+&emsp;&emsp;&emsp;(I) The appropriate Federal banking agency and the Corporation have determined that, during such period of timepreceding the date of such determination as the agency or the Corporation considers to be relevant, the institution's management has been competent and has complied with applicable laws, rules, and supervisory directives and orders.
 
 &emsp;&emsp;&emsp;(II) The institution's management did not engage in any insider dealing, speculative practice, or other abusive activity.
 
@@ -286,7 +286,7 @@ Public disclosure.—Any determination under this paragraph to provide assistanc
 
 #### (f) Assisted emergency interstate acquisitions
 
-(1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank <sup>2</sup> savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c) of this section.
+(1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank <sup>2</sup> savings association or out-of-State holding company for whichthe Corporation provides assistance under subsection (c) of this section.
 
 (2)(A) Whenever an insured bank with total assets of $500,000,000 or more (as determined from its most recent report of condition) is in default, the Corporation, as receiver, may, in its discretion and upon such terms and conditions as the Corporation may determine, arrange the sale of assets of the bank in default and the assumption of the liabilities of the bank in default, including the sale of such assets to and the assumption of such liabilities by an insured depository institution located in the State where the bank in default was chartered but established by an out-of-State bank or holding company. Where otherwise lawfully required, a transaction under this subsection must be approved by the primary Federal or State supervisor of all parties thereto.
 
@@ -318,7 +318,7 @@ Acquisition of a holding company or other bank affiliate.—If one or more out-o
 
 &emsp;(C)
 
-Request for assistance by corporate board of directors.—The Corporation mayassist an acquisition or merger authorized under subparagraph (A) only if the board of directors or trustees of each insured bank in danger of default which is being acquired has requested in writing that the Corporation assist the acquisition or merger.
+Request for assistance by corporate board of directors.—The Corporation may assist an acquisition or merger authorized under subparagraph (A) only if the board of directors or trustees of each insured bank in danger of default which is being acquired has requested in writing that the Corporation assist the acquisition or merger.
 
 &emsp;(D)
 
@@ -516,7 +516,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;(A) Any loss on any qualified agricultural loan that an agricultural bank would otherwise be required to show on its annual financial statement for any year between December 31, 1983, and January 1, 1992, may be amortized on its financial statements over a period of not to exceed 7 years, as provided in regulations issued by the appropriate Federal banking agency.
 
-&emsp;(B) An agricultural bank may reappraise any real estate or other property, real or personal, that it acquired coincident to the making of a qualified agricultural loan and that it owned on January 1, 1983, and any such additional property that it acquires prior to January 1, 1992. Any loss that such bank would otherwise be required to show on its annual financial statements as the result of any such reappraisal may be amortized on its financial statements over a period of not to exceed 7 years, as provided in regulations issued by the appropriate Federal banking agency.
+&emsp;(B) An agricultural bank may reappraise any real estate or other property, real or personal,that it acquired coincident to the making of a qualified agricultural loan and that it owned on January 1, 1983, and any such additional property that it acquires prior to January 1, 1992. Any loss that such bank would otherwise be required to show on its annual financial statements as the result of any such reappraisal may be amortized on its financial statements over a period of not to exceed 7 years, as provided in regulations issued by the appropriate Federal banking agency.
 
 #### (3) Regulations
 
@@ -746,7 +746,7 @@ Subsec. (f)(12)(A). Pub. L. 103–325, §602(a)(42), substituted “are” for �
 
 Subsec. (d)(3)(D). Pub. L. 102–242, §123(b), added subpar. (D).
 
-1989—Subsec. (a). Pub. L. 101–73, §217(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “Money of the Corporation not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States: <i>Provided</i>, That the Corporation shall not sell or purchase any such obligations for its own account and in its own right and interest, at any one time aggregating in excess of $100,000, without the approval of the Secretary of the Treasury: <i>And provided further</i>, That the Secretary of the Treasury may waive the requirement of his approval with respect to any transaction or classes of transactions subject to the provisions of this subsection for such period of time and under such conditions as he may determine.”
+1989—Subsec. (a). Pub. L. 101–73, §217(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “Money of the Corporation not otherwise employed shall be invested in obligations of the United States or in obligations guaranteed as to principal and interest by the United States: <i>Provided</i>, That the Corporation shall not sell or purchase any such obligations for its own account and inits own right and interest, at any one time aggregating in excess of $100,000, without the approval of the Secretary of the Treasury: <i>And provided further</i>, That the Secretary of the Treasury may waive the requirement of his approval with respect to any transaction or classes of transactions subject to the provisions of this subsection for such period of time and under such conditions as he may determine.”
 
 Subsec. (b). Pub. L. 101–73, §217(2), substituted “depository accounts of the Corporation”, “temporary purposes of depository accounts”, and “depository accounts to facilitate” for “banking or checking accounts of the Corporation”, “temporary purposes of banking and checking accounts”, and “banking and checking accounts to facilitate”, respectively, and substituted “depository institution” for “bank” in four places.
 
@@ -826,7 +826,7 @@ Subsec. (f)(8)(B). Pub. L. 101–73, §217(5)(H), redesignated subpar. (E) as (B
 
 Subsec. (f)(8)(C). Pub. L. 101–73, §217(5)(H), redesignated subpar. (F) as (C). Former subpar. (C) redesignated (A).
 
-Subsec. (f)(8)(D). Pub. L. 101–73, §217(5)(H), redesignated subpar. (G) as (D) and struck out former subpar. (D) which read as follows: “the term ‘bank in danger of closing’ means an insured bank with respect to which the appropriate Federal or State chartering authority certifies in writing that—
+Subsec. (f)(8)(D). Pub. L. 101–73, §217(5)(H), redesignated subpar. (G) as (D) and struck out former subpar. (D) which read as follows: “the term ‘bank in danger of closing’ means an insured bank with respect to whichthe appropriate Federal or State chartering authority certifies in writing that—
 
 &emsp;“(i)(I) the bank is not likely to be able to meet the demands of such bank's depositors or pay the obligations of the bank in the normal course of business, and
 
@@ -906,7 +906,7 @@ Subsec. (f)(1). Pub. L. 97–457, §4, substituted “paragraph” for “paragr
 
 Subsec. (i)(9). Pub. L. 97–457, §10, inserted “or dividends” after “interest”.
 
-1982—Subsec. (c). Pub. L. 97–320, §111, substituted provisions contained in numbered pars. (1) through (8) relating to the Corporation's authority to assist insured banks for prior provisions contained in a single undesignated paragraph authorizing the Corporation, in order to reopen a closed insured bank or, when the Corporation had determined that an insured bank was in danger of closing, in order to prevent such closing, in the discretion of its Board of Directors, to make loans to, or purchase the assets of, or make deposits in, such insured bank, upon such terms and conditions as the Board of Directors might prescribe, when in the opinion of the Board of Directors the continued operation of such bank was essential to provide adequate banking service in the community, with such loans and deposits to be in subordination to the rights of depositors and other creditors.
+1982—Subsec. (c). Pub. L. 97–320, §111, substituted provisions contained in numbered pars. (1) through (8) relating to the Corporation's authority to assist insured banks for prior provisions contained in a single undesignated paragraph authorizing the Corporation, in order to reopen a closed insured bank or, when the Corporation had determined that an insured bank was in danger of closing, in order to prevent such closing, in the discretion of its Board of Directors, to make loans to, or purchase the assets of, or make deposits in, such insured bank, upon such terms and conditions as theBoard of Directors might prescribe, when in the opinion of the Board of Directors the continued operation of such bank was essential to provide adequate banking service in the community, with such loans and deposits to be in subordination to the rights of depositors and other creditors.
 
 Pub. L. 97–320, §141(a)(1), which directed the repeal of par. (5) effective Oct. 13, 1986, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
@@ -938,7 +938,7 @@ Section 10(b) of Pub. L. 97–457 provided that: “The amendment made by subsec
 
 #### Effective Date of 1982 Amendment
 
-Section 206 of Pub. L. 97–320, as amended by Pub. L. 97–457, §11, Jan. 12, 1983, 96 Stat. 2508; Pub. L. 99–120, §6(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, §1(b), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, §1(b), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, §1(b), Oct. 8, 1986, 100 Stat.1140; Pub. L. 100–86, title V, §509(b), Aug. 10, 1987, 101 Stat. 635, provided that:
+Section 206 of Pub. L. 97–320, as amended by Pub. L. 97–457, §11, Jan. 12, 1983, 96 Stat. 2508; Pub. L. 99–120, §6(b), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–278, §1(b), Apr. 24, 1986, 100 Stat. 397; Pub. L. 99–400, §1(b), Aug. 27, 1986, 100 Stat. 902; Pub. L. 99–452, §1(b), Oct. 8, 1986, 100 Stat. 1140; Pub. L. 100–86, title V, §509(b), Aug. 10, 1987, 101 Stat. 635, provided that:
 
 “(a) On October 13, 1991, section 406(f)(5) of the National Housing Act \[12 U.S.C. 1729(f)(5)\] and section 13(i) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(i)\] are repealed.
 

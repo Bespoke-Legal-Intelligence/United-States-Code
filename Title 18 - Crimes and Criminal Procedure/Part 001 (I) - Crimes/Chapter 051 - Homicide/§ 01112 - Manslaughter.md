@@ -12,7 +12,7 @@ Whoever is guilty of voluntary manslaughter, shall be fined under this title or 
 
 Whoever is guilty of involuntary manslaughter, shall be fined under this title or imprisoned not more than six years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), 108 Stat. 2109, 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(13), 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 103–322, title XXXII, §320102, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2109, 2147; Pub. L. 104–294, title VI, §604(b)(13), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -56,5 +56,5 @@ Venue, see section 3236 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 351, 924, 930, 1114, 1116, 1119, 1120, 1503, 1512, 1513, 1751, 2332, 3559 of this title; title 15 section 1825; title 21 section 1041; title 42 sections 2283, 5106a; title 49 section 46506.
+This section is referred to in sections 351, 924, 930, 1114, 1116, 1119, 1120, 1503, 1512, 1513, 1751, 2332, 3559 of this title; title 15 section 1825; title 21 section 1041; title 42 sections 671, 2283, 5106a; title 49 section 46506.
 

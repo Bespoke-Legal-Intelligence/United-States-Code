@@ -1,6 +1,6 @@
 ### §3106. Retirement and savings bonds
 
-(a) With the approval of the President, the Secretary of the Treasury may issue retirement and savings bonds of the United States Government and may buy, redeem, and make refunds under section 3111 of this title. The proceeds from the bonds shall be used for expenditures authorized by law. Retirement and savings bonds may be issued only on a discount basis. The maturity period of the bonds shall be at least 10 years from the date of issue but not more than 30 years from the date of issue. The difference between the price paid and the amount received on redeeming a bond is interestunder the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
+(a) With the approval of the President, the Secretary of the Treasury may issue retirement and savings bonds of the United States Government and may buy, redeem, and make refunds under section 3111 of this title. The proceeds from the bonds shall be used for expenditures authorized by law. Retirement and savings bonds may be issued only on a discount basis. The maturity period of the bonds shall be at least 10 years from the date of issue but not more than 30 years from the date of issue. The difference between the price paid and the amount received on redeeming a bond is interest under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
 (b) With the approval of the President, the Secretary may allow owners of retirement and savings bonds to keep the bonds after maturity and continue to earn interest on them at rates that are consistent with the rate of investment yield provided by retirement and savings bonds.
 
@@ -58,7 +58,7 @@ Sept. 3, 1982, Pub. L. 97–248, §289(a)(2), 96 Stat. 571.
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Subsec. (b). Pub. L. 97–452 struck out provisions that the issue price of retirement and savings bonds and the conditions under which they could be redeemed could give an investment yield of not more than 5 percent a year compounded semiannually.
+1983—Subsec. (b). Pub. L. 97–452 struck out provisions that the issue price of retirement and savings bonds and the conditions under which they could be redeemedcould give an investment yield of not more than 5 percent a year compounded semiannually.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ The Clearinghouse shall—
 
 A contract entered into by the Secretary under this section may provide that the Clearinghouse charge fees or assessments in order to defray, and beginning with fiscal year 1992, to cover, the costs of operating the Clearinghouse.
 
-(July 1, 1944, ch. 373, title XII, §1202, formerly §1203, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2917; renumbered §1202, Dec. 14, 1993, Pub. L. 103–183, title VI, §601(b)(2), 107 Stat. 2238.)
+(July 1, 1944, ch. 373, title XII, §1202, formerly §1203, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2917; renumbered §1202, Pub. L. 103–183, title VI, §601(b)(2), Dec. 14, 1993, 107 Stat. 2238; amended Pub. L. 105–392, title IV, §401(a)(1)(A), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 
@@ -29,4 +29,12 @@ A prior section 300d–2, act July 1, 1944, ch. 373, title XII, §1203, as added
 A prior section 1202 of act July 1, 1944, was classified to section 300d–1 of this title prior to repeal by Pub. L. 103–183.
 
 Another prior section 1202 of act July 1, 1944, was classified to section 300d–6 of this title prior to repeal by Pub. L. 99–117.
+
+#### Amendments
+
+1998—Pub. L. 105–392 made technical correction to directory language of Pub. L. 103–183, §601(b)(2), which renumbered this section.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 

@@ -6,7 +6,7 @@ From the sums appropriated to the National Institute of Child Health and Human D
 
 #### (b) Reports to Congressional committees; contents: data as to applications and funds for specific and general research, summary of findings and plan for taking advantage of research leads and findings
 
-(1) Not later than ninety days after the close of the fiscal year ending September 30, 1979, and of each fiscal year thereafter, the Secretary shall report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives specific information for such fiscal year on—
+(1) Not later than ninety days after the close of the fiscal year ending September 30, 1979, andof each fiscal year thereafter, the Secretary shall report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives specific information for such fiscal year on—
 
 &emsp;(A) the (i) number of applications approved by the Secretary in the fiscal year reported on for grants and contracts under this chapter for research which relates specifically to sudden infant death syndrome, (ii) total amount requested under such applications, (iii) number of such applications for which funds were provided in such fiscal year, and (iv) total amount of such funds; and
 
@@ -22,7 +22,7 @@ From the sums appropriated to the National Institute of Child Health and Human D
 
 Within five days after the Budget is transmitted by the President to the Congress for each fiscal year after fiscal year 1980, the Secretary shall transmit to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives an estimate of the amounts requested for the National Institute of Child Health and Human Development and any other Institutes of the National Institutes of Health, respectively, for research relating to sudden infant death syndrome as described in subparagraphs (A) and (B) of subsection (b)(1) of this section, and a comparison of such amounts with the amounts requested for the preceding fiscal year.
 
-(July 1, 1944, ch. 373, title XI, §1122, as added Dec. 12, 1979, Pub. L. 96–142, title II, §202, 93 Stat. 1072; amended Nov. 20, 1985, Pub. L. 99–158, §3(a)(6), 99 Stat. 879; Nov. 2, 1994, Pub. L. 103–437, §15(a)(1), 108 Stat. 4591.)
+(July 1, 1944, ch. 373, title XI, §1122, as added Pub. L. 96–142, title II, §202, Dec. 12, 1979, 93 Stat. 1072; amended Pub. L. 99–158, §3(a)(6), Nov. 20, 1985, 99 Stat. 879; Pub. L. 103–437, §15(a)(1), Nov. 2, 1994, 108 Stat. 4591.)
 
 #### Amendments
 

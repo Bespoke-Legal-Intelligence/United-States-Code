@@ -2,7 +2,7 @@
 
 The Secretary is authorized to conduct surveys, investigations, and research relating to the conditions and factors affecting, and methods of accomplishing most effectively, the policy and purposes of section 590g(a) of this title. Notwithstanding any provision of existing law, the Secretary is authorized to make public such information as he deems necessary to carry out the provisions of this chapter.
 
-(Apr. 27, 1935, ch. 85, §9, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1150; amended June 28, 1937, ch. 395, §2, 50 Stat. 329; Dec. 21, 1982, Pub. L. 97–375, title I, §103(c), 96 Stat. 1819.)
+(Apr. 27, 1935, ch. 85, §9, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1150; amended June 28, 1937, ch. 395, §2, 50 Stat. 329; Pub. L. 97–375, title I, §103(c), Dec. 21, 1982, 96 Stat. 1819.)
 
 #### Amendments
 

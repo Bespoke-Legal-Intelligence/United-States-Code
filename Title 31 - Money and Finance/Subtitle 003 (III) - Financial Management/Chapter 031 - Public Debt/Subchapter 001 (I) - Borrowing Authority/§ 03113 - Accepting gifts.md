@@ -1,6 +1,6 @@
 ### §3113. Accepting gifts
 
-(a) To provide the people of the United States with an opportunity to make gifts to the UnitedStates Government to be used to reduce the public debt—
+(a) To provide the people of the United States with an opportunity to make gifts to the United States Government to be used to reduce the public debt—
 
 &emsp;(1) the Secretary of the Treasury may accept for the Government a gift of—
 

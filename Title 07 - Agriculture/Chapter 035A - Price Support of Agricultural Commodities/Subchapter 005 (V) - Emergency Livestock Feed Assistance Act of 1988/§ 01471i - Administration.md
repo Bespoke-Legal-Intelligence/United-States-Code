@@ -12,7 +12,7 @@ Such regulations shall establish procedures to ensure that the request for assis
 
 For purposes of this subchapter, indigenous plants available to a livestock producer but not normally consumed by livestock as feed, such as cactus, may not be considered as feed on hand for such producers.
 
-(Oct. 31, 1949, ch. 792, title VI, §611, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 931.)
+(Oct. 31, 1949, ch. 792, title VI, §611, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 931.)
 
 #### Effective Date
 

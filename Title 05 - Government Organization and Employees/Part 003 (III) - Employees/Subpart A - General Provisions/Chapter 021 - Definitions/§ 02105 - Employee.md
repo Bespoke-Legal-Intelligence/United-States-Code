@@ -46,7 +46,7 @@
 
 (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L. 99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–486, §4, Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–375, §6(c)(4), Aug. 12, 1970, 84 Stat. 775; Pub. L. 92–392, §2, Aug. 19, 1972, 86 Stat. 573; Pub. L. 95–454, title VII, §703(c)(2), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1217, 1224; Pub. L. 96–54, §2(a)(5), (6), Aug. 14, 1979, 93 Stat. 381; Pub. L.99–335, title II, §207(a), June 6, 1986, 100 Stat. 594; Pub. L. 99–638, §2(b)(1), Nov. 10, 1986, 100 Stat. 3536; Pub. L. 101–508, title VII, §7202(b), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–3, title II, §201(b), Feb. 5, 1993, 107 Stat. 23; Pub. L. 103–424, §7, Oct. 29, 1994, 108 Stat. 4364; Pub. L. 104–201, div. A, title III, §370(b), Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. B, title XXVIII, §2871(c)(2), Nov. 18, 1997, 111 Stat. 2015.)
 
 Historical and Revision Notes
 
@@ -196,7 +196,7 @@ Section 7202(n) of Pub. L. 101–508, as amended by Pub. L. 102–378, §5(a)(2)
 
 “(B) Notwithstanding subsection (a) or (b) of section 8432 of title 5, United States Code, any individual who, as of the date of enactment of this Act \[Nov. 5, 1990\], becomes eligible to make an election under section 8347(q)(1) of such title may, within 30 days after such individual makes an election thereunder in accordance with subsection (m)(2) \[set out as a note above\], make any election described in section 8432(b)(1)(A) of such title.
 
-“(3)(A) If an individual makes an election under section 8461(n)(1) of title 5, United States Code, to remain covered by chapter 84 of such title, any nonappropriated fund instrumentality thereafter employing such individual shall deduct from such individual's pay and shall contribute to the Thrift Savings Fund the fundsdeducted, together with such other sums as are required for such individual under subchapter III of such chapter.
+“(3)(A) If an individual makes an election under section 8461(n)(1) of title 5, United States Code, to remain covered by chapter 84 of such title, any nonappropriated fund instrumentality thereafter employing such individual shall deduct from such individual's pay and shall contribute to the Thrift Savings Fund the funds deducted, together with such other sums as are required for such individual under subchapter III of such chapter.
 
 “(B) Notwithstanding subsection (a) or (b) of section 8432 of title 5, United States Code, any individual who, as of the date of enactment of this Act, becomes eligible to make an election under section 8461(n)(1) of such title may, within 30 days after such individual makes an election thereunder in accordance with subsection (m)(2), make any election described in section 8432(b)(1)(A) of such title.
 
@@ -210,5 +210,5 @@ Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c) emp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3502, 5334, 5335, 5342, 5365, 5506, 5515, 5537, 5551, 5552, 5581, 5595, 5736, 5751, 5945, 5946, 6103, 6104, 6121, 6301, 6308, 6322, 6323, 6385, 7103, 7119, 7342, 7905, 8171, 8172, 8173, 8311, 8331, 8332, 8347, 8401, 8461, 8701, 8901 of this title; title 10 sections 975, 1587; title 18 section 202; title 19 section 2081; title 22 sections 4341, 4833; title 25 section 450i; title 26 section 7608; title 41 sections 419, 423; title 42 section 3374; title 50 section 426.
+This section is referred to in sections 3502, 5334, 5335, 5342, 5365, 5506, 5515, 5537, 5551, 5552, 5581, 5595, 5736, 5751, 5945, 5946, 6103, 6104, 6121, 6301, 6308, 6322, 6323, 6385, 7103, 7119, 7342, 7905, 8171, 8172, 8173, 8311, 8331, 8332, 8347, 8401, 8461, 8701, 8901 of this title; title 10 sections 975, 1587; title 18 section 202; title 19 section 2081; title 22 sections 4341, 4833; title 25 section 450i; title 26 section 7608; title 41 sections 419, 423; title 42 sections 3374, 14614; title 50 section 426.
 

@@ -26,7 +26,7 @@ Submission of subscriber lists to networks.—A satellite carrier that makes sec
 
 &emsp;(3)
 
-Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willfulor repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a superstation or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
+Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a superstation or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
 
 &emsp;(4)
 
@@ -136,7 +136,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;(2)
 
-Investment of fees.—The Register of Copyrights shall receive all fees deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section (other than the costs deducted under paragraph (4)), shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing securities of the United States for later distribution with interest by the Librarian of Congress as provided by this title.
+Investment of fees.—The Register of Copyrights shall receive all fees deposited under this section and, after deducting thereasonable costs incurred by the Copyright Office under this section (other than the costs deducted under paragraph (4)), shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing securities of the United States for later distribution with interest by the Librarian of Congress as provided by this title.
 
 &emsp;(3)
 
@@ -196,9 +196,9 @@ Notice of initiation of proceedings.—On or before January 1, 1997, the Librari
 
 &emsp;&emsp;(B)
 
-Establishment of royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royaltypanel appointed under chapter 8 shall establish fees for the retransmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions. In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
+Establishment of royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall establish fees for the retransmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions. In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
 
-&emsp;&emsp;&emsp;(i) the competitive environment in which such programming is distributed, the cost of similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
+&emsp;&emsp;&emsp;(i) the competitive environment in which such programming is distributed, the costof similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
 
 &emsp;&emsp;&emsp;(ii) the economic impact of such fees on copyright owners and satellite carriers; and
 
@@ -276,7 +276,7 @@ Local market.—The term “local market” means the area encompassed within a 
 
 (e)
 
-Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for private home viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.
+Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for privatehome viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.
 
 (Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535.)
 

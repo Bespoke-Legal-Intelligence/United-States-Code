@@ -24,7 +24,7 @@ Any person who violates any provision of this chapter or the rules or regulation
 
 #### (c) Joint and several liability for communicating
 
-Any person who violates any provision of this chapter or the rules or regulations thereunder by communicating material, nonpublic information shall be jointly and severally liable under subsection (a) of this section with, and to the same extent as, any person or persons liable under subsection (a) of this section to whom the communication was directed.
+Any person who violates any provision of this chapter or the rules or regulations thereunderby communicating material, nonpublic information shall be jointly and severally liable under subsection (a) of this section with, and to the same extent as, any person or persons liable under subsection (a) of this section to whom the communication was directed.
 
 #### (d) Authority not to restrict other express or implied rights of action
 
@@ -34,7 +34,7 @@ Nothing in this section shall be construed to limit or condition the right of an
 
 This section shall not be construed to bar or limit in any manner any action by the Commission or the Attorney General under any other provision of this chapter, nor shall it bar or limit in any manner any action to recover penalties, or to seek any other order regarding penalties.
 
-(June 6, 1934, ch. 404, title I, §20A, as added Nov. 19, 1988, Pub. L. 100–704, §5, 102 Stat. 4680.)
+(June 6, 1934, ch. 404, title I, §20A, as added Pub. L. 100–704, §5, Nov. 19, 1988, 102 Stat. 4680.)
 
 #### References in Text
 

@@ -22,3 +22,37 @@
 
 Section 1 of Pub. L. 94–201 provided: “That this Act \[enacting this chapter\] may be cited as the ‘American Folklife Preservation Act’.”
 
+#### Findings and Purpose of 1998 Amendment
+
+Pub. L. 105–275, title III, §312(a), Oct. 21, 1998, 112 Stat. 2457, provided that:
+
+“(1)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(A) The American Folklife Center in the Library of Congress was created by Congress in 1976, building on the vast expertise and archival material existing at the Library since 1928.
+
+&emsp;“(B) As an instrumentality of the Congress, it is fitting that the American Folklife Center should have a direct and close relationship with the representatives of the people, who are best able to oversee the ongoing activities of the Center to preserve and promote the cultural traditions of the people, and to ensure that the resources of the Center be readily available to all Americans.
+
+&emsp;“(C) In over 20 years since its creation, the American Folklife Center in the Library of Congress has—
+
+&emsp;&emsp;“(i) increased the size of the Archive of Folk Culture from 500,000 to 1,500,000 multi-format ethnographic items;
+
+&emsp;&emsp;“(ii) engaged in 15 cultural surveys and field documentation projects in all regions of the country;
+
+&emsp;&emsp;“(iii) provided publications, documentary equipment on loan, and advisory and reference service to persons and institutions in all 50 States;
+
+&emsp;&emsp;“(iv) produced exhibitions and other educational programs on American Folklife at the Library and around the country;
+
+&emsp;&emsp;“(v) begun sharing its unique collections in digital form via the Internet; and
+
+&emsp;&emsp;“(vi) served as a national center for the professions of folklore, ethnomusicology, and cultural studies.
+
+&emsp;“(D) Congress has consistently provided encouragement and support of American Folklife as an appropriate matter of concern to the Federal Government, passing legislation to reauthorize the Center eight times since its creation in 1976.
+
+&emsp;“(E) The American Folklife Center is the only unit in the Library of Congress which is not permanently authorized. Since its establishment in 1976, the Center's collections and activities have been fully and successfully integrated into the Library of Congress.It is useful to statutorily conform the American Folklife Center with the rest of the Library of Congress.
+
+“(2)
+
+Purpose.—It is the purpose of this section \[amending sections 2103, 2106, and 2107 of this title and enacting provisions set out as a note under section 2103 of this title\] to authorize permanently the American Folklife Center in the Library of Congress to preserve and present American Folklife.”
+

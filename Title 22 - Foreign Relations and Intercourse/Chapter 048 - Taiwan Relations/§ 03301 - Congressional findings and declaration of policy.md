@@ -50,7 +50,7 @@ In light of the recognition of the People's Republic of China by the United Stat
 
 Section 1. <i>Delegation and Reservation of Functions.</i>
 
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President by this order, there are delegated to the Secretary of State (“Secretary”) all functions conferred upon the President by the Act, including the authority under section 7(a) of the Act \[22 U.S.C. 3306(a)\] to specify which laws of the United States relative to the provision of consular services may be administered by employees of the American Institute on Taiwan (“Institute”). In carrying out these functions, the Secretary may redelegate his authority, and shall consult with other departments and agencies as he deems appropriate.
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President by this order, there are delegated to the Secretary of State (“Secretary”) all functions conferred upon the President by the Act, including the authority under section 7(a) of the Act \[22 U.S.C. 3306(a)\] to specify which laws of the United States relative to the provision of consular services may be administered by employees of the American Institute on Taiwan (“Institute”). In carrying out thesefunctions, the Secretary may redelegate his authority, and shall consult with other departments and agencies as he deems appropriate.
 
 1–102. There are delegated to the Director of the Office of Personnel Management the functions conferred upon the President by paragraphs (1) and (2) of section 11(a) of the Act \[22 U.S.C. 3310(a)\]. These functions shall be exercised in consultation with the Secretary.
 

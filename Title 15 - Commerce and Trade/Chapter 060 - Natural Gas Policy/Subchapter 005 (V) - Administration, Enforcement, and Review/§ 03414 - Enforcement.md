@@ -18,7 +18,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (4) Relief available
 
-&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue a temporary restraining order or preliminary or permanent injunction without bond. In anysuch action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
+&emsp;In any action under paragraph (1) or (2), the court shall, upon a proper showing, issue a temporary restraining order or preliminary or permanent injunction without bond. In any such action, the court may also issue a mandatory injunction commanding any person to comply with any applicable provision of law, rule, or order, or ordering such other legal or equitable relief as the court determines appropriate, including refund or restitution.
 
 #### (5) Criminal referral
 

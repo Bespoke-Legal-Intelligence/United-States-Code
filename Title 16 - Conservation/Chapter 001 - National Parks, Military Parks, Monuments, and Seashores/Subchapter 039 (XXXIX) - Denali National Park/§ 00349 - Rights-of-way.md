@@ -2,7 +2,7 @@
 
 Whenever consistent with the primary purposes of Denali National Park, section 79 of this title shall be applicable to the lands included within the park.
 
-(Feb. 26, 1917, ch. 121, §3, 39 Stat. 938; Dec. 2, 1980, Pub. L. 96–487, title II, §202(3)(a), 94 Stat. 2382.)
+(Feb. 26, 1917, ch. 121, §3, 39 Stat. 938; Pub. L. 96–487, title II, §202(3)(a), Dec. 2, 1980, 94 Stat. 2382.)
 
 #### References in Text
 

@@ -1,6 +1,6 @@
 ### §692. Environmental Compliance and Restoration Account
 
-(a) There is established for the Coast Guard an account known as the Coast Guard Environmental Compliance and Restoration Account. All sums appropriated to carry out the Coast Guard's environmental compliance and restoration functions under this chapter or another law shall be credited or transferred to the account and remain available until expended.
+(a) There is established for the Coast Guard an account known as the Coast Guard Environmental Compliance and Restoration Account. All sums appropriated to carry out the Coast Guard's environmental compliance and restoration functions under this chapter or another lawshall be credited or transferred to the account and remain available until expended.
 
 (b) Funds may be obligated or expended from the account to carry out the Coast Guard's environmental compliance and restoration functions under this chapter or another law.
 

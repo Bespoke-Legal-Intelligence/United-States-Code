@@ -120,6 +120,22 @@ Section 4 of Pub. L. 98–450, as amended by Pub. L. 100–617, §1, Nov. 5, 198
 
 \[Amendment by Pub. L. 103–182 to section 4 of Pub. L. 98–450, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 335 of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.\]
 
+#### Evaluation of Impact of Copyright Law and Amendments on Electronic Commerce and Technological Development
+
+Pub. L. 105–304, title I, §104, Oct. 28, 1998, 112 Stat. 2876, provided that:
+
+“(a)
+
+Evaluation by the Register of Copyrights and the Assistant Secretary for Communications and Information.—The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall jointly evaluate—
+
+&emsp;“(1) the effects of the amendments made by this title \[enacting chapter 12 of this title and amending sections 101, 104, 104A, 411, and 507 of this title\] and the development of electronic commerce and associated technology on the operation of sections 109 and 117 of title 17, United States Code; and
+
+&emsp;“(2) the relationship between existing and emergent technology and the operation of sections 109 and 117 of title 17, United States Code.
+
+“(b)
+
+Report to Congress.—The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall, not later than 24 months after the date of the enactment of this Act \[Oct. 28, 1998\], submit to the Congress a joint report on the evaluation conducted under subsection (a), including any legislative recommendations the Register and the Assistant Secretary may have.”
+
 #### Cross References
 
 Action for infringement of copyright, see section 501 of this title.

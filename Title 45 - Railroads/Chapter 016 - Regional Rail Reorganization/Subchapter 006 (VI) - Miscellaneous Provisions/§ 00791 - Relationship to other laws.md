@@ -30,7 +30,7 @@ The provisions of section 4332(2)(C) of title 42 shall not apply with respect to
 
 (3) The Secretary shall begin the necessary engineering studies and improvements on January 2, 1974.
 
-(4) The final system plan shall provide for any necessary coordination with freight or commuter services of use of the facilities designated in section 716(c)(1)(C) of this title. Such coordination may be effectuated through a single operating entity, designated in the final systemplan, or as mutually agreed upon by the interested parties.
+(4) The final system plan shall provide for any necessary coordination with freight or commuter services of use of the facilities designated in section 716(c)(1)(C) of this title. Such coordination may be effectuated through a single operating entity, designated in the final system plan, or as mutually agreed upon by the interested parties.
 
 (5) Construction or improvements made pursuant to this subsection may be made in consultation with the Corps of Engineers.
 

@@ -48,11 +48,15 @@ Section 2(b)(2) of Pub. L. 103–279 provided that:
 
 “(A)
 
-Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
+Superintendent of schools of the district of columbia.—The amendment made by paragraph\(1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
 
 “(B)
 
 Members of congress.—The amendment made by paragraph (1)(C)(ii) \[amending this section\] shall take effect on the date of enactment of this Act.”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–226, §1, Aug. 12, 1998, 112 Stat. 1513, provided that: “This Act \[amending sections 76j, 76<i>l</i>, and 76r of this title\] may be cited as the ‘John F. Kennedy Center for the Performing Arts Authorization Act of 1998’.”
 
 #### Short Title of 1997 Amendment
 
@@ -68,7 +72,7 @@ Pub. L. 98–473, title I, §101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provide
 
 #### Short Title of 1963 Amendment
 
-Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of thistitle\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
+Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of this title\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
 
 #### Short Title
 

@@ -82,7 +82,7 @@ There are transferred to the Secretary all functions of the Secretary of Health,
 
 #### (d) Reservation of functions relating to Project Head Start
 
-Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
+Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
 
 (Pub. L. 96–88, title III, §301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
@@ -108,7 +108,7 @@ The Economic Opportunity Act of 1964, referred to in subsecs. (a)(2)(I) and (d),
 
 The National Commission on Libraries and Information Science Act, referred to in subsec. (a)(2)(J), is Pub. L. 91–345, July 20, 1970, 84 Stat. 440, as amended, which is classified generally to chapter 34 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-The Vocational Education Act of 1963, referred to in subsec. (a)(2)(K), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. Subsequently, Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, amended the Act to be cited as the Carl D. Perkins Vocational and Applied Technology Education Act. For additional details, see the Codification note preceding section 2301 of this title.
+The Vocational Education Act of 1963, referred to in subsec. (a)(2)(K), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, and amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998. For additional details, see Codification note preceding section 2301 of this title.
 
 The Career Education Incentive Act, referred to in subsec. (a)(2)(L), is Pub. L. 95–207, Dec. 13, 1977, 91 Stat. 1464, as amended, which was classified principally to chapter 46 (§2601 et seq.) of this title prior to its repeal by Pub. L. 97–35, title V, §587(a)(4), Aug. 13, 1981, 95 Stat. 480.
 

@@ -4,7 +4,7 @@
 
 (b) The Commission shall include in its annual reports to Congress plans and findings with respect to implementing this section.
 
-(Sept. 21, 1922, ch. 369, §18, as added Oct. 23, 1974, Pub. L. 93–463, title IV, §416, 88 Stat. 1415.)
+(Sept. 21, 1922, ch. 369, §18, as added Pub. L. 93–463, title IV, §416, Oct. 23, 1974, 88 Stat. 1415.)
 
 #### Effective Date
 

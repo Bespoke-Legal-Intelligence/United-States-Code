@@ -20,7 +20,7 @@
 
 (2) An obligation of the Government issued after March 3, 1971, under law may not be redeemed before its maturity to pay a tax imposed by the Government in an amount more than the fair market value of the obligation at the time of its redemption. This paragraph does not apply to a Treasury bill issued under section 3104 of this title.
 
-(c) Under conditions prescribed by the Secretary, an obligation authorized by this chaptermay be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
+(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
 
 (d) Under conditions prescribed by the Secretary, the Secretary may issue registered bonds in exchange for and instead of coupon bonds that have been or may be issued. The registered bonds shall be similar in all respects to the registered bonds issued under a law authorizing the issue of coupon bonds offered for exchange.
 
@@ -52,7 +52,7 @@
 
 (h)(1) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations issued under this chapter, and obligations otherwise issued or guaranteed as to principal or interest by the United States. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
-(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
+(2) Violation of a regulation prescribed under paragraph (1) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal DepositInsurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration Board.
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
@@ -222,7 +222,7 @@ Pub. L. 98–216, §4(a), (b), Feb. 14, 1984, 98 Stat. 6, 7, as amended by Pub. 
 
 &emsp;“(B) the obligation was not required to be in registered form under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (26 U.S.C. 1 et seq.) as in effect on September 2, 1982.
 
-“(b) The amendment made by section 1(9) of the Act of January 12, 1983 (Public Law 97–452, 96 Stat. 2468)\[amending this section\], applies to an obligation issued under section 3103(a) of title 31, United States Code, after December 31, 1982.”
+“(b) The amendment made by section 1(9) of the Act of January 12, 1983 (Public Law 97–452, 96 Stat. 2468) \[amending this section\], applies to an obligation issued under section 3103(a) of title 31, United States Code, after December 31, 1982.”
 
 #### Transitional and Savings Provisions
 
@@ -282,7 +282,7 @@ In general.—Except as provided in subparagraph (B), any meeting of the Treasur
 
 &emsp;&emsp;“(B)
 
-Exception.—Subparagraph (A) shall not apply with respect to any part of any meeting of the advisory committee in which the advisory committee—
+Exception.—Subparagraph (A) shall not apply with respect to any part of any meeting ofthe advisory committee in which the advisory committee—
 
 &emsp;&emsp;&emsp;“(i) discusses and debates the issues presented to the advisory committee by the Secretary of the Treasury; or
 
@@ -332,7 +332,7 @@ Report to Congress.—
 
 Report required.—The Secretary of the Treasury shall submit an annual report to the Congress containing the following information with respect to material violations or suspected material violations of regulations of the Secretary relating to auctions and other offerings of securities upon the issuance of such securities by the Secretary:
 
-&emsp;&emsp;“(A) The number of inquiries begun by the Secretary during the year covered by the report regarding such material violations or suspected material violations by any participant in the auctionsystem or any director, officer, or employee of any such participant and the number of inquiries regarding any such violations or suspected violations which remained open at the end of such year.
+&emsp;&emsp;“(A) The number of inquiries begun by the Secretary during the year covered by the report regarding such material violations or suspected material violations by any participant in the auction system or any director, officer, or employee of any such participant and the number of inquiries regarding any such violations or suspected violations which remained open at the end of such year.
 
 &emsp;&emsp;“(B) A brief description of the nature of the violations.
 

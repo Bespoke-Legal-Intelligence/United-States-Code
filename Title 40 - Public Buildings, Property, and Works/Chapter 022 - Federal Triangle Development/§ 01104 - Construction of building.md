@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Upon approval of the development proposal submitted under section 1103(f) of this title by resolutions adopted by the Committee on Environment and Public Works of the Senate and the Committee on Public Works of the House of Representatives, the Corporation in accordance with its policies and procedures for a development competition, shall select a person to develop the Federal Triangle property.
+&emsp;Upon approval of the development proposal submitted under section 1103(f) of this title by resolutions adopted by the Committee on Environment and Public Works of the Senate andthe Committee on Public Works of the House of Representatives, the Corporation in accordance with its policies and procedures for a development competition, shall select a person to develop the Federal Triangle property.
 
 #### (2) Consultation requirement
 
@@ -70,7 +70,7 @@ There is authorized to be appropriated, from the fund established by section 210
 
 #### References in Text
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsecs. (g) and (h), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which is classified to chapter 19 (§871 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 871 of this title and Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsecs. (g) and (h), is Pub.L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which is classified to chapter 19 (§871 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 871 of this title and Tables.
 
 #### Change of Name
 

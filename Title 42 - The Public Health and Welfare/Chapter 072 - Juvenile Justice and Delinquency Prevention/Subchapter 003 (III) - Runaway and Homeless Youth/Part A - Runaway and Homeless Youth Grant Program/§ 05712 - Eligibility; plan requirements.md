@@ -26,9 +26,9 @@ In order to qualify for assistance under section 5711(a) of this title, an appli
 
 &emsp;&emsp;(C) the return of runaway and homeless youth from correctional institutions;
 
-&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth who are returned beyond the State in which the runaway and homeless youth center is located;
+&emsp;(5) shall develop an adequate plan for providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring, as possible, that aftercare services will be provided to those youth whoare returned beyond the State in which the runaway and homeless youth center is located;
 
-&emsp;(6) shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members ofa cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) of this section may be expended;
+&emsp;(6) shall develop an adequate plan for establishing or coordinating with outreach programs designed to attract persons (including, where applicable, persons who are members of a cultural minority and persons with limited ability to speak English) who are eligible to receive services for which a grant under subsection (a) of this section may be expended;
 
 &emsp;(7) shall keep adequate statistical records profiling the youth and family members whom it serves (including youth who are not referred to out-of-home shelter services), except that records maintained on individual runaway and homeless youth shall not be disclosed without the consent of the individual youth and parent or legal guardian to anyone other than another agency compiling statistical records or a government agency involved in the disposition of criminal charges against an individual runaway and homeless youth, and reports or other documents based on such statistical records shall not disclose the identity of individual runaway and homeless youth;
 

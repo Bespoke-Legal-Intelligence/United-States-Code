@@ -42,7 +42,7 @@ The President shall not designate any country a beneficiary country under this c
 
 > &emsp;&emsp;a United States citizen or a corporation, partnership, or association, which is 50 percent or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property so owned, or
 
-&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of suchproperty, unless the President determines that—
+&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property, unless the President determines that—
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 

@@ -26,7 +26,7 @@ If the trustees elect to follow the course specified in paragraph (2) of this su
 
 After opportunity for hearing upon the objections specified in the written statement so filed, the Commission may, and if demanded by the trustees or by such applicants shall, enter an order either sustaining one or more of such objections or refusing to sustain any of them. If the Commission shall enter an order refusing to sustain any of such objections, or if, after the entry of an order sustaining one or more of such objections, the Commission shall find, after notice and opportunity for hearing, that all objections so sustained have been met, and shall enter an order so declaring, the trustees shall mail copies of such material to all shareholders with reasonable promptness after the entry of such order and the renewal of such tender.
 
-(Aug. 22, 1940, ch. 686, title I, §16, 54 Stat. 813; June 4, 1975, Pub. L. 94–29, §28(3), 89 Stat. 165.)
+(Aug. 22, 1940, ch. 686, title I, §16, 54 Stat. 813; Pub. L. 94–29, §28(3), June 4, 1975, 89 Stat. 165.)
 
 #### Amendments
 

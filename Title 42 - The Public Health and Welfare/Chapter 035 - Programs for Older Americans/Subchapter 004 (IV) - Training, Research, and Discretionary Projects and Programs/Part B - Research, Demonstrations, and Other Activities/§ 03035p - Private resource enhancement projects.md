@@ -12,7 +12,7 @@
 
 #### (3) Use of resources
 
-&emsp;Resources generated with a grant made, or a contract entered into, under subsection (a) of this section shall be used to provide supportive services in accordance with subchapter III of this chapter. The requirements under this chapter that apply to funds received under subchapter III of this chapter by States to carry out subchapter III of this chapter shall apply with respect to such resources.
+&emsp;Resources generated with a grant made, or a contract entered into, under subsection (a) ofthis section shall be used to provide supportive services in accordance with subchapter III of this chapter. The requirements under this chapter that apply to funds received under subchapter III of this chapter by States to carry out subchapter III of this chapter shall apply with respect to such resources.
 
 #### (b) Award of grants and contracts
 

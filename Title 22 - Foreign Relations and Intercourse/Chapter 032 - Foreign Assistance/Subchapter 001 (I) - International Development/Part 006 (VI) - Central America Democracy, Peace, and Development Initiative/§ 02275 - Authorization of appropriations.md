@@ -2,7 +2,7 @@
 
 #### (a) Fiscal years 1988 and 1989
 
-In addition to amounts otherwise available for such purposes, there are authorized to be appropriated to the President, for the purpose of furnishing nonmilitary assistance for CentralAmerican countries, $1,200,000,000 for each of the fiscal years 1988 and 1989, which are authorized to remain available until expended.
+In addition to amounts otherwise available for such purposes, there are authorized to be appropriated to the President, for the purpose of furnishing nonmilitary assistance for Central American countries, $1,200,000,000 for each of the fiscal years 1988 and 1989, which are authorized to remain available until expended.
 
 #### (b) Transfer of funds
 
@@ -16,7 +16,7 @@ The Peace Corps Act, referred to in subsec. (b), is Pub. L. 87–293, Sept. 22, 
 
 The Migration and Refugee Assistance Act of 1962, referred to in subsec. (b), is Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, which is classified principally to chapter 36 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The United States Information and Education Exchange Act of 1948, referred to in subsec. (b), probably means the United States Information and Educational Exchange Act of 1948, which is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, and is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Education Exchange Act of 1948, referred to in subsec. (b), probably means the United States Information and Educational Exchange Act of 1948, which is act Jan. 27, 1948, ch. 36,62 Stat. 6, as amended, and is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 

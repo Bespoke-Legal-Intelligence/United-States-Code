@@ -32,9 +32,11 @@
 
 &emsp;(2) Instead of a holiday that occurs on a regular weekly non-workday of an employee whose basic workweek is other than Monday through Friday, except the regular weekly non-workday administratively scheduled for the employee instead of Sunday, the workday immediately before that regular weekly nonworkday is a legal public holiday for the employee.
 
+&emsp;(3) Instead of a holiday that is designated under subsection (a) to occur on a Monday, for an employee at a duty post outside the United States whose basic workweek is other than Monday through Friday, and for whom Monday is a regularly scheduled workday, the legal public holiday is the first workday of the workweek in which the Monday designated for the observance of such holiday under subsection (a) occurs.
+
 > This subsection, except subparagraph (B) of paragraph (1), does not apply to an employee whose basic workweek is Monday through Saturday.
 
-(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery and Prince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the citiesof Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
+(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery and Prince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the cities of Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
 
 (d)(1) For purposes of this subsection—
 
@@ -44,7 +46,7 @@
 
 (2) An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, §1107, Oct. 17, 1998, 112 Stat. 2142.)
 
 Historical and Revision Notes
 
@@ -101,6 +103,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pub. L. 94–183, §2(26), Dec. 31, 1975, 89 Stat. 1058.
 
 #### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–261 added par. (3).
 
 1996—Subsec. (d). Pub. L. 104–201 added subsec. (d).
 

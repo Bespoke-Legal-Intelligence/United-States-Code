@@ -12,7 +12,7 @@ The Council shall meet once during each calendar quarter to discuss certain prop
 
 Members of the Council shall be entitled to receive reimbursement of expenses and per diem in lieu of subsistence in the same manner as other members of advisory councils appointed by the Secretary are provided such reimbursement and per diem under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Nov. 5, 1990, Pub. L. 101–508, title IV, §4112, 104 Stat. 1388–64.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64.)
 
 #### Prior Provisions
 
@@ -20,5 +20,5 @@ A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as adde
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L.92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

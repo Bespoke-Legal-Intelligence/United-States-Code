@@ -2,7 +2,7 @@
 
 #### (a) Designation and coordination
 
-The President shall designate, and the Secretary of State shall coordinate the participation of, representatives of the United States tothe Consultative Committee to be established under paragraph 7 of Article III of the Panama Canal Treaty of 1977.
+The President shall designate, and the Secretary of State shall coordinate the participation of, representatives of the United States to the Consultative Committee to be established under paragraph 7 of Article III of the Panama Canal Treaty of 1977.
 
 #### (b) Functions
 

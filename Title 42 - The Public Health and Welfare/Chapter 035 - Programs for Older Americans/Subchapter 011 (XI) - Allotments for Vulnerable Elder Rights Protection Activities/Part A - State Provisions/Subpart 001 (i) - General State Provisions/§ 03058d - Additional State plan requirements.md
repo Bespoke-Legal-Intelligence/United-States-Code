@@ -4,7 +4,7 @@
 
 In order to be eligible to receive an allotment under this part, a State shall include in the State plan submitted under section 3027 of this title—
 
-&emsp;(1) an assurance that the State, in carrying out any subpart of this part for which the State receives funding under this part, will establish programs in accordance with the requirements of the subpart and this subpart;
+&emsp;(1) an assurance that the State, in carrying out any subpart of this part for which theState receives funding under this part, will establish programs in accordance with the requirements of the subpart and this subpart;
 
 &emsp;(2) an assurance that the State will hold public hearings, and use other means, to obtain the views of older individuals, area agencies on aging, recipients of grants under subchapter X of this chapter, and other interested persons and entities regarding programs carried out under this part;
 
@@ -74,7 +74,7 @@ The Social Security Act, referred to in subsec. (a)(7)(C)(ii), is act Aug. 14, 1
 
 #### Prior Provisions
 
-A prior section 3058d, Pub. L. 89–73, title VII, §706, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1791, authorized appropriations for fiscal years 1985, 1986, and 1987, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
+A prior section 3058d, Pub. L. 89–73, title VII, §706, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1791, authorized appropriations for fiscal years 1985,1986, and 1987, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 
 A prior section 705 of Pub. L. 89–73 was classified to section 3045d of this title prior to repeal by Pub. L. 95–478.
 

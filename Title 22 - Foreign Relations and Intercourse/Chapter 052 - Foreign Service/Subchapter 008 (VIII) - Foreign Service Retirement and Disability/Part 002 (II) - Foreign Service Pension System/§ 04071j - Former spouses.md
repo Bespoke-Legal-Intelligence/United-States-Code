@@ -36,7 +36,7 @@
 
 #### (b) Entitlement to survivor benefits; determination of share; disqualification upon remarriage
 
-(1) Unless otherwise expressly provided for by any spousal agreement or court order governing survivorship benefits under this part to a former spouse married to a participant or former participant for the periods specified in subsection (a)(1)(A) of this section, such former spouse is entitled to a share, determined under subsection (b)(2) of this section, of all survivor benefits that would otherwise be payable under this part to an eligible surviving spouse of the participant.
+(1) Unless otherwise expressly provided for by any spousal agreement or court order governing survivorship benefits under this part to a former spouse married to a participant or former participant for the periods specified in subsection (a)(1)(A) of this section, such former spouse isentitled to a share, determined under subsection (b)(2) of this section, of all survivor benefits that would otherwise be payable under this part to an eligible surviving spouse of the participant.
 
 (2) The share referred to in subsection (b)(1) of this section equals—
 

@@ -20,7 +20,7 @@ Research on Human Factors and Simulation Models.—The Administrator shall condu
 
 &emsp;(2) to enhance air traffic controller, mechanic, and flight crew performance;
 
-&emsp;(3) to develop a human-factor analysis of the hazards associated with new technologies to be used by air traffic controllers, mechanics, and flight crews;
+&emsp;(3) to develop a human-factor analysis of the hazards associated with new technologies tobe used by air traffic controllers, mechanics, and flight crews;
 
 &emsp;(4) to identify innovative and effective corrective measures for human errors that adversely affect air safety; and
 

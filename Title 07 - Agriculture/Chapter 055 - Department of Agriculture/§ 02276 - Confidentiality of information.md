@@ -2,7 +2,7 @@
 
 #### (a) Authorized disclosure
 
-In the case of information furnished under a provision of law referred to in subsection (d) of this section, neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
+In the case of information furnished under a provision of law referred to in subsection (d) ofthis section, neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
 
 &emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information; or
 

@@ -2,7 +2,7 @@
 
 #### (a) Promulgation and implementation by Secretary for State
 
-The Secretary shall prepare and, subject to the provisions of this section, promulgate andimplement a Federal program for a State no later than thirty-four months after August 3, 1977, if such State—
+The Secretary shall prepare and, subject to the provisions of this section, promulgate and implement a Federal program for a State no later than thirty-four months after August 3, 1977, if such State—
 
 &emsp;(1) fails to submit a State program covering surface coal mining and reclamation operations by the end of the eighteen-month period beginning on August 3, 1977;
 

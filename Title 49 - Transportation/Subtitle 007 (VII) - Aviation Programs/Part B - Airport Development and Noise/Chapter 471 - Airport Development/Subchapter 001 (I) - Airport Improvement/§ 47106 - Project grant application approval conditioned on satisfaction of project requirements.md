@@ -2,7 +2,7 @@
 
 (a)
 
-Project Grant Application Approval.—The Secretary of Transportation may approve an application under this subchapter for a project grant only if the Secretary is satisfied that—
+Project Grant Application Approval.—The Secretary of Transportation may approvean application under this subchapter for a project grant only if the Secretary is satisfied that—
 
 &emsp;(1) the project is consistent with plans (existing at the time the project is approved) of public agencies authorized by the State in which the airport is located to plan for the development of the area surrounding the airport;
 
@@ -40,7 +40,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(ii) the Administrator has prescribed applicable standards; and
 
-&emsp;(C) if the application is found to have a significant adverse effect on natural resources,including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
+&emsp;(C) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 
 (2) The Secretary may approve an application under this subchapter for an airport development project that does not involve the location of an airport or runway, or a major runway extension, at an existing airport without requiring an environmental impact statement related to noise for the project if—
 
@@ -70,7 +70,7 @@ Withholding Approval.—(1) The Secretary may withhold approval of an applicatio
 
 &emsp;(B) the hearing officer if the officer decides an extension is necessary because the sponsor did not follow the schedule the officer established.
 
-(3) A person adversely affected by an order of the Secretary withholding approval may obtain review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
+(3) A person adversely affected by an order of the Secretary withholding approval may obtain review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be broughtnot later than 60 days after the order is served on the petitioner.
 
 (e)
 

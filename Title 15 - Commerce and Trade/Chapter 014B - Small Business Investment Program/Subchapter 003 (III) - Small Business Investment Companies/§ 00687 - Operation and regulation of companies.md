@@ -116,7 +116,7 @@ Subsec. (h). Pub. L. 104–208, §208(h)(1)(B), substituted “section 681 of th
 
 Subsec. (g)(3). Pub. L. 102–366, §417(a), added par. (3).
 
-1986—Subsec. (g)(2)(J). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (g)(2)(J). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1985—Subsec. (i)(2). Pub. L. 99–226, §1(a), substituted “the maximum rate prescribed by regulation by the Administration for loans made by any licensee (determined without regard to any State rate incorporated by such regulation).” for “the lowest of the rates described in subparagraphs (A), (B), and (C)” and struck out subpars. (A), (B), and (C) which described the rates.
 

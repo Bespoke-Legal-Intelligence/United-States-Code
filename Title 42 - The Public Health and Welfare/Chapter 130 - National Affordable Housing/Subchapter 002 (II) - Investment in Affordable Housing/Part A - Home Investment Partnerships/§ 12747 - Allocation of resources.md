@@ -18,7 +18,7 @@
 
 #### (A) Basic formula
 
-&emsp;&emsp;The Secretary shall establish in <sup>2</sup> regulation an allocation formula that reflects eachjurisdiction's share of total need among eligible jurisdiction <sup>3</sup> for an increased supply of affordable housing for very low-income and low-income families of different size, as identified by objective measures of inadequate housing supply, substandard housing, the number of low-income families in housing likely to be in need of rehabilitation, the costs of producing housing, poverty, and the relative fiscal incapacity of the jurisdiction to carry out housing activities eligible under section 12742 of this title without Federal assistance. Allocation among units of general local government shall take into account the housing needs of metropolitan cities, urban counties, and approved consortia of units of general local government.
+&emsp;&emsp;The Secretary shall establish in <sup>2</sup> regulation an allocation formula that reflects each jurisdiction's share of total need among eligible jurisdiction <sup>3</sup> for an increased supply of affordable housing for very low-income and low-income families of different size, as identified by objective measures of inadequate housing supply, substandard housing, the number of low-income families in housing likely to be in need of rehabilitation, the costs of producing housing, poverty, and the relative fiscal incapacity of the jurisdiction to carry out housing activities eligible under section 12742 of this title without Federal assistance. Allocation among units of general local government shall take into account the housing needs of metropolitan cities, urban counties, and approved consortia of units of general local government.
 
 #### (B) Source of data
 
@@ -48,7 +48,7 @@
 
 #### (B) Increased minimum allocation
 
-&emsp;&emsp;If no unit of general local government within a State receives an allocation under paragraph (3), the State's allocation shall be increased by $500,000. Priority for use of such increased allocation shall go to the provision of affordable housing within the boundaries of metropolitan cities, urban counties, and approved consortia within the State, based on the need for such funds. The increased allocation to a State under the preceding sentence shall be derived by a pro rata deduction from the allocations to units of general local government in all States, except that such pro rata deduction shall not reduce the allocation of any unit of general local government below $500,000.
+&emsp;&emsp;If no unit of general local government within a State receives an allocation underparagraph (3), the State's allocation shall be increased by $500,000. Priority for use of such increased allocation shall go to the provision of affordable housing within the boundaries of metropolitan cities, urban counties, and approved consortia within the State, based on the need for such funds. The increased allocation to a State under the preceding sentence shall be derived by a pro rata deduction from the allocations to units of general local government in all States, except that such pro rata deduction shall not reduce the allocation of any unit of general local government below $500,000.
 
 #### (3) Minimum local allocation
 
@@ -60,7 +60,7 @@
 
 #### (c) Criteria for direct reallocation
 
-The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a direct reallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategiesunder this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
+The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a direct reallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategies under this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
 
 &emsp;(1) the applicant's demonstrated commitment to expand the supply of affordable rental housing, including units developed by public housing agencies, as indicated by the additional number of units of affordable housing made available through production or rehabilitation within the previous 2 years, making adjustment for regional variations in construction and rehabilitation costs and giving special consideration to the number of additional units made available under this subchapter through production or rehabilitation, including units developed by public housing agencies, in relation to the amounts made available under this program;
 
@@ -152,7 +152,7 @@ Pub. L. 102–550, §203(b)(3), substituted “formula in subparagraph (A)” fo
 
 Subsec. (b)(1)(F). Pub. L. 102–550, §203(b)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-Pub. L. 102–550, §203(b)(4), substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction's allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effect of the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
+Pub. L. 102–550, §203(b)(4), substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction's allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effectof the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
 
 Subsec. (b)(1)(G). Pub. L. 102–550, §203(b)(6), redesignated subpar. (G) as (F).
 
@@ -188,7 +188,7 @@ Grant thresholds provided for in subsec. (b) of this section as amended by Pub. 
 
 #### Expedited Issuance of Regulation
 
-Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day periodbeginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code, or section 7(<i>o</i>) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(<i>o</i>)\].”
+Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code, or section 7(<i>o</i>) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(<i>o</i>)\].”
 
 #### Section Referred to in Other Sections
 

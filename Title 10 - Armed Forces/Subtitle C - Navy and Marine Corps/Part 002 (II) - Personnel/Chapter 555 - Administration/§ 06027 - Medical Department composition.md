@@ -2,7 +2,7 @@
 
 The Medical Corps and Dental Corps, and such other staff corps as the Secretary of the Navy may establish under section 5150(b) of this title and designate to be in the Medical Department of the Navy, are in the Medical Department of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 377; Dec. 12, 1980, Pub. L. 96–513, title III, §353, 94 Stat. 2902; Oct. 1, 1986, Pub. L. 99–433, title V, §514(c)(3), 100 Stat. 1055.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 377; Pub. L. 96–513, title III, §353, Dec. 12, 1980, 94 Stat. 2902; Pub. L. 99–433, title V, §514(c)(3), Oct. 1, 1986, 100 Stat. 1055.)
 
 Historical and Revision Notes
 

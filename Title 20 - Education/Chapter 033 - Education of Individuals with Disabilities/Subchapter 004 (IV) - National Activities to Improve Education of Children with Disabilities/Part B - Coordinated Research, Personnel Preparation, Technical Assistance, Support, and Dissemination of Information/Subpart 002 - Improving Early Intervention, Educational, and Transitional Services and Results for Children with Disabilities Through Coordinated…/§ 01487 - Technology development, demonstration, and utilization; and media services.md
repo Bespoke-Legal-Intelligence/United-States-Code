@@ -60,3 +60,39 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 91–230, title VI, §687, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 154.)
 
+#### Prior Provisions
+
+Prior sections 1491 to 1491<i>o</i>, which comprised former subchapter IX of this chapter, were repealed by Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1998.
+
+Section 1491, Pub. L. 91–230, title VI, §701, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3937, provided that former subchapter IX of this chapter could be cited as the “Families of Children With Disabilities Support Act of 1994”.
+
+Section 1491a, Pub. L. 91–230, title VI, §702, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3937, related to findings, purposes, and policy.
+
+Section 1491b, Pub. L. 91–230, title VI, §703, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3939, related to definitions.
+
+Section 1491c, Pub. L. 91–230, title VI, §704, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3943, related to grants to States.
+
+Section 1491d, Pub. L. 91–230, title VI, §705, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3944, related to information and assurances required in application for grant.
+
+Section 1491e, Pub. L. 91–230, title VI, §706, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat.3946, related to designation of lead entity by State desiring to receive grant.
+
+Section 1491f, Pub. L. 91–230, title VI, §707, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3946, related to designation or establishment by State of a State Policy Council for Families of Children with Disabilities and its composition, functions, etc.
+
+Section 1491g, Pub. L. 91–230, title VI, §708, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3949, related to activities authorized for use of grant funds.
+
+Section 1491h, Pub. L. 91–230, title VI, §709, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3951, related to creation and submission of strategic plan by lead entity of State in conjunction with State Policy Council.
+
+Section 1491i, Pub. L. 91–230, title VI, §710, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3952, related to progress criteria and reports.
+
+Section 1491j, Pub. L. 91–230, title VI, §711, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3952, related to administrative provisions.
+
+Section 1491k, Pub. L. 91–230, title VI, §712, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3953, related to technical assistance.
+
+Section 1491<i>l</i>, Pub. L. 91–230, title VI, §713, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3954, related to program evaluation by Secretary.
+
+Section 1491m, Pub. L. 91–230, title VI, §714, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955, related to projects of national significance.
+
+Section 1491n, Pub. L. 91–230, title VI, §715, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955, related to construction of provisions of subchapters I through VIII of this chapter as being inapplicable to subchapter IX of this chapter.
+
+Section 1491<i>o</i>, Pub. L. 91–230, title VI, §716, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955, related to authorization of appropriations.
+

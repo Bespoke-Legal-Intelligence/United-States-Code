@@ -68,7 +68,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the sums made available under this subchapter for any fiscal year are insufficientto pay the full amounts that all States are eligible to receive under this subsection for such year, the Secretary shall ratably reduce the allotments to such States for such year.
+&emsp;&emsp;If the sums made available under this subchapter for any fiscal year are insufficient to pay the full amounts that all States are eligible to receive under this subsection for such year, the Secretary shall ratably reduce the allotments to such States for such year.
 
 #### (B) Additional funds
 
@@ -94,7 +94,7 @@ Public Law 95–134, referred to in subsec. (a)(2), is Pub. L. 95–134, Oct. 15
 
 Part H (as in effect for such fiscal year \[1994\]), referred to in subsec. (c)(3)(A)(i), means part H of Pub. L. 91–230, title VI, as added by Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1145, which was classified generally to subchapter VIII (§1471 et seq.) of this chapter prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in effect on the day before the date of enactment of the Improving America's Schools Act of 1994), referred to in subsec. (c)(3)(A)(ii), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. The date of enactment of the Improving America's Schools Act of 1994 is the date of enactment of Pub. L. 103–382, which was approved Oct. 20, 1994.
+Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in effect on the day before the date of enactment of the Improving America's Schools Act of 1994), referred to in subsec. (c)(3)(A)(ii), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the generalamendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. The date of enactment of the Improving America's Schools Act of 1994 is the date of enactment of Pub. L. 103–382, which was approved Oct. 20, 1994.
 
 #### Prior Provisions
 

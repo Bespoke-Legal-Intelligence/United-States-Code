@@ -38,7 +38,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (2) Fictitious markets
 
-&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may be considered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
+&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered forsale) in the exporting country after the issuance of an antidumping duty order may be considered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
 
 #### (3) Exportation from an intermediate country
 
@@ -112,7 +112,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;(B) were not at prices which permit recovery of all costs within a reasonable period of time,
 
-> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreignlike product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
+> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreign like product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
 
 #### (2) Definitions and special rules
 
@@ -190,7 +190,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (4) Valuation of factors of production
 
-&emsp;The administering authority, in valuing factors of production under paragraph (1), shallutilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
+&emsp;The administering authority, in valuing factors of production under paragraph (1), shall utilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
 
 &emsp;&emsp;(A) at a level of economic development comparable to that of the nonmarket economy country, and
 
@@ -236,7 +236,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 #### (A) In general
 
-&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including thatwhich is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
+&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including that which is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
 
 #### (B) Nonrecurring costs
 
@@ -270,7 +270,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 &emsp;If, in the case of a transaction between affiliated persons involving the production by one of such persons of a major input to the merchandise, the administering authority has reasonable grounds to believe or suspect that an amount represented as the value of such input is less than the cost of production of such input, then the administering authority may determine the value of the major input on the basis of the information available regarding such cost of production, if such cost is greater than the amount that would be determined for such input under paragraph (2).
 
-(June 17, 1930, ch. 497, title VII, §773, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 182; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§615, 620(b), 98 Stat. 3036, 3039; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(11), 100 Stat. 2922; Aug. 23, 1988, Pub. L. 100–418, title I, §§1316(a), 1318, 1319, 102 Stat. 1186, 1189; Dec. 8, 1994, Pub. L. 103–465, title II, §224, 108 Stat. 4878.)
+(June 17, 1930, ch. 497, title VII, §773, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 182; amended Pub. L. 98–573, title VI, §§615, 620(b), Oct. 30, 1984, 98 Stat. 3036, 3039; Pub. L. 99–514, title XVIII, §1886(a)(11), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1316(a), 1318, 1319, Aug. 23, 1988, 102 Stat. 1186, 1189; Pub. L. 103–465, title II, §224, Dec. 8, 1994, 108 Stat. 4878.)
 
 #### Amendments
 
@@ -280,7 +280,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 Subsec. (c). Pub. L. 100–418, §1316(a), amended subsec. (c) generally, substituting provisions relating to nonmarket economy countries, for provisions relating to State-controlled economies.
 
-Subsec. (e)(2) to (4). Pub. L. 100–418, §1318, substituted “(4)” for “(3)” wherever appearing in par. (2), added par. (3), and redesignated former par. (3) as (4) and in introductory provisions substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (e)(2) to (4). Pub. L. 100–418, §1318, substituted “(4)” for “(3)” wherever appearing in par. (2), added par.\(3), and redesignated former par. (3) as (4) and in introductory provisions substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
 1986—Subsecs. (f), (g). Pub. L. 99–514 redesignated subsec. (g) as (f).
 

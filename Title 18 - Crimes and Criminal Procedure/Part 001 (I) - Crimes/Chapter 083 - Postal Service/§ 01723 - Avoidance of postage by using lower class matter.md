@@ -4,7 +4,7 @@ Matter of the second, third, or fourth class containing any writing or printing 
 
 Whoever knowingly conceals or incloses any matter of a higher class in that of a lower class, and deposits the same for conveyance by mail, at a less rate than would be charged for such higher class matter, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 784; Aug. 12, 1970, Pub. L. 91–375, §6(j)(31), 84 Stat. 780; Sept. 13,1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 91–375, §6(j)(31), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

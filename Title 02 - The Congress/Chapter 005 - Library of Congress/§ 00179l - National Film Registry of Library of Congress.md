@@ -26,7 +26,7 @@ Section 101 of title I of Pub. L. 104–285 provided that: “This title \[enact
 
 #### Act Referred to in Other Sections
 
-The National Film Preservation Act of 1996 is referred to in title 36 section 5701.
+The National Film Preservation Act of 1996 is referred to in title 36 section 151702.
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §§202(q), 215(a), (b); added Ju
 
 45:445(a), (b).
 
-In subsection (a), the words “In addition” are omitted as surplus. The word “maintain” is substituted for “undertake” for clarity because the effort has begun. The words “the objective of” are omitted as surplus.The words “To carry out this section, the Secretary may use” are added for clarity.
+In subsection (a), the words “In addition” are omitted as surplus. The word “maintain” is substituted for “undertake” for clarity because the effort has begun. The words “the objective of” are omitted as surplus. The words “To carry out this section, the Secretary may use” are added for clarity.
 
 In subsection (b), the words “Not later than June 22, 1989” are substituted for “within one year after June 22, 1988” for clarity.
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) the Atlantic northeast, for training in cold weather and in fog;
 
-&emsp;(2) the Atlantic southeast and Caribbean areas, for training in long-range operations,especially those incident to reinforcing the defenses of the Panama Canal;
+&emsp;(2) the Atlantic southeast and Caribbean areas, for training in long-range operations, especially those incident to reinforcing the defenses of the Panama Canal;
 
 &emsp;(3) the southeastern United States, to provide a depot necessary to maintain the Air Force;
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) to permit, in time of peace, training and effective planning in each strategic area for the use and expansion of commercial, municipal, and private flying installations in time of war;
 
-&emsp;(3) to locate, in each strategic area in which it is considered necessary, adequate storage facilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force; and
+&emsp;(3) to locate, in each strategic area in which it is considered necessary, adequate storagefacilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force; and
 
 &emsp;(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Force for operations necessary in the defense of the United States, and in the defense and reinforcement of the Territories, Commonwealths, possessions, and holdings.
 

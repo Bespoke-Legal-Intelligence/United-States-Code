@@ -144,7 +144,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) older individuals with greatest economic need.
 
-&emsp;(32) The term “institution of higher education” has the meaning given the term in section 1141(a) of title 20.
+&emsp;(32) The term “institution of higher education” has the meaning given the term in section 1001 of title 20.
 
 &emsp;(33) The term “legal assistance”—
 
@@ -190,13 +190,15 @@ For the purposes of this chapter—
 
 &emsp;(44) The term “supportive service” means a service described in section 3030d(a) of this title.
 
-(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989.)
+(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
+
+1998—Par. (32). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 1993—Par. (2). Pub. L. 103–171, §3(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘Commissioner’ means, unless the context otherwise requires, the Commissioner of the Administration.”
 
@@ -247,6 +249,10 @@ Pars. (4) to (6). Pub. 94–135, §104(b), added pars. (4) to (6).
 1967—Par. (2). Pub. L. 90–42, §5(a)(1), inserted “, unless the context otherwise requires,” after “means”.
 
 Par. (4). Pub. L. 90–42, §5(a)(2), enlarged term nonprofit institution or organization to include nonprofit agencies.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1987 Amendment
 

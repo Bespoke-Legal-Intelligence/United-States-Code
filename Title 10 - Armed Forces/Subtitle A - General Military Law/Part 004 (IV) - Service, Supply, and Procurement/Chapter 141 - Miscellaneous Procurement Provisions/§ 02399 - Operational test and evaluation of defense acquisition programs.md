@@ -2,7 +2,7 @@
 
 (a)
 
-Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary ofDefense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
+Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary of Defense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
 
 (2) In this subsection, the term “major defense acquisition program” means—
 
@@ -95,6 +95,10 @@ Subsec. (h)(1). Pub. L. 103–337, §1070(a)(11)(C), substituted “139(a)(2)(A)
 1993—Subsec. (b)(3). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
 1992—Subsec. (e)(3). Pub. L. 102–484 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 

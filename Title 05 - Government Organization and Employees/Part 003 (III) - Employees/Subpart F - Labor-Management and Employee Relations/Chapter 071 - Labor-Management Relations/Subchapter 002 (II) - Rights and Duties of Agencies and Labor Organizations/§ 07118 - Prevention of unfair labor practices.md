@@ -30,11 +30,11 @@
 
 &emsp;(A) to cease and desist from any such unfair labor practice in which the agency or labor organization is engaged;
 
-&emsp;(B) requiring the parties to renegotiate a collective bargaining agreement in accordance with the order of the Authority and requiring that the agreement, as amended, be given retroactive effect;
+&emsp;(B) requiring the parties to renegotiate a collective bargaining agreement in accordance with the order of the Authority and requiringthat the agreement, as amended, be given retroactive effect;
 
 &emsp;(C) requiring reinstatement of an employee with backpay in accordance with section 5596 of this title; or
 
-&emsp;(D) including any combination of the actions described in subparagraphs (A) through (C) ofthis paragraph or such other action as will carry out the purpose of this chapter.
+&emsp;(D) including any combination of the actions described in subparagraphs (A) through (C) of this paragraph or such other action as will carry out the purpose of this chapter.
 
 > If any such order requires reinstatement of an employee with backpay, backpay may be required of the agency (as provided in section 5596 of this title) or of the labor organization, as the case may be, which is found to have engaged in the unfair labor practice involved.
 

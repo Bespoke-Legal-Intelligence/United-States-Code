@@ -14,7 +14,7 @@ As used in this section:
 
 #### (2) Apparently wholesome food
 
-&emsp;The term “apparently wholesome food” means food that meets all quality and labelingstandards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
+&emsp;The term “apparently wholesome food” means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
 
 #### (3) Donate
 

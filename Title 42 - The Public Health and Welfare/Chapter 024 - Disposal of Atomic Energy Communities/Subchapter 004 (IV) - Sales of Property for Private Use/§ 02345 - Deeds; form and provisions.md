@@ -12,7 +12,7 @@ Deeds executed in connection with the disposal of property pursuant to the provi
 
 &emsp;(e) may require that any payments in lieu of property taxes or assessments for local improvements made by the Commission with respect to the property shall be equitably prorated.
 
-(Aug. 4, 1955, ch. 543, ch. 5, §55, 69 Stat. 477; Sept. 28, 1962, Pub. L. 87–719, §12, 76 Stat. 665.)
+(Aug. 4, 1955, ch. 543, ch. 5, §55, 69 Stat. 477; Pub. L. 87–719, §12, Sept. 28, 1962, 76 Stat. 665.)
 
 #### Amendments
 

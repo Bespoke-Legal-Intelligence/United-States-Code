@@ -2,15 +2,21 @@
 
 #### (a) Observance of human rights as principal goal of foreign policy; implementation requirements
 
-(1) The United States shall, in accordance with its international obligations as set forth in the Charter of the United Nations and in keeping with the constitutional heritage and traditions of the United States, promote and encourage increased respect for human rights and fundamental freedoms throughout the world without distinction as to race, sex, language, or religion. Accordingly, a principal goal of the foreign policy of the United States shall be to promote the increased observance of internationally recognized human rights by all countries.
+(1) The United States shall, in accordance with its international obligations as set forth in theCharter of the United Nations and in keeping with the constitutional heritage and traditions of the United States, promote and encourage increased respect for human rights and fundamental freedoms throughout the world without distinction as to race, sex, language, or religion. Accordingly, a principal goal of the foreign policy of the United States shall be to promote the increased observance of internationally recognized human rights by all countries.
 
-(2) Except under circumstances specified in this section, no security assistance may be provided to any country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights. Security assistance may not be provided to the police, domestic intelligence, or similar law enforcement forces of a country, and licenses may not be issued under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] for the export of crime control and detection instruments and equipment to a country, the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Banking,Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979).<sup>1</sup> that extraordinary circumstances exist warranting provision of such assistance and issuance of such licenses. Assistance may not be provided under part V of this subchapter to a country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate that extraordinary circumstances exist warranting provision of such assistance.
+(2) Except under circumstances specified in this section, no security assistance may be provided to any country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights. Security assistance may not be provided to the police, domestic intelligence, or similar law enforcement forces of a country, and licenses may not be issued under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] for the export of crime control and detection instruments and equipment to a country, the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979).<sup>1</sup> that extraordinary circumstances exist warranting provision of such assistance and issuance of such licenses. Assistance may not be provided under part V of this subchapter to a country the government of which engages in a consistent pattern of gross violations of internationally recognized human rights unless the President certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate that extraordinary circumstances exist warranting provision of such assistance.
 
 (3) In furtherance of paragraphs (1) and (2), the President is directed to formulate and conduct international security assistance programs of the United States in a manner which will promote and advance human rights and avoid identification of the United States, through such programs, with governments which deny to their people internationally recognized human rights and fundamental freedoms, in violation of international law or in contravention of the policy of the United States as expressed in this section or otherwise.
 
+(4) In determining whether the government of a country engages in a consistent pattern of gross violations of internationally recognized human rights, the President shall give particular consideration to whether the government—
+
+&emsp;(A) has engaged in or tolerated particularly severe violations of religious freedom, as defined in section 6402 of this title; or
+
+&emsp;(B) has failed to undertake serious and sustained efforts to combat particularly severe violations of religious freedom when such efforts could have been reasonably undertaken.
+
 #### (b) Report by Secretary of State on practices of proposed recipient countries; considerations
 
-The Secretary of State shall transmit to the Congress, as part of the presentation materials for security assistance programs proposed for each fiscal year, a full and complete report, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor, with respect to practices regarding the observance of and respect for internationally recognized human rights in each country proposed as a recipient of security assistance. Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization. Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year. In determining whether a government falls within the provisions of subsection (a)(3) of this section and in the preparation of any report or statement required under this section, consideration shall be given to—
+The Secretary of State shall transmit to the Congress, as part of the presentation materials for security assistance programs proposed for each fiscal year, a full and complete report, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor and with the assistance of the Ambassador at Large for International Religious Freedom, with respect to practices regarding the observance of and respect for internationally recognized human rights in each country proposed as a recipient of security assistance. Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization. Such report shall also include, wherever applicable, information on violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title). Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year. In determining whether a government falls within the provisions of subsection (a)(3) of this section and in the preparation of any report or statement required under this section, consideration shall be given to—
 
 &emsp;(1) the relevant findings of appropriate international organizations, including nongovernmental organizations, such as the International Committee of the Red Cross; and
 
@@ -26,7 +32,7 @@ The Secretary of State shall transmit to the Congress, as part of the presentati
 
 &emsp;&emsp;(i) promote respect for and observance of human rights in that country and discourage any practices which are inimical to internationally recognized human rights, and
 
-&emsp;&emsp;(ii) publicly or privately call attention to, and disassociate the United States and any security assistance provided for such country from, such practices;
+&emsp;&emsp;(ii) publicly or privately call attention to, and disassociate the United States and anysecurity assistance provided for such country from, such practices;
 
 &emsp;(C) whether, in the opinion of the Secretary of State, notwithstanding any such practices—
 
@@ -74,7 +80,7 @@ In allocating the funds authorized to be appropriated by this chapter and the Ar
 
 Whenever the provisions of subsection (e) or (f) of this section are applied, the President shall report to the Congress before making any funds available pursuant to those subsections. The report shall specify the country involved, the amount and kinds of assistance to be provided, and the justification for providing the assistance, including a description of the significant improvements which have occurred in the country's human rights record.
 
-(Pub. L. 87–195, pt. II, §502B, as added Pub. L. 93–559, §46, Dec. 30, 1974, 88 Stat. 1815; amended Pub. L. 94–329, title III, §301(a), June 30, 1976, 90 Stat. 748; Pub. L. 95–105, title I, §109(a)(3), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–384, §§6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, 92 Stat. 731, 732, 735, 737; Pub. L. 96–53, title V, §511, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–92, §4, Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title VII, §§701(b), 704, Dec. 16, 1980, 94 Stat. 3156, 3157; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 99–64, title I, §124, July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title XII, §1201, Aug. 8, 1985, 99 Stat. 276; Pub. L. 100–204, title I, §127(2), Dec. 22, 1987, 101 Stat. 1343; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(b), Oct. 19, 1996, 110 Stat. 3866.)
+(Pub. L. 87–195, pt. II, §502B, as added Pub. L. 93–559, §46, Dec. 30, 1974, 88 Stat. 1815; amended Pub. L. 94–329, title III, §301(a), June 30, 1976, 90 Stat. 748; Pub. L. 95–105, title I, §109(a)(3), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–384, §§6(a)–(d)(1), (e), 10(b)(1), 12(b), Sept. 26, 1978, 92 Stat. 731, 732, 735, 737; Pub. L. 96–53, title V, §511, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–92, §4, Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title VII, §§701(b), 704, Dec. 16, 1980, 94 Stat. 3156, 3157; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 99–64, title I, §124, July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title XII, §1201, Aug. 8, 1985, 99 Stat. 276; Pub. L. 100–204, title I, §127(2), Dec. 22, 1987, 101 Stat. 1343; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(b), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–292, title I, §102(d)(2), title IV, §421(b), Oct. 27, 1998, 112 Stat. 2795, 2810.)
 
 #### References in Text
 
@@ -96,6 +102,10 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(a) of H.R. 2992, 
 
 #### Amendments
 
+1998—Subsec. (a)(4). Pub. L. 105–292, §421(b), added par. (4).
+
+Subsec. (b). Pub. L. 105–292, §102(d)(2), in introductory provisions, inserted “and with the assistance of the Ambassador at Large for International Religious Freedom” after “Labor” and “Such report shall also include, wherever applicable, information on violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title).” after “sterilization.”
+
 1996—Subsec. (b). Pub. L. 104–319 inserted “Each report under this section shall list the votes of each member of the United Nations Commission on Human Rights on all country-specific and thematic resolutions voted on at the Commission's annual session during the period covered during the preceding year.” after second sentence.
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Human Rights and Humanitarian Affairs” in introductory provisions.
@@ -104,7 +114,7 @@ Subsec. (c)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “Inter
 
 Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Human Rights and Humanitarian Affairs” in introductory provisions.
 
-1987—Subsec. (b). Pub. L. 100–204 inserted after first sentence “Wherever applicable, such report shall include information on practices regarding coercion inpopulation control, including coerced abortion and involuntary sterilization.”
+1987—Subsec. (b). Pub. L. 100–204 inserted after first sentence “Wherever applicable, such report shall include information on practices regarding coercion in population control, including coerced abortion and involuntary sterilization.”
 
 1985—Subsec. (a)(2). Pub. L. 99–64 inserted “and the chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate (when licenses are to be issued pursuant to the Export Administration Act of 1979).”
 
@@ -150,9 +160,9 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Delegation of Functions; Allocation of Funds
 
-Functions of President under this section delegated to Secretary of State and funds available to President under this subchapter allocated to Secretary of Defense by sections 1–201(a)(27) and 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+Functions of President under this section delegated to Secretary of State and funds available to President under this subchapter allocated to Secretary of Defenseby sections 1–201(a)(28) and 1–801(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2321, 2349aa, 2398, 2651a, 5732 of this title; title 12 section 635; title 48 section 1904; title 50 App. section 2405.
+This section is referred to in sections 2321, 2349aa, 2398, 2651a, 5732, 6402, 6412, 6442, 6445, 6461 of this title; title 12 section 635; title 48 section 1904; title 50 App. section 2405.
 

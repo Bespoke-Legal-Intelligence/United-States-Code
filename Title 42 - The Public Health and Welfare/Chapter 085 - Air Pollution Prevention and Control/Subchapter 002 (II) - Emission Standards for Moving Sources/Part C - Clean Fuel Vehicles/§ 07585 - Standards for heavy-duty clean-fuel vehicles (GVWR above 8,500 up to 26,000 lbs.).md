@@ -12,7 +12,7 @@ For classes or categories of heavy-duty vehicles or engines manufactured for the
 
 (3) Any revised less stringent standards promulgated as provided in this subsection shall require at least a 30 percent reduction in lieu of the 50 percent reduction referred to in paragraph (1).
 
-(July 14, 1955, ch. 360, title II, §245, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2519.)
+(July 14, 1955, ch. 360, title II, §245, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2519.)
 
 #### Section Referred to in Other Sections
 

@@ -24,7 +24,7 @@ The plan shall prescribe specific research and management objectives necessary f
 
 The research site shall be managed in accordance with the following objectives:
 
-&emsp;(1) The principal research facility shall be managed primarily for scientific research purposes. Dispersed recreation, grazing, and otheruses which the Secretary determines to be compatible with scientific research may be permitted.
+&emsp;(1) The principal research facility shall be managed primarily for scientific research purposes. Dispersed recreation, grazing, and other uses which the Secretary determines to be compatible with scientific research may be permitted.
 
 &emsp;(2) The research site shall be managed to enhance scientific research objectives. Scientific research activities and associated research equipment and structures shall be permitted within the research site in accordance with the plan.
 

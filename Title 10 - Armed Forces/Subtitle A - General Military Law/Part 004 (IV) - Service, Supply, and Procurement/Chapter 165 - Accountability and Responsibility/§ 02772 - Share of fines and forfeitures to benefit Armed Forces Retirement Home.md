@@ -24,7 +24,7 @@ A prior section 2772, act Aug. 10, 1956, ch. 1041, 70A Stat. 156, authorized wit
 
 #### Amendments
 
-1990—Pub. L. 101–510, §1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substitutingsubsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
+1990—Pub. L. 101–510, §1533(a)(4)(A), substituted “Retirement Home” for “retirement homes” in section catchline and amended text generally, substituting subsecs. (a) to (c) relating to shares of fines and forfeitures to benefit the Armed Forces Retirement Home for former subsecs. (a) and (b) relating to shares of fines and forfeitures to benefit the Soldiers’ Home and the Naval Home.
 
 Pub. L. 101–510, §1533(a)(3), inserted “and forfeitures” after “fines” in subsecs. (a)(1)(A) and (b)(1)(A) and substituted “, warrant officer, or limited duty officer” for “or warrant officer” wherever appearing.
 

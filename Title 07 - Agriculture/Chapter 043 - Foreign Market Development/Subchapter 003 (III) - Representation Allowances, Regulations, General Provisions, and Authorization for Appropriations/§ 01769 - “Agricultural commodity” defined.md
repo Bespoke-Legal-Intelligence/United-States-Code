@@ -2,5 +2,5 @@
 
 The term “agricultural commodity” as used in this chapter includes any agricultural commodity or product thereof.
 
-(Aug. 28, 1954, ch. 1041, title VI, §609, as added Oct. 21, 1978, Pub. L. 95–501, title IV, §401(6), 92 Stat. 1691.)
+(Aug. 28, 1954, ch. 1041, title VI, §609, as added Pub. L. 95–501, title IV, §401(6), Oct. 21, 1978, 92 Stat. 1691.)
 

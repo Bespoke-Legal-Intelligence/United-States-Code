@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The head of each executive agency, after consulting with the Administrator, shall establish, maintain, and use, to the maximum extent that is practicable and cost-effective, procedures and processes that employ electronic commerce in the conduct and administration of its procurement system.
+The head of each executive agency, after consulting with the Administrator, shall establish, maintain, and use, to the maximum extent that is practicable and cost-effective, procedures and processes that employ electronic commerce inthe conduct and administration of its procurement system.
 
 #### (b) Applicable standards
 

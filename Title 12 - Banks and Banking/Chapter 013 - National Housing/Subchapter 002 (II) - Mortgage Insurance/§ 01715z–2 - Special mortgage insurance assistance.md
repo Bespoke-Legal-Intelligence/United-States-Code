@@ -6,7 +6,7 @@ The purpose of this section is to help provide adequate housing for families of 
 
 #### (b) Authorization to insure mortgages meeting requirements of section
 
-The Secretary is authorized upon application by the mortgagee to insure under this section any mortgage meeting the requirements of this section.
+The Secretary is authorized upon application by the mortgagee to insure under this sectionnot more than 26 percent of the total principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve) of any mortgage meeting the requirements of this section.
 
 #### (c) Eligibility for insurance
 
@@ -14,29 +14,47 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;(1) meet the requirements of section 1709 (except subsection (m)),<sup>1</sup> 1715k(d)(3)(A), 1715<i>l</i>(d)(2), (h)(5), (i), 1715y(c), or 1715z(j)(4) of this title, except as such requirements are modified by this section;
 
-&emsp;(2) involve a principal obligation (including such initial service charges, and such appraisal, inspection, and other fees, as the Secretary shall approve) in an amount not to exceed $18,000: <i>Provided</i>, That the Secretary may increase the amount to not exceed $21,000 in any geographical area where he finds that cost levels so require: <i>Provided further</i>, That no mortgage meeting the requirements of section 1709 (h) or (i) of this title shall be eligible for insurance under this section if its principal obligation is in excess of the maximum limits prescribed in such section;
+&emsp;(2) involve a principal obligation (including such initial service charges, and such appraisal, inspection, and other fees, as the Secretary shall approve) in an amount not to exceed $70,000;
 
-&emsp;(3) be executed by a mortgagor who the Secretary has determined, after a full and complete study of the case, would not be an acceptable credit risk for mortgage insurance purposes under sections 1709, 1715k, 1715<i>l</i>, 1715y, or 1715z(j)(4) of this title, because of his credit standing, debt obligations, total annual income, or income characteristics, but who the Secretary is satisfied would be a reasonably satisfactory credit risk, consistent with the objectives stated in subsection (a) of this section, if he were to receive budget, debt management, and related counseling: <i>Provided</i>, That, in determining whether the mortgagor is a reasonably satisfactory credit risk, the Secretary shall review the credit history of the applicant giving special consideration to those delinquent accounts which were ultimately paid by the applicant and to extenuating factors which may have caused credit accounts of the applicant to become delinquent; and the Secretary shall also give special consideration to income characteristics of applicants whose total income over the two years prior to their applications has remained at levels of eligibility (as required under paragraph (4) of this subsection), but who, because of the character of this seasonal employment or for other reasons, have not maintained continuous employment under one employer during that time; and
+&emsp;(3) be executed by a mortgagor who the Secretary has determined, after a full and complete study of the case, would not be an acceptable credit risk for mortgage insurance purposes under sections 1709, 1715k, 1715<i>l</i>, 1715y, or 1715z(j)(4) of this title, because of his credit standing, debt obligations, total annual income, or income characteristics, but who the Secretary is satisfied would be a reasonably satisfactory credit risk, consistent with the objectives stated in subsection (a) of this section, if he were to receive budget, debt management, and related counseling, prior to and during the 12 months immediately following the purchase of the property, from a community development financial institution under section 4702(5) of this title: <i>Provided</i>, That, in determining whether the mortgagor is a reasonably satisfactory credit risk, the Secretary shall review the credit history of the applicant giving special consideration to those delinquent accounts which were ultimately paid by the applicant and to extenuating factors which may have caused credit accounts of the applicant to become delinquent; and the Secretary shall also give special consideration to income characteristics of applicants whose total income over the two years prior to their applications has remained at levels of eligibility (as required under paragraph (4) of this subsection), but who, because of the character of this seasonal employment or for other reasons, have not maintained continuous employment under one employer during that time;
 
-&emsp;(4) require monthly payments which, in combination with local real estate taxes on the property involved, do not exceed 25 per centum of the applicant's income, based on his average monthly income during the year prior to his application or the average monthly income during the three years prior to his application, whichever is higher.
+&emsp;(4) require monthly payments which, in combination with local real estate taxes on the property involved, do not exceed 36 per centum of the applicant's income, based on his average monthly income during the year prior to his application or the average monthly income during the three years prior to his application, whichever is higher; and
+
+&emsp;(5) require the mortgagor to be subject, if necessary, to a default mitigation effort undertaken by an intermediary community development financial institution under section 4702(5) of this title, that is acting as a sponsor and pass-through of insurance under section 1709 of this title and is approved by the Secretary;
+
+&emsp;(6) involve a total principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve) that is not more than 90 percent of the value of the property for which the mortgage is provided; and
+
+&emsp;(7) involve a total principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve) in which the mortgagor has equity (as defined by the Secretary) of not less than 10 percent and such equity shall be subordinate to the interest of the Secretary in the mortgaged property.
 
 #### (d) Preferences in approving mortgage insurance applications and in providing counseling services; eligible families
 
-The Secretary shall give preference in approving mortgage insurance applications and in providing counseling services under this section (1) to families which are eligible for assistance payments under section 1715z of this title, and (2) to families living in public housing units, especially those families required to leave public housing because their incomes have risen beyond the maximum prescribed income limits, and families eligible for residence in public housing who have been displaced from federally assisted urban renewal areas.
+The Secretary shall give preference in approving mortgage insurance applications and in providing counseling services under this section (1) to families which are eligible for assistance payments under section 1715z of this title, (2) to families living in empowerment zones and enterprise communities (as those terms are defined in section 1393(b) of title 26 <sup>2</sup> who are eligible for homeownership assistance, and (3) to families living in public housing units, especially those families required to leave public housing because their incomes have risen beyond the maximum prescribed income limits, and families eligible for residence in public housing who have been displaced from federally assisted urban renewal areas.
 
 #### (e) Budget, debt management, and related counseling services
 
-The Secretary is authorized to provide, or contract with public or private organizations to provide, such budget, debt management, and related counseling services to mortgagors whose mortgages are insured under this section as he determines to be necessary to meet the objectives of this section. The Secretary may also provide such counseling to otherwise eligible families who lack sufficient funds to supply a down payment to help them to save an amount necessary for that purpose.
+The Secretary is authorized to provide, or contract with community development financial institutions under section 4702(5) of this title to provide, such budget, debt management, and related counseling services to mortgagors whose mortgages are insured under this section as he determines to be necessary to meet the objectives of this section. The Secretary may also provide such counseling to otherwise eligible families who lack sufficient funds to supply a down payment to help them to save an amount necessary for that purpose.
 
 #### (f) Aggregate principal balance of mortgages insured
 
-The aggregate principal balance of all mortgages insured under this section and outstanding at one time shall not exceed $200,000,000.
+The aggregate principal balance of the portions of mortgages insured under this section and outstanding at one time shall not exceed $200,000,000.
 
-#### (g) Authorization of appropriations
+#### (g) Premium fee
+
+Mortgages insured under this section shall be subject to an insurance premium fee of not more than 1.25 percent of the total mortgage principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve).
+
+#### (h) Assumption of loss
+
+Before insuring a mortgage under this section, the Secretary shall enter into such contracts orother agreements as may be necessary to ensure that the mortgagee or other holder of the mortgage shall assume not less than 10 percent and not more than 50 percent of any loss on the insured mortgage, subject to any reasonable limit on the liability of the mortgagee or holder of the mortgage that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee or mortgage holder.
+
+#### (i) Guarantees
+
+No guarantees may be issued under section 1721(g) of this title for the timely payment of interest or principal on securities backed, in whole or in part, by mortgages insured under this section.
+
+#### (j) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (e) of this section.
 
-(June 27, 1934, ch. 847, title II, §237, as added Pub. L. 90–448, title I, §102(a), Aug. 1, 1968, 82 Stat. 485; amended Pub. L. 91–152, title I, §§110, 113(j), Dec. 24, 1969, 83 Stat. 382, 385.)
+(June 27, 1934, ch. 847, title II, §237, as added Pub. L. 90–448, title I, §102(a), Aug. 1, 1968, 82 Stat. 485; amended Pub. L. 91–152, title I, §§110, 113(j), Dec. 24, 1969, 83 Stat. 382, 385; Pub. L. 105–276, title V, §599F(a), Oct. 21, 1998, 112 Stat. 2665.)
 
 #### References in Text
 
@@ -44,13 +62,37 @@ Section 1709(m) of this title, referred to in subsec. (c)(1), was repealed by Pu
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–276, §599F(a)(1), inserted “not more than 26 percent of the total principal obligation (including such initial service charges, and such appraisal, inspection, and other fees as the Secretary shall approve) of” before “any mortgage”.
+
+Subsec. (c)(2). Pub. L. 105–276, §599F(a)(2), substituted “$70,000;” for “$18,000: <i>Provided</i>, That the Secretary may increase the amount to not exceed $21,000 in any geographical area where he finds that cost levels so require: <i>Provided further</i>, That no mortgage meeting the requirements of section 1709 (h) or (i) of this title shall be eligible for insurance under this section if its principal obligation is in excess of the maximum limits prescribed in such section;”.
+
+Subsec. (c)(3). Pub. L. 105–276, §599F(a)(3)(A), inserted “, prior to and during the 12 months immediately following the purchase of the property, from a community development financial institution under section 4702(5) of this title” after “budget, debt management, and related counseling”.
+
+Subsec. (c)(4). Pub. L. 105–276, §599F(a)(4)(A), substituted “36” for “25”.
+
+Subsec. (c)(5) to (7). Pub. L. 105–276, §599F(a)(3)(B), (4)(B), (5), added pars. (5) to (7).
+
+Subsec. (d). Pub. L. 105–276, §599F(a)(6), substituted “(2) to families living in empowerment zones and enterprise communities (as those terms are defined in section 1393(b) of title 26 who are eligible for homeownership assistance, and (3)” for “and (2)”.
+
+Subsec. (e). Pub. L. 105–276, §599F(a)(7), substituted “community development financial institutions under section 4702(5) of this title” for “public or private organizations”.
+
+Subsec. (f). Pub. L. 105–276, §599F(a)(8), substituted “the portions of mortgages” for “all mortgages”.
+
+Subsecs. (g) to (j). Pub. L. 105–276, §599F(a)(9), (10), added subsecs. (g) to (i) and redesignated former subsec. (g) as (j).
+
 1969—Subsec. (c)(2). Pub. L. 91–152, §113(j), substituted “$21,000” for “$17,500” and “$18,000” for “$15,000”.
 
 Subsec. (d). Pub. L. 91–152, §110, inserted provision requiring the Secretary to give a preference in providing counseling services to the specified families, inserted text designated as cl. (1), and designated existing text as cl. (2).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §599F(b), Oct. 21, 1998, 112 Stat. 2666, provided that: “The amendments under by \[sic\] this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1715q, 1715z, 1715z–3, 1735c of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. There probably should be a closing parenthesis.</i>
 

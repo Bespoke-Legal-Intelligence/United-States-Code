@@ -2,7 +2,7 @@
 
 (a)
 
-General.—Except as provided in this section, a person may not—
+General.—Except as provided in this section and section 32502 of this title, a person may not—
 
 &emsp;(1) manufacture for sale, sell, offer for sale, introduce or deliver for introduction in interstate commerce, or import into the United States, a passenger motor vehicle or passenger motor vehicle equipment manufactured on or after the date an applicable standard under section 32502 of this title takes effect, unless it conforms to the standard;
 
@@ -40,7 +40,7 @@ Importing Noncomplying Vehicles and Equipment.—(1) The Secretaries of Transpor
 
 Liability Under Other Law.—Compliance with a standard under this chapter does not exempt a person from liability provided by law.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1045.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1045; Pub. L. 105–277, div. A, §101(g) \[title III, §351(b)(2)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–476.)
 
 Historical and Revision Notes
 
@@ -73,6 +73,10 @@ Oct. 20, 1972, Pub. L. 92–513, §106, 86 Stat. 952.
 In subsection (a)(4), the words “required by such subsection to the effect that a passenger motor vehicle or passenger motor vehicle equipment conforms to all applicable bumper standards” are omitted as surplus.
 
 In subsection (c)(1), before clause (A), the word “conditions” is substituted for “such terms and conditions” to eliminate unnecessary words. In clause (A), the words “comply, after importation” are substituted for “brought into conformity” for clarity and consistency.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 inserted “and section 32502 of this title” after “Except as provided in this section” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

@@ -26,13 +26,13 @@ Payments under this chapter may be made in installments, and in advance or by wa
 
 #### (g) Voluntary services; status as Federal employees; exceptions
 
-The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding section 1342 of title 31. Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
+The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisionsof this chapter, voluntary and uncompensated services notwithstanding section 1342 of title 31. Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
 
 (Pub. L. 90–351, title I, §807, as added Pub. L. 98–473, title II, §609B(g), Oct. 12, 1984, 98 Stat. 2094.)
 
 #### References in Text
 
-Provisions of title 5 relating to appointments, referred to in subsec. (c), are classified to section 3301 etseq. of Title 5, Government Organization and Employees.
+Provisions of title 5 relating to appointments, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 

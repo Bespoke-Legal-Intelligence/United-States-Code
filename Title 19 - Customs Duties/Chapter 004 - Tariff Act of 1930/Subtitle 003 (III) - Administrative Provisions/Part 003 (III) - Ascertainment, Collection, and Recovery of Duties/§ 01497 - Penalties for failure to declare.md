@@ -16,7 +16,7 @@
 
 (2) The amount of the penalty imposed under paragraph (1) with respect to any article is equal to—
 
-&emsp;(A) if the article is a controlled substance, either $500 or an amount equal to 1,000 percentof the value of the article, whichever amount is greater; and
+&emsp;(A) if the article is a controlled substance, either $500 or an amount equal to 1,000 percent of the value of the article, whichever amount is greater; and
 
 &emsp;(B) if the article is not a controlled substance, the value of the article.
 
@@ -26,7 +26,7 @@
 
 (2) The Secretary and the Attorney General of the United States shall establish a method of determining the price at which each controlled substance is likely to be illegally sold to the consumer of such controlled substance.
 
-(June 17, 1930, ch. 497, title IV, §497, 46 Stat. 728; Oct. 27, 1986, Pub. L. 99–570, title III, §3116, 100 Stat. 3207–83; Nov. 18, 1988, Pub. L. 100–690, title VII, §7367(a), 102 Stat. 4479; Dec. 8, 1993, Pub. L. 103–182, title VI, §612, 107 Stat. 2170.)
+(June 17, 1930, ch. 497, title IV, §497, 46 Stat. 728; Pub. L. 99–570, title III, §3116, Oct. 27, 1986, 100 Stat. 3207–83; Pub. L. 100–690, title VII, §7367(a), Nov. 18, 1988, 102 Stat. 4479; Pub. L. 103–182, title VI, §612, Dec. 8, 1993, 107 Stat. 2170.)
 
 #### Prior Provisions
 

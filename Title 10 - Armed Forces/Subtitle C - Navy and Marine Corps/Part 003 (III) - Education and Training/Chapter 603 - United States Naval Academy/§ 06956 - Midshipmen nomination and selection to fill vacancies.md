@@ -14,7 +14,7 @@
 
 (c) The failure of a member of a graduating class to complete the course with his class does not delay the appointment of his successor.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Mar. 3, 1964, Pub. L. 88–276, §3, 78 Stat. 151; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Nov. 29, 1973, Pub. L.93–171, §2(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(2), 89 Stat. 538; Oct. 14, 1981, Pub. L. 97–60, title II, §206, 95 Stat. 1007; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(2), title XIII, §1322(a)(14), 104 Stat. 1563, 1671.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Pub. L. 88–276, §3, Mar. 3, 1964, 78 Stat. 151; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 93–171, §2(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(2), Oct. 7, 1975, 89 Stat. 538; Pub. L. 97–60, title II, §206, Oct. 14, 1981, 95 Stat. 1007; Pub. L. 101–510, div. A, title V, §532(b)(2), title XIII, §1322(a)(14), Nov. 5, 1990, 104 Stat. 1563, 1671.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,7 @@ In subsection (b) the provision authorizing the Secretary of the Navy to nominat
 
 Reference in subsection (e) to the strength of the “brigade of midshipmen” is dropped, since there is no statutory requirement that the midshipmen at the Academy be so organized, and the term is a recognition of current organization only. The language authorizing the Secretary, in his discretion, to nominate additional midshipmen to meet the needs of the armed services but not to exceed the authorized strength of the Academy is changed to authorize the Secretary to “fill the vacancies by nominating additional midshipmen”. In exercising his discretion under this subsection, these factors are necessarily considered by the Secretary, irrespective of a specific provision so instructing him.
 
-In subsection (f) the word “admission” is changed to the word “appointment”, since the admission of a person is a consequence of, and follows automatically from, his appointment. The statement of reasons for failure to complete the course is omitted as unnecessary.
+In subsection (f) the word “admission” is changed to the word “appointment”, since the admission of a person is a consequence of, and follows automaticallyfrom, his appointment. The statement of reasons for failure to complete the course is omitted as unnecessary.
 
 #### Amendments
 

@@ -29,6 +29,7 @@ This subchapter is referred to in sections 286q, 290k–5, 290<i>l</i>–2, 290<
 - [&sect; 00286e&#8211;1j - Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations](%C2%A7%2000286e%E2%80%931j%20-%20Additional%20increase%20in%20capital%20stock%20of%20Bank%3B%20subscription%20to%20additional%20shares%3B%20authorization%20of%20appropriations.md)
 - [&sect; 00286e&#8211;1k - Capital stock increase](%C2%A7%2000286e%E2%80%931k%20-%20Capital%20stock%20increase.md)
 - [&sect; 00286e&#8211;1l - Quota increase](%C2%A7%2000286e%E2%80%931l%20-%20Quota%20increase.md)
+- [&sect; 00286e&#8211;1m - Quota increase](%C2%A7%2000286e%E2%80%931m%20-%20Quota%20increase.md)
 - [&sect; 00286e&#8211;2 - Loans to Fund](%C2%A7%2000286e%E2%80%932%20-%20Loans%20to%20Fund.md)
 - [&sect; 00286e&#8211;3 - Transfers to stabilization fund of purchase of currencies or gold from International Monetary Fund; administration; utilization of&#8230;](%C2%A7%2000286e%E2%80%933%20-%20Transfers%20to%20stabilization%20fund%20of%20purchase%20of%20currencies%20or%20gold%20from%20International%20Monetary%20Fund%3B%20administration%3B%20utilization%20of%E2%80%A6.md)
 - [&sect; 00286e&#8211;4 - Loans to International Finance Corporation; amendment to Articles of Agreement](%C2%A7%2000286e%E2%80%934%20-%20Loans%20to%20International%20Finance%20Corporation%3B%20amendment%20to%20Articles%20of%20Agreement.md)

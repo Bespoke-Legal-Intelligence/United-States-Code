@@ -10,7 +10,7 @@ Membership.—(1) The Board shall consist of 3 members, to be appointed by the P
 
 (2) At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one member shall be an individual with professional or business experience (including agriculture) in the private sector.
 
-(3) The term of each member of the Board shall be 5 years and shall begin when the termof the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
+(3) The term of each member of the Board shall be 5 years and shall begin when the term of the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
 (4) On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).
 
@@ -70,9 +70,9 @@ Proceedings.—(1) The provisions of this Act shall not affect any proceedings o
 
 “(B) Any proceeding involving a pipeline carrier under subtitle IV of title 49, United States Code, shall be continued to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section \[see Effective Date note above\], until completion of such proceeding.
 
-“(C) Any proceeding involving the merger of a motor carrier property under subtitle IV of title 49, UnitedStates Code, shall continue to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section, until completion of such proceeding.
+“(C) Any proceeding involving the merger of a motor carrier property under subtitle IV of title 49, United States Code, shall continue to be heard by the Board under such subtitle, as in effect on the day before the effective date of this section, until completion of such proceeding.
 
-“(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 App. U.S.C. 843 et seq.\] or the Shipping Act, 1916 \[46 App. U.S.C. 801 et seq.\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
+“(4) Any proceeding with respect to any tariff, rate charge, classification, rule, regulation, or service that was pending under the Intercoastal Shipping Act, 1933 \[former 46 App. U.S.C. 843 et seq.\] or the Shipping Act,1916 \[46 App. U.S.C. 801 et seq.\] before the Federal Maritime Commission on November 1, 1995, shall continue to be heard until completion or issuance of a final order thereon under all applicable laws in effect as of November 1, 1995.
 
 “(c)
 

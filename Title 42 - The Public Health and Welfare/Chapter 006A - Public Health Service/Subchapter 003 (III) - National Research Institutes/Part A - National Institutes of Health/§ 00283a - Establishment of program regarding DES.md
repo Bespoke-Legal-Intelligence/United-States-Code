@@ -26,7 +26,15 @@ For purposes of this section, an individual shall be considered to have been exp
 
 #### (e) Authorization of appropriations
 
-In addition to any other authorization of appropriations available for the purpose of carrying out this section, there are authorized to be appropriated for such purpose such sums as may be necessary for each of the fiscal years 1993 through 1996.
+In addition to any other authorization of appropriations available for the purpose of carrying out this section, there are authorized to be appropriated for such purpose such sums as may be necessary for each of the fiscal years 1993 through 2003.
 
-(July 1, 1944, ch. 373, title IV, §403A, as added Oct. 13, 1992, Pub. L. 102–409, §2, 106 Stat. 2092.)
+(July 1, 1944, ch. 373, title IV, §403A, as added Pub. L. 102–409, §2, Oct. 13, 1992, 106 Stat. 2092; amended Pub. L. 105–340, title I, §101(a), Oct. 31, 1998, 112 Stat. 3191.)
+
+#### Amendments
+
+1998—Subsec. (e). Pub. L. 105–340 substituted “2003” for “1996”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300u–9 of this title.
 

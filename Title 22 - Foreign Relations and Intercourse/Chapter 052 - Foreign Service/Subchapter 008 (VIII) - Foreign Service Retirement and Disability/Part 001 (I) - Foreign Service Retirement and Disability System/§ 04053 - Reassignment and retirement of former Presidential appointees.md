@@ -32,5 +32,5 @@ A participant who is retired under subsection (a)(2) of this section and is subs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4047, 4071d of this title.
+This section is referred to in sections 4046, 4047, 4071d of this title.
 

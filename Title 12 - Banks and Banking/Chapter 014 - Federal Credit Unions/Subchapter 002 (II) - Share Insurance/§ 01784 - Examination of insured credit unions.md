@@ -10,7 +10,7 @@ In connection with examinations of insured credit unions, or with other types of
 
 #### (c) Court orders enforcing subpenas; immunity
 
-In cases of refusal to obey a subpena issued to, or contumacy by, any person, the Board may invoke the aid of any court of the United States within the jurisdiction of which such hearing, examination, or investigation is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, records, or other papers. Such court may issue an order requiring such person to appear before the Board, or before a person designated by it, there to produce records, if so ordered, or to give testimony touching the matter in question. Any failure to obey such order of the court may bepunished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or carries on business or wherever he may be found. No person shall be excused from attending and testifying or from producing books, records, or other papers in obedience to a subpena issued under the authority of this subchapter on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to penalty or forfeiture, but no individual shall be prosecuted or subject to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination, except that such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
+In cases of refusal to obey a subpena issued to, or contumacy by, any person, the Board may invoke the aid of any court of the United States within the jurisdiction of which such hearing, examination, or investigation is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, records, or other papers. Such court may issue an order requiring such person to appear before the Board, or before a person designated by it, there to produce records, if so ordered, or to give testimony touching the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or carries on business or wherever he may be found. No person shall be excused from attending and testifying or from producing books, records, or other papers in obedience to a subpena issued under the authority of this subchapter on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to penalty or forfeiture, but no individual shall be prosecuted or subject to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination, except that such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
 
 #### (d) Administration acceptance of State board reports; reports of Board furnished to State board
 
@@ -30,11 +30,25 @@ The Administration may accept any report of examination made by or to any commis
 
 #### (B) Contents
 
-&emsp;&emsp;The report shall include a description of the methods used to determine compliance, the number of insured credit unions examined during the reporting year, a listing and total number of insured credit unions found not to be in compliance, actions taken to correct incidents of noncompliance, and an analysis of compliance, including a discussion of any trends, patterns, and problems, and recommendations regarding reasonable actions to improve the efficiency of the examinations processes.
+&emsp;&emsp;The report shall include a description of the methods used to determine compliance, the number of insured credit unions examined during the reporting year, a listing and total number of insured credit unions found not to be in compliance, actions taken to correct incidents of noncompliance, and an analysis of compliance, including a discussion of any trends, patterns, and problems, and recommendations regarding reasonableactions to improve the efficiency of the examinations processes.
 
-(June 26, 1934, ch. 750, title II, §204, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1001; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 101–73, title IX, §915(a), Aug. 9, 1989, 103 Stat. 486; Pub. L. 103–325, title V, §529(b), Sept. 23, 1994, 108 Stat. 2266.)
+#### (f) Access to liquidity
+
+The Board shall—
+
+&emsp;(1) periodically assess the potential liquidity needs of each insured credit union, and the options that the credit union has available for meeting those needs; and
+
+&emsp;(2) periodically assess the potential liquidity needs of insured credit unions as a group, and the options that insured credit unions have available for meeting those needs.
+
+#### (g) Sharing information with Federal reserve banks
+
+The Board shall, for the purpose of facilitating insured credit unions’ access to liquidity, make available to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board's reports of examination.
+
+(June 26, 1934, ch. 750, title II, §204, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1001; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 101–73, title IX, §915(a), Aug. 9, 1989, 103 Stat. 486; Pub. L. 103–325, title V, §529(b), Sept. 23, 1994, 108 Stat. 2266; Pub. L. 105–219, title III, §303, Aug. 7, 1998, 112 Stat. 934.)
 
 #### Amendments
+
+1998—Subsecs. (f), (g). Pub. L. 105–219 added subsecs. (f) and (g).
 
 1994—Subsec. (e). Pub. L. 103–325 added subsec. (e).
 

@@ -6,7 +6,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 #### (b) Payment of timber receipts
 
-(1) Notwithstanding the provisions of section 500 of this title, that portion of which is paid under such provisions to the State of Oregon with respect to the special management areas within the Mount Hood National Forest, the Gates of the Columbia Gorge Special Management Area, Mount Hood National Forest, and tothe State of Washington with respect to the special management areas within the Gifford Pinchot National Forest—
+(1) Notwithstanding the provisions of section 500 of this title, that portion of which is paid under such provisions to the State of Oregon with respect to the special management areas within the Mount Hood National Forest, the Gates of the Columbia Gorge Special Management Area, Mount Hood National Forest, and to the State of Washington with respect to the special management areas within the Gifford Pinchot National Forest—
 
 &emsp;(A) not less than 50 per centum shall be expended for the benefit of the public schools of the county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
 

@@ -12,5 +12,5 @@ Section 312d, act July 31, 1950, ch. 510, §5, 64 Stat. 383, authorized Secretar
 
 #### Effective Date of Repeal
 
-Repeal effective on date Eklutna is conveyed to Eklutna Purchasers, see section 104(g)(1) of Pub. L. 104–58, set out as an Alaska Power Administration Asset Sale and Termination note under section 7152 of Title 42, The Public Health and Welfare.
+Repeal effective Oct. 2, 1997, date Eklutna was conveyed to Eklutna Purchasers, see section 104(g)(1) of Pub. L. 104–58, set out as an Alaska Power Administration Asset Sale and Termination note under section 7152 of Title 42, The Public Health and Welfare.
 

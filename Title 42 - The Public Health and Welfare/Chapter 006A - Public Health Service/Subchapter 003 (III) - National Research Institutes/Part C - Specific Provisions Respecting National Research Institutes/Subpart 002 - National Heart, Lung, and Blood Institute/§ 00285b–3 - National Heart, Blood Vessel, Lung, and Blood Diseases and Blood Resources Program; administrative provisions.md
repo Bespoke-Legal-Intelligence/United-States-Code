@@ -18,7 +18,7 @@
 
 &emsp;(H) public and professional education relating to all aspects of such diseases, including the prevention of such diseases, and the use of blood and blood products and the management of blood resources;
 
-&emsp;(I) establishment of programs for study and research into heart, blood vessel, lung, and blood diseases of children (including cystic fibrosis, hyaline membrane, hemolytic diseases such as sickle cell anemia and Cooley's anemia, and hemophilic diseases) and for the development and demonstration of diagnostic, treatment, and preventive approaches to such diseases; and
+&emsp;(I) establishment of programs for study and research into heart, blood vessel, lung, and blood diseases of children (including cystic fibrosis, hyaline membrane, hemolytic diseases such as sickle cell anemia and Cooley's anemia, and hemophilic diseases) and for the development and demonstration of diagnostic,treatment, and preventive approaches to such diseases; and
 
 &emsp;(J) establishment of programs for study, research, development, demonstrations and evaluation of emergency medical services for people who become critically ill in connection with heart, blood vessel, lung, or blood diseases.
 
@@ -34,7 +34,7 @@
 
 &emsp;(C) may, in consultation with the advisory council for the Institute, acquire, without regard to section 34 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the Institute for a period not to exceed ten years;
 
-&emsp;(3) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31and section 5 of title 41, may enter into such contracts, leases, cooperative agreements, or other transactions, as may be necessary in the conduct of the Director's functions, with any public agency, or with any person, firm, association, corporation, or educational institutions;
+&emsp;(3) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts, leases, cooperative agreements, or other transactions, as may be necessary in the conduct of the Director's functions, with any public agency, or with any person, firm, association, corporation, or educational institutions;
 
 &emsp;(4) may make grants to public and nonprofit private entities to assist in meeting the cost of the care of patients in hospitals, clinics, and related facilities who are participating in research projects; and
 
@@ -42,7 +42,7 @@
 
 > Except as otherwise provided, experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed, in accordance with title 5, for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
 
-(July 1, 1944, ch. 373, title IV, §421, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 837; amended Nov. 4, 1988, Pub. L. 100–607, title I, §127, 102 Stat. 3055; June 10, 1993, Pub. L. 103–43, title V, §501, title XX, §2008(b)(3), 107 Stat. 158, 211.)
+(July 1, 1944, ch. 373, title IV, §421, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 837; amended Pub. L. 100–607, title I, §127, Nov. 4, 1988, 102 Stat. 3055; Pub. L. 103–43, title V, §501, title XX, §2008(b)(3), June 10, 1993, 107 Stat. 158, 211.)
 
 #### References in Text
 

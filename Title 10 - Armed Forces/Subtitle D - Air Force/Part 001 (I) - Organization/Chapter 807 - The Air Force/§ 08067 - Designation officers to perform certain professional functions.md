@@ -18,7 +18,7 @@
 
 (i) Other functions in the Air Force requiring special training or experience shall be performed by members of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as being in named categories.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 494; Sept. 2, 1958, Pub. L. 85–861, §1(156), 72 Stat. 1513; Dec. 12, 1980, Pub. L. 96–513, title V, §504(5), 94 Stat. 2916; Dec. 1, 1981, Pub. L. 97–86, title IV, §403, 95 Stat. 1105; Oct. 23, 1992, Pub. L. 102–484, div. A, title V, §505(c), 106 Stat. 2404.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 494; Pub. L. 85–861, §1(156), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 96–513, title V, §504(5), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 97–86, title IV, §403, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 102–484, div. A, title V, §505(c), Oct. 23, 1992, 106 Stat. 2404.)
 
 Historical and Revision Notes<br>1956
 

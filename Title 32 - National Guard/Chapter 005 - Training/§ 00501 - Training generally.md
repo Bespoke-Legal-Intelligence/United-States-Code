@@ -92,7 +92,7 @@ Termination.—The authority under subsection (a) of section 1091 of the Nationa
 
 Limitation on Number of Programs.—During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
-Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(<i>o</i>), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
+Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I,§104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(<i>o</i>), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
@@ -184,7 +184,7 @@ Status of Participants.—(1) A person receiving training under the pilot progra
 
 &emsp;“(C) the entitlement of a person to receive compensation for a disability shall begin on the day following the date on which the person's participation in the pilot program is terminated.
 
-“(3) A person referred to in paragraph (1) may not be considered an employee of the United States for any purpose other than a purpose set forth in that paragraph.
+“(3) A person referred to in paragraph (1) may not be considered an employee of the United States for anypurpose other than a purpose set forth in that paragraph.
 
 “(j)
 

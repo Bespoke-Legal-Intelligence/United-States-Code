@@ -14,13 +14,13 @@ For purposes of this section, the term “nutrition education and training progr
 
 #### (d) Nutrition education and training; grants; coordination with other nutrition activities; coordination with Department of Health and Human Services: transfer of funds; State contracts: nutrition training grants and pilot projects
 
-(1) The Secretary is authorized to formulate and carry out a nutrition education and training program, through a system of grants to State educational agencies, to provide for (A) the nutritional training of educational and food service personnel, (B) training school food service personnel in the principles and practices of food service management, in cooperation with materials developed at any food service management institute established as authorized by section 21(a)(2) of the National School Lunch Act \[42 U.S.C. 1769b–1(a)(2)\], and (C) the conduct of nutrition education activities in schools, child care institutions, and institutions offering summer food service programs under section 13 ofthe National School Lunch Act \[42 U.S.C. 1761\], and the provision of nutrition education to parents and caregivers.
+(1) The Secretary is authorized to formulate and carry out a nutrition education and training program, through a system of grants to State educational agencies, to provide for (A) the nutritional training of educational and food service personnel, (B) training school food service personnel in the principles and practices of food service management, in cooperation with materials developed at any food service management institute established as authorized by section 21(a)(2) of the National School Lunch Act \[42 U.S.C. 1769b–1(a)(2)\], and (C) the conduct of nutrition education activities in schools, child care institutions, and institutions offering summer food service programs under section 13 of the National School Lunch Act \[42 U.S.C. 1761\], and the provision of nutrition education to parents and caregivers.
 
 (2) The program is to be coordinated at the State level with other nutrition activities conducted by education, health, and State Cooperative Extension Service agencies. In formulating the program, the Secretary and the State may solicit the advice and recommendations of State educational agencies, the Department of Health and Human Services, and other interested groups and individuals concerned with improvement of child nutrition.
 
 (3) If a State educational agency is conducting or applying to conduct a health education program which includes a school-related nutrition education component as defined by the Secretary, and that health education program is eligible for funds under programs administered by the Department of Health and Human Services, the Secretary may make funds authorized in this section available to the Department of Health and Human Services to fund the nutrition education component of the State program without requiring an additional grant application.
 
-(4) The Secretary, in carrying out the provisions of this subsection, shall make grants to State educational agencies who, in turn, may contract with land-grant colleges eligible to receive funds under the Act of July 2, 1862 \[7 U.S.C. 301 et seq.\], or the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including the Tuskegee Institute, other institutions of higher education, and nonprofit organizations and agencies, for the training of educational, school food service, child care, and summer food service personnel with respect to providing nutrition education programs in schools and the training of school food service personnel in school food service management, in coordination with the activities authorized under section 21 of the National School Lunch Act \[42 U.S.C. 1769b–1\]. Such grants may be used to develop and conduct training programs for early childhood, elementary, and secondary educational personnel and food service personnel with respect to the relationship between food, nutrition, and health; educational methods and techniques, and issues relating to nutrition education; and principles and skills of food service management for cafeteria personnel.
+(4) The Secretary, in carrying out the provisions of this subsection, shall make grants to State educational agencies who, in turn, may contract with land-grant colleges eligible to receive funds under the Act of July 2, 1862 \[7 U.S.C. 301 et seq.\], or the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including the Tuskegee Institute, other institutions of higher education, and nonprofit organizations and agencies, for the training of educational, school food service, child care, and summer food service personnel with respect to providing nutrition education programs in schools and the training of school food service personnel in school food service management, in coordination with the activities authorized under section 21 of the National School Lunch Act \[42 U.S.C. 1769b–1\]. Such grants may be used to develop and conduct training programs for early childhood, elementary, and secondary educational personnel andfood service personnel with respect to the relationship between food, nutrition, and health; educational methods and techniques, and issues relating to nutrition education; and principles and skills of food service management for cafeteria personnel.
 
 (5) The State, in carrying out the provisions of this subsection, may contract with State and local educational agencies, land-grant colleges eligible to receive funds under the Act of July 2, 1862 \[7 U.S.C. 301 et seq.\], or the act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including the Tuskegee Institute, other institutions of higher education, and other public or private nonprofit educational or research agencies, institutions, or organizations to pay the cost of pilot demonstration projects in elementary and secondary schools, and in child care institutions and summer food service institutions, with respect to nutrition education. Such projects may include, but are not limited to, projects for the development, demonstration, testing, and evaluation of curricula for use in early childhood, elementary, and secondary education programs.
 
@@ -66,33 +66,15 @@ The Secretary is authorized to enter into agreements with State educational agen
 
 (2) Upon receipt of funds authorized by this section, the State coordinator shall prepare an itemized budget and assess the nutrition education and training needs of the State.
 
-#### (i) Authorization of appropriations; enrollment data
+#### (i) Authorization of appropriations
 
-(1) For the fiscal years beginning October 1, 1977, and October 1, 1978, grants to the States for the conduct of nutrition education and information programs shall be based on a rate of 50 cents for each child enrolled in schools or in institutions within the State, except that no State shall receive an amount less than $75,000 per year.
+(1)
 
-(2)(A) Out of any moneys in the Treasury not otherwise appropriated, and in addition to any amounts otherwise made available for fiscal year 1995, the Secretary of the Treasury shall provide to the Secretary $1,000 for fiscal year 1995 and $10,000,000 for fiscal year 1996 for making grants under this section to each State for the conduct of nutrition education and training programs. The Secretary shall be entitled to receive the funds and shall accept the funds.
-
-(B)(i)(I) Subject to clause (ii), grants to each State from the amounts appropriated under subparagraph (A) shall be based on a rate of 50 cents for each child enrolled in schools or institutions within such State.
-
-(II) If the amount appropriated for any fiscal year is insufficient to pay the amount to which each State is entitled under subclause (I), the amount of each grant shall be ratably reduced. If additional funds become available for making such payments, such amounts shall be increased on the same basis as they were reduced.
-
-(ii) No State shall receive an amount that is less than—
-
-&emsp;(I) $50,000, in any fiscal year in which the amount appropriated for purposes of this section is less than $10,000,000;
-
-&emsp;(II) $62,500, in any fiscal year in which the amount appropriated for purposes of this section is $10,000,000 or more but is less than $15,000,000;
-
-&emsp;(III) $68,750, in any fiscal year in which the amount appropriated for purposes of this section is $15,000,000 or more but is less than $20,000,000; and
-
-&emsp;(IV) $75,000 in any fiscal year in which the amount appropriated for purposes of this section is $20,000,000 or more.
-
-(3)
-
-Fiscal years 1997 through 2002.—
+In general.—
 
 &emsp;(A)
 
-In general.—There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 1997 through 2002.
+Funding.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1997 through 2003.
 
 &emsp;(B)
 
@@ -106,11 +88,11 @@ In general.—Grants to each State from the amounts made available under subpara
 
 Insufficient funds.—If the amount made available for any fiscal year is insufficient to pay the amount to which each State is entitled under clause (i), the amount of each grant shall be ratably reduced.
 
-(4) Funds made available to any State under this section shall remain available to the State for obligation in the fiscal year succeeding the fiscal year in which the funds were received by the State.
+(2) Funds made available to any State under this section shall remain available to the State for obligation in the fiscal year succeeding the fiscal year in which the funds were received by the State.
 
-(5) Enrollment data used for purposes of this subsection shall be the latest available as certified by the Department of Education.
+(3) Enrollment data used for purposes of this subsection shall be the latest available as certified by the Department of Education.
 
-(Pub. L. 89–642, §19, as added Pub. L. 95–166, §15, Nov. 10, 1977, 91 Stat. 1340; amended Pub. L. 96–499, title II, §213, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §§806, 817(f), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §§315, 362, 372(b), 373(b), Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, 1783–369, and Pub. L. 99–591, title III, §§315, 362, 372(b), 373(b), Oct. 30, 1986, 100 Stat. 3341–363, 3341–371, 3341–372; Pub. L. 99–661, div. D, title I, §4105, title IV, §4402, title V, §§4502(b), 4503(b), Nov. 14, 1986, 100 Stat. 4071, 4079–4081; Pub. L. 101–147, title I, §124, title II, §214, title III, §327, Nov. 10, 1989, 103 Stat. 905, 913, 918; Pub. L. 103–448, title II, §205, Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VII, §731(a)–(f), Aug. 22, 1996, 110 Stat. 2305–2307.)
+(Pub. L. 89–642, §19, as added Pub. L. 95–166, §15, Nov. 10, 1977, 91 Stat. 1340; amended Pub. L. 96–499, title II, §213, Dec. 5, 1980, 94 Stat. 2603;Pub. L. 97–35, title VIII, §§806, 817(f), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §§315, 362, 372(b), 373(b), Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, 1783–369, and Pub. L. 99–591, title III, §§315, 362, 372(b), 373(b), Oct. 30, 1986, 100 Stat. 3341–363, 3341–371, 3341–372; Pub. L. 99–661, div. D, title I, §4105, title IV, §4402, title V, §§4502(b), 4503(b), Nov. 14, 1986, 100 Stat. 4071, 4079–4081; Pub. L. 101–147, title I, §124, title II, §214, title III, §327, Nov. 10, 1989, 103 Stat. 905, 913, 918; Pub. L. 103–448, title II, §205, Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VII, §731(a)–(f), Aug. 22, 1996, 110 Stat. 2305–2307; Pub. L. 105–336, title II, §204, Oct. 31, 1998, 112 Stat. 3167.)
 
 #### References in Text
 
@@ -123,6 +105,8 @@ Act of August 30, 1890, referred to in subsec. (d)(4), (5), is act Aug. 30, 1890
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1998—Subsec. (i). Pub. L. 105–336 inserted subsec. heading and par. (1)(A) and struck out former subsec. heading and pars. (1) to (3)(A) which provided for grants to States for nutrition education and information programs based on rate of 50 cents for each child enrolled in schools, minimum amounts to be received by States, and authorizations of appropriations; redesignated par. (3)(B) as (1)(B); and redesignated pars. (4) and (5) as (2) and (3), respectively.
 
 1996—Subsec. (a). Pub. L. 104–193, §731(a)(1), substituted “that effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs should be encouraged.” for “that—” and pars. (1) to (5) which related to priority of proper nutrition, lack of understanding of principles of good nutrition, training school employees, role of parents, and opportunities for children to learn about importance of good nutrition.
 
@@ -232,7 +216,11 @@ Subsecs. (i), (j). Pub. L. 99–500 and Pub. L. 99–591, §§315, 362, 372(b)(2
 
 Subsec. (j)(2). Pub. L. 97–35, §806, substituted provisions authorizing $15,000,000 for fiscal year 1981 and not more than $5,000,000 for each subsequent fiscal year for provisions authorizing $15,000,000 for the fiscal year beginning Oct. 1, 1980, and each subsequent fiscal year.
 
-1980—Subsec. (j)(2). Pub. L. 96–499 substituted “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1984” for “For the fiscal year beginning October 1, 1979” and “second preceding sentence” for “preceding sentence” and inserted provision authorizing appropriations for the fiscal year beginning October 1, 1980, and subsequent fiscal years, for the grants referred to in the preceding sentence, not more than $15,000,000.
+1980—Subsec. (j)(2). Pub. L. 96–499 substituted “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1984” for “For the fiscal year beginning October 1, 1979” and “second preceding sentence” for “preceding sentence” and inserted provision authorizing appropriations for the fiscal year beginning October 1, 1980,and subsequent fiscal years, for the grants referred to in the preceding sentence, not more than $15,000,000.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -248,5 +236,5 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 820(a)(4) of Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1769b–1, 1769h of this title.
+This section is referred to in section 1769b–1 of this title.
 

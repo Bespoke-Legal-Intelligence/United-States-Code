@@ -60,13 +60,13 @@ In the case of any article or merchandise imported from a country which is not a
 
 #### (d) Treatment of international consortia
 
-For purposes of this part, if the members (or other participating entities) of an international consortium that is engaged in the production of subject merchandise receive countervailable subsidies from their respective home countries to assist, permit, or otherwise enable their participation in that consortium through production or manufacturing operations in their respective home countries, then the administering authority shall cumulate all such countervailable subsidies, as well as countervailable subsidies provided directly to the internationalconsortium, in determining any countervailing duty upon such merchandise.
+For purposes of this part, if the members (or other participating entities) of an international consortium that is engaged in the production of subject merchandise receive countervailable subsidies from their respective home countries to assist, permit, or otherwise enable their participation in that consortium through production or manufacturing operations in their respective home countries, then the administering authority shall cumulate all such countervailable subsidies, as well as countervailable subsidies provided directly to the international consortium, in determining any countervailing duty upon such merchandise.
 
 #### (e) Upstream subsidies
 
 Whenever the administering authority has reasonable grounds to believe or suspect that an upstream subsidy, as defined in section 1677–1(a)(1) <sup>1</sup> of this title, is being paid or bestowed, the administering authority shall investigate whether an upstream subsidy has in fact been paid or bestowed, and if so, shall include the amount of the upstream subsidy as provided in section 1677–1(a)(3) <sup>2</sup> of this title.
 
-(June 17, 1930, ch. 497, title VII, §701, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 151; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§602(a)(1), 613(b), 98 Stat. 3024, 3035; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(1), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §§1314, 1315, 102 Stat. 1185; Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(9), 102 Stat. 3807; Dec. 8, 1994, Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), 108 Stat. 4899, 4910, 4917.)
+(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917.)
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Investigations After Enactment.—The amendments made by sections 1324 and 1330 
 
 “(d)
 
-Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
+Prevention of Circumvention of Duties; Drawback.—The provisions of section 781 of the Tariff Act of 1930, as added by section 1321(a) \[19 U.S.C. 1677j\], and the amendments made by section 1334 \[amending section 1677h of this title\] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
 “(e)
 
@@ -222,7 +222,7 @@ Section 102 of Pub. L. 96–39 provided that:
 
 “(a)
 
-Pending Investigations of Bounties or Grants.—If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, there is an investigation in progress under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed on imports from such country, then:
+Pending Investigations of Bounties or Grants.—If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, there is an investigation in progress under section 303 of thatAct \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed on imports from such country, then:
 
 &emsp;“(1) If the Secretary of the Treasury has not yet made a preliminary determination under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under section 303 \[section 1303 of this title\] and the matter previously under investigation shall be subject to this title \[this subtitle\] as if the affirmative determination called for in section 702 of that Act \[section 1671a of this title\] were made with respect to that matter on the effective date of the application of title VII of that Act \[this subtitle\] to such country.
 
@@ -230,7 +230,7 @@ Pending Investigations of Bounties or Grants.—If, on the effective date of the
 
 “(b)
 
-Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set outabove\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
+Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
 
 &emsp;“(1) If the Secretary has not yet made a preliminary determination under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to the question of less-than-fair-value sales, he shall terminate the investigation and the United States International Trade Commission shall terminate any investigation under section 201(c)(2) of the Antidumping Act, 1921 \[section 160(c)(2) of this title\], and the matter previously under investigation shall be subject to the provisions of title VII of the Tariff Act of 1930 \[this subtitle\] as if the affirmative determination called for in section 732 \[section 1673a of this title\] were made with respect to such matter on the effective date of title VII of the Tariff Act of 1930.
 

@@ -38,7 +38,7 @@
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriategovernment under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+&emsp;Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
 #### (c) Sanction
 
@@ -92,7 +92,7 @@ The sanction imposed pursuant to this section shall apply for a period of at lea
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), thePresident shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
 (Pub. L. 103–236, title VIII, §821, Apr. 30, 1994, 108 Stat. 508.)
 
@@ -106,7 +106,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Effective Date
 
-Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \[part B (§§821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title,and enacting provisions set out as a note under section 2799aa of this title\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
+Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \[part B (§§821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as a note under section 2799aa of this title\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
 
 #### Short Title
 

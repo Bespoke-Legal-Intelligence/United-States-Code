@@ -10,7 +10,7 @@ Prior sections 4333 to 4336, and 4351 to 4355 were renumbered sections 7633 to 7
 
 Prior section 5001 was renumbered section 8101 of this title.
 
-Another prior section 5001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1251; Pub. L. 88–450, §1, Aug. 19, 1964, 78 Stat. 500; Pub. L. 89–311, §8, Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title III, §301, Aug. 2, 1973, 87 Stat. 194;Pub. L. 94–581, title I, §114, title II, §§206(a), 210(e)(1), Oct. 21, 1976, 90 Stat. 2852, 2859, 2864; Pub. L. 95–201, §4(c), Nov. 23, 1977, 91 Stat. 1431, relating generally to the authority of the Administrator to establish hospitals and domiciliary facilities for veterans, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8102 of this title.
+Another prior section 5001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1251; Pub. L. 88–450, §1, Aug. 19, 1964, 78 Stat. 500; Pub. L. 89–311, §8, Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title III, §301, Aug. 2, 1973, 87 Stat. 194; Pub. L. 94–581, title I, §114, title II, §§206(a), 210(e)(1), Oct. 21, 1976, 90 Stat. 2852, 2859, 2864; Pub. L. 95–201, §4(c), Nov. 23, 1977, 91 Stat. 1431, relating generally to the authority of the Administrator to establish hospitals and domiciliary facilities for veterans, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8102 of this title.
 
 Prior section 5002 was renumbered section 8102 of this title.
 

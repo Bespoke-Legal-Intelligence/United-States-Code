@@ -16,9 +16,9 @@ The Secretary may establish cost limitations on eligible activities under this s
 
 Notwithstanding the purchase of a public housing project under this section, or the purchase of a unit in a public housing project by an eligible family, the Secretary shall continue to pay annual contributions with respect to the project. Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.
 
-#### (e) Operating subsidies
+#### (e) Amounts from Operating Fund allocation
 
-Operating subsidies under section 1437g of this title shall not be available with respect to a public housing project after the date of its sale by the public housing agency.
+Amounts from an allocation from the Operating Fund under section 1437g of this title shall not be available with respect to a public housing project after the date of its sale by the public housing agency.
 
 #### (f) Use of proceeds from sales to eligible families
 
@@ -42,7 +42,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (2) 6 years or less
 
-&emsp;In the case of a transfer within 6 years of the acquisition under the program, the homeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. Theplan shall provide for limiting the family's consideration for its interest in the property to the total of—
+&emsp;In the case of a transfer within 6 years of the acquisition under the program, the homeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. The plan shall provide for limiting the family's consideration for its interest in the property to the total of—
 
 &emsp;&emsp;(A) the contribution to equity paid by the family;
 
@@ -62,7 +62,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (h) Third party rights
 
-The requirements under this subchapter regarding quality standards, resale, or transfer of the ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
+The requirements under this subchapter regarding quality standards, resale, or transfer ofthe ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 #### (i) Dollar limitation on economic development activities
 
@@ -90,7 +90,7 @@ To be eligible to receive a grant under section 1437aaa–2 of this title, a res
 
 &emsp;The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this subchapter.
 
-(Sept. 1, 1937, ch. 896, title III, §305, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4155.)
+(Sept. 1, 1937, ch. 896, title III, §305, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4155; amended Pub. L. 105–276, title V, §519(c)(2), Oct. 21, 1998, 112 Stat. 2561.)
 
 #### References in Text
 
@@ -99,6 +99,14 @@ This subchapter, referred to in subsec. (g)(4), was in the original “this subt
 Section 1437aaa–1(b)(6) of this title, referred to in subsec. (i), was redesignated section 1437aaa–1(b)(7) of this title by Pub. L. 102–550, title X, §1012(h)(1)(A), Oct. 28, 1992, 106 Stat. 3906.
 
 Section 1437aaa–2(b)(9) of this title, referred to in subsec. (i), was redesignated section 1437aaa–2(b)(10) of this title by Pub. L. 102–550, title X, §1012(h)(2)(A), Oct. 28, 1992, 106 Stat. 3906.
+
+#### Amendments
+
+1998—Subsec. (e). Pub. L. 105–276 substituted “Amounts from an allocation from the Operating Fund” for “Operating subsidies”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

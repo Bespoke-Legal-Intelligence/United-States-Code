@@ -1,6 +1,16 @@
 ### §1175. Voluntary separation incentive
 
-(a) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary of Transportation may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c), for the period of time the member serves in a reserve component.
+(a)(1) Consistent with this section and the availability of appropriations for this purpose,the Secretary of Defense and the Secretary of Transportation may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
+
+(2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal to twice the number of years of service of the member, computed as provided in subsection (e)(5).
+
+(B) If, before the expiration of the period otherwise applicable under subparagraph (A) to a member receiving a financial incentive under this section, the member is separated from a reserve component or is transferred to the Retired Reserve, the period for payment of a financial incentive to the member under this section shall terminate on the date of the separation or transfer unless—
+
+&emsp;(i) the separation or transfer is required by reason of the age or number of years of service of the member;
+
+&emsp;(ii) the separation or transfer is required by reason of the failure of selection for promotion or the medical disqualification of the member, except in a case in which the Secretary of Defense or the Secretary of Transportation determines that the basis for the separation or transfer is a result of a deliberate action taken by the member with the intent to avoid retention in the Ready Reserve or Standby Reserve; or
+
+&emsp;(iii) in the case of a separation, the member is separated from the reserve component for appointment or enlistment in or transfer to another reserve component of an armed force for service in the Ready Reserve or Standby Reserve of that armed force.
 
 (b) The Secretary of Defense and the Secretary of Transportation may provide the incentive to a member of the armed forces if the member—
 
@@ -24,9 +34,9 @@
 
 (2) The Secretary, in his discretion, may approve or disapprove a request according to the needs of the armed forces.
 
-(3) After September 30, 1999, the Secretary may not approve a request.
+(3) After September 30, 2001, the Secretary may not approve a request.
 
-(e)(1) The annual payment of the incentive shall equal 2.5 percent of the monthly basic pay the member receives on the date appointed, enlisted, or transferred to the reserve component, multiplied by twelve and multiplied again by the member's years of service. The annual payment will be made for a period equal to the number of years that is equal to twice the number of years of service of the member.
+(e)(1) The annual payment of the incentive shall equal 2.5 percent of the monthly basic pay the member receives on the date appointed, enlisted, or transferred to the reserve component, multiplied by twelve and multiplied again by the member's years of service.
 
 (2) A member entitled to voluntary separation incentive payments who is also entitled to basic pay for active or reserve service, or compensation for inactive duty training, may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.
 
@@ -82,9 +92,15 @@
 
 (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769.)
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261, §563(a), designated existing provisions as par. (1), struck out “, for the period of time the member serves in a reserve component” after “under subsection (c)”, and added par. (2).
+
+Subsec. (d)(3). Pub. L. 105–261, §561(b), substituted “September 30, 2001” for “September 30, 1999”.
+
+Subsec. (e)(1). Pub. L. 105–261, §563(b), struck out at end “The annual payment will be made for a period equal to the number of years that is equal to twice the number of years of service of the member.”
 
 1994—Subsecs. (a), (b). Pub. L. 103–337, §542(c)(1), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
@@ -117,6 +133,10 @@ Subsec. (e)(3). Pub. L. 102–484, §4406(a)(2), inserted at end “If the membe
 Subsec. (e)(6). Pub. L. 102–484, §4406(b), struck out par. (6) which read as follows: “Years of service that form the basis of the payment under paragraph (5) may not be counted in computing eligibility for, or the amount of, annuities under title 5 or any other law providing annuities to Federal civilian employees.”
 
 Subsec. (j). Pub. L. 102–484, §4405(b), added subsec. (j).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

@@ -6,7 +6,7 @@ Each person enlisting in an armed force shall take the following oath:
 
 > This oath may be taken before any commissioned officer of any armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §501; Oct. 5, 1962, Pub. L. 87–751, §1, 76 Stat. 748; renumbered §502, Jan. 2, 1968, Pub. L. 90–235, §2(a)(1)(A), 81 Stat. 753; Nov. 29, 1989, Pub. L. 101–189, div. A, title VI, §653(a)(1), 103 Stat. 1462.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, §501; Pub. L. 87–751, §1, Oct. 5, 1962, 76 Stat. 748; renumbered §502, Pub. L. 90–235, §2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, §653(a)(1), Nov. 29, 1989, 103 Stat. 1462.)
 
 Historical and Revision Notes
 
@@ -32,7 +32,7 @@ The Uniform Code of Military Justice, referred to in the oath, is classified to 
 
 1989—Pub. L. 101–189 struck out “or affirmation” after “This oath”.
 
-1962—Pub. L. 87–751 substituted “support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same” for “bear true faith and allegiance to the United States of America; that I will serve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God” in the oath, and “or affirmation” in text.
+1962—Pub. L. 87–751 substituted “support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same” for “bear true faith and allegiance to the United States of America; that I willserve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God” in the oath, and “or affirmation” in text.
 
 #### Effective Date of 1962 Amendment
 

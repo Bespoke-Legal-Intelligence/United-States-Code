@@ -4,9 +4,13 @@
 
 (b)(1) Subject to paragraph (2) and in accordance with other applicable law, the Secretary of Defense may, upon request from the head of a Federal law enforcement agency, make Department of Defense personnel available to operate equipment (including equipment made available under section 372 of this title) with respect to—
 
-&emsp;(A) a criminal violation of a provision of law specified in paragraph (4)(A); or
+&emsp;(A) a criminal violation of a provision of law specified in paragraph (4)(A);
 
-&emsp;(B) assistance that such agency is authorized to furnish to a State, local, or foreign government which is involved in the enforcement of similar laws.
+&emsp;(B) assistance that such agency is authorized to furnish to a State, local, or foreign government which is involved in the enforcement of similar laws;
+
+&emsp;(C) a foreign or domestic counter-terrorism operation; or
+
+&emsp;(D) a rendition of a suspected terrorist from a foreign country to the United States to stand trial.
 
 (2) Department of Defense personnel made available to a civilian law enforcement agency under this subsection may operate equipment for the following purposes:
 
@@ -22,15 +26,17 @@
 
 &emsp;(F) Subject to joint approval by the Secretary of Defense and the Attorney General (and the Secretary of State in the case of a law enforcement operation outside of the land area of the United States)—
 
-&emsp;&emsp;(i) the transportation of civilian law enforcement personnel; and
+&emsp;&emsp;(i) the transportation of civilian law enforcement personnel along with any other civilian or military personnel who are supporting, or conducting, a joint operation with civilian law enforcement personnel;; <sup>1</sup>
 
-&emsp;&emsp;(ii) the operation of a base of operations for civilian law enforcement personnel.
+&emsp;&emsp;(ii) the operation of a base of operations for civilian law enforcement and supporting personnel; and
+
+&emsp;&emsp;(iii) the transportation of suspected terrorists from foreign countries to the United States for trial (so long as the requesting Federal law enforcement agency provides all security for such transportation and maintains custody over the suspect through the duration of the transportation).
 
 (3) Department of Defense personnel made available to operate equipment for the purpose stated in paragraph (2)(D) may continue to operate such equipment into the land area of the United States in cases involving the pursuit of vessels or aircraft where the detection began outside such land area.
 
 (4) In this subsection:
 
-&emsp;(A) The term “Federal law enforcement agency” means an agency with jurisdiction to enforce any of the following:
+&emsp;(A) The term “Federal law enforcement agency” means a Federal agency with jurisdiction to enforce any of the following:
 
 &emsp;&emsp;(i) The Controlled Substances Act (21 U.S.C. 801 et seq.) or the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.).
 
@@ -40,11 +46,13 @@
 
 &emsp;&emsp;(iv) The Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.).
 
+&emsp;&emsp;(v) Any law, foreign or domestic, prohibiting terrorist activities.
+
 &emsp;(B) The term “land area of the United States” includes the land area of any territory, commonwealth, or possession of the United States.
 
 (c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
 
-(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492.)
+(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567.)
 
 #### References in Text
 
@@ -57,6 +65,18 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 The Maritime Drug Law Enforcement Act, referred to in subsec. (b)(4)(A)(iv), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(C), (D). Pub. L. 105–277, §201(1), (2), added subpars. (C) and (D).
+
+Subsec. (b)(2)(F)(i). Pub. L. 105–277, §201(3), inserted “along with any other civilian or military personnel who are supporting, or conducting, a joint operation with civilian law enforcement personnel;” after “transportation of civilian law enforcement personnel” and struck out “and” at end.
+
+Subsec. (b)(2)(F)(ii). Pub. L. 105–277, §201(4)(A), inserted “and supporting” before “personnel”.
+
+Subsec. (b)(2)(F)(iii). Pub. L. 105–277, §201(4)(B), (C), added cl. (iii).
+
+Subsec. (b)(4)(A). Pub. L. 105–277, §201(5), substituted “a Federal agency” for “an agency” in introductory provisions.
+
+Subsec. (b)(4)(A)(v). Pub. L. 105–277, §201(6), added cl. (v).
 
 1992—Subsec. (b)(2)(B) to (F). Pub. L. 102–484, §1042(1), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
@@ -94,7 +114,7 @@ Subsec. (d). Pub. L. 99–661 added subsec. (d).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Counter-Drug Activities; Conditions on Transfers of Funds and Detailing Personnel; Relationship to Other Law
 
@@ -122,9 +142,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 105–56, title VIII, §8071(a), Oct. 8, 1997, 111 Stat. 1235, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 105–262, title VIII, §8065(a), Oct. 17, 1998, 112 Stat. 2311, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–56, title VIII, §8071(a), Oct. 8, 1997, 111 Stat. 1235.
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8080(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
 
@@ -134,11 +156,11 @@ Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Additional Support for Counter-Drug Activities
 
-Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836, provided that:
+Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120, provided that:
 
 “(a)
 
-Support to Other Agencies.—During fiscal years 1991 through 1999, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
+Support to Other Agencies.—During fiscal years 1991 through 2002, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
 
 &emsp;“(1) by the official who has responsibility for the counter-drug activities of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
 
@@ -164,7 +186,7 @@ Types of Support.—The purposes for which the Secretary may provide support und
 
 &emsp;“(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities within or outside the United States.
 
-&emsp;“(4) The establishment (including unspecified minor construction) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities within or outside the United States.
+&emsp;“(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, or local law enforcement agency within or outside the United States or counter-drug activities of a foreign law enforcement agency outside the United States.
 
 &emsp;“(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State and local governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
 
@@ -196,13 +218,23 @@ Limited Waiver of Prohibition.—Notwithstanding section 376 of title 10, United
 
 “(f)
 
-Conduct of Training or Operation to Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) \[10 U.S.C. 124 note\]) for the purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation to Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant tosection 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) \[10 U.S.C. 124 note\]) for the purpose of aiding civilian law enforcement agencies.
 
 “(g)
 
 Relationship to Other Laws.—(1) The authority provided in this section for the support of counter-drug activities by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the requirements of chapter 18 of title 10, United States Code.
 
-“(2) Support under this section shall be subject to the provisions of section 375 and, except as provided in subsection (e), section 376 of title 10, United States Code.”
+“(2) Support under this section shall be subject to the provisions of section 375 and, except as provided in subsection (e), section 376 of title 10, United States Code.
+
+“(h)
+
+Congressional Notification of Facilities Projects.—(1) When a decision is made to carry out a military construction project described in paragraph (2), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] written notice of the decision, including the justification for the project and the estimated cost of the project. The project may be commenced only after the end of the 21-day period beginning on the date on which the written notice is received by Congress.
+
+“(2) Paragraph (1) applies to an unspecified minor military construction project that—
+
+&emsp;“(A) is intended for the modification or repair of a Department of Defense facility for the purpose set forth in subsection (b)(4); and
+
+&emsp;“(B) has an estimated cost of more than $500,000.”
 
 #### Communications Network
 
@@ -261,4 +293,6 @@ Review by General Accounting Office.—The Comptroller General of the United Sta
 #### Section Referred to in Other Sections
 
 This section is referred to in section 379 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

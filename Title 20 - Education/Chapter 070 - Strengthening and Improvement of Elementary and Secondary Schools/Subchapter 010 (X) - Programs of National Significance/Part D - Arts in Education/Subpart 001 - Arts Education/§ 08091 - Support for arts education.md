@@ -26,7 +26,7 @@ The Congress finds that—
 
 The purposes of this subpart are to—
 
-&emsp;(1) support systemic education reform by strengthening arts education as an integralpart of the elementary and secondary school curriculum;
+&emsp;(1) support systemic education reform by strengthening arts education as an integral part of the elementary and secondary school curriculum;
 
 &emsp;(2) help ensure that all students have the opportunity to learn to challenging State content standards and challenging State student performance standards in the arts; and
 

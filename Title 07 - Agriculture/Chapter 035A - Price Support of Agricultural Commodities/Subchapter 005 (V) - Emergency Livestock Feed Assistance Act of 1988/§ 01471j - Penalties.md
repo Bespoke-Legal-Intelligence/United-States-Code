@@ -2,7 +2,7 @@
 
 A person that disposes of any feed made available to a livestock producer under this subchapter other than as authorized by the Secretary shall be (1) subject to a civil penalty equal to the market value of the feed involved, to be recovered by the Secretary in a civil suit brought for that purpose, and (2) guilty of a misdemeanor and, on conviction thereof, subject to a fine of not more than $1,000, or imprisonment for not more than one year, or both.
 
-(Oct. 31, 1949, ch. 792, title VI, §612, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 931.)
+(Oct. 31, 1949, ch. 792, title VI, §612, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 931.)
 
 #### Effective Date
 

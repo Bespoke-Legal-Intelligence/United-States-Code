@@ -58,7 +58,7 @@
 
 #### (3) Seed
 
-&emsp;Except as provided in paragraph (1), seed for planting of any peanut acreage in the United States shall be obtained solely from quota peanuts marketed or considered marketed for domestic edible use.
+&emsp;Except as provided in paragraph (1), seed for planting of any peanut acreage in the United States shall be obtained solely from quotapeanuts marketed or considered marketed for domestic edible use.
 
 #### (c) Marketing peanuts with excess quantity, grade, or quality
 
@@ -136,7 +136,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 #### (A) Penalty
 
-&emsp;&emsp;If any additional peanuts exported by a handler are reentered into the United States in commercial quantities as determined by the Secretary, the importer of the peanuts shall be subject to a penalty at a rate equal to 140 percent of the loan level for quota peanuts on the quantity of peanuts reentered.
+&emsp;&emsp;If any additional peanuts exported by a handler are reentered into the United Statesin commercial quantities as determined by the Secretary, the importer of the peanuts shall be subject to a penalty at a rate equal to 140 percent of the loan level for quota peanuts on the quantity of peanuts reentered.
 
 #### (B) Records
 
@@ -170,7 +170,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 #### (B) Extension of deadline
 
-&emsp;&emsp;The Secretary may extend the deadline under subparagraph (A) by up to 15 days inresponse to damaging weather or related condition (as defined in section 112 of the Disaster Assistance Act of 1989 <sup>2</sup> (7 U.S.C. 1421 et seq.)). The Secretary shall announce the extension no later than September 5 of the year in which the crop is produced.
+&emsp;&emsp;The Secretary may extend the deadline under subparagraph (A) by up to 15 days in response to damaging weather or related condition (as defined in section 112 of the Disaster Assistance Act of 1989 <sup>2</sup> (7 U.S.C. 1421 et seq.)). The Secretary shall announce the extension no later than September 5 of the year in which the crop is produced.
 
 #### (3) Form
 
@@ -256,7 +256,7 @@ On a finding by the Secretary that the peanuts marketed from any crop for domest
 
 Notwithstanding any other provision of law, this section shall be effective only for the 1991 through 2002 crops of peanuts.
 
-(Feb. 16, 1938, ch. 30, title III, §358e, formerly §359a, as added Nov. 28, 1990, Pub. L. 101–624, title VIII, §804, 104 Stat. 3467; renumbered §358e and amended Dec. 13, 1991, Pub. L. 102–237, title I, §117(a), (b)(2)(D), 105 Stat. 1841; Aug. 10, 1993, Pub. L. 103–66, title I, §1109(c)(2), 107 Stat. 326; Dec. 8, 1993, Pub. L. 103–182, title III, §321(d)(1)(B), 107 Stat. 2110; Dec. 8, 1994, Pub. L. 103–465, title IV, §404(e)(6), 108 Stat. 4961; Apr. 4, 1996, Pub. L. 104–127, title I, §155(i)(1)(D), 110 Stat. 928.)
+(Feb. 16, 1938, ch. 30, title III, §358e, formerly §359a, as added Pub. L. 101–624, title VIII, §804, Nov. 28, 1990, 104 Stat. 3467; renumbered §358e and amended Pub. L. 102–237, title I, §117(a), (b)(2)(D), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1109(c)(2), Aug. 10, 1993, 107 Stat. 326; Pub. L. 103–182, title III, §321(d)(1)(B), Dec. 8, 1993, 107 Stat. 2110; Pub. L. 103–465, title IV, §404(e)(6), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–127, title I, §155(i)(1)(D), Apr. 4, 1996, 110 Stat. 928.)
 
 #### References in Text
 

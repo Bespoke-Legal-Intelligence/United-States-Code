@@ -26,5 +26,5 @@ To the extent that an entity is engaged in activities of a financial institution
 
 &emsp;&emsp;&emsp;(ii) a Federal or State law regulating the entity.
 
-(Aug. 14, 1935, ch. 531, title XI, §1179, as added Aug. 21, 1996, Pub. L. 104–191, title II, §262(a), 110 Stat. 2030.)
+(Aug. 14, 1935, ch. 531, title XI, §1179, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2030.)
 

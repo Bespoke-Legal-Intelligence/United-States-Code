@@ -1,5 +1,5 @@
 
-18 U.S.C.<br>United States Code, 1997 Edition<br>Title 18 - CRIMES AND CRIMINAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+18 U.S.C.<br>United States Code, 1998 Edition<br>Title 18 - CRIMES AND CRIMINAL PROCEDURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 18—CRIMES AND CRIMINAL PROCEDURE
 
@@ -2623,7 +2623,7 @@ All former sections of Title 18 were repealed, transferred to other titles, or o
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 8 sections 1160, 1253, 1255a, 1282, 1324, 1324c, 1325, 1326, 1327, 1328, 1534; title 10 sections 976, 2323, 2507, 2538; title 11 section 523; title 12 sections 93, 1441a, 1464, 1772d, 1786, 1818, 1822, 3108, 4204, 4224; title 15 sections 1245, 1681q, 1681r, 5408; title 16 sections 256b, 668dd, 3373, 3375, 4224, 4306, 4912, 5010, 5508; title 21 sections 104, 333, 841, 844, 848, 858, 863, 960; title 28 sections 535, 994; title 29 section 1136; title 31 section 5324; title 33 sections 1321, 1415, 2609; title 38 sections 901, 5905, 6101, 6102; title 41 sections 54, 423; title 42 sections 263a, 274k, 289g–2, 290cc–32, 290dd–2, 300d–20, 300h–2, 300i–1, 300j–23, 300x–56, 300dd–9, 300ee–19, 405, 408, 1383, 1383a, 1395ss, 1973gg–10, 3537a, 3631, 7413, 9603, 9612, 14081; title 46 sections 12507, 31306, 31330; title 46 App. section 808; title 47 sections 223, 559; title 48 sections 1424–4, 1614, 1821; title 49 sections 1155, 5124, 5126, 14903, 14905, 14909, 14912, 16102, 16103, 16104, 16105, 21311, 28302, 30307, 32507, 32709, 46306, 46307, 46308, 46309, 46310, 46311, 46312, 46313, 46314, 46315, 46316, 46504, 46505, 46506, 46507, 47126, 47306, 60123, 80116, 80501; title 50 App. sections 530, 531, 532, 534, 535.
+This title is referred to in title 8 sections 1160, 1253, 1255a, 1282, 1324, 1324c, 1325, 1326, 1327, 1328, 1534; title 10 sections 976, 2323, 2507, 2538; title 11 section 523; title 12 sections 93, 1441a, 1464, 1772d, 1786, 1818, 1822, 3108, 4204, 4224; title 15 sections 1245, 1681q, 1681r, 5408; title 16 sections 256b, 668dd, 707, 3373, 3375, 4224, 4306, 4912, 5010, 5305a, 5508; title 21 sections 104, 333, 841, 844, 848, 858, 863, 960; title 28 sections 535, 994; title 29 section 1136; title 31 section 5324; title 33 sections 1321, 1415, 2609; title 38 sections 901, 5905, 6101, 6102; title 41 sections 54, 423; title 42 sections 263a, 274k, 289g–2, 290cc–32, 290dd–2, 300d–20, 300h–2, 300i–1, 300j–23, 300x–56, 300dd–9, 300ee–19, 405, 408, 1383, 1383a, 1395ss, 1973gg–10, 3537a, 3631, 7413, 9603, 9612, 14081, 14405; title 46 sections 12507, 31306, 31330; title 46 App. section 808; title 47 sections 223, 559; title 48 sections 1424–4, 1614, 1821; title 49 sections 1155, 5124, 5126, 14903, 14905, 14909, 14912, 16102, 16103, 16104, 16105, 21311, 28302, 30307, 32507, 32709, 46306, 46307, 46308, 46309, 46310, 46311, 46312, 46313, 46314, 46315, 46316, 46504, 46505, 46506, 46507, 47126, 47306, 60123, 80116, 80501; title 50 App. sections 530, 531, 532, 534, 535.
 
 
 ---

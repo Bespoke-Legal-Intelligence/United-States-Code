@@ -10,7 +10,7 @@ Agricultural commodities provided to a least developed country under this sectio
 
 &emsp;(2) may be sold in such country by the government of the country or the Administrator (or their designees) as provided in the agreement, and the proceeds of such sale used in accordance with this subchapter.
 
-(July 10, 1954, ch. 469, title III, §304, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 550; amended Oct. 6, 1978, Pub. L. 95–424, title II, §202, 92 Stat. 955; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3642.)
+(July 10, 1954, ch. 469, title III, §304, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 95–424, title II, §202, Oct. 6, 1978, 92 Stat. 955; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3642.)
 
 #### Prior Provisions
 

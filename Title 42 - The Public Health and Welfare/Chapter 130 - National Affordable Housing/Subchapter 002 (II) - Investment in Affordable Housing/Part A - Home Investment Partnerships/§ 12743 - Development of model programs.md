@@ -14,7 +14,7 @@ The Secretary shall—
 
 &emsp;(5) provide detailed information on model programs as requested by participating jurisdictions, private financial institutions, developers, nonprofit organizations, and other interested parties; and
 
-&emsp;(6) encourage the use of such model programs to achieve efficiency, economies of scale, and effectiveness in the investment of funds made available under this part through third-party training, printed materials, and such other means of support as the Secretary determines will achieve the purpose of this subchapter.
+&emsp;(6) encourage the use of such model programs to achieve efficiency, economies ofscale, and effectiveness in the investment of funds made available under this part through third-party training, printed materials, and such other means of support as the Secretary determines will achieve the purpose of this subchapter.
 
 #### (b) Adoption of programs
 

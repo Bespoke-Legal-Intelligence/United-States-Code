@@ -6,7 +6,7 @@ Section 512, Pub. L. 85–864, title VI, §602, Sept. 2, 1958, 72 Stat. 1594; Pu
 
 Section 512a, Pub. L. 85–864, title VI, §603, as added Pub. L. 94–482, title III, §302(b), Oct. 12, 1976, 90 Stat. 2215; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, provided for a program of grants and contracts for promotion of cultural understanding.
 
-Section 513, Pub. L. 85–864, title VI, §604, formerly §603, Sept. 2, 1958, 72 Stat. 1594; Pub. L. 88–665, title VI, §601(b), Oct. 16, 1964, 78 Stat. 1107; Pub. L. 90–575, title III, §331(b), Oct. 16, 1968, 82 Stat. 1057; Pub. L. 92–318, title I, §182(b), June 23, 1972, 86 Stat. 312; renumbered and amended Pub. L. 94–482, title III, §302(b), (c), Oct. 12, 1976, 90 Stat. 2215, 2216; Pub. L. 95–43, §1(c), June 15, 1977, 91 Stat. 219; Pub. L. 96–49, §15, Aug. 13, 1979, 93 Stat. 354, authorized appropriations for foreign studies and language development program. See sections 1127 and 1130b of this title.
+Section 513, Pub. L. 85–864, title VI, §604, formerly §603, Sept. 2, 1958, 72 Stat. 1594; Pub. L. 88–665, title VI, §601(b), Oct. 16, 1964, 78 Stat. 1107; Pub. L. 90–575, title III, §331(b), Oct. 16, 1968, 82 Stat. 1057; Pub. L. 92–318, title I, §182(b), June 23, 1972, 86 Stat. 312; renumbered and amended Pub. L. 94–482, title III, §302(b), (c), Oct. 12, 1976, 90 Stat. 2215, 2216; Pub. L. 95–43, §1(c), June 15, 1977, 91 Stat. 219; Pub. L. 96–49, §15, Aug. 13, 1979, 93 Stat. 354, authorized appropriations for foreign studies and language development program. See section 1130b of this title.
 
 #### Effective Date of Repeal
 

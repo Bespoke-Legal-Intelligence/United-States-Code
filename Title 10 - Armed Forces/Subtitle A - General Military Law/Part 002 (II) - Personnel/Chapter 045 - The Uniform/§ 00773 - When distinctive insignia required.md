@@ -14,7 +14,7 @@
 
 (c) Under such regulations as the Secretary of the military department concerned may prescribe, any person who is permitted to attend a course of instruction prescribed for members of a reserve officers’ training corps, and who is not a member of that corps, may, while attending that course of instruction, wear the uniform of that corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Mar. 28, 1958, Pub. L. 85–355, 72 Stat. 66.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 85–355, Mar. 28, 1958, 72 Stat. 66.)
 
 Historical and Revision Notes
 

@@ -12,5 +12,5 @@ Changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 7434.
+This section is referred to in title 26 section 7437.
 

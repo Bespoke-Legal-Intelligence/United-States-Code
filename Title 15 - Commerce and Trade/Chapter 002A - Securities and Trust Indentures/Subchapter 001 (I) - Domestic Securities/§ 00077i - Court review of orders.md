@@ -4,7 +4,7 @@
 
 (b) The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
 
-(May 27, 1933, ch. 38, title I, §9, 48 Stat. 80; Aug. 28, 1958, Pub. L. 85–791, §9, 72 Stat. 945; Dec. 4, 1987, Pub. L. 100–181, title II, §206, 101 Stat. 1252.)
+(May 27, 1933, ch. 38, title I, §9, 48 Stat. 80; Pub. L. 85–791, §9, Aug. 28, 1958, 72 Stat. 945; Pub. L. 100–181, title II, §206, Dec. 4, 1987, 101 Stat. 1252.)
 
 #### Amendments
 

@@ -14,9 +14,9 @@ As used in this section, the term—
 
 &emsp;(1) “qualified tenant” means any individual or family having an income which would qualify such individual or family for assistance under section 1437f of title 42, except that such term shall also include any individual or family who was receiving assistance under this section on the day preceding December 21, 1979, so long as such individual or family continues to meet the conditions for such assistance which were in effect on such day; and
 
-&emsp;(2) “income” means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary. In determining amounts to be excluded from income, the Secretary may, in the Secretary's discretion, take into account the number of minor children in the household and such other factors as the Secretary may determine are appropriate.
+&emsp;(2) “income” means income from all sources of each member of the household, as determined in accordance with criteria prescribedby the Secretary. In determining amounts to be excluded from income, the Secretary may, in the Secretary's discretion, take into account the number of minor children in the household and such other factors as the Secretary may determine are appropriate.
 
-> The terms “qualified tenant” and “tenant” include a member of a cooperative who satisfiesthe foregoing requirements and who, upon resale of his membership to the cooperative, will not be reimbursed for any equity increment accumulated through payments under this section. With respect to members of a cooperative, the terms “rental” and “rental charges” mean the charges under the occupancy agreements between such members and the cooperative.
+> The terms “qualified tenant” and “tenant” include a member of a cooperative who satisfies the foregoing requirements and who, upon resale of his membership to the cooperative, will not be reimbursed for any equity increment accumulated through payments under this section. With respect to members of a cooperative, the terms “rental” and “rental charges” mean the charges under the occupancy agreements between such members and the cooperative.
 
 #### (d) Annual payment amount
 
@@ -48,7 +48,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (1) For the purpose of assisting housing under this section on an experimental basis, subject to the limitations of this subsection, the term “housing owner” (in addition to the meaning prescribed in subsection (b) of this section) includes—
 
-&emsp;(A) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under a mortgage which receives the benefits of the interest rate provided for in the proviso in section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(5)\] and which, after August 10, 1965, has been approved for mortgage insurance under section 221(d)(3) of the National Housing Act and has been approved for receiving the benefits of this section;
+&emsp;(A) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is a mortgagor under a mortgage which receives the benefits of the interest rate provided for in the proviso in section 221(d)(5) of the National Housing Act \[12 U.S.C. 1715<i>l</i>(d)(5)\] and which, after August 10, 1965, has been approved for mortgage insurance under section 221(d)(3) of the National HousingAct and has been approved for receiving the benefits of this section;
 
 &emsp;(B) a private nonprofit corporation or other private nonprofit legal entity which is a mortgagor under a mortgage insured under section 231(c)(3) of the National Housing Act \[12 U.S.C. 1715v(c)(3)\] and which, after August 10, 1965, has obtained final endorsement of such mortgage for mortgage insurance and has been approved for receiving the benefits of this section;
 
@@ -58,7 +58,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (2) Of the amounts approved in appropriation Acts pursuant to subsection (a) of this section for payments under this section in any year, not more than 5 per centum in the aggregate shall be paid with respect to properties of housing owners as defined in paragraph (1)(A) of this subsection, and not more than 5 per centum in the aggregate shall be paid with respect to properties of housing owners as defined in paragraphs (1)(B) and (1)(C) of this subsection.
 
-#### (k) \[Reserved.\]
+#### (k) Repealed. Pub. L. 105–276, title V, §514(d), Oct. 21, 1998, 112 Stat. 2548
 
 #### (<i>l</i>) Additional available assistance authority
 
@@ -74,15 +74,11 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 > An application shall be eligible for assistance under the previous sentence only if the mortgagee submits the application within 548 days after February 5, 1988, along with a certification of the mortgagee that amounts are to be utilized hereunder for the purpose of either (A) reducing rents or rent increases to tenants, or (B) making repairs or otherwise increasing the economic viability of a related project. Unexpended balances referred to in the first sentence of this subsection which remain after disposition of all such applications is favorably concluded shall be rescinded. The authority conferred by this subsection to provide interest reduction and rental assistance payments shall be available only to the extent approved in appropriation Acts.
 
-(Pub. L. 89–117, title I, §101, Aug. 10, 1965, 79 Stat. 451; Pub. L. 90–19, §22(a), (c), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title II, §§201(e), 202, title XI, §1106(b), Aug. 1, 1968, 82 Stat. 502, 503, 567; Pub. L. 91–152, title I, §112, Dec. 24, 1969, 83 Stat. 383; Pub. L. 91–609, title I, §§103, 114\[115\](c), 118(b), 120(a), (b), Dec. 31, 1970, 84 Stat. 1771, 1774, 1775; Pub. L. 96–153, title II, §203(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 96–399, Oct. 8, 1980, title II, §205, 94 Stat. 1630; Pub. L. 97–35, title III, §§322(g), 327, Aug. 13, 1981, 95 Stat. 403, 407; Pub. L. 98–181, title II, §§203(b)(3), 219, Nov. 30, 1983, 97 Stat. 1178, 1187; Pub. L. 98–479, title I, §102(d), title II, §204(e), Oct. 17, 1984, 98 Stat. 2222, 2233; Pub. L. 100–242, title I, §§167(a)(2), 168, 170(h), title IV, §430(b), Feb. 5, 1988, 101 Stat. 1864, 1867, 1920; Pub. L. 104–99, title IV, §402(d)(5), Jan. 26, 1996, 110 Stat. 42.)
-
-#### Amendment of Subsection (k)
-
-<i>For termination of amendment by section 402(f) of Pub. L. 104–99, see Effective and Termination Dates of 1996 Amendment note below.</i>
+(Pub. L. 89–117, title I, §101, Aug. 10, 1965, 79 Stat. 451; Pub. L. 90–19, §22(a), (c), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title II, §§201(e), 202, title XI, §1106(b), Aug. 1, 1968, 82 Stat. 502, 503, 567; Pub. L. 91–152, title I, §112, Dec. 24, 1969, 83 Stat. 383; Pub. L. 91–609, title I, §§103, 114\[115\](c), 118(b), 120(a), (b), Dec. 31, 1970, 84 Stat. 1771, 1774, 1775; Pub. L. 96–153, title II, §203(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 96–399, Oct. 8, 1980, title II, §205, 94 Stat. 1630; Pub. L. 97–35, title III, §§322(g), 327, Aug. 13, 1981, 95 Stat. 403, 407; Pub. L. 98–181, title II, §§203(b)(3), 219, Nov. 30, 1983, 97 Stat. 1178, 1187; Pub. L. 98–479, title I, §102(d), title II, §204(e), Oct. 17, 1984, 98 Stat. 2222, 2233; Pub. L. 100–242, title I, §§167(a)(2), 168, 170(h), title IV, §430(b), Feb. 5, 1988, 101 Stat. 1864, 1867, 1920; Pub. L. 104–99, title IV, §402(d)(5), Jan. 26, 1996, 110 Stat. 42; Pub. L. 105–276, title V, §514(d), Oct. 21, 1998, 112 Stat. 2548.)
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (g) and (<i>l</i>), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended which is classified principally to this chapter\(§1701 et seq.). Title II of the National Housing Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (g) and (<i>l</i>), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 Section 236 contracts, referred to in subsec. (m)(2), refer to contracts under section 1715z–1 of this title.
 
@@ -93,6 +89,8 @@ Subsecs. (f) and (i) of this section amended sections 1451(c) and 1465(c)(2) of 
 Section was enacted as part of the Housing and Urban Development Act of 1965, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (k). Pub. L. 105–276, which directed the repeal of subsec. (k) of section 1010 of Pub. L. 89–117, was executed by striking out subsec. (k) of this section, to reflect the probable intent of Congress. For text, see 1996 Amendment note below.
 
 1996—Subsec. (k). Pub. L. 104–99 temporarily substituted “\[Reserved.\]” for the text of subsec. (k), which read as follows: “In selecting individuals or families to be assisted under this section in accordance with the eligibility criteria and procedures established under subsection (e)(1) of this section, the project owner shall give preference to individuals or families who are occupying substandard housing, are paying more than 50 percent of family income for rent, or are involuntarily displaced at the time they are seeking housing assistance under this section.” See Effective and Termination Dates of 1996 Amendment note below.
 
@@ -160,11 +158,15 @@ Subsec. (j)(1)(D). Pub. L. 90–448, §201(e)(3), inserted subpar. (D).
 
 Subsec. (a). Pub. L. 90–19, §22(c)(1), substituted “Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’)” for “Housing and Home Finance Administrator (hereinafter referred to as the ‘Administrator’)”.
 
-Subsec. (g). Pub. L. 90–19, §22(c)(2), consolidated in the Secretary of Housing and Urban Development theauthorities of the Federal Housing Commissioner and the Housing and Home Finance Administrator with respect to housing assisted under sections 1715<i>l</i>(d)(3) and 1715v(c)(3), and section 1701q of this title, respectively.
+Subsec. (g). Pub. L. 90–19, §22(c)(2), consolidated in the Secretary of Housing and Urban Development the authorities of the Federal Housing Commissioner and the Housing and Home Finance Administrator with respect to housing assisted under sections 1715<i>l</i>(d)(3) and 1715v(c)(3), and section 1701q of this title, respectively.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §514(g), Oct. 21, 1998, 112 Stat. 2549, provided that: “This section \[amending this section, sections 1701z–11 and 4116 of this title, and sections 1437d, 1437f, 12899d, and 13615 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1437a and 1437f of Title 42, and repealing provisions set out as notes under sections 1437d and 1437f of Title 42\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective and Termination Dates of 1996 Amendment
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1981 Amendment
 
@@ -180,5 +182,5 @@ Assistance provided for in Housing and Community Development Act of 1974, Nation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1701z–11, 1715<i>l</i>, 1715z, 1715z–1a, 1715z–6, 4119 of this title; title 26 section 32; title 31 section 1305; title 42 sections 1382a, 1436a, 1436b, 1439, 11905.
+This section is referred to in sections 1701z–11, 1715<i>l</i>, 1715z, 1715z–1a, 1715z–6, 4119 of this title; title 26 section 32; title 31 section 1305; title 42 sections 1382a, 1436a, 1436b, 1437n, 1439, 11905.
 

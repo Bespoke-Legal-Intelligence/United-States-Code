@@ -6,7 +6,7 @@ If, within the 20-year period beginning on the date of the approval by the Secre
 
 #### Amendments
 
-1992—Pub. L. 102–585 substituted “If, within the 20-year period beginning on the date of the approval bythe Secretary of the final architectural and engineering inspection of any project” for “If, within 20 years after completion of any project” and “the facilities covered by the project cease” for “such facilities cease”.
+1992—Pub. L. 102–585 substituted “If, within the 20-year period beginning on the date of the approval by the Secretary of the final architectural and engineering inspection of any project” for “If, within 20 years after completion of any project” and “the facilities covered by the project cease” for “such facilities cease”.
 
 1991—Pub. L. 102–40 renumbered section 5036 of this title as this section.
 

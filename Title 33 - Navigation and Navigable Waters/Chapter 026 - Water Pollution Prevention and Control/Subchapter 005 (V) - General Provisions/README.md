@@ -19,6 +19,6 @@
 - [&sect; 01372 - Labor standards](%C2%A7%2001372%20-%20Labor%20standards.md)
 - [&sect; 01373 - Public health agency coordination](%C2%A7%2001373%20-%20Public%20health%20agency%20coordination.md)
 - [&sect; 01374 - Effluent Standards and Water Quality Information Advisory Committee](%C2%A7%2001374%20-%20Effluent%20Standards%20and%20Water%20Quality%20Information%20Advisory%20Committee.md)
-- [&sect; 01375 - Reports to Congress](%C2%A7%2001375%20-%20Reports%20to%20Congress.md)
+- [&sect; 01375 - Reports to Congress; detailed estimates and comprehensive study on costs; State estimates](%C2%A7%2001375%20-%20Reports%20to%20Congress%3B%20detailed%20estimates%20and%20comprehensive%20study%20on%20costs%3B%20State%20estimates.md)
 - [&sect; 01376 - Authorization of appropriations](%C2%A7%2001376%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01377 - Indian tribes](%C2%A7%2001377%20-%20Indian%20tribes.md)

@@ -85,7 +85,7 @@ Pub. L. 102–16, §2(b)(1)(B), Mar. 22, 1991, 105 Stat. 49, struck out item 166
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 111, 113, 1521, 1718, 3011, 3012, 3015, 3016, 3033, 3202, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3689, 3690, 3693, 3694, 3695, 3696, 3697, 5113, 5307, 7407 of this title; title 26 sections 135, 6334; title 29 section 1721.
+This chapter is referred to in sections 101, 111, 113, 1521, 1718, 3011, 3012, 3015, 3016, 3033, 3202, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3689, 3690, 3693, 3694, 3695, 3696, 3697, 5113, 5307, 7407 of this title; title 26 sections 25A, 135, 6334; title 29 sections 1721, 2913.
 
 
 ---

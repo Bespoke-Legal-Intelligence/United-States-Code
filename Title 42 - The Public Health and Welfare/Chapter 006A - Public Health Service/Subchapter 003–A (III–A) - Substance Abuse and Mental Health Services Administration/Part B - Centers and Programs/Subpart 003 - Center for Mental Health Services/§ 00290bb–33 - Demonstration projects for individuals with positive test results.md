@@ -60,7 +60,7 @@ For purposes of this section, the term “mental health treatment” means indiv
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1994.
 
-(July 1, 1944, ch. 373, title V, §520B, formerly title XXIV, §2441, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3092; renumbered title V, §520B, and amended July 10, 1992, Pub. L. 102–321, title I, §118(a), (b)(2), 106 Stat. 348, 349.)
+(July 1, 1944, ch. 373, title V, §520B, formerly title XXIV, §2441, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3092; renumbered title V, §520B, and amended Pub. L. 102–321, title I, §118(a), (b)(2), July 10, 1992, 106 Stat. 348, 349.)
 
 #### Codification
 
@@ -68,7 +68,7 @@ Section was formerly classified to section 300dd–41 of this title prior to ren
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–321, §118(b)(2)(A), inserted “, acting through the Director of the Center forMental Health Services,” after “Secretary” in introductory provisions.
+1992—Subsec. (a). Pub. L. 102–321, §118(b)(2)(A), inserted “, acting through the Director of the Center for Mental Health Services,” after “Secretary” in introductory provisions.
 
 Subsec. (j). Pub. L. 102–321, §118(b)(2)(B), substituted “1994” for “1991”.
 

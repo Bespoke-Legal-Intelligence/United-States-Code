@@ -10,7 +10,7 @@ A person who, being a custodian, trustee, marshal, or other officer of the court
 
 > shall be fined under this title and shall forfeit the person's office, which shall thereupon become vacant.
 
-(June 25, 1948, ch. 645, 62 Stat. 690; Nov. 6, 1978, Pub. L. 95–598, title III, §314(a)(2), (e)(1), (2), 92 Stat. 2676, 2677; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147; Oct. 22, 1994, Pub. L. 103–394, title III, §312(a)(1)(A), 108 Stat. 4139; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(1), 110 Stat. 3497.)
+(June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, §314(a)(2), (e)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, §312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, §601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 
 #### Historical and Revision Notes
 

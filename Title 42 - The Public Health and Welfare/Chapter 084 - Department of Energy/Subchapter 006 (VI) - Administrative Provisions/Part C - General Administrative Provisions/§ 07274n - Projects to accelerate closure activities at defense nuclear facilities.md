@@ -90,5 +90,5 @@ Nothing in this section may be construed to affect statutory requirements for an
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1997, and not as partof the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1997, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

@@ -6,7 +6,7 @@
 
 (c) Sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5 do not apply to employment under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 255; Nov. 2, 1966, Pub. L. 89–718, §28, 80 Stat. 1119; Oct. 13, 1978, Pub. L. 95–454, title VII, §703(c)(3), title VIII, §801(a)(3)(I), 92 Stat. 1217, 1222; Dec. 12, 1980, Pub. L. 96–513, title V, §512(16), 94 Stat. 2930.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 255; Pub. L. 89–718, §28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, §703(c)(3), title VIII, §801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, §512(16), Dec. 12, 1980, 94 Stat. 2930.)
 
 Historical and Revision Notes
 

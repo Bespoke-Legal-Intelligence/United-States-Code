@@ -1,6 +1,6 @@
 ### §13370. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this part, other thansection 13362 <sup>1</sup> of this title, such sums as may be necessary for fiscal years 1993 through 1998.
+There are authorized to be appropriated to the Secretary for carrying out this part, other than section 13362 <sup>1</sup> of this title, such sums as may be necessary for fiscal years 1993 through 1998.
 
 (Pub. L. 102–486, title XIII, §1341, Oct. 24, 1992, 106 Stat. 2993.)
 

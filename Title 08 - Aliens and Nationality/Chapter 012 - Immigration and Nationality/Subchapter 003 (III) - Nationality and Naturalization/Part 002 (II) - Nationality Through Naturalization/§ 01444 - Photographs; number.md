@@ -20,7 +20,7 @@
 
 One such photograph shall be affixed to each such certificate issued by the Attorney General and one shall be affixed to the copy of such certificate retained by the Service.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §333, 66 Stat. 253; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(c)(14), (d)(11), 104 Stat. 5041, 5042; Oct. 25, 1994, Pub. L. 103–416, title II, §219(w), 108 Stat. 4318.)
+(June 27, 1952, ch. 477, title III, ch. 2, §333, 66 Stat. 253; Pub. L. 101–649, title IV, §407(c)(14), (d)(11), Nov. 29, 1990, 104 Stat. 5041, 5042; Pub. L. 103–416, title II, §219(w), Oct. 25, 1994, 108 Stat. 4318.)
 
 #### Amendments
 

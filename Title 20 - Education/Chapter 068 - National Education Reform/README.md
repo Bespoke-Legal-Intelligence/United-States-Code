@@ -239,7 +239,7 @@
 | :--- | ---: |
 | [5951\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Program/%C2%A7%2005951%20-%20International%20Education%20Program.md) | International Education Program. |
 | (a) | Program established. |
-| (b) | Assessment and information. |
+| (b) | Repealed. |
 | (c) | International Education Exchange Program. |
 | (d) | Authorization of appropriations. |
 
@@ -304,7 +304,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6011\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/%C2%A7%2006011%20-%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Office of Educational Research and Improvement. |
+| [6011\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/%C2%A7%2006011%20-%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Office of Educational Research and Improvement. |
 | (a) | Declaration of policy regarding educational opportunity. |
 | (b) | Purpose and structure of Office. |
 | (c) | Appointment of employees. |
@@ -374,7 +374,6 @@
 | (g) | Dissemination through new technologies. |
 | (h) | Regional educational laboratories for research, development, dissemination, and technical assistance. |
 | (i) | Goals 2000 Community Partnerships Program. |
-| (j) | Teacher research dissemination demonstration program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -14,7 +14,7 @@
 
 #### (b) State permit programs
 
-At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or from the chief legal officer in the case of an interstate agency, that the laws of such State, or theinterstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
+At any time after the promulgation of the guidelines required by subsection (i)(2) of section 1314 of this title, the Governor of each State desiring to administer its own permit program for discharges into navigable waters within its jurisdiction may submit to the Administrator a full and complete description of the program it proposes to establish and administer under State law or under an interstate compact. In addition, such State shall submit a statement from the attorney general (or the attorney for those State water pollution control agencies which have independent legal counsel), or from the chief legal officer in the case of an interstate agency, that the laws of such State, or the interstate compact, as the case may be, provide adequate authority to carry out the described program. The Administrator shall approve each submitted program unless he determines that adequate authority does not exist:
 
 (1) To issue permits which—
 
@@ -82,7 +82,7 @@ In accordance with guidelines promulgated pursuant to subsection (i)(2) of secti
 
 #### (f) Point source categories
 
-The Administrator shall promulgate regulations establishing categories of point sources which he determines shall not be subject to the requirements of subsection (d) of this section in any State with a program approved pursuant to subsection (b) of this section. The Administrator may distinguish among classes, types, and sizes within any category of point sources.
+The Administrator shall promulgate regulations establishing categories of point sources which he determines shall not be subject to the requirements of subsection (d) of this section inany State with a program approved pursuant to subsection (b) of this section. The Administrator may distinguish among classes, types, and sizes within any category of point sources.
 
 #### (g) Other regulations for safe transportation, handling, carriage, storage, and stowage of pollutants
 
@@ -300,7 +300,7 @@ Group applications.—With respect to group applications for permits for dischar
 
 Municipalities With Less Than 100,000
 
-Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity otherthan an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
+Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
 
 “(d)
 
@@ -342,7 +342,7 @@ Section 407 of Pub. L. 100–4 provided that:
 
 “(a)
 
-Agreement.—The Administrator and Secretary of the Army shall enter into an agreement regarding coordination of permitting for log transfer facilities to designate a lead agency and to process permits required under sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] , where both such sections apply, for discharges associated with the construction and operation of log transfer facilities. The Administrator and Secretary are authorized to act in accordance with the terms of such agreement to assure that, to the maximum extent practicable, duplication, needless paperwork and delay in the issuance of permits, and inequitable enforcement between and among facilities in different States, shall be eliminated.
+Agreement.—The Administrator and Secretary of the Army shall enter into an agreement regarding coordination of permitting for log transfer facilities to designate a lead agency and to process permits required under sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] , where both suchsections apply, for discharges associated with the construction and operation of log transfer facilities. The Administrator and Secretary are authorized to act in accordance with the terms of such agreement to assure that, to the maximum extent practicable, duplication, needless paperwork and delay in the issuance of permits, and inequitable enforcement between and among facilities in different States, shall be eliminated.
 
 “(b)
 

@@ -42,7 +42,7 @@ Subject to the following sentence, the Secretary may, notwithstanding the provis
 
 The Secretary shall promulgate such rules and regulations, not inconsistent with this section, as may be necessary for the efficient administration of the Service.
 
-(July 1, 1944, ch. 373, title II, §228, as added Nov. 5, 1990, Pub. L. 101–509, title V, §529 \[title III, §304(a)\], 104 Stat. 1427, 1463; amended June 10, 1993, Pub. L. 103–43, title XX, §2001, 107 Stat. 208.)
+(July 1, 1944, ch. 373, title II, §228, as added Pub. L. 101–509, title V, §529 \[title III, §304(a)\], Nov. 5, 1990, 104 Stat. 1427, 1463; amended Pub. L. 103–43, title XX, §2001, June 10, 1993, 107 Stat. 208.)
 
 #### References in Text
 

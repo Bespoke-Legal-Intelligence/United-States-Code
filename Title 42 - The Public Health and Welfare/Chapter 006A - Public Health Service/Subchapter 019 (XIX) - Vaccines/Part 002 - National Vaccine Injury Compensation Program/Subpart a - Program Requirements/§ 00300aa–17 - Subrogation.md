@@ -8,7 +8,7 @@ Upon payment of compensation to any petitioner under the Program, the trust fund
 
 Amounts recovered under subsection (a) of this section shall be collected on behalf of, and deposited in, the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
 
-(July 1, 1944, ch. 373, title XXI, §2117, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3770; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4307(7), 101 Stat. 1330–225; Dec. 19, 1989, Pub. L. 101–239, title VI, §6601(m)(2), 103 Stat. 2291.)
+(July 1, 1944, ch. 373, title XXI, §2117, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3770; amended Pub. L. 100–203, title IV, §4307(7), Dec. 22, 1987, 101 Stat. 1330–225; Pub. L. 101–239, title VI, §6601(m)(2), Dec. 19, 1989, 103 Stat. 2291.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Certificate
 
-(1) Every certificate of plant variety protection shall certify that the breeder (or the successor in interest of the breeder),<sup>1</sup> has the right, during the term of the plant variety protection, to exclude others from selling the variety, or offering it for sale, or reproducing it, or importing it, or exporting it, or using it in producing (as distinguished from developing) a hybrid or different variety therefrom, to the extent provided by this chapter.
+(1) Every certificate of plant variety protection shall certify that the breeder (or the successor in interest of the breeder),<sup>1</sup> has the right, during the term of the plant variety protection,to exclude others from selling the variety, or offering it for sale, or reproducing it, or importing it, or exporting it, or using it in producing (as distinguished from developing) a hybrid or different variety therefrom, to the extent provided by this chapter.
 
 (2) If the owner so elects, the certificate shall—
 

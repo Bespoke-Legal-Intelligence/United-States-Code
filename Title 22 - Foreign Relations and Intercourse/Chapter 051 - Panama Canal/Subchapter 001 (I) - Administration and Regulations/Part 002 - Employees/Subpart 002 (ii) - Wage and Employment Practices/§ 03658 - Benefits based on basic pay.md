@@ -14,9 +14,13 @@ For the purpose of determining—
 
 &emsp;(6) any other benefits related to basic pay;
 
-> the basic pay of each employee shall include the rate of basic pay established for his position under section 3642 of this title plus the amount of any additional compensation provided under section 3657(a) of this title.
+> the basic pay of each employee shall include the rate of basic pay established for his position under section 3642 of this title plus the amount of any additional compensation provided under section 3657(a) <sup>1</sup> of this title.
 
 (Pub. L. 96–70, title I, §1218, Sept. 27, 1979, 93 Stat. 466; Pub. L. 104–201, div. C, title XXXV, §3534, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3523(c)(2), Nov. 18, 1997, 111 Stat. 2065.)
+
+#### References in Text
+
+Section 3657(a) of this title, referred to in text, was repealed by Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 #### Amendments
 
@@ -27,4 +31,6 @@ For the purpose of determining—
 #### Coordination of Pay and Employment Practices
 
 For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

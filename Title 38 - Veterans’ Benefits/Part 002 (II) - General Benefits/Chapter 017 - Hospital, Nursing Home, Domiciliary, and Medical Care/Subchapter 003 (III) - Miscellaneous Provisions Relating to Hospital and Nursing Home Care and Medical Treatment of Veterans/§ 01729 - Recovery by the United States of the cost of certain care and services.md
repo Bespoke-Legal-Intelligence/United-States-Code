@@ -1,6 +1,6 @@
 ### §1729. Recovery by the United States of the cost of certain care and services
 
-(a)(1) Subject to the provisions of this section, in any case in which a veteran is furnished care or services under this chapter for a non-service-connected disability described in paragraph (2)of this subsection, the United States has the right to recover or collect reasonable charges for such care or services (as determined by the Secretary) from a third party to the extent that the veteran (or the provider of the care or services) would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished by a department or agency of the United States.
+(a)(1) Subject to the provisions of this section, in any case in which a veteran is furnished care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect reasonable charges for such care or services (as determined by the Secretary) from a third party to the extent that the veteran (or the provider of the care or services) would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished by a department or agency of the United States.
 
 (2) Paragraph (1) of this subsection applies to a non-service-connected disability—
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667.)
+(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29,1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ Section 8011(d) of Pub. L. 101–508, as amended by Pub. L. 102–83, §5(c)(2),
 
 #### Reports on Implementation of 1986 Amendment
 
-Section 19013(c) of Pub. L. 99–272 directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
+Section 19013(c) of Pub. L. 99–272 directed Administrator of Veterans’ Affairs, not later than six monthsafter Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ Part B of title IV of the Higher Education Act of 1965, comprising this part, wa
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1087–0, 1087c, 1087d, 1087e, 1087f, 1087h, 1088, 1089, 1090, 1091, 1091a, 1092, 1092b, 1092c, 1094, 1095a, 1097, 1098, 1098a, 1099a–3, 1099c–1, 1104f, 1106d, 1106e, 1134e–4, 1145e, 1146a, 2394a of this title; title 2 section 906; title 5 section 5379; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 sections 144, 6103; title 38 section 3698; title 42 sections 292a, 4953.
+This part is referred to in sections 1002, 1070a, 1087–0, 1087d, 1087e, 1087h, 1087tt, 1088, 1090, 1091, 1091a, 1091b, 1092, 1092b, 1092c, 1094, 1095a, 1097, 1098c, 1099c, 1099c–1, 2373 of this title; title 2 section 906; title 5 section 5379; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 sections 144, 6103; title 38 section 3698; title 42 sections 292a, 4953.
 
 
 ---
@@ -15,6 +15,8 @@ This part is referred to in sections 1087–0, 1087c, 1087d, 1087e, 1087f, 1087h
 
 - [&sect; 01071 - Statement of purpose; nondiscrimination; and appropriations authorized](%C2%A7%2001071%20-%20Statement%20of%20purpose%3B%20nondiscrimination%3B%20and%20appropriations%20authorized.md)
 - [&sect; 01072 - Advances for reserve funds of State and nonprofit private loan insurance programs](%C2%A7%2001072%20-%20Advances%20for%20reserve%20funds%20of%20State%20and%20nonprofit%20private%20loan%20insurance%20programs.md)
+- [&sect; 01072a - Federal Student Loan Reserve Fund](%C2%A7%2001072a%20-%20Federal%20Student%20Loan%20Reserve%20Fund.md)
+- [&sect; 01072b - Agency Operating Fund](%C2%A7%2001072b%20-%20Agency%20Operating%20Fund.md)
 - [&sect; 01073 - Effects of adequate non-Federal programs](%C2%A7%2001073%20-%20Effects%20of%20adequate%20non-Federal%20programs.md)
 - [&sect; 01074 - Scope and duration of Federal loan insurance program](%C2%A7%2001074%20-%20Scope%20and%20duration%20of%20Federal%20loan%20insurance%20program.md)
 - [&sect; 01075 - Limitations on individual federally insured loans and on Federal loan insurance](%C2%A7%2001075%20-%20Limitations%20on%20individual%20federally%20insured%20loans%20and%20on%20Federal%20loan%20insurance.md)
@@ -22,7 +24,7 @@ This part is referred to in sections 1087–0, 1087c, 1087d, 1087e, 1087f, 1087h
 - [&sect; 01077 - Eligibility of student borrowers and terms of federally insured student loans](%C2%A7%2001077%20-%20Eligibility%20of%20student%20borrowers%20and%20terms%20of%20federally%20insured%20student%20loans.md)
 - [&sect; 01077a - Applicable interest rates](%C2%A7%2001077a%20-%20Applicable%20interest%20rates.md)
 - [&sect; 01078 - Federal payments to reduce student interest costs](%C2%A7%2001078%20-%20Federal%20payments%20to%20reduce%20student%20interest%20costs.md)
-- [&sect; 01078&#8211;1 - Repealed. Pub. L. 103&#8211;66, title IV, &sect;4047(b), Aug. 10, 1993, 107 Stat. 364](%C2%A7%2001078%E2%80%931%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9366%2C%20title%20IV%2C%20%C2%A74047%28b%29%2C%20Aug.%2010%2C%201993%2C%20107%20Stat.%20364.md)
+- [&sect; 01078&#8211;1 - Voluntary flexible agreements with guaranty agencies](%C2%A7%2001078%E2%80%931%20-%20Voluntary%20flexible%20agreements%20with%20guaranty%20agencies.md)
 - [&sect; 01078&#8211;2 - Federal PLUS loans](%C2%A7%2001078%E2%80%932%20-%20Federal%20PLUS%20loans.md)
 - [&sect; 01078&#8211;3 - Federal consolidation loans](%C2%A7%2001078%E2%80%933%20-%20Federal%20consolidation%20loans.md)
 - [&sect; 01078&#8211;4 - Commingling of funds](%C2%A7%2001078%E2%80%934%20-%20Commingling%20of%20funds.md)
@@ -31,7 +33,8 @@ This part is referred to in sections 1087–0, 1087c, 1087d, 1087e, 1087f, 1087h
 - [&sect; 01078&#8211;7 - Requirements for disbursement of student loans](%C2%A7%2001078%E2%80%937%20-%20Requirements%20for%20disbursement%20of%20student%20loans.md)
 - [&sect; 01078&#8211;8 - Unsubsidized Stafford loans for middle-income borrowers](%C2%A7%2001078%E2%80%938%20-%20Unsubsidized%20Stafford%20loans%20for%20middle-income%20borrowers.md)
 - [&sect; 01078&#8211;9 - Special insurance and reinsurance rules](%C2%A7%2001078%E2%80%939%20-%20Special%20insurance%20and%20reinsurance%20rules.md)
-- [&sect; 01078&#8211;10 - Loan forgiveness for teachers, individuals performing national community service and nurses](%C2%A7%2001078%E2%80%9310%20-%20Loan%20forgiveness%20for%20teachers%2C%20individuals%20performing%20national%20community%20service%20and%20nurses.md)
+- [&sect; 01078&#8211;10 - Loan forgiveness for teachers](%C2%A7%2001078%E2%80%9310%20-%20Loan%20forgiveness%20for%20teachers.md)
+- [&sect; 01078&#8211;11 - Loan forgiveness for child care providers](%C2%A7%2001078%E2%80%9311%20-%20Loan%20forgiveness%20for%20child%20care%20providers.md)
 - [&sect; 01079 - Certificate of Federal loan insurance&#8212;effective date of insurance](%C2%A7%2001079%20-%20Certificate%20of%20Federal%20loan%20insurance%E2%80%94effective%20date%20of%20insurance.md)
 - [&sect; 01080 - Default of student under Federal loan insurance program](%C2%A7%2001080%20-%20Default%20of%20student%20under%20Federal%20loan%20insurance%20program.md)
 - [&sect; 01080a - Reports to credit bureaus and institutions of higher education](%C2%A7%2001080a%20-%20Reports%20to%20credit%20bureaus%20and%20institutions%20of%20higher%20education.md)
@@ -40,9 +43,9 @@ This part is referred to in sections 1087–0, 1087c, 1087d, 1087e, 1087f, 1087h
 - [&sect; 01083 - Student loan information by eligible lenders](%C2%A7%2001083%20-%20Student%20loan%20information%20by%20eligible%20lenders.md)
 - [&sect; 01084 - Participation by Federal credit unions in Federal, State, and private student loan insurance programs](%C2%A7%2001084%20-%20Participation%20by%20Federal%20credit%20unions%20in%20Federal%2C%20State%2C%20and%20private%20student%20loan%20insurance%20programs.md)
 - [&sect; 01085 - Definitions for student loan insurance program](%C2%A7%2001085%20-%20Definitions%20for%20student%20loan%20insurance%20program.md)
-- [&sect; 01086 - District of Columbia student loan insurance program](%C2%A7%2001086%20-%20District%20of%20Columbia%20student%20loan%20insurance%20program.md)
+- [&sect; 01086 - Delegation of functions](%C2%A7%2001086%20-%20Delegation%20of%20functions.md)
 - [&sect; 01087 - Repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers; treatment of borrowers attending closed schools or falsely&#8230;](%C2%A7%2001087%20-%20Repayment%20by%20Secretary%20of%20loans%20of%20bankrupt%2C%20deceased%2C%20or%20disabled%20borrowers%3B%20treatment%20of%20borrowers%20attending%20closed%20schools%20or%20falsely%E2%80%A6.md)
-- [&sect; 01087&#8211;0 - Debt management options](%C2%A7%2001087%E2%80%930%20-%20Debt%20management%20options.md)
+- [&sect; 01087&#8211;0 - Repealed. Pub. L. 105&#8211;244, title IV, &sect;432, Oct. 7, 1998, 112 Stat. 1710](%C2%A7%2001087%E2%80%930%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93244%2C%20title%20IV%2C%20%C2%A7432%2C%20Oct.%207%2C%201998%2C%20112%20Stat.%201710.md)
 - [&sect; 01087&#8211;1 - Special allowances](%C2%A7%2001087%E2%80%931%20-%20Special%20allowances.md)
 - [&sect; 01087&#8211;2 - Student Loan Marketing Association](%C2%A7%2001087%E2%80%932%20-%20Student%20Loan%20Marketing%20Association.md)
 - [&sect; 01087&#8211;3 - Reorganization of Student Loan Marketing Association through formation of Holding Company](%C2%A7%2001087%E2%80%933%20-%20Reorganization%20of%20Student%20Loan%20Marketing%20Association%20through%20formation%20of%20Holding%20Company.md)

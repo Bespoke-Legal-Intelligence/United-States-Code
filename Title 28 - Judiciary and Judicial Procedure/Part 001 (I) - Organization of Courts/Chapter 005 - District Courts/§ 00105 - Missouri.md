@@ -30,7 +30,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Southwestern Division shall be held at Joplin.
 
-&emsp;&emsp;(3) The Saint Joseph Division comprises the counties of Andrew, Atchison, Buchanan, Caldwell, Clinton, Daviess, De Kalb, Gentry, Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Platte, Putnam, Sullivan, and Worth.
+&emsp;&emsp;(3) The Saint Joseph Division comprises the counties of Andrew, Atchison, Buchanan,Caldwell, Clinton, Daviess, De Kalb, Gentry, Grundy, Harrison, Holt, Livingston, Mercer, Nodaway, Platte, Putnam, Sullivan, and Worth.
 
 &emsp;&emsp;Court for the Saint Joseph Division shall be held at Saint Joseph.
 
@@ -58,11 +58,11 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–462, §4(a)(1), struck out references to Audrain and Montgomery counties in the list of counties comprising the Eastern Division of the Eastern District.
+1980—Subsec. (a)(1). Pub. L. 96–462, §4(a)(1), struck out references to Audrain and Montgomery counties in the list of counties comprising the Eastern Division of the Eastern District.
 
 Subsec. (a)(2). Pub. L. 96–462, §4(a)(2), added Audrain and Montgomery counties to the Northern Division of the Eastern District.
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–461 transferred the counties of Caldwell, Grundy, Livingston, Mercer, Putnam, and Sullivan from the Western Division to the Saint Joseph Division, and omitted Chillicothe as a place for holding court.
+1962—Subsec. (b). Pub. L. 87–461 transferred the counties of Caldwell, Grundy, Livingston, Mercer, Putnam, and Sullivan from the Western Division to the Saint Joseph Division, and omitted Chillicothe as a place for holding court.
 
 #### Effective Date of 1980 Amendment; Savings Provision
 

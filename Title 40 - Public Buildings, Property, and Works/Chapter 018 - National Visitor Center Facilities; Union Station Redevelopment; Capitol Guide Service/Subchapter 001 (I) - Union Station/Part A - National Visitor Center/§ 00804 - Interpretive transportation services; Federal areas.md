@@ -10,5 +10,5 @@ The Secretary is directed to utilize the authority under sections 1, 2, 3, and 4
 
 #### Report to Congress
 
-Section 104 of Pub. L. 90–264 provided that the Secretary report to Congress, on or before Apr. 15, 1968, the results of the study concerning the problems of transporting visitors along the Mall, on the United States Capitol Grounds, and to and from the National Visitor Center, which report was to include types of transportation to be utilized, the operation of any transportation system, the feasibility of providing free transportation, and any proposed legislation to carry out his recommendations.
+Section 104 of Pub. L. 90–264 provided that the Secretary report to Congress, on or before Apr. 15, 1968, the results of the study concerning the problems of transporting visitors along the Mall, on the United States Capitol Grounds, and to and from the National VisitorCenter, which report was to include types of transportation to be utilized, the operation of any transportation system, the feasibility of providing free transportation, and any proposed legislation to carry out his recommendations.
 

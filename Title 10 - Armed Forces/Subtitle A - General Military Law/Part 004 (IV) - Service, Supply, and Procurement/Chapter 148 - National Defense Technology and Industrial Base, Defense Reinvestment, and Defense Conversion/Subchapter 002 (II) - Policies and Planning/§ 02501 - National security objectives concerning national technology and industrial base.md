@@ -56,13 +56,95 @@ Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
+#### Sense of Congress on Defense Science and Technology Program
+
+Pub. L. 105–261, div. A, title II, §214, Oct. 17, 1998, 112 Stat. 1948, provided that:
+
+“(a)
+
+Funding Requirements for the Defense Science and Technology Program Budget.—It is the sense of Congress that, for each of the fiscal years 2000 through 2008, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program for the fiscal yearover the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.
+
+“(b)
+
+Guidelines for the Defense Science and Technology Program.—
+
+&emsp;“(1)
+
+Relationship of defense science and technology program to university research.—It is the sense of Congress that the following should be key objectives of the Defense Science and Technology Program:
+
+&emsp;&emsp;“(A) The sustainment of research capabilities in scientific and engineering disciplines critical to the Department of Defense.
+
+&emsp;&emsp;“(B) The education and training of the next generation of scientists and engineers in disciplines that are relevant to future defense systems, particularly through the conduct of basic research.
+
+&emsp;&emsp;“(C) The continued support of the Defense Experimental Program to Stimulate Competitive Research and research programs at historically black colleges and universities and minority institutions.
+
+&emsp;“(2)
+
+Relationship of the defense science and technology program to commercial research and technology.—(A) It is the sense of Congress that, in supporting projects within the Defense Science and Technology Program, the Secretary of Defense should attempt to leverage commercial research, technology, products, and processes for the benefit of the Department of Defense.
+
+&emsp;“(B) It is the sense of Congress that funds made available for projects and programs of the Defense Science and Technology Program should be used only for the benefit of the Department of Defense, which includes—
+
+&emsp;&emsp;“(i) the development of technology that has only military applications;
+
+&emsp;&emsp;“(ii) the development of militarily useful, commercially viable technology; and
+
+&emsp;&emsp;“(iii) the adaptation of commercial technology, products, or processes for military purposes.
+
+&emsp;“(3)
+
+Synergistic management of research and development.—It is the sense of Congress that the Secretary of Defense should have the flexibility to allocate a combination of funds available for the Department of Defense for basic and applied research and for advanced development to support any individual project or program within the Defense Science and Technology Program, but such flexibility should not change the allocation of funds in any fiscal year among basic and applied research and advanced development.
+
+&emsp;“(4)
+
+Management of science and technology.—It is the sense of Congress that—
+
+&emsp;&emsp;“(A) management and funding for the Defense Science and Technology Program for each military department should receive a level of priority and leadership attention equal to the level received by program acquisition, and the Secretary of each military department should ensure that a senior official in the department holds the appropriate title and responsibility to ensure effective oversight and emphasis on science and technology;
+
+&emsp;&emsp;“(B) to ensure an appropriate long-term focus for investments, a sufficient percentage of science and technology funds should be directed toward new technology areas, and annual reviews should be conducted for ongoing research areas to ensure that those funded initiatives are either integrated into acquisition programs or discontinued when appropriate;
+
+&emsp;&emsp;“(C) the Secretary of each military department should take appropriate steps to ensure that sufficient numbers of officers and civilian employees in the department hold advanced degrees in technical fields; and
+
+&emsp;&emsp;“(D) of particular concern, the Secretary of the Air Force should take appropriate measures to ensure that sufficient numbers of scientists and engineers are maintained to address the technological challenges faced in the areas of air, space, and information technology.
+
+“(c)
+
+Study.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary of Defense, in cooperation with the National Research Council of the National Academy of Sciences, shall conduct a study on the technology base of the Department of Defense.
+
+&emsp;“(2)
+
+Matters covered.—The study shall—
+
+&emsp;&emsp;“(A) result in recommendations on the minimum requirements for maintaining a technology base that is sufficient, based on both historical developments and future projections, to project superiority in air and space weapons systems and in information technology;
+
+&emsp;&emsp;“(B) address the effects on national defense and civilian aerospace industries and information technology of reducing funding below the goal described in subsection (a); and
+
+&emsp;&emsp;“(C) result in recommendations on the appropriate levels of staff with baccalaureate, masters, and doctorate degrees, and the optimal ratio of civilian and military staff holding such degrees, to ensure that science and technology functions of the Department of Defense remain vital.
+
+&emsp;“(3)
+
+Report.—Not later than 120 days after the date on which the study required under paragraph (1) is completed, the Secretary shall submit to Congress a report on the results of the study.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘Defense Science and Technology Program’ means basic and applied research and advanced development.
+
+&emsp;“(2) The term ‘basic and applied research’ means work funded in program elements for defense research and development under Department of Defense category 6.1 or 6.2.
+
+&emsp;“(3) The term ‘advanced development’ means work funded in program elements for defense research and development under Department of Defense category 6.3.”
+
 #### Annual Joint Warfighting Science and Technology Plan
 
 Section 270 of Pub. L. 104–201 provided that:
 
 “(a)
 
-Annual Plan Required.—On March 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a plan for ensuring that the science and technology program of the Department of Defense supports the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces.
+Annual Plan Required.—On March 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a plan for ensuring that the science and technology program of the Department of Defense supports the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces.
 
 “(b)
 
@@ -74,7 +156,7 @@ Section 808 of Pub. L. 104–106 authorized Secretary of Defense to enter into a
 
 #### Documentation for Awards for Cooperative Agreements or Other Transactions Under Defense Technology Reinvestment Programs
 
-Pub. L. 103–337, div. A, title XI, §1118, Oct. 5, 1994, 108 Stat. 2870, provided that: “At the time of the award for a cooperative agreement or other transaction under a program carried out under chapter 148 of title 10, United States Code, the head of the agency concerned shall include in the file pertaining to such agreement or transaction a brief explanation of the manner in which the award advances and enhances a particular national security objective set forth in section 2501(a) of such title or a particular policy objective set forth in \[former\] section 2501(b) of such title.”
+Pub. L. 103–337, div. A, title XI, §1118, Oct. 5, 1994, 108 Stat. 2870, provided that: “At the time of the award for a cooperative agreement or other transaction under a program carried out under chapter 148 of title 10, United States Code, the head of the agency concerned shall include in the file pertaining to such agreementor transaction a brief explanation of the manner in which the award advances and enhances a particular national security objective set forth in section 2501(a) of such title or a particular policy objective set forth in \[former\] section 2501(b) of such title.”
 
 #### Reports on Defense Conversion, Reinvestment, and Transition Assistance Programs
 
@@ -206,7 +288,7 @@ Regulations.—The Secretary may prescribe regulations to provide for considerat
 
 #### Armament Retooling and Manufacturing Support Initiative
 
-Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449, provided that:
+Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449; Pub. L. 105–261, div. A, title I, §115, Oct. 17, 1998, 112 Stat. 1939, provided that:
 
 #### “SEC. 191. SHORT TITLE.
 
@@ -238,7 +320,7 @@ Subtitle H of title I of div. A of Pub. L. 102–484, as amended by Pub. L. 103�
 
 “(a)
 
-Authority for Initiative.—During fiscal years 1993 through 1998, the Secretary of the Army may carry out a program to be known as the ‘Armament Retooling and Manufacturing Support Initiative’ (hereinafter in this subtitle referred to as the ‘ARMS Initiative’).
+Authority for Initiative.—During fiscal years 1993 through 1999, the Secretary of the Army may carry out a program to be known as the ‘Armament Retooling and Manufacturing Support Initiative’ (hereinafter in this subtitle referred to as the ‘ARMS Initiative’).
 
 “(b)
 
@@ -254,7 +336,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;“(5) To contribute to the attainment of economic stability in economically depressed regions of the United States where there are Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army.
 
-&emsp;“(6) To maintain in the United States a work force having the skills in manufacturing processes that are necessary to meet industrial emergency planned requirements for national security purposes.
+&emsp;“(6) To maintain in the United States a work force having the skills in manufacturing processes that arenecessary to meet industrial emergency planned requirements for national security purposes.
 
 &emsp;“(7) To be a model for future defense conversion initiatives.
 
@@ -342,7 +424,7 @@ Section 4239 of Pub. L. 102–484 provided that: “Not later than 120 days afte
 
 #### Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs
 
-Section 4471 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title XIII, §1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, §1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, §824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, §1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905, provided that:
+Section 4471 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title XIII, §1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, §1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, §824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, §1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(C), (f)(6)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, provided that:
 
 “(a)
 
@@ -358,7 +440,7 @@ Notice Requirement After Enactment of Appropriations Act.—Each year, not later
 
 “(b)
 
-Notice to Subcontractors.—Not later than 60 days after the date on which the prime contractor for a contract under a major defense program receives notice under subsection (a), the prime contractor shall—
+Notice to Subcontractors.—Not later than 60 days after the date on which the prime contractor fora contract under a major defense program receives notice under subsection (a), the prime contractor shall—
 
 &emsp;“(1) provide notice of that termination or substantial reduction to each person that is a first-tier subcontractor under that prime contract for subcontracts in an amount not less than $500,000; and
 
@@ -376,15 +458,15 @@ Contractor Notice to Employees and State Dislocated Worker Unit.—Not later tha
 
 &emsp;“(B) if there is no such representative at that time, each such employee; and
 
-&emsp;“(2) the State dislocated worker unit or office described in section 311(b)(2) of the Job Training Partnership Act (29 U.S.C. 1661(b)(2)) and the chief elected official of the unit of general local government within which the adverse effect may occur.
+&emsp;“(2) the State dislocated worker unit or office referred to in section 311(b)(2) of the Job Training Partnership Act \[29 U.S.C. 1661(b)(2)\], or the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998 \[29 U.S.C. 2864(a)(2)(A)\], and the chief elected official of the unit of general local government within which the adverse effect may occur.
 
 “(d)
 
-Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act (29 U.S.C. 1662d, 1662d–1), except where the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff. Any employee considered to have received such notice under the preceding sentence shall only be eligible to receive services under section 314(b) of such Act (29 U.S.C. 1661c(b)) and under paragraphs (1) through (14), (16), and (18) of section 314(c) of such Act (29 U.S.C. 1661c(c)).
+Constructive Notice.—The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act \[29 U.S.C. 1662d, 1662d–1\] or to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
 
 “(e)
 
-Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act (29 U.S.C. 1662d, 1662d–1) beginning on the date on which the employee receives the notice.
+Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act \[29 U.S.C. 1662d, 1662d–1\] or to participate in employment and training activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], beginning on the date on which the employee receives the notice.
 
 “(f)
 
@@ -393,6 +475,14 @@ Definitions.—For purposes of this section:
 &emsp;“(1) The term ‘major defense program’ means a program that is carried out to produce or acquire a major system (as defined in section 2302(5) of title 10, United States Code).
 
 &emsp;“(2) The terms ‘substantial reduction’ and ‘substantially reduced’, with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract.”
+
+\[Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(6)(C), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, section 4471 of Pub. L. 102–484, set out above, is amended:
+
+&emsp;\[(1) in subsection (c)(2), by striking out “the State dislocated worker unit or office referred to in section 311(b)(2) of the Job Training Partnership Act, or”;
+
+&emsp;\[(2) in subsection (d), in the first sentence, by striking out “for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act or”; and
+
+&emsp;\[(3) in subsection (e), by striking out “for training, adjustment assistance, and employment services under section 325 or 325A of the Job Training Partnership Act or”.\]
 
 #### Section Referred to in Other Sections
 

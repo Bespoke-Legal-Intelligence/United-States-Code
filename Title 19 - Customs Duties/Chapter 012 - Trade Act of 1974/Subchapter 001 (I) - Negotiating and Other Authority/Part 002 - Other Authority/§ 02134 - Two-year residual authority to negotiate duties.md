@@ -2,7 +2,7 @@
 
 #### (a) Trade agreements
 
-Whenever the President determines that any existing duties or other import restrictions ofany foreign country or the United States are unduly burdening and restricting the foreign trade of the United States and that the purposes of this chapter will be promoted thereby, the President—
+Whenever the President determines that any existing duties or other import restrictions of any foreign country or the United States are unduly burdening and restricting the foreign trade of the United States and that the purposes of this chapter will be promoted thereby, the President—
 
 &emsp;(1) may enter into trade agreements with foreign countries or instrumentalities thereof, and
 

@@ -64,7 +64,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;&emsp;(A) the death of such participant or annuitant was accidental; or
 
-&emsp;&emsp;(B) the surviving spouse of such individual had been previously married to the individual and subsequently divorced and the aggregate time married is at least 9 months; and
+&emsp;&emsp;(B) the surviving spouse of such individual had been previously married to the individual and subsequently divorced and the aggregate time married is at least 9 months;
 
 &emsp;(14) “unfunded liability” means the estimated excess of the present value of all benefits payable from the Fund under this part over the sum of—
 
@@ -72,15 +72,33 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;&emsp;(B) the present value of Government payments to the Fund under section 4061 of this title, plus
 
-&emsp;&emsp;(C) the Fund balance as of the date the unfunded liability is determined.
+&emsp;&emsp;(C) the Fund balance as of the date the unfunded liability is determined; and
 
-(Pub. L. 96–465, title I, §804, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§402(a)(2), (3), 403, 404(a), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, §211, Jan. 8, 1988, 101 Stat. 1773.)
+&emsp;(15) “special agent” means an employee of the Department of State with a primary skill code of 2501—
+
+&emsp;&emsp;(A) the duties of whose position—
+
+&emsp;&emsp;&emsp;(i) are primarily—
+
+&emsp;&emsp;&emsp;&emsp;(I) the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of the United States; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the protection of persons pursuant to section 2709(a)(3) of this title against threats to personal safety; and
+
+&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Secretary of State pursuant to section 4823 of this title;
+
+&emsp;&emsp;(B) performing duties described in subparagraph (A) before, on, or after November 13, 1998; or
+
+&emsp;&emsp;(C) transferred directly to a position which is supervisory or administrative in nature after performing duties described in subparagraph (A) for at least 3 years.
+
+(Pub. L. 96–465, title I, §804, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§402(a)(2), (3), 403, 404(a), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, §211, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 105–382, §2(a)(1), Nov. 13, 1998, 112 Stat. 3406.)
 
 #### References in Text
 
 This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Amendments
+
+1998—Par. (15). Pub. L. 105–382 added par. (15).
 
 1988—Par. (13). Pub. L. 100–238, §211(1), which directed the amendment of par. (13) by striking out “, in the case of death in service or marriage after retirement,” was executed by striking out “, in the case of a death in service or marriage after retirement,” after “annuitant who”, as the probable intent of Congress.
 
@@ -97,6 +115,74 @@ Par. (3). Pub. L. 99–335, §403, substituted “, the District of Columbia, t
 Par. (10). Pub. L. 99–335, §404(a), inserted “(creditable under part I or II of this subchapter)” after “creditable service” in two places.
 
 Par. (14). Pub. L. 99–335, §402(a)(3), inserted “under this part” after “payable from the Fund” in provision preceding subpar. (A).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–382, §4, Nov. 13, 1998, 112 Stat. 3409, provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), this Act \[amending this section and sections 4045, 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under section 3901 of this title\] and the amendments made by this Act—
+
+&emsp;“(1) shall take effect on the date of the enactment of this Act \[Nov. 13, 1998\]; and
+
+&emsp;“(2) shall apply with respect to—
+
+&emsp;&emsp;“(A) any individual first appointed on or after that date as a special agent who will have any portion of such individual's annuity computed in conformance with section 806(a)(6) of the Foreign Service Act \[of 1980\] \[22 U.S.C. 4046(a)(6)\]; and
+
+&emsp;&emsp;“(B) any individual making an election under subsection (b), subject to the provisions of such subsection.
+
+“(b)
+
+Election for Current Participants.—
+
+&emsp;“(1)
+
+Eligibility.—An election under this subsection may be made by any currently employed participant under chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\] who is serving or has served as a special agent, or by a survivor of a special agent who was eligible to make an election under this section.
+
+&emsp;“(2)
+
+Effect of an election.—
+
+&emsp;&emsp;“(A)
+
+In general.—If an individual makes an election under this subsection, the amendments made by this Act \[amending this section and sections 4045, 4046, 4052, 4071a, and 4071d of this title\] shall become applicable with respect to such individual, subject to subparagraph (B).
+
+&emsp;&emsp;“(B)
+
+Treatment of prior service.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Special contribution.—An individual may, after making the election under this subsection, make a special contribution up to the full amount of the difference between the contributions actually deducted from pay for prior service and the deductions that would have been required if the amendments made by this Act had then been in effect. Any special contributions under this clause shall be computed under regulations based on section 805(d) of the Foreign Service Act of 1980 \[22 U.S.C. 4045(d)\] (as amended by section 2), including provisions relating to the computation of interest.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Actuarial reduction.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I)
+
+Rule if the special contribution is paid.—If the full amount of the special contribution under clause (i) is paid, no reduction under this clause shall apply.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
+
+Rule if less than the entire amount is paid.—If no special contribution under clause (i) is paid, or if less than the entire amount of such special contribution is paid, the recomputed annuity shall be reduced by an amount sufficient to make up the actuarial present value of the shortfall.
+
+“(c)
+
+Regulations and Notice.—Not later than 6 months after the date of the enactment of this Act \[Nov. 13, 1998\], the Secretary of State—
+
+&emsp;“(1) shall promulgate such regulations as may be necessary to carry out this Act; and
+
+&emsp;“(2) shall take measures reasonably designed to provide notice to participants as to any rights they might have under this Act.
+
+“(d)
+
+Election Deadline.—An election under subsection (b) must be made not later than 90 days after the date on which the relevant notice under subsection (c)(2) is provided.
+
+“(e)
+
+Definition.—For purposes of this section, the term ‘special agent’ has the meaning given such term under section 804(15) of the Foreign Service Act of 1980 (22 U.S.C. 4044(15)), as amended by section 2(a).”
 
 #### Effective Date of 1988 Amendment
 

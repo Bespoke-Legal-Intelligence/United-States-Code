@@ -26,9 +26,15 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
-&emsp;(11) for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit); and
+&emsp;(11) for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
 
-&emsp;(12) any account, including accrued interest or other earnings thereon, established andmaintained in accordance with section 1383(a)(2)(F) of this title.
+&emsp;(12) any account, including accrued interest or other earnings thereon, established and maintained in accordance with section 1383(a)(2)(F) of this title; and
+
+&emsp;(13) any gift to, or for the benefit of, an individual who has not attained 18 years of age and who has a life-threatening condition, from an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code—
+
+&emsp;&emsp;(A) in the case of an in-kind gift, if the gift is not converted to cash; or
+
+&emsp;&emsp;(B) in the case of a cash gift, only to the extent that the total amount excluded from the resources of the individual pursuant to this paragraph in the calendar year in which the gift is made does not exceed $2,000.
 
 > In determining the resources of an individual (or eligible spouse) an insurance policy shall be taken into account only to the extent of its cash surrender value; except that if the total face value of all life insurance policies on any person is $1,500 or less, no part of the value of any such policy shall be taken into account.
 
@@ -58,15 +64,17 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Oct. 30, 1972, Pub. L. 92–603, title III, §301, 86 Stat. 1470; amended Oct. 20, 1976, Pub. L. 94–569, §5, 90 Stat. 2700; Nov. 12, 1977, Pub. L. 95–171, §9(a), 91 Stat. 1355; Dec. 28, 1980, Pub. L. 96–611, §5(a), 94 Stat. 3567; Sept. 3, 1982, Pub. L. 97–248, title I, §185(a), (b), 96 Stat. 406; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), 98 Stat. 1132, 1168; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), 101 Stat. 1330–301, 1330–304; July 1, 1988, Pub. L. 100–360, title III, §303(c)(1), 102 Stat. 762; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8103(b), 102 Stat. 3795; Dec. 19, 1989, Pub. L. 101–239, title VIII, §§8013(b), 8014(a), 103 Stat. 2465; Nov. 5, 1990, Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), 104 Stat. 1388–224, 1388–225, 1388–414; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), 108 Stat. 1478, 1544; Aug. 22, 1996, Pub. L. 104–193, title II, §213(b), 110 Stat. 2195.)
+(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928.)
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to insubsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
+The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
-The Internal Revenue Code of 1986, referred to in subsec. (a)(11), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1998—Subsec. (a)(13). Pub. L. 105–306 added par. (13).
 
 1996—Subsec. (a)(12). Pub. L. 104–193 added par. (12).
 
@@ -115,6 +123,10 @@ Subsec. (d). Pub. L. 97–248, §185(b), added subsec. (d).
 1977—Subsec. (a)(6). Pub. L. 95–171 added par. (6).
 
 1976—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–306 applicable to gifts made on or after the date that is 2 years before Oct. 28, 1998, see section 7(c) of Pub. L. 105–306, set out as a note under section 1382a of this title.
 
 #### Effective Date of 1996 Amendment
 

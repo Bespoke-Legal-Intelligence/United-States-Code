@@ -8,7 +8,7 @@
 
 (3) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use in a representative average-use cycle (as determined by the Secretary), and from representative average unit costs of the energy needed to operate such equipment during such cycle. The Secretary shall provide information to manufacturers of covered equipment respecting representative average unit costs of energy.
 
-(4)(A) With respect to small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks to which standards are applicable under section 6313 of this title, the test procedures shall be those generally accepted industry testing procedures or rating procedures developed or recognized by the Air-Conditioning and Refrigeration Institute or by the American Society of Heating, Refrigerating and Air Conditioning Engineers, as referenced in ASHRAE/IES Standard 90.1 and in effect on June 30, 1992.
+(4)(A) With respect to small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks to which standardsare applicable under section 6313 of this title, the test procedures shall be those generally accepted industry testing procedures or rating procedures developed or recognized by the Air-Conditioning and Refrigeration Institute or by the American Society of Heating, Refrigerating and Air Conditioning Engineers, as referenced in ASHRAE/IES Standard 90.1 and in effect on June 30, 1992.
 
 (B) If such an industry test procedure or rating procedure for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks is amended, the Secretary shall amend the test procedure for the product as necessary to be consistent with the amended industry test procedure or rating procedure unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
@@ -30,7 +30,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 #### (c) Reevaluations
 
-(1) The Secretary shall, not later than 3 years after the date of prescribing a test procedure under this section (and from time to time thereafter), conduct a reevaluation of such procedure and, on the basis of such reevaluation, shall determine if such test procedure should be amended. In conducting such reevaluation, the Secretary shall take into account such informationas he deems relevant, including technological developments relating to the energy efficiency of the type (or class) of covered equipment involved.
+(1) The Secretary shall, not later than 3 years after the date of prescribing a test procedure under this section (and from time to time thereafter), conduct a reevaluation of such procedure and, on the basis of such reevaluation, shall determine if such test procedure should be amended. In conducting such reevaluation, the Secretary shall take into account such information as he deems relevant, including technological developments relating to the energy efficiency of the type (or class) of covered equipment involved.
 
 (2) If the Secretary determines under paragraph (1) that a test procedure should be amended, he shall promptly publish in the Federal Register proposed test procedures incorporating such amendments and afford interested persons an opportunity to present oral and written data, views, and arguments. Such comment period shall not be less than 45 days’ duration.
 
@@ -50,7 +50,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 The Secretary may direct the National Institute of Standards and Technology to provide such assistance as the Secretary deems necessary to carry out his responsibilities under this part, including the development of test procedures.
 
-(Pub. L. 94–163, title III, §343, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3270; amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §122(b), (f)(2), Oct. 24, 1992, 106 Stat. 2808, 2817.)
+(Pub. L. 94–163, title III, §343, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3270;amended Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §122(b), (f)(2), Oct. 24, 1992, 106 Stat. 2808, 2817.)
 
 #### Amendments
 

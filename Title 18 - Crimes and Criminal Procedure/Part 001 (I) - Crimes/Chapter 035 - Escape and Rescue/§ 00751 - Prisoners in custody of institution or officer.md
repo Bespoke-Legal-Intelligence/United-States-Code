@@ -4,7 +4,7 @@
 
 (b) Whoever escapes or attempts to escape from the custody of the Attorney General or his authorized representative, or from any institution or facility in which he is confined by direction of the Attorney General, or from any custody under or by virtue of any process issued under the laws of the United States by any court, judge, or commissioner, or from the custody of an officer or employee of the United States pursuant to lawful arrest, shall, if the custody or confinement is by virtue of a lawful arrest for a violation of any law of the United States not punishable by death or life imprisonment and committed before such person's eighteenth birthday, and as to whom the Attorney General has not specifically directed the institution of criminal proceedings, or by virtue of a commitment as a juvenile delinquent under section 5034 of this title, be fined under this title or imprisoned not more than one year, or both. Nothing herein contained shall be construed to affect the discretionary authority vested in the Attorney General pursuant to section 5032 of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 734; Dec. 30, 1963, Pub. L. 88–251, §1, 77 Stat. 834; Sept. 10, 1965, Pub. L. 89–176, §3, 79 Stat. 675; Nov. 18, 1988, Pub. L. 100–690, title VII, §7055, 102 Stat. 4402; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 734; Pub. L. 88–251, §1, Dec. 30, 1963, 77 Stat. 834; Pub. L. 89–176, §3, Sept. 10, 1965, 79 Stat. 675; Pub. L. 100–690, title VII, §7055, Nov. 18, 1988, 102 Stat. 4402; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -8,7 +8,7 @@
 
 (d) The Naval Inspector General shall periodically propose programs of inspections to the Secretary of the Navy and shall recommend additional inspections and investigations as may appear appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 283, §5088; Dec. 12, 1980, Pub. L. 96–513, title V, §503(7), 94 Stat. 2911; renumbered §5020 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §511(c)(5), 100 Stat. 1047.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 283, §5088; Pub. L. 96–513, title V, §503(7), Dec. 12, 1980, 94 Stat. 2911; renumbered §5020 and amended Pub. L. 99–433, title V, §511(c)(5), Oct. 1, 1986, 100 Stat. 1047.)
 
 Historical and Revision Notes
 
@@ -34,7 +34,7 @@ In subsection (a) the words “In addition to the divisions herein created” ar
 
 In subsection (c) the words “from time to time” are omitted as surplusage.
 
-Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or special duty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words “under section 5231 of this title” are substituted for the words “grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes such grade, rank, pay, and allowances for officers so designated”.
+Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or specialduty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words “under section 5231 of this title” are substituted for the words “grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes such grade, rank, pay, and allowances for officers so designated”.
 
 #### References in Text
 

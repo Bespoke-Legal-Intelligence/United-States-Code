@@ -1,6 +1,0 @@
-### §5707. United States release from liability
-
-The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation, nor shall the full faith and credit of the United States extend to any obligation of the Foundation.
-
-(Pub. L. 104–285, title II, §208, Oct. 11, 1996, 110 Stat. 3386.)
-

@@ -22,7 +22,7 @@ Notwithstanding any transfer of functions under the first sentence of section 30
 
 #### (c) Timely acquisition by other means
 
-The Secretary may not acquire any rights-of-day <sup>2</sup> under this section unless he determinesthat the holder or holders of a permit referred to in subsection (a)(1)(B) of this section are unable to acquire such rights-of-way under State condemnation authority, or after reasonable opportunity for negotiation, without unreasonably delaying construction, taking into consideration the impact of such delay on completion of the facilities in a timely fashion.
+The Secretary may not acquire any rights-of-day <sup>2</sup> under this section unless he determines that the holder or holders of a permit referred to in subsection (a)(1)(B) of this section are unable to acquire such rights-of-way under State condemnation authority, or after reasonable opportunity for negotiation, without unreasonably delaying construction, taking into consideration the impact of such delay on completion of the facilities in a timely fashion.
 
 #### (d) Payments by permittees
 

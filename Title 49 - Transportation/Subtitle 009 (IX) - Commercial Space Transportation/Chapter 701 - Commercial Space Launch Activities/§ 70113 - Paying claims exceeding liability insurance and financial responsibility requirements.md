@@ -2,13 +2,13 @@
 
 (a)
 
-General Requirements.—(1) To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a licensee ortransferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch—
+General Requirements.—(1) To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch or reentry—
 
 &emsp;(A) is more than the amount of insurance or demonstration of financial responsibility required under section 70112(a)(1)(A) of this title; and
 
 &emsp;(B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflation occurring after January 1, 1989) above that insurance or financial responsibility amount.
 
-(2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 70112(a)(1)(A) of this title is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 70112(a)(1).
+(2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 70112(a)(1)(A) of this title is not available tocover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 70112(a)(1).
 
 (b)
 
@@ -26,13 +26,13 @@ Withholding Payments.—The Secretary may withhold a payment under subsection (a
 
 (d)
 
-Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity carried out under a license issued or transferred under this chapter the total of claims related to one launch is likely to be more than the amount of required insurance or demonstration of financial responsibility, the Secretary shall—
+Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity carried out under a license issued or transferred under this chapter the total of claims related to one launch or reentry is likely to be more than the amount of required insurance or demonstration of financial responsibility, the Secretary shall—
 
 &emsp;(A) survey the causes and extent of damage; and
 
 &emsp;(B) submit expeditiously to Congress a report on the results of the survey.
 
-(2) Not later than 90 days after a court determination indicates that the liability for the total of claims related to one launch may be more than the required amount of insurance or demonstration of financial responsibility, the President, on the recommendation of the Secretary, shall submit to Congress a compensation plan that—
+(2) Not later than 90 days after a court determination indicates that the liability for the total of claims related to one launch or reentry may be more than the required amount of insurance or demonstration of financial responsibility, the President, on the recommendation of the Secretary, shall submit to Congress a compensation plan that—
 
 &emsp;(A) outlines the total dollar value of the claims;
 
@@ -82,9 +82,9 @@ Congressional Resolutions.—(1) In this subsection, “resolution”—
 
 (f)
 
-Application.—This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 1999.
+Application.—This section applies to a license issued or transferred under this chapterfor which the Secretary receives a complete and valid application not later than December 31, 1999.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1338; Pub. L. 104–287, §5(94), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(13), Oct. 28, 1998, 112 Stat. 2850.)
 
 Historical and Revision Notes
 
@@ -179,6 +179,8 @@ In subsection (f), the word “only” is omitted as surplus.
 This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1340).
 
 #### Amendments
+
+1998—Subsecs. (a)(1), (d)(1), (2). Pub. L. 105–303 inserted “or reentry” after “one launch”.
 
 1996—Subsec. (e)(6)(D). Pub. L. 104–287 substituted “related to a resolution” for “related to resolution”.
 

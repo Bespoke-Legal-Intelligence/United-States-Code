@@ -8,7 +8,7 @@ A drug or device—
 
 &emsp;&emsp;(A)(i) requires approval by the Secretary under section 355 of this title before such drug may be introduced or delivered for introduction into interstate commerce; or
 
-&emsp;&emsp;(ii) requires licensing by the Secretary under section 262 of title 42 or by the Secretary of Agriculture under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (known as the Virus-Serum Toxin Act) before it may be introduced or delivered for introduction into interstate commerce;
+&emsp;&emsp;(ii) requires licensing by the Secretary under section 262 of title 42 or by the Secretary of Agriculture under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (known as theVirus-Serum Toxin Act) before it may be introduced or delivered for introduction into interstate commerce;
 
 &emsp;&emsp;(B) does not have such approval or license; and
 
@@ -60,7 +60,7 @@ A drug or device—
 
 &emsp;&emsp;(ii) Statutory or regulatory requirements that the methods used in, and the facilities and controls used for the manufacture, processing, and packing of drugs in the country are adequate to preserve their identity, quality, purity, and strength.
 
-&emsp;&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugs and procedures to withdraw approval and remove drugs found not to be safe or effective.
+&emsp;&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugs and procedures to withdraw approvaland remove drugs found not to be safe or effective.
 
 &emsp;&emsp;(iv) Statutory or regulatory requirements that the labeling and promotion of drugs must be in accordance with the approval of the drug.
 
@@ -146,7 +146,7 @@ The exporter of a drug or device exported under subsection (b)(1) of this sectio
 
 For purposes of this section—
 
-&emsp;(1) a reference to the Secretary shall in the case of a biological product which is requiredto be licensed under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
+&emsp;(1) a reference to the Secretary shall in the case of a biological product which is required to be licensed under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
 
 &emsp;(2) the term “drug” includes drugs for human use as well as biologicals under section 262 of title 42 or the Act of March 4, 1913 (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act).
 

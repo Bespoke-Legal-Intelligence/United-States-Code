@@ -14,7 +14,7 @@ No principal underwriter for or depositor of a registered unit investment trust 
 
 #### (b) Substitution of securities
 
-It shall be unlawful for any depositor or trustee of a registered unit investment trust holding the security of a single issuer to substitute another security for such security unless the Commission shall have approved such substitution. The Commission shall issue an order approving such substitution if the evidence establishes that it is consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter.
+It shall be unlawful for any depositor or trustee of a registered unit investment trust holdingthe security of a single issuer to substitute another security for such security unless the Commission shall have approved such substitution. The Commission shall issue an order approving such substitution if the evidence establishes that it is consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter.
 
 #### (c) Binding contract or agreement embodying applicable provisions deemed to qualify non-complying instrument by which securities were issued
 
@@ -52,7 +52,7 @@ Whenever the Commission has reason to believe that a unit investment trust is in
 
 &emsp;The Commission may issue such rules and regulations to carry out paragraph (2)(A) as it determines are necessary or appropriate in the public interest or for the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Dec. 14, 1970, Pub. L. 91–547, §15, 84 Stat. 1424; Dec. 4, 1987, Pub. L. 100–181, title VI, §§618, 619, 101 Stat. 1262; Oct. 11, 1996, Pub. L. 104–290, title II, §205(a), 110 Stat. 3429.)
+(Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Pub. L. 91–547, §15, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 100–181, title VI, §§618, 619, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 104–290, title II, §205(a), Oct. 11, 1996, 110 Stat. 3429.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Permit
 
-The Secretary is authorized to issue permits for the collection and removal of cave resources under such terms and conditions as the Secretary may impose, including the posting of bonds to insure compliance with the provisions of any permit:
+The Secretary is authorized to issue permits for the collection and removal of cave resourcesunder such terms and conditions as the Secretary may impose, including the posting of bonds to insure compliance with the provisions of any permit:
 
 &emsp;(1) Any permit issued pursuant to this section shall include information concerning the time, scope, location, and specific purpose of the proposed collection, removal or associated activity, and the manner in which such collection, removal, or associated activity is to be performed must be provided.
 

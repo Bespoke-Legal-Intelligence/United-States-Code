@@ -33,7 +33,7 @@ The purposes of this section are to—
 
 (3)(A)(i) The Secretary shall publish a proposed rule, no later than July 1, 1988, to determine if the standards established by paragraph (1) should be amended. The Secretary shall publish a final rule no later than July 1, 1989, which shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1993. If such a final rule is not published before January 1, 1990, any amendment of such standards shall apply to products manufactured on or after January 1, 1995. Nothing in this subsection provides any justification or defense for a failure by the Secretary to comply with the nondiscretionary duty to publish final rules by the dates stated in this paragraph.
 
-(ii)(I) If the Secretary does not publish a final rule before January 1, 1990, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers, the regulations which established standards for such products and were promulgated by the California Energy Commission on December 14, 1984, to be effective January 1, 1992 (or any amendments to such standards that are not more stringent than the standards in the original regulations), shall apply in California to such products, effective beginning January 1, 1993, and shall not be preempted after such effective date by any energy conservation standard established in this section or prescribed, on or after January 1, 1990, under this section.
+(ii)(I) If the Secretary does not publish a final rule before January 1, 1990, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers,the regulations which established standards for such products and were promulgated by the California Energy Commission on December 14, 1984, to be effective January 1, 1992 (or any amendments to such standards that are not more stringent than the standards in the original regulations), shall apply in California to such products, effective beginning January 1, 1993, and shall not be preempted after such effective date by any energy conservation standard established in this section or prescribed, on or after January 1, 1990, under this section.
 
 (II) If the Secretary does not publish a final rule before January 1, 1992, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers, State regulations which apply to such products manufactured on or after January 1, 1995, shall apply to such products until the effective date of a rule issued under this section with respect to such products.
 
@@ -142,7 +142,7 @@ The purposes of this section are to—
 | Over 27,000 Btu/hour up to 46,000 Btu/hour | 64% AFUE |
 | Over 46,000 Btu/hour | 65% AFUE |
 
-(4)(A) The Secretary shall publish final rules no later than January 1, 1992, to determine whether the standards established by paragraphs <sup>1</sup> (1), (2), or (3) for water heaters, pool heaters, and direct heating equipment should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 1995.
+(4)(A) The Secretary shall publish final rules no later than January 1, 1992, to determine whether the standards established by paragraph (1), (2), or (3) for water heaters, pool heaters, and direct heating equipment should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 1995.
 
 (B) The Secretary shall publish a final rule no later than January 1, 2000, to determine whether standards in effect for such products should be amended. Such rule shall provide that any such amendment shall apply to products manufactured on or after January 1, 2005.
 
@@ -237,7 +237,7 @@ The purposes of this section are to—
 
 (1) Gas kitchen ranges and ovens having an electrical supply cord shall not be equipped with a constant burning pilot for products manufactured on or after January 1, 1990.
 
-(2)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if thestandards established for kitchen ranges and ovens in this subsection should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
+(2)(A) The Secretary shall publish a final rule no later than January 1, 1992, to determine if the standards established for kitchen ranges and ovens in this subsection should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1995.
 
 (B) The Secretary shall publish a final rule no later than January 1, 1997, to determine whether standards in effect for such products should be amended. Such rule shall apply to products manufactured on or after January 1, 2000.
 
@@ -283,7 +283,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 (B) Notwithstanding subsection (n)(1) of this section, the Secretary shall not be prohibited from amending any standard, by rule, to permit increased energy use or to decrease the minimum required energy efficiency of any lamp to which standards are applicable under this subsection if such action is warranted as a result of other Federal action (including restrictions on materials or processes) which would have the effect of either increasing the energy use or decreasing the energy efficiency of such product.
 
-(7) Not later than the date on which standards established pursuant to this subsection become effective, or, with respect to high-intensity discharge lamps covered under section 6317 of this title, the effective date of standards established pursuant to such section, each manufacturer of a product to which such standards are applicableshall file with the Secretary a laboratory report certifying compliance with the applicable standard for each lamp type. Such report shall include the lumen output and wattage consumption for each lamp type as an average of measurements taken over the preceding 12-month period. With respect to lamp types which are not manufactured during the 12-month period preceding the date such standards become effective, such report shall be filed with the Secretary not later than the date which is 12 months after the date manufacturing is commenced and shall include the lumen output and wattage consumption for each such lamp type as an average of measurements taken during such 12-month period.
+(7) Not later than the date on which standards established pursuant to this subsection become effective, or, with respect to high-intensity discharge lamps covered under section 6317 of this title, the effective date of standards established pursuant to such section, each manufacturer of a product to which such standards are applicable shall file with the Secretary a laboratory report certifying compliance with the applicable standard for each lamp type. Such report shall include the lumen output and wattage consumption for each lamp type as an average of measurements taken over the preceding 12-month period. With respect to lamp types which are not manufactured during the 12-month period preceding the date such standards become effective, such report shall be filed with the Secretary not later than the date which is 12 months after the date manufacturing is commenced and shall include the lumen output and wattage consumption for each such lamp type as an average of measurements taken during such 12-month period.
 
 #### (j) Standards for showerheads and faucets
 
@@ -357,7 +357,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 (2) The maximum water use allowed for any urinal manufactured after January 1, 1994, is 1.0 gallon per flush.
 
-(3)(A) If the maximum flush volume requirements of ASME Standard A112.19.6–1990 are amended to improve the efficiency of water use of any low consumption water closet or low consumption urinal and are approved by ANSI, theSecretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in amended ASME/ANSI Standard A112.19.6 and providing that such standard shall apply to products manufactured after a date which is one year after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.19.6—
+(3)(A) If the maximum flush volume requirements of ASME Standard A112.19.6–1990 are amended to improve the efficiency of water use of any low consumption water closet or low consumption urinal and are approved by ANSI, the Secretary shall, not later than 12 months after the date of such amendment, publish a final rule establishing an amended uniform national standard for that product at the level specified in amended ASME/ANSI Standard A112.19.6 and providing that such standard shall apply to products manufactured after a date which is one year after the publication of such rule, unless the Secretary determines, by rule published in the Federal Register, that adoption of a uniform national standard at the level specified in such amended ASME/ANSI Standard A112.19.6—
 
 &emsp;(i) is not technologically feasible and economically justified under subsection (<i>o</i>) of this section;
 
@@ -379,7 +379,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of low consumption water closet or low consumption urinal.
 
-(C) If, after any period of five consecutive years, the maximum flush volume requirements of the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for low consumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flush volume requirementsof the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for low consumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type or class of water closet or urinal; and
 
@@ -431,7 +431,7 @@ After issuance of the last final rules required under subsections (b) through (i
 
 #### (<i>o</i>) Criteria for prescribing new or amended standards
 
-(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals, water use, or decreases the minimum required energy efficiency, of a covered product.
+(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals,water use, or decreases the minimum required energy efficiency, of a covered product.
 
 (2)(A) Any new or amended energy conservation standard prescribed by the Secretary under this section for any type (or class) of covered product shall be designed to achieve the maximum improvement in energy efficiency, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency, which the Secretary determines is technologically feasible and economically justified.
 
@@ -517,13 +517,17 @@ Compliance with, and performance under, the energy conservation standards (excep
 
 (2) The Secretary may not exercise the authority granted under paragraph (1) with respect to any type (or class) of covered product subject to an energy conservation standard under this section unless the Secretary makes a finding, after obtaining the written views of the Attorney General, that a failure to allow an exemption under paragraph (1) would likely result in a lessening of competition.
 
-(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824.)
+(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (j)(3)(A)(iii) and (k)(3)(A)(iii), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (e)(4)(A). Pub. L. 105–388, §5(a)(5)(A), substituted “paragraph” for “paragraphs”.
+
+Subsec. (g). Pub. L. 105–388, §5(a)(5)(B), substituted “ballasts” for “ballasts;” in heading.
 
 1992—Subsecs. (i) to (k). Pub. L. 102–486, §123(f)(2), added subsecs. (i) to (k). Former subsecs. (i) to (k) redesignated (<i>l</i>) to (n), respectively.
 
@@ -567,7 +571,7 @@ Subsecs. (q) to (t). Pub. L. 102–486, §123(f)(1), redesignated subsecs. (n) t
 
 1988—Subsec. (e)(1)(C). Pub. L. 100–357, §2(e)(3), inserted “Volume” after “Rated Storage”.
 
-Subsec. (g). Pub. L. 100–357, §2(e)(1)(A), inserted “; fluorescent lamp ballasts” in heading.
+Subsec. (g). Pub. L. 100–357, §2(e)(1)(A), inserted “; fluorescent lamp ballasts;” in heading.
 
 Subsec. (g)(5) to (7). Pub. L. 100–357, §2(e)(1)(B), added pars. (5) to (7).
 
@@ -598,6 +602,4 @@ Subsec. (a)(2). Pub. L. 94–385, §161(b), transferred authority to determine e
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6291, 6293, 6294, 6296, 6297, 6302, 6304, 6305, 6306, 6307, 6316, 6317 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

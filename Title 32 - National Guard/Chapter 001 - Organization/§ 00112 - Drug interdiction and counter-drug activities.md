@@ -2,21 +2,39 @@
 
 (a)
 
-Funding Assistance.—The Secretary of Defense may provide funds to the Governor of a State who submits to the Secretary a State drug interdiction and counter-drug activities plan satisfying the requirements of subsection (c). Such funds shall be used for—
+Funding Assistance.—The Secretary of Defense may provide funds to the Governor of a State who submits to the Secretary a State drug interdiction and counter-drug activities plan satisfying the requirements of subsection (c). Such funds shall be used for the following:
 
-&emsp;(1) the pay, allowances, clothing, subsistence, gratuities, travel, and related expenses, as authorized by State law, of personnel of the National Guard of that State used, while not in Federal service, for the purpose of drug interdiction and counter-drug activities;
+&emsp;(1) The pay, allowances, clothing, subsistence, gratuities, travel, and related expenses, as authorized by State law, of personnel of the National Guard of that State used, while not in Federal service, for the purpose of drug interdiction and counter-drug activities.
 
-&emsp;(2) the operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities; and
+&emsp;(2) The operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
 
-&emsp;(3) the procurement of services and leasing of equipment for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
+&emsp;(3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
 
 (b)
 
 Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
 
-(2) To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan is not detrimental to the training and readiness of such units and personnel, the requirements of section 2012(d) of title 10 shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform.
+(2)(A) A member of the National Guard serving on full-time National Guard duty under orders authorized under paragraph (1) shall participate in the training required under section 502(a) of this title in addition to the duty performed for the purpose authorized under that paragraph. The pay, allowances, and other benefits of the member while participating in the training shall be the same as those to which the member is entitled while performing duty for the purpose of carrying out drug interdiction and counter-drug activities. The member is not entitled to additional pay, allowances, or other benefits for participation in training required under section 502(a)(1) of this title.
 
-(3) Section 508 of this title, regarding the provision of assistance to certain specified youth and charitable organizations, shall apply in any case in which a unit or member of the National Guard of a State is proposed to be used pursuant to a State drug interdiction and counter-drug activities plan to provide to an organization specified in subsection (d) of such section any of the services described in subsection (b) of such section or services regarding counter-drug education.
+(B) Appropriations available for the Department of Defense for drug interdiction and counter-drug activities may be used for paying costs associated with a member's participation in training described in subparagraph (A). The appropriation shall be reimbursed in full, out of appropriations available for paying those costs, for the amounts paid. Appropriations available for paying those costs shall be available for making the reimbursements.
+
+(C) To ensure that the use of units and personnel of the National Guard of a State pursuant toa State drug interdiction and counter-drug activities plan does not degrade the training and readiness of such units and personnel, the following requirements shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform:
+
+&emsp;(i) The performance of the activities may not adversely affect the quality of that training or otherwise interfere with the ability of a member or unit of the National Guard to perform the military functions of the member or unit.
+
+&emsp;(ii) National Guard personnel will not degrade their military skills as a result of performing the activities.
+
+&emsp;(iii) The performance of the activities will not result in a significant increase in the cost of training.
+
+&emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unit organized to serve as a unit, the activities will support valid unit training requirements.
+
+(3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance (other than air transportation) to an organization eligible to receive services under section 508 of this title if—
+
+&emsp;(A) the State drug interdiction and counter-drug activities plan specifically recognizes the organization as being eligible to receive the services or assistance;
+
+&emsp;(B) in the case of services, the performance of the services meets the requirements of paragraphs (1) and (2) of subsection (a) of section 508 of this title; and
+
+&emsp;(C) the services or assistance is authorized under subsection (b) or (c) of such section or in the State drug interdiction and counter-drug activities plan.
 
 (c)
 
@@ -80,19 +98,33 @@ Statutory Construction.—Nothing in this section shall be construed as a limita
 
 Definitions.—For purposes of this section:
 
-&emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities authorized by the law of the State and requested by the Governor of the State.
+&emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
 
 &emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
 
 &emsp;(3) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880.)
+(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120.)
 
 #### Prior Provisions
 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, §1207(b).
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261, §1022(e)(1), substituted “for the following:” for “for—” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 105–261, §1022(e)(2), (3), substituted “The pay” for “the pay” and “activities.” for “activities;”.
+
+Subsec. (a)(2). Pub. L. 105–261, §1022(e)(2), (4), substituted “The operation” for “the operation” and “activities.” for “activities; and”.
+
+Subsec. (a)(3). Pub. L. 105–261, §1022(a), (e)(2), substituted “The procurement” for “the procurement” and “and equipment, and the leasing of equipment,” for “and leasing of equipment” and inserted at end “However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.”
+
+Subsec. (b)(2). Pub. L. 105–261, §1022(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan is not detrimental to the training and readiness of such units and personnel, the requirements of section 2012(d) of title 10 shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform.”
+
+Subsec. (b)(3). Pub. L. 105–261, §1022(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Section 508 of this title, regarding the provision of assistance to certain specified youth and charitable organizations, shall apply in any case in which a unit or member of the National Guard of a State is proposed to be used pursuant to a State drug interdiction and counter-drug activities plan to provide to an organization specified in subsection (d) of such section any of the services described in subsection (b) of such section or services regarding counter-drug education.”
+
+Subsec. (i)(1). Pub. L. 105–261, §1022(d), inserted “, including drug demand reduction activities,” after “drug interdiction and counter-drug law enforcement activities”.
 
 1997—Subsec. (b). Pub. L. 105–85, §1031(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -120,7 +152,7 @@ Pub. L. 104–106, §1021(b)(3), redesignated subsec. (b) as (c). Former subsec.
 
 Subsec. (d). Pub. L. 104–106, §1021(b)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (g).
 
-Subsec. (d)(1). Pub. L. 104–208 inserted at end “The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.”
+Subsec. (d)(1). Pub. L. 104–208 inserted at end “The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who haveviolated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.”
 
 Pub. L. 104–106, §1021(d)(1), inserted “and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b)” after “under this section” and substituted “under subsection (c)” for “under subsection (b)”.
 

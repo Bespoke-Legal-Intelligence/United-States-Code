@@ -32,27 +32,33 @@
 
 &emsp;A grant awarded under this subsection may not be less than $150,000.
 
-#### (6) Authorization of appropriations
-
-&emsp;There are authorized to be appropriated to carry out this subsection—
-
-&emsp;&emsp;(A) not less than $3,000,000 for each of the fiscal years 1991 and 1992; and
-
-&emsp;&emsp;(B) not less than $5,000,000 for each of the fiscal years 1993 through 1997.
-
 #### (b) National grant for technical assistance, training, and dissemination
+
+The Secretary of Agriculture shall award a competitive grant to a national private nonprofit disability organization to enable such organization to provide technical assistance, training, information dissemination and other activities to support community-based direct service programs of on-site rural rehabilitation and assistive technology for individuals with disabilities, and their families, who are engaged in farming or farm-related occupations.
+
+#### (c) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture shall award a competitive grant to a national private nonprofit disability organization to enable such organization to provide technical assistance, training, information dissemination and other activities to support community-based direct service programs of on-site rural rehabilitation and assistive technology for individuals with disabilities, and their families, who are engaged in farming or farm-related occupations.
+&emsp;Subject to paragraph (2), there is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 1999 through 2002.
 
-#### (2) Authorization of appropriations
+#### (2) National grant
 
-&emsp;There are authorized to be appropriated $1,000,000 to carry out this subsection for each of the fiscal years 1991 through 1997.
+&emsp;Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b) of this section.
 
-(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170.)
+(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556.)
 
 #### Amendments
+
+1998—Subsec. (a)(6). Pub. L. 105–185, §246(1), struck out heading and text of par. (6). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
+
+&emsp;“(A) not less than $3,000,000 for each of the fiscal years 1991 and 1992; and
+
+&emsp;“(B) not less than $5,000,000 for each of the fiscal years 1993 through 1997.”
+
+Subsec. (b). Pub. L. 105–185, §246(2), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “There are authorized to be appropriated $1,000,000 to carry out this subsection for each of the fiscal years 1991 through 1997.”
+
+Subsec. (c). Pub. L. 105–185, §246(3), added subsec. (c).
 
 1996—Subsecs. (a)(6)(B), (b)(2). Pub. L. 104–127 substituted “1997” for “1996”.
 

@@ -2,7 +2,7 @@
 
 The Secretary shall from time to time reexamine the need for the production of petroleum from oil shale for national defense when that production is authorized under section 7422 of this title. If he finds that the authorized quantity is no longer needed, he shall reduce production to the amount currently needed for national defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Oct. 11, 1962, Pub. L. 87–796, §1(3), 76 Stat. 904; Apr. 5, 1976, Pub. L. 94–258, title II, §201(4), 90 Stat. 309.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 87–796, §1(3), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(4), Apr. 5, 1976, 90 Stat. 309.)
 
 Historical and Revision Notes
 

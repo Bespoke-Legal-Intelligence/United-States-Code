@@ -58,5 +58,5 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3604, 3606 of this title.
+This section is referred to in section 3604 of this title.
 

@@ -16,7 +16,7 @@ Exception.—Subsection (a) shall not apply with respect to the Sacramento Army 
 
 (e)
 
-Report.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding fiscalyear for performance of depot-level maintenance and repair workloads by the public and private sectors as required by section 2466 of this title.
+Report.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding fiscal year for performance of depot-level maintenance and repair workloads by the public and private sectors as required by section 2466 of this title.
 
 (2) Not later than 90 days after the date on which the Secretary submits the annual report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General's views on whether the Department of Defense has complied with the requirements of subsection (a) for the fiscal year covered by the report.
 

@@ -2,7 +2,7 @@
 
 #### (a) State educational agencies, institutions of higher education
 
-For the purpose of carrying out more effectively Federal education programs, the Secretary is authorized, upon request, to provideadvice, counsel, and technical assistance to State educational agencies, institutions of higher education, and, with the approval of the appropriate State educational agency, elementary and secondary schools—
+For the purpose of carrying out more effectively Federal education programs, the Secretary is authorized, upon request, to provide advice, counsel, and technical assistance to State educational agencies, institutions of higher education, and, with the approval of the appropriate State educational agency, elementary and secondary schools—
 
 &emsp;(1) in determining benefits available to them under Federal law;
 

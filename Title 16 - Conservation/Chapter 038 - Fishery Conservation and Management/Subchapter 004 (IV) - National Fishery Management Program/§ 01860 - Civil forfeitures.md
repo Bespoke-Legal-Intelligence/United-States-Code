@@ -18,7 +18,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 &emsp;(3) the remission or mitigation of any such forfeiture;
 
-> shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisionsare inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
+> shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
 #### (d) Procedure
 

@@ -26,7 +26,7 @@ It is unlawful—
 
 #### (1) Civil penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of thissection shall be subject to a civil penalty under section 1375(a) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of this section shall be subject to a civil penalty under section 1375(a) of this title.
 
 #### (2) Criminal penalty
 

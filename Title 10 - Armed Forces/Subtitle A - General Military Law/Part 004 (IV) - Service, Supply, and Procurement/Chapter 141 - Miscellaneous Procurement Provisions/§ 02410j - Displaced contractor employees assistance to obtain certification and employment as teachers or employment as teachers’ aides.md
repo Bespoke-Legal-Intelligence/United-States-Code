@@ -34,7 +34,7 @@ Defense Contractor Applications.—(1) A defense contractor desiring to enter in
 
 &emsp;(A) Evidence that the contractor has been, or is expected to be, adversely affected by the completion or termination of a defense contract or program or by reductions in defense spending.
 
-&emsp;(B) An explanation that scientists and engineers employed by the contractor have been terminated, laid off, or retired, or are likely to be terminated, laid off, or retired, as a result of the completion or termination of a defensecontract or program or reductions in defense spending.
+&emsp;(B) An explanation that scientists and engineers employed by the contractor have been terminated, laid off, or retired, or are likely to be terminated, laid off, or retired, as a result of the completion or termination of a defense contract or program or reductions in defense spending.
 
 &emsp;(C) A description of programs implemented or proposed by the contractor to assist these scientists and engineers.
 
@@ -98,9 +98,9 @@ Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) t
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub.L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20 and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20 and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 

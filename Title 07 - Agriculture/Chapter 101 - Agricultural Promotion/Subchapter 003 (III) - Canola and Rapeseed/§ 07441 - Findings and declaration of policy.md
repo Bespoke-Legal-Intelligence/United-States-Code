@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;&emsp;(A) canola and rapeseed products are produced by thousands of canola and rapeseed producers and processed by numerous processing entities; and
 
-&emsp;&emsp;(B) canola and rapeseed products produced in the United States are consumed by people throughout the United States and foreign countries;
+&emsp;&emsp;(B) canola and rapeseed products produced in the United States are consumed by peoplethroughout the United States and foreign countries;
 
 &emsp;(3) canola, rapeseed, and canola and rapeseed products should be readily available and marketed efficiently to ensure that consumers have an adequate supply of canola and rapeseed products at a reasonable price;
 

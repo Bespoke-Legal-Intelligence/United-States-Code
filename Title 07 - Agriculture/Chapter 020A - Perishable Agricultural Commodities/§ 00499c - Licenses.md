@@ -26,7 +26,7 @@ Any person violating this provision may, upon a showing satisfactory to the Secr
 
 &emsp;&emsp;(A) For anniversary dates occurring during the one-year period beginning on November 15, 1995, the licensee shall pay a renewal fee in an amount equal to 100 percent of the applicable renewal fee (subject to the $4,000 aggregate limit on such payments) in effect under this subsection on the day before November 15, 1995.
 
-&emsp;&emsp;(B) For anniversary dates occurring during the one-year period beginning at the end of the period in subparagraph (A), the licenseeshall pay a renewal fee in an amount equal to 75 percent of the amount paid by the licensee under subparagraph (A).
+&emsp;&emsp;(B) For anniversary dates occurring during the one-year period beginning at the end of the period in subparagraph (A), the licensee shall pay a renewal fee in an amount equal to 75 percent of the amount paid by the licensee under subparagraph (A).
 
 &emsp;&emsp;(C) For anniversary dates occurring during the one-year period beginning at the end of the period in subparagraph (B), the licensee shall pay a renewal fee in an amount equal to 50 percent of the amount paid by the licensee under subparagraph (A).
 
@@ -40,7 +40,7 @@ Any person violating this provision may, upon a showing satisfactory to the Secr
 
 A licensee may conduct business in more than one trade name or change the name under which business is conducted without requiring an additional or new license. The Secretary may disapprove the use of a trade name if, in his opinion, the use of the trade name by the licensee would be deceptive, misleading, or confusing to the trade, and the Secretary may, after notice and opportunity for a hearing, suspend for a period not to exceed ninety days the license of any licensee who continues to use a trade name which the Secretary has disapproved for use by such licensee. The Secretary may refuse to issue a license to an applicant if he finds that the trade name in which the applicant proposes to do business would be deceptive, misleading, or confusing to the trade if used by such applicant.
 
-(June 10, 1930, ch. 436, §3, 46 Stat. 533; Aug. 20, 1937, ch. 719, §5, 50 Stat. 726; June 15, 1950, ch. 254, §1, 64 Stat. 217; July 30, 1956, ch. 786, §2(a), 70 Stat. 726; Oct. 1, 1962, Pub. L. 87–725, §§3, 4, 76 Stat. 673, 674; Nov. 4, 1969, Pub. L. 91–107, §3, 83 Stat. 182; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Nov. 1, 1978, Pub. L. 95–562, §2, 92 Stat. 2381; Dec. 22, 1981, Pub. L. 97–98, title XI, §1115(b), 95 Stat. 1269; Aug. 22, 1988, Pub. L. 100–414, §1, 102 Stat. 1102; Nov. 28, 1990, Pub. L. 101–624, title XIII, §1361, 104 Stat. 3568; Nov. 15, 1995, Pub. L. 104–48, §§3–4(b), 5(a), 109 Stat. 425–427.)
+(June 10, 1930, ch. 436, §3, 46 Stat. 533; Aug. 20, 1937, ch. 719, §5, 50 Stat. 726; June 15, 1950, ch. 254, §1, 64 Stat. 217; July 30, 1956, ch. 786, §2(a), 70 Stat. 726; Pub. L. 87–725, §§3, 4, Oct. 1, 1962, 76 Stat. 673, 674; Pub. L. 91–107, §3, Nov. 4, 1969, 83 Stat. 182; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 95–562, §2, Nov. 1, 1978, 92 Stat. 2381; Pub. L. 97–98, title XI, §1115(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 100–414, §1, Aug. 22, 1988, 102 Stat. 1102; Pub. L. 101–624, title XIII, §1361, Nov. 28, 1990, 104 Stat. 3568; Pub. L. 104–48, §§3–4(b), 5(a), Nov. 15, 1995, 109 Stat. 425–427.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 104–48, §3(b)(3), inserted heading.
 
 1981—Subsec. (b). Pub. L. 97–98 substituted “$300”, “$150”, and “$3,000” for “$150”, “$50”, and “$1,000”, respectively.
 
-1978—Subsec. (b). Pub. L. 95–562 substituted “in such application and to be furnished thereafter” for “in such application” and “$150, plus $50 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary” for “$100”, and inserted provisions limiting the total annual fees for any applicant to an amount not to exceed $1,000 in the aggregate and limiting the amountof money in the special fund at the end of any fiscal year to an amount not to exceed 25 percent of the projected budget for the next following fiscal year.
+1978—Subsec. (b). Pub. L. 95–562 substituted “in such application and to be furnished thereafter” for “in such application” and “$150, plus $50 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary” for “$100”, and inserted provisions limiting the total annual fees for any applicant to an amount not to exceed $1,000 in the aggregate and limiting the amount of money in the special fund at the end of any fiscal year to an amount not to exceed 25 percent of the projected budget for the next following fiscal year.
 
 1969—Subsec. (b). Pub. L. 91–107 increased limitation on fees from $50 to $100.
 

@@ -6,7 +6,7 @@ It is prohibited for any person—
 
 &emsp;(2) to solicit, accept, or attempt to accept any kickback; or
 
-&emsp;(3) to include, directly or indirectly, the amount of any kickback prohibited by clause (1) or (2) in the contract price charged by a subcontractor to a prime contractor or a higher tier subcontractor or in the contract price charged by a prime contractor to the United States.
+&emsp;(3) to include, directly or indirectly, the amount of any kickback prohibited by clause (1) or (2) in the contract price charged by a subcontractor to a prime contractor or a higher tier subcontractor or in the contract pricecharged by a prime contractor to the United States.
 
 (Mar. 8, 1946, ch. 80, §3, 60 Stat. 38; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 741; Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3524.)
 

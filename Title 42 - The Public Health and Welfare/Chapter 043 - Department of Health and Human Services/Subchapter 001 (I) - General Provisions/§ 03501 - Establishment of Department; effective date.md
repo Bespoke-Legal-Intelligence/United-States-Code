@@ -186,7 +186,7 @@ Sec. 5. <i>Consumer Advisory Council</i>. (a) There is hereby established in the
 
 &emsp;(3) problems of primary importance to consumers, and ways in which unmet consumer needs can appropriately be met through Federal Government action.
 
-Sec. 6. <i>Consideration of the consumer interest in Federal agency determinations</i>. Every Federal agency in taking any action of a nature which can reasonably be construed as substantially affecting the interests of consumers of products and services, including, but not limited to, (1) the promulgation of rules, regulations, or guidelines, (2) the formulation of written policy decisions, or (3) the issuance of orders, decrees, or standards, shall, in taking such action, give due consideration to the valid interests of consumers.
+Sec. 6. <i>Consideration of the consumer interest in Federal agency determinations</i>. Every Federal agency in taking any action of a nature which can reasonably be construed as substantially affecting the interests of consumers of products and services, including, but not limited to, (1) the promulgation of rules, regulations, orguidelines, (2) the formulation of written policy decisions, or (3) the issuance of orders, decrees, or standards, shall, in taking such action, give due consideration to the valid interests of consumers.
 
 Sec. 7. <i>Abolition of Committee and Council</i>. Except as otherwise provided herein, the President's Committee on Consumer Interests and the Consumer Advisory Council established under Executive Order No. 11136 of January 3, 1964, as amended by Executive Order No. 11349 of May 1, 1967, are abolished.
 
@@ -198,7 +198,7 @@ Sec. 9. <i>Orders superseded</i>. Executive Order No. 11136 of January 3, 1964, 
 
 Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code \[section 301 of title 3, The President\] and as President of theUnited States of America, it is hereby ordered as follows:
+Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code \[section 301 of title 3, The President\] and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. The Office of Consumer Affairs, established by Executive Order No. 11583 of February 24, 1971, as amended by Executive Order No. 11595 of May 26, 1971 \[set out above\], together with its functions, is hereby transferred from the Executive Office of the President to the Department of Health and Human Services. The Director of the Office of Consumer Affairs shall continue as the Special Assistant to the President for Consumer Affairs.
 

@@ -118,7 +118,7 @@
 
 #### (B) Required disclosures
 
-&emsp;&emsp;The Attorney General shall provide information furnished under this section, and anyother information derived from such furnished information, to a duly recognized law enforcement entity in connection with a criminal investigation or prosecution, when such information is requested in writing by such entity, or to an official coroner for purposes of affirmatively identifying a deceased individual (whether or not such individual is deceased as a result of a crime).
+&emsp;&emsp;The Attorney General shall provide information furnished under this section, and any other information derived from such furnished information, to a duly recognized law enforcement entity in connection with a criminal investigation or prosecution, when such information is requested in writing by such entity, or to an official coroner for purposes of affirmatively identifying a deceased individual (whether or not such individual is deceased as a result of a crime).
 
 #### (C) Construction
 
@@ -252,7 +252,7 @@ For all purposes (subject to subsections (a)(5) and (f) of this section) an alie
 
 In this section, the term “seasonal agricultural services” means the performance of field work related to planting, cultural practices, cultivating, growing and harvesting of fruits and vegetables of every kind and other perishable commodities, as defined in regulations by the Secretary of Agriculture.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Nov. 6, 1986, Pub. L. 99–603, title III, §302(a)(1), 100 Stat. 3417; amended Dec. 22, 1987, Pub. L. 100–202, §101(a) \[title II, §211\], 101 Stat. 1329, 1329–18; Oct. 24, 1988, Pub. L. 100–525, §2(m),102 Stat. 2613; Dec. 18, 1989, Pub. L. 101–238, §4, 103 Stat. 2103; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(5), 104 Stat. 5082; Dec. 12, 1991, Pub. L. 102–232, title III, §§307(j), 309(b)(6), 105 Stat. 1756, 1758; Oct. 25, 1994, Pub. L. 103–416, title II, §219(d), (z)(7), 108 Stat. 4316, 4318; Apr. 24, 1996, Pub. L. 104–132, title IV, §431(b), 110 Stat. 1273; Aug. 22, 1996, Pub. L. 104–193, title I, §110(s)(1), 110 Stat. 2175; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), 110 Stat. 3009–622, 3009–653, 3009–697.)
+(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Pub. L. 99–603, title III, §302(a)(1), Nov. 6, 1986, 100 Stat. 3417; amended Pub. L. 100–202, §101(a) \[title II, §211\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–525, §2(m), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–238, §4, Dec. 18, 1989, 103 Stat. 2103; Pub. L. 101–649, title VI, §603(a)(5), Nov. 29, 1990, 104 Stat. 5082; Pub. L. 102–232, title III, §§307(j), 309(b)(6), Dec. 12, 1991, 105 Stat. 1756, 1758; Pub. L. 103–416, title II, §219(d), (z)(7), Oct. 25, 1994, 108 Stat. 4316, 4318; Pub. L. 104–132, title IV, §431(b), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), Sept. 30, 1996, 110 Stat. 3009–622, 3009–653, 3009–697.)
 
 #### References in Text
 
@@ -284,7 +284,7 @@ Subsec. (d)(3)(B). Pub. L. 103–416, §219(z)(7), made technical correction to 
 
 1991—Subsec. (b)(7)(B). Pub. L. 102–232, §307(j), substituted “section 1182(a)(6)(C)(i)” for “section 1182(a)(19)”.
 
-Subsec. (d)(3). Pub. L. 102–232, §309(b)(6)(A)–(C), realigned margins of par. (3) and its subparagraphs, and in introductory provisions substituted “Service” for “the Immigration and Naturalization Service (INS)” and “Service” for “INS” in two places.
+Subsec. (d)(3). Pub. L. 102–232, §309(b)(6)(A)–(C), realigned margins of par. (3) and its subparagraphs, andin introductory provisions substituted “Service” for “the Immigration and Naturalization Service (INS)” and “Service” for “INS” in two places.
 
 Subsec. (d)(3)(A). Pub. L. 102–232, §309(b)(6)(D), (E), substituted “period described in” for “period as defined in” and “Service” for “INS”, and made technical amendment to reference to this chapter involving corresponding provision of original act.
 

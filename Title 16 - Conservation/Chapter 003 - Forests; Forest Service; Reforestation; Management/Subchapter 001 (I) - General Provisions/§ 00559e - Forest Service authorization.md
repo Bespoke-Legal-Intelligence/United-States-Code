@@ -10,5 +10,5 @@ In order to improve Federal law enforcement activities relating to the use and p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559b, 559c, 559d of this title.
+This section is referred to in sections 460<i>lll</i>–12, 559b, 559c, 559d of this title.
 

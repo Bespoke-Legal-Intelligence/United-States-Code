@@ -8,7 +8,7 @@ The President shall undertake to enter into international agreements to foster c
 
 The Administrator, in consultation with the Secretary of State, shall support global participation in the Montreal Protocol by providing technical and financial assistance to developing countries that are Parties to the Montreal Protocol and operating under article 5 of the Protocol. There are authorized to be appropriated not more than $30,000,000 to carry out this section in fiscal years 1991, 1992 and 1993 and such sums as may be necessary in fiscal years 1994 and 1995. If China and India become Parties to the Montreal Protocol, there are authorized to be appropriated not more than an additional $30,000,000 to carry out this section in fiscal years 1991, 1992, and 1993.
 
-(July 14, 1955, ch. 360, title VI, §617, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2669.)
+(July 14, 1955, ch. 360, title VI, §617, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2669.)
 
 #### Authority of Secretary of State
 

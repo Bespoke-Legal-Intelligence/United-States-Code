@@ -34,3 +34,7 @@ The Secretary is authorized to enter into cooperative agreements with Federal ag
 
 (Pub. L. 89–642, §21, as added Pub. L. 102–342, title II, §201, Aug. 14, 1992, 106 Stat. 912.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1776 of this title.
+

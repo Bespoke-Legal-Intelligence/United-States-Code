@@ -36,7 +36,7 @@ Not later than 18 months after the enactment of the Superfund Amendments and Rea
 
 #### (1) Revision
 
-&emsp;Not later than 18 months after October 17, 1986, and after publication of notice and opportunity for submission of comments in accordance with section 553 of title 5, the President shall by rule promulgate amendments to the hazard ranking system in effect on September 1, 1984. Such amendments shall assure, to the maximum extent feasible, that the hazard ranking system accurately assesses the relative degree of risk to human health and the environment posed by sites and facilities subject to review. The President shall establish an effective date for the amended hazard ranking system which is not later than 24 months after October 17, 1986. Such amended hazard ranking system shall be applied to any site or facility to be newly listed on the National Priorities List after the effective date established by the President. Until such effective date of the regulations, the hazard ranking system ineffect on September 1, 1984, shall continue in full force and effect.
+&emsp;Not later than 18 months after October 17, 1986, and after publication of notice and opportunity for submission of comments in accordance with section 553 of title 5, the President shall by rule promulgate amendments to the hazard ranking system in effect on September 1, 1984. Such amendments shall assure, to the maximum extent feasible, that the hazard ranking system accurately assesses the relative degree of risk to human health and the environment posed by sites and facilities subject to review. The President shall establish an effective date for the amended hazard ranking system which is not later than 24 months after October 17, 1986. Such amended hazard ranking system shall be applied to any site or facility to be newly listed on the National Priorities List after the effective date established by the President. Until such effective date of the regulations, the hazard ranking system in effect on September 1, 1984, shall continue in full force and effect.
 
 #### (2) Health assessment of water contamination risks
 
@@ -60,7 +60,7 @@ Whenever there has been, after January 1, 1985, a significant release of hazardo
 
 #### (f) Minority contractors
 
-In awarding contracts under this chapter, the President shall consider the availability of qualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain a brief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
+In awarding contracts under this chapter, the President shall consider the availability ofqualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain a brief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
 
 #### (g) Special study wastes
 
@@ -92,7 +92,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 #### References in Text
 
-Section 1321(c)(2) of title 33, referred to in subsec. (a), was amended generally by Pub. L. 101–380, title IV,§4201(a), Aug. 18, 1990, 104 Stat. 523. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
+Section 1321(c)(2) of title 33, referred to in subsec. (a), was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523. Prior to general amendment, subsec. (c)(2) related to preparation of a National Contingency Plan. Provisions relating to a National Contingency Plan are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
 
 Such amendments and the amendments made by the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (b), are the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 

@@ -1,8 +1,8 @@
 ### §2681. International broadcasting facilities; transfer to Department of State; acquisition of property
 
-For the purpose of assuring continued operation of the facilities hereinafter described for international broadcasting as a means of achieving the objectives of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\] under authority of that Act, the Reconstruction Finance Corporation, as successor to Defense Plant Corporation, shall transfer, without regard to the provisions of the Surplus Property Act of 1944, as amended, and without reimbursement or transfer of funds, to the Secretary of State (hereinafter referred to as the “Secretary”) all of its right, title, and interest in and to the facilities known as Plancors 1805, 1985, and 1986 located in Butler County, Ohio, in the vicinity of Delano, California, and Dixon, California, respectively, together with the equipment and other property appurtenant thereto. For the purposes of sections 2681 to 2683 of this title, the Director of the United States Information Agency is authorized to acquire property or rights or interests therein necessary or desirable for the operation of such facilities by purchase, lease, gift, transfer, condemnation, or otherwise.
+For the purpose of assuring continued operation of the facilities hereinafter described for international broadcasting as a means of achieving the objectives of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\] under authority of that Act, the Reconstruction Finance Corporation, as successor to Defense Plant Corporation, shall transfer, without regard to the provisions of the Surplus Property Act of 1944, as amended, and without reimbursement or transfer of funds, to the Secretary of State (hereinafter referred to as the “Secretary”) all of its right, title, and interest in and to the facilities known as Plancors 1805, 1985, and 1986 located in Butler County, Ohio, in the vicinity of Delano, California, and Dixon, California, respectively, together with the equipment and other property appurtenant thereto. For the purposes of sections 2681 to 2683 of this title, the Secretary is authorized to acquire property or rights or interests therein necessary or desirable for the operation of such facilities by purchase, lease, gift, transfer, condemnation, or otherwise.
 
-(July 9, 1949, ch. 301, §1, 63 Stat. 408; 1977 Reorg. Plan No. 2, §7(a)(19), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
+(July 9, 1949, ch. 301, §1, 63 Stat. 408.)
 
 #### References in Text
 
@@ -14,17 +14,9 @@ The Surplus Property Act of 1944, referred to in text, is act Oct. 3, 1944, ch. 
 
 Section was formerly classified to section 170a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-#### Transfer of Functions
-
-“Director of the United States Information Agency” substituted in text for “Director of the International Communication Agency” pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary” pursuant to Reorg. Plan No. 2 of 1977, §7(a)(19), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in Secretary of State, Department of State, or Director of United States Information Agency under sections 2681, 2682, and 2683 of this title to Director of International Communication Agency.
-
 #### Abolition of Reconstruction Finance Corporation
 
 Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out as a note under section 601 of Title 15, Commerce and Trade, abolished the Reconstruction Finance Corporation.
-
-#### Authority of Director of United States Information Agency
-
-Exercise of authority available under sections 2681 to 2683 of this title by Director of United States Information Agency, see Ex. Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, set out as a note under section 1472 of this title.
 
 #### Section Referred to in Other Sections
 

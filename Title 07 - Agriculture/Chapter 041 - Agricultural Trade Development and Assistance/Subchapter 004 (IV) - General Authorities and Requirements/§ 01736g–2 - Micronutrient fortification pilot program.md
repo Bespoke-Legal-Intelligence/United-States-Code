@@ -20,5 +20,5 @@ Under the pilot program, whole grains and other commodities made available to a 
 
 The authority to carry out the pilot program established under this section shall terminate on September 30, 2002.
 
-(July 10, 1954, ch. 469, title IV, §415, as added Apr. 4, 1996, Pub. L. 104–127, title II, §222, 110 Stat. 958.)
+(July 10, 1954, ch. 469, title IV, §415, as added Pub. L. 104–127, title II, §222, Apr. 4, 1996, 110 Stat. 958.)
 

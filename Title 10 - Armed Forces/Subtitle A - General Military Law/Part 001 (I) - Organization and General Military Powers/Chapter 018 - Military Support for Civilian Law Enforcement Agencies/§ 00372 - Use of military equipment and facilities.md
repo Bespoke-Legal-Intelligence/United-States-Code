@@ -6,7 +6,7 @@ In General.—The Secretary of Defense may, in accordance with other applicable 
 
 (b)
 
-Emergencies Involving Chemical and Biological Agents.—(1) In addition to equipmentand facilities described in subsection (a), the Secretary may provide an item referred to in paragraph (2) to a Federal, State, or local law enforcement or emergency response agency to prepare for or respond to an emergency involving chemical or biological agents if the Secretary determines that the item is not reasonably available from another source. The requirement for a determination that an item is not reasonably available from another source does not apply to assistance provided under section 382 of this title pursuant to a request of the Attorney General for the assistance.
+Emergencies Involving Chemical and Biological Agents.—(1) In addition to equipment and facilities described in subsection (a), the Secretary may provide an item referred to in paragraph (2) to a Federal, State, or local law enforcement or emergency response agency to prepare for or respond to an emergency involving chemical or biological agents if the Secretary determines that the item is not reasonably available from another source. The requirement for a determination that an item is not reasonably available from another source does not apply to assistance provided under section 382 of this title pursuant to a request of the Attorney General for the assistance.
 
 (2) An item referred to in paragraph (1) is any material or expertise of the Department of Defense appropriate for use in preparing for or responding to an emergency involving chemical or biological agents, including the following:
 
@@ -30,7 +30,7 @@ Subsec. (b)(1). Pub. L. 104–201 inserted at end “The requirement for a deter
 
 #### Transfer of Excess Personal Property
 
-Pub. L. 101–189, div. A, title XII, §1208, Nov. 29, 1989, 103 Stat. 1566, as amended by Pub. L. 102–484, div. A, title X, §1044, Oct. 23, 1992, 106 Stat. 2493, which authorized the Secretary of Defense to transfer excess personal property of the Department of Defense to Federal and State agencies, provided conditions for transfer, and terminated the Secretary's authority on Sept. 30, 1997, was repealed and restated in section 2576a of this title by Pub. L. 104–201, div. A, title X, §1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640.
+Pub. L. 101–189, div. A, title XII, §1208, Nov. 29, 1989, 103 Stat. 1566, as amended by Pub. L. 102–484, div. A, title X, §1044, Oct. 23, 1992, 106 Stat. 2493, which authorized the Secretary of Defense to transfer excess personal property of the Department of Defense to Federaland State agencies, provided conditions for transfer, and terminated the Secretary's authority on Sept. 30, 1997, was repealed and restated in section 2576a of this title by Pub. L. 104–201, div. A, title X, §1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640.
 
 #### Section Referred to in Other Sections
 

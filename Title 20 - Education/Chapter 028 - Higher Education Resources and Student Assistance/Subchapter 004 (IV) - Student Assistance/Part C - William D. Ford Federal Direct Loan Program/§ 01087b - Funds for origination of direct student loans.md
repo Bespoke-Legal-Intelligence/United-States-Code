@@ -14,9 +14,9 @@ No institution of higher education shall have a right to participate in the prog
 
 #### (c) Delivery of loan funds
 
-Loan funds shall be paid and delivered to an institution by the Secretary prior to the beginning of the payment period established by the Secretary in a manner that is consistent with payment and delivery of basic grants under subpart 1 of part A of this subchapter.
+Loan funds shall be paid and delivered to an institution by the Secretary prior to the beginning of the payment period established by the Secretary in a manner that is consistent with payment and delivery of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
-(Pub. L. 89–329, title IV, §452, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 105–33, title VI, §6102, Aug. 5, 1997, 111 Stat. 652.)
+(Pub. L. 89–329, title IV, §452, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 105–33, title VI, §6102, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §401(g)(5), Oct. 7, 1998, 112 Stat. 1652.)
 
 #### Prior Provisions
 
@@ -24,11 +24,17 @@ A prior section 1087b, Pub. L. 89–329, title IV, §452, as added Pub. L. 90–
 
 #### Amendments
 
+1998—Subsec. (c). Pub. L. 105–244 substituted “Federal Pell Grants” for “basic grants”.
+
 1997—Subsecs. (b) to (d). Pub. L. 105–33 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which required the Secretary to pay fees to institutions of higher education and alternative loan originators to assist in meeting the cost of loan origination.
 
 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to funds for origination of direct student loans for former provisions relating to payment rules.
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to payment rules for former provisions authorizing demonstration projects.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 

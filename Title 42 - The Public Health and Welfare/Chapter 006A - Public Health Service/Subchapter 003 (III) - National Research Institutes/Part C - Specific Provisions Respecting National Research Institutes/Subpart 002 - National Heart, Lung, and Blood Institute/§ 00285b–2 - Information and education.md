@@ -6,7 +6,7 @@ The Director of the Institute shall collect, identify, analyze, and disseminate 
 
 &emsp;(2) develop and disseminate to health professionals, patients and patient families, and the public information designed to encourage adults and children to adopt healthful practices concerning the prevention of such diseases.
 
-(July 1, 1944, ch. 373, title IV, §420, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 837; amendedNov. 4, 1988, Pub. L. 100–607, title I, §126, 102 Stat. 3055.)
+(July 1, 1944, ch. 373, title IV, §420, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 837; amended Pub. L. 100–607, title I, §126, Nov. 4, 1988, 102 Stat. 3055.)
 
 #### Amendments
 

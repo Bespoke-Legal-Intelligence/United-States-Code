@@ -2,7 +2,7 @@
 
 #### (a) Filing of petition; receipt of petition; initiation of investigation
 
-A petition for certification of eligibility for adjustment assistance under this part may be filed with the Secretary of Commerce (hereinafter in this part referred to as the “Secretary”) by a political subdivision of a State (hereinafter in this part referred to as a “community”), by a group of such communities, or by the Governor of a State on behalf of such communities. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.
+A petition for certification of eligibility for adjustment assistance under this part may be filed with the Secretary of Commerce (hereinafter in this part referred to as the “Secretary”) by a political subdivision of a State (hereinafter in this part referred to as a “community”), by a group of such communities, or by the Governor of a State on behalf of such communities. Uponreceipt of the petition, the Secretary shall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.
 
 #### (b) Public hearing
 

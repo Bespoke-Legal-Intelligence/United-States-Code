@@ -32,7 +32,7 @@ In making grants under subsection (a) of this section, the Secretary may require
 
 #### (d) Annual report
 
-Not later than January 31 of each year, the Secretary of the Interior, in consultation withthe Secretary of the Treasury, shall submit to the Congress a report of activities under this section, including a statement of—
+Not later than January 31 of each year, the Secretary of the Interior, in consultation with the Secretary of the Treasury, shall submit to the Congress a report of activities under this section, including a statement of—
 
 &emsp;(1) the financial condition of the Fund as of the end of the preceding fiscal year, with an analysis of the Fund transactions during that fiscal year; and
 

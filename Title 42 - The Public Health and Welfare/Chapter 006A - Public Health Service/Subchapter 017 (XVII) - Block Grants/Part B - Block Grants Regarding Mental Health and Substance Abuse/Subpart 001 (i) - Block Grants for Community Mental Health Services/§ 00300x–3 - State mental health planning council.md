@@ -44,7 +44,7 @@ A condition under subsection (a) of this section for a Council is that the dutie
 
 For purposes of this section, the term “Council” means a State mental health planning council.
 
-(July 1, 1944, ch. 373, title XIX, §1914, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 382.)
+(July 1, 1944, ch. 373, title XIX, §1914, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 382.)
 
 #### References in Text
 
@@ -58,5 +58,5 @@ A prior section 1914 of act July 1, 1944, was classified to section 300x–2 of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 300x–4 of this title; title 29 sections 725, 2212.
+This section is referred to in section 300x–4 of this title; title 29 section 725.
 

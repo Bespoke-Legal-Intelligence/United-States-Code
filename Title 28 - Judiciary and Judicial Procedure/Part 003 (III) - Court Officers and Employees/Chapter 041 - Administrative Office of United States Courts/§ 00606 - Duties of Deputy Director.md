@@ -1,6 +1,6 @@
 ### §606. Duties of Deputy Director
 
-The Deputy Director shall perform the duties assigned to him by the Director, and shall act asDirector during the absence or incapacity of the Director or when the Director's office is vacant.
+The Deputy Director shall perform the duties assigned to him by the Director, and shall act as Director during the absence or incapacity of the Director or when the Director's office is vacant.
 
 (June 25, 1948, ch. 646, 62 Stat. 915; Pub. L. 86–370, §5(a)(1), Sept. 23, 1959, 73 Stat. 652.)
 
@@ -12,7 +12,7 @@ This section contains provisions as to duties of Assistant Director in section 4
 
 #### Amendments
 
-<b>1959</b>—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
+1959—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
 
 #### Effective Date of 1959 Amendment
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 86–370 effective Sept. 23, 1959, see section 7(a) of Pub.
 
 #### Reference to Assistant Director Deemed Reference to Deputy Director
 
-References in any other law to Assistant Director of the Administrative Office of the United States Courts deemed to be reference to the Deputy Director of the Administrative Office of the United States Courts, see note set out under section 601 of this title.
+References in any other law to Assistant Director of the Administrative Office of the United States Courtsdeemed to be reference to the Deputy Director of the Administrative Office of the United States Courts, see note set out under section 601 of this title.
 

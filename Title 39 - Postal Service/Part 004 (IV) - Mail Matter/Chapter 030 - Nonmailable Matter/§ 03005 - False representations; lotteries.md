@@ -1,6 +1,6 @@
 ### §3005. False representations; lotteries
 
-(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under <sup>1</sup> 3001(d), (h), or (i) of this title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
+(a) Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under <sup>1</sup> 3001(d), (h), or (i) ofthis title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
 
 &emsp;(1) directs the postmaster of the post office at which mail arrives, addressed to such a person or to his representative, to return such mail to the sender appropriately marked as in violation of this section, if the person, or his representative, is first notified and given reasonable opportunity to be present at the receiving post office to survey the mail before the postmaster returns the mail to the sender;
 
@@ -46,7 +46,7 @@ Subsec. (e). Pub. L. 98–186, §2(c), added subsec. (e).
 
 1978—Subsec. (a). Pub. L. 95–360 inserted provisions relating to nonmailable matter under section 3001(d) of this title.
 
-1976—Subsec. (d). Pub. L. 94–525 substituted “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,” for “a newspaper of general circulation published in a State containing advertisements, lists of prizes, or information concerning a lottery conducted by that State acting under authority of State law,”.
+1976—Subsec. (d). Pub. L. 94–525 substituted “a newspaper of general circulation containing advertisements,lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,” for “a newspaper of general circulation published in a State containing advertisements, lists of prizes, or information concerning a lottery conducted by that State acting under authority of State law,”.
 
 1975—Subsec. (d). Pub. L. 93–583 added subsec. (d).
 

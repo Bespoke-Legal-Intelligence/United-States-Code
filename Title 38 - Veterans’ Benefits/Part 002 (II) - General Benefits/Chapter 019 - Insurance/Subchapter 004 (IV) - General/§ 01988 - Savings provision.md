@@ -6,7 +6,7 @@ Nothing in this title or any amendment or repeal made by the Act enacting this t
 
 #### References in Text
 
-The War Risk Insurance Act, referred to in text, is act Sept. 2, 1914, ch. 293, 38 Stat. 711, as amended. Sections 600 and 601 of the World War Veterans’ Act, 1924 (act June 7, 1924, ch. 320, 43 Stat. 607, 629) repealed the War Risk Insurance Act subject to certain limitations provided in section 602 thereof.
+The War Risk Insurance Act, referred to in text, is act Sept. 2, 1914, ch. 293, 38 Stat. 711, as amended. Sections 600 and 601 of the World War Veterans’ Act, 1924\(act June 7, 1924, ch. 320, 43 Stat. 607, 629) repealed the War Risk Insurance Act subject to certain limitations provided in section 602 thereof.
 
 The World War Veterans’ Act, 1924, referred to in text, is act June 7, 1924, ch. 320, 43 Stat. 607, as amended, which was classified generally to chapter 10 (§§421 to 574) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, §14(51), Sept. 2, 1958, 72 Stat. 1271. For distribution of sections 421 to 574 of former Title 38 in this title, see Table preceding section 101 of this title.
 
@@ -28,7 +28,7 @@ Another prior section 2003, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, rela
 
 Prior sections 2003A and 2004 were renumbered sections 4103A and 4104 of this title, respectively.
 
-Another prior section 2004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, related to information necessary todetermine a veteran's entitlement to compensation and which all Federal departments and agencies were required to make available to State agencies or to the Secretary, prior to repeal by section 1(a) of Pub. L. 87–675.
+Another prior section 2004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, related to information necessary to determine a veteran's entitlement to compensation and which all Federal departments and agencies were required to make available to State agencies or to the Secretary, prior to repeal by section 1(a) of Pub. L. 87–675.
 
 Prior sections 2004A and 2005 were renumbered sections 4104A and 4105 of this title, respectively.
 

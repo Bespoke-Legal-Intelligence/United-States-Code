@@ -1,0 +1,116 @@
+### §1472. Research and innovation to improve services and results for children with disabilities
+
+#### (a) In general
+
+The Secretary shall make competitive grants to, or enter into contracts or cooperative agreements with, eligible entities to produce, and advance the use of, knowledge—
+
+&emsp;(1) to improve—
+
+&emsp;&emsp;(A) services provided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities; and
+
+&emsp;&emsp;(B) educational results for children with disabilities;
+
+&emsp;(2) to address the special needs of preschool-aged children and infants and toddlers with disabilities, including infants and toddlers who would be at risk of having substantial developmental delays if early intervention services were not provided to them;
+
+&emsp;(3) to address the specific problems of over-identification and under-identification of children with disabilities;
+
+&emsp;(4) to develop and implement effective strategies for addressing inappropriate behavior of students with disabilities in schools, including strategies to prevent children with emotional and behavioral problems from developing emotional disturbances that require the provision of special education and related services;
+
+&emsp;(5) to improve secondary and postsecondary education and transitional services for children with disabilities; and
+
+&emsp;(6) to address the range of special education, related services, and early intervention needs of children with disabilities who need significant levels of support to maximize their participation and learning in school and in the community.
+
+#### (b) New knowledge production; authorized activities
+
+#### (1) In general
+
+&emsp;In carrying out this section, the Secretary shall support activities, consistent with the objectives described in subsection (a) of this section, that lead to the production of new knowledge.
+
+#### (2) Authorized activities
+
+&emsp;Activities that may be carried out under this subsection include activities such as the following:
+
+&emsp;&emsp;(A) Expanding understanding of the relationships between learning characteristics of children with disabilities and the diverse ethnic, cultural, linguistic, social, and economic backgrounds of children with disabilities and their families.
+
+&emsp;&emsp;(B) Developing or identifying innovative, effective, and efficient curricula designs, instructional approaches, and strategies, and developing or identifying positive academic and social learning opportunities, that—
+
+&emsp;&emsp;&emsp;(i) enable children with disabilities to make effective transitions described in section 1474(b)(3)(C) of this title or transitions between educational settings; and
+
+&emsp;&emsp;&emsp;(ii) improve educational and transitional results for children with disabilities at all levels of the educational system in which the activities are carried out and, in particular, that improve the progress of the children, as measured by assessments within the general education curriculum involved.
+
+&emsp;&emsp;(C) Advancing the design of assessment tools and procedures that will accurately and efficiently determine the special instructional, learning, and behavioral needs of children with disabilities, especially within the context of general education.
+
+&emsp;&emsp;(D) Studying and promoting improved alignment and compatibility of general and special education reforms concerned with curricular and instructional reform, evaluation and accountability of such reforms, and administrative procedures.
+
+&emsp;&emsp;(E) Advancing the design, development, and integration of technology, assistive technology devices, media, and materials, to improve early intervention, educational, and transitional services and results for children with disabilities.
+
+&emsp;&emsp;(F) Improving designs, processes, and results of personnel preparation for personnel who provide services to children with disabilities through the acquisition of information on, and implementation of, research-based practices.
+
+&emsp;&emsp;(G) Advancing knowledge about the coordination of education with health and social services.
+
+&emsp;&emsp;(H) Producing information on the long-term impact of early intervention and education on results for individuals with disabilities through large-scale longitudinal studies.
+
+#### (c) Integration of research and practice; authorized activities
+
+#### (1) In general
+
+&emsp;In carrying out this section, the Secretary shall support activities, consistent with the objectives described in subsection (a) of this section, that integrate research and practice, including activities that support State systemic-change and local capacity-building and improvement efforts.
+
+#### (2) Authorized activities
+
+&emsp;Activities that may be carried out under this subsection include activities such as the following:
+
+&emsp;&emsp;(A) Model demonstration projects to apply and test research findings in typical service settings to determine the usability, effectiveness, and general applicability of such research findings in such areas as improving instructional methods, curricula, and tools, such as textbooks and media.
+
+&emsp;&emsp;(B) Demonstrating and applying research-based findings to facilitate systemic changes, related to the provision of services to children with disabilities, in policy, procedure, practice, and the training and use of personnel.
+
+&emsp;&emsp;(C) Promoting and demonstrating the coordination of early intervention and educational services for children with disabilities with services provided by health, rehabilitation, and social service agencies.
+
+&emsp;&emsp;(D) Identifying and disseminating solutions that overcome systemic barriers to the effective and efficient delivery of early intervention, educational, and transitional services to children with disabilities.
+
+#### (d) Improving use of professional knowledge; authorized activities
+
+#### (1) In general
+
+&emsp;In carrying out this section, the Secretary shall support activities, consistent with the objectives described in subsection (a) of this section, that improve the use of professional knowledge, including activities that support State systemic-change and local capacity-building and improvement efforts.
+
+#### (2) Authorized activities
+
+&emsp;Activities that may be carried out under this subsection include activities such as the following:
+
+&emsp;&emsp;(A) Synthesizing useful research and other information relating to the provision of services to children with disabilities, including effective practices.
+
+&emsp;&emsp;(B) Analyzing professional knowledge bases to advance an understanding of the relationships, and the effectiveness of practices, relating to the provision of services to children with disabilities.
+
+&emsp;&emsp;(C) Ensuring that research and related products are in appropriate formats for distribution to teachers, parents, and individuals with disabilities.
+
+&emsp;&emsp;(D) Enabling professionals, parents of children with disabilities, and other persons, to learn about, and implement, the findings of research, and successful practices developed in model demonstration projects, relating to the provision of services to children with disabilities.
+
+&emsp;&emsp;(E) Conducting outreach, and disseminating information relating to successful approaches to overcoming systemic barriers to the effective and efficient delivery of early intervention, educational, and transitional services, to personnel who provide services to children with disabilities.
+
+#### (e) Balance among activities and age ranges
+
+In carrying out this section, the Secretary shall ensure that there is an appropriate balance—
+
+&emsp;(1) among knowledge production, integration of research and practice, and use of professional knowledge; and
+
+&emsp;(2) across all age ranges of children with disabilities.
+
+#### (f) Applications
+
+An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (g) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1998 through 2002.
+
+(Pub. L. 91–230, title VI, §672, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 136.)
+
+#### Prior Provisions
+
+A prior section 1472, Pub. L. 91–230, title VI, §672, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1146; amended Pub. L. 100–630, title I, §108(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VIII, §801, title IX, §901(b)(162), (163), Oct. 30, 1990, 104 Stat. 1141, 1149; Pub. L. 102–119, §§12, 25(b), Oct. 7, 1991, 105 Stat. 595, 607, related to definitions, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1461, 1471 of this title.
+

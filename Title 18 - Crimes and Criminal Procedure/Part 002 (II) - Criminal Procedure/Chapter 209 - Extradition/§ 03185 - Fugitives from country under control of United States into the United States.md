@@ -40,7 +40,7 @@ No return or surrender shall be made of any person charged with the commission o
 
 If so held, such person shall be returned and surrendered to the authorities in control of such foreign country or territory on the order of the Secretary of State of the United States, and such authorities shall secure to such a person a fair and impartial trial.
 
-(June 25, 1948, ch. 645, 62 Stat. 823; May 24, 1949, ch. 139, §49, 63 Stat. 96; Nov. 10, 1986, Pub. L. 99–646, §87(c)(6), 100 Stat. 3623; Nov. 14, 1986, Pub. L. 99–654, §3(a)(6), 100 Stat. 3663.)
+(June 25, 1948, ch. 645, 62 Stat. 823; May 24, 1949, ch. 139, §49, 63 Stat. 96; Pub. L. 99–646, §87(c)(6), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(6), Nov. 14, 1986, 100 Stat. 3663.)
 
 #### Historical and Revision Notes
 

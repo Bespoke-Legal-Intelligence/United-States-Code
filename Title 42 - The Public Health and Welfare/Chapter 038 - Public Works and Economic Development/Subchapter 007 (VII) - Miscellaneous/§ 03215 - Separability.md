@@ -1,6 +1,0 @@
-### §3215. Separability
-
-Notwithstanding any other evidence of the intent of Congress, it is hereby declared to be the intent of Congress that if any provision of this chapter or the application thereof to any persons or circumstances shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this chapter or its application to other persons and circumstances, but shall be confined in its operation to the provision of this chapter or the application thereof to the persons and circumstances directly involved in the controversy in which such judgment shall have been rendered.
-
-(Pub. L. 89–136, title VII, §705, Aug. 26, 1965, 79 Stat. 573.)
-

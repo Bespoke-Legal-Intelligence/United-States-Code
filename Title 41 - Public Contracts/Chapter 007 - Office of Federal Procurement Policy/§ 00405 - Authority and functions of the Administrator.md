@@ -120,7 +120,7 @@ Nothing in this chapter shall be construed to—
 
 (1) The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—
 
-&emsp;(A) standards for evaluating past performance with respect to cost (when appropriate),schedule, compliance with technical or functional specifications, and other relevant performance factors that facilitate consistent and fair evaluation by all executive agencies;
+&emsp;(A) standards for evaluating past performance with respect to cost (when appropriate), schedule, compliance with technical or functional specifications, and other relevant performance factors that facilitate consistent and fair evaluation by all executive agencies;
 
 &emsp;(B) policies for the collection and maintenance of information on past contract performance that, to the maximum extent practicable, facilitate automated collection, maintenance, and dissemination of information and provide for ease of collection, maintenance, and dissemination of information by other methods, as necessary;
 
@@ -142,7 +142,7 @@ The Administrator shall submit to Congress, on an annual basis, an assessment of
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to contracts are classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of theAct relating to contracts are classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Subsec. (f). Pub. L. 100–679, §3(a)(4), substituted “The Administrator, wit
 
 Subsec. (c). Pub. L. 96–83, §4(b), substituted provisions relating to development and proposal of a central management system, for provisions setting forth limitation of authority to procurement from appropriated funds and provisions relating to a study and report of procurement from nonappropriated funds.
 
-Subsec. (d). Pub. L. 96–83, §4(c), substituted provisions setting forth the review, development, etc., functions of the Administrator with respect to procurement policies, regulations, procedures, and forms, procurement data, procurement personnel, and procurement contracts, for provisions setting forth the establishment, monitoring, etc., functions of the Administrator with respect to uniform procurement regulations, procurement policies, regulations, procedures, and forms, procurement data, and procurement personnel.
+Subsec. (d). Pub. L. 96–83, §4(c), substituted provisions setting forth the review, development, etc., functions of the Administrator with respect to procurement policies, regulations, procedures, and forms, procurement data, procurement personnel, and procurement contracts, for provisions setting forth the establishment, monitoring, etc., functions of the Administratorwith respect to uniform procurement regulations, procurement policies, regulations, procedures, and forms, procurement data, and procurement personnel.
 
 Subsec. (e). Pub. L. 96–83, §4(d), substituted provisions relating to consultation functions of the Administrator with respect to the development and implementation of the uniform procurement system, for provisions relating to the consultation functions of the Administrator with respect to the development of policies, regulations, procedures and forms to be authorized or prescribed by such Administrator.
 

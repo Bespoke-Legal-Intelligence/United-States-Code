@@ -2,7 +2,7 @@
 
 #### (a) Export price
 
-The term “export price” means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c) of this section.
+The term “export price” means the price at which the subject merchandise is first sold (oragreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c) of this section.
 
 #### (b) Constructed export price
 
@@ -86,7 +86,7 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 &emsp;&emsp;The term “total actual profit” means the total profit earned by the foreign producer, exporter, and affiliated parties described in subparagraph (C) with respect to the sale of the same merchandise for which total expenses are determined under such subparagraph.
 
-(June 17, 1930, ch. 497, title VII, §772, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat.181; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §614, 98 Stat. 3036; Dec. 8, 1994, Pub. L. 103–465, title II, §223, 108 Stat. 4876.)
+(June 17, 1930, ch. 497, title VII, §772, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 181; amended Pub. L. 98–573, title VI, §614, Oct. 30, 1984, 98 Stat. 3036; Pub. L. 103–465, title II, §223, Dec. 8, 1994, 108 Stat. 4876.)
 
 #### Amendments
 

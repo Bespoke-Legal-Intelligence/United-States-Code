@@ -4,7 +4,7 @@
 
 The Congress finds as follows:
 
-&emsp;(1) There is a substantial “mail-order bride” business in the United States. With approximately 200 companies in the United States, an estimated 2,000 to 3,500 men in the United States find wives through mail-order bride catalogs each year. However, there are no official statistics available on the number of mail-order brides entering the United States each year.
+&emsp;(1) There is a substantial “mail-order bride” business in the United States. With approximately 200 companies in the United States, anestimated 2,000 to 3,500 men in the United States find wives through mail-order bride catalogs each year. However, there are no official statistics available on the number of mail-order brides entering the United States each year.
 
 &emsp;(2) The companies engaged in the mail-order bride business earn substantial profits.
 
@@ -76,11 +76,13 @@ As used in this section:
 
 #### References in Text
 
-The Violence Against Women Act of 1994, referred to in subsec. (c)(5), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of Title 42, The Public Health and Welfare, and Tables.
+The Violence Against Women Act of 1994, referred to in subsec. (c)(5), is title IV of Pub. L. 103–322, Sept. 13,1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of Title 42, The Public Health and Welfare, and Tables.
 
 The Immigration Marriage Fraud Amendments of 1986, referred to in subsec. (c)(5), is Pub. L. 99–639, Nov. 10, 1986, 100 Stat. 3537. For complete classification of this Act to the Code, see Short Title of 1986 Amendments note set out under section 1101 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “1229b(b)(2)”.</i>
 

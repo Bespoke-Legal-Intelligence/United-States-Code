@@ -27,7 +27,7 @@
 | [411\.](%C2%A7%2000411%20-%20Travel%20and%20transportation%20allowances%20administrative%20provisions.md) | Travel and transportation allowances: administrative provisions. |
 | [411a.](%C2%A7%2000411a%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20convalescent%20leave.md) | Travel and transportation allowances: travel performed in connection with convalescent leave. |
 | [411b.](%C2%A7%2000411b%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20leave%20between%20consecutive%20overseas%20tours.md) | Travel and transportation allowances: travel performed in connection with leave between consecutive overseas tours. |
-| [411c.](%C2%A7%2000411c%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20leave%20from%20certain%20stations%20in%20foreign%20countries.md) | Travel and transportation allowances: travel performed in connection with leave from certain stations in foreign countries. |
+| [411c.](%C2%A7%2000411c%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20rest%20and%20recuperative%20leave%20from%20certain%20stations%20in%20foreign%E2%80%A6.md) | Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries. |
 | [411d.](%C2%A7%2000411d%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20personal%20emergencies%20for%20certain%20members%20and%20dependents.md) | Travel and transportation allowances: transportation incident to personal emergencies for certain members and dependents. |
 | [411e.](%C2%A7%2000411e%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20certain%20emergencies%20for%20members%20performing%20temporary%20duty.md) | Travel and transportation allowances: transportation incident to certain emergencies for members performing temporary duty. |
 | [411f.](%C2%A7%2000411f%20-%20Travel%20and%20transportation%20allowances%20transportation%20for%20survivors%20of%20deceased%20member%20to%20attend%20the%20member%27s%20burial%20ceremonies.md) | Travel and transportation allowances: transportation for survivors of deceased member to attend the member's burial ceremonies. |
@@ -61,6 +61,8 @@
 
 #### Amendments
 
+1998—Pub. L. 105–261, div. A, title VI, §633(b)(2), Oct. 17, 1998, 112 Stat. 2044, substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in item 411c.
+
 1997—Pub. L. 105–85, div. A, title VI, §603(c)(4), Nov. 18, 1997, 111 Stat. 1782, substituted “housing” for “quarters” in item 403 and struck out item 403a “Variable housing allowance”.
 
 1994—Pub. L. 103–337, div. A, title VI, §602(a)(2), Oct. 5, 1994, 108 Stat. 2781, added item 403b.
@@ -71,7 +73,7 @@
 
 1989—Pub. L. 101–189, div. A, title V, §502(b)(2), title VI, §624(a)(2), Nov. 29, 1989, 103 Stat. 1437, 1448, added items 406c and 433.
 
-1987—Pub. L. 100–180, div. A, title VI, §§611(a)(2), 614(a)(2), (d)(3), 615(a)(2), title XIII, §1314(c)(2), Dec. 4, 1987, 101 Stat. 1093–1096, 1176, substituted “leave between consecutive overseas tours” for “certain leave” in item 411b, added items 411g and 411h, inserted “and Vice Chairman” in item 413, added item 419, and redesignated former items 419 and 420 as 420 and 421, respectively.
+1987—Pub. L. 100–180, div. A, title VI, §§611(a)(2), 614(a)(2), (d)(3), 615(a)(2), title XIII, §1314(c)(2), Dec. 4,1987, 101 Stat. 1093–1096, 1176, substituted “leave between consecutive overseas tours” for “certain leave” in item 411b, added items 411g and 411h, inserted “and Vice Chairman” in item 413, added item 419, and redesignated former items 419 and 420 as 420 and 421, respectively.
 
 Pub. L. 100–26, §8(b)(1), Apr. 21, 1987, 101 Stat. 285, redesignated item 431 “Travel and transportation: members escorting certain dependents” as item 432.
 
@@ -144,7 +146,7 @@ This chapter is referred to in section 907 of this title; title 10 section 1051;
 - [&sect; 00411 - Travel and transportation allowances administrative provisions](%C2%A7%2000411%20-%20Travel%20and%20transportation%20allowances%20administrative%20provisions.md)
 - [&sect; 00411a - Travel and transportation allowances travel performed in connection with convalescent leave](%C2%A7%2000411a%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20convalescent%20leave.md)
 - [&sect; 00411b - Travel and transportation allowances travel performed in connection with leave between consecutive overseas tours](%C2%A7%2000411b%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20leave%20between%20consecutive%20overseas%20tours.md)
-- [&sect; 00411c - Travel and transportation allowances travel performed in connection with leave from certain stations in foreign countries](%C2%A7%2000411c%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20leave%20from%20certain%20stations%20in%20foreign%20countries.md)
+- [&sect; 00411c - Travel and transportation allowances travel performed in connection with rest and recuperative leave from certain stations in foreign&#8230;](%C2%A7%2000411c%20-%20Travel%20and%20transportation%20allowances%20travel%20performed%20in%20connection%20with%20rest%20and%20recuperative%20leave%20from%20certain%20stations%20in%20foreign%E2%80%A6.md)
 - [&sect; 00411d - Travel and transportation allowances transportation incident to personal emergencies for certain members and dependents](%C2%A7%2000411d%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20personal%20emergencies%20for%20certain%20members%20and%20dependents.md)
 - [&sect; 00411e - Travel and transportation allowances transportation incident to certain emergencies for members performing temporary duty](%C2%A7%2000411e%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20certain%20emergencies%20for%20members%20performing%20temporary%20duty.md)
 - [&sect; 00411f - Travel and transportation allowances transportation for survivors of deceased member to attend the member's burial ceremonies](%C2%A7%2000411f%20-%20Travel%20and%20transportation%20allowances%20transportation%20for%20survivors%20of%20deceased%20member%20to%20attend%20the%20member%27s%20burial%20ceremonies.md)

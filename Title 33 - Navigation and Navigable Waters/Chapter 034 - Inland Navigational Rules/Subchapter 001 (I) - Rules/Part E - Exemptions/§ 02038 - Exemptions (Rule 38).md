@@ -32,7 +32,7 @@ Any vessel or class of vessels, the keel of which is laid or which is at a corre
 
 #### References in Text
 
-Chapter 3 of this title, referred to in par. (a), was in the original “The Act of June 7, 1897 (30 Stat. 96), as amended (33 U.S.C. 154–232)”, which was repealed by section 8(a) of Pub. L. 96–591.
+Chapter 3 of this title, referred to in par. (a), was in the original “The Act of June 7, 1897 (30 Stat. 96), asamended (33 U.S.C. 154–232)”, which was repealed by section 8(a) of Pub. L. 96–591.
 
 Chapter 5 of this title, referred to in par. (b), was in the original “Section 4233 of the Revised Statutes (33 U.S.C. 301–356)”, which was repealed by section 8(a) of Pub. L. 96–591.
 

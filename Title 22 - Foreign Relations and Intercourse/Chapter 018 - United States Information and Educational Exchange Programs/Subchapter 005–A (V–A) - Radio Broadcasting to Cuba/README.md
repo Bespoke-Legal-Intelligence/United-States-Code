@@ -14,8 +14,8 @@ This subchapter is referred to in sections 6037, 6204 of this title.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01465 - Congressional findings and declaration of purposes](%C2%A7%2001465%20-%20Congressional%20findings%20and%20declaration%20of%20purposes.md)
-- [&sect; 01465a - Additional functions of United States Information Agency](%C2%A7%2001465a%20-%20Additional%20functions%20of%20United%20States%20Information%20Agency.md)
-- [&sect; 01465b - Cuba Service of Voice of America](%C2%A7%2001465b%20-%20Cuba%20Service%20of%20Voice%20of%20America.md)
+- [&sect; 01465a - Additional functions of Broadcasting Board of Governors](%C2%A7%2001465a%20-%20Additional%20functions%20of%20Broadcasting%20Board%20of%20Governors.md)
+- [&sect; 01465b - Cuba Service](%C2%A7%2001465b%20-%20Cuba%20Service.md)
 - [&sect; 01465c - Advisory Board for Cuba Broadcasting](%C2%A7%2001465c%20-%20Advisory%20Board%20for%20Cuba%20Broadcasting.md)
 - [&sect; 01465d - Assistance from other government agencies](%C2%A7%2001465d%20-%20Assistance%20from%20other%20government%20agencies.md)
 - [&sect; 01465e - Compensation for Cuban interference with broadcasting in United States](%C2%A7%2001465e%20-%20Compensation%20for%20Cuban%20interference%20with%20broadcasting%20in%20United%20States.md)

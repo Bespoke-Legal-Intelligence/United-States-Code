@@ -1,16 +1,26 @@
 ### §108. Limitations on exclusive rights: Reproduction by libraries and archives
 
-(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for alibrary or archives, or any of its employees acting within the scope of their employment, to reproduce no more than one copy or phonorecord of a work, or to distribute such copy or phonorecord, under the conditions specified by this section, if—
+(a) Except as otherwise provided in this title and notwithstanding the provisions of section 106, it is not an infringement of copyright for a library or archives, or any of its employees acting within the scope of their employment, to reproduce no more than one copy or phonorecord of a work, except as provided in subsections (b) and (c), or to distribute such copy or phonorecord, under the conditions specified by this section, if—
 
 &emsp;(1) the reproduction or distribution is made without any purpose of direct or indirect commercial advantage;
 
 &emsp;(2) the collections of the library or archives are (i) open to the public, or (ii) available not only to researchers affiliated with the library or archives or with the institution of which it is a part, but also to other persons doing research in a specialized field; and
 
-&emsp;(3) the reproduction or distribution of the work includes a notice of copyright.
+&emsp;(3) the reproduction or distribution of the work includes a notice of copyright that appears on the copy or phonorecord that is reproduced under the provisions of this section, or includes a legend stating that the work may be protected by copyright if no such notice can be found on the copy or phonorecord that is reproduced under the provisions of this section.
 
-(b) The rights of reproduction and distribution under this section apply to a copy or phonorecord of an unpublished work duplicated in facsimile form solely for purposes of preservation and security or for deposit for research use in another library or archives of the type described by clause (2) of subsection (a), if the copy or phonorecord reproduced is currently in the collections of the library or archives.
+(b) The rights of reproduction and distribution under this section apply to three copies or phonorecords of an unpublished work duplicated solely for purposes of preservation and security or for deposit for research use in another library or archives of the type described by clause (2) of subsection (a), if—
 
-(c) The right of reproduction under this section applies to a copy or phonorecord of a published work duplicated in facsimile form solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, if the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price.
+&emsp;(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and
+
+&emsp;(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives.
+
+(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if—
+
+&emsp;(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and
+
+&emsp;(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy.
+
+> For purposes of this subsection, a format shall be considered obsolete if the machine or device necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace.
 
 (d) The rights of reproduction and distribution under this section apply to a copy, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, of no more than one article or other contribution to a copyrighted collection or periodical issue, or to a copy or phonorecord of a small part of any other copyrighted work, if—
 
@@ -28,7 +38,7 @@
 
 &emsp;(1) shall be construed to impose liability for copyright infringement upon a library or archives or its employees for the unsupervised use of reproducing equipment located on its premises: <i>Provided</i>, That such equipment displays a notice that the making of a copy may be subject to the copyright law;
 
-&emsp;(2) excuses a person who uses such reproducing equipment or who requests a copy or phonorecord under subsection (d) from liability for copyright infringement for any such act, or for any later use of such copy or phonorecord, if it exceeds fair use as provided by section 107;
+&emsp;(2) excuses a person who uses such reproducing equipment or who requests a copy or phonorecord under subsection (d) from liability for copyright infringement for any suchact, or for any later use of such copy or phonorecord, if it exceeds fair use as provided by section 107;
 
 &emsp;(3) shall be construed to limit the reproduction and distribution by lending of a limited number of copies and excerpts by a library or archives of an audiovisual news program, subject to clauses (1), (2), and (3) of subsection (a); or
 
@@ -40,9 +50,21 @@
 
 &emsp;(2) engages in the systematic reproduction or distribution of single or multiple copies or phonorecords of material described in subsection (d): <i>Provided</i>, That nothing in this clause prevents a library or archives from participating in interlibrary arrangements that do not have, as their purpose or effect, that the library or archives receiving such copies or phonorecords for distribution does so in such aggregate quantities as to substitute for a subscription to or purchase of such work.
 
-(h) The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b) and (c), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).
+(h)(1) For purposes of this section, during the last 20 years of any term of copyright of a published work, a library or archives, including a nonprofit educational institution that functions as such, may reproduce, distribute, display, or perform in facsimile or digital form a copy or phonorecord of such work, or portions thereof, for purposes of preservation, scholarship, or research, if such library or archives has first determined, on the basis of a reasonable investigation, that none of the conditions set forth in subparagraphs (A), (B), and (C) of paragraph (2) apply.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, §301, June 26, 1992, 106 Stat. 272; Pub. L. 105–80, §12(a)(4), Nov. 13, 1997, 111 Stat. 1534.)
+(2) No reproduction, distribution, display, or performance is authorized under this subsection if—
+
+&emsp;(A) the work is subject to normal commercial exploitation;
+
+&emsp;(B) a copy or phonorecord of the work can be obtained at a reasonable price; or
+
+&emsp;(C) the copyright owner or its agent provides notice pursuant to regulations promulgated by the Register of Copyrights that either of the conditions set forth in subparagraphs (A) and (B) applies.
+
+(3) The exemption provided in this subsection does not apply to any subsequent uses by users other than such library or archives.
+
+(i) The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b) and (c), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, §301, June 26, 1992, 106 Stat. 272; Pub. L. 105–80, §12(a)(4), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, §104, Oct. 27, 1998, 112 Stat. 2829; Pub. L. 105–304, title IV, §404, Oct. 28, 1998, 112 Stat. 2889.)
 
 #### Historical and Revision Notes
 
@@ -76,7 +98,7 @@ The rights of reproduction and distribution under section 108 apply in the follo
 
 <b>Out-of-Print Works.</b> Subsection (e) authorizes the reproduction and distribution of a copy or phonorecord of an entire work under certain circumstances, if it has been established that a copy cannot be obtained at a fair price. The copy may be made by the library where the user makes his request or by another library pursuant to an interlibrary loan. The scope and nature of a reasonable investigation to determine that an unused copy cannot be obtained will vary according to the circumstances of a particular situation. It will always require recourse to commonly-known trade sources in the United States, and in the normal situation also to the publisher or other copyright owner (if the owner can be located at the address listed in the copyright registration), or an authorized reproducing service. It is further required that the copy become the property of the user, that the library or archives have no notice that the copy would be used for any purpose other than private study, scholarship, or research, and that the library or archives display prominently at the place where reproduction requests are accepted, and include on its order form, a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
-<b>General Exemptions.</b> Clause (1) of subsection (f) specifically exempts a library or archives or its employeesfrom liability for the unsupervised use of reproducing equipment located on its premises, provided that the reproducing equipment displays a notice that the making of a copy may be subject to the copyright law. Clause (2) of subsection (f) makes clear that this exemption of the library or archives does not extend to the person using such equipment or requesting such copy if the use exceeds fair use. Insofar as such person is concerned the copy or phonorecord made is not considered “lawfully” made for purposes of sections 109, 110 or other provisions of the title.
+<b>General Exemptions.</b> Clause (1) of subsection (f) specifically exempts a library or archives or its employees from liability for the unsupervised use of reproducing equipment located on its premises, provided that the reproducing equipment displays a notice that the making of a copy may be subject to the copyright law. Clause (2) of subsection (f) makes clear that this exemption of the library or archives does not extend to the person using such equipment or requesting such copy if the use exceeds fair use. Insofar as such person is concerned the copy or phonorecord made is not considered “lawfully” made for purposes of sections 109, 110 or other provisions of the title.
 
 Clause (3) provides that nothing in section 108 is intended to limit the reproduction and distribution by lending of a limited number of copies and excerpts of an audiovisual news program. This exemption is intended to apply to the daily newscasts of the national television networks, which report the major events of the day. It does not apply to documentary (except documentary programs involving news reporting as that term is used in section 107), magazine-format or other public affairs broadcasts dealing with subjects of general interest to the viewing public.
 
@@ -104,9 +126,37 @@ Although subsection (h) generally removes musical, graphic, and audiovisual work
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–304, §404(1)(A), (B), in introductory provisions, substituted “Except as otherwise provided in this title and notwithstanding” for “Notwithstanding” and inserted “, except as provided in subsections (b) and (c)” after “of a work”.
+
+Subsec. (a)(3). Pub. L. 105–304, §404(1)(C), inserted before period at end “that appears on the copy or phonorecord that is reproduced under the provisions of this section, or includes a legend stating that the work may be protected by copyright if no such notice can be found on the copy or phonorecord that is reproduced under the provisions of this section”.
+
+Subsec. (b). Pub. L. 105–304, §404(2), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, and substituted “if—
+
+&emsp;“(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and
+
+&emsp;“(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives.”
+
+> for “if the copy or phonorecord reproduced is currently in the collections of the library or archives.”
+
+Subsec. (c). Pub. L. 105–304, §404(3), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, inserted “or if the existing format in which the work is stored has become obsolete,” after “stolen,”, substituted “if—
+
+&emsp;“(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and
+
+&emsp;“(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy.”
+
+> for “if the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price.”, and inserted concluding provisions.
+
+Subsecs. (h), (i). Pub. L. 105–298 added subsec. (h) and redesignated former subsec. (h) as (i).
+
 1997—Subsec. (e). Pub. L. 105–80 substituted “fair price” for “pair price” in introductory provisions.
 
-1992—Subsec. (i). Pub. L. 102–307 struck out subsec. (i), which read as follows: “Five years from the effective date of this Act, and at five-year intervals thereafter, the Register of Copyrights, after consulting with representatives of authors, book and periodical publishers, and other owners of copyrighted materials, and with representatives of library users and librarians, shall submit to the Congress a report setting forth the extent to which this section has achieved the intended statutory balancing of the rights of creators, and the needs of users. The report should also describe anyproblems that may have arisen, and present legislative or other recommendations, if warranted.”
+1992—Subsec. (i). Pub. L. 102–307 struck out subsec. (i), which read as follows: “Five years from the effective date of this Act, and at five-year intervals thereafter, the Register of Copyrights, after consulting with representatives of authors, book and periodical publishers, and other owners of copyrighted materials, and with representatives of library users and librarians, shall submit to the Congress a report setting forth the extent to which this section has achieved the intended statutory balancing of the rights of creators, and the needs of users. The report should also describe any problems that may have arisen, and present legislative or other recommendations, if warranted.”
+
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–304, title IV, §407, Oct. 28, 1998, 112 Stat. 2905, provided that: “Except as otherwise provided in this title \[enacting section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 112, 114, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3 of Title 35, Patents, and enacting provisions set out as notes under sections 112 and 114 of this title\], this title and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\].”
+
+Pub. L. 105–298, title I, §106, Oct. 27, 1998, 112 Stat. 2829, provided that: “This title \[amending this section and sections 203 and 301 to 304 of this title, enacting provisions set out as a note under section 101 of this title, and amending provisions set out as notes undersections 101 and 304 of this title\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 27, 1998\].”
 
 #### Cross References
 

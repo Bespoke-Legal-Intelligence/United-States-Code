@@ -2,11 +2,11 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of itslegitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
-It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country, with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
+It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistanceprogram of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country, with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
@@ -34,7 +34,7 @@ The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 
 
 #### References to Foreign Military Sales Act Deemed Reference to Arms Export Control Act
 
-Section 201(b) of Pub. L. 94–329 provided that: “Any reference to the Foreign Military Sales Act \[see Short Title note above\] shall be deemed to be a reference to the Arms Export Control Act.”
+Section 201(b) of Pub. L. 94–329 provided that: “Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act.”
 
 #### References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter
 
@@ -55,6 +55,10 @@ Section 45(c) of Pub. L. 90–629 provided that: “References in law to the pro
 #### Effective Date
 
 Section 41 of Pub. L. 90–629 provided that: “This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968.”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act \[amending section 2799aa–1 of this title and enacting provisions set out as notes under section 2799aa–1 of this title\] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
 
 #### Short Title of 1991 Amendment
 
@@ -140,7 +144,7 @@ Definitions.—As used in this section—
 
 &emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives; and
 
-“(2) the terms ‘defense article’ and ‘defense service’ have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[22 U.S.C. 2794(3), (4)\].
+“(2) the terms ‘defense article’ and ‘defense service’ have the meanings given to such terms by paragraphs\(3) and (4), respectively, of section 47 of the Arms Export Control Act \[22 U.S.C. 2794(3), (4)\].
 
 “(d)
 
@@ -282,6 +286,8 @@ Termination of Committee.—The committee shall cease to exist at the end of Sep
 
 &emsp;“(2) The term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a).”
 
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
 #### Restriction on Arms Sales to Saudi Arabia and Kuwait
 
 Pub. L. 102–229, title I, §104, Dec. 12, 1991, 105 Stat. 1707, provided that:
@@ -304,7 +310,7 @@ Pub. L. 102–190, div. A, title X, §1097, Dec. 5, 1991, 105 Stat. 1489, as ame
 
 “(a)
 
-Report Required.—(1) The President shall submit to the Committee on National Security and the Committee on International Relations of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate an annual report on the transfer by any country of weapons, technology, or materials that can be used to deliver, manufacture, or weaponize nuclear, biological, or chemical weapons (hereinafter in this section referred to as ‘NBC weapons’) to any country other than a country referred to in subsection (d) that is seeking to acquire such weapons, technology, or materials, or other system that the Secretary of Defense has reason to believe could be used to deliver NBC weapons.
+Report Required.—(1) The President shall submit to the Committee on National Security \[now Committee on Armed Services\] and the Committee on International Relations of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate an annual report on the transfer by any country of weapons, technology, or materials that can be used to deliver, manufacture, or weaponize nuclear, biological, or chemical weapons (hereinafter in this section referred to as ‘NBC weapons’) to any country other than a country referred to in subsection (d) that is seeking to acquire such weapons, technology, or materials, or other system that the Secretary of Defense has reason to believe could be used to deliver NBC weapons.
 
 “(2) The first such report shall be submitted not later than 90 days after the date of the enactment of this Act \[Dec. 5, 1991\].
 
@@ -322,7 +328,7 @@ Matters To Be Covered.—Each such report shall cover—
 
 Content of Report.—Each such report shall include the following:
 
-&emsp;“(1) The status of missile, aircraft, and other weapons delivery and weaponization programs in any suchcountry, including efforts by such country to acquire MTCR equipment, NBC-capable aircraft, or any other weapon or major weapon component which is dedicated to the delivery of NBC weapons, whose primary use is the delivery of NBC weapons, or that the Secretary has reason to believe could be used to deliver NBC weapons.
+&emsp;“(1) The status of missile, aircraft, and other weapons delivery and weaponization programs in any such country, including efforts by such country to acquire MTCR equipment, NBC-capable aircraft, or any other weapon or major weapon component which is dedicated to the delivery of NBC weapons, whose primary use is the delivery of NBC weapons, or that the Secretary has reason to believe could be used to deliver NBC weapons.
 
 &emsp;“(2) The status of NBC weapons development, manufacture, and deployment programs in any such country, including efforts to acquire essential test equipment, manufacturing equipment and technology, weaponization equipment and technology, and radioactive material, feedstocks or components of feedstocks, and biological cultures and toxins.
 
@@ -336,7 +342,7 @@ Content of Report.—Each such report shall include the following:
 
 &emsp;“(4) A listing of those persons and countries which continue to provide such equipment or technology described in paragraph (3) to any country as of the date of submission of the report.
 
-&emsp;“(5) A description of the diplomatic measures that the United States, and that other adherents to the MTCR and other agreements affecting the acquisition and delivery of NBC weapons, have made with respect to activities and private persons and governments suspected of violating the MTCR and such other agreements.
+&emsp;“(5) A description of the diplomatic measures that the United States, and that other adherents to theMTCR and other agreements affecting the acquisition and delivery of NBC weapons, have made with respect to activities and private persons and governments suspected of violating the MTCR and such other agreements.
 
 &emsp;“(6) An analysis of the effectiveness of the regulatory and enforcement regimes of the United States and other countries that adhere to the MTCR and other agreements affecting the acquisition and delivery of NBC weapons in controlling the export of MTCR and other NBC weapons and delivery system equipment or technology.
 
@@ -388,7 +394,7 @@ Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecti
 
 #### Study by President of National Security and Military Implications of International Transfers of Technology; Scope of Study; Utilization of Executive Departments and Agencies
 
-Pub. L. 95–92, §24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, §734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United StatesGovernment with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
+Pub. L. 95–92, §24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, §734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
 
 #### Statement of Policy Regarding United States Arms Sales to Israel
 
@@ -442,13 +448,13 @@ Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 116
 
 #### Ex. Ord. No. 11958. Administration of Chapter
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187, provided:
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Arms Export Control Act, as amended (22 U.S.C. 2751 <i>et seq</i>.), and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Arms Export Control Act (22 U.S.C. 2751 et seq.), hereinafter referred to as the Act, and related legislation, are delegated as follows:
 
-(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3),\(c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transfer will strengthen the security of the United States and promote world peace.
+(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transfer will strengthen the security of the United States and promote world peace.
 
 (b) Those under Section 5 \[22 U.S.C. 2755\] to the Secretary of State.
 
@@ -458,7 +464,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged which is less than the market rate of interest.
 
-(f) Those under Sections 24, 27, and 28 of the Act \[22 U.S.C. 2764, 2767, former 2768\] to the Secretary of Defense. The Secretary of Defense, in implementing the functions delegated to him under Sections 24 and 27 \[22 U.S.C. 2764, 2767\], shall consult with the Secretary of State and the Secretary of the Treasury.
+(f) Those under Sections 24, 27, and 28 of the Act \[22 U.S.C. 2764, 2767, former 2768\] to the Secretary of Defense. The Secretary of Defense, in implementing thefunctions delegated to him under Sections 24 and 27 \[22 U.S.C. 2764, 2767\], shall consult with the Secretary of State and the Secretary of the Treasury.
 
 (g) Those under Section 25 of the Act \[22 U.S.C. 2765\] to the Secretary of State. The Secretary of Defense and the Director of the Arms Control and Disarmament Agency, within their respective areas of responsibility, shall assist the Secretary of State in the preparation of materials for presentation to the Congress under that Section.
 
@@ -468,7 +474,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (j) Those under Sections 36(a) and 36(b)(1) of the Act \[22 U.S.C. 2776(a), (b)(1)\], except with respect to the certification of an emergency as provided by subsection (b)(1), to the Secretary of Defense. The Secretary of Defense, in the implementation of the functions delegated to him under Sections 36(a) and (b)(1) shall consult with the Secretary of State, who shall, with respect to matters related to subparagraphs (D) and (I) of Section 36(b)(1), consult with the Director of the Arms Control and Disarmament Agency. With respect to those functions under Sections 36(a)(5) and (6), the Secretary of Defense shall consult with the Director of the Office of Management and Budget.
 
-(k) Those under Sections 36(c) and (d) of the Act \[22 U.S.C. 2776(c), (d)\] to the Secretary of State.
+(k) Those under Sections 36(c) and (d) of the Act \[22 U.S.C. 2776(c), (d)\] to the Secretary of State. Those under Section 36(e) of the Act, as added by Public Law 104–164 with respect to transmittals pursuant to Section 36(b) to the Secretary of Defense, and with respect to transmittals pursuant to Section 36(c), to the Secretary of State.
 
 (<i>l</i>) Those under Section 38 of the Act \[22 U.S.C. 2778\]:
 
@@ -480,17 +486,19 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (m) Those under Section 39(b) of the Act \[22 U.S.C. 2779(b)\] to the Secretary of State. In carrying out such functions, the Secretary of State shall consult with the Secretary of Defense as may be necessary to avoid interference in the application of Department of Defense regulations to sales made under Section 22 of the Act \[22 U.S.C. 2762\].
 
-(n) Those under Section 40A of the Act \[22 U.S.C. 2781\], as added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), to the Secretary of State.
+(n) Those under Section 40A of the Act \[22 U.S.C. 2785\], as added by Public Law 104–164, to the Secretary of State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
 
-(<i>o</i>) Those under Sections 42(c) and (f) of the Act \[22 U.S.C. 2791(c), (f)\] to the Secretary of Defense. The Secretary of Defense shall obtain the concurrence of the Secretary of State and the Secretary of the Treasury on any determination proposed under the authority of Section 42(c) of the Act \[22 U.S.C. 2791(c)\].
+(<i>o</i>) Those under Section 40A of the Act \[22 U.S.C. 2781\], as added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), to the Secretary of State.
 
-(p) Those under Sections 52(b) and 53 of the Act \[22 U.S.C. 2795a(b), 2795b\] to the Secretary of Defense.
+(p) Those under Sections 42(c) and (f) of the Act \[22 U.S.C. 2791(c), (f)\] to the Secretary of Defense. The Secretary of Defense shall obtain the concurrence of the Secretary of State and the Secretary of the Treasury on any determination proposed under the authority of Section 42(c) of the Act \[22 U.S.C. 2791(c)\].
 
-(q) Those under Sections 61 and 62(a) of the Act \[22 U.S.C. 2796, 2796a(a)\] to the Secretary of Defense.
+(q) Those under Sections 52(b) and 53 of the Act \[22 U.S.C. 2795a(b), former 2795b\] to the Secretary of Defense.
 
-(r) Those under Section 2(b)(6) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(6)) to the Secretary of State.
+(r) Those under Sections 61 and 62(a) of the Act \[22 U.S.C. 2796, 2796a(a)\] to the Secretary of Defense.
 
-(s) Those under Section 588(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[Oct. 1, 1988, 102 Stat. 2268–51\], to the Secretary of Defense, except with respect to the determination of an emergency as provided by subsection (b)(3). The Secretary of Defense in implementation of the functions delegated to him under section 588(b) shall consult with the Secretary of State.
+(s) Those under Section 2(b)(6) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(6)) to the Secretary of State.
+
+(t) Those under Section 588(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[Oct. 1, 1988, 102 Stat. 2268–51\], to the Secretary of Defense, except with respect to the determination of an emergency as provided by subsection (b)(3). The Secretary of Defense in implementation of the functions delegated to him under section 588(b) shall consult with the Secretary of State.
 
 Sec. 2. <i>Coordination</i>. (a) In addition to the specific provisions of Section 1 of this Order, the Secretary of State and the Secretary of Defense, in carrying out the functions delegated to them under this Order, shall consult with each other and with the heads of other departments and agencies, including the Secretary of the Treasury, the Director of the United States International Development Cooperation Agency, the Director of the Arms Control and Disarmament Agency, and the Chairman of the Export-Import Bank, on matters pertaining to their responsibilities.
 
@@ -499,4 +507,8 @@ Sec. 2. <i>Coordination</i>. (a) In addition to the specific provisions of Secti
 Sec. 3. <i>Allocation of Funds</i>. Funds appropriated to the President for carrying out the Act shall be deemed to be allocated to the Secretary of Defense without any further action of the President.
 
 Sec. 4. <i>Revocation</i>. Executive Order No. 11501, as amended, is revoked; except that, to the extent consistent with this Order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made, issued, taken or entered into under the provisions of Executive Order No. 11501, as amended, and not revoked, superseded or otherwise made inapplicable, shall continue in full force and effect until amended, modified or terminated by appropriate authority.
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
+\[For abolition of United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation), transfer of functions, and treatment of references thereto, see sections 6561, 6562, and 6571 of this title.\]
 

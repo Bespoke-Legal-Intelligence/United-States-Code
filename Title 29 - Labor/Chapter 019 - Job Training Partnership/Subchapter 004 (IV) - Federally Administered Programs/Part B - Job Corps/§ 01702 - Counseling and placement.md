@@ -10,11 +10,15 @@ The Secretary shall counsel and test enrollees prior to their scheduled terminat
 
 #### (c) Provision for further education, training, and counseling
 
-The Secretary shall determine the status and progress of enrollees scheduled for terminationand make every effort to assure that their needs for further education, training, and counseling are met.
+The Secretary shall determine the status and progress of enrollees scheduled for termination and make every effort to assure that their needs for further education, training, and counseling are met.
 
 #### (d) Payment of readjustment allowance to former enrollees
 
 The Secretary shall arrange for the readjustment allowance to be paid to former enrollees (who have not already found employment) at the State employment service office nearest the home of any such former enrollee who is returning home, or at the nearest such office where the former enrollee has indicated an intent to reside. If the Secretary uses any other public agency or private organization in lieu of the public employment service system, the Secretary shall arrange for that organization or agency to pay the readjustment allowance.
 
 (Pub. L. 97–300, title IV, §432, Oct. 13, 1982, 96 Stat. 1376.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 

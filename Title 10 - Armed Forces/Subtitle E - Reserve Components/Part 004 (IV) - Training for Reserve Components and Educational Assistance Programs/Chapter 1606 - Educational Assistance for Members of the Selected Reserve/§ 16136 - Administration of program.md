@@ -8,13 +8,15 @@
 
 &emsp;(1) such training is generally accepted as necessary for the attainment of a recognized vocational objective in the field of aviation;
 
-&emsp;(2) the individual possesses a valid private pilot's license and meets the medical requirements necessary for a commercial pilot's license; and
+&emsp;(2) the individual possesses a valid private pilot certificate and meets, on the day the individual begins a course of flight training, the medical requirements necessary for a commercial pilot certificate; and
 
 &emsp;(3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
-(Added Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2567, §2136; amended Pub. L. 101–189, div. A, title VI, §§642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, §1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, §10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L. 102–568, title III, §§313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered §16136, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, §601(c), Nov. 2, 1994, 108 Stat. 4670.)
+(Added Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2567, §2136; amended Pub. L. 101–189, div. A, title VI, §§642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, §1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, §10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L.102–568, title III, §§313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered §16136, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, §601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §204(b), Nov. 11, 1998, 112 Stat. 3327.)
 
 #### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–245 substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
 
 1994—Pub. L. 103–337 renumbered section 2136 of this title as this section.
 
@@ -37,6 +39,10 @@ Subsec. (b). Pub. L. 101–237, §405(d)(3), inserted reference to section 1685 
 Pub. L. 101–189, §642(c), amended first sentence generally and substituted “and the term ‘a person’, as used” for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
 
 Subsec. (c). Pub. L. 101–237, §422(b)(1), added subsec. (c).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–368, title II, §204(c), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by this section \[amending this section and sections 3034 and 3241 of Title 38, Veterans’ Benefits\] shall apply with respect to courses of flight training beginning on or after October 1, 1998.”
 
 #### Effective Date of 1994 Amendment
 

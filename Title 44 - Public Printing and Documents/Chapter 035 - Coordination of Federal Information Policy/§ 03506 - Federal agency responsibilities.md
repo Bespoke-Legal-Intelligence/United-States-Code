@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) in cooperation with the agency Chief Financial Officer (or comparable official), develop a full and accurate accounting of information technology expenditures, related expenses, and results; and
 
-&emsp;&emsp;(C) establish goals for improving information resources management's contribution to program productivity, efficiency, and effectiveness, methods for measuring progress towards those goals, and clear roles and responsibilities for achieving those goals;
+&emsp;&emsp;(C) establish goals for improving information resources management's contribution to program productivity, efficiency, and effectiveness, methods for measuring progresstowards those goals, and clear roles and responsibilities for achieving those goals;
 
 &emsp;(4) in consultation with the Director, the Administrator of General Services, and the Archivist of the United States, maintain a current and complete inventory of the agency's information resources, including directories necessary to fulfill the requirements of section 3511 of this chapter; and
 
@@ -184,7 +184,7 @@
 
 #### References in Text
 
-The Computer Security Act of 1987, referred to in subsec. (g)(2), (3), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and former section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Computer Security Act of 1987, referred to in subsec. (g)(2), (3), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and former section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out asnotes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 Ex. Ord. No. 13073, Feb. 4, 1998, 63 F.R. 6467, provided:
 
-The American people expect reliable service from their Government and deserve the confidence that critical government functions dependent on electronic systems will be performed accurately and in a timely manner. Because of a design feature in many electronic systems, a large number of activities in the public and private sectors could be at risk beginning in the year 2000.Some computer systems and other electronic devices will misinterpret the year “00” as 1900, rather than 2000. Unless appropriate action is taken, this flaw, known as the “Y2K problem,” can cause systems that support those functions to compute erroneously or simply not run. Minimizing the Y2K problem will require a major technological and managerial effort, and it is critical that the United States Government do its part in addressing this challenge.
+The American people expect reliable service from their Government and deserve the confidence that critical government functions dependent on electronic systems will be performed accurately and in a timely manner. Because of a design feature in many electronic systems, a large number of activities in the public and private sectors could be at risk beginning in the year 2000. Some computer systems and other electronic devices will misinterpret the year “00” as 1900, rather than 2000. Unless appropriate action is taken, this flaw, known as the “Y2K problem,” can cause systems that support those functions to compute erroneously or simply not run. Minimizing the Y2K problem will require a major technological and managerial effort, and it is critical that the United States Government do its part in addressing this challenge.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -254,7 +254,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3505, 3507 of this title; title 38 sections 308, 310; title 40 sections 1422, 1423, 1427, 1441.
+This section is referred to in sections 3505, 3507 of this title; title 10 section 2223; title 38 sections 308, 310; title 40 sections 1422, 1423, 1427, 1441.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -54,6 +54,10 @@ The Endangered Species Act, referred to in subsec. (a)(10), probably means the E
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–312, title III, §301, Oct. 30, 1998, 112 Stat. 2958, provided that: “This title \[amending sections 3744 and 4406 of this title and enacting provisions set out as a note under section 4403 of this title\] may be cited as the ‘Wetlands and Wildlife Enhancement Act of 1998’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–375, §1, Oct. 19, 1994, 108 Stat. 3494, provided that: “This Act \[enacting section 4414 of this title and amending sections 3742 to 3744, 3955, 4406, 4407, 4409, and 4410 of this title\] may be cited as the ‘North American Wetlands Conservation Act Amendments of 1994’.”

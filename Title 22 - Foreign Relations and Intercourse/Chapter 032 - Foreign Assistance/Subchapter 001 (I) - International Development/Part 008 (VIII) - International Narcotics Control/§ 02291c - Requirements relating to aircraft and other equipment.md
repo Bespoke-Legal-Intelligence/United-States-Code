@@ -50,7 +50,7 @@ The text of subsecs. (a) and (b) of section 2291h of this title, which were rede
 
 #### Amendments
 
-1992—Pub. L. 102–583, §4(f)(1), amended section generally, substituting subsec. (a) for former text which read as follows: “Any aircraft which, at any time after October 27, 1986, are made available to a foreign country under this part, or are made available to a foreign country primarily for narcotics-related purposes under any other provision of law, shall be provided only on a lease or loan basis. The requirement of this section does not apply with respect to aircraft made available to a foreign country under section 635(b)(6)(B) of title 12 or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
+1992—Pub. L. 102–583, §4(f)(1), amended section generally, substituting subsec. (a) for former text which read as follows: “Any aircraft which, at any time after October 27, 1986, are made available to a foreign country under this part, or are made available to a foreign country primarily for narcotics-related purposes under any other provision of law, shall be provided only on alease or loan basis. The requirement of this section does not apply with respect to aircraft made available to a foreign country under section 635(b)(6)(B) of title 12 or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
 
 Subsecs. (b), (c). Pub. L. 102–583, §4(f)(2)(D), redesignated subsecs. (a) and (b) of section 2291h of this title as subsecs. (b) and (c), respectively, of this section. See Codification note above.
 
@@ -72,7 +72,7 @@ Requirement for Replacement of United States Government Pilots by Host Country P
 
 Aircraft Subject to Requirements.—As used in this section, the term ‘host country aircraft’ means any aircraft made available to an Andean country by the United States Government under chapter 8 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291 et seq.\], or any other provision of law, for use by that country for narcotics-related purposes.”
 
-\[Functions of President under section 13 of Pub. L. 101–623, set out above, delegated to Secretary of State in consultation with Secretary of Defense by Determination of President of the United States, No. 91–20,Jan. 25, 1991, 56 F.R. 8681, set out as a note under section 2291 of this title.\]
+\[Functions of President under section 13 of Pub. L. 101–623, set out above, delegated to Secretary of State in consultation with Secretary of Defense by Determination of President of the United States, No. 91–20, Jan. 25, 1991, 56 F.R. 8681, set out as a note under section 2291 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §5154. State taxation
 
-A State or a territory or possession of the United States may tax United States coins and currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) as money on hand or on deposit in the same way and at the same rate that the State, territory, or possession taxes other forms of money. This section does not affect a law taxing national banks.
+A State or a territory or possession of the United States may tax United States coins andcurrency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) as money on hand or on deposit in the same way and at the same rate that the State, territory, or possession taxes other forms of money. This section does not affect a law taxing national banks.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 992; Pub. L. 97–452, §1(22), Jan. 12, 1983, 96 Stat. 2477.)
 

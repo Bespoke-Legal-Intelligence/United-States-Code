@@ -48,7 +48,7 @@ It is unlawful to import into the United States any of the following:
 
 &emsp;(2) Any marine mammal product if—
 
-&emsp;&emsp;(A) the importation into the United States of the marine mammal from which such product is made is unlawful under paragraph (1) of this subsection; or
+&emsp;&emsp;(A) the importation into the United States of the marine mammal from which suchproduct is made is unlawful under paragraph (1) of this subsection; or
 
 &emsp;&emsp;(B) the sale in commerce of such product in the country of origin of the product is illegal;
 
@@ -64,7 +64,7 @@ Subsections (b) and (c) of this section shall not apply—
 
 #### (e) Retroactive effect
 
-This chapter shall not apply with respect to any marine mammal taken before the effectivedate of this chapter, or to any marine mammal product consisting of, or composed in whole or in part of, any marine mammal taken before such date.
+This chapter shall not apply with respect to any marine mammal taken before the effective date of this chapter, or to any marine mammal product consisting of, or composed in whole or in part of, any marine mammal taken before such date.
 
 #### (f) Commercial taking of whales
 

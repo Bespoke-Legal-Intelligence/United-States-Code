@@ -12,7 +12,7 @@ The Secretary is authorized to conduct and support by grant or contract (and enc
 
 &emsp;(5) The development of models and standards for the publication by States, insurance carriers, prepaid health plans, and others of information for use by the public respecting health insurance policies and prepaid health plans, including information on the benefits provided by the various types of such policies and plans, the premium charges for such policies and plans, exclusions from coverage or eligibility for coverage, cost sharing requirements, and the ratio of the amounts paid as benefits to the amounts received as premiums and information to enable the public to make relevant comparisons of the costs and benefits of such policies and plans.
 
-(July 1, 1944, ch. 373, title XVII, §1704, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 698; amended Oct. 30, 1984, Pub. L. 98–551, §2(b), 98 Stat. 2816.)
+(July 1, 1944, ch. 373, title XVII, §1704, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 698; amended Pub. L. 98–551, §2(b), Oct. 30, 1984, 98 Stat. 2816.)
 
 #### Amendments
 

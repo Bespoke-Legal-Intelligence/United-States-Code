@@ -2,7 +2,7 @@
 
 The Secretary of Commerce is authorized to create an advisory committee to consist of a representative from each of the Departments of State, Agriculture, and Commerce, the Interstate Commerce Commission, and the Department of Transportation, as may be designated by such Departments or agencies, respectively, and such additional members, representatives of the various sections of the Nation, including transportation and accommodations agencies, not to exceed six members, to be appointed by the Secretary of Commerce to serve at his pleasure. Meetings of the committee shall be held at the request of the Secretary for the purpose of making recommendations concerning the promotion of tourist travel under the provisions of sections 18 to 18d of this title. The members of the committee shall receive no compensation for their services as members, but shall be entitled to reimbursement for such necessary travel and other expenses in connection with their attendance at committee meetings as may be authorized or approved by the Secretary.
 
-(July 19, 1940, ch. 642, §3, 54 Stat. 773; Dec. 19, 1973, Pub. L. 93–193, §2, 87 Stat. 765; Aug. 6, 1981, Pub. L. 97–31, §12(10), 95 Stat. 154; Oct. 4, 1984, Pub. L. 98–443, §9(<i>o</i>), 98 Stat. 1708.)
+(July 19, 1940, ch. 642, §3, 54 Stat. 773; Pub. L. 93–193, §2, Dec. 19, 1973, 87 Stat. 765; Pub. L. 97–31, §12(10), Aug. 6, 1981, 95 Stat. 154; Pub. L. 98–443, §9(<i>o</i>), Oct. 4, 1984, 98 Stat. 1708.)
 
 #### Amendments
 
@@ -16,11 +16,11 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Transfer of Functions
 
-Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under section 18 of this title.
+Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior bysection 2 of Pub. L. 93–193. See Transfer of Functions note set out under section 18 of this title.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer toSurface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Termination of Advisory Committees
 

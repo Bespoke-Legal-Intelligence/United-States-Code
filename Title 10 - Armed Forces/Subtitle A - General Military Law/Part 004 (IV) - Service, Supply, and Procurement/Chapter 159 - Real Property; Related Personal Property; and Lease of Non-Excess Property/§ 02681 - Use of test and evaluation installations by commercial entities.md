@@ -38,21 +38,17 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) construction specifically performed for a commercial entity to conduct test and evaluation activities.
 
-(g)
-
-Termination of Authority.—The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 2002.
-
-(h)
-
-Report.—Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report identifying existing and proposed procedures to ensure that the use of Major Range and Test Facility Installations by commercial entities does not compete with private sector test and evaluation services.
-
-(Added Pub. L. 103–160, div. A, title VIII, §846(a), Nov. 30, 1993, 107 Stat. 1722; amended Pub. L. 105–85, div. A, title VIII, §842, Nov. 18, 1997, 111 Stat. 1844.)
+(Added Pub. L. 103–160, div. A, title VIII, §846(a), Nov. 30, 1993, 107 Stat. 1722; amended Pub. L. 105–85, div. A, title VIII, §842, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 105–261, div. A, title VIII, §820, Oct. 17, 1998, 112 Stat. 2090.)
 
 #### Prior Provisions
 
 A prior section, added Pub. L. 87–651, title II, §209(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 88–174, title V, §508, Nov. 7, 1963, 77 Stat. 326; Pub. L. 96–513, title V, §511(93), Dec. 12, 1980, 94 Stat. 2928, related to construction or acquisition of family housing and community facilities in foreign countries, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–261, §820(a), struck out heading and text of subsec. (g). Text read as follows: “The authority provided to the Secretary of Defense by subsection (a) shall terminate on September 30, 2002.”
+
+Subsec. (h). Pub. L. 105–261, §820(b), struck out heading and text of subsec. (h). Text read as follows: “Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report identifying existing and proposed procedures to ensure that the use of Major Range and Test Facility Installations by commercial entities does not compete with private sector test and evaluation services.”
 
 1997—Subsec. (g). Pub. L. 105–85, §842(a), substituted “2002” for “1998”.
 

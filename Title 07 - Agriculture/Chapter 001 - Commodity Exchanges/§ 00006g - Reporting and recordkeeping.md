@@ -24,7 +24,7 @@ Before the beginning of trading each day, the exchange shall, insofar as is prac
 
 Nothing contained in this section shall be construed to prohibit the Commission from making separate determinations for different clearinghouses, contract markets, and exchanges when such determinations are warranted in the judgment of the Commission.
 
-(Sept. 21, 1922, ch. 369, §4g, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Feb. 19, 1968, Pub. L. 90–258, §8, 82 Stat. 28; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), (f), title IV, §415, 88 Stat. 1392, 1415; Sept. 30, 1978, Pub. L. 95–405, §6, 92 Stat. 869; Jan. 11, 1983, Pub. L. 97–444, title II, §209, 96 Stat. 2302; Oct. 28, 1992, Pub. L. 102–546, title II, §207(b)(1), title IV, §402(5), 106 Stat. 3604, 3624.)
+(Sept. 21, 1922, ch. 369, §4g, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), title IV, §415, Oct. 23, 1974, 88 Stat. 1392, 1415; Pub. L. 95–405, §6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §207(b)(1), title IV, §402(5), Oct. 28, 1992, 106 Stat. 3604, 3624.)
 
 #### Amendments
 

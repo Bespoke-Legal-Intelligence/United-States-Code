@@ -16,7 +16,7 @@
 
 &emsp;(3) the term “Indian tribe” means—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group orcommunity which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
 
 &emsp;&emsp;(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and
 
@@ -24,7 +24,7 @@
 
 (d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; Nov. 29, 1990, Pub. L. 101–644, title I, §104(a), 104 Stat. 4663.)
+(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat. 4663.)
 
 #### Historical and Revision Notes
 
@@ -44,7 +44,7 @@ Minor changes were made in phraseology.
 
 #### Certification of Indian Artisans
 
-For purposes of this section, an Indian tribe may not impose fee to certify individual as Indian artisan, with “Indian tribe” having same meaning as in subsec. (c)(3) of this section, see section 107 of Pub. L. 101–644, set out as a note under section 305e of Title 25, Indians.
+For purposes of this section, an Indian tribe may not impose fee to certify individual as Indian artisan, with“Indian tribe” having same meaning as in subsec. (c)(3) of this section, see section 107 of Pub. L. 101–644, set out as a note under section 305e of Title 25, Indians.
 
 #### Admission of Alaska as State
 

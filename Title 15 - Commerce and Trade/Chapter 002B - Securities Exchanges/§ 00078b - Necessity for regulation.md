@@ -1,6 +1,6 @@
 ### §78b. Necessity for regulation
 
-For the reasons hereinafter enumerated, transactions in securities as commonly conducted upon securities exchanges and over-the-counter markets are affected with a national public interest which makes it necessary to provide for regulation and control of such transactions and of practices and matters related thereto, including transactions by officers, directors, and principal security holders, to require appropriate reports to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguardingof securities and funds related thereto, and to impose requirements necessary to make such regulation and control reasonably complete and effective, in order to protect interstate commerce, the national credit, the Federal taxing power, to protect and make more effective the national banking system and Federal Reserve System, and to insure the maintenance of fair and honest markets in such transactions:
+For the reasons hereinafter enumerated, transactions in securities as commonly conducted upon securities exchanges and over-the-counter markets are affected with a national public interest which makes it necessary to provide for regulation and control of such transactions and of practices and matters related thereto, including transactions by officers, directors, and principal security holders, to require appropriate reports to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto, and to impose requirements necessary to make such regulation and control reasonably complete and effective, in order to protect interstate commerce, the national credit, the Federal taxing power, to protect and make more effective the national banking system and Federal Reserve System, and to insure the maintenance of fair and honest markets in such transactions:
 
 &emsp;(1) Such transactions (a) are carried on in large volume by the public generally and in large part originate outside the States in which the exchanges and over-the-counter markets are located and/or are effected by means of the mails and instrumentalities of interstate commerce; (b) constitute an important part of the current of interstate commerce; (c) involve in large part the securities of issuers engaged in interstate commerce; (d) involve the use of credit, directly affect the financing of trade, industry, and transportation in interstate commerce, and directly affect and influence the volume of interstate commerce; and affect the national credit.
 
@@ -10,7 +10,7 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 &emsp;(4) National emergencies, which produce widespread unemployment and the dislocation of trade, transportation, and industry, and which burden interstate commerce and adversely affect the general welfare, are precipitated, intensified, and prolonged by manipulation and sudden and unreasonable fluctuations of security prices and by excessive speculation on such exchanges and markets, and to meet such emergencies the Federal Government is put to such great expense as to burden the national credit.
 
-(June 6, 1934, ch. 404, title I, §2, 48 Stat. 881; June 4, 1975, Pub. L. 94–29, §2, 89 Stat. 97.)
+(June 6, 1934, ch. 404, title I, §2, 48 Stat. 881; Pub. L. 94–29, §2, June 4, 1975, 89 Stat. 97.)
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Pub. L. 93–479, Oct. 26, 1974, 88 Stat. 1450, directed Secretary of the Treasu
 
 Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779; Ex. Ord. No. 12860, Sept. 3, 1993, 58 F.R. 47201, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Act of February 14, 1903, as amended (15 U.S.C. 1501 et seq.), section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a), and section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Act of February 14, 1903, as amended (15 U.S.C. 1501 et seq.), section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a), and section 301 oftitle 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. (a) There is hereby established the Committee on Foreign Investment in the United States (hereinafter referred to as the Committee). The Committee shall be composed of the following:
 

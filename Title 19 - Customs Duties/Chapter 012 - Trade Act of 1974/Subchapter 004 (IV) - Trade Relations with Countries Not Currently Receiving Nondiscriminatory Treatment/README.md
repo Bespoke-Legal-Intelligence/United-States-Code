@@ -19,4 +19,4 @@ This subchapter is referred to in section 2191 of this title.
 - [&sect; 02438 - Payment by Czechoslovakia of amounts owed United States citizens and nationals](%C2%A7%2002438%20-%20Payment%20by%20Czechoslovakia%20of%20amounts%20owed%20United%20States%20citizens%20and%20nationals.md)
 - [&sect; 02439 - Freedom to emigrate to join a very close relative in United States](%C2%A7%2002439%20-%20Freedom%20to%20emigrate%20to%20join%20a%20very%20close%20relative%20in%20United%20States.md)
 - [&sect; 02440 - Repealed. Pub. L. 104&#8211;295, &sect;17, Oct. 11, 1996, 110 Stat. 3524](%C2%A7%2002440%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93295%2C%20%C2%A717%2C%20Oct.%2011%2C%201996%2C%20110%20Stat.%203524.md)
-- [&sect; 02441 - East-West Foreign Trade Board](%C2%A7%2002441%20-%20East-West%20Foreign%20Trade%20Board.md)
+- [&sect; 02441 - Repealed. Pub. L. 105&#8211;362, title XIV, &sect;1401(b)(2), Nov. 10, 1998, 112 Stat. 3294](%C2%A7%2002441%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XIV%2C%20%C2%A71401%28b%29%282%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203294.md)

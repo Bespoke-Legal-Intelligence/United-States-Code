@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(iii) require that such hospital's designated organ procurement agency (as defined in paragraph (3)(B)) is notified of potential organ donors;
 
-&emsp;(B) in the case of a hospital in which organ transplants are performed, the hospital is a member of, and abides by the rules and requirements of, the Organ Procurement andTransplantation Network established pursuant to section 274 of this title (in this section referred to as the “Network”); and
+&emsp;(B) in the case of a hospital in which organ transplants are performed, the hospital is a member of, and abides by the rules and requirements of, the Organ Procurement and Transplantation Network established pursuant to section 274 of this title (in this section referred to as the “Network”); and
 
 &emsp;(C) the hospital or critical access hospital has an agreement (as defined in paragraph (3)(A)) only with such hospital's designated organ procurement agency.
 
@@ -64,7 +64,7 @@
 
 (2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) of this title) under paragraph (1)(F).
 
-(Aug. 14, 1935, ch. 531, title XI, §1138, as added Oct. 21, 1986, Pub. L. 99–509, title IX, §9318(a), 100 Stat. 2009; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4039(h)(2), as added July 1, 1988, Pub. L. 100–360, title IV, §411(e)(3), 102 Stat. 775; amended Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), 103 Stat. 2153; Oct. 31, 1994, Pub. L. 103–432, title I, §155(a)(1), 108 Stat. 4438; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4201(c)(1), 4642, 111 Stat. 373, 487.)
+(Aug. 14, 1935, ch. 531, title XI, §1138, as added Pub. L. 99–509, title IX, §9318(a), Oct. 21, 1986, 100 Stat. 2009; amended Pub. L. 100–203, title IV, §4039(h)(2), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; amended Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 103–432, title I, §155(a)(1), Oct. 31, 1994, 108 Stat. 4438; Pub. L. 105–33, title IV, §§4201(c)(1), 4642, Aug. 5, 1997, 111 Stat. 373, 487.)
 
 #### Amendments
 

@@ -1,8 +1,8 @@
 ### §322. Annual appropriation
 
-There is annually appropriated, out of any money in the Treasury not otherwise appropriated, to be paid as provided in section 324 of this title, to each State and Territory for the more complete endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts established in accordance with the provisions of subchapter I of this chapter, $50,000 to be applied only to instruction in food and agricultural sciences, and to the facilities for such instruction: <i>Provided</i>, That said colleges may use a portion of this money for providing courses for the special preparation of instructors for teaching the elements of food and agricultural sciences.
+There is annually appropriated, out of any money in the Treasury not otherwise appropriated, to be paid as provided in section 324 of this title, to each State and Territory for the more complete endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts established in accordance with the provisions of subchapter I of this chapter, $50,000 to be applied only to instruction in food and agricultural sciences, and to the facilities for such instruction: <i>Provided</i>, That said colleges may use a portion of this money for providingcourses for the special preparation of instructors for teaching the elements of food and agricultural sciences.
 
-(Aug. 30, 1890, ch. 841, §1, 26 Stat. 417; Mar. 4, 1907, ch. 2907, 34 Stat. 1281, 1282; Dec. 22, 1981, Pub. L. 97–98, title XIV, §1421, 95 Stat. 1306.)
+(Aug. 30, 1890, ch. 841, §1, 26 Stat. 417; Mar. 4, 1907, ch. 2907, 34 Stat. 1281, 1282; Pub. L. 97–98, title XIV, §1421, Dec. 22, 1981, 95 Stat. 1306.)
 
 #### Codification
 

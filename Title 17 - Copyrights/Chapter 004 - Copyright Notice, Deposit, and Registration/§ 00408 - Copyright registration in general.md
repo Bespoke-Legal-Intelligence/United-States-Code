@@ -66,7 +66,7 @@ With respect to works published in the United States, a single deposit could be 
 
 Where the copies or phonorecords are bulky, unwieldly, easily broken, or otherwise impractical to file and retain as records identifying the work registered, the Register would be able to require or permit the substitute deposit of material that would better serve the purpose of identification. Cases of this sort might include, for example, billboard posters, toys and dolls, ceramics and glassware, costume jewelry, and a wide range of three-dimensional objects embodying copyrighted material. The Register's authority would also extend to rare or extremely valuable copies which would be burdensome or impossible to deposit. Deposit of one copy or phonorecord rather than two would probably be justifiable in the case of most motion pictures, and in any case where the Library of Congress has no need for the deposit and its only purpose is identification.
 
-The provision empowering the Register to allow a number of related works to be registered together as a group represents a needed and important liberalization of the law now in effect. At present the requirement for separate registrations where related works or parts of a work are published separately has created administrative problems and has resulted in unnecessary burdens and expenses on authors and other copyright owners. In a number of cases the technical necessity for separate applications and fees has caused copyright owners to forego copyright altogether. Examples of cases where these undesirable and unnecessary results could be avoided by allowing a single registration include the various editions or issues of a daily newspaper, a work published in serial installments, a group of related jewelry designs, a group of photographs by one photographer, a series of greeting cards related to each other in some way, or a group of poems by a single author.
+The provision empowering the Register to allow a number of related works to be registered together as a group represents a needed and important liberalizationof the law now in effect. At present the requirement for separate registrations where related works or parts of a work are published separately has created administrative problems and has resulted in unnecessary burdens and expenses on authors and other copyright owners. In a number of cases the technical necessity for separate applications and fees has caused copyright owners to forego copyright altogether. Examples of cases where these undesirable and unnecessary results could be avoided by allowing a single registration include the various editions or issues of a daily newspaper, a work published in serial installments, a group of related jewelry designs, a group of photographs by one photographer, a series of greeting cards related to each other in some way, or a group of poems by a single author.
 
 <b>Single Registration.</b> Section 408(c)(2) directs the Register of Copyrights to establish regulations permitting under certain conditions a single registration for a group of works by the same individual author, all first published as contributions to periodicals, including newspapers, within a twelve-month period, on the basis of a single deposit, application, and registration fee. It is required that each of the works as first published have a separate copyright notice, and that the name of the owner of copyright in the work, (or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner) is the same in each notice. It is further required that the deposit consist of one copy of the entire issue of the periodical, or of the entire section in the case of a newspaper, in which each contribution is first published. Finally, the application shall identify each work separately, including the periodical containing it and its date of first publication.
 
@@ -82,7 +82,7 @@ On the other hand, there will be a number of cases where the copyright owner, al
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, andduring the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
+1992—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
 
 1988—Subsec. (a). Pub. L. 100–568, §9(a)(1), substituted “Such” for “Subject to the provisions of section 405(a), such”.
 
@@ -90,7 +90,7 @@ Subsec. (c)(2). Pub. L. 100–568, §9(a)(2), substituted “the following condi
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, see section 102(g) of Pub. L. 102–307, set out as a note under section 101 of this title.
+Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -108,5 +108,5 @@ Placement of copies and phonorecords acquired in accordance with this section in
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 302, 405, 601, 704, 708, 710 of this title; title 2 section 170.
+This section is referred to in sections 302, 405, 601, 704, 708, 710 of this title; title 2 section 170; title 28 section 4001.
 

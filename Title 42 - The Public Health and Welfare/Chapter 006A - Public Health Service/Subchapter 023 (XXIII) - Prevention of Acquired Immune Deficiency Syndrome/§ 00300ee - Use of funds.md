@@ -6,7 +6,7 @@ The purpose of this subchapter is to provide for the establishment of education 
 
 #### (b) Contents of programs
 
-All programs of education and information receiving funds under this subchapter shall include information about the harmful effects of promiscuous sexual activity and intravenous substance abuse, and the benefits of abstaining from such activities.
+All programs of education and information receiving funds under this subchapter shall include information about the harmful effects of promiscuous sexual activity and intravenoussubstance abuse, and the benefits of abstaining from such activities.
 
 #### (c) Limitation
 
@@ -16,7 +16,7 @@ None of the funds appropriated to carry out this subchapter may be used to provi
 
 Subsection (c) of this section may not be construed to restrict the ability of an education program that includes the information required in subsection (b) of this section to provide accurate information about various means to reduce an individual's risk of exposure to, or the transmission of, the etiologic agent for acquired immune deficiency syndrome, provided that any informational materials used are not obscene.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2500, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3093; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(a), 102 Stat. 4242; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2500, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3093; amended Pub. L. 100–690, title II, §2619(a), Nov. 18, 1988, 102 Stat. 4242; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Amendments
 

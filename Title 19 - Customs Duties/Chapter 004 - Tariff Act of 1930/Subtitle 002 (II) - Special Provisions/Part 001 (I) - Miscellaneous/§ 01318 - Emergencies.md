@@ -1,6 +1,6 @@
 ### §1318. Emergencies
 
-Whenever the President shall by proclamation declare an emergency to exist by reason of astate of war, or otherwise, he may authorize the Secretary of the Treasury to extend during the continuance of such emergency the time herein prescribed for the performance of any act, and may authorize the Secretary of the Treasury to permit, under such regulations as the Secretary of the Treasury may prescribe, the importation free of duty of food, clothing, and medical, surgical, and other supplies for use in emergency relief work. The Secretary of the Treasury shall report to the Congress any action taken under the provisions of this section.
+Whenever the President shall by proclamation declare an emergency to exist by reason of a state of war, or otherwise, he may authorize the Secretary of the Treasury to extend during the continuance of such emergency the time herein prescribed for the performance of any act, and may authorize the Secretary of the Treasury to permit, under such regulations as the Secretary of the Treasury may prescribe, the importation free of duty of food, clothing, and medical, surgical, and other supplies for use in emergency relief work. The Secretary of the Treasury shall report to the Congress any action taken under the provisions of this section.
 
 (June 17, 1930, ch. 497, title III, §318, 46 Stat. 696.)
 

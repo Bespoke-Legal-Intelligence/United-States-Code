@@ -1,0 +1,72 @@
+### §505. State planning and research
+
+(a)
+
+General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under section 104 (other than sections 104(f) and 104(h)) and under section 144 shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
+
+&emsp;(1) Engineering and economic surveys and investigations.
+
+&emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programs and systems, including metropolitan and statewide planning under sections 134 and 135.
+
+&emsp;(3) Development and implementation of management systems under section 303.
+
+&emsp;(4) Studies of the economy, safety, and convenience of surface transportation systems and the desirable regulation and equitable taxation of such systems.
+
+&emsp;(5) Research, development, and technology transfer activities necessary in connection with the planning, design, construction, management, and maintenance of highway, public transportation, and intermodal transportation systems.
+
+&emsp;(6) Study, research, and training on the engineering standards and construction materials for transportation systems described in paragraph (5), including the evaluation and accreditation of inspection and testing and the regulation and taxation of their use.
+
+(b)
+
+Minimum Expenditures on Research, Development, and Technology Transfer Activities.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2), not less than 25 percent of the funds subject to subsection (a) that are apportioned to a State for a fiscal year shall be expended by the State for research, development, and technology transfer activities described in subsection (a), relating to highway, public transportation, and intermodal transportation systems.
+
+&emsp;(2)
+
+Waivers.—The Secretary may waive the application of paragraph (1) with respect to a State for a fiscal year if the State certifies to the Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
+
+&emsp;(3)
+
+Nonapplicability of assessment.—Funds expended under paragraph (1) shall not be considered to be part of the extramural budget of the agency for the purpose of section 9 of the Small Business Act (15 U.S.C. 638).
+
+(c)
+
+Federal Share.—The Federal share of the cost of a project carried out using funds subject to subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
+
+(d)
+
+Administration of Sums.—Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the same period as funds apportioned under section 104(b)(1).
+
+(Added Pub. L. 105–178, title V, §5105, June 9, 1998, 112 Stat. 432.)
+
+#### Prior Provisions
+
+A prior section 505, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to highway relocation assistance payments, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
+
+#### Alaska Highway Study
+
+Pub. L. 87–866, §13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
+
+“(a) The Secretary of Transportation, in cooperation with the State of Alaska, is hereby authorized to make engineering studies and estimates and planning surveys relative to a highway construction program for the State of Alaska, and, in accordance with treaties or other agreements to be negotiated with Canada by the Secretary of State in consultation with the Secretary of Transportation, engineering studies, estimates, and planning surveys relative to connecting Alaskan roads with Canadian roads at the International boundary.
+
+“(b) On or before May 15, 1964, the Secretary of Transportation shall submit a report to the Congress which shall include—
+
+&emsp;“(1) an analysis of the adequacy of the Federal-aid highway program to provide for a satisfactory program in both the populated and the undeveloped areas in Alaska;
+
+&emsp;“(2) specific recommendations as to the construction of roads through undeveloped areas of Alaska and connection of such roads with Canadian roads at the International boundary; and
+
+&emsp;“(3) a feasible program for implementing such specific recommendations, including cost estimates, recommendations as to the sharing of cost responsibilities, and other pertinent matters.
+
+“(c) From time to time, either before or after submission of the report provided for in subsection (b) of this section, the Secretary of Transportation may submit recommendations to the Congress with respect to the construction of particular highways to carry out the purposes of this section.
+
+“(d) Nothing in this section shall be construed as creating any obligation in the Congress, express or implied, to carry out the recommendations referred to in subsections (b) and (c).
+
+“(e) There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to be available until expended, the sum of $800,000 for the purpose of making the studies, surveys, and report authorized by subsections (a) and (b) hereof.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 115, 135, 506 of this title; title 49 section 5505.
+

@@ -72,5 +72,5 @@ Section 156(b) of Pub. L. 98–369 provided that: “The amendment made by subse
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 6103.
+This section is referred to in title 26 sections 6103, 7525.
 

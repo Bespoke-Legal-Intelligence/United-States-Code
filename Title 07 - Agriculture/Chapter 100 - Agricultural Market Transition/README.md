@@ -93,10 +93,11 @@
 | (a) | Cotton user marketing certificates. |
 | (b) | Special import quota. |
 | (c) | Limited global import quota for upland cotton. |
-| [7237\.](Subchapter%20003%20%28III%29%20-%20Nonrecourse%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007237%20-%20Availability%20of%20recourse%20loans%20for%20high%20moisture%20feed%20grains%20and%20seed%20cotton.md) | Availability of recourse loans for high moisture feed grains and seed cotton. |
+| [7237\.](Subchapter%20003%20%28III%29%20-%20Nonrecourse%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007237%20-%20Availability%20of%20recourse%20loans%20for%20high%20moisture%20feed%20grains%20and%20seed%20cotton%20and%20other%20fibers.md) | Availability of recourse loans for high moisture feed grains and seed cotton and other fibers. |
 | (a) | High moisture feed grains. |
 | (b) | Recourse loans available for seed cotton. |
-| (c) | Repayment rates. |
+| (c) | Recourse loans available for mohair. |
+| (d) | Repayment rates. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

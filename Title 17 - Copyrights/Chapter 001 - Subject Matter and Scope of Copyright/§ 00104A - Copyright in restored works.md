@@ -44,7 +44,7 @@ Enforcement of copyright in restored works as against reliance parties.—As aga
 
 &emsp;&emsp;(III) copies or phonorecords of a work in which copyright has been restored under this section are made after publication of the notice of intent in the Federal Register.
 
-&emsp;&emsp;(B)(i) The owner of the restored copyright (or such owner's agent) or the owner of an exclusive right therein (or such owner's agent) serves upon a reliance party a notice of intent to enforce a restored copyright; and
+&emsp;&emsp;(B)(i) The owner of the restored copyright (or such owner's agent) or the owner of anexclusive right therein (or such owner's agent) serves upon a reliance party a notice of intent to enforce a restored copyright; and
 
 &emsp;&emsp;(ii)(I) the act of infringement commenced after the end of the 12-month period beginning on the date the notice of intent is received;
 
@@ -84,7 +84,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 &emsp;(B)(i) The Register of Copyrights shall publish in the Federal Register, commencing not later than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
 
-&emsp;(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in thePublic Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
+&emsp;(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
 
 &emsp;(C) The Register of Copyrights is authorized to fix reasonable fees based on the costs of receipt, processing, recording, and publication of notices of intent to enforce a restored copyright and corrections thereto.
 
@@ -96,7 +96,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a reliance party at any time after the date of restoration of the restored copyright.
 
-&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
+&emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, indetail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
 
 &emsp;(3)
 
@@ -130,9 +130,15 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;(1) The term “date of adherence or proclamation” means the earlier of the date on which a foreign nation which, as of the date the WTO Agreement enters into force with respect to the United States, is not a nation adhering to the Berne Convention or a WTO member country, becomes—
 
-&emsp;&emsp;(A) a nation adhering to the Berne Convention or a WTO member country; or
+&emsp;&emsp;(A) a nation adhering to the Berne Convention;
 
-&emsp;&emsp;(B) subject to a Presidential proclamation under subsection (g).
+&emsp;&emsp;(B) a WTO member country;
+
+&emsp;&emsp;(C) a nation adhering to the WIPO Copyright Treaty;
+
+&emsp;&emsp;(D) a nation adhering to the WIPO Performances and Phonograms Treaty; or
+
+&emsp;&emsp;(E) subject to a Presidential proclamation under subsection (g).
 
 &emsp;(2) The “date of restoration” of a restored copyright is—
 
@@ -144,11 +150,13 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
 
-&emsp;&emsp;(B) on such date of enactment is, or after such date of enactment becomes, a member of the Berne Convention; or
+&emsp;&emsp;(B) on such date of enactment is, or after such date of enactment becomes, a nation adhering to the Berne Convention;
 
-&emsp;&emsp;(C) after such date of enactment becomes subject to a proclamation under subsection (g).
+&emsp;&emsp;(C) adheres to the WIPO Copyright Treaty;
 
-> &emsp;For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.
+&emsp;&emsp;(D) adheres to the WIPO Performances and Phonograms Treaty; or
+
+&emsp;&emsp;(E) after such date of enactment becomes subject to a proclamation under subsection (g).
 
 &emsp;(4) The term “reliance party” means any person who—
 
@@ -156,7 +164,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(B) before the source country of a particular work becomes an eligible country, makes or acquires 1 or more copies or phonorecords of that work; or
 
-&emsp;&emsp;(C) as the result of the sale or other disposition of a derivative work covered under subsection (d)(3), or significant assets of aperson described in subparagraph (A) or (B), is a successor, assignee, or licensee of that person.
+&emsp;&emsp;(C) as the result of the sale or other disposition of a derivative work covered under subsection (d)(3), or significant assets of a person described in subparagraph (A) or (B), is a successor, assignee, or licensee of that person.
 
 &emsp;(5) The term “restored copyright” means copyright in a restored work under this section.
 
@@ -188,7 +196,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(B) in the case of an unpublished work—
 
-&emsp;&emsp;&emsp;(i) the eligible country in which the author or rightholder is a national or domiciliary, or, if a restored work has more than 1 author or rightholder, the majority of foreign authors or rightholders are nationals or domiciliaries of eligible countries; or
+&emsp;&emsp;&emsp;(i) the eligible country in which the author or rightholder is a national or domiciliary, or, if a restored work has more than 1 author or rightholder, of which the majority of foreign authors or rightholders are nationals or domiciliaries; or
 
 &emsp;&emsp;&emsp;(ii) if the majority of authors or rightholders are not foreign, the nation other than the United States which has the most significant contacts with the work; and
 
@@ -198,17 +206,41 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;&emsp;(ii) if the restored work is published on the same day in 2 or more eligible countries, the eligible country which has the most significant contacts with the work.
 
-&emsp;(9) The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
+(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, §2, Nov. 13, 1997, 111 Stat. 1530; Pub. L. 105–304, title I, §102(c), Oct. 28, 1998, 112 Stat. 2862.)
 
-(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, §2, Nov. 13, 1997, 111 Stat. 1530.)
+#### Amendment of Subsection (h)(6)
+
+<i>Pub. L. 105–304, title I, §§102(c)(3), 105(b)(2)(F), Oct. 28, 1998, 112 Stat. 2863, 2877, provided that, effective upon the entry into force of the WIPO Performances and Phonograms Treaty with respect to the United States, subsection (h)(6) of this section is amended in subparagraph (C)(iii), by striking out “and” at end, in subparagraph (D), by substituting “; and” for the period at end, and by adding subparagraph (E) to read as follows:</i>
+
+(E) if the source country for the work is an eligible country solely by virtue of its adherence to the WIPO Performances and Phonograms Treaty, is a sound recording.
 
 #### References in Text
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (d)(3)(A) and (h)(3), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
-Sections 2 and 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsecs. (e)(1)(D)(i) and (h)(9), are classified to sections 3501 and 3511(d)(15), respectively, of Title 19, Customs Duties.
+Section 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsec. (e)(1)(D)(i), is classified to section 3511(d)(15) of Title 19, Customs Duties.
 
 #### Amendments
+
+1998—Subsec. (h)(1)(A) to (E). Pub. L. 105–304, §102(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) a nation adhering to the Berne Convention or a WTO member country; or
+
+“(B) subject to a Presidential proclamation under subsection (g).”
+
+Subsec. (h)(3). Pub. L. 105–304, §102(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘eligible country’ means a nation, other than the United States, that—
+
+&emsp;“(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
+
+&emsp;“(B) on such date of enactment is, or after such date of enactment becomes, a member of the Berne Convention; or
+
+&emsp;“(C) after such date of enactment becomes subject to a proclamation under subsection (g).
+
+> For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.”
+
+Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted “of which” before “the majority” and struck out “of eligible countries” after “domiciliaries”.
+
+Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
 
 1997—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
 
@@ -233,6 +265,10 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 1996—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
 
 1994—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
+
+#### Effective Date of 1998 Amendment
+
+Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective upon entry into force of WIPO Copyright Treaty withrespect to United States, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective upon entry into force of WIPO Performances and Phonograms Treaty with respect to United States, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
 
 #### Effective Date
 

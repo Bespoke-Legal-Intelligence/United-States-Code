@@ -6,5 +6,5 @@ On and after October 5, 1992, any funds, not to exceed $250,000 per incident, av
 
 #### Amendments
 
-1994—Pub. L. 103–332 inserted “, not to exceed $250,000 per incident,” after “funds” and “: <i>Provided further</i>,That any exercise of this authority must be replenished by a supplemental appropriation which must be requested as promptly as possible” after “System”.
+1994—Pub. L. 103–332 inserted “, not to exceed $250,000 per incident,” after “funds” and “: <i>Provided further</i>, That any exercise of this authority must be replenished by a supplemental appropriation which must be requested as promptly as possible” after “System”.
 

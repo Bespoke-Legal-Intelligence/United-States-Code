@@ -1,34 +1,68 @@
 ### §12304. Selected Reserve and certain Individual Ready Reserve members; order to active duty other than during war or national emergency
 
-(a) Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for any operational mission, he may authorize the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty (other than for training) for not more than 270 days.
+(a)
 
-(b) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or section 12406 of this title, or to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
+Authority.—Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for any operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty (other than for training) for not more than 270 days.
 
-(c) Not more than 200,000 members of the Selected Reserve and the Individual Ready Reserve may be on active duty under this section at any one time, of whom not more than 30,000 may be members of the Individual Ready Reserve.
+(b)
 
-(d) Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or members in grade under this title or any other law.
+Support for Responses to Certain Emergencies.—The authority under subsection (a) includes authority to order a unit or member to active duty to provide assistance in responding to an emergency involving a use or threatened use of a weapon of mass destruction.
 
-(e) The Secretary of Defense and the Secretary of Transportation shall prescribe such policies and procedures for the armed forces under their respective jurisdictions as they consider necessary to carry out this section.
+(c)
 
-(f) Whenever the President authorizes the Secretary of Defense or the Secretary of Transportation to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
+Limitations.—(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
 
-(g) Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
+(2) Not more than 200,000 members of the Selected Reserve and the Individual Ready Reserve may be on active duty under this section at any one time, of whom not more than 30,000 may be members of the Individual Ready Reserve.
+
+(d)
+
+Exclusion From Strength Limitations.—Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or members in grade under this title or any other law.
+
+(e)
+
+Policies and Procedures.—The Secretary of Defense and the Secretary of Transportation shall prescribe such policies and procedures for the armed forces under their respective jurisdictions as they consider necessary to carry out this section.
+
+(f)
+
+Notification of Congress.—Whenever the President authorizes the Secretary of Defense or the Secretary of Transportation to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
+
+(g)
+
+Termination of Duty.—Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
 
 &emsp;(1) order of the President, or
 
 &emsp;(2) law.
 
-(h) Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
+(h)
 
-(i) For purposes of this section, the term “Individual Ready Reserve mobilization category” means, in the case of any reserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.
+Relationship to War Powers Resolution.—Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
 
-(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729.)
+(i)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “Individual Ready Reserve mobilization category” means, in the case of any reserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.
+
+&emsp;(2) The term “weapon of mass destruction” has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
+
+(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005.)
 
 #### References in Text
 
 The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261, §511(a)(1)(A), (3)(A), inserted heading and inserted “or that it is necessary to provide assistance referred to in subsection (b)” after “operational mission” in text.
+
+Subsec. (b). Pub. L. 105–261, §511(a)(1)(D), added subsec. (b). Former subsec. (b) redesignated subsec. (c)(1).
+
+Subsec. (c). Pub. L. 105–261, §511(a)(1)(B), (C), redesignated subsec. (b) as par. (1) of subsec. (c), inserted subsec. heading, substituted “or, except as provided in subsection (b), to provide” for “, or to provide”, and redesignated former subsec. (c) as par. (2).
+
+Subsecs. (d) to (h). Pub. L. 105–261, §511(a)(3)(B)–(F), inserted headings.
+
+Subsec. (i). Pub. L. 105–261, §511(a)(2), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “For purposes of this section, the term ‘Individual Ready Reserve mobilization category’ means, in the case of any reserve component, the category of the Individual Ready Reserve described in section 10144(b) of this title.”
 
 1997—Pub. L. 105–85, §511(e)(1), inserted “and certain Individual Ready Reserve members” after “Selected Reserve” in section catchline.
 
@@ -80,7 +114,7 @@ Pub. L. 101–511, title VIII, §8132, Nov. 5, 1990, 104 Stat. 1908, provided th
 
 Ex. Ord. No. 12727, Aug. 22, 1990, 55 F.R. 35027, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions in and around the Arabian Peninsula. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to order to active duty units and individual members not assigned to units, of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions in and around the Arabian Peninsula. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to order to active duty units and individual members not assigned to units, of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

@@ -38,7 +38,7 @@ The Secretary shall establish by regulation criteria for the designation of area
 
 In determining whether to make a designation, the Secretary shall take into consideration the following:
 
-&emsp;(1) The recommendations of the Governor of each State in which the area, populationgroup, medical facility, or other public facility under consideration for designation is in whole or part located.
+&emsp;(1) The recommendations of the Governor of each State in which the area, population group, medical facility, or other public facility under consideration for designation is in whole or part located.
 
 &emsp;(2) The extent to which individuals who are (A) residents of the area, members of the population group, or patients in the medical facility or other public facility under consideration for designation, and (B) entitled to have payment made for medical services under title XVIII or XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\], cannot obtain such services because of suspension of physicians from the programs under such titles.
 
@@ -70,7 +70,7 @@ Any person may recommend to the Secretary the designation of an area, population
 
 The Secretary may conduct such information programs in areas, among population groups, and in medical facilities and other public facilities designated under this section as health professional shortage areas as may be necessary to inform public and nonprofit private entities which are located or have a demonstrated interest in such areas of the assistance available under this subchapter by virtue of the designation of such areas.
 
-(July 1, 1944, ch. 373, title III, §332, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2270; amended Oct. 25, 1977, Pub. L. 95–142, §7(d), 91 Stat. 1193; July 10, 1979, Pub. L. 96–32, §7(d), 93 Stat. 84; Aug. 13, 1981, Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), 95 Stat. 603, 903, 904; July 22, 1987, Pub. L. 100–77, title VI, §602, 101 Stat. 515; Dec. 1, 1987, Pub. L. 100–177, title III, §302, 101 Stat. 1003; Nov. 4, 1988, Pub. L. 100–607, title VIII, §802(b)(2), 102 Stat. 3169; Nov. 7, 1988, Pub. L. 100–628, title VI, §602(b)(2), 102 Stat. 3242; Nov. 16, 1990, Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], 104 Stat. 3014, 3035.)
+(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Pub. L. 101–597, §102(c)(1), struck out “, promulgated not later than May 
 
 Subsec. (c). Pub. L. 101–597, §102(c)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows:
 
-“(A) The recommendations of each health systems agency (designated under section 300<i>l</i>–4 of this title) for a health service area which includes all or any part ofthe area, population group, medical facility, or other public facility under consideration for designation.
+“(A) The recommendations of each health systems agency (designated under section 300<i>l</i>–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility under consideration for designation.
 
 “(B) The recommendations of the State health planning and development agency (designated under section 300m of this title) if such area, population group, medical facility, or other public facility is within a health service area for which no health systems agency has been designated.”
 
@@ -164,7 +164,7 @@ Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254f, 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 295p, 296m, 297, 297–1, 1395<i>l</i>, 1395x, 9840 of this title; title 5 section 8902.
+This section is referred to in sections 254d, 254f, 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 295p, 296j, 297q, 1395<i>l</i>, 1395x, 9840, 11709 of this title; title 5 section 8902.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -64,5 +64,5 @@ Section to be effective, to extent constitutionally permissible, for sentencing 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 43, 2248, 2259, 2264, 2327, 3556, 3563, 3613, 3663, 3664 of this title.
+This section is referred to in sections 43, 228, 2248, 2259, 2264, 2327, 3556, 3563, 3613, 3663, 3664 of this title.
 

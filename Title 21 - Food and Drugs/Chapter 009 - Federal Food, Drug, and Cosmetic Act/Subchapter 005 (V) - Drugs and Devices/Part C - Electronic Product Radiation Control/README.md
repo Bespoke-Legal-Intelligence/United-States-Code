@@ -24,6 +24,6 @@ This part is referred to in title 15 section 2080.
 - [&sect; 00360nn - Inspection, records, and reports](%C2%A7%2000360nn%20-%20Inspection%2C%20records%2C%20and%20reports.md)
 - [&sect; 00360oo - Prohibited acts](%C2%A7%2000360oo%20-%20Prohibited%20acts.md)
 - [&sect; 00360pp - Enforcement](%C2%A7%2000360pp%20-%20Enforcement.md)
-- [&sect; 00360qq - Annual report](%C2%A7%2000360qq%20-%20Annual%20report.md)
+- [&sect; 00360qq - Repealed. Pub. L. 105&#8211;362, title VI, &sect;601(a)(2)(A), Nov. 10, 1998, 112 Stat. 3285](%C2%A7%2000360qq%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VI%2C%20%C2%A7601%28a%29%282%29%28A%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203285.md)
 - [&sect; 00360rr - Federal-State cooperation](%C2%A7%2000360rr%20-%20Federal-State%20cooperation.md)
 - [&sect; 00360ss - State standards](%C2%A7%2000360ss%20-%20State%20standards.md)

@@ -2,7 +2,7 @@
 
 The President shall—
 
-&emsp;(1) use the authorities of the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] to control the export of those defense articles and defense services, and
+&emsp;(1) use the authorities of the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] to controlthe export of those defense articles and defense services, and
 
 &emsp;(2) use the authorities of the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] to control the export of those goods and technology,
 

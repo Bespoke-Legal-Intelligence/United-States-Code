@@ -1,0 +1,150 @@
+### §2103. Administrative
+
+(a)
+
+General Authority.—Subject to appropriations made to carry out this chapter, the American Battle Monuments Commission may—
+
+&emsp;(1) acquire land or an interest in land in a foreign country to carry out the purposes of this chapter, or an executive order conferring duties and powers on the Commission, without submission to the Attorney General under section 355 of the Revised Statutes (40 U.S.C. 255);
+
+&emsp;(2) maintain, repair, and operate motor-propelled passenger-carrying vehicles and other property that another department, agency, or instrumentality of the United States Government provides to the Commission;
+
+&emsp;(3) establish offices in the District of Columbia and elsewhere in or outside the United States;
+
+&emsp;(4) rent office and garage space, which may be paid for in advance, in foreign countries; and
+
+&emsp;(5) procure printing, binding, engraving, lithographing, photographing, and typewriting, including the publication of information on United States activities, battlefields, memorials, and cemeteries with respect to which the Commission may exercise any duties and powers.
+
+(b)
+
+Disposition of Land.—Under conditions and in the manner the Commission decides is proper, the Commission may dispose of land or an interest in land in a foreign country that the Commission acquires in connection with its work.
+
+(c)
+
+Contracting Out.—Notwithstanding the requirements of existing laws or regulations, theCommission, under conditions the Commission decides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
+
+(d)
+
+Delegation.—Under conditions the Commission may prescribe, the Commission may delegate to its chairman, secretary, or officials in charge of any of its offices any of its authority it considers necessary and proper.
+
+(e)
+
+Authority To Receive State, Local, or Private Amounts.—The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.
+
+(f)
+
+Limitation on Use of Contributions.—The Commission may not obligate, withdraw, or expend amounts received as contributions before March 1, 1998.
+
+(g)
+
+Statements to President.—The Commission shall transmit to the President on October 1 of each year a statement of all its financial and other transactions during the prior fiscal year.
+
+(h)
+
+Financial Statements and Audits.—(1) The Commission shall have a system of financial controls to enable the Commission to comply with the requirements of paragraph (2) of this subsection and with section 2106(d)(4) of this title.
+
+(2) The Commission shall—
+
+&emsp;(A) by March 1 of each year (beginning with 1998)—
+
+&emsp;&emsp;(i) prepare a financial statement which covers all accounts and associated activities of the Commission for the prior fiscal year and is consistent with the requirements of section 3515 of title 31, United States Code; and
+
+&emsp;&emsp;(ii) submit the financial statement, together with a narrative summary, to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
+
+&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance with applicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
+
+(i)
+
+Disposition of Records and Archives.—When no longer required by the Commission, the records and archives of the Commission shall be deposited with the National Archives in accordance with section 2107 of title 44, United States Code.
+
+(j)
+
+Seal.—The Commission shall have a seal that shall be judicially noticed.
+
+(k)
+
+Disbursements Outside Continental United States.—Disbursements for expenditures outside the continental United States may be made by a special disbursing agent designated by the Commission under regulations it prescribes.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2103(a)
+
+36:138b (1st par.).
+
+Mar. 4, 1923, ch. 283, §12 (1st–3d, last pars.), 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§2(c), (d), 4(c)(1), (2), 70 Stat. 640, 641.
+
+2103(b)D36:137.DFeb. 11, 1927, ch. 104, §1 (5th proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
+
+&nbsp;
+
+36:138b (3d par.).
+
+2103(c)
+
+36:138b (2d par.).
+
+2103(d)
+
+36:138b (last par.).
+
+2103(e)
+
+36:128.
+
+Mar. 4, 1923, ch. 283, §7, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317.
+
+2103(f)
+
+36:138d(c).
+
+Mar. 4, 1923, ch. 283, §14, as added Oct. 9, 1996, Pub. L. 104–275, title VI, §602(b), 110 Stat. 3345.
+
+2103(g)
+
+36:131.
+
+Mar. 4, 1923, ch. 283, §8, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §2(c), (d), 70 Stat. 640; Apr. 21, 1976, Pub. L. 94–273, §3(19), 90 Stat. 377.
+
+2103(h)
+
+36:138d(a), (b).
+
+2103(i)
+
+36:138.
+
+Mar. 4, 1923, ch. 283, §9, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317; July 25, 1956, ch. 721, §§2(c), (d), 4(a), 70 Stat. 640, 641.
+
+2103(j)
+
+36:136.
+
+Feb. 11, 1927, ch. 104, §1 (3d proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
+
+2103(k)
+
+36:133.
+
+Feb. 11, 1927, ch. 104, §1 (last proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
+
+In this section, the word “terms” is omitted as included in “conditions”.
+
+In subsection (a), before clause (1), the words “or appropriations” are omitted because of 1:1. In clauses (1) and (5), the words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “department, agency, or instrumentality” are substituted for “departments” for consistency in the revised title and with other titles of the Code.
+
+In subsection (b), the text of 36:137 is omitted as superseded. The words “which has been or may after June 26, 1946, be” and “<i>Provided</i>, That this subsection shall not be effective until the expiration of the Surplus Property Act of 1944” are omitted as obsolete. Section 38 of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 784) provided that the Act was to expire 3 years after the cessation of hostilities of World War II. The cessation of hostilities was proclaimed on December 31, 1946, by Proclamation No. 2714, 12 Fed. Reg. 1. However, section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 399) \[renumbered by section 6(a) and (b) of the Act of September 5, 1950 (ch. 849, 64 Stat. 583)\] repealed the Surplus Property Act of 1944 effective July 1, 1949 (except for sections 13(d), (g), and (h), 28, and 32(b)(2)). Section 13(d), concerning power transmission lines, and section 13(g), concerning property for public airports, do not involve the American Battle Monuments Commission. Section 13(h) was repealed by section 2 of the Act of August 4, 1972 (Public Law 92–362, 86 Stat. 504). Section 28 was repealed by section 21 of the Act of June 25, 1948 (ch. 645, 62 Stat. 868). Section 32(b)(2) was repealed by section 111(a)(1) of the Mutual Educational and Cultural Exchange Act of 1961 (Public Law 87–256, 75 Stat. 538).
+
+In subsection (c), the words “in its discretion”, “by contract or otherwise”, and “firms of architects” are omitted as unnecessary.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2106 of this title.
+

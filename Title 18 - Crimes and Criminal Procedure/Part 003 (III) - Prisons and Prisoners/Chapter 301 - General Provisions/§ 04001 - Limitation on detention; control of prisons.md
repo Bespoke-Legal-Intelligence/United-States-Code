@@ -6,7 +6,7 @@
 
 (2) The Attorney General may establish and conduct industries, farms, and other activities and classify the inmates; and provide for their proper government, discipline, treatment, care, rehabilitation, and reformation.
 
-(June 25, 1948, ch. 645, 62 Stat. 847; Sept. 25, 1971, Pub. L. 92–128, §1(a), (b), 85 Stat. 347.)
+(June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 92–128, §1(a), (b), Sept. 25, 1971, 85 Stat. 347.)
 
 #### Historical and Revision Notes
 
@@ -29,6 +29,10 @@ The Classification Act, as amended, referred to in subsec. (b)(1), originally wa
 Subsec. (a). Pub. L. 92–128, §1(a), added subsec. (a).
 
 Subsec. (b). Pub. L. 92–128, §1(a), designated existing first and second pars. as pars. (1) and (2) of subsec. (b).
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–370, §1, Nov. 12, 1998, 112 Stat. 3374, provided that: “This Act \[enacting section 4014 of this title and provisions set out as a note under section 4042 of this title\] may be cited as the ‘Correction Officers Health and Safety Act of 1998’.”
 
 #### Fee To Recover Cost of Incarceration
 

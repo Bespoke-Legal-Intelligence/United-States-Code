@@ -46,13 +46,17 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1993—Pub. L. 103–82 amended section generally, substituting provisions relating to findings and purposes for former provisions setting forth the purposes of this chapter.
 
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–304, §1, Aug. 23, 1994, 108 Stat. 1565, provided that: “This Act \[amending sections 4953, 5024, 12591, 12602, 12615, 12619, 12622, 12651d, 12653, and 12655n of this title and enacting provisions set out as a note under section 4953 of this title\] may be cited as the ‘King Holiday and Service Act of 1994’.”
+
 #### Short Title of 1993 Amendment
 
 Section 1(a) of Pub. L. 103–82 provided that: “This Act \[see Tables for classification\] may be cited as the ‘National and Community Service Trust Act of 1993’.”
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523,12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
+Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
 
 #### Short Title of 1991 Amendment
 
@@ -80,7 +84,7 @@ Section 502 of Pub. L. 103–82 provided that:
 
 “(a)
 
-Purchase of American-Made Equipment and Products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\] (including the amendments made by this Act), it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
+Purchase of American-Made Equipment and Products.—In the case of any equipment or productthat may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\] (including the amendments made by this Act), it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
 
 “(b)
 

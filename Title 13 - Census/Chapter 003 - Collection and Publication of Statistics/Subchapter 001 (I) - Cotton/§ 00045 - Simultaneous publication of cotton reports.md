@@ -2,7 +2,7 @@
 
 The reports of cotton ginned to the dates as of which the Department of Agriculture is also required to issue cotton crop reports shall be issued simultaneously with the cotton crop reports of that department, the two reports to be issued from the same place at 3 o'clock postmeridian on or before the 12th day of the month to which the respective reports relate.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1017; June 30, 1972, Pub. L. 92–331, §3, 86 Stat. 400.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1017; Pub. L. 92–331, §3, June 30, 1972, 86 Stat. 400.)
 
 #### Historical and Revision Notes
 

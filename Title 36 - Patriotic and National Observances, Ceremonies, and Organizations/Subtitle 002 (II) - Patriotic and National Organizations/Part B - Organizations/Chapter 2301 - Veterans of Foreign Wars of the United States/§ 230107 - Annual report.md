@@ -1,0 +1,24 @@
+### §230107. Annual report
+
+Not later than January 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior fiscal year. The report may not be printed as a public document.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1482.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+230107
+
+36:118.
+
+May 28, 1936, ch. 471, §8, 49 Stat. 1391; Aug. 30, 1964, Pub. L. 88–504, §4(10), 78 Stat. 637.
+
+The word “submit” is substituted for “make and transmit” for consistency in the revised title.
+

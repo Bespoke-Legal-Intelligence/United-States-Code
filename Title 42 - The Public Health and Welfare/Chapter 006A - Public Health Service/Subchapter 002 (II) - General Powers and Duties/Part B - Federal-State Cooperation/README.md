@@ -18,7 +18,7 @@ Part B—Federal-State Cooperation
 - [&sect; 00247b&#8211;1 - Screenings, referrals, and education regarding lead poisoning](%C2%A7%2000247b%E2%80%931%20-%20Screenings%2C%20referrals%2C%20and%20education%20regarding%20lead%20poisoning.md)
 - [&sect; 00247b&#8211;2 - Repealed. Pub. L. 97&#8211;35, title IX, &sect;902(a), Aug. 13, 1981, 95 Stat. 559](%C2%A7%2000247b%E2%80%932%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20IX%2C%20%C2%A7902%28a%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20559.md)
 - [&sect; 00247b&#8211;3 - Education, technology assessment, and epidemiology regarding lead poisoning](%C2%A7%2000247b%E2%80%933%20-%20Education%2C%20technology%20assessment%2C%20and%20epidemiology%20regarding%20lead%20poisoning.md)
-- [&sect; 00247b&#8211;4 - Collection of data on birth defects](%C2%A7%2000247b%E2%80%934%20-%20Collection%20of%20data%20on%20birth%20defects.md)
+- [&sect; 00247b&#8211;4 - Programs regarding birth defects](%C2%A7%2000247b%E2%80%934%20-%20Programs%20regarding%20birth%20defects.md)
 - [&sect; 00247b&#8211;5 - Preventive health measures with respect to prostate cancer](%C2%A7%2000247b%E2%80%935%20-%20Preventive%20health%20measures%20with%20respect%20to%20prostate%20cancer.md)
 - [&sect; 00247b&#8211;6 - Preventive health services regarding tuberculosis](%C2%A7%2000247b%E2%80%936%20-%20Preventive%20health%20services%20regarding%20tuberculosis.md)
 - [&sect; 00247b&#8211;7 - Loan repayment program](%C2%A7%2000247b%E2%80%937%20-%20Loan%20repayment%20program.md)

@@ -2,15 +2,13 @@
 
 #### (a) Program established
 
-The Secretary, with the concurrence of the Director of the United States Information Agency and with the foreign policy guidance of the Secretary of State, shall carry out an International Education Program in accordance with this section that shall provide for—
+The Secretary, with the concurrence and the foreign policy guidance of the Secretary of State, shall carry out an International Education Program in accordance with this section that shall provide for—
 
 &emsp;(1) the study of international education programs and delivery systems; and
 
 &emsp;(2) an international education exchange program.
 
-#### (b) Assessment and information
-
-The Secretary shall award grants for the study, evaluation, and analysis of education systems in other nations, particularly Great Britain, France, Germany and Japan. Such studies shall focus upon a comparative analysis of curriculum, methodology, and organizational structure, including the length of the school year and school day. In addition, the studies shall provide an analysis of successful strategies employed by other nations to improve student achievement, with a specific focus upon application to schooling and the National Education Goals.
+#### (b) Repealed. Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(e)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410
 
 #### (c) International Education Exchange Program
 
@@ -90,7 +88,7 @@ The Secretary shall award grants for the study, evaluation, and analysis of educ
 
 &emsp;&emsp;&emsp;(iii) home stays in United States communities;
 
-&emsp;&emsp;&emsp;(iv) translations and adaptations regarding United States civics and government education and economic education curricular programs for students and teachers, and in the case of training programs for teachers translations and adaptations into forms useful in schools in eligible countries, and joint research projects in such areas;
+&emsp;&emsp;&emsp;(iv) translations and adaptations regarding United States civics and governmenteducation and economic education curricular programs for students and teachers, and in the case of training programs for teachers translations and adaptations into forms useful in schools in eligible countries, and joint research projects in such areas;
 
 &emsp;&emsp;&emsp;(v) translation of basic documents of United States constitutional government for use in eligible countries, such as The Federalist Papers, selected writings of Presidents Adams and Jefferson and the Anti-Federalists, and more recent works on political theory, constitutional law and economics; and
 
@@ -134,13 +132,23 @@ The Secretary shall award grants for the study, evaluation, and analysis of educ
 
 #### (d) Authorization of appropriations
 
-#### (1) Assessment and information
-
-&emsp;There are authorized to be appropriated $1,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1999, to carry out subsection (b) of this section.
+#### (1) Repealed. Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(e)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410
 
 #### (2) International education exchange
 
 &emsp;There are authorized to be appropriated $10,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1999, to carry out subsection (c) of this section.
 
-(Pub. L. 103–227, title VI, §601, Mar. 31, 1994, 108 Stat. 200.)
+(Pub. L. 103–227, title VI, §601, Mar. 31, 1994, 108 Stat. 200; Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(e)\], div. G, subdiv. A, title XIII, §1335(e), Oct. 21, 1998, 112 Stat. 2681–337, 2681–410, 2681–788.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §1335(e), substituted “and” for “of the Director of the United States Information Agency and with”.
+
+Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §301(e)\], struck out heading and text of subsec. (b). Text read as follows: “The Secretary shall award grants for the study, evaluation, and analysis of education systems in other nations, particularly Great Britain, France, Germany and Japan. Such studies shall focus upon a comparative analysis of curriculum, methodology, and organizational structure, including the length of the school year and school day. In addition, the studies shall provide an analysis of successful strategies employed by other nations to improve student achievement, with a specific focus upon application to schooling and the National Education Goals.”
+
+Subsec. (d)(1). Pub. L. 105–277, §101(f) \[title VIII, §301(e)\], struck out heading and text of par. (1). Text read as follows: “There are authorized to be appropriated $1,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1999, to carry out subsection (b) of this section.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1335(e) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
 

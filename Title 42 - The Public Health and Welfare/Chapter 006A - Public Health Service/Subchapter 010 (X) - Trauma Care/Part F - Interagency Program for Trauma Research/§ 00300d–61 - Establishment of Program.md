@@ -82,7 +82,7 @@ For purposes of this section:
 
 &emsp;(4) The term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to near drowning. The Secretary may revise the definition of such term as the Secretary determines necessary.
 
-(July 1, 1944, ch. 373, title XII, §1261, as added June 10, 1993, Pub. L. 103–43, title III, §303(a), 107 Stat. 151; amended July 29, 1996, Pub. L. 104–166, §2, 110 Stat. 1445.)
+(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445.)
 
 #### Amendments
 

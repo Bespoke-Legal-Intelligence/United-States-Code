@@ -20,7 +20,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, §2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, §6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
+Based on title 28, U.S.C., 1940 ed., §§47, 47a, 349a, 350, 380, 380a, section 29 of title 15, U.S.C., 1940 ed., Commerce and Trade, and section 45 of title 49, U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, §2, 32 Stat.1167; Mar. 3, 1911, ch. 231, §§210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, §6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
 
 Section consolidates section 350 of title 28, U.S.C., 1940 ed., with those portions of sections 47, 47a, 349a, 380, and 380a, of said title 28, section 29, of title 15, U.S.C., 1940 ed., and section 45 of title 49, U.S.C., 1940 ed., respective time for taking direct appeal. (For disposition of other provisions of said sections, see Distribution Table.)
 
@@ -50,13 +50,13 @@ The other amendment merely renumbers subsections (d) and (e) of such section 210
 
 #### Amendments
 
-<b>1994</b>—Subsec. (g). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+1994—Subsec. (g). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–352 substituted “section 1253” for “sections 1252, 1253, and 2282”.
+1988—Subsec. (a). Pub. L. 100–352 substituted “section 1253” for “sections 1252, 1253, and 2282”.
 
-<b>1983</b>—Subsec. (g). Pub. L. 98–209 added subsec. (g).
+1983—Subsec. (g). Pub. L. 98–209 added subsec. (g).
 
-<b>1949</b>—Subsec. (c). Act May 24, 1949, §106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
+1949—Subsec. (c). Act May 24, 1949, §106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
 
 Subsecs. (d) to (f). Act May 24, 1949, §106(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 

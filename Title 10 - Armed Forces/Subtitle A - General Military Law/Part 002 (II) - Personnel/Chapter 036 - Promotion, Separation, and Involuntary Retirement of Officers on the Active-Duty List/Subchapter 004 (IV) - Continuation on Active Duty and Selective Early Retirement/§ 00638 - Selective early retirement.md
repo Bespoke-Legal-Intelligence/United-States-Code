@@ -24,7 +24,7 @@
 
 (3) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
 
-(c) So long as an officer in a grade below brigadier general or rear admiral (lower half) holds the same grade, he may not be considered for early retirement under this section more than once in any five-year period.
+(c) So long as an officer in a grade below brigadier general or rear admiral (lower half) holdsthe same grade, he may not be considered for early retirement under this section more than once in any five-year period.
 
 (d) The retirement of an officer pursuant to this section shall be considered to be an involuntary retirement for purposes of any other provision of law.
 

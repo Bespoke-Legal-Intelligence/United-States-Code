@@ -12,7 +12,7 @@ The Administrator, the Secretary of the Army, and the Secretary of Energy, respe
 
 The Administrator may accept and utilize such voluntary and uncompensated services and with the consent of the agency concerned may utilize such officers, employees, or equipment of any agency of the Federal, State, or local governments which he finds helpful in carrying out the purposes of this chapter; in connection with the utilization of such services, reasonable payments may be allowed for necessary travel and other expenses.
 
-(Aug. 20, 1937, ch. 720, §10, 50 Stat. 736; Oct. 23, 1945, ch. 433, §5, 59 Stat. 547; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 4, 1977, Pub. L. 95–91, title III, §§301(b), 302(a)(1)(D), (2), 91 Stat. 578.)
+(Aug. 20, 1937, ch. 720, §10, 50 Stat. 736; Oct. 23, 1945, ch. 433, §5, 59 Stat. 547; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 95–91, title III, §§301(b), 302(a)(1)(D), (2), Aug. 4, 1977, 91 Stat. 578.)
 
 #### References in Text
 

@@ -14,7 +14,7 @@
 
 #### (1) Establishment
 
-&emsp;Within 30 days after a qualified lender in a district is certified to issue preferred stock under section 2278b–7 of this title, the Farm Credit Bank board shall establish a specialasset group that shall review each determination by the lender not to restructure a loan.
+&emsp;Within 30 days after a qualified lender in a district is certified to issue preferred stock under section 2278b–7 of this title, the Farm Credit Bank board shall establish a special asset group that shall review each determination by the lender not to restructure a loan.
 
 #### (2) Restructuring plan
 

@@ -16,7 +16,7 @@ The purpose of this part is to increase the flexibility of States in operating a
 
 This part shall not be interpreted to entitle any individual or family to assistance under any State program funded under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §401, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2112; amended Aug. 5, 1997, Pub. L. 105–33, title V, §5514(c), 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §401, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ In general.—Except as otherwise provided in this title \[see Tables for classi
 
 &emsp;“(2)
 
-Delayed effective date for certain provisions.—Notwithstanding any other provision of thissection (but subject to subsection (b)(1)(A)(ii)), paragraphs (2), (3), (4), (5), (8), and (10) of section 409(a) and section 411(a) of the Social Security Act \[sections 609(a) and 611(a) of this title\] (as added by the amendments made by section 103(a) of this Act) shall not take effect with respect to a State until, and shall apply only with respect to conduct that occurs on or after, the later of—
+Delayed effective date for certain provisions.—Notwithstanding any other provision of this section (but subject to subsection (b)(1)(A)(ii)), paragraphs (2), (3), (4), (5), (8), and (10) of section 409(a) and section 411(a) of the Social Security Act \[sections 609(a) and 611(a) of this title\] (as added by the amendments made by section 103(a) of this Act) shall not take effect with respect to a State until, and shall apply only with respect to conduct that occurs on or after, the later of—
 
 &emsp;&emsp;“(A) July 1, 1997; or
 

@@ -28,7 +28,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (c) Toxic chemicals covered
 
-The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
+The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of theSenate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
 
 #### (d) Revisions by Administrator
 
@@ -40,7 +40,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;A chemical may be added if the Administrator determines, in his judgment, that there is sufficient evidence to establish any one of the following:
 
-&emsp;&emsp;(A) The chemical is known to cause or can reasonably be anticipated to cause significant adverse acute human health effects atconcentration levels that are reasonably likely to exist beyond facility site boundaries as a result of continuous, or frequently recurring, releases.
+&emsp;&emsp;(A) The chemical is known to cause or can reasonably be anticipated to cause significant adverse acute human health effects at concentration levels that are reasonably likely to exist beyond facility site boundaries as a result of continuous, or frequently recurring, releases.
 
 &emsp;&emsp;(B) The chemical is known to cause or can reasonably be anticipated to cause in humans—
 
@@ -122,7 +122,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;&emsp;(A) provide for the name and location of, and principal business activities at, the facility;
 
-&emsp;&emsp;(B) include an appropriate certification, signed by a senior official with managementresponsibility for the person or persons completing the report, regarding the accuracy and completeness of the report; and
+&emsp;&emsp;(B) include an appropriate certification, signed by a senior official with management responsibility for the person or persons completing the report, regarding the accuracy and completeness of the report; and
 
 &emsp;&emsp;(C) provide for submission of each of the following items of information for each listed toxic chemical known to be present at the facility:
 
@@ -184,7 +184,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (5) Notification to Congress
 
-&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
+&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for amodification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
 
 #### (6) Judicial review
 
@@ -196,7 +196,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (8) Effective date
 
-&emsp;Any modification made on or after January 1 and before December 1 of any calendar yearshall take effect beginning with the next calendar year. Any modification made on or after December 1 of any calendar year and before January 1 of the next calendar year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any modification made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any modification made on or after December 1 of any calendar year and before January 1 of the next calendar year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (j) EPA management of data
 
@@ -252,7 +252,7 @@ Memorandum of President of the United States, Aug. 8, 1995, 60 F.R. 41791, provi
 
 Memorandum for the Administrator of the Environmental Protection Agency and the Heads of Executive Departments and Agencies
 
-The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentivefor businesses to find their own ways of preventing pollution.
+The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
 
 The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open process on the policy issues posed by EPA's exercise of these authorities.
 

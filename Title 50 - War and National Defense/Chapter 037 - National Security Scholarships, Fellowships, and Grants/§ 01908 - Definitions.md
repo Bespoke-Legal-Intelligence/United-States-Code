@@ -6,7 +6,7 @@ For the purpose of this chapter:
 
 &emsp;(2) The term “Fund” means the National Security Education Trust Fund established pursuant to section 1904 of this title.
 
-&emsp;(3) The term “institution of higher education” has the meaning given that term by section 1141(a) of title 20.
+&emsp;(3) The term “institution of higher education” has the meaning given that term by section 1001 of title 20.
 
 &emsp;(4) The term “national security position” means a position—
 
@@ -14,11 +14,17 @@ For the purpose of this chapter:
 
 &emsp;&emsp;(B) in which the individual in such position makes their foreign language skills available to such agency or office.
 
-(Pub. L. 102–183, title VIII, §808, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 104–201, div. A, title X, §1078(f)(1), Sept. 23, 1996, 110 Stat. 2666.)
+(Pub. L. 102–183, title VIII, §808, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 104–201, div. A, title X, §1078(f)(1), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–244, title I, §102(a)(15), Oct. 7, 1998, 112 Stat. 1622.)
 
 #### Amendments
 
+1998—Par. (3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
 1996—Par. (4). Pub. L. 104–201 added par. (4).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

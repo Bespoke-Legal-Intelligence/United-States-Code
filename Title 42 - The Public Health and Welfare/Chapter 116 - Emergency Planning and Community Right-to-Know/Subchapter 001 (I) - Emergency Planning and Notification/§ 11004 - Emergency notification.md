@@ -22,7 +22,7 @@
 
 &emsp;If a release of a substance which is not on the list referred to in section 11002(a) of this title occurs at a facility at which a hazardous chemical is produced, used, or stored, and such release requires notification under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator shall provide notice as follows:
 
-&emsp;&emsp;(A) If the substance is one for which a reportable quantity has been established under section 102(a) of CERCLA \[42 U.S.C. 9602(a)\], the owner or operator shall provide notice as described in subsection (b) of this section.
+&emsp;&emsp;(A) If the substance is one for which a reportable quantity has been established undersection 102(a) of CERCLA \[42 U.S.C. 9602(a)\], the owner or operator shall provide notice as described in subsection (b) of this section.
 
 &emsp;&emsp;(B) If the substance is one for which a reportable quantity has not been established under section 102(a) of CERCLA \[42 U.S.C. 9602(a)\]—
 
@@ -32,7 +32,7 @@
 
 #### (4) Exempted releases
 
-&emsp;This section does not apply to any release which results in exposure to persons solelywithin the site or sites on which a facility is located.
+&emsp;This section does not apply to any release which results in exposure to persons solely within the site or sites on which a facility is located.
 
 #### (b) Notification
 

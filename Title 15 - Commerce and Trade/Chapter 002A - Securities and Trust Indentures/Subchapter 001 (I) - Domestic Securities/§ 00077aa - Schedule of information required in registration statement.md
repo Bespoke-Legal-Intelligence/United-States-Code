@@ -8,7 +8,7 @@ schedule a
 
 (3) the location of the issuer's principal business office, and if the issuer is a foreign or territorial person, the name and address of its agent in the United States authorized to receive notice;
 
-(4) the names and addresses of the directors or persons performing similar functions, and the chief executive, financial and accounting officers, chosen or to be chosen if the issuer be a corporation, association, trust, or other entity; of all partners, if the issuer be a partnership; and of the issuer, if the issuer be an individual; and of the promoters in the case of a business to be formed, or formed within two years prior to the filing of the registration statement;
+(4) the names and addresses of the directors or persons performing similar functions, and the chief executive, financial and accounting officers, chosen or to be chosen if the issuer be a corporation, association, trust, or other entity; of all partners, if the issuer be a partnership;and of the issuer, if the issuer be an individual; and of the promoters in the case of a business to be formed, or formed within two years prior to the filing of the registration statement;
 
 (5) the names and addresses of the underwriters;
 
@@ -36,7 +36,7 @@ schedule a
 
 (17) all commissions or discounts paid or to be paid, directly or indirectly, by the issuer to the underwriters in respect of the sale of the security to be offered. Commissions shall include all cash, securities, contracts, or anything else of value, paid, to be set aside, disposed of, or understandings with or for the benefit of any other persons in which any underwriter is interested, made, in connection with the sale of such security. A commission paid or to be paid in connection with the sale of such security by a person in which the issuer has an interest or which is controlled or directed by, or under common control with, the issuer shall be deemed to have been paid by the issuer. Where any such commission is paid the amount of such commission paid to each underwriter shall be stated;
 
-(18) the amount or estimated amounts, itemized in reasonable detail, of expenses, other than commissions specified in paragraph (17) of this schedule, incurred or borne by or for the accountof the issuer in connection with the sale of the security to be offered or properly chargeable thereto, including legal, engineering, certification, authentication, and other charges;
+(18) the amount or estimated amounts, itemized in reasonable detail, of expenses, other than commissions specified in paragraph (17) of this schedule, incurred or borne by or for the account of the issuer in connection with the sale of the security to be offered or properly chargeable thereto, including legal, engineering, certification, authentication, and other charges;
 
 (19) the net proceeds derived from any security sold by the issuer during the two years preceding the filing of the registration statement, the price at which such security was offered to the public, and the names of the principal underwriters of such security;
 
@@ -48,7 +48,7 @@ schedule a
 
 (23) the names and addresses of counsel who have passed on the legality of the issue;
 
-(24) dates of and parties to, and the general effect concisely stated of every material contract made, not in the ordinary course of business, which contract is to be executed in whole or in part at or after the filing of the registration statement or which contract has been made not more than two years before such filing. Any management contract or contract providing for special bonuses or profit-sharing arrangements, and every material patent or contract for a material patent right, and every contract by or with a public utility company or an affiliate thereof, providing for the giving or receiving of technical or financial advice or service (if such contract may involve a charge to any party thereto at a rate in excess of $2,500 per year in cash or securities or anything else of value), shall be deemed a material contract;
+(24) dates of and parties to, and the general effect concisely stated of every material contractmade, not in the ordinary course of business, which contract is to be executed in whole or in part at or after the filing of the registration statement or which contract has been made not more than two years before such filing. Any management contract or contract providing for special bonuses or profit-sharing arrangements, and every material patent or contract for a material patent right, and every contract by or with a public utility company or an affiliate thereof, providing for the giving or receiving of technical or financial advice or service (if such contract may involve a charge to any party thereto at a rate in excess of $2,500 per year in cash or securities or anything else of value), shall be deemed a material contract;
 
 (25) a balance sheet as of a date not more than ninety days prior to the date of the filing of the registration statement showing all of the assets of the issuer, the nature and cost thereof, whenever determinable, in such detail and in such form as the Commission shall prescribe (with intangible items segregated), including any loan in excess of $20,000 to any officer, director, stockholder or person directly or indirectly controlling or controlled by the issuer, or person under direct or indirect common control with the issuer. All the liabilities of the issuer in such detail and such form as the Commission shall prescribe, including surplus of the issuer showing how and from what sources such surplus was created, all as of a date not more than ninety days prior to the filing of the registration statement. If such statement be not certified by an independent public or certified accountant, in addition to the balance sheet required to be submitted under this schedule, a similar detailed balance sheet of the assets and liabilities of the issuer, certified by an independent public or certified accountant, of a date not more than one year prior to the filing of the registration statement, shall be submitted;
 
@@ -56,11 +56,11 @@ schedule a
 
 (27) if the proceeds, or any part of the proceeds, of the security to be issued is to be applied directly or indirectly to the purchase of any business, a profit and loss statement of such business certified by an independent public or certified accountant, meeting the requirements of paragraph (26) of this schedule, for the three preceding fiscal years, together with a balance sheet, similarly certified, of such business, meeting the requirements of paragraph (25) of this schedule of a date not more than ninety days prior to the filing of the registration statement or at the date such business was acquired by the issuer if the business was acquired by the issuer more than ninety days prior to the filing of the registration statement;
 
-(28) a copy of any agreement or agreements (or, if identic agreements are used, the forms thereof) made with any underwriter, including all contracts and agreements referred to in paragraph (17) of this schedule;
+(28) a copy of any agreement or agreements (or, if identical agreements are used, the forms thereof) made with any underwriter, including all contracts and agreements referred to in paragraph (17) of this schedule;
 
 (29) a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation of such opinion, when necessary, into the English language;
 
-(30) a copy of all material contracts referred to in paragraph (24) of this schedule, but no disclosure shall be required of any portion of any such contract if the Commission determines that disclosure of such portion would impair the valueof the contract and would not be necessary for the protection of the investors;
+(30) a copy of all material contracts referred to in paragraph (24) of this schedule, but no disclosure shall be required of any portion of any such contract if the Commission determines that disclosure of such portion would impair the value of the contract and would not be necessary for the protection of the investors;
 
 (31) unless previously filed and registered under the provisions of this subchapter, and brought up to date, (a) a copy of its articles of incorporation, with all amendments thereof and of its existing bylaws or instruments corresponding thereto, whatever the name, if the issuer be a corporation; (b) copy of all instruments by which the trust is created or declared, if the issuer is a trust; (c) a copy of its articles of partnership or association and all other papers pertaining to its organization, if the issuer is a partnership, unincorporated association, joint-stock company, or any other form of organization; and
 
@@ -72,7 +72,7 @@ schedule b
 
 (1) Name of borrowing government or subdivision thereof;
 
-(2) specific purposes in detail and the approximate amounts to be devoted to such purposes, so far as determinable, for which the security to be offered is to supply funds, and if the funds are to be raised in part from other sources, the amounts thereof and the sources thereof, shall be stated;
+(2) specific purposes in detail and the approximate amounts to be devoted to such purposes, so far as determinable, for which the security to be offered is to supply funds, and if the funds are tobe raised in part from other sources, the amounts thereof and the sources thereof, shall be stated;
 
 (3) the amount of the funded debt and the estimated amount of the floating debt outstanding and to be created by the security to be offered, excluding intergovernmental debt, and a brief description of the date, maturity, character of such debt, rate of interest, character of amortization provisions, and the security, if any, therefor. If substitution of any security is permissible, a statement of the conditions under which such substitution is permitted. If substitution is permissible without notice, a specific statement to that effect;
 
@@ -98,7 +98,11 @@ schedule b
 
 (14) an agreement of the issuer to furnish a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation, where necessary, into the English language. Such opinion shall set out in full all laws, decrees, ordinances, or other acts of Government under which the issue of such security has been authorized.
 
-(May 27, 1933, ch. 38, title I, schedules A, B, 48 Stat. 88, 91.)
+(May 27, 1933, ch. 38, title I, schedules A, B, 48 Stat. 88, 91; Pub. L. 105–353, title III, §301(a)(6), Nov. 3, 1998, 112 Stat. 3235.)
+
+#### Amendments
+
+1998—Schedule A, par. (28). Pub. L. 105–353 substituted “identical” for “identic”.
 
 #### Transfer of Functions
 

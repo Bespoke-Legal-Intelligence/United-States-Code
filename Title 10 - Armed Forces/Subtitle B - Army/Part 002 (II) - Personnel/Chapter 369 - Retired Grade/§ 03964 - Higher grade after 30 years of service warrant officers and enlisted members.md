@@ -1,6 +1,6 @@
 ### §3964. Higher grade after 30 years of service: warrant officers and enlisted members
 
-(a) Each retired member of the Army covered by subsection (b) who is retired with less than 30 years of active service is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily (or, in the case of amember of the National Guard, in which he served on full-time duty satisfactorily), as determined by the Secretary of the Army.
+(a) Each retired member of the Army covered by subsection (b) who is retired with less than 30 years of active service is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily (or, in the case of a member of the National Guard, in which he served on full-time duty satisfactorily), as determined by the Secretary of the Army.
 
 (b) This section applies to—
 
@@ -10,7 +10,7 @@
 
 &emsp;(3) reserve enlisted members of the Army who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time National Guard duty).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 231; Sept. 2, 1958, Pub. L. 85–861, §1(100), 72 Stat. 1489; Oct. 19, 1984, Pub. L. 98–525, title V, §533(c), 98 Stat. 2528; Dec. 4, 1987, Pub. L. 100–180, div. A, title V, §512(a), 101 Stat. 1089.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 231; Pub. L. 85–861, §1(100), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 98–525, title V, §533(c), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 100–180, div. A, title V, §512(a), Dec. 4, 1987, 101 Stat. 1089.)
 
 Historical and Revision Notes<br>1956
 
@@ -62,7 +62,7 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 
 #### Effective Date of 1987 Amendment
 
-Section 512(f) of Pub. L. 100–180 provided that: “The amendments made by subsections (a) and (c) \[amending this section and section 8964 of this title\] shall apply to any reserve enlisted member who completes 30 years of service in the Armed Forces before, on, or after the date of the enactment of this Act \[Dec. 4, 1987\]. No person may be paid retired pay at a higher rate by reason of the enactment of this Act \[Pub. L. 100–180, see Tables for classification\] for any period before the date of the enactment of this Act.”
+Section 512(f) of Pub. L. 100–180 provided that: “The amendments made by subsections (a) and (c) \[amending this section and section 8964 of this title\] shall apply to any reserve enlisted member who completes 30 years ofservice in the Armed Forces before, on, or after the date of the enactment of this Act \[Dec. 4, 1987\]. No person may be paid retired pay at a higher rate by reason of the enactment of this Act \[Pub. L. 100–180, see Tables for classification\] for any period before the date of the enactment of this Act.”
 
 #### Cross References
 

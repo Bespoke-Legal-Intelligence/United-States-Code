@@ -10,7 +10,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except as otherwise provided in this subsection with respect to individuals who use wheelchairs, it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease any new rail passenger cars for use in intercity rail transportation,and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;&emsp;Except as otherwise provided in this subsection with respect to individuals who use wheelchairs, it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease any new rail passenger cars for use in intercity rail transportation, and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (B) Special rule for single-level passenger coaches for individuals who use wheelchairs
 
@@ -130,7 +130,7 @@
 
 #### (c) Used rail cars
 
-It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease a used rail passenger car for use in intercity or commuter rail transportation, unless such person makes demonstrated good faith efforts to purchase or lease a used rail car that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+It shall be considered discrimination for purposes of section 12132 of this title and section 794of title 29 for a person to purchase or lease a used rail passenger car for use in intercity or commuter rail transportation, unless such person makes demonstrated good faith efforts to purchase or lease a used rail car that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (d) Remanufactured rail cars
 
@@ -182,7 +182,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (ii) Alterations to a primary function area
 
-&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations that affect or could affect the usability of or access to an area of the station containing a primary function, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area, and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
+&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations that affect or could affect the usability of or access to an area of the station containing a primary function, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to themaximum extent feasible, the path of travel to the altered area, and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
 
 #### (C) Required cooperation
 

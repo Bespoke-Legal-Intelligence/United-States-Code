@@ -134,7 +134,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(D) the disposal area does not contain springs, natural water courses or wet weather seeps unless lateral drains are constructed from the wet areas to the main underdrains in such a manner that filtration of the water into the spoil pile will be prevented;
 
-&emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed in compliance with all the requirements of this chapter, and shall be placed, where possible, upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
+&emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed incompliance with all the requirements of this chapter, and shall be placed, where possible, upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
 
 &emsp;&emsp;(F) where the toe of the spoil rests on a downslope, a rock toe buttress, of sufficient size to prevent mass movement, is constructed;
 
@@ -238,7 +238,7 @@ The Secretary, with the written concurrence of the Chief of Engineers, shall est
 
 #### References in Text
 
-Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, known as the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§1001 et seq.)of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, knownas the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 #### Codification
 

@@ -110,7 +110,7 @@ The Secretary shall develop a national strategy for carrying out the activities 
 
 #### (B) State; service delivery area
 
-&emsp;&emsp;Any State or service delivery area desiring to receive such a grant for planning and program development associated with a replication effort shall submit an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.
+&emsp;&emsp;Any State or service delivery area desiring to receive such a grant for planning and program development associated with a replication effort shall submit an application to the Secretary at such time, in such manner, andcontaining or accompanied by such information as the Secretary may reasonably require.
 
 #### (C) Contents
 
@@ -169,6 +169,10 @@ The Secretary shall develop a national strategy for carrying out the activities 
 &emsp;The Secretary shall make available to carry out subsections (b) and (c) of this section any amounts reserved under section 1502(c)(2)(B)(ii)(III) of this title for a fiscal year and not expended to make grants under paragraph (1) for such year.
 
 (Pub. L. 97–300, title IV, §453, Oct. 13, 1982, 96 Stat. 1382; Pub. L. 99–496, §13, Oct. 16, 1986, 100 Stat. 1265; Pub. L. 102–367, title IV, §403(a)(3), Sept. 7, 1992, 106 Stat. 1080.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Amendments
 

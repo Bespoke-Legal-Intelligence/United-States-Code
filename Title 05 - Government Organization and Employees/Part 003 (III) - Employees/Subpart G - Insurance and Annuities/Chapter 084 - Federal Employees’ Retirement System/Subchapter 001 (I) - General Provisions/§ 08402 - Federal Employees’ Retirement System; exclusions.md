@@ -36,15 +36,17 @@
 
 (8) The Director of the Administrative Office of the United States Courts may exclude from the operation of this chapter an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section 610 of title 28, whose employment is temporary or of uncertain duration.
 
+(9) The Joint Committee on Judicial Administration in the District of Columbia may exclude from the operation of this chapter an employee of the District of Columbia Courts whose employment is temporary or of uncertain duration.
+
 (d) Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.
 
-(e) A bankruptcy judge or magistrate who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate notifies the Director of the Administrative Office of theUnited States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate shall be entitled to a lump-sum credit under section 8424 of this title.
+(e) A bankruptcy judge or magistrate who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities forBankruptcy Judges and Magistrates Act of 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (f) A judge who is covered by section 7296 of title 38 shall be excluded from the operation of this chapter if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (g) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §306(e)(3), Dec. 1, 1990, 104 Stat. 5112; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §306(e)(3), Dec. 1, 1990, 104 Stat. 5112; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424.)
 
 #### References in Text
 
@@ -57,6 +59,8 @@ The Foreign Service Act of 1980, referred to in subsecs. (b)(2)(A) and (d), is P
 Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (e), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+1998—Subsec. (c)(9). Pub. L. 105–274 added par. (9).
 
 1996—Subsec. (c)(5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions and subpar. (B).
 
@@ -85,6 +89,10 @@ Subsec. (e). Pub. L. 100–659 added subsec. (e).
 #### Change of Name
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–274, §10, Oct. 20, 1998, 112 Stat. 2429, provided that: “Except as otherwise specifically provided, this Act \[amending this section and enacting provisions set out as a note under section 8401 of this title\] and the amendments made by this Act shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
 
 #### Effective Date of 1992 Amendment
 

@@ -16,7 +16,7 @@ With respect to research on women's health, the Director of the Office shall, no
 
 The Director of the Office shall submit each report prepared under subsection (a) of this section to the Director of NIH for inclusion in the report submitted to the President and the Congress under section 283 of this title.
 
-(July 1, 1944, ch. 373, title IV, §486B, as added June 10, 1993, Pub. L. 103–43, title I, §141(a)(3), 107 Stat. 139.)
+(July 1, 1944, ch. 373, title IV, §486B, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 139.)
 
 #### Section Referred to in Other Sections
 

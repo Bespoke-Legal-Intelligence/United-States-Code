@@ -12,7 +12,7 @@ The Congress finds and declares the following:
 
 &emsp;(5) The preservation of this irreplaceable maritime heritage is in the public interest so that its vital legacy of cultural, educational, aesthetic, inspirational, and economic benefits will be maintained and enriched for future generations of Americans.
 
-&emsp;(6) The current governmental and nongovernmental historic preservation programs and activities are inadequate to ensure future generations a genuine opportunity to appreciate and enjoy the rich maritime heritage of our Nation.
+&emsp;(6) The current governmental and nongovernmental historic preservation programsand activities are inadequate to ensure future generations a genuine opportunity to appreciate and enjoy the rich maritime heritage of our Nation.
 
 &emsp;(7) A coordinated national program is needed immediately to redress the adverse consequences of a period of indifference during which the maritime heritage of the United States has become endangered and to ensure the future preservation of the Nation's maritime heritage.
 

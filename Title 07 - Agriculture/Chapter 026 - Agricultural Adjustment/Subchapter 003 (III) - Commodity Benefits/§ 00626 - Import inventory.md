@@ -6,7 +6,7 @@ The Secretary of Agriculture, in consultation with the Secretary of Commerce, th
 
 #### (b) Compilation and report on consumption
 
-The Secretary shall compile and report to the public data on the total quantity of production and consumption of domestically produced raw and processed agricultural products.
+The Secretary shall compile and report to the public data on the total quantity of productionand consumption of domestically produced raw and processed agricultural products.
 
 #### (c) Issuing of data
 

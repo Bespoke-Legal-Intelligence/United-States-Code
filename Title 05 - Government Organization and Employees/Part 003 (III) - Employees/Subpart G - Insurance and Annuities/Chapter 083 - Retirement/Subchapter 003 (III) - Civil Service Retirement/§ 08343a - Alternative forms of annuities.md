@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q)of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
+1997—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q) of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
 
 1993—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
@@ -64,7 +64,7 @@ Section 7001(a)(4) of Pub. L. 101–508 provided that:
 
 &emsp;“(II) is an employee of the Department of Defense who is certified by the Secretary of Defense to have performed, after November 30, 1990, duties essential for the support of Operation Desert Shield; and
 
-&emsp;“(ii) would have been eligible to make an election under section 8343a or 8420a of title 5, United States Code (as amended by paragraph (1)) as of November 30, 1990.
+&emsp;“(ii) would have been eligible to make an election under section 8343a or 8420a of title 5, United StatesCode (as amended by paragraph (1)) as of November 30, 1990.
 
 “(C) The Office of Personnel Management may prescribe such regulations as may be necessary to carry out this paragraph.”
 

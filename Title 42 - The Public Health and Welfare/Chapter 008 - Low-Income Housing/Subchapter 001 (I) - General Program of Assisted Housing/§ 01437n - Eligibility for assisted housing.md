@@ -1,66 +1,158 @@
 ### §1437n. Eligibility for assisted housing
 
-#### (a) Percentage availability under contracts prior to October 1, 1981
+#### (a) Income eligibility for public housing
 
-Not more than 25 per centum of the dwelling units which were available for occupancy under public housing annual contributions contracts and section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter before October 1, 1981, and which will be leased on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
+#### (1) Income mix within projects
 
-#### (b) Percentage availability under contracts on or after October 1, 1981
+&emsp;A public housing agency may establish and utilize income-mix criteria for the selection of residents for dwelling units in public housing projects, subject to the requirements of this section.
 
-(1) Not more than 15 percent of the dwelling units which become available for occupancy under public housing contributions contracts and section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
+#### (2) PHA income mix
 
-(2) Not more than 25 percent of the dwelling units in any project of any agency shall be available for occupancy by low-income families other than very low-income families. The limitation shall not apply in the case of any project in which, before November 28, 1990, such low-income families occupy more than 25 percent of the dwelling units.
+&emsp;(A) <sup>1</sup>
 
-#### (c) Admission procedures
+Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
 
-In developing admission procedures implementing subsection (b) of this section, the Secretary may not totally prohibit admission of low-income families other than very low-income families and shall establish an appropriate specific percentage of low-income families other than very-low income families that may be assisted in each assisted housing program that, when aggregated, will achieve the overall percentage limitation contained in subsection (b) of this section. In developing such admission procedures, the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the written system of preferences for selection established by the public housing agency pursuant to section 1437d(c)(4)(A) of this title. The Secretary shall issue regulations to carry out this subsection not later than 60 days after February 5, 1988.
+#### (3) Prohibition of concentration of low-income families
 
-#### (d) Applicability of admission procedures limitations
+#### (A) Prohibition
 
-The limitations established in subsection (b) of this section shall not apply to dwelling units made available under section 8 \[42 U.S.C. 1437f\]housing assistance contracts for the purpose of preventing displacement, or ameliorating the effects of displacement, including displacement caused by rents exceeding 30 percent of monthly adjusted family income, of low-income families from projects being rehabilitated with assistance from rehabilitation grants under section 1437<i>o</i> <sup>1</sup> of this title and the Secretary shall not otherwise unduly restrict the use of payments under section 8 \[42 U.S.C. 1437f\] housing assistance contracts for this purpose.
+&emsp;&emsp;A public housing agency may not, in complying with the requirements under paragraph (2), concentrate very low-income families (or other families with relatively low incomes) in public housing dwelling units in certain public housing projects or certain buildings within projects. The Secretary shall review the income and occupancy characteristics of the public housing projects and the buildings of such projects of such agencies to ensure compliance with the provisions of this paragraph and paragraph (2).
 
-#### (e) Ineligibility of illegal drug users and alcohol abusers
+#### (B) Deconcentration
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A public housing agency shall submit with its annual public housing agency plan under section 1437c–1 of this title an admissions policy designed to provide for deconcentration of poverty and income-mixing by bringing higher income tenants into lower income projects and lower income tenants into higher income projects. This clause may not be construed to impose or require any specific income or racial quotas for any project or projects.
+
+#### (ii) Incentives
+
+&emsp;&emsp;&emsp;In implementing the policy under clause (i), a public housing agency may offer incentives for eligible families having higher incomes to occupy dwelling unit in projects predominantly occupied by eligible families having lower incomes, and provide for occupancy of eligible families having lower incomes in projects predominantly occupied by eligible families having higher incomes.
+
+#### (iii) Family choice
+
+&emsp;&emsp;&emsp;Incentives referred to in clause (ii) may be made available by a public housing agency only in a manner that allows for the eligible family to have the sole discretion in determining whether to accept the incentive and an agency may not take any adverse action toward any eligible family for choosing not to accept an incentive and occupancy of a project described in clause (i)(II),<sup>2</sup> <i>Provided</i>, That the skipping of a family on a waiting list to reach another family to implement the policy under clause (i) shall not be considered an adverse action. An agency implementing an admissions policy under this subparagraph shall implement the policy in a manner that does not prevent or interfere with the use of site-based waiting lists authorized under section 1437d(s) <sup>3</sup> of this title.
+
+#### (4) Fungibility with tenant-based assistance
+
+#### (A) Authority
+
+&emsp;&emsp;Except as provided under subparagraph (D), the number of public housing dwelling units that a public housing agency shall otherwise make available in accordance with paragraph (2)(A) to comply with the percentage requirement under such paragraph for a fiscal year shall be reduced by the credit number for the agency under subparagraph (B).
+
+#### (B) Credit for exceeding tenant-based assistance targeting requirement
+
+&emsp;&emsp;Subject to subparagraph (C), the credit number under this subparagraph for a public housing agency for a fiscal year shall be the number by which—
+
+&emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistance under section 1437f of this title by the agency; exceeds
+
+&emsp;&emsp;&emsp;(ii) the number of qualified families that is required for the agency to comply with the percentage requirement under subsection (b)(1) of this section for such fiscal year.
+
+#### (C) Limitations on credit number
+
+&emsp;&emsp;The credit number under subparagraph (B) for a public housing agency for a fiscal year may not in any case exceed the lesser of—
+
+&emsp;&emsp;&emsp;(i) the number of dwelling units that is equivalent to 10 percent of the aggregate number of families initially provided tenant-based assistance under section 1437f of this title by the agency in such fiscal year; or
+
+&emsp;&emsp;&emsp;(ii) the number of public housing dwelling units of the agency that—
+
+&emsp;&emsp;&emsp;&emsp;(I) are in projects that are located in census tracts having a poverty rate of 30 percent or more; and
+
+&emsp;&emsp;&emsp;&emsp;(II) are made available for occupancy during such fiscal year and are actually filled only by families whose incomes at the time of commencement of such occupancy exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
+
+#### (D) Fungibility floor
+
+&emsp;&emsp;Notwithstanding any authority under subparagraph (A), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 30 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
+
+#### (E) Qualified family
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualified family” means a family having an income described in subsection (b)(1) of this section.
+
+#### (b) Income eligibility for tenant-based section 1437f assistance
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, a public housing agency shall establish standards for occupancy in public housing dwelling units and assistance under section 1437f of this title—
+&emsp;Of the families initially provided tenant-based assistance under section 1437f of this title by a public housing agency in any fiscal year, not less than 75 percent shall be families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
 
-&emsp;&emsp;(A) that prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, any person—
+#### (2) Jurisdictions served by multiple PHAs
 
-&emsp;&emsp;&emsp;(i) who the public housing agency determines is illegally using a controlled substance; or
+&emsp;In the case of any 2 or more public housing agencies that administer tenant-based assistance under section 1437f of this title with respect solely to identical geographical areas, such agencies shall be treated as a single public housing agency for purposes of paragraph (1).
 
-&emsp;&emsp;&emsp;(ii) if the public housing agency determines that it has reasonable cause to believe that such person's illegal use (or pattern of illegal use) of a controlled substance, or abuse (or pattern of abuse) of alcohol, may interfere with the health, safety, or right to peaceful enjoyment of the premises by other residents of the project; and
+#### (c) Income eligibility for project-based section 1437f assistance
 
-&emsp;&emsp;(B) that allow the public housing agency to terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person—
+#### (1) Pre-1981 act projects
 
-&emsp;&emsp;&emsp;(i) who the public housing agency determines is illegally using a controlled substance; or
+&emsp;Not more than 25 percent of the dwelling units that were available for occupancy under section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter before October 1, 1981, and which will be leased on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
 
-&emsp;&emsp;&emsp;(ii) whose illegal use of a controlled substance, or whose abuse of alcohol, is determined by the public housing agency to interfere with the health, safety, or right to peaceful enjoyment of the premises by other residents of the project.
+#### (2) Post-1981 act projects
 
-#### (2) Consideration of rehabilitation
+&emsp;Not more than 15 percent of the dwelling units which become available for occupancyunder section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
 
-&emsp;In determining whether, pursuant to paragraph (1), to deny occupancy or assistance to any person based on a pattern of use of a controlled substance or a pattern of abuse of alcohol, a public housing agency may consider whether such person—
+#### (3) Targeting
 
-&emsp;&emsp;(A) has successfully completed a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
+&emsp;For each project assisted under a contract for project-based assistance, of the dwelling units that become available for occupancy in any fiscal year that are assisted under the contract, not less than 40 percent shall be available for leasing only by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families.
 
-&emsp;&emsp;(B) has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
+#### (4) Prohibition of skipping
 
-&emsp;&emsp;(C) is participating in a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
+&emsp;In developing admission procedures implementing paragraphs (1), (2), and (3), the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence. Nothing in this paragraph or this subsection may be construed to prevent an owner of housing assisted under a contract for project-based assistance from establishing a preference for occupancy in such housing for families containing a member who is employed.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Aug. 13, 1981, Pub. L. 97–35, title III, §323, 95 Stat. 404; amended Nov. 30, 1983, Pub. L. 98–181, title II, §213, 97 Stat. 1184; Feb. 5, 1988, Pub. L. 100–242, title I, §§103, 112(b)(8), 101 Stat. 1822, 1824; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 7, 1988, Pub. L. 100–628, title X, §1001(a), 102 Stat. 3263; Nov. 28, 1990, Pub. L. 101–625, title V, §§511, 572(1), 104 Stat. 4194, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §105, 106 Stat. 3684; Jan. 26, 1996, Pub. L. 104–99, title IV, §402(d)(6)(A)(v), 110 Stat. 42; Mar. 28, 1996, Pub. L. 104–120, §9(d), 110 Stat. 837; Oct. 26, 1996, Pub. L. 104–330, title V, §501(b)(7), 110 Stat. 4042.)
+#### (5) Exception
 
-#### Amendment of Section
+&emsp;The limitations established in paragraphs (1), (2), and (3) shall not apply to dwelling units made available under project-based contracts under section 1437f of this title for the purpose of preventing displacement, or ameliorating the effects of displacement.
 
-<i>For termination of amendment by section 402(f) of Pub. L. 104–99, see Effective and Termination Dates of 1996 Amendments note below.</i>
+#### (6) Definition
+
+&emsp;For purposes of this subsection, the term “project-based assistance” means assistance under any of the following programs:
+
+&emsp;&emsp;(A) The new construction or substantial rehabilitation program under section 1437f(b)(2) of this title (as in effect before October 1, 1983).
+
+&emsp;&emsp;(B) The property disposition program under section 1437f(b) of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998).
+
+&emsp;&emsp;(C) The loan management set-aside program under subsections (b) and (v) of section 1437f of this title.
+
+&emsp;&emsp;(D) The project-based certificate program under section 1437f(d)(2) of this title.
+
+&emsp;&emsp;(E) The moderate rehabilitation program under section 1437f(e)(2) of this title (as in effect before October 1, 1991).
+
+&emsp;&emsp;(F) The low-income housing preservation program under Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\] or the provisions of the Emergency Low Income Housing Preservation Act of 1987 (as in effect before November 28, 1990).
+
+&emsp;&emsp;(G) Section 1437f of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998), following conversion from assistance under section 1701s of title 12 or section 1715z–1(f)(2) of title 12.
+
+#### (d) Establishment of different standards
+
+Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the Secretary, a public housing agency may for good cause establish and implement, in accordance with the public housing agency plan, an admission standard other than the standard under such subsection.
+
+#### (e) Repealed. Pub. L. 105–276, title V, §576(d)(2), Oct. 21, 1998, 112 Stat. 2640
+
+#### (f) Ineligibility of individuals convicted of manufacturing or producing methamphetamine on the premises
+
+Notwithstanding any other provision of law, a public housing agency shall establish standards for occupancy in public housing dwelling units and assistance under section 1437f of this title that—
+
+&emsp;(1) permanently prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, any person who has been convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law; and
+
+&emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
+
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title II, §213, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546.)
 
 #### References in Text
 
-Section 1437<i>o</i> of this title, referred to in subsec. (d), was repealed by Pub. L. 101–625, title II, §289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
+Section 1437d(s) of this title, referred to in subsec. (a)(3)(B)(iii), probably should be a reference to section 1437d(r) of this title. Pub. L. 105–276, title V, §§525, 575(d), 576(d)(1)(B), Oct. 21, 1998, 112 Stat. 2568, 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating to authority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
+
+Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (c)(6)(B), (G), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+
+The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec.\(c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
+
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715<i>l</i> of Title 12, Banks and Banking, and which amended section 1715z–6 of Title 12, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of Title 12. Subtitles C and D of title II amended section 1715z–15 of Title 12 and sections 1437f, 1472, 1485, and 1487 of this title. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
 #### Codification
 
-October 1, 1981, referred to in subsecs. (a) and (b)(1), was in the original “the effective date of the Housing and Community Development Amendments of 1981” and “such effective date” meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 384, which was generally effective Oct. 1, 1981. See Effective Date note below.
+October 1, 1981, referred to in subsec. (c)(1), (2), was in the original “the effective date of the Housing and Community Development Amendments of 1981” and “such effective date”, meaning the effective date of subtitle A of title III of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 384, which was generally effective Oct. 1, 1981. See Effective Date note below.
 
 #### Amendments
+
+1998—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
+
+Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
+
+Subsec. (f). Pub. L. 105–276, §428, added subsec. (f).
 
 1996—Pub. L. 104–120, §9(d)(1), substituted “Eligibility” for “Income eligibility” in section catchline.
 
@@ -94,13 +186,21 @@ Subsec. (d). Pub. L. 100–242, §103, added subsec. (d).
 
 1983—Subsec. (a). Pub. L. 98–181 increased to 25 from 10 the percentage of dwelling units available for leasing.
 
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546, provided that the amendment made by section 123 of Pub. L. 105–277 is effective upon enactment of Pub. L. 105–276.
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+
+Pub. L. 105–276, title V, §513(b), Oct. 21, 1998, 112 Stat. 2547, provided that: “This section \[amending this section\] shall take effect on, and the amendments under this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+
 #### Effective and Termination Dates of 1996 Amendments
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Effective Date
 
@@ -108,7 +208,11 @@ Section effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437e, 1437r of this title; title 12 section 1715z–1a.
+This section is referred to in sections 1437c–1, 1437e, 1437r, 1437bbb–4 of this title; title 12 section 1715z–1a.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Cl. (i) does not contain subclauses.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

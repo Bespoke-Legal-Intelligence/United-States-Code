@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, this subchapter does not a
 
 #### (3) Performance and results of information technology investments
 
-&emsp;(A) Subject to subparagraph (B), the heads of executive agencies shall apply section 1413 ofthis title to national security systems to the extent practicable.
+&emsp;(A) Subject to subparagraph (B), the heads of executive agencies shall apply section 1413 of this title to national security systems to the extent practicable.
 
 &emsp;(B) National security systems shall be subject to section 1413(b)(5) of this title except for subparagraph (B)(iv) of that section.
 

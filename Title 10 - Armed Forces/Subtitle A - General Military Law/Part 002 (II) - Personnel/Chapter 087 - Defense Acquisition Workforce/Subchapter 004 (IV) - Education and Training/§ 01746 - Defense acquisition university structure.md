@@ -34,7 +34,7 @@ Section 1205 of Pub. L. 101–510, as amended by Pub. L. 105–85, div. A, title
 
 “(a)
 
-Establishment of Structure.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe regulations for the initial structure for a defense acquisition university undersection 1746 of title 10, United States Code (as added by section 1202). The regulations shall include the following:
+Establishment of Structure.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe regulations for the initial structure for a defense acquisition university under section 1746 of title 10, United States Code (as added by section 1202). The regulations shall include the following:
 
 &emsp;“(1) Operation under a charter developed by the Secretary of Defense.
 
@@ -58,5 +58,5 @@ Implementation.—Not later than October 1, 1991, the Secretary of Defense, acti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 5102.
+This section is referred to in section 1702 of this title; title 5 section 5102.
 

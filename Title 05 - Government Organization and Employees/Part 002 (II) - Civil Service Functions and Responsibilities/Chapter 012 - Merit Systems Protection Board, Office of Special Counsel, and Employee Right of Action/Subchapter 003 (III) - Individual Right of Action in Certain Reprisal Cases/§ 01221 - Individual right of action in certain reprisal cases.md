@@ -26,7 +26,7 @@
 
 (2) Corrective action under paragraph (1) may not be ordered if the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 
-(f)(1) A final order or decision shall be rendered by the Board as soon as practicable afterthe commencement of any proceeding under this section.
+(f)(1) A final order or decision shall be rendered by the Board as soon as practicable after the commencement of any proceeding under this section.
 
 (2) A decision to terminate an investigation under subchapter II may not be considered in any action or other proceeding under this section.
 

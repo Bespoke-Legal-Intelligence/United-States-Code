@@ -28,15 +28,15 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to assist dental schools and programs described in section 294<i>o</i>(b)(4)(B) of this title with respect to oral health care to patients with HIV disease.
+&emsp;The Secretary may make grants to assist dental schools and programs described in section 294<i>o</i>(b)(4)(B) <sup>1</sup> of this title with respect to oral health care to patients with HIV disease.
 
 #### (2) Application
 
-&emsp;Each dental school or program described in section 294<i>o</i>(b)(4)(B) of this title may annually submit an application documenting the unreimbursed costs of oral health care provided to patients with HIV disease by that school or hospital during the prior year.
+&emsp;Each dental school or program described in section 294<i>o</i>(b)(4)(B) <sup>1</sup> of this title may annually submit an application documenting the unreimbursed costs of oral health care provided to patients with HIV disease by that school or hospital during the prior year.
 
 #### (3) Distribution
 
-&emsp;The Secretary shall distribute the available funds among all eligible applicants, takinginto account the number of patients with HIV disease served and the unreimbursed oral health care costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
+&emsp;The Secretary shall distribute the available funds among all eligible applicants, taking into account the number of patients with HIV disease served and the unreimbursed oral health care costs incurred by each institution as compared with the total number of patients served and costs incurred by all eligible applicants.
 
 #### (4) Maintenance of effort
 
@@ -52,7 +52,11 @@
 
 &emsp;For the purpose of grants under subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1996 through 2000.
 
-(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2050; amended Oct. 27, 1992, Pub. L. 102–531, title III, §313(a)(4), 106 Stat. 3507; renumbered title XXVI, §2692, and amended May 20, 1996, Pub. L. 104–146, §3(h), 110 Stat. 1363; July 29, 1996, Pub. L. 104–166, §5(2), 110 Stat. 1449.)
+(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449.)
+
+#### References in Text
+
+Section 294<i>o</i> of this title, referred to in subsec. (b)(1), (2), was omitted and a new section 294<i>o</i> enacted by Pub. L. 105–392, title I, §104(a), (b)(4)–(6), Nov. 13, 1998, 112 Stat. 3552, 3553. As so enacted, such section no longer contains a subsec. (b)(4)(B).
 
 #### Codification
 
@@ -70,7 +74,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(h)(2)(B)(iv), inserted “and” after
 
 Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (A) as (B) and struck out former subpar. (B) which read as follows: “to train practitioners to provide for the health care needs of such individuals;”.
 
-Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
+Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck outformer subpar. (C) which read as follows: “with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and”.
 
 Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section:
 

@@ -48,3 +48,5 @@ Sec. 2. <i>Interagency Coordination</i>. In the exercise of the function conferr
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+

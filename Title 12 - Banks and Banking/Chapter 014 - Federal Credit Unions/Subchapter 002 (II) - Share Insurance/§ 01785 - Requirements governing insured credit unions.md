@@ -6,7 +6,7 @@ Every insured credit union shall display at each place of business maintained by
 
 #### (b) Restrictions
 
-(1) Except with the prior written approval of the Board, no insured credit union shall—
+(1) Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board—
 
 &emsp;(A) merge or consolidate with any noninsured credit union or institution;
 
@@ -16,7 +16,65 @@ Every insured credit union shall display at each place of business maintained by
 
 &emsp;(D) convert into a noninsured credit union or institution.
 
-(2) Except with the prior written approval of the Board, no insured credit union shall merge or consolidate with any other insured credit union or, either directly or indirectly, acquire the assets of, or assume liability to pay any member accounts in, any other insured credit union.
+(2)
+
+Conversion of insured credit unions to mutual savings banks.—
+
+&emsp;(A)
+
+In general.—Notwithstanding paragraph (1), an insured credit union may convert to a mutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
+
+&emsp;(B)
+
+Conversion proposal.—A proposal for a conversion described in subparagraph (A) shall first be approved, and a date set for a vote thereon by the members (either at a meeting to be held on that date or by written ballot to be filed on or before that date), by a majority of the directors of the insured credit union. Approval of the proposal for conversion shall be by the affirmative vote of a majority of the members of the insured credit union who vote on the proposal.
+
+&emsp;(C)
+
+Notice of proposal to members.—An insured credit union that proposes to convert to a mutual savings bank or savings association under subparagraph (A) shall submit notice to each of its members who is eligible to vote on the matter of its intent to convert—
+
+&emsp;&emsp;(i) 90 days before the date of the member vote on the conversion;
+
+&emsp;&emsp;(ii) 60 days before the date of the member vote on the conversion; and
+
+&emsp;&emsp;(iii) 30 days before the date of the member vote on the conversion.
+
+&emsp;(D)
+
+Notice of proposal to board.—The Board may require an insured credit union that proposes to convert to a mutual savings bank or savings association under subparagraph (A) to submit a notice to the Board of its intent to convert during the 90-day period preceding the date of the completion of the conversion.
+
+&emsp;(E)
+
+Inapplicability of chapter upon conversion.—Upon completion of a conversion described in subparagraph (A), the credit union shall no longer be subject to any of the provisions of this chapter.
+
+&emsp;(F)
+
+Limit on compensation of officials.—
+
+&emsp;&emsp;(i)
+
+In general.—No director or senior management official of an insured creditunion may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
+
+&emsp;&emsp;&emsp;(I) director fees; and
+
+&emsp;&emsp;&emsp;(II) compensation and other benefits paid to directors or senior management officials of the converted institution in the ordinary course of business.
+
+&emsp;&emsp;(ii)
+
+Senior management official.—For purposes of this subparagraph, the term “senior management official” means a chief executive officer, an assistant chief executive officer, a chief financial officer, and any other senior executive officer (as defined by the appropriate Federal banking agency pursuant to section 1831i(f) of this title).
+
+&emsp;(G)
+
+Consistent rules.—
+
+&emsp;&emsp;(i)
+
+In general.—Not later than 6 months after August 7, 1998, the Administration shall promulgate final rules applicable to charter conversions described in this paragraph that are consistent with rules promulgated by other financial regulators, including the Office of Thrift Supervision and the Office of the Comptroller of the Currency. The rules required by this clause shall provide that charter conversion by an insured credit union shall be subject to regulation that is no more or less restrictive than that applicable to charter conversions by other financial institutions.
+
+&emsp;&emsp;(ii)
+
+Oversight of member vote.—The member vote concerning charter conversion under this paragraph shall be administered by the Administration, and shall be verified by the Federal or State regulatory agency that would have jurisdiction over the institution after the conversion. If either the Administration or that regulatory agency disapproves of the methods by which the member vote was taken or procedures applicable to the member vote, the member vote shall be taken again, as directed by the Administration or the agency.
+
+(3) Except with the prior written approval of the Board, no insured credit union shall merge or consolidate with any other insured credit union or, either directly or indirectly, acquire the assets of, or assume liability to pay any member accounts in, any other insured credit union.
 
 #### (c) Considerations for waiver or enforcement of restrictions
 
@@ -94,7 +152,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (g) Interest rates
 
-(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district wheresuch credit union is located, whichever may be greater.
+(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
 
 (2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
 
@@ -114,13 +172,17 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
-(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119.)
+(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919.)
 
 #### References in Text
 
 Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–219, §202(1), substituted “Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board” for “Except with the prior written approval of the Board, no insured credit union shall”.
+
+Subsec. (b)(2), (3). Pub. L. 105–219, §202(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
 1994—Subsec. (d). Pub. L. 103–322 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -156,7 +218,7 @@ Subsec. (g). Pub. L. 96–221, §523, added subsec. (g).
 
 Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 371a of this title.
 
-Section 525 of Pub. L. 96–221 provided that: “The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that suchamendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
+Section 525 of Pub. L. 96–221 provided that: “The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
 
 #### Effective Date of 1978 Amendment
 

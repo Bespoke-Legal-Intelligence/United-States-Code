@@ -38,9 +38,9 @@ If a corporation or business entity established or acquired as part of an underc
 
 #### (d) Financial audits
 
-The Service shall conduct detailed financial audits of closed undercover operations on a quarterly basis and shall report the results of the audits in writing to the Deputy Attorney General.
+The Service shall conduct detailed financial audits of closed undercover operations on aquarterly basis and shall report the results of the audits in writing to the Deputy Attorney General.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §294, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §205(a), 110 Stat. 3009–567.)
+(June 27, 1952, ch. 477, title II, ch. 9, §294, as added Pub. L. 104–208, div. C, title II, §205(a), Sept. 30, 1996, 110 Stat. 3009–567.)
 
 #### References in Text
 

@@ -18,7 +18,7 @@ Definitions.—(A) As used in subsection (a) with respect to a Congressional Med
 
 &emsp;(B) As used in this subsection, “Congressional Medal of Honor” means a medal awarded under section 3741, 6241, or 8741 of title 10.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §16, 63 Stat. 92; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320109, title XXXIII, §330016(1)(E), 108 Stat. 2113, 2146; Nov. 2, 1994, Pub. L. 103–442, 108 Stat. 4630; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(16), 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §16, 63 Stat. 92; Pub. L. 103–322, title XXXII, §320109, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2113, 2146; Pub. L. 103–442, Nov. 2, 1994, 108 Stat. 4630; Pub. L. 104–294, title VI, §604(b)(16), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 

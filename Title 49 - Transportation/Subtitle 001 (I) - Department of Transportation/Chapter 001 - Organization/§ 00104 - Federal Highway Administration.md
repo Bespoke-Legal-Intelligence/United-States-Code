@@ -96,6 +96,34 @@ The Truman-Hobbs Act, referred to in subsec. (e), is act June 21, 1940, ch. 409,
 
 Subsec. (c)(2). Pub. L. 103–272, §5(m)(2), substituted “315” for “31”.
 
+#### Elimination of Regional Office Responsibilities
+
+Pub. L. 105–178, title I, §1220, June 9, 1998, 112 Stat. 221, provided that:
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Elimination.—The Secretary \[of Transportation\] shall eliminate any programmatic decisionmaking responsibility of the regional offices of the Federal Highway Administration for the Federal-aid highway program as part of the Administration's efforts to restructure its field organization.
+
+&emsp;“(2)
+
+Activities.—In carrying out paragraph (1), the Secretary shall eliminate regional offices, createtechnical resource centers, and, to the maximum extent practicable, delegate authority to State offices of the Federal Highway Administration.
+
+“(b)
+
+Preference.—In locating the technical resource centers, the Secretary shall give preference to cities that house, on the date of enactment of this Act \[June 9, 1998\], the Federal Highway Administration regional offices and are in locations that minimize the travel distance between the technical resource centers and the Federal Highway Administration division offices that will be served by the new technical resource centers.
+
+“(c)
+
+Report to Congress.—The Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a detailed implementation plan to carry out this section not later than September 30, 1998, and thereafter provide periodic progress reports on carrying out this section to such Committees.
+
+“(d)
+
+Implementation.—The Secretary shall begin implementation of the plan transmitted under subsection (c) not later than December 31, 1998.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 322 of this title.

@@ -156,5 +156,5 @@ Amendment by Pub. L. 100–146 effective Oct. 1, 1987, see section 601 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1438, 6062, 6064 of this title.
+This section is referred to in sections 6062, 6064 of this title.
 

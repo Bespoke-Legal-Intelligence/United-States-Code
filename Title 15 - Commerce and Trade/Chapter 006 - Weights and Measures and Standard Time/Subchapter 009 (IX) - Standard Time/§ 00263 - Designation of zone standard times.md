@@ -2,7 +2,7 @@
 
 The standard time of the first zone shall be known and designated as Atlantic standard time; that of the second zone shall be known and designated as eastern standard time; that of the third zone shall be known and designated as central standard time; that of the fourth zone shall be known and designated as mountain standard time; that of the fifth zone shall be known and designated as Pacific standard time; that of the sixth zone shall be known and designated as Alaska standard time; that of the seventh zone shall be known and designated as Hawaii-Aleutian standard time; and that of the eighth zone shall be known and designated as Samoa standard time.
 
-(Mar. 19, 1918, ch. 24, §4, 40 Stat. 451; Apr. 13, 1966, Pub. L. 89–387, §4(c), 80 Stat. 108; Nov. 30, 1983, Pub. L. 98–181, title II, §2003(a), 97 Stat. 1297.)
+(Mar. 19, 1918, ch. 24, §4, 40 Stat. 451; Pub. L. 89–387, §4(c), Apr. 13, 1966, 80 Stat. 108; Pub. L. 98–181, title II, §2003(a), Nov. 30, 1983, 97 Stat. 1297.)
 
 #### Amendments
 

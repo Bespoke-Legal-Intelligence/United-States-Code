@@ -6,12 +6,12 @@
 
 | Grade | Army | Navy | Air Force | Marine Corps |
 | :--- | :---: | :---: | :---: | ---: |
-| E–9 | &nbsp;603 | 202 | 366 | 20 |
-| E–8 | 2,585 | 429 | 890 | 94 |
+| E–9 | &nbsp;623 | 202 | 395 | 20 |
+| E–8 | 2,585 | 429 | 997 | 94 |
 
 (b) Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998.)
 
 #### Prior Provisions
 
@@ -19,9 +19,15 @@ Provisions similar to those in this section were contained in section 517(b), (c
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–261, in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
+
 1996—Pub. L. 104–106, §1501(b)(10), substituted “the National” for “National” in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §414(b), in table, in grade E–9, increased figure for Army from 569 to 603, for Air Force from 328 to 366, and for Marine Corps from 14 to 20, and in grade E–8, increased figure for Air Force from 840 to 890 and for Marine Corps from 74 to 94. All other figures remained unchanged.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 effective Oct. 1, 1998, see section 414(c) of Pub. L. 105–261, set out as a note under section 12011 of this title.
 
 #### Effective Date of 1996 Amendment
 

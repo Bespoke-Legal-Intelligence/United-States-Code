@@ -1,8 +1,0 @@
-### §296g. Repealed. Pub. L. 94–63, title IX, §922, July 29, 1975, 89 Stat. 359
-
-Section, act July 1, 1944, ch. 373, title VIII, §808, as added Aug. 16, 1968, Pub. L. 90–490, title II §212, 82 Stat. 783; amended Nov. 18, 1971, Pub. L. 92–158, §3(a), 85 Stat. 469; July 29, 1975, Pub. L. 94–63, title IX, §902(c), 89 Stat. 354, authorized appropriations for special project grants and contracts and financial distress grants from the fiscal year ending June 30, 1972 through the fiscal year ending June 30, 1975.
-
-#### Effective Date of Repeal
-
-Repeal effective July 1, 1975, see section 905 of Pub. L. 94–63, set out as an Effective Date of 1975 Amendment note under section 296 of this title.
-

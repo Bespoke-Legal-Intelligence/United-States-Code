@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-The National Housing Act, referred to in par. (3)(E), (F), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title IV of the National Housing Act which wasclassified generally to subchapter IV (§1724 et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363. Section 408 of the National Housing Act, which was classified to section 1730a of this title, was also repealed by section 407 of Pub. L. 101–73. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (3)(E), (F), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title IV of the National Housing Act which was classified generally to subchapter IV (§1724 et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363. Section 408 of the National Housing Act, which was classified to section 1730a of this title, was also repealed by section 407 of Pub. L. 101–73. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 #### Amendments
 

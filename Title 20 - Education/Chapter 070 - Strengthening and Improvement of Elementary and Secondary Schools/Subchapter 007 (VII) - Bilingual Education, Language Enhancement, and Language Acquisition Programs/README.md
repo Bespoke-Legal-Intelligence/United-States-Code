@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 6493, 8893 of this title.
+This subchapter is referred to in sections 6661g, 8893, 9252 of this title.
 
 
 ---

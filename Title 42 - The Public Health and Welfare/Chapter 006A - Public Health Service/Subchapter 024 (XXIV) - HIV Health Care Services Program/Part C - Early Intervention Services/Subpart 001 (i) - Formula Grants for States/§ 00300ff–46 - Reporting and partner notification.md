@@ -22,7 +22,7 @@ An agreement made under this section may not be construed—
 
 &emsp;(2) to require any State to establish a requirement that entities other than the public health officer of the State are required to make the notifications referred to in subsection (b) of this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2646, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 602.)
+(July 1, 1944, ch. 373, title XXVI, §2646, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 602.)
 
 #### Study Regarding Partner Notification
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) six persons designated by the President.
 
-(b) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed. The President shall designate two persons eachyear to succeed the members whose terms expire that year.
+(b) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed. The President shall designate two persons each year to succeed the members whose terms expire that year.
 
 (c) If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.
 
@@ -26,7 +26,7 @@
 
 (h) While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 434; Dec. 23, 1980, Pub. L. 96–579, §13(b), 94 Stat. 3369; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), 110 Stat. 443, 503.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 434; Pub. L. 96–579, §13(b), Dec. 23, 1980, 94 Stat. 3369; Pub. L.104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503.)
 
 Historical and Revision Notes
 
@@ -83,6 +83,10 @@ In subsection (b) the language establishing staggered terms is eliminated as exe
 Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Cross References
 

@@ -1,10 +1,10 @@
 ### §2992d. Authorization of appropriations
 
-(a) There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3 of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), such sums as may be necessary for fiscal years 1992, 1993, 1994, and 1995.
+(a) There are authorized to be appropriated for the purpose of carrying out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3 of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations), such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.
 
 (b) Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
 
-(c) There is authorized to be appropriated $8,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, and 1996, for the purpose of carrying out the provisions of section 2991b(d) of this title.
+(c) There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of section 2991b(d) of this title.
 
 (d)(1) For fiscal year 1994, there are authorized to be appropriated such sums as may be necessary for the purpose of—
 
@@ -14,15 +14,21 @@
 
 (2) Such a plan shall be delivered to the Congress not later than 30 days after September 30, 1992.
 
-(e) There are authorized to be appropriated to carry out section 2991b–3 of this title, $2,000,000 for fiscal year 1993 and such sums as may be necessary for fiscal years 1994, 1995, 1996, and 1997.
+(e) There are authorized to be appropriated to carry out section 2991b–3 of this title such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.
 
-(Pub. L. 88–452, title VIII, §816, formerly §814, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 95–568, §15, Nov. 2, 1978, 92 Stat. 2439; Pub. L. 98–558, title X, §1005, Oct. 30, 1984, 98 Stat. 2906; renumbered §816 and amended Pub. L. 100–175, title V, §§502(2), 505, 506(b), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 100–581, title II, §215, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–408, §3, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(15)–(20), Sept. 30, 1992, 106 Stat. 1299; Pub. L. 102–497, §9(c), Oct. 24, 1992, 106 Stat. 3258; Pub. L. 102–524, §3, Oct. 26, 1992, 106 Stat. 3437; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992.)
+(Pub. L. 88–452, title VIII, §816, formerly §814, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 95–568, §15, Nov. 2, 1978, 92 Stat. 2439; Pub. L. 98–558, title X, §1005, Oct. 30, 1984, 98 Stat. 2906; renumbered §816 and amended Pub. L. 100–175, title V, §§502(2), 505, 506(b), Nov. 29, 1987, 101 Stat. 973, 975, 978; Pub. L. 100–581, title II, §215, Nov. 1, 1988, 102 Stat. 2941; Pub. L. 101–408, §3, Oct. 4, 1990, 104 Stat. 883; Pub. L. 102–375, title VIII, §822(15)–(20), Sept. 30, 1992, 106 Stat. 1299; Pub. L. 102–497, §9(c), Oct. 24, 1992, 106 Stat. 3258; Pub. L. 102–524, §3, Oct. 26, 1992, 106 Stat. 3437; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 105–361, §2, Nov. 10, 1998, 112 Stat. 3278.)
 
 #### References in Text
 
 Subsection (e) of this section, referred to in subsecs. (a) and (b), was redesignated subsec. (d) of this section by Pub. L. 103–171, §5(6)(D), Dec. 2, 1993, 107 Stat. 1992.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–361, §2(1), substituted “for each of fiscal years 1999, 2000, 2001, and 2002.” for “for fiscal years 1992, 1993, 1994, and 1995.”
+
+Subsec. (c). Pub. L. 105–361, §2(2), substituted “for each of fiscal years 1999, 2000, 2001, and 2002,” for “for each of the fiscal years 1992, 1993, 1994, 1995, and 1996,”.
+
+Subsec. (e). Pub. L. 105–361, §2(3), substituted “such sums as may be necessary for each of fiscal years 1999, 2000, 2001, and 2002.” for “, $2,000,000 for fiscal year 1993 and such sums as may be necessary for fiscal years 1994, 1995, 1996, and 1997.”
 
 1993—Subsecs. (a), (b). Pub. L. 103–171, §5(6)(A), substituted “2991b–1,” for “2991b–1”.
 

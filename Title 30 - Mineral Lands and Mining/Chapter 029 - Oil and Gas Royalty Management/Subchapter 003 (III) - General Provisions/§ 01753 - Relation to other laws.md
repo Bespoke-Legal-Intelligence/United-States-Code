@@ -10,11 +10,15 @@ Nothing in this chapter shall be construed to reduce the responsibilities of the
 
 #### (c) Authority and responsibilities of Inspector General and Comptroller General unaffected
 
-Except as expressly provided in section 1752(b) of this title, nothing in this chapter shall be construed to enlarge, diminish, or otherwise affect the authority or responsibility of the Inspector General of the Department of the Interior or of the Comptroller General of the United States.
+Nothing in this chapter shall be construed to enlarge, diminish, or otherwise affect the authority or responsibility of the Inspector General of the Department of the Interior or of the Comptroller General of the United States.
 
 #### (d) Lands and land interests entrusted to Tennessee Valley Authority unaffected
 
 No provision of this chapter impairs or affects lands and interests in land entrusted to the Tennessee Valley Authority.
 
-(Pub. L. 97–451, title III, §304, Jan. 12, 1983, 96 Stat. 2461.)
+(Pub. L. 97–451, title III, §304, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 105–362, title IX, §901(j)(2), Nov. 10, 1998, 112 Stat. 3290.)
+
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–362 substituted “Nothing” for “Except as expressly provided in section 1752(b) of this title, nothing”.
 

@@ -16,7 +16,7 @@ For the purposes of this section, the Surface Transportation Board is authorized
 
 The Secretary is authorized to cooperate with and assist cooperative associations of farmers making complaint to the Surface Transportation Board with respect to rates, charges, tariffs, and practices relating to the transportation of farm products.
 
-(Feb. 16, 1938, ch. 30, title II, §201, 52 Stat. 36; Dec. 29, 1988, Pub. L. 104–88, title III, §311, 109 Stat. 948.)
+(Feb. 16, 1938, ch. 30, title II, §201, 52 Stat. 36; Pub. L. 104–88, title III, §311, Dec. 29, 1988, 109 Stat. 948.)
 
 #### Amendments
 

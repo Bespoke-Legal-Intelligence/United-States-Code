@@ -28,3 +28,7 @@ Anti-ROTC Policy.—In this section, the term “anti-ROTC policy” means a pol
 
 (Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315.)
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Servicesof House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

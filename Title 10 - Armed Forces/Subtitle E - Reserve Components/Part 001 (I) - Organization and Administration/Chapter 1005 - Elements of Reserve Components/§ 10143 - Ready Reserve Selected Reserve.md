@@ -16,5 +16,5 @@ Provisions similar to those in this section were contained in section 268(b), (c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12304, 16133 of this title; title 38 sections 3002, 3012, 3701.
+This section is referred to in sections 12304, 16133 of this title; title 38 sections 2301, 3002, 3012, 3701.
 

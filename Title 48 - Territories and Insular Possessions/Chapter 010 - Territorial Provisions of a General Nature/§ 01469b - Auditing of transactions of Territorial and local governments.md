@@ -1,8 +1,8 @@
 ### §1469b. Auditing of transactions of Territorial and local governments
 
-All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or utilized by such governments, may be audited by the General Accounting Office, at its discretion, in accordance with chapter 35 of title 31.
+All financial transactions of the territorial and local governments herein provided for, including such transactions of all agencies or instrumentalities established or used by such governments, may be audited by the General Accounting Office, at its discretion, in accordance with chapter 35 of title 31.
 
-(Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1558.)
+(Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–249.)
 
 #### References in Text
 
@@ -15,6 +15,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1558.
 
 Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–196.
 

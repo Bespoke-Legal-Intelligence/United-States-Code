@@ -2,7 +2,7 @@
 
 Except as provided in section 300t–12(e) of this title, for purposes of this subchapter—
 
-(1) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professonal <sup>1</sup> personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
+(1) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatientdepartments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professonal <sup>1</sup> personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
 
 (2) The term “public health center” means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 
@@ -36,7 +36,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 (9) The term “modernization” includes the alteration, expansion, major repair (to the extent permitted by regulations), remodeling, replacement, and renovation of existing buildings (including initial equipment thereof), and the replacement of obsolete equipment of existing buildings.
 
-(10) The term “title,” <sup>2</sup> when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Secretary finds sufficient to assure for a period of not less than twenty-five years’ undisturbed use and possession for the purposes of construction, modernization, or conversion and operation ofthe project for a period of not less than (A) twenty years in the case of a project assisted under an allotment or grant under this subchapter, or (B) the term of repayment of a loan made or guaranteed under this subchapter in the case of a project assisted by a loan or loan guarantee.
+(10) The term “title,” <sup>2</sup> when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Secretary finds sufficient to assure for a period of not less than twenty-five years’ undisturbed use and possession for the purposes of construction, modernization, or conversion and operation of the project for a period of not less than (A) twenty years in the case of a project assisted under an allotment or grant under this subchapter, or (B) the term of repayment of a loan made or guaranteed under this subchapter in the case of a project assisted by a loan or loan guarantee.
 
 (11) The term “medical facility” means a hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, or other facility (as may be designated by the Secretary) for the provision of health care to ambulatory patients.
 
@@ -50,7 +50,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 (14) The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of health facilities or a population group designated by the Secretary as having a shortage of such facilities.
 
-(July 1, 1944, ch. 373, title XVI, §1624, formerly §1633, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2270; amended Oct. 12, 1976, Pub. L. 94–484, title IX, §905(b)(1), 90 Stat. 2325; Aug. 1, 1977, Pub. L. 95–83, title I, §106(z), 91 Stat. 386; renumbered §1624 and amended Oct. 4, 1979, Pub. L. 96–79, title II, §§202(b), 203(e)(1), title III, §301(b), 93 Stat. 632, 635, 640.)
+(July 1, 1944, ch. 373, title XVI, §1624, formerly §1633, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2270; amended Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–83, title I, §106(z), Aug. 1, 1977, 91 Stat. 386; renumbered §1624 and amended Pub. L. 96–79, title II, §§202(b), 203(e)(1), title III, §301(b), Oct. 4, 1979, 93 Stat. 632, 635, 640.)
 
 #### References in Text
 

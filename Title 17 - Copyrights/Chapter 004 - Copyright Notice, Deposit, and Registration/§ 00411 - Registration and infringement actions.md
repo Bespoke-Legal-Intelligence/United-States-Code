@@ -1,6 +1,6 @@
 ### §411. Registration and infringement actions
 
-(a) Except for actions for infringement of copyright in Berne Convention works whose country of origin is not the United States andan action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b), no action for infringement of the copyright in any work shall be instituted until registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute an action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shall not deprive the court of jurisdiction to determine that issue.
+(a) Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b), no action for infringement of the copyright in any United States work shall be instituted until registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute an action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shall not deprive the court of jurisdiction to determine that issue.
 
 (b) In the case of a work consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, the copyright owner may, either before or after such fixation takes place, institute an action for infringement under section 501, fully subject to the remedies provided by sections 502 through 506 and sections 509 and 510, if, in accordance with requirements that the Register of Copyrights shall prescribe by regulation, the copyright owner—
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) makes registration for the work, if required by subsection (a), within three months after its first transmission.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 100–568, §9(b)(1), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 101–650, title VI, §606(c)(1), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–80, §6, Nov. 13, 1997, 111 Stat. 1532.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 100–568, §9(b)(1), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 101–650, title VI, §606(c)(1), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–80, §6, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 105–304, title I, §102(d), Oct. 28, 1998, 112 Stat. 2863.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,8 @@ The second and third sentences of section 411(a) would alter the present law as 
 Section 411(b) is intended to deal with the special situation presented by works that are being transmitted “live” at the same time they are being fixed in tangible form for the first time. Under certain circumstances, where the infringer has been given advance notice, an injunction could be obtained to prevent the unauthorized use of the material included in the “live” transmission.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–304, in first sentence, struck out “actions for infringement of copyright in Berne Convention works whose country of origin is not the United States and” after “Except for” and inserted “United States” after “copyright in any”.
 
 1997—Subsec. (b)(1). Pub. L. 105–80 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “serves notice upon the infringer, not less than ten or more than thirty days before such fixation, identifying the work and the specific time and source of its first transmission, and declaring an intention to secure copyright in the work; and”.
 

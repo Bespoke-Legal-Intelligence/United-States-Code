@@ -48,7 +48,7 @@ General Purposes.—The purposes of this chapter are—
 
 &emsp;(3) to assist States and local governments and their authorities in financing areawide urban mass transportation systems that are to be operated by public or private mass transportation companies as decided by local needs;
 
-&emsp;(4) to provide financial assistance to State and local governments and their authorities to help carry out national goals related to mobility for elderly individuals, individuals withdisabilities, and economically disadvantaged individuals; and
+&emsp;(4) to provide financial assistance to State and local governments and their authorities to help carry out national goals related to mobility for elderly individuals, individuals with disabilities, and economically disadvantaged individuals; and
 
 &emsp;(5) to establish a partnership that allows a community, with financial assistance from the Government, to satisfy its urban mass transportation requirements.
 
@@ -129,6 +129,34 @@ In subsection (d), the words “to ensure that mass transportation can be used b
 In subsection (e), the words “carrying out” are substituted for “construction of”, and the word “capital” is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added for clarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
 
 In subsection (f)(5), the words “local” and “to exercise the initiative necessary” are omitted as surplus.
+
+#### Contracting Out Study
+
+Pub. L. 105–178, title III, §3032, June 9, 1998, 112 Stat. 385, as amended by Pub. L. 105–206, title IX, §9009(v), July 22, 1998, 112 Stat. 861, provided that:
+
+“(a)
+
+Study.—Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct a study of the effect of contracting out mass transportation operation and administrative functions on cost, availability and level of service, efficiency, safety, quality of services provided to transit-dependent populations, and employer-employee relations.
+
+“(b)
+
+Terms of Agreement.—The agreement entered into in subsection (a) shall provide that—
+
+&emsp;“(1) the Transportation Research Board, in conducting the study, consider the number of grant recipients that have contracted out services, the size of the population served by such grant recipients, the basis for decisions regarding contracting out, and the extent to which contracting out was affected by the integration and coordination of resources of transit agencies and other Federal agencies and programs; and
+
+&emsp;“(2) the panel conducting the study shall include representatives of transit agencies, employees of transit agencies, private contractors, academic and policy analysts, and other interested persons.
+
+“(c)
+
+Report.—Not later than 24 months after the date of entry into the agreement under subsection (a), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study.
+
+“(d)
+
+Funding.—There shall be available from funds made available under section 5338(f)(2) of title 49, United States Code, to carry out this section $250,000 for fiscal year 1999.
+
+“(e)
+
+Contractual Obligation.—Entry into an agreement to carry out this section that is financed with amounts made available under subsection (d) is a contractual obligation of the United States to pay the Government's share of the cost of the study.”
 
 #### Commute-to-Work Benefits
 

@@ -4,6 +4,11 @@
 | :--- | ---: |
 | [261\.](%C2%A7%2000261%20-%20Policy%20as%20to%20settlement%20of%20disputes%20and%20disarmament.md) | Policy as to settlement of disputes and disarmament. |
 | [262\.](%C2%A7%2000262%20-%20President%27s%20participation%20in%20international%20congresses%20restricted.md) | President's participation in international congresses restricted. |
+| 262–1. | Restriction relating to United States accession to any new international criminal tribunal. |
+| (a) | Prohibition. |
+| (b) | Jurisdiction described. |
+| (c) | Statutory construction. |
+| (d) | “New international criminal tribunal” defined. |
 | [262a.](%C2%A7%2000262a%20-%20Contributions%20to%20international%20organizations%3B%20consent%20of%20State%20Department%3B%20reports%20to%20Congress%3B%20limitations%20as%20to%20certain%20organizations.md) | Contributions to international organizations; consent of State Department; reports to Congress; limitations as to certain organizations. |
 | [262b.](%C2%A7%2000262b%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20organizations%3B%20limitations%3B%20consultation%20with%20Congressional%20committees.md) | Commitments for United States contributions to international organizations; limitations; consultation with Congressional committees. |
 | [262c.](%C2%A7%2000262c%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20financial%20institutions%20fostering%20economic%20development%20in%20less%20developed%E2%80%A6.md) | Commitments for United States contributions to international financial institutions fostering economic development in less developed countries; continuation of participation. |
@@ -17,6 +22,7 @@
 | (e) | Criteria for determination of gross violations of internationally recognized human rights standards. |
 | (f) | Opposition by United States Executive Directors of institutions to financial or technical assistance to violating countries. |
 | (g) | Consultative and additional reporting requirements. |
+| (g) | Violations of religious freedom. |
 | 262d–1. | Congressional statement of policy of human rights and United States assistance policies with international institutions. |
 | [262e.](%C2%A7%2000262e%20-%20Comparability%20of%20salaries%20and%20benefits%20of%20employees%20of%20international%20financial%20institutions%20with%20employees%20of%20American%20private%20business%E2%80%A6.md) | Comparability of salaries and benefits of employees of international financial institutions with employees of American private business and governmental service. |
 | [262f.](%C2%A7%2000262f%20-%20Promotion%20of%20development%20and%20utilization%20of%20light%20capital%20technologies%20and%20United%20States%20assistance%20policies%20with%20international%20financial%E2%80%A6.md) | Promotion of development and utilization of light capital technologies and United States assistance policies with international financial institutions. |
@@ -67,10 +73,14 @@
 | [262n.](%C2%A7%2000262n%20-%20Congressional%20findings%20and%20policies%20respecting%20agricultural%20and%20commodity%20production.md) | Congressional findings and policies respecting agricultural and commodity production. |
 | 262n–1. | Increase in income and employment in developing countries; enhancement of purchasing power; diversification away from single crop or product economies. |
 | 262n–2. | Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions by Secretary of the Treasury to United States Executive Directors. |
+| 262n–3. | Reduction of barriers to agricultural trade. |
 | 262<i>o.</i> | Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals. |
 | 262<i>o</i>–1. | Military spending by recipient countries; military involvement in economies of recipient countries. |
 | (a) | Consideration of commitment to achieving certain goals. |
 | (b) | Steps to achieve goals required. |
+| 262<i>o</i>–2. | Advocacy of policies to enhance general effectiveness of International Monetary Fund. |
+| (a) | In general. |
+| (b) | Coordination with other executive departments. |
 | [262p.](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md) | Impact adjustment lending programs. |
 | (a) | Establishment of guidelines; impact statements. |
 | (b) | Proposed contents of impact statements. |
@@ -140,8 +150,18 @@
 | (b) | Contents of reports. |
 | (c) | Definitions. |
 | (d) | Testimony required. |
+| (e) | Advisory Committee on IMF policy. |
 | 262r–1. | Transmission to the Congress of operating summaries of the multilateral development banks. |
 | 262r–2. | Combined report on effect of pending multilateral development bank loans on environment, natural resources, public health, and indigenous peoples. |
+| 262r–3. | Reports on financial stabilization programs led by International Monetary Fund in connection with financing from Exchange Stabilization Fund. |
+| (a) | In general. |
+| (b) | Timing. |
+| 262r–4. | Annual report and testimony on state of international financial system, IMF reform, and compliance with IMF agreements. |
+| (a) | Reports. |
+| (b) | Testimony. |
+| 262r–5. | Audits of International Monetary Fund. |
+| (a) | Access to materials. |
+| (b) | Reports. |
 | [262s.](%C2%A7%2000262s%20-%20Multilateral%20development%20bank%20procurement.md) | Multilateral development bank procurement. |
 | (a) | Executive Directors. |
 | (b) | Officer of procurement. |
@@ -191,7 +211,7 @@
 | (b) | Authorization for transfers of funds. |
 | [275\.](%C2%A7%2000275%20-%20International%20Hydrographic%20Bureau.md) | International Hydrographic Bureau. |
 | [275a.](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md) | Permanent International Commission of the Congresses of Navigation; authorization of appropriations. |
-| [276\.](%C2%A7%2000276%20-%20Bureau%20of%20Interparliamentary%20Union%3B%20American%20group%3B%20authorization%20of%20appropriations%3B%20disbursements.md) | Bureau of Interparliamentary Union; American group; authorization of appropriations; disbursements. |
+| [276\.](%C2%A7%2000276%20-%20Bureau%20of%20Interparliamentary%20Union%3B%20authorization%20of%20appropriations.md) | Bureau of Interparliamentary Union; authorization of appropriations. |
 | [276a.](%C2%A7%2000276a%20-%20Reports%20to%20Congress%20by%20American%20group.md) | Reports to Congress by American group. |
 | 276a–1. | Conference of the Interparliamentary Union; appointment of delegates from House of Representatives; Chairman; Vice Chairman. |
 | 276a–2. | Conference of the Interparliamentary Union and all other parliamentary conferences; appointment of delegates from Senate; Chairman; Vice Chairman. |
@@ -636,6 +656,9 @@
 | (a) | Increase authorized. |
 | (b) | Authorization of appropriations. |
 | 286e–1<i>l.</i> | Quota increase. |
+| 286e–1m. | Quota increase. |
+| (a) | In general. |
+| (b) | Subject to appropriations. |
 | 286e–2. | Loans to Fund. |
 | (a) | Limitation; balance of payments and reserve position considerations. |
 | (b) | Authorization of appropriations; repayments available for loans to Fund. |
@@ -1096,6 +1119,7 @@
 
 - [&sect; 00261 - Policy as to settlement of disputes and disarmament](%C2%A7%2000261%20-%20Policy%20as%20to%20settlement%20of%20disputes%20and%20disarmament.md)
 - [&sect; 00262 - President's participation in international congresses restricted](%C2%A7%2000262%20-%20President%27s%20participation%20in%20international%20congresses%20restricted.md)
+- [&sect; 00262&#8211;1 - Restriction relating to United States accession to any new international criminal tribunal](%C2%A7%2000262%E2%80%931%20-%20Restriction%20relating%20to%20United%20States%20accession%20to%20any%20new%20international%20criminal%20tribunal.md)
 - [&sect; 00262a - Contributions to international organizations; consent of State Department; reports to Congress; limitations as to certain organizations](%C2%A7%2000262a%20-%20Contributions%20to%20international%20organizations%3B%20consent%20of%20State%20Department%3B%20reports%20to%20Congress%3B%20limitations%20as%20to%20certain%20organizations.md)
 - [&sect; 00262b - Commitments for United States contributions to international organizations; limitations; consultation with Congressional committees](%C2%A7%2000262b%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20organizations%3B%20limitations%3B%20consultation%20with%20Congressional%20committees.md)
 - [&sect; 00262c - Commitments for United States contributions to international financial institutions fostering economic development in less developed&#8230;](%C2%A7%2000262c%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20financial%20institutions%20fostering%20economic%20development%20in%20less%20developed%E2%80%A6.md)
@@ -1125,8 +1149,10 @@
 - [&sect; 00262n - Congressional findings and policies respecting agricultural and commodity production](%C2%A7%2000262n%20-%20Congressional%20findings%20and%20policies%20respecting%20agricultural%20and%20commodity%20production.md)
 - [&sect; 00262n&#8211;1 - Increase in income and employment in developing countries; enhancement of purchasing power; diversification away from single crop or&#8230;](%C2%A7%2000262n%E2%80%931%20-%20Increase%20in%20income%20and%20employment%20in%20developing%20countries%3B%20enhancement%20of%20purchasing%20power%3B%20diversification%20away%20from%20single%20crop%20or%E2%80%A6.md)
 - [&sect; 00262n&#8211;2 - Financing projects for production of export commodities, products, or minerals in surplus in world markets discouraged; instructions&#8230;](%C2%A7%2000262n%E2%80%932%20-%20Financing%20projects%20for%20production%20of%20export%20commodities%2C%20products%2C%20or%20minerals%20in%20surplus%20in%20world%20markets%20discouraged%3B%20instructions%E2%80%A6.md)
+- [&sect; 00262n&#8211;3 - Reduction of barriers to agricultural trade](%C2%A7%2000262n%E2%80%933%20-%20Reduction%20of%20barriers%20to%20agricultural%20trade.md)
 - [&sect; 00262o - Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals](%C2%A7%2000262o%20-%20Negotiations%20concerning%20replenishment%20or%20increase%20in%20capital%3B%20annual%20reports%20on%20implementation%20of%20lending%20policy%20goals.md)
 - [&sect; 00262o&#8211;1 - Military spending by recipient countries; military involvement in economies of recipient countries](%C2%A7%2000262o%E2%80%931%20-%20Military%20spending%20by%20recipient%20countries%3B%20military%20involvement%20in%20economies%20of%20recipient%20countries.md)
+- [&sect; 00262o&#8211;2 - Advocacy of policies to enhance general effectiveness of International Monetary Fund](%C2%A7%2000262o%E2%80%932%20-%20Advocacy%20of%20policies%20to%20enhance%20general%20effectiveness%20of%20International%20Monetary%20Fund.md)
 - [&sect; 00262p - Impact adjustment lending programs](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md)
 - [&sect; 00262p&#8211;1 - Grassroots Collaboration Program](%C2%A7%2000262p%E2%80%931%20-%20Grassroots%20Collaboration%20Program.md)
 - [&sect; 00262p&#8211;2 - Instructions to United States Executive Directors for extension of credit](%C2%A7%2000262p%E2%80%932%20-%20Instructions%20to%20United%20States%20Executive%20Directors%20for%20extension%20of%20credit.md)
@@ -1154,6 +1180,9 @@
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)
 - [&sect; 00262r&#8211;2 - Combined report on effect of pending multilateral development bank loans on environment, natural resources, public health, and&#8230;](%C2%A7%2000262r%E2%80%932%20-%20Combined%20report%20on%20effect%20of%20pending%20multilateral%20development%20bank%20loans%20on%20environment%2C%20natural%20resources%2C%20public%20health%2C%20and%E2%80%A6.md)
+- [&sect; 00262r&#8211;3 - Reports on financial stabilization programs led by International Monetary Fund in connection with financing from Exchange&#8230;](%C2%A7%2000262r%E2%80%933%20-%20Reports%20on%20financial%20stabilization%20programs%20led%20by%20International%20Monetary%20Fund%20in%20connection%20with%20financing%20from%20Exchange%E2%80%A6.md)
+- [&sect; 00262r&#8211;4 - Annual report and testimony on state of international financial system, IMF reform, and compliance with IMF agreements](%C2%A7%2000262r%E2%80%934%20-%20Annual%20report%20and%20testimony%20on%20state%20of%20international%20financial%20system%2C%20IMF%20reform%2C%20and%20compliance%20with%20IMF%20agreements.md)
+- [&sect; 00262r&#8211;5 - Audits of International Monetary Fund](%C2%A7%2000262r%E2%80%935%20-%20Audits%20of%20International%20Monetary%20Fund.md)
 - [&sect; 00262s - Multilateral development bank procurement](%C2%A7%2000262s%20-%20Multilateral%20development%20bank%20procurement.md)
 - [&sect; 00262s&#8211;1 - Procurement opportunities for United States firms](%C2%A7%2000262s%E2%80%931%20-%20Procurement%20opportunities%20for%20United%20States%20firms.md)
 - [&sect; 00262s&#8211;2 - Commercial Service Officers and multilateral development bank procurement](%C2%A7%2000262s%E2%80%932%20-%20Commercial%20Service%20Officers%20and%20multilateral%20development%20bank%20procurement.md)
@@ -1192,7 +1221,7 @@
 - [&sect; 00274b - Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds](%C2%A7%2000274b%20-%20Cooperation%20of%20Federal%20and%20non-Federal%20departments%2C%20agencies%2C%20and%20organizations%3B%20transfers%20of%20funds.md)
 - [&sect; 00275 - International Hydrographic Bureau](%C2%A7%2000275%20-%20International%20Hydrographic%20Bureau.md)
 - [&sect; 00275a - Permanent International Commission of the Congresses of Navigation; authorization of appropriations](%C2%A7%2000275a%20-%20Permanent%20International%20Commission%20of%20the%20Congresses%20of%20Navigation%3B%20authorization%20of%20appropriations.md)
-- [&sect; 00276 - Bureau of Interparliamentary Union; American group; authorization of appropriations; disbursements](%C2%A7%2000276%20-%20Bureau%20of%20Interparliamentary%20Union%3B%20American%20group%3B%20authorization%20of%20appropriations%3B%20disbursements.md)
+- [&sect; 00276 - Bureau of Interparliamentary Union; authorization of appropriations](%C2%A7%2000276%20-%20Bureau%20of%20Interparliamentary%20Union%3B%20authorization%20of%20appropriations.md)
 - [&sect; 00276a - Reports to Congress by American group](%C2%A7%2000276a%20-%20Reports%20to%20Congress%20by%20American%20group.md)
 - [&sect; 00276a&#8211;1 - Conference of the Interparliamentary Union; appointment of delegates from House of Representatives; Chairman; Vice Chairman](%C2%A7%2000276a%E2%80%931%20-%20Conference%20of%20the%20Interparliamentary%20Union%3B%20appointment%20of%20delegates%20from%20House%20of%20Representatives%3B%20Chairman%3B%20Vice%20Chairman.md)
 - [&sect; 00276a&#8211;2 - Conference of the Interparliamentary Union and all other parliamentary conferences; appointment of delegates from Senate; Chairman&#8230;](%C2%A7%2000276a%E2%80%932%20-%20Conference%20of%20the%20Interparliamentary%20Union%20and%20all%20other%20parliamentary%20conferences%3B%20appointment%20of%20delegates%20from%20Senate%3B%20Chairman%E2%80%A6.md)

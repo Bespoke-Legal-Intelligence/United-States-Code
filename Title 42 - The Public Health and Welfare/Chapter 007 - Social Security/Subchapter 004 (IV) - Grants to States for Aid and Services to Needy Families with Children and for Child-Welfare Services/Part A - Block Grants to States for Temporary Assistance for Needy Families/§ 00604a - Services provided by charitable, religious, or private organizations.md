@@ -24,7 +24,7 @@
 
 #### (b) Religious organizations
 
-The purpose of this section is to allow States to contract with religious organizations, or to allow religious organizations to accept certificates, vouchers, or other forms of disbursement under any program described in subsection (a)(2) of this section, on the same basis as any other nongovernmental provider without impairing the religious character of such organizations, and without diminishing the religious freedomof beneficiaries of assistance funded under such program.
+The purpose of this section is to allow States to contract with religious organizations, or to allow religious organizations to accept certificates, vouchers, or other forms of disbursement under any program described in subsection (a)(2) of this section, on the same basis as any other nongovernmental provider without impairing the religious character of such organizations, and without diminishing the religious freedom of beneficiaries of assistance funded under such program.
 
 #### (c) Nondiscrimination against religious organizations
 
@@ -92,11 +92,11 @@ Nothing in this section shall be construed to preempt any provision of a State c
 
 Section 103(a) of this Act, referred to in subsec. (a)(2)(A), means section 103(a) of Pub. L. 104–193, which enacted this part and struck out former part A of this subchapter, except for section 618. For complete classification of section 103(a) to the Code, see Tables.
 
-Titles I and II of this Act, referred to in subsec. (a)(2)(B), means titles I and II of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2110, 2185. For complete classification of these titles to the Code, see Tables.
+Titles I and II of this Act, referred to in subsec. (a)(2)(B), means titles I and II of Pub. L. 104–193, Aug.22, 1996, 110 Stat. 2110, 2185. For complete classification of these titles to the Code, see Tables.
 
 #### Codification
 
-Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of1996, and not as part of the Social Security Act which comprises this chapter.
+Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Social Security Act which comprises this chapter.
 
 #### Effective Date
 

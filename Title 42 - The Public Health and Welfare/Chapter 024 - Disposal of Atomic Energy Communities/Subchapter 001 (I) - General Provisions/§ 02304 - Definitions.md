@@ -46,7 +46,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (m) The terms “single” and “single family” when used in connection with “house” or “residential property” shall include each separate unit of a residential structure which the Commission has classified as a residential structure containing two or more separate single family units pursuant to section 2331(c) of this title.
 
-(Aug. 4, 1955, ch. 543, ch. 2, §21, 69 Stat. 473; Sept. 28, 1962, Pub. L. 87–719, §§1–4, 76 Stat. 664.)
+(Aug. 4, 1955, ch. 543, ch. 2, §21, 69 Stat. 473; Pub. L. 87–719, §§1–4, Sept. 28, 1962, 76 Stat. 664.)
 
 #### Amendments
 

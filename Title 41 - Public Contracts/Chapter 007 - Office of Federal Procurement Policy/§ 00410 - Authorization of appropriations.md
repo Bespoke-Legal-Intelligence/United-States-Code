@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated for the Office of Federal Procurement Policy each fiscal year such sums as may be necessary for carrying out the responsibilities of that office for such fiscal year.
 
-(Pub. L. 93–400, §11, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §7, Oct. 10, 1979, 93 Stat. 651; Pub. L. 98–191, §6, Dec. 1, 1983, 97 Stat. 1329; Pub. L. 100–679, §3(b), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 104–106, div. D, title XLIII, §4305(c)(2), Feb. 10, 1996, 110 Stat. 665.)
+(Pub. L. 93–400, §11, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §7, Oct. 10, 1979, 93 Stat. 651; Pub. L. 98–191, §6, Dec. 1, 1983, 97 Stat. 1329; Pub. L. 100–679, §3(b), Nov. 17, 1988, 102 Stat. 4056; Pub. L.104–106, div. D, title XLIII, §4305(c)(2), Feb. 10, 1996, 110 Stat. 665.)
 
 #### Amendments
 

@@ -62,7 +62,7 @@ For purposes of this subchapter—
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for“where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
+1994—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for “where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
 
 1986—Subsecs. (h), (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

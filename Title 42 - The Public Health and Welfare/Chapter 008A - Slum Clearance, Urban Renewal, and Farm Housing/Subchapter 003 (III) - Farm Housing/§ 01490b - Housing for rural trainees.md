@@ -24,7 +24,7 @@ No financial assistance shall be made available under this section unless, to th
 
 #### (e) Advances; repayment; limitation on amount
 
-The Secretary may make advances pursuant to any contract for financial assistance under this section at such times and in such manner as may be specified in the contract. Such advances for the purchase of land shall be repayable with interest and within a period not to exceed thirty-three years and may be made upon such security, if any, as the Secretary requires. Advances for other purposes may be made repayable with or without interest or nonrepayable, as determined by the Secretary on the basis of the anticipated income, and cost of operation of the housing and related facilities and the ability of each applicant to finance such facilities. Any advances shall be limited to cover the capital costs of constructing such facilities, plus interest on borrowings to cover such costs.
+The Secretary may make advances pursuant to any contract for financial assistance under this section at such times and in such manner as may be specified in the contract. Such advancesfor the purchase of land shall be repayable with interest and within a period not to exceed thirty-three years and may be made upon such security, if any, as the Secretary requires. Advances for other purposes may be made repayable with or without interest or nonrepayable, as determined by the Secretary on the basis of the anticipated income, and cost of operation of the housing and related facilities and the ability of each applicant to finance such facilities. Any advances shall be limited to cover the capital costs of constructing such facilities, plus interest on borrowings to cover such costs.
 
 #### (f) Sale of housing and related facilities to ineligible transferee or diversion to use other than primary purpose; repayment of advances; return of property to original condition
 
@@ -46,7 +46,7 @@ As used in this section (1) the term “related facilities” shall include any 
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(July 15, 1949, ch. 338, title V, §522, as added Aug. 1, 1968, Pub. L. 90–448, title X, §1002, 82 Stat. 551; amended Oct. 17, 1984, Pub. L. 98–479, title II, §201(c), 98 Stat. 2228; Feb. 5, 1988, Pub. L. 100–242, title III, §316(e), 101 Stat. 1898.)
+(July 15, 1949, ch. 338, title V, §522, as added Pub. L. 90–448, title X, §1002, Aug. 1, 1968, 82 Stat. 551; amended Pub. L. 98–479, title II, §201(c), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 100–242, title III, §316(e), Feb. 5, 1988, 101 Stat. 1898.)
 
 #### Amendments
 

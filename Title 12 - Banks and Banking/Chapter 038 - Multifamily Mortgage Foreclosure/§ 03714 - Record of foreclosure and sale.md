@@ -6,7 +6,7 @@
 
 &emsp;(2) the particulars of the foreclosure commissioner's service of notice of default and foreclosure sale in accordance with sections 3708 and 3710 of this title;
 
-&emsp;(3) that the foreclosure was conducted in accordance with the provisions of this chapterand with the terms of the notice of default and foreclosure sale;
+&emsp;(3) that the foreclosure was conducted in accordance with the provisions of this chapter and with the terms of the notice of default and foreclosure sale;
 
 &emsp;(4) a correct statement of the costs of foreclosure, calculated in accordance with section 3711 of this title; and
 

@@ -8,7 +8,7 @@ All property subject to a lien held by the United States or the title to which i
 
 &emsp;(3) the value of any property conveyed or transferred to the Secretary, whether as a tax on the instrument, the privilege of conveying or transferring, or the recordation thereof; nor shall the failure to pay or collect any such tax be a ground for refusal to record or file such instruments, or for failure to impart notice, or prevent the enforcement of its provisions in any State or Federal court.
 
-(July 15, 1949, ch. 338, title V, §528, as added Oct. 12, 1977, Pub. L. 95–128, title V, §512(a), 91 Stat. 1142; amended Oct. 17, 1984, Pub. L. 98–479, title II, §204(c)(3), 98 Stat. 2233.)
+(July 15, 1949, ch. 338, title V, §528, as added Pub. L. 95–128, title V, §512(a), Oct. 12, 1977, 91 Stat. 1142; amended Pub. L. 98–479, title II, §204(c)(3), Oct. 17, 1984, 98 Stat. 2233.)
 
 #### Amendments
 

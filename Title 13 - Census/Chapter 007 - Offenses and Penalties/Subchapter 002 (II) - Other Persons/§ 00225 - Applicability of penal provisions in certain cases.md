@@ -14,7 +14,7 @@
 
 (d) Where the doctrine, teaching, or discipline of any religious denomination or church prohibits the disclosure of information relative to membership, a refusal, in such circumstances, to furnish such information shall not be an offense under this chapter.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1024; Oct. 17, 1976, Pub. L. 94–521, §15(a), 90 Stat. 2465.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1024; Pub. L. 94–521, §15(a), Oct. 17, 1976, 90 Stat. 2465.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Subsections (a) and (b) of this revised section are from section 122 of title 13
 
 Subsection (c) is partly new (but preserves existing law), and partly from section 122 of title 13, U.S.C., 1952 ed. Section 252 of title 13, U.S.C., 1952 ed., which related to the censuses of governments provided by section 251 thereof (see subchapter III of chapter 5 of this title), made certain sections in chapter 4 of that title relating to censuses of population, agriculture, etc., applicable to such censuses of governments. However, it did not list sections 209 and 210 of such title among the sections made so applicable, probably because they would hardly be relevant and capable of application to such censuses. Subsection (c) makes it clear that sections 221–224 of this revised title, into which were carried the provisions of such sections 209 and 210, and which speak in general terms, are not applicable to the censuses and surveys of governments.
 
-Subsection (d) is from section 111 of title 13, U.S.C., 1952 ed. Words in this subsection, “a refusal, in such circumstances, to furnish such information shall not be an offense under this chapter”, read “such information shall not be required”. It was felt that such exception in such section 111 was actually more in the nature of an exception to the penal provisions, and it has been sotreated in this revised title. The collection of statistics on religion are provided for in section 102 of this title.
+Subsection (d) is from section 111 of title 13, U.S.C., 1952 ed. Words in this subsection, “a refusal, in such circumstances, to furnish such information shall not be an offense under this chapter”, read “such information shall not be required”. It was felt that such exception in such section 111 was actually more in the nature of an exception to the penal provisions, and it has been so treated in this revised title. The collection of statistics on religion are provided for in section 102 of this title.
 
 #### Amendments
 

@@ -68,7 +68,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and is not assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
 
-&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired fund, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3\], or the Commission;
+&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3\], or the Commission;
 
 &emsp;(IV) the acquired company has a policy that prohibits it from acquiring any securities of registered open-end investment companies or registered unit investment trusts in reliance on this subparagraph or subparagraph (F); and
 
@@ -106,13 +106,15 @@ Notwithstanding any provisions of this chapter, any registered face-amount certi
 
 Notwithstanding the provisions of this section any registered investment company and any company or companies controlled by such registered company may purchase or otherwise acquire from another investment company or any company or companies controlled by such registered company more than 10 per centum of the total outstanding voting stock of any insurance company owned by any such company or companies, or may acquire the securities of any insurance company if the Commission by order determines that such acquisition is in the public interest because the financial condition of such insurance company will be improved as a result of such acquisition or any plan contemplated as a result thereof. This section shall not be deemed to prohibit the promotion of a new insurance company or the acquisition of the securities of any newly created insurance company by a registered investment company, alone or with other persons. Nothing contained in this section shall in any way affect or derogate from the powers of any insurance commissioner or similar official or agency of the United States or any State, or to affect the right under State law of any insurance company to acquire securities of any other insurance company or insurance companies.
 
-(Aug. 22, 1940, ch. 686, title I, §12, 54 Stat. 808; Dec. 14, 1970, Pub. L. 91–547, §7, 84 Stat. 1417; Dec. 4, 1987, Pub. L. 100–181, title VI, §610, 101 Stat. 1261; Oct. 11, 1996, Pub. L. 104–290, title II, §202, 110 Stat. 3426.)
+(Aug. 22, 1940, ch. 686, title I, §12, 54 Stat. 808; Pub. L. 91–547, §7, Dec. 14, 1970, 84 Stat. 1417;Pub. L. 100–181, title VI, §610, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 104–290, title II, §202, Oct. 11, 1996, 110 Stat. 3426; Pub. L. 105–353, title III, §301(c)(3), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (d)(1)(B), (E)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (d)(1)(G)(i)(III)(bb). Pub. L. 105–353 substituted “the acquired company” for “the acquired fund”.
 
 1996—Subsec. (d)(1)(D), (E). Pub. L. 104–290, §202(3), substituted “this paragraph” for “this paragraph (1)”.
 

@@ -44,7 +44,7 @@ If a laboratory performing the inspection and testing under subsection (b)(1) of
 
 #### (d) Alternative procedure for chemical characteristics
 
-Notwithstanding the requirements of subsections (b) and (c) of this section, a manufacturer shall be deemed to have demonstrated, for purposes of subsection (a)(1) of this section, that the chemical characteristics of a lot conform to the standards and specifications to which themanufacturer represents such lot has been manufactured if the following requirements are met:
+Notwithstanding the requirements of subsections (b) and (c) of this section, a manufacturer shall be deemed to have demonstrated, for purposes of subsection (a)(1) of this section, that the chemical characteristics of a lot conform to the standards and specifications to which the manufacturer represents such lot has been manufactured if the following requirements are met:
 
 &emsp;(1) The coil or heat number of metal from which such lot was fabricated has been inspected and tested with respect to its chemical characteristics by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title.
 
@@ -54,7 +54,7 @@ Notwithstanding the requirements of subsections (b) and (c) of this section, a m
 
 &emsp;(4) The manufacturer demonstrates that such lot has been fabricated from the coil or heat number of metal to which the report described in paragraphs (2) and (3) relates.
 
-> In prescribing the form of report required by subsection (c) of this section, the Secretary shall provide for an alternative to the statement required by subsection (c)(4) of this section, insofar as such statement pertains to chemical characteristics, for cases in which a manufacturer elects to use the procedure permitted by this subsection.
+> In prescribing the form of report required by subsection (c) of this section, the Secretary shall provide for an alternative to the statementrequired by subsection (c)(4) of this section, insofar as such statement pertains to chemical characteristics, for cases in which a manufacturer elects to use the procedure permitted by this subsection.
 
 (Pub. L. 101–592, §5, Nov. 16, 1990, 104 Stat. 2945; Pub. L. 104–113, §11(d), Mar. 7, 1996, 110 Stat. 780.)
 

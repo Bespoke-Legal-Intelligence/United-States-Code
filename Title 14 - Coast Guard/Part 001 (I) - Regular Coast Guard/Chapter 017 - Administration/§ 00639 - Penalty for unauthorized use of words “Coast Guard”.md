@@ -12,3 +12,7 @@ This section makes the unauthorized use of the words “Coast Guard” or any de
 
 1950—Act Aug. 3, 1950, made it possible for Commandant to grant authority to private business organizations to use terms or designations otherwise prohibited by this section.
 
+#### Coast Guard City, USA
+
+Pub. L. 105–383, title IV, §409, Nov. 13, 1998, 112 Stat. 3431, provided that: “The Commandant of the Coast Guard may recognize the community of Grand Haven, Michigan, as ‘Coast Guard City, USA’. If the Commandant desires to recognize any other community in the same manner or any other community requests such recognition from the Coast Guard, the Commandant shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives 90 days prior to approving such recognition.”
+

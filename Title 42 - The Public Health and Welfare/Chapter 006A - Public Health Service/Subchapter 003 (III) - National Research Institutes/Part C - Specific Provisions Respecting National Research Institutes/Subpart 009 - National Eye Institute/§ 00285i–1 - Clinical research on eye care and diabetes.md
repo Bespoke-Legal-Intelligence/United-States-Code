@@ -36,7 +36,7 @@ Amounts received under a grant awarded under this section shall be used for the 
 
 The purposes for which a grant under subsection (a) of this section may be expended include equipment for the research described in such subsection.
 
-(July 1, 1944, ch. 373, title IV, §456, as added June 10, 1993, Pub. L. 103–43, title XI, §1101(a), 107 Stat. 168.)
+(July 1, 1944, ch. 373, title IV, §456, as added Pub. L. 103–43, title XI, §1101(a), June 10, 1993, 107 Stat. 168.)
 
 #### Section Referred to in Other Sections
 

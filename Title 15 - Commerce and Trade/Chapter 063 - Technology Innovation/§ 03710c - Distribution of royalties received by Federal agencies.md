@@ -24,7 +24,7 @@
 
 &emsp;(C) All royalties or other payments retained by the agency or laboratory after payments have been made pursuant to subparagraphs (A) and (B) that is unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury.
 
-(2) If, after payments to inventors under paragraph (1), the royalties or other payments received by an agency in any fiscal year exceed 5 percent of the budget of the Government-operated laboratories of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States.
+(2) If, after payments to inventors under paragraph (1), the royalties or other payments received by an agency in any fiscal year exceed 5 percent of the budget of the Government-operated laboratories of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States.
 
 (3) Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which he is otherwise entitled or for which he is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory or agency. Payments made under this section shall not exceed $150,000 per year to any one person, unless the President approves a larger award (with the excess over $150,000 being treated as a Presidential award under section 4504 of title 5).
 
@@ -56,7 +56,7 @@ Subsec. (a)(2). Pub. L. 104–113, §5(2), in first sentence, inserted “or oth
 
 Subsec. (a)(3). Pub. L. 104–113, §5(3), substituted “$150,000” for “$100,000” in two places.
 
-Subsec. (a)(4). Pub. L. 104–113, §5(4), in first sentence, substituted “other payments” for “other income”, “such royalties or payments” for “such royalties or income”, “offset payments to inventors” for “offset the payment of royalties to inventors”, and “clause (iv) of paragraph (1)(B)” for “clause (i) of paragraph (1)(B)” and, in second sentence, substituted “other payments” for “other income”, substituted “offsetting the payments to inventors” for “payment of the royalties”,and struck out “clauses (i) through (iv) of” before “paragraph (1)(B)”.
+Subsec. (a)(4). Pub. L. 104–113, §5(4), in first sentence, substituted “other payments” for “other income”, “such royalties or payments” for “such royalties or income”, “offset payments to inventors” for “offset the payment of royalties to inventors”, and “clause (iv) of paragraph (1)(B)” for “clause (i) of paragraph (1)(B)” and, in second sentence, substituted “other payments” for “other income”, substituted “offsetting the payments to inventors” for “payment of the royalties”, and struck out “clauses (i) through (iv) of” before “paragraph (1)(B)”.
 
 Subsec. (b)(1). Pub. L. 104–113, §5(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “by a contractor, grantee, or participant in a cooperative agreement with the agency, or”.
 

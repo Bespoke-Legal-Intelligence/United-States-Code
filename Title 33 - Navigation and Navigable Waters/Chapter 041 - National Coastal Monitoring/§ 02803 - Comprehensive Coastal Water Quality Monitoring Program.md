@@ -20,7 +20,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;(2) identification of sources of environmental degradation affecting the Nation's coastal ecosystems;
 
-&emsp;(3) assessment of the impact of governmental programs and management strategies and measures designed to abate or prevent theenvironmental degradation of the Nation's coastal ecosystems;
+&emsp;(3) assessment of the impact of governmental programs and management strategies and measures designed to abate or prevent the environmental degradation of the Nation's coastal ecosystems;
 
 &emsp;(4) assessment of the accumulation of floatables along coastal shorelines;
 
@@ -66,7 +66,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (4) Discharge permit data
 
-&emsp;The Administrator or a State permitting authority shall ensure that compliance monitoring conducted pursuant to section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)) for permits for discharges to coastal waters is consistent with the guidelines issued under this subsection. Any modifications of discharge permits necessary to implement this subsection shall be deemed to be minor modifications of such permit. Nothing in this subsection requires dischargers to conduct monitoring other than compliance monitoring pursuant to permits under section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)).
+&emsp;The Administrator or a State permitting authority shall ensure that compliance monitoring conducted pursuant to section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)) for permits for discharges tocoastal waters is consistent with the guidelines issued under this subsection. Any modifications of discharge permits necessary to implement this subsection shall be deemed to be minor modifications of such permit. Nothing in this subsection requires dischargers to conduct monitoring other than compliance monitoring pursuant to permits under section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)).
 
 #### (d) Intensive coastal water quality monitoring programs
 
@@ -92,7 +92,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;(C) The National Research Council shall, within 18 months of October 29, 1992, submit a report to the Administrator and the Under Secretary listing areas suitable for intensive monitoring.
 
-&emsp;(D) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall develop and implement multi-year programs of intensive monitoring for Massachusetts and Cape Cod Bays, the Gulf of Maine, the Chesapeake Bay, the Hudson-Raritan Estuary, and each area jointly designated by the Administrator andthe Under Secretary pursuant to paragraph (2).
+&emsp;(D) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall develop and implement multi-year programs of intensive monitoring for Massachusetts and Cape Cod Bays, the Gulf of Maine, the Chesapeake Bay, the Hudson-Raritan Estuary, and each area jointly designated by the Administrator and the Under Secretary pursuant to paragraph (2).
 
 #### (4) Intensive coastal water quality monitoring programs
 

@@ -1,6 +1,6 @@
 ### §730. Selection boards; appointment
 
-(a) A selection board shall (1) be appointed and convened by the Secretary; (2) consist of at least 50 per centum Reserve officer membership, except in the case of a flag officer selection board where, to the extent practicable, it shall consist of at least 50 per centum Reserve officer membership; (3) consist only of members, Reserve or Regular, senior in grade to any officer being considered by that board; and (4) be composed ofnot less than five members, which number constitutes a quorum.
+(a) A selection board shall (1) be appointed and convened by the Secretary; (2) consist of at least 50 per centum Reserve officer membership, except in the case of a flag officer selection board where, to the extent practicable, it shall consist of at least 50 per centum Reserve officer membership; (3) consist only of members, Reserve or Regular, senior in grade to any officer being considered by that board; and (4) be composed of not less than five members, which number constitutes a quorum.
 
 (b) A selection board serves for the length of time prescribed by the Secretary, but no board may serve longer than one year. No officer may serve on two consecutive selection boards for the same grade when the second of those boards considers an officer who was considered, but not recommended for promotion, by the first selection board.
 

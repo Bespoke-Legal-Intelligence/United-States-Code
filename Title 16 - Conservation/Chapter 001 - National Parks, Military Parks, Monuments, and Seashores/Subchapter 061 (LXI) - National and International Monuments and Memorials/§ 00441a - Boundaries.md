@@ -1,6 +1,6 @@
 ### §441a. Boundaries
 
-The areas to be included in said Badlands National Park are situated in the State of SouthDakota and lie within the boundaries particularly described as follows: Beginning at the northeast corner section 13, township 3 south, range 18 east, Black Hills meridian; thence west one-fourth mile; thence south one mile; thence west one-fourth mile; thence south one-fourth mile; thence west one mile; thence south one-fourth mile; thence west one-fourth mile; thence north one mile; thence west one and one-fourth miles; thence north one-half mile; thence west three miles, to the northwest corner section 18, township 3 south, range 18 east, Black Hills meridian.
+The areas to be included in said Badlands National Park are situated in the State of South Dakota and lie within the boundaries particularly described as follows: Beginning at the northeast corner section 13, township 3 south, range 18 east, Black Hills meridian; thence west one-fourth mile; thence south one mile; thence west one-fourth mile; thence south one-fourth mile; thence west one mile; thence south one-fourth mile; thence west one-fourth mile; thence north one mile; thence west one and one-fourth miles; thence north one-half mile; thence west three miles, to the northwest corner section 18, township 3 south, range 18 east, Black Hills meridian.
 
 Thence north one-fourth mile; thence west one-half mile; thence north one-fourth mile; thence west three-fourth mile; thence south one-fourth mile; thence west one-fourth mile; thence north one-fourth mile; thence west one-fourth mile; thence north one-fourth mile; thence west three-fourths mile; thence south one-fourth mile; thence west one-half mile; thence south one-half mile; thence west one mile; thence north one-fourth mile; thence west one-fourth mile; thence north one-fourth mile; thence west one and one-fourth miles; thence north one-fourth mile; thence west one-fourth mile; thence north three-fourths mile; thence west one and one-fourth miles; thence north one-half mile, to the northeast corner section 2, township 3 south, range 16 east, Black Hills meridian.
 
@@ -18,7 +18,7 @@ Thence south three-fourths mile; thence east one-fourth mile; thence south one-f
 
 Thence north one mile; thence east one mile; thence north one-half mile; thence west one-fourth mile; thence north one-fourth mile; thence west one-fourth mile; thence north one and one-fourth miles; thence west one-half mile to the point of beginning.
 
-(Mar. 4, 1929, ch. 693, §2, 45 Stat. 1554; Nov. 10, 1978, Pub. L. 95–625, title VI, §611, 92 Stat. 3521.)
+(Mar. 4, 1929, ch. 693, §2, 45 Stat. 1554; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
 #### Change of Name
 
@@ -26,7 +26,7 @@ Thence north one mile; thence east one mile; thence north one-half mile; thence 
 
 #### Extension of Boundaries
 
-Act June 26, 1936, ch. 842, title II, §1, 49 Stat. 1979, provided that the boundaries of the Badlands National Monument as established by this section shall be “extended to include such lands adjacent or contiguous thereto, in the State of South Dakota, including, but not being restricted to, lands designated as submarginal by the Resettlement Administration, as may be determined by the President, by proclamation, within five years following the approval of this Act, to be necessary for the proper rounding out of the boundaries of said Monument or the administration thereof, providing the entire area of such Monument shall not exceed 250,000 acres.”
+Act June 26, 1936, ch. 842, title II, §1, 49 Stat. 1979, provided that the boundaries of the Badlands National Monument as established by this section shall be “extended to include such lands adjacent or contiguous thereto, in the State of South Dakota, including, but not being restricted to, lands designated as submarginal by the Resettlement Administration, as may bedetermined by the President, by proclamation, within five years following the approval of this Act, to be necessary for the proper rounding out of the boundaries of said Monument or the administration thereof, providing the entire area of such Monument shall not exceed 250,000 acres.”
 
 #### Laws Applicable
 

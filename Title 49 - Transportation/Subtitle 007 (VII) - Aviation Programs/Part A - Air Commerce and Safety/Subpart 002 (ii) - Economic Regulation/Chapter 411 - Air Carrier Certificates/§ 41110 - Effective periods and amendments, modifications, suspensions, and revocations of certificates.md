@@ -6,7 +6,7 @@ General.—(1) Each certificate issued under section 41102 of this title is effe
 
 &emsp;(A) the Secretary of Transportation suspends or revokes the certificate under this section;
 
-&emsp;(B) the end of the period the Secretary specifies for an air carrier having a certificate oftemporary authority issued under section 41102(a)(2) of this title; or
+&emsp;(B) the end of the period the Secretary specifies for an air carrier having a certificate of temporary authority issued under section 41102(a)(2) of this title; or
 
 &emsp;(C) the Secretary certifies that transportation is no longer being provided under a certificate.
 

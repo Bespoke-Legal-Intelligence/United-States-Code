@@ -36,7 +36,7 @@
 
 (3) In this subsection, the term “new special access program” means a special access program that has not previously been covered in a notice and justification under this subsection.
 
-(c)(1) Whenever a change in the classification of a special access program of the Department of Defense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
+(c)(1) Whenever a change in the classification of a special access program of the Department of Defense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committeesa report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
 
 (2) Except as provided in paragraph (3), any report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change or public announcement is to occur.
 
@@ -79,6 +79,10 @@ Subsec. (f). Pub. L. 101–510, §1482(a)(2), added subsec. (f). Former subsec. 
 Pub. L. 101–510, §1461(b), inserted “and Appropriations” after “Armed Services” in par. (1).
 
 Subsec. (g). Pub. L. 101–510, §1482(a)(1), redesignated subsec. (f) as (g).
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1990 Amendment
 

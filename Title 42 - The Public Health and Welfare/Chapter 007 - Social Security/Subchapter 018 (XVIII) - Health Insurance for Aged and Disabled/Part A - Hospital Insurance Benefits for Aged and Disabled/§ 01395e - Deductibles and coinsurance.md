@@ -38,7 +38,7 @@
 
 &emsp;(B) to the coinsurance amounts under subsection (a) of this section for inpatient hospital services, inpatient critical access hospital services and post-hospital extended care services furnished in that year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 292; amended Jan. 2, 1968, Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), 81 Stat. 847, 848, 852, 854; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2131(a), 2132(a), 95 Stat. 797; Sept. 3, 1982, Pub. L. 97–248, title I, §122(e), 96 Stat. 361; Apr. 7, 1986, Pub. L. 99–272, title IX, §9125(a), 100 Stat. 168; Oct. 21, 1986, Pub. L. 99–509, title IX, §9301(a), 100 Stat. 1981; Dec. 22, 1987, Pub. L. 100–203, title IV, §4002(f)(3), as added July 1, 1988, Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), 102 Stat. 769; July 1, 1988, Pub. L. 100–360, title I, §102, 102 Stat. 685; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979; Oct. 31, 1994, Pub. L. 103–432, title I, §102(g)(2), (3), 108 Stat. 4404; Aug. 5, 1997, Pub. L. 105–33, title IV, §4201(c)(1), 111 Stat. 373.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a), Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, title I, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 &emsp;“(1)(A) section 1813(a)(1) of such Act \[subsec. (a)(1) of this section\] (as amended by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360\]) shall not apply to services furnished during that spell of illness during 1989, and
 
-&emsp;“(B) if that individual begins a period of hospitalization (as defined in such section) during 1989 after the end of that spell of illness, the first period of hospitalization during 1989 that begins after that spell of illness shall be considered to be (for purposesof such section) the first period of hospitalization that begins during that year; and
+&emsp;“(B) if that individual begins a period of hospitalization (as defined in such section) during 1989 after the end of that spell of illness, the first period of hospitalization during 1989 that begins after that spell of illness shall be considered to be (for purposes of such section) the first period of hospitalization that begins during that year; and
 
 &emsp;“(2) the amount of any deductible under section 1813(a)(2) of such Act (as amended by this subtitle) shall be reduced during that spell of illness during 1989 to the extent the deductible under such section was applied during the spell of illness.”
 

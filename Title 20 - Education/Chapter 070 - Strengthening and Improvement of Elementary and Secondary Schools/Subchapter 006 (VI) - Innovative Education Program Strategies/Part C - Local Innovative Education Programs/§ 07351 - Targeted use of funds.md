@@ -20,15 +20,21 @@ The innovative assistance programs referred to in subsection (a) of this section
 
 &emsp;(6) programs to provide for the educational needs of gifted and talented children;
 
-&emsp;(7) school reform activities that are consistent with the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\]; and
+&emsp;(7) school reform activities that are consistent with the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
 
-&emsp;(8) school improvement programs or activities under sections 6317 and 6318 of this title.
+&emsp;(8) planning, designing, and initial implementation of charter schools as described in part C of subchapter X of this chapter; and
 
-(Pub. L. 89–10, title VI, §6301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3711.)
+&emsp;(9) school improvement programs or activities under sections 6317 and 6318 of this title.
+
+(Pub. L. 89–10, title VI, §6301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3711; amended Pub. L. 105–278, §2(2), Oct. 22, 1998, 112 Stat. 2682.)
 
 #### References in Text
 
 The Goals 2000: Educate America Act, referred to in subsec. (b)(7), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(8), (9). Pub. L. 105–278 added par. (8) and redesignated former par. (8) as (9).
 
 #### Section Referred to in Other Sections
 

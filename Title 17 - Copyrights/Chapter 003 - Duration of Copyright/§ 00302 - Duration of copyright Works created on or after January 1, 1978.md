@@ -2,15 +2,15 @@
 
 (a)
 
-In General.—Copyright in a work created on or after January 1, 1978, subsists from its creation and, except as provided by the following subsections, endures for a term consisting of the life of the author and fifty years after the author's death.
+In General.—Copyright in a work created on or after January 1, 1978, subsists from its creation and, except as provided by the following subsections, endures for a term consisting of the life of the author and 70 years after the author's death.
 
 (b)
 
-Joint Works.—In the case of a joint work prepared by two or more authors who did not work for hire, the copyright endures for a term consisting of the life of the last surviving author and fifty years after such last surviving author's death.
+Joint Works.—In the case of a joint work prepared by two or more authors who did not work for hire, the copyright endures for a term consisting of the life of the last surviving author and 70 years after such last surviving author's death.
 
 (c)
 
-Anonymous Works, Pseudonymous Works, and Works Made for Hire.—In the case of an anonymous work, a pseudonymous work, or a work made for hire, the copyright endures for a term of seventy-five years from the year of its first publication, or a term of one hundred years from the year of its creation, whichever expires first. If, before the end of such term, the identity of one or more of the authors of an anonymous or pseudonymous work is revealed in the records of a registration made for that work under subsections (a) or (d) of section 408, or in the records provided by this subsection, the copyright in the work endures for the term specified by subsection (a) or (b), based on the life of the author or authors whose identity has been revealed. Any person having an interest in the copyright in an anonymous or pseudonymous work may at any time record, in records to be maintained by the Copyright Office for that purpose, a statement identifying one or more authors of the work; the statement shall also identify the person filing it, the nature of that person's interest, the source of the information recorded, and the particular work affected, and shall comply in form and content with requirements that the Register of Copyrights shall prescribe by regulation.
+Anonymous Works, Pseudonymous Works, and Works Made for Hire.—In the case of an anonymous work, a pseudonymous work, or a work made for hire, the copyright endures for a term of 95 years from the year of its first publication, or a term of 120 years from the year of its creation, whichever expires first. If, before the end of such term, the identity of one or more of the authors of an anonymous or pseudonymous work is revealed in the records of a registration made for that work under subsections (a) or (d) of section 408, or in the records provided by this subsection, the copyright in the work endures for the term specified by subsection (a) or (b), based on the life of the author or authors whose identity has been revealed. Any person having an interest in the copyright in an anonymous or pseudonymous work may at any time record, in records to be maintained by the Copyright Office for that purpose, a statement identifying one or more authors of the work; the statement shall also identify the person filing it, the nature of that person's interest, the source of the information recorded, and the particular work affected, and shall comply in form and content with requirements that the Register of Copyrights shall prescribe by regulation.
 
 (d)
 
@@ -18,9 +18,9 @@ Records Relating to Death of Authors.—Any person having an interest in a copyr
 
 (e)
 
-Presumption as to Author's Death.—After a period of seventy-five years from the year of first publication of a work, or a period of one hundred years from the year of its creation, whichever expires first, any person who obtains from the Copyright Office a certified report that the records provided by subsection (d) disclose nothing to indicate that the author of the work is living, or died less than fifty years before, is entitled to the benefits of a presumption that the author has been dead for at least fifty years. Reliance in good faith upon this presumption shall be a complete defense to any action for infringement under this title.
+Presumption as to Author's Death.—After a period of 95 years from the year of first publication of a work, or a period of 120 years from the year of its creation, whichever expires first, any person who obtains from the Copyright Office a certified report that the records provided by subsection (d) disclose nothing to indicate that the author of the work is living, or died less than 70 years before, is entitled to the benefits of a presumption that the author has been dead for at least 70 years. Reliance in good faith upon this presumption shall be a complete defense to any action for infringement under this title.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2572.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 105–298, title I, §102(b), Oct. 27, 1998, 112 Stat. 2827.)
 
 #### Historical and Revision Notes
 
@@ -34,9 +34,9 @@ Under the present law statutory copyright protection begins on the date of publi
 
 &emsp;2\. The tremendous growth in communications media has substantially lengthened the commercial life of a great many works. A short term is particularly discriminatory against serious works of music, literature, and art, whose value may not be recognized until after many years.
 
-&emsp;3\. Although limitations on the term of copyright are obviously necessary, too short a term harms the author without giving any substantial benefit to the public. The public frequently pays the same for works in the public domain as it does for copyrighted works, and the only result is a commercial windfall to certain users at the author's expense. In some cases the lack of copyright protection actually restrains dissemination of the work, since publishers and other users cannot risk investing in the work unless assured of exclusive rights.
+&emsp;3\. Although limitations on the term of copyright are obviously necessary, too short a term harms the author without giving any substantial benefit to the public. The public frequently pays the same for worksin the public domain as it does for copyrighted works, and the only result is a commercial windfall to certain users at the author's expense. In some cases the lack of copyright protection actually restrains dissemination of the work, since publishers and other users cannot risk investing in the work unless assured of exclusive rights.
 
-&emsp;4\. A system based on the life of the author would go a long way toward clearing up the confusion and uncertainty involved in the vague concept of “publication,” and would provide a much simpler, clearer method for computing the term. The death of the author is a definite, determinable event, and it would be the only date that a potential user would have toworry about. All of a particular author's works, including successive revisions of them, would fall into the public domain at the same time, thus avoiding the present problems of determining a multitude of publication dates and of distinguishing “old” and “new” matter in later editions. The bill answers the problems of determining when relatively obscure authors died, by establishing a registry of death dates and a system of presumptions.
+&emsp;4\. A system based on the life of the author would go a long way toward clearing up the confusion and uncertainty involved in the vague concept of “publication,” and would provide a much simpler, clearer method for computing the term. The death of the author is a definite, determinable event, and it would be the only date that a potential user would have to worry about. All of a particular author's works, including successive revisions of them, would fall into the public domain at the same time, thus avoiding the present problems of determining a multitude of publication dates and of distinguishing “old” and “new” matter in later editions. The bill answers the problems of determining when relatively obscure authors died, by establishing a registry of death dates and a system of presumptions.
 
 &emsp;5\. One of the worst features of the present copyright law is the provision for renewal of copyright. A substantial burden and expense, this unclear and highly technical requirement results in incalculable amounts of unproductive work. In a number of cases it is the cause of inadvertent and unjust loss of copyright. Under a life-plus-50 system the renewal device would be inappropriate and unnecessary.
 
@@ -62,7 +62,7 @@ The definition of “created” in section 101, which will be discussed in more 
 
 <b>Joint Works.</b> Since by definition a “joint work” has two or more authors, a statute basing the term of copyright on the life of the author must provide a special method of computing the term of “joint works.” Under the system in effect in many foreign countries, the term of copyright is measured from the death of the last survivor of a group of joint authors, no matter how many there are. The bill adopts this system as the simplest and fairest of the alternatives for dealing with the problem.
 
-<b>Anonymous Works, Pseudonymous Works, and Works Made for Hire.</b> Computing the term from the author's death also requires special provisions to deal with cases where the authorship is not revealed or where the “author” is not an individual. Section 302(c) therefore provides a special term for anonymous works, pseudonymous works, and works made for hire: 75 years frompublication or 100 years from creation, whichever is shorter. The definitions in section 101 make the status of anonymous and pseudonymous works depend on what is revealed on the copies or phonorecords of a work; a work is “anonymous” if “no natural person is identified as author,” and is “pseudonymous” if “the author is identified under a fictitious name.”
+<b>Anonymous Works, Pseudonymous Works, and Works Made for Hire.</b> Computing the term from the author's death also requires special provisions to deal with cases where the authorship is not revealed or where the “author” is not an individual. Section 302(c) therefore provides a special term for anonymous works, pseudonymous works, and works made for hire: 75 years from publication or 100 years from creation, whichever is shorter. The definitions in section 101 make the status of anonymous and pseudonymous works depend on what is revealed on the copies or phonorecords of a work; a work is “anonymous” if “no natural person is identified as author,” and is “pseudonymous” if “the author is identified under a fictitious name.”
 
 Section 302(c) provides that the 75- and 100-year terms for an anonymous or pseudonymous work can be converted to the ordinary life-plus-50 term if “the identity of one or more authors \* \* \* is revealed” in special records maintained for this purpose in the Copyright Office. The term in such cases would be “based on the life of the author or authors whose identity has been revealed.” Instead of forcing a user to search through countless Copyright Office records to determine if an author's identity has been revealed, the bill sets up a special registry for the purpose, with requirements concerning the filing of identifying statements that parallel those of the following subsection (d) with respect to statements of the date of an author's death.
 
@@ -76,9 +76,17 @@ Although the periods of 75 or 100 years for anonymous and pseudonymous works and
 
 <b>Records and Presumption as to Author's Death.</b> Subsections (d) and (e) of section 302 together furnish an answer to the practical problems of how to discover the death dates of obscure or unknown authors. Subsection (d) provides a procedure for recording statements that an author died, or that he was still living, on a particular date, and also requires the Register of Copyrights to maintain obituary records on a current basis. Under subsection (e) anyone who, after a specified period, obtains certification from the Copyright Office that its records show nothing to indicate that the author is living or died less than 50 years before, is entitled to rely upon a presumption that the author has been dead for more than 50 years. The period specified in subsection (e)—75 years from publication or 100 years from creation—is purposely uniform with the special term provided in subsection (c).
 
+#### Amendments
+
+1998—Subsecs. (a), (b). Pub. L. 105–298, §102(b)(1), (2), substituted “70” for “fifty”.
+
+Subsec. (c). Pub. L. 105–298, §102(b)(3), in first sentence, substituted “95” for “seventy-five” and “120” for “one hundred”.
+
+Subsec. (e). Pub. L. 105–298, §102(b)(4), in first sentence, substituted “95” for “seventy-five”, “120” for “one hundred”, and “70” for “fifty” in two places.
+
 #### Cross References
 
-Duration and renewal of registration of trade-marks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
+Duration and renewal of registration of trademarks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
 
 Duration of term of patents, see section 154 of Title 35, Patents.
 

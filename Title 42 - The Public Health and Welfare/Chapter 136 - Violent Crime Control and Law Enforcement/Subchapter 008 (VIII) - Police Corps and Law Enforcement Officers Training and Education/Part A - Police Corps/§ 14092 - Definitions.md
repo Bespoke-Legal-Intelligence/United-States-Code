@@ -14,7 +14,7 @@ In this part—
 
 &emsp;“educational expenses” means expenses that are directly attributable to a course of education leading to the award of either a baccalaureate or graduate degree in a course of study which, in the judgment of the State or local police force to which the participant will be assigned, includes appropriate preparation for police service including the cost of tuition, fees, books, supplies, transportation, room and board and miscellaneous expenses.
 
-&emsp;“institution of higher education” has the meaning stated in the first sentence of section 1141(a) of title 20.
+&emsp;“institution of higher education” has the meaning stated in the first sentence of section 1001 of title 20.
 
 &emsp;“participant” means a participant in the Police Corps program selected pursuant to section 14095 <sup>2</sup> of this title.
 
@@ -22,9 +22,11 @@ In this part—
 
 &emsp;“State Police Corps program” means a State police corps program that meets the requirements of section 14099 of this title.
 
-(Pub. L. 103–322, title XX, §200103, Sept. 13, 1994, 108 Stat. 2049; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §121\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–322, title XX, §200103, Sept. 13, 1994, 108 Stat. 2049; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §121\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title I, §102(a)(13)(O), Oct. 7, 1998, 112 Stat. 1621.)
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)” in par. defining “institution of higher education”.
 
 1996—Pub. L. 104–134 amended generally par. defining “education expenses”. Prior to amendment, par. read as follows: “ ‘educational expenses’ means expenses that are directly attributable to—
 
@@ -33,6 +35,10 @@ In this part—
 &emsp;“(B) a course of graduate study legal or criminal justice studies following award of a baccalaureate degree,
 
 > including the cost of tuition, fees, books, supplies, transportation, room and board and miscellaneous expenses.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Section 14093 of this title does not provide for the appointment of a Director.</i>
 

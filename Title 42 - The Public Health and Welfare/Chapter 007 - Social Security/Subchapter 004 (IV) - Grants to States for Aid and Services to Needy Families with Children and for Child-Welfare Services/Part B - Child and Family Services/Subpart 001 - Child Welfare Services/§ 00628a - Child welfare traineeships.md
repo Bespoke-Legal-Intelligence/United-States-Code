@@ -20,7 +20,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
 
-(Aug. 14, 1935, ch. 531, title IV, §429, as added Oct. 31, 1994, Pub. L. 103–432, title II, §205(a), 108 Stat. 4456.)
+(Aug. 14, 1935, ch. 531, title IV, §429, as added Pub. L. 103–432, title II, §205(a), Oct. 31, 1994, 108 Stat. 4456.)
 
 #### Effective Date
 

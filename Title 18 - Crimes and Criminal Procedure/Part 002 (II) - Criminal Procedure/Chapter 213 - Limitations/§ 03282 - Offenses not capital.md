@@ -2,7 +2,7 @@
 
 Except as otherwise expressly provided by law, no person shall be prosecuted, tried, or punished for any offense, not capital, unless the indictment is found or the information is instituted within five years next after such offense shall have been committed.
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Sept. 1, 1954, ch. 1214, §12(a), formerly §10(a), 68 Stat. 1145; renumbered Sept. 26, 1961, Pub. L. 87–299, §1, 75 Stat. 648.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Sept. 1, 1954, ch. 1214, §12(a), formerly §10(a), 68 Stat. 1145; renumbered Pub. L. 87–299, §1, Sept. 26, 1961, 75 Stat. 648.)
 
 #### Historical and Revision Notes
 

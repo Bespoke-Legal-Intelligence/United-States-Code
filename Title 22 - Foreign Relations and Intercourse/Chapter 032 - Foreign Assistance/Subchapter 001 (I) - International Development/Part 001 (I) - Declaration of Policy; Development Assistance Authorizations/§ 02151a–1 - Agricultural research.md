@@ -2,7 +2,7 @@
 
 Agricultural research carried out under this chapter shall (1) take account of the special needs of small farmers in the determination of research priorities, (2) include research on the interrelationships among technology, institutions, and economic, social, environmental, and cultural factors affecting small-farm agriculture, and (3) make extensive use of field testing to adapt basic research to local conditions. Special emphasis shall be placed on disseminating research results to the farms on which they can be put to use, and especially on institutional and other arrangements needed to assure that small farmers have effective access to both new and existing improved technology.
 
-(Pub. L. 87–195, pt. I, §103A, as added Pub. L. 94–161, title III, §303, Dec. 20, 1975, 89 Stat. 857;amended Pub. L. 95–424, title I, §103(d), Oct. 6, 1978, 92 Stat. 945.)
+(Pub. L. 87–195, pt. I, §103A, as added Pub. L. 94–161, title III, §303, Dec. 20, 1975, 89 Stat. 857; amended Pub. L. 95–424, title I, §103(d), Oct. 6, 1978, 92 Stat. 945.)
 
 #### References in Text
 

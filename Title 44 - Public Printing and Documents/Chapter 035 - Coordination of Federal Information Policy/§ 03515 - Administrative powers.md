@@ -1,6 +1,6 @@
 ### §3515. Administrative powers
 
-Upon the request of the Director, each agency (other than an independent regulatory agency) shall, to the extent practicable, make its services, personnel, and facilities available to theDirector for the performance of functions under this chapter.
+Upon the request of the Director, each agency (other than an independent regulatory agency) shall, to the extent practicable, make its services, personnel, and facilities available to the Director for the performance of functions under this chapter.
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 182.)
 

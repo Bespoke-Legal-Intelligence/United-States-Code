@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide homeownership and rental housing opportunities forvery low-income, low-income, and moderate-income families.
+The purpose of this section is to provide homeownership and rental housing opportunities for very low-income, low-income, and moderate-income families.
 
 #### (b) Funding and limitations of program
 
@@ -58,7 +58,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;(B) public agencies or nonprofit organizations that agree to (i) make the property available for occupancy by and maintain it as affordable for low-income families (including low-income families with members who are veterans) for the remaining useful life of such property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (4), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months.
 
-> &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed orother recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
+> &emsp;The restrictions described in clause (i) of subparagraph (B) shall be contained in the deed or other recorded instrument. If, upon the expiration of such 180-day period, no qualifying household, public agency, or nonprofit organization has made a bona fide offer to purchase the property, the Corporation may offer to sell the property to any purchaser. The Corporation shall actively market eligible single family properties for sale to low-income families and to low-income families with members who are veterans.
 
 #### (3) Recapture of profits from resale
 
@@ -94,11 +94,11 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (4) Offers by qualifying multifamily purchasers
 
-&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3) shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
+&emsp;A qualifying multifamily purchaser receiving notice in accordance with paragraph (3)shall have 45 days (from the date notice is received) to make a bona fide offer to purchase the property. The Corporation shall accept an offer that complies with the terms and conditions established by the Corporation. If, before the expiration of such 45-day period, any offer to purchase a property initially accepted by the Corporation is subsequently rejected or fails (for any reason), the Corporation shall accept another offer to purchase the property made during such period that complies with the terms and conditions established by the Corporation (if such another offer is made). The preceding sentence may not be construed to require a qualifying multifamily purchaser whose offer is accepted during the 45-day period to purchase the property before the expiration of the period.
 
 #### (5) Extension of restricted offer periods
 
-&emsp;The Corporation may provide notice to clearinghouses regarding, and offer for saleunder the provisions of paragraphs (1) through (4), any eligible multifamily housing property—
+&emsp;The Corporation may provide notice to clearinghouses regarding, and offer for sale under the provisions of paragraphs (1) through (4), any eligible multifamily housing property—
 
 &emsp;&emsp;(A) in which no qualifying multifamily purchaser has expressed serious interest during the period referred to in paragraph (2), or
 
@@ -150,7 +150,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (B) Financial infeasibility
 
-&emsp;&emsp;The Secretary or the State housing finance agency for the State in which an eligible multifamily housing property is located may temporarily reduce the low-income occupancy requirements under paragraph (7) applicable to the property, if the Secretary or such agency determines that an owner's compliance with such requirements is no longer financially feasible. The owner of the property shall make a good-faith effort to return low-income occupancy to the level required under paragraph (7), and the Secretary or the State housing finance agency, as appropriate, shall review the reduction annually to determine whether financial infeasibility continues to exist.
+&emsp;&emsp;The Secretary or the State housing finance agency for the State in which an eligible multifamily housing property is located may temporarily reduce the low-income occupancy requirements under paragraph (7)applicable to the property, if the Secretary or such agency determines that an owner's compliance with such requirements is no longer financially feasible. The owner of the property shall make a good-faith effort to return low-income occupancy to the level required under paragraph (7), and the Secretary or the State housing finance agency, as appropriate, shall review the reduction annually to determine whether financial infeasibility continues to exist.
 
 #### (e) Rent limitations
 
@@ -322,11 +322,11 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property availablefor purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (B) Multiple-unit purchases
 
-&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii)made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;If any nonprofit organization, public agency, or for-profit entity purchases more than 1 eligible condominium property as a part of the same negotiation or purchase, the Corporation may (in the discretion of the Corporation) waive the requirement under subparagraph (A) and provide instead that not less than 35 percent of all eligible condominium properties purchased shall be (i) made available for occupancy by and maintained as affordable for low-income families for the remaining useful life of the property, or (ii) made available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (C) Sale to other purchasers
 
@@ -542,7 +542,7 @@ For purposes of this section:
 
 #### (D) Ineligible residential property
 
-&emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties,ineligible multifamily housing properties, and ineligible condominium properties.
+&emsp;&emsp;The term “ineligible residential property” includes ineligible single family properties, ineligible multifamily housing properties, and ineligible condominium properties.
 
 (Sept. 21, 1950, ch. 967, §2\[40\], as added Pub. L. 102–242, title II, §241(a), Dec. 19, 1991, 105 Stat. 2317; amended Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592, 1593; Pub. L. 102–550, title V, §503(c)(4), Oct. 28, 1992, 106 Stat. 3780; Pub. L. 103–204, §§13, 14(a)(2), (d)(2), (e)(2), (f)(2), Dec. 17, 1993, 107 Stat. 2391, 2393, 2396, 2398; Pub. L. 103–325, title VI, §602(a)(65), (66), Sept. 23, 1994, 108 Stat. 2291.)
 
@@ -590,7 +590,7 @@ Subsec. (q). Pub. L. 103–204, §14(a)(2), added subsec. (q).
 
 Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in the first sentence of section 203(b)(2) of the National Housing Act (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
 
-Subsec. (p)(5)(B). Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in section 221(d)(3)(ii) of the National Housing Act for elevator-type structures (which may, in the discretion of theCorporation, take into consideration any increase of such amount for high-cost areas).”
+Subsec. (p)(5)(B). Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in section 221(d)(3)(ii) of the National Housing Act for elevator-type structures (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
 
 Subsec. (p)(7)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that has an appraised value that does not exceed the applicable dollar amount specified in the first sentence of section 203(b)(2) of the National Housing Act, as such dollar amount is increased on an area-by-area basis under such section for areas with high prevailing housing sales prices, except that for purposes of this paragraph no such increase may exceed 150 percent of the dollar amount specified in section 203(b)(2).”
 
@@ -598,7 +598,7 @@ Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read
 
 #### Affordable Housing Advisory Board
 
-Section 14(b) of Pub. L. 103–204 provided that:
+Section 14(b) of Pub. L. 103–204, as amended by Pub. L. 105–216, §14(e), (f), July 29, 1998, 112 Stat. 910, provided that:
 
 “(1)
 
@@ -612,11 +612,9 @@ Membership.—The Advisory Board shall consist of—
 
 &emsp;“(B) the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation (or the Chairperson's delegate), who shall be a nonvoting member;
 
-&emsp;“(C) the Chairperson of the Thrift Depositor Protection Oversight Board (or the Chairperson's delegate), who shall be a nonvoting member;
+&emsp;“(C) 4 persons appointed by the Secretary of Housing and Urban Development not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\], who represent the interests of individuals and organizations involved in using the affordable housing programs (including nonprofit organizations, public agencies, and for-profit organizations that purchase properties under the affordable housing programs, organizations that provide technical assistance regarding the affordable housing programs, and organizations that represent the interest of low- and moderate-income families); and
 
-&emsp;“(D) 4 persons appointed by the Secretary of Housing and Urban Development not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\], who represent the interests of individuals and organizations involved in using the affordable housing programs (including nonprofit organizations, public agencies, and for-profit organizations that purchase properties under the affordable housing programs, organizations that provide technical assistance regarding the affordable housing programs, and organizations that represent the interest of low- and moderate-income families); and
-
-&emsp;“(E) 2 persons who are members of the National Housing Advisory Board pursuant to section 21A(d)(2)(B)(ii) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(d)(2)(B)(ii)\] (as in effect before the effective date of the repeal under subsection (c)(2) \[90 days after Dec. 17, 1993\]), who shall be appointed by such Board before such effective date.
+&emsp;“(D) 2 persons who are members of the National Housing Advisory Board pursuant to section 21A(d)(2)(B)(ii) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(d)(2)(B)(ii)\] (as in effect before the effective date of the repeal under subsection (c)(2) \[90 days after Dec. 17, 1993\]), who shall be appointed by such Board before such effective date.
 
 “(3)
 
@@ -652,7 +650,7 @@ Meetings.—
 
 &emsp;“(A)
 
-Timing and location.—The Advisory Board shall meet 4 times a year, or more frequently if requested by the Thrift Depositor Protection Oversight Board or the Board of Directors of the Federal Deposit Insurance Corporation. In each year, the Advisory Board shall conduct such meetings at various locations in different regions of the United States in which substantial residential property assets of the Federal Deposit Insurance Corporation or the Resolution Trust Corporation are located. The first meeting of the Advisory Board shall take place not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\].
+Timing.—The Advisory Board shall meet 2 times a year or at the request of the Board of Directors of the Federal Deposit Insurance Corporation. The first meeting of the Advisory Board shall take place not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\].
 
 &emsp;“(B)
 
@@ -670,9 +668,11 @@ Definition.—For purposes of this subsection, the term ‘affordable housing pr
 
 Sunset.—The Advisory Board established under this subsection shall terminate on September 30, 1998.”
 
+\[Pub. L. 105–216, §14(e), July 29, 1998, 112 Stat. 910, provided that the amendment made by section 14(e) to section 14(b)(2) of Pub. L. 103–204, set out above, is effective July 29, 1998.\]
+
 #### Coordination and Consultation Between Federal Deposit Insurance Corporation and Resolution Trust Corporation Under Affordable Housing Programs
 
-Section 241(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1604(c)(1), Oct. 28, 1992, 106 Stat. 4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporation shall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831q\] and section 21A(c) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(c)\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
+Section 241(b) of Pub. L. 102–242, as amended by Pub. L. 102–550, title XVI, §1604(c)(1), Oct. 28, 1992, 106 Stat. 4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporationshall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act \[12 U.S.C. 1831q\] and section 21A(c) of the Federal Home Loan Bank Act \[12 U.S.C. 1441a(c)\]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
 
 #### Section Referred to in Other Sections
 

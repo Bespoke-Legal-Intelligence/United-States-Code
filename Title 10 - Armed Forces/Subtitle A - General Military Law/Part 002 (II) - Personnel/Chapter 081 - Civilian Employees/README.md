@@ -25,11 +25,13 @@
 | \[1599. | Renumbered.\] |
 | [1599a.](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md) | Financial assistance to certain employees in acquisition of critical skills. |
 | [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
-| [1599c.](%C2%A7%2001599c%20-%20Veterans%E2%80%99%20preference%20requirements%20Department%20of%20Defense%20failure%20to%20comply%20treated%20as%20a%20prohibited%20personnel%20practice.md) | Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice. |
+| \[1599c. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–339, §6(c)(1)(B), Oct. 31, 1998, 112 Stat. 3188, struck out item 1599c “Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice”.
 
 1997—Pub. L. 105–85, div. A, title V, §593(b)(2), title X, §1071(b), Nov. 18, 1997, 111 Stat. 1764, 1898, added items 1585a and 1589.
 
@@ -73,6 +75,10 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 1958—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 1552 of this title.
+
 
 ---
 
@@ -101,4 +107,4 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 - [&sect; 01599 - Renumbered &sect;1611](%C2%A7%2001599%20-%20Renumbered%20%C2%A71611.md)
 - [&sect; 01599a - Financial assistance to certain employees in acquisition of critical skills](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md)
 - [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
-- [&sect; 01599c - Veterans&#8217; preference requirements Department of Defense failure to comply treated as a prohibited personnel practice](%C2%A7%2001599c%20-%20Veterans%E2%80%99%20preference%20requirements%20Department%20of%20Defense%20failure%20to%20comply%20treated%20as%20a%20prohibited%20personnel%20practice.md)
+- [&sect; 01599c - Repealed. Pub. L. 105&#8211;339, &sect;6(c)(1)(A), Oct. 31, 1998, 112 Stat. 3188](%C2%A7%2001599c%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93339%2C%20%C2%A76%28c%29%281%29%28A%29%2C%20Oct.%2031%2C%201998%2C%20112%20Stat.%203188.md)

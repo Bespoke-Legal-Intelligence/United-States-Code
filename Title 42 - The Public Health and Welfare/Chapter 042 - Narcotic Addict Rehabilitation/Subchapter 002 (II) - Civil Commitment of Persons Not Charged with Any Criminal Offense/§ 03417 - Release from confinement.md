@@ -6,7 +6,7 @@ Whenever any patient under the care and custody of the Surgeon General pursuant 
 
 #### (b) Return to committing court for recommitment and submission to posthospitalization treatment
 
-If, at any time during such three-year period, any patient (1) fails or refuses to comply with the directions and orders of the Surgeon General in connection with such patient's posthospitalization treatment and supervision, or (2) is determined by the Surgeon General to be again using narcotic drugs, the Surgeon General may order such patient's immediate return to the committing court which may recommit suchpatient to a hospital of the Service for additional treatment for a period of not to exceed six months, and may require such patient thereafter to submit to a posthospitalization program in accordance with subsection (a) of this section.
+If, at any time during such three-year period, any patient (1) fails or refuses to comply with the directions and orders of the Surgeon General in connection with such patient's posthospitalization treatment and supervision, or (2) is determined by the Surgeon General to be again using narcotic drugs, the Surgeon General may order such patient's immediate return to the committing court which may recommit such patient to a hospital of the Service for additional treatment for a period of not to exceed six months, and may require such patient thereafter to submit to a posthospitalization program in accordance with subsection (a) of this section.
 
 (Pub. L. 89–793, title III, §307, Nov. 8, 1966, 80 Stat. 1446.)
 

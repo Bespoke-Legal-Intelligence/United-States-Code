@@ -6,9 +6,9 @@ The Secretary shall establish a research and education program concerning integr
 
 &emsp;(1) to encourage producers to adopt integrated crop and livestock management practices and systems that minimize or abate adverse environmental impacts, reduce soil erosion and loss of water and nutrients, enhance the efficient use of on-farm and off-farm inputs, and maintain or increase profitability and long-term productivity;
 
-&emsp;(2) to develop knowledge and information on integrated crop and livestock managementsystems and practices to assist agricultural producers in the adoption of these systems and practices;
+&emsp;(2) to develop knowledge and information on integrated crop and livestock management systems and practices to assist agricultural producers in the adoption of these systems and practices;
 
-&emsp;(3) to accumulate and analyze information on agricultural production practices researched or developed under programs established under this subchapter, chapter 86 of this title, and other appropriate programs of the Department of Agriculture to further the development of integrated crop and livestock management systems;
+&emsp;(3) to accumulate and analyze information on agricultural production practices researched or developed under programs established under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate programs of the Department of Agriculture to further the development of integrated crop and livestock management systems;
 
 &emsp;(4) to facilitate the adoption of whole-farm integrated crop and livestock management systems through demonstration projects on individual farms, including small and limited resource farms, throughout the United States; and
 
@@ -42,7 +42,11 @@ There are authorized to be appropriated for each fiscal year $20,000,000 to carr
 
 This subchapter, referred to in subsec. (a)(3), was in the original “this subtitle”, meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
 
+Chapter 86 of this title, referred to in subsec. (a)(3), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+
 #### Amendments
 
 1996—Subsec. (a)(3). Pub. L. 104–127 struck out “and section 5881 of this title” before “and other appropriate”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

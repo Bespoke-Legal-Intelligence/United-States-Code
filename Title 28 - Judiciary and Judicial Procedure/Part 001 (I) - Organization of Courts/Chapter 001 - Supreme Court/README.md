@@ -23,6 +23,8 @@ Circuit justices competent to sit as judges of the courts of appeals, see sectio
 
 Jurisdiction of Supreme Court, see section 1251 et seq. of this title.
 
+<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 92–397 without corresponding amendment of analysis.</i>
+
 
 ---
 

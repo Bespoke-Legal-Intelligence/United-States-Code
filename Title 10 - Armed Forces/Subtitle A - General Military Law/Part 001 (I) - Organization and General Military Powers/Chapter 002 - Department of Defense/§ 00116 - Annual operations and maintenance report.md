@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of Defense shall submit to Congress a written report, not later than February 15 of each fiscal year, with respect to the operations and maintenance of the Army, Navy, Air Force, and Marine Corps for the next fiscal year. The Secretary shall include in each such report recommendations for—
 
-&emsp;(A) the number of aircraft flying hours for the Army, Navy, Air Force, and Marine Corps for the next fiscal year, the number of ship steaming hours for the Navy for the next fiscal year, and the number of field training days for the combat arms battalions of the Army and Marine Corps for the next fiscal year;
+&emsp;(A) the number of aircraft flying hours for the Army, Navy, Air Force, and Marine Corpsfor the next fiscal year, the number of ship steaming hours for the Navy for the next fiscal year, and the number of field training days for the combat arms battalions of the Army and Marine Corps for the next fiscal year;
 
 &emsp;(B) the number of ships over 3,000 tons (full load displacement) in each Navy ship classification on which major repair work should be performed during the next fiscal year; and
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) review, as provided in subsection (f), rules and regulations of the Office of Personnel Management.
 
-(b)(1) Any member of the Merit Systems Protection Board, any administrative law judge appointed by the Board under section 3105 of this title, and any employee of the Board designated by the Board may administer oaths, examinewitnesses, take depositions, and receive evidence.
+(b)(1) Any member of the Merit Systems Protection Board, any administrative law judge appointed by the Board under section 3105 of this title, and any employee of the Board designated by the Board may administer oaths, examine witnesses, take depositions, and receive evidence.
 
 (2) Any member of the Board, any administrative law judge appointed by the Board under section 3105, and any employee of the Board designated by the Board may, with respect to any individual—
 
@@ -22,7 +22,7 @@
 
 (c) In the case of contumacy or failure to obey a subpoena issued under subsection (b)(2)(A) or section 1214(b), upon application by the Board, the United States district court for the district in which the person to whom the subpoena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
-(d) A subpoena referred to in subsection (b)(2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in such manner as the Federal Rules of Civil Procedure prescribe for service of a subpoena in a foreign country. To the extent that the courts of the United States can assert jurisdiction over such individual, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance under this subsection by such individual that such court would have if such individual were personally within the jurisdiction of such court.
+(d) A subpoena referred to in subsection (b)(2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in such manner as the Federal Rules of Civil Procedure prescribe for service of a subpoena in a foreign country.To the extent that the courts of the United States can assert jurisdiction over such individual, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance under this subsection by such individual that such court would have if such individual were personally within the jurisdiction of such court.
 
 (e)(1)(A) In any proceeding under subsection (a)(1), any member of the Board may request from the Director of the Office of Personnel Management an advisory opinion concerning the interpretation of any rule, regulation, or other policy directive promulgated by the Office of Personnel Management.
 

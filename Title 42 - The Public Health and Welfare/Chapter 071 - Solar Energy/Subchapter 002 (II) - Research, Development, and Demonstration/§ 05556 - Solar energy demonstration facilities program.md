@@ -2,7 +2,7 @@
 
 #### (a) Authorization for design and construction of facilities; objectives
 
-The Chairman is authorized to initiate a program to design and construct, in specific solar energy technologies (including, but not limited to, those listed in section 5555(c) of this title,<sup>1</sup> facilities or powerplants of sufficient size todemonstrate the technical and economic feasibility of utilizing the various forms of solar energy. The specific goals of such programs shall include—
+The Chairman is authorized to initiate a program to design and construct, in specific solar energy technologies (including, but not limited to, those listed in section 5555(c) of this title,<sup>1</sup> facilities or powerplants of sufficient size to demonstrate the technical and economic feasibility of utilizing the various forms of solar energy. The specific goals of such programs shall include—
 
 &emsp;(1) production of electricity from a number of powerplants, on the order of one to ten megawatts each;
 
@@ -36,7 +36,7 @@ For each of the technologies for which a successful and appropriate development 
 
 #### (c) Establishment of one or more projects utilizing each form of solar energy
 
-In carrying out his responsibilities under this section, the Chairman, acting through the appropriate Federal agencies, may provide for the establishment of one or more demonstration projects utilizing each form of solar energy, which shall include, as appropriate, the specific research, development, pilot plant construction and operation, demonstration plant construction and operation, and other facilities and activities which may be necessary to show commercial viability of the specific solar technology.
+In carrying out his responsibilities under this section, the Chairman, acting through the appropriate Federal agencies, may provide for the establishment of one or more demonstration projects utilizing each form of solar energy, which shall include, as appropriate, the specific research, development, pilot plant constructionand operation, demonstration plant construction and operation, and other facilities and activities which may be necessary to show commercial viability of the specific solar technology.
 
 #### (d) Investigation and agreements for cooperative development of demonstration facilities
 

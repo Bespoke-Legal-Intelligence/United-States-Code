@@ -14,7 +14,7 @@ In exercising his authority to acquire lands by exchange the Secretary may accep
 
 #### (d) State expenditures for public schools, public roads, or other public purposes
 
-The portion of the moneys paid to the State of West Virginia under the provisions of section 500 of this title for expenditure for the benefit of Pendleton and Grant Counties, West Virginia, may be expended as the State legislature may prescribe for the benefit of such counties for public schools, public roads, or other public purposes.
+The portion of the moneys paid to the State of West Virginia under the provisions of section 500 of this title for expenditure for the benefit ofPendleton and Grant Counties, West Virginia, may be expended as the State legislature may prescribe for the benefit of such counties for public schools, public roads, or other public purposes.
 
 (Pub. L. 89–207, §3, Sept. 28, 1965, 79 Stat. 843.)
 

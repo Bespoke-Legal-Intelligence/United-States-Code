@@ -30,7 +30,7 @@ The level of price support for any commodity shall be determined upon the basis 
 
 (C) The Secretary shall carry out this paragraph through the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title IV, §401, 63 Stat. 1054; Aug. 28, 1954, ch. 1041, title II, §§206, 207, 68 Stat. 901; Apr. 11, 1964, Pub. L. 88–297, title I, §103(c), 78 Stat. 175; Dec. 23, 1985, Pub. L. 99–198, title IX, §903(a), 99 Stat. 1444; Nov. 23, 1988, Pub. L. 100–707, title I, 109(a)(1), 102 Stat. 4708.)
+(Oct. 31, 1949, ch. 792, title IV, §401, 63 Stat. 1054; Aug. 28, 1954, ch. 1041, title II, §§206, 207, 68 Stat. 901; Pub. L. 88–297, title I, §103(c), Apr. 11, 1964, 78 Stat. 175; Pub. L. 99–198, title IX, §903(a), Dec. 23, 1985, 99 Stat. 1444; Pub. L. 100–707, title I, 109(a)(1), Nov. 23, 1988, 102 Stat. 4708.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Pub. L. 102–237, §1, Dec. 13, 1991, 105 Stat. 1818, provided that: “This Ac
 
 Pub. L. 101–624, §1(a), Nov. 28, 1990, 104 Stat. 3359, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Food, Agriculture, Conservation, and Trade Act of 1990’.”
 
-Pub. L. 101–508, title I, §1001(a), Nov. 5, 1990, 104 Stat. 1388, provided that: “This title \[enacting section 940d of this title, amending sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1994, 1999, and 5822 of this title and section 136a of Title 21, Food and Drugs, enacting provisions set out as notes under this section and sections 136w, 511r, and 1445b–3a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Agricultural Reconciliation Act of 1990’.”
+Pub. L. 101–508, title I, §1001(a), Nov. 5, 1990, 104 Stat. 1388, provided that: “This title \[enacting section 940d of this title, amending sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1994, 1999, and 5822 of this title and section 136a of Title 21, Food and Drugs, enacting provisions set out as notes under this section and sections136w, 511r, and 1445b–3a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Agricultural Reconciliation Act of 1990’.”
 
 #### Short Title of 1989 Amendments
 
@@ -180,7 +180,7 @@ Pub. L. 98–258, §1, Apr. 10, 1984, 98 Stat. 130, provided: “That this Act \
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act \[enacting sections 511r, 4501 to 4514, and4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title\] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
+Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act \[enacting sections 511r, 4501 to 4514, and 4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title\] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
 
 Pub. L. 98–180, title I, §101, Nov. 29, 1983, 97 Stat. 1128, provided that: “This title \[enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title\] may be cited as the ‘Dairy Production Stabilization Act of 1983’.”
 
@@ -220,6 +220,220 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
+#### Emergency and Market Loss Assistance
+
+Pub. L. 105–277, div. A, title I, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, provided that:
+
+#### “Subtitle A—Emergency Assistance for Crop and Livestock Feed Losses Due to Disasters
+
+#### “SEC. 1101. GENERAL PROVISIONS.
+
+“(a)
+
+Fair and Equitable Distribution.—Assistance made available under this subtitle shall be distributed in a fair and equitable manner to producers who have incurred crop and livestock feed losses in all affected geographic regions of the United States.
+
+“(b)
+
+Program Administration.—In carrying out this subtitle, the Secretary of Agriculture (referred to in this title as the ‘Secretary’) may determine—
+
+&emsp;“(1) 1 or more loss thresholds producers on a farm must incur with respect to a crop to be eligible for assistance;
+
+&emsp;“(2) the payment rate for crop and livestock feed losses incurred; and
+
+&emsp;“(3) eligibility and payment limitation criteria (as defined by the Secretary) for persons to receive assistance under this subtitle, which, in the case of assistance received under any section of this subtitle, shall be in addition to—
+
+&emsp;&emsp;“(A) assistance made available under any other section of this subtitle and subtitle B;
+
+&emsp;&emsp;“(B) payments or loans received by a person under the Agricultural Market Transition Act (7 U.S.C. 7201 et seq.);
+
+&emsp;&emsp;“(C) payments received by a person for the 1998 crop under the noninsured crop assistance program established under section 196 of that Act (7 U.S.C. 7333);
+
+&emsp;&emsp;“(D) crop insurance indemnities provided for the 1998 crop under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.); and
+
+&emsp;&emsp;“(E) emergency loans made available for the 1998 crop under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.).
+
+#### “SEC. 1102. CROP LOSS ASSISTANCE.
+
+“(a)
+
+In General.—The Secretary shall administer a program under which emergency financial assistance is made available to producers on a farm who have incurred losses associated with crops due to disasters (as determined by the Secretary).
+
+“(b)
+
+Losses Incurred for 1998
+
+Crop.—Subject to section 1132, the Secretary shall use not more than $1,500,000,000 to make available assistance to producers on a farm who have incurred losses in the 1998 crop due to disasters.
+
+“(c)
+
+Multiyear Losses.—Subject to section 1132, the Secretary shall use not more than $875,000,000 to make available assistance to producers on a farm who have incurred multiyear losses (as defined by the Secretary) in the 1998 and preceding crops of a commodity due to disasters (including, but not limited to, diseases such as scab).
+
+“(d)
+
+Relationship Between Assistance.—The Secretary shall make assistance available to producers on a farm under either subsection (b) or (c).
+
+“(e)
+
+Qualifying Losses.—Assistance under this section may be made for losses associated with crops that are due to, as determined by the Secretary—
+
+&emsp;“(1) quantity losses;
+
+&emsp;“(2) quality (including, but not limited to, aflatoxin) losses; or
+
+&emsp;“(3) severe economic losses due to damaging weather or related condition.
+
+“(f)
+
+Crops Covered.—Assistance under this section shall be applicable to losses for all crops (including losses of trees from which a crop is harvested), as determined by the Secretary, due to disasters.
+
+“(g)
+
+Crop Insurance.—
+
+&emsp;“(1)
+
+Administration.—In carrying out this section, the Secretary shall not discriminate against or penalize producers on a farm who have purchased crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+
+&emsp;“(2)
+
+Encouraging future crop insurance participation.—Subject to section 1132, the Secretary, acting through the Federal Crop Insurance Corporation, may use the funds made available under subsections (b) and (c), and only those funds, to provide premium refunds or other assistance to purchasers of crop insurance for their 1998 insured crops, or their preceding (including 1998) insured crops.
+
+&emsp;“(3)
+
+Producers who have not purchased crop insurance for 1998 crop.—As a condition of receiving assistance under this section, producers on a farm who have not purchased crop insurance for the 1998 crop under that Act shall agree by contract to purchase crop insurance for the 1999 and 2000 crops produced by the producers.
+
+&emsp;“(4)
+
+Liquidated damages.—
+
+&emsp;&emsp;“(A)
+
+In general.—The contract under paragraph (3) shall provide for liquidated damages to be paid by the producers due to the failure of the producers to purchase crop insurance as provided in paragraph (3).
+
+&emsp;&emsp;“(B)
+
+Notice of damages.—The amount of the liquidated damages shall be established by the Secretary and specified in the contract agreed to by the producers.
+
+&emsp;“(5)
+
+Funding for crop insurance purchase requirement.—Subject to section 1132, such sums as may be necessary, to remain available until expended, shall be available to the Federal Crop Insurance Corporation to cover costs incurred by the Corporation as a result of the crop insurance purchase requirement of paragraph (3). Funds made available under subsections (b) and (c) may not be used to cover such costs.
+
+#### “SEC. 1103. EMERGENCY LIVESTOCK FEED ASSISTANCE.
+
+“Subject to section 1132, the Secretary shall use not more than $200,000,000 to make available livestock feed assistance to livestock producers affected by disasters during calendar year 1998.
+
+#### “Subtitle B—Market Loss Assistance
+
+#### “SEC. 1111. MARKET LOSS ASSISTANCE.
+
+“(a)
+
+In General.—Subject to section 1132 and except as provided in subsection (d), the Secretary shall use not more than $3,057,000,000 for assistance to owners and producers on a farm who are eligible for final payments for fiscal year 1998 under a production flexibility contract for the farm under the Agricultural Market Transition Act (7 U.S.C. 7201 et seq.) to partially compensate the owners and producers for the loss of markets for the 1998 crop of a commodity.
+
+“(b)
+
+Amount.—Except as provided in subsection (d), the amount of assistance made available to owners and producers on a farm under this section shall be proportional to the amount of the contract payment received by the owners and producers for fiscal year 1998 under a production flexibility contract for the farm under the Agricultural Market Transition Act.
+
+“(c)
+
+Time for Payment.—The assistance made available under this section for an eligible owner or producer shall be made as soon as practicable after the date of enactment of this Act \[Oct. 21, 1998\].
+
+“(d) Of the total amount provided under subsection (a), $200,000,000 shall be available to provide assistance to dairy producers in a manner determined by the Secretary: <i>Provided</i>, That no payments made under this section shall affect any decision with respect to rulemaking activities described under section 143 of Public Law 104–127 \[7 U.S.C. 7253\].
+
+#### “Subtitle C—Other Assistance
+
+#### “SEC. 1121. INDEMNITY PAYMENTS FOR COTTON PRODUCERS.
+
+“(a)
+
+Federal Contribution.—Subject to subsection (b), the Secretary of Agriculture shall pay $5,000,000 to the State of Georgia to help fund an indemnity fund, to be established and managed by that State, to compensate cotton producers in that State for losses incurred in 1998 or 1999 from the loss of properly stored, harvested cotton as the result of the bankruptcy of a warehouseman or other party in possession of warehouse receipts evidencing title to the commodity, an improper conversion or transfer of the cotton, or such other potential hazards as determined appropriate by the State.
+
+“(b)
+
+Conditions on Payment to State.—The Secretary of Agriculture shall make the payment to the State of Georgia under subsection (a) only if the State also contributes $5,000,000 to the indemnity fund and agrees to expend all amounts in the indemnity fund by not later than January 1, 2000, to provide compensation to cotton producers as provided in such subsection. If the State of Georgia fails to make its contribution of $5,000,000 to the indemnity fund by July 1, 1999, the funds that would otherwise be paid to the State shall be available to the Secretary for the purpose of providing partial compensation to cotton producers as provided in such subsection.
+
+“(c)
+
+Reporting Requirements.—Upon the establishment of the indemnity fund, and not later than October 1, 1999, the State of Georgia shall submit a report to the Secretary of Agriculture and the Congress describing the State's efforts to use the indemnity fund to provide compensation to injured cotton producers.
+
+#### “SEC. 1122. HONEY RECOURSE LOANS.
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, in order to assist producers of honey to market their honey in an orderly manner during a period of disastrously low prices, the Secretary shall make available recourse loans to producers of the 1998 crop of honey on fair and reasonable terms and conditions, as determined by the Secretary.
+
+“(b)
+
+Loan Rate.—The loan rate of the loans shall be 85 percent of the average price of honey during the 5-crop year period preceding the 1998 crop year, excluding the crop year in which the average price of honey was the highest and the crop year in which the average price of honey was the lowest in the period.
+
+“(c)
+
+No Net Cost Basis.—Repayment of a loan under this section shall include repayment for interest and administrative costs as necessary to operate the program established under this section on a no net cost basis.
+
+#### “SEC. 1123. NONINSURED CROP ASSISTANCE TO RAISIN PRODUCERS.
+
+“Notwithstanding any of the provisions of section 196 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333) that would exclude the following producers from benefits thereunder, the Secretary shall make Noninsured Crop Assistance Program payments in fiscal year 1999 to raisin producers who obtained catastrophic risk protection but because of adverse weather conditions were not able to comply with the policy deadlines for laying the raisins in trays.
+
+#### “SEC. 1124. EMERGENCY ASSISTANCE.
+
+“In addition to amounts appropriated or otherwise made available by this Act \[probably means the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, Pub. L. 105–277, div. A, title I, §101(a), Oct. 21, 1998, 112 Stat. 2681, see Tables for classification\], $50,000,000 is appropriated to the Department of Agriculture, to remain available until expended, to provide emergency disaster assistance to persons or entities who have incurred losses from a failure under section 312(a) of Public Law 94–265 \[16 U.S.C. 1861a(a)\].
+
+#### “SEC. 1125. FOOD FOR PROGRESS.
+
+“\[Amended section 1736<i>o</i> of this title.\]
+
+#### “SEC. 1126. TEMPORARY EXPANSION OF RECOURSE LOAN AUTHORITY.
+
+“\[Amended section 7237 of this title.\]
+
+#### “SEC. 1127. PILOT PROGRAMS.
+
+“(a)
+
+Domestic Market Reporting Pilot Program.—\[Enacted section 229a of this title.\]
+
+“(b)
+
+Export Market Reporting Pilot Investigation.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall implement a twelve month pilot investigation, beginning on the date of implementation, of a streamlined electronic system for collecting export data, in the least intrusive manner possible, for fresh or frozen muscle cuts of meat food products, and develop a data-reporting program to disseminate summary information in a timely manner, not to exceed two weeks after issuance.
+
+&emsp;“(2)
+
+Report.—Not later than six months after the conclusion of the mandatory export reporting pilot investigation, the Secretary of Agriculture shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the effectiveness of the pilot investigation.
+
+“(c)
+
+Funding. —An amount of $250,000 is hereby appropriated to carry out this section of the Act.
+
+#### “Subtitle D—Administration
+
+#### “SEC. 1131. COMMODITY CREDIT CORPORATION.
+
+“Subject to section 1132, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out subtitles A, B, and C of this title.
+
+#### “SEC. 1132. EMERGENCY REQUIREMENT.
+
+“Notwithstanding the last sentence of section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)\], as amended, amounts made available by subtitles A, B, and C of this title are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended: <i>Provided</i>, That such amounts shall be available only to the extent that an official budget request that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[see Short Title note set out under section 900 of Title 2, The Congress\], is transmitted by the President to Congress.
+
+#### “SEC. 1133. REGULATIONS.
+
+“(a)
+
+Issuance of Regulations.—As soon as practicable after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement subtitles A, B, and C of this title. The issuance of the regulations shall be made without regard to—
+
+&emsp;“(1) the notice and comment provisions of section 553 of title 5, United States Code;
+
+&emsp;“(2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;“(3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+
+“(b)
+
+Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+
 #### Programs for Farmers and Ranchers Who Were Activated Reservists During Persian Gulf Conflict
 
 Pub. L. 102–25, title III, §§381–388, Apr. 6, 1991, 105 Stat. 95–98, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer's crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
@@ -234,7 +448,7 @@ Pub. L. 101–624, title XI, subtitle E, Nov. 28, 1990, 104 Stat. 3518, as amend
 
 #### Hurricane Hugo Forestry Assistance; Cost-Share Assistance
 
-Pub. L. 101–624, title XXII, §2235(b), Nov. 28, 1990, 104 Stat. 3960, directed Secretary of Agriculture to developand implement cost-share program to provide financial assistance to owners of private timber stands that were damaged in 1989 by Hurricane Hugo.
+Pub. L. 101–624, title XXII, §2235(b), Nov. 28, 1990, 104 Stat. 3960, directed Secretary of Agriculture to develop and implement cost-share program to provide financial assistance to owners of private timber stands that were damaged in 1989 by Hurricane Hugo.
 
 #### Appropriations for Forestry Assistance and Double Cropping on Disaster Areas
 
@@ -262,7 +476,7 @@ Pub. L. 100–518, §3, Oct. 24, 1988, 102 Stat. 2587, directed Secretary of Agr
 
 #### Emergency Crop Loss Assistance
 
-Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1712, as amended by Pub. L. 102–368, title VI, Sept. 23, 1992, 106 Stat. 1130, appropriated an additional $1,750,000,000, to remain available until expended, for losses associated with 1990 crops as authorized by Pub. L. 101–624, formerly set out below, and for losses associated with 1991 and 1992 crops under same terms and conditions.
+Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1712, as amended by Pub. L. 102–368, title VI, Sept. 23, 1992, 106Stat. 1130, appropriated an additional $1,750,000,000, to remain available until expended, for losses associated with 1990 crops as authorized by Pub. L. 101–624, formerly set out below, and for losses associated with 1991 and 1992 crops under same terms and conditions.
 
 Pub. L. 101–624, title XXII, §§2241–2272, Nov. 28, 1990, 104 Stat. 3962–3977, as amended by Pub. L. 101–508, title I, §1204(d), Nov. 5, 1990, 104 Stat. 1388–12; Pub. L. 102–237, title I, §114(a)(4)–(16), Dec. 13, 1991, 105 Stat. 1838, 1839, related to emergency crop loss assistance for the 1990 crop of wheat, feed grains, upland cotton, extra long staple cotton, and rice, for orchards, and for forest crops, prior to repeal by Pub. L. 103–354, title I, §119(c), Oct. 13, 1994, 108 Stat. 3208. Similar provisions for prior crop years were contained in:
 
@@ -280,7 +494,7 @@ Pub. L. 97–98, title XI, §1112, Dec. 22, 1981, 95 Stat. 1267, directed Secret
 
 #### Studies in Rice Price Support; Report to Congress; Termination Date
 
-Section 315 of act Aug. 28, 1954, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicableto rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
+Section 315 of act Aug. 28, 1954, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
 
 #### Section Referred to in Other Sections
 

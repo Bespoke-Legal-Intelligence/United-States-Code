@@ -12,7 +12,7 @@ Amounts paid under subsection (a) of this section shall be deemed to be a part o
 
 For purposes of this section, the terms “Indian tribe” and “tribal organization” shall have the meanings given such terms by subsections (e) and (<i>l</i>) of section 450b of title 25, respectively.
 
-(Aug. 14, 1935, ch. 531, title IV, §428, as added June 17, 1980, Pub. L. 96–272, title I, §103(b), 94 Stat. 520; amended Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(b)(3), 107 Stat. 655; Aug. 22, 1996, Pub. L. 104–193, title III, §375(d), 110 Stat. 2257.)
+(Aug. 14, 1935, ch. 531, title IV, §428, as added Pub. L. 96–272, title I, §103(b), June 17, 1980, 94 Stat. 520; amended Pub. L. 103–66, title XIII, §13711(b)(3), Aug. 10, 1993, 107 Stat. 655; Pub. L. 104–193, title III, §375(d), Aug. 22, 1996, 110 Stat. 2257.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Secretary shall forward the claim and a copy of the Administrator's determin
 
 #### (d) Adjudication
 
-In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
+In the case of a dispute arising in connection with a claim under this section, the UnitedStates Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
 
 (Pub. L. 93–498, §11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, §146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Transfer of Functions
 
-Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal EmergencyManagement Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
+Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
 #### Section Referred to in Other Sections
 

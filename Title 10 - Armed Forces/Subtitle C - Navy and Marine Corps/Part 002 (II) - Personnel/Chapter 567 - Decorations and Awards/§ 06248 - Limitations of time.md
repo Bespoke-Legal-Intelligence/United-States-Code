@@ -14,7 +14,7 @@
 
 > a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia in place thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 390; July 5, 1960, Pub. L. 86–582, §1(2), 74 Stat. 320.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 390; Pub. L. 86–582, §1(2), July 5, 1960, 74 Stat. 320.)
 
 Historical and Revision Notes
 

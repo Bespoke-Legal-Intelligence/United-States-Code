@@ -8,7 +8,7 @@ In order to provide for the District of Columbia facilities for the holding of c
 
 (1) Such civic center shall be in accordance with a plan, indicating the design and estimated costs, approved by the Mayor and the Council of the District of Columbia, and approved by the National Capital Planning Commission pursuant to section 71d of this title and section 16 of the Act approved June 20, 1938 \[D.C. Code, §5–432\], and reviewed by the Commissioner of Fine Arts to the extent required by section 1 of the Act approved May 16, 1930 \[D.C. Code, §5–410\].
 
-(2) Notwithstanding the provisions of section 12 of the District of Columbia Redevelopment Act of 1945, as amended \[D.C. Code, §5–811\], the urban renewal plan, approved pursuant to section 6(b)(2) of such Act \[D.C. Code, §5–805(b)(2)\], for an urban renewal area in which the civic center is located shall be deemed to be modified by the plan approved pursuant to this subsectionand the National Capital Planning Commission shall certify such urban renewal plan, as modified, to the District of Columbia Redevelopment Land Agency.
+(2) Notwithstanding the provisions of section 12 of the District of Columbia Redevelopment Act of 1945, as amended \[D.C. Code, §5–811\], the urban renewal plan, approved pursuant to section 6(b)(2) of such Act \[D.C. Code, §5–805(b)(2)\], for an urban renewal area in which the civic center is located shall be deemed to be modified by the plan approved pursuant to this subsection and the National Capital Planning Commission shall certify such urban renewal plan, as modified, to the District of Columbia Redevelopment Land Agency.
 
 (3) In the development of the civic center in accordance with the plan approved pursuant to this subsection, the Mayor, notwithstanding any other provision of law, may open, extend, widen, or close any street, road, highway, or alley, or part thereof, by the filing of a plat or plats in the Office of the Surveyor of the District of Columbia showing such opening, extension, widening, or closing.
 
@@ -66,7 +66,7 @@ For transfer of powers, duties, and functions of District of Columbia Land Redev
 
 Committee on the District of Columbia of Senate abolished and its jurisdiction given to Committee on Governmental Affairs of Senate, effective Feb. 11, 1977. See Rules XXV of Standing Rules of Senate, as amended by Senate Resolution 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Congressional Findings and Declaration
 

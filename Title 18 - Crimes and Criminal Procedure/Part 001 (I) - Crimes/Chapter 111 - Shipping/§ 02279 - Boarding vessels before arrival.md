@@ -4,7 +4,7 @@ Whoever, not being in the United States service, and not being duly authorized b
 
 The master of such vessel may take any such person into custody, and deliver him up forthwith to any law enforcement officer, to be by him taken before any committing magistrate, to be dealt with according to law.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(D), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 103–322, title XXXIII, §330016(1)(D), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

@@ -1,11 +1,6 @@
 ## PART IV—SERVICE, SUPPLY, AND PROCUREMENT
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>931.</b>](Chapter%20931%20-%20Civil%20Reserve%20Air%20Fleet/README.md) | <b>Civil Reserve Air Fleet</b> | <b>9511</b> |
 | [<b>933.</b>](Chapter%20933%20-%20Procurement/README.md) | <b>Procurement</b> | <b>9531</b> |

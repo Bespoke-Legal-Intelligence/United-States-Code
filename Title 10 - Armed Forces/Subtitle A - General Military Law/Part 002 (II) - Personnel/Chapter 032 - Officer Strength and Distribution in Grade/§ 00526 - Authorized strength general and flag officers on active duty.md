@@ -16,7 +16,7 @@ Limitations.—The number of general officers on active duty in the Army, Air Fo
 
 Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint Chiefs of Staff may designate up to 12 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). Officers in positions so designated shall not be counted for the purposes of those limitations.
 
-(2) This subsection shall cease to be effective on October 1, 1998.
+(2) This subsection shall cease to be effective on October 1, 2002.
 
 (c)
 
@@ -34,7 +34,7 @@ Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later t
 
 Exclusion of Certain Officers.—The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for training or who is on active duty under a call or order specifying a period of less than 180 days.
 
-(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506.)
+(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub.L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996.)
 
 #### Historical and Revision Notes
 
@@ -47,6 +47,8 @@ Present law (section 811(a) of Public Law 95–79, as amended) provides that the
 A prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–261 substituted “October 1, 2002” for “October 1, 1998”.
 
 1996—Subsec. (a)(1) to (3). Pub. L. 104–106, §1503(a)(3)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
@@ -79,6 +81,10 @@ Subsecs. (d), (e). Pub. L. 103–337, §512, added subsecs. (d) and (e).
 Subsec. (c). Pub. L. 102–484, §403(a), added subsec. (c).
 
 1990—Pub. L. 101–510 amended section generally. Prior to amendment, text read as follows: “The total number of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy may not exceed 1,073.”
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1990 Amendment
 

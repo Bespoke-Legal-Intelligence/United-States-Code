@@ -76,6 +76,8 @@
 
 This chapter is referred to in sections 460gg–3, 460bbb–3, 544k of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

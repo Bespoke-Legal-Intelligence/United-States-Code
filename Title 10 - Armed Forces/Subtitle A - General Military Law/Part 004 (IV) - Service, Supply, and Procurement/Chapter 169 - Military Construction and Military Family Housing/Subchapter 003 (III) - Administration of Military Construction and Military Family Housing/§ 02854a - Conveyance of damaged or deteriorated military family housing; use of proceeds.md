@@ -42,7 +42,7 @@ Inapplicability of Certain Property Disposal Laws.—The following provisions of
 
 Use of Proceeds.—(1) The proceeds of any conveyance of a family housing facility under this section shall be credited to the appropriate fund established under section 2883 of this title and shall be available—
 
-&emsp;(A) to construct family housing units to replace the family housing facility conveyed under this section, but only to the extent that the number of units constructed with such proceeds does not exceed the number of units of military family housing of the facility conveyed;
+&emsp;(A) to construct family housing units to replace the family housing facility conveyedunder this section, but only to the extent that the number of units constructed with such proceeds does not exceed the number of units of military family housing of the facility conveyed;
 
 &emsp;(B) to repair or restore existing military family housing; and
 

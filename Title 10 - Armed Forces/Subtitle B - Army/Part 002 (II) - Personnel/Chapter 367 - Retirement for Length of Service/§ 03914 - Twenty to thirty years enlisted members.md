@@ -2,7 +2,7 @@
 
 Under regulations to be prescribed by the Secretary of the Army, an enlisted member of the Army who has at least 20, but less than 30, years of service computed under section 3925 of this title may, upon his request, be retired.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 225; Sept. 2, 1958, Pub. L. 85–861, §33(a)(25), 72 Stat. 1565; Sept. 8, 1980, Pub. L. 96–343, §9(a)(1), 94 Stat. 1128; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §515(a), 108 Stat. 2753.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 225; Pub. L. 85–861, §33(a)(25), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–343, §9(a)(1), Sept. 8, 1980, 94 Stat. 1128; Pub. L. 103–337, div. A, title V, §515(a), Oct. 5, 1994, 108 Stat. 2753.)
 
 Historical and Revision Notes<br>1956
 

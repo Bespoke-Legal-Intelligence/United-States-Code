@@ -6,7 +6,7 @@ In the performance of his functions and duties under the provisions of sections 
 
 (b) To employ, subject to chapter 51 and subchapter III of chapter 53 of title 5, one special assistant and not to exceed five artists and illustrators.
 
-(July 19, 1940, ch. 642, §4, 54 Stat. 774; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Dec. 19, 1973, Pub. L. 93–193, §2, 87 Stat. 765.)
+(July 19, 1940, ch. 642, §4, 54 Stat. 774; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 93–193, §2, Dec. 19, 1973, 87 Stat. 765.)
 
 #### Codification
 

@@ -60,7 +60,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 The Attorney General's discretionary judgment regarding the application of this section shall not be subject to review. No court may set aside any action or decision by the Attorney General under this section regarding the detention or release of any alien or the grant, revocation, or denial of bond or parole.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §236, 66 Stat. 200; Nov. 29, 1990, Pub. L. 101–649, title V, §504(b), title VI, §603(a)(12), 104 Stat. 5050, 5083; Dec. 12, 1991, Pub. L. 102–232, title III, §306(a)(5), 105 Stat. 1751; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§303(a), 371(b)(5), 110 Stat. 3009–585, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 4, §236, 66 Stat. 200; Pub. L. 101–649, title V, §504(b), title VI, §603(a)(12), Nov. 29, 1990, 104 Stat. 5050, 5083; Pub. L. 102–232, title III, §306(a)(5), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title III, §§303(a), 371(b)(5), Sept. 30, 1996, 110 Stat. 3009–585, 3009–645.)
 
 #### Amendments
 

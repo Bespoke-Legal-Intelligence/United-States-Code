@@ -6,5 +6,5 @@ The Director of the Institute shall—
 
 &emsp;(2) establish programs of evaluation, planning, and dissemination of knowledge related to such research and training.
 
-(July 1, 1944, ch. 373, title IV, §437, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 849.)
+(July 1, 1944, ch. 373, title IV, §437, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 849.)
 

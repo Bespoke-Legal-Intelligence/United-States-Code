@@ -46,7 +46,7 @@ For the purpose of section 552b of title 5, the Commission shall be deemed to be
 
 #### (j) Annual authorization and appropriation request
 
-In each annual authorization and appropriation request under this chapter, the Secretary shall identify the portion thereof intended for the support of the Commission and include a statement by the Commission (1) showing theamount requested by the Commission in its budgetary presentation to the Secretary and the Office of Management and Budget and (2) an assessment of the budgetary needs of the Commission. Whenever the Commission submits to the Secretary, the President, or the Office of Management and Budget, any legislative recommendation or testimony, or comments on legislation, prepared for submission to Congress, the Commission shall concurrently transmit a copy thereof to the appropriate committees of Congress.
+In each annual authorization and appropriation request under this chapter, the Secretary shall identify the portion thereof intended for the support of the Commission and include a statement by the Commission (1) showing the amount requested by the Commission in its budgetary presentation to the Secretary and the Office of Management and Budget and (2) an assessment of the budgetary needs of the Commission. Whenever the Commission submits to the Secretary, the President, or the Office of Management and Budget, any legislative recommendation or testimony, or comments on legislation, prepared for submission to Congress, the Commission shall concurrently transmit a copy thereof to the appropriate committees of Congress.
 
 (Pub. L. 95–91, title IV, §401, Aug. 4, 1977, 91 Stat. 582; Pub. L. 101–271, §2(a), (b), Apr. 11, 1990, 104 Stat. 135.)
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsecs. (i) and (j), was in the original “this A
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
+1990—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “fouryears”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
 
 #### Effective Date of 1990 Amendment
 
@@ -84,9 +84,11 @@ Report.—The Commission shall transmit the study and the model regulations to C
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 105–62, title III, Oct. 13, 1997, 111 Stat. 1334, provided in part: “That notwithstanding any other provision of law, not to exceed $162,141,000 of revenues from fees and annual charges, and other services and collections in fiscal year 1998 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the General Fund shall be reduced as revenues are received during fiscal year 1998 so as to result in a final fiscal year 1998 appropriation from the General Fund estimated at not more than $0.”
+Pub. L. 105–245, title III, Oct. 7, 1998, 112 Stat. 1851, provided in part: “That notwithstanding any other provision of law, not to exceed $167,500,000 of revenues from fees and annual charges, and other services and collections in fiscal year 1999 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the General Fund shall be reduced as revenues are received during fiscal year 1999 so as to result in a final fiscal year 1999 appropriation from the General Fund estimated at not more than $0.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–62, title III, Oct. 13, 1997, 111 Stat. 1334.
 
 Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2998.
 

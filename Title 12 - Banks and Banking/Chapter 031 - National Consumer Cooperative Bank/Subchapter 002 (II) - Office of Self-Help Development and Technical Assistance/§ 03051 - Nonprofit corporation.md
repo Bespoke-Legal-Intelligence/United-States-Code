@@ -2,7 +2,7 @@
 
 #### (a) Office of Self-Help Development and Technical Assistance abolished; transfer of assets, etc.
 
-(1) Upon the incorporation of the nonprofit corporation described in subsection (b) of thissection, the Office of Self-Help Development and Technical Assistance is hereby abolished.
+(1) Upon the incorporation of the nonprofit corporation described in subsection (b) of this section, the Office of Self-Help Development and Technical Assistance is hereby abolished.
 
 (2)(A) If the nonprofit corporation described in subsection (b) of this section agrees to accept the liabilities of the Office, the Bank, notwithstanding any other provision of law, shall transfer all assets, liabilities, and property of the Office to such nonprofit corporation on the day on which such nonprofit corporation is incorporated.
 
@@ -38,7 +38,7 @@
 
 #### (c) Treatment for tax purposes
 
-(1) Notwithstanding any other provision of law, such nonprofit corporation shall be deemed to be, and treated as, qualified as an organization described in section 501(c)(3) of title 26 from the date on which such nonprofit corporation is established under the laws of the District of Columbia until the date on which the Internal Revenue Service makes a final determination on the application which such nonprofit corporation will submit to the Internal Revenue Service seeking status as an organization qualifying under such section.
+(1) Notwithstanding any other provision of law, such nonprofit corporation shall be deemed to be, and treated as, qualified as an organization described in section 501(c)(3) of title 26 from the date on which such nonprofit corporation is established under the laws of the District of Columbia until the date on which the Internal Revenue Service makes a final determination onthe application which such nonprofit corporation will submit to the Internal Revenue Service seeking status as an organization qualifying under such section.
 
 (2) When performed by such nonprofit corporation, the functions described in subsection (b)(3)(A) of this section shall be deemed to be performed for “charitable purposes” within the meaning of section 501(c)(3) of title 26.
 

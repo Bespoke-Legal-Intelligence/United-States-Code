@@ -8,7 +8,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both; 
 
 The word “value” means face, par, or market value, or cost price, either wholesale or retail, whichever is greater.
 
-(June 25, 1948, ch. 645, 62 Stat. 725; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 725; Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

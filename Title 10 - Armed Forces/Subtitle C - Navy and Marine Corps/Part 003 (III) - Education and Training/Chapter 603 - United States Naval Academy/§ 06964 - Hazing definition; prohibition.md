@@ -12,7 +12,7 @@
 
 (f) A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, or Marine Corps until two years after the graduation of the class of which he was a member.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 433; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(c)(2), 99 Stat. 736; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1622(e)(8), 103 Stat. 1605.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 433; Pub. L. 99–145, title XIII, §1301(c)(2), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–189, div. A, title XVI, §1622(e)(8), Nov. 29, 1989, 103 Stat. 1605.)
 
 Historical and Revision Notes
 
@@ -56,7 +56,7 @@ In subsection (a) the words “privilege, or advantage to which he shall legally
 
 In subsection (b) the words “prescribe regulations \* \* \* to prevent hazing” are substituted for the words “make such rules \* \* \* as will effectually prevent the practice of hazing”.
 
-In subsection (c) the words “dealt with” are substituted for the words “proceeded against, dealt with, and punished”. The word “regulations” is substituted for the word “rules” for uniformity and the words “and breaches” are omitted as surplusage. The words “except by sentence of a court-martial” are substituted for the words “except under the provisions of section threeof this Act” because §3 of the source statute provided for a Naval Academy court-martial with special provisions for handling cases involving hazing. The enactment of the Uniform Code of Military Justice made midshipmen at the Naval Academy subject to the same military law which applies generally to the naval service, thereby superseding the special type of court-martial for midshipmen. A court-martial under the Uniform Code of Military Justice has the power to sentence anyone convicted by it to dismissal if authorized by the Table of Maximum Punishments.
+In subsection (c) the words “dealt with” are substituted for the words “proceeded against, dealt with, and punished”. The word “regulations” is substituted for the word “rules” for uniformity and the words “and breaches” are omitted as surplusage. The words “except by sentence of a court-martial” are substituted for the words “except under the provisions of section three of this Act” because §3 of the source statute provided for a Naval Academy court-martial with special provisions for handling cases involving hazing. The enactment of the Uniform Code of Military Justice made midshipmen at the Naval Academy subject to the same military law which applies generally to the naval service, thereby superseding the special type of court-martial for midshipmen. A court-martial under the Uniform Code of Military Justice has the power to sentence anyone convicted by it to dismissal if authorized by the Table of Maximum Punishments.
 
 In subsections (d) and (e) all that part of the source text preceding the proviso is omitted as superseded by the Uniform Code of Military Justice. The words “in a military or naval prison or elsewhere” are omitted as surplusage.
 

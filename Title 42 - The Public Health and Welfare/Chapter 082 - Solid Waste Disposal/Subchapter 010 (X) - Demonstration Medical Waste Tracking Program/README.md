@@ -14,7 +14,7 @@
 - [&sect; 06992d - Enforcement](%C2%A7%2006992d%20-%20Enforcement.md)
 - [&sect; 06992e - Federal facilities](%C2%A7%2006992e%20-%20Federal%20facilities.md)
 - [&sect; 06992f - Relationship to State law](%C2%A7%2006992f%20-%20Relationship%20to%20State%20law.md)
-- [&sect; 06992g - Report to Congress](%C2%A7%2006992g%20-%20Report%20to%20Congress.md)
+- [&sect; 06992g - Repealed. Pub. L. 105&#8211;362, title V, &sect;501(h)(1)(A), Nov. 10, 1998, 112 Stat. 3284](%C2%A7%2006992g%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20V%2C%20%C2%A7501%28h%29%281%29%28A%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203284.md)
 - [&sect; 06992h - Health impacts report](%C2%A7%2006992h%20-%20Health%20impacts%20report.md)
 - [&sect; 06992i - General provisions](%C2%A7%2006992i%20-%20General%20provisions.md)
 - [&sect; 06992j - Effective date](%C2%A7%2006992j%20-%20Effective%20date.md)

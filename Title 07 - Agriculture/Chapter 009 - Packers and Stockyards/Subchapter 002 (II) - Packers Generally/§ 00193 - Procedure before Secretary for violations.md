@@ -2,7 +2,7 @@
 
 #### (a) Complaint; hearing; intervention
 
-Whenever the Secretary has reason to believe that any packer has violated or is violating anyprovision of this subchapter, he shall cause a complaint in writing to be served upon the packer, stating his charges in that respect, and requiring the packer to attend and testify at a hearing at a time and place designated therein, at least thirty days after the service of such complaint; and at such time and place there shall be afforded the packer a reasonable opportunity to be informed as to the evidence introduced against him (including the right of cross-examination), and to be heard in person or by counsel and through witnesses, under such regulations as the Secretary may prescribe. Any person for good cause shown may on application be allowed by the Secretary to intervene in such proceeding, and appear in person or by counsel. At any time prior to the close of the hearing the Secretary may amend the complaint; but in case of any amendment adding new charges the hearing shall, on the request of the packer, be adjourned for a period not exceeding fifteen days.
+Whenever the Secretary has reason to believe that any packer has violated or is violating any provision of this subchapter, he shall cause a complaint in writing to be served upon the packer, stating his charges in that respect, and requiring the packer to attend and testify at a hearing at a time and place designated therein, at least thirty days after the service of such complaint; and at such time and place there shall be afforded the packer a reasonable opportunity to be informed as to the evidence introduced against him (including the right of cross-examination), and to be heard in person or by counsel and through witnesses, under such regulations as the Secretary may prescribe. Any person for good cause shown may on application be allowed by the Secretary to intervene in such proceeding, and appear in person or by counsel. At any time prior to the close of the hearing the Secretary may amend the complaint; but in case of any amendment adding new charges the hearing shall, on the request of the packer, be adjourned for a period not exceeding fifteen days.
 
 #### (b) Report and order; penalty
 
@@ -16,7 +16,7 @@ Until the record in such hearing has been filed in a court of appeals of the Uni
 
 Complaints, orders, and other processes of the Secretary under this section may be served in the same manner as provided in section 45 of title 15.
 
-(Aug. 15, 1921, ch. 64, title II, §203, 42 Stat. 161; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1958, Pub. L. 85–791, §6(a), 72 Stat. 944; Sept. 13, 1976, Pub. L. 94–410, §3(b), 90 Stat. 1249.)
+(Aug. 15, 1921, ch. 64, title II, §203, 42 Stat. 161; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §6(a), Aug. 28, 1958, 72 Stat. 944; Pub. L. 94–410, §3(b), Sept. 13, 1976, 90 Stat. 1249.)
 
 #### Amendments
 

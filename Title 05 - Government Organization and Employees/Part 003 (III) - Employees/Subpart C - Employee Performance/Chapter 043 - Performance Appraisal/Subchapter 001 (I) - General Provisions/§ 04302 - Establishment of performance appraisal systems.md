@@ -52,5 +52,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 section 1441a; title 31 section 732.
+This section is referred to in section 9508 of this title; title 12 section 1441a; title 31 section 732.
 

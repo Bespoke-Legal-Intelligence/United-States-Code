@@ -4,19 +4,19 @@
 
 General Requirements and Considerations.—(1) The Secretary of Transportation shall facilitate and encourage the acquisition by the private sector and State governments of—
 
-&emsp;(A) launch property of the United States Government that is excess or otherwise is not needed for public use; and
+&emsp;(A) launch or reentry property of the United States Government that is excess or otherwise is not needed for public use; and
 
-&emsp;(B) launch services, including utilities, of the Government otherwise not needed for public use.
+&emsp;(B) launch services and reentry services, including utilities, of the Government otherwise not needed for public use.
 
-(2) In acting under paragraph (1) of this subsection, the Secretary shall consider the commercial availability on reasonable terms of substantially equivalent launch property or launch services from a domestic source.
+(2) In acting under paragraph (1) of this subsection, the Secretary shall consider the commercial availability on reasonable terms of substantially equivalent launch property or launch services or reentry services from a domestic source, whether such source is located on or off a Federal range.
 
 (b)
 
 Price.—(1) In this subsection, “direct costs” means the actual costs that—
 
-&emsp;(A) can be associated unambiguously with a commercial launch effort; and
+&emsp;(A) can be associated unambiguously with a commercial launch or reentry effort; and
 
-&emsp;(B) the Government would not incur if there were no commercial launch effort.
+&emsp;(B) the Government would not incur if there were no commercial launch or reentry effort.
 
 (2) In consultation with the Secretary, the head of the executive agency providing the property or service under subsection (a) of this section shall establish the price for the property or service. The price for—
 
@@ -24,7 +24,9 @@ Price.—(1) In this subsection, “direct costs” means the actual costs that�
 
 &emsp;(B) acquiring launch property (except by sale or transaction instead of sale) is an amount equal to the direct costs, including specific wear and tear and property damage, the Government incurred because of acquisition of the property; and
 
-&emsp;(C) launch services is an amount equal to the direct costs, including the basic pay of Government civilian and contractor personnel, the Government incurred because of acquisition of the services.
+&emsp;(C) launch services or reentry services is an amount equal to the direct costs, including the basic pay of Government civilian and contractor personnel, the Government incurred because of acquisition of the services.
+
+(3) The Secretary shall ensure the establishment of uniform guidelines for, and consistent implementation of, this section by all Federal agencies.
 
 (c)
 
@@ -32,9 +34,9 @@ Collection by Secretary.—The Secretary may collect a payment under this sectio
 
 (d)
 
-Collection by Other Governmental Heads.—The head of a department, agency, or instrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or its payload for launch if the activity was agreed to by the owner or manufacturer of the launch vehicle or payload.
+Collection by Other Governmental Heads.—The head of a department, agency, or instrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or reentry vehicle, or the payload of either, for launch or reentry if the activity was agreed to by the owner or manufacturer of the launch vehicle, reentry vehicle, or payload.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1335; Pub. L. 105–303, title I, §102(a)(11), Oct. 28, 1998, 112 Stat. 2849.)
 
 Historical and Revision Notes
 
@@ -79,4 +81,20 @@ In subsection (b)(2), before clause (A), the word “price” is substituted for
 In subsection (c), the word “collected” is substituted for “received” for consistency in this section. The words “by the United States for launch property or launch services, including utilities” and “the general fund of” are omitted as surplus.
 
 In subsection (d), the words “department, agency, or instrumentality of the Government” are substituted for “Federal agency or department” for consistency in the revised title and with other titles of the Code.
+
+#### Amendments
+
+1998—Subsec. (a)(1)(A). Pub. L. 105–303, §102(a)(11)(A), inserted “or reentry” after “launch”.
+
+Subsec. (a)(1)(B). Pub. L. 105–303, §102(a)(11)(B), inserted “and reentry services” after “launch services”.
+
+Subsec. (a)(2). Pub. L. 105–303, §102(a)(11)(C), (D), inserted “or reentry services” after “or launch services” and substituted “source, whether such source is located on or off a Federal range” for “source”.
+
+Subsec. (b)(1)(A), (B). Pub. L. 105–303, §102(a)(11)(E), inserted “or reentry” after “commercial launch”.
+
+Subsec. (b)(2)(C). Pub. L. 105–303, §102(a)(11)(F), inserted “or reentry services” after “launch services”.
+
+Subsec. (b)(3). Pub. L. 105–303, §102(a)(11)(G), added par. (3).
+
+Subsec. (d). Pub. L. 105–303, §102(a)(11)(H), (I), substituted “or reentry vehicle, or the payload of either, for launch or reentry” for “or its payload for launch” and inserted “, reentry vehicle,” after “manufacturer of the launch vehicle”.
 

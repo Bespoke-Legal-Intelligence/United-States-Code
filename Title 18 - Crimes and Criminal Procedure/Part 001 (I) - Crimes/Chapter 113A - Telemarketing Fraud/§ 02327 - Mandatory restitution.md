@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+In General.—Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution to all victims of any offense for which an enhanced penalty is provided under section 2326.
 
 (b)
 
@@ -14,7 +14,7 @@ Directions.—The order of restitution under this section shall direct the defen
 
 &emsp;(2)
 
-Enforcement.—An order of restitution under this section shall be issued and enforcedin accordance with section 3664 in the same manner as an order under section 3663A.
+Enforcement.—An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
 
 &emsp;(3)
 
@@ -32,11 +32,19 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 (c)
 
-Definition.—For purposes of this section, the term “victim” includes the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
+Victim Defined.—In this section, the term “victim” has the meaning given that term in section 3663A(a)(2).
 
-(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502.)
+(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, §5, June 23, 1998, 112 Stat. 520.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–184, §5(1), substituted “to all victims of any offense for which an enhanced penalty is provided under section 2326” for “for any offense under this chapter”.
+
+Subsec. (c). Pub. L. 105–184, §5(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
+
+“(c)
+
+Definition.—For purposes of this section, the term ‘victim’ includes the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.”
 
 1996—Subsec. (a). Pub. L. 104–132, §205(e)(1), inserted “or 3663A” after “3663”.
 

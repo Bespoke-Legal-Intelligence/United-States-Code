@@ -1,5 +1,5 @@
 
-35 U.S.C.<br>United States Code, 1997 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+35 U.S.C.<br>United States Code, 1998 Edition<br>Title 35 - PATENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 35—PATENTS
 
@@ -410,7 +410,7 @@ Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 11 section 101; title 15 sections 278n, 3703; title 17 section 912; title 42 section 12002.
+This title is referred to in title 11 section 101; title 15 sections 278n, 3703; title 17 sections 912, 1329; title 42 section 12002.
 
 
 ---

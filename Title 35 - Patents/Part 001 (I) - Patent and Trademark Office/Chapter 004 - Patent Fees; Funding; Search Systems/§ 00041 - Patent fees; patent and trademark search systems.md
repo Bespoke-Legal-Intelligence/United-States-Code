@@ -2,69 +2,69 @@
 
 (a) The Commissioner shall charge the following fees:
 
-&emsp;(1)(A) On filing each application for an original patent, except in design or plant cases, $500.
+&emsp;(1)(A) On filing each application for an original patent, except in design or plant cases, $760.
 
-&emsp;(B) In addition, on filing or on presentation at any other time, $52 for each claim in independent form which is in excess of 3, $14 for each claim (whether independent or dependent) which is in excess of 20, and $160 for each application containing a multiple dependent claim.
+&emsp;(B) In addition, on filing or on presentation at any other time, $78 for each claim in independent form which is in excess of 3, $18 for each claim (whether independent or dependent) which is in excess of 20, and $260 for each application containing a multiple dependent claim.
 
 &emsp;(C) On filing each provisional application for an original patent, $150.
 
-&emsp;(2) For issuing each original or reissue patent, except in design or plant cases, $820.
+&emsp;(2) For issuing each original or reissue patent, except in design or plant cases, $1,210.
 
 &emsp;(3) In design and plant cases—
 
-&emsp;&emsp;(A) on filing each design application, $200;
+&emsp;&emsp;(A) on filing each design application, $310;
 
-&emsp;&emsp;(B) on filing each plant application, $330;
+&emsp;&emsp;(B) on filing each plant application, $480;
 
-&emsp;&emsp;(C) on issuing each design patent, $290; and
+&emsp;&emsp;(C) on issuing each design patent, $430; and
 
-&emsp;&emsp;(D) on issuing each plant patent, $410.
+&emsp;&emsp;(D) on issuing each plant patent, $580.
 
-&emsp;(4)(A) On filing each application for the reissue of a patent, $500.
+&emsp;(4)(A) On filing each application for the reissue of a patent, $760.
 
-&emsp;(B) In addition, on filing or on presentation at any other time, $52 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $14 for each claim (whether independent or dependent) which is in excess of 20 and also in excess of the number of claims of the original patent.
+&emsp;(B) In addition, on filing or on presentation at any other time, $78 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $18 for each claim (whether independent or dependent) which is in excess of 20 and also in excess of the number of claims of the original patent.
 
-&emsp;(5) On filing each disclaimer, $78.
+&emsp;(5) On filing each disclaimer, $110.
 
-&emsp;(6)(A) On filing an appeal from the examiner to the Board of Patent Appeals and Interferences, $190.
+&emsp;(6)(A) On filing an appeal from the examiner to the Board of Patent Appeals and Interferences, $300.
 
-&emsp;(B) In addition, on filing a brief in support of the appeal, $190, and on requesting an oral hearing in the appeal before the Board of Patent Appeals and Interferences, $160.
+&emsp;(B) In addition, on filing a brief in support of the appeal, $300, and on requesting an oral hearing in the appeal before the Board of Patent Appeals and Interferences, $260.
 
-&emsp;(7) On filing each petition for the revival of an unintentionally abandoned application for a patent or for the unintentionally delayed payment of the fee for issuing each patent, $820, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $78.
+&emsp;(7) On filing each petition for the revival of an unintentionally abandoned application for a patent or for the unintentionally delayed payment of the fee for issuing each patent, $1,210, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $110.
 
 &emsp;(8) For petitions for 1-month extensions of time to take actions required by the Commissioner in an application—
 
-&emsp;&emsp;(A) On <sup>1</sup> filing a first petition, $78;
+&emsp;&emsp;(A) on filing a first petition, $110;
 
-&emsp;&emsp;(B) on filing a second petition, $172; and
+&emsp;&emsp;(B) on filing a second petition, $270; and
 
-&emsp;&emsp;(C) on filing a third petition or subsequent petition, $340.
+&emsp;&emsp;(C) on filing a third petition or subsequent petition, $490.
 
-&emsp;(9) Basic national fee for an international application where the Patent and Trademark Office was the International Preliminary Examining Authority and the International Searching Authority, $450.
+&emsp;(9) Basic national fee for an international application where the Patent and Trademark Office was the International Preliminary Examining Authority and the International Searching Authority, $670.
 
-&emsp;(10) Basic national fee for an international application where the Patent and Trademark Office was the International Searching Authority but not the International Preliminary Examining Authority, $500.
+&emsp;(10) Basic national fee for an international application where the Patent and Trademark Office was the International Searching Authority but not the International Preliminary Examining Authority, $760.
 
-&emsp;(11) Basic national fee for an international application where the Patent and Trademark Office was neither the International Searching Authority nor the International Preliminary Examining Authority, $670.
+&emsp;(11) Basic national fee for an international application where the Patent and Trademark Office was neither the International Searching Authority nor the International Preliminary Examining Authority, $970.
 
-&emsp;(12) Basic national fee for an international application where the international preliminary examination has been paid to the Patent and Trademark Office, and the international preliminary examination report states that the provisions of Article 33(2), (3), and (4) of the Patent Cooperation Treaty have been satisfied for all claims in the application entering the national stage, $66.
+&emsp;(12) Basic national fee for an international application where the international preliminary examination fee has been paid to the Patent and Trademark Office, and the international preliminary examination report states that the provisions of Article 33(2), (3), and (4) of the Patent Cooperation Treaty have been satisfied for all claims in the application entering the national stage, $96.
 
-&emsp;(13) For filing or later presentation of each independent claim in the national stage of an international application in excess of 3, $52.
+&emsp;(13) For filing or later presentation of each independent claim in the national stage of an international application in excess of 3, $78.
 
-&emsp;(14) For filing or later presentation of each claim (whether independent or dependent) in a national stage of an international application in excess of 20, $14.
+&emsp;(14) For filing or later presentation of each claim (whether independent or dependent) in a national stage of an international application in excess of 20, $18.
 
-&emsp;(15) For each national stage of an international application containing a multiple dependent claim, $160.
+&emsp;(15) For each national stage of an international application containing a multiple dependent claim, $260.
 
-> For the purpose of computing fees, a multiple dependent claim as referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
+> For the purpose of computing fees, a multiple dependent claim referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
 
 (b) The Commissioner shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
 
-&emsp;(1) 3 years and 6 months after grant, $650.
+&emsp;(1) 3 years and 6 months after grant, $940.
 
-&emsp;(2) 7 years and 6 months after grant, $1,310.
+&emsp;(2) 7 years and 6 months after grant, $1,900.
 
-&emsp;(3) 11 years and 6 months after grant, $1,980.
+&emsp;(3) 11 years and 6 months after grant, $2,910.
 
-> Unless payment of the applicable maintenance fee is received in the Patent and Trademark Office on or before the date the fee is due or within a grace period of six months thereafter, the patent will expire as of the end of such grace period. The Commissioner may require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee. No fee will be established for maintaining a design or plant patent in force.
+> Unless payment of the applicable maintenance fee is received in the Patent and Trademark Office on or before the date the fee is due or within a grace period of 6 months thereafter, the patent will expire as of the end of such grace period. The Commissioner may require the payment of a surcharge as a condition of accepting within such 6-month grace period the payment of an applicable maintenance fee. No fee may be established for maintaining a design or plant patent in force.
 
 (c)(1) The Commissioner may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Commissioner to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Commissioner to have been unavoidable. The Commissioner may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Commissioner accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.
 
@@ -80,9 +80,9 @@
 
 > The yearly fee for providing a library specified in section 13 of this title with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.
 
-(e) The Commissioner may waive the payment of any fee for any service or material related to patents in connection with an occasional or incidental request made by a department or agency of the Government, or any officer thereof. The Commissioner may provide any applicant issued a notice under section 132 of this title with a copy of the specifications and drawings for all patents referred to in that notice without charge.
+(e) The Commissioner may waive the payment of any fee for any service or material related to patents in connection with an occasional or incidental request made by a department or agency of the Government, or any officer thereof. The Commissioner may provide any applicantissued a notice under section 132 of this title with a copy of the specifications and drawings for all patents referred to in that notice without charge.
 
-(f) The fees established in subsections (a) and (b) of this section may be adjusted by the Commissioner on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months in the Consumer Price Index, as determined by the Secretary ofLabor. Changes of less than 1 per centum may be ignored.
+(f) The fees established in subsections (a) and (b) of this section may be adjusted by the Commissioner on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months in the Consumer Price Index, as determined by the Secretary of Labor. Changes of less than 1 per centum may be ignored.
 
 (g) No fee established by the Commissioner under this section shall take effect until at least 30 days after notice of the fee has been published in the Federal Register and in the Official Gazette of the Patent and Trademark Office.
 
@@ -98,7 +98,7 @@
 
 (4) The Commissioner shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Commissioner shall also publish such report in the Federal Register. The Commissioner shall provide an opportunity for the submission of comments by interested persons on each such report.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272.)
 
 #### Historical and Revision Notes
 
@@ -126,9 +126,21 @@ Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classifie
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–358, §3(a), added subsec. (a) and struck out former subsec. (a) which listed fees for patent services.
+
+Subsec. (b). Pub. L. 105–358, §3(b), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Commissioner shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
+
+&emsp;“(1) 3 years and 6 months after grant, $650.
+
+&emsp;“(2) 7 years and 6 months after grant, $1,310.
+
+&emsp;“(3) 11 years and 6 months after grant, $1,980.
+
+> Unless payment of the applicable maintenance fee is received in the Patent and Trademark Office on or before the date the fee is due or within a grace period of six months thereafter, the patent will expire as of the end of such grace period. The Commissioner may require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee. No fee will be established for maintaining a design or plant patent in force.”
+
 1994—Subsec. (a)(1)(C). Pub. L. 103–465, §532(b)(2), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 103–465, §533(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall abridge or affect the right of any person or his successors in business who made, purchased or used after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used. The court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased, or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the six-month grace period but before the acceptance of a maintenance fee under this subsection, and it may also provide for the continued practice of any process, practiced, or for the practice of which substantial preparation was made, after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the six-month grace period but before the acceptance of a maintenance fee under the subsection.”
+Subsec. (c)(2). Pub. L. 103–465, §533(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall abridge oraffect the right of any person or his successors in business who made, purchased or used after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used. The court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased, or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the six-month grace period but before the acceptance of a maintenance fee under this subsection, and it may also provide for the continued practice of any process, practiced, or for the practice of which substantial preparation was made, after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the six-month grace period but before the acceptance of a maintenance fee under the subsection.”
 
 1992—Subsec. (c)(1). Pub. L. 102–444 inserted after “section” in first sentence “which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Commissioner to have been unintentional, or at any time”.
 
@@ -212,7 +224,7 @@ Pub. L. 97–256, §101(4), substituted “October 1, 1982” for “the first d
 
 Subsec. (f). Pub. L. 97–247, §3(e), substituted provisions relating to the adjustment of fees to reflect CPI fluctuations for provisions directing that fees were to be adjusted by the Commissioner to achieve the levels of recovery specified in this section but that no patent application processing fee or fee for maintaining a patent in force was to be adjusted more than once every three years.
 
-1980—Pub. L. 96–517 in revising fee provisions by substituting subsecs. (a) to (g) for prior subsecs. (a) to (c), required the Commissioner to establish fees based on recovery of estimated average cost of processing applications, performing miscellaneous services and providing material, required fees for maintenance of patentsin force and provided for expiration of patents for nonpayments, prescribed $50 library fee for copies of specifications and drawings, authorized triennial adjustments, prescribed effective date for fees, and incorporated in subsec. (e) waiver provision of former subsec. (c).
+1980—Pub. L. 96–517 in revising fee provisions by substituting subsecs. (a) to (g) for prior subsecs. (a) to (c), required the Commissioner to establish fees based on recovery of estimated average cost of processing applications, performing miscellaneous services and providing material, required fees for maintenance of patents in force and provided for expiration of patents for nonpayments, prescribed $50 library fee for copies of specifications and drawings, authorized triennial adjustments, prescribed effective date for fees, and incorporated in subsec. (e) waiver provision of former subsec. (c).
 
 1975—Subsec. (a)1. Pub. L. 94–131 inserted sentence respecting consideration of a multiple dependent claim as referred to in section 112 of this title or any claim depending therefrom as separate dependent claims in accordance with the number of claims to which reference is made for the purpose of computing fees.
 
@@ -239,6 +251,10 @@ Subsec. (a)9. Pub. L. 89–83, §1, increased the fee for copies of specificatio
 Subsec. (a)10. Pub. L. 89–83, §1, changed the recording fee from $3 for every document not exceeding six pages and $1 for each additional two pages or less to a flat $20 fee for every document, and substituted a $3 fee for each additional item where the document relates to more than one patent or application for a 50 cents additional fee for each additional patent or application included in one writing where more than one is so included.
 
 Subsec. (c). Pub. L. 89–83, §2, added subsec. (c).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–358, §5, Nov. 10, 1998, 112 Stat. 3274, provided that: “This Act \[amending this section and section 42 of this title and enacting provisions set out as a note under section 1 of this title\] and the amendments made by this Act shall take effect on October 1, 1998.”
 
 #### Effective Date of 1994 Amendment
 
@@ -270,7 +286,7 @@ Section 8 of Pub. L. 96–517 provided that:
 
 “(b) Section 1 of this Act \[enacting sections 301 to 307 of this title\] will take effect on the first day of the seventh month beginning after its enactment \[Dec. 12, 1980\] and will apply to patents in force as of that date or issued thereafter.
 
-“(c) Section 3 of this Act \[amending section 42 of this title\] will take effect on the first day of the first fiscal year beginning on or after one calendar year after enactment \[Dec. 12, 1980\]. However, until section 3 takes effect, the Commissioner may credit the Patent andTrademark Office appropriation account in the Treasury of the United States with the revenues from collected reexamination fees, which will be available to pay the costs to the Office of reexamination proceedings.
+“(c) Section 3 of this Act \[amending section 42 of this title\] will take effect on the first day of the first fiscal year beginning on or after one calendar year after enactment \[Dec. 12, 1980\]. However, until section 3 takes effect, the Commissioner may credit the Patent and Trademark Office appropriation account in the Treasury of the United States with the revenues from collected reexamination fees, which will be available to pay the costs to the Office of reexamination proceedings.
 
 “(d) Any fee in effect as of the date of enactment of this Act \[Dec. 12, 1980\] will remain in effect until a corresponding fee established under section 41 of title 35, United States Code, or section 1113 of title 15, United States Code, takes effect.
 
@@ -297,6 +313,18 @@ Section 7 of Pub. L. 89–83 provided that:
 “(c) Item 2 of section 41(a), as amended by section 1 of this Act \[item 2 of subsec. (a) of this section\], and section 4 of this Act \[amending section 151 of this title\] do not apply in cases in which the notice of allowance of the application was sent, or in which a patent issued, prior to the effective date; and, in such cases, the fee due is the fee specified in this title prior to the effective date of this Act.
 
 “(d) Item 3 of section 31 of the Trademark Act, as amended by section 3 of this Act \[item 3 of section 1113(a) of Title 15\], applies only in the case of registrations issued and registrations published under the provisions of section 12(c) of the Trademark Act \[section 1062(c) of Title 15\] on or after the effective date of this Act.”
+
+#### Access to Electronic Patent Information
+
+Pub. L. 105–289, §4, Oct. 27, 1998, 112 Stat. 2781, provided that:
+
+“(a)
+
+In General.—The United States Patent and Trademark Office shall develop and implement statewide computer networks with remote library sites in requesting rural States such that citizens in those States will have enhanced access to information in their State's patent and trademark depository library.
+
+“(b)
+
+Definition.—In this section, the term ‘rural States’ means the States that qualified on January 1, 1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 379bb(b) \[3796bb(b)\]).”
 
 #### Waiver of Certain Restrictions
 
@@ -415,6 +443,4 @@ Payment of final fee, see section 151 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13, 119, 302, 371, 376 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

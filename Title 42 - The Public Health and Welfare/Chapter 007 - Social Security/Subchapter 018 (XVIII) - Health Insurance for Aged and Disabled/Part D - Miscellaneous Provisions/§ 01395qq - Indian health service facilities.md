@@ -10,13 +10,13 @@ Notwithstanding subsection (a) of this section, a hospital or skilled nursing fa
 
 #### (c) Payments into special fund for improvements to achieve compliance with conditions and requirements; certification of compliance by Secretary
 
-Notwithstanding any other provision of this subchapter, payments to which any hospital or skilled nursing facility of the Indian Health Service is entitled by reason of this section shall be placed in a special fund to be held by the Secretary and used by him (to such extent or in such amounts as are provided in appropriation Acts) exclusively for the purpose of making any improvements in the hospitals and skilled nursing facilities of such Service which may be necessary to achieve compliance with the applicable conditions and requirements of this subchapter. The preceding sentence shall cease toapply when the Secretary determines and certifies that substantially all of the hospitals and skilled nursing facilities of such Service in the United States are in compliance with such conditions and requirements.
+Notwithstanding any other provision of this subchapter, payments to which any hospital or skilled nursing facility of the Indian Health Service is entitled by reason of this section shall be placed in a special fund to be held by the Secretary and used by him (to such extent or in such amounts as are provided in appropriation Acts) exclusively for the purpose of making any improvements in the hospitals and skilled nursing facilities of such Service which may be necessary to achieve compliance with the applicable conditions and requirements of this subchapter. The preceding sentence shall cease to apply when the Secretary determines and certifies that substantially all of the hospitals and skilled nursing facilities of such Service in the United States are in compliance with such conditions and requirements.
 
 #### (d) Report by Secretary; status of facilities in complying with conditions and requirements
 
 The annual report of the Secretary which is required by section 1671 of title 25 shall include (along with the matters specified in section 1643 of title 25) a detailed statement of the status of the hospitals and skilled nursing facilities of the Service in terms of their compliance with the applicable conditions and requirements of this subchapter and of the progress being made by such hospitals and facilities (under plans submitted under subsection (b) of this section and otherwise) toward the achievement of such compliance.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1880, as added Sept. 30, 1976, Pub. L. 94–437, title IV, §401(b), 90 Stat. 1408; amended Oct. 29, 1992, Pub. L. 102–573, title VII, §701(d), 106 Stat. 4572.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1880, as added Pub. L. 94–437, title IV, §401(b), Sept. 30, 1976, 90 Stat. 1408; amended Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572.)
 
 #### Amendments
 
@@ -36,5 +36,5 @@ Section 401(d) of Pub. L. 94–437, which provided that nothing in this section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395f, 1395n of this title; title 25 sections 1645, 1680c.
+This section is referred to in sections 1395f, 1395n of this title; title 25 section 1680c.
 

@@ -16,7 +16,7 @@ The Congress declares and finds that:
 
 &emsp;&emsp;(B) The Tribe's district court suit contended that in 1840 the Tribe and the State entered into an agreement without Federal approval or participation whereby the Tribe ceded its treaty reservation to the State, thereby giving rise to the Tribe's claim that it was dispossessed of its lands in violation of Federal law.
 
-&emsp;&emsp;(C) In 1943, the United States entered into an agreement with the Tribe and the Stateto provide services to the Tribe and its members. The State purchased 3,434 acres of land and conveyed it to the Secretary in trust for the Tribe and the Tribe organized under the Indian Reorganization Act \[25 U.S.C. 461 et seq.\].
+&emsp;&emsp;(C) In 1943, the United States entered into an agreement with the Tribe and the State to provide services to the Tribe and its members. The State purchased 3,434 acres of land and conveyed it to the Secretary in trust for the Tribe and the Tribe organized under the Indian Reorganization Act \[25 U.S.C. 461 et seq.\].
 
 &emsp;&emsp;(D) In 1959, when Congress enacted the Catawba Tribe of South Carolina Division of Assets Act (25 U.S.C. 931–938), Federal agents assured the Tribe that if the Tribe would release the Government from its obligation under the 1943 agreement and agree to Federal legislation terminating the Federal trust relationship and liquidating the 1943 reservation, the status of the Tribe's land claim would not be jeopardized by termination.
 
@@ -60,7 +60,7 @@ This subchapter, referred to in subsec. (b), was in the original “this Act”,
 
 Section 17 of Pub. L. 103–116 provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
 
-\[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted on behalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
+\[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted onbehalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
 
 #### Short Title
 

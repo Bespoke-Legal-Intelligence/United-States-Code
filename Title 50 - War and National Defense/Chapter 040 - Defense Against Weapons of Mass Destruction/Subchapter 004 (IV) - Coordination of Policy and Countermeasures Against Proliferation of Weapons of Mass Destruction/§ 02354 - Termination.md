@@ -2,15 +2,13 @@
 
 After September 30, 1999, the President—
 
-&emsp;(1) is not required to maintain a National Coordinator for Nonproliferation Matters under section 2351 <sup>1</sup> of this title; and
+&emsp;(1) is not required to maintain a National Coordinator for Nonproliferation Matters under section 2351 of this title; and
 
-&emsp;(2) may terminate the Committee on Nonproliferation established under section 2352 <sup>1</sup> of this title.
+&emsp;(2) may terminate the Committee on Nonproliferation established under section 2352 of this title.
 
-(Pub. L. 104–201, div. A, title XIV, §1444, Sept. 23, 1996, 110 Stat. 2730.)
+(Pub. L. 104–201, div. A, title XIV, §1444, Sept. 23, 1996, 110 Stat. 2730; Pub. L. 105–261, div. A, title X, §1069(c)(3), Oct. 17, 1998, 112 Stat. 2136.)
 
-#### References in Text
+#### Amendments
 
-Section 2351 of this title, referred to in par. (1), was in the original “section 1341”, and was translated as reading “section 1441”, meaning section 1441 of Pub. L. 104–201, to reflect the probable intent of Congress, because Pub. L. 104–201 does not contain a section 1341, and section 1441 relates to the National Coordinator for Nonproliferation Matters.
-
-Section 2352 of this title, referred to in par. (2), was in the original “section 1342”, and was translated as reading “section 1442”, meaning section 1442 of Pub. L. 104–201, to reflect the probable intent of Congress, because Pub. L. 104–201 does not contain a section 1342, and section 1442 established the Committee on Nonproliferation.
+1998—Pub. L. 105–261 made technical amendments to references in original act which appear in par. (1) as reference to section 2351 of this title and in par. (2) as reference to section 2352 of this title.
 

@@ -12,7 +12,7 @@ Whenever the Coast Guard operates as a service in the Navy:
 
 &emsp;(e) the Secretary may place on furlough any officer of the Coast Guard and officers on furlough shall receive one half of the pay to which they would be entitled if on leave of absence, but officers of the Coast Guard Reserve shall not be so placed on furlough.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 497; May 5, 1950, ch. 169, §14(u), 64 Stat. 148; June 9, 1966, Pub. L. 89–444, §1(1), 80 Stat. 195.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 497; May 5, 1950, ch. 169, §14(u), 64 Stat. 148; Pub. L. 89–444, §1(1), June 9, 1966, 80 Stat. 195.)
 
 #### Historical and Revision Notes
 

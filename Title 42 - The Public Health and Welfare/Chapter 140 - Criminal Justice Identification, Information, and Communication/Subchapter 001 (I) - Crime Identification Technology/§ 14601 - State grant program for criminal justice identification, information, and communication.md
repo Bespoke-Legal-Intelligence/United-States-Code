@@ -1,0 +1,132 @@
+### §14601. State grant program for criminal justice identification, information, and communication
+
+#### (a) In general
+
+Subject to the availability of amounts provided in advance in appropriations Acts, the Office of Justice Programs relying principally on the expertise of the Bureau of Justice Statistics shall make a grant to each State, in a manner consistent with the national criminal history improvement program, which shall be used by the State, in conjunction with units of local government, State and local courts, other States, or combinations thereof, to establish or upgrade an integrated approach to develop information and identification technologies and systems to—
+
+&emsp;(1) upgrade criminal history and criminal justice record systems, including systems operated by law enforcement agencies and courts;
+
+&emsp;(2) improve criminal justice identification;
+
+&emsp;(3) promote compatibility and integration of national, State, and local systems for—
+
+&emsp;&emsp;(A) criminal justice purposes;
+
+&emsp;&emsp;(B) firearms eligibility determinations;
+
+&emsp;&emsp;(C) identification of sexual offenders;
+
+&emsp;&emsp;(D) identification of domestic violence offenders; and
+
+&emsp;&emsp;(E) background checks for other authorized purposes unrelated to criminal justice; and
+
+&emsp;(4) capture information for statistical and research purposes to improve the administration of criminal justice.
+
+#### (b) Use of grant amounts
+
+Grants under this section may be used for programs to establish, develop, update, or upgrade—
+
+&emsp;(1) State centralized, automated, adult and juvenile criminal history record information systems, including arrest and disposition reporting;
+
+&emsp;(2) automated fingerprint identification systems that are compatible with standards established by the National Institute of Standards and Technology and interoperable with the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation;
+
+&emsp;(3) finger imaging, live scan, and other automated systems to digitize fingerprints and to communicate prints in a manner that is compatible with standards established by the National Institute of Standards and Technology and interoperable with systems operated by States and by the Federal Bureau of Investigation;
+
+&emsp;(4) programs and systems to facilitate full participation in the Interstate Identification Index of the National Crime Information Center;
+
+&emsp;(5) systems to facilitate full participation in any compact relating to the Interstate Identification Index of the National Crime Information Center;
+
+&emsp;(6) systems to facilitate full participation in the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note) for firearms eligibility determinations;
+
+&emsp;(7) integrated criminal justice information systems to manage and communicate criminal justice information among law enforcement agencies, courts, prosecutors, and corrections agencies;
+
+&emsp;(8) noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note);
+
+&emsp;(9) court-based criminal justice information systems that promote—
+
+&emsp;&emsp;(A) reporting of dispositions to central State repositories and to the Federal Bureau of Investigation; and
+
+&emsp;&emsp;(B) compatibility with, and integration of, court systems with other criminal justice information systems;
+
+&emsp;(10) ballistics identification and information programs that are compatible and integrated with the National Integrated Ballistics Network (NIBN);
+
+&emsp;(11) the capabilities of forensic science programs and medical examiner programs related to the administration of criminal justice, including programs leading to accreditation or certification of individuals or departments, agencies, or laboratories, and programs relating to the identification and analysis of deoxyribonucleic acid;
+
+&emsp;(12) sexual offender identification and registration systems;
+
+&emsp;(13) domestic violence offender identification and information systems;
+
+&emsp;(14) programs for fingerprint-supported background checks capability for noncriminal justice purposes, including youth service employees and volunteers and other individuals in positions of responsibility, if authorized by Federal or State law and administered by a government agency;
+
+&emsp;(15) criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports; and
+
+&emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies.
+
+#### (c) Assurances
+
+#### (1) In general
+
+&emsp;To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note).
+
+#### (2) Information sharing
+
+&emsp;Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. The strategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—
+
+&emsp;&emsp;(A) a definition and analysis of “integration” in the State and localities developing integrated information sharing systems;
+
+&emsp;&emsp;(B) an assessment of the criminal justice resources being devoted to information technology;
+
+&emsp;&emsp;(C) Federal, State, regional, and local information technology coordination requirements;
+
+&emsp;&emsp;(D) an assurance that the individuals who developed the grant application took into consideration the needs of all branches of the State Government and specifically sought the advice of the chief of the highest court of the State with respect to the application;
+
+&emsp;&emsp;(E) State and local resource needs;
+
+&emsp;&emsp;(F) the establishment of statewide priorities for planning and implementation of information technology systems; and
+
+&emsp;&emsp;(G) a plan for coordinating the programs funded under this subchapter with other federally funded information technology programs, including directly funded local programs such as the Local Law Enforcement Block Grant program (described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program established pursuant to part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796dd et seq.\].
+
+#### (d) Matching funds
+
+The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the Attorney General waives, wholly or in part, the requirements of this subsection.
+
+#### (e) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 1999 through 2003.
+
+#### (2) Limitations
+
+&emsp;Of the amount made available to carry out this section in any fiscal year—
+
+&emsp;&emsp;(A) not more than 3 percent may be used by the Attorney General for salaries and administrative expenses;
+
+&emsp;&emsp;(B) not more than 5 percent may be used for technical assistance, training and evaluations, and studies commissioned by Bureau of Justice Statistics of the Department of Justice (through discretionary grants or otherwise) in furtherance of the purposes of this section;
+
+&emsp;&emsp;(C) not less than 20 percent shall be used by the Attorney General for the purposes described in paragraph (11) of subsection (b) of this section; and
+
+&emsp;&emsp;(D) the Attorney General shall ensure the amounts are distributed on an equitable geographic basis.
+
+#### (f) Grants to Indian tribes
+
+Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
+
+(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871.)
+
+#### References in Text
+
+Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(6), (8) and (c)(1), is section 103(b) of Pub. L. 103–159, as amended, which is set out as a note under section 922 of Title 18, Crimes and Criminal Procedure.
+
+The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c)(2)(G), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” appear at 111 Stat. 2452, and are not classified to the Code.
+
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Part Q of title I of the Act is classified generally to subchapter XII–E (§3796dd et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+
+#### Short Title
+
+Pub. L. 105–251, title I, §101, Oct. 9, 1998, 112 Stat. 1871, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Crime Identification Technology Act of 1998’.”
+
+Pub. L. 105–251, title II, §201, Oct. 9, 1998, 112 Stat. 1874, provided that: “This title \[enacting subchapter II of this chapter, amending sections 5119a and 5119b of this title, and enacting provisions set out as a note under section 5101 of this title\] may be cited as the ‘National Criminal History Access and Child Protection Act’.”
+
+Pub. L. 105–251, title II, §211, Oct. 9, 1998, 112 Stat. 1874, provided that: “This subtitle \[subtitle A (§§211–217) of title II of Pub. L. 105–251, enacting subchapter II of this chapter\] may be cited as the ‘National Crime Prevention and Privacy Compact Act of 1998’.”
+

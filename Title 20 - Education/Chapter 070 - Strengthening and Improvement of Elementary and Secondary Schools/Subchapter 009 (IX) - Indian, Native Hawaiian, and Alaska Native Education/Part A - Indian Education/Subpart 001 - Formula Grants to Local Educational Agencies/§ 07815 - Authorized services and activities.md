@@ -22,7 +22,7 @@ The services and activities referred to in subsection (a) of this section may in
 
 &emsp;(4) integrated educational services in combination with other programs that meet the needs of Indian children and their families;
 
-&emsp;(5) school-to-work transition activities to enable Indian students to participate in programs such as the programs supported by the School-to-Work Opportunities Act of 1994 \[20 U.S.C. 6101 et seq.\] and the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\], including programs for tech-prep, mentoring, and apprenticeship;
+&emsp;(5) school-to-work transition activities to enable Indian students to participate in programs such as the programs supported by the School-to-Work Opportunities Act of 1994 \[20 U.S.C. 6101 et seq.\] and the Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\], including programs for tech-prep, mentoring, and apprenticeship;
 
 &emsp;(6) activities to educate individuals concerning substance abuse and to prevent substance abuse; and
 
@@ -36,13 +36,17 @@ Notwithstanding any other provision of law, a local educational agency may use f
 
 &emsp;(2) the schoolwide program is consistent with the purpose described in section 7811 of this title.
 
-(Pub. L. 89–10, title IX, §9115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3778.)
+(Pub. L. 89–10, title IX, §9115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3778; amended Pub. L. 105–332, §3(c)(2), Oct. 31, 1998, 112 Stat. 3125.)
 
 #### References in Text
 
 The School-to-Work Opportunities Act of 1994, referred to in subsec. (b)(5), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(5), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(5), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(5). Pub. L. 105–332, which directed substitution of “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Carl D. Perkins Vocational and Technical Education Act”, was executed bymaking the substitution for “Carl D. Perkins Vocational and Applied Technology Education Act” to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

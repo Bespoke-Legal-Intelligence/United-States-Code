@@ -20,7 +20,7 @@ There shall be established an Interim Council of the Yurok Tribe to be composed 
 
 (3) Within 45 days after the general council meeting held pursuant to paragraph (2), the Secretary shall hold an election by secret ballot, with absentee balloting and write-in voting to be permitted, to elect the five members of the Interim Council from among the nominations submitted to him from such general council meeting. The Secretary shall assure that notice of the time and place of such election shall be provided to eligible voters at least fifteen days before such election.
 
-(4) The Secretary shall certify the results of such election and, as soon as possible, convene an organizational meeting of the newly-elected members of the Interim Council and shall provide such advice and assistance as may be necessary for such organization.
+(4) The Secretary shall certify the results of such election and, as soon as possible, convene an organizational meeting of the newly-electedmembers of the Interim Council and shall provide such advice and assistance as may be necessary for such organization.
 
 (5) Vacancies on the Interim Council shall be filled by a vote of the remaining members.
 

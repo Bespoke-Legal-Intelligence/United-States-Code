@@ -12,7 +12,7 @@ The Congress finds that:
 
 &emsp;&emsp;(B) reaffirm and protect the unique right of the Native Hawaiian people to practice and perpetuate their cultural and religious customs, beliefs, practices, and language.
 
-&emsp;(4) At the time of the arrival of the first nonindigenous people in Hawaii in 1778, the Native Hawaiian people lived in a highly organized, self-sufficient, subsistence social system based on communal land tenure with a sophisticated language, culture, and religion.
+&emsp;(4) At the time of the arrival of the first nonindigenous people in Hawaii in 1778, the Native Hawaiian people lived in a highly organized, self-sufficient, subsistence social system basedon communal land tenure with a sophisticated language, culture, and religion.
 
 &emsp;(5) A unified monarchical government of the Hawaiian Islands was established in 1810 under Kamehameha I, the first King of Hawaii.
 
@@ -26,7 +26,7 @@ The Congress finds that:
 
 &emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii, promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
 
-&emsp;(11) In 1898, the United States annexed Hawaii through the Newlands Resolution withoutthe consent of or compensation to the indigenous people of Hawaii or their sovereign government who were thereby denied the mechanism for expression of their inherent sovereignty through self-government and self-determination, their lands and ocean resources.
+&emsp;(11) In 1898, the United States annexed Hawaii through the Newlands Resolution without the consent of or compensation to the indigenous people of Hawaii or their sovereign government who were thereby denied the mechanism for expression of their inherent sovereignty through self-government and self-determination, their lands and ocean resources.
 
 &emsp;(12) Through the Newlands Resolution and the 1900 Organic Act, the United States Congress received 1.75 million acres of lands formerly owned by the Crown and Government of the Hawaiian Kingdom and exempted the lands from then existing public land laws of the United States by mandating that the revenue and proceeds from these lands be “used solely for the benefit of the inhabitants of the Hawaiian Islands for education and other public purposes”, thereby establishing a special trust relationship between the United States and the inhabitants of Hawaii.
 

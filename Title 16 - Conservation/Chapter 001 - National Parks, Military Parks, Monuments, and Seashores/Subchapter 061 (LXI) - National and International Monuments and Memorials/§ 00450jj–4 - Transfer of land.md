@@ -10,7 +10,7 @@ Where appropriate in the discretion of the Secretary of the Interior, he may tra
 
 > In transferring any lands or interest in lands under this section, the Secretary shall take into account the views of the Commission established under section 450jj–7 of this title.
 
-(May 17, 1954, ch. 204, §5, as added Aug. 24, 1984, Pub. L. 98–398, title II, §201(a), 98 Stat. 1468.)
+(May 17, 1954, ch. 204, §5, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1468.)
 
 #### Prior Provisions
 

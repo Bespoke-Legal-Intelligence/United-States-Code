@@ -2,7 +2,7 @@
 
 The Coast Guard as established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times. The Coast Guard shall be a service in the Department of Transportation, except when operating as a service in the Navy.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 496; Oct. 18, 1976, Pub. L. 94–546, §1(1), 90 Stat. 2519.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(1), Oct. 18, 1976, 90 Stat. 2519.)
 
 #### Historical and Revision Notes
 

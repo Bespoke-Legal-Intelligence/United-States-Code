@@ -18,7 +18,7 @@ Not later than one hundred and twenty days after the close of each fiscal year, 
 
 (1) Not later than March 1 of each year, the Assistant Secretary shall compile a report—
 
-&emsp;(A) summarizing and analyzing the data collected under subchapters III and XI of this chapter in accordance with section 3058g(c) of this title for the then most recently concluded fiscal year;
+&emsp;(A) summarizing and analyzing the data collected under subchapters III and XI of thischapter in accordance with section 3058g(c) of this title for the then most recently concluded fiscal year;
 
 &emsp;(B) identifying significant problems and issues revealed by such data (with special emphasis on problems relating to quality of care and residents’ rights);
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 100–175, §155(f), added subsec. (c).
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out asa note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1992 Amendment
 

@@ -30,7 +30,7 @@ For the purposes of this part:
 
 #### (6) School personnel
 
-&emsp;The term “school personnel” includes teachers, administrators, guidance counselors, social workers, psychologists, nurses, librarians, and other support staff who are employed by a school or who perform services for the school on a contractual basis.
+&emsp;The term “school personnel” includes teachers, administrators, guidance counselors, social workers, psychologists, nurses, librarians,and other support staff who are employed by a school or who perform services for the school on a contractual basis.
 
 (Pub. L. 89–10, title IV, §4131, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3689.)
 

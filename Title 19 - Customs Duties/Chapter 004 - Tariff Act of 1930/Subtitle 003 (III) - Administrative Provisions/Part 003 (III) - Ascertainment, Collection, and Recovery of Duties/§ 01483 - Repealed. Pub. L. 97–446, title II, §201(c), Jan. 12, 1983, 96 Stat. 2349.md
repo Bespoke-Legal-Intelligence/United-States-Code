@@ -4,5 +4,5 @@ Section, acts June 17, 1930, ch. 497, title IV, §483, 46 Stat. 721; Oct. 3, 197
 
 #### Effective Date of Repeal
 
-Repeal effective with respect to merchandise entered on and after 30th day after Jan. 12, 1983, see section201(g) of Pub. L. 97–446, set out as an Effective Date of 1983 Amendment note under section 1484 of this title.
+Repeal effective with respect to merchandise entered on and after 30th day after Jan. 12, 1983, see section 201(g) of Pub. L. 97–446, set out as an Effective Date of 1983 Amendment note under section 1484 of this title.
 

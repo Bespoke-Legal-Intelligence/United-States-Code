@@ -471,7 +471,7 @@
 | (d) | Warnings. |
 | (e) | Compliance with regulations. |
 | (f) | Additional remedies. |
-| [360qq.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20C%20-%20Electronic%20Product%20Radiation%20Control/%C2%A7%2000360qq%20-%20Annual%20report.md) | Annual report. |
+| [360qq.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20C%20-%20Electronic%20Product%20Radiation%20Control/%C2%A7%2000360qq%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VI%2C%20%C2%A7601%28a%29%282%29%28A%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203285.md) | Repealed. |
 | [360rr.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20C%20-%20Electronic%20Product%20Radiation%20Control/%C2%A7%2000360rr%20-%20Federal-State%20cooperation.md) | Federal-State cooperation. |
 | [360ss.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20C%20-%20Electronic%20Product%20Radiation%20Control/%C2%A7%2000360ss%20-%20State%20standards.md) | State standards. |
 
@@ -744,7 +744,7 @@ I74subpart 1—freedom of information fees
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 829, 902, 1033, 1049, 1052, 1401, 1402, 1403 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519; title 15 sections 70j, 1261, 1263, 1277, 1457, 1459, 1460, 2057a, 2057b, 2079; title 18 section 42; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 262, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
+This chapter is referred to in sections 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 829, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653; title 15 sections 70j, 1261, 1263, 1277, 1457, 1459, 1460, 2057a, 2057b, 2079; title 18 section 42; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 262, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
 
 
 ---

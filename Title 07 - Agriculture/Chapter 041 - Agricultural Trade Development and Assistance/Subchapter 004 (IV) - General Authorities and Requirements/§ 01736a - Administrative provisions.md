@@ -30,7 +30,7 @@
 
 #### (A) Fees
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary or the Commodity CreditCorporation may enter into an agreement with the importer or importing country that contains the terms and conditions that will govern the provision of purchasing or shipping agent services by the Secretary or the Corporation, including the establishment of fees for such services. Any such fees shall be fair and reasonable in relation to the services performed and shall be available as reimbursement for costs incurred in providing such services.
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary or the Commodity Credit Corporation may enter into an agreement with the importer or importing country that contains the terms and conditions that will govern the provision of purchasing or shipping agent services by the Secretary or the Corporation, including the establishment of fees for such services. Any such fees shall be fair and reasonable in relation to the services performed and shall be available as reimbursement for costs incurred in providing such services.
 
 #### (B) Prohibition on commissions
 
@@ -102,7 +102,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;The President shall submit such report not later than January 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1537; amended July 29, 1968, Pub. L. 90–436, §8, 82 Stat. 451; Dec. 20, 1975, Pub. L. 94–161, title II, §210, 89 Stat. 854; Nov. 5, 1990, Pub. L. 101–508, title I,§1204(b)(3), 104 Stat. 1388–11; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3650; Dec. 13, 1991, Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, 105 Stat. 1857, 1858; Dec. 21, 1995, Pub. L. 104–66, title I, §1011(e), 109 Stat. 709; Apr. 4, 1996, Pub. L. 104–127, title II, §216, 110 Stat. 957.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957.)
 
 #### References in Text
 

@@ -16,7 +16,7 @@ For purposes of this section, the term “housing program” means a program und
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsecs. (a) and (b), is Pub. L. 93–383,Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsecs. (a) and (b), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 

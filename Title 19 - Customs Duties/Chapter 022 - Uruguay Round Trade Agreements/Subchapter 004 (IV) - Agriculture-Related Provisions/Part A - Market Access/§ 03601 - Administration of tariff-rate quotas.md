@@ -24,7 +24,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 &emsp;&emsp;(C) is a commercial sample or is entered for exhibition, display, or sampling at a trade fair or for research; or
 
-&emsp;&emsp;(D) is a blended syrup provided for in subheadings 1702.20.28, 1702.30.28, 1702.40.28, 1702.60.28, 1702.90.58, 1806.20.92, 1806.20.93, 1806.90.38, 1806.90.40, 2101.10.38, 2101.20.38, 2106.90.38, or 2106.90.67 of Schedule XX, if entered from a foreign trade zone by a foreign trade zone user whose facilities were in operation on June 1, 1990, to the extent that the annual quantity entered into the customs territory from such zone does not contain a quantity of sugar of nondomestic origingreater than the quantity authorized by the Foreign Trade Zones Board for processing in that zone during calendar year 1985.
+&emsp;&emsp;(D) is a blended syrup provided for in subheadings 1702.20.28, 1702.30.28, 1702.40.28, 1702.60.28, 1702.90.58, 1806.20.92, 1806.20.93, 1806.90.38, 1806.90.40, 2101.10.38, 2101.20.38, 2106.90.38, or 2106.90.67 of Schedule XX, if entered from a foreign trade zone by a foreign trade zone user whose facilities were in operation on June 1, 1990, to the extent that the annual quantity entered into the customs territory from such zone does not contain a quantity of sugar of nondomestic origin greater than the quantity authorized by the Foreign Trade Zones Board for processing in that zone during calendar year 1985.
 
 #### (2) Reclassification
 

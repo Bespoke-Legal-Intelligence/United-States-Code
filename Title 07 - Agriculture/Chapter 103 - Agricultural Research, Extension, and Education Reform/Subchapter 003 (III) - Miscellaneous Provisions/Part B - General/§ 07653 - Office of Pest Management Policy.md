@@ -1,0 +1,44 @@
+### §7653. Office of Pest Management Policy
+
+#### (a) Purpose
+
+The purpose of this section is to establish an Office of Pest Management Policy to provide for the effective coordination of agricultural policies and activities within the Department of Agriculture related to pesticides and of the development and use of pest management tools, while taking into account the effects of regulatory actions of other government agencies.
+
+#### (b) Establishment of Office; principal responsibilities
+
+The Secretary of Agriculture shall establish in the Department an Office of Pest Management Policy, which shall be responsible for—
+
+&emsp;(1) the development and coordination of Department policy on pest management and pesticides;
+
+&emsp;(2) the coordination of activities and services of the Department, including research, extension, and education activities, regarding the development, availability, and use of economically and environmentally sound pest management tools and practices;
+
+&emsp;(3) assisting other agencies of the Department in fulfilling their responsibilities related to pest management or pesticides under the Food Quality Protection Act of 1996 (Public Law 104–170; 110 Stat. 1489), the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.), the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), and other applicable laws; and
+
+&emsp;(4) performing such other functions as may be required by law or prescribed by the Secretary.
+
+#### (c) Interagency coordination
+
+In support of its responsibilities under subsection (b) of this section, the Office of Pest Management Policy shall provide leadership to ensure coordination of interagency activities with the Environmental Protection Agency, the Food and Drug Administration, and other Federal and State agencies.
+
+#### (d) Outreach
+
+The Office of Pest Management Policy shall consult with agricultural producers that may be affected by pest management or pesticide-related activities or actions of the Department or other agencies as necessary in carrying out the Office's responsibilities under this section.
+
+#### (e) Director
+
+The Office of Pest Management Policy shall be under the direction of a Director appointed by the Secretary, who shall report directly to the Secretary or a designee of the Secretary.
+
+#### (f) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.
+
+(Pub. L. 105–185, title VI, §614, June 23, 1998, 112 Stat. 605.)
+
+#### References in Text
+
+The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. L. 104–170, Aug. 3, 1996, 110 Stat. 1489. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 136 of this title and Tables.
+
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(3), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+

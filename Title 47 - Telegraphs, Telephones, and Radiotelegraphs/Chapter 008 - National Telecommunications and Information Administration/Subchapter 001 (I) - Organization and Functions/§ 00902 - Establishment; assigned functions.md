@@ -4,7 +4,7 @@
 
 #### (1) Administration
 
-&emsp;There shall be within the Department of Commerce an administration to be known asthe National Telecommunications and Information Administration.
+&emsp;There shall be within the Department of Commerce an administration to be known as the National Telecommunications and Information Administration.
 
 #### (2) Head of administration
 

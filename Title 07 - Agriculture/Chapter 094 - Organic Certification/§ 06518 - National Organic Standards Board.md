@@ -36,7 +36,7 @@ The Secretary shall convene a meeting of the Board not later than 60 days after 
 
 #### (f) Compensation and expenses
 
-A member of the Board shall serve without compensation. While away from their homes or regular places of business on the business of the Board, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
+A member of the Board shall serve without compensation. While away from their homes or regular places of business on the business of the Board, members of the Board may be allowedtravel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
 
 #### (g) Chairperson
 
@@ -120,7 +120,7 @@ Any confidential business information obtained by the Board in carrying out this
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

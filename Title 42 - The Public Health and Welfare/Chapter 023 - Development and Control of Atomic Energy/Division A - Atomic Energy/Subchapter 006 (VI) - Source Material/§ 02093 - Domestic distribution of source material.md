@@ -24,9 +24,9 @@ The Commission shall establish, by rule, minimum criteria for the issuance of sp
 
 #### (c) Determination of charges
 
-The Commission may make a reasonable charge determined pursuant to section 2201(m) of this title for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section and shall make a reasonable charge determined pursuant to section 2201(m) of this title, for the source material licensed and distributed under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.
+The Commission may make a reasonable charge determined pursuant to section 2201(m) of this title for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section and shall make a reasonable charge determined pursuant to section 2201(m) of this title, for the source material licensed and distributed under subsection (a)(3) of this section. The Commission shall establish criteria inwriting for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.
 
-(Aug. 1, 1946, ch. 724, title I, §63, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 933; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §63, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 933; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -42,5 +42,5 @@ Nonprofit educational institution exempt from financial protection requirement, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2210, 2243, 2297b–2, 2297e–7, 2297f–1, 2297h–11 of this title.
+This section is referred to in sections 2210, 2243, 2297f–1, 2297h–11 of this title.
 

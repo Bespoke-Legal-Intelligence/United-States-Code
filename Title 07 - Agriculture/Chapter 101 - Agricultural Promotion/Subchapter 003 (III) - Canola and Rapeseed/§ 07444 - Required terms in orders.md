@@ -172,7 +172,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 &emsp;&emsp;(B) the program or project shall become effective on the approval of the Secretary; and
 
-&emsp;&emsp;(C) the contracting party shall keep accurate records of all transactions, account forfunds received and expended, make periodic reports to the Board of activities conducted, and make such other reports as the Board or the Secretary may require.
+&emsp;&emsp;(C) the contracting party shall keep accurate records of all transactions, account for funds received and expended, make periodic reports to the Board of activities conducted, and make such other reports as the Board or the Secretary may require.
 
 #### (3) Producer organizations
 
@@ -216,7 +216,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 &emsp;&emsp;(B) the communication to appropriate government officials of information relating to the conduct, implementation, or results of promotion, research, consumer information, or industry information activities under the order; or
 
-&emsp;&emsp;(C) any action designed to market canola or rapeseed products directly to a foreign government or political subdivision of a foreign government.
+&emsp;&emsp;(C) any action designed to market canola or rapeseed products directly to a foreigngovernment or political subdivision of a foreign government.
 
 #### (h) Books and records
 

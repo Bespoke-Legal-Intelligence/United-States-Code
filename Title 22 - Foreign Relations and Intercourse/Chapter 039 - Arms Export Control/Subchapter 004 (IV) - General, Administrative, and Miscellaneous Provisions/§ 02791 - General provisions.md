@@ -2,9 +2,7 @@
 
 #### (a) Considerations in procurement outside United States
 
-(1) In carrying out this chapter, special emphasis shall be placed on procurement in the United States, but, subject to the provisions of subsection (b) of this section, consideration shall also be given to coproduction or licensed production outside the United States of defense articles of United States origin when such production best serves the foreign policy, national security, and economy of the United States. In evaluating any sale proposed to be made pursuant to this chapter, there shall be taken into consideration (A) the extent to which the proposed sale damages or infringes upon licensing arrangements whereby United States entities have granted licenses for the manufacture of the defense articles selected by the purchasing country to entities located in friendly foreign countries, which licenses result in financial returns to the United States, (B) the portion of the defense articles so manufactured which is of United States origin, and (C) the assessment of the Director of the United States Arms Control and Disarmament Agency as to whether, and the extent to which, such sale might contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements.
-
-(2) Any proposed sale made pursuant to this chapter shall be approved only after consultation with the Director of the United States Arms Control and Disarmament Agency. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that a sale under this section would be detrimental to the national security of the United States, to recommend to the President that such sale be disapproved.
+In carrying out this chapter, special emphasis shall be placed on procurement in the United States, but, subject to the provisions of subsection (b) of this section, consideration shall also be given to coproduction or licensed production outside the United States of defense articles of United States origin when such production best serves the foreign policy, national security, and economy of the United States. In evaluating any sale proposed to be made pursuant to this chapter, there shall be taken into consideration (A) the extent to which the proposed sale damages or infringes upon licensing arrangements whereby United States entities have granted licenses for the manufacture of the defense articles selected by the purchasing country to entities located in friendly foreign countries, which licenses result in financial returns to the United States, (B) the portion of the defense articles so manufactured which is of United States origin, and (C) whether, and the extent to which, such sale might contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements.
 
 #### (b) Information to Congress on credit sales and guaranties
 
@@ -16,7 +14,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 #### (d) Responsibility of Secretary of Defense with respect to sales and guaranties
 
-(1) With respect to sales and guaranties under sections 2761, 2762, 2763, 2764, 2769 and 2770 of thistitle, the Secretary of Defense shall, under the direction of the President, have primary responsibility for—
+(1) With respect to sales and guaranties under sections 2761, 2762, 2763, 2764, 2769 and 2770 of this title, the Secretary of Defense shall, under the direction of the President, have primary responsibility for—
 
 &emsp;(A) the determination of military end-item requirements;
 
@@ -44,9 +42,11 @@ Funds made available under this chapter may be used for procurement outside the 
 
 The President shall, to the maximum extent possible and consistent with the purposes of this chapter, use civilian contract personnel in any foreign country to perform defense services sold under this chapter.
 
-(Pub. L. 90–629, ch. 4, §42, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 92–226, pt. IV, §401(e), (f), Feb. 7, 1972, 86 Stat. 33; Pub. L. 94–141, title I, §150(b), Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–329, title II, §213, title VI, §605(b), June 30, 1976, 90 Stat. 745, 768; Pub. L. 96–533, title I, §105(e)(3), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 97–392, §2, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 99–83, title I, §115(b)(3), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, §1102(a)(4), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 103–236, title VII, §714(a)(2), Apr. 30, 1994, 108 Stat. 497.)
+(Pub. L. 90–629, ch. 4, §42, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 92–226, pt. IV, §401(e), (f), Feb. 7, 1972, 86 Stat. 33; Pub. L. 94–141, title I, §150(b), Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–329, title II, §213, title VI, §605(b), June 30, 1976, 90 Stat. 745, 768; Pub. L. 96–533, title I, §105(e)(3), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 97–392, §2, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 99–83, title I, §115(b)(3), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, §1102(a)(4), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986,100 Stat. 3991; Pub. L. 103–236, title VII, §714(a)(2), Apr. 30, 1994, 108 Stat. 497; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(3), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 struck out par. (1) designation, struck out “the assessment of the Director of the United States Arms Control and Disarmament Agency as to” after “, and (C)”, and struck out par. (2) which read as follows: “Any proposed sale made pursuant to this chapter shall be approved only after consultation with the Director of the United States Arms Control and Disarmament Agency. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that a sale under this section would be detrimental to the national security of the United States, to recommend to the President that such sale be disapproved.”
 
 1994—Subsec. (a). Pub. L. 103–236 designated existing provisions as par. (1), redesignated former cls. (1) to (3) as cls. (A) to (C), respectively, amended cl. (C) generally, and added par. (2). Prior to being amended generally, cl. (C) read as follows: “in coordination with the Director of the United States Arms Control and Disarmament Agency, the Director's opinion as to the extent to which such sale might contribute to an arms race, or increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
 
@@ -70,11 +70,15 @@ Subsec. (f). Pub. L. 94–329, §605(b), added subsec. (f).
 
 Subsecs. (b) to (d). Pub. L. 92–226, §401(f)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (c) and (f) of this section delegated to Secretary of Defense, with concurrence of Secretary of State and Secretary of the Treasury required for any determination proposed under subsec. (c) of this section, by section 1(<i>o</i>) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under subsecs. (c) and (f) of this section delegated to Secretary of Defense, with concurrence of Secretary of State and Secretary of the Treasury required for any determination proposed under subsec. (c) of this section, by section 1(p) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

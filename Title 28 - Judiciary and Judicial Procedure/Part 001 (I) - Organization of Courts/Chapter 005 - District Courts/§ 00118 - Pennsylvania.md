@@ -4,13 +4,13 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 ### Eastern District
 
-(a) The Eastern District comprises the counties of Berks, Bucks, Chester, Delaware, Lancaster, Lehigh, Montgomery, Northampton, Philadelphia, and Schuylkill.
+(a) The Eastern District comprises the counties of Berks, Bucks, Chester, Delaware, Lancaster, Lehigh, Montgomery, Northampton, and Philadelphia.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Allentown, Easton, Lancaster, Reading, and Philadelphia.
 
 ### Middle District
 
-(b) The Middle District comprises the counties of Adams, Bradford, Cameron, Carbon, Centre, Clinton, Columbia, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lackawanna, Lebanon, Luzerne, Lycoming, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming, and York.
+(b) The Middle District comprises the counties of Adams, Bradford, Cameron, Carbon, Centre, Clinton, Columbia, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lackawanna, Lebanon, Luzerne, Lycoming, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming, and York.
 
 &emsp;&emsp;Court for the Middle District shall be held at Harrisburg, Lewisburg, Scranton, Wilkes-Barre, and Williamsport.
 
@@ -20,7 +20,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 &emsp;&emsp;Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
-(June 25, 1948, ch. 646, 62 Stat. 888; Pub. L. 91–272, §6, June 2, 1970, 84 Stat. 297; Pub. L. 95–573, §4, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 102–396, title IX, §9161, Oct. 6, 1992, 106 Stat. 1947.)
+(June 25, 1948, ch. 646, 62 Stat. 888; Pub. L. 91–272, §6, June 2, 1970, 84 Stat. 297; Pub. L. 95–573, §4, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 102–396, title IX, §9161, Oct. 6, 1992, 106 Stat. 1947; Pub. L. 105–277, div. A, §101(b) \[title VI, §624(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–116.)
 
 #### Historical and Revision Notes
 
@@ -42,9 +42,23 @@ By Senate amendment to the bill, Blair County was transferred from the Middle Di
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
+1998—Subsec. (a). Pub. L. 105–277, §101(b) \[title VI, §624(a)(1)\], substituted “and Philadelphia” for “Philadelphia, and Schuylkill”.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
+Subsec. (b). Pub. L. 105–277, §101(b) \[title VI, §624(a)(2)\], inserted “Schuylkill,” after “Potter,”.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
+1992—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
+
+1978—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
+
+1970—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. A, §101(b) \[title VI, §624(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–116, provided that:
+
+“(1) This section \[amending this section\] and the amendments made by this section shall take effect 180 days after the date of the enactment of this Act \[Oct. 21, 1998\].
+
+“(2) This section and the amendments made by this section shall not affect any action commenced before the effective date of this section and pending on such date in the United States District Court for the Eastern District of Pennsylvania.
+
+“(3) This section and the amendments made by this section shall not affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving on the effective date of this section.”
 

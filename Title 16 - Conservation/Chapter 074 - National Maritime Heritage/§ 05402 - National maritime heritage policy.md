@@ -2,7 +2,7 @@
 
 It shall be the policy of the Federal Government, in partnership with the States and local governments and private organizations and individuals, to—
 
-&emsp;(1) use measures, including financial and technical assistance, to foster conditionsunder which our modern society and our historic maritime resources can exist in productive harmony;
+&emsp;(1) use measures, including financial and technical assistance, to foster conditions under which our modern society and our historic maritime resources can exist in productive harmony;
 
 &emsp;(2) provide leadership in the preservation of the historic maritime resources of the United States;
 

@@ -6,8 +6,6 @@ Section 2602, Pub. L. 87–415, title II, §232, Mar. 15, 1962, 76 Stat. 30, emp
 
 Section 2603, Pub. L. 87–415, title II, §233, as added Pub. L. 89–792, §8(b), Nov. 7, 1966, 80 Stat. 1437, directed Secretary of Health, Education, and Welfare to make an annual report to Congress.
 
-See section 1501 et seq. of Title 29, Labor.
-
 #### Effective Date of Repeal
 
 Section 714, formerly §614, of Pub. L. 93–203 provided that the repeal is effective with respect to fiscal years after June 30, 1974.

@@ -22,15 +22,19 @@ This subchapter applies to a grant under subsection (a) of this section to the s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), for the purpose of carrying out this section, there are authorized to be appropriated $3,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
+&emsp;Subject to paragraph (2), for the purpose of carrying out this section, there are authorized to be appropriated $3,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003.
 
 #### (2) Limitation regarding funding with respect to breast and cervical cancer
 
 &emsp;The authorization of appropriations established in paragraph (1) is not effective for a fiscal year unless the amount appropriated under section 300n–5(a) of this title for the fiscal year is equal to or greater than $100,000,000.
 
-(July 1, 1944, ch. 373, title XV, §1509, as added Dec. 14, 1993, Pub. L. 103–183, title I, §102(a)(2), 107 Stat. 2229.)
+(July 1, 1944, ch. 373, title XV, §1509, as added Pub. L. 103–183, title I, §102(a)(2), Dec. 14, 1993, 107 Stat. 2229; amended Pub. L. 105–340, title II, §203(c)(1), Oct. 31, 1998, 112 Stat. 3194.)
 
 #### Prior Provisions
 
 A prior section 1509 of act July 1, 1944, was renumbered section 1510 and is classified to section 300n–5 of this title.
+
+#### Amendments
+
+1998—Subsec. (d)(1). Pub. L. 105–340 substituted “2003” for “1998”.
 

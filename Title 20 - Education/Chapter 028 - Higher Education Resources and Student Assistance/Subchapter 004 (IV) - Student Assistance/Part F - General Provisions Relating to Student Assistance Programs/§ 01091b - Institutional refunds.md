@@ -1,46 +1,200 @@
 ### §1091b. Institutional refunds
 
-#### (a) Refund policy required
+#### (a) Return of title IV funds
 
-Each institution of higher education participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall have in effect a fair and equitable refund policy under which the institution refunds unearned tuition, fees, room and board, and other charges to a student who received grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, or whose parent received a loan made under section 1078–2 of this title on behalf of the student, if the student—
+#### (1) In general
 
-&emsp;(1) does not register for the period of attendance for which the assistance was intended; or
+&emsp;If a recipient of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 withdraws from an institution during a payment period or period of enrollment in which the recipient began attendance, the amount of grant or loan assistance (other than assistance received under part C of subchapter I of chapter 34 of title 42) to be returned to the title IV programs is calculated according to paragraph (3) and returned in accordance with subsection (b) of this section.
 
-&emsp;(2) withdraws or otherwise fails to complete the period of enrollment for which the assistance was provided.
+#### (2) Leave of absence
 
-#### (b) Determinations
+#### (A) Leave not treated as withdrawal
 
-The institution's refund policy shall be considered to be fair and equitable for purposes of this section if that policy provides for a refund in an amount of at least the largest of the amounts provided under—
+&emsp;&emsp;In the case of a student who takes a leave of absence from an institution for not more than a total of 180 days in any 12-month period, the institution may consider the student as not having withdrawn from the institution during the leave of absence, and not calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section if—
 
-&emsp;(1) the requirements of applicable State law;
+&emsp;&emsp;&emsp;(i) the institution has a formal policy regarding leaves of absence;
 
-&emsp;(2) the specific refund requirements established by the institution's nationally recognized accrediting agency and approved by the Secretary; or
+&emsp;&emsp;&emsp;(ii) the student followed the institution's policy in requesting a leave of absence; and
 
-&emsp;(3) the pro rata refund calculation described in subsection (c) of this section, except that this paragraph will not apply to the institution's refund policy for any student whose date of withdrawal from the institution is after the 60 percent point (in time) in the period of enrollment for which the student has been charged.
+&emsp;&emsp;&emsp;(iii) the institution approved the student's request in accordance with the institution's policy.
 
-#### (c) Definitions
+#### (B) Consequences of failure to return
 
-(1) As used in this section, the term “pro rata refund” means a refund by the institution to a student attending such institution for the first time of not less than that portion of the tuition, fees, room and board, and other charges assessed the student by the institution equal to the portion of the period of enrollment for which the student has been charged that remains on the last day of attendance by the student, rounded downward to the nearest 10 percent of that period, less any unpaid charges owed by the student for the period of enrollment for which the student has been charged, and less a reasonable administrative fee not to exceed the lesser of 5 percent of the tuition, fees, room and board, and other charges assessed the student, or $100.
+&emsp;&emsp;If a student does not return to the institution at the expiration of an approved leave of absence that meets the requirements of subparagraph (A), the institution shall calculate the amount of grant and loan assistance provided under this subchapter and part C of subchapter I of chapter 34 of title 42 that is to be returned in accordance with this section based on the day the student withdrew (as determined under subsection (c) of this section).
 
-(2) For purposes of paragraph (1), “the portion of the period of enrollment for which the student has been charged that remains”, shall be determined—
+#### (3) Calculation of amount of title IV assistance earned
 
-&emsp;(A) in the case of a program that is measured in credit hours, by dividing the total number of weeks comprising the period of enrollment for which the student has been charged into the number of weeks remaining in that period as of the last recorded day of attendance by the student;
+#### (A) In general
 
-&emsp;(B) in the case of a program that is measured in clock hours, by dividing the total number of clock hours comprising the period of enrollment for which the student has been charged into the number of clock hours remaining to be completed by the student in that period as of the last recorded day of attendance by the student; and
+&emsp;&emsp;The amount of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that is earned by the recipient for purposes of this section is calculated by—
 
-&emsp;(C) in the case of a correspondence program, by dividing the total number of lessons comprising the period of enrollment for which the student has been charged into the total number of such lessons not submitted by the student.
+&emsp;&emsp;&emsp;(i) determining the percentage of grant and loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student, as described in subparagraph (B); and
 
-(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat.619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477.)
+&emsp;&emsp;&emsp;(ii) applying such percentage to the total amount of such grant and loan assistance that was disbursed (and that could have been disbursed) to the student, or on the student's behalf, for the payment period or period of enrollment for which the assistance was awarded, as of the day the student withdrew.
+
+#### (B) Percentage earned
+
+&emsp;&emsp;For purposes of subparagraph (A)(i), the percentage of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student is—
+
+&emsp;&emsp;&emsp;(i) equal to the percentage of the payment period or period of enrollment for which assistance was awarded that was completed (as determined in accordance with subsection (d) of this section) as of the day the student withdrew, provided that such date occurs on or before the completion of 60 percent of the payment period or period of enrollment; or
+
+&emsp;&emsp;&emsp;(ii) 100 percent, if the day the student withdrew occurs after the student has completed 60 percent of the payment period or period of enrollment.
+
+#### (C) Percentage and amount not earned
+
+&emsp;&emsp;For purposes of subsection (b) of this section, the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student shall be calculated by—
+
+&emsp;&emsp;&emsp;(i) determining the complement of the percentage of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student described in subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) applying the percentage determined under clause (i) to the total amount of such grant and loan assistance that was disbursed (and that could have been disbursed) to the student, or on the student's behalf, for the payment period or period of enrollment, as of the day the student withdrew.
+
+#### (4) Differences between amounts earned and amounts received
+
+#### (A) In general
+
+&emsp;&emsp;If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.
+
+#### (B) Return
+
+&emsp;&emsp;If the student has received more grant or loan assistance than the amount earned as calculated under paragraph (3)(A), the unearned funds shall be returned by the institution or the student, or both, as may be required under paragraphs (1) and (2) of subsection (b) of this section, to the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 in the order specified in subsection (b)(3) of this section.
+
+#### (b) Return of title IV program funds
+
+#### (1) Responsibility of the institution
+
+&emsp;The institution shall return, in the order specified in paragraph (3), the lesser of—
+
+&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as calculated under subsection (a)(3)(C) of this section; or
+
+&emsp;&emsp;(B) an amount equal to—
+
+&emsp;&emsp;&emsp;(i) the total institutional charges incurred by the student for the payment period or period of enrollment for which such assistance was awarded; multiplied by
+
+&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
+
+#### (2) Responsibility of the student
+
+#### (A) In general
+
+&emsp;&emsp;The student shall return assistance that has not been earned by the student as described in subsection (a)(3)(C)(ii) of this section in the order specified in paragraph (3) minus the amount the institution is required to return under paragraph (1).
+
+#### (B) Special rule
+
+&emsp;&emsp;The student (or parent in the case of funds due to a loan borrowed by a parent under part B or C of this subchapter) shall return or repay, as appropriate, the amount determined under subparagraph (A) to—
+
+&emsp;&emsp;&emsp;(i) a loan program under this subchapter and part C of subchapter I of chapter 34 of title 42 in accordance with the terms of the loan; and
+
+&emsp;&emsp;&emsp;(ii) a grant program under this subchapter and part C of subchapter I of chapter 34 of title 42, as an overpayment of such grant and shall be subject to—
+
+&emsp;&emsp;&emsp;&emsp;(I) repayment arrangements satisfactory to the institution; or
+
+&emsp;&emsp;&emsp;&emsp;(II) overpayment collection procedures prescribed by the Secretary.
+
+#### (C) Requirement
+
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section.
+
+#### (3) Order of return of title IV funds
+
+#### (A) In general
+
+&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordancewith paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
+
+&emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(ii) To outstanding balances on loans made under section 1078 of this title for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(iii) To outstanding balances on unsubsidized loans (other than parent loans) made under part C of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(iv) To outstanding balances on subsidized loans made under part C of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(v) To outstanding balances on loans made under part D of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(vi) To outstanding balances on loans made under section 1078–2 of this title for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(vii) To outstanding balances on parent loans made under part C of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+
+#### (B) Remaining excesses
+
+&emsp;&emsp;If excess funds remain after repaying all outstanding loan amounts, the remaining excess shall be credited in the following order:
+
+&emsp;&emsp;&emsp;(i) To awards under subpart 1 of part A of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(ii) To awards under subpart 3 of part A of this subchapter for the payment period or period of enrollment for which a return of funds is required.
+
+&emsp;&emsp;&emsp;(iii) To other assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 for which a return of funds is required.
+
+#### (c) Withdrawal date
+
+#### (1) In general
+
+&emsp;In this section, the term “day the student withdrew”—
+
+&emsp;&emsp;(A) is the date that the institution determines—
+
+&emsp;&emsp;&emsp;(i) the student began the withdrawal process prescribed by the institution;
+
+&emsp;&emsp;&emsp;(ii) the student otherwise provided official notification to the institution of the intent to withdraw; or
+
+&emsp;&emsp;&emsp;(iii) in the case of a student who does not begin the withdrawal process or otherwise notify the institution of the intent to withdraw, the date that is the mid-point of the payment period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 was disbursed or a later date documented by the institution; or
+
+&emsp;&emsp;(B) for institutions required to take attendance, is determined by the institution from such attendance records.
+
+#### (2) Special rule
+
+&emsp;Notwithstanding paragraph (1), if the institution determines that a student did not begin the withdrawal process, or otherwise notify the institution of the intent to withdraw, due to illness, accident, grievous personal loss, or other such circumstances beyond the student's control, the institution may determine the appropriate withdrawal date.
+
+#### (d) Percentage of the payment period or period of enrollment completed
+
+For purposes of subsection (a)(3)(B)(i) of this section, the percentage of the payment period or period of enrollment for which assistance was awarded that was completed, is determined—
+
+&emsp;(1) in the case of a program that is measured in credit hours, by dividing the total number of calendar days comprising the payment period or period of enrollment for which assistance is awarded into the number of calendar days completed in that period as of the day the student withdrew; and
+
+&emsp;(2) in the case of a program that is measured in clock hours, by dividing the total number of clock hours comprising the payment period or period of enrollment for which assistance is awarded into the number of clock hours—
+
+&emsp;&emsp;(A) completed by the student in that period as of the day the student withdrew; or
+
+&emsp;&emsp;(B) scheduled to be completed as of the day the student withdrew, if the clock hours completed in the period are not less than a percentage, to be determined by the Secretary in regulations, of the hours that were scheduled to be completed by the student in the period.
+
+#### (e) Effective date
+
+The provisions of this section shall take effect 2 years after October 7, 1998. An institution of higher education may choose to implement such provisions prior to that date.
+
+(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737.)
+
+#### References in Text
+
+Title IV, referred to in subsecs. (a) and (b), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
+
+#### Prior Provisions
+
+Prior sections 1091b to 1091f were repealed, effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
+
+Section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 92–318, title IV, §451(a), June 23, 1972, 86 Stat. 344, authorized the Commissioner to appraise and annually report on existing and future education personnel needs.
+
+Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
+
+Section 1091d, Pub. L. 89–329, title V, §505, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, required the Commissioner to consult with the National Science Foundation and the National Foundation on the Arts and the Humanities in development and review of programs.
+
+Section 1091e, Pub. L. 89–329, title V, §506, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, authorized transfer of funds for programs for education professions development.
+
+Section 1091f, Pub. L. 89–329, title V, §507, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
 
 #### Amendments
+
+1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring each institution of higher education participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 to have in effect a fair and equitable refund policy for refunding unearned tuition, fees, room and board, and other charges to students or parents who received grant or loan assistance under this subchapter or part C of subchapter I of chapter 34 of title 42.
 
 1993—Subsec. (a). Pub. L. 103–208, §2(h)(26), substituted “grant or loan assistance” for “grant, loan, or work assistance” in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 103–208, §2(h)(27), substituted “subsection (c) of this section” for “subsection (d) of this section”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Section Referred to in Other Sections
 

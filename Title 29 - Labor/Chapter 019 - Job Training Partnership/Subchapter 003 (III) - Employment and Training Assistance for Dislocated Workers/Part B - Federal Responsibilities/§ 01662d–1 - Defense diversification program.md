@@ -78,7 +78,7 @@ From funds made available to carry out this section, the Secretary, in consultat
 
 #### (ii) States
 
-&emsp;&emsp;&emsp;In the case of an applicant that is a State, such State shall submit an application to the Secretary developed in consultation with appropriate substate grantees, and, where appropriate, in consultation with the labor-management committee or other employer-employee entity established pursuant to subparagraph (C)(ii) at the affected facility and in consultation with representatives from the Department of Defense.
+&emsp;&emsp;&emsp;In the case of an applicant that is a State, such State shall submit an application to the Secretary developed in consultation with appropriate substate grantees, and, where appropriate, in consultation with the labor-management committee or other employer-employee entity established pursuant to subparagraph (C)(ii) at the affected facility and in consultationwith representatives from the Department of Defense.
 
 #### (B) Contents of application
 
@@ -146,7 +146,7 @@ From funds made available to carry out this section, the Secretary, in consultat
 
 #### (1) Portion relating to general application requirements
 
-&emsp;Subject to paragraph (2), the Secretary shall retain 25 percent of the amount of a grant awarded under subsection (a) of this section and shall disburse the amount to the applicant not later than 90 days after the date on which the Secretary determines that the applicant is satisfactorily implementing the plans and strategies described in subsection (c)(1)(B) of this section.
+&emsp;Subject to paragraph (2), the Secretary shall retain 25 percent of the amount of a grantawarded under subsection (a) of this section and shall disburse the amount to the applicant not later than 90 days after the date on which the Secretary determines that the applicant is satisfactorily implementing the plans and strategies described in subsection (c)(1)(B) of this section.
 
 #### (2) Portion relating to State dislocated worker services
 
@@ -249,6 +249,10 @@ For purposes of this section, the following definitions apply:
 &emsp;The term “defense articles and defense services” means defense articles, defense services, or design and construction services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), including defense articles and defense services licensed or approved for export under section 38 of that Act (22 U.S.C. 2778).
 
 (Pub. L. 97–300, title III, §325A, as added Pub. L. 102–484, div. D, title XLIV, §4465(a), Oct. 23, 1992, 106 Stat. 2742; amended Pub. L. 103–160, div. A, title XIII, §1339, Nov. 30, 1993, 107 Stat. 1807; Pub. L. 103–337, div. A, title XI, §§1136(a), 1137(b), Oct. 5, 1994, 108 Stat. 2878, 2879.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 

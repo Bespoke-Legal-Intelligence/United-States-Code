@@ -8,7 +8,7 @@ It should be the duty of the Commission—
 
 &emsp;&emsp;(A) assisting in the coordination and implementation of the efforts of public and private entities to prevent and resolve such health problems, and
 
-&emsp;&emsp;(B) assisting in the coordination and implementation of efforts of public and privateentities to educate such population, in a culturally competent manner, concerning such health problems; and
+&emsp;&emsp;(B) assisting in the coordination and implementation of efforts of public and private entities to educate such population, in a culturally competent manner, concerning such health problems; and
 
 &emsp;(3) to formulate recommendations to the Governments of the United States and Mexico concerning a fair and reasonable method by which the government of one country could reimburse a public or private entity in the other country for the cost of a health care service that the entity furnishes to a citizen of the first country who is unable, through insurance or otherwise, to pay for the service.
 

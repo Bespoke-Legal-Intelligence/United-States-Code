@@ -1,0 +1,68 @@
+### §13220. Biodiesel fuel use credits
+
+#### (a) Allocation of credits
+
+#### (1) In general
+
+&emsp;The Secretary shall allocate one credit under this section to a fleet or covered person for each qualifying volume of the biodiesel component of fuel containing at least 20 percent biodiesel by volume purchased after the date of the enactment of this section, for use by the fleet or covered person in vehicles owned or operated by the fleet or covered person that weigh more than 8,500 pounds gross vehicle weight rating.
+
+#### (2) Exceptions
+
+&emsp;No credits shall be allocated under paragraph (1) for a purchase of biodiesel—
+
+&emsp;&emsp;(A) for use in alternative fueled vehicles; or
+
+&emsp;&emsp;(B) that is required by Federal or State law.
+
+#### (3) Authority to modify percentage
+
+&emsp;The Secretary may, by rule, lower the 20 percent biodiesel volume requirement in paragraph (1) for reasons related to cold start, safety, or vehicle function considerations.
+
+#### (4) Documentation
+
+&emsp;A fleet or covered person seeking a credit under this section shall provide written documentation to the Secretary supporting the allocation of a credit to such fleet or covered person under paragraph (1).
+
+#### (b) Use of credits
+
+#### (1) In general
+
+&emsp;At the request of a fleet or covered person allocated a credit under subsection (a) of thissection, the Secretary shall, for the year in which the purchase of a qualifying volume is made, treat that purchase as the acquisition of one alternative fueled vehicle the fleet or covered person is required to acquire under this subchapter, subchapter II of this chapter, or subchapter III of this chapter.
+
+#### (2) Limitation
+
+&emsp;Credits allocated under subsection (a) of this section may not be used to satisfy more than 50 percent of the alternative fueled vehicle requirements of a fleet or covered person under this subchapter, subchapter II of this chapter, and subchapter III of this chapter. This paragraph shall not apply to a fleet or covered person that is a biodiesel alternative fuel provider described in section 13251(a)(2)(A) of this title.
+
+#### (c) Credit not a section 13258 credit
+
+A credit under this section shall not be considered a credit under section 13258 of this title.
+
+#### (d) Issuance of rule
+
+The Secretary shall, before January 1, 1999, issue a rule establishing procedures for the implementation of this section.
+
+#### (e) Collection of data
+
+The Secretary shall collect such data as are required to make a determination described in subsection (f)(2)(B) of this section.
+
+#### (f) Definitions
+
+For purposes of this section—
+
+&emsp;(1) the term “biodiesel” means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 7545 of this title; and
+
+&emsp;(2) the term “qualifying volume” means—
+
+&emsp;&emsp;(A) 450 gallons; or
+
+&emsp;&emsp;(B) if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
+
+(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480.)
+
+#### References in Text
+
+The date of the enactment of this section, referred to in subsec. (a)(1), probably means October 21, 1998, the date of the enactment of this section by Pub. L. 105–277, rather than Nov. 13, 1998, the date of the enactment of this section by Pub. L. 105–388.
+
+#### Codification
+
+Pub. L. 105–277 and Pub. L. 105–388 enacted identical sections.
+

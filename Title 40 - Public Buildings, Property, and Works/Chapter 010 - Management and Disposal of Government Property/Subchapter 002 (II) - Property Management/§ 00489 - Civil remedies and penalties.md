@@ -30,7 +30,7 @@ This Act, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 37
 
 #### Codification
 
-As originally enacted, subsec. (c) contained a reference to “the District Court of the United States for the District of Columbia” following “the several district courts of the United States”. The words “the District Court of the United States for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district” and section 88 of the Title 28 which states that “the District of Columbia constitutes one judicial district”.
+As originally enacted, subsec. (c) contained a reference to “the District Court of the United States for the District of Columbia” following “the several district courts of the United States”. The words “the District Court of the United States for the District of Columbia” have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district” and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
 
 Section was formerly classified to section 239 of Title 41, Public Contracts.
 

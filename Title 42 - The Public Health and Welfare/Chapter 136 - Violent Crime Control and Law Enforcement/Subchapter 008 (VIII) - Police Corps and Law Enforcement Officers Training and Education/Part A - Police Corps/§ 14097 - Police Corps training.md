@@ -12,11 +12,11 @@
 
 #### (b) Training sessions
 
-A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director.
+A participant in a State Police Corps program shall attend up to 24 weeks, but no less than 16 weeks, of training at a training center. The Director may approve training conducted in not more than 3 separate sessions.
 
 #### (c) Further training
 
-The 16 weeks of Police Corps training authorized in this section is intended to serve as basic law enforcement training but not to exclude further training of participants by the State and local authorities to which they will be assigned. Each State plan approved by the Director under section 14099 <sup>1</sup> of this title shall include assurances that following completion of a participant's course of education each participant shall receive appropriate additional training by the State or local authority to which the participant is assigned. The time spent by a participant in such additional training, but not the time spent in Police Corps training, shall be counted toward fulfillment of the participant's 4-year service obligation.
+The Police Corps training authorized in this section is intended to serve as basic law enforcement training but not to exclude further training of participants by the State and local authorities to which they will be assigned. Each State plan approved by the Director under section 14099 <sup>1</sup> of this title shall include assurances that following completion of a participant's course of education each participant shall receive appropriate additional training by the State or local authority to which the participant is assigned. The time spent by a participant in such additional training, but not the time spent in Police Corps training, shall be counted toward fulfillment of the participant's 4-year service obligation.
 
 #### (d) Course of training
 
@@ -24,17 +24,23 @@ The training sessions at training centers established under this section shall b
 
 #### (e) Evaluation of participants
 
-A participant shall be evaluated during training for mental, physical, and emotional fitness, and shall be required to meet performance standards prescribed by the Director at the conclusion of each training session in order to remain in the Police Corps program.
+A participant shall be evaluated during training for mental, physical, and emotional fitness, and shall be required to meet performancestandards prescribed by the Director at the conclusion of each training session in order to remain in the Police Corps program.
 
 #### (f) Stipend
 
 The Director shall pay participants in training sessions a stipend of $250 a week during training.
 
-(Pub. L. 103–322, title XX, §200108, Sept. 13, 1994, 108 Stat. 2054.)
+(Pub. L. 103–322, title XX, §200108, Sept. 13, 1994, 108 Stat. 2054; Pub. L. 105–277, div. C, title I, §138(a), Oct. 21, 1998, 112 Stat. 2681–597.)
 
 #### References in Text
 
 Section 14099 of this title, referred to in subsec. (c), was in the original “section 10”, and was translated as reading “section 200110”, meaning section 200110 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 10, and section 14099 of this title relates to requirements for State Police Corps plans.
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–277, §138(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “A participant in a State Police Corps program shall attend two 8-week training sessions at a training center, one during the summer following completion of sophomore year and one during the summer following completion of junior year. If a participant enters the program after sophomore year, the participant shall complete 16 weeks of training at times determined by the Director.”
+
+Subsec. (c). Pub. L. 105–277, §138(a)(2), substituted “The Police Corps” for “The 16 weeks of Police Corps”.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@
 
 (4) Failure to pay the fees imposed under the schedule established under paragraph (1) shall, subject to the regulations of the Commission, be grounds for revocation of the approval of the Chairman of any license, ordinance, or resolution required under this chapter for the operation of gaming.
 
-(5) To the extent that revenue derived from fees imposed under the schedule established under paragraph (1) are not expended or committed at the close of any fiscal year, such surplus funds shall be credited to each gaming activityon a pro rata basis against such fees imposed for the succeeding year.
+(5) To the extent that revenue derived from fees imposed under the schedule established under paragraph (1) are not expended or committed at the close of any fiscal year, such surplus funds shall be credited to each gaming activity on a pro rata basis against such fees imposed for the succeeding year.
 
 (6) For purposes of this section, gross revenues shall constitute the annual total amount of money wagered, less any amounts paid out as prizes or paid for prizes awarded and less allowance for amortization of capital expenditures for structures.
 
@@ -38,7 +38,7 @@ Subsec. (a)(2)(B). Pub. L. 105–83, §123(a)(2)(B), substituted “$8,000,000�
 
 #### Application to Self-Regulated Tribes
 
-Section 123(a)(2)(C) of Pub. L. 105–83 provided that: “\[N\]othing in subsection (a) of this section \[amending this section\] shall apply to self-regulated tribes such as the Mississippi Band of Choctaw.”
+Pub. L. 105–83, title I, §123(a)(2)(C), Nov. 14, 1997, 111 Stat. 1566, as amended by Pub. L. 105–277, div. A, §101(e) \[title III, §338\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, provided that: “\[N\]othing in subsection (a) of this section \[amending this section\] shall apply to the Mississippi Band of Choctaw.”
 
 #### Section Referred to in Other Sections
 

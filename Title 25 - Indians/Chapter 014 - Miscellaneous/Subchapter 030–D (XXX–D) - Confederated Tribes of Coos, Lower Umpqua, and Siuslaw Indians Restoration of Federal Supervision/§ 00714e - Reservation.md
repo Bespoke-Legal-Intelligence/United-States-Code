@@ -14,11 +14,17 @@ So long as the lands are offered to the Federal Government free of purchase cost
 
 &emsp;(3) In Curry County, Oregon, a parcel described as the southeast quarter of the southeast quarter of the southwest quarter of section 11 of township 32 south, range 15 west, Willamette meridian.
 
+&emsp;(4) In Lane County, Oregon, a parcel described as beginning at the common corner to sections 23, 24, 25, and 26 township 18 south, range 12 west, Willamette Meridian; then west 25 links; then north 2 chains and 50 links; then east 25 links to a point on the section line between sections 23 and 24; then south 2 chains and 50 links to the place of origin, and containing .062 of an acre, more or less, situated and lying in section 23, township 18 south, range 12 west, of Willamette Meridian.
+
 #### (c) State of Oregon; criminal and civil jurisdiction
 
 The State of Oregon shall exercise criminal and civil jurisdiction over the reservation, and over the individuals on the reservation, in accordance with section 1162 of title 18 and section 1360 of title 28, respectively.
 
-(Pub. L. 98–481, §7, Oct. 17, 1984, 98 Stat. 2253.)
+(Pub. L. 98–481, §7, Oct. 17, 1984, 98 Stat. 2253; Pub. L. 105–256, §5, Oct. 14, 1998, 112 Stat. 1897.)
+
+#### Amendments
+
+1998—Subsec. (b)(4). Pub. L. 105–256 added par. (4).
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) A large percentage of youth in the juvenile justice system have poor academicachievement, are a year or more behind grade level, and have dropped out of school.
+&emsp;(1) A large percentage of youth in the juvenile justice system have poor academic achievement, are a year or more behind grade level, and have dropped out of school.
 
 &emsp;(2) There is a strong correlation between academic failure and involvement in delinquent activities.
 

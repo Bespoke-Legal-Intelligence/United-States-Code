@@ -38,7 +38,7 @@
 
 (f) In each budget submitted by the President to Congress under section 1105 of title 31, amounts requested for procurement of ammunition for the Navy and Marine Corps, and for procurement of ammunition for the Air Force, shall be set forth separately from other amounts requested for procurement.
 
-(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV, §1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L. 101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632.)
+(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV, §1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, titleXVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L. 101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632.)
 
 Historical and Revision Notes<br>1982
 
@@ -230,7 +230,7 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 “Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of this title by Pub. L. 100–370, §1(<i>l</i>)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
 
-“Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupiedby military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
+“Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupied by military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
 
 “Sec. 728. \[Prohibited use of appropriated funds for payment of costs of advertising by any defense contractor, except advertising for which payment is made from profits, provided exemptions for advertising for personnel recruitment, procurement of scarce required items, and disposal of scrap or surplus materials, and was repealed by Pub. L. 100–370, §1(p)(1), July 19, 1988, 102 Stat. 851. See section 2324(e)(1)(H) of this title.\]
 
@@ -326,7 +326,7 @@ Requirement for Determination.—An amount made available under this Act \[see T
 
 “(b)
 
-Covered Programs.—The programs referred to in subsection (a) are the programs under title XLIII \[enacting section 2552 of this title, amending section 2391 of this title, and enacting provisions set out as notes under section 2391 of this title\] and subtitles Dthrough G of title XLIV \[§§4441 to 4497, enacting sections 1143a, 1151, 1598, 2410c, and 2410d of this title and section 1662d–1 of Title 29, Labor, amending sections 1142 and 1144 of this title and sections 1551, 1661, 1661c, and 1662d of Title 29, and enacting provisions set out as notes under sections 1143, 1143a, 2410d, 2501, 2504, and 2701 of this title and section 1662d–1 of Title 29\].
+Covered Programs.—The programs referred to in subsection (a) are the programs under title XLIII \[enacting section 2552 of this title, amending section 2391 of this title, and enacting provisions set out as notes under section 2391 of this title\] and subtitles D through G of title XLIV \[§§4441 to 4497, enacting sections 1143a, 1151, 1598, 2410c, and 2410d of this title and section 1662d–1 of Title 29, Labor, amending sections 1142 and 1144 of this title and sections 1551, 1661, 1661c, and 1662d of Title 29, and enacting provisions set out as notes under sections 1143, 1143a, 2410d, 2501, 2504, and 2701 of this title and section 1662d–1 of Title 29\].
 
 “(c)
 
@@ -336,11 +336,11 @@ Effect on Appropriations for Programs Not Counted Against Defense Category.—(1
 
 #### Classified Annex
 
-Pub. L. 105–85, div. A, title X, §1002, Nov. 18, 1997, 111 Stat. 1868, provided that:
+Pub. L. 105–261, div. A, title X, §1002, Oct. 17, 1998, 112 Stat. 2111, provided that:
 
 “(a)
 
-Status of Classified Annex.—The Classified Annex prepared by the committee of conference to accompany the conference report on the bill H.R. 1119 of the One Hundred Fifth Congress \[Pub. L. 105–85\] and transmitted to the President is hereby incorporated into this Act \[see Tables for classification\].
+Status of Classified Annex.—The Classified Annex prepared by the committee of conference to accompany the conference report on the bill H.R. 3616 of the One Hundred Fifth Congress \[Pub. L. 105–261\] and transmitted to the President is hereby incorporated into this Act \[see Tables for classification\].
 
 “(b)
 
@@ -355,6 +355,8 @@ Limitation on Use of Funds.—Funds appropriated pursuant to an authorization co
 Distribution of Classified Annex.—The President shall provide for appropriate distribution of the Classified Annex, or of appropriate portions of the annex, within the executive branch of the Government.”
 
 Similar provisions were contained in the following prior authorization or appropriation acts:
+
+Pub. L. 105–85, div. A, title X, §1002, Nov. 18, 1997, 111 Stat. 1868.
 
 Pub. L. 104–201, div. A, title X, §1002, Sept. 23, 1998, 110 Stat. 2631.
 
@@ -386,7 +388,7 @@ Section 1304(b) of Pub. L. 99–661 provided that: “New spending authority (as
 
 #### Limitation on Source of Funds for Nicaraguan Democratic Resistance
 
-Section 1351 of Pub. L. 99–661, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: “Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provide assistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available to the Department for procurement (other than ammunition).”
+Section 1351 of Pub. L. 99–661, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: “Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provide assistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available tothe Department for procurement (other than ammunition).”
 
 #### Use of Appropriated Funds To Support Revenue Generating Activities in Large Metropolitan Areas Prohibited
 
@@ -400,7 +402,7 @@ Pub. L. 97–377, title I, §101(c) \[title VII, §791\], Dec. 21, 1982, 96 Stat
 
 Section 802 of Pub. L. 96–107 provided that:
 
-“(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of,Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
+“(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of, Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
 
 “(b) Funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law may be obligated or expended for operation or support of installations or equipment used for research and development (including maintenance support of laboratories, operation and maintenance of test ranges, and maintenance of test aircraft and ships) in compliance with the implementing instructions for and the provisions of such Office of Management and Budget Circular.
 

@@ -8,7 +8,7 @@ Shall be fined under this title, imprisoned not more than 25 years (if the offen
 
 For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(1), title XXXIII, §330016(1)(G), 108 Stat. 2030, 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §211(a)(2), 110 Stat. 3009–569; Oct. 11, 1996, Pub. L. 104–294, title VI, §607(n), 110 Stat. 3512.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, §130009(a)(1), title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §607(n), Oct. 11, 1996, 110 Stat. 3512.)
 
 #### Historical and Revision Notes
 

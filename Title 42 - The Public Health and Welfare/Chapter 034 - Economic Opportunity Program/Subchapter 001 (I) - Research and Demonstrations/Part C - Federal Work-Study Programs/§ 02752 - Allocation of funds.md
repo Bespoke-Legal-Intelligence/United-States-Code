@@ -2,15 +2,15 @@
 
 #### (a) Allocation based on previous allocation
 
-(1) From the amount appropriated pursuant to section 2751(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution for each succeeding fiscal year, an amount equal to 100 percent of the amount suchinstitution received and used under this part for fiscal year 1985.
+(1) From the amount appropriated pursuant to section 2751(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution for each succeeding fiscal year, an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
 
-(2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1985 but is not a first or second time participant, an amount equal to the greater of—
+(2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
 
 &emsp;(i) $5,000; or
 
 &emsp;(ii) 90 percent of the amount received and used under this part for the first year it participated in the program.
 
-(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1985 and is a first or second time participant, an amount equal to the greatest of—
+(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
 
 &emsp;(i) $5,000;
 
@@ -20,7 +20,7 @@
 
 (C) Notwithstanding subparagraphs (A) and (B) of this paragraph, the Secretary shall allocate to each eligible institution which—
 
-&emsp;(i) was a first-time participant in the program in fiscal year 1986 or any subsequent fiscal year, and
+&emsp;(i) was a first-time participant in the program in fiscal year 2000 or any subsequent fiscal year, and
 
 &emsp;(ii) received a larger amount under this subsection in the second year of participation,
 
@@ -40,21 +40,17 @@
 
 (B) In order to receive an allocation pursuant to subparagraph (A) an institution shall be an eligible institution from which 50 percent or more of the Pell Grant recipients attending such eligible institution graduate or transfer to a 4-year institution of higher education.
 
-#### (b) Allocation of excess based on pro rata share
+#### (b) Allocation of excess based on share of excess eligible amounts
 
-From one-quarter of the remainder of the amount appropriated pursuant to section 2751(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as the amount the eligible institution receives for such fiscal year under subsection (a) of this section bears to the amount all such institutions receive under such subsection (a) of this section.
-
-#### (c) Allocation of excess based on share of excess eligible amounts
-
-(1) From three-quarters of the remainder of the amount appropriated pursuant to section 2751(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 2751(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-&emsp;(A)(i) the amount of that institution's need (as determined under subsection (d) of this section), divided by (ii) the sum of the need of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 2751(b) of this title for the fiscal year; exceeds
+&emsp;(A)(i) the amount of that institution's need (as determined under subsection (c) of this section), divided by (ii) the sum of the need of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 2751(b) of this title for the fiscal year; exceeds
 
 &emsp;(B) the amount required to be allocated to that institution under subsection (a) of this section.
 
-#### (d) Determination of institution's need
+#### (c) Determination of institution's need
 
 (1) The amount of an institution's need is equal to the sum of the self-help need of the institution's eligible undergraduate students and the self-help need of the institution's eligible graduate and professional students.
 
@@ -84,7 +80,7 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 &emsp;(H) add the amounts determined under subparagraphs (E) and (G).
 
-(3) To determine the self-help need of an institution's eligible graduate and professional students, the Secretary, for academic year 1988–1989 shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years, the Secretary shall—
+(3) To determine the self-help need of an institution's eligible graduate and professional students, the Secretary shall—
 
 &emsp;(A) establish various income categories of graduate and professional students;
 
@@ -106,21 +102,21 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 (D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $450.
 
-#### (e) Reallocation of excess allocations
+#### (d) Reallocation of excess allocations
 
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 10 percent of the total amount of funds granted to such institution under this section to compensate students employed in community service in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (c) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
+(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
 (2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 
-#### (f) Filing deadlines
+#### (e) Filing deadlines
 
 The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
 
-(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470.)
+(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712.)
 
 #### References in Text
 
-Part F of this title, referred to in subsec. (d)(2)(B), (3)(B), means part F of title IV of Pub. L. 89–329, Nov.8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Part F of title IV of such Act is classified generally to part E (§1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+Part F of this title, referred to in subsec. (c)(2)(B), (3)(B), means part F of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Part F of title IV of such Act is classified generally to part E (§1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -129,6 +125,28 @@ Section was originally enacted as section 122 of the Economic Opportunity Act of
 Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–244, §442(a)(1), substituted “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”.
+
+Subsec. (a)(2)(A), (B). Pub. L. 105–244, §442(a)(2)(A), substituted “1999” for “1985” in introductory provisions.
+
+Subsec. (a)(2)(C)(i). Pub. L. 105–244, §442(a)(2)(B), substituted “2000” for “1986”.
+
+Subsec. (b). Pub. L. 105–244, §442(b)(1), (2), redesignated subsec. (c) as (b), and struck out heading and text of former subsec. (b). Text read as follows: “From one-quarter of the remainder of the amount appropriated pursuant to section 2751(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as the amount the eligible institution receives for such fiscal year under subsection (a) of this section bears to the amount all such institutions receive under such subsection (a) of this section.”
+
+Subsec. (b)(1). Pub. L. 105–244, §442(b)(3), struck out “three-quarters of” after “From”.
+
+Subsec. (b)(2)(A)(i). Pub. L. 105–244, §442(b)(4), substituted “subsection (c)” for “subsection (d)”.
+
+Subsec. (c). Pub. L. 105–244, §442(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+
+Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out “the Secretary, for academic year 1988–1989 shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,” in introductory provisions.
+
+Subsec. (d). Pub. L. 105–244, §442(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(1). Pub. L. 105–244, §442(b)(6), substituted “5 percent” for “10 percent”, “in tutoring in reading and family literacy activities in” for “in community service in”, and “subsection (b)” for “subsection (c)”.
+
+Subsecs. (e), (f). Pub. L. 105–244, §442(b)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
 1993—Subsec. (d)(4)(C). Pub. L. 103–208, §2(d)(1), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
 
@@ -166,9 +184,13 @@ Subsec. (c). Pub. L. 90–575, §133(a), substituted “eligible institution” 
 
 Subsec. (e). Pub. L. 90–575, §135(b), added subsec. (e).
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–244, title IV, §442(c), Oct. 7, 1998, 112 Stat. 1712, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to allocations of amounts appropriated pursuant to section 441(b) for fiscal year 2000 or any succeeding fiscal year.”
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of Title 20, Education.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 
@@ -188,11 +210,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### College Work-Study Allotment for Specific Fiscal Years
 
-For provision that, notwithstanding subsecs. (a), (b), (c), and (e) of this section, the Secretary shall apportion funds among the States so that each State's apportionment under the Work-Study Program bears the same ratio to the total amount appropriated under that program as that State's apportionment in fiscal year 1981 for that program bears to the total amount appropriated for fiscal year 1981 for that program, and that, with regard to the Work-Study Program, notwithstanding section 2756(a) of this title, from each jurisdiction's allotment of funds under that program, the Secretary shall allocate sums to institutions in that jurisdiction that did not receive an allocation in fiscal year 1979 (award year 1979–1980) under that program in a manner that will most effectively carry out the purposes of the Work-Study Program, see section 300 of Pub. L. 99–178, set out as a note under section 1070b–3 of Title 20, Education.
-
-For similar provisions for fiscal year 1985, see section 300 of Pub. L. 98–619, set out as a note under section 1070b–3 of Title 20.
-
-Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and\(e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
+Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
 
 Pub. L. 97–301, §11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to section 2751(b) of this title were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
 

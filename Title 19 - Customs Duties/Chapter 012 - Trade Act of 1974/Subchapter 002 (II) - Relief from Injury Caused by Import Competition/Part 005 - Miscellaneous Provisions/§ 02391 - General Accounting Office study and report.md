@@ -10,7 +10,7 @@ The Comptroller General of the United States shall conduct a study of the adjust
 
 #### (b) Assistance from Labor and Commerce Departments
 
-In carrying out his responsibilities under this section, the Comptroller General shall, to the extent practical, avail himself of the assistanceof the Departments of Labor and Commerce. The Secretaries of Labor and Commerce shall make available to the Comptroller General any assistance necessary for an effective evaluation of the adjustment assistance programs established under this subchapter.
+In carrying out his responsibilities under this section, the Comptroller General shall, to the extent practical, avail himself of the assistance of the Departments of Labor and Commerce. The Secretaries of Labor and Commerce shall make available to the Comptroller General any assistance necessary for an effective evaluation of the adjustment assistance programs established under this subchapter.
 
 (Pub. L. 93–618, title II, §280, Jan. 3, 1975, 88 Stat. 2040.)
 

@@ -1,8 +1,8 @@
 ### §2421. Transportation generally
 
-Whoever knowingly transports any individual in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever knowingly transports any individual in interstate or foreign commerce, or in any Territory or Possession of the United States, with intent that such individual engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; May 24, 1949, ch. 139, §47, 63 Stat. 96; Nov. 7, 1986, Pub. L. 99–628, §5(b)(1), 100 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 812; May 24, 1949, ch. 139, §47, 63 Stat. 96; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 105–314, title I, §106, Oct. 30, 1998, 112 Stat. 2977.)
 
 #### Historical and Revision Notes
 
@@ -36,6 +36,8 @@ This section \[section 47\] corrects a typographical error in section 2421 of ti
 
 #### Amendments
 
+1998—Pub. L. 105–314 inserted “or attempts to do so,” before “shall be fined” and substituted “10 years” for “five years”.
+
 1986—Pub. L. 99–628 amended section generally. Prior to amendment, section read as follows:
 
 “Whoever knowingly transports in interstate or foreign commerce, or in the District of Columbia or in any Territory or Possession of the United States, any woman or girl for the purpose of prostitution or debauchery, or for any other immoral purpose, or with the intent and purpose to induce, entice, or compel such woman or girl to become a prostitute or to give herself up to debauchery, or to engage in any other immoral practice; or
@@ -52,5 +54,5 @@ Applicability of section to Canal Zone, see section 14 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961 of this title; title 8 section 1101.
+This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486A of this title; title 8 section 1101.
 

@@ -12,5 +12,5 @@ The Secretary may not make a grant under section 300ff–41 of this title unless
 
 An agreement made under subsection (a) of this section may not be construed to require that, in carrying out the activities described in such subsection, a State receiving a grant under section 300ff–41 of this title provide individual notifications to the individuals described in such subsection.
 
-(July 1, 1944, ch. 373, title XXVI, §2645, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 602.)
+(July 1, 1944, ch. 373, title XXVI, §2645, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 602.)
 

@@ -20,7 +20,7 @@ The Board shall furnish the Secretary of Energy with copies of all comments, dat
 
 #### (d) Final decision
 
-If the Secretary of Energy, in a response under subsection (b)(1) of this section, rejects (in whole or part) any recommendation made by the Board under section 2286a of this title, the Board shall either reaffirm its original recommendation or make a revised recommendation and shall notify the Secretary of its action. Within 30 days after receiving the notice of the Board's action under this subsection, the Secretary shallconsider the Board's action and make a final decision on whether to implement all or part of the Board's recommendations. Subject to subsection (h) of this section, the Secretary shall publish the final decision and the reasoning for such decision in the Federal Register and shall transmit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a written report containing that decision and reasoning.
+If the Secretary of Energy, in a response under subsection (b)(1) of this section, rejects (in whole or part) any recommendation made by the Board under section 2286a of this title, the Boardshall either reaffirm its original recommendation or make a revised recommendation and shall notify the Secretary of its action. Within 30 days after receiving the notice of the Board's action under this subsection, the Secretary shall consider the Board's action and make a final decision on whether to implement all or part of the Board's recommendations. Subject to subsection (h) of this section, the Secretary shall publish the final decision and the reasoning for such decision in the Federal Register and shall transmit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a written report containing that decision and reasoning.
 
 #### (e) Implementation plan
 
@@ -48,5 +48,5 @@ Notwithstanding any other provision of this section, the requirements to make in
 
 &emsp;(2) shall be subject to the orders and regulations issued by the Secretary of Energy under sections 2167 and 2168 of this title to prohibit dissemination of certain information.
 
-(Aug. 1, 1946, ch. 724, title I, §315, as added Sept. 29, 1988, Pub. L. 100–456, div. A, title XIV, §1441(a)(1), 102 Stat. 2080; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §315, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

@@ -28,9 +28,9 @@ Except as provided in subsection (b) of this section, it shall be unlawful for a
 
 As used in this section, “United States” includes the several States, the District of Columbia, any territory of the United States, and any insular possession or other place under the jurisdiction of the United States.
 
-(Oct. 15, 1914, ch. 323, §26, as added Dec. 2, 1980, Pub. L. 96–493, §2, 94 Stat. 2568.)
+(Oct. 15, 1914, ch. 323, §26, as added Pub. L. 96–493, §2, Dec. 2, 1980, 94 Stat. 2568.)
 
 #### Short Title
 
-For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”, see section 1 of Pub. L. 96–493, set out as a Short Title of 1980 Amendment note under section 1 of this title.
+For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”, see section 1 of Pub. L. 96–493, setout as a Short Title of 1980 Amendment note under section 1 of this title.
 

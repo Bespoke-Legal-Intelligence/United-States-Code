@@ -4,7 +4,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;(a) develop and disseminate information and educational materials to all segments of the public on the public health and other effects of noise and the most effective means for noise control, through the use of materials for school curricula, volunteer organizations, radio and television programs, publication, and other means;
 
-&emsp;(b) conduct or finance research directly or with any public or private organization or anyperson on the effects, measurement, and control of noise, including but not limited to—
+&emsp;(b) conduct or finance research directly or with any public or private organization or any person on the effects, measurement, and control of noise, including but not limited to—
 
 &emsp;&emsp;(1) investigation of the psychological and physiological effects of noise on humans and the effects of noise on domestic animals, wildlife, and property, and the determination of dose/response relationships suitable for use in decisionmaking, with special emphasis on the nonauditory effects of noise;
 

@@ -22,7 +22,7 @@ The Secretary shall establish and carry out a program for the identification and
 
 (2)(A) In determining the most appropriate means of carrying out the activities referred to in subparagraphs (A) through (D) of paragraph (1), the Secretary shall consult with the Secretary of Health and Human Services under the agreement referred to in subsection (c).
 
-(B) The Secretary of Health and Human Services, with the assistance of the Director of the Centers for Disease Control and the Director of the National Institute for Occupational Safety and Health, and the Secretary of Labor shall identify the levels of exposure to the substances referred to in subparagraph (A) of paragraph (1) that present employees referred to in such subparagraph with significant health risks under Federal and State occupational, health, and safety standards;
+(B) The Secretary of Health and Human Services, with the assistance of the Director of the Centers for Disease Control and the Director of the National Institute for Occupational Safety and Health, and the Secretary of Labor shall identify the levels of exposure to the substances referred to in subparagraph (A) of paragraph (1)that present employees referred to in such subparagraph with significant health risks under Federal and State occupational, health, and safety standards;
 
 (3) In prescribing the guidelines referred to in paragraph (1), the Secretary shall consult with representatives of the following entities:
 

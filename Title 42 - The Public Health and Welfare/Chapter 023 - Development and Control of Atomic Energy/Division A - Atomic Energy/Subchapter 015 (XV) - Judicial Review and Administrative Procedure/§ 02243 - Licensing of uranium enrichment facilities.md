@@ -8,7 +8,7 @@
 
 #### (2) Timing
 
-&emsp;An environmental impact statement prepared under paragraph (1) shall be prepared before the hearing on the issuance of a license for the construction and operation of a uranium enrichment facility is completed.
+&emsp;An environmental impact statement prepared under paragraph (1) shall be prepared before the hearing on the issuance of a licensefor the construction and operation of a uranium enrichment facility is completed.
 
 #### (b) Adjudicatory hearing
 
@@ -56,7 +56,7 @@ No license or certificate of compliance may be issued to the United States Enric
 
 &emsp;&emsp;(B) the maintenance of a reliable and economical domestic source of enrichment services.
 
-(Aug. 1, 1946, ch. 724, title I, §193, as added Nov. 15, 1990, Pub. L. 101–575, §5(e), 104 Stat. 2835; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; amended Apr. 26, 1996, Pub. L. 104–134, title III, §3116(b)(2), 110 Stat. 1321–349.)
+(Aug. 1, 1946, ch. 724, title I, §193, as added Pub. L. 101–575, §5(e), Nov. 15, 1990, 104 Stat. 2835; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 104–134, title III, §3116(b)(2), Apr. 26, 1996, 110 Stat. 1321–349.)
 
 #### References in Text
 
@@ -65,6 +65,10 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is
 #### Amendments
 
 1996—Subsec. (f). Pub. L. 104–134 added subsec. (f).
+
+#### References to United States Enrichment Corporation
+
+References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 
 #### Section Referred to in Other Sections
 

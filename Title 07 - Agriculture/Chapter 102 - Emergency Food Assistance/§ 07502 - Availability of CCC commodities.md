@@ -22,7 +22,7 @@ In addition to any commodities described in subsection (a) of this section, in c
 
 #### (d) Varieties of commodities
 
-Commodities made available under this chapter shall include a variety of commodities andproducts thereof that are most useful to eligible recipient agencies, including, but not be <sup>1</sup> limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.
+Commodities made available under this chapter shall include a variety of commodities and products thereof that are most useful to eligible recipient agencies, including, but not be <sup>1</sup> limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.
 
 #### (e) Report to Congress
 

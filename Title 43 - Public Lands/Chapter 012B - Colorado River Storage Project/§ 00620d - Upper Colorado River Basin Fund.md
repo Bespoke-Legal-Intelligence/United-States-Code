@@ -6,7 +6,7 @@ There is authorized a separate fund in the Treasury of the United States to be k
 
 #### (b) Crediting of appropriations
 
-All appropriations made for the purpose of carrying out the provisions of this chapter,other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
+All appropriations made for the purpose of carrying out the provisions of this chapter, other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
 
 #### (c) Crediting and availability of revenues
 

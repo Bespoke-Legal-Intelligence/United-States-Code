@@ -1,12 +1,12 @@
 ### §1262. Transportation into State prohibiting sale
 
-Whoever imports, brings, or transports any intoxicating liquor into any State, Territory, District, or Possession in which all sales, except for scientific, sacramental, medicinal, or mechanical purposes, of intoxicating liquor containing more than 4 per centum of alcohol by volume or 3.2 per centum of alcohol by weight are prohibited, otherwise than in the course of continuous interstate transportation through such State, Territory, District, or Possession or attempts so to do, or assists in so doing,
+Whoever imports, brings, or transports any intoxicating liquor into any State, Territory, District, or Possession in which all sales, except forscientific, sacramental, medicinal, or mechanical purposes, of intoxicating liquor containing more than 4 per centum of alcohol by volume or 3.2 per centum of alcohol by weight are prohibited, otherwise than in the course of continuous interstate transportation through such State, Territory, District, or Possession or attempts so to do, or assists in so doing,
 
 Shall (1) If such liquor is not accompanied by such permits, or licenses therefor as may be required by the laws of such State, Territory, District, or Possession or (2) if all importation, bringing, or transportation of intoxicating liquor into such State, Territory, District, or Possession is prohibited by the laws thereof, be fined under this title or imprisoned not more than one year, or both.
 
 In the enforcement of this section, the definition of intoxicating liquor contained in the laws of the respective States, Territories, Districts, or Possessions shall be applied, but only to the extent that sales of such intoxicating liquor (except for scientific, sacramental, medicinal, and mechanical purposes) are prohibited therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, §32, 63 Stat. 94; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3540, 104 Stat. 4925; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, §32, 63 Stat. 94; Pub. L. 101–647, title XXXV, §3540, Nov. 29, 1990, 104 Stat. 4925; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

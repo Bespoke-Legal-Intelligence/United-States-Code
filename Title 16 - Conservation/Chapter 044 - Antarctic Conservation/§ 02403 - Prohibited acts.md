@@ -46,7 +46,7 @@ It is unlawful for any person, unless authorized by a permit issued under this c
 
 &emsp;(4) to engage in any taking or harmful interference in Antarctica; or
 
-&emsp;(5) to receive, acquire, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any native bird, native mammal, or native plant whichthe person knows, or in the exercise of due care should have known, was taken in violation of this chapter.
+&emsp;(5) to receive, acquire, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any native bird, native mammal, or native plant which the person knows, or in the exercise of due care should have known, was taken in violation of this chapter.
 
 #### (c) Exception for emergencies
 

@@ -38,7 +38,7 @@
 
 #### Prior Provisions
 
-A prior section 2019, Pub. L. 92–181, title I, §1.11, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, §108, Dec. 24, 1980, 94 Stat. 3438, related to services related to borrower's operations, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2019, Pub. L. 92–181, title I, §1.11, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, §108, Dec. 24,1980, 94 Stat. 3438, related to services related to borrower's operations, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 

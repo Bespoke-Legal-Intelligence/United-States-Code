@@ -40,7 +40,7 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, me
 
 #### Amendments
 
-1973—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provideby law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
+1973—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provide by law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
 
 1972—Subsec. (b). Pub. L. 92–389 reduced the age qualification for membership of legislature from twenty-five years to twenty-one years.
 

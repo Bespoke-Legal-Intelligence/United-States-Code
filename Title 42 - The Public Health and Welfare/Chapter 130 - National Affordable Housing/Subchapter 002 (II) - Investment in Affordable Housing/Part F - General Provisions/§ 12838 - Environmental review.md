@@ -30,7 +30,7 @@ A certification under the procedures authorized by this section shall—
 
 #### (d) Assistance to units of general local government from a State
 
-In the case of assistance to units of general local government from a State, the State shall perform those actions of the Secretary describedin subsection (b) of this section and the performance of such actions shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of such subsection.
+In the case of assistance to units of general local government from a State, the State shall perform those actions of the Secretary described in subsection (b) of this section and the performance of such actions shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of such subsection.
 
 (Pub. L. 101–625, title II, §288, Nov. 28, 1990, 104 Stat. 4127; Pub. L. 103–233, title II, §206, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–330, title V, §505(a)(2), Oct. 26, 1996, 110 Stat. 4044.)
 

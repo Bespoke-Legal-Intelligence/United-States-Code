@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1082(a) of this title if the plan was not in reorganization), over
 
-&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) of this section for the plan year).
+&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the planyear (increased by any amount waived under subsection (f) of this section for the plan year).
 
 (2) For purposes of paragraph (1), withdrawal liability payments (whether or not received) which are due with respect to withdrawals before the end of the base plan year shall be considered amounts contributed by the employer to or under the plan if, as of the adjustment date, it was reasonable for the plan sponsor to anticipate that such payments would be made during the plan year.
 
@@ -44,7 +44,7 @@
 
 #### (c) Current contribution base; valuation contribution base
 
-(1) For purposes of this part, a plan's current contribution base for a plan year is the numberof contribution base units with respect to which contributions are required to be made under the plan for that plan year, determined in accordance with regulations prescribed by the Secretary of the Treasury.
+(1) For purposes of this part, a plan's current contribution base for a plan year is the number of contribution base units with respect to which contributions are required to be made under the plan for that plan year, determined in accordance with regulations prescribed by the Secretary of the Treasury.
 
 (2)(A) Except as provided in subparagraph (B), for purposes of this part a plan's valuation contribution base is the number of contribution base units for which contributions were received for the base plan year—
 
@@ -78,7 +78,7 @@
 
 &emsp;(B) if for the plan year a change in benefits is first required to be considered in computing the charges under section 412(b)(2)(A) or (B) of title 26, the sum of—
 
-&emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 1421(b)(4)(A)(ii) of this title (determined without regard to section 1421(b)(4)(B)(i) of this title), and
+&emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normalfunding method due to increases in benefits described in section 1421(b)(4)(A)(ii) of this title (determined without regard to section 1421(b)(4)(B)(i) of this title), and
 
 &emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plan due to increases in benefits described in clause (i) over—
 

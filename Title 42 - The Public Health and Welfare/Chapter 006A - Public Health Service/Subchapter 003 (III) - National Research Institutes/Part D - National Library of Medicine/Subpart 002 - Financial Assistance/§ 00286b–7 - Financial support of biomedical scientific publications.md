@@ -4,7 +4,7 @@
 
 (b) Grants under subsection (a) of this section in support of any single periodical publication may not be made for more than three years, except in those cases in which the Secretary determines that further support is necessary to carry out the purposes of subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §476, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 863.)
+(July 1, 1944, ch. 373, title IV, §476, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 863.)
 
 #### Section Referred to in Other Sections
 

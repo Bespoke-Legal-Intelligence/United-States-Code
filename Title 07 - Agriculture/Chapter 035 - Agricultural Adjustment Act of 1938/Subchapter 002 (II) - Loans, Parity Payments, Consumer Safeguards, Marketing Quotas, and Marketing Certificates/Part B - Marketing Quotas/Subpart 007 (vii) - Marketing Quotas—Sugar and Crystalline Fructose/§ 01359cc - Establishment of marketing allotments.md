@@ -70,7 +70,7 @@ The allotment for sugar derived from sugarcane shall be further allotted, among 
 
 Each marketing allotment for cane sugar established under this section may only be filled with sugar processed from domestically grown sugarcane, and each marketing allotment for beet sugar established under this section may only be filled with sugar processed from domestically grown sugar beets.
 
-(Feb. 16, 1938, ch. 30, title III, §359c, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3481; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(e), 105 Stat. 1832.)
+(Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, §111(e), Dec. 13, 1991, 105 Stat. 1832.)
 
 #### References in Text
 

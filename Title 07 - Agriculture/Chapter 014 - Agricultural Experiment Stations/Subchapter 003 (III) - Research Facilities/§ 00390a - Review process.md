@@ -32,7 +32,7 @@ In consultation with the congressional agriculture committees, the Secretary sha
 
 &emsp;&emsp;&emsp;(i) 1 or more of the national research policies and priorities set forth in section 3101 of this title; and
 
-&emsp;&emsp;&emsp;(ii) regional needs.
+&emsp;&emsp;&emsp;(ii) national or multistate needs.
 
 #### (D) Long-term support
 
@@ -50,11 +50,21 @@ Not later than 90 days after receiving a proposal under subsection (a) of this s
 
 &emsp;(2) report to the congressional agriculture committees on the results of the evaluation and assessment.
 
-(Pub. L. 88–74, §3, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1177.)
+#### (e) National or multistate needs served by ARS facilities
+
+The Secretary shall ensure that each research activity conducted by a facility of the Agricultural Research Service serves a national or multistate need.
+
+(Pub. L. 88–74, §3, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, §106(a), (b), June 23, 1998, 112 Stat. 530.)
 
 #### Prior Provisions
 
 A prior section 390a, Pub. L. 88–74, §2, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, §1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, §1411(b), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of purpose, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 3 of Pub. L. 88–74 was classified to section 390b of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
+
+#### Amendments
+
+1998—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, §106(a), substituted “national or multistate needs” for “regional needs”.
+
+Subsec. (e). Pub. L. 105–185, §106(b), added subsec. (e).
 

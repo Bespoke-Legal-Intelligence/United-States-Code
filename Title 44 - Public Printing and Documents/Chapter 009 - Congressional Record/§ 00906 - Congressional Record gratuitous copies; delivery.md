@@ -10,7 +10,7 @@ of the bound edition—
 
 &emsp;to the Joint Committee on Printing not to exceed one hundred copies;
 
-&emsp;to the House of Representatives Publications Distribution Service, three copies foreach Representative and Resident Commissioner in Congress; and
+&emsp;to the House of Representatives Publications Distribution Service, three copies for each Representative and Resident Commissioner in Congress; and
 
 &emsp;to the Clerk and the Sergeant at Arms of the House of Representatives, each, two copies;
 
@@ -56,7 +56,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the offices of the marshal and clerk of the Supreme Court of the United States, each, two copies of the daily and one semimonthly copy;
 
-&emsp;to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Veterans Appeals, and the United States Court of Appeals for the Armed Forces, upon request to a member of Congress and notification by the Member to the Public Printer, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
+&emsp;to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to a member of Congress and notification by the Member to the Public Printer, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
 
 &emsp;to the offices of the Vice President and the Speaker of the House of Representatives, each, six copies of the daily and one semimonthly copy;
 
@@ -76,7 +76,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the offices of the Legislative Counsel of the Senate and House of Representatives, respectively, and the Architect of the Capitol, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
-&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by section 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, five semimonthly copies, and one hundred and fifty bound copies;
+&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by section 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, fivesemimonthly copies, and one hundred and fifty bound copies;
 
 &emsp;to the library of the Senate, three copies of the daily, two semimonthly copies, and not to exceed fifteen bound copies;
 
@@ -84,7 +84,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the library of the Supreme Court of the United States, two copies of the daily, two semi-monthly copies, and not to exceed five bound copies;
 
-&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Veterans Appeals, and the United States Court of Appeals for the Armed Forces, upon request to the Public Printer, one copy of the daily, one semimonthly copy, and one bound copy;
+&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to the Public Printer, one copy of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the Public Printer for official use, not to exceed seventy-five copies of the daily, ten semimonthly copies, and two bound copies;
 
@@ -116,7 +116,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 Copies of the daily edition, unless otherwise directed by the Joint Committee on Printing, shall be supplied and delivered promptly on the day after the actual day's proceedings as originally published. Each order for the daily Record shall begin with the current issue, if previous issues of the same session are not available. The apportionment specified for daily copies may not be transferred for the bound form and an allotment of daily copies not used by a Member during a session shall lapse when the session ends.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1256; Pub. L. 91–276, June 12, 1970, 84 Stat. 303; Pub. L. 92–373, Aug. 10, 1972, 86 Stat. 528; Pub. L. 93–314, §1(b), June 8, 1974, 88 Stat. 239; Pub. L. 95–94, title IV, §407(a), Aug. 5, 1977, 91 Stat. 683; Pub. L. 96–417, title VI, §601(11), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §164(2), Apr. 2, 1982, 96 Stat. 50; Pub. L. 101–510, div. A, title XV, §1533(c)(3), Nov. 5, 1990, 104 Stat. 1736; Pub. L. 102–82, §6, Aug. 6, 1991, 105 Stat. 377; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(D), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–186, title II, §223(7), Aug. 20, 1996, 110 Stat. 1751.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1256; Pub. L. 91–276, June 12, 1970, 84 Stat. 303; Pub. L. 92–373, Aug. 10, 1972, 86 Stat. 528; Pub. L. 93–314, §1(b), June 8, 1974, 88 Stat. 239; Pub. L. 95–94, title IV, §407(a), Aug. 5, 1977, 91 Stat. 683; Pub. L. 96–417, title VI, §601(11), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §164(2), Apr. 2, 1982, 96 Stat. 50; Pub. L. 101–510, div. A, title XV, §1533(c)(3), Nov. 5, 1990, 104 Stat. 1736; Pub. L. 102–82, §6, Aug. 6, 1991, 105 Stat. 377; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(D), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–186, title II, §223(7), Aug. 20, 1996, 110 Stat. 1751; Pub. L. 105–368, title V, §512(b)(1)(C), Nov. 11, 1998, 112 Stat. 3342.)
 
 #### Historical and Revision Notes
 
@@ -129,6 +129,8 @@ Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 61
 Provisions respecting National Homes for Disabled Volunteer Soldiers, referred to in text, were formerly classified to chapter 3 (section 71 et seq.) of Title 24, Hospitals and Asylums, and were repealed by Pub. L. 85–857, §14, Sept. 2, 1958, 72 Stat. 1268–1272, and Pub. L. 85–56, title XXII, §2202, June 17, 1957, 71 Stat. 162, 164, 166.
 
 #### Amendments
+
+1998—Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” in two places.
 
 1996—Pub. L. 104–186 substituted “to the Clerk and the Sergeant at Arms” for “to the Clerk, Sergeant at Arms, and Doorkeeper” in three places, “to the Clerk for use on the floor” for “to the Doorkeeper for use on the floor”, and “and to the Secretaries to the Majority and the Minority of the Senate” for “to the Secretaries to the Majority and the Minority of the Senate, and to the Doorkeeper of the House of Representatives”.
 
@@ -151,6 +153,10 @@ Provisions respecting National Homes for Disabled Volunteer Soldiers, referred t
 1972—Pub. L. 92–373 provided for the furnishing of one copy of the daily, one semimonthly copy of the Congressional Record to the United States Court of Appeals library and certain other libraries.
 
 1970—Pub. L. 91–276 substituted provision authorizing the Public Printer to furnish the daily Congressional Record to subscribers at a price based upon cost of printing and distribution for prior subscription price of $1.50 per month.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1992 Amendment
 

@@ -10,7 +10,7 @@ The Senate Committee on Rules and Administration shall promulgate regulations—
 
 #### (b) Withholding of fees from salary
 
-The Secretary of the Senate is authorized to withhold fees from the salary of an individual authorized by such regulations to receive such services from the Attending Physician and to use the Senate health and fitness facilities.
+The Secretary of the Senate is authorized to withhold fees from the salary of an individual authorized by such regulations to receive suchservices from the Attending Physician and to use the Senate health and fitness facilities.
 
 #### (c) Deposit in General Fund
 

@@ -1,4 +1,4 @@
-### §401. Definitions.
+### §401. Definitions
 
 (a)
 

@@ -2,7 +2,7 @@
 
 #### (a) Agreements
 
-Whenever the head of any Federal agency performing any foreign affairs functions (including, but not limited to, the Department of State, the United States Information Agency, the Agency for International Development, and the Arms Control and Disarmament Agency) determines that administrative services performed in common by the Department of State and one or more other such agencies may be performed more advantageously and more economically on a consolidated basis, the Secretary of State and the heads of the other agencies concerned may, subject to the approval of the Director of the Office of Management and Budget, conclude an agreement which provides for the transfer to and consolidation within the Department or within one of the other agencies concerned of so much of the functions, personnel, property, records, and funds of the Department and of the other agencies concerned as may be necessary to enable the performance of those administrative services on a consolidated basis for the benefit of all agencies concerned. Agreements for consolidation of administrative services under this section shall provide for reimbursement or advances of funds from the agency receiving the service to the agency performing the service in amounts which will approximate the expense of providing administrative services for the serviced agency.
+Whenever the head of any Federal agency performing any foreign affairs functions (including, but not limited to, the Department of State, the Broadcasting Board of Governors, and the Agency for International Development) determines that administrative services performed in common by the Department of State and one or more other such agencies may be performed more advantageously and more economically on a consolidated basis, the Secretary of State and the heads of the other agencies concerned may, subject to the approval of the Director of the Office of Management and Budget, conclude an agreement which provides for the transfer to and consolidation within the Department or within one of the other agencies concerned of so much of the functions, personnel, property, records, and funds of the Department and of the other agencies concerned as may be necessary to enable the performance of those administrative services on a consolidated basis for the benefit of all agencies concerned. Agreements for consolidation of administrative services under this section shall provide for reimbursement or advances of funds from the agency receiving the service to the agency performing the service in amounts which will approximate the expense of providing administrative services for the serviced agency.
 
 #### (b) Payment
 
@@ -12,15 +12,21 @@ Whenever the head of any Federal agency performing any foreign affairs functions
 
 (3) The Secretary of State may waive the requirement for suspension or termination under paragraph (2) with respect to such services as the Secretary determines are necessary to ensure the protection of life and the safety of United States Government property. A waiver may be issued for a period not to exceed one year and may be renewed.
 
-(Aug. 1, 1956, ch. 841, title I, §23, as added Pub. L. 95–426, title I, §111(a), Oct. 7, 1978, 92 Stat. 967; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 102–138, title I, §118, Oct. 28, 1991, 105 Stat. 657.)
+(Aug. 1, 1956, ch. 841, title I, §23, as added Pub. L. 95–426, title I, §111(a), Oct. 7, 1978, 92 Stat. 967; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96Stat. 282, 291; Pub. L. 102–138, title I, §118, Oct. 28, 1991, 105 Stat. 657; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(f), title XIII, §1335(<i>l</i>)(1), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789.)
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–277, §1335(<i>l</i>)(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+
+Pub. L. 105–277, §1225(f), substituted “and the Agency for International Development” for “the Agency for International Development, and the Arms Control and Disarmament Agency”.
+
 1991—Pub. L. 102–138 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
-#### Change of Name
+#### Effective Date of 1998 Amendment
 
-“United States Information Agency” substituted in subsec. (a) for “International Communication Agency” pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
+Amendment by section 1225(f) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
+Amendment by section 1335(<i>l</i>)(1) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Effective Date
 

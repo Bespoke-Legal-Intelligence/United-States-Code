@@ -12,7 +12,7 @@ Section, which formerly was not a part of the Federal Food, Drug, and Cosmetic A
 
 #### Prior Provisions
 
-A prior section 376, act June 25, 1938, ch. 675, §706, 52 Stat. 1058, as amended, which related to listing and certification of color additives for foods, drugs, devices, and cosmetics, was renumbered section 721 of act June 25, 1938, by Pub. L. 102–571, title I, §106(4), Oct. 29, 1992, 106 Stat. 4498, and transferred to section 379e of this title.
+A prior section 376, act June 25, 1938, ch. 675, §706, 52 Stat. 1058, as amended, which related to listing and certification of color additives for foods, drugs, devices,and cosmetics, was renumbered section 721 of act June 25, 1938, by Pub. L. 102–571, title I, §106(4), Oct. 29, 1992, 106 Stat. 4498, and transferred to section 379e of this title.
 
 #### Amendments
 

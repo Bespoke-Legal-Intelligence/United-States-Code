@@ -8,7 +8,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (1) In general
 
-&emsp;A State or local educational agency shall use funds received under this part only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the education of pupils participating in programs assisted under this part, and not to supplant such funds.
+&emsp;A State or local educational agency shall use funds received under this part only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for theeducation of pupils participating in programs assisted under this part, and not to supplant such funds.
 
 #### (2) Special rule
 

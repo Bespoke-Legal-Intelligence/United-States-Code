@@ -6,19 +6,29 @@
 
 (2) The Secretary shall reserve 13 percent of the amount appropriated for each fiscal year for use in accordance with the following order of priorities—
 
-&emsp;(A) Indian and migrant Head Start programs and services for handicapped children, except that there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1994;
+&emsp;(A) Indian Head Start programs, services for children with disabilities, and migrant and seasonal Head Start programs, except that there shall be made available for each fiscal year for use by Indian Head Start programs and by migrant and seasonal Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian Head Start programs and by migrant and seasonal Head Start programs for fiscal year 1998;
 
-&emsp;(B) payments to Guam, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands according to their respective needs, except that such amount shall not exceed one-half of 1 percent of the sums appropriated for any fiscal year;
+&emsp;(B) payments, subject to paragraph (7)—
 
-&emsp;(C) training and technical assistance activities which are sufficient to meet the needs associated with program expansion and to foster program and management improvement activities as described in section 9843 of this title, in an amount for each fiscal year which is not less than 2 percent of the amount appropriated for such fiscal year; and
+&emsp;&emsp;(i) to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands of the United States;
 
-&emsp;(D) discretionary payments made by the Secretary (including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title).
+&emsp;&emsp;(ii) for fiscal years ending before October 1, 2001, to the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau; and
 
-> No funds reserved under this paragraph or paragraph (3) may be combined with funds appropriated under any other Act if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this subchapter are separately identified in such grant or payment and are used for the purposes of this subchapter.
+&emsp;&emsp;(iii) if legislation approving renegotiated Compacts of Free Association for the jurisdictions described in clause (ii) has not been enacted before September 30, 2001, for fiscal year 2002 to those jurisdictions;
+
+> &emsp;according to their respective needs, except that such amount shall not exceed one-half of 1 percent of the sums appropriated for any fiscal year;
+
+&emsp;(C) training and technical assistance activities which are sufficient to meet the needs associated with program expansion and to foster program and management improvement activities as described in section 9843 of this title, in an amount for each fiscal year which is not less than 2 percent of the amount appropriated for such fiscal year, of which not less than $3,000,000 of the amount appropriated for such fiscal year shall be made available to carry out activities described in section 9843(c)(4) of this title;
+
+&emsp;(D) discretionary payments made by the Secretary (including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities carried out under paragraph (1),\(2), or (3) of section 9836a(d) of this title related to correcting deficiencies and conducting proceedings to terminate the designation of Head Start agencies; <sup>1</sup> and
+
+&emsp;(E) payments for research, demonstration, and evaluation activities under section 9844 of this title.
+
+> No funds reserved under this paragraph or paragraph (3) may be combined with funds appropriated under any other Act if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this subchapter are separately identified in such grant or payment and are used for the purposes of this subchapter. No Freely Associated State may receive financial assistance under this subchapter after fiscal year 2002.
 
 (3)(A)(i) In order to provide assistance for activities specified in subparagraph (C) directed at the goals specified in subparagraph (B), the Secretary shall reserve, from the amount (if any) by which the funds appropriated under section 9834(a) of this title for a fiscal year exceed the adjusted prior year appropriation, a share equal to the sum of—
 
-&emsp;(I) 25 percent of such excess amount; and
+&emsp;(I) 60 percent of such excess amount for fiscal year 1999, 50 percent of such excess amount for fiscal year 2000, 47.5 percent of such excess amount for fiscal year 2001, 35 percent of such excess amount for fiscal year 2002, and 25 percent of such excess amount for fiscal year 2003; and
 
 &emsp;(II) any additional amount the Secretary may find necessary to address a demonstrated need for such activities.
 
@@ -28,41 +38,51 @@
 
 &emsp;(i) Ensuring that Head Start programs meet or exceed performance standards pursuant to section 9836a(a)(1)(A) of this title.
 
-&emsp;(ii) Ensuring that such programs have adequate qualified staff, and that such staff are furnished adequate training, including developing skills in working with children with non-English language background, when appropriate.
+&emsp;(ii) Ensuring that such programs have adequate numbers of qualified staff, and that such staff are furnished adequate training, including developing skills in working with children with non-English language background and children with disabilities, when appropriate.
 
 &emsp;(iii) Ensuring that salary levels and benefits are adequate to attract and retain qualified staff for such programs.
 
-&emsp;(iv) Using salary increases to improve staff qualifications, and to assist with the implementation of career development programs, for the staff of Head Start programs.
+&emsp;(iv) Using salary increases to improve staff qualifications, and to assist with the implementation of career development programs, for the staff of Head Start programs, and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development.
 
-&emsp;(v) Improving community-wide strategic planning and needs assessments for such programs.
+&emsp;(v) Improving community-wide strategic planning and needs assessments for such programs and collaboration efforts for such programs.
 
-&emsp;(vi) Ensuring that the physical environments of Head Start programs are conducive to providing effective program services to children and families.
+&emsp;(vi) Ensuring that the physical environments of Head Start programs are conducive to providing effective program services to children and families, and are accessible to children with disabilities and their parents.
 
-&emsp;(vii) Making such other improvements in the quality of such programs as the Secretary may designate.
+&emsp;(vii) Ensuring that such programs have qualified staff that can promote language skills and literacy growth of children and that can provide children with a variety of skills that have been identified, through scientifically based reading research, as predictive of later reading achievement.
+
+&emsp;(viii) Making such other improvements in the quality of such programs as the Secretary may designate.
 
 (C) Quality improvement funds shall be used to carry out any or all of the following activities:
 
-&emsp;(i)(I) Not less than one-half of the amount reserved under this subparagraph, to improve the compensation (including benefits) of staff of Head Start agencies and thereby enhance recruitment and retention of such staff. The expenditure of funds under this clause shall be subject to section 9848 of this title.
+&emsp;(i)(I) Not less than one-half of the amount reserved under this paragraph, to improve the compensation (including benefits) of classroom teachers and other staff of Head Start agencies and thereby enhance recruitment and retention of qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title. The expenditure of funds under this clause shall be subject to section 9848 of this title. Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.
 
-&emsp;(II) If a Head Start agency certifies to the Secretary for such fiscal year that part of the funds set aside under subclause (I) to improve wages cannot be expended by such agency to improve wages because of the operation of section 9848 of this title, then such agency may expend such part for any of the uses specified in the subparagraph (other than wages).
+&emsp;(II) If a Head Start agency certifies to the Secretary for such fiscal year that part of the funds set aside under subclause (I) to improve wages cannot be expended by such agency to improve wages because of the operation of section 9848 of this title, then such agency may expend such part for any of the uses specified in this subparagraph (other than wages).
 
-&emsp;(ii) To pay transportation costs incurred by Head Start agencies to enable eligible children to participate in a Head Start program.
+&emsp;(III) From the remainder of the amount reserved under this paragraph (after the Secretary carries out subclause (I)), the Secretary shall carry out any or all of the activities described in clauses (ii) through (vii), placing the highest priority on the activities described in clause (ii).
+
+&emsp;(ii) To train classroom teachers and other staff to meet the education performance standards described in section 9836a(a)(1)(B) of this title, through activities—
+
+&emsp;&emsp;(I) to promote children's language and literacy growth, through techniques identified through scientifically based reading research;
+
+&emsp;&emsp;(II) to promote the acquisition of the English language for non-English background children and families;
+
+&emsp;&emsp;(III) to foster children's school readiness skills through activities described in section 9843a(a)(1) of this title; and
+
+&emsp;&emsp;(IV) to provide training necessary to improve the qualifications of the staff of theHead Start agencies and to support staff training, child counseling, and other services necessary to address the problems of children participating in Head Start programs, including children from dysfunctional families, children who experience chronic violence in their communities, and children who experience substance abuse in their families.
 
 &emsp;(iii) To employ additional Head Start staff, including staff necessary to reduce the child-staff ratio and staff necessary to coordinate a Head Start program with other services available to children participating in such program and to their families.
 
 &emsp;(iv) To pay costs incurred by Head Start agencies to purchase insurance (other than employee benefits) and thereby maintain or expand Head Start services.
 
-&emsp;(v) To make nonstructural and minor structural changes, and to acquire and install equipment, for the purpose of improving facilities necessary to expand the availability, or enhance the quality, of Head Start programs.
+&emsp;(v) To supplement amounts provided under paragraph (2)(C) to provide training necessary to improve the qualifications of the staff of the Head Start agencies, and to support staff training, child counseling, and other services necessary to address the problems of children participating in Head Start programs, including children from dysfunctional families, children who experience chronic violence in their communities, and children who experience substance abuse in their families.
 
-&emsp;(vi) To supplement amounts provided under paragraph (2)(C) to provide training necessaryto improve the qualifications of the staff of the Head Start agencies, and to support staff training, child counseling, and other services necessary to address the problems of children participating in Head Start programs, including children from dysfunctional families, children who experience chronic violence in their communities, and children who experience substance abuse in their families.
-
-&emsp;(vii) Such other activities as the Secretary may designate.
+&emsp;(vi) Such other activities as the Secretary may designate.
 
 (D)(i) Funds reserved under subparagraph (A) shall be allotted by the Secretary as follows:
 
 &emsp;(I) 80 percent of such funds shall be allotted among the States in the same proportion as the Secretary allots funds among the States under paragraph (4) for the respective fiscal year.
 
-&emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian and migrant Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
+&emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian Head Start programs and migrant and seasonal Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
 
 (ii) Funds allotted under clause (i) shall be used by the Secretary to make grants to Head Start agencies that receive grants from funds allotted under paragraph (4) for such fiscal year, in such amounts as the Secretary considers to be appropriate, for expenditure for activities specified in subparagraph (C).
 
@@ -70,35 +90,73 @@
 
 (4) Subject to section 9834(b) of this title, the Secretary shall allot the remaining amounts appropriated in each fiscal year among the States, in accordance with latest satisfactory data so that—
 
-&emsp;(A) each State receives an amount which is equal to the amount the State received for fiscal year 1981; and
+&emsp;(A) each State receives an amount which is equal to the amount the State received for fiscal year 1998; and
 
-&emsp;(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in each State as compared to all States; and
+&emsp;(B) any amount available after all allotments are made under subparagraph (A) for such fiscal year shall be distributed proportionately on the basis of the number of children less than 5 years of age from families whose income is below the poverty line.
 
-&emsp;(ii) 662/3 percent of such amount shall be distributed on the basis of the relative number of children from birth through 5 years of age living with families with incomes below the poverty line in each State as compared to all States.
+> For purposes of this paragraph, for each fiscal year the Secretary shall use the most recent data available on the number of children less than 5 years of age from families whose income is below the poverty line, as published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that use of the most recent data available would be inappropriate or unreliable. If the Secretary and the Secretary of Commerce determine that some or all of the data referred to in this paragraph are inappropriate or unreliable, the Secretaries shall issue a report setting forth their reasons in detail.
 
-(5)(A) From amounts reserved and allotted pursuant to paragraph (4), the Secretary shall reserve such sums as may be necessary to award the collaboration grants described in subparagraph (B).
+(5)(A) From amounts reserved and allotted pursuant to paragraph (4), the Secretary shall reserve such sums as may be necessary to award the collaboration grants described in subparagraphs (B) and (D).
 
-(B) From the reserved sums, the Secretary may award a collaboration grant to each State to facilitate collaboration regarding activities carried out in the State under this subchapter, and other activities carried out in, and by, the State that are designed to benefit low-income children and families.
+(B) From the reserved sums, the Secretary may award a collaboration grant to each State to facilitate collaboration regarding activities carried out in the State under this subchapter, and other activities carried out in, and by, the State that are designed to benefit low-income children and families and to encourage Head Start agencies to collaborate with entities involved in State and local planning processes (including the State lead agency administering the financial assistance received under subchapter II–B of this chapter and the entities providing resource and referral services in the State) in order to better meet the needs of low-income children and families.
 
 (C) A State that receives a grant under subparagraph (B) shall—
 
 &emsp;(i) appoint an individual to serve as a State liaison between—
 
-&emsp;&emsp;(I) agencies and individuals carrying out Head Start programs in the State; and
+&emsp;&emsp;(I) the appropriate regional office of the Administration for Children and Families and agencies and individuals carrying out Head Start programs in the State; and
 
 &emsp;&emsp;(II) agencies (including local educational agencies) and entities carrying out programs serving low-income children and families;
 
 &emsp;(ii) involve the State Head Start Association in the selection of the individual, and involve the association in determinations relating to the ongoing direction of the collaboration;
 
-&emsp;(iii) ensure that the individual holds a position with sufficient authority and access to ensure that the collaboration described in subparagraph (B) is effective and involves a range of State agencies; and
+&emsp;(iii) ensure that the individual holds a position with sufficient authority and access to ensure that the collaboration described in subparagraph (B) is effective and involves a range of State agencies;
 
-&emsp;(iv) ensure that the collaboration described in subparagraph (B) involves coordination of Head Start services with health care, welfare, child care, education, and national service activities, family literacy services, and activities relating to children with disabilities.
+&emsp;(iv) ensure that the collaboration described in subparagraph (B) involves coordination of Head Start services with health care, welfare, child care, education, and community service activities, family literacy services, activities relating to children with disabilities (including coordination of services with those State officials who are responsible for administering part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419)), and services for homeless children;
 
-(D) As used in this paragraph, the term “low-income”, used with respect to children or families, shall not be considered to refer only to children or families that meet the low-income criteria prescribed pursuant to section 9840(a)(1)(A) of this title.
+&emsp;(v) include representatives of the State Head Start Association and local Head Start agencies in unified planning regarding early care and education services at both the State and local levels, including collaborative efforts to plan for the provision of full-working-day, fullcalendar year early care and education services for children; and
 
-(6) From amounts reserved and allotted pursuant to paragraphs (2) and (4), the Secretary shall use, for grants for programs described in section 9840a(a) of this title, a portion of the combined total of such amounts equal to 3 percent for fiscal year 1995, 4 percent for each of fiscal years 1996 and 1997, and 5 percent for fiscal year 1998, of the amount appropriated pursuant to section 9834(a) of this title.
+&emsp;(vi) encourage local Head Start agencies to appoint a State level representative to represent Head Start agencies within the State in conducting collaborative efforts described in subparagraphs (B) and (D), and in clause (v).
 
-(7) For purposes of this subsection, the term “State” does not include Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and Palau.
+(D) Following the award of collaboration grants described in subparagraph (B), the Secretary shall provide, from the reserved sums, supplemental funding for collaboration grants—
+
+&emsp;(i) to States that (in consultation with their State Head Start Associations) develop statewide, regional, or local unified plans for early childhood education and child care that include the participation of Head Start agencies; and
+
+&emsp;(ii) to States that engage in other innovative collaborative initiatives, including plans for collaborative training and professional development initiatives for child care, early childhood education and Head Start service managers, providers, and staff.
+
+(E)(i) The Secretary shall—
+
+&emsp;(I) review on an ongoing basis evidence of barriers to effective collaboration between Head Start programs and other Federal, State, and local child care and early childhood education programs and resources;
+
+&emsp;(II) develop initiatives, including providing additional training and technical assistance and making regulatory changes, in necessary cases, to eliminate barriers to the collaboration; and
+
+&emsp;(III) develop a mechanism to resolve administrative and programmatic conflicts between programs described in subclause (I) that would be a barrier to service providers, parents, or children related to the provision of unified services and the consolidation of funding for child care services.
+
+(ii) In the case of a collaborative activity funded under this subchapter and another provision of law providing for Federal child care or early childhood education, the use of equipment and nonconsumable supplies purchased with funds made available under this subchapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under that subchapter or provision, during a period in which the activity is predominantly funded under this subchapter or such provision.
+
+(F) As used in this paragraph, the term “low-income”, used with respect to children or families, shall not be considered to refer only to children or families that meet the low-income criteria prescribed pursuant to section 9840(a)(1)(A) of this title.
+
+(6)(A) From amounts reserved and allotted pursuant to paragraphs (2) and (4), the Secretary shall use, for grants for programs described in section 9840a(a) of this title, a portion of the combined total of such amounts equal to 7.5 percent for fiscal year 1999, 8 percent for fiscal year 2000, 9 percent for fiscal year 2001, 10 percent for fiscal year 2002, and 10 percent for fiscal year 2003, of the amount appropriated pursuant to section 9834(a) of this title, except as provided in subparagraph (B).
+
+(B)(i) If the Secretary does not submit an interim report on the preliminary findings of the Early Head Start impact study currently being conducted by the Secretary (as of October 27, 1998) to the appropriate committees by June 1, 2001, the amount of the reserved portion for fiscal year 2002 that exceeds the reserved portion for fiscal year 2001, if any, shall be used for quality improvement activities described in subsection (a)(3) of this section and shall not be used to serve an increased number of eligible children under section 9840a of this title.
+
+(ii) If the Secretary does not submit a final report on the Early Head Start impact study to the appropriate committees by June 1, 2002, or if the Secretary finds in the report that there are substantial deficiencies in the programs carried out under section 9840a of this title, the amount of the reserved portion for fiscal year 2003 that exceeds the reserved portion for fiscal year 2002, if any, shall be used for quality improvement activities described in subsection (a)(3) of this section and shall not be used to serve an increased number of eligible children under section 9840a of this title.
+
+(iii) In this subparagraph:
+
+&emsp;(I) The term “appropriate committees” means the Committee on Education and the Workforce and the Committee on Appropriations of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Appropriations of the Senate.
+
+&emsp;(II) The term “reserved portion”, used with respect to a fiscal year, means the amount required to be used in accordance with subparagraph (A) for that fiscal year.
+
+(C)(i) For any fiscal year for which the Secretary determines that the amount appropriated under section 9834(a) of this title is not sufficient to permit the Secretary to reserve the portion described in subparagraph (A) without reducing the number of children served by Head Start programs or adversely affecting the quality of Head Start services, relative to the number of children served and the quality of the services during the preceding fiscal year, the Secretary may reduce the percentage of funds required to be reserved for the portion described in subparagraph (A) for the fiscal year for which the determination is made, but not below the percentage required to be so reserved for the preceding fiscal year.
+
+(ii) For any fiscal year for which the amount appropriated under section 9834(a) of this title is reduced to a level that requires a lower amount to be made available under this subchapter to Head Start agencies and entities described in section 9840a of this title, relative to the amount made available to the agencies and entities for the preceding fiscal year, adjusted as described in paragraph (3)(A)(ii), the Secretary shall proportionately reduce—
+
+&emsp;(I) the amounts made available to the entities for programs carried out under section 9840a of this title; and
+
+&emsp;(II) the amounts made available to Head Start agencies for Head Start programs.
+
+(7) For purposes of this subsection, the term “State” does not include Guam, AmericanSamoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, and Palau.
 
 #### (b) Federal share
 
@@ -122,7 +180,7 @@ No programs shall be approved for assistance under this subchapter unless the Se
 
 #### (d) Enrollment of children with disabilities and provision of services
 
-The Secretary shall establish policies and procedures designed to assure that for fiscal year 1982 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities (as defined in section 1401(a)(1) <sup>1</sup> of title 20) and that services shall be provided to meet their special needs.
+The Secretary shall establish policies and procedures designed to assure that for fiscal year 1999 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities and that services shall be provided to meet their special needs. Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419).
 
 #### (e) Distribution of benefits between residents of rural and urban areas
 
@@ -138,19 +196,25 @@ The Secretary shall establish procedures to enable Head Start agencies to develo
 
 (2) For the purpose of expanding Head Start programs, in allocating funds to an applicant within a State, from amounts allotted to a State pursuant to subsection (a)(4) of this section, the Secretary shall take into consideration—
 
-&emsp;(A) the quality of the applicant's programs (including Head Start and other child care or child development programs) in existence on the date of the allocation, including, in the case of Head Start programs in existence on the date of the allocation, the extent to which such programs meet or exceed performance standards and other requirements under this subchapter;
+&emsp;(A) the quality of the applicant's programs (including Head Start and other child care or child development programs) in existence on the date of the allocation, including, in the case of Head Start programs in existence on the date of the allocation, the extent to which such programs meet or exceed performance standards and other requirements under this subchapter, and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter);
 
 &emsp;(B) the applicant's capacity to expand services (including, in the case of Head Start programs in existence on the date of the allocation, whether the applicant accomplished any prior expansions in an effective and timely manner);
 
-&emsp;(C) the extent to which the applicant has undertaken community-wide strategic planning and needs assessments involving other community organizations and public agencies serving children and families (including organizations serving families in whose homes English is not the language customarily spoken);
+&emsp;(C) the extent to which the applicant has undertaken community-wide strategic planning and needs assessments involving other community organizations and public agencies serving children and families (including organizations serving families in whose homes English is not the language customarily spoken), and organizations and public entities serving children with disabilities;
 
-&emsp;(D) the extent to which the family and community needs assessment of the applicant reflects a need to provide full-working-day or full calendar year services;
+&emsp;(D) the extent to which the family and community needs assessment of the applicant reflects a need to provide full-working-day or full calendar year services and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services;
 
-&emsp;(E) the numbers of eligible children in each community who are not participating in a Head Start program; and
+&emsp;(E) the numbers of eligible children in each community who are not participating in a Head Start program or any other early childhood program;
 
-&emsp;(F) the concentration of low-income families in each community.
+&emsp;(F) the concentration of low-income families in each community;
+
+&emsp;(G) the extent to which the applicant proposes to foster partnerships with other service providers in a manner that will enhance the resource capacity of the applicant; and
+
+&emsp;(H) the extent to which the applicant, in providing services, plans to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency.
 
 (3) In determining the amount of funds reserved pursuant to subparagraph (A) or (B) of subsection (a)(2) of this section to be used for expanding Head Start programs under this subchapter, the Secretary shall take into consideration, to the extent appropriate, the factors specified in paragraph (2).
+
+(4) Notwithstanding subsection (a)(2) of this section, after taking into account paragraph (1), the Secretary may allocate a portion of the remaining additional funds under subsection (a)(2)(A) of this section for the purpose of increasing funds available for activities described in such subsection.
 
 #### (h) Full-working-day services
 
@@ -162,7 +226,7 @@ The Secretary shall issue regulations establishing requirements for the safety f
 
 #### (j) Compensation of staff
 
-Any agency that receives financial assistance under this subchapter to improve the compensation of staff who provide services under this subchapter <sup>1</sup> shall use the financial assistance to improve the compensation of such staff, regardless of whether the agency has the ability to improve the compensation of staff employed by the agency who do not provide Head Start services.
+Any agency that receives financial assistance under this subchapter to improve the compensation of staff who provide services under this subchapter<sup>2</sup> shall use the financial assistance to improve the compensation of such staff, regardless of whether the agency has the ability to improve the compensation of staff employed by the agency who do not provide Head Start services.
 
 #### (k) Flexibility in hours of service requirement
 
@@ -178,19 +242,101 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 #### (<i>l</i>) Frequent relocation of migrant families
 
-With funds made available under subsection (a)(2) of this section to migrant Head Start programs, the Secretary shall give priority to migrant Head Start programs that serve eligible children of migrant families whose work requires them to relocate most frequently.
+(1) With funds made available under subsection (a)(2) of this section to migrant and seasonal Head Start programs, the Secretary shall give priority to migrant and seasonal Head Start programs that serve eligible children of migrant and seasonal farmworker families whose work requires them to relocate most frequently.
 
-(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175.)
+(2) For purposes of subsection (a)(2)(A) of this section, in determining the need and demand for migrant and seasonal Head Start programs (and services provided through such programs), the Secretary shall consult with appropriate entities, including providers of services for migrant and seasonal Head Start programs. The Secretary shall, after taking into consideration the need and demand for migrant and seasonal Head Start programs (and such services), ensure that there is an adequate level of such services for eligible children of migrant farmworkers before approving an increase in the allocation of funds provided under such subsection for unserved eligible children of seasonal farmworkers. In serving the eligible children of seasonal farmworkers, the Secretary shall ensure that services provided by migrant and seasonal Head Start programs do not duplicate or overlap with other Head Start services available to eligible children of such farmworkers.
+
+(3) In carrying out this subchapter, the Secretary shall continue the administrative arrangement responsible for meeting the needs of children of migrant and seasonal farmworkers and Indian children and shall ensure that appropriate funding is provided to meet such needs.
+
+(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(4)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
-
-Section 1401(a)(1) of title 20, referred to in subsec. (d), was in the original a reference to section 602(a)(1) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of Title 20, Education, by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of Title 20, and which contains provisions defining “child with a disability”.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(5)(C)(iv) and (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 This subchapter, referred to in subsec. (j), was in the original “this Act” and was translated as reading “this subchapter”, meaning subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–285, §106(a)(1)(F), inserted at end of concluding provisions “No Freely Associated State may receive financial assistance under this subchapter after fiscal year 2002.”
+
+Subsec. (a)(2)(A). Pub. L. 105–285, §106(a)(1)(A), substituted “Head Start programs, services for children with disabilities, and migrant and seasonal Head Start programs” for “and migrant Head Start programs and services for handicapped children”, “Head Start programs and by migrant and seasonal” for “and migrant” before “Head Start programs” in two places, and “1998” for “1994”.
+
+Subsec. (a)(2)(B). Pub. L. 105–285, §106(a)(1)(B), substituted “(B) payments, subject to paragraph (7)—”, cls. (i) to (iii), and “according” for “(B) payments to Guam, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands according”.
+
+Subsec. (a)(2)(C). Pub. L. 105–285, §106(a)(1)(C), substituted “, of which not less than $3,000,000 of the amount appropriated for such fiscal year shall be made available to carry out activities described in section 9843(c)(4) of this title;” for “; and”.
+
+Subsec. (a)(2)(D). Pub. L. 105–285, §106(a)(1)(D), which directed substitution of “carried out under paragraph (1), (2), or (3) of section 9836a(d) of this title related to correcting deficiencies and conducting proceedings to terminate the designation of Head Start agencies; and” for “related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title.”, was executed by making the substitution for “related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title).”
+
+Subsec. (a)(2)(E). Pub. L. 105–285, §106(a)(1)(E), added subpar. (E).
+
+Subsec. (a)(3)(A)(i)(I). Pub. L. 105–285, §106(a)(2)(A), substituted “60 percent of such excess amount for fiscal year 1999, 50 percent of such excess amount for fiscal year 2000, 47.5 percent of such excess amount for fiscal year 2001, 35 percent of such excess amount for fiscal year 2002, and 25 percent of such excess amount for fiscal year 2003;” for “25 percent of such excess amount;”.
+
+Subsec. (a)(3)(B)(ii). Pub. L. 105–285, §106(a)(2)(B)(i), substituted “adequate numbers of qualified staff” for “adequate qualified staff” and inserted “and children with disabilities” before “, when appropriate”.
+
+Subsec. (a)(3)(B)(iv). Pub. L. 105–285, §106(a)(2)(B)(ii), inserted before period at end “, and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development”.
+
+Subsec. (a)(3)(B)(v). Pub. L. 105–285, §106(a)(2)(B)(iii), inserted “and collaboration efforts for such programs” before period at end.
+
+Subsec. (a)(3)(B)(vi). Pub. L. 105–285, §106(a)(2)(B)(iv), inserted before period at end “, and are accessible to children with disabilities and their parents”.
+
+Subsec. (a)(3)(B)(vii), (viii). Pub. L. 105–285, §106(a)(2)(B)(v), (vi), added cl. (vii) and redesignated former cl. (vii) as (viii).
+
+Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and other staff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
+
+Subsec. (a)(3)(C)(i)(II). Pub. L. 105–285, §106(a)(2)(C)(i)(II), substituted “this subparagraph” for “the subparagraph”.
+
+Subsec. (a)(3)(C)(i)(III). Pub. L. 105–285, §106(a)(2)(C)(i)(III), added subcl. (III).
+
+Subsec. (a)(3)(C)(ii). Pub. L. 105–285, §106(a)(2)(C)(ii), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “To pay transportation costs incurred by Head Start agencies to enable eligible children to participate in a Head Start program.”
+
+Subsec. (a)(3)(C)(v) to (vii). Pub. L. 105–285, §106(a)(2)(C)(iii), (iv), redesignated cls. (vi) and (vii) as (v) and (vi), respectively, and struck out former cl. (v) which read as follows: “To make nonstructural and minor structural changes, and to acquire and install equipment, for the purpose of improving facilities necessary to expand the availability, or enhance the quality, of Head Start programs.”
+
+Subsec. (a)(3)(D)(i)(II). Pub. L. 105–285, §106(a)(2)(D), substituted “Head Start programs and migrant and seasonal” for “and migrant”.
+
+Subsec. (a)(4). Pub. L. 105–285, §106(a)(3)(C), inserted concluding provisions.
+
+Subsec. (a)(4)(A). Pub. L. 105–285, §106(a)(3)(A), substituted “1998” for “1981”.
+
+Subsec. (a)(4)(B). Pub. L. 105–285, §106(a)(3)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+“(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
+
+“(ii) 662/3 percent of such amount shall be distributed on the basis of the relative number of children from birth through 5 years of age living with families with incomes below the poverty line in each State as compared to all States.”
+
+Subsec. (a)(5)(A). Pub. L. 105–285, §106(a)(4)(A), substituted “subparagraphs (B) and (D)” for “subparagraph (B)”.
+
+Subsec. (a)(5)(B). Pub. L. 105–285, §106(a)(4)(B), inserted before period at end “and to encourage Head Start agencies to collaborate with entities involved in State and local planning processes (including the State lead agency administering the financial assistance received under subchapter II–B of this chapter and the entities providing resource and referral services in the State) in order to better meet the needs of low-income children and families”.
+
+Subsec. (a)(5)(C)(i)(I). Pub. L. 105–285, §106(a)(4)(C)(i), inserted “the appropriate regional office of the Administration for Children and Families and” before “agencies”.
+
+Subsec. (a)(5)(C)(iii). Pub. L. 105–285, §106(a)(4)(C)(ii), struck out “and” at end.
+
+Subsec. (a)(5)(C)(iv). Pub. L. 105–285, §106(a)(4)(C)(iii), substituted “education, and community service activities,” for “education, and national service activities,”, “activities” for “and activities” before “relating to children with disabilities”, and “(including coordination of services with those State officials who are responsible for administering part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419)), and services for homeless children;” for period at end.
+
+Subsec. (a)(5)(C)(v), (vi). Pub. L. 105–285, §106(a)(4)(C)(iv), added cls. (v) and (vi).
+
+Subsec. (a)(5)(D) to (F). Pub. L. 105–285, §106(a)(4)(D), (E), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+
+Subsec. (a)(6). Pub. L. 105–285, §106(a)(5), designated existing provisions as subpar. (A), substituted “7.5 percent for fiscal year 1999, 8 percent for fiscal year 2000, 9 percent for fiscal year 2001, 10 percent for fiscal year 2002, and 10 percent for fiscal year 2003, of the amount appropriated pursuant to section 9834(a) of this title, except as provided in subparagraph (B).” for “3 percent for fiscal year 1995, 4 percent for each of fiscal years 1996 and 1997, and 5 percent for fiscal year 1998, of the amount appropriated pursuant to section 9834(a) of this title.”, and added subpars. (B) and (C).
+
+Subsec. (d). Pub. L. 105–285, §106(b)(2), which directed striking out “(as defined in section 1401(a) of title 20)”,was executed by striking out “(as defined in section 1401(a)(1) of title 20)” after “children with disabilities” to reflect the probable intent of Congress.
+
+Pub. L. 105–285, §106(b)(1), (3), substituted “1999” for “1982” and inserted at end “Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419).”.
+
+Subsec. (g)(2)(A). Pub. L. 105–285, §106(c)(1)(A), inserted before semicolon at end “, and the performance history of the applicant in providing services under other Federal programs (other than the program carried out under this subchapter)”.
+
+Subsec. (g)(2)(C). Pub. L. 105–285, §106(c)(1)(B), inserted “, and organizations and public entities serving children with disabilities” before semicolon at end.
+
+Subsec. (g)(2)(D). Pub. L. 105–285, §106(c)(1)(C), inserted before semicolon at end “and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services”.
+
+Subsec. (g)(2)(E). Pub. L. 105–285, §106(c)(1)(D), substituted “program or any other early childhood program;” for “program; and”.
+
+Subsec. (g)(2)(G), (H). Pub. L. 105–285, §106(c)(1)(E), (F), added subpars. (G) and (H).
+
+Subsec. (g)(4). Pub. L. 105–285, §106(c)(2), added par. (4).
+
+Subsec. (<i>l</i>). Pub. L. 105–285, §106(d), designated existing provisions as par. (1), substituted “migrant and seasonal Head Start programs” for “migrant Head Start programs” in two places and “migrant and seasonal farmworker families” for “migrant families”, and added pars. (2) and (3).
 
 1996—Subsec. (a)(4)(B)(i). Pub. L. 104–193 substituted “State program of assistance funded” for “program of aid to families with dependent children under a State plan approved”.
 
@@ -310,7 +456,7 @@ Effective Dates.—(1) Except as provided in paragraph (2) and subsection (b), t
 
 “(b)
 
-Application of Amendments.—The amendments made by this Act, other than the amendment made bysection 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
+Application of Amendments.—The amendments made by this Act, other than the amendment made by section 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
 
 #### Effective Date of 1990 Amendments
 
@@ -324,7 +470,9 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9839, 9840, 9840a, 9843a, 9846 of this title.
+This section is referred to in sections 9832, 9839, 9840, 9840a, 9843, 9843a, 9844, 9846 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “agencies);”. See 1998 Amendment note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ The Secretary of the Interior may not recommend any area for purchase or rental 
 
 &emsp;(2) has consulted with the county or other unit of local government in which such area is located and with the Governor of the State concerned or the appropriate State agency.
 
-(Feb. 18, 1929, ch. 257, §4, 45 Stat. 1223; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Oct. 15, 1966, Pub. L. 89–669, §7(a), 80 Stat. 929; Oct. 30, 1978, Pub. L. 95–552, §2, 92 Stat. 2071.)
+(Feb. 18, 1929, ch. 257, §4, 45 Stat. 1223; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, §7(a), Oct. 15, 1966, 80 Stat. 929; Pub. L. 95–552, §2, Oct. 30, 1978, 92 Stat. 2071.)
 
 #### Amendments
 

@@ -38,7 +38,7 @@ The revocation of any rule, regulation, or order issued in pursuance of this sec
 
 Passports, visas, reentry permits, and other documents required for entry under this chapter may be considered as permits to enter for the purposes of this section.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §215, 66 Stat. 190; Oct. 7, 1978, Pub. L. 95–426, title VII, §707(a)–(d), 92 Stat. 992, 993; Oct. 25, 1994, Pub. L. 103–416, title II, §204(a), 108 Stat 4311.)
+(June 27, 1952, ch. 477, title II, ch. 2, §215, 66 Stat. 190; Pub. L. 95–426, title VII, §707(a)–(d), Oct. 7, 1978, 92 Stat. 992, 993; Pub. L. 103–416, title II, §204(a), Oct. 25, 1994, 108 Stat 4311.)
 
 #### References in Text
 

@@ -40,7 +40,7 @@ The Secretary shall develop, in consultation with the Senate Committee on Financ
 
 (7) The Secretary shall solicit the views of the Prospective Payment Assessment Commission in developing the system under paragraph (1), and shall include in the Secretary's reports under this subsection any views the Commission may submit with respect to such system.
 
-(Aug. 14, 1935, ch. 531, title XI, §1135, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2173(c), 95 Stat. 809; amended Sept. 3, 1982, Pub. L. 97–248, title I, §101(b)(3), 96 Stat. 335; Oct. 21, 1986, Pub. L. 99–509, title IX, §9343(f), 100 Stat. 2041; Dec. 22, 1987, Pub. L. 100–203, title IV, §4068(b), 101 Stat. 1330–114; July 1, 1988, Pub. L. 100–360, title IV, §411(g)(6), 102 Stat. 785; Oct. 31, 1994, Pub. L. 103–432, title I, §147(c)(2), 108 Stat. 4429.)
+(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 97–35, title XXI, §2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, §101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, §9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L. 100–203, title IV, §4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, §411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, §147(c)(2), Oct. 31, 1994, 108 Stat. 4429.)
 
 #### Amendments
 

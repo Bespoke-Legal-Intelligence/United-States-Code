@@ -18,9 +18,9 @@ It shall be unlawful for any United States citizen on board any aircraft, or any
 
 #### (c) Acts committed outside territorial jurisdiction of United States; venue
 
-This section is intended to reach acts of manufacture or distribution committed outside theterritorial jurisdiction of the United States. Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.
+This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States. Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.
 
-(Pub. L. 91–513, title III, §1009, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 99–570, title III, §3161(a), Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 104–237, title I, §102(a), (b), Oct. 3, 1996, 110 Stat. 3100; Pub. L. 104–305, §2(b)(2)(A), Oct. 13, 1996, 110 Stat. 3807.)
+(Pub. L. 91–513, title III, §1009, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 99–570, title III, §3161(a), Oct.27, 1986, 100 Stat. 3207–94; Pub. L. 104–237, title I, §102(a), (b), Oct. 3, 1996, 110 Stat. 3100; Pub. L. 104–305, §2(b)(2)(A), Oct. 13, 1996, 110 Stat. 3807.)
 
 #### References in Text
 

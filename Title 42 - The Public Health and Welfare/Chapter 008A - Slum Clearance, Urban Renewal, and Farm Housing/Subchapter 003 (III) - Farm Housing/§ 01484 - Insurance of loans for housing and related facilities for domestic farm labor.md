@@ -2,7 +2,7 @@
 
 #### (a) Authorization; terms and conditions
 
-The Secretary is authorized to insure and make commitments to insure loans made by lenders other than the United States to the owner of any farm or any association of farmers for the purpose of providing housing and related facilities for domestic farm labor, or to any Indian tribe for such purpose, or to any State (or political subdivision thereof), or any broad-based public or private nonprofit organization or any nonprofit organization of farmworkers incorporated within the State for the purpose of providing housing and related facilities for domestic farm labor any place within the State where a need exists. All such loans shall be made in accordance with terms and conditions substantially identical with those specified in section 1472 of this title, except that—
+The Secretary is authorized to insure and make commitments to insure loans made by lenders other than the United States to the owner of any farm or any association of farmers for the purpose of providing housing and related facilities for domestic farm labor, or to any Indian tribe for such purpose, or to any State (or political subdivision thereof), or any broad-based public or private nonprofit organization, or any nonprofit limited partnership in which the general partner is a nonprofit entity, or any nonprofit organization of farmworkers incorporated within the State for the purpose of providing housing and related facilities for domestic farm labor any place within the State where a need exists. All such loans shall be made in accordance with terms and conditions substantially identical with those specified in section 1472 of this title, except that—
 
 &emsp;(1) no such loan shall be insured in an amount in excess of the value of the farm involved less any prior liens in the case of a loan to an individual owner of a farm, or the total estimated value of the structures and facilities with respect to which the loan is made in the case of any other loan;
 
@@ -80,17 +80,19 @@ Housing and related facilities constructed with loans under this section may be 
 
 Whoever, as an owner, agent, or manger,<sup>2</sup> or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other funds derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.
 
-(July 15, 1949, ch. 338, title V, §514, as added June 30, 1961, Pub. L. 87–70, title VIII, §804(a), 75 Stat. 186; amended Sept. 2, 1964, Pub. L. 88–560, title V, §502, 78 Stat. 796; Aug. 1, 1968, Pub. L. 90–448, title X, §1004, 82 Stat. 553; Dec. 31, 1970, Pub. L. 91–609, title VIII, §801(a)–(c), 84 Stat. 1805, 1806; Oct. 12, 1977, Pub. L. 95–128, title V, §505, 91 Stat. 1140; Oct. 31, 1978, Pub. L. 95–557, title V, §§501(d), 504, 92 Stat. 2111, 2112; Dec. 21, 1979, Pub. L. 96–153, title V, §501(b), 93 Stat. 1133; Oct. 8, 1980, Pub. L. 96–399, title V, §507(b), 94 Stat. 1670; Nov. 30, 1983, Pub. L. 98–181, title V, §510, 97 Stat. 1243; Feb. 5, 1988, Pub. L. 100–242, title III, §§305(a), 316(b), 101 Stat. 1895, 1897; Nov. 7, 1988, Pub. L. 100–628, title X, §1043(a), 102 Stat. 3273; Aug. 6, 1996, Pub. L. 104–180, title VII, §734(e)(1), 110 Stat. 1603.)
+(July 15, 1949, ch. 338, title V, §514, as added Pub. L. 87–70, title VIII, §804(a), June 30, 1961, 75 Stat. 186; amended Pub. L. 88–560, title V, §502, Sept. 2, 1964, 78 Stat. 796; Pub. L. 90–448, title X, §1004, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–609, title VIII, §801(a)–(c), Dec. 31, 1970, 84 Stat. 1805, 1806; Pub. L. 95–128, title V, §505, Oct. 12, 1977, 91 Stat. 1140; Pub. L. 95–557, title V, §§501(d), 504, Oct. 31, 1978, 92 Stat. 2111, 2112; Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133; Pub. L. 96–399, title V, §507(b), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §510, Nov. 30, 1983, 97 Stat. 1243; Pub. L. 100–242, title III, §§305(a), 316(b), Feb. 5, 1988, 101 Stat. 1895, 1897; Pub. L. 100–628, title X, §1043(a), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 104–180, title VII, §734(e)(1), Aug. 6, 1996, 110 Stat. 1603; Pub. L. 105–276, title V, §599C(d), Oct. 21, 1998, 112 Stat. 2661.)
 
 #### References in Text
 
-Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b), were repealed by section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318 (set out as a note under section 1921 of Title 7, Agriculture), which also provided that references in other laws to the Bankhead-Jones Farm Tenant Act shall be construed as referring to appropriate provisions of section 1921 et seq. of Title 7. The fund established pursuant to section 1005a of Title 7 was renamed the Agricultural Credit Insurance Fund. See section 1929 of Title 7.
+Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b), were repealed by section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318 (set out as a note under section 1921 of Title 7, Agriculture),which also provided that references in other laws to the Bankhead-Jones Farm Tenant Act shall be construed as referring to appropriate provisions of section 1921 et seq. of Title 7. The fund established pursuant to section 1005a of Title 7 was renamed the Agricultural Credit Insurance Fund. See section 1929 of Title 7.
 
 #### Codification
 
 Another section 801(b) of Pub. L. 91–609 amended section 1460(c)(1) of this title.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–276 inserted “, or any nonprofit limited partnership in which the general partner is a nonprofit entity,” after “private nonprofit organization” in first sentence.
 
 1996—Subsec. (j). Pub. L. 104–180 added subsec. (j).
 
@@ -128,7 +130,7 @@ Agricultural Credit Insurance Fund as designation for farm tenant insurance fund
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011 of this title; title 7 section 2204f.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011, 13664 of this title; title 7 section 2204f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

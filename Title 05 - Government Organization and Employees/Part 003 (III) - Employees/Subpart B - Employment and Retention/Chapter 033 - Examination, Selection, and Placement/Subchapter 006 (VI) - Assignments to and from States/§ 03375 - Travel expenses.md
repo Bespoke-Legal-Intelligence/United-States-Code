@@ -1,6 +1,6 @@
 ### §3375. Travel expenses
 
-(a) Appropriations of a Federal agency are available to pay, or reimburse, a Federal or State or local government employee in accordance with—
+(a) Appropriations of a Federal agency are available to pay, or reimburse, a Federal orState or local government employee in accordance with—
 
 &emsp;(1) subchapter I of chapter 57 of this title, for the expenses of—
 

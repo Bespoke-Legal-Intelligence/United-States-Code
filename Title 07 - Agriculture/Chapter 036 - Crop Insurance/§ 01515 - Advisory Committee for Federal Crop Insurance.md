@@ -16,7 +16,7 @@ The Advisory Committee shall be composed of the Manager of the Corporation, the 
 
 #### (1) Terms
 
-&emsp;Members of the Advisory Committee (other than the Manager of the Corporation and the Secretary) shall be appointed by the Secretaryfor a term of up to 2 years from nominations made by the organizations and agencies specified in subsection (c) of this section. The terms of the members (other than the Manager of the Corporation and the Secretary) shall be staggered.
+&emsp;Members of the Advisory Committee (other than the Manager of the Corporation and the Secretary) shall be appointed by the Secretary for a term of up to 2 years from nominations made by the organizations and agencies specified in subsection (c) of this section. The terms of the members (other than the Manager of the Corporation and the Secretary) shall be staggered.
 
 #### (2) Chairperson
 
@@ -42,7 +42,7 @@ Not later than June 30 of each year, the Advisory Committee shall submit to the 
 
 The authority provided by this section shall terminate on September 30, 1998.
 
-(Feb. 16, 1938, ch. 30, title V, §515, as added Oct. 13, 1994, Pub. L. 103–354, title I, §109, 108 Stat. 3197.)
+(Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat. 3197.)
 
 #### Prior Provisions
 

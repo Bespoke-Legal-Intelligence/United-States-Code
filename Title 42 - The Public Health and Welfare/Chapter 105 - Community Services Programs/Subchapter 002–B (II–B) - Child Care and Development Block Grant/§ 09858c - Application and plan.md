@@ -92,7 +92,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (C) Limitation on administrative costs
 
-&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State tocarry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
+&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State to carry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
 
 #### (D) Assistance for certain families
 
@@ -134,7 +134,7 @@ Paragraphs (2) through (5) of section 658A(b), referred to in subsec. (c)(3)(B),
 
 &emsp;“(2) during a 2-year period for subsequent State plans”.
 
-Subsec. (c)(2)(A). Pub. L. 104–193, §605(2)(A)(i)(II), in closing provisions, substituted “and provide a detailed description of the procedures the State will implement to carry out the requirements of this subparagraph.” for “except that nothing in this subparagraph shall require a State to have a child care certificate program in operation prior to October 1, 1992.”
+Subsec. (c)(2)(A). Pub. L. 104–193, §605(2)(A)(i)(II), in closing provisions, substituted “and provide a detaileddescription of the procedures the State will implement to carry out the requirements of this subparagraph.” for “except that nothing in this subparagraph shall require a State to have a child care certificate program in operation prior to October 1, 1992.”
 
 Subsec. (c)(2)(A)(i). Pub. L. 104–193, §605(2)(A)(i)(I), struck out “, other than through assistance provided under paragraph (3)(C),” after “provided under this subchapter” in introductory provisions.
 

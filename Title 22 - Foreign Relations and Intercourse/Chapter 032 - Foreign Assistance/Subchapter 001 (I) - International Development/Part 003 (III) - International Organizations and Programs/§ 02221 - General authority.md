@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 95–424 added subsec. (g).
 
 Subsec. (b). Pub. L. 89–583, §107(b), substituted “United Nations Development Program” for “United Nations Expanded Program of Technical Assistance and the United States Special Fund” and restricted economic or technical assistance to Cuba.
 
-Subsec. (c). Pub. L. 89–583, §107(c), substituted provisions limiting contributions by the United States for fiscal year 1967 to $13,300,000, for provisions limiting contributions for calendar year 1966 to $15,200,000 and prohibited the making of contributions assisting any refugee who is receiving military training as a member of the Palestine Liberation Army.
+Subsec. (c). Pub. L. 89–583, §107(c), substituted provisions limiting contributions by the United States forfiscal year 1967 to $13,300,000, for provisions limiting contributions for calendar year 1966 to $15,200,000 and prohibited the making of contributions assisting any refugee who is receiving military training as a member of the Palestine Liberation Army.
 
 1965—Subsec. (c). Pub. L. 89–171 limited contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East to $15,200,000 for the calendar year 1966.
 
@@ -84,9 +84,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (a) and (e)(1) delegated to Director of United States International Development Cooperation Agency to be exercised only insofar as they pertain to international developmental programs by section 1–102(b) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under subsecs. (a), (c), and (e)(1), as they relate to Presidential certification concerning United Nations Relief and Works Agency, delegated to Secretary of State by section 1–201(a)(1) of Ex. Ord. No. 12163.
+Functions of President under subsecs. (a), (c), and (e)(1), as they relate to Presidential certification concerning United Nations Relief and Works Agency, delegated to Secretary of State by section 1–201(a)(1) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 #### Use of Contributions for Projects in Cuba
 

@@ -32,7 +32,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(C) take actions necessary to protect the exercise of such right;
 
-&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinary resource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
+&emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinaryresource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
 
 &emsp;(6) provide a strategy for the comprehensive coordination of the mental health services provided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
 

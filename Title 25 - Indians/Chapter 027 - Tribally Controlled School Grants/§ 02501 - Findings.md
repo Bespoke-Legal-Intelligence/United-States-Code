@@ -10,7 +10,7 @@ The Congress, after careful review of the Federal Government's historical and sp
 
 &emsp;(4) true self-determination in any society of people is dependent upon an educational process which will ensure the development of qualified people to fulfill meaningful leadership roles;
 
-&emsp;(5) the Federal administration of education for Indian children has not effected the desired level of educational achievement nor createdthe diverse opportunities and personal satisfaction which education can and should provide;
+&emsp;(5) the Federal administration of education for Indian children has not effected the desired level of educational achievement nor created the diverse opportunities and personal satisfaction which education can and should provide;
 
 &emsp;(6) true local control requires the least possible Federal interference; and
 
@@ -24,9 +24,9 @@ The Indian Self-Determination and Education Assistance Act, referred to in pars.
 
 #### Effective Date
 
-For effective date and applicability of chapter, see section 6303 of Pub. L. 100–297, set out as a note under section 1201 of Title 20, Education.
+For effective date and applicability of chapter, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of Title 20, Education.
 
 #### Short Title
 
-Section 5201 of Pub. L. 100–297 provided that: “This part \[part B (§§5201–5212) of title V of Pub. L. 100–297, enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
+Section 5201 of Pub. L. 100–297 provided that: “This part \[part B (§§5201–5212) of title V of Pub. L. 100–297,enacting this chapter\] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
 

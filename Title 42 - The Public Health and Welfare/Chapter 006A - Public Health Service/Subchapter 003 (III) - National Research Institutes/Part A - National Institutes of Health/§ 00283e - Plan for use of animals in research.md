@@ -44,7 +44,7 @@ The Director of NIH shall take such actions as may be appropriate to convey to s
 
 &emsp;(B) representatives of the Environmental Protection Agency, the Food and Drug Administration, the Consumer Product Safety Commission, the National Science Foundation, and such additional agencies as the Director of NIH determines to be appropriate, which representatives shall include not less than one veterinarian with expertise in laboratory-animal medicine.
 
-(July 1, 1944, ch. 373, title IV, §404C, as added June 10, 1993, Pub. L. 103–43, title II, §205(a), 107 Stat. 146.)
+(July 1, 1944, ch. 373, title IV, §404C, as added Pub. L. 103–43, title II, §205(a), June 10, 1993, 107 Stat. 146.)
 
 #### Change of Name
 

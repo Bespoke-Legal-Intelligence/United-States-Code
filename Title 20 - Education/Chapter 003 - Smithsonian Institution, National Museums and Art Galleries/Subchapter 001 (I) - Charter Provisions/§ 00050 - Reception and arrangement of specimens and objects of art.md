@@ -8,6 +8,34 @@ Whenever suitable arrangements can be made from time to time for their reception
 
 R.S. §5586 derived from act Aug. 10, 1846, ch. 178, §6, 9 Stat. 105.
 
+#### Smithsonian Institution Transportation Program
+
+Pub. L. 105–178, title I, §1214(b), June 9, 1998, 112 Stat. 204, provided that:
+
+“(1)
+
+In general.—The Secretary \[of Transportation\] shall allocate amounts made available by this subsection for obligation at the discretion of the Secretary of the Smithsonian Institution, in consultation with the Secretary, to carry out projects and activities described in paragraph (2).
+
+“(2)
+
+Eligible uses.—Amounts allocated under paragraph (1) may be obligated only—
+
+&emsp;“(A) for transportation-related exhibitions, exhibits, and educational outreach programs;
+
+&emsp;“(B) to enhance the care and protection of the Nation's collection of transportation-related artifacts;
+
+&emsp;“(C) to acquire historically significant transportation-related artifacts; and
+
+&emsp;“(D) to support research programs within the Smithsonian Institution that document the history and evolution of transportation, in cooperation with other museums in the United States.
+
+“(3)
+
+Authorization of appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $1,000,000 for each of fiscal years 1998 through 2003 to carry out this subsection.
+
+“(4)
+
+Applicability of title 23.—Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project or activity under this subsection shall be 100 percent and such funds shall remain available until expended.”
+
 #### National Health Museum
 
 Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, provided that:
@@ -74,7 +102,7 @@ Chairperson.—The President shall designate one member as the Chairperson of th
 
 “(a)
 
-Study.—It shall be the duty of the Commission to conduct a comprehensive study of the appropriate Federal role in the planning and operation of the National Health Museum, as well as any other issues deemed appropriate to the development of the National Health Museum.
+Study.—It shall be the duty of the Commission to conduct a comprehensive study of the appropriateFederal role in the planning and operation of the National Health Museum, as well as any other issues deemed appropriate to the development of the National Health Museum.
 
 “(b)
 
@@ -172,7 +200,7 @@ Pub. L. 97–203, June 24, 1982, 96 Stat. 129, provided: “That the Board of Re
 
 “Sec. 2. Effective October 1, 1982, there is authorized to be appropriated to the Board of Regents of the Smithsonian Institution $36,500,000 to carry out the purposes of this Act \[this note\]. Except for funds obligated or expended for planning, administration, and management expenses, and architectural or other consulting services, no funds appropriated pursuant to this section shall be obligated or expended until such time as there is available to such Board, from private donations or from other non-Federal sources, a sum which, when combined with the funds so appropriated, is sufficient to carry out the purposes of this Act.
 
-“Sec. 3. Any portion of the sums appropriated to carry out the purposes of this Act \[this note\] may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
+“Sec. 3. Any portion of the sums appropriated to carry out the purposes of this Act \[this note\] may betransferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
 
 #### Smithsonian Institution; Development of Property Adjacent to Original Building
 

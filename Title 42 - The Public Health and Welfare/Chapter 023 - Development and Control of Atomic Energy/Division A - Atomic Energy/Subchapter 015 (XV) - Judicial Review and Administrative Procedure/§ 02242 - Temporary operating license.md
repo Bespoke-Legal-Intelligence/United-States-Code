@@ -28,7 +28,7 @@ The Commission is authorized and directed to adopt such administrative remedies 
 
 The authority to issue new temporary operating licenses under this section shall expire on December 31, 1983.
 
-(Aug. 1, 1946, ch. 724, title I, §192, as added June 2, 1972, Pub. L. 92–307, 86 Stat. 191; amended Jan. 4, 1983, Pub. L. 97–415, §11, 96 Stat. 2071; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; Nov. 2, 1994, Pub. L. 103–437, §15(f)(8), 108 Stat. 4593.)
+(Aug. 1, 1946, ch. 724, title I, §192, as added Pub. L. 92–307, June 2, 1972, 86 Stat. 191; amended Pub. L. 97–415, §11, Jan. 4, 1983, 96 Stat. 2071; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(8), Nov. 2, 1994, 108 Stat. 4593.)
 
 #### Amendments
 

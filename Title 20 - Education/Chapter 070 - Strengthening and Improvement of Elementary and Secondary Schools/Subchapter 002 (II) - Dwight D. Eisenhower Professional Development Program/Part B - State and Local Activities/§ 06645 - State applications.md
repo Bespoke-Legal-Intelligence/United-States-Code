@@ -20,7 +20,7 @@ Each State educational agency that wishes to receive an allotment under this par
 
 &emsp;&emsp;(C) include an assessment of State and local needs for professional development specifically related to subparagraph (B);
 
-&emsp;&emsp;(D) include a description of how the plan has assessed the needs of local educational agencies serving rural and urban areas, and what actions are planned to meet such needs;
+&emsp;&emsp;(D) include a description of how the plan has assessed the needs of local educational agencies serving rural and urban areas, andwhat actions are planned to meet such needs;
 
 &emsp;&emsp;(E) include a description of how the activities assisted under this part will address the needs of teachers in schools receiving assistance under part A of subchapter I of this chapter;
 
@@ -82,7 +82,7 @@ Each State application shall include—
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsec. (b)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsec. (b)(1), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat.125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

@@ -4,7 +4,7 @@
 
 (b) Whoever, in committing any act in violation of this section, uses any deadly or dangerous weapon, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

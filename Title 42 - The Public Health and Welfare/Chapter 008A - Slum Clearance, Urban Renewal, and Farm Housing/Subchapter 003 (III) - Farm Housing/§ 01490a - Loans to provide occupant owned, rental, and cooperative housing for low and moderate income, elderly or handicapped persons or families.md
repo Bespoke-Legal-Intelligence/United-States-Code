@@ -4,7 +4,7 @@
 
 (1)(A) Notwithstanding the provisions of sections 1472, 1487(a) and 1485 of this title, loans to persons of low or moderate income under section 1472 or 1487(a)(1) <sup>1</sup> of this title, loans under section 1485 of this title to provide rental or cooperative housing and related facilities for persons and families of low or moderate income or elderly or handicapped persons or families and loans under section 1490f of this title to provide condominium housing for persons and families of low or moderate income, shall bear interest at a rate prescribed by the Secretary at not less than a rate determined by the Secretary of the Treasury upon the request of the Secretary taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted to the nearest one-eighth of 1 per centum. Any loan guaranteed under this subchapter shall bear interest at such rate as may be agreed upon by the borrower and the lender.
 
-(B) From the interest rate so determined, the Secretary may provide the borrower with assistance in the form of credits so as to reduce the effective interest rate to a rate not less than 1 per centum per annum for such periods of time as the Secretary may determine for applicants described in subparagraph (A) if without such assistance such applicants could not afford the dwelling or make payments on the indebtedness of the rental or cooperative housing. In the case of assistance provided under this subparagraph with respect to a loan under section 1472 of thistitle, the Secretary may not reduce, cancel, or refuse to renew the assistance due to an increase in the adjusted income of the borrower if the reduction, cancellation, or nonrenewal will cause the borrower to be unable to reasonably afford the resulting payments required under the loan.
+(B) From the interest rate so determined, the Secretary may provide the borrower with assistance in the form of credits so as to reduce the effective interest rate to a rate not less than 1 per centum per annum for such periods of time as the Secretary may determine for applicants described in subparagraph (A) if without such assistance such applicants could not afford the dwelling or make payments on the indebtedness of the rental or cooperative housing. In the case of assistance provided under this subparagraph with respect to a loan under section 1472 of this title, the Secretary may not reduce, cancel, or refuse to renew the assistance due to an increase in the adjusted income of the borrower if the reduction, cancellation, or nonrenewal will cause the borrower to be unable to reasonably afford the resulting payments required under the loan.
 
 (C) For persons of low income under section 1472 or 1487(a) of this title who the Secretary determines are unable to afford a dwelling with the assistance provided under subparagraph (B) and when the Secretary determines that assisted rental housing programs (as authorized under this subchapter, the National Housing Act \[12 U.S.C. 1701 et seq.\], and the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]) would be unsuitable in the area in which such persons reside, the Secretary may provide additional assistance, pursuant to amounts approved in appropriation Acts and for such periods of time as the Secretary may determine, which may be in an amount not to exceed the difference between (i) the amount determined by the Secretary to be necessary to pay the principal indebtedness, interest, taxes, insurance, utilities, and maintenance, and (ii) 25 per centum of the income of such applicant. The amount of such additional assistance which may be approved in appropriation Acts may not exceed an aggregate amount of $100,000,000. Such additional assistance may not be so approved with respect to any fiscal year beginning on or after October 1, 1981.
 
@@ -18,15 +18,15 @@
 
 (G) Interest on loans under section 1472 or 1487(a) of this title to victims of a natural disaster shall not exceed the rate which would be applicable to such loans under section 1472 of this title without regard to this section.
 
-(2)(A) The Secretary shall make and insure loans under this section and sections 1484, 1485, and 1487 of this title to provide rental or cooperative housing and related facilities for persons and families of low income in multifamily housing projects, and shall make, and contract to make, assistance payments to the owners of such rental, congregate, or cooperative housing in order to make available to low-income occupants of such housing rentals at rates commensurate to income and not exceeding the highest of (i) 30 per centum of monthly adjusted income, (ii) 10 per centum of monthly income, or (iii) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs. Any rent or contribution of any recipient shall not increase as a result of this section or any other provision of Federal law or regulation by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law or regulation.
+(2)(A) The Secretary shall make and insure loans under this section and sections 1484, 1485, and 1487 of this title to provide rental or cooperative housing and related facilities for persons and families of low income in multifamily housing projects, and shall make, and contract to make, assistance payments to the owners of such rental, congregate, or cooperative housingin order to make available to low-income occupants of such housing rentals at rates commensurate to income and not exceeding the highest of (i) 30 per centum of monthly adjusted income, (ii) 10 per centum of monthly income, or (iii) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs. Any rent or contribution of any recipient shall not increase as a result of this section or any other provision of Federal law or regulation by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law or regulation.
 
-(B) The owner of any project assisted under this paragraph shall be required to provide at least annually a budget of operating expenses and record of tenants’ income which shall be used to determine the amount of assistance for each project.
+(B) The owner of any project assisted under this paragraph or paragraph (5) shall be required to provide at least annually a budget of operating expenses and record of tenants’ income. The budget (and the income, in the case of a project assisted under this paragraph) shall be used to determine the amount of the assistance for each project.
 
 (C) The project owner shall accumulate, safeguard, and periodically pay to the Secretary any rental charges collected in excess of basic rental charges as established by the Secretary in conformity with subparagraph (A). These funds may be credited to the appropriation and used by the Secretary for making such assistance payments through the end of the next fiscal year. Notwithstanding the preceding sentence, excess funds received from tenants in projects financed under section 1485 of this title during a fiscal year shall be available during the next succeeding fiscal year, together with funds provided under subparagraph (D), to the extent approved in appropriations Acts, to make assistance payments to reduce rent overburden on behalf of tenants of any such project whose rents exceed the levels referred to in subparagraph (A). In providing assistance to relieve rent overburden, the Secretary shall provide assistance with respect to very low-income and low-income families to reduce housing rentals to the levels specified in subparagraph (A).
 
 (D) The Secretary, to the extent approved in appropriation Acts, may enter into rental assistance contracts aggregating not more than $398,000,000 in carrying out subparagraph (A) with respect to the fiscal year ending on September 30, 1982.
 
-(E) In order to assist elderly or handicapped persons or families who elect to live in a shared housing arrangement in which they benefit as a result of sharing the facilities of a dwelling withothers in a manner that effectively and efficiently meets their housing needs and thereby reduces their cost of housing, the Secretary shall permit rental assistance to be used by such persons or families if the shared housing arrangement is in a single-family dwelling. For the purpose of this subparagraph, the Secretary shall prescribe minimum habitability standards to assure decent, safe, and sanitary housing for such families while taking into account the special circumstances of shared housing.
+(E) In order to assist elderly or handicapped persons or families who elect to live in a shared housing arrangement in which they benefit as a result of sharing the facilities of a dwelling with others in a manner that effectively and efficiently meets their housing needs and thereby reduces their cost of housing, the Secretary shall permit rental assistance to be used by such persons or families if the shared housing arrangement is in a single-family dwelling. For the purpose of this subparagraph, the Secretary shall prescribe minimum habitability standards to assure decent, safe, and sanitary housing for such families while taking into account the special circumstances of shared housing.
 
 (3)(A) In the case of loans under sections 1484 and 1485 of this title approved prior to the effective date of this paragraph with respect to which rental assistance is provided, the rent for tenants receiving such assistance shall not exceed the highest of (i) 30 per centum of monthly adjusted income, (ii) 10 per centum of monthly income, or (iii) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs.
 
@@ -36,13 +36,43 @@
 
 (4) In the case of a loan with respect to the purchase of a manufactured home with respect to which rental assistance is provided, the monthly payment for principal and interest on the manufactured home and for lot rental and utilities shall not exceed the highest of (A) 30 per centum of monthly adjusted income, (B) 10 per centum of monthly income, or (C) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs.
 
+(5)
+
+Operating assistance for migrant farmworker projects.—
+
+&emsp;(A)
+
+Authority.—In the case of housing (and related facilities) for migrant farmworkers provided or assisted with a loan under section 1484 of this title or a grant under section 1486 of this title, the Secretary may, at the request of the owner of the project, use amounts provided for rental assistance payments under paragraph (2) to provide assistance for the costs of operating the project. Any project assisted under this paragraph may not receive rental assistance under paragraph (2).
+
+&emsp;(B)
+
+Amount.—In any fiscal year, the assistance provided under this paragraph for any project shall not exceed an amount equal to 90 percent of the operating costs for the project for the year, as determined by the Secretary. The amount of assistance to be provided for a project under this paragraph shall be an amount that makes units in the project available to migrant farmworkers in the area of the project at rates not exceeding 30 percent of the monthly adjusted incomes of such farmworkers, based on the prevailing incomes of such farmworkers in the area.
+
+&emsp;(C)
+
+Submission of information.—The owner of a project assisted under this paragraph shall be required to provide to the Secretary, at least annually, a budget of operating expenses and estimated rental income, which the Secretary may use to determine the amount of assistance for the project.
+
+&emsp;(D)
+
+Definitions.—For purposes of this paragraph, the following definitions shall apply:
+
+&emsp;&emsp;(i) The term “migrant farmworker” has the same meaning given such term in section 1486(k)(7) of this title.
+
+&emsp;&emsp;(ii) The term “operating cost” means expenses incurred in operating a project, including expenses for—
+
+&emsp;&emsp;&emsp;(I) administration, maintenance, repair, and security of the project;
+
+&emsp;&emsp;&emsp;(II) utilities, fuel, furnishings, and equipment for the project; and
+
+&emsp;&emsp;&emsp;(III) maintaining adequate reserve funds for the project.
+
 #### (b) Location in rural areas; inclusion of qualified nonrural residents who will become rural residents
 
 Housing and related facilities provided with loans described in subsection (a) of this section shall be located in rural areas; and applicants eligible for such loans under section 1472, 1487(a)(1),<sup>2</sup> or 1490f(a) of this title, or for occupancy of housing provided with such loans under section 1485 or 1490f(c) of this title, shall include otherwise qualified nonrural residents who will become rural residents.
 
 #### (c) Reimbursement of Rural Housing Insurance Fund
 
-There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) of this section exceed interest due from the borrowers during each year, and (2) the amount of assistance payments described in subsection (a)(2) of this section. There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C) of this section. The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and section 1490f of this title to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
+There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) of this section exceed interest due from the borrowers during each year, and (2) the amount of assistance payments described in subsections (a)(2) and (a)(5) of this section. There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C) of this section. The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and section 1490f of this title to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
 
 #### (d) Rental assistance contract authority; preconditions, limitations, etc.
 
@@ -58,9 +88,9 @@ There shall be reimbursed to the Rural Housing Insurance Fund by annual appropri
 
 #### (e) Increases in rent or contribution of any recipient
 
-Any rent or contribution of any recipient shall not increase as a result of this section, any amendment thereto, or any other provision of Federal law or regulation by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law or regulation.
+Any rent or contribution of any recipient or any tenant in a project assisted under subsection (a)(5) of this section shall not increase as a result of this section, any amendment thereto, or any other provision of Federal law or regulation by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law or regulation.
 
-(July 15, 1949, ch. 338, title V, §521, as added Aug. 1, 1968, Pub. L. 90–448, title X, §1001, 82 Stat. 551;amended Aug. 22, 1974, Pub. L. 93–383, title V, §§514(a), (b), 516(c), 88 Stat. 696, 698; Aug. 3, 1976, Pub. L. 94–375, §25(a), 90 Stat. 1078; Oct. 12, 1977, Pub. L. 95–128, title V, §§502(d), 507(a)(4), (5), 511, 91 Stat. 1139, 1140, 1142; Oct. 31, 1978, Pub. L. 95–557, title V, §§506(a), 507, 92 Stat. 2112, 2113; Dec. 21, 1979, Pub. L. 96–153, title V, §§501(c), 502(a), 504, 93 Stat. 1133–1135; Oct. 3, 1980, Pub. L. 96–372, §6(d), 94 Stat. 1364; Oct. 8, 1980, Pub. L. 96–399, title V, §§501(e), (f), 505, 94 Stat. 1668, 1669; Aug. 13, 1981, Pub. L. 97–35, title III, §§351(d), 352, 95 Stat. 421; Nov. 30, 1983, Pub. L. 98–181, title V, §§516, 517(a)–(c), (e), 97 Stat. 1247–1249; Oct. 17, 1984, Pub. L. 98–479, title I, §105(h), 98 Stat. 2227; Feb. 5, 1988, Pub. L. 100–242, title III, §§309, 316(d), 101 Stat. 1896, 1898; Nov. 28, 1990, Pub. L. 101–625, title VII, §716, 104 Stat. 4296; Oct. 28, 1992, Pub. L. 102–550, title VII, §702(b), 106 Stat. 3834.)
+(July 15, 1949, ch. 338, title V, §521, as added Pub. L. 90–448, title X, §1001, Aug. 1, 1968, 82 Stat. 551; amended Pub. L. 93–383, title V, §§514(a), (b), 516(c), Aug. 22, 1974, 88 Stat. 696, 698; Pub. L. 94–375, §25(a), Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–128, title V, §§502(d), 507(a)(4), (5), 511, Oct. 12, 1977, 91 Stat. 1139, 1140, 1142; Pub. L. 95–557, title V, §§506(a), 507, Oct. 31, 1978, 92 Stat. 2112, 2113; Pub. L. 96–153, title V, §§501(c), 502(a), 504, Dec. 21, 1979, 93 Stat. 1133–1135; Pub. L. 96–372, §6(d), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(e), (f), 505, Oct. 8, 1980, 94 Stat. 1668, 1669; Pub. L. 97–35, title III, §§351(d), 352, Aug. 13, 1981, 95 Stat. 421; Pub. L. 98–181, title V, §§516, 517(a)–(c), (e), Nov. 30, 1983, 97 Stat. 1247–1249; Pub. L. 98–479, title I, §105(h), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 100–242, title III, §§309, 316(d), Feb. 5, 1988, 101 Stat. 1896, 1898; Pub. L. 101–625, title VII, §716, Nov. 28, 1990, 104 Stat. 4296; Pub. L. 102–550, title VII, §702(b), Oct. 28, 1992, 106 Stat. 3834; Pub. L. 105–276, title V, §599C(e)(1), (e)(2)(D)–(F), Oct. 21, 1998, 112 Stat. 2661, 2663.)
 
 #### References in Text
 
@@ -73,6 +103,14 @@ The United States Housing Act of 1937, referred to in subsec. (a)(1)(C) and (F),
 The effective date of this paragraph, referred to in subsec. (a)(3)(A) and (B), is six months after Nov. 30, 1983, or upon the earlier promulgation of implementing regulations by the Secretary. See section 517(f) of Pub. L. 98–181, set out as an Effective Date of 1983 Amendment note below.
 
 #### Amendments
+
+1998—Subsec. (a)(2)(B). Pub. L. 105–276, §599C(e)(2)(D), inserted “or paragraph (5)” after “this paragraph” and substituted “. The budget (and the income, in the case of a project assisted under this paragraph) shall be used to determine the amount of the assistance for each project.” for “which shall be used to determine the amount of assistance for each project.”
+
+Subsec. (a)(5). Pub. L. 105–276, §599C(e)(1), added par. (5).
+
+Subsec. (c)(2). Pub. L. 105–276, §599C(e)(2)(E), substituted “subsections (a)(2) and (a)(5)” for “subsection (a)(2)”.
+
+Subsec. (e). Pub. L. 105–276, §599C(e)(2)(F), inserted “or any tenant in a project assisted under subsection (a)(5) of this section” after “recipient”.
 
 1992—Subsec. (a)(1)(D). Pub. L. 102–550 designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -110,7 +148,7 @@ Subsec. (a)(2)(D). Pub. L. 96–399, §501(e), added subpar. (D).
 
 1979—Subsec. (a)(1)(A). Pub. L. 96–153, §502(a), inserted exception that loans to provide housing and related facilities for persons or families of moderate income shall bear interest at the rate established by the Secretary under certain provisions of title 12.
 
-Subsec. (a)(1)(C). Pub. L. 96–153, §501(c)(1), inserted provisions that the amount of such additional assistance which may be approved in appropriation acts may not exceed an aggregate amount of $985,000,000 for contracts entered into with respect to fiscal year 1979 and an aggregate amount of $500,000,000 for contracts entered into with respect to fiscal year 1980 and that suchadditional assistance may not be so approved with respect to any fiscal year after fiscal year 1980.
+Subsec. (a)(1)(C). Pub. L. 96–153, §501(c)(1), inserted provisions that the amount of such additional assistance which may be approved in appropriation acts may not exceed an aggregate amount of $985,000,000 for contracts entered into with respect to fiscal year 1979 and an aggregate amount of $500,000,000 for contracts entered into with respect to fiscal year 1980 and that such additional assistance may not be so approved with respect to any fiscal year after fiscal year 1980.
 
 Subsec. (a)(1)(H). Pub. L. 96–153, §501(c)(3), repealed subpar. (H) which provided that the aggregate principal amount of loans made to borrowers receiving assistance pursuant to subpar. (C) shall not exceed $440,000,000.
 

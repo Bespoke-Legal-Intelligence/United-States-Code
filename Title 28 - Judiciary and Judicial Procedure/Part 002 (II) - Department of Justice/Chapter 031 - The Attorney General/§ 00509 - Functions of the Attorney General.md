@@ -34,9 +34,9 @@ A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expens
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 inserted “and” at end of cl. (2), substituted a period for “; and” at end of cl. (3), and struck out cl. (4) which related to functions of Board of Parole.
+1984—Pub. L. 98–473 inserted “and” at end of cl. (2), substituted a period for “; and” at end of cl. (3), and struck out cl. (4) which related to functions of Board of Parole.
 
-<b>1978</b>—Cl. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+1978—Cl. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
 #### Effective Date of 1984 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 103–317, title I, §109, Aug. 26, 1994, 108 Stat. 1735, provided that:
 
 #### Neighborhood Revitalization
 
-Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: “That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated”.
+Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: “That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review andapprove such plans in consultation with the Federal agency to which funds are appropriated”.
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
@@ -152,23 +152,7 @@ Duties.—This senior interagency group shall enhance interagency coordination a
 
 #### Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration
 
-Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, provided that:
-
-“(a)
-
-Federal Bureau of Investigation.—For each fiscal year beginning after September 30, 1990, there is authorized to be appropriated for the Federal Bureau of Investigation $25,000, to be expended in the discretion of the Director of the Federal Bureau of Investigation to pay humanitarian expenses incurred—
-
-&emsp;“(1) by an employee of the Bureau as a result of serious illness, serious injury, or death occurring while on official business; or
-
-&emsp;“(2) by any member of the immediate family of such employee, incident to the serious illness, serious injury, or death of such employee occurring while on official business.
-
-“(b)
-
-Drug Enforcement Administration.—For each fiscal year beginning after September 30, 1990, there is authorized to be appropriated for the Drug Enforcement Administration $25,000, to be expended at the discretion of the Administrator of the Drug Enforcement Administration to pay humanitarian expenses incurred—
-
-&emsp;“(1) by an employee of the Administration as a result of serious illness, serious injury, or death occurring while on official business; or
-
-&emsp;“(2) by any member of the immediate family of such employee, incident to the serious illness, serious injury, or death of such employee occurring while on official business.”
+Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
 
 #### Investigation of Financial Institutions; Assistance of Government Personnel
 
@@ -178,7 +162,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 &emsp;“(1) The Attorney General shall accept, and Federal departments and agencies, including the United States Secret Service, the Internal Revenue Service, the Resolution Trust Corporation, and the appropriate Federal banking agency, may provide, without reimbursement, the services of attorneys, law enforcement personnel, and other employees of any other departments or agencies of the Federal Government to assist the Department of Justice, subject to the supervision of the Attorney General, in the investigation and prosecution of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation;
 
-&emsp;“(2) any attorney of a department or agency whose services are accepted pursuant to paragraph (1) may, subject to the supervision of the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrates, and perform any other investigative or prosecutorial function, which United States attorneys are authorized by law to conduct or perform whether or not the attorney is a resident of the district in which the proceeding is brought; and
+&emsp;“(2) any attorney of a department or agency whose services are accepted pursuant to paragraph (1) may, subject to the supervision of the Attorney General,conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrates, and perform any other investigative or prosecutorial function, which United States attorneys are authorized by law to conduct or perform whether or not the attorney is a resident of the district in which the proceeding is brought; and
 
 &emsp;“(3) law enforcement personnel of the United States Secret Service are authorized, subject to the supervision of the Attorney General, to conduct or perform any kind of investigation, civil or criminal, related to fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, which the Department of Justice law enforcement personnel are authorized by law to conduct or perform: <i>Provided</i>, That the Secret Service shall not initiate investigations pursuant to this section independent of the supervision of the Attorney General.
 
@@ -200,7 +184,7 @@ Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided: “That for
 
 #### Uniforms and Allowances
 
-Pub. L. 101–162, title II, §203, Nov. 21, 1989, 103 Stat. 1002, provided that: “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United StatesMarshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
+Pub. L. 101–162, title II, §203, Nov. 21, 1989, 103 Stat. 1002, provided that: “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United States Marshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
 
 #### Justice Department Organized Crime and Drug Enforcement Enhancement
 
@@ -256,7 +240,7 @@ Duty of Associate Attorney General.—The Associate Attorney General shall be re
 
 “(c)
 
-Authorization of Appropriations.—(1) There are authorized to be appropriated $3,000,000 for salaries and expenses to the Department of Justice General Legal Activities Account and $3,000,000 for salaries and expenses for United States Attorneys for fiscal year 1989.
+Authorization of Appropriations.—(1) There are authorized to be appropriated $3,000,000 for salaries and expenses to the Department of Justice GeneralLegal Activities Account and $3,000,000 for salaries and expenses for United States Attorneys for fiscal year 1989.
 
 “(2) Any appropriation of funds authorized under paragraph (1) shall be—
 
@@ -302,7 +286,7 @@ Study.—The Comptroller General of the United States shall conduct a study—
 
 “(b)
 
-Report to Congress.—The Comptroller General shall report the results and recommendations derivedfrom the study required by subsection (a) no later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\].”
+Report to Congress.—The Comptroller General shall report the results and recommendations derived from the study required by subsection (a) no later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\].”
 
 #### Federal Environmental or Natural Resource Laws; Investigations Respecting, Etc.
 
@@ -382,7 +366,7 @@ There are hereby transferred to the Attorney General:
 
 (a) \[Repealed. Reorg. Plan No. 2 of 1973, §3, 38 F.R. 15932, 87 Stat. 1091, eff. July 1, 1973. Subsection established the Bureau of Narcotics and Dangerous Drugs in the Department of Justice and provided that it be headed by a Director appointed by the Attorney General.\]
 
-(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney Generalin the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate now or hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
+(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney General in the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate now or hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -546,7 +530,7 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that “Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated.”
 
-More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in twohands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
@@ -582,7 +566,7 @@ The major responsibility of the Drug Enforcement Administration would thus inclu
 
 &emsp;—regulation of the legal manufacture of drugs and other controlled substances under Federal regulations.
 
-The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution andsentencing of drug traffickers following their apprehension by the enforcement organization. He would also have the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
+The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution and sentencing of drug traffickers following their apprehension by the enforcement organization. He would also have the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
 
 My proposals would make possible a more effective antidrug role for the FBI, especially in dealing with the relationship between drug trafficking and organized crime. I intend to see that the resources of the FBI are fully committed to assist in supporting the new Drug Enforcement Administration.
 
@@ -746,7 +730,7 @@ Automated Legal Research and Information Systems
 
 Responsibilities of the Agencies
 
-1–701. Each agency shall (a) review the management and operation of its legal activities and report in oneyear to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
+1–701. Each agency shall (a) review the management and operation of its legal activities and report in one year to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
 
 1–702. To the extent permitted by law, each agency shall furnish the Federal Legal Council and the Attorney General with reports, information and assistance as requested to carry out the provisions of this Order.
 

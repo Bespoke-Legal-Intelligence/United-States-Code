@@ -14,7 +14,7 @@ Notwithstanding any other provision of this Act—
 
 (5) The provisions of this subsection shall become effective October 1, 1978.
 
-(Oct. 31, 1949, ch. 792, title I, §112, as added May 15, 1978, Pub. L. 95–279, title II, §201, 92 Stat. 241.)
+(Oct. 31, 1949, ch. 792, title I, §112, as added Pub. L. 95–279, title II, §201, May 15, 1978, 92 Stat. 241.)
 
 #### References in Text
 

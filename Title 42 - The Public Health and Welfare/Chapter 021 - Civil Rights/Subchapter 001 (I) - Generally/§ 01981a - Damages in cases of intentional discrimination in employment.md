@@ -58,7 +58,7 @@ As used in this section:
 
 &emsp;&emsp;(A) in the case of a person seeking to bring an action under subsection (a)(1) of this section, the Equal Employment Opportunity Commission, the Attorney General, or a person who may bring an action or proceeding under title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.); or
 
-&emsp;&emsp;(B) in the case of a person seeking to bring an action under subsection (a)(2) of this section, the Equal Employment Opportunity Commission, the Attorney General, a person who may bring an action or proceedingunder section 794a(a)(1) of title 29, or a person who may bring an action or proceeding under title I of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12111 et seq.\].
+&emsp;&emsp;(B) in the case of a person seeking to bring an action under subsection (a)(2) of this section, the Equal Employment Opportunity Commission, the Attorney General, a person who may bring an action or proceeding under section 794a(a)(1) of title 29, or a person who may bring an action or proceeding under title I of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12111 et seq.\].
 
 #### (2) Discriminatory practice
 

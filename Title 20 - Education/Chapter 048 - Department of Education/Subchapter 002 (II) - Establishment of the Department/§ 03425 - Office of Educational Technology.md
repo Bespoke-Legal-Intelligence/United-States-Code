@@ -40,3 +40,5 @@ Another section 216 of Pub. L. 96–88 was enacted by Pub. L. 103–382 and is c
 
 Section 236(a)(1) of Pub. L. 103–227 provided that: “The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] 20 U.S.C. 5093) is transferred to and established in the Office of Educational Technology.”
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

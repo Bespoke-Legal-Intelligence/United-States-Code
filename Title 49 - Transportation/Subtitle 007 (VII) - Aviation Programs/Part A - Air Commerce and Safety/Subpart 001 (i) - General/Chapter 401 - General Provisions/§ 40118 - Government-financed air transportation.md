@@ -32,7 +32,7 @@ Proof.—The Administrator of General Services shall prescribe regulations under
 
 (d)
 
-Certain Transportation by Air Outside the United States.—Notwithstanding subsections (a) and (c) of this section, any amount appropriated to the Secretary of State, the Director of the United States Information Agency, the Director of the United States International Development Cooperation Agency, or the Director of the Arms Control and Disarmament Agency may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
+Certain Transportation by Air Outside the United States.—Notwithstanding subsections (a) and (c) of this section, any amount appropriated to the Secretary of State or the Administrator of the Agency for International Development may be used to pay for the transportation of an officer or employee of the Department of State or one of those agencies, a dependent of the officer or employee, and accompanying baggage, by a foreign air carrier when the transportation is between 2 places outside the United States.
 
 (e)
 
@@ -44,7 +44,7 @@ Prohibition of Certification or Contract Clause.—(1) No certification by a con
 
 (2) In paragraph (1), the term “commercial item” has the meaning given such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793.)
 
 Historical and Revision Notes
 
@@ -110,17 +110,31 @@ This amends 49:40118(f)(1) to make a clarifying amendment.
 
 #### Amendments
 
+1998—Subsec. (d). Pub. L. 105–277, §1422(b)(6), substituted “or the Administrator of the Agency for International Development” for “the Director of the United States International Development Cooperation Agency”.
+
+Pub. L. 105–277, §1335(p), struck out “, the Director of the United States Information Agency,” after “Secretary of State”.
+
+Pub. L. 105–277, §1225(h), struck out “, or the Director of the Arms Control and Disarmament Agency” before “may be used to pay”.
+
 1996—Subsec. (c). Pub. L. 104–316 substituted “Administrator of General Services shall prescribe regulations under which agencies may” for “Comptroller General shall”.
 
 Subsec. (d). Pub. L. 104–287, §5(68)(A), substituted “
 
-Certain Transportation by Air Outside the UnitedStates” for “
+Certain Transportation by Air Outside the United States” for “
 
 Transportation by Foreign Air Carriers” in heading.
 
 Subsec. (f). Pub. L. 104–287, §5(68)(B), inserted heading.
 
 1994—Subsec. (f). Pub. L. 103–355 added subsec. (f).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1225(h) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
+
+Amendment by section 1335(p) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
+
+Amendment by section 1422(b)(6) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of Title 22.
 
 #### Effective Date of 1994 Amendment
 

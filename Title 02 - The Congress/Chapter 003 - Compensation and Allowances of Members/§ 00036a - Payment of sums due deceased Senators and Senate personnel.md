@@ -8,7 +8,7 @@ Section 50 of the Revised Statutes <sup>1</sup> shall not be effective as to pe
 
 #### References in Text
 
-Section 50 of the Revised Statutes, referred to in text, was classified to section 38 of this title and was repealed by Pub. L. 104–186, title II, §203(4), Aug. 20, 1996, 110 Stat. 1725. See section 38a of this title.
+Section 50 of the Revised Statutes, referred to in text, was classified to section 38 of this title and wasrepealed by Pub. L. 104–186, title II, §203(4), Aug. 20, 1996, 110 Stat. 1725. See section 38a of this title.
 
 #### Amendments
 

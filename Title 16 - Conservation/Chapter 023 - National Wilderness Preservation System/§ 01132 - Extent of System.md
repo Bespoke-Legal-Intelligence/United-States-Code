@@ -10,7 +10,7 @@ All areas within the national forests classified at least 30 days before Septemb
 
 #### (b) Review by Secretary of Agriculture of classifications as primitive areas; Presidential recommendations to Congress; approval of Congress; size of primitive areas; Gore Range-Eagles Nest Primitive Area, Colorado
 
-The Secretary of Agriculture shall, within ten years after September 3, 1964, review, as to its suitability or nonsuitability for preservation as wilderness, each area in the national forests classified on September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “primitive” and report his findings to the President. The President shall advise the United States Senate and House of Representatives of his recommendations with respect to the designation as “wilderness” or other reclassification of each area on which review has been completed, together with maps and a definition of boundaries. Such advice shall be given with respect to not less than one-third of all the areas now classified as “primitive” within three years after September 3, 1964, not less than two-thirds within seven years after September 3, 1964, and the remaining areas within ten years after September 3, 1964. Each recommendation of the President for designation as “wilderness” shall become effective only if so provided by an Act of Congress. Areas classified as “primitive” on September 3, 1964 shall continue to be administered under the rules and regulations affecting such areas on September 3, 1964 until Congress has determined otherwise. Any such area may be increased in size by the President at the time he submits his recommendations to the Congress by not more than five thousand acres with no more than one thousand two hundred and eighty acres of such increase in any one compact unit; if it is proposed to increase the size of any such area by more than five thousand acres or by more than one thousand two hundred and eighty acres in any one compact unit the increase in size shall not become effective until acted upon by Congress. Nothing herein contained shall limit the President in proposing, as part of his recommendations to Congress, the alteration of existing boundaries of primitive areas or recommending the addition of any contiguous area of national forest lands predominantly of wilderness value. Notwithstanding any other provisions of this chapter, the Secretary of Agriculture may complete his review and delete such area as may be necessary, but not to exceed seven thousand acres, from the southern tip of the Gore Range-Eagles Nest Primitive Area, Colorado, if the Secretary determines that such action is in the public interest.
+The Secretary of Agriculture shall, within ten years after September 3, 1964, review, as to its suitability or nonsuitability for preservation as wilderness, each area in the national forests classified on September 3, 1964 by the Secretary of Agriculture or the Chief of the Forest Service as “primitive” and report his findings to the President. The President shall advise the United States Senate and House of Representatives of his recommendations with respect to the designation as “wilderness” or other reclassification of each area on which review has been completed, together with maps and a definition of boundaries. Such advice shall be given with respect to not less than one-third of all the areas now classified as “primitive” within three yearsafter September 3, 1964, not less than two-thirds within seven years after September 3, 1964, and the remaining areas within ten years after September 3, 1964. Each recommendation of the President for designation as “wilderness” shall become effective only if so provided by an Act of Congress. Areas classified as “primitive” on September 3, 1964 shall continue to be administered under the rules and regulations affecting such areas on September 3, 1964 until Congress has determined otherwise. Any such area may be increased in size by the President at the time he submits his recommendations to the Congress by not more than five thousand acres with no more than one thousand two hundred and eighty acres of such increase in any one compact unit; if it is proposed to increase the size of any such area by more than five thousand acres or by more than one thousand two hundred and eighty acres in any one compact unit the increase in size shall not become effective until acted upon by Congress. Nothing herein contained shall limit the President in proposing, as part of his recommendations to Congress, the alteration of existing boundaries of primitive areas or recommending the addition of any contiguous area of national forest lands predominantly of wilderness value. Notwithstanding any other provisions of this chapter, the Secretary of Agriculture may complete his review and delete such area as may be necessary, but not to exceed seven thousand acres, from the southern tip of the Gore Range-Eagles Nest Primitive Area, Colorado, if the Secretary determines that such action is in the public interest.
 
 #### (c) Review by Secretary of the Interior of roadless areas of national park system and national wildlife refuges and game ranges and suitability of areas for preservation as wilderness; authority of Secretary of the Interior to maintain roadless areas in national park system unaffected
 
@@ -36,7 +36,7 @@ Any modification or adjustment of boundaries of any wilderness area shall be rec
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energyand Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
@@ -58,7 +58,7 @@ Alexander Springs Wilderness, Ocala National Forest, Florida.—Pub. L. 98–430
 
 Allegheny Islands Wilderness, Allegheny National Forest, Pennsylvania.—Pub. L. 98–585, §4(1), Oct. 30, 1984, 98 Stat. 3100.
 
-Alpine Lakes Wilderness, Mount Baker-Snoqualmie and Wenatchee National Forests, Washington.—Pub. L. 94–357, July 12, 1976, 90 Stat. 905.
+Alpine Lakes Wilderness, Mount Baker-Snoqualmie and Wenatchee National Forests, Washington.—Pub. L. 94–357, July 12, 1976, 90 Stat. 905; Pub. L. 105–277, div. A, §101(e) \[title VI, §604(d)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–329.
 
 Alta Toquima Wilderness, Toiyabe National Forest, Nevada.—Pub. L. 101–195, §2(1), Dec. 5, 1989, 103 Stat. 1784.
 
@@ -342,7 +342,7 @@ Deseret Peak Wilderness, Wasatch National Forest, Utah.—Pub. L. 98–428, titl
 
 Desolation Wilderness, Eldorado National Forest, California.—Pub. L. 91–82, Oct. 10, 1969, 83 Stat. 131.
 
-Devils Backbone Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 96–560, title II, §201(d), Dec. 22, 1980, 94 Stat. 3273.
+Devils Backbone Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 96–560, title II, §201(d), Dec. 22, 1980, 94 Stat. 3273; Pub. L. 105–210, §1, July 29, 1998, 112 Stat. 881.
 
 Diamond Peak Wilderness, Deschutes and Willamette National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–328, §4(f), June 26, 1984, 98 Stat. 277.
 
@@ -594,7 +594,7 @@ Kanab Creek Wilderness, Kaibab National Forest and Arizona Strip District of Bur
 
 Karta River Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(c)(5), as added by Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
 
-Katmai Wilderness, Katmai National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(4), Dec. 2, 1980, 94 Stat. 2417.
+Katmai Wilderness, Katmai National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(4), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 105–277, div. A, §101(e) \[title I, §135(b)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–265.
 
 Kelso Dunes Wilderness, California Desert Conservation Area, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(30), Oct. 31, 1994, 108 Stat. 4476.
 
@@ -766,7 +766,7 @@ Mount Massive Wilderness, San Isabel National Forest, Colorado.—Pub. L. 96–5
 
 Mt. Moriah Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(13), Dec. 5, 1989, 103 Stat. 1785.
 
-Mount Naomi Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(1), Sept. 28, 1984, 98 Stat. 1657.
+Mount Naomi Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(1), Sept. 28, 1984, 98 Stat. 1657; Pub. L. 105–355, title V, §503, Nov. 6, 1998, 112 Stat. 3261.
 
 Mount Nebo Wilderness, Uinta National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(7), Sept. 28, 1984, 98 Stat. 1658.
 
@@ -1300,5 +1300,5 @@ Yosemite Wilderness, Yosemite National Park Wilderness, California.—Pub. L. 98
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 90e–3, 228i–1, 271e, 272d, 273d, 410ff–5, 410gg–3, 459g–6, 459h–7, 459i–8, 459j–7, 460m–13, 460x–5, 460x–15, 460z–11, 460aa–4, 460dd–8, 460gg–5, 698d, 698<i>l</i>, 3205 of this title; title 43 section 1782; title 50 App. section 1989c–6.
+This section is referred to in sections 90e–3, 228i–1, 271e, 273d, 410ff–5, 410gg–3, 459g–6, 459h–7, 459i–8, 459j–7, 460m–13, 460x–5, 460x–15, 460z–11, 460aa–4, 460dd–8, 460gg–5, 698d, 698<i>l</i>, 3205 of this title; title 43 section 1782; title 50 App. section 1989c–6.
 

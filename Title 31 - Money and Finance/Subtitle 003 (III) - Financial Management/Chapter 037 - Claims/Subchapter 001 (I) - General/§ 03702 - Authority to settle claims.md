@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) claims involving uniformed service members’ pay, allowances, travel, transportation, retired pay, and survivor benefits; and
 
-&emsp;&emsp;(B) claims by transportation carriers involving amounts collected from them forloss or damage incurred to property incident to shipment at Government expense.
+&emsp;&emsp;(B) claims by transportation carriers involving amounts collected from them for loss or damage incurred to property incident to shipment at Government expense.
 
 &emsp;(2) The Director of the Office of Personnel Management shall settle claims involving Federal civilian employees’ compensation and leave.
 
@@ -108,7 +108,7 @@ Apr. 10, 1928, ch. 334, 45 Stat. 413.
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
-In subsection (a), the words “Except as provided in this chapter or another law” are added for clarity. The words “and demands whatever” and “and adjusted” are omitted as surplus. The words “officers or employees of the General Accounting Office” are substituted for “of his subordinates” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “Except as provided in this chapter or another law” are added for clarity. The words “and demands whatever” and “and adjusted” are omitted as surplus. The words “officers or employees of the General Accounting Office” are substituted for “ofhis subordinates” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(1), before clause (A), the words “or demand” are omitted as surplus. The word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the Code. The word “representative” is substituted for “agent or attorney” to eliminate unnecessary words. The words “received by the Comptroller General” are substituted for “received in said office” for clarity and consistency. The words “the date” are omitted as surplus. Clause (A) is added for clarity. In clause (B), the words “cognizable by the General Accounting Office under sections 71 and 236 of this title” are omitted as unnecessary because of the restatement.
 
@@ -116,7 +116,7 @@ In subsection (b)(2), the words “member of the armed forces” are substituted
 
 In subsection (b)(3), the words “to the claimant” are omitted as surplus. The words “not received in the time required” are substituted for “barred by” because of the restatement. The words “no further communication is required” are substituted for “such action shall be a complete response without further communication” to eliminate unnecessary words.
 
-In subsection (c), the text of 31:122(1st sentence words before 2d comma and last sentence) is omitted as executed. The words “Secretary of the Treasury” are substituted for “Treasury Department” for consistency. The word “Secretary” is substituted for “Treasurer ofthe United States” because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
+In subsection (c), the text of 31:122(1st sentence words before 2d comma and last sentence) is omitted as executed. The words “Secretary of the Treasury” are substituted for “Treasury Department” for consistency. The word “Secretary” is substituted for “Treasurer of the United States” because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
 In subsection (d), the words “report . . . on” are substituted for “submit the same . . . by a special report . . . the material facts” to eliminate unnecessary words. The words “or demand” are omitted as surplus. The word “Government” is substituted for “United States”, and the words “presented under this section” are substituted for “filed in the General Accounting Office” for consistency. The words “lawfully”, “the use of”, and “thereon” are omitted as surplus.
 

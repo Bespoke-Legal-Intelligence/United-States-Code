@@ -18,5 +18,5 @@ This subchapter is referred to in section 1471 of this title.
 - [&sect; 01462 - Policies governing information activities](%C2%A7%2001462%20-%20Policies%20governing%20information%20activities.md)
 - [&sect; 01463 - Repealed. Pub. L. 103&#8211;236, title III, &sect;315(a), Apr. 30, 1994, 108 Stat. 445](%C2%A7%2001463%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20III%2C%20%C2%A7315%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20445.md)
 - [&sect; 01464 - Voice of America-Europe](%C2%A7%2001464%20-%20Voice%20of%20America-Europe.md)
-- [&sect; 01464a - USIA satellite and television](%C2%A7%2001464a%20-%20USIA%20satellite%20and%20television.md)
+- [&sect; 01464a - Broadcasting Board of Governors satellite and television](%C2%A7%2001464a%20-%20Broadcasting%20Board%20of%20Governors%20satellite%20and%20television.md)
 - [&sect; 01464b - Voice of America hiring practices](%C2%A7%2001464b%20-%20Voice%20of%20America%20hiring%20practices.md)

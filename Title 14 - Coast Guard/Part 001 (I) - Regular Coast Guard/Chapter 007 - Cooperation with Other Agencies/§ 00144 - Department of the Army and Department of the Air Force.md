@@ -6,7 +6,7 @@
 
 (c) Articles of ordnance property may be sold by the Secretary of the Army to officers of the Coast Guard for their use in the public service in the same manner as these articles are sold to officers of the Army.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 506; Oct. 18, 1976, Pub. L. 94–546, §1(10), 90 Stat. 2519; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(D), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 506; Pub. L. 94–546, §1(10), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 

@@ -22,7 +22,7 @@ If the Secretary makes a determination under subsection (a) of this section that
 
 #### (2) Approval by the United States
 
-&emsp;(A) The United States hereby approves any transfer, waiver, release, relinquishment, orother commitment carried out pursuant to paragraph (1).
+&emsp;(A) The United States hereby approves any transfer, waiver, release, relinquishment, or other commitment carried out pursuant to paragraph (1).
 
 &emsp;(B) A transfer made pursuant to paragraph (1) shall be deemed to have been made in accordance with all provisions of Federal law that specifically apply to transfers of lands or natural resources from, by, or on behalf of an Indian, Indian nation, or tribe of Indians (including the Act popularly known as the “Trade and Intercourse Act of 1790”; section 4 of the Act of July 22, 1790 (1 Stat. 137, chapter 33)). The approval of the United States made pursuant to subparagraph (A) shall apply to the transfer beginning on the date of the transfer.
 

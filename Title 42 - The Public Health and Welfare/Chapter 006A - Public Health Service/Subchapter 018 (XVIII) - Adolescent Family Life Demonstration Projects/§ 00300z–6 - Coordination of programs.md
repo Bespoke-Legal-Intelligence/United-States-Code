@@ -14,5 +14,5 @@
 
 (b) Any recipient of a grant for a demonstration project for services under this subchapter shall coordinate its activities with any other recipient of such a grant which is located in the same locality.
 
-(July 1, 1944, ch. 373, title XX, §2007, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §955(a), 95 Stat. 589.)
+(July 1, 1944, ch. 373, title XX, §2007, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 589.)
 

@@ -30,7 +30,7 @@ The programs described in subsection (b) of this section should, to the extent f
 
 #### (d) Restrictions
 
-Assistance authorized by subsection (a) of this section may not be provided to any independent state of the former Soviet Union for any year unless the President certifies to Congress for that year that the proposed recipient state is committed to each of the following:
+Assistance authorized by subsection (a) of this section may not be provided to any independent state of the former Soviet Union for any yearunless the President certifies to Congress for that year that the proposed recipient state is committed to each of the following:
 
 &emsp;(1) Making substantial investment of its resources for dismantling or destroying its weapons of mass destruction, if such state has an obligation under a treaty or other agreement to destroy or dismantle any such weapons.
 
@@ -64,6 +64,56 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 105–261
+
+Pub. L. 105–261, div. A, title XIII, §1301(a)(1), Oct. 17, 1998, 112 Stat. 2161, provided that: “For purposes of section 301 \[112 Stat. 1960\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note) (as amended by paragraph (2)).”
+
+#### Limitation on Use of Funds for Chemical Weapons Destruction Activities in Russia
+
+Pub. L. 105–261, div. A, title XIII, §1304, Oct. 17, 1998, 112 Stat. 2163, provided that:
+
+“(a)
+
+Limitation.—Subject to the limitation in section 1405(b) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1961), no funds authorized to be appropriated for Cooperative Threat Reduction programs under this Act \[see Tables for classification\] or any other Act may be obligated or expended for chemical weapons destruction activities in Russia (including activities for the planning, design, or construction of a chemical weapons destruction facility or for the dismantlement of an existing chemical weapons production facility) until the President submits to Congress a written certification described in subsection (b).
+
+“(b)
+
+Presidential Certification.—A certification under this subsection is either of the following certifications by the President:
+
+&emsp;“(1) A certification that—
+
+&emsp;&emsp;“(A) Russia is making reasonable progress toward the implementation of the Bilateral Destruction Agreement;
+
+&emsp;&emsp;“(B) the United States and Russia have made substantial progress toward the resolution, to the satisfaction of the United States, of outstanding compliance issues under the Wyoming Memorandum of Understanding and the Bilateral Destruction Agreement; and
+
+&emsp;&emsp;“(C) Russia has fully and accurately declared all information regarding its unitary and binary chemical weapons, chemical weapons facilities, and other facilities associated with chemical weapons.
+
+&emsp;“(2) A certification that the national security interests of the United States could be undermined by a policy of the United States not to carry out chemical weapons destruction activities under Cooperative Threat Reduction programs for which funds are authorized to be appropriated under this Act or any other Act for fiscal year 1999.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘Bilateral Destruction Agreement’ means the Agreement Between the United States of America and the Union of Soviet Socialist Republics on Destruction and Non-production of Chemical Weapons and on Measures to Facilitate the Multilateral Convention on Banning Chemical Weapons signed on June 1, 1990.
+
+&emsp;“(2) The term ‘Wyoming Memorandum of Understanding’ means the Memorandum of Understanding Between the Government of the United States of America and the Government of the Union of Soviet Socialist Republics Regarding a Bilateral Verification Experiment and Data Exchange Related to Prohibition on Chemical Weapons, signed at Jackson Hole, Wyoming, on September 23, 1989.”
+
+#### Requirement To Submit Summary of Amounts Requested by Project Category
+
+Pub. L. 105–261, div. A, title XIII, §1307, Oct. 17, 1998, 112 Stat. 2165, provided that:
+
+“(a)
+
+Summary Required.—The Secretary of Defense shall submit to Congress as part of the Secretary's annual budget request to Congress—
+
+&emsp;“(1) a descriptive summary, with respect to the appropriations requested for Cooperative Threat Reduction programs for the fiscal year after the fiscal year in which the summary is submitted, of the amounts requested for each project category under each Cooperative Threat Reduction program element; and
+
+&emsp;“(2) a descriptive summary, with respect to appropriations for Cooperative Threat Reduction programs for the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each Cooperative Threat Reduction program element.
+
+“(b)
+
+Description of Purpose and Intent.—The descriptive summary required under subsection (a) shallinclude a narrative description of each program and project category under each Cooperative Threat Reduction program element that explains the purpose and intent of the funds requested.”
+
 #### Authority To Conduct Program Relating to Fissile Materials
 
 Pub. L. 104–106, div. C, title XXXI, §3131, Feb. 10, 1996, 110 Stat. 617, provided that:
@@ -96,7 +146,7 @@ Pub. L. 103–337, div. A, title XII, §1205(a)–(c), Oct. 5, 1994, 108 Stat. 2
 
 “(a)
 
-Funding Report to Congress.—The Secretary of Defense shall submit to Congress a report as described in subsection (b) on funding for Cooperative Threat Reduction programs with states of the former Soviet Union. The report shall be submitted at the time of the transmission to Congress of the budget justification materials for the funding request in the fiscal year 1996budget for such Cooperative Threat Reduction programs.
+Funding Report to Congress.—The Secretary of Defense shall submit to Congress a report as described in subsection (b) on funding for Cooperative Threat Reduction programs with states of the former Soviet Union. The report shall be submitted at the time of the transmission to Congress of the budget justification materials for the funding request in the fiscal year 1996 budget for such Cooperative Threat Reduction programs.
 
 “(b)
 

@@ -16,7 +16,7 @@ In order to assure that community facilities or services required in connection 
 
 For the purposes of this section, the term “chief executive officer of the appropriate political subdivision” shall mean appropriate principal executive officer or governing body having primary responsibility with respect to the community facility or service involved, but shall not, in any case, mean any public housing authority, or its governing body, or any of its officers, acting in such capacity.
 
-(Sept. 1, 1951, ch. 378, title I, §103, 65 Stat. 294; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
+(Sept. 1, 1951, ch. 378, title I, §103, 65 Stat. 294; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
 #### Transfer of Functions
 

@@ -22,13 +22,13 @@ Notwithstanding the provisions of sections 564d and 564e of this title, and all 
 
 &emsp;If at any time any of the tribal lands that comprise the Klamath Indian Forest and that are retained by the tribe are offered for sale other than to members of the tribe, such lands shall first be offered for sale to the Secretary of Agriculture, who shall be given a period of twelve months after the date of each such offer within which to purchase such lands. No such lands shall be sold at a price below the price at which they have been offered for sale to the Secretary of Agriculture, and if such lands are reoffered for sale they shall first be reoffered to the Secretary of Agriculture. The Secretary of Agriculture is authorized to purchase such lands subject to such terms and conditions as to the use thereof as he may deem appropriate, and any lands so acquired shall thereupon become national forest lands subject to the laws that are applicable to lands acquired pursuant to the Act of March 1, 1911 (36 Stat. 961), as amended.
 
-#### (f) Klamath Forest National Wildlife Refuge; appropriation
+#### (f) Klamath Marsh National Wildlife Refuge; appropriation
 
-&emsp;The lands that comprise the Klamath Marsh shall be a part of the property selected for sale pursuant to section 564d(a)(3) of this title to pay members who withdraw from the tribe. Title to such lands is taken in the name of the United States, effective the earliest date after September 30, 1959, when the Secretary of the Interior determines that funds for the payment of the purchase price are available from the sale of stamps under the Migratory Bird Hunting Stamp Act of March 16, 1934, as amended \[16 U.S.C. 718 et seq.\]. Such lands are designated as the Klamath Forest National Wildlife Refuge, which shall be administered in accordance with the law applicable to areas acquired pursuant to section 4 of the Act of March 16, 1934 (48 Stat. 451), as amended or supplemented \[16 U.S.C. 718d\]. Compensation for said taking shall be the realization value of the lands determined in accordance with subsection (c) of this section, and shall be paid out of funds in the Treasury of the United States, which are authorized to be appropriated for that purpose.
+&emsp;The lands that comprise the Klamath Marsh shall be a part of the property selected for sale pursuant to section 564d(a)(3) of this title to pay members who withdraw from the tribe. Title to such lands is taken in the name of the United States, effective the earliest date after September 30, 1959, when the Secretary of the Interior determines that funds for the payment of the purchase price are available from the sale of stamps under the Migratory Bird Hunting Stamp Act of March 16, 1934, as amended \[16 U.S.C. 718 et seq.\]. Such lands are designated as the Klamath Marsh National Wildlife Refuge, which shall be administered in accordance with the law applicable to areas acquired pursuant to section 4 of the Act of March 16, 1934 (48 Stat. 451), as amended or supplemented \[16 U.S.C. 718d\]. Compensation for said taking shall be the realization value of the lands determined in accordance with subsection (c) of this section, and shall be paid out of funds in the Treasury of the United States, which are authorized to be appropriated for that purpose.
 
 #### (g) Homesites
 
-&emsp;Any person whose name appears on the final roll of the tribe, and who has since December 31, 1956, continuously resided on any lands taken by the United States by subsections (d) and (f) of this section, shall be entitled to occupy and use as a homesite for his lifetime a reasonable acreage of such lands, as determined by the Secretary of Agriculture, subject to such regulations as the Secretary of Agriculture may issue to safeguard the administration of the national forest and as the Secretary of the Interior may issue to safeguard the administration of the Klamath Forest National Wildlife Refuge.
+&emsp;Any person whose name appears on the final roll of the tribe, and who has since December 31, 1956, continuously resided on any lands taken by the United States by subsections (d) and (f) of this section, shall be entitled to occupy and use as a homesite for his lifetime a reasonable acreage of such lands, as determined by the Secretary of Agriculture, subject to such regulations as the Secretary of Agriculture may issue to safeguard the administration of the national forest and as the Secretary of the Interior may issue to safeguard the administration of the Klamath Marsh National Wildlife Refuge.
 
 #### (h) Administration of outstanding timber sales contracts
 
@@ -38,7 +38,7 @@ Notwithstanding the provisions of sections 564d and 564e of this title, and all 
 
 &emsp;All sales of tribal lands pursuant to subsection (b) of this section or pursuant to section 564d of this title on which roads are located shall be made subject to the right of the United States and its assigns to maintain and use such roads.
 
-(Aug. 13, 1954, ch. 732, §28, as added Pub. L. 85–731, §1, Aug. 23, 1958, 72 Stat. 816; amended Pub. L. 86–247, Sept. 9, 1959, 73 Stat. 477.)
+(Aug. 13, 1954, ch. 732, §28, as added Pub. L. 85–731, §1, Aug. 23, 1958, 72 Stat. 816; amended Pub. L. 86–247, Sept. 9, 1959, 73 Stat. 477; Pub. L. 105–312, title II, §205, Oct. 30, 1998, 112 Stat. 2957; Pub. L. 105–321, §4(e), Oct. 30, 1998, 112 Stat. 3025.)
 
 #### References in Text
 
@@ -49,6 +49,8 @@ The adjournment of the Eighty-fifth Congress, referred to in subsec. (c) of this
 The Migratory Bird Hunting Stamp Act of March 16, 1934, as amended, referred to in subsec. (f), is act Mar. 16, 1934, ch. 71, 48 Stat. 452, as amended, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 718 of Title 16 and Tables.
 
 #### Amendments
+
+1998—Subsecs. (f), (g). Pub. L. 105–312 and Pub. L. 105–321 amended subsecs. (f) and (g) identically, substituting “Klamath Marsh National Wildlife Refuge” for “Klamath Forest National Wildlife Refuge”.
 
 1959—Subsec. (f). Pub. L. 86–247 changed date for Federal acquisition of Klamath Indian Marsh from April 1, 1961, to earliest date after September 30, 1959, that funds are available to pay for property from sale of stamps.
 

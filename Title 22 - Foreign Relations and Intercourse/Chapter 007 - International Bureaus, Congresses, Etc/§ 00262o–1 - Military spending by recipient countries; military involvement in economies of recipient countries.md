@@ -16,7 +16,7 @@
 
 The Secretary of the Treasury shall instruct the United States Executive Directors of the international financial institutions (as so defined) to promote a policy at each institution under which—
 
-&emsp;(1) the respective institution monitors closely and, through regular policy consultations with recipient governments, seeks to influence the composition of public expenditure in favor of funding growth and development priorities and away from unproductive expenditure, including excessive military expenditures;
+&emsp;(1) the respective institution monitors closely and, through regular policy consultationswith recipient governments, seeks to influence the composition of public expenditure in favor of funding growth and development priorities and away from unproductive expenditure, including excessive military expenditures;
 
 &emsp;(2) the respective institution supports lending operations which assist efforts of recipient governments to promote good governance, including public participation, and reduce military expenditures; and
 

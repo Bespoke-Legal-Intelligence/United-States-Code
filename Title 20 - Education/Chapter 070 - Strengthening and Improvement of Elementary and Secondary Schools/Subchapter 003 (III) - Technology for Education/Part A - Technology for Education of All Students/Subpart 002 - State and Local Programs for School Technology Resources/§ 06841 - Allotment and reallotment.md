@@ -24,7 +24,7 @@
 
 #### References in Text
 
-Section 6814(a)(1)(C) of this title, referred to in subsec. (a)(2), was in the original “section 3115(a)(1)(C)”,meaning section 3115(a)(1)(C) of Pub. L. 89–10, which was translated as reading section 3114(a)(1)(C) of that Act to reflect the probable intent of Congress because section 3115 does not contain subsections, and section 3114(a)(1)(C) makes amounts available for allotment under this section.
+Section 6814(a)(1)(C) of this title, referred to in subsec. (a)(2), was in the original “section 3115(a)(1)(C)”, meaning section 3115(a)(1)(C) of Pub. L. 89–10, which was translated as reading section 3114(a)(1)(C) of that Act to reflect the probable intent of Congress because section 3115 does not contain subsections, and section 3114(a)(1)(C) makes amounts available for allotment under this section.
 
 #### Section Referred to in Other Sections
 

@@ -72,7 +72,7 @@ Sec. 3. <i>Preliminary Procedure</i>. (a) The Committee shall receive, on behalf
 
 (b) On the basis of such criteria, information, and evidence as it may deem appropriate, and subject to the provisions of Section 1 of this Order, the Committee shall designate, from among the individuals who are recommended in accordance with Section 3(a) of this Order, those individuals whom the Committee recommends for the award of the Medal and shall transmit the names of those individuals to the President, together with its recommendations. In so transmitting its recommendations, the Committee (1) shall include expressions of its views concerning, and such other information as may be pertinent to, its recommendations, and (2) may arrange the names of all or some of the recommended individuals in a sequence deemed by it to indicate the order of precedence in which the individuals involved deserve to receive the Medal.
 
-(c) Each recommendation respecting the award of the Medal to an individual which is transmitted to thePresident by the Committee shall be accompanied by a draft of a citation describing the contributions which are being recognized by the award.
+(c) Each recommendation respecting the award of the Medal to an individual which is transmitted to the President by the Committee shall be accompanied by a draft of a citation describing the contributions which are being recognized by the award.
 
 Sec. 4. <i>Time of Awards and Recommendations</i>. (a) Unless otherwise directed by the President, announcement of the award of the Medal shall be made during the last sixty days of each calendar year and ceremonies for presentation of the Medal shall be held during the first ninety days of the calendar year following the announcement of the award.
 
@@ -88,7 +88,7 @@ Sec. 6. <i>Prior Orders</i>. (a) Subject to the provisions of this Order, the Pr
 
 #### Extension of Term of President's Committee on the National Medal of Science
 
-Term of the President's Committee on the National Medal of Science extended until Dec. 31, 1978, by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the President's Committee on the National Medal of Science extended until Dec. 31, 1978, by Ex.Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of the President's Committee on the National Medal of Science extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

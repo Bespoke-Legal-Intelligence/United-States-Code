@@ -66,6 +66,10 @@ Amendment by section 25 of Pub. L. 93–416 applicable to cases where injury or 
 
 Amendment by section 26 of Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any death or injury occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
+#### Government Printing Office Payment of Cost of Administration
+
+Pub. L. 105–275, title III, §313, Oct. 21, 1998, 112 Stat. 2460, provided that: “For purposes of section 8147 of title 5, United States Code, the Government Printing Office is not considered an agency which is required by statute to submit an annual budget pursuant to or as provided by chapter 91 of title 31, United States Code, and is not required to pay an additional amount for the cost of administration.”
+
 #### Fiscal Year 1994 Prohibition on Payments to Individuals Convicted of Issuing False Statements or Fraud
 
 Pub. L. 103–112, title I, §102, Oct. 21, 1993, 107 Stat. 1089, Department of Labor Appropriation Act, 1994, provided that: “None of the funds in the Employees’ Compensation Fund under 5 U.S.C. 8147 shall be expended for payment of compensation, benefits, and expenses to any individual convicted of a violation of 18 U.S.C. 1920, or of any felony fraud related to the application for or receipt of benefits under subchapters I or III of chapter 81 of title 5, United States Code.”
@@ -80,5 +84,5 @@ Increases authorized under amendment by section 1(71) of Pub. L. 90–83 not app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 95d; title 39 section 2003; title 42 sections 1701, 1704, 1705.
+This section is referred to in title 2 section 95d; title 39 section 2003; title 42 sections 1701, 1704, 1705; title 49 section 49104.
 

@@ -70,5 +70,5 @@ The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1621f, 1637, 1645 of this title.
+This section is referred to in sections 1621f, 1637 of this title.
 

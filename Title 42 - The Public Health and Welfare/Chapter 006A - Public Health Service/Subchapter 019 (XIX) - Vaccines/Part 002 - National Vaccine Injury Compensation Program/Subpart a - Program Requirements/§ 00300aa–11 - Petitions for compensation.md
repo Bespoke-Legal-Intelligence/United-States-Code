@@ -58,13 +58,13 @@ A petition for compensation under the Program for a vaccine-related injury or de
 
 &emsp;&emsp;(ii) if such person did not receive such a vaccine but contracted polio from another person who received an oral polio vaccine, was a citizen of the United States or a dependent of such a citizen,
 
-&emsp;&emsp;(C)(i) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table in association with the vaccine referred to in subparagraph (A) or died from the administration of such vaccine, and the first symptom or manifestation of the onset or of the significant aggravation of any such illness, disability, injury, or condition or the death occurred within the time period after vaccine administration set forth in the Vaccine Injury Table, or
+&emsp;&emsp;(C)(i) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Tablein association with the vaccine referred to in subparagraph (A) or died from the administration of such vaccine, and the first symptom or manifestation of the onset or of the significant aggravation of any such illness, disability, injury, or condition or the death occurred within the time period after vaccine administration set forth in the Vaccine Injury Table, or
 
 &emsp;&emsp;(ii)(I) sustained, or had significantly aggravated, any illness, disability, injury, or condition not set forth in the Vaccine Injury Table but which was caused by a vaccine referred to in subparagraph (A), or
 
 &emsp;&emsp;(II) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table the first symptom or manifestation of the onset or significant aggravation of which did not occur within the time period set forth in the Table but which was caused by a vaccine referred to in subparagraph (A),
 
-&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine and incurred unreimbursable expenses due in whole or in part to such illness, disability, injury, or condition in an amount greater than $1,000, or (ii) died from the administration of the vaccine, and
+&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine, or (ii) died from the administration of the vaccine, and
 
 &emsp;&emsp;(E) has not previously collected an award or settlement of a civil action for damages for such vaccine-related injury or death,
 
@@ -78,9 +78,9 @@ A petition may also include other available relevant medical records relating to
 
 #### (e) Schedule
 
-The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition assessments, evaluations, and prognoses and such other records and documents as are reasonably necessary for the determination of the amount of compensation to be paid to, or on behalf of, the person who sufferedsuch injury or who died from the administration of the vaccine.
+The petitioner shall submit in accordance with a schedule set by the special master assigned to the petition assessments, evaluations, and prognoses and such other records and documents as are reasonably necessary for the determination of the amount of compensation to be paid to, or on behalf of, the person who suffered such injury or who died from the administration of the vaccine.
 
-(July 1, 1944, ch. 373, title XXI, §2111, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3758; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), 101 Stat. 1330–221, 1330–223, 1330–224; Dec. 19, 1989, Pub. L. 101–239, title VI, §6601(c)(1)–(7), 103 Stat. 2285, 2286; Nov. 3, 1990, Pub. L. 101–502, §5(a), 104 Stat. 1286; Nov. 26, 1991, Pub. L. 102–168, title II, §201(h)(1), 105 Stat. 1104; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516; June 10, 1993, Pub. L. 103–43, title XX, §2012, 107 Stat. 214.)
+(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741.)
 
 #### Codification
 
@@ -93,6 +93,8 @@ A prior section 300aa–11, act July 1, 1944, §2112, was successively renumbere
 A prior section 2111 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238h of this title.
 
 #### Amendments
+
+1998—Subsec. (c)(1)(D)(i). Pub. L. 105–277 struck out “and incurred unreimbursable expenses due in whole or in part to such illness, disability, injury, or condition in an amount greater than $1,000” before “, or (ii) died”.
 
 1993—Subsec. (a)(10). Pub. L. 103–43 added par. (10).
 

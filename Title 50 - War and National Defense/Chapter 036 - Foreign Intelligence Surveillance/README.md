@@ -90,6 +90,51 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—PEN REGISTERS AND TRAP AND TRACE DEVICES FOR FOREIGN INTELLIGENCE PURPOSES
+
+|  |  |
+| :--- | ---: |
+| [1841\.](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001841%20-%20Definitions.md) | Definitions. |
+| [1842\.](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001842%20-%20Pen%20registers%20and%20trap%20and%20trace%20devices%20for%20foreign%20intelligence%20and%20international%20terrorism%20investigations.md) | Pen registers and trap and trace devices for foreign intelligence and international terrorism investigations. |
+| (a) | Application for authorization or approval. |
+| (b) | Form of application; recipient. |
+| (c) | Executive approval; contents of application. |
+| (d) | Ex parte judicial order of approval. |
+| (e) | Time limitation. |
+| (f) | Cause of action barred. |
+| (g) | Furnishing of results. |
+| [1843\.](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001843%20-%20Authorization%20during%20emergencies.md) | Authorization during emergencies. |
+| (a) | Requirements for authorization. |
+| (b) | Determination of emergency and factual basis. |
+| (c) | Effect of absence of order. |
+| [1844\.](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001844%20-%20Authorization%20during%20time%20of%20war.md) | Authorization during time of war. |
+| [1845\.](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001845%20-%20Use%20of%20information.md) | Use of information. |
+| (a) | In general. |
+| (b) | Disclosure for law enforcement purposes. |
+| (c) | Notification of intended disclosure by United States. |
+| (d) | Notification of intended disclosure by State or political subdivision. |
+| (e) | Motion to suppress. |
+| (f) | In camera and ex parte review. |
+| (g) | Effect of determination of lawfulness. |
+| (h) | Binding final orders. |
+| [1846\.](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001846%20-%20Congressional%20oversight.md) | Congressional oversight. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER IV—ACCESS TO CERTAIN BUSINESS RECORDS FOR FOREIGN INTELLIGENCE PURPOSES
+
+|  |  |
+| :--- | ---: |
+| [1861\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001861%20-%20Definitions.md) | Definitions. |
+| [1862\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001862%20-%20Access%20to%20certain%20business%20records%20for%20foreign%20intelligence%20and%20international%20terrorism%20investigations.md) | Access to certain business records for foreign intelligence and international terrorism investigations. |
+| (a) | Application for authorization. |
+| (b) | Recipient and contents of application. |
+| (c) | Ex parte judicial order of approval. |
+| (d) | Compliance; nondisclosure. |
+| [1863\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001863%20-%20Congressional%20oversight.md) | Congressional oversight. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 8 sections 1532, 1534; title 18 sections 2232, 2511, 2522, 3121; title 47 section 1008.
@@ -101,3 +146,5 @@ This chapter is referred to in title 8 sections 1532, 1534; title 18 sections 22
 
 - [Subchapter 001 (I) - Electronic Surveillance](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/README.md)
 - [Subchapter 002 (II) - Physical Searches](Subchapter%20002%20%28II%29%20-%20Physical%20Searches/README.md)
+- [Subchapter 003 (III) - Pen Registers and Trap and Trace Devices for Foreign Intelligence Purposes](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/README.md)
+- [Subchapter 004 (IV) - Access to Certain Business Records for Foreign Intelligence Purposes](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/README.md)

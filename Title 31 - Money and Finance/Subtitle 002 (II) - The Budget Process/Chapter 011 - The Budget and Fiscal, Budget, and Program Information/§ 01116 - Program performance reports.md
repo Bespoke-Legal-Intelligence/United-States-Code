@@ -42,7 +42,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1115, 1117, 1118, 1119 of this title; title 40 section 1425.
+This section is referred to in sections 1115, 1117, 1118, 1119 of this title; title 23 section 508; title 40 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

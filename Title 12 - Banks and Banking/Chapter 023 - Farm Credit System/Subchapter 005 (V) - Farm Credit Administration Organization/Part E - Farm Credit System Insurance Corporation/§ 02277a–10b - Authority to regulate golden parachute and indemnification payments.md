@@ -34,7 +34,7 @@ In this section:
 
 #### (2) Indemnification payment
 
-&emsp;The term “indemnification payment” means a payment (or any agreement to make a payment) by any Farm Credit System institutionfor the benefit of any person who is or was an institution-related party, to pay or reimburse the person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
+&emsp;The term “indemnification payment” means a payment (or any agreement to make a payment) by any Farm Credit System institution for the benefit of any person who is or was an institution-related party, to pay or reimburse the person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
 
 &emsp;&emsp;(A) is assessed a civil money penalty; or
 
@@ -82,7 +82,7 @@ The Corporation shall prescribe, by regulation, the factors to be considered by 
 
 &emsp;(1) whether there is a reasonable basis to believe that an institution-related party has committed any fraudulent act or omission, breach of trust or fiduciary duty, or insider abuse with regard to the Farm Credit System institution involved that has had a material effect on the financial condition of the institution;
 
-&emsp;(2) whether there is a reasonable basis to believe that the institution-related party is substantially responsible for the insolvency of the Farm Credit System institution, the appointment of a conservator or receiver for the institution, or the institution's troubled condition (as defined in regulations prescribed by the Corporation);
+&emsp;(2) whether there is a reasonable basis to believe that the institution-related party is substantially responsible for the insolvency of the Farm Credit System institution, the appointment of a conservator or receiver for the institution, or the institution's troubled condition\(as defined in regulations prescribed by the Corporation);
 
 &emsp;(3) whether there is a reasonable basis to believe that the institution-related party has materially violated any applicable law or regulation that has had a material effect on the financial condition of the institution;
 

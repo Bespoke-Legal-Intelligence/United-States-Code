@@ -60,7 +60,7 @@ In carrying out this subpart, the State agency shall—
 
 &emsp;(9) for the purpose of identifying vulnerable elder rights protection activities provided by the entities under this subpart, and coordinating the activities with programs established under subchapter III of this chapter and subparts II, III, and V of this part, develop working agreements with—
 
-&emsp;&emsp;(A) State entities, including the consumer protection agency, the court system, the attorney general, the State equal employment opportunity commission, and other State agencies; and
+&emsp;&emsp;(A) State entities, including the consumer protection agency, the court system, the attorney general, the State equal employmentopportunity commission, and other State agencies; and
 
 &emsp;&emsp;(B) Federal entities, including the Social Security Administration, Health Care Financing Administration, and the Department of Veterans’ Affairs, and other entities.
 

@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture shall deposit into a special account to be available for furthering the nationwide forest-fire prevention campaign all fees collected under regulations promulgated by him relating to “Smokey Bear”.
 
-(May 23, 1952, ch. 327, §3, 66 Stat. 92; June 22, 1974, Pub. L. 93–318, §7, 88 Stat. 245.)
+(May 23, 1952, ch. 327, §3, 66 Stat. 92; Pub. L. 93–318, §7, June 22, 1974, 88 Stat. 245.)
 
 #### Codification
 

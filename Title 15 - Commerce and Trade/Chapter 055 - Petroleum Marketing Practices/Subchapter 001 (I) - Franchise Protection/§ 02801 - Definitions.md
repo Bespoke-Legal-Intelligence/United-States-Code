@@ -16,7 +16,7 @@ As used in this subchapter:
 
 (B) The term “franchise” includes—
 
-&emsp;(i) any contract under which a retailer or distributor (as the case may be) is authorized or permitted to occupy leased marketing premises, which premises are to be employed in connection with the sale, consignment, or distribution of motor fuel under a trademark which is owned or controlled by such refiner or by a refiner which supplies motor fuel to the distributor which authorizes or permits such occupancy;
+&emsp;(i) any contract under which a retailer or distributor (as the case may be) is authorized or permitted to occupy leased marketing premises, which premises are to be employedin connection with the sale, consignment, or distribution of motor fuel under a trademark which is owned or controlled by such refiner or by a refiner which supplies motor fuel to the distributor which authorizes or permits such occupancy;
 
 &emsp;(ii) any contract pertaining to the supply of motor fuel which is to be sold, consigned or distributed—
 

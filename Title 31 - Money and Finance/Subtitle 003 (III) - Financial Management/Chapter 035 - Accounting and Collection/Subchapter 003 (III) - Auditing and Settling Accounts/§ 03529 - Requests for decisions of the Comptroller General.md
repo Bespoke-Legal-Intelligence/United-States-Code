@@ -52,7 +52,7 @@ In subsection (b), the word “issue” is substituted for “render” in 31:74
 
 #### References in Text
 
-Section 211(a) of the Legislative Branch Appropriations Act, 1996, as in effect immediately before the effective date of title II of the General Accounting Office Act of 1996, referred to in subsec. (b)(2), is section 211(a) of Pub. L. 104–53, which is set out as a note under section 501 of this title, as in effect before Oct. 19, 1996, thedate of enactment of the General Accounting Office Act of 1996, Pub. L. 104–316, section 203 of which amended section 211 of Pub. L. 104–53 generally.
+Section 211(a) of the Legislative Branch Appropriations Act, 1996, as in effect immediately before the effective date of title II of the General Accounting Office Act of 1996, referred to in subsec. (b)(2), is section 211(a) of Pub. L. 104–53, which is set out as a note under section 501 of this title, as in effect before Oct. 19, 1996, the date of enactment of the General Accounting Office Act of 1996, Pub. L. 104–316, section 203 of which amended section 211 of Pub. L. 104–53 generally.
 
 This Act, referred to in subsec. (b)(2), probably means Pub. L. 104–316, Oct. 19, 1996, 110 Stat. 3286, known as the General Accounting Office Act of 1996, which enacted subsec. (b)(2) of this section. For complete classification of this Act to the Code, see Tables.
 

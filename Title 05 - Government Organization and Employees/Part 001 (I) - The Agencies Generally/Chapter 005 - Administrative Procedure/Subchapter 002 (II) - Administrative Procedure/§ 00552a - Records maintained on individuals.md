@@ -38,7 +38,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) matches performed, by an agency (or component thereof) which performs as its principal function any activity pertaining to the enforcement of criminal laws, subsequent to the initiation of a specific criminal or civil law enforcement investigation of a named person or persons for the purpose of gathering evidence against such person or persons;
 
-&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section 6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 404(e), 464, or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
+&emsp;&emsp;&emsp;(iv) matches of tax information (I) pursuant to section 6103(d) of the Internal Revenue Code of 1986, (II) for purposes of tax administration as defined in section6103(b)(4) of such Code, (III) for the purpose of intercepting a tax refund due an individual under authority granted by section 404(e), 464, or 1137 of the Social Security Act; or (IV) for the purpose of intercepting a tax refund due an individual under any other tax refund intercept program authorized by statute which has been determined by the Director of the Office of Management and Budget to contain verification, notice, and hearing requirements that are substantially similar to the procedures in section 1137 of the Social Security Act;
 
 &emsp;&emsp;&emsp;(v) matches—
 
@@ -72,7 +72,7 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(3) for a routine use as defined in subsection (a)(7) of this section and described under subsection (e)(4)(D) of this section;
 
-&emsp;(4) to the Bureau of the Census for purposes of planning or carrying out a census or surveyor related activity pursuant to the provisions of title 13;
+&emsp;(4) to the Bureau of the Census for purposes of planning or carrying out a census or survey or related activity pursuant to the provisions of title 13;
 
 &emsp;(5) to a recipient who has provided the agency with advance adequate written assurance that the record will be used solely as a statistical research or reporting record, and the record is to be transferred in a form that is not individually identifiable;
 
@@ -162,7 +162,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;&emsp;(G) the agency procedures whereby an individual can be notified at his request if the system of records contains a record pertaining to him;
 
-&emsp;&emsp;(H) the agency procedures whereby an individual can be notified at his request how he can gain access to any record pertaining to him contained in the system of records, and how he can contest its content; and
+&emsp;&emsp;(H) the agency procedures whereby an individual can be notified at his request howhe can gain access to any record pertaining to him contained in the system of records, and how he can contest its content; and
 
 &emsp;&emsp;(I) the categories of sources of records in the system;
 
@@ -256,7 +256,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(1) subject to the provisions of section 552(b)(1) of this title;
 
-&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
+&emsp;(2) investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of this section: <i>Provided, however</i>, That if any individual is denied any right, privilege, or benefit that he would otherwise be entitled by Federal law, or for which he would otherwise be eligible, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identity of a source who furnished information tothe Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
 
 &emsp;(3) maintained in connection with providing protective services to the President of the United States or other individuals pursuant to section 3056 of title 18;
 
@@ -376,7 +376,7 @@ Sanctions.—(1) Notwithstanding any other provision of law, no source agency ma
 
 (r)
 
-Report on New Systems and Matching Programs.—Each agency that proposes to establish or make a significant change in a system of records or a matching program shall provide adequate advance notice of any such proposal (in duplicate) to the Committee on Government Operations of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Office of Management and Budget in order to permit an evaluation of the probable or potential effect of such proposal on the privacy or other rights of individuals.
+Report on New Systems and Matching Programs.—Each agency that proposes to establish or make a significant change in a system of records or a matching program shall provideadequate advance notice of any such proposal (in duplicate) to the Committee on Government Operations of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Office of Management and Budget in order to permit an evaluation of the probable or potential effect of such proposal on the privacy or other rights of individuals.
 
 (s)
 
@@ -438,7 +438,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 (C) A cost-benefit analysis shall not be required under subparagraph (A) prior to the initial approval of a written agreement for a matching program that is specifically required by statute. Any subsequent written agreement for such a program shall not be approved by the Data Integrity Board unless the agency has submitted a cost-benefit analysis of the program as conducted under the preceding approval of such agreement.
 
-(5)(A) If a matching agreement is disapproved by a Data Integrity Board, any party to such agreement may appeal the disapproval to the Director of the Office of Management and Budget. Timely notice of the filing of such an appeal shall be provided by the Director of the Office of Management and Budget to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives.
+(5)(A) If a matching agreement is disapproved by a Data Integrity Board, any party to such agreement may appeal the disapproval to the Director of the Office of Management and Budget. Timely notice of the filing of such an appeal shall be provided by the Director of the Office ofManagement and Budget to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives.
 
 (B) The Director of the Office of Management and Budget may approve a matching agreement notwithstanding the disapproval of a Data Integrity Board if the Director determines that—
 
@@ -452,9 +452,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 (D) If the Data Integrity Board and the Director of the Office of Management and Budget disapprove a matching program proposed by the inspector general of an agency, the inspector general may report the disapproval to the head of the agency and to the Congress.
 
-(6) The Director of the Office of Management and Budget shall, annually during the first 3 years after the date of enactment of this subsection and biennially thereafter, consolidate in a report to the Congress the information contained in the reports from the various Data Integrity Boards under paragraph (3)(D). Such report shall include detailed information about costs and benefits of matching programs that are conducted during the period covered by such consolidated report, and shall identify each waiver granted by a Data Integrity Board of the requirement for completion and submission of a cost-benefit analysis and the reasons for granting the waiver.
-
-(7) In the reports required by paragraphs (3)(D) and (6), agency matching activities that are not matching programs may be reported on an aggregate basis, if and to the extent necessary to protect ongoing law enforcement or counterintelligence investigations.
+(6) In the reports required by paragraph (3)(D), agency matching activities that are not matching programs may be reported on an aggregate basis, if and to the extent necessary to protect ongoing law enforcement or counterintelligence investigations.
 
 (v)
 
@@ -464,7 +462,7 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 &emsp;(2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293.)
 
 #### References in Text
 
@@ -480,13 +478,13 @@ Section 6 of the Privacy Act of 1974, referred to in subsec. (s)(1), is section 
 
 For classification of the Privacy Act of 1974, referred to in subsec. (s)(4), see Short Title note below.
 
-The date of enactment of this subsection, referred to in subsec. (u)(6), is the date of enactment of Pub. L. 100–503 which enacted subsec. (u) of this section, and which was approved Oct. 18, 1988.
-
 #### Codification
 
 Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2244 of Title 7, Agriculture.
 
 #### Amendments
+
+1998—Subsec. (u)(6), (7). Pub. L. 105–362 redesignated par. (7) as (6), substituted “paragraph (3)(D)” for “paragraphs (3)(D) and (6)”, and struck out former par. (6) which read as follows: “The Director of the Office of Management and Budget shall, annually during the first 3 years after the date of enactment of this subsection and biennially thereafter, consolidate in a report to the Congress the information contained in the reports from the various Data Integrity Boards under paragraph (3)(D). Such report shall include detailed information about costs and benefits of matching programs that are conducted during the period covered by such consolidated report, and shall identify each waiver granted by a Data Integrity Board of the requirement for completion and submission of a cost-benefit analysis and the reasons for granting the waiver.”
 
 1997—Subsec. (a)(8)(B)(vii). Pub. L. 105–34 added cl. (vii).
 
@@ -494,7 +492,7 @@ Section 552a of former Title 5, Executive Departments and Government Officers an
 
 Subsec. (a)(8)(B)(v) to (vii). Pub. L. 104–226 inserted “or” at end of cl. (v), struck out “or” at end of cl. (vi), and struck out cl. (vii) which read as follows: “matches performed pursuant to section 6103(<i>l</i>)(12) of the Internal Revenue Code of 1986 and section 1144 of the Social Security Act;”.
 
-Subsecs. (b)(12), (m)(2). Pub. L. 104–316 substituted “3711(f)” for “3711(e)”.
+Subsecs. (b)(12), (m)(2). Pub. L. 104–316 substituted “3711(e)” for “3711(f)”.
 
 1993—Subsec. (a)(8)(B)(vii). Pub. L. 103–66 added cl. (vii).
 
@@ -544,7 +542,7 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1997 Amendment
 
@@ -604,7 +602,7 @@ Section 1 of Pub. L. 100–503 provided that: “This Act \[amending this sectio
 
 #### Short Title
 
-Section 1 of Pub. L. 93–579 provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Privacy Act of 1974’.”
+Section 1 of Pub. L. 93–579 provided: “That this Act \[enacting this section and provisions set out as notesunder this section\] may be cited as the ‘Privacy Act of 1974’.”
 
 #### Delegation of Functions
 
@@ -708,7 +706,7 @@ For provisions relating to a response to a request for information under this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 31 sections 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 300aa–25, 402, 405, 904, 1306, 1382, 3544, 9660; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 sections 111, 30305; title 50 App. section 2159.
+This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 31 sections 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 300aa–25, 402, 405, 904, 1306, 1382, 3544, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 sections 111, 30305; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

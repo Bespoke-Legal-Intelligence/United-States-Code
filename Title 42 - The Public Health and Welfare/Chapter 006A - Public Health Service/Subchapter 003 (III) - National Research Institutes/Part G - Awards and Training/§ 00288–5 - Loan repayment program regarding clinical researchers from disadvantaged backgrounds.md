@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to section 288(a)(1)(C) of this title, the Secretary, acting through the Director of NIH may, subject to paragraph (2), carry out a program of entering into contracts with appropriately qualified health professionals who are from disadvantaged backgrounds under which such health professionals agree to conduct clinical research as employees of the National Institutes of Health in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $20,000 of the principal and interest of the educational loans of the health professionals.
+&emsp;Subject to section 288(a)(1)(C) of this title, the Secretary, acting through the Director of NIH may, subject to paragraph (2), carry out a program of entering into contracts with appropriately qualified health professionals who are from disadvantaged backgrounds under which such health professionals agree to conduct clinical research as employees of the National Institutes of Health in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of the health professionals.
 
 #### (2) Limitation
 
@@ -12,13 +12,19 @@
 
 #### (3) Applicability of certain provisions regarding obligated service
 
-&emsp;Except to the extent inconsistent with this section, the provisions of sections 254m and 254<i>o</i> of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254<i>l</i>–1 of this title.
+&emsp;Except to the extent inconsistent with this section, the provisions of sections 254<i>l</i>–1, 254m and 254<i>o</i> of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254<i>l</i>–1 of this title.
 
 #### (b) Availability of authorization of appropriations
 
 Amounts appropriated for a fiscal year for contracts under subsection (a) of this section shall remain available until the expiration of the second fiscal year beginning after the fiscal year for which the amounts were appropriated.
 
-(July 1, 1944, ch. 373, title IV, §487E, as added June 10, 1993, Pub. L. 103–43, title XVI, §1631, 107 Stat. 185.)
+(July 1, 1944, ch. 373, title IV, §487E, as added Pub. L. 103–43, title XVI, §1631, June 10, 1993, 107 Stat. 185; amended Pub. L. 105–392, title IV, §410(d), Nov. 13, 1998, 112 Stat. 3589.)
+
+#### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–392, §410(d)(1), substituted “$35,000” for “$20,000”.
+
+Subsec. (a)(3). Pub. L. 105–392, §410(d)(2), substituted “254<i>l</i>–1, 254m” for “254m”.
 
 #### Section Referred to in Other Sections
 

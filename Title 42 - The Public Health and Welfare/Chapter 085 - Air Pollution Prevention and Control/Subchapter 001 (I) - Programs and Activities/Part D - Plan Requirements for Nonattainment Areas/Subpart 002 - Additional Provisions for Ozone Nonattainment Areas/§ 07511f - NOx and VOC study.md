@@ -2,7 +2,7 @@
 
 The Administrator, in conjunction with the National Academy of Sciences, shall conduct a study on the role of ozone precursors in tropospheric ozone formation and control. The study shall examine the roles of NO<sub>x</sub> and VOC emission reductions, the extent to which NO<sub>x</sub> reductions may contribute (or be counterproductive) to achievement of attainment in different nonattainment areas, the sensitivity of ozone to the control of NO<sub>x</sub>, the availability and extent of controls for NO<sub>x</sub>, the role of biogenic VOC emissions, and the basic information required for air quality models. The study shall be completed and a proposed report made public for 30 days comment within 1 year of November 15, 1990, and a final report shall be submitted to Congress within 15 months after November 15, 1990. The Administrator shall utilize all available information and studies, as well as develop additional information, in conducting the study required by this section.
 
-(July 14, 1955, ch. 360, title I, §185B, as added Nov. 15, 1990, Pub. L. 101–549, title I, §103, 104 Stat. 2452.)
+(July 14, 1955, ch. 360, title I, §185B, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2452.)
 
 #### Section Referred to in Other Sections
 

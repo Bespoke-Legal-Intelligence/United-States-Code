@@ -14,7 +14,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 #### (c) Chairman and vice chairman; quorum
 
-(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designatedthe chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
+(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
 
 &emsp;(A) is a member of a different political party than the chairman of the Commission for the immediately preceding term, and
 
@@ -62,9 +62,9 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (3) In any proceeding to which paragraph (1) applies in which the commissioners voting are equally divided on a determination that serious injury exists, or that market disruption exists, the Commission shall report to the President the determination of each group of commissioners. In any proceeding to which paragraph (2) applies, the Commission shall report to the President the remedy finding of each group of commissioners voting.
 
-(4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: “The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_.” The three blank spaces shall be filled with the names of the appropriate Commissioners.
+(4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: “The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_.” The three blankspaces shall be filled with the names of the appropriate Commissioners.
 
-(5) Whenever, in any case in which the Commission is authorized to make an investigationupon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
+(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
 
 #### (e) Authorization of appropriations
 
@@ -86,7 +86,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 The Commission shall be considered to be an independent regulatory agency for purposes of chapter 35 of title 44.
 
-(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Jan. 3, 1975, Pub. L. 93–618, title I, §§172(a), (b), 175(b), 88 Stat. 2009–2011; Oct. 4, 1976, Pub. L. 94–455, title XVIII, §1801(a), (b), 90 Stat. 1762; Aug. 17, 1977, Pub. L. 95–106, §§1, 2(a), 91 Stat. 867; Oct. 10, 1978, Pub. L. 95–430, 92 Stat. 1020; Jan. 12, 1983, Pub. L. 97–456, §1(a), 96 Stat. 2503; Oct. 30, 1984, Pub. L. 98–573, title II, §248(c), title VII, §701, 98 Stat. 2998, 3043; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13021, 100 Stat. 305; Dec. 22, 1987, Pub. L. 100–203, title IX, §9502, 101 Stat. 1330–380; Aug. 23, 1988, Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, 102 Stat. 1240, 1262; Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(15), 102 Stat. 3808; Dec. 7, 1989, Pub. L. 101–207, §2, 103 Stat. 1833; Aug. 20, 1990, Pub. L. 101–382, title I, §101, 104 Stat. 633; Dec. 4, 1991, Pub. L. 102–185, §1(a)(1), (2), (c)(1), 105 Stat. 1280.)
+(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Pub. L. 102–185, §1(a)(1)(B), struck out at end “Designation of a chairman 
 
 1988—Subsec. (c)(3)(A)(i). Pub. L. 100–647 substituted “with the shortest period of service on” for “most recently appointed to”.
 
-Pub. L. 100–418, §1611, which directed that subsec. (c)(A)(i) of this section be amended by substituting“with the shortest period of service on” for “most recently appointed to”, was probably intended to be an amendment to subsec. (c)(3)(A)(i). See amendment by Pub. L. 100–647 above.
+Pub. L. 100–418, §1611, which directed that subsec. (c)(A)(i) of this section be amended by substituting “with the shortest period of service on” for “most recently appointed to”, was probably intended to be an amendment to subsec. (c)(3)(A)(i). See amendment by Pub. L. 100–647 above.
 
 Subsec. (d)(1)(A). Pub. L. 100–418, §1401(b)(4)(A), substituted “2252” for “2251”.
 
@@ -208,11 +208,11 @@ Section 1801(c) of Pub. L. 94–455 provided that: “The amendments made by sub
 
 #### Appointment of Chairman in 1992
 
-Section 1(b) of Pub. L. 102–185 provided that: “In the case of the term of the chairman of the United States International Trade Commission beginning June 17, 1992—
+Section 1(b) of Pub. L. 102–185 provided that: “In the case of the term of the chairman of the United StatesInternational Trade Commission beginning June 17, 1992—
 
 &emsp;“(1) section 330(c)(3)(A) of the Tariff Act of 1930 \[19 U.S.C. 1330(c)(3)(A)\] shall not apply, and
 
-&emsp;“(2) the President shall designate as chairman a Commissioner who is a member of the same politicalparty as the chairman of the Commission serving on June 16, 1986.”
+&emsp;“(2) the President shall designate as chairman a Commissioner who is a member of the same political party as the chairman of the Commission serving on June 16, 1986.”
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@
 
 #### (A) Uniform accounting principles consistent with GAAP
 
-&emsp;&emsp;Subject to the requirements of this chapter and any other provision of Federal law, the accounting principles applicable to reports or statements required to be filed with Federal banking agencies by all insured depository institutions shall be uniform andconsistent with generally accepted accounting principles.
+&emsp;&emsp;Subject to the requirements of this chapter and any other provision of Federal law, the accounting principles applicable to reports or statements required to be filed with Federal banking agencies by all insured depository institutions shall be uniform and consistent with generally accepted accounting principles.
 
 #### (B) Stringency
 

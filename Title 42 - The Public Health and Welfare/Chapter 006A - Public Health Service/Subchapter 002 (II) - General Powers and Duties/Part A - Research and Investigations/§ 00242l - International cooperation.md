@@ -30,7 +30,7 @@ In connection with the cooperative endeavors authorized by subsection (a) of thi
 
 The Secretary may provide to personnel appointed or assigned by the Secretary to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 (22 U.S.C. 4081 et seq.). Leaves of absence for personnel under this subsection shall be on the same basis as that provided under subchapter I of chapter 63 of title 5 to individuals serving in the Foreign Service.
 
-(July 1, 1944, ch. 373, title III, §307, formerly §308, as added July 12, 1960, Pub. L. 86–610, §3, 74 Stat. 364; renumbered §307 and amended July 23,1974, Pub. L. 93–353, title I, §106, 88 Stat. 367; Aug. 13, 1981, Pub. L. 97–35, title IX, §921, 95 Stat. 566; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(3), 103 Stat. 2206; Oct. 27, 1992, Pub. L. 102–531, title III, §310, 106 Stat. 3503; Dec. 14, 1993, Pub. L. 103–183, title VII, §702, 107 Stat. 2239.)
+(July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239.)
 
 #### References in Text
 

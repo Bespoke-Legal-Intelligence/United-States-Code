@@ -2,7 +2,7 @@
 
 #### (a) Voiding of preexisting licenses
 
-After the effective date of this subchapter, all licenses, permits, and authorizations other than those issued pursuant to this subchapter shall be void and of no legal effect, to the extent that they purport to authorize any activity regulatedby this subchapter, and whether issued before or after the effective date of this subchapter.
+After the effective date of this subchapter, all licenses, permits, and authorizations other than those issued pursuant to this subchapter shall be void and of no legal effect, to the extent that they purport to authorize any activity regulated by this subchapter, and whether issued before or after the effective date of this subchapter.
 
 #### (b) Actions under authority of Rivers and Harbors Act
 
@@ -20,7 +20,7 @@ Prior to issuing any permit under this subchapter, if it appears to the Administ
 
 #### (2) Federal projects
 
-&emsp;In the case of a Federal project, a State may not adopt or enforce a requirement that is more stringent than a requirement under this subchapter if the Administrator finds that such requirement—
+&emsp;In the case of a Federal project, a State may not adopt or enforce a requirement that ismore stringent than a requirement under this subchapter if the Administrator finds that such requirement—
 
 &emsp;&emsp;(A) is not supported by relevant scientific evidence showing the requirement to be protective of human health, aquatic resources, or the environment;
 
@@ -64,7 +64,7 @@ This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classifie
 
 1992—Subsec. (d). Pub. L. 102–580 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “After the effective date of this subchapter, no State shall adopt or enforce any rule or regulation relating to any activity regulated by this subchapter. Any State may, however, propose to the Administrator criteria relating to the dumping of materials into ocean waters within its jurisdiction, or into other ocean waters to the extent that such dumping may affect waters within the jurisdiction of such State, and if the Administrator determines, after notice and opportunity for hearing, that the proposed criteria are not inconsistent with the purposes of this subchapter, may adopt those criteria and may issue regulations to implement such criteria. Such determination shall be made by the Administrator within one hundred and twenty days of receipt of the proposed criteria. For the purposes of this subsection, the term ‘State’ means any State, interstate or regional authority, Federal territory or Commonwealth or the District of Columbia.”
 
-1990—Subsec. (f). Pub. L. 101–596, which directed the substitution of “the requirements of this subchapter” for all after “shall comply with” in “subsection 116(g) of the Marine Protection Research and Sanctuaries Act (33 U.S.C. 1416(g))”, was executed by making the substitution for “the criteria established pursuant to the second sentence of section 1412(a) of this title relating to the effects of dumping. Subsection (d) of this section shall not apply to this subsection.” which followed“shall comply with” in section 106(f) of the Marine Protection Research and Sanctuaries Act of 1972, which is classified to subsec. (f) of this section, to reflect the probable intent of Congress.
+1990—Subsec. (f). Pub. L. 101–596, which directed the substitution of “the requirements of this subchapter” for all after “shall comply with” in “subsection 116(g) of the Marine Protection Research and Sanctuaries Act (33 U.S.C. 1416(g))”, was executed by making the substitution for “the criteria established pursuant to the second sentence of section 1412(a) of this title relating to the effects of dumping. Subsection (d) of this section shall not apply to this subsection.” which followed “shall comply with” in section 106(f) of the Marine Protection Research and Sanctuaries Act of 1972, which is classified to subsec. (f) of this section, to reflect the probable intent of Congress.
 
 1986—Subsec. (g). Pub. L. 99–499 added subsec. (g).
 

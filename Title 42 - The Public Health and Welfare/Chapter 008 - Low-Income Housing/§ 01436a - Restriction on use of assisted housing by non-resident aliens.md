@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the applicable Secretary may not mak
 
 (1) For purposes of this section the term “financial assistance” means financial assistance made available pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], section 1715z or 1715z–1 of title 12, the direct loan program under section 1472 of this title or section 1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12851 et seq.\], or section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\].
 
-(2) If the eligibility for financial assistance of at least one member of a family has been affirmatively established under the program of financial assistance and under this section, and the ineligibility of one or more family members has not been affirmatively established under this section, any financial assistance made available to that family by the Secretary of Housing and Urban Development shall be prorated, based on the number of individuals in the family for whom eligibility has been affirmatively established under the program of financial assistance and under this section, as compared with the total number of individuals who are members of the family.
+(2) If the eligibility for financial assistance of at least one member of a family has been affirmatively established under the program of financial assistance and under this section, and the ineligibility of one or more family members has not been affirmatively established under this section, any financial assistance made available to that family by the applicable Secretary shall be prorated, based on the number of individuals in the family for whom eligibility has been affirmatively established under the program of financial assistance and under this section, as compared with the total number of individuals who are members of the family.
 
 #### (c) Preservation of families; students
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the applicable Secretary may not mak
 
 The following conditions apply with respect to financial assistance being or to be provided for the benefit of an individual:
 
-&emsp;(1)(A) There must be a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status. If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the Secretary of Housing and Urban Development, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation.
+&emsp;(1)(A) There must be a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status. If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the applicable Secretary, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the applicable Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation.
 
 &emsp;(B) In this subsection, the term “satisfactory immigration status” means an immigration status which does not make the individual ineligible for financial assistance.
 
@@ -60,9 +60,9 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(B) such other documents as the applicable Secretary determines constitutes reasonable evidence indicating a satisfactory immigration status.
 
-> &emsp;In the case of an individual applying for financial assistance on or after September 30, 1996, the Secretary may not provide any such assistance for the benefit of that individual before documentation is presented and verified under paragraph (3) or (4).
+> &emsp;In the case of an individual applying for financial assistance on or after September 30, 1996, the applicable Secretary may not provide any such assistance for the benefit of that individual before documentation is presented and verified under paragraph (3) or (4).
 
-&emsp;(3) If the documentation described in paragraph (2)(A) is presented, the applicable Secretary shall utilize the individual's alien file or alien admission number to verify with theImmigration and Naturalization Service the individual's immigration status through an automated or other system (designated by the Service for use with States) that—
+&emsp;(3) If the documentation described in paragraph (2)(A) is presented, the applicable Secretary shall utilize the individual's alien file or alien admission number to verify with the Immigration and Naturalization Service the individual's immigration status through an automated or other system (designated by the Service for use with States) that—
 
 &emsp;&emsp;(A) utilizes the individual's name, file number, admission number, or other means permitting efficient verification, and
 
@@ -82,7 +82,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(i) the applicable Secretary shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents or additional information for official verification,
 
-&emsp;&emsp;&emsp;(ii) pending such verification or appeal, the <sup>1</sup> Secretary may not—
+&emsp;&emsp;&emsp;(ii) pending such verification or appeal, the applicable Secretary may not—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of any individual receiving assistance on September 30, 1996, delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual; and
 
@@ -90,7 +90,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(iii) the applicable Secretary shall not be liable for the consequences of any action, delay, or failure of the Service to conduct such verification.
 
-&emsp;(5) If the applicable Secretary determines, after complying with the requirements of paragraph (4), that such an individual is not in a satisfactory immigration status, the <sup>1</sup> Secretary shall—
+&emsp;(5) If the applicable Secretary determines, after complying with the requirements of paragraph (4), that such an individual is not in a satisfactory immigration status, the applicable Secretary shall—
 
 &emsp;&emsp;(A) deny the application of that individual for financial assistance or terminate the eligibility of that individual for financial assistance, as applicable;
 
@@ -98,7 +98,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(C) provide to the individual written notice of the determination under this paragraph, the right to a fair hearing process, and the time limitation for requesting a hearing under subparagraph (C).
 
-&emsp;(6) The <sup>1</sup> Secretary shall terminate the eligibility for financial assistance of an individual and the members of the household of the individual, for a period of not less than 24 months, upon determining that such individual has knowingly permitted another individual who is not eligible for such assistance to reside in the public or assisted housing unit of the individual. This provision shall not apply to a family if the ineligibility of the ineligible individual at issue was considered in calculating any proration of assistance provided for the family.
+&emsp;(6) The applicable Secretary shall terminate the eligibility for financial assistance of an individual and the members of the household of the individual, for a period of not less than 24 months, upon determining that such individual has knowingly permitted another individual who is not eligible for such assistance to reside in the public or assisted housing unit of the individual. This provision shall not apply to a family if the ineligibility of the ineligible individual at issue was considered in calculating any proration of assistance provided for the family.
 
 > For purposes of this subsection, the term “applicable Secretary” means the applicable Secretary, a public housing agency, or another entity that determines the eligibility of an individual for financial assistance.
 
@@ -110,7 +110,7 @@ The applicable Secretary shall not take any compliance, disallowance, penalty, o
 
 &emsp;(2) because the entity, under subsection (d)(4)(A)(ii) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)), was required to provide a reasonable opportunity to submit documentation, or
 
-&emsp;(3) because the entity, under subsection (d)(4)(B)(ii) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law99–603)), was required to wait for the response of the Immigration and Naturalization Service to the entity's request for official verification of the immigration status of the individual, or the response from the Immigration and Naturalization Service to the appeal of that individual.
+&emsp;(3) because the entity, under subsection (d)(4)(B)(ii) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)), was required to wait for the response of the Immigration and Naturalization Service to the entity's request for official verification of the immigration status of the individual, or the response from the Immigration and Naturalization Service to the appeal of that individual.
 
 #### (f) Verification system; liability of State or local government agencies or officials; prior consent agreements, court decrees or court orders unaffected
 
@@ -130,19 +130,19 @@ For purposes of this section, the term “applicable Secretary” means—
 
 &emsp;(2) the Secretary of Agriculture, with respect to financial assistance administered by such Secretary.
 
-#### (h) <sup>2</sup> Verification of eligibility
+#### (i) Verification of eligibility
 
 #### (1) In general
 
-&emsp;Except in the case of an election under paragraph (2)(A), no individual or family applying for financial assistance may receive such financial assistance prior to the affirmative establishment and verification of eligibility of at least the individual or one family member under this section by the Secretary or other appropriate entity.
+&emsp;No individual or family applying for financial assistance may receive such financial assistance prior to the affirmative establishment and verification of eligibility of at least the individual or one family member under subsection (d) of this section by the applicable Secretary or other appropriate entity.
 
 #### (2) Rules applicable to public housing agencies
 
 &emsp;A public housing agency (as that term is defined in section 3 of the United States Housing Act of 1937 \[42 U.S.C. 1437a\])—
 
-&emsp;&emsp;(A) may elect not to comply with this section; and
+&emsp;&emsp;(A) may, notwithstanding paragraph (1) of this subsection, elect not to affirmatively establish and verify eligibility before providing financial assistance <sup>1</sup>
 
-&emsp;&emsp;(B) in complying with this section—
+&emsp;&emsp;(B) in carrying out subsection (d) of this section—
 
 &emsp;&emsp;&emsp;(i) may initiate procedures to affirmatively establish or verify the eligibility of an individual or family under this section at any time at which the public housing agency determines that such eligibility is in question, regardless of whether or not that individual or family is at or near the top of the waiting list of the public housing agency;
 
@@ -154,7 +154,7 @@ For purposes of this section, the term “applicable Secretary” means—
 
 &emsp;For purposes of this subsection, with respect to a family, the term “eligibility” means the eligibility of each family member.
 
-(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687.)
+(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653.)
 
 #### References in Text
 
@@ -171,6 +171,30 @@ The Immigration Reform and Control Act of 1986, referred to in subsecs. (e)(2), 
 Section was enacted as part of the Housing and Community Development Act of 1980, and not as part of the United States Housing Act of 1937 which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–276, §592(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development”.
+
+Subsec. (c)(1)(B). Pub. L. 105–276, §592(a)(2), aligned cls. (ii) and (iii) with cl. (i).
+
+Subsec. (d)(1)(A). Pub. L. 105–276, §592(a)(3)(A), in last sentence, substituted “applicable Secretary, or” for “Secretary of Housing and Urban Development, or” and “applicable Secretary considers” for “Secretary considers”.
+
+Subsec. (d)(2). Pub. L. 105–276, §592(a)(3)(B), aligned concluding provisions with par. (2) and inserted “applicable” before “Secretary” in concluding provisions.
+
+Subsec. (d)(4)(B)(ii). Pub. L. 105–276, §592(a)(3)(C), inserted “applicable” before “Secretary” in introductory provisions.
+
+Subsec. (d)(5). Pub. L. 105–276, §592(a)(3)(D), substituted “the applicable Secretary shall” for “the Secretary shall” in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 105–276, §592(a)(3)(E), inserted “applicable” before “Secretary”.
+
+Subsec. (h). Pub. L. 105–276, §592(a)(5), redesignated subsec. (h), relating to verification of eligibility, as (i).
+
+Subsec. (h)(1). Pub. L. 105–276, §592(a)(4)(A), substituted “No” for “Except in the case of an election under paragraph (2)(A), no” and “subsection (d) of this section” for “this section” and inserted “applicable” before “Secretary”.
+
+Subsec. (h)(2)(A). Pub. L. 105–276, §592(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “may elect not to comply with this section; and”.
+
+Subsec. (h)(2)(B). Pub. L. 105–276, §592(a)(4)(B)(ii), substituted “in carrying out subsection (d) of this section” for “in complying with this section” in introductory provisions.
+
+Subsec. (i). Pub. L. 105–276, §592(a)(5), redesignated subsec. (h), relating to verification of eligibility, as (i).
 
 1996—Subsec. (a). Pub. L. 104–193, §441(a)(1), substituted “applicable Secretary” for “Secretary of Housing and Urban Development” in introductory provisions.
 
@@ -212,7 +236,7 @@ Subsec. (d)(5). Pub. L. 104–208, §574(5), inserted “, the Secretary shall�
 
 “(B) the applicable fair hearing process shall be made available with respect to the individual.”
 
-Subsec. (d)(6). Pub. L. 104–208, §574(6), added par. (6) and struck out former par. (6) which read as follows: “For purposes of paragraph (5)(B), the applicable fair hearing process made available with respect to any individual shall include not less than the following procedural protections:
+Subsec. (d)(6). Pub. L. 104–208, §574(6), added par. (6) and struck out former par. (6) which read as follows: “For purposes of paragraph (5)(B), the applicable fairhearing process made available with respect to any individual shall include not less than the following procedural protections:
 
 &emsp;“(A) The applicable Secretary shall provide the individual with written notice of the determination described in paragraph (5) and of the opportunity for a hearing with respect to the determination.
 
@@ -267,6 +291,10 @@ Subsec. (g). Pub. L. 100–242, §164(f)(1), added subsec. (g).
 1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing by resident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
 
 Subsec. (b). Pub. L. 97–35 struck out “(1)” after “(b)” and par. (2) which defined “nonimmigrant student-alien”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §592(b), Oct. 21, 1998, 112 Stat. 2654, provided that: “The amendments made by this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -326,7 +354,5 @@ Pub. L. 98–181, title IV, §474(e), Nov. 30, 1983, 97 Stat. 1239, provided in 
 
 Section 329(b) of Pub. L. 97–35 provided that: “An alien who is lawfully present in the United States as a result of being granted conditional entry pursuant to section 203(a)(7) of the Immigration and Nationality Act (8 U.S.C. 1153(a)(7)) before April 1, 1980, because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity shall be deemed, for purposes of section 214 of the Housing and Community Development Act of 1980 \[this section\], to be an alien described in section 214(a)(3) of such Act \[subsec. (a)(3) of this section\].”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the applicable”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(i)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “; and”.</i>
 

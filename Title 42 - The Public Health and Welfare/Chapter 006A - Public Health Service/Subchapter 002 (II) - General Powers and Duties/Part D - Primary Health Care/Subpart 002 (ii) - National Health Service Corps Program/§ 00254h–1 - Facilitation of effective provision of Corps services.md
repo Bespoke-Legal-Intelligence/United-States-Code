@@ -18,7 +18,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (3) Extent of counseling services
 
-&emsp;With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, this subsection shall be carried out regarding such individuals throughout the period of obligated service (and, additionally, throughout the period specified in paragraph (2)(B), in the case of the Scholarship Program). With respect to Corps members generally, this subsection shall be carried out to the extent practicable.
+&emsp;With respect to individuals who have entered into contracts for obligated serviceunder the Scholarship or Loan Repayment Program, this subsection shall be carried out regarding such individuals throughout the period of obligated service (and, additionally, throughout the period specified in paragraph (2)(B), in the case of the Scholarship Program). With respect to Corps members generally, this subsection shall be carried out to the extent practicable.
 
 #### (c) Grants regarding preparation of students for practice
 
@@ -70,11 +70,11 @@ In carrying out subsection (a) of this section and sections 254<i>l</i>(d) and 2
 
 &emsp;(3) the appropriate conditions for the assignment and utilization in health manpower shortage areas of certified nurse practitioners, certified nurse midwives, and physician assistants.
 
-(July 1, 1944, ch. 373, title III, §336, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2706(b), 95 Stat. 907; amended Dec. 1, 1987, Pub. L. 100–177, title II, §202(d), 101 Stat. 997; Nov. 16, 1990, Pub. L. 101–597, title I, §107, title IV, §401(b)\[(a)\], 104 Stat. 3018, 3035.)
+(July 1, 1944, ch. 373, title III, §336, as added Pub. L. 97–35, title XXVII, §2706(b), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 100–177, title II, §202(d), Dec. 1, 1987, 101 Stat. 997; Pub. L. 101–597, title I, §107, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035.)
 
 #### References in Text
 
-Section 295g–1 of this title, referred to in subsec. (d), was in the original a reference to section 781 of act July 1, 1944. Section 781 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 781 of act July 1, 1944, relating to research on certain health professions issues, which is classified to section 295 of this title. For provisions relating to area health education centers, see section 293j of this title.
+Section 295g–1 of this title, referred to in subsec. (d), was in the original a reference to section 781 of act July 1, 1944. Section 781 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
 
 #### Prior Provisions
 
@@ -91,6 +91,10 @@ A prior section 336 of act July 1, 1944, was renumbered section 336A by Pub. L. 
 Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted “health professional shortage area” for “health manpower shortage area”.
 
 1987—Subsec. (a). Pub. L. 100–177 substituted “Scholarship Program or Loan Repayment Program” for “scholarship program”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 11709 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

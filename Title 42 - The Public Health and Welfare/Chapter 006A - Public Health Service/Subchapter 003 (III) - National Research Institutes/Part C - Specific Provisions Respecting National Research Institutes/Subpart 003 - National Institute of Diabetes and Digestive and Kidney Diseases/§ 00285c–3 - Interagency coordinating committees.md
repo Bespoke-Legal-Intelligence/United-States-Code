@@ -8,7 +8,7 @@ For the purpose of—
 
 &emsp;(2) coordinating those aspects of all Federal health programs and activities relating to such diseases to assure the adequacy and technical soundness of such programs and activities and to provide for the full communication and exchange of information necessary to maintain adequate coordination of such programs and activities;
 
-> the Secretary shall establish a Diabetes Mellitus Interagency Coordinating Committee, a Digestive Diseases Interagency Coordinating Committee, and a Kidney, Urologic, and HematologicDiseases Coordinating Committee (hereafter in this section individually referred to as a “Committee”).
+> the Secretary shall establish a Diabetes Mellitus Interagency Coordinating Committee, a Digestive Diseases Interagency Coordinating Committee, and a Kidney, Urologic, and Hematologic Diseases Coordinating Committee (hereafter in this section individually referred to as a “Committee”).
 
 #### (b) Membership; chairman; meetings
 
@@ -26,7 +26,7 @@ Each Committee shall prepare an annual report for—
 
 > detailing the work of the Committee in carrying out paragraphs (1) and (2) of subsection (a) of this section in the fiscal year for which the report was prepared. Such report shall be submitted not later than 120 days after the end of each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §429, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 843; amended Oct. 25, 1988, Pub. L. 100–527, §10(4), 102 Stat. 2641; Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985.)
+(July 1, 1944, ch. 373, title IV, §429, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 843; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985.)
 
 #### Amendments
 

@@ -26,13 +26,13 @@
 
 &emsp;When a matter is referred to the Attorney General pursuant to paragraph (1)(A), or whenever the Attorney General has reason to believe that a State or an entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of subsection (a)(2) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
-(July 1, 1944, ch. 373, title V, §533, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 522; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4732.)
+(July 1, 1944, ch. 373, title V, §533, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 522; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4732.)
 
 #### References in Text
 
 The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(1)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 92–318, June 23,1972, 86 Stat. 235, as amended. Title IX of the Education Amendments of 1972 is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Education Amendments of 1972 is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 

@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions in cash toward such costs in an amount equal to—
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than $1 for each $3 of Federal funds provided in the grant;
 
@@ -108,7 +108,7 @@ For purposes of this section, the term “State” means each of the several Sta
 
 #### (1) In general
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $3,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, and $3,000,000 for fiscal year 1993.
+&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $3,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $3,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1998 through 2002.
 
 #### (2) Availability
 
@@ -116,9 +116,9 @@ For purposes of this section, the term “State” means each of the several Sta
 
 #### (k) Termination of program
 
-No grant may be made under this section after the aggregate amounts appropriated under subsection (j)(1) of this section are equal to $10,000,000.
+No grant may be made under this section after the aggregate amounts appropriated under subsection (j)(1) of this section are equal to $36,000,000.
 
-(July 1, 1944, ch. 373, title III, §338J, as added Nov. 16, 1990, Pub. L. 101–597, title III, §302, 104 Stat. 3032.)
+(July 1, 1944, ch. 373, title III, §338J, as added Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, §301, Nov. 13, 1998, 112 Stat. 3585.)
 
 #### References in Text
 
@@ -130,9 +130,17 @@ A prior section 254r, act July 1, 1944, ch. 373, title III, §338I, formerly tit
 
 A prior section 338J of act July 1, 1944, was renumbered section 338K by Pub. L. 101–597 and is classified to section 254s of this title.
 
+#### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–392, §301(1), struck out “in cash” after “contributions” in introductory provisions.
+
+Subsec. (j)(1). Pub. L. 105–392, §301(2), struck out “and” after “1992,” and inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1998 through 2002”.
+
+Subsec. (k). Pub. L. 105–392, §301(3), substituted “$36,000,000” for “$10,000,000”.
+
 #### Communications for Rural Health Providers
 
-Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541, renumbered §154 by Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379, directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement in the use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
+Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541, renumbered §154 by Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379, directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement inthe use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
 
 Similar provisions were contained in Pub. L. 101–555, §3, Nov. 15, 1990, 104 Stat. 2760.
 

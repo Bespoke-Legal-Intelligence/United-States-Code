@@ -30,7 +30,7 @@
 
 (h) The Secretary of Defense may designate any claims commission appointed under subsection (a) to settle and pay, as provided in this section, claims for damage caused by a civilian employee of the Department of Defense other than an employee of a military department. Payments of claims under this subsection shall be made from appropriations as provided in section 2732 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 154; Sept. 2, 1958, Pub. L. 85–861, §1(55), 72 Stat. 1461; Sept. 1, 1959, Pub. L. 86–223, §1(1), 73 Stat. 453; Apr. 8, 1960, Pub. L. 86–411, 74 Stat. 16; Sept. 26, 1968, Pub. L. 90–521, §§1, 3, 82 Stat. 874; July 8, 1970, Pub. L. 91–312, §1, 84 Stat. 412; July 8, 1974, Pub. L. 93–336, §2, 88 Stat. 292; Dec. 12, 1980, Pub. L. 96–513, title V, §511(95), 94 Stat. 2928; Oct. 30, 1984, Pub. L. 98–564, §2, 98 Stat. 2918; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(A), 104 Stat. 1709; Oct. 19, 1996, Pub. L. 104–316, title II, §202(e), 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 154; Pub. L. 85–861, §1(55), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 86–223, §1(1), Sept. 1, 1959, 73 Stat. 453; Pub. L. 86–411, Apr. 8, 1960, 74 Stat. 16; Pub. L. 90–521, §§1, 3, Sept. 26, 1968, 82 Stat. 874; Pub. L. 91–312, §1, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §2, July 8, 1974, 88 Stat. 292; Pub. L. 96–513, title V, §511(95), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §2, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(A), Nov. 5, 1990, 104 Stat. 1709; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1956
 
@@ -176,5 +176,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2733, 2735, 2736 of this title; title 31 section 1304; title 32 section 715; title 36 section 138b.
+This section is referred to in sections 2733, 2735, 2736 of this title; title 31 section 1304; title 32 section 715; title 36 section 2110.
 

@@ -10,7 +10,7 @@
 
 (2) If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility. In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
 
-(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer periodis otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
+(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
 (4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
@@ -28,7 +28,7 @@ No person shall become ineligible under section 3811 of this title for program l
 
 &emsp;(1) on highly erodible land in an area—
 
-&emsp;&emsp;(A) within a conservation district, under a conservation system that has been approved by a conservation district after the district has determined that the conservation system is in conformity with technical standards set forth in the Soil Conservation Service technical guide for such district; or
+&emsp;&emsp;(A) within a conservation district, under a conservation system that has been approved by a conservation district after the districthas determined that the conservation system is in conformity with technical standards set forth in the Soil Conservation Service technical guide for such district; or
 
 &emsp;&emsp;(B) not within a conservation district, under a conservation system determined by the Secretary to be adequate for the protection of highly erodible land that has been set aside or for the production of such agricultural commodity on any highly erodible land subject to this chapter; or
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 101–624, §1412(b)(3), redesignated subsec. (c) as (d).
 
 Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (h).
 
-1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
+1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservationtreatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
 

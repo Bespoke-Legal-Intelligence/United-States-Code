@@ -6,15 +6,13 @@ Except as authorized under subsection (b) of this section, no consumer reporting
 
 (1) cases <sup>1</sup> under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
 
-(2) Suits and judgments which, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period.
+(2) Civil suits, civil judgments, and records of arrest that, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period.
 
 (3) Paid tax liens which, from date of payment, antedate the report by more than seven years.
 
 (4) Accounts placed for collection or charged to profit and loss which antedate the report by more than seven years.
 
-(5) Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.
-
-(6) Any other adverse item of information which antedates the report by more than seven years.
+(5) Any other adverse item of information, other than records of convictions of crimes which antedates the report by more than seven years.
 
 #### (b) Exempted cases
 
@@ -48,13 +46,17 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(4) o
 
 If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who <sup>2</sup> was furnished to the agency is disputed by the consumer, the agency shall indicate that fact in each consumer report that includes the disputed information.
 
-(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435.)
+(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211.)
 
 #### References in Text
 
 The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–347, §5(1), which directed the amendment of par. (2) by substituting “Civil suits, civil judgments, and records of arrest that” for “Suits and Judgments which”, was executed by making the substitution for “Suits and judgments which” to reflect the probable intent of Congress.
+
+Subsec. (a)(5), (6). Pub. L. 105–347, §5(2)–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
 
 1996—Pub. L. 104–208, §2406(e)(1), amended section catchline.
 
@@ -69,6 +71,10 @@ Subsec. (d). Pub. L. 104–208, §2406(c), added subsec. (d).
 Subsecs. (e), (f). Pub. L. 104–208, §2406(d), added subsecs. (e) and (f).
 
 1978—Subsec. (a)(1). Pub. L. 95–598 substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1996 Amendment
 

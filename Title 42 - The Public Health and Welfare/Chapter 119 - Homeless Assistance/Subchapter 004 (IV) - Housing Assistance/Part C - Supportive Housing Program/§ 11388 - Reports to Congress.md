@@ -1,6 +1,6 @@
 ### §11388. Reports to Congress
 
-The Secretary shall submit a report to the Congress annually, summarizing the activities carried out under this part and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities. The report shall be submitted not later than 4 months after the end of each fiscal year (except that, in the case of fiscal year 1993, the report shall be submitted not later than 6 months after the end of the fiscal year).
+The Secretary shall submit a report to the Congress annually, summarizing the activitiescarried out under this part and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities. The report shall be submitted not later than 4 months after the end of each fiscal year (except that, in the case of fiscal year 1993, the report shall be submitted not later than 6 months after the end of the fiscal year).
 
 (Pub. L. 100–77, title IV, §428, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4021.)
 

@@ -41,7 +41,7 @@
 | [7136\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007136%20-%20Economic%20Regulatory%20Administration%3B%20appointment%20of%20Administrator%3B%20compensation%3B%20qualifications%3B%20functions.md) | Economic Regulatory Administration; appointment of Administrator; compensation; qualifications; functions. |
 | [7137\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007137%20-%20Functions%20of%20Comptroller%20General.md) | Functions of Comptroller General. |
 | [7138\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007138%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93504%2C%20title%20I%2C%20%C2%A7102%28e%29%281%29%28A%29%2C%20Oct.%2018%2C%201988%2C%20102%20Stat.%202517.md) | Repealed. |
-| [7139\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007139%20-%20Office%20of%20Energy%20Research%3B%20establishment%3B%20appointment%20of%20Director%3B%20compensation%3B%20duties.md) | Office of Energy Research; establishment; appointment of Director; compensation; duties. |
+| [7139\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007139%20-%20Office%20of%20Science%3B%20establishment%3B%20appointment%20of%20Director%3B%20compensation%3B%20duties.md) | Office of Science; establishment; appointment of Director; compensation; duties. |
 | [7140\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007140%20-%20Leasing%20Liaison%20Committee%3B%20establishment%3B%20composition.md) | Leasing Liaison Committee; establishment; composition. |
 | [7141\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007141%20-%20Office%20of%20Minority%20Economic%20Impact.md) | Office of Minority Economic Impact. |
 | (a) | Establishment; appointment of Director; compensation. |
@@ -245,6 +245,11 @@
 | (a) | Facilities of United States and foreign governments. |
 | (b) | Facilities under custody of Secretary. |
 | (c) | Use of reimbursement proceeds. |
+| [7259a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007259a%20-%20Activities%20of%20Department%20of%20Energy%20facilities.md) | Activities of Department of Energy facilities. |
+| (a) | Research and activities on behalf of non-department persons and entities. |
+| (b) | Charges. |
+| (c) | Pilot program of reduced facility overhead charges. |
+| (d) | Applicability with respect to user fee practice. |
 | [7260\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007260%20-%20Field%20offices.md) | Field offices. |
 | [7261\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007261%20-%20Acquisition%20of%20copyrights%2C%20patents%2C%20etc.md) | Acquisition of copyrights, patents, etc. |
 | [7261a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007261a%20-%20Protection%20of%20sensitive%20technical%20information.md) | Protection of sensitive technical information. |
@@ -280,6 +285,9 @@
 | (a) | Restriction. |
 | (b) | Exception. |
 | [7273b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273b%20-%20Security%20investigations.md) | Security investigations. |
+| [7273c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273c%20-%20International%20cooperative%20stockpile%20stewardship.md) | International cooperative stockpile stewardship. |
+| (a) | Funding prohibition. |
+| (b) | Exceptions. |
 | [7274\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274%20-%20Environmental%20impact%20statements%20relating%20to%20defense%20facilities%20of%20Department%20of%20Energy.md) | Environmental impact statements relating to defense facilities of Department of Energy. |
 | [7274a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274a%20-%20Defense%20waste%20cleanup%20technology%20program.md) | Defense waste cleanup technology program. |
 | (a) | Establishment of program. |

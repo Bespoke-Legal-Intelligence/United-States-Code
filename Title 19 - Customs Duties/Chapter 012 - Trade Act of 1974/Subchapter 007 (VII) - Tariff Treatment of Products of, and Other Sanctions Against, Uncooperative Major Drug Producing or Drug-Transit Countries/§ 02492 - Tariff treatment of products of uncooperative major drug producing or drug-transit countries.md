@@ -28,7 +28,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;&emsp;(III) in preventing and punishing the laundering in that country of drug-related profits or drug-related moneys, and
 
-&emsp;&emsp;(IV) in preventing and punishing bribery and other forms of public corruption which facilitate the illicit production, processing, or shipment of narcotic and psychotropic drugs and other controlled substances, or which discourage the investigation and prosecution of such acts; or
+&emsp;&emsp;(IV) in preventing and punishing bribery and other forms of public corruption whichfacilitate the illicit production, processing, or shipment of narcotic and psychotropic drugs and other controlled substances, or which discourage the investigation and prosecution of such acts; or
 
 &emsp;(ii) for a country that would not otherwise qualify for certification under clause (i), the vital national interests of the United States require that subsection (a) of this section not be applied with respect to that country.
 
@@ -78,7 +78,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(F) Does any senior official of that government engage in, encourage, or facilitate the production or distribution of illicit narcotic and psychotropic drugs and other controlled substances?
 
-&emsp;(G) Has that government investigated aggressively all cases in which any member of an agency of the United States Government engaged in drug enforcement activities since January 1, 1985, has been the victim of acts or threats of violence, inflicted by or with the complicity of any law enforcement or other officer of such country or any political subdivision thereof, and has energetically sought to bring the perpetrators of such offense or offenses to justice?
+&emsp;(G) Has that government investigated aggressively all cases in which any member of an agency of the United States Government engaged in drug enforcement activities sinceJanuary 1, 1985, has been the victim of acts or threats of violence, inflicted by or with the complicity of any law enforcement or other officer of such country or any political subdivision thereof, and has energetically sought to bring the perpetrators of such offense or offenses to justice?
 
 &emsp;(H) Having been requested to do so by the United States Government, does that government fail to provide reasonable cooperation to lawful activities of United States drug enforcement agents, including the refusal of permission to such agents engaged in interdiction of aerial smuggling into the United States to pursue suspected aerial smugglers a reasonable distance into the airspace of the requested country?
 
@@ -104,7 +104,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 #### (c) Duration of action
 
-The action taken by the President under paragraph (1), (2), or (3) of subsection (a) of this section shall apply to the products of a foreigncountry that are entered, or withdrawn from warehouse for consumption, during the period that such action is in effect.
+The action taken by the President under paragraph (1), (2), or (3) of subsection (a) of this section shall apply to the products of a foreign country that are entered, or withdrawn from warehouse for consumption, during the period that such action is in effect.
 
 #### (d) Presidential action regarding aviation
 
@@ -128,7 +128,7 @@ The action taken by the President under paragraph (1), (2), or (3) of subsection
 
 For each calendar year, the Secretary of State, after consultation with the appropriate committees of the Congress, shall establish numerical standards and other guidelines for determining which countries will be considered to be major drug-transit countries under section 2495(3)(A) and (B) of this title.
 
-(Pub. L. 93–618, title VIII, §802, as added Pub. L. 99–570, title IX, §9001, Oct. 27, 1986, 100 Stat. 3207–164; amended Pub. L. 100–204, title VIII, §806(a), Dec. 22, 1987, 101 Stat. 1398; Pub. L. 100–690, title IV, §4408, Nov. 18, 1988, 102 Stat. 4281; Pub. L. 101–231, §17(h)(1)–(4), Dec. 13, 1989, 103 Stat. 1965.)
+(Pub. L. 93–618, title VIII, §802, as added Pub. L. 99–570, title IX, §9001, Oct. 27, 1986, 100 Stat. 3207–164; amended Pub. L. 100–204, title VIII,§806(a), Dec. 22, 1987, 101 Stat. 1398; Pub. L. 100–690, title IV, §4408, Nov. 18, 1988, 102 Stat. 4281; Pub. L. 101–231, §17(h)(1)–(4), Dec. 13, 1989, 103 Stat. 1965.)
 
 #### References in Text
 

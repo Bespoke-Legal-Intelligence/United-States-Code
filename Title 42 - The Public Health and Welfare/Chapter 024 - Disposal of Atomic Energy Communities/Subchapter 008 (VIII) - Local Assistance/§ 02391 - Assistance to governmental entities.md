@@ -34,7 +34,7 @@ With respect to any entity not less than six months prior to the expiration of t
 
 In exercising the authority of subsection (a) of this section the Administrator shall assure that the governmental or other entities receiving assistance hereunder utilize all reasonable, available means to achieve financial self-sufficiency to the end that assistance payments by the Administrator may be reduced or terminated at the earliest practical time.
 
-(Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Dec. 14, 1967, Pub. L. 90–190, §2, 81 Stat. 576; Dec. 31, 1975, Pub. L. 94–187, title VI, §601(1)–(6), 89 Stat. 1077, 1078; Feb. 25, 1978, Pub. L. 95–238, title II, §205(a), 92 Stat. 60; Feb. 10, 1996, Pub. L. 104–106, div. C, title XXXI, §3161(c), 110 Stat. 627.)
+(Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Pub. L. 90–190, §2, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1)–(6), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(a), Feb. 25, 1978, 92 Stat. 60; Pub. L. 104–106, div. C, title XXXI, §3161(c), Feb. 10, 1996, 110 Stat. 627.)
 
 #### References in Text
 

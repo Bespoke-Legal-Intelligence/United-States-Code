@@ -42,7 +42,7 @@ In regard to the calculation of relative values in the operations of petroleum r
 
 &emsp;For purposes of this subsection, the term “foreign trade zone” includes a subzone.
 
-(June 18, 1934, ch. 590, §3, 48 Stat. 999; June 17, 1950, ch. 296, §1, 64 Stat. 246; June 2, 1970, Pub. L. 91–271, title III, §309, 84 Stat. 292; Oct. 30, 1984, Pub. L. 98–573, title II, §231(a)(2), 98 Stat. 2990; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1894, 100 Stat. 2931; Aug. 23, 1988, Pub. L. 100–418, title I, §1783(f), 102 Stat. 1300; Sept. 28, 1988, Pub. L. 100–449, title II, §204(c)(5), 102 Stat. 1863; Nov. 10, 1988, Pub. L. 100–647, title IX, §9002, 102 Stat. 3808; Aug. 20, 1990, Pub. L. 101–382, title III, §§481, 484F, 104 Stat. 706, 710; Dec. 8, 1993, Pub. L. 103–182, title II, §203(b)(5), 107 Stat. 2091; Oct. 11, 1996, Pub. L. 104–295, §31(a), 110 Stat. 3536.)
+(June 18, 1934, ch. 590, §3, 48 Stat. 999; June 17, 1950, ch. 296, §1, 64 Stat. 246; Pub. L. 91–271, title III, §309, June 2, 1970, 84 Stat. 292; Pub. L. 98–573, title II, §231(a)(2), Oct. 30, 1984, 98 Stat. 2990; Pub. L. 99–514, title XVIII, §1894, Oct. 22, 1986, 100 Stat. 2931; Pub. L. 100–418, title I, §1783(f), Aug. 23, 1988, 102 Stat. 1300; Pub. L. 100–449, title II, §204(c)(5), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 100–647, title IX, §9002, Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title III, §§481, 484F, Aug. 20, 1990, 104 Stat. 706, 710; Pub. L. 103–182, title II, §203(b)(5), Dec. 8, 1993, 107 Stat. 2091; Pub. L. 104–295, §31(a), Oct. 11, 1996, 110 Stat. 3536.)
 
 #### References in Text
 

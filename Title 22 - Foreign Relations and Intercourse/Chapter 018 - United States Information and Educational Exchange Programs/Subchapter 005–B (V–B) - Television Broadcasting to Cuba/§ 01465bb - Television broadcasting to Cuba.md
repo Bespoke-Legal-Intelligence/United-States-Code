@@ -2,15 +2,15 @@
 
 #### (a) Television broadcasting to Cuba
 
-In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the United States Information Agency (hereafter in this subchapter referred to as the “Agency”) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
+In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the “Agency” <sup>1</sup>) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
 
 #### (b) Voice of America standards
 
 Television broadcasting to Cuba under this subchapter shall be in accordance with all Voice of America standards to ensure the broadcast of programs which are objective, accurate, balanced, and which present a variety of views.
 
-#### (c) USIA Television Marti
+#### (c) Television Marti
 
-Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated “USIA Television Marti Program”.
+Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated the “Television Marti Program”.
 
 #### (d) Frequency assignment
 
@@ -40,7 +40,7 @@ The Federal Communications Commission shall continually monitor and periodically
 
 It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban television and radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
 
-(Pub. L. 101–246, title II, §243, Feb. 16, 1990, 104 Stat. 59.)
+(Pub. L. 101–246, title II, §243, Feb. 16, 1990, 104 Stat. 59; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1325(1), (2), Oct. 21, 1998, 112 Stat. 2681–781.)
 
 #### Repeal of Section
 
@@ -53,4 +53,16 @@ The Communications Act of 1934, referred to in subsec. (d)(1), is act June 19, 1
 #### Codification
 
 Section was enacted as part of the Television Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §1325(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+
+Subsec. (c). Pub. L. 105–277, §1325(2), in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “ ‘Board’ ”.</i>
 

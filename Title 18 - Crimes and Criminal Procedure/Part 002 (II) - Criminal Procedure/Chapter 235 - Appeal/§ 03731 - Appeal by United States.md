@@ -10,7 +10,7 @@ The appeal in all such cases shall be taken within thirty days after the decisio
 
 The provisions of this section shall be liberally construed to effectuate its purposes.
 
-(June 25, 1948, ch. 645, 62 Stat. 844; May 24, 1949, ch. 139, §58, 63 Stat. 97; June 19, 1968, Pub. L. 90–351, title VIII, §1301, 82 Stat. 237; Jan. 2, 1971, Pub. L. 91–644, title III, §14(a), 84 Stat. 1890; Oct. 12, 1984, Pub. L. 98–473, title II, §§205, 1206, 98 Stat. 1986, 2153; Pub. L. 99–646, §32, Nov. 10, 1986, 100 Stat. 3598; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330008(4), 108 Stat. 2142.)
+(June 25, 1948, ch. 645, 62 Stat. 844; May 24, 1949, ch. 139, §58, 63 Stat. 97; Pub. L. 90–351, title VIII, §1301, June 19, 1968, 82 Stat. 237; Pub. L. 91–644, title III, §14(a), Jan. 2, 1971, 84 Stat. 1890; Pub. L. 98–473, title II, §§205, 1206, Oct. 12, 1984, 98 Stat. 1986, 2153; Pub. L. 99–646, §32, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 103–322, title XXXIII, §330008(4), Sept. 13, 1994, 108 Stat. 2142.)
 
 #### Historical and Revision Notes
 

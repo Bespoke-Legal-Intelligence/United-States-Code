@@ -2,9 +2,9 @@
 
 #### (a) National Community Investment Board; functions, composition, etc.
 
-(1) The President is authorized to establish a National Advisory Community Investment Board (hereinafter in this section referred to as the “Investment Board”). Such Investment Board shall be composed of 15 members appointed, for staggered terms and without regard to the civil service laws, by the President, in consultation with the Secretary of Health and Human Services (hereinafter in this subchapter referred to as the “Secretary”). Such members shall be representative of the investment and business communities and appropriate fields of endeavor related to this subchapter. The Investment Board shall meet at the call of the chairperson, but not less often than 3 times each year. The Secretary and the administrator of community economic development programs shall be ex officio members of the Investment Board.
+(1) The President is authorized to establish a National Advisory Community Investment Board (hereinafter in this section referred to as the “Investment Board”). Such Investment Board shall be composed of 15 members appointed, for staggered terms and without regard to the civil service laws, by the President, in consultation with the Secretary of Health and Human Services (hereinafter in this subchapter referred to as the “Secretary”). Such membersshall be representative of the investment and business communities and appropriate fields of endeavor related to this subchapter. The Investment Board shall meet at the call of the chairperson, but not less often than 3 times each year. The Secretary and the administrator of community economic development programs shall be ex officio members of the Investment Board.
 
-(2) The Secretary shall carry out the provisions of this subchapter through the Office of Community Services established in section 9905(a) of this title.
+(2) The Secretary shall carry out the provisions of this subchapter through an appropriate office.
 
 #### (b) Function
 
@@ -26,11 +26,15 @@ The governing body of each Community Development Corporation may establish an ad
 
 &emsp;(3) advising the governing body, private investors, and businesses of ways in which they might engage in mutually beneficial efforts.
 
-(Pub. L. 97–35, title VI, §615, Aug. 13, 1981, 95 Stat. 489.)
+(Pub. L. 97–35, title VI, §615, Aug. 13, 1981, 95 Stat. 489; Pub. L. 105–285, title II, §202(b)(2), Oct. 27, 1998, 112 Stat. 2755.)
 
 #### References in Text
 
 The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+#### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–285 substituted “through an appropriate office” for “through the Office of Community Services established in section 9905(a) of this title”.
 
 #### Termination of Advisory Boards
 

@@ -2,7 +2,7 @@
 
 In April of each year, the Commandant, through the Secretary, shall report to Congress the operations and expenditures of the Coast Guard during the preceding fiscal year, including amounts collected as provided under section 664 of this title.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 550; Oct. 18, 1976, Pub. L. 94–546, §1(36), 90 Stat. 2522; Oct. 21, 1986, Pub. L. 99–509, title V, §5102(a)(2), 100 Stat. 1926.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 550; Pub. L. 94–546, §1(36), Oct. 18, 1976, 90 Stat. 2522; Pub. L. 99–509, title V, §5102(a)(2), Oct. 21, 1986, 100 Stat. 1926.)
 
 #### Historical and Revision Notes
 

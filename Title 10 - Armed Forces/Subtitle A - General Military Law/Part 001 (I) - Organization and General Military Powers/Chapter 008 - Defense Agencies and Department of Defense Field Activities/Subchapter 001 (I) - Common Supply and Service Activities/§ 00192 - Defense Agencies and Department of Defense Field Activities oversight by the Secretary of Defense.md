@@ -26,13 +26,29 @@ Periodic Review.—(1) Periodically (and not less often than every two years), t
 
 (2) Paragraph (1) shall apply to the National Security Agency as determined appropriate by the Secretary, in consultation with the Director of Central Intelligence. The Secretary shall establish procedures under which information required for review of the National Security Agency shall be obtained.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020.)
+(d)
+
+Special Rule for Defense Commissary Agency.—Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Commissary Agency, the Secretary of Defense may not transfer to the Secretary of a military department the responsibility to manage and fund the provision of services and supplies provided by the Defense Commissary Agency unless the transfer of the management and funding responsibility is specifically authorized by a law enacted after the date of the enactment of this subsection.
+
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (d), is the date of enactment of Pub. L. 105–261 which was approved Oct. 17, 1998.
 
 #### Prior Provisions
 
 A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
+#### Amendments
+
+1998—Subsec. (d). Pub. L. 105–261 added subsec. (d).
+
 #### First Review of Defense Agencies by Secretary of Defense
 
-Section 304(a) of Pub. L. 99–433 provided that: “The first review under section 192(c) of title 10, United States Code (as added by section 301(a)), shall be completed not later than two years after the date that thereport under section 303(e) \[see section 303(f) of Pub. L. 99–433, set out as a note under section 191 of this title\] is required to be submitted to Congress.”
+Section 304(a) of Pub. L. 99–433 provided that: “The first review under section 192(c) of title 10, United States Code (as added by section 301(a)), shall be completed not later than two years after the date that the report under section 303(e) \[see section 303(f) of Pub. L. 99–433, set out as a note under section 191 of this title\] is required to be submitted to Congress.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2482 of this title.
 

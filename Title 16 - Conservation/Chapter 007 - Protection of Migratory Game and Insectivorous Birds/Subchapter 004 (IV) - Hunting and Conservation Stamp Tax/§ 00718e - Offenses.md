@@ -10,7 +10,7 @@ Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no 
 
 #### (c) Reproduction of migratory bird hunting stamps; regulation by Secretary of the Interior; disposition of proceeds
 
-Notwithstanding the provisions of subsection (b) of this section, or the prohibition in section 474 of title 18, or other provisions of law, the Secretary of the Interior may authorize, with the concurrence of the Secretary of the Treasury,
+Notwithstanding the provisions of subsection (b) of this section, or the prohibition in section474 of title 18, or other provisions of law, the Secretary of the Interior may authorize, with the concurrence of the Secretary of the Treasury,
 
 &emsp;(1) the color reproduction, or
 
@@ -18,7 +18,7 @@ Notwithstanding the provisions of subsection (b) of this section, or the prohibi
 
 > of migratory bird hunting stamps authorized by sections 718 to 718b, 718c, 718d, and 718f to 718h of this title, which otherwise satisfies the requirements of clauses (ii) and (iii) of section 504(1) of title 18. Any such reproduction shall be subject to those terms and conditions deemed necessary by the Secretary of the Interior by regulation or otherwise and any proceeds received by the Federal Government as a result of such reproduction shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund established under section 718d of this title.
 
-(Mar. 16, 1934, ch. 71, §5, 48 Stat. 452; June 15, 1935, ch. 261, title I, §5, 49 Stat. 380; July 18, 1984, Pub. L. 98–369, div. A, title X, §1077(a), (b)(3), 98 Stat. 1054, 1055; Nov. 14, 1988, Pub. L. 100–653, title III, §302, 102 Stat. 3827.)
+(Mar. 16, 1934, ch. 71, §5, 48 Stat. 452; June 15, 1935, ch. 261, title I, §5, 49 Stat. 380; Pub. L. 98–369, div. A, title X, §1077(a), (b)(3), July 18, 1984, 98 Stat. 1054, 1055; Pub. L. 100–653, title III, §302, Nov. 14, 1988, 102 Stat. 3827.)
 
 #### Amendments
 

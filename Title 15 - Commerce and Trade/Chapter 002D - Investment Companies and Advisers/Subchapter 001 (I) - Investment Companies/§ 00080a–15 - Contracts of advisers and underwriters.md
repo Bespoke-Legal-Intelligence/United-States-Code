@@ -46,7 +46,7 @@ Nothing contained in this section shall be deemed to require or contemplate any 
 
 (3) If—
 
-&emsp;(A) an assignment of an investment advisory contract with a registered investment company results in a successor investment adviser to such company, or if there is a change in control of or identity of a corporate trustee of a registered investment company, and such adviser or trustee is then an investment adviser or corporate trustee with respect to other assets substantially greater in amount than the amount of assets of such company, or
+&emsp;(A) an assignment of an investment advisory contract with a registered investment company results in a successor investment adviser to such company, or if there is a change in control of or identity of a corporate trustee ofa registered investment company, and such adviser or trustee is then an investment adviser or corporate trustee with respect to other assets substantially greater in amount than the amount of assets of such company, or
 
 &emsp;(B) as a result of a merger of, or a sale of substantially all the assets by, a registered investment company with or to another registered investment company with assets substantially greater in amount, a transaction occurs which would be subject to paragraph (1)(A) of this subsection,
 
@@ -58,7 +58,7 @@ Nothing contained in this section shall be deemed to require or contemplate any 
 
 &emsp;(B) transferred to the investment adviser or the corporate trustee, or an affiliated person or persons of such investment adviser or corporate trustee, or is transferred from the investment adviser or corporate trustee to an affiliated person or persons of the investment adviser or corporate trustee: <i>Provided</i>, That (i) each transferee (other than such adviser or trustee) is a natural person and (ii) the transferees (other than such adviser or trustee) owned in the aggregate more than 25 per centum of such voting securities for a period of at least six months prior to such transfer.
 
-(Aug. 22, 1940, ch. 686, title I, §15, 54 Stat. 812; Dec. 14, 1970, Pub. L. 91–547, §8, 84 Stat. 1419; June 4, 1975, Pub. L. 94–29, §28(1), (2), (4), 89 Stat. 164, 165; Dec. 4, 1987, Pub. L. 100–181, title VI, §611, 101 Stat. 1261.)
+(Aug. 22, 1940, ch. 686, title I, §15, 54 Stat. 812; Pub. L. 91–547, §8, Dec. 14, 1970, 84 Stat. 1419; Pub. L. 94–29, §28(1), (2), (4), June 4, 1975, 89 Stat. 164, 165; Pub. L. 100–181, title VI, §611, Dec. 4, 1987, 101 Stat. 1261.)
 
 #### Amendments
 

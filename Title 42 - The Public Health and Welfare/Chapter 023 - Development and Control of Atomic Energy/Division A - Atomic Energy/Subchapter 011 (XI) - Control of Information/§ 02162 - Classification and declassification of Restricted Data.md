@@ -20,7 +20,7 @@ The Commission shall remove from the Restricted Data category such data as the C
 
 The Commission shall remove from the Restricted Data category such information concerning the atomic energy programs of other nations as the Commission and the Director of Central Intelligence jointly determine to be necessary to carry out the provisions of section 403(d) <sup>1</sup> of title 50 and can be adequately safeguarded as defense information.
 
-(Aug. 1, 1946, ch. 724, title I, §142, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 941; amended Oct. 23, 1992, Pub. L. 102–484, div. C, title XXXI, §3152, 106 Stat. 2644; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; Oct. 5, 1994, Pub. L. 103–337, div. A, title XXXI, §3155(c)(2), (3), 108 Stat. 3092.)
+(Aug. 1, 1946, ch. 724, title I, §142, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 941; amended Pub. L. 102–484, div. C, title XXXI, §3152, Oct. 23, 1992, 106 Stat. 2644; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–337, div. A, title XXXI, §3155(c)(2), (3), Oct. 5, 1994, 108 Stat. 3092.)
 
 #### References in Text
 

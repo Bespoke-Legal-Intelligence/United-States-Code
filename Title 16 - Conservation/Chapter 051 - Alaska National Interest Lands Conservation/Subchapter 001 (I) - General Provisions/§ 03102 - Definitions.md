@@ -4,7 +4,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(1) The term “land” means lands, waters, and interests therein.
 
-&emsp;(2) The term “Federal land” means lands the title to which is in the United States after December 2, 1980. “Federal land” does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.
+&emsp;(2) The term “Federal land” means lands the title to which is in the United States after December 2, 1980.
 
 &emsp;(3) The term “public lands” means land situated in Alaska which, after December 2, 1980, are Federal lands, except—
 
@@ -46,27 +46,23 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 (Pub. L. 96–487, title I, §102, Dec. 2, 1980, 94 Stat. 2375; Pub. L. 105–83, title III, §316(b)(2), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
 
-#### Amendment of Section
-
-<i>For repeal of amendment by section 316(d) of Pub. L. 105–83, see Effective and Termination Dates of 1997 Amendment note below.</i>
-
 #### References in Text
 
 This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which isset out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 #### Amendments
 
-1997—Par. (2). Pub. L. 105–83 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980.” See Effective and Termination Dates of 1997 Amendment note below.
+1997—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.”, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 
-Section 316(d) of Pub. L. 105–83 provided that: “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 \[sections 3113 to 3115 of this title\] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title\] shall be effective only for the purposes of determining whether the State's laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.”
+Section 316(d) of Pub. L. 105–83 provided that: “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 \[sections 3113 to 3115 of this title\] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title\] shall be effective only for the purposes of determining whether the State's laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.” \[The State of Alaska did not adopt laws specified above by Dec. 1, 1998.\]
 
 #### Savings Clause
 
@@ -80,7 +76,39 @@ Section 316(c) of Pub. L. 105–83 provided that: “No provision of this sectio
 
 &emsp;“(4) the authority of the Secretary of the Interior under section 1314(c) of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3202(c)).”
 
-#### Moratorium on Federal Management of Subsistence Hunting and Fishing in Alaska
+#### Moratorium on Federal Management of Subsistence Uses in Alaska
+
+Pub. L. 105–277, div. A, §101(e) \[title III, §339\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, provided that:
+
+“(a)
+
+Restriction on Federal Management Under Title VIII of the Alaska National Interest Lands Conservation Act.—
+
+&emsp;“(1) Notwithstanding any other provision of law, hereafter neither the Secretary of the Interior nor the Secretary of Agriculture may, prior to December 1, 2000, implement or enforce any final rule, regulation, or policy pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3111 et seq.\] to manage and to assert jurisdiction, authority, or control over land, water, and wild, renewable resources, including fish and wildlife, in Alaska for subsistence uses, except within—
+
+&emsp;&emsp;“(A) areas listed in 50 C.F.R. 100.3(b) (October 1, 1998) and
+
+&emsp;&emsp;“(B) areas constituting ‘public land or public lands’ under the definition of such term found at 50 C.F.R. 100.4 (October 1, 1998).
+
+&emsp;“(2) The areas in subparagraphs (A) and (B) of paragraph (1) shall only be construed to mean those public lands which as of October 1, 1998, were subject to federal management for subsistence uses pursuant to Title VIII of the Alaska National Interest Lands Conservation Act.
+
+“(b)
+
+Subsection (a)
+
+Repealed.—
+
+&emsp;“(1) The Secretary of the Interior shall certify before October 1, 1999, if a bill or resolution has been passed by the Alaska State Legislature to amend the Constitution of the State of Alaska that, if approved by the electorate, would enable the implementation of state laws of general applicability consistent with, and which provide for the definition, preference, and participation specified in sections 803, 804, and 805 of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3113, 3114, 3115\].
+
+&emsp;“(2) Subsection (a) shall be repealed on October 1, 1999, unless prior to that date the Secretary of the Interior makes such a certification described in paragraph (1).
+
+“(c)
+
+Technical Amendments to the Alaska National Interest Lands Conservation Act.—\[Amended section 3115 of this title.\]
+
+“(d)
+
+Effect on Tidal and Submerged Land.—Nothing in this section invalidates, validates, or in any other way affects any claim of the State of Alaska to title to any tidal or submerged land in Alaska.”
 
 Section 316(a) of Pub. L. 105–83 provided that: “None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3111 et seq.\] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 \[43 U.S.C. 1301 et seq.\] or the Alaska Statehood Act of 1959 \[Pub. L. 85–508, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\].”
 

@@ -8,7 +8,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 (1) An organization to which a grant is made pursuant to subsection (a) of this section shall be a national organization that has broad membership among court-appointed special advocates and has demonstrated experience in grant administration of court-appointed special advocate programs and in providing training and technical assistance to court-appointed special advocate program; or (2) may be a local public or not-for-profit agency that has demonstrated the willingness to initiate or expand a court-appointed special advocate program.
 
-(2) An organization described in paragraph (1)(a) that receives a grant may be authorized to make subgrants and enter into contracts with public and not-for-profit agencies to initiate and to expand the court-appointed special advocate program. Should a grant be made to a national organization for this purpose, the Administrator shall specify an amount not exceeding 5 percent that can be used for administrative purposes by the national organization.
+(2) An organization described in paragraph (1)(a) that receives a grant may be authorized to make subgrants and enter into contracts withpublic and not-for-profit agencies to initiate and to expand the court-appointed special advocate program. Should a grant be made to a national organization for this purpose, the Administrator shall specify an amount not exceeding 5 percent that can be used for administrative purposes by the national organization.
 
 #### (c) Grant criteria
 

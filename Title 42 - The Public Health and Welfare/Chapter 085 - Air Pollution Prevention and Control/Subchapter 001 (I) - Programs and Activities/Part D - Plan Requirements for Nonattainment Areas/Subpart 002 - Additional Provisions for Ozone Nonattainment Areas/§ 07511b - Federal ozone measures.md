@@ -138,11 +138,65 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 The Administrator shall conduct a study of whether the methodology in use by the Environmental Protection Agency as of November 15, 1990, for establishing a design value for ozone provides a reasonable indicator of the ozone air quality of ozone nonattainment areas. The Administrator shall obtain input from States, local subdivisions thereof, and others. The study shall be completed and a report submitted to Congress not later than 3 years after November 15, 1990. The results of the study shall be subject to peer and public review before submitting it to Congress.
 
-(July 14, 1955, ch. 360, title I, §183, as added Nov. 15, 1990, Pub. L. 101–549, title I, §103, 104 Stat. 2443.)
+#### (h) Vehicles entering ozone nonattainment areas
+
+#### (1) Authority regarding ozone inspection and maintenance testing
+
+#### (A) In general
+
+&emsp;&emsp;No noncommercial motor vehicle registered in a foreign country and operated by a United States citizen or by an alien who is a permanent resident of the United States, or who holds a visa for the purposes of employment or educational study in the United States, may enter a covered ozone nonattainment area from a foreign country bordering the United States and contiguous to the nonattainment area more than twice in a single calendar-month period, if State law has requirements for the inspection and maintenance of such vehicles under the applicable implementation plan in the nonattainment area.
+
+#### (B) Applicability
+
+&emsp;&emsp;Subparagraph (A) shall not apply if the operator presents documentation at the United States border entry point establishing that the vehicle has complied with such inspection and maintenance requirements as are in effect and are applicable to motor vehicles of the same type and model year.
+
+#### (2) Sanctions for violations
+
+&emsp;The President may impose and collect from the operator of any motor vehicle who violates, or attempts to violate, paragraph (1) a civil penalty of not more than $200 for the second violation or attempted violation and $400 for the third and each subsequent violation or attempted violation.
+
+#### (3) State election
+
+&emsp;The prohibition set forth in paragraph (1) shall not apply in any State that elects to be exempt from the prohibition. Such an election shall take effect upon the President's receipt of written notice from the Governor of the State notifying the President of such election.
+
+#### (4) Alternative approach
+
+&emsp;The prohibition set forth in paragraph (1) shall not apply in a State, and the President may implement an alternative approach, if—
+
+&emsp;&emsp;(A) the Governor of the State submits to the President a written description of an alternative approach to facilitate the compliance, by some or all foreign-registered motor vehicles, with the motor vehicle inspection and maintenance requirements that are—
+
+&emsp;&emsp;&emsp;(i) related to emissions of air pollutants;
+
+&emsp;&emsp;&emsp;(ii) in effect under the applicable implementation plan in the covered ozone nonattainment area; and
+
+&emsp;&emsp;&emsp;(iii) applicable to motor vehicles of the same types and model years as the foreign-registered motor vehicles; and
+
+&emsp;&emsp;(B) the President approves the alternative approach as facilitating compliance with the motor vehicle inspection and maintenance requirements referred to in subparagraph (A).
+
+#### (5) Definition of covered ozone nonattainment area
+
+&emsp;In this section, the term “covered ozone nonattainment area” means a Serious Area, as classified under section 7511 of this title as of October 27, 1998.
+
+(July 14, 1955, ch. 360, title I, §183, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2443; amended Pub. L. 105–286, §2, Oct. 27, 1998, 112 Stat. 2773.)
 
 #### References in Text
 
 The Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (h). Pub. L. 105–286 added subsec. (h).
+
+#### Effective Date of 1998 Amendment; Publication of Prohibition
+
+Pub. L. 105–286, §3, Oct. 27, 1998, 112 Stat. 2774, provided that:
+
+“(a)
+
+In General.—The amendment made by section 2 \[amending this section\] takes effect 180 days after the date of the enactment of this Act \[Oct. 27, 1998\]. Nothing in that amendment shall require action that is inconsistent with the obligations of the United States under any international agreement.
+
+“(b)
+
+Information.—As soon as practicable after the date of the enactment of this Act, the appropriate agency of the United States shall distribute information to publicize the prohibition set forth in the amendment made by section 2.”
 
 #### Section Referred to in Other Sections
 

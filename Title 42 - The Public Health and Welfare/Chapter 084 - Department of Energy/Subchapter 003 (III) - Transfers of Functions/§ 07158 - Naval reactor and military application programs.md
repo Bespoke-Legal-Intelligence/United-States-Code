@@ -14,7 +14,7 @@ Section 2037 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 #### Naval Nuclear Propulsion Program
 
-Pub. L. 98–525, title XVI, §1634, Oct. 19, 1984, 98 Stat. 2649, provided that: “The provisions of Executive OrderNumbered 12344, dated February 1, 1982 \[set out below\], pertaining to the Naval Nuclear Propulsion Program, shall remain in force until changed by law.”
+Pub. L. 98–525, title XVI, §1634, Oct. 19, 1984, 98 Stat. 2649, provided that: “The provisions of Executive Order Numbered 12344, dated February 1, 1982 \[set out below\], pertaining to the Naval Nuclear Propulsion Program, shall remain in force until changed by law.”
 
 #### Ex. Ord. No. 12344. Naval Nuclear Propulsion Program
 
@@ -26,7 +26,7 @@ Section 1. The Naval Nuclear Propulsion Program is an integrated program carried
 
 Sec. 2. Both organizational units shall be headed by the same individual so that the activities of each may continue in practice under common management. This individual shall direct the Naval Nuclear Propulsion Program in both departments. The director shall be qualified by reason of technical background and experience in naval nuclear propulsion. The director may be either a civilian or an officer of the United States Navy, active or retired.
 
-Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shall obtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that the Secretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
+Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shallobtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that the Secretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
 
 Sec. 4. An officer of the United States Navy appointed as director shall be nominated for the grade of Admiral. A civilian serving as director shall be compensated at a rate to be specified at the time of appointment.
 

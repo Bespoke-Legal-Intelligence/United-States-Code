@@ -22,7 +22,7 @@ Insofar as practicable, the Secretary shall permit owners of certificates to des
 
 #### (e) Prevention of adverse effects
 
-The Secretary of Agriculture shall take such measures as may be necessary to prevent the marketing or exchange of agricultural commodities and the products thereof for certificates under this section from adversely affecting theincome of producers of such commodities or products.
+The Secretary of Agriculture shall take such measures as may be necessary to prevent the marketing or exchange of agricultural commodities and the products thereof for certificates under this section from adversely affecting the income of producers of such commodities or products.
 
 #### (f) Transfer of certificates
 

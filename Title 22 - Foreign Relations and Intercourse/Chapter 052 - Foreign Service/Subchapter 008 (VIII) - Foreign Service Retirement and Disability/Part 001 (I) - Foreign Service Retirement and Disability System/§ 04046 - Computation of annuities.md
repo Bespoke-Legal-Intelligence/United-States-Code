@@ -16,7 +16,33 @@
 
 (5) The annuity of a Foreign Service criminal investigator/inspector of the Office of the Inspector General of the Agency for International Development who has not completed 20 years of service as a law enforcement officer, as defined in section 8331(20) or 8401(17) of that title, shall be computed in accordance with paragraph (1).
 
-(6) For purposes of paragraphs (2), (3), and (4) of this subsection, the term “basic pay” includes pay as provided in accordance with section 3972 of this title or section 5545(c)(2) of title 5.
+(6)(A) The annuity of a special agent under this part shall be computed under paragraph (1) except that, in the case of a special agent described in subparagraph (B), paragraph (1) shall be applied by substituting for “2 percent”—
+
+&emsp;(i) the percentage under subparagraph (A) of section 8339(d)(1) of title 5 for so much of the participant's total service as is specified thereunder; and
+
+&emsp;(ii) the percentage under subparagraph (B) of section 8339(d)(1) of title 5 for so much of the participant's total service as is specified thereunder.
+
+(B) A special agent described in this subparagraph is any such agent or former agent who—
+
+&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing an immediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
+
+&emsp;(II) at the time of retirement—
+
+&emsp;&emsp;(aa) if voluntary, is at least 50 years of age and has completed at least 20 years of service as a special agent; or
+
+&emsp;&emsp;(bb) if involuntary or disability, has completed at least 20 years of service as a special agent; or
+
+&emsp;(ii) dies in service after completing at least 20 years of service as a special agent, when an annuity is payable under section 4049 of this title.
+
+(C) For purposes of subparagraph (B), included with the years of service performed by an individual as a special agent shall be any service performed by such individual as a law enforcement officer (within the meaning of section 8331(20) or section 8401(17) of title 5), or a member of the Capitol Police.
+
+(7) In the case of a special agent who becomes or became subject to part II of this subchapter—
+
+&emsp;(A) for purposes of paragraph (6)(B), any service performed by the individual as a special agent (whether under this part or under part II of this subchapter), as a law enforcement officer (within the meaning of section 8331(20) or section 8401(17) of title 5), or as a member of the Capitol Police shall be creditable; and
+
+&emsp;(B) if the individual satisfies paragraph (6)(B), the portion of such individual's annuity which is attributable to service under the Foreign Service Retirement and Disability System or the Civil Service Retirement System shall be computed in conformance with paragraph (6).
+
+(8) For purposes of paragraphs (2), (3), (4), and (6) of this subsection, the term “basic pay” includes pay as provided in accordance with section 3972 of this title or section 5545(c)(2) of title 5.
 
 #### (b) Married participants
 
@@ -38,7 +64,7 @@
 
 #### (c) Surviving children
 
-(1) If an annuitant who was a participant dies and is survived by a spouse or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant and by a child or children, in addition to the annuity payable tothe surviving spouse, there shall be paid to or on behalf of each child an annuity equal to the smaller of—
+(1) If an annuitant who was a participant dies and is survived by a spouse or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant and by a child or children, in addition to the annuity payable to the surviving spouse, there shall be paid to or on behalf of each child an annuity equal to the smaller of—
 
 &emsp;(A) $900, or
 
@@ -84,7 +110,7 @@ A surviving spouse or surviving former spouse of any participant or former parti
 
 #### (j) Recomputation upon dissolution of marriage; election after remarriage
 
-An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
+An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title),and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
 
 #### (k) Informing of rights by Secretary
 
@@ -138,21 +164,27 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 (5) Rights and obligations resulting from the election of a reduced annuity under this subsection shall be the same as the rights and obligations which would have resulted had the participant involved elected such annuity at the time of retiring.
 
-(Pub. L. 96–465, title I, §806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, §402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, §587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, §4(d), Oct. 24, 1992, 106 Stat. 3266.)
+(Pub. L. 96–465, title I, §806, Oct. 17, 1980, 94 Stat. 2106; Pub. L. 99–335, title IV, §§402(a)(2), (3), 406, 407, June 6, 1986, 100 Stat. 609–611; Pub. L. 99–556, title IV, §402, Oct. 27, 1986, 100 Stat. 3136; Pub. L. 100–238, title II, §§213, 214(a), 217(c)(1), Jan. 8, 1988, 101 Stat. 1774, 1775; Pub. L. 101–513, title V, §587(a), Nov. 5, 1990, 104 Stat. 2055; Pub. L. 102–499, §4(d), Oct. 24, 1992, 106 Stat. 3266; Pub. L. 105–382, §2(d)(1)–(3)(A), Nov. 13, 1998, 112 Stat. 3407, 3408.)
 
 #### Amendment of Section
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions</i><i>under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 
-<i>(2) no contribution is required for such service as provided under section 4045(f) of this title as deemed to be amended by this Order, or under any other statute.</i>
+<i>(2) no contribution is required for such service as provided under section 4045(f) of this title as</i><i>deemed to be amended by this Order, or under any other statute.</i>
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(6). Pub. L. 105–382, §2(d)(1), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(7). Pub. L. 105–382, §2(d)(2)(B), added par. (7). Former par. (7) redesignated (8).
+
+Subsec. (a)(8). Pub. L. 105–382, §2(d)(2)(A), (3)(A), redesignated par. (7) as (8) and substituted “(4), and (6)” for “and (4)”.
 
 1992—Subsec. (a)(6). Pub. L. 102–499 substituted “section 5545(c)(2)” for “section 5545(a)(2)”.
 
@@ -183,6 +215,10 @@ Subsec. (m). Pub. L. 99–556, §402, amended subsec. (m) generally. Prior to am
 Pub. L. 99–335, §406, added subsec. (m).
 
 Subsec. (n). Pub. L. 99–335, §407, added subsec. (n).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, set out as a note under section 4044 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -268,7 +304,7 @@ Definitions.—For the purposes of this section, the terms ‘participant’ and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4009, 4010, 4047, 4048, 4049, 4050, 4051, 4052, 4053, 4054, 4055, 4056, 4063, 4066, 4069a, 4069a–1, 4069b, 4069b–1, 4159 of this title.
+This section is referred to in sections 4009, 4010, 4047, 4048, 4049, 4050, 4051, 4052, 4053, 4054, 4055, 4056, 4063, 4066, 4069a, 4069a–1, 4069b, 4069b–1, 4159 of this title; title 5 section 5545a.
 
 <i><sup>1</sup></i><i> See Amendment of Section note below.</i>
 

@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 555 of thi
 
 #### Effective Date of 1994 Amendment
 
-Section 541(h) of Pub. L. 103–337 provided that: “This section \[enacting section 215 of Title 14, Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former section 555 of this title\] and the amendments made by this section shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Oct. 5, 1994\].”
+Section 541(h) of Pub. L. 103–337 provided that: “This section \[enacting section 215 of Title 14, Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former section 555 of this title\] and the amendments made by this section shall take effect on the first dayof the fourth month beginning after the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Effective Date
 
@@ -102,7 +102,7 @@ Certain Officers To Be Considered as Recommended for Promotion.—A regular warr
 
 “(b)
 
-Board Consideration for Officers Removed From Promotion List.—An officer referred to in paragraph (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by this title, for promotion to the permanent grade equivalent to the temporary grade in which hewas serving on the effective date of this title as if he were serving in his permanent grade.
+Board Consideration for Officers Removed From Promotion List.—An officer referred to in paragraph (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by this title, for promotion to the permanent grade equivalent to the temporary grade in which he was serving on the effective date of this title as if he were serving in his permanent grade.
 
 “(c)
 
@@ -112,7 +112,7 @@ Date of Rank.—The date of rank of an officer referred to in subsection (a)(1) 
 
 “(a)
 
-Certain Officers To Be Considered as Recommended for Promotion.—(1) Except as provided in subsection (b), a reserve warrant officer of the Armed Forces (other than the Coast Guard) who on the effective date of this title \[Feb. 1, 1992\] is subject to placement on the warrant officer active-duty list and who—
+Certain Officers To Be Considered as Recommended for Promotion.—(1) Except as provided insubsection (b), a reserve warrant officer of the Armed Forces (other than the Coast Guard) who on the effective date of this title \[Feb. 1, 1992\] is subject to placement on the warrant officer active-duty list and who—
 
 &emsp;“(A) is serving in a temporary grade below chief warrant officer, W–5, that is higher than his permanent grade; or
 

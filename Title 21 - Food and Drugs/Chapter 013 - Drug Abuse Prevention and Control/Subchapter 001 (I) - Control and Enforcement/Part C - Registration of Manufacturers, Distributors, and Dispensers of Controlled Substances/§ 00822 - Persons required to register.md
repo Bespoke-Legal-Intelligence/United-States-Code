@@ -2,7 +2,7 @@
 
 #### (a) Period of registration
 
-(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordance with the rules and regulations promulgated by him.
+(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture ordistribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordance with the rules and regulations promulgated by him.
 
 (2) Every person who dispenses, or who proposes to dispense, any controlled substance, shall obtain from the Attorney General a registration issued in accordance with the rules and regulations promulgated by him. The Attorney General shall, by regulation, determine the period of such registrations. In no event, however, shall such registrations be issued for less than one year nor for more than three years.
 
@@ -26,7 +26,7 @@ The Attorney General may, by regulation, waive the requirement for registration 
 
 #### (e) Separate registration
 
-A separate registration shall be required at each principal place of business or professionalpractice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
+A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
 
 #### (f) Inspection
 

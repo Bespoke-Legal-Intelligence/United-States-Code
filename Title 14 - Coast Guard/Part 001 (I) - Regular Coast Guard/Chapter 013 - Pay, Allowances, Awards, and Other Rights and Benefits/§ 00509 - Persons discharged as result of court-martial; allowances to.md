@@ -2,7 +2,7 @@
 
 The Secretary may furnish persons discharged pursuant to the sentence of a Coast Guard court-martial suitable civilian clothing and a monetary allowance not to exceed $25 if the person discharged would not otherwise have suitable clothing or funds to meet immediate needs.
 
-(Added May 5, 1950, ch. 169, §16(a), 64 Stat. 148; amended July 5, 1968, Pub. L. 90–377, §8, 82 Stat. 288.)
+(Added May 5, 1950, ch. 169, §16(a), 64 Stat. 148; amended Pub. L. 90–377, §8, July 5, 1968, 82 Stat. 288.)
 
 #### Amendments
 

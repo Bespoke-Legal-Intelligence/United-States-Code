@@ -122,7 +122,7 @@ The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. 
 
 #### Prior Provisions
 
-A prior section 426h, act Aug. 13, 1946, ch. 960, §5, formerly §4, 60 Stat. 1057; July 28, 1956, ch. 768, 70 Stat. 703; renumbered §5, Oct. 12, 1996, Pub. L. 104–303, title II, §227(d)(1), 110 Stat. 3700, defined the word “shores” as used in sections 426e to 426h of this title, prior to repeal by Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700.
+A prior section 426h, acts Aug. 13, 1946, ch. 960, §5, formerly §4, 60 Stat. 1057; July 28, 1956, ch. 768, 70 Stat. 703; renumbered §5, Oct. 12, 1996, Pub. L. 104–303, title II, §227(d)(1), 110 Stat. 3700, defined the word “shores” as used in sections 426e to 426h of this title, prior to repeal by Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700.
 
 #### Section Referred to in Other Sections
 

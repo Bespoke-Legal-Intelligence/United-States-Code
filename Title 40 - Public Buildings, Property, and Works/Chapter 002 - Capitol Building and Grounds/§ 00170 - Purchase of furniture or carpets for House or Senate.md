@@ -16,6 +16,10 @@ Provision of R.S. §1816 relating to repairs of Capitol is classified to section
 
 1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control the Contingent Expenses of the Senate”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1946 Amendment
 
 Section 142 of act Aug. 2, 1946, provided that section 102 of that act shall take effect on Jan. 2, 1947, and section 245 of that act provided that section 224 thereof shall “take effect on the day on which the Eightieth Congress convenes”. The Eightieth Congress convened on Jan. 3, 1947.

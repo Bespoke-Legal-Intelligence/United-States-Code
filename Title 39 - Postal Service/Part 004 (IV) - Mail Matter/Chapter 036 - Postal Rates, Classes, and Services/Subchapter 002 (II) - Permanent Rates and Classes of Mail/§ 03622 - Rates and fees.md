@@ -22,9 +22,17 @@
 
 &emsp;(9) such other factors as the Commission deems appropriate.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760; Pub. L. 94–421, §10, Sept. 24, 1976, 90 Stat. 1311.)
+(c) Compliance with any provision of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.) shall not be considered by the Commission in determining whether to increase rates and shall not otherwise affect the service of the Postal Service.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760; Pub. L. 94–421, §10, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 105–241, §5, Sept. 28, 1998, 112 Stat. 1573.)
+
+#### References in Text
+
+The Occupational Safety and Health Act of 1970, referred to in subsec. (c), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–241 added subsec. (c).
 
 1976—Subsec. (b)(8), (9). Pub. L. 94–421 added par. (8) and redesignated former par. (8) as (9).
 

@@ -14,7 +14,7 @@
 
 (d) Upon acceptance of payment by the claimant, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 472; July 7, 1965, Pub. L. 89–67, 79 Stat. 212; Aug. 29, 1972, Pub. L. 92–417, §1(5), 86 Stat. 654; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1633, 103 Stat. 1608.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 472; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(5), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
 
 Historical and Revision Notes
 
@@ -36,7 +36,7 @@ July 3, 1944, ch. 399, §7, 58 Stat. 726.
 
 July 3, 1944, ch. 399, §9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.
 
-In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in §7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in §7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
+In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word“settle”, as defined in §7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in §7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
 
 In subsection (c) the words “In any case where the amount to be paid is not more than” are substituted for the words “When the net amount paid in settlement does not exceed” for clarity, since the delegation necessarily precedes payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised by” for clarity.
 

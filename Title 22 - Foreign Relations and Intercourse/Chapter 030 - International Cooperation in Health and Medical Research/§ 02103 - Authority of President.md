@@ -40,21 +40,19 @@ The President may delegate any authority vested in him by this section to the Se
 
 #### (g) Use of foreign currencies and credits
 
-In order to carry out the purposes of section 2101 of this title, and subject to section 1306 of title 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1701 et seq.\], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carry out the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) <sup>1</sup> of the Mutual Security Act of 1954, to the extent that the amounts in such accounts exceed the requirements of other programs covered by such section 142(b). Such utilization of amounts in special accounts shall be without regard to the second proviso in clause (iii) of such section 142(b).
+In order to carry out the purposes of section 2101 of this title, and subject to section 1306 oftitle 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1701 et seq.\], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carry out the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) <sup>1</sup> of the Mutual Security Act of 1954, to the extent that the amounts in such accounts exceed the requirements of other programs covered by such section 142(b). Such utilization of amounts in special accounts shall be without regard to the second proviso in clause (iii) of such section 142(b).
 
-#### (h) Report to Congress
-
-The President shall transmit to the Congress at the beginning of each regular session, a report summarizing activities under this section and making such recommendations as he may deem appropriate.
+#### (h) Repealed. Pub. L. 105–362, title VI, §601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286
 
 #### (i) Definitions
 
 For the purposes of this section—
 
-&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations,and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
+&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations, and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
 
 &emsp;(2) the term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 
-(Pub. L. 86–610, §5, July 12, 1960, 74 Stat. 366.)
+(Pub. L. 86–610, §5, July 12, 1960, 74 Stat. 366; Pub. L. 105–362, title VI, §601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286.)
 
 #### References in Text
 
@@ -71,6 +69,10 @@ Section 142(b) of the Mutual Security Act of 1954, referred to in subsec. (g), w
 In subsecs. (c)(2) and (g), “section 3324(a) and (b) of title 31” was substituted for reference to section 3648 of the Revised Statutes of the United States \[31 U.S.C. 529\], and “section 1306 of title 31” was substituted for “section 1415 of the Supplemental Appropriation Act, 1953 \[31 U.S.C. 724\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 In subsec. (e), “section 3109 of title 5” and “section 5703 of title 5” were substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” and “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1998—Subsec. (h). Pub. L. 105–362 struck out subsec. (h) which read as follows: “The President shall transmit to the Congress at the beginning of each regular session, a report summarizing activities under this section and making such recommendations as he may deem appropriate.”
 
 #### Transfer of Functions
 

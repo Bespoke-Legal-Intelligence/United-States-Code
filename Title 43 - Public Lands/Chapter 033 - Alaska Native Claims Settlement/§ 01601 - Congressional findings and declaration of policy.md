@@ -4,7 +4,7 @@ Congress finds and declares that—
 
 &emsp;(a) there is an immediate need for a fair and just settlement of all claims by Natives and Native groups of Alaska, based on aboriginal land claims;
 
-&emsp;(b) the settlement should be accomplished rapidly, with certainty, in conformity with the real economic and social needs of Natives, without litigation, with maximum participation by Natives in decisions affecting their rights and property, without establishing any permanent racially defined institutions, rights, privileges, or obligations, without creating a reservation system or lengthy wardship or trusteeship, and without adding to the categories of property and institutions enjoying special tax privileges or to the legislation establishing special relationships between the United States Government and the State of Alaska;
+&emsp;(b) the settlement should be accomplished rapidly, with certainty, in conformity with the real economic and social needs of Natives, without litigation, with maximum participation by Natives in decisions affecting their rights and property, without establishing any permanent racially defined institutions, rights, privileges, or obligations, without creating a reservation system or lengthy wardship or trusteeship, and without adding to the categories of property and institutions enjoying special tax privileges or to the legislationestablishing special relationships between the United States Government and the State of Alaska;
 
 &emsp;(c) no provision of this chapter shall replace or diminish any right, privilege, or obligation of Natives as citizens of the United States or of Alaska, or relieve, replace, or diminish any obligation of the United States or of the State or Alaska to protect and promote the rights or welfare of Natives as citizens of the United States or of Alaska; the Secretary is authorized and directed, together with other appropriate agencies of the United States Government, to make a study of all Federal programs primarily designed to benefit Native people and to report back to the Congress with his recommendations for the future management and operation of these programs within three years of December 18, 1971;
 
@@ -23,6 +23,10 @@ Congress finds and declares that—
 Section 7434 of title 10, referred to in subsec. (e), was repealed by Pub. L. 104–66, title I, §1051(g), Dec. 21, 1995, 109 Stat. 716.
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: “This Act \[amending sections 1606, 1611, 1621, 1626, 1629e, 1634, and 1636 of this title and section 3197 of Title 16, Conservation, and enacting provisions set out as a note under section 3198 of Title 16\] may be cited as the ‘ANCSA Land Bank Protection Act of 1998’.”
 
 #### Short Title of 1992 Amendment
 
@@ -56,7 +60,7 @@ Pub. L. 100–241, §2, Feb. 3, 1988, 101 Stat. 1788, provided that: “The Cong
 
 &emsp;“(3) despite these achievements and Congress's desire that the settlement be accomplished rapidly without litigation and in conformity with the real economic and social needs of Natives, the complexity of the land conveyance process and frequent and costly litigation have delayed implementation of the settlement and diminished its value;
 
-&emsp;“(4) Natives have differing opinions as to whether the Native Corporation, as originally structured by the Alaska Native Claims Settlement Act, is well adapted to the reality of life in Native villages and to the continuation of traditional Native cultural values;
+&emsp;“(4) Natives have differing opinions as to whether the Native Corporation, as originally structured by the Alaska Native Claims Settlement Act, is welladapted to the reality of life in Native villages and to the continuation of traditional Native cultural values;
 
 &emsp;“(5) to ensure the continued success of the settlement and to guarantee Natives continued participation in decisions affecting their rights and property, the Alaska Native Claims Settlement Act must be amended to enable the shareholders of each Native Corporation to structure the further implementation of the settlement in light of their particular circumstances and needs;
 

@@ -192,7 +192,7 @@ Each contract market shall—
 
 (6) Any rule or order adopted by the Commission under paragraphs (4) and (5) shall become effective thirty legislative days or ninety calendar days, whichever is later, after submission of such rule or order to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. For purposes of this paragraph, the term “legislative day” means any day on which either House of Congress is in session.
 
-(Sept. 21, 1922, ch. 369, §5a, as added June 15, 1936, ch. 545, §7, 49 Stat. 1497; amended Feb. 19, 1968, Pub. L. 90–258, §12, 82 Stat. 29; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), (e), (f), title II, §§208–210, title IV, §§406, 407, 88 Stat. 1392, 1400, 1401, 1413; Sept. 30, 1978, Pub. L. 95–405, §§11, 12, 92 Stat. 870, 871; Jan. 11, 1983, Pub. L. 97–444, title II, §§216, 217(a), 96 Stat. 2306, 2307; Nov. 10, 1986, Pub. L. 99–641, title I, §110(2), 100 Stat. 3561; Oct. 28, 1992, Pub. L. 102–546, title I, §103, title II, §§201(a), 206(a)(1), 213(a), 217, 222(a), 106 Stat. 3594, 3595, 3601, 3609, 3611, 3615.)
+(Sept. 21, 1922, ch. 369, §5a, as added June 15, 1936, ch. 545, §7, 49 Stat. 1497; amended Pub. L. 90–258, §12, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (e), (f), title II, §§208–210, title IV, §§406, 407, Oct. 23, 1974, 88 Stat. 1392, 1400, 1401, 1413; Pub. L. 95–405, §§11, 12, Sept. 30, 1978, 92 Stat. 870, 871; Pub. L. 97–444, title II, §§216, 217(a), Jan. 11, 1983, 96 Stat. 2306, 2307; Pub. L. 99–641, title I, §110(2), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title I, §103, title II, §§201(a), 206(a)(1), 213(a), 217, 222(a), Oct. 28, 1992, 106 Stat. 3594, 3595, 3601, 3609, 3611, 3615.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Any of the following may be used as the non-Federal share required in connection
 
 &emsp;(2) rental or use-value of buildings or facilities paid for, in whole or in part, from development, modernization, or operation cost financed under this chapter.
 
-(Sept. 1, 1937, ch. 896, title I, §15, as added Oct. 8, 1980, Pub. L. 96–399, title II, §212, 94 Stat. 1636; amended Feb. 5, 1988, Pub. L. 100–242, title I, §112(b)(7), 101 Stat. 1824; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681.)
+(Sept. 1, 1937, ch. 896, title I, §15, as added Pub. L. 96–399, title II, §212, Oct. 8, 1980, 94 Stat. 1636; amended Pub. L. 100–242, title I, §112(b)(7), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681.)
 
 #### Amendments
 

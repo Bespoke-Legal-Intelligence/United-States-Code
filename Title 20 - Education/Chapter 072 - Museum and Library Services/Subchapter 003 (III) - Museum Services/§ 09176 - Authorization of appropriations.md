@@ -6,7 +6,7 @@ For the purpose of carrying out this subchapter, there are authorized to be appr
 
 #### (b) Administration
 
-Not more than 10 percent of the funds appropriated under this section for a fiscal year may be used to pay for the administrative costs of carrying out this subchapter.
+Not more than 10 percent of the funds appropriated under this section for a fiscal year maybe used to pay for the administrative costs of carrying out this subchapter.
 
 #### (c) Sums remaining available
 

@@ -58,399 +58,193 @@
 
 &emsp;&emsp;&nbsp;5,000
 
-$98.00&nbsp;
+$110.00&nbsp;
 
 &emsp;&emsp;&nbsp;6,000
 
-92\.00&nbsp;
+103\.00&nbsp;
 
 &emsp;&emsp;&nbsp;7,000
 
-86\.00&nbsp;
+97\.00&nbsp;
 
 &emsp;&emsp;&nbsp;8,000
 
-80\.50&nbsp;
+90\.00&nbsp;
 
 &emsp;&emsp;&nbsp;9,000
 
-74\.50&nbsp;
+84\.00&nbsp;
 
 &emsp;&emsp;10,000
 
-68\.50&nbsp;
+77\.00&nbsp;
 
 &emsp;&emsp;11,000
 
-66\.50&nbsp;
+75\.00&nbsp;
 
 &emsp;&emsp;12,000
 
-64\.50&nbsp;
+73\.00&nbsp;
 
 &emsp;&emsp;13,000
 
-63\.00&nbsp;
+70\.00&nbsp;
 
 &emsp;&emsp;14,000
 
-61\.00&nbsp;
+68\.00&nbsp;
 
 &emsp;&emsp;15,000
 
-59\.00&nbsp;
+66\.00&nbsp;
 
 &emsp;&emsp;16,000
 
-58\.00&nbsp;
+65\.00&nbsp;
 
 &emsp;&emsp;17,000
 
-57\.00&nbsp;
+64\.00&nbsp;
 
 &emsp;&emsp;18,000
 
-56\.00&nbsp;
+63\.00&nbsp;
 
 &emsp;&emsp;19,000
 
-55\.00&nbsp;
+62\.00&nbsp;
 
 &emsp;&emsp;20,000
 
-54\.00&nbsp;
+61\.00&nbsp;
 
 &emsp;&emsp;21,000
 
-53\.50&nbsp;
+60\.00&nbsp;
 
 &emsp;&emsp;22,000
 
-52\.75&nbsp;
+59\.00&nbsp;
 
 &emsp;&emsp;23,000
 
-52\.00&nbsp;
+59\.00&nbsp;
 
 &emsp;&emsp;24,000
 
-51\.50&nbsp;
+58\.00&nbsp;
 
 &emsp;&emsp;25,000
 
-51\.00&nbsp;
+57\.00&nbsp;
 
 &emsp;&emsp;26,000
 
-50\.50&nbsp;
+56\.00&nbsp;
 
 &emsp;&emsp;27,000
 
-50\.25&nbsp;
+56\.00&nbsp;
 
 &emsp;&emsp;28,000
 
-50\.00&nbsp;
+56\.00&nbsp;
 
 &emsp;&emsp;29,000
 
-49\.50&nbsp;
+55\.00&nbsp;
 
 &emsp;&emsp;30,000
 
-49\.00&nbsp;
+55\.00&nbsp;
 
 &emsp;&emsp;31,000
 
-48\.50&nbsp;
+54\.00&nbsp;
 
 &emsp;&emsp;32,000
 
-48\.00&nbsp;
+54\.00&nbsp;
 
 &emsp;&emsp;33,000
 
-47\.50&nbsp;
+53\.00&nbsp;
 
 &emsp;&emsp;34,000
 
-47\.00&nbsp;
+53\.00&nbsp;
 
 &emsp;&emsp;35,000
 
-46\.50&nbsp;
+52\.00&nbsp;
 
 &emsp;&emsp;36,000
 
-46\.00&nbsp;
+52\.00&nbsp;
 
 &emsp;&emsp;37,000
 
-45\.50&nbsp;
+51\.00&nbsp;
 
 &emsp;&emsp;38,000
 
-45\.00&nbsp;
+51\.00&nbsp;
 
 &emsp;&emsp;39,000
 
-44\.50&nbsp;
+50\.00&nbsp;
 
 &emsp;&emsp;40,000
 
-44\.00&nbsp;
+50\.00&nbsp;
 
 &emsp;&emsp;41,000
 
-43\.50 
+49\.00&nbsp;
 
 &emsp;&emsp;42,000
 
-43\.00&nbsp;
+48\.00&nbsp;
 
 &emsp;&emsp;43,000
 
-42\.75&nbsp;
+48\.00&nbsp;
 
 &emsp;&emsp;44,000
 
-42\.25&nbsp;
+47\.00&nbsp;
 
 &emsp;&emsp;45,000
 
-41\.75&nbsp;
+47\.00&nbsp;
 
 &emsp;&emsp;46,000
 
-41\.25&nbsp;
+46\.00&nbsp;
 
 &emsp;&emsp;47,000
 
-40\.75&nbsp;
+46\.00 
 
 &emsp;&emsp;48,000
 
-40\.25&nbsp;
+45\.00&nbsp;
 
 &emsp;&emsp;49,000
 
-39\.75&nbsp;
+45\.00&nbsp;
 
 &emsp;&emsp;50,000
 
-39\.25.&nbsp;&nbsp;
+44\.00.&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (d) On October 1 of each year after the date of enactment of the Payment in Lieu of Taxes Act, the Secretary of the Interior shall adjust each dollar amount specified in subsections (b) and (c) to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor, for the 12 months ending the preceding June 30.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1032; Pub. L. 98–63, title I, §101(2), July 30, 1983, 97 Stat. 324; Pub. L. 103–397, §§2, 3, 5(b), Oct. 22, 1994, 108 Stat. 4156–4158.)
-
-#### Amendment of Subsection (c)(2)
-
-<i>Pub. L. 103–397, §§2(b)(2), 5(a)(2), Oct. 22, 1994, 108 Stat. 4156, 4158, provided that, effective Oct. 1, 1998, the table at the end of subsection (c)(2) is amended to read as follows:</i>
-
-&nbsp;
-
-<i>the limitation</i>
-
-&nbsp;
-
-<i>is equal to the</i>
-
-&nbsp;
-
-<i>population</i>
-
-<i>If population equals—</i>
-
-<i>times—</i>
-
-&emsp;&emsp;<i> 5,000</i>
-
-<i>$110.00 </i>
-
-&emsp;&emsp;<i> 6,000</i>
-
-<i>103.00 </i>
-
-&emsp;&emsp;<i> 7,000</i>
-
-<i>97.00 </i>
-
-&emsp;&emsp;<i> 8,000</i>
-
-<i>90.00 </i>
-
-&emsp;&emsp;<i> 9,000</i>
-
-<i>84.00 </i>
-
-&emsp;&emsp;<i>10,000</i>
-
-<i>77.00 </i>
-
-&emsp;&emsp;<i>11,000</i>
-
-<i>75.00 </i>
-
-&emsp;&emsp;<i>12,000</i>
-
-<i>73.00 </i>
-
-&emsp;&emsp;<i>13,000</i>
-
-<i>70.00 </i>
-
-&emsp;&emsp;<i>14,000</i>
-
-<i>68.00 </i>
-
-&emsp;&emsp;<i>15,000</i>
-
-<i>66.00 </i>
-
-&emsp;&emsp;<i>16,000</i>
-
-<i>65.00 </i>
-
-&emsp;&emsp;<i>17,000</i>
-
-<i>64.00 </i>
-
-&emsp;&emsp;<i>18,000</i>
-
-<i>63.00 </i>
-
-&emsp;&emsp;<i>19,000</i>
-
-<i>62.00 </i>
-
-&emsp;&emsp;<i>20,000</i>
-
-<i>61.00 </i>
-
-&emsp;&emsp;<i>21,000</i>
-
-<i>60.00 </i>
-
-&emsp;&emsp;<i>22,000</i>
-
-<i>59.00 </i>
-
-&emsp;&emsp;<i>23,000</i>
-
-<i>59.00 </i>
-
-&emsp;&emsp;<i>24,000</i>
-
-<i>58.00 </i>
-
-&emsp;&emsp;<i>25,000</i>
-
-<i>57.00 </i>
-
-&emsp;&emsp;<i>26,000</i>
-
-<i>56.00 </i>
-
-&emsp;&emsp;<i>27,000</i>
-
-<i>56.00 </i>
-
-&emsp;&emsp;<i>28,000</i>
-
-<i>56.00 </i>
-
-&emsp;&emsp;<i>29,000</i>
-
-<i>55.00 </i>
-
-&emsp;&emsp;<i>30,000</i>
-
-<i>55.00 </i>
-
-&emsp;&emsp;<i>31,000</i>
-
-<i>54.00 </i>
-
-&emsp;&emsp;<i>32,000</i>
-
-<i>54.00 </i>
-
-&emsp;&emsp;<i>33,000</i>
-
-<i>53.00 </i>
-
-&emsp;&emsp;<i>34,000</i>
-
-<i>53.00 </i>
-
-&emsp;&emsp;<i>35,000</i>
-
-<i>52.00 </i>
-
-&emsp;&emsp;<i>36,000</i>
-
-<i>52.00 </i>
-
-&emsp;&emsp;<i>37,000</i>
-
-<i>51.00 </i>
-
-&emsp;&emsp;<i>38,000</i>
-
-<i>51.00 </i>
-
-&emsp;&emsp;<i>39,000</i>
-
-<i>50.00 </i>
-
-&emsp;&emsp;<i>40,000</i>
-
-<i>50.00 </i>
-
-&emsp;&emsp;<i>41,000</i>
-
-<i>49.00 </i>
-
-&emsp;&emsp;<i>42,000</i>
-
-<i>48.00 </i>
-
-&emsp;&emsp;<i>43,000</i>
-
-<i>48.00 </i>
-
-&emsp;&emsp;<i>44,000</i>
-
-<i>47.00 </i>
-
-&emsp;&emsp;<i>45,000</i>
-
-<i>47.00 </i>
-
-&emsp;&emsp;<i>46,000</i>
-
-<i>46.00 </i>
-
-&emsp;&emsp;<i>47,000</i>
-
-<i>46.00 </i>
-
-&emsp;&emsp;<i>48,000</i>
-
-<i>45.00 </i>
-
-&emsp;&emsp;<i>49,000</i>
-
-<i>45.00 </i>
-
-&emsp;&emsp;<i>50,000</i>
-
-<i>44.00.  </i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Historical and Revision Notes
 
@@ -518,11 +312,13 @@ The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec
 
 1994—Subsec. (b)(1)(A). Pub. L. 103–397, §2(a)(1), substituted “93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land” for “75 cents for each acre of entitlement land”.
 
-Subsec. (b)(1)(B). Pub. L. 103–397, §2(a)(2), substituted “12 cents during fiscal year 1995, 15 cents during fiscalyear 1996, 17 cents during fiscal year 1997, 20 cents during fiscal year 1998, and 22 cents during fiscal year 1999 and thereafter, for each acre of entitlement land” for “10 cents for each acre of entitlement land”.
+Subsec. (b)(1)(B). Pub. L. 103–397, §2(a)(2), substituted “12 cents during fiscal year 1995, 15 cents during fiscal year 1996, 17 cents during fiscal year 1997, 20 cents during fiscal year 1998, and 22 cents during fiscal year 1999 and thereafter, for each acre of entitlement land” for “10 cents for each acre of entitlement land”.
 
 Subsec. (c)(1). Pub. L. 103–397, §2(b)(1), substituted “the highest dollar amount specified in paragraph (2)” for “$50 times the population”.
 
-Subsec. (c)(2). Pub. L. 103–397, §5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
+Subsec. (c)(2). Pub. L. 103–397, §2(b)(2), amended table generally by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $39.25 to $98.00 under prior table to $44.00 to $110.00.
+
+Pub. L. 103–397, §5(b)(4), amended table generally for fiscal year 1998 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $34.50 to $86.00 under prior table to $39.25 to $98.00.
 
 Pub. L. 103–397, §5(b)(3), amended table generally for fiscal year 1997 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $29.50 to $74.00 under prior table to $34.50 to $86.00.
 

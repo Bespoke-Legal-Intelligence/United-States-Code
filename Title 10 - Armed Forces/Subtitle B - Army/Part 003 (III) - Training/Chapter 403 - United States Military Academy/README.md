@@ -30,10 +30,13 @@
 | [4355\.](%C2%A7%2004355%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
 | [4356\.](%C2%A7%2004356%20-%20Use%20of%20certain%20gifts.md) | Use of certain gifts. |
 | \[4357. | Repealed.\] |
+| [4358\.](%C2%A7%2004358%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title X, §1063(a)(2), Oct. 17, 1998, 112 Stat. 2130, added item 4358.
 
 1997—Pub. L. 105–85, div. A, title V, §542(a)(2), Nov. 18, 1997, 111 Stat. 1741, added item 4345.
 
@@ -49,7 +52,7 @@
 
 1981—Pub. L. 97–60, title II, §203(a)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 4341a.
 
-1978—Pub. L. 95–551, §4(b), Oct. 30, 1978, 92 Stat. 2069, substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in item 4331, “director of admissions” for “registrar” in item 4336, and struck out item 4338 “Director of music”.
+1978—Pub. L. 95–551, §4(b), Oct. 30, 1978, 92 Stat. 2069, substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” initem 4331, “director of admissions” for “registrar” in item 4336, and struck out item 4338 “Director of music”.
 
 1968—Pub. L. 90–623, §2(7), Oct. 22, 1968, 82 Stat. 1314, struck out item 4339 “Organist and choirmaster; civilian instructors in departments of foreign languages and tactics: quarters, fuel, and light”.
 
@@ -92,3 +95,4 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 04355 - Board of Visitors](%C2%A7%2004355%20-%20Board%20of%20Visitors.md)
 - [&sect; 04356 - Use of certain gifts](%C2%A7%2004356%20-%20Use%20of%20certain%20gifts.md)
 - [&sect; 04357 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(a)(1), Feb. 10, 1996, 110 Stat. 315](%C2%A7%2004357%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315.md)
+- [&sect; 04358 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2004358%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)

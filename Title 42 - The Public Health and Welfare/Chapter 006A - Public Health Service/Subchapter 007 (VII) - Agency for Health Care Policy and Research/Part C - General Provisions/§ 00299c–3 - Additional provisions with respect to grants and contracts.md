@@ -26,7 +26,7 @@ The Administrator may not, with respect to any program under this subchapter aut
 
 Contracts may be entered into under this part without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title IX, §924, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2202; amended Oct. 13, 1992, Pub. L. 102–410, §9, 106 Stat. 2100.)
+(July 1, 1944, ch. 373, title IX, §924, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2202; amended Pub. L. 102–410, §9, Oct. 13, 1992, 106 Stat. 2100.)
 
 #### Codification
 

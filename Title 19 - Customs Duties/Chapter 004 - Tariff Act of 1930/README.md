@@ -216,9 +216,7 @@
 | 1355 to 1356j. Repealed or Omitted. |  |
 | [1356k.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20003%20%28III%29%20-%20Promotion%20of%20Foreign%20Trade/%C2%A7%2001356k%20-%20Importation%20of%20coffee%20under%20International%20Coffee%20Agreement%2C%201983%3B%20Presidential%20powers%20and%20duties.md) | Importation of coffee under International Coffee Agreement, 1983; Presidential powers and duties. |
 | 1356<i>l.</i> | “Coffee” defined. |
-| [1356m.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20003%20%28III%29%20-%20Promotion%20of%20Foreign%20Trade/%C2%A7%2001356m%20-%20Delegation%20of%20Presidential%20powers%20and%20duties%3B%20protection%20of%20interests%20of%20United%20States%20consumers%3B%20remedial%20action.md) | Delegation of Presidential powers and duties; protection of interests of United States consumers; remedial action. |
-| [1356n.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20003%20%28III%29%20-%20Promotion%20of%20Foreign%20Trade/%C2%A7%2001356n%20-%20Report%20to%20the%20Congress.md) | Report to the Congress. |
-| 1357 to 1359. Repealed. |  |
+| 1356m to 1359. Repealed. |  |
 | [1360\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20003%20%28III%29%20-%20Promotion%20of%20Foreign%20Trade/%C2%A7%2001360%20-%20Investigation%20before%20trade%20negotiations.md) | Investigation before trade negotiations. |
 | (a) | Report by International Trade Commission. |
 | (b) | Procedures and determinations. |
@@ -742,7 +740,6 @@ I74subpart a—definitions
 | (f) | Regulations by the Secretary. |
 | (g) | Triennial reports by customs brokers. |
 | (h) | Fees and charges. |
-| (i) | Compensation of ocean freight forwarders. |
 | [1642\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001642%20-%20Omitted.md) | Omitted. |
 | [1643\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001643%20-%20Application%20of%20customs%20reorganization%20act.md) | Application of customs reorganization act. |
 | [1644\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001644%20-%20Application%20of%20section%201644a%28b%29%281%29%20of%20this%20title%20and%20section%201518%28d%29%20of%20title%2033.md) | Application of section 1644a(b)(1) of this title and section 1518(d) of title 33. |

@@ -14,11 +14,15 @@ Urban Indian organizations that operate Indian alcohol programs originally funde
 
 #### (d) Combination of funds
 
-For the purpose of carrying out this section, the Secretary may combine NIAAA alcoholfunds with other substance abuse funds currently administered through the Branch of Urban Health Programs of the Service.
+For the purpose of carrying out this section, the Secretary may combine NIAAA alcohol funds with other substance abuse funds currently administered through the Branch of Urban Health Programs of the Service.
 
 #### (e) Evaluation and report to Congress
 
-The Secretary shall evaluate and report to the Congress on the activities of programs funded under this section at least every two years.
+The Secretary shall evaluate and report to the Congress on the activities of programs funded under this section at least every 5 years.
 
-(Pub. L. 94–437, title V, §513, as added Pub. L. 102–573, title V, §504, Oct. 29, 1992, 106 Stat. 4570.)
+(Pub. L. 94–437, title V, §513, as added Pub. L. 102–573, title V, §504, Oct. 29, 1992, 106 Stat. 4570; amended Pub. L. 105–362, title VI, §602(a), Nov. 10, 1998, 112 Stat. 3286.)
+
+#### Amendments
+
+1998—Subsec. (e). Pub. L. 105–362 substituted “every 5 years” for “every two years”.
 

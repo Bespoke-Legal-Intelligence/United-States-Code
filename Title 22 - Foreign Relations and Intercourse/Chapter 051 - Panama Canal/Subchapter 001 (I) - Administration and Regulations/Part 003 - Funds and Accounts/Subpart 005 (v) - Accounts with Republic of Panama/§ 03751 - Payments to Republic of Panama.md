@@ -28,7 +28,7 @@ The prohibitions contained in this section and in sections 3712(b) and 3783 of t
 
 Notwithstanding any other provision of law, no reduction under any order issued pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 shall apply to the Commission if the implementation of such an order would result in a payment to the Republic of Panama under paragraph 4(c) of article XIII of the Panama Canal Treaty of 1977 and this section.
 
-(Pub. L. 96–70, title I, §1341, Sept. 27, 1979, 93 Stat. 482; Pub. L. 99–368, §6, Aug. 1, 1986, 100 Stat. 776; Pub. L. 100–203, title V, §5426, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 104–201, div. C, title XXXV, §3548(b)(3), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 105–85, div. C, title XXXV, §3550(d)(7), Nov. 18, 1997, 111 Stat. 2074.)
+(Pub. L. 96–70, title I, §1341, Sept. 27, 1979, 93 Stat. 482; Pub. L. 99–368, §6, Aug. 1, 1986, 100 Stat. 776; Pub. L. 100–203, title V, §5426, Dec. 22, 1987,101 Stat. 1330–274; Pub. L. 104–201, div. C, title XXXV, §3548(b)(3), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 105–85, div. C, title XXXV, §3550(d)(7), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271.)
 
 #### References in Text
 
@@ -36,13 +36,19 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-1997—Subsec. (f). Pub. L. 105–85 substituted “sections 3712(b)” for “sections 3712(c)”.
+1998—Subsec. (f). Pub. L. 105–261 made technical correction to Pub. L. 104–201. See 1996 Amendment note below.
 
-1996—Subsec. (f). Pub. L. 104–201 which directed substitution of “section 3712(b)” for “section 3712(c)” could not be executed because the words “section 3712(c)” did not appear.
+1997—Subsec. (f). Pub. L. 105–85, which directed substitution of “sections 3712(b)” for “sections 3712(c)”, could not be executed because the words “sections 3712(c)” did not appear subsequent to amendment by Pub. L. 104–201, as amended by Pub. L. 105–261. See 1996 and 1998 Amendments notes below and above.
+
+1996—Subsec. (f). Pub. L. 104–201, as amended by Pub. L. 105–261, substituted “sections 3712(b)” for “sections 3712(c)”.
 
 1987—Subsec. (e)(7). Pub. L. 100–203 added cl. (7).
 
 1986—Subsec. (g). Pub. L. 99–368 added subsec. (g).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
 
 #### Effective Date of 1987 Amendment
 
@@ -50,7 +56,7 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Section 7 of Pub. L. 99–368 provided that: “The amendment made by section 6 \[amending this section\]shall take effect with respect to fiscal year 1986 and subsequent fiscal years.”
+Section 7 of Pub. L. 99–368 provided that: “The amendment made by section 6 \[amending this section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years.”
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $100,000.
 
-(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
+(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the procuring activity concerned to submit such data under subsection (c) of this section) shall be required to certify that, to thebest of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
 (3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c) of this section), and a certification required to be submitted under paragraph (2), shall be submitted—
 
@@ -42,7 +42,7 @@
 
 (4) Except as provided under subsection (b) of this section, this section applies to contracts entered into by the head of an executive agency on behalf of a foreign government.
 
-(5) For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(B) <sup>1</sup> of this section shall be considered as having been required to make available cost or pricing data under this section.
+(5) A waiver of requirements for submission of certified cost or pricing data that is granted under subsection (b)(1)(C) of this section in the case of a contract or subcontract does not waive the requirement under paragraph (1)(C) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that paragraph should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
 
 (6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before October 13, 1994, the head of the executive agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1). All such modifications shall be made without requiring consideration.
 
@@ -90,7 +90,7 @@
 
 #### (1) Authority to require submission
 
-&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the data submitted shall include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on theprices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
 #### (2) Limitations on authority
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
-&emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b)of title 5 shall not be disclosed by the Federal Government.
+&emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
 #### (e) Price reductions for defective cost or pricing data
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(ii) at the current rate prescribed by the Secretary of the Treasury under section 6621 of title 26; and
 
-&emsp;(B) if the submission of such defective data was a knowing submission, for an additional amount equal to the amount of the overpayment.
+&emsp;(B) if the submission of such defective data was a knowing submission, for an additionalamount equal to the amount of the overpayment.
 
 (2) Any liability under this subsection of a contractor that submits cost or pricing data but refuses to submit the certification required by subsection (a)(2) of this section with respect to the cost or pricing data shall not be affected by the refusal to submit such certification.
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (1) Cost or pricing data
 
-&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on theprice of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
+&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
 
 #### (2) Subcontract
 
@@ -170,13 +170,13 @@ In this section:
 
 &emsp;The term “commercial item” has the meaning provided such term by section 403(12) of this title.
 
-(June 30, 1949, ch. 288, title III, §304A, as added Pub. L. 103–355, title I, §1251(a)(2), Oct. 13, 1994, 108 Stat. 3278; amended Pub. L. 104–106, div. D, title XLII, §4201(b), title XLIII, §4321(e)(3), (4), Feb. 10, 1996, 110 Stat. 651, 675.)
-
-#### References in Text
-
-Subsection (b) of this section, referred to in subsec. (a)(5), was amended generally by Pub. L. 104–106, div. D, title XLII, §4201(b)(1), Feb. 10, 1996, 110 Stat. 651, and, as so amended, provisions formerly contained in subsec. (b)(1)(B) are now contained in subsec. (b)(1)(C).
+(June 30, 1949, ch. 288, title III, §304A, as added Pub. L. 103–355, title I, §1251(a)(2), Oct. 13, 1994, 108 Stat. 3278; amended Pub. L. 104–106, div. D, title XLII, §4201(b), title XLIII, §4321(e)(3), (4), Feb. 10, 1996, 110 Stat. 651, 675; Pub. L. 105–261, div. A, title VIII, §§805(b), 808(b), Oct. 17, 1998, 112 Stat. 2083, 2085.)
 
 #### Amendments
+
+1998—Subsec. (a)(5). Pub. L. 105–261, §805(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(B) of this section shall be considered as having been required to make available cost or pricing data under this section.”
+
+Subsec. (d)(1). Pub. L. 105–261, §808(b), substituted “the contracting officer shall require that the data submitted” for “the data submitted shall”.
 
 1996—Subsec. (b). Pub. L. 104–106, §4201(b)(1), amended subsec. (b) generally, substituting pars. (1) and (2) relating to submission of certified cost or pricing data for former pars. (1) and (2) relating to submission of cost or pricing data and striking out par. (3) relating to FAR standards.
 
@@ -202,9 +202,15 @@ Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, t
 
 \[Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section to section 1251(b) of Pub. L. 103–355, set out above, is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.\]
 
+#### Eligibility for Contracts and Subcontracts To Be Conditioned on Compliance
+
+Pub. L. 105–261, div. A, title VIII, §808(c), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Federal Acquisition Regulation shall be amended to provide that an offeror's compliance with a requirement to submit data for a contract or subcontract in accordance with section 2306a(d)(1) of title 10, United States Code, or section 304A(d)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 254b(d)(1)\] shall be a condition for the offeror to be eligible to enter into the contract or subcontract, subject to such exceptions as the Federal Acquisition Regulatory Council determines appropriate.”
+
+#### Criteria for Determining Specific Price Information Required
+
+Pub. L. 105–261, div. A, title VIII, §808(d), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Federal Acquisition Regulation shall be amended to include criteria for contracting officers to apply for determining the specific price information that an offeror should be required to submit under section 2306a(d) of title 10, United States Code, or section 304A(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b(d)).”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 254d, 423 of this title; title 15 section 205c.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

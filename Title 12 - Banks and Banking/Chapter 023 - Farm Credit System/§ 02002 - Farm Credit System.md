@@ -42,7 +42,7 @@ General Rule.—Except as provided in subsection (b), the amendments made by thi
 
 “(b)
 
-Exceptions.—The amendments made by sections 102(b), 102(f), 102(g), 102(h), 201(q), 302(c), 302(d), 302(e), 401, 402(b), 409(d), 411, 414, and 901 (other than by subsections (a), (b), (c), (e), (f), and (g) thereof) of this Act \[see Tables for classification\] shall take effect immediately after the amendment made by section 401 of the 1987 Act takes effect \[section 401 of Pub. L. 100–233, effective 6 months after Jan. 6, 1988\].”
+Exceptions.—The amendments made by sections 102(b), 102(f), 102(g), 102(h), 201(q), 302(c), 302(d), 302(e),401, 402(b), 409(d), 411, 414, and 901 (other than by subsections (a), (b), (c), (e), (f), and (g) thereof) of this Act \[see Tables for classification\] shall take effect immediately after the amendment made by section 401 of the 1987 Act takes effect \[section 401 of Pub. L. 100–233, effective 6 months after Jan. 6, 1988\].”
 
 Section 434 of Pub. L. 100–233 provided in part that the amendment of this section by section 434 of Pub. L. 100–233 is effective 6 months after Jan. 6, 1988.
 

@@ -8,23 +8,19 @@ Except as otherwise provided in this chapter or in any other provision of law, a
 
 The President shall determine, after the conclusion of all negotiations entered into under this chapter or at the end of the 5-year period beginning on January 3, 1975, whichever is earlier, whether any major industrial country has failed to make concessions under trade agreements entered into under this chapter which provide competitive opportunities for the commerce of the United States in such country substantially equivalent to the competitive opportunities, provided by concessions made by the United States under trade agreements entered into under this chapter, for the commerce of such country in the United States.
 
-#### (c) Recommendations to Congress for legislation following a Presidential determination that a major industrial country has failed to grant equivalent concessions
-
-If the President determines under subsection (b) of this section that a major industrial country has not made concessions under trade agreements entered into under this chapter which provide substantially equivalent competitive opportunities for the commerce of the United States, he shall, either generally with respect to such country or by article produced by such country, in order to restore equivalence of competitive opportunities, recommend to the Congress—
-
-&emsp;(1) legislation providing for the termination or denial of the benefits of concessions of trade agreements entered into under this chapter made with respect to rates of duty or other import restrictions by the United States; and
-
-&emsp;(2) that any legislation necessary to carry out any trade agreement under section 2112 of this title shall not apply to such country.
-
-#### (d) Major industrial countries
+#### (c) Major industrial countries
 
 For purposes of this section, “major industrial country” means Canada, the European Economic Community, the individual member countries of such Community, Japan, and any other foreign country designated by the President for purposes of this subsection.
 
-(Pub. L. 93–618, title I, §126, Jan. 3, 1975, 88 Stat. 1992.)
+(Pub. L. 93–618, title I, §126, Jan. 3, 1975, 88 Stat. 1992; Pub. L. 105–362, title XIV, §1401(b)(1), Nov. 10, 1998, 112 Stat. 3294.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+
+#### Amendments
+
+1998—Subsecs. (c), (d). Pub. L. 105–362 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to recommendations to Congress for legislation following a Presidential determination that a major industrial country failed to grant equivalent concessions.
 
 #### Transactions Involving Libya
 

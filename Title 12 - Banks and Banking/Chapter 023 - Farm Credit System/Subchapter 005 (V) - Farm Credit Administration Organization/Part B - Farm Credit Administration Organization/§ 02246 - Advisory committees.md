@@ -8,7 +8,7 @@ The Chairman of the Board, subject to the approval of the Board, may establish o
 
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Farm Credit Amendments Act of 1985, referred to in text, is Pub. L. 99–205, Dec. 23, 1985, 99 Stat. 1678. Forcomplete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 2001 of this title and Tables.
+The Farm Credit Amendments Act of 1985, referred to in text, is Pub. L. 99–205, Dec. 23, 1985, 99 Stat. 1678. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 2001 of this title and Tables.
 
 #### Amendments
 

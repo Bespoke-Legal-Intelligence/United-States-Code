@@ -20,5 +20,5 @@
 
 #### Effective Date
 
-Section effective first day of sixth month which begins after Aug. 12, 1970, see section 15(b) of Pub. L.91–375, set out as a note preceding section 101 of this title.
+Section effective first day of sixth month which begins after Aug. 12, 1970, see section 15(b) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 

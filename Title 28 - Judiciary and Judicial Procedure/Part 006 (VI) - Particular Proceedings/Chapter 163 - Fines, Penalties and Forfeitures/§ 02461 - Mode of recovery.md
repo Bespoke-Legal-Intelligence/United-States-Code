@@ -22,11 +22,11 @@ Words “Unless otherwise provided by enactment of Congress” were inserted at 
 
 Rule 81 of the Federal Rules of Civil Procedure makes such rules applicable to the appeals in cases of seizures on land. (See also <i>443 Cans of Frozen Egg Product v. United States</i>, 1912, 33 S.Ct. 50, 226 U.S. 172, 57 L.Ed. 174, and <i>Eureka Productions v. Mulligan</i>, C.C.A. 1940, 108 F.2d 760.) The proceeding, which resembles a suit in admiralty in that it is begun by a libel, is, strictly speaking, an “action at law” (The Sarah, 1823, 8 Wheat. 391, 21 U.S. 391, 5 L.Ed. 644; Morris's Cotton, 1869, 8 Wall. 507, 75 U.S. 507, 19 L.Ed. 481; Confiscation cases, 1873, 20 Wall. 92, 87 U.S. 92, 22 L.Ed. 320; <i>Eureka Productions v. Mulligan</i>, supra), even though the statute may direct that the proceedings conform to admiralty as near as may be. <i>In re Graham</i>, 1870, 10 Wall. 541, 19 L.Ed. 981, and <i>443 Cans of Frozen Egg Product v. United States</i>, supra.
 
-Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rules, which recognizes that a libel may be filed upon seizure for any breach of any enactment of Congress, whether on land or on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States. Such rule also permits an information to be filed, but is rarely, if ever, used at present. Consequently, “information” has been omitted from the text and only “libel” is incorporated.
+Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rules, which recognizes that a libel may be filed upon seizure for any breach of anyenactment of Congress, whether on land or on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States. Such rule also permits an information to be filed, but is rarely, if ever, used at present. Consequently, “information” has been omitted from the text and only “libel” is incorporated.
 
 #### Federal Civil Penalties Inflation Adjustment
 
-Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, as amended by Pub. L. 104–134, title III, §31001(s)(1), Apr. 26, 1996, 110 Stat. 1321–373, provided that:
+Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, as amended by Pub. L. 104–134, title III, §31001(s)(1), Apr. 26, 1996, 110 Stat. 1321–373; Pub. L. 105–362, title XIII, §1301(a), Nov. 10, 1998, 112 Stat. 3293, provided that:
 
 #### “short title
 
@@ -108,27 +108,9 @@ Definition.—For purposes of subsection (a), the term ‘cost-of-living adjustm
 
 &emsp;“(2) the Consumer Price Index for the month of June of the calendar year in which the amount of such civil monetary penalty was last set or adjusted pursuant to law.
 
-#### “annual report
-
-“Sec. 6. No later than January 1 of each year, the President shall submit a report on civil monetary penalties to the Congress which shall include—
-
-&emsp;“(1) to the extent possible, the number and amount of civil monetary penalties imposed pursuant to each provision of law providing for such civil monetary penalties, during the complete fiscal year preceding the submission of such report;
-
-&emsp;“(2) to the extent possible, the number and amount of such civil penalties collected during such fiscal year; and
-
-&emsp;“(3) any recommendations that the President determines appropriate to—
-
-&emsp;&emsp;“(A) eliminate obsolete civil monetary penalties;
-
-&emsp;&emsp;“(B) modify the amount of any civil monetary penalty; or
-
-&emsp;&emsp;“(C) make any other legislative modifications concerning civil monetary penalties.
-
-“Sec. 7. Any increase under this Act in a civil monetary penalty shall apply only to violations which occur after the date the increase takes effect.”
+“Sec. 6. Any increase under this Act in a civil monetary penalty shall apply only to violations which occur after the date the increase takes effect.”
 
 \[Pub. L. 104–134, title III, §31001(s)(2), Apr. 26, 1996, 110 Stat. 1321–373, provided that: “The first adjustment of a civil monetary penalty made pursuant to the amendment made by paragraph (1) \[amending Pub. L. 101–410, set out above\] may not exceed 10 percent of such penalty.”\]
-
-\[Memorandum of President of the United States, May 3, 1991, 56 F.R. 21911, delegated to Director of Office of Management and Budget responsibility of President for submitting reports on civil monetary penalties to Committee on Governmental Affairs of the Senate and Committee on Government Operations of the House of Representatives and to Congress as required by section 6 of the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above.\]
 
 \[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.\]
 

@@ -49,6 +49,7 @@
 | [513\.](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md) | Retroactive payment of pay and allowances delayed by administrative error or oversight. |
 | [514\.](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md) | Reimbursement for adoption expenses. |
 | [515\.](%C2%A7%2000515%20-%20Child%20development%20services.md) | Child development services. |
+| [516\.](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,6 +58,8 @@
 Chapter 13 of this title deals with pay, allowances, awards, and other rights and benefits for personnel of the Coast Guard. Some of these sections are new as applied to the Coast Guard, some clarify and consolidate existing law, and others merely restate existing law. There is no intention to amend, enlarge or curtail the Pay Readjustment Act of 1942, as amended. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title VI, §644(d)(2), Oct. 17, 1998, 112 Stat. 2049, added item 516.
 
 1996—Pub. L. 104–324, title II, §201(b), Oct. 19, 1996, 110 Stat. 3907, added item 515.
 
@@ -164,3 +167,4 @@ This chapter is referred to in section 705 of this title.
 - [&sect; 00513 - Retroactive payment of pay and allowances delayed by administrative error or oversight](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md)
 - [&sect; 00514 - Reimbursement for adoption expenses](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md)
 - [&sect; 00515 - Child development services](%C2%A7%2000515%20-%20Child%20development%20services.md)
+- [&sect; 00516 - Presentation of United States flag upon retirement](%C2%A7%2000516%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md)

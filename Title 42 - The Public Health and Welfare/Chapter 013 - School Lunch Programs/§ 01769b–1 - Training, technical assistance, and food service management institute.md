@@ -70,11 +70,11 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 &emsp;&emsp;(E) acting as a clearinghouse for research, studies, and findings concerning all aspects of the operation of food service programs, including activities carried out with assistance provided under section 1788 of this title;
 
-&emsp;&emsp;(F) training food service personnel to comply with the nutrition guidance and objectives of section 1769e <sup>1</sup> of this title through a national network of instructors or other means;
+&emsp;&emsp;(F) training food service personnel to comply with the nutrition guidance and objectives established by the Secretary through a national network of instructors or other means;
 
 &emsp;&emsp;(G) preparing informational materials, such as video instruction tapes and menu planners, to promote healthier food preparation; and
 
-&emsp;&emsp;(H) assisting State educational agencies in providing additional nutrition and health instructions and instructors, including training personnel to comply with the nutrition guidance and objectives of section 1769e <sup>1</sup> of this title.
+&emsp;&emsp;(H) assisting State educational agencies in providing additional nutrition and health instructions and instructors, including training personnel to comply with the nutrition guidance and objectives established by the Secretary.
 
 #### (d) Coordination
 
@@ -90,29 +90,33 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (1) Training activities and technical assistance
 
-&emsp;There are authorized to be appropriated to carry out subsection (a)(1) of this section $3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, and $1,000,000 for each of fiscal years 1992 through 1998.
+&emsp;There are authorized to be appropriated to carry out subsection (a)(1) of this section $3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, and $1,000,000 for each of fiscal years 1992 through 2003.
 
 #### (2) Food service management institute
 
 #### (A) Funding
 
-&emsp;&emsp;In addition to any amounts otherwise made available for fiscal year 1995, out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary $147,000 for fiscal year 1995, and $2,000,000 for fiscal year 1996 and each subsequent fiscal year, to carry out subsection (a)(2) of this section. The Secretary shall be entitled to receive the funds and shall accept the funds.
+&emsp;&emsp;In addition to any amounts otherwise made available for fiscal year 1995, out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary $147,000 for fiscal year 1995, $2,000,000 for each of fiscal years 1996 through 1998, and $3,000,000 for fiscal year 1999 and each subsequent fiscal year, to carry out subsection (a)(2) of this section. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
 #### (B) Additional funding
 
-&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorizedto be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
 
 #### (C) Funding for education, training, or applied research or studies
 
-&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
+&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute establishedunder subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
 
-(June 4, 1946, ch. 281, §21, as added Nov. 10, 1989, Pub. L. 101–147, title I, §109, 103 Stat. 887; amended Aug. 7, 1992, Pub. L. 102–337, §1, 106 Stat. 865; Nov. 2, 1994, Pub. L. 103–448, title I, §120, 108 Stat. 4726.)
-
-#### References in Text
-
-Section 1769e of this title, referred to in subsec. (c)(2)(F), (H), was repealed by Pub. L. 104–193, title VII, §712, Aug. 22, 1996, 110 Stat. 2301.
+(June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157.)
 
 #### Amendments
+
+1998—Subsec. (c)(2)(F), (H). Pub. L. 105–336, §110(a), substituted “established by the Secretary” for “of section 1769e of this title”.
+
+Subsec. (e)(1). Pub. L. 105–336, §110(b), substituted “2003” for “1998”.
+
+Subsec. (e)(2)(A). Pub. L. 105–336, §110(c), substituted “$2,000,000 for each of fiscal years 1996 through 1998, and $3,000,000 for fiscal year 1999 and each subsequent fiscal year,” for “and $2,000,000 for fiscal year 1996 and each subsequent fiscal year,” in first sentence.
+
+Pub. L. 105–336, §103(c)(2), inserted “, without further appropriation” before period at end of second sentence.
 
 1994—Subsec. (a)(1). Pub. L. 103–448, §120(c)(1), substituted “subject to the availability of, and from, amounts” for “from amounts” in introductory provisions.
 
@@ -130,13 +134,15 @@ Subsec. (e). Pub. L. 103–448, §120(c)(2), added subsec. (e) and struck out fo
 
 1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1769h, 1788 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in section 1788 of this title.
 

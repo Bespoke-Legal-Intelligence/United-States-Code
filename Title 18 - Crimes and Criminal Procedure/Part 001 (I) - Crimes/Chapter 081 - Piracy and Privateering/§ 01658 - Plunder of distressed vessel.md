@@ -8,7 +8,7 @@ Whoever holds out or shows any false light, or extinguishes any true light, with
 
 Shall be imprisoned not less than ten years and may be imprisoned for life.
 
-(June 25, 1948, ch. 645, 62 Stat. 775; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 775; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

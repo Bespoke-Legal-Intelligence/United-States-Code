@@ -72,7 +72,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(B) the insurance company complies with section 80a–26(e) of this title and any rules or regulations issued by the Commission under section 80a–26(e) of this title.
 
-(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Dec. 14, 1970, Pub. L. 91–547, §16, 84 Stat. 1424; Nov. 23, 1971, Pub. L. 92–165, 85 Stat. 487; Oct. 11, 1996, Pub. L. 104–290, title II, §205(b), 110 Stat. 3429.)
+(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429.)
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 1
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 

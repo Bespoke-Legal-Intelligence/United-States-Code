@@ -6,9 +6,5 @@
 
 (Pub. L. 85–568, title III, §311, as added Pub. L. 100–147, title I, §117, Oct. 30, 1987, 101 Stat. 867.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2465e of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “expendable”.</i>
 

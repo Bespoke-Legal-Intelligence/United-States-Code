@@ -34,7 +34,7 @@
 
 &emsp;(A) Except as provided in subsection (b) of this section, the Secretary may, through publication of a notice in the Federal Register, exempt schoolwide programs under this section from statutory or regulatory provisions of any other noncompetitive formula grant program administered by the Secretary, or any discretionary grant program administered by the Secretary (other than formula or discretionary grant programs under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\]), to support schoolwide programs, if the intent and purposes of such other programs are met.
 
-&emsp;(B) A school that chooses to use funds from such other programs shall not be relieved of the requirements relating to health, safety, civil rights, gender equity, student and parental participation and involvement, services to private school children, maintenance of effort, comparability of services, uses of Federal funds to supplement, not supplant non-Federal funds, or the distribution of funds to State orlocal educational agencies that apply to the receipt of funds from such programs.
+&emsp;(B) A school that chooses to use funds from such other programs shall not be relieved of the requirements relating to health, safety, civil rights, gender equity, student and parental participation and involvement, services to private school children, maintenance of effort, comparability of services, uses of Federal funds to supplement, not supplant non-Federal funds, or the distribution of funds to State or local educational agencies that apply to the receipt of funds from such programs.
 
 #### (5) Professional development
 
@@ -132,17 +132,17 @@
 
 &emsp;&emsp;(iv) available to the local educational agency, parents, and the public, and the information contained in such plan shall be translated, to the extent feasible, into any language that a significant percentage of the parents of participating children in the school speak as their primary language; and
 
-&emsp;&emsp;(v) where appropriate, developed in coordination with programs under the School-to-Work Opportunities Act of 1994 \[20 U.S.C. 6101 et seq.\], the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\], and the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\].
+&emsp;&emsp;(v) where appropriate, developed in coordination with programs under the School-to-Work Opportunities Act of 1994 \[20 U.S.C. 6101 et seq.\], the Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\], and the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\].
 
 #### (c) Accountability
 
 A schoolwide program under this section shall be subject to the school improvement provisions of section 6317 of this title.
 
-(Pub. L. 89–10, title I, §1114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3534.)
+(Pub. L. 89–10, title I, §1114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3534; amended Pub. L. 105–332, §3(c)(1), Oct. 31, 1998, 112 Stat. 3125.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which isclassified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
@@ -150,13 +150,17 @@ The Improving America's Schools Act of 1994, referred to in subsec. (b)(2)(C)(i)
 
 The School-to-Work Opportunities Act of 1994, referred to in subsec. (b)(2)(C)(v), is Pub. L. 103–239, May 4, 1994, 108 Stat. 568, as amended, which is classified principally to chapter 69 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(2)(C)(v), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(2)(C)(v), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (b)(2)(C)(v), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
+#### Amendments
+
+1998—Subsec. (b)(2)(C)(v). Pub. L. 105–332, which directed substitution of “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Carl D. Perkins Vocational and Applied Technical Education Act”, was executed by making the substitution for “Carl D. Perkins Vocational and Applied Technology Education Act” to reflect the probable intent of Congress.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1413, 6311, 6312, 6313, 6315, 6319, 6320, 6394, 6396, 6493, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 sections 3030g–12, 9855c.
+This section is referred to in sections 1413, 6311, 6312, 6313, 6315, 6319, 6320, 6394, 6396, 6672, 7815, 8102, 8622, 8651, 8941 of this title; title 42 sections 3030g–12, 9855c.
 
 <i><sup>1</sup></i><i> So in original. No cls. (v) and (vi) have been enacted.</i>
 

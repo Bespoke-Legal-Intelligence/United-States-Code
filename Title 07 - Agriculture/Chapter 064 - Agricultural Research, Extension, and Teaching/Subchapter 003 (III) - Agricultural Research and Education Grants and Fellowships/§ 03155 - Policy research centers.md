@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Consistent with this section, the Secretary may make grants, competitive grants, and special research grants to, and enter into cooperative agreements and other contracting instruments with, policy research centers described in subsection (b) of this section to conduct research and education programs that are objective, operationally independent, and external to the Federal Government and that concern the effect of public policies on—
+Consistent with this section, the Secretary may make grants, competitive grants, and special research grants to, and enter into cooperative agreements and other contracting instruments with, policy research centers described in subsection (b) of this section to conduct research and education programs that are objective, operationally independent, and external to the Federal Government and that concern the effect of public policies and trade agreements on—
 
 &emsp;(1) the farm and agricultural sectors;
 
@@ -30,7 +30,13 @@ Under this section, funding may be provided for disciplinary and interdisciplina
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for fiscal years 1996 and 1997.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2002.
 
-(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162.)
+(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, §224, title III, §301(a)(3), June 23, 1998, 112 Stat. 540, 562.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–185, §224, inserted “and trade agreements” after “public policies” in introductory provisions.
+
+Subsec. (d). Pub. L. 105–185, §301(a)(3), substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 

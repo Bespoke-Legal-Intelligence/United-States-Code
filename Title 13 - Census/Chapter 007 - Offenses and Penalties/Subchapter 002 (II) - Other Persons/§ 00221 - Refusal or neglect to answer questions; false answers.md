@@ -6,7 +6,7 @@
 
 (c) Notwithstanding any other provision of this title, no person shall be compelled to disclose information relative to his religious beliefs or to membership in a religious body.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1023; Aug. 28, 1957, Pub. L. 85–207, §15, 71 Stat. 484; Oct. 17, 1976, Pub. L. 94–521, §13, 90 Stat. 2465.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1023; Pub. L. 85–207, §15, Aug. 28, 1957, 71 Stat. 484; Pub. L. 94–521, §13, Oct. 17, 1976, 90 Stat. 2465.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ The language of section 209 of title 13, U.S.C., 1952 ed., providing that it sho
 
 The designation of the first offense, herein described, as a “misdemeanor”, was omitted as covered by section 1 of title 18, U.S.C., 1952 ed., Crimes and Criminal Procedure, classifying crimes; and words “upon conviction thereof” were omitted as surplusage.
 
-References to the Secretary (of Commerce) and to any “authorized officer or employee of the Department of Commerce or bureau or agency thereof”, etc., were substituted for references to the Director of the Census and to any “supervisor, enumerator, or special agent, or other employee of the Census Office”, to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See revision note to section 4 of this title.
+References to the Secretary (of Commerce) and to any “authorized officer or employee of the Department of Commerce or bureau or agency thereof”, etc., were substituted for references to the Director of the Census and to any “supervisor, enumerator, or special agent,or other employee of the Census Office”, to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See revision note to section 4 of this title.
 
 Changes were made in phraseology.
 

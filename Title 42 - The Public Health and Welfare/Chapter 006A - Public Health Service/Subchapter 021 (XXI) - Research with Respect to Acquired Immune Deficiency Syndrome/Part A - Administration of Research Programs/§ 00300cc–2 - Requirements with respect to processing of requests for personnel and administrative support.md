@@ -18,7 +18,7 @@ For purposes of this section, the term “priority request” means any request 
 
 &emsp;(B) is made to the Administrator of General Services for administrative support or space in carrying out such activities.
 
-(July 1, 1944, ch. 373, title XXIII, §2303, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3064; amended July 10, 1992, Pub. L. 102–321, title I, §§161, 163(b)(7), 106 Stat. 375, 376; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(17), 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXIII, §2303, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3064; amended Pub. L. 102–321, title I, §§161, 163(b)(7), July 10, 1992, 106 Stat. 375, 376; Pub. L. 102–531, title III, §312(d)(17), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Prior Provisions
 

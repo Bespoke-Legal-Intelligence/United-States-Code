@@ -2,7 +2,7 @@
 
 #### (a) Cost-benefit analysis
 
-The Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis (as established under subsection (f) of this section), shall conduct a comprehensive analysis of the impact of this chapter on the public health, economy, and environment of the United States. In performing such analysis, the Administrator should consider the costs, benefits and other effects associated with compliance with each standard issued for—
+The Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor,and the Council on Clean Air Compliance Analysis (as established under subsection (f) of this section), shall conduct a comprehensive analysis of the impact of this chapter on the public health, economy, and environment of the United States. In performing such analysis, the Administrator should consider the costs, benefits and other effects associated with compliance with each standard issued for—
 
 &emsp;(1) a criteria air pollutant subject to a standard issued under section 7409 of this title;
 
@@ -38,7 +38,7 @@ Not later than 24 months after November 15, 1990, and every 24 months thereafter
 
 #### (f) Appointment of Advisory Council on Clean Air Compliance Analysis
 
-Not later than 6 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce and the Secretary of Labor, shall appoint an Advisory Council on Clean Air Compliance Analysis of not less than nine members (hereafter in this section referred to as the “Council”). In appointing such members, the Administrator shall appoint recognizedexperts in the fields of the health and environmental effects of air pollution, economic analysis, environmental sciences, and such other fields that the Administrator determines to be appropriate.
+Not later than 6 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce and the Secretary of Labor, shall appoint an Advisory Council on Clean Air Compliance Analysis of not less than nine members (hereafter in this section referred to as the “Council”). In appointing such members, the Administrator shall appoint recognized experts in the fields of the health and environmental effects of air pollution, economic analysis, environmental sciences, and such other fields that the Administrator determines to be appropriate.
 
 #### (g) Duties of Advisory Council
 
@@ -50,7 +50,7 @@ The Council shall—
 
 &emsp;(3) prior to the issuance of a report required under subsection (d) or (e) of this section, review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
 
-(July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §224(c), 91 Stat. 767; Nov. 15, 1990, Pub. L. 101–549, title VIII, §812(a), 104 Stat. 2691.)
+(July 14, 1955, ch. 360, title III, §312, formerly §305, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 505; renumbered §312 and amended Pub. L. 91–604, §§12(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1705, 1713; Pub. L. 95–95, title II, §224(c), Aug. 7, 1977, 91 Stat. 767; Pub. L. 101–549, title VIII, §812(a), Nov. 15, 1990, 104 Stat. 2691.)
 
 #### Codification
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of acouncil established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Equivalent Air Quality Controls Among Trading Nations
 

@@ -2,7 +2,7 @@
 
 #### (a) Importation prohibited
 
-Except as provided in subsection (d) of this section, it shall be unlawful to import into the United States any merchandise of foreign manufacture if such merchandise, or the label, sign, print, package, wrapper, or receptacle, bears a trademark owned by a citizen of, or by a corporation or association created or organized within, the United States, and registered in the Patent and Trademark Office by a person domiciled in the United States, under the provisions of sections 81 to 109 of title 15, and if a copy of the certificate of registration of such trademark is filed with the Secretary of the Treasury, in the manner provided in section 106 of said title 15, unless written consent of the owner of such trademark is produced at the time of making entry.
+Except as provided in subsection (d) of this section, it shall be unlawful to import into theUnited States any merchandise of foreign manufacture if such merchandise, or the label, sign, print, package, wrapper, or receptacle, bears a trademark owned by a citizen of, or by a corporation or association created or organized within, the United States, and registered in the Patent and Trademark Office by a person domiciled in the United States, under the provisions of sections 81 to 109 of title 15, and if a copy of the certificate of registration of such trademark is filed with the Secretary of the Treasury, in the manner provided in section 106 of said title 15, unless written consent of the owner of such trademark is produced at the time of making entry.
 
 #### (b) Seizure and forfeiture
 
@@ -24,7 +24,7 @@ Any person dealing in any such merchandise may be enjoined from dealing therein 
 
 #### (e) Merchandise bearing counterfeit mark; seizure and forfeiture; disposition of seized goods
 
-Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may obliterate the trademark where feasible and dispose of the goods seized—
+Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title 15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may obliterate the trademark where feasible and dispose of the goods seized—
 
 &emsp;(1) by delivery to such Federal, State, and local government agencies as in the opinion of the Secretary have a need for such merchandise,
 
@@ -42,7 +42,7 @@ Any such merchandise bearing a counterfeit mark (within the meaning of section 1
 
 (4) The imposition of a fine under this subsection shall be within the discretion of the Customs Service, and shall be in addition to any other civil or criminal penalty or other remedy authorized by law.
 
-(June 17, 1930, ch. 497, title IV, §526, 46 Stat. 741; Jan. 2, 1975, Pub. L. 93–596, §3, 88 Stat. 1949; Oct. 3, 1978, Pub. L. 95–410, title II, §211(a), (c), 92 Stat. 903; Dec. 8, 1993, Pub. L. 103–182, title VI, §663, 107 Stat. 2214; July 2, 1996, Pub. L. 104–153, §§9, 10, 110 Stat. 1388.)
+(June 17, 1930, ch. 497, title IV, §526, 46 Stat. 741; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–410, title II, §211(a), (c), Oct. 3, 1978, 92 Stat. 903; Pub. L. 103–182, title VI, §663, Dec. 8, 1993, 107 Stat. 2214; Pub. L. 104–153, §§9, 10, July 2, 1996, 110 Stat. 1388.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ The customs laws, referred to in subsec. (b), are classified generally to this t
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42 Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §526, 42Stat. 975. That section was superseded by section 526 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 

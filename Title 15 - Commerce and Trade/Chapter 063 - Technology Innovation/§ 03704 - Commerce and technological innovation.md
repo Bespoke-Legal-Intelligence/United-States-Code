@@ -78,7 +78,87 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 (5) The Secretary shall transmit to the Congress, within 1 year after August 14, 1986, a report on the activities of the Federal Government to collect, abstract, translate, and distribute declassified Japanese scientific and technical information.
 
-(Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20.)
+#### (e) Omitted
+
+#### (f) Experimental Program to Stimulate Competitive Technology
+
+#### (1) In general
+
+&emsp;The Secretary, acting through the Under Secretary, shall establish for fiscal year 1999 a program to be known as the Experimental Program to Stimulate Competitive Technology (referred to in this subsection as the “program”). The purpose of the program shall be to strengthen the technological competitiveness of those States that have historically received less Federal research and development funds than those received by a majority of the States.
+
+#### (2) Arrangements
+
+&emsp;In carrying out the program, the Secretary, acting through the Under Secretary, shall—
+
+&emsp;&emsp;(A) enter into such arrangements as may be necessary to provide for the coordination of the program through the State committees established under the Experimental Program to Stimulate Competitive Research of the National Science Foundation; and
+
+&emsp;&emsp;(B) cooperate with—
+
+&emsp;&emsp;&emsp;(i) any State science and technology council established under the program under subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) representatives of small business firms and other appropriate technology-based businesses.
+
+#### (3) Grants and cooperative agreements
+
+&emsp;In carrying out the program, the Secretary, acting through the Under Secretary, may make grants or enter into cooperative agreements to provide for—
+
+&emsp;&emsp;(A) technology research and development;
+
+&emsp;&emsp;(B) technology transfer from university research;
+
+&emsp;&emsp;(C) technology deployment and diffusion; and
+
+&emsp;&emsp;(D) the strengthening of technological capabilities through consortia comprised of—
+
+&emsp;&emsp;&emsp;(i) technology-based small business firms;
+
+&emsp;&emsp;&emsp;(ii) industries and emerging companies;
+
+&emsp;&emsp;&emsp;(iii) universities; and
+
+&emsp;&emsp;&emsp;(iv) State and local development agencies and entities.
+
+#### (4) Requirements for making awards
+
+#### (A) In general
+
+&emsp;&emsp;In making awards under this subsection, the Secretary, acting through the Under Secretary, shall ensure that the awards are awarded on a competitive basis that includes a review of the merits of the activities that are the subject of the award.
+
+#### (B) Matching requirement
+
+&emsp;&emsp;The non-Federal share of the activities (other than planning activities) carried out under an award under this subsection shall be not less than 25 percent of the cost of those activities.
+
+#### (5) Criteria for States
+
+&emsp;The Secretary, acting through the Under Secretary, shall establish criteria for achievement by each State that participates in the program. Upon the achievement of all such criteria, a State shall cease to be eligible to participate in the program.
+
+#### (6) Coordination
+
+&emsp;To the extent practicable, in carrying out this subsection, the Secretary, acting through the Under Secretary, shall coordinate the program with other programs of the Department of Commerce.
+
+#### (7) Report
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 90 days after October 30, 1998, the Under Secretary shall prepare and submit a report that meets the requirements of this paragraph to the Secretary. Upon receipt of the report, the Secretary shall transmit a copy of the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science of the House of Representatives.
+
+#### (B) Requirements for report
+
+&emsp;&emsp;The report prepared under this paragraph shall contain with respect to the program—
+
+&emsp;&emsp;&emsp;(i) a description of the structure and procedures of the program;
+
+&emsp;&emsp;&emsp;(ii) a management plan for the program;
+
+&emsp;&emsp;&emsp;(iii) a description of the merit-based review process to be used in the program;
+
+&emsp;&emsp;&emsp;(iv) milestones for the evaluation of activities to be assisted under the program in fiscal year 1999;
+
+&emsp;&emsp;&emsp;(v) an assessment of the eligibility of each State that participates in the Experimental Program to Stimulate Competitive Research of the National Science Foundation to participate in the program under this subsection; and
+
+&emsp;&emsp;&emsp;(vi) the evaluation criteria with respect to which the overall management and effectiveness of the program will be evaluated.
+
+(Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §9, Oct. 30, 1998, 112 Stat. 2938.)
 
 #### References in Text
 
@@ -89,6 +169,8 @@ The Metric Conversion Act of 1975, referred to in subsec. (c)(4), is Pub. L. 94�
 Subsec. (e) of this section, which required Secretary to prepare and submit to President and Congress, within 3 years after Oct. 21, 1980, a report on progress, findings, and conclusions of activities conducted pursuant to this section and sections 3705, 3707, 3710, 3711, and 3712 of this title (as then in effect) and recommendations for possible modifications thereof, was omitted from the Code.
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–309 added subsec. (f).
 
 1992—Subsec. (c)(13) to (15). Pub. L. 102–245 added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
 
@@ -108,7 +190,7 @@ Subsec. (d)(1). Pub. L. 100–519, §201(d)(2), substituted “and the Under Sec
 
 1986—Subsec. (a). Pub. L. 99–502, §9(b)(3), substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
 
-Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall becompensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5”.
+Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5”.
 
 Subsec. (c). Pub. L. 99–502, §9(b)(5)(A), substituted “the Assistant Secretary” for “the Director” in provisions preceding par. (1).
 

@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;&emsp;(F) section 1337 of this title (relating to unfair practices in import trade).
 
-(June 17, 1930, ch. 497, title III, §339, as added Oct. 30, 1984, Pub. L. 98–573, title II, §221\[(a)\], 98 Stat. 2989; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(3), 100 Stat. 2924; Aug. 23, 1988, Pub. L. 100–418, title I, §1614, 102 Stat. 1263.)
+(June 17, 1930, ch. 497, title III, §339, as added Pub. L. 98–573, title II, §221\[(a)\], Oct. 30, 1984, 98 Stat. 2989; Pub. L. 99–514, title XVIII, §1888(3), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1614, Aug. 23, 1988, 102 Stat. 1263.)
 
 #### References in Text
 

@@ -34,7 +34,7 @@ Requests.—The carrier must not require the shipper to agree to utilize arbitra
 
 &emsp;(7)
 
-Oral presentation of evidence.—The arbitrator may provide for an oral presentation of a dispute concerning transportation of household goods by a party to the dispute\(or a party's representative), but such oral presentation may be made only if all parties to the dispute expressly agree to such presentation and the date, time, and location of such presentation.
+Oral presentation of evidence.—The arbitrator may provide for an oral presentation of a dispute concerning transportation of household goods by a party to the dispute (or a party's representative), but such oral presentation may be made only if all parties to the dispute expressly agree to such presentation and the date, time, and location of such presentation.
 
 &emsp;(8)
 

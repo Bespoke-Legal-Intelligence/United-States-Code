@@ -2,11 +2,11 @@
 
 Whoever, being a claim agent, attorney, or other person engaged in the collection of claims for pay, pension, or other allowances for any soldier, sailor, or marine, or for any commissioned officer of the military or naval forces, or for any person who may have been a soldier, sailor, marine, or officer of the regular or volunteer forces of the United States, or for his dependents or beneficiaries, retains, without the consent of the owner or owners thereof, or refuses to deliver or account for the same upon demand duly made by the owner or owners thereof, or by their agent or attorney, the discharge papers of any such soldier, sailor, or marine, or commissioned officer, which may have been placed in his hands for the purpose of collecting said claims, shall be fined under this title or imprisoned not more than six months, or both; and shall be debarred from prosecuting any such claim in any department or agency of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 699; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 699; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
-Based on section 100 of title 31, Money and Finance, section 130 of title 38, Pensions, Bonuses, and Veterans’ Relief, and section 841 of title 43, Public Lands, all U.S.C., 1940 ed. (May 21, 1872, ch. 178, 17 Stat. 137).
+Based on section 100 of title 31, Money and Finance, section 130 of title 38, Pensions, Bonuses, and Veterans’Relief, and section 841 of title 43, Public Lands, all U.S.C., 1940 ed. (May 21, 1872, ch. 178, 17 Stat. 137).
 
 Words “deemed guilty of a misdemeanor” were deleted as unnecessary. (See definition of “misdemeanor” in section 1 of this title.)
 

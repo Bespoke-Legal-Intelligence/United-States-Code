@@ -74,7 +74,7 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 (2) In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) to determine the sanitation needs of each tribe.
 
-(3) The methodology used by the Secretary in determining sanitation deficiencies for purposesof paragraph (1) shall be applied uniformly to all Indian tribes and communities.
+(3) The methodology used by the Secretary in determining sanitation deficiencies for purposes of paragraph (1) shall be applied uniformly to all Indian tribes and communities.
 
 (4) For purposes of this subsection, the sanitation deficiency levels for an Indian tribe or community are as follows:
 

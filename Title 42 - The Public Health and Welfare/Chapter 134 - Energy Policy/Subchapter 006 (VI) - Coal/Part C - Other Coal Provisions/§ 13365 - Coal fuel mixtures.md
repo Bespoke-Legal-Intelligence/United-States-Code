@@ -1,6 +1,6 @@
 ### §13365. Coal fuel mixtures
 
-Within one year following October 24, 1992, the Secretary shall submit a report to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on the status of technologies for combining coal with other materials, such as oil or water fuel mixtures. The report shall include—
+Within one year following October 24, 1992, the Secretary shall submit a report to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate onthe status of technologies for combining coal with other materials, such as oil or water fuel mixtures. The report shall include—
 
 &emsp;(1) a technical and economic feasibility assessment of such technologies;
 
@@ -16,5 +16,5 @@ Within one year following October 24, 1992, the Secretary shall submit a report 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives and Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives and Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

@@ -30,6 +30,16 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (3) In order to carry out subparagraph (A) of paragraph (1), the Secretary may make grants to State and local governments (either directly or through the Federal Emergency Management Agency) to assist those governments in carrying out functions relating to emergency preparedness and response in connection with the disposal of the lethal chemical agents and munitions referred to in subsection (a) of this section. Funds available to the Department of Defense for the purpose of carrying out this section may be used for such grants. Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing, approving, and overseeing permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.
 
+(4)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Director of the Federal Emergency Management Agency, the Director shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
+
+&emsp;(i) the storage of lethal chemical agents and munitions referred to in subsection (a) of this section at military installations in the continental United States; or
+
+&emsp;(ii) the destruction of such agents and munitions at facilities referred to in paragraph (1)(B).
+
+(B) No assistance may be provided under this paragraph after the completion of the destruction of the United States’ stockpile of lethal chemical agents and munitions.
+
+(C) Not later than December 15 of each year, the Director shall transmit a report to Congress on the activities carried out under this paragraph during the fiscal year preceding the fiscal year in which the report is submitted.
+
 #### (d) Plan
 
 (1) The Secretary shall develop a comprehensive plan to carry out this section.
@@ -70,7 +80,9 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 #### (f) Identification of funds
 
-Funds for carrying out this section, including funds for military construction projects necessary to carry out this section, shall be set forth in the budget of the Department of Defense for any fiscal year as a separate account. Such funds shall not be included in the budget accounts for any military department.
+(1) Funds for carrying out this section, including funds for military construction projects necessary to carry out this section, shall be set forth in the budget of the Department of Defense for any fiscal year as a separate account. Such funds shall not be included in the budget accounts for any military department.
+
+(2) Amounts appropriated to the Secretary for the purpose of carrying out subsection (c)(4) of this section shall be promptly made available to the Director of the Federal Emergency Management Agency.
 
 #### (g) Periodic reports
 
@@ -80,7 +92,9 @@ Funds for carrying out this section, including funds for military construction p
 
 &emsp;(A) A site-by-site description of the construction, equipment, operation, and dismantling of facilities (during the fiscal year for which the report is made) used to carry out the destruction of agents and munitions under this section, including any accidents or other unplanned occurrences associated with such construction and operation.
 
-&emsp;(B) An accounting of all funds expended (during such fiscal year) for activities carried out under this section, with a separate accounting for amounts expended for—
+&emsp;(B) A site-by-site description of actions taken to assist State and local governments (either directly or through the Federal Emergency Management Agency) in carrying out functions relating to emergency preparedness and response in accordance with subsection (c)(3) of this section.
+
+&emsp;(C) An accounting of all funds expended (during such fiscal year) for activities carried out under this section, with a separate accounting for amounts expended for—
 
 &emsp;&emsp;(i) the construction of and equipment for facilities used for the destruction of agents and munitions;
 
@@ -90,11 +104,13 @@ Funds for carrying out this section, including funds for military construction p
 
 &emsp;&emsp;(iv) research and development;
 
-&emsp;&emsp;(v) program management; and
+&emsp;&emsp;(v) program management;
 
-&emsp;&emsp;(vi) travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note).
+&emsp;&emsp;(vi) travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note); and
 
-&emsp;(C) An assessment of the safety status and the integrity of the stockpile of lethal chemical agents and munitions subject to this section, including—
+&emsp;&emsp;(vii) grants to State and local governments to assist those governments in carrying out functions relating to emergency preparedness and response in accordance with subsection (c)(3) of this section.
+
+&emsp;(D) An assessment of the safety status and the integrity of the stockpile of lethal chemical agents and munitions subject to this section, including—
 
 &emsp;&emsp;(i) an estimate on how much longer that stockpile can continue to be stored safely;
 
@@ -122,7 +138,7 @@ For purposes of this section:
 
 &emsp;(1) The term “chemical agent and munition” means an agent or munition that, through its chemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
 
-&emsp;(2) The term “lethal chemical agent and munition” means a chemical agent or munition that is designed to cause death, through itschemical properties, to human beings in field concentrations.
+&emsp;(2) The term “lethal chemical agent and munition” means a chemical agent or munition that is designed to cause death, through its chemical properties, to human beings in field concentrations.
 
 &emsp;(3) The term “destruction” means, with respect to chemical munitions or agents—
 
@@ -132,23 +148,29 @@ For purposes of this section:
 
 #### (k) Operational verification
 
-(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>2</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
+(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitionsunder this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>1</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
 
 (2) Upon the successful completion of the prove out of the equipment and facility at Johnston Atoll, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report certifying that the prove out is completed.
 
 (3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885.)
-
-#### References in Text
-
-Paragraph (3), referred to in subsec. (g)(1), was redesignated par. (4) by Pub. L. 104–106, div. A, title I, §153(b)(3), Feb. 10, 1996, 110 Stat. 216.
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942.)
 
 #### Codification
 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (c)(4). Pub. L. 105–261, §141(a), added par. (4).
+
+Subsec. (f). Pub. L. 105–261, §141(b), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (g)(2)(B). Pub. L. 105–261, §141(c)(3), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (g)(2)(B)(vii). Pub. L. 105–261, §141(c)(1), added cl. (vii).
+
+Subsec. (g)(2)(C), (D). Pub. L. 105–261, §141(c)(2), redesignated subpars. (B) and (C) as (C) and (D), respectively.
 
 1997—Subsec. (g)(3), (4). Pub. L. 105–85 struck out “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).” at end of par. (4), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note). The quarterly report for the final quarter of the period covered by a report under paragraph (1) may be included in that report.”
 
@@ -222,6 +244,92 @@ Subsec. (b)(4), (5). Pub. L. 100–456, §118(a)(3), added pars. (4) and (5).
 
 Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The provisions of this section shall take effect on October 1, 1985.”
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Alternative Technologies for Destruction of Assembled Chemical Weapons
+
+Pub. L. 105–261, div. A, title I, §142, Oct. 17, 1998, 112 Stat. 1943, provided that:
+
+“(a)
+
+Program Management.—The program manager for the Assembled Chemical Weapons Assessment shall continue to manage the development and testing (including demonstration and pilot-scale testing) of technologies for the destruction of lethal chemical munitions that are potential or demonstrated alternatives to the baseline incineration program. In performing such management, the program manager shall act independently of the program manager for Chemical Demilitarization and shall report to the Under Secretary of Defense for Acquisition and Technology.
+
+“(b)
+
+Post-Demonstration Activities.—(1) The program manager for the Assembled Chemical Weapons Assessment may carry out those activities necessary to ensure that an alternative technology for the destruction of lethal chemical munitions can be implemented immediately after—
+
+&emsp;“(A) the technology has been demonstrated to be successful; and
+
+&emsp;“(B) the Under Secretary of Defense for Acquisition and Technology has submitted a report on the demonstration to Congress that includes a decision to proceed with the pilot-scale facility phase for an alternative technology.
+
+“(2) To prepare for the immediate implementation of any such technology, the program manager may, during fiscal years 1998 and 1999, take the following actions:
+
+&emsp;“(A) Establish program requirements.
+
+&emsp;“(B) Prepare procurement documentation.
+
+&emsp;“(C) Develop environmental documentation.
+
+&emsp;“(D) Identify and prepare to meet public outreach and public participation requirements.
+
+&emsp;“(E) Prepare to award a contract for the design, construction, and operation of a pilot facility for the technology to the provider team for the technology not later than December 30, 1999.
+
+“(c)
+
+Independent Evaluation.—The Under Secretary of Defense for Acquisition and Technology shall provide for an independent evaluation of the cost and schedule of the Assembled Chemical Weapons Assessment, which shall be performed and submitted to the Under Secretary not later than September 30, 1999. The evaluation shall be performed by a nongovernmental organization qualified to make such an evaluation.
+
+“(d)
+
+Pilot Facilities Contracts.—(1) The Under Secretary of Defense for Acquisition and Technology shall determine whether to proceed with pilot-scale testing of a technology referred to in paragraph (2) in time to award a contract for the design, construction, and operation of a pilot facility for the technology to the provider team for the technology not later than December 30, 1999. If the Under Secretary determines to proceed with such testing, the Under Secretary shall (exercising the acquisition authority of the Secretary of Defense) so award a contract not later than such date.
+
+“(2) Paragraph (1) applies to an alternative technology for the destruction of lethal chemical munitions, other than incineration, that the Under Secretary—
+
+&emsp;“(A) certifies in writing to Congress is—
+
+&emsp;&emsp;“(i) as safe and cost effective for disposing of assembled chemical munitions as is incineration of such munitions; and
+
+&emsp;&emsp;“(ii) is capable of completing the destruction of such munitions on or before the later of the date by which the destruction of the munitions would be completed if incineration were used or the deadline date for completing the destruction of the munitions under the Chemical Weapons Convention; and
+
+&emsp;“(B) determines as satisfying the Federal and State environmental and safety laws that are applicable to the use of the technology and to the design, construction, and operation of a pilot facility for use of the technology.
+
+“(3) The Under Secretary shall consult with the National Research Council in making determinations and certifications for the purpose of paragraph (2).
+
+“(4) In this subsection, the term ‘Chemical Weapons Convention’ means the Convention on the Prohibition of Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, opened for signature on January 13, 1993, together with related annexes and associated documents.
+
+“(e)
+
+Plan for Pilot Program.—If the Secretary of Defense proceeds with a pilot program under section 152(f) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 214; 50 U.S.C. 1521(f) \[set out as a note below\]), the Secretary shall prepare a plan for the pilot program and shall submit to Congress a report on such plan (including information on the cost of, and schedule for, implementing the pilot program).
+
+“(f)
+
+Funding.—(1) Of the amount authorized to be appropriated under section 107 \[112 Stat. 1937\], funds shall be available for the program manager for the Assembled Chemical Weapons Assessment for the following:
+
+&emsp;“(A) Demonstrations of alternative technologies under the Assembled Chemical Weapons Assessment.
+
+&emsp;“(B) Planning and preparation to proceed from demonstration of an alternative technology immediately into the development of a pilot-scale facility for the technology, including planning and preparation for—
+
+&emsp;&emsp;“(i) continued development of the technology leading to deployment of the technology for use;
+
+&emsp;&emsp;“(ii) satisfaction of requirements for environmental permits;
+
+&emsp;&emsp;“(iii) demonstration, testing, and evaluation;
+
+&emsp;&emsp;“(iv) initiation of actions to design a pilot plant;
+
+&emsp;&emsp;“(v) provision of support at the field office or depot level for deployment of the technology for use; and
+
+&emsp;&emsp;“(vi) educational outreach to the public to engender support for the deployment.
+
+&emsp;“(C) The independent evaluation of cost and schedule required under subsection (c).
+
+“(2) Funds authorized to be appropriated under section 107(1) are authorized to be used for awarding contracts in accordance with subsection (d) and for taking any other action authorized in this section.
+
+“(f)\[(g)\]
+
+Assembled Chemical Weapons Assessment Defined.—In this section, the term ‘Assembled Chemical Weapons Assessment’ means the pilot program carried out under section 8065 of the Department of Defense Appropriations Act, 1997 (section 101(b) of Public Law 104–208; 110 Stat. 3009–101; 50 U.S.C. 1521 note).”
+
 #### Pilot Program for Demilitarization of Assembled Chemical Munitions
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8065\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–101, provided that: “Notwithstanding section 142 of H.R. 3230, the National Defense Authorization Act for Fiscal Year 1997, as passed by the Senate on September 10, 1996 \[section 142 of Pub. L. 104–201, which amended section 152 of Pub. L. 104–106, set out below\], of the funds provided in title VI of this Act \[Pub. L. 104–208, div. A, title I, §101(b) \[title VI\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–85\], under the heading ‘Chemical Agents and Munitions Destruction, Defense’, $40,000,000 shall only be available for the conduct of a pilot program to identify and demonstrate not less than two alternatives to the baseline incineration process for the demilitarization of assembled chemical munitions: <i>Provided</i>, That the Under Secretary of Defense for Acquisition and Technology shall, not later than December 1, 1996, designate a program manager who is not, nor has been, in direct or immediate control of the baseline reverse assembly incineration demilitarization program to carry out the pilot program: <i>Provided further</i>, That the Under Secretary of Defense for Acquisition and Technology shall evaluate the effectiveness of each alternative chemical munitions demilitarization technology identified and demonstrated under the pilot program to demilitarize munitions and assembled chemical munitions while meeting all applicable Federal and State environmental and safety requirements: <i>Provided further</i>, That the Under Secretary of Defense for Acquisition and Technology shall transmit, by December 15 of each year, a report to the congressional defense committees on the activities carried out under the pilot program during the preceding fiscal year in which the report is to be made: <i>Provided further</i>, That section 142(f)(3) of H.R. 3230, the National Defense Authorization Act for Fiscal Year 1997, as passed by the Senate on September 10, 1996 \[probably means section 152(f)(3) of Pub. L. 104–106, set out below\], is repealed: <i>Provided further</i>, That no funds may be obligated for the construction of a baseline incineration facility at the Lexington Blue Grass Army Depot or the Pueblo Depot activity until 180 days after the Secretary of Defense has submitted to the congressional defense committees a report detailing the effectiveness of each alternative chemical munitions demilitarization technology identified and demonstrated under the pilot program and its ability to meet the applicable safety and environmental requirements: <i>Provided further</i>, That none of the funds in this or any other Act may be obligated for the preparation of studies, assessments, or planning of the removal and transportation of stockpile assembled unitary chemical weapons or neutralized chemical agent to any of the eight chemical weapons storage sites within the continental United States.”
@@ -252,7 +360,7 @@ Assessment of Alternatives.—(1) The Secretary of Defense shall conduct an asse
 
 “(3) Based on the results of the assessment, the Secretary shall develop appropriate recommendations for revision of the chemical demilitarization program.
 
-“(4) Not later than March 1, 1996, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and on Appropriations of the House of Representatives\] an interim report assessing the current status of the chemical stockpile demilitarization program, including the results of the Army's analysis of the physical and chemical integrity of the stockpile and implications for the chemical demilitarization program, and providing recommendations for revisions to that program that have been included in the budget request of the Department of Defense for fiscal year 1997. The Secretary shall submit to the congressional defense committees with the submission of the budget request of the Department of Defense for fiscal year 1998 a final report on the assessment conducted in accordance with paragraph (1) and recommendations for revision to the program, including an assessment of alternative demilitarization technologies and processes to the baseline incineration process and potential reconfiguration of the stockpile that should be incorporated in the program.
+“(4) Not later than March 1, 1996, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and House of Representatives\] an interim report assessing the current status of the chemical stockpile demilitarization program, including the results of the Army's analysis of the physical and chemical integrity of the stockpile and implications for the chemical demilitarization program, and providing recommendations for revisions to that program that have been included in the budget request of the Department of Defense for fiscal year 1997. The Secretary shall submit to the congressional defense committees with the submission of the budget request of the Department of Defense for fiscal year 1998 a final report on the assessment conducted in accordance with paragraph (1) and recommendations for revision to the program, including an assessment of alternative demilitarization technologies and processes to the baseline incineration process and potential reconfiguration of the stockpile that should be incorporated in the program.
 
 “(d)
 
@@ -260,7 +368,7 @@ Assistance for Chemical Weapons Stockpile Communities Affected by Base Closure.�
 
 “(2) The review shall include the following:
 
-&emsp;“(A) An analysis of the economic impacts on these communities and the unique reuse problems facing local communities associated with ongoing chemical weapons programs.
+&emsp;“(A) An analysis of the economic impacts on these communities and the unique reuse problems facinglocal communities associated with ongoing chemical weapons programs.
 
 &emsp;“(B) Recommendations of the Secretary on methods for expeditious and cost-effective transfer or lease of these facilities to local communities for reuse by those communities.
 
@@ -308,7 +416,7 @@ Membership.—(1) Each commission established for a State pursuant to subsection
 
 “(d)
 
-Conflicts of Interest.—For a period of five years after the termination of any commission, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of amember of that commission has an ownership interest may be awarded—
+Conflicts of Interest.—For a period of five years after the termination of any commission, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of a member of that commission has an ownership interest may be awarded—
 
 &emsp;“(1) a contract related to the disposal of lethal chemical agents or munitions in the stockpile referred to in section 1412(a)(1) of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521(a)(1)); or
 
@@ -392,7 +500,7 @@ Environmental Impact Statement.—The Secretary of Defense shall issue the final
 
 “(c)
 
-Disposal Technologies.—(1) Funds appropriated pursuant to this Act \[see Tables for classification\] or otherwise made available for fiscal year 1988 for the chemical stockpile demilitarization program may not be obligated for procurement or for an Army militaryconstruction project at a military installation or facility inside the continental United States until the Secretary of Defense certifies to Congress in writing that the concept plan under the program includes the following:
+Disposal Technologies.—(1) Funds appropriated pursuant to this Act \[see Tables for classification\] or otherwise made available for fiscal year 1988 for the chemical stockpile demilitarization program may not be obligated for procurement or for an Army military construction project at a military installation or facility inside the continental United States until the Secretary of Defense certifies to Congress in writing that the concept plan under the program includes the following:
 
 &emsp;“(A) Evaluation of alternate technologies for disposal of the existing stockpile and selection of the technology or technologies to be used for such purpose.
 
@@ -420,5 +528,5 @@ Surveillance and Assessment Program.—The Secretary of Defense shall conduct an
 
 &emsp;“(2) assessment of the condition of the stockpile.”
 
-<i><sup>2</sup></i><i> So in original. Probably should be “agents”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “agents”.</i>
 

@@ -16,7 +16,7 @@ Officers Considered But Not Selected; Material Error.—(1) In the case of an of
 
 &emsp;(B) the selection board did not have before it for its consideration material information.
 
-(2) A special selection board convened under paragraph (1) shall be appointed and composedin accordance with section 14102 of this title (including the representation of competitive categories required by that section), and the members of such a board shall take an oath in the same manner as prescribed in section 14103 of this title.
+(2) A special selection board convened under paragraph (1) shall be appointed and composed in accordance with section 14102 of this title (including the representation of competitive categories required by that section), and the members of such a board shall take an oath in the same manner as prescribed in section 14103 of this title.
 
 (3) Such board shall consider the record of the officer or former officer as that record, if corrected, would have appeared to the selection board that considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 

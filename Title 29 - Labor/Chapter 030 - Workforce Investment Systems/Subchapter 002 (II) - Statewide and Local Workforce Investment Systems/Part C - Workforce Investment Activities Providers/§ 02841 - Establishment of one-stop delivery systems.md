@@ -1,0 +1,188 @@
+### §2841. Establishment of one-stop delivery systems
+
+#### (a) In general
+
+Consistent with the State plan, the local board for a local area, with the agreement of the chief elected official for the local area, shall—
+
+&emsp;(1) develop and enter into the memorandum of understanding described in subsection (c) of this section with one-stop partners;
+
+&emsp;(2) designate or certify one-stop operators under subsection (d) of this section; and
+
+&emsp;(3) conduct oversight with respect to the one-stop delivery system in the local area.
+
+#### (b) One-stop partners
+
+#### (1) Required partners
+
+#### (A) In general
+
+&emsp;&emsp;Each entity that carries out a program or activities described in subparagraph (B) shall—
+
+&emsp;&emsp;&emsp;(i) make available to participants, through a one-stop delivery system, the services described in section 2864(d)(2) of this title that are applicable to such program or activities; and
+
+&emsp;&emsp;&emsp;(ii) participate in the operation of such system consistent with the terms of the memorandum described in subsection (c) of this section, and with the requirements of the Federal law in which the program or activities are authorized.
+
+#### (B) Programs and activities
+
+&emsp;&emsp;The programs and activities referred to in subparagraph (A) consist of—
+
+&emsp;&emsp;&emsp;(i) programs authorized under this chapter;
+
+&emsp;&emsp;&emsp;(ii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.);
+
+&emsp;&emsp;&emsp;(iii) adult education and literacy activities authorized under title II \[20 U.S.C. 9201 et seq.\];
+
+&emsp;&emsp;&emsp;(iv) programs authorized under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) (other than part C of title I of such Act \[29 U.S.C. 741\] and subject to subsection (f) of this section);
+
+&emsp;&emsp;&emsp;(v) programs authorized under section 403(a)(5) of the Social Security Act (42 U.S.C. 603(a)(5)) (as added by section 5001 of the Balanced Budget Act of 1997);
+
+&emsp;&emsp;&emsp;(vi) activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.);
+
+&emsp;&emsp;&emsp;(vii) postsecondary vocational education activities authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.);
+
+&emsp;&emsp;&emsp;(viii) activities authorized under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.);
+
+&emsp;&emsp;&emsp;(ix) activities authorized under chapter 41 of title 38;
+
+&emsp;&emsp;&emsp;(x) employment and training activities carried out under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.);
+
+&emsp;&emsp;&emsp;(xi) employment and training activities carried out by the Department of Housing and Urban Development; and
+
+&emsp;&emsp;&emsp;(xii) programs authorized under State unemployment compensation laws (in accordance with applicable Federal law).
+
+#### (2) Additional partners
+
+#### (A) In general
+
+&emsp;&emsp;In addition to the entities described in paragraph (1), other entities that carry out a human resource program described in subparagraph (B) may—
+
+&emsp;&emsp;&emsp;(i) make available to participants, through the one-stop delivery system, the services described in section 2864(d)(2) of this title that are applicable to such program; and
+
+&emsp;&emsp;&emsp;(ii) participate in the operation of such system consistent with the terms of the memorandum described in subsection (c) of this section, and with the requirements of the Federal law in which the program is authorized;
+
+> &emsp;&emsp;if the local board and chief elected official involved approve such participation.
+
+#### (B) Programs
+
+&emsp;&emsp;The programs referred to in subparagraph (A) may include—
+
+&emsp;&emsp;&emsp;(i) programs authorized under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+
+&emsp;&emsp;&emsp;(ii) programs authorized under section 2015(d)(4) of title 7;
+
+&emsp;&emsp;&emsp;(iii) work programs authorized under section 2015(<i>o</i>) of title 7;
+
+&emsp;&emsp;&emsp;(iv) programs authorized under the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.); and
+
+&emsp;&emsp;&emsp;(v) other appropriate Federal, State, or local programs, including programs in the private sector.
+
+#### (c) Memorandum of understanding
+
+#### (1) Development
+
+&emsp;The local board, with the agreement of the chief elected official, shall develop and enter into a memorandum of understanding (between the local board and the one-stop partners), consistent with paragraph (2), concerning the operation of the one-stop delivery system in the local area.
+
+#### (2) Contents
+
+&emsp;Each memorandum of understanding shall contain—
+
+&emsp;&emsp;(A) provisions describing—
+
+&emsp;&emsp;&emsp;(i) the services to be provided through the one-stop delivery system;
+
+&emsp;&emsp;&emsp;(ii) how the costs of such services and the operating costs of the system will be funded;
+
+&emsp;&emsp;&emsp;(iii) methods for referral of individuals between the one-stop operator and the one-stop partners, for the appropriate services and activities; and
+
+&emsp;&emsp;&emsp;(iv) the duration of the memorandum and the procedures for amending the memorandum during the term of the memorandum; and
+
+&emsp;&emsp;(B) such other provisions, consistent with the requirements of this chapter, as the parties to the agreement determine to be appropriate.
+
+#### (d) One-stop operators
+
+#### (1) Designation and certification
+
+&emsp;Consistent with paragraphs (2) and (3), the local board, with the agreement of the chief elected official, is authorized to designate or certify one-stop operators and to terminate for cause the eligibility of such operators.
+
+#### (2) Eligibility
+
+&emsp;To be eligible to receive funds made available under this subchapter to operate a one-stop center referred to in section 2864(c) of this title, an entity (which may be a consortium of entities)—
+
+&emsp;&emsp;(A) shall be designated or certified as a one-stop operator—
+
+&emsp;&emsp;&emsp;(i) through a competitive process; or
+
+&emsp;&emsp;&emsp;(ii) in accordance with an agreement reached between the local board and a consortium of entities that, at a minimum, includes 3 or more of the one-stop partners described in subsection (b)(1) of this section; and
+
+&emsp;&emsp;(B) may be a public or private entity, or consortium of entities, of demonstrated effectiveness, located in the local area, which may include—
+
+&emsp;&emsp;&emsp;(i) a postsecondary educational institution;
+
+&emsp;&emsp;&emsp;(ii) an employment service agency established under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), on behalf of the local office of the agency;
+
+&emsp;&emsp;&emsp;(iii) a private, nonprofit organization (including a community-based organization);
+
+&emsp;&emsp;&emsp;(iv) a private for-profit entity;
+
+&emsp;&emsp;&emsp;(v) a government agency; and
+
+&emsp;&emsp;&emsp;(vi) another interested organization or entity, which may include a local chamber of commerce or other business organization.
+
+#### (3) Exception
+
+&emsp;Elementary schools and secondary schools shall not be eligible for designation or certification as one-stop operators, except that nontraditional public secondary schools and area vocational education schools shall be eligible for such designation or certification.
+
+#### (e) Established one-stop delivery system
+
+If a one-stop delivery system has been established in a local area prior to August 7, 1998, the local board, the chief elected official, and the Governor involved may agree to certify an entity carrying out activities through the system as a one-stop operator for purposes of subsection (d) of this section, consistent with the requirements of subsection (b) of this section, of the memorandum of understanding, and of section 2864(c) of this title.
+
+#### (f) Application to certain vocational rehabilitation programs
+
+#### (1) Limitation
+
+&emsp;Nothing in this section shall be construed to apply to part C of title I of the Rehabilitation Act of 1973 (29 U.S.C. 741).
+
+#### (2) Client assistance
+
+&emsp;Nothing in this Act shall be construed to require that any entity carrying out a client assistance program authorized under section 112 of the Rehabilitation Act of 1973 (29 U.S.C. 732)—
+
+&emsp;&emsp;(A) violate the requirement of section 112(c)(1)(A) of that Act that the entity be independent of any agency which provides treatment, services, or rehabilitation to individuals under that Act \[29 U.S.C. 701 et seq.\]; or
+
+&emsp;&emsp;(B) carry out any activity not authorized under section 112 of that Act (including appropriate Federal regulations).
+
+(Pub. L. 105–220, title I, §121, Aug. 7, 1998, 112 Stat. 963; Pub. L. 105–332, §5(a), Oct. 31, 1998, 112 Stat. 3127.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (b)(1)(B)(i) and (c)(2)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
+The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii) and (d)(2)(B)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+
+Title II, referred to in subsec. (b)(1)(B)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+
+The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+The Older Americans Act of 1965, referred to in subsec. (b)(1)(B)(vi), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the “Older Americans Community Services Employment Act”, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+
+The Trade Act of 1974, referred to in subsec. (b)(1)(B)(viii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 2 of title II of the Act is classified principally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+
+The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(x), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+
+The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(iv), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+
+This Act, referred to in subsec. (f)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, §5(a)(1), inserted “(other than part C of title I of such Act and subject to subsection (f) of this section)” before semicolon.
+
+Subsec. (f). Pub. L. 105–332, §5(a)(2), added subsec. (f).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2801, 2821, 2832, 2833, 2864, 2944 of this title; title 20 sections 2341, 2342.
+

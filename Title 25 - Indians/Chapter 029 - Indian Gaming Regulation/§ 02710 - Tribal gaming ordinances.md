@@ -16,7 +16,7 @@
 
 > A separate license issued by the Indian tribe shall be required for each place, facility, or location on Indian lands at which class II gaming is conducted.
 
-(2) The Chairman shall approve any tribal ordinance or resolution concerning the conduct, orregulation of class II gaming on the Indian lands within the tribe's jurisdiction if such ordinance or resolution provides that—
+(2) The Chairman shall approve any tribal ordinance or resolution concerning the conduct, or regulation of class II gaming on the Indian lands within the tribe's jurisdiction if such ordinance or resolution provides that—
 
 &emsp;(A) except as provided in paragraph (4), the Indian tribe will have the sole proprietary interest and responsibility for the conduct of any gaming activity;
 
@@ -78,7 +78,7 @@
 
 #### (c) Issuance of gaming license; certificate of self-regulation
 
-(1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe andshall have thirty days to notify the Indian tribe of any objections to issuance of such license.
+(1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe and shall have thirty days to notify the Indian tribe of any objections to issuance of such license.
 
 (2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
 
@@ -154,11 +154,11 @@
 
 (iii) Notwithstanding any other provision of this subsection—
 
-&emsp;(I) any person or entity operating a class III gaming activity pursuant to this paragraph onthe date on which an ordinance or resolution described in clause (i) that revokes authorization for such class III gaming activity is published in the Federal Register may, during the 1-year period beginning on the date on which such revocation ordinance or resolution is published under clause (ii), continue to operate such activity in conformance with the Tribal-State compact entered into under paragraph (3) that is in effect, and
+&emsp;(I) any person or entity operating a class III gaming activity pursuant to this paragraph on the date on which an ordinance or resolution described in clause (i) that revokes authorization for such class III gaming activity is published in the Federal Register may, during the 1-year period beginning on the date on which such revocation ordinance or resolution is published under clause (ii), continue to operate such activity in conformance with the Tribal-State compact entered into under paragraph (3) that is in effect, and
 
 &emsp;(II) any civil action that arises before, and any crime that is committed before, the close of such 1-year period shall not be affected by such revocation ordinance or resolution.
 
-(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which such lands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
+(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which suchlands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
 
 (B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect only when notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
 
@@ -216,7 +216,7 @@
 
 (v) The mediator appointed by the court under clause (iv) shall submit to the State and the Indian tribe the compact selected by the mediator under clause (iv).
 
-(vi) If a State consents to a proposed compact during the 60-day period beginning on the date on which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
+(vi) If a State consents to a proposed compact during the 60-day period beginning on the dateon which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
 
 (vii) If the State does not consent during the 60-day period described in clause (vi) to a proposed compact submitted by a mediator under clause (v), the mediator shall notify the Secretary and the Secretary shall prescribe, in consultation with the Indian tribe, procedures—
 

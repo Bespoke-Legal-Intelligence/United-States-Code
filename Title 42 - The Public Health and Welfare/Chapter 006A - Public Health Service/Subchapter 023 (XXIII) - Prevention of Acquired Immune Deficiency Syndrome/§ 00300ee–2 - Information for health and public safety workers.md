@@ -24,7 +24,7 @@ The Secretary shall transmit the guidelines issued under subsection (a) of this 
 
 &emsp;(B) information that can assist emergency response employees in distinguishing between conditions in which such employees are at risk with respect to such etiologic agent and conditions in which such employees are not at risk with respect <sup>1</sup> such etiologic agent.
 
-(4) The Secretary shall establish a task force to assist the Secretary in developing the model curriculum required in paragraph (1). The Secretary shall appoint to the task force representatives of the Centers for Disease Control and Prevention, representatives of State governments, and representatives of emergency response employees.
+(4) The Secretary shall establish a task force to assist the Secretary in developing the modelcurriculum required in paragraph (1). The Secretary shall appoint to the task force representatives of the Centers for Disease Control and Prevention, representatives of State governments, and representatives of emergency response employees.
 
 (5) The Secretary shall—
 

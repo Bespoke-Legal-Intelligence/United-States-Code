@@ -36,6 +36,10 @@ A prior section 174k, act Oct. 9, 1940, ch. 780, title II, §208, 54 Stat. 1056,
 
 1996—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Special Deposit Account From Vending Operations
 
 Pub. L. 104–53, title I, §107A, Nov. 19, 1995, 109 Stat. 522, as amended by Pub. L. 104–197, title I, §101(a), Sept. 16, 1996, 110 Stat. 2400, provided that:
@@ -62,7 +66,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 &emsp;“(3) becomes employed to provide such food services under contract, including a successor contract;
 
-> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
+> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described inparagraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
 
 “(b) The provisions of law referred to in subsection (a) are—
 

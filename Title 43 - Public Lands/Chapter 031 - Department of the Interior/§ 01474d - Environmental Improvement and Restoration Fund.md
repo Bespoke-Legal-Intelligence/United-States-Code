@@ -2,7 +2,7 @@
 
 #### (a) Fund
 
-One half of the amounts awarded by the Supreme Court to the United States in the case of United States of America v. State of Alaska (117 S.Ct. 1888) shall be deposited in a fund in the Treasury of the United States to be known asthe “Environmental Improvement and Restoration Fund” (referred to in this section as the “Fund”).
+One half of the amounts awarded by the Supreme Court to the United States in the case of United States of America v. State of Alaska (117 S.Ct. 1888) shall be deposited in a fund in the Treasury of the United States to be known as the “Environmental Improvement and Restoration Fund” (referred to in this section as the “Fund”).
 
 #### (b) Investments
 
@@ -72,15 +72,19 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 &emsp;(M) one member nominated by the Governor of Oregon and appointed by the Secretary of Commerce.
 
-> The members of the Board shall be individuals knowledgeable by education, training, or experience regarding fisheries or marine ecosystems in the north Pacific Ocean, Bering Sea, or Arctic Ocean. Three nominations shall be submitted for each member to be appointed under subparagraphs (K), (L), and (M). Board members appointed under subparagraphs (K), (L), and (M) shall serve for three-year terms, and may be reappointed.
+> The members of the Board shall be individuals knowledgeable by education, training, or experience regarding fisheries or marine ecosystems inthe north Pacific Ocean, Bering Sea, or Arctic Ocean. Three nominations shall be submitted for each member to be appointed under subparagraphs (K), (L), and (M). Board members appointed under subparagraphs (K), (L), and (M) shall serve for three-year terms, and may be reappointed.
 
 (4)(A) The Secretary of Commerce shall review and administer grants recommended by the Board. If the Secretary does not approve a grant recommended by the Board, the Secretary shall explain in writing the reasons for not approving such grant, and the amount recommended to be used for such grant shall be available only for other grants recommended by the Board.
 
-(B) Grant recommendations and other decisions of the Board shall be by majority vote, with each member having one vote. The Board shall establish written criteria for the submission of grant requests through a competitive process and for deciding upon the award ofgrants. Grants shall be recommended by the Board on the basis of merit in accordance with the priorities established by the Board. The Secretary shall provide the Board such administrative and technical support as is necessary for the effective functioning of the Board. The Board shall be considered an advisory panel established under section 1852(g) of title 16 for the purposes of section 1852(i)(1) of title 16, and the other procedural matters applicable to advisory panels under section 1852(i) of title 16 shall apply to the Board to the extent practicable. Members of the Board may be reimbursed for actual expenses incurred in performance of their duties for the Board. Not more than 5 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.
+(B) Grant recommendations and other decisions of the Board shall be by majority vote, with each member having one vote. The Board shall establish written criteria for the submission of grant requests through a competitive process and for deciding upon the award of grants. Grants shall be recommended by the Board on the basis of merit in accordance with the priorities established by the Board. The Secretary shall provide the Board such administrative and technical support as is necessary for the effective functioning of the Board. The Board shall be considered an advisory panel established under section 1852(g) of title 16 for the purposes of section 1852(i)(1) of title 16, and the other procedural matters applicable to advisory panels under section 1852(i) of title 16 shall apply to the Board to the extent practicable. Members of the Board may be reimbursed for actual expenses incurred in performance of their duties for the Board. Not more than 5 percent of the funds provided to the Secretary of Commerce under paragraph (1) may be used to provide support for the Board and administer grants under this subsection.
 
 #### (f) Sunset
 
-If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1998, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.
+If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.
 
-(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607.)
+(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–277, div. A, §101(e) \[title III, §331\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293.)
+
+#### Amendments
+
+1998—Subsec. (f). Pub. L. 105–277 substituted “1999” for “1998”.
 

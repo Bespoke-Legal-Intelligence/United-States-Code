@@ -30,7 +30,7 @@ Compliance with a permit issued in accordance with this subchapter shall be deem
 
 > Nothing in the preceding sentence shall alter or affect the provisions of section 7603 of this title, including the authority of the Administrator under that section.
 
-(July 14, 1955, ch. 360, title V, §504, as added Nov. 15, 1990, Pub. L. 101–549, title V, §501, 104 Stat. 2642.)
+(July 14, 1955, ch. 360, title V, §504, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2642.)
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 Whoever, being a judge, clerk, or deputy clerk of any court of the United States or a Territory or Possession thereof, or a United States district attorney, assistant attorney, marshal, deputy marshal, commissioner, or other person holding any office or employment, or position of trust or profit under the United States, directly or indirectly purchases at less than the full face value thereof, any claim against the United States for the fee, mileage, or expenses of any witness, juror, deputy marshal, or any other officer of such court, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 699; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 699; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) Nature of protection
 
-Any individual filing a grievance under this subchapter (hereinafter in this subchapter referred to as the “grievant”), and any witness,labor organization, or other person involved in a grievance proceeding, shall be free from any restraint, interference, coercion, harassment, discrimination, or reprisal in those proceedings or by virtue of them.
+Any individual filing a grievance under this subchapter (hereinafter in this subchapter referred to as the “grievant”), and any witness, labor organization, or other person involved in a grievance proceeding, shall be free from any restraint, interference, coercion, harassment, discrimination, or reprisal in those proceedings or by virtue of them.
 
 #### (b) Right to representation
 
@@ -34,7 +34,7 @@ Any witness who is a member of the Service or employee of the Department shall b
 
 #### (e) Expedition of security clearance procedures
 
-The Department will use its best endeavors to expedite security clearance procedures whenever necessary to assure a fair and prompt resolution of a grievance.
+The Department will use its best endeavors to expedite security clearance procedures whenevernecessary to assure a fair and prompt resolution of a grievance.
 
 (Pub. L. 96–465, title I, §1103, Oct. 17, 1980, 94 Stat. 2143.)
 

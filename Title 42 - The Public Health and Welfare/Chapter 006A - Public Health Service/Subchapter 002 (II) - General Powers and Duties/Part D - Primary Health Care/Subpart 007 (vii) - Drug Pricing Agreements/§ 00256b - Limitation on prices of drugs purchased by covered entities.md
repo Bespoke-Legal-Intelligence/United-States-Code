@@ -128,7 +128,7 @@
 
 #### (b) Other definitions
 
-In this section, the terms “average manufacturer price”, “covered outpatient drug”, and “manufacturer” have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
+In this section, the terms “average manufacturer price”, “covered outpatient drug”, and“manufacturer” have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
 
 #### (c) References to Social Security Act
 
@@ -138,7 +138,7 @@ Any reference in this section to a provision of the Social Security Act \[42 U.S
 
 A manufacturer is deemed to meet the requirements of subsection (a) of this section if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after November 4, 1992), as applied by the Secretary, and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section (or the application of this section) after November 4, 1992.
 
-(July 1, 1944, ch. 373, title III, §340B, as added Nov. 4, 1992, Pub. L. 102–585, title VI, §602(a), 106 Stat. 4967; amended June 10, 1993, Pub. L. 103–43, title XX, §2008(i)(1)(A), 107 Stat. 212.)
+(July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212.)
 
 #### References in Text
 

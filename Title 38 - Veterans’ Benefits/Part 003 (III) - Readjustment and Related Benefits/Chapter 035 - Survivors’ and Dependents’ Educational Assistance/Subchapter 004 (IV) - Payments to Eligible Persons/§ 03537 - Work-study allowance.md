@@ -4,7 +4,7 @@
 
 (b) The Secretary's utilization of, and payment of a work-study allowance for, the services of an eligible person pursuant to subsection (a) of this section shall be subject to the same requirements, terms, and conditions as are set out in section 3485 of this title with regard to individuals pursuing at least three-quarter-time programs of education referred to in subsection (b) of such section.
 
-(Added Pub. L. 101–237, title IV, §406(a)(1), Dec. 18, 1989, 103 Stat. 2082, §1737; renumbered §3537and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 101–237, title IV, §406(a)(1), Dec. 18, 1989, 103 Stat. 2082, §1737; renumbered §3537 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

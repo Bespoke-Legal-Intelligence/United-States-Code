@@ -26,7 +26,7 @@ The Secretary may, directly or through grants or contracts, provide technical as
 
 &emsp;Not to exceed 1 percent of the amount appropriated for a fiscal year under section 300ff–55 of this title may be used to carry out this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2654, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 608; amended May 20, 1996, Pub. L. 104–146, §3(d)(3), 110 Stat. 1357.)
+(July 1, 1944, ch. 373, title XXVI, §2654, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 608; amended Pub. L. 104–146, §3(d)(3), May 20, 1996, 110 Stat. 1357.)
 
 #### Amendments
 

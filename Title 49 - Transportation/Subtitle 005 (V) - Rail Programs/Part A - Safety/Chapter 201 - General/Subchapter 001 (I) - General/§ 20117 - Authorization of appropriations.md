@@ -20,11 +20,11 @@ General.—(1) Not more than the following amounts may be appropriated to the Se
 
 (b)
 
-Grade Crossing Safety.—Not more than $1,000,000 may be appropriated to the Secretary for improvements in grade crossing safety, except demonstration projects under section 20134(c) of this title. Amounts appropriated under this subsection remain available until expended.
+Grade Crossing Safety.—Not more than $1,000,000 may be appropriated to the Secretaryfor improvements in grade crossing safety, except demonstration projects under section 20134(c) of this title. Amounts appropriated under this subsection remain available until expended.
 
 (c)
 
-Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automatedtrack inspection, and grants under section 20105(e) of this title remain available until expended.
+Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automated track inspection, and grants under section 20105(e) of this title remain available until expended.
 
 (d)
 

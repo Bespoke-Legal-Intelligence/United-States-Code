@@ -2,7 +2,7 @@
 
 Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, or to sell, dispose of, loan, exchange, alter, give away, distribute, supply, or furnish or procure for unlawful use any counterfeit or spurious coin, obligation, security, or other article, or anything represented to be or intimated or held out to be such counterfeit or spurious article, for the purpose of executing such scheme or artifice or attempting so to do, places in any post office or authorized depository for mail matter, any matter or thing whatever to be sent or delivered by the Postal Service, or deposits or causes to be deposited any matter or thing whatever to be sent or delivered by any private or commercial interstate carrier, or takes or receives therefrom, any such matter or thing, or knowingly causes to be delivered by mail or such carrier according to the direction thereon, or at the place at which it is directed to be delivered by the person to whom it is addressed, any such matter or thing, shall be fined under this title or imprisoned not more than five years, or both. If the violation affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 763; May 24, 1949, ch. 139, §34, 63 Stat. 94; Aug. 12, 1970, Pub. L. 91–375, §(6)(j)(11), 84 Stat. 778; Aug. 9, 1989, Pub. L. 101–73, title IX, §961(i), 103 Stat. 500; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2504(h), 104 Stat. 4861; Sept. 13, 1994, Pub. L. 103–322, title XXV, §250006, title XXXIII, §330016(1)(H), 108 Stat. 2087, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 763; May 24, 1949, ch. 139, §34, 63 Stat. 94; Pub. L. 91–375, §(6)(j)(11), Aug. 12, 1970, 84 Stat. 778; Pub. L. 101–73, title IX, §961(i), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, §2504(h), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXV, §250006, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2087, 2147.)
 
 #### Historical and Revision Notes
 
@@ -54,5 +54,5 @@ Use of mails for purchase or sale of securities before a registration statement 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 225, 981, 982, 1342, 1510, 1961, 2326, 2516, 3059A, 3293, 3322 of this title;title 7 section 12a; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b; title 15 sections 78<i>o</i>, 80b–3; title 39 sections 3001, 3003.
+This section is referred to in sections 24, 225, 981, 982, 1342, 1510, 1961, 2326, 2516, 3059A, 3293, 3322 of this title; title 7 section 12a; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b; title 15 sections 78<i>o</i>, 80b–3; title 39 sections 3001, 3003.
 

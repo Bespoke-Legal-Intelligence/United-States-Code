@@ -14,7 +14,7 @@ For purposes of sections 620 to 620j of this title:
 
 &emsp;(3)
 
-Minor violation.—The term “minor violation” means a violation, other than an intentional violation, involving a single contract, purchase order, processing facility, or log yard involving a quantity of logs that is less than 25 logs and has a total value (at the time of the violation) of less than $10,000.
+Minor violation.—The term “minor violation” means a violation, other than an intentional violation, involving a single contract, purchase order, processing facility, or log yard involving a quantity of logs that isless than 25 logs and has a total value (at the time of the violation) of less than $10,000.
 
 &emsp;(4)
 
@@ -68,7 +68,7 @@ Northwestern private timber open market area.—The term “northwestern private
 
 &emsp;&emsp;(ix) Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs processed at domestic pulp mills, domestic chip plants, or other domestic operations for the primary purpose of conversion of the logs into chips, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities.
 
-&emsp;(10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in “substitution” for exported unprocessed timberoriginating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling for export, unprocessed timber originating from private lands within the same geographic and economic area.
+&emsp;(10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in “substitution” for exported unprocessed timber originating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling for export, unprocessed timber originating from private lands within the same geographic and economic area.
 
 &emsp;(11)
 

@@ -22,7 +22,7 @@ For purposes of this chapter—
 
 #### References in Text
 
-This Act, referred to in par. (1), is Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, known as the Anti-Drug Abuse Act of 1988. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 21, Food and Drugs, and Tables.
+This Act, referred to in par. (1), is Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, known as the Anti-Drug Abuse Act of 1988. For complete classification of this Act to the Code, see Short Title note set out under former section 1501 of Title 21, Food and Drugs, and Tables.
 
 #### Section Referred to in Other Sections
 

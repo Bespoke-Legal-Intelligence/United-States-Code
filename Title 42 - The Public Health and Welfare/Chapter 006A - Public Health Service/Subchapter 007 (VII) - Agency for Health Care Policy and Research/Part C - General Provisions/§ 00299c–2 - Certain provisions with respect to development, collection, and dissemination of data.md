@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;With respect to data developed or collected by any entity for the purpose described in section 299(b) of this title, the Administrator shall, in order to assure the utility, accuracy, and sufficiency of such data for all interested entities, establish guidelines for uniform methods of developing and collecting such data. Such guidelines shall include specifications for the development and collection of data on the outcomes of health care services and procedures.
+&emsp;With respect to data developed or collected by any entity for the purpose described in section 299(b) of this title, the Administrator shall, in order to assure the utility, accuracy,and sufficiency of such data for all interested entities, establish guidelines for uniform methods of developing and collecting such data. Such guidelines shall include specifications for the development and collection of data on the outcomes of health care services and procedures.
 
 #### (2) Relationship with medicare program
 
@@ -22,7 +22,7 @@ The Administrator shall—
 
 Upon the request of a public or nonprofit private entity, the Administrator may tabulate and analyze statistics under arrangements under which such entity will pay the cost of the service provided. Amounts appropriated to the Administrator from payments made under such arrangements shall be available to the Administrator for obligation until expended.
 
-(July 1, 1944, ch. 373, title IX, §923, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(c), 103 Stat. 2202; amended Oct. 12, 1992, Pub. L. 102–410, §5(e), 106 Stat. 2098.)
+(July 1, 1944, ch. 373, title IX, §923, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2202; amended Pub. L. 102–410, §5(e), Oct. 12, 1992, 106 Stat. 2098.)
 
 #### References in Text
 

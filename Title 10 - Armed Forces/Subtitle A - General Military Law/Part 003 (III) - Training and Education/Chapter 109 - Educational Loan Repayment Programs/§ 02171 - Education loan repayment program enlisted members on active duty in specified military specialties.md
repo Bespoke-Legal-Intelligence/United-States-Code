@@ -22,7 +22,7 @@
 
 (f) The Secretary of Defense shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and section 16301 of this title during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and section 16301(a) of this title.
 
-(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div. A, title XVI, §1663(e), Oct. 5, 1994, 108 Stat. 3009; Pub. L. 104–106, div. A, title X, §1079(a), Feb. 10, 1996, 110 Stat. 451.)
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div.A, title XVI, §1663(e), Oct. 5, 1994, 108 Stat. 3009; Pub. L. 104–106, div. A, title X, §1079(a), Feb. 10, 1996, 110 Stat. 451.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 103–337, §1663(e)(3), amended subsec. (b) generally. Pri
 
 &emsp;“(2) 331/3 percent or $1,500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(B).”
 
-Subsec. (e). Pub. L. 103–337, §1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2)to service described in the other clause of such subsection”.
+Subsec. (e). Pub. L. 103–337, §1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection”.
 
 Subsec. (f). Pub. L. 103–337, §1663(e)(5), inserted “and section 16301 of this title” after “this section” and “and section 16301(a) of this title” after “subsection (a)”.
 

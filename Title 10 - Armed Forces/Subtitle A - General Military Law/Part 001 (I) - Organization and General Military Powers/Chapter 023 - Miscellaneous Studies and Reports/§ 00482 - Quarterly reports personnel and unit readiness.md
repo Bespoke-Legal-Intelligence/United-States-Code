@@ -116,6 +116,10 @@ Classification of Reports.—A report under this section shall be submitted in u
 
 (Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992, provided that, effective June 1, 2001, this section is repealed.</i>
+
 #### Amendments
 
 1997—Pub. L. 105–85 substituted “Quarterly reports: personnel and unit readiness” for “Quarterly readiness reports” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to requirement for submission of quarterly readiness reports, matters to be included in reports, and form of reports.
@@ -126,9 +130,13 @@ Classification of Reports.—A report under this section shall be submitted in u
 
 Section 361(b) of Pub. L. 104–106 provided that: “Section 452 \[now 482\] of title 10, United States Code, as added by subsection (a), shall take effect with the calendar-year quarter during which this Act is enacted \[enacted Feb. 10, 1996\].”
 
+#### Repeal of Quarterly Readiness Report Requirement
+
+Pub. L. 105–261, div. A, title III, §373(d)(1), Oct. 17, 1998, 112 Stat. 1992, provided that: “Effective January 15, 2000, or the date on which the first report of the Secretary of Defense is submitted under section 117(e) of title 10, United States Code, as added by subsection (a), whichever is later, the Secretary of Defense shall cease to submit reports under section 482 of title 10, United States Code.”
+
 #### Implementation Plan To Examine Readiness Indicators
 
-Section 322(b) of Pub. L. 105–85 provided that: “Not later than January 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and Committees on National Security and Appropriations of the House of Representatives\] a plan—
+Section 322(b) of Pub. L. 105–85 provided that: “Not later than January 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan—
 
 &emsp;“(1) specifying the manner in which the Secretary will implement the additional reporting requirement of subsection (d) of section 482 of title 10, United States Code, as added by this section; and
 

@@ -10,7 +10,7 @@ The Congress further declares and establishes as a national goal the fulfillment
 
 #### (c) Inflation
 
-The Congress further declares that inflation is a major national problem requiring improved government policies relating to food, energy, improved and coordinated fiscal and monetary management, the reform of outmoded rules and regulations of the Federal Government, the correction of structural defects in the economy that prevent or seriously impede competition in private markets, and other measures to reduce the rate of inflation.
+The Congress further declares that inflation is a major national problem requiring improved government policies relating to food, energy,improved and coordinated fiscal and monetary management, the reform of outmoded rules and regulations of the Federal Government, the correction of structural defects in the economy that prevent or seriously impede competition in private markets, and other measures to reduce the rate of inflation.
 
 #### (d) Coordination of Federal policies and programs
 
@@ -48,7 +48,7 @@ The Congress further declares that it is the continuing policy and responsibilit
 
 The Congress further declares that it is the purpose of the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\] to rely principally on the private sector for expansion of economic activity and creation of new jobs for a growing labor force. Toward this end, it is the purpose of this chapter to encourage the adoption of fiscal policies that would establish the share of the gross national product accounted for by Federal outlays at the lowest level consistent with national needs and priorities.
 
-(Feb. 20, 1946, ch. 33, §2, 60 Stat. 23; Oct. 27, 1978, Pub. L. 95–523, title I, §102, 92 Stat. 1890.)
+(Feb. 20, 1946, ch. 33, §2, 60 Stat. 23; Pub. L. 95–523, title I, §102, Oct. 27, 1978, 92 Stat. 1890.)
 
 #### References in Text
 

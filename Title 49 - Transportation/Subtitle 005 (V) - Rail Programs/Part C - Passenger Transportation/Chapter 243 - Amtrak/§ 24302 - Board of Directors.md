@@ -118,7 +118,7 @@ Oct. 30, 1970, Pub. L. 91–518, §303(b), (c), 84 Stat. 1331.
 
 45:543(b).
 
-In subsection (a)(1), before clause (A), the words “is composed of the following 9 directors, each of whom must be a citizen” are substituted for “consisting of nine individuals who are citizens” for consistency in the revised title. The words “as follows” are omitted as surplus. In clause (A), the words “ex officio” are omitted as surplus. In clause (C)(ii), the words “chief executive officer of a State” are substituted for “Governor” for consistency in the revised title and with other titles of the United States Code. In clause (D), the text of 45:543(a)(1)(D)(i) and the words “after January 1, 1983” are omitted as executed.
+In subsection (a)(1), before clause (A), the words “is composed of the following 9 directors, each of whom must be a citizen” are substituted for “consisting of nine individuals who are citizens” for consistency inthe revised title. The words “as follows” are omitted as surplus. In clause (A), the words “ex officio” are omitted as surplus. In clause (C)(ii), the words “chief executive officer of a State” are substituted for “Governor” for consistency in the revised title and with other titles of the United States Code. In clause (D), the text of 45:543(a)(1)(D)(i) and the words “after January 1, 1983” are omitted as executed.
 
 In subsection (a)(2), the words “by the President” and “registered as” are omitted as surplus.
 

@@ -8,22 +8,26 @@
 | [4306\.](%C2%A7%2004306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md) | Service schools: leaves of absence for instructors. |
 | \[4307, 4308. Repealed.\] |  |
 | [4309\.](%C2%A7%2004309%20-%20Rifle%20ranges%20availability%20for%20use%20by%20members%20and%20civilians.md) | Rifle ranges: availability for use by members and civilians. |
-| \[4310, 4311. Repealed.\] |  |
-| [4312\.](%C2%A7%2004312%20-%20National%20rifle%20and%20pistol%20matches%20small-arms%20firing%20school.md) | National rifle and pistol matches: small-arms firing school. |
-| [4313\.](%C2%A7%2004313%20-%20National%20Matches%20and%20small-arms%20school%20expenses.md) | National Matches and small-arms school: expenses. |
+| \[4310 to 4313. Repealed.\] |  |
 | [4314\.](%C2%A7%2004314%20-%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20degree.md) | United States Army Command and General Staff College degree. |
 | [4315\.](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md) | The Judge Advocate General's School: master of laws in military law. |
 | [4316\.](%C2%A7%2004316%20-%20Reporting%20requirements.md) | Reporting requirements. |
 | [4317\.](%C2%A7%2004317%20-%20Military%20history%20fellowships.md) | Military history fellowships. |
 | [4318\.](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md) | Drill sergeant trainees: human relations training. |
+| [4319\.](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md) | Recruit basic training: separate housing for male and female recruits. |
+| [4320\.](%C2%A7%2004320%20-%20Recruit%20basic%20training%20privacy.md) | Recruit basic training: privacy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1998—Pub. L. 105–261, div. A, title V, §§521(a)(2), 522(a)(2), Oct. 17, 1998, 112 Stat. 2010, 2012, added items 4319 and 4320.
+
+Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499, repealed items 4312 “National rifle and pistol matches: small-arms firing school” and 4313 “National Matches and small-arms school: expenses”.
+
 1997—Pub. L. 105–85, div. A, title V, §557(a)(2), Nov. 18, 1997, 111 Stat. 1750, added item 4318.
 
-1996—Pub. L. 104–106, div. A, title V, §562(a)(2), title XVI, §1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, added item 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
+1996—Pub. L. 104–106, div. A, title V, §562(a)(2), title XVI, §1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, addeditem 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
 
 1993—Pub. L. 103–35, title II, §201(b)(2)(B), (g)(10)(B), May 31, 1993, 107 Stat. 98, 100, substituted “National Matches and small-arms school” for “Promotion of civilian marksmanship” in item 4313, struck out item 4316 “Military history fellowships”, and added item 4317.
 
@@ -53,10 +57,11 @@ This chapter is referred to in title 18 section 925.
 - [&sect; 04307, 4308 - Repealed. Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004307%2C%204308%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
 - [&sect; 04309 - Rifle ranges availability for use by members and civilians](%C2%A7%2004309%20-%20Rifle%20ranges%20availability%20for%20use%20by%20members%20and%20civilians.md)
 - [&sect; 04310, 4311 - Repealed. Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004310%2C%204311%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
-- [&sect; 04312 - National rifle and pistol matches small-arms firing school](%C2%A7%2004312%20-%20National%20rifle%20and%20pistol%20matches%20small-arms%20firing%20school.md)
-- [&sect; 04313 - National Matches and small-arms school expenses](%C2%A7%2004313%20-%20National%20Matches%20and%20small-arms%20school%20expenses.md)
+- [&sect; 04312, 4313 - Repealed. Pub. L. 105&#8211;225, &sect;6(b), Aug. 12, 1998, 112 Stat. 1499](%C2%A7%2004312%2C%204313%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93225%2C%20%C2%A76%28b%29%2C%20Aug.%2012%2C%201998%2C%20112%20Stat.%201499.md)
 - [&sect; 04314 - United States Army Command and General Staff College degree](%C2%A7%2004314%20-%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20degree.md)
 - [&sect; 04315 - The Judge Advocate General's School master of laws in military law](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md)
 - [&sect; 04316 - Reporting requirements](%C2%A7%2004316%20-%20Reporting%20requirements.md)
 - [&sect; 04317 - Military history fellowships](%C2%A7%2004317%20-%20Military%20history%20fellowships.md)
 - [&sect; 04318 - Drill sergeant trainees human relations training](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md)
+- [&sect; 04319 - Recruit basic training separate housing for male and female recruits](%C2%A7%2004319%20-%20Recruit%20basic%20training%20separate%20housing%20for%20male%20and%20female%20recruits.md)
+- [&sect; 04320 - Recruit basic training privacy](%C2%A7%2004320%20-%20Recruit%20basic%20training%20privacy.md)

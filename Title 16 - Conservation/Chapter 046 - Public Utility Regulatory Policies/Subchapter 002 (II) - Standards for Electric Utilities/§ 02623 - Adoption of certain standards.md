@@ -4,7 +4,7 @@
 
 Not later than two years after November 9, 1978, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) of this section and, on the basis of such hearing, shall—
 
-&emsp;(1) adopt the standards established by subsection (b) of this section (other than paragraph (4) thereof) if, and to the extent, suchauthority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
+&emsp;(1) adopt the standards established by subsection (b) of this section (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
 
 &emsp;(2) adopt the standard established by subsection (b)(4) of this section if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
 

@@ -14,7 +14,7 @@ In carrying out evaluations under this section, the Secretary shall, whenever po
 
 #### (d) Annual summaries and analyses of evaluation; demonstration projects; transmittal to Congress; dissemination to Federal, State, and local agencies and private organizations; accessibility to public
 
-The Secretary shall annually publish summaries and analyses of the results of evaluative research and evaluation of program and project impact and effectiveness, including, as appropriate, health and nutrition education demonstration projects conducted under section 3027(f) of this title, the full contents of which shall be transmitted to Congress, be disseminated to Federal, State, and local agencies and private organizations with an interest in aging, and be accessible to the public.
+The Secretary shall annually publish summaries and analyses of the results of evaluative research and evaluation of program and project impact and effectiveness, including, as appropriate, health and nutrition education demonstration projects conducted under section 3027(f) of this title, the full contents of whichshall be transmitted to Congress, be disseminated to Federal, State, and local agencies and private organizations with an interest in aging, and be accessible to the public.
 
 #### (e) Federal property
 
@@ -100,7 +100,7 @@ Subsec. (g)(3). Pub. L. 103–171, §§2(5)(C), 3(a)(13), substituted “1995”
 
 1992—Subsec. (a). Pub. L. 102–375, §207(1), inserted “their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals) and unserved older individuals with greatest social need (including low-income minority individuals),” after “related programs,”.
 
-Subsecs. (g), (h). Pub. L. 102–375, §207(2), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to usesuch sums as may be required, but not to exceed one-tenth of 1 percent of the funds appropriated under this chapter for each fiscal year, or $300,000 whichever is lower, to conduct program and project evaluations (directly, or by grants or contracts) as required by this subchapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriated therefor) shall be reduced accordingly.”
+Subsecs. (g), (h). Pub. L. 102–375, §207(2), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to use such sums as may be required, but not to exceed one-tenth of 1 percent of the funds appropriated under this chapter for each fiscal year, or $300,000 whichever is lower, to conduct program and project evaluations (directly, or by grants or contracts) as required by this subchapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriated therefor) shall be reduced accordingly.”
 
 1987—Subsec. (c). Pub. L. 100–175 inserted “and older individuals with disabilities” before period at end.
 
@@ -133,8 +133,4 @@ Amendment by section 206(d) of Pub. L. 98–459 effective on first day of first 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 29 section 2212.
 

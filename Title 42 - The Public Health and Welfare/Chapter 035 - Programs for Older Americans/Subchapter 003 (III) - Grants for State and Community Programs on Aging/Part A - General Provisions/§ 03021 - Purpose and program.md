@@ -28,7 +28,7 @@
 
 (1) In order to effectively carry out the purpose of this subchapter, the Assistant Secretary shall administer programs under this subchapter through the Administration.
 
-(2) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration,,<sup>1</sup> and such other agencies and departments of the Federal Government as may be appropriate.
+(2) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration,,<sup>1</sup> and such other agencies and departmentsof the Federal Government as may be appropriate.
 
 #### (c) Ombudsman program
 
@@ -40,7 +40,7 @@ The Assistant Secretary shall provide technical assistance and training (by cont
 
 A prior section 3021, Pub. L. 89–73, title III, §301, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36, related to the purpose of this subchapter, prior to the general amendment of this subchapter by Pub. L. 95–478.
 
-Another prior section 3021, Pub. L. 89–73, title III, §301, July 14, 1965, 79 Stat. 220; Pub. L. 90–42, §2(a), July 1, 1967, 81 Stat. 106; Pub. L. 91–69, §2(a), Sept. 17, 1969, 83 Stat. 108, related to a description of activities and authorized appropriations for fiscal years ending June30, 1966, through 1972, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
+Another prior section 3021, Pub. L. 89–73, title III, §301, July 14, 1965, 79 Stat. 220; Pub. L. 90–42, §2(a), July 1, 1967, 81 Stat. 106; Pub. L. 91–69, §2(a), Sept. 17, 1969, 83 Stat. 108, related to a description of activities and authorized appropriations for fiscal years ending June 30, 1966, through 1972, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
 #### Amendments
 

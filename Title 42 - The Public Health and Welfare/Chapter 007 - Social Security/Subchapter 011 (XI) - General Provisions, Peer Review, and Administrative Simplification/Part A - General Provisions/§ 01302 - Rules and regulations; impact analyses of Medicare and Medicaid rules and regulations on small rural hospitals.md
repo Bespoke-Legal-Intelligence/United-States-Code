@@ -8,7 +8,7 @@
 
 (3) If a regulatory flexibility analysis is required by chapter 6 of title 5 for a rule or regulation to which this subsection applies, such analysis shall specifically address the impact of the rule or regulation on small rural hospitals.
 
-(Aug. 14, 1935, ch. 531, title XI, §1102, 49 Stat. 647; Aug. 28, 1950, ch. 809, title IV, §403(c), 64 Stat. 559; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(i), (<i>l</i>)(2), 98 Stat. 1170, 1171; Dec. 22, 1987, Pub. L. 100–203, title IV, §4402(a), 101 Stat. 1330–226.)
+(Aug. 14, 1935, ch. 531, title XI, §1102, 49 Stat. 647; Aug. 28, 1950, ch. 809, title IV, §403(c), 64 Stat. 559; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(i), (<i>l</i>)(2), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 100–203, title IV, §4402(a), Dec. 22, 1987, 101 Stat. 1330–226.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Repeals
 
-The provisions of this section were incorporated into sections 1429 and 1609 of former Title 26, Internal Revenue Code of 1939, by act Feb. 10, 1939, ch. 2, 53 Stat. 1. Section 4 of the act of Feb. 10, 1939, which enacted Title 26, I.R.C. 1939, provided that all laws and parts of laws codified into the I.R.C. 1939, to the extent that they related exclusively to internal revenue, were repealed. Provisions of I.R.C. 1939 were generally repealed by section 7851 of Title 26, Internal Revenue Code of 1954. See also, section 7807 of said Title 26, I.R.C. 1954, respecting rules in effect upon enactment of I.R.C. 1954. The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2,Oct. 22, 1986, 100 Stat. 2095. The repealed sections are covered by section 7805(a), (c) of Title 26.
+The provisions of this section were incorporated into sections 1429 and 1609 of former Title 26, Internal Revenue Code of 1939, by act Feb. 10, 1939, ch. 2, 53 Stat. 1. Section 4 of the act of Feb. 10, 1939, which enacted Title 26, I.R.C. 1939, provided that all laws and parts of laws codified into the I.R.C. 1939, to the extent that they related exclusively to internal revenue, were repealed. Provisions of I.R.C. 1939 were generally repealed by section 7851 of Title 26, Internal Revenue Code of 1954. See also, section 7807 of said Title 26, I.R.C. 1954, respecting rules in effect upon enactment of I.R.C. 1954. The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. The repealed sections are covered by section 7805(a), (c) of Title 26.
 
 #### Abortion Services; Prohibition on Certain Policy Changes
 

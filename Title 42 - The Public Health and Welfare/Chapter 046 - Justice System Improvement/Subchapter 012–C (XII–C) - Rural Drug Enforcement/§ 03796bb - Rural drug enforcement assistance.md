@@ -16,7 +16,7 @@
 
 #### Prior Provisions
 
-A prior section 1501 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 1501 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 Another prior section 1501 of Pub. L. 90–351, title X, June 19, 1968, 82 Stat. 238, was not classified to the Code.
 

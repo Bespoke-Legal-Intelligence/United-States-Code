@@ -40,7 +40,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;&emsp;(ii) an amount equal to 60 percent of the State median income;
 
-> &emsp;&emsp;except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;
+> &emsp;&emsp;except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of thepoverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;
 
 &emsp;(3) conduct outreach activities designed to assure that eligible households, especially households with elderly individuals or disabled individuals, or both, and households with high home energy burdens, are made aware of the assistance available under this subchapter, and any similar energy-related assistance available under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\] or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
 
@@ -68,7 +68,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(9) provide that—
 
-&emsp;&emsp;(A) the State may use for planning and administering the use of funds under this subchapter an amount not to exceed 10 percent of the funds payable to such State under this subchapter for a fiscal year and not transferred pursuant to section 8623(f) of this title for use under another block grant; and
+&emsp;&emsp;(A) the State may use for planning and administering the use of funds under this subchapter an amount not to exceed 10 percent of the funds payable to such State under this subchapter for a fiscal year; and
 
 &emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
 
@@ -80,13 +80,15 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(13) provide an opportunity for a fair administrative hearing to individuals whose claims for assistance under the plan described in subsection (c) of this section are denied or are not acted upon with reasonable promptness;
 
-&emsp;(14) cooperate with the Secretary with respect to data collecting and reporting under section 8629 of this title; and <sup>2</sup>
+&emsp;(14) cooperate with the Secretary with respect to data collecting and reporting under section 8629 of this title;
 
 &emsp;(15) beginning in fiscal year 1992, provide, in addition to such services as may be offered by State Departments of Public Welfare at the local level, outreach and intake functions for crisis situations and heating and cooling assistance that is administered by additional State and local governmental entities or community-based organizations (such as community action agencies, area agencies on aging, and not-for-profit neighborhood-based organizations), and in States where such organizations do not administer intake functions as of September 30, 1991, preference in awarding grants or contracts for intake services shall be provided to those agencies that administer the low-income weatherization or energy crisis intervention programs; and
 
 &emsp;(16) use up to 5 percent of such funds, at its option, to provide services that encourage and enable households to reduce their home energy needs and thereby the need for energy assistance, including needs assessments, counseling, and assistance with energy vendors, and report to the Secretary concerning the impact of such activities on the number of households served, the level of direct benefits provided to those households, and the number of households that remain unserved.
 
-> The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection. The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter. Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.
+> The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection. The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.
+
+Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.
 
 #### (c) State plan; revision; public inspection
 
@@ -94,7 +96,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(A) describes the eligibility requirements to be used by the State for each type of assistance to be provided under this subchapter, including criteria for designating an emergency under section 8623(c) of this title;
 
-&emsp;(B) describes the benefit levels to be used by the States for each type of assistance including assistance to be provided for emergency crisis intervention and for weatherization and other energy-related home repair;
+&emsp;(B) describes the benefit levels to be used by the State for each type of assistance including assistance to be provided for emergency crisis intervention and for weatherization and other energy-related home repair;
 
 &emsp;(C) contains estimates of the amount of funds the State will use for each of the programs under such plan and describes the alternative use of funds reserved under section 8623(c) of this title in the event any portion of the amount so reserved is not expended for emergencies;
 
@@ -106,7 +108,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(G) states, with respect to the 12-month period specified by the Secretary, the number and income levels of households which apply and the number which are assisted with funds provided under this subchapter, and the number of households so assisted with—
 
-&emsp;&emsp;(i) one or more members who has attained 60 years of age;
+&emsp;&emsp;(i) one or more members who had attained 60 years of age;
 
 &emsp;&emsp;(ii) one or more members who were disabled; and
 
@@ -144,7 +146,7 @@ The State shall repay to the United States amounts found not to have been expend
 
 #### (h) Periodic evaluation of expenditures by Comptroller General
 
-The Comptroller General of the United States shall, from time to time <sup>3</sup> evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
+The Comptroller General of the United States shall, from time to time <sup>2</sup> evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
 
 #### (i) Certain recipients of supplemental security income ineligible for payments or assistance
 
@@ -168,7 +170,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 &emsp;(B) the funds available to such State under this subchapter for such fiscal year;
 
-> may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households.
+> may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
 (2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, the State may use not more than the greater of 25 percent of—
 
@@ -176,7 +178,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 &emsp;(ii) the funds available to such State under this subchapter for such fiscal year;
 
-> for residential weatherization or other energy-related home repair for low-income households.
+> for residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
 (B) For purposes of subparagraph (A), the Secretary may grant a waiver to a State for a fiscal year if the State submits a written request to the Secretary after March 31 of such fiscal year and if the Secretary determines, after reviewing such request and any public comments, that—
 
@@ -196,7 +198,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
-(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175.)
+(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758.)
 
 #### References in Text
 
@@ -206,7 +208,7 @@ The Food Stamp Act of 1977, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 88
 
 Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans’ Benefits.
 
-Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §§671 to 683, Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -220,17 +222,29 @@ In subsec. (b)(6), “August 12, 1981” substituted for “the day before the d
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–285, §306(1)(C), (D), struck out “The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection.” in provisions after par. (14) and inserted identical language before “The Secretary shall issue” in concluding provisions after par. (16).
+
+Subsec. (b)(9)(A). Pub. L. 105–285, §306(1)(A), struck out “and not transferred pursuant to section 8623(f) of this title for use under another block grant” before the semicolon.
+
+Subsec. (b)(14). Pub. L. 105–285, §306(1)(B), struck out “and” at end.
+
+Subsec. (c)(1)(B). Pub. L. 105–285, §306(2)(A), substituted “State” for “States”.
+
+Subsec. (c)(1)(G)(i). Pub. L. 105–285, §306(2)(B), substituted “had” for “has”.
+
+Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at end “, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy”.
+
 1996—Subsec. (b)(2)(A)(i). Pub. L. 104–193 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “aid to families with dependent children under the State's plan approved under part A of title IV of the Social Security Act (other than such aid in the form of foster care in accordance with section 408 of such Act);”.
 
 1995—Subsec. (h). Pub. L. 104–66 struck out “(but not less frequently than every three years),” after “from time to time”.
 
-1994—Subsec. (b). Pub. L. 103–252, §311(c)(4), which directed the transfer of the sentence that immediately precedes par. (15) to appear as a flush sentence immediately after par. (16), was executed by transferring the two sentences that appeared before par. (15) so as to appear as a flush provision immediately after par. (16), to reflect the probable intent of Congress.
+1994—Subsec. (b). Pub. L. 103–252, §311(c)(4), transferred the sentence immediately preceding par. (15) to appear as a flush sentence immediately after par. (16).
 
 Pub. L. 103–252, §311(b), inserted at end “Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.”
 
 Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
 
-Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State maynot exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
+Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 
 Subsec. (b)(3). Pub. L. 103–252, §§306(b), 311(c)(3), substituted “disabled” for “handicapped” and “and households with high home energy burdens, are made aware” for “are made aware”.
 
@@ -298,7 +312,7 @@ Subsec. (b)(9)(A). Pub. L. 98–558, §605(a)(6), in amending subpar. (A) genera
 
 Subsec. (b)(10). Pub. L. 98–558, §605(a)(7), substituted “every two years” for “every year”.
 
-Subsec. (b)(14) to (17). Pub. L. 98–558, §605(a)(8), added pars. (14) to (17).
+Subsec. (b)(14) to (17). Pub. L. 98–558, §605(a)(8), which directed amendment of subsec. (b) by adding pars. (14) to (17) at the end thereof, was executed by adding those pars. after par. (13) to reflect the probable intent of Congress.
 
 Subsec. (c)(1). Pub. L. 98–558, §605(b)(1), in amending par. (1) generally, designated existing provisions as subpar. (A) and added subpars. (B) to (E).
 
@@ -306,7 +320,7 @@ Subsec. (c)(2). Pub. L. 98–558, §605(b)(2), inserted “and each substantial 
 
 Subsec. (d). Pub. L. 98–558, §605(c), in amending subsec. (d) generally, substituted provisions that the State shall expend funds in accordance with the State plan or revisions thereto for former provisions which related to waiver of requirements.
 
-Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that theaudits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
+Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that the audits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
 
 Subsec. (f). Pub. L. 98–558, §605(e), inserted “unless enacted in express limitation of this paragraph”.
 
@@ -364,7 +378,5 @@ This section is referred to in sections 8623, 8626a, 8626b, 8627, 8629 of this t
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

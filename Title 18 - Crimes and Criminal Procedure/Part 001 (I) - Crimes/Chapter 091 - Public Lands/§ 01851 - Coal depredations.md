@@ -4,7 +4,7 @@ Whoever mines or removes coal of any character, whether anthracite, bituminous, 
 
 This section shall not interfere with any right or privilege conferred by existing laws of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 787; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 787; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §§103a, 103b (July 3, 1926, ch. 780, §§
 
 Section consolidates sections 103a and 103b of title 18, U.S.C., 1940 ed.
 
-Words “deemed guilty of misdemeanor” were deleted as unnecessary in view of definitive section 1 of this title. (See also reviser's note under section 212 of this title.)
+Words “deemed guilty of misdemeanor” were deleted as unnecessary in view of definitive section 1 of thistitle. (See also reviser's note under section 212 of this title.)
 
 Minor changes were made in phraseology.
 

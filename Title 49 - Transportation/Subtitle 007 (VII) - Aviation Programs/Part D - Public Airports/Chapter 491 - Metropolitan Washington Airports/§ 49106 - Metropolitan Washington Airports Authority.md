@@ -28,7 +28,7 @@ General Authority.—(1) The Airports Authority shall be authorized—
 
 &emsp;(E) to levy fees or other charges; and
 
-&emsp;(F) to make and maintain agreements with employee organizations to the extent that the Federal Aviation Administration was authorized to do so on October 18, 1996.
+&emsp;(F) to make and maintain agreements with employee organizations to the extent that the Federal Aviation Administration was authorized to do so on October 18, 1986.
 
 (2) Bonds issued under paragraph (1)(B) of this subsection—
 
@@ -50,7 +50,7 @@ Board of Directors.—(1) The Airports Authority shall be governed by a board of
 
 (2) The chairman of the board shall be appointed from among the members by majority vote of the members and shall serve until replaced by majority vote of the members.
 
-(3) Members of the board shall be appointed by the board for 6 years, except that of the members first appointed by the President after October 9, 1996, one shall be appointed for 4 years. A member may serve after the expiration of that member's term until a successor has taken office.
+(3) Members of the board shall be appointed to the board for 6 years, except that of the members first appointed by the President after October 9, 1996, one shall be appointed for 4 years. A member may serve after the expiration of that member's term until a successor has taken office.
 
 (4) A member of the board—
 
@@ -88,7 +88,7 @@ Administrative.—To assist the Secretary in carrying out this chapter, the Secr
 
 Review of Contracting Procedures.—The Comptroller General shall review contracts of the Airports Authority to decide whether the contracts were awarded by procedures that follow sound Government contracting principles and comply with section 49104(a)(4) of this title. The Comptroller General shall submit periodic reports of the conclusions reached as a result of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2210; amended Pub. L. 105–225, §7(c)(1)(A), (B), Aug. 12, 1998, 112 Stat. 1511.)
 
 Historical and Revision Notes
 
@@ -191,6 +191,16 @@ In subsection (c)(6)(C), the words “the limitations described in” are omitte
 In subsection (d), the words “The Airports Authority shall be subject to a conflict-of-interest provision providing that” are omitted as surplus.
 
 In subsection (g), the words “Committee on Transportation and Infrastructure” are substituted for “Committee on Public Works and Transportation” because of the amendment of clause 1(q) of Rule X of the Rules of the House of Representatives by section 202(a) of H. Res. 6, approved January 4, 1995.
+
+#### Amendments
+
+1998—Subsec. (b)(1)(F). Pub. L. 105–225, §7(c)(1)(A), substituted “1986” for “1996”.
+
+Subsec. (c)(3). Pub. L. 105–225, §7(c)(1)(B), substituted “to the board” for “by the board”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–225, §7(c)(3), Aug. 12, 1998, 112 Stat. 1512, provided that: “The amendments made by this subsection \[amending this section and sections 49107 and 49111 of this title and provisions set out as a note preceding section 101 of this title\] are effective as of November 20, 1997.”
 
 #### Section Referred to in Other Sections
 

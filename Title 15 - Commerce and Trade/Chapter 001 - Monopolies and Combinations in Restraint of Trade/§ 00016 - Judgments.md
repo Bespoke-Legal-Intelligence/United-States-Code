@@ -32,7 +32,7 @@ The United States shall also cause to be published, commencing at least 60 days 
 
 #### (d) Consideration of public comments by Attorney General and publication of response
 
-During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of thissubsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments.
+During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments.
 
 #### (e) Public interest determination
 
@@ -48,7 +48,7 @@ In making its determination under subsection (e) of this section, the court may�
 
 &emsp;(1) take testimony of Government officials or experts or such other expert witnesses, upon motion of any party or participant or upon its own motion, as the court may deem appropriate;
 
-&emsp;(2) appoint a special master and such outside consultants or expert witnesses as the court may deem appropriate; and request and obtain the views, evaluations, or advice of any individual, group or agency of government with respect to any aspects of the proposed judgment or the effect of such judgment, in such manner as the court deems appropriate;
+&emsp;(2) appoint a special master and such outside consultants or expert witnesses as the court may deem appropriate; and request and obtainthe views, evaluations, or advice of any individual, group or agency of government with respect to any aspects of the proposed judgment or the effect of such judgment, in such manner as the court deems appropriate;
 
 &emsp;(3) authorize full or limited participation in proceedings before the court by interested persons or agencies, including appearance amicus curiae, intervention as a party pursuant to the Federal Rules of Civil Procedure, examination of witnesses or documentary materials, or participation in any other manner and extent which serves the public interest as the court may deem appropriate;
 
@@ -68,7 +68,7 @@ Proceedings before the district court under subsections (e) and (f) of this sect
 
 Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title, the running of the statute of limitations in respect to every private or State right of action arising under said laws and based in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: <i>Provided, however</i>, That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
 
-(Oct. 15, 1914, ch. 323, §5, 38 Stat. 731; July 7, 1955, ch. 283, §2, 69 Stat. 283; Dec. 21, 1974, Pub. L. 93–528, §2, 88 Stat. 1706; Sept. 30, 1976, Pub. L. 94–435, title III, §302(2), 90 Stat. 1396; Sept. 12, 1980, Pub. L. 96–349, §5(a), 94 Stat. 1157.)
+(Oct. 15, 1914, ch. 323, §5, 38 Stat. 731; July 7, 1955, ch. 283, §2, 69 Stat. 283; Pub. L. 93–528, §2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, §302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, §5(a), Sept. 12, 1980, 94 Stat. 1157.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are define
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “undersaid laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
+1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
 
 1976—Pub. L. 94–435 substituted “private or State right of action” for “private right of action” and “section 15 or 15c” for “section 15”.
 

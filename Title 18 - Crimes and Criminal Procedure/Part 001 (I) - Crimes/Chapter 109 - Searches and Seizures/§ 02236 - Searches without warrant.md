@@ -10,7 +10,7 @@ Whoever, being an officer, agent, or employee of the United States or any depart
 
 &emsp;&emsp;(c) making a search at the request or invitation or with the consent of the occupant of the premises.
 
-(June 25, 1948, ch. 645, 62 Stat. 803; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) Ensign
 
-Temporary appointment in the grade of ensign may be made by the President alone, providedsuch temporary appointment will be terminated at the close of the next regular session of the Congress unless confirmed by the Senate.
+Temporary appointment in the grade of ensign may be made by the President alone, provided such temporary appointment will be terminated at the close of the next regular session of the Congress unless confirmed by the Senate.
 
 #### (b) Lieutenant junior grade
 

@@ -56,5 +56,5 @@ Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 102–538 provided that: “This title \[enacting this chapter, amending section 394 of this title, and enacting provisions set out as a note under section 254r of Title 42, The Public Health and Welfare\] may be cited as the ‘National Telecommunications and Information Administration Organization Act’.”
+Section 101 of title I of Pub. L. 102–538 provided that: “This title \[enacting this chapter, amending section 394of this title, and enacting provisions set out as a note under section 254r of Title 42, The Public Health and Welfare\] may be cited as the ‘National Telecommunications and Information Administration Organization Act’.”
 

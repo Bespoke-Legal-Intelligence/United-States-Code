@@ -44,7 +44,7 @@ The court of review established under section 1803(b) of this title shall have j
 
 #### (e) Expeditious conduct of proceedings; security measures for maintenance of records
 
-Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of Central Intelligence.
+Judicial proceedings under this subchapter shall be concluded as expeditiously as possible.The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of Central Intelligence.
 
 (Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444.)
 

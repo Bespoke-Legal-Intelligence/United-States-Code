@@ -57,58 +57,17 @@
 
 #### SUBCHAPTER III—TRIBAL DEVELOPMENT STUDENT ASSISTANCE REVOLVING LOAN PROGRAM
 
-|  |  |
-| :--- | ---: |
-| [3331\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003331%20-%20Short%20title.md) | Short title. |
-| [3332\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003332%20-%20Findings%3B%20purposes.md) | Findings; purposes. |
-| (a) | Findings. |
-| (b) | Purposes. |
-| [3333\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003333%20-%20Revolving%20fund.md) | Revolving fund. |
-| (a) | Receipt, investment, and accounting. |
-| (b) | Investment. |
-| (c) | Treatment of income. |
-| [3334\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003334%20-%20Eligible%20recipients.md) | Eligible recipients. |
-| (a) | Tribes and tribal organizations. |
-| (b) | Students. |
-| [3335\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003335%20-%20Terms%20of%20loans.md) | Terms of loans. |
-| (a) | In general. |
-| (b) | Cost of attendance. |
-| (c) | Additional requirements. |
-| [3336\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003336%20-%20Service%20fulfillment%20and%20conditions%3B%20repayments%3B%20waivers.md) | Service fulfillment and conditions; repayments; waivers. |
-| (a) | Service agreement required. |
-| (b) | Service limitations and conditions. |
-| (c) | Waiver and suspension of service agreement. |
-| (d) | Pro rata reduction for partial services. |
-| (e) | Certification of service. |
-| [3337\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003337%20-%20Administration.md) | Administration. |
-| (a) | Regulations. |
-| (b) | Grant procedures. |
-| (c) | Definitions. |
-| [3338\.](Subchapter%20003%20%28III%29%20-%20Tribal%20Development%20Student%20Assistance%20Revolving%20Loan%20Program/%C2%A7%2003338%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 3331 to 3338. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER IV—AMERICAN INDIAN POST-SECONDARY ECONOMIC DEVELOPMENT SCHOLARSHIP
 
-|  |  |
-| :--- | ---: |
-| [3351\.](Subchapter%20004%20%28IV%29%20-%20American%20Indian%20Post-Secondary%20Economic%20Development%20Scholarship/%C2%A7%2003351%20-%20American%20Indian%20Post-Secondary%20Economic%20Development%20Scholarship.md) | American Indian Post-Secondary Economic Development Scholarship. |
-| (a) | Program authorized. |
-| (b) | Designation. |
-| [3352\.](Subchapter%20004%20%28IV%29%20-%20American%20Indian%20Post-Secondary%20Economic%20Development%20Scholarship/%C2%A7%2003352%20-%20Indian%20scholarships.md) | Indian scholarships. |
-| (a) | Selection. |
-| (b) | Criteria. |
-| [3353\.](Subchapter%20004%20%28IV%29%20-%20American%20Indian%20Post-Secondary%20Economic%20Development%20Scholarship/%C2%A7%2003353%20-%20Scholarship%20conditions.md) | Scholarship conditions. |
-| (a) | Scholarship agreement. |
-| (b) | Repayments. |
-| (c) | Waiver and suspension of service agreement. |
-| (d) | Disclaimer. |
-| (e) | Limitation. |
-| (f) | Cost of attendance. |
-| (g) | Additional requirements. |
-| (h) | Applications for assistance. |
-| [3354\.](Subchapter%20004%20%28IV%29%20-%20American%20Indian%20Post-Secondary%20Economic%20Development%20Scholarship/%C2%A7%2003354%20-%20Report.md) | Report. |
-| [3355\.](Subchapter%20004%20%28IV%29%20-%20American%20Indian%20Post-Secondary%20Economic%20Development%20Scholarship/%C2%A7%2003355%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 3351 to 3355. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -116,12 +75,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3371\.](Subchapter%20005%20%28V%29%20-%20American%20Indian%20Teacher%20Training/%C2%A7%2003371%20-%20American%20Indian%20teacher%20training.md) | American Indian teacher training. |
-| (a) | Institutional support. |
-| (b) | Student support grants. |
-| (c) | Scholarships. |
-| (d) | “Indian” defined. |
-| (e) | Authorization of appropriations. |
+| [3371\.](Subchapter%20005%20%28V%29%20-%20American%20Indian%20Teacher%20Training/%C2%A7%2003371%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93332%2C%20%C2%A76%28b%29%281%29%2C%20Oct.%2031%2C%201998%2C%20112%20Stat.%203128.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

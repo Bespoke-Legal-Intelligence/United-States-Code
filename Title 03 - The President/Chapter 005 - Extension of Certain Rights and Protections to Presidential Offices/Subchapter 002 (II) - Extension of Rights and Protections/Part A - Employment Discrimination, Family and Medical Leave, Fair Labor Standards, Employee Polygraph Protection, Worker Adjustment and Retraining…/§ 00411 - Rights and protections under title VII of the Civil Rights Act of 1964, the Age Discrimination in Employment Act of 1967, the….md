@@ -64,7 +64,7 @@ Regulations To Implement Section.—
 
 &emsp;(1)
 
-In general.—The President, or the designee of the President, shall issue regulationsto implement paragraphs (1) and (3) of subsection (a) and paragraphs (1) and (3) of subsection (b).
+In general.—The President, or the designee of the President, shall issue regulations to implement paragraphs (1) and (3) of subsection (a) and paragraphs (1) and (3) of subsection (b).
 
 &emsp;(2)
 

@@ -2,7 +2,7 @@
 
 The retirement provisions of this title are subject to section 8301 of title 5.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115.)
 
 Historical and Revision Notes
 

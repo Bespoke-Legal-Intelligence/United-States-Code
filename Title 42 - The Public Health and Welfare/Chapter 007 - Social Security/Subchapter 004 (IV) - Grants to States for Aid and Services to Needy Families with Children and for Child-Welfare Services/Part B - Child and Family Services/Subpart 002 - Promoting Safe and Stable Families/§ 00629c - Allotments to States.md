@@ -24,7 +24,7 @@ From the amount described in section 629(b) of this title for any fiscal year th
 
 &emsp;&emsp;For purposes of the calculation pursuant to subparagraph (A), the Secretary shall use data for the 3 most recent fiscal years, preceding the fiscal year for which the State's allotment is calculated under this subsection, for which such data are available to the Secretary.
 
-(Aug. 14, 1935, ch. 531, title IV, §433, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(a)(2), 107 Stat. 653.)
+(Aug. 14, 1935, ch. 531, title IV, §433, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653.)
 
 #### Prior Provisions
 

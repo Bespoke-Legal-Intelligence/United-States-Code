@@ -2,7 +2,7 @@
 
 The Secretary is authorized to perform such acts, to make such rules and regulations, and to include in contracts relating to the Columbia Basin project such provisions as he deems proper for carrying out the provisions of sections 835 and 835a to 835c–5 <sup>1</sup> of this title; and in connection with sales or exchanges under such sections, he is authorized to effect conveyances without regard to the law governing the patenting of public lands. Wherever in said sections functions, powers, or duties are conferred upon the Secretary, said functions, powers, or duties may be performed, exercised, or discharged by his duly authorized representatives.
 
-(May 27, 1937, ch. 269, §8, as added Mar. 10, 1943, ch. 14, 57 Stat. 20; amended Oct. 1, 1962, Pub. L. 87–728, §6(c), 76 Stat. 679.)
+(May 27, 1937, ch. 269, §8, as added Mar. 10, 1943, ch. 14, 57 Stat. 20; amended Pub. L. 87–728, §6(c), Oct. 1, 1962, 76 Stat. 679.)
 
 #### References in Text
 

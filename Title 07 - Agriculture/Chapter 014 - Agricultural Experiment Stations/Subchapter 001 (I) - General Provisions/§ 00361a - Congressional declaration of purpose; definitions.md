@@ -1,8 +1,8 @@
 ### §361a. Congressional declaration of purpose; definitions
 
-It is the policy of Congress to continue the agricultural research at State agricultural experiment stations which has been encouraged and supported by the Hatch Act of 1887 \[7 U.S.C. 361a et seq.\], the Adams Act of 1906, the Purnell Act of 1925, the Bankhead-Jones Act of 1935, and title I, section 9, of that Act as added by the Act of August 14, 1946, and Acts amendatory and supplementary thereto, and to promote the efficiency of such research by a codification and simplification of such laws. As used in this Act \[7 U.S.C. 361a et seq.\], the terms “State” or “States” are defined to include the several States (including the District of Columbia), Alaska, Hawaii, Puerto Rico, Guam and the Virgin Islands. As used in this Act \[7 U.S.C. 361a et seq.\], the term “State agricultural experiment station” means a department which shall have been established, under direction of the college or university or agricultural departments of the college or university in each State in accordance with an Act approved July 2, 1862, (12 Stat. 503), entitled “An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts” \[7 U.S.C. 301 et seq.\]; or such other substantially equivalent arrangements as any State shall determine.
+It is the policy of Congress to continue the agricultural research at State agricultural experiment stations which has been encouraged and supported by the Hatch Act of 1887 \[7 U.S.C. 361a et seq.\], the Adams Act of 1906, the Purnell Act of 1925, the Bankhead-Jones Act of 1935, and title I, section 9, of that Act as added by the Act of August 14, 1946, and Acts amendatory and supplementary thereto, and to promote the efficiency of such research by a codification and simplification of such laws. As used in this Act \[7 U.S.C. 361a et seq.\], the terms “State” or “States” are defined to include the severalStates (including the District of Columbia), Puerto Rico, Guam and the Virgin Islands. As used in this Act \[7 U.S.C. 361a et seq.\], the term “State agricultural experiment station” means a department which shall have been established, under direction of the college or university or agricultural departments of the college or university in each State in accordance with an Act approved July 2, 1862, (12 Stat. 503), entitled “An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts” \[7 U.S.C. 301 et seq.\]; or such other substantially equivalent arrangements as any State shall determine.
 
-(Mar. 2, 1887, ch. 314, §1, 24 Stat. 440; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; June 23, 1972, Pub. L. 92–318, title V, §506(k), 86 Stat. 351; Oct. 26, 1974, Pub. L. 93–471, title II, §208(e), 88 Stat. 1429.)
+(Mar. 2, 1887, ch. 314, §1, 24 Stat. 440; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(k), June 23, 1972, 86 Stat. 351; Pub. L. 93–471, title II, §208(e), Oct. 26, 1974, 88 Stat. 1429; Pub. L. 105–185, title II, §203(c)(1), June 23, 1998, 112 Stat. 534.)
 
 #### References in Text
 
@@ -20,11 +20,13 @@ The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2
 
 #### Codification
 
-Section 208 of act Oct. 26, 1974, Pub. L. 93–471, cited as a credit to this section, was renumbered section “209” by act Nov. 1, 1975, D.C. Law 1–36, §4, 22 DCR 2911.
+Section 208 of Pub. L. 93–471, cited as a credit to this section, was renumbered section “209” by D.C. Law 1–36, §4, Nov. 1, 1975, 22 DCR 2911.
 
 Section was formerly classified to section 362 of this title.
 
 #### Amendments
+
+1998—Pub. L. 105–185 struck out “Alaska, Hawaii,” before “Puerto Rico” in second sentence.
 
 1974—Pub. L. 93–471 defined “State” to include the District of Columbia.
 
@@ -42,7 +44,7 @@ Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) 
 
 #### Short Title
 
-Act Mar. 2, 1887, as amended, which is classified to sections 361a to 361i of this title, is popularly known as the “Hatch Act of 1887”.
+Act Mar. 2, 1887, ch. 314, §10, as added by Pub. L. 105–185, §3(b), June 23, 1998, 112 Stat. 526, provided that: “This Act \[enacting sections 361a to 361i of this title\] may be cited as the ‘Hatch Act of 1887’.”
 
 #### Arlington Estate
 

@@ -24,7 +24,7 @@ As used in this section—
 
 &emsp;&emsp;(A) to make any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice—
 
-&emsp;&emsp;&emsp;(i) to any emergency telephone line (including any “911” line and any emergency line of a hospital, medical physician or service office, health care facility, poisoncontrol center, or fire protection or law enforcement agency);
+&emsp;&emsp;&emsp;(i) to any emergency telephone line (including any “911” line and any emergency line of a hospital, medical physician or service office, health care facility, poison control center, or fire protection or law enforcement agency);
 
 &emsp;&emsp;&emsp;(ii) to the telephone line of any guest room or patient room of a hospital, health care facility, elderly home, or similar establishment; or
 
@@ -72,7 +72,7 @@ As used in this section—
 
 &emsp;Within 120 days after December 20, 1991, the Commission shall initiate a rulemaking proceeding concerning the need to protect residential telephone subscribers’ privacy rights to avoid receiving telephone solicitations to which they object. The proceeding shall—
 
-&emsp;&emsp;(A) compare and evaluate alternative methods and procedures (including the use of electronic databases, telephone network technologies, special directory markings, industry-based or company-specific “do not call” systems, and any other alternatives, individually or in combination) for their effectiveness in protecting such privacy rights, and in terms of their cost and other advantages and disadvantages;
+&emsp;&emsp;(A) compare and evaluate alternative methods and procedures (including the use of electronic databases, telephone network technologies, special directory markings, industry-based or company-specific “do not call” systems, and any other alternatives,individually or in combination) for their effectiveness in protecting such privacy rights, and in terms of their cost and other advantages and disadvantages;
 
 &emsp;&emsp;(B) evaluate the categories of public and private entities that would have the capacity to establish and administer such methods and procedures;
 
@@ -88,7 +88,7 @@ As used in this section—
 
 #### (3) Use of database permitted
 
-&emsp;The regulations required by paragraph (2) may require the establishment and operation of a single national database to compile a list of telephone numbers of residential subscribers who object to receiving telephone solicitations, and to make that compiled list andparts thereof available for purchase. If the Commission determines to require such a database, such regulations shall—
+&emsp;The regulations required by paragraph (2) may require the establishment and operation of a single national database to compile a list of telephone numbers of residential subscribers who object to receiving telephone solicitations, and to make that compiled list and parts thereof available for purchase. If the Commission determines to require such a database, such regulations shall—
 
 &emsp;&emsp;(A) specify a method by which the Commission will select an entity to administer such database;
 
@@ -152,7 +152,7 @@ As used in this section—
 
 &emsp;It shall be unlawful for any person within the United States—
 
-&emsp;&emsp;(A) to initiate any communication using a telephone facsimile machine, or to make anytelephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
+&emsp;&emsp;(A) to initiate any communication using a telephone facsimile machine, or to make any telephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
 
 &emsp;&emsp;(B) to use a computer or other electronic device to send any message via a telephone facsimile machine unless such person clearly marks, in a margin at the top or bottom of each transmitted page of the message or on the first page of the transmission, the date and time it is sent and an identification of the business, other entity, or individual sending the message and the telephone number of the sending machine or of such business, other entity, or individual.
 
@@ -190,7 +190,7 @@ As used in this section—
 
 #### (1) Authority of States
 
-&emsp;Whenever the attorney general of a State, or an official or agency designated by a State, has reason to believe that any person has engaged or is engaging in a pattern or practice of telephone calls or other transmissions to residents of that State in violation of this section or the regulations prescribed under this section, the State may bring a civil action on behalf of its residents to enjoin such calls, an action to recover for actual monetary loss or receive $500 in damages for each violation, or both such actions. If the court finds the defendant willfully or knowingly violated such regulations, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under the preceding sentence.
+&emsp;Whenever the attorney general of a State, or an official or agency designated by a State, has reason to believe that any person has engaged or is engaging in a pattern or practice of telephone calls or other transmissions to residents of that State in violation of this section or the regulations prescribed under this section, the State may bring a civil action on behalf of its residents to enjoin such calls, an action to recover for actual monetary loss or receive $500 in damages for each violation, or both such actions. If the court finds the defendant willfully or knowingly violated such regulations, the court may, in its discretion,increase the amount of the award to an amount equal to not more than 3 times the amount available under the preceding sentence.
 
 #### (2) Exclusive jurisdiction of Federal courts
 

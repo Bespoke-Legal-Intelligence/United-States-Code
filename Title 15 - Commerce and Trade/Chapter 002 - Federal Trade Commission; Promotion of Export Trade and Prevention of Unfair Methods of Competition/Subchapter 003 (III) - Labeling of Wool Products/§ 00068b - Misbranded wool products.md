@@ -22,7 +22,7 @@ A wool product shall be misbranded—
 
 #### (b) Additional information
 
-In addition to information required in this section, the stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
+In addition to information required in this section, the stamp, tag, label, or other means ofidentification, or substitute therefor under section 68c of this title, may contain other information not violating the provisions of this subchapter or the rules and regulations of the Commission.
 
 #### (c) Substitute identification
 
@@ -42,7 +42,7 @@ For the purposes of this subchapter, a wool product shall be considered to be fa
 
 For purposes of this subchapter, any wool product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is on or affixed on the outer side of such product or in the case of hosiery items, on the outer side of such product or package.
 
-(Oct. 14, 1940, ch. 871, §4, 54 Stat. 1129; May 5, 1980, Pub. L. 96–242, §2, 94 Stat. 344; Sept. 24, 1984, Pub. L. 98–417, title III, §§304, 305, 98 Stat. 1604.)
+(Oct. 14, 1940, ch. 871, §4, 54 Stat. 1129; Pub. L. 96–242, §2, May 5, 1980, 94 Stat. 344; Pub. L. 98–417, title III, §§304, 305, Sept. 24, 1984, 98 Stat. 1604.)
 
 #### Amendments
 

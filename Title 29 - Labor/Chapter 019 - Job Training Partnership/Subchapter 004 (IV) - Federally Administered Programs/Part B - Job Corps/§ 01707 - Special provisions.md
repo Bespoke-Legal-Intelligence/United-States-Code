@@ -18,6 +18,10 @@ The Secretary shall provide all Job Corps contractors with an equitable and nego
 
 (Pub. L. 97–300, title IV, §437, Oct. 13, 1982, 96 Stat. 1379; Pub. L. 99–496, §12, Oct. 16, 1986, 100 Stat. 1264; Pub. L. 102–367, title IV, §402(f), Sept. 7, 1992, 106 Stat. 1077.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (d). Pub. L. 102–367 added subsec. (d).

@@ -14,7 +14,7 @@ Public Law 100–297, referred to in text, is Pub. L. 100–297, Apr. 28, 1988, 
 
 #### Codification
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1998, and not as part of the Indian Self-Determination and Education Assistance Act which comprises this subchapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1998,and not as part of the Indian Self-Determination and Education Assistance Act which comprises this subchapter.
 
 #### Prior Provisions
 

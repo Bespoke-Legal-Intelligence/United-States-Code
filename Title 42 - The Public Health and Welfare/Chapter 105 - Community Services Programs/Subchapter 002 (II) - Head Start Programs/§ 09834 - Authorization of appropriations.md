@@ -1,24 +1,30 @@
 ### §9834. Authorization of appropriations
 
-(a) There are authorized to be appropriated for carrying out the provisions of this subchapter such sums as may be necessary for fiscal years 1995 through 1998.
+(a) There are authorized to be appropriated for carrying out the provisions of this subchapter such sums as may be necessary for fiscal years 1999 through 2003.
 
 (b) From the amount appropriated under subsection (a) of this section, the Secretary shall make available—
 
-&emsp;(1) $35,000,000 for each of the fiscal years 1995 through 1998 to—
+&emsp;(1) for each of fiscal years 1999 through 2003 to carry out activities authorized under section 9837a of this title, not more than $35,000,000 but not less than the amount that was made available for such activities for fiscal year 1998;
 
-&emsp;&emsp;(A) carry out the Head Start Transition Project Act \[42 U.S.C. 9855 et seq.\]; and
+&emsp;(2) not more than $5,000,000 for each of fiscal years 1999 through 2003 to carry out impact studies under section 9844(g) of this title; and
 
-&emsp;&emsp;(B) carry out activities authorized under section 9837(d) of this title; and
+&emsp;(3) not more than $12,000,000 for fiscal year 1999, and such sums as may be necessary for each of fiscal years 2000 through 2003, to carry out other research, demonstration, and evaluation activities, including longitudinal studies, under section 9844 of this title.
 
-&emsp;(2) not more than $3,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1998, to carry out longitudinal research under section 9844(e) of this title.
-
-(Pub. L. 97–35, title VI, §639, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §102, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §101, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–120, §2, Oct. 23, 1989, 103 Stat. 700; Pub. L. 101–501, title I, §§103, 120(b), 140, Nov. 3, 1990, 104 Stat. 1224, 1236, 1242; Pub. L. 103–252, title I, §104, May 18, 1994, 108 Stat. 625.)
-
-#### References in Text
-
-The Head Start Transition Project Act, referred to in subsec. (b)(1)(A), is subtitle B (§§131–140) of title I of Pub. L. 101–501, Nov. 3, 1990, 104 Stat. 1238, which is classified generally to subchapter II–A (§9855 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 9801 of this title and Tables.
+(Pub. L. 97–35, title VI, §639, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §102, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §101, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–120, §2, Oct. 23, 1989, 103 Stat. 700; Pub. L. 101–501, title I, §§103, 120(b), 140, Nov. 3, 1990, 104 Stat. 1224, 1236, 1242; Pub. L. 103–252, title I, §104, May 18, 1994, 108 Stat. 625; Pub. L. 105–285, title I, §105, Oct. 27, 1998, 112 Stat. 2705.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–285, §105(1), substituted “1999 through 2003” for “1995 through 1998”.
+
+Subsec. (b)(1) to (3). Pub. L. 105–285, §105(2), added pars. (1) to (3) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) $35,000,000 for each of the fiscal years 1995 through 1998 to—
+
+&emsp;“(A) carry out the Head Start Transition Project Act; and
+
+&emsp;“(B) carry out activities authorized under section 9837(d) of this title; and
+
+“(2) not more than $3,000,000 for fiscal year 1995, and such sums as may be necessary for each of the fiscal years 1996 through 1998, to carry out longitudinal research under section 9844(e) of this title.”
 
 1994—Subsec. (a). Pub. L. 103–252, §104(1), substituted “such sums as may be necessary for fiscal years 1995 through 1998” for “(other than section 9846a of this title) $1,552,000,000 for fiscal year 1990, $2,386,000,000 for fiscal year 1991, $4,273,000,000 for fiscal year 1992, $5,924,000,000 for fiscal year 1993, and $7,660,000,000 for fiscal year 1994”.
 
@@ -56,5 +62,5 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9835, 9855a of this title.
+This section is referred to in section 9835 of this title.
 

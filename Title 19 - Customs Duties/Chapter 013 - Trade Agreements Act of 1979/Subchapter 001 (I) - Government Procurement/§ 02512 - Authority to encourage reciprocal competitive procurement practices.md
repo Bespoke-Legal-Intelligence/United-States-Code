@@ -62,7 +62,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (A) Presidential determination
 
-&emsp;&emsp;If the President determines that any changes in existing law or new statutory authority are required to authorize or to implement any action proposed in the report submitted under paragraph (1), he shall, on or after January 1, 1982, submit to the Congress a bill to accomplish such changes or provide such new statutory authority. Prior to submitting such a bill, the President shallconsult with the appropriate committees of the Congress having jurisdiction over legislation involving subject matters which would be affected by such action, and shall submit to such committees a proposed draft of such bill.
+&emsp;&emsp;If the President determines that any changes in existing law or new statutory authority are required to authorize or to implement any action proposed in the report submitted under paragraph (1), he shall, on or after January 1, 1982, submit to the Congress a bill to accomplish such changes or provide such new statutory authority. Prior to submitting such a bill, the President shall consult with the appropriate committees of the Congress having jurisdiction over legislation involving subject matters which would be affected by such action, and shall submit to such committees a proposed draft of such bill.
 
 #### (B) Congressional consideration
 
@@ -90,7 +90,7 @@ Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prio
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1994 Amendment
 

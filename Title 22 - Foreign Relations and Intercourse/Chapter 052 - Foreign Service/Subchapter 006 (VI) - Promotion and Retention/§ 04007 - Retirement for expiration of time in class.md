@@ -50,5 +50,5 @@ Notwithstanding any other provision of this section—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4001, 4002, 4009, 4071d, 4131, 4136, 4153 of this title.
+This section is referred to in sections 4001, 4002, 4009, 4046, 4071d, 4131, 4136, 4153 of this title.
 

@@ -2,7 +2,7 @@
 
 If any person claiming an interest in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter offers to pay the value of such vessel, vehicle, aircraft, merchandise, or baggage, as determined under section 1606 of this title, and it appears that such person has in fact a substantial interest therein, the appropriate customs officer may, subject to the approval of the Secretary of the Treasury if under the customs laws, or the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if under the navigation laws, accept such offer and release the vessel, vehicle, aircraft, merchandise, or baggage seized upon the payment of such value thereof, which shall be distributed in the order provided in section 1613 of this title.
 
-(June 17, 1930, ch. 497, title IV, §614, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Oct. 12, 1984, Pub. L. 98–473, title II, §321, 98 Stat. 2056; Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(12), 98 Stat. 2987.)
+(June 17, 1930, ch. 497, title IV, §614, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(12), Oct. 30, 1984, 98 Stat. 2987.)
 
 #### References in Text
 
@@ -12,7 +12,7 @@ The navigation laws, referred to in text, are classified generally to Title 33, 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42Stat. 987. That section was superseded by section 614 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §614, 42 Stat. 987. That section was superseded by section 614 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision authorizing collectors, subject to the approval of the Secretary of the Treasury, to release seized merchandise on payment of the appraised value when the appraised value did not exceed $1,000, were contained in R.S. §3081, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

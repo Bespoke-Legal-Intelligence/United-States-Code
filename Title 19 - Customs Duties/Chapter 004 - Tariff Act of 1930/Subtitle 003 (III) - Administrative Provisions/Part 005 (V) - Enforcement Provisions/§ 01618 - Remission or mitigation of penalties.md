@@ -2,7 +2,7 @@
 
 Whenever any person interested in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter, or who has incurred, or is alleged to have incurred, any fine or penalty thereunder, files with the Secretary of the Treasury if under the customs laws, and with the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if under the navigation laws, before the sale of such vessel, vehicle, aircraft, merchandise, or baggage a petition for the remission or mitigation of such fine, penalty, or forfeiture, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of Customs, if he finds that such fine, penalty, or forfeiture was incurred without willful negligence or without any intention on the part of the petitioner to defraud the revenue or to violate the law, or finds the existence of such mitigating circumstances as to justify the remission or mitigation of such fine, penalty, or forfeiture, may remit or mitigate the same upon such terms and conditions as he deems reasonable and just, or order discontinuance of any prosecution relating thereto. In order to enable him to ascertain the facts, the Secretary of the Treasury may issue a commission to any customs officer to take testimony upon such petition: <i>Provided</i>, That nothing in this section shall be construed to deprive any person of an award of compensation made before the filing of such petition.
 
-(June 17, 1930, ch. 497, title IV, §618, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 2, 1970, Pub. L. 91–271, title III, §301(hh), 84 Stat. 291; Oct. 12, 1984, Pub. L. 98–473, title II, §321, 98 Stat. 2056; Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(16), 98 Stat. 2988.)
+(June 17, 1930, ch. 497, title IV, §618, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(hh), June 2, 1970, 84 Stat. 291; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(16), Oct. 30, 1984, 98 Stat. 2988.)
 
 #### References in Text
 
@@ -12,7 +12,7 @@ The navigation laws, referred to in text, are classified generally to Title 33, 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §618, 42 Stat. 987. That section was superseded by section 618 of act June 17, 1930, comprising this section, and was repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §618, 42 Stat. 987. That section was superseded by section 618 ofact June 17, 1930, comprising this section, and was repealed by section 651(a)(1) of the 1930 act.
 
 Provisions for a petition to the judge of the district, a summary investigation before the judge or a United States Commissioner, and transmission of the facts appearing thereon, with a certified copy of the evidence, to the Secretary of the Treasury, and provisions authorizing the Secretary to remit fines and penalties, etc., were contained in act June 22, 1874, ch. 391, §§17, 18, 20, 18 Stat. 189, 190, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 

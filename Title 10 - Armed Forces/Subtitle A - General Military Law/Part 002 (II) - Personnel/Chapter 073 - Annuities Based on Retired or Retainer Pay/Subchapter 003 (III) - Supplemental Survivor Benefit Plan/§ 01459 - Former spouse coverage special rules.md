@@ -2,7 +2,7 @@
 
 (a)
 
-Disclosure of Voluntary Written Agreement With Former Spouse.—A person who elects under section 1458 of this title to provide a supplemental spouse annuity for a former spouse shall, at the time of making the election, provide the Secretary concerned with a written statement (in a form to be prescribed by that Secretary and signed by such person and former spouse) setting forth whether the election is being made pursuant to a written agreement previously entered into voluntarily by such person as a part of or incident to a proceeding of divorce, dissolution, or annulment and (if so) whether such voluntary written agreement has been incorporated in, or ratified or approved by, a court order.
+Disclosure of Voluntary Written Agreement With Former Spouse.—A person who elects under section 1458 of this title to provide a supplemental spouse annuity for a former spouse shall, at the time of making the election, provide the Secretary concerned with a writtenstatement (in a form to be prescribed by that Secretary and signed by such person and former spouse) setting forth whether the election is being made pursuant to a written agreement previously entered into voluntarily by such person as a part of or incident to a proceeding of divorce, dissolution, or annulment and (if so) whether such voluntary written agreement has been incorporated in, or ratified or approved by, a court order.
 
 (b)
 

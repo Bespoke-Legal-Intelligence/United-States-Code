@@ -2,7 +2,7 @@
 
 The Department of the Army is authorized and directed to transfer to the Department of the Interior, without reimbursement, two tracts of land, comprising two hundred six acres, more or less, situated on either side of Siege Road adjacent to Petersburg National Battlefield, Virginia. Upon completion of such transfer, all lands, interest in lands, and other property in Federal ownership and under the administration of the National Park Service as a part of or in conjunction with Petersburg National Battlefield, in and about the city of Petersburg, Virginia, and comprising one thousand five hundred thirty-one acres, more or less, upon publication of the description thereof in the Federal Register by the Secretary of the Interior, shall constitute the Petersburg National Battlefield.
 
-(Sept. 7, 1949, ch. 543, §1, 63 Stat. 691; Aug. 24, 1962, Pub. L. 87–603, §1, 76 Stat. 403.)
+(Sept. 7, 1949, ch. 543, §1, 63 Stat. 691; Pub. L. 87–603, §1, Aug. 24, 1962, 76 Stat. 403.)
 
 #### Change of Name
 

@@ -24,7 +24,7 @@ Except as provided in subsection (b) of this section, on the date on which a cou
 
 #### References in Text
 
-This title, referred to in subsec. (a), is title IV of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2129, which enacted this subchapter, amended sections 1502, 1514, 1516a, 1677, and 1677f of this title and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure, enacted provisions set out as a note under section 3431 of this title, and amended provisions set out as a note under section 2112 of this title.
+This title, referred to in subsec. (a), is title IV of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2129, which enacted this subchapter, amended sections 1502, 1514, 1516a, 1677, and 1677f of this title and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure, enactedprovisions set out as a note under section 3431 of this title, and amended provisions set out as a note under section 2112 of this title.
 
 #### Amendments
 

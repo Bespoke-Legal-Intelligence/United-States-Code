@@ -1,0 +1,110 @@
+### §5341. National money laundering and related financial crimes strategy
+
+(a)
+
+Development and Transmittal to Congress.—
+
+&emsp;(1)
+
+Development.—The President, acting through the Secretary and in consultation with the Attorney General, shall develop a national strategy for combating money laundering and related financial crimes.
+
+&emsp;(2)
+
+Transmittal to congress.—By February 1 of 1999, 2000, 2001, 2002, and 2003, the President shall submit a national strategy developed in accordance with paragraph (1) to the Congress.
+
+&emsp;(3)
+
+Separate presentation of classified material.—Any part of the strategy that involves information which is properly classified under criteria established by Executive Order shall be submitted to the Congress separately in classified form.
+
+(b)
+
+Development of Strategy.—The national strategy for combating money laundering and related financial crimes shall address any area the President, acting through the Secretary and in consultation with the Attorney General, considers appropriate, including the following:
+
+&emsp;(1)
+
+Goals, objectives, and priorities.—Comprehensive, research-based goals, objectives, and priorities for reducing money laundering and related financial crime in the United States.
+
+&emsp;(2)
+
+Prevention.—Coordination of regulatory and other efforts to prevent the exploitation of financial systems in the United States for money laundering and related financial crimes, including a requirement that the Secretary shall—
+
+&emsp;&emsp;(A) regularly review enforcement efforts under this subchapter and other provisions of law and, when appropriate, modify existing regulations or prescribe new regulations for purposes of preventing such criminal activity; and
+
+&emsp;&emsp;(B) coordinate prevention efforts and other enforcement action with the Board of Governors of the Federal Reserve System, the Securities and Exchange Commission, the Federal Trade Commission, other Federal banking agencies, the National Credit Union Administration Board, and such other Federal agencies as the Secretary, in consultation with the Attorney General, determines to be appropriate.
+
+&emsp;(3)
+
+Detection and prosecution initiatives.—A description of operational initiatives to improve detection and prosecution of money laundering and related financial crimes and the seizure and forfeiture of proceeds and instrumentalities derived from such crimes.
+
+&emsp;(4)
+
+Enhancement of the role of the private financial sector in prevention.—The enhancement of partnerships between the private financial sector and law enforcement agencies with regard to the prevention and detection of money laundering and related financial crimes, including providing incentives to strengthen internal controls and to adopt on an industrywide basis more effective policies.
+
+&emsp;(5)
+
+Enhancement of intergovernmental cooperation.—The enhancement of—
+
+&emsp;&emsp;(A) cooperative efforts between the Federal Government and State and local officials, including State and local prosecutors and other law enforcement officials; and
+
+&emsp;&emsp;(B) cooperative efforts among the several States and between State and local officials, including State and local prosecutors and other law enforcement officials,
+
+> &emsp;for financial crimes control which could be utilized or should be encouraged.
+
+&emsp;(6)
+
+Project and budget priorities.—A 3-year projection for program and budget priorities and achievable projects for reductions in financial crimes.
+
+&emsp;(7)
+
+Assessment of funding.—A complete assessment of how the proposed budget is intended to implement the strategy and whether the funding levels contained in the proposed budget are sufficient to implement the strategy.
+
+&emsp;(8)
+
+Designated areas.—A description of geographical areas designated as “high-risk money laundering and related financial crime areas” in accordance with, but not limited to, section 5342.
+
+&emsp;(9)
+
+Persons consulted.—Persons or officers consulted by the Secretary pursuant to subsection (d).
+
+&emsp;(10)
+
+Data regarding trends in money laundering and related financial crimes.—The need for additional information necessary for the purpose of developing and analyzing data in order to ascertain financial crime trends.
+
+&emsp;(11)
+
+Improved communications systems.—A plan for enhancing the compatibility of automated information and facilitating access of the Federal Government and State and local governments to timely, accurate, and complete information.
+
+(c)
+
+Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to the Congress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
+
+(d)
+
+Consultations.—In addition to the consultations required under this section with the Attorney General, in developing the national strategy for combating money laundering and related financial crimes, the Secretary shall consult with—
+
+&emsp;(1) the Board of Governors of the Federal Reserve System and other Federal banking agencies and the National Credit Union Administration Board;
+
+&emsp;(2) State and local officials, including State and local prosecutors;
+
+&emsp;(3) the Securities and Exchange Commission;
+
+&emsp;(4) the Commodities and Futures Trading Commission;
+
+&emsp;(5) the Director of the Office of National Drug Control Policy, with respect to money laundering and related financial crimes involving the proceeds of drug trafficking;
+
+&emsp;(6) the Chief of the United States Postal Inspection Service;
+
+&emsp;(7) to the extent appropriate, State and local officials responsible for financial institution and financial market regulation;
+
+&emsp;(8) any other State or local government authority, to the extent appropriate;
+
+&emsp;(9) any other Federal Government authority or instrumentality, to the extent appropriate; and
+
+&emsp;(10) representatives of the private financial services sector, to the extent appropriate.
+
+(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2942.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5342, 5354 of this title.
+

@@ -26,7 +26,7 @@ The term “upstream subsidy” means any countervailable subsidy, other than an
 
 If the administering authority decides, during the course of a countervailing duty proceeding that an upstream countervailable subsidy is being or has been paid or bestowed regarding the subject merchandise, the administering authority shall include in the amount of any countervailing duty imposed on the merchandise an amount equal to the amount of the competitive benefit referred to in subparagraph (1)(B),<sup>1</sup> except that in no event shall the amount be greater than the amount of the countervailable subsidy determined with respect to the upstream product.
 
-(June 17, 1930, ch. 497, title VII, §771A, as added Oct. 30, 1984, Pub. L. 98–573, title VI, §613(a), 98 Stat. 3035; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(10), 100 Stat. 2922; Dec. 8, 1994, Pub. L. 103–465, title II, §§233(a)(5)(GG), 268, 270(a)(1)(K), (L), (2)(B), (c)(3), 108 Stat. 4901, 4916, 4917; Oct. 11, 1996, Pub. L. 104–295, §20(b)(2), 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §771A, as added Pub. L. 98–573, title VI, §613(a), Oct. 30, 1984, 98 Stat. 3035; amended Pub. L. 99–514, title XVIII, §1886(a)(10), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §§233(a)(5)(GG), 268, 270(a)(1)(K), (L), (2)(B), (c)(3), Dec. 8, 1994, 108 Stat. 4901, 4916, 4917; Pub. L. 104–295, §20(b)(2), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 

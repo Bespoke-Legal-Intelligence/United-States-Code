@@ -2,7 +2,7 @@
 
 #### (a) Receipt, administration, and transfer of funds; sponsorship of projects; delegation of authority, etc.
 
-In order to be designated as a Head Start agency under this subchapter, an agency must have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private or local public sources which may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency must also be empowered to transfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers must include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
+In order to be designated as a Head Start agency under this subchapter, an agency must have authority under its charter or applicable law to receive and administer funds under this subchapter, funds and contributions from private or local public sources which may be used in support of a Head Start program, and funds under any Federal or State assistance program pursuant to which a public or private nonprofit or for-profit agency (as the case may be) organized in accordance with this subchapter, could act as grantee, contractor, or sponsor of projects appropriate for inclusion in a Head Start program. Such an agency must also be empowered to transfer funds so received, and to delegate powers to other agencies, subject to the powers of its governing board and its overall program responsibilities. The power to transfer funds and delegate powers must include the power to make transfers and delegations covering component projects in all cases where this will contribute to efficiency and effectiveness or otherwise further program objectives.
 
 #### (b) Participation of parents in decisionmaking, implementation, etc.
 
@@ -18,7 +18,9 @@ In order to be so designated, a Head Start agency shall also—
 
 &emsp;(5) offer (directly or through referral to local entities, such as entities carrying out Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.)), to parents of participating children, family literacy services and parenting skills training;
 
-&emsp;(6) at the option of such agency, offer (directly or through referral to local entities), to such parents—
+&emsp;(6) offer to parents of participating children substance abuse counseling (either directly or through referral to local entities), including information on drug-exposed infants and fetal alcohol syndrome;
+
+&emsp;(7) at the option of such agency, offer (directly or through referral to local entities), to such parents—
 
 &emsp;&emsp;(A) training in basic child development;
 
@@ -26,43 +28,35 @@ In order to be so designated, a Head Start agency shall also—
 
 &emsp;&emsp;(C) opportunities to share experiences with other parents;
 
-&emsp;&emsp;(D) substance abuse counseling;
+&emsp;&emsp;(D) regular in-home visitation; or
 
-&emsp;&emsp;(E) regular in-home visitation; or
+&emsp;&emsp;(E) any other activity designed to help such parents become full partners in the education of their children;
 
-&emsp;&emsp;(F) any other activity designed to help such parents become full partners in the education of their children;
+&emsp;(8) provide, with respect to each participating family, a family needs assessment that includes consultation with such parents about the benefits of parent involvement and about the activities described in paragraphs (4) through (7) in which such parents may choose to be involved (taking into consideration their specific family needs, work schedules, and other responsibilities);
 
-&emsp;(7) provide, with respect to each participating family, a family needs assessment that includes consultation with such parents about the benefits of parent involvement and about the activities described in paragraphs (4) through (6) in which such parents may choose to be involved (taking into consideration their specific family needs, work schedules, and other responsibilities);
+&emsp;(9) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources;
 
-&emsp;(8) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources; and
+&emsp;(10) perform community outreach to encourage individuals previously unaffiliated with Head Start programs to participate in its Head Start program as volunteers; and
 
-&emsp;(9) perform community outreach to encourage individuals previously unaffiliated with Head Start programs to participate in its Head Start program as volunteers.
+&emsp;(11)(A) inform custodial parents in single-parent families that participate in programs, activities, or services carried out or provided under this subchapter about the availability of child support services for purposes of establishing paternity and acquiring child support; and
+
+&emsp;(B) refer eligible parents to the child support offices of State and local governments.
 
 #### (c) Coordination with other agencies
 
-The head of each Head Start agency shall coordinate with the State agency responsible for administering section 602(g) <sup>1</sup> of this title, and other programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.), serving the children and families served by the Head Start agency to carry out the provisions of this subchapter.
+The head of each Head Start agency shall coordinate and collaborate with the State agency responsible for administering the State program carried out under subchapter II–B of this chapter, and other early childhood education and development programs, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 <sup>1</sup> (20 U.S.C. 2741 et seq.) and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419), serving the children and families served by the Head Start agency to carry out the provisions of this subchapter.
 
 #### (d) Transition coordination with schools
 
-(1) Each Head Start agency shall carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain the developmental gains achieved in Head Start programs and to build upon such gains in further schooling.
+(1) Each Head Start agency shall take steps to ensure, to the maximum extent possible, that children maintain the developmental and educational gains achieved in Head Start programs and build upon such gains in further schooling.
 
-(2) The Head Start agency shall take steps to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, including—
-
-&emsp;(A) developing and implementing a systematic procedure for transferring, with parental consent, Head Start program records for each participating child to the school in which such child will enroll;
-
-&emsp;(B) establishing channels of communication between Head Start staff and their counterparts in the schools (including teachers, social workers, and health staff) to facilitate coordination of programs;
-
-&emsp;(C) conducting meetings involving parents, kindergarten or elementary school teachers, and Head Start program teachers to discuss the developmental and other needs of individual children; and
-
-&emsp;(D) organizing and participating in joint transition-related training of school staff and Head Start staff.
-
-(3) A Head Start agency may take steps to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, including—
+(2) A Head Start agency may take steps to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, including—
 
 &emsp;(A) collaborating on the shared use of transportation and facilities; and
 
 &emsp;(B) exchanging information on the provision of noneducational services to such children.
 
-(4) In order to promote the continued involvement of the parents of children that participate in Head Start programs in the education of their children upon transition to school, the Head Start agency shall—
+(3) In order to promote the continued involvement of the parents of children that participate in Head Start programs in the education of their children upon transition to school, the Head Start agency shall—
 
 &emsp;(A) provide training to the parents—
 
@@ -72,25 +66,61 @@ The head of each Head Start agency shall coordinate with the State agency respon
 
 &emsp;(B) take other actions, as appropriate and feasible, to support the active involvement of the parents with schools, school personnel, and school-related organizations.
 
-(5) The Secretary, in cooperation with the Secretary of Education, shall—
+(4) The Secretary, in cooperation with the Secretary of Education, shall—
 
-&emsp;(A) evaluate the effectiveness of the projects and activities funded under the Head Start Transition Project Act (42 U.S.C. 9855 et seq.);
+&emsp;(A) evaluate the effectiveness of the projects and activities funded under section 9837a of this title;
 
 &emsp;(B) disseminate to Head Start agencies information (including information from the evaluation required by subparagraph (A)) on effective policies and activities relating to the transition of children from Head Start programs to public schools; and
 
 &emsp;(C) provide technical assistance to such agencies to promote and assist such agencies to adopt and implement such effective policies and activities.
 
-(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634.)
+#### (e) Assessment when hiring or evaluating classroom teachers
+
+Head Start agencies shall adopt, in consultation with experts in child development and with classroom teachers, an assessment to be used when hiring or evaluating any classroom teacher in a center-based Head Start program. Such assessment shall measure whether such teacher has mastered the functions described in section 9843a(a)(1) of this title.
+
+(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634; Pub. L. 105–285, title I, §109, Oct. 27, 1998, 112 Stat. 2716.)
 
 #### References in Text
 
 Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(5) and (c), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6361 et seq. of Title 20.
 
-Section 602 of this title, referred to in subsec. (c), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, section 602 does not contain a subsec. (g).
-
-The Head Start Transition Project Act, referred to in subsec. (d)(5)(A), is subtitle B (§§131–140) of title I of Pub. L. 101–501, Nov. 3, 1990, 104 Stat. 1238, which is classified generally to subchapter II–A (§9855 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 9801 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–285, §109(1), inserted “or for-profit” after “nonprofit”.
+
+Subsec. (b)(6). Pub. L. 105–285, §109(2)(E), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (b)(6)(D) to (F). Pub. L. 105–285, §109(2)(A), struck out subpar. (D) which read as follows: “substance abuse counseling;” and further directed the amendment of par. (6) “by redesignating subparagraphs (E) and (F) and subparagraphs (D) and (E), respectively”, which was executed by redesignating subpars. (E) and (F) as (D) and (E), respectively, to reflect the probable intent of Congress.
+
+Subsec. (b)(7). Pub. L. 105–285, §109(2)(D), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (b)(8). Pub. L. 105–285, §109(2)(D), (F), redesignated par. (7) as (8) and substituted “paragraphs (4) through (7)” for “paragraphs (4) through (6)”. Former par. (8) redesignated (9).
+
+Pub. L. 105–285, §109(2)(B), struck out “and” at end.
+
+Subsec. (b)(9). Pub. L. 105–285, §109(2)(D), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Pub. L. 105–285, §109(2)(C), substituted “; and” for period at end.
+
+Subsec. (b)(10). Pub. L. 105–285, §109(2)(D), redesignated par. (9) as (10).
+
+Subsec. (b)(11). Pub. L. 105–285, §109(2)(G), added par. (11).
+
+Subsec. (c). Pub. L. 105–285, §109(3), inserted “and collaborate” after “shall coordinate” and “and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C. 1431–1445, 1419)” after “(20 U.S.C. 2741 et seq.)” and substituted “the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), and other early childhood education and development” for “section 602(g) of this title, and other”.
+
+Subsec. (d)(1). Pub. L. 105–285, §109(4)(A), substituted “take steps to ensure, to the maximum extent possible, that children maintain” for “carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain” and “build” for “to build” and inserted “and educational” after “developmental”.
+
+Subsec. (d)(2), (3). Pub. L. 105–285, §109(4)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to coordination between Head Start agency and local education agency and schools.
+
+Subsec. (d)(4). Pub. L. 105–285, §109(4)(C), redesignated par. (5) as (4). Former par. (4) redesignated (3).
+
+Subsec. (d)(4)(A). Pub. L. 105–285, §109(4)(D), substituted “section 9837a of this title” for “the Head Start Transition Project Act (42 U.S.C. 9855 et seq.)”.
+
+Subsec. (d)(5). Pub. L. 105–285, §109(4)(C), redesignated par. (5) as (4).
+
+Subsec. (e). Pub. L. 105–285, §109(5), added subsec. (e).
 
 1994—Subsec. (b). Pub. L. 103–252, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In order to be so designated, a Head Start agency must also (1) establish effective procedures by which parents and area residents concerned will be enabled to directly participate in decisions that influence the character of programs affecting their interests; (2) provide for their regular participation in the implementation of such programs; (3) provide technical and other support needed to enable parents and area residents to secure on their own behalf available assistance from public and private sources; (4) involve parents of children participating in its Head Start program in appropriate educational services (in accordance with the performance standards in effect upon section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential; (5) establish procedures to seek reimbursement, to the extent feasible, from other agencies for services for which any such other agency is responsible, which are provided to a Head Start participant by the Head Start agency; (6) provide (directly or through referral to educational services available in the community) parents of children participating in its Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and (7) consider providing services to assist younger siblings of children participating in its Head Start program to obtain health services from other sources.”
 
@@ -126,7 +156,7 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9834, 9836, 9836a of this title.
+This section is referred to in sections 9836, 9836a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

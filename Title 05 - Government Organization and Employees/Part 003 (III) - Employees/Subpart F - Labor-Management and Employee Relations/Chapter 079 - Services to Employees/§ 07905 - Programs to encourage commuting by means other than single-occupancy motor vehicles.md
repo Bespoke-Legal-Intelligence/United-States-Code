@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the judicial branch;
 
-&emsp;(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), theCapitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
+&emsp;(3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
 
 &emsp;(4) the term “transit pass” means a transit pass as defined by section 132(f)(5) of the Internal Revenue Code of 1986.
 
@@ -58,13 +58,17 @@
 
 Section 132(f)(5) of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to section 132(f)(5) of Title 26, Internal Revenue Code.
 
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date
 
 Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
+
+#### Transit Subsidies; Appropriations
+
+Pub. L. 105–277, div. A, title I, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, forthe National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 105–78, title II, §210, Nov. 13, 1997, 111 Stat. 1489.
 
 #### Purpose of Pub. L. 103–172
 

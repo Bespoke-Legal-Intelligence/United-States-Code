@@ -12,7 +12,7 @@ The Secretary may contract with any person, agency, or institution to secure on 
 
 In the course of any hearing, investigation, or other proceeding that he is authorized to conduct under this subchapter, the Secretary may administer oaths and affirmations.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 332; amended July 30, 1965, Pub. L. 89–97, title I, §111(a), 79 Stat. 340; Oct. 30, 1972, Pub. L. 92–603, title II, §289, 86 Stat. 1457; Oct. 16, 1974, Pub. L. 93–445, title III, §310, 88 Stat. 1359.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359.)
 
 #### References in Text
 

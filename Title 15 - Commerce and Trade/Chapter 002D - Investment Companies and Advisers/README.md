@@ -177,12 +177,12 @@
 | (b) | Semi-annual or quarterly filing of information; copies of periodic or interim reports sent to security holders. |
 | (c) | Minimizing reporting burdens. |
 | (d) | Reports under this section in lieu of reports under other provisions of law. |
-| (e) | Semi-annual reports to stockholders. |
+| (e) | Semiannual reports to stockholders. |
 | (f) | Additional information. |
 | (g) | Certificate of independent public accountants. |
 | (h) | Duties and liabilities of affiliated persons. |
-| (g) | Disclosure to church plan participants. |
-| (h) | Notice to Commission. |
+| (i) | Disclosure to church plan participants. |
+| (j) | Notice to Commission. |
 | 80a–30. | Accounts and records. |
 | (a) | Maintenance of records. |
 | (b) | Examinations of records. |

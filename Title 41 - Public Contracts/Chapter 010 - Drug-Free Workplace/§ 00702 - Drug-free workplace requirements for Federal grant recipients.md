@@ -40,7 +40,7 @@
 
 #### (1) Grounds for suspension, termination, or debarment
 
-&emsp;Each grant awarded by a Federal agency shall be subject to suspension of paymentsunder the grant or termination of the grant, or both, and the grantee thereunder shall be subject to suspension or debarment, in accordance with the requirements of this section if the agency head of the granting agency or his official designee determines, in writing, that—
+&emsp;Each grant awarded by a Federal agency shall be subject to suspension of payments under the grant or termination of the grant, or both, and the grantee thereunder shall be subject to suspension or debarment, in accordance with the requirements of this section if the agency head of the granting agency or his official designee determines, in writing, that—
 
 &emsp;&emsp;(A) the grantee violates the requirements of subparagraph (A), (B), (C), (D), (E), (F), or (G) of subsection (a)(1) of this section; or
 

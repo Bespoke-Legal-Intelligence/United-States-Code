@@ -12,7 +12,7 @@ If for reasons beyond the control of a producer on a farm, the producer is unabl
 
 The Secretary, after such notice as the Secretary by regulation may prescribe, may revise or amend any allocation of a marketing allotment under section 1359dd of this title, or any proportionate share established for a farm under section 1359ff of this title, on the same basis as the initial allocation or proportionate share was required to be established.
 
-(Feb. 16, 1938, ch. 30, title III, §359g, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3486; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(i), 105 Stat. 1835.)
+(Feb. 16, 1938, ch. 30, title III, §359g, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, §111(i), Dec. 13, 1991, 105 Stat. 1835.)
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 102–237, §111(i)(2), struck out “hearing and” before
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(E) of this title.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(10) the name of the watershed and location of the surface stream or tributary into which surface and pit drainage will be discharged;
 
-&emsp;(11) a determination of the probable hydrologic consequences of the mining and reclamation operations, both on and off the mine site,with respect to the hydrologic regime, quantity and quality of water in surface and ground water systems including the dissolved and suspended solids under seasonal flow conditions and the collection of sufficient data for the mine site and surrounding areas so that an assessment can be made by the regulatory authority of the probable cumulative impacts of all anticipated mining in the area upon the hydrology of the area and particularly upon water availability: <i>Provided, however</i>, That this determination shall not be required until such time as hydrologic information on the general area prior to mining is made available from an appropriate Federal or State agency: <i>Provided further</i>, That the permit shall not be approved until such information is available and is incorporated into the application;
+&emsp;(11) a determination of the probable hydrologic consequences of the mining and reclamation operations, both on and off the mine site, with respect to the hydrologic regime, quantity and quality of water in surface and ground water systems including the dissolved and suspended solids under seasonal flow conditions and the collection of sufficient data for the mine site and surrounding areas so that an assessment can be made by the regulatory authority of the probable cumulative impacts of all anticipated mining in the area upon the hydrology of the area and particularly upon water availability: <i>Provided, however</i>, That this determination shall not be required until such time as hydrologic information on the general area prior to mining is made available from an appropriate Federal or State agency: <i>Provided further</i>, That the permit shall not be approved until such information is available and is incorporated into the application;
 
 &emsp;(12) when requested by the regulatory authority, the climatological factors that are peculiar to the locality of the land to be affected, including the average seasonal precipitation, the average direction and velocity of prevailing winds, and the seasonal temperature ranges;
 
@@ -56,7 +56,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(E) Pre-blast surveys required by section 1265(b)(15)(E) of this title.
 
-&emsp;(F) The collection of site-specific resource information and production of protection andenhancement plans for fish and wildlife habitats and other environmental values required by the regulatory authority under this chapter.
+&emsp;(F) The collection of site-specific resource information and production of protection and enhancement plans for fish and wildlife habitats and other environmental values required by the regulatory authority under this chapter.
 
 (2) The Secretary shall provide or assume the cost of training coal operators that meet the qualifications stated in paragraph (1) concerning the preparation of permit applications and compliance with the regulatory program, and shall ensure that qualified coal operators are aware of the assistance available under this subsection.
 

@@ -12,15 +12,15 @@ Except as otherwise provided, the procedure for consideration of alleged violati
 
 &emsp;&emsp;(B) a civil action in a district court of the United States as provided in section 1408 of this title.
 
-> In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under section 1402 of this title,may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee's grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
+> In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under section 1402 of this title, may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee's grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
 
 (Pub. L. 104–1, title IV, §401, Jan. 23, 1995, 109 Stat. 32.)
 
 #### References in Text
 
-Part A of subchapter II of this chapter, referred to in text, was in the original “part A of title II”, meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which enacted part A of subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II of this chapter, referred to in text, was in the original “part A of title II”, meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, as amended, which enacted part A of subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of part A to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1414 of this title.
+This section is referred to in sections 1316a, 1414 of this title.
 

@@ -161,7 +161,7 @@ Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, adde
 
 1989—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 
-1988—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29,1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
+1988—Pub. L. 100–456, div. A, title III, §§342(a)(2), 344(b)(2), title VIII, §821(b)(2), title XI, §1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
 
 Pub. L. 100–370, §§1(c)(3), (e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 841, 845, 854, 855, added items for chapters 54, 134, 146, and 148.
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants for treatment improvement
 
-The Director of the Center for Substance Abuse Treatment shall provide grants to public and nonprofit private entities for the purpose of establishing demonstration projects that will improve the provision of treatment services for substance abuse.
+The Director of the Center for Substance Abuse Treatment shall provide grants to publicand nonprofit private entities for the purpose of establishing demonstration projects that will improve the provision of treatment services for substance abuse.
 
 #### (b) Nature of projects
 
@@ -52,7 +52,7 @@ The period during which payments are made under a grant under subsection (a) of 
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Director of the Treatment Center shall reserve not less than 5 percent for carrying out projects described in subsections (b)(2) and (b)(3) of this section.
 
-(July 1, 1944, ch. 373, title V, §510, as added July 10, 1992, Pub. L. 102–321, title I, §109, 106 Stat. 342.)
+(July 1, 1944, ch. 373, title V, §510, as added Pub. L. 102–321, title I, §109, July 10, 1992, 106 Stat. 342.)
 
 #### References in Text
 

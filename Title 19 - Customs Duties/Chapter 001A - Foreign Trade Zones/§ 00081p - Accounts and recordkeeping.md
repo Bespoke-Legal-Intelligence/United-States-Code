@@ -12,7 +12,7 @@ Each grantee shall make to the Board annually, and at such other times as it may
 
 The Board shall make a report to Congress annually containing a summary of zone operations.
 
-(June 18, 1934, ch. 590, §16, 48 Stat. 1002; Dec. 28, 1980, Pub. L. 96–609, title II, §204, 94 Stat. 3561; Aug. 22, 1986, Pub. L. 99–386, title II, §203(b), 100 Stat. 823.)
+(June 18, 1934, ch. 590, §16, 48 Stat. 1002; Pub. L. 96–609, title II, §204, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 99–386, title II, §203(b), Aug. 22, 1986, 100 Stat. 823.)
 
 #### Amendments
 

@@ -1,12 +1,12 @@
 ### §70119. Authorization of appropriations
 
-The following amounts may be appropriated to the Secretary of Transportation for the fiscal year ending September 30, 1993:
+There are authorized to be appropriated to the Secretary of Transportation for the activities of the Office of the Associate Administrator for Commercial Space Transportation—
 
-&emsp;(1) $4,900,000 to carry out this chapter.
+&emsp;(1) $6,275,000 for the fiscal year ending September 30, 1999; and
 
-&emsp;(2) $20,000,000 for a program to ensure the resiliency of the space launch infrastructure of the United States if a law is enacted to establish that program in the Department of Transportation.
+&emsp;(2) $6,600,000 for the fiscal year ending September 30, 2000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1343.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1343; Pub. L. 105–303, title I, §102(b), Oct. 28, 1998, 112 Stat. 2851.)
 
 Historical and Revision Notes
 
@@ -27,4 +27,12 @@ Oct. 30, 1984, Pub. L. 98–575, §24 (less last sentence), 98 Stat. 3064; Dec. 
 In this section, the amendment by section 211 of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1993 (Pub. L. 102–588, 106 Stat. 5115) was executed to carry out the probable intent of Congress by omitting the period after “1993”.
 
 As to the applicability of section 219 of the Act (Pub. L. 102–588, 106 Stat. 5118) to amounts authorized by this section for fiscal year 1993, see section 6(b) of the bill.
+
+#### Amendments
+
+1998—Pub. L. 105–303 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The following amounts may be appropriated to the Secretary of Transportation for the fiscal year ending September 30, 1993:
+
+&emsp;“(1) $4,900,000 to carry out this chapter.
+
+&emsp;“(2) $20,000,000 for a program to ensure the resiliency of the space launch infrastructure of the United States if a law is enacted to establish that program in the Department of Transportation.”
 

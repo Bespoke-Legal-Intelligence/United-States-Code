@@ -10,9 +10,15 @@ For each independent student with dependents other than a spouse, the expected f
 
 &emsp;&emsp;(B) the family's contribution from assets (determined in accordance with subsection (c) of this section);
 
-&emsp;(2) assessing such adjusted available income in accordance with an assessment schedule set forth in subsection (d) of this section; and
+&emsp;(2) assessing such adjusted available income in accordance with an assessment schedule set forth in subsection (d) of this section;
 
-&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of family members who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of family members who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested; and
+
+&emsp;(4) for periods of enrollment of less than 9 months, for purposes other than subpart 2 of part A of this subchapter—
+
+&emsp;&emsp;(A) dividing the quotient resulting under paragraph (3) by 9; and
+
+&emsp;&emsp;(B) multiplying the result by the number of months in the period of enrollment;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -62,7 +68,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (3) Allowance for social security taxes
 
-&emsp;The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
+&emsp;The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rateappropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
 
 #### (4) Income protection allowance
 
@@ -198,9 +204,11 @@ Assessment From Adjusted Available Income (AAI)
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.
 
-(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524.)
+(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730.)
 
 #### Amendments
+
+1998—Subsec. (a)(4). Pub. L. 105–244 added par. (4).
 
 1997—Subsec. (b)(1)(F). Pub. L. 105–78 added subpar. (F).
 
@@ -238,9 +246,13 @@ Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted “$16,000” for “$
 
 Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted “section 1087rr of this title” for “section 1087ss of this title” in text and inserted a minus sign before “$3,409” in two places in table.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

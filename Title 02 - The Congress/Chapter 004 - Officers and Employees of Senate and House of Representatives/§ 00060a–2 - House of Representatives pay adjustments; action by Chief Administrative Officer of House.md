@@ -1,6 +1,6 @@
 ### §60a–2. House of Representatives pay adjustments; action by Chief Administrative Officer of House
 
-(a) Whenever an adjustment under section 5303 of title 5 becomes effective with respect to ratesof pay under the General Schedule, the Chief Administrative Officer of the House of Representatives, in such manner as he considers advisable—
+(a) Whenever an adjustment under section 5303 of title 5 becomes effective with respect to rates of pay under the General Schedule, the Chief Administrative Officer of the House of Representatives, in such manner as he considers advisable—
 
 &emsp;(1) effective on the first day of the month in which such pay adjustment by the President is made effective as described above, shall adjust—
 

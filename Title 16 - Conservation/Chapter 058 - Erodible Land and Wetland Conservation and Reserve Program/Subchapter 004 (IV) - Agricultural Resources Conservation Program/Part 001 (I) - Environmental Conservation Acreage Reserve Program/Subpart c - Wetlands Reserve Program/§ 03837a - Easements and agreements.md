@@ -18,7 +18,7 @@ An owner granting an easement under subsection (a) of this section shall be requ
 
 &emsp;(1) permits—
 
-&emsp;&emsp;(A) repairs, improvements, and inspections on such land that are necessary to maintainexisting public drainage systems if such land is subsequently restored to the condition required by the terms of the easement; and
+&emsp;&emsp;(A) repairs, improvements, and inspections on such land that are necessary to maintain existing public drainage systems if such land is subsequently restored to the condition required by the terms of the easement; and
 
 &emsp;&emsp;(B) landowners to control public access on the easement areas while identifying access routes to be used for wetland restoration activities and management and easement monitoring;
 

@@ -52,7 +52,7 @@ The Secretaries may not provide an implementation grant under section 6142 of th
 
 &emsp;&emsp;(B) establishing consortia of employers to support the School-to-Work Opportunities program and provide access to jobs related to the career majors of students;
 
-&emsp;&emsp;(C) supporting or establishing intermediaries (selected from among the members of the local partnership) to perform the activities described in section 6114 of this title and to provide assistance to students orschool dropouts in obtaining jobs and further education and training;
+&emsp;&emsp;(C) supporting or establishing intermediaries (selected from among the members of the local partnership) to perform the activities described in section 6114 of this title and to provide assistance to students or school dropouts in obtaining jobs and further education and training;
 
 &emsp;&emsp;(D) designing or adapting school curricula that can be used to integrate academic, vocational, and occupational learning, school-based and work-based learning, and secondary and postsecondary education for all students in the area served;
 
@@ -118,7 +118,7 @@ In carrying out the statewide School-to-Work Opportunities system, the State may
 
 &emsp;(6) design or adapt model work-based learning programs and identify best practices for such programs;
 
-&emsp;(7) conduct outreach activities and provide technical assistance to other States that aredeveloping or implementing School-to-Work Opportunities systems;
+&emsp;(7) conduct outreach activities and provide technical assistance to other States that are developing or implementing School-to-Work Opportunities systems;
 
 &emsp;(8) reorganize and streamline school-to-work programs in the State to facilitate the development of a comprehensive statewide School-to-Work Opportunities system;
 

@@ -1,6 +1,0 @@
-### §3701. Recognition as corporation and grant of Federal charter
-
-The Daughters of Union Veterans of the Civil War 1861–1865, a nonprofit corporation organized under the laws of the State of Ohio, is recognized as such and is granted a Federal charter.
-
-(Pub. L. 99–172, §1, Dec. 9, 1985, 99 Stat. 1020.)
-

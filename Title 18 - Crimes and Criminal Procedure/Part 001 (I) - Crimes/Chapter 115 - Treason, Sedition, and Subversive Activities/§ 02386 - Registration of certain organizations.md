@@ -88,7 +88,7 @@ All statements filed under this section shall be public records and open to publ
 
 Whoever in a statement filed pursuant to this section willfully makes any false statement or willfully omits to state any fact which is required to be stated, or which is necessary to make the statements made not misleading, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 808; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), (L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 808; Pub. L. 103–322, title XXXIII, §330016(1)(I), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -11,7 +11,7 @@
 | [505\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000505%20-%20Arrangements%20and%20public%20records.md) | Arrangements and public records. |
 | [506\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000506%20-%20Authority%20to%20investigate.md) | Authority to investigate. |
 | [507\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000507%20-%20Enforcement.md) | Enforcement. |
-| \[508. | Repealed.\] |
+| [508\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000508%20-%20Safety%20performance%20history%20of%20new%20drivers%3B%20limitation%20on%20liability.md) | Safety performance history of new drivers; limitation on liability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–178, title IV, §4014(a)(2), June 9, 1998, 112 Stat. 411, added item 508.
 
 1997—Pub. L. 105–102, §2(1), Nov. 20, 1997, 111 Stat. 2204, struck out “DUTIES AND” before “POWERS” in item for heading of subchapter I.
 

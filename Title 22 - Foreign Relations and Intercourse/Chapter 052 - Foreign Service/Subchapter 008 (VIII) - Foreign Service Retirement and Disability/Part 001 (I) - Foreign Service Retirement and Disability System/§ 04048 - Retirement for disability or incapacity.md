@@ -62,7 +62,7 @@ Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Or
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4047, 4056, 4071h of this title; title 26 section 104.
+This section is referred to in sections 4046, 4047, 4056, 4071h of this title; title 26 section 104.
 
 <i><sup>1</sup></i><i> So in original. Probably should be chapter “81”.</i>
 

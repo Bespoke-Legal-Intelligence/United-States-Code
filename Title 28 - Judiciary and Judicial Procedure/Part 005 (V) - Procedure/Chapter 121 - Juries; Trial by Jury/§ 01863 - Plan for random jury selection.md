@@ -26,7 +26,7 @@
 
 (d) State, local, and Federal officials having custody, possession, or control of voter registration lists, lists of actual voters, or other appropriate records shall make such lists and records available to the jury commission or clerks for inspection, reproduction, and copying at all reasonable times as the commission or clerk may deem necessary and proper for the performance of duties under this title. The district courts shall have jurisdiction upon application by the Attorney General of the United States to compel compliance with this subsection by appropriate process.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 92–269, §2, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §2(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §802(b), (c), Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 102–572, title IV, §401, Oct. 29, 1992, 106 Stat. 4511.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 92–269, §2,Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §2(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §802(b), (c), Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 102–572, title IV, §401, Oct. 29, 1992, 106 Stat. 4511.)
 
 #### Historical and Revision Notes
 
@@ -46,17 +46,17 @@ The date of enactment of the Jury Selection and Service Act of 1968, referred to
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–572 inserted at end “The plan for the district of Massachusetts may require the names of prospective jurors to be selected from the resident list provided for in chapter 234A, Massachusetts General Laws, or comparable authority, rather than from voter lists.”
+1992—Subsec. (b)(2). Pub. L. 102–572 inserted at end “The plan for the district of Massachusetts may require the names of prospective jurors to be selected from the resident list provided for in chapter 234A, Massachusetts General Laws, or comparable authority, rather than from voter lists.”
 
-<b>1988</b>—Subsec. (b)(5). Pub. L. 100–702, §802(b), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),”, and added subpar. (B).
+1988—Subsec. (b)(5). Pub. L. 100–702, §802(b), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),”, and added subpar. (B).
 
 Subsec. (b)(6). Pub. L. 100–702, §802(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “specify those groups of persons or occupational classes whose members shall be barred from jury service on the ground that they are exempt. Such groups or classes shall be exempt only if the district court finds, and the plan states, that their exemption is in the public interest and would not be inconsistent with sections 1861 and 1862 of this title. The plan shall provide for exemption of the following persons: (i) members in active service in the Armed Forces of the United States; (ii) members of the fire or police departments of any State, district, territory, possession, or subdivision thereof; (iii) public officers in the executive, legislative, or judicial branches of the Government of the United States, or any State, district, territory, or possession or subdivision thereof, who are actively engaged in the performance of official duties.”
 
-<b>1978</b>—Subsec. (b)(7) to (9). Pub. L. 95–572 struck out par. (7) relating to random jury selection plan provision for fixing the distance, in miles or in travel time, from each place of holding court beyond which prospective jurors residing should, on individual request, be excused from jury service on the ground of undue hardship in traveling to the place where court was held, now incorporated in definition of “undue hardship or extreme inconvenience” in section 1869(j) of this title, and redesignated pars. (8) and (9) as (7) and (8), respectively.
+1978—Subsec. (b)(7) to (9). Pub. L. 95–572 struck out par. (7) relating to random jury selection plan provision for fixing the distance, in miles or in travel time, from each place of holding court beyond which prospective jurors residing should, on individual request, be excused from jury service on the ground of undue hardship in traveling to the place where court was held, now incorporated in definition of “undue hardship or extreme inconvenience” in section 1869(j) of this title, and redesignated pars. (8) and (9) as (7) and (8), respectively.
 
-<b>1972</b>—Subsec. (b)(4). Pub. L. 92–269 inserted provisions requiring the master jury wheel to be emptied and refilled in not greater than four years intervals.
+1972—Subsec. (b)(4). Pub. L. 92–269 inserted provisions requiring the master jury wheel to be emptied and refilled in not greater than four years intervals.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–274 substituted provisions requiring a written plan covering the random selection of jurors by each United States District Court and the adoption, review, and modification of the plan for provisions authorizing district judges to exclude or excuse for good cause persons called as jurors.
+1968—Subsec. (a). Pub. L. 90–274 substituted provisions requiring a written plan covering the random selection of jurors by each United States District Court and the adoption, review, and modification of the plan for provisions authorizing district judges to exclude or excuse for good cause persons called as jurors.
 
 Subsec. (b). Pub. L. 90–274 substituted provisions setting out the nine required features of a plan for random jury selection, including management by commission or clerk, selection from voter registration lists, detailed procedures for selecting names, a master jury wheel, excused or exempted groups, maximum distances of travel, disclosure of names, and procedures for assigning jurors drawn from the jury wheel to particular grand and petit jury panels, for provisions authorizing the district court to excuse, for the public interests, classes or groups upon a finding that such jury service would entail undue hardship, extreme inconvenience, or serious obstruction or delay in the fair and impartial administration of justice.
 

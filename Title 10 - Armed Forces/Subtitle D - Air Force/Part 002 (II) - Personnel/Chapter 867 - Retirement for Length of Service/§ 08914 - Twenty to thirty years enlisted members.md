@@ -2,7 +2,7 @@
 
 Under regulations to be prescribed by the Secretary of the Air Force, an enlisted member of the Air Force who has at least 20, but less than 30, years of service computed under section 8925 of this title may, upon his request, be retired.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 550; Sept. 8, 1980, Pub. L. 96–343, §9(b)(1), 94 Stat. 1128; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §515(b), 108 Stat. 2753.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 550; Pub. L. 96–343, §9(b)(1), Sept. 8, 1980, 94 Stat. 1128; Pub. L. 103–337, div. A, title V, §515(b), Oct. 5, 1994, 108 Stat. 2753.)
 
 Historical and Revision Notes
 
@@ -34,11 +34,11 @@ The words “now or hereafter”, in 10:948a, are omitted as surplusage. The wor
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–343 effective with respect to retired pay payable for months beginning after Sept. 8, 1980, see section 9(c) of Pub. L. 96–343, set out as a note under section 3914 of this title.
+Amendment by Pub. L. 96–343 effective with respect to retired pay payable for months beginning after Sept.8, 1980, see section 9(c) of Pub. L. 96–343, set out as a note under section 3914 of this title.
 
 #### Temporary Early Retirement Authority
 
-For provisions authorizing the Secretary of the Air Force, during the period beginning Oct. 23, 1992, andending Oct. 1, 1995, to apply this section to an enlisted member with at least 15 but less than 20 years of service by substituting “at least 15” for “at least 20”, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+For provisions authorizing the Secretary of the Air Force, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an enlisted member with at least 15 but less than 20 years of service by substituting “at least 15” for “at least 20”, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -29,7 +29,7 @@ Bilateral treaties of Friendship, Commerce and Navigation contain provisions for
 | <i>Country</i> | <i>Date signed</i> | <i>Entered into force</i> | <i>Citation</i> |
 | :--- | :---: | :---: | ---: |
 | Argentina | July 27, 1853 | Dec. 20, 1854 | 10 Stat. 1005 |
-| AustriaDJune 19, 1928DMay 27, 1931D47 Stat. 1876 |  |  |  |
+| Austria DJune 19, 1928 DMay 27, 1931 D47 Stat. 1876 |  |  |  |
 | &nbsp; | Jan. 20, 1931 | May 27, 1931 | 47 Stat. 1899 |
 | Belgium | Feb. 21, 1961 | Oct. 3, 1963 | 14 UST 1284 |
 | Bolivia | May 13, 1858 | Nov. 9, 1862 | 12 Stat. 1003 |
@@ -38,12 +38,12 @@ Bilateral treaties of Friendship, Commerce and Navigation contain provisions for
 | Costa Rica | July 10, 1851 | May 26, 1852 | 10 Stat. 916 |
 | Denmark | Oct. 1, 1951 | July 30, 1961 | 12 UST 908 |
 | Estonia | Dec. 23, 1925 | May 22, 1926 | 44 Stat. 2379 |
-| EthiopiaDSept. 7, 1951DOct. 8, 1953D4 UST 2134 |  |  |  |
+| Ethiopia DSept. 7, 1951 DOct. 8, 1953 D4 UST 2134 |  |  |  |
 | &nbsp; | Sept. 16, 1965 | May 3, 1973 | 24 UST 2136 |
 | &nbsp; | Oct. 20, 1972 | &nbsp; | &nbsp; |
-| FinlandDFeb. 13, 1934DAug. 10, 1934D49 Stat. 2659 |  |  |  |
+| Finland DFeb. 13, 1934 DAug. 10, 1934 D49 Stat. 2659 |  |  |  |
 | &nbsp; | Dec. 4, 1952 | Sept. 24, 1953 | 4 UST 2047 |
-| FranceDJune 24, 1822DFeb. 12, 1823D8 Stat. 278 |  |  |  |
+| France DJune 24, 1822 DFeb. 12, 1823 D8 Stat. 278 |  |  |  |
 | &nbsp; | July 17, 1919 | Jan. 10, 1921 | 41 Stat. 1723 |
 | &nbsp; | Nov. 25, 1959 | Dec. 21, 1960 | 11 UST 2398 |
 | Germany, Federal Republic of | Oct. 29, 1954 | July 14, 1956 | 7 UST 1839 |
@@ -54,7 +54,7 @@ Bilateral treaties of Friendship, Commerce and Navigation contain provisions for
 | Iraq | Dec. 3, 1938 | June 19, 1940 | 54 Stat. 1790 |
 | Ireland | Jan. 21, 1950 | Sept. 14, 1950 | 1 UST 785 |
 | Israel | Aug. 23, 1951 | Apr. 3, 1954 | 5 UST 550 |
-| ItalyDFeb. 2, 1948DJuly 26, 1949D63 Stat. 2255 |  |  |  |
+| Italy DFeb. 2, 1948 DJuly 26, 1949 D63 Stat. 2255 |  |  |  |
 | &nbsp; | Sept. 26, 1951 | Mar. 2, 1961 | 12 UST 131 |
 | Japan | Apr. 2, 1953 | Oct. 30, 1953 | 4 UST 2063 |
 | Korea | Nov. 28, 1956 | Nov. 7, 1957 | 8 UST 2217 |
@@ -77,7 +77,7 @@ Bilateral treaties of Friendship, Commerce and Navigation contain provisions for
 | Taiwan <sup>1</sup> | Nov. 4, 1946 | Nov. 30, 1948 | 63 Stat. 1299 |
 | Thailand | May 29, 1966 | June 8, 1968 | 19 UST 5843 |
 | Togo | Feb. 8, 1966 | Feb. 5, 1967 | 18 UST 1 |
-| TurkeyDOct 1, 1929DApr. 22, 1930D46 Stat. 2743 |  |  |  |
+| Turkey DOct 1, 1929 DApr. 22, 1930 D46 Stat. 2743 |  |  |  |
 | &nbsp; | Oct. 28, 1931 | Feb. 15, 1933 | 47 Stat. 2432 |
 | United Kingdom | July 3, 1815Aug. 6, 1827 | July 3, 1815Apr. 2, 1828 | 8 Stat. 2288 Stat. 361 |
 | Vietnam | Apr. 3, 1961 | Nov. 30, 1961 | 12 UST 1703 |

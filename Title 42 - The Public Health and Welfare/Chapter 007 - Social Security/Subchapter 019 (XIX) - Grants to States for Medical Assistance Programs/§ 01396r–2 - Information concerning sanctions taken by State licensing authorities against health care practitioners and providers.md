@@ -50,7 +50,7 @@ The Secretary shall provide for suitable safeguards for the confidentiality of t
 
 The Secretary shall provide for the maximum appropriate coordination in the implementation of subsection (a) of this section and section 422 of the Health Care Quality Improvement Act of 1986 \[42 U.S.C. 11132\].
 
-(Aug. 14, 1935, ch. 531, title XIX, §1921, as added Aug. 18, 1987, Pub. L. 100–93, §5(b), 101 Stat. 690; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §4752(f)(1), 104 Stat. 1388–208.)
+(Aug. 14, 1935, ch. 531, title XIX, §1921, as added Pub. L. 100–93, §5(b), Aug. 18, 1987, 101 Stat. 690; amended Pub. L. 101–508, title IV, §4752(f)(1), Nov. 5, 1990, 104 Stat. 1388–208.)
 
 #### References in Text
 

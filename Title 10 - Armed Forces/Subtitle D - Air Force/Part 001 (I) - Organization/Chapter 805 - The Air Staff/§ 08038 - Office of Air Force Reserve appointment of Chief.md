@@ -44,7 +44,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date
 
-Section effective on first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as an Effective Date of 1967 Amendment note under section 138 of this title.
+Section effective on first day of first calendar month following date of enactment of Pub. L. 90–168, whichwas approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as an Effective Date of 1967 Amendment note under section 138 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ If the liquidation of any entry is suspended, the Secretary shall by regulation 
 
 Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b) of this section, within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b) of this section) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted at the time of entry by the importer of record.
 
-(June 17, 1930, ch. 497, title IV, §504, as added Oct. 3, 1978, Pub. L. 95–410, title II, §209(a), 92 Stat. 902; amended Oct. 30, 1984, Pub. L. 98–573, title I, §191(d), 98 Stat. 2971; Dec. 8, 1993, Pub. L. 103–182, title VI, §641, 107 Stat. 2204; Dec. 8, 1994, Pub. L. 103–465, title II, §220(c), 108 Stat. 4865; Oct. 11, 1996, Pub. L. 104–295, §3(a)(7), 110 Stat. 3516.)
+(June 17, 1930, ch. 497, title IV, §504, as added Pub. L. 95–410, title II, §209(a), Oct. 3, 1978, 92 Stat. 902; amended Pub. L. 98–573, title I, §191(d), Oct. 30, 1984, 98 Stat. 2971; Pub. L. 103–182, title VI, §641, Dec. 8, 1993, 107 Stat. 2204; Pub. L. 103–465, title II, §220(c), Dec. 8, 1994, 108 Stat. 4865; Pub. L. 104–295, §3(a)(7), Oct. 11, 1996, 110 Stat. 3516.)
 
 #### Prior Provisions
 

@@ -26,6 +26,10 @@ As used in this section, the term “allocated”,<sup>1</sup> means allocated f
 
 (Pub. L. 97–300, title III, §315, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1535; amended Pub. L. 102–367, title III, §302, Sept. 7, 1992, 106 Stat. 1073.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a)(1). Pub. L. 102–367, §302(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not less than 50 percent of the funds expended under this subchapter by any substate grantee shall be expended for retraining services specified under section 1661c(d) of this title.”

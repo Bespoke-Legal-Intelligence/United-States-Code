@@ -6,5 +6,5 @@
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of such recipients that are pertinent to any grant received under this subpart.
 
-(July 1, 1944, ch. 373, title IV, §477, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 863.)
+(July 1, 1944, ch. 373, title IV, §477, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 863.)
 

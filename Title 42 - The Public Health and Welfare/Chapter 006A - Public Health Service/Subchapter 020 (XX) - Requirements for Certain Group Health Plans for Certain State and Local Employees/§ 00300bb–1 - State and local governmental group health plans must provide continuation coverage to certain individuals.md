@@ -10,9 +10,9 @@ Subsection (a) of this section shall not apply to—
 
 &emsp;(1) any group health plan for any calendar year if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year, or
 
-&emsp;(2) any group health plan maintained for employees by the government of the District of Columbia or any territory or possession of theUnited States or any agency or instrumentality.
+&emsp;(2) any group health plan maintained for employees by the government of the District of Columbia or any territory or possession of the United States or any agency or instrumentality.
 
-(July 1, 1944, ch. 373, title XXII, §2201, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 232; amended Dec. 19, 1989, Pub. L. 101–239, title VI, §6801(a)(1), 103 Stat. 2296.)
+(July 1, 1944, ch. 373, title XXII, §2201, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 232; amended Pub. L. 101–239, title VI, §6801(a)(1), Dec. 19, 1989, 103 Stat. 2296.)
 
 #### Amendments
 

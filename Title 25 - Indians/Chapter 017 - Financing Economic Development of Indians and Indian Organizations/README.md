@@ -52,7 +52,6 @@
 | (c) | Assets, liabilities, and obligations of fund; loan and surety bond servicing and purchasing agreements: terms and conditions. |
 | (d) | Utilization of fund for diverse payments. |
 | (e) | Authorization of appropriations. |
-| (f) | Deficiencies in fund; notice to Congress. |
 | [1497a.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001497a%20-%20Supplemental%20surety%20bond%20guarantee.md) | Supplemental surety bond guarantee. |
 | (a) | Amount; eligibility. |
 | (b) | Conditions. |

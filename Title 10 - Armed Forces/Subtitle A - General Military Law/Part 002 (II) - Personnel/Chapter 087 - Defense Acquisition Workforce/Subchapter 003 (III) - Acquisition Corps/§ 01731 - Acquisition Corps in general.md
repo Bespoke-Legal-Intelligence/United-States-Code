@@ -24,7 +24,7 @@ Review of Acquisition Corps Promotion Selections.—Upon the approval of the Pre
 
 “(b)
 
-Reporting Requirement.—Not later than January 31 of each year, the Under Secretary of Defense for Acquisition and Technology shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report containing the Under Secretary's assessment of the extent to which each military department is complying with the requirement set forth in section 1731(b) of title 10, United States Code.
+Reporting Requirement.—Not later than January 31 of each year, the Under Secretary of Defense for Acquisition and Technology shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report containing the Under Secretary's assessment of the extent to which each military department is complying with the requirement set forth in section 1731(b) of title 10, United States Code.
 
 “(c)
 

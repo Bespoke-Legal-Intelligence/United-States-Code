@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of the Resolution Funding Corporation is to provide funds to the ResolutionTrust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
+The purpose of the Resolution Funding Corporation is to provide funds to the Resolution Trust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
 
 #### (b) Establishment
 
@@ -104,7 +104,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (8) Authority to sue
 
-&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any actionbrought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
+&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any action brought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
 
 #### (9) Incidental powers
 
@@ -120,7 +120,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) the Funding Corporation may transfer the amounts required under paragraph (8); and
 
-&emsp;&emsp;&emsp;(ii) the total of the face amounts (the amount of principal payable at maturity) of noninterest bearing instruments in the Funding Corporation Principal Fund are equal to the aggregate amount of principal on the obligations of the Funding Corporation.
+&emsp;&emsp;&emsp;(ii) the total of the face amounts (the amount of principal payable at maturity)of noninterest bearing instruments in the Funding Corporation Principal Fund are equal to the aggregate amount of principal on the obligations of the Funding Corporation.
 
 #### (B) Purchases of stock by Federal Home Loan Banks
 
@@ -338,7 +338,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Amounts in excess of 20 percent of net earnings
 
-&emsp;&emsp;&emsp;If the aggregate amount required to be paid by the Federal Home Loan Banks under this subparagraph for any year exceeds 20 percent of the aggregate net earnings of the Banks for such year, each Bank shall pay 20 percent of its net earnings forsuch year as provided in clause (i), and each Bank's individual share of the excess of the required amount over 20 percent of the aggregate net earnings of the Banks for such year shall be determined by dividing—
+&emsp;&emsp;&emsp;If the aggregate amount required to be paid by the Federal Home Loan Banks under this subparagraph for any year exceeds 20 percent of the aggregate net earnings of the Banks for such year, each Bank shall pay 20 percent of its net earnings for such year as provided in clause (i), and each Bank's individual share of the excess of the required amount over 20 percent of the aggregate net earnings of the Banks for such year shall be determined by dividing—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average month-end level in the prior year of advances outstanding by such Bank to Savings Associations Insurance Fund members; by
 
@@ -408,7 +408,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (9) Minority participation in public or negotiated offerings
 
-&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout theUnited States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
+&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout the United States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
 
 #### (10) No full faith and credit of the United States
 
@@ -418,7 +418,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (1) In general
 
-&emsp;Subject to regulations, restrictions, and limitations prescribed by the Thrift Depositor Protection Oversight Board, assets of the Funding Corporation which are not required to be invested in capital certificates issued by the Resolution Trust Corporation under section 1441a of this title and are not needed for current interest payments shall be invested in direct obligations of the United States issued by the Secretary.
+&emsp;Subject to regulations, restrictions, and limitations prescribed by the Thrift Depositor Protection Oversight Board, assets of theFunding Corporation which are not required to be invested in capital certificates issued by the Resolution Trust Corporation under section 1441a of this title and are not needed for current interest payments shall be invested in direct obligations of the United States issued by the Secretary.
 
 #### (2) Separate account for zero coupon instruments held to ensure payment of principal
 
@@ -500,7 +500,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
 
-&emsp;&emsp;(B) any other expense incurred by the Funding Corporation in connection with the establishment or maintenance of such account.
+&emsp;&emsp;(B) any other expense incurred by the Funding Corporation in connection with theestablishment or maintenance of such account.
 
 #### (3) Funding Corporation
 
@@ -607,6 +607,10 @@ Amendment by Pub. L. 102–550 effective as if included in the Resolution Trust 
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L. 102–233, set out as a note under section 1441 of this title.
+
+#### Abolition of Thrift Depositor Protection Oversight Board
+
+Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ Determinations of Certain Functions by the Office of Management and Budget.—If
 
 “(d)
 
-Delegation and Assignment.—Except where otherwise expressly prohibited by law or otherwise provided by this section, the Director of the Institute of Museum and Library Services may delegate any of the functions transferred to the Director of the Institute of Museum and Library Services by this section and any function transferred or granted to such Director of the Institute of Museum and Library Services after the effective date of this section \[Sept. 30, 1996\] to such officers and employees of the Institute of Museum and Library Services as the Director of the Institute of Museum and Library Services may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate, except that any delegation of any such functions with respect to libraries shall be made to the Deputy Director of the Office of Library Services and with respect to museums shall be made to the Deputy Director of the Office of Museum Services. No delegation of functions by the Director ofthe Institute of Museum and Library Services under this section or under any other provision of this section shall relieve such Director of the Institute of Museum and Library Services of responsibility for the administration of such functions.
+Delegation and Assignment.—Except where otherwise expressly prohibited by law or otherwise provided by this section, the Director of the Institute of Museum and Library Services may delegate any of the functions transferred to the Director of the Institute of Museum and Library Services by this section and any function transferred or granted to such Director of the Institute of Museum and Library Services after the effective date of this section \[Sept. 30, 1996\] to such officers and employees of the Institute of Museum and Library Services as the Director of the Institute of Museum and Library Services may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate, except that any delegation of any such functions with respect to libraries shall be made to the Deputy Director of the Office of Library Services and with respect to museums shall be made to the Deputy Director of the Office of Museum Services. No delegation of functions by the Director of the Institute of Museum and Library Services under this section or under any other provision of this section shall relieve such Director of the Institute of Museum and Library Services of responsibility for the administration of such functions.
 
 “(e)
 
@@ -124,7 +124,7 @@ Additional Conforming Amendments.—
 
 &emsp;“(1)
 
-Recommended legislation.—After consultation with the appropriate committees of Congress andthe Director of the Office of Management and Budget, the Director of the Institute of Museum and Library Services shall prepare and submit to the appropriate committees of Congress recommended legislation containing technical and conforming amendments to reflect the changes made by this section.
+Recommended legislation.—After consultation with the appropriate committees of Congress and the Director of the Office of Management and Budget, the Director of the Institute of Museum and Library Services shall prepare and submit to the appropriate committees of Congress recommended legislation containing technical and conforming amendments to reflect the changes made by this section.
 
 &emsp;“(2)
 

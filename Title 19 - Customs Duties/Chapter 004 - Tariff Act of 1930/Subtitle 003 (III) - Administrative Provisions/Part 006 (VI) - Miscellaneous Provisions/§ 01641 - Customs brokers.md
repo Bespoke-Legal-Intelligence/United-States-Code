@@ -78,7 +78,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(ii) arose out of the conduct of its customs business; or
 
-&emsp;&emsp;&emsp;(iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds;
+&emsp;&emsp;&emsp;(iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulentconcealment, embezzlement, fraudulent conversion, or misappropriation of funds;
 
 &emsp;&emsp;(C) has violated any provision of any law enforced by the Customs Service or the rules or regulations issued under any such provision;
 
@@ -96,7 +96,7 @@ As used in this section:
 
 #### (B) Revocation or suspension
 
-&emsp;&emsp;The Customs Service may, for good and sufficient reason, serve notice in writing upon any customs broker to show cause why a license or permit issued under this section should not be revoked or suspended. The notice shall be in the form of a statement specifically setting forth the grounds of the complaint, and shall allow the customs broker 30 days to respond. If no response is filed, or the Customs Service determines that the revocation or suspension is still warranted, it shall notify the customs broker in writing of a hearing to be held within 30 days, or at a later date if the broker requests an extension and shows good cause therefor, before an administrative law judge appointed pursuant to section 3105 oftitle 5 who shall serve as the hearing officer. If the customs broker waives the hearing, or the broker or his designated representative fails to appear at the appointed time and place, the hearing officer shall make findings and recommendations based on the record submitted by the parties. At the hearing, the customs broker may be represented by counsel, and all proceedings, including the proof of the charges and the response thereto shall be presented with testimony taken under oath and the right of cross-examination accorded to both parties. A transcript of the hearing shall be made and a copy will be provided to the Customs Service and the customs broker; which shall thereafter be provided reasonable opportunity to file a post-hearing brief. Following the conclusion of the hearing, the hearing officer shall transmit promptly the record of the hearing along with the findings of fact and recommendations to the Secretary for decision. The Secretary will issue a written decision, based solely on the record, setting forth the findings of fact and the reasons for the decision. Such decision may provide for the sanction contained in the notice to show cause or any lesser sanction authorized by this subsection, including a monetary penalty not to exceed $30,000, than was contained in the notice to show cause.
+&emsp;&emsp;The Customs Service may, for good and sufficient reason, serve notice in writing upon any customs broker to show cause why a license or permit issued under this section should not be revoked or suspended. The notice shall be in the form of a statement specifically setting forth the grounds of the complaint, and shall allow the customs broker 30 days to respond. If no response is filed, or the Customs Service determines that the revocation or suspension is still warranted, it shall notify the customs broker in writing of a hearing to be held within 30 days, or at a later date if the broker requests an extension and shows good cause therefor, before an administrative law judge appointed pursuant to section 3105 of title 5 who shall serve as the hearing officer. If the customs broker waives the hearing, or the broker or his designated representative fails to appear at the appointed time and place, the hearing officer shall make findings and recommendations based on the record submitted by the parties. At the hearing, the customs broker may be represented by counsel, and all proceedings, including the proof of the charges and the response thereto shall be presented with testimony taken under oath and the right of cross-examination accorded to both parties. A transcript of the hearing shall be made and a copy will be provided to the Customs Service and the customs broker; which shall thereafter be provided reasonable opportunity to file a post-hearing brief. Following the conclusion of the hearing, the hearing officer shall transmit promptly the record of the hearing along with the findings of fact and recommendations to the Secretary for decision. The Secretary will issue a written decision, based solely on the record, setting forth the findings of fact and the reasons for the decision. Such decision may provide for the sanction contained in the notice to show cause or any lesser sanction authorized by this subsection, including a monetary penalty not to exceed $30,000, than was contained in the notice to show cause.
 
 #### (3) Settlement and compromise
 
@@ -160,33 +160,7 @@ The Secretary may prescribe such rules and regulations relating to the customs b
 
 The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) of this section and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
 
-#### (i) Compensation of ocean freight forwarders
-
-#### (1) In general
-
-&emsp;Notwithstanding any other provision of law, no conference or group of two or more ocean common carriers in the foreign commerce of the United States that is authorized to agree upon the level of compensation paid to ocean freight forwarders may—
-
-&emsp;&emsp;(A) deny to any member of such conference or group the right, upon notice of not more than 10 calendar days, to take independent action on any level of compensation paid to an ocean freight forwarder who is also a customs broker, and
-
-&emsp;&emsp;(B) agree to limit the payment of compensation to an ocean freight forwarder who is also a customs broker to less than 1.25 percent of the aggregate of all rates and charges applicable under the tariff assessed against the cargo on which the forwarding services are provided.
-
-#### (2) Administration
-
-&emsp;The provisions of this subsection shall be enforced by the agency responsible for administration of the Shipping Act of 1984 \[46 App. U.S.C. 1701 et seq.\].
-
-#### (3) Remedies
-
-&emsp;Any person injured by reason of a violation of paragraph (1) may, in addition to any other remedy, file a complaint for reparation as provided in section 11 of the Shipping Act of 1984 \[46 App. U.S.C. 1710\], which may be enforced pursuant to section 14 of such Act \[46 App. U.S.C. 1713\].
-
-#### (4) Definitions
-
-&emsp;For purposes of this subsection, the terms “conference”, “ocean common carrier”, and “ocean freight forwarder” have the respective meaning given to such terms by section 3 of the Shipping Act of 1984 \[46 App. U.S.C. 1702\].
-
-(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Aug. 28, 1958, Pub. L. 85–791, §8, 72 Stat. 945; June 2, 1970, Pub. L. 91–271, title III, §301(jj), 84 Stat. 291; Oct. 3, 1978, Pub. L. 95–410, title I, §113, 92 Stat. 898; Oct. 10, 1980, Pub. L. 96–417, title VI, §611, 94 Stat. 1746; Oct. 30, 1984, Pub. L. 98–573, title II, §212(a), 98 Stat. 2978; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(8), 100 Stat. 2925; Dec. 8, 1993, Pub. L. 103–182, title VI, §648, 107 Stat. 2207; Oct. 11, 1996, Pub. L. 104–295, §21(e)(11), 110 Stat. 3531.)
-
-#### References in Text
-
-The Shipping Act of 1984, referred to in subsec. (i)(2), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, as amended, which is classified principally to chapter 36 (§1701 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 46, Appendix, and Tables.
+(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916.)
 
 #### Prior Provisions
 
@@ -197,6 +171,8 @@ Act June 10, 1910, ch. 283, §1, 36 Stat. 464, prior to its incorporation into t
 Act June 10, 1910, ch. 283, §3, 36 Stat. 465, prior to its incorporation into the Code, referred to the United States Circuit Court instead of the District Court. Section 291 of the act of Mar. 3, 1911, provided that any reference, in any law not embraced in that act, to the Circuit Courts, or any power or duty conferred upon them, should be deemed to refer to, and to confer such power and duty upon, the District Courts.
 
 #### Amendments
+
+1998—Subsec. (i). Pub. L. 105–258 struck out subsec. (i) which prohibited conference or group of two or more ocean common carriers from denying any member the right to take independent action on any level of compensation paid to an ocean freight forwarder who was also a customs broker, and from agreeing to limit payment to such a forwarder to less than 1.25 percent of aggregate of tariff rates and charges, and set out provisions relating to administration of provisions, remedies for violations, and definitions.
 
 1996—Subsec. (d)(2)(B). Pub. L. 104–295 substituted “the findings of fact” for “his findings of fact” in penultimate sentence.
 
@@ -232,6 +208,10 @@ Subsecs. (b) to (d). Act Aug. 26, 1935, §4, amended subsecs. (b) to (d) general
 
 Subsec. (e). Act Aug. 26, 1935, §5, repealed subsec. (e) which related to licenses under the act of June 10, 1910.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–258 effective May 1, 1999, see section 2 of Pub. L. 105–258, set out as a note under section 1701 of Title 46, Appendix, Shipping.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–573 effective on close of 180th day following Oct. 30, 1984, with certain exceptions, except that subsec. (c)(1)(B), (2) of this section shall take effect three years after Oct. 30, 1984, see section 214(d) of Pub. L. 98–573, set out as a note under section 1304 of this title.
@@ -246,7 +226,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

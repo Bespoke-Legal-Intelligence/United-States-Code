@@ -108,5 +108,5 @@ Subsecs. (i) to (k). Pub. L. 96–537, §2(c), added subsecs. (i) to (k).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1656, 1934, 2403 of this title; title 42 sections 1395qq, 1396d, 1396j, 1396s.
+This section is referred to in sections 1656, 1934, 2403 of this title; title 42 sections 1395qq, 1396d, 1396j, 1396s, 1396u–2, 1397bb.
 

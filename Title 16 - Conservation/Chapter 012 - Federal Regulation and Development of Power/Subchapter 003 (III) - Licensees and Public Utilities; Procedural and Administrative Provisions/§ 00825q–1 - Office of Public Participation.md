@@ -2,7 +2,7 @@
 
 (a)(1) There shall be an office in the Commission to be known as the Office of Public Participation (hereinafter in this section referred to as the “Office”).
 
-(2)(A) The Office shall be administered by a Director. The Director shall be appointed by the Chairman with the approval of the Commission. The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.
+(2)(A) The Office shall be administered by a Director. The Director shall be appointed by the Chairman with the approval of the Commission.The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.
 
 (B) The term of office of the Director shall be 4 years. The Director shall be responsible for the discharge of the functions and duties of the Office. He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under section 5332 of title 5.
 

@@ -16,7 +16,7 @@ The Directors of the Corporation who are employed in the Department shall receiv
 
 The manager of the Corporation shall be its chief executive officer, with such power and authority as may be conferred by the Board. The manager shall be appointed by, and hold office at the pleasure of, the Secretary.
 
-(Feb. 16, 1938, ch. 30, title V, §505, 52 Stat. 72; Aug. 1, 1947, ch. 440, §8, 61 Stat. 719; Aug. 25, 1949, ch. 512, §7, 63 Stat. 665; Sept. 26, 1980, Pub. L. 96–365, title I, §102, 94 Stat. 1312; Oct. 13, 1994, Pub. L. 103–354, title I, §§102(b)(3), (4), 103, 115(a), 108 Stat. 3181, 3204.)
+(Feb. 16, 1938, ch. 30, title V, §505, 52 Stat. 72; Aug. 1, 1947, ch. 440, §8, 61 Stat. 719; Aug. 25, 1949, ch. 512, §7, 63 Stat. 665; Pub. L. 96–365, title I, §102, Sept. 26, 1980, 94 Stat. 1312; Pub. L. 103–354, title I, §§102(b)(3), (4), 103, 115(a), Oct. 13, 1994, 108 Stat. 3181, 3204.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 (1) In order to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the area in southern Nevada containing and surrounding the Red Rock Canyon and the unique and nationally important geologic, archeological, ecological, cultural, scenic, scientific, wildlife, riparian, wilderness, endangered species, and recreation resources of the public lands therein contained, there is established the Red Rock Canyon National Conservation Area.
 
-(2) The conservation area shall consist of approximately 195,610 acres as generally depicted on a map entitled “Red Rock Canyon National Conservation Area—Proposed Expansion”, numbered NV–RRCNCA–002, and dated July 1994.
+(2) The conservation area shall consist of approximately 195,780 acres as generally depicted on the map entitled “Red Rock Canyon National Conservation Area Administrative Boundary Modification”, dated August 8, 1996.
 
 (3) The map referred to in paragraph (2) shall be on file and available for inspection in the appropriate offices of the Bureau of Land Management, Department of the Interior.
 
@@ -18,9 +18,11 @@
 
 In case of any discrepancy between or among the map described in subsection (a) of this section, the amount of acreage stated in subsection (a) of this section, or the legal description filed by the Secretary pursuant to subsection (b) of this section, the map described in subsection (a) of this section shall control any question concerning the boundaries of the conservation area.
 
-(Pub. L. 101–621, §3, Nov. 16, 1990, 104 Stat. 3342; Pub. L. 103–450, §1, Nov. 2, 1994, 108 Stat. 4766.)
+(Pub. L. 101–621, §3, Nov. 16, 1990, 104 Stat. 3342; Pub. L. 103–450, §1, Nov. 2, 1994, 108 Stat. 4766; Pub. L. 105–263, §8, Oct. 19, 1998, 112 Stat. 2349.)
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The conservation area shall consist of approximately 195,610 acres as generally depicted on a map entitled ‘Red Rock Canyon National Conservation Area—Proposed Expansion’, numbered NV–RRCNCA–002, and dated July 1994.”
 
 1994—Subsec. (a)(2). Pub. L. 103–450 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The conservation area shall consist of approximately 83,100 acres of generally depicted on a map entitled ‘Red Rock Canyon National Conservation Area—Proposed’ numbered NV–RRC–NCA–001, and dated June, 1990.”
 

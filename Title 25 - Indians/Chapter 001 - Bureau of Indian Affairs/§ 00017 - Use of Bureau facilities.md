@@ -22,5 +22,5 @@ Subsec. (c). Pub. L. 100–427, §25(b), added subsec. (c).
 
 #### Effective Date
 
-For effective date and applicability of section, see section 6303 of Pub. L. 100–297, set out as a note under section 1201 of Title 20, Education.
+For effective date and applicability of section, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of Title 20, Education.
 

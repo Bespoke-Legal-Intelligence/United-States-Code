@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-Notwithstanding any other provision of law (including section 6032 of this title), except for section 2394–1 of this title and comparable notification requirements contained in any Act making appropriations for foreign operations, export financing, and related programs, the President is authorized to furnish assistance and provide other support for individuals and independent nongovernmental organizations to support democracy-building efforts for Cuba, including the following:
+Notwithstanding any other provision of law (including section 6032 of this title), except for section 2394–1 of this title and comparable notification requirements contained in any Actmaking appropriations for foreign operations, export financing, and related programs, the President is authorized to furnish assistance and provide other support for individuals and independent nongovernmental organizations to support democracy-building efforts for Cuba, including the following:
 
 &emsp;(1) Published and informational matter, such as books, videos, and cassettes, on transitions to democracy, human rights, and market economies, to be made available to independent democratic groups in Cuba.
 

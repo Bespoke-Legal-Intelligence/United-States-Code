@@ -1,6 +1,0 @@
-### §14. Omitted
-
-#### Codification
-
-Section, act May 5, 1926, ch. 246, 44 Stat. 403, related to use of temporary buildings upon square 172 in Washington, D.C. See section 13 of this title.
-

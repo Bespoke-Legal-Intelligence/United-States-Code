@@ -18,19 +18,21 @@ The Secretary shall begin to implement the criteria established under this secti
 
 (2) No school in operation on or before January 1, 1987 (regardless of compliance or noncompliance with the criteria established under this section) may be closed, transferred to another authority, consolidated or have its program substantially curtailed for failure to meet the criteria.
 
-(3) By not later than May 1, 1996, the Secretary shall submit to the Congress a report detailing the costs associated with, and the actions necessary for, complete compliance with the criteria established under this section.
-
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary in order to bring each school up to the level required by the criteria established under this section.
 
-(Pub. L. 95–561, title XI, §1122, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3984.)
+(Pub. L. 95–561, title XI, §1122, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3984; amended Pub. L. 105–362, title VIII, §801(c)(2), Nov. 10, 1998, 112 Stat. 3288.)
 
 #### Prior Provisions
 
 A prior section 2002, Pub. L. 95–561, title XI, §1122, Nov. 1, 1978, 92 Stat. 2318; Pub. L. 96–46, §2(b)(5), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 100–297, title V, §5105, Apr. 28, 1988, 102 Stat. 367, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Amendments
+
+1998—Subsec. (d)(3). Pub. L. 105–362 struck out par. (3) which read as follows: “By not later than May 1, 1996, the Secretary shall submit to the Congress a report detailing the costs associated with, and the actions necessary for, complete compliance with the criteria established under this section.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2007, 2017, 2019 of this title.
+This section is referred to in sections 2007, 2017 of this title.
 

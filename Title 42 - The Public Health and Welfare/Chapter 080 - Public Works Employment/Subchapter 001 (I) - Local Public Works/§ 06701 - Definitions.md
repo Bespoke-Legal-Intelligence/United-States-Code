@@ -20,7 +20,7 @@ Par. (4). Pub. L. 95–28, §102(b), added par. (4).
 
 #### Short Title of 1977 Amendments
 
-Pub. L. 95–30, title VI, §601, May 23, 1977, 91 Stat. 164, provided that: “This title \[enacting section 6736 of this title, amending sections 6722 to 6724, 6727, and 6735 of this title, and repealing section 6726 of this title\] may be cited as the ‘Intergovernmental Antirecession Assistance Act of 1977’.”
+Pub. L. 95–30, title VI, §601, May 23, 1977, 91 Stat. 164, provided that: “This title \[enacting section 6736 of thistitle, amending sections 6722 to 6724, 6727, and 6735 of this title, and repealing section 6726 of this title\] may be cited as the ‘Intergovernmental Antirecession Assistance Act of 1977’.”
 
 Section 101 of title I of Pub. L. 95–28 provided that: “This title \[amending sections 6701, 6705 to 6708, and 6710 of this title and enacting provisions set out as notes under sections 6701 and 6710 of this title\] may be cited as the ‘Public Works Employment Act of 1977’.”
 

@@ -12,5 +12,5 @@ The amount of claims or defenses asserted by the cardholder may not exceed the a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1637 of this title.
+This section is referred to in section 1637 of this title; title 26 section 6311.
 

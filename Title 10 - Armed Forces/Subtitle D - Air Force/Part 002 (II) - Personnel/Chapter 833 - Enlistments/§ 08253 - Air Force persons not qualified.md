@@ -1,8 +1,8 @@
 ### §8253. Air Force: persons not qualified
 
-In time of peace, no person may be accepted for original enlistment in the Air Force unless he is a citizen of the United States or has beenlawfully admitted to the United States for permanent residence under the applicable provisions of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+In time of peace, no person may be accepted for original enlistment in the Air Force unless he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under the applicable provisions of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 503; Aug. 17, 1961, Pub. L. 87–143, §1(2), 75 Stat. 364; Jan. 2, 1968, Pub. L. 90–235, §2(a)(4)(A), 81 Stat. 756; Dec. 12, 1980, Pub. L. 96–513, title V, §514(2), 94 Stat. 2935.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 503; Pub. L. 87–143, §1(2), Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–235, §2(a)(4)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, §514(2), Dec. 12, 1980, 94 Stat. 2935.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,7 @@ In subsection (a), the words “an armed force” are substituted for the words 
 
 In subsection (b), the word “soldier”, in 10:623, is omitted as covered by the word “person”. The last sentence is substituted for 10:624.
 
-In subsections (b) and (c), the first 15 words and the proviso of section 2 of the Act of August 1, 1894, ch. 179, 28 Stat. 216, are not contained in 10:623 or 625. They are also omitted from the revised section, since the first 15 words are superseded by section 8256(a) of this title, and the proviso is executed.
+In subsections (b) and (c), the first 15 words and the proviso of section 2 of the Act of August 1, 1894, ch. 179,28 Stat. 216, are not contained in 10:623 or 625. They are also omitted from the revised section, since the first 15 words are superseded by section 8256(a) of this title, and the proviso is executed.
 
 In subsection (c), the words “(except an Indian)”, in section 2 of the Act of August 1, 1894, ch. 179, 28 Stat. 216, are not contained in 10:625. They are also omitted from the revised section, since section 201(b) of the Act of October 14, 1940, ch. 876, 54 Stat. 1138 (8 U.S.C. 601), provides that Indians are citizens and nationals of the United States. The words “may be accepted for original” are substituted for the words “shall be enlisted for the first”.
 

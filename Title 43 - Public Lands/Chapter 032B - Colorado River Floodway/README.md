@@ -12,7 +12,7 @@
 | (c) | Termination of task force; report to Secretary and Congressional Committees. |
 | [1600c.](%C2%A7%2001600c%20-%20Colorado%20River%20Floodway.md) | Colorado River Floodway. |
 | (a) | Establishment. |
-| (b) | Study of tributary floodflows; determination of Floodway boundary; preparation and filing of maps with Congressional Committees, Federal, State and local government agencies, and federally insured financial institutions. |
+| (b) | Study of tributary floodflows; determination of Floodway boundary. |
 | (c) | Review and modification of boundaries; notice and comment; written justification for decision of Secretary. |
 | [1600d.](%C2%A7%2001600d%20-%20Limitations%20on%20Federal%20expenditures%20affecting%20Floodway.md) | Limitations on Federal expenditures affecting Floodway. |
 | [1600e.](%C2%A7%2001600e%20-%20Exceptions.md) | Exceptions. |

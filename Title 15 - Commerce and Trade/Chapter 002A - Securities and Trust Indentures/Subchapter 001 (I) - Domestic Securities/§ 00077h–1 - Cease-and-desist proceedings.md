@@ -46,7 +46,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 In any cease-and-desist proceeding under subsection (a) of this section, the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-(May 27, 1933, ch. 38, title I, §8A, as added Oct. 15, 1990, Pub. L. 101–429, title I, §102, 104 Stat. 933.)
+(May 27, 1933, ch. 38, title I, §8A, as added Pub. L. 101–429, title I, §102, Oct. 15, 1990, 104 Stat. 933.)
 
 #### Effective Date
 

@@ -32,7 +32,7 @@ For the purposes of this part, (1) the term “foster family home” means a fos
 
 #### (d) Children removed from their homes pursuant to voluntary placement agreements
 
-Notwithstanding any other provision of this subchapter, Federal payments may be made under this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of children removed from their homes pursuant to voluntary placement agreements as described in subsection (a) of this section, only if (at the time such amounts were expended) the State has fulfilled all of the requirements of section 622(b)(10) of this title.
+Notwithstanding any other provision of this subchapter, Federal payments may be madeunder this part with respect to amounts expended by any State as foster care maintenance payments under this section, in the case of children removed from their homes pursuant to voluntary placement agreements as described in subsection (a) of this section, only if (at the time such amounts were expended) the State has fulfilled all of the requirements of section 622(b)(10) of this title.
 
 #### (e) Placements in best interest of child
 
@@ -40,7 +40,7 @@ No Federal payment may be made under this part with respect to amounts expended 
 
 #### (f) “Voluntary placement” and “voluntary placement agreement” defined
 
-For the purposes of this part and part B of this subchapter, (1) the term “voluntary placement” means an out-of-home placement of a minor, byor with participation of a State agency, after the parents or guardians of the minor have requested the assistance of the agency and signed a voluntary placement agreement; and (2) the term “voluntary placement agreement” means a written agreement, binding on the parties to the agreement, between the State agency, any other agency acting on its behalf, and the parents or guardians of a minor child which specifies, at a minimum, the legal status of the child and the rights and obligations of the parents or guardians, the child, and the agency while the child is in placement.
+For the purposes of this part and part B of this subchapter, (1) the term “voluntary placement” means an out-of-home placement of a minor, by or with participation of a State agency, after the parents or guardians of the minor have requested the assistance of the agency and signed a voluntary placement agreement; and (2) the term “voluntary placement agreement” means a written agreement, binding on the parties to the agreement, between the State agency, any other agency acting on its behalf, and the parents or guardians of a minor child which specifies, at a minimum, the legal status of the child and the rights and obligations of the parents or guardians, the child, and the agency while the child is in placement.
 
 #### (g) Revocation of voluntary placement agreement
 
@@ -58,7 +58,7 @@ In any case where—
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended June 17, 1980, Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), 94 Stat. 503, 513, 514; Nov. 6, 1986, Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), 100 Stat. 3403, 3422, 3431; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), 101 Stat. 1330–314, 1330–321; Oct. 31, 1994, Pub. L. 103–432, title II, §202(d)(3), 108 Stat. 4454; Aug. 22, 1996, Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, 110 Stat. 2166, 2277; Aug. 5, 1997, Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), 111 Stat. 620, 644; Nov. 19, 1997, Pub. L. 105–89, title I, §101(c), 111 Stat. 2117.)
+(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ Subsec. (a)(4)(B)(ii). Pub. L. 104–193, §108(d)(3)(B)(ii), inserted “(as in
 
 Subsec. (c)(2). Pub. L. 104–193, §501, struck out “nonprofit” before “private child-care institution.”
 
-Subsec. (h). Pub. L. 104–193, §108(d)(4), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of subchapters XIX and XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter. For purposes of the preceding sentence, a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.”
+Subsec. (h). Pub. L. 104–193, §108(d)(4), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of subchapters XIX and XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter. For purposes of thepreceding sentence, a child whose costs in a foster family home or child-care institution are covered by the foster care maintenance payments being made with respect to his or her minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.”
 
 1994—Subsec. (d). Pub. L. 103–432 substituted “section 622(b)(9) of this title” for “section 627(b) of this title”.
 

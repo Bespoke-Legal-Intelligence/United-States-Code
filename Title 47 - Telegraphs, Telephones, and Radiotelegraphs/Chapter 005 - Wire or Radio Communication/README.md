@@ -196,7 +196,14 @@
 | (a) | Findings. |
 | (b) | Policy. |
 | (c) | Protection for Good Samaritan blocking and screening of offensive material. |
-| (d) | Effect on other laws. |
+| (d) | Obligations of interactive computer service. |
+| (e) | Effect on other laws. |
+| (f) | Definitions. |
+| [231\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000231%20-%20Restriction%20of%20access%20by%20minors%20to%20materials%20commercially%20distributed%20by%20means%20of%20World%20Wide%20Web%20that%20are%20harmful%20to%20minors.md) | Restriction of access by minors to materials commercially distributed by means of World Wide Web that are harmful to minors. |
+| (a) | Requirement to restrict access. |
+| (b) | Inapplicability of carriers and other service providers. |
+| (c) | Affirmative defense. |
+| (d) | Privacy protection requirements. |
 | (e) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -16,7 +16,7 @@ It shall be unlawful for any person registered under section 80b–3 of this tit
 
 It shall be unlawful for any person indirectly, or through or by any other person, to do any act or thing which it would be unlawful for such person to do directly under the provisions of this subchapter or any rule or regulation thereunder.
 
-(Aug. 22, 1940, ch. 686, title II, §208, 54 Stat. 853; Sept. 13, 1960, Pub. L. 86–750, §§10, 11, 74 Stat. 887.)
+(Aug. 22, 1940, ch. 686, title II, §208, 54 Stat. 853; Pub. L. 86–750, §§10, 11, Sept. 13, 1960, 74 Stat. 887.)
 
 #### References in Text
 

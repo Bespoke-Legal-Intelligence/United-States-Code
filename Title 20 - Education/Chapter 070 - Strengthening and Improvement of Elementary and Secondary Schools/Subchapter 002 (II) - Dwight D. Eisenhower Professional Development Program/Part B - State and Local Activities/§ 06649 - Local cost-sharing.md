@@ -14,7 +14,7 @@ Each local educational agency shall provide not less than 33 percent of the cost
 
 &emsp;&emsp;(B) Release time for teachers participating in professional development assisted under this part.
 
-&emsp;&emsp;(C) Funds received under one or more of the following programs, so long as suchfunds are used for professional development activities consistent with this part and the statutes under which such funds were received, and are used to benefit students and teachers in schools that otherwise would have been served with such funds:
+&emsp;&emsp;(C) Funds received under one or more of the following programs, so long as such funds are used for professional development activities consistent with this part and the statutes under which such funds were received, and are used to benefit students and teachers in schools that otherwise would have been served with such funds:
 
 &emsp;&emsp;&emsp;(i) Helping disadvantaged children meet high standards under part A of subchapter I of this chapter.
 
@@ -42,7 +42,7 @@ The State educational agency may approve an application which has not fully met 
 
 #### References in Text
 
-The Women's Educational Equity Act of 1994, referred to in subsec. (b)(1)(C)(iv), is part B (§§5201–5208) of title V of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695, which is classified generally to part B (§7231 et seq.) of subchapter V of this chapter. For complete classification of this Act to the Code, see section 7231 of this title and Tables.
+The Women's Educational Equity Act of 1994, referred to in subsec. (b)(1)(C)(iv), is part B (§§5201–5208) of titleV of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3695, which is classified generally to part B (§7231 et seq.) of subchapter V of this chapter. For complete classification of this Act to the Code, see section 7231 of this title and Tables.
 
 The Goals 2000: Educate America Act, referred to in subsec. (b)(1)(C)(v), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended. Title III of the Act is classified generally to subchapter III (§5881 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

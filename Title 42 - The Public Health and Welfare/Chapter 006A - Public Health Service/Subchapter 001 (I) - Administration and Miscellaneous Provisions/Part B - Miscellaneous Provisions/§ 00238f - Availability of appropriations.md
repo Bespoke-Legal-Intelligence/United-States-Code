@@ -2,7 +2,7 @@
 
 Appropriations for carrying out the purposes of this chapter shall be available for expenditure for personal services and rent at the seat of Government; books of reference, periodicals, and exhibits; printing and binding; transporting in Government-owned automotive equipment, to and from school, children of personnel who have quarters for themselves and their families at stations determined by the Surgeon General to be isolated stations; expenses incurred in pursuing, identifying, and returning prisoners who escape from any hospital, institution, or station of the Service or from the custody of any officer or employee of the Service, including rewards for the capture of such prisoners; furnishing, repairing, and cleaning such wearing apparel as may be prescribed by the Surgeon General for use by employees in the performance of their official duties; reimbursing officers and employees, subject to regulations of the Secretary, for the cost of repairing or replacing their personal belongings damaged or destroyed by patients while such officers or employees are engaged in the performance of their official duties; and maintenance of buildings of the National Institutes of Health.
 
-(July 1, 1944, ch. 373, title II, §237, formerly title V, §509, 58 Stat. 711; June 16, 1948, ch. 481, §6(b), 62 Stat. 469; June 25, 1948, ch. 654, §7, 62 Stat. 1018; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered title XXI, §2109, Apr. 26, 1983, Pub. L. 98–24, §2(a)(1), 97 Stat. 176; renumbered title XXIII, §2309, Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3755; renumbered title XXV, §2507, Nov. 4, 1988, Pub. L. 100–607, title II, §201(1), (3), 102 Stat. 3062, 3063; renumbered title XXVI, §2607, Nov. 18, 1988, Pub. L. 100–690, title II, §2620(a), 102 Stat. 4244; renumbered title XXVII, §2707, Aug. 18, 1990, Pub. L. 101–381, title I, §101(1), (2), 104 Stat. 576; renumbered title II, §237, June 10, 1993, Pub. L. 103–43, title XX, §2010(a)(1)–(3), 107 Stat. 213.)
+(July 1, 1944, ch. 373, title II, §237, formerly title V, §509, 58 Stat. 711; June 16, 1948, ch. 481, §6(b), 62 Stat. 469; June 25, 1948, ch. 654, §7, 62 Stat. 1018; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered title XXI, §2109, Pub. L. 98–24, §2(a)(1), Apr. 26, 1983, 97 Stat. 176; renumbered title XXIII, §2309, Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3755; renumbered title XXV, §2507, Pub. L. 100–607, title II, §201(1), (3), Nov. 4, 1988, 102 Stat. 3062, 3063; renumbered title XXVI, §2607, Pub. L. 100–690, title II, §2620(a), Nov. 18, 1988, 102 Stat. 4244; renumbered title XXVII, §2707, Pub. L. 101–381, title I, §101(1), (2), Aug. 18, 1990, 104 Stat. 576; renumbered title II, §237, Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213.)
 
 #### Codification
 
@@ -22,23 +22,17 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 #### Buy American Provisions
 
-Section 2004 of Pub. L. 103–43 provided that:
+Section 2004 of Pub. L. 103–43, as amended by Pub. L. 105–392, title IV, §416(a), (b), Nov. 13, 1998, 112 Stat. 3590, provided that:
 
 “(a)
 
-Compliance With Buy American Act.—No funds appropriated pursuant to this Act \[see Short Title of 1993 Amendment note set out under section 201 of this title\] for any of the fiscal years 1994 through 1996 may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (41 U.S.C. 10a–10c, popularly known as the ‘Buy American Act’).
+Sense of Congress Regarding Purchase of American-Made Equipment and Products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided pursuant to this Act for any of the fiscal years 1994 through 1996, it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
 
 “(b)
 
-Sense of Congress; Requirement Regarding Notice.—
+Notice to Recipients of Assistance.—In providing financial assistance pursuant to this Act, the Secretary of Health and Human Services shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
 
-&emsp;“(1)
-
-Purchase of american-made equipment and products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided pursuant to this Act for any of the fiscal years 1994 through 1996, it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
-
-&emsp;“(2)
-
-Notice to recipients of assistance.—In providing financial assistance pursuant to this Act, the Secretary of Health and Human Services shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by the Congress.”
+\[Pub. L. 105–392, title IV, §416(c), Nov. 13, 1998, 112 Stat. 3591, provided that: “This section \[amending section 2004 of Pub. L. 103–43, set out above\] is deemed to have taken effect immediately after the enactment of Public Law 103–43 \[June 10, 1993\].”\]
 
 #### Availability of Appropriations for Active Commissioned Officers and Other Expenses
 

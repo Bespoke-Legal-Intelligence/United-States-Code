@@ -6,7 +6,7 @@ The Attorney General may appoint officials—
 
 &emsp;(2) to assist in the protection of the person of the President; and
 
-&emsp;(3) to conduct such other investigations regarding official matters under the control of the Department of Justice and the Department of State as may be directed by the Attorney General.
+&emsp;(3) to conduct such other investigations regarding official matters under the control ofthe Department of Justice and the Department of State as may be directed by the Attorney General.
 
 > This section does not limit the authority of departments and agencies to investigate crimes against the United States when investigative jurisdiction has been assigned by law to such departments and agencies.
 

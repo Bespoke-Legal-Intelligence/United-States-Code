@@ -100,7 +100,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(B) trade benefits that benefit any other economic sector would be more satisfactory than such trade benefits.
 
-(5) If the Trade Representative determines that actions to be taken under subsection (a) or\(b) of this section are to be in the form of import restrictions, the Trade Representative shall—
+(5) If the Trade Representative determines that actions to be taken under subsection (a) or (b) of this section are to be in the form of import restrictions, the Trade Representative shall—
 
 &emsp;(A) give preference to the imposition of duties over the imposition of other import restrictions, and
 
@@ -148,7 +148,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(V) fails to provide standards for minimum wages, hours of work, and occupational safety and health of workers.
 
-&emsp;(C)(i) Acts, policies, and practices of a foreign country described in subparagraph (B)(iii) shall not be treated as being unreasonable if the Trade Representative determines that—
+&emsp;(C)(i) Acts, policies, and practices of a foreign country described in subparagraph (B)(iii)shall not be treated as being unreasonable if the Trade Representative determines that—
 
 &emsp;&emsp;(I) the foreign country has taken, or is taking, actions that demonstrate a significant and tangible overall advancement in providing throughout the foreign country (including any designated zone within the foreign country) the rights and other standards described in the subclauses of subparagraph (B)(iii), or
 
@@ -166,7 +166,7 @@ For purposes of this subchapter—
 
 &emsp;(4)(A) An act, policy, or practice is unjustifiable if the act, policy, or practice is in violation of, or inconsistent with, the international legal rights of the United States.
 
-&emsp;(B) Acts, policies, and practices that are unjustifiable include, but are not limited to, anyact, policy, or practice described in subparagraph (A) which denies national or most-favored-nation treatment or the right of establishment or protection of intellectual property rights.
+&emsp;(B) Acts, policies, and practices that are unjustifiable include, but are not limited to, any act, policy, or practice described in subparagraph (A) which denies national or most-favored-nation treatment or the right of establishment or protection of intellectual property rights.
 
 &emsp;(5) Acts, policies, and practices that are discriminatory include, when appropriate, any act, policy, and practice which denies national or most-favored-nation treatment to United States goods, services, or investment.
 

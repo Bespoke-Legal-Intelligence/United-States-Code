@@ -2,7 +2,7 @@
 
 The Administrative Office of the United States Courts shall be maintained at the seat of government. It shall be supervised by a Director and a Deputy Director appointed and subject to removal by the Chief Justice of the United States, after consulting with the Judicial Conference. The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.
 
-(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 86–370, §5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L. 101–650, title III, §307, Dec. 1, 1990, 104 Stat. 5112; Pub. L. 104–317, title VI, §602, Oct. 19, 1996, 110 Stat. 3857.)
+(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 86–370, §5(a)(1), Sept. 23, 1959, 73 Stat. 652; Pub. L.101–650, title III, §307, Dec. 1, 1990, 104 Stat. 5112; Pub. L. 104–317, title VI, §602, Oct. 19, 1996, 110 Stat. 3857.)
 
 #### Historical and Revision Notes
 
@@ -14,15 +14,59 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–317 inserted at end “The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.”
+1996—Pub. L. 104–317 inserted at end “The Director and Deputy Director shall be deemed to be officers for purposes of title 5, United States Code.”
 
-<b>1990</b>—Pub. L. 101–650 substituted “Chief Justice of the United States, after consulting with the Judicial Conference” for “Supreme Court”.
+1990—Pub. L. 101–650 substituted “Chief Justice of the United States, after consulting with the Judicial Conference” for “Supreme Court”.
 
-<b>1959</b>—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
+1959—Pub. L. 86–370 substituted “Deputy Director” for “Assistant Director”.
 
 #### Effective Date of 1959 Amendment
 
 Amendment by Pub. L. 86–370 effective Sept. 23, 1959, see section 7(a) of Pub. L. 86–370.
+
+#### Veterans’ Preference in Judicial Branch Appointments
+
+Pub. L. 105–339, §4(d), Oct. 31, 1998, 112 Stat. 3186, provided that:
+
+“(1)
+
+In general.—Subject to paragraphs (2) and (3), the Judicial Conference of the United States shall prescribe procedures to provide for—
+
+&emsp;“(A) veterans’ preference in the consideration of applicants for employment, and in the conduct of any reductions in force, within the judicial branch; and
+
+&emsp;“(B) redress for alleged violations of any rights provided for under subparagraph (A).
+
+“(2)
+
+Procedures.—Under the procedures, a preference eligible (as defined by section 2108 of title 5, United States Code) shall be afforded preferences in a manner and to the extent consistent with preferences afforded to preference eligibles in the executive branch.
+
+“(3)
+
+Exclusions.—Nothing in the procedures shall apply with respect to an applicant or employee—
+
+&emsp;“(A) whose appointment is made by the President with the advice and consent of the Senate;
+
+&emsp;“(B) whose appointment is as a judicial officer;
+
+&emsp;“(C) whose appointment is required by statute to be made by or with the approval of a court or judicial officer; or
+
+&emsp;“(D) whose appointment is to a position, the duties of which are equivalent to those of a Senior Executive Service position (within the meaning of section 3132(a)(2) of title 5, United States Code).
+
+“(4)
+
+Definitions.—For purposes of this subsection, the term ‘judicial officer’ means a justice, judge, or magistrate judge listed in subparagraph (A), (B), (F), or (G) of section 376(a)(1) of title 28, United States Code.
+
+“(5)
+
+Submission to congress; effective date.—
+
+&emsp;“(A)
+
+Submission to congress.—Not later than 12 months after the date of enactment of this Act \[Oct. 31, 1998\], the Judicial Conference of the United States shall submit a copy of the procedures prescribed under this subsection to the Committee on Government Reform and Oversight \[now Committee on Government Reform\] and the Committee on the Judiciary of the House of Representatives and the Committee on Governmental Affairs and the Committee on the Judiciary of the Senate.
+
+&emsp;“(B)
+
+Effective date.—The procedures prescribed under this subsection shall take effect 13 months after the date of enactment of this Act.”
 
 #### Reference to Assistant Director Deemed Reference to Deputy Director
 

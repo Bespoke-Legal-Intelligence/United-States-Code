@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections were omitted in the general revision of this chapter by Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002.Similar provisions are now set out in section 720 et seq. of this title.
+Sections were omitted in the general revision of this chapter by Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002. Similar provisions are now set out in section 720 et seq. of this title.
 
 Section 770, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1547; amended Pub. L. 91–402, §1(2), Sept. 18, 1970, 84 Stat. 839, defined terms. See section 720 of this title.
 

@@ -40,11 +40,13 @@
 
 (3) This subsection does not apply to any reclassification action nor authorize the setting aside of an otherwise proper promotion by a selecting official from a group of properly ranked and certified candidates.
 
-(4) For the purpose of this subsection, “grievance” and “collective bargaining agreement” have the meanings set forth in section 7103 of this title and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
+(4) The pay, allowances, or differentials granted under this section for the period for which an unjustified or unwarranted personnel action was in effect shall not exceed that authorized by the applicable law, rule, regulations, or collective bargaining agreement under which the unjustified or unwarranted personnel action is found, except that in no case may pay, allowances, or differentials be granted under this section for a period beginning more than 6 years before the date of the filing of a timely appeal or, absent such filing, the date of the administrative determination.
+
+(5) For the purpose of this subsection, “grievance” and “collective bargaining agreement” have the meanings set forth in section 7103 of this title and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
 
 (c) The Office of Personnel Management shall prescribe regulations to carry out this section. However, the regulations are not applicable to the Tennessee Valley Authority and its employees, or to the agencies specified in subsection (a)(2) of this section.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 203; amended Pub. L. 94–172, §1(a), Dec. 23, 1975, 89 Stat. 1025; Pub. L. 95–454, title VII, §702, Oct. 13, 1978, 92 Stat. 1216; Pub. L. 96–54, §2(a)(14), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II,§2306, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–202, §101(m) \[title VI, §623(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428; Pub. L. 101–474, §5(<i>l</i>), Oct. 30, 1990, 104 Stat. 1100.)
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 203; amended Pub. L. 94–172, §1(a), Dec. 23, 1975, 89 Stat. 1025; Pub. L. 95–454, title VII, §702, Oct. 13, 1978, 92 Stat. 1216; Pub. L. 96–54, §2(a)(14), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2306, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–202, §101(m) \[title VI, §623(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428; Pub. L. 101–474, §5(<i>l</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 105–261, div. A, title XI, §1104(a), Oct. 17, 1998, 112 Stat. 2141.)
 
 Historical and Revision Notes
 
@@ -83,6 +85,8 @@ Section 6621(a)(1) of the Internal Revenue Code of 1986, referred to in subsec. 
 Sections 1101, 1002, and 1015 of the Foreign Service Act of 1980, referred to in subsec. (b)(4), are classified to sections 4131, 4102, and 4115, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1998—Subsec. (b)(4), (5). Pub. L. 105–261 added par. (4) and redesignated former par. (4) as (5).
 
 1990—Subsec. (a)(2). Pub. L. 101–474, §5(<i>l</i>)(1), substituted “Courts, the Federal Judicial Center, and the courts named by section 610 of title 28” for “Courts”.
 

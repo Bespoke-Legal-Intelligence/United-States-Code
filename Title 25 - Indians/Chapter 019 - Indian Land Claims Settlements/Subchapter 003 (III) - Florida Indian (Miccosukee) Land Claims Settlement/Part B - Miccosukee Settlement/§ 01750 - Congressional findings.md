@@ -6,7 +6,7 @@ Congress finds that:
 
 &emsp;(2) The pendency of the lawsuit referred to in paragraph (1) clouds title of certain lands used in the maintenance and operation of the highway and hinders proper planning for future maintenance and operations.
 
-&emsp;(3) The Florida Department of Transportation, with the concurrence of the Board of Trustees of the Internal Improvements Trust Fund of the State of Florida, and the Miccosukee Tribe have executed an agreement for the purpose of resolving the dispute and settling the lawsuit.
+&emsp;(3) The Florida Department of Transportation, with the concurrence of the Board ofTrustees of the Internal Improvements Trust Fund of the State of Florida, and the Miccosukee Tribe have executed an agreement for the purpose of resolving the dispute and settling the lawsuit.
 
 &emsp;(4) The agreement referred to in paragraph (3) requires the consent of Congress in connection with contemplated land transfers.
 
@@ -14,7 +14,7 @@ Congress finds that:
 
 &emsp;(6) Land received by the United States pursuant to the Settlement Agreement is in consideration of Miccosukee Indian Reservation lands lost by the Miccosukee Tribe by virtue of transfer to the Florida Department of Transportation under the Settlement Agreement.
 
-&emsp;(7) The lands referred to in paragraph (6) as received by the United States will be held intrust by the United States for the use and benefit of the Miccosukee Tribe as Miccosukee Indian Reservation lands in compensation for the consideration given by the Tribe in the Settlement Agreement.
+&emsp;(7) The lands referred to in paragraph (6) as received by the United States will be held in trust by the United States for the use and benefit of the Miccosukee Tribe as Miccosukee Indian Reservation lands in compensation for the consideration given by the Tribe in the Settlement Agreement.
 
 &emsp;(8) Congress shares with the parties to the Settlement Agreement a desire to resolve the dispute and settle the lawsuit.
 

@@ -2,7 +2,7 @@
 
 At the request of the borrower, the Secretary is authorized and directed to refinance with loans which will be insured under this chapter at the interest rates provided in section 935 of this title any loans made for rural electric and telephone facilities under any provision of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\].
 
-(May 20, 1936, ch. 432, title III, §310, as added May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 70; amended Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §310, as added Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 70; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### References in Text
 

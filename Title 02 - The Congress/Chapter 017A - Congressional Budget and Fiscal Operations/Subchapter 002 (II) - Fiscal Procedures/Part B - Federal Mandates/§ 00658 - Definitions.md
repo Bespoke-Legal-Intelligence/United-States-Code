@@ -30,7 +30,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(i) estimated amounts that the State, local, and tribal governments (in the case of a Federal intergovernmental mandate) or the private sector (in the case of a Federal private sector mandate) would spend—
 
-&emsp;&emsp;&emsp;&emsp;(I) to comply with or carry out all applicable Federal, State, local, and tribal laws and regulations in effect at thetime of the adoption of the Federal mandate for the same activity as is affected by that Federal mandate; or
+&emsp;&emsp;&emsp;&emsp;(I) to comply with or carry out all applicable Federal, State, local, and tribal laws and regulations in effect at the time of the adoption of the Federal mandate for the same activity as is affected by that Federal mandate; or
 
 &emsp;&emsp;&emsp;&emsp;(II) to comply with or carry out State, local, and tribal governmental programs, or private-sector business or other activities in effect at the time of the adoption of the Federal mandate for the same activity as is affected by that mandate; or
 
@@ -100,11 +100,11 @@ For purposes of this part:
 
 #### (10) Regulation; rule
 
-&emsp;The term “regulation” or “rule” (except with respect to a rule of either House of theCongress) has the meaning of “rule” as defined in section 601(2) of title 5.
+&emsp;The term “regulation” or “rule” (except with respect to a rule of either House of the Congress) has the meaning of “rule” as defined in section 601(2) of title 5.
 
 #### (11) Small government
 
-&emsp;The term “small government” means any small governmental jurisdictions defined in section 601(5) of title 5 and any tribal government.
+&emsp;The term “small government” means any small governmental jurisdictions defined insection 601(5) of title 5 and any tribal government.
 
 #### (12) State
 

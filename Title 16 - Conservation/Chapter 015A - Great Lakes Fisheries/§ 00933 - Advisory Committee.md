@@ -22,7 +22,7 @@ The members of the advisory committee shall receive no compensation from the Gov
 
 #### (d) Meetings
 
-The members of the advisory committee for each lake shall be invited to attend all nonexecutive meetings of the United States Section relating to that lake and at such meetings shallbe granted opportunity to examine and be heard on all proposed recommendations, programs, and activities relating to that lake.
+The members of the advisory committee for each lake shall be invited to attend all nonexecutive meetings of the United States Section relating to that lake and at such meetings shall be granted opportunity to examine and be heard on all proposed recommendations, programs, and activities relating to that lake.
 
 (June 4, 1956, ch. 358, §4, 70 Stat. 242.)
 

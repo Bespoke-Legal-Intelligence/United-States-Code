@@ -1,0 +1,36 @@
+### §21701. Organization
+
+(a)
+
+Federal Charter.—The American Legion (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b)
+
+Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+21701(a)D36:41.DSept. 16, 1919, ch. 59, §§1, 2, 41 Stat. 284.
+
+&nbsp;
+
+36:42.
+
+21701(b)
+
+36:44 (words before 4th semicolon related to perpetual succession).
+
+Sept. 16, 1919, ch. 59, §4 (words before 4th semicolon related to perpetual succession), 41 Stat. 285; June 26, 1953, ch. 153, §1, 67 Stat. 82.
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and obsolete language.
+

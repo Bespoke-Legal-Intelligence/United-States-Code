@@ -4,7 +4,7 @@
 
 The Secretary of the Interior is authorized, upon the request of any Indian tribe (from funds appropriated for the benefit of Indians pursuant to section 13 of this title, and any Act subsequent thereto) to contract with or make a grant or grants to any tribal organization for—
 
-&emsp;(1) the strengthening or improvement of tribal government (including, but not limited to, the development, improvement, and administration of planning, financial management,or merit personnel systems; the improvement of tribally funded programs or activities; or the development, construction, improvement, maintenance, preservation, or operation of tribal facilities or resources);
+&emsp;(1) the strengthening or improvement of tribal government (including, but not limited to, the development, improvement, and administration of planning, financial management, or merit personnel systems; the improvement of tribally funded programs or activities; or the development, construction, improvement, maintenance, preservation, or operation of tribal facilities or resources);
 
 &emsp;(2) the planning, training, evaluation of other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 450f of this title and the additional costs associated with the initial years of operation under such a contract or contracts; or
 

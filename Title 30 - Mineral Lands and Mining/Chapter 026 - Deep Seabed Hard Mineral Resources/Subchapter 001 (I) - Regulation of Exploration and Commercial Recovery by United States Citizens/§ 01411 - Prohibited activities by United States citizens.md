@@ -16,7 +16,7 @@
 
 &emsp;(B) Mapping, or the taking of any geophysical, geochemical, oceanographic, or atmospheric measurements or random bottom samplings of the deep seabed, if such taking does not significantly alter the surface or subsurface of the deep seabed or significantly affect the environment.
 
-&emsp;(C) The design, construction, or testing of equipment and facilities which will or may be used for exploration or commercial recovery,if such design, construction, or testing is conducted on shore, or does not involve the recovery of any but incidental hard mineral resources.
+&emsp;(C) The design, construction, or testing of equipment and facilities which will or may be used for exploration or commercial recovery, if such design, construction, or testing is conducted on shore, or does not involve the recovery of any but incidental hard mineral resources.
 
 &emsp;(D) The furnishing of machinery, products, supplies, services, or materials for any exploration or commercial recovery conducted under a license or permit issued under this subchapter, a license or permit or equivalent authorization issued by a reciprocating state, or under an international agreement.
 

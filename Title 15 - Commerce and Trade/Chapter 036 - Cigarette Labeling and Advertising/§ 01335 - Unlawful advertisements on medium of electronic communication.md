@@ -16,5 +16,5 @@ Amendment by Pub. L. 93–109 effective thirty days after Sept. 21, 1973, see se
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub.L. 91–222, set out in part as a note under section 1331 of this title.
+Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 

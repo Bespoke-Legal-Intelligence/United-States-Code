@@ -10,7 +10,7 @@
 
 &emsp;(C) there is a reasonable expectation of employment following completion of such training,
 
-&emsp;(D) training approved by the Secretary is reasonably available to the worker from either governmental agencies or private sources (which may include area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963,<sup>1</sup> and employers) <sup>2</sup>
+&emsp;(D) training approved by the Secretary is reasonably available to the worker from eithergovernmental agencies or private sources (which may include area vocational education schools, as defined in section 195(2) of the Vocational Education Act of 1963,<sup>1</sup> and employers) <sup>2</sup>
 
 &emsp;(E) the worker is qualified to undertake and complete such training, and
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) on-the-job training,
 
-&emsp;(B) any training program provided by a State pursuant to section 1653 of title 29,<sup>1</sup>
+&emsp;(B) any training program provided by a State pursuant to section 1653 of title 29 <sup>1</sup> or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
 
 &emsp;(C) any training program approved by a private industry council established under section 1512 of title 29,
 
@@ -110,9 +110,13 @@ A worker may not be determined to be ineligible or disqualified for unemployment
 
 #### (e) “Suitable employment” defined
 
-For purposes of this section the term “suitable employment” means, with respect to a worker, work of a substantially equal or higher skill level than the worker's past adversely affected employment, and wages for such work at notless than 80 percent of the worker's average weekly wage.
+For purposes of this section the term “suitable employment” means, with respect to a worker, work of a substantially equal or higher skill level than the worker's past adversely affected employment, and wages for such work at not less than 80 percent of the worker's average weekly wage.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668.)
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+
+#### Amendment of Subsection (a)(5)(B)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(11)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–431, 2681–435, provided that, effective July 1, 2000, subsection (a)(5)(B) of this section is amended by striking “section 1653 of title 29 or”.</i>
 
 #### Termination of Section
 
@@ -120,11 +124,15 @@ For purposes of this section the term “suitable employment” means, with resp
 
 #### References in Text
 
-Section 195(2) of the Vocational Education Act of 1963, referred to in subsec. (a)(1)(D), is section 195(2) of Pub. L. 88–210, title I, as added by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2211, and amended, which was classified to section 2461(2) of Title 20, Education, prior to the general revision and redesignation of Pub. L. 88–210 as the Carl D. Perkins Vocational Education Act by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435. The definition of “area vocational education school” is now contained in section 521(4) of Pub. L. 88–210, which is classified to section 2471(4) of Title 20.
+Section 195(2) of the Vocational Education Act of 1963, referred to in subsec. (a)(1)(D), is section 195(2) of Pub. L. 88–210, title I, as added by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2211, and amended, which was classified to section 2461(2) of Title 20, Education, prior to the general amendment and redesignation of Pub. L. 88–210 as the Carl D. Perkins Vocational Education Act by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435.
 
 Section 1653 of title 29, referred to in subsec. (a)(5)(B), was amended generally by Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1527, and, as so amended, does not refer to training programs provided by a State.
 
+The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, seeShort Title note set out under section 9201 of Title 20, Education, and Tables.
+
 #### Amendments
+
+1998—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(14)(A)\], substituted “section 1653 of title 29 or title I of the Workforce Investment Act of 1998” for “section 1653 of title 29”.
 
 1993—Subsec. (a)(2)(A). Pub. L. 103–66 inserted before period at end “, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
 
@@ -169,6 +177,10 @@ Subsec. (f). Pub. L. 99–272, §13004(a)(4), (5), redesignated par. (3) of subs
 1981—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changes in nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(14)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(11)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\], set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1988 Amendments
 

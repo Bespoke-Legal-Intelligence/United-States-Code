@@ -8,7 +8,7 @@
 
 (d) Agency subpenas authorized by law shall be issued to a party on request and, when required by rules of procedure, on a statement or showing of general relevance and reasonable scope of the evidence sought. On contest, the court shall sustain the subpena or similar process or demand to the extent that it is found to be in accordance with law. In a proceeding for enforcement, the court shall issue an order requiring the appearance of the witness or the production of the evidence or data within a reasonable time under penalty of punishment for contempt in case of contumacious failure to comply.
 
-(e) Prompt notice shall be given of the denial in whole or in part of a written application, petition, or other request of an interested person made in connection with any agency proceeding. Except in affirming a prior denial or when the denial is self-explanatory, the notice shall be accompanied by a brief statement of the grounds for denial.
+(e) Prompt notice shall be given of the denial in whole or in part of a written application, petition, or other request of an interested person made in connection with any agency proceeding. Except in affirming a prior denial or when thedenial is self-explanatory, the notice shall be accompanied by a brief statement of the grounds for denial.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 385.)
 

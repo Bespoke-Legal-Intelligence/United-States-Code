@@ -8,6 +8,10 @@ All lands allotted to Indians in severalty, except allotments made to members of
 
 1955—Act Aug. 9, 1955, authorized Secretary of the Interior to lease allotted lands for mining purposes where the allottee is deceased and the heirs to or devisees of any interest in the allotment either have not been determined or cannot be located.
 
+#### Leases of Allotted Lands of Fort Berthold Indian Reservation
+
+Pub. L. 105–188, §1, July 7, 1998, 112 Stat. 620, authorized Secretary of the Interior to approve mineral lease or agreement that affects individually owned land located within Fort Berthold Indian Reservation in North Dakota upon consent of majority interest and best interest determination.
+
 #### Cross References
 
 Lands held in trust may be leased by allottee for period not to exceed five years under rules and regulations of the Secretary of the Interior, see section 403 of this title.

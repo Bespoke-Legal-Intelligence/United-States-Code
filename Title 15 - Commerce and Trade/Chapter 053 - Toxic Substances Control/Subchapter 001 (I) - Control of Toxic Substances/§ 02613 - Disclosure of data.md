@@ -14,7 +14,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 &emsp;(3) shall be disclosed if the Administrator determines it necessary to protect health or the environment against an unreasonable risk of injury to health or the environment; or
 
-&emsp;(4) may be disclosed when relevant in any proceeding under this chapter, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
+&emsp;(4) may be disclosed when relevant in any proceeding under this chapter, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality tothe extent practicable without impairing the proceeding.
 
 > In any proceeding under section 552(a) of title 5 to obtain information the disclosure of which has been denied because of the provisions of this subsection, the Administrator may not rely on section 552(b)(3) of such title to sustain the Administrator's action.
 
@@ -32,7 +32,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 > This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture, the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
 
-(2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 forinformation which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
+(2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 for information which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
 
 #### (c) Designation and release of confidential data
 

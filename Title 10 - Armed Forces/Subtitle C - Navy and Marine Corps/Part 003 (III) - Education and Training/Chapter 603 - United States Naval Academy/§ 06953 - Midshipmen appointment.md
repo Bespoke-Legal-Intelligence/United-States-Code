@@ -2,7 +2,7 @@
 
 Midshipmen at the Naval Academy shall be appointed by the President alone. An appointment is conditional until the midshipman is admitted.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Oct. 14, 1981, Pub. L. 97–60, title II, §203(b)(1), 95 Stat. 1006.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 97–60, title II, §203(b)(1), Oct. 14, 1981, 95 Stat. 1006.)
 
 #### Historical and Revision Notes
 

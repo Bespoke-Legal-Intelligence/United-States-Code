@@ -16,7 +16,7 @@
 
 > If the person against whom the money penalty is assessed fails to pay such penalty after the lapse of the period allowed for appeal or after the affirmance of such penalty, the Commission may refer the matter to the Attorney General who shall recover such penalty by action in the appropriate United States district court.
 
-(Sept. 21, 1922, ch. 369, §6(e), formerly §6(d), as added Oct. 23, 1974, Pub. L. 93–463, title II, §212(a)(3), 88 Stat. 1403; renumbered §6(e) and amended Oct. 28, 1992, Pub. L. 102–546, title II, §209(a)(1), (5), 106 Stat. 3606.)
+(Sept. 21, 1922, ch. 369, §6(e), formerly §6(d), as added Pub. L. 93–463, title II, §212(a)(3), Oct. 23, 1974, 88 Stat. 1403; renumbered §6(e) and amended Pub. L. 102–546, title II, §209(a)(1), (5), Oct. 28, 1992, 106 Stat. 3606.)
 
 #### References in Text
 

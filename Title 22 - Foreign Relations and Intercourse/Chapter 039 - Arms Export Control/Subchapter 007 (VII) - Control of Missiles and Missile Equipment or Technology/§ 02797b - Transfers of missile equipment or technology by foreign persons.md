@@ -2,7 +2,7 @@
 
 #### (a) Sanctions
 
-(1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that a foreign person, after November 5, 1990, knowingly—
+(1) Subject to subsections (c) through (g) <sup>1</sup> of this section, if the President determines that aforeign person, after November 5, 1990, knowingly—
 
 &emsp;(A) exports, transfers, or otherwise engages in the trade of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter,
 
@@ -42,11 +42,11 @@ Sanctions set forth in subsection (a) of this section may not be imposed under t
 
 #### (d) Advisory opinions
 
-The Secretary of State, in consultation with the Secretary of Defense, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency, may, upon the request of any person, issue an advisory opinion to that person as to whether a proposed activity by that person would subject that person to sanctions under this section. Any person who relies in good faith on such an advisory opinion which states that the proposed activity would not subject a person to such sanctions, and any person who thereafter engages in such activity, may not be made subject to such sanctions on account of such activity.
+The Secretary of State, in consultation with the Secretary of Defense and the Secretary of Commerce, may, upon the request of any person, issue an advisory opinion to that person as to whether a proposed activity by that person would subject that person to sanctions under this section. Any person who relies in good faith on such an advisory opinion which states that the proposed activity would not subject a person to such sanctions, and any person who thereafter engages in such activity, may not be made subject to such sanctions on account of such activity.
 
 #### (e) Waiver and report to Congress
 
-(1) In any case other than one in which an advisory opinion has been issued under subsection (d) of this section stating that a proposed activity would not subject a person to sanctions under this section, the President may waive theapplication of subsection (a) of this section to a foreign person if the President determines that such waiver is essential to the national security of the United States.
+(1) In any case other than one in which an advisory opinion has been issued under subsection (d) of this section stating that a proposed activity would not subject a person to sanctions under this section, the President may waive the application of subsection (a) of this section to a foreign person if the President determines that such waiver is essential to the national security of the United States.
 
 (2) In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
 
@@ -60,7 +60,7 @@ The President may waive the imposition of sanctions under paragraph (1) on a per
 
 &emsp;(1) the product or service is essential to the national security of the United States; and
 
-&emsp;(2) such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
+&emsp;(2) such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliablesupplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
 
 #### (h) Exceptions
 
@@ -86,13 +86,15 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;&emsp;(D) information and technology essential to United States products or production.
 
-(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494.)
+(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### References in Text
 
 Subsections (f) and (g) of this section, referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by Pub. L. 103–236, title VII, §734(b)(1), Apr. 30, 1994, 108 Stat. 505.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–277 substituted “and the Secretary of Commerce” for “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency”.
 
 1996—Subsec. (e)(2). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “the Congress” and “45 working days” for “20 working days”.
 
@@ -101,6 +103,14 @@ Subsections (f) and (g) of this section, referred to in subsec. (a)(1), were red
 Subsecs. (f) to (h). Pub. L. 103–236, §734(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 1991—Subsec. (a)(1)(A). Pub. L. 102–138 inserted “acquisition,” before “design,”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
 #### Delegation of Functions
 

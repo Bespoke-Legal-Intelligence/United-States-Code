@@ -68,7 +68,7 @@ The Commission shall have an official seal, which shall be judicially noticed.
 
 The Commission is authorized to promulgate such rules and regulations as it deems necessary to govern the operating procedures and conduct of the business of the Commission.
 
-(Sept. 21, 1922, ch. 369, §2(a)(2)–(11), as added Oct. 23, 1974, Pub. L. 93–463, title I, §101(a)(3), 88 Stat. 1389; amended Sept. 30, 1978, Pub. L. 95–405, §2(2)–(15), 92 Stat. 865–867; Jan. 11, 1983, Pub. L. 97–444, title II, §202, 96 Stat. 2298; Oct. 28, 1992, Pub. L. 102–546, title II, §§215, 226, 106 Stat. 3611, 3618.)
+(Sept. 21, 1922, ch. 369, §2(a)(2)–(11), as added Pub. L. 93–463, title I, §101(a)(3), Oct. 23, 1974, 88 Stat. 1389; amended Pub. L. 95–405, §2(2)–(15), Sept. 30, 1978, 92 Stat. 865–867; Pub. L. 97–444, title II, §202, Jan. 11, 1983, 96 Stat. 2298; Pub. L. 102–546, title II, §§215, 226, Oct. 28, 1992, 106 Stat. 3611, 3618.)
 
 #### Codification
 

@@ -4,7 +4,7 @@ Whoever breaks the seal or lock of any railroad car, vessel, aircraft, motortruc
 
 A judgment of conviction or acquittal on the merits under the laws of any State shall be a bar to any prosecution under this section for the same act or acts. Nothing contained in this section shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this section operate to the exclusion of State laws on the same subject matter, nor shall any provision of this section be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this section or any provision thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 797; May 24, 1949, ch. 139, §44, 63 Stat. 96; Oct. 14, 1966, Pub. L. 89–654, §2(a)–(c), 80 Stat. 904; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 797; May 24, 1949, ch. 139, §44, 63 Stat. 96; Pub. L. 89–654, §2(a)–(c), Oct. 14, 1966, 80 Stat. 904; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

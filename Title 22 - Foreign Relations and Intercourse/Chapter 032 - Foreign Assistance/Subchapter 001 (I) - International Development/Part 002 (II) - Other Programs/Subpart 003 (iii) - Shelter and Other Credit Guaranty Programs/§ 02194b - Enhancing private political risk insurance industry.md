@@ -26,7 +26,7 @@ In order to encourage greater availability of political risk insurance for eligi
 
 #### (3) Meetings
 
-&emsp;The advisory group shall meet not later than September 30, 1989, and at least annually thereafter. The Corporation may from time to time convene meetings of selected members of the advisory group to address particular questions requiring their specialized knowledge.
+&emsp;The advisory group shall meet not later than September 30, 1989, and at least annually thereafter. The Corporation may from time totime convene meetings of selected members of the advisory group to address particular questions requiring their specialized knowledge.
 
 #### (4) Federal Advisory Committee Act
 

@@ -92,14 +92,13 @@
 | (e) | Submission to Congress. |
 | [6684\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006684%20-%20Administration%20and%20funding%20of%20panel.md) | Administration and funding of panel. |
 | [6685\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006685%20-%20Expiration.md) | Expiration. |
-| [6686\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006686%20-%20Critical%20Technologies%20Institute.md) | Critical Technologies Institute. |
+| [6686\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006686%20-%20Science%20and%20Technology%20Policy%20Institute.md) | Science and Technology Policy Institute. |
 | (a) | Establishment. |
 | (b) | Incorporation. |
-| (c) | Operating Committee. |
-| (d) | Duties. |
-| (e) | Consultation on Institute activities. |
-| (f) | Annual reports. |
-| (g) | Sponsorship. |
+| (c) | Duties. |
+| (d) | Consultation on Institute activities. |
+| (e) | Annual reports. |
+| (f) | Sponsorship. |
 | [6687\.](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/%C2%A7%2006687%20-%20Critical%20technology%20strategies.md) | Critical technology strategies. |
 | (a) | Requirement for critical technology strategies. |
 | (b) | Report. |

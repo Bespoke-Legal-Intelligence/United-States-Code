@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1437<i>l</i>, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 3535, 3608a, 3616a, 4621, 5304, 5306, 5307, 6727, 8013, 11386, 11394, 12181, 12754, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603 of this title; title 12 sections 1701q, 1708, 4545; title 15 section 1691e; title 23 section 117; title 25 section 4131; title 31 section 6711; title 49 section 70304.
+This subchapter is referred to in sections 1437c–1, 1437d, 1437f, 1437aaa–1, 1437aaa–2, 3535, 3608a, 3616a, 4621, 5304, 5306, 5307, 6727, 8013, 11386, 11394, 12181, 12754, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603 of this title; title 12 sections 1701q, 1708, 4545; title 15 section 1691e; title 25 section 4131; title 31 section 6711; title 49 section 70304.
 
 
 ---

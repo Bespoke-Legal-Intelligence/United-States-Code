@@ -28,7 +28,7 @@ The Federal Rules of Evidence, referred to in subsec. (c), are set out in the Ap
 
 #### Amendments
 
-<b>1975</b>—Subsec. (c). Pub. L. 93–595 added subsec. (c).
+1975—Subsec. (c). Pub. L. 93–595 added subsec. (c).
 
 #### Federal Rules of Civil Procedure
 

@@ -30,7 +30,7 @@ Pursuant to the same authority, I also hereby extend to the West Coast Office of
 
 (c) ascertaining by all lawful means conditions and developments in the commercial, economic, cultural, and scientific life of the United States, reporting thereon to the European Communities and giving information to persons interested.
 
-Pursuant to the same authority, I also hereby extend to the members of the administrative and technical staff and members of the service staff of the Delegation of the Commission of the European Communities assigned to Washington to represent the Commission to the Government of the United States and duly notified to and accepted by the Secretary of State, and to their families, the same privileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by members of the administrative and technical staff and members of the service staff of diplomatic missions accredited to the United States.
+Pursuant to the same authority, I also hereby extend to the members of the administrative and technical staff and members of the service staff of the Delegation of the Commission of the European Communities assigned to Washington to represent the Commission tothe Government of the United States and duly notified to and accepted by the Secretary of State, and to their families, the same privileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by members of the administrative and technical staff and members of the service staff of diplomatic missions accredited to the United States.
 
 This order is not intended to abridge in any respect privileges, exemptions or immunities that the Delegation of the Commission of the European Communities may have acquired or may acquire by international agreements or by Congressional action.
 
@@ -40,7 +40,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 11689, Dec. 5, 1972, 37 F.R. 25987, provided:
 
-By virtue of the authority vested in me by the Act of October 18, 1972 (Public Law 92–499) \[this section\], and as President of the United States, I hereby extend to the Mission to the United States of America of the Commission of the European Communities, and to the officers of that Mission assigned to Washington to represent the Commission to the Government of the United States and duly notified to and accepted by the Secretary of State, and to their families, the sameprivileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by diplomatic missions accredited to the United States and by members of the diplomatic staffs thereof.
+By virtue of the authority vested in me by the Act of October 18, 1972 (Public Law 92–499) \[this section\], and as President of the United States, I hereby extend to the Mission to the United States of America of the Commission of the European Communities, and to the officers of that Mission assigned to Washington to represent the Commission to the Government of the United States and duly notified to and accepted by the Secretary of State, and to their families, the same privileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by diplomatic missions accredited to the United States and by members of the diplomatic staffs thereof.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

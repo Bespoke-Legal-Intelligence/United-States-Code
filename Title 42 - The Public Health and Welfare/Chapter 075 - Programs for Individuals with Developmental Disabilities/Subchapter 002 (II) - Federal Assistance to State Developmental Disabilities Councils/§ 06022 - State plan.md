@@ -24,7 +24,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;The plan shall contain a comprehensive review and analysis of the extent to which services and supports are available to, and the need for services and supports for, individuals with developmental disabilities and their families. Such review and analysis shall include—
 
-&emsp;&emsp;(A) a description of the services, supports and other assistance being provided to, or to be provided to, individuals with developmental disabilities and their families under other federally assisted State programs, plans, and policies that the State conducts and in which individuals with developmental disabilities are or may be eligible to participate, including programs relating to education, job training, vocational rehabilitation, public assistance, medical assistance, social services, child welfare, maternal and child health, aging, programs for children with special health care needs, children's mental health, housing, transportation, technology, comprehensive health and mental health, and such other programs as the Secretary may specify;
+&emsp;&emsp;(A) a description of the services, supports and other assistance being provided to, or to be provided to, individuals with developmental disabilities and their families under other federally assisted State programs, plans, and policies that the State conducts and in which individuals with developmental disabilities are or may be eligible to participate, including programs relating to education, job training, vocational rehabilitation, public assistance, medical assistance, social services, child welfare, maternal and child health, aging, programs for childrenwith special health care needs, children's mental health, housing, transportation, technology, comprehensive health and mental health, and such other programs as the Secretary may specify;
 
 &emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs pursue interagency initiatives to improve and enhance services, supports, and other assistance for individuals with developmental disabilities; and
 
@@ -52,7 +52,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;The plan shall—
 
-&emsp;&emsp;(A) specify employment, and at the discretion of the State, any or all of the threeother Federal priority areas and an optional State priority area that are selected by the State Developmental Disabilities Council for such Council's major systemic change, capacity building, and advocacy activities to be addressed during the plan period and describe the extent and scope of the Federal and State priority areas that will be addressed under the plan in the fiscal year;
+&emsp;&emsp;(A) specify employment, and at the discretion of the State, any or all of the three other Federal priority areas and an optional State priority area that are selected by the State Developmental Disabilities Council for such Council's major systemic change, capacity building, and advocacy activities to be addressed during the plan period and describe the extent and scope of the Federal and State priority areas that will be addressed under the plan in the fiscal year;
 
 &emsp;&emsp;(B) describe the specific 1-year and 3-year objectives to be achieved and include a listing of the programs, activities, and resources by which the State Developmental Disabilities Council will implement its systemic change, capacity building, and advocacy activities in selected priority areas, and set forth the non-Federal share required to carry out each objective; and
 
@@ -108,7 +108,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (H) Minority participation
 
-&emsp;&emsp;The plan shall provide assurances that the State has taken affirmative steps to assure that participation in programs under this subchapter is geographically representativeof the State, and reflects the diversity of the State with respect to race and ethnicity.
+&emsp;&emsp;The plan shall provide assurances that the State has taken affirmative steps to assure that participation in programs under this subchapter is geographically representative of the State, and reflects the diversity of the State with respect to race and ethnicity.
 
 #### (I) Intermediate care facility for the mentally retarded survey reports
 
@@ -142,7 +142,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (2) Consultation with the designated State agency
 
-&emsp;Before the plan is submitted to the Secretary, the State Developmental Disabilities Council shall consult with the designated State agency to ensure that the State plan is consistent with State law and to obtain appropriate State plan assurances.
+&emsp;Before the plan is submitted to the Secretary, the State Developmental Disabilities Council shall consult with the designated State agency to ensure that the State plan isconsistent with State law and to obtain appropriate State plan assurances.
 
 #### (3) Plan approval
 
@@ -224,7 +224,7 @@ Subsec. (e). Pub. L. 100–146, §202(b)(1)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–146, §202(b)(3)(C), added subsec. (f).
 
-1985—Subsec. (b)(4)(C). Pub. L. 99–91 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Notwithstanding the requirements of subparagraph (B), upon the application of a State, the Secretary, pursuant to regulations which the Secretary shall prescribe, may permit the portion of the fundswhich must otherwise be expended under the State plan for service activities in a limited number of services to be expended for service activities in additional services if the Secretary determines that the expenditures of the State on service activities in the initially specified services has reasonably met the need for those services in the State in comparison to the extent to which the need for such additional services has been met in such State. Such additional areas shall, to the maximum extent feasible, be areas within the priority services.”
+1985—Subsec. (b)(4)(C). Pub. L. 99–91 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Notwithstanding the requirements of subparagraph (B), upon the application of a State, the Secretary, pursuant to regulations which the Secretary shall prescribe, may permit the portion of the funds which must otherwise be expended under the State plan for service activities in a limited number of services to be expended for service activities in additional services if the Secretary determines that the expenditures of the State on service activities in the initially specified services has reasonably met the need for those services in the State in comparison to the extent to which the need for such additional services has been met in such State. Such additional areas shall, to the maximum extent feasible, be areas within the priority services.”
 
 #### Effective Date of 1997 Amendment
 

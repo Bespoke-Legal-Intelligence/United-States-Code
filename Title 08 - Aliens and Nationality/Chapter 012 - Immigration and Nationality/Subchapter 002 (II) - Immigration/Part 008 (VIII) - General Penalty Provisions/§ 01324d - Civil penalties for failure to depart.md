@@ -20,7 +20,7 @@ Any alien subject to a final order of removal who—
 
 Nothing in this section shall be construed to diminish or qualify any penalties to which an alien may be subject for activities proscribed by section 1253(a) of this title or any other section of this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274D, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §380(a), 110 Stat. 3009–650.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274D, as added Pub. L. 104–208, div. C, title III, §380(a), Sept. 30, 1996, 110 Stat. 3009–650.)
 
 #### Effective Date
 

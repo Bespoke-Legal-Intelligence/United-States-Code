@@ -60,7 +60,7 @@ The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(4),
 
 The Family and Medical Leave Act of 1993, referred to in subsec. (a)(5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29. For completeclassification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 The Employee Polygraph Protection Act of 1988, referred to in subsec. (a)(8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 

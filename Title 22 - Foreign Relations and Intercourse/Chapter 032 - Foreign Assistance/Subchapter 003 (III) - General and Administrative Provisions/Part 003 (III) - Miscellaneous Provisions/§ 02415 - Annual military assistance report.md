@@ -6,9 +6,9 @@ Not later than February 1 of each year, the President shall transmit to the Cong
 
 #### (b) Information relating to military assistance and military exports
 
-Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education andtraining authorized by the United States, excluding that which is pursuant to activies <sup>1</sup> reportable under title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
+Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles), defense services, and international military education and training authorized by the United States, excluding that which is pursuant to activies <sup>1</sup> reportable under title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], to each foreign country and international organization. The report shall specify, by category, whether such defense articles—
 
-&emsp;(1) were furnished by grant under part II or part V of subchapter II of this chapter or under any other authority of law or by sale under chapter 2 of the Arms Export Control Act \[22 U.S.C. 2761 et seq.\]; or
+&emsp;(1) were furnished by grant under part II or part V of subchapter II of this chapter orunder any other authority of law or by sale under chapter 2 of the Arms Export Control Act \[22 U.S.C. 2761 et seq.\]; or
 
 &emsp;(2) were licensed for export under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\].
 
@@ -43,6 +43,10 @@ Information Relating to Military Assistance and Military Exports.—Each such re
 “(c)
 
 Information Relating to Military Imports.—Each such report shall also include the total amount of military items of non-United States manufacture that were imported into the United States during the fiscal year covered by the report. The report shall show the country of origin, the type of item being imported, and the total amount of items.”
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of State insofar as they relate to defense articles and defense services licensed for export under section 2778 of this title and delegated to Secretary of Defense insofar as they relate to defense articles, defense services, and international military education and training furnished by grant or sale by Secretary of Defense, except to the extent otherwise delegated, and functions of President under subsec. (c) of this section delegated to Secretary of the Treasury, by sections 1–201(a)(18), 1–301(e), and 1–501(a)(4) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “activities”.</i>
 

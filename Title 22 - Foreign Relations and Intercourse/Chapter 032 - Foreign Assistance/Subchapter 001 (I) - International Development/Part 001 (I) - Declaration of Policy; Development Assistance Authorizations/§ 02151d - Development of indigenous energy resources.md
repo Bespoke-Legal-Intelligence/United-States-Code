@@ -2,7 +2,7 @@
 
 #### (a) Congressional statement of findings
 
-(1)(A) The Congress finds that energy development and production are vital elements in the development process, that energy shortages in developing countries severely limit the development process in such countries, that two-thirds of the developing countries which import oil depend on it for at least 90 percent of the energy which their economies require, and that the dramatic increase in world oil prices since 1973 has resulted in considerable economic hardship for many developing countries. The Congress is concerned that the value and purpose of much of the assistance provided to developing countries under sections 2151a, 2151b, and 2151c of this title are undermined by the inability of many developing countries to satisfy their energy requirements. Unless the energy deficit of the developing countries can be narrowed by more fully exploiting indigenous sources of energy such as oil, natural gas, and coal, scarce foreign exchange will increasingly have to be diverted to oil imports, primarily to the detriment of long-term development and economic growth.
+(1)(A) The Congress finds that energy development and production are vital elements in the development process, that energy shortages in developing countries severely limit the development process in such countries, that two-thirdsof the developing countries which import oil depend on it for at least 90 percent of the energy which their economies require, and that the dramatic increase in world oil prices since 1973 has resulted in considerable economic hardship for many developing countries. The Congress is concerned that the value and purpose of much of the assistance provided to developing countries under sections 2151a, 2151b, and 2151c of this title are undermined by the inability of many developing countries to satisfy their energy requirements. Unless the energy deficit of the developing countries can be narrowed by more fully exploiting indigenous sources of energy such as oil, natural gas, and coal, scarce foreign exchange will increasingly have to be diverted to oil imports, primarily to the detriment of long-term development and economic growth.
 
 (B) The Congress recognizes that many developing countries lack access to the financial resources and technology necessary to locate, explore, and develop indigenous energy resources.
 
@@ -34,7 +34,7 @@ The President is authorized to furnish assistance, on such terms and conditions 
 
 &emsp;(1) programs of technical cooperation and development, particularly the development efforts of United States private and voluntary agencies and regional and international development organizations;
 
-&emsp;(2) programs of research into, and evaluation of, the process of economic development inless developed countries and areas, into the factors affecting the relative success and costs of development activities, and into the means, techniques, and such other aspects of development assistance as the President may determine in order to render such assistance of increasing value and benefit;
+&emsp;(2) programs of research into, and evaluation of, the process of economic development in less developed countries and areas, into thefactors affecting the relative success and costs of development activities, and into the means, techniques, and such other aspects of development assistance as the President may determine in order to render such assistance of increasing value and benefit;
 
 &emsp;(3) programs of reconstruction following natural or manmade disasters and programs of disaster preparedness, including the prediction of and contingency planning for natural disasters abroad;
 
@@ -102,11 +102,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151f, 2151u, 2293, 2346, 3262 of this title.
+This section is referred to in sections 2151f, 2151u, 2293, 3262 of this title.
 

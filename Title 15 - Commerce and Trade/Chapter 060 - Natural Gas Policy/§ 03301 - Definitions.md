@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 #### (B) Marker well
 
-&emsp;&emsp;The term “completion location”, when used with reference to any marker well, means any subsurface location from which natural gas was produced from such well incommercial quantities after January 1, 1970, and before April 20, 1977.
+&emsp;&emsp;The term “completion location”, when used with reference to any marker well, means any subsurface location from which natural gas was produced from such well in commercial quantities after January 1, 1970, and before April 20, 1977.
 
 #### (8) Proration unit
 
@@ -214,7 +214,7 @@ For purposes of this chapter—
 
 #### (36) Prudhoe Bay Unit of Alaska
 
-&emsp;The term “Prudhoe Bay Unit of Alaska” means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977, and referred to as the “affected area” in Conservation Order No. 145 of the Alaska Oil andGas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
+&emsp;The term “Prudhoe Bay Unit of Alaska” means the geographic area subject to the voluntary unit agreement approved by the Commissioner of the Department of Natural Resources of the State of Alaska on June 2, 1977, and referred to as the “affected area” in Conservation Order No. 145 of the Alaska Oil and Gas Conservation Committee, Division of Oil and Gas Conservation, Department of Natural Resources of the State of Alaska, as such order was in effect on June 1, 1977, and determined without regard to any adjustments in the description of the affected area permitted to be made under such order.
 
 #### (37) Antitrust laws
 

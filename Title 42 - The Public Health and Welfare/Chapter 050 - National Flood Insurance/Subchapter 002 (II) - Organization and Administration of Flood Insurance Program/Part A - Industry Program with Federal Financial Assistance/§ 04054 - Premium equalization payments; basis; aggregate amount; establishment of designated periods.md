@@ -10,7 +10,7 @@
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
-1973—Subsecs. (b), (c). Pub. L. 93–234 redesignated subsec. (c) as (b) and struck out former subsec. (b) prescribing formula for sharing losses between Government and industry and permit necessary flexibility in loss sharing to take into account longer-term loss experience trends and to compensate for lack of precision in actuarial computations.
+1973—Subsecs. (b), (c). Pub. L. 93–234 redesignated subsec. (c) as (b) and struck out former subsec. (b) prescribing formula for sharing losses between Government and industry and permit necessary flexibility inloss sharing to take into account longer-term loss experience trends and to compensate for lack of precision in actuarial computations.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 &emsp;&emsp;&emsp;(ii) such securities are not transferable except for disposition by gift, will, or intestacy;
 
-&emsp;&emsp;&emsp;(iii) no investment adviser of such business development company receives any compensation described in paragraph (1) of section 80b–5 <sup>1</sup> of this title, except to the extent permitted by clause (A) or (B) of that section; and
+&emsp;&emsp;&emsp;(iii) no investment adviser of such business development company receives any compensation described in paragraph (1) ofsection 80b–5 <sup>1</sup> of this title, except to the extent permitted by clause (A) or (B) of that section; and
 
 &emsp;&emsp;&emsp;(iv) such business development company does not have a profit-sharing plan described in section 80a–56(n) of this title; and
 
@@ -34,7 +34,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 &emsp;&emsp;&emsp;(i) such warrants, options, or rights satisfy the conditions in clauses (i) and (iii) of subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) the proposal to issue such warrants, options, or rights is authorized by the shareholders or partners of such business development company, and such issuance is approved by the required majority (as defined in section 80a–56(<i>o</i>) of this title) of the directors of or general partners in suchcompany on the basis that such issuance is in the best interests of the company and its shareholders or partners.
+&emsp;&emsp;&emsp;(ii) the proposal to issue such warrants, options, or rights is authorized by the shareholders or partners of such business development company, and such issuance is approved by the required majority (as defined in section 80a–56(<i>o</i>) of this title) of the directors of or general partners in such company on the basis that such issuance is in the best interests of the company and its shareholders or partners.
 
 > &emsp;Notwithstanding this paragraph, the amount of voting securities that would result from the exercise of all outstanding warrants, options, and rights at the time of issuance shall not exceed 25 per centum of the outstanding voting securities of the business development company, except that if the amount of voting securities that would result from the exercise of all outstanding warrants, options, and rights issued to such company's directors, officers, employees, and general partners pursuant to any executive compensation plan meeting the requirements of subparagraph (B) of this paragraph would exceed 15 per centum of the outstanding voting securities of such company, then the total amount of voting securities that would result from the exercise of all outstanding warrants, options, and rights at the time of issuance shall not exceed 20 per centum of the outstanding voting securities of such company.
 
@@ -44,7 +44,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 A business development company shall comply with the provisions of this section at the time it becomes subject to sections 80a–54 through 80a–64 of this title, as if it were issuing a security of each class which it has outstanding at such time.
 
-(Aug. 22, 1940, ch. 686, title I, §61, as added Oct. 21, 1980, Pub. L. 96–477, title I, §105, 94 Stat. 2286; amended Oct. 11, 1996, Pub. L. 104–290, title V, §506, 110 Stat. 3446.)
+(Aug. 22, 1940, ch. 686, title I, §61, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2286; amended Pub. L. 104–290, title V, §506, Oct. 11, 1996, 110 Stat. 3446.)
 
 #### References in Text
 

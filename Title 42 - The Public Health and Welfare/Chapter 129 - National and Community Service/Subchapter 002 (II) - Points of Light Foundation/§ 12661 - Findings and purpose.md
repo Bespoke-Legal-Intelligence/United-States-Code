@@ -22,7 +22,7 @@ Congress finds that—
 
 It is the purpose of this subchapter—
 
-&emsp;(1) to encourage every American and every American institution to help solve our most critical social problems by volunteering their time, energies and services through community service projects and initiatives;
+&emsp;(1) to encourage every American and every American institution to help solve our mostcritical social problems by volunteering their time, energies and services through community service projects and initiatives;
 
 &emsp;(2) to identify successful and promising community service projects and initiatives, and to disseminate information concerning such projects and initiatives to other communities in order to promote their adoption nationwide; and
 

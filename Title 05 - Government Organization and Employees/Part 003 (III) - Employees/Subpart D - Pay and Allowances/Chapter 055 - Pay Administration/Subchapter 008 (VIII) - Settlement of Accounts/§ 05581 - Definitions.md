@@ -38,7 +38,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(I) retroactive pay under section 5344(a) (2) of this title.
 
-> &emsp;It does not include benefits, refunds, or interest payable under subchapter III of chapter 83 of this title applicable to the service of the deceased employee, or amounts the disposition of which is otherwise expressly prescribed by Federal statute.
+> &emsp;It does not include benefits, refunds, or interest payable under subchapter III of chapter 83of this title applicable to the service of the deceased employee, or amounts the disposition of which is otherwise expressly prescribed by Federal statute.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 495; Pub. L. 96–54, §2(a)(34), Aug. 14, 1979, 93 Stat. 383.)
 

@@ -108,7 +108,7 @@ Scientific Determinations Concerning Diseases.—(1) For each disease reviewed, 
 
 “(e)
 
-Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating toherbicide exposure. In making recommendations for further study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
+Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations for further study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
 
 “(f)
 
@@ -182,7 +182,7 @@ Annual Report.—The Secretary shall submit to the Committees on Veterans’ Aff
 
 &emsp;“(5) other explanations for the incidence of such disabilities considered reasonable by the Secretary; and
 
-&emsp;“(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of suchdisabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
+&emsp;“(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
 
 “(c)
 
@@ -394,7 +394,7 @@ Reports.—(1) Not later than 24 months after the date of the approval of the pr
 
 &emsp;“(B) any administrative actions or recommended legislation, or both, and any additional comments which the Administrator considers appropriate in light of such results.
 
-“(2) Not later than 90 days after the date on which each report required by paragraph (1) is submitted, the Administrator shall publish in the Federal Register, for public review and comment, a description of any action that the Administrator plans or proposes to take with respect to programs administered by the Veterans’ Administration based on—
+“(2) Not later than 90 days after the date on which each report required by paragraph (1) is submitted, the Administrator shall publish in the Federal Register, for public review and comment, a description of any action that the Administrator plans or proposes to take withrespect to programs administered by the Veterans’ Administration based on—
 
 &emsp;“(A) the results described in such report;
 
@@ -426,7 +426,7 @@ Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1113 of this title.
+This section is referred to in sections 1103, 1113 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of disability”.</i>
 

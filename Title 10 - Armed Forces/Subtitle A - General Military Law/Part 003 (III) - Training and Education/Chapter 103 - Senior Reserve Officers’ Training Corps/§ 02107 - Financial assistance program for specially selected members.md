@@ -28,7 +28,7 @@
 
 > The performance of service under clause (5)(B) or (5)(C) may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed, except that performance of service under clause (5)(C) shall include not less than two years of active duty.
 
-(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions. At least 50 percent of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at that rate.
+(c)(1) The Secretary of the military department concerned may provide for the payment of all expenses in his department of administering the financial assistance program under this section, including tuition, fees, books, and laboratory expenses. In the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’ Training Corps course, financial assistance under this section may also be provided during a fifth academic year or during a combination of a part of a fifth academic year and summer sessions. At least 50 percent of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at that rate.
 
 (2) The Secretary of Defense shall authorize the Secretaries of the military departments to carry out a test program to determine the desirability of enabling graduate students to participate in the financial assistance program under this section. As part of such test program, the Secretary of a military department may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under the test program. No scholarship may be awarded under the test program after September 30, 1999.
 
@@ -54,9 +54,9 @@ Subsec. (c). Pub. L. 104–201, §553(a), designated existing provisions as par.
 
 Subsec. (g). Pub. L. 104–201, §507(a)(2), substituted “performed on or after August 1, 1979, as a member” for “while serving on active duty other than for training after July 31, 1990, while a member”.
 
-Subsec. (h)(2). Pub. L. 104–106 inserted “A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two years under an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years.” after first sentence and “full-time” after “for service on” in penultimate sentence.
+Subsec. (h)(2). Pub. L. 104–106 inserted “A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two yearsunder an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years.” after first sentence and “full-time” after “for service on” in penultimate sentence.
 
-1992—Subsec. (g). Pub. L. 102–484, §517(a)(2), inserted before period at end “, other than concurrent enlisted service while serving on active duty other than fortraining after July 31, 1990, while a member of the Selected Reserve”.
+1992—Subsec. (g). Pub. L. 102–484, §517(a)(2), inserted before period at end “, other than concurrent enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
 
 Subsec. (h). Pub. L. 102–484, §532(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -121,6 +121,38 @@ Section 2 of Pub. L. 92–166 provided that: “This Act \[amending this section
 #### Effective Date
 
 Section 403 of Pub. L. 88–647 provided that: “Insofar as it relates to the Army program and the Air Force program, section 2107(h) of title 10, United States Code \[subsec. (h) of this section\], becomes effective on September 1, 1968. Until that date, not more than four thousand cadets may be in either of those programs at any one time. So far as it relates to the Navy program, section 2107(h) of title 10 becomes effective on September 1, 1965.”
+
+#### Review Regarding Allocation of Naval Reserve Officers’ Training Corps Scholarships Among Participating Colleges and Universities
+
+Pub. L. 105–261, div. A, title V, §507, Oct. 17, 1998, 112 Stat. 2004, provided that:
+
+“(a)
+
+Review.—The Secretary of the Navy should review the process and criteria used to determine the number of Naval Reserve Officer Training Corps (NROTC) scholarship recipients who attend each college and university participating in the NROTC program and how those scholarships are allocated to those schools.
+
+“(b)
+
+Purpose of Review.—The review should seek to determine—
+
+&emsp;“(1) whether the method used by the Navy to allocate NROTC scholarships could be changed so as to increase the likelihood that scholarship awardees attend the school of their choice while maintaining the Navy's capability to attain the objectives of the Naval ROTC program to meet the annual requirement for newly commissioned Navy ensigns and Marine Corps second lieutenants, as well as the overall needs of the officer corps of the Department of the Navy; and
+
+&emsp;“(2) within the determination under paragraph (1), whether the likelihood of a scholarship awardee who wants to attend a school of choice in the student's State of residence can be increased.
+
+“(c)
+
+Matters Reviewed.—The matters reviewed should include the following:
+
+&emsp;“(1) The factors and criteria considered in the process of determining the allocation of NROTC scholarships to host colleges and universities.
+
+&emsp;“(2) Historical data indicating the extent to which NROTC scholarship recipients attend colleges and universities they have indicated a preference to attend, as opposed to attending solely or mainly in order to receive an NROTC scholarship.
+
+&emsp;“(3) The extent to which the process used by the Navy to allocate NROTC scholarships to participating colleges and universities contributes to optimizing resources available for the operation of the NROTC program and improving the professional education of NROTC midshipmen.
+
+&emsp;“(4) The effects that eliminating the controlled allocation of scholarships to host colleges and universities, entirely or by State, would have on the NROTC program.
+
+“(d)
+
+Consultation Requirement.—In carrying out a review under subsection (a), the Secretary should consult with officials of interested associations and of colleges and universities which host ROTC units and such other officials as the Secretary considers appropriate.”
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 

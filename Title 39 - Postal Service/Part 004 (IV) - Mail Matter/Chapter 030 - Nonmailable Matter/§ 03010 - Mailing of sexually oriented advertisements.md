@@ -6,7 +6,7 @@
 
 (c) No person shall sell, lease, lend, exchange, or license the use of, or, except for the purpose expressly authorized by this section, use any mailing list compiled in whole or in part from the list maintained by the Postal Service pursuant to this section.
 
-(d) “Sexually oriented advertisement” means any advertisement that depicts, in actual orsimulated form, or explicitly describes, in a predominantly sexual context, human genitalia, any act of natural or unnatural sexual intercourse, any act of sadism or masochism, or any other erotic subject directly related to the foregoing. Material otherwise within the definition of this subsection shall be deemed not to constitute a sexually oriented advertisement if it constitutes only a small and insignificant part of the whole of a single catalog, book, periodical, or other work the remainder of which is not primarily devoted to sexual matters.
+(d) “Sexually oriented advertisement” means any advertisement that depicts, in actual or simulated form, or explicitly describes, in a predominantly sexual context, human genitalia, any act of natural or unnatural sexual intercourse, any act of sadism or masochism, or any other erotic subject directly related to the foregoing. Material otherwise within the definition of this subsection shall be deemed not to constitute a sexually oriented advertisement if it constitutes only a small and insignificant part of the whole of a single catalog, book, periodical, or other work the remainder of which is not primarily devoted to sexual matters.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 749.)
 

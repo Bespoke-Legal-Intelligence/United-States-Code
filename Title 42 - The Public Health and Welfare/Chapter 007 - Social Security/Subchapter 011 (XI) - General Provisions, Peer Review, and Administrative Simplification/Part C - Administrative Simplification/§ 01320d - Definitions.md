@@ -76,7 +76,7 @@ For purposes of this part:
 
 &emsp;The term “standard setting organization” means a standard setting organization accredited by the American National Standards Institute, including the National Council for Prescription Drug Programs, that develops standards for information transactions, data elements, or any other standard that is necessary to, or will facilitate, the implementation of this part.
 
-(Aug. 14, 1935, ch. 531, title XI, §1171, as added Aug. 21, 1996, Pub. L. 104–191, title II, §262(a), 110 Stat. 2021.)
+(Aug. 14, 1935, ch. 531, title XI, §1171, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2021.)
 
 #### References in Text
 

@@ -48,5 +48,5 @@ Pub. L. 102–390, title II, §201, Oct. 6, 1992, 106 Stat. 1624, provided that:
 
 Pub. L. 101–585, §1, Nov. 15, 1990, 104 Stat. 2874, provided that: “This Act \[amending section 5132 of this title\] may be cited as the ‘Silver Coin Proof Sets Act’.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be hundredths,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “hundredths,”.</i>
 

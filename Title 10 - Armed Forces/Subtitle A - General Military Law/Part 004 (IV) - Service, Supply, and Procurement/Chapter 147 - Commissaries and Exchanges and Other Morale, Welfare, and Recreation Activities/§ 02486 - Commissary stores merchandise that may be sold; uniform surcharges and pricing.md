@@ -40,7 +40,7 @@ Uniform Sales Price Surcharge or Adjustment.—An adjustment of or surcharge on 
 
 (d)
 
-Sales Price Establishment.—(1) The Secretary of Defense shall establish the sales price of each item of merchandise sold in, at, or by commissary stores at the level that will recoupthe actual product cost of the item (consistent with this section and sections 2484 and 2685 of this title).
+Sales Price Establishment.—(1) The Secretary of Defense shall establish the sales price of each item of merchandise sold in, at, or by commissary stores at the level that will recoup the actual product cost of the item (consistent with this section and sections 2484 and 2685 of this title).
 
 (2) Any change in the pricing policies for merchandise sold in, at, or by commissary stores shall not take effect until the Secretary of Defense submits written notice of the proposed change to Congress and a period of 90 days of continuous session of Congress expires following the date on which notice was received. For purposes of this paragraph, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment or recess of more than three days to a day certain are excluded in a computation of such 90-day period.
 
@@ -58,13 +58,33 @@ Special Rules for Certain Merchandise.—(1) Notwithstanding the general require
 
 &emsp;(B) Tobacco products.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707.)
+(g)
+
+Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn.The imposition and amounts of charges shall be consistent with practices of commercial grocery stores regarding dishonored checks.
+
+(2)(A) The following persons are liable to the United States for the amount of a check referred to in paragraph (1) that is returned unpaid to the United States, together with any charge imposed under that paragraph:
+
+&emsp;(i) The person who presented the check.
+
+&emsp;(ii) Any person whose status and relationship to the person who presented the check provide the basis for that person's eligibility to make purchases at a commissary store.
+
+(B) Any amount for which a person is liable under subparagraph (A) may be collected by deducting and withholding such amount from any amounts payable to that person by the United States.
+
+(3) Amounts collected as charges imposed under paragraph (1) shall be credited to the commissary trust revolving fund.
+
+(4) Appropriated funds may be used to pay any costs incurred in the collection of checks and charges referred to in paragraph (1). An appropriation account charged a cost under the preceding sentence shall be reimbursed the amount of that cost out of funds in the commissary trust revolving fund.
+
+(5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
+
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986.)
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (c), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
 1997—Subsec. (a). Pub. L. 105–85, §372(e)(1), inserted heading.
 

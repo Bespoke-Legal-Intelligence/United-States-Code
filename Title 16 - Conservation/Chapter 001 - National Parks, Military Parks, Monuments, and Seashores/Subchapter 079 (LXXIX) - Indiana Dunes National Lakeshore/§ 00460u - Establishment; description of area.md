@@ -16,7 +16,7 @@ In order to preserve for the educational, inspirational, and recreational use of
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–430 provided that: “This Act \[enacting sections 460u–25 and 460u–26 of this title,amending this section and sections 460u–3, 460u–5, 460u–9, and 460u–18 of this title, and repealing section 460u–12 of this title\] may be cited as the ‘Indiana Dunes National Lakeshore Access and Enhancement Act’.”
+Section 1 of Pub. L. 102–430 provided that: “This Act \[enacting sections 460u–25 and 460u–26 of this title, amending this section and sections 460u–3, 460u–5, 460u–9, and 460u–18 of this title, and repealing section 460u–12 of this title\] may be cited as the ‘Indiana Dunes National Lakeshore Access and Enhancement Act’.”
 
 #### Effective Date of Authorizations of Appropriations; Authority To Contract, Incur Obligations, and Make Payments
 

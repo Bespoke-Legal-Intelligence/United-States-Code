@@ -8,7 +8,7 @@ If any persons, partnership, or corporation required by this subchapter to file 
 
 Any officer or employee of the Commission who shall make public any information obtained by the Commission without its authority, unless directed by a court, shall be deemed guilty of a misdemeanor, and, upon conviction thereof, shall be punished by a fine not exceeding $5,000, or by imprisonment not exceeding one year, or by fine and imprisonment, in the discretion of the court.
 
-(Sept. 26, 1914, ch. 311, §10, 38 Stat. 723; June 25, 1948, ch. 646, §1, 62 Stat. 909; Jan. 4, 1975, Pub. L. 93–637, title II, §203(c), 88 Stat. 2199; May 28, 1980, Pub. L. 96–252, §6, 94 Stat. 376.)
+(Sept. 26, 1914, ch. 311, §10, 38 Stat. 723; June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 93–637, titleII, §203(c), Jan. 4, 1975, 88 Stat. 2199; Pub. L. 96–252, §6, May 28, 1980, 94 Stat. 376.)
 
 #### Amendments
 

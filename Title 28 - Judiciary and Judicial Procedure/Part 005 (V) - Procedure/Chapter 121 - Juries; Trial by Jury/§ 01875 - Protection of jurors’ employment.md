@@ -6,7 +6,7 @@
 
 &emsp;(1) shall be liable for damages for any loss of wages or other benefits suffered by an employee by reason of such violation;
 
-&emsp;(2) may be enjoined from further violations of this section and ordered to provide other appropriate relief, including but not limited to the reinstatement of any employee discharged by reason of his jury service; and
+&emsp;(2) may be enjoined from further violations of this section and ordered to provide otherappropriate relief, including but not limited to the reinstatement of any employee discharged by reason of his jury service; and
 
 &emsp;(3) shall be subject to a civil penalty of not more than $1,000 for each violation as to each employee.
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1983</b>—Subsec. (d)(1). Pub. L. 97–463, §1(1), substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
+1983—Subsec. (d)(1). Pub. L. 97–463, §1(1), substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
 
 Subsec. (d)(2). Pub. L. 97–463, §1(2), inserted provision empowering the court to tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted “only if the court finds that the action is frivolous” for “if the court determines that the action is frivolous”.
 

@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (1) Seasoning
 
-&emsp;The term “seasoning” means the change over time in the ratio of the unpaid principal balance of a mortgage to the value of the property by which such mortgage loan is secured, determined on an annual basis by region, in accordance with the Constant Quality Home Price Index published by the Secretary of Commerce (or any index of similar quality, authority, and public availability that is regularly used by the Federal Government).
+&emsp;The term “seasoning” means the change over time in the ratio of the unpaid principal balance of a mortgage to the value of the property by which such mortgage loan is secured, determined on an annual basis by region, in accordance with the Constant Quality Home Price Index published by the Secretary ofCommerce (or any index of similar quality, authority, and public availability that is regularly used by the Federal Government).
 
 #### (2) Type of mortgage product
 
@@ -164,7 +164,7 @@ For purposes of this section:
 
 #### (1) Issuance
 
-&emsp;The Director shall issue final regulations establishing the risk-based capital test underthis section not later than the expiration of the 18-month period beginning on the date of the appointment of the Director. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 and shall take effect upon issuance.
+&emsp;The Director shall issue final regulations establishing the risk-based capital test under this section not later than the expiration of the 18-month period beginning on the date of the appointment of the Director. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 and shall take effect upon issuance.
 
 #### (2) Contents
 

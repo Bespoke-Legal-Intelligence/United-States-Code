@@ -2,7 +2,7 @@
 
 The Secretary shall establish a program within the Service to provide voluntary testing, diagnosis, counseling, and treatment of individuals respecting genetic diseases. Services under such program shall be made available through facilities of the Service to persons requesting such services, and the program shall provide appropriate publicity of the availability and voluntary nature of such services.
 
-(July 1, 1944, ch. 373, title XI, §1105, as added Apr. 22, 1976, Pub. L. 94–278, title IV, §403(a), 90 Stat. 409.)
+(July 1, 1944, ch. 373, title XI, §1105, as added Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 409.)
 
 #### Prior Provisions
 

@@ -18,7 +18,7 @@ As used in this chapter:
 
 “Value” means the face, par, or market value, whichever is the greatest, and the aggregate value of all goods, wares, and merchandise, securities, and money referred to in a single indictment shall constitute the value thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Oct. 4, 1961, Pub. L. 87–371, §1, 75 Stat. 802; Oct. 25, 1984, Pub. L. 98–547, title II, §202, 98 Stat. 2770; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320912, 108 Stat. 2128; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(20), 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -32,7 +32,7 @@ Other provisions of section 408 of title 18, U.S.C., 1940 ed., are incorporated 
 
 In the definition of “motor vehicle”, words “designed for running on land but not on rails” were substituted for “not designed for running on rails” so as to conform with the ruling in the case of <i>McBoyle</i> v. <i>U.S</i>. (1931, 51 S. Ct. 340, 283, U. S. 25, 75 L. Ed. 816), in which the Supreme Court held that “vehicle” is limited to vehicles running on land and that motor vehicle does not include an airplane.
 
-In the paragraph defining “value” which came from said section 417 of title 18, U.S.C., 1940 ed., words “In the event that a defendant is charged in the same indictment with two or more violations of sections 413–419 of this title, then” were omitted and the same meaning was preserved by the substitution of the words “a single” for the word “such.”
+In the paragraph defining “value” which came from said section 417 of title 18, U.S.C., 1940 ed., words “In the event that a defendant is charged in the same indictment with two or more violations of sections 413–419 of this title, then” were omitted and the samemeaning was preserved by the substitution of the words “a single” for the word “such.”
 
 Minor changes were made in phraseology.
 

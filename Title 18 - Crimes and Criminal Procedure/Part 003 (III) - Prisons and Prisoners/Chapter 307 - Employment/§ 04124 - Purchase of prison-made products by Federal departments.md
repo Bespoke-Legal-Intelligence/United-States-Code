@@ -8,13 +8,13 @@
 
 (d) Within 90 days after the date of the enactment of this subsection, Federal Prison Industries shall publish a catalog of all products and services which it offers for sale. This catalog shall be updated periodically to the extent necessary to ensure that the information in the catalog is complete and accurate.
 
-(June 25, 1948, ch. 645, 62 Stat. 851; Oct. 31, 1951, ch. 655, §32, 65 Stat. 723; Feb. 14, 1984, Pub. L. 98–216, §3(b)(2), 98 Stat. 6; Nov. 29, 1990, Pub. L. 101–647, title XXIX, §2901, 104 Stat. 4912; Oct. 28, 1992, Pub. L. 102–564, title III, §303(b), 106 Stat. 4262; Oct. 19, 1996, Pub. L. 104–316, title I, §109(b), 110 Stat. 3832.)
+(June 25, 1948, ch. 645, 62 Stat. 851; Oct. 31, 1951, ch. 655, §32, 65 Stat. 723; Pub. L. 98–216, §3(b)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 101–647, title XXIX, §2901, Nov. 29, 1990, 104 Stat. 4912; Pub. L. 102–564, title III, §303(b), Oct. 28, 1992, 106 Stat. 4262; Pub. L. 104–316, title I, §109(b), Oct. 19, 1996, 110 Stat. 3832.)
 
 #### Historical and Revision Notes
 
 Based on title 18, U.S.C., 1940 ed., §744g (May 27, 1930, ch. 340, §7, 46 Stat. 392).
 
-The revised section substituted the Director of the Bureau of Federal Supply of the Treasury Department for the General Supply Committee, the functions of the latter having been transferred to the Procurement Division of the Treasury Department by Executive Order No. 6166, §1, June 10, 1933, and the name of that unit having been changed to Bureau of Federal Supply by order of the Secretary of the Treasury effective January 1, 1947, 11 Federal Register No. 13,638. The Bureau of the Budget was substituted for the Bureau of Efficiency which was abolished by Act of March 3, 1933, ch. 212, §17, 47 Stat. 1519, without transferring its functions elsewhere. However, the Bureau of the Budget performs similar duties and its Director logically should serve on the arbitration board.
+The revised section substituted the Director of the Bureau of Federal Supply of the Treasury Department for the General Supply Committee, the functions of thelatter having been transferred to the Procurement Division of the Treasury Department by Executive Order No. 6166, §1, June 10, 1933, and the name of that unit having been changed to Bureau of Federal Supply by order of the Secretary of the Treasury effective January 1, 1947, 11 Federal Register No. 13,638. The Bureau of the Budget was substituted for the Bureau of Efficiency which was abolished by Act of March 3, 1933, ch. 212, §17, 47 Stat. 1519, without transferring its functions elsewhere. However, the Bureau of the Budget performs similar duties and its Director logically should serve on the arbitration board.
 
 Reference to authority for appropriations was omitted and words “by this chapter” substituted therefor.
 

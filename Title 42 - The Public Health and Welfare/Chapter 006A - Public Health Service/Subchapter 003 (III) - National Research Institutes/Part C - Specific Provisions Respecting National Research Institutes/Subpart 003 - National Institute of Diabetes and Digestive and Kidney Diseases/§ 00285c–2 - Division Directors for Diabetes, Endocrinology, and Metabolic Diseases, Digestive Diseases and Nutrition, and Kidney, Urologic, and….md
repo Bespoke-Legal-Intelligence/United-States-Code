@@ -18,7 +18,7 @@
 
 &emsp;(2) establish programs of evaluation, planning, and dissemination of knowledge related to such research and training.
 
-(July 1, 1944, ch. 373, title IV, §428, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 842; amended June 10, 1993, Pub. L. 103–43, title XX, §2008(b)(4), 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §428, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 842; amended Pub. L. 103–43, title XX, §2008(b)(4), June 10, 1993, 107 Stat. 211.)
 
 #### Amendments
 

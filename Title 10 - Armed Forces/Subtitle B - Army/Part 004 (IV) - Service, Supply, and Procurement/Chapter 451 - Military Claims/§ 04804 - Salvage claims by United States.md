@@ -4,7 +4,7 @@
 
 (b) In any case where the amount to be received by the United States is not more than $10,000, the Secretary of the Army may delegate his authority under subsection (a) to any person designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 271; Aug. 29, 1972, Pub. L. 92–417, §1(3), 86 Stat. 654.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 271; Pub. L. 92–417, §1(3), Aug. 29, 1972, 86 Stat. 654.)
 
 Historical and Revision Notes
 

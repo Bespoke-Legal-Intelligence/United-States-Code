@@ -24,7 +24,7 @@ Except as otherwise provided, for purposes of this subchapter—
 
 #### (4) Community college
 
-&emsp;The term “community college” means an institution of higher education as defined in section 1141(a) of this title which provides not less than a two-year program which is acceptable for full credit toward a bachelor's degree, including institutions receiving assistance under the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
+&emsp;The term “community college” means an institution of higher education as defined in section 1001 of this title which provides not less than a two-year program which is acceptable for full credit toward a bachelor's degree, including institutions receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
 
 #### (5) Director
 
@@ -66,7 +66,7 @@ Except as otherwise provided, for purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is a Native American or Alaska Native or who is a native resident of the outlying areas and comes from an environment where a language other than English has had a significant impact on such individual's level of English language proficiency; or
 
-&emsp;&emsp;&emsp;(iii) is migratory and whose native language is other than English and comesfrom an environment where a language other than English is dominant; and
+&emsp;&emsp;&emsp;(iii) is migratory and whose native language is other than English and comes from an environment where a language other than English is dominant; and
 
 &emsp;&emsp;(B) who has sufficient difficulty speaking, reading, writing, or understanding the English language and whose difficulties may deny such individual the opportunity to learn successfully in classrooms where the language of instruction is English or to participate fully in our society.
 
@@ -104,19 +104,29 @@ Except as otherwise provided, for purposes of this subchapter—
 
 &emsp;&emsp;(C) is particularly appropriate for schools where the diversity of the limited English proficient students’ native languages and the small number of students speaking each respective language makes bilingual education impractical and where there is a critical shortage of bilingual education teachers.
 
-(Pub. L. 89–10, title VII, §7501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3745.)
+(Pub. L. 89–10, title VII, §7501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3745; amended Pub. L. 105–244, title I, §102(a)(6)(J), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1619, 1828.)
 
 #### References in Text
 
 Section 4009 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988, as such Act was in effect on the day preceding October 20, 1994, referred to in par. (3), means section 4009 of Pub. L. 100–297, which was classified to section 4909 of this title prior to repeal by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in par. (4), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (4), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 Section 3420 of this title, referred to in par. (5), was in the original “section 210 of the Department of Education Organization Act”, meaning section 210 of Pub. L. 96–88, which was translated as reading section 209 of that Act to reflect the probable intent of Congress and the renumbering of section 210 as section 209 by Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.
 
+#### Amendments
+
+1998—Par. (4). Pub. L. 105–244, §901(d), substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+
+Pub. L. 105–244, §102(a)(6)(J), substituted “section 1001” for “section 1141(a)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1206a, 2471 of this title; title 42 section 12899f.
+This section is referred to in title 42 section 12899f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

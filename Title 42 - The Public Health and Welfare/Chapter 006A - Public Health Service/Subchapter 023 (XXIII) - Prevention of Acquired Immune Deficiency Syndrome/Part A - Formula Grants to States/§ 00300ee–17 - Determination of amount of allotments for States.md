@@ -56,7 +56,7 @@ Subject to the extent of amounts made available in appropriation Acts, the allot
 
 &emsp;(C) any State informing the Secretary that the State does not intend to expend the full amount of the allotment made to the State.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2507, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3098; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(e) \[(f)\], 102 Stat. 4243; renumbered title XXV and amended Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), (2), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2507, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3098; amended Pub. L. 100–690, title II, §2619(e) \[(f)\], Nov. 18, 1988, 102 Stat. 4243; renumbered title XXV and amended Pub. L. 101–93, §5(e)(1), (2), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Prior Provisions
 

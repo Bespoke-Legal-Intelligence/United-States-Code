@@ -4,7 +4,7 @@
 
 (b)(1) Each State shall prepare and submit to the Administrator by April 1, 1975, and shall bring up to date by April 1, 1976, and biennially thereafter, a report which shall include—
 
-&emsp;(A) a description of the water quality of all navigable waters in such State during the preceding year, with appropriate supplemental descriptions as shall be required to take into account seasonal, tidal, and other variations, correlated with the quality of water required by the objective of this chapter (as identified by the Administrator pursuant to criteria published under section 1314(a) of this title) andthe water quality described in subparagraph (B) of this paragraph;
+&emsp;(A) a description of the water quality of all navigable waters in such State during the preceding year, with appropriate supplemental descriptions as shall be required to take into account seasonal, tidal, and other variations, correlated with the quality of water required by the objective of this chapter (as identified by the Administrator pursuant to criteria published under section 1314(a) of this title) and the water quality described in subparagraph (B) of this paragraph;
 
 &emsp;(B) an analysis of the extent to which all navigable waters of such State provide for the protection and propagation of a balanced population of shellfish, fish, and wildlife, and allow recreational activities in and on the water;
 

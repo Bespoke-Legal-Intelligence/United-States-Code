@@ -46,7 +46,7 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 Definition.—For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 
-(Added Pub. L. 103–322, title IV, §40113(a)(1), Sept. 13, 1994, 108 Stat. 1904; amended Pub. L. 104–132, title II, §205(b), Apr. 24, 1996, 110 Stat. 1231.)
+(Added Pub. L. 103–322, title IV, §40113(a)(1), Sept. 13, 1994, 108 Stat. 1904; amended Pub. L.104–132, title II, §205(b), Apr. 24, 1996, 110 Stat. 1231.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (b)(2). Pub. L. 104–132, §205(b)(2)(B), struck out “by victim” af
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(b)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
-Subsec. (b)(5) to (10). Pub. L. 104–132, §205(b)(2)(D), struck out pars. (5) to (10), which related, respectively,to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
+Subsec. (b)(5) to (10). Pub. L. 104–132, §205(b)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
 
 Subsec. (c). Pub. L. 104–132, §205(b)(3), (4), redesignated subsec. (f) as (c) and struck out former subsec. (c) relating to proof of claim.
 

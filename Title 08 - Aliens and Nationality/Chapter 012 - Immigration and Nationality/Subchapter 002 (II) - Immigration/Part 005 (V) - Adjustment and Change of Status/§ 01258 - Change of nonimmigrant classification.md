@@ -10,7 +10,7 @@ The Attorney General may, under such conditions as he may prescribe, authorize a
 
 &emsp;(4) an alien admitted as a nonimmigrant visitor without a visa under section 1182(<i>l</i>) of this title or section 1187 of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §248, 66 Stat. 218; Sept. 21, 1961, Pub. L. 87–256, §109(d), 75 Stat. 535; Dec. 29, 1981, Pub. L. 97–116, §10, 95 Stat. 1617; Nov. 6, 1986, Pub. L. 99–603, title III, §313(d), 100 Stat. 3439; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130003(b)(3), 108 Stat. 2025; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §301(b)(2), title VI, §671(a)(2), 110 Stat. 3009–578, 3009–721.)
+(June 27, 1952, ch. 477, title II, ch. 5, §248, 66 Stat. 218; Pub. L. 87–256, §109(d), Sept. 21, 1961, 75 Stat. 535; Pub. L. 97–116, §10, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title III, §313(d), Nov. 6, 1986, 100 Stat. 3439; Pub. L. 103–322, title XIII, §130003(b)(3), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 104–208, div. C, title III, §301(b)(2), title VI, §671(a)(2), Sept. 30, 1996, 110 Stat. 3009–578, 3009–721.)
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Par. (1). Pub. L. 104–208, §671(a)(2), made technical amendment to directory 
 
 Amendment by section 301(b)(2) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Amendment by section 671(a)(2) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 671(a)(2) of Pub. L. 104–208 effective as if included in the enactment of the ViolentCrime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 

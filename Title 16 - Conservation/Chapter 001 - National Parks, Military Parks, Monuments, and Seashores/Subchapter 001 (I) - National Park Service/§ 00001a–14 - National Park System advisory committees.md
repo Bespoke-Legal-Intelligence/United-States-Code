@@ -2,7 +2,7 @@
 
 #### (a) Charter
 
-The provisions of section 14(b) of the Federal Advisory Committee Act (5 U.S.C. Appendix; 86 Stat. 776) are hereby waived with respect to any advisory commission or advisory committee established by law in connection with any national park system unit during the period such advisory commission or advisory committee is authorized by law.
+The provisions of section 14(b) of the Federal Advisory Committee Act (5 U.S.C. Appendix; 86Stat. 776) are hereby waived with respect to any advisory commission or advisory committee established by law in connection with any national park system unit during the period such advisory commission or advisory committee is authorized by law.
 
 #### (b) Members
 

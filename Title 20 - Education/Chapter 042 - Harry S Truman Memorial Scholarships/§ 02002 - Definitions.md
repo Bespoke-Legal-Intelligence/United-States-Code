@@ -8,13 +8,21 @@ As used in this chapter, the term—
 
 &emsp;(3) “fund” means the Harry S Truman Memorial Scholarship Fund;
 
-&emsp;(4) “institution of higher education” means any such institution as defined by section 1141(a) of this title;
+&emsp;(4) “institution of higher education” means any such institution as defined by section 1001 of this title;
 
 &emsp;(5) “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, considered as a single entity, Guam, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands; and
 
 &emsp;(6) “Secretary” means the Secretary of the Treasury.
 
-(Pub. L. 93–642, §3, Jan. 4, 1975, 88 Stat. 2276.)
+(Pub. L. 93–642, §3, Jan. 4, 1975, 88 Stat. 2276; Pub. L. 105–244, title I, §102(a)(6)(D), Oct. 7, 1998, 112 Stat. 1618.)
+
+#### Amendments
+
+1998—Par. (4). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

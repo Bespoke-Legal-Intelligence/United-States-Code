@@ -40,10 +40,6 @@ Subsec. (c). Pub. L. 89–171, §302(a)(2), inserted “including any civic acti
 
 Amendment by Pub. L. 90–629 effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as an Effective Date note under section 2751 of this title.
 
-#### Transfer of Functions
-
-Functions and authorities vested in Secretary of State pursuant to subsec. (c) of this section insofar as they relate to development assistance transferred to Director of United States International Development Cooperation Agency by Reorg. Plan No. 2 of 1979, §6(c)(1), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, §1–101, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title.
-
 #### Ex. Ord. No. 10338. Coordination Procedures
 
 Ex. Ord. No. 10338, Apr. 4, 1952, 17 F.R. 3009, provided:
@@ -89,4 +85,8 @@ Ex. Ord. No. 10893, Nov. 8, 1960, 25 F.R. 10731, as amended, which related to th
 #### Executive Order No. 12066
 
 Ex. Ord. No. 12066, June 29, 1978, 43 F.R. 28965, which related to the inspection of foreign assistance programs, was revoked by section 10(k) of Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968, set out as a note under section 3901 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6593 of this title.
 

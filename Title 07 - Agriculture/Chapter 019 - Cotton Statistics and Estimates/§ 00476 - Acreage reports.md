@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture shall cause to be issued a report on or before the 12th day of July of each year showing by States and in toto the estimated acreage of cotton planted, to be followed on or before the 12th day of August with an estimate of the acreage for harvest and on or before the 12th day of December with an estimate of the harvested acreage.
 
-(May 27, 1912, ch. 135, §1, 37 Stat. 118; Mar. 3, 1927, ch. 337, §6, 44 Stat. 1374; May 29, 1958, Pub. L. 85–430, §1, 72 Stat. 149; June 30, 1972, Pub. L. 92–331, §2, 86 Stat. 400.)
+(May 27, 1912, ch. 135, §1, 37 Stat. 118; Mar. 3, 1927, ch. 337, §6, 44 Stat. 1374; Pub. L. 85–430, §1, May 29, 1958, 72 Stat. 149; Pub. L. 92–331, §2, June 30, 1972, 86 Stat. 400.)
 
 #### Codification
 

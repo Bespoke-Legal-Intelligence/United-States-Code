@@ -18,7 +18,7 @@ In evaluating applications for assistance under this chapter, the Secretary shal
 
 In evaluating programs receiving assistance under this chapter, the Secretary shall—
 
-&emsp;(1) establish procedures for the review and evaluation of the performance of nonprofit corporations and public housing agencies receiving assistance under this chapter, including provisions for the submission of an annual report, by each such nonprofit corporation and public housing agency, which evaluates the impact and effectiveness of its congregate services program; and
+&emsp;(1) establish procedures for the review and evaluation of the performance of nonprofitcorporations and public housing agencies receiving assistance under this chapter, including provisions for the submission of an annual report, by each such nonprofit corporation and public housing agency, which evaluates the impact and effectiveness of its congregate services program; and
 
 &emsp;(2) publish annually and submit to the Congress, a report on and evaluation of the impact and effectiveness of congregate services programs assisted under this chapter. Such report and evaluation shall be based, in part, on the evaluations required to be submitted pursuant to paragraph (1).
 

@@ -10,7 +10,7 @@ Except as authorized by the Commission or the General Manager upon a determinati
 
 #### (c) Acceptance of investigation and clearance granted by other Government agencies
 
-In lieu of the investigation and report to be made by the Director of the Office of Personnel Management pursuant to subsection (b) of this section, the Commission may accept an investigation and report on the character, associations, and loyalty of an individual made by another Government agency which conducts personnel security investigations, provided that a security clearance has been granted to such individual by another Government agency based on such investigation and report.
+In lieu of the investigation and report to be made by the Director of the Office of PersonnelManagement pursuant to subsection (b) of this section, the Commission may accept an investigation and report on the character, associations, and loyalty of an individual made by another Government agency which conducts personnel security investigations, provided that a security clearance has been granted to such individual by another Government agency based on such investigation and report.
 
 #### (d) Investigations by FBI
 
@@ -32,7 +32,7 @@ The Commission shall establish standards and specifications in writing as to the
 
 Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b) of this section, to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Aug. 19, 1958, Pub. L. 85–681, §5, 72 Stat. 633; Sept. 6, 1961, Pub. L. 87–206, §6, 75 Stat. 476; Aug. 29, 1962, Pub. L. 87–615, §10, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -64,5 +64,5 @@ Arms control and disarmament security restrictions, see section 2585 of Title 22
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2163, 2166, 2201, 2455 of this title; title 22 section 2585.
+This section is referred to in sections 2163, 2166, 2201, 2455 of this title.
 

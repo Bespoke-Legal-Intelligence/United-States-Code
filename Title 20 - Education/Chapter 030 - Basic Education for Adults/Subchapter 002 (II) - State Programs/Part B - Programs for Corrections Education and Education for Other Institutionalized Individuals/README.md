@@ -1,12 +1,8 @@
 Part B—Programs for Corrections Education and Education for Other Institutionalized Individuals
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1203a of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01204 - Program authorized](%C2%A7%2001204%20-%20Program%20authorized.md)
+- [&sect; 01204 - Repealed. Pub. L. 105&#8211;220, title II, &sect;251(a)(1), Aug. 7, 1998, 112 Stat. 1079](%C2%A7%2001204%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93220%2C%20title%20II%2C%20%C2%A7251%28a%29%281%29%2C%20Aug.%207%2C%201998%2C%20112%20Stat.%201079.md)

@@ -16,7 +16,7 @@ Authorized Terms of Supervised Release.—Except as otherwise provided, the auth
 
 (c)
 
-Factors To Be Considered in Including a Term of Supervised Release.—The court, in determining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), and (a)(6).
+Factors To Be Considered in Including a Term of Supervised Release.—The court, indetermining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), and (a)(6).
 
 (d)
 
@@ -40,7 +40,7 @@ Modification of Conditions or Revocation.—The court may, after considering the
 
 &emsp;(3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on postrelease supervision, if the court, pursuant to the Federal Rules of Criminal Procedure applicable to revocation of probation or supervised release, finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case; or
 
-&emsp;(4) order the defendant to remain at his place of residence during nonworking hours and, if the court so directs, to have compliance monitored by telephone or electronic signaling devices, except that an order under this paragraph may be imposed only as an alternative to incarceration.
+&emsp;(4) order the defendant to remain at his place of residence during nonworking hours and, if the court so directs, to have compliance monitored by telephone or electronic signaling devices, except that an order under thisparagraph may be imposed only as an alternative to incarceration.
 
 (f)
 
@@ -66,7 +66,7 @@ Supervised Release Following Revocation.—When a term of supervised release is 
 
 Delayed Revocation.—The power of the court to revoke a term of supervised release for violation of a condition of supervised release, and to order the defendant to serve a term of imprisonment and, subject to the limitations in subsection (h), a further term of supervised release, extends beyond the expiration of the term of supervised release for any period reasonably necessary for the adjudication of matters arising before its expiration if, before its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1999; amended Pub. L. 99–570, title I, §1006(a)(1)–(3), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 99–646, §14(a), Nov. 10, 1986, 100 Stat. 3594;Pub. L. 100–182, §§8, 9, 12, 25, Dec. 7, 1987, 101 Stat. 1267, 1268, 1272; Pub. L. 100–690, title VII, §§7108, 7303(b), 7305(b), Nov. 18, 1988, 102 Stat. 4418, 4464, 4465; Pub. L. 101–647, title XXXV, §3589, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20414(c), title XI, §110505, title XXXII, §320921(c), Sept. 13, 1994, 108 Stat. 1831, 2016, 2130; Pub. L. 105–119, title I, §115(a)(8)(B)(iv), Nov. 26, 1997, 111 Stat. 2466.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1999; amended Pub. L. 99–570, title I, §1006(a)(1)–(3), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 99–646, §14(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§8, 9, 12, 25, Dec. 7, 1987, 101 Stat. 1267, 1268, 1272; Pub. L. 100–690, title VII, §§7108, 7303(b), 7305(b), Nov. 18, 1988, 102 Stat. 4418, 4464, 4465; Pub. L. 101–647, title XXXV, §3589, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20414(c), title XI, §110505, title XXXII, §320921(c), Sept. 13, 1994, 108 Stat. 1831, 2016, 2130; Pub. L. 105–119, title I, §115(a)(8)(B)(iv), Nov. 26, 1997, 111 Stat. 2466.)
 
 #### References in Text
 

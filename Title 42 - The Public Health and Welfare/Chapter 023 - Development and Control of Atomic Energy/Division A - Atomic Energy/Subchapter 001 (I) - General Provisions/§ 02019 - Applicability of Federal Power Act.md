@@ -2,7 +2,7 @@
 
 Every licensee under this chapter who holds a license from the Commission for a utilization or production facility for the generation of commercial electric energy under section 2133 of this title and who transmits such electric energy in interstate commerce or sells it at wholesale in interstate commerce shall be subject to the regulatory provisions of the Federal Power Act \[16 U.S.C. 791a et seq.\].
 
-(Aug. 1, 1946, ch. 724, title I, §272, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §272, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 

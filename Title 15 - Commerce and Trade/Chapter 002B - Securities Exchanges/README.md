@@ -36,7 +36,7 @@
 | (a) | Rules and regulations for extension of credit; standard for initial extension; undermargined accounts. |
 | (b) | Lower and higher margin requirements. |
 | (c) | Unlawful credit extension to customers. |
-| (d) | Unlawful credit extension in violation of rules and regulations; exception to application of rules, etc. |
+| (d) | Unlawful credit extension in violation of rules and regulations; exceptions to application of rules, etc. |
 | (e) | Effective date of this section and rules and regulations. |
 | (f) | Unlawful receipt of credit; exemptions. |
 | (g) | Effect of bona fide agreement for delayed delivery of mortgage related security. |
@@ -181,7 +181,7 @@
 | (b) | Unlawful activity through or by means of any other person. |
 | (c) | Hindering, delaying, or obstructing the making or filing of any document, report, or information. |
 | (d) | Liability for trading in securities while in possession of material nonpublic information. |
-| (f) | Prosecution of persons who aid and abet violations. |
+| (e) | Prosecution of persons who aid and abet violations. |
 | 78t–1. | Liability to contemporaneous traders for insider trading. |
 | (a) | Private rights of action based on contemporaneous trading. |
 | (b) | Limitations on liability. |
@@ -222,7 +222,7 @@
 | (c) | Sanctions for abusive litigation. |
 | (d) | Defendant's right to written interrogatories. |
 | (e) | Limitation on damages. |
-| (g) | Proportionate liability. |
+| (f) | Proportionate liability. |
 | 78u–5. | Application of safe harbor for forward-looking statements. |
 | (a) | Applicability. |
 | (b) | Exclusions. |
@@ -261,6 +261,7 @@
 | (c) | Continuing validity of disciplinary sanctions. |
 | (d) | Physical location of facilities of registered clearing agencies or registered transfer agents not to subject changes in beneficial or record ownership of securities to State or local taxes. |
 | (e) | Exchange, broker, and dealer commissions; brokerage and research services. |
+| (f) | Limitations on remedies. |
 | [78cc.](%C2%A7%2000078cc%20-%20Validity%20of%20contracts.md) | Validity of contracts. |
 | (a) | Waiver provisions. |
 | (b) | Contract provisions in violation of chapter. |
@@ -273,6 +274,7 @@
 | (d) | Guidelines by Attorney General. |
 | (e) | Opinions of Attorney General. |
 | (f) | Definitions. |
+| (g) | Alternative jurisdiction. |
 | 78dd–2. | Prohibited foreign trade practices by domestic concerns. |
 | (a) | Prohibition. |
 | (b) | Exception for routine governmental action. |
@@ -282,6 +284,14 @@
 | (f) | Opinions of Attorney General. |
 | (g) | Penalties. |
 | (h) | Definitions. |
+| (i) | Alternative jurisdiction. |
+| 78dd–3. | Prohibited foreign trade practices by persons other than issuers or domestic concerns. |
+| (a) | Prohibition. |
+| (b) | Exception for routine governmental action. |
+| (c) | Affirmative defenses. |
+| (d) | Injunctive relief. |
+| (e) | Penalties. |
+| (f) | Definitions. |
 | [78ee.](%C2%A7%2000078ee%20-%20Transaction%20fees.md) | Transaction fees. |
 | (a) | Recovery of cost of services. |
 | (b) | Exchange-traded securities. |
@@ -299,12 +309,9 @@
 | 78hh–1. | Effective date of certain sections. |
 | 78ii, 78jj. | Omitted or Repealed. |
 | [78kk.](%C2%A7%2000078kk%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Miscellaneous expenses. |
 | 78<i>ll.</i> | Requirements for the EDGAR system. |
-| (a) | Certifications and reports prerequisite to obligation or expenditure of funds; source of funds. |
-| (b) | Status and progress reports to Congressional committees. |
-| (c) | Certification respecting prescribed items to Congressional committees. |
-| (d) | Rules or regulations. |
-| (e) | Consultations of Commission with representatives of information interests. |
 | [78mm.](%C2%A7%2000078mm%20-%20General%20exemptive%20authority.md) | General exemptive authority. |
 | (a) | Authority. |
 | (b) | Limitation. |
@@ -371,6 +378,7 @@ This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee
 - [&sect; 00078dd - Foreign securities exchanges](%C2%A7%2000078dd%20-%20Foreign%20securities%20exchanges.md)
 - [&sect; 00078dd&#8211;1 - Prohibited foreign trade practices by issuers](%C2%A7%2000078dd%E2%80%931%20-%20Prohibited%20foreign%20trade%20practices%20by%20issuers.md)
 - [&sect; 00078dd&#8211;2 - Prohibited foreign trade practices by domestic concerns](%C2%A7%2000078dd%E2%80%932%20-%20Prohibited%20foreign%20trade%20practices%20by%20domestic%20concerns.md)
+- [&sect; 00078dd&#8211;3 - Prohibited foreign trade practices by persons other than issuers or domestic concerns](%C2%A7%2000078dd%E2%80%933%20-%20Prohibited%20foreign%20trade%20practices%20by%20persons%20other%20than%20issuers%20or%20domestic%20concerns.md)
 - [&sect; 00078ee - Transaction fees](%C2%A7%2000078ee%20-%20Transaction%20fees.md)
 - [&sect; 00078ff - Penalties](%C2%A7%2000078ff%20-%20Penalties.md)
 - [&sect; 00078gg - Separability](%C2%A7%2000078gg%20-%20Separability.md)

@@ -44,7 +44,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (B) Current depositors
 
-&emsp;&emsp;Receive any deposit after the effective date of this paragraph for the account of anydepositor who was a depositor before June 19, 1994, only if—
+&emsp;&emsp;Receive any deposit after the effective date of this paragraph for the account of any depositor who was a depositor before June 19, 1994, only if—
 
 &emsp;&emsp;&emsp;(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
 

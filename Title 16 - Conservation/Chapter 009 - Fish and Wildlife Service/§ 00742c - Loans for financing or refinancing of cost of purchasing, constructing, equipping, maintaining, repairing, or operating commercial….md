@@ -38,9 +38,9 @@ The Secretary, subject to the specific limitations in this section, may consent 
 
 #### (e) Chartering vessels; loans to Alaskan earthquake victims; termination date
 
-The Secretary is authorized under such terms and conditions and pursuant to regulations prescribed by him to use the funds appropriatedunder this section to make loans to commercial fishermen for the purpose of chartering fishing vessels pending the construction or repair of vessels lost, destroyed, or damaged by the earthquake of March 27, 1964, and subsequent tidal waves related thereto: <i>Provided</i>, That any loans made under this subsection shall only be repaid from the net profits of the operations of such chartered vessels, which profits shall be reduced by such reasonable amount as determined by the Secretary for the salary of the fishermen chartering such vessels. The funds authorized herein shall not be available for such loans after June 30, 1966.
+The Secretary is authorized under such terms and conditions and pursuant to regulations prescribed by him to use the funds appropriated under this section to make loans to commercial fishermen for the purpose of chartering fishing vessels pending the construction or repair of vessels lost, destroyed, or damaged by the earthquake of March 27, 1964, and subsequent tidal waves related thereto: <i>Provided</i>, That any loans made under this subsection shall only be repaid from the net profits of the operations of such chartered vessels, which profits shall be reduced by such reasonable amount as determined by the Secretary for the salary of the fishermen chartering such vessels. The funds authorized herein shall not be available for such loans after June 30, 1966.
 
-(Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Sept. 2, 1958, Pub. L. 85–888, 72 Stat. 1710; May 20, 1964, Pub. L. 88–309, §9, 78 Stat. 199; July 24, 1965, Pub. L. 89–85, §§1–4, 79 Stat. 262; June 12, 1970, Pub. L. 91–279, §9, 84 Stat. 309; Aug. 24, 1970, Pub. L. 91–387, §§1, 2, 84 Stat. 829; Apr. 21, 1976, Pub. L. 94–273, §2(8), 90 Stat. 375; Oct. 21, 1980, Pub. L. 96–478, §16(a), 94 Stat. 2303; Oct. 18, 1982, Pub. L. 97–347, §1, 96 Stat. 1652; July 12, 1983, Pub. L. 98–44, title I, §103(a)(1), 97 Stat. 216; Oct. 19, 1984, Pub. L. 98–498, title IV, §430(1), 98 Stat. 2310; Nov. 14, 1986, Pub. L. 99–659, title IV, §409, 100 Stat. 3740.)
+(Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Pub. L. 85–888, Sept. 2, 1958, 72 Stat. 1710; Pub. L. 88–309, §9, May 20, 1964, 78 Stat. 199; Pub. L. 89–85, §§1–4, July 24, 1965, 79 Stat. 262; Pub. L. 91–279, §9, June 12, 1970, 84 Stat. 309; Pub. L. 91–387, §§1, 2, Aug. 24, 1970, 84 Stat. 829; Pub. L. 94–273, §2(8), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–478, §16(a), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 97–347, §1, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(1), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(1), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 99–659, title IV, §409, Nov. 14, 1986, 100 Stat. 3740.)
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Section 16(b) of Pub. L. 96–478 provided that: “The amendments made by subse
 
 #### Effective Date of 1970 Amendment; Fisheries Loan Fund Available for Loans From July 1, 1970 to Close of June 30, 1980
 
-Section 3 of Pub. L. 91–387 provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1970. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remaining in the fisheries loan fund at the close of June 30, 1970, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1970, to the close of June 30, 1980.”
+Section 3 of Pub. L. 91–387 provided that: “The provisions of this Act \[amending this section\] shall be effective July 1, 1970. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended \[subsec. (c) of this section\], any balance remainingin the fisheries loan fund at the close of June 30, 1970, shall be available to make loans for the purposes of section 4 of said Act \[this section\] from July 1, 1970, to the close of June 30, 1980.”
 
 #### Effective Date of 1965 Amendment; Remaining Funds; Availability for Loans
 
@@ -98,7 +98,7 @@ Pub. L. 96–561, title II, §221, Dec. 22, 1980, 94 Stat. 3295, as amended by P
 
 “(a)
 
-Loan Authority.—During the period beginning on the date of the enactment of this title \[Dec. 22, 1980\] and ending at the close of September 30, 1986, the Secretary of Commerce (hereinafter in this section referred to as the ‘Secretary’) may make loans from the fisheries loan fund established under subsection (c) of section 4 of the Fish and Wildlife Act of 1956 (16 U.S.C. 742c) only for the purposes set forth in subsections (b)and (c) of this section. Except to the extent that they are inconsistent with, or contrary to, this section, the provisions of such section 4 shall apply with respect to loans made for such purposes.
+Loan Authority.—During the period beginning on the date of the enactment of this title \[Dec. 22, 1980\] and ending at the close of September 30, 1986, the Secretary of Commerce (hereinafter in this section referred to as the ‘Secretary’) may make loans from the fisheries loan fund established under subsection (c) of section 4 of the Fish and Wildlife Act of 1956 (16 U.S.C. 742c) only for the purposes set forth in subsections (b) and (c) of this section. Except to the extent that they are inconsistent with, or contrary to, this section, the provisions of such section 4 shall apply with respect to loans made for such purposes.
 
 “(b)
 

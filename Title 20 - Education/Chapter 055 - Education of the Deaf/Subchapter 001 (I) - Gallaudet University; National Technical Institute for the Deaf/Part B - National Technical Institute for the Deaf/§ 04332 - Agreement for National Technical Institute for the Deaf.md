@@ -4,7 +4,11 @@
 
 (1) The Secretary is authorized to establish or continue an agreement with an institution of higher education for the establishment and operation, including construction and equipment, of a National Technical Institute for the Deaf. The Secretary, in considering proposals from institutions of higher education to enter into an agreement under this part, shall give preference to institutions which are located in metropolitan industrial areas.
 
-(2) The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall, within 1 year after October 16, 1992, assess the need for modification of the agreement. The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall also periodically update the agreement as determined to be necessary by the Secretary or the institution.
+(2) The Secretary and the institution of higher education with which the Secretary has an agreement under this section—
+
+&emsp;(A) shall periodically assess the need for modification of the agreement; and
+
+&emsp;(B) shall periodically update the agreement as determined necessary by the Secretary or the institution.
 
 #### (b) Provisions of agreement
 
@@ -24,7 +28,7 @@ The agreement shall—
 
 #### (c) Limitation
 
-If, within twenty years after the completion of any construction (except minor remodeling or alteration) for which such funds have been paid—
+If, within twenty years after the completion of any construction (except minor remodeling oralteration) for which such funds have been paid—
 
 &emsp;(1) the facility ceases to be used for the purposes for which it was constructed or the agreement is terminated, unless the Secretary determines that there is good cause for releasing the institution from its obligation, or
 
@@ -32,7 +36,7 @@ If, within twenty years after the completion of any construction (except minor r
 
 > the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.
 
-(Pub. L. 99–371, title I, §112, formerly title II, §202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, §112, and amended Pub. L. 102–421, title I, §§101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734.)
+(Pub. L. 99–371, title I, §112, formerly title II, §202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, §112, and amended Pub. L. 102–421, title I, §§101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, §914, Oct. 7, 1998, 112 Stat. 1830.)
 
 #### References in Text
 
@@ -49,6 +53,8 @@ Section is also set out in D.C. Code, §31–1841.4b.
 Provisions similar to this section were contained in section 684 of this title prior to repeal by Pub. L. 99–371.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–244 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall, within 1 year after October 16, 1992, assess the need for modification of the agreement. The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall also periodically update the agreement as determined to be necessary by the Secretary or the institution.”
 
 1993—Pub. L. 103–73, §203(g)(1), substituted “National Technical Institute for the Deaf” for “Institute” in section catchline.
 
@@ -81,6 +87,10 @@ Subsec. (b)(6). Pub. L. 102–421, §121(3), added par. (6).
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 

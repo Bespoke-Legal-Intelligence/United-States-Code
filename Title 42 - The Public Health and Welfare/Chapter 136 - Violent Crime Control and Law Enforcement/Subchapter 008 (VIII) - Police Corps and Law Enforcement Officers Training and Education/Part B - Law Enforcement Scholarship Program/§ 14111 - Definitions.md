@@ -14,13 +14,21 @@ In this part—
 
 > &emsp;including the cost of tuition, fees, books, supplies, and related expenses.
 
-&emsp;“institution of higher education” has the meaning stated in the first sentence of section 1141(a) of title 20.
+&emsp;“institution of higher education” has the meaning stated in the first sentence of section 1001 of title 20.
 
 &emsp;“law enforcement position” means employment as an officer in a State or local police force, or correctional institution.
 
 &emsp;“State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 103–322, title XX, §200202, Sept. 13, 1994, 108 Stat. 2057.)
+(Pub. L. 103–322, title XX, §200202, Sept. 13, 1994, 108 Stat. 2057; Pub. L. 105–244, title I, §102(a)(13)(P), Oct. 7, 1998, 112 Stat. 1621.)
+
+#### Amendments
+
+1998—Pub. L. 105–244 substituted “section 1001” for “section 1141(a)” in par. defining “institution of higher education”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Short Title
 

@@ -1,0 +1,22 @@
+### §154511. Liability for acts of officers and agents
+
+The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1437.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+154511
+
+36:2809.
+
+Oct. 19, 1984, Pub. L. 98–520, §9, 98 Stat. 2429.
+

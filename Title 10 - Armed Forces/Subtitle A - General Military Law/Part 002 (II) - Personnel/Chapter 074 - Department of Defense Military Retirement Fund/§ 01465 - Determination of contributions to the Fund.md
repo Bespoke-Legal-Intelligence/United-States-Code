@@ -2,7 +2,7 @@
 
 (a) Not later than six months after the Board of Actuaries is first appointed, the Board shall determine the amount that is the present value (as of October 1, 1984) of future benefits payable from the Fund that are attributable to service in the armed forces performed before October 1, 1984. That amount is the original unfunded liability of the Fund. The Board shall determine the period of time over which the original unfunded liability should be liquidated and shall determine an amortization schedule for the liquidation of such liability over that period. Contributions to the Fund for the liquidation of the original unfunded liability in accordance with such schedule shall be made as provided in section 1466(b) of this title.
 
-(b)(1) The Secretary of Defense shall determine each year, in sufficient time for inclusion in budget requests for the following fiscal year, the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1466(a) of this title. That amount shall be the sum of the following:
+(b)(1) The Secretary of Defense shall determine each year, in sufficient time for inclusionin budget requests for the following fiscal year, the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1466(a) of this title. That amount shall be the sum of the following:
 
 &emsp;(A) The product of—
 
@@ -22,7 +22,7 @@
 
 &emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only); and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a singlelevel percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
 
 > Such single level percentages shall be used for the purposes of subsection (b) and section 1466(a) of this title.
 
@@ -50,7 +50,7 @@ Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on sectio
 
 &emsp;“(A) the current estimate of the value of the single level percentage of basic pay to be determined at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;“(B) the total amount of basic pay expected to be paid during that fiscal year to members of the armed forces (other than the Coast Guard) on active duty or in the Selected Reserve.”
+&emsp;“(B) the total amount of basic pay expected to be paid during that fiscal year to members of the armedforces (other than the Coast Guard) on active duty or in the Selected Reserve.”
 
 Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, §661(a)(2), amended par. (1) identically, inserting second and third sentences and striking out existing second sentence which read as follows: “Each actuarial valuation of such programs shall include a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay to be used for the purposes of subsection (b) and section 1466(a) of this title.”
 

@@ -2,7 +2,7 @@
 
 Moneys in the fund shall remain on deposit in the Treasury of the United States until disbursed.
 
-(May 20, 1936, ch. 432, title III, §303, as added May 11, 1973, Pub. L. 93–32, §2, 87 Stat. 67.)
+(May 20, 1936, ch. 432, title III, §303, as added Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 67.)
 
 #### Effective Date
 

@@ -16,7 +16,7 @@
 
 (2) The advisory committee shall consult with, and make recommendations to, the Secretary of the Interior on matters involving or relating to coal or other mine safety research. The Secretary of the Interior shall consult with, and consider the recommendations of, such committee in the conduct of such research, the making of any grants, and the entering into of contracts for such research.
 
-(3) The chairman of the committee and a majority of the persons appointed by the Secretaryof the Interior pursuant to paragraph (1)(D) shall be individuals who have no economic interests in the coal or other mining industry, and who are not operators, miners, or officers or employees of the Federal Government or any State or local government.
+(3) The chairman of the committee and a majority of the persons appointed by the Secretary of the Interior pursuant to paragraph (1)(D) shall be individuals who have no economic interests in the coal or other mining industry, and who are not operators, miners, or officers or employees of the Federal Government or any State or local government.
 
 #### (b) Committee on coal or other mine health research; establishment; membership; chairman; functions; conflicts of interest
 
@@ -74,7 +74,7 @@ Functions vested by law in Office of Science and Technology and in Director or D
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

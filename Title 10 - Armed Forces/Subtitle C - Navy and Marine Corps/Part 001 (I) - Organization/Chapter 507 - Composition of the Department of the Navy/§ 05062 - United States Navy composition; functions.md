@@ -1,12 +1,12 @@
 ### §5062. United States Navy: composition; functions
 
-(a) The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized, trained, and equipped primarily for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of navalforces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
+(a) The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized, trained, and equipped primarily for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
 
 (b) All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
 
 (c) The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, and the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §511(b)(3), (4), 100 Stat. 1043.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 277, §5012; renumbered §5062 and amended Pub. L. 99–433, title V, §511(b)(3), (4), Oct. 1, 1986, 100 Stat. 1043.)
 
 Historical and Revision Notes
 

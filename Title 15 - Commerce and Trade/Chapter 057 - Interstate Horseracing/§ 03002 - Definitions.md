@@ -44,7 +44,7 @@ For the purposes of this chapter the term—
 
 &emsp;(21) “regular contractual process” means those negotiations by which the applicable horsemen's group and host racing association reach agreements on issues regarding the conduct of horseracing by the horsemen's group at that racing association;
 
-&emsp;(22) “terms and conditions” includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen'sgroup, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
+&emsp;(22) “terms and conditions” includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen's group, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
 
 (Pub. L. 95–515, §3, Oct. 25, 1978, 92 Stat. 1811.)
 

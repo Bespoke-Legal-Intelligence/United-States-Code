@@ -20,7 +20,7 @@
 
 #### (c) Fields composed of Federal and non-Federal land
 
-With respect to any field, which produces, or is determined to be capable of producing, significant volumes of crude oil, or natural gas, or both, which field is unitized and is composed of both Federal lands and lands other than Federal lands and there has been no determination of the maximum efficient rate of production or the temporary emergency production rate or both, the Secretary of the Interior may, pursuant tosubsection (a)(1) of this section, determine a maximum efficient rate of production and a temporary emergency production rate, if any, for such field. The President may, during a severe energy supply interruption by rule or order, require production at the maximum efficient rate of production and the temporary emergency production rate, if any, determined for such field.
+With respect to any field, which produces, or is determined to be capable of producing, significant volumes of crude oil, or natural gas, or both, which field is unitized and is composed of both Federal lands and lands other than Federal lands and there has been no determination of the maximum efficient rate of production or the temporary emergency production rate or both, the Secretary of the Interior may, pursuant to subsection (a)(1) of this section, determine a maximum efficient rate of production and a temporary emergency production rate, if any, for such field. The President may, during a severe energy supply interruption by rule or order, require production at the maximum efficient rate of production and the temporary emergency production rate, if any, determined for such field.
 
 #### (d) Action to recover just compensation
 
@@ -36,7 +36,7 @@ As used in this section:
 
 &emsp;&emsp;(A) which rate is above the maximum efficient rate of production established for such field; and
 
-&emsp;&emsp;(B) which may be maintained for a temporary period of less than 90 days without reservoir damage and without significant loss of ultimate recovery of crude oil or natural gas, or both, from such field.
+&emsp;&emsp;(B) which may be maintained for a temporary period of less than 90 days withoutreservoir damage and without significant loss of ultimate recovery of crude oil or natural gas, or both, from such field.
 
 #### (f) Naval Petroleum Reserves
 

@@ -218,7 +218,7 @@ Each insured depository institution shall prepare—
 
 #### (3) Applicability based on risk to fund
 
-&emsp;The appropriate Federal banking agency may require an institution with total assets inexcess of $9,000,000,000 to comply with this section, notwithstanding the exemption provided by this subsection, if it determines that such exemption would create a significant risk to the affected deposit insurance fund if applied to that institution.
+&emsp;The appropriate Federal banking agency may require an institution with total assets in excess of $9,000,000,000 to comply with this section, notwithstanding the exemption provided by this subsection, if it determines that such exemption would create a significant risk to the affected deposit insurance fund if applied to that institution.
 
 #### (j) Exemption for small depository institutions
 

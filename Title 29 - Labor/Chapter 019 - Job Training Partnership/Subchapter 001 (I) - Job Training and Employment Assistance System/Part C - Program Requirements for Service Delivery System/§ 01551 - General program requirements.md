@@ -18,7 +18,7 @@ Funds provided under this chapter shall only be used for activities which are in
 
 (3) If a violation of paragraph (1) or (2) is alleged, the Secretary shall conduct an investigation to determine whether a violation has occurred.
 
-(4) If the Secretary determines that a violation of paragraph (1) or (2) has occurred, the Secretary shall require the State, service delivery area, or substate grantee that has violated paragraph (1) or (2) to—
+(4) If the Secretary determines that a violation of paragraph (1) or (2) has occurred, theSecretary shall require the State, service delivery area, or substate grantee that has violated paragraph (1) or (2) to—
 
 &emsp;(A) repay to the United States an amount equal to the amount expended in violation of paragraph (1) or (2), in accordance with subsection (d) or (e) of section 1574 of this title; and
 
@@ -34,7 +34,7 @@ Funds provided under this chapter shall only be used for activities which are in
 
 (3)(A) Commercially available training packages, including advanced learning technology, may be purchased for off-the-shelf prices and without requiring a breakdown of the cost components of the package if such packages are purchased competitively and include performance criteria.
 
-(B) Tuition charges for training or education provided by an institution of higher education (as defined in section 1141(a) of title 20) or a proprietary institution of higher education (as defined in section 1088(b) of title 20), that are not more than the charges for such training or education made available to the general public, do not require a breakdown of cost components.
+(B) Tuition charges for training or education provided by an institution of higher education (as defined in section 1141(a) <sup>1</sup> of title 20) or a proprietary institution of higher education (as defined in section 1088(b) <sup>1</sup> of title 20), that are not more than the charges for such training or education made available to the general public, do not require a breakdown of cost components.
 
 (C) With respect to funds provided from the allocation to a service delivery area for any program year that are expended by any community-based organization or nonprofit organization for the cost of administration under part A or C of subchapter II of this chapter, the service delivery area shall not be subject to the limitation contained in section 1518(b)(4)(A) of this title if—
 
@@ -62,7 +62,7 @@ No member of any council under this chapter shall cast a vote on the provision o
 
 (1) Payments to employers for on-the-job training shall not, during the period of such training, average more than 50 percent of the wages paid by the employer to such participants, and payments in such amount shall be deemed to be in compensation for the extraordinary costs associated with training participants under this chapter and in compensation for the costs associated with the lower productivity of such participants.
 
-(2) On-the-job training authorized under the <sup>1</sup> chapter for a participant shall be limited in duration to a period not in excess of that generally required for acquisition of skills needed for the position within a particular occupation, but in no event shall exceed 6 months, unless the total number of hours of such training is less than 500 hours. In determining the period generally required for acquisition of the skills, consideration shall be given to recognized reference material (such as the Dictionary of Occupational Titles), the content of the training of the participant, the prior work experience of the participant, and the service strategy of the participant.
+(2) On-the-job training authorized under the <sup>2</sup> chapter for a participant shall be limited in duration to a period not in excess of that generally required for acquisition of skills needed for the position within a particular occupation, but in no event shall exceed 6 months, unless the total number of hours of such training is less than 500 hours. In determining the period generally required for acquisition of the skills, consideration shall be given to recognized reference material (such as the Dictionary of Occupational Titles), the content of the training of the participant, the prior work experience of the participant, and the service strategy of the participant.
 
 (3)(A) Each on-the-job training contract shall—
 
@@ -102,9 +102,9 @@ The Secretary shall not provide financial assistance for any program under this 
 
 (2) Income subject to the requirements of paragraph (1) shall include—
 
-&emsp;(A) receipts from goods or services (including conferences) provided as a result of activities funded under the <sup>2</sup> chapter;
+&emsp;(A) receipts from goods or services (including conferences) provided as a result of activities funded under the <sup>3</sup> chapter;
 
-&emsp;(B) funds provided to a service provider under the <sup>2</sup> chapter that are in excess of the costs associated with the services provided; and
+&emsp;(B) funds provided to a service provider under the <sup>3</sup> chapter that are in excess of the costs associated with the services provided; and
 
 &emsp;(C) interest income earned on funds received under this chapter.
 
@@ -140,7 +140,15 @@ The Federal requirements governing the title, use, and disposition of real prope
 
 (Pub. L. 97–300, title I, §141, Oct. 13, 1982, 96 Stat. 1343; Pub. L. 97–404, §1(f), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 100–77, title VII, §740(b), July 22, 1987, 101 Stat. 531; Pub. L. 102–367, title I, §131, Sept. 7, 1992, 106 Stat. 1042; Pub. L. 102–484, div. D, title XLIV, §4467(f), Oct. 23, 1992, 106 Stat. 2751; Pub. L. 103–160, div. A, title XIII, §1336, Nov. 30, 1993, 107 Stat. 1805.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
+
+Section 1141(a) of title 20, referred to in subsec. (d)(3)(B), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of Title 20, Education.
+
+Section 1088(b) of title 20, referred to in subsec. (d)(3)(B), was repealed and section 1088(e) was redesignated section 1088(b), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. However, the term “proprietary institution of higher education” is defined in section 1002(b) of Title 20, Education.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (s), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of that Act, is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
@@ -180,13 +188,15 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 
 #### Job Training Regulations
 
-Section 7 of Pub. L. 98–524, Oct. 19, 1984, 98 Stat. 2491, provided that: “Notwithstanding section 629.38(e)(2)(iii) of title 20 of the Code of Federal Regulations, relating to allowable training costs under the Job Training Partnership Act \[this chapter\], payment for training packages purchased competitively pursuant to section 141(d)(3) of such Act \[29 U.S.C. 1536(d)(3)\] in the case of youth shall include payment for the full unit price if the training results in either placement in unsubsidized employment or the attainment of an outcome specified in section 106(b)(2) of such Act \[29 U.S.C. 1516(b)(2)\].”
+Pub. L. 98–524, §7, Oct. 19, 1984, 98 Stat. 2491, provided that payment for training packages purchased competitively pursuant to section 1536(d)(3) of this title in the case of youth were to include payment for full unit price if training resulted in either placement in unsubsidized employment or attainment of outcome specified in section 1516(b)(2) of this title, prior to repeal by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(23)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1514, 1518, 1576, 1604, 1644, 1733, 1783 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “this”.</i>
 

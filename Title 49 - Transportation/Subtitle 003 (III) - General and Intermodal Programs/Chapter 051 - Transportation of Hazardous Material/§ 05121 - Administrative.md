@@ -88,7 +88,7 @@ Jan. 3, 1975, Pub. L. 93–633, §109(d), 88 Stat. 2159; Oct. 30, 1984, Pub. L. 
 
 Jan. 3, 1975, Pub. L. 93–633, §109(e), 88 Stat. 2159; Oct. 30, 1984, Pub. L. 98–559, §1(b), 98 Stat. 2907.
 
-In subsection (a), the words “to the extent necessary . . . his responsibilities under” and “relevant” are omitted as surplus. The word “documents” is omittedas being included in “records”. The words “directly or indirectly” are omitted as surplus. The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “to the extent necessary . . . his responsibilities under” and “relevant” are omitted as surplus. The word “documents” is omitted as being included in “records”. The words “directly or indirectly” are omitted as surplus. The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), before clause (1), the words “requirements under” are omitted as surplus. In clause (1), the words “establish and” are omitted as surplus. The word “requires” is substituted for “prescribe” for clarity and consistency.
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) has indicated that its business plan is to merge with an unidentified company or companies.
 
-(May 27, 1933, ch. 38, title I, §7, 48 Stat. 78; Oct. 15, 1990, Pub. L. 101–429, title V, §508, 104 Stat. 956.)
+(May 27, 1933, ch. 38, title I, §7, 48 Stat. 78; Pub. L. 101–429, title V, §508, Oct. 15, 1990, 104 Stat. 956.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@ In determining the feasibility of providing for the processing of Commodity Cred
 
 Not later than one hundred and twenty days after October 21, 1982, and annually thereafter, the Secretary shall report to the Congress with respect to the operation of this section, including any recommendations for legislative changes the Secretary finds necessary with respect to the authority provided in this section.
 
-(Oct. 31, 1949, ch. 792, title IV, §423, as added Oct. 21, 1982, Pub. L. 97–358, §2, 96 Stat. 1714; amended Dec. 23, 1985, Pub. L. 99–198, title X, §1024, 99 Stat. 1460.)
+(Oct. 31, 1949, ch. 792, title IV, §423, as added Pub. L. 97–358, §2, Oct. 21, 1982, 96 Stat. 1714; amended Pub. L. 99–198, title X, §1024, Dec. 23, 1985, 99 Stat. 1460.)
 
 #### Amendments
 

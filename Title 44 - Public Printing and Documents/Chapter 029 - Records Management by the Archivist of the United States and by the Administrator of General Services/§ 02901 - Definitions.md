@@ -32,7 +32,7 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 
 &emsp;(7) the term “records management study” means an investigation and analysis of any Federal agency records, or records management practices or programs (whether manual or automated), with a view toward rendering findings and recommendations with respect thereto;
 
-&emsp;(8) the term “inspection” means reviewing any Federal agency's records or records management practices or programs with respect to effectiveness and compliance with recordsmanagement laws and making necessary recommendations for correction or improvement of records management;
+&emsp;(8) the term “inspection” means reviewing any Federal agency's records or records management practices or programs with respect to effectiveness and compliance with records management laws and making necessary recommendations for correction or improvement of records management;
 
 &emsp;(9) the term “servicing” means making available for use information in records and other materials in the custody of the Archivist, or in a records center—
 

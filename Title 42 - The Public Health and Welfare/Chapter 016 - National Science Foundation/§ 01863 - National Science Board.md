@@ -26,7 +26,7 @@ The election of the Chairman and Vice Chairman of the Board shall take place at 
 
 #### (g) Appointment and assignment of staff; compensation; security requirements
 
-The Board may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of not more than five professional staff members and such clerical staff members as may be necessary. Such staff shall be appointed by the Director, after consultation with the chairman of the Board and assigned at the direction of the Board. The professional members of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of title 5 relating to classification, and compensated at a rate not exceeding the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332 of title 5, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
+The Board may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of not more than five professional staff members and such clerical staff members as may be necessary. Such staff shall be appointed by the Director, after consultation with the chairman of the Board and assigned at the direction of the Board. The professional members of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of title 5 relating to classification, and compensated at a rate not exceeding the maximum rate payable under section 5376 of title 5, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
 
 #### (h) Special commissions
 
@@ -42,23 +42,27 @@ The Board is also authorized to appoint from among its members such committees a
 
 (2) The Board shall render to the President for submission to the Congress reports on specific, individual policy matters related to science and engineering and education in science and engineering, as the Board, the President, or the Congress determines the need for such reports.
 
-#### (k) <sup>1</sup> Closed meetings
+#### (k) Closed meetings
 
 Portions of Board meetings in which the Board considers proposed Foundation budgets for a particular fiscal year may be closed to the public until the President's budget for that fiscal year has been submitted to the Congress.
 
-#### (k) <sup>1</sup> Financial disclosure report for Board members
+#### (<i>l</i>) Financial disclosure report for Board members
 
 Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
-(May 10, 1950, ch. 171, §4, 64 Stat. 150; Sept. 8, 1959, Pub. L. 86–232, §2, 73 Stat. 467; June 11, 1960,Pub. L. 86–507, §1(36), 74 Stat. 202; July 18, 1968, Pub. L. 90–407, §2, 82 Stat. 361; Apr. 21, 1976, Pub. L. 94–273, §11(3), 90 Stat. 378; May 11, 1976, Pub. L. 94–282, title V, §503, 90 Stat. 473; Oct. 11, 1976, Pub. L. 94–471, §9, 90 Stat. 2057; Aug. 15, 1977, Pub. L. 95–99, §12(b), formerly §14(b), 91 Stat. 835, renumbered §12(b), Nov. 22, 1985, Pub. L. 99–159, title I, §109(h), 99 Stat. 890; Dec. 12, 1980, Pub. L. 96–516, §21(a), 94 Stat. 3010; Dec. 21, 1982, Pub. L. 97–375, title II, §214, 96 Stat. 1826; Nov. 22, 1985, Pub. L. 99–159, title I, §§109(a), 110(a)(12), 99 Stat. 889, 891; Oct. 31, 1988, Pub. L. 100–570, title I, §§105(a), 108, 102 Stat. 2868, 2869.)
+(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (<i>l</i>), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–207, §202(a)(1)(A), substituted “the maximum rate payable under section 5376” for “the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332”.
+
+Subsecs. (k), (<i>l</i>). Pub. L. 105–207, §202(a)(1)(B), redesignated subsec. (k), relating to requirement of Board members to file financial disclosure report, as (<i>l</i>).
 
 1988—Subsec. (k). Pub. L. 100–570, §108, added subsec. (k) relating to requirement of Board members to file financial disclosure report.
 
@@ -94,7 +98,7 @@ Subsec. (d). Pub. L. 90–407 redesignated former subsec. (b) as (d), substitute
 
 Subsec. (e). Pub. L. 90–407 redesignated former subsec. (d) as (e) and substituted “A majority of the members of the Board shall constitute a quorum” for “A majority of the voting members of the Board shall constitute a quorum”. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 90–407 redesignated former subsec. (e) as (f) and substituted provisions that the election of the Chairman and Vice Chairman take place at each annual meeting occurring in an even-numbered year for provisions that their election take place at the first meeting of the National Science Board following the enactment of Pub. L. 86–232, and that thereafter such election take place at the second annual meeting occurring after each such election.
+Subsec. (f). Pub. L. 90–407 redesignated former subsec. (e) as (f) and substituted provisions that the election of the Chairman and Vice Chairman take place at each annual meeting occurring in an even-numbered year for provisions that their election take place at the firstmeeting of the National Science Board following the enactment of Pub. L. 86–232, and that thereafter such election take place at the second annual meeting occurring after each such election.
 
 Subsecs. (g) to (j). Pub. L. 90–407 added subsecs. (g) to (j).
 
@@ -106,11 +110,7 @@ Subsec. (e). Pub. L. 86–232 substituted provision for an election of a Chairma
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its durationis otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
@@ -119,6 +119,4 @@ Amendment by Pub. L. 90–407 intended to continue in effect the existing office
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1868, 1873 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (k) were enacted.</i>
 

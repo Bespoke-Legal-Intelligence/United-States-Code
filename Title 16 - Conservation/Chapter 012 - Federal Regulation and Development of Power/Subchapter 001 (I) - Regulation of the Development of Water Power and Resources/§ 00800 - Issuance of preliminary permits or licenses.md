@@ -12,7 +12,7 @@ Whenever, in the judgment of the Commission, the development of any water resour
 
 Whenever, after notice and opportunity for hearing, the Commission determines that the United States should exercise its right upon or after the expiration of any license to take over any project or projects for public purposes, the Commission shall not issue a new license to the original licensee or to a new licensee but shall submit its recommendation to Congress together with such information as it may consider appropriate.
 
-(June 10, 1920, ch. 285, pt. I, §7, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§205, 212, 49 Stat. 842, 847; Aug. 3, 1968, Pub. L. 90–451, §1, 82 Stat. 616; Oct. 16, 1986, Pub. L. 99–495, §2, 100 Stat. 1243.)
+(June 10, 1920, ch. 285, pt. I, §7, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§205, 212, 49 Stat. 842, 847; Pub. L. 90–451, §1, Aug. 3, 1968, 82 Stat. 616; Pub. L. 99–495, §2, Oct. 16, 1986, 100 Stat. 1243.)
 
 #### Codification
 
@@ -28,7 +28,7 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
+Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under thischapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
 #### Transfer of Functions
 

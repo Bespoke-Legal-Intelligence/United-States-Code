@@ -8,7 +8,7 @@ The Director of the Institute shall establish within the Institute an Office on 
 
 &emsp;(3) other matters determined appropriate by the Director.
 
-(July 1, 1944, ch. 373, title IV, §464O, as added July 10, 1992, Pub. L. 102–321, title I, §123(b), 106 Stat. 362.)
+(July 1, 1944, ch. 373, title IV, §464O, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 362.)
 
 #### Effective Date
 

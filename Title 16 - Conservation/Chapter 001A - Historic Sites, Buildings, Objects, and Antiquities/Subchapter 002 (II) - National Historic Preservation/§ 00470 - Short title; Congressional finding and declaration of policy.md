@@ -26,7 +26,7 @@
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–575, title XL, §4001, Oct. 30, 1992, 106 Stat. 4753, provided that: “This title \[enacting sections 470h–4, 470h–5, and 470x to 470x–6 of this title, amending sections 466, 470–1, 470a, 470b, 470c, 470h, 470h–2, 470h–3, 470i, 470s, 470t, 470w, and 470w–3 of this title, enacting provisions set out as notes under section 470a of this title, and amending provisions set out as a note under section 461 of this title\] may be cited as the ‘National Historic Preservation Act Amendments of 1992’.”
+Pub. L. 102–575, title XL, §4001, Oct. 30, 1992, 106 Stat. 4753, provided that: “This title \[enacting sections 470h–4, 470h–5, and 470x to 470x–6 of this title, amendingsections 466, 470–1, 470a, 470b, 470c, 470h, 470h–2, 470h–3, 470i, 470s, 470t, 470w, and 470w–3 of this title, enacting provisions set out as notes under section 470a of this title, and amending provisions set out as a note under section 461 of this title\] may be cited as the ‘National Historic Preservation Act Amendments of 1992’.”
 
 #### Short Title of 1980 Amendment
 

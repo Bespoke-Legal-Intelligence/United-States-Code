@@ -102,7 +102,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3102, 3111, 5948 of this title; title 7 sections 2272, 2279c; title 8 section 1357; title 10 sections 1588, 2113, 2360, 2904, 7086; title 14 sections 93, 823a; title 15 section 4102; title 16 sections 565a–2, 831b–1, 1703, 3602, 3640, 5608, 5708; title 18 section 4126; title 20 sections 76<i>l</i>, 4416; title 22 sections 2124c, 2391, 3508, 3715a, 3715d, 3649, 3658, 3664; title 24 sections 225e, 422; title 25 sections 2020, 3115, 3733; title 28 sections 376, 995, 996; title 33 section 569c; title 38 sections 3115, 3485, 7453, 7458; title 40 sections 216c, 851; title 42 sections 405, 3788, 9843a; title 43 section 1475; title 49 section 106; title 50 section 2081.
+This chapter is referred to in sections 3102, 3111, 5948 of this title; title 7 sections 2272, 2279c; title 8 section 1357; title 10 sections 1588, 2113, 2360, 2904, 7086; title 14 sections 93, 823a; title 15 section 4102; title 16 sections 565a–2, 831b–1, 1703, 3602, 3640, 5608, 5708; title 18 section 4126; title 20 sections 76<i>l</i>, 4416; title 22 sections 2124c, 2391, 3508, 3715a, 3715d, 3649, 3658, 3664; title 24 sections 225e, 422; title 25 sections 2020, 3115, 3733; title 28 sections 376, 995, 996; title 33 section 569c; title 38 sections 3115, 3485, 7453, 7458; title 40 sections 216c, 851; title 42 sections 405, 3788, 9843a; title 43 section 1475; title 49 sections 106, 49104; title 50 section 2081.
 
 
 ---

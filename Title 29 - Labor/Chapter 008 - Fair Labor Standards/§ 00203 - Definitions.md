@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(IV) is an immediate adviser to such an officeholder with respect to the constitutional or legal powers of his office, or
 
-&emsp;&emsp;&emsp;(V) is an employee in the legislative branch or legislative body of that State,political subdivision, or agency and is not employed by the legislative library of such State, political subdivision, or agency.
+&emsp;&emsp;&emsp;(V) is an employee in the legislative branch or legislative body of that State, political subdivision, or agency and is not employed by the legislative library of such State, political subdivision, or agency.
 
 (3) For purposes of subsection (u) of this section, such term does not include any individual employed by an employer engaged in agriculture if such individual is the parent, spouse, child, or other member of the employer's immediate family.
 
@@ -55,6 +55,8 @@ As used in this chapter—
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
 (B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
+
+(5) The term “employee” does not include individuals who volunteer their services solely for humanitarian purposes to private non-profit food banks and who receive from the food banks groceries.
 
 (f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
 
@@ -74,7 +76,7 @@ As used in this chapter—
 
 &emsp;(1) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
 
-&emsp;(2) an additional amount on account of the tips received by such employee which amountis equal to the difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title.
+&emsp;(2) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title.
 
 > The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
 
@@ -118,11 +120,13 @@ As used in this chapter—
 
 (w) “Secondary school” means a day or residential school which provides secondary education, as determined under State law.
 
-(x) “Public agency” means the Government of the United States; the government of a State or political subdivision thereof; any agency of the United States (including the United States Postal Service and Postal Rate Commission), aState, or a political subdivision of a State; or any interstate governmental agency.
+(x) “Public agency” means the Government of the United States; the government of a State or political subdivision thereof; any agency of the United States (including the United States Postal Service and Postal Rate Commission), a State, or a political subdivision of a State; or any interstate governmental agency.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248.)
 
 #### Amendments
+
+1998—Subsec. (e)(5). Pub. L. 105–221 added par. (5).
 
 1996—Subsec. (m). Pub. L. 104–188 inserted “In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
@@ -224,7 +228,7 @@ Section 15(a), (b) of Pub. L. 95–151 provided that:
 
 “(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made by this Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under section 204 of this title\] shall take effect January 1, 1978.
 
-“(b) The amendments made by sections 8, 9, 11, 12, and 13 \[amending this section and sections 213 and 214 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 1, 1977\].”
+“(b) The amendments made by sections 8, 9, 11, 12, and 13 \[amending this section and sections 213 and 214of this title\] shall take effect on the date of the enactment of this Act \[Nov. 1, 1977\].”
 
 #### Effective Date of 1974 Amendment
 

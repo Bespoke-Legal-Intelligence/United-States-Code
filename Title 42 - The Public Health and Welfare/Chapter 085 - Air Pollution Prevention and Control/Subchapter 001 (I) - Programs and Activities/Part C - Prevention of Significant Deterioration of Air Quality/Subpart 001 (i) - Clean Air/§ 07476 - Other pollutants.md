@@ -24,7 +24,7 @@ With respect to any air pollutant for which a national ambient air quality stand
 
 The Administrator is authorized to substitute, for the maximum allowable increases in particulate matter specified in section 7473(b) of this title and section 7475(d)(2)(C)(iv) of this title, maximum allowable increases in particulate matter with an aerodynamic diameter smaller than or equal to 10 micrometers. Such substituted maximum allowable increases shall be of equal stringency in effect as those specified in the provisions for which they are substituted. Until the Administrator promulgates regulations under the authority of this subsection, the current maximum allowable increases in concentrations of particulate matter shall remain in effect.
 
-(July 14, 1955, ch. 360, title I, §166, as added Aug. 7, 1977, Pub. L. 95–95, title I, §127(a), 91 Stat. 739; amended Nov. 15, 1990, Pub. L. 101–549, title I, §105(b), 104 Stat. 2462.)
+(July 14, 1955, ch. 360, title I, §166, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 739; amended Pub. L. 101–549, title I, §105(b), Nov. 15, 1990, 104 Stat. 2462.)
 
 #### Amendments
 

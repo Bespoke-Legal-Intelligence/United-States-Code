@@ -12,7 +12,7 @@ The Surgeon General, pursuant to regulations, shall—
 
 (e) Provide, to the extent the Surgeon General determines that other public or private funds are not available therefor, for the payment of expenses of preparing and transporting the remains of, or the payment of reasonable burial expenses for, any patient dying in a hospital or station.
 
-(July 1, 1944, ch. 373, title III, §321, 58 Stat. 695; June 25, 1948, ch. 654, §2, 62 Stat. 1017; Nov. 9, 1978, Pub. L. 95–622, title II, §266, 92 Stat. 3437.)
+(July 1, 1944, ch. 373, title III, §321, 58 Stat. 695; June 25, 1948, ch. 654, §2, 62 Stat. 1017; Pub. L. 95–622, title II, §266, Nov. 9, 1978, 92 Stat. 3437.)
 
 #### Amendments
 

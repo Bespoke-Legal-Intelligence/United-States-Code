@@ -14,11 +14,15 @@ In the case of the regulations required by this subchapter to be promulgated wit
 
 Nothing in this subchapter shall affect the authority of the Administrator to regulate medical waste, including medical waste listed under section 6992a of this title, under subchapter III of this chapter.
 
-(Pub. L. 89–272, title II, §11010, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2957.)
+(Pub. L. 89–272, title II, §11009, formerly §11010, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2957; renumbered §11009, Pub. L. 105–362, title V, §501(h)(1)(B), Nov. 10, 1998, 112 Stat. 3284.)
 
 #### References in Text
 
 The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+
+#### Prior Provisions
+
+A prior section 11009 of Pub. L. 89–272 was renumbered section 11008 and is classified to section 6992h of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 Whoever buys, sells, exchanges, transfers, receives, or delivers any false, forged, counterfeited, or altered obligation or other security of the United States, with the intent that the same be passed, published, or used as true and genuine, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 705; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

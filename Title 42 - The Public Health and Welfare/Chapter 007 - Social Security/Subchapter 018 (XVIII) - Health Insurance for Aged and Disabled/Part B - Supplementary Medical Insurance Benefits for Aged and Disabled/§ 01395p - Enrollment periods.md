@@ -84,7 +84,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 (B) The special enrollment period referred to in subparagraph (A) is the 6-month period beginning on the first day of the month which includes the date of the enrollment termination described in subparagraph (A)(ii).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 304; amended Apr. 8, 1966, Pub. L. 89–384, §3(a), (b), 80 Stat. 105; Jan. 2, 1968, Pub. L. 90–248, title I, §§136(a), 145(a), (b), 81 Stat. 853, 859; Oct. 30, 1972, Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, 86 Stat. 1372, 1378, 1448; June 9, 1980, Pub. L. 96–265, title I, §103(a)(3), 94 Stat. 444; Dec. 5, 1980, Pub. L. 96–499, title IX, §945(a), (b), 94 Stat. 2642; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2151(a)(1), (2), 95 Stat. 801; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), 98 Stat. 1092, 1101; Apr. 7, 1986, Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), 100 Stat. 171, 182; Oct. 21, 1986, Pub. L. 99–509, title IX, §9319(c)(1)–(3), 100 Stat. 2011; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(b)(12), 100 Stat. 2934; Dec. 19, 1989, Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), 103 Stat. 2233; Oct. 31, 1994, Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), 108 Stat. 4430, 4435; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), 111 Stat. 465, 486.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980,94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Subsec. (i)(1)(A). Pub. L. 99–514 realigned margins of subpar. (A).
 
 Pub. L. 99–272, §9219(a)(2)(A), amended subpar. (A) generally, substituting “has attained the age of 65” for “meets the conditions described in clauses (i) and (iii) of section 1395y(b)(3)(A) of this title”.
 
-Subsec. (i)(2). Pub. L. 99–509, §9319(c)(2), inserted sentence at end providing for a special enrollment period described in paragraph (3)(B) for individuals not age 65, enrolled or deemed enrolled in the medical insurance program established under this part, or is an individualdescribed in the second sentence of paragraph (1), has enrolled in such program during a subsequent special enrollment period during which the individual was not enrolled in a large group health plan, and has not terminated enrollment.
+Subsec. (i)(2). Pub. L. 99–509, §9319(c)(2), inserted sentence at end providing for a special enrollment period described in paragraph (3)(B) for individuals not age 65, enrolled or deemed enrolled in the medical insurance program established under this part, or is an individual described in the second sentence of paragraph (1), has enrolled in such program during a subsequent special enrollment period during which the individual was not enrolled in a large group health plan, and has not terminated enrollment.
 
 Subsec. (i)(2)(A). Pub. L. 99–272, §9219(a)(2)(B), amended subpar. (A) generally, substituting “has attained the age of 65;” for “meets the conditions described in clauses (i) and (iii) of section 1395y(b)(3)(A) of this title,”.
 
@@ -146,7 +146,7 @@ Subsec. (i). Pub. L. 98–369, §2338(b), added subsec. (i).
 
 1981—Subsec. (e). Pub. L. 97–35, §2151(a)(1), substituted “during the period beginning on January 1 and ending on March 31 of each year” for “which is any period after the period described in subsection (d) of this section”.
 
-Subsec. (g)(3). Pub. L. 97–35, §2151(a)(2), substituted “the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section)” for “the month in which the individual files an application establishing such entitlement”.
+Subsec. (g)(3). Pub. L. 97–35, §2151(a)(2), substituted “the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section)” for “the month in whichthe individual files an application establishing such entitlement”.
 
 1980—Subsec. (b). Pub. L. 96–499, §945(a), struck out subsec. (b) which provided that no individual could enroll under this part more than twice.
 
@@ -202,7 +202,7 @@ Section 9201(d)(2) of Pub. L. 99–272 provided that: “The amendments made by 
 
 Section 9219(a)(3)(B) of Pub. L. 99–272 provided that:
 
-“(i) The amendments made by paragraph (2) \[amending this section\] shall apply to enrollments in months beginning with the first effective month (as defined inclause (ii)), except that in the case of any individual who would have a special enrollment period under section 1837(i) of the Social Security Act \[subsec. (i) of this section\] that would have begun after November 1984 and before the first effective month, the period shall be deemed to begin with the first day of the first effective month.
+“(i) The amendments made by paragraph (2) \[amending this section\] shall apply to enrollments in months beginning with the first effective month (as defined in clause (ii)), except that in the case of any individual who would have a special enrollment period under section 1837(i) of the Social Security Act \[subsec. (i) of this section\] that would have begun after November 1984 and before the first effective month, the period shall be deemed to begin with the first day of the first effective month.
 
 “(ii) For purposes of clause (i), the term ‘first effective month’ means the first month that begins more than 90 days after the date of the enactment of this Act \[Apr. 7, 1986\].”
 

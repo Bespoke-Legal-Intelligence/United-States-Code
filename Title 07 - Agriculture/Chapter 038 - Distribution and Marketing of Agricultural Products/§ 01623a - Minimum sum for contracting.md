@@ -1,8 +1,8 @@
 ### §1623a. Minimum sum for contracting
 
-Not less than $1,500,000 of the appropriations of the Department of Agriculture in this Act for research and service work authorized by the Acts of August 14, 1946, and July 28, 1954 (7 U.S.C. 427, 1621–1629), and by chapter 63 of title 31 shall be available for contracting in accordance with said Acts and chapter.
+Not less than $1,500,000 of the appropriations of the Department of Agriculture in this Act for research and service work authorized by the Acts of August 14, 1946, and July 28, 1954 (7 U.S.C. 427 and 1621–1629), and by chapter 63 of title 31 shall be available for contracting in accordance with said Acts and chapter.
 
-(Pub. L. 105–86, title VII, §703, Nov. 18, 1997, 111 Stat. 2104.)
+(Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §703\], Oct. 21, 1998, 112 Stat. 2681, 2681–25.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 105–86, title VII, §703, Nov. 18, 1997, 111 Stat. 2104.
 
 Pub. L. 104–180, title VII, §703, Aug. 6, 1996, 110 Stat. 1596.
 

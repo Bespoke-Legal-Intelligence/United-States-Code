@@ -12,7 +12,7 @@ The Attorney General shall consult with the Secretary of Health and Human Servic
 
 #### Prior Provisions
 
-A prior section 1901 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 1901 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Section Referred to in Other Sections
 

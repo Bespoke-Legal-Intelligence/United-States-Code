@@ -84,7 +84,7 @@
 
 #### (2) Contents
 
-&emsp;The account shall include all amounts deposited by the Commission under subsection (c) of this section and section 1106(h) of this title.
+&emsp;The account shall include all amounts deposited by the Commission under subsection\(c) of this section and section 1106(h) of this title.
 
 #### (3) Availability
 

@@ -156,6 +156,9 @@
 | (a) | Determination required. |
 | (b) | Benchmark compensation amount. |
 | (c) | Definitions. |
+| [436\.](%C2%A7%2000436%20-%20Protection%20of%20constitutional%20rights%20of%20contractors.md) | Protection of constitutional rights of contractors. |
+| (a) | Prohibition. |
+| (b) | Construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -211,3 +214,4 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00433 - Acquisition workforce](%C2%A7%2000433%20-%20Acquisition%20workforce.md)
 - [&sect; 00434 - Modular contracting for information technology](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md)
 - [&sect; 00435 - Levels of compensation of certain contractor personnel not allowable as costs under certain contracts](%C2%A7%2000435%20-%20Levels%20of%20compensation%20of%20certain%20contractor%20personnel%20not%20allowable%20as%20costs%20under%20certain%20contracts.md)
+- [&sect; 00436 - Protection of constitutional rights of contractors](%C2%A7%2000436%20-%20Protection%20of%20constitutional%20rights%20of%20contractors.md)

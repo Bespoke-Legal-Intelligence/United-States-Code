@@ -16,7 +16,7 @@ This section was renumbered “2676” by Senate amendment. See 80th Congress Se
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–506 struck out provision requiring that approval of court be obtained before Attorney General could arbitrate, compromise, or settle a claim after commencement of an action thereon.
+1966—Pub. L. 89–506 struck out provision requiring that approval of court be obtained before Attorney General could arbitrate, compromise, or settle a claim after commencement of an action thereon.
 
 #### Effective Date of 1966 Amendment
 

@@ -1,5 +1,9 @@
 ### SUBCHAPTER I—ELECTRONIC SURVEILLANCE
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 1842 of this title.
+
 
 ---
 

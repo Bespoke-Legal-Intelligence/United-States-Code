@@ -70,6 +70,26 @@ Section 1(a) of Pub. L. 99–433 provided that: “This Act \[see Tables for cla
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Prohibition on Restriction of Armed Forces Under Kyoto Protocol to United Nations Framework Convention on Climate Change
+
+Pub. L. 105–261, div. A, title XII, §1232, Oct. 17, 1998, 112 Stat. 2155, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, no provision of the Kyoto Protocol to the United Nations Framework Convention on Climate Change, or any regulation issued pursuant to such protocol, shall restrict the training or operations of the United States Armed Forces or limit the military equipment procured by the United States Armed Forces.
+
+“(b)
+
+Waiver.—A provision of law may not be construed as modifying or superseding the provisions of subsection (a) unless that provision of law—
+
+&emsp;“(1) specifically refers to this section; and
+
+&emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of this section.
+
+“(c)
+
+Matters Not Affected.—Nothing in this section shall be construed to preclude the Department of Defense from implementing any measure to achieve efficiencies or for any other reason independent of the Kyoto Protocol.”
+
 #### Applicability of Certain Pay Authorities to Members of Specified Independent Study Organizations
 
 Pub. L. 105–85, div. A, title X, §1081, Nov. 18, 1997, 111 Stat. 1916, provided that:
@@ -244,7 +264,7 @@ Recommendations Concerning Programs and Force Structure.—The Commission may al
 
 “(a)
 
-Implementation Plan.—Not later than three months after the date on which all members of the Commission have been appointed, the Commission shall transmit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report setting forth its plan for the work of the Commission. The plan shall be developed following discussions with the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the chairmen of those committees.
+Implementation Plan.—Not later than three months after the date on which all members of the Commission have been appointed, the Commission shall transmit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth its plan for the work of the Commission. The plan shall be developed following discussions with the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the chairmen of those committees.
 
 “(b)
 
@@ -412,7 +432,7 @@ Section 604 of Pub. L. 99–433 directed Secretary of Defense, not later than si
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 
-Pub. L. 96–107, title VIII, §808, Nov. 9, 1979, 93 Stat. 814, which directed Secretary of Defense to report annually to Congress on readiness of military forces of NATO, was repealed and restated as section 133a \[now §117\] of this title by Pub. L. 97–295, §§1(2)(A), 6(b), Oct. 12, 1982, 96 Stat. 1287, 1314.
+Pub. L. 96–107, title VIII, §808, Nov. 9, 1979, 93 Stat. 814, which directed Secretary of Defense to report annually to Congress on readiness of military forces of NATO, was repealed and restated as section 133a (renumbered §117 and repealed) of this title by Pub. L. 97–295, §§1(2)(A), 6(b), Oct. 12, 1982, 96 Stat. 1287, 1314.
 
 #### Defense Manpower Commission
 

@@ -56,7 +56,7 @@ It shall be the responsibility of the Secretary of Health and Human Services to 
 
 States may enter into reciprocal arrangements for the establishment and enforcement of support obligations with foreign countries that are not the subject of a declaration pursuant to subsection (a) of this section, to the extent consistent with Federal law.
 
-(Aug. 14, 1935, ch. 531, title IV, §459A, as added Aug. 22, 1996, Pub. L. 104–193, title III, §371(a), 110 Stat. 2252.)
+(Aug. 14, 1935, ch. 531, title IV, §459A, as added Pub. L. 104–193, title III, §371(a), Aug. 22, 1996, 110 Stat. 2252.)
 
 #### Effective Date
 

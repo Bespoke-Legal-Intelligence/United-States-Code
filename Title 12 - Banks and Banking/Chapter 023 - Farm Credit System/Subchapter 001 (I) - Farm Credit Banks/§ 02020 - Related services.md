@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Farm Credit Banks may provide technical assistance to borrowers, members, and applicants from the bank and associations in the district, including persons obligated on paper discounted by the bank, and may make available to them at their option such financial related services appropriate to their on-farm and aquatic operations as determined to be feasible by theboard of directors of the bank, under regulations of the Farm Credit Administration.
+The Farm Credit Banks may provide technical assistance to borrowers, members, and applicants from the bank and associations in the district, including persons obligated on paper discounted by the bank, and may make available to them at their option such financial related services appropriate to their on-farm and aquatic operations as determined to be feasible by the board of directors of the bank, under regulations of the Farm Credit Administration.
 
 #### (b) Authority to pass along cost of insurance premiums
 
@@ -42,7 +42,7 @@ Subsec. (b)(3). Pub. L. 101–220, §6(b)(2)(C), added par. (3).
 
 #### Effective Date of 1989 Amendment
 
-Section 6(c) of Pub. L. 101–220 provided that: “The amendments made by subsections (a) and (b) \[amending sections 2020, 2277a–4, 2277a–8, and 2277a–10 of this title\] shall be effective for insurance premiums due to the Farm Credit System Insurance Corporation under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) on or after January 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and shall be effective for the calculation of the initial premium payment required under section 5.56(c) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–5(c)).”
+Section 6(c) of Pub. L. 101–220 provided that: “The amendments made by subsections (a) and (b) \[amending sections 2020, 2277a–4, 2277a–8, and 2277a–10 of this title\] shall be effective for insurance premiums due to the Farm Credit System Insurance Corporation under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) on or after January 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendaryear 1989, and shall be effective for the calculation of the initial premium payment required under section 5.56(c) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–5(c)).”
 
 #### Effective Date of 1988 Amendment
 

@@ -6,9 +6,9 @@ Reuse Studies.—Whenever the Secretary of Defense or the Secretary of the milit
 
 (b)
 
-Adjustment and Diversification Assistance.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than theDepartment of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, or (E) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (E) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D), if the Secretary determines that the encroachment of the civilian community is likely to impair the continued operational utility of the military installation.
+Adjustment and Diversification Assistance.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, or (E) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (E) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D), if the Secretary determines that the encroachment of the civilian community is likely to impair the continued operational utility of the military installation.
 
-(2) In the case of the establishment or expansion of a military installation, assistance may be made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
+(2) In the case of the establishment or expansion of a military installation, assistance maybe made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
 
 (3) In the case of a publicly announced planned reduction in Department of Defense spending, the closure or significantly reduced operations of a defense facility, the cancellation or termination of a Department of Defense contract, or the failure to proceed with a previously approved major defense acquisition program, assistance may be made under paragraph (1) only if the reduction, cancellation, termination, or failure will have a direct and significant adverse impact on a community and will result in the loss of—
 
@@ -56,7 +56,7 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (c)
 
-Annual Report.—The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government, and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.
+Annual Report.—The Secretary of Defense shall submit a report not later than December 1 of each year to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives concerning the operation of this section during the preceding fiscal year. Each such report shall identify each State, unit of local government,and regional organization that received a grant under this section during such fiscal year and the total amount granted under this section during such year to each such State, unit of local government, and regional organization.
 
 (d)
 
@@ -132,6 +132,10 @@ Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesign
 
 1983—Subsec. (b)(2). Pub. L. 98–115 substituted “2,000” for “2,500”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
@@ -166,7 +170,7 @@ Pub. L. 102–172, title VIII, §8149, Nov. 26, 1991, 105 Stat. 1214, provided t
 
 #### Defense Economic Adjustment, Diversification, Conversion, and Stabilization
 
-Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611, provided that:
+Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, provided that:
 
 #### “SEC. 4001. SHORT TITLE
 
@@ -238,7 +242,7 @@ Policy.—In view of the findings expressed in subsection (a), it is the policy 
 
 &emsp;&emsp;&emsp;“(iii) establishes, by evidence, that the reductions referred to in clause (ii) occurred as a direct result of a reduction in the defense budget; and
 
-&emsp;&emsp;“(C) when such term is used in conjunction with the term ‘group of workers’, any group of 100 or more workers at a defense facility who are (or who are threatened to be), eligible to participate in the defense conversion adjustment program under section 325 of the Job Training Partnership Act \[29 U.S.C. 1662d\] (as added by section 4202 of this division).
+&emsp;&emsp;“(C) when such term is used in conjunction with the term ‘group of workers’, any group of 100 or more workers at a defense facility who are (or who are threatened to be), eligible to participate in the defense conversion adjustment program under section 325 of the Job Training Partnership Act \[29 U.S.C. 1662d\] (as added by section 4202 of this division), as in effect on the day before the date of enactment of the Workforce Investment Act of 1998 \[Aug. 7, 1998\].
 
 #### “SEC. 4004. CONTINUATION OF ECONOMIC ADJUSTMENT COMMITTEE
 
@@ -314,7 +318,7 @@ Administrative Expenses.—Of amounts appropriated pursuant to this section, not
 
 #### “SEC. 4301. EXPANSION OF SMALL BUSINESS LOAN PROGRAM
 
-“Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the President, acting with the assistance of the Committee and after consulting experts in government and the private sector, shall transmit to the Congress recommendations regarding ways that assistance provided pursuant to the business loan program under section 7(a) of the Small Business Act of 1958 \[15 U.S.C. 636(a)\] may be used to respond to the consequences of defense budget reductions.
+“Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the President, actingwith the assistance of the Committee and after consulting experts in government and the private sector, shall transmit to the Congress recommendations regarding ways that assistance provided pursuant to the business loan program under section 7(a) of the Small Business Act of 1958 \[15 U.S.C. 636(a)\] may be used to respond to the consequences of defense budget reductions.
 
 #### “SEC. 4302. ECONOMIC PLANNING ASSISTANCE FOR EXCEPTIONAL PROJECTS
 
@@ -384,31 +388,7 @@ Effective Notification System.—The Secretary of Commerce and the Administrator
 
 #### Commission on Alternative Utilization of Military Facilities
 
-Section 2819 of Pub. L. 100–456, as amended by Pub. L. 101–510, div. B, title XXIX, §2922(a), Nov. 5, 1990, 104 Stat. 1820, provided that:
-
-“(a)
-
-Establishment of Commission.—Within 30 days after the date of the enactment of this Act \[Sept. 29, 1988\], the President shall establish a Commission on Alternative Utilization of Military Facilities. The Commission shall be composed of representatives from the Department of Defense, the Bureau of Prisons of the Department of Justice, the National Institute on Drug Abuse of the Department of Health and Human Services, and the General Services Administration.
-
-“(b)
-
-Report Requirements.—The Commission shall, on a biannual basis—
-
-&emsp;“(1) prepare a report listing active and nonactive military facilities that the Secretary of Defense has identified as subjects for closure, as being underutilized in whole or part, or as being excess to the needs of the Department of Defense;
-
-&emsp;“(2) identify those facilities, or parts of facilities, that could be effectively utilized or renovated to serve as Federal confinement or correctional facilities including shock incarceration facilities;
-
-&emsp;“(3) identify those facilities, or parts of facilities, that could be effectively utilized or renovated to serve as drug treatment facilities for nonviolent drug abusers;
-
-&emsp;“(4) identify those facilities, or parts of facilities, that could be effectively utilized or renovated to meet the needs of States and local jurisdictions for confinement or correctional facilities; and
-
-&emsp;“(5) transmit a list of such facilities to the President and to the Congress.
-
-“(c)
-
-Deadline for Reports.—The first report required by subsection (b) shall be submitted to the President and Congress not later than October 1, 1988. Subsequent reports under such subsection shall be submitted not later than September 1 of every second year after submission of the first report through fiscal year 1996.”
-
-\[Section 2922(b) of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title X, §1062(b), Dec. 5, 1991, 105 Stat. 1475, provided that: “The amendments made by subsection (a) \[amending section 2819 of Pub. L. 100–456 set out above\] shall take effect with respect to the first report required to be submitted under section 2819 of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456\], after September 30, 1990.”\]
+Section 2819 of Pub. L. 100–456, as amended by Pub. L. 101–510, div. B, title XXIX, §2922(a), Nov. 5, 1990, 104 Stat. 1820, established Commission on Alternative Utilization of Military Facilities and required Commission to submit reports to President and Congress not later than Sept. 1 of every second year through fiscal year 1996, prior to repeal by Pub. L. 105–261, div. A, title X, §1031(b), Oct. 17, 1998, 112 Stat. 2123.
 
 #### Submission Date for First Report
 
@@ -418,7 +398,7 @@ Section 912(c) of Pub. L. 97–86 required the first report under subsec. (c) of
 
 Ex. Ord. No. 12682, July 7, 1989, 54 F.R. 29315, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2819 of the Military Construction Authorization Act, 1989 (Public Law 100–456) \[10 U.S.C. 2391 note\], it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including section 2819 of the Military Construction Authorization Act, 1989 (Public Law 100–456) \[10 U.S.C. 2391 note\], it is hereby ordered as follows:
 
 Section 1. (a) I hereby establish the Commission on Alternative Utilization of Military Facilities (“Commission”).
 

@@ -10,7 +10,7 @@ If the Secretary terminates the order, the Institute shall be dissolved 180 days
 
 #### (c) Disposal of moneys in Fund
 
-If the Institute is dissolved for any reason, the moneys remaining in the Fund shall be disposedof as shall be agreed to by the board and the Secretary.
+If the Institute is dissolved for any reason, the moneys remaining in the Fund shall be disposed of as shall be agreed to by the board and the Secretary.
 
 (Pub. L. 98–180, title I, §136, as added Pub. L. 99–198, title I, §121, Dec. 23, 1985, 99 Stat. 1371.)
 

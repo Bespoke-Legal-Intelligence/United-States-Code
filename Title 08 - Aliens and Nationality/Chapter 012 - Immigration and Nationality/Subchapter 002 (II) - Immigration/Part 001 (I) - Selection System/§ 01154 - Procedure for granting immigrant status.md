@@ -82,7 +82,7 @@ Nothing in this section shall be construed to entitle an immigrant, in behalf of
 
 (2) The Attorney General may approve a petition for an alien under paragraph (1) if—
 
-&emsp;(A) he has reason to believe that the alien (i) was born in Korea, Vietnam, Laos,Kampuchea, or Thailand after 1950 and before October 22, 1982, and (ii) was fathered by a United States citizen;
+&emsp;(A) he has reason to believe that the alien (i) was born in Korea, Vietnam, Laos, Kampuchea, or Thailand after 1950 and before October 22, 1982, and (ii) was fathered by a United States citizen;
 
 &emsp;(B) he has received an acceptable guarantee of legal custody and financial responsibility described in paragraph (4); and
 
@@ -108,7 +108,7 @@ Notwithstanding subsection (a) of this section, except as provided in section 12
 
 #### (h) Survival of rights to petition
 
-The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section.
+The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this sectionpursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section.
 
 #### (i) Professional athletes
 
@@ -124,7 +124,7 @@ The legal termination of a marriage may not be the sole basis for revocation und
 
 &emsp;&emsp;(B) any minor league team that is affiliated with such an association.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Oct. 24, 1962, Pub. L. 87–885, §3, 76 Stat. 1247; Oct. 3, 1965, Pub. L. 89–236, §4, 79 Stat. 915; Oct. 20, 1976, Pub. L. 94–571, §7(b), 90 Stat. 2706; Oct. 5, 1978, Pub. L. 95–417, §§2, 3, 92 Stat. 917; Oct. 19, 1980, Pub. L. 96–470, title II, §207, 94 Stat. 2245; Dec. 29, 1981, Pub. L. 97–116, §§3, 18(d), 95 Stat. 1611, 1620; Oct. 22, 1982, Pub. L. 97–359, 96 Stat. 1716; Nov. 10, 1986, Pub. L. 99–639, §§2(c), 4(a), 5(b), 100 Stat. 3541, 3543; Oct. 24, 1988, Pub. L. 100–525, §9(g), 102 Stat. 2620; Nov. 29, 1990, Pub. L. 101–649, title I, §162(b), title VII, §702(b), 104 Stat. 5010, 5086; Dec. 12, 1991, Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), 105 Stat. 1745, 1746, 1757, 1758; Sept. 13, 1994, Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), 108 Stat. 1953, 1954; Oct. 25, 1994, Pub. L. 103–416, title II,§219(b)(2), 108 Stat. 4316; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), 110 Stat. 3009–619, 3009–621, 3009–699.)
+(June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Pub. L. 87–885, §3, Oct. 24, 1962, 76 Stat. 1247; Pub. L. 89–236, §4, Oct. 3, 1965, 79 Stat. 915; Pub. L. 94–571, §7(b), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–417, §§2, 3, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–470, title II, §207, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–116, §§3, 18(d), Dec. 29, 1981, 95 Stat. 1611, 1620; Pub. L. 97–359, Oct. 22, 1982, 96 Stat. 1716; Pub. L. 99–639, §§2(c), 4(a), 5(b), Nov. 10, 1986, 100 Stat. 3541, 3543; Pub. L. 100–525, §9(g), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §162(b), title VII, §702(b), Nov. 29, 1990, 104 Stat. 5010, 5086; Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, 105 Stat. 1745, 1746, 1757, 1758; Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), Sept. 13, 1994, 108 Stat. 1953, 1954; Pub. L. 103–416, title II, §219(b)(2), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), Sept. 30, 1996, 110 Stat. 3009–619, 3009–621, 3009–699.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ A Government authority may request financial records under section 3402(5) of th
 
 &emsp;“If you desire that such records or information not be made available, you must:
 
-&emsp;&emsp;“1. Fill out the accompanying motion paper and sworn statement or write one ofyour own, stating that you are the customer whose records are being requested by the Government and either giving the reasons you believe that the records are not relevant to the legitimate law enforcement inquiry stated in this notice or any other legal basis for objecting to the release of the records.
+&emsp;&emsp;“1. Fill out the accompanying motion paper and sworn statement or write one of your own, stating that you are the customer whose records are being requested by the Government and either giving the reasons you believe that the records are not relevant to the legitimate law enforcement inquiry stated in this notice or any other legal basis for objecting to the release of the records.
 
 &emsp;&emsp;“2. File the motion and statement by mailing or delivering them to the clerk of any one of the following United States District Courts:
 

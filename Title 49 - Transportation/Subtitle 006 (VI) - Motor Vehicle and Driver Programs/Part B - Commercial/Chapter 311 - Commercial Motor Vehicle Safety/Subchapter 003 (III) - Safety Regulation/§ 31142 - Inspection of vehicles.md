@@ -2,7 +2,7 @@
 
 (a)
 
-Inspection of Safety Equipment.—On the instruction of an authorized enforcement official of a State or of the United States Government, a commercial motor vehicle is required to pass an inspection of all safety equipment required under part 393 of title 49, Code of Federal Regulations.
+Inspection of Safety Equipment.—On the instruction of an authorized enforcement official of a State or of the United States Government, a commercial motor vehicle is required to pass an inspection of all safety equipment required under the regulations issued under section 31136.
 
 (b)
 
@@ -16,7 +16,7 @@ Preemption.—(1) Except as provided in paragraph (2) of this subsection, this s
 
 &emsp;(B) prevent a State from enforcing a program for inspection of commercial motor vehicles that the Secretary decides is as effective as the Government standards prescribed under subsection (b) of this section;
 
-&emsp;(C) prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or
+&emsp;(C) prevent a State from participating in the activities of a voluntary group of States enforcing a program for inspection of commercial motor vehicles; or
 
 &emsp;(D) require a State that is enforcing a program described in clause (B) or (C) of this paragraph to enforce a Government standard prescribed under subsection (b) of this section or to adopt a provision on inspection of commercial motor vehicles in addition to that program to comply with the Government standards.
 
@@ -38,7 +38,7 @@ Effect of Government Standards.—The Government standards prescribed under subs
 
 Application of State Regulations to Government-Leased Vehicles and Operators.—A State receiving financial assistance under section 31102 of this title in a fiscal year may enforce in that fiscal year a regulation on commercial motor vehicle safety adopted by the State as the regulation applies to commercial motor vehicles and operators leased to the Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1010.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1010; Pub. L. 105–178, title IV, §4008(f), (g), June 9, 1998, 112 Stat. 405.)
 
 Historical and Revision Notes
 
@@ -83,6 +83,12 @@ In this section, language about whether a State law or regulation may be “in e
 In subsection (b), the words “shall prescribe regulations on” are substituted for “shall, by rule, establish” for consistency in the revised title and with other titles of the United States Code and because “rule” is synonymous with “regulation”. The words “For purposes of this chapter” are omitted as unnecessary. The text of 49 App.:2509(c) is omitted as executed.
 
 In subsection (c)(1), before clause (A), the words “this subchapter and section 31102 of this title do not” are substituted for “nothing in section 2302 of this Appendix or section 2507 of this Appendix or any other provision of this chapter shall be construed as” to eliminate unnecessary words.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178, §4008(f), substituted “the regulations issued under section 31136” for “part 393 of title 49, Code of Federal Regulations”.
+
+Subsec. (c)(1)(C). Pub. L. 105–178, §4008(g), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “prevent a State from enforcing a program for inspection of commercial motor vehicles that meets the requirements for membership in the Commercial Vehicle Safety Alliance, as those requirements were in effect on October 30, 1984; or”.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 (c) Any person who procures the escape of any person admitted to a hospital of the Service at which addicts or other persons with drug abuse and drug dependence problems are treated and cared for, or who advises, connives at, aids, or assists in such escape, or who conceals any such inmate after such escape, shall be punished upon conviction in a United States court by imprisonment in the penitentiary for not more than three years.
 
-(July 1, 1944, ch. 373, title III, §346, formerly §345, 58 Stat. 701; renumbered §346, May 8, 1954, ch. 195, §2, 68 Stat. 79; amended Oct. 27, 1970, Pub. L. 91–513, title I, §2(a)(2)(A), (5), 84 Stat. 1240.)
+(July 1, 1944, ch. 373, title III, §346, formerly §345, 58 Stat. 701; renumbered §346, May 8, 1954, ch. 195, §2, 68 Stat. 79; amended Pub. L. 91–513, title I, §2(a)(2)(A), (5), Oct. 27, 1970, 84 Stat. 1240.)
 
 #### References in Text
 

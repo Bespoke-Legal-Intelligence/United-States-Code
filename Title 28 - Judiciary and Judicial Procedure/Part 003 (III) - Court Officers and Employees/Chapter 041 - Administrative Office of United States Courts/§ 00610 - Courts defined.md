@@ -28,17 +28,17 @@ Those provisions of this section which related to the Tax Court were eliminated 
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1982</b>—Pub. L. 97–164 substituted “the United States Claims Court” for “the Court of Claims, the Court of Customs and Patent Appeals”.
+1982—Pub. L. 97–164 substituted “the United States Claims Court” for “the Court of Claims, the Court of Customs and Patent Appeals”.
 
-<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1958</b>—Pub. L. 85–508 struck out provisions which included District Court for Territory of Alaska within definition of court. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Pub. L. 85–508 struck out provisions which included District Court for Territory of Alaska within definition of court. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-<b>1951</b>—Act Oct. 31, 1951, inserted reference to the District Court of Guam.
+1951—Act Oct. 31, 1951, inserted reference to the District Court of Guam.
 
 #### Effective Date of 1992 Amendment
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc.No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 

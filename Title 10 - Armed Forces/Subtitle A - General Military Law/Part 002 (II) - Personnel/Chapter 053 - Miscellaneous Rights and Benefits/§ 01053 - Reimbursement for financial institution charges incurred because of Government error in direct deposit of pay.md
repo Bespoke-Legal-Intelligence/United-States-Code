@@ -10,17 +10,15 @@
 
 (d) In this section:
 
-&emsp;(1) The term “financial institution” has the meaning given the term “financial organization” in section 3332(a) <sup>1</sup> of title 31.
+&emsp;(1) The term “financial institution” means a bank, savings and loan association, or similar institution or a credit union chartered by the United States or a State.
 
 &emsp;(2) The term “pay” includes (A) retired pay, and (B) allowances.
 
-(Added Pub. L. 99–661, div. A, title VI, §662(a)(1), Nov. 14, 1986, 100 Stat. 3893; amended Pub. L. 101–189, div. A, title VI, §664(a)(1)–(3)(A), Nov. 29, 1989, 103 Stat. 1466; Pub. L. 102–25, title VII, §701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 104–106, div. A, title XV, §1501(c)(8), Feb. 10, 1996, 110 Stat. 499.)
-
-#### References in Text
-
-Section 3332 of title 31, referred to in subsec. (d)(1), was amended generally by Pub. L. 103–356, title IV, §402(a), Oct. 13, 1994, 108 Stat. 3412, and, as so amended, does not contain a definition of “financial organization”.
+(Added Pub. L. 99–661, div. A, title VI, §662(a)(1), Nov. 14, 1986, 100 Stat. 3893; amended Pub. L. 101–189, div. A, title VI, §664(a)(1)–(3)(A), Nov. 29, 1989, 103 Stat. 1466; Pub. L. 102–25, title VII, §701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 104–106, div. A, title XV, §1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title V, §564(a), Oct. 17, 1998, 112 Stat. 2029.)
 
 #### Amendments
+
+1998—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘financial institution’ has the meaning given the term ‘financial organization’ in section 3332(a) of title 31.”
 
 1996—Subsec. (a)(1). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
 
@@ -38,11 +36,9 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 
 #### Effective Date of 1989 Amendment
 
-Section 664(c) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].”
+Section 664(c) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending thissection\], and section 1594 of title 10, United States Code, as added by subsection (b), shall apply with respect to pay and allowances deposited (or scheduled to be deposited) on or after the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].”
 
 #### Effective Date
 
 Section 662(c) of Pub. L. 99–661 provided that: “Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

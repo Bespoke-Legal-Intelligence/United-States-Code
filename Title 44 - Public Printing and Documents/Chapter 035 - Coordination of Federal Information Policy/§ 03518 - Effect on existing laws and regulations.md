@@ -18,7 +18,7 @@
 
 &emsp;(D) during the conduct of intelligence activities as defined in section 3.4(e) of Executive Order No. 12333, issued December 4, 1981, or successor orders, or during the conduct of cryptologic activities that are communications security activities.
 
-(2) This chapter applies to the collection of information during the conduct of general investigations (other than information collected in an antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
+(2) This chapter applies to the collection of information during the conduct of general investigations (other than information collected inan antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
 
 (d) Nothing in this chapter shall be interpreted as increasing or decreasing the authority conferred by section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note) <sup>1</sup> on the Secretary of Commerce or the Director of the Office of Management and Budget.
 
@@ -30,13 +30,13 @@
 
 Reorganization Plan No. 1 of 1977, referred to in subsec. (b), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Executive order, referred to in subsec. (b), probably means Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, which is set out under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Executive order, referred to in subsec. (b), probably means Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, which is set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 The Antitrust Civil Process Act, referred to in subsec. (c)(1)(C), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, as amended, which is classified generally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
 Section 13 of the Federal Trade Commission Improvements Act of 1980, referred to in subsec. (c)(1)(C), is classified to section 57b–1 of Title 15.
 
-Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, set out as a note under section 401 of Title 50, War and National Defense.
+Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 401 of Title 50, War and National Defense.
 
 The Computer Security Act of 1987, referred to in subsec. (d), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and former section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
 

@@ -74,7 +74,7 @@
 
 #### (B) Construction
 
-&emsp;&emsp;Subparagraph (A) shall not be construed as requiring a Medicare+Choice organization to enroll individuals who are determined to have end-stage renal disease, except as provided under section 1395w–21(a)(3)(B) of this title.
+&emsp;&emsp;Subparagraph (A) shall not be construed as requiring a Medicare+Choice organization toenroll individuals who are determined to have end-stage renal disease, except as provided under section 1395w–21(a)(3)(B) of this title.
 
 #### (2) Providers
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;(B) when medically necessary the organization makes such benefits available and accessible 24 hours a day and 7 days a week;
 
-&emsp;&emsp;(C) the plan provides for reimbursement with respect to services which are covered under subparagraphs (A) and (B) and whichare provided to such an individual other than through the organization, if—
+&emsp;&emsp;(C) the plan provides for reimbursement with respect to services which are covered under subparagraphs (A) and (B) and which are provided to such an individual other than through the organization, if—
 
 &emsp;&emsp;&emsp;(i) the services were not emergency services (as defined in paragraph (3)), but (I) the services were medically necessary and immediately required because of an unforeseen illness, injury, or condition, and (II) it was not reasonable given the circumstances to obtain the services through the organization,
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;&emsp;(xi) take action to improve quality and assesses the effectiveness of such action through systematic followup; and
 
-&emsp;&emsp;&emsp;(xii) make available information on quality and outcomes measures to facilitate beneficiary comparison and choice of health coverage options (in such form and on such quality and outcomes measures as the Secretary determines to be appropriate).
+&emsp;&emsp;&emsp;(xii) make available information on quality and outcomes measures to facilitate beneficiary comparison and choice of health coverage options (in such form andon such quality and outcomes measures as the Secretary determines to be appropriate).
 
 #### (B) Elements of program for organizations offering Medicare+Choice private fee-for-service plans and non-network MSA plans
 
@@ -292,7 +292,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (A) In general
 
-&emsp;&emsp;The organization shall provide for reconsideration of a determination described in paragraph (1)(B) upon request by the enrollee involved. The reconsideration shall be within a time period specified by the Secretary, but shall be made, subject to paragraph (3), not later than 60 days after thedate of the receipt of the request for reconsideration.
+&emsp;&emsp;The organization shall provide for reconsideration of a determination described in paragraph (1)(B) upon request by the enrollee involved. The reconsideration shall be within a time period specified by the Secretary, but shall be made, subject to paragraph (3), not later than 60 days after the date of the receipt of the request for reconsideration.
 
 #### (B) Physician decision on certain reconsiderations
 
@@ -304,7 +304,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (i) Enrollee requests
 
-&emsp;&emsp;&emsp;An enrollee in a Medicare+Choice plan may request, either in writing or orally, an expedited determination under paragraph (1) or an expedited reconsideration under paragraph (2) by the Medicare+�Choice organization.
+&emsp;&emsp;&emsp;An enrollee in a Medicare+Choice plan may request, either in writing or orally,an expedited determination under paragraph (1) or an expedited reconsideration under paragraph (2) by the Medicare+�Choice organization.
 
 #### (ii) Physician requests
 
@@ -406,7 +406,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (5) Limitation on provider indemnification
 
-&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or other entity providing health care services (or group of such professionals, providers, or entities) to indemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organizationunder this part by the organization's denial of medically necessary care.
+&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or other entity providing health care services (or group of such professionals, providers, or entities) to indemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organization under this part by the organization's denial of medically necessary care.
 
 #### (6) Special rules for Medicare+Choice private fee-for-service plans
 
@@ -472,7 +472,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;&emsp;&emsp;&emsp;(II) a good faith estimate of the likely amount of such balance billing (if any), with respect to such services, based upon the presenting condition of the enrollee.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4001, 111 Stat. 286.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286.)
 
 #### References in Text
 
@@ -480,7 +480,7 @@ Part A of subchapter XI of this chapter, referred to in subsec. (a)(1)(A), is cl
 
 Parts A and B of this subchapter, referred to in subsecs. (a)(1)(A), (2)(A)(ii), (d)(4)(A), and (k)(2)(C)(i), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406,Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

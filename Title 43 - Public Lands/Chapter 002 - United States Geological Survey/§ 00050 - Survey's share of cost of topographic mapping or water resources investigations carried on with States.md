@@ -1,16 +1,18 @@
 ### §50. Survey's share of cost of topographic mapping or water resources investigations carried on with States
 
-The share of the United States Geological Survey in any topographic mapping or water resources investigations carried on in cooperation with any State or municipality shall not exceed 50 per centum of the cost thereof.
+The share of the United States Geological Survey in any topographic mapping or water resources data collection and investigations carried on in cooperation with any State or municipality shall not exceed 50 per centum of the cost thereof.
 
-(Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1552.)
+(Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–242.)
 
 #### Codification
 
-Section text is based on act July 31, 1953, ch. 298, title I, §1, 67 Stat. 269, as continued for the fiscal year covered by the appropriation act cited as the credit to this section.
+Section text is based on act July 31, 1953, ch. 298, title I, §1, 67 Stat. 269, as continued and modified for the fiscal year covered by the appropriation act cited as the credit to this section.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1552.
 
 Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–190.
 

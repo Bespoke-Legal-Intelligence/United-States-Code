@@ -32,7 +32,7 @@
 
 (f) The Secretary of Labor is authorized to establish such rules and regulations as may be necessary or appropriate to carry out the provisions of this section.
 
-(g) Any funds appropriated after the establishment of the Account, for the making of payments for which expenditures are authorized to be made from moneys in the Account, shall be made to the Account; and there are hereby authorized to be appropriated to the Account, fromtime to time, such sums as may be necessary to assure that there will, at all times, be sufficient sums available in the Account to meet the expenditures authorized to be made from moneys therein.
+(g) Any funds appropriated after the establishment of the Account, for the making of payments for which expenditures are authorized to be made from moneys in the Account, shall be made to the Account; and there are hereby authorized to be appropriated to the Account, from time to time, such sums as may be necessary to assure that there will, at all times, be sufficient sums available in the Account to meet the expenditures authorized to be made from moneys therein.
 
 (h) For purposes of this section, the term “Federal service” includes Federal service as defined in section 8521(a).
 

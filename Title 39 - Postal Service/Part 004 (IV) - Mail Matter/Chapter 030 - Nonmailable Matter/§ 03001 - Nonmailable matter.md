@@ -12,7 +12,7 @@
 
 > is nonmailable.
 
-(2) Matter made nonmailable by this subsection which reaches the office of destination may be delivered in accordance with its address, if the party addressed furnishes the name and address of the sender.
+(2) Matter made nonmailable by this subsection which reaches the office of destination may be delivered in accordance with its address,if the party addressed furnishes the name and address of the sender.
 
 (d) Matter otherwise legally acceptable in the mails which—
 

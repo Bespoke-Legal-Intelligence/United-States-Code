@@ -10,7 +10,7 @@
 
 (2) There are authorized to be appropriated to the Secretary for such account such amounts as may be necessary to carry out this section.
 
-(e) Any amount of insurance in force under this section on the date of the death of an eligible veteran insured under this section shall be paid to the holder of the mortgage loan, for payment of which the insurance was granted, for credit on the loan indebtedness. Any liability of the United States under such insurance shall be satisfied when such payment is made. If the Secretary is the holder of the mortgage loan, the insurance proceeds shall be credited to the loan indebtedness and, as appropriate, deposited in either the direct loan or loan guaranty revolving fund established by section 3723 or 3724 of this title, respectively.
+(e) Any amount of insurance in force under this section on the date of the death of an eligible veteran insured under this section shall be paid to the holder of the mortgage loan, for payment of which the insurance was granted, for credit on the loan indebtedness. Any liability of the United States under such insurance shall be satisfied when such payment is made. If the Secretary is the holder of the mortgage loan, the insurance proceeds shall be credited to the loan indebtedness and deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title.
 
 (f) The Secretary may prescribe such regulations relating to eligibility for insurance under this section, the maximum amount of insurance, the effective date of insurance, the maximum duration of insurance, and other pertinent matters not specifically provided for in this section as the Secretary determines are in the best interest of veterans or the United States.
 
@@ -30,9 +30,11 @@
 
 (j) Termination of life insurance under this section shall not affect the guaranty or insurance of the loan by the Secretary.
 
-(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688.)
+(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347.)
 
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–368 substituted “deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title” for “, as appropriate, deposited in either the direct loan or loan guaranty revolving fund established by section 3723 or 3724 of this title, respectively”.
 
 1994—Pub. L. 103–446 substituted “Veterans’ mortgage life insurance” for “Veterans’ Mortgage Life Insurance” as section catchline.
 
@@ -66,13 +68,17 @@ Subsec. (h). Pub. L. 99–576, §701(49)(E), substituted “the Administrator's�
 
 1976—Subsec. (c). Pub. L. 94–433 substituted $40,000 for $30,000.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–368, title VI, §602(f), Nov. 11, 1998, 112 Stat. 3348, provided that: “This title \[enacting sections 3722 and 3771 to 3775 of this title, amending this section and sections 3702, 3703, 3711, 3720, 3727, 3729, 3733 to 3735, and 3763 of this title, repealing sections 3723 to 3725 of this title, and enacting provisions set out as a note under section 3722 of this title\] and the amendments made by this title shall take effect on October 1, 1998.”
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L. 102–568, set out as an Effective Date note under section 1922A of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 333(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[May 20, 1988\].”
+Section 333(b) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the fourthmonth beginning after the date of the enactment of this Act \[May 20, 1988\].”
 
 #### Effective Date of 1976 Amendment
 

@@ -124,7 +124,7 @@
 
 &emsp;(9) The term “reasonable compensation” means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
 
-&emsp;(10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant,loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 &emsp;(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
@@ -168,7 +168,7 @@ Subsec. (d)(1). Pub. L. 104–106, §1064(c)(2), which directed the insertion of
 
 “(C) a certification that the person making the declaration has not made, and will not make, any payment prohibited by subsection (a).”
 
-Subsec. (b)(3). Pub. L. 104–65, §10(a)(2), substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that loan insurance or guarantee.” for “shall contain—” and struck out subpars. (A) and (B) which read as follows:
+Subsec. (b)(3). Pub. L. 104–65, §10(a)(2), substituted “shall contain the name of any registrant under the Lobbying Disclosure Act of 1995 who has made lobbying contacts on behalf of the person in connection with that  loan  insurance  or  guarantee.”  for  “shall  contain—” and struck out subpars. (A) and (B) which read as follows:
 
 “(A) a statement setting forth whether such person—
 
@@ -208,7 +208,7 @@ Section 319(b) of Pub. L. 101–121 provided that the first report submitted und
 
 #### Notification of Compliance Date; Guidance for Agency Implementation
 
-Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the dateof the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
+Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
 
 #### Section Referred to in Other Sections
 

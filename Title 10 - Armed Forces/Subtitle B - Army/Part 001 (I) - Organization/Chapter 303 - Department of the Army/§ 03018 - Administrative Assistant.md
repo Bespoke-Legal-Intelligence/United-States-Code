@@ -1,12 +1,12 @@
 ### §3018. Administrative Assistant
 
-(a) There is an Administrative Assistant in the Department of the Army. The Administrative Assistant shall be appointed by the Secretary ofthe Army and shall perform duties that the Secretary considers appropriate.
+(a) There is an Administrative Assistant in the Department of the Army. The Administrative Assistant shall be appointed by the Secretary of the Army and shall perform duties that the Secretary considers appropriate.
 
 (b) During a vacancy in the office of Secretary, the Administrative Assistant has charge and custody of all records, books, and papers of the Department of the Army.
 
 (c) The Secretary may authorize the Administrative Assistant to sign, during the temporary absence of the Secretary, any paper requiring his signature. In such a case, the Administrative Assistant's signature has the same effect as the Secretary's signature.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 159, §3016; renumbered §3018, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(3), 100 Stat. 1034.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 159, §3016; renumbered §3018, Pub. L. 99–433, title V, §501(a)(3), Oct. 1, 1986, 100 Stat. 1034.)
 
 Historical and Revision Notes
 

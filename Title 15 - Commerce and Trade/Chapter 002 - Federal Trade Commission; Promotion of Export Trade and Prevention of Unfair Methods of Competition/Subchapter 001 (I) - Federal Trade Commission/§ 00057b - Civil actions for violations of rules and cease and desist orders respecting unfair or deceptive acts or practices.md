@@ -24,7 +24,7 @@ No action may be brought by the Commission under this section more than 3 years 
 
 Remedies provided in this section are in addition to, and not in lieu of, any other remedy or right of action provided by State or Federal law. Nothing in this section shall be construed to affect any authority of the Commission under any other provision of law.
 
-(Sept. 26, 1914, ch. 311, §19, as added Jan. 4, 1975, Pub. L. 93–637, title II, §206(a), 88 Stat. 2201.)
+(Sept. 26, 1914, ch. 311, §19, as added Pub. L. 93–637, title II, §206(a), Jan. 4, 1975, 88 Stat. 2201.)
 
 #### Effective Date
 

@@ -32,7 +32,7 @@ The amount referred to in subsection (a)(2) of this section is the product of—
 
 &emsp;(ii) The political subdivision referred to in clause (i) is any political subdivision that received a cooperative agreement from the Secretary, acting through the Director of the Centers for Disease Control and Prevention, for fiscal year 1990 for programs to provide counseling and testing with respect to acquired immune deficiency syndrome.
 
-&emsp;(B) In the case of a State described in subparagraph (A), the Secretary shall, from the amounts made available as a result of reductions under such subparagraph, make a grant each fiscal year to each political subdivision described in such subparagraph that exists in the State if the political subdivision involved agrees that the provisions of subparts II and III will apply to the political subdivision to the same extent and in the same manner as such subparts apply to entities receiving grants under section 300ff–51(a) of this title.
+&emsp;(B) In the case of a State described in subparagraph (A), the Secretary shall, from the amounts made available as a result of reductions under such subparagraph, make a granteach fiscal year to each political subdivision described in such subparagraph that exists in the State if the political subdivision involved agrees that the provisions of subparts II and III will apply to the political subdivision to the same extent and in the same manner as such subparts apply to entities receiving grants under section 300ff–51(a) of this title.
 
 &emsp;(C) Grants under subparagraph (B) for a fiscal year for a political subdivision shall be provided in an amount equal to the amount received by the political subdivision in fiscal year 1990 under the cooperative agreement described in subparagraph (A).
 
@@ -72,7 +72,7 @@ The amount referred to in subsection (a)(2) of this section is the product of—
 
 &emsp;(C) the amount applicable for fiscal year 1993 is 70 percent of the amount specified in subparagraph (A).
 
-(July 1, 1944, ch. 373, title XXVI, §2649, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 604; amended Nov. 3, 1990, Pub. L. 101–502, §6(b), 104 Stat. 1290; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(33), 106 Stat. 3506; May 20, 1996, Pub. L. 104–146, §12(c)(6), 110 Stat. 1374.)
+(July 1, 1944, ch. 373, title XXVI, §2649, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 604; amended Pub. L. 101–502, §6(b), Nov. 3, 1990, 104 Stat. 1290; Pub. L. 102–531, title III, §312(d)(33), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §12(c)(6), May 20, 1996, 110 Stat. 1374.)
 
 #### Amendments
 

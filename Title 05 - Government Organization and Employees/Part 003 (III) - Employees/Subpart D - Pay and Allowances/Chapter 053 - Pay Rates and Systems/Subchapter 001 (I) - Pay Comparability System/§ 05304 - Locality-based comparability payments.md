@@ -56,13 +56,13 @@
 
 &emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
 
-&emsp;&emsp;(B) based on data from such surveys, identifies each locality in which a pay disparity exists and specifies the size of each such pay disparity (before and after taking into consideration any comparability payments payable);
+&emsp;&emsp;(B) based on data from such surveys, identifies each locality in which a pay disparity exists and specifies the size of each such paydisparity (before and after taking into consideration any comparability payments payable);
 
 &emsp;&emsp;(C) makes recommendations for appropriate comparability payments, in conformance with applicable requirements of this section; and
 
 &emsp;&emsp;(D) includes the views and recommendations submitted under subsection (e);
 
-&emsp;(2) after considering the report of his agent (including the views and recommendations referred to in subsection (e)(2)(C), provide for or adjust comparability payments in conformance with applicable requirements of this section, effective as of the beginning of the firstapplicable pay period commencing on or after January 1 of the applicable year; and
+&emsp;(2) after considering the report of his agent (including the views and recommendations referred to in subsection (e)(2)(C), provide for or adjust comparability payments in conformance with applicable requirements of this section, effective as of the beginning of the first applicable pay period commencing on or after January 1 of the applicable year; and
 
 &emsp;(3) transmit to Congress a report of the actions taken under paragraph (2) (together with a copy of the report submitted to him by his agent, including the views and recommendations referred to in subsection (e)(2)(C)) which shall—
 
@@ -126,7 +126,7 @@
 
 &emsp;(E) a position to which section 5372a applies (relating to contract appeals board members); and
 
-&emsp;(F) a position within an Executive agency not covered under the General Schedule or anyof the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) no more than the rate payable for level IV of the Executive Schedule;
+&emsp;(F) a position within an Executive agency not covered under the General Schedule or any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) no more than the rate payable for level IV of the Executive Schedule;
 
 > but does not include—
 
@@ -292,7 +292,7 @@ Administration.—(1) An adjustment under this section shall be administered, to
 
 Commencement and Termination Rules.—(1) The effective date of an adjustment under this section shall be as determined by the President, but not later than January 1, 1994.
 
-“(2)(A) The size of any payments under this section may be reduced or terminated after the amendments made by section 101 of this Act \[section 529 \[title I, §101\] of Pub. L. 101–509, see Tables for classification\] take effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual.
+“(2)(A) The size of any payments under this section may be reduced or terminated after the amendmentsmade by section 101 of this Act \[section 529 \[title I, §101\] of Pub. L. 101–509, see Tables for classification\] take effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], except that the reduction or termination of a payment under this section may not have the effect of reducing, for the individual involved, the total rate at which additional forms of basic pay (as defined in subparagraph (B)) are payable to such individual.
 
 “(B) The total rate to which subparagraph (A) applies is the sum of—
 
@@ -302,7 +302,7 @@ Commencement and Termination Rules.—(1) The effective date of an adjustment un
 
 “(e)
 
-Employees Receiving Special Pay Rates.—The President (or his designated agent) shall determine what, if any, geographic adjustment shall be payable under this section in the case of an employee whoserate of pay is fixed under section 5303 of title 5, United States Code (as in effect before the date of enactment of this Act \[Nov. 5, 1990\]), section 5305 of title 5, United States Code (as amended by section 101 of this Act), or any similar provision of law.
+Employees Receiving Special Pay Rates.—The President (or his designated agent) shall determine what, if any, geographic adjustment shall be payable under this section in the case of an employee whose rate of pay is fixed under section 5303 of title 5, United States Code (as in effect before the date of enactment of this Act \[Nov. 5, 1990\]), section 5305 of title 5, United States Code (as amended by section 101 of this Act), or any similar provision of law.
 
 “(f)
 
@@ -358,11 +358,11 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Locality-Based Comparability Payments
 
-Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title, provided in part for payment of locality-based comparability payments effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1998. See Schedule set out as follows:
+Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of this title, provided in part for payment of locality-based comparability payments effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1999. See Schedule set out as follows:
 
 Schedule 9—
 
-Locality-Based Comparability Payments<br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1998)
+Locality-Based Comparability Payments<br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1999)
 
 Locality Pay Area <sup>1</sup>
 
@@ -370,137 +370,139 @@ Rate
 
 Atlanta, GA
 
-6\.18%
+6\.67%
 
 Boston-Worcester-Lawrence, MA–NH–ME–CT
 
-8\.61%
+9\.32%
 
 Chicago-Gary-Kenosha, IL–IN–WI
 
-9\.21%
+9\.98%
 
 Cincinnati-Hamilton, OH–KY–IN
 
-7\.71%
+8\.31%
 
 Cleveland-Akron, OH
 
-6\.35%
+6\.92%
 
 Columbus, OH
 
-6\.90%
+7\.46%
 
 Dallas-Fort Worth, TX
 
-6\.90%
+7\.47%
 
 Dayton-Springfield, OH
 
-6\.19%
+6\.67%
 
 Denver-Boulder-Greeley, CO
 
-8\.46%
+9\.16%
 
 Detroit-Ann Arbor-Flint, MI
 
-9\.36%
+10\.13%
 
 Hartford, CT
 
-9\.13%
+9\.85%
 
 Houston-Galveston-Brazoria, TX
 
-11\.96%
+12\.92%
 
 Huntsville, AL
 
-5\.84%
+6\.31%
 
 Indianapolis, IN
 
-5\.63%
+6\.08%
 
 Kansas City, MO–KS
 
-6\.06%
+6\.51%
 
 Los Angeles-Riverside-Orange County, CA
 
-10\.31%
+11\.14%
 
 Miami-Fort Lauderdale, FL
 
-7\.86%
+8\.51%
 
 Milwaukee-Racine, WI
 
-6\.19%
+6\.74%
 
 Minneapolis-St. Paul, MN–WI
 
-7\.32%
+7\.92%
 
 New York-Northern New Jersey-Long Island, NY–NJ–CT–PA
 
-9\.76%
+10\.55%
 
 Orlando, FL
 
-5\.42%
+5\.87%
 
 Philadelphia-Wilmington-Atlantic City, PA–NJ–DE–MD
 
-7\.67%
+8\.30%
 
 Pittsburgh, PA
 
-6\.21%
+6\.68%
 
 Portland-Salem, OR–WA
 
-7\.17%
+7\.80%
 
 Richmond-Petersburg, VA
 
-6\.12%
+6\.61%
 
 Sacramento-Yolo, CA
 
-7\.64%
+8\.27%
 
 St. Louis, MO–IL
 
-5\.71%
+6\.17%
 
 San Diego, CA
 
-7\.94%
+8\.62%
 
 San Francisco-Oakland-San Jose, CA
 
-12\.06%
+13\.06%
 
 Seattle-Tacoma-Bremerton, WA
 
-7\.34%
+7\.96%
 
 Washington-Baltimore, DC–MD–VA–WV
 
-7\.27%
+7\.87%
 
 Rest of U.S.
 
-5\.42%
+5\.87%
 
 <sup>1</sup> Locality Pay Areas are defined in 5 CFR 531.603.
 
+Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for payment of locality-based comparability payments effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of this title.
+
 Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for payment of locality-based comparability payments effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title.
 
-Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for payment of locality-based comparability payments effective Jan. 1, 1996, was superseded by Ex. Ord.No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of this title.
+Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for payment of locality-based comparability payments effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of this title.
 
 Approval of locality-based comparability payments recommended by the Director of the Office of Personnel Management was contained in the following:
 

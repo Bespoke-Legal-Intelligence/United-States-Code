@@ -70,7 +70,7 @@ Responsibilities.—The Council shall have the following responsibilities:
 
 Annual Report.—Not later than March 1 of each year, the Council shall submit to Congress a report on the National Oceanographic Partnership Program. The report shall contain the following:
 
-&emsp;(1) A description of activities of the program carried out during the fiscal year before thefiscal year in which the report is prepared, together with a list of the members of the Ocean Research Advisory Panel and any working groups in existence during the fiscal year covered.
+&emsp;(1) A description of activities of the program carried out during the fiscal year before the fiscal year in which the report is prepared, together with a list of the members of the Ocean Research Advisory Panel and any working groups in existence during the fiscal year covered.
 
 &emsp;(2) A general outline of the activities planned for the program during the fiscal year in which the report is prepared.
 
@@ -106,7 +106,7 @@ Establishment and Forms of Partnership Projects.—(1) A partnership project und
 
 (2) Projects under the program may include demonstration projects.
 
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L. 105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903.)
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L.105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903.)
 
 #### Amendments
 

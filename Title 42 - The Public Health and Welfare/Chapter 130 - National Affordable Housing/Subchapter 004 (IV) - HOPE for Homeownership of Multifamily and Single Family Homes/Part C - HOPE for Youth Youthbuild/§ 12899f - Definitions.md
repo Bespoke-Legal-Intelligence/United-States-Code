@@ -54,7 +54,7 @@ For purposes of this part:
 
 #### (9) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given the term in section 1141(a) of title 20.
+&emsp;The term “institution of higher education” has the meaning given the term in section 1001 of title 20.
 
 #### (10) Limited-English proficiency
 
@@ -96,7 +96,7 @@ For purposes of this part:
 
 &emsp;The term “Youthbuild program” means any program that receives assistance under this part and provides disadvantaged youth with opportunities for employment, education, leadership development, and training in the construction or rehabilitation of housing for homeless individuals and members of low- and very low-income families.
 
-(Pub. L. 101–625, title IV, §457, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3731;amended Pub. L. 103–382, title III, §394(d), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 101–625, title IV, §457, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3731; amended Pub. L. 103–382, title III, §394(d), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 105–244, title I, §102(a)(13)(M), Oct. 7, 1998, 112 Stat. 1621.)
 
 #### References in Text
 
@@ -104,7 +104,13 @@ Section 7601(8) of title 20, referred to in par. (10), was in the original secti
 
 #### Amendments
 
+1998—Par. (9). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
 1994—Par. (10). Pub. L. 103–382 substituted “section 7601(8) of title 20” for “section 3283 of title 20”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 

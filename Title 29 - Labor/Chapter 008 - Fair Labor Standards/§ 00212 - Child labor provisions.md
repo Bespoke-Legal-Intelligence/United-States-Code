@@ -24,7 +24,7 @@ In order to carry out the objectives of this section, the Secretary may by regul
 
 1961—Subsec. (c). Pub. L. 87–30 inserted “or in any enterprise engaged in commerce or in the production of goods for commerce”.
 
-1949—Subsec. (a). Act Oct. 26, 1949, §10(a), struck out effective date at beginning of subsection and insertedproviso excepting good faith purchaser of goods produced by oppressive child labor.
+1949—Subsec. (a). Act Oct. 26, 1949, §10(a), struck out effective date at beginning of subsection and inserted proviso excepting good faith purchaser of goods produced by oppressive child labor.
 
 Subsec. (c). Act Oct. 26, 1949, §10(b), added subsec. (c).
 

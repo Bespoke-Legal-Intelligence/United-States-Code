@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to carry out this subchapter $180,000,000 for fiscal year 1993 and $187,560,000 for fiscal year 1994.
 
-(Pub. L. 100–77, title III, §322, July 22, 1987, 101 Stat. 493; Pub. L. 100–628, title III, §302, Nov. 7, 1988, 102 Stat. 3229; Pub. L. 101–645, title II, §201, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1431, Oct. 28, 1992, 106 Stat. 4043.)
+(Pub. L. 100–77, title III, §322, July 22, 1987, 101 Stat. 493; Pub. L. 100–628, title III, §302, Nov. 7,1988, 102 Stat. 3229; Pub. L. 101–645, title II, §201, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1431, Oct. 28, 1992, 106 Stat. 4043.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Conversion of existing and new conventional vehicles to clean-fuel vehicles
 
-The requirements of section 7586 of this title may be met through the conversion of existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles which comply with the applicable requirements of that section. For purposes of such provisions the conversion of a vehicle to clean fuel <sup>1</sup> vehicle shall be treated as the purchase of a clean fuel <sup>1</sup> vehicle. Nothing in this part shall be construed to provide that any covered fleet operator subject to fleet vehicle purchase requirements under section 7586 of this title shall be required to convert existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles or to purchase converted vehicles.
+The requirements of section 7586 of this title may be met through the conversion of existing or new gasoline or diesel-powered vehicles toclean-fuel vehicles which comply with the applicable requirements of that section. For purposes of such provisions the conversion of a vehicle to clean fuel <sup>1</sup> vehicle shall be treated as the purchase of a clean fuel <sup>1</sup> vehicle. Nothing in this part shall be construed to provide that any covered fleet operator subject to fleet vehicle purchase requirements under section 7586 of this title shall be required to convert existing or new gasoline or diesel-powered vehicles to clean-fuel vehicles or to purchase converted vehicles.
 
 #### (b) Regulations
 
@@ -20,7 +20,7 @@ The conversion from a vehicle capable of operating on gasoline or diesel fuel on
 
 The Secretary of Transportation shall, if necessary, promulgate rules under applicable motor vehicle laws regarding the safety of vehicles converted from existing and new vehicles to clean-fuel vehicles.
 
-(July 14, 1955, ch. 360, title II, §247, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2523.)
+(July 14, 1955, ch. 360, title II, §247, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2523.)
 
 #### Section Referred to in Other Sections
 

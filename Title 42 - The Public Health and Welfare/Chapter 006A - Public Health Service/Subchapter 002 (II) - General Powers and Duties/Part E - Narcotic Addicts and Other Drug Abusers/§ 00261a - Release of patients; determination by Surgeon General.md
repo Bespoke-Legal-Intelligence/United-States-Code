@@ -2,7 +2,7 @@
 
 For purposes of this chapter, an individual shall be deemed cured of his addiction, drug abuse, or drug dependence and rehabilitated if the Surgeon General determines that he has received the maximum benefits of treatment and care by the Service for his addiction, drug abuse, or drug dependence or if the Surgeon General determines that his further treatment and care for such purpose would be detrimental to the interests of the Service.
 
-(July 1, 1944, ch. 373, title III, §347, as added May 8, 1954, ch. 195, §4, 68 Stat. 80; amended Oct. 27, 1970, Pub. L. 91–513, title I, §2(a)(4), 84 Stat. 1240.)
+(July 1, 1944, ch. 373, title III, §347, as added May 8, 1954, ch. 195, §4, 68 Stat. 80; amended Pub. L. 91–513, title I, §2(a)(4), Oct. 27, 1970, 84 Stat. 1240.)
 
 #### Codification
 

@@ -14,7 +14,7 @@
 
 (e) A member who is eligible for retirement under this section, and who is also eligible for retirement under another provision or for transfer to the Fleet Reserve or the Fleet Marine Corps Reserve under section 6330 of this title, is entitled to elect which of these benefits he is to receive.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 395; Aug. 1, 1958, Pub. L. 85–583, §1(1), 72 Stat. 480; Oct. 2, 1963, Pub. L. 88–132, §5(h)(5), 77 Stat. 214.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 395; Pub. L. 85–583, §1(1), Aug. 1, 1958, 72 Stat. 480; Pub. L. 88–132, §5(h)(5), Oct. 2, 1963, 77 Stat. 214.)
 
 Historical and Revision Notes
 

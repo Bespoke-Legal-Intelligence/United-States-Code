@@ -1,8 +1,0 @@
-### §466. Membership; voting rights
-
-(a) Eligibility for membership in the corporation and the rights and privileges of members shall, except as provided in this chapter, be determined as the constitution and bylaws of the corporation may provide.
-
-(b) Each member of the corporation, other than honorary and sustaining members, shall have the right to one vote on each matter submitted to a vote at all meetings of the members of the corporation. The corporation may, by its constitution and bylaws, provide for additional voting rights in accordance with dues paid.
-
-(Aug. 13, 1953, ch. 429, §6, 67 Stat. 571.)
-

@@ -10,7 +10,7 @@
 
 (c) As used in this section, the term “national of the United States” has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(June 25, 1948, ch. 645, 62 Stat. 822; Apr. 24, 1996, Pub. L. 104–132, title IV, §443(a), 110 Stat. 1280.)
+(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 104–132, title IV, §443(a), Apr. 24, 1996, 110 Stat. 1280.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,36 @@ Minor changes were made in phraseology.
 #### Amendments
 
 1996—Pub. L. 104–132 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Extradition Treaties Interpretation
+
+Pub. L. 105–323, title II, Oct. 30, 1998, 112 Stat. 3033, provided that:
+
+#### “SEC. 201. SHORT TITLE.
+
+“This title may be cited as the ‘Extradition Treaties Interpretation Act of 1998’.
+
+#### “SEC. 202. FINDINGS.
+
+“Congress finds that—
+
+&emsp;“(1) each year, several hundred children are kidnapped by a parent in violation of law, court order, or legally binding agreement and brought to, or taken from, the United States;
+
+&emsp;“(2) until the mid-1970's, parental abduction generally was not considered a criminal offense in the United States;
+
+&emsp;“(3) since the mid-1970's, United States criminal law has evolved such that parental abduction is now a criminal offense in each of the 50 States and the District of Columbia;
+
+&emsp;“(4) in enacting the International Parental Kidnapping Crime Act of 1993 (Public Law 103–173; 107 Stat. 1998; 18 U.S.C. 1204), Congress recognized the need to combat parental abduction by making the act of international parental kidnapping a Federal criminal offense;
+
+&emsp;“(5) many of the extradition treaties to which the United States is a party specifically list the offenses that are extraditable and use the word ‘kidnapping’, but it has been the practice of the United States not to consider the term to include parental abduction because these treaties were negotiated by the United States prior to the development in United States criminal law described in paragraphs (3) and (4);
+
+&emsp;“(6) the more modern extradition treaties to which the United States is a party contain dual criminality provisions, which provide for extradition where both parties make the offense a felony, and therefore it is the practice of the United States to consider such treaties to include parental abduction if the other foreign state party also considers the act of parental abduction to be a criminal offense; and
+
+&emsp;“(7) this circumstance has resulted in a disparity in United States extradition law which should be rectified to better protect the interests of children and their parents.
+
+#### “SEC. 203. INTERPRETATION OF EXTRADITION TREATIES.
+
+“For purposes of any extradition treaty to which the United States is a party, Congress authorizes the interpretation of the terms ‘kidnaping’ and ‘kidnapping’ to include parental kidnapping.”
 
 #### Judicial Assistance to International Tribunal for Yugoslavia and International Tribunal for Rwanda
 
@@ -44,7 +74,7 @@ Evidence on hearings.—For purposes of applying section 3190 of title 18, Unite
 
 &emsp;“(3)
 
-Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieuof the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
+Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
 
 &emsp;“(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
 
@@ -74,7 +104,7 @@ Agreement between the united states and the international tribunal for yugoslavi
 
 &emsp;“(4)
 
-Agreement between the united states and the international tribunal for rwanda.—The term ‘Agreement between the United States and the International Tribunal for Rwanda’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, signed at The Hague, January 24, 1995.”
+Agreement between the united states and the international tribunal for rwanda.—The term‘Agreement between the United States and the International Tribunal for Rwanda’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, signed at The Hague, January 24, 1995.”
 
 #### Extradition and Mutual Legal Assistance Treaties and Model Comprehensive Antidrug Laws
 
@@ -97,33 +127,33 @@ The United States currently has bilateral extradition treaties with the followin
 | Country | Date signed | Entered into force | Citation |
 | :--- | :---: | :---: | ---: |
 | Albania | Mar. 1, 1933 | Nov. 14, 1935 | 49 Stat. 3313. |
-| Antigua and Barbuda | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
+| Antigua and Barbuda | June 3, 1996 | July 1, 1999 | &nbsp; |
 | Argentina | Jan. 21, 1972 | Sept. 15, 1972 | 23 UST 3501. |
-| AustraliaDMay 14, 1974DMay 8, 1976D27 UST 957. |  |  |  |
+| Australia DMay 14, 1974 DMay 8, 1976 D27 UST 957. |  |  |  |
 | &nbsp; | Sept. 4, 1990 | Dec. 21, 1992 | &nbsp; |
-| AustriaDJan. 31, 1930DSept. 11, 1930D46 Stat. 2779. |  |  |  |
+| Austria DJan. 31, 1930 DSept. 11, 1930 D46 Stat. 2779. |  |  |  |
 | &nbsp; | May 19, 1934 | Sept. 5, 1934 | 49 Stat. 2710. |
 | Bahamas | Mar. 9, 1990 | Sept. 22, 1994 | TIAS. |
 | Barbados | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Belgium | Apr. 27, 1987 | Sept. 1, 1997 | &nbsp; |
 | Belize | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
-| Bolivia | Apr. 21, 1900 | Jan. 22, 1902 | 32 Stat. 1857. |
-| BrazilDJan. 13, 1961DDec. 17, 1964D15 UST 2093. |  |  |  |
+| Bolivia | June 27, 1995 | Nov. 21, 1996 | &nbsp; |
+| Brazil DJan. 13, 1961 DDec. 17, 1964 D15 UST 2093. |  |  |  |
 | &nbsp; | June 18, 1962 | Dec. 17, 1964 | 15 UST 2112. |
-| BulgariaDMar. 19, 1924DJune 24, 1924D43 Stat. 1886. |  |  |  |
+| Bulgaria DMar. 19, 1924 DJune 24, 1924 D43 Stat. 1886. |  |  |  |
 | &nbsp; | June 8, 1934 | Aug. 15, 1935 | 49 Stat. 3250. |
 | Burma | Dec. 22, 1931 | Nov. 1, 1941 | 47 Stat. 2122. |
-| CanadaDDec. 3, 1971DMar. 22, 1976D27 UST 983. |  |  |  |
+| Canada DDec. 3, 1971 DMar. 22, 1976 D27 UST 983. |  |  |  |
 | &nbsp; | June 28, July 9, 1974 | Mar. 22, 1976 | 27 UST 1017. |
 | &nbsp; | Jan. 11, 1988 | Nov. 26, 1991 | TIAS. |
 | Chile | Apr. 17, 1900 | June 26, 1902 | 32 Stat. 1850. |
 | Colombia | Sept. 14, 1979 | Mar. 4, 1982 | TIAS. |
-| CongoDJan. 6, 1909DJuly 27, 1911D37 Stat. 1526. |  |  |  |
+| Congo DJan. 6, 1909 DJuly 27, 1911 D37 Stat. 1526. |  |  |  |
 | &nbsp; | Jan. 15, 1929 | May 19, 1929 | 46 Stat. 2276. |
 | &nbsp; | Apr. 23, 1936 | Sept. 24, 1936 | 50 Stat. 1117. |
 | &nbsp; |  | Aug. 5, 1961 | 13 UST 2065. |
 | Costa Rica | Dec. 4, 1982 | Oct. 11, 1991 | TIAS. |
-| CubaDApr. 6, 1904DMar. 2, 1905D33 Stat. 2265. |  |  |  |
+| Cuba DApr. 6, 1904 DMar. 2, 1905 D33 Stat. 2265. |  |  |  |
 | &nbsp; | Dec. 6, 1904 | Mar. 2, 1905 | 33 Stat. 2273. |
 |  | Jan. 14, 1926 | June 18, 1926 | 44 Stat. 2392. |
 | Cyprus | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
@@ -131,55 +161,56 @@ The United States currently has bilateral extradition treaties with the followin
 | Denmark | June 22, 1972 | July 31, 1974 | 25 UST 1293. |
 | Dominica | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
 | Dominican Republic | June 19, 1909 | Aug. 2, 1910 | 36 Stat. 2468. |
-| EcuadorDJune 28, 1872DNov. 12, 1873D18 Stat. 199. |  |  |  |
+| Ecuador DJune 28, 1872 DNov. 12, 1873 D18 Stat. 199. |  |  |  |
 | &nbsp; | Sept. 22, 1939 | May 29, 1941 | 55 Stat. 1196. |
 | Egypt | Aug. 11, 1874 | Apr. 22, 1875 | 19 Stat. 572. |
 | El Salvador | Apr. 18, 1911 | July 10, 1911 | 37 Stat. 1516. |
-| EstoniaDNov. 8, 1923DNov. 15, 1924D43 Stat. 1849. |  |  |  |
+| Estonia DNov. 8, 1923 DNov. 15, 1924 D43 Stat. 1849. |  |  |  |
 | &nbsp; | Oct. 10, 1934 | May 7, 1935 | 49 Stat. 3190. |
-| FijiDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
+| Fiji DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Aug. 17, 1973 | 24 UST 1965. |
 | Finland | June 11, 1976 | May 11, 1980 | 31 UST 944. |
-| FranceDJan. 6, 1909DJuly 27, 1911D37 Stat. 1526. |  |  |  |
+| France DJan. 6, 1909 DJuly 27, 1911 D37 Stat. 1526. |  |  |  |
 | &nbsp; | Feb. 12, 1970 | Apr. 3, 1971 | 22 UST 407. |
 | Gambia | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| GermanyDJune 20, 1978DAug. 29, 1980D32 UST 1485. |  |  |  |
+| Germany DJune 20, 1978 DAug. 29, 1980 D32 UST 1485. |  |  |  |
 | &nbsp; | Oct. 21, 1986 | Mar. 11, 1993 | &nbsp; |
 | Ghana | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| GreeceDMay 6, 1931DNov. 1, 1932D47 Stat. 2185. |  |  |  |
+| Greece DMay 6, 1931 DNov. 1, 1932 D47 Stat. 2185. |  |  |  |
 | &nbsp; | Sept. 2, 1937 | Sept. 2, 1937 | 51 Stat. 357. |
 | Grenada | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| GuatemalaDFeb. 27, 1903DAug. 15, 1903D33 Stat. 2147. |  |  |  |
+| Guatemala DFeb. 27, 1903 DAug. 15, 1903 D33 Stat. 2147. |  |  |  |
 | &nbsp; | Feb. 20, 1940 | Mar. 13, 1941 | 55 Stat. 1097. |
 | Guyana | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Haiti | Aug. 9, 1904 | June 28, 1905 | 34 Stat. 2858. |
-| HondurasDJan. 15, 1909DJuly 10, 1912D37 Stat. 1616. |  |  |  |
+| Honduras DJan. 15, 1909 DJuly 10, 1912 D37 Stat. 1616. |  |  |  |
 | &nbsp; | Feb. 21, 1927 | June 5, 1928 | 45 Stat. 2489. |
+| Hong Kong | Dec. 20, 1996 | Jan. 21, 1998 | &nbsp; |
 | Hungary | Dec. 1, 1994 | Mar. 18, 1997 | &nbsp; |
-| IcelandDJan. 6, 1902DD32 Stat. 1096. |  |  |  |
+| Iceland DJan. 6, 1902 D D32 Stat. 1096. |  |  |  |
 | &nbsp; | Nov. 6, 1905 | Feb. 19, 1906 | 34 Stat. 2887. |
 | India | Dec. 22, 1931 | Mar. 9, 1942 | 47 Stat. 2122. |
 | Iraq | June 7, 1934 | Apr. 23, 1936 | 49 Stat. 3380. |
 | Ireland | July 13, 1983 | Dec. 15, 1984 | TIAS 10813. |
-| IsraelDDec. 10, 1962DDec. 5, 1963D14 UST 1707. |  |  |  |
+| Israel DDec. 10, 1962 DDec. 5, 1963 D14 UST 1707. |  |  |  |
 | &nbsp; |  | Apr. 11, 1967 | 18 UST 382. |
 | Italy | Oct. 13, 1983 | Sept. 24, 1984 | TIAS 10837. |
 | Jamaica | June 14, 1983 | July 7, 1991 | &nbsp; |
 | Japan | Mar. 3, 1978 | Mar. 26, 1980 | 31 UST 892. |
 | Jordan | Mar. 28, 1995 | July 29, 1995 |  |
-| KenyaDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
+| Kenya DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Aug. 19, 1965 | 16 UST 1866. |
 | Kiribati | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
-| LatviaDOct. 16, 1923DMar. 1, 1924D43 Stat. 1738. |  |  |  |
+| Latvia DOct. 16, 1923 DMar. 1, 1924 D43 Stat. 1738. |  |  |  |
 | &nbsp; | Oct. 10, 1934 | Mar. 29, 1935 | 49 Stat. 3131. |
 | Lesotho | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Liberia | Nov. 1, 1937 | Nov. 21, 1939 | 54 Stat. 1733. |
 | Liechtenstein | May 20, 1936 | June 28, 1937 | 50 Stat. 1337. |
-| LithuaniaDApr. 9, 1924DAug. 23, 1924D43 Stat. 1835. |  |  |  |
+| Lithuania DApr. 9, 1924 DAug. 23, 1924 D43 Stat. 1835. |  |  |  |
 | &nbsp; | May 17, 1934 | Jan. 8, 1935 | 49 Stat. 3077. |
-| LuxembourgDOct. 29, 1883DAug. 13, 1884D23 Stat. 808. |  |  |  |
+| Luxembourg DOct. 29, 1883 DAug. 13, 1884 D23 Stat. 808. |  |  |  |
 | &nbsp; | Apr. 24, 1935 | Mar. 3, 1936 | 49 Stat. 3355. |
-| MalawiDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
+| Malawi DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Apr. 4, 1967 | 18 UST 1822. |
 | Malaysia | Aug. 3, 1995 | June 2, 1997 | &nbsp; |
 | Malta | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
@@ -198,38 +229,39 @@ The United States currently has bilateral extradition treaties with the followin
 | Paraguay | May 24, 1973 | May 7, 1974 | 25 UST 967. |
 | Peru | Nov. 28, 1899 | Feb. 22, 1901 | 31 Stat. 1921. |
 | Philippines | Nov. 13, 1994 | Nov. 22, 1996 | &nbsp; |
-| PolandDNov. 22, 1927DJuly 6, 1929D46 Stat. 2282. |  |  |  |
+| Poland DNov. 22, 1927 DJuly 6, 1929 D46 Stat. 2282. |  |  |  |
 | &nbsp; | Apr. 5, 1935 | June 5, 1936 | 49 Stat. 3394. |
 | Portugal | May 7, 1908 | Nov. 14, 1908 | 35 Stat. 2071. |
-| RomaniaDJuly 23, 1924DApr. 7, 1925D44 Stat. 2020. |  |  |  |
+| Romania DJuly 23, 1924 DApr. 7, 1925 D44 Stat. 2020. |  |  |  |
 | &nbsp; | Nov. 10, 1936 | July 27, 1937 | 50 Stat. 1349. |
 | Saint Christopher and Nevis | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
 | Saint Lucia | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
 | Saint Vincent and the Grenadines | June 8, 1972 | Jan. 21, 1977 | 28 UST 227. |
-| San MarinoDJan. 10, 1906DJuly 8, 1908D35 Stat. 1971. |  |  |  |
+| San Marino DJan. 10, 1906 DJuly 8, 1908 D35 Stat. 1971. |  |  |  |
 | &nbsp; | Oct. 10, 1934 | June 28, 1935 | 49 Stat. 3198. |
 | Seychelles | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Sierra Leone | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| SingaporeDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
+| Singapore DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | June 10, 1969 | 20 UST 2764. |
-| Slovac RepublicDJuly 2, 1925Apr. 29, 1935DMar. 29, 1926Aug. 28, 1935D44 Stat. 236749 Stat. 3253. |  |  |  |
+| Slovac Republic DJuly 2, 1925Apr. 29, 1935 DMar. 29, 1926Aug. 28, 1935 D44 Stat. 236749 Stat. 3253. |  |  |  |
 | Solomon Islands | June 8, 1972 | Jan. 21, 1977 | 28 UST 277. |
 | South Africa | Dec. 18, 1947 | Apr. 30, 1951 | 2 UST 884. |
-| SpainDMay 29, 1970DJune 16, 1971D22 UST 737. |  |  |  |
+| Spain DMay 29, 1970 DJune 16, 1971 D22 UST 737. |  |  |  |
 | &nbsp; | Jan. 25, 1975 | June 2, 1978 | 29 UST 2283. |
 | &nbsp; | Feb. 9, 1988 | July 2, 1993 | &nbsp; |
+| &nbsp; | Mar. 12, 1996 | July 25, 1999 | &nbsp; |
 | Sri Lanka | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| SurinameDJune 2, 1887DJuly 11, 1889D26 Stat. 1481. |  |  |  |
+| Suriname DJune 2, 1887 DJuly 11, 1889 D26 Stat. 1481. |  |  |  |
 | &nbsp; | Jan. 18, 1904 | Aug. 28, 1904 | 33 Stat. 2257. |
-| SwazilandDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
+| Swaziland DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | July 28, 1970 | 21 UST 1930. |
-| SwedenDOct. 24, 1961DDec. 3, 1963D14 UST 1845. |  |  |  |
+| Sweden DOct. 24, 1961 DDec. 3, 1963 D14 UST 1845. |  |  |  |
 | &nbsp; | Mar. 14, 1983 | Sept. 24, 1984 | TIAS 10812. |
 | Switzerland | Nov. 14, 1990 | Sept. 10, 1997 | &nbsp; |
-| TanzaniaDDec. 22, 1931DJune 24, 1935D47 Stat. 2122. |  |  |  |
+| Tanzania DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Dec. 6, 1965 | 16 UST 2066. |
 | Thailand | Dec. 30, 1922 | Mar. 24, 1924 | 43 Stat. 1749. |
-| TongaDDec. 22, 1931DAug. 1, 1966D47 Stat. 2122. |  |  |  |
+| Tonga DDec. 22, 1931 DAug. 1, 1966 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Apr. 13, 1977 | 28 UST 5290. |
 | Trinidad and Tobago | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Turkey | June 7, 1979 | Jan. 1, 1981 | 32 UST 3111. |

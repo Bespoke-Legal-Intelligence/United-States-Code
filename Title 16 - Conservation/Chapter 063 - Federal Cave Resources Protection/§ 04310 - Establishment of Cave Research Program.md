@@ -22,6 +22,88 @@ This section, referred to in subsecs. (a) and (c), was in the original “this t
 
 Section was not enacted as part of the Federal Cave Resources Protection Act of 1988 which comprises this chapter.
 
+#### National Cave and Karst Research Institute
+
+Pub. L. 105–325, Oct. 30, 1998, 112 Stat. 3038, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘National Cave and Karst Research Institute Act of 1998’.
+
+#### “SEC. 2. PURPOSES.
+
+“The purposes of this Act are—
+
+&emsp;“(1) to further the science of speleology;
+
+&emsp;“(2) to centralize and standardize speleological information;
+
+&emsp;“(3) to foster interdisciplinary cooperation in cave and karst research programs;
+
+&emsp;“(4) to promote public education;
+
+&emsp;“(5) to promote national and international cooperation in protecting the environment for the benefit of cave and karst landforms; and
+
+&emsp;“(6) to promote and develop environmentally sound and sustainable resource management practices.
+
+#### “SEC. 3. ESTABLISHMENT OF THE INSTITUTE.
+
+“(a)
+
+In General.—The Secretary of the Interior (referred to in this Act as the ‘Secretary’), acting through the Director of the National Park Service, shall establish the National Cave and Karst Research Institute (referred to in this Act as the ‘Institute’).
+
+“(b)
+
+Purposes.—The Institute shall, to the extent practicable, further the purposes of this Act.
+
+“(c)
+
+Location.—The Institute shall be located in the vicinity of Carlsbad Caverns National Park, in the State of New Mexico. The Institute shall not be located inside the boundaries of Carlsbad Caverns National Park.
+
+#### “SEC. 4. ADMINISTRATION OF THE INSTITUTE.
+
+“(a)
+
+Management.—The Institute shall be jointly administered by the National Park Service and a public or private agency, organization, or institution, as determined by the Secretary.
+
+“(b)
+
+Guidelines.—The Institute shall be operated and managed in accordance with the study prepared by the National Park Service pursuant to section 203 of the Act entitled ‘An Act to conduct certain studies in the State of New Mexico’, approved November 15, 1990 (Public Law 101–578; 16 U.S.C. 4310 note).
+
+“(c)
+
+Contracts and Cooperative Agreements.—The Secretary may enter into a contract or cooperative agreement with a public or private agency, organization, or institution to carry out this Act.
+
+“(d)
+
+Facility.—
+
+&emsp;“(1)
+
+Leasing or acquiring a facility.—The Secretary may lease or acquire a facility for the Institute.
+
+&emsp;“(2)
+
+Construction of a facility.—If the Secretary determines that a suitable facility is not available for a lease or acquisition under paragraph (1), the Secretary may construct a facility for the Institute.
+
+“(e)
+
+Acceptance of Grants and Transfers.—To carry out this Act, the Secretary may accept—
+
+&emsp;“(1) a grant or donation from a private person; or
+
+&emsp;“(2) a transfer of funds from another Federal agency.
+
+#### “SEC. 5. FUNDING.
+
+“(a)
+
+Matching Funds.—The Secretary may spend only such amount of Federal funds to carry out this Act as is matched by an equal amount of funds from non-Federal sources.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
+
 #### Congressional Findings
 
 Section 201 of Pub. L. 101–578 provided that: “The Congress makes the following findings:

@@ -8,7 +8,7 @@
 
 (d) Any person who is the surviving spouse of a United States citizen, whose citizen spouse dies during a period of honorable service in an active duty status in the Armed Forces of the United States and who was living in marital union with the citizen spouse at the time of his death, may be naturalized upon compliance with all the requirements of this subchapter except that no prior residence or specified physical presence within the United States, or within a State or a district of the Service in the United States shall be required.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §319, 66 Stat. 244; Aug. 20, 1958, Pub. L. 85–697, §2, 72 Stat. 687; Dec. 18, 1967, Pub. L. 90–215, §1(a), 81 Stat. 661; June 29, 1968, Pub. L. 90–369, 82 Stat. 279; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(b)(1), (c)(5), (d)(4), 104 Stat. 5040, 5041.)
+(June 27, 1952, ch. 477, title III, ch. 2, §319, 66 Stat. 244; Pub. L. 85–697, §2, Aug. 20, 1958, 72 Stat. 687; Pub. L. 90–215, §1(a), Dec. 18, 1967, 81 Stat. 661; Pub. L. 90–369, June 29, 1968, 82 Stat. 279; Pub. L. 101–649, title IV, §407(b)(1), (c)(5), (d)(4), Nov. 29, 1990, 104 Stat. 5040, 5041.)
 
 #### Amendments
 

@@ -62,7 +62,7 @@ During the time in which a moratorium under this section is in effect, it is unl
 
 (1) Any person who commits any act that is unlawful under subsection (e) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858).
 
-(2) Any person who commits an act prohibited by paragraph (5), (6), (7), or (9) of subsection (e) of this section is guilty of an offense punishable as provided by section 309(a)(1) and (b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1859(a)(1) and (b)).
+(2) Any person who commits an act prohibited by paragraph (5), (6), (7), or (9) of subsection (e) of this section is guilty of an offense punishableas provided by section 309(a)(1) and (b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1859(a)(1) and (b)).
 
 #### (g) Civil forfeitures
 

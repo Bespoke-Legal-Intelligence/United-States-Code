@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in cooperation with the Attorney General, shall award grants to not more than 10 States to assist such States in becoming model demonstration States and in meeting the costs of improving State leadership concerning activities that will—
+The Secretary, in cooperation with the Attorney General, shall award grants to not morethan 10 States to assist such States in becoming model demonstration States and in meeting the costs of improving State leadership concerning activities that will—
 
 &emsp;(1) increase the number of prosecutions for domestic violence crimes;
 

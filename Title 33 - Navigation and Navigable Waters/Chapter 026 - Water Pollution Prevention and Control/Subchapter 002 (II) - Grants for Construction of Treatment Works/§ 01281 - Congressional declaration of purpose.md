@@ -52,7 +52,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 #### (h) Grants to construct privately owned treatment works
 
-A grant may be made under this section to construct a privately owned treatment worksserving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
+A grant may be made under this section to construct a privately owned treatment works serving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
 
 &emsp;(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
@@ -70,7 +70,7 @@ The Administrator is authorized to make a grant for any treatment works utilizin
 
 #### (k) Limitation on use of grants for publicly owned treatment works
 
-No grant made after November 15, 1981, for a publicly owned treatment works, other than for facility planning and the preparation of construction plans and specifications, shall be used to treat, store, or convey the flow of any industrial user into such treatment works in excess of a flow per day equivalent to fifty thousand gallons per day of sanitary waste. This subsection shall not apply to any project proposed by a grantee which is carrying out an approved project to prepare construction plans and specifications for a facility to treat wastewater, which received its grant approval before May 15, 1980. This subsection shall not be in effect after November 15, 1981.
+No grant made after November 15, 1981, for a publicly owned treatment works, other than for facility planning and the preparation of construction plans and specifications, shall be used to treat, store, or convey the flow of any industrial user into such treatment works in excess of a flow per day equivalent to fifty thousand gallons per day of sanitary waste. This subsection shall not apply to any project proposed by a grantee which is carrying out an approved project to prepare construction plans and specifications for a facility to treat wastewater,which received its grant approval before May 15, 1980. This subsection shall not be in effect after November 15, 1981.
 
 #### (<i>l</i>) Grants for facility plans, or plans, specifications, and estimates for proposed project for construction of treatment works; limitations, allotments, advances, etc.
 
@@ -92,7 +92,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 #### (n) Water quality problems; funds, scope, etc.
 
-(1) On and after October 1, 1984, upon the request of the Governor of an affected State, theAdministrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
+(1) On and after October 1, 1984, upon the request of the Governor of an affected State, the Administrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
 
 (2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
@@ -147,6 +147,10 @@ Subsec. (j). Pub. L. 95–217, §16, added subsec. (j).
 #### Effective Date of 1980 Amendment
 
 Section 2(g) of Pub. L. 96–483 provided that: “The amendments made by this section \[amending sections 1281, 1284, and 1293 of this title, enacting provisions set out as notes under section 1284 of this title, and amending provisions set out as a note under section 1284 of this title\] shall take effect on December 27, 1977.”
+
+#### Environmental Protection Agency State and Tribal Assistance Grants
+
+Pub. L. 105–174, title III, May 1, 1998, 112 Stat. 92, provided that: “Notwithstanding any other provision of law, eligible recipients of the funds appropriated to the Environmental Protection Agency in the State and Tribal Assistance Grants account since fiscal year 1997 and hereafter for multi-media or single media grants, other than Performance Partnership Grants authorized pursuant to Public Law 104–134 and Public Law 105–65 \[see Grants to Indian Tribes for Pollution Prevention, Control, and Abatement notes set out below\], for pollution prevention, control, and abatement and related activities have been and shall be those entities eligible for grants under the Agency's organic statutes.”
 
 #### Privatization of Infrastructure Assets
 
@@ -218,7 +222,7 @@ Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1374, provided in part: �
 
 Environmental Protection Agency” and “
 
-state and tribal assistance grants”\], the Administrator is authorized to make grants to federally recognized Indian governments for the development of multi-media environmental programs: <i>Provided further</i>, That, hereafter, the funds available under this heading for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities may also be used for the direct implementation by the Federal Government of a program required by law in the absence of an acceptable State or tribal program”.
+state and tribal assistance grants”\], the Administrator is authorized to makegrants to federally recognized Indian governments for the development of multi-media environmental programs: <i>Provided further</i>, That, hereafter, the funds available under this heading for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities may also be used for the direct implementation by the Federal Government of a program required by law in the absence of an acceptable State or tribal program”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -270,7 +274,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(3) No purchase shall be made of obligations issued to finance projects, the permanent financing of which occurred prior to the enactment of this section \[Oct. 18, 1972\].
 
-“(4) Any purchase by the Authority shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury taking into consideration (A) the current average yield on outstanding marketable obligations of the United States of comparable maturity or in its stead whenever the Authority has sufficient of its own long-term obligations outstanding, the current average yield on outstanding obligations of the Authority of comparable maturity; and (B) the market yields on municipal bonds.
+“(4) Any purchase by the Authority shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury taking into consideration (A) the current average yield on outstanding marketable obligations of the United Statesof comparable maturity or in its stead whenever the Authority has sufficient of its own long-term obligations outstanding, the current average yield on outstanding obligations of the Authority of comparable maturity; and (B) the market yields on municipal bonds.
 
 “(5) The Authority is authorized to charge fees for its commitments and other services adequate to cover all expenses and to provide for the accumulation of reasonable contingency reserves and such fees shall be included in the aggregate project costs.
 
@@ -318,7 +322,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1254, 1281a, 1281b, 1282, 1283, 1284, 1285, 1286, 1288, 1291, 1292, 1297, 1298, 1311, 1314, 1371, 1375, 1382, 1383 of this title.
+This section is referred to in sections 1254, 1281a, 1281b, 1282, 1283, 1284, 1285, 1286, 1288, 1291, 1292, 1297, 1298, 1311, 1314, 1371, 1382, 1383 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

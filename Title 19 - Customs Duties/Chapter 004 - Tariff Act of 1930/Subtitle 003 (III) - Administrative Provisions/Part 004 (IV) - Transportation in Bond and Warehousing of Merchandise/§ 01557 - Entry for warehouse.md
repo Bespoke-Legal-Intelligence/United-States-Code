@@ -6,7 +6,7 @@
 
 &emsp;(A) the total period of time for which such merchandise may remain in bonded warehouse shall not exceed 5 years from the date of importation; and
 
-&emsp;(B) turbine fuel may be withdrawn for use under section 1309 of this title without the payment of duty if an amount equal to the quantity of fuel withdrawn is shown to be used within 30 days after the day of withdrawal, but duties (together with interest payable from the date of the withdrawal at the rate of interest established under section 6621 of title 26)shall be deposited by the 40th day after the day of withdrawal on fuel that was withdrawn in excess of the quantity shown to have been so used during such 30-day period.
+&emsp;(B) turbine fuel may be withdrawn for use under section 1309 of this title without the payment of duty if an amount equal to the quantity of fuel withdrawn is shown to be used within 30 days after the day of withdrawal, but duties (together with interest payable from the date of the withdrawal at the rate of interest established under section 6621 of title 26) shall be deposited by the 40th day after the day of withdrawal on fuel that was withdrawn in excess of the quantity shown to have been so used during such 30-day period.
 
 (2) Merchandise upon which the duties have been paid and which shall have remained continuously in bonded warehouse or otherwise in the custody and under the control of customs officers, may be entered or withdrawn at any time within 5 years after the date of importation for exportation or for transportation and exportation to a foreign country, or for shipment or for transportation and shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or the island of Guam, under such regulations as the Secretary of the Treasury shall prescribe, and upon such entry or withdrawal, and exportation or shipment, the duties thereon shall be refunded.
 
@@ -22,7 +22,7 @@ Merchandise entered under bond, under any provision of law, may, upon payment of
 
 Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
-(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; June 2, 1970, Pub. L. 91–271, title III, §301(t), 84 Stat. 290; Jan. 12, 1971, Pub. L. 91–685, §1, 84 Stat. 2069; Oct. 3, 1978, Pub. L. 95–410, title I, §108(a), (b)(1), 92 Stat. 892; Jan. 12, 1983, Pub. L. 97–446, title II, §201(f), 96 Stat. 2350; Dec. 8, 1993, Pub. L. 103–182, title VI, §665, 107 Stat. 2215.)
+(June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215.)
 
 #### Prior Provisions
 
@@ -102,7 +102,7 @@ Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31,Money and Finance, repealed the permanent appropriation under the title “Debentures or drawbacks, bounties, or allowances (Customs) (2x321)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Debentures or drawbacks, bounties, or allowances (Customs) (2x321)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
 #### Section Referred to in Other Sections
 

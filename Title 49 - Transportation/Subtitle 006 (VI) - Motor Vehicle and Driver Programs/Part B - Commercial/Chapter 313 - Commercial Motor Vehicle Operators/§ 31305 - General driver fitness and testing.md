@@ -78,7 +78,81 @@ In subsection (a), before clause (1), the words “Not later than July 15, 1988�
 
 In subsection (b)(1), the words “taken and” are omitted as unnecessary. The text of 49 App.:2704(b)(3) is omitted as obsolete.
 
+#### Insulin Treated Diabetes Mellitus
+
+Pub. L. 105–178, title IV, §4018, June 9, 1998, 112 Stat. 413, provided that:
+
+“(a)
+
+Determination.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall determine whether a practicable and cost-effective screening, operating, and monitoring protocol could likely be developed for insulin treated diabetes mellitus individuals who want to operate commercial motor vehicles in interstate commerce that would ensure a level of safety equal to or greater than that achieved with the current prohibition on individuals with insulin treated diabetes mellitus driving such vehicles.
+
+“(b)
+
+Compilation and Evaluation.—Prior to making the determination in subsection (a), the Secretary shall compile and evaluate research and other information on the effects of insulin treated diabetes mellitus on driving performance. In preparing the compilation and evaluation, the Secretary shall, at a minimum—
+
+&emsp;“(1) consult with States that have developed and are implementing a screening process to identify individuals with insulin treated diabetes mellitus who may obtain waivers to drive commercial motor vehicles in intrastate commerce;
+
+&emsp;“(2) evaluate the Department's policy and actions to permit certain insulin treated diabetes mellitus individuals who meet selection criteria and who successfully comply with the approved monitoring protocol to operate in other modes of transportation;
+
+&emsp;“(3) assess the possible legal consequences of permitting insulin treated diabetes mellitus individuals to drive commercial motor vehicles in interstate commerce;
+
+&emsp;“(4) analyze available data on the safety performance of diabetic drivers of motor vehicles;
+
+&emsp;“(5) assess the relevance of intrastate driving and experiences of other modes of transportation to interstate commercial motor vehicle operations; and
+
+&emsp;“(6) consult with interested groups knowledgeable about diabetes and related issues.
+
+“(c)
+
+Report to Congress.—If the Secretary determines that no protocol described in subsection (a) could likely be developed, the Secretary shall report to Congress the basis for such determination.
+
+“(d)
+
+Initiation of Rulemaking.—If the Secretary determines that a protocol described in subsection (a) could likely be developed, the Secretary shall report to Congress a description of the elements of such protocol and shall promptly initiate a rulemaking proceeding to implement such protocol.”
+
+#### Performance-Based CDL Testing
+
+Pub. L. 105–178, title IV, §4019, June 9, 1998, 112 Stat. 414, provided that:
+
+“(a)
+
+Review.—Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall complete a review of the procedures established and implemented by States under section 31305 of title 49, United States Code, to determine if the current system for testing is an accurate measure and reflection of an individual's knowledge and skills as an operator of a commercial motor vehicle and to identify methods to improve testing and licensing standards, including identifying the benefits and costs of a graduated licensing system.
+
+“(b)
+
+Regulations.—The Secretary may issue regulations under section 31305 of title 49, United States Code, reflecting the results of the review.”
+
+#### Driver Fatigue
+
+Pub. L. 105–178, title IV, §4021, June 9, 1998, 112 Stat. 414, provided that:
+
+“(a)
+
+Technologies To Reduce Fatigue of Commercial Motor Vehicle Operators.—
+
+&emsp;“(1)
+
+Development of technologies.—As part of the activities of the Secretary \[of Transportation\] relating to the fatigue of commercial motor vehicle operators, the Secretary shall encourage the research, development, and demonstration of technologies that may aid in reducing such fatigue.
+
+&emsp;“(2)
+
+Matters to be taken into account.—In carrying out paragraph (1), the Secretary shall take into account—
+
+&emsp;&emsp;“(A) the degree to which the technology will be cost efficient;
+
+&emsp;&emsp;“(B) the degree to which the technology can be effectively used in diverse climatic regions of the Nation; and
+
+&emsp;&emsp;“(C) the degree to which the application of the technology will further emissions reductions, energy conservation, and other transportation goals.
+
+&emsp;“(3)
+
+Funding.—The Secretary may use amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\].
+
+“(b)
+
+Nonsedating Medications.—The Secretary shall review available information on the effects of medications (including antihistamines) on driver fatigue, awareness, and performance and shall consider encouraging, if appropriate, the use of nonsedating medications (including nonsedating antihistamines) as a means of reducing the adverse effects of the use of other medications by drivers.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521, 31308, 31311, 31312 of this title.
+This section is referred to in sections 521, 31308, 31311 of this title.
 

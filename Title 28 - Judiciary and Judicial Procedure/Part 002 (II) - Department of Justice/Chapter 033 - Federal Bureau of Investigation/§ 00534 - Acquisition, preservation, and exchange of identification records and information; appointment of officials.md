@@ -32,7 +32,7 @@
 
 &emsp;(A) the term “national crime information databases” means the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
 
-&emsp;(B) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
+&emsp;(B) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (otherthan support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950.)
 
@@ -62,15 +62,45 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–322 added subsec. (e).
+1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-<b>1982</b>—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
+1982—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
 
 Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
 Subsec. (b). Pub. L. 97–292, §2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
+
+#### Criminal Background Checks for Applicants for Employment in Nursing Facilities and Home Health Care Agencies
+
+Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73, provided that:
+
+“(a)(1) A nursing facility or home health care agency may submit a request to the Attorney General to conduct a search and exchange of records described in subsection (b) regarding an applicant for employment if the employment position is involved in direct patient care.
+
+“(2) A nursing facility or home health care agency requesting a search and exchange of records under this section shall submit to the Attorney General through the appropriate State agency or agency designated by the Attorney General a copy of an employment applicant's fingerprints, a statement signed by the applicant authorizing the nursing facility or home health care agency to request the search and exchange of records, and any other identification information not more than 7 days (excluding Saturdays, Sundays, and legal public holidays under section 6103(a) of title 5, United States Code) after acquiring the fingerprints, signed statement, and information.
+
+“(b) Pursuant to any submission that complies with the requirements of subsection (a), the Attorney General shall search the records of the Criminal Justice Information Services Division of the Federal Bureau of Investigation for any criminal history records corresponding to the fingerprints or other identification information submitted. The Attorney General shall provide any corresponding information resulting from the search to the appropriate State agency or agency designated by the Attorney General to receive such information.
+
+“(c) Information regarding an applicant for employment in a nursing facility or home health care agency obtained pursuant to this section may be used only by the facility or agency requesting the information and only for the purpose of determining the suitability of the applicant for employment by the facility or agency in a position involved in direct patient care.
+
+“(d) The Attorney General may charge a reasonable fee, not to exceed $50 per request, to any nursing facility or home health care agency requesting a search and exchange of records pursuant to this section.
+
+“(e) Not later than 2 years after the date of enactment of this Act \[Oct. 21, 1998\], the Attorney General shall submit a report to Congress on the number of requests for searches and exchanges of records made under this section by nursing facilities and home health care agencies and the disposition of such requests.
+
+“(f) Whoever knowingly uses any information obtained pursuant to this section for a purpose other than as authorized under subsection (c) shall be fined in accordance with title 18, United States Code, imprisoned for not more than 2 years, or both.
+
+“(g) A nursing facility or home health care agency that, in denying employment for an applicant, reasonably relies upon information provided by the Attorney General pursuant to this section shall not be liable in any action brought by the applicant based on the employment determination resulting from the incompleteness or inaccuracy of the information.
+
+“(h) The Attorney General may promulgate such regulations as are necessary to carry out this section, including regulations regarding the security, confidentiality, accuracy, use, destruction, and dissemination of information, audits and recordkeeping, the imposition of fees, and any necessary modifications to the definitions contained in subsection (i).
+
+“(i) In this section:
+
+&emsp;“(1) The term ‘home health care agency’ means an agency that provides home health care or personal care services on a visiting basis in a place of residence.
+
+&emsp;“(2) The term ‘nursing facility’ means a facility or institution (or a distinct part of an institution) that is primarily engaged in providing to residents of the facility or institution nursing care, including skilled nursing care, and related services for individuals who require medical or nursing care.
+
+“(j) This section shall apply without fiscal year limitation.”
 
 #### Compilation of Statistics Relating to Intimidation of Government Employees
 
@@ -84,7 +114,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2) these acts are a danger to the constitutional form of government of the United States; and
 
-&emsp;“(3) more information is needed relating to the extent and nature of the danger to these employees and their families so that actions can be taken to protect public servants at all levels of government in the performance of their duties.
+&emsp;“(3) more information is needed relating to the extent and nature of the danger to these employees and their families so that actions can be taken to protectpublic servants at all levels of government in the performance of their duties.
 
 “(b)
 
@@ -218,7 +248,7 @@ Distribution of data.—The Attorney General shall distribute data received purs
 
 “(d)
 
-Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section andmay appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
+Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
 
 “(e)
 

@@ -119,172 +119,53 @@ The business committee of the tribe for and on behalf of the full-blood members 
 | N/2 NE/4 | 23 |  | 80\.00 |
 | N/2 N/2; SE/4 NE/4 | 24 |  | 200\.00 |
 |  |  |  |  |
+| Total | 800\.00 |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Township 2 South, Range 8 West: |  |  |  |
+| SE/4 SW/4 | 31 |  | 40\.00 |
+|  |  |  |  |
+| Township 3 South, Range 1 East: |  |  |  |
+| Lot 2; SE/4 NW/4; S/2 NE/4 | 7 |  | 158\.12 |
+| N/2 SW/4; SW/4 NE/4; NW/4 SE/4 | 16 |  | 160\.00 |
+| Lots 1, 2 \& 3; NE/4 SW/4 | 18 |  | 155\.35 |
+| E/2 NE/4 | 30 |  | 80\.00 |
+|  |  |  |  |
+| Total | 553\.47 |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Township 3 South, Range 2 East: |  |  |  |
+| Lot 8 | 6 |  | 35\.49 |
+| SW/4 SW/4 | 25 |  | 40\.00 |
+| SE/4 NW/4; E/2 SW/4 | 36 |  | 120\.00 |
+|  |  |  |  |
+| Total | 195\.49 |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Township 3 South, Range 1 West: |  |  |  |
+| N/2 SE/4 | 3 |  | 80\.00 |
+| Lots 1–8, Incl | 22 |  | 331\.46 |
+| Lots 1–4, Incl.; S/2 N/2 | 23 |  | 338\.28 |
+| Lots 1–4, Incl.; S/2 N/2 | 24 |  | 341\.20 |
+| W/2 SE/4 | 25 |  | 80\.00 |
+|  |  |  |  |
+| Total | 1,170.94 |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| Township 3 South, Range 2 West: |  |  |  |
+| S/2 S/2 | 9 |  | 160\.00 |
+| S/2 SE/4 | 7 |  | 80\.00 |
+| SW/4 SW/4 | 8 |  | 40\.00 |
+| W/2 SW/4 | 15 |  | 80\.00 |
+| NE/4 SW/4; NW/4; SE/4 | 16 |  | 360\.00 |
+| SW/4 SW/4 | 17 |  | 40\.00 |
+| NE/4 NE/4 | 18 |  | 40\.00 |
+| N/2 NE/4 | 21 |  | 80\.00 |
+| N/2 NW/4 | 24 |  | 80\.00 |
+| W/2 SW/4 | 33 |  | 80\.00 |
+|  |  |  |  |
 
 1
-
-Total
-
-800\.00
-
-Township 2 South, Range 8 West:
-
-SE/4 SW/4
-
-31
-
-40\.00
-
-Township 3 South, Range 1 East:
-
-Lot 2; SE/4 NW/4; S/2 NE/4
-
-7
-
-158\.12
-
-N/2 SW/4; SW/4 NE/4; NW/4 SE/4
-
-16
-
-160\.00
-
-Lots 1, 2 \& 3; NE/4 SW/4
-
-18
-
-155\.35
-
-E/2 NE/4
-
-30
-
-80\.00
-
-Total
-
-553\.47
-
-Township 3 South, Range 2 East:
-
-Lot 8
-
-6
-
-35\.49
-
-SW/4 SW/4
-
-25
-
-40\.00
-
-SE/4 NW/4; E/2 SW/4
-
-36
-
-120\.00
-
-Total
-
-195\.49
-
-Township 3 South, Range 1 West:
-
-N/2 SE/4
-
-3
-
-80\.00
-
-Lots 1–8, Incl
-
-22
-
-331\.46
-
-Lots 1–4, Incl.; S/2 N/2
-
-23
-
-338\.28
-
-Lots 1–4, Incl.; S/2 N/2
-
-24
-
-341\.20
-
-W/2 SE/4
-
-25
-
-80\.00
-
-Total
-
-1,170.94
-
-Township 3 South, Range 2 West:
-
-S/2 S/2
-
-9
-
-160\.00
-
-S/2 SE/4
-
-7
-
-80\.00
-
-SW/4 SW/4
-
-8
-
-40\.00
-
-W/2 SW/4
-
-15
-
-80\.00
-
-NE/4 SW/4; NW/4; SE/4
-
-16
-
-360\.00
-
-SW/4 SW/4
-
-17
-
-40\.00
-
-NE/4 NE/4
-
-18
-
-40\.00
-
-N/2 NE/4
-
-21
-
-80\.00
-
-N/2 NW/4
-
-24
-
-80\.00
-
-W/2 SW/4
-
-33
-
-80\.00
 
 Total
 
@@ -836,7 +717,7 @@ Grand total
 
 27,043.34
 
-> All such sales, exchanges, or other dispositions shall be made upon such terms as said committee and said authorized representatives shall deem satisfactory and may be made pursuant to bids or at private sale, and all funds or other property derived from such sales, exchanges, or other dispositions shall be subject to the terms of this subchapter. Consent by the tribal business committee and said authorized representatives to the sale, exchange, or other disposal of the lands herein described shall relieve the United States of any liability resulting from such sale, exchange, or other disposition. The tribal business committee and said authorized representatives are further authorized to sell or dispose of tribal assigned lands to the assigneesthereof under such terms and conditions as may be agreed upon by the said tribal business committee and said authorized representatives with the assignees, subject, however, to the approval of the Secretary.
+> All such sales, exchanges, or other dispositions shall be made upon such terms as said committee and said authorized representatives shall deem satisfactory and may be made pursuant to bids or at private sale, and all funds or other property derived from such sales, exchanges, or other dispositions shall be subject to the terms of this subchapter. Consent by the tribal business committee and said authorized representatives to the sale, exchange, or other disposal of the lands herein described shall relieve the United States of any liability resulting from such sale, exchange, or other disposition. The tribal business committee and said authorized representatives are further authorized to sell or dispose of tribal assigned lands to the assignees thereof under such terms and conditions as may be agreed upon by the said tribal business committee and said authorized representatives with the assignees, subject, however, to the approval of the Secretary.
 
 (Aug. 27, 1954, ch. 1009, §9, 68 Stat. 869.)
 

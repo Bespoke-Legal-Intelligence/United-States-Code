@@ -34,6 +34,10 @@ Subsec. (b). Pub. L. 104–186, §204(6), substituted “Chief Administrative Of
 
 Subsec. (c). Pub. L. 104–186, §204(7)(B), substituted “House Oversight” for “House Administration”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date
 
 Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into permanent law by Pub. L. 93–245, provided that: “The provisions of this resolution \[enacting this section and repealing House Resolution No. 416, Eighty-ninth Congress, formerly classified to this section\] shall become effective on January 1, 1974.”

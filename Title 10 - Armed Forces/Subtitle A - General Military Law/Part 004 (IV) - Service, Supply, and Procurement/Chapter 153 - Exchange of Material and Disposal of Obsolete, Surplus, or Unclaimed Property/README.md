@@ -13,10 +13,13 @@
 | [2578\.](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md) | Vessels: transfer between departments. |
 | [2579\.](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md) | War booty: procedures for handling and retaining battlefield objects. |
 | [2580\.](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md) | Donation of excess chapel property. |
+| [2581\.](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md) | Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title XII, §1234(b), Oct. 17, 1998, 112 Stat. 2157, added item 2581.
 
 1997—Pub. L. 105–85, div. A, title X, §1063(b), Nov. 18, 1997, 111 Stat. 1893, added item 2580.
 
@@ -64,3 +67,4 @@ Property records, basis and reports, see section 2721 of this title.
 - [&sect; 02578 - Vessels transfer between departments](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md)
 - [&sect; 02579 - War booty procedures for handling and retaining battlefield objects](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md)
 - [&sect; 02580 - Donation of excess chapel property](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md)
+- [&sect; 02581 - Excess UH&#8211;1 Huey and AH&#8211;1 Cobra helicopters requirements for transfer to foreign countries](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md)

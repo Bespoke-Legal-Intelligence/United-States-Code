@@ -2,7 +2,7 @@
 
 #### (a) Congressional finding of importance of participation by private and voluntary organizations
 
-The Congress finds that the participation of rural and urban poor people in their countries’ development can be assisted and accelerated in an effective manner through an increase in activities planned and carried out by private and voluntary organizations and cooperatives. Such organizations and cooperatives, embodying the American spirit of self-help and assistance to others to improve their lives and incomes, constitute an important means of mobilizing private American financial and human resources to benefit poor people in developing countries. The Congress declares that it is in the interest of the United States that such organizations and cooperatives expand their overseas development efforts without compromising their private and independent nature. The Congress further declares that the financial resources of such organizations and cooperatives should be supplemented by the contribution of public funds for the purpose of undertaking development activities in accordance with the principles set forth in section 2151–1 of this title and, if necessary and determined on a case-by-case basis, for the purpose of sharing the cost of developing programs related to such activities. The Congress urges the Administrator of the agency primarily responsible for administering subchapter I of this chapter, in implementing programs authorized under subchapter I of this chapter, to draw on the resource of private and voluntary organizations and cooperatives to plan and carry out development activities and to establish simplified procedures for the development and approval of programs to be carried out by such private and voluntary organizations and cooperatives as have demonstrated a capacity to undertake effective development activities.
+The Congress finds that the participation of rural and urban poor people in their countries’development can be assisted and accelerated in an effective manner through an increase in activities planned and carried out by private and voluntary organizations and cooperatives. Such organizations and cooperatives, embodying the American spirit of self-help and assistance to others to improve their lives and incomes, constitute an important means of mobilizing private American financial and human resources to benefit poor people in developing countries. The Congress declares that it is in the interest of the United States that such organizations and cooperatives expand their overseas development efforts without compromising their private and independent nature. The Congress further declares that the financial resources of such organizations and cooperatives should be supplemented by the contribution of public funds for the purpose of undertaking development activities in accordance with the principles set forth in section 2151–1 of this title and, if necessary and determined on a case-by-case basis, for the purpose of sharing the cost of developing programs related to such activities. The Congress urges the Administrator of the agency primarily responsible for administering subchapter I of this chapter, in implementing programs authorized under subchapter I of this chapter, to draw on the resource of private and voluntary organizations and cooperatives to plan and carry out development activities and to establish simplified procedures for the development and approval of programs to be carried out by such private and voluntary organizations and cooperatives as have demonstrated a capacity to undertake effective development activities.
 
 #### (b) Payment of transportation charges on shipments by American National Red Cross and United States voluntary agencies
 
@@ -24,15 +24,13 @@ Prohibitions on assistance to countries contained in this chapter or any other A
 
 For each of the fiscal years 1986 through 1989, funds in an amount not less than thirteen and one half percent of the aggregate amount appropriated for that fiscal year to carry out sections 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2151s,<sup>1</sup> and 2292 of this title shall be made available for the activities of private and voluntary organizations, and the President shall seek to channel funds in an amount not less than 16 percent of such aggregate amount for the activities of private and voluntary organizations. Funds made available under part IV of subchapter II of this chapter for the activities of private and voluntary organizations may be considered in determining compliance with the requirements of this subsection.
 
-#### (g) Additional and future funding for private and voluntary organizations
-
-After December 31, 1984, funds made available to carry out section 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2292, or 2293 of this title may not be made available for programs of any UnitedStates private and voluntary organization which does not obtain at least 20 percent of its total annual financial support for its international activities from sources other than the United States Government, except that this restriction does not apply with respect to programs which, as of that date, are receiving financial support from the agency primarily responsible for administering subchapter I of this chapter. The Administrator of the agency primarily responsible for administering subchapter I of this chapter may, on a case-by-case basis, waive the restriction established by this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency primarily responsible for administering subchapter I of this chapter.
+#### (g) Repealed. Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156
 
 #### (h) Promotion of democratic cooperatives
 
 The Congress recognizes that, in addition to their role in social and economic development, cooperatives provide an opportunity for people to participate directly in democratic decisionmaking. Therefore, assistance under this part shall be provided to rural and urban cooperatives which offer large numbers of low- and middle-income people in developing countries an opportunity to participate directly in democratic decisionmaking. Such assistance shall be designed to encourage the adoption of self-help, private sector cooperative techniques and practices which have been successful in the United States.
 
-(Pub. L. 87–195, pt. I, §123, as added Pub. L. 95–424, title I, §102(e), Oct. 6, 1978, 92 Stat. 941; amended Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 96–533, title III, §307, Dec. 16, 1980, 94 Stat. 3147; Pub. L. 97–113, title III, §309, Dec. 29, 1981, 95 Stat. 1535; Pub. L. 99–83, title III, §§309, 310, Aug. 8, 1985, 99 Stat. 215; Pub. L. 101–513, title V, §562(d)(6), Nov. 5, 1990, 104 Stat. 2031.)
+(Pub. L. 87–195, pt. I, §123, as added Pub. L. 95–424, title I, §102(e), Oct. 6, 1978, 92 Stat. 941;amended Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 96–533, title III, §307, Dec. 16, 1980, 94 Stat. 3147; Pub. L. 97–113, title III, §309, Dec. 29, 1981, 95 Stat. 1535; Pub. L. 99–83, title III, §§309, 310, Aug. 8, 1985, 99 Stat. 215; Pub. L. 101–513, title V, §562(d)(6), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.)
 
 #### References in Text
 
@@ -45,6 +43,8 @@ Section 2151s of this title, referred to in subsec. (f), was repealed by Pub. L.
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–277 struck out subsec. (g) which read as follows: “After December 31, 1984, funds made available to carry out section 2151a(a), 2151b(b), 2151b(c), 2151c, 2151d, 2292, or 2293 of this title may not be made available for programs of any United States private and voluntary organization which does not obtain at least 20 percent of its total annual financial support for its international activities from sources other than the United States Government, except that this restriction does not apply with respect to programs which, as of that date, are receiving financial support from the agency primarily responsible for administering subchapter I of this chapter. The Administrator of the agency primarily responsible for administering subchapter I of this chapter may, on a case-by-case basis, waive the restriction established by this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency primarily responsible for administering subchapter I of this chapter.”
 
 1990—Subsec. (b). Pub. L. 101–513, §562(d)(6)(A), inserted “and part X of this subchapter” after “this part”.
 
@@ -80,15 +80,13 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Private and Volunteer Organizations
 
-Pub. L. 105–118, title II, Nov. 26, 1997, 111 Stat. 2390, provided in part that: “None of the funds appropriated or otherwise made available by this Act for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 per centum of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the requirements of the provisions of section 123(g) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151u(g)\] and the provisions on private and voluntary organizations in title II of the ‘Foreign Assistance and Related Programs Appropriations Act, 1985’ (as enacted in Public Law 98–473) shall be superseded by the provisions of this section, except that the authority contained in the last sentence of section 123(g) may be exercised by the Administrator with regard to the requirements of this paragraph.”
+Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156, provided in part that: “None of the funds appropriated or otherwise made available by this Act for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 percent of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the Administrator of the Agency for International Development may, on a case-by-case basis, waive the restriction contained in this paragraph, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–118, title II, Nov. 26, 1997, 111 Stat. 2390.
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title II\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–126.
 
@@ -112,7 +110,7 @@ Pub. L. 99–500, §101(f) \[title II\], Oct. 18, 1986, 100 Stat. 1783–213, 17
 
 Pub. L. 99–190, §101(i) \[title II\], Dec. 19, 1985, 99 Stat. 1291, 1296.
 
-Pub. L. 98–473, title I, §101(1) \[title II\], Oct. 12, 1984, 98 Stat. 1884, 1889.
+Pub. L. 98–473, title I, §101(1) \[title II\], Oct. 12, 1984, 98 Stat. 1884, 1889; repealed by Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.
 
 #### Study and Report Concerning Use of Private and Voluntary Organizations, Cooperatives, and Private Sector
 

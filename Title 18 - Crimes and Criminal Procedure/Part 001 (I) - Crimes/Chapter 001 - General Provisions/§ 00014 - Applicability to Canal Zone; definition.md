@@ -6,11 +6,11 @@
 
 (c) The definitions of the terms prescribed by sections 5 and 10, or other sections of this title, are modified to effectuate the applicability of the sections enumerated by subsection (a) of this section to and within the Canal Zone.
 
-(June 25, 1948, ch. 645, 62 Stat. 686; Aug. 5, 1953, ch. 325, 67 Stat. 366; Oct. 18, 1962, Pub. L. 87–845, §3(a), 76A Stat. 698; June 22, 1968, Pub. L. 90–357, §59, 82 Stat. 248; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3519(c), 104 Stat. 4923; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330010(9), 108 Stat. 2143.)
+(June 25, 1948, ch. 645, 62 Stat. 686; Aug. 5, 1953, ch. 325, 67 Stat. 366; Pub. L. 87–845, §3(a), Oct. 18, 1962, 76A Stat. 698; Pub. L. 90–357, §59, June 22, 1968, 82 Stat. 248; Pub. L. 101–647, title XXXV, §3519(c), Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §330010(9), Sept. 13, 1994, 108 Stat. 2143.)
 
 #### Senate Revision Amendment
 
-This amendment, adding a new section 14, together with amended section 5 will clarify the applicability of Federal criminal statutes within the Canal Zone. It was particularly desired by the Governor of the Canal Zoneand the compiler of the Canal Zone Code. The Governor of the Canal Zone, in a letter dated September 22, 1945, and filed with the House Judiciary Committee, advised:
+This amendment, adding a new section 14, together with amended section 5 will clarify the applicability of Federal criminal statutes within the Canal Zone. It was particularly desired by the Governor of the Canal Zone and the compiler of the Canal Zone Code. The Governor of the Canal Zone, in a letter dated September 22, 1945, and filed with the House Judiciary Committee, advised:
 
 “General criminal laws of the United States are now applicable to the Canal Zone only if applicability is indicated by language expressly referring to the Canal Zone, or to possessions of the United States, or to territory subject to the jurisdiction of the United States, etc. \* \* \* The bill in its present form would have undesirable effects insofar as concerns the continued operation of the Canal Zone Criminal Code and Code of Criminal Procedure, established by Congress as titles 5 and 6 of the Canal Zone Code, enacted by act of June 19, 1934 (ch. 667, 48 Stat. 1122), and also would perhaps have undesirable effects insofar as concerns the continued applicability to the Canal Zone of the body of general criminal laws which are now applicable.”
 

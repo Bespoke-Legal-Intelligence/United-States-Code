@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-Research and development are major factors in the growth and progress of industry and thenational economy. The expense of carrying on research and development programs is beyond the means of many small-business concerns, and such concerns are handicapped in obtaining the benefits of research and development programs conducted at Government expense. These small-business concerns are thereby placed at a competitive disadvantage. This weakens the competitive free enterprise system and prevents the orderly development of the national economy. It is the policy of the Congress that assistance be given to small-business concerns to enable them to undertake and to obtain the benefits of research and development in order to maintain and strengthen the competitive free enterprise system and the national economy.
+Research and development are major factors in the growth and progress of industry and the national economy. The expense of carrying on research and development programs is beyond the means of many small-business concerns, and such concerns are handicapped in obtaining the benefits of research and development programs conducted at Government expense. These small-business concerns are thereby placed at a competitive disadvantage. This weakens the competitive free enterprise system and prevents the orderly development of the national economy. It is the policy of the Congress that assistance be given to small-business concerns to enable them to undertake and to obtain the benefits of research and development in order to maintain and strengthen the competitive free enterprise system and the national economy.
 
 #### (b) Assistance to small-business concerns
 
@@ -28,7 +28,7 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 #### (d) Joint programs; approval of agreements; withdrawal of approval; publication in Federal Register
 
-(1) The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging such firms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programs may, among other things, include the following purposes:
+(1) The Administrator is authorized to consult with representatives of small-business concerns with a view to assisting and encouraging such firms to undertake joint programs for research and development carried out through such corporate or other mechanism as may be most appropriate for the purpose. Such joint programsmay, among other things, include the following purposes:
 
 &emsp;(A) to construct, acquire, or establish laboratories and other facilities for the conduct of research;
 
@@ -50,7 +50,7 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 For the purpose of this section—
 
-&emsp;(1) the term “extramural budget” means the sum of the total obligations minus amounts obligated for such activities by employees of the agency in or through Government-owned, Government-operated facilities, except thatfor the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs, and except that for the Agency for International Development it shall not include amounts obligated solely for general institutional support of international research centers or for grants to foreign countries;
+&emsp;(1) the term “extramural budget” means the sum of the total obligations minus amounts obligated for such activities by employees of the agency in or through Government-owned, Government-operated facilities, except that for the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs, and except that for the Agency for International Development it shall not include amounts obligated solely for general institutional support of international research centers or for grants to foreign countries;
 
 &emsp;(2) the term “Federal agency” means an executive agency as defined in section 105 of title 5 or a military department as defined in section 102 of such title, except that it does not include any agency within the Intelligence Community (as the term is defined in section 3.4(f) of Executive Order 12333 or its successor orders);
 
@@ -244,7 +244,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(2) issue STTR solicitations in accordance with a schedule determined cooperatively with the Administration;
 
-&emsp;(3) unilaterally determine research topics within the agency's STTR solicitations, giving special consideration to broad research topics and to topics that further 1 or more critical technologies, as identified—
+&emsp;(3) unilaterally determine research topics within the agency's STTR solicitations, givingspecial consideration to broad research topics and to topics that further 1 or more critical technologies, as identified—
 
 &emsp;&emsp;(A) by the National Critical Technologies Panel (or its successor) in reports required under section 6683 of title 42; or
 
@@ -408,7 +408,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;&emsp;(ii) the total amount of Federal research and development contracts awarded to small business concerns in the State;
 
-&emsp;&emsp;(B) the provision of competition outreach support to small business concerns in the State that are involved in research and development; and
+&emsp;&emsp;(B) the provision of competition outreach support to small business concerns in theState that are involved in research and development; and
 
 &emsp;&emsp;(C) the development and dissemination of educational and promotional information relating to the programs under this section to small business concerns in the State.
 
@@ -478,7 +478,7 @@ Subsec. (e)(4)(C). Pub. L. 102–564, §103(a)(2), added subpar. (C) and struck 
 
 Subsec. (e)(6) to (8). Pub. L. 102–564, §202(b), added pars. (6) to (8).
 
-Subsec. (f). Pub. L. 102–564, §103(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) consisted of pars. (1) and (2) relating to Federal agency extramural budget expenditures for fiscal years 1982 and thereafter for small business concerns in connection with small business innovation research programs meeting the requirements of the Small Business Innovation Development Act of 1982.
+Subsec. (f). Pub. L. 102–564, §103(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) consistedof pars. (1) and (2) relating to Federal agency extramural budget expenditures for fiscal years 1982 and thereafter for small business concerns in connection with small business innovation research programs meeting the requirements of the Small Business Innovation Development Act of 1982.
 
 Subsec. (f)(2). Pub. L. 102–484, §4237(d)(2)(B), (h)(2), temporarily struck out par. (2) which read “Amounts appropriated for atomic energy defense programs of the Department of Energy shall for the purposes of paragraph (1) be excluded from the amount of the research or research and development budget of that Department.” See section 4237(h)(2) of Pub. L. 102–484 set out in a Small Business Innovation Research Program in Department of Defense note below.
 
@@ -558,7 +558,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(7) the small business innovation research program has also helped to increase exports from small business concerns;
 
-&emsp;“(8) despite the general success of the small business innovation research program, the proportion of Federal research and development funds received by small business concerns has not increased over the life of the program, but has remained at 3 percent; and
+&emsp;“(8) despite the general success of the small business innovation research program, the proportion ofFederal research and development funds received by small business concerns has not increased over the life of the program, but has remained at 3 percent; and
 
 &emsp;“(9) although the participating Federal agencies have successfully implemented most aspects of the small business innovation research program, additional outreach efforts are necessary to stimulate increased participation of socially and economically disadvantaged small business concerns.
 
@@ -596,7 +596,7 @@ Purchase of American-Made Equipment and Products.—It is the sense of the Congr
 
 “(b)
 
-Notice to SBIR Awardees.—Each Federal agency that awards funding agreements under the SBIRprogram shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
+Notice to SBIR Awardees.—Each Federal agency that awards funding agreements under the SBIR program shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
 
 #### Small Business Innovation Research Program in Department of Defense
 
@@ -775,7 +775,7 @@ Final Report.—The Comptroller General of the United States shall transmit to t
 
 &emsp;“(8) an analysis of the impact of agency application review periods and funding cycles on SBIR program awardees’ financial status and ability to commercialize; and
 
-&emsp;“(9) recommendations to the Congress for tracking the extent to which foreign firms, or United States firms with substantial foreign ownership interests,benefit from technology or products developed as a direct result of SBIR research or research and development.
+&emsp;“(9) recommendations to the Congress for tracking the extent to which foreign firms, or United States firms with substantial foreign ownership interests, benefit from technology or products developed as a direct result of SBIR research or research and development.
 
 “(c)
 
@@ -817,7 +817,7 @@ Section 6 of Pub. L. 97–219, as amended by Pub. L. 99–443, §3, Oct. 6, 1986
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 637, 645, 649 of this title; title 10 sections 2302, 2304, 2320, 2500; title 41 sections 253, 259, 416.
+This section is referred to in sections 637, 645, 649 of this title; title 7 section 7624; title 10 sections 2302, 2304, 2320, 2500; title 41 sections 253, 259, 416.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -4,7 +4,11 @@
 
 &emsp;(1) engaged in foreign commerce; and
 
-&emsp;(2) operating on the navigable waters of the United States.
+&emsp;(2) operating—
+
+&emsp;&emsp;(A) in internal waters of the United States; or
+
+&emsp;&emsp;(B) within 3 nautical miles from the baselines from which the territorial sea of the United States is measured.
 
 (b) A requirement prescribed under subsection (a) of this section is terminated when the State having jurisdiction over the area involved—
 
@@ -18,9 +22,11 @@
 
 (e) A person that knowingly violates this section or a regulation prescribed under this section commits a class D felony.
 
-(Added Pub. L. 98–557, §29(f)(3)(A), Oct. 30, 1984, 98 Stat. 2874; amended Pub. L. 101–380, title IV, §4302(h), Aug. 18, 1990, 104 Stat. 539.)
+(Added Pub. L. 98–557, §29(f)(3)(A), Oct. 30, 1984, 98 Stat. 2874; amended Pub. L. 101–380, title IV, §4302(h), Aug. 18, 1990, 104 Stat. 539; Pub. L. 105–383, title III, §301(b)(8), Nov. 13, 1998, 112 Stat. 3417.)
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–383 added par. (2) and struck out former par. (2) which read as follows: “operating on the navigable waters of the United States.”
 
 1990—Subsec. (e). Pub. L. 101–380 substituted “commits a class D felony” for “shall be fined not more than $50,000, imprisoned for not more than five years, or both”.
 

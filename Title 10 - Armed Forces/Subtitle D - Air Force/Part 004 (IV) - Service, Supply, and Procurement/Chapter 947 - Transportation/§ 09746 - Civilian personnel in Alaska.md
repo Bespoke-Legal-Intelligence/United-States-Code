@@ -14,7 +14,7 @@ Persons residing in Alaska who are and have been employed there by the United St
 
 &emsp;&emsp;(B) the transportation cannot be reasonably handled by a United States commercial air carrier.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 587; Oct. 4, 1984, Pub. L. 98–443, §9(k), 98 Stat. 1708.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 587; Pub. L. 98–443, §9(k), Oct. 4, 1984, 98 Stat. 1708.)
 
 Historical and Revision Notes
 

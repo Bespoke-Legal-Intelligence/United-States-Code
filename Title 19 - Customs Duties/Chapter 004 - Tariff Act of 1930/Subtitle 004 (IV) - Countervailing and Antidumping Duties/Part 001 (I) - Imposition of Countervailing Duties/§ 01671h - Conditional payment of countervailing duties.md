@@ -14,7 +14,7 @@ In order to meet the requirements of this subsection, a person shall—
 
 &emsp;(3) pay, or agree to pay on demand, to the customs officer the amount of countervailing duty imposed under this part on that merchandise.
 
-(June 17, 1930, ch. 497, title VII, §709, as added Oct. 30, 1984, Pub. L. 98–573, title VI, §608, 98 Stat. 3029.)
+(June 17, 1930, ch. 497, title VII, §709, as added Pub. L. 98–573, title VI, §608, Oct. 30, 1984, 98 Stat. 3029.)
 
 #### Effective Date
 

@@ -10,13 +10,13 @@ If a national marketing quota for wheat has been proclaimed for any marketing ye
 
 #### (c) National emergencies or material increase in demand; investigation; increase or termination
 
-If, after the proclamation of a national marketing quota for wheat for any marketing year,the Secretary has reason to believe that, because of a national emergency or because of a material increase in the demand for wheat, the national marketing quota should be terminated or the amount thereof increased, he shall cause an immediate investigation to be made to determine whether such action is necessary in order to meet such emergency or increase in the demand for wheat. If, on the basis of such investigation, the Secretary finds that such action is necessary, he shall immediately proclaim such finding and the amount of any such increase found by him to be necessary and thereupon such national marketing quota shall be so increased or terminated. In case any national marketing quota is increased under this subsection, the Secretary shall provide for such increase by increasing acreage allotments established under this subpart by a uniform percentage.
+If, after the proclamation of a national marketing quota for wheat for any marketing year, the Secretary has reason to believe that, because of a national emergency or because of a material increase in the demand for wheat, the national marketing quota should be terminated or the amount thereof increased, he shall cause an immediate investigation to be made to determine whether such action is necessary in order to meet such emergency or increase in the demand for wheat. If, on the basis of such investigation, the Secretary finds that such action is necessary, he shall immediately proclaim such finding and the amount of any such increase found by him to be necessary and thereupon such national marketing quota shall be so increased or terminated. In case any national marketing quota is increased under this subsection, the Secretary shall provide for such increase by increasing acreage allotments established under this subpart by a uniform percentage.
 
 #### (d) Farm marketing quotas for wheat crops planted in calendar years 1966–1970
 
 Notwithstanding any other provision of this chapter, the Secretary shall proclaim a national marketing quota for the crops of wheat planted for harvest in the calendar years 1966 through 1970, and farm marketing quotas shall not be in effect for such crops of wheat.
 
-(Feb. 16, 1938, ch. 30, title III, §332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, §307, 68 Stat. 903; Sept. 27, 1962, Pub. L. 87–703, title III, §311, 76 Stat. 619; Nov. 3, 1965, Pub. L. 89–321, title V, §501(1), 79 Stat. 1199; Oct. 11, 1968, Pub. L. 90–559, §1(1), 82 Stat. 996; Dec. 23, 1985, Pub. L. 99–198, title III, §302, 99 Stat. 1378.)
+(Feb. 16, 1938, ch. 30, title III, §332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, §307, 68 Stat. 903; Pub. L. 87–703, title III, §311, Sept. 27, 1962, 76 Stat. 619; Pub. L. 89–321, title V, §501(1), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 99–198, title III, §302, Dec. 23, 1985, 99 Stat. 1378.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Subsec. (a). Pub. L. 99–198 amended subsec. (a) generally, temporarily substit
 
 Subsec. (b). Pub. L. 99–198 amended subsec. (b) generally, temporarily substituting provisions authorizing the proclamation of a national marketing quota for each marketing year, not later than June 15, 1986, in an amount which the Secretary determines is required to meet anticipated needs during such marketing year, and the conducting of a marketing quota referendum not later than Aug. 1, 1986 for provisions which had authorized the proclamation of a national marketing quota upon a determination made between Jan. 1 and Apr. 15 of the calendar year preceding the year in which the marketing year began, which determination had to provide a minimum of one billion bushels for any marketing year, and investigation of stocks to adjust for imports and excessive or insufficient amounts generally. See Effective and Termination Dates of 1985 Amendment note below.
 
-Subsec. (c). Pub. L. 99–198 amended subsec. (c) generally, temporarily substituting provisions requiring the Secretary to adjust or terminate the national marketing quota in the event of a national emergency or material change in the demand for wheat for provisions which had required the Secretary to cause an immediate investigation to be made to determine whether termination or increase in the quota was necessary in order to meet such emergency or increase in demand, and struck out provisions requiring the Secretary to proclaim such findings and the amount of any increase, with any such increase to be based on a uniform percentage. See Effective and Termination Dates of 1985 Amendment note below.
+Subsec. (c). Pub. L. 99–198 amended subsec. (c) generally, temporarily substituting provisions requiring the Secretary to adjust or terminate the national marketing quota in the event of a national emergency or material change in the demand for wheat for provisions which had required the Secretary to cause an immediate investigation to be made to determine whether termination or increase in the quota was necessary in order to meet such emergency or increase in demand,and struck out provisions requiring the Secretary to proclaim such findings and the amount of any increase, with any such increase to be based on a uniform percentage. See Effective and Termination Dates of 1985 Amendment note below.
 
 Subsec. (d). Pub. L. 99–198 amended section generally, temporarily striking out subsec. (d) which provided for farm marketing quotas for wheat crops planted in calendar years 1969–1970. See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -66,7 +66,7 @@ Section inapplicable to 1982 through 1985 crops of wheat, see section 303 of Pub
 
 Section inapplicable to 1978 through 1981 crops of wheat, see section 404 of Pub. L. 95–113, set out as a note under section 1331 of this title.
 
-Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, §1(11), Aug. 10, 1973,87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, §404(1), Nov. 30, 1970, 84 Stat. 1366, as amended by Pub. L. 93–86, §1(11), Aug. 10, 1973, 87 Stat. 229, provided that this section is not applicable to 1971 through 1977 crops of wheat.
 
 #### 1965 Crop National Marketing Quota and Crop Acreage Allotment
 

@@ -12,7 +12,7 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 &emsp;(4) the country or international organization is otherwise eligible to purchase or lease defense articles or defense services.
 
-> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, orother implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
+> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consentunder paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
 
 #### (b) Necessity of consent by President
 
@@ -94,7 +94,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 (4) This subsection shall not apply—
 
-&emsp;(A) to transfers of maintenance, repair, or overhaul defense services, or of the repair parts or other defense articles used in furnishing such services, if the transfer will not result in any increase, relative to the original specifications, in the military capability ofthe defense articles and services to be maintained, repaired, or overhauled;
+&emsp;(A) to transfers of maintenance, repair, or overhaul defense services, or of the repair parts or other defense articles used in furnishing such services, if the transfer will not result in any increase, relative to the original specifications, in the military capability of the defense articles and services to be maintained, repaired, or overhauled;
 
 &emsp;(B) to temporary transfers of defense articles for the sole purpose of receiving maintenance, repair, or overhaul; or
 
@@ -218,7 +218,31 @@ Section 203(a) of Pub. L. 94–329 provided that the amendment made by that sect
 
 #### Delegation of Functions
 
-Functions of President under this section, except subsecs. (a)(1), (b), (c)(3), (4), and (f), delegated to Secretaryof State, with Secretary authorized to make certain findings under subsec. (a)(1) in implementing functions delegated under subsecs. (a) and (d), by section 1(a) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section, except subsecs. (a)(1), (b), (c)(3), (4), and (f), delegated to Secretary of State, with Secretary authorized to make certain findings under subsec. (a)(1) in implementing functions delegated under subsecs. (a) and (d), by section 1(a) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+
+#### Reporting Requirements
+
+Pub. L. 105–277, div. A, §101(d) \[title V, §594\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–215, provided that:
+
+“(a)
+
+Notification.—No less than 15 days prior to the export to any country identified pursuant to subparagraph (C) \[(c)\] of any lethal defense article or service in the amount of $14,000,000 or less, the President shall provide a detailed notification to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations of the House of Representatives.
+
+“(b)
+
+Content of Notification.—A detailed notification transmitted pursuant to subparagraph (a) shall include the same type and quantity of information required of a notification submitted pursuant to section 36(b) of the Arms Export Control Act (22 U.S.C. 2776(b)).
+
+“(c)
+
+Countries Defined.—This section shall apply to any country that is—
+
+&emsp;“(1) identified in section 521 of the annual appropriations Act for Foreign Operations, Export Financing, and Related Programs \[Pub. L. 105–277, 112 Stat. 2681–176\], or a comparable provision in a subsequent appropriations Act; or
+
+&emsp;“(2) currently ineligible, in whole or in part, under an annual appropriations Act to receive funds for International Military Education and Training or under the Foreign Military Financing Program, excluding high-income countries as defined pursuant to section 546(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347e(b)\].
+
+“(d)
+
+Exclusions.—Information reportable under title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] is excluded from the requirements of this section.”
 
 #### Eligibility of Baltic States for Nonlethal Defense Articles
 

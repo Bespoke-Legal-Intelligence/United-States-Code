@@ -2,7 +2,7 @@
 
 The Secretary of Health and Human Services is also authorized to make such other regulations as he deems desirable to carry out the provisions of this subchapter.
 
-(Aug. 5, 1954, ch. 658, §3, 68 Stat. 674; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(Aug. 5, 1954, ch. 658, §3, 68 Stat. 674; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Change of Name
 

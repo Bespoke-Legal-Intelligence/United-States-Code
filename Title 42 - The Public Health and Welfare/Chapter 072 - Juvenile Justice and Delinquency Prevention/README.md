@@ -382,12 +382,7 @@ I74subpart i—gang-free schools and communities
 | (a) | Establishment of priorities and criteria; publication in Federal Register. |
 | (b) | Competitive selection process for grant or contract exceeding $50,000. |
 | (c) | Multiple grants or contracts to same grantee or contractor. |
-| [5776a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776a%20-%20Missing%20and%20Exploited%20Children%27s%20Task%20Force.md) | Missing and Exploited Children's Task Force. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Support. |
-| (d) | Purpose. |
-| (e) | Cross-designation of Task Force members. |
+| [5776a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93314%2C%20title%20VII%2C%20%C2%A7703%28g%29%2C%20Oct.%2030%2C%201998%2C%20112%20Stat.%202989.md) | Repealed. |
 | [5777\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005777%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Evaluation. |

@@ -38,7 +38,7 @@
 
 #### (3) Bond
 
-&emsp;An alien permitted to depart voluntarily under this subsection shall be required to post a voluntary departure bond, in an amount necessary to ensure that the alien will depart, to be surrendered upon proof that the alien has departed the United States within the time specified.
+&emsp;An alien permitted to depart voluntarily under this subsection shall be required to posta voluntary departure bond, in an amount necessary to ensure that the alien will depart, to be surrendered upon proof that the alien has departed the United States within the time specified.
 
 #### (c) Aliens not eligible
 
@@ -56,7 +56,7 @@ The Attorney General may by regulation limit eligibility for voluntary departure
 
 No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b) of this section, nor shall any court order a stay of an alien's removal pending consideration of any claim with respect to voluntary departure.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240B, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §304(a)(3), 110 Stat. 3009–596.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240B, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–596.)
 
 #### Effective Date
 

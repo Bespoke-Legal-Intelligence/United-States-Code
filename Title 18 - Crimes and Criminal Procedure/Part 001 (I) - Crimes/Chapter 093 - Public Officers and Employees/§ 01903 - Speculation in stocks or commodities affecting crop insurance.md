@@ -2,7 +2,7 @@
 
 Whoever, while acting in any official capacity in the administration of any Act of Congress relating to crop insurance or to the Federal Crop Insurance Corporation speculates in any agricultural commodity or product thereof, to which such enactments apply, or in contracts relating thereto, or in the stock or membership interests of any association or corporation engaged in handling, processing, or disposing of any such commodity or product, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 790; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

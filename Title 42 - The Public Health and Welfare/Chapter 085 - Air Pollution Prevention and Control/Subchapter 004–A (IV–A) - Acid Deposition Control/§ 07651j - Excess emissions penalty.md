@@ -6,7 +6,7 @@ The owner or operator of any unit or process source subject to the requirements 
 
 #### (b) Excess emissions offset
 
-The owner or operator of any affected source that emits sulfur dioxide during any calendar year in excess of the unit's emissions limitation requirement or of the allowances held for theunit for the calendar year, shall be liable to offset the excess emissions by an equal tonnage amount in the following calendar year, or such longer period as the Administrator may prescribe. The owner or operator of the source shall, within sixty days after the end of the year in which the excess emissions occured,<sup>3</sup> submit to the Administrator, and to the State in which the source is located, a proposed plan to achieve the required offsets. Upon approval of the proposed plan by the Administrator, as submitted, modified or conditioned, the plan shall be deemed at a condition of the operating permit for the unit without further review or revision of the permit. The Administrator shall also deduct allowances equal to the excess tonnage from those allocated for the source for the calendar year, or succeeding years during which offsets are required, following the year in which the excess emissions occurred.
+The owner or operator of any affected source that emits sulfur dioxide during any calendar year in excess of the unit's emissions limitation requirement or of the allowances held for the unit for the calendar year, shall be liable to offset the excess emissions by an equal tonnage amount in the following calendar year, or such longer period as the Administrator may prescribe. The owner or operator of the source shall, within sixty days after the end of the year in which the excess emissions occured,<sup>3</sup> submit to the Administrator, and to the State in which the source is located, a proposed plan to achieve the required offsets. Upon approval of the proposed plan by the Administrator, as submitted, modified or conditioned, the plan shall be deemed at a condition of the operating permit for the unit without further review or revision of the permit. The Administrator shall also deduct allowances equal to the excess tonnage from those allocated for the source for the calendar year, or succeeding years during which offsets are required, following the year in which the excess emissions occurred.
 
 #### (c) Penalty adjustment
 
@@ -20,11 +20,11 @@ It shall be unlawful for the owner or operator of any source liable for a penalt
 
 Nothing in this subchapter shall limit or otherwise affect the application of section 7413, 7414, 7420, or 7604 of this title except as otherwise explicitly provided in this subchapter.
 
-(July 14, 1955, ch. 360, title IV, §411, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2623.)
+(July 14, 1955, ch. 360, title IV, §411, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2623.)
 
 #### References in Text
 
-The Miscellaneous Receipts Act, referred to in subsec. (a), is not a recognized popular name for an act. For provisions relating to deposit of monies, see section 3302 of Title 31, Money and Finance.
+The Miscellaneous Receipts Act, referred to in subsec. (a), is not a recognized popular name for an act.For provisions relating to deposit of monies, see section 3302 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

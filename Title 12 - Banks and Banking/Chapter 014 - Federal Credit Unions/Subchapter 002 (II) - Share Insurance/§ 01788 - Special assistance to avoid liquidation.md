@@ -52,5 +52,5 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1783, 1787 of this title.
+This section is referred to in sections 1783, 1787, 1790d of this title.
 

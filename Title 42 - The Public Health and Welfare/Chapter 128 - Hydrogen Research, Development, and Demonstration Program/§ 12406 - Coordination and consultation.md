@@ -6,7 +6,7 @@ The Secretary shall have overall management responsibility for carrying out prog
 
 &emsp;(1) shall use the expertise of the National Aeronautics and Space Administration and the Department of Transportation; and
 
-&emsp;(2) may use the expertise of any other Federal agency in accordance with subsection (b) of this section in carrying out any activities under this chapter,<sup>1</sup> to the extent that the Secretary determines that any such agency has capabilities which would allow such agency to contribute to the purpose of this chapter.
+&emsp;(2) may use the expertise of any other Federal agency in accordance with subsection (b) of this section in carrying out any activities under this chapter,<sup>1</sup> to the extent that the Secretary determines that any such agencyhas capabilities which would allow such agency to contribute to the purpose of this chapter.
 
 #### (b) Assistance
 

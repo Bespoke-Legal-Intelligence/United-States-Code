@@ -92,7 +92,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(iii) pursuant to the written authorization of such person, the records and information pertaining to such person's diagnosis, treatment, and related services described in paragraph (1)(I).
 
-&emsp;(D) Each program and facility should post a notice listing and describing, in language andterms appropriate to the ability of the persons to whom such notice is addressed to understand, the rights described in this section of all persons admitted to such program or facility. Each such notice should conform to the format and content for such notices, and should be posted in all appropriate locations.
+&emsp;(D) Each program and facility should post a notice listing and describing, in language and terms appropriate to the ability of the persons to whom such notice is addressed to understand, the rights described in this section of all persons admitted to such program or facility. Each such notice should conform to the format and content for such notices, and should be posted in all appropriate locations.
 
 &emsp;(4)(A) In the case of a person adjudicated by a court of competent jurisdiction as being incompetent to exercise the right to consent to treatment or experimentation described in subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), such right may be exercised or such authorization may be provided by the individual appointed by such court as such person's guardian or representative for the purpose of exercising such right or such authorization.
 

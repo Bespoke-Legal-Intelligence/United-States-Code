@@ -16,7 +16,7 @@
 
 (b) A member of the armed forces who is not a member of a regular component shall be credited, for the purposes of this chapter, with the number of years of service that he would count if he were computing his years of service under section 12733 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Nov. 2, 1966, Pub. L. 89–718, §8, 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, §§501(16), 511(42), 94 Stat. 2908, 2923; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(6), 100 Stat. 3992; Apr. 21, 1987, Pub. L. 100–26, §7(j)(3), 101 Stat. 283; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1501(c)(13), 110 Stat. 499.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 89–718, §8, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §§501(16), 511(42), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 99–661, div. A, title XIII, §1343(a)(6), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, §7(j)(3), Apr. 21, 1987, 101 Stat. 283; Pub. L. 104–106, div. A, title XV, §1501(c)(13), Feb. 10, 1996, 110 Stat. 499.)
 
 Historical and Revision Notes
 

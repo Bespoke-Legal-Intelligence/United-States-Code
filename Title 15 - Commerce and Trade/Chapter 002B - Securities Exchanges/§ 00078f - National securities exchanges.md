@@ -2,7 +2,7 @@
 
 #### (a) Registration; application
 
-An exchange may be registered as a national securities exchange under the terms and conditions hereinafter provided in this section and in accordance with the provisions of section 78s(a) of this title, by filing with the Commission an application for registration in such form as theCommission, by rule, may prescribe containing the rules of the exchange and such other information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+An exchange may be registered as a national securities exchange under the terms and conditions hereinafter provided in this section and in accordance with the provisions of section 78s(a) of this title, by filing with the Commission an application for registration in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (b) Determination by Commission requisite to registration of applicant as a national securities exchange
 
@@ -22,7 +22,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(7) The rules of the exchange are in accordance with the provisions of subsection (d) of this section, and in general, provide a fair procedure for the disciplining of members and persons associated with members, the denial of membership to any person seeking membership therein, the barring of any person from becoming associated with a member thereof, and the prohibition or limitation by the exchange of any person with respect to access to services offered by the exchange or a member thereof.
 
-&emsp;(8) The rules of the exchange do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter.
+&emsp;(8) The rules of the exchange do not impose any burden on competition not necessary orappropriate in furtherance of the purposes of this chapter.
 
 &emsp;(9) The rules of the exchange prohibit the listing of any security issued in a limited partnership rollup transaction (as such term is defined in paragraphs (4) and (5) of section 78n(h) of this title), unless such transaction was conducted in accordance with procedures designed to protect the rights of limited partners, including—
 
@@ -44,7 +44,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;&emsp;(D) restrictions on the conversion of contingent interests or fees into non-contingent interests or fees and restrictions on the receipt of a non-contingent equity interest in exchange for fees for services which have not yet been provided.
 
-> &emsp;As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailed to investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by theexchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
+> &emsp;As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailed to investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the exchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
 
 #### (c) Denial of membership in national exchanges; denial of association with member; conditions; limitation of membership
 
@@ -80,7 +80,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(A) permit a national securities exchange, by rule, to impose a reasonable schedule or fix reasonable rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange prior to November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees are in the public interest; and
 
-&emsp;(B) permit a national securities exchange, by rule, to impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange after November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees (i) are reasonable in relation to the costs of providing the service for which such fees are charged (and the Commission publishes the standards employed in adjudging reasonableness) and (ii) do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, taking into consideration the competitive effects of permitting such schedule or fixed rates weighed against the competitive effects of other lawful actions which the Commission is authorized to take under this chapter.
+&emsp;(B) permit a national securities exchange, by rule, to impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effectingtransactions on such exchange after November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees (i) are reasonable in relation to the costs of providing the service for which such fees are charged (and the Commission publishes the standards employed in adjudging reasonableness) and (ii) do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, taking into consideration the competitive effects of permitting such schedule or fixed rates weighed against the competitive effects of other lawful actions which the Commission is authorized to take under this chapter.
 
 (2) Notwithstanding the provisions of section 78s(c) of this title, the Commission, by rule, may abrogate any exchange rule which imposes a schedule or fixes rates of commissions, allowances, discounts, or other fees, if the Commission determines that such schedule or fixed rates are no longer reasonable, in the public interest, or necessary to accomplish the purposes of this chapter.
 
@@ -88,7 +88,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 (B) The Commission shall prescribe rules and make rulings concerning any proceeding in accordance with subparagraph (A) of this paragraph designed to avoid unnecessary costs or delay. Such rules or rulings may (i) impose reasonable time limits on each interested person's oral presentations, and (ii) require any cross-examination to which a person may be entitled under subparagraph (A) of this paragraph to be conducted by the Commission on behalf of that person in such manner as the Commission determines to be appropriate and required for full disclosure and proper resolution of disputed issues of material fact.
 
-(C)(i) If any class of persons, the members of which are entitled to conduct (or have conducted) cross-examination under subparagraphs\(A) and (B) of this paragraph and which have, in the view of the Commission, the same or similar interests in the proceeding, cannot agree upon a single representative of such interests for purposes of cross-examination, the Commission may make rules and rulings specifying the manner in which such interests shall be represented and such cross-examination conducted.
+(C)(i) If any class of persons, the members of which are entitled to conduct (or have conducted) cross-examination under subparagraphs (A) and (B) of this paragraph and which have, in the view of the Commission, the same or similar interests in the proceeding, cannot agree upon a single representative of such interests for purposes of cross-examination, the Commission may make rules and rulings specifying the manner in which such interests shall be represented and such cross-examination conducted.
 
 (ii) No member of any class of persons with respect to which the Commission has specified the manner in which its interests shall be represented pursuant to clause (i) of this subparagraph shall be denied, pursuant to such clause (i), the opportunity to conduct (or have conducted) cross-examination as to issues affecting his particular interests if he satisfies the Commission that he has made a reasonable and good faith effort to reach agreement upon group representation and there are substantial and relevant issues which would not be presented adequately by group representation.
 
@@ -112,7 +112,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 > to comply with such rules of such exchange as the Commission may specify.
 
-(June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; June 4, 1975, Pub. L. 94–29, §4, 89 Stat. 104; Dec. 4, 1987, Pub. L. 100–181, title III, §§309–312, 101 Stat. 1255; Dec. 17, 1993, Pub. L. 103–202, title III, §303(b), 107 Stat. 2365.)
+(June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; Pub. L. 94–29, §4, June 4, 1975, 89 Stat. 104; Pub. L. 100–181, title III, §§309–312, Dec. 4, 1987, 101 Stat. 1255; Pub. L. 103–202, title III, §303(b), Dec. 17, 1993, 107 Stat. 2365.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Review of filings prior to effective date.—Prior to the effective date of regu
 
 “(b)
 
-Effect on Existing Authority.—The amendments made by this title \[amending this section andsections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
+Effect on Existing Authority.—The amendments made by this title \[amending this section and sections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
 
 #### Effective Date of 1975 Amendment
 

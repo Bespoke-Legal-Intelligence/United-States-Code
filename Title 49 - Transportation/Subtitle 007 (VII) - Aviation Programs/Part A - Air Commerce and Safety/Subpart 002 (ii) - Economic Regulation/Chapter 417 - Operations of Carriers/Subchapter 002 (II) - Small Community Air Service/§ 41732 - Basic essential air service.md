@@ -18,7 +18,7 @@ Minimum Requirements.—Basic essential air service shall include at least the f
 
 &emsp;(2) flights at reasonable times considering the needs of passengers with connecting flights at the airport and at prices that are not excessive compared to the generally prevailing prices of other air carriers for like service between similar places.
 
-&emsp;(3) for a place not in Alaska, service provided in an aircraft with an effective capacityof at least 15 passengers if the average daily boardings at the place in any calendar year from 1976-1986 were more than 11 passengers unless—
+&emsp;(3) for a place not in Alaska, service provided in an aircraft with an effective capacity of at least 15 passengers if the average daily boardings at the place in any calendar year from 1976-1986 were more than 11 passengers unless—
 
 &emsp;&emsp;(A) that level-of-service requirement would require paying compensation in a fiscal year under section 41733(d) or 41734(d) or (e) of this title for the place when compensation otherwise would not have been paid for that place in that year; or
 

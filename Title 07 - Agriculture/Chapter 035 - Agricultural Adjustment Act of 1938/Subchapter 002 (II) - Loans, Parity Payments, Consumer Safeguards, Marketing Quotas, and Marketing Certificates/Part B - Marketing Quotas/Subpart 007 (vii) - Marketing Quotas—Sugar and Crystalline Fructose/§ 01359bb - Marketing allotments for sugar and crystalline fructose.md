@@ -32,7 +32,7 @@
 
 #### (c) Crystalline fructose allotments
 
-For any fiscal year in which the Secretary establishes allotments for the marketing of sugarunder section 1359cc of this title, the Secretary shall establish for that year appropriate allotments for the marketing by manufacturers of crystalline fructose manufactured from corn, at a total level not to exceed the equivalent of 200,000 tons of sugar, raw value, during the fiscal year, in a manner that is fair, efficient, and equitable to manufacturers.
+For any fiscal year in which the Secretary establishes allotments for the marketing of sugar under section 1359cc of this title, the Secretary shall establish for that year appropriate allotments for the marketing by manufacturers of crystalline fructose manufactured from corn, at a total level not to exceed the equivalent of 200,000 tons of sugar, raw value, during the fiscal year, in a manner that is fair, efficient, and equitable to manufacturers.
 
 #### (d) Prohibitions
 
@@ -52,7 +52,7 @@ For any fiscal year in which the Secretary establishes allotments for the market
 
 &emsp;For purposes of this subpart, the term “market” shall mean to sell or otherwise dispose of in commerce in the United States (including, with respect to any integrated processor and refiner, the movement of raw cane sugar into the refining process).
 
-(Feb. 16, 1938, ch. 30, title III, §359b, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3480; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(d), 105 Stat. 1831; Aug. 10, 1993, Pub. L. 103–66, title I, §1107(b), 107 Stat. 324.)
+(Feb. 16, 1938, ch. 30, title III, §359b, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3480; amended Pub. L. 102–237, title I, §111(d), Dec. 13, 1991, 105 Stat. 1831; Pub. L. 103–66, title I, §1107(b), Aug. 10, 1993, 107 Stat. 324.)
 
 #### Amendments
 

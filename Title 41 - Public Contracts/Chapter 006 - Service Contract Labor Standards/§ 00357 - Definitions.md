@@ -18,7 +18,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (d), is act Aug. 7
 
 #### Amendments
 
-1976—Subsec. (b). Pub. L. 94–489 substituted provision defining service employees to include all employees, but excluding bona fide executive, administrative, and professional employees, for provision defining service employees as guards, watchmen, any person engaged ina recognized trade or craft, or in unskilled, semiskilled, or skilled manual labor occupations; and any other employee including a foreman or supervisor in a position having trade, craft, or laboring experience as the paramount requirement.
+1976—Subsec. (b). Pub. L. 94–489 substituted provision defining service employees to include all employees, but excluding bona fide executive, administrative, and professional employees, for provision defining service employees as guards, watchmen, any person engaged in a recognized trade or craft, or in unskilled, semiskilled, or skilled manual labor occupations; and any other employee including a foreman or supervisor in a position having trade, craft, or laboring experience as the paramount requirement.
 
 1973—Subsec. (d). Pub. L. 93–57 defined “United States” to include Canton Island.
 

@@ -20,7 +20,7 @@ If CEMS data or data from an alternative monitoring system approved by the Admin
 
 It shall be unlawful for the owner or operator of any source subject to this subchapter to operate a source without complying with the requirements of this section, and any regulations implementing this section.
 
-(July 14, 1955, ch. 360, title IV, §412, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2624.)
+(July 14, 1955, ch. 360, title IV, §412, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2624.)
 
 #### Information Gathering on Greenhouse Gases Contributing to Global Climate Change
 

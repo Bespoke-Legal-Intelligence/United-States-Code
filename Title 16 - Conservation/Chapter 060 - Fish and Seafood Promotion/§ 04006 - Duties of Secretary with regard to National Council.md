@@ -16,7 +16,7 @@ The Secretary shall—
 
 #### (b) Withdrawal of funds
 
-The Secretary shall make withdrawals of sums from the Fund under this section at the request of the National Council, unless the Secretary determines that the purposes for which such sums are requested are not reasonably likely to further the purposes and policies of this chapter.
+The Secretary shall make withdrawals of sums from the Fund under this section at the requestof the National Council, unless the Secretary determines that the purposes for which such sums are requested are not reasonably likely to further the purposes and policies of this chapter.
 
 (Pub. L. 99–659, title II, §207, Nov. 14, 1986, 100 Stat. 3719; Pub. L. 101–627, title VII, §704(c), Nov. 28, 1990, 104 Stat. 4464.)
 

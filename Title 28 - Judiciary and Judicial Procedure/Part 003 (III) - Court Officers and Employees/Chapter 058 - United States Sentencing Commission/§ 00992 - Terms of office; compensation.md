@@ -20,7 +20,7 @@
 
 &emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress that commences after the date on which the member's term expired.
 
-(c) The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms of office at the annual rate at which judges of the United States courts of appeals are compensated. The voting members of the Commission, other than the Chair and Vice Chairs, shall hold full-time positions until the end of the first six years after the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts of appeals are compensated. Thereafter, the voting members of the Commission, other than the Chair and Vice Chairs,,<sup>1</sup> shall hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals are compensated. A Federal judge may serve as a member of the Commission without resigning the judge's appointment as a Federal judge.
+(c) The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms of office at the annual rate at which judges of the United States courts of appeals are compensated. The votingmembers of the Commission, other than the Chair and Vice Chairs, shall hold full-time positions until the end of the first six years after the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts of appeals are compensated. Thereafter, the voting members of the Commission, other than the Chair and Vice Chairs,,<sup>1</sup> shall hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals are compensated. A Federal judge may serve as a member of the Commission without resigning the judge's appointment as a Federal judge.
 
 (d) Sections 44(c) and 134(b) of this title (relating to the residence of judges) do not apply to any judge holding a full-time position on the Commission under subsection (c) of this section.
 
@@ -32,13 +32,13 @@ Section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, referred to in su
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §280005(c)(1), substituted “Chair” for “Chairman”.
+1994—Subsec. (a)(1). Pub. L. 103–322, §280005(c)(1), substituted “Chair” for “Chairman”.
 
 Subsec. (c). Pub. L. 103–322, §280005(b), (c)(3), amended first sentence generally, substituting “The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms” for “The Chairman of the Commission shall hold a full-time position and shall be compensated during the term”, in second sentence, substituted “Chair and Vice Chairs” for “Chairman”, in third sentence, substituted “Chair and Vice Chairs,” for “Chairman”, and in last sentence, substituted “the judge's appointment” for “his appointment”.
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–349 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No voting member may serve more than two full terms. A voting member appointed to fill a vacancy that occurs before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term.”
+1992—Subsec. (b). Pub. L. 102–349 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No voting member may serve more than two full terms. A voting member appointed to fill a vacancy that occurs before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term.”
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–646, §4, substituted “section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984” for “section 225(a)(1)(B)(ii) of the Sentencing Reform Act of 1983”.
+1986—Subsec. (c). Pub. L. 99–646, §4, substituted “section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984” for “section 225(a)(1)(B)(ii) of the Sentencing Reform Act of 1983”.
 
 Subsec. (d). Pub. L. 99–646, §6(a), added subsec. (d).
 

@@ -40,7 +40,7 @@ To be eligible to receive a grant under subsection (a) of this section, an agenc
 
 &emsp;(4) information demonstrating financial, in-kind, or other support available to the applicant from State or local governments, or from private resources;
 
-&emsp;(5) an assurance that the agency will participate in the development of the comprehensivehousing affordability strategy under section 12705 of this title and seek funding for supportive services under the Department of Housing and Urban Development or the Farmers Home Administration;
+&emsp;(5) an assurance that the agency will participate in the development of the comprehensive housing affordability strategy under section 12705 of this title and seek funding for supportive services under the Department of Housing and Urban Development or the Farmers Home Administration;
 
 &emsp;(6) an assurance that the agency will target services to low-income minority older individuals and conduct outreach;
 

@@ -38,7 +38,7 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 &emsp;Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
 
-(July 1, 1944, ch. 373, title III, §338F, as added Nov. 16, 1990, Pub. L. 101–597, title II, §204, 104 Stat. 3027.)
+(July 1, 1944, ch. 373, title III, §338F, as added Pub. L. 101–597, title II, §204, Nov. 16, 1990, 104 Stat. 3027.)
 
 #### Prior Provisions
 

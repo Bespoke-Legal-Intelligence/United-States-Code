@@ -8,6 +8,10 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–736, provided that: “This title \[enacting section 231 of this title, amending sections 223 and 230 of this title, and enacting provisions set out as notes under sections 223 and 231 of this title\] may be cited as the ‘Child Online Protection Act’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–104, §1(a), Feb. 8, 1996, 110 Stat. 56, provided that: “This Act \[enacting sections 160, 161, 222, 230, 251 to 261, 271 to 276, 336, 363, 549, 560, 561, 571 to 573, 613, and 614 of this title and section 79z–5c of Title 15, Commerce and Trade, amending sections 151, 153 to 155, 204, 208, 214, 220, 221, 223 to 225, 228, 302a, 303, 305, 307 to 310, 312, 319, 330, 332, 360, 382, 385, 402, 522, 531 to 534, 537, 541 to 544a, 548, 552, 556, 557, 559, and 605 of this title, sections 18, 79, 79z–6, and 5714 of Title 15, and sections 1462, 1465, and 2422 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 151 to 153, 156, 157, 204, 214, 223, 228, 303, 308, 332, 534, 543, and 561 of this title and section 1462 of Title 18\] may be cited as the ‘Telecommunications Act of 1996’.”
@@ -56,13 +60,13 @@ Pub. L. 97–410, §1, Jan. 3, 1983, 96 Stat. 2043, provided: “That this Act \
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: “This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and 605 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the ‘Communications Amendments Act of 1982’.”
+Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: “This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and605 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the ‘Communications Amendments Act of 1982’.”
 
 #### Short Title of 1981 Amendments
 
 Pub. L. 97–130, §1, Dec 29, 1981, 95 Stat. 1687, provided that: “This Act \[amending section 222 of this title and section 1017 of Title 45, Railroads, and enacting provisions set out as notes under section 222 of this title and section 1017 of Title 45\] may be referred to as the ‘Record Carrier Competition Act of 1981’.”
 
-Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1\(§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amending sections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
+Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: “This chapter \[chapter 1 (§§1221–1234) of subtitle B of title XII of Pub. L. 97–35, enacting sections 399a and 399b of this title, amending sections 391, 392, 396, 397, and 399 of this title, and enacting provisions set out as notes under section 396 of this title\] may be cited as the ‘Public Broadcasting Amendments Act of 1981’.”
 
 #### Short Title of 1978 Amendments
 

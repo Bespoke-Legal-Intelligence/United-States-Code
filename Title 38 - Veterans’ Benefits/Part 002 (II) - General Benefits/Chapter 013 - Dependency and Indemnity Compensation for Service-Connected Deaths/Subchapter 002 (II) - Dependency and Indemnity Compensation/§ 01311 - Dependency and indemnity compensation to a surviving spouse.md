@@ -114,7 +114,17 @@ $850
 
 (d) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $104 if the surviving spouse is, by reason of disability, permanently housebound but does not qualify for the aid and attendance allowance under subsection (c) of this section. For the purposes of this subsection, the requirement of “permanently housebound” will be considered to have been met when the surviving spouse is substantially confined to such surviving spouse's home (ward or clinical areas, if institutionalized) or immediate premises by reason of a disability or disabilities which it is reasonably certain will remain throughout such surviving spouse's lifetime.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §411; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–134, §1, Oct. 5, 1963, 77 Stat. 223; Pub. L. 91–24, §4(b), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §3, Oct. 27, 1969, 83 Stat. 144; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §1, Dec. 15, 1971, 85 Stat. 660; Pub. L. 92–455, §4, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–295, title II, §201, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §201, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title II, §201, Sept. 30, 1976, 90 Stat. 1375; Pub. L. 95–117, title II, §201, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title II, §201, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title II, §201, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title II, §201, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title II, §201, Oct. 17, 1981, 95 Stat. 1028; Pub. L. 97–253, title IV, §405(e), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§104, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §104, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §104, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §104, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §104, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–180, div. A, title XIII, §1314(d)\[(1)\], Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–227, title I, §104, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1104, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §104, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §5, Feb. 6, 1991, 105 Stat. 9; renumbered §1311 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §5, Nov. 12, 1991, 105 Stat. 986; Pub. L. 102–568, title I, §102(a), (b), Oct. 29, 1992, 106 Stat. 4321, 4322; Pub. L. 103–78, §4, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §5, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §5, Nov. 19, 1997, 111 Stat. 2156.)
+(e)(1) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of dependency and indemnity compensation to such person as the surviving spouse of the veteran if the remarriage is terminated by death, divorce, or annulment unless the Secretary determines that the divorce or annulment was secured through fraud or collusion.
+
+(2) If the surviving spouse of a veteran ceases living with another person and holding himself or herself out openly to the public as that person's spouse, the bar to granting that person dependency and indemnity compensation as the surviving spouse of the veteran shall not apply.
+
+(3) The first month of eligibility for payment of dependency and indemnity compensation to a surviving spouse by reason of this subsection shall be the later of the month after—
+
+&emsp;(A) the month of the termination of such remarriage, in the case of a surviving spouse described in paragraph (1); or
+
+&emsp;(B) the month of the cessation described in paragraph (2), in the case of a surviving spouse described in that paragraph.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §411; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566;Pub. L. 88–21, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–134, §1, Oct. 5, 1963, 77 Stat. 223; Pub. L. 91–24, §4(b), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §3, Oct. 27, 1969, 83 Stat. 144; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §1, Dec. 15, 1971, 85 Stat. 660; Pub. L. 92–455, §4, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–295, title II, §201, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §201, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title II, §201, Sept. 30, 1976, 90 Stat. 1375; Pub. L. 95–117, title II, §201, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title II, §201, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title II, §201, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title II, §201, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title II, §201, Oct. 17, 1981, 95 Stat. 1028; Pub. L. 97–253, title IV, §405(e), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§104, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §104, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §104, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §104, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §104, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–180, div. A, title XIII, §1314(d)\[(1)\], Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–227, title I, §104, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1104, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §104, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §5, Feb. 6, 1991, 105 Stat. 9; renumbered §1311 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §5, Nov. 12, 1991, 105 Stat. 986; Pub. L. 102–568, title I, §102(a), (b), Oct. 29, 1992, 106 Stat. 4321, 4322; Pub. L. 103–78, §4, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §5, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §5, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 105–178, title VIII, §8207(a), June 9, 1998, 112 Stat. 495.)
 
 #### References in Text
 
@@ -122,11 +132,13 @@ Section 402 of this title, referred to in footnotes 1 and 2 after table in subse
 
 #### Amendments
 
+1998—Subsec. (e). Pub. L. 105–178 added subsec. (e).
+
 1997—Subsec. (a)(1). Pub. L. 105–98, §5(a)(1), substituted “$850” for “$769”.
 
 Subsec. (a)(2). Pub. L. 105–98, §5(a)(2), substituted “$185” for “$169”.
 
-Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1 to W–4, and O–1 to O–10, substituted “section 402 of thistitle” for “section 1302 of this title” and “$1,044” for “$943” in footnote 1, and substituted “section 402 of this title” for “section 1302 of this title” and “$1,941” for “$1,753” in footnote 2.
+Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1 to W–4, and O–1 to O–10, substituted “section 402 of this title” for “section 1302 of this title” and “$1,044” for “$943” in footnote 1, and substituted “section 402 of this title” for “section 1302 of this title” and “$1,941” for “$1,753” in footnote 2.
 
 Subsec. (b). Pub. L. 105–98, §5(c), substituted “$215 for each such child.” for “$100 for each such child during fiscal year 1993, $150 for each such child during fiscal year 1994, and $200 for each such child thereafter.”
 
@@ -332,6 +344,10 @@ Subsec. (b). Pub. L. 88–21 substituted “$28” for “$25”.
 
 1961—Subsec. (d)(1). Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–178, title VIII, §8207(b), June 9, 1998, 112 Stat. 495, provided that: “No payment may be made byreason of section 1311(e) of title 38, United States Code, as added by subsection (a) \[amending this section\], for any month before October 1998.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–98 effective Dec. 1, 1997, see section 7 of Pub. L. 105–98, set out as a note under section 1114 of this title.
@@ -438,7 +454,7 @@ Section 405(e) of Pub. L. 97–253, cited as a credit to this section, was repea
 
 #### Savings Provision
 
-Section 13(a) of Pub. L. 88–132, Oct. 2, 1963, 77 Stat. 218, provided that: “The enactment of this Act \[see Short Title note under section 201 of Title 37, Pay and Allowances of the Uniformed Services\] does not reduce the rate of dependency and indemnity compensation under section 411 \[now 1311\] of title 38, United States Code, that any person was receiving on the day before the effective date of this Act \[Oct. 1, 1963\] or which thereafter becomes payable for that day by reason of a subsequent determination.”
+Section 13(a) of Pub. L. 88–132, Oct. 2, 1963, 77 Stat. 218, provided that: “The enactment of this Act \[seeShort Title note under section 201 of Title 37, Pay and Allowances of the Uniformed Services\] does not reduce the rate of dependency and indemnity compensation under section 411 \[now 1311\] of title 38, United States Code, that any person was receiving on the day before the effective date of this Act \[Oct. 1, 1963\] or which thereafter becomes payable for that day by reason of a subsequent determination.”
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 

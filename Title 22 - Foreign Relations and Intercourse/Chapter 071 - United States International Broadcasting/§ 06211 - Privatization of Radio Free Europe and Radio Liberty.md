@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-It is the sense of the Congress that, in furtherance of the objectives of section 6201 of thistitle, the funding of Radio Free Europe and Radio Liberty should be assumed by the private sector not later than December 31, 1999, and that the funding of Radio Free Europe and Radio Liberty Research Institute should be assumed by the private sector at the earliest possible time.
+It is the sense of the Congress that, in furtherance of the objectives of section 6201 of this title, the funding of Radio Free Europe and Radio Liberty should be assumed by the private sector not later than December 31, 1999, and that the funding of Radio Free Europe and Radio Liberty Research Institute should be assumed by the private sector at the earliest possible time.
 
 #### (b) Presidential submission
 
@@ -13,6 +13,10 @@ The President shall submit with his annual budget submission as provided for in 
 Not later than 120 days after April 30, 1994, the Board for International Broadcasting, or the Board, if established, shall submit to the appropriate congressional committees a report on the steps being taken to transfer RFE/RL Research Institute pursuant to subsection (a) of this section and shall provide periodic progress reports on such efforts until such transfer has been achieved.
 
 (Pub. L. 103–236, title III, §312, Apr. 30, 1994, 108 Stat. 444.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6544 of this title.
 
 <i><sup>1</sup></i><i> Section 6206 of this title does not relate to annual budget submissions.</i>
 

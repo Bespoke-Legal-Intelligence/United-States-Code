@@ -4,7 +4,7 @@
 
 (b) If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Aug. 11, 1916, ch. 313, pt. B, §18, as added Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 769; amended Oct. 21, 1976, Pub. L. 94–582, §20, 90 Stat. 2886.)
+(Aug. 11, 1916, ch. 313, pt. B, §18, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, §20, Oct. 21, 1976, 90 Stat. 2886.)
 
 #### Amendments
 

@@ -36,7 +36,7 @@ Each building constructed or altered by the General Services Administration or a
 
 #### (d) State and local government recommendations
 
-Appropriate officials of a State or a political subdivision of a State may make recommendations to the Administrator or the head of the Federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (a) and (b) of this section. Such officials may also make recommendations to the Administrator or the head of the Federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the Federal agency shall give due consideration to any such recommendations.
+Appropriate officials of a State or a political subdivision of a State may make recommendations to the Administrator or the head of the Federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (a) and (b)of this section. Such officials may also make recommendations to the Administrator or the head of the Federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the Federal agency shall give due consideration to any such recommendations.
 
 #### (e) Effect of noncompliance
 

@@ -18,7 +18,7 @@ The Congress therefore declares that, because of the special relationship betwee
 
 #### (d) Alternative operation through approved organizations
 
-Whenever the Secretary determines not to utilize Indian tribes, bands, or groups for the provision of employment and training services under this section, the Secretary shall, to the maximum extent feasible, enter into arrangementsfor the provision of such services with organizations which meet with the approval of the tribes, bands, or groups to be served.
+Whenever the Secretary determines not to utilize Indian tribes, bands, or groups for the provision of employment and training services under this section, the Secretary shall, to the maximum extent feasible, enter into arrangements for the provision of such services with organizations which meet with the approval of the tribes, bands, or groups to be served.
 
 #### (e) Monitoring of programs
 
@@ -44,7 +44,7 @@ The Secretary shall provide technical assistance as necessary to tribes, bands, 
 
 #### (j) Organizational unit responsible for administration
 
-(1) The Secretary shall designate a single organizational unit that shall have as its primary responsibility the administration of all Native American programs authorized under this chapter.
+(1) The Secretary shall designate a single organizational unit that shall have as its primaryresponsibility the administration of all Native American programs authorized under this chapter.
 
 (2) Such organizational unit shall—
 
@@ -102,9 +102,13 @@ The Secretary shall provide technical assistance as necessary to tribes, bands, 
 
 #### (<i>l</i>) Competition for grants; waiver; 2-year grant period
 
-The competition for grants under this section shall be conducted every 2 years, except that if a recipient of such a grant has performed satisfactorily under the terms of the existing grant agreement, the Secretary may waive the requirement for such competition on receipt from the recipient of a satisfactory 2-year program plan for the succeeding 2-year grant period.
+The competition for grants under this section shall be conducted every 2 years, except that if a recipient of such a grant has performed satisfactorily under the terms of the existing grant agreement, the Secretary may waive the requirement for such competition on receipt fromthe recipient of a satisfactory 2-year program plan for the succeeding 2-year grant period.
 
 (Pub. L. 97–300, title IV, §401, Oct. 13, 1982, 96 Stat. 1368; Pub. L. 97–404, §4(a), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 102–367, title IV, §401(a)–(d), Sept. 7, 1992, 106 Stat. 1074–1076.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 
@@ -132,5 +136,5 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1502, 1631, 1673, 1781, 1782a, 1782h, 1783, 1784a, 1784b of this title.
+This section is referred to in sections 1502, 1631, 1673, 1781, 1782a, 1782h, 1783, 1784a, 1784b, 2911 of this title.
 

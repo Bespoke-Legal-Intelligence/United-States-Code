@@ -1,6 +1,6 @@
 ### §5017. Secretary of the Navy: successors to duties
 
-If the Secretary of the Navy dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 of title 5, directs another person to perform those duties or until the absence or disability ceases:
+If the Secretary of the Navy dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 <sup>1</sup> of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
 &emsp;(1) The Under Secretary of the Navy.
 
@@ -14,6 +14,10 @@ If the Secretary of the Navy dies, resigns, is removed from office, is absent, o
 
 (Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1047; amended Pub. L. 103–337, div. A, title IX, §902(b), Oct. 5, 1994, 108 Stat. 2823.)
 
+#### References in Text
+
+Section 3347 of title 5, referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See section 3345 of Title 5, Government Organization and Employees.
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5036 of this title prior to enactment of Pub. L. 99–433.
@@ -24,7 +28,9 @@ Provisions similar to those in this section were contained in section 5036 of th
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3347 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3345 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

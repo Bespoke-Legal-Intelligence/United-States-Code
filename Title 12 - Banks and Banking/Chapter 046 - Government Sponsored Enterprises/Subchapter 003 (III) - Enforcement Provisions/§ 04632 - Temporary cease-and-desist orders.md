@@ -2,7 +2,7 @@
 
 #### (a) Grounds for issuance and scope
 
-Whenever the Director determines that any conduct or violation, or threatened conduct or violation, specified in the notice of charges served upon the enterprise, executive officer, or director pursuant to section 4631(a) or (b) of this title, or the continuation thereof, is likely—
+Whenever the Director determines that any conduct or violation, or threatened conduct orviolation, specified in the notice of charges served upon the enterprise, executive officer, or director pursuant to section 4631(a) or (b) of this title, or the continuation thereof, is likely—
 
 &emsp;(1) to cause insolvency,
 

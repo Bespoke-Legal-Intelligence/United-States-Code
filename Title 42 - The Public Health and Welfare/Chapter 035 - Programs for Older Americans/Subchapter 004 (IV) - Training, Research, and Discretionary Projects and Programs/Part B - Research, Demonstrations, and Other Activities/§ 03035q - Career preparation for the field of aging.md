@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Assistant Secretary shall make grants to institutions of higher education, historically Black colleges or universities, Hispanic Centers of Excellence in Applied Gerontology, and other educational institutions that serve the needs ofminority students, to provide education and training to prepare students for careers in the field of aging.
+The Assistant Secretary shall make grants to institutions of higher education, historically Black colleges or universities, Hispanic Centers of Excellence in Applied Gerontology, and other educational institutions that serve the needs of minority students, to provide education and training to prepare students for careers in the field of aging.
 
 #### (b) Definitions
 

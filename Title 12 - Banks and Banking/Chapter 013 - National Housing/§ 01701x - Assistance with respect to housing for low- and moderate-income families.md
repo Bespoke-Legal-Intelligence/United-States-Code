@@ -38,7 +38,7 @@
 
 #### (2) Program requirements
 
-&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and in accordance with the procedures, that the Secretary requires.
+&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and inaccordance with the procedures, that the Secretary requires.
 
 &emsp;(B) The homeownership counseling organizations receiving assistance under this subsection shall use the assistance only to provide homeownership counseling to eligible homeowners.
 
@@ -106,13 +106,9 @@
 
 &emsp;&emsp;&emsp;(ii) before the expiration of the 45-day period beginning on the date on which the failure referred to in such subparagraph occurs.
 
-#### (C) Exceptions
+#### (C) Notification
 
-&emsp;&emsp;Notification under subparagraph (A) shall not be required with respect to any loan—
-
-&emsp;&emsp;&emsp;(i) insured or guaranteed under chapter 37 of title 38; or
-
-&emsp;&emsp;&emsp;(ii) for which the eligible homeowner pays the amount overdue before the expiration of the 45-day period under subparagraph (B)(ii).
+&emsp;&emsp;Notification under subparagraph (A) shall not be required with respect to any loan for which the eligible homeowner pays the amount overdue before the expiration of the 45-day period under subparagraph (B)(ii).
 
 #### (D) Administration and compliance
 
@@ -156,7 +152,7 @@
 
 #### (9) Termination
 
-&emsp;The provisions of this subsection shall not be effective after September 30, 1994.
+&emsp;The provisions of this subsection shall not be effective after September 30, 2000.
 
 #### (d) Prepurchase and foreclosure-prevention counseling demonstration
 
@@ -266,7 +262,7 @@
 
 #### (8) Evaluation
 
-&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respect to each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General may require.
+&emsp;Each organization providing counseling under the demonstration program under this subsection shall maintain records with respectto each eligible homebuyer and eligible homeowner counseled and shall provide information with respect to such counseling as the Secretary or the Comptroller General may require.
 
 #### (9) Definitions
 
@@ -396,7 +392,7 @@
 
 &emsp;There are authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 1993 and $2,084,000 for 1994.
 
-(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830.)
+(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655.)
 
 #### References in Text
 
@@ -414,11 +410,19 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 
 #### Amendments
 
+1998—Subsec. (c)(5)(C). Pub. L. 105–276, §594(b), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notification under subparagraph (A) shall not be required with respect to any loan—
+
+&emsp;“(i) insured or guaranteed under chapter 37 of title 38; or
+
+&emsp;“(ii) for which the eligible homeowner pays the amount overdue before the expiration of the 45-day period under subparagraph (B)(ii).”
+
+Subsec. (c)(9). Pub. L. 105–276, §594(a), substituted “2000” for “1994”.
+
 1996—Subsec. (d)(5)(A). Pub. L. 104–316, §106(a)(2), substituted “(9)” for “(10)(K)” in introductory provisions.
 
 Subsec. (d)(8). Pub. L. 104–316, §106(a)(3), struck out “(for purposes of the study and report under paragraph (9))” before “may require”.
 
-Subsec. (d)(9) to (13). Pub. L. 104–316, §106(a)(1), (4), redesignated pars. (10) to (13) as (9) to (12), respectively, and struck out former par. (9) which related to GAO study and report on demonstration program.
+Subsec. (d)(9) to (13). Pub. L. 104–316, §106(a)(1), (4), redesignated pars. (10) to (13) as (9) to (12), respectively,and struck out former par. (9) which related to GAO study and report on demonstration program.
 
 1992—Subsec. (a)(3). Pub. L. 102–550, §162(a), substituted “except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992.” for “except that for such purposes there are authorized to be appropriated $3,600,000 for fiscal year 1991 and $3,700,000 for fiscal year 1992.”
 
@@ -436,7 +440,7 @@ In general.—Except as provided in subparagraph (C), if any eligible homeowner 
 
 Subsec. (c)(5)(D)(i). Pub. L. 102–550, §162(b)(6), inserted “, which shall be updated annually,” after “organizations”.
 
-Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “There is authorized to be appropriated to carry out this section $6,700,000 for fiscalyear 1991 and $7,000,000 for fiscal year 1992, of which amounts $2,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D).”
+Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “There is authorized to be appropriated to carry out this section $6,700,000 for fiscal year 1991 and $7,000,000 for fiscal year 1992, of which amounts $2,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D).”
 
 Subsec. (c)(9). Pub. L. 102–550, §162(b)(2), substituted “1994” for “1992”.
 
@@ -490,15 +494,19 @@ Subsec. (b)(1), (2). Pub. L. 93–383, §811(e), (f), inserted reference to publ
 
 Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted “section 1715z of this title or any other federally assisted program” for “any federally assisted program” in first sentence.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §594(c), Oct. 21, 1998, 112 Stat. 2656, provided that: “The amendments made by this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
 
 #### Regulations
 
-Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out the amendments made by subsection (d) \[amending this section\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
+Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out theamendments made by subsection (d) \[amending this section\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 sections 1472, 3535, 9816.
+This section is referred to in section 1715z–20 of this title; title 42 sections 1472, 3535, 9816.
 

@@ -15,7 +15,7 @@
 | 8621\. | Home energy grants. |
 | (a) | Authorization. |
 | (b) | Authorization of appropriations. |
-| (c) | Program year restrictions. |
+| (c) | Availability of appropriations. |
 | (d) | Authorization of appropriations for leveraged resources. |
 | (e) | Emergency funds. |
 | 8622\. | Definitions. |
@@ -24,9 +24,7 @@
 | (b) | Allotments to insular areas. |
 | (c) | Energy crisis intervention. |
 | (d) | Allotments to Indian tribes. |
-| (e) | Repealed. |
-| (f) | Optional transfer of funds to block grants for community service programs, preventive health services, etc. |
-| (g) | Allotment of emergency funds. |
+| (e) | Allotment of emergency funds. |
 | 8624\. | Applications and requirements. |
 | (a) | Form; assurances; public hearings. |
 | (b) | Certifications required for covered activities. |
@@ -58,14 +56,14 @@
 | (c) | Criteria. |
 | (d) | Focus. |
 | (e) | State plans. |
-| (g) | Cost or function. |
+| (f) | Cost or function. |
 | 8627\. | Withholding of funds. |
 | (a) | Improper utilization of funds; response to complaints respecting improprieties. |
 | (b) | Investigations; conduct, etc. |
 | (c) | Inspection of books, documents, etc. |
 | (d) | Request for information not readily available. |
 | 8628\. | Limitation on use of grants for construction. |
-| 8628a. | Technical assistance and training. |
+| 8628a. | Technical assistance, training, and compliance reviews. |
 | 8629\. | Studies and reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

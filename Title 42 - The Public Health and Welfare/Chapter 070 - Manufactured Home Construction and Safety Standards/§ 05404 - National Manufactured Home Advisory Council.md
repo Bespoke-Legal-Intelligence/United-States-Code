@@ -10,7 +10,7 @@ The Secretary shall, to the extent feasible, consult with the Advisory Council p
 
 #### (c) Compensation; per diem; travel expenses
 
-Any member of the National Manufactured Home Advisory Council who is appointed from outside the Federal Government may be compensated at a rate not to exceed $100 per diem (including travel-time) when engaged in the actual duties of the Advisory Council. Such members, while away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence as authorized by section 5703(b) <sup>1</sup> of title 5 for persons in the Government service employed intermittently.
+Any member of the National Manufactured Home Advisory Council who is appointed fromoutside the Federal Government may be compensated at a rate not to exceed $100 per diem (including travel-time) when engaged in the actual duties of the Advisory Council. Such members, while away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence as authorized by section 5703(b) <sup>1</sup> of title 5 for persons in the Government service employed intermittently.
 
 (Pub. L. 93–383, title VI, §605, Aug. 22, 1974, 88 Stat. 702; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641.)
 

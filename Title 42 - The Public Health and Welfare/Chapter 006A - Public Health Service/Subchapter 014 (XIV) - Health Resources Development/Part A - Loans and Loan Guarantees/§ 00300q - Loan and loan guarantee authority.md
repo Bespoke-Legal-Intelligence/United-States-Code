@@ -8,7 +8,7 @@
 
 &emsp;(B) the conversion of unneeded hospital services and facilities to needed health services and medical facilities, including outpatient medical facilities and facilities for long-term care;
 
-&emsp;(C) the renovation and modernization of medical facilities, particularly projects for the prevention or elimination of safety hazards, projects to avoid noncompliance with licensure or accreditation standards, or projects to replace obsolete facilities;
+&emsp;(C) the renovation and modernization of medical facilities, particularly projects for theprevention or elimination of safety hazards, projects to avoid noncompliance with licensure or accreditation standards, or projects to replace obsolete facilities;
 
 &emsp;(D) the construction of new outpatient medical facilities; and
 
@@ -36,7 +36,7 @@ The cumulative total of the principal of the loans outstanding at any time with 
 
 The Secretary, with the consent of the Secretary of Housing and Urban Development, shall obtain from the Department of Housing and Urban Development such assistance with respect to the administration of this part as will promote efficiency and economy thereof.
 
-(July 1, 1944, ch. 373, title XVI, §1601, formerly §1620, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2264; amended Apr. 21, 1976, Pub. L. 94–273, §2(21), 90 Stat. 376; Aug. 1, 1977, Pub. L. 95–83, title I, §106(x)(1), 91 Stat. 385; renumbered §1601 and amended Oct. 4, 1979, Pub. L. 96–79, title II, §§201(b)(1), 203(a)(1), (2), 93 Stat. 630, 635.)
+(July 1, 1944, ch. 373, title XVI, §1601, formerly §1620, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2264; amended Pub. L. 94–273, §2(21), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–83, title I, §106(x)(1), Aug. 1, 1977, 91 Stat. 385; renumbered §1601 and amended Pub. L. 96–79, title II, §§201(b)(1), 203(a)(1), (2), Oct. 4, 1979, 93 Stat. 630, 635.)
 
 #### Prior Provisions
 
@@ -46,7 +46,7 @@ A prior section 1601 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1
 
 1979—Subsec. (a). Pub. L. 96–79, §§201(b)(1), 203(a)(2), added par. (1); substituted reference to section 1602(d) for 1622(d), set out in text as “section 300q–2(d) of this title”; incorporated in par. (2) former subsec. (b) provisions made applicable for period ending Sept. 30, 1982, previously covering period beginning July 1, 1974, and ending Sept. 30, 1978, extended provisions to public entities, struck out existing condition that applications for assistance under subchapter be approved under former section 300<i>o</i>–3 of this title, substituted in subpar. (2)(B) provision for payment of amounts sufficient to reduce by not more than one half net effective interest otherwise payable on the loan for prior provision for amounts sufficient to reduce by 3 per centum per annum net effective interest rate on the loan, and struck out provision granting contractual right of holder of a guaranteed loan to receive from the United States such interest payments.
 
-Subsec. (b). Pub. L. 96–79, §201(b)(1), added subsec. (b) and incorporated existing provisions of subsec. (b) relating to loan guarantee authority for payment of principal and interest on loans for approved projects, theirduration, and payments for reduction of interest rate in subsec. (a)(2) of this section.
+Subsec. (b). Pub. L. 96–79, §201(b)(1), added subsec. (b) and incorporated existing provisions of subsec. (b) relating to loan guarantee authority for payment of principal and interest on loans for approved projects, their duration, and payments for reduction of interest rate in subsec. (a)(2) of this section.
 
 1977—Subsecs. (a), (b)(1). Pub. L. 95–83 substituted “September 30, 1978” for “September 30, 1977”.
 

@@ -4,7 +4,13 @@ For purposes of this chapter—
 
 &emsp;(1) the term “financial assistance” includes grants, contracts, and cooperative agreements;
 
-&emsp;(2) the term “high-speed rail” has the meaning given such term under section 511(n) of the Railroad Revitalization and Regulatory Reform Act of 1976;
+&emsp;(2) the term “high-speed rail” means all forms of nonhighway ground transportation that run on rails or electromagnetic guideways providing transportation service which is—
+
+&emsp;&emsp;(A) reasonably expected to reach sustained speeds of more than 125 miles per hour; and
+
+&emsp;&emsp;(B) made available to members of the general public as passengers,
+
+> &emsp;but does not include rapid transit operations within an urban area that are not connected to the general rail system of transportation;
 
 &emsp;(3) the term “publicly financed costs” means the costs funded after April 29, 1993, by Federal, State, and local governments;
 
@@ -12,11 +18,11 @@ For purposes of this chapter—
 
 &emsp;(5) the term “State” means any of the several States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States; and
 
-&emsp;(6) the term “United States private business” means a business entity organized under the laws of the United States, or of a State, and conducting substantial business operations in the United States.
+&emsp;(6) the term “United States private business” means a business entity organized underthe laws of the United States, or of a State, and conducting substantial business operations in the United States.
 
-(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618.)
+(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(b), June 9, 1998, 112 Stat. 470.)
 
-#### References in Text
+#### Amendments
 
-Section 511(n) of the Railroad Revitalization and Regulatory Reform Act of 1976, referred to in par. (2), is classified to section 831(n) of Title 45, Railroads.
+1998—Par. (2). Pub. L. 105–178 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘high-speed rail’ has the meaning given such term under section 511(n) of the Railroad Revitalization and Regulatory Reform Act of 1976;”.
 

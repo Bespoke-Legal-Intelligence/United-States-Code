@@ -1,12 +1,12 @@
 ### §8140. Members of the Reserve Officers’ Training Corps
 
-(a) Subject to the provisions of this section, this subchapter applies to a member of, or applicant for membership in, the Reserve Officers’ Training Corps of the Army, Navy, or Air Force who suffers an injury, disability, or death incurred in line of duty—
+(a) Subject to the provisions of this section, this subchapter applies to a member of, or applicant for membership in, the Reserve Officers’ Training Corps of the Army, Navy, or Air Force who suffers an injury, disability, or death incurred, or an illness contracted, in line of duty—
 
 &emsp;(1) while engaged in a flight or in flight instruction under chapter 103 of title 10; or
 
-&emsp;(2) while performing authorized travel to or from, or while attending, training or a practice cruise under chapter 103 of title 10.
+&emsp;(2) during the period of the member's attendance at training or a practice cruise under chapter 103 of title 10, United States Code, beginning when the authorized travel to the training or practice cruise begins and ending when authorized travel from the training or practice cruise ends.
 
-(b) For the purpose of this section, an injury is incurred in line of duty only if it is the proximate result of the performance of military training by the member concerned, or of his travel to or from that training, during the periods specified by subsection (a)(2) of this section. A member or applicant for membership who contracts a disease or illness which is the proximate result of the performance of training during the periods specified by subsection (a)(2) of this section is considered for the purpose of this section to have been injured in line of duty during that period. Subject to review by the Secretary of Labor, the Secretary of the military department concerned, under regulations prescribed by him, shall determine whether or not an injury, disease, or illness was incurred or contracted in line of duty and was the proximate result of the performance of military training by the member concerned or of his travel to or from that military training.
+(b) For the purpose of this section, an injury, disability, death, or illness of a member referred to in subsection (a) may be considered as incurred or contracted in line of duty only if the injury, disability, or death is incurred, or the illness is contracted, by the member during a period described in that subsection. Subject to review by the Secretary of Labor, the Secretary of the military department concerned (under regulations prescribed by that Secretary), shall determine whether an injury, disability, or death was incurred, or an illness was contracted, by a member in line of duty.
 
 (c) In computing the compensation payable under this section, the monthly pay received by the injured or deceased individual, in cash and kind, is deemed $150.
 
@@ -18,7 +18,7 @@
 
 (g) For purposes of this section, the term “applicant for membership” includes a student enrolled, during a semester or other enrollment term, in a course which is part of Reserve Officers’ Training Corps instruction at an educational institution.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 550; Pub. L. 100–456, div. A, title VI, §633(b), Sept. 29, 1988, 102 Stat. 1986.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 550; Pub. L. 100–456, div. A, title VI, §633(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 105–261, div. A, title VI, §655(a)–(c), Oct. 17, 1998, 112 Stat. 2053.)
 
 Historical and Revision Notes
 
@@ -46,6 +46,12 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–261, §655(c), inserted “, or an illness contracted,” after “death incurred” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 105–261, §655(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “while performing authorized travel to or from, or while attending, training or a practice cruise under chapter 103 of title 10.”
+
+Subsec. (b). Pub. L. 105–261, §655(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of this section, an injury is incurred in line of duty only if it is the proximate result of the performance of military training by the member concerned, or of his travel to or from that training, during the periods specified by subsection (a)(2) of this section. A member or applicant for membership who contracts a disease or illness which is the proximate result of the performance of training during the periods specified by subsection (a)(2) of this section is considered for the purpose of this section to have been injured in line of duty during that period. Subject to review by the Secretary of Labor, the Secretary of the military department concerned, under regulations prescribed by him, shall determine whether or not an injury, disease, or illness was incurred or contracted in line of duty and was the proximate result of the performance of military training by the member concerned or of his travel to or from that military training.”
+
 1988—Subsec. (a). Pub. L. 100–456, §633(b)(1)(A), substituted “who suffers an injury, disability, or death” for “who suffers disability or death from an injury” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 100–456, §633(b)(1)(B), struck out “field” before “training”.
@@ -54,13 +60,17 @@ Subsec. (f). Pub. L. 100–456, §633(b)(2), substituted “by a military depart
 
 Subsec. (g). Pub. L. 100–456, §633(b)(3), added subsec. (g).
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title VI, §655(d), Oct. 17, 1998, 112 Stat. 2053, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\] and apply with respect to injuries, illnesses, disabilities, and deaths incurred or contracted on or after that date.”
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–456 applicable only with respect to training performed after Sept. 30, 1988, see section 633(e) of Pub. L. 100–456, set out as a note under section 2109 of Title 10, Armed Forces.
 
 #### Different Coverage for Reserve Officer Training Corps Members
 
-Pub. L. 97–306, title I, §113(c), Oct. 14, 1982, 96 Stat. 1432, provided that: “Notwithstanding section 8140 of title 5, United States Code, subchapter I of chapter 81 of such title does not apply in the case of a disabilitysuffered by a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force that is compensable under chapter 11 of title 38, United States Code, or a death suffered by such a member for which dependency and indemnity compensation is payable under chapter 13 of such title \[section 401 et seq. of Title 38\].”
+Pub. L. 97–306, title I, §113(c), Oct. 14, 1982, 96 Stat. 1432, provided that: “Notwithstanding section 8140 of title 5, United States Code, subchapter I of chapter 81 of such title does not apply in the case of a disability suffered by a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force that is compensable under chapter 11 of title 38, United States Code, or a death suffered by such a member for which dependency and indemnity compensation is payable under chapter 13 of such title \[section 401 et seq. of Title 38\].”
 
 \[Section 113(d) of Pub. L. 97–306 provided that these provisions shall apply only with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after September 30, 1982.\]
 

@@ -36,7 +36,7 @@ R.S. 1293, July 16, 1892, ch. 195 (last 15 words before proviso under “Subsist
 
 &nbsp;
 
-Mar. 2, 1907, ch. 2511 (1st proviso under “Subsistence Depart- ment”), 34 Stat. 1165.
+Mar. 2, 1907, ch. 2511 (1st proviso under “Subsistence Department”), 34 Stat. 1165.
 
 R.S. 1175.
 

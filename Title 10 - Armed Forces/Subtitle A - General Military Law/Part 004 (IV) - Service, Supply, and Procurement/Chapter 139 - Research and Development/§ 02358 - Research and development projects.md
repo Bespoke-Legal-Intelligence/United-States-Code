@@ -88,6 +88,50 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Pilot Program for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
+
+Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, provided that:
+
+“(a)
+
+Pilot Program.—(1) The Secretary of Defense may carry out a pilot program to demonstrate improved cooperative relationships with universities and other private sector entities for the performance of research and development functions.
+
+“(2) Under the pilot program, the Secretary of Defense shall provide the director of one science and technology laboratory, and the director of one test and evaluation center, of each military department with authority for the following:
+
+&emsp;“(A) To explore innovative methods for quickly, efficiently, and fairly entering into cooperative relationships with universities and other private sector entities with respect to the performance of research and development functions.
+
+&emsp;“(B) To waive any restrictions on the demonstration and implementation of such methods that are not required by law.
+
+&emsp;“(C) To develop or expand innovative methods of operation that provide more defense research for each dollar of cost, including to carry out such initiatives as focusing on the performance of core functions and adopting more business-like practices.
+
+“(3) In selecting the laboratories and centers for participation in the pilot program, the Secretary shall consider laboratories and centers where innovative management techniques have been demonstrated, particularly as documented under sections 1115 through 1119 of title 31, United States Code, relating to Government agency performance and results.
+
+“(4) The Secretary may carry out the pilot program at each selected laboratory and center for a period of three years beginning not later than March 1, 1999.
+
+“(b)
+
+Reports.—(1) Not later than March 1, 1999, the Secretary of Defense shall submit a report on the implementation of the pilot program to Congress. The report shall include the following:
+
+&emsp;“(A) Each laboratory and center selected for the pilot program.
+
+&emsp;“(B) To the extent possible, a description of the innovative concepts that are to be tested at each laboratory or center.
+
+&emsp;“(C) The criteria to be used for measuring the success of each concept to be tested.
+
+“(2) Promptly after the expiration of the period for participation of a laboratory or center in the pilot program, the Secretary of Defense shall submit to Congress a final report on the participation of the laboratory or center in the pilot program. The report shall contain the following:
+
+&emsp;“(A) A description of the concepts tested.
+
+&emsp;“(B) The results of the testing.
+
+&emsp;“(C) The lessons learned.
+
+&emsp;“(D) Any proposal for legislation that the Secretary recommends on the basis of the experience at the laboratory or center under the pilot program.
+
+“(c)
+
+Commendation.—Congress commends the Secretary of Defense for the progress made by the science and technology laboratories and test and evaluation centers of the Department of Defense and encourages the Secretary to take the actions necessary to ensure continued progress for the laboratories and test and evaluation centers in developing cooperative relationships with universities and other private sector entities for the performance of research and development functions.”
+
 #### Defense Experimental Program To Stimulate Competitive Research
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
@@ -96,7 +140,7 @@ Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as ame
 
 “(a)
 
-Program Required.—The Secretary of Defense, acting  through  the  Director  of  Defense  Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
+Program Required.—The Secretary of Defense, acting through the Director of Defense Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
 
 “(b)
 
@@ -172,7 +216,7 @@ Establishment.—The Secretary of Defense, through the Director of Defense Resea
 
 “(b)
 
-Purpose.—Under the program, the Director may award grants and contracts to eligible institutions ofhigher education to support the conduct of research and development relevant to requirements of the Department of Defense.
+Purpose.—Under the program, the Director may award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
 
 “(c)
 

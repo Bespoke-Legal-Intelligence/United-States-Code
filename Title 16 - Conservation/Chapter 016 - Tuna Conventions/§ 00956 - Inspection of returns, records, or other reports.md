@@ -2,7 +2,7 @@
 
 Any person authorized to carry out enforcement activities under this chapter and any person authorized by the commissions shall have power without warrant or other process, to inspect, at any reasonable time, catch returns, statistical records, or other reports as are required by regulations adopted pursuant to this chapter to be made, kept, or furnished.
 
-(Sept. 7, 1950, ch. 907, §7, 64 Stat. 778; Oct. 15, 1962, Pub. L. 87–814, §3, 76 Stat. 924.)
+(Sept. 7, 1950, ch. 907, §7, 64 Stat. 778; Pub. L. 87–814, §3, Oct. 15, 1962, 76 Stat. 924.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(7). Pub. L. 100–702 added par. (7).
+1988—Subsec. (a)(7). Pub. L. 100–702 added par. (7).
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@
 
 (b) The Secretary shall report annually to Congress all proceedings for purchase and condemnation under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Apr. 5, 1976, Pub. L. 94–258, title II, §201(6), 90 Stat. 309; Dec. 12, 1980, Pub. L. 96–513, title V, §513(32)(A), 94 Stat. 2933.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 94–258, title II, §201(6), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, §513(32)(A), Dec. 12, 1980, 94 Stat. 2933.)
 
 Historical and Revision Notes
 

@@ -22,7 +22,7 @@ Definitions.—In this section—
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–294 designated three undesignated pars. as pars. (1) to (3).
+1996—Subsec. (c). Pub. L. 104–294 designated three undesignated pars. as pars. (1) to (3).
 
 #### Effective Date of 1996 Amendment
 

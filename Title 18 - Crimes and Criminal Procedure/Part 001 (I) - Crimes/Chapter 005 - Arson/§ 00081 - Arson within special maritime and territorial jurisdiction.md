@@ -4,7 +4,7 @@ Whoever, within the special maritime and territorial jurisdiction of the United 
 
 If the building be a dwelling or if the life of any person be placed in jeopardy, he shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), 108 Stat. 2147; Apr. 24, 1996, Pub. L. 104–132, title VII, §708(b), 110 Stat. 1296.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, §708(b), Apr. 24, 1996, 110 Stat. 1296.)
 
 #### Historical and Revision Notes
 

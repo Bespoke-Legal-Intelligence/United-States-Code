@@ -2,7 +2,7 @@
 
 #### (a) Lands to be exchanged
 
-(1) Upon the request of the Pueblo of Acoma, the Secretary shall acquire by exchange any lands held in trust for the Pueblo of Acoma (hereinafter referred to as “trust lands”) locatedwithin the boundary of the conservation area which the Pueblo wishes to exchange pursuant to this section. Such trust lands shall be exchanged either for—
+(1) Upon the request of the Pueblo of Acoma, the Secretary shall acquire by exchange any lands held in trust for the Pueblo of Acoma (hereinafter referred to as “trust lands”) located within the boundary of the conservation area which the Pueblo wishes to exchange pursuant to this section. Such trust lands shall be exchanged either for—
 
 &emsp;(A) lands described in subsection (c) of this section (with respect to trust lands west of New Mexico Highway 117); or
 

@@ -49,6 +49,7 @@
 | (b) | Remedy. |
 | (c) | Regulations to implement section. |
 | (d) | Effective date. |
+| [1316a.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001316a%20-%20Legislative%20branch%20appointments.md) | Legislative branch appointments. |
 | [1317\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20A%20-%20Employment%20Discrimination%2C%20Family%20and%20Medical%20Leave%2C%20Fair%20Labor%20Standards%2C%20Employee%20Polygraph%20Protection%2C%20Worker%20Adjustment%20and%20Retraining%E2%80%A6/%C2%A7%2001317%20-%20Prohibition%20of%20intimidation%20or%20reprisal.md) | Prohibition of intimidation or reprisal. |
 | (a) | In general. |
 | (b) | Remedy. |
@@ -244,7 +245,7 @@
 | (b) | Transition provisions for employees of Architect of Capitol. |
 | (c) | Transition provision relating to matters other than employment under section 12209 of title 42. |
 | [1436\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001436%20-%20Use%20of%20frequent%20flyer%20miles.md) | Use of frequent flyer miles. |
-| (a) | Limitation on use of travel awards. |
+| (a) | Limitation on use of travel awards; exception. |
 | (b) | Regulations. |
 | (c) | Definitions. |
 | [1437\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001437%20-%20Sense%20of%20Senate%20regarding%20adoption%20of%20simplified%20and%20streamlined%20acquisition%20procedures%20for%20Senate%20acquisitions.md) | Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions. |

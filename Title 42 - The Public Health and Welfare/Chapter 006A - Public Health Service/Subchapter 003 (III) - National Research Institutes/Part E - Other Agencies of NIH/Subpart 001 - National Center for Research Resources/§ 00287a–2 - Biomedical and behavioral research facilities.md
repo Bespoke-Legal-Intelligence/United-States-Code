@@ -22,7 +22,7 @@
 
 &emsp;(A) The Board shall provide advice to the Director of the Center and the advisory council established under section 287a of this title (in this section referred to as the “Advisory Council”) on carrying out this section.
 
-&emsp;(B) In carrying out subparagraph (A), the Board shall make a determination of the merit of each application submitted for a grant under subsection (a) of this section, after consideration of the requirements established in subsection (c) of this section, and shall report the results of the determination to the Director of the Center and the Advisory Council. Such determinations shall be conducted in a manner consistent with procedures established under section 289a of this title.
+&emsp;(B) In carrying out subparagraph (A), the Board shall make a determination of the meritof each application submitted for a grant under subsection (a) of this section, after consideration of the requirements established in subsection (c) of this section, and shall report the results of the determination to the Director of the Center and the Advisory Council. Such determinations shall be conducted in a manner consistent with procedures established under section 289a of this title.
 
 &emsp;(C) In carrying out subparagraph (A), the Board shall, in the case of applications recommended for approval, make recommendations to the Director and the Advisory Council on the amount that should be provided in the grant.
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;(D) The applicant—
 
-&emsp;&emsp;&emsp;(i) has been designated as a center of excellence under section 293c of this title;
+&emsp;&emsp;&emsp;(i) has been designated as a center of excellence under part B of subchapter V of this chapter;
 
 &emsp;&emsp;&emsp;(ii) is located in a geographic area whose population includes a significant number of individuals with a health-status deficit, and the applicant provides health services to such individuals; or
 
@@ -186,9 +186,13 @@ Not later than 6 months after June 10, 1993, the Director of the Center, after c
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated$150,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+For the purpose of carrying out this section, there are authorized to be appropriated $150,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
-(July 1, 1944, ch. 373, title IV, §481A, as added June 10, 1993, Pub. L. 103–43, title XV, §1502, 107 Stat. 173.)
+(July 1, 1944, ch. 373, title IV, §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107 Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537.)
+
+#### Amendments
+
+1998—Subsec. (c)(3)(D)(i). Pub. L. 105–392 substituted “part B of subchapter V of this chapter” for “section 293c of this title”.
 
 #### Section Referred to in Other Sections
 

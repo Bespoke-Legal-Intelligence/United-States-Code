@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;No law of any State or political subdivision thereof requiring the registration, licensing,or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
+&emsp;No law of any State or political subdivision thereof requiring the registration, licensing, or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
 
 &emsp;&emsp;(A) that is registered under section 80b–3 of this title as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State; or
 
@@ -44,7 +44,7 @@ The Commission may, by rule, require an investment adviser—
 
 Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
 
-(Aug. 22, 1940, ch. 686, title II, §203A, as added Oct. 11, 1996, Pub. L. 104–290, title III, §303(a), 110 Stat. 3437.)
+(Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437.)
 
 #### Effective Date
 
@@ -76,5 +76,5 @@ Delays.—For purposes of this subsection, delays in payment of fees or underpay
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 80b–3 of this title.
+This section is referred to in section 80b–3 of this title; title 29 section 1002.
 

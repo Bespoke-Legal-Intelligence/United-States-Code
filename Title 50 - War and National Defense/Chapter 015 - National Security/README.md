@@ -22,6 +22,7 @@
 | (h) | Committee on Foreign Intelligence. |
 | (i) | Committee on Transnational Threats. |
 | (j) | Participation of Director of Central Intelligence. |
+| (i) | Special Adviser to the President on International Religious Freedom. |
 | [402a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000402a%20-%20Coordination%20of%20counterintelligence%20activities.md) | Coordination of counterintelligence activities. |
 | (a) | Establishment of Counterintelligence Policy Board. |
 | (b) | Function of Board. |
@@ -121,7 +122,7 @@
 | (a) | Purpose; establishment. |
 | (b) | Appointment; supervision; removal. |
 | (c) | Duties and responsibilities. |
-| (d) | Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems. |
+| (d) | Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems; reports to Congress on urgent concerns. |
 | (e) | Authorities of Inspector General. |
 | (f) | Separate budget account. |
 | (g) | Transfer. |
@@ -187,6 +188,10 @@
 | (a) | Detail. |
 | (b) | Benefits, allowances, travel, incentives. |
 | (c) | Annual report. |
+| [404i.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404i%20-%20Additional%20annual%20reports%20from%20the%20Director%20of%20Central%20Intelligence.md) | Additional annual reports from the Director of Central Intelligence. |
+| (a) | Report on intelligence community cooperation with Federal law enforcement agencies. |
+| (b) | Annual report on the safety and security of Russian nuclear facilities and nuclear military forces. |
+| (c) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

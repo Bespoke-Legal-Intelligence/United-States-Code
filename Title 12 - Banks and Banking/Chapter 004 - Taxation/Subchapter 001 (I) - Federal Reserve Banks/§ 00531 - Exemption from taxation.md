@@ -18,5 +18,5 @@ United States obligations and evidences of ownership as subject to Federal taxat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 137.
+This section is referred to in title 26 section 139.
 

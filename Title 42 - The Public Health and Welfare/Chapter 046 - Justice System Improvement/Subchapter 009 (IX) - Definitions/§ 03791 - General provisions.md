@@ -8,7 +8,23 @@ As used in this chapter—
 
 &emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purpose of section 3756(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
 
-&emsp;(3) “unit of local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing lawenforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;
+&emsp;(3) “unit of local government” means—
+
+&emsp;&emsp;(A) any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State;
+
+&emsp;&emsp;(B) any law enforcement district or judicial enforcement district that—
+
+&emsp;&emsp;&emsp;(i) is established under applicable State law; and
+
+&emsp;&emsp;&emsp;(ii) has the authority to, in a manner independent of other State entities, establish a budget and impose taxes;
+
+&emsp;&emsp;(C) an Indian Tribe (as that term is defined in section 5603 of this title) that performs law enforcement functions, as determined by the Secretary of the Interior; or
+
+&emsp;&emsp;(D) for the purposes of assistance eligibility, any agency of the government of the District of Columbia or the Federal Government that performs law enforcement functions in and for—
+
+&emsp;&emsp;&emsp;(i) the District of Columbia; or
+
+&emsp;&emsp;&emsp;(ii) any Trust Territory of the United States;
 
 &emsp;(4) “construction” means the erection, acquisition, renovation, repairs, remodeling, or expansion of new or existing buildings or other physical facilities, and the acquisition or installation of initial equipment therefor;
 
@@ -36,7 +52,7 @@ As used in this chapter—
 
 &emsp;(16) “court of last resort” means that State court having the highest and final appellate authority of the State. In States having two or more such courts, court of last resort shall mean that State court, if any, having highest and final appellate authority, as well as both administrative responsibility for the State's judicial system and the institutions of the State judicial branch and rulemaking authority. In other States having two or more courts with highest and final appellate authority, court of last resort shall mean the highest appellate court which also has either rulemaking authority or administrative responsibility for the State's judicial system and the institutions of the State judicial branch. Except as used in the definition of the term “court of last resort” the term “court” means a tribunal recognized as a part of the judicial branch of a State or of its local government units;
 
-&emsp;(17) “institution of higher education” means any such institution as defined by section 1141(a) of title 20, subject, however, to such modifications and extensions as the Office may determine to be appropriate;
+&emsp;(17) “institution of higher education” means any such institution as defined by section 1001 of title 20, subject, however, to such modifications and extensions as the Office may determine to be appropriate;
 
 &emsp;(18) “white-collar crime” means an illegal act or series of illegal acts committed by nonphysical means and by concealment or guile, to obtain money or property, to avoid the payment or loss of money or property, or to obtain business or personal advantage;
 
@@ -44,7 +60,7 @@ As used in this chapter—
 
 &emsp;(20) “record of proven success” means that a program, project, approach, or practice has been demonstrated by evaluation or by analysis of performance data and information to be successful in a number of jurisdictions or over a period of time in contributing to the accomplishment of objectives or to improving conditions identified with the problem, to which it is addressed;
 
-&emsp;(21) “high probability of improving the criminal justice system” means that a prudent assessment of the concepts and implementation plans included in a proposed program, project, approach, or practice, together with an assessment of the problem to which it is addressed and of data and information bearing on the problem, concept, and implementation plan, provides strong evidence that the proposed activities would result in identifiable improvements in the criminal justice system if implemented as proposed;
+&emsp;(21) “high probability of improving the criminal justice system” means that a prudent assessment of the concepts and implementation plans included in a proposed program, project, approach, or practice, together with an assessment of the problem to which it is addressed and of data and information bearing on the problem, concept, and implementation plan, provides strong evidence that the proposed activities would result in identifiableimprovements in the criminal justice system if implemented as proposed;
 
 &emsp;(22) “correctional option” includes community-based incarceration, weekend incarceration, boot camp prison, electronic monitoring of offenders, intensive probation, and any other innovative punishment designed to have the greatest impact on offenders who can be punished more effectively in an environment other than a traditional correctional facility;
 
@@ -66,7 +82,7 @@ Where appropriate, the definitions in subsection (a) of this section shall be ba
 
 One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
 
-(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140.)
+(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
 
 #### Prior Provisions
 
@@ -77,6 +93,10 @@ A prior section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, 
 A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to fraudulent and false statements or entries, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795a of this title.
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–277, which directed the general amendment of par. (3) of this section, was executed to subsec. (a)(3) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(3) read as follows: “ ‘unit of local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;”.
+
+Subsec. (a)(17). Pub. L. 105–244, which directed amendment of par. (17) of this section by substituting “1001” for “1141(a)”, was executed to subsec. (a)(17) of this section, to reflect the probable intent of Congress.
 
 1994—Subsec. (a)(3). Pub. L. 103–322, §330001(h)(13), substituted “Columbia, and” for “Columbia and,”.
 
@@ -100,7 +120,7 @@ Subsec. (a)(25). Pub. L. 103–322, §32101(c)(3), added par. (25).
 
 1988—Subsec. (a)(2). Pub. L. 100–690 substituted “section 3756(a)” for “section 3747(a)”.
 
-1986—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
+1986—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this titleAmerican Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
 
 Subsec. (a)(3). Pub. L. 99–396, §7(2), substituted “and” for “, Guam, American Samoa” after “in and for the District of Columbia” and struck out “, or the Commonwealth of the Northern Mariana Islands” after “Trust Territory of the Pacific Islands”.
 
@@ -118,11 +138,11 @@ Subsec. (a)(13). Pub. L. 98–473, §609C(b)(6), substituted definition of “co
 
 Subsecs. (a)(17), (b). Pub. L. 98–473, §609C(a), substituted “Office” for “Administration”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

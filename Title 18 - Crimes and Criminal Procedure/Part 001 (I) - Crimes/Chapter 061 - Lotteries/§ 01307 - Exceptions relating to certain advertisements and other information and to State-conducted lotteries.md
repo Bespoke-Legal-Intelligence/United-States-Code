@@ -2,7 +2,7 @@
 
 (a) The provisions of sections 1301, 1302, 1303, and 1304 shall not apply to—
 
-&emsp;(1) an advertisement, list of prizes, or other information concerning a lottery conducted by a State acting under the authority of State law which is—
+&emsp;(1) an advertisement, list of prizes, or other information concerning a lottery conducted bya State acting under the authority of State law which is—
 
 &emsp;&emsp;(A) contained in a publication published in that State or in a State which conducts such a lottery; or
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see secti
 
 #### Severability
 
-Section 4 of Pub. L. 100–625 provided that: “If any provision of this Act or the amendments made by this Act\[amending sections 1304 and 1307 of this title and section 3005 of Title 39, Postal Service, and enacting provisions set out as notes under sections 1301 and 1304 of this title\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
+Section 4 of Pub. L. 100–625 provided that: “If any provision of this Act or the amendments made by this Act \[amending sections 1304 and 1307 of this title and section 3005 of Title 39, Postal Service, and enacting provisions set out as notes under sections 1301 and 1304 of this title\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
 #### Section Referred to in Other Sections
 

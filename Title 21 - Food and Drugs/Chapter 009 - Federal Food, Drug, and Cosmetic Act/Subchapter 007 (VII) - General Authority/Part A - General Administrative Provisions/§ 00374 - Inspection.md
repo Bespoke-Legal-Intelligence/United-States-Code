@@ -12,7 +12,7 @@
 
 &emsp;(C) persons who manufacture, prepare, propagate, compound, or process drugs or manufacture or process devices, solely for use in research, teaching, or chemical analysis and not for sale;
 
-&emsp;(D) such other classes of persons as the Secretary may by regulation exempt from the application of this section upon a finding that inspection as applied to such classes of persons in accordance with this section is not necessary for the protection of the public health.
+&emsp;(D) such other classes of persons as the Secretary may by regulation exempt from the application of this section upon a finding that inspection as applied to such classes of personsin accordance with this section is not necessary for the protection of the public health.
 
 (3) An officer or employee making an inspection under paragraph (1) for purposes of enforcing the requirements of section 350a of this title applicable to infant formulas shall be permitted, at all reasonable times, to have access to and to copy and verify any records—
 
@@ -30,7 +30,7 @@ If the officer or employee making any such inspection of a factory, warehouse, o
 
 #### (d) Analysis of samples furnished owner
 
-Whenever in the course of any such inspection of a factory or other establishment where food ismanufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertaining whether such food consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
+Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertaining whether such food consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
 #### (e) Accessibility of records
 

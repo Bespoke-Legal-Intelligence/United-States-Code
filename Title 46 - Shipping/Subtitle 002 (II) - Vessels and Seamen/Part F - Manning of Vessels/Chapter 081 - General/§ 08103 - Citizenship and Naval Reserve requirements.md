@@ -38,7 +38,7 @@
 
 (f) A person employing an individual in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $500 for each individual so employed.
 
-(g) A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Saint Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Naval Reserve.
+(g) A deck or engineer officer employed on a vessel on which an operating differential subsidyis paid, or employed on a vessel (except a vessel of the Coast Guard or Saint Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Naval Reserve.
 
 (h) The President may—
 

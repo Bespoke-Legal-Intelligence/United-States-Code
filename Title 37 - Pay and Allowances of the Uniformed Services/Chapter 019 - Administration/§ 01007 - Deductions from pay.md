@@ -26,7 +26,7 @@
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers,and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
 (4) In this subsection, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Navy.
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 Section 343(b) of Pub. L. 101–189 provided that:
 
-“(1) Except as provided in paragraph (2), subsection (i) of section 1007 of title 37, United States Code, asadded by subsection (a), shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].
+“(1) Except as provided in paragraph (2), subsection (i) of section 1007 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].
 
 “(2) With respect to deductions from the pay of an enlisted member or warrant officer in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy), such subsection shall take effect on October 1, 1990.”
 

@@ -32,7 +32,7 @@ A financial institution shall provide each consumer with a periodic statement fo
 
 #### (d) Consumer passbook accounts
 
-In the case of a consumer's passbook account which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c) of this section, upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
+In the case of a consumer's passbook account which may not be accessed by electronic fund transfers other than preauthorized electronicfund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c) of this section, upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
 
 #### (e) Accounts other than passbook accounts
 
@@ -40,7 +40,7 @@ In the case of a consumer's account, other than a passbook account, which may no
 
 #### (f) Documentation as evidence
 
-In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made to another personshall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
+In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made to another person shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
 
 (Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731.)
 

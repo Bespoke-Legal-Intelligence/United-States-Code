@@ -42,5 +42,5 @@ For the purposes of this part—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9161 of this title; title 25 section 2902.
+This section is referred to in sections 1059d, 2326, 9161 of this title; title 25 section 2902.
 

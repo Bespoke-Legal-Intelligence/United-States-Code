@@ -2,7 +2,7 @@
 
 Moneys received or tendered in evidence in any United States Court, or before any officer thereof, which have been paid to or received by any official as a bribe, shall, after the final disposition of the case, proceeding or investigation, be deposited in the registry of the court to be disposed of in accordance with the order of the court, to be subject, however, to the provisions of section 2042 of Title 28.
 
-(June 25, 1948, ch. 645, 62 Stat. 840, §3612; May 24, 1949, ch. 139, §55, 63 Stat. 96; renumbered §3666, Oct. 12, 1984, Pub. L. 98–473, title II, §212(a)(1), 98 Stat. 1987.)
+(June 25, 1948, ch. 645, 62 Stat. 840, §3612; May 24, 1949, ch. 139, §55, 63 Stat. 96; renumbered §3666, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 
 #### Historical and Revision Notes
 

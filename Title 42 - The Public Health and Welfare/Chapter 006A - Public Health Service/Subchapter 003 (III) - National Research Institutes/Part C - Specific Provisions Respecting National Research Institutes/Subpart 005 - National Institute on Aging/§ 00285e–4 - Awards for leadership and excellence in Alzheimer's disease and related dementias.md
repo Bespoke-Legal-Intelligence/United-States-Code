@@ -20,7 +20,7 @@ The Director of the Institute shall establish procedures for the selection of th
 
 Awards under this section shall be made for a one-year period, and may be renewed for not more than six additional consecutive one-year periods.
 
-(July 1, 1944, ch. 373, title IV, §445B, formerly Pub. L. 99–660, title IX, §931, Nov. 14, 1986, 100 Stat. 3807; renumbered §445B of act July 1, 1944; amended Nov. 4, 1988, Pub. L. 100–607, title I, §142(a), (d)(1), 102 Stat. 3057.)
+(July 1, 1944, ch. 373, title IV, §445B, formerly Pub. L. 99–660, title IX, §931, Nov. 14, 1986, 100 Stat. 3807; renumbered §445B of act July 1, 1944; amended Pub. L. 100–607, title I, §142(a), (d)(1), Nov. 4, 1988, 102 Stat. 3057.)
 
 #### Codification
 
@@ -38,5 +38,5 @@ Subsecs. (c), (d). Pub. L. 100–607, §142(d)(1)(C), substituted “the Institu
 
 #### Availability of Appropriations
 
-Section 142(b) of Pub. L. 100–607 provided that: “With respect to amounts made available in appropriation Acts for the purpose of carrying out the programs transferred by subsection (a) to the Public Health Service Act \[sections 285e–4 to 285e–8 of this title\], such subsection may not be construed to affect the availability of such funds for such purpose.”
+Section 142(b) of Pub. L. 100–607 provided that: “With respect to amounts made available in appropriation Acts for the purpose of carrying out the programstransferred by subsection (a) to the Public Health Service Act \[sections 285e–4 to 285e–8 of this title\], such subsection may not be construed to affect the availability of such funds for such purpose.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Necessity of regulation in public interest
 
-As disclosed in reports of the Federal Trade Commission made pursuant to S. Res. 83 (Seventieth Congress, first session) and other reports made pursuant to the authority of Congress, itis declared that the business of transporting and selling natural gas for ultimate distribution to the public is affected with a public interest, and that Federal regulation in matters relating to the transportation of natural gas and the sale thereof in interstate and foreign commerce is necessary in the public interest.
+As disclosed in reports of the Federal Trade Commission made pursuant to S. Res. 83 (Seventieth Congress, first session) and other reports made pursuant to the authority of Congress, it is declared that the business of transporting and selling natural gas for ultimate distribution to the public is affected with a public interest, and that Federal regulation in matters relating to the transportation of natural gas and the sale thereof in interstate and foreign commerce is necessary in the public interest.
 
 #### (b) Transactions to which provisions of chapter applicable
 
@@ -20,7 +20,7 @@ The provisions of this chapter shall not apply to any person solely by reason of
 
 &emsp;(2) subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdiction over the sale, sale for resale, or transportation of vehicular natural gas.
 
-(June 21, 1938, ch. 556, §1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Oct. 24, 1992, Pub. L. 102–486, title IV, §404(a)(1), 106 Stat. 2879.)
+(June 21, 1938, ch. 556, §1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Pub. L. 102–486, title IV, §404(a)(1), Oct. 24, 1992, 106 Stat. 2879.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ The approximately six acres of land described in the following recorded deeds to
 
 (b) Quitclaim deed to the United States, made and entered into by and between Carl J. Howell and Dorothy N. Howell, his wife, of Hodgenville, Larue County, Kentucky, recorded on April 18, 1947, in deed book numbered 59, page 435, in the records of the county of Larue, Kentucky.
 
-(May 27, 1949, ch. 149, 63 Stat. 140; Sept. 8, 1959, Pub. L. 86–231, 73 Stat. 466.)
+(May 27, 1949, ch. 149, 63 Stat. 140; Pub. L. 86–231, Sept. 8, 1959, 73 Stat. 466.)
 
 #### Change of Name
 

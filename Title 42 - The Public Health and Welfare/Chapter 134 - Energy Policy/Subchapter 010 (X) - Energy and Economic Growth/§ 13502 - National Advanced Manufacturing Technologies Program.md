@@ -18,7 +18,7 @@ Within 180 days after October 24, 1992, the Secretary, in consultation with appr
 
 &emsp;Proposals submitted under this subsection shall include—
 
-&emsp;&emsp;(A) an explanation of how the proposal will expedite the commercialization of advancedmanufacturing technologies to improve energy efficiency in the building, industry, and transportation sectors;
+&emsp;&emsp;(A) an explanation of how the proposal will expedite the commercialization of advanced manufacturing technologies to improve energy efficiency in the building, industry, and transportation sectors;
 
 &emsp;&emsp;(B) evidence of consideration of whether the unique capabilities of Department of Energy national laboratories warrants collaboration with such laboratories, and the extent of such collaboration proposed;
 

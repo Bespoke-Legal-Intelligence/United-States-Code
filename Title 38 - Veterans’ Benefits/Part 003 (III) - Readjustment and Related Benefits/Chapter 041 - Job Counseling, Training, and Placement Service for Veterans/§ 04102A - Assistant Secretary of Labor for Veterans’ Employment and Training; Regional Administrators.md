@@ -26,9 +26,9 @@
 
 (3) Each grant or contract by which funds are made available in a State shall contain a provision requiring the recipient of the funds to comply with the provisions of this chapter.
 
-(d) The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under the Job Training Partnership Act and other federally funded employment and training programs.
+(d) The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998 and other federally funded employment and training programs.
 
-(e)(1) The Secretary shall assign to each region for which the Secretary operates a regional office a representative of the Veterans’ Employment and Training Service to serve as the Regional Administrator for Veterans’ Employment and Training in such region. Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.
+(e)(1) The Secretary shall assign to each region for which the Secretary operates a regional office a representative of the Veterans’ Employment and Training Service to serve as the Regional Administrator for Veterans’ Employment and Training in such region. A person may not be assigned after October 9, 1996, as such a Regional Administrator unless the person is a veteran.
 
 (2) Each such Regional Administrator shall be responsible for—
 
@@ -40,17 +40,25 @@
 
 &emsp;(D) coordinating, monitoring, and providing technical assistance on veterans’ employment and training programs with respect to all entities receiving funds under grants from or contracts with the Department of Labor within the region.
 
-(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332.)
+(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(21)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (d) is amended by striking “the Job Training Partnership Act and”.</i>
 
 #### References in Text
 
 The Veterans’ Job Training Act, referred to in subsec. (b)(3), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 
-The Job Training Partnership Act, referred to in subsec. (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The date of the enactment of the Veterans’ Benefits Improvements Act of 1996, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 104–275, which was approved Oct. 9, 1996.
+The Workforce Investment Act of 1998, referred to in subsec. (d), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(A)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
+
+Subsec. (e)(1). Pub. L. 105–368 substituted “A person may not be assigned after October 9, 1996, as such a Regional Administrator unless the person is a veteran.” for “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
 
 1996—Subsec. (e)(1). Pub. L. 104–275 inserted at end “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
 
@@ -94,6 +102,10 @@ Subsecs. (b) to (e). Pub. L. 100–323, §2(a), added subsecs. (b) to (e).
 
 1980—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary” in section catchline and text.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(29)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(21)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–323 effective May 20, 1988, except that subsec. (b)(5) effective for all of fiscal year 1988 and subsequent fiscal years, see section 16(a), (b)(1)(A) of Pub. L. 100–323, set out as a note under section 3104 of this title.
@@ -120,7 +132,7 @@ Section 504(b), (c) of Pub. L. 96–466 provided that:
 
 #### Cross References
 
-Administration by Assistant Secretary for Veterans’ Employment and Training of employment programs for veterans under Job Training Partnership Act, see section 1721 of Title 29, Labor.
+Administration by Assistant Secretary for Veterans’ Employment and Training of workforce investment programs for veterans under the Workforce Investment Act of 1998, see section 2913 of Title 29, Labor.
 
 Assistant Secretaries of Labor, generally, see section 553 of Title 29.
 

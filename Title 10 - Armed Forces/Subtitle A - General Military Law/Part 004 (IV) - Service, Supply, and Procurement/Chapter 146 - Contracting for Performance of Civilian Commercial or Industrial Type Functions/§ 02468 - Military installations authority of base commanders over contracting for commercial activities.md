@@ -52,3 +52,7 @@ Section 315(b) of Pub. L. 102–190 provided that: “The amendment made by subs
 
 Section 1131(b) of Pub. L. 101–189 provided that: “Section 2468 of title 10, United States Code (as added by subsection (a)), shall take effect as of October 1, 1989.”
 
+#### Public Availability of Operating Agreements Between Military Installations and Financial Institutions
+
+Pub. L. 105–261, div. A, title III, §379, Oct. 17, 1998, 112 Stat. 1995, provided that: “With respect to an agreement between the commander of a military installation in the United States (or the designee of such an installation commander) and a financial institution that permits, allows, or otherwise authorizes the provision of financial services by the financial institution on the military installation, nothing in the terms or nature of such an agreement shall be construed to exempt the agreement from the provisions of sections 552 and 552a of title 5, United States Code.”
+

@@ -50,7 +50,7 @@ Composition.—The special committee selected under subparagraph (A) shall be co
 
 &emsp;&emsp;“(C)
 
-Development of plan.—Not later than 75 days after the date of the enactment of this section\[Jan. 6, 1988\], the special committee shall develop a plan of merger for all such banks and the Central Bank for Cooperatives into a National Bank for Cooperatives.
+Development of plan.—Not later than 75 days after the date of the enactment of this section \[Jan. 6, 1988\], the special committee shall develop a plan of merger for all such banks and the Central Bank for Cooperatives into a National Bank for Cooperatives.
 
 &emsp;“(2)
 
@@ -134,7 +134,7 @@ National bank for cooperatives.—Any of the district banks whose stockholders d
 
 &emsp;&emsp;&emsp;“(ii)
 
-United bank for cooperatives.—Any of the district banks whose stockholders did not approve the plan of merger shall continue as district banks for cooperatives and shall continue to serve only the territory within the boundaries of the district that such banks served as of the date of the enactment of this section \[Jan. 6, 1988\].
+United bank for cooperatives.—Any of the district banks whose stockholders did not approve the plan of merger shall continue as district banks for cooperatives and shall continue to serve only the territory within the boundaries ofthe district that such banks served as of the date of the enactment of this section \[Jan. 6, 1988\].
 
 &emsp;&emsp;“(B)
 

@@ -106,7 +106,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681a, 1681h, 1681j, 1681s, 1681t of this title.
+This section is referred to in sections 1681a, 1681b, 1681h, 1681j, 1681s, 1681t of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
 

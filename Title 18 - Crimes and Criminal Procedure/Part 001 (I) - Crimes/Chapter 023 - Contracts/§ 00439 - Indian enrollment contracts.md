@@ -4,7 +4,7 @@ Unless the United States consents, all contracts made with any person or persons
 
 Whoever collects or receives any moneys from any such applicants for citizenship, shall be fined under this title <sup>1</sup> or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 704; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 704; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

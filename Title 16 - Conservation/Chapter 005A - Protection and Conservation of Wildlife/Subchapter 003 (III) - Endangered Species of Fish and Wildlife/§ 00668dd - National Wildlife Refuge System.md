@@ -2,7 +2,7 @@
 
 #### (a) Designation; administration; continuance of resources-management-programs for refuge lands in Alaska; disposal of acquired lands; proceeds
 
-(1) For the purpose of consolidating the authorities relating to the various categories of areas that are administered by the Secretary for the conservation of fish and wildlife, including species that are threatened with extinction, all lands, waters, and interests therein administered by the Secretary as wildlife refuges, areas for the protection and conservation of fish and wildlife that are threatened with extinction, wildlife ranges, game ranges, wildlife management areas, or waterfowl production areas are hereby designated as the “National Wildlife Refuge System” (referred to herein as the “System”), which shall be subject to the provisions of this section, and shall be administered by the Secretary through the United States Fish and Wildlife Service. With respect to refuge lands in the State of Alaska, those programs relating to the management of resources for which any other agency of the Federal Government exercises administrative responsibility through cooperative agreement shall remain in effect, subject to the direct supervision of the United States Fish and Wildlife Service, as long as such agency agrees to exercise such responsibility.
+(1) For the purpose of consolidating the authorities relating to the various categories ofareas that are administered by the Secretary for the conservation of fish and wildlife, including species that are threatened with extinction, all lands, waters, and interests therein administered by the Secretary as wildlife refuges, areas for the protection and conservation of fish and wildlife that are threatened with extinction, wildlife ranges, game ranges, wildlife management areas, or waterfowl production areas are hereby designated as the “National Wildlife Refuge System” (referred to herein as the “System”), which shall be subject to the provisions of this section, and shall be administered by the Secretary through the United States Fish and Wildlife Service. With respect to refuge lands in the State of Alaska, those programs relating to the management of resources for which any other agency of the Federal Government exercises administrative responsibility through cooperative agreement shall remain in effect, subject to the direct supervision of the United States Fish and Wildlife Service, as long as such agency agrees to exercise such responsibility.
 
 (2) The mission of the System is to administer a national network of lands and waters for the conservation, management, and where appropriate, restoration of the fish, wildlife, and plant resources and their habitats within the United States for the benefit of present and future generations of Americans.
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(i) the acquisition costs of such lands, in the case of lands of the System which were purchased by the United States with funds from the migratory bird conservation fund, or fair market value, whichever is greater; or
 
-&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the date of the transfer or disposal), in the case of lands of the System which were donated to the System.
+&emsp;&emsp;(ii) the fair market value of such lands (as determined by the Secretary as of the dateof the transfer or disposal), in the case of lands of the System which were donated to the System.
 
 > The Secretary shall pay into the migratory bird conservation fund the aggregate amount of the proceeds of any transfer or disposal referred to in the preceding sentence.
 
@@ -88,7 +88,7 @@ In administering the System, the Secretary is authorized to take the following a
 
 #### (c) Prohibited and permitted activities; application of mining and mineral leasing laws, hunting or fishing regulations, and State laws or regulations
 
-No person shall knowingly disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasing laws shall continue to apply to any lands within the System to the same extent they apply priorto October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations.
+No person shall disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasing laws shall continue to apply to any lands within the System to the same extent they apply prior to October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations.
 
 #### (d) Use of areas; administration of migratory bird sanctuaries as game taking areas; rights of way, easements, and reservations; payment of fair market value
 
@@ -96,7 +96,7 @@ No person shall knowingly disturb, injure, cut, burn, remove, destroy, or posses
 
 &emsp;(A) permit the use of any area within the System for any purpose, including but not limited to hunting, fishing, public recreation and accommodations, and access whenever he determines that such uses are compatible with the major purposes for which such areas were established: <i>Provided</i>, That not to exceed 40 per centum at any one time of any area that has been, or hereafter may be acquired, reserved, or set apart as an inviolate sanctuary for migratory birds, under any law, proclamation, Executive order, or public land order may be administered by the Secretary as an area within which the taking of migratory game birds may be permitted under such regulations as he may prescribe unless the Secretary finds that the taking of any species of migratory game birds in more than 40 percent of such area would be beneficial to the species; and
 
-&emsp;(B) permit the use of, or grant easements in, over, across, upon, through, or under any areas within the System for purposes such as but not necessarily limited to, powerlines, telephone lines, canals, ditches, pipelines, and roads, including the construction, operation, and maintenance thereof, whenever he determines that such uses are compatible with the purposes for which these areas are established.
+&emsp;(B) permit the use of, or grant easements in, over, across, upon, through, or under any areas within the System for purposes such as but not necessarily limited to, powerlines, telephone lines, canals, ditches, pipelines, and roads, including the construction, operation,and maintenance thereof, whenever he determines that such uses are compatible with the purposes for which these areas are established.
 
 (2) Notwithstanding any other provision of law, the Secretary may not grant to any Federal, State, or local agency or to any private individual or organization any right-of-way, easement, or reservation in, over, across, through, or under any area within the system in connection with any use permitted by him under paragraph (1)(B) of this subsection unless the grantee pays to the Secretary, at the option of the Secretary, either (A) in lump sum the fair market value (determined by the Secretary as of the date of conveyance to the grantee) of the right-of-way, easement, or reservation; or (B) annually in advance the fair market rental value (determined by the Secretary) of the right-of-way, easement, or reservation. If any Federal, State, or local agency is exempted from such payment by any other provision of Federal law, such agency shall otherwise compensate the Secretary by any other means agreeable to the Secretary, including, but not limited to, making other land available or the loan of equipment or personnel; except that (A) any such compensation shall relate to, and be consistent with, the objectives of the National Wildlife Refuge System, and (B) the Secretary may waive such requirement for compensation if he finds such requirement impracticable or unnecessary. All sums received by the Secretary pursuant to this paragraph shall, after payment of any necessary expenses incurred by him in administering this paragraph, be deposited into the Migratory Bird Conservation Fund and shall be available to carry out the provisions for land acquisition of the Migratory Bird Conservation Act (16 U.S.C. 715 et seq.) and the Migratory Bird Hunting Stamp Act (16 U.S.C. 718 et seq.).
 
@@ -180,11 +180,17 @@ No person shall knowingly disturb, injure, cut, burn, remove, destroy, or posses
 
 #### (f) Penalties
 
-Any person who violates or fails to comply with any of the provisions of this Act or any regulations issued thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both.
+#### (1) Knowing violations
+
+&emsp;Any person who knowingly violates or fails to comply with any of the provisions of this Act or any regulations issued thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both.
+
+#### (2) Other violations
+
+&emsp;Any person who otherwise violates or fails to comply with any of the provisions of this Act (including a regulation issued under this Act) shall be fined under title 18 or imprisoned not more than 180 days, or both.
 
 #### (g) Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition
 
-Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competence jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
+Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competence jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize byagreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
 
 #### (h) Regulations; continuation, modification, or rescission
 
@@ -226,7 +232,7 @@ Nothing in this Act shall be construed as affecting the authority, jurisdiction,
 
 Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
-(Pub. L. 89–669, §4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, §1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, §13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, §5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, §4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, §904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259.)
+(Pub. L. 89–669, §4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, §1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, §13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, §5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, §4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, §904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, §206, Oct. 30, 1998, 112 Stat. 2958.)
 
 #### References in Text
 
@@ -234,7 +240,7 @@ This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 9
 
 The United States mining laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
-The United States mineral leasing laws, referred to in subsec. (c), have been defined in sections 351, 505, 530,and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+The United States mineral leasing laws, referred to in subsec. (c), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
 
 The Migratory Bird Conservation Act, referred to in subsec. (d)(2), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
@@ -247,6 +253,10 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(
 The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is classified to the Appendix of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–312, §206(1), struck out “knowingly” after “No person shall” in first sentence.
+
+Subsec. (f). Pub. L. 105–312, §206(2), inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
 
 1997—Subsec. (a)(1). Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
 
@@ -312,7 +322,7 @@ Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)�
 
 1973—Subsec. (c). Pub. L. 93–205 inserted “With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title” before “nothing in this Act shall be construed” and struck out “, including endangered species thereof,” before “on lands not within the System” in second sentence.
 
-1968—Subsec. (a). Pub. L. 90–404 inserted provisions that no acquired lands which are or become a part of the National Wildlife Refuge System may be transferred or otherwise disposed of except under the specified conditions, and provisions that the Secretary payinto the migratory bird conservation fund the proceeds of any such transfer or disposal.
+1968—Subsec. (a). Pub. L. 90–404 inserted provisions that no acquired lands which are or become a part of the National Wildlife Refuge System may be transferred or otherwise disposed of except under the specified conditions, and provisions that the Secretary pay into the migratory bird conservation fund the proceeds of any such transfer or disposal.
 
 #### Effective Date of 1974 Amendment
 
@@ -326,9 +336,13 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 Section 2 of Pub. L. 90–404 provided that: “The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\].”
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–312, title II, §201, Oct. 30, 1998, 112 Stat. 2957, provided that: “This title \[amending this section, sections 721 and 722 of this title, and section 564w–1 of Title 25, Indians, enacting provisions set out as a note under section 722 of this title, and amending provisions listed in a table of National Wildlife Refuges set out under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1998’.”
+
 #### Short Title of 1997 Amendment
 
-Section 1(a) of Pub. L. 105–57 provided that: “This Act \[amending this section and section 668ee of this title and enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
+Section 1(a) of Pub. L. 105–57 provided that: “This Act \[amending this section and section 668ee of this titleand enacting provisions set out as notes under this section\] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
 
 #### Short Title of 1974 Amendment
 
@@ -386,7 +400,7 @@ Pub. L. 102–154, title III, §319, Nov. 13, 1991, 105 Stat. 1036, provided tha
 
 “(a)
 
-Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Roadat the site of former Pease Air Force Base, New Hampshire: <i>Provided</i>, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
+Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: <i>Provided</i>, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
 
 “(b)
 
@@ -444,7 +458,7 @@ Arthur R. Marshall Loxahatchee National Wildlife Refuge, Florida.—Pub. L. 99�
 
 Atchafalaya National Wildlife Refuge, Louisiana.—Pub. L. 98–548, title III, Oct. 26, 1984, 98 Stat. 2776; Pub. L. 99–625, §2, Nov. 7, 1986, 100 Stat. 3502.
 
-Bandon Marsh National Wildlife Refuge, Oregon.—Pub. L. 97–137, title I, Dec. 29, 1981, 95 Stat. 1709.
+Bandon Marsh National Wildlife Refuge, Oregon.—Pub. L. 97–137, title I, Dec. 29, 1981, 95 Stat. 1709; Pub. L. 105–321, §5, Oct. 30, 1998, 112 Stat. 3025.
 
 Bayou Cocodrie National Wildlife Refuge, Louisiana.—Pub. L. 101–593, title I, §108, Nov. 16, 1990, 104 Stat. 2956.
 
@@ -474,6 +488,8 @@ Grays Harbor National Wildlife Refuge, Washington.—Pub. L. 100–406, Aug. 19,
 
 Great Dismal Swamp National Wildlife Refuge, Virginia and North Carolina.—Pub. L. 93–402, Aug. 30, 1974, 88 Stat. 801.
 
+Hart Mountain National Antelope Refuge, Oregon.—Pub. L. 105–321, §4(a)–(d), Oct. 30, 1998, 112 Stat. 3023.
+
 Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, §2, June 28, 1980, 94 Stat. 607.
 
 Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(3), Dec. 2, 1980, 94 Stat. 2386.
@@ -486,6 +502,8 @@ Kanuti National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(4)
 
 Kenai National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(4), Dec. 2, 1980, 94 Stat. 2391; Pub. L. 104–333, div. I, title III, §311(d)(3), Nov. 12, 1996, 110 Stat. 4142.
 
+Klamath Marsh National Wildlife Refuge, Oregon.—Act Aug. 13, 1954, ch. 732, §28, as added Pub. L. 85–731, §1, Aug. 23, 1958, 72 Stat. 816; amended Pub. L. 86–247, Sept. 9, 1959, 73 Stat. 477; Pub. L. 105–312, title II, §205, Oct. 30, 1998, 112 Stat. 2957; Pub. L. 105–321, §4(e), Oct. 30, 1998, 112 Stat. 3025.
+
 Kodiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(5), Dec. 2, 1980, 94 Stat. 2391.
 
 Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(5), Dec. 2, 1980, 94 Stat. 2386.
@@ -495,6 +513,8 @@ Midway Atoll National Wildlife Refuge, Midway Islands.—Ex. Ord. No. 13022, §3
 Minnesota Valley National Wildlife Refuge, Minnesota.—Pub. L. 94–466, Oct. 8, 1976, 90 Stat. 1992.
 
 Neal Smith National Wildlife Refuge, Iowa.—Pub. L. 105–83, title III, §341, Nov. 14, 1997, 111 Stat. 1604.
+
+Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(g), (i), June 9, 1998, 112 Stat. 206, 207; Pub. L. 105–206, title IX, §9006(d), July 22, 1998, 112 Stat. 849.
 
 North Platte National Wildlife Refuge, Nebraska.—Pub. L. 104–212, title I, §101, Oct. 1, 1996, 110 Stat. 3014.
 
@@ -512,9 +532,13 @@ Protection Island National Wildlife Refuge, Washington.—Pub. L. 97–333, Oct.
 
 Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, §3, Dec. 31, 1987, 101 Stat. 1550.
 
+Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(j), June 9, 1998, 112 Stat. 207.
+
 Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, §1, Oct. 29, 1992, 106 Stat. 4489.
 
 Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961; Pub. L. 105–85, div. B, title XXVIII, §2840, Nov. 18, 1997, 111 Stat. 2007.
+
+Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(f), (h), June 9, 1998, 112 Stat. 206, 207.
 
 Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, §2, July 25, 1980, 94 Stat. 957.
 
@@ -523,6 +547,8 @@ Seal Beach National Wildlife Refuge, California.—Pub. L. 92–408, Aug. 29, 19
 Selawik National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(7), Dec. 2, 1980, 94 Stat. 2387.
 
 Silvio Conte National Fish and Wildlife Refuge, Connecticut, Massachusetts, New Hampshire, and Vermont.—Pub. L. 102–212, title I, Dec. 11, 1991, 105 Stat. 1655.
+
+Sonny Bono Salton Sea National Wildlife Refuge, California.—Pub. L. 105–372, title I, §103, Nov. 12, 1998, 112 Stat. 3380.
 
 Stewart B. McKinney National Wildlife Refuge, Connecticut.—Pub. L. 98–548, title II, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 100–38, May 13, 1987, 101 Stat. 306; Pub. L. 101–443, §2, Oct. 19, 1990, 104 Stat. 1028.
 
@@ -602,5 +628,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 459j–4, 668ee, 3125, 3212, 5207 of this title; title 43 section 1714.
+This section is referred to in sections 459j–4, 668ee, 742f, 3125, 3212, 5207 of this title; title 43 section 1714.
 

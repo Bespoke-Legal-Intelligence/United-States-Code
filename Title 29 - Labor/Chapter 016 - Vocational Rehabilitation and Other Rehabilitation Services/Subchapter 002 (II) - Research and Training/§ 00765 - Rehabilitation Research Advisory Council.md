@@ -6,11 +6,11 @@ Subject to the availability of appropriations, the Secretary shall establish in 
 
 #### (b) Duties
 
-The Council shall advise the Director with respect to research priorities and the development and revision of the long-range plan required by section 761a(g) of this title.
+The Council shall advise the Director with respect to research priorities and the development and revision of the 5-year plan required by section 762(h) of this title.
 
 #### (c) Qualifications
 
-Members of the Council shall be generally representative of the community of rehabilitation professionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals. At least one-half of the members shall be individuals with disabilities or parents, family members, guardians, advocates, or authorized representatives of the individuals.
+Members of the Council shall be generally representative of the community of rehabilitation professionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the individuals’ representatives. At least one-half of the members shall be individuals with disabilities or the individuals’ representatives.
 
 #### (d) Terms of appointment
 
@@ -52,13 +52,25 @@ On the request of the Council, the Secretary shall provide such technical assist
 
 Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Council.
 
-(Pub. L. 93–112, title II, §205, as added Pub. L. 102–569, title II, §206(a), Oct. 29, 1992, 106 Stat. 4409.)
+(Pub. L. 93–112, title II, §205, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1182; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §§401(16), 402(b)(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–414.)
 
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Prior Provisions
+
+A prior section 765, Pub. L. 93–112, title II, §205, as added Pub. L. 102–569, title II, §206(a), Oct. 29, 1992, 106 Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+A prior section 770, Pub. L. 93–112, title III, §301, formerly §300, Sept. 26, 1973, 87 Stat. 377; Pub. L. 95–602, title I, §122(c)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, §204(a), Nov. 7, 1988, 102 Stat. 3308; renumbered §301 and amended Pub. L. 102–569, title I, §102(p)(15), title III, §301(a), (b)(3), Oct. 29, 1992, 106 Stat. 4358, 4410, 4411, contained congressional declaration of purpose, prior to the general amendment of subchapter III of this chapter by Pub. L. 105–220.
+
+#### Amendments
+
+1998—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(11)\], made technical amendment to section designation and catchline in original.
+
+Pub. L. 105–277, §101(f) \[title VIII, §401(16)\], made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 761, 761a of this title.
+This section is referred to in sections 761, 762 of this title.
 

@@ -6,7 +6,7 @@ Prevailing Wages Requirement.—The Secretary of Transportation shall ensure tha
 
 (b)
 
-Employee Protective Arrangements.—(1) As a condition of financial assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(j)(5) of this title, the interests of employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(j)(5) shall specify the arrangements.
+Employee Protective Arrangements.—(1) As a condition of financial assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b) of this title, the interestsof employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b) shall specify the arrangements.
 
 (2) Arrangements under this subsection shall include provisions that may be necessary for—
 
@@ -24,7 +24,7 @@ Employee Protective Arrangements.—(1) As a condition of financial assistance u
 
 (3) Arrangements under this subsection shall provide benefits at least equal to benefits established under section 11326 of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1996, 109 Stat. 947.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372.)
 
 Historical and Revision Notes
 
@@ -56,11 +56,13 @@ In subsection (b)(3), the words “section 11347 of this title” are substitute
 
 #### References in Text
 
-Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings,Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan No. 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–178 substituted “5338(b)” for “5338(j)(5)” in two places.
 
 1995—Subsec. (b)(3). Pub. L. 104–88 substituted “11326” for “11347”.
 
@@ -70,5 +72,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5311, 5323, 5334, 5336 of this title.
+This section is referred to in sections 5307, 5311, 5323, 5334, 5336 of this title; title 23 sections 106, 182, 322.
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall establish regulations setting criteria for determining the adequacy of a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances and shall establish procedures whereby a person in charge of a port or terminal may request the Secretary to certify that the port's or terminal's facilities for receiving the residues and mixtures containing oil or noxious liquid substance from seagoing ships are adequate.
 
-(2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge ofports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
+(2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
 
 #### (b) Traffic considerations
 
@@ -16,7 +16,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 (2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2) of this section, the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
 
-(B) The Secretary may not issue a certificate attesting to the adequacy of reception facilities under this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
+(B) The Secretary may not issue a certificate attesting to the adequacy of reception facilitiesunder this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
 
 (C) The Secretary may, with respect to certificates issued under this paragraph prior to October 19, 1996, prescribe by regulation differing periods of validity for such certificates.
 

@@ -36,5 +36,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12211, 12581, 12594 of this title; title 20 sections 1141, 1228c, 2471; title 40 section 484.
+This section is referred to in sections 12211, 12581, 12594 of this title; title 20 sections 1003, 1228c, 2302, 9202; title 29 section 2801; title 40 section 484; title 47 section 255.
 

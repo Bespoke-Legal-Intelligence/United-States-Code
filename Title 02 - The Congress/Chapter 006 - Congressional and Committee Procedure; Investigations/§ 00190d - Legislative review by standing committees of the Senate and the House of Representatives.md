@@ -38,9 +38,13 @@ Subsec. (b). Pub. L. 92–136 substituted “In each odd-numbered year beginning
 
 Subsec. (c). Pub. L. 92–136 inserted reference to Committees on Appropriations, House Administration, Rules, and Standards of Official Conduct of the House.
 
-1970—Subsec. (a). Pub. L. 91–510 incorporated existing subject matter in provisions designated as subsec. (a), restricted the text to standing committees of Senate,revised phraseology to require standing committees to review and study, on a continuing basis, application, administration, and execution of laws and parts of laws for prior provision for exercise of continuous watchfulness of execution of laws by administrative agencies concerned, and in providing for assistance to the Senate, rather than the Congress, included analysis and evaluation of laws enacted by Congress and substituted provision for formulation, consideration, and enactment of modifications or changes in the laws and of additional legislation as necessary or appropriate for prior provisions for assistance in developing amendments or related legislation as may be necessary.
+1970—Subsec. (a). Pub. L. 91–510 incorporated existing subject matter in provisions designated as subsec. (a), restricted the text to standing committees of Senate, revised phraseology to require standing committees to review and study, on a continuing basis, application, administration, and execution of laws and parts of laws for prior provision for exercise of continuous watchfulness of execution of laws by administrative agencies concerned, and in providing for assistance to the Senate, rather than the Congress, included analysis and evaluation of laws enacted by Congress and substituted provision for formulation, consideration, and enactment of modifications or changes in the laws and of additional legislation as necessary or appropriate for prior provisions for assistance in developing amendments or related legislation as may be necessary.
 
 Subsecs. (b), (c). Pub. L. 91–510 added subsecs. (b) and (c).
+
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1971 Amendment
 

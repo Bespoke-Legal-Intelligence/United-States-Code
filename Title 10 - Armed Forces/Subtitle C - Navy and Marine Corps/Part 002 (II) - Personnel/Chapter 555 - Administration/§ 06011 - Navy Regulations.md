@@ -2,7 +2,7 @@
 
 United States Navy Regulations shall be issued by the Secretary of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 375; Oct. 14, 1981, Pub. L. 97–60, title II, §204(a)(2), 95 Stat. 1007.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 375; Pub. L. 97–60, title II, §204(a)(2), Oct. 14, 1981, 95 Stat. 1007.)
 
 Historical and Revision Notes
 

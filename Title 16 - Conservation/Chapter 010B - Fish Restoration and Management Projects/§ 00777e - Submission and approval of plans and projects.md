@@ -22,7 +22,7 @@ Administrative costs in the form of overhead or indirect costs for services prov
 
 The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities for <sup>1</sup> appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
-(Aug. 9, 1950, ch. 658, §6, 64 Stat. 432; Oct. 23, 1970, Pub. L. 91–503, title II, §202, 84 Stat. 1102; July 18, 1984, Pub. L. 98–369, div. A, title X, §1014(a)(5), 98 Stat. 1016.)
+(Aug. 9, 1950, ch. 658, §6, 64 Stat. 432; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1102; Pub. L. 98–369, div. A, title X, §1014(a)(5), July 18, 1984, 98 Stat. 1016.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ In the fulfillment of its purposes and in carrying out its annual budget program
 
 In the Corporation's purchasing and selling operations with respect to agricultural commodities (except sales to other Government agencies), and in the warehousing, transporting, processing, or handling of agricultural commodities, the Corporation shall, to the maximum extent practicable consistent with the fulfillment of the Corporation's purposes and the effective and efficient conduct of its business, utilize the usual and customary channels, facilities, and arrangements of trade and commerce.
 
-(June 29, 1948, ch. 704, §5, 62 Stat. 1072; Nov. 8, 1984, Pub. L. 98–623, title IV, §405(a), 98 Stat. 3409; Apr. 4, 1996, Pub. L. 104–127, title III, §381(a), 110 Stat. 1016.)
+(June 29, 1948, ch. 704, §5, 62 Stat. 1072; Pub. L. 98–623, title IV, §405(a), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 104–127, title III, §381(a), Apr. 4, 1996, 110 Stat. 1016.)
 
 #### Codification
 

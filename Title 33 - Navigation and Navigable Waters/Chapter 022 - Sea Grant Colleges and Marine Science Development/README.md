@@ -23,37 +23,35 @@
 | (b) | Objective. |
 | (c) | Purpose. |
 | [1122\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001122%20-%20Definitions.md) | Definitions. |
-| [1123\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001123%20-%20Establishment%20and%20administration%20of%20program.md) | Establishment and administration of program. |
-| (a) | Maintenance within Administration; component elements; long-range planning. |
-| (b) | Appointment and compensation of Director. |
-| (c) | Duties of Director. |
-| (d) | Powers of Secretary. |
+| [1123\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001123%20-%20National%20sea%20grant%20college%20program.md) | National sea grant college program. |
+| (a) | Program maintenance. |
+| (b) | Program elements. |
+| (c) | Responsibilities of Secretary. |
+| (d) | Director of National Sea Grant College Program. |
 | [1124\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001124%20-%20Program%20or%20project%20grants%20and%20contracts.md) | Program or project grants and contracts. |
 | (a) | Authorization; purposes; limitation on amount. |
 | (b) | Special grants; maximum amount; prerequisites. |
 | (c) | Eligibility and procedure. |
 | (d) | Terms and conditions. |
-| [1124a.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001124a%20-%20Sea%20grant%20international%20program.md) | Sea grant international program. |
-| (a) | In general. |
-| (b) | Eligibility, procedures, and requirements. |
-| [1125\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001125%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93186%2C%20%C2%A74%28a%29%2C%20Dec.%204%2C%201991%2C%20105%20Stat.%201283.md) | Repealed. |
-| [1126\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001126%20-%20Designation%20of%20sea%20grant%20colleges%20and%20sea%20grant%20regional%20consortia.md) | Designation of sea grant colleges and sea grant regional consortia. |
-| (a) | Authorization; prerequisites. |
-| (b) | Regulations. |
-| (c) | Suspension or termination; procedures applicable. |
+| 1124a, 1125. Repealed. |  |
+| [1126\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001126%20-%20Sea%20grant%20colleges%20and%20sea%20grant%20institutes.md) | Sea grant colleges and sea grant institutes. |
+| (a) | Designation. |
+| (b) | Existing designees. |
+| (c) | Suspension or termination of designation. |
+| (d) | Duties. |
 | [1127\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001127%20-%20Fellowships.md) | Fellowships. |
 | (a) | In general. |
 | (b) | Dean John A. Knauss Marine Policy Fellowship. |
 | (c) | Postdoctoral fellowships. |
 | [1128\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001128%20-%20Sea%20grant%20review%20panel.md) | Sea grant review panel. |
-| (a) | Establishment; commencement date. |
+| (a) | Establishment. |
 | (b) | Duties. |
 | (c) | Membership, terms, and powers. |
 | [1129\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001129%20-%20Interagency%20cooperation.md) | Interagency cooperation. |
 | [1130\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001130%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93186%2C%20%C2%A75%28a%29%2C%20Dec.%204%2C%201991%2C%20105%20Stat.%201283.md) | Repealed. |
 | [1131\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001131%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Grants and contracts; fellowships; international program. |
-| (b) | Administration. |
+| (a) | Authorization. |
+| (b) | Program elements. |
 | (c) | Priority oyster disease research. |
 | (d) | Availability of sums. |
 | (e) | Reversion of unobligated amounts. |

@@ -8,7 +8,7 @@ Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the
 
 &emsp;(2) adopt the standards established by paragraphs (2), (3) and (4) of subsection (b) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
 
-> For purposes of any determination under paragraphs (1) and (2) and any review of such determination in any court under section 3207 of this title, the purposes of this chapter supplement State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+> For purposes of any determination under paragraphs (1) and (2) and any review of such determination in any court under section 3207 of this title, the purposes of this chapter supplement State law. Nothing in this subsection prohibits any State regulatory authority or nonregulatedutility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
 #### (b) Establishment
 

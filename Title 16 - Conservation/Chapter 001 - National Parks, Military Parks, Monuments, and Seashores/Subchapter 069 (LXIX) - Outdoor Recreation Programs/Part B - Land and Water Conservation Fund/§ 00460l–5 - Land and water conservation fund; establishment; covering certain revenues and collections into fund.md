@@ -50,7 +50,7 @@ Subsec. (c)(1). Pub. L. 91–485, §1(a), substituted “fiscal years 1968, 1969
 
 Subsec. (c)(2). Pub. L. 91–485, §1(b), substituted “$200,000,000 or $300,000,000 for each of such fiscal years, as provided in cl. (1),” for “$200,000,000 for each of such fiscal years,”.
 
-1968—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
+1968—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for thefourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
 
 Subsecs. (b), (c). Pub. L. 90–401, §§1(a), 2, added subsec. (c) and redesignated former subsecs. (b) and (c) as (a) and (b), respectively.
 
@@ -108,7 +108,7 @@ Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance wit
 
 (b) Areas designated as those at which recreation user fees shall be charged shall hereafter in this Order be referred to as “designated areas.”
 
-Sec. 4. <i>Posting of designated areas</i>. The heads of administering agencies and departments shall provide for the posting of signs at all designated areas such as will clearly notify the visiting public that recreation user fees are charged therein. All areas designated pursuant to Sections 1 and 2 of this Order shall be so posted prior to the beginning of the recreation season or as soon as practicable following designation. No recreation user fee established pursuant to this Order shall be effective with respect to any designated area until that designated area has been posted.
+Sec. 4. <i>Posting of designated areas</i>. The heads of administering agencies and departments shall provide for the posting of signs at all designated areas such as will clearly notify the visiting public that recreation user fees are charged therein. All areas designated pursuant to Sections 1 and 2 of this Order shall be so posted prior to the beginning of the recreation season or as soon as practicable following designation. No recreation userfee established pursuant to this Order shall be effective with respect to any designated area until that designated area has been posted.
 
 Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b) of this Order shall, subject to the criteria prescribed by the Secretary of the Interior, establish a recreation user fee for each designated area administered under his jurisdiction by selecting from a schedule of fees, prescribed by the Secretary of the Interior pursuant to Section 6 of this Order, the fee which is appropriate for each such designated area under criteria prescribed by the Secretary pursuant to that section. Each such official shall also specify which designated areas shall be excluded from the coverage of the annual fee described in Section 2(a)(1) of the Act \[subsec. (a)(i) of this section\] and which, as a result of that exclusion will be subject to the fee described in Section 2(a)(iii) of the Act \[subsec. (a)(iii) of this section\]. The range of recreation user fees to be charged and the criteria for their selection shall be established under the procedures prescribed by Section 6 of this Order.
 
@@ -124,7 +124,7 @@ Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consu
 
 (1) Initial preparation and coordination of the comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Land and Water Conservation Fund, as required by Section 4(a) of the act \[section 460<i>l</i>–7(a) of this title\].
 
-(2) Development of such additional procedures and interpretive materials as are necessary to facilitate theimplementation of this Order and related provisions of the Act.
+(2) Development of such additional procedures and interpretive materials as are necessary to facilitate the implementation of this Order and related provisions of the Act.
 
 (3) Review and revision, if needed, of the criteria for designation set forth in Section 3 of this Order.
 

@@ -8,7 +8,7 @@ Section 846, Pub. L. 89–10, title III, §306, Apr. 11, 1965, 79 Stat. 43, requ
 
 Sections 847 and 847a were omitted in the general revision of title III of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, title III, Apr. 11, 1965, 79 Stat. 39, by Pub. L. 95–561, title III, §301, Nov. 1, 1978, 92 Stat. 2210.
 
-Section 847, Pub. L. 89–10, title III, §308, formerly §307, Apr. 11, 1965, 79 Stat. 44, renumbered Pub. L. 90–247, title I, §131, Jan. 2, 1968, 81 Stat. 797; amended Pub. L. 91–230, title I, §131(a)(1), Apr. 13, 1970, 84 Stat.140, related to the recovery of payments to supplementary educational centers and services.
+Section 847, Pub. L. 89–10, title III, §308, formerly §307, Apr. 11, 1965, 79 Stat. 44, renumbered Pub. L. 90–247, title I, §131, Jan. 2, 1968, 81 Stat. 797; amended Pub. L. 91–230, title I, §131(a)(1), Apr. 13, 1970, 84 Stat. 140, related to the recovery of payments to supplementary educational centers and services.
 
 Section 847a, Pub. L. 89–10, title III, §309, as added Pub. L. 90–247, title I, §131, Jan. 2, 1968, 81 Stat. 797; amended Pub. L. 91–230, title I, §131(a)(1), Apr. 13, 1970, 84 Stat. 140; Pub. L. 93–380, title VIII, §845(b), Aug. 21, 1974, 88 Stat. 612; Pub. L. 94–273, §3(8), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–112, §2(c)(3), Sept. 24, 1977, 91 Stat. 911, provided for the establishment of a National Advisory Council on Supplementary Centers and Services.
 

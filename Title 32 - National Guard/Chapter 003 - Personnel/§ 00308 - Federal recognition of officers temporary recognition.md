@@ -30,7 +30,3 @@ In subsection (a), the words “by regulations” are omitted, since the Secreta
 
 In subsection (b), the words “To be eligible for temporary Federal recognition under subsection (a), a person” are substituted for the words “However, a temporary extension of Federal recognition shall be granted only when the officer”. The words “the period of temporary recognition” are substituted for the words “such recognition”. The words “and obligations required of him” and “in the same grade” are omitted as surplusage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1370.
-

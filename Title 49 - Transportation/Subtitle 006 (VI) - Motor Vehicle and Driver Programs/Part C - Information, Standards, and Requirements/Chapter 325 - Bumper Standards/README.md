@@ -11,14 +11,18 @@
 | [32507\.](%C2%A7%2032507%20-%20Penalties%20and%20enforcement.md) | Penalties and enforcement. |
 | [32508\.](%C2%A7%2032508%20-%20Civil%20actions%20by%20owners%20of%20passenger%20motor%20vehicles.md) | Civil actions by owners of passenger motor vehicles. |
 | [32509\.](%C2%A7%2032509%20-%20Information%20and%20assistance%20from%20other%20departments%2C%20agencies%2C%20and%20instrumentalities.md) | Information and assistance from other departments, agencies, and instrumentalities. |
-| [32510\.](%C2%A7%2032510%20-%20Annual%20report.md) | Annual report. |
+| \[32510. | Repealed.\] |
 | [32511\.](%C2%A7%2032511%20-%20Relationship%20to%20other%20motor%20vehicle%20standards.md) | Relationship to other motor vehicle standards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1998—Pub. L. 105–362, title XV, §1501(e)(2), Nov. 10, 1998, 112 Stat. 3295, struck out item 32510 “Annual report”.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 18 section 2721.
+This chapter is referred to in section 30113 of this title; title 18 section 2721.
 
 
 ---
@@ -34,5 +38,5 @@ This chapter is referred to in title 18 section 2721.
 - [&sect; 32507 - Penalties and enforcement](%C2%A7%2032507%20-%20Penalties%20and%20enforcement.md)
 - [&sect; 32508 - Civil actions by owners of passenger motor vehicles](%C2%A7%2032508%20-%20Civil%20actions%20by%20owners%20of%20passenger%20motor%20vehicles.md)
 - [&sect; 32509 - Information and assistance from other departments, agencies, and instrumentalities](%C2%A7%2032509%20-%20Information%20and%20assistance%20from%20other%20departments%2C%20agencies%2C%20and%20instrumentalities.md)
-- [&sect; 32510 - Annual report](%C2%A7%2032510%20-%20Annual%20report.md)
+- [&sect; 32510 - Repealed. Pub. L. 105&#8211;362, title XV, &sect;1501(e)(1), Nov. 10, 1998, 112 Stat. 3294](%C2%A7%2032510%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XV%2C%20%C2%A71501%28e%29%281%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203294.md)
 - [&sect; 32511 - Relationship to other motor vehicle standards](%C2%A7%2032511%20-%20Relationship%20to%20other%20motor%20vehicle%20standards.md)

@@ -20,7 +20,7 @@ The Commission shall not enter into any such contract agreement or arrangement u
 
 The Commission shall publish rules for the implementation of this section, in accordance with section 553 of title 5 (without regard to subsection (a)(2) thereof) as soon as practicable after November 6, 1978, but in no event later than 120 days after such date.
 
-(Aug. 1, 1946, ch. 724, title I, §170A, as added Nov. 6, 1978, Pub. L. 95–601, §8(a), 92 Stat. 2950; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §170A, as added Pub. L. 95–601, §8(a), Nov. 6, 1978, 92 Stat. 2950; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Transfer of Functions
 

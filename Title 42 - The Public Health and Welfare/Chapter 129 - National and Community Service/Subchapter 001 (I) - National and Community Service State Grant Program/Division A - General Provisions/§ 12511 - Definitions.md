@@ -66,11 +66,11 @@ For purposes of this subchapter:
 
 #### (12) Individual with a disability
 
-&emsp;Except as provided in section 12635(a) of this title, the term “individual with a disability” has the meaning given the term in section 706(8)(B) of title 29.
+&emsp;Except as provided in section 12635(a) of this title, the term “individual with a disability” has the meaning given the term in section 705(20)(B) of title 29.
 
 #### (13) Institution of higher education
 
-&emsp;The term “institution of higher education” has the same meaning given such term in section 1141(a) of title 20.
+&emsp;The term “institution of higher education” has the same meaning given such term in section 1001 of title 20.
 
 #### (14) Local educational agency
 
@@ -170,7 +170,7 @@ For purposes of this subchapter:
 
 &emsp;The term “student” means an individual who is enrolled in an elementary or secondary school or institution of higher education on a full- or part-time basis.
 
-(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028.)
+(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621.)
 
 #### References in Text
 
@@ -185,6 +185,10 @@ The Individuals with Disabilities Education Act, referred to in par. (21)(B), is
 For ratification of Compact of Free Association with Palau, referred to in par. (26), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
+
+1998—Par. (12). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
+
+Par. (13). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 1994—Par. (8). Pub. L. 103–382, §394(h)(1)(A), substituted “section 8801 of title 20” for “section 2891(8) of title 20”.
 
@@ -220,13 +224,17 @@ Pars. (25) to (29). Pub. L. 102–10, §3(2), redesignated pars. (24) to (28) as
 
 Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2751, 12524, 12531, 12561, 12604, 12653b, 12682 of this title; title 20 section 1141.
+This section is referred to in sections 2751, 12524, 12531, 12561, 12604, 12653b, 12682 of this title; title 20 section 1003.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 If a person whose name is on the temporary disability retired list of an armed force, and who has elected an annuity under this subchapter, has his name removed from that list for any reason other than retirement or grant of retired pay, he is entitled to a refund of the difference between the amount by which his retired pay was reduced to provide the annuity and the cost of an amount of term insurance equal to the protection provided for his dependents during the period that he was on that list.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 111; Sept. 21, 1972, Pub. L. 92–425, §1(2)(A), 86 Stat. 706.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 111; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706.)
 
 Historical and Revision Notes
 

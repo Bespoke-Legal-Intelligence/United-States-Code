@@ -2,11 +2,11 @@
 
 #### (a) Authority
 
-The Secretary may delegate, to one or more mortgagees approved by the Secretary under the direct endorsement program, the authority of the Secretary under this chapter to insure mortgages involving property upon which there is located a dwelling designed principally for occupancy by 1 to 4 families.
+The Secretary may delegate, to one or more mortgagees approved by the Secretary under thedirect endorsement program, the authority of the Secretary under this chapter to insure mortgages involving property upon which there is located a dwelling designed principally for occupancy by 1 to 4 families.
 
 #### (b) Considerations
 
-In determining whether to delegate authority to a mortgagee under this section, the Secretary shall consider the experience and performance of the mortgagee compared to the default rate of all insured mortgages in comparable markets,and such other factors as the Secretary determines appropriate to minimize risk of loss to the insurance funds under this chapter.
+In determining whether to delegate authority to a mortgagee under this section, the Secretary shall consider the experience and performance of the mortgagee compared to the default rate of all insured mortgages in comparable markets, and such other factors as the Secretary determines appropriate to minimize risk of loss to the insurance funds under this chapter.
 
 #### (c) Enforcement of insurance requirements
 

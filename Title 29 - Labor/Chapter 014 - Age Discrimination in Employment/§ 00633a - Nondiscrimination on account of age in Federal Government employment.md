@@ -2,7 +2,7 @@
 
 #### (a) Federal agencies affected
 
-All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Rate Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, and in the Government Printing Office, the General Accounting Office, and the Library of Congress shall be made free from any discrimination based on age.
+All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (includingemployees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Rate Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Printing Office, the General Accounting Office, and the Library of Congress shall be made free from any discrimination based on age.
 
 #### (b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification
 
@@ -38,7 +38,7 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 (2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
-(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8.)
+(Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092.)
 
 #### References in Text
 
@@ -46,11 +46,17 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 
 #### Amendments
 
+1998—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office”.
+
 1995—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
 
 1978—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
 
 Subsecs. (f), (g). Pub. L. 95–256, §5(e), added subsecs. (f) and (g).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–220, title III, §341(d), Aug. 7, 1998, 112 Stat. 1092, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section, section 791 of this title, and section 2000e–16 of Title 42, The Public Health and Welfare\] shall take effect on the date of enactment of this Act \[Aug. 7, 1998\] and shall apply to and may be raised in any administrative or judicial claim or action brought before such date of enactment but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations.”
 
 #### Effective Date of 1995 Amendment
 

@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
 
-(Oct. 14, 1940, ch. 862, title VI, §611, as added Sept. 1, 1951, ch. 378, title VI, §603(d), 65 Stat. 314; amended July 14, 1952, ch. 723, §6, 66 Stat. 603; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
+(Oct. 14, 1940, ch. 862, title VI, §611, as added Sept. 1, 1951, ch. 378, title VI, §603(d), 65 Stat. 314; amended July 14, 1952, ch. 723, §6, 66 Stat. 603; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Ex. Ord. No. 10339, Apr. 7, 1952, 17 F.R. 3012, as amended by Ex. Ord. No. 10425
 
 6\. \[Superseded. Ex. Ord. No. 10425, Jan. 16, 1953, 18 F.R. 405.\]
 
-7\. The time stipulated in section 606(a)(3) of the Act \[section 1586(a)(3) of this title\] on or before which thegoverning body of the municipality or county must enter into an agreement with the public housing agency satisfactory to the Public Housing Administration providing for local cooperation and payments in lieu of taxes and on or before which the public housing agency must enter into an agreement with the Public Housing Administration for the administration of any project requested under section 606(a) of the Act \[section 1586(a) of this title\] is extended to June 30, 1953.
+7\. The time stipulated in section 606(a)(3) of the Act \[section 1586(a)(3) of this title\] on or before which the governing body of the municipality or county must enter into an agreement with the public housing agency satisfactory to the Public Housing Administration providing for local cooperation and payments in lieu of taxes and on or before which the public housing agency must enter into an agreement with the Public Housing Administration for the administration of any project requested under section 606(a) of the Act \[section 1586(a) of this title\] is extended to June 30, 1953.
 
 This order supersedes Executive Order 10284, dated September 1, 1951.
 

@@ -2,7 +2,7 @@ Part B—Even Start Family Literacy Programs
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 6302, 8852, 8857 of this title; title 29 section 1645; title 31 section 6703; title 42 section 9855d.
+This part is referred to in sections 6302, 6661b, 6661d, 8852, 8857 of this title; title 29 section 1645; title 31 section 6703; title 42 section 9855d.
 
 
 ---
@@ -18,4 +18,6 @@ This part is referred to in sections 6302, 8852, 8857 of this title; title 29 se
 - [&sect; 06367 - Applications](%C2%A7%2006367%20-%20Applications.md)
 - [&sect; 06368 - Award of subgrants](%C2%A7%2006368%20-%20Award%20of%20subgrants.md)
 - [&sect; 06369 - Evaluation](%C2%A7%2006369%20-%20Evaluation.md)
+- [&sect; 06369a - Indicators of program quality](%C2%A7%2006369a%20-%20Indicators%20of%20program%20quality.md)
+- [&sect; 06369b - Research](%C2%A7%2006369b%20-%20Research.md)
 - [&sect; 06370 - Construction](%C2%A7%2006370%20-%20Construction.md)

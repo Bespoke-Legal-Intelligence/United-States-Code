@@ -22,9 +22,9 @@ Federal payments made under a cooperative agreement or grant under subsection (a
 
 #### (c) Period of support; additional periods
 
-Support of a center under subsection (a) of this section may be for a period of not to exceedfive years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+Support of a center under subsection (a) of this section may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
-(July 1, 1944, ch. 373, title IV, §414, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 835; amended Nov. 4, 1988, Pub. L. 100–607, title I, §123, 102 Stat. 3055.)
+(July 1, 1944, ch. 373, title IV, §414, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 835; amended Pub. L. 100–607, title I, §123, Nov. 4, 1988, 102 Stat. 3055.)
 
 #### Amendments
 

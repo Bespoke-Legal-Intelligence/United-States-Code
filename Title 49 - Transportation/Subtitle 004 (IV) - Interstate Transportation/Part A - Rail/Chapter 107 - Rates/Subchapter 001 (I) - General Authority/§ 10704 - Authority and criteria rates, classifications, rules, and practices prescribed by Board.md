@@ -24,7 +24,7 @@
 
 #### Prior Provisions
 
-A prior section 10704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1373; Pub. L. 96–296, §13(b), July 1, 1980, 94 Stat. 803; Pub. L. 96–448, title II, §205(b), Oct. 14, 1980, 94 Stat. 1906; Pub. L. 97–261, §9(b), Sept. 20, 1982, 96 Stat. 1109; Pub. L. 99–521, §7(b), Oct. 22, 1986, 100 Stat. 2994, related to authority and criteria for rates, classifications, rules, and practices prescribed by Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10704, 13701, and 15503 of this title.
+A prior section 10704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1373; Pub. L. 96–296, §13(b), July 1, 1980, 94 Stat.803; Pub. L. 96–448, title II, §205(b), Oct. 14, 1980, 94 Stat. 1906; Pub. L. 97–261, §9(b), Sept. 20, 1982, 96 Stat. 1109; Pub. L. 99–521, §7(b), Oct. 22, 1986, 100 Stat. 2994, related to authority and criteria for rates, classifications, rules, and practices prescribed by Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10704, 13701, and 15503 of this title.
 
 #### Amendments
 

@@ -8,5 +8,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1802 of this title.
+This section is referred to in sections 1802, 1842 of this title.
 

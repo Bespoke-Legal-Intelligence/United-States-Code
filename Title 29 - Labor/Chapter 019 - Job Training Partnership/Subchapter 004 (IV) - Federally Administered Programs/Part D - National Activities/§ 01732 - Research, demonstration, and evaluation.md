@@ -8,7 +8,7 @@ It is the purpose of this section to assist the United States in expanding emplo
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a comprehensive program of training and employment research, utilizing the methods, techniques, andknowledge of the behavioral and social sciences and such other methods, techniques, and knowledge as will aid in the solution of the employment and training problems of the United States.
+&emsp;The Secretary shall establish a comprehensive program of training and employment research, utilizing the methods, techniques, and knowledge of the behavioral and social sciences and such other methods, techniques, and knowledge as will aid in the solution of the employment and training problems of the United States.
 
 #### (2) Studies
 
@@ -24,7 +24,7 @@ It is the purpose of this section to assist the United States in expanding emplo
 
 &emsp;&emsp;(E) improved means of using projections of labor supply and demand, including occupational and skill requirements and areas of labor shortages at the national and subnational levels;
 
-&emsp;&emsp;(F) methods of improving the wages and employment opportunities of low-skilled, disadvantaged, and dislocated workers, and workers with obsolete skills;
+&emsp;&emsp;(F) methods of improving the wages and employment opportunities of low-skilled,disadvantaged, and dislocated workers, and workers with obsolete skills;
 
 &emsp;&emsp;(G) methods of addressing the needs of at-risk populations, such as youth, homeless individuals and other dependent populations, older individuals, and other groups with multiple barriers to employment;
 
@@ -110,9 +110,13 @@ It is the purpose of this section to assist the United States in expanding emplo
 
 (Pub. L. 97–300, title IV, §452, Oct. 13, 1982, 96 Stat. 1381; Pub. L. 102–367, title IV, §403(a)(2), Sept. 7, 1992, 106 Stat. 1078.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Wagner-Peyser Act, referred to in subsec. (d)(1)(B)(i), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (d)(1)(B)(i), is act June 6, 1933, ch. 49, 48 Stat. 113, asamended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 The National Apprenticeship Act, referred to in subsec. (d)(1)(B)(ii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
@@ -133,6 +137,8 @@ Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub
 #### Workforce Flexibility Partnership Demonstration Program
 
 Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1469, provided in part: “That the Secretary of Labor shall establish a workforce flexibility (work-flex) partnership demonstration program under which the Secretary shall authorize not more than six States, of which at least three States shall each have populations not in excess of 3,500,000, with a preference given to those States that have been designated Ed-Flex Partnership States under section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], to waive any statutory or regulatory requirement applicable to service delivery areas or substate areas within the State under titles I–III of the Job Training Partnership Act \[29 U.S.C. 1511 et seq., 1601 et seq., 1651 et seq.\] (except for requirements relating to wage and labor standards, grievance procedures and judicial review, nondiscrimination, allotment of funds, and eligibility), and any of the statutory or regulatory requirements of sections 8–10 of the Wagner-Peyser Act \[29 U.S.C. 49g–49i\] (except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to job seekers), for a duration not to exceed the waiver period authorized under section 311(e) of Public Law 103–227, pursuant to a plan submitted by such States and approved by the Secretary for the provision of workforce employment and training activities in the States, which includes a description of the process by which service delivery areas and substate areas may apply for and have waivers approved by the State, the requirements of the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] to be waived, the outcomes to be achieved and other measures to be taken to ensure appropriate accountability for Federal funds.”
+
+\[References to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998, see section 2940(b) of this title. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.\]
 
 Similar provisions were contained in the following prior appropriations act:
 

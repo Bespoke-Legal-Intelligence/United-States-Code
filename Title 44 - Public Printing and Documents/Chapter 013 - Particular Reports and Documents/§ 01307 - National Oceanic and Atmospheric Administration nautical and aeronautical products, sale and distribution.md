@@ -2,7 +2,7 @@
 
 (a)(1) All nautical and aeronautical products created or published by the National Oceanic and Atmospheric Administration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical and aeronautical products are sold to the public.
 
-(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical and aeronautical products may be increased over a period of not less than three years after the date of enactment of this section so as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter. At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety.
+(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical and aeronautical products may be increased over a period of not less than three years after the date of enactment of this section so as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
 
 (B) The Secretary, after consultation with the Secretary of Transportation, shall adjust the prices of nautical or aeronautical products in such manner as is necessary to avoid any adverse impact on aviation and marine safety attributable to the prices specified in subparagraph (A) of this paragraph.
 
@@ -18,11 +18,11 @@
 
 &emsp;(2) at prices which the Secretary establishes, to the departments and officers of the United States requiring them for official use.
 
-(d) The fees provided for in this section are for the purpose of reimbursing the United States Government for the costs of creating, publishing or distributing aeronautical and nautical products of the National Oceanic and Atmospheric Administration. The collection of fees authorized by this section shall not alter or expand any duty or liability of the United States under existing law for the performance of functions for which fees are collected, nor shall the collectionof fees constitute an express or implied undertaking by the United States to perform any activity in a certain manner.
+(d) The fees provided for in this section are for the purpose of reimbursing the United States Government for the costs of creating, publishing or distributing aeronautical and nautical products of the National Oceanic and Atmospheric Administration. The collection of fees authorized by this section shall not alter or expand any duty or liability of the United States under existing law for the performance of functions for which fees are collected, nor shall the collection of fees constitute an express or implied undertaking by the United States to perform any activity in a certain manner.
 
 (e) For purposes of this section, the term “nautical and aeronautical products” includes all nautical and aeronautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, and associated data bases which are created or published by the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1266; Pub. L. 99–272, title VI, §6011(a), Apr. 7, 1986, 100 Stat. 121.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1266; Pub. L. 99–272, title VI, §6011(a), Apr. 7, 1986, 100 Stat. 121; Pub. L. 105–362, title II, §201(a), Nov. 10, 1998, 112 Stat. 3282.)
 
 #### Historical and Revision Notes
 
@@ -35,6 +35,8 @@ The reference to the Environmental Science Service Administration is inserted on
 The date of enactment of this section, referred to in subsec. (a)(2)(A), probably means the date of enactment of Pub. L. 99–272, which was approved Apr. 7, 1986.
 
 #### Amendments
+
+1998—Subsec. (a)(2)(A). Pub. L. 105–362 struck out at end “At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety.”
 
 1986—Subsec. (a). Pub. L. 99–272 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The charts published by the Environmental Science Service Administration shall be sold at cost of paper and printing as nearly as practicable. The price to the public shall include all expenses incurred in actual reproduction of the charts after the original cartography, such as photography, opaquing, platemaking, press time and bindery operations; the full postage rates, according to the rates for postal services used; and any additional cost factors considered appropriate by the Secretary such as overhead and administrative expenses allocable to the production of the charts and related reference materials. The costs of basic surveys and geodetic work done may not be included in the price of the charts and reference materials. The Secretary of Commerce shall publish the prices at which charts and reference materials are sold to the public at least once each calendar year.”
 
@@ -68,5 +70,5 @@ Surveys and other activities, see section 883a of Title 33.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 1534.
+This section is referred to in title 15 section 1534; title 33 section 892b.
 

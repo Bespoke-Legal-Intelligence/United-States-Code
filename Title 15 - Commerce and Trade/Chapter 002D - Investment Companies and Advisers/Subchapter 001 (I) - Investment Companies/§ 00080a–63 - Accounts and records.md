@@ -10,7 +10,7 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 (2) If the Commission finds it is necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, the Commission may also require, by rule, any person who, acting as principal or agent, sells a security of a business development company to inform the purchaser of such securities, at or before the time of sale, of the existence of the risk statement prepared by such business development company pursuant to this subsection, and make such risk statement available on request. The Commission, in making such rules and regulations, shall consider, among other matters, whether any such rule or regulation would impose any unreasonable burdens on such brokers or dealers or unreasonably impair the maintenance of fair and orderly markets.
 
-(Aug. 22, 1940, ch. 686, title I, §64, as added Oct. 21, 1980, Pub. L. 96–477, title I §105, 94 Stat. 2289; amended Oct. 11, 1996, Pub. L. 104–290, title V, §507, 110 Stat. 3446.)
+(Aug. 22, 1940, ch. 686, title I, §64, as added Pub. L. 96–477, title I §105, Oct. 21, 1980, 94 Stat. 2289; amended Pub. L. 104–290, title V, §507, Oct. 11, 1996, 110 Stat. 3446.)
 
 #### Amendments
 

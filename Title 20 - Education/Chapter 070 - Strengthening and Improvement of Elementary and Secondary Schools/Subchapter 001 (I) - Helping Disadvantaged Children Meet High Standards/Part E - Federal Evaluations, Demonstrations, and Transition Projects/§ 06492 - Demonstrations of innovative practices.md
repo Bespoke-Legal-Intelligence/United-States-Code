@@ -6,7 +6,7 @@
 
 &emsp;From the funds appropriated for any fiscal year under section 6302(g)(2) of this title, the Secretary may make grants to State educational agencies, local educational agencies, other public agencies, nonprofit organizations, public or private partnerships involving business and industry organizations, and consortia of such entities to carry out demonstration projects that show the most promise of enabling children served under this subchapter to meet challenging State content standards and challenging State student performance standards. Such projects shall include promising strategies such as—
 
-&emsp;&emsp;(A) accelerated curricula, the application of new technologies to improve teaching and learning, extended learning time, and a safe and enriched full-day environment for children to provide children the opportunity to reach such standards;
+&emsp;&emsp;(A) accelerated curricula, the application of new technologies to improve teaching and learning, extended learning time, and a safeand enriched full-day environment for children to provide children the opportunity to reach such standards;
 
 &emsp;&emsp;(B) integration of education services with each other and with health, family, and other social services such as mentoring programs, particularly in empowerment zones and enterprise communities;
 

@@ -24,7 +24,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) of this section on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B of this subchapter during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
 
-&emsp;(2) in the case of an individual who first meets the conditions of eligibility under this section on or after the first day of the eighth month after October 1972, the initial enrollment period shall begin on the first day of the third month before the month in which he first becomes eligible and shall end 7 months later;
+&emsp;(2) in the case of an individual who first meets the conditions of eligibility under this section on or after the first day of the eighth month after October 1972, the initial enrollment period shall begin on the first day of thethird month before the month in which he first becomes eligible and shall end 7 months later;
 
 &emsp;(3) in the case of an individual who enrolls pursuant to paragraph (1) of this subsection, entitlement to benefits shall begin on—
 
@@ -106,7 +106,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iv) is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if at such time the individual had at least 30 quarters of coverage under such subchapter.
 
-(5)(A) The amount of the monthly premium shall be zero in the case of an individual who is a person described in subparagraph (B) for a month, if—
+(5)(A) The amount of the monthly premium shall be zero in the case of an individual who isa person described in subparagraph (B) for a month, if—
 
 &emsp;(i) the individual's premium under this section for the month is not (and will not be) paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof; and
 
@@ -144,9 +144,9 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (2)(A) Except as provided in subparagraph (B), the provisions of subsections (c), (d), (e), and (f) of section 1395v of this title shall apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in the program established by this part in the same manner and to the same extent as they apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in part B of this subchapter.
 
-(B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6)\(with reference to subsection (b) of section 1395r of this title)” for “subsection (b).”.<sup>2</sup>
+(B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b).”.<sup>2</sup>
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Oct. 30, 1972, Pub. L. 92–603, title II, §202, 86 Stat. 1374; amended Apr. 20, 1983, Pub. L. 98–21, title VI, §606(a)(3)(D), (b), 97 Stat. 170, 171; July 18, 1984, Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), 98 Stat. 1080, 1100; Apr. 7, 1986, Pub. L. 99–272, title IX, §9124(a), 100 Stat. 168; Dec. 22, 1987, Pub. L. 100–203, title IV, §4009(j)(9), as added July 1, 1988, Pub. L. 100–360, title IV, §411(b)(8)(D), 102 Stat. 772; July 1, 1988, Pub. L. 100–360, title I, §103, 102 Stat. 687; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(2), 102 Stat. 2413; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), 103 Stat. 2161, 2163; Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), 104 Stat. 1388–45, 1388–54; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13508(a), 107 Stat. 579; Aug. 5, 1997, Pub. L. 105–33, title IV, §4453(a), 111 Stat. 425.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 100–485 effective as if originally included in the Medica
 
 Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(8)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L.100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(8)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1986 Amendment
 
@@ -232,7 +232,7 @@ Section 9124(b) of Pub. L. 99–272 provided that:
 
 Amendment by section 2315(e) of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2315(g) of Pub. L. 98–369, set out as an Effective and Termination Dates of 1984 Amendments note under section 1395ww of this title.
 
-Amendment by section 2354(b)(3), (4) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by section 2354(b)(3), (4) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L.98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 

@@ -2,7 +2,7 @@
 
 Whoever, in any place within the jurisdiction of the United States or in the Canal Zone, without authority, wears the uniform or a distinctive part thereof or anything similar to a distinctive part of the uniform of any of the armed forces of the United States, Public Health Service or any auxiliary of such, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §15(a), 63 Stat. 91; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(E), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §15(a), 63 Stat. 91; Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ Minor changes of phraseology also were made.
 
 #### 1949 Act
 
-This section \[section 15\] inserts “armed forces” in the catch line and text of section 702 of title 18, U.S.C., and thereby includes the Air Force which was formerly part of the Army. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]). Also, it incorporates in such section the provisions of act of April 15, 1948 (ch. 188, 62 Stat. 172), which relates to this section as well as to section 1393 of title 10, U.S.C. (one of the sources of such sec. 701), as it existed at the time of the enactment of the revision of title 18 and which was not incorporated in title 18 when the revision was enacted. In this connection specific reference to the Canal Zone, Guam, American Samoa, and the Virgin Islands, as contained in such act of April 15, 1948, were omitted as covered by the phrase, “in any place within the jurisdiction of the United States,” as used in this amendment of such section 702 of title 18, U.S.C.
+This section \[section 15\] inserts “armed forces” in the catch line and text of section 702 of title 18, U.S.C., and thereby includes the Air Force which was formerly part of the Army. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]). Also, it incorporates in such section the provisions of act of April 15, 1948 (ch. 188, 62 Stat. 172), which relates to this section as well as to section 1393 of title 10, U.S.C. (one of the sources of such sec. 701), as it existedat the time of the enactment of the revision of title 18 and which was not incorporated in title 18 when the revision was enacted. In this connection specific reference to the Canal Zone, Guam, American Samoa, and the Virgin Islands, as contained in such act of April 15, 1948, were omitted as covered by the phrase, “in any place within the jurisdiction of the United States,” as used in this amendment of such section 702 of title 18, U.S.C.
 
 #### References in Text
 
@@ -34,7 +34,7 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat.1610, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Cross References
 

@@ -1,6 +1,6 @@
 ### §1501. Establishment of Department; Secretary; seal
 
-There shall be at the seat of government an executive department to be known as the Department of Commerce, and a Secretary of Commerce, who shall be the head thereof, who shall be appointed by the President, by and with the advice and consent of the Senate, and whose term and tenure of office shall be like that of the heads of the other executive departments; and the provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve, and judicial notice shall be taken of the said seal.
+There shall be at the seat of government an executive department to be known as the Department of Commerce, and a Secretary of Commerce, who shall be the head thereof, who shall be appointed by the President, by and with theadvice and consent of the Senate, and whose term and tenure of office shall be like that of the heads of the other executive departments; and the provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve, and judicial notice shall be taken of the said seal.
 
 (Feb. 14, 1903, ch. 552, §1, 32 Stat. 825; Feb. 17, 1909, ch. 137, §§1, 2, 35 Stat. 626; Mar. 4, 1909, ch. 297, §1, 35 Stat. 861; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Mar. 3, 1917, ch. 163, §1, 39 Stat. 1111; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301.)
 
@@ -26,7 +26,7 @@ Creation of the Office of Deputy Secretary of Commerce by section 2(b)(1) of 197
 
 #### Order of Succession
 
-For order of succession in case of absence, disability or vacancy in office of both the Secretary and Deputy Secretary, see Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in case of absence, disability or vacancy in office of both the Secretary and Deputy Secretary, see Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 5 OF 1950</b>
 
@@ -44,7 +44,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Performance of Functions of Secretary
 
-The Secretary of Commerce may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or byany agency or employee, of the Department of Commerce of any function of the Secretary, including any function transferred to the Secretary by the provisions of this reorganization plan.
+The Secretary of Commerce may from time to time make such provisions as he shall deem appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of Commerce of any function of the Secretary, including any function transferred to the Secretary by the provisions of this reorganization plan.
 
 #### Sec. 3. Administrative Assistant Secretary
 
@@ -62,7 +62,7 @@ I transmit herewith Reorganization Plan No. 5 of 1950, prepared in accordance wi
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 5 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
-I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
+I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, byreason of reorganizations made thereby, provisions for the appointment and compensation of an Administrative Assistant Secretary of Commerce. The rate of compensation fixed for this officer is that which I have found to prevail in respect to comparable officers in the executive branch of the Government.
 
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 

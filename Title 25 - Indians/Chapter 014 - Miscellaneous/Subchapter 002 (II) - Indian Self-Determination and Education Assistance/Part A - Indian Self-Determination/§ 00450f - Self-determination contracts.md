@@ -28,7 +28,7 @@
 
 &emsp;(E) the program, function, service, or activity (or portion thereof) that is the subject of the proposal is beyond the scope of programs, functions, services, or activities covered under paragraph (1) because the proposal includes activities that cannot lawfully be carried out by the contractor.
 
-> Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the 90-day period specified in the second sentence of this subsection,<sup>1</sup> if before the expiration of such period, the Secretary obtains the voluntary and express written consent of the tribe or tribal organization to extend or otherwise alter such period. The contractor shall include in the proposal of the contractor the standards under which the tribal organization will operate the contracted program, service, function, or activity, including in the area of construction, provisions regarding the use of licensed and qualified architects, applicable health and safety standards, adherence to applicable Federal, State, local, or tribal building codes and engineering standards. The standards referred to in the preceding sentence shall ensure structural integrity, accountability of funds, adequate competition for subcontracting under tribal or other applicable law, the commencement, performance, and completion of the contract, adherence to project plans and specifications (including anyapplicable Federal construction guidelines and manuals), the use of proper materials and workmanship, necessary inspection and testing, and changes, modifications, stop work, and termination of the work when warranted.
+> Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the 90-day period specified in the second sentence of this subsection,<sup>1</sup> if before the expiration of such period, the Secretary obtains the voluntary and express written consent of the tribe or tribal organization to extend or otherwise alter such period. The contractor shall include in the proposal of the contractor the standards under which the tribal organization will operate the contracted program, service, function, or activity, including in the area of construction, provisions regarding the use of licensed and qualified architects, applicable health and safety standards, adherence to applicable Federal, State, local, or tribal building codes and engineering standards. The standards referred to in the preceding sentence shall ensure structural integrity, accountability of funds, adequate competition for subcontracting under tribal or other applicable law, the commencement, performance, and completion of the contract, adherence to project plans and specifications (including any applicable Federal construction guidelines and manuals), the use of proper materials and workmanship, necessary inspection and testing, and changes, modifications, stop work, and termination of the work when warranted.
 
 (3) Upon the request of a tribal organization that operates two or more mature self-determination contracts, those contracts may be consolidated into one single contract.
 
@@ -116,11 +116,103 @@ Pub. L. 100–446 inserted into sentence beginning “For purposes of” the wor
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–184, §1, Dec. 4, 1991, 105 Stat. 1278, provided that: “This Act \[amending provisions set out below\]may be cited as the ‘Tribal Self-Governance Demonstration Project Act’.”
+Pub. L. 102–184, §1, Dec. 4, 1991, 105 Stat. 1278, provided that: “This Act \[amending provisions set out below\] may be cited as the ‘Tribal Self-Governance Demonstration Project Act’.”
 
 #### Short Title
 
 For short title of title I of Pub. L. 93–638, which is classified principally to this part, as the “Indian Self-Determination Act”, see section 101 of Pub. L. 93–638, set out as a note under section 450 of this title.
+
+#### Indian Tribal Tort Claims and Risk Management
+
+Pub. L. 105–277, div. A, §101(e) \[title VII\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–335, provided that:
+
+#### “SEC. 701. SHORT TITLE.
+
+“This title may be cited as the ‘Indian Tribal Tort Claims and Risk Management Act of 1998’.”
+
+#### “SEC. 702. FINDINGS AND PURPOSE.
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) Indian tribes have made significant achievements toward developing a foundation for economic self-sufficiency and self-determination, and that economic self-sufficiency and self-determination have increased opportunities for the Indian tribes and other entities and persons to interact more frequently in commerce and intergovernmental relationships;
+
+&emsp;“(2) although Indian tribes have sought and secured liability insurance coverage to meet their needs, many Indian tribes are faced with significant barriers to obtaining liability insurance because of the high cost or unavailability of such coverage in the private market;
+
+&emsp;“(3) as a result, Congress has extended liability coverage provided to Indian tribes to organizations to carry out activities under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.); and
+
+&emsp;“(4) there is an emergent need for comprehensive and cost-efficient insurance that allows the economy of Indian tribes to continue to grow and provides compensation to persons that may suffer personal injury or loss of property.
+
+“(b)
+
+Purpose.—The purpose of this title is to provide for a study to facilitate relief for a person who is injured as a result of an official action of a tribal government.
+
+#### “SEC. 703. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1)
+
+Indian tribe.—The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(3)
+
+Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(<i>l</i>)).
+
+#### “SEC. 704. STUDY AND REPORT TO CONGRESS.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Study.—In order to minimize and, if possible, eliminate redundant or duplicative liability insurance coverage and to ensure that the provision of insurance to Indian tribes is cost-effective, the Secretary shall conduct a comprehensive survey of the degree, type, and adequacy of liability insurance coverage of Indian tribes at the time of the study.
+
+&emsp;“(2)
+
+Contents of study.—The study conducted under this subsection shall include—
+
+&emsp;&emsp;“(A) an analysis of loss data;
+
+&emsp;&emsp;“(B) risk assessments;
+
+&emsp;&emsp;“(C) projected exposure to liability, and related matters; and
+
+&emsp;&emsp;“(D) the category of risk and coverage involved, which may include—
+
+&emsp;&emsp;&emsp;“(i) general liability;
+
+&emsp;&emsp;&emsp;“(ii) automobile liability;
+
+&emsp;&emsp;&emsp;“(iii) the liability of officials of the Indian tribe;
+
+&emsp;&emsp;&emsp;“(iv) law enforcement liability;
+
+&emsp;&emsp;&emsp;“(v) workers’ compensation; and
+
+&emsp;&emsp;&emsp;“(vi) other types of liability contingencies.
+
+&emsp;“(3)
+
+Assessment of coverage by categories of risk.—For each Indian tribe, for each category of risk identified under paragraph (2), the Secretary, in conducting the study, shall determine whether insurance coverage or coverage under chapter 171 of title 28, United States Code, applies to that Indian tribe for that activity.
+
+“(b)
+
+Report.—Not later than June 1, 1999, and annually thereafter, the Secretary shall submit a report to Congress that contains legislative recommendations that the Secretary determines to—
+
+&emsp;“(1) be appropriate to improve the provision of insurance coverage to Indian tribes; or
+
+&emsp;“(2) otherwise achieve the purpose of providing relief to persons who are injured as a result of an official action of a tribal government.
+
+#### “SEC. 705. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to the Department of the Interior such sums as may be necessary to carry out this title.”
 
 #### Claims Resulting From Performance of Contract, Grant Agreement, or Cooperative Agreement; Civil Action Against Tribe, Tribal Organization, Etc., Deemed Action Against United States; Reimbursement of Treasury for Payment of Claims
 
@@ -132,11 +224,11 @@ Section 201(b)(2) of Pub. L. 100–472 provided that: “Any reference to sectio
 
 #### Tribal Self-Governance Demonstration Project
 
-Title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296; amended by Pub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589, provided that:
+Title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296; amended by Pub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, provided that:
 
 “
 
-Sec. 301. The Secretary of the Interior and the Secretary of Health and Human Services (hereafter in this title referred to as the ‘Secretaries’) each shall, for a period not to exceed 18 years following enactment of this title \[Oct. 5, 1988\], conduct a research and demonstration project to be known as the Tribal Self-Governance Project according to the provisions of this title.
+Sec. 301. The Secretary of the Interior and the Secretary of Health and Human Services (hereafter in this title referred to as the ‘Secretaries’) each shall, for aperiod not to exceed 18 years following enactment of this title \[Oct. 5, 1988\], conduct a research and demonstration project to be known as the Tribal Self-Governance Project according to the provisions of this title.
 
 “
 
@@ -160,7 +252,7 @@ Sec. 303. (a) The Secretaries is \[sic\] directed to negotiate, and to enter int
 
 &emsp;“(2) subject to the terms of the written agreement authorized by this title, shall authorize the tribe to redesign programs, activities, functions or services and to reallocate funds for such programs, activities, functions or services;
 
-&emsp;“(3) shall not include funds provided pursuant to the Tribally Controlled Community College Assistance Act (Public Law 95–471) \[25 U.S.C. 1801 et seq.\], for elementary and secondary schools under the Indian School Equalization Formula pursuant to title XI of the Education Amendments of 1978 (Public Law 95–561, as amended) \[25 U.S.C. 2001 et seq.\], or for either the Flathead Agency Irrigation Division or the Flathead Agency Power Division: <i>Provided</i>, That nothing in this section shall affect the contractability of such divisions under section 102 of this Act \[25 U.S.C. 450f\];
+&emsp;“(3) shall not include funds provided pursuant to the Tribally Controlled College or University Assistance Act of 1978 (Public Law 95–471) \[25 U.S.C. 1801 et seq.\], for elementary and secondary schools under the Indian School Equalization Formula pursuant to title XI of the Education Amendments of 1978 (Public Law 95–561, as amended) \[25 U.S.C. 2001 et seq.\], or for either the Flathead Agency Irrigation Division or the Flathead Agency Power Division: <i>Provided</i>, That nothing in this section shall affect the contractability of such divisions under section 102 of this Act \[25 U.S.C. 450f\];
 
 &emsp;“(4) shall specify the services to be provided, the functions to be performed, and the responsibilities of the tribe and the Secretaries pursuant to this agreement;
 
@@ -202,7 +294,7 @@ Sec. 306. Nothing in this title shall be construed to limit or reduce in any way
 
 “
 
-Sec. 307. For the purpose of providing planning and negotiation grants to the ten tribes added by section 3 of the Tribal Self-Governance Demonstration Project Act to the number of tribes set forth by section 302 of this Act (as in effect before the date of enactment of this section \[Dec. 4, 1991\]), there is authorized to be appropriated $700,000.
+Sec. 307. For the purpose of providing planning and negotiation grants to the ten tribes added by section 3 of the Tribal Self-Governance Demonstration Project Act to the number of tribes set forth by section 302 ofthis Act (as in effect before the date of enactment of this section \[Dec. 4, 1991\]), there is authorized to be appropriated $700,000.
 
 “
 
@@ -220,7 +312,7 @@ Sec. 310. For the purposes of providing one year planning and negotiations grant
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450b, 450c, 450e–1, 450h, 450j, 450k, 450<i>l</i>, 450m, 450m–1, 458cc, 458ff, 1631, 1724, 2026 of this title; title 29 section 750; title 42 section 2004b.
+This section is referred to in sections 450b, 450c, 450e–1, 450h, 450j, 450k, 450<i>l</i>, 450m, 450m–1, 458cc, 458ff, 1631, 1724, 2026 of this title; title 20 section 2326; title 29 section 750; title 42 section 2004b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph,”.</i>
 

@@ -4,5 +4,5 @@
 
 (b) The Director of the Institute shall establish the National Arthritis and Musculoskeletal and Skin Diseases Information Clearinghouse to facilitate and enhance, through the effective dissemination of information, knowledge and understanding of arthritis and musculoskeletal and skin diseases by health professionals, patients, and the public.
 
-(July 1, 1944, ch. 373, title IV, §438, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 849.)
+(July 1, 1944, ch. 373, title IV, §438, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 849.)
 

@@ -2,7 +2,7 @@
 
 Whenever a party to any proceeding in a district court makes and files a timely and sufficient affidavit that the judge before whom the matter is pending has a personal bias or prejudice either against him or in favor of any adverse party, such judge shall proceed no further therein, but another judge shall be assigned to hear such proceeding.
 
-The affidavit shall state the facts and the reasons for the belief that bias or prejudice exists, and shall be filed not less than ten days before the beginning of the term at which the proceeding is to be heard, or good cause shall be shown for failure to file it within such time. A party may file only one such affidavit in any case. It shall be accompanied by a certificate of counsel of record stating that it is made in good faith.
+The affidavit shall state the facts and the reasons for the belief that bias or prejudice exists,and shall be filed not less than ten days before the beginning of the term at which the proceeding is to be heard, or good cause shall be shown for failure to file it within such time. A party may file only one such affidavit in any case. It shall be accompanied by a certificate of counsel of record stating that it is made in good faith.
 
 (June 25, 1948, ch. 646, 62 Stat. 898; May 24, 1949, ch. 139, §65, 63 Stat. 99.)
 
@@ -22,7 +22,7 @@ This amendment clarifies the intent in section 144 of title 28, U.S.C., to confo
 
 #### Amendments
 
-<b>1949</b>—Act May. 24, 1949, substituted “in any case” for “as to any judge” in second sentence of second par.
+1949—Act May. 24, 1949, substituted “in any case” for “as to any judge” in second sentence of second par.
 
 #### Abolition of Terms
 

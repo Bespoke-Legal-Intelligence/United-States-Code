@@ -15,6 +15,9 @@
 | (c) | Persons who may initiate civil actions. |
 | (d) | Definitions. |
 | (e) | Severability. |
+| [305f.](%C2%A7%2000305f%20-%20Indian%20Arts%20and%20Crafts%20Board%20art%20collection.md) | Indian Arts and Crafts Board art collection. |
+| (a) | Transfer of art collection and costs. |
+| (b) | Retention of permanent license to use of images. |
 | [306\.](%C2%A7%2000306%20-%20Expenditures%20for%20encouragement%20of%20industry%20and%20self-support%3B%20repayment.md) | Expenditures for encouragement of industry and self-support; repayment. |
 | [306a.](%C2%A7%2000306a%20-%20Advances%20for%20support%20of%20old%2C%20disabled%2C%20or%20indigent%20allottees%3B%20lien%20against%20land.md) | Advances for support of old, disabled, or indigent allottees; lien against land. |
 | 307, 308. | Omitted. |
@@ -44,6 +47,7 @@ Promotion of welfare of Indians in Oklahoma, see section 501 et seq. of this tit
 - [&sect; 00305c&#8211;1 - Repealed. Pub. L. 87&#8211;23, &sect;2, Apr. 24, 1961, 75 Stat. 45](%C2%A7%2000305c%E2%80%931%20-%20Repealed.%20Pub.%20L.%2087%E2%80%9323%2C%20%C2%A72%2C%20Apr.%2024%2C%201961%2C%2075%20Stat.%2045.md)
 - [&sect; 00305d - Referral for criminal and civil violations; complaints; recommendations](%C2%A7%2000305d%20-%20Referral%20for%20criminal%20and%20civil%20violations%3B%20complaints%3B%20recommendations.md)
 - [&sect; 00305e - Cause of action for misrepresentation of Indian produced goods](%C2%A7%2000305e%20-%20Cause%20of%20action%20for%20misrepresentation%20of%20Indian%20produced%20goods.md)
+- [&sect; 00305f - Indian Arts and Crafts Board art collection](%C2%A7%2000305f%20-%20Indian%20Arts%20and%20Crafts%20Board%20art%20collection.md)
 - [&sect; 00306 - Expenditures for encouragement of industry and self-support; repayment](%C2%A7%2000306%20-%20Expenditures%20for%20encouragement%20of%20industry%20and%20self-support%3B%20repayment.md)
 - [&sect; 00306a - Advances for support of old, disabled, or indigent allottees; lien against land](%C2%A7%2000306a%20-%20Advances%20for%20support%20of%20old%2C%20disabled%2C%20or%20indigent%20allottees%3B%20lien%20against%20land.md)
 - [&sect; 00307, 308 - Omitted](%C2%A7%2000307%2C%20308%20-%20Omitted.md)

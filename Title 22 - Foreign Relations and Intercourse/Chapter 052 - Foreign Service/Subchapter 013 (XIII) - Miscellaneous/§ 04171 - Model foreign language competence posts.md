@@ -24,7 +24,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 #### Expansion of Model Foreign Language Competence Posts
 
-Pub. L. 101–246, title I, §161, Feb. 16, 1990, 104 Stat. 46, as amended by Pub. L. 101–302, title III, §320(b)(3), May 25, 1990, 104 Stat. 247, provided that:
+Pub. L. 101–246, title I, §161, Feb. 16, 1990, 104 Stat. 46, as amended by Pub. L. 101–302, title III, §320(b)(3), May 25, 1990, 104 Stat. 247; Pub. L. 105–277, div. G, subdiv. A, title XXII, §2219(a)(1), Oct. 21, 1998, 112 Stat. 2681–817, provided that:
 
 “(a)
 
@@ -36,7 +36,7 @@ Designation of Posts.—In order to carry out the purposes of section 702 of the
 
 “(c)
 
-Termination Date.—The posts designated under subsection (a) shall continue as model foreign language posts at least until September 30, 1993, in the case of non-hard language posts, and September 30, 1994, in the case of hard language posts. Not later than January 31, 1995, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives a report describing the operation of such posts and the costs, advantages, and disadvantages associated with meeting the foreign language competence requirements of this section.
+Termination Date.—The posts designated under subsection (a) shall continue as model foreign language posts at least until September 30, 1993, in the case of non-hard language posts, and September 30, 1994, in the case of hard language posts.
 
 “(d)
 

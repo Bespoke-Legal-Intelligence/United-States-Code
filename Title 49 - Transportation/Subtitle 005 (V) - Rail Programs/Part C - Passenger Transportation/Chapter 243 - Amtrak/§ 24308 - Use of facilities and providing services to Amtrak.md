@@ -28,7 +28,7 @@ Preference Over Freight Transportation.—Except in an emergency, intercity and 
 
 (d)
 
-Accelerated Speeds.—If a rail carrier refuses to allow accelerated speeds on trains operated by or for Amtrak, Amtrak may apply to the Secretary for an order requiring the carrierto allow the accelerated speeds. The Secretary shall decide whether accelerated speeds are unsafe or impracticable and which improvements would be required to make accelerated speeds safe and practicable. After an opportunity for a hearing, the Secretary shall establish the maximum allowable speeds of Amtrak trains on terms the Secretary decides are reasonable.
+Accelerated Speeds.—If a rail carrier refuses to allow accelerated speeds on trains operated by or for Amtrak, Amtrak may apply to the Secretary for an order requiring the carrier to allow the accelerated speeds. The Secretary shall decide whether accelerated speeds are unsafe or impracticable and which improvements would be required to make accelerated speeds safe and practicable. After an opportunity for a hearing, the Secretary shall establish the maximum allowable speeds of Amtrak trains on terms the Secretary decides are reasonable.
 
 (e)
 
@@ -116,7 +116,7 @@ In subsection (e)(1), the words “satisfactory, voluntary” are omitted as sur
 
 In subsection (e)(2)(A), the words “involved” and “seeking to oppose the operation of an additional train” are omitted as surplus. The words “when conducting a hearing” are added for clarity.
 
-In subsection (e)(2)(B), the word “proper” is omitted as surplus. The words “60 miles” are substituted for “55 miles” for consistency with 45:501a(8), restated in section 24101(c)(6) of the revised title. Section 1172(3) of the Omnibus Budget Reconciliation Act of 1981 (Public Law91–35, 95 Stat. 688) raised the speed from 55 to 60 in 45:501a but did not make a corresponding change in 45:562(g).
+In subsection (e)(2)(B), the word “proper” is omitted as surplus. The words “60 miles” are substituted for “55 miles” for consistency with 45:501a(8), restated in section 24101(c)(6) of the revised title. Section 1172(3) of the Omnibus Budget Reconciliation Act of 1981 (Public Law 91–35, 95 Stat. 688) raised the speed from 55 to 60 in 45:501a but did not make a corresponding change in 45:562(g).
 
 In subsection (e)(3), the words “Unless the parties have an agreement that establishes the compensation Amtrak will pay the carrier for additional trains provided under an order under this subsection” are substituted for 45:562(g) (last sentence words before last comma) to eliminate unnecessary words. The words “the dispute” are added for clarity and consistency in this section.
 

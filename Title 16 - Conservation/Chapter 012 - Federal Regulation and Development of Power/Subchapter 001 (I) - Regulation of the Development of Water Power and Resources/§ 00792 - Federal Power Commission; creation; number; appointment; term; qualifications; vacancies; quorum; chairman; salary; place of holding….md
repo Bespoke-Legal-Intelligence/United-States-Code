@@ -8,7 +8,7 @@ Each commissioner shall receive necessary traveling and subsistence expenses, or
 
 The principal office of the commission shall be in the District of Columbia, where its general sessions shall be held; but whenever the convenience of the public or of the parties may be promoted or delay or expense prevented thereby, the commission may hold special sessions in any part of the United States.
 
-(June 10, 1920, ch. 285, pt. I, §1, 41 Stat. 1063; June 23, 1930, ch. 572, §1, 46 Stat. 797; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, §212, 49 Stat. 847; 1950 Reorg. Plan No. 9, §3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265; July 12, 1960, Pub. L. 86–619, §1, 74 Stat. 407.)
+(June 10, 1920, ch. 285, pt. I, §1, 41 Stat. 1063; June 23, 1930, ch. 572, §1, 46 Stat. 797; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, §212, 49 Stat. 847; 1950 Reorg. Plan No. 9, §3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265; Pub. L. 86–619, §1, July 12, 1960, 74 Stat. 407.)
 
 #### Codification
 

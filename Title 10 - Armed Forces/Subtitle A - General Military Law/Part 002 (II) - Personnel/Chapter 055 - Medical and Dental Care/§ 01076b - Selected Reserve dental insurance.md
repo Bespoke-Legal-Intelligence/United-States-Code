@@ -32,7 +32,7 @@ Termination of Coverage.—The coverage of a member by the dental insurance plan
 
 1997—Subsec. (b)(3). Pub. L. 105–85 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A member's share of the premium for coverage by the dental insurance plan shall be deducted and withheld from the basic pay payable to the member for inactive duty training and from the basic pay payable to the member for active duty. In the case of a member who does not receive basic pay, the Secretary of Defense shall establish procedures for the collection of the member's share of the premium for coverage.”
 
-1996—Subsec. (a). Pub. L. 104–201, §702(a), inserted “(1)” before “The Secretary of Defense shall establish”, added par. (2), and inserted “(3)” before “The plan shall be administered”.
+1996—Subsec. (a). Pub. L. 104–201, §702(a), inserted “(1)” before “The Secretary of Defense shall establish”,added par. (2), and inserted “(3)” before “The plan shall be administered”.
 
 Subsec. (b)(3). Pub. L. 104–201, §702(b), inserted at end “In the case of a member who does not receive basic pay, the Secretary of Defense shall establish procedures for the collection of the member's share of the premium for coverage.”
 

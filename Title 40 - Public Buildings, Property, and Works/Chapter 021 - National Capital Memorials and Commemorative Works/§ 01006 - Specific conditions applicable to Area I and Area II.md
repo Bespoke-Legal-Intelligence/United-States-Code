@@ -12,7 +12,7 @@ Commemorative works of subjects of lasting historical significance to the Americ
 
 #### Amendments
 
-1994—Pub. L. 103–321 amended section generally, substituting requirement that Secretary or Administrator, as appropriate, notify National Capital Memorial Commission of recommendation of locating a commemorative work in Area I for requirement that Secretary or Administrator consult with National Capital MemorialCommission regarding determination that commemorative work be located in Area I and deleted conditions for locating military commemorative works or commemorative works commemorating individuals or groups of individuals in either Area I or Area II. See section 1003(b) and (c) of this title.
+1994—Pub. L. 103–321 amended section generally, substituting requirement that Secretary or Administrator, as appropriate, notify National Capital Memorial Commission of recommendation of locating a commemorative work in Area I for requirement that Secretary or Administrator consult with National Capital Memorial Commission regarding determination that commemorative work be located in Area I and deleted conditions for locating military commemorative works or commemorative works commemorating individuals or groups of individuals in either Area I or Area II. See section 1003(b) and (c) of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1003(d)”.</i>
 

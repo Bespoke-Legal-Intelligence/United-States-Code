@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(ii) if the agency provides public assistance, the statement, “Applying to register or declining to register to vote will not affect the amount of assistance that you will be provided by this agency.”;
 
-&emsp;&emsp;(iii) boxes for the applicant to check to indicate whether the applicant would like to register or declines to register to vote (failure to check either box being deemed to constitute a declination to register for purposes of subparagraph (C)), together with the statement (in close proximity to the boxesand in prominent type), “IF YOU DO NOT CHECK EITHER BOX, YOU WILL BE CONSIDERED TO HAVE DECIDED NOT TO REGISTER TO VOTE AT THIS TIME.”;
+&emsp;&emsp;(iii) boxes for the applicant to check to indicate whether the applicant would like to register or declines to register to vote (failure to check either box being deemed to constitute a declination to register for purposes of subparagraph (C)), together with the statement (in close proximity to the boxes and in prominent type), “IF YOU DO NOT CHECK EITHER BOX, YOU WILL BE CONSIDERED TO HAVE DECIDED NOT TO REGISTER TO VOTE AT THIS TIME.”;
 
 &emsp;&emsp;(iv) the statement, “If you would like help in filling out the voter registration application form, we will help you. The decision whether to seek or accept help is yours. You may fill out the application form in private.”; and
 
@@ -104,7 +104,7 @@ Sec. 2. <i>Armed Forces Recruitment Offices</i>. The Secretary of Defense is dir
 
 Sec. 3. <i>Acceptance of Designation</i>. To the greatest extent practicable, departments, agencies, or other entities of the executive branch of the Federal Government, if requested to be designated as a voter registration agency pursuant to section 7(a)(3)(B)(ii) of the Act, shall: (a) agree to such a designation if agreement is consistent with the department's, agency's, or entity's legal authority and availability of funds; and
 
-(b) ensure that all of its offices that are located in a particular State will have available to the public at least one of the national voter registration forms that are required under the Act to be available in that State.
+(b) ensure that all of its offices that are located in a particular State will have available to the public atleast one of the national voter registration forms that are required under the Act to be available in that State.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Allotments for States
 
-For the purposes described in subsection (b) of this section, the Secretary, acting through theDirector of the Centers for Disease Control and Prevention and in consultation with the Administrator of the Health Resources and Services Administration, shall for each of the fiscal years 1991 through 1995 make an allotment for each State in an amount determined in accordance with section 300ff–49 of this title. The Secretary shall make payments, as grants, to each State from the allotment for the State for the fiscal year involved if the Secretary approves for the fiscal year an application submitted by the State pursuant to section 300ff–65 of this title.
+For the purposes described in subsection (b) of this section, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Administrator of the Health Resources and Services Administration, shall for each of the fiscal years 1991 through 1995 make an allotment for each State in an amount determined in accordance with section 300ff–49 of this title. The Secretary shall make payments, as grants, to each State from the allotment for the State for the fiscal year involved if the Secretary approves for the fiscal year an application submitted by the State pursuant to section 300ff–65 of this title.
 
 #### (b) Purposes of grants
 
@@ -36,7 +36,7 @@ For the purposes described in subsection (b) of this section, the Secretary, act
 
 #### (4) Requirement of availability of all early intervention services through each grantee
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that each of the early intervention services specified in paragraph (2) will be available through the State. With respect to compliance with such agreement, a State may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit private entities under which the entities provide the services.
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the Stateinvolved agrees that each of the early intervention services specified in paragraph (2) will be available through the State. With respect to compliance with such agreement, a State may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit private entities under which the entities provide the services.
 
 #### (5) Optional services
 
@@ -74,7 +74,7 @@ For the purposes described in subsection (b) of this section, the Secretary, act
 
 &emsp;(C) The Secretary shall ensure that, of the amounts appropriated under section 300ff–50 of this title for fiscal year 1991, an amount equal to $130,000,000 is expended to provide the early intervention services specified in subparagraphs (A) through (C) of paragraph (2).
 
-(July 1, 1944, ch. 373, title XXVI, §2641, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 597; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(31), 106 Stat. 3506.)
+(July 1, 1944, ch. 373, title XXVI, §2641, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 597; amended Pub. L. 102–531, title III, §312(d)(31), Oct. 27, 1992, 106 Stat. 3506.)
 
 #### Amendments
 

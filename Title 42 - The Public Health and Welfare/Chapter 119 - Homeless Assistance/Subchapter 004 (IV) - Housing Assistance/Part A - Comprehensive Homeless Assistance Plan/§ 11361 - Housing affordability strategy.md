@@ -52,21 +52,9 @@ Section 836(b) of Pub. L. 101–625 provided that: “The amendment made by subs
 
 #### Evaluation of Programs
 
-Pub. L. 102–550, title XIV, §1409, Oct. 28, 1992, 106 Stat. 4038, provided that:
-
-“(a)
-
-In General.—The Secretary of Housing and Urban Development shall conduct a comprehensive review and evaluation of the effectiveness of each program under title IV of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]. In conducting the review, the Secretary shall examine procedures of the Department in carrying out such programs, the procedures of recipients of assistance under such programs in carrying out such programs, and the effects and benefits of such programs; shall survey homeless individuals and families assisted under each program in various jurisdictions receiving assistance under each program; shall determine whether such programs are fulfilling the purposes for which they were established; and shall evaluate the usefulness and effectiveness of such programs.
-
-“(b)
-
-Report.—Not later than the expiration of the 2-year period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary shall submit a report to the Congress describing the results of the review and evaluation conducted under subsection (a).”
+Pub. L. 102–550, title XIV, §1409, Oct. 28, 1992, 106 Stat. 4038, as amended by Pub. L. 105–362, title VII, §701(c), Nov. 10, 1998, 112 Stat. 3287, provided that: “The Secretary of Housing and Urban Development shall conduct a comprehensive review and evaluation of the effectiveness of each program under title IV of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11361 et seq.\]. In conducting the review, the Secretary shall examine procedures of the Department in carrying out such programs, the procedures of recipients of assistance under such programs in carrying out such programs, and the effects and benefits of such programs; shall survey homeless individuals and families assisted under each program in various jurisdictions receiving assistance under each program; shall determine whether such programs are fulfilling the purposes for which they were established; and shall evaluate the usefulness and effectiveness of such programs.”
 
 #### Homeless Housing Act of 1986
 
 Pub. L. 99–500, §101(g) \[H.R. 5313, title V\], Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g) \[H.R. 5313, title V\], Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided that title V of H.R. 5315 be cited as the “Homeless Housing Act of 1986”, established a transitional housing demonstration program and directed Secretary of Housing and Urban Development to submit to Congress, not later than 3 months after the end of fiscal year 1987, an interim report summarizing activities under this program during such fiscal year and, not later than 6 months after the end of fiscal year 1988, a final report summarizing such activities, established an emergency shelter grants program to make grants to States, units of local government, and private nonprofit organizations providing assistance to the homeless, and appropriated $15,000,000 for fiscal year 1987, to remain available until expended, to carry out both programs.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11442 of this title.
 

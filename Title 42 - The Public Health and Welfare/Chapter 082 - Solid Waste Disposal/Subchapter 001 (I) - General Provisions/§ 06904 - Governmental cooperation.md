@@ -6,7 +6,7 @@ The provisions of this chapter to be carried out by States may be carried out by
 
 #### (b) Consent of Congress to compacts
 
-The consent of the Congress is hereby given to two or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, for—
+The consent of the Congress is hereby given to two or more States to negotiate and enter intoagreements or compacts, not in conflict with any law or treaty of the United States, for—
 
 &emsp;(1) cooperative effort and mutual assistance for the management of solid waste or hazardous waste (or both) and the enforcement of their respective laws relating thereto, and
 

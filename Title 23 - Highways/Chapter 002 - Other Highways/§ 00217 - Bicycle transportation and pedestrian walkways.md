@@ -6,7 +6,7 @@ Use of STP and Congestion Mitigation Program Funds.—Subject to project approva
 
 (b)
 
-Use of National Highway System Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) of this title for construction of bicycle transportation facilities on land adjacent to any highway on the National Highway System (other than the Interstate System).
+Use of National Highway System Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) of this title for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
 
 (c)
 
@@ -18,7 +18,7 @@ State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionme
 
 (e)
 
-Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway, other than a highway access to which is fully controlled, on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
+Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, thensuch bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
 
 (f)
 
@@ -26,19 +26,29 @@ Federal Share.—For all purposes of this title, construction of a pedestrian wa
 
 (g)
 
-Planning.—Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Suchplans shall provide due consideration for safety and contiguous routes.
+Planning and Design.—
+
+&emsp;(1)
+
+In general.—Bicyclists and pedestrians shall be given due consideration in the comprehensive transportation plans developed by each metropolitan planning organization and State in accordance with sections 134 and 135, respectively. Bicycle transportation facilities and pedestrian walkways shall be considered, where appropriate, in conjunction with all new construction and reconstruction of transportation facilities, except where bicycle and pedestrian use are not permitted.
+
+&emsp;(2)
+
+Safety considerations.—Transportation plans and projects shall provide due consideration for safety and contiguous routes for bicyclists and pedestrians. Safety considerations shall include the installation, where appropriate, and maintenance of audible traffic signals and audible signs at street crossings.
 
 (h)
 
-Use of Motorized Vehicles.—No motorized vehicles shall be permitted on trails and pedestrian walkways under this section, except for—
+Use of Motorized Vehicles.—Motorized vehicles may not be permitted on trails and pedestrian walkways under this section, except for—
 
 &emsp;(1) maintenance purposes;
 
 &emsp;(2) when snow conditions and State or local regulations permit, snowmobiles;
 
-&emsp;(3) when State and local regulations permit, motorized wheelchairs; and
+&emsp;(3) motorized wheelchairs;
 
-&emsp;(4) such other circumstances as the Secretary deems appropriate.
+&emsp;(4) when State or local regulations permit, electric bicycles; and
+
+&emsp;(5) such other circumstances as the Secretary deems appropriate.
 
 (i)
 
@@ -46,11 +56,41 @@ Transportation Purpose.—No bicycle project may be carried out under this secti
 
 (j)
 
-Bicycle Transportation Facility Defined.—For purposes of this section, a “bicycle transportation facility” means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.
+Definitions.—In this section, the following definitions apply:
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582.)
+&emsp;(1)
+
+Bicycle transportation facility.—The term “bicycle transportation facility” means a new or improved lane, path, or shoulder for use by bicyclists and a traffic control device, shelter, or parking facility for bicycles.
+
+&emsp;(2)
+
+Electric bicycle.—The term “electric bicycle” means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.
+
+&emsp;(3)
+
+Pedestrian.—The term “pedestrian” means any person traveling by foot and any mobility-impaired person using a wheelchair.
+
+&emsp;(4)
+
+Wheelchair.—The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
+
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168.)
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–178, §1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
+
+Subsec. (e). Pub. L. 105–178, §1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
+
+Subsec. (g). Pub. L. 105–178, §1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
+
+Subsec. (h). Pub. L. 105–178, §1202(a)(4), substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
+
+Subsec. (h)(3). Pub. L. 105–178, §1202(a)(5), substituted “motorized wheelchairs;” for “when State and local regulations permit, motorized wheelchairs; and”.
+
+Subsec. (h)(4), (5). Pub. L. 105–178, §1202(a)(6), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “For purposes of this section, a ‘bicycle transportation facility’ means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles.”
 
 1995—Subsec. (f). Pub. L. 104–59 substituted “determined in accordance with section 120(b)” for “80 percent”.
 
@@ -81,6 +121,26 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substitute
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Design Guidance
+
+Pub. L. 105–178, title I, §1202(b), June 9, 1998, 112 Stat. 169, provided that:
+
+“(1)
+
+In general.—In implementing section 217(g) of title 23, United States Code, the Secretary, in cooperation with the American Association of State Highway and Transportation Officials, the Institute of Transportation Engineers, and other interested organizations, shall develop guidance on the various approaches to accommodating bicycles and pedestrian travel.
+
+“(2)
+
+Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand, volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
+
+“(3)
+
+Recommendations.—The guidance shall include recommendations on amending and updating the policies of the American Association of State Highway and Transportation Officials relating to highway and street design standards to accommodate bicyclists and pedestrians.
+
+“(4)
+
+Time period for development.—The guidance shall be developed within 18 months after the date of enactment of this Act \[June 9, 1998\].”
 
 #### Energy Conservation Bicycle Transportation Program; Report
 

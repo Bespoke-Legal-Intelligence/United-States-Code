@@ -74,7 +74,7 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), the board of directors of a System institution may not reduce the permanent capital of the institution through the payment of patronage refunds or dividends, or the retirement of stock if, after or due to such action, the permanent capital of the institution would thereafter fail to meet the minimum capital adequacy standards established under section 2154(a) of this title.
+&emsp;Except as provided in paragraph (2), the board of directors of a System institution may not reduce the permanent capital of the institution through the payment of patronage refunds or dividends, or the retirement of stock if, after or due to such action, the permanent capital of the institution would thereafter failto meet the minimum capital adequacy standards established under section 2154(a) of this title.
 
 #### (2) Exceptions
 
@@ -102,7 +102,7 @@ The Farm Credit Administration may issue a directive that requires compliance wi
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section,if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section, if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
 
 #### (B) Retirement
 

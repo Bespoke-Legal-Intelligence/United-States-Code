@@ -36,7 +36,7 @@ The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1),
 
 This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
-The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Submerged Lands Act, referred to in subsecs. (a)(2) and (d), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 

@@ -42,7 +42,7 @@
 
 #### (3) Intelligent information system
 
-&emsp;The intelligent information system described in paragraph (1)(B) shall be developedand implemented by the Federal Bureau of Investigation and shall utilize the resources of the Violent Criminal Apprehension Program.
+&emsp;The intelligent information system described in paragraph (1)(B) shall be developed and implemented by the Federal Bureau of Investigation and shall utilize the resources of the Violent Criminal Apprehension Program.
 
 #### (c) Authorization of appropriations
 

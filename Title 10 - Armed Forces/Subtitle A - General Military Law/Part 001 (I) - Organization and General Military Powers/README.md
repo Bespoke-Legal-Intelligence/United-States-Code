@@ -1,11 +1,6 @@
 ## PART I—ORGANIZATION AND GENERAL MILITARY POWERS
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Definitions/README.md) | <b>Definitions</b> | <b>101</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Department%20of%20Defense/README.md) | <b>Department of Defense</b> | <b>111</b> |
@@ -32,7 +27,7 @@
 
 1997—Pub. L. 105–85, div. A, title X, §1073(a)(1), Nov. 18, 1997, 111 Stat. 1900, substituted “481” for “471” in item for chapter 23.
 
-1996—Pub. L. 104–201, div. A, title XI, §1123(a)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imageryand Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
+1996—Pub. L. 104–201, div. A, title XI, §1123(a)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
 
 1994—Pub. L. 103–337, div. A, title V, §554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
 

@@ -66,7 +66,7 @@ The Governor of the State, the authorized representative of the community, or th
 
 &emsp;(A) it is unconditionally enforceable by any party against the others, jointly and severally,
 
-&emsp;(B) it provides that the liability of the qualified trust to repay loan amounts paid to the qualified trust may not, at any time, exceed an amount equal to the amount of contributions required under paragraph (2)(B) which are actually received by such trust,
+&emsp;(B) it provides that the liability of the qualified trust to repay loan amounts paid to the qualified trust may not, at any time, exceedan amount equal to the amount of contributions required under paragraph (2)(B) which are actually received by such trust,
 
 &emsp;(C) it provides that amounts received by the recipient corporation from the qualified trust for qualified employer securities purchased for the purpose of this subsection will be used exclusively by the recipient corporation for those purposes for which it may use that portion of the loan paid directly to it by the lender,
 
@@ -78,7 +78,7 @@ The Governor of the State, the authorized representative of the community, or th
 
 (5) For purposes of this subsection, the term—
 
-&emsp;(A) “employee stock ownership plan” means a plan described in section 407(d)(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(d)(6)\], section 4975(e)(7) of title 26, and in section 702(5) <sup>1</sup> of title 45 whichmeets the requirements of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and of part I of subchapter D of chapter 1 of title 26,
+&emsp;(A) “employee stock ownership plan” means a plan described in section 407(d)(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(d)(6)\], section 4975(e)(7) of title 26, and in section 702(5) <sup>1</sup> of title 45 which meets the requirements of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and of part I of subchapter D of chapter 1 of title 26,
 
 &emsp;(B) “qualified trust” means a trust established under an employee stock ownership plan and meeting the requirements of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and of part I of subchapter D of chapter 1 of title 26,
 
@@ -100,7 +100,7 @@ The United States share of loan guarantees made under subsection (d) of this sec
 
 The Public Works and Economic Development Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(5)(A), (B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter 1 (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(5)(A), (B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter 1 (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 702(5) of title 45, referred to in subsec. (f)(5)(A), was redesignated section 702(7) of title 45 by Pub. L. 97–35, title XI, §1135(b), Aug. 13, 1981, 95 Stat. 646.
 

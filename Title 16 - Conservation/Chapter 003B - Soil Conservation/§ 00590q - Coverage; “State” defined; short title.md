@@ -4,7 +4,7 @@
 
 (b) This chapter may be cited as the “Soil Conservation and Domestic Allotment Act”.
 
-(Apr. 27, 1935, ch. 85, §17, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended July 26, 1947, ch. 339, §2, 61 Stat. 494; June 25, 1959, Pub. L. 86–70, §13(b), 73 Stat. 143; July 12, 1960, Pub. L. 86–624. §8(b), 74 Stat. 412; Oct. 5, 1984, Pub. L. 98–454, title VI, §601(d), 98 Stat. 1736.)
+(Apr. 27, 1935, ch. 85, §17, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended July 26, 1947, ch. 339, §2, 61 Stat. 494; Pub. L. 86–70, §13(b), June 25, 1959, 73 Stat. 143; Pub. L. 86–624. §8(b), July 12, 1960, 74 Stat. 412; Pub. L. 98–454, title VI, §601(d), Oct. 5, 1984, 98 Stat. 1736.)
 
 #### Amendments
 

@@ -34,7 +34,7 @@
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designated area, and the existing and potential uses and resources of the area; and
+&emsp;&emsp;(A) prepare a draft environmental impact statement, as provided by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), on the proposal that includes the resource assessment report required under section 1433(b)(3) of this title, maps depicting the boundaries of the proposed designatedarea, and the existing and potential uses and resources of the area; and
 
 &emsp;&emsp;(B) make copies of the draft environmental impact statement available to the public.
 
@@ -126,7 +126,7 @@ Subsec. (a)(5). Pub. L. 102–587, §2104(a)(3), substituted “Exclusive Econom
 
 Subsec. (a)(6). Pub. L. 102–587, §2104(a)(1), substituted “documents” for “prospectus” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
+Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary ofthe State.” for the dash after “unless” and subpars. (A) and (B) which read as follows:
 
 “(A) the designation or any of its terms is disapproved by enactment of a joint resolution of disapproval described in paragraph (3); or
 

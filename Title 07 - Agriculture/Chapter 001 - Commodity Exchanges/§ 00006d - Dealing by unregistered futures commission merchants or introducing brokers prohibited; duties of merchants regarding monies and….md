@@ -8,7 +8,7 @@ It shall be unlawful for any person to engage as futures commission merchant or 
 
 It shall be unlawful for any person, including but not limited to any clearing agency of a contract market and any depository, that has received any money, securities, or property for deposit in a separate account as provided in paragraph (2) of this section, to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the customers of such futures commission merchant.
 
-(Sept. 21, 1922, ch. 369, §4d, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Feb. 19, 1968, Pub. L. 90–258, §6, 82 Stat. 27; Oct. 23, 1974, Pub. L. 93–463, title I, §103(a), 88 Stat. 1392; Sept. 30, 1978, Pub. L. 95–405, §4, 92 Stat. 869; Jan. 11, 1983, Pub. L. 97–444, title II, §207, 96 Stat. 2302.)
+(Sept. 21, 1922, ch. 369, §4d, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 90–258, §6, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §4, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §207, Jan. 11, 1983, 96 Stat. 2302.)
 
 #### Amendments
 

@@ -12,19 +12,13 @@ The Secretary of State shall be responsible for policy decisions and justificati
 
 As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amounts and kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
 
-#### (d) Funds for commodity import programs or other program assistance
-
-To the maximum extent feasible, funds made available pursuant to this part for commodity import programs or other program assistance shall be used to generate local currencies, not less than 50 percent of which shall be available to support activities consistent with the objectives of sections 2151a through 2151d of this title, and administered by the agency primarily responsible for administering subchapter I of this chapter.
+#### (d) Repealed. Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180
 
 #### (e) Availability of funds
 
 Amounts appropriated to carry out this part shall be available for economic programs only and may not be used for military or paramilitary purposes.
 
-(Pub. L. 87–195, pt. II, §531, as added Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210; amended Pub. L. 101–513, title V, §562(d)(8), Nov. 5, 1990, 104 Stat. 2031.)
-
-#### Supersedure of Subsection (d)
-
-<i>Pub. L. 105–118, title V, §532(a)(5), Nov. 26, 1997, 111 Stat. 2414, provided that subsection (d) of this section is superseded by section 532(a) of Pub. L. 105–118, set out as a note under section 2359 of this title.</i>
+(Pub. L. 87–195, pt. II, §531, as added Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210; amended Pub. L. 101–513, title V, §562(d)(8), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180.)
 
 #### References to Subchapter I Deemed To Include This and Certain Other Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
@@ -32,15 +26,17 @@ Pub. L. 92–226, pt. II, §202(b), Feb. 7, 1972, 86 Stat. 27, provided that: �
 
 References to subchapter I of this chapter are deemed to include parts VI (§2348 et seq.) and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See sections 2348c and 2349aa–5 of this title.
 
-#### References to Part I Deemed To Include Section 2293
+#### Reference to Part I Deemed To Include Section 2293
 
-References to part I of subchapter I of this chapter, including references to sections 2151a through 2151d of this title, deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+Reference to part I of subchapter I of this chapter deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
 
 #### Prior Provisions
 
 A prior section 2346, Pub. L. 87–195, pt. II, §531, as added Pub. L. 92–226, pt. II, §202(a), Feb. 7, 1972, 86 Stat. 26; amended Pub. L. 95–92, §8(a), Aug. 4, 1977, 91 Stat. 617; Pub. L. 95–384, §10(a), Sept. 26, 1978, 92 Stat. 733; 1979 Reorg. Plan No. 2, §6(b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379; Pub. L. 96–92, §8(a), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title II, §201, Dec. 16, 1980, 94 Stat. 3142; Pub. L. 97–113, title II, §201, Dec. 29, 1981, 95 Stat. 1528, authorized President to furnish assistance to countries and organizations to promote economic or political stability, prior to repeal by Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–277 struck out subsec. (d) which read as follows: “To the maximum extent feasible, funds made available pursuant to this part for commodity import programs or other program assistance shall be used to generate local currencies, not less than 50 percent of which shall be available to support activities consistent with the objectives of sections 2151a through 2151d of this title, and administered by the agency primarily responsible for administering subchapter I of this chapter.”
 
 1990—Subsec. (a). Pub. L. 101–513 inserted “or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter” after “part I of subchapter I of this chapter”.
 
@@ -50,7 +46,7 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 #### Delegation of Functions; Allocation of Funds
 
-Functions of President under this part, insofar as they relate to policy decisions and justifications for economic support programs under this part, delegated to Secretary of State to be exercised in cooperation with Director of United States International Development Cooperation Agency by section 1–201(a)(7) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title, and funds available to President for carrying out this part, with specified exceptions, allocated to Director by section 1–801(a) of Ex. Ord. No. 12163, 44 F.R. 56678.
+Functions of President under this part, insofar as they relate to policy decisions and justifications for economic support programs under this part, delegated to Secretary of State to be exercised in cooperation with Director of United States International Development Cooperation Agency by section 1–201(a)(7) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title. United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of this title.
 
 #### Reports on Economic Conditions Prevailing in Egypt, Israel, Turkey, and Portugal
 
@@ -72,7 +68,7 @@ Section 10(b)(6) of Pub. L. 95–384 provided that: “After September 30, 1978,
 
 #### Security Supporting Assistance Program for Egypt
 
-Section 9 of Pub. L. 95–92, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, provided that: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
+Section 9 of Pub. L. 95–92, as amended by Pub. L. 95–384, §29(c)(2)(A), Sept. 26, 1978, 92 Stat. 747, providedthat: “It is the sense of the Congress that the security supporting assistance program for Egypt plays an important role in the Middle East peace effort and that the Executive branch should concentrate its efforts in order to make the program a success.”
 
 #### Section Referred to in Other Sections
 

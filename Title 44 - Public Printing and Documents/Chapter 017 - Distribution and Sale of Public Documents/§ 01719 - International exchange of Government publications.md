@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964, ed., §139a (Mar. 2, 1901, No. 16, §3, 31 Stat. 14
 
 #### References in Text
 
-There were two conventions concluded at Brussels on Mar. 15, 1886, and proclaimed by the President on Jan. 15, 1889: one was a convention “for the international exchange of official documents, scientific, and literary publications”; the other was “for the immediate exchange of the official journals, parliamentary annals, and documents.”
+There were two conventions concluded at Brussels on Mar. 15, 1886, and proclaimed by the President on Jan.15, 1889: one was a convention “for the international exchange of official documents, scientific, and literary publications”; the other was “for the immediate exchange of the official journals, parliamentary annals, and documents.”
 
 #### Codification
 

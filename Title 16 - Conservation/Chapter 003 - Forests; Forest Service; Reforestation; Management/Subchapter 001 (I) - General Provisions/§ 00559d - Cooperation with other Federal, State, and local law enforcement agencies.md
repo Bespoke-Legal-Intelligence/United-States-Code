@@ -16,7 +16,7 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
 
 #### References in Text
 
-The Controlled Substances Act, referred to in pars. (3) and (5), is title II of Pub. L. 91–513, Oct. 27, 1970, 84Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in pars. (3) and (5), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Pars. (3) to (5). Pub. L. 100–690, §6254(c)(3), added pars. (3) to (5).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559b, 559c of this title.
+This section is referred to in sections 460<i>lll</i>–12, 559b, 559c of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

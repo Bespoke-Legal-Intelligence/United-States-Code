@@ -2,7 +2,7 @@
 
 Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Air Force, under such conditions as he may prescribe, may sell obsolete or excess material to the National Council of the Boy Scouts of America. Sales under this section shall be at fair value to the Department of the Air Force, including packing, handling, and transportation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Dec. 12, 1980, Pub. L. 96–513, title V, §514(18), 94 Stat. 2936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Pub. L. 96–513, title V, §514(18), Dec. 12, 1980, 94 Stat. 2936.)
 
 Historical and Revision Notes
 

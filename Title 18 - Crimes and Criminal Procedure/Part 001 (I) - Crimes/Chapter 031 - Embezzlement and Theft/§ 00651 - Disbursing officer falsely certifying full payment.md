@@ -2,7 +2,7 @@
 
 Whoever, being an officer charged with the disbursement of the public moneys, accepts, receives, or transmits to the General Accounting Office to be allowed in his favor any receipt or voucher from a creditor of the United States without having paid the full amount specified therein to such creditor in such funds as the officer received for disbursement, or in such funds as he may be authorized by law to take in exchange, shall be fined under this title or in double the amount so withheld, whichever is greater, or imprisoned not more than two years, or both; but if the amount withheld does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 727; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), 108 Stat. 2147, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 727; Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

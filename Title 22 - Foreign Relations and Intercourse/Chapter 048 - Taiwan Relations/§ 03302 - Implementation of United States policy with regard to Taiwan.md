@@ -16,5 +16,5 @@ The President is directed to inform the Congress promptly of any threat to the s
 
 #### Transfer of War Reserve Materiel and Other Property to Taiwan
 
-Pub. L. 96–92, §23, Oct. 29, 1979, 93 Stat. 710, authorized President, during calendar year 1980, to transfer to Taiwan, under such terms and conditions as he may deemappropriate, United States war reserve materiel that was located on Taiwan on Jan. 1, 1979, and during calendar years 1979 and 1980, to transfer to Taiwan, under such terms and conditions as he may deem appropriate, rights of the United States in property (other than war reserve materiel) that was located on Taiwan on Jan. 1, 1979.
+Pub. L. 96–92, §23, Oct. 29, 1979, 93 Stat. 710, authorized President, during calendar year 1980, to transfer to Taiwan, under such terms and conditions as he may deem appropriate, United States war reserve materiel that was located on Taiwan on Jan. 1, 1979, and during calendar years 1979 and 1980, to transfer to Taiwan, under such terms and conditions as he may deem appropriate, rights of the United States in property (other than war reserve materiel) that was located on Taiwan on Jan. 1, 1979.
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) clearinghouses;
 
-&emsp;&emsp;&emsp;(ii) parent centers for the parents of infants, toddlers, children, and youth withdisabilities served under section 1431(e) <sup>1</sup> of this title;
+&emsp;&emsp;&emsp;(ii) parent centers for the parents of infants, toddlers, children, and youth with disabilities served under section 1431(e) <sup>1</sup> of this title;
 
 &emsp;&emsp;&emsp;(iii) other organizations and agencies;
 

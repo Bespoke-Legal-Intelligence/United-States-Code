@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 6302 of this title; title 22 sections 3964, 4010a; title 31 section 732; title 42 section 237.
+This subchapter is referred to in section 6302 of this title; title 2 section 1316a; title 22 sections 3964, 4010a; title 31 section 732; title 42 section 237.
 
 
 ---

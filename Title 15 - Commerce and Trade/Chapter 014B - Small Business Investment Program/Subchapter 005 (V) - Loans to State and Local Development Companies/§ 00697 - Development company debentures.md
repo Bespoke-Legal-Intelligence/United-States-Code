@@ -52,7 +52,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (2) Participation fee
 
-&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the developmentcompany. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (3) Development company fee
 
@@ -78,7 +78,7 @@ The fees authorized by subsections (b) and (c) of this section shall apply to fi
 
 #### (g) Calculation of subsidy rate
 
-All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter.
+All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made bythe Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter.
 
 #### (h) Required actions upon default
 

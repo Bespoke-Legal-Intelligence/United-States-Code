@@ -2,7 +2,7 @@
 
 (a)
 
-Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, any amount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.), shall remain available in accordance with this section to pay—
+Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, anyamount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.), shall remain available in accordance with this section to pay—
 
 &emsp;(1) any settlement of the claim by the parties;
 

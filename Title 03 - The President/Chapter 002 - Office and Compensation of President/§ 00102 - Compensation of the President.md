@@ -158,6 +158,8 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 Provisions prohibiting expenditure of funds made available for official expenses for any other purpose, requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552, and providing that none of the funds made available for official expenses shall be considered as taxable to the President were contained in the following appropriation acts:
 
+Pub. L. 105–277, div. A, §101(h) \[title III\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
+
 Pub. L. 105–61, title III, Oct. 10, 1997, 111 Stat. 1290.
 
 Pub. L. 104–208, div. A, title I, §101(f) \[title III\], Sept. 30, 1996, 110 Stat. 3009-314, 3009-326.

@@ -1,8 +1,0 @@
-### §3224. Repealed. Pub. L. 104–127, title VIII, §873, Apr. 4, 1996, 110 Stat. 1175
-
-Section, Pub. L. 99–198, title XIV, §1416, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(d)(1), Nov. 28, 1990, 104 Stat. 3704, provided for grants to upgrade 1890 land-grant college extension facilities.
-
-#### Codification
-
-Section 873 of Pub. L. 104–127, which directed the repeal of section 1416 of the National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1981 (7 U.S.C. 3224), was executed by repealing this section, which is section 1416 of the National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1985, to reflect the probable intent of Congress.
-

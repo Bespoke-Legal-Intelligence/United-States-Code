@@ -6,13 +6,13 @@ In the case of any firm which is small (within the meaning of the Small Business
 
 #### (b) Authorization of appropriations
 
-There are hereby authorized to be appropriated to the Secretary for fiscal years 1993, 1994, 1995, 1996, 1997, and 1998 such sums as may be necessary to carry out his functions under this part in connection with furnishing adjustment assistance to firms (including, but not limited to, the payment of principal, interest, and reasonable costs incident to default on loans guaranteed by the Secretary under the authority of this part), which sums are authorized to be appropriated to remain available until expended.
+There are hereby authorized to be appropriated to the Secretary for the period beginning October 1, 1998, and ending June 30, 1999 such sums as may be necessary to carry out his functions under this part in connection with furnishing adjustment assistance to firms (including, but not limited to, the payment of principal, interest, and reasonable costs incident to default on loans guaranteed by the Secretary under the authority of this part), which sums are authorized to be appropriated to remain available until expended.
 
 #### (c) Transfer of unexpended appropriations
 
 The unexpended balances of appropriations authorized by section 1912(d) <sup>1</sup> of this title are transferred to the Secretary to carry out his functions under this part.
 
-(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668.)
+(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901.)
 
 #### Termination of Section
 
@@ -28,11 +28,13 @@ Section 1912 of this title, referred to in subsec. (c), was repealed by section 
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–277 substituted “for the period beginning October 1, 1998, and ending June 30, 1999” for “for fiscal years 1993, 1994, 1995, 1996, 1997, and 1998”.
+
 1993—Subsec. (b). Pub. L. 103–66 substituted “1993, 1994, 1995, 1996, 1997, and 1998” for “1988, 1989, 1990, 1991, 1992, and 1993”.
 
 1988—Subsec. (b). Pub. L. 100–418 substituted “1988, 1989, 1990, 1991, 1992, and 1993” for “1986, 1987, 1988, 1989, 1990, and 1991”.
 
-1986—Subsec. (b). Pub. L. 99–272 inserted “for fiscal years 1986, 1987, 1988, 1989, 1990, and 1991” after “Secretary”, struck out “from time to time” after “as may be necessary”, and struck out “Direct loans and commitments to guarantee loans may be made under this part during any fiscal year only to such extent and in such amounts as are provided in advance in appropriations Acts.” after “available until expended.”
+1986—Subsec. (b). Pub. L. 99–272 inserted “for fiscal years 1986, 1987, 1988, 1989, 1990, and 1991” after “Secretary”, struck out “from time to time” after “as may be necessary”, and struck out “Direct loans and commitments to guarantee loans may be made under thispart during any fiscal year only to such extent and in such amounts as are provided in advance in appropriations Acts.” after “available until expended.”
 
 1981—Subsec. (b). Pub. L. 97–35 inserted provisions relating to payment of principal, interest, and reasonable costs, incident to defaults on guaranteed loans and provisions relating to direct loans and commitments to guarantee loans.
 

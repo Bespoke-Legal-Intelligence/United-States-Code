@@ -16,7 +16,7 @@ It is hereby declared to be the policy of the United States that—
 
 &emsp;&emsp;(C) such States, and through such States, affected local governments, are entitled to an opportunity to participate, to the extent consistent with the national interest, in the policy and planning decisions made by the Federal Government relating to exploration for, and development and production of, minerals of the outer Continental Shelf.<sup>1</sup>
 
-&emsp;(5) the rights and responsibilities of all States and, where appropriate, local governments, to preserve and protect their marine, human, and coastal environments through such means as regulation of land, air, andwater uses, of safety, and of related development and activity should be considered and recognized; and
+&emsp;(5) the rights and responsibilities of all States and, where appropriate, local governments, to preserve and protect their marine, human, and coastal environments through such means as regulation of land, air, and water uses, of safety, and of related development and activity should be considered and recognized; and
 
 &emsp;(6) operations in the outer Continental Shelf should be conducted in a safe manner by well-trained personnel using technology, precautions, and techniques sufficient to prevent or minimize the likelihood of blowouts, loss of well control, fires, spillages, physical obstruction to other users of the waters or subsoil and seabed, or other occurrences which may cause damage to the environment or to property, or endanger life or health.
 

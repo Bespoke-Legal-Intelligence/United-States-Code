@@ -14,5 +14,5 @@ Section 691e, act June 18, 1954, ch. 324, §6, 68 Stat. 266, related to powers o
 
 Section 691f, acts June 18, 1954, ch. 324, §7, 68 Stat. 266; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(2)(M), title V, §507, 93 Stat. 677, 692, related to financial transactions and accounts of Gallaudet College and an annual report to Secretary of Education. See sections 4353 and 4354(a) of this title.
 
-Section 691g, act June 18, 1954, ch. 324, §8, 68 Stat. 266, authorized appropriations for Gallaudet College. See section 4360(a) of this title.
+Section 691g, act June 18, 1954, ch. 324, §8, 68 Stat. 266, authorized appropriations for Gallaudet College.
 

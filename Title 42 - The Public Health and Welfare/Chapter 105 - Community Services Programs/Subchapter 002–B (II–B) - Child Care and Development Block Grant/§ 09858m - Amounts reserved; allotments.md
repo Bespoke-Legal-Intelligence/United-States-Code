@@ -26,7 +26,7 @@
 
 #### (3) School lunch factor
 
-&emsp;The term “school lunch factor” means the ratio of the number of children in the State who are receiving free or reduced price lunches under the school lunch program established under the National School Lunch Act (42 U.S.C. 1751 et seq.) to the number of such children in all the States as determined annually by the Department of Agriculture.
+&emsp;The term “school lunch factor” means the ratio of the number of children in the Statewho are receiving free or reduced price lunches under the school lunch program established under the National School Lunch Act (42 U.S.C. 1751 et seq.) to the number of such children in all the States as determined annually by the Department of Agriculture.
 
 #### (4) Allotment percentage
 
@@ -106,7 +106,7 @@
 
 #### (D) Uniform procedures
 
-&emsp;&emsp;The Secretary shall develop and implement uniform procedures for the solicitation and consideration of requests under this paragraph.
+&emsp;&emsp;The Secretary shall develop and implement uniform procedures for the solicitationand consideration of requests under this paragraph.
 
 #### (d) Data and information
 

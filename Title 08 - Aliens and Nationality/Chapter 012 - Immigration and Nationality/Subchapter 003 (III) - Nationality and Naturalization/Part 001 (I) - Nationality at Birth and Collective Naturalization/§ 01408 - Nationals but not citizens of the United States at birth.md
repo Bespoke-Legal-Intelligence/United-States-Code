@@ -16,7 +16,7 @@ Unless otherwise provided in section 1401 of this title, the following shall be 
 
 > The proviso of section 1401(g) of this title shall apply to the national parent under this paragraph in the same manner as it applies to the citizen parent under that section.
 
-(June 27, 1952, ch. 477, title III, ch. 1, §308, 66 Stat. 238; Aug. 27, 1986, Pub. L. 99–396, §15(a), 100 Stat. 842; Oct. 24, 1988, Pub. L. 100–525, §3(2), 102 Stat. 2614.)
+(June 27, 1952, ch. 477, title III, ch. 1, §308, 66 Stat. 238; Pub. L. 99–396, §15(a), Aug. 27, 1986, 100 Stat. 842; Pub. L. 100–525, §3(2), Oct. 24, 1988, 102 Stat. 2614.)
 
 #### Amendments
 

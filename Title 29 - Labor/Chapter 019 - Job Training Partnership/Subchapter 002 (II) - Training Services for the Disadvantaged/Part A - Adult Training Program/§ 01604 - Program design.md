@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) an objective assessment of the skill levels and service needs of each participant, which shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), and supportive service needs, except that a new assessment of a participant is not required if the program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program;
 
-&emsp;&emsp;(B) development of service strategies that shall identify the employment goal (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for participants taking into account the assessments conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program;
+&emsp;&emsp;(B) development of service strategies that shall identify the employment goal (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for participants taking into account the assessments conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the program determines it is appropriate to use a recentservice strategy developed for the participant under another education or training program;
 
 &emsp;&emsp;(C) a review of the progress of each participant in meeting the objectives of the service strategy; and
 
@@ -116,7 +116,7 @@ Subject to the limitations contained in subsection (c) of this section, services
 
 #### (1) Workplace context and integration
 
-&emsp;Basic skills training provided under this part shall, in appropriate circumstances, have a workplace context and be integrated with occupational skills training.
+&emsp;Basic skills training provided under this part shall, in appropriate circumstances, havea workplace context and be integrated with occupational skills training.
 
 #### (2) Basic education or occupational skills
 
@@ -198,17 +198,21 @@ Subject to the limitations contained in subsection (c) of this section, services
 
 #### (i) Provisions not applicable
 
-&emsp;&emsp;&emsp;The provisions of section 1514 of this title, subsections (b)(7) and (j) of section 1516 of this title, section 1519 of this title, section 1603 of this title, and subsection (a)(2) of this section shall not be applicable to programs conducted under this subsection.
+&emsp;&emsp;&emsp;The provisions of section 1514 of this title, subsections (b)(7) and (j) of section1516 of this title, section 1519 of this title, section 1603 of this title, and subsection (a)(2) of this section shall not be applicable to programs conducted under this subsection.
 
 #### (ii) Governor
 
-&emsp;&emsp;&emsp;With respect to the application of sections 1516(b), 1518(b), 1551(d)(3)(C), and 1605of this title to programs conducted under this subsection, the term “service delivery area”, as used in such provisions, means the Governor.
+&emsp;&emsp;&emsp;With respect to the application of sections 1516(b), 1518(b), 1551(d)(3)(C), and 1605 of this title to programs conducted under this subsection, the term “service delivery area”, as used in such provisions, means the Governor.
 
 #### (7) “Older individual” defined
 
 &emsp;As used in this subsection, the term “older individual” means an individual age 55 or older.
 
 (Pub. L. 97–300, title II, §204, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1055; amended Pub. L. 104–193, title I, §110(n)(6), Aug. 22, 1996, 110 Stat. 2174.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 
@@ -232,5 +236,5 @@ Section effective July 1, 1993, see section 701(a) of Pub. L. 102–367 set out 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1503, 1516, 1518, 1519, 1577, 1602, 1603, 1644, 1791c of this title; title 7 section 2014; title 42 sections 3056h, 11444.
+This section is referred to in sections 1503, 1516, 1518, 1519, 1577, 1602, 1603, 1644, 1791c of this title; title 7 section 2014; title 42 section 3056h.
 

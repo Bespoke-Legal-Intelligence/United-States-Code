@@ -20,7 +20,7 @@ In developing the plan, the Secretary shall include relevant factors including, 
 
 &emsp;(6) siting criteria for the national center including a list of potential sites;
 
-&emsp;(7) the advisability of establishing such a center considering all factors, including the alternative means and associated costs of pursuing such technology; and
+&emsp;(7) the advisability of establishing such a center considering all factors, including thealternative means and associated costs of pursuing such technology; and
 
 &emsp;(8) changes in the management structure of the magnetic fusion program to allow more effective direction of activities related to the national center.
 

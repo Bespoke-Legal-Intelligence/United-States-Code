@@ -12,7 +12,7 @@
 
 &emsp;(A) the Secretary determines that such an action will not adversely affect the ability of the Department—
 
-&emsp;&emsp;(i) to fulfill its statutory missions with respect to the Department loan guaranty program and the short- and long-term solvency of the Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund under this chapter; or
+&emsp;&emsp;(i) to fulfill its statutory missions with respect to the Department loan guaranty program and the short- and long-term solvency of the Veterans Housing Benefit Program Fund under this chapter; or
 
 &emsp;&emsp;(ii) to carry out other functions and administer other programs authorized by law;
 
@@ -44,11 +44,13 @@
 
 &emsp;(C) may waive the collection of a fee under section 3729 of this title in any case in which the Secretary determines that such a waiver would be appropriate.
 
-(c) The Secretary may not enter into agreements under subsection (a) after December 31, 1998.
+(c) The Secretary may not enter into agreements under subsection (a) after December 31, 1999.
 
-(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288.)
+(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347.)
 
 #### Amendments
+
+1998—Subsec. (a)(3)(A)(i). Pub. L. 105–368 substituted “Veterans Housing Benefit Program Fund” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund”.
 
 1997—Subsec. (c). Pub. L. 105–114 substituted “December 31, 1999” for “December 31, 1997”.
 
@@ -69,6 +71,10 @@ Pub. L. 102–590, §8(b), substituted “December 31, 1995” for “September 
 Subsec. (c). Pub. L. 102–590, §9(a)(1), redesignated subsec. (b) as (c).
 
 1991—Pub. L. 102–83 renumbered section 1835 of this title as this section.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
 
 #### Ratification of Actions During Period of Expired Authority
 

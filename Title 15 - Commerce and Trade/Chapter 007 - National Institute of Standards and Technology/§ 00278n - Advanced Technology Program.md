@@ -126,7 +126,7 @@ As used in this section—
 
 &emsp;(2) the term “United States-owned company” means a company that has majority ownership or control by individuals who are citizens of the United States.
 
-(Mar. 3, 1901, ch. 872, §28, as added Aug. 23, 1988, Pub. L. 100–418, title V, §5131(a), 102 Stat. 1439; amended Feb. 14, 1992, Pub. L. 102–245, title II, §201(c), 106 Stat. 16.)
+(Mar. 3, 1901, ch. 872, §28, as added Pub. L. 100–418, title V, §5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, §201(c), Feb. 14, 1992, 106 Stat. 16.)
 
 #### Amendments
 

@@ -1,0 +1,274 @@
+### §6662. Imposition of accuracy-related penalty
+
+#### (a) Imposition of penalty
+
+If this section applies to any portion of an underpayment of tax required to be shown on a return, there shall be added to the tax an amount equal to 20 percent of the portion of the underpayment to which this section applies.
+
+#### (b) Portion of underpayment to which section applies
+
+This section shall apply to the portion of any underpayment which is attributable to 1 or more of the following:
+
+&emsp;(1) Negligence or disregard of rules or regulations.
+
+&emsp;(2) Any substantial understatement of income tax.
+
+&emsp;(3) Any substantial valuation misstatement under chapter 1.
+
+&emsp;(4) Any substantial overstatement of pension liabilities.
+
+&emsp;(5) Any substantial estate or gift tax valuation understatement.
+
+> This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663.
+
+#### (c) Negligence
+
+For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
+
+#### (d) Substantial understatement of income tax
+
+#### (1) Substantial understatement
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, there is a substantial understatement of income tax for any taxable year if the amount of the understatement for the taxable year exceeds the greater of—
+
+&emsp;&emsp;&emsp;(i) 10 percent of the tax required to be shown on the return for the taxable year, or
+
+&emsp;&emsp;&emsp;(ii) $5,000.
+
+#### (B) Special rule for corporations
+
+&emsp;&emsp;In the case of a corporation other than an S corporation or a personal holding company (as defined in section 542), paragraph (1) shall be applied by substituting “$10,000” for “$5,000”.
+
+#### (2) Understatement
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), the term “understatement” means the excess of—
+
+&emsp;&emsp;&emsp;(i) the amount of the tax required to be shown on the return for the taxable year, over
+
+&emsp;&emsp;&emsp;(ii) the amount of the tax imposed which is shown on the return, reduced by any rebate (within the meaning of section 6211(b)(2)).
+
+#### (B) Reduction for understatement due to position of taxpayer or disclosed item
+
+&emsp;&emsp;The amount of the understatement under subparagraph (A) shall be reduced by thatportion of the understatement which is attributable to—
+
+&emsp;&emsp;&emsp;(i) the tax treatment of any item by the taxpayer if there is or was substantial authority for such treatment, or
+
+&emsp;&emsp;&emsp;(ii) any item if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return, and
+
+&emsp;&emsp;&emsp;&emsp;(II) there is a reasonable basis for the tax treatment of such item by the taxpayer.
+
+> &emsp;&emsp;For purposes of clause (ii)(II), in no event shall a corporation be treated as having a reasonable basis for its tax treatment of an item attributable to a multiple-party financing transaction if such treatment does not clearly reflect the income of the corporation.
+
+#### (C) Special rules in cases involving tax shelters
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of any item of a taxpayer other than a corporation which is attributable to a tax shelter—
+
+&emsp;&emsp;&emsp;&emsp;(I) subparagraph (B)(ii) shall not apply, and
+
+&emsp;&emsp;&emsp;&emsp;(II) subparagraph (B)(i) shall not apply unless (in addition to meeting the requirements of such subparagraph) the taxpayer reasonably believed that the tax treatment of such item by the taxpayer was more likely than not the proper treatment.
+
+#### (ii) Subparagraph (B) not to apply to corporations
+
+&emsp;&emsp;&emsp;Subparagraph (B) shall not apply to any item of a corporation which is attributable to a tax shelter.
+
+#### (iii) Tax shelter
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “tax shelter” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) a partnership or other entity,
+
+&emsp;&emsp;&emsp;&emsp;(II) any investment plan or arrangement, or
+
+&emsp;&emsp;&emsp;&emsp;(III) any other plan or arrangement,
+
+&emsp;&emsp;&nbsp;if a significant purpose of such partnership, entity, plan, or arrangement is the avoidance or evasion of Federal income tax.
+
+#### (D) Secretarial list
+
+&emsp;&emsp;The Secretary shall prescribe (and revise not less frequently than annually) a list of positions—
+
+&emsp;&emsp;&emsp;(i) for which the Secretary believes there is not substantial authority, and
+
+&emsp;&emsp;&emsp;(ii) which affect a significant number of taxpayers.
+
+> &emsp;&emsp;Such list (and any revision thereof) shall be published in the Federal Register.
+
+#### (e) Substantial valuation misstatement under chapter 1
+
+#### (1) In general
+
+&emsp;For purposes of this section, there is a substantial valuation misstatement under chapter 1 if—
+
+&emsp;&emsp;(A) the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 200 percent or more of the amount determined to be the correct amount of such valuation or adjusted basis (as the case may be), or
+
+&emsp;&emsp;(B)(i) the price for any property or services (or for the use of property) claimed on any such return in connection with any transaction between persons described in section 482 is 200 percent or more (or 50 percent or less) of the amount determined under section 482 to be the correct amount of such price, or
+
+&emsp;&emsp;(ii) the net section 482 transfer price adjustment for the taxable year exceeds the lesser of $5,000,000 or 10 percent of the taxpayer's gross receipts.
+
+#### (2) Limitation
+
+&emsp;No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation misstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).
+
+#### (3) Net section 482 transfer price adjustment
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “net section 482 transfer price adjustment” means, with respect to any taxable year, the net increase in taxable income for the taxable year (determined without regard to any amount carried to such taxable year from another taxable year) resulting from adjustments under section 482 in the price for any property or services (or for the use of property).
+
+#### (B) Certain adjustments excluded in determining threshold
+
+&emsp;&emsp;For purposes of determining whether the threshold requirements of paragraph (1)(B)(ii) are met, the following shall be excluded:
+
+&emsp;&emsp;&emsp;(i) Any portion of the net increase in taxable income referred to in subparagraph (A) which is attributable to any redetermination of a price if—
+
+&emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordance with a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
+
+&emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time of filing the return) which sets forth the determination of such price in accordance with such a method and which establishes that the use of such method was reasonable, and
+
+&emsp;&emsp;&emsp;&emsp;(III) the taxpayer provides such documentation to the Secretary within 30 days of a request for such documentation.
+
+&emsp;&emsp;&emsp;(ii) Any portion of the net increase in taxable income referred to in subparagraph (A) which is attributable to a redetermination of price where such price was not determined in accordance with such a specific pricing method if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the taxpayer establishes that none of such pricing methods was likely to result in a price that would clearly reflect income, the taxpayer used another pricing method to determine such price, and such other pricing method was likely to result in a price that would clearly reflect income,
+
+&emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time of filing the return) which sets forth the determination of such price in accordance with such other method and which establishes that the requirements of subclause (I) were satisfied, and
+
+&emsp;&emsp;&emsp;&emsp;(III) the taxpayer provides such documentation to the Secretary within 30 days of request for such documentation.
+
+&emsp;&emsp;&emsp;(iii) Any portion of such net increase which is attributable to any transaction solely between foreign corporations unless, in the case of any such corporations, the treatment of such transaction affects the determination of income from sources within the United States or taxable income effectively connected with the conduct of a trade or business within the United States.
+
+#### (C) Special rule
+
+&emsp;&emsp;If the regular tax (as defined in section 55(c)) imposed by chapter 1 on the taxpayer is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of this paragraph.
+
+#### (D) Coordination with reasonable cause exception
+
+&emsp;&emsp;For purposes of section 6664(c) the taxpayer shall not be treated as having reasonable cause for any portion of an underpayment attributable to a net section 482 transfer price adjustment unless such taxpayer meets the requirements of clause (i), (ii), or (iii) of subparagraph (B) with respect to such portion.
+
+#### (f) Substantial overstatement of pension liabilities
+
+#### (1) In general
+
+&emsp;For purposes of this section, there is a substantial overstatement of pension liabilities if the actuarial determination of the liabilities taken into account for purposes of computing the deduction under paragraph (1) or (2) of section 404(a) is 200 percent or more of the amount determined to be the correct amount of such liabilities.
+
+#### (2) Limitation
+
+&emsp;No penalty shall be imposed by reason of subsection (b)(4) unless the portion of the underpayment for the taxable year attributable to substantial overstatements of pension liabilities exceeds $1,000.
+
+#### (g) Substantial estate or gift tax valuation understatement
+
+#### (1) In general
+
+&emsp;For purposes of this section, there is a substantial estate or gift tax valuation understatement if the value of any property claimed on any return of tax imposed by subtitle B is 50 percent or less of the amount determined to be the correct amount of such valuation.
+
+#### (2) Limitation
+
+&emsp;No penalty shall be imposed by reason of subsection (b)(5) unless the portion of the underpayment attributable to substantial estate or gift tax valuation understatements for the taxable period (or, in the case of the tax imposed by chapter 11, with respect to the estate of the decedent) exceeds $5,000.
+
+#### (h) Increase in penalty in case of gross valuation misstatements
+
+#### (1) In general
+
+&emsp;To the extent that a portion of the underpayment to which this section applies is attributable to one or more gross valuation misstatements, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
+
+#### (2) Gross valuation misstatements
+
+&emsp;The term “gross valuation misstatements” means—
+
+&emsp;&emsp;(A) any substantial valuation misstatement under chapter 1 as determined under subsection (e) by substituting—
+
+&emsp;&emsp;&emsp;(i) “400 percent” for “200 percent” each place it appears,
+
+&emsp;&emsp;&emsp;(ii) “25 percent” for “50 percent”, and
+
+&emsp;&emsp;&emsp;(iii) in paragraph (1)(B)(ii)—
+
+&emsp;&emsp;&emsp;&emsp;(I) “$20,000,000” for “$5,000,000”, and
+
+&emsp;&emsp;&emsp;&emsp;(II) “20 percent” for “10 percent”.
+
+&emsp;&emsp;(B) any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”, and
+
+&emsp;&emsp;(C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “25 percent” for “50 percent”.
+
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928.)
+
+#### Prior Provisions
+
+A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14, 1960, Pub. L. 86–470, §1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(19), 88 Stat. 931; renumbered §6660, Aug. 13, 1981, Pub. L. 97–34, title VII, §722(a)(1), 95 Stat. 341; renumbered §6662, Sept. 3, 1982, Pub. L. 97–248, title III, §323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See section 6665 of this title.
+
+#### Amendments
+
+1997—Subsec. (d)(2)(B). Pub. L. 105–34, §1028(c)(1), inserted concluding provisions.
+
+Subsec. (d)(2)(C)(iii). Pub. L. 105–34, §1028(c)(2), substituted “a significant purpose” for “the principal purpose” in concluding provisions.
+
+1994—Subsec. (d)(2)(C)(i). Pub. L. 103–465, §744(b)(1), substituted “In the case of any item of a taxpayer other than a corporation which is” for “In the case of any item” in introductory provisions.
+
+Subsec. (d)(2)(C)(ii). Pub. L. 103–465, §744(a), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (d)(2)(C)(iii). Pub. L. 103–465, §744(a), (b)(2), redesignated cl. (ii) as (iii) and substituted “this subparagraph” for “clause (i)” in introductory provisions.
+
+1993—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “any item with respect to which the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return.”
+
+Subsec. (e)(1)(B)(ii). Pub. L. 103–66, §13236(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the net section 482 transfer price adjustment for the taxable year exceeds $10,000,000.”
+
+Subsec. (e)(3)(B). Pub. L. 103–66, §13236(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of determining whether the $10,000,000 threshold requirement of paragraph (1)(B)(ii) is met, there shall be excluded—
+
+&emsp;“(i) any portion of the net increase in taxable income referred to in subparagraph (A) which is attributable to any redetermination of a price if it is shown that there was a reasonable cause for the taxpayer's determination of such price and that the taxpayer acted in good faith with respect to such price, and
+
+&emsp;“(ii) any portion of such net increase which is attributable to any transaction solely between foreign corporations unless, in the case of any of such corporations, the treatment of such transaction affects the determination of income from sources within the United States or taxable income effectively connected with the conduct of a trade or business within the United States.”
+
+Subsec. (e)(3)(D). Pub. L. 103–66, §13236(c), added subpar. (D).
+
+Subsec. (h)(2)(A)(iii). Pub. L. 103–66, §13236(d), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “ ‘$20,000,000’ for ‘$10,000,000’,”.
+
+1990—Subsec. (b)(3). Pub. L. 101–508, §11312(b)(1), amended par. (3) generally, substituting “misstatement” for “overstatement”.
+
+Subsec. (e). Pub. L. 101–508, §11312(a), substituted “misstatement” for “overstatement” in heading and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—For purposes of this section, there is a substantial valuation overstatement under chapter 1 if the value of any property (or the adjusted basis of any property) claimed on any return of tax imposed by chapter 1 is 200 percent or more of the amount determined to be the correct amount of such valuation or adjusted basis (as the case may be).
+
+“(2)
+
+Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
+
+Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–34 applicable to items with respect to transactions entered into after Aug. 5, 1997, see section 1028(e)(2) of Pub. L. 105–34, set out as a note under section 6111 of this title.
+
+#### Effective Date of 1994 Amendment
+
+Section 744(c) of Pub. L. 103–465 provided that: “The amendments made by this section \[amending this section\] shall apply to items related to transactions occurring after the date of the enactment of this Act \[Dec. 8, 1994\].”
+
+#### Effective Date of 1993 Amendment
+
+Section 13236(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
+
+Section 13251(b) of Pub. L. 103–66 provided that: “The amendment made by this section \[amending this section\] shall apply to returns the due dates for which (determined without regard to extensions) are after December 31, 1993.”
+
+#### Effective Date of 1990 Amendment
+
+Section 11312(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 5, 1990\].”
+
+#### Effective Date
+
+Part applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 461, 1274, 6015, 6694, 7525 of this title.
+

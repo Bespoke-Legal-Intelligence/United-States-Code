@@ -32,7 +32,7 @@ In carrying out this section, the Secretary—
 
 &emsp;(3) may, at the request of an Indian tribe or tribal organization, provide technical assistance; and
 
-&emsp;(4) shall prepare and submit a report to the Committee on Energy and Commerce and the Committee on Natural Resources of the House and the Committee on Indian Affairs of the Senate not later than February 1, 1994, and biennially thereafter, on the use of funds under this section and on the progress made toward the prevention, control, and elimination of tuberculosis among Indian tribes and tribal organizations.
+&emsp;(4) shall prepare and submit a report to the Committee on Energy and Commerce and the Committee on Natural Resources of the House and the Committee on Indian Affairs of the Senate not later than February 1, 1994, and biennially thereafter, on the use of funds under this section and on the progress made towardthe prevention, control, and elimination of tuberculosis among Indian tribes and tribal organizations.
 
 #### (e) Reduction of amount of grant
 

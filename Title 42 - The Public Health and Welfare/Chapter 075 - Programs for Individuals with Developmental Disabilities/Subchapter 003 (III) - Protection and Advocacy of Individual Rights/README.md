@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1396r, 6006, 6022, 6024, 6082, 6083, 10802, 14404 of this title; title 29 sections 794e, 2202.
+This subchapter is referred to in sections 1396r, 6006, 6022, 6024, 6082, 6083, 10802, 14404 of this title; title 29 sections 794e, 3002.
 
 
 ---

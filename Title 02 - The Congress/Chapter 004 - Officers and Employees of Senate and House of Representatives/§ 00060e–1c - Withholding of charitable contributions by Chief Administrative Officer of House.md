@@ -10,7 +10,7 @@ Until otherwise provided by law and except as provided in subsection (c) of this
 
 &emsp;&emsp;(A) withhold such amount from the compensation of such employee, and
 
-&emsp;&emsp;(B) transmit (not less than once each calendar quarter) the amount so withheld to the Combined Federal Campaign Center as specified in such request.
+&emsp;&emsp;(B) transmit (not less than once each calendar quarter) the amount so withheld tothe Combined Federal Campaign Center as specified in such request.
 
 #### (b) Time of fundraising activities
 

@@ -1,6 +1,6 @@
 ### §3310. Records of certification
 
-The Secretary shall keep records of certificates of inspection of vessels and of all acts in the examination and inspection of vessels, whether of approval or disapproval.
+The Secretary shall keep records of certificates of inspection of vessels and of all acts inthe examination and inspection of vessels, whether of approval or disapproval.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 515.)
 

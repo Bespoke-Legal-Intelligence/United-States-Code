@@ -26,7 +26,7 @@
 
 &emsp;(C) the placement of any career appointee under subsection (a) or (b) of this section may not be made to a position which would cause the separation or reduction in grade of any other employee.
 
-(2) An employee who is receiving basic pay under paragraph (1)(B)(ii) or (iii) of this subsection is entitled to have the basic pay rate of the employee increased by 50 percent of the amount of each increase in the maximum rate of basic pay for the grade of the position in which the employee is placed under subsection (a) or (b) of this section until the rate is equal to the rate in effect under paragraph (1)(B)(i) of this subsection for the position in which the employee is placed.
+(2) An employee who is receiving basic pay under paragraph (1)(B)(ii) or (iii) of this subsection is entitled to have the basic pay rate of the employee increased by 50 percent of the amount of each increase in the maximum rate of basic pay for the grade of the position in which the employee is placed under subsection (a) or\(b) of this section until the rate is equal to the rate in effect under paragraph (1)(B)(i) of this subsection for the position in which the employee is placed.
 
 (Added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1166; amended Pub. L. 98–615, title III, §303(b), Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–194, title V, §506(b)(5), Nov 30, 1989, 103 Stat. 1758; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(E)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 102–378, §2(16), Oct. 2, 1992, 106 Stat. 1347.)
 

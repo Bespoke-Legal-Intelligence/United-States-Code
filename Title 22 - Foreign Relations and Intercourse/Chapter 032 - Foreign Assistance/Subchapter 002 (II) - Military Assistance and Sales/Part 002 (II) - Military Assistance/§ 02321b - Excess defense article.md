@@ -4,7 +4,7 @@
 
 #### (d) Reports to Congress
 
-The President shall promptly and fully inform the Speaker of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate of each decision to furnish on a grant basis to any country excess defense articles which are major weapons systems to the extent such major weapons system was not included in the presentation material previously submitted to the Congress. The annual presentation materials for security assistance programs shall include a table listing by country the total value of all deliveries of excess defense articles, disclosing both the aggregate original acquisition cost and the aggregate value at the time of delivery.
+The President shall promptly and fully inform the Speaker of the House of Representatives and the Committee on Foreign Relations and theCommittee on Appropriations of the Senate of each decision to furnish on a grant basis to any country excess defense articles which are major weapons systems to the extent such major weapons system was not included in the presentation material previously submitted to the Congress. The annual presentation materials for security assistance programs shall include a table listing by country the total value of all deliveries of excess defense articles, disclosing both the aggregate original acquisition cost and the aggregate value at the time of delivery.
 
 (Pub. L. 91–672, §8, Jan. 12, 1971, 84 Stat. 2054; Pub. L. 92–226, pt. IV, §402, Feb. 7, 1972, 86 Stat. 33; Pub. L. 93–189, §26(1)–(3), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, §13, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–329, title II, §210(c)(2), June 30, 1976, 90 Stat. 740; Pub. L. 95–384, §29(a), Sept. 26, 1978, 92 Stat. 747.)
 
@@ -46,7 +46,7 @@ Section 210(c)(2) of Pub. L. 94–329 provided in part that the amendment of sub
 
 #### Delegation of Functions
 
-Functions of President under subsec. (d) delegated to Secretary of State by section 1–201(a)(19) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+Functions of President under subsec. (d) delegated to Secretary of State by section 1–201(a)(20) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
 
 #### Transfer of Suspense Account Funds to General Fund of Treasury
 

@@ -6,11 +6,11 @@ Authority.—The Secretary of Defense may carry out a program to provide special
 
 (b)
 
-Federal Payments and Commodities.—For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a).
+Federal Payments and Commodities.—For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a).
 
 (c)
 
-Program Administration.—(1)(A) The Secretary of Defense shall administer the program referred to in subsection (a) and, except as provided in subparagraph (B), shall determine eligibility for program benefits under the criterion published by the Secretary of Agriculture under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).
+Program Administration.—(1)(A) The Secretary of Defense shall administer the program referred to in subsection (a) and, except as provided in subparagraph (B), shall determine eligibility for program benefits under the criterionpublished by the Secretary of Agriculture under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).
 
 (B) The Secretary of Defense shall prescribe regulations governing computation of income eligibility standards for families of individuals participating in the program under this section.
 

@@ -6,5 +6,5 @@ The right to alter, amend, or repeal this chapter is expressly declared and rese
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 831ee of this title.
+This section is referred to in sections 460<i>lll</i>–49, 831ee of this title.
 

@@ -12,7 +12,7 @@ Upon receipt of applications filed pursuant to this section, the Commissioner sh
 
 &emsp;(A) Applicants who are determined to be at least 50 per centum disabled as certified by a physician approved by the Commissioner. Such applicants shall be ranked in the order of the severity of their disability.
 
-&emsp;(B) Applicants who are not at least 50 per centum disabled shall be ranked in order of their age with oldest listed first and the youngest listed last: <i>Provided</i>, That, if any applicant physically resides in quarter quad Nos. 78 NW, 77 NE, 77 NW, 55 SW, or 54 SE as designated on the Mediator's partition map, suchapplicant shall be given priority over another applicant of equal age.
+&emsp;(B) Applicants who are not at least 50 per centum disabled shall be ranked in order of their age with oldest listed first and the youngest listed last: <i>Provided</i>, That, if any applicant physically resides in quarter quad Nos. 78 NW, 77 NE, 77 NW, 55 SW, or 54 SE as designated on the Mediator's partition map, such applicant shall be given priority over another applicant of equal age.
 
 &emsp;(C) Applicants who did not, as of December 22, 1974, and continuously thereafter, maintain a separate place of abode and actually remain domiciled on Hopi partitioned lands, and who, but for this subsection would be required to relocate, shall be rejected by the Commissioner.
 
@@ -28,7 +28,7 @@ Each life estate lease shall consist of a fenced area not exceeding ninety acres
 
 #### (f) Individuals permitted to reside; regulations
 
-No person may reside on a life estate other than the life tenant, his or her spouse, and minor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
+No person may reside on a life estate other than the life tenant, his or her spouse, andminor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
 
 #### (g) Termination
 

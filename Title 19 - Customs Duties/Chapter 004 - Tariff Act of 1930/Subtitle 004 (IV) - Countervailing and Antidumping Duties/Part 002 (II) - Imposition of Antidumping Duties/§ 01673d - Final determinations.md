@@ -78,7 +78,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;&emsp;(III) any other circumstances indicating that the remedial effect of the antidumping order will be seriously undermined.
 
-&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of the merchandise.
+&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has madean affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of the merchandise.
 
 #### (c) Effect of final determinations
 
@@ -132,7 +132,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (B) Exception
 
-&emsp;&emsp;If the estimated weighted average dumping margins established for all exporters and producers individually investigated are zero or de minimis margins, or are determined entirely under section 1677e of this title, the administering authority may use any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted average dumping margins determined for the exporters and producers individually investigated.
+&emsp;&emsp;If the estimated weighted average dumping margins established for all exporters and producers individually investigated are zero or de minimis margins, or are determined entirely under section 1677e of this title, theadministering authority may use any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted average dumping margins determined for the exporters and producers individually investigated.
 
 #### (d) Publication of notice of determinations
 
@@ -140,9 +140,9 @@ Whenever the administering authority or the Commission makes a determination und
 
 #### (e) Correction of ministerial errors
 
-The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonabletime after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-(June 17, 1930, ch. 497, title VII, §735, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 169; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§602(c), 605(b), 98 Stat. 3024, 3028; Aug. 23, 1988, Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), 102 Stat. 1201, 1209; Dec. 8, 1994, Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), 108 Stat. 4849–4851, 4856, 4857, 4900; Oct. 11, 1996, Pub. L. 104–295, §20(b)(6), 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §735, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 169; amended Pub. L. 98–573, title VI, §§602(c), 605(b), Oct. 30, 1984, 98 Stat. 3024, 3028; Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), Aug. 23, 1988, 102 Stat. 1201, 1209; Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), Dec. 8, 1994, 108 Stat. 4849–4851, 4856, 4857, 4900; Pub. L. 104–295, §20(b)(6), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 

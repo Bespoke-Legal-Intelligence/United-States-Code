@@ -66,7 +66,7 @@ The Secretary may conduct projects and activities that involve on-farm research 
 
 #### (f) Impact studies
 
-The Secretary may approve study projects concerning the national and regional economic,global competitiveness, social and environmental implications of the adoption of low-input sustainable agricultural practices and systems.
+The Secretary may approve study projects concerning the national and regional economic, global competitiveness, social and environmental implications of the adoption of low-input sustainable agricultural practices and systems.
 
 #### (g) Project duration
 

@@ -6,17 +6,21 @@ The Secretary of Transportation is authorized, on such terms and conditions as h
 
 #### (b) Waiver of statutory and contractual restrictions on the use of the parking facility
 
-The Secretary of Transportation shall waive such statutory or contractual restrictions on the use of the parking structure and associated ramps described in section 818 of this title as would otherwise be required or imposed because funds for such construction were or are provided under chapter 53 of title 49.
+The Secretary of Transportation shall waive such statutory or contractual restrictions onthe use of the parking structure and associated ramps described in section 818 of this title as would otherwise be required or imposed because funds for such construction were or are provided under chapter 53 of title 49.
 
 #### (c) Use of funds appropriated under other provisions without matching funds requirement
 
-The Secretary of Transportation is authorized to use funds appropriated under section 24909(a)(2)(A) of title 49 to carry out the purposes of this part without regard to the matchingfunds requirement of section 24902(c)(1) of title 49. Funds appropriated under section 24909 of title 49 may not be used for design, construction, or operation of a heliport at or near Union Station.
+The Secretary of Transportation is authorized to use funds appropriated under section 24909(a)(2)(A) of title 49 to carry out the purposes of this part without regard to the matching funds requirement of section 24902(c)(1) <sup>1</sup> of title 49. Funds appropriated under section 24909 of title 49 may not be used for design, construction, or operation of a heliport at or near Union Station.
 
 #### (d) Architect of Capitol authorized to supply steam or chilled water to the Union Station complex
 
 The Architect of the Capitol is authorized to enter into agreements with the Secretary of Transportation or his designee or assign to furnish steam or chilled water or both from the Capitol Power Plant to the Union Station complex, at no expense to the legislative branch.
 
 (Pub. L. 90–264, title I, §119, as added Pub. L. 97–125, §3(3), Dec. 29, 1981, 95 Stat. 1672; amended Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088.)
+
+#### References in Text
+
+Section 24902(c) of title 49, referred to in subsec. (c), was repealed and subsec. (f) of that section was redesignated (c) by Pub. L. 105–134, title IV, §405(b)(1)(A), Dec. 2, 1997, 111 Stat. 2586. Provisions relating to matching funds requirement no longer appear in section 24902.
 
 #### Codification
 
@@ -25,4 +29,6 @@ In subsecs. (b) and (c), “chapter 53 of title 49” substituted for “the Fed
 #### Amendments
 
 1991—Subsec. (b). Pub. L. 102–240 substituted “Federal Transit Act” for “Urban Mass Transportation Act of 1964”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

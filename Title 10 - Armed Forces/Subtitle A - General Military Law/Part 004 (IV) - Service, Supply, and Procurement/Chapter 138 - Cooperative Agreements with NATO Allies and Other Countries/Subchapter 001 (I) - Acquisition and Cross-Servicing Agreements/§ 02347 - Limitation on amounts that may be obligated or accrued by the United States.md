@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–337, §1317(g)(1), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$200,000,000” for “$150,000,000” and “$50,000,000” for “$25,000,000”.
+1994—Subsec. (a)(1). Pub. L. 103–337, §1317(g)(1), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United NationsOrganization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$200,000,000” for “$150,000,000” and “$50,000,000” for “$25,000,000”.
 
 Subsec. (a)(2). Pub. L. 103–337, §1317(g)(2), substituted “$60,000,000” for “$10,000,000” in two places and “$20,000,000” for “$2,500,000”.
 

@@ -10,7 +10,7 @@
 
 #### (B) States with new hire reporting law in existence
 
-&emsp;&emsp;A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) of this section not later than October 1, 1997, and the requirements of this section (other than subsection (g)(2) of this section) not later than October 1, 1998.
+&emsp;&emsp;A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) of this section not later than October 1, 1997, and the requirements of thissection (other than subsection (g)(2) of this section) not later than October 1, 1998.
 
 #### (2) Definitions
 
@@ -88,7 +88,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (1) Transmission of wage withholding notices to employers
 
-&emsp;Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
+&emsp;Within 2 business days after the date information regarding a newly hired employee isentered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
 
 #### (2) Transmissions to the National Directory of New Hires
 
@@ -118,7 +118,7 @@ Information shall be entered into the data base maintained by the State Director
 
 &emsp;State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
 
-(Aug. 14, 1935, ch. 531, title IV, §453A, as added Aug. 22, 1996, Pub. L. 104–193, title III, §313(b), 110 Stat. 2209; amended Aug. 5, 1997, Pub. L. 105–33, title V, §5533, 111 Stat. 627.)
+(Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627.)
 
 #### References in Text
 
@@ -140,5 +140,5 @@ For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 653, 654, 1320b–7 of this title.
+This section is referred to in sections 653, 654, 666, 1320b–7 of this title.
 

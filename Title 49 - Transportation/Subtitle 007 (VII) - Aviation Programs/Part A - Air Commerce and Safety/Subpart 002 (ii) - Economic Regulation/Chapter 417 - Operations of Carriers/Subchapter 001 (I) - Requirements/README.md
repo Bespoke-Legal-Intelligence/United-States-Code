@@ -20,3 +20,4 @@
 - [&sect; 41713 - Preemption of authority over prices, routes, and service](%C2%A7%2041713%20-%20Preemption%20of%20authority%20over%20prices%2C%20routes%2C%20and%20service.md)
 - [&sect; 41714 - Availability of slots](%C2%A7%2041714%20-%20Availability%20of%20slots.md)
 - [&sect; 41715 - Air service termination notice](%C2%A7%2041715%20-%20Air%20service%20termination%20notice.md)
+- [&sect; 41716 - Joint venture agreements](%C2%A7%2041716%20-%20Joint%20venture%20agreements.md)

@@ -193,7 +193,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 6314, 7234, 7815, 8852, 8857, 8941 of this title; title 31 section 6703.
+This chapter is referred to in sections 2305, 6314, 7234, 7815, 8852, 8857, 8941 of this title; title 31 section 6703.
 
 
 ---

@@ -74,7 +74,7 @@ When used in subchapter II of this chapter:
 
 #### (8) Court
 
-&emsp;The term “court” means a court of a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
+&emsp;The term “court” means a court of a State, the District of Columbia, the Commonwealthof Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
 
 #### (b) “Child” defined
 

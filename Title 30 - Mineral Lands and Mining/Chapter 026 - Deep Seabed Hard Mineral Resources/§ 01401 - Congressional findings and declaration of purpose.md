@@ -24,11 +24,11 @@ The Congress finds that—
 
 &emsp;(10) even if such negotiations are completed promptly, much time will elapse before such an international regime is established and in operation;
 
-&emsp;(11) development of technology required for the exploration and recovery of hard mineral resources of the deep seabed will require substantial investment for many years before commercial production can occur, and must proceed at this time if deep seabed minerals are to be available when needed;
+&emsp;(11) development of technology required for the exploration and recovery of hard mineralresources of the deep seabed will require substantial investment for many years before commercial production can occur, and must proceed at this time if deep seabed minerals are to be available when needed;
 
 &emsp;(12) it is the legal opinion of the United States that exploration for and commercial recovery of hard mineral resources of the deep seabed are freedoms of the high seas subject to a duty of reasonable regard to the interests of other states in their exercise of those and other freedoms recognized by general principles of international law;
 
-&emsp;(13) pending a Law of the Sea Treaty, and in the absence of agreement among states on applicable principles of international law, theuncertainty among potential investors as to the future legal regime is likely to discourage or prevent the investments necessary to develop deep seabed mining technology;
+&emsp;(13) pending a Law of the Sea Treaty, and in the absence of agreement among states on applicable principles of international law, the uncertainty among potential investors as to the future legal regime is likely to discourage or prevent the investments necessary to develop deep seabed mining technology;
 
 &emsp;(14) pending a Law of the Sea Treaty, the protection of the marine environment from damage caused by exploration or recovery of hard mineral resources of the deep seabed depends upon the enactment of suitable interim national legislation;
 

@@ -38,7 +38,7 @@ The Committee shall meet 4 times each year, and more frequently if requested by 
 
 #### (h) Reports
 
-The Committee shall submit a semiannual written report to the Committee on Banking, Finance and Urban Affairs of the House and to the Committee on Banking, Housing, and Urban Affairs of the Senate. Such report shall describethe activities of the Committee for such semiannual period and contain such recommendations as the Committee considers appropriate.
+The Committee shall submit a semiannual written report to the Committee on Banking, Finance and Urban Affairs of the House and to the Committee on Banking, Housing, and Urban Affairs of the Senate. Such report shall describe the activities of the Committee for such semiannual period and contain such recommendations as the Committee considers appropriate.
 
 #### (i) Provision of staff and other resources
 

@@ -14,7 +14,7 @@ Each order establishing a Federal manufactured home construction and safety stan
 
 #### (d) Supremacy of Federal standards
 
-Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identicalto the Federal manufactured home construction and safety standard.
+Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard.
 
 #### (e) Amendment or revocation by Secretary; effective date
 
@@ -82,7 +82,7 @@ The National Housing Act, referred to in subsec. (h)(3), is act June 27, 1934, c
 
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 
-Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: “If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulationand energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled ‘Energy Efficient Design of Low-Rise Residential Buildings’ and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act.”
+Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: “If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled ‘Energy Efficient Design of Low-Rise Residential Buildings’ and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act.”
 
 #### Section Referred to in Other Sections
 

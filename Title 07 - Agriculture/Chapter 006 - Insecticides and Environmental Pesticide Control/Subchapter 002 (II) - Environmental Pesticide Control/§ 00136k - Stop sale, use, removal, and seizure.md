@@ -2,7 +2,7 @@
 
 #### (a) Stop sale, etc., orders
 
-Whenever any pesticide or device is found by the Administrator in any State and there is reason to believe on the basis of inspection or tests that such pesticide or device is in violation of any of the provisions of this subchapter, or that such pesticide or device has been or is intended to be distributed or sold in violation of any such provisions, or when the registration of the pesticide has been canceled by a final order or has been suspended, the Administrator may issue awritten or printed “stop sale, use, or removal” order to any person who owns, controls, or has custody of such pesticide or device, and after receipt of such order no person shall sell, use, or remove the pesticide or device described in the order except in accordance with the provisions of the order.
+Whenever any pesticide or device is found by the Administrator in any State and there is reason to believe on the basis of inspection or tests that such pesticide or device is in violation of any of the provisions of this subchapter, or that such pesticide or device has been or is intended to be distributed or sold in violation of any such provisions, or when the registration of the pesticide has been canceled by a final order or has been suspended, the Administrator may issue a written or printed “stop sale, use, or removal” order to any person who owns, controls, or has custody of such pesticide or device, and after receipt of such order no person shall sell, use, or remove the pesticide or device described in the order except in accordance with the provisions of the order.
 
 #### (b) Seizure
 
@@ -34,7 +34,7 @@ If the pesticide or device is condemned it shall, after entry of the decree, be 
 
 When a decree of condemnation is entered against the pesticide or device, court costs and fees, storage, and other proper expenses shall be awarded against the person, if any, intervening as claimant of the pesticide or device.
 
-(June 25, 1947, ch. 125, §13, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 991; amended Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(h), 102 Stat. 2682.)
+(June 25, 1947, ch. 125, §13, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 991; amended Pub. L. 100–532, title VIII, §801(h), Oct. 25, 1988, 102 Stat. 2682.)
 
 #### Prior Provisions
 

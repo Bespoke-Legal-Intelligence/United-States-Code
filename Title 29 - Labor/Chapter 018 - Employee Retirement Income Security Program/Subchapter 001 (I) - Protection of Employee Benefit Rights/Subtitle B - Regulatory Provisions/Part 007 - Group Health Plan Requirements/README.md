@@ -2,7 +2,7 @@ part 7—group health plan requirements
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1003, 1021, 1132, 1136, 1162 of this title; title 26 section 4980B.
+This part is referred to in sections 1003, 1021, 1132, 1136, 1162 of this title; title 26 section 4980B; title 42 sections 300bb–2, 1397cc, 1397ii.
 
 
 ---

@@ -48,7 +48,7 @@ Extrajudicial Killing.—For the purposes of this Act, the term ‘extrajudicial
 
 Torture.—For the purposes of this Act—
 
-&emsp;“(1) the term ‘torture’ means any act, directed against an individual in the offender's custody or physical control, by which severe pain or suffering (other than pain or suffering arising only from or inherent in, or incidental to, lawful sanctions), whether physical or mental, is intentionally inflicted on that individual for such purposes as obtaining from that individual or a third person information or a confession, punishing that individual for an act that individual or a third person has committed or is suspected of having committed, intimidating or coercingthat individual or a third person, or for any reason based on discrimination of any kind; and
+&emsp;“(1) the term ‘torture’ means any act, directed against an individual in the offender's custody or physical control, by which severe pain or suffering (other than pain or suffering arising only from or inherent in, or incidental to, lawful sanctions), whether physical or mental, is intentionally inflicted on that individual for such purposes as obtaining from that individual or a third person information or a confession, punishing that individual for an act that individual or a third person has committed or is suspected of having committed, intimidating or coercing that individual or a third person, or for any reason based on discrimination of any kind; and
 
 &emsp;“(2) mental pain or suffering refers to prolonged mental harm caused by or resulting from—
 

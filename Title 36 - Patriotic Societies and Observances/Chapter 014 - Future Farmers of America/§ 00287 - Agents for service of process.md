@@ -1,6 +1,0 @@
-### §287. Agents for service of process
-
-As a condition precedent to the exercise of any power or privilege granted to the corporation under this chapter, the corporation shall file in the Office of the Secretary of State, or similar officer, in each State and in each Territory or possession of the United States in which subordinate associations or chapters are organized the name, and post office address of an authorized agent in such State, Territory, or possession upon whom legal process or demands against the corporation may be served.
-
-(Aug. 30, 1950, ch. 823, §17, 64 Stat. 567.)
-

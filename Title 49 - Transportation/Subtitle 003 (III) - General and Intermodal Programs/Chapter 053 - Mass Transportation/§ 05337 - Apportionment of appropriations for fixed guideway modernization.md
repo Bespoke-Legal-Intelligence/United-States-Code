@@ -2,49 +2,67 @@
 
 (a)
 
-Percentage Distribution.—The Secretary of Transportation shall apportion amounts made available for fixed guideway modernization under section 5309 of this title for each of the fiscal years ending September 30, 1993–1997, and for the period of October 1, 1997, through March 31, 1998, as follows:
+Distribution.—The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for each of fiscal years 1998 through 2003 as follows:
 
-&emsp;(1) The first $455,000,000 shall be apportioned in the following urbanized areas as follows:
+&emsp;(1) The first $497,700,000 shall be apportioned in the following urbanized areas as follows:
 
-&emsp;&emsp;(A) Baltimore, 1.84 percent.
+&emsp;&emsp;(A) Baltimore, $8,372,000.
 
-&emsp;&emsp;(B) Boston, 8.56 percent.
+&emsp;&emsp;(B) Boston, $38,948,000.
 
-&emsp;&emsp;(C) Chicago/Northwestern Indiana, 17.18 percent.
+&emsp;&emsp;(C) Chicago/Northwestern Indiana, $78,169,000.
 
-&emsp;&emsp;(D) Cleveland, 2.09 percent.
+&emsp;&emsp;(D) Cleveland, $9,509,500.
 
-&emsp;&emsp;(E) New York, 35.57 percent.
+&emsp;&emsp;(E) New Orleans, $1,730,588.
 
-&emsp;&emsp;(F) Northeastern New Jersey, 9.04 percent.
+&emsp;&emsp;(F) New York, $176,034,461.
 
-&emsp;&emsp;(G) Philadelphia/Southern New Jersey, 12.41 percent.
+&emsp;&emsp;(G) Northeastern New Jersey, $50,604,653.
 
-&emsp;&emsp;(H) San Francisco, 7.21 percent.
+&emsp;&emsp;(H) Philadelphia/Southern New Jersey, $58,924,764.
 
-&emsp;&emsp;(I) Southwestern Connecticut, 6.10 percent.
+&emsp;&emsp;(I) Pittsburgh, $13,662,463.
 
-&emsp;(2) The next $42,700,000 shall be apportioned in the following urbanized areas as follows:
+&emsp;&emsp;(J) San Francisco, $33,989,571.
 
-&emsp;&emsp;(A) New York, 33.2341 percent.
+&emsp;&emsp;(K) Southwestern Connecticut, $27,755,000.
 
-&emsp;&emsp;(B) Northeastern New Jersey, 22.1842 percent.
+&emsp;(2) The next $70,000,000 shall be apportioned as follows:
 
-&emsp;&emsp;(C) Philadelphia/Southern New Jersey, 5.7594 percent.
+&emsp;&emsp;(A) 50 percent in the urbanized areas listed in paragraph (1), as provided in section 5336(b)(2)(A).
 
-&emsp;&emsp;(D) San Francisco, 2.7730 percent.
+&emsp;&emsp;(B) 50 percent in other urbanized areas eligible for assistance under section 5336(b)(2)(A) to which amounts were apportioned under this section for fiscal year 1997, as provided in section 5336(b)(2)(A) and subsection (e)(1) of this section.
 
-&emsp;&emsp;(E) Pittsburgh, 31.9964 percent.
+&emsp;(3) The next $5,700,000 shall be apportioned in the following urbanized areas as follows:
 
-&emsp;&emsp;(F) New Orleans, 4.0529 percent.
+&emsp;&emsp;(A) Pittsburgh, 61.76 percent.
 
-&emsp;(3) The next $70,000,000 shall be apportioned as follows:
+&emsp;&emsp;(B) Cleveland, 10.73 percent.
 
-&emsp;&emsp;(A) 50 percent in the urbanized areas listed in paragraphs (1) and (2) as provided in section 5336(b)(2)(A) of this title.
+&emsp;&emsp;(C) New Orleans, 5.79 percent.
 
-&emsp;&emsp;(B) 50 percent in other urbanized areas eligible for assistance under section 5336(b)(2)(A) of this title if the areas contain fixed guideway systems placed in revenue service at least 7 years before the fiscal year in which amounts are made available and in any other urbanized area if, before the first day of the fiscal year, the area satisfies the Secretary that the area has modernization needs that cannot be met adequately with amounts received as provided in section 5336(b)(2)(A).
+&emsp;&emsp;(D) 21.72 percent in urbanized areas to which paragraph (2)(B) applies, as provided in section 5336(b)(2)(A) and subsection (e)(1) of this section.
 
-&emsp;(4) Remaining amounts shall be apportioned in each urbanized area eligible for assistance under paragraphs (1)–(3) of this subsection as provided in section 5336(b)(2)(A) of this title.
+&emsp;(4) The next $186,600,000 shall be apportioned in each urbanized area to which paragraph (1) applies and in each urbanized area to which paragraph (2)(B) applies, as provided in section 5336(b)(2)(A) and subsection (e)(1) of this section.
+
+&emsp;(5) The next $70,000,000 shall be apportioned as follows:
+
+&emsp;&emsp;(A) 65 percent in the urbanized areas listed in paragraph (1), as provided in section 5336(b)(2)(A) and subsection (e)(2) of this section.
+
+&emsp;&emsp;(B) 35 percent to other urbanized areas eligible for assistance under section 5336(b)(2)(A) if the areas contain fixed guideway systems placed in revenue service at least 7 years before the fiscal year in which amounts are made available and in any urbanized area if, before the first day of the fiscal year, the area satisfies the Secretary that the area has modernization needs that cannot adequately be met with amounts received under section 5336(b)(2)(A), as provided in section 5336(b)(2)(A) and subsection (e)(2) of this section.
+
+&emsp;(6) The next $50,000,000 shall be apportioned as follows:
+
+&emsp;&emsp;(A) 60 percent in the urbanized areas listed in paragraph (1), as provided in section 5336(b)(2)(A) and subsection (e)(2) of this section.
+
+&emsp;&emsp;(B) 40 percent to urbanized areas to which paragraph (5)(B) applies, as provided in section 5336(b)(2)(A) and subsection (e)(2) of this section.
+
+&emsp;(7) Remaining amounts shall be apportioned as follows:
+
+&emsp;&emsp;(A) 50 percent in the urbanized areas listed in paragraph (1), as provided in section 5336(b)(2)(A) and subsection (e)(2) of this section.
+
+&emsp;&emsp;(B) 50 percent to urbanized areas to which paragraph (5)(B) applies, as provided in section 5336(b)(2)(A) and subsection (e)(2) of this section.
 
 (b)
 
@@ -66,9 +84,21 @@ Availability of Amounts.—An amount apportioned under this section—
 
 Special Rule for October 1, 1997,
 
-Through March 31, 1998.—The Secretary shall determine the amount that each urbanized area is to be apportioned for fixed guideway modernization under this section on a pro rata basis to reflect the partial fiscal year 1998 funding made available by section 5338(b)(1)(F).
+Through March 31, 1998.—The Secretary shall determine the amount that each urbanized area is to be apportioned for fixed guideway modernization under this section on a pro rata basis to reflect the partial fiscal year 1998 funding made available by section 5338(b)(1)(F).<sup>1</sup>
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559.)
+(e) <sup>2</sup>
+
+Route Segments To Be Included in Apportionment Formulas.—
+
+&emsp;(1) 1997
+
+standard.—Amounts apportioned under paragraphs (2)(B), (3), and (4) of subsection (a) shall have attributable to each urbanized area only the number of fixed guideway revenue miles of service and number of fixed guideway route miles for segments of fixed guideway systems used to determine apportionments for fiscal year 1997.
+
+&emsp;(2)
+
+Other standards.—Amounts apportioned under paragraphs (5) through (7) of subsection (a) shall have attributable to each urbanized area only the number of fixed guideway revenue miles of service and number of fixed guideway route-miles for segments of fixed guideway systems placed in revenue service at least 7 years before the fiscal year in which amounts are made available.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858.)
 
 Historical and Revision Notes
 
@@ -112,13 +142,29 @@ In subsection (d)(1), the words “for obligation”, “a period of”, and “
 
 This amends 49:5337(a)(4) to correct an erroneous cross-reference.
 
+#### References in Text
+
+Section 5338(b)(1), referred to in subsec. (e), was amended generally by Pub. L. 105–178, title III, §3029(a), June 9, 1998, 112 Stat. 368, and, as so amended, no longer contains a subpar. (F).
+
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178, §3028(c), as added by Pub. L. 105–206, in par. (2)(B), substituted “(e)(1)” for “(e)”, in par. (3)(D), substituted “(2)(B)” for “(2)(B)(ii)” and “(e)(1)” for “(e)”, in par. (4), substituted “(e)(1)” for “(e)”, and in pars. (5) to (7), substituted “(e)(2)” for “(e)” wherever appearing.
+
+Pub. L. 105–178, §3028(a), amended heading and text of subsec. (a) generally, substituting provisions relating to distribution for fiscal years 1998 through 2003 for provisions relating to percentage distribution for fiscal years ending Sept. 30, 1993–1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
+
+Subsec. (e). Pub. L. 105–178, §3028(b), added subsec. (e) relating to route segments to be included in apportionment formulas.
+
+Subsec. (e)(1). Pub. L. 105–178, §3029(b)(12), which directed substitution of “subsections (b) and (h)(4) of section 5338” for “section 5338(f)”, could not be executed because “section 5338(f)” does not appear in text.
 
 1997—Subsec. (a). Pub. L. 102–240, §3049(b)(1), as added by Pub. L. 105–130, inserted “and for the period of October 1, 1997, through March 31, 1998,” after “1997,” in introductory provisions.
 
 Subsec. (e). Pub. L. 102–240, §3049(b)(2), as added by Pub. L. 105–130, added subsec. (e).
 
 1994—Subsec. (a)(4). Pub. L. 103–429 substituted “section 5336(b)(2)(A) of this title” for “section 5336(B)(2)(A)”.
+
+#### Effective Date of 1998 Amendment
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1994 Amendment
 
@@ -127,4 +173,8 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5333 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(f)”.</i>
 

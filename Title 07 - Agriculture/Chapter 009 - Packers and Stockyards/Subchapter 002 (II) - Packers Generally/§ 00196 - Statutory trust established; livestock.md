@@ -2,7 +2,7 @@
 
 #### (a) Protection of public interest from inadequate financing arrangements
 
-It is hereby found that a burden on and obstruction to commerce in livestock is caused byfinancing arrangements under which packers encumber, give lenders security interest in, or place liens on, livestock purchased by packers in cash sales, or on inventories of or receivables or proceeds from meat, meat food products, or livestock products therefrom, when payment is not made for the livestock and that such arrangements are contrary to the public interest. This section is intended to remedy such burden on and obstruction to commerce in livestock and protect the public interest.
+It is hereby found that a burden on and obstruction to commerce in livestock is caused by financing arrangements under which packers encumber, give lenders security interest in, or place liens on, livestock purchased by packers in cash sales, or on inventories of or receivables or proceeds from meat, meat food products, or livestock products therefrom, when payment is not made for the livestock and that such arrangements are contrary to the public interest. This section is intended to remedy such burden on and obstruction to commerce in livestock and protect the public interest.
 
 #### (b) Livestock, inventories, receivables and proceeds held by packer in trust for benefit of unpaid cash sellers; time limitations; exempt packers; effect of dishonored instruments; preservation of trust benefits by seller
 
@@ -12,5 +12,5 @@ All livestock purchased by a packer in cash sales, and all inventories of, or re
 
 For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-(Aug. 15, 1921, ch. 64, title II, §206, as added Sept. 13, 1976, Pub. L. 94–410, §8, 90 Stat. 1251.)
+(Aug. 15, 1921, ch. 64, title II, §206, as added Pub. L. 94–410, §8, Sept. 13, 1976, 90 Stat. 1251.)
 

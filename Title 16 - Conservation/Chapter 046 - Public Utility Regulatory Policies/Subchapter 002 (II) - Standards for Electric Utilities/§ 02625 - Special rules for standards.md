@@ -14,7 +14,7 @@ In undertaking the consideration and making the determination under section 2621
 
 #### (b) Time-of-day rates
 
-In undertaking the consideration and making the determination required under section 2621 of this title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering costs and other costs associated with the use of such rates.
+In undertaking the consideration and making the determination required under section 2621 of this title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in theclass concerned are likely to exceed the metering costs and other costs associated with the use of such rates.
 
 #### (c) Load management techniques
 
@@ -68,7 +68,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 The procedures for termination of service referred to in section 2623(b)(4) of this title are procedures prescribed by the State regulatory authority (with respect to electric utilities for which it has ratemaking authority) or by the nonregulated electric utility which provide that—
 
-&emsp;(1) no electric service to an electric consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is given to such consumer and such consumer has a reasonable opportunity to dispute the reasons for such termination, and
+&emsp;(1) no electric service to an electric consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is given to such consumer and suchconsumer has a reasonable opportunity to dispute the reasons for such termination, and
 
 &emsp;(2) during any period when termination of service to an electric consumer would be especially dangerous to health, as determined by the State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or nonregulated electric utility, and such consumer establishes that—
 

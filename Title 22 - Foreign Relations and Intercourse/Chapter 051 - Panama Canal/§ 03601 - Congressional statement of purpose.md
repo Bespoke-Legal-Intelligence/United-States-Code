@@ -20,7 +20,7 @@ Pub. L. 105–85, div. C, title XXXV, §3511(a), Nov. 18, 1997, 111 Stat. 2062, 
 
 Pub. L. 104–201, div. C, title XXXV, §3521(a), Sept. 23, 1996, 110 Stat. 2860, provided that: “This subtitle \[subtitle B (§§3521–3549) of title XXXV of div. C of Pub. L. 104–201, enacting sections 3714b and 3873 of this title, amending sections 3602, 3613, 3614, 3623, 3642, 3649 to 3653, 3657, 3658, 3663, 3664, 3671, 3682, 3712, 3713, 3721, 3723, 3731, 3741, 3751, 3777, and 3811 of this title and sections 3401, 5102, 5342, 5343, 5348, 5373, 5537, 5541, 5924, 6322, and 7901 of Title 5, Government Organization and Employees, repealing sections 3654, 3683, 3711, 3795, 3801, 3802, 3831, 3841 to 3844, 3851, 3852, and 3861 of this title, enacting provisions set out as notes under sections 3613, 3614, and 3652 of this title, and repealing provisions set out as notes under sections 3795 and 3843 of this title\] may be cited as the ‘Panama Canal Act Amendments of 1996’.”
 
-Pub. L. 104–106, div. C, title XXXV, §3521, Feb. 10, 1996, 110 Stat. 638, provided that: “This subtitle \[subtitle B (§§3521–3530) of title XXXV of div. C of Pub. L. 104–106, enacting sections 3612a and 3612b of this title and amending sections 3611, 3612, 3645, 3712, 3713, 3723, 3731, 3761, 3775, 3776, 3791, and 3794 of this title and section 9101 of Title 31, Money and Finance\] may be cited as the ‘Panama Canal Amendments Act of 1995’.”
+Pub. L. 104–106, div. C, title XXXV, §3521, Feb. 10, 1996, 110 Stat. 638, provided that: “This subtitle \[subtitle B\(§§3521–3530) of title XXXV of div. C of Pub. L. 104–106, enacting sections 3612a and 3612b of this title and amending sections 3611, 3612, 3645, 3712, 3713, 3723, 3731, 3761, 3775, 3776, 3791, and 3794 of this title and section 9101 of Title 31, Money and Finance\] may be cited as the ‘Panama Canal Amendments Act of 1995’.”
 
 #### Short Title of 1988 Amendment
 
@@ -64,7 +64,7 @@ The Secretary of Defense
 
 1–102. The function vested in the President by Section 1212(d)(1) of the Panama Canal Act of 1979 (93 Stat. 464; 22 U.S.C. 3652(d)(1)) to exclude employees of, or positions within, the Department of Defense from coverage under any provision of subchapter II, Chapter 2 of Title I of the Panama Canal Act of 1979 \[22 U.S.C. 3651 et seq.\], is delegated to the Secretary of Defense.
 
-1–103. The function vested in the President by Section 1281(b) of Title 6 of the Panama Canal Code (76A Stat.455; 6 P.C.C. 1281(b)), as amended, with respect to areas and installations made available to the United States pursuant to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977 is delegated to the Secretary of Defense.
+1–103. The function vested in the President by Section 1281(b) of Title 6 of the Panama Canal Code (76A Stat. 455; 6 P.C.C. 1281(b)), as amended, with respect to areas and installations made available to the United States pursuant to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977 is delegated to the Secretary of Defense.
 
 1–104. The function vested in the President by Section 1701 of the Panama Canal Act of 1979 (93 Stat. 492; 22 U.S.C. 3801), with respect to regulations applicable within the areas and installations made available to the United States pursuant to the Agreement in Implementation of Article IV of the Panama Canal Treaty of 1977, is delegated to the Secretary of Defense.
 

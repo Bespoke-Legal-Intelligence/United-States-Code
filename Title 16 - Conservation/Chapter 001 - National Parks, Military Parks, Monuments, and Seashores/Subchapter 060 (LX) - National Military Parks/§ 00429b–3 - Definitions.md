@@ -10,7 +10,7 @@ For purposes of sections 429b to 429b–5 of this title—
 
 &emsp;(4) The term “owner” means the owner of record as of September 1, 1980.
 
-(Apr. 17, 1954, ch. 153, §4, as added Oct. 13, 1980, Pub. L. 96–442, §2, 94 Stat. 1886.)
+(Apr. 17, 1954, ch. 153, §4, as added Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1886.)
 
 #### Section Referred to in Other Sections
 

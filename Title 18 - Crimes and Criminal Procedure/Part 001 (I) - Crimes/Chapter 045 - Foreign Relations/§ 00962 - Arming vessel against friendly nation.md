@@ -8,7 +8,7 @@ Shall be fined under this title or imprisoned not more than three years, or both
 
 Every such vessel, her tackle, apparel, and furniture, together with all materials, arms, ammunition, and stores which may have been procured for the building and equipment thereof, shall be forfeited, one half to the use of the informer and the other half to the use of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 746; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

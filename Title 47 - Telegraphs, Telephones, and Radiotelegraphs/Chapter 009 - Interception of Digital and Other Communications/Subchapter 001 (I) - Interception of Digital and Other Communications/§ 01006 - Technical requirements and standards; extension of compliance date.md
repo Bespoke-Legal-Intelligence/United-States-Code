@@ -58,7 +58,7 @@ If industry associations or standard-setting organizations fail to issue technic
 
 #### References in Text
 
-The effective date of section 1002 of this title, referred to in subsec. (c)(1), is the date that is 4 years after Oct. 25, 1994, see section 111(b) of Pub. L. 103–414,set out as an Effective Date note under section 1001 of this title.
+The effective date of section 1002 of this title, referred to in subsec. (c)(1), is the date that is 4 years after Oct. 25, 1994, see section 111(b) of Pub. L. 103–414, set out as an Effective Date note under section 1001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

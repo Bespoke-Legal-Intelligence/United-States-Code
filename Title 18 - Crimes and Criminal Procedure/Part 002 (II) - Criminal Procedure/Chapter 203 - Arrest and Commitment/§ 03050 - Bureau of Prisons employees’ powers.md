@@ -10,7 +10,7 @@ An officer or employee of the Bureau of Prisons may—
 
 > if such officer or employee has reasonable grounds to believe that the arrested person is guilty of such offense, and if there is likelihood of such person's escaping before an arrest warrant can be obtained. If the arrested person is a fugitive from custody, such prisoner shall be returned to custody. Officers and employees of the said Bureau of Prisons may carry firearms under such rules and regulations as the Attorney General may prescribe.
 
-(June 25, 1948, ch. 645, 62 Stat. 817; Nov. 10, 1986, Pub. L. 99–646, §65, 100 Stat. 3615.)
+(June 25, 1948, ch. 645, 62 Stat. 817; Pub. L. 99–646, §65, Nov. 10, 1986, 100 Stat. 3615.)
 
 #### Historical and Revision Notes
 

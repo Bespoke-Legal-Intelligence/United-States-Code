@@ -34,7 +34,7 @@ In carrying out an Even Start program under this part, a recipient of funds unde
 
 &emsp;Federal funds provided under this part may not be used for the indirect costs of a program assisted under this part, except that the Secretary may waive this paragraph if an eligible recipient of funds reserved under section 6362(a)(1)(C) of this title demonstrates to the Secretary's satisfaction that such recipient otherwise would not be able to participate in the program assisted under this part.
 
-(Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580; amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(a)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580;amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(a)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
 

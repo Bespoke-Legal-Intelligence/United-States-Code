@@ -76,7 +76,7 @@
 
 An approved State child health plan shall continue in effect unless and until the State amends the plan under subsection (b) of this section or the Secretary finds, under subsection (d) of this section, substantial noncompliance of the plan with the requirements of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2106, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 563.)
+(Aug. 14, 1935, ch. 531, title XXI, §2106, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 563.)
 
 #### Section Referred to in Other Sections
 

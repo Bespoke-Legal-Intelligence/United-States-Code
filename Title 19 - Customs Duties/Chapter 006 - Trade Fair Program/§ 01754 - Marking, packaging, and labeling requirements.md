@@ -10,7 +10,7 @@ Articles entered under section 1752 of this title shall not be subject to the pa
 
 &emsp;(1) shall be conspicuously marked prior to exhibition “Not labeled or packaged as required by law—not for sale”, and
 
-&emsp;(2) when entered for consumption under section 1753 of this title, shall not be releasedfrom customs custody until such packaging, marking, and labeling requirements have been complied with.
+&emsp;(2) when entered for consumption under section 1753 of this title, shall not be released from customs custody until such packaging, marking, and labeling requirements have been complied with.
 
 > The application of the permit requirements of the Federal Alcohol Administration Act and the occupational taxes prescribed by chapter 51 of the Internal Revenue Code of 1986 shall be determined without regard to this chapter.
 

@@ -20,7 +20,7 @@ The Congress makes the following findings:
 
 &emsp;(6) The Federal Government also has an interest in taking actions to alleviate the problem of American undergraduate and graduate students being inadequately prepared to meet the challenges posed by increasing global interaction among nations.
 
-&emsp;(7) American colleges and universities must place a new emphasis on improving the teaching of foreign languages, area studies, and other international fields to help meet those challenges.
+&emsp;(7) American colleges and universities must place a new emphasis on improving the teaching of foreign languages, area studies, counterproliferation studies, and other international fields to help meet those challenges.
 
 #### (c) Purposes
 
@@ -28,7 +28,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(1) To provide the necessary resources, accountability, and flexibility to meet the national security education needs of the United States, especially as such needs change over time.
 
-&emsp;(2) To increase the quantity, diversity, and quality of the teaching and learning of subjects in the fields of foreign languages, area studies, and other international fields that are critical to the Nation's interest.
+&emsp;(2) To increase the quantity, diversity, and quality of the teaching and learning of subjects in the fields of foreign languages, area studies, counterproliferation studies, and other international fields that are critical to the Nation's interest.
 
 &emsp;(3) To produce an increased pool of applicants for work in the departments and agencies of the United States Government with national security responsibilities.
 
@@ -36,9 +36,11 @@ The purposes of this chapter are as follows:
 
 &emsp;(5) To permit the Federal Government to advocate the cause of international education.
 
-(Pub. L. 102–183, title VIII, §801, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(a), Oct. 24, 1992, 106 Stat. 3185.)
+(Pub. L. 102–183, title VIII, §801, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(a), Oct.24, 1992, 106 Stat. 3185; Pub. L. 105–272, title III, §305(a)(1), Oct. 20, 1998, 112 Stat. 2400.)
 
 #### Amendments
+
+1998—Subsecs. (b)(7), (c)(2). Pub. L. 105–272 inserted “counterproliferation studies,” after “area studies,”.
 
 1992—Subsec. (a). Pub. L. 102–496 amended subsec. (a) generally, inserting “David L. Boren”.
 

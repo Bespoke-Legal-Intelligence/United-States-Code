@@ -1,6 +1,0 @@
-### §236. Headquarters; agent for service of process
-
-The national headquarters of the corporation shall be located in the District of Columbia. The corporation shall maintain at all times in the District a designated agent authorized to accept service of legal process for the corporation. Notice to or service upon such agent shall be deemed to be notice to or service upon the corporation.
-
-(June 30, 1950, ch. 431, §16, 64 Stat. 315.)
-

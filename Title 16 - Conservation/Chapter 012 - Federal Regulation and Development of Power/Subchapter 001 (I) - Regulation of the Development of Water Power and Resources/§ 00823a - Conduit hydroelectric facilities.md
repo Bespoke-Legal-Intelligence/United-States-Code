@@ -28,7 +28,7 @@ Any violation of a term or condition of any exemption granted under subsection (
 
 The Commission, in addition to the requirements of section 803(e) of this title, shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c) of this section. Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) of this section for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
 
-(June 10, 1920, ch. 285, pt. I, §30, as added Pub. L. 95–617, title II, §213, Nov. 9, 1978, 92 Stat. 3148; amended Oct. 16, 1986, Pub. L. 99–495, §7, 100 Stat. 1248.)
+(June 10, 1920, ch. 285, pt. I, §30, as added Pub. L. 95–617, title II, §213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, §7, Oct. 16, 1986, 100 Stat. 1248.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 (b) The permanent professors and the director of admissions exercise command only in the academic department of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Aug. 6, 1958, Pub. L. 85–600, §1(21), 72 Stat. 524; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §515(a)(3), 103 Stat. 1441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–600, §1(21), Aug. 6, 1958, 72 Stat. 524; Pub. L. 101–189, div. A, title V, §515(a)(3), Nov. 29, 1989, 103 Stat. 1441.)
 
 Historical and Revision Notes
 

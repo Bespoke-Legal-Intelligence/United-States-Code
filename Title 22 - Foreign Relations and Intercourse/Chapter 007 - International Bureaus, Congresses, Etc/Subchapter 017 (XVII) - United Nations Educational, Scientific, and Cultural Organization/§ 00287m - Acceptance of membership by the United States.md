@@ -170,7 +170,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 #### <i>Reports by Member States</i>
 
-Each Member State shall report periodically to the Organisation, in a manner to be determined by the General Conference, on its laws, regulations and statistics relating to educational, scientific and cultural life and institutions, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.
+Each Member State shall report periodically to the Organisation, in a manner to be determined by theGeneral Conference, on its laws, regulations and statistics relating to educational, scientific and cultural life and institutions, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.
 
 #### article ix.
 

@@ -72,7 +72,7 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 &emsp;(B) Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out AIDS activities that are not referred to in subparagraph (A). Such allocation shall, to the extent practicable, be made not later than 30 days after the date on which the Director receives amounts under paragraph (2).
 
-(July 1, 1944, ch. 373, title XXIII, §2353, as added June 10, 1993, Pub. L. 103–43, title XVIII, §1801(a)(3), 107 Stat. 194.)
+(July 1, 1944, ch. 373, title XXIII, §2353, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 194.)
 
 #### Section Referred to in Other Sections
 

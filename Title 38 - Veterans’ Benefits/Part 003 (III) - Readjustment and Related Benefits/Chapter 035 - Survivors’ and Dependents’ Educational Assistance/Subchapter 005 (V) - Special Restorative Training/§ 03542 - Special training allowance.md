@@ -1,14 +1,16 @@
 ### §3542. Special training allowance
 
-(a) While the eligible person is enrolled in and pursuing a full-time course of special restorative training, the parent or guardian shall be entitled to receive on behalf of such person a special training allowance computed at the basic rate of $404 per month. If the charges for tuition and fees applicable to any such course are more than $127 per calendar month, the basic monthly allowance may be increased by the amount that such charges exceed $127 a month, upon election by the parent or guardian of the eligible person to have such person's period of entitlement reduced by one day for each $13.46 that the special training allowance paid exceeds the basic monthly allowance.
+(a) While the eligible person is enrolled in and pursuing a full-time course of special restorative training, the parent or guardian shall be entitled to receive on behalf of such person a special training allowance computed at the basic rate of $485 per month. If the charges for tuition and fees applicable to any such course are more than $152 per calendar month, the basic monthly allowance may be increased by the amount that such charges exceed $152 a month, upon election by the parent or guardian of the eligible person to have such person's period of entitlement reduced by one day for each $16.16 that the special training allowance paid exceeds the basic monthly allowance.
 
 (b) No payments of a special training allowance shall be made for the same period for which the payment of an educational assistance allowance is made or for any period during which the training is pursued on less than a full-time basis.
 
 (c) Full-time training for the purpose of this section shall be determined by the Secretary with respect to the capacities of the individual trainee.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1742; Pub. L. 89–222, §2, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(c), Mar. 26, 1970, 84 Stat. 78; Pub. L. 92–540, title I, §103(4), Oct. 24, 1972, 86 Stat. 1076; Pub. L. 93–508, title I, §103(4),Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §204(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §301(2), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 95–202, title I, §103(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§202(2), 212(2), Oct. 17, 1980, 94 Stat. 2188, 2190; Pub. L. 98–543, title II, §203(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(10), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3542, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1742; Pub. L. 89–222, §2, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(c), Mar. 26, 1970, 84 Stat. 78; Pub. L. 92–540, title I, §103(4), Oct. 24, 1972, 86 Stat. 1076; Pub. L. 93–508, title I, §103(4), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §204(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §301(2), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 95–202, title I, §103(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§202(2), 212(2), Oct. 17, 1980, 94 Stat. 2188, 2190; Pub. L. 98–543, title II, §203(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(10), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3542, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(c), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178, §8210(c), as added by Pub. L. 105–206, §9014(b), substituted “$485” for “$404” and “$16.16” for “$13.46” and substituted “$152” for “$127” in two places.
 
 1991—Pub. L. 102–83 renumbered section 1742 of this title as this section.
 
@@ -35,6 +37,12 @@ Pub. L. 96–466, §202(2), substituted “$327” for “$311”, “$103” fo
 1970—Subsec. (a). Pub. L. 91–219 substituted “$175” for “$130”, “$55” for “$41”, and “$6.80” for “$4.25” respectively.
 
 1965—Subsec. (a). Pub. L. 89–222 substituted “$130”, “$41”, “$41” and “$4.25” for “$110”, “$35”, “$35” and “$3.60”, respectively.
+
+#### Effective Date of 1998 Amendments
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
+Amendment by Pub. L. 105–178 effective Oct. 1, 1998, and applicable with respect to educational assistance allowances paid for months after September 1998, see section 8210(e) of Pub. L. 105–178, set out as a note under section 3532 of this title.
 
 #### Effective Date of 1989 Amendment
 

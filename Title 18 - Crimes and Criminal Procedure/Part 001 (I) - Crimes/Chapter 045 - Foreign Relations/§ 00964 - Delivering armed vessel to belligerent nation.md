@@ -6,7 +6,7 @@
 
 In addition, such vessel, her tackle, apparel, furniture, equipment, and her cargo shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 747; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 747; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

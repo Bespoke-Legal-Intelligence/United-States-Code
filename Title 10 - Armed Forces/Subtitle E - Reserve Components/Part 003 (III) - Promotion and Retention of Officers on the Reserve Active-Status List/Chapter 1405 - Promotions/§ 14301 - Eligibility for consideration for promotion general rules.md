@@ -26,7 +26,7 @@ Previously Selected Officers Not Eligible To Be Considered.—A promotion board 
 
 (d)
 
-Officers Below the Zone.—The Secretary of the military department concerned may, by regulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
+Officers Below the Zone.—The Secretary of the military department concerned may, byregulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
 
 (e)
 
@@ -36,9 +36,17 @@ Certain Reserve Officers of the Air Force.—A reserve officer of the Air Force 
 
 Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732.)
+(g) A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
+
+&emsp;(1) has been in an inactive status for less than 1 year as of the date of the convening of the promotion board; and
+
+&emsp;(2) had continuously served for at least 1 year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008.)
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
 1997—Subsec. (c). Pub. L. 105–85, §503(b)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
 

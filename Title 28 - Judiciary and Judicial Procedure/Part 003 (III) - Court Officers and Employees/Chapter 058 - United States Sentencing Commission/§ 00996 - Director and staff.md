@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “the Staff Director” for “him” after “assigned to”.
+1994—Subsec. (a). Pub. L. 103–322 substituted “the Staff Director” for “him” after “assigned to”.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–650 substituted “and 89 (Health Insurance)” for “89 (Health Insurance), and 91 (Conflicts of Interest)”.
+1990—Subsec. (b). Pub. L. 101–650 substituted “and 89 (Health Insurance)” for “89 (Health Insurance), and 91 (Conflicts of Interest)”.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted reference to chapter 45 (Incentive Awards).
+1988—Subsec. (b). Pub. L. 100–690 inserted reference to chapter 45 (Incentive Awards).
 

@@ -32,7 +32,7 @@ The information that is included in such record pursuant to subsection (b)(1) of
 
 #### (d) Transmission and data system entry of information
 
-The information included in the record established and maintained under subsection (a) ofthis section shall be transmitted to the General Services Administration and shall be entered in the Federal Procurement Data System referred to in section 405(d)(4) of this title.
+The information included in the record established and maintained under subsection (a) of this section shall be transmitted to the General Services Administration and shall be entered in the Federal Procurement Data System referred to in section 405(d)(4) of this title.
 
 (Pub. L. 93–400, §19, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; amended Pub. L. 103–355, title IV, §4403, Oct. 13, 1994, 108 Stat. 3349.)
 

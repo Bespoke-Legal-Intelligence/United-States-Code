@@ -12,7 +12,7 @@ The Comptroller General of the United States shall audit the transactions of the
 
 The Corporation shall determine its own system of administrative accounts and the forms and contents of its contracts and other business documents except as otherwise provided in this chapter.
 
-(May 18, 1933, ch. 32, §9, 48 Stat. 63; Aug. 31, 1935, ch. 836, §14, 49 Stat. 1080; Nov. 21, 1941, ch. 485, 55 Stat. 775; Aug. 30, 1954, ch. 1076, §1 (32), 68 Stat. 968; July 25, 1974, Pub. L. 93–356, §5, 88 Stat. 390; Apr. 21, 1976, Pub. L. 94–273, §5(1), 90 Stat. 377; Dec. 1, 1983, Pub. L. 98–191, §9(d), 97 Stat. 1332.)
+(May 18, 1933, ch. 32, §9, 48 Stat. 63; Aug. 31, 1935, ch. 836, §14, 49 Stat. 1080; Nov. 21, 1941, ch. 485, 55 Stat. 775; Aug. 30, 1954, ch. 1076, §1 (32), 68 Stat. 968; Pub. L. 93–356, §5, July 25, 1974, 88 Stat. 390; Pub. L. 94–273, §5(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–191, §9(d), Dec. 1, 1983, 97 Stat. 1332.)
 
 #### Codification
 

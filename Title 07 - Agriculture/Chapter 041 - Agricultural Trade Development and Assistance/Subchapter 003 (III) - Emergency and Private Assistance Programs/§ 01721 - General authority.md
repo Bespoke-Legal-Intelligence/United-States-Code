@@ -16,7 +16,7 @@ The President shall establish a program under this subchapter to provide agricul
 
 > Such program shall be implemented by the Administrator.
 
-(July 10, 1954, ch. 469, title II, §201, 68 Stat. 457; May 28, 1956, ch. 327, title II, §208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, §4, 70 Stat. 988; Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1534; Dec. 20, 1975, Pub. L. 94–161, title II, §208, 89 Stat. 853; Aug. 3, 1977, Pub. L. 95–88, title II, §206, 91 Stat. 547; Dec. 29, 1981, Pub. L. 97–113, title IV, §404, 95 Stat. 1538; Aug. 8, 1985, Pub. L. 99–83, title X, §1002, 99 Stat. 270; Dec. 23, 1985, Pub. L. 99–198, title XI, §§1102, 1103, 99 Stat. 1465; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3636.)
+(July 10, 1954, ch. 469, title II, §201, 68 Stat. 457; May 28, 1956, ch. 327, title II, §208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, §4, 70 Stat. 988; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 94–161, title II, §208, Dec. 20, 1975, 89 Stat. 853; Pub. L. 95–88, title II, §206, Aug. 3, 1977, 91 Stat. 547; Pub. L. 97–113, title IV, §404, Dec. 29, 1981, 95 Stat. 1538; Pub. L. 99–83, title X, §1002, Aug. 8, 1985, 99 Stat. 270; Pub. L. 99–198, title XI, §§1102, 1103, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636.)
 
 #### Amendments
 
@@ -63,6 +63,24 @@ Amendment by Pub. L. 95–88 effective Oct. 1, 1977, see section 215 of Pub. L. 
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
+
+#### Nonemergency Food Assistance Programs
+
+Pub. L. 105–385, title II, §201, Nov. 13, 1998, 112 Stat. 3465, provided that:
+
+“(a)
+
+In General.—In providing nonemergency assistance under title II of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1721 et seq.), the Administrator of the United States Agency for International Development shall ensure that—
+
+&emsp;“(1) in planning, decisionmaking, and implementation in providing such assistance, the Administrator takes into consideration local input and participation directly and through United States and indigenous private and voluntary organizations;
+
+&emsp;“(2) each of the nonemergency activities described in paragraphs (2) through (6) of section 201 of such Act (7 U.S.C. 1721), including programs that provide assistance to people of any age group who are otherwise unable to meet their basic food needs (including feeding programs for the disabled, orphaned, elderly, sick and dying), are carried out; and
+
+&emsp;“(3) greater flexibility is provided for program and evaluation plans so that such assistance may be developed to meet local needs, as provided for in section 202(f) of such Act (7 U.S.C. 1722(f)).
+
+“(b)
+
+Other Requirements.—In providing assistance under the Agriculture Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], the Secretary of Agriculture and the Administrator of United States Agency for International Development shall ensure that commodities are provided in a manner that is consistent with sections 403(a) and (b) of such Act (7 U.S.C. 1733(a) and (b)).”
 
 #### Authorization for Commodity Credit Corporation To Purchase and Donate Flour and Cornmeal
 

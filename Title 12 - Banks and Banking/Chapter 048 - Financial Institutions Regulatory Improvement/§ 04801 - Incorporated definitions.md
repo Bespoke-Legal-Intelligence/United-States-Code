@@ -12,6 +12,18 @@ Unless otherwise specifically provided in this chapter, for purposes of this cha
 
 This chapter, referred to in text, was in original “this title” meaning title III of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2214, which enacted this chapter, sections 633 and 2606 of this title, and section 5329 of Title 31, Money and Finance, amended sections 1, 24, 27, 72, 93, 161, 248, 250, 324, 375a, 375b, 482, 1462a, 1464, 1468, 1813, 1815, 1817, 1819 to 1821, 1823, 1828, 1831f, 1831m, 1831p–1, 1831t, 1842, 1843, 1849, 1865, 1953, 2605, 3201, 3205, 3207, 3351, and 4313 of this title and sections 77c, 78c, 1667c, and 1681g of Title 15, Commerce and Trade, enacted provisions set out as notes under this section, sections 24, 633, 1468, 1820, 1831p–1, and 1831t of this title, and sections 78c and 1667c of Title 15, and amended provisions set out as notes under sections 1825 and 1828 of this title. For complete classification of title III to the Code, see Tables.
 
+#### Treasury Report on Reduced Taxation and Viability of Small Banks
+
+Pub. L. 105–219, title IV, §403, Aug. 7, 1998, 112 Stat. 935, provided that: “The Secretary \[of the Treasury\] shall, not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], submit a report to the Congress containing—
+
+&emsp;“(1) recommendations for such legislative and administrative action as the Secretary deems appropriate, that would reduce and simplify the tax burden for—
+
+&emsp;&emsp;“(A) insured depository institutions having less than $1,000,000,000 in assets; and
+
+&emsp;&emsp;“(B) banks having total assets of not less than $1,000,000,000 nor more than $10,000,000,000; and
+
+&emsp;“(2) any other recommendations that the Secretary deems appropriate that would preserve the viability and growth of small banking institutions in the United States.”
+
 #### Study and Report on Capital Standards and Their Impact on Economy
 
 Section 328 of Pub. L. 103–325 provided that:

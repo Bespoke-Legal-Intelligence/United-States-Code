@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement To Include Retirement Costs.—(1) In any comparison conducted by the Department of Defense under Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) of the cost of performing commercial activities by Department of Defense personnel and the cost of performing such activities by contractor personnel, the Secretary of Defense shall include retirement system costs (as described in paragraphs (2) and (3)) of both the Department of Defense and the contractor.
+Requirement To Include Retirement Costs.—(1) In any comparison conducted by theDepartment of Defense under Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) of the cost of performing commercial activities by Department of Defense personnel and the cost of performing such activities by contractor personnel, the Secretary of Defense shall include retirement system costs (as described in paragraphs (2) and (3)) of both the Department of Defense and the contractor.
 
 (2) The retirement system costs of the Department of Defense shall include (to the extent applicable) the following:
 

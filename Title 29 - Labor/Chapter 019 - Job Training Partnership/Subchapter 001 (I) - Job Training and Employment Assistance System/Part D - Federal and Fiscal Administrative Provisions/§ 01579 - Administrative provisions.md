@@ -30,6 +30,10 @@ The Secretary shall develop methods to ascertain, and shall ascertain annually, 
 
 (Pub. L. 97–300, title I, §169, Oct. 13, 1982, 96 Stat. 1353.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 Section 4774(d) of title 10, referred to in subsec. (c), was redesignated as entire section 4774 by Pub. L. 93–166, title V, §509(c), Nov. 29, 1973, 87 Stat. 677, and subsequently was repealed by Pub. L. 97–214, §7(1), July 12, 1982, 96 Stat. 173.

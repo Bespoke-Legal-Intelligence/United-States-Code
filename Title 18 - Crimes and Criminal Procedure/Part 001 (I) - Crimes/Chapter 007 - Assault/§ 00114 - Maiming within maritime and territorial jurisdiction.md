@@ -6,7 +6,7 @@ Whoever, within the special maritime and territorial jurisdiction of the United 
 
 Shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; May 24, 1949, ch. 139, §3, 63 Stat. 90; Oct. 12, 1984, Pub. L. 98–473, title II, §1009A, 98 Stat. 2141; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3507, 104 Stat. 4922; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(O), 108 Stat. 2148; Apr. 24, 1996, Pub. L. 104–132, title VII, §705(a)(1), 110 Stat. 1295.)
+(June 25, 1948, ch. 645, 62 Stat. 689; May 24, 1949, ch. 139, §3, 63 Stat. 90; Pub. L. 98–473, title II, §1009A, Oct. 12, 1984, 98 Stat. 2141; Pub. L. 101–647, title XXXV, §3507, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330016(1)(O), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §705(a)(1), Apr. 24, 1996, 110 Stat. 1295.)
 
 #### Historical and Revision Notes
 

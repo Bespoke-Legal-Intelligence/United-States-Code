@@ -38,7 +38,7 @@ The Secretary, in approving projects pursuant to this section, may authorize fun
 
 (2) The Secretary may provide for the establishment of peer review panels, as necessary, to review and evaluate applications and to advise the Secretary regarding such applications using the criteria developed pursuant to paragraph (1).
 
-(3)(A) On or before September 30, 1995, the Secretary shall enter into contracts or award grants under this section for a demonstrationproject in each of the following service units which meets the criteria specified in paragraph (1) and for which a completed application has been received by the Secretary:
+(3)(A) On or before September 30, 1995, the Secretary shall enter into contracts or award grants under this section for a demonstration project in each of the following service units which meets the criteria specified in paragraph (1) and for which a completed application has been received by the Secretary:
 
 &emsp;(i) Cass Lake, Minnesota.
 

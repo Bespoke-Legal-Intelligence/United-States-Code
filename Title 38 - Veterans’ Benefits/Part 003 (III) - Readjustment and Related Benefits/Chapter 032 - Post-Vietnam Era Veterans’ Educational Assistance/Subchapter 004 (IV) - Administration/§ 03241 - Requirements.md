@@ -8,15 +8,17 @@
 
 &emsp;(1) such training is generally accepted as necessary for the attainment of a recognized vocational objective in the field of aviation;
 
-&emsp;(2) the individual possesses a valid pilot's license and meets the medical requirements necessary for a commercial pilot's license; and
+&emsp;(2) the individual possesses a valid pilot certificate and meets, on the day the individual begins a course of flight training, the medical requirements necessary for a commercial pilot certificate; and
 
 &emsp;(3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
 (c) The provisions of sections 3470, 3471, 3474, 3476, 3483, and 3491(a) (other than clause (1)) of this title and the provisions of chapter 36 of this title (with the exception of section 3687) shall be applicable with respect to individuals who are pursuing programs of education following discharge or release from active duty.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2397, §1641; amended Pub. L. 96–466, title IV, §405, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 97–35, title XX, §2003(a)(2), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §§308(b), 310(c), Oct. 28, 1986, 100 Stat. 3270, 3272; Pub. L. 100–689, title I, §106(b), Nov. 18, 1988, 102 Stat. 4167; Pub. L. 101–237, title IV, §423(a)(5)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; Pub. L. 102–16, §§2(b)(2), 7(a), Mar. 22, 1991, 105 Stat. 49, 51; renumbered §3241 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(5), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(b), title XII, §1201(d)(12), Nov. 2, 1994, 108 Stat. 4670, 4684.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2397, §1641; amended Pub. L. 96–466, title IV, §405, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 97–35, title XX, §2003(a)(2), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §§308(b), 310(c), Oct. 28, 1986, 100 Stat. 3270, 3272; Pub. L. 100–689, title I, §106(b), Nov. 18, 1988, 102 Stat. 4167; Pub. L. 101–237, title IV, §423(a)(5)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2091, 2092; Pub. L. 102–16, §§2(b)(2), 7(a), Mar. 22, 1991, 105 Stat. 49, 51; renumbered §3241 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(5), Oct. 29, 1992, 106 Stat. 4332; Pub. L. 103–446, title VI, §601(b), title XII, §1201(d)(12), Nov. 2, 1994, 108 Stat. 4670, 4684; Pub. L. 105–368, title II, §204(a), Nov. 11, 1998, 112 Stat. 3327.)
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–368 substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
 
 1994—Subsec. (b). Pub. L. 103–446, §601(b), struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
@@ -60,6 +62,10 @@ Subsec. (b). Pub. L. 99–576, §310(c)(3), added subsec. (b).
 
 1980—Pub. L. 96–466 inserted “1663,” before “1670,” and substituted “and 1691(a)(1)” for “1696, and 1698”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 applicable with respect to courses of flight training beginning on or after Oct. 1, 1998, see section 204(c) of Pub. L. 105–368, set out as a note under section 16136 of Title 10, Armed Forces.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 601(b) of Pub. L. 103–446 effective Oct. 1, 1994, see section 601(d) of Pub. L. 103–446, set out as a note under section 3034 of this title.
@@ -82,7 +88,7 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of P
 
 #### Savings Provision
 
-Amendment by Pub. L. 102–586 not applicable to any person receiving educational assistance for pursuit ofan independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
+Amendment by Pub. L. 102–586 not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

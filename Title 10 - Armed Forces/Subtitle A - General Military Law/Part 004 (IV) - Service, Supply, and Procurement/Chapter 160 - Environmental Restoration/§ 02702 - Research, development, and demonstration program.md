@@ -16,7 +16,7 @@ Program.—As part of the Defense Environmental Restoration Program, the Secreta
 
 (b)
 
-Special Permit.—The Administrator may use the authorities of section 3005(g) of the SolidWaste Disposal Act (42 U.S.C. 6925(g)) to issue a permit for testing and evaluation which receives support under this section.
+Special Permit.—The Administrator may use the authorities of section 3005(g) of the Solid Waste Disposal Act (42 U.S.C. 6925(g)) to issue a permit for testing and evaluation which receives support under this section.
 
 (c)
 
@@ -98,7 +98,7 @@ Coordination.—The Secretary of Defense shall ensure that the Department of Def
 
 “(g)
 
-Procedures.—The Secretary of Defense shall develop appropriate procedures to ensure that all Department of Defense funds committed to a partnership entered into under this section are expended for the purpose authorized in the partnership agreement. The Secretary may not enter into a partnership under this section until 30 days after the date on which a copy of such procedures is provided to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+Procedures.—The Secretary of Defense shall develop appropriate procedures to ensure that all Department of Defense funds committed to a partnership entered into under this section are expended for the purpose authorized in the partnership agreement. The Secretary may not enter into a partnership under this section until 30 days after the date on which a copy of such procedures is provided to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
 “(h)
 
@@ -128,7 +128,7 @@ Types of Assistance.—The types of assistance that may be obtained under subsec
 
 &emsp;“(1) Data collection and analysis.
 
-&emsp;“(2) Technical assistance in conducting a demonstration of an environmental technology, includingthe implementation of quality assurance and quality control programs.
+&emsp;“(2) Technical assistance in conducting a demonstration of an environmental technology, including the implementation of quality assurance and quality control programs.
 
 “(d)
 

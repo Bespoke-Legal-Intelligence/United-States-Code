@@ -6,7 +6,7 @@ General.—The purpose of this chapter is to authorize the transfer of operating
 
 (b)
 
-Inclusion of Baltimore/Washington International Airport Not Precluded.—Thischapter does not prohibit the Airports Authority and Maryland from making an agreement to make Baltimore/Washington International Airport part of a regional airports authority, subject to terms agreed to by the Airports Authority, the Secretary of Transportation, Virginia, the District of Columbia, and Maryland.
+Inclusion of Baltimore/Washington International Airport Not Precluded.—This chapter does not prohibit the Airports Authority and Maryland from making an agreement to make Baltimore/Washington International Airport part of a regional airports authority, subject to terms agreed to by the Airports Authority, the Secretary of Transportation, Virginia, the District of Columbia, and Maryland.
 
 (Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2207.)
 

@@ -60,7 +60,7 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -108,10 +108,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### World Hunger
 
 Section 316 of Pub. L. 96–533 provided:
@@ -119,6 +115,8 @@ Section 316 of Pub. L. 96–533 provided:
 “(a) In order to further the purposes of section 103 of the Foreign Assistance Act of 1961 \[this section\], the Director of the United States International Development Cooperation Agency shall encourage the ongoing work of private and voluntary organizations to deal with world hunger problems abroad. To this end, the Director shall help facilitate widespread public discussion, analysis, and review of the issues raised by the Report of the Presidential Commission on World Hunger of March 1980, especially the issues raised by the Commission's call for increased public awareness of the political, economic, technical, and social factors relating to hunger and poverty.
 
 “(b) As a means of carrying out subsection (a), and to ensure the effectiveness of private and voluntary organizations in dealing with world hunger abroad, the Director is urged to provide assistance to private and voluntary organizations engaged in facilitating public discussion of hunger and other related issues.”
+
+\[For abolition of United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation), transfer of functions, and treatment of references thereto, see sections 6561, 6562, and 6571 of this title.\]
 
 #### Reduction of Postharvest Losses of Food
 
@@ -130,5 +128,5 @@ Section 317 of Pub. L. 96–533 provided: “It is the sense of the Congress tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151b, 2151d, 2151f, 2151h, 2151p–1, 2151u, 2220a, 2220d, 2293, 2346, 3262 of this title.
+This section is referred to in sections 2151b, 2151d, 2151f, 2151h, 2151p–1, 2151u, 2220a, 2220d, 2293, 3262 of this title.
 

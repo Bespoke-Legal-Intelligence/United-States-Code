@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (2) Capital categories generally
 
-&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevantcapital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
 
 #### (3) Critical capital
 
@@ -372,7 +372,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The insured depository institution shall not do any of the following without the prior written approval of the appropriate Federal banking agency:
+&emsp;&emsp;The insured depository institution shall not do any of the following without the priorwritten approval of the appropriate Federal banking agency:
 
 &emsp;&emsp;&emsp;(i) Pay any bonus to any senior executive officer.
 
@@ -528,7 +528,7 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 &emsp;&emsp;&emsp;&emsp;(II) the institution ceases to repay the assistance in accordance with its terms; or
 
-&emsp;&emsp;&emsp;(ii) if the Corporation is appointed receiver of the institution, and it is or becomes apparent that the present value of the deposit insurance fund's outlays with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
+&emsp;&emsp;&emsp;(ii) if the Corporation is appointed receiver of the institution, and it is or becomes apparent that the present value ofthe deposit insurance fund's outlays with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
 
 #### (B) Material loss
 
@@ -658,7 +658,7 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(A) to become adequately capitalized, to the extent that the order is based on the institution's capital level or failure to submit or implement a capital restoration plan; and
 
-&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to theextent that the order is based on subsection (g)(1) of this section.
+&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
 
 #### (<i>o</i>) Transition rules for savings associations
 
@@ -828,5 +828,5 @@ Restricting compensation.—Section 38(f)(4) of the Federal Deposit Insurance Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 347b, 371d, 1464, 1817, 1818, 1820, 1821, 1828, 1831f, 1831i, 1831p–1, 1831u, 1835, 1841, 1842, 4806 of this title; title 15 section 1607.
+This section is referred to in sections 347b, 371d, 1464, 1790d, 1817, 1818, 1820, 1821, 1828, 1831f, 1831i, 1831p–1, 1831u, 1835, 1841, 1842, 4806 of this title; title 15 section 1607.
 

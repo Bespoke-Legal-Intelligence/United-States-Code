@@ -50,7 +50,7 @@ Board Proceedings.—During the proceedings of an inquiry under this section, a 
 
 (f)
 
-Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an inquiry under this section shall appoint counsel to represent each person covered by the inquiry or, in a case covered by subsection (b), one counsel to represent all persons covered by the inquiry.Counsel appointed under this paragraph may be referred to as “missing person's counsel” and represents the interests of the person covered by the inquiry (and not any member of the person's family or other interested parties). The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person.
+Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an inquiry under this section shall appoint counsel to represent each person covered by the inquiry or, in a case covered by subsection (b), one counsel to represent all persons covered by the inquiry. Counsel appointed under this paragraph may be referred to as “missing person's counsel” and represents the interests of the person covered by the inquiry (and not any member of the person's family or other interested parties). The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person.
 
 (2) To be appointed as a missing person's counsel, a person must—
 
@@ -124,7 +124,7 @@ Report to Family Members and Other Interested Persons.—Not later than 30 days 
 
 Treatment of Determination.—Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L.104–201, div. A, title V, §578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, §578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
 
 #### Amendments
 

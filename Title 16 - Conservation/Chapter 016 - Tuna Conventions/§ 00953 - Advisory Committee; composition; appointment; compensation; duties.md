@@ -2,7 +2,7 @@
 
 The United States Commissioners shall (a) appoint an advisory committee which shall be composed of not less than five nor more than fifteen persons who shall be selected from the various groups participating in the fisheries included under the conventions, and from nongovernmental conservation organizations, and (b) shall fix the terms of office of the members of such committee, who shall receive no compensation for their services as such members. The advisory committee shall be invited to attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the commissions. The advisory committee may attend all meetings of the international commissions to which they are invited by such commissions.
 
-(Sept. 7, 1950, ch. 907, §4, 64 Stat. 778; Oct. 26, 1992, Pub. L. 102–523, §3(a)(2), 106 Stat. 3433; Aug. 15, 1997, Pub. L. 105–42, §7(b), 111 Stat. 1137.)
+(Sept. 7, 1950, ch. 907, §4, 64 Stat. 778; Pub. L. 102–523, §3(a)(2), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, §7(b), Aug. 15, 1997, 111 Stat. 1137.)
 
 #### Amendment of Section
 
@@ -16,7 +16,7 @@ The Secretary, in consultation with the United States Commissioners, shall—
 
 &emsp;(1) appoint a General Advisory Committee which shall be composed of not less than 5 nor more than 15 persons with balanced representation from the various groups participating in the fisheries included under the conventions, and from nongovernmental conservation organizations;
 
-&emsp;(2) appoint a Scientific Advisory Subcommittee which shall be composed of not less than 5 nor more than 15 qualified scientists with balanced representation from the public and private sectors, including nongovernmental conservation organizations;
+&emsp;(2) appoint a Scientific Advisory Subcommittee which shall be composed of not less than 5 normore than 15 qualified scientists with balanced representation from the public and private sectors, including nongovernmental conservation organizations;
 
 &emsp;(3) establish procedures to provide for appropriate public participation and public meetings and to provide for the confidentiality of confidential business data; and
 

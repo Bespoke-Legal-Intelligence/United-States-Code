@@ -83,7 +83,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437g, 3535, 8011 of this title.
+This chapter is referred to in sections 3535, 8011 of this title.
 
 <i><sup>1</sup></i><i> So in original. Subsec. (b) enacted without a par. (2).</i>
 

@@ -133,6 +133,12 @@
 | (h) | Nonpreemption. |
 | (i) | Posting requirement. |
 | (j) | Investigation of allegations. |
+| [5852\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Regulatory%20Commission%3B%20Nuclear%20Whistleblower%20Protection/%C2%A7%2005852%20-%20Availability%20of%20funds.md) | Availability of funds. |
+| (a) | Appropriations for salaries and expenses; additional purposes. |
+| (b) | Appropriations for Office of Inspector General; additional purposes. |
+| (c) | Use of program funds for salaries and expenses. |
+| (d) | Use of funds to provide voluntary separation incentive payments. |
+| (e) | Fiscal year applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -180,7 +186,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 5905, 7135a, 10141, 10155 of this title; title 15 sections 2507, 2705; title 22 section 3203.
+This chapter is referred to in sections 5905, 7135a, 7259a, 10141, 10155 of this title; title 15 sections 2507, 2705; title 22 section 3203.
 
 
 ---

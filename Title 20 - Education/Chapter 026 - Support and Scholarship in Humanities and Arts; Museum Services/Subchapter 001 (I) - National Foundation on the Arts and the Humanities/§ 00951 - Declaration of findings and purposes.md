@@ -26,7 +26,7 @@ The Congress finds and declares the following:
 
 &emsp;(12) In order to implement these findings and purposes, it is desirable to establish a National Foundation on the Arts and the Humanities.
 
-(Pub. L. 89–209, §2, Sept. 29, 1965, 79 Stat. 845; Pub. L. 91–346, §2, July 20, 1970, 84 Stat. 443; Pub. L. 93–133, §2(a)(1), Oct. 19, 1973, 87 Stat. 462; renumbered title I, §2, and amended Pub. L. 98–306, §§2, 3, May 31, 1984, 98 Stat. 223; renumbered §2 and amended Pub. L. 99–194, title I, §§101(1), 102, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §101\], Nov. 5, 1990, 104 Stat. 1960, 1961.)
+(Pub. L. 89–209, §2, Sept. 29, 1965, 79 Stat. 845; Pub. L. 91–346, §2, July 20, 1970, 84 Stat. 443; Pub.L. 93–133, §2(a)(1), Oct. 19, 1973, 87 Stat. 462; renumbered title I, §2, and amended Pub. L. 98–306, §§2, 3, May 31, 1984, 98 Stat. 223; renumbered §2 and amended Pub. L. 99–194, title I, §§101(1), 102, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §101\], Nov. 5, 1990, 104 Stat. 1960, 1961.)
 
 #### Amendments
 
@@ -106,11 +106,11 @@ Section 318 \[title IV, §§401, 402\] of Pub. L. 101–512 provided that:
 
 #### 1979 White House Conference on the Arts
 
-Pub. L. 95–272, title I, §§101–109, May 3, 1978, 92 Stat. 222–224, called for a White House Conference on the Arts to be held no later than Dec. 31, 1979, to help develop a climate in which the arts can flourish and to formulate recommendations relating to the appropriate growth of the arts in all parts of the Nation, established a National Conference Planning Council on the Arts to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
+Pub. L. 95–272, title I, §§101–109, May 3, 1978, 92 Stat. 222–224, called for a White House Conference on the Arts to be held no later than Dec. 31, 1979, to help develop aclimate in which the arts can flourish and to formulate recommendations relating to the appropriate growth of the arts in all parts of the Nation, established a National Conference Planning Council on the Arts to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### 1979 White House Conference on the Humanities
 
-Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourishand to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
+Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### Executive Order No. 12275
 

@@ -20,7 +20,7 @@ The Secretary shall submit to Congress on or before January 15, 1984, and every 
 
 &emsp;(3) containing such recommendations for legislation and administrative action as the Secretary may deem appropriate.
 
-(July 1, 1944, ch. 373, title V, §503, formerly §505, as added Apr. 26, 1983, Pub. L. 98–24, §2(b)(7), 97 Stat. 178; renumbered §506, Oct. 27, 1986, Pub. L. 99–570, title IV, §4004(a), 100 Stat. 3207–109; renumbered §503, July 10, 1992, Pub. L. 102–321, title I, §103, 106 Stat. 333.)
+(July 1, 1944, ch. 373, title V, §503, formerly §505, as added Pub. L. 98–24, §2(b)(7), Apr. 26, 1983, 97 Stat. 178; renumbered §506, Pub. L. 99–570, title IV, §4004(a), Oct. 27, 1986, 100 Stat. 3207–109; renumbered §503, Pub. L. 102–321, title I, §103, July 10, 1992, 106 Stat. 333.)
 
 #### Codification
 

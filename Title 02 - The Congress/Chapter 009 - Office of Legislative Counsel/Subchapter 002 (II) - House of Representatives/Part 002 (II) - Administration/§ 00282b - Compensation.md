@@ -8,7 +8,7 @@
 
 #### References in Text
 
-Clause 6(c) of Rule XI of the Rules of the House of Representatives, referred to in text, was amended generally for the One Hundred First Congress and, as so amended, does not refer to specific pay levels.
+Clause 6(c) of Rule XI of the Rules of the House of Representatives, referred to in text, was amended generally for the One Hundred First Congress and, as so amended, does not refer to specific pay levels. The Rules were amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999, and, as so amended, provisions formerly appearing in clause 6(c) of Rule XI, as amended for the One Hundred First Congress, are now contained in clause 9(c) of Rule X.
 
 #### Codification
 

@@ -38,7 +38,7 @@ There is hereby established a body corporate to be known as the Telecommunicatio
 
 #### (3) Meetings and functions of the Board
 
-&emsp;The Board of Directors shall meet at the call of its Chairman, but at least quarterly. The Board shall determine the general policies which shall govern the operations of the Fund. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers ofthe Fund and shall discharge all such functions, powers, and duties.
+&emsp;The Board of Directors shall meet at the call of its Chairman, but at least quarterly. The Board shall determine the general policies which shall govern the operations of the Fund. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Fund and shall discharge all such functions, powers, and duties.
 
 #### (d) Accounts of Fund
 
@@ -110,7 +110,7 @@ The accounts of the Fund shall be audited annually. Such audits shall be conduct
 
 #### (j) Report on audits by Treasury
 
-A report of each such audit for a fiscal year shall be made by the Secretary of the Treasury to the President and to the Congress not later than 6 months following the close of such fiscal year. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expense; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the President and the Congress informed of the operations and financial condition of the Fund, together with such recommendations with respect thereto as the Secretary may deem advisable.
+A report of each such audit for a fiscal year shall be made by the Secretary of the Treasury to the President and to the Congress not later than 6 months following the close of such fiscal year. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expense; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the President and the Congressinformed of the operations and financial condition of the Fund, together with such recommendations with respect thereto as the Secretary may deem advisable.
 
 #### (k) Definitions
 

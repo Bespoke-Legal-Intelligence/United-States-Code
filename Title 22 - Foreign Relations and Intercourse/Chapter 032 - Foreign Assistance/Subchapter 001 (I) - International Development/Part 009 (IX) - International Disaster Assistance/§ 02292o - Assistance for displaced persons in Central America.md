@@ -12,7 +12,7 @@ There are authorized to be appropriated to the President for the purposes of thi
 
 #### (c) Applicable policies and authorities
 
-Assistance under this section shall be provided in accordance with the policies and utilizing the general authorities provided in section 2292 of this title.
+Assistance under this section shall be provided in accordance with the policies and utilizing thegeneral authorities provided in section 2292 of this title.
 
 (Pub. L. 87–195, pt. I, §495I, as added Pub. L. 97–113, title V, §504, Dec. 29, 1981, 95 Stat. 1540.)
 

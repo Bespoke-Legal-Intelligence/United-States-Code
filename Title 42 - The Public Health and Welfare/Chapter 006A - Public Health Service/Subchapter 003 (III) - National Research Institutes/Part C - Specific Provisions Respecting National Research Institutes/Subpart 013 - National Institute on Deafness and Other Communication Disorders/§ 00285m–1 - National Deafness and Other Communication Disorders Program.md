@@ -12,11 +12,11 @@
 
 &emsp;(4) research into the detection, treatment, and prevention of disorders of hearing and other communication processes in the growing elderly population with extension of rehabilitative programs to ensure continued effective communication skills in such population;
 
-&emsp;(5) research to expand knowledge of the effects of environmental agents that influence hearing or other communication processes; and
+&emsp;(5) research to expand knowledge of the effects of environmental agents that influencehearing or other communication processes; and
 
 &emsp;(6) developing and facilitating intramural programs on clinical and fundamental aspects of disorders of hearing and all other communication processes.
 
-(July 1, 1944, ch. 373, title IV, §464A, as added Oct. 28, 1988, Pub. L. 100–553, §2(4), 102 Stat. 2769, and Nov. 4, 1988, Pub. L. 100–607, title I, §101(4), 102 Stat. 3049; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2613(b)(2), 102 Stat. 4238.)
+(July 1, 1944, ch. 373, title IV, §464A, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2769, and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3049; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
 
 #### Codification
 

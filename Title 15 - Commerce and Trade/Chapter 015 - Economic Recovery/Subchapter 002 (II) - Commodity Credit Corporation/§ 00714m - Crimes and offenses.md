@@ -18,7 +18,7 @@ Whoever conspires with another to accomplish any of the acts made unlawful by th
 
 #### (e) General statutes applicable
 
-All the general penal statutes relating to crimes and offenses against the United Statesshall apply with respect to the Corporation, its property, money, contracts and agreements, employees, and operations: <i>Provided</i>, That such general penal statutes shall not apply to the extent that they relate to crimes and offenses punishable under subsections (a), (b), (c), and (d) of this section: <i>Provided further</i>, That sections 431 and 432 of title 18 shall not apply to contracts or agreements of a kind which the Corporation may enter into with farmers participating in a program of the Corporation.
+All the general penal statutes relating to crimes and offenses against the United States shall apply with respect to the Corporation, its property, money, contracts and agreements, employees, and operations: <i>Provided</i>, That such general penal statutes shall not apply to the extent that they relate to crimes and offenses punishable under subsections (a), (b), (c), and (d) of this section: <i>Provided further</i>, That sections 431 and 432 of title 18 shall not apply to contracts or agreements of a kind which the Corporation may enter into with farmers participating in a program of the Corporation.
 
 #### (f) Use of words “Commodity Credit Corporation”
 

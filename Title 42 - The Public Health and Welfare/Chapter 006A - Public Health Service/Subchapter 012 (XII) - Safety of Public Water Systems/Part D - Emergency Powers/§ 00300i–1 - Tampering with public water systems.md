@@ -20,7 +20,7 @@ For purposes of this section, the term “tamper” means—
 
 &emsp;(2) to otherwise interfere with the operation of a public water system with the intention of harming persons.
 
-(July 1, 1944, ch. 373, title XIV, §1432, as added June 19, 1986, Pub. L. 99–339, title I, §108, 100 Stat. 651; amended Aug. 6, 1996, Pub. L. 104–182, title V, §501(f)(5), 110 Stat. 1692.)
+(July 1, 1944, ch. 373, title XIV, §1432, as added Pub. L. 99–339, title I, §108, June 19, 1986, 100 Stat. 651; amended Pub. L. 104–182, title V, §501(f)(5), Aug. 6, 1996, 110 Stat. 1692.)
 
 #### Amendments
 

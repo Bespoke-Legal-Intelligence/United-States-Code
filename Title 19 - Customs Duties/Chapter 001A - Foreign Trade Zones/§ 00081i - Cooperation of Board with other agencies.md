@@ -2,7 +2,7 @@
 
 The Board shall cooperate with the State, subdivision, and municipality in which the zone is located in the exercise of their police, sanitary, and other powers in and in connection with the free zone. It shall also cooperate with the United States Customs Service, the United States Postal Service, the Public Health Service, the Immigration and Naturalization Service, and such other Federal agencies as have jurisdiction in ports of entry described in section 81b of this title.
 
-(Ex. Ord. No. 6166, §14, June 10, 1933; June 18, 1934, ch. 590, §9, 48 Stat. 1000; Aug. 12, 1970, Pub. L. 91–375, §§4(a), 6(<i>o</i>), 84 Stat. 773, 783.)
+(Ex. Ord. No. 6166, §14, June 10, 1933; June 18, 1934, ch. 590, §9, 48 Stat. 1000; Pub. L. 91–375, §§4(a), 6(<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 783.)
 
 #### Change of Name
 

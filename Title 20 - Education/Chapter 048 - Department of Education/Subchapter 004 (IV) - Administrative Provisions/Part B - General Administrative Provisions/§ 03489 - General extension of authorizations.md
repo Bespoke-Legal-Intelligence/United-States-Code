@@ -10,9 +10,9 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(4) the Indian Education Act;
 
-&emsp;(5) titles XI \[25 U.S.C. 2001 et seq.\], XIV \[20 U.S.C. 921 et seq.\], and XV of the EducationAmendments of 1978 and part H of title XIII of the Education Amendments of 1980;
+&emsp;(5) titles XI \[25 U.S.C. 2001 et seq.\], XIV \[20 U.S.C. 921 et seq.\], and XV of the Education Amendments of 1978 and part H of title XIII of the Education Amendments of 1980;
 
-&emsp;(6) the Adult Education Act \[20 U.S.C. 1201 et seq.\];
+&emsp;(6) the Adult Education Act; <sup>1</sup>
 
 &emsp;(7) section 342 of the Education Amendments of 1976 \[20 U.S.C. 2532\];
 
@@ -24,13 +24,13 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(11) title IV of the Civil Rights Act of 1964 \[42 U.S.C. 2000c et seq.\];
 
-&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally Controlled Community College Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
+&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
 
 &emsp;(13) part C of title IX of the Elementary and Secondary Education Act of 1965,<sup>1</sup> relating to Women's Educational Equity; and
 
 &emsp;(14) title VII of the Elementary and Secondary Education Act of 1965.<sup>1</sup>
 
-(Pub. L. 97–35, title V, §528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98–211, §20, Dec. 8, 1983, 97 Stat. 1418; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
+(Pub. L. 97–35, title V, §528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98–211, §20, Dec. 8, 1983, 97 Stat. 1418; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### References in Text
 
@@ -48,19 +48,19 @@ The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, 
 
 The Education Amendments of 1980, referred to in par. (5), is Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367, as amended. Part H of title XIII of the Education Amendments of 1980, Pub. L. 96–374, title XIII, §§1371–1373, 1376, 1377, 1381–1383, Oct. 3, 1980, 94 Stat. 1502, 1503, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1001 of this title and Tables.
 
-The Adult Education Act, referred to in par. (6), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
+The Adult Education Act, referred to in par. (6), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Asbestos School Hazards Detection and Control Act, referred to in par. (8), is Pub. L. 96–270, June 14, 1980, 94 Stat. 487, which is classified generally to chapter 49 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Joint Resolution of October 19, 1972 (86 Stat. 907), referred to in par. (9), is Pub. L. 92–506, Oct. 19, 1972, 86 Stat. 907, which is not classified to the Code.
 
-The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. Subsequently, Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, amended the Act to be cited as the Carl D. Perkins Vocational and Applied Technology Education Act. For additional details, see the Codification note preceding section 2301 of this title.
+The Vocational Education Act of 1963, referred to in par. (10), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of this title, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, and amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998. For additional details, see the Codification note preceding section 2301 of this title.
 
 The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which isclassified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in pars. (13) and (14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§3281 et seq.) of chapter 47 of this title.
 
@@ -70,9 +70,15 @@ Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 
 
 #### Amendments
 
-1996—Pars. (12) to (15). Pub. L. 104–208 redesignated pars. (13) to (15) as (12) to (14), respectively, and struckout former par. (12) which listed the Library Services and Construction Act as one of the laws for which funds were authorized to be appropriated under this section.
+1998—Par. (12). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+
+1996—Pars. (12) to (15). Pub. L. 104–208 redesignated pars. (13) to (15) as (12) to (14), respectively, and struck out former par. (12) which listed the Library Services and Construction Act as one of the laws for which funds were authorized to be appropriated under this section.
 
 1983—Par. (15). Pub. L. 98–211 added par. (15).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Short Title
 

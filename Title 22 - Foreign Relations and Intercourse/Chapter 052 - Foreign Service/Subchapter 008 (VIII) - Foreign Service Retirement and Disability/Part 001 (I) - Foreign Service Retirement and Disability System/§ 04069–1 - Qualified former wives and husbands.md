@@ -40,9 +40,9 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Effective Date
 
-Section applicable to any individual who, on or after Jan. 8, 1988, is married to a participant or former participant, see section 261(b)(1) of Pub. L. 100–238, set outas an Effective Date of 1988 Amendment note under section 4054 of this title.
+Section applicable to any individual who, on or after Jan. 8, 1988, is married to a participant or former participant, see section 261(b)(1) of Pub. L. 100–238, set out as an Effective Date of 1988 Amendment note under section 4054 of this title.
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

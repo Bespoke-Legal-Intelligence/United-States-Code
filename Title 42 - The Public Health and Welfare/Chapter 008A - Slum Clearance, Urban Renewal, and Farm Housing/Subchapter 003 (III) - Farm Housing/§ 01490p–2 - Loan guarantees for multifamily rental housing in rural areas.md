@@ -82,7 +82,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (2) Foreclosure
 
-&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosureproceedings, except claims released with the consent of the Secretary.
+&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
 
 #### (3) Assignment by Secretary
 
@@ -134,7 +134,7 @@ The Secretary shall establish standards for the treatment of tenants of housing 
 
 #### (p) Housing standards
 
-The standards established under section 1485(m) of this title for housing and related facilities assisted under section 1485 of this titleshall apply to housing and related facilities the development costs of which are financed in whole or in part with a loan guaranteed under this section.
+The standards established under section 1485(m) of this title for housing and related facilities assisted under section 1485 of this title shall apply to housing and related facilities the development costs of which are financed in whole or in part with a loan guaranteed under this section.
 
 #### (q) Limitation on commitments to guarantee loans
 
@@ -176,13 +176,13 @@ For purposes of this section, the following definitions shall apply:
 
 #### (t) Authorization of appropriations
 
-There are authorized to be appropriated for fiscal year 1998 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year.
+There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year.
 
-#### (u) Termination date
+#### (u) Tax-exempt financing
 
-A loan may not be guaranteed under this section after September 30, 1998.
+The Secretary may not deny a guarantee under this section on the basis that the interest on the loan or on an obligation supporting the loan for which a guarantee is sought is exempt from inclusion in gross income for purposes of chapter I <sup>2</sup> of title 26.
 
-(July 15, 1949, ch. 338, title V, §538, as added and amended Mar. 28, 1996, Pub. L. 104–120, §5, 110 Stat. 835; Nov. 18, 1997, Pub. L. 105–86, title VII, §735(c), 111 Stat. 2111.)
+(July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661.)
 
 #### References in Text
 
@@ -193,6 +193,10 @@ The National Housing Act, referred to in subsec. (e)(1)(A), is act June 27, 1934
 Section is based on section 5(a) of H.R. 1691, One Hundred Fourth Congress, as passed by the House of Representatives on Oct. 30, 1995, which was enacted into law by Pub. L. 104–120.
 
 #### Amendments
+
+1998—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
+
+Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
 
 1997—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
 
@@ -207,4 +211,6 @@ Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted “1998” for “1996�
 Section to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “low- or moderate-income”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be chapter “1”.</i>
 

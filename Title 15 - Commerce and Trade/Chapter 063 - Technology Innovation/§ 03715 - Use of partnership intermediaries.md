@@ -10,7 +10,7 @@ Subject to the approval of the Secretary or head of the affected department or a
 
 #### (b) Partnership progress reports
 
-The Secretary shall include in each triennial report required under section 3704a(d) of thistitle a discussion and evaluation of the activities carried out pursuant to this section during the period covered by the report.
+The Secretary shall include in each triennial report required under section 3704a(d) of this title a discussion and evaluation of the activities carried out pursuant to this section during the period covered by the report.
 
 #### (c) “Partnership intermediary” defined
 

@@ -68,7 +68,7 @@ In making grants and contracts under subsection (a)(1) of this section, the Assi
 
 &emsp;&emsp;(A) projects that—
 
-&emsp;&emsp;&emsp;(i) study and demonstrate the provision of music therapy, art therapy, or dance-movement therapy to older individuals who are institutionalized or at risk of being institutionalized; and
+&emsp;&emsp;&emsp;(i) study and demonstrate the provision of music therapy, art therapy, or dance-movement therapy to older individualswho are institutionalized or at risk of being institutionalized; and
 
 &emsp;&emsp;&emsp;(ii) provide music therapy, art therapy, or dance-movement therapy—
 
@@ -92,7 +92,7 @@ In making grants and contracts under subsection (a)(1) of this section, the Assi
 
 &emsp;(12)(A) establish, in accordance with subparagraph (B), nationwide, statewide, regional, metropolitan area, county, city, or community model volunteer service credit projects to demonstrate methods to improve or expand supportive services or nutrition services, or otherwise promote the wellbeing of older individuals;
 
-&emsp;(B) for purposes of paying part or all of the cost of developing or operating the projects, in the fiscal year, make not fewer than three andnot more than five grants to, or contracts with, public agencies or nonprofit private organizations in such State; and
+&emsp;(B) for purposes of paying part or all of the cost of developing or operating the projects, in the fiscal year, make not fewer than three and not more than five grants to, or contracts with, public agencies or nonprofit private organizations in such State; and
 
 &emsp;(C) ensure that the projects will be operated in consultation with the Corporation for National and Community Service and will permit older individuals who are volunteers to earn, for services furnished, credits that may be redeemed later for similar volunteer services.
 
@@ -132,7 +132,7 @@ In subsec. (c), “December 29, 1981” substituted for “the effective date of
 
 #### Prior Provisions
 
-A prior section 3035a, Pub. L. 89–73, title IV, §412, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 47, related to special comprehensive study and demonstration projects on transportation problems of older Americans, prior to repeal by Pub. L. 95–478, title I, §104(b)(3), Oct. 18, 1978, 92 Stat. 1539.
+A prior section 3035a, Pub. L. 89–73, title IV, §412, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 47, related to special comprehensive study and demonstration projects on transportation problems of olderAmericans, prior to repeal by Pub. L. 95–478, title I, §104(b)(3), Oct. 18, 1978, 92 Stat. 1539.
 
 A prior section 422 of Pub. L. 89–73, as added by Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1541, related to special projects in comprehensive long-term care and was classified to section 3035c of this title, prior to the general amendment of this subchapter by Pub. L. 97–115.
 

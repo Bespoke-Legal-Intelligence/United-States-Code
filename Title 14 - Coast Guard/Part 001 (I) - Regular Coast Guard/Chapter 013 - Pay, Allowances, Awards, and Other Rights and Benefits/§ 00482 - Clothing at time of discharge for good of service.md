@@ -2,7 +2,7 @@
 
 Enlisted members discharged for bad conduct, undesirability, unsuitability, or inaptitude may be furnished civilian clothing, including an overcoat when necessary, the cost of such furnished clothing not to exceed $30, per person.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 533; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(C), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 533; Pub. L. 98–557, §15(a)(3)(C), Oct. 30, 1984, 98 Stat. 2865.)
 
 #### Historical and Revision Notes
 

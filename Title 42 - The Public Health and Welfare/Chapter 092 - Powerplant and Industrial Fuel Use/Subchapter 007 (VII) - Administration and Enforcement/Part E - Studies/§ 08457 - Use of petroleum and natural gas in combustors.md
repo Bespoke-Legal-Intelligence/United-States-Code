@@ -1,6 +1,6 @@
 ### §8457. Use of petroleum and natural gas in combustors
 
-The Secretary shall conduct a detailed study of the uses of petroleum and natural gas as aprimary energy source for combustors and installations not subject to the prohibitions of this chapter. In conducting such study, the Secretary shall—
+The Secretary shall conduct a detailed study of the uses of petroleum and natural gas as a primary energy source for combustors and installations not subject to the prohibitions of this chapter. In conducting such study, the Secretary shall—
 
 &emsp;(1) identify those categories of major fuel-burning installations in which the substitution of coal or other alternate fuels for petroleum and natural gas is economically and technically feasible, and
 

@@ -58,7 +58,7 @@
 
 #### (c) Relief
 
-The district court shall have jurisdiction in actions brought under subsection (a) of this section against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall havejurisdiction in actions brought under subsection (a) of this section against the Administrator to order the Administrator to perform the act or duty concerned.
+The district court shall have jurisdiction in actions brought under subsection (a) of this section against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) of this section against the Administrator to order the Administrator to perform the act or duty concerned.
 
 #### (d) Notice
 

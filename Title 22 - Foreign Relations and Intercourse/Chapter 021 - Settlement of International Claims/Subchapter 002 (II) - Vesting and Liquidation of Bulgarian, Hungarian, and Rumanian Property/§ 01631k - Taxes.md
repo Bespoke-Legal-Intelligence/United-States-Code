@@ -14,7 +14,7 @@ Subject to the provisions of subsection (b) of this section, the manner of compu
 
 #### (d) “Tax” defined
 
-The word “tax” as used in this section shall include, without limitation by reason of this enumeration, any property, income, excess-profits, war-profits, excise, estate, and employment tax, import duty, and special assessment; and also any interest, penalty, additional amount, or addition thereto not arising from any act, omission, neglect, failure, or delay on the part of the designee.
+The word “tax” as used in this section shall include, without limitation by reason of thisenumeration, any property, income, excess-profits, war-profits, excise, estate, and employment tax, import duty, and special assessment; and also any interest, penalty, additional amount, or addition thereto not arising from any act, omission, neglect, failure, or delay on the part of the designee.
 
 (Mar. 10, 1950, ch. 54, title II, §212, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 569.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Grounds for refusal to issue or renew, suspension, or revocation of certificate
 
-In accordance with regulations, the Secretary may refuse to issue or renew, or may suspend or revoke, a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) if the applicant or holder—
+In accordance with regulations, the Secretary may refuse to issue or renew, or may suspend orrevoke, a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) if the applicant or holder—
 
 &emsp;(1) has knowingly made any misrepresentation in the application for such certificate;
 

@@ -16,7 +16,7 @@
 
 (B) Except as provided under subparagraph (C), a judge of the court acting as chief judge under subparagraph (A) or (B) of paragraph (2) shall serve until a judge meets the qualifications under paragraph (1).
 
-(C) No judge of the court may serve or act as chief judge of the court after attaining the ageof 70 years unless no other judge is qualified to serve as chief judge under paragraph (1) or is qualified to act as chief judge under paragraph (2).
+(C) No judge of the court may serve or act as chief judge of the court after attaining the age of 70 years unless no other judge is qualified to serve as chief judge under paragraph (1) or is qualified to act as chief judge under paragraph (2).
 
 (b) The chief judge shall have precedence and preside at any session of the court which such judge attends. Other judges of the court shall have precedence and preside according to the seniority of their commissions. Judges whose commissions bear the same date shall have precedence according to seniority in age.
 

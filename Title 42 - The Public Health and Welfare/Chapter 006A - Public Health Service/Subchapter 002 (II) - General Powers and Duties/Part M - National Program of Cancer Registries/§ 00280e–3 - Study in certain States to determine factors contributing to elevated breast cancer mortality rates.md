@@ -20,7 +20,7 @@ The Secretary shall, during each of the fiscal years 1993 and 1994, develop a pl
 
 Not later than September 30, 1999, the Secretary shall complete the study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings and recommendations made as a result of the study.
 
-(July 1, 1944, ch. 373, title III, §399K, as added Oct. 24, 1992, Pub. L. 102–515, §3, 106 Stat. 3376.)
+(July 1, 1944, ch. 373, title III, §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376.)
 
 #### Change of Name
 

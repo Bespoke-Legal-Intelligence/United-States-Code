@@ -1,12 +1,36 @@
 ### §303. Secretary of Veterans Affairs
 
-There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice andconsent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
+There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(1).
+
+#### National Center on War-Related Illnesses and Post-Deployment Health Issues
+
+Pub. L. 105–368, title I, §103, Nov. 11, 1998, 112 Stat. 3322, provided that:
+
+“(a)
+
+Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences, or another appropriate independent organization, under which such entity shall assist in developing a plan for the establishment of a national center or national centers for the study of war-related illnesses and post-deployment health issues. The purposes of such a center may include—
+
+&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and prevention of war-related illnesses and post-deployment health issues; and
+
+&emsp;“(2) promoting the development of appropriate health policies, including monitoring, medical recordkeeping, risk communication, and use of new technologies.
+
+“(b)
+
+Recommendations and Report.—With respect to such a center, an agreement under this section shall provide for the Academy (or other entity) to—
+
+&emsp;“(1) make recommendations regarding: (A) design of an organizational structure or structures, operational scope, staffing and resource needs, establishment of appropriate databases, the advantages of single or multiple sites, mechanisms for implementing recommendations on policy, and relationship to academic or scientific entities; (B) the role or roles that relevant Federal departments and agencies should have in the establishment and operation of any such center or centers; and (C) such other matters as it considers appropriate; and
+
+&emsp;“(2) report to the Secretary, the Secretaries of Defense and Health and Human Services, and the Committees on Veterans’ Affairs of the Senate and House of Representatives, not later than 1 year after the date of the enactment of this Act \[Nov. 11, 1998\], on its recommendations.
+
+“(c)
+
+Report on Establishment of National Center.—Not later than 60 days after receiving the report under subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in that report. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission.”
 
 #### Specification in Budget Submissions of Funds for Certain Veterans Benefits
 

@@ -14,14 +14,20 @@
 | [2639\.](%C2%A7%2002639%20-%20Transportation%20to%20and%20from%20school%20for%20certain%20minor%20dependents.md) | Transportation to and from school for certain minor dependents. |
 | [2640\.](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md) | Charter air transportation of members of the armed forces. |
 | [2641\.](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md) | Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft. |
+| [2641a.](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md) | Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii. |
 | [2642\.](%C2%A7%2002642%20-%20Reimbursement%20rate%20for%20airlift%20services%20provided%20to%20Central%20Intelligence%20Agency.md) | Reimbursement rate for airlift services provided to Central Intelligence Agency. |
 | [2643\.](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md) | Commissary and exchange services: transportation overseas. |
 | [2644\.](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md) | Control of transportation systems in time of war. |
 | [2645\.](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md) | Indemnification of Department of Transportation for losses covered by vessel war risk insurance. |
+| [2646\.](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md) | Travel services: procurement for official and unofficial travel under one contract. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–262, title VIII, §8121(b), Oct. 17, 1998, 112 Stat. 2332, added item 2641a.
+
+Pub. L. 105–261, div. A, title VIII, §813(b), Oct. 17, 1998, 112 Stat. 2087, added item 2646.
 
 1996—Pub. L. 104–201, div. A, title III, §368(a)(2)(B), title IX, §906(d)(1), title X, §1079(b)(2), Sept. 23, 1996, 110 Stat. 2498, 2620, 2670, substituted “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment” for “Motor vehicles: for members on change of permanent station” in item 2634 and added items 2644 and 2645.
 
@@ -70,7 +76,9 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02639 - Transportation to and from school for certain minor dependents](%C2%A7%2002639%20-%20Transportation%20to%20and%20from%20school%20for%20certain%20minor%20dependents.md)
 - [&sect; 02640 - Charter air transportation of members of the armed forces](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md)
 - [&sect; 02641 - Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md)
+- [&sect; 02641a - Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md)
 - [&sect; 02642 - Reimbursement rate for airlift services provided to Central Intelligence Agency](%C2%A7%2002642%20-%20Reimbursement%20rate%20for%20airlift%20services%20provided%20to%20Central%20Intelligence%20Agency.md)
 - [&sect; 02643 - Commissary and exchange services transportation overseas](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md)
 - [&sect; 02644 - Control of transportation systems in time of war](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md)
 - [&sect; 02645 - Indemnification of Department of Transportation for losses covered by vessel war risk insurance](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md)
+- [&sect; 02646 - Travel services procurement for official and unofficial travel under one contract](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md)

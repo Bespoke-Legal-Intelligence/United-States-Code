@@ -10,9 +10,13 @@ Not later than April 1, 1996, and annually thereafter, the Secretary shall prepa
 
 &emsp;(4) describes actions taken by the Secretary under section 971d of this title.
 
-(Pub. L. 94–70, §11, as added Pub. L. 104–43, title III, §308, Nov. 3, 1995, 109 Stat. 386.)
+(Pub. L. 94–70, §11, as added Pub. L. 104–43, title III, §308, Nov. 3, 1995, 109 Stat. 386; amended Pub. L. 105–384, title II, §202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453.)
 
-#### Codification
+#### Prior Provisions
 
-Another section 11 of Pub. L. 94–70 is set out as a note under section 971 of this title.
+A prior section 11 of Pub. L. 94–70 was renumbered section 13 and is set out as a Separability note under section 971 of this title.
+
+#### Amendments
+
+1998—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.
 

@@ -44,7 +44,7 @@ By virtue of the authority vested in me as President of the United States and as
 
 4\. The term “enlisted men” as used in this order shall be deemed to apply to enlisted persons of either sex.
 
-5\. This order shall become effective on April 1, 1950, and on that date shall supersede Executive Order No. 10049 \[Apr. 4, 1949, 14 F.R. 1563\] entitled “Delegating the Authority of the President to Prescribe Clothing Allowances, and Cash Allowances in Lieu Thereof, to Enlisted Men in the Armed Forces.”
+5\. This order shall become effective on April 1, 1950, and on that date shall supersede Executive Order No. 10049 \[Apr. 4, 1949, 14 F.R. 1563\] entitled “Delegating theAuthority of the President to Prescribe Clothing Allowances, and Cash Allowances in Lieu Thereof, to Enlisted Men in the Armed Forces.”
 
 #### Section Referred to in Other Sections
 

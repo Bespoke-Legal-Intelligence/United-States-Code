@@ -10,7 +10,7 @@
 
 &emsp;(3) in any other case, imprisonment for not more than 10 years, a fine under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 769; Oct. 12, 1982, Pub. L. 97–291, §4(c), 96 Stat. 1253; Sept. 13, 1994, Pub. L. 103–322, title VI, §60016, title XXXIII, §330016(1)(K), 108 Stat. 1974, 2147; Oct. 1, 1996, Pub. L. 104–214, §1(3), 110 Stat. 3017.)
+(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 97–291, §4(c), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 103–322, title VI, §60016, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 1974, 2147; Pub. L. 104–214, §1(3), Oct. 1, 1996, 110 Stat. 3017.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Appeal by a Defendant.—A defendant may file a notice of appeal in the district court for review of an otherwise final sentence if the sentence—
+Appeal by a Defendant.—A defendant may file a notice of appeal in the district courtfor review of an otherwise final sentence if the sentence—
 
 &emsp;(1) was imposed in violation of law;
 
@@ -84,7 +84,7 @@ Application to a Sentence by a Magistrate.—An appeal of an otherwise final sen
 
 Guideline Not Expressed as a Range.—For the purpose of this section, the term “guideline range” includes a guideline range having the same upper and lower limits.
 
-(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
+(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416;Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Subsec. (b)(2). Pub. L. 100–690, §7103(a)(1), struck out “issued by the Sen
 
 Subsec. (b)(3). Pub. L. 100–690, §7103(a)(3), added par. (3) and struck out former par. (3) which read as follows: “was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is less than—
 
-&emsp;“(A) the sentence specified in the applicable guideline to the extent that the sentence includes a lesserfine or term of imprisonment or term of supervised release than the minimum established in the guideline, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the minimum established in the guideline; and
+&emsp;“(A) the sentence specified in the applicable guideline to the extent that the sentence includes a lesser fine or term of imprisonment or term of supervised release than the minimum established in the guideline, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the minimum established in the guideline; and
 
 &emsp;“(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or”.
 
@@ -158,7 +158,7 @@ Subsec. (e)(2)(B). Pub. L. 99–646, §73(a)(2), substituted provision directing
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistratejudge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1987 Amendment
 

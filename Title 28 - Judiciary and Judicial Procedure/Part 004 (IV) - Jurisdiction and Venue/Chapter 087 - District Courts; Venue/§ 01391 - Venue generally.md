@@ -52,33 +52,33 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a)(3). Pub. L. 104–34 substituted “any defendant is” for “the defendants are”.
+1995—Subsec. (a)(3). Pub. L. 104–34 substituted “any defendant is” for “the defendants are”.
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end “, if there is no district in which the action may otherwise be brought”.
+1992—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end “, if there is no district in which the action may otherwise be brought”.
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–198 substituted “in (1)” for “if (1)”.
+1991—Subsec. (b). Pub. L. 102–198 substituted “in (1)” for “if (1)”.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–650, §311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
+1990—Subsec. (a). Pub. L. 101–650, §311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
 
 Subsec. (b). Pub. L. 101–650, §311(2), substituted “may, except as otherwise provided by law, be brought only if” and cls. (1) to (3) for “may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law”.
 
 Subsec. (e). Pub. L. 101–650, §311(3), substituted “(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)” for “or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)”.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–702 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes.”
+1988—Subsec. (c). Pub. L. 100–702 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes.”
 
-<b>1976</b>—Subsec. (e). Pub. L. 94–574 provided that, in actions against the United States, its agencies, or officers or employees in their official capacities, additional persons may be joined in accordance with the Federal Rules of Civil Procedure and with other venue requirements which would be applicable if the United States, its agencies, or one of its officers or employees were not a party.
+1976—Subsec. (e). Pub. L. 94–574 provided that, in actions against the United States, its agencies, or officers or employees in their official capacities, additional persons may be joined in accordance with the Federal Rules of Civil Procedure and with other venue requirements which would be applicable if the United States, its agencies, or one of its officers or employees were not a party.
 
 Subsec. (f). Pub. L. 94–583 added subsec. (f).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–714, §1, authorized a civil action to be brought in the judicial district in which the claim arose.
+1966—Subsec. (a). Pub. L. 89–714, §1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
 Subsec. (b). Pub. L. 89–714, §1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
 Subsec. (f). Pub. L. 89–714, §2, repealed subsec. (f) which permitted a civil action on a tort claim arising out of the manufacture, assembly, repair, ownership, maintenance, use, or operation of an automobile to be brought in the judicial district wherein the act or omission complained of occurred. Present provisions are now contained in subsecs. (a) and (b) of this section.
 
-<b>1963</b>—Subsec. (f). Pub. L. 88–234 added subsec. (f)
+1963—Subsec. (f). Pub. L. 88–234 added subsec. (f)
 
-<b>1962</b>—Subsec. (e). Pub. L. 87–748 added subsec. (e).
+1962—Subsec. (e). Pub. L. 87–748 added subsec. (e).
 
 #### Effective Date of 1992 Amendment
 
@@ -122,5 +122,5 @@ Waiver of venue, see section 1406 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 53, 6103, 6104; title 19 section 1337; title 22 sections 290<i>l</i>–5, 290<i>o</i>–5; title 42 section 1973aa–2.
+This section is referred to in title 15 sections 53, 6103, 6104, 6504; title 19 section 1337; title 22 sections 290<i>l</i>–5, 290<i>o</i>–5; title 42 section 1973aa–2.
 

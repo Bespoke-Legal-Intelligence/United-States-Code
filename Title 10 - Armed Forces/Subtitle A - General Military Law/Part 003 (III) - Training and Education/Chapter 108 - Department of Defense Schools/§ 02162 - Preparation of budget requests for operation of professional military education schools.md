@@ -8,7 +8,7 @@ Uniform Cost Accounting.—The Secretary of Defense, with the advice and assista
 
 Preparation of Budget Requests.—(1) Amounts requested for a fiscal year for the operation of each professional military education school shall be set forth as a separate budget request in the materials submitted by the Secretary of Defense to Congress in support of the budget request for the Department of Defense.
 
-(2) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University andthe joint professional military education curricula of the other professional military education schools.
+(2) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University and the joint professional military education curricula of the other professional military education schools.
 
 (c)
 

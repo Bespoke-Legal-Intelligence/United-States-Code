@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) the date that is 18 months after the date on which the investigation is initiated, or
 
-&emsp;(B) in all cases not described in subparagraph (A) or paragraph (3), the date that is 12months after the date on which the investigation is initiated.
+&emsp;(B) in all cases not described in subparagraph (A) or paragraph (3), the date that is 12 months after the date on which the investigation is initiated.
 
 (3)(A) If an investigation is initiated under this subchapter by reason of section 2412(b)(2) of this title and the Trade Representative does not consider that a trade agreement, including the Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 3511(d)(15) of this title), is involved or does not make a determination described in subparagraph (B) with respect to such investigation, the Trade Representative shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 6 months after the date on which such investigation is initiated.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed,and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under this section regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
+Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under this section regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
 
 #### Section Referred to in Other Sections
 

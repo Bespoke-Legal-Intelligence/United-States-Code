@@ -1,6 +1,6 @@
 ### §1749bbb–12. Fiscal intermediaries and servicing agents
 
-(a) In order to provide for maximum efficiency in the administration of the reinsurance and direct insurance programs under this subchapter, and in order to facilitate the expeditious payment of any funds under such program, the Director may enter into contracts with any insurer, pool, or other person, for the purpose ofproviding for the performance of any or all of the following functions:
+(a) In order to provide for maximum efficiency in the administration of the reinsurance and direct insurance programs under this subchapter, and in order to facilitate the expeditious payment of any funds under such program, the Director may enter into contracts with any insurer, pool, or other person, for the purpose of providing for the performance of any or all of the following functions:
 
 &emsp;(1) estimating or determining any amounts of payments for reinsurance or direct insurance claims;
 

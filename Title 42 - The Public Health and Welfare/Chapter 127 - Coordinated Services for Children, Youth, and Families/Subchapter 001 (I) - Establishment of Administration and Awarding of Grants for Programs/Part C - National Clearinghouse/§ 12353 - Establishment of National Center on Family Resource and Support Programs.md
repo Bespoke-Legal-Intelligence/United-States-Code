@@ -8,7 +8,7 @@ The Commissioner shall establish, through grant or contract, a national center f
 
 The national center established under subsection (a) of this section shall serve as a national information and data clearinghouse, training, technical assistance, and material development source for family resource and support programs. Such center shall—
 
-&emsp;(1) develop and maintain a system for disseminating information on all types of family resource and support programs and on the state of family resource and support program development, including information concerning the most effective model programs;
+&emsp;(1) develop and maintain a system for disseminating information on all types of familyresource and support programs and on the state of family resource and support program development, including information concerning the most effective model programs;
 
 &emsp;(2) develop and sponsor a variety of training institutes and curricula for family resource and support program staff;
 

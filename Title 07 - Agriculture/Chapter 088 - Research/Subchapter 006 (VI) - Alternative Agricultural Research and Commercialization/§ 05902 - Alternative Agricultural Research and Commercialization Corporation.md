@@ -116,7 +116,7 @@ Report.—Not later than December 31, 2001, the Secretary shall transmit the rep
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5901, 5903 of this title.
+This section is referred to in sections 5901, 5903, 7624 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

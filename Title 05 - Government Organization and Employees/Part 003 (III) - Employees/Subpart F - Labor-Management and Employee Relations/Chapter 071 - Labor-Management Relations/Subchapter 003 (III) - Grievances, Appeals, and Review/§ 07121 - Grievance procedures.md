@@ -64,11 +64,15 @@
 
 &emsp;(B) the remedy described in paragraph (3)(B) if such person has timely filed a grievance in writing, in accordance with the provisions of the parties’ negotiated procedure; or
 
-&emsp;(C) the remedy described in paragraph (3)(C) if such person has sought corrective action from the Office of Special Counsel by making an allegation under section 1214(a)(1).
+&emsp;(C) the remedy described in paragraph (3)(C) if such person has sought corrective actionfrom the Office of Special Counsel by making an allegation under section 1214(a)(1).
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1211; amended Pub. L. 103–424, §9, Oct. 29, 1994, 108 Stat. 4365.)
+(h) Settlements and awards under this chapter shall be subject to the limitations in section 5596(b)(4) of this title.
+
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1211; amended Pub. L. 103–424, §9, Oct. 29, 1994, 108 Stat. 4365; Pub. L. 105–261, div. A, title XI, §1104(b), Oct. 17, 1998, 112 Stat. 2142.)
 
 #### Amendments
+
+1998—Subsec. (h). Pub. L. 105–261 added subsec. (h).
 
 1994—Subsec. (a)(1). Pub. L. 103–424, §9(c), substituted “(d), (e), and (g)” for “(d) and (e)” and inserted “administrative” after “exclusive”.
 

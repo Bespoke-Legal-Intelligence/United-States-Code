@@ -18,7 +18,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 If the Secretary finds that the purpose described in section 300d–11(b) of this title cannot otherwise be carried out, the Secretary may, with respect to an otherwise qualified State, waive the restriction established in subsection (a)(3) of this section.
 
-(July 1, 1944, ch. 373, title XII, §1215, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2923.)
+(July 1, 1944, ch. 373, title XII, §1215, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2923.)
 
 #### References in Text
 

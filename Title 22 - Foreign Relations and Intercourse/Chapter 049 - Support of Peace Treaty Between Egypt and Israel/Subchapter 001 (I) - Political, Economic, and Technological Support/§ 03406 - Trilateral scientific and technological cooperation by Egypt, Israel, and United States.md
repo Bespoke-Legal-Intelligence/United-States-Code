@@ -8,7 +8,7 @@ It is the sense of the Congress that, in order to continue to build the structur
 
 Therefore, the President shall develop a plan to guide the participation of both United States Government agencies and private institutions in such projects. This plan shall identify—
 
-&emsp;(1) potential projects in a variety of areas appropriate for scientific and technological cooperation by the three countries, including agriculture, health, energy, the environment, education, and water resources;
+&emsp;(1) potential projects in a variety of areas appropriate for scientific and technologicalcooperation by the three countries, including agriculture, health, energy, the environment, education, and water resources;
 
 &emsp;(2) the resources which are available or which would be needed to implement such projects; and
 

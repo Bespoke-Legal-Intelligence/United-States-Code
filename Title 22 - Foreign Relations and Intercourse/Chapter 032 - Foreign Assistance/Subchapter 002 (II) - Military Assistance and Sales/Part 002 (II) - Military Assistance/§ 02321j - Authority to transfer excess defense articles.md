@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
+The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to theCongress, for the fiscal year in which the transfer is authorized.
 
 #### (b) Limitations on transfers
 
@@ -48,7 +48,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(A) it is determined that it is in the national interest of the United States to do so;
 
-&emsp;&emsp;(B) the recipient is a developing country receiving less than $10,000,000 of assistance under part V of this subchapter (relating tointernational military education and training) or section 23 of the Arms Export Control Act (22 U.S.C. 2763; relating to the Foreign Military Financing program) in the fiscal year in which the transportation is provided;
+&emsp;&emsp;(B) the recipient is a developing country receiving less than $10,000,000 of assistance under part V of this subchapter (relating to international military education and training) or section 23 of the Arms Export Control Act (22 U.S.C. 2763; relating to the Foreign Military Financing program) in the fiscal year in which the transportation is provided;
 
 &emsp;&emsp;(C) the total weight of the transfer does not exceed 25,000 pounds; and
 
@@ -214,7 +214,7 @@ Advance notice.—The President may not transfer excess defense articles under t
 
 &emsp;“(2)
 
-Committees to be notified.—Notice shall be provided pursuant to paragraph (1) to the Committeeon Foreign Affairs \[now Committee on International Relations\], and the Committee on Appropriations of the House of Representatives and the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
+Committees to be notified.—Notice shall be provided pursuant to paragraph (1) to the Committee on Foreign Affairs \[now Committee on International Relations\], and the Committee on Appropriations of the House of Representatives and the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
 
 “(d)
 
@@ -258,7 +258,7 @@ Uses of excess defense articles.—Excess defense articles may be furnished to a
 
 &emsp;“(3)
 
-Role of the secretary of state.—The Secretary of State shall determine the eligibility of countries to receive excess defense articles under subsection (a)(2) and insure that any transfer is coordinated with other antinarcotics enforcement programs assisted by the United States Government.
+Role of the secretary of state.—The Secretary of State shall determine the eligibility ofcountries to receive excess defense articles under subsection (a)(2) and insure that any transfer is coordinated with other antinarcotics enforcement programs assisted by the United States Government.
 
 &emsp;“(4)
 
@@ -278,7 +278,7 @@ Definitions.—As used in this section—
 
 &emsp;“(5) the term ‘NATO southern flank countries’ means Greece, Italy, Portugal, Spain, and Turkey.”
 
-\[Functions of President under section 573 of Pub. L. 101–167, set out above, delegated to Secretary of Defense, see section 1–301(f) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
+\[Functions of President under section 573 of Pub. L. 101–167, set out above, delegated to Secretary of Defense, see section 1–301(g) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
 Provisions similar to those appearing in section 573(e) of Pub. L. 101–167, set out above, were contained in the following prior appropriation acts:
 

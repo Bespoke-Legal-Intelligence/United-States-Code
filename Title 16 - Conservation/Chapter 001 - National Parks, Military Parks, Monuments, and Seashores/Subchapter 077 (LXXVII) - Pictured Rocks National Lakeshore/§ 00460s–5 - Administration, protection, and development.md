@@ -8,11 +8,21 @@ The administration, protection, and development of the Pictured Rocks National L
 
 In the administration, protection, and development of the lakeshore, the Secretary shall prepare and implement a land and water use management plan, which shall include specific provision for—
 
-&emsp;(1) development of facilities to provide the benefits of public recreation, including a scenic shoreline drive;
+&emsp;(1) development of facilities to provide the benefits of public recreation, including appropriate improvements to Alger County Road H–58;
 
 &emsp;(2) protection of scenic, scientific, and historic features contributing to public enjoyment; and
 
 &emsp;(3) such protection, management, and utilization (subject to the provisions of sections 460s–8 and 460s–9 of this title) of renewable natural resources, including forage and forest products, as in the judgment of the Secretary is consistent with, and does not significantly impair public recreation and protection of scenic, scientific, and historic features contributing to public enjoyment.
 
-(Pub. L. 89–668, §6, Oct. 15, 1966, 80 Stat. 923.)
+#### (c) Prohibition of certain construction
+
+A scenic shoreline drive may not be constructed in the Pictured Rocks National Lakeshore.
+
+(Pub. L. 89–668, §6, Oct. 15, 1966, 80 Stat. 923; Pub. L. 105–378, title II, §202, Nov. 12, 1998, 112 Stat. 3398.)
+
+#### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–378, §202(1), substituted “including appropriate improvements to Alger County Road H–58” for “including a scenic shoreline drive”.
+
+Subsec. (c). Pub. L. 105–378, §202(2), added subsec. (c).
 

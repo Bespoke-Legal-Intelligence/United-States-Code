@@ -54,13 +54,13 @@ The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay o
 
 The district courts for the districts of Hawaii and Puerto Rico are embraced in the term “district courts of the United States.” (See definitive section 451 of this title.) Consequently the specific reference in section 225 of title 28, U.S.C., 1940 ed., to “the United States district courts for Hawaii” was omitted.
 
-The District Court for the District of Puerto Rico is not enumerated in section 225(b) of title 28, U.S.C., 1940ed., nevertheless subsection (2) of the revised section does not except such court. Thus in conformity with the last sentence of section 864, title 48, U.S.C., 1940 ed. For distribution of said section 864, see Distribution Table.
+The District Court for the District of Puerto Rico is not enumerated in section 225(b) of title 28, U.S.C., 1940 ed., nevertheless subsection (2) of the revised section does not except such court. Thus in conformity with the last sentence of section 864, title 48, U.S.C., 1940 ed. For distribution of said section 864, see Distribution Table.
 
 Section 61 of title 7 of the Canal Zone Code is also incorporated in sections 1291 and 1294 of this title.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (d)(2). Pub. L. 102–572, §§902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
+1992—Subsec. (d)(2). Pub. L. 102–572, §§902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
 
 Subsec. (d)(3). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in two places.
 
@@ -68,23 +68,23 @@ Subsec. (d)(4). Pub. L. 102–572, §902(b), substituted “United States Court 
 
 Subsec. (e). Pub. L. 102–572, §101, added subsec. (e).
 
-<b>1988</b>—Subsec. (d)(4). Pub. L. 100–702 added par. (4).
+1988—Subsec. (d)(4). Pub. L. 100–702 added par. (4).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–620, §412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
+1984—Subsec. (b). Pub. L. 98–620, §412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
 
 Subsec. (c)(1). Pub. L. 98–620, §412(b), inserted “or (b)” after “(a)”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
+1982—Subsec. (a). Pub. L. 97–164, §125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 97–164, §125(a)(2), (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
 
 Subsecs. (c), (d). Pub. L. 97–164, §125(b), added subsecs. (c) and (d).
 
-<b>1958</b>—Pub. L. 85–919 designated existing provisions as subsec. (a) and added subsec. (b).
+1958—Pub. L. 85–919 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Par. (1). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which established a United States District Court for the State of Alaska.
 
-<b>1951</b>—Par. (1). Act Oct. 31, 1951, inserted reference to District Court of Guam.
+1951—Par. (1). Act Oct. 31, 1951, inserted reference to District Court of Guam.
 
 #### Effective Date of 1992 Amendment
 

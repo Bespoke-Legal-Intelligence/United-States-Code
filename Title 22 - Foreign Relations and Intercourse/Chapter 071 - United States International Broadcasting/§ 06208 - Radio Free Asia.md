@@ -84,6 +84,10 @@ Nothing in this chapter may be construed to make Radio Free Asia a Federal agenc
 
 1994—Subsec. (d)(1)(B). Pub. L. 103–415 inserted “of all members” after “confirmation”.
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6204, 6206, 6207 of this title.

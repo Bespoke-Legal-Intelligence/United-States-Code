@@ -52,5 +52,5 @@ Pub. L. 102–393, title VI, §638(a), Oct. 6, 1992, 106 Stat. 1779, provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 2242a; title 8 section 1455; title 12 section 78n; title 14 section 664; title 16 sections 222, 1862; title 19 section 58c; title 28 section 1828; title 33 section 2607; title 42 sections 2201, 2214, 4370c, 7552; title 46 sections 2110, 12505; title 49 section 13908.
+This section is referred to in title 7 section 2242a; title 8 section 1455; title 12 section 78n; title 14 section 664; title 16 sections 222, 746a, 1862; title 19 section 58c; title 28 section 1828; title 33 section 2607; title 42 sections 2201, 2214, 4370c, 7552; title 46 sections 2110, 12505; title 49 section 13908.
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such person;
 
-&emsp;(3) performed as required pursuant to section 10147 of title 10, under section 502(a) or 503 oftitle 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
+&emsp;(3) performed as required pursuant to section 10147 of title 10, under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
 
 &emsp;(4) performed by a member of a uniformed service who is—
 
@@ -120,5 +120,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4311, 4313, 4314, 4317 of this title; title 2 section 1316; title 3 section 416.
+This section is referred to in sections 4311, 4313, 4314, 4317, 4319 of this title; title 2 section 1316; title 3 section 416.
 

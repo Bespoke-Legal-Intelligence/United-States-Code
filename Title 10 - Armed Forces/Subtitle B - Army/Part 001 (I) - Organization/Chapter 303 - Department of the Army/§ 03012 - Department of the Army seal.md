@@ -2,7 +2,7 @@
 
 The Secretary of the Army shall have a seal for the Department of the Army. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 157, §3011; renumbered §3012, Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(2), 100 Stat. 1034.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 157, §3011; renumbered §3012, Pub. L. 99–433, title V, §501(a)(2), Oct. 1, 1986, 100 Stat. 1034.)
 
 Historical and Revision Notes
 

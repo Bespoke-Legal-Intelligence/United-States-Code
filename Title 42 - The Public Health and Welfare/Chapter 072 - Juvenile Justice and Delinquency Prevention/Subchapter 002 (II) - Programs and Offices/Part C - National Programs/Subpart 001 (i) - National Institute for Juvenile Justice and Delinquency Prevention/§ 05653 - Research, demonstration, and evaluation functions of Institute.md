@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) assist in the provision by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
 
-&emsp;(4) Encourage <sup>1</sup> the development of programs which, in addition to helping youth take responsibility for their behavior, take into consideration life experiences which may havecontributed to their delinquency when developing intervention and treatment programs;
+&emsp;(4) Encourage <sup>1</sup> the development of programs which, in addition to helping youth take responsibility for their behavior, take into consideration life experiences which may have contributed to their delinquency when developing intervention and treatment programs;
 
 &emsp;(5) <sup>2</sup> encourage the development and establishment of programs to enhance the States’ ability to identify chronic serious and violent juvenile offenders who commit crimes such as rape, murder, firearms offenses, gang-related crimes, violent felonies, and serious drug offenses;
 

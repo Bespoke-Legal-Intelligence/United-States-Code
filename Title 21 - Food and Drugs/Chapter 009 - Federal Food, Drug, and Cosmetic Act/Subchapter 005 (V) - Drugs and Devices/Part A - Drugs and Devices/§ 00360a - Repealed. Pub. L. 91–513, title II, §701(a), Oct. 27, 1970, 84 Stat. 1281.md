@@ -4,7 +4,7 @@ Section, act June 25, 1938, ch. 675, §511, as added July 15, 1965, Pub. L. 89�
 
 #### Effective Date of Repeal
 
-Repeal by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of this title.
+Repeal by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, seesection 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of this title.
 
 #### Savings Provision
 

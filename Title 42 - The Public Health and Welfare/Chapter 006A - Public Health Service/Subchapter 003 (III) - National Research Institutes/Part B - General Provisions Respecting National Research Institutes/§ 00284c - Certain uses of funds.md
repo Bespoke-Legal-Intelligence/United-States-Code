@@ -6,13 +6,13 @@
 
 (3) For purposes of paragraph (1), the term “administrative expenses” means expenses incurred for the support of activities relevant to the award of grants, contracts, and cooperative agreements and expenses incurred for general administration of the scientific programs and activities of the National Institutes of Health.
 
-(4) Not later than December 31, 1987, and December 31 of each succeeding year, the Secretary shall report to the Congress the amount obligated in the fiscal year preceding such date for administrative expenses of the National Institutes of Health and the total amount appropriated for the National Institutes of Health for such fiscal year. The Secretary shall consult with the Comptroller General of the United States in preparing each report.
-
 (b) For fiscal year 1989 and subsequent fiscal years, amounts made available to the National Institutes of Health shall be available for payment of nurses and allied health professionals in accordance with payment authorities, scheduling options, benefits, and other authorities provided under chapter 73 of title 38 for nurses of the Department of Veterans Affairs.
 
-(July 1, 1944, ch. 373, title IV, §408, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 831; amended Nov. 4, 1988, Pub. L. 100–607, title I, §118, 102 Stat. 3053; Nov. 18, 1988, Pub. L. 100–690, title II, §2613(d), 102 Stat. 4239; June 10, 1993, Pub. L. 103–43, title IV, §403(b)(1), title XX, §2008(b)(2), 107 Stat. 158, 211; Oct. 19, 1996, Pub. L. 104–316, title I, §122(a), 110 Stat. 3836.)
+(July 1, 1944, ch. 373, title IV, §408, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 831; amended Pub. L. 100–607, title I, §118, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(d), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title IV, §403(b)(1), title XX, §2008(b)(2), June 10, 1993, 107 Stat. 158, 211; Pub. L. 104–316, title I, §122(a), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–362, title VI, §601(a)(1)(B), Nov. 10, 1998, 112 Stat. 3285.)
 
 #### Amendments
+
+1998—Subsec. (a)(4). Pub. L. 105–362 struck out par. (4) which read as follows: “Not later than December 31, 1987, and December 31 of each succeeding year, the Secretary shall report to the Congress the amount obligated in the fiscal year preceding such date for administrative expenses of the National Institutes of Health and the total amount appropriated for the National Institutes of Health for such fiscal year. The Secretary shall consult with the Comptroller General of the United States in preparing each report.”
 
 1996—Subsec. (a)(3). Pub. L. 104–316 struck out at end “In identifying expenses incurred for such support and administration the Secretary shall consult with the Comptroller General of the United States.”
 
@@ -24,7 +24,7 @@
 
 “(B) For the programs under section 285a–1 of this title, there are authorized to be appropriated $68,000,000 for fiscal year 1986, $74,000,000 for fiscal year 1987, and $80,000,000 for fiscal year 1988.
 
-“(2)(A) For the National Heart, Lung, and Blood Institute (other than its programs under section 285b–1 of this title), there are authorized to be appropriated $809,000,000 for fiscal year 1986, $871,000,000 for fiscal year 1987, and $927,000,000 for fiscal year 1988. Of the amount appropriated under this subsection for such fiscal year, not less than 15 percent of such amount shall be reserved for programs respecting diseases of the lungand not less than 15 percent of such amount shall be reserved for programs respecting blood diseases and blood resources.
+“(2)(A) For the National Heart, Lung, and Blood Institute (other than its programs under section 285b–1 of this title), there are authorized to be appropriated $809,000,000 for fiscal year 1986, $871,000,000 for fiscal year 1987, and $927,000,000 for fiscal year 1988. Of the amount appropriated under this subsection for such fiscal year, not less than 15 percent of such amount shall be reserved for programs respecting diseases of the lung and not less than 15 percent of such amount shall be reserved for programs respecting blood diseases and blood resources.
 
 “(B) For the programs under section 285b–1 of this title, there are authorized to be appropriated $82,000,000 for fiscal year 1986, $90,000,000 for fiscal year 1987, and $98,000,000 for fiscal year 1988.”
 

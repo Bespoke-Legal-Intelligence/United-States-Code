@@ -10,7 +10,7 @@
 
 &emsp;(4) the head of the agency decides ordered goods or services cannot be provided by contract as conveniently or cheaply by a commercial enterprise.
 
-(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment ofamounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
+(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
 (c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
@@ -78,7 +78,7 @@ In the section, the word “agency” is substituted for “executive department
 
 In subsection (a)(4), the words “the head of the agency decides” are added, and the words “commercial enterprise” are substituted for “private agencies”, for clarity. The words “by competitive bids” are omitted as surplus because of various procurement laws.
 
-In subsection (b), the words “The Secretary of Defense” are added for clarity because of Comptroller General decision B–20179 (Apr. 1, 1981). The words “a military department of the Department of Defense” are substituted for “the Department of the Army, Navy Department” for consistency with title 10 and to apply the source provisions to the Department of the Air Force because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and section 1 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488). The words “Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard” are substituted for “Federal Aviation Agency, Coast Guard” to reflect the transfer of those functions to the Secretary of Transportation. The words “the Administrator of General Services” are added to reflect the transfer of the functions of the Bureau of Federal Supply of the Treasury Department to the Administrator by section 102(a) of the Act of June 30, 1949 (40:752(a)). The words “the Administrator of” are added before “Maritime Administration” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words “The Secretary of Defense” are added for clarity because of Comptroller General decision B–20179 (Apr. 1, 1981). The words “a military department of the Department of Defense” are substituted for “the Department of the Army, Navy Department” for consistency with title 10 and to apply the source provisions to the Department of the AirForce because of sections 205(a) and 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501, 502), and section 1 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 488). The words “Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard” are substituted for “Federal Aviation Agency, Coast Guard” to reflect the transfer of those functions to the Secretary of Transportation. The words “the Administrator of General Services” are added to reflect the transfer of the functions of the Bureau of Federal Supply of the Treasury Department to the Administrator by section 102(a) of the Act of June 30, 1949 (40:752(a)). The words “the Administrator of” are added before “Maritime Administration” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (c), the words “pursuant to such order” are omitted as unnecessary.
 
@@ -122,9 +122,35 @@ Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) a
 
 #### Economy Act Purchases
 
-Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federalagencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Department of Defense Purchases Through Other Agencies
+
+Pub. L. 105–261, div. A, title VIII, §814, Oct. 17, 1998, 112 Stat. 2087, provided that:
+
+“(a)
+
+Extension of Regulations.—Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Secretary of Defense shall revise the regulations issued pursuant to section 844 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1720; 31 U.S.C. 1535 note) to—
+
+&emsp;“(1) cover any purchase described in subsection (b) that is greater than the micro-purchase threshold; and
+
+&emsp;“(2) provide for a streamlined method of compliance for any such purchase that is not greater than the simplified acquisition threshold.
+
+“(b)
+
+Description of Purchases.—A purchase referred to in subsection (a) is a purchase of goods or services for one agency of the Department of Defense by any other agency under a task or delivery order contract entered into by the other agency under section 2304a of title 10, United States Code, or section 303H of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h).
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘micro-purchase threshold’ has the meaning provided in section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428).
+
+&emsp;“(2) The term ‘simplified acquisition threshold’ has the meaning provided in section 4 of such Act (41 U.S.C. 403).
+
+“(d)
+
+Termination.—This section shall cease to be effective 1 year after the date on which final regulations prescribed pursuant to subsection (a) take effect.”
 
 Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
@@ -140,5 +166,5 @@ Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 section 2358; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 section 1471c; title 48 section 1469d; title 50 section 414.
+This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 sections 2358, 6204; title 24 section 168b;title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–578 substituted provisions as to character of service of full-time and part-time United States magistrates for former provisions prescribing jurisdiction and powers of national park commissioners and practice and procedure before such officers. See section 636 of this title.
+1968—Pub. L. 90–578 substituted provisions as to character of service of full-time and part-time United States magistrates for former provisions prescribing jurisdiction and powers of national park commissioners and practice and procedure before such officers. See section 636 of this title.
 
 #### Change of Name
 

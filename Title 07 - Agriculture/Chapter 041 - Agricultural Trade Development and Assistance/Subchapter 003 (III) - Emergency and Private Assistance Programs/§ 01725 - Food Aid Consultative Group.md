@@ -36,7 +36,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Group.
 
 The Group shall terminate on December 31, 2002.
 
-(July 10, 1954, ch. 469, title II, §205, as added Nov. 11, 1966, Pub. L. 89–808, §2(C), 80 Stat. 1535; amended Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3639; Apr. 4, 1996, Pub. L. 104–127, title II, §210, 110 Stat. 955.)
+(July 10, 1954, ch. 469, title II, §205, as added Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §210, Apr. 4, 1996, 110 Stat. 955.)
 
 #### References in Text
 

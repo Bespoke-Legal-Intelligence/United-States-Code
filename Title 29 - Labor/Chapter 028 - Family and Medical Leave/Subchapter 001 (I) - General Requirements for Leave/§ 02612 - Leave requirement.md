@@ -26,7 +26,7 @@
 
 #### (2) Alternative position
 
-&emsp;If an employee requests intermittent leave, or leave on a reduced leave schedule, under subparagraph (C) or (D) of subsection (a)(1) of this section, that is foreseeable based on planned medical treatment, the employer mayrequire such employee to transfer temporarily to an available alternative position offered by the employer for which the employee is qualified and that—
+&emsp;If an employee requests intermittent leave, or leave on a reduced leave schedule, under subparagraph (C) or (D) of subsection (a)(1) of this section, that is foreseeable based on planned medical treatment, the employer may require such employee to transfer temporarily to an available alternative position offered by the employer for which the employee is qualified and that—
 
 &emsp;&emsp;(A) has equivalent pay and benefits; and
 

@@ -1,6 +1,6 @@
 ### §8479. Exculpatory provisions; insurance
 
-(a) Any provision in an agreement or instrument which purports to relieve a fiduciary from responsibility or liability for any responsibility, obligation, or duty under this subchapter shall be void.
+(a) Any provision in an agreement or instrument which purports to relieve a fiduciary fromresponsibility or liability for any responsibility, obligation, or duty under this subchapter shall be void.
 
 (b)(1) The Executive Director may require employing agencies to contribute an amount not to exceed 1 percent of the amount such agencies are required to contribute in accordance with section 8432(c) of this title to the Thrift Savings Fund.
 

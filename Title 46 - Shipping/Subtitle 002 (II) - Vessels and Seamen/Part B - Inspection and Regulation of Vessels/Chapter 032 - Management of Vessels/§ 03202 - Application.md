@@ -14,7 +14,7 @@ Mandatory Application.—This chapter applies to the following vessels engaged o
 
 (b)
 
-Voluntary Application.—This chapter applies to a vessel not described in subsection (a) of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
+Voluntary Application.—This chapter applies to a vessel not described in subsection (a)of this section if the owner of the vessel requests the Secretary to apply this chapter to the vessel.
 
 (c)
 

@@ -18,7 +18,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;In making a determination of the amount of non-Federal contributions for purposes of subsection (a) of this section, the Secretary shall, subject to paragraphs (1) and (2) of this subsection, include any non-Federal amounts expended pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] by the State involved toward the purpose described in paragraphs (1) and (2) of section 300k(a) of this title.
 
-(July 1, 1944, ch. 373, title XV, §1502, as added Aug. 10, 1990, Pub. L. 101–354, §2, 104 Stat. 410.)
+(July 1, 1944, ch. 373, title XV, §1502, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410.)
 
 #### References in Text
 

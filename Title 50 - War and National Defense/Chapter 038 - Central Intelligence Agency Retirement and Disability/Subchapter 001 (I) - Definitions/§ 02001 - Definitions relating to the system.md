@@ -148,7 +148,7 @@ Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 “(h) Annuity increases under sections 204 \[enacting section 221(<i>l</i>) of Pub. L. 88–643\] and 214 \[set out below\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase in annuity shall be paid for any period prior to August 1, 1974, or the date on which the annuity commences, whichever is later.”
 
-Pub. L. 93–210, §1(b), Dec. 28, 1973, 87 Stat. 908, provided that: “The amendments made by subsection (a) \[amending section 291(b) of Pub. L. 88–643\] shall applyonly with respect to annuities which commence on or after July 2, 1973.”
+Pub. L. 93–210, §1(b), Dec. 28, 1973, 87 Stat. 908, provided that: “The amendments made by subsection (a) \[amending section 291(b) of Pub. L. 88–643\] shall apply only with respect to annuities which commence on or after July 2, 1973.”
 
 Pub. L. 91–185, §6, Dec. 30, 1969, 83 Stat. 849, provided that:
 

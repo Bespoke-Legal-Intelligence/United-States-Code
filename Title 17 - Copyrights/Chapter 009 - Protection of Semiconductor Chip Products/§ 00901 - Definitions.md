@@ -20,7 +20,7 @@
 
 &emsp;(5) to “commercially exploit” a mask work is to distribute to the public for commercial purposes a semiconductor chip product embodying the mask work; except that such term includes an offer to sell or transfer a semiconductor chip product only when the offer is in writing and occurs after the mask work is fixed in the semiconductor chip product;
 
-&emsp;(6) the “owner” of a mask work is the person who created the mask work, the legal representative of that person if that person is deceased or under a legal incapacity, or a party to whom all the rights under this chapter of such person or representative are transferred in accordance with section 903(b); except that, in the case of a work made within the scope ofa person's employment, the owner is the employer for whom the person created the mask work or a party to whom all the rights under this chapter of the employer are transferred in accordance with section 903(b);
+&emsp;(6) the “owner” of a mask work is the person who created the mask work, the legal representative of that person if that person is deceased or under a legal incapacity, or a party to whom all the rights under this chapter of such person or representative are transferred in accordance with section 903(b); except that, in the case of a work made within the scope of a person's employment, the owner is the employer for whom the person created the mask work or a party to whom all the rights under this chapter of the employer are transferred in accordance with section 903(b);
 
 &emsp;(7) an “innocent purchaser” is a person who purchases a semiconductor chip product in good faith and without having notice of protection with respect to the semiconductor chip product;
 

@@ -12,7 +12,7 @@ For purposes of this subchapter, the term “qualifying event” means, with res
 
 &emsp;(5) A dependent child ceasing to be a dependent child under the generally applicable requirements of the plan.
 
-(July 1, 1944, ch. 373, title XXII, §2203, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 234.)
+(July 1, 1944, ch. 373, title XXII, §2203, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 234.)
 
 #### References in Text
 

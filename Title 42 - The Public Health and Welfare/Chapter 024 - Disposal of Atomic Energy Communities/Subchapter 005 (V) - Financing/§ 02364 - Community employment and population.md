@@ -8,7 +8,7 @@ The indemnity obligation specified in section 2363 of this title shall arise onl
 
 > For purposes of this section employment shall be determined on the basis of the pay period or periods ending nearest the 15th of each month.
 
-(Aug. 4, 1955, ch. 543, ch. 6, §64, 69 Stat. 479; Sept. 28, 1962, Pub. L. 87–719, §§18, 19, 76 Stat. 666.)
+(Aug. 4, 1955, ch. 543, ch. 6, §64, 69 Stat. 479; Pub. L. 87–719, §§18, 19, Sept. 28, 1962, 76 Stat. 666.)
 
 #### Amendments
 

@@ -128,7 +128,7 @@
 | (j) | Equity skimming penalty. |
 | [1485\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001485%20-%20Housing%20and%20related%20facilities%20for%20elderly%20persons%20and%20families%20or%20other%20persons%20and%20families%20of%20low%20income.md) | Housing and related facilities for elderly persons and families or other persons and families of low income. |
 | (a) | Direct loans; authorization; terms and conditions; revolving fund; appropriation. |
-| (b) | Insurance of loans; authorization; terms and conditions; utilization of Agricultural Credit Insurance Fund; expiration date. |
+| (b) | Insurance of loans; authorization; terms and conditions; utilization of Agricultural Credit Insurance Fund. |
 | (c) | Equity recapture loans and loans to nonprofit organizations and public agencies. |
 | (d) | Construction requirements; detached units for cooperative housing. |
 | (e) | Definitions. |
@@ -240,7 +240,6 @@
 | (g) | Annual review and audit by Secretary of activities; adjustment, etc., of resources; reallocation of amounts. |
 | (h) | Rules and regulations; delegation of authority. |
 | (i) | National historic preservation objectives affected by rehabilitation activities; establishment of procedures for determining consonant purposes and measures. |
-| (j) | Reporting requirements. |
 | [1490n.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490n%20-%20Review%20of%20rules%20and%20regulations.md) | Review of rules and regulations. |
 | (a) | Publication for public comment in Federal Register. |
 | (b) | Transmittal to Congressional committee members prior to publication in Federal Register. |
@@ -285,7 +284,7 @@
 | (r) | Report. |
 | (s) | Definitions. |
 | (t) | Authorization of appropriations. |
-| (u) | Termination date. |
+| (u) | Tax-exempt financing. |
 | [1490q.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490q%20-%20Disaster%20assistance.md) | Disaster assistance. |
 | (a) | Authority. |
 | (b) | Use. |

@@ -78,7 +78,7 @@ The Council shall meet at least quarterly and in such places as the Council deem
 
 The Council shall—
 
-&emsp;(1) advise and assist the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Defense, the Secretary of the Interior, the Secretary of Agriculture, and the Commissioner of Social Security in the performance of their responsibilities related to serving children from birth through age 5 who are eligible for services under this subchapter or under subchapter II of this chapter;
+&emsp;(1) advise and assist the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Defense, the Secretary of the Interior, the Secretary of Agriculture, and the Commissioner of Social Security in the performance of their responsibilities related to serving children from birththrough age 5 who are eligible for services under this subchapter or under subchapter II of this chapter;
 
 &emsp;(2) conduct policy analyses of Federal programs related to the provision of early intervention services and special educational and related services to infants and toddlers with disabilities and their families, and preschool children with disabilities, in order to determine areas of conflict, overlap, duplication, or inappropriate omission;
 

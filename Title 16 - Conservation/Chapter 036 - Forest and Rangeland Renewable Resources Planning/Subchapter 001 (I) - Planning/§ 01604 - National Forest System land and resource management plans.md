@@ -34,7 +34,7 @@ Plans developed in accordance with this section shall—
 
 &emsp;(3) be prepared by an interdisciplinary team. Each team shall prepare its plan based on inventories of the applicable resources of the forest;
 
-&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with theprovisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
+&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
 
 &emsp;(5) be revised (A) from time to time when the Secretary finds conditions in a unit have significantly changed, but at least every fifteen years, and (B) in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section.
 
@@ -42,7 +42,7 @@ Plans developed in accordance with this section shall—
 
 As soon as practicable, but not later than two years after October 22, 1976, the Secretary shall in accordance with the procedures set forth in section 553 of title 5, promulgate regulations, under the principles of the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\] that set out the process for the development and revision of the land management plans, and the guidelines and standards prescribed by this subsection. The regulations shall include, but not be limited to—
 
-&emsp;(1) specifying procedures to insure that land management plans are prepared in accordance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], including, but not limited to, direction on when and for what plans an environmental impact statement required under section 102(2)(C) of that Act \[42 U.S.C. 4332(2)(C)\] shall be prepared;
+&emsp;(1) specifying procedures to insure that land management plans are prepared in accordance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], including, butnot limited to, direction on when and for what plans an environmental impact statement required under section 102(2)(C) of that Act \[42 U.S.C. 4332(2)(C)\] shall be prepared;
 
 &emsp;(2) specifying guidelines which—
 
@@ -90,7 +90,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 (2) Clerical and technical assistance, as may be necessary to discharge the duties of the committee, shall be provided from the personnel of the Department of Agriculture.
 
-(3) While attending meetings of the committee, the members shall be entitled to receive compensation at a rate of $100 per diem, including traveltime, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
+(3) While attending meetings of the committee, the members shall be entitled to receive compensation at a rate of $100 per diem, including traveltime, and while away from theirhomes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
 #### (i) Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision
 
@@ -120,7 +120,7 @@ The Secretary shall establish—
 
 &emsp;(2) exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
 
-(Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L.94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958.)
+(Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L. 94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958.)
 
 #### References in Text
 

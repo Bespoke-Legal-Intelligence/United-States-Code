@@ -8,7 +8,7 @@ It is the sense of the Congress that in order to maintain and enhance internatio
 
 &emsp;(3) encourage the deferral of efforts to produce weapons-grade nuclear material for large-scale commercial uses until such time as safeguards are developed that can detect, on a timely and reliable basis, the diversion of significant quantities of such material for nuclear explosive purposes;
 
-&emsp;(4) pursue greater financial support for the implementation and improvement of safeguards from all IAEA member nations with significant nuclear programs, particularly from those nations that are currently using or planning to use weapons-grade nuclear material for commercial purposes;
+&emsp;(4) pursue greater financial support for the implementation and improvement of safeguards from all IAEA member nations with significant nuclear programs, particularly from those nations that are currently using orplanning to use weapons-grade nuclear material for commercial purposes;
 
 &emsp;(5) arrange for the timely payment of annual financial contributions by all members of the IAEA, including the United States;
 

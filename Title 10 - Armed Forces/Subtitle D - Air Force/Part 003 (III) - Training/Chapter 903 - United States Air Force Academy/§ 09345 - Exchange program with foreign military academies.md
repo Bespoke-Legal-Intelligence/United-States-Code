@@ -10,7 +10,7 @@ Limitations on Number and Duration of Exchanges.—An exchange agreement under t
 
 (c)
 
-Costs and Expenses.—(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of an Air Force cadet by reason of attendance at the Air Force Academy under the exchange program, and the Department of Defense may not incur any cost of international travel requiredfor transportation of such a student to and from the sponsoring foreign country.
+Costs and Expenses.—(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of an Air Force cadet by reason of attendance at the Air Force Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
 (2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged Air Force cadet in that foreign country.
 

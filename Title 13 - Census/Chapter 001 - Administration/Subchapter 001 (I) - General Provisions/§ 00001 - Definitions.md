@@ -8,7 +8,7 @@ As used in this title, unless the context requires another meaning or unless it 
 
 &emsp;(3) “respondent” includes a corporation, company, association, firm, partnership, proprietorship, society, joint stock company, individual, or other organization or entity which reported information, or on behalf of which information was reported, in response to a questionnaire, inquiry, or other request of the Bureau.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1012; Oct. 17, 1976, Pub. L. 94–521, §1, 90 Stat. 2459.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1012; Pub. L. 94–521, §1, Oct. 17, 1976, 90 Stat. 2459.)
 
 #### Historical and Revision Notes
 

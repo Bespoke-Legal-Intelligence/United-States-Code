@@ -80,7 +80,7 @@ Nothing in this section shall authorize or require any department, agency, or ot
 
 #### (k) Authorization of appropriations
 
-Unless the State program is disapproved under this section, the Administrator shall make grants to the State for not less than 50 or more than 90 percent of the costs incurred by a State (as determined by the Administrator) in developing and implementing each State program under this section. For purposes of making such grants there is authorized to be appropriated not more than the following amounts:
+Unless the State program is disapproved under this section, the Administrator shall makegrants to the State for not less than 50 or more than 90 percent of the costs incurred by a State (as determined by the Administrator) in developing and implementing each State program under this section. For purposes of making such grants there is authorized to be appropriated not more than the following amounts:
 
 &nbsp;
 
@@ -93,7 +93,7 @@ Unless the State program is disapproved under this section, the Administrator sh
 | &nbsp;&nbsp;1991 | 35,000,000&nbsp;&nbsp; |
 | &nbsp;&nbsp;1992–2003 | 30,000,000. |
 
-(July 1, 1944, ch. 373, title XIV, §1428, as added and amended June 19, 1986, Pub. L. 99–339, title II, §205, title III, §301(e), 100 Stat. 660, 664; Aug. 6, 1996, Pub. L. 104–182, title I, §§120(b), 132(b), title V, §501(f)(4), 110 Stat. 1650, 1674, 1692.)
+(July 1, 1944, ch. 373, title XIV, §1428, as added and amended Pub. L. 99–339, title II, §205, title III, §301(e), June 19, 1986, 100 Stat. 660, 664; Pub. L. 104–182, title I, §§120(b), 132(b), title V, §501(f)(4), Aug. 6, 1996, 110 Stat. 1650, 1674, 1692.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ In accordance with regulations of the Farm Credit Administration, qualified lend
 
 &emsp;(1) the current rate of interest on the loan;
 
-&emsp;(2) in the case of an adjustable or variable rate loan, the amount and frequency by which the interest rate can be increased during the term of the loan or, if there are no such limitations, a statement to that effect, and the factors (including the cost of funds, operating expenses, and provision for loan losses) that will be taken into account by the qualified lender in determining adjustments to the interest rate;
+&emsp;(2) in the case of an adjustable or variable rate loan, the amount and frequency by which the interest rate can be increased during the term of the loan or, if there are no such limitations, a statement to that effect, and thefactors (including the cost of funds, operating expenses, and provision for loan losses) that will be taken into account by the qualified lender in determining adjustments to the interest rate;
 
 &emsp;(3) the effect, as shown by a representative example or examples, of any loan origination charges or purchases of stock or participation certificates on the effective rate of interest;
 
@@ -34,7 +34,7 @@ The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90�
 
 #### Prior Provisions
 
-A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub.L. 99–205, title III, §301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
+A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub. L. 99–205, title III, §301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to section 2201 of this title.
 
 #### Amendments
 

@@ -8,9 +8,9 @@ For the purposes of this chapter—
 
 &emsp;(3) the term “nonprofit” as applied to any agency, institution, or organization means an agency, institution, or organization which is, or is owned and operated by, one or more corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual;
 
-&emsp;(4) the term “poor” or “low-income” persons, individuals, or volunteers means such individuals whose incomes fall at or below the poverty line as set forth in section 2971d <sup>1</sup> of this title: <i>Provided</i>, That in determining who is “poor” or “low-income”, the Director shall take into consideration existing poverty guidelines as appropriate to local situations;
+&emsp;(4) the term “poor” or “low-income” persons, individuals, or volunteers means such individuals whose incomes fall at or below the poverty line as set forth in section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92–424 (42 U.S.C. 2971d): <sup>1</sup> <i>Provided</i>, That in determining who is “poor” or “low-income”, the Director shall take into consideration existing poverty guidelines as appropriate to local situations;
 
-&emsp;(5) the terms “public agencies or organizations” and “Federal, State, or local agencies” shall include any Indian tribe, band, nation, or other organized group or community (including any Alaskan native village or regional village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]) which is recognized by the United States or the State in which it resides as eligible for special programs and services provided to Indians because of their status as Indians;
+&emsp;(5) the terms “public agencies or organizations” and “Federal, State, or local agencies” shall include any Indian tribe, band, nation, orother organized group or community (including any Alaskan native village or regional village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]) which is recognized by the United States or the State in which it resides as eligible for special programs and services provided to Indians because of their status as Indians;
 
 &emsp;(6) the term “poverty line for a single individual” means such poverty line as established by the Director of the Office of Management and Budget in accordance with section 9902(2) of this title;
 
@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 &emsp;(10) the term “Foster Grandparent Program” means the program established under part B of subchapter II of this chapter;
 
-&emsp;(11) except as provided in section 5057 of this title, the term “individual with a disability” has the meaning given the term in section 706(8)(B) of title 29;
+&emsp;(11) except as provided in section 5057 of this title, the term “individual with a disability” has the meaning given the term in section 705(20)(B) of title 29;
 
 &emsp;(12) the term “Inspector General” means the Inspector General of the Corporation;
 
@@ -42,15 +42,17 @@ For the purposes of this chapter—
 
 &emsp;(20) the term “VISTA volunteer” means a volunteer in VISTA.
 
-(Pub. L. 93–113, title IV, §421, Oct. 1, 1973, 87 Stat. 414; Pub. L. 99–551, §§6(b), 10(h), Oct. 27, 1986, 100 Stat. 3074, 3078; Pub. L. 101–204, title IV, §403, title V, §502(b), Dec. 7, 1989, 103 Stat. 1815, 1817; Pub. L. 103–82, title IV, §§401, 404, 405(a)(10), Sept. 21, 1993, 107 Stat. 917, 920, 921.)
+(Pub. L. 93–113, title IV, §421, Oct. 1, 1973, 87 Stat. 414; Pub. L. 99–551, §§6(b), 10(h), Oct. 27, 1986, 100 Stat. 3074, 3078; Pub. L. 101–204, title IV, §403, title V, §502(b), Dec. 7, 1989, 103 Stat. 1815, 1817; Pub. L. 103–82, title IV, §§401, 404, 405(a)(10), Sept. 21, 1993, 107 Stat. 917, 920, 921; Pub. L. 105–220, title IV, §414(e), Aug. 7, 1998, 112 Stat. 1242.)
 
 #### References in Text
 
-Section 2971d of this title, referred to in par. (4), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
+Section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92–424 (42 U.S.C. 2971d), referred to in par. (4), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Section 9924 of this title provides that any reference in any provision of law to the poverty line set forth in section 625 of the Economic Opportunity Act of 1964 is to be construed to be a reference to the poverty line defined in section 9902 of this title.
 
 The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
+
+1998—Par. (11). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
 
 1993—Par. (1). Pub. L. 103–82, §404, added par. (1) and struck out former par. (1) which read as follows: “the term ‘Director’ means the Director of the ACTION Agency;”.
 

@@ -26,7 +26,7 @@ Each State may use funds made available under section 6643(1)(A) of this title t
 
 &emsp;(10) providing financial or other incentives for teachers to become certified by nationally recognized professional teacher enhancement organizations;
 
-&emsp;(11) providing professional development activities which prepare teachers, and where appropriate, pupil services personnel, paraprofessionals, and other staff in the collaborative skills needed to appropriately teach children with disabilities, in the core academic subjects;
+&emsp;(11) providing professional development activities which prepare teachers, and where appropriate, pupil services personnel, paraprofessionals, and other staff in the collaborative skills needed to appropriately teach childrenwith disabilities, in the core academic subjects;
 
 &emsp;(12) identifying, developing, or supporting professional development strategies to better equip parents to assist their children in raising their children's achievement in the core academic subjects; and
 

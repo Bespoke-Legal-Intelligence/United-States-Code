@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) Such country is a party to an arrangement of countries and participates in any action pursuant to such arrangement, the effect of which is—
 
-&emsp;&emsp;&emsp;(i) to withhold supplies of vital commodity resources from international trade or to raise the price of such commodities to an unreasonable level, and
+&emsp;&emsp;&emsp;(i) to withhold supplies of vital commodity resources from international trade orto raise the price of such commodities to an unreasonable level, and
 
 &emsp;&emsp;&emsp;(ii) to cause serious disruption of the world economy.
 

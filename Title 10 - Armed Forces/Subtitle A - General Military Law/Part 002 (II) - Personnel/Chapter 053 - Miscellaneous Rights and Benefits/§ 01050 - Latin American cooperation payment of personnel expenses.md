@@ -1,68 +1,68 @@
 ### §1050. Latin American cooperation: payment of personnel expenses
 
-The Secretary of a military department may pay the travel, subsistence, and special compensation of officers and students of Latin American countries and other expenses that the Secretary considers necessary for Latin American cooperation.
+The Secretary of Defense or the Secretary of a military department may pay the travel, subsistence, and special compensation of officers and students of Latin American countries and other expenses that the Secretary considers necessary for Latin American cooperation.
 
-(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2616.)
+(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, §905(b), Oct. 17, 1998, 112 Stat. 2093.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8006\], 98 Stat. 1904, 1923.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8006\], Oct. 12, 1984, 98 Stat. 1904, 1923.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, §709, 97 Stat. 1439.
+Pub. L. 98–212, title VII, §709, Dec. 8, 1983, 97 Stat. 1439.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, §101(c) \[title VII, §709\], 96 Stat. 1833, 1851.
+Pub. L. 97–377, title I, §101(c) \[title VII, §709\], Dec. 21, 1982, 96 Stat. 1833, 1851.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, §709, 95 Stat. 1579.
+Pub. L. 97–114, title VII, §709, Dec. 29, 1981, 95 Stat. 1579.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, §709, 94 Stat. 3081.
+Pub. L. 96–527, title VII, §709, Dec. 15, 1980, 94 Stat. 3081.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, §709, 93 Stat. 1153.
+Pub. L. 96–154, title VII, §709, Dec. 21, 1979, 93 Stat. 1153.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, §809, 92 Stat. 1244.
+Pub. L. 95–457, title VIII, §809, Oct. 13, 1978, 92 Stat. 1244.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, §808, 91 Stat. 900.
+Pub. L. 95–111, title VIII, §808, Sept. 21, 1977, 91 Stat. 900.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, §708, 90 Stat. 1292.
+Pub. L. 94–419, title VII, §708, Sept. 22, 1976, 90 Stat. 1292.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, §708, 90 Stat. 169.
+Pub. L. 94–212, title VII, §708, Feb. 9, 1976, 90 Stat. 169.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, §808, 88 Stat. 1225.
+Pub. L. 93–437, title VIII, §808, Oct. 8, 1974, 88 Stat. 1225.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, §708, 87 Stat. 1039.
+Pub. L. 93–238, title VII, §708, Jan. 2, 1974, 87 Stat. 1039.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, §708, 86 Stat. 1197.
+Pub. L. 92–570, title VII, §708, Oct. 26, 1972, 86 Stat. 1197.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, §708, 85 Stat. 728.
+Pub. L. 92–204, title VII, §708, Dec. 18, 1971, 85 Stat. 728.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, §808, 84 Stat. 2031.
+Pub. L. 91–668, title VIII, §808, Jan. 11, 1971, 84 Stat. 2031.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, §608, 83 Stat. 480.
+Pub. L. 91–171, title VI, §608, Dec. 29, 1969, 83 Stat. 480.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, §507, 82 Stat. 1130.
+Pub. L. 90–580, title V, §507, Oct. 17, 1968, 82 Stat. 1130.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, §607, 81 Stat. 242.
+Pub. L. 90–96, title VI, §607, Sept. 29, 1967, 81 Stat. 242.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, §607, 80 Stat. 991.
+Pub. L. 89–687, title VI, §607, Oct. 15, 1966, 80 Stat. 991.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, §607, 79 Stat. 874.
+Pub. L. 89–213, title VI, §607, Sept. 29, 1965, 79 Stat. 874.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, §507, 78 Stat. 475.
+Pub. L. 88–446, title V, §507, Aug. 19, 1964, 78 Stat. 475.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, §507, 77 Stat. 264.
+Pub. L. 88–149, title V, §507, Oct. 17, 1963, 77 Stat. 264.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, §507, 76 Stat. 328.
+Pub. L. 87–577, title V, §507, Aug. 9, 1962, 76 Stat. 328.
 
-Aug. 17, 1961, Pub. L. 87–144, title II, §201, 75 Stat. 367, 369.
+Pub. L. 87–144, title II, §201, Aug. 17, 1961, 75 Stat. 367, 369.
 
-July 7, 1960, Pub. L. 86–601, title II, §201, 74 Stat. 341, 343.
+Pub. L. 86–601, title II, §201, July 7, 1960, 74 Stat. 341, 343.
 
-Aug. 18, 1959, Pub. L. 86–166, title II, §201, 73 Stat. 369, 371.
+Pub. L. 86–166, title II, §201, Aug. 18, 1959, 73 Stat. 369, 371.
 
-Aug. 22, 1958, Pub. L. 85–724, title III, §301, title V, §501, 72 Stat. 714, 721.
+Pub. L. 85–724, title III, §301, title V, §501, Aug. 22, 1958, 72 Stat. 714, 721.
 
-Aug. 2, 1957, Pub. L. 85–117, title III, §301, title V, §501, 71 Stat. 314, 321.
+Pub. L. 85–117, title III, §301, title V, §501, Aug. 2, 1957, 71 Stat. 314, 321.
 
 July 2, 1956, ch. 488, title III, §301, title V, §501, 70 Stat. 457, 465.
 
@@ -94,11 +94,15 @@ July 1, 1943, ch. 185, §1, 57 Stat. 365.
 
 July 2, 1942, ch. 477, §1, 56 Stat. 628.
 
+#### Amendments
+
+1998—Pub. L. 105–261 inserted “Secretary of Defense or the” before “Secretary of a military department”.
+
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1051 of this title.
+This section is referred to in sections 1051, 2165 of this title.
 

@@ -16,5 +16,5 @@ This subpart may not be construed to authorize or require any medical facility, 
 
 This subpart may not be construed to authorize any emergency response employee to fail to respond, or to deny services, to any victim of an emergency.
 
-(July 1, 1944, ch. 373, title XXVI, §2688, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 627.)
+(July 1, 1944, ch. 373, title XXVI, §2688, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 627.)
 

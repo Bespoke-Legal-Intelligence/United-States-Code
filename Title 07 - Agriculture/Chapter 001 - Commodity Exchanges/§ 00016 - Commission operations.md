@@ -50,7 +50,7 @@ Nothing in this chapter shall supersede or preempt—
 
 Consistent with its responsibilities under section 22 of this title, the Commission is directed to facilitate the development and operation of computerized trading as an adjunct to the open outcry auction system. The Commission is further directed to cooperate with the Office of the United States Trade Representative, the Department of the Treasury, the Department of Commerce, and the Department of State in order to remove any trade barriers that may be imposed by a foreign nation on the international use of electronic trading systems.
 
-(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Oct. 23, 1974, Pub. L. 93–463, title I, §101(b), 88 Stat. 1391; Sept. 30, 1978, Pub. L. 95–405, §20, 92 Stat. 875; Jan. 11, 1983, Pub. L. 97–444, title II, §§228, 229, 96 Stat. 2318; Nov. 10, 1986, Pub. L. 99–641, title I, §106, 100 Stat. 3558; Oct. 28, 1992, Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), 106 Stat. 3611, 3614, 3622, 3624, 3631; Apr. 21, 1995, Pub. L. 104–9, §2, 109 Stat. 154.)
+(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154.)
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 102–546, §220(a), added subsec. (g).
 
 1986—Subsec. (d). Pub. L. 99–641 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be required for each of the fiscal years during the period beginning October 1, 1982, and ending September 30, 1986.”
 
-1983—Subsec. (d). Pub. L. 97–444, §228, substituted appropriation authorization for fiscal years during periodbeginning Oct. 1, 1982, and ending Sept. 30, 1986, for prior authorization for fiscal years during period beginning Oct. 1, 1978, and ending Sept. 30, 1982.
+1983—Subsec. (d). Pub. L. 97–444, §228, substituted appropriation authorization for fiscal years during period beginning Oct. 1, 1982, and ending Sept. 30, 1986, for prior authorization for fiscal years during period beginning Oct. 1, 1978, and ending Sept. 30, 1982.
 
 Subsec. (e). Pub. L. 97–444, §229, added subsec. (e).
 

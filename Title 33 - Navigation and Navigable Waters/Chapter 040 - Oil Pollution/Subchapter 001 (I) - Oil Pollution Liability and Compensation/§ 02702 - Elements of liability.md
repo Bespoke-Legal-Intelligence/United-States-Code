@@ -12,7 +12,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 &emsp;&emsp;(A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (<i>l</i>) of section 1321 of this title, under the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.), or under State law; and
 
-&emsp;&emsp;(B) any removal costs incurred by any person for acts taken by the person which are consistent with the National Contingency Plan.
+&emsp;&emsp;(B) any removal costs incurred by any person for acts taken by the person which areconsistent with the National Contingency Plan.
 
 #### (2) Damages
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 #### (C) Subsistence use
 
-&emsp;&emsp;Damages for loss of subsistence use of natural resources, which shall be recoverable byany claimant who so uses natural resources which have been injured, destroyed, or lost, without regard to the ownership or management of the resources.
+&emsp;&emsp;Damages for loss of subsistence use of natural resources, which shall be recoverable by any claimant who so uses natural resources which have been injured, destroyed, or lost, without regard to the ownership or management of the resources.
 
 #### (D) Revenues
 

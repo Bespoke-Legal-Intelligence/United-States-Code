@@ -26,7 +26,7 @@ For purposes of this section, the term “Federal fund” means—
 
 &emsp;(4) the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XI, §1145, as added Mar. 29, 1996, Pub. L. 104–121, title I, §107(a), 110 Stat. 856.)
+(Aug. 14, 1935, ch. 531, title XI, §1145, as added Pub. L. 104–121, title I, §107(a), Mar. 29, 1996, 110 Stat. 856.)
 
 #### Effective Date
 

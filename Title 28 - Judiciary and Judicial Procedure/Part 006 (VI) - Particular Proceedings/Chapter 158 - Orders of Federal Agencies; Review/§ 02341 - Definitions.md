@@ -46,15 +46,15 @@ Section 812 of the Fair Housing Act, referred to in par. (3)(D), is classified t
 
 #### Amendments
 
-<b>1995</b>—Par. (3)(A). Pub. L. 104–88, §305(d)(1), struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
+1995—Par. (3)(A). Pub. L. 104–88, §305(d)(1), struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
 
 Par. (3)(E). Pub. L. 104–88, §305(d)(2)–(4), added subpar. (E).
 
-<b>1992</b>—Par. (3)(B). Pub. L. 102–365 inserted “or the Secretary of Transportation” after “Secretary of Agriculture”.
+1992—Par. (3)(B). Pub. L. 102–365 inserted “or the Secretary of Transportation” after “Secretary of Agriculture”.
 
-<b>1988</b>—Par. (3)(D). Pub. L. 100–430 added subpar. (D).
+1988—Par. (3)(D). Pub. L. 100–430 added subpar. (D).
 
-<b>1975</b>—Par. (3)(A). Pub. L. 93–584 inserted reference to the Interstate Commerce Commission.
+1975—Par. (3)(A). Pub. L. 93–584 inserted reference to the Interstate Commerce Commission.
 
 #### Effective Date of 1995 Amendment
 

@@ -22,7 +22,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 #### (c) Additional requirements and limitations respecting funds appropriated for operating expenses
 
-(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorizationAct for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
+(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
 
 (2) No funds may be obligated for expenditure or expended under paragraph (1) for activities described in such paragraph unless—
 
@@ -60,7 +60,7 @@ The Administrator is authorized to perform construction design services for any 
 
 When so specified in appropriation Acts, any moneys received by the Administration may be retained and used for operating expenses, and may remain available until expended, notwithstanding the provisions of section 3302(b) of title 31; except that—
 
-&emsp;(1) this subsection shall not apply with respect to sums received from disposal of property under the Atomic Energy Community Act of 1955 \[42 U.S.C. 2301 et seq.\] or the Strategicand Critical Materials Stockpiling Act, as amended \[50 U.S.C. 98 et seq.\], or with respect to fees received for tests or investigations under the Act of May 16, 1910, as amended (30 U.S.C. 7); and
+&emsp;(1) this subsection shall not apply with respect to sums received from disposal of property under the Atomic Energy Community Act of 1955 \[42 U.S.C. 2301 et seq.\] or the Strategic and Critical Materials Stockpiling Act, as amended \[50 U.S.C. 98 et seq.\], or with respect to fees received for tests or investigations under the Act of May 16, 1910, as amended (30 U.S.C. 7); and
 
 &emsp;(2) revenues received by the Administration from the enrichment of uranium shall (when so specified) be retained and used for the specific purpose of offsetting costs incurred by the Administration in providing uranium enrichment service activities.
 
@@ -124,7 +124,7 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 
 Section 209 of title II of Pub. L. 95–238 provided that:
 
-“(a) Nothing in this title \[enacting this section and sections 5556a and 5919 of this title, amending sections 2391, 2394, 5905, 5906, and 5914 of this title, and enacting provisions set out as notes under section 7256 of this title and section 2429 of Title 22, Foreign Relations and Intercourse\] shall apply with respect to any authorization or appropriation for any military application of nuclear energy, for research and development in support of the Armed Forces, or for the common defense and security of the United States.
+“(a) Nothing in this title \[enacting this section and sections 5556a and 5919 of this title, amending sections 2391, 2394, 5905, 5906, and 5914 of this title, and enacting provisions set out as notes under section 7256 of this title and section 2429 of Title 22, Foreign Relations andIntercourse\] shall apply with respect to any authorization or appropriation for any military application of nuclear energy, for research and development in support of the Armed Forces, or for the common defense and security of the United States.
 
 “(b)(1) The term ‘military application’ means any activity authorized or permitted by chapter 9 of the Atomic Energy Act of 1954, as amended (Public Law 83–703, as amended; 42 U.S.C. 2121, 2122).
 

@@ -2,7 +2,7 @@
 
 A judgment in an action for the recovery of money or property entered in any court of appeals, district court, bankruptcy court, or in the Court of International Trade may be registered by filing a certified copy of the judgment in any other district or, with respect to the Court of International Trade, in any judicial district, when the judgment has become final by appeal or expiration of the time for appeal or when ordered by the court that entered the judgment for good cause shown. Such a judgment entered in favor of the United States may be so registered any time after judgment is entered. A judgment so registered shall have the same effect as a judgment of the district court of the district where registered and may be enforced in like manner.
 
-A certified copy of the satisfaction of any judgment in whole or in part may be registeredin like manner in any district in which the judgment is a lien.
+A certified copy of the satisfaction of any judgment in whole or in part may be registered in like manner in any district in which the judgment is a lien.
 
 The procedure prescribed under this section is in addition to other procedures provided by law for the enforcement of judgments.
 
@@ -22,15 +22,15 @@ The phrase “for the recovery of money or property” was not in the committee'
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–317 in section catchline substituted “for enforcement in other districts” for “of the district courts and the Court of International Trade”, in first undesignated par. substituted “court of appeals, district court, bankruptcy court,” for “district court” and “copy of the judgment” for “copy of such judgment”, and added undesignated par. at end.
+1996—Pub. L. 104–317 in section catchline substituted “for enforcement in other districts” for “of the district courts and the Court of International Trade”, in first undesignated par. substituted “court of appeals, district court, bankruptcy court,” for “district court” and “copy of the judgment” for “copy of such judgment”, and added undesignated par. at end.
 
-<b>1990</b>—Pub. L. 101–647 inserted after first sentence “Such a judgment entered in favor of the United States may be so registered any time after judgment is entered.”
+1990—Pub. L. 101–647 inserted after first sentence “Such a judgment entered in favor of the United States may be so registered any time after judgment is entered.”
 
-<b>1988</b>—Pub. L. 100–702 substituted “Registration of judgments of the district courts and the Court of International Trade” for “Registration in other districts” in section catchline and amended first sentence generally. Prior to amendment, first sentence read as follows: “A judgment in an action for the recovery of money or property now or hereafter entered in any district court which has become final by appeal or expiration of time for appeal may be registered in any other district by filing therein a certified copy of such judgment.”
+1988—Pub. L. 100–702 substituted “Registration of judgments of the district courts and the Court of International Trade” for “Registration in other districts” in section catchline and amended first sentence generally. Prior to amendment, first sentence read as follows: “A judgment in an action for the recovery of money or property now or hereafter entered in any district court which has become final by appeal or expiration of time for appeal may be registered in any other district by filing therein a certified copy of such judgment.”
 
-<b>1958</b>—Pub. L. 85–508 struck out provisions which extended provisions of section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Pub. L. 85–508 struck out provisions which extended provisions of section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-<b>1954</b>—Act Aug. 23, 1954, extended provisions of section to District Court for Territory of Alaska.
+1954—Act Aug. 23, 1954, extended provisions of section to District Court for Territory of Alaska.
 
 #### Effective Date of 1990 Amendment
 

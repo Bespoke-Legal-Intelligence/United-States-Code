@@ -82,7 +82,7 @@ Section 402 of Pub. L. 88–647 provided that: “If a part of this Act \[see Sh
 
 Pub. L. 96–342, title VI, §602, Sept. 8, 1980, 94 Stat. 1087, as amended by Pub. L. 97–86, title VII, §702(a), Dec. 1, 1981, 95 Stat. 1111; Pub. L. 97–252, title VII, §702, Sept. 8, 1982, 96 Stat. 728; Pub. L. 98–94, title VII, §702, Sept. 24, 1983, 97 Stat. 634, provided that: “Notwithstanding the provisions of section 2031(b) of title 10, United States Code, relating to the establishment and maintenance of units of the Junior Reserve Officers’ Training Corps, during the period beginning on September 1, 1980, and ending on August 31, 1984, the Secretary of any military department may maintain a unit of the Junior Reserve Officers’ Training Corps at any public or private secondary educational institution if—
 
-&emsp;“(1) the number of physically fit students in such unit who are at least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less; and
+&emsp;“(1) the number of physically fit students in such unit who are at least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in theinstitution who are at least 14 years of age, or (B) 100, whichever is less; and
 
 &emsp;“(2) the unit meets such other requirements (in addition to the requirements prescribed by section 2031(b) of title 10, United States Code) as may be established by the Secretary of the military department concerned.”
 

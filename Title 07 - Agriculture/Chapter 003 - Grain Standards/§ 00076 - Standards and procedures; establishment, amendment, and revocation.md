@@ -32,7 +32,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 (ii) Following the phase-in period referred to in clause (i)(III), subsequent revision of cleanliness requirements shall be conducted consistent with the schedule of the Secretary for reviewing grain standards.
 
-(C) If the Secretary determines to establish requirements for cleanliness characteristics underthis section, the Secretary shall ensure that such requirements are fully implemented not later than 6 years after November 28, 1990.
+(C) If the Secretary determines to establish requirements for cleanliness characteristics under this section, the Secretary shall ensure that such requirements are fully implemented not later than 6 years after November 28, 1990.
 
 #### (c) Grade determining factors related to physical soundness and purity; notice and opportunity for comment
 
@@ -44,7 +44,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 If the Government of any country requests that moisture content remain a criterion in the official grade designations of grain, such criterion shall be included in determining the official grade designation of grain shipped to such country.
 
-(Aug. 11, 1916, ch. 313, pt. B, §4, 39 Stat. 483; Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 762; Oct. 21, 1976, Pub. L. 94–582, §5, 90 Stat. 2869; Sept. 29, 1977, Pub. L. 95–113, title XVI, §1604(c), 91 Stat. 1027; Dec. 23, 1985, Pub. L. 99–198, title XVI, §1671, 99 Stat. 1632; Nov. 28, 1990, Pub. L. 101–624, title XX, §§2005, 2006, 104 Stat. 3930; Nov. 24, 1993, Pub. L. 103–156, §12(b), 107 Stat. 1528; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §4, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 762; Pub. L. 94–582, §5, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, §1604(c), Sept. 29, 1977, 91 Stat. 1027; Pub. L. 99–198, title XVI, §1671, Dec. 23, 1985, 99 Stat. 1632; Pub. L. 101–624, title XX, §§2005, 2006, Nov. 28, 1990, 104 Stat. 3930; Pub. L. 103–156, §12(b), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Pub. L. 99–641, title III, §307, Nov. 10, 1986, 100 Stat. 3566, as amended by
 
 “(a)
 
-Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of the need for and availability of uniform end-use value tests for grain. The study shall include the following:
+Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of theneed for and availability of uniform end-use value tests for grain. The study shall include the following:
 
 &emsp;“(1) A survey of domestic and foreign buyers of grain to identify the information about grain characteristics that would be most useful to such buyers. The survey shall take into account those factors that buyers specify in contracts, test for, measure, or would measure if tests were available, including—
 
@@ -110,7 +110,7 @@ End-Use Tests.—
 
 &emsp;“(1)
 
-Ongoing review.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to maintain an ongoing review to determine the end-use tests that areof economic value to buyers, and the availability and costs of such tests.
+Ongoing review.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to maintain an ongoing review to determine the end-use tests that are of economic value to buyers, and the availability and costs of such tests.
 
 &emsp;“(2)
 

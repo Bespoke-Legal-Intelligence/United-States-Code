@@ -112,7 +112,7 @@ As used in this chapter:
 
 &emsp;The term “person” imports the plural or singular, and includes individuals, associations, partnerships, corporations, and trusts.
 
-(Sept. 21, 1922, ch. 369, §1a, as added Oct. 28, 1992, Pub. L. 102–546, title IV, §404(a), 106 Stat. 3625.)
+(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 Advances pursuant to this Act, in connection with the enforcement of the customs laws may be made, notwithstanding the provisions of section 3324(a) and (b) of title 31, from the appropriations available for the enforcement of such laws. The Secretary of the Treasury is authorized to prescribe such rules and regulations concerning advances made pursuant to this Act as are necessary or appropriate for the protection of the interests of the United States.
 
-(Mar. 28, 1928, ch. 266, §5, as added Aug. 7, 1939, ch. 566, §1, 53 Stat. 1263; amended Oct. 27, 1970, Pub. L. 91–513, title III, §1102(n)(4), 84 Stat. 1293.)
+(Mar. 28, 1928, ch. 266, §5, as added Aug. 7, 1939, ch. 566, §1, 53 Stat. 1263; amended Pub. L. 91–513, title III, §1102(n)(4), Oct. 27, 1970, 84 Stat. 1293.)
 
 #### References in Text
 

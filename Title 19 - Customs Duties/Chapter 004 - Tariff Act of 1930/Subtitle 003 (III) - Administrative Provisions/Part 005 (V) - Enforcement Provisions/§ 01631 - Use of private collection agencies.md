@@ -20,7 +20,7 @@ Any contract entered into under subsection (a) of this section shall provide tha
 
 The debtor shall be assessed and pay any and all costs associated with collection efforts pursuant to this section. Notwithstanding section 3302(b) of title 31, any sum so collected shall be used to pay the costs of debt collection services.
 
-(June 17, 1930, ch. 497, title IV, §631, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §671, 107 Stat. 2217; amended Oct. 11, 1996, Pub. L. 104–295, §3(a)(9), 110 Stat. 3516.)
+(June 17, 1930, ch. 497, title IV, §631, as added Pub. L. 103–182, title VI, §671, Dec. 8, 1993, 107 Stat. 2217; amended Pub. L. 104–295, §3(a)(9), Oct. 11, 1996, 110 Stat. 3516.)
 
 #### References in Text
 

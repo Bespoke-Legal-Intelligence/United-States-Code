@@ -6,51 +6,43 @@ Preemption After Decision.—A State may not enforce a State law or regulation o
 
 (b)
 
-Analysis and Decisions by the Panel.—(1) The Commercial Motor Vehicle Safety Regulatory Review Panel annually shall analyze State laws and regulations and decide which of those laws and regulations are related to commercial motor vehicle safety.
-
-(2) Not later than one year after the date the Secretary prescribes a regulation under section 31136 of this title or one year after the date the Panel decides under paragraph (1) of this subsection that a State law or regulation is related to commercial motor vehicle safety, whichever is later, the Panel shall—
-
-&emsp;(A) decide whether the State law or regulation—
-
-&emsp;&emsp;(i) has the same effect as the regulation prescribed by the Secretary;
-
-&emsp;&emsp;(ii) is less stringent than that regulation; or
-
-&emsp;&emsp;(iii) is additional to or more stringent than that regulation;
-
-&emsp;(B) decide, for each State law or regulation that the Panel decides is additional to or more stringent than the regulation prescribed by the Secretary, whether—
-
-&emsp;&emsp;(i) the State law or regulation has no safety benefit;
-
-&emsp;&emsp;(ii) the State law or regulation is incompatible with the regulation prescribed by the Secretary; or
-
-&emsp;&emsp;(iii) enforcement of the State law or regulation would cause an unreasonable burden on interstate commerce; and
-
-&emsp;(C) notify the Secretary of the Panel's decisions under this subsection.
+Submission of Regulation.—A State receiving funds made available under section 31104 that enacts a State law or issues a regulation on commercial motor vehicle safety shall submit a copy of the law or regulation to the Secretary immediately after the enactment or issuance.
 
 (c)
 
-Review and Decisions by Secretary.—(1) The Secretary shall review each State law and regulation on commercial motor vehicle safety. Not later than 18 months after the date the Panel notifies the Secretary of a decision under subsection (b) of this section, the Secretary shall—
+Review and Decisions by Secretary.—
 
-&emsp;(A) conduct a regulatory proceeding to decide under this subsection whether the State law or regulation may be enforced; and
+&emsp;(1)
 
-&emsp;(B) prescribe a final regulation.
+Review.—The Secretary shall review State laws and regulations on commercial motor vehicle safety. The Secretary shall decide whether the State law or regulation—
 
-(2) If the Secretary decides a State law or regulation has the same effect as a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may be enforced.
+&emsp;&emsp;(A) has the same effect as a regulation prescribed by the Secretary under section 31136;
 
-(3) If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may not be enforced.
+&emsp;&emsp;(B) is less stringent than such regulation; or
 
-(4) If the Secretary decides a State law or regulation is additional to or more stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may be enforced unless the Secretary also decides that—
+&emsp;&emsp;(C) is additional to or more stringent than such regulation.
 
-&emsp;(A) the State law or regulation has no safety benefit;
+&emsp;(2)
 
-&emsp;(B) the State law or regulation is incompatible with the regulation prescribed by the Secretary; or
+Regulations with same effect.—If the Secretary decides a State law or regulation has the same effect as a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may be enforced.
 
-&emsp;(C) enforcement of the State law or regulation would cause an unreasonable burden on interstate commerce.
+&emsp;(3)
 
-(5)(A) In deciding about a State law or regulation under this subsection, the Secretary shall give great weight to the corresponding decision made by the Panel about that law or regulation under subsection (b) of this section.
+Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may not be enforced.
 
-(B) In deciding under paragraph (4) of this subsection whether a State law or regulation will cause an unreasonable burden on interstate commerce, the Secretary may consider the effect on interstate commerce of implementation of that law or regulation with the implementation of all similar laws and regulations of other States.
+&emsp;(4)
+
+Additional or more stringent regulations.—If the Secretary decides a State law or regulation is additional to or more stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may be enforced unless the Secretary also decides that—
+
+&emsp;&emsp;(A) the State law or regulation has no safety benefit;
+
+&emsp;&emsp;(B) the State law or regulation is incompatible with the regulation prescribed by the Secretary; or
+
+&emsp;&emsp;(C) enforcement of the State law or regulation would cause an unreasonable burden on interstate commerce.
+
+&emsp;(5)
+
+Consideration of effect on interstate commerce.—In deciding under paragraph (4) whether a State law or regulation will cause an unreasonable burden on interstate commerce, the Secretary may consider the effect on interstate commerce of implementation of that law or regulation with the implementation of all similar laws and regulations of other States.
 
 (d)
 
@@ -60,13 +52,9 @@ Waivers.—(1) A person (including a State) may petition the Secretary for a wai
 
 (e)
 
-Consolidating Proceedings.—The Secretary may consolidate regulatory proceedings under this section if the Secretary decides that the consolidation will not adversely affect a party to a proceeding.
-
-(f)
-
 Written Notice of Decisions.—Not later than 10 days after making a decision under subsection (c) of this section that a State law or regulation may not be enforced, the Secretary shall give written notice to the State of that decision.
 
-(g)
+(f)
 
 Judicial Review and Venue.—(1) Not later than 60 days after the Secretary makes a decision under subsection (c) of this section, or grants or denies a petition for a waiver under subsection (d) of this section, a person (including a State) adversely affected by the decision, grant, or denial may file a petition for judicial review. The petition may be filed in the court of appeals of the United States for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business.
 
@@ -76,11 +64,11 @@ Judicial Review and Venue.—(1) Not later than 60 days after the Secretary make
 
 (4) The remedies provided for in this subsection are in addition to other remedies provided by law.
 
-(h)
+(g)
 
 Initiating Review Proceedings.—To review a State law or regulation on commercial motor vehicle safety under this section, the Secretary may initiate a regulatory proceeding on the Secretary's own initiative or on petition of an interested person (including a State).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1008.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1008; Pub. L. 105–178, title IV, §4008(e), June 9, 1998, 112 Stat. 404.)
 
 Historical and Revision Notes
 
@@ -146,7 +134,13 @@ Subsection (g)(3) is substituted for 49 App.:2507(g)(3) for consistency in this 
 
 In subsection (h), the text of 49 App.:2507(h) and the words “After the last day of the 48-month period beginning on October 30, 1984” are omitted as obsolete.
 
+#### Amendments
+
+1998—Subsecs. (b), (c). Pub. L. 105–178, §4008(e)(1), added subsecs. (b) and (c) and struck out headings and text of former subsecs. (b) and (c) which related to analysis and decisions by Commercial Motor Vehicle Safety Regulatory Review Panel and to review and decisions by Secretary, respectively.
+
+Subsecs. (e) to (h). Pub. L. 105–178, §4008(e)(2), (3), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “The Secretary may consolidate regulatory proceedings under this section if the Secretary decides that the consolidation will not adversely affect a party to a proceeding.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 31132, 31134 of this title.
+This section is referred to in section 31132 of this title.
 

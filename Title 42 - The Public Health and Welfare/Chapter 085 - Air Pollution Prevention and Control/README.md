@@ -344,6 +344,7 @@ I74subpart 1—nonattainment areas in general
 | (e) | Control of emissions from certain sources. |
 | (f) | Tank vessel standards. |
 | (g) | Ozone design value study. |
+| (h) | Vehicles entering ozone nonattainment areas. |
 | [7511c.](Subchapter%20001%20%28I%29%20-%20Programs%20and%20Activities/Part%20D%20-%20Plan%20Requirements%20for%20Nonattainment%20Areas/Subpart%20002%20-%20Additional%20Provisions%20for%20Ozone%20Nonattainment%20Areas/%C2%A7%2007511c%20-%20Control%20of%20interstate%20ozone%20air%20pollution.md) | Control of interstate ozone air pollution. |
 | (a) | Ozone transport regions. |
 | (b) | Plan provisions for States in ozone transport regions. |
@@ -907,6 +908,7 @@ I74subpart 1—nonattainment areas in general
 | (e) | Developing countries. |
 | (f) | National security. |
 | (g) | Fire suppression and explosion prevention. |
+| (h) | Methyl bromide. |
 | [7671d.](Subchapter%20006%20%28VI%29%20-%20Stratospheric%20Ozone%20Protection/%C2%A7%2007671d%20-%20Phase-out%20of%20production%20and%20consumption%20of%20class%20II%20substances.md) | Phase-out of production and consumption of class II substances. |
 | (a) | Restriction of use of class II substances. |
 | (b) | Production phase-out. |
@@ -973,7 +975,7 @@ Act July 14, 1955, ch. 360, 69 Stat. 322, as amended, known as the Clean Air Act
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2022, 4363a, 4365, 4905, 6211, 6901, 6905, 6907, 6949, 7273, 8302, 8402, 8411, 9621, 13257, 13260, 13369 of this title; title 10 section 2704; title 15 sections 793, 798, 2080, 2617, 2706, 3801; title 16 sections 410aaa–59, 460ii–4, 1456; title 18 section 2721; title 23 sections 104, 134, 135, 149; title 26 section 169; title 29 section 1662e; title 30 sections 201, 1251, 1253, 1292, 1303; title 33 sections 1345, 1502, 1503; title 43 section 1334; title 49 sections 5303, 5305, 5309, 5323, 5335, 24903, 26101, 40117, 47102.
+This chapter is referred to in sections 2022, 4363a, 4365, 4905, 6211, 6901, 6905, 6907, 6949, 7273, 8302, 8402, 8411, 9621, 13257, 13260, 13369 of this title; title 10 section 2704; title 15 sections 793, 798, 2080, 2617, 2706, 3801; title 16 sections 410aaa–59, 460ii–4, 460<i>lll</i>, 1456; title 18 section 2721; title 23 sections 104, 134, 135, 149; title 26 section 169; title 29 section 1662e; title 30 sections 201, 1251, 1253, 1292, 1303; title 33 sections 1345, 1502, 1503; title 43 section 1334; title 49 sections 5303, 5305, 5309, 5323, 5335, 5506, 24903, 26101, 40117, 47102.
 
 
 ---

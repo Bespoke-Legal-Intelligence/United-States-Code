@@ -16,7 +16,7 @@ As used in this section:
 
 #### (b) Authority of Commission to regulate rates, terms, and conditions; enforcement powers; promulgation of regulations
 
-(1) Subject to the provisions of subsection (c) of this section, the Commission shall regulate the rates, terms, and conditions for pole attachments to provide that such rates, terms, and conditions are just and reasonable, and shalladopt procedures necessary and appropriate to hear and resolve complaints concerning such rates, terms, and conditions. For purposes of enforcing any determinations resulting from complaint procedures established pursuant to this subsection, the Commission shall take such action as it deems appropriate and necessary, including issuing cease and desist orders, as authorized by section 312(b) of this title.
+(1) Subject to the provisions of subsection (c) of this section, the Commission shall regulate the rates, terms, and conditions for pole attachments to provide that such rates, terms, and conditions are just and reasonable, and shall adopt procedures necessary and appropriate to hear and resolve complaints concerning such rates, terms, and conditions. For purposes of enforcing any determinations resulting from complaint procedures established pursuant to this subsection, the Commission shall take such action as it deems appropriate and necessary, including issuing cease and desist orders, as authorized by section 312(b) of this title.
 
 (2) The Commission shall prescribe by rule regulations to carry out the provisions of this section.
 
@@ -70,7 +70,7 @@ A utility that engages in the provision of telecommunications services or cable 
 
 #### (h) Modification or alteration of pole, duct, conduit, or right-of-way
 
-Whenever the owner of a pole, duct, conduit, or right-of-way intends to modify or alter suchpole, duct, conduit, or right-of-way, the owner shall provide written notification of such action to any entity that has obtained an attachment to such conduit or right-of-way so that such entity may have a reasonable opportunity to add to or modify its existing attachment. Any entity that adds to or modifies its existing attachment after receiving such notification shall bear a proportionate share of the costs incurred by the owner in making such pole, duct, conduit, or right-of-way accessible.
+Whenever the owner of a pole, duct, conduit, or right-of-way intends to modify or alter such pole, duct, conduit, or right-of-way, the owner shall provide written notification of such action to any entity that has obtained an attachment to such conduit or right-of-way so that such entity may have a reasonable opportunity to add to or modify its existing attachment. Any entity that adds to or modifies its existing attachment after receiving such notification shall bear a proportionate share of the costs incurred by the owner in making such pole, duct, conduit, or right-of-way accessible.
 
 #### (i) Costs of rearranging or replacing attachment
 

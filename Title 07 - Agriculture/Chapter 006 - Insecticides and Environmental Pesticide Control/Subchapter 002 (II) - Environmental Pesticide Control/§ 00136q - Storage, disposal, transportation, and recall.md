@@ -44,7 +44,7 @@
 
 #### (3) Mandatory recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administratordoes not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
 
 #### (4) Recall procedure
 
@@ -186,7 +186,7 @@
 
 &emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
 
-(June 25, 1947, ch. 125, §19, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 995; amended Sept. 30, 1978, Pub. L. 95–396, §19, 92 Stat. 833; Oct. 25, 1988, Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), 102 Stat. 2669, 2672, 2683; Aug. 3, 1996, Pub. L. 104–170, title II, §225, 110 Stat. 1507.)
+(June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amendedPub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507.)
 
 #### References in Text
 

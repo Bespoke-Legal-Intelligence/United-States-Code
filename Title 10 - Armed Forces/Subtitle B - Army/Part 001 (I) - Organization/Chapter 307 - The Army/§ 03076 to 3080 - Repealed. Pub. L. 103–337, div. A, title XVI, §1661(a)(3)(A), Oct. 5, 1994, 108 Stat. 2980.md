@@ -8,7 +8,7 @@ Section 3078, act Aug. 10, 1956, ch. 1041, 70A Stat. 171, provided that Army Nat
 
 Section 3079, act Aug. 10, 1956, ch. 1041, 70A Stat. 171, related to status of Army National Guard of United States when not in Federal service. See section 10107 of this title.
 
-Section 3080, added Pub. L. 86–603, §1(2)(A), July 7, 1960, 74 Stat. 357, related to authority of officers of Army National Guard of United States with respect to Federal status. See section 10215 of this title.
+Section 3080, added Pub. L. 86–603, §1(2)(A), July 7, 1960, 74 Stat. 357, related to authority of officers ofArmy National Guard of United States with respect to Federal status. See section 10215 of this title.
 
 #### Effective Date of Repeal
 

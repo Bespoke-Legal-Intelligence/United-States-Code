@@ -20,15 +20,13 @@ The National Council may use the United States mails in the same manner and upon
 
 The National Council may use, with the consent of the agencies represented on the Interagency Disability Coordinating Council, and as authorized in subchapter V of this chapter, such services, personnel, information, and facilities as may be needed to carry out its duties under this subchapter, with or without reimbursement to such agencies.
 
-(Pub. L. 93–112, title IV, §404, as added Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2979; amended Pub. L. 102–569, title IV, §405, Oct. 29, 1992, 106 Stat. 4423.)
+(Pub. L. 93–112, title IV, §404, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1201.)
 
 #### Prior Provisions
 
-A prior section 784, Pub. L. 93–112, title IV, §404, Sept. 26, 1973, 87 Stat. 387, directed Secretary to submit annual reports to the President and to Congress on activities carried out under this chapter, prior to repeal by Pub. L. 95–602, §117.
+A prior section 784, Pub. L. 93–112, title IV, §404, as added Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2979; amended Pub. L. 102–569, title IV, §405, Oct. 29, 1992, 106 Stat. 4423, related to administrative powers of National Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-#### Amendments
-
-1992—Subsec. (e). Pub. L. 102–569 added subsec. (e).
+Another prior section 784, Pub. L. 93–112, title IV, §404, Sept. 26, 1973, 87 Stat. 387, directed Secretary to submit annual reports to the President and to Congress on activities carried out under this chapter, prior to repeal by Pub. L. 95–602, §117.
 
 #### Termination of Advisory Committees
 

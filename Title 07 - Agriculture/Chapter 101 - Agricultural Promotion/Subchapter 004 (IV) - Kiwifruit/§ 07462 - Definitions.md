@@ -28,7 +28,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (7) Marketing
 
-&emsp;The term “marketing” means the sale or other disposition of kiwifruit into interstate, foreign, or intrastate commerce by buying, marketing, distribution, or otherwise placing kiwifruit into commerce.
+&emsp;The term “marketing” means the sale or other disposition of kiwifruit into interstate,foreign, or intrastate commerce by buying, marketing, distribution, or otherwise placing kiwifruit into commerce.
 
 #### (8) Order
 

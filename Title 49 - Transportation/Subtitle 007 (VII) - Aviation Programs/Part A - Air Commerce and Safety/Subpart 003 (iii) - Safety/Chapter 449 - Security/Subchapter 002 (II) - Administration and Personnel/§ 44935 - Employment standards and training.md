@@ -74,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(c); added Aug. 5, 1974, Pub
 
 In subsection (a), before clause (1), the words “Not later than 270 days after November 16, 1990” are omitted as obsolete. The words “contracting for” are substituted for “contracting of” for clarity and consistency in the revised title.
 
-In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . .  and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency inthe revised title and with other titles of the United States Code.
+In subsection (c)(1)(A), the words “individuals employed” are substituted for “personnel employed by him . . .  and for other personnel, including State, local, and private law enforcement personnel, whose services may be utilized” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (c)(1)(B), the words “individuals eligible” are substituted for “personnel whose services are utilized to enforce any such transportation security program, including State, local, and private law enforcement personnel . . .  for personnel eligible” for clarity and consistency in the revised title and with other titles of the Code.
 

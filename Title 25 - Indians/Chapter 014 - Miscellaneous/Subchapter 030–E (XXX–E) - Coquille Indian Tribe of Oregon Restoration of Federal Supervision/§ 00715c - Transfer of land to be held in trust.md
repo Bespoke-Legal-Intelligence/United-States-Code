@@ -26,7 +26,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (2) Map
 
-&emsp;The map described in subparagraph (d)(1)(A), and such additional legal descriptions whichare applicable, shall be placed on file at the local District Office of the Bureau of Land Management, the Agency Office of the Bureau of Indian Affairs, and with the Senate Committee on Energy and Natural Resources and the House Committee on Resources.
+&emsp;The map described in subparagraph (d)(1)(A), and such additional legal descriptions which are applicable, shall be placed on file at the local District Office of the Bureau of Land Management, the Agency Office of the Bureau of Indian Affairs, and with the Senate Committee on Energy and Natural Resources and the House Committee on Resources.
 
 #### (3) Interim period
 
@@ -66,7 +66,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (7) Memorandum of agreement
 
-&emsp;The Coquille Tribe shall enter into a memorandum of agreement (MOA) with the State of Oregon relating to the establishment and management of the Coquille Forest. The MOA shall include, but not be limited to, the terms and conditions for managing the Coquille Forest in a manner consistent with paragraph (5) of this subsection, preserving public access, advancing jointly-held resource management goals, achieving tribal restoration objectives and establishing a coordinated management framework. Further, provisions set forth in the MOA shall be consistent with federal <sup>6</sup> trust responsibility requirements applicable toIndian trust lands and paragraph (5) of this subsection.
+&emsp;The Coquille Tribe shall enter into a memorandum of agreement (MOA) with the State of Oregon relating to the establishment and management of the Coquille Forest. The MOA shall include, but not be limited to, the terms and conditions for managing the Coquille Forest in a manner consistent with paragraph (5) of this subsection, preserving public access, advancing jointly-held resource management goals, achieving tribal restoration objectives and establishing a coordinated management framework. Further, provisions set forth in the MOA shall be consistent with federal <sup>6</sup> trust responsibility requirements applicable to Indian trust lands and paragraph (5) of this subsection.
 
 #### (8) Public access
 

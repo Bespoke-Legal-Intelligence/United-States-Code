@@ -10,7 +10,7 @@
 
 &emsp;(4) encourage the development and maintenance of an adequate data base for human resources in science, engineering, and technology, including the development of appropriate models to forecast future manpower requirements, and assess the impact of major governmental and public programs on human resources and their utilization;
 
-&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution of critical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probable costs, benefits, and impacts of such alternatives;
+&emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution of critical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probablecosts, benefits, and impacts of such alternatives;
 
 &emsp;(6) advise the President on the extent to which the various scientific and technological programs, policies, and activities of the Federal Government are likely to affect the achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
 
@@ -56,11 +56,53 @@ Functions vested in Office of Science and Technology Policy and Director thereof
 
 #### Abolition of Intergovernmental Science, Engineering, and Technology Advisory Panel; Transfer of Functions
 
-The Intergovernmental Science, Engineering, and Technology Advisory Panel, established pursuant to this section, was abolished and its functions transferred to the President by Reorg. Plan No. 1 of 1977, §5A, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendixto Title 5, effective Feb. 26, 1978, as provided by section 1(b) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
+The Intergovernmental Science, Engineering, and Technology Advisory Panel, established pursuant to this section, was abolished and its functions transferred to the President by Reorg. Plan No. 1 of 1977, §5A, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, effective Feb. 26, 1978, as provided by section 1(b) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Comprehensive Accountability Study for Federally-Funded Research
+
+Pub. L. 105–276, title IV, §430, Oct. 21, 1998, 112 Stat. 2512, provided that:
+
+“(a)
+
+Study.—The Director of the Office of Science and Technology Policy, in consultation with the Director of the Office of Management and Budget, may enter into an agreement with the National Academy of Sciences for the Academy to conduct a comprehensive study to develop methods for evaluating federally-funded research and development programs. This study shall—
+
+&emsp;“(1) recommend processes to determine an acceptable level of success for federally-funded research and development programs by—
+
+&emsp;&emsp;“(A) describing the research process in the various scientific and engineering disciplines;
+
+&emsp;&emsp;“(B) describing in the different sciences what measures and what criteria each community uses to evaluate the success or failure of a program, and on what time scales these measures are considered reliable—both for exploratory long-range work and for short-range goals; and
+
+&emsp;&emsp;“(C) recommending how these measures may be adapted for use by the Federal Government to evaluate federally-funded research and development programs;
+
+&emsp;“(2) assess the extent to which agencies incorporate independent merit-based evaluation into the formulation of the strategic plans of funding agencies and if the quantity or quality of this type of input is unsatisfactory;
+
+&emsp;“(3) recommend mechanisms for identifying federally-funded research and development programs which are unsuccessful or unproductive;
+
+&emsp;“(4) evaluate the extent to which independent, merit-based evaluation of federally-funded research and development programs and projects achieves the goal of eliminating unsuccessful or unproductive programs and projects; and
+
+&emsp;“(5) investigate and report on the validity of using quantitative performance goals for aspects of programs which relate to administrative management of the program and for which such goals would be appropriate, including aspects related to—
+
+&emsp;&emsp;“(A) administrative burden on contractors and recipients of financial assistance awards;
+
+&emsp;&emsp;“(B) administrative burdens on external participants in independent, merit-based evaluations;
+
+&emsp;&emsp;“(C) cost and schedule control for construction projects funded by the program;
+
+&emsp;&emsp;“(D) the ratio of overhead costs of the program relative to the amounts expended through the program for equipment and direct funding of research; and
+
+&emsp;&emsp;“(E) the timeliness of program responses to requests for funding, participation, or equipment use.
+
+“(b)
+
+Independent Merit-Based Evaluation Defined.—The term ‘independent merit-based evaluation’ means review of the scientific or technical quality of research or development, conducted by experts who are chosen for their knowledge of scientific and technical fields relevant to the evaluation and who—
+
+&emsp;“(1) in the case of the review of a program activity, do not derive long-term support from the program activity; or
+
+&emsp;“(2) in the case of the review of a project proposal, are not seeking funds in competition with the proposal.”
 
 #### Computer Network Study
 

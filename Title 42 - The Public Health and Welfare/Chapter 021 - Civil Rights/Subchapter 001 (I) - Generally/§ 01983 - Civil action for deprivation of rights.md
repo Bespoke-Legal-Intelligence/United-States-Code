@@ -22,5 +22,5 @@ Amendment by Pub. L. 96–170 applicable with respect to any deprivation of righ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1988, 1997e of this title.
+This section is referred to in sections 1437c–1, 1988, 1997e of this title.
 

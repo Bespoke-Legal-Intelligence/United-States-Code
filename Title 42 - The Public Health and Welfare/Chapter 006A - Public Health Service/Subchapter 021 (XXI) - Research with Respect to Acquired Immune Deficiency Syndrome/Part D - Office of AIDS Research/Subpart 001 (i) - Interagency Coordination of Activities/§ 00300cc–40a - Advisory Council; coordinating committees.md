@@ -24,7 +24,7 @@
 
 &emsp;Each coordinating committee shall be composed of representatives of the agencies of the National Institutes of Health with significant responsibilities regarding the research discipline involved.
 
-(July 1, 1944, ch. 373, title XXIII, §2352, as added June 10, 1993, Pub. L. 103–43, title XVIII, §1801(a)(3), 107 Stat. 193.)
+(July 1, 1944, ch. 373, title XXIII, §2352, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 193.)
 
 #### Termination of Advisory Councils
 

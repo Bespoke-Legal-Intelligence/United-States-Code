@@ -4,9 +4,9 @@
 
 #### (b) Office of Subseabed Disposal Research
 
-(1) There is hereby established an Office of Subseabed Disposal Research within the Office of Energy Research of the Department of Energy. The Office shall be headed by the Director, who shall be a member of the Senior Executive Service appointed by the Director of the Office of Energy Research, and compensated at a rate determined by applicable law.
+(1) There is hereby established an Office of Subseabed Disposal Research within the Office of Science of the Department of Energy. The Office shall be headed by the Director, who shall be a member of the Senior Executive Service appointed by the Director of the Office of Science, and compensated at a rate determined by applicable law.
 
-(2) The Director of the Office of Subseabed Disposal Research shall be responsible for carrying out research, development, and demonstration activities on all aspects of subseabed disposal of high-level radioactive waste and spent nuclear fuel, subject to the general supervision of the Secretary. The Director of the Office shall be directly responsible to the Director of the Office of Energy Research, and the first such Director shall be appointed within 30 days of December 22, 1987.
+(2) The Director of the Office of Subseabed Disposal Research shall be responsible for carrying out research, development, and demonstration activities on all aspects of subseabed disposal of high-level radioactive waste and spent nuclear fuel, subject to the general supervision of the Secretary. The Director of the Office shall be directly responsible to the Director of the Office of Science, and the first such Director shall be appointed within 30 days of December 22, 1987.
 
 (3) In carrying out his responsibilities under this chapter, the Secretary may make grants to,or enter into contracts with, the Subseabed Consortium described in subsection (d) of this section, and other persons.
 
@@ -22,13 +22,17 @@
 
 (C) In 1990, and again in 1995, the Subseabed Consortium shall report to Congress on the progress being made in achieving the objectives of paragraph (2).
 
-(Pub. L. 97–425, title II, §224, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5063, Dec. 22, 1987, 101 Stat. 1330–253; amended Pub. L. 104–66, title I, §1051(d), Dec. 21, 1995, 109 Stat. 716.)
+(Pub. L. 97–425, title II, §224, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5063, Dec. 22, 1987, 101 Stat. 1330–253; amended Pub. L. 104–66, title I, §1051(d), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–245, title III, §309(b)(2)(E), Oct. 7, 1998, 112 Stat. 1853.)
 
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–245 which directed the substitution of “Science” for “Energy Research”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+
+Subsec. (b)(2). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
 
 1995—Subsec. (a). Pub. L. 104–66 struck out subsec. (a) which required Secretary of Energy to report to Congress on subseabed disposal of spent nuclear fuel and high-level radioactive waste.
 

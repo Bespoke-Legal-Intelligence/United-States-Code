@@ -50,7 +50,7 @@ This part, referred to in subsecs. (a) and (e)(3), was in the original “this s
 
 #### Codification
 
-Section is comprised of section 40302 of Pub. L. 103–322. Subsec. (e)(5) of section 40302 of Pub. L. 103–322 amended section 1445 of Title 28, Judiciary and Judicial Procedure.
+Section is comprised of section 40302 of Pub. L. 103–322. Subsec. (e)(5) of section 40302 of Pub. L. 103–322amended section 1445 of Title 28, Judiciary and Judicial Procedure.
 
 #### Short Title
 

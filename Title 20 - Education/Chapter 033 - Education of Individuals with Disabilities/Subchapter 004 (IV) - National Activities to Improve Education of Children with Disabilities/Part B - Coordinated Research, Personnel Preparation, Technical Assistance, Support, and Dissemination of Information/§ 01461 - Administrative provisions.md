@@ -166,7 +166,7 @@ Notwithstanding any other provision of law, and in addition to any authority gra
 
 &emsp;&emsp;(A) to share in the cost of the project;
 
-&emsp;&emsp;(B) to prepare the research and evaluation findings and products from the project informats that are useful for specific audiences, including parents, administrators, teachers, early intervention personnel, related services personnel, and individuals with disabilities;
+&emsp;&emsp;(B) to prepare the research and evaluation findings and products from the project in formats that are useful for specific audiences, including parents, administrators, teachers, early intervention personnel, related services personnel, and individuals with disabilities;
 
 &emsp;&emsp;(C) to disseminate such findings and products; and
 
@@ -258,7 +258,7 @@ The Secretary may use funds appropriated to carry out this part to evaluate acti
 
 #### (j) Eligibility for financial assistance
 
-Effective for fiscal years for which the Secretary may make grants under section 1419(b) ofthis title, no State or local educational agency or educational service agency or other public institution or agency may receive a grant under this part which relates exclusively to programs, projects, and activities pertaining to children aged 3 through 5, inclusive, unless the State is eligible to receive a grant under section 1419(b) of this title.
+Effective for fiscal years for which the Secretary may make grants under section 1419(b) of this title, no State or local educational agency or educational service agency or other public institution or agency may receive a grant under this part which relates exclusively to programs, projects, and activities pertaining to children aged 3 through 5, inclusive, unless the State is eligible to receive a grant under section 1419(b) of this title.
 
 (Pub. L. 91–230, title VI, §661, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 130.)
 

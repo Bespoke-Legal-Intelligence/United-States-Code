@@ -8,7 +8,7 @@
 
 (d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
 
-(e) Each cost contract and each cost-plus-a- fixed-fee contract shall provide for notice to theagency by the contractor before the making, under the prime contract, of—
+(e) Each cost contract and each cost-plus-a- fixed-fee contract shall provide for notice to the agency by the contractor before the making, under the prime contract, of—
 
 &emsp;(1) a cost-plus-a-fixed-fee subcontract; or
 
@@ -52,7 +52,7 @@
 
 (h) Multiyear contracting authority for the purchase of property is provided in section 2306b of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Sept. 10, 1962, Pub. L. 87–653, §1(d), (e), 76 Stat. 528; July 5, 1968, Pub. L. 90–378, §1, 82 Stat. 289; Sept. 25, 1968, Pub. L. 90–512, 82 Stat. 863; Dec. 12, 1980, Pub. L. 96–513, title V, §511(77), 94 Stat. 2926; Dec. 1, 1981, Pub. L. 97–86, title IX, §§907(b), 909(b), 95 Stat. 1117, 1118; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2724, 98 Stat. 1192; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(15), 99 Stat. 739; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 1783–82, 1783–169, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], 100 Stat. 3341–82, 3341–169; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), 100 Stat. 3949, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §805(a), 103 Stat. 1488; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §808, 104 Stat. 1593; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(3), 105 Stat. 114; Oct. 13, 1994, Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), 108 Stat. 3257, 3260, 3340, 3348, 3392; Nov. 18, 1997, Pub. L. 105–85, div. A, title X, §1073(a)(45), 111 Stat. 1902.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), (e), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–378, §1, July 5, 1968, 82 Stat. 289; Pub. L. 90–512, Sept. 25, 1968, 82 Stat. 863; Pub. L. 96–513, title V, §511(77), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §§907(b), 909(b), Dec. 1, 1981, 95 Stat. 1117, 1118; Pub. L. 98–369, div. B, title VII, §2724, July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, §805(a), Nov. 29, 1989, 103 Stat. 1488; Pub. L. 101–510, div. A, title VIII, §808, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 102–25, title VII, §701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), Oct. 13, 1994, 108 Stat. 3257, 3260, 3340, 3348, 3392; Pub. L. 105–85, div. A, title X, §1073(a)(45), Nov. 18, 1997, 111 Stat. 1902.)
 
 Historical and Revision Notes
 
@@ -102,7 +102,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (h)(11) of this section were contained in Pub. L. 100–456, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which was set out below, prior to repeal by Pub. L. 101–189, §805(b).
+Provisions similar to those in subsec. (h)(11) of this section were contained in Pub. L. 100–526, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which was set out below, prior to repeal by Pub. L. 101–189, §805(b).
 
 #### Amendments
 
@@ -188,7 +188,7 @@ Subsec. (f). Pub. L. 87–653, §1(e), added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1986 Amendment
 

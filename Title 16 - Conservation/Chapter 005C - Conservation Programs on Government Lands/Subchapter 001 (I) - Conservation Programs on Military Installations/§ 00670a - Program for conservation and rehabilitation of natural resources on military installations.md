@@ -122,7 +122,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 1997—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
 
-Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan preparedunder subsection (a) of this section—” for “Each cooperative plan entered into under subsection (a) of this section—”.
+Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—” for “Each cooperative plan entered into under subsection (a) of this section—”.
 
 Subsec. (b)(1). Pub. L. 105–85, §2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
 
@@ -171,6 +171,10 @@ Subsec. (f). Pub. L. 105–85, §2907, added subsec. (f).
 Pub. L. 97–396, §1(2), inserted provision that cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
 1974—Pub. L. 93–452, §§1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Review for Preparation of Integrated Natural Resources Management Plans
 

@@ -44,13 +44,17 @@ The Secretary through the National Occupational Information Coordinating Committ
 
 #### (d) State consolidation of Federal administrative management information reporting requirements
 
-No provision of this part or any other provision of Federal law shall be construed to prohibit any State from combining or consolidating Federal administrative management information reporting requirements relating to employment, productivity, or training, if notice is transmitted by the Governor to the head of each appropriate Federal and State agency responsible for the laws governing the Federal reporting requirements. The notice shall specify the intent to combine or consolidate such requirements. The head of each appropriate Federal agency shall approve the combination or consolidation unless, within sixty days after receiving the notice, the Federal agency can demonstrate that the combination or consolidation will not meet the essential purposes of the affected Federal law.
+No provision of this part or any other provision of Federal law shall be construed to prohibit any State from combining or consolidating Federal administrative management information reporting requirements relating to employment, productivity, or training, if notice is transmitted by the Governor to the head of each appropriate Federal and State agency responsible for the laws governing the Federal reporting requirements. The notice shall specify the intent to combine or consolidate such requirements. The head of each appropriate Federalagency shall approve the combination or consolidation unless, within sixty days after receiving the notice, the Federal agency can demonstrate that the combination or consolidation will not meet the essential purposes of the affected Federal law.
 
 (Pub. L. 97–300, title I, §125, Oct. 13, 1982, 96 Stat. 1342; Pub. L. 97–404, §1(e), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 98–524, §4(a)(3), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 102–367, title I, §124, title VII, §702(a)(6), Sept. 7, 1992, 106 Stat. 1041, 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Carl D. Perkins Vocational Education Act, referred to in subsec. (b)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, known as the Carl D. Perkins Vocational and Applied Technology Education Act, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational Education Act, referred to in subsec. (b)(1), is Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. The Act was subsequently amended extensively by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, which renamed it the Carl D. Perkins Vocational and Applied Technology Education Act, and amended generally by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076, which renamed it the Carl D. Perkins Vocational and Technical Education Act of 1998. For additional details, see Codification note preceding section 2301 of Title 20.
 
 The Wagner-Peyser Act, referred to in subsec. (b)(1), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

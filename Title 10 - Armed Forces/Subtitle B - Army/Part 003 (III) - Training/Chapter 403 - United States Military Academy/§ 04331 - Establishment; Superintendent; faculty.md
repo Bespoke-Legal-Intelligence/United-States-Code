@@ -1,6 +1,6 @@
 ### §4331. Establishment; Superintendent; faculty
 
-(a) There is in the Department of the Army a United States Military Academy, at West Point,New York (hereinafter in this chapter referred to as the “Academy”), for the instruction and preparation for military service of selected persons called “cadets”. The organization of the Academy shall be prescribed by the Secretary of the Army.
+(a) There is in the Department of the Army a United States Military Academy, at West Point, New York (hereinafter in this chapter referred to as the “Academy”), for the instruction and preparation for military service of selected persons called “cadets”. The organization of the Academy shall be prescribed by the Secretary of the Army.
 
 (b) There shall be at the Academy the following:
 
@@ -16,7 +16,7 @@
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238; Aug. 6, 1958, Pub. L. 85–600, §1(8), 72 Stat. 522; Aug. 21, 1958, Pub. L. 85–723, 72 Stat. 711; Oct. 30, 1978, Pub. L. 95–551, §1, 92 Stat. 2069; Dec. 12, 1980, Pub. L. 96–513, title V, §512(12), 94 Stat. 2929; Oct. 23, 1992, Pub. L. 102–484, div. A, title V, §523(a), 106 Stat. 2409; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §533(a)(3), 107 Stat. 1658.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238; Pub. L. 85–600, §1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, §1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, §523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, §533(a)(3), Nov. 30, 1993, 107 Stat. 1658.)
 
 Historical and Revision Notes
 

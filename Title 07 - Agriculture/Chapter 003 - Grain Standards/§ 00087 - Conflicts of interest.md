@@ -20,7 +20,7 @@ No person licensed or authorized by the Secretary to perform any official functi
 
 The provisions of this section shall not prevent an official agency or State agency delegated authority under this chapter from engaging in the business of weighing grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, §11, 39 Stat. 485; Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 766; Oct. 21, 1976, Pub. L. 94–582, §13, 90 Stat. 2880; Sept. 29, 1977, Pub. L. 95–113, title XVI, §§1604(h), 1606(g), 91 Stat. 1028, 1030; Nov. 24, 1993, Pub. L. 103–156, §12(j), 107 Stat. 1529; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), 108 Stat. 3237; Nov. 2, 1994, Pub. L. 103–437, §4(a)(1), 108 Stat. 4581.)
+(Aug. 11, 1916, ch. 313, pt. B, §11, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 766; Pub. L. 94–582, §13, Oct. 21, 1976, 90 Stat. 2880; Pub. L. 95–113, title XVI, §§1604(h), 1606(g), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §12(j), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 103–437, §4(a)(1), Nov. 2, 1994, 108 Stat. 4581.)
 
 #### Amendments
 

@@ -8,5 +8,5 @@ For the purpose of determining the eligibility of a distribution borrower not in
 
 &emsp;(3) be the cause, directly or indirectly, of imposing any requirement or restriction on the borrower as a condition of the assistance, except such requirements or restrictions as are necessary to implement a debt restructuring agreed on by the power supply borrower and the Government.
 
-(May 20, 1936, ch. 432, title III, §306D, as added Nov. 1, 1993, Pub. L. 103–129, §2(c)(7), 107 Stat. 1364.)
+(May 20, 1936, ch. 432, title III, §306D, as added Pub. L. 103–129, §2(c)(7), Nov. 1, 1993, 107 Stat. 1364.)
 

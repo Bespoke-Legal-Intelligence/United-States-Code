@@ -102,7 +102,7 @@ For purposes of this subchapter—
 
 #### (4) Medicaid applicable income level
 
-&emsp;The term “medicaid applicable income level” means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX of this chapter (including under a waiver authorized by the Secretary or under section 1396a(r)(2) ofthis title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(<i>l</i>)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
+&emsp;The term “medicaid applicable income level” means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX of this chapter (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(<i>l</i>)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
 
 #### (c) Additional definitions
 
@@ -140,7 +140,7 @@ For purposes of this subchapter:
 
 &emsp;The term “uncovered child” means a child that does not have creditable health coverage.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 567; amended Nov. 19, 1997, Pub. L. 105–100, title I, §162(3), (9), 111 Stat. 2189, 2190.)
+(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190.)
 
 #### Amendments
 

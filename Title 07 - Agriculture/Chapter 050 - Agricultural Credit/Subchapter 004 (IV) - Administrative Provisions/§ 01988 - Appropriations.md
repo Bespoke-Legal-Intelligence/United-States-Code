@@ -14,7 +14,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (B) After a loan is sold in the secondary market, the lender shall remain obligated under its guarantee agreement with the Secretary, and shall continue to service the loan in accordance with the terms and conditions of such agreement.
 
-(C) The Secretary shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for determining the increaseof farmers’ access to capital at reasonable rates and terms as a result of secondary market operations.
+(C) The Secretary shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for determining the increase of farmers’ access to capital at reasonable rates and terms as a result of secondary market operations.
 
 (D) This subsection shall not be interpreted to impede or extinguish the right of the borrower or the successor in interest to such borrower to prepay (in whole or in part) any loan made under this chapter, or to impede or extinguish the rights of any party under any provision of this chapter.
 
@@ -44,7 +44,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 &emsp;(C) Provide for adequate custody of any pooled guaranteed loans.
 
-&emsp;(D) Take such actions as are necessary, in restructuring pools of the guaranteed portion of loans, to minimize the estimated costs of paying claims under guarantees issued under this subsection.
+&emsp;(D) Take such actions as are necessary, in restructuring pools of the guaranteed portionof loans, to minimize the estimated costs of paying claims under guarantees issued under this subsection.
 
 &emsp;(E) Require each market maker—
 
@@ -54,35 +54,17 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 &emsp;(F) Regulate market makers in pool certificates sold under this subsection.
 
-(4)(A) Not later than March 31 of each year, the Secretary shall transmit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report on the secondary market operations under this subsection during the preceding calendar year.
+(4) The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
 
-(B) Each report under subparagraph (A) shall include—
-
-&emsp;(i) the number and the total dollar amount of loans sold in the secondary market and the distribution of such loans by size of loan, size of lender, geographic location of lender, interest rate, maturity, lender servicing fees, whether the interest rate is fixed or variable, and premium paid;
-
-&emsp;(ii) the number and dollar amount of loans resold in the secondary market and the distribution of such loans by size of loan, interest rate, and premiums;
-
-&emsp;(iii) the number and total dollar amount of pools formed;
-
-&emsp;(iv) the number and total dollar amount of loans in each pool;
-
-&emsp;(v) the dollar amount, interest rate, and terms on each loan in each pool, and whether the interest rate is fixed or variable;
-
-&emsp;(vi) the number, face value, interest rate, and terms of the pool certificates issued for each pool;
-
-&emsp;(vii) to the maximum extent possible, the use by the lender of the proceeds of sales of loans in the secondary market for additional lending to farmers; and
-
-&emsp;(viii) an analysis of the information reported in clauses (i) through (vii) to assess farmers’ access to capital at reasonable rates and terms as a result of secondary market operations.
-
-(5) The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
-
-(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129.)
+(Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(4), (5). Pub. L. 105–362 redesignated par. (5) as (4) and struck out former par. (4) which provided that not later than March 31 of each year, Secretary was to transmit to Congress a report on secondary market operations under subsec. (b) during preceding calendar year, and described contents of reports.
 
 1996—Subsecs. (b) to (f). Pub. L. 104–127 redesignated subsec. (f) as (b) and struck out former subsecs. (b) to (e) which provided for: in subsec. (b), form and denomination of notes to obtain funds for making direct loans under this chapter as well as maturities, terms and conditions, interest rate, purchase by Treasury, and public debt transaction; in subsec. (c), establishment of Farmers Home Administration direct loan account as well as deposits into account, liabilities, obligations, expenditures, and net expenditure basis of budgeting; in subsec. (d), sale of notes and mortgages; and in subsec. (e), distribution of real estate loans among States.
 

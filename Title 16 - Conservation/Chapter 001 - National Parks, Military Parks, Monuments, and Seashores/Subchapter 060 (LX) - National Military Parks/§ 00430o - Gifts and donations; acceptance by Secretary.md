@@ -2,7 +2,7 @@
 
 The Secretary of the Interior, is authorized to receive gifts and contributions from States, Territories, societies, organizations, and individuals for the battlefield for carrying out the provisions of sections 430j to 430m and 430<i>o</i> to 430j to 430s of this title.
 
-(June 21, 1934, ch. 694, §6, 48 Stat. 1199; Oct. 21, 1976, Pub. L. 94–578, title III, §319(6), 90 Stat. 2738.)
+(June 21, 1934, ch. 694, §6, 48 Stat. 1199; Pub. L. 94–578, title III, §319(6), Oct. 21, 1976, 90 Stat. 2738.)
 
 #### Amendments
 

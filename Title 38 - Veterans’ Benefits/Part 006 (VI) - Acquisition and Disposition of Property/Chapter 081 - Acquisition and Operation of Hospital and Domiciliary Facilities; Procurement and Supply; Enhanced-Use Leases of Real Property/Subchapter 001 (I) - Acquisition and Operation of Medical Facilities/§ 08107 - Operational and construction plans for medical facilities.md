@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) information relevant to assessing progress toward the goal of achieving relative equivalency in the level of resources per patient distributed to each network, such information to include the plans for and progress toward lowering the cost of care-delivery in the network (by means such as changes in the mix in the network of physicians, nurses, physician assistants, and advance practice nurses);
 
-&emsp;&emsp;(E) the capacity of non-Federal facilities in the network to provide acute, long-term, and specialized treatment and rehabilitative services (described in section 7305 <sup>1</sup> of this title), and determinations regarding the extent to which services to be provided in each service-delivery area and each facility in such area should be provided directly through facilities of the Department or through contract or other arrangements, including arrangements authorized under sections 8111 and 8153 of this title; and
+&emsp;&emsp;(E) the capacity of non-Federal facilities in the network to provide acute, long-term, and specialized treatment and rehabilitative services (described in section 7306(f)(1)(A) of this title), and determinations regarding the extent to which services to be provided in each service-delivery area and each facility in such area should be provided directly through facilities of the Department or through contract or other arrangements, including arrangements authorized under sections 8111 and 8153 of this title; and
 
 &emsp;&emsp;(F) a five-year plan for construction, replacement, or alteration projects in support of the approved mission of each facility in the network and a description of how those projects will improve access to care, or quality of care, for patients served in the network.
 
@@ -38,13 +38,11 @@
 
 (3) In a case in which the relative ranking of a proposed project has changed since the last report under this subsection was submitted, the Secretary shall also include in the report a description of the reasons for the change in the ranking, including an explanation of any change in the scoring of the project under the Department's scoring system for proposed major medical construction projects.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub.L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, §204, Oct. 9, 1996, 110 Stat. 3188.)
-
-#### References in Text
-
-Section 7305 of this title, referred to in subsec. (b)(3)(E), does not describe specialized treatment and rehabilitative services. However, specialized treatment and rehabilitative services are referred to in section 7306(f) of this title.
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, §204, Oct. 9, 1996, 110 Stat. 3188; Pub. L. 105–368, title X, §1005(b)(18), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendments
+
+1998—Subsec. (b)(3)(E). Pub. L. 105–368 substituted “section 7306(f)(1)(A)” for “section 7305”.
 
 1996—Subsec. (a). Pub. L. 104–262, §204(2), added subsec. (a) and struck out former subsec. (a) which directed the Secretary to submit an annual report on the construction, replacement, alteration, and operation of medical facilities.
 
@@ -75,6 +73,4 @@ Subsec. (a)(1). Pub. L. 99–166, §302(a)(1)–(3), designated existing provisi
 Subsec. (a)(2), (3). Pub. L. 99–166, §302(a)(4), added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 99–166, §302(b), struck out “(beginning in 1981)” before “a report”, designated existing provisions as cl. (1), and substituted cl. (2) designation for “, in the case of the second and each succeeding report made under this subsection,”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

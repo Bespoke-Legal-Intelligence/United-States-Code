@@ -60,7 +60,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (1) In general
 
-&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as an assignee of such obligation for purposes of this section unless the servicer is or was the owner of the obligation.
+&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as an assignee of such obligation forpurposes of this section unless the servicer is or was the owner of the obligation.
 
 #### (2) Servicer not treated as owner on basis of assignment for administrative convenience
 

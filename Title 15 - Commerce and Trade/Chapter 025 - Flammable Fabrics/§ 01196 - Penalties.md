@@ -2,7 +2,7 @@
 
 Any person who willfully violates section 1192 or 1197(b) of this title, or who fails to comply with section 1202(c) of this title, shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $5,000 or be imprisoned not more than one year or both in the discretion of the court: <i>Provided</i>, That nothing herein shall limit other provisions of this chapter.
 
-(June 30, 1953, ch. 164, §7, 67 Stat. 114; Nov. 10, 1978, Pub. L. 95–631, §8(b), 92 Stat. 3747.)
+(June 30, 1953, ch. 164, §7, 67 Stat. 114; Pub. L. 95–631, §8(b), Nov. 10, 1978, 92 Stat. 3747.)
 
 #### Amendments
 

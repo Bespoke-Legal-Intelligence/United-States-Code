@@ -2,7 +2,7 @@
 
 #### (a) Assistance to States; definitions; facilities to be used; eligible service institutions; order of priority in participation; assistance to rural area eligible service institutions to participate in the programs; reimbursement of camps, limitations, local, municipal and county institutions to be run by government; eligible private nonprofit organizations
 
-(1) The Secretary is authorized to carry out a program to assist States, through grants-in-aid and other means, to initiate and maintain nonprofit food service programs for children in service institutions. For purposes of this section, (A) “program” means the summer food service program for children authorized by this section; (B) “service institutions” means public or private nonprofit school food authorities, local, municipal, or county governments, public or private nonprofit higher education institutions participating in the National Youth Sports Program,,<sup>1</sup> and residential public or private nonprofit summer camps, that develop special summer or school vacation programs providing food service similar to that made available to children during the school year under the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\]; (C) “areas in which poor economic conditions exist” means areas in which at least 50 percent of the children are eligible for free or reduced price school meals under this chapter and the Child Nutrition Act of 1966, as determined by information provided from departments of welfare, zoning commissions, census tracts, by the number of free and reduced price lunches or breakfasts served to children attending public and nonprofit private schools located in the area of program food service sites, or from other appropriate sources, including statements of eligibility based upon income for children enrolled in the program; (D) “children” means individuals who are eighteen years of age and under, and individuals who are older than eighteen who are (i) determined by a State educational agency or a local public educational agency of a State, in accordance with regulations prescribed by the Secretary, to be mentally or physically handicapped, and (ii) participating in a public or nonprofit private school program established for the mentally or physically handicapped; and (E) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, and the Northern Mariana Islands.
+(1) The Secretary is authorized to carry out a program to assist States, through grants-in-aid and other means, to initiate and maintain nonprofit food service programs for children in service institutions. For purposes of this section, (A) “program” means the summer food service program for children authorized by this section; (B) “service institutions” means public or private nonprofit school food authorities, local, municipal, or county governments, public or private nonprofit higher education institutions participating in the National Youth Sports Program,,<sup>1</sup> and residential public or private nonprofit summer camps, that develop special summer or school vacation programs providing food service similar to that made available to children during the school year under the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\]; (C) “areas in which poor economic conditions exist” means areas in which at least 50 percent of the children are eligible for free or reduced price school meals under this chapter and the Child Nutrition Act of 1966, as determined by information provided from departments of welfare, zoning commissions, census tracts, by the number of free and reduced price lunches or breakfasts served to children attending public and nonprofit private schools located in the area of program food service sites, or from other appropriate sources, including statements of eligibility based upon income for children enrolled in the program; (D) “children” means individuals who are eighteen years of age and under, and individuals who are older than eighteen who are (i) determined by a State educational agency or a local public educational agency of a State, in accordance with regulations prescribed by the Secretary, to have a disability, and (ii) participating in a public or nonprofit private school program established for individuals who have a disability; and (E) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, and the Northern Mariana Islands.
 
 (2) To the maximum extent feasible, consistent with the purposes of this section, any food service under the program shall use meals prepared at the facilities of the service institution or at the food service facilities of public and nonprofit private schools. The Secretary shall assist States in the development of information and technical assistance to encourage increased service of meals prepared at the facilities of service institutions and at public and nonprofit private schools.
 
@@ -12,15 +12,13 @@
 
 &emsp;(B) have not been seriously deficient in operating under the program;
 
-&emsp;(C)(i) conduct a regularly scheduled food service for children from areas in which poor economic conditions exist;
+&emsp;(C)(i) conduct a regularly scheduled food service for children from areas in which poor economic conditions exist; or
 
-&emsp;(ii) conduct a regularly scheduled food service primarily for homeless children; or
-
-&emsp;(iii) qualify as camps; and
+&emsp;(ii) qualify as camps; and
 
 &emsp;(D) provide an ongoing year-round service to the community to be served under the program (except that an otherwise eligible service institution shall not be disqualified for failure to meet this requirement for ongoing year-round service if the State determines that its disqualification would result in an area in which poor economic conditions exist not being served or in a significant number of needy children not having reasonable access to a summer food service program).
 
-(4) The following order of priority shall be used by the State in determining participation where more than one eligible service institution proposes to serve the same area:
+(4) The following order of priority shall be used by the State in determining participationwhere more than one eligible service institution proposes to serve the same area:
 
 &emsp;(A) Local schools.
 
@@ -40,21 +38,19 @@
 
 (B) As used in this paragraph, the term “private nonprofit organizations” means those organizations that—
 
-&emsp;(i)(I) serve a total of not more than 2,500 children per day at not more than 5 sites in any urban area, with not more than 300 children being served at any 1 site (or, with a waiver granted by the State under standards developed by the Secretary, not more than 500 children being served at any 1 site); or
+&emsp;(i) operate—
 
-&emsp;(II) serve a total of not more than 2,500 children per day at not more than 20 sites in any rural area, with not more than 300 children being served at any 1 site (or, with a waiver granted by the State under standards developed by the Secretary, not more than 500 children being served at any 1 site);
+&emsp;&emsp;(I) not more than 25 sites, with not more than 300 children being served at any one site; or
 
-&emsp;(ii) use self-preparation facilities to prepare meals, or obtain meals from a public facility (such as a school district, public hospital, or State university) or a school participating in the school lunch program under this chapter;
+&emsp;&emsp;(II) with a waiver granted by the State agency under standards developed by the Secretary, with not more than 500 children being served at any one site;
 
-&emsp;(iii) operate in areas where a school food authority or the local, municipal, or county government has not indicated by March 1 of any year that such authority or unit of local government will operate a program under this section in such year;
+&emsp;(ii) exercise full control and authority over the operation of the program at all sites under their sponsorship;
 
-&emsp;(iv) exercise full control and authority over the operation of the program at all sites under their sponsorship;
+&emsp;(iii) provide ongoing year-around activities for children or families;
 
-&emsp;(v) provide ongoing year-around activities for children or families;
+&emsp;(iv) demonstrate that such organizations have adequate management and the fiscal capacity to operate a program under this section; and
 
-&emsp;(vi) demonstrate that such organizations have adequate management and the fiscal capacity to operate a program under this section; and
-
-&emsp;(vii) meet applicable State and local health, safety, and sanitation standards.
+&emsp;(v) meet applicable State and local health, safety, and sanitation standards.
 
 #### (b) Service institutions
 
@@ -64,7 +60,7 @@ Payments.—
 
 &emsp;(A)
 
-In general.—Except as otherwise provided in this paragraph, payments to service institutions shall equal the full cost of food service operations (which cost shall includethe costs of obtaining, preparing, and serving food, but shall not include administrative costs).
+In general.—Except as otherwise provided in this paragraph, payments to service institutions shall equal the full cost of food service operations (which cost shall include the costs of obtaining, preparing, and serving food, but shall not include administrative costs).
 
 &emsp;(B)
 
@@ -106,7 +102,7 @@ Not later than April 15, May 15, and July 1 of each year, the Secretary shall fo
 
 #### (e) Advance program payments to service institutions for monthly meal service; certification of personnel training sessions; minimum days per month operations requirement; payments: computation, limitation; valid claims, receipt; withholding; demand for repayment; subtraction of disputed payments
 
-(1) Not later than June 1, July 15, and August 15 of each year, or, in the case of service institutions that operate under a continuous school calendar, the first day of each month of operation, the State shall forward advance program payments to each service institution. The State shall not release the second month's advance program payment to any service institution (excluding a school) that has not certified that it has held training sessions for its own personnel and the site personnel with regard to program duties and responsibilities. No advance program payment may be made for any month in whichthe service institution will operate under the program for less than ten days.
+(1) Not later than June 1, July 15, and August 15 of each year, or, in the case of service institutions that operate under a continuous school calendar, the first day of each month of operation, the State shall forward advance program payments to each service institution. The State shall not release the second month's advance program payment to any service institution (excluding a school) that has not certified that it has held training sessions for its own personnel and the site personnel with regard to program duties and responsibilities. No advance program payment may be made for any month in which the service institution will operate under the program for less than ten days.
 
 (2) The amount of the advance program payment for any month in the case of any service institution shall be an amount equal to (A) the total program payment for meals served by such service institution in the same calendar month of the preceding calendar year, (B) 50 percent of the amount established by the State to be needed by such service institution for meals if such service institution contracts with a food service management company, or (C) 65 percent of the amount established by the State to be needed by such service institution for meals if such service institution prepares its own meals, whichever amount is greatest: <i>Provided</i>, That the advance program payment may not exceed the total amount estimated by the State to be needed by such service institution for meals to be served in the month for which such advance program payment is made or $40,000, whichever is less, except that a State may make a larger advance program payment to such service institution where the State determines that such larger payment is necessary for the operation of the program by such service institution and sufficient administrative and management capability to justify a larger payment is demonstrated. The State shall forward any remaining payment due a service institution not later than seventy-five days following receipt of valid claims. If the State has reason to believe that a service institution will not be able to submit a valid claim for reimbursement covering the period for which an advance program payment has been made, the subsequent month's advance program payment shall be withheld until such time as the State has received a valid claim. Program payments advanced to service institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance program payment.
 
@@ -126,7 +122,7 @@ Not later than April 15, May 15, and July 1 of each year, the Secretary shall fo
 
 (7)
 
-Offer versus serve.—A school food authority participating as a service institution may permit a child attending a site on school premises operated directly by the authority to refuse one or more items of a meal that the child does not intend to consume, under rules that the school uses for school meals programs. A refusal of an offered food item shall not affect the amount of payments made under this section to a school for the meal.
+Offer versus serve.—A school food authority participating as a service institution may permit a child to refuse one or more items of a meal that the child does not intend to consume, under rules that the school uses for school meals programs. A refusal of an offered food item shall not affect the amount of payments made under this section to a school for the meal.
 
 #### (g) Regulations, guidelines, applications, and handbooks; publication; startup costs
 
@@ -152,25 +148,13 @@ Expenditures of funds from State and local sources for the maintenance of food p
 
 #### (<i>l</i>) Food service management companies; subcontracts; assignments, conditions and limitations; meal capacity information in bids subject to review; registration; record, availability to States; small and minority-owned businesses for supplies and services; contracts: standard form, bid and contract procedures, bonding requirements and exemption, review by States, collusive bidding safeguards
 
-(1) Service institutions (other than private nonprofit organizations eligible under subsection (a)(7) of this section) may contract on a competitive basis only with food service management companies registered with the State in which they operate for the furnishing of meals or management of the entire food service under the program, except that a food service management company entering into a contract with a service institution under this section may not subcontract with a single company for the total meal, with or without milk, or for the assembly of the meal. The Secretary shall prescribe additional conditions and limitations governing assignment of all or any part of a contract entered into by a food service management company under this section. Any food service management company shall, in its bid, provide the service institution information as to its meal capacity. The State shall, upon award of any bid, review the company's registration to calculate how many remaining meals the food service management company is equipped to prepare.
+(1) Service institutions may contract on a competitive basis with food service management companies for the furnishing of meals or management of the entire food service under the program, except that a food service management company entering into a contract with a service institution under this section may not subcontract with a single company for the total meal, with or without milk, or for the assembly of the meal. The Secretary shall prescribe additional conditions and limitations governing assignment of all or any part of a contract entered into by a food service management company under this section. Any food service management company shall, in its bid, provide the service institution information as to its meal capacity.
 
-(2) Each State shall provide for the registration of food service management companies. For the purposes of this section, registration shall include, at a minimum—
+(2) Each State may provide for the registration of food service management companies.
 
-&emsp;(A) certification that the company meets applicable State and local health, safety, and sanitation standards;
+(3) In accordance with regulations issued by the Secretary, positive efforts shall be made by service institutions to use small businesses and minority-owned businesses as sources of supplies and services. Such efforts shall afford those sources the maximum feasible opportunity to compete for contracts using program funds.
 
-&emsp;(B) disclosure of past and present company owners, officers, and directors, and their relationship, if any, to any service institution or food service management company that received program funds in any prior fiscal year;
-
-&emsp;(C) records of contract terminations or disallowances, and health, safety, and sanitary code violations, in regard to program operations in prior fiscal years; and
-
-&emsp;(D) the addresses of the company's food preparation and distribution sites.
-
-> No food service management company may be registered if the State determines that such company (i) lacks the administrative and financial capability to perform under the program, or (ii) has been seriously deficient in its participation in the program in prior fiscal years.
-
-(3) In order to ensure that only qualified food service management companies contract for services in all States, the Secretary shall maintain a record of all registered food service management companies that have been seriously deficient in their participation in the program and may maintain a record of other registered food service management companies, for the purpose of making such information available to the States.
-
-(4) In accordance with regulations issued by the Secretary, positive efforts shall be made by service institutions to use small businesses and minority-owned businesses as sources of supplies and services. Such efforts shall afford those sources the maximum feasible opportunity to compete for contracts using program funds.
-
-(5) Each State, with the assistance of the Secretary, shall establish a standard form of contract for use by service institutions and food service management companies. The Secretary shall prescribe requirements governing bid and contract procedures for acquisition of the services of food service management companies, including, but not limited to, bonding requirements (which may provide exemptions applicable to contracts of $100,000 or less), procedures for review of contracts by States, and safeguards to prevent collusive bidding activities between service institutions and food service management companies.
+(4) Each State, with the assistance of the Secretary, shall establish a standard form of contract for use by service institutions and food service management companies. The Secretary shall prescribe requirements governing bid and contract procedures for acquisition of the services of food service management companies, including, but not limited to, bonding requirements (which may provide exemptions applicable to contracts of $100,000 or less), procedures for review of contracts by States, and safeguards to prevent collusive bidding activities between service institutions and food service management companies.
 
 #### (m) Accounts and records
 
@@ -196,9 +180,9 @@ Each State desiring to participate in the program shall notify the Secretary by 
 
 #### (q) Authorization of appropriations
 
-For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 1998, there are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
+For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 2003, there are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
 
-(June 4, 1946, ch. 281, §13, as added May 8, 1968, Pub. L. 90–302, §3, 82 Stat. 117; amended May 14, 1970, Pub. L. 91–248, §6(c), (d), 84 Stat. 210; June 30, 1971, Pub. L. 92–32, §7, 85 Stat. 86; Sept. 26, 1972, Pub. L. 92–433, §§1, 2, 86 Stat. 724; May 2, 1975, Pub. L. 94–20, 89 Stat. 82; Oct. 7, 1975, Pub. L. 94–105, §13, 89 Stat. 515; Nov. 10, 1977, Pub. L. 95–166, §2, 91 Stat. 1325; Nov. 10, 1978, Pub. L. 95–627, §§5(d), 7(b), 10(d)(2), 92 Stat. 3620, 3622, 3624; Dec. 5, 1980, Pub. L. 96–499, title II, §206, 94 Stat. 2601; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§809, 817(b), 95 Stat. 527, 532; Oct. 18, 1986, Pub. L. 99–500, title III, §311, 100 Stat. 1783–360, and Oct. 30, 1986, Pub. L. 99–591, title III, §311, 100 Stat. 3341–363; Nov. 14, 1986, Pub. L. 99–661, div. D, title I, §4101, 100 Stat. 4071; Sept. 19, 1988, Pub. L. 100–435, title II, §213, 102 Stat. 1658; Nov. 10, 1989, Pub. L. 101–147, title I, §102(a), title III, §307, 103 Stat. 879, 915; Nov. 2, 1994, Pub. L. 103–448, title I, §§105(b), 114(a)–(g), 108 Stat. 4702, 4712, 4713; Aug. 22, 1996, Pub. L. 104–193, title VII, §706(a)–(<i>l</i>), 110 Stat. 2291–2293.)
+(June 4, 1946, ch. 281, §13, as added Pub. L. 90–302, §3, May 8, 1968, 82 Stat. 117; amended Pub. L. 91–248, §6(c), (d), May 14, 1970, 84 Stat. 210; Pub. L. 92–32, §7, June 30, 1971, 85 Stat. 86; Pub. L. 92–433, §§1, 2, Sept. 26, 1972, 86 Stat. 724; Pub. L. 94–20, May 2, 1975, 89 Stat. 82; Pub. L. 94–105, §13, Oct. 7, 1975, 89 Stat. 515; Pub. L. 95–166, §2, Nov. 10, 1977, 91 Stat. 1325; Pub. L. 95–627, §§5(d), 7(b), 10(d)(2), Nov. 10, 1978, 92 Stat. 3620, 3622, 3624; Pub. L. 96–499, title II, §206, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§809, 817(b), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §311, Oct. 18, 1986, 100 Stat. 1783–360, and Pub. L. 99–591, title III, §311, Oct. 30, 1986, 100 Stat. 3341–363; Pub. L. 99–661, div. D, title I, §4101, Nov. 14, 1986, 100 Stat. 4071; Pub. L. 100–435, title II, §213, Sept. 19, 1988, 102 Stat. 1658; Pub. L. 101–147, title I, §102(a), title III, §307, Nov. 10, 1989, 103 Stat. 879, 915; Pub. L. 103–448, title I, §§105(b), 114(a)–(g), Nov. 2, 1994, 108 Stat. 4702, 4712, 4713; Pub. L. 104–193, title VII, §706(a)–(<i>l</i>), Aug. 22, 1996, 110 Stat. 2291–2293; Pub. L. 105–336, title I,§§105(a)–(e)(1), 107(j)(2)(A), (3)(B), Oct. 31, 1998, 112 Stat. 3148, 3149, 3152, 3153.)
 
 #### References in Text
 
@@ -210,6 +194,46 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+1998—Subsec. (a)(1)(D)(i). Pub. L. 105–336, §107(j)(3)(B)(i), substituted “to have a disability” for “to be mentally or physically handicapped”.
+
+Subsec. (a)(1)(D)(ii). Pub. L. 105–336, §107(j)(3)(B)(ii), substituted “individuals who have a disability” for “the mentally or physically handicapped”.
+
+Subsec. (a)(3)(C). Pub. L. 105–336, §107(j)(2)(A), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “conduct a regularly scheduled food service primarily for homeless children; or”.
+
+Subsec. (a)(7)(B)(i). Pub. L. 105–336, §105(a), added cl. (i) and struck out former cl. (i) which read as follows:
+
+“(i)(I) serve a total of not more than 2,500 children per day at not more than 5 sites in any urban area, with not more than 300 children being served at any 1 site (or, with a waiver granted by the State under standards developed by the Secretary, not more than 500 children being served at any 1 site); or
+
+“(II) serve a total of not more than 2,500 children per day at not more than 20 sites in any rural area, with not more than 300 children being served at any 1 site (or, with a waiver granted by the State under standards developed by the Secretary, not more than 500 children being served at any 1 site);”.
+
+Subsec. (a)(7)(B)(ii) to (vii). Pub. L. 105–336, §105(b)(1), redesignated cls. (iv) to (vii) as (ii) to (v), respectively, and struck out former cls. (ii) and (iii) which read as follows:
+
+“(ii) use self-preparation facilities to prepare meals, or obtain meals from a public facility (such as a school district, public hospital, or State university) or a school participating in the school lunch program under this chapter;
+
+“(iii) operate in areas where a school food authority or the local, municipal, or county government has not indicated by March 1 of any year that such authority or unit of local government will operate a program under this section in such year;”.
+
+Subsec. (f)(7). Pub. L. 105–336, §105(c), in first sentence, struck out “attending a site on school premises operated directly by the authority” after “permit a child”.
+
+Subsec. (<i>l</i>)(1). Pub. L. 105–336, §105(b)(2)(A), in first sentence, struck out “(other than private nonprofit organizations eligible under subsection (a)(7) of this section)” after “Service institutions” and substituted “with food service management companies” for “only with food service management companies registered with the State in which they operate” and struck out at end “The State shall, upon award of any bid, review the company's registration to calculate how many remaining meals the food service management company is equipped to prepare.”
+
+Subsec. (<i>l</i>)(2). Pub. L. 105–336, §105(b)(2)(B), substituted “may” for “shall” after “Each State” and struck out at end “For the purposes of this section, registration shall include, at a minimum—
+
+&emsp;“(A) certification that the company meets applicable State and local health, safety, and sanitation standards;
+
+&emsp;“(B) disclosure of past and present company owners, officers, and directors, and their relationship, if any, to any service institution or food service management company that received program funds in any prior fiscal year;
+
+&emsp;“(C) records of contract terminations or disallowances, and health, safety, and sanitary code violations, in regard to program operations in prior fiscal years; and
+
+&emsp;“(D) the addresses of the company's food preparation and distribution sites.
+
+> No food service management company may be registered if the State determines that such company (i) lacks the administrative and financial capability to perform under the program, or (ii) has been seriously deficient in its participation in the program in prior fiscal years.”
+
+Subsec. (<i>l</i>)(3) to (5). Pub. L. 105–336, §105(b)(2)(C), (D), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “In order to ensure that only qualified food service management companies contract for services in all States, the Secretary shall maintain a record of all registered food service management companies that have been seriously deficient in their participation in the program and may maintain a record of other registered food service management companies, for the purpose of making such information available to the States.”
+
+Subsec. (n)(2). Pub. L. 105–336, §105(e)(1), amended Pub. L. 104–193, §706(j)(1). See 1996 Amendment note below.
+
+Subsec. (q). Pub. L. 105–336, §105(d), substituted “2003” for “1998”.
+
 1996—Subsec. (a)(1). Pub. L. 104–193, §706(a)(1)(A), substituted “initiate and maintain nonprofit food service programs” for “initiate, maintain, and expand nonprofit food service programs” in first sentence.
 
 Subsec. (a)(1)(E). Pub. L. 104–193, §706(a)(1)(B), struck out “the Trust Territory of the Pacific Islands,” before “and the Northern Mariana Islands”.
@@ -218,13 +242,13 @@ Subsec. (a)(7)(A). Pub. L. 104–193, §706(a)(2), substituted “Private nonpro
 
 Subsec. (b). Pub. L. 104–193, §706(b), inserted heading.
 
-Subsec. (b)(1). Pub. L. 104–193, §706(b), added par. (1) and struck out former par. (1) which read as follows: “Payments to service institutions shall equal the full cost of food service operations (which cost shall includethe cost of obtaining, preparing, and serving food, but shall not include administrative costs), except that such payments to any institution shall not exceed (1) 85.75 cents for each lunch and supper served; (2) 47.75 cents for each breakfast served; or (3) 22.50 cents for each meal supplement served: <i>Provided</i>, That such amounts shall be adjusted each January 1 to the nearest one-fourth cent in accordance with the changes for the twelve-month period ending the preceding November 30 in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor: <i>Provided further</i>, That the Secretary may make such adjustments in the maximum reimbursement levels as the Secretary determines appropriate after making the study prescribed in paragraph (4) of this subsection.”
+Subsec. (b)(1). Pub. L. 104–193, §706(b), added par. (1) and struck out former par. (1) which read as follows: “Payments to service institutions shall equal the full cost of food service operations (which cost shall include the cost of obtaining, preparing, and serving food, but shall not include administrative costs), except that such payments to any institution shall not exceed (1) 85.75 cents for each lunch and supper served; (2) 47.75 cents for each breakfast served; or (3) 22.50 cents for each meal supplement served: <i>Provided</i>, That such amounts shall be adjusted each January 1 to the nearest one-fourth cent in accordance with the changes for the twelve-month period ending the preceding November 30 in the series for food away from home of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor: <i>Provided further</i>, That the Secretary may make such adjustments in the maximum reimbursement levels as the Secretary determines appropriate after making the study prescribed in paragraph (4) of this subsection.”
 
 Subsec. (b)(2). Pub. L. 104–193, §706(c), substituted “3 meals, or 2 meals and 1 supplement,” for “four meals” in first sentence and struck out at end “The meals that camps and migrant programs may serve shall include a breakfast, a lunch, a supper, and meal supplements.”
 
 Subsec. (c)(2). Pub. L. 104–193, §706(d)(3), (4), struck out “, and such higher education institutions,” before “shall be eligible to participate” and substituted “on showing residence in areas in which poor economic conditions exist or on the basis of income eligibility statements for children enrolled in the program” for “without application”.
 
-Pub. L. 104–193, §706(d)(1), (2), designated subpar. (B) as par. (2) and struck out subpars. (A), relating to eligibility of institutions operating National Youth Sports Program for meal and supplement reimbursements, and (C) to (E), relating to reimbursement rates, nutritional requirements and meal patterns, and issuance of regulations, respectively.
+Pub. L. 104–193, §706(d)(1), (2), designated subpar. (B) as par. (2) and struck out subpars. (A), relating to eligibility of institutions operating National Youth Sports Program for meal and supplement reimbursements, and (C) to (E), relating to reimbursement rates, nutritionalrequirements and meal patterns, and issuance of regulations, respectively.
 
 Subsec. (e)(1). Pub. L. 104–193, §706(e), substituted “each service institution. The State” for “each service institution: <i>Provided</i>, That (A) the State”, inserted “(excluding a school)” after “program payment to any service institution”, and substituted “responsibilities. No advance program payment” for “responsibilities, and (B) no advance program payment”.
 
@@ -236,7 +260,7 @@ Subsec. (f)(7). Pub. L. 104–193, §706(g), added par. (7).
 
 Subsec. (m). Pub. L. 104–193, §706(h), substituted “be available at any reasonable time for inspection and audit” for “at all times be available for inspection and audit” in second sentence.
 
-Subsec. (n)(2). Pub. L. 104–193, §706(j)(1), which directed the striking out of “, including the State's methods of assessing need”, was executed by striking out “, including the State's methods for assessing need” after “needy children” to reflect the probable intent of Congress.
+Subsec. (n)(2). Pub. L. 104–193, §706(j)(1), as amended by Pub. L. 105–336, §105(e)(1), struck out “, including the State's methods for assessing need” after “needy children”.
 
 Pub. L. 104–193, §706(i), struck out “, and its plans and schedule for informing service institutions of the availability of the program” before semicolon.
 
@@ -370,7 +394,7 @@ Subsec. (b)(1). Pub. L. 95–627, §5(d), inserted “for All Urban Consumers”
 
 Subsec. (k)(1). Pub. L. 95–627, §7(b), substituted “$100,000” for “$50,000” in cl. (B), “$250,000” for “$100,000” in cl. (C), and “21/2 percent” for “2 percent” in cl. (D).
 
-1977—Subsec. (a). Pub. L. 95–166, in revising subsec. (a), among other changes: reenacted par. (1); inserted cl. (A) definition of “program”; reenacted as cl. (B) definition of “service institutions”, inserting development of “school vacation” programs; reenacted as cl. (C) definition of “areas in which poor economic conditions exist” definition of “poor economic conditions” of former par. (3), substituting “as determined by information” for “as shown by information” and “served to children attending public and nonprofit private schools located in the area of program food service sites, or from other appropriate sources, including statements of eligibility based upon income for children enrolled in the program” for “served to children attending schools located in the area of summer food sites, or from other applicable sources” and striking out reference to information provided from model city target areas; inserted cl. (D) definition of “children”; reenacted as cl. (E) definition of “State” last sentence of former par. (3), extending term to include the Northern Mariana Islands; enacted par. (2), which incorporated part of former par. (1) which had read “To the maximum extent feasible, consistent with the purposes of this section, special summer programs shall utilize the existing food service facilities of public and nonprofit private schools.”; enacted par. (3), which incorporated part of former par. (2) which had read “Service institutions eligible to participate under the program authorized under this section shall be limited to those which conduct a regularly scheduled program for children from areas in which poor economic conditions exist, for any period during the months of May through September, at site locations where organized recreation activities or food services are provided for children in attendance.”; and added pars. (4) and (5).
+1977—Subsec. (a). Pub. L. 95–166, in revising subsec. (a), among other changes: reenacted par. (1); inserted cl. (A) definition of “program”; reenacted as cl. (B) definition of “service institutions”, inserting development of “school vacation” programs; reenacted as cl. (C) definition of “areas in which poor economic conditions exist” definition of “poor economic conditions” of former par. (3), substituting “as determined by information” for “as shown by information” and “served to children attending public and nonprofit private schools located in the area of program food service sites, or from other appropriate sources, including statements of eligibility based upon income for children enrolled in the program” for “served to children attending schools located in the area of summer food sites, or from other applicable sources” and striking out reference to information provided from model city target areas; inserted cl. (D) definition of “children”; reenacted as cl. (E) definition of “State” last sentence of former par. (3), extending term to include the Northern Mariana Islands; enacted par. (2), which incorporated part of former par. (1) which had read “To the maximum extent feasible, consistent with the purposes of this section, special summer programs shall utilize the existing food service facilities of public and nonprofit private schools.”; enacted par. (3), which incorporated part of former par. (2) which had read “Service institutions eligible to participate under the program authorized under this section shall be limited to those which conduct a regularly scheduled program for children from areas in whichpoor economic conditions exist, for any period during the months of May through September, at site locations where organized recreation activities or food services are provided for children in attendance.”; and added pars. (4) and (5).
 
 Subsec. (b)(1). Pub. L. 95–166 incorporated existing provisions in part in text designated par. (1); substituted “Payments” for “Disbursements” increased payments for cost of lunch and supper, breakfast, and each meal supplement to 85.75 from 75.5, to 47.75 from 42, and to 22.50 from 19.75 cents respectively; substituted provision for adjustment of rates each January 1 based on the Consumer Price Index for twelve-month period ending November 30 for prior such provision for adjustment each March 1 based on the Index for year ending January 31; exclude from cost of food service operations administrative costs; and authorized adjustments, as appropriate, in the maximum reimbursement levels.
 
@@ -438,7 +462,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 94–105 added subsecs. (<i>l</i>) and (m).
 
 1972—Subsec. (a)(1). Pub. L. 92–433, §2(a), substituted authorization of appropriation of such sums as are necessary for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for provisions authorizing appropriation of $32,000,000 for each of the fiscal years ending June 30, 1972 and June 30, 1973.
 
-Subsec. (a)(2). Pub. L. 92–433, §2(b), inserted provisions authorizing special summer programs to utilizeexisting food service facilities of public and nonprofit private schools to the maximum extent feasible.
+Subsec. (a)(2). Pub. L. 92–433, §2(b), inserted provisions authorizing special summer programs to utilize existing food service facilities of public and nonprofit private schools to the maximum extent feasible.
 
 Subsec. (i). Pub. L. 92–433, §1, added subsec. (i).
 
@@ -447,6 +471,14 @@ Subsec. (i). Pub. L. 92–433, §1, added subsec. (i).
 Subsec. (c)(2). Pub. L. 92–32, §7(b), provided that non-Federal contributions may be in cash or kind, fairly evaluated, including but not limited to equipment and services.
 
 1970—Subsec. (f). Pub. L. 91–248 provided for determination of ability to pay the full cost of lunch based on a publicly announced policy the minimum criteria of which includes family income and the number of school children in the family unit as well as the size of the family unit in general and provided that there be no overt identification of those children who receive free and reduced price meals.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–336, title I, §105(e)(2), Oct. 31, 1998, 112 Stat. 3149, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on January 1, 1997.”
+
+Pub. L. 105–336, title I, §107(j)(4), Oct. 31, 1998, 112 Stat. 3153, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and sections 1766 and 1769f of this title and repealing section 1766b of this title\] take effect on July 1, 1999.”
+
+Amendment by sections 105(a)–(d) and 107(j)(3)(B) of Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -498,7 +530,7 @@ Section 114(h) of Pub. L. 103–448 provided that: “The Secretary of Agricultu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1752, 1755, 1760, 1769f, 1776, 1776b, 1788 of this title.
+This section is referred to in sections 1752, 1755, 1758, 1760, 1769f, 1776, 1788 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

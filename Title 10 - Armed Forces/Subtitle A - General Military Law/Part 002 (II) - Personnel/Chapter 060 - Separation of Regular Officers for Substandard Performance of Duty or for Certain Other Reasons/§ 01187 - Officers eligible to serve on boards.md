@@ -12,5 +12,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1182, 1183 of this title.
+This section is referred to in section 1182 of this title.
 

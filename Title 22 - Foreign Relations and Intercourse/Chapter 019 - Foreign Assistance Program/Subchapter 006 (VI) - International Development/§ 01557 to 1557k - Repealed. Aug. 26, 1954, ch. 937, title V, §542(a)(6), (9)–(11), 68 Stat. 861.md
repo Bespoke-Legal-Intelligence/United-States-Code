@@ -4,7 +4,7 @@ Section 1557, act June 5, 1950, ch. 220, title IV, §402, 64 Stat. 204, related 
 
 Section 1557a, act June 5, 1950, ch. 220, title IV, §403, 64 Stat. 204, related to Congressional declaration of policy. See section 2151 of this title.
 
-Section 1557b, acts June 5, 1950, ch. 220, title IV, §404, 64 Stat. 205; Oct. 10, 1951, ch. 479, title V, §528(a), 65 Stat. 386; June 20, 1952, ch. 449, §10(a), 66 Stat. 150; July 16, 1953, ch. 195, ch. VII, §709, 67 Stat. 161, related to United States participation in multilateral technicalcooperation programs; contributions; and furnishing of services and facilities. See section 2357 of this title.
+Section 1557b, acts June 5, 1950, ch. 220, title IV, §404, 64 Stat. 205; Oct. 10, 1951, ch. 479, title V, §528(a), 65 Stat. 386; June 20, 1952, ch. 449, §10(a), 66 Stat. 150; July 16, 1953, ch. 195, ch. VII, §709, 67 Stat. 161, related to United States participation in multilateral technical cooperation programs; contributions; and furnishing of services and facilities. See section 2357 of this title.
 
 Section 1557c, act June 5, 1950, ch. 220, title IV, §405, 64 Stat. 205, related to bilateral technical cooperation programs. See section 2171 of this title.
 

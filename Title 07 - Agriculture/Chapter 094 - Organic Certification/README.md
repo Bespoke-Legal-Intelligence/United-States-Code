@@ -19,6 +19,7 @@
 | (a) | In general. |
 | (b) | Discretionary requirements. |
 | (c) | State program. |
+| (d) | Availability of fees. |
 | [6507\.](%C2%A7%2006507%20-%20State%20organic%20certification%20program.md) | State organic certification program. |
 | (a) | In general. |
 | (b) | Additional requirements. |

@@ -24,7 +24,7 @@ A prior section 5 of act Apr. 16, 1934, ch. 147, 48 Stat. 596, excluded Oklahoma
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 2313.
+This section is referred to in title 20 section 2326.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

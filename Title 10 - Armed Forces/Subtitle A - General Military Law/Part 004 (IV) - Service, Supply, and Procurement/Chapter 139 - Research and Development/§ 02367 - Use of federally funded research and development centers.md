@@ -38,6 +38,10 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 1991—Subsec. (d). Pub. L. 102–190 added subsec. (d).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1991 Amendment
 
 Section 256(a)(2) of Pub. L. 102–190 provided that:

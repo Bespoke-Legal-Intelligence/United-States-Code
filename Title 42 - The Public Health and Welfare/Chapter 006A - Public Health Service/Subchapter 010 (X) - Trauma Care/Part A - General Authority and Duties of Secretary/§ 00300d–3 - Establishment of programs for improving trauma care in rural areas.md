@@ -26,7 +26,7 @@ In making grants under subsection (a) of this section, the Secretary shall give 
 
 The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title XII, §1203, formerly §1204, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2918; renumbered §1203 and amended Dec. 14, 1993, Pub. L. 103–183, title VI, §601(b)(2), (f)(1), 107 Stat. 2238, 2239.)
+(July 1, 1944, ch. 373, title XII, §1203, formerly §1204, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2918; renumbered §1203 and amended Pub. L. 103–183, title VI, §601(b)(2), (f)(1), Dec. 14, 1993, 107 Stat. 2238, 2239; Pub. L. 105–392, title IV, §401(a)(1), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 
@@ -50,7 +50,13 @@ Section 300d–9, act July 1, 1944, ch. 373, title XII, §1210, as added Nov. 16
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–183, §601(f)(1), which directed amendment of subsec. (c) of section 1204 of act July 1, 1944, by inserting “determines to be necessary to carry out this section” before period at end, was executed to this section, which is section 1203 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of this section by Pub. L. 103–183, §601(b)(1).
+1998—Pub. L. 105–392, §401(a)(1), made technical corrections to directory language of Pub. L. 103–183, §601(b)(2), which renumbered this section, and to directory language of Pub. L. 103–183, §601(f)(1). See 1993 Amendment note below.
+
+1993—Subsec. (c). Pub. L. 103–183, §601(f)(1), as amended by Pub. L. 105–392, §401(a)(1)(B), inserted “determines to be necessary to carry out this section” before period at end.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 #### Section Referred to in Other Sections
 

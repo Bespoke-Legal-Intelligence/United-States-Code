@@ -6,11 +6,11 @@
 
 (c) In order to reimburse the Commodity Credit Corporation for materials transferred to the supplemental stockpile there are hereby authorized to be appropriated amounts equal to the value of any materials so transferred. The value of any such material for the purpose of this subsection, shall be the lower of the domestic market price or the Commodity Credit Corporation's investment therein as of the date of such transfer as determined by the Secretary of Agriculture.
 
-(May 28, 1956, ch. 327, title II, §206, 70 Stat. 200; Sept. 6, 1958, Pub. L. 85–931, §7, 72 Stat. 1791; Sept. 21, 1959, Pub. L. 86–341, title II, §204, 73 Stat. 611; May 24, 1962, Pub. L. 87–456, title III, §303(c), 76 Stat. 78.)
+(May 28, 1956, ch. 327, title II, §206, 70 Stat. 200; Pub. L. 85–931, §7, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title II, §204, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78.)
 
 #### References in Text
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch.190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 Section 1704(b) of this title, referred to in subsec. (a), was amended generally by Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3635, and, as so amended, no longer contains provisions relating to a supplemental stockpile.
 

@@ -2,7 +2,7 @@ Part B—Strengthening Historically Black Colleges and Universities
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1057, 1058, 1059c, 1063c, 1065, 1068, 1069, 1069b, 1069f, 1085, 1131 of this title.
+This part is referred to in sections 1057, 1058, 1059c, 1059d, 1063c, 1065, 1068b, 1068c, 1068d, 1068h, 1070a, 1085, 1101d, 1124, 1131 of this title.
 
 
 ---

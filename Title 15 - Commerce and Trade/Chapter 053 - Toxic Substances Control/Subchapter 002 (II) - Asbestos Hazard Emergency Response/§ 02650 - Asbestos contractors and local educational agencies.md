@@ -20,7 +20,7 @@
 
 #### (2) Interim report
 
-&emsp;Not later than April 1, 1988, the Administrator shall submit to the Congress an interimreport on the progress of the study required by this subsection, along with preliminary findings based on information collected to that date.
+&emsp;Not later than April 1, 1988, the Administrator shall submit to the Congress an interim report on the progress of the study required by this subsection, along with preliminary findings based on information collected to that date.
 
 #### (3) Final report
 

@@ -36,7 +36,7 @@ Amendment by section 646(a)(1) of Pub. L. 99–145 effective Oct. 1, 1985, see s
 
 #### Effective Date
 
-Section 1011(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[enactingthis section and section 308h of this title and repealing section 308d of this title\] shall take effect on October 1, 1983.”
+Section 1011(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and section 308h of this title and repealing section 308d of this title\] shall take effect on October 1, 1983.”
 
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable
 

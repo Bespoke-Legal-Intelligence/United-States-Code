@@ -6,7 +6,7 @@ Establishment, Designation, and Stationing.—The Administrator of the Federal A
 
 (b)
 
-Duties and Powers.—An Officer reports directly to the Assistant Administrator for CivilAviation Security. The Officer at each airport shall—
+Duties and Powers.—An Officer reports directly to the Assistant Administrator for Civil Aviation Security. The Officer at each airport shall—
 
 &emsp;(1) serve as the liaison of the Assistant Administrator to foreign security authorities (including governments of foreign countries and foreign airport authorities) in carrying out United States Government security requirements at that airport; and
 

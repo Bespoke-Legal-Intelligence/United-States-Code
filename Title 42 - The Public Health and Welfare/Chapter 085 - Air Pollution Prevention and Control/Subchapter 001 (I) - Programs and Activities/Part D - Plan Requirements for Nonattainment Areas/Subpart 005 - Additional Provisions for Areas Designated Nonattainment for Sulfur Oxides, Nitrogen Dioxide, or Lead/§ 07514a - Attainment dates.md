@@ -12,7 +12,7 @@ Implementation plans required under section 7514(b) of this title shall provide 
 
 Implementation plans for nonattainment areas for sulfur oxides or nitrogen dioxide with plans that were approved by the Administrator before November 15, 1990, but, subsequent to such approval, were found by the Administrator to be substantially inadequate, shall provide for attainment of the relevant primary standard within 5 years from the date of such finding.
 
-(July 14, 1955, ch. 360, title I, §192, as added Nov. 15, 1990, Pub. L. 101–549, title I, §106, 104 Stat. 2463.)
+(July 14, 1955, ch. 360, title I, §192, as added Pub. L. 101–549, title I, §106, Nov. 15, 1990, 104 Stat. 2463.)
 
 #### Section Referred to in Other Sections
 

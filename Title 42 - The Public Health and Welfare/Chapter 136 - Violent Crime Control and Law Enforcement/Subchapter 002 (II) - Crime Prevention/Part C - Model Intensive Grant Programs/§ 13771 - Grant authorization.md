@@ -6,7 +6,7 @@
 
 &emsp;The Attorney General may award grants to not more than 15 chronic high intensive crime areas to develop comprehensive model crime prevention programs that—
 
-&emsp;&emsp;(A) involve and utilize a broad spectrum of community resources, including nonprofit community organizations, law enforcement organizations, and appropriate State and Federal agencies, including the State educational agencies;
+&emsp;&emsp;(A) involve and utilize a broad spectrum of community resources, including nonprofit community organizations, law enforcementorganizations, and appropriate State and Federal agencies, including the State educational agencies;
 
 &emsp;&emsp;(B) attempt to relieve conditions that encourage crime; and
 

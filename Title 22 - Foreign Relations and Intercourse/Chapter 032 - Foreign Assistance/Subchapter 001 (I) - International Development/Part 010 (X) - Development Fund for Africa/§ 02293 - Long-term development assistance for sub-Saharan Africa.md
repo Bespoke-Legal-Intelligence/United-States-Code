@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) drought and famine have caused countless deaths and untold suffering among the people of sub-Saharan Africa;
 
-&emsp;(2) drought and famine in combination with other factors such as desertification, government neglect of the agricultural sector, and inappropriate economic policies have severely affected long-term development in sub-Saharan Africa; and
+&emsp;(2) drought and famine in combination with other factors such as desertification, government neglect of the agricultural sector, and inappropriate economic policies have severelyaffected long-term development in sub-Saharan Africa; and
 
 &emsp;(3) the most cost-effective and efficient way of overcoming Africa's vulnerability to drought and famine is to address Africa's long-term development needs through a process that builds upon the needs and capabilities of the African people, promotes sustained and equitable economic growth, preserves the environment, and protects the rights of the individual.
 
@@ -176,6 +176,160 @@ The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), pro
 
 A prior section 2293, Pub. L. 87–195, pt. I, §496, as added Pub. L. 93–559, §53, Dec. 30, 1974, 88 Stat. 1818; amended Pub. L. 94–161, title III, §314, Dec. 20, 1975, 89 Stat. 866, related to economic assistance, etc., to Portugal and Portuguese colonies in Africa gaining independence, prior to repeal by Pub. L. 99–83, title XII, §1211(a)(4), Aug. 8, 1985, 99 Stat. 279, effective Oct. 1, 1985.
 
+#### Agricultural and Rural Development in Sub-Saharan Africa
+
+Pub. L. 105–385, §2, Nov. 13, 1998, 112 Stat. 3460, provided that:
+
+“(a)
+
+Findings.—Congress finds the following:
+
+&emsp;“(1) The economic, security, and humanitarian interests of the United States and the nations of sub-Saharan Africa would be enhanced by sustainable, broad-based agricultural and rural development in each of the African nations.
+
+&emsp;“(2) According to the Food and Agriculture Organization, the number of undernourished people in Africa has more than doubled, from approximately 100,000,000 in the late 1960s to 215,000,000 in 1998, and is projected to increase to 265,000,000 by the year 2010. According to the Food and Agriculture Organization, the term ‘under nutrition’ means inadequate consumption of nutrients, often adversely affecting children's physical and mental development, undermining their future as productive and creative members of their communities.
+
+&emsp;“(3) Currently, agricultural production in Africa employs about two-thirds of the workforce but produces less than one-fourth of the gross domestic product in sub-Saharan Africa, according to the World Bank Group.
+
+&emsp;“(4) African women produce up to 80 percent of the total food supply in Africa according to the International Food Policy Research Institute.
+
+&emsp;“(5) An effective way to improve conditions of the poor is to increase the productivity of the agricultural sector. Productivity increases can be fostered by increasing research and education in agriculture and rural development.
+
+&emsp;“(6) In November 1996, the World Food Summit set a goal of reducing hunger worldwide by 50 percent by the year 2015 and encouraged national governments to develop domestic food plans and to support international aid efforts.
+
+&emsp;“(7) Although the World Bank Group recently has launched a major initiative to support agricultural and rural development, only 10 percent, or $1,200,000,000, of its total lending to sub-Saharan Africa for fiscal years 1993 to 1997 was devoted to agriculture.
+
+&emsp;“(8)(A) United States food processing and agricultural sectors benefit greatly from the liberalization of global trade and increased exports.
+
+&emsp;“(B) Africa represents a growing market for United States food and agricultural products. Africa's food imports are projected to rise from less than 8,000,000 metric tons in 1990 to more than 25,000,000 metric tons by the \[sic\] 2020.
+
+&emsp;“(9)(A) Increased private sector investment in African countries and expanded trade between the United States and Africa can greatly help African countries achieve food self-sufficiency and graduate from dependency on international assistance.
+
+&emsp;“(B) Development assistance, technical assistance, and training can facilitate and encourage commercial development in Africa, such as improving rural roads, agricultural research and extension, and providing access to credit and other resources.
+
+&emsp;“(10)(A) Several United States private voluntary organizations have demonstrated success in empowering Africans through direct business ownership and helping African agricultural producers more efficiently and directly market their products.
+
+&emsp;“(B) Rural business associations, owned and controlled by farmer shareholders, also greatly help agricultural producers to increase their household incomes.
+
+“(b)
+
+Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities,businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
+
+Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, provided that:
+
+#### “SEC. 101. AFRICA FOOD SECURITY INITIATIVE.
+
+“(a)
+
+Additional Requirements in Carrying Out the Initiative.—In providing development assistance under the Africa Food Security Initiative, or any comparable or successor program, the Administrator of the United States Agency for International Development—
+
+&emsp;“(1) shall emphasize programs and projects that improve the food security of infants, young children, school-age children, women and food-insecure households, or that improve the agricultural productivity, incomes, and marketing of the rural poor in Africa;
+
+&emsp;“(2) shall solicit and take into consideration the views and needs of intended beneficiaries and program participants during the selection, planning, implementation, and evaluation phases of projects;
+
+&emsp;“(3) shall favor countries that are implementing reforms of their trade and investment laws and regulations in order to enhance free market development in the food processing and agricultural sectors; and
+
+&emsp;“(4) shall ensure that programs are designed and conducted in cooperation with African and United States organizations and institutions, such as private and voluntary organizations, cooperatives, land-grant and other appropriate universities, and local producer-owned cooperative marketing and buying associations, that have expertise in addressing the needs of the poor, small-scale farmers, entrepreneurs, and rural workers, including women.
+
+“(b)
+
+Sense of the Congress.—It is the sense of the Congress that, if there is an increase in funding for sub-Saharan programs, the Administrator of the United States Agency for International Development should proportionately increase resources to the Africa Food Security Initiative, or any comparable or successor program, for fiscal year 2000 and subsequent fiscal years in order to meet the needs of the countries participating in such Initiative.
+
+#### “SEC. 102. MICROENTERPRISE ASSISTANCE.
+
+“(a)
+
+Bilateral Assistance.—In providing microenterprise assistance for sub-Saharan Africa, the Administrator of the United States Agency for International Development shall, to the extent practicable, use credit and microcredit assistance to improve the capacity and efficiency of agriculture production in sub-Saharan Africa of small-scale farmers and small rural entrepreneurs. In providing assistance, the Administrator should use the applied research and technical assistance capabilities of United States land-grant universities.
+
+“(b)
+
+Multilateral Assistance.—
+
+&emsp;“(1)
+
+In general.—The Administrator of the United States Agency for International Development shall continue to work with other countries, international organizations (including multilateral development institutions), and entities assisting microenterprises and shall develop a comprehensive and coordinated strategy for providing microenterprise assistance for sub-Saharan Africa.
+
+&emsp;“(2)
+
+Additional requirement.—In carrying out paragraph (1), the Administrator should encourage the World Bank Consultative Group to Assist the Poorest to coordinate the strategy described in such paragraph.
+
+#### “SEC. 103. SUPPORT FOR PRODUCER-OWNED COOPERATIVE MARKETING ASSOCIATIONS.
+
+“(a)
+
+Purposes.—The purposes of this section are—
+
+&emsp;“(1) to support producer-owned cooperative purchasing and marketing associations in sub-Saharan Africa;
+
+&emsp;“(2) to strengthen the capacity of farmers in sub-Saharan Africa to participate in national and international private markets and to promote rural development in sub-Saharan Africa;
+
+&emsp;“(3) to encourage the efforts of farmers in sub-Saharan Africa to increase their productivity and income through improved access to farm supplies, seasonal credit, technical expertise; and
+
+&emsp;“(4) to support small businesses in sub-Saharan Africa as they grow beyond microenterprises.
+
+“(b)
+
+Support for Producer-Owned Cooperative Marketing Associations.—
+
+&emsp;“(1)
+
+Activities.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Administrator of the United States Agency for International Development is authorized to utilize relevant foreign assistance programs and initiatives for sub-Saharan Africa to support private producer-owned cooperative marketing associations in sub-Saharan Africa, including rural business associations that are owned and controlled by farmer shareholders.
+
+&emsp;&emsp;“(B)
+
+Additional requirements.—In carrying out subparagraph (A), the Administrator—
+
+&emsp;&emsp;&emsp;“(i) shall take into account small-scale farmers, small rural entrepreneurs, and rural workers and communities; and
+
+&emsp;&emsp;&emsp;“(ii) shall take into account the local-level perspectives of the rural and urban poor through close consultation with these groups, consistent with section 496(e)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2293(e)(1)).
+
+&emsp;“(2)
+
+Other activities.—In addition to carrying out paragraph (1), the Administrator is encouraged—
+
+&emsp;&emsp;“(A) to cooperate with governments of foreign countries, including governments of political subdivisions of such countries, their agricultural research universities, and particularly with United States nongovernmental organizations and United States land-grant universities, that have demonstrated expertise in the development and promotion of successful private producer-owned cooperative marketing associations; and
+
+&emsp;&emsp;“(B) to facilitate partnerships between United States and African cooperatives and private businesses to enhance the capacity and technical and marketing expertise of business associations in sub-Saharan Africa.
+
+#### “SEC. 104. AGRICULTURAL AND RURAL DEVELOPMENT ACTIVITIES OF THE OVERSEAS PRIVATE INVESTMENT CORPORATION.
+
+“(a)
+
+Purpose.—The purpose of this section is to encourage the Overseas Private Investment Corporation to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa, particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
+
+“(b)
+
+Sense of the Congress.—It is the sense of the Congress that—
+
+&emsp;“(1) the Overseas Private Investment Corporation should exercise its authority under law to undertake an initiative to support private agricultural and rural development in sub-Saharan Africa, including issuing loans, guaranties, and insurance, to support rural development in sub-Saharan Africa, particularly to support intermediary organizations that—
+
+&emsp;&emsp;“(A) directly serve the needs of small-scale farmers, small rural entrepreneurs, and rural producer-owned cooperative purchasing and marketing associations;
+
+&emsp;&emsp;“(B) have a clear track-record of support for sound business management practices; and
+
+&emsp;&emsp;“(C) have demonstrated experience with participatory development methods; and
+
+&emsp;“(2) the Overseas Private Investment Corporation should utilize existing equity funds, loan and insurance funds, to the extent feasible and in accordance with existing contractual obligations, to support agriculture and rural development in sub-Saharan Africa.
+
+#### “SEC. 105. AGRICULTURAL RESEARCH AND EXTENSION ACTIVITIES.
+
+“(a)
+
+Development of Plan.—The Administrator of the United States Agency for International Development, in consultation with the Secretary of Agriculture and appropriate Department of Agriculture agencies, especially the Cooperative State, Research, Education and Extension Service (CSREES), shall develop a comprehensive plan to coordinate and build on the research and extension activities of United States land-grant universities, international agricultural research centers, and national agricultural research and extension centers in sub-Saharan Africa.
+
+“(b)
+
+Additional Requirements.—Such plan shall seek to ensure that—
+
+&emsp;“(1) research and extension activities will respond to the needs of small-scale farmers while developing the potential and skills of researchers, extension agents, farmers, and agribusiness persons in sub-Saharan Africa;
+
+&emsp;“(2) sustainable agricultural methods of farming will be considered together with new technologies in increasing agricultural productivity in sub-Saharan Africa; and
+
+&emsp;“(3) research and extension efforts will focus on sustainable agricultural practices and will be adapted to widely varying climates within sub-Saharan Africa.”
+
 #### Reports to Congress
 
 Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
@@ -186,13 +340,13 @@ Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Cong
 
 &emsp;“(3) the extent to which there has been expansion of the participation and integration of African women in each of the critical sectors specified in section 496(i);
 
-&emsp;“(4) program assistance provided, including the amounts obligated, the criteria used for assisting reforms, and the provisions made pursuant to section496(h)(2)(B) to protect vulnerable groups from possible negative consequences of the reforms; and
+&emsp;“(4) program assistance provided, including the amounts obligated, the criteria used for assisting reforms, and the provisions made pursuant to section 496(h)(2)(B) to protect vulnerable groups from possible negative consequences of the reforms; and
 
 &emsp;“(5) a description of the assistance for the critical sector priorities specified in section 496(i), by sector, including the amounts obligated.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151u, 2294 of this title.
+This section is referred to in section 2294 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “has”.</i>
 

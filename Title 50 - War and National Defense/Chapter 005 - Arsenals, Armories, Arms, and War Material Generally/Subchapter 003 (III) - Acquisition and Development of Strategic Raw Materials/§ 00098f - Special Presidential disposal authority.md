@@ -20,6 +20,10 @@ Provisions similar to those in this section were contained in former section 98d
 
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 98d, 98e, 98h, 98h–7 of this title.

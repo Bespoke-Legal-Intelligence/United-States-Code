@@ -6,7 +6,7 @@
 
 (2) All amounts appropriated to the Secretary under subsection (e) of this section shall be transferred by the Secretary to the Trust within fifteen days after submission of the Trust instrument to Congress in accordance with the requirements of subsection (c) of this section.
 
-(3) Except as provided in subsection (e)(2) of this section, none of the amounts transferred to the Trust pursuant to paragraph (2) shall be distributed by the trustee or trustees for the benefit of the Natives of the Pribilof Islands until 30 days after submission to Congress of the documents described in section 1165(a) and (d) of this title. Such distributions shall be made by the trustee or trustees only after the Secretary has determined that such Trust has been established and will be operated in accordance with a trust instrument, or instruments, approved by the Secretary which further the purposes and policies of this chapter.
+(3) Except as provided in subsection (e)(2) of this section, none of the amounts transferred to the Trust pursuant to paragraph (2) shall be distributed by the trustee or trustees for the benefit of the Natives of the Pribilof Islands until 30 days after submission to Congress of the documents described in section 1165(a) and (d) of this title. Such distributions shall be made by thetrustee or trustees only after the Secretary has determined that such Trust has been established and will be operated in accordance with a trust instrument, or instruments, approved by the Secretary which further the purposes and policies of this chapter.
 
 (4) Until the termination of the period described in paragraph (3), the trustee or trustees shall invest the amounts transferred pursuant to paragraph (2) in securities with maturities suitable for the needs of the Trust, bearing interest rates at rates determined by the trustee or trustees, taking into consideration average market yields on outstanding marketable obligations of the United States of comparable maturities. The income from such investments shall be credited to, and form a part of the Trust.
 
@@ -18,7 +18,7 @@ The Trust shall be administered in accordance with such terms and conditions as 
 
 There may be one Trust instrument establishing the Trust described in subsection (a) of this section, or two such instruments, each relating to one of the two portions of the Trust as provided in subsection (d) of this section, which shall address, but need not be limited to, such matters as—
 
-&emsp;(1) establishing standards and procedures for the disbursement by the trustee or trustees of Trust assets for purposes of fostering in the Pribilof Islands a stable, diversified, and enduring economy not dependent upon sealing after Federal management of the islands isterminated, which procedures may include formal participation of Pribilof Islands Native councils, corporations, or other such entities;
+&emsp;(1) establishing standards and procedures for the disbursement by the trustee or trustees of Trust assets for purposes of fostering in the Pribilof Islands a stable, diversified, and enduring economy not dependent upon sealing after Federal management of the islands is terminated, which procedures may include formal participation of Pribilof Islands Native councils, corporations, or other such entities;
 
 &emsp;(2) establishing the Secretary as trustor;
 
@@ -64,7 +64,7 @@ The interest on, and the proceeds from the sale or redemption of, any asset or o
 
 #### (g) Annual report to Congress
 
-The trustee or trustees shall submit to Congress and to the Secretary an annual report, the first of which is due on April 30, 1984, and subsequent reports on the same date each year thereafter during the life of the Trust, providing information on expenditures made from the Trust and progress towards achieving the purposes set out in subsection (a) of this section. On April 30, 1986, the Secretary shall also submit a report to the Congress detailing all progress toward achieving these purposes since October 14, 1983. For purposes of preparing such report, the Secretary by regulation may require that the trustee and the State of Alaska submit such relevant information to the Secretary as he deems appropriate.
+The trustee or trustees shall submit to Congress and to the Secretary an annual report, the first of which is due on April 30, 1984, and subsequent reports on the same date each year thereafter during the life of the Trust, providing information on expenditures made from the Trust and progress towards achieving the purposes set out in subsection (a) of this section. On April 30, 1986, the Secretary shall also submit a report to the Congress detailing all progress towardachieving these purposes since October 14, 1983. For purposes of preparing such report, the Secretary by regulation may require that the trustee and the State of Alaska submit such relevant information to the Secretary as he deems appropriate.
 
 #### (h) Exemption from taxation
 

@@ -58,7 +58,7 @@ Findings and Declarations.—The Congress finds and declares that—
 
 &emsp;“(4) legislation is necessary because congressional records related to the assassination of President John F. Kennedy would not otherwise be subject to public disclosure until at least the year 2029;
 
-&emsp;“(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by theexecutive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
+&emsp;“(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
 
 &emsp;“(6) legislation is necessary because Executive Order No. 12356 \[50 U.S.C. 435 note\], entitled ‘National Security Information’ has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
 
@@ -132,7 +132,7 @@ Purposes.—The purposes of this Act are—
 
 &emsp;“(10) ‘Public interest’ means the compelling interest in the prompt public disclosure of assassination records for historical and governmental purposes and for the purpose of fully informing the American people about the history surrounding the assassination of President John F. Kennedy.
 
-&emsp;“(11) ‘Record’ includes a book, paper, map, photograph, sound or video recording, machine readable material, computerized, digitized, or electronic information, regardless of the medium on which it is stored, or other documentary material, regardless of its physical form or characteristics.
+&emsp;“(11) ‘Record’ includes a book, paper, map, photograph, sound or video recording, machine readablematerial, computerized, digitized, or electronic information, regardless of the medium on which it is stored, or other documentary material, regardless of its physical form or characteristics.
 
 &emsp;“(12) ‘Review Board’ means the Assassination Records Review Board established by section 7.
 
@@ -178,7 +178,7 @@ Additional Requirements.—(1) The Collection shall be preserved, protected, arc
 
 “(e)
 
-Oversight.—The Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
+Oversight.—The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the Collection.
 
 #### “SEC. 5. REVIEW, IDENTIFICATION, TRANSMISSION TO THE NATIONAL ARCHIVES, AND PUBLIC DISCLOSURE OF ASSASSINATION RECORDS BY GOVERNMENT OFFICES.
 
@@ -364,7 +364,7 @@ Removal of Review Board Member.—(1) No member of the Review Board shall be rem
 
 &emsp;“(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
 
-“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives and the Committee on Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
+“(2)(A) If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal the President shall submit to the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
 
 “(B) The President shall publish in the Federal Register a report submitted under paragraph (2)(A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
 
@@ -420,7 +420,7 @@ Witness Immunity.—The Review Board shall be considered to be an agency of the 
 
 “(<i>l</i>)
 
-Oversight.—(1) The Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+Oversight.—(1) The Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives and the Committee on Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
 
 “(2) The Review Board shall have the duty to cooperate with the exercise of such oversight jurisdiction.
 
@@ -446,7 +446,7 @@ Termination and Winding Up.—(1) The Review Board and the terms of its members 
 
 Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
 
-“(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has hadno previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
+“(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
 “(3)(A) A candidate for Executive Director shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 
@@ -566,7 +566,7 @@ Notice to Public.—Every 30 calendar days, beginning on the date that is 60 cal
 
 “(f)
 
-Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives, the Committee on Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+Reports by the Review Board.—(1) The Review Board shall report its activities to the leadership of the Congress, the Committee on Government Operations \[now Committee on Government Reform\] of the House of Representatives, the Committee on Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
 
 “(2) The first report shall be issued on the date that is 1 year after the date of enactment of this Act \[Oct. 26, 1992\], and subsequent reports every 12 months thereafter until termination of the Review Board.
 
@@ -626,7 +626,7 @@ Judicial Review.—Nothing in this Act shall be construed to preclude judicial r
 
 “(d)
 
-Existing Authority.—Nothing in this Act revokes or limits the existing authority of the President,any executive agency, the Senate, or the House of Representatives, or any other entity of the Government to publicly disclose records in its possession.
+Existing Authority.—Nothing in this Act revokes or limits the existing authority of the President, any executive agency, the Senate, or the House of Representatives, or any other entity of the Government to publicly disclose records in its possession.
 
 “(e)
 
@@ -666,5 +666,5 @@ For provisions authorizing Archivist to review, downgrade, and declassify inform
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3102, 3317 of this title; title 36 section 138.
+This section is referred to in sections 3102, 3317 of this title; title 36 section 2103.
 

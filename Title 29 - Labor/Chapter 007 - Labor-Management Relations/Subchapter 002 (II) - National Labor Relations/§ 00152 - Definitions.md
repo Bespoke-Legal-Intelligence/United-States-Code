@@ -6,7 +6,7 @@ When used in this subchapter—
 
 &emsp;(2) The term “employer” includes any person acting as an agent of an employer, directly or indirectly, but shall not include the United States or any wholly owned Government corporation, or any Federal Reserve Bank, or any State or political subdivision thereof, or any person subject to the Railway Labor Act \[45 U.S.C. 151 et seq.\], as amended from time to time, or any labor organization (other than when acting as an employer), or anyone acting in the capacity of officer or agent of such labor organization.
 
-&emsp;(3) The term “employee” shall include any employee, and shall not be limited to the employees of a particular employer, unless this subchapter explicitly states otherwise, and shall include any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice, and who has not obtained any other regular and substantially equivalent employment, but shall not include any individual employed as an agricultural laborer, or in the domestic service of any family or person at his home, or any individual employed by his parent or spouse, or any individual having the status of an independent contractor, or any individual employed as a supervisor, or any individual employed by an employer subject to the Railway Labor Act \[45 U.S.C. 151 et seq.\], as amended from time totime, or by any other person who is not an employer as herein defined.
+&emsp;(3) The term “employee” shall include any employee, and shall not be limited to the employees of a particular employer, unless this subchapter explicitly states otherwise, and shall include any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice, and who has not obtained any other regular and substantially equivalent employment, but shall not include any individual employed as an agricultural laborer, or in the domestic service of any family or person at his home, or any individual employed by his parent or spouse, or any individual having the status of an independent contractor, or any individual employed as a supervisor, or any individual employed by an employer subject to the Railway Labor Act \[45 U.S.C. 151 et seq.\], as amended from time to time, or by any other person who is not an employer as herein defined.
 
 &emsp;(4) The term “representatives” includes any individual or labor organization.
 
@@ -68,5 +68,5 @@ Prohibitions placed on Communist organizations, and members thereof, with respec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1803 of this title; title 7 section 2015; title 20 section 76k.
+This section is referred to in section 1803 of this title; title 7 section 2015; title 20 section 76k; title 42 section 653a.
 

@@ -83,3 +83,31 @@ In subsection (a)(1), reference to a civil action to enforce an order for the pa
 
 1984—Subsecs. (c) to (e). Pub. L. 98–554 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
+#### DOT Implementation Plan
+
+Pub. L. 105–178, title IV, §4026, June 9, 1998, 112 Stat. 416, provided that:
+
+“(a)
+
+Assessment.—Not later than 18 months after the date of enactment of this section \[June 9, 1998\], the Secretary \[of Transportation\] shall assess the scope of the problem of shippers, freight forwarders, brokers, consignees, or other persons (other than rail carriers, motor carriers, motor carriers of migrant workers, or motor private carriers) encouraging violations of chapter 5 of title 49, United States Code, or a regulation or order issued by the Secretary under such chapter.
+
+“(b)
+
+Submission of Implementation Plan.—After completion of the assessment under subsection (a), the Secretary may submit to the Congress a plan for implementing authority (if subsequently provided by law) to investigate and bring civil actions to enforce chapter 5 of title 49, United States Code, or regulations or orders issued by the Secretary under such chapter with respect to persons described in subsection (a).
+
+“(c)
+
+Contents of Implementation Plan.—In developing the implementation plan under subsection (b), the Secretary shall consider, as appropriate—
+
+&emsp;“(1) in what circumstances the Secretary would exercise the new authority;
+
+&emsp;“(2) how the Secretary would determine that shippers, freight forwarders, brokers, consignees, or other persons committed violations described in subsection (a), including what types of evidence would be conclusive;
+
+&emsp;“(3) what procedures would be necessary during investigations to ensure the confidentiality of shipper contract terms prior to the Secretary's findings of violations;
+
+&emsp;“(4) what impact the exercise of the new authority would have on the Secretary's resources, including whether additional investigative or legal resources would be necessary and whether the staff would need specialized education or training to exercise properly such authority;
+
+&emsp;“(5) to what extent the Secretary would conduct educational activities for persons who would be subject to the new authority; and
+
+&emsp;“(6) any other information that would assist the Congress in determining whether to provide the Secretary the new authority.”
+

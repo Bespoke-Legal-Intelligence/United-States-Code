@@ -38,7 +38,7 @@
 
 &emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regarding a participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
-&emsp;(B) A determination by the Secretary of whether a provider referred to in subparagraph\(A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the provider accepts voluntary donations regarding the provision of services to the public.
+&emsp;(B) A determination by the Secretary of whether a provider referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the provider accepts voluntary donations regarding the provision of services to the public.
 
 #### (c) Priority in making grants
 
@@ -52,7 +52,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 &emsp;(2) Assurances satisfactory to the Secretary that the program to be provided under the grant applied for will include educational programs designed to—
 
-&emsp;&emsp;(A) communicate to parents, educators, and local health officials the significance and prevalence of lead poisoning in infants and children (including the sources of lead exposure, the importance of screening young children for lead, and the preventive steps that parents can take in reducing the risk of lead poisoning) which the program is designed to detect and prevent; and
+&emsp;&emsp;(A) communicate to parents, educators, and local health officials the significanceand prevalence of lead poisoning in infants and children (including the sources of lead exposure, the importance of screening young children for lead, and the preventive steps that parents can take in reducing the risk of lead poisoning) which the program is designed to detect and prevent; and
 
 &emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
@@ -92,7 +92,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 &emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
-> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as partof the grant and shall be deemed to have been paid to the grant recipient.
+> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (h) Records
 
@@ -106,7 +106,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 #### (1) In general
 
-&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grants under subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (<i>l</i>)(2) of this section.
+&emsp;Not later than May 1 of each year, the Secretary shall submit to the Congress a report on the effectiveness during the preceding fiscal year of programs carried out with grantsunder subsection (a) of this section and of any programs that are carried out by the Secretary pursuant to subsection (<i>l</i>)(2) of this section.
 
 #### (2) Certain requirements
 
@@ -132,13 +132,13 @@ For purposes of this section, the term “political subdivision” includes Indi
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1998.
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 2002.
 
 #### (2) Allocation for other programs
 
 &emsp;Of the amounts appropriated under paragraph (1) for any fiscal year, the Secretary may reserve not more than 20 percent for carrying out programs regarding the activities described in subsection (a) of this section in addition to the program of grants established in such subsection.
 
-(July 1, 1944, ch. 373, title III, §317A, as added Oct. 31, 1988, Pub. L. 100–572, §3, 102 Stat. 2887; amended Oct. 27, 1992, Pub. L. 102–531, title III, §303(a), 106 Stat. 3484; Dec. 14, 1993, Pub. L. 103–183, title VII, §705(a), 107 Stat. 2241.)
+(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588.)
 
 #### References in Text
 
@@ -153,6 +153,8 @@ The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 
 A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 Stat. 3590; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by Pub. L. 97–35, title IX, §902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
 
 #### Amendments
+
+1998—Subsec. (<i>l</i>)(1). Pub. L. 105–392 substituted “2002” for “1998”.
 
 1993—Subsec. (<i>l</i>)(1). Pub. L. 103–183 substituted “through 1998” for “through 1997”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The Administrator may make grants to a State, to be transmitted through the State advisory group to units of general local government that meet the requirements of subsection (b) of this section, for delinquency prevention programs and activities for youth who have had contact with the juvenile justice system or who are likely to have contact with the juvenile justice system, including the provision to children, youth, and families of—
+The Administrator may make grants to a State, to be transmitted through the State advisory group to units of local government that meet the requirements of subsection (b) of this section, for delinquency prevention programs and activities for youth who have had contact with the juvenile justice system or who are likely to have contact with the juvenile justice system, including the provision to children, youth, and families of—
 
 &emsp;(1) recreation services;
 
@@ -20,7 +20,7 @@ The Administrator may make grants to a State, to be transmitted through the Stat
 
 #### (b) Eligibility
 
-The requirements of this subsection are met with respect to a unit of general local government if—
+The requirements of this subsection are met with respect to a unit of general local government <sup>1</sup> if—
 
 &emsp;(1) the unit is in compliance with the requirements of part B of subchapter II of this chapter;
 
@@ -46,5 +46,11 @@ In considering grant applications under this section, the Administrator shall gi
 
 &emsp;(3) developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention.
 
-(Pub. L. 93–415, title V, §505, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5028.)
+(Pub. L. 93–415, title V, §505, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5028; amended Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(F)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 substituted “units of local government” for “units of general local government” in introductory provisions.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “unit of local government”.</i>
 

@@ -150,7 +150,7 @@
 
 &emsp;Before making a determination—
 
-&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed orassembled in the United States (other than minor completion or assembly),
+&emsp;&emsp;(A) under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
 
 &emsp;&emsp;(B) under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
 
@@ -170,7 +170,7 @@
 
 The administering authority shall, to the maximum extent practicable, make the determinations under this section within 300 days from the date of the initiation of a countervailing duty or antidumping circumvention inquiry under this section.
 
-(June 17, 1930, ch. 497, title VII, §781, as added Aug. 23, 1988, Pub. L. 100–418, title I, §1321(a), 102 Stat. 1192; amended Dec. 8, 1994, Pub. L. 103–465, title II, §230, 108 Stat. 4891.)
+(June 17, 1930, ch. 497, title VII, §781, as added Pub. L. 100–418, title I, §1321(a), Aug. 23, 1988, 102 Stat. 1192; amended Pub. L. 103–465, title II, §230, Dec. 8, 1994, 108 Stat. 4891.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@
 
 (b) For purposes of this part, the term “interpersonal violence within families and among acquaintances” includes behavior commonly referred to as domestic violence, sexual assault, spousal abuse, woman battering, partner abuse, elder abuse, and acquaintance rape.
 
-(July 1, 1944, ch. 373, title III, §393, as added Dec. 14, 1993, Pub. L. 103–183, title II, §201(2), 107 Stat. 2231.)
+(July 1, 1944, ch. 373, title III, §393, as added Pub. L. 103–183, title II, §201(2), Dec. 14, 1993, 107 Stat. 2231.)
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@
 
 (c) Sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5 do not apply to employment under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Nov. 2, 1966, Pub. L. 89–718, §28, 80 Stat. 1119; Oct. 13, 1978, Pub. L. 95–454, title VII, §703(c)(3), title VIII, §801(a)(3)(I), 92 Stat. 1217, 1222; Dec. 12, 1980, Pub. L. 96–513, title V, §514(15), 94 Stat. 2936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 89–718, §28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, §703(c)(3), title VIII, §801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, §514(15), Dec. 12, 1980, 94 Stat. 2936.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 703(c)(3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub.L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
+Amendment by section 703(c)(3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
 
 Amendment by section 801(a)(3)(I) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of Title 5.
 

@@ -4,7 +4,7 @@
 
 Arrest in nearby or distant districts; informative statement by judge or magistrate; hearing and removal; warrant; Rule 40.
 
-(June 25, 1948, ch. 645, 62 Stat. 817; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(3), 82 Stat. 1115.)
+(June 25, 1948, ch. 645, 62 Stat. 817; Pub. L. 90–578, title III, §301(a)(3), Oct. 17, 1968, 82 Stat. 1115.)
 
 #### Amendments
 

@@ -52,7 +52,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
 
-&emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and onsuch small business concern and which provides that—
+&emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
 
 &emsp;&emsp;(i) the loan guaranteed under section 636(a) of this title shall be used solely for the purchase of qualifying employer securities of such concern,
 
@@ -118,7 +118,7 @@ For purposes of section 636 of this title, the term “energy measures” includ
 
 #### (h) “Credit elsewhere” defined
 
-For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms andconditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
+For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
 
 #### (i) “Homeowners” defined
 
@@ -324,7 +324,7 @@ Subsec. (a)(5). Pub. L. 100–26, §10(b)(2)(C), substituted “shall be made no
 
 Pub. L. 99–272 inserted proviso that notwithstanding any other provision of law, an agricultural enterprise shall be deemed to be a small business concern if it, including its affiliates, has annual receipts not in excess of $500,000.
 
-Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “InternalRevenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
 
@@ -356,7 +356,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1987 Amendment
 
-Section 12(c) of Pub. L. 100–26 provided that: “The amendments made by sections 5 \[amending section 2365of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
+Section 12(c) of Pub. L. 100–26 provided that: “The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
 
 #### Effective Date of 1986 Amendment; Initial Review of Standards
 
@@ -422,7 +422,7 @@ Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 631b, 637, 638, 644, 657a, 662, 694b, 3703, 4721, 4724 of this title; title5 section 601; title 7 section 5623; title 10 sections 2319, 2323; title 12 sections 635, 1835, 3013; title 13 section 91; title 31 sections 3554, 6701; title 35 sections 41, 201; title 41 section 253c; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 section 47113; title 50 App. section 2152.
+This section is referred to in sections 78c, 631b, 637, 638, 644, 657a, 662, 694b, 3703, 4721, 4724 of this title; title 5 section 601; title 7 section 5623; title 10 sections 2319, 2323; title 12 sections 635, 1441a, 1835, 3013; title 13 section 91; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 sections 47107, 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

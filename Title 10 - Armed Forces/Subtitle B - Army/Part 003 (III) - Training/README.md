@@ -1,11 +1,6 @@
 ## PART III—TRAINING
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>401.</b>](Chapter%20401%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>4301</b> |
 | [<b>403.</b>](Chapter%20403%20-%20United%20States%20Military%20Academy/README.md) | <b>United States Military Academy</b> | <b>4331</b> |

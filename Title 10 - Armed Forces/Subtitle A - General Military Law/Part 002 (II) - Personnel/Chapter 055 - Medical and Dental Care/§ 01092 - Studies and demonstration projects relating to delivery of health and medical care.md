@@ -1,6 +1,6 @@
 ### §1092. Studies and demonstration projects relating to delivery of health and medical care
 
-(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstration projects on the health care delivery system of the uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
+(a)(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall conduct studies and demonstrationprojects on the health care delivery system of the uniformed services with a view to improving the quality, efficiency, convenience, and cost effectiveness of providing health care services (including dental care services) under this title to members and former members and their dependents. Such studies and demonstration projects may include the following:
 
 &emsp;(A) Alternative methods of payment for health and medical care services.
 
@@ -14,17 +14,17 @@
 
 &emsp;(F) Prepayment for medical care services provided to maintain the health of a defined population.
 
-(2) The Secretary of Defense shall include in the studies conducted under paragraph (1) alternative programs for the provision of dental care to the spouses and dependents of members of the uniformed services who are on active duty, including a program under which dental care would be provided the spouses and dependents ofsuch members under insurance or dental plan contracts. A demonstration project may not be conducted under this section that provides for the furnishing of dental care under an insurance or dental plan contract.
-
-(3) The Secretary of Defense shall submit to Congress from time to time written reports on the results of the studies and demonstration projects conducted under this subsection and shall include in such reports such recommendations for improving the health-care delivery systems of the uniformed services as the Secretary considers appropriate.
+(2) The Secretary of Defense shall include in the studies conducted under paragraph (1) alternative programs for the provision of dental care to the spouses and dependents of members of the uniformed services who are on active duty, including a program under which dental care would be provided the spouses and dependents of such members under insurance or dental plan contracts. A demonstration project may not be conducted under this section that provides for the furnishing of dental care under an insurance or dental plan contract.
 
 (b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 
 (c) The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other ongoing or completed studies and demonstration projects.
 
-(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870.)
+(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123.)
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–261 struck out par. (3) which read as follows: “The Secretary of Defense shall submit to Congress from time to time written reports on the results of the studies and demonstration projects conducted under this subsection and shall include in such reports such recommendations for improving the health-care delivery systems of the uniformed services as the Secretary considers appropriate.”
 
 1984—Subsec. (a)(1). Pub. L. 98–557 substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
 
@@ -64,7 +64,7 @@ Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as am
 
 “(a)
 
-Requirement for Program.—(1) Not later than 120 days after the date of enactment of this Act \[Oct. 5, 1994\], the Secretary of Defense shall develop and carry out a demonstration program to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces. The Secretary of Defense shall develop and carry out the program in consultation with the Secretaries of the military departments.
+Requirement for Program.—(1) Not later than 120 days after the date of enactment of this Act \[Oct.5, 1994\], the Secretary of Defense shall develop and carry out a demonstration program to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces. The Secretary of Defense shall develop and carry out the program in consultation with the Secretaries of the military departments.
 
 “(2) In carrying out the program, the Secretary of Defense shall—
 
@@ -80,7 +80,7 @@ Program Period.—The Secretary shall carry out the demonstration program in fis
 
 “(c)
 
-Reporting Requirements.—(1) Not later than January 30, 1995, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report on the demonstration program. The report shall—
+Reporting Requirements.—(1) Not later than January 30, 1995, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the demonstration program. The report shall—
 
 &emsp;“(A) identify the treatment facilities designated pursuant to subsection (a)(2)(A); and
 
@@ -88,7 +88,7 @@ Reporting Requirements.—(1) Not later than January 30, 1995, the Secretary of 
 
 “(2) Not later than May 1, 1995, the Secretary of Defense shall submit to the committees referred to in paragraph (1) a plan for evaluating the program, including a schedule for conducting progress reviews and for submitting a final report to the committees.
 
-“(3) Not later than January 30, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report that identifies the additional treatment facilities designated to furnish chiropractic care under the program that were not so designated before the report required by paragraph (1) was prepared, together with the plan for the conduct of the program at the additional treatment facilities.
+“(3) Not later than January 30, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report that identifies the additional treatment facilities designated to furnish chiropractic care under the program that were not so designated before the report required by paragraph (1) was prepared, together with the plan for the conduct of the program at the additional treatment facilities.
 
 “(4) Not later than May 1, 1998, the Secretary of Defense shall modify the plan for evaluating the program submitted pursuant to paragraph (2) in order to provide for the evaluation of the program at all of the designated treatment facilities under the program, including the treatment facilities referred to in paragraph (3).
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibited transactions
 
-No defense article or defense service may be sold or licensed for export under this chapter in a fiscal year to a foreign country that the President determines and certifies to Congress, by May 15 of the calendar year in which that fiscal year begins, is not cooperating fully with United States antiterrorism efforts.
+No defense article or defense service may be sold or licensed for export under this chapter ina fiscal year to a foreign country that the President determines and certifies to Congress, by May 15 of the calendar year in which that fiscal year begins, is not cooperating fully with United States antiterrorism efforts.
 
 #### (b) Waiver
 
@@ -16,5 +16,5 @@ Another section 40A of Pub. L. 90–629 is classified to section 2785 of this ti
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by section 1(n) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section delegated to Secretary of State by section 1(<i>o</i>) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Executive Agencies.—Except as provided in this chapter, a person is not required to obtain from an executive agency a license, approval, waiver, or exemption to launch a launch vehicle or operate a launch site.
+Executive Agencies.—Except as provided in this chapter, a person is not required to obtain from an executive agency a license, approval, waiver, or exemption to launch a launch vehicle or operate a launch site or reentry site, or to reenter a reentry vehicle.
 
 (b)
 
@@ -22,7 +22,7 @@ States and Political Subdivisions.—A State or political subdivision of a State
 
 (d)
 
-Consultation.—The Secretary of Transportation is encouraged to consult with a State to simplify and expedite the approval of a space launch activity.
+Consultation.—The Secretary of Transportation is encouraged to consult with a State to simplify and expedite the approval of a space launch or reentry activity.
 
 (e)
 
@@ -34,17 +34,17 @@ Foreign Countries.—The Secretary of Transportation shall—
 
 (f)
 
-Launch Not an Export.—A launch vehicle or payload that is launched is not, because of the launch, an export for purposes of a law controlling exports.
+Launch Not an Export; Reentry Not an Import.—A launch vehicle, reentry vehicle, or payload that is launched or reentered is not, because of the launch or reentry, an export or import, respectively, for purposes of a law controlling exports or imports, except that payloads launched pursuant to foreign trade zone procedures as provided for under the Foreign Trade Zones Act (19 U.S.C. 81a–81u) shall be considered exports with regard to customs entry.
 
 (g)
 
 Nonapplication.—This chapter does not apply to—
 
-&emsp;(1) a launch, operation of a launch vehicle or launch site, or other space activity the Government carries out for the Government; or
+&emsp;(1) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
 
-&emsp;(2) planning or policies related to the launch, operation, or activity.
+&emsp;(2) planning or policies related to the launch, reentry, operation, or activity.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(15), Oct. 28, 1998, 112 Stat. 2850.)
 
 Historical and Revision Notes
 
@@ -100,7 +100,19 @@ The Communications Act of 1934, referred to in subsec. (b)(1), is act June 19, 1
 
 The Land Remote Sensing Policy Act of 1992, referred to in subsec. (b)(2), is Pub. L. 102–555, Oct. 28, 1992, 106 Stat. 4163, which is classified principally to chapter 82 (§5601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 15 and Tables.
 
+The Foreign Trade Zones Act, referred to in subsec. (f), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§81a et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–303, §102(a)(15)(A), inserted “or reentry site, or to reenter a reentry vehicle” after “operate a launch site”.
+
+Subsec. (d). Pub. L. 105–303, §102(a)(15)(B), inserted “or reentry” after “approval of a space launch”.
+
+Subsec. (f). Pub. L. 105–303, §102(a)(15)(C), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “A launch vehicle or payload that is launched is not, because of the launch, an export for purposes of a law controlling exports.”
+
+Subsec. (g)(1). Pub. L. 105–303, §102(a)(15)(D)(i), substituted “reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site,” for “operation of a launch vehicle or launch site,”.
+
+Subsec. (g)(2). Pub. L. 105–303, §102(a)(15)(D)(ii), inserted “reentry,” after “launch,”.
 
 1996—Subsec. (b)(2). Pub. L. 104–287 substituted “Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)” for “Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)”.
 

@@ -30,5 +30,5 @@ Aug. 26, 1954, ch. 935, Ch. VII, 68 Stat. 813.
 
 #### Savings Provision
 
-Section 12(b) of Pub. L. 101–301 provided that: “Hearing officers heretofore appointed to preside over Indian probate proceedings pursuant to the proviso repealed by subsection (a) \[25 U.S.C. 372–1\], having met the qualifications required for appointment pursuant to section 3105 of title 5, United States Code, shall be deemed to have been appointed pursuant to that section.”
+Section 12(b) of Pub. L. 101–301 provided that: “Hearing officers heretofore appointed to preside over Indianprobate proceedings pursuant to the proviso repealed by subsection (a) \[25 U.S.C. 372–1\], having met the qualifications required for appointment pursuant to section 3105 of title 5, United States Code, shall be deemed to have been appointed pursuant to that section.”
 

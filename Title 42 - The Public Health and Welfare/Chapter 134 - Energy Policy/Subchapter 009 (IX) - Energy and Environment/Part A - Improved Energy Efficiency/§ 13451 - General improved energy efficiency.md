@@ -2,7 +2,7 @@
 
 #### (a) Program direction
 
-The Secretary shall conduct a 5-year program, in accordance with sections 13541 and 13542 of this title, on cost effective technologies to improve energy efficiency and increase the use of renewable energy in the buildings, industrial, and utility sectors. Such program shall include a broad range of technological approaches, and shall include field demonstrations of sufficient scale and number to prove technical and economic viability to meet the goals stated in section 13401 of this title. Such program shall include the activities required under sections 13452, 13453, 13454, 13455, 13456, and 13457 of this title and section 2106 <sup>1</sup> and ongoing activities of a similar nature at the Department of Energy. Such program shall also include the activities conducted pursuant to the Steel and AluminumEnergy Conservation and Technology Competitiveness Act of 1988 (Public Law 100–680) \[15 U.S.C. 5101 et seq.\] and the Department of Energy Metal Casting Competitiveness Research Act of 1990 (Public Law 101–425) \[15 U.S.C. 5301 et seq.\].
+The Secretary shall conduct a 5-year program, in accordance with sections 13541 and 13542 of this title, on cost effective technologies to improve energy efficiency and increase the use of renewable energy in the buildings, industrial, and utility sectors. Such program shall include a broad range of technological approaches, and shall include field demonstrations of sufficient scale and number to prove technical and economic viability to meet the goals stated in section 13401 of this title. Such program shall include the activities required under sections 13452, 13453, 13454, 13455, 13456, and 13457 of this title and section 2106 <sup>1</sup> and ongoing activities of a similar nature at the Department of Energy. Such program shall also include the activities conducted pursuant to the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 (Public Law 100–680) \[15 U.S.C. 5101 et seq.\] and the Department of Energy Metal Casting Competitiveness Research Act of 1990 (Public Law 101–425) \[15 U.S.C. 5301 et seq.\].
 
 #### (b) Program goals
 
@@ -76,7 +76,7 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[O
 
 #### Study and Report on Vibration Reduction Technologies
 
-Section 173 of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title I, §173, Oct. 24, 1992, 106 Stat. 2865, as amended by Pub. L. 105–362, title IV, §401(c), Nov. 10, 1998, 112 Stat. 3282, provided that:
 
 “(a)
 
@@ -91,10 +91,6 @@ Procedure.—In carrying out such study, the Secretary shall—
 &emsp;“(2) evaluate the cost-effectiveness of active noise and vibration cancellation technologies as compared to other alternatives for reducing noise and vibration.
 
 “(c)
-
-Report.—The Secretary shall transmit to the Congress, not later than 12 months after the date of the enactment of this Act \[Oct. 24, 1992\], a report containing the findings and conclusions of the study carried out under this section.
-
-“(d)
 
 Demonstration.—The Secretary may, based on the findings and conclusions of the study carried out under this section, conduct at least one project designed to demonstrate the commercial application of active noise and vibration cancellation technologies using fast adapting algorithms in products or equipment with a significant potential for increased energy efficiency.”
 

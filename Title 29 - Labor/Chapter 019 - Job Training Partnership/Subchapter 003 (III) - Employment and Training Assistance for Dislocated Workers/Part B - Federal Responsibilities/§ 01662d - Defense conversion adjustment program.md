@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From funds made available to carry out this section, the Secretary may make grants to States, substate grantees, employers, employer associations, and representatives of employeesto provide training, adjustment assistance, and employment services to eligible employees adversely affected by reductions in expenditures by the United States for defense, by closures of United States military facilities, or by reductions in the export of defense articles and defense services as a result of United States policy, including reductions in the amount of defense articles and defense services under agreements to provide such articles or services or through termination or completion of any such agreements. For purposes of this section, an eligible employee is an eligible dislocated worker as defined in section 1651(a) of this title who has been terminated or laid off, or has received a notice of termination or lay off, as a consequence of reductions in expenditures by the United States for defense, by closures of United States military facilities, or by reductions in the export of defense articles and defense services as a result of United States policy, including reductions in the amount of defense articles and defense services under agreements to provide such articles or services or through termination or completion of any such agreements as determined in accordance with regulations of the Secretary.
+From funds made available to carry out this section, the Secretary may make grants to States, substate grantees, employers, employer associations, and representatives of employees to provide training, adjustment assistance, and employment services to eligible employees adversely affected by reductions in expenditures by the United States for defense, by closures of United States military facilities, or by reductions in the export of defense articles and defense services as a result of United States policy, including reductions in the amount of defense articles and defense services under agreements to provide such articles or services or through termination or completion of any such agreements. For purposes of this section, an eligible employee is an eligible dislocated worker as defined in section 1651(a) of this title who has been terminated or laid off, or has received a notice of termination or lay off, as a consequence of reductions in expenditures by the United States for defense, by closures of United States military facilities, or by reductions in the export of defense articles and defense services as a result of United States policy, including reductions in the amount of defense articles and defense services under agreements to provide such articles or services or through termination or completion of any such agreements as determined in accordance with regulations of the Secretary.
 
 #### (b) Application
 
@@ -16,7 +16,7 @@ Grants under subsection (a) of this section may be used for any purpose for whic
 
 In carrying out the grant program established under subsection (a) of this section, the Secretary may make grants to entities referred to in that subsection for the purpose of developing demonstration projects to encourage and promote innovative responses to the dislocation resulting from reductions in expenditures by the United States for defense, by closures of United States military facilities, or by reductions in the export of defense articles and defense services as a result of United States policy, including reductions in the amount of defense articles and defense services under agreements to provide such articles or services or through termination or completion of any such agreements. Such demonstration projects may include—
 
-&emsp;(1) projects to facilitate the placement of eligible employees in occupations experiencing skill shortages that will make use of the skills acquired by the eligible employees during their employment;
+&emsp;(1) projects to facilitate the placement of eligible employees in occupations experiencingskill shortages that will make use of the skills acquired by the eligible employees during their employment;
 
 &emsp;(2) projects to assist in retraining and reorganization efforts designed to avert layoffs that would otherwise occur as a result of such reductions or closures; and
 
@@ -45,6 +45,10 @@ In carrying out the grant program established under subsection (a) of this secti
 For purposes of this section, the term “defense articles and defense services” means defense articles, defense services, or design and construction services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), including defense articles and defense services licensed or approved for export under section 38 of that Act (22 U.S.C. 2778).
 
 (Pub. L. 97–300, title III, §325, as added Pub. L. 101–510, div. D, title XLII, §4202, Nov. 5, 1990, 104 Stat. 1852; amended Pub. L. 102–484, div. D, title XLIV, §4467(e), Oct. 23, 1992, 106 Stat. 2751; Pub. L. 103–337, div. A, title XI, §§1136(b), 1137(a), Oct. 5, 1994, 108 Stat. 2878.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 

@@ -16,9 +16,9 @@ For the purpose of carrying out this subpart, subpart III and section 290aa–4 
 
 #### (2) Activities of Center for Substance Abuse Prevention
 
-&emsp;Of the amounts reserved under paragraph (1) for a fiscal year, the Secretary, acting through the Director of the Center for Substance Abuse Prevention, shall obligate 20 percent for carrying out paragraph (1)(C), section 300x–58(a) <sup>2</sup> of this title with respect to prevention activities, and section 290bb–21(d) of this title.
+&emsp;Of the amounts reserved under paragraph (1) for a fiscal year, the Secretary, acting through the Director of the Center for Substance Abuse Prevention, shall obligate 20 percent for carrying out paragraph (1)(C), section 300x–58(a) <sup>2</sup> ofthis title with respect to prevention activities, and section 290bb–21(d) of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1935, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 403.)
+(July 1, 1944, ch. 373, title XIX, §1935, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 403.)
 
 #### References in Text
 

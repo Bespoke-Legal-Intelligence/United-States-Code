@@ -6,7 +6,7 @@ Unless the traditional acquisition approach of design-bid-build established unde
 
 #### (b) Criteria for use
 
-A contracting officer shall make a determination whether two-phase selection procedures areappropriate for use for entering into a contract for the design and construction of a public building, facility, or work when the contracting officer anticipates that three or more offers will be received for such contract, design work must be performed before an offeror can develop a price or cost proposal for such contract, the offeror will incur a substantial amount of expense in preparing the offer, and the contracting officer has considered information such as the following:
+A contracting officer shall make a determination whether two-phase selection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when the contracting officer anticipates that three or more offers will be received for such contract, design work must be performed before an offeror can develop a price or cost proposal for such contract, the offeror will incur a substantial amount of expense in preparing the offer, and the contracting officer has considered information such as the following:
 
 &emsp;(1) The extent to which the project requirements have been adequately defined.
 
@@ -70,7 +70,7 @@ The Federal Acquisition Regulation shall include guidance—
 
 #### References in Text
 
-The Brooks Architect-Engineers Act, referred to in subsecs. (a) and (c)(1), is title IX of act June 30, 1949, ch. 288, as added by act Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1278, as amended, which is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 541 of Title 40 and Tables.
+The Brooks Architect-Engineers Act, referred to in subsecs. (a) and (c)(1), is title IX of act June 30, 1949, ch.288, as added by act Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1278, as amended, which is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 541 of Title 40 and Tables.
 
 #### Effective Date
 

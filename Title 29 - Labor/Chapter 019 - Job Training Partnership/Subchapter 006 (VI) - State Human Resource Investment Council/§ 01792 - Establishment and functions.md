@@ -24,7 +24,7 @@ Each State may, in accordance with the requirements of this subchapter, establis
 
 &emsp;(A) Except as provided in subparagraph (B), for purposes of this subchapter, the term “applicable Federal human resource program” includes any program authorized under the provisions of law described under paragraph (2)(A) that the Governor and the head of the State agency responsible for the administration of such program jointly agree to include within the jurisdiction of the State Council.
 
-&emsp;(B) With respect to a program authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.) under paragraph (2)(A)(ii), the term “applicable Federal human resource program”shall only apply to such program if, in addition to meeting the requirements of subparagraph (A), the State council on vocational education agrees to include such program under the jurisdiction of the State Council.
+&emsp;(B) With respect to a program authorized under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.) under paragraph (2)(A)(ii), the term “applicable Federal human resource program” shall only apply to such program if, in addition to meeting the requirements of subparagraph (A), the State council on vocational education agrees to include such program under the jurisdiction of the State Council.
 
 #### (2) Programs
 
@@ -38,7 +38,7 @@ Each State may, in accordance with the requirements of this subchapter, establis
 
 &emsp;&emsp;&emsp;(iii) the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.);
 
-&emsp;&emsp;&emsp;(iv) the Adult Education Act (20 U.S.C. 1201 et seq.);
+&emsp;&emsp;&emsp;(iv) the Adult Education Act;
 
 &emsp;&emsp;&emsp;(v) the Wagner-Peyser Act (29 U.S.C. 49 et seq.); and
 
@@ -50,13 +50,17 @@ Each State may, in accordance with the requirements of this subchapter, establis
 
 (Pub. L. 97–300, title VII, §701, as added Pub. L. 102–367, title VI, §601(a), Sept. 7, 1992, 106 Stat. 1099; amended Pub. L. 104–193, title I, §110(n)(17), Aug. 22, 1996, 110 Stat. 2175.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(1)(B), (2)(A)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(1)(B), (2)(A)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
-The Adult Education Act, referred to in subsec. (b)(2)(A)(iv), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which is classified generally to chapter 30 (§1201 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 20 and Tables.
+The Adult Education Act, referred to in subsec. (b)(2)(A)(iv), is title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of Title 20, Education, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (b)(2)(A)(v), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

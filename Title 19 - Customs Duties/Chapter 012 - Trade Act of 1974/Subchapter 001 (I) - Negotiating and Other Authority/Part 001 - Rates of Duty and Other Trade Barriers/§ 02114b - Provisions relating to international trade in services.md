@@ -32,13 +32,17 @@
 
 (4) The Secretary of Commerce shall carry out the provisions of this subsection from funds otherwise made available to him which may be used for such purposes.
 
-(5) For purposes of this section, the term “services” means economic activities whose outputs are other than tangible goods. Such term includes, but is not limited to, banking, insurance, transportation, communications and data processing, retail and wholesale trade, advertising, accounting, construction, design and engineering, management consulting, real estate, professional services, entertainment, education, health care, and tourism.
+(5) For purposes of this section, the term “services” means economic activities whose outputs are other than tangible goods. Such term includes, but is not limited to, banking, insurance, transportation, postal and delivery services, communications and data processing, retail and wholesale trade, advertising, accounting, construction, design and engineering, management consulting, real estate, professional services, entertainment, education, health care, and tourism.
 
-(Pub. L. 98–573, title III, §306(a), Oct. 30, 1984, 98 Stat. 3008.)
+(Pub. L. 98–573, title III, §306(a), Oct. 30, 1984, 98 Stat. 3008; Pub. L. 105–277, div. A, §101(h) \[title VI, §633(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524.)
 
 #### Codification
 
 Section was enacted as part of the International Trade and Investment Act, and also as part of the Trade and Tariff Act of 1984, and not as part of the Trade Act of 1974 which comprises this chapter.
 
 Section is comprised of subsec. (a) of section 306 of Pub. L. 98–573. Subsec. (b) of such section amended sections 3101, 3103, and 3104 of Title 22, Foreign Relations and Intercourse, and enacted a provision set out as a note under section 3101 of Title 22, subsec. (c)(1), (2)(A) of such section is classified to section 2114c of this title, and subsec. (c)(2)(B), (C) of such section amended sections 2114, 2155, 2413, and 2414 of this title.
+
+#### Amendments
+
+1998—Par. (5). Pub. L. 105–277, which directed the amendment of par. (5) by inserting “postal and delivery services,” after “transportation.” in second sentence, was executed by making the insertion after “transportation,” to reflect the probable intent of Congress.
 

@@ -56,5 +56,5 @@ See note set out under section 102 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 3121; title 42 section 410.
+This section is referred to in section 115 of this title; title 26 section 3121; title 42 section 410.
 

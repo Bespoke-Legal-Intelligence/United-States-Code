@@ -20,7 +20,7 @@ The President shall prescribe such terms and conditions for the disposal of comm
 
 (b) The quantity of any commodity in the commodity set-aside shall be reduced to the extent that the Commodity Credit Corporation inventory of such commodity is reduced, by natural or other cause beyond the control of the Corporation, below the quantity then charged to the commodity set-aside.
 
-(Aug. 28, 1954, ch. 1041, title I, §103, 68 Stat. 897; July 30, 1979, Pub. L. 96–41, §3(a)(1), 93 Stat. 324.)
+(Aug. 28, 1954, ch. 1041, title I, §103, 68 Stat. 897; Pub. L. 96–41, §3(a)(1), July 30, 1979, 93 Stat. 324.)
 
 #### References in Text
 

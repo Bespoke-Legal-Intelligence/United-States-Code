@@ -58,7 +58,7 @@
 
 &emsp;(17) “Director” means the Director of the Federal Emergency Management Agency.
 
-(b) The Director is authorized to define, by rules and regulations, any technical or tradeterm, insofar as such definition is not inconsistent with the provisions of this subchapter.
+(b) The Director is authorized to define, by rules and regulations, any technical or trade term, insofar as such definition is not inconsistent with the provisions of this subchapter.
 
 (June 27, 1934, ch. 847, title XII, §1203, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 557; amended Pub. L. 91–609, title VI, §602(b), Dec. 31, 1970, 84 Stat. 1788; Pub. L. 98–181, title IV, §452(b)(1), (2), Nov. 30, 1983, 97 Stat. 1230.)
 

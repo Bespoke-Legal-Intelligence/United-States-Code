@@ -92,7 +92,7 @@ Purple
 
 #### (5) Covered fleet
 
-&emsp;The term “covered fleet” means 10 or more motor vehicles which are owned or operatedby a single person. In determining the number of vehicles owned or operated by a single person for purposes of this paragraph, all motor vehicles owned or operated, leased or otherwise controlled by such person, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person shall be treated as owned by such person. The term “covered fleet” shall not include motor vehicles held for lease or rental to the general public, motor vehicles held for sale by motor vehicle dealers (including demonstration vehicles), motor vehicles used for motor vehicle manufacturer product evaluations or tests, law enforcement and other emergency vehicles, or nonroad vehicles (including farm and construction vehicles).
+&emsp;The term “covered fleet” means 10 or more motor vehicles which are owned or operated by a single person. In determining the number of vehicles owned or operated by a single person for purposes of this paragraph, all motor vehicles owned or operated, leased or otherwise controlled by such person, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person shall be treated as owned by such person. The term “covered fleet” shall not include motor vehicles held for lease or rental to the general public, motor vehicles held for sale by motor vehicle dealers (including demonstration vehicles), motor vehicles used for motor vehicle manufacturer product evaluations or tests, law enforcement and other emergency vehicles, or nonroad vehicles (including farm and construction vehicles).
 
 #### (6) Covered fleet vehicle
 
@@ -108,5 +108,5 @@ Purple
 
 &emsp;The term “clean-fuel vehicle” means a vehicle in a class or category of vehicles which has been certified to meet for any model year the clean-fuel vehicle standards applicable under this part for that model year to clean-fuel vehicles in that class or category.
 
-(July 14, 1955, ch. 360, title II, §241, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2511.)
+(July 14, 1955, ch. 360, title II, §241, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2511.)
 

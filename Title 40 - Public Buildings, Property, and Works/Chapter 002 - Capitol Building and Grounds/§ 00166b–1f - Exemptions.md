@@ -6,7 +6,7 @@ Notwithstanding any other provision of sections 166b–1a to 166b–1f of this t
 
 &emsp;(2) in accordance with subchapter IV of chapter 53 of title 5, relating to prevailing rate pay systems;
 
-&emsp;(3) at per hour or per diem rates in accordance with section 3 of the Legislative Pay Act of 1929, as amended (46 Stat. 38; 55 Stat. 615), relating to employees performing professional and technical services for the Architect of the Capitol in connection with construction projects and employees under the Office of the Architect of the Capitol whose tenure of employment is temporary or of uncertain duration; or
+&emsp;(3) at per hour or per diem rates in accordance with section 3 of the Legislative Pay Act of 1929, as amended (46 Stat. 38; 55 Stat. 615),relating to employees performing professional and technical services for the Architect of the Capitol in connection with construction projects and employees under the Office of the Architect of the Capitol whose tenure of employment is temporary or of uncertain duration; or
 
 &emsp;(4) in accordance with prevailing rates under authority of sections 174j–1 to 174j–7 of this title entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, or section 174k of this title, relating to the duties of the Architect of the Capitol with respect to the House of Representatives Restaurant.
 

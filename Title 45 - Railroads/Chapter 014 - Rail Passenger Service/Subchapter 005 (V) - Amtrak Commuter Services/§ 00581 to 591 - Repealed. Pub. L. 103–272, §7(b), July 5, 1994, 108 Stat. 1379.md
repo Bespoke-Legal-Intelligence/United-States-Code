@@ -10,7 +10,7 @@ A prior section 582, Pub. L. 91–518, title V, §502, Oct. 30, 1970, 84 Stat. 1
 
 Section 583, Pub. L. 91–518, title V, §503, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 648, enumerated general powers of Amtrak Commuter Services Corporation. See sections 24501 and 24504 of Title 49, Transportation.
 
-A prior section 583, Pub. L. 91–518, title V, §503, Oct. 30, 1970, 84 Stat. 1338, provided for a report to Congress by advisory panel, evaluating initial capitalization of Corporation, and prospects for increasing its capitalization, prior to repeal by Pub. L. 94–25, §9, May 26, 1975, 89 Stat. 92.
+A prior section 583, Pub. L. 91–518, title V, §503, Oct. 30, 1970, 84 Stat. 1338, provided for a report to Congressby advisory panel, evaluating initial capitalization of Corporation, and prospects for increasing its capitalization, prior to repeal by Pub. L. 94–25, §9, May 26, 1975, 89 Stat. 92.
 
 Section 584, Pub. L. 91–518, title V, §504, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 648, related to commuter services provided by Amtrak Commuter Services Corporation. See sections 24501, 24504, and 24505 of Title 49, Transportation.
 

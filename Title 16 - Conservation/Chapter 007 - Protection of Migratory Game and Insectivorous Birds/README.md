@@ -84,6 +84,7 @@
 | (a) | Advance allotments to Postal Service. |
 | (b) | Acquisition of bird refuges. |
 | (c) | Waterfowl Production Areas. |
+| (d) | Promotion of stamp sales. |
 | [718e.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718e%20-%20Offenses.md) | Offenses. |
 | (a) | Loan or transfer of stamp. |
 | (b) | Alteration and counterfeiting of stamp. |
@@ -93,6 +94,7 @@
 | [718h.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718h%20-%20Cooperation%20with%20States%20and%20Territories.md) | Cooperation with States and Territories. |
 | [718i.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718i%20-%20Repealed.%20July%2030%2C%201956%2C%20ch.%20782%2C%20%C2%A73%28c%29%2C%2070%20Stat.%20722.md) | Repealed. |
 | [718j.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718j%20-%20Crediting%20of%20funds%20received%20as%20fees%20for%20entering%20migratory-bird%20hunting%20and%20conservation%20stamp%20contest.md) | Crediting of funds received as fees for entering migratory-bird hunting and conservation stamp contest. |
+| [718k.](Subchapter%20004%20%28IV%29%20-%20Hunting%20and%20Conservation%20Stamp%20Tax/%C2%A7%2000718k%20-%20Use%20of%20fees%20collected%20for%20Federal%20migratory%20bird%20permits.md) | Use of fees collected for Federal migratory bird permits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -12,6 +12,10 @@ Based on 44 U.S. Code, 1964 ed., §133 (Jan. 12, 1895, ch. 23, §2, 28 Stat. 601
 
 1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 726 of this title.

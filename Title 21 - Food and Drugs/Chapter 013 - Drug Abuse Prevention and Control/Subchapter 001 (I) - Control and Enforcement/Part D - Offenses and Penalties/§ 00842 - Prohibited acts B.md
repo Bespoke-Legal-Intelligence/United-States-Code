@@ -12,7 +12,7 @@ It shall be unlawful for any person—
 
 &emsp;(4) to remove, alter, or obliterate a symbol or label required by section 825 of this title;
 
-&emsp;(5) to refuse or fail to make, keep, or furnish any record, report, notification, declaration, order or order form, statement, invoice, or information required under this subchapter or subchapter II of this chapter;
+&emsp;(5) to refuse or negligently fail to make, keep, or furnish any record, report, notification, declaration, order or order form, statement, invoice, or information required under this subchapter or subchapter II of this chapter;
 
 &emsp;(6) to refuse any entry into any premises or inspection authorized by this subchapter or subchapter II of this chapter;
 
@@ -22,11 +22,11 @@ It shall be unlawful for any person—
 
 &emsp;(9) who is a regulated person to engage in a regulated transaction without obtaining the identification required by 830(a)(3) of this title;
 
-&emsp;(10) to fail to keep a record or make a report under section 830 of this title; or
+&emsp;(10) negligently to fail to keep a record or make a report under section 830 of this title; or
 
 &emsp;(11) to distribute a laboratory supply to a person who uses, or attempts to use, that laboratory supply to manufacture a controlled substance or a listed chemical, in violation of this subchapter or subchapter II of this chapter, with reckless disregard for the illegal uses to which such a laboratory supply will be put.
 
-> As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer ofthe notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer.
+> As used in paragraph (11), the term “laboratory supply” means a listed chemical or any chemical, substance, or item on a special surveillance list published by the Attorney General, which contains chemicals, products, materials, or equipment used in the manufacture of controlled substances and listed chemicals. For purposes of paragraph (11), there is a rebuttable presumption of reckless disregard at trial if the Attorney General notifies a firm in writing that a laboratory supply sold by the firm, or any other person or firm, has been used by a customer of the notified firm, or distributed further by that customer, for the unlawful production of controlled substances or listed chemicals a firm distributes and 2 weeks or more after the notification the notified firm distributes a laboratory supply to the customer.
 
 #### (b) Manufacture
 
@@ -38,7 +38,9 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 #### (c) Penalties
 
-(1) Except as provided in paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
+(1)(A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
+
+(B) In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
 
 (2)(A) If a violation of this section is prosecuted by an information or indictment which alleges that the violation was committed knowingly and the trier of fact specifically finds that the violation was so committed, such person shall, except as otherwise provided in subparagraph (B) of this paragraph, be sentenced to imprisonment of not more than one year or a fine of not more than $25,000, or both.
 
@@ -48,13 +50,19 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (3) Except under the conditions specified in paragraph (2) of this subsection, a violation of this section does not constitute a crime, and a judgment for the United States and imposition of a civil penalty pursuant to paragraph (1) shall not give rise to any disability or legal disadvantage based on conviction for a criminal offense.
 
-(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103.)
+(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103;Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68.)
 
 #### References in Text
 
 Schedules I and II, referred to in subsec. (b), are set out in section 812(c) of this title.
 
 #### Amendments
+
+1998—Subsec. (a)(5). Pub. L. 105–277, §101(b) \[title I, §117(1)\], inserted “negligently” before “fail”.
+
+Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §117(2)\], inserted “negligently” before “to fail”.
+
+Subsec. (c)(1). Pub. L. 105–277, §101(b) \[title I, §117(3)\], designated existing provisions as subpar. (A), inserted “subparagraph (B) of this paragraph and” before “paragraph (2)”, and added subpar. (B).
 
 1996—Subsec. (a). Pub. L. 104–237, §205(a), added par. (11) and closing provisions.
 

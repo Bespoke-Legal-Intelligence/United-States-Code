@@ -52,7 +52,7 @@
 
 &emsp;(B) in the case of a lien on an individual's home under subsection (a)(1)(B) of this section, when—
 
-&emsp;&emsp;(i) no sibling of the individual (who was residing in the individual's home for a period of at least one year immediately before the date of the individual's admission to the medical institution), and
+&emsp;&emsp;(i) no sibling of the individual (who was residing in the individual's home for a period of at least one year immediately before thedate of the individual's admission to the medical institution), and
 
 &emsp;&emsp;(ii) no son or daughter of the individual (who was residing in the individual's home for a period of at least two years immediately before the date of the individual's admission to the medical institution, and who establishes to the satisfaction of the State that he or she provided care to such individual which permitted such individual to reside at home rather than in an institution),
 
@@ -88,7 +88,7 @@
 
 (ii) The services described in this subparagraph with respect to a noninstitutionalized individual are services (not including any services described in clause (i)) that are described in paragraph (7), (22), or (24) of section 1396d(a) of this title, and, at the option of a State, other long-term care services for which medical assistance is otherwise available under the State plan to individuals requiring long-term care.
 
-(D) The date specified in this subparagraph is the first day of the first month during or after which assets have been transferred for less thanfair market value and which does not occur in any other periods of ineligibility under this subsection.
+(D) The date specified in this subparagraph is the first day of the first month during or after which assets have been transferred for less than fair market value and which does not occur in any other periods of ineligibility under this subsection.
 
 (E)(i) With respect to an institutionalized individual, the number of months of ineligibility under this subparagraph for an individual shall be equal to—
 
@@ -106,7 +106,7 @@
 
 &emsp;(I) in the case of periods of ineligibility determined under clause (i), by the number of months of ineligibility applicable to the individual under clause (ii) as a result of such disposal, and
 
-&emsp;(II) in the case of periods of ineligibility determined under clause (ii), by the number of months of ineligibility applicable to the individual under clause (i) as a result of such disposal.
+&emsp;(II) in the case of periods of ineligibility determined under clause (ii), by the number ofmonths of ineligibility applicable to the individual under clause (i) as a result of such disposal.
 
 (2) An individual shall not be ineligible for medical assistance by reason of paragraph (1) to the extent that—
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;(iv) To the extent that amounts remaining in the beneficiary's account upon the death of the beneficiary are not retained by the trust, the trust pays to the State from such remaining amounts in the account an amount equal to the total amount of medical assistance paid on behalf of the beneficiary under the State plan under this subchapter.
 
-(5) The State agency shall establish procedures (in accordance with standards specified by the Secretary) under which the agency waives the application of this subsection with respect to an individual if the individual establishes that such application would work an unduehardship on the individual as determined on the basis of criteria established by the Secretary.
+(5) The State agency shall establish procedures (in accordance with standards specified by the Secretary) under which the agency waives the application of this subsection with respect to an individual if the individual establishes that such application would work an undue hardship on the individual as determined on the basis of criteria established by the Secretary.
 
 (6) The term “trust” includes any legal instrument or device that is similar to a trust but includes an annuity only to such extent and in such manner as the Secretary specifies.
 
@@ -228,9 +228,9 @@ In this section, the following definitions shall apply:
 
 &emsp;(4) The term “noninstitutionalized individual” means an individual receiving any of the services specified in subsection (c)(1)(C)(ii) of this section.
 
-&emsp;(5) The term “resources” has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
+&emsp;(5) The term “resources” has the meaning given such term in section 1382b of this title,without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Sept. 3, 1982, Pub. L. 97–248, title I, §132(b), 96 Stat. 370; amended Jan. 12, 1983, Pub. L. 97–448, title III, §309(b)(21), (22), 96 Stat. 2410; Dec. 22, 1987, Pub. L. 100–203, title IV, §4211(h)(12), 101 Stat. 1330–207; July 1, 1988, Pub. L. 100–360, title III, §303(b), title IV, §411(<i>l</i>)(3)(I), 102 Stat. 760, 803; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(16)(B), 102 Stat. 2417; Dec. 19, 1989, Pub. L. 101–239, title VI, §6411(e)(1), 103 Stat. 2271; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), 107 Stat. 622–628.)
+(Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(<i>l</i>)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628.)
 
 #### Amendments
 
@@ -270,7 +270,7 @@ Subsec. (e). Pub. L. 103–66, §13611(c), added subsec. (e).
 
 Subsec. (c)(2)(B)(i). Pub. L. 101–239, §6411(e)(1)(B)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “to (or to another for the sole benefit of) the community spouse, as defined in section 1396r–5(h)(2) of this title,,”.
 
-Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out “, or” after “subparagraph\(A)(ii)(II)” in cl. (ii) and struck out cl. (iii) which read as follows: “to (or to another for the sole benefit of) the individual's spouse if such spouse does not transfer such resources to another person other than the spouse for less than fair market value”.
+Subsec. (c)(2)(B)(ii), (iii). Pub. L. 101–239, §6411(e)(1)(B)(ii), struck out “, or” after “subparagraph (A)(ii)(II)” in cl. (ii) and struck out cl. (iii) which read as follows: “to (or to another for the sole benefit of) the individual's spouse if such spouse does not transfer such resources to another person other than the spouse for less than fair market value”.
 
 1988—Subsec. (c). Pub. L. 100–360, §303(b), amended subsec. (c) generally, substituting pars. (1) to (4) relating to taking into account certain transfers of assets, for former pars. (1) to (3) relating to denial of medical assistance, period of eligibility, and exceptions.
 

@@ -1,6 +1,6 @@
 ### §7728. Restricted certificate
 
-The Secretary of the Navy may restrict a certificate issued under this chapter so that it stays only the taking of testimony of certain witnesses or the production of evidence on certain subjects. The proceedings not stayed may continue.
+The Secretary of the Navy may restrict a certificate issued under this chapter so that it stays only the taking of testimony of certainwitnesses or the production of evidence on certain subjects. The proceedings not stayed may continue.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 485.)
 

@@ -1,11 +1,6 @@
 ## PART V—SERVICE, SUPPLY, AND PROCUREMENT
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1801.</b>](Chapter%201801%20-%20Issue%20of%20Serviceable%20Material%20to%20Reserve%20Components/README.md) | <b>Issue of Serviceable Material to Reserve Components. \[No present sections\]</b> |  |
 | [<b>1803.</b>](Chapter%201803%20-%20Facilities%20for%20Reserve%20Components/README.md) | <b>Facilities for Reserve Components</b> | <b>18231</b> |

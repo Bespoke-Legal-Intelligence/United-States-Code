@@ -12,7 +12,7 @@ Each implementation plan revision required under section 7511a(d) and (e) of thi
 
 #### (2) Baseline amount
 
-&emsp;For purposes of this section, the baseline amount shall be computed, in accordance with such guidance as the Administrator may provide, as the lower of the amount of actual VOC emissions (“actuals”) or VOC emissions allowed under the permit applicable to the source (or, if no such permit has been issued for the attainment year, the amount of VOC emissions allowed under the applicable implementation plan (“allowables”)) during the attainment year. Notwithstanding the preceding sentence, the Administrator may issue guidance authorizing the baseline amount to be determined in accordance with the lower of average actuals or average allowables, determined over a period of more than one calendar year. Such guidance may provide that such average calculation for a specific source may be used if that source's emissions are irregular, cyclical, or otherwise vary significantly from year to year.
+&emsp;For purposes of this section, the baseline amount shall be computed, in accordance with such guidance as the Administrator may provide, as the lower of the amount of actual VOC emissions (“actuals”) or VOC emissions allowed under the permit applicable to the source (or, if no such permit has been issuedfor the attainment year, the amount of VOC emissions allowed under the applicable implementation plan (“allowables”)) during the attainment year. Notwithstanding the preceding sentence, the Administrator may issue guidance authorizing the baseline amount to be determined in accordance with the lower of average actuals or average allowables, determined over a period of more than one calendar year. Such guidance may provide that such average calculation for a specific source may be used if that source's emissions are irregular, cyclical, or otherwise vary significantly from year to year.
 
 #### (3) Annual adjustment
 
@@ -30,7 +30,7 @@ If the Administrator has found that the fee provisions of the implementation pla
 
 For areas with a total population under 200,000 which fail to attain the standard by the applicable attainment date, no sanction under this section or under any other provision of this chapter shall apply if the area can demonstrate, consistent with guidance issued by the Administrator, that attainment in the area is prevented because of ozone or ozone precursors transported from other areas. The prohibition applies only in cases in which the area has met all requirements and implemented all measures applicable to the area under this chapter.
 
-(July 14, 1955, ch. 360, title I, §185, as added Nov. 15, 1990, Pub. L. 101–549, title I, §103, 104 Stat. 2450.)
+(July 14, 1955, ch. 360, title I, §185, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2450.)
 
 #### Section Referred to in Other Sections
 

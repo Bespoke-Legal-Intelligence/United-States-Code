@@ -40,7 +40,7 @@ Pub. L. 100–204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L
 
 &emsp;&emsp;“(B) cause thermal expansion of the oceans and partial melting of the polar ice caps and glaciers, resulting in rising sea levels.
 
-&emsp;“(3) Important research into the problem of climate change is now being conducted by various United States Government and international agencies, andthe continuation and intensification of those efforts will be crucial to the development of an effective United States response.
+&emsp;“(3) Important research into the problem of climate change is now being conducted by various United States Government and international agencies, and the continuation and intensification of those efforts will be crucial to the development of an effective United States response.
 
 &emsp;“(4) While the consequences of the greenhouse effect may not be fully manifest until the next century, ongoing pollution and deforestation may be contributing now to an irreversible process. Necessary actions must be identified and implemented in time to protect the climate.
 
@@ -90,5 +90,5 @@ Coordination of United States Policy in the International Arena.—The Secretary
 
 #### “SEC. 1106. CLIMATE PROTECTION AND UNITED STATES RELATIONS WITH THE INDEPENDENT STATES OF THE FORMER SOVIET UNION.
 
-“In recognition of the respective leadership roles of the United States and the independent states of the former Soviet Union in the international arena, and of the extent to which they are producers of atmospheric pollutants, the Congress urges that the President accord the problem of climate protection a high priority on the agenda of United States relations with the independent states.”
+“In recognition of the respective leadership roles of the United States and the independent states of the former Soviet Union in the international arena, and of the extent to which they are producers of atmosphericpollutants, the Congress urges that the President accord the problem of climate protection a high priority on the agenda of United States relations with the independent states.”
 

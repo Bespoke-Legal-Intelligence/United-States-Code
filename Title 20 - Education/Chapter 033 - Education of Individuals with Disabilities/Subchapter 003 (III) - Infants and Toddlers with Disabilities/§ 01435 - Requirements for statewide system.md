@@ -16,7 +16,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;(6) A public awareness program focusing on early identification of infants and toddlers with disabilities, including the preparation and dissemination by the lead agency designated or established under paragraph (10) to all primary referral sources, especially hospitals and physicians, of information for parents on the availability of early intervention services, and procedures for determining the extent to which such sources disseminate such information to parents of infants and toddlers.
 
-&emsp;(7) A central directory which includes information on early intervention services, resources, and experts available in the State andresearch and demonstration projects being conducted in the State.
+&emsp;(7) A central directory which includes information on early intervention services, resources, and experts available in the State and research and demonstration projects being conducted in the State.
 
 &emsp;(8) A comprehensive system of personnel development, including the training of paraprofessionals and the training of primary referral sources respecting the basic components of early intervention services available in the State, that is consistent with the comprehensive system of personnel development described in section 1412(a)(14) of this title and may include—
 
@@ -74,9 +74,9 @@ In implementing subsection (a)(9) of this section, a State may adopt a policy th
 
 #### Prior Provisions
 
-A prior section 1435, Pub. L. 91–230, title VI, §635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, §405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§9(c)(2), 10,25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1435, Pub. L. 91–230, title VI, §635, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §311, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 101–476, title IV, §405, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §§9(c)(2), 10, 25(a)(13), Oct. 7, 1991, 105 Stat. 595, 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1412, 1432, 1434, 1437, 1439, 1441, 1442 of this title.
+This section is referred to in sections 1087ee, 1412, 1432, 1434, 1437, 1439, 1441, 1442 of this title.
 

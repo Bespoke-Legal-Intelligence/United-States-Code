@@ -40,5 +40,5 @@ In subsection (a), the words “(through modernization, extension, addition, or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5303, 5304, 5305, 5307, 5309, 5313, 5314, 5323, 5338 of this title; title 23 section 134.
+This section is referred to in sections 5303, 5304, 5305, 5307, 5309, 5313, 5314, 5323 of this title; title 23 section 134.
 

@@ -20,7 +20,7 @@ If the Secretary determines, after consultation with the Director of the Nationa
 
 &emsp;(B) describing each public health emergency for which the expenditures were made and the activities undertaken with respect to each emergency which were conducted or supported by expenditures from the Fund.
 
-(July 1, 1944, ch. 373, title III, §319, as added July 13, 1983, Pub. L. 98–49, 97 Stat. 245; amended Nov. 4, 1988, Pub. L. 100–607, title II, §256(a), 102 Stat. 3110; July 10, 1992, Pub. L. 102–321, title I, §163(b)(2), 106 Stat. 376; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(2), 106 Stat. 3504.)
+(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 98–49, July 13, 1983, 97 Stat. 245; amended Pub. L. 100–607, title II, §256(a), Nov. 4, 1988, 102 Stat. 3110; Pub. L. 102–321, title I, §163(b)(2), July 10, 1992, 106 Stat. 376; Pub. L. 102–531, title III, §312(d)(2), Oct. 27, 1992, 106 Stat. 3504.)
 
 #### Prior Provisions
 

@@ -146,7 +146,7 @@ Subsec. (a)(3) to (5). Pub. L. 100–690, §7128, substituted “the base amount
 
 Subsec. (c)(1). Pub. L. 100–690, §7123(b)(6), substituted “Director” for “Attorney General, acting through the Assistant Attorney General for the Office of Justice Programs”.
 
-Subsec. (c)(3). Pub. L. 100–690, §7123(b)(7), (8), substituted “Director” for “Assistant Attorney General for the Office of Justice Programs” in introductoryprovisions and “Director deems appropriate” for “Attorney General may assign” in subpar. (D).
+Subsec. (c)(3). Pub. L. 100–690, §7123(b)(7), (8), substituted “Director” for “Assistant Attorney General for the Office of Justice Programs” in introductory provisions and “Director deems appropriate” for “Attorney General may assign” in subpar. (D).
 
 Subsec. (c)(4). Pub. L. 100–690, §7123(b)(9), substituted “Director” for “Attorney General”.
 

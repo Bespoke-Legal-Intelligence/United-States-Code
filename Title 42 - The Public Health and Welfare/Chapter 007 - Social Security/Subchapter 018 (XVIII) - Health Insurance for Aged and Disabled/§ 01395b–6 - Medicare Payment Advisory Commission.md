@@ -70,7 +70,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (1) Number and appointment
 
-&emsp;The Commission shall be composed of 15 members appointed by the Comptroller General.
+&emsp;The Commission shall be composed of 17 members appointed by the Comptroller General.
 
 #### (2) Qualifications
 
@@ -102,7 +102,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (4) Compensation
 
-&emsp;While serving on the business of the Commission (including traveltime), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of the Commission (including traveltime), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rateprovided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of the Commission. Physicians serving as personnel of the Commission may be provided a physician comparability allowance by the Commission in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -156,19 +156,23 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (1) Request for appropriations
 
-&emsp;The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for theCommission shall be separate from amounts appropriated for the Comptroller General.
+&emsp;The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General.
 
 #### (2) Authorization
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4022(a), 111 Stat. 350.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917.)
 
 #### References in Text
 
 Parts A, B, and C of this subchapter, referred to in subsec. (b)(2)(A), (B), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–277 substituted “17” for “15”.
 
 #### Effective Date; Transition; Transfer of Functions
 
@@ -185,6 +189,22 @@ Transition.—As quickly as possible after the date a majority of members of Med
 “(3)
 
 Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC.”
+
+#### Initial Terms of Additional Members
+
+Pub. L. 105–277, div. J, title V, §5202(b), Oct. 21, 1998, 112 Stat. 2681–917, provided that:
+
+“(1)
+
+In general.—For purposes of staggering the initial terms of members of the Medicare Payment Advisory Commission (under section 1805(c)(3) of such Act (42 U.S.C. 1395b–6(c)(3))\[)\], the initial terms of the two additional members of the Commission provided for by the amendment under subsection (a) \[amending this section\] are as follows:
+
+&emsp;“(A) One member shall be appointed for one year.
+
+&emsp;“(B) One member shall be appointed for two years.
+
+“(2)
+
+Commencement of terms.—Such terms shall begin on May 1, 1999.”
 
 #### Information Included in Annual Recommendations
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market, to increase the availability of satellite cable programming and satellite broadcast programming to persons in rural and other areas not currentlyable to receive such programming, and to spur the development of communications technologies.
+The purpose of this section is to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market, to increase the availability of satellite cable programming and satellite broadcast programming to persons in rural and other areas not currently able to receive such programming, and to spur the development of communications technologies.
 
 #### (b) Prohibition
 
@@ -46,7 +46,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (4) Public interest determinations on exclusive contracts
 
-&emsp;In determining whether an exclusive contract is in the public interest for purposes of paragraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
+&emsp;In determining whether an exclusive contract is in the public interest for purposes ofparagraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
 
 &emsp;&emsp;(A) the effect of such exclusive contract on the development of competition in local and national multichannel video programming distribution markets;
 

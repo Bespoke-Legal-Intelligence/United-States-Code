@@ -2,7 +2,7 @@
 
 #### (a) Negotiations to exchange
 
-Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiatein good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1716\].
+Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1716\].
 
 #### (b) Preparation of list
 
@@ -34,7 +34,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 (2) If the Commission notifies the Secretary that it wishes to consider an exchange for such lands or interests therein, the Secretary shall attempt to conclude such exchange in accordance with the provisions of this section as quickly as possible.
 
-(3) If an agreement is reached and executed with the Commission, then upon notice to the head of the agency having administrative jurisdiction over such lands or interests therein, the Secretary shall be vested with administrative jurisdiction over such land or interests therein for the purpose of concluding such exchange.
+(3) If an agreement is reached and executed with the Commission, then upon notice to thehead of the agency having administrative jurisdiction over such lands or interests therein, the Secretary shall be vested with administrative jurisdiction over such land or interests therein for the purpose of concluding such exchange.
 
 (4) Upon the acquisition of all State School lands or upon notice by the Commission to the Secretary that it no longer has an interest in such lands or interests therein, such lands or interests shall be released to the agency that originally had jurisdiction over such lands or interests for disposal in accordance with the laws otherwise applicable to such lands or interests.
 

@@ -14,7 +14,7 @@ For the purposes of consolidating Federal assistance to States for social servic
 
 > there are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the purposes of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XX, §2001, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 867.)
+(Aug. 14, 1935, ch. 531, title XX, §2001, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 867.)
 
 #### Prior Provisions
 

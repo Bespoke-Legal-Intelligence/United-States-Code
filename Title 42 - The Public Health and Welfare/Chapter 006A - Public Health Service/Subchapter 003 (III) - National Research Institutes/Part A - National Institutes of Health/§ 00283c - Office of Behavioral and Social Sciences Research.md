@@ -10,9 +10,9 @@
 
 (2) Research authorized under paragraph (1) includes research on teen pregnancy, infant mortality, violent behavior, suicide, and homelessness. Such research does not include neurobiological research, or research in which the behavior of an organism is observed for the purpose of determining activity at the cellular or molecular level.
 
-(July 1, 1944, ch. 373, title IV, §404A, as added June 10, 1993, Pub. L. 103–43, title II, §203(a), 107 Stat. 145.)
+(July 1, 1944, ch. 373, title IV, §404A, as added Pub. L. 103–43, title II, §203(a), June 10, 1993, 107 Stat. 145.)
 
 #### Effective Date
 
-Section 203(c) of Pub. L. 103–43 provided that: “The amendment described in subsection (a) \[enacting thissection\] is made upon the date of the enactment of this Act \[June 10, 1993\] and takes effect July 1, 1993. Subsection (b) \[107 Stat. 145\] takes effect on such date.”
+Section 203(c) of Pub. L. 103–43 provided that: “The amendment described in subsection (a) \[enacting this section\] is made upon the date of the enactment of this Act \[June 10, 1993\] and takes effect July 1, 1993. Subsection (b) \[107 Stat. 145\] takes effect on such date.”
 

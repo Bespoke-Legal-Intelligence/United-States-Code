@@ -14,10 +14,6 @@ Pub. L. 102–25, §705(f)(2), in fourth sentence, inserted “at the end of a C
 
 1973—Pub. L. 93–155 provided for notification of Congressional Committees with respect to certain proposed obligations, Congressional resolution of disapproval, continuity of Congressional session, and computation of period.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1991 Amendment
 
 Section 705(f)(1) of Pub. L. 102–25 provided that the amendment made by that section is effective as of Nov. 6, 1990.

@@ -116,5 +116,5 @@ The definitions in section 472 of Title 40, Public Buildings, Property, and Work
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253b, 253m, 257 of this title.
+This section is referred to in sections 253b, 253m, 257 of this title; title 20 section 1018a.
 

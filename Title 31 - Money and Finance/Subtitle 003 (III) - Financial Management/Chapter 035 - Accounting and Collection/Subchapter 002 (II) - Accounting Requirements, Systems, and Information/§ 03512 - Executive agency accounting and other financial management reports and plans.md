@@ -202,7 +202,7 @@ In subsection (b)(1), before clause (A), the words “the head of” are added f
 
 In subsection (c)(1)(A), the words “the head of each executive agency shall follow” are substituted for “agencies” for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), before clause (A), the words “beginning in” are substituted for “succeeding” because of the restatement. The words “on whether the systems of the agency comply with subsection (b) of this section” are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word “related” is omitted as surplus.
+In subsection (c)(2), before clause (A), the words “beginning in” are substituted for “succeeding” because ofthe restatement. The words “on whether the systems of the agency comply with subsection (b) of this section” are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word “related” is omitted as surplus.
 
 In subsection (c)(3)(A), the words “provision of” are omitted as surplus.
 
@@ -230,7 +230,7 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Federal Financial Management Improvement
 
@@ -238,7 +238,7 @@ Section 101(f) \[title VIII\] of Pub. L. 104–208 provided that:
 
 #### “SEC. 801. SHORT TITLE\[.\]
 
-“This title may be cited as the ‘Federal Financial Management Improvement Act of 1996.’ ”
+“This title may be cited as the ‘Federal Financial Management Improvement Act of 1996.’
 
 #### “SEC. 802. FINDINGS AND PURPOSES.
 
@@ -282,7 +282,7 @@ Purpose\[.\]—The purposes of this Act \[title\] are to—
 
 &emsp;“(6) build upon and complement the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat 2838) \[see Short Title of 1990 Amendment note set out under section 501 of this title\], the Government Performance and Results Act of 1993 (Public Law 103–62\[;\] 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] and the Government Management Reform Act of 1994 (Public Law 103–356; 108 Stat. 3410) \[see Short Title of 1994 Amendment note set out under section 3301 of this title\]; and
 
-&emsp;“(7) increase the capability of agencies to monitor execution of the budget by more readily permitting reports that compare spending of resources to results of activities.
+&emsp;“(7) increase the capability of agencies to monitor execution of the budget by more readily permittingreports that compare spending of resources to results of activities.
 
 #### “SEC. 803. IMPLEMENTATION OF FEDERAL FINANCIAL MANAGEMENT IMPROVEMENTS.
 
@@ -442,7 +442,7 @@ Mixed system.—The term ‘mixed system’ means an information system that sup
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 3511, 3521, 5134, 7502 of this title; title 10 sections 3022, 5025, 8022; title 22 section 2421; title 36 section 169j–10.
+This section is referred to in sections 902, 3511, 3521, 5134, 7502 of this title; title 10 sections 3022, 5025, 8022; title 22 section 2421.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -32,21 +32,21 @@ The Federal Rules of Evidence, referred to in subsec. (b), are set out in the Ap
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsecs. (b), (c). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
 Subsec. (d). Pub. L. 102–572, §909, added subsec. (d).
 
-<b>1982</b>—Pub. L. 97–164 substituted “Proceedings generally” for “Proceedings before commissioners generally” in section catchline.
+1982—Pub. L. 97–164 substituted “Proceedings generally” for “Proceedings before commissioners generally” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 substituted “Parties to any suit in the United States Claims Court may appear before a judge of that court in person or by attorney, produce evidence, and examine witnesses” for “Parties to any suit in the Court of Claims may appear before a commissioner in person or by attorney, produce evidence and examine witnesses” and redesignated as subsec. (c) provisions that, in accordance with rules and orders of the court, commissioners would fix times for trials, administer oaths or affirmations to and examine witnesses, receive evidence and report findings of fact, that when directed by the court, commissioners would report their recommendations for conclusions of law in cases assigned to them, and that hearings would, if convenient, be held in the counties where the witnesses resided.
 
 Subsec. (b). Pub. L. 97–164 substituted “The proceedings of the Claims Court shall be in accordance with such rules of practice and procedure (other than the rules of evidence) as the Claims Court may prescribe and in accordance with the Federal Rules of Evidence” for “The rules of the court shall provide for the filing in court of the commissioner's report of facts and recommendations for conclusions of law, and for opportunity for the parties to file exceptions thereto, and a hearing thereon before the court within a reasonable time” and struck out provision that this section did not prevent the court from passing upon all questions and findings regardless of whether exceptions were taken before a commissioner.
 
-Subsec. (c). Pub. L. 97–164 redesignated provisions in second and third sentences of former subsec. (a) as (c) and substituted “The judges of the Claims Court” for “In accordance with rules and orders of the court, commissioners” and “enter dispositive judgments” for “report findings of fact and, when directed by the court, their recommendations for conclusions of law in cases assigned to them”.
+Subsec. (c). Pub. L. 97–164 redesignated provisions in second and third sentences of former subsec. (a) as (c) and substituted “The judges of the Claims Court” for“In accordance with rules and orders of the court, commissioners” and “enter dispositive judgments” for “report findings of fact and, when directed by the court, their recommendations for conclusions of law in cases assigned to them”.
 
-<b>1954</b>—Act Sept. 3, 1954, designated former first par. subsec. (a), and former second par. subsec. (b), and incorporated in one place provisions relating to function of Commissioners.
+1954—Act Sept. 3, 1954, designated former first par. subsec. (a), and former second par. subsec. (b), and incorporated in one place provisions relating to function of Commissioners.
 
 #### Effective Date of 1992 Amendment
 

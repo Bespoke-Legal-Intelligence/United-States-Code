@@ -38,7 +38,7 @@ The Administrator may appoint, fix the compensation, and remove additional emplo
 
 #### (d) Detailed and temporary personnel
 
-(1) The Board may use, without reimbursement, any personnel of a Federal agency (with the consent of the head of the agency concerned) to serve on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
+(1) The Board may use, without reimbursement, any personnel of a Federal agency (withthe consent of the head of the agency concerned) to serve on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
 
 (2) The Administrator, after consultation with the Board, may procure temporary and intermittent services under section 3109(b) of title 5 of personnel for the purpose of serving on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
 

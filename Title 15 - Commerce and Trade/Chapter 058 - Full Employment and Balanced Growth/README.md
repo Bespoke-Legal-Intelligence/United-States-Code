@@ -29,7 +29,7 @@
 | (b) | Improvement and expansion. |
 | [3116\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003116%20-%20Job%20training%2C%20counseling%20and%20reservoirs%20of%20employment%20projects.md) | Job training, counseling and reservoirs of employment projects. |
 | (a) | Policies, procedures and recommendations. |
-| (b) | Utilization of authority under CETA. |
+| (b) | Utilization of authority under other laws. |
 | (c) | Establishment of project reservoirs; restrictions and requirements of new programs. |
 | (d) | Regulations. |
 | [3117\.](Subchapter%20001%20%28I%29%20-%20Structural%20Economic%20Policies%20and%20Programs%20Including%20Treatment%20of%20Resource%20Restraints/%C2%A7%2003117%20-%20Capital%20formation.md) | Capital formation. |

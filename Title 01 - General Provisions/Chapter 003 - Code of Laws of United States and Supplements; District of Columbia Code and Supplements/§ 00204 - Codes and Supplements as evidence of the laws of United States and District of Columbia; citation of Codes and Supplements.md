@@ -54,6 +54,8 @@ Title 34, Navy—See Title 10, Armed Forces.
 
 Title 35, Patents—Act July 19, 1952, ch. 950, §1, 66 Stat. 792.
 
+Title 36, Patriotic and National Observances, Ceremonies, and Organizations—Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253.
+
 Title 37, Pay and Allowances of the Uniformed Services—Pub. L. 87–649, §1, Sept. 7, 1962. 76 Stat. 451.
 
 Title 38, Veterans’ Benefits—Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105.

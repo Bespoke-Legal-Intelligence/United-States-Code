@@ -16,7 +16,7 @@ The Secretary may make grants to, and enter into contracts with, public agencies
 
 #### (2) Mutual support programs
 
-&emsp;The Secretary may award grants to private nonprofit organizations (such as Parents Anonymous) to establish or maintain a national network of mutual support and self-help programs as a means of strengthening families in partnership with their communities.
+&emsp;The Secretary may award grants to private nonprofit organizations (such as ParentsAnonymous) to establish or maintain a national network of mutual support and self-help programs as a means of strengthening families in partnership with their communities.
 
 #### (3) Other innovative programs and projects
 

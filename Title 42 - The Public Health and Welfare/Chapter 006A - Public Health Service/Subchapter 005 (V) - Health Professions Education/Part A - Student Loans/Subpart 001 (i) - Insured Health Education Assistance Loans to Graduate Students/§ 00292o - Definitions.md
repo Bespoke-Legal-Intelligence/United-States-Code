@@ -2,7 +2,7 @@
 
 For purposes of this subpart:
 
-&emsp;(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or clinical psychology.
+&emsp;(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, orchiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
 
 &emsp;(2) The term “eligible lender” means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
 
@@ -32,9 +32,13 @@ For purposes of this subpart:
 
 &emsp;&emsp;(iii) in the case of a holder, the loan was purchased by the holder.
 
-(July 1, 1944, ch. 373, title VII, §719, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2009.)
+(July 1, 1944, ch. 373, title VII, §719, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2009; amended Pub. L. 105–392, title I, §141(c)(2), Nov. 13, 1998, 112 Stat. 3579.)
+
+#### Amendments
+
+1998—Par. (1). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 292, 292a, 292g, 292h of this title.
+This section is referred to in sections 292, 292a, 292g of this title.
 

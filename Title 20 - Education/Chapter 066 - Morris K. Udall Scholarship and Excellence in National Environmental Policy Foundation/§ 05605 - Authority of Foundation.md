@@ -8,7 +8,23 @@
 
 &emsp;(B) The Foundation may provide, directly or by contract, for the conduct of national competition for the purpose of selecting recipients of scholarships, fellowships, internships, and grants awarded under this chapter.
 
-&emsp;(C) The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American and Alaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligible individuals who meet the minimum criteria established by the Foundation.
+&emsp;(C) The Foundation may award scholarships, fellowships, internships and grants to eligible individuals in accordance with the provisions of this chapter for study in fields related to the environment and Native American and Alaska Native health care and tribal public policy. Such scholarships, fellowships, internships and grants shall be awarded to eligibleindividuals who meet the minimum criteria established by the Foundation.
+
+&emsp;(D)
+
+Institute for Environmental Conflict Resolution.—
+
+&emsp;&emsp;(i)
+
+In general.—The Foundation shall—
+
+&emsp;&emsp;&emsp;(I) establish the United States Institute for Environmental Conflict Resolution as part of the Foundation; and
+
+&emsp;&emsp;&emsp;(II) identify and conduct such programs, activities, and services as the Foundation determines appropriate to permit the Foundation to provide assessment, mediation, training, and other related services to resolve environmental disputes.
+
+&emsp;&emsp;(ii)
+
+Geographic proximity of conflict resolution provision.—In providing assessment, mediation, training, and other related services under clause (i)(II) to resolve environmental disputes, the Foundation shall consider, to the maximum extent practicable, conflict resolution providers within the geographic proximity of the conflict.
 
 #### (2) Scholarships
 
@@ -48,11 +64,11 @@
 
 #### (6) Repository
 
-&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Fund <sup>1</sup> to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
+&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for Morris K. Udall's papers and other such public papers as may be appropriate and assure such papers’ availability to the public.
 
 #### (7) Coordination
 
-&emsp;The Foundation shall assist in the development and implementation of a Program for Environmental Policy Research and Environmental Conflict Resolution to be located at the Center.
+&emsp;The Foundation shall assist in the development and implementation of a Program for Environmental Policy Research and Environmental Conflict Resolution and Training to be located at the Center.
 
 #### (b) Morris K. Udall Scholars
 
@@ -62,7 +78,17 @@ Recipients of scholarships, fellowships, internships, and grants under this chap
 
 The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) of this title, section 5604(a)(3) of this title, and section 5604(a)(4) of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) of this title, section 5604(a)(6) of this title, and section 5604(a)(7) of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
 
-(Pub. L. 102–259, §7, Mar. 19, 1992, 106 Stat. 81.)
+(Pub. L. 102–259, §7, Mar. 19, 1992, 106 Stat. 81; Pub. L. 105–156, §§5, 9(b), Feb. 11, 1998, 112 Stat. 9, 12.)
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+#### Amendments
+
+1998—Subsec. (a)(1)(D). Pub. L. 105–156, §5(1), added subpar. (D).
+
+Subsec. (a)(6). Pub. L. 105–156, §9(b), substituted “Trust Fund” for “Fund”.
+
+Subsec. (a)(7). Pub. L. 105–156, §5(2), inserted “and Training” after “Conflict Resolution”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5602 of this title.
 

@@ -48,7 +48,7 @@ As used in this chapter:
 
 #### (11) Livestock
 
-&emsp;The term “livestock” means any cattle, sheep, goats, swine, poultry, equine animals used for food or in the production of food, fish used for food, wild or domesticated game, or other nonplant life.
+&emsp;The term “livestock” means any cattle, sheep, goats, swine, poultry, equine animals used for food or in the production of food, fishused for food, wild or domesticated game, or other nonplant life.
 
 #### (12) National List
 

@@ -30,7 +30,7 @@ Prior section 3102 was renumbered section 5302 of this title.
 
 #### Amendments
 
-1996—Par. (1)(A)(i). Pub. L. 104–275, §101(b)(1), substituted “rated at 20 percent or more” for “which is, orbut for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
+1996—Par. (1)(A)(i). Pub. L. 104–275, §101(b)(1), substituted “rated at 20 percent or more” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
 
 Par. (2)(A). Pub. L. 104–275, §101(b)(2), substituted “rated at 10 percent” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 10 percent under chapter 11 of this title and”.
 

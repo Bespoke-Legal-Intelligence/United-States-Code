@@ -51,6 +51,7 @@
 | (b) | Waiver of statutory and contractual restrictions on the use of the parking facility. |
 | (c) | Use of funds appropriated under other provisions without matching funds requirement. |
 | (d) | Architect of Capitol authorized to supply steam or chilled water to the Union Station complex. |
+| [819a.](Subchapter%20001%20%28I%29%20-%20Union%20Station/Part%20B%20-%20Union%20Station%20Redevelopment/%C2%A7%2000819a%20-%20Union%20Station%20Redevelopment%20Corporation.md) | Union Station Redevelopment Corporation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

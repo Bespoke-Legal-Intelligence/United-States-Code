@@ -8,7 +8,7 @@ The administrator, subject to the requirements of the Federal Power Act \[16 U.S
 
 The administrator may make such expenditures for offices, vehicles, furnishings, equipment, supplies, and books; for attendance at meetings; and for such other facilities and services as he may find necessary for the proper administration of this chapter.
 
-(Aug. 20, 1937, ch. 720, §9, 50 Stat. 736; Oct. 23, 1945, ch. 433, §4, 59 Stat. 547; June 14, 1966, Pub. L. 89–448, §2(a), formerly §2, 80 Stat. 200, as renumbered Pub. L. 89–561, §6(1), Sept. 7, 1966, 80 Stat. 714; Aug. 4, 1977, Pub. L. 95–91, title IV, §402(a)(1)(B), 91 Stat. 583.)
+(Aug. 20, 1937, ch. 720, §9, 50 Stat. 736; Oct. 23, 1945, ch. 433, §4, 59 Stat. 547; Pub. L. 89–448, §2(a), formerly §2, June 14, 1966, 80 Stat. 200, as renumbered Pub. L. 89–561, §6(1), Sept. 7, 1966, 80 Stat. 714; Pub. L. 95–91, title IV, §402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583.)
 
 #### References in Text
 

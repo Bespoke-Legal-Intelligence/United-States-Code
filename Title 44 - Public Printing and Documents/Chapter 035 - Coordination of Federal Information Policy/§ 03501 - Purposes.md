@@ -10,7 +10,7 @@ The purposes of this chapter are to—
 
 &emsp;(4) improve the quality and use of Federal information to strengthen decisionmaking, accountability, and openness in Government and society;
 
-&emsp;(5) minimize the cost to the Federal Government of the creation, collection, maintenance, use, dissemination, and disposition of information;
+&emsp;(5) minimize the cost to the Federal Government of the creation, collection, maintenance,use, dissemination, and disposition of information;
 
 &emsp;(6) strengthen the partnership between the Federal Government and State, local, and tribal governments by minimizing the burden and maximizing the utility of information created, collected, maintained, used, disseminated, and retained by or for the Federal Government;
 

@@ -4,7 +4,7 @@
 
 (b) Aviation cadets who complete their training at approximately the same time are considered for all purposes to have begun their commissioned service on the same date, and the decision of the Secretary of the Navy in this regard is conclusive.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 427; Dec. 12, 1980, Pub. L. 96–513, title V, §513(20), 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 427; Pub. L. 96–513, title V, §513(20), Dec. 12, 1980, 94 Stat. 2932.)
 
 Historical and Revision Notes
 

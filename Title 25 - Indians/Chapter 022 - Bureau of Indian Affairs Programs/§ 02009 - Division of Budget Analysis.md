@@ -20,5 +20,5 @@ A prior section 2009, Pub. L. 95–561, title XI, §1129, Nov. 1, 1978, 92 Stat.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2006, 2019 of this title.
+This section is referred to in section 2006 of this title.
 

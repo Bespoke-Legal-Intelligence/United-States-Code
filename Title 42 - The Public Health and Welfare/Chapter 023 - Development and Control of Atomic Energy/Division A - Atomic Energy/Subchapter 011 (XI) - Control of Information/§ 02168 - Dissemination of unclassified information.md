@@ -46,7 +46,7 @@ The Secretary shall prepare on a quarterly basis a report to be made available u
 
 &emsp;(3) provide justification that the Secretary has applied such regulation or order so as to protect from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §148, as added Dec. 4, 1981, Pub. L. 97–90, title II, §210(a)(1), 95 Stat. 1169; amended Jan. 4, 1983, Pub. L. 97–415, §17, 96 Stat. 2076; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §148, as added Pub. L. 97–90, title II, §210(a)(1), Dec. 4, 1981, 95 Stat. 1169; amended Pub. L. 97–415, §17, Jan. 4, 1983, 96 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

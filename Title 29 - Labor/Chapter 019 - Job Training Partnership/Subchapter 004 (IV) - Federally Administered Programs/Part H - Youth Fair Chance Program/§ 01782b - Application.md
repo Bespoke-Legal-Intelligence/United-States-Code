@@ -38,7 +38,7 @@ Participating communities that have the highest concentrations of poverty, as de
 
 &emsp;&emsp;(H) include a description of a system of common intake procedures or sites, individualized assessment, and case management to be used by the program;
 
-&emsp;&emsp;(I) demonstrate how the participating community will make use of the resources,expertise, and commitment of such programs and service providers as—
+&emsp;&emsp;(I) demonstrate how the participating community will make use of the resources, expertise, and commitment of such programs and service providers as—
 
 &emsp;&emsp;&emsp;(i) community-based organizations providing vocational skills, literacy skills, remedial education, and general equivalency preparation, including community-based organizations serving youth with limited-English proficiency;
 
@@ -85,4 +85,8 @@ The application for funds described in subsection (b) of this section may only b
 &emsp;(3) a grantee or consortium described in subparagraph (B) or (C) of section 1782a(b)(1) of this title in applications for Native American or migrant or seasonal farmworker communities, respectively.
 
 (Pub. L. 97–300, title IV, §493, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1087.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 

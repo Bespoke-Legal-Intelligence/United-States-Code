@@ -2,7 +2,7 @@
 
 #### (a) “Community food projects” defined
 
-In this section, the term “community food project” means a community-based project thatrequires a 1-time infusion of Federal assistance to become self-sustaining and that is designed to—
+In this section, the term “community food project” means a community-based project that requires a 1-time infusion of Federal assistance to become self-sustaining and that is designed to—
 
 &emsp;(1) meet the food needs of low-income people;
 
@@ -101,4 +101,8 @@ In selecting community food projects to receive assistance under subsection (b) 
 &emsp;Not later than January 30, 2002, the Secretary shall submit a report to Congress regarding the results of the evaluation.
 
 (Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3315 of this title.
 

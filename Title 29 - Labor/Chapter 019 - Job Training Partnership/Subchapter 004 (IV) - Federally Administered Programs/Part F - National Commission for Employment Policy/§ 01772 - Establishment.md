@@ -34,6 +34,10 @@ The Chairman (with the concurrence of the Commission) shall appoint a Director, 
 
 (Pub. L. 97–300, title IV, §472, Oct. 13, 1982, 96 Stat. 1387; Pub. L. 98–524, §4(a)(7), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title VII, §702(a)(17), Sept. 7, 1992, 106 Stat. 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–367 struck out after third sentence “One of the members shall be a representative of the National Council on Vocational Education (established under section 431 of the Carl D. Perkins Vocational Education Act).”

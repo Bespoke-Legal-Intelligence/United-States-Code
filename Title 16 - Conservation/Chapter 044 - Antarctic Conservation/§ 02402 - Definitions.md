@@ -40,13 +40,13 @@ For purposes of this chapter—
 
 &emsp;(13) the term “non-native species” means any species of animal or plant which is not indigenous to Antarctica and does not occur there seasonally through natural migrations;
 
-&emsp;(14) the term “person” has the meaning given that term in section 1 of title 1 and includes any person subject to the jurisdiction of the United States and any department,agency, or other instrumentality of the Federal Government or of any State or local government;
+&emsp;(14) the term “person” has the meaning given that term in section 1 of title 1 and includes any person subject to the jurisdiction of the United States and any department, agency, or other instrumentality of the Federal Government or of any State or local government;
 
 &emsp;(15) the term “prohibited product” means any substance banned from introduction onto land or ice shelves or into water in Antarctica pursuant to Annex III to the Protocol;
 
 &emsp;(16) the term “prohibited waste” means any substance which must be removed from Antarctica pursuant to Annex III to the Protocol, but does not include materials used for balloon envelopes required for scientific research and weather forecasting;
 
-&emsp;(17) the term “Protocol” means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, including any future amendments thereto to which the United States is a party;
+&emsp;(17) the term “Protocol” means the Protocol on Environmental Protection to the AntarcticTreaty, signed October 4, 1991, in Madrid, and all annexes thereto, including any future amendments thereto to which the United States is a party;
 
 &emsp;(18) the term “Secretary” means the Secretary of Commerce;
 

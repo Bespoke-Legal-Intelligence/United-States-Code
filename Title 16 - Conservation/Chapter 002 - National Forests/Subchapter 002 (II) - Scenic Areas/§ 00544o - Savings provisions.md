@@ -6,11 +6,11 @@ Nothing in sections 544 to 544p of this title shall—
 
 &emsp;(1) affect or modify any treaty or other rights of any Indian tribe;
 
-&emsp;(2) except as provided in section 13(c), authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
+&emsp;(2) except as provided in section 13(c), authorize the appropriation or use of water byany Federal, State, or local agency, Indian tribe, or any other entity or individual;
 
 &emsp;(3) except as provided in section 13(c), affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
 
-&emsp;(4) except as provided in section 13(c), alter, establish, or affect the respective rights of theUnited States, the States, Indian tribes, or any person with respect to any water or water-related right;
+&emsp;(4) except as provided in section 13(c), alter, establish, or affect the respective rights of the United States, the States, Indian tribes, or any person with respect to any water or water-related right;
 
 &emsp;(5) alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by the States before November 17, 1986;
 

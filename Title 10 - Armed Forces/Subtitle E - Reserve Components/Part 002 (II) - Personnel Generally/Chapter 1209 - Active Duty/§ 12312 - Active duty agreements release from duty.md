@@ -18,7 +18,7 @@
 
 &emsp;(5) released to accept an appointment, or to be enlisted, in a regular component of an armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §680; June 28, 1962, Pub. L. 87–509, §2, 76 Stat. 121; Oct. 19, 1984, Pub. L. 98–525, title V, §533(b), title XIV, §1405(17), 98 Stat. 2528, 2622; renumbered §12312 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(8), 108 Stat. 2992, 3017.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §680; Pub. L. 87–509, §2, June 28, 1962, 76 Stat. 121; Pub. L. 98–525, title V, §533(b), title XIV, §1405(17), Oct.19, 1984, 98 Stat. 2528, 2622; renumbered §12312 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(8), Oct. 5, 1994, 108 Stat. 2992, 3017.)
 
 Historical and Revision Notes
 

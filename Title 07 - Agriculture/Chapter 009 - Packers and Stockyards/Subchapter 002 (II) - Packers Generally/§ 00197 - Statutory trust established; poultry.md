@@ -14,13 +14,13 @@ Payment shall not be considered to have been made if the cash seller or poultry 
 
 #### (d) Preservation of trust benefit by seller or poultry grower
 
-The unpaid cash seller or poultry grower shall lose the benefit of such trust if, in the event that a payment instrument has not been received, within 30 days of the final date for making payment under section 228b–1 of this title, or within 15 business days after the seller or poultry grower has received notice that the payment instrument promptly presented for payment has been dishonored, the seller or poultry grower has not preserved his trust under this section. The trust shall be preserved by giving written notice to the live poultry dealer and by filing such notice with the Secretary.
+The unpaid cash seller or poultry grower shall lose the benefit of such trust if, in the event that a payment instrument has not been received, within 30 days of the final date for making payment under section 228b–1 of this title, orwithin 15 business days after the seller or poultry grower has received notice that the payment instrument promptly presented for payment has been dishonored, the seller or poultry grower has not preserved his trust under this section. The trust shall be preserved by giving written notice to the live poultry dealer and by filing such notice with the Secretary.
 
 #### (e) Definition of cash sale
 
 For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-(Aug. 15, 1921, ch. 64, title II, §207, as added Nov. 23, 1987, Pub. L. 100–173, §4, 101 Stat. 918.)
+(Aug. 15, 1921, ch. 64, title II, §207, as added Pub. L. 100–173, §4, Nov. 23, 1987, 101 Stat. 918.)
 
 #### Effective Date
 

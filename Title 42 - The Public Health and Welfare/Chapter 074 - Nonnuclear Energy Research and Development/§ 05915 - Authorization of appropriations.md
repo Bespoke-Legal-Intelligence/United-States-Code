@@ -18,7 +18,7 @@ Section 5910 of this title, referred to in subsec. (b)(1), was repealed by Pub. 
 
 #### Transfer of Functions
 
-“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Energy Research and Development Administration, in subsecs. (a) and (c) pursuant to sections 301(a), 703,and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Energy Research and Development Administration, in subsecs. (a) and (c) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 Functions of Council on Environmental Quality and Office of Environmental Quality relating to evaluation provided for by section 5910 of this title transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 1 of 1977, §5E, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by President. Section 6 of Reorg. Plan No. 1 of 1977 authorized Director of Office of Management and Budget to transfer to appropriate agency or department unexpended balances of appropriations, allocations and other funds used, held, or available in connection with functions transferred. Ex. Ord. No. 12040, Feb. 24, 1978, 43 F.R. 8097, set out under section 5910 of this title, provided that transfer of functions of Council on Environmental Quality and Office of Environmental Quality to Administrator of Environmental Protection Agency is effective Feb. 26, 1978.
 
@@ -32,7 +32,7 @@ Pub. L. 96–126, title II, §201, Nov. 27, 1979, 93 Stat. 970, as amended by Pu
 
 “For the purposes of this appropriation the term ‘alternative fuels’, means gaseous, liquid, or solid fuels and chemical feedstocks derived from coal, shale, tar sands, lignite, peat, biomass, solid waste, unconventional natural gas, and other minerals or organic materials other than crude oil or any derivative thereof.
 
-“Within ninety days following enactment of this Act \[Nov. 27, 1979\], the Secretary of Energy in his sole discretion shall issue a solicitation for applications which shall include criteria for project development feasibility studies described in this account.
+“Within ninety days following enactment of this Act \[Nov. 27, 1979\], the Secretary of Energy in his sole discretion shall issue a solicitation for applications whichshall include criteria for project development feasibility studies described in this account.
 
 “Loan guarantees for oil shale facilities issued under this appropriation may be used to finance construction of full-sized commercial facilities without regard to the proviso in section 19(b)(1) of said Act \[section 5919(b)(1) of this title\] requiring the prior demonstration of a modular facility.
 

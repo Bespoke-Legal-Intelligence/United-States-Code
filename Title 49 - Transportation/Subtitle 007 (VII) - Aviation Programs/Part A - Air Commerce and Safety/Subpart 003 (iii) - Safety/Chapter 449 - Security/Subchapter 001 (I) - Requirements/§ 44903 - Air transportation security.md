@@ -106,7 +106,7 @@ In subsection (c)(1), the words “traveling in air transportation or intrastate
 
 In subsection (c)(2)(A), before clause (i), the words “under this section” are omitted as surplus. The words “or an amendment in an existing program” are substituted for “and may approve an amendment to a security program of an airport operator approved by the Administrator under subsection (b)” to eliminate unnecessary words. In clause (ii), the word “monetary” is substituted for “financial” for consistency.
 
-In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departmentsand agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
+In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departments and agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (2)(A) Except as provided in subparagraph (B), nothing in this subchapter shall be construed to exempt or relieve any person from any law of any State which regulates insurance, banking, or securities.
 
-(B) Neither an employee benefit plan described in section 1003(a) of this title, which is not exempt under section 1003(b) of this title (other than a plan established primarily for the purpose of providing death benefits), nor any trust established under such a plan, shall be deemed to be an insurance company or other insurer,bank, trust company, or investment company or to be engaged in the business of insurance or banking for purposes of any law of any State purporting to regulate insurance companies, insurance contracts, banks, trust companies, or investment companies.
+(B) Neither an employee benefit plan described in section 1003(a) of this title, which is not exempt under section 1003(b) of this title (other than a plan established primarily for the purpose of providing death benefits), nor any trust established under such a plan, shall be deemed to be an insurance company or other insurer, bank, trust company, or investment company or to be engaged in the business of insurance or banking for purposes of any law of any State purporting to regulate insurance companies, insurance contracts, banks, trust companies, or investment companies.
 
 (3) Nothing in this section shall be construed to prohibit use by the Secretary of services or facilities of a State agency as permitted under section 1136 of this title.
 
@@ -42,7 +42,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (D) For purposes of this paragraph, a multiple employer welfare arrangement shall be considered fully insured only if the terms of the arrangement provide for benefits the amount of all of which the Secretary determines are guaranteed under a contract, or policy of insurance, issued by an insurance company, insurance service, or insurance organization, qualified to conduct business in a State.
 
-(7) Subsection (a) of this section shall not apply to qualified domestic relations orders (within the meaning of section 1056(d)(3)(B)(i) of this title), qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders.
+(7) Subsection (a) of this section shall not apply to qualified domestic relations orders (within the meaning of section 1056(d)(3)(B)(i) of this title), qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent they apply to qualified medical child support orders.
 
 (8) Subsection (a) of this section shall not be construed to preclude any State cause of action—
 
@@ -58,13 +58,13 @@ For purposes of this section:
 
 &emsp;(1) The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
 
-&emsp;(2) The term “State” includes a State, any political subdivisions thereof, or any agency or instrumentality of either, which purports to regulate, directly or indirectly, the terms and conditions of employee benefit plans covered by this subchapter.
+&emsp;(2) The term “State” includes a State, any political subdivisions thereof, or any agencyor instrumentality of either, which purports to regulate, directly or indirectly, the terms and conditions of employee benefit plans covered by this subchapter.
 
 #### (d) Alteration, amendment, modification, invalidation, impairment, or supersedure of any law of the United States prohibited
 
 Nothing in this subchapter shall be construed to alter, amend, modify, invalidate, impair, or supersede any law of the United States (except as provided in sections 1031 and 1137(c) of this title) or any rule or regulation issued under any such law.
 
-(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938.)
+(Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668.)
 
 #### References in Text
 
@@ -72,11 +72,15 @@ The Social Security Act, referred to in subsec. (b)(8)(B), is act Aug. 14, 1935,
 
 #### Amendments
 
+1998—Subsec. (b)(7). Pub. L. 105–200, §401(h)(2)(A)(ii), substituted “they apply to” for “enforced by”.
+
+Pub. L. 105–200, §401(h)(2)(A)(i), amended directory language of Pub. L. 103–66, §4301(c)(4)(A). See 1993 Amendment note below.
+
 1996—Subsec. (b)(9). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 1191 of this title.
 
 Pub. L. 104–191 added par. (9).
 
-1993—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), which directed the insertion in par. (7)(D) of “, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before the period, was executed by making the insertion before the period at end of par. (7), to reflect the probable intent of Congress.
+1993—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted “, qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders” before period at end.
 
 Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: “Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act.”
 
@@ -91,6 +95,10 @@ Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted “section 10
 1983—Subsec. (b)(5). Pub. L. 97–473, §301(a), added par. (5).
 
 Subsec. (b)(6). Pub. L. 97–473, §302(b), added par. (6).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–200, title IV, §401(h)(2)(C), July 16, 1998, 112 Stat. 668, provided that: “The amendments made by subparagraph (A) \[amending this section and section 1169 of this title\] shall be effective as if included in the enactment of section 4301(c)(4)(A) of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\].”
 
 #### Effective Date of 1996 Amendments
 
@@ -136,7 +144,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made byan amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 #### Treatment of Other State Laws
 
@@ -144,5 +152,5 @@ Section 301(b) of Pub. L. 97–473 provided that: “The amendment made by this 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1114, 1191, 1191b of this title; title 4 section 114; title 26 section 9805; title 42 sections 300gg–23, 300gg–62, 300gg–91.
+This section is referred to in sections 1114, 1185b, 1191, 1191b of this title; title 4 section 114; title 26 section 9832; title 42 sections 300ff–35, 300gg–23, 300gg–62, 300gg–91, 666, 1397ii.
 

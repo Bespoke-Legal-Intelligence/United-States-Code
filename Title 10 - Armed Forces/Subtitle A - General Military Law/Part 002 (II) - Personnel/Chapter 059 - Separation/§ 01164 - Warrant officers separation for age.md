@@ -4,7 +4,7 @@
 
 (b) The Secretary concerned may defer, for not more than four months, the separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115; Nov. 8, 1967, Pub. L. 90–130, §1(5), 81 Stat. 374; Dec. 12, 1980, Pub. L. 96–513, title V, §511(41), 94 Stat. 2923; Oct. 12, 1982, Pub. L. 97–295, §1(16), 96 Stat. 1290.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(5), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §511(41), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–295, §1(16), Oct. 12, 1982, 96 Stat. 1290.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Section 46 of act Aug. 10, 1956, provided that:
 
 “(a) The separation of any person who, on November 1, 1954, was a male permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 62 has completed less than 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, set out as a note under section 580 of this title\] may be deferred by the Secretary concerned until he completes 20 years of that service, but not later than that date which is 60 days after the date on which he attains the age of 64.
 
-“(b) The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, set out as a note under section 580 of this title\] may be deferred by the Secretary concerned until she completes 20 years of that service, but not laterthan that date which is 60 days after the date on which she attains the age of 60.”
+“(b) The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 (37 U.S.C. 311) \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, set out as a note under section 580 of this title\] may be deferred by the Secretary concerned until she completes 20 years of that service, but not later than that date which is 60 days after the date on which she attains the age of 60.”
 
 #### Cross References
 

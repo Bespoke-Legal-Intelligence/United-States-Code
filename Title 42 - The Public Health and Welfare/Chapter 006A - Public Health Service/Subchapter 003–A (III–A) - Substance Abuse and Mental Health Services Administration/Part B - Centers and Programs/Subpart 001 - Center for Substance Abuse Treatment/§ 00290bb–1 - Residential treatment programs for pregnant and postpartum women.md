@@ -124,7 +124,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (i) Continuing education
 
-A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
+A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals whowill provide treatment in the program to be operated by the applicant pursuant to such subsection.
 
 #### (j) Imposition of charges
 
@@ -194,11 +194,11 @@ For purposes of this section:
 
 &emsp;The amounts authorized in this subsection to be appropriated are in addition to any other amounts that are authorized to be appropriated and are available for the purpose described in paragraph (1).
 
-(July 1, 1944, ch. 373, title V, §508, as added July 10, 1992, Pub. L. 102–321, title I, §108(a), 106 Stat. 336.)
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

@@ -38,7 +38,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (1) In general
 
-&emsp;Upon the request of a grantee under subsection (a) or (b) of this section, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the grantee in carrying out the subsection involved and, for such purpose, maydetail to the State any officer or employee of the Department of Health and Human Services.
+&emsp;Upon the request of a grantee under subsection (a) or (b) of this section, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the grantee in carrying out the subsection involved and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
 
 #### (2) Corresponding reduction in payments
 
@@ -76,21 +76,35 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (1) In general; allocation for emergency grants
 
-&emsp;(A) For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $200,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
+&emsp;(A) For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $200,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2002.
 
-&emsp;(B) Of the amounts appropriated under subparagraph (A) for a fiscal year, the Secretary may reserve not more than $50,000,000 for emergency grants under subsection (a) of this section for any geographic area in which there is, relative to other areas, a substantial number of cases of tuberculosis or a substantial rate of increase in such cases.
+&emsp;(B) Of the amounts appropriated under subparagraph (A) for a fiscal year, the Secretary may reserve not more than 25 percent for emergency grants under subsection (a) of this section for any geographic area in which there is, relative to other areas, a substantial number of cases of tuberculosis or a substantial rate of increase in such cases.
 
 #### (2) Research, demonstration projects, education, and training
 
-&emsp;For the purpose of making grants under subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1998.
+&emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 2002.
 
-(July 1, 1944, ch. 373, title III, §317E, as added Dec. 14, 1993, Pub. L. 103–183, title III, §301(a), 107 Stat. 2233.)
+(July 1, 1944, ch. 373, title III, §317E, as added Pub. L. 103–183, title III, §301(a), Dec. 14, 1993, 107 Stat. 2233; amended Pub. L. 105–392, title IV, §§401(b)(1), 405, Nov. 13, 1998, 112 Stat. 3587, 3588.)
 
 #### References in Text
 
 Sections 254b and 254c of this title, referred to in subsec. (c), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 Sections 256 and 256a of this title, referred to in subsec. (c), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
+#### Amendments
+
+1998—Subsec. (g)(1)(A). Pub. L. 105–392, §405(1)(A), substituted “2002” for “1998”.
+
+Subsec. (g)(1)(B). Pub. L. 105–392, §405(1)(B), substituted “25 percent” for “$50,000,000”.
+
+Subsec. (g)(2). Pub. L. 105–392, §405(2), substituted “2002” for “1998”.
+
+Pub. L. 105–392, §401(b)(1), substituted “carrying out subsection (b)” for “making grants under subsection (b)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 401(b)(1) of Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 #### Termination of Advisory Councils
 

@@ -30,7 +30,7 @@ In lieu of bringing actions itself pursuant to this section, the Commission may 
 
 Where the Commission elects to bring the action, it shall inform the Attorney General of such suit and advise him of subsequent developments.
 
-(Sept. 21, 1922, ch. 369, §6c, as added Oct. 23, 1974, Pub. L. 93–463, title II, §211, 88 Stat. 1402; amended Jan. 11, 1983, Pub. L. 97–444, title II, §220, 96 Stat. 2308; Nov. 10, 1986, Pub. L. 99–641, title I, §104, 100 Stat. 3557; Oct. 28, 1992, Pub. L. 102–546, title II, §221, 106 Stat. 3614.)
+(Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614.)
 
 #### Amendments
 

@@ -26,7 +26,7 @@
 
 (1) To ensure local commitment to the activities assisted under this part, a country receiving assistance under this part should bear an appropriate share of the costs of any narcotics control program, project, or activity for which such assistance is to be provided. A country may bear such costs on an “in kind” basis.
 
-(2)(A) The President is authorized to accept contributions from foreign governments tocarry out the purposes of this part. Such contributions shall be deposited as an offsetting collection to the applicable appropriation account and may be used under the same terms and conditions as funds appropriated pursuant to this part.
+(2)(A) The President is authorized to accept contributions from foreign governments to carry out the purposes of this part. Such contributions shall be deposited as an offsetting collection to the applicable appropriation account and may be used under the same terms and conditions as funds appropriated pursuant to this part.
 
 (B) At the time of submission of the annual congressional presentation documents required by section 2394(a) of this title, the President shall provide a detailed report on any contributions received in the preceding fiscal year, the amount of such contributions, and the purposes for which such contributions were used.
 
@@ -76,7 +76,7 @@ Subsec. (d). Pub. L. 101–231, §17(g), inserted “Contribution by recipient c
 
 1986—Subsec. (a)(1). Pub. L. 99–570, §2002(1), which directed that “$75,445,000 for the fiscal year 1987” be substituted for “$57,529,000 for the fiscal year 1987”, was executed by making the substitution for “$65,445,000 for the fiscal year 1987” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 99–529. See Amendment note for Pub. L. 99–529 below.
 
-Pub. L. 99–570, §2002(2), inserted provisions that if the President submits a detailed plan for use of the money,an additional $45,000,000 may be appropriated to carry out the purpose of section 2291 of this title, of which at least $10,000,000 shall be used primarily for helicopters or other aircraft based in Latin America for use for narcotics control, eradication, and interdiction efforts throughout the region.
+Pub. L. 99–570, §2002(2), inserted provisions that if the President submits a detailed plan for use of the money, an additional $45,000,000 may be appropriated to carry out the purpose of section 2291 of this title, of which at least $10,000,000 shall be used primarily for helicopters or other aircraft based in Latin America for use for narcotics control, eradication, and interdiction efforts throughout the region.
 
 Pub. L. 99–529, which directed the substitution of “$65,445,000 for the fiscal year 1987” for “$57,529,000 for the fiscal year 1987”, was executed by substituting the new phrase for “$57,529,000 for fiscal year 1987” to reflect the probable intent of Congress.
 

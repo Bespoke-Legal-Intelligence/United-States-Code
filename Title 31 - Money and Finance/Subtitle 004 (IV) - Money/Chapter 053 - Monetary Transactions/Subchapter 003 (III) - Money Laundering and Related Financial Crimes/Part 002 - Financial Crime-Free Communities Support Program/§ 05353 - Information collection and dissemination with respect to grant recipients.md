@@ -1,0 +1,34 @@
+### §5353. Information collection and dissemination with respect to grant recipients
+
+(a)
+
+Applicant and Grantee Information.—
+
+&emsp;(1)
+
+Application process.—The Secretary shall issue requests for proposal, as necessary, regarding, with respect to the grants awarded under section 5352, the application process, grant renewal, and suspension or withholding of renewal grants. Each application under this paragraph shall be in writing and shall be subject to review by the Secretary.
+
+&emsp;(2)
+
+Reporting.—The Secretary shall, to the maximum extent practicable and in a manner consistent with applicable law, minimize reporting requirements by a grant recipient and expedite any application for a renewal grant made under this part.
+
+(b)
+
+Activities of Secretary.—The Secretary may—
+
+&emsp;(1) evaluate the utility of specific initiatives relating to the purposes of the program;
+
+&emsp;(2) conduct an evaluation of the program; and
+
+&emsp;(3) disseminate information described in this subsection to—
+
+&emsp;&emsp;(A) eligible State local law enforcement agencies or prosecutors; and
+
+&emsp;&emsp;(B) the general public.
+
+(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2948.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5352 of this title.
+

@@ -2,7 +2,7 @@
 
 #### (a) Appointment of staff
 
-To assist the Advisory Board in the performance of their <sup>1</sup> duties, the Secretary may appoint, after consultation with the chairperson of the Advisory Board—
+To assist the Advisory Board in the performance of its duties, the Secretary may appoint, after consultation with the chairperson of the Advisory Board—
 
 &emsp;(1) a full-time executive director who shall perform such duties as the chairperson of the Advisory Board may direct and who shall receive compensation at a rate not to exceed the rate payable for GS–18 of the General Schedule established in section 5332 of title 5; and
 
@@ -10,15 +10,19 @@ To assist the Advisory Board in the performance of their <sup>1</sup> duties, t
 
 #### (b) Additional clerical assistance and staff personnel
 
-The Secretary shall provide such additional clerical assistance and staff personnel as may be required to assist the Advisory Board in carrying out their <sup>1</sup> duties.
+The Secretary shall provide such additional clerical assistance and staff personnel as may be required to assist the Advisory Board in carrying out its duties.
 
 #### (c) Assistance of outside personnel
 
-In formulating their <sup>1</sup> recommendations to the Secretary, the Advisory Board may obtain theassistance of Department of Agriculture employees, and, to the maximum extent practicable, the assistance of employees of other Federal departments and agencies conducting related programs of agricultural research, extension, and teaching and of appropriate representatives of colleges and universities, including State agricultural experiment stations, cooperative extension services, and other non-Federal organizations conducting significant programs in the food and agricultural sciences.
+In formulating its recommendations to the Secretary, the Advisory Board may obtain the assistance of Department of Agriculture employees, and, to the maximum extent practicable, the assistance of employees of other Federal departments and agencies conducting related programs of agricultural research, extension, and teaching and of appropriate representatives of colleges and universities, including State agricultural experiment stations, cooperative extension services, and other non-Federal organizations conducting significant programs in the food and agricultural sciences.
 
-(Pub. L. 95–113, title XIV, §1412, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1413, Dec. 22, 1981, 95 Stat. 1302; Pub. L. 101–624, title XVI, §1605(b)(1), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 102–237, title IV, §402(5), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§852(b)(3), 853(b)(4), Apr. 4, 1996, 110 Stat. 1171, 1172.)
+(Pub. L. 95–113, title XIV, §1412, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1413, Dec. 22, 1981, 95 Stat. 1302; Pub. L. 101–624, title XVI, §1605(b)(1), Nov. 28, 1990, 104 Stat. 3713; Pub. L. 102–237, title IV, §402(5), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§852(b)(3), 853(b)(4), Apr. 4, 1996, 110 Stat. 1171, 1172; Pub. L. 105–185, title VI, §606(c)(1), June 23, 1998, 112 Stat. 603.)
 
 #### Amendments
+
+1998—Subsecs. (a), (b). Pub. L. 105–185, §606(c)(1)(A), substituted “its duties” for “their duties”.
+
+Subsec. (c). Pub. L. 105–185, §606(c)(1)(B), substituted “its recommendations” for “their recommendations”.
 
 1996—Pub. L. 104–127, §§852(b)(3)(A), 853(b)(4)(A), in section catchline, substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
 
@@ -51,6 +55,4 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3128 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “its”.</i>
 

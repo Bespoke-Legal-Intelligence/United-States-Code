@@ -8,7 +8,7 @@ The Administrator shall request the Attorney General to appear and represent him
 
 In the event the Attorney General agrees to appear and represent the Administrator in any such action, such representation shall be conducted in accordance with, and shall include participation by, attorneys appointed by the Administrator to the extent authorized by, the memorandum of understanding between the Department of Justice and the Environmental Protection Agency, dated June 13, 1977, respecting representation of the agency by the department in civil litigation.
 
-(July 14, 1955, ch. 360, title III, §305, as added Dec. 31, 1970, Pub. L. 91–604, §12(a), 84 Stat. 1707; amended Aug. 7, 1977, Pub. L. 95–95, title III, §304(a), 91 Stat. 772.)
+(July 14, 1955, ch. 360, title III, §305, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1707; amended Pub. L. 95–95, title III, §304(a), Aug. 7, 1977, 91 Stat. 772.)
 
 #### Codification
 
@@ -30,7 +30,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his officialcapacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

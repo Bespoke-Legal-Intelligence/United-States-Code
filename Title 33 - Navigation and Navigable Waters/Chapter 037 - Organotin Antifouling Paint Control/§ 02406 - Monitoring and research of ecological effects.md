@@ -30,7 +30,7 @@ At the end of the 5-year period beginning on June 16, 1988, the Administrator sh
 
 #### Amendments
 
-1996—Subsecs. (d) to (f). Pub. L. 104–106 redesignated subsecs. (e) and (f) as (d) and (e), respectively, andstruck out heading and text of former subsec. (d). Text read as follows: “The Secretary shall submit a report annually to the Administrator and to the Governor of each State in which a home port for the Navy is monitored under subsection (b) of this section detailing the results of such monitoring in the State. Such reports shall be included in the annual report required to be submitted under subsection (a) of this section.”
+1996—Subsecs. (d) to (f). Pub. L. 104–106 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Secretary shall submit a report annually to the Administrator and to the Governor of each State in which a home port for the Navy is monitored under subsection (b) of this section detailing the results of such monitoring in the State. Such reports shall be included in the annual report required to be submitted under subsection (a) of this section.”
 
 #### Navy Program To Monitor Ecological Effects of Organotin
 
@@ -46,7 +46,7 @@ Funding.—The Administrator of the Environmental Protection Agency shall provid
 
 “(c)
 
-Written Agreement.—The Secretary of the Navy and the Administrator of the Environmental Protection Agency shall enter into a written agreement setting forth the actions that the Secretary plans to take under subsection (a) and the funding that the Administrator agrees to provide under subsection (b). If the Secretary determines that the Administrator will not enter into such an agreement, the Secretary shall notify the Committee on National Security of the House of Representatives and the Committee on Armed Services of the Senate not later than 30 days after such determination.
+Written Agreement.—The Secretary of the Navy and the Administrator of the Environmental Protection Agency shall enter into a written agreement setting forth the actions that the Secretary plans to take under subsection (a) and the funding that the Administrator agrees to provide under subsection (b). If the Secretary determines that the Administrator will not enter into such an agreement, the Secretary shall notify the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] and the Committee on Armed Services of the Senate not later than 30 days after such determination.
 
 “(d)
 

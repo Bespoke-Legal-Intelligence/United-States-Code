@@ -8,7 +8,7 @@
 
 (d) All moneys received in payment for work or services enumerated under this section shall be deposited in a separate account which may be used to pay directly the costs of such work or services, to repay appropriations which initially bore all or part of such costs, or to refund excess sums when necessary.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Aug. 28, 1957, Pub. L. 85–207, §4, 71 Stat. 481; Oct. 17, 1976, Pub. L. 94–521, §6(a), 90 Stat. 2460.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Pub. L. 85–207, §4, Aug. 28, 1957, 71 Stat. 481; Pub. L. 94–521, §6(a), Oct. 17, 1976, 90 Stat. 2460.)
 
 #### Historical and Revision Notes
 

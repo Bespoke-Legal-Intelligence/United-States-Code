@@ -2,7 +2,7 @@
 
 #### (a) Requirement of financial protection for licensees
 
-Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b)of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
+Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
 
 #### (b) Amount and type of financial protection for licensees
 
@@ -16,7 +16,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 (B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standard annual deferred premium assessment under paragraph (1) would become due.
 
-(3) The Commission shall establish such requirements as are necessary to assure availability of funds to meet any assessment of deferred premiums within a reasonable time when due, and may provide reinsurance or shall otherwise guarantee the payment of such premiums in the event it appears that the amount of such premiums will not be available on a timely basis through the resources of private industry and insurance. Any agreement by the Commission with a licensee or indemnitor to guarantee the payment of deferred premiums may contain such terms as the Commission deems appropriate to carry out the purposes of this section and to assure reimbursement to the Commission for its payments made due to the failure of such licensee or indemnitor to meet any of its obligations arising under or in connection with financial protection required under this subsection including without limitation terms creating liens upon the licensed facility and the revenues derived therefrom or any other property or revenues of such licensee to secure such reimbursement and consent to the automatic revocation of any license.
+(3) The Commission shall establish such requirements as are necessary to assure availability of funds to meet any assessment of deferred premiums within a reasonable time when due, and may provide reinsurance or shall otherwise guarantee the payment of such premiums in the event it appears that the amount of such premiums will not be available on a timely basis through the resources of private industry and insurance. Any agreement by the Commission with a licensee or indemnitor to guarantee the payment of deferred premiums may contain such terms as the Commission deems appropriate to carry out the purposes of this section and to assure reimbursement to the Commission for its payments made due to the failure of suchlicensee or indemnitor to meet any of its obligations arising under or in connection with financial protection required under this subsection including without limitation terms creating liens upon the licensed facility and the revenues derived therefrom or any other property or revenues of such licensee to secure such reimbursement and consent to the automatic revocation of any license.
 
 (4)(A) In the event that the funds available to pay valid claims in any year are insufficient as a result of the limitation on the amount of deferred premiums that may be required of a licensee in any year under paragraph (1) or (2), or the Commission is required to make reinsurance or guaranteed payments under paragraph (3), the Commission shall, in order to advance the necessary funds—
 
@@ -122,11 +122,11 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 (6)(A) This paragraph is enacted—
 
-&emsp;(i) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions described by subparagraph (B) and it supersedes other rules only to the extent that it is inconsistent therewith; and
+&emsp;(i) as an exercise of the rulemaking power of the Senate and as such it is deemed a part ofthe rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions described by subparagraph (B) and it supersedes other rules only to the extent that it is inconsistent therewith; and
 
 &emsp;(ii) with full recognition of the constitutional right of the Senate to change the rules at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-(B) For purposes of this paragraph, the term “resolution” means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  “That  the                  approves the compensation plan numbered            submitted to the Congresson            , 19  .”, the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
+(B) For purposes of this paragraph, the term “resolution” means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  “That  the                  approves the compensation plan numbered            submitted to the Congress on            , 19  .”, the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
 
 (C) A resolution once introduced with respect to a compensation plan shall immediately be referred to a committee (and all resolutions with respect to the same compensation plan shall be referred to the same committee) by the President of the Senate.
 
@@ -248,7 +248,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(v) to promulgate special rules of court, not inconsistent with the Federal Rules of Civil Procedure, to expedite cases or allow more equitable consideration of claims;
 
-&emsp;(vi) to implement such other measures, consistent with existing law and the Federal Rules of Civil Procedure, as will encourage the equitable, prompt, and efficient resolution of cases arising out of the nuclear incident; and
+&emsp;(vi) to implement such other measures, consistent with existing law and the FederalRules of Civil Procedure, as will encourage the equitable, prompt, and efficient resolution of cases arising out of the nuclear incident; and
 
 &emsp;(vii) to assemble and submit to the President such data, available to the court, as may be useful in estimating the aggregate damages from the nuclear incident.
 
@@ -286,9 +286,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 #### (p) Reports to Congress
 
-(1) The Commission and the Secretary shall submit to the Congress by August 1, 1998, detailed reports concerning the need for continuation or modification of the provisions of this section, taking into account the condition of the nuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
-
-(2) Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year.
+The Commission and the Secretary shall submit to the Congress by August 1, 1998, detailed reports concerning the need for continuation or modification of the provisions of this section, taking into account the condition of the nuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
 
 #### (q) Limitation on awarding of precautionary evacuation costs
 
@@ -304,15 +302,15 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 #### (t) Inflation adjustment
 
-(1) The Commission shall adjust the amount of the maximum standard deferred premium under subsection (b)(1) of this section not less than once during each 5-year period following August 20, 1988, in accordance with the aggregate percentage change in the Consumer Price Index since—
+(1) The Commission shall adjust the amount of the maximum standard deferred premium undersubsection (b)(1) of this section not less than once during each 5-year period following August 20, 1988, in accordance with the aggregate percentage change in the Consumer Price Index since—
 
 &emsp;(A) August 20, 1988, in the case of the first adjustment under this subsection; or
 
 &emsp;(B) the previous adjustment under this subsection.
 
-(2) For purposes of this subsection, the term “Consumer Price Index” means the ConsumerPrice Index for all urban consumers published by the Secretary of Labor.
+(2) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
 
-(Aug. 1, 1946, ch. 724, title I, §170, as added Sept. 2, 1957, Pub. L. 85–256, §4, 71 Stat. 576; amended Aug. 8, 1958, Pub. L. 85–602, §§2, 2\[3\], 72 Stat. 525; Aug. 23, 1958, Pub. L. 85–744, 72 Stat. 837; Sept. 6, 1961, Pub. L. 87–206, §15, 75 Stat. 479; Aug. 29, 1962, Pub. L. 87–615, §§6, 7, 76 Stat. 410; Aug. 1, 1964, Pub. L. 88–394, §§2, 3, 78 Stat. 376; Sept. 29, 1965, Pub. L. 89–210, §§1–5, 79 Stat. 855–857; Oct. 13, 1966, Pub. L. 89–645, §§2, 3, 80 Stat. 891; Dec. 31, 1975, Pub. L. 94–197, §§2–14, 89 Stat. 1111–1115; Aug. 20, 1988, Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), 102 Stat. 1066–1068, 1070–1080; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amended Pub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292.)
 
 #### References in Text
 
@@ -323,6 +321,8 @@ The Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(1), (4)(A)
 The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+1998—Subsec. (p). Pub. L. 105–362 struck out par. (1) designation and struck out par. (2) which read as follows: “Not later than April 1 of each year, the Commission and the Secretary shall each submit an annual report to the Congress setting forth the activities under this section during the preceding calendar year.”
 
 1988—Subsec. (a). Pub. L. 100–408, §16(e)(1), inserted “Requirement of financial protection for licensees” as heading.
 
@@ -442,7 +442,7 @@ Subsec. (<i>o</i>)(3), (4). Pub. L. 94–197, §13, in par. (3) inserted provisi
 
 Subsec. (p). Pub. L. 94–197, §14, added subsec. (p).
 
-1966—Subsec. (e). Pub. L. 89–645, §2, struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclearincidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (<i>o</i>) of this section.
+1966—Subsec. (e). Pub. L. 89–645, §2, struck out last sentence which authorized application by the Commission or any indemnified person to district court of the United States having venue in bankruptcy over location of nuclear incident and to United States District Court for the District of Columbia in cases of nuclear incidents occurring outside the United States, and upon a showing that public liability from a single nuclear incident will probably exceed the limit of imposable liability, entitled the applicant to orders for enforcement of this section, including limitation of liability of indemnified persons, staying payment of claims and execution of court judgments, apportioning payments to claimants, permitting partial payments before final determination of total claims, and setting aside part of funds for possible injuries not discovered until later time, now incorporated in subsec. (<i>o</i>) of this section.
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 89–645, §3, added subsecs. (m) to (<i>o</i>).
 
@@ -524,7 +524,7 @@ Apology.—The Congress apologizes on behalf of the Nation to the individuals de
 
 “(a)
 
-Establishment.—There is established in the Treasury of the United States, a trust fund to be knownas the ‘Radiation Exposure Compensation Trust Fund’ (hereinafter in this Act referred to as the ‘Fund’), which shall be administered by the Secretary of the Treasury.
+Establishment.—There is established in the Treasury of the United States, a trust fund to be known as the ‘Radiation Exposure Compensation Trust Fund’ (hereinafter in this Act referred to as the ‘Fund’), which shall be administered by the Secretary of the Treasury.
 
 “(b)
 
@@ -624,7 +624,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(1) the term ‘working level month of radiation’ means radiation exposure at the level of one working level every work day for a month, or an equivalent exposure over a greater or lesser amount of time;
 
-&emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that willrelease (1.3×10<sup>5</sup>) million electron volts of alpha energy per liter of air;
+&emsp;“(2) the term ‘working level’ means the concentration of the short half-life daughters of radon that will release (1.3×10<sup>5</sup>) million electron volts of alpha energy per liter of air;
 
 &emsp;“(3) the term ‘nonmalignant respiratory disease’ means fibrosis of the lung, pulmonary fibrosis, and corpulmonale related to fibrosis of the lung; and if the claimant, whether Indian or non-Indian, worked in a uranium mine located on or within an Indian Reservation, the term shall also include moderate or severe silicosis or pneumoconiosis; and
 
@@ -712,7 +712,7 @@ Definitions.—For purposes of this paragraph—
 
 &emsp;&emsp;&emsp;“(i) the ‘spouse’ of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
 
-&emsp;&emsp;&emsp;“(ii) a ‘child’ includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
+&emsp;&emsp;&emsp;“(ii) a ‘child’ includes a recognized natural child, a stepchild who lived with an individual ina regular parent-child relationship, and an adopted child;
 
 &emsp;&emsp;&emsp;“(iii) a ‘parent’ includes fathers and mothers through adoption;
 
@@ -854,7 +854,7 @@ Nuclear incident involving nuclear reactor of United States warship, payment of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2014, 2021d, 2073, 2243, 2273, 2282a, 2296, 2297c–2, 2297e–7, 2297h–5, 5851, 9601 of this title.
+This section is referred to in sections 2014, 2021d, 2073, 2243, 2273, 2282a, 2296, 2297h–5, 5851, 9601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commission,”.</i>
 

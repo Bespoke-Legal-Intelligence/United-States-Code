@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts; duration; renewal; amount
 
-(1) The Secretary may make grants and enter into contracts with public agencies or privateorganizations or institutions of higher education to support the research and dissemination activities described in paragraphs (4), (5), and (6) of section 300z(b) of this title.
+(1) The Secretary may make grants and enter into contracts with public agencies or private organizations or institutions of higher education to support the research and dissemination activities described in paragraphs (4), (5), and (6) of section 300z(b) of this title.
 
 (2) The Secretary may make grants or enter into contracts under this section for a period of one year. A grant or contract under this section for a project may be renewed for four additional one-year periods, which need not be consecutive.
 
@@ -24,7 +24,7 @@
 
 The Secretary may not make any grant or enter into any contract to support research or dissemination activities under this section unless—
 
-&emsp;(1) the Secretary has received an application for such grant or contract which is in such form and which contains such information as the Secretary may by regulation require;
+&emsp;(1) the Secretary has received an application for such grant or contract which is in suchform and which contains such information as the Secretary may by regulation require;
 
 &emsp;(2) the applicant has demonstrated that the applicant is capable of conducting one or more of the types of research or dissemination activities described in paragraph (4), (5), or (6) of section 300z(b) of this title; and
 
@@ -50,7 +50,7 @@ The Secretary shall, where appropriate, coordinate research and dissemination ac
 
 (2) Recipients of grants and contracts for dissemination under this section shall submit to the Secretary such reports as the Secretary determines appropriate.
 
-(July 1, 1944, ch. 373, title XX, §2008, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §955(a), 95 Stat. 589; amended Oct. 19, 1984, Pub. L. 98–512, §2(e), 98 Stat. 2409.)
+(July 1, 1944, ch. 373, title XX, §2008, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 589; amended Pub. L. 98–512, §2(e), Oct. 19, 1984, 98 Stat. 2409.)
 
 #### Amendments
 

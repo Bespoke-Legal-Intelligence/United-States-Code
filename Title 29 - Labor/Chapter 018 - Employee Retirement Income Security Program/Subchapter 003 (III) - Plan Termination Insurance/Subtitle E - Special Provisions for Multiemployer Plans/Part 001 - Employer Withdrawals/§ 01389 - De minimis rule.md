@@ -12,7 +12,7 @@ Except in the case of a plan amended under subsection (b) of this section, the a
 
 #### (b) Amendment of plan for reduction of amount of unfunded vested benefits allocable to employer withdrawn from plan
 
-A plan may be amended to provide for the reduction of the amount determined under section1391 of this title by not more than the greater of—
+A plan may be amended to provide for the reduction of the amount determined under section 1391 of this title by not more than the greater of—
 
 &emsp;(1) the amount determined under subsection (a) of this section, or
 

@@ -18,7 +18,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 1990—Pub. L. 101–625 substituted provisions authorizing appropriations of $21,200,000 for 1991 and $22,100,000 for 1992, for provisions authorizing $17,000,000 for 1988 and $18,000,000 for 1989, and added provisions limiting amount to be used for demonstration project in 1991 and requiring that annual report include statement relating to such project.
 
-1988—Pub. L. 100–242 substituted “There are authorized to be appropriated to carry out this title $17,000,000for fiscal year 1988, and $18,000,000 for fiscal year 1989.” for “There are authorized to be appropriated for activities under this title not to exceed $19,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985. Of the amount appropriated under the preceding sentence for fiscal year 1984, not less than $2,000,000 shall be provided for implementation of a research program to be developed in consultation with public housing agencies, which program shall identify current problems of public housing management, specific solutions to such problems, and incentives to encourage implementation of such solutions.”
+1988—Pub. L. 100–242 substituted “There are authorized to be appropriated to carry out this title $17,000,000 for fiscal year 1988, and $18,000,000 for fiscal year 1989.” for “There are authorized to be appropriated for activities under this title not to exceed $19,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985. Of the amount appropriated under the preceding sentence for fiscal year 1984, not less than $2,000,000 shall be provided for implementation of a research program to be developed in consultation with public housing agencies, which program shall identify current problems of public housing management, specific solutions to such problems, and incentives to encourage implementation of such solutions.”
 
 1983—Pub. L. 98–181 substituted provisions relating to appropriations for fiscal years 1984 and 1985 and the expenditure of not less than $2,000,000 for a public housing management research program for provisions authorizing appropriations of $65,000,000 for fiscal 1977, $60,000,000 for fiscal 1978, $62,000,000 for fiscal 1979, $50,300,000 for fiscal 1980, $51,000,000 for fiscal 1981 and $35,000,000 for fiscal 1982.
 
@@ -37,6 +37,66 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
+
+#### Rehabilitation Demonstration Grant Program
+
+Pub. L. 105–276, title V, §599G, Oct. 21, 1998, 112 Stat. 2666, provided that:
+
+“(a)
+
+In General.—The Secretary of Housing and Urban Development shall, to the extent amounts are provided in appropriation Acts to carry out this section, carry out a program to demonstrate the effectiveness of making grants for rehabilitation of single family housing located within 10 demonstration areas designated by the Secretary. Of the areas designated by the Secretary under this section—
+
+&emsp;“(1) 6 shall be areas that have primarily urban characteristics;
+
+&emsp;“(2) 3 shall be areas that are outside of a metropolitan statistical area; and
+
+&emsp;“(3) 1 shall be an area that has primarily rural characteristics.
+
+> In selecting areas, the Secretary shall provide for national geographic and demographic diversity.
+
+“(b)
+
+Grantees.—Grants under the program under this section may be made only to agencies of State and local governments and non-profit organizations operating within the demonstration areas.
+
+“(c)
+
+Selection Criteria.—In selecting among applications for designation of demonstration areas and grants under this section, the Secretary shall consider—
+
+&emsp;“(1) the extent of single family residences located in the proposed area that have rehabilitation needs;
+
+&emsp;“(2) the ability and expertise of the applicant in carrying out the purposes of the demonstration program, including the availability of qualified housing counselors and contractors in the proposed area willing and able to participate in rehabilitation activities funded with grant amounts;
+
+&emsp;“(3) the extent to which the designation of such area and the grant award would promote affordable housing opportunities;
+
+&emsp;“(4) the extent to which selection of the proposed area would have a beneficial effect on the neighborhood or community in the area and on surrounding areas;
+
+&emsp;“(5) the extent to which the applicant has demonstrated that grant amounts will be used to leverage additional public or private funds to carry out the purposes of the demonstration program;
+
+&emsp;“(6) the extent to which lenders (including local lenders and lenders outside the proposed area) are willing and able to make loans for rehabilitation activities assisted with grant funds; and
+
+&emsp;“(7) the extent to which the application provides for the involvement of local residents in the planning of rehabilitation activities in the demonstration area.
+
+“(d)
+
+Use of Grant Funds.—Funds from grants made under this section may be used by grantees—
+
+&emsp;“(1) to subsidize interest on loans, over a period of not more than 5 years from the origination date of the loan, made after the date of the enactment of this Act \[Oct. 21, 1998\] for rehabilitation of any owner-occupied 1- to 4-family residence, including the payment of interest during any period in which a residence is uninhabitable because of rehabilitation activities;
+
+&emsp;“(2) to facilitate loans for rehabilitation of 1- to 4-family properties previously subject to a mortgage insured under the National Housing Act \[12 U.S.C. 1701 et seq.\] that has been foreclosed or for which insurance benefits have been paid, including to establish revolving loan funds, loan loss reserves, and other financial structures; and
+
+&emsp;“(3) to provide technical assistance in conjunction with the rehabilitation of owner-occupied 1- to 4-family residences, including counseling, selection contractors, monitoring of work, approval of contractor payments, and final inspection of work.
+
+“(e)
+
+Definition of Rehabilitation.—For purposes of this section, the term ‘rehabilitation’ has the meaning given such term in section 203(k)(2)(B) of the National Housing Act (12 U.S.C. 1709(k)(2)(B)).
+
+“(f)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2003.
+
+“(g)
+
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Report Regarding Research Activities
 

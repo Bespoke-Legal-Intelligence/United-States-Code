@@ -2,7 +2,7 @@
 
 #### (a) Development of System
 
-The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B of this subchapter and loans made under parts C and D of this subchapter, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan. The information in the data system shall include (but is not limited to)—
+The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B of this subchapter and loans made under parts C and D of this subchapter, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan not later than one year after October 7, 1998. The information in the data system shall include (but is not limited to)—
 
 &emsp;(1) the amount and type of each such loan made;
 
@@ -68,13 +68,13 @@ The Secretary shall, not later than July 1, 1993—
 
 &emsp;(1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42; and
 
-&emsp;(2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
+&emsp;(2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatiblewith the integrated postsecondary education data system (IPEDS).
 
 #### (g) Integration of databases
 
 The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478.)
+(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746.)
 
 #### References in Text
 
@@ -83,6 +83,8 @@ The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 2
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–244 inserted “not later than one year after October 7, 1998” before period at end of third sentence.
 
 1993—Subsec. (a). Pub. L. 103–208, §2(h)(38), substituted “parts C and D of this subchapter” for “part D of this subchapter” and struck out second period at end of third sentence.
 
@@ -106,9 +108,13 @@ Subsec. (b)(2)(D). Pub. L. 100–50, §15(13)(B), substituted “of any borrower
 
 Subsec. (b)(3). Pub. L. 100–50, §15(13)(C), substituted “public agency” for “Federal agency”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) Any civil action against the United States for the recovery of any internal-revenue tax alleged to have been erroneously or illegally assessed or collected, or any penalty claimed to have been collected without authority or any sum alleged to have been excessive or in any manner wrongfully collected under the internal-revenue laws;
 
-&emsp;(2) Any other civil action or claim against the United States, not exceeding $10,000 in amount, founded either upon the Constitution, or any Act of Congress, or any regulation of an executive department, or upon any express or implied contract with the United States, or for liquidated or unliquidated damages in cases not sounding in tort, except that the district courts shall not have jurisdiction of any civil action or claim against the United States founded upon any express or implied contract with the United States or for liquidated or unliquidated damages in cases not sounding in tort which are subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978. For the purpose of this paragraph, an express or implied contract with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration shall be considered an express or implied contract with the United States.
+&emsp;(2) Any other civil action or claim against the United States, not exceeding $10,000 in amount, founded either upon the Constitution, or any Act of Congress, or any regulation of an executive department, or upon any express or implied contract with the United States, or for liquidated or unliquidated damages in cases not sounding in tort, except that the district courts shall not have jurisdiction of any civil action or claim against the United States founded upon any express or implied contract with the United States or for liquidated or unliquidated damages in cases not sounding in tort which are subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978.For the purpose of this paragraph, an express or implied contract with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration shall be considered an express or implied contract with the United States.
 
 (b)(1) Subject to the provisions of chapter 171 of this title, the district courts, together with the United States District Court for the District of the Canal Zone and the District Court of the Virgin Islands, shall have exclusive jurisdiction of civil actions on claims against the United States, for money damages, accruing on and after January 1, 1945, for injury or loss of property, or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.
 
@@ -36,7 +36,7 @@ Words “commencing an action under this section” in subsec. (c) of this revis
 
 The phrase in section 931(a) of title 28, U.S.C., 1940 ed., “accruing on and after January 1, 1945” was omitted because executed as of the date of the enactment of this revised title.
 
-Provisions in section 41(20) of title 28, U.S.C., 1940 ed., relating to time for commencing action against UnitedStates and jury trial constitute sections 2401 and 2402 of this title. (See reviser's notes under said sections.)
+Provisions in section 41(20) of title 28, U.S.C., 1940 ed., relating to time for commencing action against United States and jury trial constitute sections 2401 and 2402 of this title. (See reviser's notes under said sections.)
 
 Words in section 41(20) of title 28, U.S.C., 1940 ed., “commenced after passage of the Revenue Act of 1921” were not included in revised subsection (a)(1) because obsolete and superfluous. Actions under this section involving erroneous or illegal assessments by the collector of taxes would be barred unless filed within the 5-year limitation period of section 1113(a) of the Revenue Act of 1926, 44 Stat. 9, 116. (See <i>United States v. A. S. Kreider Co</i>., 1941, 61 S.Ct. 1007, 313 U.S. 443, 85 L.Ed. 1447.)
 
@@ -44,7 +44,7 @@ Words in section 41(20) of title 28, U.S.C., 1940 ed., “if the collector of in
 
 The revised section retains the language of section 41(20) of title 28, U.S.C., 1940 ed., with respect to actions against the United States if the collector is dead or not in office when action is commenced, and consequently maintains the long existing distinctions in practice between actions against the United States and actions against the collector who made the assessment or collection. In the latter class of actions either party may demand a jury trial while jury trial is denied in actions against the United States. See section 2402 of this title. In reality all such actions are against the United States and not against local collectors. (See <i>Lowe v. United States</i>, 1938, 58 S.Ct. 896, 304 U.S. 302, 82 L.Ed. 1362; <i>Manseau v. United States</i>, D.C.Mich. 1943, 52 F.Supp. 395, and <i>Combined Metals Reduction Co. v. United States</i>, D.C.Utah 1943, 53 F.Supp. 739.)
 
-The revised subsection (c)(1) omitted clause: “but no suit pending on the 27th day of June 1898 shall abate or be affected by this provision,” contained in section 41(20) of title 28, U.S.C., 1940 ed., as obsolete and superfluous. The words contained in section 41(20) of title 28, U.S.C., 1940 ed., “claims growing out of the Civil War, and commonly known as ‘war-claims,’ or to hear and determine other claims which had been reported adversely prior to the 3d day of March 1887 by any court, department, or commission authorized to have and determine the same,” were omitted for the same reason.
+The revised subsection (c)(1) omitted clause: “but no suit pending on the 27th day of June 1898 shall abate or be affected by this provision,” contained in section 41(20) of title 28, U.S.C., 1940 ed., as obsolete and superfluous. The words contained in section 41(20) of title 28, U.S.C., 1940 ed., “claims growing out of the Civil War,and commonly known as ‘war-claims,’ or to hear and determine other claims which had been reported adversely prior to the 3d day of March 1887 by any court, department, or commission authorized to have and determine the same,” were omitted for the same reason.
 
 The words “in a civil action or in admiralty,” in subsection (a)(2), were substituted for “either in a court of law, equity, or admiralty” to conform to Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -74,37 +74,37 @@ Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 198
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–134 designated existing provisions as par. (1) and added par. (2).
+1996—Subsec. (b). Pub. L. 104–134 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g). Pub. L. 104–331 added subsec. (g).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (e). Pub. L. 97–248 substituted “section 6226, 6228(a), 7426, or” for “section 7426 or section”.
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–563 excluded from the jurisdiction of district courts civil actions or claims against the United States founded upon any express or implied contract with the United States or for damages in cases not sounding in tort subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978.
+1978—Subsec. (a)(2). Pub. L. 95–563 excluded from the jurisdiction of district courts civil actions or claims against the United States founded upon any express or implied contract with the United States or for damages in cases not sounding in tort subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978.
 
-<b>1976</b>—Subsec. (e). Pub. L. 94–455 inserted “or section 7429” and “or section 7428 (in the case of the United States district court for the District of Columbia)”, after “section 7426”.
+1976—Subsec. (e). Pub. L. 94–455 inserted “or section 7429” and “or section 7428 (in the case of the United States district court for the District of Columbia)”, after “section 7426”.
 
-<b>1972</b>—Subsec. (f). Pub. L. 92–562 added subsec. (f).
+1972—Subsec. (f). Pub. L. 92–562 added subsec. (f).
 
-<b>1970</b>—Subsec. (a)(2). Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
+1970—Subsec. (a)(2). Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
 
-<b>1966</b>—Subsec. (e). Pub. L. 89–719 added subsec. (e).
+1966—Subsec. (e). Pub. L. 89–719 added subsec. (e).
 
-<b>1964</b>—Subsec. (d). Pub. L. 88–519 struck out provisions which prohibited district courts from exercising jurisdiction of civil actions or claims to recover fees, salary, or compensation for official services of officers or employees of the United States.
+1964—Subsec. (d). Pub. L. 88–519 struck out provisions which prohibited district courts from exercising jurisdiction of civil actions or claims to recover fees, salary, or compensation for official services of officers or employees of the United States.
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Subsec. (b). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-<b>1954</b>—Subsec. (a)(1). Act July 30, 1954, struck out language imposing jurisdictional limitation of $10,000 on suits to recover taxes.
+1954—Subsec. (a)(1). Act July 30, 1954, struck out language imposing jurisdictional limitation of $10,000 on suits to recover taxes.
 
-<b>1951</b>—Subsec. (d). Act Oct. 31, 1951, inserted references to “claim” and “employees”.
+1951—Subsec. (d). Act Oct. 31, 1951, inserted references to “claim” and “employees”.
 
-<b>1949</b>—Subsec. (a)(1). Act May 24, 1949, §80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
+1949—Subsec. (a)(1). Act May 24, 1949, §80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
 
 Subsec. (b). Acts Apr. 25, 1949, and May 24, 1949, §80(b), made a technical change to correct “chapter 173” to read “chapter 171”, and inserted “on and after January 1, 1945” after “for money damages”.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1982 Amendments
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, withprovision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
@@ -174,5 +174,5 @@ Venue of actions against United States, see section 1402 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 995, 1295, 1402, 1413, 2402, 2409a, 2671, 2676, 2677, 2678, 2679, 2680, 3901, 3902, 3903, 3905 of this title; title 2 section 190g; title 3 sections 435, 451, 453; title 5 sections 3373, 3374, 8477; title 10 sections 1054, 1089; title 14 sections 821, 823a; title 16 section 450ss–3; title 22 sections 2702, 3761, 4606; title 23 section 307; title 25 sections 640d–17, 1680c; title 26 section 7422; title 29 section 938; title 32 section 509; title 38 sections 515, 1151, 7316; title 41 sections 113, 602; title 42 sections 233, 405, 2212, 2221, 2223, 2458a, 4654, 5055; title 43 section 1737; title 46 App. section 1242; title 47 section 606; title 48 section 1905; title 49 section 44309; title 50 App. sections 9, 2410.
+This section is referred to in sections 995, 1295, 1402, 1413, 2402, 2409a, 2671, 2676, 2677, 2678, 2679, 2680, 3901, 3902, 3903, 3905 of this title; title 2 section 190g; title 3 sections 435, 451, 453; title 5 sections 3373, 3374, 8477; title 10 sections 1054, 1089; title 14 sections 821, 823a; title 16 section 450ss–3; title 22 sections 2702, 3761, 4606; title 25 sections 640d–17, 1680c; title 26 section 7422; title 29 section 938; title 32 section 509; title 38 sections 515, 1151, 7316; title 41 sections 113, 602; title 42 sections 233, 405, 2212, 2221, 2223, 2458a, 4654, 5055; title 43 section 1737; title 46 App. section 1242; title 47 section 606; title 48 section 1905; title 49 section 44309; title 50 App. sections 9, 2410.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) gets information on consumers to give the information to a consumer reporting agency; or
 
-&emsp;&emsp;&emsp;(ii) serves as a marketing agent under an arrangement allowing a third party to get the information from a consumer reporting agency.
+&emsp;&emsp;&emsp;(ii) serves as a marketing agent under an arrangement allowing a third party to getthe information from a consumer reporting agency.
 
 &emsp;(4) “executive, judicial, or legislative agency” means a department, agency, court, court administrative office, or instrumentality in the executive, judicial, or legislative branch of Government, including government corporations.
 
@@ -26,7 +26,7 @@
 
 &emsp;(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
-(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, orentity other than another Federal agency. A claim includes, without limitation—
+(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
 
 &emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
 

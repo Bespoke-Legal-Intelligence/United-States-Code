@@ -20,7 +20,7 @@ The President, after consultation with the Secretary of State, the Federal Trade
 
 &emsp;(4) the second sentence of subsection (b) of this section;
 
-> if the President determines with respect to a particular meeting, (A) that such suspension is essential to the developing or carrying out of the international energy program, (B) that suchsuspension relates solely to the purpose of international allocation of petroleum products and the information system provided in such program, and (C) that the meeting deals with matters described in section 552(b)(1) of title 5. Such determination by the President shall be in writing, shall set forth a detailed explanation of reasons justifying the granting of such suspension, and shall be published in the Federal Register at a reasonable time prior to the effective date of any such suspension.
+> if the President determines with respect to a particular meeting, (A) that such suspension is essential to the developing or carrying out of the international energy program, (B) that such suspension relates solely to the purpose of international allocation of petroleum products and the information system provided in such program, and (C) that the meeting deals with matters described in section 552(b)(1) of title 5. Such determination by the President shall be in writing, shall set forth a detailed explanation of reasons justifying the granting of such suspension, and shall be published in the Federal Register at a reasonable time prior to the effective date of any such suspension.
 
 (Pub. L. 94–163, title II, §253, Dec. 22, 1975, 89 Stat. 898; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288.)
 

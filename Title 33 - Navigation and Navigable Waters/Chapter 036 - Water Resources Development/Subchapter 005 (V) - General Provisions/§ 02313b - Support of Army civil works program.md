@@ -12,7 +12,7 @@ With respect to contracts for research and development, the Secretary may includ
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 

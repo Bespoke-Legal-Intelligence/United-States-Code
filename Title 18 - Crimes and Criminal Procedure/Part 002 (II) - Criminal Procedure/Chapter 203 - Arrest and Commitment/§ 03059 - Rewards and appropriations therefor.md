@@ -28,7 +28,7 @@
 
 (4) Neither the failure of the Attorney General to authorize a payment under paragraph (1) nor the amount authorized shall be subject to judicial review.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; Sept. 13, 1982, Pub. L. 97–258, §2(d)(2), 96 Stat. 1058; Sept. 13, 1994, Pub. L. 103–322, title XXV, §250004, 108 Stat. 2086.)
+(June 25, 1948, ch. 645, 62 Stat. 818; Pub. L. 97–258, §2(d)(2), Sept. 13, 1982, 96 Stat. 1058; Pub. L. 103–322, title XXV, §250004, Sept. 13, 1994, 108 Stat. 2086.)
 
 #### Historical and Revision Notes
 
@@ -71,6 +71,8 @@ The criminal laws of the United States, referred to in subsec. (a)(1), are class
 Pub. L. 104–19, title III, §3001, July 27, 1995, 109 Stat. 250, provided that: “Any funds made available to the Attorney General heretofore or hereafter in any Act shall not be subject to the spending limitations contained in sections 3059 and 3072 of title 18, United States Code: <i>Provided</i>, That any reward of $100,000 or more, up to a maximum of $2,000,000, may not be made without the personal approval of the President or the Attorney General, and such approval may not be delegated.”
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 105–277, div. A, §101(b) \[title I, §106\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–66.
 
 Pub. L. 105–119, title I, §106, Nov. 26, 1997, 111 Stat. 2457.
 

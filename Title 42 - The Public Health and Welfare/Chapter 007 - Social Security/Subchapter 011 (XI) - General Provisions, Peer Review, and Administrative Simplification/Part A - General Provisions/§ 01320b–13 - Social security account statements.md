@@ -32,7 +32,7 @@ The Secretary shall, to the maximum extent practicable, take such steps as are n
 
 (2) Beginning not later than October 1, 1999, the Secretary shall provide a statement on an annual basis to each eligible individual who is not receiving benefits under subchapter II of this chapter and for whom a mailing address can be determined through such methods as the Secretary determines to be appropriate. With respect to statements provided to eligible individuals who have not attained age 50, such statements need not include estimates of monthly retirement benefits. However, if such statements provided to eligible individuals who have not attained age 50 do not include estimates of retirement benefit amounts, such statements shall include a description of the benefits (including auxiliary benefits) that are available upon retirement.
 
-(Aug. 14, 1935, ch. 531, title XI, §1143, formerly §1142, as added Dec. 19, 1989, Pub. L. 101–239, title X, §10308, 103 Stat. 2485; renumbered §1143 and amended Nov. 5, 1990, Pub. L. 101–508, title V, §5111(a), 104 Stat. 1388–272; Nov. 13, 1997, Pub. L. 105–78, title VI, §605, 111 Stat. 1521.)
+(Aug. 14, 1935, ch. 531, title XI, §1143, formerly §1142, as added Pub. L. 101–239, title X, §10308, Dec. 19, 1989, 103 Stat. 2485; renumbered §1143 and amended Pub. L. 101–508, title V, §5111(a), Nov. 5, 1990, 104 Stat. 1388–272; Pub. L. 105–78, title VI, §605, Nov. 13, 1997, 111 Stat. 1521.)
 
 #### Amendments
 

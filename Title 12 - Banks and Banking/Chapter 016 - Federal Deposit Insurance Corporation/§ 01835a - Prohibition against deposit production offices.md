@@ -28,7 +28,7 @@ Regulations issued under subsection (a) of this section shall include guidelines
 
 &emsp;&emsp;(A) whether the interstate branch or branches of the out-of-State bank were formerly part of a failed or failing depository institution;
 
-&emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there was a low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;
+&emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there wasa low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;
 
 &emsp;&emsp;(C) whether the interstate branch or branches of the out-of-State bank have a higher concentration of commercial or credit card lending, trust services, or other specialized activities;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Certification Required.—Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretaryof Defense submits to the congressional committees specified in subsection (b) a certification that making those funds available to such other department or agency is in the national security interest of the United States.
+Certification Required.—Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the congressional committees specified in subsection (b) a certification that making those funds available to such other department or agency is in the national security interest of the United States.
 
 (b)
 
@@ -23,6 +23,10 @@ Provisions similar to those in this section were contained in Pub. L. 101–189,
 #### Amendments
 
 1996—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, substituted “to the congressional committees specified in subsection (b)” for “to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”, and added subsec. (b).
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a) The sums appropriated for any fiscal year pursuant to the authorizations contained in section 1752 of this title shall be available to the Secretary for supplying agricultural commodities and other food for the program in accordance with the provisions of this chapter.
 
-(b)(1) The Secretary shall make food assistance payments to each State educational agency each fiscal year, at such times as the Secretarymay determine, from the sums appropriated for such purpose, in a total amount equal to the product obtained by multiplying—
+(b)(1) The Secretary shall make food assistance payments to each State educational agency each fiscal year, at such times as the Secretary may determine, from the sums appropriated for such purpose, in a total amount equal to the product obtained by multiplying—
 
 &emsp;(A) the number of lunches (consisting of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under section 1758(a) of this title) served during such fiscal year in schools in such State which participate in the school lunch program under this chapter under agreements with such State educational agency; by
 
@@ -10,7 +10,7 @@
 
 (2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjusted pursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
 
-(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Sept. 25, 1962, Pub. L. 87–688, §3(a), 76 Stat. 587; Oct. 15, 1962, Pub. L. 87–823, §2, 76 Stat. 944; Sept. 26, 1972, Pub. L. 92–433, §4(c), 86 Stat. 726; Nov. 7, 1973, Pub. L. 93–150, §2(a), 87 Stat. 560; Aug. 13, 1981, Pub. L. 97–35, title VIII, §§801(a), 819(g), 95 Stat. 521, 533; Nov. 10, 1989, Pub. L. 101–147, title III, §§301, 312(2), 103 Stat. 913, 916.)
+(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688,§3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Section 820(a) of title VIII of Pub. L. 97–35 provided that: “The provisions
 
 “(6) The amendments made by the following provisions shall take effect January 1, 1982: subsections (b), (c), (d), and (e) of section 810 \[amending section 1766 of this title\], except that—
 
-&emsp;“(A) the amendment made by section 810(c) pertaining to the reimbursement rate for supplements shalltake effect as provided under paragraph (1) of this subsection;
+&emsp;“(A) the amendment made by section 810(c) pertaining to the reimbursement rate for supplements shall take effect as provided under paragraph (1) of this subsection;
 
 &emsp;“(B) the amendment made by section 810(d)(1) pertaining to the limitation on the number of meals for which reimbursement may be made shall take effect as provided under paragraph (1) of this subsection; and
 

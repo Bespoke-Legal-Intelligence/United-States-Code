@@ -18,7 +18,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 #### (c) Cultural experiences
 
-Programming developed under this section shall reflect the recognition of diverse culturalexperiences and the needs and experiences of both boys and girls in engaging and preparing young children for schooling.
+Programming developed under this section shall reflect the recognition of diverse cultural experiences and the needs and experiences of both boys and girls in engaging and preparing young children for schooling.
 
 (Pub. L. 89–10, title III, §3302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3663.)
 

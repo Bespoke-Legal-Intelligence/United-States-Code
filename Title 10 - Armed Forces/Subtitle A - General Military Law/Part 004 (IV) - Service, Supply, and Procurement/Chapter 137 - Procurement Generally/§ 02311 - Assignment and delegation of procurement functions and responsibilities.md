@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except to the extent expressly prohibited by another provision of law, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.
+In General.—Except to the extent expressly prohibited by another provision of law, the head of an agency may delegate, subject tohis direction, to any other officer or official of that agency, any power under this chapter.
 
 (b)
 
@@ -24,7 +24,7 @@ Approval of Terminations and Reductions of Joint Acquisition Programs.—(1) The
 
 &emsp;(B) A provision that authorizes the Under Secretary of Defense for Acquisition and Technology to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Aug. 28, 1958, Pub. L. 85–800, §11, 72 Stat. 967; Sept. 10, 1962, Pub. L. 87–653, §1(g), 76 Stat. 529; July 5, 1968, Pub. L. 90–378, §3, 82 Stat. 290; Dec. 1, 1981, Pub. L. 97–86, title IX, §§907(c), 909(f), 95 Stat. 1117, 1120; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2726, 98 Stat. 1194; Oct. 19, 1984, Pub. L. 98–525, title XII, §1214, 98 Stat. 2592; Oct. 30, 1984, Pub. L. 98–577, title V, §505, 98 Stat. 3087; Oct. 13, 1994, Pub. L. 103–355, title I, §1503(a)(1), 108 Stat. 3296.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 85–800, §11, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, §1(g), Sept. 10, 1962, 76 Stat. 529; Pub. L. 90–378, §3, July 5, 1968, 82 Stat. 290; Pub. L. 97–86, title IX, §§907(c), 909(f), Dec. 1, 1981, 95 Stat. 1117, 1120; Pub. L. 98–369, div. B, title VII, §2726, July 18, 1984, 98 Stat. 1194; Pub. L. 98–525, title XII, §1214, Oct. 19, 1984, 98 Stat. 2592; Pub. L. 98–577, title V, §505, Oct. 30, 1984, 98 Stat. 3087; Pub. L. 103–355, title I, §1503(a)(1), Oct. 13, 1994, 108 Stat. 3296.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,7 @@ Provisions similar to those in this section were contained in section 2308 of th
 
 #### Amendments
 
-1994—Pub. L. 103–355 substituted “Assignment and delegation of procurement functions and responsibilities” for “Delegation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject tohis direction, to any other officer or official of that agency, any power under this chapter.”
+1994—Pub. L. 103–355 substituted “Assignment and delegation of procurement functions and responsibilities” for “Delegation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.”
 
 1984—Pub. L. 98–577 struck out “(a)” before “Except as provided in” and struck out subsec. (b) which related to delegation of authority by heads of procuring activities of agencies of certain functions.
 

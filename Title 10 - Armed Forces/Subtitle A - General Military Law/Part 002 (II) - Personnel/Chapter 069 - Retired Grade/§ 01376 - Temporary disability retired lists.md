@@ -2,7 +2,7 @@
 
 The Secretary concerned shall maintain a temporary disability retired list containing the names of members of the armed forces under his jurisdiction placed thereon under sections 1202 and 1205 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Sept. 2, 1958, Pub. L. 85–861, §1(31), 72 Stat. 1451; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(k)(3), 108 Stat. 3006.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 105; Pub. L. 85–861, §1(31), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 103–337, div. A, title XVI, §1662(k)(3), Oct. 5, 1994, 108 Stat. 3006.)
 
 Historical and Revision Notes<br>1956
 

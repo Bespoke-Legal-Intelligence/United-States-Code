@@ -2,7 +2,7 @@
 
 For the purpose of this chapter, service as a nurse in the armed forces before April 16, 1947, is considered as commissioned service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Aug. 25, 1959, Pub. L. 86–197, §1(6), 73 Stat. 426; Sept. 30, 1966, Pub. L. 89–609, §1(15), 80 Stat. 853; Nov. 8, 1967, Pub. L. 90–130, §1(23)(A), 81 Stat. 380.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 394; Pub. L. 86–197, §1(6), Aug. 25, 1959, 73 Stat. 426; Pub. L. 89–609, §1(15), Sept. 30, 1966, 80 Stat. 853; Pub. L. 90–130, §1(23)(A), Nov. 8, 1967, 81 Stat. 380.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 Officers of the Corps of Engineers may be assigned or transferred to and from duties involving the civil functions of the Corps of Engineers only with the approval of the Secretary of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 201; Nov. 2, 1966, Pub. L. 89–718, §26, 80 Stat. 1119.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 201; Pub. L. 89–718, §26, Nov. 2, 1966, 80 Stat. 1119.)
 
 Historical and Revision Notes
 

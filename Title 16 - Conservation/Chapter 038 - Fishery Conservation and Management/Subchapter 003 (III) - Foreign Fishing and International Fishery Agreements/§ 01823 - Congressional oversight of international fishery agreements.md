@@ -82,6 +82,10 @@ Pub. L. 104–43, title V, §501, Nov. 3, 1995, 109 Stat. 391, provided that: �
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Governing International Fishery Agreement With Poland
+
+Pub. L. 105–384, title I, §101, Nov. 13, 1998, 112 Stat. 3451, provided that: “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Poland, as contained in the message to Congress from the President of the United States dated February 5, 1998, is approved as a governing international fishery agreement for the purposes of such Act \[16 U.S.C. 1801 et seq.\] and shall enter into force and effect with respect to the United States on the date of the enactment of this Act \[Nov. 13, 1998\].”
+
 #### Governing International Fishery Agreement With Republic of Estonia
 
 Pub. L. 102–587, title I, §1001, Nov. 4, 1992, 106 Stat. 5039, provided that the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Estonia, was approved by Congress as a governing international fishery agreement for purposes of this chapter and was to enter into force and effect with respect to the United States on Nov. 4, 1992.
@@ -98,7 +102,7 @@ Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L
 
 “(a)
 
-Prohibition.—Vessels and nationals of the United States are prohibited from conducting fishing operations in the Central Bering Sea and the CentralSea of Okhotsk, except where such fishing operations are conducted in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
+Prohibition.—Vessels and nationals of the United States are prohibited from conducting fishing operations in the Central Bering Sea and the Central Sea of Okhotsk, except where such fishing operations are conducted in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
 
 “(b)
 
@@ -116,7 +120,7 @@ Denial of Port Privileges.—The Secretary of the Treasury shall, after December
 
 “(b)
 
-Publication of List.—Not later than forty-five days after the date of enactment of this Act \[Nov. 2, 1992\], the Secretary of Commerce, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall publish in the Federal Register a list of nations whose nationals or vessels conduct fishing operations in the Central Bering Sea, except where such fishing operations are in accordance with an international fishery agreement to which the United States and the Russian Federation are parties. The Secretary shall publish as an addendum to the list the name of each vessel documented under the laws of each listed nation which conducts fishing operations in the Central Bering Sea. A revised list shall be published whenever the list is no longer accurate, except that a nation may not be removed from the list unless—
+Publication of List.—Not later than forty-five days after the date of enactment of this Act \[Nov. 2,1992\], the Secretary of Commerce, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall publish in the Federal Register a list of nations whose nationals or vessels conduct fishing operations in the Central Bering Sea, except where such fishing operations are in accordance with an international fishery agreement to which the United States and the Russian Federation are parties. The Secretary shall publish as an addendum to the list the name of each vessel documented under the laws of each listed nation which conducts fishing operations in the Central Bering Sea. A revised list shall be published whenever the list is no longer accurate, except that a nation may not be removed from the list unless—
 
 &emsp;“(1) the nationals and vessels of that nation have not conducted fishing operations in the Central Bering Sea for the previous ninety days and the nation has committed, through a bilateral agreement with the United States or in any other manner acceptable to the Secretary of Commerce, not to permit its nationals or vessels to resume such fishing operations; or
 
@@ -262,7 +266,7 @@ Pub. L. 98–498, title IV, §440, Oct. 19, 1984, 98 Stat. 2310, as amended by P
 
 &emsp;“(1) is approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\]; and
 
-&emsp;“(2) may enter into force with respect to the United States in accordance with the terms of Article XVI ofthe Agreement following the enactment of this title \[Oct. 19, 1984\].”
+&emsp;“(2) may enter into force with respect to the United States in accordance with the terms of Article XVI of the Agreement following the enactment of this title \[Oct. 19, 1984\].”
 
 #### Governing International Fishery Agreement With Japan
 
@@ -270,7 +274,7 @@ Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governi
 
 Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 
-Pub. L. 97–389, title IV, §401, Dec. 29, 1982, 96 Stat. 1954, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuant to this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
+Pub. L. 97–389, title IV, §401, Dec. 29, 1982, 96 Stat. 1954, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuantto this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
 
 #### Governing International Fishery Agreement With Spain
 
@@ -330,7 +334,7 @@ Pub. L. 95–6, §2, Feb. 21, 1977, 91 Stat. 15, as amended by Pub. L. 95–8, �
 
 #### Reciprocal Fisheries Agreement Between United States and Canada
 
-Pub. L. 95–6, §5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; amended Pub. L. 95–314, July 1, 1978, 92 Stat. 376; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan. 1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
+Pub. L. 95–6, §5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; amended Pub. L. 95–314, July 1, 1978, 92 Stat. 376; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan.1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
 
 #### Section Referred to in Other Sections
 

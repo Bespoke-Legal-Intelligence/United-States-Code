@@ -1,6 +1,6 @@
 ### §307. Office of the Comptroller of the Currency
 
-The Office of the Comptroller of the Currency, established under section 324 of the RevisedStatutes (12 U.S.C. 1), is an office in the Department of the Treasury.
+The Office of the Comptroller of the Currency, established under section 324 of the Revised Statutes (12 U.S.C. 1), is an office in the Department of the Treasury.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 880.)
 

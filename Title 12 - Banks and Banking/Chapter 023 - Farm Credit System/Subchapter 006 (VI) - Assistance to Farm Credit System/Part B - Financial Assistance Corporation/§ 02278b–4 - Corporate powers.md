@@ -8,7 +8,7 @@ The Financial Assistance Corporation shall have the power to—
 
 &emsp;(2) adopt, alter, and use a corporate seal, which shall be judicially noted;
 
-&emsp;(3) provide for such officers, employees, and agents, including joint employees with theFunding Corporation, as may be necessary, define their duties, and require surety bonds or make other provisions against losses occasioned by acts of such persons;
+&emsp;(3) provide for such officers, employees, and agents, including joint employees with the Funding Corporation, as may be necessary, define their duties, and require surety bonds or make other provisions against losses occasioned by acts of such persons;
 
 &emsp;(4) adopt a salary scale for officers and employees of the Financial Assistance Corporation, in accordance with the directives of the Board of Directors;
 

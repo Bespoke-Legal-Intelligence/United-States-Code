@@ -454,7 +454,7 @@ Credit of funds to reserve under section 2764(c).
 
 (a)
 
-Presidential control of exports and imports of defense articles and services, guidance of policy, etc.; designation of United States Munitions List; issuance of export licenses; condition for export; negotiations information.
+Presidential control of exports and imports of defense articles and services, guidance of policy, etc.; designation of United States Munitions List; issuance of export licenses; negotiations information.
 
 (b)
 
@@ -1024,7 +1024,7 @@ Prohibitions on assistance to countries involved in transfer or use of nuclear e
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to sections 2272, 2291, 2291e, 2291f, 2304, 2311, 2318, 2321h, 2321i, 2321j, 2321k, 2349a, 2349aa–2, 2364, 2370a, 2373, 2378–1, 2394–1, 2403, 2413, 2414, 2423, 2778a, 3402, 5603, 5605, 6003, 6041 of this title; title 10 sections 130, 2344, 2350b, 2350c; title 12 section 635; title 15 section 4605; title 18 section 2516; title 26 section 901; title 29 sections 1662d, 1662d–1; title 49 section 44908; title 50 section 415.
+This chapter is referred to sections 2272, 2291, 2291e, 2291f, 2304, 2311, 2318, 2321h, 2321i, 2321j, 2321k, 2349a, 2349aa–2, 2364, 2370a, 2373, 2378–1, 2394–1, 2403, 2413, 2414, 2423, 2778a, 3402, 5603, 5605, 6003, 6041, 6445, 6593, 6713 of this title; title 10 sections 130, 2344, 2350b, 2350c; title 12 section 635; title 15 section 4605; title 18 section 2516; title 26 section 901; title 29 sections 1662d, 1662d–1; title 49 section 44908; title 50 section 415.
 
 
 ---

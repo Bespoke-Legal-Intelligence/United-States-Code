@@ -12,3 +12,4 @@
 - [&sect; 04165 - Review and audit by Secretary](%C2%A7%2004165%20-%20Review%20and%20audit%20by%20Secretary.md)
 - [&sect; 04166 - GAO audits](%C2%A7%2004166%20-%20GAO%20audits.md)
 - [&sect; 04167 - Reports to Congress](%C2%A7%2004167%20-%20Reports%20to%20Congress.md)
+- [&sect; 04168 - Public availability of information](%C2%A7%2004168%20-%20Public%20availability%20of%20information.md)

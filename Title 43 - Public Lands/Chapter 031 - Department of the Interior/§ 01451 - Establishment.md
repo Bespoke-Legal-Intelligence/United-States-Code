@@ -20,7 +20,7 @@ Compensation of Secretary, see section 5312 of Title 5, Government Organization 
 
 #### Order of Succession
 
-For order of succession in event of vacancy in office of Secretary, or during his absence or disability, see Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of vacancy in office of Secretary, or during his absence or disability, see Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 9432
 
@@ -36,7 +36,7 @@ Ex. Ord. No. 10156, eff. Aug. 26, 1950, 15 F.R. 5789, which related to designati
 
 #### Executive Order No. 10753
 
-Ex. Ord. No. 10753, eff. Feb. 15, 1958, 23 F.R. 1107, which provided for succession to office of Secretary of the Interior, was superseded by Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 10753, eff. Feb. 15, 1958, 23 F.R. 1107, which provided for succession to office of Secretary of the Interior, was superseded by Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1950</b>
 

@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-(1) The Secretary, in consultation with the Commission and, after affording an opportunity for consultation and comment by representatives of the State regulatory commissions, gas utilities, and gas consumers, shall study and report to Congress on gas utility rate design within 18 months after November 9, 1978. Such study shall address the effect (both separately and in combination) of the following factors upon the items listed in paragraph (2): incremental pricing; marginal cost pricing; end user gas consumption taxes; wellhead natural gas pricing policies; demand-commodity rate design; declining block rates; interruptible service; seasonal rate differentials; and end user rate schedules.
+(1) The Secretary, in consultation with the Commission and, after affording an opportunity for consultation and comment by representatives of the State regulatory commissions, gas utilities, and gas consumers, shall study and report to Congress on gas utility rate design within 18 months after November 9, 1978. Such study shall address the effect (both separately and incombination) of the following factors upon the items listed in paragraph (2): incremental pricing; marginal cost pricing; end user gas consumption taxes; wellhead natural gas pricing policies; demand-commodity rate design; declining block rates; interruptible service; seasonal rate differentials; and end user rate schedules.
 
 (2) The items referred to in paragraph (1) are as follows:
 

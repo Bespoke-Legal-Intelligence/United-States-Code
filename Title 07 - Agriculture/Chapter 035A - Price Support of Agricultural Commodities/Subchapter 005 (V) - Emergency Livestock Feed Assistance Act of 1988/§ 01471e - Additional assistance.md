@@ -28,7 +28,7 @@ Special assistance under this section includes—
 
 The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) of this section for livestock emergencies in 1988 and 1989.
 
-(Oct. 31, 1949, ch. 792, title VI, §607, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 930; amended Aug. 14, 1989, Pub. L. 101–82, title I, §142, title II, §203, 103 Stat. 579, 581.)
+(Oct. 31, 1949, ch. 792, title VI, §607, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 930; amended Pub. L. 101–82, title I, §142, title II, §203, Aug. 14, 1989, 103 Stat. 579, 581.)
 
 #### Amendments
 

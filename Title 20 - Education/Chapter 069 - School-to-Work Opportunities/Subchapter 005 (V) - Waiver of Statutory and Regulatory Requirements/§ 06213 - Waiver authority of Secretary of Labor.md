@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, the Secretary of Labor may waive any requirement under any provision of the Job Training Partnership Act (29 U.S.C. 1501 et seq.), or of any regulation issued under such provision, for a State that requests such a waiver and has an approved State plan—
+&emsp;Except as provided in subsection (b) of this section, the Secretary of Labor may waive any requirement under any provision of the Job Training Partnership Act (29 U.S.C. 1501 et seq.),<sup>1</sup> or of any regulation issued under such provision, for a State that requests such a waiver and has an approved State plan—
 
 &emsp;&emsp;(A) if, and only to the extent that, the Secretary of Labor determines that such requirement impedes the ability of the State or a local partnership to carry out the purposes of this chapter;
 
@@ -46,7 +46,7 @@
 
 #### (b) Waivers not authorized
 
-The Secretary of Labor may not waive any requirement under any provision of the Job Training Partnership Act (29 U.S.C. 1501 et seq.), or of any regulation issued under such provision, relating to—
+The Secretary of Labor may not waive any requirement under any provision of the Job Training Partnership Act (29 U.S.C. 1501 et seq.),<sup>1</sup> or of any regulation issued under such provision, relating to—
 
 &emsp;(1) the basic purposes or goals of such provision;
 
@@ -68,9 +68,11 @@ The Secretary of Labor shall periodically review the performance of any State or
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (a)(1) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsecs. (a)(1) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6211, 6214, 6215 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

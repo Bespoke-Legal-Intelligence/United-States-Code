@@ -52,7 +52,7 @@ The Administrator is authorized to utilize the services and facilities of any ag
 
 #### (h) Coordination of functions of Administrator and Secretary of Health and Human Services
 
-All functions of the Administrator under this subchapter shall be coordinated as appropriate with the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
+All functions of the Administrator under this subchapter shall be coordinated as appropriatewith the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
 
 #### (i) Annual juvenile delinquency development statements of other agencies; procedure; contents; review by Administrator
 
@@ -86,13 +86,13 @@ Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (
 
 “(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by the Administrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
 
-“(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programswhich are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
+“(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
 
 Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
 
 Subsecs. (f) to (h). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
-Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (<i>l</i>) as (i), struck out “which meets any criterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
+Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (<i>l</i>) as (i), struck out “which meets anycriterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (j) to (<i>l</i>) as (g) to (i), respectively.
 

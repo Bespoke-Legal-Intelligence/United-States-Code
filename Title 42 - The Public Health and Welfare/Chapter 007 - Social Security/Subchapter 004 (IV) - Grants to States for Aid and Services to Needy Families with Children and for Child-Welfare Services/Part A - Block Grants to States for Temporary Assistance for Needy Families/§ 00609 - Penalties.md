@@ -56,11 +56,11 @@ Subject to this section:
 
 #### (5) Failure to comply with paternity establishment and child support enforcement requirements under part D
 
-&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that the State agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D of this subchapter against recipients of assistance under the State program who fail to cooperate in establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the State under section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
+&emsp;Notwithstanding any other provision of this chapter, if the Secretary determines that the State agency that administers a program funded under this part does not enforce the penalties requested by the agency administering part D of this subchapter against recipients of assistance under the State program who fail to cooperate in establishing paternity or in establishing, modifying, or enforcing a child support order in accordance with such part and who do not qualify for any good cause or other exception established by the Stateunder section 654(29) of this title, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year (without regard to this section) by not more than 5 percent.
 
 #### (6) Failure to timely repay a Federal Loan Fund for State Welfare Programs
 
-&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from theFederal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on the loan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section) by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
+&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from the Federal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on the loan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section) by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
 
 #### (7) Failure of any State to maintain certain level of historic effort
 
@@ -118,9 +118,9 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the State family assistance grant, plus the total amount required to be paid to the State under former section 603 of this title for fiscal year 1994 with respect to amounts expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994); bears to
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total amount required to be paid to the State under former section603 of this title (as in effect during fiscal year 1994) for fiscal year 1994.
 
-&emsp;&emsp;&nbsp;Such term does not include any expenditures under the State plan approved under part A of this subchapter (as so in effect) on behalf of individuals covered by a tribalfamily assistance plan approved under section 612 of this title, as determined by the Secretary.
+&emsp;&emsp;&nbsp;Such term does not include any expenditures under the State plan approved under part A of this subchapter (as so in effect) on behalf of individuals covered by a tribal family assistance plan approved under section 612 of this title, as determined by the Secretary.
 
 #### (iv) Expenditures by the State
 
@@ -150,7 +150,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;(II) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C)(i) of this title that the State data submitted pursuant to section 654(15)(B) of this title is incomplete or unreliable; or
 
-&emsp;&emsp;&emsp;(III) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C) of this title that a State failed to substantially comply with 1 or more of the requirements of part D of this subchapter; and
+&emsp;&emsp;&emsp;(III) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C) of this title that a State failed to substantially comply with 1 or more of the requirements of part D of this subchapter (other than section 654(24) of this title); and
 
 &emsp;&emsp;&emsp;(ii) that, with respect to the succeeding fiscal year—
 
@@ -238,11 +238,11 @@ Subject to this section:
 
 #### (B) 60-day period to propose a corrective compliance plan
 
-&emsp;&emsp;During the 60-day period that begins on the date the State receives a notice provided under subparagraph (A) with respect to a violation, the State may submit to the Federal Government a corrective compliance plan to correct or discontinue, as appropriate, the violation.
+&emsp;&emsp;During the 60-day period that begins on the date the State receives a notice providedunder subparagraph (A) with respect to a violation, the State may submit to the Federal Government a corrective compliance plan to correct or discontinue, as appropriate, the violation.
 
 #### (C) Consultation about modifications
 
-&emsp;&emsp;During the 60-day period that begins with the date the Secretary receives a correctivecompliance plan submitted by a State in accordance with subparagraph (B), the Secretary may consult with the State on modifications to the plan.
+&emsp;&emsp;During the 60-day period that begins with the date the Secretary receives a corrective compliance plan submitted by a State in accordance with subparagraph (B), the Secretary may consult with the State on modifications to the plan.
 
 #### (D) Acceptance of plan
 
@@ -270,7 +270,7 @@ Subject to this section:
 
 &emsp;To the extent that paragraph (1) of this subsection prevents the Secretary from recovering during a fiscal year the full amount of penalties imposed on a State under subsection (a) of this section for a prior fiscal year, the Secretary shall apply any remaining amount of such penalties to the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §409, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2142; amended Aug. 5, 1997, Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), 111 Stat. 589, 592, 594, 613, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647.)
 
 #### References in Text
 
@@ -291,6 +291,8 @@ A prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added Nov. 
 Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat. 397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related to community work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
 
 #### Amendments
+
+1998—Subsec. (a)(8)(A)(i)(III). Pub. L. 105–200 inserted “(other than section 654(24) of this title)” before semicolon.
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -370,7 +372,7 @@ Section effective July 1, 1997, with delayed effective date for subsec. (a)(2)�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 603, 606, 610, 612, 652, 1308, 9858i of this title.
+This section is referred to in sections 603, 606, 610, 612, 652, 1308, 9858i of this title; title 7 section 2025.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -245,7 +245,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §407, as added Aug. 22, 1996, Pub. L. 104–193, title I, §103(a)(1), 110 Stat. 2129; amended Aug. 5, 1997, Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), 111 Stat. 594, 609, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620.)
 
 #### Prior Provisions
 
@@ -293,5 +293,5 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 602, 609, 611, 612, 613, 615, 666, 672, 673, 1315, 1396d, 1396u–1 of this title; title 26 section 32.
+This section is referred to in sections 602, 604, 609, 611, 612, 613, 615, 666, 672, 673, 1315, 1396d, 1396u–1, 1437j of this title; title 26 section 32.
 

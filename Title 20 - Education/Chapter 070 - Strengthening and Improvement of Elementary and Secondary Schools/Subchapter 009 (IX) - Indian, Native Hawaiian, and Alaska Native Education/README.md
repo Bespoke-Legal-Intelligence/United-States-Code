@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1203a of this title; title 25 section 458e.
+This subchapter is referred to in title 25 section 458e.
 
 
 ---

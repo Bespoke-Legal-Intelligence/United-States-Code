@@ -34,7 +34,7 @@ No person shall falsely label or mark any package or container of any biological
 
 #### (c) Inspection of establishment for propagation and preparation
 
-Any officer, agent, or employee of the Department of Health and Human Services, authorizedby the Secretary for the purpose, may during all reasonable hours enter and inspect any establishment for the propagation or manufacture and preparation of any biological product.
+Any officer, agent, or employee of the Department of Health and Human Services, authorized by the Secretary for the purpose, may during all reasonable hours enter and inspect any establishment for the propagation or manufacture and preparation of any biological product.
 
 #### (d) Recall of product presenting imminent hazard; violations
 
@@ -74,7 +74,7 @@ In this section, the term “biological product” means a virus, therapeutic se
 
 The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] applies to a biological product subject to regulation under this section, except that a product for which a license has been approved under subsection (a) shall not be required to have an approved application under section 505 of such Act \[21 U.S.C. 355\].
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Sept. 2, 1958, Pub. L. 85–881, §2, 72 Stat. 1704; Oct. 30, 1970, Pub. L. 91–515, title II, §291, 84 Stat. 1308; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Nov. 14, 1986, Pub. L. 99–660, title I, §105(a), title III, §315, 100 Stat. 3751, 3783; June 16, 1992, Pub. L. 102–300, §6(b)(1), 106 Stat. 240; Apr. 26, 1996, Pub. L. 104–134, title II, §§2102(d)(2), 2104, 110 Stat. 1321–319, 1321–320; Nov. 21, 1997, Pub. L. 105–115, title I, §123(a)–(d), (g), 111 Stat. 2323, 2324.)
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319,1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(3) the transfer and possession of potentially hazardous biological agents should be regulated to protect public health and safety; and
 
-&emsp;“(4) efforts to protect the public from exposure to such agents should ensure that individuals and groups with legitimate objectives continue to have access to such agents for clinical and research purposes.
+&emsp;“(4) efforts to protect the public from exposure to such agents should ensure that individuals andgroups with legitimate objectives continue to have access to such agents for clinical and research purposes.
 
 “(b)
 

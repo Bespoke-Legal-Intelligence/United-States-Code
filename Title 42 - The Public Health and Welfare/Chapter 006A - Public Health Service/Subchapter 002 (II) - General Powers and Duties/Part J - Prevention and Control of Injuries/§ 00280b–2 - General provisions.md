@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 Not later than February 1 of 1995 and of every second year thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
 
-(July 1, 1944, ch. 373, title III, §394, formerly §393, as added Nov. 10, 1986, Pub. L. 99–649, §3, 100 Stat. 3634; amended Nov. 15, 1990, Pub. L. 101–558, §2(c), 104 Stat. 2772; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(5), 106 Stat. 3504; renumbered §394 and amended Dec. 14, 1993, Pub. L. 103–183, title II, §§201(1), 202, 107 Stat. 2231, 2232.)
+(July 1, 1944, ch. 373, title III, §394, formerly §393, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(c), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §312(d)(5), Oct. 27, 1992, 106 Stat. 3504; renumbered §394 and amended Pub. L. 103–183, title II, §§201(1), 202, Dec. 14, 1993, 107 Stat. 2231, 2232.)
 
 #### Prior Provisions
 

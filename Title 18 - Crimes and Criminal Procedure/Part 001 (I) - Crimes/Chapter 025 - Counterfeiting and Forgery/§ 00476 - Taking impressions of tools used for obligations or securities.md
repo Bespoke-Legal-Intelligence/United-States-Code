@@ -2,7 +2,7 @@
 
 Whoever, without authority from the United States, takes, procures, or makes an impression, stamp, or imprint of, from or by the use of any tool, implement, instrument, or thing used or fitted or intended to be used in printing, stamping, or impressing, or in making other tools, implements, instruments, or things to be used or fitted or intended to be used in printing, stamping, or impressing any obligation or other security of the United States, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

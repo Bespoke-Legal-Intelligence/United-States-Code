@@ -48,5 +48,5 @@ Another section 301 of Pub. L. 92–522 was renumbered section 401 and is classi
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin ConservationProgram has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 

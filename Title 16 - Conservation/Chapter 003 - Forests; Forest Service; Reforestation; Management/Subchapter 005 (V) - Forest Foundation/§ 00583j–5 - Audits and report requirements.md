@@ -2,7 +2,7 @@
 
 #### (a) Audits
 
-For purposes of the Act entitled “An Act for audit of accounts of private corporations established under Federal law,” approved August 30, 1964 (36 U.S.C. 1101 through 1103; Public Law 88–504) the Foundation shall be treated as a private corporation established under Federal law.
+For purposes of section 10101 of title 36 the Foundation shall be treated as a corporation in part B of subtitle II of title 36.
 
 #### (b) Annual reports
 
@@ -10,9 +10,9 @@ The Foundation shall,<sup>1</sup> transmit each year to Congress a report of its
 
 (Pub. L. 101–593, title IV, §407, Nov. 16, 1990, 104 Stat. 2973.)
 
-#### References in Text
+#### Codification
 
-The Act entitled “An Act for audit of accounts of private corporations established under Federal law,” approved August 30, 1964, referred to in subsec. (a), is Pub. L. 88–504, Aug. 30, 1964, 78 Stat. 635, as amended, which is classified principally to chapter 42 (§1101 et seq.) of Title 36, Patriotic Societies and Observances. For complete classification of this Act to the Code, see Tables.
+In subsec. (a), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law,’ approved August 30, 1964 (36 U.S.C. 1101 through 1103; Public Law 88–504)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -14,7 +14,7 @@ The board is authorized—
 
 (f) The board is authorized to make alterations, modifications, or improvements in existing plants and facilities, and to construct new plants.
 
-(g) In the event it is not used for the fixation of nitrogen for agricultural purposes or leased, then the board shall maintain in stand-by condition nitrate plant numbered 2, or its equivalent, for the fixation of atmospheric nitrogen, for the production of explosives in the event of war or a national emergency, until the Congress shall by joint resolution release the board from this obligation, and if any part thereof be used by the board for the manufacture of phosphoric acid or potash, the balance of nitrate plant numbered 2 shall be kept in stand-by condition.
+(g) In the event it is not used for the fixation of nitrogen for agricultural purposes or leased, then the board shall maintain in stand-by condition nitrate plant numbered 2, or its equivalent, for the fixation of atmospheric nitrogen, for the production of explosives in the event of war or a national emergency, until the Congress shall byjoint resolution release the board from this obligation, and if any part thereof be used by the board for the manufacture of phosphoric acid or potash, the balance of nitrate plant numbered 2 shall be kept in stand-by condition.
 
 (h) To establish, maintain, and operate laboratories and experimental plants, and to undertake experiments for the purpose of enabling the Corporation to furnish nitrogen products for military purposes, and nitrogen and other fertilizer products for agricultural purposes in the most economical manner and at the highest standard of efficiency.
 
@@ -26,7 +26,7 @@ The board is authorized—
 
 (<i>l</i>) To produce, distribute, and sell electric power, as herein particularly specified.
 
-(May 18, 1933, ch. 32, §5, 48 Stat. 61; Aug. 31, 1935, ch. 836, §4, 49 Stat. 1076; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 3, 1952, ch. 570, §2(a), 66 Stat. 334; Aug. 6, 1959, Pub. L. 86–137, §3, 73 Stat. 285; Sept. 14, 1976, Pub. L. 94–412, title V, §501(d), 90 Stat. 1258.)
+(May 18, 1933, ch. 32, §5, 48 Stat. 61; Aug. 31, 1935, ch. 836, §4, 49 Stat. 1076; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 3, 1952, ch. 570, §2(a), 66 Stat. 334; Pub. L. 86–137, §3, Aug. 6, 1959, 73 Stat. 285; Pub. L. 94–412, title V, §501(d), Sept. 14, 1976, 90 Stat. 1258.)
 
 #### Codification
 

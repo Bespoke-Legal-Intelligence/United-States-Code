@@ -38,7 +38,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;&emsp;(D) policy decisions regarding continued employment and promotion of the officials referred to in subparagraph (B);
 
-&emsp;(9) suspend for any period of time, or terminate, any certification granted to an institution under section 2278a–4 of this title if the Farm Credit Administration notifies the Assistance Board that the institution has substantially deviated from the institution's business plan or has failed to comply with a term or condition governing the use of any financial assistance provided to the institution under this subchapter; and
+&emsp;(9) suspend for any period of time, or terminate, any certification granted to an institution under section 2278a–4 of this title if the Farm Credit Administration notifies the Assistance Board that the institution has substantially deviated from the institution's business plan or has failed to comply with a termor condition governing the use of any financial assistance provided to the institution under this subchapter; and
 
 &emsp;(10) take such other action as the Assistance Board determines may be necessary to establish prudent operating practices at the institution and to return the institution to a sound financial condition.
 

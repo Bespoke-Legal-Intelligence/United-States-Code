@@ -34,7 +34,7 @@ Subsec. (a)(1). Pub. L. 102–354, §3(a)(3), substituted “section 564” for 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 25 sections 458gg, 4116; title 42 section 1437g.
+This section is referred to in title 25 sections 458gg, 4116; title 42 sections 1395w–26, 1437g.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “negotiated”.</i>
 

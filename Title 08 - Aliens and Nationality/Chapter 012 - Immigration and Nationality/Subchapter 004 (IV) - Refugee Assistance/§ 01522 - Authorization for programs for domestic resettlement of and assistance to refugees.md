@@ -12,7 +12,7 @@
 
 &emsp;(iii) local voluntary agency activities should be conducted in close cooperation and advance consultation with State and local governments.
 
-(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerningthe sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
+(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
 
 (B) The Director shall develop and implement, in consultation with representatives of voluntary agencies and State and local governments, policies and strategies for the placement and resettlement of refugees within the United States.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(v) for the identification of refugees who at the time of resettlement in the State are determined to have medical conditions requiring, or medical histories indicating a need for, treatment or observation and such monitoring of such treatment or observation as may be necessary;
 
-&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and whichpromote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
+&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and which promote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
 
 &emsp;(C) submit to the Director, within a reasonable period of time after the end of each fiscal year, a report on the uses of funds provided under this subchapter which the State is responsible for administering.
 
@@ -106,7 +106,7 @@
 
 (4) The Secretary shall—
 
-&emsp;(A) assure that an adequate number of trained staff are available at the location at which the refugees enter the United States to assure that all necessary medical records are available and in proper order;
+&emsp;(A) assure that an adequate number of trained staff are available at the location atwhich the refugees enter the United States to assure that all necessary medical records are available and in proper order;
 
 &emsp;(B) provide for the identification of refugees who have been determined to have medical conditions affecting the public health and requiring treatment;
 
@@ -168,7 +168,7 @@
 
 &emsp;(i) to assist refugees in obtaining the skills which are necessary for economic self-sufficiency, including projects for job training, employment services, day care, professional refresher training, and other recertification services;
 
-&emsp;(ii) to provide training in English where necessary (regardless of whether the refugees are employed or receiving cash or other assistance); and
+&emsp;(ii) to provide training in English where necessary (regardless of whether the refugees areemployed or receiving cash or other assistance); and
 
 &emsp;(iii) to provide where specific needs have been shown and recognized by the Director, health (including mental health) services, social services, educational and other services.
 
@@ -182,7 +182,7 @@
 
 &emsp;(i) primarily for the purpose of facilitating refugee employment and achievement of self-sufficiency,
 
-&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures thatnot less than 95 percent of the amount of the grant award is made available to the county or other local entity.
+&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures that not less than 95 percent of the amount of the grant award is made available to the county or other local entity.
 
 #### (d) Assistance for refugee children
 
@@ -266,17 +266,17 @@
 
 &emsp;(B) such other information as the Attorney General may require.
 
-(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2); except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each of such payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
+(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2);except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each of such payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
 
 (4) The authority of the Attorney General to pay compensation under this subsection shall be effective for any fiscal year only to the extent and in such amounts as may be provided in advance in appropriation Acts.
 
 (5) It shall be the policy of the United States Government that the President, in consultation with the Attorney General and all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2), shall place top priority on seeking the expeditious removal from this country and the return to Cuba of Cuban nationals described in paragraph (1) by any reasonable and responsible means, and to this end the Attorney General may use the funds authorized to carry out this subsection to conduct such policy.
 
-(June 27, 1952, ch. 477, title IV, ch. 2, §412, as added Mar. 17, 1980, Pub. L. 96–212, title III, §311(a)(2), 94 Stat. 111; amended Oct. 25, 1982, Pub. L. 97–363, §§3(a), 4–6, 96 Stat. 1734–1736; Nov. 22, 1983, Pub. L. 98–164, title X, §1011(b), 97 Stat. 1061; Oct. 12, 1984, Pub. L. 98–473, title I, §101(d), 98 Stat. 1876, 1877; Nov. 6, 1986, Pub. L. 99–605, §§3–5(c), 6(a), (b), (d), 8, 9(a), (b), 10, 12, 13, 100 Stat. 3449–3451, 3453–3455; Oct. 24, 1988, Pub. L. 100–525, §6(b), 102 Stat. 2616; Apr. 30, 1994, Pub. L. 103–236, title I, §162(n)(2), 108 Stat. 409; Oct. 25, 1994, Pub. L. 103–416, title II, §219(x), 108 Stat. 4318; Aug. 22, 1996, Pub. L. 104–193, title I, §110(s)(3), 110 Stat. 2175; Sept. 30, 1996, Pub. L. 104–208, div. C, title VI, §671(e)(7), 110 Stat. 3009–723.)
+(June 27, 1952, ch. 477, title IV, ch. 2, §412, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 111; amended Pub. L. 97–363, §§3(a), 4–6, Oct. 25, 1982, 96 Stat. 1734–1736; Pub. L. 98–164, title X, §1011(b), Nov. 22, 1983, 97 Stat. 1061; Pub. L. 98–473, title I, §101(d), Oct. 12, 1984, 98 Stat. 1876, 1877; Pub. L. 99–605, §§3–5(c), 6(a), (b), (d), 8, 9(a), (b), 10, 12, 13, Nov. 6, 1986, 100 Stat. 3449–3451, 3453–3455; Pub. L. 100–525, §6(b), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 103–236, title I, §162(n)(2), Apr. 30, 1994, 108 Stat. 409; Pub. L. 103–416, title II, §219(x), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–193, title I, §110(s)(3), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title VI, §671(e)(7), Sept. 30, 1996, 110 Stat. 3009–723.)
 
 #### References in Text
 
-The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, priorto its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
+The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
 
 The Social Security Act, referred to in subsecs. (d)(2)(B)(i), (e)(4), (5), (7)(B), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title IV of the Social Security Act are classified generally to part A (§601 et seq.) and part B (§620 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI and XIX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -368,7 +368,7 @@ Subsec. (e)(6). Pub. L. 97–363, §6(c), added par. (6).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office ofAssistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendments
 
@@ -428,7 +428,7 @@ Section 313 of part B of title III of Pub. L. 96–212 provided that:
 
 > &emsp;of the non-Federal costs or providing cash and medical assistance (other than assistance described in paragraph (2)) to such refugees, and
 
-&emsp;“(2) to provide reimbursement in any fiscal year for 100 percent of the non-Federal costs associated with such Cuban refugees with respect to whom supplemental security income payments were being paid as of September 30, 1978, under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
+&emsp;“(2) to provide reimbursement in any fiscal year for 100 percent of the non-Federal costs associated withsuch Cuban refugees with respect to whom supplemental security income payments were being paid as of September 30, 1978, under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
 
 “(d) the requirements of section 412(a)(6)(A) of the Immigration and Nationality Act \[subsec. (a)(6)(A) of this section\] shall apply to assistance furnished under chapter 2 of title IV of such Act \[this subchapter\] after October 1, 1980, or such earlier date as the Director of the Office of Refugee Resettlement may establish.”
 
@@ -464,7 +464,7 @@ Pub. L. 96–533, title VII, §716, Dec. 16, 1980, 94 Stat. 3162, provided that:
 
 #### Refugee Education Assistance Act of 1980
 
-Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820; Pub. L. 97–35, title V, §§543(a)(1), (b)–(d), 544–547, Aug. 13, 1981, 95 Stat. 459–463, eff. Oct. 1, 1981; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–382, title III, §391(a), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–208, div. C, title III, §308(d)(4)(T), Sept. 30, 1996, 110 Stat. 3009–619, provided: “That this Act may be cited as the ‘Refugee Education Assistance Act of 1980’.
+Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820; Pub. L. 97–35, title V, §§543(a)(1), (b)–(d), 544–547, Aug. 13, 1981, 95 Stat. 459–463, eff. Oct. 1, 1981; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–382, title III, §391(a), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–208, div. C, title III, §308(d)(4)(T), Sept. 30, 1996, 110 Stat. 3009–619; Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(d)(5), (f)(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, provided: “That this Act may be cited as the ‘Refugee Education Assistance Act of 1980’.
 
 #### “Title I—General Provisions
 
@@ -496,7 +496,7 @@ I74“definitions
 
 “(b)(1) If the sums appropriated for any fiscal year to make payments to States under this Act are not sufficient to pay in full the sum of the amounts which State educational agencies are entitled to receive under titles II through IV for such year, the allocations to State educational agencies under each of such titles shall be ratably reduced by the same percentage to the extent necessary to bring the aggregate of such allocations within the limits of the amounts so appropriated.
 
-“(2) In the event that funds become available for making payments under this Act for any period after allocations have been made under paragraph (1) of this subsection for such period, the amounts reduced under such paragraph shall be increased on the same basis as they were reduced.
+“(2) In the event that funds become available for making payments under this Act for any period afterallocations have been made under paragraph (1) of this subsection for such period, the amounts reduced under such paragraph shall be increased on the same basis as they were reduced.
 
 #### “treatment of certain jurisdictions
 
@@ -518,7 +518,7 @@ I74“definitions
 
 #### “withholding
 
-“Sec. 105. Whenever the Secretary, after reasonable notice and opportunity for a hearing to any State educational agency, finds that there is a failure to meet the requirements of any title of this Act, the Secretary shall notify that agency that further payments will notbe made to the agency under such title, or in the discretion of the Secretary, that the State educational agency shall not make further payments under such title to specified local education agencies or other entities (in the case of funds under title IV) whose actions cause or are involved in such failure until the Secretary is satisfied that there is no longer any such failure to comply. Until the Secretary is so satisfied, no further payments shall be made to the State educational agency under such title, or payments by the State educational agency under such title shall be limited to local educational agencies or other entities (in the case of funds under title IV) whose actions did not cause or were not involved in the failure, as the case may be.
+“Sec. 105. Whenever the Secretary, after reasonable notice and opportunity for a hearing to any State educational agency, finds that there is a failure to meet the requirements of any title of this Act, the Secretary shall notify that agency that further payments will not be made to the agency under such title, or in the discretion of the Secretary, that the State educational agency shall not make further payments under such title to specified local education agencies or other entities (in the case of funds under title IV) whose actions cause or are involved in such failure until the Secretary is satisfied that there is no longer any such failure to comply. Until the Secretary is so satisfied, no further payments shall be made to the State educational agency under such title, or payments by the State educational agency under such title shall be limited to local educational agencies or other entities (in the case of funds under title IV) whose actions did not cause or were not involved in the failure, as the case may be.
 
 #### “consultation with other agencies
 
@@ -596,7 +596,7 @@ I74“state entitlements
 
 “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(3) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
-“(d) Whenever the Secretary determines that any amount of a payment made to a State under this title for a fiscal year will not be used by such State for carrying out the purpose for which the payment was made, the Secretary shall make such amount available for carrying out such purpose to one or more other States to the extent the Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this title, be regarded as part of such State's payment (as determined under subsection (b)) for such year, but shall remain available until the end of the succeeding fiscal year.
+“(d) Whenever the Secretary determines that any amount of a payment made to a State under this title for a fiscal year will not be used by such State for carrying out the purpose for which the payment was made,the Secretary shall make such amount available for carrying out such purpose to one or more other States to the extent the Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this title, be regarded as part of such State's payment (as determined under subsection (b)) for such year, but shall remain available until the end of the succeeding fiscal year.
 
 #### “uses of funds
 
@@ -620,7 +620,7 @@ I74“state entitlements
 
 “Sec. 303. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
-&emsp;“(1) provide that the educational programs, services and activities for which payments under this title aremade will be administered by or under the supervision of the agency;
+&emsp;“(1) provide that the educational programs, services and activities for which payments under this title are made will be administered by or under the supervision of the agency;
 
 &emsp;“(2) provide assurances that payments under this title will be used for purposes set forth in section 302;
 
@@ -678,9 +678,9 @@ I74“state entitlements
 
 &emsp;“(3) educational support services which meet the need for such adult refugees, including guidance and counseling with regard to educational, career, and employment opportunities; and
 
-&emsp;“(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Comprehensive Employment and Training Act of 1973 \[29 U.S.C. 801 et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Vocational and Applied Technology Education Act\] \[20 U.S.C. 2301 et seq.\].
+&emsp;“(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Vocational and Technical Education Act of 1998\] \[20 U.S.C. 2301 et seq.\].
 
-“(b) The State educational agency shall review applications for grants and contracts in a manner consistent with the purposes of paragraphs (12) and (13) of section 306(b) of the Adult Education Act \[20 U.S.C. 1205(b)(12) and (13)\].
+“\[(b) Repealed. Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079.\]
 
 “(c) The State educational agency shall provide for the use of funds made available under this title in such manner that the maximum number of eligible participants aged 16 or older residing within the State receive education under the programs of instruction described under subsection (a).
 
@@ -710,7 +710,7 @@ I74“authorities for other programs and activities
 
 “(c)(1)(A) Any Federal agency may, under the direction of the President, provide assistance (in the form of materials, supplies, equipment, work, services, facilities, or otherwise) for the processing, care, maintenance, security, transportation, and initial reception and placement in the United States of Cuban and Haitian entrants. Such assistance shall be provided on such terms and conditions as the President may determine.
 
-“(B) Funds available to carry out this subsection shall be used to reimburse State and local governments for expenses which they incur for the purposes described in subparagraph (A). Such funds may be used to reimburse Federal agencies for assistance which they provide under subparagraph (A).
+“(B) Funds available to carry out this subsection shall be used to reimburse State and local governmentsfor expenses which they incur for the purposes described in subparagraph (A). Such funds may be used to reimburse Federal agencies for assistance which they provide under subparagraph (A).
 
 “(2) The President may direct the head of any Federal agency to detail personnel of that agency, on either a reimbursable or nonreimbursable basis, for temporary duty with any Federal agency directed to provide supervision and management for purposes of this subsection.
 
@@ -738,9 +738,11 @@ I74“authorities for other programs and activities
 
 &emsp;&emsp;“(B) with respect to whom a final, nonappealable, and legally enforceable order of removal has not been entered.”
 
+\[Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(f)(5), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, which provided that, effective July 1, 2000, section 402(a)(4) of Pub. L. 96–422, set out above, is amended by striking “the Comprehensive Employment and Training Act of 1973” and inserting “the Job Training Partnership Act or”, probably intended to strike “the Job Training Partnership Act or” before “title I of”.\]
+
 \[Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820, provided in part that the repeal of section 501(c)(5) of Pub. L. 96–422, set out above, is effective Oct. 11, 1980.\]
 
-\[Pub. L. 97–35, title V, subtitle C, §547, Aug. 13, 1981, 95 Stat. 463, provided that: “This subtitle \[repealing sections 239a and 1211b of Title 20, Education, amending the Refugee Assistance Act of 1980, set out above, andrepealing provisions set out as a note under section 1211b of Title 20\] shall take effect on October 1, 1981.”\]
+\[Pub. L. 97–35, title V, subtitle C, §547, Aug. 13, 1981, 95 Stat. 463, provided that: “This subtitle \[repealing sections 239a and 1211b of Title 20, Education, amending the Refugee Assistance Act of 1980, set out above, and repealing provisions set out as a note under section 1211b of Title 20\] shall take effect on October 1, 1981.”\]
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

@@ -50,6 +50,10 @@
 
 (Pub. L. 97–300, §3, Oct. 13, 1982, 96 Stat. 1324; Pub. L. 100–418, title VI, §6303, Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, §714(d), Nov. 7, 1988, 102 Stat. 3256; Pub. L. 101–549, title XI, §1101(b)(2), Nov. 15, 1990, 104 Stat. 2712; Pub. L. 102–367, title I, §102(a), Sept. 7, 1992, 106 Stat. 1023.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–367, §102(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:

@@ -1,0 +1,40 @@
+### §50303. Membership
+
+(a)
+
+Eligibility.—An individual is eligible for membership in the corporation if the individual—
+
+&emsp;(1)(A) was wounded, gassed, injured, or disabled in the line of duty during time of war while in the service of the military or naval forces of the United States; and
+
+&emsp;(B) was honorably discharged or separated from that service or is still in active service in the Armed Forces of the United States; or
+
+&emsp;(2)(A) was disabled while serving with any of the Armed Forces of a country associated with the United States as an ally during any of its war periods;
+
+&emsp;(B) is a citizen of the United States; and
+
+&emsp;(C) was honorably discharged.
+
+(b)
+
+No Honorary Memberships.—An honorary membership may not be granted.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1344.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+50303
+
+36:90e.
+
+June 17, 1932, ch. 268, §5, 47 Stat. 321; July 15, 1942, ch. 505, §3, 56 Stat. 660.
+
+In subsection (a), before clause (1), the words “An individual” are substituted for “Any man or woman” and “Others” for consistency in the revised title and to eliminate unnecessary words. In clause (1), the words “either” and “of America” are omitted as unnecessary. In clause (2)(B), the words “citizen of the United States” are substituted for “American citizens” for consistency in the revised title and with other titles of the United States Code.
+

@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) to assign the State any rights, of the individual or of any other person who is eligible for medical assistance under this subchapter and on whose behalf the individual has the legal authority to execute an assignment of such rights, to support (specified as support for the purpose of medical care by a court or administrative order) and to payment for medical care from any third party;
 
-&emsp;&emsp;(B) to cooperate with the State (i) in establishing the paternity of such person (referred to in subparagraph (A)) if the person is a child born out of wedlock, and (ii) in obtaining support and payments (described in subparagraph (A)) for himself and for such person, unless (in either case) the individual is described in section 1396a(<i>l</i>)(1)(A) of this title or the individual is found to have good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
+&emsp;&emsp;(B) to cooperate with the State (i) in establishing the paternity of such person (referred to in subparagraph (A)) if the person is a child born out of wedlock, and (ii) in obtaining support and payments (described in subparagraph (A)) for himself and for such person, unless (in either case) the individual is described in section 1396a(<i>l</i>)(1)(A) of this title or the individual is found to have goodcause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
 &emsp;&emsp;(C) to cooperate with the State in identifying, and providing information to assist the State in pursuing, any third party who may be liable to pay for care and services available under the plan, unless such individual has good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
@@ -14,7 +14,7 @@
 
 (b) Such part of any amount collected by the State under an assignment made under the provisions of this section shall be retained by the State as is necessary to reimburse it for medical assistance payments made on behalf of an individual with respect to whom such assignment was executed (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing of such medical assistance), and the remainder of such amount collected shall be paid to such individual.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1912, as added Oct. 25, 1977, Pub. L. 95–142, §11(b), 91 Stat. 1196; amended July 18, 1984, Pub. L. 98–369, div. B, title III, §2367(b), 98 Stat. 1109; Apr. 7, 1986, Pub. L. 99–272, title IX, §9503(e), 100 Stat. 207; Nov. 5, 1990, Pub. L. 101–508, title IV, §4606(a), 104 Stat. 1388–170.)
+(Aug. 14, 1935, ch. 531, title XIX, §1912, as added Pub. L. 95–142, §11(b), Oct. 25, 1977, 91 Stat. 1196; amended Pub. L. 98–369, div. B, title III, §2367(b), July 18, 1984, 98 Stat. 1109; Pub. L. 99–272, title IX, §9503(e), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–508, title IV, §4606(a), Nov. 5, 1990, 104 Stat. 1388–170.)
 
 #### Amendments
 

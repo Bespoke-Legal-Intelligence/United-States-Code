@@ -92,7 +92,11 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 (2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
 
-(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342.)
+#### (q) Disclosure pursuant to Federal contractor-issued travel charge card
+
+Nothing in this chapter shall apply to the disclosure of any financial record or information to a Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
+
+(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351.)
 
 #### References in Text
 
@@ -109,6 +113,8 @@ The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch
 The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Amendments
+
+1998—Subsec. (q). Pub. L. 105–264 added subsec. (q).
 
 1992—Subsec. (p). Pub. L. 102–586 added subsec. (p).
 
@@ -131,6 +137,10 @@ Subsec. (i). Pub. L. 99–570 inserted “, except that a court shall have auth
 Subsec. (k)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1983—Subsec. (k). Pub. L. 98–21 added subsec. (k).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any records created pursuant to United States Travel and Transportation Payment and Expense Control System or any Federal contractor-issued travel charge card issued for official Government travel, see section 2(c)(2) of Pub. L. 105–264, set out as a Requiring Use of Travel Charge Card note under section 5701 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1983 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Allowance Authorized.—(1) Under regulations prescribed by the Secretary concerned, amember of the uniformed services who is assigned to permanent duty aboard a ship that is under construction at a location other than—
+Allowance Authorized.—(1) Under regulations prescribed by the Secretary concerned, a member of the uniformed services who is assigned to permanent duty aboard a ship that is under construction at a location other than—
 
 &emsp;(A) the designated home port of the ship; or
 

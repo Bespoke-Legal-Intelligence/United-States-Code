@@ -6,7 +6,7 @@ The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet 
 
 #### (b) Membership
 
-For purposes of benefits under this subchapter and the recognition extended the Houlton Bandof Maliseet Indians, no person who is not a citizen of the United States may be considered a member of the Houlton Band of Maliseets, except persons who, as of October 10, 1980, are enrolled members on the band's existing membership roll, and direct lineal descendants of such members. Membership in the band shall be subject to such further qualifications as may be provided by the band in its organic governing document or amendments thereto subject to the approval of the Secretary.
+For purposes of benefits under this subchapter and the recognition extended the Houlton Band of Maliseet Indians, no person who is not a citizen of the United States may be considered a member of the Houlton Band of Maliseets, except persons who, as of October 10, 1980, are enrolled members on the band's existing membership roll, and direct lineal descendants of such members. Membership in the band shall be subject to such further qualifications as may be provided by the band in its organic governing document or amendments thereto subject to the approval of the Secretary.
 
 (Pub. L. 96–420, §7, Oct. 10, 1980, 94 Stat. 1795.)
 

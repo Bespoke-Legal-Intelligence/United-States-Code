@@ -20,7 +20,7 @@ The United States shall not have any criminal jurisdiction in the State of Maine
 
 #### (d) Capacity to sue and be sued in State of Maine and Federal courts; section 1362 of title 28 applicable to civil actions; immunity from suits provided in Maine Implementing Act; assignment of quarterly income payments from settlement fund to judgment creditors for satisfaction of judgments
 
-(1) The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians, and all members thereof, and all other Indians, Indian nations, or tribes or bands of Indians in the State of Maine may sue and be sued in the courts of the State of Maine and the United States to the same extent as any other entity or person residing in the State of Maine may sue and be sued in those courts; and section 1362 of title 28 shall be applicable to civil actions brought by the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians: <i>Provided, however</i>, That the Passamaquoddy Tribe, the Penobscot Nation, and their officers and employees shall be immune from suit to the extent provided in the Maine Implementing Act.
+(1) The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians, and all members thereof, and all other Indians, Indian nations, or tribes or bands of Indians in the State of Maine may sue and be sued in the courts of the State of Maine and the United States to the same extent as any other entity or person residing in the State of Maine may sueand be sued in those courts; and section 1362 of title 28 shall be applicable to civil actions brought by the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians: <i>Provided, however</i>, That the Passamaquoddy Tribe, the Penobscot Nation, and their officers and employees shall be immune from suit to the extent provided in the Maine Implementing Act.
 
 (2) Notwithstanding the provisions of section 3727 of title 31, the Secretary shall honor valid final orders of a Federal, State, or territorial court which enters money judgments for causes of action which arise after October 10, 1980, against either the Passamaquoddy Tribe or the Penobscot Nation by making an assignment to the judgment creditor of the right to receive income out of the next quarterly payment from the settlement fund established pursuant to section 1724(a) of this title and out of such future quarterly payments as may be necessary until the judgment is satisfied.
 
@@ -54,7 +54,7 @@ In subsec. (d)(2), “section 3727 of title 31” substituted for “section 347
 
 #### Amendments
 
-1983—Subsec. (i). Pub. L. 97–428 inserted provision that notwithstanding any other provision of law authorizing provision of special programs and services by United States to Indians because of their status as Indians, any member of Houlton Band of Maliseet Indians in or near town of Houlton, Maine, be eligible for such programs and services without regard to existence of a reservation or of residence of such member on or near a reservation.
+1983—Subsec. (i). Pub. L. 97–428 inserted provision that notwithstanding any other provision of law authorizing provision of special programs and services by United States to Indians because of their status as Indians, any member of Houlton Band of Maliseet Indians in or near town of Houlton, Maine, be eligible for such programs and services without regard to existence of areservation or of residence of such member on or near a reservation.
 
 #### Section Referred to in Other Sections
 

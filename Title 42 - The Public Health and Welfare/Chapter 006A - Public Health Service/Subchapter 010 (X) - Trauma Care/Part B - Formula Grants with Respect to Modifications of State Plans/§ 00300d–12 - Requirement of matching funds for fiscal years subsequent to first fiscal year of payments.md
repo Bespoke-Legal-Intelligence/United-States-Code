@@ -36,7 +36,7 @@ With respect to compliance with subsection (a) of this section as a condition of
 
 &emsp;&emsp;(B) the costs of improving the quality and availability of emergency medical services in rural areas of the State.
 
-(July 1, 1944, ch. 373, title XII, §1212, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2919; amended Dec. 14, 1993, Pub. L. 103–183, title VI, §601(f)(2), 107 Stat. 2239.)
+(July 1, 1944, ch. 373, title XII, §1212, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2919; amended Pub. L. 103–183, title VI, §601(f)(2), Dec. 14, 1993, 107 Stat. 2239.)
 
 #### Amendments
 

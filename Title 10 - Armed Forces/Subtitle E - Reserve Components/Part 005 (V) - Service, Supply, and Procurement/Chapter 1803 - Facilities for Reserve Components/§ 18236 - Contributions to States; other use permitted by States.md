@@ -22,7 +22,7 @@
 
 &emsp;(2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Sept. 2, 1958, Pub. L. 85–861, §1(40), 72 Stat. 1456; July 12, 1982, Pub. L. 97–214, §3(d)(2), (3), (e)(2), 96 Stat. 170; Dec. 3, 1985, Pub. L. 99–167, title VII, §702(b), 99 Stat. 985; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(11), 100 Stat. 3993; renumbered §18236 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), 108 Stat. 3010; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §§1501(b)(36), 1502(a)(2), 110 Stat. 498, 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 122, §2236; Pub. L. 85–861, §1(40), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, §3(d)(2), (3), (e)(2), July 12, 1982, 96 Stat. 170; Pub. L. 99–167, title VII, §702(b), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. A, title XIII, §1343(a)(11), Nov. 14, 1986, 100 Stat. 3993; renumbered §18236 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (8), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 104–106, div. A, title XV, §§1501(b)(36), 1502(a)(2), Feb. 10, 1996, 110 Stat. 498, 502.)
 
 Historical and Revision Notes<br>1956
 
@@ -115,6 +115,10 @@ Subsecs. (c), (d). Pub. L. 97–214, §3(d)(2), struck out “or Territory, Puer
 1958—Subsec. (a). Pub. L. 85–861 permitted joint use of facilities provided by contributions under section 2233(a)(4) of this title.
 
 Subsec. (b). Pub. L. 85–861 substituted “A contribution made for an armory under section 2233(a)(4) of this title may not be more than 75 percent of the cost of the construction to which it is applied” for “No contribution made for a facility under section 2233(a)(3) of this title may be more than 75 percent of the cost of the construction to which it is to be applied”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1996 Amendment
 

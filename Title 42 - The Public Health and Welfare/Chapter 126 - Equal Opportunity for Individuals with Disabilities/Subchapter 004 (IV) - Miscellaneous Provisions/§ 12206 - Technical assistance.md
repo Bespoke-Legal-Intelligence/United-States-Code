@@ -52,7 +52,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (1) In general
 
-&emsp;Each Federal agency that has responsibility under subsection (c)(2) of this section for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts maybe awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
+&emsp;Each Federal agency that has responsibility under subsection (c)(2) of this section for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or <sup>1</sup> grants described in this paragraph.
 
 #### (2) Dissemination of information
 
@@ -70,7 +70,7 @@ Title IV, referred to in subsec. (c)(2)(D), (3), means title IV of Pub. L. 101�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 29 sections 761a.
+This section is referred to in title 29 sections 762.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

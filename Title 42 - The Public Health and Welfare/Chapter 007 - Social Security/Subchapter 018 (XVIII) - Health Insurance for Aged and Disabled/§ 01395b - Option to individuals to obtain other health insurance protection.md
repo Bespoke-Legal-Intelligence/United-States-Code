@@ -2,7 +2,7 @@
 
 Nothing contained in this subchapter shall be construed to preclude any State from providing, or any individual from purchasing or otherwise securing, protection against the cost of any health services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1803, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1803, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291.)
 
 #### Impact of Increased Investments in Health Research on Future Medicare Costs
 
@@ -58,7 +58,7 @@ Number and appointment.—The Commission shall be composed of 17 members, of who
 
 &emsp;&emsp;“(A) four shall be appointed by the President;
 
-&emsp;&emsp;“(B) six shall be appointed by the Majority Leader of the Senate, in consultation with the Minority Leader of the Senate, of whom not more than 4 shall be of the same political party;
+&emsp;&emsp;“(B) six shall be appointed by the Majority Leader of the Senate, in consultation with the MinorityLeader of the Senate, of whom not more than 4 shall be of the same political party;
 
 &emsp;&emsp;“(C) six shall be appointed by the Speaker of the House of Representatives, in consultation with the Minority Leader of the House of Representatives, of whom not more than 4 shall be of the same political party; and
 
@@ -190,7 +190,7 @@ Old-Age, Survivors, and Disability, and Hospital Insurance Programs.—For purpo
 
 “(b)
 
-Railroad Retirement Program.—For purposes of chapter 22 of the Internal Revenue Code of 1986 \[26 U.S.C. 3201 et seq.\], the term ‘compensation’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
+Railroad Retirement Program.—For purposes of chapter 22 of the Internal Revenue Code of 1986 \[26 U.S.C. 3201 et seq.\], the term ‘compensation’ shall notinclude the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
 “(c)
 
@@ -302,7 +302,7 @@ Compensation and Reimbursement of Expenses.—Members of the Commission are not 
 
 “(a)
 
-Staff.—The Commission may appoint and determine the compensation of such staff as may be necessary to carry out the duties of the Commission. Suchappointments and compensation may be made without regard to the provisions of title 5, United States Code, that govern appointments in the competitive services, and the provisions of chapter 51 and subchapter III of chapter 53 of such title that relate to classifications and the General Schedule pay rates.
+Staff.—The Commission may appoint and determine the compensation of such staff as may be necessary to carry out the duties of the Commission. Such appointments and compensation may be made without regard to the provisions of title 5, United States Code, that govern appointments in the competitive services, and the provisions of chapter 51 and subchapter III of chapter 53 of such title that relate to classifications and the General Schedule pay rates.
 
 “(b)
 
@@ -382,7 +382,7 @@ Pub. L. 100–360, title IV, §421, July 1, 1988, 102 Stat. 808, as amended by P
 
 #### Task Force on Long-Term Health Care Policies
 
-Pub. L. 99–272, title IX, §9601, Apr. 7, 1986, 100 Stat. 221, provided that:
+Pub. L. 99–272, title IX, §9601, Apr. 7, 1986, 100 Stat. 221, as amended by Pub. L. 105–362, title VI, §601(b)(3), Nov. 10, 1998, 112 Stat. 3286, provided that:
 
 “(a)
 
@@ -430,15 +430,7 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 
 Termination of Task Force.—The Task Force shall terminate 90 days after the date of submission of the report required under subsection (d).
 
-“(f)
-
-Reports of Secretary.—The Secretary shall transmit to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Labor and Human Resources of the Senate two reports on—
-
-&emsp;“(1) actions taken by the States to implement the recommendations developed under this section and to recommend additional action; and
-
-&emsp;“(2) recommendations for legislative and administrative action, if any, needed to respond to issues raised by the Task Force or to improve consumer protection with respect to long-term health care policies.
-
-> The first report shall be transmitted 18 months after the date the report is made under subsection (d), and the second report shall be transmitted 18 months later.
+“\[(f) Repealed. Pub. L. 105–362, title VI, §601(b)(3), Nov. 10, 1998, 112 Stat. 3286.\]
 
 “(g)
 

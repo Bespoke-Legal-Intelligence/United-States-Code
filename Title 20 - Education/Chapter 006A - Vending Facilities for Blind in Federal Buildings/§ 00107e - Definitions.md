@@ -18,13 +18,13 @@ As used in this chapter—
 
 &emsp;(8) “vending machine income” means receipts (other than those of a blind licensee) from vending machine operations on Federal property, after cost of goods sold (including reasonable service and maintenance costs), where the machines are operated, serviced, or maintained by, or with the approval of, a department, agency, or instrumentality of the United States, or commissions paid (other than to a blind licensee) by a commercial vending concern which operates, services, and maintains vending machines on Federal property for, or with the approval of, a department, agency, or instrumentality of the United States.
 
-(June 20, 1936, ch. 638, §9, formerly §6, 49 Stat. 1560; Aug. 3, 1954, ch. 655, §4(f), 68 Stat. 664; renumbered §9 and amended Dec. 7, 1974, Pub. L. 93–516, title II, §§206, 207, 88 Stat. 1626, 1628; Nov. 21, 1974, Pub. L. 93–651, title II, §§206, 207, 89 Stat. 2–11, 2–13; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(4)(B), title V, §507, 93 Stat. 678, 692.)
+(June 20, 1936, ch. 638, §9, formerly §6, 49 Stat. 1560; Aug. 3, 1954, ch. 655, §4(f), 68 Stat. 664; renumbered §9 and amended Pub. L. 93–516, title II, §§206, 207, Dec. 7, 1974, 88 Stat. 1626, 1628; Pub. L. 93–651, title II, §§206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13; Pub. L. 96–88, title III, §301(a)(4)(B), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 #### Codification
 
 The content of Pub. L. 93–516, including provisions of sections 206 and 207 thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L.93–651. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by Pub. L. 93–651, title II, §§206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13, in exactly the same manner as it was amended and renumbered by Pub. L. 93–516.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 The property acquired under the provisions of section 450bb of this title shall constitute the Harpers Ferry National Historical Park and shall be a public national memorial commemorating historical events at or near Harpers Ferry. The Director of the National Park Service under the direction of the Secretary of the Interior, shall have the supervision, management, and control of such national historical park, and shall maintain and preserve it for the benefit and enjoyment of the people of the United States, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 
-(June 30, 1944, ch. 328, §2, 58 Stat. 646; May 29, 1963, Pub. L. 88–33, 77 Stat. 52.)
+(June 30, 1944, ch. 328, §2, 58 Stat. 646; Pub. L. 88–33, May 29, 1963, 77 Stat. 52.)
 
 #### Change of Name
 

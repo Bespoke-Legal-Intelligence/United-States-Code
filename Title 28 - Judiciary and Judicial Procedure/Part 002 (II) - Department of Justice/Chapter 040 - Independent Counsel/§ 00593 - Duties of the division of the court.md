@@ -86,7 +86,7 @@ Amicus Curiae Briefs.—When presented with significant legal issues, the divisi
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
+1994—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
 
 Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -96,9 +96,9 @@ Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substit
 
 &emsp;“(C) the reasonableness of the amount of money requested.”
 
-<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
+1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+1983—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
 
 Subsecs. (c) to (e). Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 

@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of rules and regulations
 
-No otherwise qualified individual with a disability in the United States, as defined in section 706(8) of this title, shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
+No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title, shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
 
 #### (b) “Program or activity” defined
 
@@ -20,7 +20,7 @@ For the purposes of this section, the term “program or activity” means all o
 
 &emsp;&emsp;(i) if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
 
-&emsp;&emsp;(ii) which is principally engaged in the business of providing education, health care,housing, social services, or parks and recreation; or
+&emsp;&emsp;(ii) which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
 
 &emsp;(B) the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
 
@@ -36,7 +36,7 @@ Small providers are not required by subsection (a) of this section to make signi
 
 The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, §408(a)(3), Aug. 7, 1998, 112 Stat. 1203.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ The amendments to this section made by the Rehabilitation, Comprehensive Service
 The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–220 substituted “section 705(20)” for “section 706(8)”.
 
 1994—Subsec. (b)(2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 2891(12) of title 20”.
 
@@ -88,5 +90,5 @@ Ex. Ord. No. 11914, Apr. 28, 1976, 41 F.R. 17871, which related to nondiscrimina
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 706, 721, 771a, 775, 794a, 1577, 2211, 2618 of this title; title 5 section 3102; title 12 section 1715z–1a; title 16 sections 410aaa–41, 410aaa–52; title 20 sections 1231e, 1232e, 2321, 2328, 2468e, 8066, 8507; title 25 section 2005; title 42 sections 290cc–33, 300w–7, 300x–57, 708, 1437<i>l</i>, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 1760, 1769h, 2000d–7, 3608, 5057, 5309, 6727, 8625, 9849, 9906, 10406, 11386, 11394, 12134, 12142, 12143, 12144, 12146, 12147, 12148, 12162, 12635, 12832, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603; title 49 section 5310.
+This section is referred to in sections 705, 721, 772, 794a, 794d, 1577, 2618, 2938, 3011 of this title; title 5 section 3102; title 7 section 2279d; title 12 section 1715z–1a; title 16 sections 410aaa–41, 410aaa–52; title 20 sections 1140c, 1231e, 1232e, 2415, 8066, 8507; title 25 section 2005; title 42 sections 290cc–33, 300w–7, 300x–57, 608, 708, 1437<i>l</i>, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 1760, 1769h, 2000d–7, 3608, 5057, 5309, 6727, 8625, 9849, 9906, 10406, 11386, 11394, 12134, 12142, 12143, 12144, 12146, 12147, 12148, 12162, 12635, 12832, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603; title 49 section 5310.
 

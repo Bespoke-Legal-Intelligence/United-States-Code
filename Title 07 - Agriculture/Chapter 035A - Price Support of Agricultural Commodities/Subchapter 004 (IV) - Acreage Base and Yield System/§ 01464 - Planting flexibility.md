@@ -40,7 +40,7 @@ The producers on a farm may, in accordance with this section, plant for harvest 
 
 #### (2) Exception for soybeans
 
-&emsp;If on January 1 of any calendar year the Secretary estimates that the national average price of soybeans during the following marketing year for soybeans would be less than 105 percent of the nonrecourse loan level for soybeans established in section 1446f <sup>1</sup> of this title if soybeans were allowed to be planted on up to 25 percent of the crop acreage base under this section, the quantity of the crop acreage base that may be planted to soybeans underthis section may not exceed 15 percent of the crop acreage base.
+&emsp;If on January 1 of any calendar year the Secretary estimates that the national average price of soybeans during the following marketing year for soybeans would be less than 105 percent of the nonrecourse loan level for soybeans established in section 1446f <sup>1</sup> of this title if soybeans were allowed to be planted on up to 25 percent of the crop acreage base under this section, the quantity of the crop acreage base that may be planted to soybeans under this section may not exceed 15 percent of the crop acreage base.
 
 #### (d) Plantings in excess of permitted acreage
 
@@ -64,7 +64,7 @@ Notwithstanding any other provision of this Act, producers of a program crop who
 
 &emsp;&emsp;(B) agree to a reduction in the permitted acreage for the original program crop for the particular crop year.
 
-(Oct. 31, 1949, ch. 792, title V, §504, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1461; amended Feb. 28, 1986, Pub. L. 99–253, §4, 100 Stat. 37; Mar. 20, 1986, Pub. L. 99–260, §8, 100 Stat. 51; Aug. 11, 1988, Pub. L. 100–387, title III, §301(a)(1), 102 Stat. 945; Aug. 14, 1989, Pub. L. 101–81, §1, 103 Stat. 563; Aug. 14, 1989, Pub. L. 101–82, title VI, §603(a), 103 Stat. 587; Dec. 19, 1989, Pub. L. 101–239, title I, §1002(a), 103 Stat. 2106; Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3494; Dec. 13, 1991, Pub. L. 102–237, title I, §112(c), 105 Stat. 1837.)
+(Oct. 31, 1949, ch. 792, title V, §504, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 99–253, §4, Feb. 28, 1986, 100 Stat. 37; Pub. L. 99–260, §8, Mar. 20, 1986, 100 Stat. 51; Pub. L. 100–387, title III, §301(a)(1), Aug. 11, 1988, 102 Stat. 945; Pub. L. 101–81, §1, Aug. 14, 1989, 103 Stat. 563; Pub. L. 101–82, title VI, §603(a), Aug. 14, 1989, 103 Stat. 587; Pub. L. 101–239, title I, §1002(a), Dec. 19, 1989, 103 Stat. 2106; Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3494; Pub. L. 102–237, title I, §112(c), Dec. 13, 1991, 105 Stat. 1837.)
 
 #### References in Text
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) endorse warrants for receipts for money deposited in the Treasury;
 
-&emsp;(5) submit the accounts of the Secretary to the Comptroller General every 3 months, ormore often if required by the Comptroller General; and
+&emsp;(5) submit the accounts of the Secretary to the Comptroller General every 3 months, or more often if required by the Comptroller General; and
 
 &emsp;(6) submit to inspection at any time by the Comptroller General of money in the possession of the Secretary.
 

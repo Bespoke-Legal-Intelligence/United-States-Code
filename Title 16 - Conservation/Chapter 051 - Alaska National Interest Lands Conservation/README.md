@@ -29,12 +29,12 @@
 | (a) | Establishment of subsistence resources regions, local advisory committees, and regional advisory councils; membership, duties, and authority of regional advisory councils. |
 | (b) | Assignment of staff and distribution of data. |
 | (c) | Consideration of reports and recommendations of regional advisory councils. |
-| (d) | Supersedure by enactment and implementation of State laws governing State responsibility; consideration of recommendations by State rulemaking authority; regional advisory councils. |
+| (d) | Supersedure by enactment and implementation of State laws governing State responsibility; consideration of recommendations by State rulemaking authority. |
 | (e) | Reimbursement to State; limitation; report to Congress. |
 | [3116\.](Subchapter%20002%20%28II%29%20-%20Subsistence%20Management%20and%20Use/%C2%A7%2003116%20-%20Federal%20monitoring%3B%20reports%20to%20State%20and%20Congressional%20committees.md) | Federal monitoring; reports to State and Congressional committees. |
 | [3117\.](Subchapter%20002%20%28II%29%20-%20Subsistence%20Management%20and%20Use/%C2%A7%2003117%20-%20Judicial%20enforcement.md) | Judicial enforcement. |
 | (a) | Exhaustion of administrative remedies; civil action; parties; preliminary injunctive relief; other relief; costs and attorney's fees. |
-| (b) | Judicial review and enforcement. |
+| (b) | Repealed. |
 | (c) | Section as sole Federal judicial remedy. |
 | [3118\.](Subchapter%20002%20%28II%29%20-%20Subsistence%20Management%20and%20Use/%C2%A7%2003118%20-%20Park%20and%20park%20monument%20subsistence%20resource%20commissions.md) | Park and park monument subsistence resource commissions. |
 | (a) | Appointment of members; development of subsistence hunting program; annual review of program. |
@@ -207,6 +207,7 @@
 | (g) | Consideration of hardship. |
 | (h) | Exchange authority. |
 | (i) | Donation or exchange. |
+| [3192a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/%C2%A7%2003192a%20-%20Restrictions%20on%20use%20of%20appropriated%20funds.md) | Restrictions on use of appropriated funds. |
 | [3193\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/%C2%A7%2003193%20-%20Use%20of%20cabins%20and%20other%20sites%20of%20occupancy%20on%20conservation%20system%20units.md) | Use of cabins and other sites of occupancy on conservation system units. |
 | (a) | Improved property on National Park System lands. |
 | (b) | Improved property on other units or areas established or expanded by this Act. |

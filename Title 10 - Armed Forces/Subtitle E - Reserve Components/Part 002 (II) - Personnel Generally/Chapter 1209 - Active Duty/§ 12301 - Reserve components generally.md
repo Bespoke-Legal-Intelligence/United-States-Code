@@ -14,11 +14,11 @@
 
 (g)(1) A member of a reserve component may be ordered to active duty without his consent if the Secretary concerned determines that the member is in a captive status. A member ordered to active duty under this section may not be retained on active duty, without his consent, for more than 30 days after his captive status is terminated.
 
-(2) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly among the armed forces under the jurisdiction of the Secretary. A determination for the purposes of this subsection that a member is in a captive status shall be made pursuant to such regulations.
+(2) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly among the armedforces under the jurisdiction of the Secretary. A determination for the purposes of this subsection that a member is in a captive status shall be made pursuant to such regulations.
 
 (3) In this section, the term “captive status” means the status of a member of the armed forces who is in a missing status (as defined in section 551(2) of title 37) which occurs as the result of a hostile action and is related to the member's military status.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Sept. 2, 1958, Pub. L. 85–861, §§1(13), 33(a)(5), 72 Stat. 1440, 1564; Sept. 24, 1980, Pub. L. 96–357, §6, 94 Stat. 1182; Dec. 23, 1980, Pub. L. 96–584, §1, 94 Stat. 3377; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title IX, §9122\], 100 Stat. 1783–82, 1783–127, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title IX, §9122\], 100 Stat. 3341–82, 3341–127; Nov. 14, 1986, Pub. L. 99–661, div. A, title V, §§522, 524(a), 100 Stat. 3871; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), 102 Stat. 2059; renumbered §12301 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), 108 Stat. 2992, 3017.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Pub. L. 85–861, §§1(13), 33(a)(5), Sept. 2, 1958, 72 Stat. 1440, 1564; Pub. L. 96–357, §6, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–584, §1, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 99–500, §101(c) \[title IX, §9122\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–127, and Pub. L. 99–591, §101(c) \[title IX, §9122\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–127; Pub. L. 99–661, div. A, title V, §§522, 524(a), Nov. 14, 1986, 100 Stat. 3871; Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), Sept. 29, 1988, 102 Stat. 2059; renumbered §12301 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), Oct. 5, 1994, 108 Stat. 2992, 3017.)
 
 Historical and Revision Notes<br>1956
 

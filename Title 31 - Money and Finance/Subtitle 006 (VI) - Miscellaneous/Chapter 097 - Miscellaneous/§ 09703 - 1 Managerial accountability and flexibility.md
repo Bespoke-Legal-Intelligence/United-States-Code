@@ -1,6 +1,6 @@
 ### §9703.<sup>1</sup> Managerial accountability and flexibility
 
-(a) Beginning with fiscal year 1999, the performance plans required under section 1115 may include proposals to waive administrative procedural requirements and controls, including specification of personnel staffing levels, limitations on compensation or remuneration, and prohibitions or restrictions on funding transfers among budget object classification 20 and subclassifications 11, 12, 31, and 32 of each annual budget submitted under section 1105, in return for specificindividual or organization accountability to achieve a performance goal. In preparing and submitting the performance plan under section 1105(a)(29),<sup>2</sup> the Director of the Office of Management and Budget shall review and may approve any proposed waivers. A waiver shall take effect at the beginning of the fiscal year for which the waiver is approved.
+(a) Beginning with fiscal year 1999, the performance plans required under section 1115 may include proposals to waive administrative procedural requirements and controls, including specification of personnel staffing levels, limitations on compensation or remuneration, and prohibitions or restrictions on funding transfers among budget object classification 20 and subclassifications 11, 12, 31, and 32 of each annual budget submitted under section 1105, in return for specific individual or organization accountability to achieve a performance goal. In preparing and submitting the performance plan under section 1105(a)(29),<sup>2</sup> the Director of the Office of Management and Budget shall review and may approve any proposed waivers. A waiver shall take effect at the beginning of the fiscal year for which the waiver is approved.
 
 (b) Any such proposal under subsection (a) shall describe the anticipated effects on performance resulting from greater managerial or organizational flexibility, discretion, and authority, and shall quantify the expected improvements in performance resulting from any waiver. The expected improvements shall be compared to current actual performance, and to the projected level of performance that would be achieved independent of any waiver.
 
@@ -24,7 +24,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1115, 1116, 1118, 1119, 9704 of this title; title 40 section 1425.
+This section is referred to in sections 1115, 1116, 1118, 1119, 5340, 9704 of this title; title 40 section 1425.
 
 <i><sup>1</sup></i><i> Another section 9703 is set out after section 9704 of this title.</i>
 

@@ -24,7 +24,7 @@
 
 #### (B) Information considered
 
-&emsp;&emsp;The judge may consider classified information submitted in camera and ex parte inmaking a determination whether to release an alien pending the removal hearing.
+&emsp;&emsp;The judge may consider classified information submitted in camera and ex parte in making a determination whether to release an alien pending the removal hearing.
 
 #### (3) Release if order denied and no review sought
 
@@ -50,5 +50,5 @@
 
 &emsp;If the judge finds no such condition or combination of conditions, as described in paragraph (1), the alien shall remain in custody until the completion of any appeal authorized by this subchapter.
 
-(June 27, 1952, ch. 477, title V, §506, as added Apr. 24, 1996, Pub. L. 104–132, title IV, §401(a), 110 Stat. 1265.)
+(June 27, 1952, ch. 477, title V, §506, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1265.)
 

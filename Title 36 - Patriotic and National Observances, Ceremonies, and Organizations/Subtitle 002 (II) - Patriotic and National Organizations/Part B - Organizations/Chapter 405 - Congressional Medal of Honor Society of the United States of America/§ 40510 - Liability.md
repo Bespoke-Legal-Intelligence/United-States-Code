@@ -1,0 +1,32 @@
+### §40510. Liability
+
+(a)
+
+Liability of Corporation.—The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
+
+(b)
+
+Immunity of Individuals.—A member or private individual is not liable for the obligations of the corporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1335.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+40510(a)
+
+36:801.
+
+Aug. 14, 1958, Pub. L. 85–642, §§9(a) (1st sentence words after last comma), 11, 72 Stat. 599, 600.
+
+40510(b)
+
+36:799(a) (1st sentence words after last comma).
+

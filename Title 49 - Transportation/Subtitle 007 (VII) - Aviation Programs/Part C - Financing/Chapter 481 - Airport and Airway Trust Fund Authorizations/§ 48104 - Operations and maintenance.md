@@ -26,7 +26,7 @@ Limitation for Fiscal Years 1994–1998.—The amount appropriated from the Trus
 
 &emsp;(B) the amount of funds made available under sections 48101–48103 of this title for such fiscal year.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §102(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §103(b), (d)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 104–287, §5(87), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §102(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §103(b), (d)(1),Oct. 9, 1996, 110 Stat. 3216; Pub. L. 104–287, §5(87), Oct. 11, 1996, 110 Stat. 3398.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 Nothing contained in this part shall affect the authority of the Service to furnish any materials, supplies, or equipment, or perform any work of services, requested in accordance with sections 1535 and 1536 of title 31, or the authority of any other executive department to furnish any materials, supplies, or equipment, or perform any work or services, requested by the Department of Health and Human Services for the Service in accordance with that section.
 
-(July 1, 1944, ch. 373, title III, §327, 58 Stat. 697; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(July 1, 1944, ch. 373, title III, §327, 58 Stat. 697; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Codification
 

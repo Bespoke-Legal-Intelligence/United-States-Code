@@ -14,7 +14,7 @@
 
 &emsp;(3) make grants to States and, after consultation with State health agencies, to other public or nonprofit private entities for the purpose of carrying out demonstration projects for the prevention and control of injuries at sites that are not subject to the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\], including homes, elementary and secondary schools, and public buildings.
 
-(July 1, 1944, ch. 373, title III, §392, as added Nov. 10, 1986, Pub. L. 99–649, §3, 100 Stat. 3634; amended Nov. 15, 1990, Pub. L. 101–558, §2(b), 104 Stat.2772; Oct. 27, 1992, Pub. L. 102–531, title III, §§301, 312(d)(4), 106 Stat. 3482, 3504; Dec. 14, 1993, Pub. L. 103–183, title II, §203(a)(2), (b)(1), 107 Stat. 2232.)
+(July 1, 1944, ch. 373, title III, §392, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(b), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §§301, 312(d)(4), Oct. 27, 1992, 106 Stat. 3482, 3504; Pub. L. 103–183, title II, §203(a)(2), (b)(1), Dec. 14, 1993, 107 Stat. 2232.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Filing of claim
 
-Subject to the provisions of section 913 of this title a claim for compensation may be filed withthe deputy commissioner in accordance with regulations prescribed by the Secretary at any time after the first seven days of disability following any injury, or at any time after death, and the deputy commissioner shall have full power and authority to hear and determine all questions in respect of such claim.
+Subject to the provisions of section 913 of this title a claim for compensation may be filed with the deputy commissioner in accordance with regulations prescribed by the Secretary at any time after the first seven days of disability following any injury, or at any time after death, and the deputy commissioner shall have full power and authority to hear and determine all questions in respect of such claim.
 
 #### (b) Notice of claim
 
@@ -10,7 +10,7 @@ Within ten days after such claim is filed the deputy commissioner, in accordance
 
 #### (c) Investigations; order for hearing; notice; rejection or award
 
-The deputy commissioner shall make or cause to be made such investigations as he considers necessary in respect of the claim, and upon application of any interested party shall order a hearing thereon. If a hearing on such claim is ordered the deputy commissioner shall give the claimant and other interested parties at least ten days’ notice of such hearing, served personally upon the claimant and other interested parties or sent to such claimant and other interested parties by registered mail or by certified mail, and shall within twenty days after such hearing is had, by order, reject the claim or make an award in respect of the claim. If no hearing is ordered within twenty days after notice is given as provided in subsection (b) of this section, the deputy commissioner shall, by order, reject the claim or make an award in respect of the claim.
+The deputy commissioner shall make or cause to be made such investigations as he considers necessary in respect of the claim, and upon application of any interested party shall order a hearing thereon. If a hearing on such claim is ordered the deputy commissioner shall give the claimant and other interested parties at least ten days’ notice of such hearing, served personally upon the claimant and other interested parties or sent to such claimant and other interested parties by registered mail or by certified mail, and shall within twenty days after such hearing is had, by order, reject the claim or make an award in respect of the claim. If no hearing is ordered within twenty days after notice is given as provided in subsection (b) of thissection, the deputy commissioner shall, by order, reject the claim or make an award in respect of the claim.
 
 #### (d) Provisions governing conduct of hearing; administrative law judges
 

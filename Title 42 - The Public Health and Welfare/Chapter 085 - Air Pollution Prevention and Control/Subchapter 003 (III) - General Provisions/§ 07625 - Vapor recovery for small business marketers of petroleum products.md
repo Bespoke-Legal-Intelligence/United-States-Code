@@ -22,13 +22,13 @@ For purposes of this section, an independent small business marketer of gasoline
 
 &emsp;(B) controls, is controlled by, or is under common control with, a refiner,
 
-&emsp;(C) is otherwise directly or indirectly affiliated (as determined under the regulations of the Administrator) with a refiner or with a person who controls, is controlled by, or is under a common control with a refiner (unless the sole affiliation referred to herein is bymeans of a supply contract or an agreement or contract to use a trademark, trade name, service mark, or other identifying symbol or name owned by such refiner or any such person), or
+&emsp;(C) is otherwise directly or indirectly affiliated (as determined under the regulations of the Administrator) with a refiner or with a person who controls, is controlled by, or is under a common control with a refiner (unless the sole affiliation referred to herein is by means of a supply contract or an agreement or contract to use a trademark, trade name, service mark, or other identifying symbol or name owned by such refiner or any such person), or
 
 &emsp;(2) receives less than 50 percent of his annual income from refining or marketing of gasoline.
 
 > For the purpose of this section, the term “refiner” shall not include any refiner whose total refinery capacity (including the refinery capacity of any person who controls, is controlled by, or is under common control with, such refiner) does not exceed 65,000 barrels per day. For purposes of this section, “control” of a corporation means ownership of more than 50 percent of its stock.
 
-(July 14, 1955, ch. 360, title III, §324, formerly §325, as added Aug. 7, 1977, Pub. L. 95–95, title III, §314(b), 91 Stat. 789; renumbered §324, July 2, 1980, Pub. L. 96–300, §1(c), 94 Stat. 831.)
+(July 14, 1955, ch. 360, title III, §324, formerly §325, as added Pub. L. 95–95, title III, §314(b), Aug. 7, 1977, 91 Stat. 789; renumbered §324, Pub. L. 96–300, §1(c), July 2, 1980, 94 Stat. 831.)
 
 #### Prior Provisions
 

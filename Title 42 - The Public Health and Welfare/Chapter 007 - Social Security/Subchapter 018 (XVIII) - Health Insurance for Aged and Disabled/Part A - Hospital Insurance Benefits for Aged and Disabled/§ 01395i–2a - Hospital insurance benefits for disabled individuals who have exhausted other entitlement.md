@@ -26,7 +26,7 @@ Every individual who—
 
 #### (c) Coverage period
 
-(1) The period (in this subsection referred to as a “coverage period”) during which an individual is entitled to benefits under the insurance program under this part shall begin on whichever of the following is the latest:
+(1) The period (in this subsection referred to as a “coverage period”) during which an individualis entitled to benefits under the insurance program under this part shall begin on whichever of the following is the latest:
 
 &emsp;(A) In the case of an individual who enrolls under subsection (b)(2) of this section before the month in which the individual first satisfies subsection (a) of this section, the first day of such month.
 
@@ -62,7 +62,7 @@ Every individual who—
 
 (2) The provisions of subsections (d) through (f) of section 1395i–2 of this title (relating to premiums) shall apply to individuals enrolled under this section in the same manner as they apply to individuals enrolled under that section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818A, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6012(a)(2), 103 Stat. 2161; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(m)(3)(C), 104 Stat. 1388–54.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818A, as added Pub. L. 101–239, title VI, §6012(a)(2), Dec. 19, 1989, 103 Stat. 2161; amended Pub. L. 101–508, title IV, §4008(m)(3)(C), Nov. 5, 1990, 104 Stat. 1388–54.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 For the purpose of establishing an appropriate memorial to Hernando De Soto, the Secretary of the Interior is authorized, in his discretion, to acquire on behalf of the United States, by donation, by purchase with donated funds when purchaseable <sup>1</sup> at prices deemed by him reasonable, or by condemnation with donated funds, such lands and interests in land within an area of not to exceed thirty acres as he may select in the vicinity of Tampa Bay and Bradenton, Florida, and to construct thereon a suitable memorial structure, together with such connecting roads and public facilities as may be desirable.
 
-(Mar. 11, 1948, ch. 109, §1, 62 Stat. 78; Sept. 8, 1960, Pub. L. 86–728, §1A, 74 Stat. 856.)
+(Mar. 11, 1948, ch. 109, §1, 62 Stat. 78; Pub. L. 86–728, §1A, Sept. 8, 1960, 74 Stat. 856.)
 
 #### Amendments
 

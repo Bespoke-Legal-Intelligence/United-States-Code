@@ -24,7 +24,7 @@ Section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 199
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–114 added subsec. (c).
+1996—Subsec. (c). Pub. L. 104–114 added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 

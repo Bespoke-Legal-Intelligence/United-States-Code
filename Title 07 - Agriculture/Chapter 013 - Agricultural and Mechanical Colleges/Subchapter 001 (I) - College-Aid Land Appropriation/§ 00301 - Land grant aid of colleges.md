@@ -14,7 +14,7 @@ Act July 2, 1862, as amended, which is classified to this subchapter, is popular
 
 #### Equity in Educational Land Grant Status
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126, provided that:
 
 #### “SEC. 531. SHORT TITLE.
 
@@ -82,6 +82,8 @@ Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by
 
 &emsp;“(29) College of the Menominee Nation.
 
+&emsp;“(30) Little Priest Tribal College.
+
 #### “SEC. 533. LAND-GRANT STATUS FOR 1994 INSTITUTIONS.
 
 “(a)
@@ -104,9 +106,17 @@ institutions.—(A) 1994 Institutions shall not be considered as land-grant coll
 
 &emsp;“(B) In lieu of receiving donations under the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act), relating to the donations of public land or scrip for the endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts, 1994 Institutions shall receive funding pursuant to the authorization under subsection (b).
 
+&emsp;“(3)
+
+Accreditation.—To receive funding under sections 534 and 535, a 1994 Institution shall certify to the Secretary that the 1994 Institution—
+
+&emsp;&emsp;“(A) is accredited by a nationally recognized accrediting agency or association determined by the Secretary, in consultation with the Secretary of Education, to be a reliable authority regarding the quality of training offered; or
+
+&emsp;&emsp;“(B) is making progress toward the accreditation, as determined by the nationally recognized accrediting agency or association.
+
 “(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated $4,600,000 for each of fiscal years 1996 through 2000. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
+Authorization of Appropriations.—There are authorized to be appropriated $4,600,000 for each of fiscal years 1996 through 2002. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
 
 “(c)
 
@@ -132,7 +142,7 @@ Investments.—The Secretary shall invest the endowment fund corpus and income i
 
 Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
 
-&emsp;&emsp;“(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 390(3) of the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2397h(3)) for each 1994 Institution for the fiscal year.
+&emsp;&emsp;“(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 390(3) of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section was in effect on the day preceding the date of enactment of the Carl D. Perkins Vocational and Applied Technology Education Amendments of 1998 \[Oct. 31, 1998\]) for each 1994 Institution for the fiscal year.
 
 &emsp;&emsp;“(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
 
@@ -194,7 +204,7 @@ In General.—
 
 &emsp;“(1)
 
-Institutional capacity building grants.—For each of fiscal years 1996 through 2000, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+Institutional capacity building grants.—For each of fiscal years 1996 through 2002, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
 
 &emsp;“(2)
 
@@ -214,13 +224,27 @@ Payment of non-federal share.—A grant awarded under this subsection shall be m
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, $1,700,000 for each of fiscal years 1996 through 2000.”
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, $1,700,000 for each of fiscal years 1996 through 2002.
+
+#### “SEC. 536. RESEARCH GRANTS.
+
+“(a)
+
+Research Grants Authorized.—The Secretary of Agriculture may make grants under this section, on the basis of a competitive application process (and in accordance with such regulations as the Secretary may promulgate), to a 1994 Institution to assist the Institution to conduct agricultural research that addresses high priority concerns of tribal, national, or multistate significance.
+
+“(b)
+
+Requirements.—Grant applications submitted under this section shall certify that the research to be conducted will be performed under a cooperative agreement with at least 1 other land-grant college or university (exclusive of another 1994 Institution).
+
+“(c)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002. Amounts appropriated shall remain available until expended.”
 
 #### Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands
 
 Pub. L. 96–374, title XIII, §1361(c), (d), Oct. 3, 1980, 94 Stat. 1502, as amended by Pub. L. 99–396, §9(c), Aug. 27, 1986, 100 Stat. 840, provided that:
 
-“(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
+“(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, theNorthern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
 
 “(d) Nothing in this section \[amending section 326a of this title and provisions set out as a note below\] shall be construed to interfere with or affect any of the provisions of the April 17, 1900 Treaty of Cession of Tutuila and Aunu'u Islands or the July 16, 1904 Treaty of Cession of the Manu'a Islands as ratified by the Act of February 20, 1929 (45 Stat. 1253) and the Act of May 22, 1929 (46 Stat. 4) \[48 U.S.C. 1431a\].”
 

@@ -8,7 +8,7 @@ If the Federal estimate of the cost of—
 
 &emsp;(3) debris removed under section 5173 of this title,
 
-> is less than $35,000, the President (on application of the State or local government or the owner or operator of the private nonprofit facility) may make the contribution to such State or local government or owner or operator under section 5170b, 5172, 5173, or 5192 of this title, as the case may be, on the basis of such Federal estimate. Such $35,000 amount shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+> is less than $35,000, the President (on application of the State or local government or the owner or operator of the private nonprofit facility) may make the contribution to such State or localgovernment or owner or operator under section 5170b, 5172, 5173, or 5192 of this title, as the case may be, on the basis of such Federal estimate. Such $35,000 amount shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 (Pub. L. 93–288, title IV, §422, as added Pub. L. 100–707, title I, §106(k), Nov. 23, 1988, 102 Stat. 4705.)
 

@@ -35,7 +35,7 @@ I74part 1—reporting and disclosure
 | (c) | Terminal and supplementary reports. |
 | (d) | Notice of failure to meet minimum funding standards. |
 | (e) | Notice of transfer of excess pension assets to health benefits accounts. |
-| (f) | Information necessary to comply with Medicare and Medicaid Coverage Data Bank requirements. |
+| (f) | Repealed. |
 | (g) | Reporting by certain arrangements. |
 | (h) | Simple retirement accounts. |
 | (h) | Cross reference. |
@@ -375,6 +375,12 @@ I74part 1—reporting and disclosure
 | (d) | Separate application to each option offered. |
 | (e) | Definitions. |
 | (f) | Sunset. |
+| [1185b.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20007%20-%20Group%20Health%20Plan%20Requirements/Subpart%20B%20-%20Other%20Requirements/%C2%A7%2001185b%20-%20Required%20coverage%20for%20reconstructive%20surgery%20following%20mastectomies.md) | Required coverage for reconstructive surgery following mastectomies. |
+| (a) | In general. |
+| (b) | Notice. |
+| (c) | Prohibitions. |
+| (d) | Rule of construction. |
+| (e) | Preemption, relation to State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -876,7 +882,7 @@ I74part 1—employer withdrawals
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 441 of this title; title 7 section 1a; title 15 sections 77b, 631b, 662; title 18 section 1027; title 20 section 1085; title 26 sections 412, 414; title 26 section 404; title 31 section 9502; title 42 sections 1395w–22, 1396s, 3035r; title 45 section 743.
+This chapter is referred to in section 441 of this title; title 7 section 1a; title 15 sections 77b, 631b, 662; title 18 section 1027; title 20 section 1085; title 26 sections 412, 414; title 26 section 404; title 31 section 9502; title 42 sections 1395w–22, 1396s, 1396u–2, 3035r; title 45 section 743.
 
 
 ---

@@ -40,7 +40,7 @@ Conditions for Payments for Commercial Items.—(1) Payments under subsection (a
 
 (2) Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
-(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency,with commercial terms and conditions pursuant to paragraphs (1) and (2).
+(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
 
 (g)
 
@@ -84,7 +84,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Aug. 28, 1958, Pub. L. 85–800, §9, 72 Stat. 967; Nov. 16, 1973, Pub. L. 93–155, title VIII, §807(c), 87 Stat. 616; July 19, 1988, Pub. L. 100–370, §1(f)(1)(A), 102 Stat. 846; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), 104 Stat. 1615, 1616, 1671; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), 105 Stat. 114, 116; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, §1061(a)(10), 105 Stat. 1472; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1052(24), 106 Stat. 2500; Oct. 13, 1994, Pub. L. 103–355, title II, §2001(a)–(g), 108 Stat. 3301, 3302; Nov. 18, 1997, Pub. L. 105–85, div. A, title VIII, §802, 111 Stat. 1831.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831.)
 
 Historical and Revision Notes<br>1956
 
@@ -160,7 +160,7 @@ Subsec. (h). Pub. L. 103–355, §2001(a)(7), redesignated subsec. (e) as (h).
 
 1992—Subsec. (e)(1). Pub. L. 102–484 substituted “(1)” for “(<i>l</i>)” as par. designation after “(e)”.
 
-1991—Subsec. (d)(3). Pub. L. 102–25, §701(d)(4), substituted “any contract for an amount not in excess of the amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in section 2304(g)(2) of this title”.
+1991—Subsec. (d)(3). Pub. L. 102–25, §701(d)(4), substituted “any contract for an amount not in excess ofthe amount of the small purchase threshold” for “contracts for amounts less than the maximum amount for small purchases specified in section 2304(g)(2) of this title”.
 
 Subsec. (e). Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
@@ -200,7 +200,7 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 
 #### Obligations Entered Into Before November 16, 1973
 
-Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered intoprior to the date of enactment of this section \[Nov. 16, 1973\].”
+Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
 
 #### Cross References
 

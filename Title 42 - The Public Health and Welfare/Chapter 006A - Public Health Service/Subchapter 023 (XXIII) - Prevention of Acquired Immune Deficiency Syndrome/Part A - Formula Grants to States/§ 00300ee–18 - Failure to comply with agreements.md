@@ -20,7 +20,7 @@ Before requiring repayment of payments under subsection (a)(1) of this section, 
 
 #### (d) Prompt response to serious allegations
 
-The Secretary shall promptly respond to any complaint of a substantial or serious naturethat a State has failed to expend amounts received under section 300ee–11(a) of this title in accordance with the agreements required to be contained in the application submitted by the State pursuant to section 300ee–13 of this title.
+The Secretary shall promptly respond to any complaint of a substantial or serious nature that a State has failed to expend amounts received under section 300ee–11(a) of this title in accordance with the agreements required to be contained in the application submitted by the State pursuant to section 300ee–13 of this title.
 
 #### (e) Investigations
 
@@ -34,7 +34,7 @@ The Secretary shall promptly respond to any complaint of a substantial or seriou
 
 (B) Subparagraph (A) shall not apply to the collection, compilation, or transmittal of data in the course of a judicial proceeding.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2508, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3099; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(f) \[(g)\], 102 Stat. 4243; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2508, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3099; amended Pub. L. 100–690, title II, §2619(f) \[(g)\], Nov. 18, 1988, 102 Stat. 4243; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Prior Provisions
 

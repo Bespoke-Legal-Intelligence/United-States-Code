@@ -10,7 +10,7 @@ This chapter does not apply to credit transactions involving extensions of credi
 
 #### (b) Interpretation
 
-In prescribing regulations under section 2617(a) of this title, the Secretary shall ensure that, with respect to subsection (a) of this section, the exemption for credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, as provided in subsection (a)(1) <sup>1</sup> of this section shall be the same as the exemption for such credit transactions under section 1603(1) of title 15.
+In prescribing regulations under section 2617(a) of this title, the Secretary shall ensurethat, with respect to subsection (a) of this section, the exemption for credit transactions involving extensions of credit primarily for business, commercial, or agricultural purposes, as provided in subsection (a)(1) <sup>1</sup> of this section shall be the same as the exemption for such credit transactions under section 1603(1) of title 15.
 
 (Pub. L. 93–533, §7, as added Pub. L. 103–325, title III, §312, Sept. 23, 1994, 108 Stat. 2221; amended Pub. L. 104–208, div. A, title II, §2103(b), Sept. 30, 1996, 110 Stat. 3009–399.)
 

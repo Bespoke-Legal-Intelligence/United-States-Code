@@ -86,7 +86,7 @@ In addressing the subject of sexual assault, domestic violence, and other crimin
 
 &emsp;(7) Evaluating the adequacy of, and making recommendations regarding, the adequacy of current education, prevention, and protective services for victims of such crimes and acts.
 
-&emsp;(8) Assessing the issuance, formulation, and enforcement of protective orders, whether ornot related to a criminal proceeding, and making recommendations for their more effective use in domestic violence and stalking cases.
+&emsp;(8) Assessing the issuance, formulation, and enforcement of protective orders, whether or not related to a criminal proceeding, and making recommendations for their more effective use in domestic violence and stalking cases.
 
 &emsp;(9) Assessing the problem of stalking and recommending effective means of response to the problem.
 

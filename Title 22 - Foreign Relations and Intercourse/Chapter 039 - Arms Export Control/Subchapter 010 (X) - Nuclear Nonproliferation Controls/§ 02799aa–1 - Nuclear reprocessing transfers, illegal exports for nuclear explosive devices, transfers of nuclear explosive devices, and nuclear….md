@@ -12,7 +12,7 @@
 
 (2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
-(3)(A) A certification under paragraph (2) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within 30 calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
+(3)(A) A certification under paragraph (2) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within 30 calendar days after receiving this certification, the Congress enactsa joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
 
 (B) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
@@ -48,13 +48,15 @@
 
 &emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of the United States Government, except that the sanction of this subparagraph shall not apply—
 
-&emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] (relating to congressional oversight of intelligence activities), or
+&emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] (relating to congressional oversight of intelligence activities),
 
-&emsp;&emsp;(ii) to humanitarian assistance.
+&emsp;&emsp;(ii) to medicines, medical equipment, and humanitarian assistance, or
+
+&emsp;&emsp;(iii) to any credit, credit guarantee, or financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodity.
 
 &emsp;(E) The United States Government shall oppose, in accordance with section 262d of this title, the extension of any loan or financial or technical assistance to that country by any international financial institution.
 
-&emsp;(F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities.
+&emsp;(F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
 
 &emsp;(G) The authorities of section 2405 of title 50, Appendix, shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] (relating to congressional oversight of intelligence activities).
 
@@ -64,7 +66,7 @@
 
 &emsp;(B) the term “component” means a specific component of a nuclear explosive device.
 
-(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security ofthe United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
+(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
 (B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
@@ -86,7 +88,7 @@
 
 As used in this section, the term “non-nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516.)
+(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627.)
 
 #### References in Text
 
@@ -100,9 +102,93 @@ The National Security Act of 1947, as amended, referred to in subsec. (b)(2)(D)(
 
 Section 102 of the Arms Export Control Act, referred to in subsec. (b)(4)(D), is classified to this section.
 
+#### Amendments
+
+1998—Subsec. (b)(2)(D)(ii). Pub. L. 105–194, §2(c), inserted “medicines, medical equipment, and” after “to”.
+
+Subsec. (b)(2)(D)(iii). Pub. L. 105–194, §2(a), added cl. (iii).
+
+Subsec. (b)(2)(F). Pub. L. 105–194, §2(b), inserted “, which includes fertilizer” before period at end.
+
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: “The amendment made by subsection (a)(3) \[amending this section\] shall apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture before, on, or after the date of enactment of this Act \[July 14, 1998\] through September 30, 1999.”
+
+#### India-Pakistan Relief
+
+Pub. L. 105–277, div. A, §101(a) \[title IX\], Oct. 21, 1998, 112 Stat. 2681, 2681–40, provided that:
+
+“
+
+Sec. 901.
+
+Short Title. This title may be cited as the ‘India-Pakistan Relief Act of 1998’.
+
+“
+
+Sec. 902.
+
+Waiver Authority. (a)
+
+Authority.—The President may waive for a period not to exceed one year upon enactment of this Act \[Oct. 21, 1998\] with respect to India or Pakistan the application of any sanction or prohibition (or portion thereof) contained in section 101 or 102 of the Arms Export Control Act \[22 U.S.C. 2799aa, 2799aa–1\], section 620E(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2375(e)\], or section 2(b)(4) of the Export Import Bank Act of 1945 \[12 U.S.C. 635(b)(4)\].
+
+“(b)
+
+Exception.—The authority provided in subsection (a) shall not apply to any restriction in section 102(b)(2)(B), (C), or (G) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(2)(B), (C), (G)\].
+
+“(c)
+
+Availability of Amounts.—Amounts made available by this section are designated by the Congress as an emergency requirement pursuant to section251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)\], as amended: <i>Provided</i>, That such amounts shall be available only to the extent that an official budget request that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Tables for classification\], as amended, is transmitted by the President to the Congress.
+
+“
+
+Sec. 903.
+
+Consultation. Prior to each exercise of the authority provided in section 902, the President shall consult with the appropriate congressional committees.
+
+“
+
+Sec. 904.
+
+Reporting Requirement. Not later than 30 days prior to the expiration of a one-year period described in section 902, the Secretary of State shall submit a report to the appropriate congressional committees on economic and national security developments in India and Pakistan.
+
+“
+
+Sec. 905.
+
+Appropriate Congressional Committees Defined. In this title, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives and the Committees on Appropriations of the House of Representatives and the Senate.”
+
+#### Effect on Existing Sanctions
+
+Pub. L. 105–194, §2(e), July 14, 1998, 112 Stat. 627, provided that: “Any sanction imposed under section 102(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] before the date of the enactment of this Act \[July 14, 1998\] shall cease to apply upon that date with respect to the items described in the amendments made by subsections (b) and (c) \[amending this section\]. In the case of the amendment made by subsection (a)(3) \[amending this section\], any sanction imposed under section 102(b)(1) of the Arms Export Control Act before the date of the enactment of this Act shall not be in effect during the period beginning on that date and ending on September 30, 1999, with respect to the activities and items described in the amendment.”
+
+#### Sanctions Against India for Detonation of a Nuclear Explosive Device
+
+Determination of President of the United States, No. 98–22, May 13, 1998, 63 F.R. 27665, provided:
+
+Memorandum for the Secretary of State
+
+In accordance with section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\], I hereby determine that India, a non-nuclear-weapon state, detonated a nuclear explosive device on May 11, 1998. The relevant agencies and instrumentalities of the United States Government are hereby directed to take the necessary actions to impose the sanctions described in section 102(b)(2) of that Act.
+
+You are hereby authorized and directed to transmit this determination to the appropriate committees of the Congress and to arrange for its publication in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Sanctions Against Pakistan for Detonation of a Nuclear Explosive Device
+
+Determination of President of the United States, No. 98–25, May 30, 1998, 63 F.R. 31881, provided:
+
+Memorandum for the Secretary of State
+
+In accordance with section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\], I hereby determine that Pakistan, a non-nuclear-weapon state, detonated a nuclear explosive device on May 28, 1998. The relevant agencies and instrumentalities of the United States Government are hereby directed to take the necessary actions to impose the sanctions described in section 102(b)(2) of that Act.
+
+You are hereby authorized and directed to transmit this determination to the appropriate committees of the Congress and to arrange for its publication in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

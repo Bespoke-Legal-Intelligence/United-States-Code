@@ -26,7 +26,7 @@ A national banking association may retain and operate such branch or branches as
 
 &emsp;(C) a branch of the national bank and which, on February 25, 1927, was not in operation as a branch of any bank, if the Comptroller of the Currency approves of its continued operation after the consolidation.
 
-> The Comptroller of the Currency may not grant approval under clause (C) of this paragraph if a State bank (in a situation identical to that of the resulting national bank) resulting from the consolidation into a State bank of another bank or banks would be prohibited by the law of such State from retaining and operating as a branch an identically situated office which was a branch of the State bank immediately prior to consolidation.
+> The Comptroller of the Currency may not grant approval under clause (C) of this paragraph if a State bank (in a situation identical to that of the resulting national bank) resulting from theconsolidation into a State bank of another bank or banks would be prohibited by the law of such State from retaining and operating as a branch an identically situated office which was a branch of the State bank immediately prior to consolidation.
 
 (3) As used in this subsection, the term “consolidation” includes a merger.
 
@@ -74,7 +74,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (C) Review and report on actions by Comptroller
 
-&emsp;&emsp;The Comptroller of the Currency shall conduct an annual review of the actions it has taken with regard to the applicability of State law to national banks (or their branches) during the preceding year, and shall include in its annual report required under section 14 of this title the results of the review and the reasons for each such action. The first such review and report after July 3, 1997, shall encompass all such actions taken on or after January 1, 1992.
+&emsp;&emsp;The Comptroller of the Currency shall conduct an annual review of the actions it has taken with regard to the applicability of State law to national banks (or their branches) during the preceding year, andshall include in its annual report required under section 14 of this title the results of the review and the reasons for each such action. The first such review and report after July 3, 1997, shall encompass all such actions taken on or after January 1, 1992.
 
 #### (2) Treatment of branch as bank
 

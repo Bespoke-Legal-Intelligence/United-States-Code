@@ -4,7 +4,7 @@
 
 (b) There are hereby authorized to be appropriated such sums as may be necessary for the enforcement and administration of this chapter.
 
-(Mar. 3, 1923, ch. 217, §8, 42 Stat. 1436; Aug. 13, 1981, Pub. L. 97–35, title I, §159(a)(2), 95 Stat. 376.)
+(Mar. 3, 1923, ch. 217, §8, 42 Stat. 1436; Pub. L. 97–35, title I, §159(a)(2), Aug. 13, 1981, 95 Stat. 376.)
 
 #### Amendments
 

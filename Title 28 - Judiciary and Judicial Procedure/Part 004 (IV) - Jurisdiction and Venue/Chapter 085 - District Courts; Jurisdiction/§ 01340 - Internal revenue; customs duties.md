@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
 #### Effective Date of 1980 Amendment
 

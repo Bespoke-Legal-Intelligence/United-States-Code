@@ -8,7 +8,7 @@ The President shall establish a program under which agricultural commodities are
 
 To carry out the policies and accomplish the objectives described in section 1691 of this title, the Administrator may negotiate and execute agreements with least developed countries to provide commodities to such countries on a grant basis.
 
-(July 10, 1954, ch. 469, title III, §301, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 548; amended Aug. 14, 1979, Pub. L. 96–53, title II, §204(a), 93 Stat. 369; Dec. 23, 1985, Pub. L. 99–198, title XI, §1112(a)(3), 99 Stat. 1478; Oct. 31, 1988, Pub. L. 100–576, §4(a)(1), 102 Stat. 2898; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3641.)
+(July 10, 1954, ch. 469, title III, §301, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 548; amended Pub. L. 96–53, title II, §204(a), Aug. 14, 1979, 93 Stat. 369; Pub. L. 99–198, title XI, §1112(a)(3), Dec. 23, 1985, 99 Stat. 1478; Pub. L. 100–576, §4(a)(1), Oct. 31, 1988, 102 Stat. 2898; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3641.)
 
 #### Prior Provisions
 
@@ -16,7 +16,7 @@ A prior section 301 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, whic
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outlining Congressional purpose with regard to Food for Development Program, establishment of program, goal of assistance under program, range of assistance and emphasized activities, and use of funds for disaster assistance.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outliningCongressional purpose with regard to Food for Development Program, establishment of program, goal of assistance under program, range of assistance and emphasized activities, and use of funds for disaster assistance.
 
 1988—Subsec. (c). Pub. L. 100–576 added subsec. (c).
 
@@ -46,7 +46,7 @@ Section 4(a)(2), (3) of Pub. L. 100–576 provided that:
 
 #### Increased Immunizations of Children; Reporting Requirement
 
-Section 1112(b) of Pub. L. 99–198 provided that: “In the implementation of health programs undertaken in relation to assistance provided under the Agricultural Trade Development and Assistance Act of 1954 \[this chapter\], it shall be the goal of the organizations and agencies involved to provide as many additional immunizations of children as possible. Such increased immunization activities should be taken in coordination with similar efforts of other organizations and in keeping with any national plans for expanded programs of immunization. The President shall include informationconcerning such immunization activities in the annual reports required by section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], including a report on the estimated number of immunizations provided each year pursuant to this subsection.”
+Section 1112(b) of Pub. L. 99–198 provided that: “In the implementation of health programs undertaken in relation to assistance provided under the Agricultural Trade Development and Assistance Act of 1954 \[this chapter\], it shall be the goal of the organizations and agencies involved to provide as many additional immunizations of children as possible. Such increased immunization activities should be taken in coordination with similar efforts of other organizations and in keeping with any national plans for expanded programs of immunization. The President shall include information concerning such immunization activities in the annual reports required by section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], including a report on the estimated number of immunizations provided each year pursuant to this subsection.”
 
 #### Implementation of Program
 

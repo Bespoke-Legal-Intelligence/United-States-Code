@@ -72,11 +72,11 @@ The following Federal standards are hereby established:
 
 #### (8) Investments in conservation and demand management
 
-&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for theconstruction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
+&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
 
 #### (9) Energy efficiency investments in power generation and supply
 
-&emsp;The rates charged by any electric utility shall be such that the utility is encouraged to make investments in, and expenditures for, all cost-effective improvements in the energy efficiency of power generation, transmission and distribution. In considering regulatory changes to achieve the objectives of this paragraph, State regulatory authorities and nonregulated electric utilities shall consider the disincentives caused by existing ratemaking policies, and practices, and consider incentives that would encourage better maintenance, and investment in more efficient power generation, transmission and distribution equipment.
+&emsp;The rates charged by any electric utility shall be such that the utility is encouraged to make investments in, and expenditures for, allcost-effective improvements in the energy efficiency of power generation, transmission and distribution. In considering regulatory changes to achieve the objectives of this paragraph, State regulatory authorities and nonregulated electric utilities shall consider the disincentives caused by existing ratemaking policies, and practices, and consider incentives that would encourage better maintenance, and investment in more efficient power generation, transmission and distribution equipment.
 
 #### (10) Consideration of the effects of wholesale power purchases on utility cost of capital; effects of leveraged capital structures on the reliability of wholesale power sellers; and assurance of adequate fuel supplies
 
@@ -130,7 +130,7 @@ Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years aft
 
 &emsp;&emsp;“(C) increased or decreased dependence on particular energy resources; and
 
-&emsp;“(3) a survey of practices and policies under which electric cooperatives prepare integrated resourceplans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
+&emsp;“(3) a survey of practices and policies under which electric cooperatives prepare integrated resource plans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
 
 > The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
 

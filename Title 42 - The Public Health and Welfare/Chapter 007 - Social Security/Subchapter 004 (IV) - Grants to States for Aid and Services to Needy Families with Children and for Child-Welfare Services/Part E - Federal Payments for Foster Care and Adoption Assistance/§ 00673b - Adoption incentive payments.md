@@ -36,7 +36,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (B) Alternative data sources permitted for fiscal years 1995 through 1997
 
-&emsp;&emsp;For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by November 30, 1997, and approved by the Secretary by March 1, 1998.
+&emsp;&emsp;For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.
 
 #### (3) No waiver of AFCARS requirements
 
@@ -56,7 +56,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;For any fiscal year, if the total amount of adoption incentive payments otherwise payable under this section for a fiscal year exceeds the amount appropriated pursuant to subsection (h) of this section for the fiscal year, the amount of the adoption incentive payment payable to each State under this section for the fiscal year shall be—
 
-&emsp;&emsp;(A) the amount of the adoption incentive payment that would otherwise be payable to the State under this section for the fiscal year; multiplied by
+&emsp;&emsp;(A) the amount of the adoption incentive payment that would otherwise be payable tothe State under this section for the fiscal year; multiplied by
 
 &emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption incentive payments otherwise payable under this section for the fiscal year.
 
@@ -136,11 +136,15 @@ As used in this section:
 
 &emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 1998 through 2000.
 
-(Aug. 14, 1935, ch. 531, title IV, §473A, as added Nov. 19, 1997, Pub. L. 105–89, title II, §201(a), 111 Stat. 2122.)
+(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673.)
 
 #### References in Text
 
 Part B of this subchapter, referred to in subsec. (f), is classified to section 620 et seq. of this title.
+
+#### Amendments
+
+1998—Subsec. (c)(2)(B). Pub. L. 105–200 substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
 
 #### Effective Date
 

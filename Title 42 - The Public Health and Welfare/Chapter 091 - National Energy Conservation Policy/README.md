@@ -264,6 +264,7 @@
 | [8287a.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287a%20-%20Payment%20of%20costs.md) | Payment of costs. |
 | [8287b.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287b%20-%20Reports.md) | Reports. |
 | [8287c.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287c%20-%20Definitions.md) | Definitions. |
+| [8287d.](Subchapter%20007%20%28VII%29%20-%20Energy%20Savings%20Performance%20Contracts/%C2%A7%2008287d%20-%20Assistance%20to%20Federal%20agencies%20in%20achieving%20energy%20efficiency%20in%20Federal%20facilities%20and%20operations.md) | Assistance to Federal agencies in achieving energy efficiency in Federal facilities and operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

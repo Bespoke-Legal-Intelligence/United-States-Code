@@ -88,7 +88,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+### <b>Subpart I—Miscellaneous</b>
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>95.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20095%20-%20Personnel%20Flexibilities%20Relating%20to%20the%20Internal%20Revenue%20Service/README.md) | <b>Personnel flexibilities </b><b><sup>1</sup></b> <b>relating </b><b><sup>1</sup></b> <b>to the Internal Revenue Service</b> | <b>9501</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+1998—Pub. L. 105–206, title I, §1201(b), July 22, 1998, 112 Stat. 719, added items for subpart I and chapter 95.
 
 1993—Pub. L. 103–89, §3(a)(2), Sept. 30, 1993, 107 Stat. 981, struck out item for chapter 54 “Performance Management and Recognition System”.
 
@@ -117,3 +127,4 @@ This part is referred to in title 28 section 996; title 29 section 795b; title 4
 - [Subpart F - Labor-Management and Employee Relations](Subpart%20F%20-%20Labor-Management%20and%20Employee%20Relations/README.md)
 - [Subpart G - Insurance and Annuities](Subpart%20G%20-%20Insurance%20and%20Annuities/README.md)
 - [Subpart H - Access to Criminal History Record Information](Subpart%20H%20-%20Access%20to%20Criminal%20History%20Record%20Information/README.md)
+- [Subpart I - Miscellaneous](Subpart%20I%20-%20Miscellaneous/README.md)

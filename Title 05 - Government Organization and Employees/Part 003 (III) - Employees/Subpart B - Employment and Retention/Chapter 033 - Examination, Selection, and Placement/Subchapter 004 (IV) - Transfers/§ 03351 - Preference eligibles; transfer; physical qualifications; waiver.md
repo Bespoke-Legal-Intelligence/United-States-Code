@@ -46,5 +46,5 @@ Definition of preference eligible, see section 2108 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1599c; title 22 section 1438.
+This section is referred to in section 2302 of this title; title 22 section 1438.
 

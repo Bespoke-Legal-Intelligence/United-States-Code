@@ -12,7 +12,7 @@ Any funds appropriated for the construction of facilities may be used for emerge
 
 Notwithstanding any other provision of law, the authorization of any appropriation to the Administration shall expire (unless an earlier expiration is specifically provided) at the close of the third fiscal year following the fiscal year in which the authorization was enacted, to the extent that such appropriation has not theretofore actually been made.
 
-(Pub. L. 85–568, title III, §309, formerly §307, July 29, 1958, 72 Stat. 438; Pub. L. 88–113, §6, Sept. 6, 1963, 77 Stat. 144; renumbered §308, Pub. L. 94–464, §3, Oct. 8, 1976, 90 Stat. 1988; renumbered §309, Pub. L. 96–48, §6(b)(1), Aug. 8, 1979, 93 Stat. 348.)
+(Pub. L. 85–568, title III, §309, formerly §307, July 29, 1958, 72 Stat. 438; Pub. L. 88–113, §6, Sept. 6,1963, 77 Stat. 144; renumbered §308, Pub. L. 94–464, §3, Oct. 8, 1976, 90 Stat. 1988; renumbered §309, Pub. L. 96–48, §6(b)(1), Aug. 8, 1979, 93 Stat. 348.)
 
 #### References in Text
 
@@ -30,7 +30,7 @@ Pub. L. 100–685, title II, §215, Nov. 17, 1988, 102 Stat. 4093, provided that
 
 “(b) No funds authorized to be appropriated to the Administration for fiscal years 1989 through 1993 shall be available for payment in connection with any grant, contract, or other agreement, unless the recipient of such grant, contractor, or party to such agreement, as the case may be, has in place and will continue to administer in good faith a written policy, adopted by the board of directors or other government authority of such recipient, contractor, or party, satisfactory to the Administrator of the Administration, designed to ensure that all of the workplaces of such recipient, contractor, or party are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act) by the officers and employees of such recipient, contractor, or party.
 
-“(c) The provisions of this section, and the provisions of the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 \[15 U.S.C. 5101 et seq.\], the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989 \[Pub. L. 100–519, title I, Oct. 24, 1988, 102 Stat. 2589\], the NationalScience Foundation Authorization Act for Fiscal Years 1989 and 1990 \[probably means Pub. L. 100–570, Oct. 31, 1988, 102 Stat. 2865\], and the National Nutrition Monitoring and Related Research Act of 1988 \[probably means S. 1081, One Hundredth Congress, which was pocket vetoed\], relating to a drug-free workplace, shall not be effective until January 16, 1989.”
+“(c) The provisions of this section, and the provisions of the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 \[15 U.S.C. 5101 et seq.\], the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989 \[Pub. L. 100–519, title I, Oct. 24, 1988, 102 Stat. 2589\], the National Science Foundation Authorization Act for Fiscal Years 1989 and 1990 \[probably means Pub. L. 100–570, Oct. 31, 1988, 102 Stat. 2865\], and the National Nutrition Monitoring and Related Research Act of 1988 \[probably means S. 1081, One Hundredth Congress, which was pocket vetoed\], relating to a drug-free workplace, shall not be effective until January 16, 1989.”
 
 #### Geographical Distribution of Research Funds
 

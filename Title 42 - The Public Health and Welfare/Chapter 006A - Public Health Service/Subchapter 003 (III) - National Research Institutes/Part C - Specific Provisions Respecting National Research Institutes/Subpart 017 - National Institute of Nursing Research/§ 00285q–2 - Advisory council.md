@@ -10,7 +10,7 @@
 
 &emsp;(A)(i) may make recommendations to the Director of the Institute respecting research conducted at the Institute,
 
-&emsp;(ii) may review applications for grants and cooperative agreements for research or training and recommend for approval applicationsfor projects which show promise of making valuable contributions to human knowledge, and
+&emsp;(ii) may review applications for grants and cooperative agreements for research or training and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the Institute;
 
@@ -50,13 +50,13 @@ The advisory council shall meet at the call of the chairman or upon the request 
 
 #### (f) Executive secretary; staff; orientation and training for new members
 
-The Director of the Institute shall designate a member of the staff of the Institute to serve as the executive secretary of the advisory council. The Director of the Institute shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of the Institute shall provide orientation and training for new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
+The Director of the Institute shall designate a member of the staff of the Institute to serve as the executive secretary of the advisory council. The Director of the Institute shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of the Institute shall provide orientation and trainingfor new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
 
 #### (g) Material for inclusion in biennial report; additional reports
 
 The advisory council may prepare, for inclusion in the biennial report made under section 285q–3 of this title, (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the Institute in meeting its objectives, and (3) recommendations respecting the future directions and program and policy emphasis of the Institute. The advisory council may prepare such additional reports as it may determine appropriate.
 
-(July 1, 1944, ch. 373, title IV, §464X, formerly §485, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 867; amended Aug. 18, 1990, Pub. L. 101–381, title I, §102(4), 104 Stat. 586; June 13, 1991, Pub. L. 102–54, §13(q)(1)(E), 105 Stat. 279; renumbered §464X and amended June 10, 1993, Pub. L. 103–43, title XV, §1511(a)(3), (b)(2), (4)(B), title XX, §§2008(b)(13), 2010(b)(5), 107 Stat. 178, 179, 211, 214.)
+(July 1, 1944, ch. 373, title IV, §464X, formerly §485, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 867; amended Pub. L. 101–381, title I, §102(4), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–54, §13(q)(1)(E), June 13, 1991, 105 Stat. 279; renumbered §464X and amended Pub. L. 103–43, title XV, §1511(a)(3), (b)(2), (4)(B), title XX, §§2008(b)(13), 2010(b)(5), June 10, 1993, 107 Stat. 178, 179, 211, 214.)
 
 #### Codification
 

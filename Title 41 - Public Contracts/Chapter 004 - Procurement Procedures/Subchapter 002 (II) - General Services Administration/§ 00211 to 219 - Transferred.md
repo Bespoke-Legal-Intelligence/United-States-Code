@@ -10,7 +10,7 @@ Section 213, act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380, which rel
 
 Section 214, act June 30, 1949, ch. 288, title I, §104, 63 Stat. 381, which related to records management, was transferred to section 391 of former Title 44, Public Printing and Documents. See sections 1506, 2102, 2301, 2501, and 2902 of Title 44, Public Printing and Documents.
 
-Section 215, act June 30, 1949, ch. 288, title I, §105, 63 Stat. 381, which related to transfer and liquidation of War Assets Administration, was transferred to section 630c of former Title 5, Executive Departments and Government Officers and Employees, and was subsequently repealed by section 8(a) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 632.
+Section 215, act June 30, 1949, ch. 288, title I, §105, 63 Stat. 381, which related to transfer and liquidation ofWar Assets Administration, was transferred to section 630c of former Title 5, Executive Departments and Government Officers and Employees, and was subsequently repealed by section 8(a) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 632.
 
 Section 216, act June 30, 1949, ch. 288, title I, §106, 63 Stat. 381, which related to redistribution of Administrator's functions, was transferred to section 630d of former Title 5, Executive Departments and Government Officers and Employees, and subsequently transferred to section 754 of Title 40, Public Buildings, Property, and Works.
 

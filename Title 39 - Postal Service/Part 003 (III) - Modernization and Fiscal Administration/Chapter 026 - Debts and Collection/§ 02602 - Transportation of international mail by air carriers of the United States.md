@@ -1,6 +1,6 @@
 ### §2602. Transportation of international mail by air carriers of the United States
 
-(a) The Postal Service may offset against any balances due another country resulting from thetransaction of international money order business, or otherwise, amounts due from that country to the United States, or to the United States for the account of air carriers of the United States transporting mail of that country, when—
+(a) The Postal Service may offset against any balances due another country resulting from the transaction of international money order business, or otherwise, amounts due from that country to the United States, or to the United States for the account of air carriers of the United States transporting mail of that country, when—
 
 &emsp;(1) the Postal Service puts into effect rates of compensation to be charged another country for transportation; and
 

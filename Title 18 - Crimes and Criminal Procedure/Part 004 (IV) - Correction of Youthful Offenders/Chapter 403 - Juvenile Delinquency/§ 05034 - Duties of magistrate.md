@@ -6,7 +6,7 @@ The magistrate may appoint a guardian ad litem if a parent or guardian of the ju
 
 If the juvenile has not been discharged before his initial appearance before the magistrate, the magistrate shall release the juvenile to his parents, guardian, custodian, or other responsible party (including, but not limited to, the director of a shelter-care facility) upon their promise to bring such juvenile before the appropriate court when requested by such court unless the magistrate determines, after hearing, at which the juvenile is represented by counsel, that the detention of such juvenile is required to secure his timely appearance before the appropriate court or to insure his safety or that of others.
 
-(June 25, 1948, ch. 645, 62 Stat. 858; Mar. 31, 1962, Pub. L. 87–428, 76 Stat. 52; Sept. 7, 1974, Pub. L. 93–415, title V, §504, 88 Stat. 1135; Nov. 18, 1988, Pub. L. 100–690, title VII, §7045, 102 Stat. 4400.)
+(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 87–428, Mar. 31, 1962, 76 Stat. 52; Pub. L. 93–415, title V, §504, Sept. 7, 1974, 88 Stat. 1135; Pub. L. 100–690, title VII, §7045, Nov. 18, 1988, 102 Stat. 4400.)
 
 #### Historical and Revision Notes
 

@@ -16,7 +16,7 @@ Honeybees or honeybee semen offered for importation into, intercepted entering, 
 
 As used in this chapter, the term “honeybee” means all life stages and the germ plasm of honeybees of the genus Apis, except honeybee semen.
 
-(Aug. 31, 1922, ch. 301, §1, 42 Stat. 833; July 19, 1962, Pub. L. 87–539, §1, 76 Stat. 169; June 25, 1976, Pub. L. 94–319, §1, 90 Stat. 709; Dec. 8, 1993, Pub. L. 103–182, title III, §361(d)(2), 107 Stat. 2123; Dec. 8, 1994, Pub. L. 103–465, title IV, §431(e), 108 Stat. 4968.)
+(Aug. 31, 1922, ch. 301, §1, 42 Stat. 833; Pub. L. 87–539, §1, July 19, 1962, 76 Stat. 169; Pub. L. 94–319, §1, June 25, 1976, 90 Stat. 709; Pub. L. 103–182, title III, §361(d)(2), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, §431(e), Dec. 8, 1994, 108 Stat. 4968.)
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 103–182, §361(d)(2)(B), inserted “(1)” after “only
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Short Title
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the interest on the amount described in clause (i) calculated at the prevailing rate; and
 
-&emsp;&emsp;&emsp;(iii) an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively; and
+&emsp;&emsp;&emsp;(iii) an additional amount as liquidated damages equal to the sum of the amount described in clause (i) and the interest described in clause (ii), except that if an employer who has violated section 2615 of this title proves to the satisfaction of the court that the act or omission which violated section 2615 of this title was in good faithand that the employer had reasonable grounds for believing that the act or omission was not a violation of section 2615 of this title, such court may, in the discretion of the court, reduce the amount of the liability to the amount and interest determined under clauses (i) and (ii), respectively; and
 
 &emsp;&emsp;(B) for such equitable relief as may be appropriate, including employment, reinstatement, and promotion.
 
@@ -64,7 +64,7 @@
 
 #### (2) Willful violation
 
-&emsp;In the case of such action brought for a willful violation of section 2615 of this title, suchaction may be brought within 3 years of the date of the last event constituting the alleged violation for which such action is brought.
+&emsp;In the case of such action brought for a willful violation of section 2615 of this title, such action may be brought within 3 years of the date of the last event constituting the alleged violation for which such action is brought.
 
 #### (3) Commencement
 

@@ -6,7 +6,7 @@ Every registered investment company which is a party and every affiliated person
 
 &emsp;(B) is filed in such court or delivered by such company or party defendant, such documents shall be filed with the Commission not later than five days after such filing or delivery.
 
-(Aug. 22, 1940, ch. 686, title I, §33, 54 Stat. 839; Dec. 14, 1970, Pub. L. 91–547, §19, 84 Stat. 1428.)
+(Aug. 22, 1940, ch. 686, title I, §33, 54 Stat. 839; Pub. L. 91–547, §19, Dec. 14, 1970, 84 Stat. 1428.)
 
 #### Amendments
 
@@ -18,7 +18,7 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 

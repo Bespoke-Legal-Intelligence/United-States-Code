@@ -40,5 +40,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3314, 3315, 3320 of this title; title 10 section 1599c; title 22 section 1438.
+This section is referred to in sections 2302, 3314, 3315, 3320 of this title; title 22 section 1438.
 

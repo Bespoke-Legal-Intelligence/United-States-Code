@@ -14,7 +14,7 @@
 
 (B) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
-(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fundunder subsection (a) of this section and who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988.
+(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
 (5) With respect to bankruptcy judges and magistrates to whom this section applies, any of the actions described under paragraph (4)(A), (B), or (C) shall be considered a separation from service for purposes of this subchapter and subchapter VII.
 
@@ -38,7 +38,7 @@ Another section 8440b was renumbered section 8440c of this title.
 
 1996—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(1)\]\], inserted “of the distribution” after “equal to the amount” in first sentence.
 
-Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(A)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less”.
+Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(A)\]\], substituted “less than anamount that the Executive Director prescribes by regulation” for “$3,500 or less”.
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(B)\]\], which directed that par. (8) be amended by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)”, was executed by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)” before period at end, to reflect the probable intent of Congress.
 
@@ -64,7 +64,7 @@ Subsec. (b)(8), (9). Pub. L. 101–335, §6(b)(3), added pars. (8) and (9). Form
 
 #### Change of Name
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set outas a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1996 Amendment
 

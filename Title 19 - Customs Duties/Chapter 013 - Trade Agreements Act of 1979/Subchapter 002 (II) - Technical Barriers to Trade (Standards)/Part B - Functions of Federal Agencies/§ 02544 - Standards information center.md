@@ -18,7 +18,7 @@ The standards information center shall—
 
 &emsp;(5) serve as the inquiry point for requests for information regarding standards-related activities, whether adopted or proposed, within the United States, except that in carrying out this paragraph, the Secretary of Commerce shall refer all inquiries regarding agricultural products to the technical office established under section 2542(a)(2) of this title within the Department of Agriculture; and
 
-&emsp;(6) provide such other services as may be appropriate, including but not limited to, such services to the technical offices established under section 2542 of this title as may be requested by those offices in carrying out their functions.
+&emsp;(6) provide such other services as may be appropriate, including but not limited to, such services to the technical offices establishedunder section 2542 of this title as may be requested by those offices in carrying out their functions.
 
 #### (c) Sanitary and phytosanitary measures
 

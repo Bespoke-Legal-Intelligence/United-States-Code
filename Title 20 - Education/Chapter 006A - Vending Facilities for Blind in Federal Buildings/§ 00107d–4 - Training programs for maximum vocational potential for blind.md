@@ -2,7 +2,7 @@
 
 The Commissioner shall insure, through promulgation of appropriate regulations, that uniform and effective training programs, including on-the-job training, are provided for blind individuals, through services under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\]. He shall further insure that State agencies provide programs for upward mobility (including further education and additional training or retraining for improved work opportunities) for all trainees under this chapter, and that follow-along services are provided to such trainees to assure that their maximum vocational potential is achieved.
 
-(June 20, 1936, ch. 638, §8, as added Dec. 7, 1974, Pub. L. 93–516, title II, §206, 88 Stat. 1628; Nov. 21, 1974, Pub. L. 93–651, title II, §206, 89 Stat. 2–13.)
+(June 20, 1936, ch. 638, §8, as added Pub. L. 93–516, title II, §206, Dec. 7, 1974, 88 Stat. 1628; Pub. L. 93–651, title II, §206, Nov. 21, 1974, 89 Stat. 2–13.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall designate current orformer military airports for which grants may be made under section 47117(e)(1)(B) of this title. The maximum number of airports bearing such designation at any time is 12. The Secretary may only so designate an airport (other than an airport so designated before August 24, 1994) if—
+General Requirements.—The Secretary of Transportation shall designate current or former military airports for which grants may be made under section 47117(e)(1)(B) of this title. The maximum number of airports bearing such designation at any time is 12. The Secretary may only so designate an airport (other than an airport so designated before August 24, 1994) if—
 
 &emsp;(1) the airport is a former military installation closed or realigned under—
 
@@ -43,10 +43,6 @@ Terminal Building Facilities.—Not more than $5,000,000 for each airport from a
 Parking Lots, Fuel Farms, Utilities, and Hangars.—Not more than a total of $4,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397.)
-
-#### Amendment of Subsections (a), (d), and (f)
-
-<i>For termination of amendment by section 125 of Pub. L. 104–264, see Effective and Termination Dates of 1996 Amendments note below.</i>
 
 Historical and Revision Notes
 
@@ -104,7 +100,7 @@ This makes a clarifying amendment to 49:47118(e) because 49:47109(c) was struck 
 
 #### References in Text
 
-Section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(1)(B), is section 201 of Pub. L. 100–526, which is set out in a note under section 2687 of Title 10, Armed Forces.
+Section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act, referredto in subsec. (a)(1)(B), is section 201 of Pub. L. 100–526, which is set out in a note under section 2687 of Title 10, Armed Forces.
 
 Section 2905 of the Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(1)(C), is section 2905 of Pub. L. 101–510, which is set out in a note under section 2687 of Title 10.
 
@@ -114,17 +110,17 @@ Section 47117(e)(1)(E), referred to in subsec. (d), was redesignated section 471
 
 1996—Subsec. (a). Pub. L. 104–287, §5(83)(A), which directed amendment of subsec. (a) by substituting “before August 24, 1994” for “on or before the date of the enactment of this sentence”, could not be executed because the phrase to be amended did not appear subsequent to amendment by Pub. L. 104–264, §124(a). See below.
 
-Pub. L. 104–264, §§124(a), 125, temporarily amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+Pub. L. 104–264, §124(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(a)
 
-General Requirements.—The Secretary of Transportation shall designate not more than 15 current or former military airports for which grants may be made under section 47117(e)(1)(E) of this title. The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.” See Effective and Termination Dates of 1996 Amendments note below.
+General Requirements.—The Secretary of Transportation shall designate not more than 15 current or former military airports for which grants may be made under section 47117(e)(1)(E) of this title. The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
 
-Subsec. (d). Pub. L. 104–264, §§124(b), 125, temporarily substituted “designation, and for subsequent 5-fiscal-year periods if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent 5-fiscal-year period.” for “designation.” See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (d). Pub. L. 104–264, §124(b), substituted “designation, and for subsequent 5-fiscal-year periods if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent 5-fiscal-year period.” for “designation.”
 
 Subsec. (e). Pub. L. 104–287, §5(83)(B), substituted “Not” for “Notwithstanding section 47109(c) of this title, not”.
 
-Subsec. (f). Pub. L. 104–264, §§124(c), 125, temporarily amended subsec. (f) by substituting “Utilities, and Hangars” for “and Utilities” in heading and “for fiscal years beginning after September 30, 1992,” for “for the fiscal years ending September 30, 1993–1996,” and “utilities, and hangars” for “and utilities” in text. See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (f). Pub. L. 104–264, §124(c), amended subsec. (f) by substituting “Utilities, and Hangars” for “and Utilities” in heading and “for fiscal years beginning after September 30, 1992,” for “for the fiscal years ending September 30, 1993–1996,” and “utilities, and hangars” for “and utilities” in text.
 
 1994—Subsec. (a). Pub. L. 103–305, §116(b), substituted “15” for “12” and inserted at end “The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
 
@@ -132,13 +128,11 @@ Subsec. (d). Pub. L. 103–305, §116(c), struck out at end “If an airport doe
 
 Subsec. (f). Pub. L. 103–305, §116(d), substituted “September 30, 1993–1996” for “September 30, 1993–1995”.
 
-#### Effective and Termination Dates of 1996 Amendments
+#### Effective Date of 1996 Amendments
 
 Amendment by section 5(83)(A) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-Amendment by Pub. L. 104–264 to cease to be effective Sept. 30, 1998, and on and after such date this section to read as if such amendment had not been enacted, see section 125 of Pub. L. 104–264 set out as a note under section 47114 of this title.
 
 #### Section Referred to in Other Sections
 

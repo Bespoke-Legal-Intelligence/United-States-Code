@@ -2,7 +2,7 @@
 
 Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Air Force may give not more than two obsolete bronze or iron cannons suitable for firing salutes to any home for soldiers or sailors established and maintained under State authority.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 584; Dec. 12, 1980, Pub. L. 96–513, title V, §514(18), 94 Stat. 2936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 584; Pub. L. 96–513, title V, §514(18), Dec. 12, 1980, 94 Stat. 2936.)
 
 Historical and Revision Notes
 

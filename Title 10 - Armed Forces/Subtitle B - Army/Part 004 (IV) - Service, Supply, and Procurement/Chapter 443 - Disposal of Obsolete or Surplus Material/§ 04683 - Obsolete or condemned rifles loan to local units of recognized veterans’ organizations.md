@@ -12,7 +12,7 @@
 
 (b) The Secretary may relieve a unit to which materials are lent under subsection (a), and the surety on its bond, from liability for loss or destruction of the material lent, if there is conclusive evidence that the loss or destruction did not result from negligence.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 262; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 262; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602.)
 
 Historical and Revision Notes
 

@@ -34,9 +34,13 @@ Provisions similar to this section were contained in sections 691 and 691a of th
 
 Section 161 of title I of Pub. L. 102–421 provided that: “The amendments described in this title \[enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, and repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title\] are made upon October 1, 1992, and take effect upon such date.”
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–244, title IX, §911, Oct. 7, 1998, 112 Stat. 1829, provided that: “This part \[part B (§§911–925) of title IX of Pub. L. 105–244, enacting sections 4359b, 4360, and 4360a of this title, amending sections 4304, 4305, 4332, 4351, 4353 to 4355, 4357, 4359, and 4359a of this title, and repealing sections 4358 and 4360 of this title\] may be cited as the ‘Education of the Deaf Amendments of 1998’.”
+
 #### Short Title of 1993 Amendment
 
-Section 201(a) of title II of Pub. L. 103–73 provided that: “This title \[amending this section and sections 4302 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of this title\] may be cited as the ‘Education of the Deaf Act Amendments of 1993’.”
+Section 201(a) of title II of Pub. L. 103–73 provided that: “This title \[amending this section and sections4302 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of this title\] may be cited as the ‘Education of the Deaf Act Amendments of 1993’.”
 
 #### Short Title of 1992 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than December 1 of each fiscal year, the Secretary shall prepare and submit to theCongress a report on the expenditures by the Secretary of amounts appropriated for the preceding fiscal year with respect to acquired immune deficiency syndrome.
+Not later than December 1 of each fiscal year, the Secretary shall prepare and submit to the Congress a report on the expenditures by the Secretary of amounts appropriated for the preceding fiscal year with respect to acquired immune deficiency syndrome.
 
 #### (b) Inclusion of certain information
 
@@ -22,7 +22,7 @@ The report required in subsection (a) of this section shall, with respect to acq
 
 &emsp;(7) any report required in this chapter to be submitted to the Secretary for inclusion in the report required in subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title XXIII, §2301, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3063; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(16), 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXIII, §2301, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063; amended Pub. L. 102–531, title III, §312(d)(16), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Prior Provisions
 
@@ -50,7 +50,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 
 “(3)
 
-Implementation.—Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies.
+Implementation.—Not later than 12 months after the date of the enactment of this Act, the Secretary ofHealth and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies.
 
 “(4)
 
@@ -70,7 +70,7 @@ Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 130
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretary of Health and Human Services to exercise her discretion as follows:
 
-Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the “Secretary”) shall establishan HIV/AIDS Advisory Council (the “Advisory Council” or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the “Secretary”) shall establish an HIV/AIDS Advisory Council (the “Advisory Council” or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 

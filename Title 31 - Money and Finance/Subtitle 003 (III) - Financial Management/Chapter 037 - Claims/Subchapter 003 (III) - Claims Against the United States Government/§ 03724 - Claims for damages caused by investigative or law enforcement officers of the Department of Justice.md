@@ -2,11 +2,9 @@
 
 (a) The Attorney General may settle, for not more than $50,000 in any one case, a claim for personal injury, death, or damage to, or loss of, privately owned property, caused by an investigative or law enforcement officer as defined in section 2680(h) of title 28 who is employed by the Department of Justice acting within the scope of employment that may not be settled under chapter 171 of title 28. An officer or employee of the United States Government may not present a claim arising during the scope of employment. A claim may be allowed only if it is presented to the Attorney General within one year after it accrues.
 
-(b) The Attorney General shall report annually to the Congress on all settlements made under this section. With respect to each such settlement, the Attorney General shall include a brief statement on the type of the claim, the amount claimed, and the amount of the settlement.
+(b) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
 
-(c) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
-
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, §1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, §1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805; Pub. L. 105–362, title X, §1001(c), Nov. 10, 1998, 112 Stat. 3291.)
 
 Historical and Revision Notes
 
@@ -43,6 +41,8 @@ In subsection (b), the word “settlement” is substituted for “amount as may
 In subsection (c), the words “A claim may be paid under this section” are added for clarity. The words “of the settlement” are substituted for “determined to be due him under the provisions of this section” for consistency and to eliminate unnecessary words. The word “complete” is substituted for “full and final” to eliminate unnecessary words. The word “satisfaction” is substituted for “settlement” for clarity.
 
 #### Amendments
+
+1998—Subsecs. (b), (c). Pub. L. 105–362 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Attorney General shall report annually to the Congress on all settlements made under this section. With respect to each such settlement, the Attorney General shall include a brief statement on the type of the claim, the amount claimed, and the amount of the settlement.”
 
 1989—Pub. L. 101–203, §1(b)(1), amended section catchline generally, substituting “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation”.
 

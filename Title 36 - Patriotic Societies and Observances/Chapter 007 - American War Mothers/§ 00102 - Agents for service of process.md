@@ -1,6 +1,0 @@
-### §102. Agents for service of process
-
-As a condition precedent to the exercise of any power or privilege herein granted or conferred the corporation shall file in the office of the secretary of each State the name and post-office address of an authorized agent in such State upon whom local process or demands against American War Mothers may be served.
-
-(Feb. 24, 1925, ch. 303, §12, 43 Stat. 968.)
-

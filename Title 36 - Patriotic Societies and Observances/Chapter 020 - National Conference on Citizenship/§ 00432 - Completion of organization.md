@@ -1,6 +1,0 @@
-### §432. Completion of organization
-
-The persons named in section 431 of this title are authorized to complete the organization of the corporation by the selection of officers and employees, the adoption of regulations and bylaws and the doing of such other acts as may be necessary for such purpose.
-
-(Aug. 13, 1953, ch. 427, §2, 67 Stat. 562.)
-

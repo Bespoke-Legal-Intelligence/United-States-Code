@@ -16,7 +16,7 @@
 
 (2) An officer on active duty or a retired officer serving as Deputy Administrator is entitled to hold a rank and grade not lower than that held when appointed as Deputy Administrator. The Deputy Administrator may elect to receive (A) the pay provided by law for the Deputy Administrator, or (B) the pay and allowances or the retired pay of the military grade held. If the Deputy Administrator elects to receive the military pay and allowances or retired pay, the Administration shall reimburse the appropriate military department from funds available for the expenses of the Administration.
 
-(3) The appointment and service of a member of the armed forces as a Deputy Administrator does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from the status, office, rank, or grade. The Secretary of a military department does not control the member when the member is carrying out duties and powers of the Deputy Administrator.
+(3) The appointment and service of a member of the armed forces as a Deputy Administrator does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from the status, office, rank, or grade. The Secretary of a military department does notcontrol the member when the member is carrying out duties and powers of the Deputy Administrator.
 
 (e) The Administrator and the Deputy Administrator may not have a pecuniary interest in, or own stock in or bonds of, an aeronautical enterprise, or engage in another business, vocation, or employment.
 
@@ -72,7 +72,7 @@ Approval of secretary of transportation.—(i) The Administrator may not issue a
 
 &emsp;&emsp;(iii) Any regulation that does not meet the criteria of clause (i), and any regulation or other action that is a routine or frequent action or a procedural action, may be issued by the Administrator without review or approval by the Secretary.
 
-&emsp;&emsp;(iv) The Administrator shall submit a copy of any regulation requiring approval by the Secretary under clause (i) to the Secretary, who shall either approve it or return it to the Administrator with comments within 45 days after receiving it.
+&emsp;&emsp;(iv) The Administrator shall submit a copy of any regulation requiring approval by the Secretary under clause (i) to the Secretary, who shall either approve it or return it tothe Administrator with comments within 45 days after receiving it.
 
 &emsp;&emsp;(C)
 
@@ -156,7 +156,7 @@ Contracts.—The Administrator is authorized to enter into and perform such cont
 
 (m)
 
-Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transferto or to receive from the Administration, without reimbursement, supplies and equipment other than administrative supplies or equipment.
+Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, supplies and equipment other than administrative supplies or equipment.
 
 (n)
 
@@ -254,7 +254,7 @@ Terms of members.—(i) Except as provided in subparagraph (B), members of the C
 
 &emsp;&emsp;(B)
 
-Chairman; vice chairman.—The Council shall elect a chair and a vice chair fromamong the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
+Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
 
 &emsp;&emsp;(C)
 
@@ -394,7 +394,7 @@ In subsection (d)(1), the words “Nothing in this chapter or other law shall pr
 
 In subsection (d)(2), the word “continue” is omitted as surplus. The words “pay provided by law for the Deputy Administrator” are substituted for “compensation provided for the Deputy Administrator” in 49:1342(b) because the pay provisions were repealed and replaced by 5:5315. The words “(including personal money allowance)” are omitted as being within the meaning of “allowance” in title 37. The words “as the case may be” are omitted as surplus. The words “of the military grade held” are substituted for “military . . . payable to a commissioned officer of his grade and length of service” to eliminate unnecessary words. The words “Administration” and “military” are added for clarity. The words “to defray” are omitted as surplus.
 
-In subsection (d)(3), the words “acceptance of, and” are omitted as unnecessary. The word “held” is substituted for “may occupy or hold” to eliminate unnecessary words. The words “right or benefit” are substituted for “emolument, perquisite, right, privilege, orbenefit” to eliminate unnecessary words. The words “incident to or” before “arising” are omitted as surplus.
+In subsection (d)(3), the words “acceptance of, and” are omitted as unnecessary. The word “held” is substituted for “may occupy or hold” to eliminate unnecessary words. The words “right or benefit” are substituted for “emolument, perquisite, right, privilege, or benefit” to eliminate unnecessary words. The words “incident to or” before “arising” are omitted as surplus.
 
 In subsection (f), the word “Secretary” is substituted for “Administrator” because of the transfer of aviation functions to the Secretary under 49:1655(c)(1). The words “In the exercise of his duties and the discharge of his responsibilities under this chapter” are omitted as surplus.
 
@@ -482,7 +482,7 @@ Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
 Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(3) is effective Oct. 9, 1996.
 
-Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section andsections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate.”
+Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate.”
 
 #### Effective Date of 1996 Amendment
 
@@ -554,7 +554,7 @@ Section 223(b) of title II of Pub. L. 104–264 provided that: “Nothing in thi
 
 #### Personnel Management System for Federal Aviation Administration
 
-Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by Pub. L. 104–122, Mar. 29, 1996, 110 Stat. 876, provided that:
+Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by Pub. L. 104–122, Mar. 29, 1996, 110 Stat. 876; Pub. L. 105–339, §5, Oct. 31, 1998, 112 Stat. 3187, provided that:
 
 “(a) In consultation with the employees of the Federal Aviation Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5, United States Code, and other Federal personnel laws, the Administrator of the Federal Aviation Administration shall develop and implement, not later than January 1, 1996, a personnel management system for the Federal Aviation Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
 
@@ -570,9 +570,11 @@ Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by 
 
 &emsp;“(5) chapter 73, relating to suitability, security, and conduct;
 
-&emsp;“(6) chapter 81, relating to compensation for work injury; and
+&emsp;“(6) chapter 81, relating to compensation for work injury;
 
-&emsp;“(7) chapters 83–85, 87, and 89, relating to retirement, unemployment compensation, and insurance coverage.
+&emsp;“(7) chapters 83–85, 87, and 89, relating to retirement, unemployment compensation, and insurance coverage; and
+
+&emsp;“(8) sections 3501–3504, as such sections relate to veterans’ preference.
 
 “(c) This section shall take effect on April 1, 1996.”
 
@@ -580,85 +582,87 @@ Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by 
 
 Provisions authorizing the expenditure of certain funds appropriated for the Federal Aviation Administration for (1) except as otherwise authorized by title VIII of the Elementary and Secondary Education Act of 1965, see 20 U.S.C. 7701 et seq., expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents, and (2) transportation of said dependents between schools serving the area which they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis, were contained in the following appropriation acts:
 
-Oct. 27, 1997, Pub. L. 105–66, title III, §303, 111 Stat. 1441.
+Pub. L. 105–277, div. A, §101(g) \[title III, §303\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–464.
 
-Sept. 30, 1996, Pub. L. 104–205, title III, §303, 110 Stat. 2968.
+Pub. L. 105–66, title III, §303, Oct. 27, 1997, 111 Stat. 1441.
 
-Nov. 15, 1995, Pub. L. 104–50, title III, §303, 109 Stat. 453.
+Pub. L. 104–205, title III, §303, Sept. 30, 1996, 110 Stat. 2968.
 
-Sept. 30, 1994, Pub. L. 103–331, title III, §303, 108 Stat. 2488.
+Pub. L. 104–50, title III, §303, Nov. 15, 1995, 109 Stat. 453.
 
-Oct. 27, 1993, Pub. L. 103–122, title III, §303, 107 Stat. 1219.
+Pub. L. 103–331, title III, §303, Sept. 30, 1994, 108 Stat. 2488.
 
-Oct. 6, 1992, Pub. L. 102–388, title III, §303, 106 Stat. 1543.
+Pub. L. 103–122, title III, §303, Oct. 27, 1993, 107 Stat. 1219.
 
-Oct. 28, 1991, Pub. L. 102–143, title III, §303, 105 Stat. 939.
+Pub. L. 102–388, title III, §303, Oct. 6, 1992, 106 Stat. 1543.
 
-Nov. 5, 1990, Pub. L. 101–516, title III, §303, 104 Stat. 2178.
+Pub. L. 102–143, title III, §303, Oct. 28, 1991, 105 Stat. 939.
 
-Nov. 21, 1989, Pub. L. 101–164, title III, §303, 103 Stat. 1091.
+Pub. L. 101–516, title III, §303, Nov. 5, 1990, 104 Stat. 2178.
 
-Sept. 30, 1988, Pub. L. 100–457, title III, §303, 102 Stat. 2146.
+Pub. L. 101–164, title III, §303, Nov. 21, 1989, 103 Stat. 1091.
 
-Dec. 22, 1987, Pub. L. 100–202, §101(<i>l</i>) \[title III, §303\], 101 Stat. 1329–358, 1329–377.
+Pub. L. 100–457, title III, §303, Sept. 30, 1988, 102 Stat. 2146.
 
-Oct. 18, 1986, Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title III, §303\], 100 Stat. 1783–308, and Oct. 30, 1986, Pub. L. 99–591, §101(<i>l</i>), 100 Stat. 3341–308.
+Pub. L. 100–202, §101(<i>l</i>) \[title III, §303\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–377.
 
-Dec. 19, 1985, Pub. L. 99–190, §101(e) \[title III, §303\], 99 Stat. 1267, 1284.
+Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title III, §303\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(i) \[title III, §303\], 98 Stat. 1944, 1961.
+Pub. L. 99–190, §101(e) \[title III, §303\], Dec. 19, 1985, 99 Stat. 1267, 1284.
 
-Aug. 15, 1983, Pub. L. 98–78, title III, §303, 97 Stat. 470.
+Pub. L. 98–473, title I, §101(i) \[title III, §303\], Oct. 12, 1984, 98 Stat. 1944, 1961.
 
-Dec. 18, 1982, Pub. L. 97–369, title III, §306, 96 Stat. 1781.
+Pub. L. 98–78, title III, §303, Aug. 15, 1983, 97 Stat. 470.
 
-Dec. 23, 1981, Pub. L. 97–102, title III, §306, 95 Stat. 1458.
+Pub. L. 97–369, title III, §306, Dec. 18, 1982, 96 Stat. 1781.
 
-Oct. 9, 1980, Pub. L. 96–400, title III, §306, 94 Stat. 1695.
+Pub. L. 97–102, title III, §306, Dec. 23, 1981, 95 Stat. 1458.
 
-Nov. 30, 1979, Pub. L. 96–131, title III, §307, 93 Stat. 1037.
+Pub. L. 96–400, title III, §306, Oct. 9, 1980, 94 Stat. 1695.
 
-Aug. 4, 1978, Pub. L. 95–335, title III, §310, 92 Stat. 448.
+Pub. L. 96–131, title III, §307, Nov. 30, 1979, 93 Stat. 1037.
 
-Aug. 2, 1977, Pub. L. 95–85, title III, §310, 91 Stat. 416.
+Pub. L. 95–335, title III, §310, Aug. 4, 1978, 92 Stat. 448.
 
-Aug. 14, 1976, Pub. L. 94–387, title III, §312, 90 Stat. 1185.
+Pub. L. 95–85, title III, §310, Aug. 2, 1977, 91 Stat. 416.
 
-Nov. 24, 1975, Pub. L. 94–134, title III, §310, 89 Stat. 711.
+Pub. L. 94–387, title III, §312, Aug. 14, 1976, 90 Stat. 1185.
 
-Aug. 28, 1974, Pub. L. 93–391, title III, §311, 88 Stat. 780.
+Pub. L. 94–134, title III, §310, Nov. 24, 1975, 89 Stat. 711.
 
-Aug. 16, 1973, Pub. L. 93–98, title III, §313, 87 Stat. 340.
+Pub. L. 93–391, title III, §311, Aug. 28, 1974, 88 Stat. 780.
 
-Aug. 22, 1972, Pub. L. 92–398, title III, §313, 86 Stat. 591.
+Pub. L. 93–98, title III, §313, Aug. 16, 1973, 87 Stat. 340.
 
-Aug. 10, 1971, Pub. L. 92–74, title I, 85 Stat. 203.
+Pub. L. 92–398, title III, §313, Aug. 22, 1972, 86 Stat. 591.
 
-Dec. 26, 1969, Pub. L. 91–168, title I, 83 Stat. 455.
+Pub. L. 92–74, title I, Aug. 10, 1971, 85 Stat. 203.
 
-Aug. 8, 1968, Pub. L. 90–464, title I, 82 Stat. 655.
+Pub. L. 91–168, title I, Dec. 26, 1969, 83 Stat. 455.
 
-Oct. 23, 1967, Pub. L. 90–112, title II, 81 Stat. 312.
+Pub. L. 90–464, title I, Aug. 8, 1968, 82 Stat. 655.
 
-June 29, 1966, Pub. L. 89–474, title I, 80 Stat. 223.
+Pub. L. 90–112, title II, Oct. 23, 1967, 81 Stat. 312.
 
-June 30, 1965, Pub. L. 89–57, title I, 79 Stat. 197.
+Pub. L. 89–474, title I, June 29, 1966, 80 Stat. 223.
 
-Aug. 1, 1964, Pub. L. 88–392, title I, 78 Stat. 369.
+Pub. L. 89–57, title I, June 30, 1965, 79 Stat. 197.
 
-June 13, 1963, Pub. L. 88–39, title I, 77 Stat. 59.
+Pub. L. 88–392, title I, Aug. 1, 1964, 78 Stat. 369.
 
-Aug. 6, 1962, Pub. L. 87–575, title I, 76 Stat. 311.
+Pub. L. 88–39, title I, June 13, 1963, 77 Stat. 59.
 
-Aug. 21, 1961, Pub. L. 87–159, title I, 75 Stat. 395.
+Pub. L. 87–575, title I, Aug. 6, 1962, 76 Stat. 311.
 
-June 30, 1960, Pub. L. 86–561, title I, 74 Stat. 285.
+Pub. L. 87–159, title I, Aug. 21, 1961, 75 Stat. 395.
 
-June 11, 1959, Pub. L. 86–39, title I, 73 Stat. 67.
+Pub. L. 86–561, title I, June 30, 1960, 74 Stat. 285.
 
-Mar. 28, 1958, Pub. L. 85–354, title I, 72 Stat. 63.
+Pub. L. 86–39, title I, June 11, 1959, 73 Stat. 67.
 
-May 27, 1957, Pub. L. 85–37, title I, 71 Stat. 37.
+Pub. L. 85–354, title I, Mar. 28, 1958, 72 Stat. 63.
+
+Pub. L. 85–37, title I, May 27, 1957, 71 Stat. 37.
 
 Apr. 2, 1956, ch. 161, title I, 70 Stat. 94.
 

@@ -2,7 +2,7 @@
 
 #### (a) Federal trust relationship
 
-The Federal trust relationship between the United States and the tribe is hereby restored. The Act of June 18, 1934 (48 Stat. 984), as amended \[25 U.S.C. 461 et seq.\], and all laws and rules of law of the United States of general application to Indians, to nations, tribes, or bands of Indians, or to Indian reservations which are not inconsistent with any specific provision contained in this subchapter shall apply to the members of the tribe, the tribe, and the reservation.
+The Federal trust relationship between the United States and the tribe is hereby restored.The Act of June 18, 1934 (48 Stat. 984), as amended \[25 U.S.C. 461 et seq.\], and all laws and rules of law of the United States of general application to Indians, to nations, tribes, or bands of Indians, or to Indian reservations which are not inconsistent with any specific provision contained in this subchapter shall apply to the members of the tribe, the tribe, and the reservation.
 
 #### (b) Restoration of rights and privileges
 

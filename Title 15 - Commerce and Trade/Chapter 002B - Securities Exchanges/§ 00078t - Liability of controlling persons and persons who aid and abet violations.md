@@ -16,17 +16,19 @@ It shall be unlawful for any director or officer of, or any owner of any securit
 
 Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option, or privilege with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation.
 
-#### (f) <sup>1</sup> Prosecution of persons who aid and abet violations
+#### (e) Prosecution of persons who aid and abet violations
 
 For purposes of any action brought by the Commission under paragraph (1) or (3) of section 78u(d) of this title, any person that knowingly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
 
-(June 6, 1934, ch. 404, title I, §20, 48 Stat. 899; May 27, 1936, ch. 462, §6, 49 Stat. 1379; Aug. 20, 1964, Pub. L. 88–467, §9, 78 Stat. 579; Aug. 10, 1984, Pub. L. 98–376, §5, 98 Stat. 1265; Dec. 22, 1995, Pub. L. 104–67, title I, §104, 109 Stat. 757.)
+(June 6, 1934, ch. 404, title I, §20, 48 Stat. 899; May 27, 1936, ch. 462, §6, 49 Stat. 1379; Pub. L. 88–467, §9, Aug. 20, 1964, 78 Stat. 579; Pub. L. 98–376, §5, Aug. 10, 1984, 98 Stat. 1265; Pub. L. 104–67, title I, §104, Dec. 22, 1995, 109 Stat. 757; Pub. L. 105–353, title III, §301(b)(12), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 #### Amendments
+
+1998—Subsecs. (e), (f). Pub. L. 105–353 redesignated subsec. (f) as (e).
 
 1995—Pub. L. 104–67, §104(1), substituted “liability of controlling persons and persons who aid and abet violations” for “Liabilities of controlling persons” in section catchline.
 
@@ -69,6 +71,4 @@ Liability of controlling persons under—
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 78t–1, 78u–1, 78kkk of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(e)”.</i>
 

@@ -60,7 +60,7 @@ The Corporate Board shall consist of 11 members as follows:
 
 #### (B) Reasons
 
-&emsp;&emsp;In the case of any violation and referral of a funding decision to the Corporate Board,the Secretary shall inform the Corporate Board of the reasons for any remand pursuant to subparagraph (A).
+&emsp;&emsp;In the case of any violation and referral of a funding decision to the Corporate Board, the Secretary shall inform the Corporate Board of the reasons for any remand pursuant to subparagraph (A).
 
 #### (d) Chairperson
 
@@ -128,7 +128,7 @@ A member of the Corporate Board who is an officer or employee of the United Stat
 
 #### (2) Prohibition on delegation
 
-&emsp;Notwithstanding any other law, the Secretary and any other officer or employee ofthe United States shall not make any delegation to the Corporate Board, the Chairperson, the Executive Director, or the Corporation of any power, function, or authority not expressly authorized by this subchapter, unless the delegation is made pursuant to an authority in law that expressly makes reference to this section.
+&emsp;Notwithstanding any other law, the Secretary and any other officer or employee of the United States shall not make any delegation to the Corporate Board, the Chairperson, the Executive Director, or the Corporation of any power, function, or authority not expressly authorized by this subchapter, unless the delegation is made pursuant to an authority in law that expressly makes reference to this section.
 
 #### (3) Reorganization act
 

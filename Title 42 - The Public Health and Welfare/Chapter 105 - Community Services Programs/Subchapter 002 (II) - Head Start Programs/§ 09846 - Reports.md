@@ -1,6 +1,8 @@
 ### §9846. Reports
 
-At least once during every 2-year period, the Secretary shall prepare and submit, to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the status of children (including disabled and non-English language background children) in Head Start programs, including the number of children and the services being provided to such children. Such report shall include—
+#### (a) Status of children
+
+At least once during every 2-year period, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the status of children (including disabled and non-English language background children) in Head Start programs, including the number of children and the services being provided to such children. Such report shall include—
 
 &emsp;(1) a statement for the then most recently concluded fiscal year specifying—
 
@@ -46,15 +48,21 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(14) a study of the delivery of Head Start programs to Indian children living on and near Indian reservations, to children of Alaskan Natives, and to children of migrant and seasonal farmworkers.
 
-> Promptly after submitting such report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
+> Promptly after submitting such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
 
-(Pub. L. 97–35, title VI, §650, formerly §651, Aug. 13, 1981, 95 Stat. 506; Pub. L. 98–558, title I, §108, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §§118, 119, Nov. 3, 1990, 104 Stat. 1234; Pub. L. 102–401, §2(k)(5), Oct. 7, 1992, 106 Stat. 1959; renumbered §650 and amended Pub. L. 103–252, title I, §118, May 18, 1994, 108 Stat. 648.)
+#### (b) Facilities
+
+At least once during every 5-year period, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the condition, location, and ownership of facilities used, or available to be used, by Indian Head Start agencies (including Native Alaskan Head Start agencies) and Native Hawaiian Head Start agencies.
+
+(Pub. L. 97–35, title VI, §650, formerly §651, Aug. 13, 1981, 95 Stat. 506; Pub. L. 98–558, title I, §108, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §§118, 119, Nov. 3, 1990, 104 Stat. 1234; Pub. L. 102–401, §2(k)(5), Oct. 7, 1992, 106 Stat. 1959; renumbered §650 and amended Pub. L. 103–252, title I, §118, May 18, 1994, 108 Stat. 648; Pub. L. 105–285, title I, §117, Oct. 27, 1998, 112 Stat. 2727.)
 
 #### References in Text
 
-The Social Security Act, referred to in par. (8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+1998—Pub. L. 105–285 designated existing provisions as subsec. (a), inserted heading, substituted “Education and the Workforce” for “Education and Labor” in introductory and concluding provisions, and added subsec. (b).
 
 1994—Pub. L. 103–252, §118(a)(1), substituted “Reports” for “Evaluation” in section catchline.
 
@@ -70,10 +78,6 @@ Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
 
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
-
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
@@ -88,5 +92,5 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9836a of this title; title 20 section 6312.
+This section is referred to in title 20 section 6312.
 

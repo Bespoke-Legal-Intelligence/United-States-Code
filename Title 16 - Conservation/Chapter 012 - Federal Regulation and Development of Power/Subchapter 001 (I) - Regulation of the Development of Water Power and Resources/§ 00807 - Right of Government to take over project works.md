@@ -8,7 +8,7 @@ Upon not less than two years’ notice in writing from the commission the United
 
 In any relicensing proceeding before the Commission any Federal department or agency may timely recommend, pursuant to such rules as the Commission shall prescribe, that the United States exercise its right to take over any project or projects. Thereafter, the Commission, if its <sup>1</sup> does not itself recommend such action pursuant to the provisions of section 800(c) of this title, shall upon motion of such department or agency stay the effective date of any order issuing a license, except an order issuing an annual license in accordance with the proviso of section 808(a) of this title, for two years after the date of issuance of such order, after which period the stay shall terminate, unless terminated earlier upon motion of the department or agency requesting the stay or by action of Congress. The Commission shall notify the Congress of any stay granted pursuant to this subsection.
 
-(June 10, 1920, ch. 285, pt. I, §14, 41 Stat. 1071; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§207, 212, 49 Stat. 844, 847; Aug. 3, 1968, Pub. L. 90–451, §2, 82 Stat. 617; Oct. 16, 1986, Pub. L. 99–495, §4(b)(2), 100 Stat. 1248.)
+(June 10, 1920, ch. 285, pt. I, §14, 41 Stat. 1071; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§207, 212, 49 Stat. 844, 847; Pub. L. 90–451, §2, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, §4(b)(2), Oct. 16, 1986, 100 Stat. 1248.)
 
 #### Amendments
 

@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) an identification of technical, financial, or other assistance that the State will provide to assist in addressing the drinking water contaminants that may be addressed by a petition based on—
 
-&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petitionwith respect to the other water quality needs identified by the State;
+&emsp;&emsp;&emsp;(i) the relative priority of the public health concern identified in the petition with respect to the other water quality needs identified by the State;
 
 &emsp;&emsp;&emsp;(ii) any necessary coordination that the State will perform of the program established under this section with programs implemented or planned by other States under this section; and
 
@@ -160,11 +160,11 @@ Nothing in this section—
 
 &emsp;(2) precludes a community water system, municipal or local government, or political subdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
 
-(July 1, 1944, ch. 373, title XIV, §1454, as added Aug. 6, 1996, Pub. L. 104–182, title I, §133(a), 110 Stat. 1675.)
+(July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110 Stat. 1675.)
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18,1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 

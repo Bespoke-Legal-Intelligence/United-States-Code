@@ -12,3 +12,7 @@ Section is based on House Resolution No. 291, June 18, 1963, which was enacted i
 
 1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund” and substituted “House Oversight” for “House Administration” in two places.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

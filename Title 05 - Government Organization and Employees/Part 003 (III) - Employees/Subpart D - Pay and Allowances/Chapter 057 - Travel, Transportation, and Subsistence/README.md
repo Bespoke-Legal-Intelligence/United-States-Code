@@ -12,10 +12,12 @@
 | [5706\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005706%20-%20Allowable%20travel%20expenses.md) | Allowable travel expenses. |
 | [5706a.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005706a%20-%20Subsistence%20and%20travel%20expenses%20for%20threatened%20law%20enforcement%20personnel.md) | Subsistence and travel expenses for threatened law enforcement personnel. |
 | [5706b.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005706b%20-%20Interview%20expenses.md) | Interview expenses. |
+| [5706c.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005706c%20-%20Reimbursement%20for%20taxes%20incurred%20on%20money%20received%20for%20travel%20expenses.md) | Reimbursement for taxes incurred on money received for travel expenses. |
 | [5707\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005707%20-%20Regulations%20and%20reports.md) | Regulations and reports. |
 | [5707a.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005707a%20-%20Adherence%20to%20fire%20safety%20guidelines%20in%20establishing%20rates%20and%20discounts%20for%20lodging%20expenses.md) | Adherence to fire safety guidelines in establishing rates and discounts for lodging expenses. |
 | [5708\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005708%20-%20Effect%20on%20other%20statutes.md) | Effect on other statutes. |
 | [5709\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005709%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md) | Air evacuation patients: furnished subsistence. |
+| [5710\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005710%20-%20Authority%20for%20travel%20expenses%20test%20programs.md) | Authority for travel expenses test programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,6 +46,7 @@
 | [5736\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005736%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20certain%20nonappropriated%20fund%20employees.md) | Travel, transportation, and relocation expenses of certain nonappropriated fund employees. |
 | [5737\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005737%20-%20Relocation%20expenses%20of%20an%20employee%20who%20is%20performing%20an%20extended%20assignment.md) | Relocation expenses of an employee who is performing an extended assignment. |
 | [5738\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005738%20-%20Regulations.md) | Regulations. |
+| [5739\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005739%20-%20Authority%20for%20relocation%20expenses%20test%20programs.md) | Authority for relocation expenses test programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -70,6 +73,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–264, §§4(b), 5(c), Oct. 19, 1998, 112 Stat. 2354, 2355, added items 5706c, 5710, and 5739.
 
 1996—Pub. L. 104–201, div. A, title XVI, §1605(a)(2), title XVII, §1723(c), Sept. 23, 1996, 110 Stat. 2736, 2759, added items 5736 to 5738 and 5756.
 
@@ -99,7 +104,7 @@ Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3396, 5307 of this title; title 14 section 193; title 18 section 3168; title 22 sections 3664, 3671; title 26 section 7471; title 42 section 5816; title 49 section 106.
+This chapter is referred to in sections 3396, 5307 of this title; title 14 section 193; title 18 section 3168; title 22 section 3671; title 26 section 7471; title 42 section 5816; title 49 section 106.
 
 
 ---

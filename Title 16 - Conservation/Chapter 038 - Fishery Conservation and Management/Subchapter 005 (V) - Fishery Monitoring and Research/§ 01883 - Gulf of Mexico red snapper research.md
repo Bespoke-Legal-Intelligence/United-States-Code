@@ -22,7 +22,7 @@
 
 #### (b) Prohibition
 
-In addition to the restrictions under section 1853(d)(1)(A) of this title, the Gulf Council may not, prior to October 1, 2000, undertake or continue the preparation of any fishery management plan, plan amendment or regulation under this chapter for the Gulf of Mexico commercial red snapper fishery that creates an individual fishing quota program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class.
+In addition to the restrictions under section 1853(d)(1)(A) of this title, the Gulf Council maynot, prior to October 1, 2000, undertake or continue the preparation of any fishery management plan, plan amendment or regulation under this chapter for the Gulf of Mexico commercial red snapper fishery that creates an individual fishing quota program or that authorizes the consolidation of licenses, permits, or endorsements that result in different trip limits for vessels in the same class.
 
 #### (c) Referendum
 

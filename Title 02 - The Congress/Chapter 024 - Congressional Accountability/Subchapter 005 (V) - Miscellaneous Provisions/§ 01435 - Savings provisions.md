@@ -42,6 +42,8 @@ With respect to matters other than employment under section 12209 of title 42, t
 
 For the effective dates of sections 1311, 1312, and 1331 of this title, referred to in text, see sections 1311(d), 1312(e), and 1331(h), respectively, of this title.
 
+Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)(1), (2), was repealed by H. Res. No. 5, §23(a), One Hundred Fifth Congress, Jan. 7, 1997.
+
 The Family and Medical Leave Act of 1993, referred to in subsec. (a)(1), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title V of the Act was classified generally to sections 60m and 60n of this title prior to repeal, except as provided by this section, by Pub. L. 104–1, title V, §504(b), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29, Labor, and Tables.
 
 The Government Employees Rights Act of 1991, referred to in subsec. (a)(1), (2), probably means the Government Employee Rights Act of 1991, which is title III of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1088, as amended, and is classified generally to chapter 23 (§1201 et seq.) of this title. Sections 305 and 307 of the Act were classified to sections 1205 and 1207, respectively, of this title prior to repeal, except as provided in this section, by Pub. L. 104–1, title V, §504(a)(2), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see section 1201(a) of this title and Tables.

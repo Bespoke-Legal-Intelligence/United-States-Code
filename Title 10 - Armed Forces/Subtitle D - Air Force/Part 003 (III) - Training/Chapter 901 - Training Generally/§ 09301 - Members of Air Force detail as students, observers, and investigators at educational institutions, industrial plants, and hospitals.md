@@ -10,11 +10,11 @@
 
 (e) The total length of details of an enlisted member of the Air Force under subsection (a) during one enlistment period may not exceed 50 percent of that enlistment.
 
-(f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actualstrength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
+(f) At no time may more than 8 percent of the authorized strength in commissioned officers, 8percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 
 (g) Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 559; Nov. 29, 1973, Pub. L. 93–169, 87 Stat. 689; Dec. 12, 1980, Pub. L. 96–513, title V, §504(23), 94 Stat. 2917; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 559; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §504(23), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

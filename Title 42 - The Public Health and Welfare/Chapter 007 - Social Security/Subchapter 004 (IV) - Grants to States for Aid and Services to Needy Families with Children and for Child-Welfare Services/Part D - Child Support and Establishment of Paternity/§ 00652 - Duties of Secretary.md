@@ -76,13 +76,11 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;(G) data, by State, on use of the Internal Revenue Service for collections, the number of court orders on which collections were made, the number of paternity determinations made and the number of parents located, in sufficient detail to show the cost and benefits to the States and to the Federal Government;
 
-&emsp;&emsp;(H) the major problems encountered which have delayed or prevented implementation of the provisions of this part during the fiscal year last ending prior to the submission of such report;
+&emsp;&emsp;(H) the major problems encountered which have delayed or prevented implementation of the provisions of this part during the fiscal year last ending prior to the submission of such report; and
 
-&emsp;&emsp;(I) the amount of administrative costs which are expended in each functional category of expenditures, including establishment of paternity; and
+&emsp;&emsp;(I) compliance, by State, with the standards established pursuant to subsections (h) and (i) of this section; and
 
-&emsp;&emsp;(J) compliance, by State, with the standards established pursuant to subsections (h) and (i) of this section; and
-
-&emsp;(11) not later than October 1, 1996, after consulting with the State directors of programsunder this part, promulgate forms to be used by States in interstate cases for—
+&emsp;(11) not later than October 1, 1996, after consulting with the State directors of programs under this part, promulgate forms to be used by States in interstate cases for—
 
 &emsp;&emsp;(A) collection of child support through income withholding;
 
@@ -120,13 +118,35 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 (B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
 
-(3) The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title with respect to a State if—
+(3) The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title, and shall waive the single statewide system requirement under sections 654(16) and 654a of this title, with respect to a State if—
 
-&emsp;(A) the State demonstrates to the satisfaction of the Secretary that the State has an alternative system or systems that enable the State, for purposes of section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined under subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and
+&emsp;(A) the State demonstrates to the satisfaction of the Secretary that the State has or can develop an alternative system or systems that enable the State—
 
-&emsp;(B)(i) the waiver meets the criteria of paragraphs (1), (2), and (3) of section 1315(b) of this title, or
+&emsp;&emsp;(i) for purposes of section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined in subsection (g)(2) of this section) and other performance measures that may be established by the Secretary;
 
-&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwise improve the State's child support enforcement program.
+&emsp;&emsp;(ii) to submit data under section 654(15)(B) of this title that is complete and reliable;
+
+&emsp;&emsp;(iii) to substantially comply with the requirements of this part; and
+
+&emsp;&emsp;(iv) in the case of a request to waive the single statewide system requirement, to—
+
+&emsp;&emsp;&emsp;(I) meet all functional requirements of sections 654(16) and 654a of this title;
+
+&emsp;&emsp;&emsp;(II) ensure that calculation of distributions meets the requirements of section 657 of this title and accounts for distributions to children in different families or in different States or sub-State jurisdictions, and for distributions to other States;
+
+&emsp;&emsp;&emsp;(III) ensure that there is only one point of contact in the State which provides seamless case processing for all interstate case processing and coordinated, automated intrastate case management;
+
+&emsp;&emsp;&emsp;(IV) ensure that standardized data elements, forms, and definitions are used throughout the State;
+
+&emsp;&emsp;&emsp;(V) complete the alternative system in no more time than it would take to complete a single statewide system that meets such requirement; and
+
+&emsp;&emsp;&emsp;(VI) process child support cases as quickly, efficiently, and effectively as such cases would be processed through a single statewide system that meets such requirement;
+
+&emsp;(B)(i) the waiver meets the criteria of paragraphs (1), (2), and (3) of section 1315(c) of this title; or
+
+&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwise improve the State's child support enforcement program; and
+
+&emsp;(C) in the case of a request to waive the single statewide system requirement, the State has submitted to the Secretary separate estimates of the total cost of a single statewide system that meets such requirement, and of any such alternative system or systems, which shall include estimates of the cost of developing and completing the system and of operating and maintaining the system for 5 years, and the Secretary has agreed with the estimates.
 
 #### (e) Technical assistance to States
 
@@ -184,7 +204,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 #### (h) Prompt State response to requests for child support assistance
 
-The standards required by subsection (a)(1) of this section shall include standards establishingtime limits governing the period or periods within which a State must accept and respond to requests (from States, jurisdictions thereof, or individuals who apply for services furnished by the State agency under this part or with respect to whom an assignment pursuant to section 608(a)(3) of this title is in effect) for assistance in establishing and enforcing support orders, including requests to locate noncustodial parents, establish paternity, and initiate proceedings to establish and collect child support awards.
+The standards required by subsection (a)(1) of this section shall include standards establishing time limits governing the period or periods within which a State must accept and respond to requests (from States, jurisdictions thereof, or individuals who apply for services furnished by the State agency under this part or with respect to whom an assignment pursuant to section 608(a)(3) of this title is in effect) for assistance in establishing and enforcing support orders, including requests to locate noncustodial parents, establish paternity, and initiate proceedings to establish and collect child support awards.
 
 #### (i) Prompt State distribution of amounts collected as child support
 
@@ -208,7 +228,15 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 (3) The Secretary and the Secretary of State shall not be liable to an individual for any action with respect to a certification by a State agency under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §452, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2351; amended May 23, 1977, Pub. L. 95–30, title V, §504(a), 91 Stat. 163; June 9, 1980, Pub. L. 96–265, title IV, §§402(a), 405(c), (d), 94 Stat. 462, 464, 465; June 17, 1980, Pub. L. 96–272, title III, §301(b), 94 Stat. 527; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2332(b), 95 Stat. 861; Sept. 3, 1982, Pub. L. 97–248, title I, §175(a)(1), 96 Stat. 403; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), 98 Stat. 1166, 1170; Aug. 16, 1984, Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, 98 Stat. 1312, 1316, 1319, 1321; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Dec. 22, 1987, Pub. L. 100–203, title IX, §9143(a), 101 Stat. 1330–322; Oct. 13, 1988, Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), 102 Stat. 2348, 2351–2353; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(B)(i), 103 Stat. 2487; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13721(a), 107 Stat. 658; Oct. 31, 1994, Pub. L. 103–432, title II, §213, 108 Stat. 4461; Oct. 12, 1995, Pub. L. 104–35, §1(b), 109 Stat. 294; Aug. 22, 1996, Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], 110 Stat. 3009–233, 3009–255; Aug. 5, 1997, Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), 111 Stat. 619, 630, 637.)
+#### (<i>l</i>) Facilitation of agreements between State agencies and financial institutions
+
+The Secretary, through the Federal Parent Locator Service, may aid State agencies providing services under State programs operated pursuant to this part and financial institutions doing business in two or more States in reaching agreements regarding the receipt from such institutions, and the transfer to the State agencies, of information that may be provided pursuant to section 666(a)(17)(A)(i) of this title, except that any State that, as of July 16, 1998, is conducting data matches pursuant to section 666(a)(17)(A)(i) of this title shall have until January 1, 2000, to allow the Secretary to obtain such information from such institutions that are operating in the State. For purposes of section 3413(d) of title 12, a disclosure pursuant to this subsection shall be considered a disclosure pursuant to a Federal statute.
+
+(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii),July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 105–200, title IV, §401(c)(2), (3), July 16, 1998, 112 Stat. 662, as amended by Pub. L. 105–306, §4(b)(1), Oct. 28, 1998, 112 Stat. 2927, provided that, effective with respect to periods beginning on or after the later of Oct. 1, 2001, or the effective date of laws enacted by the legislature of such State implementing amendments by section 401(c) of Pub. L. 105–200, but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after Oct. 1, 2001, subsection (f) of this section is amended in the first sentence by striking “petition for the inclusion of” and inserting “include” and by inserting “and enforce medical support” before “whenever”.</i>
 
 #### References in Text
 
@@ -217,6 +245,20 @@ Parts A and E of this subchapter, referred to in subsecs. (a)(10), (b), and (g)(
 The Internal Revenue Code of 1986, referred to in subsec. (b), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1998—Subsec. (a)(10)(H) to (J). Pub. L. 105–200, §407(b), inserted “and” at end of subpar. (H), redesignated subpar. (J) as (I), and struck out former subpar. (I) which read as follows: “the amount of administrative costs which are expended in each functional category of expenditures, including establishment of paternity; and”.
+
+Subsec. (d)(3). Pub. L. 105–200, §102(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title with respect to a State if—
+
+&emsp;“(A) the State demonstrates to the satisfaction of the Secretary that the State has an alternative system or systems that enable the State, for purposes of section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined under subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and
+
+&emsp;“(B)(i) the waiver meets the criteria of paragraphs (1), (2), and (3) of section 1315(b) of this title, or
+
+&emsp;“(ii) the State provides assurances to the Secretary that steps will be taken to otherwise improve the State's child support enforcement program.”
+
+Subsec. (g). Pub. L. 105–200, §201(e)(1)(A), amended Pub. L. 104–193, §341. See 1996 Amendment notes below.
+
+Subsec. (<i>l</i>). Pub. L. 105–200, §406(b), added subsec. (<i>l</i>).
 
 1997—Subsec. (d)(3)(A). Pub. L. 105–33, §5513(a)(1)(A), substituted “section 609(a)(8) of this title, to achieve the paternity establishment percentages (as defined under subsection (g)(2) of this section) and other performance measures that may be established by the Secretary, and to submit data under section 654(15)(B) of this title that is complete and reliable, and to substantially comply with the requirements of this part; and” for “section 603(h) of this title, to be in substantial compliance with other requirements of this part; and”.
 
@@ -232,7 +274,7 @@ Pub. L. 105–33, §5541(a), substituted “which shall be available for use by 
 
 1996—Subsec. (a)(1). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial” for “absent” in two places.
 
-Subsec. (a)(4). Pub. L. 104–193, §342(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “evaluate the implementation of State programsestablished pursuant to such plan, conduct such audits of State programs established under the plan approved under this part as may be necessary to assure their conformity with the requirements of this part, and, not less often than once every three years (or not less often than annually in the case of any State to which a reduction is being applied under section 603(h)(1) of this title, or which is operating under a corrective action plan in accordance with section 603(h)(2) of this title), conduct a complete audit of the programs established under such plan in each State and determine for the purposes of the penalty provision of section 603(h) of this title whether the actual operation of such programs in each State conforms to the requirements of this part;”.
+Subsec. (a)(4). Pub. L. 104–193, §342(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “evaluate the implementation of State programs established pursuant to such plan, conduct such audits of State programs established under the plan approved under this part as may be necessary to assure their conformity with the requirements of this part, and, not less often than once every three years (or not less often than annually in the case of any State to which a reduction is being applied under section 603(h)(1) of this title, or which is operating under a corrective action plan in accordance with section 603(h)(2) of this title), conduct a complete audit of the programs established under such plan in each State and determine for the purposes of the penalty provision of section 603(h) of this title whether the actual operation of such programs in each State conforms to the requirements of this part;”.
 
 Subsec. (a)(5). Pub. L. 104–193, §343(a), inserted before semicolon at end “, and establish procedures to be followed by States for collecting and reporting information required to be provided under this part, and establish uniform definitions (including those necessary to enable the measurement of State compliance with the requirements of this part relating to expedited processes) to be applied in following such procedures”.
 
@@ -242,7 +284,7 @@ Subsec. (a)(8). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial�
 
 Subsec. (a)(9). Pub. L. 104–193, §316(e)(1), inserted “Federal” before “Parent”.
 
-Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: “The information contained in any such report under subparagraph (A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishing such services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals to assure that they did not require assistance under the State plan approved under part A of this subchapter.”
+Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: “The information contained in any such report under subparagraph (A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishingsuch services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals to assure that they did not require assistance under the State plan approved under part A of this subchapter.”
 
 Subsec. (a)(10)(A). Pub. L. 104–193, §346(a)(1)(A), substituted “this part, including—” for “this part;”.
 
@@ -278,15 +320,15 @@ Subsec. (d)(3)(B)(i). Pub. L. 104–193, §108(c)(5), substituted “1315(b)” 
 
 Subsec. (f). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial” for “absent”.
 
-Subsec. (g)(1). Pub. L. 104–193, §341(c)(2)(B), inserted as closing provisions “In determining compliance under this section, a State may use as its paternity establishment percentage either the State's IV–D paternity establishment percentage (as defined in paragraph (2)(A)) or the State's statewide paternity establishment percentage (as defined in paragraph (2)(B)).”
+Subsec. (g)(1). Pub. L. 104–193, §341(b)(2)(B), formerly §341(c)(2)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), inserted as closing provisions “In determining compliance under this section, a State may use as its paternity establishment percentage either the State's IV–D paternity establishment percentage (as defined in paragraph (2)(A)) or the State's statewide paternity establishment percentage (as defined in paragraph (2)(B)).”
 
-Subsec. (g)(1)(A). Pub. L. 104–193, §341(c)(1), substituted “90” for “75”.
+Subsec. (g)(1)(A). Pub. L. 104–193, §341(b)(1), formerly §341(c)(1), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted “90” for “75”.
 
-Subsec. (g)(1)(B) to (F). Pub. L. 104–193, §341(c)(2)(A), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
+Subsec. (g)(1)(B) to (F). Pub. L. 104–193, §341(b)(2)(A), formerly §341(c)(2)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
 Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted “with respect to whom assistance is being provided under the State program funded under part A of this subchapter” for “who is a dependent child” and “found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title” for “found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so”.
 
-Subsec. (g)(2)(A). Pub. L. 104–193, §341(c)(3)(A), in introductory provisions, substituted “ ‘IV–D paternity establishment percentage’ ” for “ ‘paternity establishment percentage’ ” and struck out “(or all States, as the case may be)” after “with respect to a State”, and, in closing provisions, struck out “and” at end.
+Subsec. (g)(2)(A). Pub. L. 104–193, §341(b)(3)(A), formerly §341(c)(3)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), in introductory provisions, substituted “ ‘IV–D paternity establishment percentage’ ” for “ ‘paternity establishment percentage’ ” and struck out “(or all States, as the case may be)” after “with respect to a State”, and, in closing provisions, struck out “and” at end.
 
 Pub. L. 104–193, §301(c)(2), substituted “654(4)(A)(ii)” for “654(6)” in cl. (ii)(I) and in closing provisions.
 
@@ -294,13 +336,13 @@ Pub. L. 104–193, §108(c)(7), in concluding provisions, substituted “assista
 
 Subsec. (g)(2)(A)(ii)(I). Pub. L. 104–193, §108(c)(6), substituted “assistance is being provided under the State program funded under part A” for “aid is being paid under the State's plan approved under part A or E”.
 
-Subsec. (g)(2)(B), (C). Pub. L. 104–193, §341(c)(3)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (g)(2)(B), (C). Pub. L. 104–193, §341(b)(3)(B), formerly §341(c)(3)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (g)(3)(A). Pub. L. 104–193, §341(c)(4)(B), substituted “the percentage of children in a State who are born out of wedlock or for whom support has not been established” for “the percentage of children born out-of-wedlock in a State”.
+Subsec. (g)(3)(A). Pub. L. 104–193, §341(b)(4)(B), formerly §341(c)(4)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted “the percentage of children in a State who are born out of wedlock or for whom support has not been established” for “the percentage of children born out-of-wedlock in a State”.
 
-Pub. L. 104–193, §341(c)(4)(A), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The requirements of this subsection are in addition to and shall not supplant any other requirement\(that is not inconsistent with such requirements) established in regulations by the Secretary for the purpose of determining (for purposes of section 603(h) of this title) whether the program of a State operated under this part shall be treated as complying substantially with the requirements of this part.”
+Pub. L. 104–193, §341(b)(4)(A), formerly §341(c)(4)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The requirements of this subsection are in addition to and shall not supplant any other requirement (that is not inconsistent with such requirements) established in regulations by the Secretary for the purpose of determining (for purposes of section 603(h) of this title) whether the program of a State operated under this part shall be treated as complying substantially with the requirements of this part.”
 
-Subsec. (g)(3)(B), (C). Pub. L. 104–193, §341(c)(4)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively.
+Subsec. (g)(3)(B), (C). Pub. L. 104–193, §341(b)(4)(A), formerly §341(c)(4)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively.
 
 Subsec. (h). Pub. L. 104–193, §395(d)(1)(B), substituted “noncustodial” for “absent”.
 
@@ -384,7 +426,7 @@ Subsec. (a)(7). Pub. L. 97–35, §2332(b)(1)(B), substituted “child and spous
 
 Subsec. (a)(10)(C). Pub. L. 97–35, §2332(b)(1)(C), inserted “(with separate identification of the number in which collection of spousal support was involved)”.
 
-Subsec. (b). Pub. L. 97–35, §2332(b)(2), inserted “, including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter,” and provision that all reimbursements be credited to the appropriation accounts which bore all or part of the costs involved in making the collections and substituting “court or administrative order” for “court order” and “reimburse the Secretary of the Treasury” for “reimburse the United States”.
+Subsec. (b). Pub. L. 97–35, §2332(b)(2), inserted “, including any support obligation with respect to theparent who is living with the child and receiving aid under the State plan approved under part A of this subchapter,” and provision that all reimbursements be credited to the appropriation accounts which bore all or part of the costs involved in making the collections and substituting “court or administrative order” for “court order” and “reimburse the Secretary of the Treasury” for “reimburse the United States”.
 
 1980—Subsec. (a)(10). Pub. L. 96–272 inserted provisions following subpar. (H) setting out certain required information to be contained in reports under subpar. (A).
 
@@ -393,6 +435,22 @@ Subsec. (b). Pub. L. 96–265, §402(a), inserted “(or undertaken to be collec
 Subsecs. (d), (e). Pub. L. 96–265, §405(c), (d), added subsecs. (d) and (e).
 
 1977—Subsec. (a)(10). Pub. L. 95–30 substituted “not later than three months after the end of each fiscal year, beginning with the year 1977, submit to the Congress a full and complete report on all activities undertaken pursuant to the provisions of this part, which report shall include, but not be limited to, the following” for “not later than June 30 of each year beginning after December 31, 1975, submit to the Congress a report on all activities undertaken pursuant to the provisions of this part”, substituted a colon for a period at end of provisions thus substituted, and added subpars. (A) to (H).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–200, title II, §201(e)(2), July 16, 1998, 112 Stat. 657, provided that: “The amendments made by this subsection \[amending this section and section 658 of this title, amending provisions set out as notes under this section and section 658 of this title, and repealing provisions set out as a note under section 658 of this title\] shall take effect as if included in the enactment of section 341 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+
+Pub. L. 105–200, title IV, §401(c)(3), July 16, 1998, 112 Stat. 662, as amended by Pub. L. 105–306, §4(b)(1), Oct. 28, 1998, 112 Stat. 2927, provided that: “The amendments made by this subsection \[amending this section and section 666 of this title\] shall be effective with respect to periods beginning on or after the later of—
+
+&emsp;“(A) October 1, 2001; or
+
+&emsp;“(B) the effective date of laws enacted by the legislature of such State implementing such amendments,
+
+> but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date specified in subparagraph (A). For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+
+\[Pub. L. 105–306, §4(b)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: “The amendment made by paragraph (1) of this subsection \[amending section 401(c)(3) of Pub. L. 105–200, set out above\] shall take effect as if included in the enactment of section 401(c)(3) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200\].”\]
+
+Pub. L. 105–200, title IV, §407(c), July 16, 1998, 112 Stat. 672, provided that: “The amendments made by this section \[amending this section and section 669 of this title\] shall apply to information maintained with respect to fiscal year 1995 or any succeeding fiscal year.”
 
 #### Effective Date of 1997 Amendment
 
@@ -406,7 +464,7 @@ Section 101(e) \[title II, §215\] of div. A of Pub. L. 104–208, as amended by
 
 Amendment by section 108(c)(2)–(9) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
-Section 341(d)(2) of Pub. L. 104–193 provided that: “The amendments made by subsection (c) \[amending this section\] shall become effective with respect to calendar quarters beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title III, §341(c)(2), formerly §341(d)(2), Aug. 22, 1996, 110 Stat. 2233, as redesignated and amended by Pub. L. 105–200, title II, §201(e)(1)(A), (B)(ii), July 16, 1998, 112 Stat. 657, provided that: “The amendments made by subsection (b) \[amending this section\] shall become effective with respect to calendar quarters beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
 Section 342(c) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and section 654 of this title\] shall be effective with respect to calendar quarters beginning 12 months or more after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
@@ -488,7 +546,7 @@ Section 504(c) of Pub. L. 95–30 directed Secretary of Health, Education, and W
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 609, 653, 654, 654a, 660, 666 of this title; title 26 section 6305.
+This section is referred to in sections 609, 653, 654, 654a, 655, 658a, 660, 666 of this title; title 26 section 6305.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

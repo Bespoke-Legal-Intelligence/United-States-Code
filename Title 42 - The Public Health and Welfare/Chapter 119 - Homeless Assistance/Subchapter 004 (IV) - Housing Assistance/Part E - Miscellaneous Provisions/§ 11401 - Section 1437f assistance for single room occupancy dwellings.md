@@ -6,7 +6,7 @@ The budget authority available under section 1437c(c) of this title for assistan
 
 #### (b) Use of funds
 
-The amounts made available under this section shall be used only in connection with the moderate rehabilitation of housing described in section 1437f(n) of this title for occupancy by homeless individuals, except that amounts made available under this section may be used in connection with the moderate rehabilitation of efficiency units if the building owner agrees to pay the additional cost of rehabilitating and operating such units.,<sup>2</sup> and except that the Secretary may provide amounts available under this section to private nonprofit organizations that submit applications for such assistance that are approved by the Secretary.
+The amounts made available under this section shall be used only in connection with the moderate rehabilitation of housing described in section 1437f(n) <sup>1</sup> of this title for occupancy by homeless individuals, except that amounts made available under this section may be used in connection with the moderate rehabilitation of efficiency units if the building owner agrees to pay the additional cost of rehabilitating and operating such units.,<sup>2</sup> and except that the Secretary may provide amounts available under this section to private nonprofit organizations that submit applications for such assistance that are approved by the Secretary.
 
 #### (c) Allocation
 
@@ -82,9 +82,11 @@ For purposes of this section—
 
 Section 1437f(e)(2) of this title, referred to in subsec. (a), was repealed effective Oct. 1, 1991, but to remain in effect with respect to single room occupancy dwellings as authorized by this subchapter, see section 12839(b) of this title.
 
+Section 1437f(n) of this title, referred to in subsec. (b), was repealed by Pub. L. 105–276, title V, §550(a)(7), Oct. 21, 1998, 112 Stat. 2609.
+
 #### Amendments
 
-1996—Subsec. (g). Pub. L. 104–330, §506(a)(8)(A), struck out heading and text of subsec. (g). Text read as follows: “Amounts made available for assistance under this section shall be available through contracts between the Secretary and Indian housing authorities, and the provisions of this section regarding publichousing authorities shall include and apply to Indian housing authorities.”
+1996—Subsec. (g). Pub. L. 104–330, §506(a)(8)(A), struck out heading and text of subsec. (g). Text read as follows: “Amounts made available for assistance under this section shall be available through contracts between the Secretary and Indian housing authorities, and the provisions of this section regarding public housing authorities shall include and apply to Indian housing authorities.”
 
 Subsec. (h). Pub. L. 104–330, §506(a)(8)(B), struck out “or Indian housing authority” after “public housing agency”.
 

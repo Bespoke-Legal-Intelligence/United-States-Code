@@ -28,7 +28,11 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 App. U.S.C. 501 et seq.).
 
-(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1, 1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Apr. 22, 1976, Pub. L. 94–278, title XI, §1101, 90 Stat. 415; June 13, 1991, Pub. L. 102–54, §13(q)(1)(C), 105 Stat. 278.)
+#### (f) Active service deemed active military service with respect to anti-discrimination laws
+
+Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
+
+(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1,1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### References in Text
 
@@ -37,6 +41,8 @@ The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 
 The Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (e), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–392 added subsec. (f).
 
 1991—Subsec. (d). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -90,5 +96,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 213a, 215 of this title; title 26 section 139.
+This section is referred to in sections 213a, 215, 218a of this title; title 26 section 139.
 

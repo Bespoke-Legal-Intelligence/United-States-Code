@@ -4,7 +4,7 @@
 
 (b) Within the area designated in accordance with this section, the Secretary of the Interior may acquire lands and interests in lands by donation, purchase with donated or appropriated funds, or exchange, except that lands owned by the State of Illinois or any political subdivision thereof may be acquired only by donation.
 
-(May 17, 1954, ch. 204, §4, as added Aug. 24, 1984, Pub. L. 98–398, title II, §201(a), 98 Stat. 1467; amended Aug. 26, 1992, Pub. L. 102–355, §1(1), 106 Stat. 947.)
+(May 17, 1954, ch. 204, §4, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1467; amended Pub. L. 102–355, §1(1), Aug. 26, 1992, 106 Stat. 947.)
 
 #### Prior Provisions
 

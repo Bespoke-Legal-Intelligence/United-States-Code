@@ -56,7 +56,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (2) Certain additional requirements
 
-&emsp;Except in the case of an agreement by a foreign government to restrict the volume of imports of the subject merchandise into the United States, the administering authority may not accept an agreement under this subsection unless—
+&emsp;Except in the case of an agreement by a foreign government to restrict the volume of imports of the subject merchandise into theUnited States, the administering authority may not accept an agreement under this subsection unless—
 
 &emsp;&emsp;(A) the suppression or undercutting of price levels of domestic products by imports of that merchandise will be prevented, and
 
@@ -134,7 +134,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 &emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (b) of this section, then—
 
-&emsp;&emsp;&emsp;(i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entries of subject merchandise shall not be suspended under section 1671b(d)(2) of this title,
+&emsp;&emsp;&emsp;(i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entriesof subject merchandise shall not be suspended under section 1671b(d)(2) of this title,
 
 &emsp;&emsp;&emsp;(ii) if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case with respect to such merchandise, that suspension of liquidation shall terminate, and
 
@@ -212,7 +212,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (j) Determination not to take agreement into account
 
-In making a final determination under section 1671d of this title, or in conducting a reviewunder section 1675 of this title, in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c) of this section.
+In making a final determination under section 1671d of this title, or in conducting a review under section 1675 of this title, in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c) of this section.
 
 #### (k) Termination of investigations initiated by administering authority
 
@@ -232,7 +232,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 &emsp;If an agreement described in paragraph (1) is accepted after the countervailing duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1671b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to countervailing duties.
 
-(June 17, 1930, ch. 497, title VII, §704, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 154; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§604(a), 612(b)(2), 98 Stat. 3025, 3034; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(4), 100 Stat. 2921; Aug. 23, 1988, Pub. L. 100–418, title I, §1326(d)(2), 102 Stat. 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§216(a), 217(a), 218(a)(1), 233(a)(5)(D)–(M), 264(c)(3)–(6), 270(a)(1)(E), (2)(A), (c)(1), 108 Stat. 4853, 4854, 4899, 4914, 4917.)
+(June 17, 1930, ch. 497, title VII, §704, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 154; amended Pub. L. 98–573, title VI, §§604(a), 612(b)(2), Oct. 30, 1984, 98 Stat. 3025, 3034; Pub. L. 99–514, title XVIII, §1886(a)(4), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §1326(d)(2), Aug. 23, 1988, 102 Stat. 1204; Pub. L. 103–465, title II, §§216(a), 217(a), 218(a)(1), 233(a)(5)(D)–(M), 264(c)(3)–(6), 270(a)(1)(E), (2)(A), (c)(1), Dec. 8, 1994, 108 Stat. 4853, 4854, 4899, 4914, 4917.)
 
 #### Amendments
 

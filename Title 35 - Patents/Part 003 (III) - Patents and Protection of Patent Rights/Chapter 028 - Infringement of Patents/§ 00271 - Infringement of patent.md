@@ -60,7 +60,7 @@ Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, c
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into theUnited States any patented invention” after “the United States”.
+1994—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
 
 Subsec. (c). Pub. L. 103–465, §533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
 

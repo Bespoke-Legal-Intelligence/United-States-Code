@@ -10,7 +10,7 @@
 
 (2) The Secretary shall publish notice of the benefits available under this part to workers covered by each certification made under this subpart or subpart D of this part in newspapers of general circulation in the areas in which such workers reside.
 
-(Pub. L. 93–618, title II, §225, as added Pub. L. 97–35, title XXV, §2502, Aug. 13, 1981, 95 Stat. 881;amended Pub. L. 100–418, title I, §1422, Aug. 23, 1988, 102 Stat. 1244; Pub. L. 103–182, title V, §503(b), Dec. 8, 1993, 107 Stat. 2151.)
+(Pub. L. 93–618, title II, §225, as added Pub. L. 97–35, title XXV, §2502, Aug. 13, 1981, 95 Stat. 881; amended Pub. L. 100–418, title I, §1422, Aug. 23, 1988, 102 Stat. 1244; Pub. L. 103–182, title V, §503(b), Dec. 8, 1993, 107 Stat. 2151.)
 
 #### Termination of Section
 

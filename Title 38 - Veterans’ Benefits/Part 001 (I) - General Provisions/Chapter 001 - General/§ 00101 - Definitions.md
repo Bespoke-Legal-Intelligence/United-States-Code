@@ -16,7 +16,7 @@ For the purposes of this title—
 
 &emsp;(iii) who, after attaining the age of eighteen years and until completion of education or training (but not after attaining the age of twenty-three years), is pursuing a course of instruction at an approved educational institution;
 
-> and who is a legitimate child, a legally adopted child, a stepchild who is a member of a veteran's household or was a member at the time of the veteran's death, or an illegitimate child but, as to the alleged father, only if acknowledged in writing signed by him, or if he has been judicially ordered to contribute to the child's support or has been, before his death, judicially decreed to be the father of such child, or if he is otherwise shown by evidence satisfactory to the Secretary to be the father of such child. A person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of suchveteran if such person was at the time of the veteran's death living in the veteran's household and was legally adopted by the veteran's surviving spouse before August 26, 1961, or within two years after the veteran's death; however, this sentence shall not apply if at the time of the veteran's death, such person was receiving regular contributions toward the person's support from some individual other than the veteran or the veteran's spouse, or from any public or private welfare organization which furnishes services or assistance for children. A person with respect to whom an interlocutory decree of adoption has been issued by an appropriate adoption authority shall be recognized thereafter as a legally adopted child, unless and until that decree is rescinded, if the child remains in the custody of the adopting parent or parents during the interlocutory period. A person who has been placed for adoption under an agreement entered into by the adopting parent or parents with any agency authorized under law to so act shall be recognized thereafter as a legally adopted child, unless and until such agreement is terminated, if the child remains in the custody of the adopting parent or parents during the period of placement for adoption under such agreement. A person described in clause (ii) of the first sentence of this subparagraph who was a member of a veteran's household at the time the person became 18 years of age and who is adopted by the veteran shall be recognized as a legally adopted child of the veteran regardless of the age of such person at the time of adoption.
+> and who is a legitimate child, a legally adopted child, a stepchild who is a member of a veteran's household or was a member at the time of the veteran's death, or an illegitimate child but, as to the alleged father, only if acknowledged in writing signed by him, or if he has been judicially ordered to contribute to the child's support or has been, before his death, judicially decreed to be the father of such child, or if he is otherwise shown by evidence satisfactory to theSecretary to be the father of such child. A person shall be deemed, as of the date of death of a veteran, to be the legally adopted child of such veteran if such person was at the time of the veteran's death living in the veteran's household and was legally adopted by the veteran's surviving spouse before August 26, 1961, or within two years after the veteran's death; however, this sentence shall not apply if at the time of the veteran's death, such person was receiving regular contributions toward the person's support from some individual other than the veteran or the veteran's spouse, or from any public or private welfare organization which furnishes services or assistance for children. A person with respect to whom an interlocutory decree of adoption has been issued by an appropriate adoption authority shall be recognized thereafter as a legally adopted child, unless and until that decree is rescinded, if the child remains in the custody of the adopting parent or parents during the interlocutory period. A person who has been placed for adoption under an agreement entered into by the adopting parent or parents with any agency authorized under law to so act shall be recognized thereafter as a legally adopted child, unless and until such agreement is terminated, if the child remains in the custody of the adopting parent or parents during the period of placement for adoption under such agreement. A person described in clause (ii) of the first sentence of this subparagraph who was a member of a veteran's household at the time the person became 18 years of age and who is adopted by the veteran shall be recognized as a legally adopted child of the veteran regardless of the age of such person at the time of adoption.
 
 (B) For the purposes of subparagraph (A) of this paragraph, in the case of an adoption under the laws of any jurisdiction other than a State (as defined in section 101(20) of this title and including the Commonwealth of the Northern Mariana Islands)—
 
@@ -54,7 +54,7 @@ For the purposes of this title—
 
 (13) The term “compensation” means a monthly payment made by the Secretary to a veteran because of service-connected disability, or to a surviving spouse, child, or parent of a veteran because of the service-connected death of the veteran occurring before January 1, 1957.
 
-(14) The term “dependency and indemnity compensation” means a monthly payment made by the Secretary to a surviving spouse, child, or parent (A) because of a service-connected death occurring after December 31, 1956, or (B) pursuant to the election of a surviving spouse, child, or parent, in the case of such a death occurring before January 1, 1957.
+(14) The term “dependency and indemnity compensation” means a monthly payment made by the Secretary to a surviving spouse, child, orparent (A) because of a service-connected death occurring after December 31, 1956, or (B) pursuant to the election of a surviving spouse, child, or parent, in the case of such a death occurring before January 1, 1957.
 
 (15) The term “pension” means a monthly or other periodic payment made by the Secretary to a veteran because of service, age, or non-service-connected disability, or to a surviving spouse or child of a veteran because of the non-service-connected death of the veteran.
 
@@ -104,7 +104,7 @@ For the purposes of this title—
 
 > In the case of a member of the Army National Guard or Air National Guard of any State, such term means duty (other than full-time duty) under sections 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law. Such term does not include (i) work or study performed in connection with correspondence courses, (ii) attendance at an educational institution in an inactive status, or (iii) duty performed as a temporary member of the Coast Guard Reserve.
 
-(24) The term “active military, naval, or air service” includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line ofduty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty.
+(24) The term “active military, naval, or air service” includes active duty, any period of active duty for training during which the individual concerned was disabled or died from a disease or injury incurred or aggravated in line of duty, and any period of inactive duty training during which the individual concerned was disabled or died from an injury incurred or aggravated in line of duty.
 
 (25) The term “Secretary concerned” means—
 
@@ -326,6 +326,16 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–368, §1(a), Nov. 11, 1998, 112 Stat. 3315, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Programs Enhancement Act of 1998’.”
+
+Pub. L. 105–368, title VIII, §801, Nov. 11, 1998, 112 Stat. 3352, provided that: “This title \[enacting sections 7671 to 7676 and 7681 to 7684 of this title, amending sections 7601 to 7604, 7632, and 7636 of this title, and repealing provisions set out as a note under section 7601 of this title\] may be cited as the ‘Department of Veterans Affairs Health Care Personnel Incentive Act of 1998’.”
+
+Pub. L. 105–277, div. C, title XVI, §1601, Oct. 21, 1998, 112 Stat. 2681–742, provided that: “This title \[enacting section 1118 of this title, amending sections 1113 and 1117 of this title, and enacting provisions set out as a note under section 1117 of this title\] may be cited as the ‘Persian Gulf War Veterans Act of 1998’.”
+
+Pub. L. 105–178, title VIII, §8201, June 9, 1998, 112 Stat. 492, provided that: “This subtitle \[subtitle B (§§8201–8209) of title VIII of Pub. L. 105–178, amending sections 1110, 1131, 1311, 2102, 3015, and 3902 of this title and section 16131 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 1311, 1521, 2102, 3015, and 3902 of this title and sections 1174 and 16131 of Title 10\] may be cited as the ‘Veterans Benefits Act of 1998’.”
+
 #### Short Title of 1997 Amendments
 
 Pub. L. 105–114, §1(a), Nov. 21, 1997, 111 Stat. 2277, provided that: “This Act \[enacting sections 319, 516, 1771 to 1774, and 7322 of this title, amending sections 1710, 1717, 1720, 1720A, 1720C, 1801, 1804, 1806, 2303, 3015, 3018C, 3680A, 3735, 3761, 3762, 5310, 7618, 8153, and 8169 of this title and sections 11448 and 11450 of Title 42, The Public Health and Welfare, repealing section 8168 of this title, enacting provisions set out as notes under sections 319, 516, 1710, 1801, 7322, and 7611 of this title, amending provisions set out as a note under section 7721 of this title, and repealing provisions set out as notes under sections 527, 1712, 1718, and 7721 of this title\] may be cited as the ‘Veterans’ Benefits Act of 1997’.”
@@ -348,7 +358,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2822(a), Feb. 10, 1996, 110 Stat. 556
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act \[enacting provisions set out as notesunder section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1995’.”
+Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1995’.”
 
 #### Short Title of 1994 Amendments
 
@@ -510,7 +520,7 @@ Pub. L. 96–330, §1(a), Aug. 26, 1980, 94 Stat. 1030, provided that: “this A
 
 Pub. L. 96–151, §1(a), Dec. 20, 1979, 93 Stat. 1092, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Health Programs Extension and Improvement Act of 1979’.”
 
-Pub. L. 96–128, §1, Nov. 28, 1979, 93 Stat. 982, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Amendments of 1979’.”
+Pub. L. 96–128, §1, Nov. 28, 1979, 93 Stat. 982, provided: “That this Act \[see Tables for classification\] may becited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Amendments of 1979’.”
 
 Section 1(a) of Pub. L. 96–22 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Health Care Amendments of 1979’.”
 
@@ -622,7 +632,7 @@ Section 5 of Pub. L. 102–83 provided that:
 
 “(a)
 
-Redesignation of Sections To Conform To Chapter Numbers.—Each section contained in any ofchapters 11 through 23 is redesignated by replacing the first digit of the section number with the number of the chapter containing that section. Each section contained in any of chapters 24 through 42 is redesignated so that the first two digits of the section number of that section are the same as the chapter number of the chapter containing that section.
+Redesignation of Sections To Conform To Chapter Numbers.—Each section contained in any of chapters 11 through 23 is redesignated by replacing the first digit of the section number with the number of the chapter containing that section. Each section contained in any of chapters 24 through 42 is redesignated so that the first two digits of the section number of that section are the same as the chapter number of the chapter containing that section.
 
 “(b)
 
@@ -670,5 +680,5 @@ Section 3 of Pub. L. 100–322 provided that: “For purposes of this Act \[see 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2301, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 5532, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 section 2641; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 49 section 47112; title 50 App. section 591.
+This section is referred to in sections 2301, 3771, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 5532, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 sections 1491, 2641, 2641a; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 49 section 47112; title 50 App. section 591.
 

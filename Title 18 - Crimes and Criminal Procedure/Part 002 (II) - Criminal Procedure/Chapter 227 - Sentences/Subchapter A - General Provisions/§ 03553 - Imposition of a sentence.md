@@ -2,7 +2,7 @@
 
 (a)
 
-Factors To Be Considered in Imposing a Sentence.—The court shall impose a sentence sufficient, but not greater than necessary, to comply with the purposes set forth in paragraph (2) of this subsection. The court, in determining the particular sentence to be imposed, shall consider—
+Factors To Be Considered in Imposing a Sentence.—The court shall impose a sentencesufficient, but not greater than necessary, to comply with the purposes set forth in paragraph (2) of this subsection. The court, in determining the particular sentence to be imposed, shall consider—
 
 &emsp;(1) the nature and circumstances of the offense and the history and characteristics of the defendant;
 
@@ -20,7 +20,7 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 &emsp;(4) the kinds of sentence and the sentencing range established for—
 
-&emsp;&emsp;(A) the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued bythe Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or
+&emsp;&emsp;(A) the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or
 
 &emsp;&emsp;(B) in the case of a violation of probation or supervised release, the applicable guidelines or policy statements issued by the Sentencing Commission pursuant to section 994(a)(3) of title 28, United States Code;
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, the Secretary, under such terms and 
 
 Notwithstanding provisions of law other than those contained in subsection (a), of this section, in selecting persons to provide (and in contracting for the provision of) any type of visitor service for any conservation system unit, except sport fishing and hunting guiding activities, the Secretary—
 
-&emsp;(1) shall give preference to the Native Corporation which the Secretary determines is most directly affected by the establishment or expansion of such unit by or under the provisions of this Act;
+&emsp;(1) shall give preference to the Native Corporations which the Secretary determines are most directly affected by the establishment or expansion of such unit by or under the provisions of this Act;
 
 &emsp;(2) shall give preference to persons whom he determines, by rule, are local residents; and
 
@@ -18,11 +18,15 @@ Notwithstanding provisions of law other than those contained in subsection (a), 
 
 As used in this section, the term “visitor service” means any service made available for a fee or charge to persons who visit a conservation system unit, including such services as providing food, accommodations, transportation, tours, and guides excepting the guiding of sport hunting and fishing. Nothing in this Act shall limit or affect the authority of the Federal Government or the State of Alaska to license and regulate transportation services.
 
-(Pub. L. 96–487, title XIII, §1307, Dec. 2, 1980, 94 Stat. 2479.)
+(Pub. L. 96–487, title XIII, §1307, Dec. 2, 1980, 94 Stat. 2479; Pub. L. 105–333, §10, Oct. 31, 1998, 112 Stat. 3134.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (b)(1) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Section 12 of the Act of January 2, 1976 (Public Law 94–204), referred to in subsec. (b)(3), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under section 1611 of Title 43, Public Lands.
+
+#### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–333 substituted “Native Corporations” for “Native Corporation” and “are most directly affected” for “is most directly affected”.
 

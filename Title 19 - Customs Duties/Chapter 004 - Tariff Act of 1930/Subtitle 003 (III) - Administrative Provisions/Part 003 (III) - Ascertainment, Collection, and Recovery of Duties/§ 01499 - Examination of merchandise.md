@@ -32,7 +32,7 @@
 
 #### (5) Information required for release
 
-&emsp;If an examination is conducted, any information required for release shall be provided,either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
+&emsp;If an examination is conducted, any information required for release shall be provided, either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
 
 #### (b) Testing laboratories
 
@@ -58,7 +58,7 @@
 
 #### (3) Testing by accredited laboratories
 
-&emsp;When requested by an importer of record of merchandise, the Customs Service shall authorize the release to the importer of a representative sample of the merchandise for testing, at the expense of the importer, by a laboratory accredited under paragraph (1). The testing results from a laboratory accredited under paragraph (1) that are submitted by an importer of record with respect to merchandise in an entry shall, in the absence of testing results obtained from a Customs Service laboratory, be accepted by the Customs Service if the importer of record certifies that the sample tested was taken from the merchandise in the entry. Nothing in this subsection shall be construed to limit in any way or preclude the authority of the Customs Service to test or analyze any sample or merchandise independently.
+&emsp;When requested by an importer of record of merchandise, the Customs Service shall authorize the release to the importer of a representative sample of the merchandise for testing, at the expense of the importer, by a laboratory accredited under paragraph (1). The testing results from a laboratory accredited under paragraph (1) that are submitted by an importer of record with respect to merchandise in an entry shall, in the absence of testing results obtained from a Customs Service laboratory, be accepted by the Customs Service if the importer of record certifies that the sample tested was taken from the merchandise inthe entry. Nothing in this subsection shall be construed to limit in any way or preclude the authority of the Customs Service to test or analyze any sample or merchandise independently.
 
 #### (4) Availability of testing procedure, methodologies, and information
 
@@ -122,7 +122,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 &emsp;(C) Notwithstanding section 2639 of title 28, once an action respecting a detention is commenced, unless the Customs Service establishes by a preponderance of the evidence that an admissibility decision has not been reached for good cause, the court shall grant the appropriate relief which may include, but is not limited to, an order to cancel the detention and release the merchandise.
 
-(June 17, 1930, ch. 497, title IV, §499, 46 Stat. 728; June 25, 1938, ch. 679, §§15, 16(a), 52 Stat. 1084; June 2, 1970, Pub. L. 91–271, title III, §301(k), 84 Stat. 289; Dec. 8, 1993, Pub. L. 103–182, title VI, §613(a), 107 Stat. 2171.)
+(June 17, 1930, ch. 497, title IV, §499, 46 Stat. 728; June 25, 1938, ch. 679, §§15, 16(a), 52 Stat. 1084; Pub. L. 91–271, title III, §301(k), June 2, 1970, 84 Stat. 289; Pub. L. 103–182, title VI, §613(a), Dec. 8, 1993, 107 Stat. 2171.)
 
 #### Prior Provisions
 
@@ -130,7 +130,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 A prior provision prohibiting delivery of merchandise liable to be inspected or appraised, until it had been inspected or appraised, or until the packages sent to be inspected or appraised, should be found correctly invoiced, and be so reported, with a further provision as to the taking of bonds conditioned for delivery of the merchandise, and the forfeiture of such bonds, was contained in R.S. §2899.
 
-Provisions substantially similar to those in this section concerning the number of packages to be examined (not including the provision for designation of a less number by the Secretary of the Treasury) and concerning packages found to contain articles not specified in the invoice, with a further provision for remission of the forfeiture, were contained in R.S. §2901.
+Provisions substantially similar to those in this section concerning the number of packages to be examined\(not including the provision for designation of a less number by the Secretary of the Treasury) and concerning packages found to contain articles not specified in the invoice, with a further provision for remission of the forfeiture, were contained in R.S. §2901.
 
 A prior provision, concerning deficiencies somewhat similar to that in this section, was contained in R.S. §2921.
 

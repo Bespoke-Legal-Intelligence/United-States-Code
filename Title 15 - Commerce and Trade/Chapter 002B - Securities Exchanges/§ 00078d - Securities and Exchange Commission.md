@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition; limitations on commissioners; terms of office
 
-There is hereby established a Securities and Exchange Commission (hereinafter referred to as the “Commission”) to be composed of five commissioners to be appointed by the President by and with the advice and consent of the Senate. Not more than three of such commissioners shall be members of the same political party, and in making appointments members of different political parties shall be appointed alternately as nearly as may be practicable. No commissioner shall engage in any other business, vocation, or employment than that of serving as commissioner, nor shall any commissioner participate, directly or indirectly, in any stock-market operations or transactions of a character subject to regulation by the Commission pursuant to this chapter. Each commissioner shall hold office for a term of five years and until his successor is appointed and has qualified, except that he shall not so continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office, and except (1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the commissioners first taking office after June 6, 1934, shall expire as designated by the President at the time of nomination, one at the end of one year, one at the end of two years, one at the end of three years, one at the end of four years, and one at the end of five years, after June 6, 1934.
+There is hereby established a Securities and Exchange Commission (hereinafter referred to as the “Commission”) to be composed of five commissioners to be appointed by the President by and with the advice and consent of the Senate. Not more than three of such commissioners shall be members of the same political party, and in making appointments members of different political parties shall be appointed alternately as nearly as may be practicable. No commissioner shall engage in any other business, vocation, or employment than that of serving as commissioner, nor shall any commissioner participate, directly or indirectly, in any stock-market operations or transactions of a character subject to regulation by the Commission pursuant to this chapter. Each commissioner shall hold office for a term of five years and until his successor is appointed and has qualified, except that he shall not so continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of saidfixed term of office, and except (1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the commissioners first taking office after June 6, 1934, shall expire as designated by the President at the time of nomination, one at the end of one year, one at the end of two years, one at the end of three years, one at the end of four years, and one at the end of five years, after June 6, 1934.
 
 #### (b) Appointment and compensation of staff and leasing authority
 
@@ -10,9 +10,29 @@ There is hereby established a Securities and Exchange Commission (hereinafter re
 
 &emsp;The Commission is authorized to appoint and fix the compensation of such officers, attorneys, examiners, and other experts as may be necessary for carrying out its functions under this chapter, and the Commission may, subject to the civil-service laws, appoint such other officers and employees as are necessary in the execution of its functions and fix their salaries in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
-#### (2) Leasing authority
+#### (2) Economists
 
-&emsp;Nothwithstanding <sup>1</sup> any other provision of law, the Commission is authorized to enter directly into leases for real property for office, meeting, storage, and such other space as is necessary to carry out its functions, and shall be exempt from any General Services Administration space management regulations or directives.
+#### (A) Commission authority
+
+&emsp;&emsp;Notwithstanding the provisions of chapter 51 of title 5, the Commission is authorized—
+
+&emsp;&emsp;&emsp;(i) to establish its own criteria for the selection of such professional economists as the Commission deems necessary to carry out the work of the Commission;
+
+&emsp;&emsp;&emsp;(ii) to appoint directly such professional economists as the Commission deems qualified; and
+
+&emsp;&emsp;&emsp;(iii) to fix and adjust the compensation of any professional economist appointed under this paragraph, without regard to the provisions of chapter 54 of title 5,<sup>1</sup> or subchapters <sup>2</sup> II, III, or VIII of chapter 53, of title 5.
+
+#### (B) Limitation on compensation
+
+&emsp;&emsp;No base compensation fixed for an economist under this paragraph may exceed the pay for Level IV of the Executive Schedule, and no payments to an economist appointed under this paragraph shall exceed the limitation on certain payments in section 5307 of title 5.
+
+#### (C) Other benefits
+
+&emsp;&emsp;All professional economists appointed under this paragraph shall remain within the existing civil service system with respect to employee benefits.
+
+#### (3) Leasing authority
+
+&emsp;Nothwithstanding <sup>3</sup> any other provision of law, the Commission is authorized to enter directly into leases for real property for office, meeting, storage, and such other space as is necessary to carry out its functions, and shall be exempt from any General Services Administration space management regulations or directives.
 
 #### (c) Acceptance of travel support for Commission activities from non-Federal sources; regulations
 
@@ -30,13 +50,17 @@ Notwithstanding any other provision of law, whenever any fee is required to be p
 
 Notwithstanding any other provision of law, the Commission may accept payment and reimbursement, in cash or in kind, from a foreign securities authority, or made on behalf of such authority, for necessary expenses incurred by the Commission, its members, and employees in carrying out any investigation pursuant to section 78u(a)(2) of this title or in providing any other assistance to a foreign securities authority. Any payment or reimbursement accepted shall be considered a reimbursement to the appropriated funds of the Commission.
 
-(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; July 12, 1960, Pub. L. 86–619, §3, 74 Stat. 408; Sept. 13, 1960, Pub. L. 86–771, 74 Stat. 913; Aug. 14, 1964, Pub. L. 88–426, title III, §305(20), 78 Stat. 425; June 6, 1983, Pub. L. 98–38, §1, 97 Stat. 205; Dec. 4, 1987, Pub. L. 100–181, title III, §307, 101 Stat. 1254; Nov. 15, 1990, Pub. L. 101–550, title I, §103, title II, §207, 104 Stat. 2713, 2721; Oct. 11, 1996, Pub. L. 104–290, title IV, §406, 110 Stat. 3444.)
+(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this title” and “this Act”, respectively. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this title” and “this Act”, respectively. See References in Text note set out under section 78a of this title.
 
-The civil service laws, referred to in subsec. (b), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+The civil service laws, referred to in subsec. (b)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+Chapter 54 of title 5, referred to in subsec. (b)(2)(A)(iii), was repealed by Pub. L. 103–89, §3(a)(1), Sept. 30, 1993, 107 Stat. 981.
+
+Level IV of the Executive Schedule, referred to in subsec. (b)(2)(B), is set out in section 5315 of Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -49,6 +73,8 @@ As to the compensation of such personnel, sections 1202 and 1204 of the Classifi
 “Chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 #### Amendments
+
+1998—Subsec. (b)(2), (3). Pub. L. 105–353 added par. (2) and redesignated former par. (2) as (3).
 
 1996—Subsec. (e). Pub. L. 104–290 inserted before period at end “and the Commission may also specify the time that such fee shall be determined and paid relative to the filing of any statement or document with the Commission”.
 
@@ -110,7 +136,7 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 #### Sec. 3. Designation of Chairman
 
-The functions of the Commission with respect to choosing a Chairman from among the Commissioners composing the Commission are hereby transferred to the President.
+The functions of the Commission with respect to choosing a Chairman from among the Commissionerscomposing the Commission are hereby transferred to the President.
 
 #### Message of the President
 
@@ -158,5 +184,9 @@ Reorganization of corporations—
 
 This section is referred to in sections 77uuu, 78c, 79z–5, 80a–45, 80b–18 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Notwithstanding”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subchapter”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “Notwithstanding”.</i>
 

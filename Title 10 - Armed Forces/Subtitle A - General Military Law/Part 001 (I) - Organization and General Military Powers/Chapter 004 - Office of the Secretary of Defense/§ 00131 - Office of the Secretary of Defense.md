@@ -70,75 +70,7 @@ Section 903(a) of Pub. L. 104–106, which provided that the amendments made by 
 
 #### Defense Acquisition Workforce
 
-Pub. L. 105–85, div. A, title IX, §912(a)–(e), Nov. 18, 1997, 111 Stat. 1860, 1861, provided that:
-
-“(a)
-
-Reduction of Defense Acquisition Workforce.—(1) The Secretary of Defense shall accomplish reductions in defense acquisition personnel positions during fiscal year 1998 so that the total number of such personnel as of October 1, 1998, is less than the total number of such personnel as of October 1, 1997, by at least the applicable number determined under paragraph (2).
-
-“(2)(A) The applicable number for purposes of paragraph (1) is 25,000. However, the Secretary of Defense may specify a lower number, which may not be less than 10,000, as the applicable number for purposes of paragraph (1) if the Secretary determines, and certifies to Congress not later than June 1, 1998, that an applicable number greater than the number specified by the Secretary would be inconsistent with the cost-effective management of the defense acquisition system to obtain best value equipment and would adversely affect military readiness.
-
-“(B) The Secretary shall include with such a certification a detailed explanation of each of the matters certified.
-
-“(C) The authority of the Secretary under subparagraph (A) may only be delegated to the Deputy Secretary of Defense.
-
-“(3) For purposes of this subsection, the term ‘defense acquisition personnel’ means military and civilian personnel (other than civilian personnel who are employed at a maintenance depot) who are assigned to, or employed in, acquisition organizations of the Department of Defense (as specified in Department of Defense Instruction numbered 5000.58 dated January 14, 1992).
-
-“(b)
-
-Report on Specific Acquisition Positions Previously Eliminated.—Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report on reductions in the defense acquisition workforce made since fiscal year 1989. The report shall show aggregate reductions by fiscal year and shall show for each fiscal year reductions identified by specific job title, classification, or position. The report shall also identify those reductions carried out pursuant to law (and how the Secretary implemented any statutory requirement for such reductions, including definition of the workforce subject to the reduction) and those reductions carried out as a result of base closures and realignments under the so-called BRAC process. The Secretary shall include in the report a definition of the term ‘defense acquisition workforce’ that is to be applied uniformly throughout the Department of Defense.
-
-“(c)
-
-Implementation Plan To Streamline and Improve Acquisition Organizations.—(1) Not later than April 1, 1998, the Secretary of Defense shall submit to Congress a report containing a plan to streamline the acquisition organizations, workforce, and infrastructure of the Department of Defense. The Secretary shall include with the report a detailed discussion of the recommendations of the Secretary based on the review under subsection (d) and the assessment of the Task Force on Defense Reform pursuant to subsection (e), together with a request for the enactment of any legislative changes necessary for implementation of the plan. The Secretary shall include in the report the results of the review under subsection (d) and the independent assessment of the Task Force on Defense Reform pursuant to subsection (e).
-
-“(2) In carrying out this subsection and subsection (d), the Secretary of Defense shall formally consult with the Chairman of the Joint Chiefs of Staff, the Director of Program Analysis and Evaluation, the Under Secretary of Defense (Comptroller), and the Under Secretary for Acquisition and Technology.
-
-“(d)
-
-Review of Acquisition Organizations and Functions.—The Secretary of Defense shall conduct a review of the organizations and functions of the Department of Defense acquisition activities and of the personnel required to carry out those functions. The review shall identify the following:
-
-&emsp;“(1) Opportunities for cross-service, cross-functional arrangements within the military services and defense agencies.
-
-&emsp;“(2) Specific areas of overlap, duplication, and redundancy among the various acquisition organizations.
-
-&emsp;“(3) Opportunities to further streamline acquisition processes.
-
-&emsp;“(4) Benefits of an enhanced Joint Requirements Oversight Council in the acquisition process.
-
-&emsp;“(5) Alternative consolidation options for acquisition organizations.
-
-&emsp;“(6) Alternative methods for performing industry oversight and quality assurance.
-
-&emsp;“(7) Alternative options to shorten the procurement cycle.
-
-&emsp;“(8) Alternative acquisition infrastructure reduction options within current authorities.
-
-&emsp;“(9) Alternative organizational arrangements that capitalize on core acquisition competencies among the military services and defense agencies.
-
-&emsp;“(10) Future acquisition personnel requirements of the Department.
-
-&emsp;“(11) Adequacy of the Program, Plans, and Budgeting System in fulfilling current and future acquisition needs of the Department.
-
-&emsp;“(12) Effect of technology and advanced management tools in the future acquisition system.
-
-&emsp;“(13) Applicability of more flexible alternative approaches to the current civil service system for the acquisition workforce.
-
-&emsp;“(14) Adequacy of Department of Defense Instruction numbered 5000.58 dated January 14, 1992.
-
-“(e)
-
-Duties of Task Force on Defense Reform To Include Consideration Of Acquisition Organizations.—(1) The Secretary of Defense shall require thatthe areas of study of the Task Force on Defense Reform (established by the Secretary of Defense on May 14, 1997, and headed by the Deputy Secretary of Defense) include an examination of the missions, functions, and responsibilities of the various acquisition organizations of the Department of Defense, including the acquisition workforce of the Department. In carrying out that examination of those organizations and that workforce, the Task Force shall identify areas of duplication in defense acquisition organization and recommend to the Secretary options to streamline, reduce, and eliminate redundancies.
-
-“(2) The examination of the missions, functions, and responsibilities of the various acquisition organizations of the Department of Defense under paragraph (1) shall include the following:
-
-&emsp;“(A) An assessment of benefits of consolidation or selected elimination of Department of Defense acquisition organizations.
-
-&emsp;“(B) An assessment of the opportunities to streamline the defense acquisition infrastructure that were realized as a result of the enactment of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355) \[see Tables for classification\] and the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title note set out under section 1401 of Title 40, Public Buildings, Property, and Works\] or as result of other acquisition reform initiatives implemented administratively during the period from 1993 through 1997.
-
-&emsp;“(C) An assessment of such other options for streamlining or restructuring the defense acquisition infrastructure as the Task Force considers appropriate and as can be carried out under existing provisions of law.
-
-“(3) Not later than March 1, 1998, the Task Force shall submit to the Secretary a report on the results of its review of the acquisition organizations of the Department of Defense, including any recommendations of the Task Force for improvements to those organizations.”
+Pub. L. 105–85, div. A, title IX, §912(a)–(e), Nov. 18, 1997, 111 Stat. 1860, 1861, required Secretary of Defense to accomplish reductions in defense acquisition personnel positions, to report on specific acquisition positions previously eliminated, to submit an implementation plan to streamline and improve acquisition organizations, to review acquisition organizations and functions, and to require certain duties of Task Force on Defense Reform.
 
 #### Reduction of Personnel Assigned to Office of the Secretary of Defense
 
@@ -206,7 +138,7 @@ Secretary of Defense Study.—The Secretary of Defense shall conduct a study of 
 
 “(b)
 
-Service Secretaries Joint Study.—(1) The Secretaries of the military departments shall conduct ajoint study of the functions and organization of the Office of the Secretary of Defense. The study shall be conducted independently of the study conducted by the Secretary of Defense under subsection (a). The Secretaries shall submit a joint report to the Secretary of Defense on such study at a time specified by the Secretary. Except as provided in paragraph (2), the report shall include a discussion of and recommendations concerning each of the matters specified in subsection (d).
+Service Secretaries Joint Study.—(1) The Secretaries of the military departments shall conduct a joint study of the functions and organization of the Office of the Secretary of Defense. The study shall be conducted independently of the study conducted by the Secretary of Defense under subsection (a). The Secretaries shall submit a joint report to the Secretary of Defense on such study at a time specified by the Secretary. Except as provided in paragraph (2), the report shall include a discussion of and recommendations concerning each of the matters specified in subsection (d).
 
 “(2) The Secretary of Defense shall determine the extent to which, and prescribe the procedures under which, the Secretaries of the military departments shall study the matters specified in subsection (d)(1)(A) relating to contingency planning and military operations.
 
@@ -306,7 +238,7 @@ Report to Congress.—(1) The Secretary of Defense shall submit to Congress a re
 
 &emsp;“(B) the findings and statistical determinations required under subsection (e); and
 
-&emsp;“(C) any recommendations of the Secretary for organizational changes in the Office of the Secretary ofDefense and a description of the means for implementing each recommendation.
+&emsp;“(C) any recommendations of the Secretary for organizational changes in the Office of the Secretary of Defense and a description of the means for implementing each recommendation.
 
 “(2) The Secretary shall include with the report a copy of the reports to the Secretary under subsections (b) and (c) and a copy of the report of the independent contractor under subsection (f), together with such comments on each such report as the Secretary considers appropriate.
 

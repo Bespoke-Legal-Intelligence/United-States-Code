@@ -20,13 +20,13 @@
 
 &emsp;(8) a summary of the information compiled and evaluation made under section 1522(a)(8) of this title.
 
-(June 27, 1952, ch. 477, title IV, ch. 2, §413, as added Mar. 17, 1980, Pub. L. 96–212, title III, §311(a)(2), 94 Stat. 115; amended Oct. 25, 1982, Pub. L. 97–363, §§3(b), 7, 96 Stat. 1734, 1737; Nov. 6, 1986, Pub. L. 99–605, §11, 100 Stat. 3455; Oct. 24, 1988, Pub. L. 100–525, §9(jj), 102 Stat. 2622; Apr. 30, 1994, Pub. L. 103–236, title I, §162(n)(3), 108 Stat. 409.)
+(June 27, 1952, ch. 477, title IV, ch. 2, §413, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 115; amended Pub. L. 97–363, §§3(b), 7, Oct. 25, 1982, 96 Stat. 1734, 1737; Pub. L. 99–605, §11, Nov. 6, 1986, 100 Stat. 3455; Pub. L. 100–525, §9(jj), Oct. 24, 1988, 102 Stat. 2622; Pub. L. 103–236, title I, §162(n)(3), Apr. 30, 1994, 108 Stat. 409.)
 
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–236 struck out “, in consultation with the Coordinator,” after “The Secretary”.
 
-1988—Pub. L. 100–525 redesignated former subsec. (a)(1) as (a) and former subsec. (a)(2) as (b), and within\(b), further redesignated former subpars. (A) to (H) as pars. (1) to (8), respectively, and former cls. (i) and (ii) of pars. (4) and (5) as cls. (A) and (B), respectively; and struck out former subsec. (b) which provided for a report to Congress by the Secretary not later than one year after Mar. 17, 1980, and former subsecs. (c) and (d) which provided for certain reports to Congress by the Director not later than certain dates in 1983.
+1988—Pub. L. 100–525 redesignated former subsec. (a)(1) as (a) and former subsec. (a)(2) as (b), and within (b), further redesignated former subpars. (A) to (H) as pars. (1) to (8), respectively, and former cls. (i) and (ii) of pars. (4) and (5) as cls. (A) and (B), respectively; and struck out former subsec. (b) which provided for a report to Congress by the Secretary not later than one year after Mar. 17, 1980, and former subsecs. (c) and (d) which provided for certain reports to Congress by the Director not later than certain dates in 1983.
 
 1986—Subsec. (a)(2)(A). Pub. L. 99–605 substituted “the United States within the five-fiscal-year period immediately preceding the fiscal year within which the report is to be made and for refugees who entered earlier and who have shown themselves to be significantly and disproportionately dependent on welfare” for “under this chapter since May 1975”.
 

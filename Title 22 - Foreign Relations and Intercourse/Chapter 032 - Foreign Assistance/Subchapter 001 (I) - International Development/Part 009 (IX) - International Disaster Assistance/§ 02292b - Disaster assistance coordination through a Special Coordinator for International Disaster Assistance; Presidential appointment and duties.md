@@ -4,7 +4,3 @@ The President is authorized to appoint a Special Coordinator for International D
 
 (Pub. L. 87–195, pt. I, §493, as added Pub. L. 94–161, title I, §101(3), Dec. 20, 1975, 89 Stat. 849.)
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-

@@ -32,7 +32,7 @@ In paragraph (3), the words “involving the United States” are inserted for c
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
+1976—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
 
 #### Report to Congress on Banking Law Offenses
 

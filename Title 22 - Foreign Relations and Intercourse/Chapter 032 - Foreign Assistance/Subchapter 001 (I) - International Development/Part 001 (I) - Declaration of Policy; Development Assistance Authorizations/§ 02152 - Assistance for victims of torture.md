@@ -1,0 +1,154 @@
+### §2152. Assistance for victims of torture
+
+#### (a) In general
+
+The President is authorized to provide assistance for the rehabilitation of victims of torture.
+
+#### (b) Eligibility for grants
+
+Such assistance shall be provided in the form of grants to treatment centers and programs in foreign countries that are carrying out projects or activities specifically designed to treat victims of torture for the physical and psychological effects of the torture.
+
+#### (c) Use of funds
+
+Such assistance shall be available—
+
+&emsp;(1) for direct services to victims of torture; and
+
+&emsp;(2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b) of this section, for the purpose of enabling such providers to provide the services described in paragraph (1).
+
+(Pub. L. 87–195, pt. I, §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112 Stat. 3017.)
+
+#### Codification
+
+Another section 129 of Pub. L. 87–195 is classified to section 2151aa of this title.
+
+#### Torture Victims Relief; Effective Date
+
+Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Torture Victims Relief Act of 1998’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) The American people abhor torture by any government or person. The existence of torture creates a climate of fear and international insecurity that affects all people.
+
+&emsp;“(2) Torture is the deliberate mental and physical damage caused by governments to individuals to destroy individual personality and terrorize society. The effects of torture are long term. Those effects can last a lifetime for the survivors and affect future generations.
+
+&emsp;“(3) By eliminating the leadership of their opposition and frightening the general public, repressive governments often use torture as a weapon against democracy.
+
+&emsp;“(4) Torture survivors remain under physical and psychological threats, especially in communities where the perpetrators are not brought to justice. In many nations, even those who treat torture survivors are threatened with reprisals, including torture, for carrying out their ethical duty to provide care. Both the survivors of torture and their treatment providers should be accorded protection from further repression.
+
+&emsp;“(5) A significant number of refugees and asylees entering the United States have been victims of torture. Those claiming asylum deserve prompt consideration of their applications for political asylum to minimize their insecurity and sense of danger. Many torture survivors now live in the United States. They should be provided with the rehabilitation services which would enable them to become productive members of our communities.
+
+&emsp;“(6) The development of a treatment movement for torture survivors has created new opportunities for action by the United States and other nations to oppose state-sponsored and other acts of torture.
+
+&emsp;“(7) There is a need for a comprehensive strategy to protect and support torture victims and their treatment providers, together with overall efforts to eliminate torture.
+
+&emsp;“(8) By acting to heal the survivors of torture and protect their families, the United States can help to heal the effects of torture and prevent its use around the world.
+
+#### “SEC. 3. DEFINITION.
+
+“As used in this Act, the term ‘torture’ has the meaning given the term in section 2340(1) of title 18, United States Code, and includes the use of rape and other forms of sexual violence by a person acting under the color of law upon another person under his custody or physical control.
+
+#### “SEC. 4. FOREIGN TREATMENT CENTERS.
+
+“(a)
+
+Amendments to the Foreign Assistance Act of 1961.—\[Enacted this section.\]
+
+“(b)
+
+Funding.—
+
+&emsp;“(1)
+
+Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000 to carry out section 129 of the Foreign Assistance Act of 1961 \[this section\], as added by subsection (a).
+
+&emsp;“(2)
+
+Availability of funds.—Amounts appropriated pursuant to this subsection shall remain available until expended.
+
+“(c)
+
+Effective Date.—The amendment made by subsection (a) shall take effect October 1, 1998.
+
+#### “SEC. 5. DOMESTIC TREATMENT CENTERS.
+
+“(a)
+
+Assistance for Treatment of Torture Victims.—The Secretary of Health and Human Services may provide grants to programs in the United States to cover the cost of the following services:
+
+&emsp;“(1) Services for the rehabilitation of victims of torture, including treatment of the physical and psychological effects of torture.
+
+&emsp;“(2) Social and legal services for victims of torture.
+
+&emsp;“(3) Research and training for health care providers outside of treatment centers, or programs for the purpose of enabling such providers to provide the services described in paragraph (1).
+
+“(b)
+
+Funding.—
+
+&emsp;“(1)
+
+Authorization of appropriations.—Of the amounts authorized to be appropriated for the Department of Health and Human Services for fiscal years 1999 and 2000, there are authorized to be appropriated to carry out subsection (a) (relating to assistance for domestic centers and programs for the treatment of victims of torture) $5,000,000 for fiscal year 1999, and $7,500,000 for fiscal year 2000.
+
+&emsp;“(2)
+
+Availability of funds.—Amounts appropriated pursuant to this subsection shall remain available until expended.
+
+#### “SEC. 6. MULTILATERAL ASSISTANCE.
+
+“(a)
+
+Funding.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 3 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2221 et seq.\], there are authorized to be appropriated to the United Nations Voluntary Fund for Victims of Torture (in this section referred to as the ‘Fund’) the following amounts for the following fiscal years:
+
+&emsp;“(1)
+
+Fiscal year 1999.—For fiscal year 1999, $3,000,000.
+
+&emsp;“(2)
+
+Fiscal year 2000.—For fiscal year 2000, $3,000,000.
+
+“(b)
+
+Availability of Funds.—Amounts appropriated pursuant to subsection (a) shall remain available until expended.
+
+“(c)
+
+Sense of the Congress.—It is the sense of the Congress that the President, acting through the United States Permanent Representative to the United Nations, should—
+
+&emsp;“(1) request the Fund—
+
+&emsp;&emsp;“(A) to find new ways to support and protect treatment centers and programs that are carrying out rehabilitative services for victims of torture; and
+
+&emsp;&emsp;“(B) to encourage the development of new such centers and programs;
+
+&emsp;“(2) use the voice and vote of the United States to support the work of the Special Rapporteur on Torture and the Committee Against Torture established under the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; and
+
+&emsp;“(3) use the voice and vote of the United States to establish a country rapporteur or similar procedural mechanism to investigate human rights violations in a country if either the Special Rapporteur or the Committee Against Torture indicates that a systematic practice of torture is prevalent in that country.
+
+#### “SEC. 7. SPECIALIZED TRAINING FOR FOREIGN SERVICE OFFICERS.
+
+“(a)
+
+In General.—The Secretary of State shall provide training for foreign service officers with respect to—
+
+&emsp;“(1) the identification of torture;
+
+&emsp;“(2) the identification of the surrounding circumstances in which torture is most often practiced;
+
+&emsp;“(3) the long-term effects of torture upon a victim;
+
+&emsp;“(4) the identification of the physical, cognitive, and emotional effects of torture, and the manner in which these effects can affect the interview or hearing process; and
+
+&emsp;“(5) the manner of interviewing victims of torture so as not to retraumatize them, eliciting the necessary information to document the torture experience, and understanding the difficulties victims often have in recounting their torture experience.
+
+“(b)
+
+Gender-Related Considerations.—In conducting training under subsection (a)(4) or (5), gender-specific training shall be provided on the subject of interacting with women and men who are victims of torture by rape or any other form of sexual violence.”
+

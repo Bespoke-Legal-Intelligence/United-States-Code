@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) even if the foreign state is or was so designated, if—
 
-&emsp;&emsp;&emsp;(i) the act occurred in the foreign state against which the claim has been brought and the claimant has not afforded the foreign state a reasonable opportunity to arbitrate the claim in accordance with accepted international rules of arbitration; or
+&emsp;&emsp;&emsp;(i) the act occurred in the foreign state against which the claim has been broughtand the claimant has not afforded the foreign state a reasonable opportunity to arbitrate the claim in accordance with accepted international rules of arbitration; or
 
 &emsp;&emsp;&emsp;(ii) neither the claimant nor the victim was a national of the United States (as that term is defined in section 101(a)(22) of the Immigration and Nationality Act) when the act upon which the claim is based occurred.
 
@@ -96,15 +96,15 @@ Rules 12(b)(6) and 56 of the Federal Rules of Civil Procedure, referred to in su
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
+1997—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
 
-<b>1996</b>—Subsec. (a)(7). Pub. L. 104–132, §221(a)(1), added par. (7).
+1996—Subsec. (a)(7). Pub. L. 104–132, §221(a)(1), added par. (7).
 
 Subsecs. (e) to (g). Pub. L. 104–132, §221(a)(2), added subsecs. (e) to (g).
 
-<b>1990</b>—Subsec. (a)(6). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
+1990—Subsec. (a)(6). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
 
-<b>1988</b>—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
+1988—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
 
 Subsec. (b). Pub. L. 100–702, §1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: <i>Provided</i>, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 

@@ -16,7 +16,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 &emsp;(3) that the chairman and ranking minority member of the full committee may only serve as non-voting, ex officio members on an investigative subcommittee.
 
-> Clause 5(d) of rule XI of the Rules of the House of Representatives shall not apply to any investigative subcommittee.
+> Clause 5(d) of rule XI <sup>1</sup> of the Rules of the House of Representatives shall not apply to any investigative subcommittee.
 
 #### (d) Adjudicatory subcommittees
 
@@ -26,19 +26,19 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 &emsp;(2) that, if an investigative subcommittee by majority vote of its membership adopts a statement of alleged violation, the remaining members of the committee shall comprise an adjudicatory subcommittee to hold a disciplinary hearing on the violation alleged in the statement;
 
-&emsp;(3) that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearing or meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee's final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X of the Rules of the House of Representatives;
+&emsp;(3) that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearing or meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee's final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives;
 
 &emsp;(4) that a quorum for an adjudicatory subcommittee for the purpose of taking testimony and conducting any business shall consist of a majority of the membership of the subcommittee plus one; and
 
 &emsp;(5) that an adjudicatory subcommittee shall determine, after receiving evidence, whether the counts in the statement have been proved and shall report its findings to the committee.
 
-> Clause 5(d) of rule XI of the Rules of the House of Representatives shall not apply to any adjudicatory subcommittee.
+> Clause 5(d) of rule XI <sup>1</sup> of the Rules of the House of Representatives shall not apply to any adjudicatory subcommittee.
 
 #### (e) to (h) Omitted
 
 #### (i) Advice and education
 
-(1) The Committee on Standards of Official Conduct shall establish within the committee an Office on Advice and Education (hereinafter in this subsection referred to as the “Office”) under the supervision of the chairman.
+(1) The Committee on Standards of Official Conduct shall establish within the committee anOffice on Advice and Education (hereinafter in this subsection referred to as the “Office”) under the supervision of the chairman.
 
 (2) The Office shall be headed by a director who shall be appointed by the chairman, in consultation with the ranking minority member, and shall be comprised of such staff as the chairman determines is necessary to carry out the responsibilities of the Office.
 
@@ -52,7 +52,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 &emsp;(D) Developing and carrying out, subject to the approval of the chairman, periodic educational briefings for Members, officers and employees of the House on those laws, rules, regulations, or other standards of conduct applicable to them.
 
-(4) No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X of the Rules of the House of Representatives, if such Member, officer or employee acts in accordance with the written advice of the committee.
+(4) No information provided to the Committee on Standards of Official Conduct by a Member, officer or employee of the House of Representatives when seeking advice regarding prospective conduct of such Member, officer or employee may be used as the basis for initiating an investigation under clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives, if such Member, officer or employee acts in accordance with the written advice of the committee.
 
 #### (j) Effective date
 
@@ -60,13 +60,17 @@ This section shall take effect immediately before noon January 3, 1991, except t
 
 (Pub. L. 101–194, title VIII, §803, Nov. 30, 1989, 103 Stat. 1774.)
 
+#### References in Text
+
+The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in clause 5(d) of rule XI, referred to in subsecs. (c) and (d), are now contained in clause 6(d) of rule X. Provisions formerly appearing in clause 4(e)(1)(B) of rule X, referred to in subsecs. (d)(3) and (i)(4), are now contained in clause 3(a)(2) of rule XI.
+
 #### Codification
 
 Section is comprised of section 803 of Pub. L. 101–194. Subsecs. (a) and (e) to (h) of section 803 amended the Rules of the House of Representatives which are not classified to the Code.
 
 #### Acceptance of Gifts; Amendments to Advisory Opinions
 
-Section 801(e) of Pub. L. 101–194 provided that: “The Committee on Standards of Official Conduct of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII of the Rules of the House of Representatives.”
+Section 801(e) of Pub. L. 101–194 provided that: “The Committee on Standards of Official Conduct of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIV\] of the Rules of the House of Representatives.”
 
 #### Noncampaign Use of Campaign Vehicles
 
@@ -87,4 +91,6 @@ Restrictions.—The Committee on Standards of Official Conduct of the House of R
 “(b)
 
 Exemption Authority.—The Committee on Standards of Official Conduct of the House of Representatives is authorized to grant prior written exemptions from the limitations contained in subsection (a)(1) in exceptional circumstances.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

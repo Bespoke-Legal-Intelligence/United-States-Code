@@ -22,3 +22,7 @@
 
 &emsp;“(B) the Committee on Government Operations of the House of Representatives (in the case of a bill or resolution reported by a committee of the House of Representatives).”
 
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

@@ -6,7 +6,7 @@
 
 (c) There are two assistants to the Chief of Engineers appointed as prescribed in section 3036 of this title. An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 165, §3040; Oct. 20, 1978, Pub. L. 95–485, title VIII, §805(a), 92 Stat. 1621; renumbered §3039 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §502(f)(2), 100 Stat. 1042.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 165, §3040; Pub. L. 95–485, title VIII, §805(a), Oct. 20, 1978, 92 Stat. 1621; renumbered §3039 and amended Pub. L. 99–433, title V, §502(f)(2), Oct. 1, 1986, 100 Stat. 1042.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,7 @@ In subsection (a), the words “in addition to the assistants prescribed by subs
 
 In subsection (b), the words “appointed from the officers of the Dental Corps” are substituted for the words “who shall be an officer of the Dental Corps, and who shall be selected and appointed”. The last sentence is substituted for the words “with the rank of major general”.
 
-Subsection (c) is based on section 11 of the National Defense Act, as amended by the Act of June 26, 1936, ch. 839, 49 Stat. 1974 (10:181 and 181a), which provides for two assistants to the Chief of Engineers with the rank of brigadier general, and as impliedly amended by section 513(a) and 513(b) of the Officer Personnel Act of 1947 (10:559g), which provides the method of selection of assistant chiefs of branches, and prescribes that assistant chiefs be promoted to the grade held as such in the Regular Army if they hold a lower grade in the Regular Army. Section 404(f) of the Army Organization Act of 1950, 64 Stat. 274, exempts these two positions from the operation of section 208(a) of that act (10:21h(a)).
+Subsection (c) is based on section 11 of the National Defense Act, as amended by the Act of June 26, 1936, ch.839, 49 Stat. 1974 (10:181 and 181a), which provides for two assistants to the Chief of Engineers with the rank of brigadier general, and as impliedly amended by section 513(a) and 513(b) of the Officer Personnel Act of 1947 (10:559g), which provides the method of selection of assistant chiefs of branches, and prescribes that assistant chiefs be promoted to the grade held as such in the Regular Army if they hold a lower grade in the Regular Army. Section 404(f) of the Army Organization Act of 1950, 64 Stat. 274, exempts these two positions from the operation of section 208(a) of that act (10:21h(a)).
 
 #### Prior Provisions
 
@@ -52,7 +52,7 @@ A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Ins
 
 1986—Pub. L. 99–433 renumbered section 3040 of this title as this section and substituted “section 3036” for “sections 3036 and 3039” in subsec. (a).
 
-1978—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief ofthe Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
+1978—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief of the Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
 
 #### Cross References
 

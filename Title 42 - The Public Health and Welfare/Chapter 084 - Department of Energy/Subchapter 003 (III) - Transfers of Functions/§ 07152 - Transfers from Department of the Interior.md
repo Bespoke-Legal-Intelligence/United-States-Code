@@ -8,17 +8,15 @@
 
 &emsp;(B) the Southwestern Power Administration;
 
-&emsp;(C) the Alaska Power Administration;
+&emsp;(C) the Bonneville Power Administration including but not limited to the authority contained in the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\];
 
-&emsp;(D) the Bonneville Power Administration including but not limited to the authority contained in the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\];
+&emsp;(D) the power marketing functions of the Bureau of Reclamation, including the construction, operation, and maintenance of transmission lines and attendant facilities; and
 
-&emsp;(E) the power marketing functions of the Bureau of Reclamation, including the construction, operation, and maintenance of transmission lines and attendant facilities; and
+&emsp;(E) the transmission and disposition of the electric power and energy generated at Falcon Dam and Amistad Dam, international storage reservoir projects on the Rio Grande, pursuant to the Act of June 18, 1954, as amended by the Act of December 23, 1963.
 
-&emsp;(F) the transmission and disposition of the electric power and energy generated at Falcon Dam and Amistad Dam, international storage reservoir projects on the Rio Grande, pursuant to the Act of June 18, 1954, as amended by the Act of December 23, 1963.
+(2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
 
-(2) The Southeastern Power Administration, the Southwestern Power Administration, the Bonneville Power Administration, and the Alaska Power Administration shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
-
-(3) The functions transferred in paragraphs (1)(E) and (1)(F) of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
+(3) The functions transferred in paragraphs (1)(E) and (1)(F) of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within theDepartment which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
 #### (b), (c) Repealed. Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407
 
@@ -34,21 +32,21 @@ There are transferred to, and vested in, the Secretary those functions of the Se
 
 (Pub. L. 95–91, title III, §302, Aug. 4, 1977, 91 Stat. 578; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407; Pub. L. 104–58, title I, §104(h), Nov. 28, 1995, 109 Stat. 560.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 104–58, title I, §104(h), Nov. 28, 1995, 109 Stat. 560, provided that, effective as of the later of two sale dates (the date that Eklutna Hydroelectric Project is conveyed to Eklutna Purchasers or date that Snettisham Hydroelectric Project is conveyed to Snettisham Purchaser), subsection (a) of this section is amended in par. (1), by striking subpar. (C) and redesignating subpars. (D) to (F) as (C) to (E), respectively, and, in par. (2), by striking “and the Alaska Power Administration” and inserting “and” after “Southwestern Power Administration,”.</i>
-
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(D), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(D), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 838 of Title 16 and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(C), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 838 of Title 16 and Tables.
 
-Act of June 18, 1954, as amended by the Act of December 23, 1963, referred to in subsec. (a)(1)(F), is act June 18, 1954, ch. 310, 68 Stat. 255, which was not classified to the Code.
+Act of June 18, 1954, as amended by the Act of December 23, 1963, referred to in subsec. (a)(1)(E), is act June 18, 1954, ch. 310, 68 Stat. 255, which was not classified to the Code.
 
 Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act May 16, 1910, ch. 240, 36 Stat. 369, which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1995—Subsec. (a)(1)(C) to (F). Pub. L. 104–58, §104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
+
+Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “Southwestern Power Administration,” and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
 
 1981—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
 
@@ -76,7 +74,7 @@ Title I of Pub. L. 104–58 provided that:
 
 &emsp;“(2) The term ‘Eklutna Purchase Agreement’ means the August 2, 1989, Eklutna Purchase Agreement between the Alaska Power Administration of the Department of Energy and the Eklutna Purchasers, together with any amendments thereto adopted before the enactment of this section \[Nov. 28, 1995\].
 
-&emsp;“(3) The term ‘Eklutna Purchasers’ means the Municipality of Anchorage doing business as MunicipalLight and Power, the Chugach Electric Association, Inc. and the Matanuska Electric Association, Inc.
+&emsp;“(3) The term ‘Eklutna Purchasers’ means the Municipality of Anchorage doing business as Municipal Light and Power, the Chugach Electric Association, Inc. and the Matanuska Electric Association, Inc.
 
 &emsp;“(4) The term ‘Snettisham’ means the Snettisham Hydroelectric Project and related assets as described in section 4 and Exhibit A of the Snettisham Purchase Agreement.
 
@@ -164,9 +162,9 @@ Termination of Alaska Power Administration.—Not later than one year after both
 
 “(g)
 
-Repeals.—(1) The Act of July 31, 1950 (64 Stat. 382) \[enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under section 312 of Title 48\] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers.
+Repeals.—(1) The Act of July 31, 1950 (64 Stat. 382) \[enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under section 312 of Title 48\] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers \[ownership of Eklutna project transferred Oct. 2, 1997\].
 
-“(2) Section 204 of the Flood Control Act of 1962 (76 Stat. 1193) is repealed effective on the date that Snettisham is conveyed to the Snettisham Purchaser.
+“(2) Section 204 of the Flood Control Act of 1962 (76 Stat. 1193) is repealed effective on the date that Snettisham is conveyed to the Snettisham Purchaser \[purchase of Snettisham project completed Aug. 19, 1998\].
 
 “(3) The Act of August 9, 1955 \[enacting sections 1962d–12 to 1962d–14 of this title\], concerning water resources investigation in Alaska (69 Stat. 618), is repealed.
 
@@ -201,4 +199,6 @@ Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “Tha
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7153 of this title; title 16 section 839f; title 33 section 2213.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -14,7 +14,7 @@
 
 (3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
 
-(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from the one status to the other within any uniformed service.
+(4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carriesthe accrued leave standing to his credit from the one status to the other within any uniformed service.
 
 (5) The limitation in the second sentence of paragraph (3) and in subsection (f) shall not apply with respect to leave accrued—
 
@@ -202,7 +202,7 @@ Pub. L. 101–510, div. A, title XI, §1115, Nov. 5, 1990, 104 Stat. 1636, as am
 
 Inapplicability of Eligibility Limitation.—The limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section does not apply with respect to the following leave:
 
-&emsp;“(1) Leave accrued by a member of a reserve component of the Armed Forces while serving on activeduty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to active duty authorized under section 672, 673, 673b, or 674 \[now 12301, 12302, 12304, or 12306\] of title 10, United States Code.
+&emsp;“(1) Leave accrued by a member of a reserve component of the Armed Forces while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to active duty authorized under section 672, 673, 673b, or 674 \[now 12301, 12302, 12304, or 12306\] of title 10, United States Code.
 
 &emsp;“(2) Leave accrued by a member of the Armed Forces in the Retired Reserve while serving on active duty in connection with the Persian Gulf conflict pursuant to an order to active duty authorized by section 675 \[now 12307\] of title 10, United States Code.
 

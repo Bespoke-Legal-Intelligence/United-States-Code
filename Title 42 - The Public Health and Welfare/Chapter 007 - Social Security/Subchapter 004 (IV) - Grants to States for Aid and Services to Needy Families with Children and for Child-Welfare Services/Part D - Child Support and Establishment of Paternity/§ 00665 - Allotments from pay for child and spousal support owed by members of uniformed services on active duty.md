@@ -18,7 +18,7 @@ For purposes of this section the term “authorized person” with respect to an
 
 The Secretary of Defense, in the case of the Army, Navy, Air Force, and Marine Corps, and the Secretary concerned (as defined in section 101(5) of title 37) in the case of each of the other uniformed services, shall each issue regulations applicable to allotments to be made under this section, designating the officials to whom notice of failure to make support payments, or notice to discontinue or adjust an allotment, should be given, prescribing the form and content of the notice and specifying any other rules necessary for such Secretary to implement this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §465, as added Sept. 3, 1982, Pub. L. 97–248, title I, §172(a), 96 Stat. 401.)
+(Aug. 14, 1935, ch. 531, title IV, §465, as added Pub. L. 97–248, title I, §172(a), Sept. 3, 1982, 96 Stat. 401.)
 
 #### Effective Date
 

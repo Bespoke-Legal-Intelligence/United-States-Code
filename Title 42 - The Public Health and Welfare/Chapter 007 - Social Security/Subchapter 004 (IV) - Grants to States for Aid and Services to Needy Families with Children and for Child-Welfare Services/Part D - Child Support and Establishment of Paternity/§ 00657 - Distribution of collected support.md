@@ -50,7 +50,7 @@ Subject to subsections (e) and (f) of this section, an amount collected on behal
 
 #### (cc) Distribution of the remainder to the family
 
-&emsp;&emsp;&emsp;&emsp;&emsp;To the extent that neither division (aa) nor division (bb) applies to theamount so collected, the State shall distribute the amount to the family.
+&emsp;&emsp;&emsp;&emsp;&emsp;To the extent that neither division (aa) nor division (bb) applies to the amount so collected, the State shall distribute the amount to the family.
 
 #### (ii) Distribution of arrearages that accrued before the family received assistance
 
@@ -72,7 +72,7 @@ Subject to subsections (e) and (f) of this section, an amount collected on behal
 
 #### (bb) Reimbursement of governments for assistance provided to the family
 
-&emsp;&emsp;&emsp;&emsp;&emsp;After the application of clause (i)(II)(aa) and division (aa) with respect to the amount so collected, the State shall retain the State share of the amount so collected, and pay to the Federal Government the Federal share (as defined in subsection (c)(2) of this section) of the amount so collected, but only to the extent necessary to reimburse amounts paid to the family as assistance by the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;After the application of clause (i)(II)(aa) and division (aa) with respectto the amount so collected, the State shall retain the State share of the amount so collected, and pay to the Federal Government the Federal share (as defined in subsection (c)(2) of this section) of the amount so collected, but only to the extent necessary to reimburse amounts paid to the family as assistance by the State.
 
 #### (cc) Distribution of the remainder to the family
 
@@ -172,7 +172,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
-(Aug. 14, 1935, ch. 531, title IV, §457, as added Jan. 4, 1975, Pub. L. 93–647, §101(a), 88 Stat. 2356; amended Nov. 12, 1977, Pub. L. 95–171, §11, 91 Stat. 1357; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2332(e), 95 Stat. 862; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2640(b), 98 Stat. 1145; Aug. 16, 1984, Pub. L. 98–378, §§7(a), 11(a), 98 Stat. 1315, 1317; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), 100 Stat. 2917, 2957; Dec. 22, 1987, Pub. L. 100–203, title IX, §9141(a)(1), 101 Stat. 1330–321; Oct. 13, 1988, Pub. L. 100–485, title I, §102(b), 102 Stat. 2346; Aug. 22, 1996, Pub. L. 104–193, title III, §302(a), 110 Stat. 2200; Aug. 5, 1997, Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, 111 Stat. 626, 627, 632.)
+(Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632.)
 
 #### References in Text
 
@@ -194,7 +194,7 @@ Subsec. (a)(2)(B)(i)(I), (ii)(I). Pub. L. 105–33, §5532(f)(1), in introductor
 
 Subsec. (a)(2)(B)(ii)(II). Pub. L. 105–33, §5532(f)(2), substituted “paragraph (5)” for “paragraph (4)”.
 
-Subsec. (a)(4). Pub. L. 105–33, §5532(d), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a family receiving assistance from an Indian tribe, distribute the amount so collected pursuant to an agreement entered into pursuant to a State plan under section 654(33) of this title.”
+Subsec. (a)(4). Pub. L. 105–33, §5532(d), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a family receivingassistance from an Indian tribe, distribute the amount so collected pursuant to an agreement entered into pursuant to a State plan under section 654(33) of this title.”
 
 Subsec. (a)(5). Pub. L. 105–33, §5532(e), substituted “1999” for “1998” in introductory provisions.
 
@@ -252,7 +252,7 @@ Section 302(c) of Pub. L. 104–193 provided that:
 
 “(1)
 
-In General.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 654 and 664 of this title\] shallbe effective on October 1, 1996, or earlier at the State's option.
+In General.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 654 and 664 of this title\] shall be effective on October 1, 1996, or earlier at the State's option.
 
 “(2)
 
@@ -276,7 +276,7 @@ Section 7(b) of Pub. L. 98–378 provided that: “The amendments made by subsec
 
 Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
-Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
+Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
 
 #### Effective Date of 1981 Amendment
 

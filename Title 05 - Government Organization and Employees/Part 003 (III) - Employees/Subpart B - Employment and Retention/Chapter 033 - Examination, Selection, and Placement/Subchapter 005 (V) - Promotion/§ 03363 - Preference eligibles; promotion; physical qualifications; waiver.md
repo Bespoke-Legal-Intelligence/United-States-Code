@@ -42,5 +42,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1599c; title 22 section 1438.
+This section is referred to in section 2302 of this title; title 22 section 1438.
 

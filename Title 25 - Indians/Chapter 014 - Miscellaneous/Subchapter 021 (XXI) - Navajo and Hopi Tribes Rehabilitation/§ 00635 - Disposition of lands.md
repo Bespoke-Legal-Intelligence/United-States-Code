@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, land owned in fee simple by the Nava
 
 #### (c) Transfer of unallotted lands to tribally owned or municipal corporations
 
-The Secretary of the Interior is authorized to transfer, upon request of the Navajo Tribal Council, to any corporation owned by the tribe and organized pursuant to State law, or to any municipal corporation organized under State law, legal title to or a leasehold interest in any unallotted lands held for the Navajo Indian Tribe, and thereafter the United States shall have no responsibility or liability for, but on request of the tribe shall render advice and assistance in, the management, use, or disposition of such lands.
+The Secretary of the Interior is authorized to transfer, upon request of the Navajo Tribal Council, to any corporation owned by the tribe and organized pursuant to State law, or to any municipal corporation organized under State law, legal title to or a leasehold interest in any unallotted lands held for the Navajo IndianTribe, and thereafter the United States shall have no responsibility or liability for, but on request of the tribe shall render advice and assistance in, the management, use, or disposition of such lands.
 
 (Apr. 19, 1950, ch. 92, §5, 64 Stat. 46; Pub. L. 86–505, §1, June 11, 1960, 74 Stat. 199.)
 

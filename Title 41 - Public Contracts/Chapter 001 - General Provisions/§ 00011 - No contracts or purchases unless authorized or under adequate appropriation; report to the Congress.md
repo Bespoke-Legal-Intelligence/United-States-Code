@@ -16,7 +16,7 @@ R.S. §3732 derived from act Mar. 2, 1861, ch. 84, §10, 12 Stat. 220.
 
 1984—Subsec. (a). Pub. L. 98–557, §17(e)(1)(A), substituted “except in the Department of Defense and in the Department of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy” for “except in the War and Navy Departments”.
 
-Pub. L. 98–557, §17(e)(1)(B), substituted “, transportation, or medical and hospital supplies” for “or transportation”, such change having been made by Act June 12, 1906, thereby requiring no further change in text. See Repeals note below.
+Pub. L. 98–557, §17(e)(1)(B), substituted “, transportation, or medical and hospital supplies” for “or transportation”, such change having been made by Act June12, 1906, thereby requiring no further change in text. See Repeals note below.
 
 Subsec. (b). Pub. L. 98–557, §17(e)(2), inserted provisions relating to the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 

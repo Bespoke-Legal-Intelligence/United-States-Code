@@ -16,7 +16,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 4346(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Sept. 24, 1983, Pub. L. 98–94, title X, §1004(a)(1), 97 Stat. 657; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §543(a), 111 Stat. 1743.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, §1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, §543(a), Nov. 18, 1997, 111 Stat. 1743.)
 
 Historical and Revision Notes
 
@@ -84,7 +84,7 @@ Section 543(d) of Pub. L. 105–85 provided that: “The amendments made by this
 
 Section 1004(d) of Pub. L. 98–94 provided that:
 
-“Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of suchtitle, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
+“Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of such title, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
 
 “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6957 and 9344 of this title and repealing sections 4345 and 9345 of this title\] shall take effect one year after the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to each person entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy after that effective date.”
 

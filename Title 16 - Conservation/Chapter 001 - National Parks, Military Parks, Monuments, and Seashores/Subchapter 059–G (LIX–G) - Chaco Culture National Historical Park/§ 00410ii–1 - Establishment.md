@@ -74,7 +74,7 @@ Acres
 
 &emsp;&emsp;Haystack
 
-565&nbsp;&nbsp;
+565  
 
 &emsp;&emsp;Hogback
 

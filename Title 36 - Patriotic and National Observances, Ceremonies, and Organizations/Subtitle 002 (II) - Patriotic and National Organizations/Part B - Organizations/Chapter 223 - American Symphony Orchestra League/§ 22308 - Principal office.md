@@ -1,0 +1,24 @@
+### §22308. Principal office
+
+The principal office of the corporation shall be in Charleston, West Virginia, or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1303.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+22308
+
+36:3405(a).
+
+Oct. 15, 1962, Pub. L. 87–817, §5(a), 76 Stat. 930.
+
+The words “the Commonwealth of Puerto Rico” are omitted as included in “territories, and possessions of the United States”.
+

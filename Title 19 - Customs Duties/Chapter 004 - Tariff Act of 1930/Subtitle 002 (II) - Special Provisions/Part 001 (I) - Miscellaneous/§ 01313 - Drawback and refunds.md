@@ -42,11 +42,11 @@ The provisions of this section shall apply to materials imported and used in the
 
 #### (h) Jet aircraft engines
 
-Upon the exportation of jet aircraft engines manufactured or produced abroad that have been overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
+Upon the exportation of jet aircraft engines manufactured or produced abroad that havebeen overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
 
 #### (i) Time limitation on exportation
 
-No drawback shall be allowed under the provisions of this section unless the completed articleis exported within five years after importation of the imported merchandise.
+No drawback shall be allowed under the provisions of this section unless the completed article is exported within five years after importation of the imported merchandise.
 
 #### (j) Unused merchandise drawback
 
@@ -108,11 +108,11 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(A) the term “NAFTA Act” means the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301 et seq.\];
 
-&emsp;(B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\]; and
+&emsp;(B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the samerespective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act \[19 U.S.C. 3301(4), 3333(a)\]; and
 
 &emsp;(C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (<i>o</i>) of this section is subject to section 1508(b)(2)(B) of this title.
 
-(2) For purposes of subsections (a), (b), (f), (h), (p), and (q) of this section, if an article that is exported to a NAFTA country is a good subjectto NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
+(2) For purposes of subsections (a), (b), (f), (h), (p), and (q) of this section, if an article that is exported to a NAFTA country is a good subject to NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
 
 &emsp;(A) the total amount of customs duties paid or owed on the good on importation into the United States, or
 
@@ -274,7 +274,7 @@ Merchandise that is exported or destroyed to satisfy any claim for drawback shal
 
 &emsp;Notwithstanding paragraph (1), drawback shall also be available pursuant to subsection (a) of this section with respect to any tobacco subject to the over-quota rate of duty established under a tariff-rate quota.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Aug. 18, 1958, Pub. L. 85–673, §1, 72 Stat. 624; Oct. 22, 1968, Pub. L. 90–630, §2(b), 82 Stat. 1328; Jan. 12, 1971, Pub. L. 91–692, §3(a), 84 Stat. 2076; Dec. 28, 1980, Pub. L. 96–609, title II, §201(a), 94 Stat. 3560; Oct. 30, 1984, Pub. L. 98–573, title II, §202, 98 Stat. 2973; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(2), 100 Stat. 2924; Sept. 28, 1988, Pub. L. 100–449, title II, §204(c)(3), 102 Stat. 1862; Aug. 20, 1990, Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), 104 Stat. 649, 707; Dec. 8, 1993, Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), 107 Stat. 2089, 2092, 2192; Dec. 8, 1994, Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), 108 Stat. 4961, 4965; Oct. 11, 1996, Pub. L. 104–295, §§7, 10, 21(e)(4), 110 Stat. 3518, 3519, 3530.)
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530.)
 
 #### References in Text
 
@@ -382,11 +382,11 @@ Amendment by section 422(d) of Pub. L. 103–465 effective Sept. 13, 1995, see s
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico onJan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
 Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
-Section 632(b) of Pub. L. 103–182 provided that: “Notwithstanding section 514 of the Tariff Act of 1930 (19U.S.C. 1514) or any other provision of law, the amendment made by paragraph (6) of subsection (a) \[amending this section\] shall apply to—
+Section 632(b) of Pub. L. 103–182 provided that: “Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendment made by paragraph (6) of subsection (a) \[amending this section\] shall apply to—
 
 &emsp;“(1) claims filed or liquidated on or after January 1, 1988, and
 

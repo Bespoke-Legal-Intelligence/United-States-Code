@@ -30,7 +30,7 @@ The Secretary of the Interior shall establish regulations requiring all material
 
 #### References in Text
 
-The 1981 amendments to this subchapter, referred to in subsec. (a)(1), probably means the amendments made to this subchapter in 1982 by Pub. L. 97–212, which amended sections 1841 to 1845 of this title, repealed section 1847 of this title, and enacted a provision set out as a note under section 1841 of this title. Pub. L. 97–212 also enacted a provision set out as a note under section 1823 of Title 16, Conservation, and amended a provision set out as a note under section 1823 of Title 16.
+The 1981 amendments to this subchapter, referred to in subsec. (a)(1), probably means the amendments made to this subchapter in 1982 by Pub. L. 97–212, which amended sections 1841 to 1845 of this title, repealed section 1847 of this title, and enacted a provision set out as a note under section 1841 of this title. Pub. L. 97–212 also enacted a provision set out as a note under section1823 of Title 16, Conservation, and amended a provision set out as a note under section 1823 of Title 16.
 
 The date of enactment of such amendments, referred to in subsec. (a)(1), probably means the date of enactment of Pub. L. 97–212, which was approved June 30, 1962.
 

@@ -22,7 +22,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 #### (2) Programs of national significance
 
-&emsp;Of amounts appropriated or otherwise available to carry out this section for any fiscal year, the Secretary shall reserve 5 percent to be provided for activities and projects of national significance, such as activities authorized by section 9910(a)(2)(F) <sup>1</sup> of this title, or projects expected to have a significant impact in preventing the abuse of drugs by youth.
+&emsp;Of amounts appropriated or otherwise available to carry out this section for any fiscal year, the Secretary shall reserve 5 percent to be provided for activities and projects of national significance or projects expected to have a significant impact in preventing the abuse of drugs by youth.
 
 #### (3) Specified appropriations
 
@@ -46,7 +46,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 &emsp;&emsp;Amounts referred to in subparagraph (A)(iii) shall be used by the Secretary to make grants, on a competitive basis and taking into consideration with respect to the States—
 
-&emsp;&emsp;&emsp;(i) the highest proportions of school-aged youth are <sup>2</sup> at risk of drug abuse;
+&emsp;&emsp;&emsp;(i) the highest proportions of school-aged youth are <sup>1</sup> at risk of drug abuse;
 
 &emsp;&emsp;&emsp;(ii) if a tangible need has been identified by the State involved; and
 
@@ -94,7 +94,7 @@ In making grants under this section, the Secretary shall give priority to—
 
 #### (e) Activities and projects
 
-Financial assistance may be provided with a grant received under subsection (a) <sup>3</sup> under this section by a State as follows:
+Financial assistance may be provided with a grant received under subsection (a) <sup>2</sup> under this section by a State as follows:
 
 #### (1) Community services and partnerships
 
@@ -112,7 +112,7 @@ Financial assistance may be provided with a grant received under subsection (a)�
 
 &emsp;&emsp;(F) business organizations; and
 
-> &emsp;in consultation with local and State health departments and with community health ormental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
+> &emsp;in consultation with local and State health departments and with community health or mental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
 
 #### (2) Other activities and projects
 
@@ -126,15 +126,15 @@ The Secretary shall provide for the evaluation of activities and projects conduc
 
 To carry out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1989, $55,000,000 for fiscal year 1990, $60,000,000 for fiscal year 1991, $66,550,000 for fiscal year 1992, and $73,205,000 for fiscal year 1993.
 
-(Pub. L. 100–690, title III, §3521, Nov. 18, 1988, 102 Stat. 4258; Pub. L. 101–93, §4(1), Aug. 16, 1989, 103 Stat. 611; Pub. L. 101–226, §23, Dec. 12, 1989, 103 Stat. 1941; Pub. L. 103–382, title III, §394(b), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 100–690, title III, §3521, Nov. 18, 1988, 102 Stat. 4258; Pub. L. 101–93, §4(1), Aug. 16, 1989, 103 Stat. 611; Pub. L. 101–226, §23, Dec. 12, 1989, 103 Stat. 1941; Pub. L. 103–382, title III, §394(b), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 105–285, title II, §202(d), Oct. 27, 1998, 112 Stat. 2755.)
 
 #### References in Text
 
-Section 9910(a)(2) of this title, referred to in subsec. (c)(2), was amended by Pub. L. 103–252, title II, §203(a), May 18, 1994, 108 Stat. 654, and, as so amended, no longer contains subparagraphs.
-
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–285 struck out “, such as activities authorized by section 9910(a)(2)(F) of this title,” after “national significance”.
 
 1994—Subsec. (d)(8)(A). Pub. L. 103–382 substituted “title IV of the Elementary and Secondary Education Act of 1965” for “the Drug-Free Schools and Communities Act of 1986”.
 
@@ -148,9 +148,7 @@ Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of t
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “who are”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “who are”.</i>
-
-<i><sup>3</sup></i><i> So in original. Words “under subsection (a)” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Words “under subsection (a)” probably should not appear.</i>
 

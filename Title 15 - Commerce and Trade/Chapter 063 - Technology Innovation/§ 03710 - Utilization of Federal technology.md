@@ -10,7 +10,7 @@
 
 #### (b) Establishment of Research and Technology Applications Offices
 
-Each Federal laboratory shall establish an Office of Research and technology Applications.Laboratories having existing organizational structures which perform the functions of this section may elect to combine the Office of Research and Technology Applications within the existing organization. The staffing and funding levels for these offices shall be determined between each Federal laboratory and the Federal agency operating or directing the laboratory, except that (1) each laboratory having 200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions as staff for its Office of Research and Technology Applications, and (2) each Federal agency which operates or directs one or more Federal laboratories shall make available sufficient funding, either as a separate line item or from the agency's research and development budget, to support the technology transfer function at the agency and at its laboratories, including support of the Offices of Research and Technology Applications. Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process. The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.
+Each Federal laboratory shall establish an Office of Research and technology Applications. Laboratories having existing organizational structures which perform the functions of this section may elect to combine the Office of Research and Technology Applications within the existing organization. The staffing and funding levels for these offices shall be determined between each Federal laboratory and the Federal agency operating or directing the laboratory, except that (1) each laboratory having 200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions as staff for its Office of Research and Technology Applications, and (2) each Federal agency which operates or directs one or more Federal laboratories shall make available sufficient funding, either as a separate line item or from the agency's research and development budget, to support the technology transfer function at the agency and at its laboratories, including support of the Offices of Research and Technology Applications. Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process. The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.
 
 #### (c) Functions of Research and Technology Applications Offices
 
@@ -68,9 +68,11 @@ The National Technical Information Service shall—
 
 &emsp;(H) facilitate communication and cooperation between Offices of Research and Technology Applications of Federal laboratories and regional, State, and local technology transfer organizations;
 
-&emsp;(I) when requested, assist colleges or universities, businesses, nonprofit organizations, State or local governments, or regional organizations to establish programs to stimulate research and to encourage technology transfer in such areas as technology program development, curriculum design, long-term research planning, personnel needs projections, and productivity assessments; and
+&emsp;(I) when requested, assist colleges or universities, businesses, nonprofit organizations, State or local governments, or regional organizations to establish programs to stimulate research and to encourage technology transfer in such areas as technology program development, curriculum design, long-term research planning, personnel needs projections, and productivity assessments;
 
-&emsp;(J) seek advice in each Federal laboratory consortium region from representatives of State and local governments, large and small business, universities, and other appropriate persons on the effectiveness of the program (and any such advice shall be provided at no expense to the Government).
+&emsp;(J) seek advice in each Federal laboratory consortium region from representatives of State and local governments, large and small business, universities, and other appropriate persons on the effectiveness of the program (and any such advice shall be provided at no expense to the Government); and
+
+&emsp;(K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologies and projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in section 3002 of title 29), including technologies and projects that incorporate the principles of universal design (as defined in section 3002 of title 29), as appropriate.
 
 (2) The membership of the Consortium shall consist of the Federal laboratories described in clause (1) of subsection (b) of this section and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
 
@@ -100,7 +102,7 @@ The National Technical Information Service shall—
 
 &emsp;(C) furnish advice and assistance, upon request, to Federal agencies concerning their cooperative research and development programs and projects.
 
-(2) Two years after October 20, 1986, and every two years thereafter, the Secretary shall submita summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation.
+(2) Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report's preparation.
 
 (3) Not later than one year after October 20, 1986, the Secretary shall submit to the President and the Congress a report regarding—
 
@@ -114,9 +116,11 @@ The National Technical Information Service shall—
 
 The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under the <sup>2</sup> section.
 
-(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779.)
+(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418,title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655.)
 
 #### Amendments
+
+1998—Subsec. (e)(1)(K). Pub. L. 105–394 added subpar. (K).
 
 1996—Subsec. (e)(7)(B). Pub. L. 104–113, §3, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if—
 
@@ -158,7 +162,7 @@ Pub. L. 100–418, §5115(b)(2), substituted “National Institute of Standards 
 
 Subsec. (g)(1). Pub. L. 100–519, §201(d)(3), inserted reference to the Under Secretary.
 
-Subsec. (h). Pub. L. 100–519, §212(a)(4), struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as ofSeptember 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
+Subsec. (h). Pub. L. 100–519, §212(a)(4), struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
 
 Pub. L. 100–418, §5163(c)(1), added subsec. (h).
 
@@ -170,7 +174,7 @@ Subsec. (c)(1). Pub. L. 99–502, §4(b)(2)(A), added par. (1) and struck out fo
 
 Subsec. (c)(3). Pub. L. 99–502, §4(b)(2)(B), substituted “the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer,” for “the Center for the Utilization of Federal Technology” and struck out “and” after the semicolon.
 
-Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted “to State and local government officials; and” for “in response to requests from State and local government officials.”.
+Subsec. (c)(4). Pub. L. 99–502, §4(b)(2)(C), substituted “to State and local government officials; and” for “inresponse to requests from State and local government officials.”.
 
 Subsec. (c)(5). Pub. L. 99–502, §4(b)(2)(D), added par. (5).
 
@@ -218,7 +222,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (7) cooperate, under policy guidance provided by the Office of Federal Procurement Policy, with the heads of other affected departments and agencies in the development of a uniform policy permitting Federal contractors to retain rights to software, engineering drawings, and other technical data generated by Federal grants and contracts, in exchange for royalty-free use by or on behalf of the government.
 
-Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of Agriculture, Commerce, Energy, andHealth and Human Services and the Administrator of the National Aeronautics and Space Administration shall select one or more of their Federal laboratories to participate in the Technology Share Program. Consistent with its mission and policies and within its overall funding allocation in any year, each Federal laboratory so selected shall:
+Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of Agriculture, Commerce, Energy, and Health and Human Services and the Administrator of the National Aeronautics and Space Administration shall select one or more of their Federal laboratories to participate in the Technology Share Program. Consistent with its mission and policies and within its overall funding allocation in any year, each Federal laboratory so selected shall:
 
 (a) Identify areas of research and technology of potential importance to long-term national economic competitiveness and in which the laboratory possesses special competence and/or unique facilities;
 
@@ -228,7 +232,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
 
-Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from and fully exploits scientific research and technology developed abroad,
+Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from andfully exploits scientific research and technology developed abroad,
 
 (a) The head of each Executive department and agency, when negotiating or entering into cooperative research and development agreements and licensing arrangements with foreign persons or industrial organizations (where these entities are directly or indirectly controlled by a foreign company or government), shall, in consultation with the United States Trade Representative, give appropriate consideration:
 

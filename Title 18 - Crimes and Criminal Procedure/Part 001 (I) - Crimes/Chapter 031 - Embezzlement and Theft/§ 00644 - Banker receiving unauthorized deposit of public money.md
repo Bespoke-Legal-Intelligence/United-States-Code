@@ -2,7 +2,7 @@
 
 Whoever, not being an authorized depositary of public moneys, knowingly receives from any disbursing officer, or collector of internal revenue, or other agent of the United States, any public money on deposit, or by way of loan or accommodation, with or without interest, or otherwise than in payment of a debt against the United States, or uses, transfers, converts, appropriates, or applies any portion of the public money for any purpose not prescribed by law is guilty of embezzlement and shall be fined under this title or not more than the amount so embezzled, whichever is greater, or imprisoned not more than ten years, or both; but if the amount embezzled does not exceed $1,000, he shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 726; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(2)(G), 108 Stat. 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 726; Pub. L. 103–322, title XXXIII, §330016(2)(G), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

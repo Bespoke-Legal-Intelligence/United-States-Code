@@ -2,7 +2,7 @@
 
 #### (a) Addition of rights and remedies; recovery of actual damages; State securities commissions
 
-The rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity; but no person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in one or more actions, a total amount in excess of his actual damages on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations thereunder.No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title.
+Except as provided in subsection (f) of this section, the rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity; but no person permitted to maintain a suit for damages under the provisions of this chapter shall recover, through satisfaction of judgment in one or more actions, a total amount in excess of his actual damages on account of the act complained of. Except as otherwise specifically provided in this chapter, nothing in this chapter shall affect the jurisdiction of the securities commission (or any agency or officer performing like functions) of any State over any security or any person insofar as it does not conflict with the provisions of this chapter or the rules and regulations thereunder. No State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to section 78s(b) of this title.
 
 #### (b) Modification of disciplinary procedures
 
@@ -30,13 +30,115 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 &emsp;(C) effects securities transactions and performs functions incidental thereto (such as clearance, settlement, and custody) or required in connection therewith by rules of the Commission or a self-regulatory organization of which such person is a member or person associated with a member or in which such person is a participant.
 
-(June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; June 4, 1975, Pub. L. 94–29, §21, 89 Stat. 160; Oct.13, 1982, Pub. L. 97–303, §4, 96 Stat. 1409; Dec. 4, 1987, Pub. L. 100–181, title III, §§327–329, 101 Stat. 1259; Oct. 11, 1996, Pub. L. 104–290, title I, §103(b), 110 Stat. 3422.)
+#### (f) Limitations on remedies
+
+#### (1) Class action limitations
+
+&emsp;No covered class action based upon the statutory or common law of any State or subdivision thereof may be maintained in any State or Federal court by any private party alleging—
+
+&emsp;&emsp;(A) a misrepresentation or omission of a material fact in connection with the purchase or sale of a covered security; or
+
+&emsp;&emsp;(B) that the defendant used or employed any manipulative or deceptive device or contrivance in connection with the purchase or sale of a covered security.
+
+#### (2) Removal of covered class actions
+
+&emsp;Any covered class action brought in any State court involving a covered security, as set forth in paragraph (1), shall be removable to the Federal district court for the district in which the action is pending, and shall be subject to paragraph (1).
+
+#### (3) Preservation of certain actions
+
+#### (A) Actions under State law of State of incorporation
+
+#### (i) Actions preserved
+
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1) or (2), a covered class action described in clause (ii) of this subparagraph that is based upon the statutory or common law of the State in which the issuer is incorporated (in the case of a corporation) or organized (in the case of any other entity) may be maintained in a State or Federal court by a private party.
+
+#### (ii) Permissible actions
+
+&emsp;&emsp;&emsp;A covered class action is described in this clause if it involves—
+
+&emsp;&emsp;&emsp;&emsp;(I) the purchase or sale of securities by the issuer or an affiliate of the issuer exclusively from or to holders of equity securities of the issuer; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any recommendation, position, or other communication with respect to the sale of securities of an issuer that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is made by or on behalf of the issuer or an affiliate of the issuer to holders of equity securities of the issuer; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) concerns decisions of such equity holders with respect to voting their securities, acting in response to a tender or exchange offer, or exercising dissenters’ or appraisal rights.
+
+#### (B) State actions
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection, nothing in this subsection may be construed to preclude a State or political subdivision thereof or a State pension plan from bringing an action involving a covered security on its own behalf, or as a member of a class comprised solely of other States, political subdivisions, or State pension plans that are named plaintiffs, and that have authorized participation, in such action.
+
+#### (ii) State pension plan defined
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “State pension plan” means a pension plan established and maintained for its employees by the government of a State or political subdivision thereof, or by any agency or instrumentality thereof.
+
+#### (C) Actions under contractual agreements between issuers and indenture trustees
+
+&emsp;&emsp;Notwithstanding paragraph (1) or (2), a covered class action that seeks to enforce a contractual agreement between an issuer and an indenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
+
+#### (D) Remand of removed actions
+
+&emsp;&emsp;In an action that has been removed from a State court pursuant to paragraph (2), if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
+
+#### (4) Preservation of State jurisdiction
+
+&emsp;The securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions.
+
+#### (5) Definitions
+
+&emsp;For purposes of this subsection, the following definitions shall apply:
+
+#### (A) Affiliate of the issuer
+
+&emsp;&emsp;The term “affiliate of the issuer” means a person that directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with, the issuer.
+
+#### (B) Covered class action
+
+&emsp;&emsp;The term “covered class action” means—
+
+&emsp;&emsp;&emsp;(i) any single lawsuit in which—
+
+&emsp;&emsp;&emsp;&emsp;(I) damages are sought on behalf of more than 50 persons or prospective class members, and questions of law or fact common to those persons or members of the prospective class, without reference to issues of individualized reliance on an alleged misstatement or omission, predominate over any questions affecting only individual persons or members; or
+
+&emsp;&emsp;&emsp;&emsp;(II) one or more named parties seek to recover damages on a representative basis on behalf of themselves and other unnamed parties similarly situated, and questions of law or fact common to those persons or members of the prospective class predominate over any questions affecting only individual persons or members; or
+
+&emsp;&emsp;&emsp;(ii) any group of lawsuits filed in or pending in the same court and involving common questions of law or fact, in which—
+
+&emsp;&emsp;&emsp;&emsp;(I) damages are sought on behalf of more than 50 persons; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the lawsuits are joined, consolidated, or otherwise proceed as a single action for any purpose.
+
+#### (C) Exception for derivative actions
+
+&emsp;&emsp;Notwithstanding subparagraph (B), the term “covered class action” does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
+
+#### (D) Counting of certain class members
+
+&emsp;&emsp;For purposes of this paragraph, a corporation, investment company, pension plan, partnership, or other entity, shall be treatedas one person or prospective class member, but only if the entity is not established for the purpose of participating in the action.
+
+#### (E) Covered security
+
+&emsp;&emsp;The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) of that Act \[15 U.S.C. 77d(2)\].
+
+#### (F) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
+
+(June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
+The Securities Act of 1933, referred to in subsec. (f)(5)(E), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–353, §101(b)(1)(A), substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”.
+
+Subsec. (f). Pub. L. 105–353, §101(b)(1)(B), added subsec. (f).
 
 1996—Subsec. (a). Pub. L. 104–290 substituted “Except as otherwise specifically provided in this chapter, nothing” for “Nothing”.
 
@@ -51,6 +153,10 @@ Subsec. (e)(1). Pub. L. 100–181, §329, substituted “subsequent to the date 
 1975—Subsec. (b). Pub. L. 94–29, §21(1), struck out provisions that nothing in this chapter be construed to modify existing law with regard to the binding effect on any member of an exchange of any disciplinary action taken by the authorities of an exchange and made the remaining provisions applicable to all members of and participants in all self-regulatory organizations as well as municipal securities professionals.
 
 Subsecs. (c) to (e). Pub. L. 94–29, §21(2), added subsecs. (c) to (e).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–353 not to affect or apply to any action commenced before and pending on Nov. 3, 1998, see section 101(c) of Pub. L. 105–353, set out as a note under section 77p of this title.
 
 #### Effective Date of 1975 Amendment
 

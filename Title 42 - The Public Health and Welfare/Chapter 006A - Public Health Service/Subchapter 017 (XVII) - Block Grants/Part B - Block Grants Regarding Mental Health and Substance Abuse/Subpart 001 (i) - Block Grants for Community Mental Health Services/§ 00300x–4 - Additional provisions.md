@@ -24,7 +24,7 @@ The Secretary may make a grant under section 300x of this title to a State only 
 
 &emsp;(B) The Secretary may make a grant under section 300x of this title for a fiscal year only if the State involved submits to the Secretary information sufficient for the Secretary to make the determination required in subparagraph (A).
 
-(July 1, 1944, ch. 373, title XIX, §1915, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 383.)
+(July 1, 1944, ch. 373, title XIX, §1915, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 383.)
 
 #### Prior Provisions
 

@@ -12,5 +12,5 @@ The Board shall, for a class of rail carriers providing transportation subject t
 
 #### Prior Provisions
 
-A prior section 11143, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426, related to depreciation charges, prior to thegeneral amendment of this subtitle by Pub. L. 104–88, §102(a).
+A prior section 11143, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426, related to depreciation charges, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 

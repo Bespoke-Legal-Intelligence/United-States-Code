@@ -22,7 +22,7 @@ The services eligible to be provided under subsection (a) of this section are se
 
 &emsp;&emsp;(E) enhance the development of children to ensure that such children enter school prepared and ready to learn;
 
-&emsp;&emsp;(F) promote the highest quality of educational opportunity, especially through drop-out prevention programs, remediation for young individuals who have dropped out of school, and vocational education;
+&emsp;&emsp;(F) promote the highest quality of educational opportunity, especially throughdrop-out prevention programs, remediation for young individuals who have dropped out of school, and vocational education;
 
 &emsp;&emsp;(G) provide effective training apprenticeships and employment opportunities;
 

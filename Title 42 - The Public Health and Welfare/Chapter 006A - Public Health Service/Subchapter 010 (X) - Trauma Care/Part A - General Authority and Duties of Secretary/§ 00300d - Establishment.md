@@ -20,7 +20,7 @@ The Secretary may make grants, and enter into cooperative agreements and contrac
 
 The Administrator of the Health Resources and Services Administration shall ensure that this subchapter is administered by the Division of Trauma and Emergency Medical Systems within such Administration. Such Division shall be headed by a director appointed by the Secretary from among individuals who are knowledgeable by training or experience in the development and operation of trauma and emergency medical systems.
 
-(July 1, 1944, ch. 373, title XII, §1201, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2916; amended Dec. 14, 1993, Pub. L. 103–183, title VI, §601(a), 107 Stat. 2238; May 20, 1996, Pub. L. 104–146, §12(b), 110 Stat. 1373.)
+(July 1, 1944, ch. 373, title XII, §1201, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916; amended Pub. L. 103–183, title VI, §601(a), Dec. 14, 1993, 107 Stat. 2238; Pub. L. 104–146, §12(b), May 20, 1996, 110 Stat. 1373.)
 
 #### Prior Provisions
 
@@ -54,7 +54,7 @@ Section 2 of Pub. L. 101–590 provided that: “The Congress finds that—
 
 &emsp;“(5) few States and communities have developed and implemented trauma care systems;
 
-&emsp;“(6) many trauma centers have incurred substantial uncompensated costs in providing trauma care, and such costs have caused many such centers to cease participation in trauma care systems; and
+&emsp;“(6) many trauma centers have incurred substantial uncompensated costs in providing trauma care, andsuch costs have caused many such centers to cease participation in trauma care systems; and
 
 &emsp;“(7) the number of incidents of physical trauma in the United States is a serious medical and social problem, and the number of deaths resulting from such incidents can be substantially reduced by improving the trauma-care components of the systems for the provision of emergency medical services in the United States.”
 

@@ -10,7 +10,7 @@ In making and administering guarantees and loans under section 2344 of this titl
 
 &emsp;(3) renovate, improve, modernize, complete, insure, rent, sell, or otherwise deal with, upon such terms and conditions and for such consideration as he shall determine to be reasonable, any real or personal property conveyed to or otherwise acquired by him in connection with such guarantees or loans;
 
-&emsp;(4) acquire, hold, transfer, release, or convey any real or personal property or any interesttherein whenever deemed necessary or appropriate, and execute all legal documents for such purposes; and
+&emsp;(4) acquire, hold, transfer, release, or convey any real or personal property or any interest therein whenever deemed necessary or appropriate, and execute all legal documents for such purposes; and
 
 &emsp;(5) exercise all such other powers and take all such other acts as may be necessary or incidental to the carrying out of functions pursuant to section 2344 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
+There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of theFederal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
 
 &emsp;(1) The Secretary of Agriculture, who shall be the permanent chairman of the coordinating group.
 

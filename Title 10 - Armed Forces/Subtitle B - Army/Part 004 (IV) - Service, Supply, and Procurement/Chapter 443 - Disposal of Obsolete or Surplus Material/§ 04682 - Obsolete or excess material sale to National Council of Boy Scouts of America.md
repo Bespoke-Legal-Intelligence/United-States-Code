@@ -2,7 +2,7 @@
 
 Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Army, under such conditions as he may prescribe, may sell obsolete or excess material to the National Council of the Boy Scouts of America. Sales under this section shall be at fair value to the Department of the Army, including packing, handling, and transportation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 262; Dec. 12, 1980, Pub. L. 96–513, title V, §512(19), 94 Stat. 2930.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 262; Pub. L. 96–513, title V, §512(19), Dec. 12, 1980, 94 Stat. 2930.)
 
 Historical and Revision Notes
 
@@ -27,8 +27,4 @@ The words “obsolete or excess material” are substituted for the words “suc
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Cross References
-
-Boy Scouts of America, see section 21 et seq. of Title 36, Patriotic Societies and Observances.
 

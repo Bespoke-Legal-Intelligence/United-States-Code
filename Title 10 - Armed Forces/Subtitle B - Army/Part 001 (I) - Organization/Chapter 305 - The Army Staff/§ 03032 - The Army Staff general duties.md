@@ -14,7 +14,7 @@
 
 &emsp;(5) perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 161; Aug. 6, 1958, Pub. L. 85–599, §4(g), 72 Stat. 517; Oct. 1, 1986, Pub. L. 99–433, title V, §502(b), 100 Stat. 1040.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 161; Pub. L. 85–599, §4(g), Aug. 6, 1958, 72 Stat. 517; Pub. L. 99–433, title V, §502(b), Oct. 1, 1986, 100 Stat. 1040.)
 
 Historical and Revision Notes
 

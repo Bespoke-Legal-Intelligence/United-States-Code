@@ -18,7 +18,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>1949</b>—Act May 24, 1949, substituted “patents” after “relating to” for “registered trade-marks, labels, or prints”, and inserted “or by another officer of the Patent Office authorized to do so by the Commissioner” after “Commissioner of Patents”.
+1949—Act May 24, 1949, substituted “patents” after “relating to” for “registered trade-marks, labels, or prints”, and inserted “or by another officer of the Patent Office authorized to do so by the Commissioner” after “Commissioner of Patents”.
 
 #### Change of Name
 

@@ -6,7 +6,7 @@ Exposure Fees.—The Secretary of Defense shall charge a fee (known as “exposu
 
 (b)
 
-Amount of Exposure Fee.—To the extent that the cost of the loan guarantees under this subchapter is not otherwise provided for in appropriations Acts, the fee imposed under subsection (a) with respect to a loan guarantee shall be fixed in an amount that is sufficient to meet potential liabilities of the United States under the loan guarantee.
+Amount of Exposure Fee.—To the extent that the cost of the loan guarantees under this subchapter is not otherwise provided for in appropriations Acts, the fee imposed under subsection (a) with respect to a loan guarantee shall be fixed in an amount that is sufficient tomeet potential liabilities of the United States under the loan guarantee.
 
 (c)
 

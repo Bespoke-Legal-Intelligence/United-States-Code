@@ -6,7 +6,7 @@
 
 (c) Any officer or employee of the Department of Agriculture assigned to perform weighing functions under this chapter shall be considered as an employee of the Department of Agriculture assigned to perform inspection functions for the purposes of sections 1114 and 111 of Title 18.
 
-(Aug. 11, 1916, ch. 313, pt. B, §14, as added Aug. 15, 1968, Pub. L. 90–487, §1, 82 Stat. 767; amended Oct. 21, 1976, Pub. L. 94–582, §17, 90 Stat. 2884; Nov. 24, 1993, Pub. L. 103–156, §§8, 12(m), 107 Stat. 1527, 1529; Oct. 13, 1994, Pub. L. 103–354, title II, §293(a)(7), 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, §14, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 767; amended Pub. L. 94–582, §17, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 103–156, §§8, 12(m), Nov. 24, 1993, 107 Stat. 1527, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 All consuls of the United States having any knowledge or belief of any case or practice of any person who obtains verification of any invoice whereby the revenue of the United States is or may be defrauded, shall report the facts to the appropriate customs officer of the port where the revenue is or may be defrauded, or to the Secretary of the Treasury.
 
-(R.S. §2863; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100; June 2, 1970, Pub. L. 91–271, title III, §319, 84 Stat. 293.)
+(R.S. §2863; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100; Pub. L. 91–271, title III, §319, June 2, 1970, 84 Stat. 293.)
 
 #### Codification
 

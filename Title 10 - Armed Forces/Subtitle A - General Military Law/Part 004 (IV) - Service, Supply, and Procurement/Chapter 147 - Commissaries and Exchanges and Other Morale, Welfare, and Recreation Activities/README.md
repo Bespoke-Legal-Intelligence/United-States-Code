@@ -15,10 +15,15 @@
 | [2489a.](%C2%A7%2002489a%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md) | Sale or rental of sexually explicit material prohibited. |
 | \[2490. | Renumbered.\] |
 | [2490a.](%C2%A7%2002490a%20-%20Combined%20exchange%20and%20commissary%20stores.md) | Combined exchange and commissary stores. |
+| \[2491. | Renumbered.\] |
+| [2492\.](%C2%A7%2002492%20-%20Overseas%20commissary%20and%20exchange%20stores%20access%20and%20purchase%20restrictions.md) | Overseas commissary and exchange stores: access and purchase restrictions. |
+| [2493\.](%C2%A7%2002493%20-%20Fisher%20Houses%20administration%20as%20nonappropriated%20fund%20instrumentality.md) | Fisher Houses: administration as nonappropriated fund instrumentality. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title III, §365(b), title IX, §906(a)(2), Oct. 17, 1998, 112 Stat. 1987, 2095, added items 2492 and 2493.
 
 1997—Pub. L. 105–85, div. A, title III, §371(a)(1), (c)(1), Nov. 18, 1997, 111 Stat. 1705, substituted “COMMISSARIES AND EXCHANGES AND OTHER MORALE, WELFARE, AND RECREATION ACTIVITIES” for “UTILITIES AND SERVICES” as chapter heading and struck out items 2481 “Utilities and services: sale; expansion and extension of systems and facilities”, 2483 “Sale of electricity from alternate energy and cogeneration production facilities”, and 2490 “Utility services: furnishing for certain buildings”.
 
@@ -72,3 +77,6 @@ Property records, basis and reports, see section 2721 of this title.
 - [&sect; 02489a - Sale or rental of sexually explicit material prohibited](%C2%A7%2002489a%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md)
 - [&sect; 02490 - Renumbered &sect;2868](%C2%A7%2002490%20-%20Renumbered%20%C2%A72868.md)
 - [&sect; 02490a - Combined exchange and commissary stores](%C2%A7%2002490a%20-%20Combined%20exchange%20and%20commissary%20stores.md)
+- [&sect; 02491 - Renumbered &sect;2500](%C2%A7%2002491%20-%20Renumbered%20%C2%A72500.md)
+- [&sect; 02492 - Overseas commissary and exchange stores access and purchase restrictions](%C2%A7%2002492%20-%20Overseas%20commissary%20and%20exchange%20stores%20access%20and%20purchase%20restrictions.md)
+- [&sect; 02493 - Fisher Houses administration as nonappropriated fund instrumentality](%C2%A7%2002493%20-%20Fisher%20Houses%20administration%20as%20nonappropriated%20fund%20instrumentality.md)

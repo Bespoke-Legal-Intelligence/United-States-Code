@@ -32,13 +32,13 @@ The Board shall perform the following functions:
 
 #### (5) Recommendations
 
-&emsp;The Board shall make such recommendations to the Secretary of Energy with respect to Department of Energy defense nuclear facilities, including operations of such facilities, standards, and research needs, as the Board determines are necessary to ensure adequate protection of public health and safety. In making its recommendations the Board shall consider the technical and economic feasibility of implementing the recommended measures.
+&emsp;The Board shall make such recommendations to the Secretary of Energy with respect to Department of Energy defense nuclear facilities, including operations of such facilities,standards, and research needs, as the Board determines are necessary to ensure adequate protection of public health and safety. In making its recommendations the Board shall consider the technical and economic feasibility of implementing the recommended measures.
 
 #### (b) Excluded functions
 
 The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomic weapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
 
-(Aug. 1, 1946, ch. 724, title I, §312, as added Sept. 29, 1988, Pub. L. 100–456, div. A, title XIV, §1441(a)(1), 102 Stat. 2077; amended Dec. 5, 1991, Pub. L. 102–190, div. C, title XXXII, §3202(b)(2), 105 Stat. 1582; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §312, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2077; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(2), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

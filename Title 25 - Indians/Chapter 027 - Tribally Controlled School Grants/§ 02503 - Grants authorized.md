@@ -28,7 +28,7 @@
 
 (2) Funds provided under any grant made under this chapter may not be used in connection with religious worship or sectarian instruction.
 
-(3) Funds provided under any grant made under this chapter may not be expended for administrative costs (as defined under section 1128A(e)(1) <sup>1</sup> of the Education Amendments of 1978) in excess of the amount generated for such costs under section 1128A <sup>1</sup> of such Act.
+(3) Funds provided under any grant made under this chapter may not be expended for administrative costs (as defined under section 1128A(e)(1) <sup>1</sup> of the Education Amendments of1978) in excess of the amount generated for such costs under section 1128A <sup>1</sup> of such Act.
 
 #### (c) Limitation on transfer of funds among schoolsites
 
@@ -76,7 +76,7 @@ The Education Amendments of 1978, referred to in subsecs. (a)(1)(A), (3)(C), (b)
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 This Act, referred to in subsec. (g), is Pub. L. 100–297 and probably should be “this part”, meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
 

@@ -18,7 +18,7 @@ Whenever fundamental international payments problems require special import meas
 
 &emsp;(C) both a temporary import surcharge described in subparagraph (A) and temporary limitations described in subparagraph (B).
 
-> The authority delegated under subparagraph (B) (and so much of subparagraph (C) as relates to subparagraph (B)) may be exercised (i) only if international trade or monetary agreements to which the United States is a party permit the imposition of quotas as a balance-of-payments measure, and (ii) only to the extent that the fundamental imbalance cannot be dealt with effectively by a surcharge proclaimed pursuant tosubparagraph (A) or (C). Any temporary import surcharge proclaimed pursuant to subparagraph (A) or (C) shall be treated as a regular customs duty.
+> The authority delegated under subparagraph (B) (and so much of subparagraph (C) as relates to subparagraph (B)) may be exercised (i) only if international trade or monetary agreements to which the United States is a party permit the imposition of quotas as a balance-of-payments measure, and (ii) only to the extent that the fundamental imbalance cannot be dealt with effectively by a surcharge proclaimed pursuant to subparagraph (A) or (C). Any temporary import surcharge proclaimed pursuant to subparagraph (A) or (C) shall be treated as a regular customs duty.
 
 #### (b) Import restrictions not imposed when contrary to national interest of United States
 
@@ -56,7 +56,7 @@ Whenever the President determines that fundamental international payments proble
 
 #### (e) Broad and uniform application of import restricting actions
 
-Import restricting actions proclaimed pursuant to subsection (a) of this section shall be of broad and uniform application with respect to product coverage except where the President determines, consistently with the purposes of this section, that certain articles should not be subject to import restricting actions because of the needs of the United States economy. Such exceptions shall be limited to the unavailability of domestic supply at reasonable prices, the necessary importation of raw materials, avoiding serious dislocations in the supply of imported goods, and other similar factors. In addition, uniform exceptions may be made where import restricting actions will be unnecessary or ineffective in carrying out the purposes of this section, such as with respect to articles already subject to import restrictions, goods in transit, or goods under binding contract. Neither the authorization of import restricting actions nor the determination of exceptions with respect to product coverage shall be made for the purpose of protecting individual domestic industries from import competition.
+Import restricting actions proclaimed pursuant to subsection (a) of this section shall be ofbroad and uniform application with respect to product coverage except where the President determines, consistently with the purposes of this section, that certain articles should not be subject to import restricting actions because of the needs of the United States economy. Such exceptions shall be limited to the unavailability of domestic supply at reasonable prices, the necessary importation of raw materials, avoiding serious dislocations in the supply of imported goods, and other similar factors. In addition, uniform exceptions may be made where import restricting actions will be unnecessary or ineffective in carrying out the purposes of this section, such as with respect to articles already subject to import restrictions, goods in transit, or goods under binding contract. Neither the authorization of import restricting actions nor the determination of exceptions with respect to product coverage shall be made for the purpose of protecting individual domestic industries from import competition.
 
 #### (f) Quantitative limitations
 
@@ -68,7 +68,7 @@ Any quantitative limitation proclaimed pursuant to subparagraph (B) or (C) of su
 
 #### (g) Suspension, modification, or termination of proclamations
 
-The President may at any time, consistent with the provisions of this section, suspend, modify, or terminate, in whole or in part, anyproclamation under this section either during the initial 150-day period of effectiveness or as extended by subsequent Act of Congress.
+The President may at any time, consistent with the provisions of this section, suspend, modify, or terminate, in whole or in part, any proclamation under this section either during the initial 150-day period of effectiveness or as extended by subsequent Act of Congress.
 
 #### (h) Termination of tariff concessions
 

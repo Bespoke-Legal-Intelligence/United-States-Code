@@ -6,25 +6,23 @@ The Secretary is authorized to make grants, in accordance with the provisions of
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the provisions of this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.
+There are authorized to be appropriated to carry out the provisions of this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999, such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.
 
-#### (c) Program year restrictions
+#### (c) Availability of appropriations
 
-(1) In fiscal year 1993 and each fiscal year thereafter, amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation only on the basis of a program year. The program year shall begin on October 1 of the fiscal year following the year in which the appropriation is made.
-
-(2) Amounts appropriated for fiscal year 1993 shall be available both to fund activities for the period between October 1, 1992, and July 1, 1993, and for the program year beginning July 1, 1993.
-
-(3) There are authorized to be appropriated such additional sums as may be necessary for the transition to carry out this subsection.
+Amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation in the succeeding fiscal year.
 
 #### (d) Authorization of appropriations for leveraged resources
 
-There are authorized to be appropriated to carry out section 8626a of this title, $50,000,000 for each of the fiscal years 1996 and 1997, and such sums as may be necessary for each of the fiscal years 1998 and 1999.
+(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
+
+(2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) of this section is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out section 8626a of this title.
 
 #### (e) Emergency funds
 
-There are authorized to be appropriated in each fiscal year for payments under this subchapter, in addition to amounts appropriated for distribution to all the States in accordance with section 8623 of this title (other than subsection (g)), $600,000,000 to meet the additional home energy assistance needs of one or more States arising from a natural disaster or other emergency. Funds appropriated pursuant to this subsection are hereby designated to be emergency requirements pursuant to section 251(b)(2)(D) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(D)\], except that such funds shall be made available only after the submission to Congress of a formal budget request by the President (for all or a part of the appropriation pursuant to this subsection) that includes a designation of the amount requested as an emergency requirement as defined in such Act \[2 U.S.C. 900 et seq.\].
+There is authorized to be appropriated in each fiscal year for payments under this subchapter, in addition to amounts appropriated for distribution to all the States in accordance with section 8623 of this title (other than subsection (e) of such section), $600,000,000 to meet the additional home energy assistance needs of one or more States arising from a natural disaster or other emergency. Funds appropriated pursuant to this subsection are hereby designated to be emergency requirements pursuant to section 251(b)(2)(D) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(D)\], except that such funds shall be made available only after the submission to Congress of a formal budget request by the President (for all or a part of the appropriation pursuant to this subsection) that includes a designation of the amount requested as an emergency requirement as defined in such Act \[2 U.S.C. 900 et seq.\].
 
-(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30, 1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661.)
+(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30, 1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756.)
 
 #### References in Text
 
@@ -32,9 +30,23 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–285, §302(a), inserted “, such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004” after “1995 through 1999”.
+
+Subsec. (c). Pub. L. 105–285, §302(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“(c)(1) In fiscal year 1993 and each fiscal year thereafter, amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation only on the basis of a program year. The program year shall begin on October 1 of the fiscal year following the year in which the appropriation is made.
+
+“(2) Amounts appropriated for fiscal year 1993 shall be available both to fund activities for the period between October 1, 1992, and July 1, 1993, and for the program year beginning July 1, 1993.
+
+“(3) There are authorized to be appropriated such additional sums as may be necessary for the transition to carry out this subsection.”
+
+Subsec. (d). Pub. L. 105–285, §302(c), designated existing provisions as par. (1), substituted “There is authorized” for “There are authorized” and “$30,000,000 for each of fiscal years 1999 through 2004, except as provided in paragraph (2)” for “$50,000,000 for each of the fiscal years 1996 and 1997, and such sums as may be necessary for each of the fiscal years 1998 and 1999”, and added par. (2).
+
+Subsec. (e). Pub. L. 105–285, §302(d), substituted “There is authorized” for “There are authorized” and “(other than subsection (e) of such section)” for “(other than subsection (g))”.
+
 1994—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
 
-Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for eachof the fiscal years 1993, 1994, and 1995” and struck out second period at end.
+Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993, 1994, and 1995” and struck out second period at end.
 
 Subsec. (c)(1). Pub. L. 103–252, §311(c)(1)(B), made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
 
@@ -58,7 +70,7 @@ Subsec. (d). Pub. L. 101–501, §707(b)(2), added subsec. (d).
 
 1986—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carry out the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
 
-1984—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 for fiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
+1984—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 forfiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
 
 #### Effective Date of 1994 Amendment
 
@@ -105,6 +117,10 @@ Section 609 of Pub. L. 98–558 provided that:
 “(c) The amendments made by section 606 \[amending section 8626 of this title\] shall apply to amounts held available for fiscal years beginning after September 30, 1985.
 
 “(d) The amendment made by section 607 \[amending section 8629 of this title\] shall apply to data collected and compiled after the date of the enactment of this Act \[Oct. 30, 1984\]. Section 2610 of the Act \[section 8629 of this title\] as in effect before the date of the enactment of this Act shall apply with respect to the report submitted under such section 2610 for fiscal year 1984.”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–285, title III, §301, Oct. 27, 1998, 112 Stat. 2756, provided that: “This title \[amending this section and sections 8622 to 8624, 8626, 8626b, and 8628a of this title and enacting provisions set out as a note under section 8626b of this title\] may be cited as the ‘Low-Income Home Energy Assistance Amendments of 1998’.”
 
 #### Short Title of 1994 Amendment
 

@@ -170,7 +170,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;The Secretary shall issue regulations to carry out this subsection.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1855, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4001, 111 Stat. 312.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1855, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 312.)
 
 #### References in Text
 
@@ -178,5 +178,5 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), (D), is cla
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–26, 1395w–28, 1395cc of this title.
+This section is referred to in sections 1395w–21, 1395w–26, 1395w–28, 1395cc of this title; title 26 section 501.
 

@@ -12,5 +12,5 @@ The general purpose of the John E. Fogarty International Center for Advanced Stu
 
 &emsp;(5) receive foreign visitors to the National Institutes of Health.
 
-(July 1, 1944, ch. 373, title IV, §482, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 866.)
+(July 1, 1944, ch. 373, title IV, §482, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 866.)
 

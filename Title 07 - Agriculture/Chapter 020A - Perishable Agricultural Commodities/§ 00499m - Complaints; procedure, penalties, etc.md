@@ -24,7 +24,7 @@ The Secretary may order testimony to be taken by deposition in any proceeding or
 
 Witnesses summoned before the Secretary or any officer or employee designated by him shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like service in the courts of the United States.
 
-(June 10, 1930, ch. 436, §13, 46 Stat. 536; July 30, 1956, ch. 786, §6, 70 Stat. 727; Oct. 15, 1970, Pub. L. 91–452, title II, §205, 84 Stat. 928; Nov. 1, 1978, Pub. L. 95–562, §3, 92 Stat. 2381.)
+(June 10, 1930, ch. 436, §13, 46 Stat. 536; July 30, 1956, ch. 786, §6, 70 Stat. 727; Pub. L. 91–452, title II, §205, Oct. 15, 1970, 84 Stat. 928; Pub. L. 95–562, §3, Nov. 1, 1978, 92 Stat. 2381.)
 
 #### Codification
 

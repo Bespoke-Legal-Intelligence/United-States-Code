@@ -6,13 +6,13 @@ The marketing of (1) any kind of tobacco in excess of the marketing quota for th
 
 #### (b) Collection and deposit
 
-The Secretary shall require collection of the penalty upon a proportion of each lot of tobacco marketed from the farm equal to the proportion which the tobacco available for marketing from the farm in excess of the farm marketing quota is of the total amount of tobacco available for marketing from the farm if satisfactory proof is not furnished as to the disposition to be made of such excess tobacco prior to the marketing of any tobacco from the farm. All funds collected pursuant to this section shall be deposited in a special deposit account with the Treasurer of the United States until the end of the marketing year next succeeding that in which the funds are collected, and upon certification by the Secretary there shall be paid out of such special deposit account to persons designated by the Secretary the amount by which the penalty collected exceeds the amount of penalty due upon tobacco marketed in excess of the farm marketing quota for any farm. Such special account shall be administered by the Secretary, and the basis for, the amount of, and the person entitled to receive a payment from such account, when determined in accordance with regulations prescribed by the Secretary, shall be final and conclusive.
+The Secretary shall require collection of the penalty upon a proportion of each lot of tobacco marketed from the farm equal to the proportion which the tobacco available for marketing from the farm in excess of the farm marketing quota is of the total amount of tobacco available formarketing from the farm if satisfactory proof is not furnished as to the disposition to be made of such excess tobacco prior to the marketing of any tobacco from the farm. All funds collected pursuant to this section shall be deposited in a special deposit account with the Treasurer of the United States until the end of the marketing year next succeeding that in which the funds are collected, and upon certification by the Secretary there shall be paid out of such special deposit account to persons designated by the Secretary the amount by which the penalty collected exceeds the amount of penalty due upon tobacco marketed in excess of the farm marketing quota for any farm. Such special account shall be administered by the Secretary, and the basis for, the amount of, and the person entitled to receive a payment from such account, when determined in accordance with regulations prescribed by the Secretary, shall be final and conclusive.
 
 #### (c) Lien in favor of United States
 
 Until the amount of the penalty provided by this section is paid, a lien on the tobacco with respect to which such penalty is incurred, and on any subsequent tobacco subject to marketing quotas in which the person liable for payment of the penalty has an interest, shall be in effect in favor of the United States for the amount of the penalty.
 
-(Feb. 16, 1938. ch. 30, title III, §314, 52 Stat. 48; Aug. 7, 1939, ch. 565, 53 Stat. 1262; June 13, 1940, ch. 360, §5, 54 Stat. 393; Feb. 19, 1946, ch. 31, §2, 60 Stat. 21; June 22, 1954, ch. 339, 68 Stat. 270; Mar. 31, 1955, ch. 21, §5, 69 Stat. 24; July 20, 1982, Pub. L. 97–218, title I, §103, title II, §206(a), 96 Stat. 201, 206.)
+(Feb. 16, 1938. ch. 30, title III, §314, 52 Stat. 48; Aug. 7, 1939, ch. 565, 53 Stat. 1262; June 13, 1940, ch. 360, §5, 54 Stat. 393; Feb. 19, 1946, ch. 31, §2, 60 Stat. 21; June 22, 1954, ch. 339, 68 Stat. 270; Mar. 31, 1955, ch. 21, §5, 69 Stat. 24; Pub. L. 97–218, title I, §103, title II, §206(a), July 20, 1982, 96 Stat. 201, 206.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 97–218, §206(a), added subsec. (c).
 
 1940—Act June 13, 1940, designated existing provisions as subsec. (a), inserted last three sentences to subsec. (a), and added subsec. (b).
 
-1939—Subsec. (a). Act Aug. 7, 1939, struck out first sentence and inserted in lieu thereof “The marketingof any tobacco in excess of the marketing quota for the farm on which the tobacco is produced shall be subject to a penalty of 10 cents per pound in the case of flue-cured, Maryland, or Burley tobacco and 5 cents per pound in the case of all other kinds of tobacco”.
+1939—Subsec. (a). Act Aug. 7, 1939, struck out first sentence and inserted in lieu thereof “The marketing of any tobacco in excess of the marketing quota for the farm on which the tobacco is produced shall be subject to a penalty of 10 cents per pound in the case of flue-cured, Maryland, or Burley tobacco and 5 cents per pound in the case of all other kinds of tobacco”.
 
 #### Effective Date of 1982 Amendment
 

@@ -26,7 +26,7 @@ The State-owned railroad shall be eligible to participate in all Federal railroa
 
 #### (d) Laws and regulations applicable to national forest and park lands; limitations on Federal actions
 
-After the date of transfer to the State pursuant to section 1203 of this title, the portion of the rail properties within the boundaries of the Chugach National Forest and the exclusive-use easement within the boundaries of the Denali National Park and Preserve shall be subject to laws and regulations for the protection of forest and park values. The right to fence the exclusive-use easement within Denali National Park and Preserve shall be subject to the concurrenceof the Secretary of the Interior. The Secretary of the Interior, or the Secretary of Agriculture where appropriate, shall not act pursuant to this subsection without consulting with the Governor of the State of Alaska or in such a manner as to unreasonably interfere with continued or expanded operations and support functions authorized under this chapter.
+After the date of transfer to the State pursuant to section 1203 of this title, the portion of the rail properties within the boundaries of the Chugach National Forest and the exclusive-use easement within the boundaries of the Denali National Park and Preserve shall be subject to laws and regulations for the protection of forest and park values. The right to fence the exclusive-use easement within Denali National Park and Preserve shall be subject to the concurrence of the Secretary of the Interior. The Secretary of the Interior, or the Secretary of Agriculture where appropriate, shall not act pursuant to this subsection without consulting with the Governor of the State of Alaska or in such a manner as to unreasonably interfere with continued or expanded operations and support functions authorized under this chapter.
 
 (Pub. L. 97–468, title VI, §608, Jan. 14, 1983, 96 Stat. 2573; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–88, title III, §326, Dec. 29, 1995, 109 Stat. 951.)
 
@@ -69,6 +69,18 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+
+#### Alaska Railroad
+
+Pub. L. 105–178, title VII, §7204, June 9, 1998, 112 Stat. 477, provided that:
+
+“(a)
+
+Grants.—The Secretary may make grants to the Alaska Railroad for capital rehabilitation of and improvements to its passenger services.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,250,000 for each of fiscal years 1998 through 2003.”
 
 #### Section Referred to in Other Sections
 

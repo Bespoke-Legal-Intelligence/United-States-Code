@@ -2,43 +2,45 @@
 
 #### (a) Establishment; membership; chairperson
 
-There is established within the Office of the President the Advisory Board for Cuba Broadcasting (hereafter in this subchapter referred to as the “Board”). The Board shall consist of nine members, appointed by the President by and with the advice and consent of the Senate, of whom not more than five shall be members of the same political party. The President shall designate one member of the Board to serve as chairperson.
+There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this subchapter <sup>1</sup> referred to as the “Advisory Board”). The Advisory Board shall consist of nine members, appointed by the President by and with the advice and consent of the Senate, of whom not more than five shall be members of the same political party. The President shall designate one member of the Advisory Board to serve as chairperson.
 
 #### (b) Review; recommendations
 
-The Board shall review the effectiveness of the activities carried out under this subchapter and the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\] and shall make recommendations to the President and the Broadcasting Board of Governors as it may consider necessary.
+The Advisory Board shall review the effectiveness of the activities carried out under this subchapter and the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\] and shall make recommendations to the President and the Broadcasting Advisory <sup>2</sup> Board of Governors as it may consider necessary.
 
 #### (c) Terms; vacancies
 
-In appointing the initial voting members of the Board, the President shall designate three members to serve for a term of three years, three members to serve for a term of two years, and three members to serve for a term of one year. Thereafter, the term of each member of the Board shall be three years. The President shall appoint, by and with the advice and consent of the Senate, members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until his successor has been appointed and qualified.
+In appointing the initial voting members of the Advisory Board, the President shall designate three members to serve for a term of three years, three members to serve for a term of two years, and three members to serve for a term of one year. Thereafter, the term of each member of the Advisory Board shall be three years. The President shall appoint, by and with the advice and consent of the Senate, members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until his successor has been appointed and qualified.
 
 #### (d) Ex officio members
 
-The head of the Cuba Service and the head of the Television Marti Service shall serve, ex officio, as members of the Board.
+The head of the Cuba Service and the head of the Television Marti Service shall serve, ex officio, as members of the Advisory Board.
 
 #### (e) Compensation; travel expenses
 
-Members of the Board appointed by the President shall, while attending meetings of the Board or while engaged in duties relating to such meetings or in other activities of the Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
+Members of the Advisory Board appointed by the President shall, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Advisory Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
 
-#### (f) Procurement powers of Board
+#### (f) Procurement powers of Advisory Board
 
-The Board may, to the extent it deems necessary to carry out its functions under this section, procure supplies, services, and other personal property, including specialized electronic equipment.
+The Advisory Board may, to the extent it deems necessary to carry out its functions under this section, procure supplies, services, and other personal property, including specialized electronic equipment.
 
-#### (g) Indefinite life span of Board
+#### (g) Indefinite life span of Advisory Board
 
-Notwithstanding any other provision of law, the Board shall remain in effect indefinitely.
+Notwithstanding any other provision of law, the Advisory Board shall remain in effect indefinitely.
 
 #### (h) Authorization of appropriations
 
 There are authorized to be appropriated $130,000 to carry out the provisions of this section.
 
-(Pub. L. 98–111, §5, Oct. 4, 1983, 97 Stat. 750; Pub. L. 101–246, title II, §245(a), Feb. 16, 1990, 104 Stat. 61; Pub. L. 103–236, title III, §305(d)(2), Apr. 30, 1994, 108 Stat. 436.)
+(Pub. L. 98–111, §5, Oct. 4, 1983, 97 Stat. 750; Pub. L. 101–246, title II, §245(a), Feb. 16, 1990, 104 Stat. 61; Pub. L. 103–236, title III, §305(e)(2), formerly §305(d)(2), Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1323(f)(1), 1324(5), Oct. 21, 1998, 112 Stat. 2681–779, 2681–781.)
 
 #### Repeal of Section
 
 <i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
 
 #### References in Text
+
+This subchapter, referred to in subsec. (a), was in the original “this division”, and was translated as reading “this Act”, meaning Pub. L. 98–111, which enacted this subchapter, to reflect the probable intent of Congress.
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
@@ -47,6 +49,10 @@ The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D o
 Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §1324(5), substituted “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (in this division referred to as the ‘Advisory Board’).” for “There is established within the Office of the President the Advisory Board for Cuba Broadcasting (hereafter in this subchapter referred to as the ‘Board’).”, and substituted “Advisory Board” for “Board” in two places.
+
+Subsecs. (b) to (g). Pub. L. 105–277, §1324(5)(A), substituted “Advisory Board” for “Board” wherever appearing.
 
 1994—Subsec. (b). Pub. L. 103–236 substituted “Broadcasting Board of Governors” for “Director and Associate Director for Broadcasting of the United States Information Agency”.
 
@@ -60,6 +66,10 @@ Subsec. (d). Pub. L. 101–246, §245(a)(3), amended subsec. (d) generally. Prio
 
 Subsec. (e). Pub. L. 101–246, §245(a)(4), substituted “The ex officio members” for “The ex officio member”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
 #### Former References to Advisory Board for Radio Broadcasting to Cuba
 
 Section 245(b) of Pub. L. 101–246 provided that: “A reference in any provision of law to the ‘Advisory Board for Radio Broadcasting to Cuba’ shall be considered to be a reference to the ‘Advisory Board for Cuba Broadcasting’.”
@@ -70,5 +80,9 @@ Section 245(c) of Pub. L. 101–246 provided that: “Each member of the Advisor
 
 #### Staff Director
 
-Section 245(d) of Pub. L. 101–246 provided that: “The Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
+Section 245(d) of Pub. L. 101–246, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1325(5), Oct. 21, 1998, 112 Stat. 2681–782, provided that: “The Advisory Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “Advisory” probably should not appear.</i>
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) to prevent a group health plan, and a health insurance issuer offering group health insurance coverage, from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.
 
-(July 1, 1944, ch. 373, title XXVII, §2702, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1961.)
+(July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961.)
 
 #### References in Text
 

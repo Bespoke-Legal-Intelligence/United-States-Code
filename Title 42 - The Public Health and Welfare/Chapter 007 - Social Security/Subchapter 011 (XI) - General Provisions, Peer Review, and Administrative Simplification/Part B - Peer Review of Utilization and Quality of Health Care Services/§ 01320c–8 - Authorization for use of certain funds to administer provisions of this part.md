@@ -8,7 +8,7 @@ Expenses incurred in the administration of the contracts described in section 13
 
 > in such amounts from each of such Trust Funds as the Secretary shall deem to be fair and equitable after taking into consideration the expenses attributable to the administration of this part with respect to each of such programs. The Secretary shall make such transfers of moneys between such Trust Funds as may be appropriate to settle accounts between them in cases where expenses properly payable from one such Trust Fund have been paid from the other such Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XI, §1159, as added Sept. 3, 1982, Pub. L. 97–248, title I, §143, 96 Stat. 390.)
+(Aug. 14, 1935, ch. 531, title XI, §1159, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 390.)
 
 #### Prior Provisions
 

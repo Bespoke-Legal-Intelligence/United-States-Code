@@ -2,7 +2,7 @@
 
 In this chapter, the term “enlistment” means original enlistment or reenlistment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 177; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §1231(19)(A), 101 Stat. 1161.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 100–180, div. A, title XII, §1231(19)(A), Dec. 4, 1987, 101 Stat. 1161.)
 
 Historical and Revision Notes
 

@@ -12,7 +12,7 @@ Providing for authority to designate different handler payment and reporting sch
 
 #### (c) Advertisement and sales promotion programs or projects
 
-Providing for the establishment, issuance, effectuation, and administration of appropriate programs or projects for the advertising and sales promotion of potatoes and potato products and for the disbursement of necessary funds for such purposes: <i>Provided, however</i>, That any such program or project shall be directed toward increasing the general demand for potatoes and potato products: <i>And provided further</i>, That such promotional activities shall comply with the provisions of section 2617(f) of this title.
+Providing for the establishment, issuance, effectuation, and administration of appropriateprograms or projects for the advertising and sales promotion of potatoes and potato products and for the disbursement of necessary funds for such purposes: <i>Provided, however</i>, That any such program or project shall be directed toward increasing the general demand for potatoes and potato products: <i>And provided further</i>, That such promotional activities shall comply with the provisions of section 2617(f) of this title.
 
 #### (d) Research and development projects and studies for marketing and utilization of potatoes
 

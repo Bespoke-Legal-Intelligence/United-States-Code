@@ -2,7 +2,7 @@
 
 The Secretary of Housing and Urban Development may use for the purposes of this subchapter any of the funds or authorizations heretofore or hereafter made available to it.
 
-(June 28, 1940, ch. 440, title II, §205, 54 Stat. 683; 1947 Reorg. Plan No. 3, §4(a), eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 955; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
+(June 28, 1940, ch. 440, title II, §205, 54 Stat. 683; 1947 Reorg. Plan No. 3, §4(a), eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 955; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
 #### Transfer of Functions
 

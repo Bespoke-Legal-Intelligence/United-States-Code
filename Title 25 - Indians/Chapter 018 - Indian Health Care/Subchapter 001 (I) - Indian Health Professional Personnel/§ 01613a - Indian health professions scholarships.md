@@ -34,7 +34,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;(ii) serves the tribe in which the recipient is enrolled.
 
-(D) Subject to subparagraph (C), the Secretary, in making assignments of Indian Health Scholarship recipients required to meet the active duty service obligation described in subparagraph (A), shall give priority to assigningindividuals to service in those programs specified in subparagraph (A) that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
+(D) Subject to subparagraph (C), the Secretary, in making assignments of Indian Health Scholarship recipients required to meet the active duty service obligation described in subparagraph (A), shall give priority to assigning individuals to service in those programs specified in subparagraph (A) that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
 
 (4) In the case of an individual receiving a scholarship under this section who is enrolled part time in an approved course of study—
 
@@ -100,7 +100,7 @@ Subsec. (b)(3)(C). Pub. L. 104–313, §2(b)(1)(D), substituted “described in 
 
 Pub. L. 104–313, §2(b)(1)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(3)(D). Pub. L. 104–313, §2(b)(1)(E), substituted “Subject to subparagraph (C),” for “Subject tosubparagraph (B),” and “described in subparagraph (A)” for “prescribed under section 254m of title 42”.
+Subsec. (b)(3)(D). Pub. L. 104–313, §2(b)(1)(E), substituted “Subject to subparagraph (C),” for “Subject to subparagraph (B),” and “described in subparagraph (A)” for “prescribed under section 254m of title 42”.
 
 Pub. L. 104–313, §2(b)(1)(B), redesignated subpar. (C) as (D).
 

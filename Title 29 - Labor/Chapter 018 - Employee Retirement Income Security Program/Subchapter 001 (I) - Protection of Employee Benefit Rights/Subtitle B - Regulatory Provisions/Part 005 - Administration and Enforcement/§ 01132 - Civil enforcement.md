@@ -52,7 +52,7 @@ A civil action may be brought—
 
 (6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
-(7) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) of title 42.
+(7) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -146,6 +146,8 @@ Paragraphs (1) and (4) of section 1166 of this title, referred to in subsec. (c)
 
 Section 1021(b)(4) of this title, referred to in subsec. (c)(2), was redesignated section 1021(b)(1) of this title by Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061.
 
+Section 1320b–14 of title 42, referred to in subsec. (c)(7), was repealed by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033.
+
 This chapter, referred to in subsec. (k), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
@@ -178,7 +180,7 @@ Subsec. (e)(1). Pub. L. 103–66, §4301(c)(3), substituted in first sentence �
 
 1990—Subsec. (c)(1). Pub. L. 101–508, §12012(d)(2)(A), inserted “or section 1021(e)(1) of this title” after “section 1166 of this title”.
 
-Subsec. (c)(3). Pub. L. 101–508, §12012(d)(2)(B), inserted “or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person” after first reference to “beneficiary” and “or to such person” after second reference to “beneficiary”.
+Subsec. (c)(3). Pub. L. 101–508, §12012(d)(2)(B), inserted “or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person” afterfirst reference to “beneficiary” and “or to such person” after second reference to “beneficiary”.
 
 1989—Subsec. (a)(6). Pub. L. 101–239, §7881(j)(2), substituted “subsection (c)(2) or (i)” for “subsection (i)”.
 

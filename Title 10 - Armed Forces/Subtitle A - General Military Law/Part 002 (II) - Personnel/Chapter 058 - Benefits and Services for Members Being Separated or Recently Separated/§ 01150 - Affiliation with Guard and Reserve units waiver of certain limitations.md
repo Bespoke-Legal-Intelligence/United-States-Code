@@ -2,7 +2,7 @@
 
 (a)
 
-Preference for Certain Persons.—A person who is separated from the armed forces during the nine-year period beginning on October 1, 1990, and who applies to become a member of a National Guard or Reserve unit within one year after the date of such separation shall be given preference over other equally qualified applicants for existing or projected vacancies within the unit to which the member applies.
+Preference for Certain Persons.—A person who is separated from the armed forces during the period beginning on October 1, 1990, and ending on September 30, 2001, and who applies to become a member of a National Guard or Reserve unit within one year after the date of such separation shall be given preference over other equally qualified applicants for existing or projected vacancies within the unit to which the member applies.
 
 (b)
 
@@ -12,9 +12,11 @@ Limited Waiver of Strength Limitations.—Under regulations prescribed by the Se
 
 Coast Guard.—This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Transportation shall prescribe regulations to implement this section for the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 102–484, div. A, title V, §514, Oct. 23, 1992, 106 Stat. 2406; Pub. L. 103–160, div. A, title V, §561(j), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(9), Oct. 5, 1994, 108 Stat. 2768.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 102–484, div. A, title V, §514, Oct. 23, 1992, 106 Stat. 2406; Pub. L. 103–160, div. A, title V, §561(j), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(9), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(p), Oct. 17, 1998, 112 Stat. 2027.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 1994—Subsec. (c). Pub. L. 103–337 added subsec. (c).
 

@@ -18,7 +18,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 #### (e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action
 
-(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
+(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petitionshall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
@@ -42,7 +42,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 &emsp;(2) include a summary of each of the regulatory alternatives under consideration by the Commission (including voluntary standards);
 
-&emsp;(3) include information with respect to any existing standard known to the Commission which may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that suchstandard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
+&emsp;(3) include information with respect to any existing standard known to the Commission which may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that such standard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
 
 &emsp;(4) invite interested persons to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days or more than 60 days after the date of publication of the notice), comments with respect to the risk of injury identified by the Commission, the regulatory alternatives being considered, and other possible alternatives for addressing the risk;
 
@@ -54,7 +54,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 #### (h) Voluntary standard; publication as proposed regulation; prerequisites for reliance by Commission
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (g)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under this section.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (g)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation, would eliminate or adequately reduce the risk of injuryidentified in the notice provided under subsection (g)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under this section.
 
 (2) If the Commission determines that—
 
@@ -84,7 +84,7 @@ No regulation may be proposed by the Commission under this section unless, not l
 
 &emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 
-> The Commission shall transmit such notice within 10 calendar days to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (j) Final regulatory analysis; contents; publication; judicial review of regulation
 
@@ -118,7 +118,7 @@ No regulation may be proposed by the Commission under this section unless, not l
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(June 30, 1953, ch. 164, §4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Dec. 14, 1967, Pub. L. 90–189, §3, 81 Stat. 569; Oct. 27, 1972, Pub. L. 92–573, §30(b), 86 Stat. 1231; May 11, 1976, Pub. L. 94–284, §20(a), 90 Stat. 515; Aug. 13, 1981, Pub. L. 97–35, title XII, §1203(b)(2), 95 Stat. 711; Nov. 16, 1990, Pub. L. 101–608, title I, §§107(c), 108(c), 110(c), 104 Stat. 3112–3114.)
+(June 30, 1953, ch. 164, §4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Pub. L. 90–189, §3, Dec. 14, 1967, 81 Stat. 569; Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §20(a), May 11, 1976, 90 Stat. 515; Pub. L. 97–35, title XII, §1203(b)(2), Aug. 13, 1981, 95 Stat. 711; Pub. L. 101–608, title I, §§107(c), 108(c), 110(c), Nov. 16, 1990, 104 Stat. 3112–3114.)
 
 #### Amendments
 

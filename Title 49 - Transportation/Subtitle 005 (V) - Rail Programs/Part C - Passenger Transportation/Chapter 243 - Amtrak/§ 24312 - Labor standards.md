@@ -6,7 +6,7 @@ Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that lab
 
 (b)
 
-Wage Rates.—Wage rates in a collective bargaining agreement negotiated under theRailway Labor Act (45 U.S.C. 151 et seq.) are deemed to comply with the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5).
+Wage Rates.—Wage rates in a collective bargaining agreement negotiated under the Railway Labor Act (45 U.S.C. 151 et seq.) are deemed to comply with the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 916; Pub. L. 105–134, title I, §§101(f), 105(c), 121(a), Dec. 2, 1997, 111 Stat. 2572–2574.)
 
@@ -74,7 +74,7 @@ Contracting out.—Any collective bargaining agreement entered into between Amtr
 
 &emsp;“(2)
 
-Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
+Enforceability of amendment.—The amendment to any such collective bargaining agreementdeemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
 
 “(c)
 

@@ -6,7 +6,7 @@ Under regulations which shall be prescribed by or under authority of the Preside
 
 #### (b) Furnishing of living quarters or grant of allowance
 
-Each teacher (other than a teacher employed in a substitute capacity) shall be entitled, foreach school year for which he performs services as a teacher, to quarters or a quarters allowance equal to those authorized by section 5912 of title 5.
+Each teacher (other than a teacher employed in a substitute capacity) shall be entitled, for each school year for which he performs services as a teacher, to quarters or a quarters allowance equal to those authorized by section 5912 of title 5.
 
 #### (c) Recess periods
 

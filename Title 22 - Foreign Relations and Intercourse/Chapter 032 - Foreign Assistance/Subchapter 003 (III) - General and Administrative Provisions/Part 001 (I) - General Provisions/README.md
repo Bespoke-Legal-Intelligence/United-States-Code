@@ -13,7 +13,7 @@ Part I—General Provisions
 - [&sect; 02356 - Patents and technical information](%C2%A7%2002356%20-%20Patents%20and%20technical%20information.md)
 - [&sect; 02357 - Furnishing of services and commodities](%C2%A7%2002357%20-%20Furnishing%20of%20services%20and%20commodities.md)
 - [&sect; 02358 - Foreign and domestic excess property](%C2%A7%2002358%20-%20Foreign%20and%20domestic%20excess%20property.md)
-- [&sect; 02359 - Special accounts](%C2%A7%2002359%20-%20Special%20accounts.md)
+- [&sect; 02359 - Repealed. Pub. L. 105&#8211;277, div. A, &sect;101(d) \[title V, &sect;533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681&#8211;150, 2681&#8211;180](%C2%A7%2002359%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28d%29%20%5Btitle%20V%2C%20%C2%A7533%28a%29%285%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93150%2C%202681%E2%80%93180.md)
 - [&sect; 02360 - Transfer of funds between accounts](%C2%A7%2002360%20-%20Transfer%20of%20funds%20between%20accounts.md)
 - [&sect; 02361 - Completion of plans and cost estimates](%C2%A7%2002361%20-%20Completion%20of%20plans%20and%20cost%20estimates.md)
 - [&sect; 02362 - Use of foreign currencies](%C2%A7%2002362%20-%20Use%20of%20foreign%20currencies.md)

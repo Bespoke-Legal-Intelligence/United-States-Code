@@ -52,7 +52,7 @@ Definitions.—As used in this section—
 
 &emsp;(4) the term “prison” means a Federal correctional, detention, or penal facility.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Oct. 12, 1984, Pub. L. 98–473, title II, §1109(a), 98 Stat. 2147; Nov. 10, 1986, Pub. L. 99–646, §52(a), 100 Stat. 3606; Nov. 18, 1988, Pub. L. 100–690, title VI, §6468(a), (b), 102 Stat. 4376; Sept. 13, 1994, Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), 108 Stat. 1986, 2140; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(m), 110 Stat. 3502.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502.)
 
 #### Historical and Revision Notes
 

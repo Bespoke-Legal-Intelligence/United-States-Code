@@ -14,9 +14,9 @@
 
 &emsp;&emsp;(B) this paragraph shall not be held to preclude a licensed importer, licensed manufacturer, or licensed dealer from depositing a firearm for conveyance in the mails to any officer, employee, agent, or watchman who, pursuant to the provisions of section 1715 of this title, is eligible to receive through the mails pistols, revolvers, and other firearms capable of being concealed on the person, for use in connection with his official duty; and
 
-&emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if theDistrict of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
+&emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if the District of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
 
-&emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any fire arm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it in that State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
+&emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any fire arm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it inthat State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
 
 &emsp;(4) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, to transport in interstate or foreign commerce any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Secretary consistent with public safety and necessity;
 
@@ -48,11 +48,11 @@
 
 &emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
 
-&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall notapply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Secretary consistent with public safety and necessity; and
 
-&emsp;(5) any firearm or armor-piercing ammunition to any person unless the licensee notes in his records, required to be kept pursuant to section 923 of this chapter, the name, age, and place of residence of such person if the person is an individual, or the identity and principal and local places of business of such person if the person is a corporation or other business entity.
+&emsp;(5) any firearm or armor-piercing ammunition to any person unless the licensee notes in his records, required to be kept pursuant to section 923 of this chapter, the name, age, and place of residence of such person if the person is an individual, or the identity and principaland local places of business of such person if the person is a corporation or other business entity.
 
 > Paragraphs (1), (2), (3), and (4) of this subsection shall not apply to transactions between licensed importers, licensed manufacturers, licensed dealers, and licensed collectors. Paragraph (4) of this subsection shall not apply to a sale or delivery to any research organization designated by the Secretary.
 
@@ -84,7 +84,11 @@
 
 &emsp;(4) has been adjudicated as a mental defective or has been committed to any mental institution;
 
-&emsp;(5) who, being an alien, is illegally or unlawfully in the United States;
+&emsp;(5) who, being an alien—
+
+&emsp;&emsp;(A) is illegally or unlawfully in the United States; or
+
+&emsp;&emsp;(B) except as provided in subsection (y)(2), has been admitted to the United States under a nonimmigrant visa (as that term is defined in section 101(a)(26) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(26)));
 
 &emsp;(6) who <sup>1</sup> has been discharged from the Armed Forces under dishonorable conditions;
 
@@ -118,7 +122,11 @@
 
 &emsp;(4) who has been adjudicated as a mental defective or who has been committed to a mental institution;
 
-&emsp;(5) who, being an alien, is illegally or unlawfully in the United States;
+&emsp;(5) who, being an alien—
+
+&emsp;&emsp;(A) is illegally or unlawfully in the United States; or
+
+&emsp;&emsp;(B) except as provided in subsection (y)(2), has been admitted to the United States under a nonimmigrant visa (as that term is defined in section 101(a)(26) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(26)));
 
 &emsp;(6) who has been discharged from the Armed Forces under dishonorable conditions;
 
@@ -216,7 +224,7 @@
 
 &emsp;(I) the Congress has the power, under the interstate commerce clause and other provisions of the Constitution, to enact measures to ensure the integrity and safety of the Nation's schools by enactment of this subsection.
 
-(2)(A) It shall be unlawful for any individual knowingly to possess a firearm that has movedin or that otherwise affects interstate or foreign commerce at a place that the individual knows, or has reasonable cause to believe, is a school zone.
+(2)(A) It shall be unlawful for any individual knowingly to possess a firearm that has moved in or that otherwise affects interstate or foreign commerce at a place that the individual knows, or has reasonable cause to believe, is a school zone.
 
 (B) Subparagraph (A) does not apply to the possession of a firearm—
 
@@ -284,7 +292,7 @@
 
 &emsp;&emsp;(II) was issued not more than 5 years earlier by the State in which the transfer is to take place; and
 
-&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorizedgovernment official has verified that the information available to such official does not indicate that possession of a handgun by the transferee would be in violation of the law;
+&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorized government official has verified that the information available to such official does not indicate that possession of a handgun by the transferee would be in violation of the law;
 
 &emsp;(D) the law of the State requires that, before any licensed importer, licensed manufacturer, or licensed dealer completes the transfer of a handgun to an individual who is not licensed under section 923, an authorized government official verify that the information available to such official does not indicate that possession of a handgun by the transferee would be in violation of law;
 
@@ -302,7 +310,7 @@
 
 (3) The statement referred to in paragraph (1)(A)(i)(I) shall contain only—
 
-&emsp;(A) the name, address, and date of birth appearing on a valid identification document (as defined in section 1028(d)(1)) of the transferee containing a photograph of the transferee and a description of the identification used;
+&emsp;(A) the name, address, and date of birth appearing on a valid identification document (as defined in section 1028(d)(1) <sup>3</sup>) of the transferee containing a photograph of the transferee and a description of the identification used;
 
 &emsp;(B) a statement that the transferee—
 
@@ -314,7 +322,11 @@
 
 &emsp;&emsp;(iv) has not been adjudicated as a mental defective or been committed to a mental institution;
 
-&emsp;&emsp;(v) is not an alien who is illegally or unlawfully in the United States;
+&emsp;&emsp;(v) is not an alien who—
+
+&emsp;&emsp;&emsp;(I) is illegally or unlawfully in the United States; or
+
+&emsp;&emsp;&emsp;(II) subject to subsection (y)(2), has been admitted to the United States under a nonimmigrant visa (as that term is defined in section 101(a)(26) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(26)));
 
 &emsp;&emsp;(vi) has not been discharged from the Armed Forces under dishonorable conditions; and
 
@@ -350,7 +362,7 @@
 
 &emsp;(B) for preventing such a sale or transfer to a person who may lawfully receive or possess a handgun.
 
-(8) For purposes of this subsection, the term “chief law enforcement officer” means the chiefof police, the sheriff, or an equivalent officer or the designee of any such individual.
+(8) For purposes of this subsection, the term “chief law enforcement officer” means the chief of police, the sheriff, or an equivalent officer or the designee of any such individual.
 
 (9) The Secretary shall take necessary actions to ensure that the provisions of this subsection are published and disseminated to licensed dealers, law enforcement officials, and the public.
 
@@ -362,7 +374,7 @@
 
 &emsp;(ii) 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and
 
-&emsp;(C) the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d)(1) of this title) of the transferee containing a photograph of the transferee.
+&emsp;(C) the transferor has verified the identity of the transferee by examining a valid identification document (as defined in section 1028(d)(1) <sup>3</sup> of this title) of the transferee containing a photograph of the transferee.
 
 (2) If receipt of a firearm would not violate subsection (g) or (n) or State law, the system shall—
 
@@ -495,6 +507,62 @@
 (B) The court may use the contempt power to enforce subparagraph (A).
 
 (C) The court may excuse attendance of a parent or legal guardian of a juvenile defendant at a proceeding in a prosecution of a violation of this subsection for good cause shown.
+
+(y)
+
+Provisions Relating to Aliens Admitted Under Nonimmigrant Visas.—
+
+&emsp;(1)
+
+Definitions.—In this subsection—
+
+&emsp;&emsp;(A) the term “alien” has the same meaning as in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)); and
+
+&emsp;&emsp;(B) the term “nonimmigrant visa” has the same meaning as in section 101(a)(26) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(26)).
+
+&emsp;(2)
+
+Exceptions.—Subsections (d)(5)(B), (g)(5)(B), and (s)(3)(B)(v)(II) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa, if that alien is—
+
+&emsp;&emsp;(A) admitted to the United States for lawful hunting or sporting purposes or is in possession of a hunting license or permit lawfully issued in the United States;
+
+&emsp;&emsp;(B) an official representative of a foreign government who is—
+
+&emsp;&emsp;&emsp;(i) accredited to the United States Government or the Government's mission to an international organization having its headquarters in the United States; or
+
+&emsp;&emsp;&emsp;(ii) en route to or from another country to which that alien is accredited;
+
+&emsp;&emsp;(C) an official of a foreign government or a distinguished foreign visitor who has been so designated by the Department of State; or
+
+&emsp;&emsp;(D) a foreign law enforcement officer of a friendly foreign government entering the United States on official law enforcement business.
+
+&emsp;(3)
+
+Waiver.—
+
+&emsp;&emsp;(A)
+
+Conditions for waiver.—Any individual who has been admitted to the United States under a nonimmigrant visa may receive a waiver from the requirements of subsection (g)(5), if—
+
+&emsp;&emsp;&emsp;(i) the individual submits to the Attorney General a petition that meets the requirements of subparagraph (C); and
+
+&emsp;&emsp;&emsp;(ii) the Attorney General approves the petition.
+
+&emsp;&emsp;(B)
+
+Petition.—Each petition under subparagraph (B) shall—
+
+&emsp;&emsp;&emsp;(i) demonstrate that the petitioner has resided in the United States for a continuous period of not less than 180 days before the date on which the petition is submitted under this paragraph; and
+
+&emsp;&emsp;&emsp;(ii) include a written statement from the embassy or consulate of the petitioner, authorizing the petitioner to acquire a firearm or ammunition and certifying that the alien would not, absent the application of subsection (g)(5)(B), otherwise be prohibited from such acquisition under subsection (g).
+
+&emsp;&emsp;(C)
+
+Approval of petition.—The Attorney General shall approve a petition submitted in accordance with this paragraph, if the Attorney General determines that waiving the requirements of subsection (g)(5)(B) with respect to the petitioner—
+
+&emsp;&emsp;&emsp;(i) would be in the interests of justice; and
+
+&emsp;&emsp;&emsp;(ii) would not jeopardize the public safety.
 
 #### <b>APPENDIX A</b>
 
@@ -1848,11 +1916,11 @@ Stoeger/IGA Reuna Single Barrel Shotgun
 
 Thompson/Center TCR '87 Hunter Shotgun.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71.)
 
 #### Amendment of Section
 
-<i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, provided that, effective 10 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.</i>
+<i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that, effective 15 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.</i>
 
 <i>For repeal of amendments by section 110105(2) of Pub. L. 103–322, see Effective and Termination Dates of 1994 Amendment note below.</i>
 
@@ -1870,15 +1938,25 @@ The date of enactment of this subsection, referred to in subsec. (s)(1), is the 
 
 Section 5812 of the Internal Revenue Code of 1986, referred to in subsecs. (s)(1)(E) and (t)(3)(B), is classified to section 5812 of Title 26, Internal Revenue Code.
 
+Section 1028 of this title, referred to in subsecs. (s)(3)(A) and (t)(1)(C), was subsequently amended, and section 1028(d)(1) no longer defines the term “identification document”. However, such term is defined elsewhere in that section.
+
 Section 102 of the Controlled Substances Act, referred to in subsec. (s)(3)(B)(iii), is classified to section 802 of Title 21, Food and Drugs.
 
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is section 103 of Pub. L. 103–159, which is set out below.
 
 The date of the enactment of this subsection, referred to in subsecs. (v)(2) and (w)(2), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
-The Atomic Energy Act of 1954, referred to in subsecs. (v)(4)(B) and (w)(3)(B), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended. Title I of the Act is classified generally to division A (§2011 et seq.) of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsecs. (v)(4)(B) and (w)(3)(B), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended. Title I of the Act is classified generally to division A (§2011 et seq.) of chapter 23 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (d)(5). Pub. L. 105–277, §101(b) \[title I, §121(1)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
+
+Subsec. (g)(5). Pub. L. 105–277, §101(b) \[title I, §121(2)\], added par. (5) and struck out former par. (5) which read as follows: “who, being an alien, is illegally or unlawfully in the United States;”.
+
+Subsec. (s)(3)(B)(v). Pub. L. 105–277, §101(b) \[title I, §121(3)\], added cl. (v) and struck out former cl. (v) which read as follows: “is not an alien who is illegally or unlawfully in the United States;”.
+
+Subsec. (y). Pub. L. 105–277, §101(b) \[title I, §121(4)\], added subsec. (y).
 
 1996—Pub. L. 104–294, §603(g), amended Appendix A by substituting “Uberti 1866 Sporting Rifle” for “Uberti 1866 Sporting Rilfe” in category designated “Centerfire Rifles—Lever \& Slide”, “Sako FiberClass Sporter” for “Sako Fiberclass Sporter” in category designated “Centerfire Rifles—Bolt Action”, “Remington 870 SPS Special Purpose Magnum” for “Remington 879 SPS Special Purpose Magnum” in category designated “Shotguns—Slide Actions”, and “E.A.A./Sabatti Falcon-Mon Over/Under” for “E.A.A/Sabatti Falcon-Mon Over/Under” in category designated “Shotguns—Over/Unders”.
 
@@ -2020,7 +2098,7 @@ Subsec. (a)(6). Pub. L. 90–618 added licensed collectors to the enumerated lis
 
 Subsec. (b). Pub. L. 90–618, in provision preceding par. (1), added licensed collectors to the enumerated list of licensees.
 
-Subsec. (b)(1). Pub. L. 90–618 substituted provisions making it unlawful to sell or deliver any firearm or ammunition to any individual who the licensee knows or has reasonable cause to believe is less than 18, and to sell or deliver any firearm, other than a rifle or shotgun, or ammunition, other than ammunition for a rifle or shotgun, to any individual who the licensee knows or has reasonable cause to believe is less than 21, for provisions making it unlawful to sell or deliver anyfirearm to any individual who the licensee knows or has reasonable cause to believe is less than 21, if the firearm is other than a shotgun or rifle.
+Subsec. (b)(1). Pub. L. 90–618 substituted provisions making it unlawful to sell or deliver any firearm or ammunition to any individual who the licensee knows or has reasonable cause to believe is less than 18, and to sell or deliver any firearm, other than a rifle or shotgun, or ammunition, other than ammunition for a rifle or shotgun, to any individual who the licensee knows or has reasonable cause to believe is less than 21, for provisions making it unlawful to sell or deliver any firearm to any individual who the licensee knows or has reasonable cause to believe is less than 21, if the firearm is other than a shotgun or rifle.
 
 Subsec. (b)(2). Pub. L. 90–618 extended the prohibition to include the sale or delivery of ammunition to any person where the purchase or possession by such person of such ammunition would be unlawful, and struck out “or in the locality in which such person resides” after “or other disposition,”.
 
@@ -2074,15 +2152,13 @@ Amendment by section 1702(b)(1) of Pub. L. 101–647 applicable to conduct engag
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 
-Section 2(f) of Pub. L. 100–649, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924, provided that:
+Pub. L. 100–649, §2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that:
 
 “(1)
 
 Effective date.—This Act and the amendments made by this Act \[amending this section and sections 924 and 925 of this title and enacting provisions set out as notes under this section, section 921 of this title, and section 1356 of former Title 49, Transportation\] shall take effect on the 30th day beginning after the date of the enactment of this Act \[Nov. 10, 1988\].
 
-“(2) 10-
-
-year sunset.—Effective 10 years after the effective date of this Act—
+“(2) Sunset.—Effective 15 years after the effective date of this Act—
 
 &emsp;“(A) subsection (p) of section 922 of title 18, United States Code, is hereby repealed;
 
@@ -2108,7 +2184,7 @@ Section 210603(a) of Pub. L. 103–322 provided that: “Of the amounts authoriz
 
 #### National Instant Criminal Background Check System
 
-Section 103 of Pub. L. 103–159, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 103 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504, provided that:
+Section 103 of Pub. L. 103–159, as amended by Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 103 Stat.2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504, provided that:
 
 “(a)
 
@@ -2206,7 +2282,7 @@ Authorization of appropriations.—There are authorized to be appropriated for g
 
 #### Gun-Free Zone Signs
 
-Section 1702(b)(5) of Pub. L. 101–647 provided that: “Federal, State, and local authorities are encouraged to cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
+Section 1702(b)(5) of Pub. L. 101–647 provided that: “Federal, State, and local authorities are encouragedto cause signs to be posted around school zones giving warning of prohibition of the possession of firearms in a school zone.”
 
 #### Identification of Felons and Other Persons Ineligible To Purchase Handguns
 
@@ -2234,9 +2310,11 @@ Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 923, 924, 925, 925A, 926, 2516, 5031, 5032 of this title; title 8 section 1101; title 26 section 4182; title 36 sections 5503, 5504; title 42 section 5633.
+This section is referred to in sections 923, 924, 925, 925A, 926, 2516, 5031, 5032 of this title; title 8 section 1101; title 26 section 4182; title 36 sections 40723, 40732; title 42 section 5633.
 
 <i><sup>1</sup></i><i> So in original. The word “who” probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

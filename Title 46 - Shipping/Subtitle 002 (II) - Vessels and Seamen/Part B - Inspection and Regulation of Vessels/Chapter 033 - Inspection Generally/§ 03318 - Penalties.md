@@ -12,7 +12,7 @@
 
 (c) A person that employs a means or device whereby a boiler may be subjected to a pressure greater than allowed by the terms of the vessel's certificate of inspection commits a class D felony.
 
-(d) A person that deranges or hinders the operation of any machinery or device employed on a vessel to denote the state of steam or water in any boiler or to give warning of approaching danger, or permits the water level of any boiler when in operation of a vessel to fall below its prescribed low-water line, commits a class D felony.
+(d) A person that deranges or hinders the operation of any machinery or device employed on a vessel to denote the state of steam or water in any boiler or to give warning of approachingdanger, or permits the water level of any boiler when in operation of a vessel to fall below its prescribed low-water line, commits a class D felony.
 
 (e) A person that alters, defaces, obliterates, removes, or destroys any plans or specifications required by and approved under a regulation prescribed under section 3306 of this title, with intent to deceive or impede any official of the United States in carrying out that official's duties, commits a class A misdemeanor.
 
@@ -50,7 +50,7 @@
 
 &emsp;(C) the Secretary believes that unforeseen circumstances exist so that it is not feasible to conduct a scheduled inspection before the expiration of the certificate of inspection.
 
-(k) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to comply with a direction issued by the Secretary under section 3311(b) of this title is liable to the Government for a civil penalty ofnot more than $10,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
+(k) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel failing to comply with a direction issued by the Secretary under section 3311(b) of this title is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs. The vessel also is liable in rem for the penalty.
 
 (<i>l</i>) A person committing an act described by subsections (b)–(f) of this section is liable to the Government for a civil penalty of not more than $5,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
@@ -100,7 +100,7 @@ Subsec. (j)(1). Pub. L. 104–324, §713(2), inserted “as measured under secti
 
 Subsec. (c). Pub. L. 101–380, §4302(b)(2), substituted “commits a class D felony” for “shall be fined not more than $5,000, imprisoned for not more than 5 years, or both”.
 
-Subsec. (d). Pub. L. 101–380, §4302(b)(3), substituted “commits a class D felony” for “shall be fined not more than $5,000, imprisoned for not more than 5 years, or both”.
+Subsec. (d). Pub. L. 101–380, §4302(b)(3), substituted “commits a class D felony” for “shall be fined not morethan $5,000, imprisoned for not more than 5 years, or both”.
 
 Subsec. (e). Pub. L. 101–380, §4302(b)(4), substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than 2 years, or both”.
 

@@ -8,7 +8,7 @@ It shall be unlawful for any person to knowingly acquire, receive, or otherwise 
 
 It shall be unlawful for any person to solicit or knowingly acquire, receive, or accept a donation of human fetal tissue for the purpose of transplantation of such tissue into another person if the donation affects interstate commerce, the tissue will be or is obtained pursuant to an induced abortion, and—
 
-&emsp;(1) the donation will be or is made pursuant to a promise to the donating individual that the donated tissue will be transplanted into a recipient specified by such individual;
+&emsp;(1) the donation will be or is made pursuant to a promise to the donating individual thatthe donated tissue will be transplanted into a recipient specified by such individual;
 
 &emsp;(2) the donated tissue will be transplanted into a relative of the donating individual; or
 
@@ -34,7 +34,7 @@ For purposes of this section:
 
 &emsp;(3) The term “valuable consideration” does not include reasonable payments associated with the transportation, implantation, processing, preservation, quality control, or storage of human fetal tissue.
 
-(July 1, 1944, ch. 373, title IV, §498B, as added June 10, 1993, Pub. L. 103–43, title I, §112, 107 Stat. 131.)
+(July 1, 1944, ch. 373, title IV, §498B, as added Pub. L. 103–43, title I, §112, June 10, 1993, 107 Stat. 131.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “289g–1(g)”.</i>
 

@@ -30,7 +30,7 @@ The provisions of sections 1571(a) and (b) of this title relative to the labelin
 
 The provisions of section 1571(i) of this title relative to the labeling of agricultural and vegetable seeds with the name of any substance used in the treatment of seeds shall not be deemed violated if the substance or substances used in such treatment could not be or were not identified because of their indistinguishability from the substance or substances intended to be used in the treatment of the seeds: <i>Provided</i>, That the records of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclosed that said person has taken reasonable precautions to insure the identity of the substance or substances to be as stated.
 
-(Aug. 9, 1939, ch. 615, title II, §203, 53 Stat. 1281; Aug. 1, 1958, Pub. L. 85–581, §10, 72 Stat. 477; Oct. 15, 1966, Pub. L. 89–686, §12, 80 Stat. 978.)
+(Aug. 9, 1939, ch. 615, title II, §203, 53 Stat. 1281; Pub. L. 85–581, §10, Aug. 1, 1958, 72 Stat. 477; Pub. L. 89–686, §12, Oct. 15, 1966, 80 Stat. 978.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(I) a per meal rate equal to the amount appropriated under subsection (c) of this section for the fiscal year, divided by the number of meals served in the preceding fiscal year; or
 
-&emsp;&emsp;(II) 61 cents per meal, adjusted in accordance with changes in the series for food away from home, of the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, based on the 12-month period ending on July 1 of the preceding year.
+&emsp;&emsp;(II) 61 cents per meal, adjusted in accordance with changes in the series for food away from home, of the Consumer Price Index For All Urban Consumers, publishedby the Bureau of Labor Statistics of the Department of Labor, based on the 12-month period ending on July 1 of the preceding year.
 
 (B) Among the commodities delivered under this subsection, the Secretary shall give special emphasis to high protein foods, meat, and meat alternates. The Secretary of Agriculture, in consultation with the Assistant Secretary for Aging, is authorized to prescribe the terms and conditions respecting the donating of commodities under this subsection.
 
@@ -38,7 +38,7 @@
 
 (B) Effective on the first day of the first month beginning after October 9, 1984, no State may receive reimbursement under the provisions of this section unless the State submits final reimbursement claims for meals within 90 days after the last day of the quarter for which the reimbursement is claimed.
 
-(2)(A) Except as provided in subparagraph (B), in any fiscal year in which compliance with subsection (a)(4) of this section costs more than the amounts authorized under paragraph (1) of thissubsection for that fiscal year the Secretary of Agriculture shall reduce the cents per meal level determined pursuant to subsection (a)(4) of this section for that fiscal year as necessary to meet the authorization of appropriations for that fiscal year.
+(2)(A) Except as provided in subparagraph (B), in any fiscal year in which compliance with subsection (a)(4) of this section costs more than the amounts authorized under paragraph (1) of this subsection for that fiscal year the Secretary of Agriculture shall reduce the cents per meal level determined pursuant to subsection (a)(4) of this section for that fiscal year as necessary to meet the authorization of appropriations for that fiscal year.
 
 (B) In each fiscal year, the final reimbursement claims shall be adjusted to use the full amount appropriated under this subsection for the fiscal year.
 

@@ -6,7 +6,7 @@ Sections 35, 35 note, and 35a to 35n, which were enacted by Part A of Pub. L. 88
 
 Section 35, Pub. L. 88–210, §1, Dec. 18, 1963, 77 Stat. 403, set out declaration of policy as to sections 35 to 35n of this title.
 
-Section 35 note, Pub. L. 88–210, §17, Dec. 18, 1963, 77 Stat. 415, named sections 1–17 of Pub. L. 88–210 the “Vocational Education Act of 1963”. See Short Title note set out under section 2301 of this title.
+Section 35 note, Pub. L. 88–210, §17, Dec. 18, 1963, 77 Stat. 415, named sections 1–17 of Pub. L. 88–210 the “Vocational Education Act of 1963”. See Codification note set out preceding section 2301 of this title.
 
 Section 35a, Pub. L. 88–210, §2, Dec. 18, 1963, 77 Stat. 403, authorized annual appropriations.
 

@@ -44,6 +44,10 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 Subsec. (a)(1)(B). Pub. L. 105–55, §103(a)(3), substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1997 Amendment
 
 Section 103(b) of Pub. L. 105–55 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning on or after October 1, 1997.”

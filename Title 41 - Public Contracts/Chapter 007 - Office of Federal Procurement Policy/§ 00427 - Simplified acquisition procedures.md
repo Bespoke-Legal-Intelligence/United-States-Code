@@ -38,7 +38,7 @@ The Federal Acquisition Regulation shall provide that, in the case of a purchase
 
 #### Amendments
 
-1997—Subsecs. (e) to (g). Pub. L. 105–85 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of subsec. (e). Text read as follows: “The simplified acquisition procedures provided in the Federal Acquisition Regulation pursuantto section 2304(g)(1)(A) of title 10, section 253(g)(1)(A) of this title, and subsection (a)(1) of this section may not be used by an agency after December 31, 1999, for contracts in amounts greater than $50,000 and not greater than the simplified acquisition threshold until a certification has been made pursuant to section 426a(a)(2) of this title that the agency has implemented a full FACNET capability.”
+1997—Subsecs. (e) to (g). Pub. L. 105–85 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of subsec. (e). Text read as follows: “The simplified acquisition procedures provided in the Federal Acquisition Regulation pursuant to section 2304(g)(1)(A) of title 10, section 253(g)(1)(A) of this title, and subsection (a)(1) of this section may not be used by an agency after December 31, 1999, for contracts in amounts greater than $50,000 and not greater than the simplified acquisition threshold until a certification has been made pursuant to section 426a(a)(2) of this title that the agency has implemented a full FACNET capability.”
 
 1996—Subsec. (a). Pub. L. 104–106, §4202(c)(1), as amended by Pub. L. 104–201, substituted “shall provide for—” and pars. (1) and (2) for “shall provide for special simplified procedures for contracts for acquisition of property and services that are not greater than the simplified acquisition threshold.”
 
@@ -82,5 +82,5 @@ Authority to issue solicitations for purchases of commercial items in excess of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252b, 253 of this title; title 10 sections 2302b, 2304.
+This section is referred to in sections 252b, 253 of this title; title 10 sections 2302b, 2304; title 20 section 1018a.
 

@@ -36,7 +36,7 @@
 
 &nbsp;<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
-> If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retired pay based on the monthly basic pay to which hewould be entitled if he were on active duty in that higher grade.
+> If, while on active duty after retirement or after his name was placed on the temporary disability retired list, a member covered by this subsection was promoted to a higher grade in which he served satisfactorily, as determined by the Secretary concerned, he is entitled to retired pay based on the monthly basic pay to which he would be entitled if he were on active duty in that higher grade.
 
 (e) Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from active duty, to have his retired pay or retainer pay—
 
@@ -50,7 +50,7 @@
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 107; June 30, 1960, Pub. L. 86–559, §1(5), 74 Stat. 265; Oct. 2, 1963, Pub. L. 88–132, §5(<i>l</i>)(1), 77 Stat. 214; Dec. 16, 1967, Pub. L. 90–207, §2(a)(2), 81 Stat. 653; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(b)(2), 94 Stat. 1102; Dec. 12, 1980, Pub. L. 96–513, title V, §511(50), 94 Stat. 2924; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), 97 Stat. 641, 642; July 1, 1986, Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), 100 Stat. 694, 703; Oct. 23, 1992, Pub. L. 102–484, div. A, title VI, §642(a), 106 Stat. 2424.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 107; Pub. L. 86–559, §1(5), June 30, 1960, 74 Stat. 265; Pub. L. 88–132, §5(<i>l</i>)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §2(a)(2), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(b)(2), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title V, §511(50), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), July 1, 1986, 100 Stat. 694, 703; Pub. L. 102–484, div. A, title VI, §642(a), Oct. 23, 1992, 106 Stat. 2424.)
 
 Historical and Revision Notes
 

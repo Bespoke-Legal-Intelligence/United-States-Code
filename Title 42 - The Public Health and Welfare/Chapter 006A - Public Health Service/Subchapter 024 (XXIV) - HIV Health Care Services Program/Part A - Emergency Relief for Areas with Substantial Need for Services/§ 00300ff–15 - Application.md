@@ -60,7 +60,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (1) Requirement
 
-&emsp;Except as provided in paragraph (2), to be eligible to receive a grant under section300ff–11(a) of this title for a fiscal year, an application under subsection (a) of this section shall be submitted not later than 45 days after the date on which appropriations are made under section 300ff–77 of this title for the fiscal year.
+&emsp;Except as provided in paragraph (2), to be eligible to receive a grant under section 300ff–11(a) of this title for a fiscal year, an application under subsection (a) of this section shall be submitted not later than 45 days after the date on which appropriations are made under section 300ff–77 of this title for the fiscal year.
 
 #### (2) Exception
 
@@ -110,7 +110,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 &emsp;The requirements established in paragraphs (1) through (3) shall be waived in accordance with section 300ff–14(d)(2) of this title.
 
-(July 1, 1944, ch. 373, title XXVI, §2605, as added Aug. 18, 1990, Pub. L. 101–381, title I, §101(3), 104 Stat. 582; amended May 20, 1996, Pub. L. 104–146, §§3(b)(5), 6(c)(2), 110 Stat. 1352, 1368.)
+(July 1, 1944, ch. 373, title XXVI, §2605, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 582; amended Pub. L. 104–146, §§3(b)(5), 6(c)(2), May 20, 1996, 110 Stat. 1352, 1368.)
 
 #### References in Text
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) any application for a subsequent award or allocation of such assistance by such State, unit of general local government or other recipient.
 
-&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(C) The Secretary shall ensure that each application and all related documentation andother information referred to in subparagraph (B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -88,7 +88,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (4) Nonexclusiveness of remedies
 
-&emsp;This subsection may not be construed to limit the applicability of any requirements,sanctions, penalties, or remedies established under any other law. The Secretary shall not be relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
+&emsp;This subsection may not be construed to limit the applicability of any requirements, sanctions, penalties, or remedies established under any other law. The Secretary shall not be relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
 
 #### (f) Limitation of assistance
 
@@ -106,7 +106,7 @@ For purposes of this section, the term “assistance” means any housing grant,
 
 The Secretary shall submit to the Congress, not later than 180 days following December 15, 1989, a report describing actions taken to carry out this section, including actions to inform and educate officers and employees of the Department of Agriculture regarding the provisions of this section.
 
-(July 15, 1949, ch. 338, title V, §536, as added Dec. 15, 1989, Pub. L. 101–235, title IV, §401(a), 103 Stat. 2045; amended Nov. 28, 1990, Pub. L. 101–625, title VII, §719(a), 104 Stat. 4297; Dec. 19, 1995, Pub. L. 104–65, §11(b)(2), 109 Stat. 701.)
+(July 15, 1949, ch. 338, title V, §536, as added Pub. L. 101–235, title IV, §401(a), Dec. 15, 1989, 103 Stat. 2045; amended Pub. L. 101–625, title VII, §719(a), Nov. 28, 1990, 104 Stat. 4297; Pub. L. 104–65, §11(b)(2), Dec. 19, 1995, 109 Stat. 701.)
 
 #### Codification
 

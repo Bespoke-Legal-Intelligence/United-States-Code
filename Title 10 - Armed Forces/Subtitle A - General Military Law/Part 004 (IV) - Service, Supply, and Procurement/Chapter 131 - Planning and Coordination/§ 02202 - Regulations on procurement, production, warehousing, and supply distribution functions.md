@@ -2,7 +2,7 @@
 
 The Secretary of Defense shall prescribe regulations governing the performance within the Department of Defense of the procurement, production, warehousing, and supply distribution functions, and related functions, of the Department of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 120; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §1202, 101 Stat. 1153; Oct. 13, 1994, Pub. L. 103–355, title III, §3061(a), 108 Stat. 3336.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 120; Pub. L. 100–180, div. A, title XII, §1202, Dec. 4, 1987, 101 Stat. 1153; Pub. L. 103–355, title III, §3061(a), Oct. 13, 1994, 108 Stat. 3336.)
 
 Historical and Revision Notes
 

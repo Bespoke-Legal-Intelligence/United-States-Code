@@ -38,3 +38,7 @@ This Act, referred to in subsec. (e), is Pub. L. 98–164, Nov. 22, 1983, 97 Sta
 
 1987—Subsec. (f). Pub. L. 100–204 added subsec. (f).
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+

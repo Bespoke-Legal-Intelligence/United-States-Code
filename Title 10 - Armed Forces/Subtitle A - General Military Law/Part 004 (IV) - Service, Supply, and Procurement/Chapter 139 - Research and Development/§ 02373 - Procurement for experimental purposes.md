@@ -6,7 +6,7 @@ Authority.—The Secretary of Defense and the Secretaries of the military depart
 
 (b)
 
-Procedures.—Purchases under this section may be made inside or outside the United States and by contract or otherwise. Chapter 137 of thistitle applies only when such purchases are made in quantity.
+Procedures.—Purchases under this section may be made inside or outside the United States and by contract or otherwise. Chapter 137 of this title applies only when such purchases are made in quantity.
 
 (Added Pub. L. 103–160, div. A, title VIII, §822(c)(1), Nov. 30, 1993, 107 Stat. 1706; amended Pub. L. 103–337, div. A, title X, §1070(g), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title VIII, §812, Feb. 10, 1996, 110 Stat. 395.)
 

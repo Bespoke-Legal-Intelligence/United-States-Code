@@ -16,7 +16,7 @@ Except as provided in subsection (d) of this section, regulations prescribed und
 
 On recommendation of the National Advisory Health Council, regulations prescribed under this section may provide for the apprehension and examination of any individual reasonably believed to be infected with a communicable disease in a communicable stage and (1) to be moving or about to move from a State to another State; or (2) to be a probable source of infection to individuals who, while infected with such disease in a communicable stage, will be moving from a State to another State. Such regulations may provide that if upon examination any such individual is found to be infected, he may be detained for such time and in such manner as may be reasonably necessary. For purposes of this subsection, the term “State” includes, in addition to the several States, only the District of Columbia.
 
-(July 1, 1944, ch. 373, title III, §361, 58 Stat. 703; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; July 12, 1960, Pub. L. 86–624, §29(c), 74 Stat. 419; June 23, 1976, Pub. L. 94–317, title III, §301(b)(1), 90 Stat. 707.)
+(July 1, 1944, ch. 373, title III, §361, 58 Stat. 703; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 86–624, §29(c), July 12, 1960, 74 Stat. 419; Pub. L. 94–317, title III, §301(b)(1), June 23, 1976, 90 Stat. 707.)
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Amendment by Pub. L. 86–624 effective Aug. 21, 1959, see section 47(f) of Pub.
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 ofReorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 

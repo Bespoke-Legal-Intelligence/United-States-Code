@@ -64,7 +64,7 @@ Whenever allotments for a fiscal year are allocated to processors under section 
 
 &emsp;Whenever the Secretary determines that, because of a natural disaster or other condition beyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State's cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
 
-(Feb. 16, 1938, ch. 30, title III, §359f, as added Nov. 28, 1990, Pub. L. 101–624, title IX, §902, 104 Stat. 3484; amended Dec. 13, 1991, Pub. L. 102–237, title I, §111(h), 105 Stat. 1834; Oct. 27, 1992, Pub. L. 102–535, 106 Stat. 3526.)
+(Feb. 16, 1938, ch. 30, title III, §359f, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, §111(h), Dec. 13, 1991, 105 Stat. 1834; Pub. L. 102–535, Oct. 27, 1992, 106 Stat. 3526.)
 
 #### Amendments
 

@@ -1,5 +1,5 @@
 
-10 U.S.C.<br>United States Code, 1997 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+10 U.S.C.<br>United States Code, 1998 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 10—ARMED FORCES
 
@@ -8677,8 +8677,6 @@ Coast Guard, generally, see Title 14, Coast Guard.
 
 National Guard, generally, see Title 32, National Guard.
 
-Patriotic societies and observances, see section 1 et seq. of Title 36, Patriotic Societies and Observances.
-
 Pay and allowances of the uniformed services, see section 101 et seq. of Title 37, Pay and Allowances of the Uniformed Services.
 
 President of the United States—
@@ -8691,7 +8689,7 @@ Veterans’ benefits, see section 101 et seq. of Title 38, Veterans’ Benefits.
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 36 section 5507; title 42 section 1320d; title 50 sections 415, 2031.
+This title is referred to in title 36 section 40727; title 42 sections 1320d, 1395ggg, 14405; title 50 sections 415, 2031.
 
 
 ---

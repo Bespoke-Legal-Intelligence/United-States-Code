@@ -68,7 +68,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 #### (e) Surcharge on foreign fishing vessels
 
-In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1824(b)(10)) with respect to any foreign fishing vessel for any year after 1978, the Secretary shall impose a surcharge in an amount not to exceed 20 percent of the amount of the fee imposed under such section for such year. The failure to pay any surcharge imposed under this subsection with respect to any foreign fishing vessel shall be treated by the Secretary as a failure to pay the fee for such vessel under such section 204(b)(10).
+In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1824(b)(10)) with respect to any foreign fishing vessel for any year after 1978, the Secretaryshall impose a surcharge in an amount not to exceed 20 percent of the amount of the fee imposed under such section for such year. The failure to pay any surcharge imposed under this subsection with respect to any foreign fishing vessel shall be treated by the Secretary as a failure to pay the fee for such vessel under such section 204(b)(10).
 
 #### (f) Fishing Vessel and Gear Damage Compensation Fund; requirements, etc.
 

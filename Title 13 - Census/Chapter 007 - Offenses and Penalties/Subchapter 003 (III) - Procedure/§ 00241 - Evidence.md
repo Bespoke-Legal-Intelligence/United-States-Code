@@ -2,7 +2,7 @@
 
 When any request for information, made by the Secretary or other authorized officer or employee of the Department of Commerce or bureau or agency thereof, is made by registered or certified mail or telegram, the return receipt therefor or other written receipt thereof shall be prima facie evidence of an official request in any prosecution under such section.
 
-(Aug. 31, 1954, ch. 1158, 68 Stat. 1025; Aug. 28, 1957, Pub. L. 85–207, §19, 71 Stat. 484; Oct. 17, 1976, Pub. L. 94–521, §15(b), 90 Stat. 2465.)
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1025; Pub. L. 85–207, §19, Aug. 28, 1957, 71 Stat. 484; Pub. L. 94–521, §15(b), Oct. 17, 1976, 90 Stat. 2465.)
 
 #### Historical and Revision Notes
 

@@ -136,13 +136,17 @@ Subsec. (d). Pub. L. 95–454, §308(a), (c), redesignated former subsec. (c) as
 
 Subsec. (e). Pub. L. 95–454, §308(a), (d), redesignated former subsec. (d) as (e) and substituted provisions relating to functions of the Office of Personnel Management under this section with respect to exceptions from restrictions, for provisions relating to functions of the Civil Service Commission under this section with respect to exceptions from restrictions under former subsec. (b) of this section.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
 
 #### Effective and Termination Dates of 1990 Amendments
 
-Section 1206(j)(4) of Pub. L. 101–510 provided that (A) unless sections 5532(g), 8344(i), and 8468(f) of this titledid not take effect as provided in subpar. (B), such sections would cease to be in effect on the earlier of Oct. 1, 1992, or the date of the enactment of the Federal Employees Pay Comparability Act of 1990 \[Nov. 5, 1990\], and (B) sections 5532(g), 8344(i), and 8468(f) of this title would not take effect if the Federal Employees Pay Comparability Act of 1990 \[Pub. L. 101–509\] was enacted before the date of the enactment of this Act \[Nov. 5, 1990\]. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(4), and provided that this title shall read as if section 1206(j)(4) had not been enacted.
+Section 1206(j)(4) of Pub. L. 101–510 provided that (A) unless sections 5532(g), 8344(i), and 8468(f) of this title did not take effect as provided in subpar. (B), such sections would cease to be in effect on the earlier of Oct. 1, 1992, or the date of the enactment of the Federal Employees Pay Comparability Act of 1990 \[Nov. 5, 1990\], and (B) sections 5532(g), 8344(i), and 8468(f) of this title would not take effect if the Federal Employees Pay Comparability Act of 1990 \[Pub. L. 101–509\] was enacted before the date of the enactment of this Act \[Nov. 5, 1990\]. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(4), and provided that this title shall read as if section 1206(j)(4) had not been enacted.
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 

@@ -26,7 +26,7 @@ Upon the request of the Secretary of Agriculture, the Secretary of State shall r
 
 Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to the civil service laws (and without reduction in grade if an appropriate position at the employee's grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: <i>Provided,</i> That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: <i>Provided further,</i> That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
 
-(Aug. 28, 1954, ch. 1041, title VI, §602(a)–(d), formerly §602(a)–(c), (e), 68 Stat. 908, 909; amended June 28, 1955, ch. 189, §12(c)(13), 69 Stat. 182; Aug. 4, 1965, Pub. L. 89–106, §4, 79 Stat. 431; Oct. 1, 1976, Pub. L. 94–449, 90 Stat. 1500; renumbered §602(a)–(d) and amended Oct. 21, 1978, Pub. L. 95–501, title III, §301(4), (5), title IV, §401(3), (5), 92 Stat. 1688, 1691.)
+(Aug. 28, 1954, ch. 1041, title VI, §602(a)–(d), formerly §602(a)–(c), (e), 68 Stat. 908, 909; amended June 28, 1955, ch. 189, §12(c)(13), 69 Stat. 182; Pub. L. 89–106, §4, Aug. 4, 1965, 79 Stat. 431; Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered §602(a)–(d) and amended Pub. L. 95–501, title III, §301(4), (5), title IV, §401(3), (5), Oct. 21, 1978, 92 Stat. 1688, 1691.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Contracts With Individuals To Perform Services Abroad; Such Persons Not Regarded as Employees of United States
 
-Pub. L. 100–202, §101(k) \[title IV\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–350, provided: “That funds available to the Foreign Agricultural Service under this and subsequent appropriations Acts shall be available to contract with individuals for services to be performed outside the United States as determined by the Service to be necessary or appropriate for carrying out programs and activities abroad. Such individuals shall not be regarded as officers or employees of the United States under any law, including any law administered by the Office of Personnel Management.”
+Pub. L. 100–202, §101(k) \[title IV\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–350, as amended by Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §750\], Oct. 21, 1998, 112 Stat. 2681, 2681–32, provided: “That funds available to the Foreign Agricultural Service under this and subsequent appropriations Acts shall be available to contract with individuals for services to be performed outside the United States as determined by the Service to be necessary or appropriate for carrying out programs and activities abroad. On or after August 1, 1998 such individuals employed by contract to perform such services shall not, by virtue of such employment, be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management. Such individuals may be considered employees within the meaning of the Federal Employee Compensation Act, 5 U.S.C. 8101 et seq.”
 
 #### Ex. Ord. No. 10624. Regulations for Department of Agriculture Personnel Abroad
 

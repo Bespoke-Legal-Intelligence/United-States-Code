@@ -1,8 +1,8 @@
 ### §490i. Buildings considered to be federally owned
 
-For the purposes of this authorization, and on and after October 10, 1997, buildings constructed pursuant to the purchase contract authority of the Public Buildings Amendments of 1972 (40 U.S.C. 602a), buildings occupied pursuant to installment purchase contracts, and buildings under the control of another department or agency where alterations of such buildings are required in connection with the moving of such other department or agency from buildings then, or thereafter to be, under the control of the General Services Administration shall be considered to be federally owned buildings.
+For the purposes of this authorization, and on and after October 21, 1998, buildings constructed pursuant to the purchase contract authority of the Public Buildings Amendments of 1972 (40 U.S.C. 602a), buildings occupied pursuant to installment purchase contracts, and buildings under the control of another department or agency where alterations of such buildings are required in connection with the moving of such other department or agency from buildings then, or thereafter to be, under the control of the General Services Administration shall be considered to be federally owned buildings.
 
-(Pub. L. 105–61, title IV, Oct. 10, 1997, 111 Stat. 1297.)
+(Pub. L. 105–277, div. A, §101(h) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–502.)
 
 #### References in Text
 
@@ -10,5 +10,11 @@ The Public Buildings Amendments of 1972, referred to in text, is Pub. L. 92–31
 
 #### Codification
 
-Section was enacted as part of the Treasury and General Government Appropriations Act, 1998, and not as part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
+Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in the following prior appropriation act:
+
+Pub. L. 105–61, title IV, Oct. 10, 1997, 111 Stat. 1297.
 

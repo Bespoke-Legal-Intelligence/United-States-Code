@@ -20,7 +20,7 @@
 
 (c) Upon the filing of an affidavit in accordance with subsections (a) and (b) and the prepayment of any partial filing fee as may be required under subsection (b), the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title. Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts.
 
-(d) The officers of the court shall issue and serve all process, and perform all duties in such cases. Witnesses shall attend as in other cases, and the same remedies shall be available as are provided for by law in other cases.
+(d) The officers of the court shall issue and serve all process, and perform all duties in suchcases. Witnesses shall attend as in other cases, and the same remedies shall be available as are provided for by law in other cases.
 
 (e)(1) The court may request an attorney to represent any person unable to afford counsel.
 
@@ -78,7 +78,7 @@ This amendment clarifies the meaning of subsection (b) of section 1915 of title 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”, struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
+1996—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”, struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
 
 Subsec. (b). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(3)\], added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -96,15 +96,15 @@ Subsec. (g). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(d)\], added sub
 
 Subsec. (h). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(e)\], added subsec. (h).
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
+1979—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by theUnited States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–320 substituted “person” for “citizen”.
+1959—Subsec. (a). Pub. L. 86–320 substituted “person” for “citizen”.
 
-<b>1951</b>—Subsec. (b). Act Oct. 31, 1951, struck out “furnishing a stenographic transcript and” after “expense of”.
+1951—Subsec. (b). Act Oct. 31, 1951, struck out “furnishing a stenographic transcript and” after “expense of”.
 
 Subsec. (e). Act Oct. 31, 1951, inserted provision that the United States shall not be liable for any of the costs incurred.
 
-<b>1949</b>—Subsec. (b). Act May 24, 1949, §98(a), inserted “such printing is” between “if” and “required”.
+1949—Subsec. (b). Act May 24, 1949, §98(a), inserted “such printing is” between “if” and “required”.
 
 Subsec. (e). Act May 24, 1949, §98(b), inserted “or printed record” after “stenographic transcript”.
 

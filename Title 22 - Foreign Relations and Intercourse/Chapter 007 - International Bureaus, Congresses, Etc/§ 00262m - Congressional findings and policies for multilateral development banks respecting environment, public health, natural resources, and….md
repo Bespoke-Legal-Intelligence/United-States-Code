@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) multilateral development bank projects, policies, and loans have failed in some cases to provide adequate safeguards for the environment, public health, natural resources, and indigenous peoples;
 
-&emsp;(3) many development efforts of the multilateral development banks are more enduring and less costly if based on consultations withdirectly affected population groups and communities;
+&emsp;(3) many development efforts of the multilateral development banks are more enduring and less costly if based on consultations with directly affected population groups and communities;
 
 &emsp;(4) developing country governments sometimes do not ensure that appropriate policies and procedures are in place to use natural resources sustainably or consult with affected population groups and communities, where costs could be reduced or benefits made more enduring; and
 

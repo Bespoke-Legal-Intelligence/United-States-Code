@@ -34,7 +34,7 @@ Reports.—Not later than April 15 and October 15 of each calendar year while th
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘congressional defense committees’ means the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives \[Committee on Armed Services of the House of Representatives now Committee on National Security\].
+&emsp;“(1) The term ‘congressional defense committees’ means the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives.
 
 &emsp;“(2) The term ‘off-site agreement’ means the agreement on the restructuring of the Army National Guard and the Army Reserve.”
 
@@ -50,11 +50,11 @@ Pub. L. 103–335, title VIII, §8073, Sept. 30, 1994, 108 Stat. 2635.
 
 Pub. L. 103–139, title VIII, §8087, Nov. 11, 1993, 107 Stat. 1459.
 
-Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500, provided that:
+Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–261, div. A, title V, §561(<i>l</i>), (m), Oct. 17, 1998, 112 Stat. 2026, provided that:
 
 #### “SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
 
-“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on September 30, 1999.
+“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on September 30, 2001.
 
 #### “SEC. 4412. MEMBER OF SELECTED RESERVE DEFINED.
 
@@ -68,7 +68,7 @@ Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712
 
 “(a)
 
-In General.—During the force reduction transition period, a member of the Selected Reserve may not be involuntarily discharged from a reserve component of the Armed Forces, or involuntarily transferred from the Selected Reserve, before the Secretary of Defense has prescribed and implemented regulations that govern the treatment of members of the Selected Reserve assigned to such units and members of the Selected Reserve that are being subjected to such actions and a copy of such regulations has been transmitted to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\].
+In General.—During the force reduction transition period, a member of the Selected Reserve may not be involuntarily discharged from a reserve component of the Armed Forces, or involuntarily transferred from the Selected Reserve, before the Secretary of Defense has prescribed and implemented regulations that govern the treatment of members of the Selected Reserve assigned to such units and members of the Selected Reserve that are being subjected to such actions and a copy of such regulations has been transmitted to the Committees on Armed Services of the Senate and House of Representatives.
 
 “(b)
 
@@ -130,7 +130,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 “(a)
 
-Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
+Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
 
 “(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
 
@@ -140,7 +140,7 @@ Temporary Special Authority for Elimination of Officers From Active Status.—(1
 
 Temporary Special Authority.—During the force reduction transition period, the Secretary concerned may grant a member of the Selected Reserve under the age of 60 years the annual payments provided for under this section if—
 
-&emsp;“(1) as of October 1, 1991, that member has completed at least 20 years of service computed under section 1332 of title 10, United States Code, or after that date and before October 1, 1999, such member completes 20 years of service computed under that section or section 12732;
+&emsp;“(1) as of October 1, 1991, that member has completed at least 20 years of service computed under section 1332 of title 10, United States Code, or after that date and before October 1, 2001, such member completes 20 years of service computed under that section or section 12732;
 
 &emsp;“(2) the member satisfies the requirements of paragraphs (3) and (4) of section 1331(a) or 12731(a) of title 10, United States Code; and
 

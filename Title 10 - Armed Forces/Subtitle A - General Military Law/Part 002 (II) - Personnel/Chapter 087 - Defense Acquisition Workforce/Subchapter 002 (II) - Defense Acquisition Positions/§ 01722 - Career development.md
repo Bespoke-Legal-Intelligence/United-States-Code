@@ -2,7 +2,7 @@
 
 (a)
 
-Career Paths.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall ensurethat appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
+Career Paths.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall ensure that appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
 
 (b)
 
@@ -36,7 +36,7 @@ Performance Appraisals.—The Secretary of each military department, acting thro
 
 (h)
 
-Balanced Workforce Policy.—In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment, the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of section 2301(b) of title 5, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
+Balanced Workforce Policy.—In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment,the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of section 2301(b) of title 5, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1641; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728.)
 

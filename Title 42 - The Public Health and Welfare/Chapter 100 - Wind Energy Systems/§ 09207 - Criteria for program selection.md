@@ -4,7 +4,7 @@ The Secretary shall set priorities which are, as far as possible, consistent wit
 
 &emsp;(1) the construction, operation, and maintenance costs of wind energy systems shall be minimized;
 
-&emsp;(2) programs established under this chapter shall be conducted with the express intent of bringing wind energy system costs down to a level competitive with energy costs from conventional energy systems;
+&emsp;(2) programs established under this chapter shall be conducted with the express intent ofbringing wind energy system costs down to a level competitive with energy costs from conventional energy systems;
 
 &emsp;(3) priority shall be given in the conduct of programs established under this chapter to those projects in which cost-sharing funds are provided by private, industrial, agricultural, or governmental entities or utilities; and
 

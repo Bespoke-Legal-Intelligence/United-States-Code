@@ -10,7 +10,7 @@ The Congress of the United States makes the following findings concerning the de
 
 (d) The processing and utilization of source, byproduct, and special nuclear material must be regulated in the national interest and in order to provide for the common defense and security and to protect the health and safety of the public.
 
-(e) Source and special nuclear material, production facilities, and utilization facilities are affected with the public interest, and regulation by the United States of the production and utilization of atomic energy and of the facilities used in connection therewith is necessary in the national interest to assure the common defenseand security and to protect the health and safety of the public.
+(e) Source and special nuclear material, production facilities, and utilization facilities are affected with the public interest, and regulation by the United States of the production and utilization of atomic energy and of the facilities used in connection therewith is necessary in the national interest to assure the common defense and security and to protect the health and safety of the public.
 
 (f) The necessity for protection against possible interstate damage occurring from the operation of facilities for the production or utilization of source or special nuclear material places the operation of those facilities in interstate commerce for the purposes of this chapter.
 
@@ -20,7 +20,7 @@ The Congress of the United States makes the following findings concerning the de
 
 (i) In order to protect the public and to encourage the development of the atomic energy industry, in the interest of the general welfare and of the common defense and security, the United States may make funds available for a portion of the damages suffered by the public from nuclear incidents, and may limit the liability of those persons liable for such losses.
 
-(Aug. 1, 1946, ch. 724, title I, §2, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; amended Sept. 2, 1957, Pub. L. 85–256, §1, 71 Stat. 576; Aug. 26, 1964, Pub. L. 88–489, §§1, 2, 78 Stat. 602; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §2, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; amended Pub. L. 85–256, §1, Sept. 2, 1957, 71 Stat. 576; Pub. L. 88–489, §§1, 2, Aug. 26, 1964, 78 Stat. 602; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

@@ -26,7 +26,7 @@ The information to be provided in the notice under subsection (b) of this sectio
 
 #### (d) Public comment
 
-The agency specified in subsection (c)(2)(D) of this section shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
+The agency specified in subsection (c)(2)(D) of this section shall provide an opportunity forpublic comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
 
 (Pub. L. 96–39, title IV, §491, as added Pub. L. 103–465, title IV, §432, Dec. 8, 1994, 108 Stat. 4970.)
 

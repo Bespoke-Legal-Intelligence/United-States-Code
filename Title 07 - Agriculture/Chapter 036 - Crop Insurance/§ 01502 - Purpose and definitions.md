@@ -14,7 +14,7 @@ As used in this chapter:
 
 #### (2) Approved insurance provider
 
-&emsp;The term “approved insurance provider” means a private insurance provider that has been approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this chapter.
+&emsp;The term “approved insurance provider” means a private insurance provider that hasbeen approved by the Corporation to provide insurance coverage to producers participating in the Federal crop insurance program established under this chapter.
 
 #### (3) Board
 
@@ -44,7 +44,7 @@ As used in this chapter:
 
 &emsp;&emsp;(B) to present the acceptable documentation on the demand of the Corporation or an insurance company reinsured by the Corporation.
 
-(Feb. 16, 1938, ch. 30, title V, §502, 52 Stat. 72; June 21, 1941, ch. 214, §1, 55 Stat. 255; Aug. 1, 1947, ch. 440, §4, 61 Stat. 719; Oct. 13, 1994, Pub. L. 103–354, title I, §102(a), 108 Stat. 3180.)
+(Feb. 16, 1938, ch. 30, title V, §502, 52 Stat. 72; June 21, 1941, ch. 214, §1, 55 Stat. 255; Aug. 1, 1947, ch. 440, §4, 61 Stat. 719; Pub. L. 103–354, title I, §102(a), Oct. 13, 1994, 108 Stat. 3180.)
 
 #### Amendments
 

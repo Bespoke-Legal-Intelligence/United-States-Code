@@ -34,7 +34,7 @@ In clause (1), the words “agency from paying” are substituted for “the pay
 
 #### Availability of Appropriations for Expenses of Attending Meetings
 
-Pub. L. 102–394, title V, §505, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in thisAct or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made or which will contribute to improved conduct, supervision, or management of those functions or activities.”
+Pub. L. 102–394, title V, §505, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made or which will contribute to improved conduct, supervision, or management of those functions or activities.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

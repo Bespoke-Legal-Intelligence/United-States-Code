@@ -12,7 +12,3 @@
 
 A prior section, acts Aug. 4, 1949, ch. 393, 63 Stat. 546; June 15, 1955, ch. 142, 69 Stat. 134, related to interchange of supplies between armed forces, prior to repeal by Pub. L. 85–861, §36A, C(1), Sept. 2, 1958, 72 Stat. 1569, 1571. See section 2571 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 974.
-

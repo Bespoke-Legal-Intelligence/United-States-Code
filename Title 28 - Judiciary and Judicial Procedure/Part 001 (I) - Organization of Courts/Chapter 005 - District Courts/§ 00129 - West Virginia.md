@@ -32,7 +32,7 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–471, §1(1), struck out references to Parkersburg, Wirt, and Wood counties and inserted references to Braxton, Pocahontas, and Webster counties.
+1983—Subsec. (a). Pub. L. 97–471, §1(1), struck out references to Parkersburg, Wirt, and Wood counties and inserted references to Braxton, Pocahontas, and Webster counties.
 
 Subsec. (b). Pub. L. 97–471, §1(2), struck out references to Braxton, Pocahontas, and Webster counties and inserted references to Parkersburg, Wirt, and Wood counties.
 

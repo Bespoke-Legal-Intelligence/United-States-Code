@@ -8,7 +8,7 @@ For the purpose of making allotments under section 300ee–11(a) of this title, 
 
 Any amounts paid to a State under section 300ee–11(a) of this title shall remain available to the State until the expiration of the 1-year period beginning on the date on which the State receives such amounts.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2514, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3102; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2514, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3102; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
 #### Prior Provisions
 

@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after October 26, 1996, and after providing notice and an opportunity for public comment, the Secretary shall issuevoluntary guidelines to prevent the introduction and spread of nonindigenous species in waters of the United States by ballast water operations and other operations of vessels equipped with ballast water tanks.
+&emsp;Not later than 1 year after October 26, 1996, and after providing notice and an opportunity for public comment, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of nonindigenous species in waters of the United States by ballast water operations and other operations of vessels equipped with ballast water tanks.
 
 #### (2) Content of guidelines
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(i) carry out the exchange of ballast water of the vessel in waters beyond the exclusive economic zone;
 
-&emsp;&emsp;&emsp;(ii) exchange the ballast water of the vessel in other waters where the exchange does not pose a threat of infestation or spread of nonindigenous species in waters of the United States, as recommended by the Task Force under section 4712(a)(1) of this title; or
+&emsp;&emsp;&emsp;(ii) exchange the ballast water of the vessel in other waters where the exchange does not pose a threat of infestation or spread of nonindigenous species in watersof the United States, as recommended by the Task Force under section 4712(a)(1) of this title; or
 
 &emsp;&emsp;&emsp;(iii) use environmentally sound alternative ballast water management methods, including modification of the vessel ballast water tanks and intake systems, if the Secretary determines that such alternative methods are at least as effective as ballast water exchange in preventing and controlling infestations of aquatic nuisance species;
 
@@ -234,7 +234,7 @@ In developing the guidelines issued and regulations promulgated under this secti
 
 #### (j) International cooperation
 
-The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on EnvironmentalCooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
+The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
 
 #### (k) Safety exemption
 

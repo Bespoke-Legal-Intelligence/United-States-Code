@@ -10,5 +10,5 @@ Section is based on section 202 of title II of S. 2416, Ninety-eighth Congress, 
 
 #### Short Title
 
-Section 201 of title II of S. 2416, as introduced in the Senate Mar. 13, 1984, and as enacted into permanent law by section 101(1) \[title I\] of Pub. L. 98–473, provided that: “This title \[enacting this subchapter and amending section 276c–2 of this title and section 24 of Title 12, Banks and Banking\] may be cited as the ‘Inter-American Investment Corporation Act’.”
+Section 201 of title II of S. 2416, as introduced in the Senate Mar. 13, 1984, and as enacted into permanent lawby section 101(1) \[title I\] of Pub. L. 98–473, provided that: “This title \[enacting this subchapter and amending section 276c–2 of this title and section 24 of Title 12, Banks and Banking\] may be cited as the ‘Inter-American Investment Corporation Act’.”
 

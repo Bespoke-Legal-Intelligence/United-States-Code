@@ -10,7 +10,7 @@ In any such proceeding the court as a court of equity may, to such extent as it 
 
 #### (c) Trusteeship or receivership over licensee
 
-The Administration shall have authority to act as trustee or receiver of the licensee. Upon request by the Administration, the court mayappoint the Administration to act in such capacity unless the court deems such appointment inequitable or otherwise inappropriate by reason of the special circumstances involved.
+The Administration shall have authority to act as trustee or receiver of the licensee. Upon request by the Administration, the court may appoint the Administration to act in such capacity unless the court deems such appointment inequitable or otherwise inappropriate by reason of the special circumstances involved.
 
 (Pub. L. 85–699, title III, §311, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, §6, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 98–620, title IV, §402(15)(C), Nov. 8, 1984, 98 Stat. 3358.)
 

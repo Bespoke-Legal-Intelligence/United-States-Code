@@ -10,7 +10,7 @@ The amount of $50,000,000 of fees accumulated under prior investment guaranty pr
 
 #### (c) Priorities of funds for guaranty payments
 
-Any payments made to discharge liabilities under guaranties issued under section 2182 of this title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) of this section (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment madeto discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e) of this section.
+Any payments made to discharge liabilities under guaranties issued under section 2182 ofthis title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) of this section (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e) of this section.
 
 #### (d) Guaranties as obligations backed by full faith and credit of United States
 
@@ -42,11 +42,11 @@ No payment may be made under any guaranty issued pursuant to this subpart for an
 
 #### (i) Repealed. Pub. L. 95–424, title I, §115(i), Oct. 6, 1978, 92 Stat. 952
 
-#### (j) Guaranties for housing projects; percentage requirement for families with income below median income; face value and average face value fiscal year limitations; face amount for Israel and Egypt
+#### (j) Guaranties for housing projects; percentage requirement for families with income below median income
 
-Guaranties shall be issued under section 2182 of this title only for housing projects which are coordinated with and complementary to any development assistance being furnished under part I of this subchapter and which are specifically designed to demonstrate the feasibility and suitability of particular kinds of housing or of financial or other institutional arrangements. Of the aggregate face value of housing guaranties hereafter issued under this subpart, not less than 90 per centum shall be issued for housing suitable for families with income below the median income (below the median urban income for housing in urban areas) in the country in which the housing is located. The face value of guaranties issued with respect to housing in any country shall not exceed $25,000,000 in any fiscal year, and the average face value of guaranties issued in any fiscal year shall not exceed $15,000,000. Of the total amount of housing guaranties authorized to be issued under section 2182 of this title through September 30, 1982, not less than a face amount of $25,000,000 shall be issued for projects in Israel and not less than a face amount of $25,000,000 shall be issued for projects in Egypt.
+Guaranties shall be issued under section 2182 of this title only for housing projects which are coordinated with and complementary to any development assistance being furnished under part I of this subchapter and which are specifically designed to demonstrate the feasibility and suitability of particular kinds of housing or of financial or other institutional arrangements. Of the aggregate face value of housing guaranties hereafter issued under this subpart, not less than 90 per centum shall be issued for housing suitable for families with income below the median income (below the median urban income for housing in urban areas) in the country in which the housing is located.
 
-(Pub. L. 87–195, pt. I, §223, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 808; amended Pub. L. 92–226, pt. I, §103(b) Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §5(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–559, §§7(2), 8(a)(3)–(5), Dec. 30, 1974, 88 Stat. 1796, 1797; Pub. L. 94–161, title III, §311(5), Dec. 20, 1975, 89 Stat. 861; Pub. L. 94–329, title IV, §414, June 30, 1976, 90 Stat. 761; Pub. L. 95–88, title I, §117(a)(3), (b)(2), (c), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(c)–(j), Oct. 6, 1978, 92 Stat. 951, 952; Pub. L. 96–53, title I, §112(c), (d), Aug. 14, 1979, 93 Stat. 364; Pub. L. 97–113, title III, §310(b), Dec. 29, 1981, 95 Stat. 1535; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–142.)
+(Pub. L. 87–195, pt. I, §223, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 808; amended Pub. L. 92–226, pt. I, §103(b) Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §5(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–559, §§7(2), 8(a)(3)–(5), Dec. 30, 1974, 88 Stat. 1796, 1797; Pub. L. 94–161, title III, §311(5), Dec. 20, 1975, 89 Stat. 861; Pub. L. 94–329, title IV, §414, June 30, 1976, 90 Stat. 761; Pub. L. 95–88, title I, §117(a)(3), (b)(2), (c), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(c)–(j), Oct. 6, 1978, 92 Stat. 951, 952; Pub. L. 96–53, title I, §112(c), (d), Aug. 14, 1979, 93 Stat. 364; Pub. L. 97–113, title III, §310(b), Dec. 29, 1981, 95 Stat. 1535; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–142; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–157.)
 
 #### References in Text
 
@@ -71,6 +71,8 @@ Amendment by Pub. L. 98–473 is based on section 311(c) of H.R. 5119, Ninety-ei
 A prior section 223 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 431, as amended by Pub. L. 89–171, pt. I, §104(d), Sept. 6, 1965, 79 Stat. 654; Pub. L. 90–137, pt. I, §104(c), Nov. 4, 1967, 81 Stat. 451, contained definitions, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
 #### Amendments
+
+1998—Subsec. (j). Pub. L. 105–277 struck out at end “The face value of guaranties issued with respect to housing in any country shall not exceed $25,000,000 in any fiscal year, and the average face value of guaranties issued in any fiscal year shall not exceed $15,000,000. Of the total amount of housing guaranties authorized to be issued under section 2182 of this title through September 30, 1982, not less than a face amount of $25,000,000 shall be issued for projects in Israel and not less than a face amount of $25,000,000 shall be issued for projects in Egypt.”
 
 1987—Subsec. (e)(2)(A)(ii). Pub. L. 100–202 substituted “$100,000,000” for “$40,000,000”.
 
@@ -124,7 +126,7 @@ Subsec. (i). Pub. L. 93–559, §7(2), substituted “June 30, 1976” for “Ju
 
 #### Effective Date of 1984 Amendment
 
-Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by section 101(1) \[title V, §541(a)\] of Pub. L. 98–473 provided that: “The amendment made by subsection (c) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 12, 1984\].”
+Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by section 101(1) \[title V, §541(a)\] of Pub. L. 98–473 provided that: “The amendment made by subsection (c) of this section \[amending this section\] shalltake effect on the date of enactment of this Act \[Oct. 12, 1984\].”
 
 #### Effective Date of 1979 Amendment
 
@@ -133,10 +135,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Delegation of Functions; Allocation of Funds
-
-Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ To be eligible for insurance under this section a mortgage shall—
 
 &emsp;(5) bear interest (exclusive of premium charges for insurance) at not to exceed 41/2 per centum per annum on the amount of the principal obligation outstanding at any time;
 
-&emsp;(6) provide, in a manner satisfactory to the Secretary, for the application of the mortgagor's periodic payments (exclusive of the amount allocated to interest and to the premium charge which is required for mortgage insurance as herein provided) to amortization of the principal of the mortgage; and
+&emsp;(6) provide, in a manner satisfactory to the Secretary, for the application of the mortgagor's periodic payments (exclusive of the amount allocated to interest and to the premium charge which is required for mortgageinsurance as herein provided) to amortization of the principal of the mortgage; and
 
 &emsp;(7) contain such terms and provisions with respect to insurance, repairs, alterations, payment of taxes, default reserves, delinquency charges, foreclosure proceedings, anticipation of maturity, additional and secondary liens, and other matters as the Secretary may in his discretion prescribe.
 
@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 90–19, §1(t), struck out “, with the approval of the 
 
 1965—Subsec. (a). Pub. L. 89–117 substituted “General Insurance Fund” for “National Defense Housing Insurance Fund”.
 
-1954—Subsec. (a). Act Aug. 2, 1954, inserted proviso relating to requirement for rental for a period of not less than three years after dwelling is made available for initial occupancy.
+1954—Subsec. (a). Act Aug. 2, 1954, inserted proviso relating to requirement for rental for a period of not lessthan three years after dwelling is made available for initial occupancy.
 
 1953—Subsec. (a). Act June 30, 1953, inserted proviso commencing <i>“Provided further</i>, That in the event”.
 

@@ -60,13 +60,13 @@ Notwithstanding any other provision of this subchapter, medical assistance for i
 
 > shall be treated as medical assistance provided by such plan for purposes of section 1396b of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1920A, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4912(a), 111 Stat. 571.)
+(Aug. 14, 1935, ch. 531, title XIX, §1920A, as added Pub. L. 105–33, title IV, §4912(a), Aug. 5, 1997, 111 Stat. 571.)
 
 #### References in Text
 
 The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (b)(3)(A)(i)(II), is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (b)(3)(A)(i)(II), is subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V,§5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

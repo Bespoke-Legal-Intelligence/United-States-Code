@@ -1,0 +1,22 @@
+### §20109. Service of process
+
+The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent is notice to or service on the corporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1286.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+20109
+
+36:975(b).
+
+Aug. 31, 1960, Pub. L. 86–680, §5(b), 74 Stat. 575.
+

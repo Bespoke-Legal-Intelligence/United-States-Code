@@ -10,7 +10,7 @@
 
 (b) Any person other than an officer or employee of the United States who renders assistance in good faith upon the request of a customs officer shall not be held liable for any civil damages as a result of the rendering of such assistance if the assisting person acts as an ordinary, reasonably prudent person would have acted under the same or similar circumstances.
 
-(R.S. §3071; Oct. 27, 1986, Pub. L. 99–570, title III, §3152, 100 Stat. 3207–94.)
+(R.S. §3071; Pub. L. 99–570, title III, §3152, Oct. 27, 1986, 100 Stat. 3207–94.)
 
 #### Codification
 

@@ -74,13 +74,13 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 (B) The number computed under this paragraph for fiscal year 1993 is the difference (if any) between the worldwide level established under paragraph (1) for the previous fiscal year and the number of visas issued under section 1153(b) of this title during that fiscal year.
 
-(C) The number computed under this paragraph for a subsequent fiscal year is the difference (if any) between the maximum number of visas which may be issued under section 1153(a) of this title (relating to family-sponsored immigrants) during the previous fiscal year and the number of visas issued under that section during that year.
+(C) The number computed under this paragraph for a subsequent fiscal year is the difference (if any) between the maximum number of visas which may be issued under section1153(a) of this title (relating to family-sponsored immigrants) during the previous fiscal year and the number of visas issued under that section during that year.
 
 #### (e) Worldwide level of diversity immigrants
 
 The worldwide level of diversity immigrants is equal to 55,000 for each fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Oct. 3, 1965, Pub. L. 89–236, §1, 79 Stat. 911; Oct. 20, 1976, Pub. L. 94–571, §2, 90 Stat. 2703; Oct. 5, 1978, Pub. L. 95–412, §1, 92 Stat. 907; Mar. 17, 1980, Pub. L. 96–212, title II, §203(a), 94 Stat. 106; Dec. 29, 1981, Pub. L. 97–116, §20\[(a)\], 95 Stat. 1621; Nov. 29, 1990, Pub. L. 101–649, title I, §101(a), 104 Stat. 4980; Dec. 12, 1991, Pub. L. 102–232, title III, §302(a)(1), 105 Stat. 1742; Sept. 13, 1994, Pub. L. 103–322, title IV, §40701(b)(2), 108 Stat. 1954; Oct. 25, 1994, Pub. L. 103–416, title II, §219(b)(1), 108 Stat. 4316; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723.)
 
 #### Amendments
 

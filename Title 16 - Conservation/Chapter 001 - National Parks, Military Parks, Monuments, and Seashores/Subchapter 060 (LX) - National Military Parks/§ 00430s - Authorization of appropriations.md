@@ -10,7 +10,7 @@ There are hereby authorized to be appropriated such sums as may be necessary, bu
 
 > No funds authorized to be appropriated pursuant to this section shall be available prior to October 1, 1977.
 
-(June 21, 1934, ch. 694, §10, 48 Stat. 1200; Oct. 21, 1976, Pub. L. 94–578, title III, §319(9), 90 Stat. 2739.)
+(June 21, 1934, ch. 694, §10, 48 Stat. 1200; Pub. L. 94–578, title III, §319(9), Oct. 21, 1976, 90 Stat. 2739.)
 
 #### Amendments
 

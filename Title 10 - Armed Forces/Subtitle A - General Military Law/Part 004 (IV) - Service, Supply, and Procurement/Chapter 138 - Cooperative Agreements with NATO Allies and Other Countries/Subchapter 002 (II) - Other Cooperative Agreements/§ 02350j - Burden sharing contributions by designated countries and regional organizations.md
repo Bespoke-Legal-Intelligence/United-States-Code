@@ -80,3 +80,7 @@ Subsec. (g). Pub. L. 104–106, §1331(c)(2), added subsec. (g).
 
 Subsec. (f). Pub. L. 103–337, §1070(a)(10)(B), struck out “the” before “Congress” in introductory provisions.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

@@ -2,7 +2,7 @@
 
 For the purpose of this chapter the act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust within the scope of his employment or office shall be deemed the act, omission, or failure of such individual, association, partnership, corporation, or trust, as well as of such official, agent, or other person.
 
-(Sept. 21, 1922, ch. 369, §2(a)(1)(A)(iii), formerly §2(a), 42 Stat. 998; renumbered §2(a)(1), Oct. 23, 1974, Pub. L. 93–463, title I, §101(a)(1), 88 Stat. 1389; renumbered §2(a)(1)(A), Jan. 11, 1983, Pub. L. 97–444, title I, §101(a)(1), 96 Stat. 2294; renumbered §2(a)(1)(A)(iii), Oct. 28, 1992, Pub. L. 102–546, title IV, §404(b)(6), 106 Stat. 3628.)
+(Sept. 21, 1922, ch. 369, §2(a)(1)(A)(iii), formerly §2(a), 42 Stat. 998; renumbered §2(a)(1), Pub. L. 93–463, title I, §101(a)(1), Oct. 23, 1974, 88 Stat. 1389; renumbered §2(a)(1)(A), Pub. L. 97–444, title I, §101(a)(1), Jan. 11, 1983, 96 Stat. 2294; renumbered §2(a)(1)(A)(iii), Pub. L. 102–546, title IV, §404(b)(6), Oct. 28, 1992, 106 Stat. 3628.)
 
 #### Codification
 

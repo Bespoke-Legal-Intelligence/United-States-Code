@@ -1,8 +1,8 @@
 ### §1383e. Treatment referrals for individuals with alcoholism or drug addiction condition
 
-In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to section 1383(a)(2)(A)(ii)(II) of this title, the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.).
+In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to section1383(a)(2)(A)(ii)(II) of this title, the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.).
 
-(Aug. 14, 1935, ch. 531, title XVI, §1636, as added Mar. 29, 1996, Pub. L. 104–121, title I, §105(b)(3), 110 Stat. 854.)
+(Aug. 14, 1935, ch. 531, title XVI, §1636, as added Pub. L. 104–121, title I, §105(b)(3), Mar. 29, 1996, 110 Stat. 854.)
 
 #### References in Text
 

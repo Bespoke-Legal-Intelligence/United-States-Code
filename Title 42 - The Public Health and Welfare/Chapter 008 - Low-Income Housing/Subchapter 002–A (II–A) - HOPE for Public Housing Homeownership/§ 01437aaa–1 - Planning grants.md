@@ -6,7 +6,7 @@ The Secretary is authorized to make planning grants to applicants for the purpos
 
 #### (b) Eligible activities
 
-Planning grants may be used for activities to develop homeownership programs (which may include programs for cooperative ownership), including—
+Planning grants may be used for activities to develop homeownership programs (which mayinclude programs for cooperative ownership), including—
 
 &emsp;(1) development of resident management corporations and resident councils;
 
@@ -60,7 +60,7 @@ The Secretary shall, by regulation, establish selection criteria for a national 
 
 &emsp;(5) such other factors that the Secretary shall require that (in the determination of the Secretary) are appropriate for purposes of carrying out the program established by this subchapter in an effective and efficient manner.
 
-(Sept. 1, 1937, ch. 896, title III, §302, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4149; amended Oct. 28, 1992, Pub. L. 102–550, title X, §1012(h)(1), 106 Stat. 3906.)
+(Sept. 1, 1937, ch. 896, title III, §302, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4149; amended Pub. L. 102–550, title X, §1012(h)(1), Oct. 28, 1992, 106 Stat. 3906.)
 
 #### References in Text
 

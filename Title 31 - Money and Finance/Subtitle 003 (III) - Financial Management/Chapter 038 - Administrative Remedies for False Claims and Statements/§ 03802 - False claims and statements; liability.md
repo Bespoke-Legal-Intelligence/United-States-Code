@@ -42,7 +42,7 @@
 
 &emsp;(B) a determination under section 3803 of this title that a person is liable under subsection (a) of this section,
 
-> may provide the authority with grounds for commencing any administrative or contractual action against such person which is authorized by law and which is in addition to any action against such person under this chapter.
+> may provide the authority with grounds for commencing any administrative or contractualaction against such person which is authorized by law and which is in addition to any action against such person under this chapter.
 
 (2) A determination referred to in paragraph (1) of this subsection may be used by the authority, but shall not require such authority, to commence any administrative or contractual action which is authorized by law.
 

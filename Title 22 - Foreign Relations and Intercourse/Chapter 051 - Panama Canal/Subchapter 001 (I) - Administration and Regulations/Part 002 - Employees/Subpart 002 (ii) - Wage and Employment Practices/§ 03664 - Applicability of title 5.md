@@ -22,7 +22,7 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 &emsp;(10) Chapter 59 (relating to allowances).
 
-&emsp;(11) Chapter 63 (relating to leave for CONUS employees).
+&emsp;(11) Repealed. Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.
 
 &emsp;(12) Section 6323 (relating to military leave; Reserves and National Guardsmen).
 
@@ -40,9 +40,11 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 &emsp;(19) Chapter 89 (relating to health insurance).
 
-(Pub. L. 96–70, title I, §1224, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, §3536, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3524(a)(2), Nov. 18, 1997, 111 Stat. 2065.)
+(Pub. L. 96–70, title I, §1224, Sept. 27, 1979, 93 Stat. 467; Pub. L. 104–201, div. C, title XXXV, §3536, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3524(a)(2), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 
 #### Amendments
+
+1998—Par. (11). Pub. L. 105–261 struck out par. (11) which read as follows: “Chapter 63 (relating to leave for CONUS employees).”
 
 1997—Pars. (10) to (20). Pub. L. 105–85 redesignated pars. (11) to (20) as (10) to (19), respectively, and struck out former par. (10) which read as follows: “Chapter 57 (relating to travel, transportation, and subsistence).”
 
@@ -53,6 +55,10 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 &emsp;“(2) the provisions of title 5 which relate to removal or suspension from the competitive service; and
 
 &emsp;“(3) the provisions of section 5544(a) of title 5 which relate to wage-board overtime and Sunday rates, with respect to classes of employees who were covered by those provisions on September 27, 1979.”
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out par. (11) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, par. (11) of this section is terminated.
 
 #### Effective Date of 1997 Amendment
 

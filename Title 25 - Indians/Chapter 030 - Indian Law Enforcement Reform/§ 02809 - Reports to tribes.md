@@ -2,11 +2,11 @@
 
 #### (a) Reports by law enforcement officials of Bureau or Federal Bureau of Investigation
 
-In any case in which law enforcement officials of the Bureau or the Federal Bureau of Investigation decline to initiate an investigation of a reported violation of Federal law in Indian country, or terminate such an investigation without referral for prosecution, such officials are authorized to submit a report to the appropriate governmental and law enforcement officials ofthe Indian tribe involved that states, with particularity, the reason or reasons why the investigation was declined or terminated.
+In any case in which law enforcement officials of the Bureau or the Federal Bureau of Investigation decline to initiate an investigation of a reported violation of Federal law in Indian country, or terminate such an investigation without referral for prosecution, such officials are authorized to submit a report to the appropriate governmental and law enforcement officials of the Indian tribe involved that states, with particularity, the reason or reasons why the investigation was declined or terminated.
 
 #### (b) Reports by United States attorney
 
-In any case in which a United States attorney declines to prosecute an alleged violation of Federal criminal law in Indian country referred for prosecution by the Federal Bureau of Investigation or the Bureau, or moves to terminate a prosecution of such an alleged violation, the United States attorney is authorized to submit a report to the appropriate governmental and law enforcement officials of the Indian tribe involved that states, with particularity, the reason or reasons why the prosecution was declined or terminated.
+In any case in which a United States attorney declines to prosecute an alleged violation of Federal criminal law in Indian country referred for prosecution by the Federal Bureau of Investigation or the Bureau, or moves to terminate a prosecution of such an alleged violation, the United States attorney is authorized to submit a report to the appropriate governmental andlaw enforcement officials of the Indian tribe involved that states, with particularity, the reason or reasons why the prosecution was declined or terminated.
 
 #### (c) Case file included within reports
 

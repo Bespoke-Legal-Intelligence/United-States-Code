@@ -2,7 +2,7 @@
 
 Each county committee may, in accordance with regulations prescribed by the Secretary, provide for the establishment of a crop acreage base, and farm program payment yield with respect to any farm administratively located within the county if the crop acreage base or farm program payment yield cannot otherwise be established under this subchapter. The crop acreage bases and farm program payment yields shall be established in a fair and equitable manner, but no such bases or farm program payment yields shall be established for a farm if the producer on the farm is subject to sanctions under any provision of Federal law for cultivating highly erodible land or converted wetland.
 
-(Oct. 31, 1949, ch. 792, title V, §507, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1463; amended Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3497.)
+(Oct. 31, 1949, ch. 792, title V, §507, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1463; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3497.)
 
 #### Prior Provisions
 

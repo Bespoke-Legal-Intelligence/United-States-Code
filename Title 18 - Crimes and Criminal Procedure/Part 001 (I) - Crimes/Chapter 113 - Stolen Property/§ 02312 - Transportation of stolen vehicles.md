@@ -2,7 +2,7 @@
 
 Whoever transports in interstate or foreign commerce a motor vehicle or aircraft, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Oct. 25, 1992, Pub. L. 102–519, title I, §103, 106 Stat. 3385.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 102–519, title I, §103, Oct. 25, 1992, 106 Stat. 3385.)
 
 #### Historical and Revision Notes
 

@@ -88,7 +88,7 @@
 
 &emsp;(B) The term “radiation-risk activity” means any of the following:
 
-&emsp;&emsp;(i) Onsite participation in a test involving the atmospheric detonation of a nuclear device (without regard to whether the nation conducting the test was the United States or another nation).
+&emsp;&emsp;(i) Onsite participation in a test involving the atmospheric detonation of a nuclear device (without regard to whether the nationconducting the test was the United States or another nation).
 
 &emsp;&emsp;(ii) The occupation of Hiroshima or Nagasaki, Japan, by United States forces during the period beginning on August 6, 1945, and ending on July 1, 1946.
 
@@ -174,9 +174,9 @@ Section 4(b) of Pub. L. 97–37 provided that: “The amendments made by subsect
 
 #### Effective Date of 1962 Amendment
 
-Section 4 of Pub. L. 87–645 provided that: “This Act \[amending this section and sections 314 and 3203 \[now 1114 and 5503\] of this title and enacting provisions set out as a note under section 1114 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[Sept. 7, 1962\] but no payments shall be made by reason of this Act for any period before such effective date. The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
+Section 4 of Pub. L. 87–645 provided that: “This Act \[amending this section and sections 314 and 3203 \[now 1114 and 5503\] of this title and enacting provisions set out as a note under section 1114 of this title\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[Sept. 7, 1962\] but no payments shall be made by reason of this Act for any period before such effective date.The increased rate of compensation payable to any veteran entitled thereto on such first day shall be further increased, for such month only, in an amount equal to three times the monthly increase provided for such veteran by the amendments made by this Act.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1113, 1137, 1710 of this title.
+This section is referred to in sections 1103, 1113, 1137, 1710 of this title.
 

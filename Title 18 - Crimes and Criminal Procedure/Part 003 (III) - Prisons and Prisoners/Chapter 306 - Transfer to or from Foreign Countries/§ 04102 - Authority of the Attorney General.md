@@ -4,7 +4,7 @@ The Attorney General is authorized—
 
 &emsp;(1) to act on behalf of the United States as the authority referred to in a treaty;
 
-&emsp;(2) to receive custody of offenders under a sentence of imprisonment, on parole, or on probation who are citizens or nationals of the United States transferred from foreign countries and as appropriate confine them in penal or correctional institutions, or assign them to the parole or probation authorities for supervision;
+&emsp;(2) to receive custody of offenders under a sentence of imprisonment, on parole, or onprobation who are citizens or nationals of the United States transferred from foreign countries and as appropriate confine them in penal or correctional institutions, or assign them to the parole or probation authorities for supervision;
 
 &emsp;(3) to transfer offenders under a sentence of imprisonment, on parole, or on probation to the foreign countries of which they are citizens or nationals;
 
@@ -20,7 +20,7 @@ The Attorney General is authorized—
 
 &emsp;(9) in concert with the Secretary of Health, Education, and Welfare, to make arrangements with the appropriate authorities of a foreign country and to issue regulations for the transfer and treatment of individuals who are accused of an offense but who have been determined to be mentally ill; the expenses of which shall be paid by the country of which such person is a citizen or national;
 
-&emsp;(10) to designate agents to receive, on behalf of the United States, the delivery by a foreign government of any citizen or national of the United States being transferred to the United States for the purpose of serving a sentence imposed by the courts of the foreign country, and to convey him to the place designated by the Attorney General. Such agent shall have all the powers of a marshal of the United States in the several districts through which it may be necessary for him to pass with the offender, so far as such power is requisite forthe offender's transfer and safekeeping; within the territory of a foreign country such agent shall have such powers as the authorities of the foreign country may accord him;
+&emsp;(10) to designate agents to receive, on behalf of the United States, the delivery by a foreign government of any citizen or national of the United States being transferred to the United States for the purpose of serving a sentence imposed by the courts of the foreign country, and to convey him to the place designated by the Attorney General. Such agent shall have all the powers of a marshal of the United States in the several districts through which it may be necessary for him to pass with the offender, so far as such power is requisite for the offender's transfer and safekeeping; within the territory of a foreign country such agent shall have such powers as the authorities of the foreign country may accord him;
 
 &emsp;(11) to delegate the authority conferred by this chapter to officers of the Department of Justice.
 

@@ -2,7 +2,7 @@
 
 This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or to midshipmen of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Sept. 2, 1958, Pub. L. 85–861, §33(a)(7), 72 Stat. 1564.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 100; Pub. L. 85–861, §33(a)(7), Sept. 2, 1958, 72 Stat. 1564.)
 
 Historical and Revision Notes<br>1956
 

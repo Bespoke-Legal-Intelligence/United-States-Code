@@ -12,7 +12,7 @@
 
 &emsp;(A) the amount of traffic which is transported at revenues which do not contribute to going concern value and the efforts made to minimize such traffic;
 
-&emsp;(B) the amount of traffic which contributes only marginally to fixed costs and the extentto which, if any, rates on such traffic can be changed to maximize the revenues from such traffic; and
+&emsp;(B) the amount of traffic which contributes only marginally to fixed costs and the extent to which, if any, rates on such traffic can be changed to maximize the revenues from such traffic; and
 
 &emsp;(C) the carrier's mix of rail traffic to determine whether one commodity is paying an unreasonable share of the carrier's overall revenues,
 

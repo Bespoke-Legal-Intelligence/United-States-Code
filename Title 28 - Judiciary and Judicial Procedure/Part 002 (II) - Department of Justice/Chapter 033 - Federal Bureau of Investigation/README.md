@@ -18,22 +18,25 @@
 | [539\.](%C2%A7%2000539%20-%20Counterintelligence%20official%20reception%20and%20representation%20expenses.md) | Counterintelligence official reception and representation expenses. |
 | [540\.](%C2%A7%2000540%20-%20Investigation%20of%20felonious%20killings%20of%20State%20or%20local%20law%20enforcement%20officers.md) | Investigation of felonious killings of State or local law enforcement officers. |
 | [540A.](%C2%A7%2000540A%20-%20Investigation%20of%20violent%20crimes%20against%20travelers.md) | Investigation of violent crimes against travelers. |
+| [540B.](%C2%A7%2000540B%20-%20Investigation%20of%20serial%20killings.md) | Investigation of serial killings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, title XXXII, §320916(b), Sept. 13, 1994, 108 Stat. 2129, added item 540A.
+1998—Pub. L. 105–314, title VII, §701(b), Oct. 30, 1998, 112 Stat. 2987, added item 540B.
+
+1994—Pub. L. 103–322, title XXXII, §320916(b), Sept. 13, 1994, 108 Stat. 2129, added item 540A.
 
 Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 
-<b>1988</b>—Pub. L. 100–690, title VII, §7331(b), Nov. 18, 1988, 102 Stat. 4468, added item 540.
+1988—Pub. L. 100–690, title VII, §7331(b), Nov. 18, 1988, 102 Stat. 4468, added item 540.
 
-<b>1986</b>—Pub. L. 99–569, title IV, §401(b), Oct. 27, 1986, 100 Stat. 3195, added item 539.
+1986—Pub. L. 99–569, title IV, §401(b), Oct. 27, 1986, 100 Stat. 3195, added item 539.
 
-<b>1982</b>—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted “and information” after “identification records” in item 534.
+1982—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted “and information” after “identification records” in item 534.
 
-<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
+1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
 
 #### Cross References
 
@@ -57,3 +60,4 @@ Powers of Federal Bureau of Investigation, see section 3052 of Title 18, Crimes 
 - [&sect; 00539 - Counterintelligence official reception and representation expenses](%C2%A7%2000539%20-%20Counterintelligence%20official%20reception%20and%20representation%20expenses.md)
 - [&sect; 00540 - Investigation of felonious killings of State or local law enforcement officers](%C2%A7%2000540%20-%20Investigation%20of%20felonious%20killings%20of%20State%20or%20local%20law%20enforcement%20officers.md)
 - [&sect; 00540A - Investigation of violent crimes against travelers](%C2%A7%2000540A%20-%20Investigation%20of%20violent%20crimes%20against%20travelers.md)
+- [&sect; 00540B - Investigation of serial killings](%C2%A7%2000540B%20-%20Investigation%20of%20serial%20killings.md)

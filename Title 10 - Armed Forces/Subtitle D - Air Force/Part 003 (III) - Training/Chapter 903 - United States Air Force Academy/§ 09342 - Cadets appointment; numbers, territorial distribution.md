@@ -2,7 +2,7 @@
 
 (a) The authorized strength of Air Force Cadets of the Academy is as follows:
 
-&emsp;(1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
+&emsp;(1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds or injuries received or diseases contracted in, orpreexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
 
 &emsp;(2) Five cadets nominated at large by the Vice President or, if there is no Vice President, by the President pro tempore of the Senate.
 
@@ -42,7 +42,7 @@
 
 &emsp;(5) 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9343 of this title) from qualified alternates nominated by persons named in clauses (3) and (4) of subsection (a).
 
-(c) The President may also appoint as cadets at the Academy children of persons who havebeen awarded the Medal of Honor for acts performed while in the armed forces.
+(c) The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 
 (d) The Superintendent may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under clauses (2) through (9) of subsection (a) and may not cause the total strength of Air Force Cadets to exceed the authorized number.
 
@@ -76,7 +76,7 @@
 
 (h) The Secretary of the Air Force shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Sept. 14, 1962, Pub. L. 87–663, §1(5), (6), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §4(1), 78 Stat. 151; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(3), (5), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(3), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §3(1)–(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 12, 1980, Pub. L. 96–513, title V, §514(11), 94 Stat. 2935; Dec. 24, 1980, Pub. L. 96–600, §2(c), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(c)(1), 95 Stat. 1006; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(3), (b)(3), 97 Stat. 660, 661; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(c)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1674(c)(3), 108 Stat. 3017; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), 110 Stat. 315, 502; Nov. 18, 1997, Pub. L. 105–85, div. A, title X, §1073(a)(62), 111 Stat. 1903.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Pub. L. 87–663, §1(5), (6), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §4(1), Mar. 3, 1964, 78 Stat. 151; Pub. L. 89–650, §1(1)–(3), (5), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(3), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §3(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §514(11), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 96–600, §2(c), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(c)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(3), (b)(3), Sept. 24, 1983, 97 Stat. 660, 661; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(c)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1674(c)(3), Oct. 5, 1994, 108 Stat. 3017; Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 315, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903.)
 
 Historical and Revision Notes
 
@@ -154,7 +154,7 @@ In subsection (b), the words “from whatever source of admission”, in 10:1092
 
 In subsection (c), the first 15 words are substituted for the words “all of which cadets shall be”. The words “domiciled in” are substituted for the words “actual residents of” to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925).
 
-In subsection (e)(4), the words “armed forces” are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”. The words“including male and female members of \* \* \* and all components thereof” are omitted as surplusage.
+In subsection (e)(4), the words “armed forces” are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”. The words “including male and female members of \* \* \* and all components thereof” are omitted as surplusage.
 
 In subsection (f), the words “whether a death is service-connected” are substituted for the words “as to the service connection of the cause of death”.
 
@@ -228,6 +228,10 @@ Subsec. (b)(3). Pub. L. 89–650, §1(5), substituted “reserve components of t
 
 Subsec. (c). Pub. L. 87–663, §1(6), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “Clauses (1)–(5) and (10)” for “clauses (1)–(5)”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -244,7 +248,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the service academies in the calendar year 1974, see section 4 of Pub. L. 93–171, set out as a note under section 4342 of this title.
+Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the serviceacademies in the calendar year 1974, see section 4 of Pub. L. 93–171, set out as a note under section 4342 of this title.
 
 #### Effective Date of 1970 Amendment
 

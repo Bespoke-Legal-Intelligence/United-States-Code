@@ -69,6 +69,7 @@
 | (c) | Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child. |
 | (d) | Oversight reporting and consultation requirements. |
 | (e) | “Appropriate consultation” defined. |
+| (f) | Training. |
 | [1158\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001158%20-%20Asylum.md) | Asylum. |
 | (a) | Authority to apply for asylum. |
 | (b) | Conditions for granting asylum. |
@@ -114,7 +115,14 @@
 | (<i>l</i>) | Guam; waiver of requirements for nonimmigrant visitors; conditions of waiver; acceptance of funds from Guam. |
 | (m) | Requirements for admission of nonimmigrant nurses during five-year period. |
 | (n) | Labor condition application. |
+| (<i>o</i>) | Omitted. |
+| (p) | Computation of prevailing wage level. |
+| (q) | Academic honoraria. |
 | 1182a to 1182c. Repealed. |  |
+| [1182d.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182d%20-%20Denial%20of%20visas%20to%20confiscators%20of%20American%20property.md) | Denial of visas to confiscators of American property. |
+| (a) | Denial of visas. |
+| (b) | Exceptions. |
+| (c) | Reporting requirement. |
 | [1183\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183%20-%20Admission%20of%20aliens%20on%20giving%20bond%20or%20undertaking%3B%20return%20upon%20permanent%20departure.md) | Admission of aliens on giving bond or undertaking; return upon permanent departure. |
 | [1183a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183a%20-%20Requirements%20for%20sponsor%27s%20affidavit%20of%20support.md) | Requirements for sponsor's affidavit of support. |
 | (a) | Enforceability. |
@@ -530,6 +538,7 @@
 | (p) | Additional effective dates. |
 | (q) | Land Border Inspection Fee Account. |
 | (r) | Breached Bond/Detention Fund. |
+| (s) | H–1B Nonimmigrant Petitioner Account. |
 | [1357\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001357%20-%20Powers%20of%20immigration%20officers%20and%20employees.md) | Powers of immigration officers and employees. |
 | (a) | Powers without warrant. |
 | (b) | Administration of oath; taking of evidence. |
@@ -553,9 +562,7 @@
 | (b) | Disposition of proceeds no longer required. |
 | (c) | Disposition of certain corporations and business entities. |
 | (d) | Financial audits. |
-| [1363b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001363b%20-%20Transportation%20of%20remains%20of%20immigration%20officers%20and%20border%20patrol%20agents%20killed%20in%20the%20line%20of%20duty.md) | Transportation of remains of immigration officers and border patrol agents killed in the line of duty. |
-| (a) | In general. |
-| (b) | Prepayment. |
+| [1363b.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001363b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28b%29%20%5Btitle%20I%2C%20%C2%A7109%28b%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%9350%2C%202681%E2%80%9367.md) | Repealed |
 | [1364\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001364%20-%20Triennial%20comprehensive%20report%20on%20immigration.md) | Triennial comprehensive report on immigration. |
 | (a) | Triennial report. |
 | (b) | Details in each report. |
@@ -606,6 +613,19 @@
 | (c) | Study. |
 | (d) | Report. |
 | (e) | Definitions. |
+| [1376\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001376%20-%20Data%20on%20nonimmigrant%20overstay%20rates.md) | Data on nonimmigrant overstay rates. |
+| (a) | Collection of data. |
+| (b) | Annual report. |
+| [1377\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001377%20-%20Collection%20of%20data%20on%20detained%20asylum%20seekers.md) | Collection of data on detained asylum seekers. |
+| (a) | In general. |
+| (b) | Annual reports. |
+| (c) | Availability to public. |
+| [1378\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001378%20-%20Collection%20of%20data%20on%20other%20detained%20aliens.md) | Collection of data on other detained aliens. |
+| (a) | In general. |
+| (b) | Length of detention, transfers, and dispositions. |
+| (c) | Criminal aliens. |
+| (d) | Annual reports. |
+| (e) | Availability to public. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -736,6 +756,7 @@
 | (b) | Hereditary titles or orders of nobility. |
 | (c) | Expedited judicial oath administration ceremony. |
 | (d) | Rules and regulations. |
+| [1448a.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001448a%20-%20Address%20to%20newly%20naturalized%20citizens.md) | Address to newly naturalized citizens. |
 | [1449\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001449%20-%20Certificate%20of%20naturalization%3B%20contents.md) | Certificate of naturalization; contents. |
 | [1450\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001450%20-%20Functions%20and%20duties%20of%20clerks%20and%20records%20of%20declarations%20of%20intention%20and%20applications%20for%20naturalization.md) | Functions and duties of clerks and records of declarations of intention and applications for naturalization. |
 | [1451\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001451%20-%20Revocation%20of%20naturalization.md) | Revocation of naturalization. |

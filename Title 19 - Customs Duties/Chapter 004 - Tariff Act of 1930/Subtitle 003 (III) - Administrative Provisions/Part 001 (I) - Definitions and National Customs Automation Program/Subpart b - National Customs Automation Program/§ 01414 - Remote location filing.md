@@ -50,7 +50,7 @@
 
 #### (2) Requirements
 
-&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within the existing and planned components of the Program that a Program participant must have for purposes of this subsection.
+&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within theexisting and planned components of the Program that a Program participant must have for purposes of this subsection.
 
 #### (3) Filing of additional information
 
@@ -90,7 +90,7 @@ As used in this section:
 
 &emsp;(2) The term “Program participant” means, with respect to an entry of merchandise, any party entitled to make the entry under section 1484(a)(2)(B) of this title.
 
-(June 17, 1930, ch. 497, title IV, §414, as added Dec. 8, 1993, Pub. L. 103–182, title VI, §631(2), 107 Stat. 2191.)
+(June 17, 1930, ch. 497, title IV, §414, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2191.)
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Notice of Elections.—Regulations prescribed under this section shall provide t
 
 &emsp;(1) if the member is married, the member and the member's spouse shall be informed of the elections available under section 1448(a) of this title and the effects of such elections; and
 
-&emsp;(2) if the notification referred to in section 1448(a)(3)(E) of this title is required, anyformer spouse of the member shall be informed of the elections available and the effects of such elections.
+&emsp;(2) if the notification referred to in section 1448(a)(3)(E) of this title is required, any former spouse of the member shall be informed of the elections available and the effects of such elections.
 
 (c)
 

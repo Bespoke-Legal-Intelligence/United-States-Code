@@ -15,10 +15,13 @@
 | [4011\.](%C2%A7%2004011%20-%20Disposition%20of%20cash%20collections%20for%20meals%2C%20laundry%2C%20etc.md) | Disposition of cash collections for meals, laundry, etc. |
 | [4012\.](%C2%A7%2004012%20-%20Summary%20seizure%20and%20forfeiture%20of%20prison%20contraband.md) | Summary seizure and forfeiture of prison contraband. |
 | [4013\.](%C2%A7%2004013%20-%20Support%20of%20United%20States%20prisoners%20in%20non-Federal%20institutions.md) | Support of United States prisoners in non-Federal institutions. |
+| [4014\.](%C2%A7%2004014%20-%20Testing%20for%20human%20immunodeficiency%20virus.md) | Testing for human immunodeficiency virus. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–370, §2(b), Nov. 12, 1998, 112 Stat. 3375, added item 4014.
 
 1988—Pub. L. 100–690, title VII, §7608(d)(2), Nov. 18, 1988, 102 Stat. 4517, added item 4013.
 
@@ -46,3 +49,4 @@
 - [&sect; 04011 - Disposition of cash collections for meals, laundry, etc](%C2%A7%2004011%20-%20Disposition%20of%20cash%20collections%20for%20meals%2C%20laundry%2C%20etc.md)
 - [&sect; 04012 - Summary seizure and forfeiture of prison contraband](%C2%A7%2004012%20-%20Summary%20seizure%20and%20forfeiture%20of%20prison%20contraband.md)
 - [&sect; 04013 - Support of United States prisoners in non-Federal institutions](%C2%A7%2004013%20-%20Support%20of%20United%20States%20prisoners%20in%20non-Federal%20institutions.md)
+- [&sect; 04014 - Testing for human immunodeficiency virus](%C2%A7%2004014%20-%20Testing%20for%20human%20immunodeficiency%20virus.md)

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each department, agency, and instrumentality of the United States (including the executive, legislative, and judicial branches of government) shall be subject to, and comply with,this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under section 9607 of this title. Nothing in this section shall be construed to affect the liability of any person or entity under sections 9606 and 9607 of this title.
+&emsp;Each department, agency, and instrumentality of the United States (including the executive, legislative, and judicial branches of government) shall be subject to, and comply with, this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under section 9607 of this title. Nothing in this section shall be construed to affect the liability of any person or entity under sections 9606 and 9607 of this title.
 
 #### (2) Application of requirements to Federal facilities
 
@@ -20,7 +20,7 @@
 
 #### (b) Notice
 
-Each department, agency, and instrumentality of the United States shall add to the inventory of Federal agency hazardous waste facilities required to be submitted under section 3016 of the Solid Waste Disposal Act \[42 U.S.C. 6937\] (in addition to the information required under section 3016(a)(3) of such Act \[42 U.S.C. 6937(a)(3)\]) information on contamination from each facility owned or operated by the department, agency, or instrumentality if such contamination affects contiguous or adjacent property owned by the department, agency, or instrumentality or by any other person, including a description of the monitoring data obtained.
+Each department, agency, and instrumentality of the United States shall add to the inventory of Federal agency hazardous waste facilities required to be submitted under section 3016 of the Solid Waste Disposal Act \[42 U.S.C. 6937\] (in addition to the information required undersection 3016(a)(3) of such Act \[42 U.S.C. 6937(a)(3)\]) information on contamination from each facility owned or operated by the department, agency, or instrumentality if such contamination affects contiguous or adjacent property owned by the department, agency, or instrumentality or by any other person, including a description of the monitoring data obtained.
 
 #### (c) Federal Agency Hazardous Waste Compliance Docket
 
@@ -52,7 +52,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (B) Response under other law
 
-&emsp;&emsp;It shall be an appropriate factor to be taken into consideration for the purposes of section 9605(a)(8)(A) of this title that thehead of the department, agency, or instrumentality that owns or operates a facility has arranged with the Administrator or appropriate State authorities to respond appropriately, under authority of a law other than this chapter, to a release or threatened release of a hazardous substance.
+&emsp;&emsp;It shall be an appropriate factor to be taken into consideration for the purposes of section 9605(a)(8)(A) of this title that the head of the department, agency, or instrumentality that owns or operates a facility has arranged with the Administrator or appropriate State authorities to respond appropriately, under authority of a law other than this chapter, to a release or threatened release of a hazardous substance.
 
 #### (3) Completion
 
@@ -104,7 +104,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (6) Settlements with other parties
 
-&emsp;If the Administrator, in consultation with the head of the relevant department, agency, or instrumentality of the United States, determines that remedial investigations and feasibility studies or remedial action will be done properly at the Federal facility by another potentially responsible party within the deadlines provided in paragraphs (1), (2), and (3) of this subsection, the Administrator may enter into an agreement with such party under section 9622 of this title (relating to settlements).Following approval by the Attorney General of any such agreement relating to a remedial action, the agreement shall be entered in the appropriate United States district court as a consent decree under section 9606 of this title.
+&emsp;If the Administrator, in consultation with the head of the relevant department, agency, or instrumentality of the United States, determines that remedial investigations and feasibility studies or remedial action will be done properly at the Federal facility by another potentially responsible party within the deadlines provided in paragraphs (1), (2), and (3) of this subsection, the Administrator may enter into an agreement with such party under section 9622 of this title (relating to settlements). Following approval by the Attorney General of any such agreement relating to a remedial action, the agreement shall be entered in the appropriate United States district court as a consent decree under section 9606 of this title.
 
 #### (f) State and local participation
 
@@ -154,7 +154,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator, with the concurrence of the Governor of the State in which thefacility is located (in the case of real property at a Federal facility that is listed on the National Priorities List), or the Governor of the State in which the facility is located (in the case of real property at a Federal facility not listed on the National Priorities List) may defer the requirement of subparagraph (A)(ii)(I) with respect to the property if the Administrator or the Governor, as the case may be, determines that the property is suitable for transfer, based on a finding that—
+&emsp;&emsp;&emsp;The Administrator, with the concurrence of the Governor of the State in which the facility is located (in the case of real property at a Federal facility that is listed on the National Priorities List), or the Governor of the State in which the facility is located (in the case of real property at a Federal facility not listed on the National Priorities List) may defer the requirement of subparagraph (A)(ii)(I) with respect to the property if the Administrator or the Governor, as the case may be, determines that the property is suitable for transfer, based on a finding that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the property is suitable for transfer for the use intended by the transferee, and the intended use is consistent with protection of human health and the environment;
 
@@ -262,11 +262,11 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
-The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Title III of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (j), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
-The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
@@ -316,7 +316,7 @@ Section 2 of Pub. L. 102–426 provided that: “The Congress finds the followin
 
 &emsp;“(4) Each department, agency, or instrumentality of the United States, in accordance with applicable law, should make available without delay such excess real property.
 
-&emsp;“(5) In the case of any real property owned by the United States and transferred to another person, the United States Government should remain responsible for conducting any remedial action or corrective action necessary to protect human health and the environment with respect to any hazardous substance or petroleum product or its derivatives, including aviation fuel and motor oil, that was present on such real property at the time of transfer.”
+&emsp;“(5) In the case of any real property owned by the United States and transferred to another person, the United States Government should remain responsible for conducting any remedial action or corrective action necessary to protect human health and the environment with respect to any hazardous substance orpetroleum product or its derivatives, including aviation fuel and motor oil, that was present on such real property at the time of transfer.”
 
 #### Applicability
 

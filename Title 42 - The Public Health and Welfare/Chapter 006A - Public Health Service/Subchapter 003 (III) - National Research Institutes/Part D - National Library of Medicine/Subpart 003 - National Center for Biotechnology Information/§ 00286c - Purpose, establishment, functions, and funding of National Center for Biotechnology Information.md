@@ -16,7 +16,7 @@ The Secretary, through the Center and subject to section 286(d) of this title, s
 
 &emsp;(4) coordinate, as much as is practicable, efforts to gather biotechnology information on an international basis.
 
-(July 1, 1944, ch. 373, title IV, §478, as added Nov. 4, 1988, Pub. L. 100–607, title I, §105, 102 Stat. 3052; amended June 10, 1993, Pub. L. 103–43, title XIV, §1402(b), 107 Stat. 171.)
+(July 1, 1944, ch. 373, title IV, §478, as added Pub. L. 100–607, title I, §105, Nov. 4, 1988, 102 Stat. 3052; amended Pub. L. 103–43, title XIV, §1402(b), June 10, 1993, 107 Stat. 171.)
 
 #### Amendments
 

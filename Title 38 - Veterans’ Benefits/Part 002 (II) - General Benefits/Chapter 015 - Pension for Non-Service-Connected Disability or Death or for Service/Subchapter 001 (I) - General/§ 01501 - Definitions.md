@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 (4) The term “period of war” means the Mexican border period, World War I, World War II, the Korean conflict, the Vietnam era, the Persian Gulf War, and the period beginning on the date of any future declaration of war by the Congress and ending on the date prescribed by Presidential proclamation or concurrent resolution of the Congress.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §501; Pub. L. 94–169, title I, §106(1), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, §101, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 102–25, title III, §333(a), Apr. 6, 1991, 105 Stat. 88; renumbered §1501, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §501; Pub. L. 94–169, title I, §106(1), Dec. 23, 1975, 89Stat. 1017; Pub. L. 95–588, title I, §101, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 102–25, title III, §333(a), Apr. 6, 1991, 105 Stat. 88; renumbered §1501, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 
@@ -42,5 +42,5 @@ Pub. L. 94–432, title IV, §404, Sept. 30, 1976, 90 Stat. 1372, provided that,
 
 #### Study of Needs and Problems of Veterans and Their Widows Seventy-Two Years of Age or Older; Report by Administrator
 
-Pub. L. 93–527, §8, Dec. 21, 1974, 88 Stat. 1705, directed Administrator of Veterans’ Affairs to study needs andproblems of veterans and their widows seventy-two years of age or older and required him to report to Congress and President not later than one hundred and eighty days after convening of Ninety-fourth Congress results of study together with any recommendations for legislative or administrative action.
+Pub. L. 93–527, §8, Dec. 21, 1974, 88 Stat. 1705, directed Administrator of Veterans’ Affairs to study needs and problems of veterans and their widows seventy-two years of age or older and required him to report to Congress and President not later than one hundred and eighty days after convening of Ninety-fourth Congress results of study together with any recommendations for legislative or administrative action.
 

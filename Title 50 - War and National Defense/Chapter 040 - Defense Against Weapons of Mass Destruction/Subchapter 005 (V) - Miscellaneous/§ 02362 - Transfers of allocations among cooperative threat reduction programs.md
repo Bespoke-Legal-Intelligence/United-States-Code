@@ -10,7 +10,7 @@ Congress finds that—
 
 #### Specification of Cooperative Threat Reduction Programs
 
-Section 1501 of Pub. L. 104–201 provided that:
+Section 1501 of Pub. L. 104–201, as amended by Pub. L. 105–261, div. A, title XIII, §1301(a)(2), Oct. 17, 1998, 112 Stat. 2161, provided that:
 
 “(a)
 
@@ -24,7 +24,7 @@ Specified Programs.—The programs referred to in subsection (a) are the followi
 
 &emsp;“(2) Programs to facilitate the safe and secure storage of fissile materials derived from the elimination of nuclear weapons.
 
-&emsp;“(3) Programs to prevent the proliferation of weapons, weapons components, and weapons-related technology and expertise.
+&emsp;“(3) Programs to prevent the proliferation of weapons, weapons components, materials, and weapons-related technology and expertise.
 
 &emsp;“(4) Programs to expand military-to-military and defense contacts.”
 

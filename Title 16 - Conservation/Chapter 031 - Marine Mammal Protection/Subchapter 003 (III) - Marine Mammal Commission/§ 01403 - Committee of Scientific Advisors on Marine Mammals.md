@@ -6,7 +6,7 @@ The Commission shall establish, within ninety days after its establishment, a Co
 
 #### (b) Compensation; reimbursement for travel expenses
 
-Except for United States Government employees, members of the Committee shall each be compensated at a rate equal to the daily equivalent of the rate for GS–18 of the General Schedule under section 5332 of title 5, for each day such member is engaged in the actual performance of duties vested in the Committee. Each member shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
+Except for United States Government employees, members of the Committee shall each becompensated at a rate equal to the daily equivalent of the rate for GS–18 of the General Schedule under section 5332 of title 5, for each day such member is engaged in the actual performance of duties vested in the Committee. Each member shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 
 #### (c) Consultation with Commission on studies and recommendations; explanation for nonadoption
 
@@ -16,7 +16,7 @@ The Commission shall consult with the Committee on all studies and recommendatio
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

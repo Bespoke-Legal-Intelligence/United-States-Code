@@ -30,3 +30,7 @@ Sections 1 and 2 of House Resolution No. 1297 were redesignated subsecs. (a) and
 
 Subsec. (b)(1). Pub. L. 104–186, §203(21)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the term ‘Member’ means a Representative, a Resident Commissioner in the House, and a Delegate to the House; and”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

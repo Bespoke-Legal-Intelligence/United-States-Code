@@ -12,7 +12,7 @@
 
 &emsp;(D) in the case of a failure during the fourth year of service under the agreement, 25 percent of the amount received for that year.
 
-(2)(A) The Secretary may waive (in whole or in part) the requirement for a refund under paragraph (1) in any case if the Secretary determines (in accordance with regulations prescribed under section 7431(a) of this title) that the failure to complete such period of service is the result ofcircumstances beyond the control of the physician or dentist.
+(2)(A) The Secretary may waive (in whole or in part) the requirement for a refund under paragraph (1) in any case if the Secretary determines (in accordance with regulations prescribed under section 7431(a) of this title) that the failure to complete such period of service is the result of circumstances beyond the control of the physician or dentist.
 
 (B) The Secretary may suspend a special pay agreement entered into under this section in the case of a physician or dentist who, having entered into the special pay agreement, enters a residency training program. Any such suspension shall terminate when the physician or dentist completes, withdraws from, or is no longer a participant in the program. During the period of such a suspension, the physician or dentist is not subject to the provisions of paragraph (1).
 

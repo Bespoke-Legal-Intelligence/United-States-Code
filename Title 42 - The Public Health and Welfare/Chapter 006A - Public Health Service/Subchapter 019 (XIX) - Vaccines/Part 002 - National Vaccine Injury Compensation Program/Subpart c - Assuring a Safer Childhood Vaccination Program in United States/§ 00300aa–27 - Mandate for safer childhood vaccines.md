@@ -18,9 +18,9 @@ In the administration of this part and other pertinent laws under the jurisdicti
 
 #### (c) Report
 
-Within 2 years after December 22, 1987, and periodically thereafter, the Secretary shall prepare and transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the actions taken pursuant to subsection (a) of this section during the preceding 2-year period.
+Within 2 years after December 22, 1987, and periodically thereafter, the Secretary shall prepare and transmit to the Committee on Energyand Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report describing the actions taken pursuant to subsection (a) of this section during the preceding 2-year period.
 
-(July 1, 1944, ch. 373, title XXI, §2127, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3777; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4302(b)(1), 101 Stat. 1330–221; Dec. 19, 1989, Pub. L. 101–239, title VI, §6601(q), 103 Stat. 2292.)
+(July 1, 1944, ch. 373, title XXI, §2127, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3777; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(q), Dec. 19, 1989, 103 Stat. 2292.)
 
 #### Codification
 

@@ -74,7 +74,7 @@ Sec. 4. The science, engineering, and technology and related activities function
 
 Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. The head of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
 
-Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order arehereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
+Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
 
 Sec. 7. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
@@ -84,7 +84,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12700
 
-Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30, 1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493, set out below. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
+Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30,1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493, set out below. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
 
 #### Ex. Ord. No. 12881. Establishment of National Science and Technology Council
 
@@ -172,7 +172,7 @@ Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agenci
 
 (e) The Office of Science and Technology Policy shall provide such administrative services as may be required.
 
-Sec. 4. <i>General</i>. (a) I have determined that the Committee shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, which are applicable to PCAST shall be performed by the Office of Science and Technology Policy in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 4. <i>General</i>. (a) I have determined that the Committee shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the functions of the President under the Federal AdvisoryCommittee Act, as amended, except that of reporting to the Congress, which are applicable to PCAST shall be performed by the Office of Science and Technology Policy in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 (b) PCAST shall terminate 2 years from the date of this order unless extended prior to that date.
 
@@ -230,13 +230,13 @@ Sec. 5. <i>Priorities</i>. (a) As a first priority, NBAC shall direct its attent
 
 Sec. 6. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide NBAC with such information as it may require for purposes of carrying out its functions.
 
-(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistant to the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, andshall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
+(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistant to the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
 
 (c) NBAC is authorized to conduct analyses and develop reports or other materials. In order to augment the expertise present on NBAC, the Secretary of Health and Human Services may contract for the services of nongovernmental consultants who may conduct analyses, prepare reports and background papers, or prepare other materials for consideration by NBAC, as appropriate.
 
 (d) Members of NBAC shall be compensated in accordance with Federal law. Members of NBAC may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 
-(e) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide NBAC with such funds as may be necessary for the performance of its functions. The Secretary of Health and Human Services shall provide management and support services to NBAC.
+(e) To the extent permitted by law, and subject to the availability of appropriations, the Department ofHealth and Human Services shall provide NBAC with such funds as may be necessary for the performance of its functions. The Secretary of Health and Human Services shall provide management and support services to NBAC.
 
 Sec. 7. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to NBAC, except that of reporting annually to the Congress, shall be performed by the Secretary of Health and Human Services, in accordance with the guidelines and procedures established by the Administrator of General Services.
 

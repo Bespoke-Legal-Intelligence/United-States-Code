@@ -20,9 +20,13 @@ The Congress declares that pursuit of these goals requires that development conc
 
 #### (b) Coordination of development-related activities
 
-Under the policy guidance of the Secretary of State, the Director of the United States International Development Cooperation Agency should have the responsibility for coordinating all United States development-related activities.
+Under the policy guidance of the Secretary of State, the agency primarily responsible for administering subchapter I of this chapter should have the responsibility for coordinating all United States development-related activities.
 
-(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I, §101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937; 1979 Reorg. Plan No. 2, §6(b)(1), eff. Oct. 1, 1979, 44 F.R. 41166, 93 Stat. 1379.)
+(Pub. L. 87–195, pt. I, §101, formerly §102, Sept. 4, 1961, 75 Stat. 424; Pub. L. 87–565, pt. I, §101, Aug. 1, 1962, 76 Stat. 255; Pub. L. 88–205, pt. I, §101(c), Dec. 16, 1963, 77 Stat. 379; Pub. L. 89–171, pt. I, §101, Sept. 6, 1965, 79 Stat. 653; Pub. L. 89–583, pt. I, §101, Sept. 19, 1966, 80 Stat. 796; Pub. L. 90–137, pt. I, §101, Nov. 14, 1967, 81 Stat. 445; Pub. L. 93–189, §2(2), Dec. 17, 1973, 87 Stat. 714; Pub. L. 94–161, title III, §301, Dec. 20, 1975, 89 Stat. 855; Pub. L. 95–88, title I, §§101, 113(b), Aug. 3, 1977, 91 Stat. 533, 538; renumbered and amended Pub. L. 95–424, title I, §101, Oct. 6, 1978, 92 Stat. 937.)
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -36,7 +40,7 @@ Subsecs. (c) to (e). Pub. L. 95–424 struck out subsecs. (c) to (e).
 
 Subsec. (b)(2). Pub. L. 95–88, §113(b)(2), inserted “environment and natural resources;” after “population planning and health;”.
 
-Subsec. (d). Pub. L. 95–88, §101(a), substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment and progress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions underwhich the President had established the criteria without Congressional involvement.
+Subsec. (d). Pub. L. 95–88, §101(a), substituted provisions under which the President developed the criteria and factors to be used in assessing the commitment and progress of countries in meeting the objectives set forth in subsec. (c) and transmitted a report by Jan. 31, 1978, to the Speaker of the House and to the Committee on Foreign Relations of the Senate for provisions under which the President had established the criteria without Congressional involvement.
 
 Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
@@ -72,7 +76,7 @@ Pub. L. 104–319, §1, Oct. 19, 1996, 110 Stat. 3864, provided that: “This Ac
 
 #### Short Title of 1994 Amendments
 
-Pub. L. 103–447, §1, Nov. 2, 1994, 108 Stat. 4691, provided that: “This Act \[amending sections 2291, 2291a, 2291e, 2291f, 2291h to 2291k of this title, section 635 of Title 12, Banks and Banking, section 981 of Title 18, Crimes and Criminal Procedure, section 1616a of Title 19, Customs Duties, and section 881 of Title 21, Food and Drugs, repealing section 2291–2 of this title, enacting provisions set out as notes under this section, sections 1928 and 2420 of this title, and section 1182 of Title 8, Aliens and Nationality, amending provisions set out as a note under section 5311 of Title 31, Money and Finance, and repealing provisions set out as notes under this section, sections 2291, 2291h, and 2420 of this title, section 701 of Title 41, Public Contracts, and section 1902 of Title 46, Appendix, Shipping\] may be cited as the‘International Narcotics Control Corrections Act of 1994’.”
+Pub. L. 103–447, §1, Nov. 2, 1994, 108 Stat. 4691, provided that: “This Act \[amending sections 2291, 2291a, 2291e, 2291f, 2291h to 2291k of this title, section 635 of Title 12, Banks and Banking, section 981 of Title 18, Crimes and Criminal Procedure, section 1616a of Title 19, Customs Duties, and section 881 of Title 21, Food and Drugs, repealing section 2291–2 of this title, enacting provisions set out as notes under this section, sections 1928 and 2420 of this title, and section 1182 of Title 8, Aliens and Nationality, amending provisions set out as a note under section 5311 of Title 31, Money and Finance, and repealing provisions set out as notes under this section, sections 2291, 2291h, and 2420 of this title, section 701 of Title 41, Public Contracts, and section 1902 of Title 46, Appendix, Shipping\] may be cited as the ‘International Narcotics Control Corrections Act of 1994’.”
 
 Pub. L. 103–392, §1, Oct. 22, 1994, 108 Stat. 4098, provided that: “This Act \[enacting section 2151t–1 of this title, amending sections 2191, 2195, and 2421 of this title and sections 4052 and 4728 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 4701 of Title 15\] may be cited as the ‘Jobs Through Trade Expansion Act of 1994’.”
 
@@ -86,7 +90,7 @@ Pub. L. 102–549, title VI, §601, Oct. 28, 1992, 106 Stat. 3664, provided that
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This Act \[enacting section 2151x–1 of this title and section 3196 of Title 18, Crimes and Criminal Procedure, amending sections 2291c, 2321k, 2346c, and 2360 of this title and section 635 of Title 12, Banks and Banking, and enacting provisions set out as notes under sections 2291, 2291h, and 2360 of this title\] may be cited as the ‘International Narcotics Control Act of 1990’.”
+Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This Act \[enacting section 2151x–1 of thistitle and section 3196 of Title 18, Crimes and Criminal Procedure, amending sections 2291c, 2321k, 2346c, and 2360 of this title and section 635 of Title 12, Banks and Banking, and enacting provisions set out as notes under sections 2291, 2291h, and 2360 of this title\] may be cited as the ‘International Narcotics Control Act of 1990’.”
 
 #### Short Title of 1989 Amendments
 
@@ -134,7 +138,7 @@ Pub. L. 97–65, §1, Oct. 16, 1981, 95 Stat. 1021, provided that: “This Act \
 
 #### Short Title of 1980 Amendments
 
-Pub. L. 96–533, §1, Dec. 16, 1980, 94 Stat. 3131, provided: “This Act \[enacting sections 290h to 290h–9, 2226, 2346a, 2346b, 2769, and 2778a of this title, amending sections 2151a to 2151d, 2151n, 2151s, 2151u, 2151v, 2174, 2221, 2222, 2291a, 2292, 2292a, 2292<i>l</i>, 2304, 2311, 2312, 2318, 2321h to 2321j, 2346, 2347a, 2348a, 2354, 2364, 2367, 2370, 2384, 2394, 2399d, 2403, 2411, 2421, 2427, 2502, 2514, 2753, 2761 to 2765, 2771, 2776 to 2779, 2791, 2794, and 3510 of this title, sections 1712 and 1733 of Title 7, Agriculture, sections 5041 and 5045 of Title 42, The Public Health and Welfare, and section 2405 of Title 50, Appendix, War and National Defense, repealing sections 2151q, 2346c to 2346e, and 2348b of this title, enacting provisions set out as notes under this section and sections 290h, 2151a, 2291a, 2293, 2370, and 3401 of this title, section 1522 of Title 8, Aliens and Nationality, and section 2667 of Title 10, Armed Forces, and repealing a provision set out as a note under section 2293 of this title\] may be cited as the ‘International Security and Development Cooperation Act of 1980’.”
+Pub. L. 96–533, §1, Dec. 16, 1980, 94 Stat. 3131, provided: “This Act \[enacting sections 290h to 290h–9, 2226, 2346a, 2346b, 2769, and 2778a of this title, amending sections 2151a to 2151d, 2151n, 2151s, 2151u, 2151v, 2174, 2221, 2222, 2291a, 2292, 2292a, 2292<i>l</i>, 2304, 2311, 2312, 2318, 2321h to2321j, 2346, 2347a, 2348a, 2354, 2364, 2367, 2370, 2384, 2394, 2399d, 2403, 2411, 2421, 2427, 2502, 2514, 2753, 2761 to 2765, 2771, 2776 to 2779, 2791, 2794, and 3510 of this title, sections 1712 and 1733 of Title 7, Agriculture, sections 5041 and 5045 of Title 42, The Public Health and Welfare, and section 2405 of Title 50, Appendix, War and National Defense, repealing sections 2151q, 2346c to 2346e, and 2348b of this title, enacting provisions set out as notes under this section and sections 290h, 2151a, 2291a, 2293, 2370, and 3401 of this title, section 1522 of Title 8, Aliens and Nationality, and section 2667 of Title 10, Armed Forces, and repealing a provision set out as a note under section 2293 of this title\] may be cited as the ‘International Security and Development Cooperation Act of 1980’.”
 
 Pub. L. 96–257, §1, May 31, 1980, 94 Stat. 422, provided: “That this Act \[enacting section 2346e of this title\] may be cited as the ‘Special Central American Assistance Act of 1979’.”
 
@@ -160,7 +164,7 @@ Section 1 of Pub. L. 95–88 provided that: “This Act \[enacting sections 2151
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–329, §1, June 30, 1976, 90 Stat. 729, provided: “That this Act \[enacting sections 2292h, 2292i, 2321j, 2347, 2347a, 2347b, 2371, 2394a, 2428, 2429, 2755, 2765, 2778, and 2779 of this title, amending sections 2183, 2222, 2261, 2291, 2291a, 2292f, 2304, 2312, 2314, 2318, 2321b, 2321h, 2321i, 2346a, 2370, 2382, 2383, 2384, 2386, 2392, 2394, 2396, 2403, 2415, 2416, 2417, 2441, 2443, 2751, 2751 note, 2752, 2753, 2761, 2762, 2763, 2771, 2776, 2791, 2792, and 2794 of this title, repealingsections 2321a, 2415 note, 2431, 2431 notes, 2432, 2432 note, 2433, 2433 note, 2434, and 2435, and enacting provisions set out as notes under this section and sections 2291, 2292, 2314, 2321a, 2321b, 2347, 2352, 2370, 2428, 2431, 2441, 2751, 2753, 2763, 2776, and 2778 of this title\] may be cited as the ‘International Security Assistance and Arms Export Control Act of 1976’.”
+Pub. L. 94–329, §1, June 30, 1976, 90 Stat. 729, provided: “That this Act \[enacting sections 2292h, 2292i, 2321j, 2347, 2347a, 2347b, 2371, 2394a, 2428, 2429, 2755, 2765, 2778, and 2779 of this title, amending sections 2183, 2222, 2261, 2291, 2291a, 2292f, 2304, 2312, 2314, 2318, 2321b, 2321h, 2321i, 2346a, 2370, 2382, 2383, 2384, 2386, 2392, 2394, 2396, 2403, 2415, 2416, 2417, 2441, 2443, 2751, 2751 note, 2752, 2753, 2761, 2762, 2763, 2771, 2776, 2791, 2792, and 2794 of this title, repealing sections 2321a, 2415 note, 2431, 2431 notes, 2432, 2432 note, 2433, 2433 note, 2434, and 2435, and enacting provisions set out as notes under this section and sections 2291, 2292, 2314, 2321a, 2321b, 2347, 2352, 2370, 2428, 2431, 2441, 2751, 2753, 2763, 2776, and 2778 of this title\] may be cited as the ‘International Security Assistance and Arms Export Control Act of 1976’.”
 
 #### Short Title of 1975 Amendment
 
@@ -170,7 +174,7 @@ Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sect
 
 Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
 
-Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: “That this Act \[amending sections 2191, 2194, 2195, 2197, 2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
+Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: “That this Act \[amending sections 2191, 2194, 2195, 2197,2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
 
 Pub. L. 93–333, §1, July 8, 1974, 88 Stat. 290, provided: “That this Act \[enacting section 2292c of this title, amending section 2292d of this title, and enacting provisions set out as notes under this section and section 2395 of this title\] may be cited as the ‘Foreign Disaster Assistance Act of 1974’.”
 
@@ -212,7 +216,7 @@ Pub. L. 88–633, §1, Oct. 7, 1964, 78 Stat. 1009, provided: “That this Act \
 
 #### Short Title of 1963 Amendment
 
-Section 1 of Pub. L. 88–205 provided that: “This Act \[enacting sections 816, 1138a, 2216, 2320, 2398, and 2684 of this title, amending sections 961, 1136, 1139, 1251, 1928a, 1943, 2161, 2162, 2172, 2174, 2181, 2182, 2184, 2201, 2211 to2213, 2222, 2242, 2261, 2312, 2313, 2318, 2319, 2351, 2361, 2362, 2370, 2381, 2384, 2386, 2391, 2395 to 2397, 2403, and 2404 of this title, sections 1701, 1705, 1706, and 1722 of Title 7, Agriculture, and section 1861 of Title 19, Customs Duties, enacting provisions set out as notes under this section and section 1942 of this title, and section 1706 of Title 7, and repealing provisions set out as notes under this section and section 2301 of this title\], may be cited as the ‘Foreign Assistance Act of 1963’.”
+Section 1 of Pub. L. 88–205 provided that: “This Act \[enacting sections 816, 1138a, 2216, 2320, 2398, and 2684 of this title, amending sections 961, 1136, 1139, 1251, 1928a, 1943, 2161, 2162, 2172, 2174, 2181, 2182, 2184, 2201, 2211 to 2213, 2222, 2242, 2261, 2312, 2313, 2318, 2319, 2351, 2361, 2362, 2370, 2381, 2384, 2386, 2391, 2395 to 2397, 2403, and 2404 of this title, sections 1701, 1705, 1706, and 1722 of Title 7, Agriculture, and section 1861 of Title 19, Customs Duties, enacting provisions set out as notes under this section and section 1942 of this title, and section 1706 of Title 7, and repealing provisions set out as notes under this section and section 2301 of this title\], may be cited as the ‘Foreign Assistance Act of 1963’.”
 
 #### Short Title of 1962 Amendment
 
@@ -220,9 +224,11 @@ Section 1 of Pub. L. 87–565 provided: “That this Act \[enacting sections 221
 
 #### Short Title
 
-Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
+Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
 
 Section 101 of Pub. L. 87–195 which provided that this subchapter should be cited as the “Act for International Development of 1961” was repealed by section 101(b) of Pub. L. 88–205.
+
+Pub. L. 87–195, pt. V, §801, as added by Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 885, provided that: “This part \[part V (§§801–813) of Pub. L. 87–195, enacting subchapter IV of this chapter\] may be cited as the ‘Tropical Forest Conservation Act of 1998’.”
 
 #### Repeals
 
@@ -250,11 +256,143 @@ Section 642 of Pub. L. 87–195, as amended by Pub. L. 89–171, pt. III, §303(
 
 “(c) The repeal of the Acts listed in subsection (a) of this section shall not be deemed to affect amendments contained in such Acts to Acts not named in that subsection.”
 
-#### Transfer of Functions
+#### Iraq Liberation
 
-“Director of the United States International Development Cooperation Agency” substituted for “agency primarily responsible for administering subchapter I of this chapter” in subsec. (b), pursuant to Reorg. Plan No. 2 of 1979, §6(b), 44 F.R. 41166, 93 Stat. 1379, eff. Oct. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as notes under section 2381 of this title, which transferred functions and authorities of agency primarily responsible for administering subchapter I of this chapter under subsec. (b) of this section to Director of United States International Development Cooperation Agency.
+Pub. L. 105–338, Oct. 31, 1998, 112 Stat. 3178, provided that:
 
-Functions and authorities vested in Secretary of State pursuant to subsec. (b) of this section insofar as it relates to policy guidance other than foreign policy guidance transferred to Director of United States International Development Cooperation Agency by section 6(c)(1) of Reorg. Plan No. 2 of 1979, set out as a note under section 2381 of this title.
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Iraq Liberation Act of 1998’.
+
+#### “SEC. 2. FINDINGS.
+
+“The Congress makes the following findings:
+
+&emsp;“(1) On September 22, 1980, Iraq invaded Iran, starting an 8 year war in which Iraq employed chemical weapons against Iranian troops and ballistic missiles against Iranian cities.
+
+&emsp;“(2) In February 1988, Iraq forcibly relocated Kurdish civilians from their home villages in the Anfal campaign, killing an estimated 50,000 to 180,000 Kurds.
+
+&emsp;“(3) On March 16, 1988, Iraq used chemical weapons against Iraqi Kurdish civilian opponents in the town of Halabja, killing an estimated 5,000 Kurds and causing numerous birth defects that affect the town today.
+
+&emsp;“(4) On August 2, 1990, Iraq invaded and began a 7 month occupation of Kuwait, killing and committing numerous abuses against Kuwaiti civilians, and setting Kuwait's oil wells ablaze upon retreat.
+
+&emsp;“(5) Hostilities in Operation Desert Storm ended on February 28, 1991, and Iraq subsequently accepted the ceasefire conditions specified in United Nations Security Council Resolution 687 (April 3, 1991) requiring Iraq, among other things, to disclose fully and permit the dismantlement of its weapons of mass destruction programs and submit to long-term monitoring and verification of such dismantlement.
+
+&emsp;“(6) In April 1993, Iraq orchestrated a failed plot to assassinate former President George Bush during his April 14–16, 1993, visit to Kuwait.
+
+&emsp;“(7) In October 1994, Iraq moved 80,000 troops to areas near the border with Kuwait, posing an imminent threat of a renewed invasion of or attack against Kuwait.
+
+&emsp;“(8) On August 31, 1996, Iraq suppressed many of its opponents by helping one Kurdish faction capture Irbil, the seat of the Kurdish regional government.
+
+&emsp;“(9) Since March 1996, Iraq has systematically sought to deny weapons inspectors from the United Nations Special Commission on Iraq (UNSCOM) access to key facilities and documents, has on several occasions endangered the safe operation of UNSCOM helicopters transporting UNSCOM personnel in Iraq, and has persisted in a pattern of deception and concealment regarding the history of its weapons of mass destruction programs.
+
+&emsp;“(10) On August 5, 1998, Iraq ceased all cooperation with UNSCOM, and subsequently threatened to end long-term monitoring activities by the International Atomic Energy Agency and UNSCOM.
+
+&emsp;“(11) On August 14, 1998, President Clinton signed Public Law 105–235 \[112 Stat. 1538\], which declared that ‘the Government of Iraq is in material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations.’.
+
+&emsp;“(12) On May 1, 1998, President Clinton signed Public Law 105–174 \[see Tables for classification\], which made $5,000,000 available for assistance to the Iraqi democratic opposition for such activities as organization, training, communication and dissemination of information, developing and implementing agreements among opposition groups, compiling information to support the indictment of Iraqi officials for war crimes, and for related purposes.
+
+#### “SEC. 3. SENSE OF THE CONGRESS REGARDING UNITED STATES POLICY TOWARD IRAQ.
+
+“It should be the policy of the United States to support efforts to remove the regime headed by Saddam Hussein from power in Iraq and to promote the emergence of a democratic government to replace that regime.
+
+#### “SEC. 4. ASSISTANCE TO SUPPORT A TRANSITION TO DEMOCRACY IN IRAQ.
+
+“(a)
+
+Authority To Provide Assistance.—The President may provide to the Iraqi democratic opposition organizations designated in accordance with section 5 the following assistance:
+
+&emsp;“(1)
+
+Broadcasting assistance.—(A) Grant assistance to such organizations for radio and television broadcasting by such organizations to Iraq.
+
+&emsp;“(B) There is authorized to be appropriated to the United States Information Agency $2,000,000 for fiscal year 1999 to carry out this paragraph.
+
+&emsp;“(2)
+
+Military assistance.—(A) The President is authorized to direct the drawdown of defense articles from the stocks of the Department of Defense, defense services of the Department of Defense, and military education and training for such organizations.
+
+&emsp;“(B) The aggregate value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of assistance provided under this paragraph may not exceed $97,000,000.
+
+“(b)
+
+Humanitarian Assistance.—The Congress urges the President to use existing authorities under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] to provide humanitarian assistance to individuals living in areas of Iraq controlled by organizations designated in accordance with section 5, with emphasis on addressing the needs of individuals who have fled to such areas from areas under the control of the Saddam Hussein regime.
+
+“(c)
+
+Restriction on Assistance.—No assistance under this section shall be provided to any group within an organization designated in accordance with section 5 which group is, at the time the assistance is to be provided, engaged in military cooperation with the Saddam Hussein regime.
+
+“(d)
+
+Notification Requirement.—The President shall notify the congressional committees specified in section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\] at least 15 days in advance of each obligation of assistance under this section in accordance with the procedures applicable to reprogramming notifications under section 634A.
+
+“(e)
+
+Reimbursement Relating to Military Assistance.—
+
+&emsp;“(1)
+
+In general.—Defense articles, defense services, and military education and training provided under subsection (a)(2) shall be made available without reimbursement to the Department of Defense except to the extent that funds are appropriated pursuant to paragraph (2).
+
+&emsp;“(2)
+
+Authorization of appropriations.—There are authorized to be appropriated to the President for each of the fiscal years 1998 and 1999 such sums as may be necessary to reimburse the applicable appropriation, fund, or account for the value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of defense articles, defense services, or military education and training provided under subsection (a)(2).
+
+“(f)
+
+Availability of Funds.—(1) Amounts authorized to be appropriated under this section are authorized to remain available until expended.
+
+“(2) Amounts authorized to be appropriated under this section are in addition to amounts otherwise available for the purposes described in this section.
+
+“(g)
+
+Authority To Provide Assistance.—Activities under this section (including activities of the nature described in subsection (b)) may be undertaken notwithstanding any other provision of law.
+
+#### “SEC. 5. DESIGNATION OF IRAQI DEMOCRATIC OPPOSITION ORGANIZATION.
+
+“(a)
+
+Initial Designation.—Not later than 90 days after the date of the enactment of this Act \[Oct. 31, 1998\], the President shall designate one or more Iraqi democratic opposition organizations that the President determines satisfy the criteria set forth in subsection (c) as eligible to receive assistance under section 4.
+
+“(b)
+
+Designation of Additional Organizations.—At any time subsequent to the initial designation pursuant to subsection (a), the President may designate one or more additional Iraqi democratic opposition organizations that the President determines satisfy the criteria set forth in subsection (c) as eligible to receive assistance under section 4.
+
+“(c)
+
+Criteria for Designation.—In designating an organization pursuant to this section, the President shall consider only organizations that—
+
+&emsp;“(1) include a broad spectrum of Iraqi individuals, groups, or both, opposed to the Saddam Hussein regime; and
+
+&emsp;“(2) are committed to democratic values, to respect for human rights, to peaceful relations with Iraq's neighbors, to maintaining Iraq's territorial integrity, and to fostering cooperation among democratic opponents of the Saddam Hussein regime.
+
+“(d)
+
+Notification Requirement.—At least 15 days in advance of designating an Iraqi democratic opposition organization pursuant to this section, the President shall notify the congressional committees specified in section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\] of his proposed designation in accordance with the procedures applicable to reprogramming notifications under section 634A.
+
+#### “SEC. 6. WAR CRIMES TRIBUNAL FOR IRAQ.
+
+“Consistent with section 301 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 (Public Law 102–138 \[105 Stat. 707\]), House Concurrent Resolution 137, 105th Congress (approved by the House of Representatives on November 13, 1997), and Senate Concurrent Resolution 78, 105th Congress (approved by the Senate on March 13, 1998), the Congress urges the President to call upon the United Nations to establish an international criminal tribunal for the purpose of indicting, prosecuting, and imprisoning Saddam Hussein and other Iraqi officials who are responsible for crimes against humanity, genocide, and other criminal violations of international law.
+
+#### “SEC. 7. ASSISTANCE FOR IRAQ UPON REPLACEMENT OF SADDAM HUSSEIN REGIME.
+
+“It is the sense of the Congress that once the Saddam Hussein regime is removed from power in Iraq, the United States should support Iraq's transition to democracy by providing immediate and substantial humanitarian assistance to the Iraqi people, by providing democracy transition assistance to Iraqi parties and movements with democratic goals, and by convening Iraq's foreign creditors to develop a multilateral response to Iraq's foreign debt incurred by Saddam Hussein's regime.
+
+#### “SEC. 8. RULE OF CONSTRUCTION.
+
+“Nothing in this Act shall be construed to authorize or otherwise speak to the use of United States Armed Forces (except as provided in section 4(a)(2)) in carrying out this Act.”
+
+#### Designations Under the Iraq Liberation Act of 1998
+
+Determination of President of the United States, No. 99–13, Feb. 4, 1999, 64 F.R. 6781, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority vested in me as President of the United States, including under section 5 of the Iraq Liberation Act of 1998 (Public Law 105–338) (the “Act”) \[set out in a note above\], I hereby determine that each of the following groups is a democratic opposition organization and that each satisfies the criteria set forth in section 5(c) of the Act: the Iraqi National Accord, the Iraqi National Congress, the Islamic Movement of Iraqi Kurdistan, the Kurdistan Democratic Party, the Movement for Constitutional Monarchy, the Patriotic Union of Kurdistan, and the Supreme Council for the Islamic Revolution in Iraq. I hereby designate each of these organizations as eligible to receive assistance under section 4 of the Act.
+
+You are authorized and directed to report this determination and designation to the Congress and arrange for its publication in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Assistance for Mauritania
 
@@ -274,7 +412,7 @@ Definitions.—For purposes of this section, the following definitions apply:
 
 &emsp;“(1)
 
-Economic assistance.—The term ‘economic assistance’ means any assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), except that such term does not include humanitarian assistance.
+Economic assistance.—The term ‘economic assistance’ means any assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.),except that such term does not include humanitarian assistance.
 
 &emsp;“(2)
 
@@ -370,7 +508,7 @@ Authorization of Assistance.—The President is authorized to provide assistance
 
 “(b)
 
-Funding.—Of the foreign assistance funds that are allocated for sub-Saharan Africa, not less than $1,500,000 for each of the fiscal years 1995 through 1998 should be used to carry out subsection (a).
+Funding.—Of the foreign assistance funds that are allocated for sub-Saharan Africa, not less than$1,500,000 for each of the fiscal years 1995 through 1998 should be used to carry out subsection (a).
 
 #### “SEC. 4. IMPROVING CONFLICT RESOLUTION CAPABILITIES OF MULTILATERAL SUBREGIONAL ORGANIZATIONS IN AFRICA.
 
@@ -394,7 +532,7 @@ Authorization of Assistance.—The President is authorized to provide assistance
 
 “(b)
 
-Funding.—Of the foreign assistance funds that are allocated for sub-Saharan Africa, such sums as maybe necessary for each of the fiscal years 1995 and 1996 should be used to carry out subsection (a).
+Funding.—Of the foreign assistance funds that are allocated for sub-Saharan Africa, such sums as may be necessary for each of the fiscal years 1995 and 1996 should be used to carry out subsection (a).
 
 #### “SEC. 6. AFRICAN DEMOBILIZATION AND RETRAINING PROGRAM.
 
@@ -724,11 +862,11 @@ Pub. L. 101–167, title V, §561, Nov. 21, 1989, 103 Stat. 1239, provided that:
 
 &emsp;“(6) assistance provided by the Central Intelligence Agency or assistance provided by any other entity or component of the United States Government if such assistance is carried out in connection with, or for purposes of conducting, intelligence or intelligence-related activities except that this shall not include activities undertaken solely to collect necessary intelligence;
 
-> except that the term ‘United States assistance’ does not include (A) assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] insofar as such assistance is provided through private and voluntary organizations or other nongovernmental agencies, (B) assistance which involves the donations of food or medicine, (C) disaster relief assistance (including any assistance under chapter 9 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2292 et seq.\]), (D) assistance for refugees, (E) assistance under the Inter-American Foundation Act \[22 U.S.C. 290f\], (F) assistance necessary for the purpose of continuing participant training programs (including scholarships) already being supported as of the date of any prohibition of assistance otherwise applicable to Panama, or (G) assistance made available for termination costs arising from the requirements of this section.
+> except that the term ‘United States assistance’ does not include (A) assistance under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] insofar as such assistance is provided through private and voluntary organizations or other nongovernmental agencies, (B) assistance which involves the donations of food or medicine, (C) disaster relief assistance (including any assistance under chapter 9 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2292 et seq.\]), (D) assistance for refugees, (E) assistance underthe Inter-American Foundation Act \[22 U.S.C. 290f\], (F) assistance necessary for the purpose of continuing participant training programs (including scholarships) already being supported as of the date of any prohibition of assistance otherwise applicable to Panama, or (G) assistance made available for termination costs arising from the requirements of this section.
 
 “(d) The Secretary of the Treasury shall instruct the United States Executive Directors to the International Financial Institutions (the International Bank for Reconstruction and Development, the International Finance Corporation, and the Inter-American Development Bank) to vote against any loan to Panama, unless the President has certified in advance that the conditions set forth in subsection (a) of this section have been met.”
 
-\[Functions of President under this note were delegated to Secretary of State by section 1–201(a)(28) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
+\[Functions of President under this note were delegated to Secretary of State by section 1–201(a)(29) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -792,7 +930,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 “(B) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
 
-“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
+“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose abilityto compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
 
 “(6) \[Repealed. Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560.\]
 
@@ -844,5 +982,5 @@ July 8, 1955, ch. 301, §12, 69 Stat. 290 (repealed by Pub. L. 87–195, pt. III
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151–1, 2151v, 2162, 2399c, 3502 of this title.
+This section is referred to in sections 2151–1, 2151v, 2162, 2399c, 3502, 6593 of this title.
 

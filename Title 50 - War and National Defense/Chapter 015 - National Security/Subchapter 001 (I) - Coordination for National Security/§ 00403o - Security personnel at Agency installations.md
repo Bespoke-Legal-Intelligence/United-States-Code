@@ -42,6 +42,10 @@ Provisions of this section were also enacted by the Intelligence Authorization A
 
 Subsec. (a)(2) to (5). Pub. L. 105–107, §404(3), added pars. (2) to (5).
 
+#### Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence
+
+Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference tothe George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under section 403–1 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 403a, 403e, 403f of this title; title 10 section 444.

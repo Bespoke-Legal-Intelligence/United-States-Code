@@ -18,13 +18,13 @@ The testimony of any witness may be taken, at the instance of a party, in any pr
 
 #### (e) Deposition of witness in a foreign country
 
-If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission. Alldepositions must be promptly filed with the Commission.
+If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
 
 #### (f) Deposition fees
 
 Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(June 10, 1920, ch. 285, pt. III, §307, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Oct. 15, 1970, Pub. L. 91–452, title II, §221, 84 Stat. 929.)
+(June 10, 1920, ch. 285, pt. III, §307, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 91–452, title II, §221, Oct. 15, 1970, 84 Stat. 929.)
 
 #### Amendments
 

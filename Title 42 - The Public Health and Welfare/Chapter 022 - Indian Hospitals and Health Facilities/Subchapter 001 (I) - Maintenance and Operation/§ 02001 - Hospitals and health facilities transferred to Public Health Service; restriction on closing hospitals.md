@@ -4,7 +4,7 @@
 
 (b) In carrying out his functions, responsibilities, authorities, and duties under this subchapter, the Secretary is authorized, with the consent of the Indian people served, to contract with private or other non-Federal health agencies or organizations for the provision of health services to such people on a fee-for-service basis or on a prepayment or other similar basis.
 
-(Aug. 5, 1954, ch. 658, §1, 68 Stat. 674; Dec. 29, 1973, Pub. L. 93–222, §6(a), 87 Stat. 935; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(Aug. 5, 1954, ch. 658, §1, 68 Stat. 674; Pub. L. 93–222, §6(a), Dec. 29, 1973, 87 Stat. 935; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Amendments
 
@@ -16,5 +16,5 @@ Section 6 of act Aug. 5, 1954, as amended by Pub. L. 86–121, §2, July 31, 195
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education,and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

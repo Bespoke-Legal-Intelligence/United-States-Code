@@ -24,7 +24,7 @@ Information to be Included in Judgment; Judgment to be Transmitted to Attorney G
 
 &emsp;(E) a description of any modification or remission;
 
-&emsp;(F) if other than immediate payment is permitted, a requirement that, until the fine or restitution order is paid in full, the defendant notify the Attorney General of any change in the mailing address or residence address of thedefendant not later than thirty days after the change occurs; and
+&emsp;(F) if other than immediate payment is permitted, a requirement that, until the fine or restitution order is paid in full, the defendant notify the Attorney General of any change in the mailing address or residence address of the defendant not later than thirty days after the change occurs; and
 
 &emsp;(G) in the case of a restitution order, information sufficient to identify each victim to whom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
 
@@ -178,7 +178,7 @@ Section 237 of Pub. L. 98–473 provided that:
 
 &emsp;“(A) pay the fine in full;
 
-&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
+&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court beforeenactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
 
 &emsp;“(C) establish with the concurrence of the Attorney General, a new installment schedule of a duration not exceeding two years, except in special circumstances, and specifying the dates on which designated partial payments will be made.
 
@@ -194,5 +194,5 @@ Section 237 of Pub. L. 98–473 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3663 of this title; title 21 section 853; title 42 section 10601.
+This section is referred to in section 3663 of this title; title 21 section 853.
 

@@ -1,16 +1,24 @@
 ### §4608. Collection of assessments; refunds
 
-#### (a) First handler of honey
+#### (a) Handlers
 
-Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.
+Except as otherwise provided in this section, a first handler of honey shall be responsible, at the time of first purchase—
+
+&emsp;(1) for the collection, and payment to the Honey Board, of the assessment payable by a producer under section 4606(e)(2)(A) of thistitle or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title; and
+
+&emsp;(2) if approved in a referendum conducted under this chapter, for the payment to the Honey Board of an additional assessment payable by the handler under section 4606(e)(3)(A)(ii) of this title.
 
 #### (b) Records
 
 The first handler shall maintain a separate record on each producer's honey so handled, including honey owned by the handler.
 
-#### (c) Time for payment; remission
+#### (c) Importers
 
-The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board.
+Except as otherwise provided in this section, at the time of entry of honey and honey products into the United States, an importer shall remit to the Honey Board through the United States Customs Service—
+
+&emsp;(1) the assessment on the imported honey and honey products required under section 4606(e)(2)(B) of this title; or
+
+&emsp;(2) if approved in a referendum conducted under this chapter, the assessment on the imported honey and honey products required under section 4606(e)(3)(B) of this title, of which the amount payable under section 4606(e)(3)(A)(ii) of this title represents the assessment due from the handler to be paid by the importer on behalf of the handler.
 
 #### (d) Loan and loan deficiency payments; deduction from disbursement of loan funds or loan deficiency payment made to producer
 
@@ -18,39 +26,109 @@ In any case in which a loan, or a loan deficiency payment is made with respect t
 
 #### (e) Producer-packers
 
-Producer-packers shall pay to the Honey Board the assessment on the honey they produce.
+Except as otherwise provided in this section, a producer-packer shall be responsible for the collection, and payment to the Honey Board, of—
+
+&emsp;(1) the assessment payable by the producer-packer under section 4606(e)(2)(A) of this title or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title on honey produced by the producer-packer;
+
+&emsp;(2) at the time of first purchase, the assessment payable by a producer under section 4606(e)(2)(A) of this title or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title on honey purchased by the producer-packer as a first handler; and
+
+&emsp;(3) if approved in a referendum conducted under this chapter, an additional assessment payable by the producer-packer under section 4606(e)(3)(A)(ii) of this title.
 
 #### (f) Inspection; books and records
 
-Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the <sup>1</sup> chapter or of any order or regulation issued pursuant to this chapter.
+#### (1) In general
+
+&emsp;To make available to the Secretary and the Honey Board such information and data as are necessary to carry out this chapter (including an order or regulation issued under this chapter), a handler, importer, producer, or producer-packer responsible for payment of an assessment under this chapter, and a person receiving an exemption from an assessment under section 4606(e)(4) of this title, shall—
+
+&emsp;&emsp;(A) maintain and make available for inspection by the Secretary and the Honey Board such books and records as are required by the order and regulations issued under this chapter; and
+
+&emsp;&emsp;(B) file reports at the times, in the manner, and having the content prescribed by the order and regulations, which reports shall include the total number of bee colonies maintained, the quantity of honey produced, and the quantity of honey and honey products handled or imported.
+
+#### (2) Employee or agent
+
+&emsp;To conduct an inspection or review a report of a handler, importer, producer, or producer-packer under paragraph (1), an individual shall be an employee or agent of the Department or the Honey Board, and shall not be a member or alternate member of the Honey Board.
+
+#### (3) Confidentiality
+
+&emsp;An employee or agent described in paragraph (2) shall be subject to the confidentiality requirements of subsection (g) of this section.
 
 #### (g) Confidentiality of information; disclosure
 
-All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
+#### (1) In general
 
-&emsp;(1) issuance of general statements based upon the reports of a number of handlers subject to any order, if such statements do not identify the information furnished by any person; or
+&emsp;All information obtained under subsection (f) of this section shall be kept confidential by all officers, employees, and agents of the Department or of the Honey Board.
 
-&emsp;(2) the publication by direction of the Secretary, of the name of any person violating any order issued under this chapter, together with a statement of the particular provisions of the order violated by such person.
+#### (2) Disclosure
 
-#### (h) Refunds; submission of statement regarding amount of assessment deducted from loan funds to Honey Board; compliance
+&emsp;Information subject to paragraph (1) may be disclosed—
 
-(1)(A) Except as otherwise provided in paragraph (2), any producer or importer may obtain a refund of the assessment collected from the producer or importer if demand is made within the time and in the manner prescribed by the Honey Board and approved by the Secretary; except that, during any year, the amount of refunds made to an importer, as a percentage of total assessments collected from such importer, shall not exceed the amount of refunds made to domestic producers, as a percentage of total assessments collected from such producers. Such refund shall be made by the Honey Board in June and December of each year.
+&emsp;&emsp;(A) only in a suit or administrative hearing brought at the request of the Secretary, or to which the Secretary or any officer of the United States is a party, that involves the order with respect to which the information was furnished or acquired; and
 
-(B) A producer that has obtained a honey price support loan under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], or successor statute, may obtain a refund if the producer has submitted to the Honey Board the statement received under subsection (d) of this section of the amount of assessment deducted from the loan funds and has otherwise complied with this subsection, even though the loan with respect to which the assessment was collected may still be outstanding and final settlement has not been made.
+&emsp;&emsp;(B) only if the Secretary determines that the information is relevant to the suit or administrative hearing.
 
-(2) With respect to the order in effect on November 28, 1990, following the referendum on such order required under section 4612(b)(2) of this title, a producer or importer may obtain a refund of an assessment under such order as provided in paragraph (1) only if the Secretary determines that the proposal to terminate refunds under the order is defeated in such referendum.
+#### (3) Exceptions
 
-#### (i) Producer liability to Honey Board for payment of assessment
+&emsp;Nothing in this subsection prohibits—
 
-If a first handler or the Secretary fails to collect an assessment from a producer under this section, the producer shall be responsible for the payment of the assessment to the Honey Board.
+&emsp;&emsp;(A) the issuance of general statements based on the reports of a number of handlers subject to an order, if the statements do not identify the information furnished by any person; or
 
-(Pub. L. 98–590, §9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, §1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, §807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, §591, Apr. 4, 1996, 110 Stat. 1084.)
+&emsp;&emsp;(B) the publication, by direction of the Secretary, of the name of any person that violates any order issued under this chapter, together with a statement of the particular provisions of the order violated by the person.
+
+#### (4) Violation
+
+&emsp;Any person that knowingly violates this subsection, on conviction—
+
+&emsp;&emsp;(A) shall be fined not more than $1,000, imprisoned not more than 1 year, or both; and
+
+&emsp;&emsp;(B) if the person is an officer or employee of the Honey Board or the Department, shall be removed from office.
+
+#### (h) Administration and remittance
+
+Administration and remittance of the assessments under this chapter shall be conducted—
+
+&emsp;(1) in the manner prescribed in the order and regulations issued under this chapter; and
+
+&emsp;(2) if approved in a referendum conducted under this chapter, in a manner that ensures that all honey and honey products are assessed a total of, but not more than, $0.015 per pound, including any producer or importer assessment.
+
+#### (i) Liability for assessments
+
+#### (1) Producers
+
+&emsp;If a first handler or the Secretary fails to collect an assessment from a producer under this section, the producer shall be responsible for the payment of the assessment to the Honey Board.
+
+#### (2) Importers
+
+&emsp;If the United States Customs Service fails to collect an assessment from an importer or an importer fails to pay an assessment at the time of entry of honey and honey products into the United States under this section, the importer shall be responsible for the remission of the assessment to the Honey Board.
+
+(Pub. L. 98–590, §9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, §1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, §807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, §591, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–185, title VI, §605(h), June 23, 1998, 112 Stat. 597.)
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in subsecs. (d) and (h)(1)(B), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–185, §605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”
+
+Subsec. (c). Pub. L. 105–185, §605(h)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board.”
+
+Subsec. (e). Pub. L. 105–185, §605(h)(1)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: “Producer-packers shall pay to the Honey Board the assessment on the honey they produce.”
+
+Subsec. (f). Pub. L. 105–185, §605(h)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Handlers, importers, producers, and producer-packers responsible for payment of assessments, and persons receiving an exemption from assessments under section 4606(e)(2) of this title, shall maintain and make available for inspection by the Secretary such books and records as are required by the order and file reports at the times, in the manner, and having the content prescribed by the order, so that information and data shall be made available to the Honey Board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of the chapter or of any order or regulation issued pursuant to this chapter.”
+
+Subsec. (g). Pub. L. 105–185, §605(h)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “All information obtained pursuant to subsection (f) of this section shall be kept confidential by all officers and employees of the Department of Agriculture and of the Honey Board. Only such information as the Secretary deems relevant shall be disclosed and only in a suit or administrative hearing brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party involving the order with reference to which the information was furnished or acquired. Nothing in this section prohibits—
+
+&emsp;“(1) issuance of general statements based upon the reports of a number of handlers subject to any order, if such statements do not identify the information furnished by any person; or
+
+&emsp;“(2) the publication by direction of the Secretary, of the name of any person violating any order issued under this chapter, together with a statement of the particular provisions of the order violated by such person.”
+
+Subsec. (h). Pub. L. 105–185, §605(h)(4), (5), added subsec. (h) and struck out former subsec. (h) which read as follows: “(h)(1)(A) Except as otherwise provided in paragraph (2), any producer or importer may obtain a refund of the assessment collected from the producer or importer if demand is made within the time and in the manner prescribed by the Honey Board and approved by the Secretary; except that, during any year, the amount of refunds made to an importer, as a percentage of total assessments collected from such importer, shall not exceed the amount of refunds made to domestic producers, as a percentage of total assessments collected from such producers. Such refund shall be made by the Honey Board in June and December of each year.
+
+“(B) A producer that has obtained a honey price support loan under the Agricultural Act of 1949, or successor statute, may obtain a refund if the producer has submitted to the Honey Board the statement received under subsection (d) of this section of the amount of assessment deducted from the loan funds and has otherwise complied with this subsection, even though the loan with respect to which the assessment was collected may still be outstanding and final settlement has not been made.
+
+“(2) With respect to the order in effect on November 28, 1990, following the referendum on such order required under section 4612(b)(2) of this title, a producer or importer may obtain a refund of an assessment under such order as provided in paragraph (1) only if the Secretary determines that the proposal to terminate refunds under the order is defeated in such referendum.”
+
+Subsec. (i). Pub. L. 105–185, §605(h)(6), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1996—Subsec. (f). Pub. L. 104–127 inserted “producers,” after “importers,”.
 
@@ -69,6 +147,4 @@ Subsec. (i). Pub. L. 101–624, §1984(b)(5), added subsec. (i).
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4606, 4607, 4612 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

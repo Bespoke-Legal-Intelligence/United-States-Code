@@ -30,7 +30,7 @@ For the purposes described in subsection (b) of this section, the Secretary, act
 
 &emsp;&emsp;(A) to entities receiving amounts under part A or B of this subchapter for the provision of such services;
 
-&emsp;&emsp;(B) to biomedical research facilities of institutions of higher education that offerexperimental treatment for such disease, or to community-based organizations or other entities that provide such treatment; or
+&emsp;&emsp;(B) to biomedical research facilities of institutions of higher education that offer experimental treatment for such disease, or to community-based organizations or other entities that provide such treatment; or
 
 &emsp;&emsp;(C) to grantees under section 300ff–71 of this title, in the case of a pregnant woman.
 
@@ -56,7 +56,7 @@ For the purposes described in subsection (b) of this section, the Secretary, act
 
 &emsp;&emsp;(B) may, in the case of individuals who seek early intervention services from the grantee, expend the grant—
 
-&emsp;&emsp;&emsp;(i) for case management to provide coordination in the provision of health care services to the individuals and to review the extent of utilization of the services by the individuals; and
+&emsp;&emsp;&emsp;(i) for case management to provide coordination in the provision of health careservices to the individuals and to review the extent of utilization of the services by the individuals; and
 
 &emsp;&emsp;&emsp;(ii) to provide assistance to the individuals regarding establishing the eligibility of the individuals for financial assistance and services under Federal, State, or local programs providing for health services, mental health services, social services, or other appropriate services.
 
@@ -64,7 +64,7 @@ For the purposes described in subsection (b) of this section, the Secretary, act
 
 The Secretary may not make a grant under subsection (a) of this section unless the applicant for the grant agrees to make reasonable efforts to participate in a consortium established with a grant under section 300ff–22(a)(1) <sup>1</sup> of this title regarding comprehensive services to individuals with HIV disease, if such a consortium exists in the geographic area with respect to which the applicant is applying to receive such a grant.
 
-(July 1, 1944, ch. 373, title XXVI, §2651, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 606; amended Nov. 15, 1990, Pub. L. 101–557, title IV, §401(b)(2), 104 Stat. 2771; May 20, 1996, Pub. L. 104–146, §§3(d)(1), 12(c)(7), 110 Stat. 1357, 1374.)
+(July 1, 1944, ch. 373, title XXVI, §2651, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 606; amended Pub. L. 101–557, title IV, §401(b)(2), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §§3(d)(1), 12(c)(7), May 20, 1996, 110 Stat. 1357, 1374.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 The Secretary, through the agencies of the Administration, shall provide technical assistance to eligible entities in developing planning and operating programs in accordance with the provisions of this part.
 
-(July 1, 1944, ch. 373, title V, §530, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 521; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4731; July 10, 1992, Pub. L. 102–321, title I, §§162(2), 163(a)(3), 106 Stat. 375; Aug. 26, 1992, Pub. L. 102–352, §2(b)(2), 106 Stat. 939.)
+(July 1, 1944, ch. 373, title V, §530, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 521; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4731; Pub. L. 102–321, title I, §§162(2), 163(a)(3), July 10, 1992, 106 Stat. 375; Pub. L. 102–352, §2(b)(2), Aug. 26, 1992, 106 Stat. 939.)
 
 #### Amendments
 

@@ -26,9 +26,17 @@ Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–178, title VII, §7101, June 9, 1998, 112 Stat. 465, provided that: “This subtitle \[subtitle A\(§§7101–7107) of title VII of Pub. L. 105–178, enacting section 30105 of this title, amending sections 30104, 30114, 30120, 30123, 30127, 32102, 32304, and 32705 of this title, and enacting provisions set out as notes under this section and sections 30114 and 30127 of this title\] may be cited as the ‘National Highway Traffic Safety Administration Reauthorization Act of 1998’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–152, §1, July 2, 1996, 110 Stat. 1384, provided that: “This Act \[amending sections 30501 to 30505 and 33109 of this title and enacting provisions set out as a note under section 30502 of this title\] may be cited as the ‘Anti-Car Theft Improvements Act of 1996’.”
+
+#### Study on Interior Device To Release Trunk Lid
+
+Pub. L. 105–178, title VII, §7106(e), June 9, 1998, 112 Stat. 469, provided that: “The National Highway Traffic Safety Administration shall conduct a study of the benefits to motor vehicle drivers of a regulation to require the installation in a motor vehicle of an interior device to release the trunk lid. Not later than 18 months after the date of the enactment of this Act \[June 9, 1998\], the Administration shall submit a report on the results of the study to the Committee on Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
 #### National Highway Traffic Safety Administration Authorization Act of 1991
 

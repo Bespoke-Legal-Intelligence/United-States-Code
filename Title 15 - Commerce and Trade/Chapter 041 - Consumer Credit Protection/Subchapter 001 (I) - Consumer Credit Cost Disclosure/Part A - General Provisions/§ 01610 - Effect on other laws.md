@@ -8,7 +8,7 @@
 
 #### (b) State credit charge statutes
 
-Except as provided in section 1639 of this title, this subchapter does not otherwise annul, alter or affect in any manner the meaning, scope or applicability of the laws of any State, including,but not limited to, laws relating to the types, amounts or rates of charges, or any element or elements of charges, permissible under such laws in connection with the extension or use of credit, nor does this subchapter extend the applicability of those laws to any class of persons or transactions to which they would not otherwise apply. The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) of this title, except to the extent that those State laws are inconsistent with any provisions of section 1639 of this title, and then only to the extent of the inconsistency.
+Except as provided in section 1639 of this title, this subchapter does not otherwise annul, alter or affect in any manner the meaning, scope or applicability of the laws of any State, including, but not limited to, laws relating to the types, amounts or rates of charges, or any element or elements of charges, permissible under such laws in connection with the extension or use of credit, nor does this subchapter extend the applicability of those laws to any class of persons or transactions to which they would not otherwise apply. The provisions of section 1639 of this title do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of section 1639 of this title from complying with the laws of any State, with respect to the requirements for mortgages referred to in section 1602(aa) of this title, except to the extent that those State laws are inconsistent with any provisions of section 1639 of this title, and then only to the extent of the inconsistency.
 
 #### (c) Disclosure as evidence
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 103–325, §152(e)(2)(C), substituted “Except as provide
 
 Subsec. (e). Pub. L. 100–583, §4(2), added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination, for provisions respecting the effect of this subchapter, and added par. (2).
+1980—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination,for provisions respecting the effect of this subchapter, and added par. (2).
 
 1974—Subsec. (d). Pub. L. 93–495 inserted reference to section 1666e of this title.
 

@@ -22,11 +22,11 @@ Application for reimbursement under this section shall be made in such manner as
 
 No State is eligible for reimbursement under this section unless the Secretary finds that the costs, for which reimbursement is sought, have been incurred by the State as follows:
 
-&emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs havebeen incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
+&emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs have been incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
 
 &emsp;(2) If reimbursement is sought under subsection (a)(2) of this section, such costs have been incurred in revising the plan in a manner consistent with such requirements.
 
-&emsp;(3) If reimbursement is sought under subsection (a)(3) of this section, such costs have been incurred in implementing the conservation actions as approved by the Secretary.
+&emsp;(3) If reimbursement is sought under subsection (a)(3) of this section, such costs havebeen incurred in implementing the conservation actions as approved by the Secretary.
 
 &emsp;(4) If reimbursement is sought under subsection (a)(4) of this section, such costs have been incurred in implementing conservation actions specified in, and in a manner consistent with, the approved conservation plan.
 
@@ -82,7 +82,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;(ii) not include any other Federal moneys received by such State and applied by it, directly or indirectly, for such purposes.
 
-(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, andother scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
 

@@ -55,7 +55,7 @@ Pub. L. 102–16, §5(b), Mar. 22, 1991, 105 Stat. 50, struck out item 1642 “R
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3018A, 3018B, 3018C, 3033, 3485, 3674, 3680A, 3681, 3684A, 3688, 3690, 3692, 3693, 3695, 3697, 3697A, 5113, 5303A of this title; title 20 section 1087vv; title 26 sections 135, 6334.
+This chapter is referred to in sections 3018A, 3018B, 3018C, 3033, 3485, 3674, 3680A, 3681, 3684A, 3688, 3690, 3692, 3693, 3695, 3697, 3697A, 5113, 5303A of this title; title 20 section 1087vv; title 26 sections 25A, 135, 6334; title 29 section 2913.
 
 
 ---

@@ -26,7 +26,7 @@ July 15, 1952, ch. 758, ch. XIV, §1407, 66 Stat. 660.
 
 Nov. 1, 1951, ch. 664, ch. XIII, §1307, 65 Stat. 756.
 
-Sept. 6, 1950, ch. 869, title XII, §1207, 64 Stat. 764.
+Sept. 6, 1950, ch. 896, title XII, §1207, 64 Stat. 764.
 
 Aug. 24, 1949, ch. 506, title III, §307, 63 Stat. 662.
 

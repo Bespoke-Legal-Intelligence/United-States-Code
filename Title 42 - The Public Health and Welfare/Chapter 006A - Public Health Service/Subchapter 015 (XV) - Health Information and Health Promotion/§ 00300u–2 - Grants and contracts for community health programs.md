@@ -14,13 +14,13 @@ The Secretary is authorized to conduct and support by grant or contract (and enc
 
 #### (b) Grants to States and other public and nonprofit private entities; costs of demonstrating and evaluating programs; development of models
 
-The Secretary is authorized to make grants to States and other public and nonprofit private entities to assist them in meeting the costs of demonstrating and evaluating programs which provide information respecting the costs and quality of health care or information respecting health insurance policies and prepaid health plans, or information respecting both. After the development of models pursuant to section 300u–3(4) and 300u–3(5) of this title for such information, no grant may be made under this subsection for a program unless the information tobe provided under the program is provided in accordance with one of such models applicable to the information.
+The Secretary is authorized to make grants to States and other public and nonprofit private entities to assist them in meeting the costs of demonstrating and evaluating programs which provide information respecting the costs and quality of health care or information respecting health insurance policies and prepaid health plans, or information respecting both. After the development of models pursuant to section 300u–3(4) and 300u–3(5) of this title for such information, no grant may be made under this subsection for a program unless the information to be provided under the program is provided in accordance with one of such models applicable to the information.
 
 #### (c) Private nonprofit entities; limitation on amount of grant or contract
 
 The Secretary is authorized to support by grant or contract (and to encourage others to support) private nonprofit entities working in health information and health promotion, preventive health services, and education in the appropriate use of health care. The amount of any grant or contract for a fiscal year beginning after September 30, 1978, for an entity may not exceed 25 per centum of the expenses of the entity for such fiscal year for health information and health promotion, preventive health services, and education in the appropriate use of health care.
 
-(July 1, 1944, ch. 373, title XVII, §1703, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 697.)
+(July 1, 1944, ch. 373, title XVII, §1703, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 697.)
 
 #### Section Referred to in Other Sections
 

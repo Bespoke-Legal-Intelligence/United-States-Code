@@ -16,9 +16,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under this section, insofar as they relate to part VIII of subchapter I of this chapter (§2291 et seq. of this title) and subchapter II of this chapter (§2301 et seq. of this title) delegated to Secretary of State pursuant to section 1–201(a)(17) of Ex. Ord. No. 12163.
+Functions of President under this section, insofar as they relate to part VIII of subchapter I of this chapter (§2291 et seq. of this title) and subchapter II of this chapter (§2301 et seq. of this title) delegated to Secretary of State pursuant to section 1–201(a)(17) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

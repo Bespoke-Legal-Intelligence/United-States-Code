@@ -36,7 +36,7 @@ As used in this subchapter:
 
 &emsp;(5) The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) <sup>2</sup> of this title).
 
-(Oct. 31, 1949, ch. 792, title VI, §602, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 926.)
+(Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926.)
 
 #### References in Text
 

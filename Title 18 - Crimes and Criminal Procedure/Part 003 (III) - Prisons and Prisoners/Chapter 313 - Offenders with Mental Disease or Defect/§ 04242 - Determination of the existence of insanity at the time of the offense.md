@@ -6,7 +6,7 @@ Motion for Pretrial Psychiatric or Psychological Examination.—Upon the filing 
 
 (b)
 
-Special Verdict.—If the issue of insanity is raised by notice as provided in Rule 12.2 of the Federal Rules of Criminal Procedure on motion of the defendant or of the attorney for the Government, or on the court's own motion, the juryshall be instructed to find, or, in the event of a nonjury trial, the court shall find the defendant—
+Special Verdict.—If the issue of insanity is raised by notice as provided in Rule 12.2 of the Federal Rules of Criminal Procedure on motion of the defendant or of the attorney for the Government, or on the court's own motion, the jury shall be instructed to find, or, in the event of a nonjury trial, the court shall find the defendant—
 
 &emsp;(1) guilty;
 
@@ -14,7 +14,7 @@ Special Verdict.—If the issue of insanity is raised by notice as provided in R
 
 &emsp;(3) not guilty only by reason of insanity.
 
-(June 25, 1948, ch. 645, 62 Stat. 855; Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2059.)
+(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2059.)
 
 #### Historical and Revision Notes
 

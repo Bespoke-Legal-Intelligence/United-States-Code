@@ -16,7 +16,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 #### (c) Periods when not in service
 
-In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegation and proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
+In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegationand proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
 
 #### (d) Residence requirements
 
@@ -24,9 +24,9 @@ The applicant shall comply with the requirements of section 1427(a) of this titl
 
 #### (e) Moral character
 
-Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during such service, shall be proved by duly authenticated copies of the records of the executive departments havingcustody of the records of such service, and such authenticated copies of records shall be accepted in lieu of compliance with the provisions of section 1427(a) of this title.
+Any such period or periods of service under honorable conditions, and good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during such service, shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service, and such authenticated copies of records shall be accepted in lieu of compliance with the provisions of section 1427(a) of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Oct. 24, 1968, Pub. L. 90–633, §5, 82 Stat. 1344; Dec. 29, 1981, Pub. L. 97–116, §15(e), 95 Stat. 1619; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), 104 Stat. 5040–5042; Dec. 12, 1991, Pub. L. 102–232, title III, §305(c), 105 Stat. 1750.)
+(June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat. 1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750.)
 
 #### Amendments
 

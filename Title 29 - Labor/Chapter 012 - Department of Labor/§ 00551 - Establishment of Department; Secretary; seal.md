@@ -30,7 +30,7 @@ A Department of Labor under the charge of a Commissioner of Labor was first esta
 
 #### Order of Succession
 
-For order of succession in case of absence, sickness, resignation, or death of Secretary and Under Secretary, see Ex. Ord. No. 10513, Jan. 19, 1954, 19 F.R. 369, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in case of absence, sickness, resignation, or death of Secretary and Under Secretary, see Ex. Ord. No. 10513, Jan. 19, 1954, 19 F.R. 369, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Compensation of Secretary
 

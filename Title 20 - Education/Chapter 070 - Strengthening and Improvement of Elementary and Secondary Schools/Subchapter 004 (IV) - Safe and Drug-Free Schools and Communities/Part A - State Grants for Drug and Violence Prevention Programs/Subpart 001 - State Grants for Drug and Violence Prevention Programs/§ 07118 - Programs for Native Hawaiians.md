@@ -6,7 +6,7 @@ From the funds made available pursuant to section 7111(a)(4) <sup>1</sup> of th
 
 #### (b) “Native Hawaiian” defined
 
-For the purposes of this section, the term “Native Hawaiian” means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
+For the purposes of this section, the term “Native Hawaiian” means any individual any ofwhose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
 
 (Pub. L. 89–10, title IV, §4118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3685.)
 

@@ -46,6 +46,10 @@ Subsec. (a)(4). Pub. L. 96–482, §23(3), required House Committee on House Adm
 
 Subsec. (b). Pub. L. 95–609, §7(<i>o</i>)(3), substituted “Administrator” for “Secretary”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Transfer of Functions
 
 For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.

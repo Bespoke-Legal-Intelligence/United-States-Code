@@ -93,7 +93,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 824k, 831ee of this title; title 7 section 904; title 20 section 7702; title 28 section 1491; title 33 sections 558b, 558c.
+This chapter is referred to in sections 460<i>lll</i>–49, 824k, 831ee of this title; title 7 section 904; title 20 section 7702; title 28 section 1491; title 33 sections 558b, 558c.
 
 
 ---

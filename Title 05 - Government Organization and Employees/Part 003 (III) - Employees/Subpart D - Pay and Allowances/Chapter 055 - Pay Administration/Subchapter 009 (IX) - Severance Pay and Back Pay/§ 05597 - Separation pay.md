@@ -86,6 +86,82 @@ Section 1612(b) of Pub. L. 104–201 provided that: “The amendment made by sub
 
 #### Voluntary Separation Incentives
 
+Pub. L. 105–206, title I, §1202, July 22, 1998, 112 Stat. 719, provided that:
+
+“(a)
+
+Definition.—In this section, the term ‘employee’ means an employee (as defined by section 2105 of title 5, United States Code) who is employed by the Internal Revenue Service serving under an appointment without time limitation, and has been currently employed for a continuous period of at least 3 years, but does not include—
+
+&emsp;“(1) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system;
+
+&emsp;“(2) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under the applicable retirement system referred to in paragraph (1);
+
+&emsp;“(3) an employee who is in receipt of a specific notice of involuntary separation for misconduct or unacceptable performance;
+
+&emsp;“(4) an employee who, upon completing an additional period of service as referred to in section 3(b)(2)(B)(ii) of the Federal Workforce Restructuring Act of 1994 \[Pub. L. 103–226\] (5 U.S.C. 5597 note), would qualify for a voluntary separation incentive payment under section 3 of such Act;
+
+&emsp;“(5) an employee who has previously received any voluntary separation incentive payment by the Federal Government under this section or any other authority and has not repaid such payment;
+
+&emsp;“(6) an employee covered by statutory reemployment rights who is on transfer to another organization; or
+
+&emsp;“(7) any employee who, during the 24-month period preceding the date of separation, has received a recruitment or relocation bonus under section 5753 of title 5, United States Code, or who, within the 12-month period preceding the date of separation, received a retention allowance under section 5754 of title 5, United States Code.
+
+“(b)
+
+Authority To Provide Voluntary Separation Incentive Payments.—
+
+&emsp;“(1)
+
+In general.—The Commissioner of Internal Revenue may pay voluntary separation incentive payments under this section to any employee to the extent necessary to carry out the plan to reorganize the Internal Revenue Service under section 1001 \[26 U.S.C. 7801 note\].
+
+&emsp;“(2)
+
+Amount and treatment of payments.—A voluntary separation incentive payment—
+
+&emsp;&emsp;“(A) shall be paid in a lump sum after the employee's separation;
+
+&emsp;&emsp;“(B) shall be paid from appropriations or funds available for the payment of the basic pay of the employees;
+
+&emsp;&emsp;“(C) shall be equal to the lesser of—
+
+&emsp;&emsp;&emsp;“(i) an amount equal to the amount the employee would be entitled to receive under section 5595(c) of title 5, United States Code; or
+
+&emsp;&emsp;&emsp;“(ii) an amount determined by an agency head not to exceed $25,000;
+
+&emsp;&emsp;“(D) may not be made except in the case of any qualifying employee who voluntarily separates (whether by retirement or resignation) before January 1, 2003;
+
+&emsp;&emsp;“(E) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit; and
+
+&emsp;&emsp;“(F) shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595 of title 5, United States Code, based on any other separation.
+
+“(c)
+
+Additional Internal Revenue Service Contributions to the Retirement Fund.—
+
+&emsp;“(1)
+
+In general.—In addition to any other payments which it is required to make under subchapter III of chapter 83 of title 5, United States Code, the Internal Revenue Service shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
+
+&emsp;“(2)
+
+Definition.—In paragraph (1), the term ‘final basic pay’, with respect to an employee, means the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate of basic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
+
+“(d)
+
+Effect of Subsequent Employment With the Government.—An individual who has received a voluntary separation incentive payment under this section and accepts any employment for compensation with the Government of the United States, or who works for any agency of the United States Government through a personal services contract, within 5 years after the date of the separation on which the payment is based shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment to the Internal Revenue Service.
+
+“(e)
+
+Effect on Internal Revenue Service Employment Levels.—
+
+&emsp;“(1)
+
+Intended effect.—Voluntary separations under this section are not intended to necessarily reduce the total number of full-time equivalent positions in the Internal Revenue Service.
+
+&emsp;“(2)
+
+Use of voluntary separations.—The Internal Revenue Service may redeploy or use the full-time equivalent positions vacated by voluntary separations under this section to make other positions available to more critical locations or more critical occupations.”
+
 Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, as amended by Pub. L. 105–78, title V, §517, Nov. 13, 1997, 111 Stat. 1519, provided that:
 
 “(a)
@@ -134,7 +210,7 @@ Authority To Provide Voluntary Separation Incentive Payments.—
 
 &emsp;“(1)
 
-In general.—A voluntary separation incentive payment under this section may be paid by an agencyto any employee only to the extent necessary to eliminate the positions and functions identified by the strategic plan.
+In general.—A voluntary separation incentive payment under this section may be paid by an agency to any employee only to the extent necessary to eliminate the positions and functions identified by the strategic plan.
 
 &emsp;“(2)
 
@@ -188,6 +264,16 @@ Enforcement.—The President, through the Office of Management and Budget, shall
 
 Effective Date.—This section shall take effect October 1, 1996.”
 
+Pub. L. 105–261, div. C, title XXXI, §3156, Oct. 17, 1998, 112 Stat. 2257, provided that:
+
+“(a)
+
+Extension.—Notwithstanding subsection (c)(2)(D) of section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (Public Law 104–208; 110 Stat. 3009–383; 5 U.S.C. 5597 note), the Department of Energy may pay voluntary separation incentive payments to qualifying employees who voluntarily separate (whether by retirement or resignation) before January 1, 2001.
+
+“(b)
+
+Exercise of Authority.—The Department shall pay voluntary separation incentive payments under subsection (a) in accordance with the provisions of such section 663.”
+
 Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, provided that:
 
 “(a)
@@ -218,7 +304,7 @@ Agency Strategic Plan.—
 
 &emsp;“(1)
 
-In general.—The head of each agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
+In general.—The head of each agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
 
 &emsp;“(2)
 
@@ -256,7 +342,7 @@ Amount and treatment of payments.—A voluntary separation incentive payment—
 
 &emsp;&emsp;“(E) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit; and
 
-&emsp;&emsp;“(F) shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595 of title 5, United States Code, based on any other separation.
+&emsp;&emsp;“(F) shall not be taken into account in determining the amount of any severance pay to which theemployee may be entitled under section 5595 of title 5, United States Code, based on any other separation.
 
 “(d)
 
@@ -500,7 +586,7 @@ Reduction of Agency Employment Levels.—
 
 “(i)
 
-Reports.—No later than March 31 of each fiscal year, NASA shall submit to the Office of Personnel Management, who will subsequently report to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives a report which, with respect to the preceding fiscal year, shall include—
+Reports.—No later than March 31 of each fiscal year, NASA shall submit to the Office of Personnel Management, who will subsequently report to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives a report which, with respect to the preceding fiscal year, shall include—
 
 &emsp;“(1) the number of employees who received voluntary separation incentives;
 
@@ -648,7 +734,7 @@ Agency Strategic Plan.—
 
 &emsp;“(1)
 
-In general.—The head of the agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
+In general.—The head of the agency, prior to obligating any resources for voluntary separation incentive payments, shall submit to the House and Senate Committees on Appropriations and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives a strategic plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
 
 &emsp;“(2)
 
@@ -858,7 +944,7 @@ Section 6 of Pub. L. 103–226 provided that: “No later than December 31st of 
 
 &emsp;“(B) the title and the grade or pay level of the position filled by the employee to whom such waiver applied.”
 
-\[Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.\]
+\[Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.\]
 
 #### Source of Payments
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations to Secretary of Agriculture
 
-There are authorized to be appropriated to the Secretary of Agriculture such sums as are necessary to carry out this subchapter in each of the fiscal years 1991 through 1997.
+There are authorized to be appropriated to the Secretary of Agriculture such sums as are necessary to carry out this subchapter in each of the fiscal years 1991 through 2002.
 
 #### (b) Administration and management
 
@@ -16,9 +16,11 @@ Notwithstanding any other provision of this subchapter the authority to enter in
 
 Notwithstanding any other provision of this subchapter, the Secretaries and the Joint Commission shall limit their activities under this subchapter to critical agricultural materials other than native latex after the close of the fiscal year ending September 30, 1988.
 
-(Pub. L. 95–592, §16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, §15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, §1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §881(b), Apr. 4, 1996, 110 Stat. 1175.)
+(Pub. L. 95–592, §16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, §15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, §1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §881(b), Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title III, §301(c), June 23, 1998, 112 Stat. 563.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–185 substituted “2002” for “1997”.
 
 1996—Subsec. (a). Pub. L. 104–127 substituted “1997” for “1995”.
 

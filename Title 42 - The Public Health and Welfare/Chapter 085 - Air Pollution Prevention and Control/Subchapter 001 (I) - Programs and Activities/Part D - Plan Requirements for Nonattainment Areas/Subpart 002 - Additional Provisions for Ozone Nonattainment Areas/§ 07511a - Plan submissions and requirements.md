@@ -14,7 +14,7 @@ Each State in which all or part of a Marginal Area is located shall, with respec
 
 #### (A) Reasonably available control technology corrections
 
-&emsp;&emsp;For any Marginal Area (or, within the Administrator's discretion, portion thereof) the State shall submit, within 6 months of the date of classification under section 7511(a) of this title, a revision that includes such provisions to correct requirements in (or add requirements to) the plan concerning reasonably available control technology as were required under section 7502(b) of this title (as in effect immediately before November 15, 1990), as interpreted in guidance issued bythe Administrator under section 7408 of this title before November 15, 1990.
+&emsp;&emsp;For any Marginal Area (or, within the Administrator's discretion, portion thereof) the State shall submit, within 6 months of the date of classification under section 7511(a) of this title, a revision that includes such provisions to correct requirements in (or add requirements to) the plan concerning reasonably available control technology as were required under section 7502(b) of this title (as in effect immediately before November 15,1990), as interpreted in guidance issued by the Administrator under section 7408 of this title before November 15, 1990.
 
 #### (B) Savings clause for vehicle inspection and maintenance
 
@@ -372,7 +372,7 @@ Each State containing an ozone nonattainment area reclassified under section 751
 
 &emsp;If any State in which there is located a portion of a multi-State ozone nonattainment area fails to provide a demonstration of attainment of the national ambient air quality standard for ozone in that portion within the required period, the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions and requirements for ozone nonattainment areas). If the Administrator makes such finding, the provisions of section 7509 of this title (relating to sanctions) shall not apply, by reason of the failure to make such demonstration, in the portion of the multi-State ozone nonattainment area within the State submitting such petition.
 
-(July 14, 1955, ch. 360, title I, §182, as added Nov. 15, 1990, Pub. L. 101–549, title I, §103, 104 Stat. 2426; amended Dec. 23, 1995, Pub. L. 104–70, §1, 109 Stat. 773.)
+(July 14, 1955, ch. 360, title I, §182, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2426; amended Pub. L. 104–70, §1, Dec. 23, 1995, 109 Stat. 773.)
 
 #### References in Text
 

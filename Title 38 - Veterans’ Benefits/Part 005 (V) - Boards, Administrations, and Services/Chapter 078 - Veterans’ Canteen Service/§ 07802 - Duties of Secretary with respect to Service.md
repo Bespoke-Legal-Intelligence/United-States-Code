@@ -74,5 +74,5 @@ Section 2 of Pub. L. 86–109 provided that: “This Act \[amending this section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 5102; title 10 section 1599c.
+This section is referred to in title 5 sections 2302, 5102.
 

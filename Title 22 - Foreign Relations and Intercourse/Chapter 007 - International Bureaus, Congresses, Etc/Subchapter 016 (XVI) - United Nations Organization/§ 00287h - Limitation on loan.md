@@ -1,6 +1,6 @@
 ### §287h. Limitation on loan
 
-The total amount of money that may be loaned to the United Nations pursuant to theauthorization contained in section 287g of this title shall not exceed the aggregate amount of loans made by other nations.
+The total amount of money that may be loaned to the United Nations pursuant to the authorization contained in section 287g of this title shall not exceed the aggregate amount of loans made by other nations.
 
 (Pub. L. 87–731, §2, Oct. 2, 1962, 76 Stat. 695.)
 

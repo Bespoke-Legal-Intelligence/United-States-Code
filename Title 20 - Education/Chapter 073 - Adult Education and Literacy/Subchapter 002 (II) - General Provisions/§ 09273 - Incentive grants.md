@@ -1,0 +1,50 @@
+### §9273. Incentive grants
+
+#### (a) In general
+
+Beginning on July 1, 2000, the Secretary shall award a grant to each State that exceeds the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the adjusted levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 88–210 (as amended; 20 U.S.C. 2301 et seq.), for the purpose of carrying out an innovative program consistent with the requirements of any one or more of the programs within title I, title II, or such Public Law, respectively.
+
+#### (b) Application
+
+#### (1) In general
+
+&emsp;The Secretary may provide a grant to a State under subsection (a) of this section only if the State submits an application to the Secretary for the grant that meets the requirements of paragraph (2).
+
+#### (2) Requirements
+
+&emsp;The Secretary may review an application described in paragraph (1) only to ensure that the application contains the following assurances:
+
+&emsp;&emsp;(A) The legislature of the State was consulted with respect to the development of the application.
+
+&emsp;&emsp;(B) The application was approved by the Governor, the eligible agency (as defined in section 9202 of this title), and the State agency responsible for programs established under Public Law 88–210 (as amended; 20 U.S.C. 2301 et seq.).
+
+&emsp;&emsp;(C) The State and the eligible agency, as appropriate, exceeded the State adjusted levels of performance for title I \[29 U.S.C. 2801 et seq.\], the expected levels of performance for title II \[20 U.S.C. 9201 et seq.\], and the levels of performance for programs under Public Law 88–210 (as amended; 20 U.S.C. 2301 et seq.).
+
+#### (c) Amount
+
+#### (1) Minimum and maximum grant amounts
+
+&emsp;Subject to paragraph (2), a grant provided to a State under subsection (a) of this section shall be awarded in an amount that is not less than $750,000 and not more than $3,000,000.
+
+#### (2) Proportionate reduction
+
+&emsp;If the amount available for grants under this section for a fiscal year is insufficient to award a grant to each State or eligible agency that is eligible for a grant, the Secretary shall reduce the minimum and maximum grant amount by a uniform percentage.
+
+(Pub. L. 105–220, title V, §503, Aug. 7, 1998, 112 Stat. 1244; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(f)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
+
+#### References in Text
+
+Title I, referred to in subsecs. (a) and (b)(2)(C), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
+
+Title II, referred to in subsecs. (a) and (b)(2)(C), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of this chapter. For complete classification of title II to the Code, see Short Title note set out under section 9201 of this title and Tables.
+
+Public Law 88–210, referred to in subsecs. (a) and (b)(2)(B), (C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, known as the Carl D. Perkins Vocational and Technical Education Act of 1998, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 substituted “adjusted” for “expected” before “levels of performance for title II”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2321, 9211 of this title.
+

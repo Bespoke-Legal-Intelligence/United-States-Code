@@ -2,7 +2,7 @@
 
 #### (a) Amounts; availability of funds
 
-(1) To carry out the purposes of this subchapter (other than parts D, E, F, G, H, and I) there are authorized to be appropriated $150,000,000 for fiscal years 1993, 1994, 1995, and 1996. Funds appropriated for any fiscal year shall remain available for obligation until expended.
+(1) To carry out the purposes of this subchapter (other than parts D, E, F, G, H, and I) there are authorized to be appropriated$150,000,000 for fiscal years 1993, 1994, 1995, and 1996. Funds appropriated for any fiscal year shall remain available for obligation until expended.
 
 (2)(A) Subject to subparagraph (B), to carry out part D of this subchapter, there are authorized to be appropriated—
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of law, the Administrator shall—
 
 #### (d) Experimentation on individuals; prohibition; “behavior control” defined
 
-No funds appropriated to carry out the purposes of this subchapter may be used for any bio-medical or behavior control experimentation on individuals or any research involving such experimentation. For the purpose of this subsection, the term “behavior control” refers to experimentation or research employing methods which involve a substantial risk of physical or psychological harm to the individual subject and which are intended to modify or alter criminal and other anti-social behavior, including aversive conditioning therapy, drug therapy or chemotherapy (except as part of routine clinical care), physical therapy of mental disorders, electroconvulsive therapy, or physical punishment. The term does not apply to a limited class of programs generally recognized as involving nosuch risk, including methadone maintenance and certain alcohol treatment programs, psychological counseling, parent training, behavior contracting, survival skills training, restitution, or community service, if safeguards are established for the informed consent of subjects (including parents or guardians of minors).
+No funds appropriated to carry out the purposes of this subchapter may be used for any bio-medical or behavior control experimentation on individuals or any research involving such experimentation. For the purpose of this subsection, the term “behavior control” refers to experimentation or research employing methods which involve a substantial risk of physical or psychological harm to the individual subject and which are intended to modify or alter criminal and other anti-social behavior, including aversive conditioning therapy, drug therapy orchemotherapy (except as part of routine clinical care), physical therapy of mental disorders, electroconvulsive therapy, or physical punishment. The term does not apply to a limited class of programs generally recognized as involving no such risk, including methadone maintenance and certain alcohol treatment programs, psychological counseling, parent training, behavior contracting, survival skills training, restitution, or community service, if safeguards are established for the informed consent of subjects (including parents or guardians of minors).
 
 #### (e) Reservation for previously unfunded special emphasis prevention and treatment programs
 

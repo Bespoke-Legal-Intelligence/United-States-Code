@@ -10,35 +10,19 @@
 
 #### (A) Time-limited exception for refugees and asylees
 
-#### (i) SSI
+&emsp;&emsp;With respect to the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien until 7 years after the date—
 
-&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A), paragraph (1) shall not apply to an alien until 7 years after the date—
+&emsp;&emsp;&emsp;(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
 
-&emsp;&emsp;&emsp;&emsp;(I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
+&emsp;&emsp;&emsp;(ii) an alien is granted asylum under section 208 of such Act \[8 U.S.C. 1158\];
 
-&emsp;&emsp;&emsp;&emsp;(II) an alien is granted asylum under section 208 of such Act \[8 U.S.C. 1158\];
+&emsp;&emsp;&emsp;(iii) an alien's deportation is withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208);
 
-&emsp;&emsp;&emsp;&emsp;(III) an alien's deportation is withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208);
+&emsp;&emsp;&emsp;(iv) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-&emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-
-&emsp;&emsp;&emsp;&emsp;(V) an alien is admitted to the United States as an Amerasian immigrant pursuant to section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 (as contained in section 101(e) of Public Law 100–202 and amended by the 9th proviso under
+&emsp;&emsp;&emsp;(v) an alien is admitted to the United States as an Amerasian immigrant pursuant to section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 (as contained in section 101(e) of Public Law 100–202 and amended by the 9th proviso under
 
 migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, as amended).
-
-#### (ii) Food stamps
-
-&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to an alien until 5 years after the date—
-
-&emsp;&emsp;&emsp;&emsp;(I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
-
-&emsp;&emsp;&emsp;&emsp;(II) an alien is granted asylum under section 208 of such Act \[8 U.S.C. 1158\];
-
-&emsp;&emsp;&emsp;&emsp;(III) an alien's deportation is withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208);
-
-&emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
-
-&emsp;&emsp;&emsp;&emsp;(V) an alien is admitted to the United States as an Amerasian immigrant as described in clause (i)(V).
 
 #### (B) Certain permanent resident aliens
 
@@ -98,15 +82,17 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (F) Disabled aliens lawfully residing in the United States on August 22, 1996
 
-&emsp;&emsp;With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to an alien who—
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien who—
 
 &emsp;&emsp;&emsp;(i) was lawfully residing in the United States on August 22, 1996; and
 
-&emsp;&emsp;&emsp;(ii) is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act \[42 U.S.C. 1382c(a)(2), (3)\].
+&emsp;&emsp;&emsp;(ii)(I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act \[42 U.S.C. 1382c(a)(2), (3)\]; and
 
-#### (G) SSI exception for certain Indians
+&emsp;&emsp;&emsp;(II) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(r) of the Food Stamp Act of 1977 (7 U.S.C. 2012(r))).
 
-&emsp;&emsp;With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), section 1611(a) of this title and paragraph (1) shall not apply to any individual—
+#### (G) Exception for certain Indians
+
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), section 1611(a) of this title and paragraph (1) shall not apply to any individual—
 
 &emsp;&emsp;&emsp;(i) who is an American Indian born in Canada to whom the provisions of section 289 of the Immigration and Nationality Act (8 U.S.C. 1359) apply; or
 
@@ -119,6 +105,36 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 &emsp;&emsp;&emsp;(i) who is receiving benefits under such program for months after July 1996 on the basis of an application filed before January 1, 1979; and
 
 &emsp;&emsp;&emsp;(ii) with respect to whom the Commissioner of Social Security lacks clear and convincing evidence that such individual is an alien ineligible for such benefits as a result of the application of this section.
+
+#### (I) Food stamp exception for certain elderly individuals
+
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996—
+
+&emsp;&emsp;&emsp;(i) was lawfully residing in the United States; and
+
+&emsp;&emsp;&emsp;(ii) was 65 years of age or older.
+
+#### (J) Food stamp exception for certain children
+
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who—
+
+&emsp;&emsp;&emsp;(i) was lawfully residing in the United States on August 22, 1996; and
+
+&emsp;&emsp;&emsp;(ii) is under 18 years of age.
+
+#### (K) Food stamp exception for certain Hmong and Highland Laotians
+
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to—
+
+&emsp;&emsp;&emsp;(i) any individual who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is lawfully residing in the United States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) was a member of a Hmong or Highland Laotian tribe at the time that the tribe rendered assistance to United States personnel by taking part in a military or rescue operation during the Vietnam era (as defined in section 101 of title 38);
+
+&emsp;&emsp;&emsp;(ii) the spouse, or an unmarried dependent child, of such an individual; or
+
+&emsp;&emsp;&emsp;(iii) the unremarried surviving spouse of such an individual who is deceased.
 
 #### (3) “Specified Federal program” defined
 
@@ -156,11 +172,11 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>1</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) of this section until 5 years after the date of such alien's entry into the United States.
+&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>1</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>2</sup> of this section until 5 years after the date of such alien's entry into the United States.
 
 #### (ii) Other designated Federal programs
 
-&emsp;&emsp;&emsp;With respect to the designated Federal programs under paragraph (3) (other thansubparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date—
+&emsp;&emsp;&emsp;With respect to the designated Federal programs under paragraph (3) (other than subparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date—
 
 &emsp;&emsp;&emsp;&emsp;(I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
 
@@ -170,7 +186,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>1</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) of this section until 5 years after the date of such alien's entry into the United States.
+&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>1</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>2</sup> of this section until 5 years after the date of such alien's entry into the United States.
 
 #### (B) Certain permanent resident aliens
 
@@ -218,19 +234,19 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579.)
 
 #### References in Text
 
-Section 243 of such Act, referred to in subsecs. (a)(2)(A)(i)(III), (ii)(III) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(i)(IV), (ii)(IV) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
-Section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as contained in section 101(e) of Public Law 100–202, referred to in subsec. (a)(2)(A)(i)(V), is section 101(e) \[title V, §584\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–183, as amended, which is set out as an Amerasian Immigration note under section 1101 of this title.
+Section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as contained in section 101(e) of Public Law 100–202, referred to in subsec. (a)(2)(A)(v), is section 101(e) \[title V, §584\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–183, as amended, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
 The 9th proviso under
 
-migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(i)(V), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, as amended, which is set out as an Amerasian Immigration note under section 1101 of this title.
+migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, as amended, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
@@ -240,7 +256,23 @@ The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), is Pub. L. 
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (a)(3)(A), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
+Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(V), (ii)(V), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, §503(2), (3), June 23, 1998, 112 Stat. 578.
+
 #### Amendments
+
+1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) whichrelated to eligibility of certain aliens for the food stamp program.
+
+Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+
+Subsec. (a)(2)(F)(ii). Pub. L. 105–185, §504(2), designated existing provisions as subcl. (I), inserted “in the case of the specified Federal program described in paragraph (3)(A),” before “is blind”, substituted “; and” for period at end, and added subcl. (II).
+
+Subsec. (a)(2)(G). Pub. L. 105–185, §505, substituted “Exception” for “SSI exception” in subpar. heading and “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+
+Subsec. (a)(2)(I). Pub. L. 105–185, §506, added subpar. (I).
+
+Subsec. (a)(2)(J). Pub. L. 105–185, §507, added subpar. (J).
+
+Subsec. (a)(2)(K). Pub. L. 105–185, §508, added subpar. (K).
 
 1997—Subsec. (a)(2)(A). Pub. L. 105–33, §5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to an alien until 5 years after the date—
 
@@ -308,6 +340,10 @@ Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
 1996—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.”
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 503 through 509 \[amending this section and section 1613 of this title\] take effect on November 1, 1998.”
+
 #### Effective Date of 1997 Amendments
 
 Section 5308 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
@@ -322,7 +358,9 @@ Section 510 of div. C of Pub. L. 104–208 provided that the amendment made by t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1613, 1614, 1622, 1646 of this title; title 7 section 2016; title 42 sections 608, 609.
+This section is referred to in sections 1611, 1613, 1614, 1622, 1646 of this title; title 7 section 2016.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “alien is”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

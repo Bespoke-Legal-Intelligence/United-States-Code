@@ -18,7 +18,7 @@ As used in this chapter, the term—
 
 &emsp;(8) “affiliate” means a business enterprise located in one country which is directly or indirectly owned or controlled by a person of another country to the extent of 10 per centum or more of its voting stock for an incorporated business or an equivalent interest for an unincorporated business, including a branch;
 
-&emsp;(9) “international investment” means (A) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by foreign persons of any interest in property in the United States, or of stock,other securities, or short- and long-term debt obligations of a United States person, and (B) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by United States persons of any interest in property outside the United States, or of stock, other securities, or short-and long-term debt obligations of a foreign person;
+&emsp;(9) “international investment” means (A) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by foreign persons of any interest in property in the United States, or of stock, other securities, or short- and long-term debt obligations of a United States person, and (B) the ownership or control, directly or indirectly, by contractual commitment or otherwise, by United States persons of any interest in property outside the United States, or of stock, other securities, or short-and long-term debt obligations of a foreign person;
 
 &emsp;(10) “direct investment” means the ownership or control, directly or indirectly, by one person of 10 per centum or more of the voting securities of an incorporated business enterprise or an equivalent interest in an unincorporated business enterprise; and
 

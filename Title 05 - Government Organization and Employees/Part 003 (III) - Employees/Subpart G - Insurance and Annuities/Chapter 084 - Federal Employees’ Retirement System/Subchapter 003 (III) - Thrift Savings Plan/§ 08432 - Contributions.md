@@ -22,7 +22,7 @@
 
 (B) Notwithstanding subsection (a), the maximum amount that an employee or Member may contribute during any pay period which begins on or after April 1, 1987, and before October 1, 1987, pursuant to an election made during the election period provided under subparagraph (A) is the amount equal to 15 percent of such individual's basic pay for such pay period.
 
-(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after theend of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
+(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
 
 (B) In the case of each employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the total basic pay paid to such employee or Member for that period of service.
 
@@ -42,7 +42,7 @@
 
 &emsp;(i) such portion of the total amount of the employee's or Member's contribution as does not exceed 3 percent of such employee's or Member's basic pay for such period; and
 
-&emsp;(ii) one-half of such portion of the amount of the employee's or Member's contribution as exceeds 3 percent, but does not exceed 5 percent, of such employee's or Member's basic pay for such pay period.
+&emsp;(ii) one-half of such portion of the amount of the employee's or Member's contribution asexceeds 3 percent, but does not exceed 5 percent, of such employee's or Member's basic pay for such pay period.
 
 (C) Notwithstanding subparagraph (B), the amount contributed under subparagraph (A) by an employing agency with respect to any contribution made by an employee or Member during any pay period which begins after the date on which such employee or Member makes an election under subsection (b)(4) and before July 1, 1987, shall be the amount equal to the sum of—
 
@@ -72,7 +72,7 @@
 
 (e) The sums required to be contributed to the Thrift Savings Fund by an employing agency under subsection (c) for the benefit of an employee or Member shall be paid from the appropriation or fund available to such agency for payment of salaries of the employee's or Member's office or establishment. When an employee or Member in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee or Member.
 
-(f) Amounts contributed by an employee or Member under subsection (a) and amounts contributed with respect to such employee or Member under subsection (c) shall be deposited in the Thrift Savings Fund to the credit of that employee's or Member's account in accordancewith such procedures as the Secretary of the Treasury may, in consultation with the Executive Director, prescribe in regulations.
+(f) Amounts contributed by an employee or Member under subsection (a) and amounts contributed with respect to such employee or Member under subsection (c) shall be deposited in the Thrift Savings Fund to the credit of that employee's or Member's account in accordance with such procedures as the Secretary of the Treasury may, in consultation with the Executive Director, prescribe in regulations.
 
 (g)(1) Except as otherwise provided in this subsection, all contributions made under this section shall be fully nonforfeitable when made.
 
@@ -140,7 +140,7 @@ Subsec. (g)(1). Pub. L. 100–238, §115(1), substituted “Except as otherwise 
 
 Subsec. (g)(4). Pub. L. 100–238, §115(2), added par. (4).
 
-1987—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by theExecutive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
+1987—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
 
 1986—Subsec. (b)(4). Pub. L. 99–509, §6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
 
@@ -230,7 +230,7 @@ Section 6001(c) of Pub. L. 99–509 provided that the requirement that contribut
 
 #### Plan for Delayed Contributions to Thrift Savings Fund
 
-Section 312 of Pub. L. 99–335 directed Executive Director of Federal Retirement Thrift Investment Board totransmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
+Section 312 of Pub. L. 99–335 directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
 
 #### Section Referred to in Other Sections
 

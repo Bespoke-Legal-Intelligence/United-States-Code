@@ -18,6 +18,10 @@ Functions of Farm Credit Administration and Governor thereof under this chapter,
 
 Farm Credit Administration transferred to Department of Agriculture by Reorg. Plan No. I of 1939, §401, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–219, §1(a), Aug. 7, 1998, 112 Stat. 913, provided that: “This Act \[enacting sections 1757a and 1790d of this title, amending sections 1752a, 1759, 1782, and 1784 to 1787 of this title, repealing section 1762 of this title, and enacting provisions set out as notes under this section and sections 1752a, 1757a, 1759, 1790d, 4801, and 4803 of this title\] may be cited as the ‘Credit Union Membership Access Act’.”
+
 #### Short Title of 1987 Amendment
 
 Pub. L. 100–86, title VII, §701, Aug. 10, 1987, 101 Stat. 652, provided that: “This title \[enacting section 1772c of this title and amending sections 1757, 1761a, 1761b, 1764, 1766, 1767, and 1786 to 1788 of this title and sections 45, 46, and 57a of Title 15, Commerce and Trade\] may be cited as the ‘Credit Union Amendments of 1987’.”
@@ -25,6 +29,20 @@ Pub. L. 100–86, title VII, §701, Aug. 10, 1987, 101 Stat. 652, provided that:
 #### Short Title of 1978 Amendment
 
 Pub. L. 95–630, title XVIII, §1801, Nov. 10, 1978, 92 Stat. 3719, provided that: “This title \[enacting subchapter III of this chapter and amending section 1757 of this title, section 709 of Title 18, Crimes and Criminal Procedure, and section 856 of former Title 31, Money and Finance\] may be cited as the ‘National Credit Union Central Liquidity Facility Act’.”
+
+#### Congressional Findings
+
+Pub. L. 105–219, §2, Aug. 7, 1998, 112 Stat. 913, provided that: “The Congress finds the following:
+
+&emsp;“(1) The American credit union movement began as a cooperative effort to serve the productive and provident credit needs of individuals of modest means.
+
+&emsp;“(2) Credit unions continue to fulfill this public purpose, and current members and membership groups should not face divestiture from the financial services institution of their choice as a result of recent court action.
+
+&emsp;“(3) To promote thrift and credit extension, a meaningful affinity and bond among members, manifested by a commonality of routine interaction, shared and related work experiences, interests, or activities, or the maintenance of an otherwise well-understood sense of cohesion or identity is essential to the fulfillment of the public mission of credit unions.
+
+&emsp;“(4) Credit unions, unlike many other participants in the financial services market, are exempt from Federal and most State taxes because they are member-owned, democratically operated, not-for-profit organizations generally managed by volunteer boards of directors and because they have the specified mission of meeting the credit and savings needs of consumers, especially persons of modest means.
+
+&emsp;“(5) Improved credit union safety and soundness provisions will enhance the public benefit that citizens receive from these cooperative financial services institutions.”
 
 #### Cross References
 

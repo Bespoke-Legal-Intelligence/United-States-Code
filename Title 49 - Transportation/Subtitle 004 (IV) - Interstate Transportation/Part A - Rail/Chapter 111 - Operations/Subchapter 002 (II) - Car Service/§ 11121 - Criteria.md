@@ -1,6 +1,6 @@
 ### §11121. Criteria
 
-(a)(1) A rail carrier providing transportation subject to the jurisdiction of the Board under this part shall furnish safe and adequate car service and establish, observe, and enforce reasonable rules and practices on car service. TheBoard may require a rail carrier to provide facilities and equipment that are reasonably necessary to furnish safe and adequate car service if the Board decides that the rail carrier has materially failed to furnish that service. The Board may begin a proceeding under this paragraph when an interested person files an application with it. The Board may act only after a hearing on the record and an affirmative finding, based on the evidence presented, that—
+(a)(1) A rail carrier providing transportation subject to the jurisdiction of the Board under this part shall furnish safe and adequate car service and establish, observe, and enforce reasonable rules and practices on car service. The Board may require a rail carrier to provide facilities and equipment that are reasonably necessary to furnish safe and adequate car service if the Board decides that the rail carrier has materially failed to furnish that service. The Board may begin a proceeding under this paragraph when an interested person files an application with it. The Board may act only after a hearing on the record and an affirmative finding, based on the evidence presented, that—
 
 &emsp;(A) providing the facilities or equipment will not materially and adversely affect the ability of the rail carrier to provide safe and adequate transportation;
 
@@ -18,5 +18,5 @@
 
 #### Prior Provisions
 
-A prior section 11121, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1421; Pub. L. 96–258, §1(11), June 3, 1980, 94 Stat. 426, related to criteria of rail carriers to furnish safe and adequate car service, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+A prior section 11121, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1421; Pub. L. 96–258, §1(11), June 3, 1980, 94 Stat.426, related to criteria of rail carriers to furnish safe and adequate car service, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 

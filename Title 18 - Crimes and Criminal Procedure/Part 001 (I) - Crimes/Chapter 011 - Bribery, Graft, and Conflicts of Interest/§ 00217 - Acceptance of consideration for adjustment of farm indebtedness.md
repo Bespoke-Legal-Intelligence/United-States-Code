@@ -2,7 +2,7 @@
 
 Whoever, being an officer or employee of, or person acting for the United States or any agency thereof, accepts any fee, commission, gift, or other consideration in connection with the compromise, adjustment, or cancellation of any farm indebtedness as provided by sections 1150, 1150a, and 1150b of Title 12, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 696, §217, formerly §222; renumbered §217, Oct. 23, 1962, Pub. L. 87–849, §1(d), 76 Stat. 1125; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 696, §217, formerly §222; renumbered §217, Pub. L. 87–849, §1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

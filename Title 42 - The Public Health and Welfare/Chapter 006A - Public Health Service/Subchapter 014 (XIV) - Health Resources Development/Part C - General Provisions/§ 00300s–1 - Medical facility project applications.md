@@ -24,7 +24,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 &emsp;(H) the type of assistance being sought under part A or B for the project;
 
-&emsp;(I) reasonable assurance that all laborers and mechanics employed by contractors orsubcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act), and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 276c of title 40;
+&emsp;(I) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act), and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 276c of title 40;
 
 &emsp;(J) in the case of a project for the construction or modernization of an outpatient facility, reasonable assurance that the services of a general hospital will be available to patients at such facility who are in need of hospital care; and
 
@@ -44,7 +44,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 &emsp;(ii) for which the applicant seeks a loan under part A the principal amount of which does not exceed $20,000.
 
-(July 1, 1944, ch. 373, title XVI, §1621, as added Oct. 4, 1979, Pub. L. 96–79, title II, §202(b), 93 Stat. 633.)
+(July 1, 1944, ch. 373, title XVI, §1621, as added Pub. L. 96–79, title II, §202(b), Oct. 4, 1979, 93 Stat. 633.)
 
 #### References in Text
 

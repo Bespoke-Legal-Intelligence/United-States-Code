@@ -30,6 +30,18 @@ Waiver.—The Secretary of Defense may waive the requirements of subsection (a) 
 
 Section 716(b) of Pub. L. 102–190 provided that: “The regulations required by section 1106 of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 
+#### Establishment of Appeals Process for ClaimCheck Denials
+
+Pub. L. 105–261, div. A, title VII, §714, Oct. 17, 1998, 112 Stat. 2060, provided that:
+
+“(a)
+
+Establishment of Appeals Process.—Not later than January 1, 1999, the Secretary of Defense shall establish an appeals process in cases of denials through the ClaimCheck computer software system (or any other claims processing system that may be used by the Secretary) of claims by civilian providers for payment for health care services provided under the TRICARE program.
+
+“(b)
+
+Report.—Not later than March 1, 1999, the Secretary shall submit to Congress a report on the implementation of this section.”
+
 #### National Claims Processing System for CHAMPUS
 
 Pub. L. 102–484, div. A, title VII, §711, Oct. 23, 1992, 106 Stat. 2433, provided that:
@@ -56,7 +68,7 @@ System Functions.—The claims processing system shall include at least the foll
 
 &emsp;“(3) The ability to process, adjudicate, and pay (by electronic or other means) such claims.
 
-&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the matters referred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
+&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the mattersreferred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
 
 “(c)
 

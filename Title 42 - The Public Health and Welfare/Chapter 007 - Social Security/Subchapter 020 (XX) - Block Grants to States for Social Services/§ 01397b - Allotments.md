@@ -30,17 +30,31 @@ The amount specified for purposes of subsections (a) and (b) of this section sha
 
 &emsp;(6) $2,381,000,000 for the fiscal year 1996;
 
-&emsp;(7) $2,380,000,000 for each of the fiscal years 1997 through 2002; and
+&emsp;(7) $2,380,000,000 for the fiscal year 1997;
 
-&emsp;(8) $2,800,000,000 for the fiscal year 2003 and each succeeding fiscal year.
+&emsp;(8) $2,299,000,000 for the fiscal year 1998;
 
-(Aug. 14, 1935, ch. 531, title XX, §2003, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 868; amended Sept. 3, 1982, Pub. L. 97–248, title I, §160(b), 96 Stat. 400; Oct. 24, 1983, Pub. L. 98–135, title II, §204, 97 Stat. 861; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1883(e)(1), 100 Stat. 2919; Dec. 22, 1987, Pub. L. 100–203, title IX, §§9134(a), 9135(a)(2), 101 Stat. 1330–315; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8016, 103 Stat. 2470; Aug. 22, 1996, Pub. L. 104–193, title IX, §908(a), 110 Stat. 2350.)
+&emsp;(9) $2,380,000,000 for the fiscal year 1999;
+
+&emsp;(10) $2,380,000,000 for the fiscal year 2000; and
+
+&emsp;(11) $1,700,000,000 for the fiscal year 2001 and each fiscal year thereafter.
+
+(Aug. 14, 1935, ch. 531, title XX, §2003, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 868; amended Pub. L. 97–248, title I, §160(b), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–135, title II, §204, Oct. 24, 1983, 97 Stat. 861; Pub. L. 99–514, title XVIII, §1883(e)(1), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 100–203, title IX, §§9134(a), 9135(a)(2), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 101–239, title VIII, §8016, Dec. 19, 1989, 103 Stat. 2470; Pub. L. 104–193, title IX, §908(a), Aug. 22, 1996, 110 Stat. 2350; Pub. L. 105–178, title VIII, §8401(a), June 9, 1998, 112 Stat. 498; Pub. L. 105–277, div. A, §101(f) \[title II, §214(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–361.)
 
 #### Prior Provisions
 
 A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2343; amended Oct. 21, 1975, Pub. L. 94–120, §4(a), 89 Stat. 609; Oct. 25, 1977, Pub. L. 95–142, §3(d)(1), 91 Stat. 1179; June 9, 1980, Pub. L. 96–265, title IV, §403(b), 94 Stat. 462; June 17, 1980, Pub. L. 96–272, title II, §206(c), (d), 94 Stat. 525; Oct. 19, 1980, Pub. L. 96–473, §6(<i>l</i>), 94 Stat. 2266; Dec. 5, 1980, Pub. L. 96–499, title IX, §913(e), 94 Stat. 2620, related to State programs for social services assistance, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
+
+1998—Subsec. (c)(7). Pub. L. 105–178 added par. (7) and struck out former par. (7) which read as follows:“$2,380,000,000 for each of the fiscal years 1997 through 2002; and”.
+
+Subsec. (c)(8). Pub. L. 105–277 added par. (8) and struck out former par. (8) which read as follows: “$2,380,000,000 for the fiscal year 1998;”.
+
+Pub. L. 105–178 added par. (8) and struck out former par. (8) which read as follows: “$2,800,000,000 for the fiscal year 2003 and each succeeding fiscal year.”
+
+Subsec. (c)(9) to (11). Pub. L. 105–178 added pars. (9) to (11).
 
 1996—Subsec. (c)(5) to (8). Pub. L. 104–193 added pars. (5) to (8) and struck out former par. (5) which read as follows: “$2,800,000,000 for each fiscal year after fiscal year 1989.”
 
@@ -67,6 +81,12 @@ Subsec. (d). Pub. L. 99–514, §1883(e)(1)(A), struck out subsec. (d) which rea
 Subsec. (c)(4), (5). Pub. L. 98–135 struck out pars. (4) and (5) which provided, respectively, for an amount of $2,600,000,000 for fiscal year 1985 and $2,700,000,000 for fiscal year 1986 and succeeding fiscal years.
 
 1982—Subsec. (b). Pub. L. 97–248 inserted “(other than Puerto Rico, Guam, the Virgin Islands, and the Northern Mariana Islands)” in provisions following cl. (2).
+
+#### Effective Date of 1998 Amendments
+
+Pub. L. 105–277, div. A, §101(f) \[title II, §214(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–361, provided that: “The amendment made by this section \[amending this section\] takes effect immediately after the amendments made by section 8401 of the Transportation Equity Act for the 21st Century take effect \[Pub. L. 105–178\].”
+
+Amendment by Pub. L. 105–178 effective Oct. 1, 1998, see section 8401(c) of Pub. L. 105–178, set out as a note under section 604 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -128,7 +148,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 > for all operators, staff or employees, or prospective operators, staff or employees of child care facilities (including any facility or program having primary custody of children for 20 hours or more per week), juvenile detention, correction or treatment facilities, with the objective of protecting the children involved and promoting such children's safety and welfare while receiving service through such facilities or programs.
 
-“(B) In the case of any State not meeting the requirements of subparagraph (A) by September 30, 1985, such State's allotment for fiscal year 1986 or 1987 shall be reduced in the aggregate by an amount equal to one-halfof the amount by which such State's allotment under such title was increased for fiscal year 1985 as a result of subsection (a).
+“(B) In the case of any State not meeting the requirements of subparagraph (A) by September 30, 1985, such State's allotment for fiscal year 1986 or 1987 shall be reduced in the aggregate by an amount equal to one-half of the amount by which such State's allotment under such title was increased for fiscal year 1985 as a result of subsection (a).
 
 “(d) The determination and promulgation required by section 2003(b) of the Social Security Act \[subsec. (b) of this section\] with respect to the fiscal year 1985 (to take into account the preceding provisions of this section) shall be made as soon as possible after the date of the enactment of this Act \[Oct. 12, 1984\].”
 

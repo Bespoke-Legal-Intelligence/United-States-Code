@@ -24,7 +24,7 @@ When used in this chapter—
 
 &emsp;(11) The term “commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession, or the District of Columbia.
 
-(Aug. 15, 1921, ch. 64, title I, §2(a), 42 Stat. 159; Sept. 13, 1976, Pub. L. 94–410, §3(c), 90 Stat. 1249; Nov. 23, 1987, Pub. L. 100–173, §2, 101 Stat. 917.)
+(Aug. 15, 1921, ch. 64, title I, §2(a), 42 Stat. 159; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §2, Nov. 23, 1987, 101 Stat. 917.)
 
 #### Codification
 

@@ -16,19 +16,21 @@ The Director may from time to time make such provisions as he deems appropriate 
 
 The formulation of programs in conformance with the policies of the Foundation shall be carried out by the Director in consultation with the Board.
 
-#### (e) Authority to grant, contract, etc.; delegation of authority or imposition of conditions; reporting requirement; termination of provisions
+#### (e) Authority to grant, contract, etc.; delegation of authority or imposition of conditions; reporting requirement
 
 (1) The Director may make grants, contracts, and other arrangements pursuant to section 1870(c) of this title only with the prior approval of the Board or under authority delegated by the Board, and subject to such conditions as the Board may specify.
 
-(2) Any delegation of authority or imposition of conditions under the preceding sentence shall be effective only for such period of time, not exceeding two years, as the Board may specify, and shall be promptly published in the Federal Register and reported to the Committees on Labor and Human Resources and Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. On October 1 of each odd-numbered year the Board shall submit to the Congress a concise report which explains and justifies any actions taken by the Board under this subsection to delegate its authority or impose conditions within the preceding two years. The provisions of this subsection shall cease to be effective at the end of fiscal year 1989.
+(2) Any delegation of authority or imposition of conditions under paragraph (1) shall be promptly published in the Federal Register and reported to the Committee on Labor and Human Resources, and the Committee on Commerce, Science, and Transportation, of the Senate and the Committee on Science of the House of Representatives.
 
 #### (f) Status; power to vote and hold office
 
 The Director, in his capacity as ex officio member of the Board, shall, except with respect to compensation and tenure, be coordinate with the other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as Chairman or Vice Chairman of the Board.
 
-(May 10, 1950, ch. 171, §5, 64 Stat. 151; Sept. 8, 1959, Pub. L. 86–232, §3, 73 Stat. 467; July 18, 1968, Pub. L. 90–407, §3, 82 Stat. 362; Nov. 22, 1985, Pub. L. 99–159, title I, §109(b), 99 Stat. 889; Nov. 2, 1994, Pub. L. 103–437, §15(c)(1), 108 Stat. 4591.)
+(May 10, 1950, ch. 171, §5, 64 Stat. 151; Pub. L. 86–232, §3, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §3, July 18, 1968, 82 Stat. 362; Pub. L. 99–159, title I, §109(b), Nov. 22, 1985, 99 Stat. 889; Pub. L. 103–437, §15(c)(1), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–207, title II, §202(a)(2), July 29, 1998, 112 Stat. 873.)
 
 #### Amendments
+
+1998—Subsec. (e)(2). Pub. L. 105–207 added par. (2) and struck out former par. (2), which read as follows: “Any delegation of authority or imposition of conditions under the preceding sentence shall be effective only for such period of time, not exceeding two years, as the Board may specify, and shall be promptly published in the Federal Register and reported to the Committees on Labor and Human Resources and Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. On October 1 of each odd-numbered year the Board shall submit to the Congress a concise report which explains and justifies any actions taken by the Board under this subsection to delegate its authority or impose conditions within the preceding two years. The provisions of this subsection shall cease to be effective at the end of fiscal year 1989.”
 
 1994—Subsec. (e)(2). Pub. L. 103–437 substituted “Science, Space, and Technology” for “Science and Technology”.
 
@@ -36,15 +38,11 @@ The Director, in his capacity as ex officio member of the Board, shall, except w
 
 1968—Subsec. (a). Pub. L. 90–407 inserted provision prescribing the annual rate of compensation of the Director, and struck out provision authorizing the Director to serve as a nonvoting ex officio member of the Board and as the chief executive officer of the Foundation.
 
-Subsec. (b). Pub. L. 90–407 substituted provisions authorizing the Director, except as otherwise provided, to exercise all of the authority granted to the Foundation by this chapter and to take action final and binding upon the Foundation for provisions authorizing the Director, in addition to the powers and duties specifically vested in him by this chapter, to exercise the powers granted by sections 1869 or 1870(c) of this title and such other powers and duties delegated by the Board to him, and the proviso that no action taken by the Director pursuant to section 1869 or 1870(c) shall be final unless in each instance the Board has reviewed and approvedthe action proposed to be taken, or such action is taken pursuant to the terms of a delegation of authority from the Board or the Executive Committee to the Director.
+Subsec. (b). Pub. L. 90–407 substituted provisions authorizing the Director, except as otherwise provided, to exercise all of the authority granted to the Foundation by this chapter and to take action final and binding upon the Foundation for provisions authorizing the Director, in addition to the powers and duties specifically vested in him by this chapter, to exercise the powers granted by sections 1869 or 1870(c) of this title and such other powers and duties delegated by the Board to him, and the proviso that no action taken by the Director pursuant to section 1869 or 1870(c) shall be final unless in each instance the Board has reviewed and approved the action proposed to be taken, or such action is taken pursuant to the terms of a delegation of authority from the Board or the Executive Committee to the Director.
 
 Subsecs. (c) to (f). Pub. L. 90–407 added subsecs. (c) to (f).
 
 1959—Subsec. (b). Pub. L. 86–232 provided for delegation of authority from the Board or the Executive Committee to the Director.
-
-#### Change of Name
-
-Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1968 Amendment
 

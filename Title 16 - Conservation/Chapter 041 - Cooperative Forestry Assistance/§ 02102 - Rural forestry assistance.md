@@ -68,5 +68,5 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2109 of this title.
+This section is referred to in sections 2106b, 2109 of this title.
 

@@ -32,7 +32,7 @@ Nothing in this section is intended to repeal or limit the authority of the Nati
 
 #### References in Text
 
-The National Science Foundation Act of 1950, referred to in subsecs. (a)(1) and (d), is act May 10, 1950, ch. 171,64 Stat. 149, as amended, which is classified generally to chapter 16 (§1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
+The National Science Foundation Act of 1950, referred to in subsecs. (a)(1) and (d), is act May 10, 1950, ch. 171, 64 Stat. 149, as amended, which is classified generally to chapter 16 (§1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
 
 #### Codification
 
@@ -44,5 +44,5 @@ A prior section 303 of Pub. L. 96–88 was renumbered section 302 and is classif
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1135b of this title.
+This section is referred to in section 1067a of this title.
 

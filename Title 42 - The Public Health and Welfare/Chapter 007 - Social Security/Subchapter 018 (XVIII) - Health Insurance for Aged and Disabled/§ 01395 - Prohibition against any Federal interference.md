@@ -1,8 +1,8 @@
 ### §1395. Prohibition against any Federal interference
 
-Nothing in this subchapter shall be construed to authorize any Federal officer or employee toexercise any supervision or control over the practice of medicine or the manner in which medical services are provided, or over the selection, tenure, or compensation of any officer or employee of any institution, agency, or person providing health services; or to exercise any supervision or control over the administration or operation of any such institution, agency, or person.
+Nothing in this subchapter shall be construed to authorize any Federal officer or employee to exercise any supervision or control over the practice of medicine or the manner in which medical services are provided, or over the selection, tenure, or compensation of any officer or employee of any institution, agency, or person providing health services; or to exercise any supervision or control over the administration or operation of any such institution, agency, or person.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1801, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1801, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291.)
 
 #### Short Title
 

@@ -70,6 +70,10 @@
 | (b) | Director. |
 | (c) | Officers and employees. |
 | (d) | Experts and consultants. |
+| [3426\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003426%20-%20Liaison%20for%20Proprietary%20Institutions%20of%20Higher%20Education.md) | Liaison for Proprietary Institutions of Higher Education. |
+| (a) | Establishment. |
+| (b) | Appointment. |
+| (c) | Duties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

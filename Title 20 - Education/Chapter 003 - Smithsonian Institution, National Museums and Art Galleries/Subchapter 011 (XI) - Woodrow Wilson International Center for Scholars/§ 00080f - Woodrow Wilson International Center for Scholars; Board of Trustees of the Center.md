@@ -6,7 +6,7 @@ There is hereby established in the Smithsonian Institution a Woodrow Wilson Inte
 
 #### (b) Composition of Board
 
-The Board of Trustees shall be composed of 19 members as follows:
+The Board of Trustees shall be composed of 17 members as follows:
 
 &emsp;(1) the Secretary of State;
 
@@ -20,17 +20,15 @@ The Board of Trustees shall be composed of 19 members as follows:
 
 &emsp;(6) the Librarian of Congress;
 
-&emsp;(7) the Director of the United States Information Agency;
+&emsp;(7) the Archivist of the United States;
 
-&emsp;(8) the Archivist of the United States;
+&emsp;(8) one member appointed by the President from time to time from within the Federal Government; and
 
-&emsp;(9) one member appointed by the President from time to time from within the Federal Government; and
-
-&emsp;(10) 10 members appointed by the President from private life.
+&emsp;(9) 9 members appointed by the President from private life.
 
 #### (c) Appointment of alternate members by members of Board
 
-Each member of the Board of Trustees specified in paragraphs (1) through (9) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
+Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
 
 #### (d) Terms of office; vacancies; reappointment
 
@@ -40,9 +38,15 @@ Each member of the Board of Trustees appointed under paragraph (10) of subsectio
 
 The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.
 
-(Pub. L. 90–637, §3, Oct. 24, 1968, 82 Stat. 1357; Pub. L. 95–426, title II, §206, Oct. 7, 1978, 92 Stat. 975; Pub. L. 101–268, Apr. 9, 1990, 104 Stat. 132.)
+(Pub. L. 90–637, §3, Oct. 24, 1968, 82 Stat. 1357; Pub. L. 95–426, title II, §206, Oct. 7, 1978, 92 Stat. 975; Pub. L. 101–268, Apr. 9, 1990, 104 Stat. 132; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(i), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–277, §1335(i)(1)(A), substituted “17” for “19” in introductory provisions.
+
+Subsec. (b)(7) to (10). Pub. L. 105–277, §1335(i)(1)(B)–(D), redesignated pars. (8) to (10) as (7) to (9), respectively, in par. (9) substituted “9” for “10”, and struck out former par. (7) which read as follows: “the Director of the United States Information Agency;”.
+
+Subsec. (c). Pub. L. 105–277, §1335(i)(2), substituted “(8)” for “(9)”.
 
 1990—Subsec. (b). Pub. L. 101–268, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board of Trustees shall be composed of sixteen members as follows:
 
@@ -75,4 +79,8 @@ Subsec. (b)(2) to (9). Pub. L. 95–426, §206(a)(2), (3), designated pars. (2) 
 Subsec. (c). Pub. L. 95–426, §206(b)(1), substituted “(8)” for “(7)”.
 
 Subsec. (d). Pub. L. 95–426, §206(b)(2), substituted “(9)” for “(8)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of Title 22.
 

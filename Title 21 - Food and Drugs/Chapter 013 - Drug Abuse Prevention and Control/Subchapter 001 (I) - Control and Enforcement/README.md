@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 333, 951, 952, 958, 960, 965, 971 of this title; title 12 section 3420; title 15 section 5110; title 16 section 559d; title 18 sections 924, 929, 981, 986, 1864, 1956, 3142, 3554, 3592, 3663; title 20 section 1415; title 22 sections 2708, 2714; title 23 section 159; title 28 section 524; title 29 section 706; title 40 section 304m; title 42 sections 242, 261, 3751, 12111, 12210.
+This subchapter is referred to in sections 333, 951, 952, 958, 960, 965, 971 of this title; title 12 section 3420; title 15 section 5110; title 16 section 559d; title 18 sections 924, 929, 981, 986, 1864, 1956, 3142, 3554, 3592, 3663; title 20 section 1415; title 22 section 2714; title 23 section 159; title 28 section 524; title 29 section 706; title 40 section 304m; title 42 sections 242, 261, 3751, 12111, 12210.
 
 
 ---

@@ -14,7 +14,7 @@
 
 (b) As used in this section, the terms “commodity broker”, “commodity contract”, “customer”, “customer property”, “member property”, “net equity”, and “security” have the meanings assigned such terms for the purposes of subchapter IV of chapter 7 of title 11.
 
-(Sept. 21, 1922, ch. 369, §20, formerly §19, as added Nov. 6, 1978, Pub. L. 95–598, title III, §302, 92 Stat. 2673; renumbered and amended July 27, 1982, Pub. L. 97–222, §20, 96 Stat. 241.)
+(Sept. 21, 1922, ch. 369, §20, formerly §19, as added Pub. L. 95–598, title III, §302, Nov. 6, 1978, 92 Stat. 2673; renumbered and amended Pub. L. 97–222, §20, July 27, 1982, 96 Stat. 241.)
 
 #### Amendments
 

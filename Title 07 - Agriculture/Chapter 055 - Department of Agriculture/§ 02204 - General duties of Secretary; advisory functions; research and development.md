@@ -4,7 +4,7 @@
 
 (b) The Secretary is authorized to initiate or expand research and development efforts related to solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
 
-(R.S. §526; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659; Aug. 30, 1972, Pub. L. 92–419, title VI, §603(b), 86 Stat. 675; Apr. 21, 1976, Pub. L. 94–273, §7(4), 90 Stat. 378; Sept. 29, 1977, Pub. L. 95–113, title XV, §1502(b), 91 Stat. 1021; Sept. 24, 1980, Pub. L. 96–355, §5, 94 Stat. 1174.)
+(R.S. §526; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659; Pub. L. 92–419, title VI, §603(b), Aug. 30, 1972, 86 Stat. 675; Pub. L. 94–273, §7(4), Apr. 21, 1976, 90Stat. 378; Pub. L. 95–113, title XV, §1502(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 96–355, §5, Sept. 24, 1980, 94 Stat. 1174.)
 
 #### Codification
 
@@ -74,7 +74,7 @@ Maintenance of standards and preparedness.—In making recommendations to transf
 
 &emsp;“(5)
 
-Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress theresults of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
+Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress the results of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
 
 “(b)
 
@@ -94,7 +94,7 @@ Submission of results.—Not later than one year after the date of the implement
 
 #### Order of Succession
 
-Order of succession upon death, absence, sickness, or resignation of Secretary of Agriculture, see Ex. Ord. No. 11793, July 10, 1974, 39 F.R. 25631, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+Order of succession upon death, absence, sickness, or resignation of Secretary of Agriculture, see Ex. Ord. No. 11793, July 10, 1974, 39 F.R. 25631, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Cross References
 

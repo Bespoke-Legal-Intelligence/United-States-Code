@@ -50,7 +50,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 &emsp;(2) to authorize no impediment to, or interference with, recognized legitimate uses of the high seas, except as necessary for the conservation and management of fishery resources, as provided for in this chapter;
 
-&emsp;(3) to assure that the national fishery conservation and management program utilizes,and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws upon Federal, State, and academic capabilities in carrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
+&emsp;(3) to assure that the national fishery conservation and management program utilizes, and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws upon Federal, State, and academic capabilities in carrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
 
 &emsp;(4) to permit foreign fishing consistent with the provisions of this chapter;
 
@@ -116,7 +116,7 @@ Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development b
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, providedthat: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
 
 #### References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–297 provided that: “This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the ‘Sustainable Fisheries Act’.”
+Section 1(a) of Pub. L. 104–297 provided that: “This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as anote under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the ‘Sustainable Fisheries Act’.”
 
 #### Short Title of 1995 Amendment
 

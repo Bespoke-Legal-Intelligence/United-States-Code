@@ -32,11 +32,11 @@ Section 1241(c) of Pub. L. 99–145 provided that: “The amendments made by thi
 
 #### Short Title
 
-Section 14, formerly section 12, of act June 30, 1936, as added by Pub. L. 103–355, title X, §10005(f)(5), Oct. 13, 1994, 108 Stat. 3409, and renumbered by Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675, provided that: “This Act \[enacting this section and sections 36 to 45 of this title\] may be cited as the ‘Walsh-Healey Act’.”
+Section 14, formerly section 12, of act June 30, 1936, as added by Pub. L. 103–355, title X, §10005(f)(5), Oct. 13,1994, 108 Stat. 3409, and renumbered by Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675, provided that: “This Act \[enacting this section and sections 36 to 45 of this title\] may be cited as the ‘Walsh-Healey Act’.”
 
 #### Exemptions to Federal Restrictions on Marketability of Prison Made Goods
 
-Provisions of this section creating exemptions to Federal regulations on marketability of prison madegoods are not applicable unless representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by this section and such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services, see section 819(c) of Pub. L. 90–351, set out as a note under section 1761 of Title 18, Crimes and Criminal Procedure.
+Provisions of this section creating exemptions to Federal regulations on marketability of prison made goods are not applicable unless representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by this section and such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services, see section 819(c) of Pub. L. 90–351, set out as a note under section 1761 of Title 18, Crimes and Criminal Procedure.
 
 #### Exceptions and Exemptions
 

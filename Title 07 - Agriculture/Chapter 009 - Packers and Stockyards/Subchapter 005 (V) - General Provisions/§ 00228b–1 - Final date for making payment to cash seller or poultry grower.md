@@ -12,7 +12,7 @@ Any delay or attempt to delay, by a live poultry dealer which is a party to any 
 
 For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
 
-(Aug. 15, 1921, ch. 64, title IV, §410, as added Nov. 23, 1987, Pub. L. 100–173, §9(2), 101 Stat. 920.)
+(Aug. 15, 1921, ch. 64, title IV, §410, as added Pub. L. 100–173, §9(2), Nov. 23, 1987, 101 Stat. 920.)
 
 #### Prior Provisions
 

@@ -10,7 +10,7 @@ Beginning on the date nine months after November 8, 1984, each application for a
 
 &emsp;(3) the potential magnitude and nature of the human exposure resulting from such releases.
 
-> The owner or operator of a landfill or surface impoundment for which an application for such a final determination under section 6925(c) of this title has been submitted prior to November 8, 1984, shall submit the information required by this subsection to the Administrator (or the State, in the case of a State with an authorized program) no later than the date nine months after November 8, 1984.
+> The owner or operator of a landfill or surface impoundment for which an application for such a final determination under section 6925(c) of this title has been submitted prior to November 8, 1984, shall submit the information required by this subsection to the Administrator (or the State, in the case of a State with an authorizedprogram) no later than the date nine months after November 8, 1984.
 
 #### (b) Health assessments
 

@@ -24,19 +24,25 @@ The objectives of the program established under this section are—
 
 For purposes of this section—
 
-&emsp;(1) The term “eligible institution” means an accredited institution of higher education determined by the Secretary to be able to meet the objectives identified in subsection (b) of this section.
+&emsp;(1) A\*DEC.—The term “A\*DEC” means the distance education consortium known as A\*DEC.
 
-&emsp;(2) The term “communications network” refers to television or cable television origination or distribution equipment, signal conversion equipment (including both modulators and demodulators), computer hardware and software, programs or terminals, or related devices, used to process and exchange data through a telecommunications system in which signals are generated, modified, or prepared for transmission, or received, via telecommunications terminal equipment or via telecommunications transmission.
+&emsp;(2) The term “eligible institution” means an accredited institution of higher education determined by the Secretary to be able to meet the objectives identified in subsection (b) of this section.
 
-&emsp;(3) The term “delivery” means the transmission and reception of programs by facilities that transmit, receive, or carry data between telecommunications terminal equipment at each end of a telecommunications circuit or path.
+&emsp;(3) The term “communications network” refers to television or cable television origination or distribution equipment, signal conversion equipment (including both modulators and demodulators), computer hardware and software, programs or terminals, or related devices, used to process and exchange data through a telecommunications system in which signals are generated, modified, or prepared for transmission, or received, via telecommunications terminal equipment or via telecommunications transmission.
 
-&emsp;(4) The term “facilities” includes microwave antennae, fiberoptic cables and repeaters, coaxial cables, communications satellite ground station complexes, copper cable electronic equipment associated with telecommunications transmission, and similar items as defined by the Secretary.
+&emsp;(4) The term “delivery” means the transmission and reception of programs by facilities that transmit, receive, or carry data between telecommunications terminal equipment at each end of a telecommunications circuit or path.
 
-&emsp;(5) The term “satellite ground station complex” includes transmitters, receivers, and communications antennae at the Earth station site together with the interconnecting terrestrial transmission facilities (including cables, line, or microwave facilities) and modulating and demodulating equipment necessary for processing traffic received from the terrestrial distribution system prior to transmission via satellite and the traffic received from the satellite prior to transfer to terrestrial distribution systems.
+&emsp;(5) The term “facilities” includes microwave antennae, fiberoptic cables and repeaters, coaxial cables, communications satellite ground station complexes, copper cable electronic equipment associated with telecommunications transmission, and similar items as defined by the Secretary.
+
+&emsp;(6) The term “satellite ground station complex” includes transmitters, receivers, and communications antennae at the Earth station site together with the interconnecting terrestrial transmission facilities (including cables, line, or microwave facilities) and modulating and demodulating equipment necessary for processing traffic received from the terrestrial distribution system prior to transmission via satellite and the traffic received from the satellite prior to transfer to terrestrial distribution systems.
+
+&emsp;(7)
+
+Secretary.—Except as provided in subsection (d)(1) of this section, the term “Secretary” means the Secretary of Agriculture, acting through A\*DEC.
 
 #### (d) Authorization of assistance to eligible institutions
 
-(1) The Secretary shall establish a program, to be administered by the Assistant Secretary for Science and Education, under which financial and technical assistance may be provided to eligible institutions that participate in a network that distributes programs consistent with the objectives described in subsection (b) of this section.
+(1) The Secretary of Agriculture shall establish a program, to be administered through a grant provided to A\*DEC under terms and conditions established by the Secretary of Agriculture, under which financial and technical assistance may be provided to eligible institutions that participate in a network that distributes programs consistent with the objectives described in subsection (b) of this section.
 
 (2) The Secretary may approve all or part of any application submitted by an eligible institution if the proposed activity will contribute, directly or indirectly, to the purpose and objectives of the program established under this section.
 
@@ -54,7 +60,7 @@ The Secretary, in considering applications for assistance under this program, sh
 
 (1) The Secretary shall consider applications for financial assistance for the production and delivery of programs of cooperative extension, academic instruction in agriculture, agricultural research, and other topics consistent with the objectives described in subsection (b) of this section.
 
-(2) Eligible institutions shall request assistance by submitting applications to the Assistant Secretary for Science and Education. Applications shall include—
+(2) Eligible institutions shall request assistance by submitting applications to A\*DEC. Applications shall include—
 
 &emsp;(A) a detailed description of the telecommunications network and programming proposed to be produced and delivered, including to whom the programming will be distributed, how the programming will contribute to achieving the objectives described in subsection (b) of this section, and the total cost of producing and delivering such programming;
 
@@ -70,11 +76,19 @@ The Secretary, in considering applications for assistance under this program, sh
 
 #### (h) Authorization of appropriations
 
-For the purposes of implementing the program established under this section, there are hereby authorized to be appropriated not more than $12,000,000 for each of the fiscal years 1991 through 1997.
+For the purposes of implementing the program established under this section, there are hereby authorized to be appropriated not more than $12,000,000 for each of the fiscal years 1991 through 2002.
 
-(Pub. L. 101–624, title XVI, §1673, Nov. 28, 1990, 104 Stat. 3773; Pub. L. 102–237, title IV, §407(12), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §837, Apr. 4, 1996, 110 Stat. 1169.)
+(Pub. L. 101–624, title XVI, §1673, Nov. 28, 1990, 104 Stat. 3773; Pub. L. 102–237, title IV, §407(12), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §837, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §245, title III, §301(b)(2), June 23, 1998, 112 Stat. 556, 563.)
 
 #### Amendments
+
+1998—Subsec. (c)(1) to (7). Pub. L. 105–185, §245(1), added pars. (1) and (7) and redesignated former pars. (1) to (5) as (2) to (6), respectively.
+
+Subsec. (d)(1). Pub. L. 105–185, §245(2), substituted “The Secretary of Agriculture shall establish a program, to be administered through a grant provided to A\*DEC under terms and conditions established by the Secretary of Agriculture,” for “The Secretary shall establish a program, to be administered by the Assistant Secretary for Science and Education,”.
+
+Subsec. (f)(2). Pub. L. 105–185, §245(3), substituted “A\*DEC” for “the Assistant Secretary for Science and Education” in first sentence.
+
+Subsec. (h). Pub. L. 105–185, §301(b)(2), substituted “2002” for “1997”.
 
 1996—Subsec. (h). Pub. L. 104–127 substituted “1997” for “1995”.
 

@@ -11,7 +11,7 @@
 | [1397\.](%C2%A7%2001397%20-%20Interpleader.md) | Interpleader. |
 | [1398\.](%C2%A7%2001398%20-%20Interstate%20Commerce%20Commission%27s%20orders.md) | Interstate Commerce Commission's orders. |
 | [1399\.](%C2%A7%2001399%20-%20Partition%20action%20involving%20United%20States.md) | Partition action involving United States. |
-| [1400\.](%C2%A7%2001400%20-%20Patents%20and%20copyrights.md) | Patents and copyrights. |
+| [1400\.](%C2%A7%2001400%20-%20Patents%20and%20copyrights%2C%20mask%20works%2C%20and%20designs.md) | Patents and copyrights, mask works, and designs. |
 | [1401\.](%C2%A7%2001401%20-%20Stockholder%27s%20derivative%20action.md) | Stockholder's derivative action. |
 | [1402\.](%C2%A7%2001402%20-%20United%20States%20as%20defendant.md) | United States as defendant. |
 | [1403\.](%C2%A7%2001403%20-%20Eminent%20domain.md) | Eminent domain. |
@@ -28,17 +28,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>For termination of amendment by section 503(c)(3) of Pub. L. 105–304, see section 505 of Pub. L. 105–304, set out as an Effective and Termination Dates note under section 1301 of Title 17, Copyrights.</i>
+
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–331, §3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
+1998—Pub. L. 105–304, title V, §§503(c)(3), 505, Oct. 28, 1998, 112 Stat. 2917, 2918, temporarily inserted “, mask works, and designs” in item 1400.
 
-<b>1988</b>—Pub. L. 100–702, title X, §1001(a), Nov. 19, 1988, 102 Stat. 4664, struck out item 1393 “Divisions; single defendant; defendants in different divisions”.
+1996—Pub. L. 104–331, §3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
 
-<b>1984</b>—Pub. L. 98–353, title I, §102(b), July 10, 1984, 98 Stat. 335, added items 1408 to 1412.
+1988—Pub. L. 100–702, title X, §1001(a), Nov. 19, 1988, 102 Stat. 4664, struck out item 1393 “Divisions; single defendant; defendants in different divisions”.
 
-<b>1978</b>—Pub. L. 95–598, title II, §240(b), Nov. 6, 1978, 92 Stat. 2668, directed the addition of item 1408, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1984—Pub. L. 98–353, title I, §102(b), July 10, 1984, 98 Stat. 335, added items 1408 to 1412.
 
-<b>1968</b>—Pub. L. 90–296, §2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
+1978—Pub. L. 95–598, title II, §240(b), Nov. 6, 1978, 92 Stat. 2668, directed the addition of item 1408, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+1968—Pub. L. 90–296, §2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
 
 #### Federal Rules of Criminal Procedure
 
@@ -70,7 +76,7 @@ This chapter is referred to in title 42 section 3612.
 - [&sect; 01397 - Interpleader](%C2%A7%2001397%20-%20Interpleader.md)
 - [&sect; 01398 - Interstate Commerce Commission's orders](%C2%A7%2001398%20-%20Interstate%20Commerce%20Commission%27s%20orders.md)
 - [&sect; 01399 - Partition action involving United States](%C2%A7%2001399%20-%20Partition%20action%20involving%20United%20States.md)
-- [&sect; 01400 - Patents and copyrights](%C2%A7%2001400%20-%20Patents%20and%20copyrights.md)
+- [&sect; 01400 - Patents and copyrights, mask works, and designs](%C2%A7%2001400%20-%20Patents%20and%20copyrights%2C%20mask%20works%2C%20and%20designs.md)
 - [&sect; 01401 - Stockholder's derivative action](%C2%A7%2001401%20-%20Stockholder%27s%20derivative%20action.md)
 - [&sect; 01402 - United States as defendant](%C2%A7%2001402%20-%20United%20States%20as%20defendant.md)
 - [&sect; 01403 - Eminent domain](%C2%A7%2001403%20-%20Eminent%20domain.md)

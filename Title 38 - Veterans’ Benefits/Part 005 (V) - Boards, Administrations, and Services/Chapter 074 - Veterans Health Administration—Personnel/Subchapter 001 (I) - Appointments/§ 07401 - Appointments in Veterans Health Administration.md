@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in section 4104 of th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7402, 7403, 7404, 7405, 7407, 7408, 7410, 7411, 7423, 7424, 7425, 7451, 7452, 7455, 7457, 7461, 7462, 7463, 7612 of this title; title 5 section 7511.
+This section is referred to in sections 7402, 7403, 7404, 7405, 7407, 7408, 7410, 7411, 7423, 7424, 7425, 7451, 7452, 7455, 7457, 7461, 7462, 7463, 7612, 7672 of this title; title 5 section 7511.
 

@@ -12,7 +12,7 @@ As used in this part:
 
 &emsp;&emsp;(A) educational and support services provided to assist parents in acquiring parenting skills, learning about child development, and responding appropriately to the behavior of their children; and
 
-&emsp;&emsp;(B) the early developmental screening of children to assess any needs of such childrenand to identify specific types of support that may be provided;
+&emsp;&emsp;(B) the early developmental screening of children to assess any needs of such children and to identify specific types of support that may be provided;
 
 &emsp;&emsp;(C) outreach services;
 

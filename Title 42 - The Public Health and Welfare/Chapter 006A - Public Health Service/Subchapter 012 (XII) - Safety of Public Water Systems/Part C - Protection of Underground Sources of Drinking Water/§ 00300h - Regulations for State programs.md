@@ -64,7 +64,7 @@ For purposes of this part:
 
 &emsp;(2) Underground injection endangers drinking water sources if such injection may result in the presence in underground water which supplies or can reasonably be expected to supply any public water system of any contaminant, and if the presence of such contaminant may result in such system's not complying with any national primary drinking water regulation or may otherwise adversely affect the health of persons.
 
-(July 1, 1944, ch. 373, title XIV, §1421, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1674; amended Nov. 16, 1977, Pub. L. 95–190, §6(b), 91 Stat. 1396; Dec. 5, 1980, Pub. L. 96–502, §§3, 4(c), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title II, §201(a), 100 Stat. 653; Aug. 6, 1996, Pub. L. 104–182, title V, §501(b)(1), 110 Stat. 1691.)
+(July 1, 1944, ch. 373, title XIV, §1421, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1674; amended Pub. L. 95–190, §6(b), Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–502, §§3, 4(c), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title II, §201(a), June 19, 1986, 100 Stat. 653; Pub. L. 104–182, title V, §501(b)(1), Aug. 6, 1996, 110 Stat. 1691.)
 
 #### References in Text
 

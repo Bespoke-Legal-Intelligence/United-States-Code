@@ -48,5 +48,5 @@ Section effective with respect to reemployments initiated on or after the first 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4316 of this title; title 2 section 1316; title 3 section 416.
+This section is referred to in sections 4316, 4319 of this title; title 2 section 1316; title 3 section 416.
 

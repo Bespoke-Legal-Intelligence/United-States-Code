@@ -16,13 +16,17 @@ The Board shall consider, for inclusion in the National Film Registry, nominatio
 
 #### (2) Service on Foundation
 
-&emsp;Two sitting members of the Board shall be appointed by the Librarian, and shall serve, as Board members of the National Film Preservation Foundation, in accordance with section 5702 of title 36.
+&emsp;Two sitting members of the Board shall be appointed by the Librarian, and shall serve, as Board members of the National Film Preservation Foundation, in accordance with section 151703 of title 36.
 
 (Pub. L. 104–285, title I, §105, Oct. 11, 1996, 110 Stat. 3380.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 179w of this title.</i>
+
+#### Codification
+
+“Section 151703 of title 36” substituted in subsec. (c)(2) for “section 203”, meaning section 203 of the National Film Preservation Act of 1996, on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Section Referred to in Other Sections
 

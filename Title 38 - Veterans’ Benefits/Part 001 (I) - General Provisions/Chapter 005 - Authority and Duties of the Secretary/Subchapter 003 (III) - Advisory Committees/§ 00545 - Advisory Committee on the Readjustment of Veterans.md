@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 a
 
 #### Commission on Servicemembers and Veterans Transition Assistance
 
-Pub. L. 104–275, title VII, Oct. 9, 1996, 110 Stat. 3346, provided that:
+Pub. L. 104–275, title VII, Oct. 9, 1996, 110 Stat. 3346, as amended by Pub. L. 105–368, title X, §1005(c)(2), Nov. 11, 1998, 112 Stat. 3366, provided that:
 
 #### “SEC. 701. ESTABLISHMENT OF COMMISSION.
 
@@ -100,7 +100,7 @@ Membership.—(1) The Commission shall be composed of 12 members appointed from 
 
 &emsp;“(B) Four shall be appointed jointly by the chairman and ranking minority member of the Committee on Veterans’ Affairs of the Senate.
 
-&emsp;“(C) Two shall be appointed jointly by the chairman and ranking minority member of the Committee on National Security of the House of Representatives.
+&emsp;“(C) Two shall be appointed jointly by the chairman and ranking minority member of the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
 &emsp;“(D) Two shall be appointed jointly by the chairman and ranking minority member of the Committee on Armed Services of the Senate.
 
@@ -166,7 +166,7 @@ In General.—The Commission shall—
 
 “(b)
 
-Review of Programs To Assist Members of the Armed Forces at Separation.—(1) While carrying out the general duties specified in subsection (a), the members of the Commission appointed under subparagraphs (C) and (D) of section 701(b)(1) and the member specified in subparagraph (B) of section 701(b)(3) shall review primarily the programs intended to assist members of the Armed Forces at the time of their separation from service in the Armed Forces, including programs designed to assist families of such members.
+Review of Programs To Assist Members of the Armed Forces at Separation.—(1) While carrying out the general duties specified in subsection (a), the members of the Commission appointed under subparagraphs\(C) and (D) of section 701(b)(1) and the member specified in subparagraph (B) of section 701(b)(3) shall review primarily the programs intended to assist members of the Armed Forces at the time of their separation from service in the Armed Forces, including programs designed to assist families of such members.
 
 “(2) In carrying out the review, those members of the Commission shall determine the following:
 
@@ -226,7 +226,7 @@ Review of Programs To Assist Veterans.—(1) While carrying out the general duti
 
 “(d)
 
-Reports.—(1) Not later than 90 days after the date on which all members of the Commission have been appointed under section 701(b)(1), the Commission shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and National Security of the House of Representatives a report setting forth a plan for the work of the Commission. The Commission shall develop the plan in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, the Secretary of Labor, and the heads of other appropriate departments and agencies of the Government.
+Reports.—(1) Not later than 90 days after the date on which all members of the Commission have been appointed under section 701(b)(1), the Commission shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and National Security of the House of Representatives \[now Committees on Veterans’ Affairs and Armed Services of the House of Representatives\] a report setting forth a plan for the work of the Commission. The Commission shall develop the plan in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, the Secretary of Labor, and the heads of other appropriate departments and agencies of the Government.
 
 “(2)(A) Not later than 18 months after the date of the first meeting of the Commission, the Commission shall submit to the committees referred to in paragraph (1), and to the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor, a report setting forth the activities, findings, and recommendations of the Commission, including any recommendations for legislative action and administrative action as the Commission considers appropriate.
 
@@ -264,13 +264,13 @@ Compensation of Members.—Each member of the Commission may be compensated at a
 
 “(b)
 
-Travel and Travel Expenses.—(1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of aduty of the Commission except when the cost of commercial transportation is less expensive.
+Travel and Travel Expenses.—(1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of a duty of the Commission except when the cost of commercial transportation is less expensive.
 
 “(2) The members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 “(c)
 
-Staff.—(1) The chairman of the Commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to five additional staff members as may be necessary to enable the Commission to perform its duties. In appointing an individual as executive director, the chairman shall, to the maximum extent practicable, attempt to appoint an individual who is a veteran. The employment of an executive director shall be subject to confirmation by the Commission.
+Staff.—(1) The chairman of the Commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to five additional staff members as may be necessary to enable the Commission to perform its duties. In appointing an individual as executive director, the chairman shall, to the maximum extent practicable, attempt to appoint an individual who is a veteran. Theemployment of an executive director shall be subject to confirmation by the Commission.
 
 “(2) The chairman of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other staff members may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
@@ -280,7 +280,7 @@ Detail of Government Employees.—Upon request of the chairman of the Commission
 
 “(e)
 
-Procurement of Temporary and Intermittent Services.—The chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5316 \[5315\] of such title.
+Procurement of Temporary and Intermittent Services.—The chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of such title.
 
 #### “SEC. 706. TERMINATION OF COMMISSION.
 

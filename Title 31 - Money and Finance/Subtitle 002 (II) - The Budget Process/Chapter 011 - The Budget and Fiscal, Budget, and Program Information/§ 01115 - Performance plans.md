@@ -116,7 +116,7 @@ Section 9 of Pub. L. 103–62 provided that: “The Office of Personnel Manageme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 15 section 638; title 40 section 1425.
+This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 15 section 638; title 23 section 508; title 40 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

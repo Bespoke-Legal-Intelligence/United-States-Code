@@ -16,7 +16,7 @@ As used in subsection (a) of this section, the term “mortgage loan” means a 
 
 &emsp;(3) is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or
 
-&emsp;(4) is made in whole or in part by any “creditor,” as defined in section 1602(f) of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
+&emsp;(4) is made in whole or in part by any “creditor,” as defined in section 1602(f) of title 15,who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.
 
 #### (c) “Federally constructed housing” defined
 

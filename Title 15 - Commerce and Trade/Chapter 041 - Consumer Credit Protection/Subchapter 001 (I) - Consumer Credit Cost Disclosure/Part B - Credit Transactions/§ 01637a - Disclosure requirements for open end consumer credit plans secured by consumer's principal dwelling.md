@@ -36,7 +36,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(F) a statement of the maximum annual percentage rate that may be imposed at any time under the plan;
 
-&emsp;&emsp;(G) subject to subsection (b)(3) of this section, a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of the plan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
+&emsp;&emsp;(G) subject to subsection (b)(3) of this section, a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of theplan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
 
 &emsp;&emsp;(H) a statement of—
 
@@ -84,7 +84,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;A statement that—
 
-&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an account under the plan if any term changes (otherthan a change contemplated by a variable feature of the plan) before any such agreement is final; and
+&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an account under the plan if any term changes (other than a change contemplated by a variable feature of the plan) before any such agreement is final; and
 
 &emsp;&emsp;&emsp;(ii) if the consumer makes an election described in clause (i), the consumer is entitled to a refund of all fees paid in connection with the application.
 
@@ -126,7 +126,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;(B) would repay less than the outstanding balance by the end of such period,
 
-> &emsp;as the case may be, a statement of such fact, including an explicit statement that at the end of such repayment period a balloon payment (as defined in section 1665b(f) of this title) would result which would be required to be paid in full at that time.
+> &emsp;as the case may be, a statement of such fact, including an explicit statement that at theend of such repayment period a balloon payment (as defined in section 1665b(f) of this title) would result which would be required to be paid in full at that time.
 
 #### (11) Negative amortization
 
@@ -172,7 +172,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (B) Telephone, publications, and third party applications
 
-&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required undersubsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
+&emsp;&emsp;In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
 
 #### (2) Form
 
@@ -254,7 +254,7 @@ Voluntary Compliance.—Notwithstanding subsection (b), any creditor may comply 
 
 Section 4 of Pub. L. 100–709 provided that: “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
 
-&emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principaldwelling and the terms and conditions under which such loans are generally extended; and
+&emsp;“(1) a general description of open end consumer credit plans secured by the consumer's principal dwelling and the terms and conditions under which such loans are generally extended; and
 
 &emsp;“(2) a discussion of the potential advantages and disadvantages of such plans, including how to compare among home equity plans and between home equity and closed end credit plans.”
 

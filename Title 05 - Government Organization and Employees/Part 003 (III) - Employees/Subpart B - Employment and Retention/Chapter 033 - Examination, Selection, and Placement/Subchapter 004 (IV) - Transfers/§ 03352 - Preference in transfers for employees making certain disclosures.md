@@ -32,5 +32,5 @@ Section effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1599c.
+This section is referred to in section 2302 of this title.
 

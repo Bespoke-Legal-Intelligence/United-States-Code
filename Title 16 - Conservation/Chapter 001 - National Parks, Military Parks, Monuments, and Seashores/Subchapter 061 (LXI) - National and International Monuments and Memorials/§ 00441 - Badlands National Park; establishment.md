@@ -2,7 +2,7 @@
 
 When a quantum, satisfactory to the Secretary of the Interior, of the privately owned lands lying within the area hereinafter described shall have been acquired and transferred to the United States for park purposes, without expense to the Federal Treasury, such areas are dedicated and set apart as a national park for the benefit and enjoyment of the people, under the name of the Badlands National Park: <i>Provided</i>, That the State of South Dakota shall have first constructed the highways hereinafter described.
 
-(Mar. 4, 1929, ch. 693, §1, 45 Stat. 1553; Nov. 10, 1978, Pub. L. 95–625, title VI, §611, 92 Stat. 3521.)
+(Mar. 4, 1929, ch. 693, §1, 45 Stat. 1553; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
 #### References in Text
 
@@ -10,7 +10,7 @@ Hereinafter, referred to in text, means act Mar. 4, 1929 which is classified to 
 
 #### Change of Name
 
-Words “park” and “Park” substituted in text for “monument” and “Monument”, respectively, pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated the Badlands National Monument as the Badlands National Park.
+Words “park” and “Park” substituted in text for “monument” and “Monument”, respectively, pursuant to Pub. L. 95–625, §611, which is classified to section441e–1 of this title and which redesignated the Badlands National Monument as the Badlands National Park.
 
 #### Ben Reifel Visitor Center
 

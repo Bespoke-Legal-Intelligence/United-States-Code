@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 46:599
 
-Section 10314 forbids advance payment of wages to seamen prior to the commencement of the seaman's employment. It provides a civil penalty of $500 for any person making such a payment, and for any person demanding or receiving remuneration for providing a seaman with employment. This means that the use of employment agencies for hiring seamen is prohibited. It also requires compliance with section 10302 regarding the signing of articles of agreement before a vessel can be cleared from a United States port. This section applies to foreign vessels in United States waters but not to fishing vessels, whaling vessels or yachts.
+Section 10314 forbids advance payment of wages to seamen prior to the commencement of the seaman's employment. It provides a civil penalty of $500 for any person making such a payment, and for any person demanding or receiving remuneration for providing a seaman with employment. This means that the use of employment agencies for hiring seamen is prohibited. It also requires compliance with section 10302 regarding the signing of articles of agreement before a vessel canbe cleared from a United States port. This section applies to foreign vessels in United States waters but not to fishing vessels, whaling vessels or yachts.
 
 #### Amendments
 

@@ -146,7 +146,7 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (e)(3)(B
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (e)(3)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (e)(3)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (e)(3)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally tochapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
@@ -161,4 +161,40 @@ Section is comprised of section 2501 of Pub. L. 101–624. Subsec. (f) of sectio
 Subsec. (c)(1)(C). Pub. L. 102–237, §1003(2), inserted “program” after “agricultural”.
 
 Subsec. (d)(3). Pub. L. 102–237, §1003(3), substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
+
+#### Waiver of Statute of Limitations
+
+Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Stat. 2681, 2681–30, provided that:
+
+“(a) To the extent permitted by the Constitution, any civil action to obtain relief with respect to the discrimination alleged in an eligible complaint, if commenced not later than 2 years after the date of the enactment of this Act \[Oct. 21, 1998\], shall not be barred by any statute of limitations.
+
+“(b) The complainant may, in lieu of filing a civil action, seek a determination on the merits of the eligible complaint by the Department of Agriculture if such complaint was filed not later than 2 years after the date of enactment of this Act \[Oct. 21, 1998\]. The Department of Agriculture shall—
+
+&emsp;“(1) provide the complainant an opportunity for a hearing on the record before making that determination;
+
+&emsp;“(2) award the complainant such relief as would be afforded under the applicable statute from which the eligible complaint arose notwithstanding any statute of limitations; and
+
+&emsp;“(3) to the maximum extent practicable within 180 days after the date a determination of an eligible complaint is sought under this subsection conduct an investigation, issue a written determination and propose a resolution in accordance with this subsection.
+
+“(c) Notwithstanding subsections (a) and (b), if an eligible claim is denied administratively, the claimant shall have at least 180 days to commence a cause of action in a Federal court of competent jurisdiction seeking a review of such denial.
+
+“(d) The United States Court of Federal Claims and the United States District Court shall have exclusive original jurisdiction over—
+
+&emsp;“(1) any cause of action arising out of a complaint with respect to which this section waives the statute of limitations; and
+
+&emsp;“(2) any civil action for judicial review of a determination in an administrative proceeding in the Department of Agriculture under this section.
+
+“(e) As used in this section, the term ‘eligible complaint’ means a nonemployment related complaint that was filed with the Department of Agriculture before July 1, 1997 and alleges discrimination at any time during the period beginning on January 1, 1981 and ending December 31, 1996—
+
+&emsp;“(1) in violation of the Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.) in administering—
+
+&emsp;&emsp;“(A) a farm ownership, farm operating, or emergency loan funded from the Agricultural Credit Insurance Program Account; or
+
+&emsp;&emsp;“(B) a housing program established under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; or
+
+&emsp;“(2) in the administration of a commodity program or a disaster assistance program.
+
+“(f) This section shall apply in fiscal year 1999 and thereafter.
+
+“(g) The standard of review for judicial review of an agency action with respect to an eligible complaint is de novo review. Chapter 5 of title 5 of the United States Code shall apply with respect to an agency action under this section with respect to an eligible complaint, without regard to section 554(a)(1) of that title.”
 

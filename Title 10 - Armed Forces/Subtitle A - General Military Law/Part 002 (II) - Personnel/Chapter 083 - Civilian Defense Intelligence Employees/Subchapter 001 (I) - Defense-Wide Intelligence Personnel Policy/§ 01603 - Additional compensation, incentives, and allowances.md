@@ -4,7 +4,7 @@
 
 Additional Compensation Based on Title 5
 
-Authorities.—The Secretary of Defense may provide employees in defense intelligence positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
+Authorities.—The Secretary of Defense mayprovide employees in defense intelligence positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
 
 (b)
 
@@ -24,7 +24,7 @@ Allowances Based on Living Costs and Environment.—(1) In addition to basic pay
 
 #### Prior Provisions
 
-A prior section 1603, added Pub. L. 97–89, title VII, §701(a)(1), Dec. 4, 1981, 95 Stat. 1160; amended Pub. L.99–145, title XIII, §1302(a)(3), Nov. 8, 1985, 99 Stat. 738; Pub. L. 99–661, div. A, title XIII, §1343(a)(9), Nov. 14, 1986, 100 Stat. 3992, related to limits on pay to members of the Defense Intelligence Senior Executive Service, prior to repeal by Pub. L. 104–201, div. A, title XVI, §§1632(a)(3), 1635, Sept. 23, 1996, 110 Stat. 2745, 2752, effective Oct. 1, 1996.
+A prior section 1603, added Pub. L. 97–89, title VII, §701(a)(1), Dec. 4, 1981, 95 Stat. 1160; amended Pub. L. 99–145, title XIII, §1302(a)(3), Nov. 8, 1985, 99 Stat. 738; Pub. L. 99–661, div. A, title XIII, §1343(a)(9), Nov. 14, 1986, 100 Stat. 3992, related to limits on pay to members of the Defense Intelligence Senior Executive Service, prior to repeal by Pub. L. 104–201, div. A, title XVI, §§1632(a)(3), 1635, Sept. 23, 1996, 110 Stat. 2745, 2752, effective Oct. 1, 1996.
 
 Provisions similar to those in this section were contained in sections 1590(d) and 1604(b)(2), (d) of this title prior to repeal by Pub. L. 104–201, §§1632(a)(3), 1633(a).
 

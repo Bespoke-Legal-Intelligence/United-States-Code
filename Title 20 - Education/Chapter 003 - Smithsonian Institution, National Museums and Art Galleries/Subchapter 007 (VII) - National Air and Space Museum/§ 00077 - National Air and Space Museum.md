@@ -8,7 +8,7 @@ There is hereby established under the Smithsonian Institution a bureau to be kno
 
 The Secretary of the Smithsonian Institution, with the advice of the board, may appoint and fix the compensation and duties of the head of a national air and space museum whose appointment shall not be subject to the civil service laws.
 
-(Aug. 12, 1946, ch. 955, §1, 60 Stat. 997; July 26, 1947, ch. 343, title II, §208(b), 61 Stat. 503; July 19, 1966, Pub. L. 89–509, pt. I, §§2, 3, 80 Stat. 310; Oct. 15, 1966, Pub. L. 89–670, §§3(e), 6(c)(1), 80 Stat. 932, 938.)
+(Aug. 12, 1946, ch. 955, §1, 60 Stat. 997; July 26, 1947, ch. 343, title II, §208(b), 61 Stat. 503; Pub. L. 89–509, pt. I, §§2, 3, July 19, 1966, 80 Stat. 310; Pub. L. 89–670, §§3(e), 6(c)(1), Oct. 15, 1966, 80 Stat. 932, 938.)
 
 #### References in Text
 

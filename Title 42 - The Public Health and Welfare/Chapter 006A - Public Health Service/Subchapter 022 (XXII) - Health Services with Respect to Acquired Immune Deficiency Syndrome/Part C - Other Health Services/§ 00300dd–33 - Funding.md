@@ -2,5 +2,5 @@
 
 For the purpose of grants under section 300dd–31 of this title, there are authorized to be appropriated $100,000,000 for each of the fiscal years 1989 and 1990.
 
-(July 1, 1944, ch. 373, title XXIV, §2433, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3091.)
+(July 1, 1944, ch. 373, title XXIV, §2433, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3091.)
 

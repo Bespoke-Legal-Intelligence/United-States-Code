@@ -28,7 +28,7 @@ Each State Council shall be composed as follows:
 
 &emsp;&emsp;&emsp;(II) shall constitute not less than 15 percent of the membership of the State Council.
 
-&emsp;(B) If the State labor federation fails to nominate a sufficient number of individuals under subclause (I) of subparagraph (A)(ii) tosatisfy the requirement under subclause (II) of such subparagraph, individual workers may be included on the State Council to satisfy such requirement.
+&emsp;(B) If the State labor federation fails to nominate a sufficient number of individuals under subclause (I) of subparagraph (A)(ii) to satisfy the requirement under subclause (II) of such subparagraph, individual workers may be included on the State Council to satisfy such requirement.
 
 #### (b) Additional members
 
@@ -73,6 +73,10 @@ Each State Council may also include additional qualified members, who may be sel
 &emsp;&emsp;(C) the methods for evaluating the effectiveness of vocational training programs in serving varying populations.
 
 (Pub. L. 97–300, title VII, §702, as added Pub. L. 102–367, title VI, §601(a), Sept. 7, 1992, 106 Stat. 1101.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 <i><sup>1</sup></i><i> So in original. Probably should be “clauses”.</i>
 

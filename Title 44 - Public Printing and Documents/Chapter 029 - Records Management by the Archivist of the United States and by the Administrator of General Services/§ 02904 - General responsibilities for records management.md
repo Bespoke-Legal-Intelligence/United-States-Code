@@ -30,7 +30,7 @@
 
 (d) In addition, the Administrator, in carrying out subsection (b), shall have the responsibility to promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for records management.
 
-(Added Pub. L. 94–575, §2(a)(2), Oct. 21, 1976, 90 Stat. 2725; amended Pub. L. 96–511, §2(c)(1), Dec. 11, 1980, 94 Stat. 2825; Pub. L. 98–497, title I, §107(b)(16), Oct. 19, 1984, 98 Stat. 2288.)
+(Added Pub. L. 94–575, §2(a)(2), Oct. 21, 1976, 90 Stat. 2725; amended Pub. L. 96–511, §2(c)(1), Dec.11, 1980, 94 Stat. 2825; Pub. L. 98–497, title I, §107(b)(16), Oct. 19, 1984, 98 Stat. 2288.)
 
 #### Prior Provisions
 

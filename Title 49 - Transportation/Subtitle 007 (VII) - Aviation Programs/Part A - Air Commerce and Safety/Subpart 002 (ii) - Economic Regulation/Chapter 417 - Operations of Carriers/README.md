@@ -19,6 +19,7 @@
 | [41713\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041713%20-%20Preemption%20of%20authority%20over%20prices%2C%20routes%2C%20and%20service.md) | Preemption of authority over prices, routes, and service. |
 | [41714\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041714%20-%20Availability%20of%20slots.md) | Availability of slots. |
 | [41715\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041715%20-%20Air%20service%20termination%20notice.md) | Air service termination notice. |
+| [41716\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041716%20-%20Joint%20venture%20agreements.md) | Joint venture agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +43,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–277, div. C, title I, §110(f)(2), Oct. 21, 1998, 112 Stat. 2681–590, which directed amendment of the analysis for subchapter I of chapter 417 by adding item 41716 without specifying the Code title or Act for chapter 417, was executed by adding item 41716 to this analysis to reflect the probable intent of Congress.
 
 1996—Pub. L. 104–264, title II, §278(d), Oct. 9, 1996, 110 Stat. 3250, substituted “Essential air service authorization” for “Ending effective date” in item 41742.
 

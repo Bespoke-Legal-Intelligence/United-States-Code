@@ -8,5 +8,5 @@ Section 1221h, Pub. L. 92–318, title IV, §453, June 23, 1972, 86 Stat. 345; P
 
 #### Effective Date of Repeal
 
-For effective date and applicability of repeal, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
+For effective date and applicability of repeal, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.
 

@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) “advanced electric or hybrid vehicle” means a vehicle which—
 
-&emsp;&emsp;(A) minimizes the total amount of energy to be consumed with respect to its fabrication, operation, and disposal, and represents a substantial improvement over existing electric and hybrid vehicles with respect to the total amount of energy so consumed;
+&emsp;&emsp;(A) minimizes the total amount of energy to be consumed with respect to its fabrication, operation, and disposal, and represents a substantial improvement over existingelectric and hybrid vehicles with respect to the total amount of energy so consumed;
 
 &emsp;&emsp;(B) is capable of being mass-produced and operated at a cost and in a manner which is sufficiently competitive to enable it to be produced and sold in numbers representing a reasonable portion of the market;
 

@@ -6,5 +6,5 @@ The duties established in this subpart for a medical facility—
 
 &emsp;(2) shall not apply to any extent after the expiration of the 30-day period beginning on the expiration of the applicable period referred to in paragraph (1), except that such duties shall apply with respect to any request under section 300ff–83(c) of this title received by a medical facility before the expiration of such 30-day period.
 
-(July 1, 1944, ch. 373, title XXVI, §2687, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 627.)
+(July 1, 1944, ch. 373, title XXVI, §2687, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 627.)
 

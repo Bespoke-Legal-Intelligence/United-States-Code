@@ -10,7 +10,7 @@ For the purpose of this chapter—
 
 &emsp;(4) The term “Council” means the Council established within the International Commission for the Conservation of Atlantic Tunas pursuant to article V of the Convention.
 
-&emsp;(4) <sup>1</sup> The term “exclusive economic zone” means an exclusive economic zone as defined in section 1802 of this title.
+&emsp;(5) The term “exclusive economic zone” means an exclusive economic zone as defined in section 1802 of this title.
 
 &emsp;(6) The term “fishing” means the catching, taking, or fishing for or the attempted catching, taking, or fishing for any species of fish covered by the Convention, or any activities in support thereof.
 
@@ -24,11 +24,11 @@ For the purpose of this chapter—
 
 &emsp;(11) The term “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-(Pub. L. 94–70, §2, Aug. 5, 1975, 89 Stat. 385; Pub. L. 94–265, title IV, §405(a), Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–33, §2, May 26, 1977, 91 Stat. 173; Pub. L. 104–43, title III, §303(1), (2), Nov. 3, 1995, 109 Stat. 384; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 94–70, §2, Aug. 5, 1975, 89 Stat. 385; Pub. L. 94–265, title IV, §405(a), Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–33, §2, May 26, 1977, 91 Stat. 173; Pub. L. 104–43, title III, §303(1), (2), Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, §202(b)(1)(A), (F), Nov. 13, 1998, 112 Stat. 3452, 3453.)
 
 #### Amendments
 
-1996—Par. (4). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1802 of this title.
+1998—Pars. (4), (5). Pub. L. 105–384 renumbered par. (4) defining “exclusive economic zone” as par. (5) and made technical amendment to reference in original act which appears in text as reference to section 1802 of this title.
 
 1995—Par. (3). Pub. L. 104–43, §303(1), added par. (3). Former par. (3) redesignated (4).
 
@@ -36,7 +36,7 @@ Par. (4). Pub. L. 104–43, §303(2), added par. (4) defining “exclusive econo
 
 Pub. L. 104–43, §303(1), redesignated par. (3) defining “Council” as (4).
 
-Par. (5). Pub. L. 104–43, §303(2), struck out par. (5) which read as follows: “The term ‘fisheries zone’ means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seawardboundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to the extent that such zones are recognized by the United States.”
+Par. (5). Pub. L. 104–43, §303(2), struck out par. (5) which read as follows: “The term ‘fisheries zone’ means the waters included within a zone contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is two hundred nautical miles from the baseline from which the territorial sea is measured; or similar zones established by other parties to the Convention to the extent that such zones are recognized by the United States.”
 
 Pub. L. 104–43, §303(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -45,10 +45,6 @@ Pars. (6) to (11). Pub. L. 104–43, §303(1), redesignated pars. (5) to (10) as
 1977—Par. (4). Pub. L. 95–33 struck out the comma between “zone” and “contiguous”, substituted “two hundred” for “200”, and substituted a semicolon for a comma after “is measured”.
 
 1976—Par. (4). Pub. L. 94–265, which directed the substitution of “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal state, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured,” for “the fisheries zone established pursuant to the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, was executed by making the substitution for “the entire zone established by the United States under the Act of October 14, 1966 (80 Stat. 908; 16 U.S.C. 1091–1094)”, to reflect the probable intent of Congress.
-
-#### Effective Date of 1996 Amendment
-
-Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1976 Amendment
 
@@ -64,7 +60,5 @@ Section 1 of Pub. L. 94–70 provided: “That this Act \[enacting this chapter 
 
 #### Separability
 
-Section 11 of Pub. L. 94–70 provided that: “If any provision of this Act \[this chapter\] or the application of such provision to any circumstance or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.” \[Another section 11 of Pub. L. 94–70 is classified to section 971j of this title.\]
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(5)”.</i>
+Pub. L. 94–70, §13, formerly §11, Aug. 5, 1975, 89 Stat. 394; renumbered §13, Pub. L. 105–384, title II, §202(b)(1)(D), Nov. 13, 1998, 112 Stat. 3452, provided that: “If any provision of this Act \[this chapter\] or the application of such provision to any circumstance or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 

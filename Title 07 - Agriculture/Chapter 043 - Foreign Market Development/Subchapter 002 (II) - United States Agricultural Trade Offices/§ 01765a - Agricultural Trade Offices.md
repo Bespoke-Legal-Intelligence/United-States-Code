@@ -32,7 +32,7 @@ No employee of any United States Agricultural Trade Office may engage in any bus
 
 Upon the request of the Secretary of Agriculture, the Secretary of State shall request for Agricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
 
-(Aug. 28, 1954, ch. 1041, title VI, §605A, as added Oct. 21, 1978, Pub. L. 95–501, title IV, §401(1), 92 Stat. 1688; amended Oct. 17, 1980, Pub. L. 96–465, title II, §2206(b)(1), 94 Stat. 2162.)
+(Aug. 28, 1954, ch. 1041, title VI, §605A, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1688; amended Pub. L. 96–465, title II, §2206(b)(1), Oct. 17, 1980, 94 Stat. 2162.)
 
 #### References in Text
 

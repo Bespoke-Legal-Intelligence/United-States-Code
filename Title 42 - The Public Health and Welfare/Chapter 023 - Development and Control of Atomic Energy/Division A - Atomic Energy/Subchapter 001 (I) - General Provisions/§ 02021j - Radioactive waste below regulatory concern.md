@@ -1,6 +1,6 @@
 ### §2021j. Radioactive waste below regulatory concern
 
-(a) Not later than 6 months after January 15, 1986, the Commission shall establish standards and procedures, pursuant to existing authority,and develop the technical capability for considering and acting upon petitions to exempt specific radioactive waste streams from regulation by the Commission due to the presence of radionuclides in such waste streams in sufficiently low concentrations or quantities as to be below regulatory concern.
+(a) Not later than 6 months after January 15, 1986, the Commission shall establish standards and procedures, pursuant to existing authority, and develop the technical capability for considering and acting upon petitions to exempt specific radioactive waste streams from regulation by the Commission due to the presence of radionuclides in such waste streams in sufficiently low concentrations or quantities as to be below regulatory concern.
 
 (b) The standards and procedures established by the Commission pursuant to subsection (a) of this section shall set forth all information required to be submitted to the Commission by licensees in support of such petitions, including, but not limited to—
 

@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
-&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service orthe Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
+&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
 
 &emsp;(2) transportation expenses of his immediate family and his household goods and personal effects to the extent authorized by section 5724 of this title; and
 
@@ -10,13 +10,13 @@
 
 > from his place of residence at the time of selection or assignment to his duty station. If the travel and transportation expenses of a student trainee were paid when he was appointed, they may not be paid when he is assigned after completion of college work. Travel expenses payable under this subsection may include the per diem and mileage allowances authorized for employees by subchapter I of this chapter. Advances of funds may be made for the expenses authorized by this subsection to the extent authorized by section 5724(f) of this title. In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.
 
-(b) An agency may pay travel and transportation expenses under subsection (a) of this section only after the individual selected or assigned agrees in writing to remain in the Government service for 12 months after his appointment or assignment, unless separated for reasons beyond his control which are acceptable to the agency concerned. If the individual violates the agreement, the money spent by the United States for the expenses is recoverable from the individual as a debt due the United States.
+(b) An agency may pay travel and transportation expenses under subsection (a) of this section only after the individual selected or assigned agrees in writing to remain in the Government service for 12 months after his appointment or assignment, unless separated for reasons beyond his control which are acceptable to the agency concerned. If the individual violates the agreement, the money spent by the Government for the expenses is recoverable from the individual as a debt due the Government.
 
 (c) An agency may pay travel and transportation expenses under subsection (a) of this section whether or not the individual selected has been appointed at the time of the travel. In the case of an appointee described in subsection (a)(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President.
 
 (d) This section does not impair or otherwise affect the authority of an agency under existing statute to pay travel and transportation expenses of individuals named by subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529 \[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529 \[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(3), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Section 3 of the Presidential Transition Act of 1963, referred to in subsecs. (a) and (c), is section 3 of Pub. L. 88–277, which is set out as a note under section 102 of Title 3, The President.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–264 substituted “spent by the Government” for “spent by the United States”and “due the Government” for “due the United States”.
 
 1996—Subsec. (a). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
@@ -102,5 +104,5 @@ Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5726, 5727 of this title; title 28 section 530; title 42 sections 1873, 7238.
+This section is referred to in sections 5726, 5727, 9504 of this title; title 28 section 530; title 42 sections 1873, 7238.
 

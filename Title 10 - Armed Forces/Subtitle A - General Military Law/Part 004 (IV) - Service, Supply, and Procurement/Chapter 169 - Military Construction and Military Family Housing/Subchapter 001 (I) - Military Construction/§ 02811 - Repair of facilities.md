@@ -14,7 +14,7 @@ Prohibition on New Construction or Additions.—Construction of new facilities o
 
 (d)
 
-Congressional Notification.—When a decision is made to carry out a repair projectunder this section with an estimated cost in excess of $10,000,000, the Secretary concerned shall submit to the appropriate committees of Congress a report containing—
+Congressional Notification.—When a decision is made to carry out a repair project under this section with an estimated cost in excess of $10,000,000, the Secretary concerned shall submit to the appropriate committees of Congress a report containing—
 
 &emsp;(1) the justification for the repair project and the current estimate of the cost of the project; and
 

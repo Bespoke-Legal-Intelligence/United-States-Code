@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) exercise oversight of the administration of the United States Section that is authorized to be established under section 3315 of this title; and
 
-&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees and special committees under chapter 19.
+&emsp;&emsp;&emsp;(iv) make recommendations to the Trade Representative regarding the convening ofextraordinary challenge committees and special committees under chapter 19.
 
 #### (3) Preliminary candidate lists
 

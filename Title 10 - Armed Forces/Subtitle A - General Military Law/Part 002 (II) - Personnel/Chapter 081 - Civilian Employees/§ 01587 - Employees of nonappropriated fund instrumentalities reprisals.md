@@ -94,5 +94,5 @@ In General.—Not later than October 1, 1995, the Secretary of Defense shall tak
 
 “(b)
 
-Progress Report.—Not later than March 15, 1995, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report on the progress made by the Secretary in implementing subsection (a).”
+Progress Report.—Not later than March 15, 1995, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the progress made by the Secretary in implementing subsection (a).”
 

@@ -8,7 +8,7 @@
 
 #### (2) Designated State agency
 
-&emsp;The Commissioner may not make a grant under this subsection unless the State involved agrees that the grant will be administered solely by the agency described in section 721(a)(1)(A)(i) of this title.
+&emsp;The Commissioner may not make a grant under this subsection unless the State involved agrees that the grant will be administered solely by the agency described in section 721(a)(2)(A)(i) of this title.
 
 #### (b) Contingent competitive grants
 
@@ -34,7 +34,7 @@ Beginning with fiscal year 1993, in the case of any fiscal year for which the am
 
 #### (d) Services generally
 
-The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that the grant will be expended only for purposes of—
+The Commissioner may not make a grant under subsection (a) of this section unless theState involved agrees that the grant will be expended only for purposes of—
 
 &emsp;(1) providing independent living services to older individuals who are blind;
 
@@ -60,7 +60,7 @@ Independent living services for purposes of subsection (d)(1) of this section in
 
 &emsp;(3) the provision of services and equipment to assist an older individual who is blind to become more mobile and more self-sufficient;
 
-&emsp;(4) mobility training, Braille instruction, and other services and equipment to help an older individual who is blind adjust to blindness;
+&emsp;(4) mobility training, braille instruction, and other services and equipment to help an older individual who is blind adjust to blindness;
 
 &emsp;(5) guide services, reader services, and transportation;
 
@@ -68,7 +68,7 @@ Independent living services for purposes of subsection (d)(1) of this section in
 
 &emsp;(7) independent living skills training, information and referral services, peer counseling, and individual advocacy training; and
 
-&emsp;(8) other independent living services, as defined in section 706(30) of this title.
+&emsp;(8) other independent living services.
 
 #### (f) Matching funds
 
@@ -92,13 +92,13 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 #### (1) In general
 
-&emsp;The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to theCommissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (j)(4) of this section).
+&emsp;The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (j)(4) of this section).
 
 #### (2) Contents
 
 &emsp;An application for a grant under this section shall contain—
 
-&emsp;&emsp;(A) an assurance that the designated State unit described in subsection (a)(2) of this section will prepare and submit to the Commissioner a report, at the end of each fiscal year, with respect to each project or program the designated State unit operates or administers under this section, whether directly or through a grant or contract, which report shall contain, at a minimum, information on—
+&emsp;&emsp;(A) an assurance that the agency described in subsection (a)(2) of this section will prepare and submit to the Commissioner a report, at the end of each fiscal year, with respect to each project or program the agency operates or administers under this section, whether directly or through a grant or contract, which report shall contain, at a minimum, information on—
 
 &emsp;&emsp;&emsp;(i) the number and types of older individuals who are blind and are receiving services;
 
@@ -108,11 +108,11 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;&emsp;(iv) the amounts and percentages of resources committed to each type of service provided;
 
-&emsp;&emsp;&emsp;(v) data on actions taken to employ, and advance in employment, qualified individuals with severe disabilities, including older individuals who are blind; and
+&emsp;&emsp;&emsp;(v) data on actions taken to employ, and advance in employment, qualified individuals with significant disabilities, including older individuals who are blind; and
 
 &emsp;&emsp;&emsp;(vi) a comparison, if appropriate, of prior year activities with the activities of the most recent year;
 
-&emsp;&emsp;(B) an assurance that the designated State unit will—
+&emsp;&emsp;(B) an assurance that the agency will—
 
 &emsp;&emsp;&emsp;(i) provide services that contribute to the maintenance of, or the increased independence of, older individuals who are blind; and
 
@@ -124,7 +124,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;&emsp;&emsp;(III) outreach efforts; and
 
-&emsp;&emsp;(C) an assurance that the application is consistent with the State plan for providing independent living services required by section 796c of this title.
+&emsp;&emsp;(C) an assurance that the application is consistent with the State plan for providingindependent living services required by section 796c of this title.
 
 #### (j) Amount of formula grant
 
@@ -144,11 +144,11 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;&emsp;(i) $225,000; or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to one-third of one percent of the amount appropriated under section 796<i>l</i> of this title for the fiscal year and available for allotments under subsection (a) of this section.
+&emsp;&emsp;&emsp;(ii) an amount equal to 1/3 of 1 percent of the amount appropriated under section 796<i>l</i> of this title for the fiscal year and available for allotments under subsection (a) of this section.
 
 #### (B) Certain territories
 
-&emsp;&emsp;In the case of Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau, the amount referred to in subparagraph (A) of paragraph (1) for a fiscal year is $40,000, except that the Republic of Palau may receive such allotment under this section only until the Compact of Free Association with Palau takes effect.
+&emsp;&emsp;In the case of Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, the amount referred to in subparagraph (A) of paragraph (1) for a fiscal year is $40,000.
 
 #### (3) Formula
 
@@ -182,25 +182,17 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 &emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a) of this section.
 
-(Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732.)
+(Pub. L. 93–112, title VII, §752, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237.)
 
 #### References in Text
 
 Part C of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
 
-For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsec. (j)(2)(B), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+#### Prior Provisions
 
-#### Amendments
-
-1993—Subsec. (a)(2). Pub. L. 103–73, §114(m)(1), substituted “agency” for “unit” in heading.
-
-Subsec. (b). Pub. L. 103–73, §114(m)(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Beginning with fiscal year 1994, in the case of any fiscal year for which the amount appropriated under section 796<i>l</i> of this title is less than $13,000,000, grants under subsection (a) of this section shall be discretionary grants made on a competitive basis to States.”
-
-Subsec. (j)(1)(A). Pub. L. 103–73, §114(m)(3)(A), substituted “or” for “and” at end.
-
-Subsec. (j)(2)(A)(i). Pub. L. 103–73, §114(m)(3)(B), substituted “or” for “and” at end.
+A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 718 of this title.
+This section is referred to in section 716 of this title.
 

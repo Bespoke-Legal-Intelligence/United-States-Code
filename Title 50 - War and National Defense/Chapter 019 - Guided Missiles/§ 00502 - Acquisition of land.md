@@ -8,10 +8,6 @@ The Secretary of the Air Force is authorized in discharging the authority given 
 
 “Section 3324(a) and (b) of title 31” substituted in text for “section 3648, Revised Statutes, as amended \[31 U.S.C. 529\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 503, 504 of this title.

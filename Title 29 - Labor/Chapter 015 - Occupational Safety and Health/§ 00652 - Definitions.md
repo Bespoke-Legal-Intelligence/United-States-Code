@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(4) The term “person” means one or more individuals, partnerships, associations, corporations, business trusts, legal representatives, or any organized group of persons.
 
-&emsp;(5) The term “employer” means a person engaged in a business affecting commerce who has employees, but does not include the United States or any State or political subdivision of a State.
+&emsp;(5) The term “employer” means a person engaged in a business affecting commerce who has employees, but does not include the United States (not including the United States Postal Service) or any State or political subdivision of a State.
 
 &emsp;(6) The term “employee” means an employee of an employer who is employed in a business of his employer which affects commerce.
 
@@ -30,7 +30,11 @@ For the purposes of this chapter—
 
 &emsp;(14) The term “Workmen's Compensation Commission” means the National Commission on State Workmen's Compensation Laws established under this chapter.
 
-(Pub. L. 91–596, §3, Dec. 29, 1970, 84 Stat. 1591.)
+(Pub. L. 91–596, §3, Dec. 29, 1970, 84 Stat. 1591; Pub. L. 105–241, §2(a), Sept. 28, 1998, 112 Stat. 1572.)
+
+#### Amendments
+
+1998—Par. (5). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “the United States”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) interpretive rules and general statements of policy with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), and
 
-&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title),except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
+&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
 
 (2) The Commission shall have no authority under this subchapter, other than its authority under this section, to prescribe any rule with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title). The preceding sentence shall not affect any authority of the Commission to prescribe rules (including interpretive rules), and general statements of policy, with respect to unfair methods of competition in or affecting commerce.
 
@@ -88,7 +88,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
-(5)(A) Remedies under the preceding paragraphs of this subsection are in addition to and not in lieu of any other remedies provided by law.
+(5)(A) Remedies under the preceding paragraphs of this subsection are in addition to andnot in lieu of any other remedies provided by law.
 
 (B) The United States Courts of Appeal shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of a rule prescribed under subsection (a)(1)(B) of this section, if any district court of the United States would have had jurisdiction of such action but for this subparagraph. Any such action shall be brought in the United States Court of Appeals for the District of Columbia circuit, or for any circuit which includes a judicial district in which the action could have been brought but for this subparagraph.
 
@@ -112,7 +112,7 @@ Enforcement.—Compliance with regulations prescribed under this subsection shal
 
 (4) Compliance with regulations prescribed under this subsection shall be enforced with respect to Federal credit unions under sections 1766 and 1786 of title 12.
 
-(5) For the purpose of the exercise by any agency referred to in paragraph (2) of its powers under any Act referred to in that paragraph, a violation of any regulation prescribed under thissubsection shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (2), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with any regulation prescribed under this subsection, any other authority conferred on it by law.
+(5) For the purpose of the exercise by any agency referred to in paragraph (2) of its powers under any Act referred to in that paragraph, a violation of any regulation prescribed under this subsection shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (2), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with any regulation prescribed under this subsection, any other authority conferred on it by law.
 
 (6) The authority of the Board of Governors of the Federal Reserve System to issue regulations under this subsection does not impair the authority of any other agency designated in this subsection to make rules respecting its own procedures in enforcing compliance with regulations prescribed under this subsection.
 
@@ -146,7 +146,7 @@ The Commission shall not have any authority to promulgate any rule in the childr
 
 Not later than 60 days after May 28, 1980, the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980, the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the public and is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
 
-(Sept. 26, 1914, ch. 311, §18, as added Jan. 4, 1975, Pub. L. 93–637, title II, §202(a), 88 Stat. 2193; amended July 23, 1979, Pub. L. 96–37, §1(c), 93 Stat. 95; Mar. 31, 1980, Pub. L. 96–221, title VI, §610(b), 94 Stat. 174; May 28, 1980, Pub. L. 96–252, §§7–11(a), 12, 94 Stat. 376–379; Aug. 10, 1987, Pub. L. 100–86, title VII, §715(c), 101 Stat. 655; Aug. 9, 1989, Pub. L. 101–73, title VII, §744(t), 103 Stat. 441; Dec. 19, 1991, Pub. L. 102–242, title II, §212(g)(2), 105 Stat. 2302; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1604(a)(9), 106 Stat. 4082; Aug. 26, 1994, Pub. L. 103–312, §§3, 5, 108 Stat. 1691, 1692; Nov. 2, 1994, Pub. L. 103–437, §5(a), 108 Stat. 4582.)
+(Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Subsecs. (h) to (k). Pub. L. 103–312, §3(a), redesignated subsecs. (i) to (k)
 
 1992—Subsec. (f)(2)(A). Pub. L. 102–550 substituted “division” for “divisions”.
 
-1991—Subsec. (f). Pub. L. 102–242, §212(g)(2)(B), inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.”
+1991—Subsec. (f). Pub. L. 102–242, §212(g)(2)(B), inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise definedin section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.”
 
 Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out former par. (2) which read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of—
 
@@ -232,9 +232,9 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective and Termination Dates of 1980 Amendments
 
-Section 10(e) of Pub. L. 96–252 provided that: “The amendments made in subsection (a) and subsection (c)\[amending this section\] are repealed, effective at the end of fiscal year 1982. Effective upon such repeal, paragraph (5) of section 18(h) of the Federal Trade Commission Act \[subsec. (h)(5) of this section\], as added by subsection (d), is redesignated as paragraph (4) of section 18(h) of such Act.”
+Section 10(e) of Pub. L. 96–252 provided that: “The amendments made in subsection (a) and subsection (c) \[amending this section\] are repealed, effective at the end of fiscal year 1982. Effective upon such repeal, paragraph (5) of section 18(h) of the Federal Trade Commission Act \[subsec. (h)(5) of this section\], as added by subsection (d), is redesignated as paragraph (4) of section 18(h) of such Act.”
 
-Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1866, 1870, provided in part that: “Notwithstanding any other provision of law, the provisions of sections 10 \[amending this section and enacting provision set out as first paragraph of this note\], 11(b) \[set out as a note below\], 18 \[set out as a note under section 57c of this title\], 20 \[set out as a note under section 57c of this title\] and 21 \[enacting section 57a–1 of this title and enacting a provision set out as a note under section 57a–1 of this title\], of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374) are hereby extended until the termination date set forth in section 102(c) of H.J. Res. 631 \[Sept. 30, 1983\] as enacted into law \[Pub. L. 97–377\], notwithstanding subsections 10(e) \[see paragraph above\] and 21(i) \[set out as a note under section 57a–1 of this title\] of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374).”
+Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1866, 1870, provided in part that: “Notwithstanding any other provision of law, the provisions of sections 10 \[amending this section and enacting provision set out as first paragraph of this note\], 11(b) \[set out as a notebelow\], 18 \[set out as a note under section 57c of this title\], 20 \[set out as a note under section 57c of this title\] and 21 \[enacting section 57a–1 of this title and enacting a provision set out as a note under section 57a–1 of this title\], of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374) are hereby extended until the termination date set forth in section 102(c) of H.J. Res. 631 \[Sept. 30, 1983\] as enacted into law \[Pub. L. 97–377\], notwithstanding subsections 10(e) \[see paragraph above\] and 21(i) \[set out as a note under section 57a–1 of this title\] of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374).”
 
 Section 11(c) of Pub. L. 96–252 provided that: “The amendments made in subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[May 28, 1980\]. The children's advertising proceeding pending on the date of the enactment of this Act shall not proceed further until such time as the Commission has complied with section 18(b)(1)(A) of the Federal Trade Commission Act \[subsec. (b)(1)(A) of this section\], as amended by subsection (a)(3) and as so redesignated in section 8(a). In any such further proceeding, interested parties shall be given a reasonable opportunity to present their views in accordance with section 18(b)(1)(B) of the Federal Trade Commission Act, as so redesignated in section 8(a) \[subsec. (b)(1)(B) of this section\], section 18(b)(1)(C) of such Act, as so redesignated in section 8(a) \[subsec. (b)(1)(C) of this section\], and section 18(c) of such Act (15 U.S.C. 57a(c)).”
 
@@ -272,7 +272,7 @@ Section 202(d) of Pub. L. 93–637, as amended by Pub. L. 94–299, §2, May 29,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44, 45, 45a, 46, 57b–3, 2309, 2823, 5711, 5721, 6102 of this title; title 49 section 32908.
+This section is referred to in sections 44, 45, 45a, 46, 57b–3, 2309, 2823, 5711, 5721, 6102, 6502 of this title; title 49 section 32908.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

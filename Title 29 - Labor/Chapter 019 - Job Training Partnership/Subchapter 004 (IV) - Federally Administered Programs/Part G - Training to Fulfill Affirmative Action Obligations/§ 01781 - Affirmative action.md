@@ -4,7 +4,7 @@
 
 A contractor subject to the affirmative action obligations of Executive Order 11246, as amended, issued September 24, 1965, may establish or participate in training programs pursuant to this section for individuals meeting the eligibility criteria established in section <sup>1</sup> 1603, 1643, 1671, and 1672 of this title, which are designed to assist such contractors in meeting the affirmative action obligations of such Executive order. To qualify under this section, such a training program shall contain—
 
-&emsp;(1) a description of the jobs in the contractor's work force or in the service delivery area, for which the contractor has determined there is a need for training;
+&emsp;(1) a description of the jobs in the contractor's work force or in the service deliveryarea, for which the contractor has determined there is a need for training;
 
 &emsp;(2) a description of the recruiting, training, or other functions that the contractor, or the organization that will be engaged to perform the training, will perform and the steps that will be taken to insure that eligible individuals will—
 
@@ -28,7 +28,7 @@ A contractor subject to the affirmative action obligations of Executive Order 11
 
 (B) Individuals trained under any program satisfying the requirements of this section may be included by the private industry council in its performance accomplishments and the wage gains of such individuals shall be included in determining the compliance of the job training program of the private industry council with applicable standards.
 
-(2) The Director of the Office of Federal Contract Compliance Programs, Department of Labor, shall promulgate regulations setting forth how the Office will determine, during a compliance review, the degree to which a training program will satisfy the contractor's affirmative action obligations. The training and placement of trainees with employers other than the contractor may be considered in evaluating such contractor's overall good faith efforts, but in no event may placement of trainees with employers other than the contractor be permitted to affect that contractor's affirmative action obligations respecting its work force. The content of the training program will not be subject to review or regulation by the Office of Federal Contract Compliance Programs. If during a compliance review the Director of the Office of Federal Contract Compliance Programs determines that atraining program does not comply with its regulations, the Director shall—
+(2) The Director of the Office of Federal Contract Compliance Programs, Department of Labor, shall promulgate regulations setting forth how the Office will determine, during a compliance review, the degree to which a training program will satisfy the contractor's affirmative action obligations. The training and placement of trainees with employers other than the contractor may be considered in evaluating such contractor's overall good faith efforts, but in no event may placement of trainees with employers other than the contractor be permitted to affect that contractor's affirmative action obligations respecting its work force. The content of the training program will not be subject to review or regulation by the Office of Federal Contract Compliance Programs. If during a compliance review the Director of the Office of Federal Contract Compliance Programs determines that a training program does not comply with its regulations, the Director shall—
 
 &emsp;(A) notify the contractor of the disapproval,
 
@@ -50,11 +50,15 @@ Nothing in this section may be interpreted—
 
 &emsp;(4) to permit the Office of Federal Contract Compliance Programs to intervene or interfere with the authority and responsibilities of the private industry councils,
 
-&emsp;(5) to restrict or limit the authority of the Secretary to investigate the employment practices of any Government contractor, to initiate such investigation by the Director, to determine whether any nondiscrimination contractual provisions have been violated, or to enforce Executive Order 11246, or
+&emsp;(5) to restrict or limit the authority of the Secretary to investigate the employment practices of any Government contractor, toinitiate such investigation by the Director, to determine whether any nondiscrimination contractual provisions have been violated, or to enforce Executive Order 11246, or
 
 &emsp;(6) to prohibit the Secretary or the Director, or other authorized officers of the United States, from requesting or compelling any contractor preparing and maintaining a short form affirmative action plan under subsection (b) of this section to provide information necessary to conduct a compliance review or to provide data necessary to determine whether any violation of Executive Order 11246 has occurred.
 
 (Pub. L. 97–300, title IV, §481, Oct. 13, 1982, 96 Stat. 1390; Pub. L. 102–367, title VII, §702(a)(19), Sept. 7, 1992, 106 Stat. 1112.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 

@@ -49,7 +49,7 @@
 | (g) | Maintenance of effort. |
 | (h) | Contract evaluation and annual report. |
 | (i) | Authorization of appropriations. |
-| [3211\.](%C2%A7%2003211%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [3211\.](%C2%A7%2003211%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VIII%2C%20%C2%A7801%28a%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203287.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,4 +68,4 @@
 - [&sect; 03208 - Indian Child Abuse Treatment Grant Program](%C2%A7%2003208%20-%20Indian%20Child%20Abuse%20Treatment%20Grant%20Program.md)
 - [&sect; 03209 - Indian Child Resource and Family Services Centers](%C2%A7%2003209%20-%20Indian%20Child%20Resource%20and%20Family%20Services%20Centers.md)
 - [&sect; 03210 - Indian Child Protection and Family Violence Prevention Program](%C2%A7%2003210%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention%20Program.md)
-- [&sect; 03211 - Report to Congress](%C2%A7%2003211%20-%20Report%20to%20Congress.md)
+- [&sect; 03211 - Repealed. Pub. L. 105&#8211;362, title VIII, &sect;801(a), Nov. 10, 1998, 112 Stat. 3287](%C2%A7%2003211%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20VIII%2C%20%C2%A7801%28a%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203287.md)

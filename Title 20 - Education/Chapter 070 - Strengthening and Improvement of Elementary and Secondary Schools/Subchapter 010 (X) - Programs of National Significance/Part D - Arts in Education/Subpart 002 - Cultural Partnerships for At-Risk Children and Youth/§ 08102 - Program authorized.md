@@ -58,7 +58,7 @@ The Secretary is authorized to award grants to eligible entities to pay the Fede
 
 #### (7) Models
 
-&emsp;The Secretary, in consultation with the Chairman of the National Endowment for the Humanities, the Chairman of the National Endowment for the Arts and the director <sup>2</sup> of the Institute of Museum and Library Services, or their designees, shall submit successful modelsunder this subchapter to the National Diffusion Network for review.
+&emsp;The Secretary, in consultation with the Chairman of the National Endowment for the Humanities, the Chairman of the National Endowment for the Arts and the director <sup>2</sup> of the Institute of Museum and Library Services, or their designees, shall submit successful models under this subchapter to the National Diffusion Network for review.
 
 #### (c) Target population
 

@@ -24,7 +24,7 @@ Every alien, eighteen years of age and over, shall at all times carry with him a
 
 Notwithstanding any other provision of law, the Attorney General is authorized to require any alien to provide the alien's social security account number for purposes of inclusion in any record of the alien maintained by the Attorney General or the Service.
 
-(June 27, 1952, ch. 477, title II, ch. 7, §264, 66 Stat. 224; Nov. 14, 1986, Pub. L. 99–653, §10, 100 Stat. 3657; Oct. 24, 1988, Pub. L. 100–525, §8(i), 102 Stat. 2617; Nov. 29, 1990, Pub. L. 101–649, title V, §503(b)(2), 104 Stat. 5049; Sept. 30, 1996, Pub. L. 104–208, div. C, title IV, §415, 110 Stat. 3009–669.)
+(June 27, 1952, ch. 477, title II, ch. 7, §264, 66 Stat. 224; Pub. L. 99–653, §10, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(i), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title V, §503(b)(2), Nov. 29, 1990, 104 Stat. 5049; Pub. L. 104–208, div. C, title IV, §415, Sept. 30, 1996, 110 Stat. 3009–669.)
 
 #### References in Text
 

@@ -12,7 +12,7 @@ As used in this chapter:
 
 “State” means any State or Territory of the United States, or any political subdivision thereof.
 
-“Person” means an individual, partnership, association, corporation, business trust, legalrepresentative, or any organized group of persons.
+“Person” means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
 
 (Aug. 31, 1954, ch. 1156, §2, 68 Stat. 1009.)
 

@@ -152,7 +152,7 @@
 
 &emsp;(C) the term “rehabilitation” includes the alteration of or correction of deficiencies in an existing structure or facility so as to extend the useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
 
-\[(f) Omitted.\]
+(f) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.
 
 (g)(1) The Director of the Office of Management and Budget shall establish the funding for advisory and assistance services for each department and agency as a separate object class in each budget annually submitted to the Congress under this section.
 
@@ -172,11 +172,11 @@
 
 &emsp;(iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693.)
 
 #### Amendment of Section
 
-<i>For repeal of amendment by section 1506 of Title 21, Food and Drugs, see Effective and Termination Dates of 1988 Amendments note below.</i>
+<i>For termination of amendment by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -324,7 +324,7 @@ Act
 
 June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(1); added Sept. 8, 1982, Pub. L. 97–255, §3, 96 Stat. 815.
 
-The words “The President shall include in the supporting detail accompanying each Budget” are omitted as being included in the introductory provisions of 31:1105(a). The words “submitted on or after January 1,1983” are omitted as executed. The words “by the President” and “if any” are omitted as surplus.
+The words “The President shall include in the supporting detail accompanying each Budget” are omitted as being included in the introductory provisions of 31:1105(a). The words “submitted on or after January 1, 1983” are omitted as executed. The words “by the President” and “if any” are omitted as surplus.
 
 #### References in Text
 
@@ -340,6 +340,8 @@ Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 19
 
 #### Amendments
 
+1998—Subsec. (a)(26). Pub. L. 105–277 added par. (26) relating to statement of appropriations requested for drug programs.
+
 1997—Subsec. (a)(32). Pub. L. 105–33 added par. (32).
 
 1996—Subsecs. (a)(26) to (31). Pub. L. 104–287 redesignated pars. (27) to (31) as (26) to (30), respectively. Former par. (26) previously terminated.
@@ -352,7 +354,7 @@ Subsec. (g). Pub. L. 103–355 added subsec. (g).
 
 1993—Subsec. (a)(29). Pub. L. 103–62 added par. (29).
 
-1990—Subsec. (a). Pub. L. 101–508, §13112(c)(1), substituted “On or after the first Monday in January but not later than the first Monday in February of each year” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
+1990—Subsec. (a). Pub. L. 101–508, §13112(c)(1), substituted “On or after the first Monday in January but not later than the first Monday in February of eachyear” for “On or before the first Monday after January 3 of each year (or on or before February 5 in 1986)”.
 
 Subsec. (a)(28). Pub. L. 101–576 added par. (28).
 
@@ -404,7 +406,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective and Termination Dates of 1988 Amendments
 
-Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed Sept. 30, 1997, see section 1506 of Title 21, Food and Drugs, and section 1012 of Pub. L. 100–690, set out as an Effective Date note under section 1501 of Title 21.
+Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed Sept. 30, 1997, see sections 1012 and 1009, respectively, of Pub. L. 100–690.
 
 Section 5303 of Pub. L. 100–418 provided that: “The amendment made by section 5301 \[amending this section\] shall be effective for fiscal years 1989, 1990, 1991, and 1992, and shall be fully reflected in the budgets submitted by the President as required by section 1105(a) of title 31, United States Code, for each such fiscal year, and the amendment made by section 5302 \[amending section 632 of Title 2, The Congress\] shall be effective for fiscal years 1989, 1990, 1991, and 1992.”
 
@@ -412,7 +414,7 @@ Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see secti
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 1995, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
+Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (f) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
 
 #### Construction of 1993 Amendment
 
@@ -420,29 +422,7 @@ Amendment made by Pub. L. 103–62 not to be construed as creating any right, pr
 
 #### Administrative Expenses of Legislative Branch Entities; Separate Categories; Compliance Reporting
 
-Pub. L. 103–69, title III, §308, Aug. 11, 1993, 107 Stat. 710, as amended by Pub. L. 104–316, title I, §115(c), Oct. 19, 1996, 110 Stat. 3834, provided that:
-
-“(a) For fiscal years 1995, 1996, and 1997, the submissions in support of the amounts included in the Budget for each entity of the legislative branch shall set forth a separate category for administrative expenses. For fiscal years 1993 and 1994, the administrative expenses for each entity of the legislative branch shall be calculated and submitted in a separate category in the same format as if submitted in support of amounts included in the Budget.
-
-“(b) For fiscal years 1994, 1995, 1996, and 1997, the submissions under subsection (a) in the separate category for administrative expenses for each entity of the legislative branch shall include reductions from the amount calculated for administrative expenses for fiscal year 1993, adjusted for inflation, as follows:
-
-&emsp;“(1) Fiscal year 1994, reduction of not less than 3 percent.
-
-&emsp;“(2) Fiscal year 1995, reduction of not less than 6 percent.
-
-&emsp;“(3) Fiscal year 1996, reduction of not less than 9 percent.
-
-&emsp;“(4) Fiscal year 1997, reduction of not less than 14 percent.
-
-“(c) The Comptroller General may carry out compliance reporting under this section.
-
-“(d) As used in this section—
-
-&emsp;“(1) the term ‘administrative expenses’ means expenses of contractual services and supplies, other than rental payments, programmatic mission-essential expenses, reimbursable expenses, and expenses required by law;
-
-&emsp;“(2) the term ‘Budget’ means the Budget of the United States Government, submitted under section 1105 of title 31, United States Code; and
-
-&emsp;“(3) the term ‘entity of the legislative branch’ means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the General Accounting Office, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment.”
+Pub. L. 103–69, title III, §308, Aug. 11, 1993, 107 Stat. 710, as amended by Pub. L. 104–316, title I, §115(c), Oct. 19, 1996, 110 Stat. 3834, for fiscal years 1995, 1996, and 1997, required submissions in support of amounts included in Budget for each entity of the legislative branch to set forth a separate category for administrative expenses, for fiscal years 1993 and 1994, required administrative expenses for each entity of the legislative branch to be calculated and submitted in a separate category in same format as if submitted in support of amounts included in the Budget, for fiscal years 1994, 1995, 1996, and 1997, required submissions in the separate category for administrative expenses for each entity of the legislative branch to include reductions by a specific percentage for fiscal years 1994 to 1997, and authorized the Comptroller General to carry out compliance reporting under this section.
 
 #### Separate Object Class for Consulting Services in Annual Budgets
 
@@ -538,7 +518,7 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 119, 139, 168, 179, 221, 222, 224, 226, 483, 484, 1465, 1741, 2006, 2216, 2216a, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2515, 2525, 2703, 2721, 2809, 2835, 2836, 2859, 2884, 7902; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1505, 1509; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 2505, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 1395w–1, 2122a, 2286e, 7271b, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353.
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 115a, 119, 139, 168, 179, 221, 222, 223, 224, 226, 483, 484, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2515, 2525, 2703, 2721, 2809, 2835, 2836, 2859, 2884, 7902; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 2122a, 2286e, 7271b, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353.
 
 <i><sup>1</sup></i><i> So in original. There is no par. (31).</i>
 

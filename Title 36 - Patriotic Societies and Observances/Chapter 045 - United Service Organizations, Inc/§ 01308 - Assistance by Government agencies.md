@@ -1,6 +1,0 @@
-### §1308. Assistance by Government agencies
-
-The Department of Defense may make its resources available to the USO, to the extent compatible with the primary mission of the Department of Defense and in accordance with guidelines promulgated by the Secretary of Defense, in order to facilitate the accomplishment of the USO mission.
-
-(Pub. L. 96–165, §8, Dec. 29, 1979, 93 Stat. 1271.)
-

@@ -36,7 +36,7 @@
 
 #### (D) Use of section 1437f assistance
 
-&emsp;&emsp;In any case where assistance under section 1437f of this title becomes available to a participating jurisdiction, recipients of rental assistance under this subchapter shall qualify for tenant selection preferences to the same extent as when they received the rental assistance under this subchapter. A rental assistance program under this subchapter shall meet minimum criteria prescribed by the Secretary, such as housing qualitystandards and standards regarding the reasonableness of the rent.
+&emsp;&emsp;In any case where assistance under section 1437f of this title becomes available to a participating jurisdiction, recipients of rental assistance under this subchapter shall qualify for tenant selection preferences to the same extent as when they received the rental assistance under this subchapter. A rental assistance program under this subchapter shall meet minimum criteria prescribed by the Secretary, such as housing quality standards and standards regarding the reasonableness of the rent.
 
 #### (E) Security deposit assistance
 
@@ -68,7 +68,7 @@ Funds made available under this part may not be used to—
 
 &emsp;(4) provide assistance authorized under section 1437g of this title,
 
-&emsp;(5) carry out activities authorized under section 1437<i>l</i> <sup>1</sup> of this title, or
+&emsp;(5) carry out activities authorized under section 1437g(d)(1) <sup>1</sup> of this title, or
 
 &emsp;(6) provide assistance to eligible low-income housing under the Emergency Low Income Housing Preservation Act of 1987 or the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\].
 
@@ -96,23 +96,25 @@ Funds made available under this part may not be used to—
 
 #### (f) Certification of compliance
 
-The requirements of section 3545(d) of this title shall be satisfied by a certification by a participating jurisdiction to the Secretary that the combination of Federal assistance provided to any housing project shall not be any more than is necessary to provide affordable housing.
+The requirements of section 3545(d) of this title shall be satisfied by a certification by aparticipating jurisdiction to the Secretary that the combination of Federal assistance provided to any housing project shall not be any more than is necessary to provide affordable housing.
 
 #### (g) Limitation on operating assistance
 
 A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
 
-(Pub. L. 101–625, title II, §212, Nov. 28, 1990, 104 Stat. 4097; Pub. L. 102–550, title II, §§203(a), 204–207(b), (d), title X, §1012(e), Oct. 28, 1992, 106 Stat. 3752–3754, 3905.)
+(Pub. L. 101–625, title II, §212, Nov. 28, 1990, 104 Stat. 4097; Pub. L. 102–550, title II, §§203(a), 204–207(b), (d), title X, §1012(e), Oct. 28, 1992, 106 Stat. 3752–3754, 3905; Pub. L. 105–276, title V, §522(b)(5), Oct. 21, 1998, 112 Stat. 2565.)
 
 #### References in Text
 
-Section 1437d(c)(4)(A) of this title, referred to in subsec. (a)(3)(A)(ii), was in the original “section 6(c)(4)(A) of the Housing Act of 1937”, and was translated as reading “section 6(c)(4)(A) of the United States Housing Actof 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
+Section 1437d(c)(4)(A) of this title, referred to in subsec. (a)(3)(A)(ii), was in the original “section 6(c)(4)(A) of the Housing Act of 1937”, and was translated as reading “section 6(c)(4)(A) of the United States Housing Act of 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
 
-Section 1437<i>l</i> of this title, referred to in subsec. (d)(5), was in the original “section 14 of the Housing Act of 1937”, and was translated as reading “section 14 of the United States Housing Act of 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
+Section 1437g(d)(1) of this title, referred to in subsec. (d)(5), was in the original “section 9(d)(1) of the Housing Act of 1937”, and was translated as reading “section 9(d)(1) of the United States Housing Act of 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(6), is title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, as amended, which was classified principally as a note under section 1715<i>l</i> of Title 12, Banks and Banking. Title II of Pub. L. 100–242, was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to chapter 42 (§4101 et seq.) of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
 #### Amendments
+
+1998—Subsec. (d)(5). Pub. L. 105–276 substituted “section 1437g(d)(1)” for “section 1437<i>l</i>”.
 
 1992—Subsec. (a)(1). Pub. L. 102–550, §207(a), inserted “to provide for the payment of reasonable administrative and planning costs, to provide for the payment of operating expenses of community housing development organizations,” after “or organizations,”.
 
@@ -141,6 +143,10 @@ Pub. L. 102–550, §206, inserted after first sentence of par. (1) “For multi
 Subsecs. (e), (f). Pub. L. 102–550, §207(b)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 Subsec. (g). Pub. L. 102–550, §207(d), added subsec. (g).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 #### Effective Date of 1992 Amendment
 

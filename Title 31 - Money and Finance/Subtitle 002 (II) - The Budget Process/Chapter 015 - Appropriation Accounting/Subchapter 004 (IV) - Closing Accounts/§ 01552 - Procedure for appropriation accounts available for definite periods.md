@@ -96,5 +96,5 @@ Report on Audit.—Not later than December 31, 1991, the Secretary of Defense sh
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1553, 1554, 1558 of this title; title 10 sections 2216, 2410m.
+This section is referred to in sections 1553, 1554, 1558 of this title; title 10 sections 2216, 2410m; title 50 section 403f.
 

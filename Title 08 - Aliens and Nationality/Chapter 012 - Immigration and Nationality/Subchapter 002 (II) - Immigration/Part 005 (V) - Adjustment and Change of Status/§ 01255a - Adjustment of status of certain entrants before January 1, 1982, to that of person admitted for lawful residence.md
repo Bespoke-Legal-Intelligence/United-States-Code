@@ -408,13 +408,13 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(B) The Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
 
-&emsp;&emsp;(C) The Vocational Education Act of 1963 \[20 U.S.C. 2301 et seq.\].
+&emsp;&emsp;(C) The Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\].
 
 &emsp;&emsp;(D) Title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 &emsp;&emsp;(E) The Headstart-Follow Through Act \[42 U.S.C. 2921 et seq.\].
 
-&emsp;&emsp;(F) The Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+&emsp;&emsp;(F) The Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
 &emsp;&emsp;(G) Title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
 
@@ -430,7 +430,11 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Nov. 6, 1986, Pub. L. 99–603, title II, §201(a)(1), 100 Stat. 3394; amended Oct. 24, 1988, Pub. L. 100–525, §2(h)(1), 102 Stat. 2611; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, 104 Stat. 5083, 5086; Oct. 28, 1991, Pub. L. 102–140, title I, 105 Stat. 785; Dec. 12, 1991, Pub. L. 102–232, title III, §307(<i>l</i>)(6), 105 Stat. 1756; Oct. 20, 1994, Pub. L. 103–382, title III, §394(g), 108 Stat. 4028; Oct. 25, 1994, Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), 108 Stat. 4310, 4317; Apr. 24, 1996, Pub. L. 104–132, title IV, §431(a), 110 Stat. 1273; Aug. 22, 1996, Pub. L. 104–193, title I, §110(s)(2), 110 Stat. 2175; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696.)
+(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(<i>l</i>)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(<i>l</i>)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125.)
+
+#### Amendment of Subsection (h)(4)(F)
+
+<i>Pub. L. 105–277, div. A, title I, §101(f) \[title VIII, §405(f)(4), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–430, 2681–435, provided that, effective July 1, 2000, subsection (h)(4)(F) of this section is amended by substituting “Title I” for “The Job Training Partnership Act or title I”.</i>
 
 #### References in Text
 
@@ -454,25 +458,31 @@ The Food Stamp Act of 1977, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 88
 
 The National School Lunch Act, referred to in subsec. (h)(4)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Vocational Education Act of 1963, referred to in subsec. (h)(4)(C), was title I of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 94–482, title II, §202(a), Oct. 12, 1976, 90 Stat. 2169, which was classified to chapter 44 (§2301 et seq.) of Title 20, Education, prior to amendment by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2435, striking out all after the enacting clause and inserting in lieu thereof titles I to V, to be cited as the Carl D. Perkins Vocational Education Act. Subsequently, Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, amended the Act to be cited as the Carl D. Perkins Vocational and Applied Technology Education Act. For additional details, see Codification note preceding section 2301 of Title 20.
+The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat.519. For complete classification of this Act to the Code, see Tables.
+The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 The Job Training Partnership Act, referred to in subsec. (h)(4)(F), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified principally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
+The Workforce Investment Act of 1998, referred to in subsec. (h)(4)(F), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified generally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
 The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h)(4)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
+
+1998—Subsec. (h)(4)(C). Pub. L. 105–332 substituted “Carl D. Perkins Vocational and Technical Education Act of 1998” for “Vocational Education Act of 1963”.
+
+Subsec. (h)(4)(F). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(4)\], substituted “The Job Training Partnership Act or title I of the Workforce Investment Act of 1998.” for “The Job Training Partnership Act.”
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–208, §308(g)(5)(A)(iii), inserted “(as in effect before October 1, 1996)” after “section 1252 of this title”.
 
@@ -522,7 +532,7 @@ Subsec. (d)(2)(B)(ii)(II). Pub. L. 101–649, §603(a)(13)(C), substituted “(4
 
 Subsec. (d)(2)(B)(ii)(III). Pub. L. 101–649, §603(a)(13)(D), substituted “(2)(C)” for “(23)”.
 
-Subsec. (d)(2)(B)(ii)(IV). Pub. L. 101–649, §603(a)(13)(E), substituted “(3) (relating to security and related grounds), other than subparagraph (E) thereof” for “(27), (28), and (29) (relating to national security and members of certain organizations)”.
+Subsec. (d)(2)(B)(ii)(IV). Pub. L. 101–649, §603(a)(13)(E), substituted “(3) (relating to security and relatedgrounds), other than subparagraph (E) thereof” for “(27), (28), and (29) (relating to national security and members of certain organizations)”.
 
 Subsec. (d)(2)(B)(ii)(V). Pub. L. 101–649, §603(a)(13)(F), struck out subcl. (V) which referred to par. (33).
 
@@ -538,9 +548,13 @@ Subsec. (c)(5). Pub. L. 100–525, §2(h)(1)(D)(ii), substituted semicolon for p
 
 Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted “or for the preparation of reports to Congress under section 404 of the Immigration Reform and Control Act of 1986” after “paragraph (6)”.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end “Subclause (II) (prohibiting the waiver ofsection 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
+Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end “Subclause (II) (prohibiting the waiver of section 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
 
 Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residence status under subsection (a) of this section” after “permanent residence”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(4)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendments
 
@@ -680,219 +694,11 @@ Section 201(c)(2) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(h)(2
 
 #### Cuban-Haitian Adjustment
 
-Section 202 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(i), Oct. 24, 1988, 102 Stat. 2612, provided that the status of an alien who received an immigration designation as a Cuban/Haitian Entrant as of Nov. 6, 1986, or who was a national of Cuba or Haiti, who arrived in the United States before Jan. 1, 1982, could be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence if the alien applied for such adjustment within two years after Nov. 6, 1986, and met certain other eligibility requirements.
+Section 202 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(i), Oct. 24, 1988, 102 Stat. 2612, provided that the status of an alien who received an immigration designation as a Cuban/Haitian Entrant as of Nov. 6, 1986, or who was a national of Cuba or Haiti, who arrived inthe United States before Jan. 1, 1982, could be adjusted by the Attorney General to that of an alien lawfully admitted for permanent residence if the alien applied for such adjustment within two years after Nov. 6, 1986, and met certain other eligibility requirements.
 
 #### State Legalization Impact-Assistance Grants
 
-Section 204 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L. 103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, provided that:
-
-“(a)
-
-Appropriation of Funds.—
-
-&emsp;“(1)
-
-In general.—(A) Out of any money in the Treasury not otherwise appropriated, there are appropriated to carry out this section (and including Federal, State, and local administrative costs) $1,000,000,000 (less the amount described in paragraph (2)) for fiscal year 1988 and for each of the three succeeding fiscal years.
-
-&emsp;“(B) Funds appropriated for fiscal year 1990 under this section are reduced by $555,244,000, and funds appropriated for fiscal year 1991 under this section are reduced by $566,854,000.
-
-&emsp;“(C) For fiscal years 1993 and 1994 combined, there are appropriated to carry out this section for costs incurred on or after October 1, 1989 (including Federal, State, and local administrative costs) out of any money in the Treasury not otherwise appropriated, $2,000,000,000 (less the amount described in paragraph (2) for each of fiscal years 1990 and 1991) less theamount made available for allotments to States under subsection (b) for fiscal year 1990 and fiscal year 1991: <i>Provided</i>, That $812,000,000 shall be available in fiscal year 1994 and the remainder of these funds shall be available in fiscal year 1993.
-
-&emsp;“(2)
-
-Offset.—
-
-&emsp;&emsp;“(A)
-
-In general.—Subject to subparagraphs (B) through (D), the amount described in this paragraph for a fiscal year is equal to the amount estimated to be expended by the Federal Government in the fiscal year for the programs of financial assistance, medical assistance, and assistance under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\] for aliens who would not be eligible for such assistance under paragraph (1)(A) of section 245A(h) of the Immigration and Nationality Act \[8 U.S.C. 1255a(h)(1)(A)\] but for the provisions of paragraph (2) or paragraph (3) of such section.
-
-&emsp;&emsp;“(B)
-
-No offset for certain ssi eligible individuals.—The amount described in this paragraph shall not include any amounts attributable to supplemental security benefits paid under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] or medical assistance furnished under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], in the case of an alien who is determined by the Secretary of Health and Human Services, based on an application for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 \[42 U.S.C. 1382 note\] filed prior to the date designated by the Attorney General in accordance with section 245A(a)(1)(A) of the Immigration and Nationality Act \[8 U.S.C. 1255a(a)(1)(A)\], to be permanently residing in the United States under color of law as provided in section 1614(a)(1)(B)(ii) of the Social Security Act \[42 U.S.C. 1382c(a)(1)(B)(ii)\] and to be eligible to receive such benefits for the month prior to the month in which such date occurs, for such time as such alien continues without interruption to be eligible to receive such benefits in accordance with the provisions of title XVI of the Social Security Act or section 212 of Public Law 93–66, as appropriate.
-
-&emsp;&emsp;“(C)
-
-Estimated initial offset.—For purposes of subparagraph (A), with respect to fiscal year 1988, the amount estimated to be expended is equal to $70,000,000. For subsequent fiscal years, the amount estimated to be expended shall be such estimate as is contained in the annual fiscal budget submitted for that year to the Congress by the President.
-
-&emsp;&emsp;“(D)
-
-Adjustment for estimates.—If the actual amount of expenditures by the Federal Government described in subparagraph (A) for a fiscal year exceeds, or is less than, the amount estimated to be expended for that year under subparagraph (C) (taking into account any adjustment under this subparagraph), then for the subsequent fiscal year the amount described in this paragraph shall be decreased, or increased, respectively, by the amount of such excess or deficit for that previous fiscal year.
-
-“(b)
-
-Entitlement of States.—(1) From the sums appropriated under subsection (a) for a fiscal year (less the amount reserved for Federal administrative costs), the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall allot to each State with an application approved under subsection (d)(1) an amount determined in accordance with a formula, established by the Secretary by regulation, which takes into account—
-
-&emsp;“(A) the number of eligible legalized aliens (as defined in subsection (j)(4)) residing in the State in that fiscal year;
-
-&emsp;“(B) the ratio of the number of eligible legalized aliens in the State to the total number of residents of that State and to the total number of such aliens in all the States in that fiscal year;
-
-&emsp;“(C) the amount of expenditures the State is likely to incur in that fiscal year in providing assistance for eligible legalized aliens for which reimbursement or payment may be made under this section;
-
-&emsp;“(D) the ratio of the amount of such expenditures in the State to the total of all such expenditures in all the States;
-
-&emsp;“(E) adjustments for the difference in previous years between the State's actual expenditures (described in subparagraph (C)) incurred and the allocation provided the State under this section for those years; and
-
-&emsp;“(F) such other factors as the Secretary deems appropriate to provide for an equitable distribution of such amounts.
-
-“(2) To the extent that all the funds appropriated under this section for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under this section for the fiscal year or because some States have indicated in their description of activities that they do not intend to use, in that fiscal year or any succeeding fiscal year (before fiscal year 1995), the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
-
-“(3) In determining the number of eligible legalized aliens for purposes of paragraph (1), the Secretary may estimate such number on the basis of such data as he may deem appropriate.
-
-“(4) For each fiscal year the Secretary shall make payments, as provided by section 6503 of title 31, United States Code, to each State from its allotment under this subsection. Any amount paid to a State for a fiscal year and remaining unobligated at the end of such year shall remain available to such State for the purposes for which it was made in subsequent fiscal years, but shall not remain available after September 30, 1994. Any funds not expended by States by December 30, 1994 shall be reallocated by the Secretary to States which had expended their entire allotments, based on each State's percentage share of total unreimbursed legalized alien costs in all States. Funds made available to a State pursuant to the preceding sentence of this paragraph shall be utilized by the State to reimburse all allowable costs within 90 days after a State has received a reallocation of funds from the Secretary, but in no event later than July 31, 1995.
-
-“(5) For fiscal year 1993, the Secretary shall make allotments to States under paragraph (1) no later than October 15, 1992, <i>Provided</i>, That with respect to States in which total allowable unreimbursed State and local costs incurred prior to October 1, 1992 exceed $100,000,000, within each such State's allocation, the State shall first reimburse all allowable costs incurred between October 1, 1990 and October 1, 1992, before reimbursing costs incurred on or after October 1, 1992, except for State and local administrative costs and for costs of services required to enable aliens granted temporary residence under section 245A(a) of the Immigration and Nationality Act \[8 U.S.C. 1255a(a)\] to attain citizenship skills described in section 245A(b)(1)(D)(i) of the Immigration and Nationality Act: <i>Provided further</i>, That in reimbursing costs incurred prior to October 1, 1992, each State shall reimburse each provider at the same pro rata rate.
-
-“(c)
-
-Providing Assistance.—(1) Of the amounts allotted to a State under this section, the State may only use such funds, in accordance with this section—
-
-&emsp;“(A) for reimbursement of the costs of programs of public assistance provided with respect to eligible legalized aliens, for which such aliens were not disqualified under section 245A(h) of the Immigration and Nationality Act \[8 U.S.C. 1255a(h)\] at the time of such assistance,
-
-&emsp;“(B) for reimbursement of the costs of programs of public health assistance provided to any alien who is, or is applying on a timely basis to become, an eligible legalized alien,
-
-&emsp;“(C) to make payments to State educational agencies for the purpose of assisting local educational agencies of that State in providing educational services for eligible legalized aliens,
-
-&emsp;“(D) to make payments for public education and outreach (including the provision of information to individual applicants) to inform temporary resident aliens regarding—
-
-&emsp;&emsp;“(i) the requirements of sections 210 and 245A of the Immigration and Nationality Act \[8 U.S.C. 1160, 1255a\] regarding the adjustment of resident status,
-
-&emsp;&emsp;“(ii) sources of assistance for such aliens obtaining the adjustment of status described in clause (i), including educational, informational, referral services, and the rights and responsibilities of such aliens and aliens lawfully admitted for permanent residence,
-
-&emsp;&emsp;“(iii) the identification of health, employment, and social services, and
-
-&emsp;&emsp;“(iv) the importance of identifying oneself as a temporary resident alien to service providers,
-
-> &emsp;except that nothing in this subparagraph may be construed as authorizing the provision of client counseling or any other service which would assume responsibility for the alien's application for the adjustment of status described in clause (i),
-
-&emsp;“(E)(i) subject to clause (ii), to make payments for education and outreach efforts by State agencies regarding unfair discrimination in employment practices based on national origin or citizenship status,
-
-&emsp;“(ii) except that the State agencies shall not initiate such efforts until after such consultation with the Office of the Special Counsel for Unfair Immigration-Related Employment Practices as is appropriate to ensure, to the maximum extent feasible, a uniform program.
-
-> Subject to paragraph (2), the State may select the distribution of the use of such funds among such purposes.
-
-“(2)(A) Subject to subparagraphs (B) and (C), of the amounts allotted to a State under this section in any fiscal year, 10 percent shall be used by the State for reimbursement under paragraph (1)(A), 10 percent shall be used by the State for reimbursement under paragraph (1)(B), and 10 percent shall be used by the State for payments under paragraph (1)(C).
-
-“(B) If a State does not require the use of the full 10 percent provided under subparagraph (A) for a particular function described in a subparagraph of paragraph (1) for a fiscal year, the unused portion shall, subject to subparagraph (C), be equally distributed among the two other subparagraphs.
-
-“(C) In no case shall the funds provided under this section be used to provide reimbursement for more than 100 percent of the costs described in paragraph (1)(A) or (1)(B).
-
-“(D) Of the amount allotted to a State with respect to any fiscal year, a State may not use more than—
-
-&emsp;“(i) 1 percent (or, if greater, $100,000) for payments under paragraph (1)(D), and
-
-&emsp;“(ii) 1 percent (or, if greater, $100,000) for payments under paragraph (1)(E).
-
-“(3) To the extent that a State provides for the use of funds for the purpose described in paragraph (1)(C), the definitions and provisions of the Emergency Immigrant Education Act of 1984 (title VI of Public Law 98-511; 20 U.S.C. 4101 et seq.) \[see 20 U.S.C. 7541 et seq.\] shall apply to payments under such paragraph in the same manner as they apply to payments under that Act, except that, in applying this paragraph—
-
-&emsp;“(A) any reference in such Act to ‘immigrant children’ shall be deemed to be a reference to ‘eligible legalized aliens’ (including such aliens who are over 16 years of age) during the 60-month period beginning with the first month in which such an alien is granted temporary lawful residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\];
-
-&emsp;“(B) in determining the amount of payment with respect to eligible legalized aliens who are over 16 years of age, the phrase ‘described under paragraph (2)’ shall be deemed to be stricken from section 606(b)(1)(A) of such Act (20 U.S.C. 4105(b)(1)(A));
-
-&emsp;“(C) the State educational agency may provide such educational services to adult eligible legalized aliens through local educational agencies and other public and private nonprofit organizations, including community-based organizations of demonstrated effectiveness; and
-
-&emsp;“(D) such services may include English language and other programs designed to enable such aliens to attain the citizenship skills described in section 245A(b)(1)(D)(i) of the Immigration and Nationality Act \[8 U.S.C. 1255a(b)(1)(D)(i)\].
-
-“(d)
-
-Statements and Assurances.—(1) No State is eligible for payment under subsection (b) unless the State—
-
-&emsp;“(A) has filed with, and had approved by, the Secretary an application containing such information, including the information described in paragraph (2) and criteria for and administrative methods of disbursing funds received under this section, as the Secretary determines to be necessary to carry out this section, and
-
-&emsp;“(B) transmits to the Secretary a statement of assurances that certifies that (i) funds allotted to the State under this section will only be used to carry out the purposes described in subsection (c)(1), (ii) the State will provide a fair method (as determined by the State) for the allocation of funds among State and local agencies in accordance with paragraph (2) and subsection (c)(2), and (iii) fiscal control and fund accounting procedures will be established that are adequate to meet the requirements of paragraph (2) and subsections (e) and (f).
-
-“(2) The application of each State under this subsection for each fiscal year must include detailed information on—
-
-&emsp;“(A) the number of eligible legalized aliens residing in the State, and
-
-&emsp;“(B) the costs (excluding any such costs otherwise paid from Federal funds) which the State and each locality is likely to incur for the purposes described in subsection (c)(1).
-
-“(e)
-
-Reports and Audits.—(1)(A) Each State shall prepare and submit to the Secretary annual reports on its activities under this section. In order to properly evaluate and to compare the performance of different States assisted under this section and to assure the proper expenditure of funds under this section, such reports shall be in such form and contain such information as the Secretary determines (after consultation with the States and the Comptroller General) to be necessary—
-
-&emsp;“(i) to secure an accurate description of those activities,
-
-&emsp;“(ii) to secure a complete record of the purposes for which funds were spent and of the recipients of such funds, and
-
-&emsp;“(iii) to determine the extent to which funds were expended consistent with this section.
-
-> Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
-
-“(B) The Secretary shall annually report to the Congress on activities funded under this section and shall provide for transmittal of a copy of such report to each State.
-
-“(2)(A) For requirements relating to audits of funds received by a State under this section, see chapter 75 of title 31, United States Code (relating to requirements for single audit).
-
-“(B) Each State shall repay to the United States amounts ultimately found not to have been expended in accordance with this section, or the Secretary may offset such amounts against any other amount to which the State is or may become entitled under this section.
-
-“(C) The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any State which is not using its allotment under this section in accordance with this section. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
-
-“(3) The State shall make copies of the reports and audits required by this subsection available for public inspection within the State.
-
-“(4)(A) For the purpose of evaluating and reviewing the assistance provided under this section, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such assistance, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
-
-“(B) In conjunction with an evaluation or review under subparagraph (A), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new records to comply with subparagraph (A).
-
-“(f)
-
-Limitation on Payments.—(1) Payment under this section shall not be made for costs to the extent the costs are otherwise reimbursed or paid for under other Federal programs.
-
-“(2) Payment may only be made to a State with respect to costs for assistance of a program of public assistance or a program of public health assistance to the extent such assistance is otherwise generally available under such programs to citizens residing in the State.
-
-“(g)
-
-Criminal Penalties for False Statements.—Whoever—
-
-&emsp;“(1) knowingly and willfully makes or causes to be made any false statement or misrepresentation of a material fact in connection with the furnishing of assistance or services for which payment may be made by a State from funds allotted to the State under this section, or
-
-&emsp;“(2) having knowledge of the occurrence of any event affecting his initial or continued right to any such payment conceals or fails to disclose such event with an intent fraudulently to secure such payment either in a greater amount than is due or when no such payment is authorized,
-
-> shall be fined in accordance with title 18, United States Code, imprisoned for not more than five years, or both.
-
-“(h)
-
-Anti-Discrimination Provision.—(1)(A) For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], on the basis of handicap under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], on the basis of sex under title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], programs and activities funded in whole or in part with funds made available under this section are considered to be programs and activities receiving Federal financial assistance.
-
-“(B) No person shall on the ground of sex or religion be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds made available under this section.
-
-“(2) Whenever the Secretary finds that a State or locality which has been provided payment from an allotment under this section has failed to comply with a provision of law referred to in paragraph (1)(A), with paragraph (1)(B), or with an applicable regulation (including one prescribed to carry out paragraph (1)(B)), he shall notify the chief executive officer of the State and shall request him to secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary may—
-
-&emsp;“(A) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted,
-
-&emsp;“(B) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], or section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], as may be applicable, or
-
-&emsp;“(C) take such other action as may be provided by law.
-
-“(3) When a matter is referred to the Attorney General pursuant to paragraph (2)(A), or whenever he has reason to believe that the entity is engaged in a pattern or practice in violation of a provision of law referred to in paragraph (1)(A) or in violation of paragraph (1)(B), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
-
-“(i)
-
-Consultation with State and Local Officials.—In establishing regulations and guidelines to carry out this section, the Secretary shall consult with representatives of State and local governments.
-
-“(j)
-
-Definitions.—For purposes of this section:
-
-&emsp;“(1) The term ‘State’ has the meaning given such term in section 101(a)(36) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(36)\].
-
-&emsp;“(2) The term ‘programs of public assistance’ means programs in a State or local jurisdiction which—
-
-&emsp;&emsp;“(A) provide for cash, medical, or other assistance (as defined by the Secretary) designed to meet the basic subsistence or health needs of individuals,
-
-&emsp;&emsp;“(B) are generally available to needy individuals residing in the State or locality, and
-
-&emsp;&emsp;“(C) receive funding from units of State or local government.
-
-&emsp;“(3) The term ‘programs of public health assistance’ means programs in a State or local jurisdiction which—
-
-&emsp;&emsp;“(A) provide public health services, including immunizations for immunizable diseases, testing and treatment for tuberculosis and sexually-transmitted diseases, and family planning services,
-
-&emsp;&emsp;“(B) are generally available to needy individuals residing in the State or locality, and
-
-&emsp;&emsp;“(C) receive funding from units of State or local government.
-
-&emsp;“(4) The term ‘eligible legalized alien’ means an alien who has been granted lawful temporary resident status under section 210 or 245A of the Immigration and Nationality Act \[8 U.S.C. 1160, 1255a\], but only until the end of the five-year period beginning on the date the alien was first granted such status, except that the five-year limitation shall not apply for the purposes of making payments from funds appropriated under the fiscal year 1995 Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act \[Pub. L. 103–333, see Tables for classification\] for providing public information and outreach activities regarding naturalization and citizenship; and English language and civics instruction to any adult eligible legalized alien who has not met the requirements of section 312 of the Immigration and Nationality Act \[8 U.S.C. 1423\] for purposes of becoming naturalized as a citizen of the United States.”
-
-\[Pub. L. 101–238, §6(b), Dec. 18, 1989, 103 Stat. 2105, provided that: “The amendments made by subsection (a) \[amending section 204 of Pub. L. 99–603, set out above\] shall apply to the use of allotments for fiscal years beginning with fiscal year 1989.”\]
+Section 204 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(k), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–166, title II, Nov. 21, 1989, 103 Stat. 1174; Pub. L. 101–238, §6(a), Dec. 18, 1989, 103 Stat. 2104; Pub. L. 101–517, title II, Nov. 5, 1990, 104 Stat. 2206; Pub. L. 102–170, title II, Nov. 26, 1991, 105 Stat. 1124; Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1808; Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2558; Pub. L. 103–416, title II, §219(cc), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. C, title VI, §671(b)(9), (d)(2), Sept. 30, 1996, 110 Stat. 3009–722, 3009–723, related to State legalization impact-assistance grants and appropriation of funds, prior to repeal by Pub. L. 105–220, title I, §199(a)(1), Aug. 7, 1998, 112 Stat. 1058.
 
 #### Application of Certain State Assistance Provisions
 

@@ -2,7 +2,7 @@
 
 Except as provided in R.S. §3369 (relating to tobacco and snuff), and in section 901 of the Revenue Act of 1926 (relating to distilled spirits), any merchandise abandoned or forfeited to the Government under the preceding or any other provision of the customs laws, which is subject to internal revenue tax and which the Customs Service shall be satisfied will not sell for a sufficient amount to pay such taxes, shall be forthwith destroyed, retained for official use, or otherwise disposed of under regulations to be prescribed by the Secretary of the Treasury, instead of being sold at auction.
 
-(June 17, 1930, ch. 497, title IV, §492, 46 Stat. 727; June 2, 1970, Pub. L. 91–271, title III, §301(b), 84 Stat. 287; Dec. 8, 1993, Pub. L. 103–182, title VI, §660, 107 Stat. 2214.)
+(June 17, 1930, ch. 497, title IV, §492, 46 Stat. 727; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §660, Dec. 8, 1993, 107 Stat. 2214.)
 
 #### References in Text
 

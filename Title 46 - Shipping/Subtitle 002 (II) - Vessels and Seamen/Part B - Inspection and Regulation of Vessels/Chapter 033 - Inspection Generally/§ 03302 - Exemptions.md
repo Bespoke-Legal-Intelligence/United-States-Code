@@ -86,7 +86,7 @@
 
 (4) A designated Coast Guard official who has reason to believe that a vessel issued a permit is in a condition or is operated in a manner that creates an immediate threat to the safety of life or the environment or is operated in a manner that is inconsistent with the terms of the permit, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
 
-(5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer, managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
+(5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistentwith the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer, managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
 
 (j) Notwithstanding another provision of this chapter, the Secretary is not required to inspect or prescribe regulations for a nautical school vessel of not more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -212,7 +212,7 @@ Section 403 of Pub. L. 98–364, as amended by Pub. L. 99–36, §3, May 15, 198
 
 #### Offshore Supply Vessels; Transition Period for Compliance With Vessel Inspection Provisions
 
-Section 2(i) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel describedin section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
+Section 2(i) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel described in section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -4,7 +4,7 @@
 
 (b) A regular officer in the line of the Navy in a grade not above lieutenant commander may be appointed to the same grade in a staff corps under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 324; Dec. 12, 1980, Pub. L. 96–513, title III, §373(d), 94 Stat. 2903.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 324; Pub. L. 96–513, title III, §373(d), Dec. 12, 1980, 94 Stat. 2903.)
 
 Historical and Revision Notes
 
@@ -36,7 +36,7 @@ The word “male” is inserted in both subsections to limit their application t
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “A regular officer” for “Any male officer on the active list” and “in the line” for “to the active list in the line” and deleted provision assigning an officer so appointed the lineal position he would have held had he originallybeen appointed in and had he remained in the line and provision that such an officer was to be considered an additional number in each grade in which he served.
+1980—Subsec. (a). Pub. L. 96–513 substituted “A regular officer” for “Any male officer on the active list” and “in the line” for “to the active list in the line” and deleted provision assigning an officer so appointed the lineal position he would have held had he originally been appointed in and had he remained in the line and provision that such an officer was to be considered an additional number in each grade in which he served.
 
 Subsec. (b). Pub. L. 96–513 substituted “A regular officer” for “Any male officer on the active list” and “the same grade in a staff corps under regulations prescribed by the Secretary of Defense” for “the active list of the Navy in the Supply Corps or the Civil Engineer Corps, in the same grade, without regard to his age.”
 

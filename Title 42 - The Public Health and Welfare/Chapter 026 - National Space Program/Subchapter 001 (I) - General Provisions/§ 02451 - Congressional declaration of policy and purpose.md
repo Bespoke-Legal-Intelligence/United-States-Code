@@ -6,7 +6,7 @@ The Congress declares that it is the policy of the United States that activities
 
 #### (b) Aeronautical and space activities for welfare and security of United States; control by civilian agency; exceptions
 
-The Congress declares that the general welfare and security of the United States require that adequate provision be made for aeronautical and space activities. The Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and developmentnecessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which such agency has responsibility for and direction of any such activity shall be made by the President in conformity with section 2471(e) of this title.
+The Congress declares that the general welfare and security of the United States require that adequate provision be made for aeronautical and space activities. The Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and development necessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which such agency has responsibility for and direction of any such activity shall be made by the President in conformity with section 2471(e) of this title.
 
 #### (c) Commercial use of space
 
@@ -44,7 +44,7 @@ The Congress declares that the general welfare of the United States requires tha
 
 #### (g) Bioengineering research, development, and demonstration programs
 
-The Congress declares that the general welfare of the United States requires that the unique competence of the National Aeronautics and Space Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
+The Congress declares that the general welfare of the United States requires that the uniquecompetence of the National Aeronautics and Space Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
 
 #### (h) Purpose of chapter
 
@@ -132,7 +132,7 @@ Pub. L. 102–588, title I, §102(g), Nov. 4, 1992, 106 Stat. 5111, provided tha
 
 &emsp;“(6) increased use of defense-related remote sensing data and data technology by civilian agencies and the scientific community can benefit national environmental study and monitoring programs;
 
-&emsp;“(7) the generation of trained scientists and engineers through educational initiatives and academic research programs outside of the National Aeronautics and Space Administration is essential to the future of the United States civil space program;
+&emsp;“(7) the generation of trained scientists and engineers through educational initiatives and academicresearch programs outside of the National Aeronautics and Space Administration is essential to the future of the United States civil space program;
 
 &emsp;“(8) the strengthening and expansion of the Nation's space transportation infrastructure, including the enhancement of launch sites and launch site support facilities, are essential to support the full range of the Nation's space-related activities;
 
@@ -326,7 +326,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;&emsp;“(D) to reduce the costs of space transportation and related services;
 
-&emsp;“(17) recognizing that communications advancements are critical to all United States space activities, the Administration should continue researchand development efforts for future advances in space communications technologies;
+&emsp;“(17) recognizing that communications advancements are critical to all United States space activities, the Administration should continue research and development efforts for future advances in space communications technologies;
 
 &emsp;“(18) the goal of aeronautical research and technology development and validation activities should be to contribute to a national technology base that will enhance United States preeminence in civil and military aviation and improve the safety and efficiency of the United States air transportation system; and
 
@@ -450,7 +450,7 @@ Sec. 305. The Administrator should develop a plan in pursuit of—
 
 #### Permanently Manned Space Station
 
-Pub. L. 100–147, title I, §§106–112, Oct. 30, 1987, 101 Stat. 863–865, as amended by Pub. L. 102–195, §16, Dec. 9, 1991, 105 Stat. 1614, provided that:
+Pub. L. 100–147, title I, §§106–112, Oct. 30, 1987, 101 Stat. 863–865, as amended by Pub. L. 102–195, §16, Dec. 9, 1991, 105 Stat. 1614; Pub. L. 105–362, title XI, §1101(c), Nov. 10, 1998, 112 Stat. 3292, provided that:
 
 “
 
@@ -474,11 +474,9 @@ Sec. 106. (a) The Administrator is directed to undertake the construction of a p
 
 “(f) The space station shall be designed, developed, and operated in a manner that enables evolutionary enhancement.
 
-“
+“\[
 
-Sec. 107. (a) For each of the fiscal years 1989 through 1996, the Administrator, along with the President's submission to the Congress of the annual budget request for the National Aeronautics and Space Administration, shall submit a capital development plan for the space station program. Each such plan shall include the estimated cost, in both then year and constant dollars, of all direct research and development; space flight, control and data communications; construction of facilities; assembly (including related costs); and research and program management for the fiscal year involved and the two succeeding fiscal years. Each such plan shall also include the estimated cost, in both then year and constant dollars, of operations for at least the first full year of steady operations of the space station.
-
-“(b) For fiscal year 1989, the capital development plan shall also include a statement outlining the total cost, schedule, and configuration of the Administration's space station proposal, as well as an analysis of the ‘Report of the Committee on the Space Station of the National Research Council’. Such analysis shall examine alternatives for the configuration of the space station including but not limited to low cost alternatives.
+Sec. 107. Repealed. Pub. L. 105–362, title XI, §1101(c), Nov. 10, 1998, 112 Stat. 3292.\]
 
 “
 
@@ -630,7 +628,7 @@ Sec. 3. <i>Responsibilities of the Chairman</i>. (a) The Chairman shall serve as
 
 Sec. 4. <i>National Space Policy Planning Process</i>. (a) The Council will establish a process for developing and monitoring the implementation of national space policy and strategy.
 
-(b) To implement this process, each agency represented on the Council shall provide such informationregarding its current and planned space activities as the Chairman shall request.
+(b) To implement this process, each agency represented on the Council shall provide such information regarding its current and planned space activities as the Chairman shall request.
 
 (c) The head of each executive department and agency shall ensure that its space-related activities conform to national space policy and strategy.
 

@@ -18,7 +18,7 @@ If the Virginia Department of Highways and Transportation determines that the pr
 
 The Secretary may not close any State roads within the park unless action permitting the closing of such roads has been taken by appropriate officials of the Commonwealth of Virginia.
 
-(Apr. 17, 1954, ch. 153, §2, as added Oct. 13, 1980, Pub. L. 96–442, §2, 94 Stat. 1885; amended Nov. 10, 1988, Pub. L. 100–647, title X, §10003, 102 Stat. 3811.)
+(Apr. 17, 1954, ch. 153, §2, as added Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1885; amended Pub. L. 100–647, title X, §10003, Nov. 10, 1988, 102 Stat. 3811.)
 
 #### Amendments
 

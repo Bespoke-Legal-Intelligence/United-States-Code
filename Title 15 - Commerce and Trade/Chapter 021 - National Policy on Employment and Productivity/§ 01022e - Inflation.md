@@ -28,5 +28,5 @@ The President shall initiate specific policies to reduce the rate of inflation, 
 
 &emsp;(8) such other administrative actions and recommendations for legislation as the President deems desirable, to promote reasonable price stability.
 
-(Feb. 20, 1946, ch. 33, §8, as added Oct. 27, 1978, Pub. L. 95–523, title I, §109, 92 Stat. 1898.)
+(Feb. 20, 1946, ch. 33, §8, as added Pub. L. 95–523, title I, §109, Oct. 27, 1978, 92 Stat. 1898.)
 

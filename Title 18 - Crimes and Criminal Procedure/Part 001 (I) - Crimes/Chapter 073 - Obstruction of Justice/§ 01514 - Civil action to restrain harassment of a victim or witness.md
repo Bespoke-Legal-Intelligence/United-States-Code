@@ -8,11 +8,11 @@
 
 (C) A temporary restraining order issued under this section shall expire at such time, not to exceed 10 days from issuance, as the court directs; the court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 10 days or for such longer period agreed to by the adverse party.
 
-(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protective order, the court shall dissolve the temporary restraining order.
+(D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protectiveorder, the court shall dissolve the temporary restraining order.
 
 (E) If on two days notice to the attorney for the Government or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.
 
-(F) A temporary restraining order shall set forth the reasons for the issuance of such order, be specific in terms, and describe in reasonable detail (and not by reference to the complaint orother document) the act or acts being restrained.
+(F) A temporary restraining order shall set forth the reasons for the issuance of such order, be specific in terms, and describe in reasonable detail (and not by reference to the complaint or other document) the act or acts being restrained.
 
 (b)(1) A United States district court, upon motion of the attorney for the Government, shall issue a protective order prohibiting harassment of a victim or witness in a Federal criminal case if the court, after a hearing, finds by a preponderance of the evidence that harassment of an identified victim or witness in a Federal criminal case exists or that such order is necessary to prevent and restrain an offense under section 1512 of this title, other than an offense consisting of misleading conduct, or under section 1513 of this title.
 

@@ -1,0 +1,210 @@
+### §31102. Grants to States
+
+(a)
+
+General Authority.—Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards,and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
+
+(b)
+
+State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedures for a State to submit a plan under which the State agrees to assume responsibility for improving motor carrier safety and to adopt and enforce regulations, standards, and orders of the Government on commercial motor vehicle safety, hazardous materials transportation safety, or compatible State regulations, standards, and orders. The Secretary shall approve the plan if the Secretary decides the plan is adequate to promote the objectives of this section and the plan—
+
+&emsp;(A) implements performance-based activities by fiscal year 2000;
+
+&emsp;(B) designates the State motor vehicle safety agency responsible for administering the plan throughout the State;
+
+&emsp;(C) contains satisfactory assurances the agency has or will have the legal authority, resources, and qualified personnel necessary to enforce the regulations, standards, and orders;
+
+&emsp;(D) contains satisfactory assurances the State will devote adequate amounts to the administration of the plan and enforcement of the regulations, standards, and orders;
+
+&emsp;(E) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;
+
+&emsp;(F) provides a right of entry and inspection to carry out the plan;
+
+&emsp;(G) provides that all reports required under this section be submitted to the agency and that the agency will make the reports available to the Secretary on request;
+
+&emsp;(H) provides that the agency will adopt the reporting requirements and use the forms for recordkeeping, inspections, and investigations the Secretary prescribes;
+
+&emsp;(I) requires registrants of commercial motor vehicles to make a declaration of knowledge of applicable safety regulations, standards, and orders of the Government and the State;
+
+&emsp;(J) provides that the State will grant maximum reciprocity for inspections conducted under the North American Inspection Standard through the use of a nationally accepted system that allows ready identification of previously inspected commercial motor vehicles;
+
+&emsp;(K) ensures that activities described in subsection (c)(1) of this section, if financed with grants under subsection (a) of this section, will not diminish the effectiveness of the development and implementation of commercial motor vehicle safety programs described in subsection (a);
+
+&emsp;(L) ensures that the State agency will coordinate the plan, data collection, and information systems with State highway safety programs under title 23;
+
+&emsp;(M) ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;
+
+&emsp;(N) ensures that information is exchanged among the States in a timely manner;
+
+&emsp;(O) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
+
+&emsp;(P) provides satisfactory assurances that the State will promote activities in support of national priorities and performance goals, including—
+
+&emsp;&emsp;(i) activities aimed at removing impaired commercial motor vehicle drivers from the highways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
+
+&emsp;&emsp;(ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
+
+&emsp;&emsp;(iii) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities;
+
+&emsp;(Q) provides that the State will establish a program to ensure the proper and timely correction of commercial motor vehicle safety violations noted during an inspection carried out with funds authorized under section 31104;
+
+&emsp;(R) ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;
+
+&emsp;(S) ensures consistent, effective, and reasonable sanctions; and
+
+&emsp;(T) ensures that roadside inspections will be conducted at a location that is adequate to protect the safety of drivers and enforcement personnel.
+
+(2) If the Secretary disapproves a plan under this subsection, the Secretary shall give the State a written explanation and allow the State to modify and resubmit the plan for approval.
+
+(3) In estimating the average level of State expenditure under paragraph (1)(D) <sup>1</sup> of this subsection, the Secretary—
+
+&emsp;(A) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
+
+&emsp;(B) shall require the State to exclude Government amounts and State matching amounts used to receive Government financing under subsection (a) of this section.
+
+(c)
+
+Use of Grants to Enforce Other Laws.—A State may use amounts received under a grant under subsection (a) of this section for the following activities if the activities are carried outin conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
+
+&emsp;(1) enforcement of commercial motor vehicle size and weight limitations at locations other than fixed weight facilities, at specific locations such as steep grades or mountainous terrains where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States.
+
+&emsp;(2) detection of the unlawful presence of a controlled substance (as defined under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)) in a commercial motor vehicle or on the person of any occupant (including the operator) of the vehicle.
+
+&emsp;(3) enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles.
+
+(d)
+
+Continuous Evaluation of Plans.—On the basis of reports submitted by a State motor vehicle safety agency of a State with a plan approved under this section and the Secretary's own investigations, the Secretary shall make a continuing evaluation of the way the State is carrying out the plan. If the Secretary finds, after notice and opportunity for comment, the State plan previously approved is not being followed or has become inadequate to ensure enforcement of the regulations, standards, or orders, the Secretary shall withdraw approval of the plan and notify the State. The plan stops being effective when the notice is received. A State adversely affected by the withdrawal may seek judicial review under chapter 7 of title 5. Notwithstanding the withdrawal, the State may retain jurisdiction in administrative or judicial proceedings begun before the withdrawal if the issues involved are not related directly to the reasons for the withdrawal.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+31102(a)
+
+49 App.:2302(a).
+
+Jan. 6, 1983, Pub. L. 97–424, §402(a), (c), 96 Stat. 2155, 2156.
+
+31102(b)
+
+49 App.:2302(b), (d).
+
+Jan. 6, 1983, Pub. L. 97–424, §402(b), (d), 96 Stat. 2155, 2156; Dec. 18, 1991, Pub. L. 102–240, §4002(a), (b), 105 Stat. 2140.
+
+31102(c)
+
+49 App.:2302(e).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §402(e); added Dec. 18, 1991, Pub. L. 102–240, §4002(c), 105 Stat. 2142.
+
+31102(d)
+
+49 App.:2302(c).
+
+In this section, the word “rules” is omitted as being synonymous with “regulations”.
+
+In subsection (a), the words “Subject to this section and the availability of amounts” are substituted for “Under the terms and conditions of this section, subject to the availability of funds” to eliminate unnecessary words.
+
+In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
+
+In subsection (b)(3)(B), the words “Government financing” are substituted for “Federal funding” for clarity and consistency in the revised title.
+
+In subsection (c), before clause (1), the words “type of” are omitted as unnecessary. In clause (1), the word “leave” is substituted for “exit” for clarity and consistency in the revised title.
+
+In subsection (d), the words “the regulations, standards, or orders” are substituted for “Federal rules, regulations, standards, or orders applicable to commercial motor vehicle safety or compatible State rules, regulations, standards, or orders” for consistency and to eliminate unnecessary words. The last sentence is substituted for 49 App.:2302(c) (last sentence) for clarity.
+
+#### References in Text
+
+Paragraph (1), referred to in subsec. (b)(3), was amended by Pub. L. 105–178, title IV, §4003(c)(6), June 9, 1998, 112 Stat. 396, which redesignated subpars. (C) and (D) as (D) and (E), respectively.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
+
+Subsec. (b)(1). Pub. L. 105–178, §4003(b)(2), in introductory provisions, substituted “assume responsibility for improving motor carrier safety and to adopt and enforce” for “adopt and assume responsibility for enforcing” and inserted “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
+
+Subsec. (b)(1)(A) to (I). Pub. L. 105–178, §4003(c)(6), (7), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively. Former subpar. (I) redesignated (J).
+
+Subsec. (b)(1)(J). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (I) as (J). Former subpar. (J) redesignated (K).
+
+Pub. L. 105–178, §4003(c)(1), substituted “subsection (c)(1)” for “subsection (c)”.
+
+Subsec. (b)(1)(K) to (M). Pub. L. 105–178, §4003(c)(6), redesignated subpars. (J) to (L) as (K) to (M), respectively. Former subpar. (M) redesignated (N).
+
+Pub. L. 105–178, §4003(c)(2), added subpars. (K) to (M) and struck out former subpars. (K) to (M) which read as follows:
+
+“(K) ensures that fines imposed and collected by the State for violations of commercial motor vehicle safety regulations will be reasonable and appropriate and that, to the maximum extent practicable, the State will attempt to implement the recommended fine schedule published by the Commercial Vehicle Safety Alliance;
+
+“(L) ensures that the State agency will coordinate the plan prepared under this section with the State highway safety plan under section 402 of title 23;
+
+“(M) ensures participation by the 48 contiguous States in SAFETYNET not later than January 1, 1994;”.
+
+Subsec. (b)(1)(N). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (M) as (N). Former subpar. (N) redesignated (O).
+
+Subsec. (b)(1)(O). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
+
+Pub. L. 105–178, §4003(c)(3), inserted “in support of national priorities and performance goals, including”after “activities” in introductory provisions, substituted “activities aimed at removing” for “to remove” in cl. (i), substituted “activities aimed at providing” for “to provide” and inserted “and” after semicolon in cl. (ii), added cl. (iii), and struck out former cls. (iii) and (iv) which read as follows:
+
+“(iii) to promote enforcement of the requirements related to the licensing of commercial motor vehicle drivers, including checking the status of commercial drivers’ licenses; and
+
+“(iv) to improve enforcement of hazardous material transportation regulations by encouraging more inspections of shipper facilities affecting highway transportation and more comprehensive inspection of the loads of commercial motor vehicles transporting hazardous material;”.
+
+Subsec. (b)(1)(P). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (O) as (P). Former subpar. (P) redesignated (Q).
+
+Pub. L. 105–178, §4003(c)(4), added subpar. (P) and struck out former subpar. (P) which read as follows: “provides satisfactory assurances that the State will promote effective—
+
+&emsp;“(i) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities; and
+
+&emsp;“(ii) use of trained and qualified officers and employees of political subdivisions and local governments, under the supervision and direction of the State motor vehicle safety agency, in the enforcement of regulations affecting commercial motor vehicle safety and hazardous material transportation safety; and”.
+
+Subsec. (b)(1)(Q). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (P) as (Q). Former subpar. (Q) redesignated (R).
+
+Pub. L. 105–178, §4003(c)(5)(A), substituted “sections 31138 and 31139” for “sections 31140 and 31146”.
+
+Subsec. (b)(1)(R). Pub. L. 105–178, §4003(c)(6), redesignated subpar. (Q) as (R).
+
+Subsec. (b)(1)(S), (T). Pub. L. 105–178, §4003(c)(5)(B), (8), added subpars. (S) and (T).
+
+1995—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+#### Effects of MCSAP Grant Reductions
+
+Pub. L. 105–178, title IV, §4032, June 9, 1998, 112 Stat. 419, provided that:
+
+“(a)
+
+Study.—The Secretary \[of Transportation\] shall conduct a study on the effects of reductions of grants under section 31102 of title 49, United States Code, due to nonconformity of State intrastate motor carrier, commercial motor vehicle, and driver requirements with Federal interstate requirements. In conducting the study, the Secretary shall consider, at a minimum—
+
+&emsp;“(1) national uniformity and the purposes of the motor carrier safety assistance program;
+
+&emsp;“(2) State motor carrier, commercial motor vehicle, and driver safety oversight and enforcement capabilities; and
+
+&emsp;“(3) the safety impacts, costs, and benefits of full participation in the program.
+
+“(b)
+
+Report.—Not later than 2 years after the date of the enactment of this Act \[June 9, 1998\], the Secretary shall submit to Congress a report on the results of the study.
+
+“(c)
+
+Adjustment of State Allocations.—The Secretary is authorized to adjust State allocations under section 31103 of title 49, United States Code, to reflect the results of the study.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 31103, 31104, 31133, 31142 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

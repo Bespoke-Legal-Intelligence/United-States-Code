@@ -15,7 +15,7 @@
 | [1518\.](%C2%A7%2001518%20-%20Disposal%3B%20detoxification%3B%20report%20to%20Congress%3B%20emergencies.md) | Disposal; detoxification; report to Congress; emergencies. |
 | [1519\.](%C2%A7%2001519%20-%20Lethal%20binary%20chemical%20munitions.md) | Lethal binary chemical munitions. |
 | [1519a.](%C2%A7%2001519a%20-%20Limitation%20on%20procurement%20of%20binary%20chemical%20weapons.md) | Limitation on procurement of binary chemical weapons. |
-| [1520\.](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71078%28g%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201916.md) | Repealed. |
+| [1520\.](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71078%28g%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201916%2C%20and%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20I%2C%20title%20VI%2C%20%C2%A7601%E2%80%A6.md) | Repealed. |
 | [1520a.](%C2%A7%2001520a%20-%20Restrictions%20on%20use%20of%20human%20subjects%20for%20testing%20of%20chemical%20or%20biological%20agents.md) | Restrictions on use of human subjects for testing of chemical or biological agents. |
 | (a) | Prohibited activities. |
 | (b) | Exceptions. |
@@ -69,7 +69,7 @@
 - [&sect; 01518 - Disposal; detoxification; report to Congress; emergencies](%C2%A7%2001518%20-%20Disposal%3B%20detoxification%3B%20report%20to%20Congress%3B%20emergencies.md)
 - [&sect; 01519 - Lethal binary chemical munitions](%C2%A7%2001519%20-%20Lethal%20binary%20chemical%20munitions.md)
 - [&sect; 01519a - Limitation on procurement of binary chemical weapons](%C2%A7%2001519a%20-%20Limitation%20on%20procurement%20of%20binary%20chemical%20weapons.md)
-- [&sect; 01520 - Repealed. Pub. L. 105&#8211;85, div. A, title X, &sect;1078(g), Nov. 18, 1997, 111 Stat. 1916](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71078%28g%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201916.md)
+- [&sect; 01520 - Repealed. Pub. L. 105&#8211;85, div. A, title X, &sect;1078(g), Nov. 18, 1997, 111 Stat. 1916, and Pub. L. 105&#8211;277, div. I, title VI, &sect;601&#8230;](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71078%28g%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201916%2C%20and%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20I%2C%20title%20VI%2C%20%C2%A7601%E2%80%A6.md)
 - [&sect; 01520a - Restrictions on use of human subjects for testing of chemical or biological agents](%C2%A7%2001520a%20-%20Restrictions%20on%20use%20of%20human%20subjects%20for%20testing%20of%20chemical%20or%20biological%20agents.md)
 - [&sect; 01521 - Destruction of existing stockpile of lethal chemical agents and munitions](%C2%A7%2001521%20-%20Destruction%20of%20existing%20stockpile%20of%20lethal%20chemical%20agents%20and%20munitions.md)
 - [&sect; 01522 - Conduct of chemical and biological defense program](%C2%A7%2001522%20-%20Conduct%20of%20chemical%20and%20biological%20defense%20program.md)

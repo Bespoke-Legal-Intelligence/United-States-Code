@@ -62,7 +62,7 @@ Section 1 of Pub. L. 95–17 provided: “That this Act \[amending this chapter\
 
 #### National Commission on Executive Organization
 
-Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Cogress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
+Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmitto Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Cogress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
 
 #### Ex. Ord. No. 6166. Reorganization of Executive Agencies Generally
 
@@ -108,7 +108,7 @@ Section 602(b) of act June 30, 1949, ch. 288, title VI, 63 Stat. 401, eff. July 
 
 National Parks, Buildings, and Reservations
 
-All functions of administration of public buildings, reservations, national parks, national monuments, and national cemeteries are consolidated in the National Park Service in the Department of the Interior, at the head of which shall be a Director of the National ParkService; except that where deemed desirable there may be excluded from this provision any public building or reservation which is chiefly employed as a facility in the work of a particular agency. This transfer and consolidation of functions shall include, among others, those of the former National Park Service of the Department of the Interior and the following National Cemeteries and Parks of the War Department which are located within the continental limits of the United States:
+All functions of administration of public buildings, reservations, national parks, national monuments, and national cemeteries are consolidated in the National Park Service in the Department of the Interior, at the head of which shall be a Director of the National Park Service; except that where deemed desirable there may be excluded from this provision any public building or reservation which is chiefly employed as a facility in the work of a particular agency. This transfer and consolidation of functions shall include, among others, those of the former National Park Service of the Department of the Interior and the following National Cemeteries and Parks of the War Department which are located within the continental limits of the United States:
 
 #### National Military Parks
 
@@ -146,7 +146,7 @@ Antietam Battlefield, Maryland.
 
 Appomattox, Virginia.
 
-Brice Cross Roads, Mississippi.
+Brices Cross Roads, Mississippi.
 
 Chalmette Monument and Grounds, Louisiana.
 
@@ -260,7 +260,7 @@ All other functions now performed by the Bureau of Prohibition are transferred t
 
 Disbursement
 
-\[Section, as amended by Ex. Ord. No. 6728, May 29, 1934; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; and 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, which provided that the function of disbursement of moneys of the United States exercised by any agency \[except United States marshals; the Post Office Department; the Postmaster General; the Board of Trustees of the Postal Savings System; and those disbursement functions of the War Department, Navy Department (including the Marine Corps), and the Panama Canal, not pertaining to departmental salaries in the District of Columbia\] were transferred to the \[Fiscal Service of the\] Treasury Department and, together with the Office of Disbursing Clerk of that department, was consolidated in a Division of Disbursement, at the head of which was a Chief Disbursing Officer, that the Division of Disbursement of the Treasury Department was authorized to establish local offices, or to delegate the exercise of its functions locally to officers or employees of other agencies, according as the interests of efficiency and economy might require, that the Division ofDisbursement would disburse moneys only upon the certification of persons by law duly authorized to incur obligations upon behalf of the United States and that the function of accountability for improper certification would be transferred to such persons, and no disbursing officer would be held accountable therefor, was repealed and reenacted as section 3321 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31.\]
+\[Section, as amended by Ex. Ord. No. 6728, May 29, 1934; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; and 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, which provided that the function of disbursement of moneys of the United States exercised by any agency \[except United States marshals; the Post Office Department; the Postmaster General; the Board of Trustees of the Postal Savings System; and those disbursement functions of the War Department, Navy Department (including the Marine Corps), and the Panama Canal, not pertaining to departmental salaries in the District of Columbia\] were transferred to the \[Fiscal Service of the\] Treasury Department and, together with the Office of Disbursing Clerk of that department, was consolidated in a Division of Disbursement, at the head of which was a Chief Disbursing Officer, that the Division of Disbursement of the Treasury Department was authorized to establish local offices, or to delegate the exercise of its functions locally to officers or employees of other agencies, according as the interests of efficiency and economy might require, that the Division of Disbursement would disburse moneys only upon the certification of persons by law duly authorized to incur obligations upon behalf of the United States and that the function of accountability for improper certification would be transferred to such persons, and no disbursing officer would be held accountable therefor, was repealed and reenacted as section 3321 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31.\]
 
 #### Amendments
 
@@ -276,7 +276,7 @@ Claims By or Against the United States
 
 The functions of prosecuting in the courts of the United States claims and demands by, and offenses against, the Government of the United States and of defending claims and demands against the Government, and of supervising the work of United States attorneys, marshals, and clerks in connection therewith, now exercised by any agency or officer, are transferred to the Department of Justice.
 
-As to any case referred to the Department of Justice for prosecution or defense in the courts, the function of decision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
+As to any case referred to the Department of Justice for prosecution or defense in the courts, the function ofdecision whether and in what manner to prosecute, or to defend, or to compromise, or to appeal, or to abandon prosecution or defense, now exercised by any agency or officer, is transferred to the Department of Justice.
 
 For the exercise of such of his functions as are not transferred to the Department of Justice by the foregoing two paragraphs, the Solicitor of the Treasury is transferred from the Department of Justice to the Treasury Department.
 
@@ -394,7 +394,7 @@ All personnel employed in connection with the work of an abolished agency or fun
 
 #### Effective Date
 
-The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferred as to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
+The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferredas to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
 
 #### §20.
 

@@ -44,7 +44,7 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 #### (d) Costs of implementation
 
-(1) It is the sense of the Congress that the additional costs resulting from the implementation of the Panama Canal Treaty of 1977 and related agreements should be kept to the absolute minimum level. To this end, the Congress declares appropriated costs of implementation to be borne by the taxpayers over the life of such Treaty should be kept to a level no greater than the March 1979 estimate of those costs ($870,700,000) presented to the Congress by the executive branch during consideration of this chapter by the Congress, less personnel retirement costs of $205,000,000, which were subtracted and charged to tolls, therefore resulting in net taxpayer cost of approximately $665,700,000, plus appropriate adjustments for inflation.
+(1) It is the sense of the Congress that the additional costs resulting from the implementation of the Panama Canal Treaty of 1977 and related agreements should be kept to the absoluteminimum level. To this end, the Congress declares appropriated costs of implementation to be borne by the taxpayers over the life of such Treaty should be kept to a level no greater than the March 1979 estimate of those costs ($870,700,000) presented to the Congress by the executive branch during consideration of this chapter by the Congress, less personnel retirement costs of $205,000,000, which were subtracted and charged to tolls, therefore resulting in net taxpayer cost of approximately $665,700,000, plus appropriate adjustments for inflation.
 
 (2) It is further the sense of the Congress that the actual costs of implementation be consistent with the obligations of the United States to operate the Panama Canal safely and efficiently and keep it secure.
 
@@ -66,7 +66,7 @@ Subsec. (a)(9). Pub. L. 105–85, §3528(b)(2), capitalized initial letter of fi
 
 Subsec. (a)(10). Pub. L. 105–85, §3528(a), added par. (10).
 
-1996—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revisingand restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
+1996—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revising and restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
 
 Subsec. (c)(1). Pub. L. 104–106, §3525(1)(A), struck out “and subject to paragraph (2)” after “section 3713 of this title”.
 

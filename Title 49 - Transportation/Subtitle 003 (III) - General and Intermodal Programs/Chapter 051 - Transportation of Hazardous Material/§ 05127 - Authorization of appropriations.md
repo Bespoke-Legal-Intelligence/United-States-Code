@@ -10,7 +10,7 @@ Training of Hazmat Employee Instructors.—(1) There is authorized to be appropr
 
 (2)(A) There shall be available to the Secretary for carrying out section 5116(j), from amounts in the account established pursuant to section 5116(i), $250,000 for each of fiscal years 1995, 1996, 1997, and 1998.
 
-(B) In addition to amounts made available under subparagraph (A), there is authorized to be appropriated to the Secretary for carryingout section 5116(j) $1,000,000 for each of the fiscal years 1995, 1996, 1997, and 1998.
+(B) In addition to amounts made available under subparagraph (A), there is authorized to be appropriated to the Secretary for carrying out section 5116(j) $1,000,000 for each of the fiscal years 1995, 1996, 1997, and 1998.
 
 (c)
 

@@ -20,7 +20,7 @@ As used in this chapter—
 
 (f) The term “boundaries” has the same meaning given that term in section 1301 of title 43.
 
-(Jan. 2, 1951, ch. 1194, §1, 64 Stat. 1134; Oct. 18, 1962, Pub. L. 87–840, §§2, 3, 76 Stat. 1075; Mar. 9, 1992, Pub. L. 102–251, title II, §202(c), 106 Stat. 62.)
+(Jan. 2, 1951, ch. 1194, §1, 64 Stat. 1134; Pub. L. 87–840, §§2, 3, Oct. 18, 1962, 76 Stat. 1075; Pub. L. 102–251, title II, §202(c), Mar. 9, 1992, 106 Stat. 62.)
 
 #### Amendments
 

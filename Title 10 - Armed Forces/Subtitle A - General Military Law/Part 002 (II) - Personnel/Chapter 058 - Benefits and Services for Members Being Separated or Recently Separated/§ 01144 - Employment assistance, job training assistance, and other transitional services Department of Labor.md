@@ -16,7 +16,7 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 &emsp;(2) In providing information under paragraph (1), use experience obtained from implementation of the pilot program established under section 408 of Public Law 101–237.
 
-&emsp;(3) Provide information concerning Federal, State, and local programs, and programs of military and veterans’ service organizations, that may be of assistance to such members after separation from the armed forces, including, as appropriate, the information and services to be provided under section 1142 of this title.
+&emsp;(3) Provide information concerning Federal, State, and local programs, and programs ofmilitary and veterans’ service organizations, that may be of assistance to such members after separation from the armed forces, including, as appropriate, the information and services to be provided under section 1142 of this title.
 
 &emsp;(4) Inform such members that the Department of Defense and the Department of Transportation are required under section 1143(a) of this title to provide proper certification or verification of job skills and experience acquired while on active duty that may have application to employment in the civilian sector for use in seeking civilian employment and in obtaining job search skills.
 
@@ -36,7 +36,7 @@ Participation.—The Secretary of Defense and the Secretary of Transportation sh
 
 Use of Personnel and Organizations.—In carrying out the program established under this section, the Secretaries may—
 
-&emsp;(1) provide, as the case may be, for the use of disabled veterans outreach program specialists, local veterans’ employment representatives, and other employment service personnel funded by the Department of Labor to the extent that the Secretary of Labor determines that such use will not significantly interferewith the provision of services or other benefits to eligible veterans and other eligible recipients of such services or benefits;
+&emsp;(1) provide, as the case may be, for the use of disabled veterans outreach program specialists, local veterans’ employment representatives, and other employment service personnel funded by the Department of Labor to the extent that the Secretary of Labor determines that such use will not significantly interfere with the provision of services or other benefits to eligible veterans and other eligible recipients of such services or benefits;
 
 &emsp;(2) use military and civilian personnel of the Department of Defense and the Department of Transportation;
 

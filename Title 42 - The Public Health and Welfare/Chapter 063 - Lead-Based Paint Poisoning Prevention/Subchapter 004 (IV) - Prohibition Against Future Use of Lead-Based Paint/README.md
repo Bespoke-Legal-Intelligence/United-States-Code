@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—PROHIBITION AGAINST FUTURE USE OF LEAD-BASED PAINT
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

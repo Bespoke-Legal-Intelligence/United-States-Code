@@ -42,7 +42,7 @@ The General Schedule, referred to in subsec. (b)(1)(A)(i), is set out under sect
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note undersection 3372 of Title 5, Government Organization and Employees.
 
 #### Effective Date for Requirement for Corps Members To Fill Critical Acquisition Positions
 

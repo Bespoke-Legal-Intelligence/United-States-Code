@@ -54,11 +54,11 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;&emsp;(II) Ruth Quartz Mine Number 2, mineral survey number 994, as described in patent number 39–91–0012, dated February 12, 1991;
 
-&emsp;&emsp;&emsp;&emsp;(III) Morning Star Lode, mineral survey number 993, as described in patent number 36–91–0011, dated February 12, 1991;
+&emsp;&emsp;&emsp;&emsp;(III) Morning Star Lode, mineral survey number 993, as described in patentnumber 36–91–0011, dated February 12, 1991;
 
 &emsp;&emsp;&emsp;(ii) all right, title, and interest held by any entity other than the Times Mirror Land and Timber Company, its successors and assigns, in and to lands located in section 18, township 8 south, range 5 east, Marion County, Oregon, Eureka numbers 6, 7, 8, and 13 mining claims; and
 
-&emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited toadministrative use if an alternative access route, adequate and appropriate for public use, is provided.
+&emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
 
 &emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
@@ -120,7 +120,7 @@ The purposes of this section are—
 
 &emsp;&emsp;Except as provided in this subparagraph, motorized vehicles shall not be permitted in the Scenic Recreation Area. To maintain reasonable motorized and other access to recreation sites and facilities in existence on November 12, 1996, the Secretary shall prepare a transportation plan for the Scenic Recreation Area that—
 
-&emsp;&emsp;&emsp;(i) evaluates the road network within the Scenic Recreation Area to determine which roads should be retained and which roads should be closed;
+&emsp;&emsp;&emsp;(i) evaluates the road network within the Scenic Recreation Area to determinewhich roads should be retained and which roads should be closed;
 
 &emsp;&emsp;&emsp;(ii) provides guidelines for transportation and access consistent with this section;
 
@@ -208,7 +208,7 @@ The purposes of this section are—
 
 #### (D) Public trail access
 
-&emsp;&emsp;The management plan may include public trail access through section 28, township 8 south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areas in the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
+&emsp;&emsp;The management plan may include public trail access through section 28, township 8south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areas in the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
 
 #### (11) Participation
 
@@ -294,11 +294,11 @@ The purposes of this section are—
 
 #### (A) Response actions
 
-&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsible party to conduct an environmental response action in the Scenic Recreation Area in connection with the release, threatened release, or cleanup of a hazardous substance, pollutant, or contaminant, including a response action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
+&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsibleparty to conduct an environmental response action in the Scenic Recreation Area in connection with the release, threatened release, or cleanup of a hazardous substance, pollutant, or contaminant, including a response action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
 
 #### (B) Liability
 
-&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsibleparty to recover costs related to the release, threatened release, or cleanup of any hazardous substance or pollutant or contaminant in the Scenic Recreation Area.
+&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsible party to recover costs related to the release, threatened release, or cleanup of any hazardous substance or pollutant or contaminant in the Scenic Recreation Area.
 
 #### (3) Maps and description
 

@@ -2,7 +2,7 @@
 
 #### (a) Acquisitions or transfers of certain agricultural land interests by foreign persons
 
-Any foreign person who acquires or transfers any interest, other than a security interest, in agricultural land shall submit a report to the Secretary of Agriculture not later than 90 days after the date of such acquisition or transfer. Such report shall be submitted in such form and in accordance with such procedures as the Secretary may require and shall contain—
+Any foreign person who acquires or transfers any interest, other than a security interest, in agricultural land shall submit a report to the Secretary of Agriculture not later than 90 daysafter the date of such acquisition or transfer. Such report shall be submitted in such form and in accordance with such procedures as the Secretary may require and shall contain—
 
 &emsp;(1) the legal name and the address of such foreign person;
 
@@ -98,7 +98,7 @@ Section 1 of Pub. L. 95–460 provided that: “This Act \[enacting this chapter
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3502, 3503, 3504, 3505, 3506 of this title.
+This section is referred to in sections 3502, 3503, 3505, 3506 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
 

@@ -2,7 +2,7 @@
 
 All moneys paid to any customs officer for unascertained duties or for duties paid under protest against the rate or amount of duties charged shall be deposited to the credit of the Treasurer of the United States and shall not be held by the customs officers to await any ascertainment of duties or the result of any litigation in relation to the rate or amount of duties legally chargeable and collectible in any case where money is so paid.
 
-(June 17, 1930, ch. 497, title IV, §512, 46 Stat. 734; June 2, 1970, Pub. L. 91–271, title III, §301(q), 84 Stat. 290.)
+(June 17, 1930, ch. 497, title IV, §512, 46 Stat. 734; Pub. L. 91–271, title III, §301(q), June 2, 1970, 84 Stat. 290.)
 
 #### Prior Provisions
 

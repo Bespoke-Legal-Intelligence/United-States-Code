@@ -20,5 +20,5 @@ The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1287, 1313, 1375, 1376 of this title.
+This section is referred to in sections 1287, 1313, 1376 of this title.
 

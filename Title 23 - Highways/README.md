@@ -1,5 +1,5 @@
 
-23 U.S.C.<br>United States Code, 1997 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
+23 U.S.C.<br>United States Code, 1998 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 23—HIGHWAYS
 
@@ -16,13 +16,15 @@
 | [<b>2.</b>](Chapter%20002%20-%20Other%20Highways/README.md) | <b>Other Highways</b> | <b>201</b> |
 | [<b>3.</b>](Chapter%20003%20-%20General%20Provisions/README.md) | <b>General Provisions</b> | <b>301</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Highway%20Safety/README.md) | <b>Highway Safety</b> | <b>401</b> |
-| <b>\[5.</b> | <b>Repealed.\]</b> |  |
+| [<b>5.</b>](Chapter%20005%20-%20Research%20and%20Technology/README.md) | <b>Research and Technology</b> | <b>501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1966—Pub. L. 89–564, title I, §102(b)(3), Sept. 9, 1966, 80 Stat. 735, added item 4.
+1998—Pub. L. 105–178, title V, §5101(1), June 9, 1998, 112 Stat. 422, added item for chapter 5.
+
+1966—Pub. L. 89–564, title I, §102(b)(3), Sept. 9, 1966, 80 Stat. 735, added item for chapter 4.
 
 Table Showing Disposition of All Sections of Former Title 23
 
@@ -670,7 +672,7 @@ Pub. L. 102–240, title I, §1066, Dec. 18, 1991, 105 Stat. 2006, provided that
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 16 section 3172; title 26 section 9503; title 40 sections 345c, 818; title 40 App. section 201; title 42 sections 7506, 7509; title 49 sections 5304, 5305, 5306, 5307, 5316, 5334.
+This title is referred to in title 16 section 3172; title 40 sections 345c, 818; title 40 App. section 201; title 42 sections 7506, 7509; title 49 sections 5303, 5304, 5305, 5306, 5334, 22301, 31102.
 
 
 ---
@@ -681,4 +683,4 @@ This title is referred to in title 16 section 3172; title 26 section 9503; title
 - [Chapter 002 - Other Highways](Chapter%20002%20-%20Other%20Highways/README.md)
 - [Chapter 003 - General Provisions](Chapter%20003%20-%20General%20Provisions/README.md)
 - [Chapter 004 - Highway Safety](Chapter%20004%20-%20Highway%20Safety/README.md)
-- [Chapter 005 - Repealed](Chapter%20005%20-%20Repealed/README.md)
+- [Chapter 005 - Research and Technology](Chapter%20005%20-%20Research%20and%20Technology/README.md)

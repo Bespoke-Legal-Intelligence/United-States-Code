@@ -24,7 +24,7 @@ June 10, 1921, ch. 18, §304 (1st par. 1st sentence), 42 Stat. 24.
 
 R.S. §285.
 
-The words “disbursing official” are substituted for “disbursing officer” for consistency with other titles of the United States Code. The words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “of the Navy” are omitted because of the restatement. The words “when presented with” are substituted for “upon” for clarity. The words “by whose order such disbursement or disposal was made” are omitted as surplus.
+The words “disbursing official” are substituted for “disbursing officer” for consistency with other titles ofthe United States Code. The words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “of the Navy” are omitted because of the restatement. The words “when presented with” are substituted for “upon” for clarity. The words “by whose order such disbursement or disposal was made” are omitted as surplus.
 
 #### Amendments
 

@@ -46,6 +46,10 @@ For the purposes of this subchapter—
 
 (Pub. L. 97–300, title III, §301, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1524.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Prior Provisions
 
 A prior section 1651, Pub. L. 97–300, title III, §301, Oct. 13, 1982, 96 Stat. 1364; Pub. L. 99–496, §10, Oct. 16, 1986, 100 Stat. 1264, related to allocation of funds, prior to the general revision of this subchapter by Pub. L. 100–418.

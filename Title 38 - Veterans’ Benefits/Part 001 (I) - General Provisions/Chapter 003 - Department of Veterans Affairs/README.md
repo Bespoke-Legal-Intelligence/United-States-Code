@@ -8,7 +8,7 @@
 | [304\.](%C2%A7%2000304%20-%20Deputy%20Secretary%20of%20Veterans%20Affairs.md) | Deputy Secretary of Veterans Affairs. |
 | [305\.](%C2%A7%2000305%20-%20Under%20Secretary%20for%20Health.md) | Under Secretary for Health. |
 | [306\.](%C2%A7%2000306%20-%20Under%20Secretary%20for%20Benefits.md) | Under Secretary for Benefits. |
-| [307\.](%C2%A7%2000307%20-%20Director%20of%20the%20National%20Cemetery%20System.md) | Director of the National Cemetery System. |
+| [307\.](%C2%A7%2000307%20-%20Under%20Secretary%20for%20Memorial%20Affairs.md) | Under Secretary for Memorial Affairs. |
 | [308\.](%C2%A7%2000308%20-%20Assistant%20Secretaries%3B%20Deputy%20Assistant%20Secretaries.md) | Assistant Secretaries; Deputy Assistant Secretaries. |
 | [309\.](%C2%A7%2000309%20-%20Chief%20Financial%20Officer.md) | Chief Financial Officer. |
 | [310\.](%C2%A7%2000310%20-%20Chief%20Information%20Officer.md) | Chief Information Officer. |
@@ -76,7 +76,7 @@ Section 233, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 87–574, �
 
 Section 234, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1117; Pub. L. 93–82, title IV, §402(a), (c), Aug. 2, 1973, 87 Stat. 196, related to telephone service for medical officers and facility directors. See section 705 of this title.
 
-Section 235, added Pub. L. 86–116, §1, July 28, 1959, 73 Stat. 265; amended Pub. L. 87–815, §6, Oct. 15, 1962, 76 Stat. 927; Pub. L. 89–300, §1(c), Oct. 28, 1965, 79 Stat. 1110; Pub. L. 96–22, title V, §503(b), (c)(1), June 13, 1979, 93 Stat. 65; Pub. L. 96–465, title II, §2206(g), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–576, title VII, §§701(15), 702(3), Oct. 28, 1986, 100 Stat. 3291, 3301, related to benefits to employees at overseas offices who are United States citizens. See section 707 of this title.
+Section 235, added Pub. L. 86–116, §1, July 28, 1959, 73 Stat. 265; amended Pub. L. 87–815, §6, Oct. 15, 1962, 76 Stat. 927; Pub. L. 89–300, §1(c), Oct. 28, 1965, 79 Stat.1110; Pub. L. 96–22, title V, §503(b), (c)(1), June 13, 1979, 93 Stat. 65; Pub. L. 96–465, title II, §2206(g), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–576, title VII, §§701(15), 702(3), Oct. 28, 1986, 100 Stat. 3291, 3301, related to benefits to employees at overseas offices who are United States citizens. See section 707 of this title.
 
 Section 236, added Pub. L. 89–300, §1(a), Oct. 28, 1965, 79 Stat. 1110; amended Pub. L. 99–576, title VII, §701(16), Oct. 28, 1986, 100 Stat. 3292, related to administrative settlement of tort claims arising in foreign countries. See section 515 of this title.
 
@@ -95,6 +95,8 @@ Section 245, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat.
 Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 Stat. 1446; amended Pub. L. 95–336, §6(b), Aug. 4, 1978, 92 Stat. 453; Pub. L. 97–295, §4(8), Oct. 12, 1982, 96 Stat. 1305, related to veterans cost-of-instruction payments to institutions of higher learning.
 
 #### Amendments
+
+1998—Pub. L. 105–368, title IV, §403(c)(1)(B), Nov. 11, 1998, 112 Stat. 3338, substituted “Under Secretary for Memorial Affairs” for “Director of the National Cemetery System” in item 307.
 
 1997—Pub. L. 105–114, title I, §102(a)(2), Nov. 21, 1997, 111 Stat. 2281, added item 319.
 
@@ -117,7 +119,7 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 - [&sect; 00304 - Deputy Secretary of Veterans Affairs](%C2%A7%2000304%20-%20Deputy%20Secretary%20of%20Veterans%20Affairs.md)
 - [&sect; 00305 - Under Secretary for Health](%C2%A7%2000305%20-%20Under%20Secretary%20for%20Health.md)
 - [&sect; 00306 - Under Secretary for Benefits](%C2%A7%2000306%20-%20Under%20Secretary%20for%20Benefits.md)
-- [&sect; 00307 - Director of the National Cemetery System](%C2%A7%2000307%20-%20Director%20of%20the%20National%20Cemetery%20System.md)
+- [&sect; 00307 - Under Secretary for Memorial Affairs](%C2%A7%2000307%20-%20Under%20Secretary%20for%20Memorial%20Affairs.md)
 - [&sect; 00308 - Assistant Secretaries; Deputy Assistant Secretaries](%C2%A7%2000308%20-%20Assistant%20Secretaries%3B%20Deputy%20Assistant%20Secretaries.md)
 - [&sect; 00309 - Chief Financial Officer](%C2%A7%2000309%20-%20Chief%20Financial%20Officer.md)
 - [&sect; 00310 - Chief Information Officer](%C2%A7%2000310%20-%20Chief%20Information%20Officer.md)

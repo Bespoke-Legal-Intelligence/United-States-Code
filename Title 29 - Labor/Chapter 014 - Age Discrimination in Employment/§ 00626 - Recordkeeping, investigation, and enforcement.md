@@ -46,7 +46,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 &emsp;(ii) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the individual is given a period of at least 45 days within which to consider the agreement;
 
-&emsp;(G) the agreement provides that for a period of at least 7 days following the execution of such agreement, the individual may revoke the agreement, and the agreement shall not become effective or enforceable until the revocation period has expired;
+&emsp;(G) the agreement provides that for a period of at least 7 days following the execution ofsuch agreement, the individual may revoke the agreement, and the agreement shall not become effective or enforceable until the revocation period has expired;
 
 &emsp;(H) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the employer (at the commencement of the period specified in subparagraph (F)) informs the individual in writing in a manner calculated to be understood by the average individual eligible to participate, as to—
 
@@ -62,7 +62,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 (3) In any dispute that may arise over whether any of the requirements, conditions, and circumstances set forth in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H) of paragraph (1), or subparagraph (A) or (B) of paragraph (2), have been met, the party asserting the validity of a waiver shall have the burden of proving in a court of competent jurisdiction that a waiver was knowing and voluntary pursuant to paragraph (1) or (2).
 
-(4) No waiver agreement may affect the Commission's rights and responsibilities to enforcethis chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
+(4) No waiver agreement may affect the Commission's rights and responsibilities to enforce this chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
 
 (Pub. L. 90–202, §7, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, §4(a), (b)(1), (c)(1), Apr. 6, 1978, 92 Stat. 190, 191; 1978 Reorg. Plan No. 1, §2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 101–433, title II, §201, Oct. 16, 1990, 104 Stat. 983; Pub. L. 102–166, title I, §115, Nov. 21, 1991, 105 Stat. 1079.)
 
@@ -102,7 +102,7 @@ Section 202(b) of Pub. L. 101–433 provided that: “Effective on the date of e
 
 #### Age Discrimination Claims Assistance
 
-Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, §2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
+Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, §2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period wasapplicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
 
 #### Section Referred to in Other Sections
 

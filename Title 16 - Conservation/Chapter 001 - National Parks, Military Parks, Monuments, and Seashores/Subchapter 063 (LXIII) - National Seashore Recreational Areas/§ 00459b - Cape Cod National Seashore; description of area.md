@@ -26,7 +26,7 @@
 
 &emsp;thence southeasterly paralleling the general alinement of United States Route 6 and generally distant two-tenths of a mile northeasterly thereof to a point 300 feet south of the southerly right-of-way line of Higgins Hollow Road;
 
-&emsp;thence in a general easterly direction paralleling the southerly alinement of Higgins Hollow Road and 300 feet distant southerly therefrom to a point five-tenths of a mile east of the easterly right-of-way line of said Route 6;
+&emsp;thence in a general easterly direction paralleling the southerly alinement of Higgins Hollow Road and 300 feet distant southerly therefrom to a point five-tenths of a mile eastof the easterly right-of-way line of said Route 6;
 
 &emsp;thence turning and running in a southeasterly and southerly direction paralleling the general alinement of United States Route 6 and distant five-tenths of a mile easterly therefrom to a point 300 feet north of the northerly right-of-way line of North Pamet Road;
 
@@ -54,7 +54,7 @@
 
 &emsp;thence crossing Mill Creek in a northeasterly direction to the 20-foot contour level near to and northeast of the confluence of Mill Creek and Herring River;
 
-&emsp;thence following generally northerly and easterly along the easterly edge of the Herring River marshes on the 20-foot contour to apoint north of which the easterly right-of-way line of a medium duty road, as depicted on said Wellfleet quadrangle sheet, crosses northward across a marshy stream near the juncture of said medium duty road with Bound Brook Island Road;
+&emsp;thence following generally northerly and easterly along the easterly edge of the Herring River marshes on the 20-foot contour to a point north of which the easterly right-of-way line of a medium duty road, as depicted on said Wellfleet quadrangle sheet, crosses northward across a marshy stream near the juncture of said medium duty road with Bound Brook Island Road;
 
 &emsp;thence crossing said marshy stream along said easterly right-of-way line of said medium duty road and continuing in a northerly direction to the 20-foot contour level on the north side of said marshy stream;
 

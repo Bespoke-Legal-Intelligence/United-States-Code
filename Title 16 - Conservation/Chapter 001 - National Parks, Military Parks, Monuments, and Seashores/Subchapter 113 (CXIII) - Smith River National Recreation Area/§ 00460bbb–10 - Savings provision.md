@@ -6,7 +6,7 @@ Nothing in this subchapter shall limit, restrict, or require specific management
 
 #### (b) Prior rights
 
-(1) Nothing in this subchapter shall limit, restrict, or preclude the implementation of valid timber sale contracts or other contracts or agreements executed by the Secretary before November 16, 1990.
+(1) Nothing in this subchapter shall limit, restrict, or preclude the implementation of validtimber sale contracts or other contracts or agreements executed by the Secretary before November 16, 1990.
 
 (2) Except as specifically provided herein nothing in this subchapter shall be construed as diminishing or relinquishing any right, title, or interest of the United States in any lands, waters, or interests therein within the boundaries of the recreation area designated by this subchapter.
 
@@ -20,7 +20,7 @@ Existing rights provided by Federal law for access by private landowners across 
 
 #### (e) Entitlement moneys
 
-Annually for the first two full fiscal years after November 16, 1990, the Secretary shall pay for use by units of local government within the recreation area an amount equal to the difference between the amounts payable for such purposes pursuant to the Act of May 23, 1908 (chapter 193; 35 Stat. 251; 16 U.S.C. 500) and theaverage amount paid for such purpose under such Act during the five fiscal years preceding November 16, 1990. The amount payable under this subsection shall be reduced by 10 percent annually thereafter for each succeeding fiscal year until the amount payable shall be reduced 100 percent by the end of the twelfth fiscal year after November 16, 1990. This subsection shall expire 11 years after the first payment pursuant to this subsection.
+Annually for the first two full fiscal years after November 16, 1990, the Secretary shall pay for use by units of local government within the recreation area an amount equal to the difference between the amounts payable for such purposes pursuant to the Act of May 23, 1908 (chapter 193; 35 Stat. 251; 16 U.S.C. 500) and the average amount paid for such purpose under such Act during the five fiscal years preceding November 16, 1990. The amount payable under this subsection shall be reduced by 10 percent annually thereafter for each succeeding fiscal year until the amount payable shall be reduced 100 percent by the end of the twelfth fiscal year after November 16, 1990. This subsection shall expire 11 years after the first payment pursuant to this subsection.
 
 (Pub. L. 101–612, §13, Nov. 16, 1990, 104 Stat. 3222.)
 

@@ -4,7 +4,7 @@ Whoever falsely makes, forges, or counterfeits any coin in the resemblance or si
 
 Whoever passes, utters, publishes, or sells, or brings into the United States, or possesses any such false, forged, or counterfeited coin, with intent to defraud any person, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 709; Feb. 14, 1984, Pub. L. 98–216, §3(b)(1), 98 Stat. 6; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 98–216, §3(b)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -26,7 +26,7 @@ A resident capacity grant under subsection (d) of this section may not exceed $3
 
 #### (1) Use
 
-&emsp;Predevelopment grants under this subsection shall be made available to community-based nonprofit housing developers and resident councils to cover the cost of organizing a purchasing entity and pursuing an acquisition,including third party costs for training, development consulting, legal, appraisal, accounting, environmental, architectural and engineering, application fees, and sponsor's staff and overhead costs.
+&emsp;Predevelopment grants under this subsection shall be made available to community-based nonprofit housing developers and resident councils to cover the cost of organizing a purchasing entity and pursuing an acquisition, including third party costs for training, development consulting, legal, appraisal, accounting, environmental, architectural and engineering, application fees, and sponsor's staff and overhead costs.
 
 #### (2) Eligible housing
 

@@ -44,9 +44,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Allocation of Funds
 
-Funds available to the President under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by section 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
-
-Funds available to President for carrying out subsec. (b) of this section allocated to Secretary of State by section 1–801(c) of Ex. Ord. No. 12163.
+Funds available to President for carrying out subsec. (b) of this section allocated to Secretary of State by section 1–801(c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

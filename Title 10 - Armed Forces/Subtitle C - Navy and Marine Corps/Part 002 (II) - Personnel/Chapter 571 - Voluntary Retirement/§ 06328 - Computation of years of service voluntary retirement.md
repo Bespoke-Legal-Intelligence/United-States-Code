@@ -6,7 +6,7 @@ Enlisted Members.—Time required to be made up under section 972(a) of this tit
 
 (b)
 
-Officers.—Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this chapter any timeidentified with respect to that officer under that section.
+Officers.—Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this chapter any time identified with respect to that officer under that section.
 
 (Added Pub. L. 104–106, div. A, title V, §561(d)(3)(A), Feb. 10, 1996, 110 Stat. 322.)
 

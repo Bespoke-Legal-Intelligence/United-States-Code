@@ -4,5 +4,5 @@ Section, Pub. L. 96–88, title II, §213, Oct. 17, 1979, 93 Stat. 675, establis
 
 #### Effective Date of Repeal
 
-Repeal effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date of 1990 Amendment note under section 2301 of this title.
+Repeal effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date note under section 3423a of this title.
 

@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 100–220, §2107(b), designated existing provisions as par
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships,1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
+Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
 
 #### Effective Date
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(2) any loan made after September 30, 1986;
 
-> with moneys from the Rural Development Loan Fund established by section 9812(c)(1) of this title or with funds available under section 9910(a) of this title to an intermediary borrower shall bear interest at a fixed rate equal to the rate of interest that was in effect on the date of issuance for loans made in 1980 with such moneys or such funds if the weighted average rate of interest for all loans made after December 31, 1982, by such intermediary borrower with such moneys or such funds does not exceed the sum of 6 percent and the rate of interest payable under this subsection by such intermediary borrower.
+> with moneys from the Rural Development Loan Fund established by section 9812(c)(1) of this title or with funds available (before October 27, 1998) under section 9910(a) of this title (as in effect before October 27, 1998) to an intermediary borrower shall bear interest at a fixed rate equal to the rate of interest that was in effect on the date of issuance for loans made in 1980 with such moneys or such funds if the weighted average rate of interest for all loans made after December 31, 1982, by such intermediary borrower with such moneys or such funds does not exceed the sum of 6 percent and the rate of interest payable under this subsection by such intermediary borrower.
 
 #### (b) Assignment of certain loan contracts
 
@@ -16,15 +16,25 @@ Any contract for a loan made during the period beginning on December 31, 1982, a
 
 &emsp;(1) moneys from the Rural Development Loan Fund established by section 9812(c)(1) of this title; or
 
-&emsp;(2) funds available under section 9910(a) of this title;
+&emsp;(2) funds available (before October 27, 1998) under section 9910(a) of this title (as in effect before October 27, 1998);
 
 > to an intermediary borrower that is a county government may be assigned by such borrower to an entity to which such loan could have been made for the purpose for which such contract was made. Any entity to which such contract is so assigned shall be substituted as a party to such contract and shall be obligated to carry out such contract and the purpose for which such contract was made.
 
-(Pub. L. 99–425, title IV, §407(a), (b), Sept. 30, 1986, 100 Stat. 971.)
+(Pub. L. 99–425, title IV, §407(a), (b), Sept. 30, 1986, 100 Stat. 971; Pub. L. 105–285, title II, §202(c), Oct. 27, 1998, 112 Stat. 2755.)
+
+#### References in Text
+
+Section 9910 of this title, referred to in subsecs. (a) and (b)(2), was in the original a reference to section 681 of Pub. L. 97–35. Section 681 of Pub. L. 97–35 was omitted, and a new section 681 enacted, in the general amendment of chapter 106 of this title by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. The new section 681 is classified to section 9922 of this title.
 
 #### Codification
 
 Section was enacted as part of the Human Services Reauthorization Act of 1986, and not as part of the Community Economic Development Act of 1981 which comprises this subchapter.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–285, §202(c)(1), in concluding provisions, inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
+
+Subsec. (b)(2). Pub. L. 105–285, §202(c)(2), inserted “(before October 27, 1998)” after “funds available” and “(as in effect before October 27, 1998)” after “9910(a) of this title”.
 
 #### Effective Date
 

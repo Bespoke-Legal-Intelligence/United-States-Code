@@ -10,17 +10,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;&emsp;(A) Federal capital contributions from funds appropriated under section 1087aa of this title;
 
-&emsp;&emsp;(B) a capital contribution—
-
-&emsp;&emsp;&emsp;(i) by an institution that—
-
-&emsp;&emsp;&emsp;&emsp;(I) is granted permission by the Secretary to participate in an Expanded Lending Option under the program, and
-
-&emsp;&emsp;&emsp;&emsp;(II) has a default rate which does not exceed 7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year,
-
-&emsp;&emsp;&nbsp;in an amount not less than the amount of the Federal capital contributions described in subparagraph (A); or
-
-&emsp;&emsp;&emsp;(ii) by any other institution, in an amount not less than three-seventeenths of such Federal capital contribution in fiscal year 1993, and one-third of such Federal capital contribution in each of the succeeding fiscal years, of the amount of the Federal capital contributions described in subparagraph (A);
+&emsp;&emsp;(B) a capital contribution by an institution in an amount equal to one-third of the Federal capital contributions described in subparagraph (A);
 
 &emsp;&emsp;(C) collections of principal and interest on student loans made from deposited funds;
 
@@ -38,9 +28,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;&emsp;(D) costs of litigation, and other collection costs agreed to by the Secretary in connection with the collection of a loan from the fund (and interest thereon) or a charge assessed pursuant to regulations under section 1087dd(c)(1)(H) of this title;
 
-&emsp;(4) provide that where a note or written agreement evidencing a note has been in default for (A) 120 days, in the case of a loan which is repayable in monthly installments, or (B) 180 days, in the case of a loan which is repayable in less frequent installments, notice of such default shall be given to the Secretary in an annual report describing the total number of loans from such fund which are in such default;
-
-&emsp;(5) provide that where a note or written agreement evidencing a loan has been in default despite due diligence on the part of the institution in attempting collection thereon—
+&emsp;(4) provide that where a note or written agreement evidencing a loan has been in default despite due diligence on the part of the institution in attempting collection thereon—
 
 &emsp;&emsp;(A) if the institution has knowingly failed to maintain an acceptable collection record with respect to such loan, as determined by the Secretary in accordance with criteria established by regulation, the Secretary may—
 
@@ -54,15 +42,15 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;&emsp;&emsp;(ii) allow such institution to refer such note or agreement to the Secretary, without recompense, except that any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution no later than 180 days after collection by the Secretary and treated as an additional capital contribution;
 
-&emsp;(6) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
+&emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
 
-&emsp;(7) provide that, notwithstanding any other provision of law, the Secretary will provide to the institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
+&emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide to the institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
 
-&emsp;(8) provide assurances that the institution will comply with the provisions of section 1087cc–1 of this title;
+&emsp;(7) provide assurances that the institution will comply with the provisions of section 1087cc–1 of this title;
 
-&emsp;(9) provide that the institution of higher education will make loans first to students with exceptional need; and
+&emsp;(8) provide that the institution of higher education will make loans first to students with exceptional need; and
 
-&emsp;(10) include such other reasonable provisions as may be necessary to protect the United States from unreasonable risk of loss and as are agreed to by the Secretary and the institution.
+&emsp;(9) include such other reasonable provisions as may be necessary to protect the United States from unreasonable risk of loss and as are agreed to by the Secretary and the institution.
 
 #### (b) Administrative expenses
 
@@ -70,37 +58,39 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 #### (c) Cooperative agreements with credit bureau organizations
 
-(1) For the purpose of promoting responsible repayment of loans made pursuant to this part, the Secretary shall enter into cooperative agreements with credit bureau organizations to provide for the exchange of information concerning student borrowers concerning whom the Secretary has received a referral pursuant to section 1087gg of this title.
+(1) For the purpose of promoting responsible repayment of loans made pursuant to this part, the Secretary and each institution of higher education participating in the program under this part shall enter into cooperative agreements with credit bureau organizations to provide for the exchange of information concerning student borrowers concerning whom the Secretary has received a referral pursuant to section 1087gg of this title and regarding loans held by the Secretary or an institution.
 
-(2) Each cooperative agreement made pursuant to paragraph (1) shall be made in accordance with the requirements of section 1080a of this title except that such agreement shall provide for the disclosure by the Secretary to such organizations, with respect to any loan for which the Secretary is responsible, of—
+(2) Each cooperative agreement made pursuant to paragraph (1) shall be made in accordance with the requirements of section 1080a of this title except that such agreement shall provide for the disclosure by the Secretary or an institution, as the case may be, to such organizations, with respect to any loan held by the Secretary or the institution, respectively, of—
 
-&emsp;(A) the date of disbursement and the amount of any such loan;
+&emsp;(A) the date of disbursement and the amount of such loans made to any borrower under this part at the time of disbursement of the loan;
 
-&emsp;(B) information concerning collection of any such loan, including information concerning the status of any defaulted loan; and
+&emsp;(B) information concerning the repayment and collection of any such loan, including information concerning the status of such loan; and
 
-&emsp;(C) the date of cancellation of the note upon completion of repayment by the borrower of any such loan.
+&emsp;(C) the date of cancellation of the note upon completion of repayment by the borrower of any such loan, or upon cancellation or discharge of the borrower's obligation on the loan for any reason.
 
-(3) Notwithstanding paragraphs (4) and (6) of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretary regarding the status of a borrower's account on a loan made under this part until—
+(3) Notwithstanding paragraphs (4) and (6) <sup>1</sup> of subsection (a) of section 1681c of title 15, a consumer reporting agency may make a report containing information received from the Secretary or an institution regarding the status of a borrower's account on a loan made under this part until the loan is paid in full.
 
-&emsp;(A) 7 years from the date on which the Secretary accepted an assignment or referral of a loan, or
+(4)(A) Except as provided in subparagraph (B), an institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any credit bureau organization with which the Secretary has such an agreement the information set forth in paragraph (2), and shall disclose promptly to such credit bureau organization any changes to the information previously disclosed.
 
-&emsp;(B) 7 years from the date the Secretary first reports the account to a consumer reporting agency.
+(B) The Secretary may promulgate regulations establishing criteria under which an institution of higher education may cease reporting the information described in paragraph (2) before a loan is paid in full.
 
-(4) Each institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any credit bureau organization with which the Secretary has such an agreement—
-
-&emsp;(A) the amount of loans made to any borrower under this part at the time of the disbursement of the loan; and
-
-&emsp;(B) the information set forth in section 1080a(a) of this title.
+(5) Each institution of higher education shall notify the appropriate credit bureau organizations whenever a borrower of a loan that is made and held by the institution and that is in default makes 6 consecutive monthly payments on such loan, for the purpose of encouraging such organizations to update the status of information maintained with respect to that borrower.
 
 #### (d) Limitation on use of interest bearing accounts
 
-In carrying out the provisions of subsection (a)(10) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
+In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
 
 #### (e) Special due diligence rule
 
-In carrying out the provisions of subsection (a)(5) of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
+In carrying out the provisions of subsection (a)(5) <sup>1</sup> of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
 
-(Pub. L. 89–329, title IV, §463, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100–50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(5)–(7), Dec. 20, 1993, 107 Stat. 2471.)
+(Pub. L. 89–329, title IV, §463, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100–50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(5)–(7), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §463, Oct. 7, 1998, 112 Stat. 1724.)
+
+#### References in Text
+
+Paragraph (6) of subsection (a) of section 1681c of title 15, referred to in subsec. (c)(3), was redesignated paragraph (5) of subsection (a) of section 1681c of title 15 by Pub. L. 105–347, §5(4), Nov. 2, 1998, 112 Stat. 3211.
+
+Subsection (a)(5) of this section relating to due diligence, referred to in subsec. (e), was redesignated subsec. (a)(4), by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724.
 
 #### Prior Provisions
 
@@ -108,7 +98,49 @@ A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92�
 
 #### Amendments
 
-1993—Subsec. (a)(2)(B)(i)(II). Pub. L. 103–208, §2(f)(5), substituted “7.5 percent for award year 1993–1994 andhas a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year” for “7.5 percent”.
+1998—Subsec. (a)(2)(B). Pub. L. 105–244, §463(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a capital contribution—
+
+&emsp;“(i) by an institution that—
+
+&emsp;&emsp;“(I) is granted permission by the Secretary to participate in an Expanded Lending Option under the program, and
+
+&emsp;&emsp;“(II) has a default rate which does not exceed 7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year,
+
+> &emsp;in an amount not less than the amount of the Federal capital contributions described in subparagraph (A); or
+
+&emsp;“(ii) by any other institution, in an amount not less than three-seventeenths of such Federal capital contribution in fiscal year 1993, and one-third of such Federal capital contribution in each of the succeeding fiscal years, of the amount of the Federal capital contributions described in subparagraph (A);”.
+
+Subsec. (a)(4) to (10). Pub. L. 105–244, §463(a)(2), (3), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: “provide that where a note or written agreement evidencing a note has been in default for (A) 120 days, in the case of a loan which is repayable in monthly installments, or (B) 180 days, in the case of a loan which is repayable in less frequent installments, notice of such default shall be given to the Secretary in an annual report describing the total number of loans from such fund which are in such default;”.
+
+Subsec. (c)(1). Pub. L. 105–244, §463(b)(1), substituted “the Secretary and each institution of higher education participating in the program under this part shall” for “the Secretary shall” and inserted “and regarding loans held by the Secretary or an institution” after “section 1087gg of this title”.
+
+Subsec. (c)(2). Pub. L. 105–244, §463(b)(2)(A), in introductory provisions, substituted “by the Secretary or an institution, as the case may be, to such organizations, with respect to any loan held by the Secretary or the institution, respectively, of—” for “by the Secretary to such organizations, with respect to any loan for which the Secretary is responsible, of—”.
+
+Subsec. (c)(2)(A). Pub. L. 105–244, §463(b)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the date of disbursement and the amount of any such loan;”.
+
+Subsec. (c)(2)(B). Pub. L. 105–244, §463(b)(2)(C), inserted “the repayment and” after “concerning” and substituted “status of such” for “status of any defaulted”.
+
+Subsec. (c)(2)(C). Pub. L. 105–244, §463(b)(2)(D), inserted “, or upon cancellation or discharge of the borrower's obligation on the loan for any reason” before period at end.
+
+Subsec. (c)(3). Pub. L. 105–244, §463(b)(3)(A), in introductory provisions, inserted “or an institution” after “from the Secretary” and substituted “until the loan is paid in full.” for “until—”.
+
+Subsec. (c)(3)(A), (B). Pub. L. 105–244, §463(b)(3)(B), struck out subpars. (A) and (B) which read as follows:
+
+“(A) 7 years from the date on which the Secretary accepted an assignment or referral of a loan, or
+
+“(B) 7 years from the date the Secretary first reports the account to a consumer reporting agency.”
+
+Subsec. (c)(4). Pub. L. 105–244, §463(b)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Each institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any credit bureau organization with which the Secretary has such an agreement—
+
+&emsp;“(A) the amount of loans made to any borrower under this part at the time of the disbursement of the loan; and
+
+&emsp;“(B) the information set forth in section 1080a(a) of this title.”
+
+Subsec. (c)(5). Pub. L. 105–244, §463(b)(4), added par. (5).
+
+Subsec. (d). Pub. L. 105–244, §463(c), substituted “subsection (a)(9)” for “subsection (a)(10)”.
+
+1993—Subsec. (a)(2)(B)(i)(II). Pub. L. 103–208, §2(f)(5), substituted “7.5 percent for award year 1993–1994 and has a cohort default rate which does not exceed 15 percent for award year 1994–1995 or for any succeeding award year” for “7.5 percent”.
 
 Subsec. (c)(4). Pub. L. 103–208, §2(f)(6), substituted “shall disclose at least annually” for “shall disclose” in introductory provisions.
 
@@ -120,13 +152,17 @@ Subsec. (c)(3)(B). Pub. L. 102–325, §463(b)(1), struck out “, if that acco
 
 Subsec. (c)(4). Pub. L. 102–325, §463(b)(2), added par. (4).
 
-1987—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out “, and made to the Secretary at least semiannually” after “in such default”.
+1987—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted “in an annual report” for “in a report” and struck out“, and made to the Secretary at least semiannually” after “in such default”.
 
 Subsec. (b). Pub. L. 100–50, §13(f), substituted “section 1096 of this title” for “section 1092 of this title”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -144,5 +180,7 @@ Subsection (a)(9) of this section applicable only to loans made for periods of e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1087aa, 1087bb, 1087cc–1, 1087dd, 1087gg, 1091a, 1096 of this title.
+This section is referred to in sections 1087aa, 1087cc–1, 1087dd, 1087gg, 1091a, 1096 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

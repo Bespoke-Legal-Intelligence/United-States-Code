@@ -58,7 +58,7 @@ For purposes of this section—
 
 (1) Programs administered by any Indian tribe or tribal organization under the authority of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] shall be eligible for funds appropriated under the authority of this section on an equal basis with programs that are administered directly by the Service.
 
-(2) If any funds allocated to a tribe or service unit under the authority of this section are used for a contract entered into under the Indian Self-Determination Act, a reasonable portion ofsuch funds may be used for health planning, training, technical assistance, and other administrative support functions.
+(2) If any funds allocated to a tribe or service unit under the authority of this section are used for a contract entered into under the Indian Self-Determination Act, a reasonable portion of such funds may be used for health planning, training, technical assistance, and other administrative support functions.
 
 #### (e) Report to Congress
 
@@ -134,9 +134,9 @@ Subsec. (e). Pub. L. 102–573, §201(a)(5)(A), in introductory provisions, subs
 
 Subsec. (e)(1). Pub. L. 102–573, §201(a)(5)(B), substituted “health status and resource deficiencies” for “health resources deficiencies”.
 
-Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted “the extent of the health status and resourcedeficiency of” for “the level of health resources deficiency for”.
+Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted “the extent of the health status and resource deficiency of” for “the level of health resources deficiency for”.
 
-Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service below health resources deficiency level II to health resources deficiency level II;”.
+Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service belowhealth resources deficiency level II to health resources deficiency level II;”.
 
 Subsec. (e)(4) to (6). Pub. L. 102–573, §201(a)(5)(E), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which read as follows:
 

@@ -50,5 +50,5 @@ A prior section 1436, Pub. L. 91–230, title VI, §636, Apr. 13, 1970, 84 Stat.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1412, 1414, 1432, 1435 of this title.
+This section is referred to in sections 1401, 1412, 1414, 1432, 1435, 1473 of this title.
 

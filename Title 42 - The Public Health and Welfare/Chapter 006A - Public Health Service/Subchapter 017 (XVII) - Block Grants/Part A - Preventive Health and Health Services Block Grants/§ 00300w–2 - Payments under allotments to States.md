@@ -12,7 +12,7 @@
 
 > when the furnishing of supplies or equipment or the detail of an officer or employee is for the convenience of and at the request of the State and for the purpose of conducting activities described in section 300w–3 of this title. The amount by which any payment is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment or in detailing the personnel, on which the reduction of the payment is based, and the amount shall be deemed to be part of the payment and shall be deemed to have been paid to the State.
 
-(July 1, 1944, ch. 373, title XIX, §1903, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 537.)
+(July 1, 1944, ch. 373, title XIX, §1903, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537.)
 
 #### Codification
 

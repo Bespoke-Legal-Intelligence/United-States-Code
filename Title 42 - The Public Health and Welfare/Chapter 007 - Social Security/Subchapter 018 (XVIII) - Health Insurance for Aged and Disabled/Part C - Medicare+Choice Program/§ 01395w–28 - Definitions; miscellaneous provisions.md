@@ -110,7 +110,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;Under regulations of the Secretary, in the case of individuals enrolled under this part under a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4001, 111 Stat. 325.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325.)
 
 #### References in Text
 

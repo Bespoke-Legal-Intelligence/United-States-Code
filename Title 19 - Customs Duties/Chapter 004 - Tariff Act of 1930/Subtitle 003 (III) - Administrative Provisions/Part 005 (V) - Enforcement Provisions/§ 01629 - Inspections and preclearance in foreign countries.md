@@ -28,7 +28,7 @@ When customs officials of a foreign country are stationed in the United States i
 
 &emsp;(2) any person who in any matter before a foreign customs official stationed in the United States knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, is liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both.
 
-(June 17, 1930, ch. 497, title IV, §629, as added Oct. 27, 1986, Pub. L. 99–570, title III, §3128, 100 Stat. 3207–89.)
+(June 17, 1930, ch. 497, title IV, §629, as added Pub. L. 99–570, title III, §3128, Oct. 27, 1986, 100 Stat. 3207–89.)
 
 #### References in Text
 

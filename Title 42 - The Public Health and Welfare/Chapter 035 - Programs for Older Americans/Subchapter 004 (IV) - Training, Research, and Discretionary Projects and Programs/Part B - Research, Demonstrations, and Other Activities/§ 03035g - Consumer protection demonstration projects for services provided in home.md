@@ -42,7 +42,7 @@ Consumer protection projects carried out under this section—
 
 #### Prior Provisions
 
-A prior section 3035g, Pub. L. 89–73, title IV, §431, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1543, related to mortgage insurance grants for multipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1601.
+A prior section 3035g, Pub. L. 89–73, title IV, §431, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1543, related to mortgage insurance grants formultipurpose senior centers, prior to the general amendment of this subchapter by Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1601.
 
 #### Amendments
 

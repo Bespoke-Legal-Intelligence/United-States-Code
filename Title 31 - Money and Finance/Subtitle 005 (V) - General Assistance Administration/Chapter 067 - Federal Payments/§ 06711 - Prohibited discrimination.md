@@ -16,7 +16,7 @@ Additional Prohibitions.—The following prohibitions and exemptions also apply 
 
 (c)
 
-Limitations on Applicability of Prohibitions.—Subsections (a) and (b) do not apply if the government shows, by clear and convincing evidence, that a payment received under thischapter is not used to pay for any part of the program or activity with respect to which the allegation of discrimination is made.
+Limitations on Applicability of Prohibitions.—Subsections (a) and (b) do not apply if the government shows, by clear and convincing evidence, that a payment received under this chapter is not used to pay for any part of the program or activity with respect to which the allegation of discrimination is made.
 
 (d)
 

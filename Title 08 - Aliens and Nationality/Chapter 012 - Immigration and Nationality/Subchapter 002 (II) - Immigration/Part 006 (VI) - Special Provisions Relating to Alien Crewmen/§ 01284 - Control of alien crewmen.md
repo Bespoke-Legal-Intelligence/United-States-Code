@@ -12,7 +12,7 @@ Except as may be otherwise prescribed by regulations issued by the Attorney Gene
 
 If the Attorney General finds that removal of an alien crewman under this section on the vessel or aircraft on which he arrived is impracticable or impossible, or would cause undue hardship to such alien crewman, he may cause the alien crewman to be removed from the port of arrival or any other port on another vessel or aircraft of the same transportation line, unless the Attorney General finds this to be impracticable. All expenses incurred in connection with such removal, including expenses incurred in transferring an alien crewman from one place in the United States to another under such conditions and safeguards as the Attorney General shall impose, shall be paid by the owner or owners of the vessel or aircraft on which the alien arrived in the United States. The vessel or aircraft on which the alien arrived shall not be granted clearance until such expenses have been paid or their payment guaranteed to the satisfaction of the Attorney General. An alien crewman who is transferred within the United States in accordance with this subsection shall not be regarded as having been landed in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 6, §254, 66 Stat. 221; Nov. 29, 1990, Pub. L. 101–649, title V, §543(a)(4), 104 Stat. 5058; Dec. 12, 1991, Pub. L. 102–232, title III, §306(c)(4)(C), 105 Stat. 1752; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(1)(I), (2)(F), (12), 110 Stat. 3009–619, 3009–620.)
+(June 27, 1952, ch. 477, title II, ch. 6, §254, 66 Stat. 221; Pub. L. 101–649, title V, §543(a)(4), Nov. 29, 1990, 104 Stat. 5058; Pub. L. 102–232, title III, §306(c)(4)(C), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title III, §308(e)(1)(I), (2)(F), (12), Sept. 30, 1996, 110 Stat. 3009–619, 3009–620.)
 
 #### Amendments
 
@@ -24,7 +24,7 @@ If the Attorney General finds that removal of an alien crewman under this sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 

@@ -1,6 +1,6 @@
 ### §1302. Regulations
 
-(a) The Office of Personnel Management, subject to the rules prescribed by the President under this title for the administration of the competitive service, shall prescribe regulations for, control, supervise, and preserve the records of, examinations for the competitive service.
+(a) The Office of Personnel Management, subject to the rules prescribed by the Presidentunder this title for the administration of the competitive service, shall prescribe regulations for, control, supervise, and preserve the records of, examinations for the competitive service.
 
 (b) The Office shall prescribe and enforce regulations for the administration of the provisions of this title, and Executive orders issued in furtherance thereof, that implement the Congressional policy that preference shall be given to preference eligibles in certification for appointment, and in appointment, reinstatement, reemployment, and retention, in the competitive service in Executive agencies, permanent or temporary, and in the government of the District of Columbia.
 
@@ -86,5 +86,5 @@ Preference eligibles—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1303 of this title; title 10 section 1599c; title 18 section 1917; title 22 section 1438.
+This section is referred to in sections 1303, 2302 of this title; title 18 section 1917; title 22 section 1438.
 

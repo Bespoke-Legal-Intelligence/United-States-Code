@@ -10,13 +10,13 @@ Subject to the provisions of section 4604(h)(3) of this title, the Board shall a
 
 #### (c) Appointment, compensation and status of personnel
 
-The president, subject to Institute's bylaws and general policies established by the Board, may appoint, fix the compensation of, and remove such employees of the Institute as the president determines necessary to carry out the purposes of the Institute. In determining employee rates of compensation, the president shall be governed by the provisions of title 5 relating to classification and General Schedule pay rates.
+The president, subject to Institute's bylaws and general policies established by the Board,may appoint, fix the compensation of, and remove such employees of the Institute as the president determines necessary to carry out the purposes of the Institute. In determining employee rates of compensation, the president shall be governed by the provisions of title 5 relating to classification and General Schedule pay rates.
 
 #### (d) Assignment of Federal officers or employees to the Institute
 
 (1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congress and may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
 
-(2) The Secretary of State, the Secretary of Defense, the Director of the Arms Control and Disarmament Agency, and the Director of Central Intelligence each may assign officers and employees of his respective department or agency, on a rotating basis to be determined by the Board, to the Institute if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the respective department or agency of such officer or employee.
+(2) The Secretary of State, the Secretary of Defense, and the Director of Central Intelligence each may assign officers and employees of his respective department or agency, on a rotating basis to be determined by the Board, to the Institute if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the respective department or agency of such officer or employee.
 
 #### (e) Dual compensation restriction
 
@@ -36,7 +36,7 @@ No part of the financial resources, income, or assets of the Institute or of any
 
 The Institute shall not make loans to its directors, officers, employees, or agents, or to any legal entity created by the Institute. A director, officer, employee, or agent who votes for or assents to the making of a loan or who participates in the making of a loan shall be jointly and severally liable to the Institute for the amount of the loan until repayment thereof.
 
-(Pub. L. 98–525, title XVII, §1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, §301(b), Oct. 31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, §319(c), Nov. 5, 1990, 104 Stat. 2285.)
+(Pub. L. 98–525, title XVII, §1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, §301(b), Oct. 31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, §319(c), Nov. 5, 1990, 104 Stat. 2285; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### References in Text
 
@@ -48,7 +48,13 @@ The provisions of title 28 which relate to Federal tort claims liability, referr
 
 #### Amendments
 
+1998—Subsec. (d)(2). Pub. L. 105–277, which directed the amendment of par. (2) by striking out “, Director of the Arms Control and Disarmament Agency”, was executed by striking out “, the Director of the Arms Control and Disarmament Agency” after “Secretary of Defense”, to reflect the probable intent of Congress.
+
 1990—Subsec. (b). Pub. L. 101–520 substituted “4604(h)(3)” for “4604(g)(3)”.
 
 1988—Subsec. (f)(2). Pub. L. 100–569 struck out first sentence which read as follows: “No Federal funds shall be used to pay for private fringe benefit programs.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 

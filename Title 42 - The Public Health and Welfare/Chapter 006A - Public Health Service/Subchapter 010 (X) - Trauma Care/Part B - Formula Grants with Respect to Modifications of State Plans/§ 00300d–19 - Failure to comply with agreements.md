@@ -14,5 +14,5 @@
 
 Before requiring repayment of payments under subsection (a)(1) of this section, the Secretary shall provide to the State an opportunity for a hearing.
 
-(July 1, 1944, ch. 373, title XII, §1219, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2925.)
+(July 1, 1944, ch. 373, title XII, §1219, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2925.)
 

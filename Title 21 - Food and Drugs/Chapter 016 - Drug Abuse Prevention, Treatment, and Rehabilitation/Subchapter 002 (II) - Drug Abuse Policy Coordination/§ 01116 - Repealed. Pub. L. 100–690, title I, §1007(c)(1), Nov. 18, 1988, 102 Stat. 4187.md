@@ -4,7 +4,7 @@ Section, Pub. L. 92–255, title II, §206, as added Pub. L. 96–181, §4, Jan.
 
 #### Effective Date of Repeal
 
-Repeal effective Jan. 21, 1989, see section 1012 of Pub. L. 100–690, set out as an Effective Date note under section 1501 of this title.
+Repeal effective Jan. 21, 1989, see section 1012 of Pub. L. 100–690.
 
 A prior section 1116, Pub. L. 92–255, title II, §206, as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 242, which provided for the employment and compensation of experts and consultants, was omitted in the general revision of this subchapter by Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1309.
 

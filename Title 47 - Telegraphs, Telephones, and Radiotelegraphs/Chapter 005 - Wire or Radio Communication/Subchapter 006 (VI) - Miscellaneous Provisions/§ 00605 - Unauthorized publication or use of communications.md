@@ -32,7 +32,7 @@ For purposes of this section—
 
 &emsp;(3) the term “encrypt”, when used with respect to satellite cable programming, means to transmit such programming in a form whereby the aural and visual characteristics (or both) are modified or altered for the purpose of preventing the unauthorized receipt of such programming by persons without authorized equipment which is designed to eliminate the effects of such modification or alteration;
 
-&emsp;(4) the term “private viewing” means the viewing for private use in an individual's dwelling unit by means of equipment, owned or operated by such individual, capable of receiving satellite cable programming directly from a satellite;
+&emsp;(4) the term “private viewing” means the viewing for private use in an individual'sdwelling unit by means of equipment, owned or operated by such individual, capable of receiving satellite cable programming directly from a satellite;
 
 &emsp;(5) the term “private financial gain” shall not include the gain resulting to any individual for the private use in such individual's dwelling unit of any programming for which the individual has not obtained authorization for that use; and
 

@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 &emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (other than wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
 
-&emsp;(3) The term “employee” means any person employed by an employer.
+&emsp;(3) The term “employee” means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the term “employer” means any person, institution, organization, or other entity that pays salary or wages for work performed or that has control over employment opportunities, including—
 
@@ -56,7 +56,7 @@ For the purposes of this chapter—
 
 &emsp;(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331.)
 
 #### Prior Provisions
 
@@ -66,7 +66,13 @@ Another prior section 4303 was renumbered section 7603 of this title.
 
 #### Amendments
 
+1998—Par. (3). Pub. L. 105–368 inserted at end “Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.”
+
 1996—Par. (16). Pub. L. 104–275 inserted “national” before “emergency”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–368, title II, §212(c), Nov. 11, 1998, 112 Stat. 3331, provided that: “The amendments made by this section \[enacting section 4319 of this title and amending this section\] shall apply only with respect to causes of action arising after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1996 Amendment
 

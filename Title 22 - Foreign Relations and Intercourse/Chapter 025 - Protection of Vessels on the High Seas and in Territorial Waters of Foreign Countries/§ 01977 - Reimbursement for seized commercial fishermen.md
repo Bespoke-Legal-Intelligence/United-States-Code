@@ -2,7 +2,7 @@
 
 #### (a) Agreement to reimburse for actual costs, confiscation or spoilage of fish, and loss of income
 
-The Secretary, upon receipt of an application filed with him at any time after the effective date of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shallenter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
+The Secretary, upon receipt of an application filed with him at any time after the effective date of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shall enter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
 
 &emsp;(1) the owner of such vessel for all actual costs, except those covered by section 1973 of this title, incurred by the owner during the seizure and detention period and as a direct result thereof, as determined by the Secretary, resulting (A) from any damage to, or destruction of, such vessel, or its fishing gear or other equipment, (B) from the loss or confiscation of such vessel, gear, or equipment, or (C) from dockage fees or utilities;
 

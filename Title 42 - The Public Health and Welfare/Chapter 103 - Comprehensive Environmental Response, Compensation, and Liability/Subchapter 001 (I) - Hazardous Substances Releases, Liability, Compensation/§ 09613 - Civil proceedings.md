@@ -58,7 +58,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, if the remedial action is initiated within 3 years after the completion of the removal action, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
 
-> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completionof all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
+> &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
 
 #### (3) Contribution
 
@@ -124,7 +124,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (1) Administrative record
 
-&emsp;The President shall establish an administrative record upon which the President shall base the selection of a response action. The administrative record shall be available to thepublic at or near the facility at issue. The President also may place duplicates of the administrative record at any other location.
+&emsp;The President shall establish an administrative record upon which the President shall base the selection of a response action. The administrative record shall be available to the public at or near the facility at issue. The President also may place duplicates of the administrative record at any other location.
 
 #### (2) Participation procedures
 

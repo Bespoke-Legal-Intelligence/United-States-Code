@@ -20,7 +20,7 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 #### Amendments
 
-1974—Subsec. (d). Pub. L. 93–528 repealed subsec. (d) which provided that the provisions of sections 28 and 29 of title 15, section 345(1) of title 28, and sections 44 and 45 of title 49, shall be held to apply to any suit in equity arising under sections 201 to 222 of this title, wherein the United States is complainant.
+1974—Subsec. (d). Pub. L. 93–528 repealed subsec. (d) which provided that the provisions of sections 28 and 29of title 15, section 345(1) of title 28, and sections 44 and 45 of title 49, shall be held to apply to any suit in equity arising under sections 201 to 222 of this title, wherein the United States is complainant.
 
 #### Change of Name
 

@@ -1,6 +1,0 @@
-### §1152. Completion of organization
-
-The persons named in section 1151 of this title, or their successors, are hereby authorized to complete the organization of the corporation by the selection of officers, the adoption of a constitution and bylaws, and the doing of such other acts as may be necessary for such purpose.
-
-(Pub. L. 92–93, §2, Aug. 11, 1971, 85 Stat. 317.)
-

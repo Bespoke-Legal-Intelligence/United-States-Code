@@ -2,7 +2,7 @@
 
 The Secretary of Housing and Urban Development shall fix fair rentals based on the value thereof as determined by the Secretary which shall be charged for housing accommodations operated under this subchapter and may prescribe the class or classes of persons who may occupy such accommodations, preferences, or priorities in the rental thereof, and the terms, conditions, and period of such occupancy.
 
-(Sept. 1, 1951, ch. 378, title III, §312, 65 Stat. 308; Sept. 9, 1965, Pub. L. 89–174, §5(a), 79 Stat. 669.)
+(Sept. 1, 1951, ch. 378, title III, §312, 65 Stat. 308; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
 #### Transfer of Functions
 

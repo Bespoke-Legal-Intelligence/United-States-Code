@@ -6,7 +6,7 @@
 
 (b) An appropriation under an authorization under subsection (a) of this section for any fiscal year may be made at any time before that fiscal year and may be included in an Act making an appropriation under an authorization under subsection (a) of this section for another fiscal year; but no funds may be made available from any appropriation under such authorization for obligation under sections 254d through 254h, section 254i, and section 254j of this title before the fiscal year for which such appropriation is authorized.
 
-(July 1, 1944, ch. 373, title III, §338, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2278; amended Nov. 10, 1978, Pub. L. 95–626, title I, §122, 92 Stat. 3570; Sept. 29, 1979, Pub. L. 96–76, title II, §202(c), 93 Stat. 582; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2708, 95 Stat. 908; Dec. 1, 1987, Pub. L. 100–177, title III, §305, 101 Stat. 1004; Nov. 16, 1990, Pub. L. 101–597, title I, §108, 104 Stat. 3021.)
+(July 1, 1944, ch. 373, title III, §338, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2278; amended Pub. L. 95–626, title I, §122, Nov. 10, 1978, 92 Stat. 3570; Pub. L. 96–76, title II, §202(c), Sept. 29, 1979, 93 Stat. 582; Pub. L. 97–35, title XXVII, §2708, Aug. 13, 1981, 95 Stat. 908; Pub. L. 100–177, title III, §305, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 101–597, title I, §108, Nov. 16, 1990, 104 Stat. 3021.)
 
 #### Amendments
 
@@ -24,5 +24,5 @@ Subsec. (b). Pub. L. 97–35, §2708(b), substituted reference to sections 254d 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254g, 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p of this title.
+This section is referred to in sections 254g, 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 11709 of this title.
 

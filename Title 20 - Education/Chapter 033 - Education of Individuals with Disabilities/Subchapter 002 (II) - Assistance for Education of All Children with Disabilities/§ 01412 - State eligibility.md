@@ -30,7 +30,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;All children with disabilities residing in the State, including children with disabilities attending private schools, regardless ofthe severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated and a practical method is developed and implemented to determine which children with disabilities are currently receiving needed special education and related services.
+&emsp;&emsp;All children with disabilities residing in the State, including children with disabilities attending private schools, regardless of the severity of their disabilities, and who are in need of special education and related services, are identified, located, and evaluated and a practical method is developed and implemented to determine which children with disabilities are currently receiving needed special education and related services.
 
 #### (B) Construction
 
@@ -160,7 +160,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) Exception
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the Governor (or another individual pursuant to State law), consistent with State law, may assign to any public agency in the State the responsibility of ensuring that the requirements of this subchapter are metwith respect to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons.
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the Governor (or another individual pursuant to State law), consistent with State law, may assign to any public agency in the State the responsibility of ensuring that the requirements of this subchapter are met with respect to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons.
 
 #### (12) Obligations related to and methods of ensuring services
 
@@ -188,7 +188,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligated under Federal or State law, or assigned responsibility under State policy or pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in sections 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(22) relating to related services, 1401(29) relating to supplementary aids and services, and 1401(30) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement.
+&emsp;&emsp;&emsp;If any public agency other than an educational agency is otherwise obligatedunder Federal or State law, or assigned responsibility under State policy or pursuant to subparagraph (A), to provide or pay for any services that are also considered special education or related services (such as, but not limited to, services described in sections 1401(1) relating to assistive technology devices, 1401(2) relating to assistive technology services, 1401(22) relating to related services, 1401(29) relating to supplementary aids and services, and 1401(30) of this title relating to transition services) that are necessary for ensuring a free appropriate public education to children with disabilities within the State, such public agency shall fulfill that obligation or responsibility, either directly or through contract or other arrangement.
 
 #### (ii) Reimbursement for services by public agency
 
@@ -216,7 +216,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;The State educational agency has established and maintains standards to ensurethat personnel necessary to carry out this subchapter are appropriately and adequately prepared and trained.
+&emsp;&emsp;The State educational agency has established and maintains standards to ensure that personnel necessary to carry out this subchapter are appropriately and adequately prepared and trained.
 
 #### (B) Standards described
 
@@ -242,7 +242,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(ii) are consistent, to the maximum extent appropriate, with other goals and standards for children established by the State;
 
-&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving those goals that, at a minimum, address the performance of children with disabilities on assessments, drop-out rates, and graduation rates;
+&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving those goals that, at a minimum,address the performance of children with disabilities on assessments, drop-out rates, and graduation rates;
 
 &emsp;&emsp;(C) will, every two years, report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A); and
 
@@ -286,7 +286,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) Prohibition against supplantation and conditions for waiver by Secretary
 
-&emsp;&emsp;Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the level of Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case tosupplant such Federal, State, and local funds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
+&emsp;&emsp;Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the level of Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case to supplant such Federal, State, and local funds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
 
 #### (19) Maintenance of State financial support
 
@@ -366,7 +366,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(iv) advise the State educational agency in developing corrective action plans to address findings identified in Federal monitoring reports under this subchapter; and
 
-&emsp;&emsp;&emsp;(v) advise the State educational agency in developing and implementing policiesrelating to the coordination of services for children with disabilities.
+&emsp;&emsp;&emsp;(v) advise the State educational agency in developing and implementing policies relating to the coordination of services for children with disabilities.
 
 #### (22) Suspension and expulsion rates
 
@@ -398,7 +398,7 @@ If the State educational agency provides free appropriate public education to ch
 
 #### (2) Modifications made by State
 
-&emsp;Subject to paragraph (3), an application submitted by a State in accordance with this section shall remain in effect until the State submits to the Secretary such modifications as the State deems necessary. This section shall apply to a modification to an application to the same extent and in the same manner as this section applies to the original plan.
+&emsp;Subject to paragraph (3), an application submitted by a State in accordance with this section shall remain in effect until the State submits to the Secretary such modifications as the State deems necessary. This section shall apply to a modification to an application tothe same extent and in the same manner as this section applies to the original plan.
 
 #### (3) Modifications required by Secretary
 
@@ -482,7 +482,7 @@ Section effective June 4, 1997, except subsec. (a)(4), (14), (16), effective Jul
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1411, 1413, 1414, 1415, 1416, 1419, 1435, 1453, 2328, 2468e of this title.
+This section is referred to in sections 1401, 1411, 1413, 1414, 1415, 1416, 1419, 1435, 1453 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

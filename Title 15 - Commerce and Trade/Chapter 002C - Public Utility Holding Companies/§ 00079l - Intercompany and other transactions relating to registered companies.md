@@ -10,7 +10,7 @@ It shall be unlawful for any registered holding company or subsidiary company th
 
 #### (c) Payment of dividends or retirement of securities
 
-It shall be unlawful for any registered holding company or any subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to declare or pay any dividend on any security of such company or to acquire, retire, or redeem any security of such company, in contravention of such rules and regulations or orders as the Commission deems necessary or appropriate to protect the financial integrity of companies in holding-company systems, to safeguard the working capital of public-utility companies, to prevent the payment of dividends out of capital or unearned surplus, or to prevent the circumvention of the provisions of this chapter or the rules, regulations, or orders thereunder.
+It shall be unlawful for any registered holding company or any subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to declare or pay any dividend on any security ofsuch company or to acquire, retire, or redeem any security of such company, in contravention of such rules and regulations or orders as the Commission deems necessary or appropriate to protect the financial integrity of companies in holding-company systems, to safeguard the working capital of public-utility companies, to prevent the payment of dividends out of capital or unearned surplus, or to prevent the circumvention of the provisions of this chapter or the rules, regulations, or orders thereunder.
 
 #### (d) Sale of securities of other companies
 

@@ -58,7 +58,7 @@ Section 1 of Pub. L. 92–522 provided in part that: “This Act \[enacting this
 
 #### Regulations
 
-Section 15(b) of Pub. L. 103–238 provided that: “Except as provided otherwise in this Act \[see Short Title of 1994 Amendment note above\], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
+Section 15(b) of Pub. L. 103–238 provided that: “Except as provided otherwise in this Act \[see Short Title of 1994 Amendment note above\], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
 
 #### Purposes and Findings
 
@@ -84,7 +84,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(3) tuna canners and processors of the United States have led the canning and processing industry in promoting a dolphin-safe tuna market; and
 
-&emsp;“(4) 12 signatory nations to the Declaration of Panama, including the United States, agreed under thatDeclaration to require that the total annual dolphin mortality in the purse seine fishery for yellowfin tuna in the eastern tropical Pacific Ocean not exceed 5,000 animals, with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and with the goal of eliminating dolphin mortality.”
+&emsp;“(4) 12 signatory nations to the Declaration of Panama, including the United States, agreed under that Declaration to require that the total annual dolphin mortality in the purse seine fishery for yellowfin tuna in the eastern tropical Pacific Ocean not exceed 5,000 animals, with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and with the goal of eliminating dolphin mortality.”
 
 #### Relationship of Marine Mammal Protection Act Amendments of 1994 to Other Law
 

@@ -2,7 +2,7 @@
 
 The President may detail officers of the Navy as superintendents or instructors of institutions receiving benefits under section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c), when in his opinion it can be done without detriment to the naval service. Officers so detailed shall be recalled from an institution if it is discontinued or if the good of the naval service requires.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 374; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1303(a)(21), 99 Stat. 739.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 374; Pub. L. 99–145, title XIII, §1303(a)(21), Nov. 8, 1985, 99 Stat. 739.)
 
 Historical and Revision Notes
 

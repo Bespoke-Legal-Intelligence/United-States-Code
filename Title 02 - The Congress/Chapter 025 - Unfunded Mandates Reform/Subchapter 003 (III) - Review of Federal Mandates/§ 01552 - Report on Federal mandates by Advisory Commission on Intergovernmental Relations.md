@@ -16,7 +16,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;&emsp;(C) terminating Federal mandates which are duplicative, obsolete, or lacking in practical utility;
 
-&emsp;&emsp;(D) suspending, on a temporary basis, Federal mandates which are not vital to public health and safety and which compound the fiscal difficulties of State, local, and tribal governments, including recommendations for triggering such suspension;
+&emsp;&emsp;(D) suspending, on a temporary basis, Federal mandates which are not vital to public health and safety and which compound thefiscal difficulties of State, local, and tribal governments, including recommendations for triggering such suspension;
 
 &emsp;&emsp;(E) consolidating or simplifying Federal mandates, or the planning or reporting requirements of such mandates, in order to reduce duplication and facilitate compliance by State, local, and tribal governments with those mandates;
 
@@ -81,6 +81,10 @@ In carrying out this section, the Advisory Commission shall give the highest pri
 For purposes of this section the term “State mandate” means any provision in a State statute or regulation that imposes an enforceable duty on local governments, the private sector, or individuals, including a condition of State assistance or a duty arising from participation in a voluntary State program.
 
 (Pub. L. 104–4, title III, §302, Mar. 22, 1995, 109 Stat. 67.)
+
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 

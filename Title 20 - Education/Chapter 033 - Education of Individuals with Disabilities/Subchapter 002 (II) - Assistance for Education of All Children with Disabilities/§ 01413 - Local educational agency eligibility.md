@@ -94,7 +94,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (1) In general
 
-&emsp;If a local educational agency or State agency has on file with the State educational agency policies and procedures that demonstrate that such local educational agency, or such State agency, as the case may be, meets anyrequirement of subsection (a) of this section, including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the State educational agency shall consider such local educational agency or State agency, as the case may be, to have met such requirement for purposes of receiving assistance under this subchapter.
+&emsp;If a local educational agency or State agency has on file with the State educational agency policies and procedures that demonstrate that such local educational agency, or such State agency, as the case may be, meets any requirement of subsection (a) of this section, including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the State educational agency shall consider such local educational agency or State agency, as the case may be, to have met such requirement for purposes of receiving assistance under this subchapter.
 
 #### (2) Modification made by local educational agency
 
@@ -222,7 +222,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;&emsp;&emsp;(i) criteria that shall be used by such local educational agency in the selection of an eligible school under subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) criteria that shall be used by a public school selected under subparagraph (A) in the establishment of a school-based standing panel to carry out the duties describedin paragraph (3)(B) and that shall ensure that the membership of such panel reflects the diversity of the community in which the public school is located and includes, at a minimum—
+&emsp;&emsp;&emsp;(ii) criteria that shall be used by a public school selected under subparagraph (A) in the establishment of a school-based standing panel to carry out the duties described in paragraph (3)(B) and that shall ensure that the membership of such panel reflects the diversity of the community in which the public school is located and includes, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) parents of children with disabilities who attend such public school, including parents of children with disabilities from unserved and underserved populations, as appropriate;
 
@@ -252,7 +252,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (B) Plan approval
 
-&emsp;&emsp;A local educational agency may approve a school-based improvement plan of a public school within the jurisdiction of such agency for a period of 3 years, if—
+&emsp;&emsp;A local educational agency may approve a school-based improvement plan of a publicschool within the jurisdiction of such agency for a period of 3 years, if—
 
 &emsp;&emsp;&emsp;(i) the approval is consistent with the policies, procedures, and practices established by such local educational agency and in accordance with this subsection; and
 
@@ -306,11 +306,11 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(3
 
 #### Prior Provisions
 
-A prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2),Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1411, 1412, 1419, 1476 of this title; title 29 sections 725, 2212.
+This section is referred to in sections 1411, 1412, 1419, 8063 of this title; title 29 sections 725, 2212.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “educational”.</i>
 

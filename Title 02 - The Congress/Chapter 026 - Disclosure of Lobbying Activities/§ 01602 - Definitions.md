@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Client
 
-&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+&emsp;The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employeesact as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
 
 #### (3) Covered executive branch official
 
@@ -24,7 +24,7 @@ As used in this chapter:
 
 &emsp;&emsp;(E) any member of the uniformed services whose pay grade is at or above O–7 under section 201 of title 37; and
 
-&emsp;&emsp;(F) any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2) of title 5.
+&emsp;&emsp;(F) any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2)(B) of title 5.
 
 #### (4) Covered legislative branch official
 
@@ -98,7 +98,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
 
-&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency;
+&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelledby statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
 
 &emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
 
@@ -190,13 +190,13 @@ As used in this chapter:
 
 &emsp;&emsp;(E) a national or State political party or any organizational unit thereof; or
 
-&emsp;&emsp;(F) a national, regional, or local unit of any foreign government.
+&emsp;&emsp;(F) a national, regional, or local unit of any foreign government, or a group of governments acting together as an international organization.
 
 #### (16) State
 
 &emsp;The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 104–65, §3, Dec. 19, 1995, 109 Stat. 691.)
+(Pub. L. 104–65, §3, Dec. 19, 1995, 109 Stat. 691; Pub. L. 105–166, §§2, 3, Apr. 6, 1998, 112 Stat. 38.)
 
 #### References in Text
 
@@ -217,6 +217,14 @@ The Inspector General Act of 1978, referred to in par. (8)(B)(xvii), is Pub. L. 
 The Securities Exchange Act, referred to in par. (8)(B)(xix), probably means the Securities Exchange Act of 1934, act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+#### Amendments
+
+1998—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
+
+Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
+
+Par. (15)(F). Pub. L. 105–166, §3(b), inserted before period at end “, or a group of governments acting together as an international organization”.
 
 #### Section Referred to in Other Sections
 

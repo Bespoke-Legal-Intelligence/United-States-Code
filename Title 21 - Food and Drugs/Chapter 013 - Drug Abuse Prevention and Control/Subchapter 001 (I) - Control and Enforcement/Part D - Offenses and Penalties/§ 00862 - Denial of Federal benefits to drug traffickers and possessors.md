@@ -10,7 +10,7 @@
 
 &emsp;(C) upon a third or subsequent conviction for such an offense be permanently ineligible for all Federal benefits.
 
-(2) The benefits which are denied under this subsection shall not include benefits relating tolong-term drug treatment programs for addiction for any person who, if there is a reasonable body of evidence to substantiate such declaration, declares himself to be an addict and submits himself to a long-term treatment program for addiction, or is deemed to be rehabilitated pursuant to rules established by the Secretary of Health and Human Services.
+(2) The benefits which are denied under this subsection shall not include benefits relating to long-term drug treatment programs for addiction for any person who, if there is a reasonable body of evidence to substantiate such declaration, declares himself to be an addict and submits himself to a long-term treatment program for addiction, or is deemed to be rehabilitated pursuant to rules established by the Secretary of Health and Human Services.
 
 #### (b) Drug possessors
 

@@ -24,7 +24,7 @@
 
 &emsp;(ii) in the case of a violation of subparagraph (A)(ii), (iii), (iv), or (v)(II), be fined under title 18, imprisoned not more than 5 years, or both;
 
-&emsp;(iii) in the case of a violation of subparagraph (A)(i), (ii), (iii), (iv), or (v) during and in relation to which the person causes serious bodily injury (as defined in section 1365 of title 18) to, or places in jeopardy the life of, any person, be fined under title 18, imprisoned not more than 20 years, or both; and
+&emsp;(iii) in the case of a violation of subparagraph (A)(i), (ii), (iii), (iv), or (v) during and in relation to which the person causes serious bodily injury (as defined in section 1365 of title18) to, or places in jeopardy the life of, any person, be fined under title 18, imprisoned not more than 20 years, or both; and
 
 &emsp;(iv) in the case of a violation of subparagraph (A)(i), (ii), (iii), (iv), or (v) resulting in the death of any person, be punished by death or imprisoned for any term of years or for life, fined under title 18, or both.
 
@@ -74,7 +74,7 @@
 
 (5) In all suits or actions brought for the forfeiture of any conveyance seized under this section, where the conveyance is claimed by any person, the burden of proof shall lie upon such claimant, except that probable cause shall be first shown for the institution of such suit or action. In determining whether probable cause exists, any of the following shall be prima facie evidence that an alien involved in the alleged violation had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law:
 
-&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
+&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was anissue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
 &emsp;(B) Official records of the Service or of the Department of State showing that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
@@ -88,7 +88,7 @@ No officer or person shall have authority to make any arrests for a violation of
 
 Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (or otherwise audiovisually preserved) deposition of a witness to a violation of subsection (a) of this section who has been deported or otherwise expelled from the United States, or is otherwise unable to testify, may be admitted into evidence in an action brought for that violation if the witness was available for cross examination and the deposition otherwise complies with the Federal Rules of Evidence.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Nov. 2, 1978, Pub. L. 95–582, §2, 92 Stat. 2479; Dec. 29, 1981, Pub. L. 97–116, §12, 95 Stat. 1617; Nov. 6, 1986, Pub. L. 99–603, title I, §112, 100 Stat. 3381; Oct. 24, 1988, Pub. L. 100–525, §2(d), 102 Stat. 2610; Sept. 13, 1994, Pub. L. 103–322, title VI, §60024, 108 Stat. 1981; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 &emsp;“(4) willfully or knowingly encourages or induces, or attempts to encourage or induce, either directly or indirectly, the entry into the United States of—
 
-> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
+> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under theterms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
 
 Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and “seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
 

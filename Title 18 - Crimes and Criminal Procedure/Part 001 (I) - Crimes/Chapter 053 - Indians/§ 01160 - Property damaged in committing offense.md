@@ -4,7 +4,7 @@ Whenever a non-Indian, in the commission of an offense within the Indian country
 
 If such offender shall be unable to pay a sum at least equal to the just value or amount, whatever such payment shall fall short of the same shall be paid out of the Treasury of the United States. If such offender cannot be apprehended and brought to trial, the amount of such property shall be paid out of the Treasury. But no Indian shall be entitled to any payment out of the Treasury of the United States, for any such property, if he, or any of the nation to which he belongs, have sought private revenge, or have attempted to obtain satisfaction by any force or violence.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330004(9), 108 Stat. 2141.)
+(June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 103–322, title XXXIII, §330004(9), Sept. 13, 1994, 108 Stat. 2141.)
 
 #### Historical and Revision Notes
 

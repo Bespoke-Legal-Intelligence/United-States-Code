@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-Any person who sells or transfers for profit cigarettes in interstate commerce, whereby suchcigarettes are shipped into a State taxing the sale or use of cigarettes, to other than a distributor licensed by or located in such State, or who advertises or offers cigarettes for such a sale or transfer and shipment, shall—
+Any person who sells or transfers for profit cigarettes in interstate commerce, whereby such cigarettes are shipped into a State taxing the sale or use of cigarettes, to other than a distributor licensed by or located in such State, or who advertises or offers cigarettes for such a sale or transfer and shipment, shall—
 
 &emsp;(1) first file with the tobacco tax administrator of the State into which such shipment is made or in which such advertisement or offer is disseminated a statement setting forth his name and trade name (if any), and the address of his principal place of business and of any other place of business; and
 

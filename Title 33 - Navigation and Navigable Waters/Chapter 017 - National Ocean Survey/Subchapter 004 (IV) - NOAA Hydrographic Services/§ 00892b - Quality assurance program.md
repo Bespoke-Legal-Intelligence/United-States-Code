@@ -1,0 +1,58 @@
+### §892b. Quality assurance program
+
+#### (a) Definition
+
+For purposes of this section, the term “hydrographic product” means any publicly or commercially available product produced by a non-Federal entity that includes or displays hydrographic data.
+
+#### (b) Program
+
+#### (1) In general
+
+&emsp;The Administrator may—
+
+&emsp;&emsp;(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
+
+&emsp;&emsp;(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
+
+&emsp;&emsp;(C) charge a fee for such certification and use.
+
+#### (2) Limitation on fee amount
+
+&emsp;Any fee under paragraph (1)(C) shall not exceed the costs of conducting the quality assurance testing, evaluation, or studies necessary to determine whether the hydrographic product satisfies the standards adopted under section 892a(a)(3) of this title, including the cost of administering such a program.
+
+#### (c) Limitation on liability
+
+The Government of the United States shall not be liable for any negligence by a person that produces hydrographic products certified under this section.
+
+#### (d) Hydrographic Services Account
+
+#### (1) Establishment
+
+&emsp;There is established in the Treasury a separate account, which shall be known as the “Hydrographic Services Account”.
+
+#### (2) Content
+
+&emsp;The account shall consist of—
+
+&emsp;&emsp;(A) amounts received by the United States as fees charged under subsection (b)(1)(C) of this section; and
+
+&emsp;&emsp;(B) such other amounts as may be provided by law.
+
+#### (3) Use
+
+&emsp;Amounts in the account shall be available to the Administrator, without further appropriation, for hydrographic services.
+
+#### (e) Limitation on new fees and increases in existing fees for hydrographic services
+
+After November 13, 1998, the Administrator may not—
+
+&emsp;(1) establish any fee or other charge for the provision of any hydrographic service except as authorized by this section; or
+
+&emsp;(2) increase the amount of any fee or other charge for the provision of any hydrographic service except as authorized by this section and section 1307 of title 44.
+
+(Pub. L. 105–384, title III, §304, Nov. 13, 1998, 112 Stat. 3455.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 892d of this title.
+

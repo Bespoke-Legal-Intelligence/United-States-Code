@@ -10,7 +10,7 @@ Ex. Ord. No. 6084, Mar. 27, 1933, provided in part: . . . it is hereby ordered
 
 (3) The name of the office of Chairman of the Federal Farm Board is changed to Governor of the Farm Credit Administration, and he is vested with all the powers and duties of the Federal Farm Board.
 
-(4) The functions of the Secretary of the Treasury as a member of the Federal Farm Loan Board, and the offices of the appointed members of the Federal Farm Loan Board, except the office of the member designated as farm loan commissioner, are abolished, and all the powers and functions of the Federal Farm Loan Board, are transferred to and vested in the Farm Loan Commissioner, subject to the jurisdiction and control of the Farm Credit Administration as herein provided.
+(4) The functions of the Secretary of the Treasury as a member of the Federal Farm Loan Board, and the offices of the appointed members of the Federal Farm Loan Board, except the office of the member designated as farm loan commissioner, are abolished, and all the powers and functions of the Federal Farm Loan Board,are transferred to and vested in the Farm Loan Commissioner, subject to the jurisdiction and control of the Farm Credit Administration as herein provided.
 
 (5) There are transferred to the jurisdiction and control of the Farm Credit Administration:
 

@@ -34,9 +34,9 @@ A prior section 703 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, am
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of the Treasury by section 1 of Ex. Ord.No. 12757, Mar. 19, 1991, 56 F.R. 12107, set out as a note under section 1738 of Title 7, Agriculture.
+Functions of President under this section delegated to Secretary of the Treasury by section 1 of Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, set out as a note under section 1738 of Title 7, Agriculture.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2430a, 2430g of this title.
+This section is referred to in sections 2430a, 2430g, 2431c of this title.
 

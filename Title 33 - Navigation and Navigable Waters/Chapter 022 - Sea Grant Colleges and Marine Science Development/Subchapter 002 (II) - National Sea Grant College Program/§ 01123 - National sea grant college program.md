@@ -1,0 +1,140 @@
+### §1123. National sea grant college program
+
+#### (a) Program maintenance
+
+The Secretary shall maintain within the Administration a program to be known as the national sea grant college program. The national sea grant college program shall be administered by a national sea grant office within the Administration.
+
+#### (b) Program elements
+
+The national sea grant college program shall consist of the financial assistance and other activities authorized in this subchapter, and shall provide support for the following elements—
+
+&emsp;(1) sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;
+
+&emsp;(2) administration of the national sea grant college program and this subchapter by the national sea grant office, the Administration, and the panel;
+
+&emsp;(3) the fellowship program under section 1127 of this title; and
+
+&emsp;(4) any national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed with the approval of the panel, the sea grant colleges, and the sea grant institutes.
+
+#### (c) Responsibilities of Secretary
+
+(1) The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.
+
+(2) Within 6 months of March 6, 1998, the Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall establish guidelines related to the activities and responsibilities of sea grant colleges and sea grant institutes. Such guidelines shall include requirements for the conduct of merit review by the sea grant colleges and sea grant institutes of proposals for grants and contracts to be awarded under section 1124 of this title, providing, at a minimum, for standardized documentation of such proposals and peer review of all research projects.
+
+(3) The Secretary shall by regulation prescribe the qualifications required for designation of sea grant colleges and sea grant institutes under section 1126 of this title.
+
+(4) To carry out the provisions of this subchapter, the Secretary may—
+
+&emsp;(A) appoint, assign the duties, transfer, and fix the compensation of such personnel as may be necessary, in accordance with civil service laws;
+
+&emsp;(B) make appointments with respect to temporary and intermittent services to the extent authorized by section 3109 of title 5;
+
+&emsp;(C) publish or arrange for the publication of, and otherwise disseminate, in cooperation with other offices and programs in the Administration and without regard to section 501 of title 44, any information of research, educational, training or other value in fields related to ocean, coastal, or Great Lakes resources;
+
+&emsp;(D) enter into contracts, cooperative agreements, and other transactions without regard to section 5 of title 41;
+
+&emsp;(E) notwithstanding section 1342 of title 31, accept donations and voluntary and uncompensated services;
+
+&emsp;(F) accept funds from other Federal departments and agencies, including agencies within the Administration, to pay for and add to grants made and contracts entered into by the Secretary; and
+
+&emsp;(G) promulgate such rules and regulations as may be necessary and appropriate.
+
+#### (d) Director of National Sea Grant College Program
+
+(1) The Secretary shall appoint, as the Director of the National Sea Grant College Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to ocean, coastal, and Great Lakes resources. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5.
+
+(2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition to any other duty prescribed by law or assigned by the Secretary, the Director shall—
+
+&emsp;(A) facilitate and coordinate the development of a long-range strategic plan under subsection (c)(1) of this section;
+
+&emsp;(B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of such expertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
+
+&emsp;(C) advise the Secretary on the designation of sea grant colleges and sea grant institutes, and, if appropriate, on the termination or suspension of any such designation; and
+
+&emsp;(D) encourage the establishment and growth of sea grant programs, and cooperation and coordination with other Federal activities infields related to ocean, coastal, and Great Lakes resources.
+
+(3) With respect to sea grant colleges and sea grant institutes, the Director shall—
+
+&emsp;(A) evaluate the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary;
+
+&emsp;(B) subject to the availability of appropriations, allocate funding among sea grant colleges and sea grant institutes so as to—
+
+&emsp;&emsp;(i) promote healthy competition among sea grant colleges and institutes;
+
+&emsp;&emsp;(ii) encourage successful implementation of sea grant programs; and
+
+&emsp;&emsp;(iii) to the maximum extent consistent with other provisions of this subchapter, provide a stable base of funding for sea grant colleges and institutes; and
+
+&emsp;(C) ensure compliance with the guidelines for merit review under subsection (c)(2) of this section.
+
+(Pub. L. 89–454, title II, §204, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(2), Aug. 11, 1968, 82 Stat. 704; Pub. L. 93–73, §1(2)–(7), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1963; Pub. L. 95–428, §§2(b), 3(1), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(2), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, 101 Stat. 1470, 1471; Pub. L. 102–186, §§2, 4(b)(1)(A), Dec. 4, 1991, 105 Stat. 1282, 1283; Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22.)
+
+#### References in Text
+
+The civil service laws, referred to in subsec. (c)(4)(A), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+This subchapter, referred to in subsec. (d)(3)(B)(iii), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
+
+#### Amendments
+
+1998—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (d) relating to maintenance within the Administration of the National Sea Grant College Program, appointment and compensation of a Director of the program, duties of the Director, and powers of the Secretary to carry out the provisions of this subchapter.
+
+1991—Subsec. (a). Pub. L. 102–186, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall maintain, within the Administration, a program to be known as the national sea grant college program. The national sea grant college program shall consist of the financial assistance and other activities provided for in this subchapter. The Secretary shall establish long-range planning guidelines and priorities for, and adequately evaluate, this program.”
+
+Subsec. (c)(3). Pub. L. 102–186, §4(b)(1)(A), substituted “section 1124” for “sections 1124 and 1125”.
+
+Subsec. (c)(8). Pub. L. 102–186, §2(b), added par. (8).
+
+Subsec. (d)(6). Pub. L. 102–186, §2(c), inserted “and add” after “to pay for”.
+
+1987—Subsec. (b)(1)(A). Pub. L. 100–220, §3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources”.
+
+Subsec. (c). Pub. L. 100–220, §3104(c), substituted “Under Secretary” for “Administrator” wherever appearing in introductory provisions and par. (2).
+
+Subsec. (c)(5). Pub. L. 100–220, §3104(b)(2), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resource”.
+
+Subsec. (d)(3). Pub. L. 100–220, §3104(b)(1)(D), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
+
+Subsec. (d)(6). Pub. L. 100–220, §3105(b), struck out “under section 1124(a) of this title” after “Secretary”.
+
+1980—Subsec. (c)(5) to (7). Pub. L. 96–289 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+1978—Subsecs. (a) to (c). Pub. L. 95–428, §2(b), substituted “national sea grant college program” for “national sea grant program” wherever appearing.
+
+Subsec. (d)(6), (7). Pub. L. 95–428, §3(1)(B), (C), added par. (6) and redesignated former par. (6) as (7).
+
+1976—Pub. L. 94–461 substituted provisions covering the establishment and administration of the national sea grant program for provisions covering the marine resource development programs.
+
+1973—Subsec. (a). Pub. L. 93–73, §1(2), (5), deleted item (1) designation for provision respecting consultation with experts and Federal agencies, deleted item (2) provision for seeking advice and counsel from the National Council on Marine Resources and Engineering Development, and substituted “Secretary” for “Foundation”.
+
+Subsec. (b). Pub. L. 93–73, §1(5), substituted “Secretary” for “Foundation” and “his authority” for “its authority”.
+
+Subsec. (d)(1). Pub. L. 93–73, §1(3), (5), authorized Federal contributions exceeding percentage limitation to programs limited to one percent of appropriations for the fiscal year when reducing or eliminating matching payments by a participant when Secretary determines it would be inequitable relevant to the benefits derived by the participant from the program to require the participant to make a one-third payment of the cost, and substituted “Secretary” for “Foundation” in last sentence.
+
+Subsec. (d)(2). Pub. L. 93–73, §1(4), (5), made prohibitions of paragraph inapplicable to non-self-propelled habitats, buoys, platforms, or other similar devices or structures, used principally for research purposes and substituted “Secretary” for “foundation”.
+
+Subsecs. (d)(3), (e). Pub. L. 93–73, §1(5), substituted “Secretary” for “Foundation”.
+
+Subsec. (f). Pub. L. 93–73, §1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
+
+Subsec. (g). Pub. L. 93–73, §1(6), substituted provisions for exercise of powers and authority under this subchapter by the Secretary rather than the Foundation under the powers and authority of the National Science Foundation Act of 1950, as amended.
+
+Subsec. (h). Pub. L. 93–73, §1(5), substituted “Secretary” for “Foundation” and “his functions” for “its functions”.
+
+Subsec. (i)(3). Pub. L. 93–73, §1(7), inserted “and which is so designated by the Secretary” after “marine resources”.
+
+Subsec. (i)(4)(A) to (C). Pub. L. 93–73, §1(5), substituted “Secretary” for “Foundation”.
+
+1968—Subsec. (d)(1). Pub. L. 90–477 struck out “in any fiscal year” after “The total amount of payments” and “by any participants”.
+
+#### Notice of Reorganization
+
+Pub. L. 105–160, §9(d), Mar. 6, 1998, 112 Stat. 27, provided that: “The Secretary of Commerce shall provide notice to the Committees on Science, Resources, and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 45 days before any major reorganization of any program,project, or activity of the National Sea Grant College Program.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1122, 1124, 1126, 1128, 1131 of this title.
+

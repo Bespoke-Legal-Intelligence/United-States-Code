@@ -54,7 +54,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(A) the Secretary determines that the portions of the program under the authority of the Secretary meet the requirements of this section and the Administrator concurs with that determination; and
 
-&emsp;&emsp;(B) the Administrator determines that the portions of the program under the authorityof the Administrator meet the requirements of this section and the Secretary concurs with that determination.
+&emsp;&emsp;(B) the Administrator determines that the portions of the program under the authority of the Administrator meet the requirements of this section and the Secretary concurs with that determination.
 
 #### (2) Implementation of approved program
 

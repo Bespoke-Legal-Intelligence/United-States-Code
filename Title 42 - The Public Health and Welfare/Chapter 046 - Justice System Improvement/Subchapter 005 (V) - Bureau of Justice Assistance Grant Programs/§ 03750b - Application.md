@@ -10,7 +10,7 @@ The application submitted under subsection (a) of this section shall include the
 
 &emsp;(1) A statement that the applicant Anti Car Theft Committee is either a State agency or an agency of a unit of local government.
 
-&emsp;(2) A statement that the applicant Anti Car Theft Committee is or will be financed in part\(A) by a fee on motor vehicles registered by the State or possessed or insured within the State (and that such fee is not less than $1 per vehicle), or (B) in the same manner and to the same extent as is a similar program financed and implemented in a State like Michigan.
+&emsp;(2) A statement that the applicant Anti Car Theft Committee is or will be financed in part (A) by a fee on motor vehicles registered by the State or possessed or insured within the State (and that such fee is not less than $1 per vehicle), or (B) in the same manner and to the same extent as is a similar program financed and implemented in a State like Michigan.
 
 &emsp;(3) An assurance that Federal funds received under a grant under sections 3750a to 3750d of this title shall be used to supplement and not supplant non-Federal funds that would otherwise be available for activities funded under such grant.
 

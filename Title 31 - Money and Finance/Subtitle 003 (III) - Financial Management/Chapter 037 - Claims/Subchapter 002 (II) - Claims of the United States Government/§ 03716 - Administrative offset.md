@@ -2,7 +2,7 @@
 
 (a) After trying to collect a claim from a person under section 3711(a) of this title, the head of an executive, judicial, or legislative agency may collect the claim by administrative offset. The head of the agency may collect by administrative offset only after giving the debtor—
 
-&emsp;(1) written notice of the type and amount of the claim, the intention of the head of theagency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
+&emsp;(1) written notice of the type and amount of the claim, the intention of the head of the agency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
 
 &emsp;(2) an opportunity to inspect and copy the records of the agency related to the claim;
 
@@ -54,7 +54,7 @@
 
 (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, includingnontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
 (7)(A) The disbursing official conducting an administrative offset with respect to a payment to a payee shall notify the payee in writing of—
 
@@ -140,7 +140,7 @@ In subsection (c)(2), the word “either” is omitted as surplus.
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219,as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1) and 1631(c)(1) of the Act are classified to sections 405(b)(1) and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -242,5 +242,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3322, 3325, 3701, 3712, 3807 of this title; title 5 section 5514; title 28 section 2415; title 30 section 1724; title 38 section 5301; title 42 section 404.
+This section is referred to in sections 3322, 3325, 3701, 3712, 3807 of this title; title 5 section 5514; title 10 section 2739; title 28 section 2415; title 30 section 1724; title 38 section 5301; title 42 section 404.
 

@@ -28,7 +28,7 @@ Effective 30 months after November 15, 1990, no container in which a class I or 
 
 (1) Any person may, at any time after 18 months after November 15, 1990, petition the Administrator to apply the requirements of this section to a product containing a class II substance or a product manufactured with a class I or II substance which is not otherwise subject to such requirements. Within 180 days after receiving such petition, the Administrator shall, pursuant to the criteria set forth in subsection (c) of this section, either propose to apply the requirements of this section to such product or publish an explanation of the petition denial. If the Administrator proposes to apply such requirements to such product, the Administrator shall, by rule, render a final determination pursuant to such criteria within 1 year after receiving such petition.
 
-(2) Any petition under this paragaph <sup>2</sup> shall include a showing by the petitioner that there are data on the product adequate to support the petition.
+(2) Any petition under this paragaph <sup>2</sup> shall include a showing by the petitioner that there aredata on the product adequate to support the petition.
 
 (3) If the Administrator determines that information on the product is not sufficient to make the required determination the Administrator shall use any authority available to the Administrator under any law administered by the Administrator to acquire such information.
 
@@ -42,7 +42,7 @@ Effective 30 months after November 15, 1990, no container in which a class I or 
 
 (2) No other approval of such label by the Administrator under any other law administered by the Administrator shall be required with respect to the labeling requirements of this section.
 
-(July 14, 1955, ch. 360, title VI, §611, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2665.)
+(July 14, 1955, ch. 360, title VI, §611, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2665.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

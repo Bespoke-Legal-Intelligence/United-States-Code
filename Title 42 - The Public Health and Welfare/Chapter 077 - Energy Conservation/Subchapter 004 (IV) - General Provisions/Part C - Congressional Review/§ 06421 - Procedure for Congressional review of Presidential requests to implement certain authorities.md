@@ -62,7 +62,7 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 (B) Appeals from the decision of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 
-(7) Notwithstanding any of the provisions of this subsection, if a House has approved a resolution with respect to an energy action, then it shall not be in order to consider in that House any other resolution with respect to the same such action.
+(7) Notwithstanding any of the provisions of this subsection, if a House has approved a resolution with respect to an energy action, then itshall not be in order to consider in that House any other resolution with respect to the same such action.
 
 (Pub. L. 94–163, title V, §551, Dec. 22, 1975, 89 Stat. 965.)
 

@@ -8,11 +8,12 @@
 | 851a to 852b. Repealed or Omitted. |  |
 | [853\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853%20-%20Power%20to%20settle%20claims.md) | Power to settle claims. |
 | [853a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853a%20-%20Authorized%20numbers%20in%20permanent%20rank.md) | Authorized numbers in permanent rank. |
-| (a) | Relative rank; proportion. |
-| (b) | Computation of number in grade. |
-| (c) | Reduction of grade or pay; separation. |
-| (d) | Filling of vacancies; additional numbers. |
-| (e) | Temporary increase in numbers. |
+| (a) | Fiscal year authorizations; reductions. |
+| (b) | Relative rank; proportion. |
+| (c) | Computation of number in grade. |
+| (d) | Reduction of grade or pay; separation. |
+| (e) | Filling of vacancies; additional numbers. |
+| (f) | Temporary increase in numbers. |
 | [853b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853b%20-%20Promotion%20by%20selection%20to%20grades%20above%20lieutenant%20%28junior%20grade%29.md) | Promotion by selection to grades above lieutenant (junior grade). |
 | [853c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853c%20-%20Consideration%20of%20all%20eligible%20officers%20for%20promotion%20purposes%3B%20date%20of%20promotion%3B%20separation%20from%20service.md) | Consideration of all eligible officers for promotion purposes; date of promotion; separation from service. |
 | [853d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853d%20-%20Promotions%20to%20permanent%20grades%20of%20commander%20and%20captain%3B%20time.md) | Promotions to permanent grades of commander and captain; time. |
@@ -165,6 +166,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—NOAA HYDROGRAPHIC SERVICES
+
+|  |  |
+| :--- | ---: |
+| [892\.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892%20-%20Definitions.md) | Definitions. |
+| [892a.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892a%20-%20Functions%20of%20the%20Administrator.md) | Functions of the Administrator. |
+| (a) | Responsibilities. |
+| (b) | Authorities. |
+| [892b.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892b%20-%20Quality%20assurance%20program.md) | Quality assurance program. |
+| (a) | Definition. |
+| (b) | Program. |
+| (c) | Limitation on liability. |
+| (d) | Hydrographic Services Account. |
+| (e) | Limitation on new fees and increases in existing fees for hydrographic services. |
+| [892c.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892c%20-%20Reports.md) | Reports. |
+| (a) | Repealed. |
+| (b) | Maintaining Federal expertise in hydrographic services. |
+| [892d.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -173,3 +195,4 @@
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Surveys](Subchapter%20002%20%28II%29%20-%20Surveys/README.md)
 - [Subchapter 003 (III) - NOAA Fleet Modernization](Subchapter%20003%20%28III%29%20-%20NOAA%20Fleet%20Modernization/README.md)
+- [Subchapter 004 (IV) - NOAA Hydrographic Services](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/README.md)

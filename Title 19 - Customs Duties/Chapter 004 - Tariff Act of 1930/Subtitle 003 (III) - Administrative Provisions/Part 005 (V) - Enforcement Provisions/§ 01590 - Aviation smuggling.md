@@ -6,7 +6,7 @@ It is unlawful for the pilot of any aircraft to transport, or for any individual
 
 #### (b) Sea transfers
 
-It is unlawful for any person to transfer merchandise between an aircraft and a vessel on the high seas or in the customs waters of the United States if such person has not been authorized by the Secretary to make such transfer and—
+It is unlawful for any person to transfer merchandise between an aircraft and a vessel on the high seas or in the customs waters of the UnitedStates if such person has not been authorized by the Secretary to make such transfer and—
 
 &emsp;(1) either—
 
@@ -64,7 +64,7 @@ For purposes of imposing civil penalties under this section, any of the followin
 
 &emsp;(8) The failure of a vessel to stop when hailed by a customs officer or other government authority.
 
-(June 17, 1930, ch. 497, title IV, §590, as added Oct. 27, 1986, Pub. L. 99–570, title III, §3120, 100 Stat. 3207–84.)
+(June 17, 1930, ch. 497, title IV, §590, as added Pub. L. 99–570, title III, §3120, Oct. 27, 1986, 100 Stat. 3207–84.)
 
 #### References in Text
 

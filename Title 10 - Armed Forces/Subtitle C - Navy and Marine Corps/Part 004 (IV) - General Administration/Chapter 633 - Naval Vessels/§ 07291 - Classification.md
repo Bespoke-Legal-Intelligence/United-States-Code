@@ -18,6 +18,10 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31 Stat. 1133.
 
+#### Vessel Scrapping Pilot Program
+
+Pub. L. 105–262, title VIII, §8124, Oct. 17, 1998, 112 Stat. 2333, provided that: “The Secretary of the Navy may carry out a competitively awarded vessel scrapping pilot program during fiscal years 1999 and 2000 using funds made available in this Act under the heading ‘Operation and Maintenance, Navy’ \[112 Stat. 2282\]: <i>Provided</i>, That the Secretary of the Navy shall define the program scope sufficient to gather data on the cost of scrapping Government vessels and to demonstrate cost-effective technologies and techniques to scrap such vessels in a manner that is protective of worker safety and health and the environment.”
+
 #### Consideration of Vessel Location for Award of Layberth Contracts for Sealift Vessels
 
 Pub. L. 102–484, div. A, title III, §375, Oct. 23, 1992, 106 Stat. 2385, provided that:
@@ -62,7 +66,7 @@ Report on Ship Dumping Practices.—The Secretary of Transportation shall prepar
 
 Report on Defense Contracts.—The Secretary of Defense shall prepare a report on—
 
-&emsp;“(1) the amount of Department of Defense contracts that were awarded to companies physically located orheadquartered in the countries identified in the Secretary of Transportation's report under subsection (d) for the most recent year for which data is available; and
+&emsp;“(1) the amount of Department of Defense contracts that were awarded to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d) for the most recent year for which data is available; and
 
 &emsp;“(2) the effect on defense programs of a prohibition of awarding contracts to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d).
 
@@ -122,7 +126,7 @@ Definitions.—For purposes of subsection (c):
 
 &emsp;&emsp;“(G) Any indirect support directly related, in law or in fact, to shipbuilding and repair at national yards, including any public assistance favoring shipowners with an indirect effect on shipbuilding or repair activities, and any assistance provided to suppliers of significant inputs to shipbuilding, which results in benefits to domestic shipbuilders.
 
-&emsp;&emsp;“(H) Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade or any other export subsidy that may be prohibited as a result of the Uruguay Round of trade negotiations.
+&emsp;&emsp;“(H) Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade or any other export subsidythat may be prohibited as a result of the Uruguay Round of trade negotiations.
 
 &emsp;“(3) The term ‘vessel’ means any self-propelled, sea-going vessel—
 
@@ -218,7 +222,7 @@ Applicability.—Subsection (a) shall apply only with respect to appropriations 
 
 #### Depot-Level Maintenance of Ships
 
-Pub. L. 101–189, div. A, title XVI, §1614(a), (b), Nov. 29, 1989, 103 Stat. 1601, directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States. Similar provisions were contained in Pub. L. 100–456, div. A, title XII, §1226, Sept. 29, 1988, 102 Stat. 2055, which was repealed by Pub. L. 101–189, div. A, title XVI, §1614(c), Nov. 29, 1989, 103 Stat. 1601.
+Pub. L. 101–189, div. A, title XVI, §1614(a), (b), Nov. 29, 1989, 103 Stat. 1601, directed Secretary of the Navy to require that, to the extent feasible and consistent with policies of the Navy regarding family separations, not less than one-half of the depot-level maintenance work for naval vessels that was scheduled as of Oct. 1, 1989, to be carried out in Japan during fiscal years 1990, 1991, and 1992, was to be carried out in shipyards in the United States. Similar provisions were contained inPub. L. 100–456, div. A, title XII, §1226, Sept. 29, 1988, 102 Stat. 2055, which was repealed by Pub. L. 101–189, div. A, title XVI, §1614(c), Nov. 29, 1989, 103 Stat. 1601.
 
 #### Reports on Effects of Naval Shipbuilding Plans on Maritime Industries
 

@@ -64,7 +64,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 &emsp;(5) An alien who is described in section 1231(b)(3)(B)(i) of this title.
 
-&emsp;(6) An alien whose removal has previously been cancelled under this section or whose deportation was suspended under section 1254(a)of this title or who has been granted relief under section 1182(c) of this title, as such sections were in effect before September 30, 1996.
+&emsp;(6) An alien whose removal has previously been cancelled under this section or whose deportation was suspended under section 1254(a) of this title or who has been granted relief under section 1182(c) of this title, as such sections were in effect before September 30, 1996.
 
 #### (d) Special rules relating to continuous residence or physical presence
 
@@ -100,9 +100,9 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 &emsp;&emsp;(A) Aliens described in section 309(c)(5)(C)(i) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (as amended by the Nicaraguan Adjustment and Central American Relief Act).
 
-&emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
+&emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension ofdeportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §304(a)(3), 110 Stat. 3009–594; amended Nov. 19, 1997, Pub. L. 105–100, title II, §204(a)–(c), 111 Stat. 2200, 2201.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201.)
 
 #### References in Text
 

@@ -12,7 +12,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 &emsp;(A) For activities on federally owned land, the Volunteers in the Parks Act of 1969 \[16 U.S.C. 18g et seq.\] and the Volunteers in the Forest Act of 1972 (16 U.S.C. 558a–558d).
 
-&emsp;(B) For activities on all other lands, section 6 of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8\] (relating to the development of statewide comprehensive outdoor recreation plans).
+&emsp;(B) For activities on all other lands, section 6 of the Land and Water Conservation FundAct of 1965 \[16 U.S.C. 460<i>l</i>–8\] (relating to the development of statewide comprehensive outdoor recreation plans).
 
 (3) For purposes of this subsection, the appropriate Secretary or the head of any Federal agency may utilize and make available Federal facilities, equipment, tools and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal agency deems necessary or desirable.
 

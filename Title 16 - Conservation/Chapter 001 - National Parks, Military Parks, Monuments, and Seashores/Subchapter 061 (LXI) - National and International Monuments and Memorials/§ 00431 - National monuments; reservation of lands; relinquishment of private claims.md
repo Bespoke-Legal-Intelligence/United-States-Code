@@ -32,7 +32,7 @@ Aztec Ruins National Monument, New Mexico.—Proc. No. 1650, Jan. 24, 1923, 42 S
 
 Badlands National Monument, South Dakota \[Monument redesignated Badlands National Park, see section 441e–1 of this title\].—Proc. No. 2320, Jan. 25, 1939, 53 Stat. 2521.
 
-Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Stat. 1764; Proc. No. 3388, Jan. 9, 1961, 75 Stat. 1014; Proc. No. 3539, May 27, 1963, 77 Stat. 1006; Pub. L. 105–85, div. C, title XXXI, §3164, Nov. 18, 1997, 111 Stat. 2050.
+Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Stat. 1764; Proc. No. 1991, Feb. 25, 1932, 47 Stat. 2503; Proc. No. 3388, Jan. 9, 1961, 75 Stat. 1014; Proc. No. 3539, May 27, 1963, 77 Stat. 1006; Pub. L. 94–578, title III, §309, Oct. 21, 1976, 90 Stat. 2736; Pub. L. 105–85, div. C, title XXXI, §3164, Nov. 18, 1997, 111 Stat. 2050; Pub. L. 105–376, Nov. 12, 1998, 112 Stat. 3388.
 
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
 
@@ -136,9 +136,11 @@ Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay Nation
 
 c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
 
+Gran Quivira National Monument, New Mexico \[Monument abolished and funds made available to Salinas National Monument by Pub. L. 96–550, title VI, §601(b), Dec. 19, 1980, 94 Stat. 3231. Salinas National Monument redesignated Salinas Pueblo Missions National Monument by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797\].—Proc. No. 882, Nov. 1, 1909, 36 Stat. 2503; Proc. No. 1545, Nov. 25, 1919, 41 Stat. 1778.
+
 Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908, 35 Stat. 2175; Proc. No. 2022, Dec. 22, 1932, 47 Stat. 2547; Proc. No. 2393, Apr. 4, 1940, 54 Stat. 2692.
 
-Gran Quivira National Monument, New Mexico \[Monument abolished and funds made available to Salinas National Monument by Pub. L. 96–550, title VI, §601(b), Dec. 19, 1980, 94 Stat. 3231. Salinas National Monument redesignated Salinas Pueblo Missions National Monument by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797\].—Proc. No. 882, Nov. 1, 1909, 36 Stat. 2503; Proc. No. 1545, Nov. 25, 1919, 41 Stat. 1778.
+Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252.
 
 Great Sand Dunes National Monument, Colorado.—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
 
@@ -304,13 +306,13 @@ Kill Devil National Monument, North Carolina.—Act Mar. 2, 1927, ch. 251, 44 St
 
 Little Bighorn Battlefield National Monument, Montana.—Pub. L. 102–201, titles I, II, Dec. 10, 1991, 105 Stat. 1631.
 
-Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301.
+Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301; Pub. L. 105–279, Oct. 23, 1998, 112 Stat. 2690.
 
 Newberry National Volcanic Monument, Oregon.—Pub. L. 101–522, Nov. 5, 1990, 104 Stat. 2288.
 
 Pecos National Monument, New Mexico \[included in Pecos National Historical Park by Pub. L. 101–313, title II, §202(b), June 27, 1990, 104 Stat. 278 (16 U.S.C. 410rr–1(b))\].—Pub. L. 89–54, June 28, 1965, 79 Stat. 195; repealed by Pub. L. 101–313, title II, §202(c), June 27, 1990, 104 Stat. 278 (16 U.S.C. 410rr–1(c)).
 
-Petroglyph National Monument, New Mexico.—Pub. L. 101–313, title I, June 27, 1990, 104 Stat. 272, as amended by Pub. L. 103–50, ch. IV, §401, July 2, 1993, 107 Stat. 252; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(D), Nov. 12, 1996, 110 Stat. 4196.
+Petroglyph National Monument, New Mexico.—Pub. L. 101–313, title I, June 27, 1990, 104 Stat. 272, as amended by Pub. L. 103–50, ch. IV, §401, July 2, 1993, 107 Stat. 252; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(D), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–174, title III, §3005, May 1, 1998, 112 Stat. 82.
 
 Poverty Point National Monument, Louisiana.—Pub. L. 100–560, Oct. 31, 1988, 102 Stat. 2803.
 

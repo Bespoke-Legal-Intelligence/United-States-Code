@@ -14,7 +14,7 @@
 
 (c) In no event shall the Secretary permit the award of any contract which would result in any person obtaining control, directly or indirectly, over more than 20 percent of the estimated annual United States share of petroleum produced from Naval Petroleum Reserve Numbered 1.
 
-(d) Each proposal for sale under this title shall provide that the terms of every sale of the United States share of petroleum from the naval petroleum reserves shall be so structured as to give full and equal opportunity for the acquisition of petroleum by all interested persons, including major and independent oil producers and refiners alike. When the Secretary, in consultation with the Secretary of the Interior, determines that the public interests will be served by the sale of petroleum to small refiners not having their own adequate sources of supply of petroleum, the Secretary is authorized and directed to set aside a portion of the United States share of petroleum produced for sale to such refiners under the provisions of this section for processing or use in such refineries, except that—
+(d) Each proposal for sale under this title shall provide that the terms of every sale of theUnited States share of petroleum from the naval petroleum reserves shall be so structured as to give full and equal opportunity for the acquisition of petroleum by all interested persons, including major and independent oil producers and refiners alike. When the Secretary, in consultation with the Secretary of the Interior, determines that the public interests will be served by the sale of petroleum to small refiners not having their own adequate sources of supply of petroleum, the Secretary is authorized and directed to set aside a portion of the United States share of petroleum produced for sale to such refiners under the provisions of this section for processing or use in such refineries, except that—
 
 &emsp;(1) none of the production sold to small refiners may be resold in kind;
 
@@ -30,7 +30,7 @@
 
 (g)(1) Prior to the promulgation of any rules and regulations, plans of development and amendments thereto, and in the entering and making of contracts and operating agreements relating to the development, production, or sale of petroleum in or from the reserves, the Secretary shall consult with and give due consideration to the views of the Attorney General of the United States with respect to matters which may affect competition.
 
-(2) No contract or operating agreement may be made, issued, or executed under this chapteruntil at least 15 days after the Secretary notifies the Attorney General of the proposed contract or operating agreement. Such notification shall contain such information as the Attorney General may require in order to advise the Secretary as to whether such contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws. If, within such 15-day period, the Attorney General advises the Secretary that a contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws, then the Secretary may not make, issue, or execute that contract or operating agreement.
+(2) No contract or operating agreement may be made, issued, or executed under this chapter until at least 15 days after the Secretary notifies the Attorney General of the proposed contract or operating agreement. Such notification shall contain such information as the Attorney General may require in order to advise the Secretary as to whether such contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws. If, within such 15-day period, the Attorney General advises the Secretary that a contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws, then the Secretary may not make, issue, or execute that contract or operating agreement.
 
 (h) Nothing in this chapter shall be deemed to confer on any person immunity from civil or criminal liability, or to create defenses to actions, under the antitrust laws.
 
@@ -52,7 +52,7 @@
 
 &emsp;(A) place that petroleum in the Strategic Petroleum Reserve as authorized by sections 151 through 166 of the Energy Policy and Conservation Act (42 U.S.C. 6231–6246); or
 
-&emsp;(B) exchange, directly or indirectly, that petroleum for other petroleum to be placed in the Strategic Petroleum Reserve under such terms and conditions and by such methods as the Secretary determines to be appropriate, without regard to otherwise applicable Federal procurement statutes and regulations.
+&emsp;(B) exchange, directly or indirectly, that petroleum for other petroleum to be placed inthe Strategic Petroleum Reserve under such terms and conditions and by such methods as the Secretary determines to be appropriate, without regard to otherwise applicable Federal procurement statutes and regulations.
 
 (2) The requirements of section 159 of the Energy Policy and Conservation Act (42 U.S.C. 6239) do not apply to actions taken under this subsection.
 
@@ -64,7 +64,7 @@
 
 (4) Paragraph (1) does not apply to any petroleum set aside for small refiners under subsection (d) or placed in the Strategic Petroleum Reserve under subsection (k).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Aug. 24, 1962, Pub. L. 87–599, §2, 76 Stat. 401; Oct. 11, 1962, Pub. L. 87–796, §1(6), 76 Stat. 905; Apr. 5, 1976, Pub. L. 94–258, title II, §201(11), 90 Stat. 309; June 30, 1980, Pub. L. 96–294, title VIII, §804, 94 Stat. 777; Dec. 12, 1980, Pub. L. 96–513, title V, §513(34), 94 Stat. 2934; July 10, 1981, Pub. L. 97–22, §11(a)(10), 95 Stat. 138; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(53), 98 Stat. 2625; Aug. 29, 1986, Pub. L. 99–413, §1(b), (c), 100 Stat. 944, 945; Apr. 21, 1987, Pub. L. 100–26, §7(k)(9), 101 Stat. 284; Dec. 22, 1987, Pub. L. 100–202, §101(g) \[title II, §201\], 101 Stat. 1329–213, 1329–242; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1233(e)(2), 102 Stat. 2057.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–599, §2, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(6), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(11), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–294, title VIII, §804, June 30, 1980, 94 Stat. 777; Pub. L. 96–513, title V, §513(34), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–22, §11(a)(10), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, §1405(53), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(b), (c), Aug. 29, 1986, 100 Stat. 944, 945; Pub. L. 100–26, §7(k)(9), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 100–456, div. A, title XII, §1233(e)(2), Sept. 29, 1988, 102 Stat. 2057.)
 
 Historical and Revision Notes
 
@@ -88,7 +88,7 @@ June 4, 1920, ch. 228 (3d par., 2d sentence, of amended 3d and 4th provisos), 41
 
 In subsection (a) the words “subject to the applicable limitations and restrictions of this Act” are omitted as surplusage and the words “in administering” are inserted.
 
-In subsection (b) the words “under this section” are substituted for the words “from the naval reserves” tomake it clear that the requirements of this subsection apply to sales of petroleum, gas, and other hydrocarbons from lands outside petroleum reserve numbered 1 covered by joint, unit, or other cooperative plans as well as the sale of those products from the naval reserves proper. Subsection (a) is the only authority for the sale of petroleum, gas, and other hydrocarbons from the naval petroleum reserves.
+In subsection (b) the words “under this section” are substituted for the words “from the naval reserves” to make it clear that the requirements of this subsection apply to sales of petroleum, gas, and other hydrocarbons from lands outside petroleum reserve numbered 1 covered by joint, unit, or other cooperative plans as well as the sale of those products from the naval reserves proper. Subsection (a) is the only authority for the sale of petroleum, gas, and other hydrocarbons from the naval petroleum reserves.
 
 #### References in Text
 
@@ -160,15 +160,17 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Delegation of Functions
 
-Functions vested in President by subsec. (k) of this section delegated to Secretary of Energy by section1–102 of Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, set out as a note under section 6240 of Title 42, The Public Health and Welfare.
+Functions vested in President by subsec. (k) of this section delegated to Secretary of Energy by section 1–102 of Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, set out as a note under section 6240 of Title 42, The Public Health and Welfare.
 
 #### Minimum Selling Price of United States Share of Petroleum
 
-Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1580, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 1998.”
-
-Pub. L. 105–85, div. C, title XXXIV, §3402, Nov. 18, 1997, 111 Stat. 2059, provided that: “Notwithstanding section 7430(b)(2) of title 10, United States Code, during fiscal year 1998, any sale of any part of the United States share of petroleum produced from Naval Petroleum Reserves Numbered 1, 2, and 3 shall be made at a price not less than 90 percent of the current sales price, as estimated by the Secretary of Energy, of comparable petroleum in the same area.”
+Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–276, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 1999”.
 
 Similar provisions were contained in the following appropriation and authorization acts:
+
+Pub. L. 105–85, div. C, title XXXIV, §3402, Nov. 18, 1997, 111 Stat. 2059.
+
+Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1580.
 
 Pub. L. 104–208, div. A, title I, §101(d) \[title II\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–210.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 12681 of this title; title 20 section 1087vv.
+This subchapter is referred to in section 12681 of this title; title 20 sections 1078, 1087vv.
 
 
 ---

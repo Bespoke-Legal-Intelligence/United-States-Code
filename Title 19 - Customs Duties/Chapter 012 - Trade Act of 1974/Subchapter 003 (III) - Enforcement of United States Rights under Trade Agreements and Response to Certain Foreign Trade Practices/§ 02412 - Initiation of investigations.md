@@ -20,7 +20,7 @@
 
 (B) The Trade Representative shall, before making any determination under subparagraph (A), consult with appropriate committees established pursuant to section 2155 of this title.
 
-(2)(A) By no later than the date that is 30 days after the date on which a country is identified under section 2242(a)(2) of this title, the Trade Representative shall initiate an investigation under this subchapter with respect to any act, policy, or practice of that country that—
+(2)(A) By no later than the date that is 30 days after the date on which a country is identified under section 2242(a)(2) of this title, the TradeRepresentative shall initiate an investigation under this subchapter with respect to any act, policy, or practice of that country that—
 
 &emsp;(i) was the basis for such identification, and
 

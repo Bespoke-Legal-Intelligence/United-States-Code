@@ -12,7 +12,7 @@ The Secretary is authorized to make loans to private nonprofit corporations and 
 
 > There is authorized to be appropriated not to exceed $50,000,000, which shall constitute a revolving fund to be used by the Secretary in carrying out this subsection.
 
-#### (b) Insurance of loans; authorization; terms and conditions; utilization of Agricultural Credit Insurance Fund; expiration date
+#### (b) Insurance of loans; authorization; terms and conditions; utilization of Agricultural Credit Insurance Fund
 
 The Secretary is authorized to insure and make commitments to insure loans made to any individual, corporation, association, trust, Indian tribe, or partnership to provide rental or cooperative housing and related facilities for elderly or handicapped persons or families or other persons and families of moderate income in rural areas, in accordance with terms and conditions substantially identical with those specified in section 1472 of this title; except that—
 
@@ -22,13 +22,11 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principal amounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
 
-&emsp;(4) no loan shall be insured under this subsection after September 30, 1998;
+&emsp;(4) such a loan, when made to a consumer cooperative for cooperative housing purposes,may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary;
 
-&emsp;(5) such a loan, when made to a consumer cooperative for cooperative housing purposes, may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary;
+&emsp;(5) loans may be made to owners who are otherwise eligible under this section to purchase and convert single-family residences to rental units of two or more dwellings; and
 
-&emsp;(6) loans may be made to owners who are otherwise eligible under this section to purchase and convert single-family residences to rental units of two or more dwellings; and
-
-&emsp;(7) the Secretary may make a new loan to the current borrower to finance the final payment of the original loan for an additional period not to exceed twenty years, if—
+&emsp;(6) the Secretary may make a new loan to the current borrower to finance the final payment of the original loan for an additional period not to exceed twenty years, if—
 
 &emsp;&emsp;(A) the Secretary determines—
 
@@ -74,7 +72,7 @@ Amounts made available pursuant to section 1483 of this title shall be available
 
 #### (g) Loans for financing transfers of memberships in cooperatives
 
-Notwithstanding the provisions of subsections (a) and (b) of this section, the Secretary may make and insure loans to consumer cooperatives to enable such cooperatives to finance the transfers of memberships in the cooperatives upon such terms and conditions as low- and moderate-income persons can reasonably afford, except that such loans shall not be made upon terms more favorable than are authorized under section 1490a(a) of this title, and that the total loan to a cooperative under this section shall not exceed the value of the property.
+Notwithstanding the provisions of subsections (a) and (b) of this section, the Secretary may make and insure loans to consumer cooperatives to enable such cooperatives to finance the transfers of memberships in the cooperatives upon such terms and conditions as low- and moderate-income persons can reasonably afford, exceptthat such loans shall not be made upon terms more favorable than are authorized under section 1490a(a) of this title, and that the total loan to a cooperative under this section shall not exceed the value of the property.
 
 #### (h) Project transfers
 
@@ -122,7 +120,7 @@ The Secretary may not (1) deny assistance under this section on the basis that r
 
 (1) To the extent assistance is available under section 1490a(a)(2) of this title, not more than 25 per centum of the dwelling units which were available for occupancy under this section prior to November 30, 1983, and which will be leased on or after November 30, 1983, shall be available for leasing by low income persons and families other than very low-income persons and families.
 
-(2) To the extent assistance is available under section 1490a(a)(2) of this title, not more than 5 per centum of the dwelling units which become available for occupancy under this section on or after November 30, 1983, shall be available for leasing by low income persons and families other than very low-income persons and families.
+(2) To the extent assistance is available under section 1490a(a)(2) of this title, not more than 5 per centum of the dwelling units which become available for occupancy under this section on orafter November 30, 1983, shall be available for leasing by low income persons and families other than very low-income persons and families.
 
 (3) Units in projects financed under this section which become available for occupancy after November 30, 1983, shall not be available for occupancy by persons and families other than very low-income persons and families if the authority to provide assistance for such persons is available.
 
@@ -132,7 +130,7 @@ The Secretary may not (1) deny assistance under this section on the basis that r
 
 #### (q) Determination of income of person or family occupying financed housing
 
-In determining the income of a person or family occupying housing financed under this section, the Secretary shall consider the value of that person's or family's assets in the samemanner as the Secretary of Housing and Urban Development considers such value for the purpose of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\].
+In determining the income of a person or family occupying housing financed under this section, the Secretary shall consider the value of that person's or family's assets in the same manner as the Secretary of Housing and Urban Development considers such value for the purpose of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\].
 
 #### (r) Operating reserve and equity contribution requirements; regulations to implement adjustment by negotiated rulemaking procedure
 
@@ -196,7 +194,7 @@ The Secretary may provide for the assumption or transfer of a loan or loan oblig
 
 #### (1) Authority
 
-&emsp;Except as provided in paragraph (2), the Secretary shall set aside from amounts made available for each State for loans under this section, not less than 9 percent of the amounts available in fiscal year 1998. Amounts set aside shall be available only for nonprofit entities in the State, which may not be wholly or partially owned or controlled by a for-profit entity. A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—
+&emsp;Except as provided in paragraph (2), the Secretary shall set aside from amounts made available for each State for loans under this section, not less than 9 percent of the amounts available in each fiscal year. Amounts set aside shall be available only for nonprofit entities in the State, which may not be wholly or partially owned or controlled by a for-profit entity. A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—
 
 &emsp;&emsp;(A) will own an interest in a project to be financed under this section and will materially participate in the development and the operation of the project;
 
@@ -228,7 +226,7 @@ The Secretary shall—
 
 &emsp;(2) require each State to establish a process for coordinating the selection of projects under this section with the housing needs and priorities as established in a State comprehensive housing affordability strategy under section 12705 of this title and a low-income housing tax credit allocation plan under section 42 of title 26; and
 
-&emsp;(3) develop, in consultation with housing credit agencies (as that term is defined under section 42 of title 26), uniform procedures for identifying and sharing information on project costs, builder profit, identity of interests relationships, and other factors, as appropriate, with the relevant housing credit agency for projects that are allocated a low-income housing tax credit pursuant to section 42(h) of title 26 for the purpose of achieving compliance with section 3545(d) of this title.
+&emsp;(3) develop, in consultation with housing credit agencies (as that term is defined under section 42 of title 26), uniform procedures for identifying and sharing information on project costs, builder profit, identity of interests relationships, and other factors, as appropriate, with the relevant housing credit agency for projects that are allocated a low-income housing tax credit pursuant to section 42(h) of title26 for the purpose of achieving compliance with section 3545(d) of this title.
 
 #### (y) Service coordinators
 
@@ -250,7 +248,7 @@ The Secretary shall—
 
 #### (2) Qualifications
 
-&emsp;Individuals employed as service coordinators pursuant to this subsection shall meet theminimum qualifications and standards established under section 8011(d)(4) of this title for service coordinators under a congregate housing services program.
+&emsp;Individuals employed as service coordinators pursuant to this subsection shall meet the minimum qualifications and standards established under section 8011(d)(4) of this title for service coordinators under a congregate housing services program.
 
 #### (3) Application and selection
 
@@ -264,11 +262,11 @@ The Secretary shall—
 
 Whoever, as an owner, agent, or manager, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other fund derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.
 
-(July 15, 1949, ch. 338, title V, §515, as added Sept. 28, 1962, Pub. L. 87–723, §4(b), 76 Stat. 671; amended June 30, 1964, Pub. L. 88–340, 78 Stat. 233; Sept. 2, 1964, Pub. L. 88–560, title V, §501(d) 78 Stat. 796; Aug. 10, 1965, Pub. L. 89–117, title X, §1005(c), 79 Stat. 501; Nov. 3, 1966, Pub. L. 89–754, title VIII, §§804, 805, 80 Stat. 1282; Sept. 30, 1969, Pub. L. 91–78, §1, 83 Stat. 125; Dec. 24, 1969, Pub. L. 91–152, title IV, §413(a), 83 Stat. 398; Dec. 31, 1970, Pub. L. 91–609, title VIII, §803(c), 84 Stat. 1807; Oct. 2, 1973, Pub. L. 93–117, §13(b), 87 Stat. 423; Aug. 22, 1974, Pub. L. 93–383, title V, §§509(b), 510, 88 Stat. 695; June 30, 1977, Pub. L. 95–60, §4(b), 91 Stat. 258; July 31, 1977, Pub. L. 95–80, §4(b), 91 Stat. 340; Oct. 12, 1977, Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, 91 Stat. 1138, 1140, 1141; Sept. 30, 1978, Pub. L. 95–406, §7(b), 92 Stat. 881; Oct. 31, 1978, Pub. L. 95–557, title V, §501(e), 92 Stat. 2111; Sept. 28, 1979, Pub. L. 96–71, §5(b), 93 Stat. 502; Nov. 8, 1979, Pub. L. 96–105, §5(b), 93 Stat. 795; Dec. 21, 1979, Pub. L. 96–153, title V, §501(f), 93 Stat. 1134; Oct. 3, 1980, Pub. L. 96–372, §6(b), 94 Stat. 1364; Oct. 8, 1980, Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), 94 Stat. 1668, 1670; Aug. 13, 1981, Pub. L. 97–35, title III, §351(b), 95 Stat. 420; Oct. 6, 1982, Pub. L. 97–289, §3(a), 96 Stat. 1231; May 26, 1983, Pub. L. 98–35, §3(a), 97 Stat. 198; Oct. 1, 1983, Pub. L. 98–109, §4(a), 97 Stat. 746; Nov. 30, 1983, Pub. L. 98–181, title V, §§511(b), 512, 97 Stat. 1244; Oct. 17, 1984, Pub. L. 98–479, title I, §105(e), 98 Stat. 2227; Oct. 8, 1985, Pub. L. 99–120, §3(a), 99 Stat. 503; Nov. 15, 1985, Pub. L. 99–156, §3(a), 99 Stat. 816; Dec. 26, 1985, Pub. L. 99–219, §3(a), 99 Stat. 1731; Mar. 27, 1986, Pub. L. 99–267, §3(a), 100 Stat. 74; Apr. 7, 1986, Pub. L. 99–272, title III, §3009(a), 100 Stat. 105; May 2, 1986, Pub. L. 99–289, §1(b), 100 Stat. 412; June 24, 1986, Pub. L. 99–345, §1, 100 Stat. 673; Sept. 30, 1986, Pub. L. 99–430, 100 Stat. 986; Sept. 30, 1987, Pub. L. 100–122, §1, 101 Stat. 793; Nov. 5, 1987, Pub. L. 100–154, 101 Stat. 890; Nov. 17, 1987, Pub. L. 100–170, 101 Stat. 914; Dec. 3, 1987, Pub. L. 100–179, 101 Stat. 1018; Dec. 21, 1987, Pub. L. 100–200, 101 Stat. 1327; Feb. 5, 1988, Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Nov. 7, 1988, Pub. L. 100–628, title X, §1042, 102 Stat. 3273; Nov. 3, 1989, Pub. L. 101–137, §7(a), 103 Stat. 825; Dec. 15, 1989, Pub. L. 101–235, title II, §207, title IV, §402, 103 Stat. 2042, 2048; Nov. 28, 1990, Pub. L. 101–625, title VII, §§701(e), 712, 713, 104 Stat. 4282, 4291, 4292; Oct. 28, 1991, Pub. L. 102–142, title VII, §743(a), 105 Stat. 915; Dec. 12, 1991, Pub. L. 102–230, §4, 105 Stat. 1721; Oct. 28, 1992, Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), 106 Stat. 3834, 3836–3839; Mar. 28, 1996, Pub. L. 104–120, §4(b), (c), 110 Stat. 835; Aug. 6, 1996, Pub. L. 104–180, title VII, §734(a), (c)(1), (2), (3)(C), (d), (e)(2), 110 Stat. 1601–1603; Nov. 18, 1997, Pub. L. 105–86, title VII, §735(b), 111 Stat. 2110.)
+(July 15, 1949, ch. 338, title V, §515, as added Pub. L. 87–723, §4(b), Sept. 28, 1962, 76 Stat. 671; amended Pub. L. 88–340, June 30, 1964, 78 Stat. 233; Pub. L. 88–560, title V, §501(d) Sept. 2, 1964, 78 Stat. 796; Pub. L. 89–117, title X, §1005(c), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–754, title VIII, §§804, 805, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a), Dec. 24, 1969, 83 Stat. 398; Pub. L. 91–609, title VIII, §803(c), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–117, §13(b), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §§509(b), 510, Aug. 22, 1974, 88 Stat. 695; Pub. L. 95–60, §4(b), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(b), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, Oct. 12, 1977, 91 Stat. 1138, 1140, 1141; Pub. L. 95–406, §7(b), Sept. 30, 1978, 92 Stat. 881; Pub. L. 95–557, title V, §501(e), Oct. 31, 1978, 92 Stat. 2111; Pub. L. 96–71, §5(b), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(b), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §501(f), Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–372, §6(b), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), Oct. 8, 1980, 94 Stat. 1668, 1670; Pub. L. 97–35, title III, §351(b), Aug. 13, 1981, 95 Stat. 420; Pub. L. 97–289, §3(a), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, §3(a), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, §4(a), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title V, §§511(b), 512, Nov. 30, 1983, 97 Stat. 1244; Pub. L. 98–479, title I, §105(e), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 99–120, §3(a), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §3(a), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §3(a), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §3(a), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3009(a), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), Feb. 5, 1988, 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Pub. L. 100–628, title X, §1042, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–137, §7(a), Nov. 3, 1989, 103 Stat. 825; Pub. L. 101–235, title II, §207, title IV, §402, Dec. 15, 1989, 103 Stat. 2042, 2048; Pub. L. 101–625, title VII, §§701(e), 712, 713, Nov. 28, 1990, 104 Stat. 4282, 4291, 4292; Pub. L. 102–142, title VII, §743(a), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–230, §4, Dec. 12, 1991, 105 Stat. 1721; Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), Oct. 28, 1992, 106 Stat. 3834, 3836–3839; Pub. L. 104–120, §4(b), (c), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(a), (c)(1), (2), (3)(C), (d), (e)(2), Aug. 6, 1996, 110 Stat. 1601–1603; Pub. L. 105–86, title VII, §735(b), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(b), Oct. 21, 1998, 112 Stat. 2661.)
 
 #### References in Text
 
-Section 1928 of title 7, referred to in subsec. (b)(3), was amended generally by Pub. L. 104–127, title VI, §605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, consists of subsecs. (a) and (b) which are substantially similar to provisions formerly contained in the third sentence of such section.
+Section 1928 of title 7, referred to in subsec. (b)(3), was amended generally by Pub. L. 104–127, title VI, §605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, consists of subsecs. (a) and (b) which are substantially similarto provisions formerly contained in the third sentence of such section.
 
 Section 1929(f)(1) of title 7, referred to in subsec. (b)(3), was repealed and section 1929(f)(2) was redesignated section 1929(f)(1) by Pub. L. 104–127, title VII, §744, Apr. 4, 1996, 110 Stat. 1125.
 
@@ -279,6 +277,10 @@ The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 
 Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a note under section 1715<i>l</i> of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by section 263 of Pub. L. 100–242 is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of Pub. L. 100–242 by Pub. L. 101–625.
 
 #### Amendments
+
+1998—Subsec. (b)(4) to (7). Pub. L. 105–276, §599C(b)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “no loan shall be insured under this subsection after September 30, 1998;”.
+
+Subsec. (w)(1). Pub. L. 105–276, §599C(b)(2), substituted “each fiscal year” for “fiscal year 1998” in first sentence.
 
 1997—Subsec. (a)(2). Pub. L. 105–86, §735(b)(3)(A), substituted “up to 30 years” for “up to fifty years”.
 
@@ -336,7 +338,7 @@ Subsec. (<i>l</i>)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck
 
 Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for “, except when the Secretary determines that the continued vacancy of units that have been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
 
-&emsp;“(A) limit the ability of a housing credit agency to require an owner of housing, in order to receive a low-income housing tax credit, to enter into a restrictive covenant, in such form and for such period as the housing credit agency deems appropriate, to maintain the occupancy characteristics of the project as prescribed in section 42(h)(6) of title 26; or
+&emsp;“(A) limit the ability of a housing credit agency to require an owner of housing, in order to receive alow-income housing tax credit, to enter into a restrictive covenant, in such form and for such period as the housing credit agency deems appropriate, to maintain the occupancy characteristics of the project as prescribed in section 42(h)(6) of title 26; or
 
 &emsp;“(B) deny or delay closing of financing under this section by reason of the existence, or occupancy terms, of any such restrictive covenant.”
 
@@ -486,7 +488,7 @@ Subsec. (c). Pub. L. 95–128, §508(a), provided that specifically designed equ
 
 Subsec. (d)(1). Pub. L. 95–128, §508(b), defined “housing” to also mean congregate housing facilities for elderly or handicapped persons or families who require some supervision and central services but are otherwise able to care for themselves and authorized such housing for the handicapped to be utilized in conjunction with educational and training facilities.
 
-Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and“elderly families” as families the head of which (or his spouse) is 62 years of age or over.
+Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and “elderly families” as families the head of which (or his spouse) is 62 years of age or over.
 
 1974—Subsec. (b)(1). Pub. L. 93–383, §510(a), struck out “$750,000 or” after “exceed” and substituted “less” for “least”.
 
@@ -534,7 +536,7 @@ Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agricu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011 of this title; title 26 section 42; title 40 App. section 207.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011, 13664 of this title; title 26 section 42; title 40 App. section 207.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

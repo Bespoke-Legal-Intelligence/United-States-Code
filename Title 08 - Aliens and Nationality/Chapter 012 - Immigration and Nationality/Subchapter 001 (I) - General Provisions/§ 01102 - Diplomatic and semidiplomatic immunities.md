@@ -8,7 +8,7 @@ Except as otherwise provided in this chapter, for so long as they continue in th
 
 &emsp;(3) within the classes described in paragraphs (15)(A)(ii), (15)(G)(ii), (15)(G)(iii), or (15)(G)(iv) of section 1101(a) of this title, except those provisions relating to reasonable requirements of passports and visas as a means of identification and documentation necessary to establish their qualifications under such paragraphs, and the provisions of subparagraphs (A) through (C) of section 1182(a)(3) of this title.
 
-(June 27, 1952, ch. 477, title I, §102, 66 Stat. 173; Oct. 24, 1988, Pub. L. 100–525, §9(b), 102 Stat. 2619; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(2), 104 Stat. 5082; Dec. 12, 1991, Pub. L. 102–232, title III, §307(i), 105 Stat. 1756; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(B), 110 Stat. 3009–617.)
+(June 27, 1952, ch. 477, title I, §102, 66 Stat. 173; Pub. L. 100–525, §9(b), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title VI, §603(a)(2), Nov. 29, 1990, 104 Stat. 5082; Pub. L. 102–232, title III, §307(i), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §308(d)(4)(B), Sept. 30, 1996, 110 Stat. 3009–617.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 #### (3) Factors for adult standards
 
-&emsp;The Secretary shall base the performance standards for adult programs under part A of subchapter II of this chapter on appropriate factors, which may include—
+&emsp;The Secretary shall base the performance standards for adult programs under part A ofsubchapter II of this chapter on appropriate factors, which may include—
 
 &emsp;&emsp;(A) placement in unsubsidized employment;
 
@@ -124,7 +124,7 @@ The Congress recognizes that job training is an investment in human capital and 
 
 #### (e) Additional State standards permitted
 
-The Governor may prescribe performance standards for programs under subchapter II ofthis chapter and subchapter III of this chapter in addition to those standards established by the Secretary under subsections (b) and (c) of this section. Such additional standards may include criteria relating to establishment of effective linkages with other programs to avoid duplication and enhance the delivery of services, the provision of high quality services, and successful service to hard-to-serve individuals. The additional performance standards established for subchapter II of this chapter shall be reported in the Governor's coordination and special services plan.
+The Governor may prescribe performance standards for programs under subchapter II of this chapter and subchapter III of this chapter in addition to those standards established by the Secretary under subsections (b) and (c) of this section. Such additional standards may include criteria relating to establishment of effective linkages with other programs to avoid duplication and enhance the delivery of services, the provision of high quality services, and successful service to hard-to-serve individuals. The additional performance standards established for subchapter II of this chapter shall be reported in the Governor's coordination and special services plan.
 
 #### (f) Subchapter IV standards
 
@@ -180,7 +180,7 @@ The National Commission for Employment Policy shall—
 
 #### (B) Elements
 
-&emsp;&emsp;Such plan may restructure the private industry council, prohibit the use of designated service providers, merge the service delivery area into one or more other existing service delivery areas, or make other changes as the Governor determines to be necessary to improve performance, including the selection of an alternative administrative entity to administer the program for the service delivery area.
+&emsp;&emsp;Such plan may restructure the private industry council, prohibit the use of designated service providers, merge the servicedelivery area into one or more other existing service delivery areas, or make other changes as the Governor determines to be necessary to improve performance, including the selection of an alternative administrative entity to administer the program for the service delivery area.
 
 #### (C) Alternative administrative entity selection
 
@@ -222,6 +222,10 @@ For the purposes of this section, the term “employment” means employment for
 
 (Pub. L. 97–300, title I, §106, Oct. 13, 1982, 96 Stat. 1333; Pub. L. 97–404, §1(b), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 99–496, §15(b), Oct. 16, 1986, 100 Stat. 1266; Pub. L. 100–418, title VI, §6304(a), Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, §§713(b), 714(b), Nov. 7, 1988, 102 Stat. 3255, 3256; Pub. L. 102–367, title I, §115(a), Sept. 7, 1992, 106 Stat. 1030; Pub. L. 104–193, title I, §110(n)(2), Aug. 22, 1996, 110 Stat. 2174.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
 The Federal Insurance Contributions Act, referred to in subsec. (b)(6)(C), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
@@ -260,7 +264,7 @@ Amendment by Pub. L. 100–418 effective for program years beginning on or after
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1511, 1514, 1518, 1602, 1604, 1633, 1642, 1661, 1662a, 1671, 1672 of this title; title 8 section 1522; title 20 section 2325.
+This section is referred to in sections 1511, 1514, 1518, 1602, 1604, 1633, 1642, 1661, 1662a, 1671, 1672 of this title; title 8 section 1522.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

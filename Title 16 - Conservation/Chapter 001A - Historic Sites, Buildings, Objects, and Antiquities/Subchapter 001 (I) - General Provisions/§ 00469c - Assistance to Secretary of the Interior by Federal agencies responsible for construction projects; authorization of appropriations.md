@@ -6,7 +6,7 @@ To carry out the purposes of sections 469 to 469c–1 of this title, any Federal
 
 #### (b) Authorization of appropriations for preservation of data
 
-For the purposes of section 469a–1(b) of this title, there are authorized to be appropriated such sums as may be necessary, but not more than $500,000 in fiscal year 1974; $1,000,000 in fiscal year 1975; $1,500,000 in fiscal year 1976;$1,500,000 in fiscal year 1977; $1,500,000 in fiscal year 1978; $500,000 in fiscal year 1979; $1,000,000 in fiscal year 1980; $1,500,000 in fiscal year 1981; $1,500,000 in fiscal year 1982; and $1,500,000 in fiscal year 1983.
+For the purposes of section 469a–1(b) of this title, there are authorized to be appropriated such sums as may be necessary, but not more than $500,000 in fiscal year 1974; $1,000,000 in fiscal year 1975; $1,500,000 in fiscal year 1976; $1,500,000 in fiscal year 1977; $1,500,000 in fiscal year 1978; $500,000 in fiscal year 1979; $1,000,000 in fiscal year 1980; $1,500,000 in fiscal year 1981; $1,500,000 in fiscal year 1982; and $1,500,000 in fiscal year 1983.
 
 #### (c) Authorization of appropriations for surveys and investigations
 

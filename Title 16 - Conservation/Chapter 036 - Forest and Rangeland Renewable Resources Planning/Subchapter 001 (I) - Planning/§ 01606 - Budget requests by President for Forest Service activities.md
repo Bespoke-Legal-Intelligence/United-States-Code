@@ -48,7 +48,7 @@ Amendment by Pub. L. 95–313 effective Oct. 1, 1978, see section 17 of Pub. L. 
 
 #### Statement of Policy
 
-Pub. L. 96–514, title III, §310, Dec. 12, 1980, 94 Stat. 2984, provided that: “The Statement of Policy transmitted by the President to the Speaker of the House ofRepresentatives and the President of the Senate on June 19, 1980, as required under section 8 of the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this section\], is revised and modified to read as follows:
+Pub. L. 96–514, title III, §310, Dec. 12, 1980, 94 Stat. 2984, provided that: “The Statement of Policy transmitted by the President to the Speaker of the House of Representatives and the President of the Senate on June 19, 1980, as required under section 8 of the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this section\], is revised and modified to read as follows:
 
 #### “Statement of Policy
 
@@ -64,7 +64,7 @@ I74“basic principles
 
 &emsp;“(4) in order to achieve this goal, it is recognized that in the major timber growing regions most of the commercial timber lands will have to be brought to and maintained, where possible, at 90 percent of their potential level of growth, consistent with the provisions of the National Forest Management Act of 1976 \[see Short Title of 1976 Amendment note set out under section 1600 of this title\] on Federal lands, so that all resources are utilized in the combination that will best meet the needs of the American people.
 
-&emsp;“(5) forest and rangeland protection programs should be improved to more adequately protect forest and rangeland resources from fire, erosion, insects, disease, and the introduction or spread of noxious weeds, insects, and animals.
+&emsp;“(5) forest and rangeland protection programs should be improved to more adequately protect forest and rangeland resources from fire, erosion, insects,disease, and the introduction or spread of noxious weeds, insects, and animals.
 
 &emsp;“(6) the Federal agencies carrying out the policies contained in this Statement will cooperate and coordinate their efforts to accomplish the goals contained in this Statement and will consult, coordinate, and cooperate with the planning efforts of the States.
 
@@ -92,5 +92,5 @@ Section 15, formerly section 12 of Pub. L. 95–313, renumbered §15, Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1601, 1604, 1684, 4503c of this title.
+This section is referred to in sections 1601, 1604, 1684, 2106b, 4503c of this title.
 

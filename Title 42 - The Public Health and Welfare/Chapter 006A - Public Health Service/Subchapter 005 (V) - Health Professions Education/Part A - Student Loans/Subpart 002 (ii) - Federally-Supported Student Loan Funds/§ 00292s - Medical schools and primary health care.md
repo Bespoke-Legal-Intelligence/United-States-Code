@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds establishedunder section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
 
 &emsp;&emsp;(A) to enter and complete a residency training program in primary health care not later than 4 years after the date on which the student graduates from such school; and
 
@@ -26,11 +26,7 @@
 
 #### (3) Noncompliance by student
 
-&emsp;Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
-
-&emsp;&emsp;(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and
-
-&emsp;&emsp;(B) the recomputed balance will be paid not later than the expiration of the 3-year period beginning on the date on which the student fails to comply with the agreement.
+&emsp;Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance.
 
 #### (4) Waivers
 
@@ -50,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that, for the 1-year period ending on June 30, 1997; <sup>1</sup> and for the 1-year period ending on June 30 of each subsequent fiscal year, the school will meet not less than 1 of the conditions described in paragraph (2) with respect to graduates of the school whose date of graduation from the school occurred approximately 3 years before the end of the 1-year period involved.
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that, for the 1-year period ending on June 30, 1997; <sup>1</sup> and for the 1-year period ending on June 30 of each subsequent fiscal year, the school will meet not less than 1 of the conditions described in paragraph (2) with respect to graduates of the school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
 
 #### (2) Description of conditions
 
@@ -64,7 +60,7 @@
 
 #### (3) Determinations by Secretary
 
-&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), the Secretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted to the Secretary by the school under paragraph (6).
+&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), theSecretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted to the Secretary by the school under paragraph (6).
 
 #### (4) Noncompliance by school
 
@@ -96,11 +92,7 @@
 
 &emsp;Each agreement under section 292q of this title with a school of medicine or osteopathic medicine shall provide that the school will submit to the Secretary a report for each 1-year period under paragraph (1) that provides such information as the Secretary determines to be necessary for carrying out this subsection. Each such report shall include statistics concerning the current training or practice status of all graduates of such school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
 
-#### (c) Reports by Secretary
-
-The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.
-
-#### (d) Definitions
+#### (c) Definitions
 
 For purposes of this section:
 
@@ -114,13 +106,23 @@ For purposes of this section:
 
 &emsp;(5) The term “primary health care” means family medicine, general internal medicine, general pediatrics, preventive medicine, or osteopathic general practice.
 
-(July 1, 1944, ch. 373, title VII, §723, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2015; amended June 10, 1993, Pub. L. 103–43, title XX, §2014(c), 107 Stat. 216.)
+(July 1, 1944, ch. 373, title VII, §723, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2015; amended Pub. L. 103–43, title XX, §2014(c), June 10, 1993, 107 Stat. 216; Pub. L. 105–392, title I, §131, Nov. 13, 1998, 112 Stat. 3574.)
 
 #### Prior Provisions
 
 A prior section 723 of act July 1, 1944, was classified to section 293c of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–392, §131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
+
+&emsp;“(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and
+
+&emsp;“(B) the recomputed balance will be paid not later than the expiration of the 3-year period beginning on the date on which the student fails to comply with the agreement.”
+
+Subsec. (b)(1). Pub. L. 105–392, §131(a), substituted “4 years before” for “3 years before”.
+
+Subsecs. (c), (d). Pub. L. 105–392, §131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.”
 
 1993—Subsec. (a)(4). Pub. L. 103–43, §2014(c)(1), added par. (4).
 
@@ -130,13 +132,9 @@ Subsec. (b)(2)(B). Pub. L. 103–43, §2014(c)(2)(B), substituted “25 percent�
 
 Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted “1997” for “1994” in cl. (i) and “1998” for “1995” in cl. (ii).
 
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 292r, 292t, 292y of this title.
+This section is referred to in sections 292r, 292t, 292y, 295<i>o</i>–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

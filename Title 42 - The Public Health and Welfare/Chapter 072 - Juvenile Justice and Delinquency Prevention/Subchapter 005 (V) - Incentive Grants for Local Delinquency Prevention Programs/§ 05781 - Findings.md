@@ -22,5 +22,5 @@ For short title of title V of Pub. L. 93–415, which enacted this subchapter, a
 
 #### GAO Studies and Reports
 
-Section 5(b) of Pub. L. 102–586, as amended by Pub. L. 104–316, title I, §122(n), Oct. 19, 1996, 110 Stat. 3838, provided that: “Under such conditions as the Comptroller General of the United States determines appropriate, the General Accounting Office may conduct studies and report to Congress on the effects of the program established by subsection (a) \[enacting this subchapter\] in encouraging States and units of general local government to comply with the requirements of part B of title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5631–5633).”
+Section 5(b) of Pub. L. 102–586, as amended by Pub. L. 104–316, title I, §122(n), Oct. 19, 1996, 110 Stat. 3838, provided that: “Under such conditions as the ComptrollerGeneral of the United States determines appropriate, the General Accounting Office may conduct studies and report to Congress on the effects of the program established by subsection (a) \[enacting this subchapter\] in encouraging States and units of general local government to comply with the requirements of part B of title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5631–5633).”
 

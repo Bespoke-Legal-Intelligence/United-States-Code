@@ -74,7 +74,7 @@ Subsec. (b)(6). Pub. L. 103–382, §212(b)(3), made technical amendment to refe
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receivingwritten notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -86,7 +86,7 @@ Section effective with respect to appropriations for fiscal year 1980 and subseq
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1206, 1234d, 1234g, 8853 of this title.
+This section is referred to in sections 1234d, 1234g, 8853 of this title.
 
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

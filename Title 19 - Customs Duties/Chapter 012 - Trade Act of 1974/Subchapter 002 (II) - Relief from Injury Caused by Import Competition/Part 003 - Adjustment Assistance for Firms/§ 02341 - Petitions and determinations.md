@@ -6,7 +6,7 @@ A petition for a certification of eligibility to apply for adjustment assistance
 
 #### (b) Public hearing
 
-If the petitioner, or any other person, organization, or group found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
+If the petitioner, or any other person, organization, or group found by the Secretary to havea substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
 #### (c) Certification
 
@@ -28,7 +28,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 &emsp;(B)(i) Any firm which engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
 
-&emsp;(ii) Any firm that engages in exploration or drilling for oil or natural gas, or otherwiseproduces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
+&emsp;(ii) Any firm that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
 
 #### (d) Allowable period for determination
 

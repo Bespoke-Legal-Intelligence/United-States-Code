@@ -14,15 +14,23 @@ The prohibition referred to in this section shall not apply to—
 
 #### (c) Report
 
-If the Director of the United States Information Agency determines that the prohibition under subsection (a) of this section would require the termination of a specific Voice of America foreign language service, then, not less than 90 days before the Agency begins to recruit such candidates, the Director shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report concerning—
+If the Broadcasting Board of Governors determines that the prohibition under subsection (a) of this section would require the termination of a specific Voice of America foreign language service, then, not less than 90 days before the Board begins to recruit such candidates, the Board shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report concerning—
 
 &emsp;(1) the number and location of speakers of the applicable foreign language who could be recruited by the Voice of America without violating this section; and
 
 &emsp;(2) the efforts made by the Voice of America to recruit such individuals for employment.
 
-(Jan. 27, 1948, ch. 36, title V, §506, as added Pub. L. 101–246, title II, §232, Feb. 16, 1990, 104 Stat. 57.)
+(Jan. 27, 1948, ch. 36, title V, §506, as added Pub. L. 101–246, title II, §232, Feb. 16, 1990, 104 Stat. 57; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(2), Oct. 21, 1998, 112 Stat. 2681–787.)
+
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–277, in introductory provisions, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”, “Board begins” for “Agency begins”, and “Board shall” for “Director shall”.
 
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 

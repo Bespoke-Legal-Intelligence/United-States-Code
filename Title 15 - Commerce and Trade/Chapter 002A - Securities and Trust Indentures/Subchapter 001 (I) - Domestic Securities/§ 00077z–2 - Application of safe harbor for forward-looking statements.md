@@ -168,7 +168,11 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
-(May 27, 1933, ch. 38, title I, §27A, as added Dec. 22, 1995, Pub. L. 104–67, title I, §102(a), 109 Stat. 749.)
+(May 27, 1933, ch. 38, title I, §27A, as added Pub. L. 104–67, title I, §102(a), Dec. 22, 1995, 109 Stat. 749; amended Pub. L. 105–353, title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3235.)
+
+#### Amendments
+
+1998—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
 
 #### Effective Date
 
@@ -176,7 +180,7 @@ Section not to affect or apply to any private action arising under this subchapt
 
 #### Construction
 
-Nothing in section deemed to create or ratify any implied right of action, or to prevent Commission, by ruleor regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

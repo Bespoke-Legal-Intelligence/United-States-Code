@@ -1,5 +1,7 @@
 ### §4607. Permissive terms and provisions
 
+#### (a) In general
+
 On the recommendation of the Honey Board, and with the approval of the Secretary, an order issued pursuant to this chapter may contain one or more of the following provisions:
 
 &emsp;(1) Providing authority to exempt from the provisions of the order honey used for exporting and providing authority for the Honey Board to require satisfactory safeguards against improper use of such exemption.
@@ -16,7 +18,57 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 &emsp;(7) Providing for terms and conditions incidental to, and not inconsistent with, the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such an order.
 
-(Pub. L. 98–590, §8, Oct. 30, 1984, 98 Stat. 3119.)
+&emsp;(8) If approved in a referendum conducted under this chapter, providing authority for the development of programs and related rules and regulations that will, with the approval of the Secretary, establish minimum purity standards for honey and honey products that are designed to maintain a positive and wholesome marketing image for honey and honey products.
+
+#### (b) Inspection and monitoring system
+
+#### (1) Inspection
+
+&emsp;Any program, rule, or regulation under subsection (a)(8) of this section may provide for the inspection, by the Secretary, of honey and honey products being sold for domestic consumption in, or for export from, the United States.
+
+#### (2) Monitoring system
+
+&emsp;The Honey Board may develop and recommend to the Secretary a system for monitoring the purity of honey and honey products being sold for domestic consumption in, or for export from, the United States, including a system for identifying adulterated honey.
+
+#### (3) Coordination with other Federal agencies
+
+&emsp;The Secretary may coordinate, to the maximum extent practicable, with the head of any other Federal agency that has authority to ensure compliance with labeling or other requirements relating to the purity of honey and honey products concerning an enforcement action against any person that does not comply with a rule or regulation issued by any other Federal agency concerning the labeling or purity requirements of honey and honey products.
+
+#### (4) Authority to issue regulations
+
+&emsp;The Secretary may issue such rules and regulations as are necessary to carry out this subsection.
+
+#### (c) Voluntary quality assurance program
+
+#### (1) In general
+
+&emsp;In addition to or independent of any program, rule, or regulation under subsection (b) of this section, the Honey Board, with the approval of the Secretary, may establish and carry out a voluntary quality assurance program concerning purity standards for honey and honey products.
+
+#### (2) Components
+
+&emsp;The program may include—
+
+&emsp;&emsp;(A) the establishment of an official Honey Board seal of approval to be displayed on honey and honey products of producers, handlers, and importers that participate in the voluntary program and are found to meet such standards of purity as are established under the program;
+
+&emsp;&emsp;(B) actions to encourage producers, handlers, and importers to participate in the program;
+
+&emsp;&emsp;(C) actions to encourage consumers to purchase honey and honey products bearing the official seal of approval; and
+
+&emsp;&emsp;(D) periodic inspections by the Secretary, or other parties approved by the Secretary, of honey and honey products of producers, handlers, and importers that participate in the voluntary program.
+
+#### (3) Display of seal of approval
+
+&emsp;To be eligible to display the official seal of approval established under paragraph (2)(A) on a honey or honey product, a producer, handler, or importer shall participate in the voluntary program under this subsection.
+
+#### (d) Authority of Secretary
+
+Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b) of this section, and the voluntary quality assurance program under subsection (c) of this section.
+
+(Pub. L. 98–590, §8, Oct. 30, 1984, 98 Stat. 3119; Pub. L. 105–185, title VI, §605(g), June 23, 1998, 112 Stat. 596.)
+
+#### Amendments
+
+1998—Pub. L. 105–185 designated existing provisions as subsec. (a), inserted heading, and added par. (8) and subsecs. (b) to (d).
 
 #### Section Referred to in Other Sections
 

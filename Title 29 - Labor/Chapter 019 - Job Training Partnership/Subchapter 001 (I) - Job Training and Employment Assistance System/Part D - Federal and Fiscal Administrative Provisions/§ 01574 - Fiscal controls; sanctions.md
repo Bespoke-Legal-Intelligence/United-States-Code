@@ -124,13 +124,17 @@ In emergency situations, if the Secretary determines it is necessary to protect 
 
 #### (g) Secretary's action against harassment of complainants
 
-If the Secretary determines that any recipient under this chapter has discharged or in anyother manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within thirty days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
+If the Secretary determines that any recipient under this chapter has discharged or in any other manner discriminated against a participant or against any individual in connection with the administration of the program involved, or against any individual because such individual has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter, or has testified or is about to testify in any such proceeding or investigation under or related to this chapter, or otherwise unlawfully denied to any individual a benefit to which that individual is entitled under the provisions of this chapter or the Secretary's regulations, the Secretary shall, within thirty days, take such action or order such corrective measures, as necessary, with respect to the recipient or the aggrieved individual, or both.
 
 #### (h) Remedies not exclusive
 
 The remedies under this section shall not be construed to be exclusive remedies.
 
 (Pub. L. 97–300, title I, §164, Oct. 13, 1982, 96 Stat. 1348; Pub. L. 102–367, title I, §142, Sept. 7, 1992, 106 Stat. 1046.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 

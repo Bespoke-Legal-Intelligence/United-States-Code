@@ -4,7 +4,7 @@
 
 (b) Effective only for the 1991 through 1995 crops of wheat, feed grains, cotton, and rice, the Secretary of Agriculture may provide for annual adjustments in the established prices for such program crops to reflect any change during the last calendar year ending before the beginning of each such crop year in the index of prices paid by farmers for production items, interest, taxes, and wage rates in such calendar year.
 
-(Oct. 31, 1949, ch. 792, title IV, §402, 63 Stat. 1054; Nov. 28, 1990, Pub. L. 101–624, title XI, §1127, 104 Stat. 3508.)
+(Oct. 31, 1949, ch. 792, title IV, §402, 63 Stat. 1054; Pub. L. 101–624, title XI, §1127, Nov. 28, 1990, 104 Stat. 3508.)
 
 #### References in Text
 

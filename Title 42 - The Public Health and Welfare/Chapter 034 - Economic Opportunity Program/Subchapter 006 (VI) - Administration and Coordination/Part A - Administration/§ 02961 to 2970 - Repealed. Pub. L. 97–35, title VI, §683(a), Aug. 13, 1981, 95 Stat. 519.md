@@ -22,9 +22,9 @@ Section 2970, Pub. L. 88–452, title VI, §620, as added Pub. L. 89–794, titl
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1981, see section 9912(a) of this title.
+Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.
 
 #### Executive Order No. 11466
 
-Ex. Ord. No. 11466, eff. Apr. 18, 1969, 34 F.R. 6727, formerly set out as a note under section 2962 of this title,which related to the administration of certain jointly funded projects, was superseded by Ex. Ord. No. 11867, eff. June 19, 1975, 40 F.R. 26253, formerly set out as a note under section 7103 of Title 31, Money and Finance.
+Ex. Ord. No. 11466, eff. Apr. 18, 1969, 34 F.R. 6727, formerly set out as a note under section 2962 of this title, which related to the administration of certain jointly funded projects, was superseded by Ex. Ord. No. 11867, eff. June 19, 1975, 40 F.R. 26253, formerly set out as a note under section 7103 of Title 31, Money and Finance.
 

@@ -88,7 +88,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (1) Processors
 
-&emsp;The order shall provide that each processor marketing popcorn in the United States or for export shall, in the manner prescribed in theorder, pay assessments and remit the assessments to the Board.
+&emsp;The order shall provide that each processor marketing popcorn in the United States or for export shall, in the manner prescribed in the order, pay assessments and remit the assessments to the Board.
 
 #### (2) Direct marketers
 
@@ -112,7 +112,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 &emsp;&emsp;&emsp;(i) to pay expenses incurred in implementing and administering the order, with provision for a reasonable reserve; and
 
-&emsp;&emsp;&emsp;(ii) to cover such administrative costs as are incurred by the Secretary, except that the administrative costs incurred by the Secretary (other than any legal expenses incurred to defend and enforce the order) that may be reimbursed by the Board may not exceed 15 percent of the projected annual revenues of the Board.
+&emsp;&emsp;&emsp;(ii) to cover such administrative costs as are incurred by the Secretary, except thatthe administrative costs incurred by the Secretary (other than any legal expenses incurred to defend and enforce the order) that may be reimbursed by the Board may not exceed 15 percent of the projected annual revenues of the Board.
 
 #### (B) Expenditures based on source of assessments
 
@@ -178,7 +178,7 @@ The order shall require the Board to—
 
 #### (ii) Penalty
 
-&emsp;&emsp;&emsp;A person who knowingly violates this subparagraph shall, on conviction, be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer, employee, or agentof the Board or the Department, shall be removed from office or terminated from employment, as applicable.
+&emsp;&emsp;&emsp;A person who knowingly violates this subparagraph shall, on conviction, be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer, employee, or agent of the Board or the Department, shall be removed from office or terminated from employment, as applicable.
 
 #### (D) General statements
 

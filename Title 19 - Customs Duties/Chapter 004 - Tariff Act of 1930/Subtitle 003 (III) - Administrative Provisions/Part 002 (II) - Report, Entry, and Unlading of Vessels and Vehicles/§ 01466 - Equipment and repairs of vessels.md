@@ -68,9 +68,9 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 &emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country, or
 
-&emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country.
+&emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United Statesupon first entry into the United States of each such spare part purchased in, or imported from, a foreign country.
 
-(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Jan. 5, 1971, Pub. L. 91–654, §1, 84 Stat. 1944; Oct. 3, 1978, Pub. L. 95–410, title II, §206, 92 Stat. 900; July 26, 1979, Pub. L. 96–39, title VI, §601(a)(3), 93 Stat. 268; Oct. 17, 1980, Pub. L. 96–467, §14(a)(3)(B), 94 Stat. 2225; Dec. 28, 1980, Pub. L. 96–609, title I, §115(a), 94 Stat. 3558; Oct. 30, 1984, Pub. L. 98–573, title II, §208, 98 Stat. 2976; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(h)(4), 102 Stat. 1157; Aug. 20, 1990, Pub. L. 101–382, title III, §484E(a), 104 Stat. 709; Dec. 8, 1994, Pub. L. 103–465, title I, §112(b), 108 Stat. 4825.)
+(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub. L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec. 8, 1994, 108 Stat. 4825.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1990 Amendment
 
-Section 484E(b), (c) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, §112(a), Dec. 8, 1994, 108 Stat.4825; Pub. L. 104–295, §27, Oct. 11, 1996, 110 Stat. 3533, provided that:
+Section 484E(b), (c) of Pub. L. 101–382, as amended by Pub. L. 103–465, title I, §112(a), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 104–295, §27, Oct. 11, 1996, 110 Stat. 3533, provided that:
 
 “(b)
 
@@ -236,7 +236,7 @@ Section 115(b) of Pub. L. 96–609 provided that: “Upon request therefor filed
 
 &emsp;“(2) with respect to which there would have been no duty if the amendment made by subsection (a) \[adding subsec. (g) of this section\] applied to such entry or withdrawal;
 
-> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated asthough such entry or withdrawal had been made on the date of the enactment of this Act.”
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
 
 #### Entries Made in Connection With Arrivals of Vessels On or After January 5, 1971; Entries in Connection With the Arrival of Shrimp Vessels After January 1, 1969, and Before January 5, 1971
 

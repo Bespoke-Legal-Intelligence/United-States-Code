@@ -16,7 +16,7 @@ The purposes of the Office are:
 
 &emsp;(4) to monitor compliance of projects prepaid or receiving incentives under the Housing Act of 1949.
 
-(July 15, 1949, ch. 338, title V, §537, as added Oct. 28, 1992, Pub. L. 102–550, title VII, §712(c), 106 Stat. 3841.)
+(July 15, 1949, ch. 338, title V, §537, as added Pub. L. 102–550, title VII, §712(c), Oct. 28, 1992, 106 Stat. 3841.)
 
 #### References in Text
 

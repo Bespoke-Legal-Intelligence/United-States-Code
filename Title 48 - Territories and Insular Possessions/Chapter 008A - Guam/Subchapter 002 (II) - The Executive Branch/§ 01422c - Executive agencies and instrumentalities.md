@@ -14,7 +14,7 @@ The Governor shall, from time to time, examine the organization of the executive
 
 #### (d) Continuation in office of incumbents
 
-All persons holding office in Guam on August 1, 1950 may, except as otherwise provided in this chapter, continue to hold their respective officesuntil their successors are appointed and qualified.
+All persons holding office in Guam on August 1, 1950 may, except as otherwise provided in this chapter, continue to hold their respective offices until their successors are appointed and qualified.
 
 (Aug. 1, 1950, ch. 512, §9, 64 Stat. 387; Pub. L. 90–497, §4, Sept. 11, 1968, 82 Stat. 845; Pub. L. 99–396, §18(a), Aug. 27, 1986, 100 Stat. 843.)
 

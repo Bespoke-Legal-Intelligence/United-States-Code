@@ -1,11 +1,6 @@
 ### <b>CHAPTER 169—MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Military%20Construction/README.md) | <b>Military Construction</b> | <b>2801</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Military%20Family%20Housing/README.md) | <b>Military Family Housing</b> | <b>2821</b> |

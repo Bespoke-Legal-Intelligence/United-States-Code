@@ -8,6 +8,10 @@ The applicable accounts of the House of Representatives is <sup>1</sup> made av
 
 1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund” and “House Oversight” for “House Administration”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Cross References
 
 Adjustment of allowances by Committee on House Oversight, see section 57 of this title.

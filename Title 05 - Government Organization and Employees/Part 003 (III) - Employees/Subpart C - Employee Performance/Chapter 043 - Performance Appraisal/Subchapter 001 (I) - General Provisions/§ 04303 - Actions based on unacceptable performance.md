@@ -48,7 +48,7 @@
 
 &emsp;(1) the reduction to the grade previously held of a supervisor or manager who has not completed the probationary period under section 3321(a)(2) of this title,
 
-&emsp;(2) the reduction in grade or removal of an employee in the competitive service who is serving a probationary or trial period under an initial appointment or who has not completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less, or
+&emsp;(2) the reduction in grade or removal of an employee in the competitive service who is serving a probationary or trial period under aninitial appointment or who has not completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less, or
 
 &emsp;(3) the reduction in grade or removal of an employee in the excepted service who has not completed 1 year of current continuous employment in the same or similar positions.
 
@@ -90,5 +90,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7121, 7512, 7701 of this title; title 10 section 1599c; title 31 section 732.
+This section is referred to in sections 2302, 7121, 7512, 7701, 9508 of this title; title 31 section 732.
 

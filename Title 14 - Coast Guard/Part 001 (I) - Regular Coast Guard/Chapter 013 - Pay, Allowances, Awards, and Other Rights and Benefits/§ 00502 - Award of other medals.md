@@ -10,5 +10,5 @@ This section insures that the preceding sections are not intended to prevent Coa
 
 #### Meritorious Service Medal
 
-Medal established as an award for outstanding meritorious achievement or service to the United States, see Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, set outas a note preceding section 1121 of Title 10, Armed Forces.
+Medal established as an award for outstanding meritorious achievement or service to the United States, see Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, set out as a note preceding section 1121 of Title 10, Armed Forces.
 

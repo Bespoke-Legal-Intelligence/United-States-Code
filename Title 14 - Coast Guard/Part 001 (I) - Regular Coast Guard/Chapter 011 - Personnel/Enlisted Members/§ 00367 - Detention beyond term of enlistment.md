@@ -12,7 +12,7 @@ Under regulations prescribed by the Secretary, an enlisted member may be detaine
 
 > Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the government of the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 523; Aug. 3, 1950, ch. 536, §22, 64 Stat. 407; July 24, 1956, ch. 692, §§2(4), 3, 70 Stat. 631; Oct. 30, 1984, Pub. L. 98–557, §§15(a)(3)(A), (C), 17(b)(4), 98 Stat. 2865, 2868.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 523; Aug. 3, 1950, ch. 536, §22, 64 Stat. 407; July 24, 1956, ch. 692, §§2(4), 3, 70 Stat. 631; Pub. L. 98–557, §§15(a)(3)(A), (C), 17(b)(4), Oct. 30, 1984, 98 Stat. 2865, 2868.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1984—Pub. L. 98–557 struck out subsec. “(a)” designation; in provisions preceding cl. (1) substituted “enlisted member” for “enlisted man”; and in provisions following cl. (4) substituted “member detained” for “person detained”, “Enlisted members” for “Enlisted men”, and “clause (1)” for “(1) of this subsection”.
 
-1956—Subsec. (a). Act July 24, 1956, §§2(4), 3, repealed cl. (3) permitting detention of enlisted members beyond term of their enlistment while waiting disciplinary action or trial and disposition of their case, struck out provisions prohibiting payment of pay or allowances for any period beyond term of enlistment if trial of such members results in conviction, and redesignated cls. (4) and (5) as (3) and (4), respectively. See section 972(a) of Title 10, Armed Forces.
+1956—Subsec. (a). Act July 24, 1956, §§2(4), 3, repealed cl. (3) permitting detention of enlisted members beyond term of their enlistment while waiting disciplinary action or trial and disposition of their case, struck out provisions prohibiting payment of pay or allowancesfor any period beyond term of enlistment if trial of such members results in conviction, and redesignated cls. (4) and (5) as (3) and (4), respectively. See section 972(a) of Title 10, Armed Forces.
 
 Subsecs. (b), (c). Act July 24, 1956, §2(4), repealed subsecs. (b) and (c) which required enlisted members to make good time lost by unauthorized absence from duty, or by confinement under sentence or pending trial, or by reason of sickness resulting from misconduct. See section 972(a) of Title 10.
 

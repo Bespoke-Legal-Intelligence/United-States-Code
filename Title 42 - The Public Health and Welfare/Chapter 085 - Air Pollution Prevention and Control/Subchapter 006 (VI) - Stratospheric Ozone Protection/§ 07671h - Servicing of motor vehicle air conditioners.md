@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;(1) The term “refrigerant” means any class I or class II substance used in a motor vehicle air conditioner. Effective 5 years after November 15, 1990, the term “refrigerant” shall also include any substitute substance.
 
-&emsp;(2)(A) The term “approved refrigerant recycling equipment” means equipment certified by the Administrator (or an independent standards testing organization approved by the Administrator) to meet the standards established by the Administrator and applicable to equipment for the extraction and reclamation of refrigerant from motor vehicle air conditioners. Such standards shall, at a minimum, be at least as stringent as the standards of the Society of Automotive Engineers in effect as of November 15, 1990, and applicable to such equipment (SAE standard J–1990).
+&emsp;(2)(A) The term “approved refrigerant recycling equipment” means equipment certifiedby the Administrator (or an independent standards testing organization approved by the Administrator) to meet the standards established by the Administrator and applicable to equipment for the extraction and reclamation of refrigerant from motor vehicle air conditioners. Such standards shall, at a minimum, be at least as stringent as the standards of the Society of Automotive Engineers in effect as of November 15, 1990, and applicable to such equipment (SAE standard J–1990).
 
 &emsp;(B) Equipment purchased before the proposal of regulations under this section shall be considered certified if it is substantially identical to equipment certified as provided in subparagraph (A).
 
@@ -38,5 +38,5 @@ Effective January 1, 1992, no person repairing or servicing motor vehicles for c
 
 Effective 2 years after November 15, 1990, it shall be unlawful for any person to sell or distribute, or offer for sale or distribution, in interstate commerce to any person (other than a person performing service for consideration on motor vehicle air-conditioning systems in compliance with this section) any class I or class II substance that is suitable for use as a refrigerant in a motor vehicle air-conditioning system and that is in a container which contains less than 20 pounds of such refrigerant.
 
-(July 14, 1955, ch. 360, title VI, §609, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2662.)
+(July 14, 1955, ch. 360, title VI, §609, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2662.)
 

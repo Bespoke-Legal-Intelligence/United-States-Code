@@ -16,7 +16,7 @@
 
 The Secretary, with the consent of the Secretary of Housing and Urban Development, shall obtain from the Department of Housing and Urban Development such assistance with respect to the administration of this part as will promote efficiency and economy thereof.
 
-(July 1, 1944, ch. 373, title VI, §621, as added June 30, 1970, Pub. L. 91–296, title II, §201, 84 Stat. 344; amended June 18, 1973, Pub. L. 93–45, title I, §108(b)(1), 87 Stat. 93.)
+(July 1, 1944, ch. 373, title VI, §621, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 93–45, title I, §108(b)(1), June 18, 1973, 87 Stat. 93.)
 
 #### Amendments
 

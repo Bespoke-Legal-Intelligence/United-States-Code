@@ -12,7 +12,7 @@ Whoever knowingly takes or receives, from such express company or other common c
 
 Shall be fined under this title or imprisoned not more than five years, or both, for the first such offense and shall be fined under this title or imprisoned not more than ten years, or both, for each such offense thereafter.
 
-(June 25, 1948, ch. 645, 62 Stat. 768; May 27, 1950, ch. 214, §1, 64 Stat. 194; Aug. 28, 1958, Pub. L. 85–796, §2, 72 Stat. 962; Jan. 8, 1971, Pub. L. 91–662, §4, 84 Stat. 1973; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), 108 Stat. 2147; Feb. 8, 1996, Pub. L. 104–104, title V, §507(a), 110 Stat. 137.)
+(June 25, 1948, ch. 645, 62 Stat. 768; May 27, 1950, ch. 214, §1, 64 Stat. 194; Pub. L. 85–796, §2, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, §4, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–104, title V, §507(a), Feb. 8, 1996, 110 Stat. 137.)
 
 #### Historical and Revision Notes
 

@@ -16,7 +16,7 @@ Authority To Provide Assistance.—The Secretary of Transportation may provide f
 
 &emsp;(3) the architectural integrity of the terminal will be preserved;
 
-&emsp;(4) to the extent practicable, the use of the terminal facilities for transportation may becombined with use of those facilities for other civic and cultural activities, especially when another activity is recommended by—
+&emsp;(4) to the extent practicable, the use of the terminal facilities for transportation may be combined with use of those facilities for other civic and cultural activities, especially when another activity is recommended by—
 
 &emsp;&emsp;(A) the Advisory Council on Historic Preservation;
 

@@ -1,8 +1,8 @@
 ### §3. Trusts in Territories or District of Columbia illegal; combination a felony
 
-Every contract, combination in form of trust or otherwise, or conspiracy, in restraint of trade or commerce in any Territory of the United States or of the District of Columbia, or in restraint of trade or commerce between any such Territory and another, or between any such Territory or Territories and any State or States or the District of Columbia, or with foreign nations, or between the District of Columbia and any State or States or foreign nations, is declared illegal. Every person who shall make any such contract or engage in any such combination or conspiracy, shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $10,000,000 if a corporation, or, if any other person, $350,000, or by imprisonment not exceeding three years, or both said punishments, in the discretion of the court.
+Every contract, combination in form of trust or otherwise, or conspiracy, in restraint of tradeor commerce in any Territory of the United States or of the District of Columbia, or in restraint of trade or commerce between any such Territory and another, or between any such Territory or Territories and any State or States or the District of Columbia, or with foreign nations, or between the District of Columbia and any State or States or foreign nations, is declared illegal. Every person who shall make any such contract or engage in any such combination or conspiracy, shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $10,000,000 if a corporation, or, if any other person, $350,000, or by imprisonment not exceeding three years, or both said punishments, in the discretion of the court.
 
-(July 2, 1890, ch. 647, §3, 26 Stat. 209; July 7, 1955, ch. 281, 69 Stat. 282; Dec. 21, 1974, Pub. L. 93–528, §3, 88 Stat. 1708; Nov. 16, 1990, Pub. L. 101–588, §4(c), 104 Stat. 2880.)
+(July 2, 1890, ch. 647, §3, 26 Stat. 209; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, §3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 101–588, §4(c), Nov. 16, 1990, 104 Stat. 2880.)
 
 #### Amendments
 

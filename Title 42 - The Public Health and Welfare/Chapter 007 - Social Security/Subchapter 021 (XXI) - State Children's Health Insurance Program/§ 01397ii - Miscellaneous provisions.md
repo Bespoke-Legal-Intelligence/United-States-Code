@@ -10,7 +10,7 @@
 
 &emsp;Nothing in this subchapter shall be construed as affecting or modifying section 514 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1144) with respect to a group health plan (as defined in section 2791(a)(1) of the Public Health Service Act (42 U.S.C. 300gg–91(a)(1)) <sup>3</sup>.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2109, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4901(a), 111 Stat. 567.)
+(Aug. 14, 1935, ch. 531, title XXI, §2109, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567.)
 
 #### References in Text
 

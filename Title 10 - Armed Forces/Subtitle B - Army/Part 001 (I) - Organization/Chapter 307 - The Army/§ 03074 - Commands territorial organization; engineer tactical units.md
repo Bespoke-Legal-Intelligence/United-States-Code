@@ -6,7 +6,7 @@
 
 (c) Such part of the Corps of Engineers as the President directs shall be formed into tactical units organized as he prescribes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 170; Oct. 1, 1986, Pub. L. 99–433, title V, §503, 100 Stat. 1042.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170; Pub. L. 99–433, title V, §503, Oct. 1, 1986, 100 Stat. 1042.)
 
 Historical and Revision Notes
 

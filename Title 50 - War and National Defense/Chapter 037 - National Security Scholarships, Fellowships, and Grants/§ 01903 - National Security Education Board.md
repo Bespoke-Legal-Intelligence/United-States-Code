@@ -18,15 +18,13 @@ The Board shall be composed of the following individuals or the representatives 
 
 &emsp;(5) The Director of Central Intelligence.
 
-&emsp;(6) The Director of the United States Information Agency.
+&emsp;(6) The Chairperson of the National Endowment for the Humanities.
 
-&emsp;(7) The Chairperson of the National Endowment for the Humanities.
-
-&emsp;(8) Six individuals appointed by the President, by and with the advice and consent of the Senate, who shall be experts in the fields of international, language, and area studies education and who may not be officers or employees of the Federal Government.
+&emsp;(7) Six individuals appointed by the President, by and with the advice and consent of the Senate, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
 
 #### (c) Term of appointees
 
-Each individual appointed to the Board pursuant to subsection (b)(7) of this section shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
+Each individual appointed to the Board pursuant to subsection (b)(6) of this section shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
 
 #### (d) Functions
 
@@ -38,7 +36,7 @@ The Board shall perform the following functions:
 
 &emsp;(3) Establish qualifications for students desiring scholarships or fellowships, and institutions of higher education desiring grants, under this chapter, including, in the case of students desiring a scholarship or fellowship, a requirement that the student have a demonstrated commitment to the study of the discipline for which the scholarship or fellowship is to be awarded.
 
-&emsp;(4) After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) of this title, make recommendations to the Secretary regarding—
+&emsp;(4) After taking into account the annual analyses of trends in language, international, area, and counterproliferation studies under section 1906(b)(1) of this title, make recommendations to the Secretary regarding—
 
 &emsp;&emsp;(A) which countries are not emphasized in other United States study abroad programs, such as countries in which few United States students are studying and countries which are of importance to the national security interests of the United States, and are, therefore, critical countries for the purposes of section 1902(a)(1)(A) of this title;
 
@@ -56,9 +54,23 @@ The Board shall perform the following functions:
 
 &emsp;(8) Review the administration of the program required under this chapter.
 
-(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666.)
+(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A,title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### Amendments
+
+1998—Subsec. (b)(6). Pub. L. 105–277, §1335(g)(1), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary of Energy.”
+
+Pub. L. 105–272, §305(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the United States Information Agency.”
+
+Subsec. (b)(7). Pub. L. 105–277, §1335(g)(1)(B), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+
+Subsec. (b)(8). Pub. L. 105–277, §1335(g)(1)(B), redesignated par. (8) as (7).
+
+Pub. L. 105–272, §305(a)(3), substituted “area, and counterproliferation” for “and area”.
+
+Subsec. (c). Pub. L. 105–277, §1335(g)(2), substituted “subsection (b)(6)” for “subsection (b)(7)”.
+
+Subsec. (d)(4). Pub. L. 105–272, §305(a)(3), substituted “area, and counterproliferation” for “and area” in introductory provisions.
 
 1996—Subsec. (d)(1). Pub. L. 104–201, §1078(e)(1), inserted before period at end “, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position”.
 
@@ -73,6 +85,10 @@ Subsec. (d)(5) to (8). Pub. L. 104–201, §1078(e)(3), (4), added pars. (5) to 
 1992—Subsec. (b)(7). Pub. L. 102–496, §404(d)(2), added par. (7). Former par. (7) redesignated (8).
 
 Subsec. (b)(8). Pub. L. 102–496, §404(d)(1), (3), redesignated par. (7) as (8), substituted “Six individuals” for “Four individuals”, and inserted before period at end “and who may not be officers or employees of the Federal Government”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
 
 #### Section Referred to in Other Sections
 

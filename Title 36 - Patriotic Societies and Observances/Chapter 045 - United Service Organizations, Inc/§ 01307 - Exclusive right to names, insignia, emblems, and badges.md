@@ -1,6 +1,0 @@
-### §1307. Exclusive right to names, insignia, emblems, and badges
-
-The corporation, its regional, State, and local councils, organizations, chapters, and affiliates shall have the sole and exclusive right to use the names “United Service Organizations, Incorporated” and “USO” and such distinctive insignia, emblems, and badges as the corporation may lawfully adopt in carrying out its purposes.
-
-(Pub. L. 96–165, §7, Dec. 29, 1979, 93 Stat. 1271.)
-

@@ -16,7 +16,7 @@ To effectuate the declared policy of section 6101(b) of this title, the Secretar
 
 #### (3) Issuance of order
 
-&emsp;After notice and opportunity for public comment are given, as provided in paragraph (2), the Secretary shall issue the order, taking into consideration the comments received andincluding in the order provisions necessary to ensure that the order is in conformity with the requirements of this chapter. Such order shall be issued and, if approved by producers and importers of mushrooms as provided in section 6105(a) of this title, shall become effective not later than 180 days following publication of the proposed order.
+&emsp;After notice and opportunity for public comment are given, as provided in paragraph (2), the Secretary shall issue the order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with the requirements of this chapter. Such order shall be issued and, if approved by producers and importers of mushrooms as provided in section 6105(a) of this title, shall become effective not later than 180 days following publication of the proposed order.
 
 #### (c) Amendments
 

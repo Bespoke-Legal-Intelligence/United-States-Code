@@ -12,3 +12,7 @@ As used in this chapter—
 
 1988—Pub. L. 100–618 renumbered section 2710 of this title as this section.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 13032.
+

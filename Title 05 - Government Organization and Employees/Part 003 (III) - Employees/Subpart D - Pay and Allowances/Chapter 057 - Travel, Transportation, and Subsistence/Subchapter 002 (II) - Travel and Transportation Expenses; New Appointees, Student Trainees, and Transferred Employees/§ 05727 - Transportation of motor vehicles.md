@@ -10,7 +10,7 @@
 
 (c) Under regulations prescribed under section 5738 of this title, the privately owned motor vehicle or vehicles of an employee, including a new appointee or a student trainee for whom travel and transportation expenses are authorized under section 5723 of this title, may be transported at Government expense to a new official station of the employee when the agency determines that such transport is advantageous and cost-effective to the Government.
 
-(d) An employee may transport only one motor vehicle under subsection (b) of this section during a 4-year period, except when the head of the agency concerned determines that replacement of the motor vehicle during the period is necessary for reasons beyond the control of the employee and is in the interest of the Government, and authorizes in advance the transportation under subsection (b) of this section of one additional privately owned motor vehicle as a replacement. When an employee has remained in continuous service outside the United States during the 4-year period after the date of transportation under subsection (b) of this section of his motor vehicle, the head of the agency concerned may authorize transportation under subsection (b) of this section of a replacement for that motor vehicle.
+(d) An employee may transport only one motor vehicle under subsection (b) of this section during a 4-year period, except when the head of the agency concerned determines that replacement of the motor vehicle during the period is necessary for reasons beyond the control of the employee and is in the interest of the Government, and authorizes in advance the transportation under subsection (b) of this section of one additional privately owned motor vehicle as a replacement. When an employee has remained in continuous service outside the continental United States during the 4-year period after the date of transportation under subsection (b) of this section of his motor vehicle, the head of the agency concerned may authorize transportation under subsection (b) of this section of a replacement for that motor vehicle.
 
 (e) When the head of an agency authorizes transportation under subsection (b) or (c) of this section of a privately owned motor vehicle, the transportation may be by—
 
@@ -26,7 +26,7 @@
 
 (2) This section, except subsection (a), does not affect section 403e(4) of title 50.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 96–465, title II, §2314(e), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 104–201, div. A, title XVII, §§1715(a), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 96–465, title II, §2314(e), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 104–201, div. A, title XVII, §§1715(a), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(7), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -58,13 +58,15 @@ Feb. 5, 1964, Pub. L. 88–266, 78 Stat. 8.
 
 In subsection (a), the proviso in former section 73c is omitted as superseded by section 2634 of title 10, and by former section 73b–1(f), which is carried into subsections (b)–(e).
 
-In subsection (b), the words “including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title” are substituted for “including any new appointee, in accordance with section 73b–3 of this title” for clarity and reflect the codification of former section 73b–3 in this title. The words “at Government expense” are inserted for clarity.
+In subsection (b), the words “including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title” are substituted for “including any new appointee, in accordance with section 73b–3 of this title” for clarity and reflect thecodification of former section 73b–3 in this title. The words “at Government expense” are inserted for clarity.
 
 The last sentence of subsection (f) of former section 73b–1 which provided that for the purposes of that subsection and subsection (e), which is carried into section 5726, Alaska shall be considered to be outside the continental limits of the United States is omitted as unnecessary in view of the definition of “continental United States” in section 5721(4).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–264 substituted “continental United States” for “United States”.
 
 1996—Subsec. (b). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 

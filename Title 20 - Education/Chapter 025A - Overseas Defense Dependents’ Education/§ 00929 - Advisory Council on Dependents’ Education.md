@@ -40,7 +40,7 @@ The Council shall meet at least two times each year. The functions of the Counci
 
 #### (d) Compensation, etc., of members
 
-Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while so serving on the business ofthe Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
+Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while so serving on the business of the Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
 
 #### (e) Termination
 

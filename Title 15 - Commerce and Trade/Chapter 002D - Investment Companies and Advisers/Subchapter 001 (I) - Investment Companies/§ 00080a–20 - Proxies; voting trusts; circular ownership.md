@@ -6,7 +6,7 @@ It shall be unlawful for any person, by use of the mails or any means or instrum
 
 #### (b) Prohibition on use of means of interstate commerce for sale of voting-trust certificates
 
-It shall be unlawful for any registered investment company or affiliated person thereof, any issuer of a voting-trust certificate relating toany security of a registered investment company, or any underwriter of such a certificate, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to offer for sale, sell, or deliver after sale, in connection with a public offering, any such voting-trust certificate.
+It shall be unlawful for any registered investment company or affiliated person thereof, any issuer of a voting-trust certificate relating to any security of a registered investment company, or any underwriter of such a certificate, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to offer for sale, sell, or deliver after sale, in connection with a public offering, any such voting-trust certificate.
 
 #### (c) Prohibition on purchase of securities knowingly resulting in cross-ownership or circular ownership
 
@@ -20,7 +20,7 @@ No registered investment company shall purchase any voting security if, to the k
 
 If cross-ownership or circular ownership between a registered investment company and any other company or companies comes into existence upon the purchase by a registered investment company of the securities of another company, it shall be the duty of such registered company, within one year after it first knows of the existence of such cross-ownership or circular ownership, to eliminate the same.
 
-(Aug. 22, 1940, ch. 686, title I, §20, 54 Stat. 822; Dec. 4, 1987, Pub. L. 100–181, title VI, §614, 101 Stat. 1262.)
+(Aug. 22, 1940, ch. 686, title I, §20, 54 Stat. 822; Pub. L. 100–181, title VI, §614, Dec. 4, 1987, 101 Stat. 1262.)
 
 #### Amendments
 

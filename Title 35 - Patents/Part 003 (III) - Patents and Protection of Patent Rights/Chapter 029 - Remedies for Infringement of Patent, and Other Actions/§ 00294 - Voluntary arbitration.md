@@ -14,7 +14,7 @@
 
 #### Effective Date
 
-Section 17(c) of Pub. L. 97–247 provided that: “Sections 5, 6, 8 through 12, and 17(b) of this Act \[enacting this section and amending sections 21, 111, 116, and 256 of this title and sections 1058, 1063, 1064, 1065, and 1066 of Title 15, Commerce and Trade\] shall take effect six months after enactment \[Aug. 27, 1982\].”
+Section 17(c) of Pub. L. 97–247 provided that: “Sections 5, 6, 8 through 12, and 17(b) of this Act \[enactingthis section and amending sections 21, 111, 116, and 256 of this title and sections 1058, 1063, 1064, 1065, and 1066 of Title 15, Commerce and Trade\] shall take effect six months after enactment \[Aug. 27, 1982\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

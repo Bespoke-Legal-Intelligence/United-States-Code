@@ -6,7 +6,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 &emsp;(1) to each representative of the affected employees as of the time of the notice or, if there is no such representative at that time, to each affected employee; and
 
-&emsp;(2) to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act \[29 U.S.C. 1651 et seq.\]) and the chief elected official of the unit of local government within which such closing or layoff is to occur.
+&emsp;(2) to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief elected official of the unit of local government within which such closing or layoff is to occur.
 
 > If there is more than one such unit, the unit of local government which the employer shall notify is the unit of local government to which the employer pays the highest taxes for the year preceding the year for which the determination is made.
 
@@ -16,7 +16,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 (2)(A) An employer may order a plant closing or mass layoff before the conclusion of the 60-day period if the closing or mass layoff is caused by business circumstances that were not reasonably foreseeable as of the time that notice would have been required.
 
-(B) No notice under this chapter shall be required if the plant closing or mass layoff is dueto any form of natural disaster, such as a flood, earthquake, or the drought currently ravaging the farmlands of the United States.
+(B) No notice under this chapter shall be required if the plant closing or mass layoff is due to any form of natural disaster, such as a flood, earthquake, or the drought currently ravaging the farmlands of the United States.
 
 (3) An employer relying on this subsection shall give as much notice as is practicable and at that time shall give a brief statement of the basis for reducing the notification period.
 
@@ -32,11 +32,19 @@ A layoff of more than 6 months which, at its outset, was announced to be a layof
 
 For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses are the result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
 
-(Pub. L. 100–379, §3, Aug. 4, 1988, 102 Stat. 891.)
+(Pub. L. 100–379, §3, Aug. 4, 1988, 102 Stat. 891; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(26), (f)(18)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432.)
 
-#### References in Text
+#### Amendment of Subsection (a)(2)
 
-The Job Training Partnership Act, referred to in subsec. (a)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Title III of the Act is classified generally to subchapter III (§1651 et seq.) of chapter 19 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(18), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–432, 2681–435, provided that, effective July 1, 2000, subsection (a)(2) of this section is amended by striking “the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or”.</i>
+
+#### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(26)\], substituted “to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(26)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(18)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

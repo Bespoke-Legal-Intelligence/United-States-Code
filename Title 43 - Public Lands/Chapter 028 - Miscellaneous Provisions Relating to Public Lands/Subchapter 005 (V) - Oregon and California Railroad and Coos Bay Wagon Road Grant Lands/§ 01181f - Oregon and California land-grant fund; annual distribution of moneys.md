@@ -2,7 +2,7 @@
 
 On and after March 1, 1938, all moneys deposited in the Treasury of the United States in the special fund designated the “Oregon and California land-grant fund” shall be distributed annually as follows:
 
-(a) Fifty per centum to the counties in which the lands revested under the Act of June 9, 1916 (39 Stat. 218), are situated, to be payable on or after June 30, 1938, and each year thereafter to each of said counties in the proportion that the total assessed value of the Oregon and California grant lands in each of said counties for the year 1915 bears to the total assessed value of all of said lands in the State of Oregon for said year, such moneys to be used as other county funds: <i>Provided, however</i>, That for the purposes of this subsection the portion of the said revested Oregon and California railroad grant lands in each of said counties which was not assessed for the year 1915 shall be deemed to have been assessed at the average assessed value of the grant lands in said county.
+(a) Fifty per centum to the counties in which the lands revested under the Act of June 9, 1916 (39 Stat. 218), are situated, to be payable on or after June 30, 1938, and each year thereafter to each of said counties in the proportion that thetotal assessed value of the Oregon and California grant lands in each of said counties for the year 1915 bears to the total assessed value of all of said lands in the State of Oregon for said year, such moneys to be used as other county funds: <i>Provided, however</i>, That for the purposes of this subsection the portion of the said revested Oregon and California railroad grant lands in each of said counties which was not assessed for the year 1915 shall be deemed to have been assessed at the average assessed value of the grant lands in said county.
 
 (b) Twenty-five per centum to said counties as money in lieu of taxes accrued or which shall accrue to them prior to March 1, 1938, under the provisions of the Act of July 13, 1926 (44 Stat. 915), and which taxes are unpaid on said date, such moneys to be paid to said counties severally by the Secretary of the Treasury of the United States, upon certification by the Secretary of the Interior, until such tax indebtedness as shall have accrued prior to March 1, 1938, is extinguished.
 
@@ -62,7 +62,7 @@ Payments.—
 
 &emsp;“(1)
 
-In general.—In lieu of making the 50-percent payments to counties, the Secretary of the Treasuryshall make payments, out of any money in the Treasury not otherwise appropriated, to counties that are eligible to receive the 50-percent payments as of the date of enactment of this Act \[Aug. 10, 1993\] in accordance with paragraph (2).
+In general.—In lieu of making the 50-percent payments to counties, the Secretary of the Treasury shall make payments, out of any money in the Treasury not otherwise appropriated, to counties that are eligible to receive the 50-percent payments as of the date of enactment of this Act \[Aug. 10, 1993\] in accordance with paragraph (2).
 
 &emsp;“(2)
 

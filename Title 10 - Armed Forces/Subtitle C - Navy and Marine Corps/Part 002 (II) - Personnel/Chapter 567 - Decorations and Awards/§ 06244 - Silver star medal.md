@@ -8,7 +8,7 @@ The President may award a silver star medal of appropriate design, with ribbons 
 
 &emsp;(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 389; July 25, 1963, Pub. L. 88–77, §2(3), 77 Stat. 94.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 389; Pub. L. 88–77, §2(3), July 25, 1963, 77 Stat. 94.)
 
 Historical and Revision Notes
 

@@ -1,0 +1,174 @@
+### §418. Reorganization status
+
+#### (a) General rule
+
+A multiemployer plan is in reorganization for a plan year if the plan's reorganization index for that year is greater than zero.
+
+#### (b) Reorganization index
+
+For purposes of this subpart—
+
+#### (1) In general
+
+&emsp;A plan's reorganization index for any plan year is the excess of—
+
+&emsp;&emsp;(A) the vested benefits charge for such year, over
+
+&emsp;&emsp;(B) the net charge to the funding standard account for such year.
+
+#### (2) Net charge to funding standard account
+
+&emsp;The net charge to the funding standard account for any plan year is the excess (if any) of—
+
+&emsp;&emsp;(A) the charges to the funding standard account for such year under section 412(b)(2), over
+
+&emsp;&emsp;(B) the credits to the funding standard account under section 412(b)(3)(B).
+
+#### (3) Vested benefits charge
+
+&emsp;The vested benefits charge for any plan year is the amount which would be necessary to amortize the plan's unfunded vested benefits as of the end of the base plan year in equal annual installments—
+
+&emsp;&emsp;(A) over 10 years, to the extent such benefits are attributable to persons in pay status, and
+
+&emsp;&emsp;(B) over 25 years, to the extent such benefits are attributable to other participants.
+
+#### (4) Determination of vested benefits charge
+
+#### (A) In general
+
+&emsp;&emsp;The vested benefits charge for a plan year shall be based on an actuarial valuation of the plan as of the end of the base plan year, adjusted to reflect—
+
+&emsp;&emsp;&emsp;(i) any—
+
+&emsp;&emsp;&emsp;&emsp;(I) decrease of 5 percent or more in the value of plan assets, or increase of 5 percent or more in the number of persons in pay status, during the period beginning on the first day of the plan year following the base plan year and ending on the adjustment date, or
+
+&emsp;&emsp;&emsp;&emsp;(II) at the election of the plan sponsor, actuarial valuation of the plan as of the adjustment date or any later date not later than the last day of the plan year for which the determination is being made,
+
+&emsp;&emsp;&emsp;(ii) any change in benefits under the plan which is not otherwise taken into account under this subparagraph and which is pursuant to any amendment—
+
+&emsp;&emsp;&emsp;&emsp;(I) adopted before the end of the plan year for which the determination is being made, and
+
+&emsp;&emsp;&emsp;&emsp;(II) effective after the end of the base plan year and on or before the end of the plan year referred to in subclause (I), and
+
+&emsp;&emsp;&emsp;(iii) any other event (including an event described in subparagraph (B)(i)(I)) which, as determined in accordance with regulations prescribed by the Secretary, would substantially increase the plan's vested benefit charge.
+
+#### (B) Certain changes in benefit levels
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In determining the vested benefits charge for a plan year following a plan year in which the plan was not in reorganization, any change in benefits which—
+
+&emsp;&emsp;&emsp;&emsp;(I) results from the changing of a group of participants from one benefit level to another benefit level under a schedule of plan benefits as a result of changes in a collective bargaining agreement, or
+
+&emsp;&emsp;&emsp;&emsp;(II) results from any other change in a collective bargaining agreement,
+
+&emsp;&emsp;&nbsp;shall not be taken into account except to the extent provided in regulations prescribed by the Secretary.
+
+#### (ii) Plan in reorganization
+
+&emsp;&emsp;&emsp;Except as otherwise determined by the Secretary, in determining the vested benefits charge for any plan year following any plan year in which the plan was in reorganization, any change in benefits—
+
+&emsp;&emsp;&emsp;&emsp;(I) described in clause (i)(I), or
+
+&emsp;&emsp;&emsp;&emsp;(II) described in clause (i)(II) as determined under regulations prescribed by the Secretary,
+
+&emsp;&emsp;&nbsp;shall, for purposes of subparagraph (A)(ii), be treated as a change in benefits pursuant to an amendment to a plan.
+
+#### (5) Base plan year
+
+#### (A) In general
+
+&emsp;&emsp;The base plan year for any plan year is—
+
+&emsp;&emsp;&emsp;(i) if there is a relevant collective bargaining agreement, the last plan year ending at least 6 months before the relevant effective date, or
+
+&emsp;&emsp;&emsp;(ii) if there is no relevant collective bargaining agreement, the last plan year ending at least 12 months before the beginning of the plan year.
+
+#### (B) Relevant collective bargaining agreement
+
+&emsp;&emsp;A relevant collective bargaining agreement is a collective bargaining agreement—
+
+&emsp;&emsp;&emsp;(i) which is in effect for at least 6 months during the plan year, and
+
+&emsp;&emsp;&emsp;(ii) which has not been in effect for more than 36 months as of the end of the plan year.
+
+#### (C) Relevant effective date
+
+&emsp;&emsp;The relevant effective date is the earliest of the effective dates for the relevant collective bargaining agreements.
+
+#### (D) Adjustment date
+
+&emsp;&emsp;The adjustment date is the date which is—
+
+&emsp;&emsp;&emsp;(i) 90 days before the relevant effective date, or
+
+&emsp;&emsp;&emsp;(ii) if there is no relevant effective date, 90 days before the beginning of the plan year.
+
+#### (6) Person in pay status
+
+&emsp;The term “person in pay status” means—
+
+&emsp;&emsp;(A) a participant or beneficiary on the last day of the base plan year who, at any time during such year, was paid an early, late, normal, or disability retirement benefit (or a death benefit related to a retirement benefit), and
+
+&emsp;&emsp;(B) to the extent provided in regulations prescribed by the Secretary, any other person who is entitled to such a benefit under the plan.
+
+#### (7) Other definitions and special rules
+
+#### (A) Unfunded vested benefits
+
+&emsp;&emsp;The term “unfunded vested benefits” means, in connection with a plan, an amount (determined in accordance with regulations prescribed by the Secretary) equal to—
+
+&emsp;&emsp;&emsp;(i) the value of vested benefits under the plan, less
+
+&emsp;&emsp;&emsp;(ii) the value of the assets of the plan.
+
+#### (B) Vested benefits
+
+&emsp;&emsp;The term “vested benefits” means any nonforfeitable benefit (within the meaning of section 4001(a)(8) of the Employee Retirement Income Security Act of 1974).
+
+#### (C) Allocation of assets
+
+&emsp;&emsp;In determining the plan's unfunded vested benefits, plan assets shall first be allocated to the vested benefits attributable to persons in pay status.
+
+#### (D) Treatment of certain benefit reductions
+
+&emsp;&emsp;The vested benefits charge shall be determined without regard to reductions in accrued benefits under section 418D which are first effective in the plan year.
+
+#### (E) Withdrawal liability
+
+&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not be considered a plan asset, except as otherwise provided in regulations prescribed by the Secretary.
+
+#### (c) Prohibition of nonannuity payments
+
+Except as provided in regulations prescribed by the Pension Benefit Guaranty Corporation, while a plan is in reorganization a benefit with respect to a participant (other than a death benefit) which is attributable to employer contributions and which has a value of more than $1,750 may not be paid in a form other than an annuity which (by itself or in combination with social security, railroad retirement, or workers’ compensation benefits) provides substantially level payments over the life of the participant.
+
+#### (d) Terminated plans
+
+Any multiemployer plan which terminates under section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974 shall notbe considered in reorganization after the last day of the plan year in which the plan is treated as having terminated.
+
+(Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1271.)
+
+#### References in Text
+
+Section 4001(a)(8) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(B), is classified to section 1301(a)(8) of Title 29, Labor.
+
+Section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (d), is classified to section 1341a(a)(2) of Title 29.
+
+#### Effective Date
+
+Section 210 of title II of Pub. L. 96–364 provided that:
+
+“(a) Except as otherwise provided in this section, the amendments made by this title \[amending sections 401, 404, 411 to 414, 4971, and 4975 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 26, 1980\].
+
+“(b) Subpart C of part I of subchapter D of chapter 1 of such Code (as added by this Act) \[sections 418 to 418E of this title\] shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+
+&emsp;“(1) the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on the date of the enactment of this Act \[Sept. 26, 1980\], expires, without regard to extensions agreed to after such date of enactment, or
+
+&emsp;“(2) 3 years after the date of the enactment of this Act \[Sept. 26, 1980\].
+
+“(c) The amendments made by section 209 \[enacting section 194 of this title, and amending sections 501 and 4975 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Sept. 26, 1980\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 418B, 418E, 4971 of this title.
+

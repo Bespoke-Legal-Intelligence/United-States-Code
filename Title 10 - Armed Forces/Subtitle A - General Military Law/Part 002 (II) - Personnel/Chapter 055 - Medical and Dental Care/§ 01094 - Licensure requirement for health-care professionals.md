@@ -1,6 +1,6 @@
 ### §1094. Licensure requirement for health-care professionals
 
-(a)(1) A person under the jurisdiction of the Secretary of a military department may not provide health care independently as a health-care professional under this chapter unless the person has a current license to provide such care.
+(a)(1) A person under the jurisdiction of the Secretary of a military department may not provide health care independently as a health-care professional under this chapter unless the person has a current license to provide such care. In the case of a physician, the physician may not provide health care as a physician under this chapter unless the current license is an unrestricted license that is not subject to limitation on the scope of practice ordinarily granted to other physicians for a similar specialty by the jurisdiction that granted the license.
 
 (2) The Secretary of Defense may waive paragraph (1) with respect to any person in unusual circumstances. The Secretary shall prescribe by regulation the circumstances under which such a waiver may be granted.
 
@@ -32,9 +32,11 @@
 
 &emsp;(2) The term “health-care professional” means a physician, dentist, clinical psychologist, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
 
-(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814.)
+(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §734(a), Oct. 17, 1998, 112 Stat. 2072.)
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–261 inserted at end “In the case of a physician, the physician may not provide health care as a physician under this chapter unless the current license is an unrestricted license that is not subject to limitation on the scope of practice ordinarily granted to other physicians for a similar specialty by the jurisdiction that granted the license.”
 
 1997—Subsecs. (d), (e). Pub. L. 105–85 added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -45,6 +47,10 @@ Subsec. (d)(1). Pub. L. 101–189, §1622(e)(3)(A), substituted “The term ‘l
 Subsec. (d)(2). Pub. L. 101–189, §1622(e)(3)(B), substituted “The term ‘health-care” for “ ‘Health-care”.
 
 1986—Subsec. (d)(2). Pub. L. 99–661 realigned margin of par. (2) to conform to margin of par. (1).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title VII, §734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999.”
 
 #### Effective Date
 

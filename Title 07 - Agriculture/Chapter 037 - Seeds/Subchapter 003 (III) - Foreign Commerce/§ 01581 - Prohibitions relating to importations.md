@@ -18,7 +18,7 @@ The importation into the United States is prohibited of—
 
 &emsp;&emsp;(D) A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
-(Aug. 9, 1939, ch. 615, title III, §301, 53 Stat. 1282; Aug. 1, 1958, Pub. L. 85–581, §12, 72 Stat. 478; Oct. 15, 1966, Pub. L. 89–686, §§13, 14, 80 Stat. 978; Jan. 8, 1983, Pub. L. 97–439, §5(b)(1), 96 Stat. 2288; Dec. 8, 1994, Pub. L. 103–465, title IV, §441(1), 108 Stat. 4973.)
+(Aug. 9, 1939, ch. 615, title III, §301, 53 Stat. 1282; Pub. L. 85–581, §12, Aug. 1, 1958, 72 Stat. 478; Pub. L. 89–686, §§13, 14, Oct. 15, 1966, 80 Stat. 978; Pub. L. 97–439, §5(b)(1), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, §441(1), Dec. 8, 1994, 108 Stat. 4973.)
 
 #### Amendments
 

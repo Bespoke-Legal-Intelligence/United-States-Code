@@ -9,11 +9,9 @@
 | [1755\.](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md) | Direct expenditures for agricultural commodities and other foods. |
 | (a) | Administrative expenses; nutritional education; pilot projects; cash-in-lieu of commodities study; refusal of commodities and receipt of other commodities available to the State in lieu of the refused commodities. |
 | (b) | Delivery of commodities. |
-| (c) | Interim source of funds, pending supplemental appropriation of additional funds for carrying out subsection (b). |
-| (d) | State matching provisions inapplicable to subsection (b) or (c) funds. |
-| (e) | Level of commodity assistance; computation of index; calculation of total assistance to each State; emphasis on high protein foods; per meal value of donated foods. |
-| (f) | Termination of commodity assistance based upon school breakfast program. |
-| (g) | Minimum percentage of commodity assistance. |
+| (c) | Level of commodity assistance; computation of index; calculation of total assistance to each State; emphasis on high protein foods; per meal value of donated foods. |
+| (d) | Termination of commodity assistance based upon school breakfast program. |
+| (e) | Minimum percentage of commodity assistance. |
 | [1756\.](%C2%A7%2001756%20-%20Payments%20to%20States.md) | Payments to States. |
 | (a) | State revenue matching requirements; special provisions for lower than average income per capita States. |
 | (b) | Disbursements; private schools. |
@@ -35,6 +33,8 @@
 | (e) | Limitation on meal contracting. |
 | (f) | Nutritional requirements. |
 | (g) | Justification of production records; paperwork reduction. |
+| (h) | Food safety inspections. |
+| (i) | Single permanent agreement between State agency and school food authority; common claims form. |
 | [1759\.](%C2%A7%2001759%20-%20Direct%20disbursement%20to%20schools%20by%20Secretary.md) | Direct disbursement to schools by Secretary. |
 | [1759a.](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md) | Special assistance funds. |
 | (a) | Formula for computation of payments; computation for lunches to eligible children in schools funding service to ineligible children from non-Federal sources; special assistance factors; annual adjustments. |
@@ -42,6 +42,7 @@
 | (c) | Payments to States. |
 | (d) | Report of school to State educational agency, contents; report of State educational agency to Secretary, contents. |
 | (e) | Eligibility of commodity only schools for special assistance payments; free and reduced price meals; discrimination and identification prohibited. |
+| (f) | Information and assistance concerning reimbursement options. |
 | [1760\.](%C2%A7%2001760%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
 | (a) | Accounts and records. |
 | (b) | Agreements with State educational agencies. |
@@ -56,6 +57,8 @@
 | (k) | Expedited rulemaking. |
 | (<i>l</i>) | Waiver of statutory and regulatory requirements. |
 | (m) | Food and nutrition projects. |
+| (n) | Buy American. |
+| (<i>o</i>) | Procurement contracts. |
 | [1761\.](%C2%A7%2001761%20-%20Summer%20food%20service%20programs%20for%20children%20in%20service%20institutions.md) | Summer food service programs for children in service institutions. |
 | (a) | Assistance to States; definitions; facilities to be used; eligible service institutions; order of priority in participation; assistance to rural area eligible service institutions to participate in the programs; reimbursement of camps, limitations, local, municipal and county institutions to be run by government; eligible private nonprofit organizations. |
 | (b) | Service institutions. |
@@ -102,31 +105,22 @@
 | (n) | Authorization of appropriations. |
 | (<i>o</i>) | Participation of older persons and chronically impaired disabled persons. |
 | (p) | Demonstration projects for qualification under this section of private for-profit organizations providing nonresidential day care services. |
+| (q) | Management support. |
+| (r) | Program for at-risk school children. |
+| (s) | Information concerning the special supplemental nutrition program for women, infants, and children. |
+| (t) | Participation by emergency shelters. |
 | [1766a.](%C2%A7%2001766a%20-%20Meal%20supplements%20for%20children%20in%20afterschool%20care.md) | Meal supplements for children in afterschool care. |
 | (a) | General authority. |
 | (b) | Eligible children. |
 | (c) | Reimbursement. |
 | (d) | Contents of supplements. |
-| [1766b.](%C2%A7%2001766b%20-%20Homeless%20children%20nutrition%20program.md) | Homeless children nutrition program. |
-| (a) | In general. |
-| (b) | Agreements to participate in projects. |
-| (c) | Project requirements. |
-| (d) | Funding priorities. |
-| (e) | Notice. |
-| (f) | Plan to allow participation in child and adult care food program. |
-| (g) | Funding. |
-| (h) | “Emergency shelter” defined. |
-| 1767, 1768. Repealed. |  |
+| 1766b to 1768. Repealed. |  |
 | [1769\.](%C2%A7%2001769%20-%20Pilot%20projects.md) | Pilot projects. |
 | (a) | Pilot projects for administration of child nutrition programs by contract or direct disbursement. |
 | (b) | Extension of eligibility of certain school districts to receive cash or commodity letters of credit assistance for school lunch programs. |
-| (c) | Demonstration program for prevention of boarder babies. |
-| (d) | Alternative counting and claiming procedures. |
-| (e) | Demonstration program to provide meals and supplements outside of school hours. |
-| (f) | Fortified fluid milk. |
-| (g) | Increased choices of fruits, vegetables, legumes, cereals, and grain-based products. |
-| (h) | Increased choices of lowfat dairy products and lean meat and poultry products. |
-| (i) | Reduced paperwork and application requirements and increased participation pilots. |
+| (c) | Alternative counting and claiming procedures. |
+| (d) | Fortified fluid milk. |
+| (e) | Breakfast pilot projects. |
 | [1769a.](%C2%A7%2001769a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7710%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md) | Repealed. |
 | [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | (a) | Purpose of program; availability of payments and commodities. |
@@ -159,16 +153,16 @@
 | (b) | Nongovernmental organization. |
 | (c) | Audits. |
 | (d) | Funding. |
-| [1769h.](%C2%A7%2001769h%20-%20Guidance%20and%20grants%20for%20accommodating%20special%20dietary%20needs%20of%20children%20with%20disabilities.md) | Guidance and grants for accommodating special dietary needs of children with disabilities. |
+| [1769h.](%C2%A7%2001769h%20-%20Accommodation%20of%20the%20special%20dietary%20needs%20of%20individuals%20with%20disabilities.md) | Accommodation of the special dietary needs of individuals with disabilities. |
 | (a) | Definitions. |
-| (b) | Guidance. |
-| (c) | Grants. |
+| (b) | Activities. |
+| (c) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 1779, 1782, 1785, 9858m of this title; title 7 sections 1431c, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 1070a–23, 2341, 6313; title 26 section 1397E; title 31 section 3803; title 40 section 474; title 48 section 1666.
+This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 1779, 1782, 1785, 9858m of this title; title 7 sections 1431c, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 1070a–22, 1070a–24, 1070a–26, 6313; title 26 section 1397E; title 31 section 3803; title 40 section 474; title 48 section 1666.
 
 
 ---
@@ -194,7 +188,7 @@ This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 17
 - [&sect; 01765 - Election to receive cash payments](%C2%A7%2001765%20-%20Election%20to%20receive%20cash%20payments.md)
 - [&sect; 01766 - Child and adult care food program](%C2%A7%2001766%20-%20Child%20and%20adult%20care%20food%20program.md)
 - [&sect; 01766a - Meal supplements for children in afterschool care](%C2%A7%2001766a%20-%20Meal%20supplements%20for%20children%20in%20afterschool%20care.md)
-- [&sect; 01766b - Homeless children nutrition program](%C2%A7%2001766b%20-%20Homeless%20children%20nutrition%20program.md)
+- [&sect; 01766b - Repealed. Pub. L. 105&#8211;336, title I, &sect;107(j)(2)(C)(i), Oct. 31, 1998, 112 Stat. 3153](%C2%A7%2001766b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93336%2C%20title%20I%2C%20%C2%A7107%28j%29%282%29%28C%29%28i%29%2C%20Oct.%2031%2C%201998%2C%20112%20Stat.%203153.md)
 - [&sect; 01767, 1768 - Repealed. Pub. L. 99&#8211;500, title III, &sect;371(a)(1), Oct. 18, 1986, 100 Stat. 1783&#8211;368, and Pub. L. 99&#8211;591, title III&#8230;](%C2%A7%2001767%2C%201768%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93500%2C%20title%20III%2C%20%C2%A7371%28a%29%281%29%2C%20Oct.%2018%2C%201986%2C%20100%20Stat.%201783%E2%80%93368%2C%20and%20Pub.%20L.%2099%E2%80%93591%2C%20title%20III%E2%80%A6.md)
 - [&sect; 01769 - Pilot projects](%C2%A7%2001769%20-%20Pilot%20projects.md)
 - [&sect; 01769a - Repealed. Pub. L. 104&#8211;193, title VII, &sect;710, Aug. 22, 1996, 110 Stat. 2301](%C2%A7%2001769a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7710%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md)
@@ -204,4 +198,4 @@ This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 17
 - [&sect; 01769d, 1769e - Repealed. Pub. L. 104&#8211;193, title VII, &sect;&sect;711, 712, Aug. 22, 1996, 110 Stat. 2301](%C2%A7%2001769d%2C%201769e%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7%C2%A7711%2C%20712%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md)
 - [&sect; 01769f - Duties of Secretary relating to nonprocurement debarment](%C2%A7%2001769f%20-%20Duties%20of%20Secretary%20relating%20to%20nonprocurement%20debarment.md)
 - [&sect; 01769g - Information clearinghouse](%C2%A7%2001769g%20-%20Information%20clearinghouse.md)
-- [&sect; 01769h - Guidance and grants for accommodating special dietary needs of children with disabilities](%C2%A7%2001769h%20-%20Guidance%20and%20grants%20for%20accommodating%20special%20dietary%20needs%20of%20children%20with%20disabilities.md)
+- [&sect; 01769h - Accommodation of the special dietary needs of individuals with disabilities](%C2%A7%2001769h%20-%20Accommodation%20of%20the%20special%20dietary%20needs%20of%20individuals%20with%20disabilities.md)

@@ -1,6 +1,6 @@
 ### §455. Study of battlefields for commemorative purposes
 
-The Secretary of the Army is authorized to have made studies and investigations and, where necessary, surveys of all battlefields within the continental limits of the United States whereon troops of the United States or of the original thirteen colonies have been engaged against a common enemy, with a view to preparing a general plan and such detailed projects as may be required for properly commemorating such battlefields or other adjacent points of historic and military interest.
+The Secretary of the Army is authorized to have made studies and investigations and, where necessary, surveys of all battlefields within the continental limits of the United States whereon troops of the United States or of the original thirteen colonies have been engaged against acommon enemy, with a view to preparing a general plan and such detailed projects as may be required for properly commemorating such battlefields or other adjacent points of historic and military interest.
 
 (June 11, 1926, ch. 555, §1, 44 Stat. 726; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

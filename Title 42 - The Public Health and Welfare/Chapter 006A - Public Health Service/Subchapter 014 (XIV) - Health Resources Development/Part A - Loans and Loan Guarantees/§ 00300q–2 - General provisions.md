@@ -26,7 +26,7 @@
 
 #### (c) Sale of loans; authority; amount; agreements with purchasers; deposit of proceeds
 
-(1) The Secretary shall from time to time, but with due regard to the financial interests of theUnited States, sell loans made under this part either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
+(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans made under this part either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
 
 (2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loans as of time of sale.
 
@@ -42,7 +42,7 @@
 
 &emsp;(ii) may provide for the repurchase by the Secretary of any such loan on such terms and conditions as may be specified in the agreement;
 
-&emsp;(iii) shall provide that, in the event of any default by the entity to which such loan was made in payment of principal or interest due on such loan, the Secretary shall, upon notification to the purchaser (or to the successor in interest of such purchaser), have the option to close out such loan (and any obligations of the Secretary with respect thereto) by paying to the purchaser (or his successor in interest) the total amount of outstanding principal and interest due thereon at the time of such notification; and
+&emsp;(iii) shall provide that, in the event of any default by the entity to which such loan wasmade in payment of principal or interest due on such loan, the Secretary shall, upon notification to the purchaser (or to the successor in interest of such purchaser), have the option to close out such loan (and any obligations of the Secretary with respect thereto) by paying to the purchaser (or his successor in interest) the total amount of outstanding principal and interest due thereon at the time of such notification; and
 
 &emsp;(iv) shall provide that, in the event such loan is closed out as provided in clause (iii), or in the event of any other loss incurred by the Secretary by reason of the failure of such entity to make payments of principal or interest on such loan, the Secretary shall be subrogated to all rights of such purchaser for recovery of such loss from such entity.
 
@@ -96,7 +96,7 @@
 
 (2) The Secretary may take such action, consistent with State law respecting foreclosure procedures, as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this part or under subchapter IV of this chapter, including selling real property pledged as security for such a loan or loan guarantee and for a reasonable period of time taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
-(July 1, 1944, ch. 373, title XVI, §1602, formerly §1622, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2265; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(x)(2), (y), 91 Stat. 385; renumbered §1602 and amended Oct. 4, 1979, Pub. L. 96–79, title II, §§201(b)(2), (3), 203(a)(1), (3), (g), 93 Stat. 631, 635; Jan. 4, 1983, Pub. L. 97–414, §8(q), 96 Stat. 2062; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095.)
+(July 1, 1944, ch. 373, title XVI, §1602, formerly §1622, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2265; amended Pub. L. 95–83, title I, §106(x)(2), (y), Aug. 1, 1977, 91 Stat. 385; renumbered §1602 and amended Pub. L. 96–79, title II, §§201(b)(2), (3), 203(a)(1), (3), (g), Oct. 4, 1979, 93 Stat. 631, 635; Pub. L. 97–414, §8(q), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 

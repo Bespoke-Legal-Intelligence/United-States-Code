@@ -134,7 +134,7 @@
 
 #### (A) 90-day period before second anniversary
 
-&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) of this section must be filed during the 90-day period before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
+&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) ofthis section must be filed during the 90-day period before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
 
 #### (B) Date petitions for good cause
 
@@ -150,7 +150,7 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the UnitedStates as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Treatment of certain waivers
 
@@ -176,7 +176,7 @@ In this section:
 
 &emsp;(4) The term “petitioning spouse” means the spouse of a qualifying marriage, other than the alien.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Nov. 10, 1986, Pub. L. 99–639, §2(a), 100 Stat. 3537; amended Oct. 24, 1988, Pub. L. 100–525, §7(a), 102 Stat. 2616; Nov. 29, 1990, Pub. L. 101–649, title VII, §701(a), 104 Stat. 5085; Dec. 12, 1991, Pub. L. 102–232, title III, §302(e)(8)(B), 105 Stat. 1746; Sept. 13, 1994, Pub. L. 103–322, title IV, §40702(a), 108 Stat. 1955; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), 110 Stat. 3009–618, 3009–620, 3009–621.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621.)
 
 #### Codification
 

@@ -54,7 +54,7 @@ The duty-free treatment provided under this chapter shall not apply to—
 
 #### (c) Duty reductions for certain goods
 
-(1) Subject to paragraph (2), the President shall proclaim reductions in the rates of duty on handbags, luggage, flat goods, work gloves, and leather wearing apparel that—
+(1) Subject to paragraph (2), the President shall proclaim reductions in the rates of duty onhandbags, luggage, flat goods, work gloves, and leather wearing apparel that—
 
 &emsp;(A) are the product of any beneficiary country; and
 

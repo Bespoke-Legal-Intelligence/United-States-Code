@@ -40,7 +40,7 @@
 
 (1) It is the intent of the Congress that—
 
-&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administration shall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as “prelitigation cases”, unless such an action is found not to be warranted;
+&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administrationshall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as “prelitigation cases”, unless such an action is found not to be warranted;
 
 &emsp;(B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) of this section to apply to any such case;
 
@@ -72,7 +72,7 @@ Any review of a final agency action determined under section 7193 or 7194 of tit
 
 &emsp;(B) maintain for the remainder of the program an adequate mix of lawyers, auditors, technical, clerical, and administrative personnel.
 
-(2) By July 1, 1987, and by July 1 of each year thereafter, the Administrator of the EconomicRegulatory Administration shall provide to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate the full-time equivalent level necessary for such compliance program for the next fiscal year and the basis for that level.
+(2) By July 1, 1987, and by July 1 of each year thereafter, the Administrator of the Economic Regulatory Administration shall provide to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate the full-time equivalent level necessary for such compliance program for the next fiscal year and the basis for that level.
 
 (3) The Secretary shall, in any fiscal year, provide a notice of at least 30 days to such Committees before initiating any reduction of force at the Economic Regulatory Administration. Such notice shall provide at least—
 
@@ -91,8 +91,6 @@ Any review of a final agency action determined under section 7193 or 7194 of tit
 The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
-
-#### Codification
 
 This chapter, referred to in subsec. (b)(3), was in the original “this Act”, which was translated as meaning this subtitle, which enacted this chapter, to reflect the probable intent of Congress.
 

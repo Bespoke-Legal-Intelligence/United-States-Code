@@ -12,7 +12,7 @@ Publication of Notice.—If, after considering the report of a convener or condu
 
 &emsp;(4) a list of the persons proposed to represent such interests and the person or persons proposed to represent the agency;
 
-&emsp;(5) a proposed agenda and schedule for completing the work of the committee, including a target date for publication by the agency of a proposed rule for notice and comment;
+&emsp;(5) a proposed agenda and schedule for completing the work of the committee, includinga target date for publication by the agency of a proposed rule for notice and comment;
 
 &emsp;(6) a description of administrative support for the committee to be provided by the agency, including technical assistance;
 
@@ -44,7 +44,7 @@ Period for Submission of Comments and Applications.—The agency shall provide f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 565 of this title; title 25 section 4116.
+This section is referred to in section 565 of this title; title 25 section 4116; title 42 section 1395w–26.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “on”.</i>
 

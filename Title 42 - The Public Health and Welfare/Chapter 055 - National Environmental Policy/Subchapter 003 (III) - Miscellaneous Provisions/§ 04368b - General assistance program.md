@@ -32,7 +32,7 @@ For purposes of this section:
 
 #### (e) No reduction in amounts
 
-In no case shall the award of a general assistance grant to an Indian tribal government or intertribal consortium under this section result in a reduction of Environmental Protection Agency grants for environmental programs to that tribal government or consortium. Nothing in this section shall preclude an Indian tribal government or intertribal consortium from receiving individual media grants or cooperative agreements. Funds provided by the Environmental Protection Agency through the general assistance program shall be used by an Indian tribal government or intertribal consortium to supplement other funds provided by the Environmental Protection Agency through individual media grants or cooperative agreements.
+In no case shall the award of a general assistance grant to an Indian tribal government or intertribal consortium under this section result in a reduction of Environmental Protection Agency grants for environmental programs to that tribal government or consortium. Nothing in this section shall preclude an Indian tribal government or intertribal consortium from receiving individual media grants or cooperative agreements. Funds provided by the Environmental Protection Agency through the general assistance program shall be used by an Indiantribal government or intertribal consortium to supplement other funds provided by the Environmental Protection Agency through individual media grants or cooperative agreements.
 
 #### (f) Expenditure of general assistance
 
@@ -77,4 +77,8 @@ Subsec. (f). Pub. L. 103–155, §3(b), inserted at end “Such programs and gen
 Subsec. (h). Pub. L. 103–155, §1, substituted “, 1994, 1995, 1996, 1997, and 1998” for “and 1994”.
 
 Subsec. (i). Pub. L. 103–155, §2, added subsec. (i).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 29 section 708.
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) which constitute professional services which are rendered for the general benefit to patients in a hospital or skilled nursing facility and which may be reimbursed only on a reasonable cost basis or on the bases described in section 1395ww of this title.
 
-(2)(A) For purposes of cost reimbursement, the Secretary shall recognize as a reasonable cost ofa hospital or skilled nursing facility only that portion of the costs attributable to services rendered by a physician in such hospital or facility which are services described in paragraph (1)(B), apportioned on the basis of the amount of time actually spent by such physician rendering such services.
+(2)(A) For purposes of cost reimbursement, the Secretary shall recognize as a reasonable cost of a hospital or skilled nursing facility only that portion of the costs attributable to services rendered by a physician in such hospital or facility which are services described in paragraph (1)(B), apportioned on the basis of the amount of time actually spent by such physician rendering such services.
 
 (B) In determining the amount of the payments which may be made with respect to services described in paragraph (1)(B), after apportioning costs as required by subparagraph (A), the Secretary may not recognize as reasonable (in the efficient delivery of health services) such portion of the provider's costs for such services to the extent that such costs exceed the reasonable compensation equivalent for such services. The reasonable compensation equivalent for any service shall be established by the Secretary in regulations.
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) provides incentives for the efficient and economical operation of the provider of services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1887, as added and amended Sept. 3, 1982, Pub. L. 97–248, title I, §§108(a)\[(1)\], 109(a), 96 Stat. 337, 338; Apr. 20, 1983, Pub. L. 98–21, title VI, §602(j), 97 Stat. 165.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1887, as added and amended Pub. L. 97–248, title I, §§108(a)\[(1)\], 109(a), Sept. 3, 1982, 96 Stat. 337, 338; Pub. L. 98–21, title VI, §602(j), Apr. 20, 1983, 97 Stat. 165.)
 
 #### Amendments
 

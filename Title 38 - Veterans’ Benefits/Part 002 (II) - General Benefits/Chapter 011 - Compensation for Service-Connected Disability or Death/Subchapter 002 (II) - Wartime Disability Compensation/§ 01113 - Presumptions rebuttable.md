@@ -1,12 +1,16 @@
 ### §1113. Presumptions rebuttable
 
-(a) Where there is affirmative evidence to the contrary, or evidence to establish that an intercurrent injury or disease which is a recognized cause of any of the diseases or disabilities within the purview of section 1112, 1116, or 1117 of this title, has been suffered between the date of separation from service and the onset of any such diseases or disabilities, or the disability is due to the veteran's own willful misconduct, service-connection pursuant to section 1112 or 1116 of this title, or payments of compensation pursuant to section 1117 of this title, will not be in order.
+(a) Where there is affirmative evidence to the contrary, or evidence to establish that an intercurrent injury or disease which is a recognized cause of any of the diseases or disabilities within the purview of section 1112, 1116, 1117, or 1118 of this title, has been suffered between the date of separation from service and the onset of any such diseases or disabilities, or the disability is due to the veteran's own willful misconduct, service-connection pursuant to section 1112, 1116, or 1118 of this title, or payments of compensation pursuant to section 1117 of this title, will not be in order.
 
-(b) Nothing in section 1112, 1116, or 1117 of this title, subsection (a) of this section, or section 5 of Public Law 98–542 (38 U.S.C. 1154 note) shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, or air service.
+(b) Nothing in section 1112, 1116, 1117, or 1118 of this title, subsection (a) of this section, or section 5 of Public Law 98–542 (38 U.S.C. 1154 note) shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, or air service.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §313; Pub. L. 102–4, §2(b), Feb. 6, 1991, 105 Stat. 13; renumbered §1113 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title I, §106(b), title V, §501(b)(1), Nov. 2, 1994, 108 Stat. 4651, 4663.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §313; Pub. L. 102–4, §2(b), Feb. 6, 1991, 105 Stat. 13; renumbered §1113 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title I, §106(b), title V, §501(b)(1), Nov. 2, 1994, 108 Stat. 4651, 4663; Pub. L. 105–277, div. C, title XVI, §1602(b), Oct. 21, 1998, 112 Stat. 2681–744.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 substituted “1117, or 1118” for “or 1117” and “, 1116, or 1118” for “or 1116”.
+
+Subsec. (b). Pub. L. 105–277, §1602(b)(1), substituted “1117, or 1118” for “or 1117”.
 
 1994—Subsec. (a). Pub. L. 103–446, §106(b), inserted “or disabilities” after “diseases” in two places, substituted “purview of section 1112, 1116, or 1117” for “purview of section 1112 or 1116”, and inserted “, or payments of compensation pursuant to section 1117 of this title,” before “will not”.
 
@@ -26,5 +30,5 @@ Section 501(b)(2) of Pub. L. 103–446 provided that: “The amendments made by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1112, 1116, 1137 of this title.
+This section is referred to in sections 1112, 1116, 1118, 1137 of this title.
 

@@ -58,7 +58,7 @@ In the case of a Serious PM–10 nonattainment area in which the PM–10 standar
 
 The control requirements applicable under plans in effect under this part for major stationary sources of PM–10 shall also apply to major stationary sources of PM–10 precursors, except where the Administrator determines that such sources do not contribute significantly to PM–10 levels which exceed the standard in the area. The Administrator shall issue guidelines regarding the application of the preceding sentence.
 
-(July 14, 1955, ch. 360, title I, §189, as added Nov. 15, 1990, Pub. L. 101–549, title I, §105(a), 104 Stat. 2460.)
+(July 14, 1955, ch. 360, title I, §189, as added Pub. L. 101–549, title I, §105(a), Nov. 15, 1990, 104 Stat. 2460.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

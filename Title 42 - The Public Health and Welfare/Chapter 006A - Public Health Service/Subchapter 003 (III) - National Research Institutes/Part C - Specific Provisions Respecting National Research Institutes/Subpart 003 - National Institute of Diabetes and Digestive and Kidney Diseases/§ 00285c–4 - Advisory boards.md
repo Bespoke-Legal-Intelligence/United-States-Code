@@ -30,7 +30,7 @@ Members of an Advisory Board who are officers or employees of the Federal Govern
 
 #### (d) Term of office; vacancy
 
-The term of office of an appointed member of an Advisory Board is four years, except that no term of office may extend beyond the expiration of the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in an Advisory Board, the Secretary shall make an appointment to fillthe vacancy not later than 90 days from the date the vacancy occurred.
+The term of office of an appointed member of an Advisory Board is four years, except that no term of office may extend beyond the expiration of the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in an Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days from the date the vacancy occurred.
 
 #### (e) Chairman
 
@@ -58,25 +58,23 @@ The National Diabetes Advisory Board and the National Digestive Diseases Advisor
 
 In carrying out its functions, each Advisory Board may establish subcommittees, convene workshops and conferences, and collect data. Such subcommittees may be composed of Advisory Board members and nonmember consultants with expertise in the particular area addressed by such subcommittees. The subcommittees may hold such meetings as are necessary to enable them to carry out their activities.
 
-#### (j) Annual report
-
-Each Advisory Board shall prepare an annual report for the Secretary which—
-
-&emsp;(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
-
-&emsp;(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the diseases with respect to which the Advisory Board was established;
-
-&emsp;(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such diseases in such fiscal year; and
-
-&emsp;(4) contains the Advisory Board's recommendations (if any) for changes in the plan referred to in section 285c–7 of this title.
-
-#### (k) Termination of predecessor boards; time within which to appoint members
+#### (j) Termination of predecessor boards; time within which to appoint members
 
 The National Diabetes Advisory Board and the National Digestive Diseases Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Boards established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The members of the Boards in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Boards established under subsection (a) of this section for diabetes and digestive diseases, except that at least one-half of the members of the National Diabetes Advisory Board in existence on November 20, 1985, shall be appointed to the National Diabetes Advisory Board first established under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title IV, §430, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 844; amended Nov. 4, 1988, Pub. L. 100–607, title I, §131, 102 Stat. 3056; Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(6), 106 Stat. 3504; June 10, 1993, Pub. L. 103–43, title XX, §2008(b)(5), 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285.)
 
 #### Amendments
+
+1998—Subsecs. (j), (k). Pub. L. 105–362 redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Each Advisory Board shall prepare an annual report for the Secretary which—
+
+&emsp;“(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
+
+&emsp;“(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the diseases with respect to which the Advisory Board was established;
+
+&emsp;“(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such diseases in such fiscal year; and
+
+&emsp;“(4) contains the Advisory Board's recommendations (if any) for changes in the plan referred to in section 285c–7 of this title.”
 
 1993—Subsec. (b)(2)(A)(i). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -90,11 +88,11 @@ Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medi
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the PublicHealth Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

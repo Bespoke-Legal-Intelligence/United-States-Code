@@ -10,7 +10,7 @@ Section 4254, Pub. L. 93–510, §5, Dec. 5, 1974, 88 Stat. 1605, related to spe
 
 Section 4255, Pub. L. 93–510, §6, Dec. 5, 1974, 88 Stat. 1606, provided for establishment by heads of Federal agencies of uniform technical and administrative provisions. See section 7105 of Title 31.
 
-Section 4256, Pub. L. 93–510, §7, Dec. 5, 1974, 88 Stat. 1606, related to delegation by Federal agency heads of powers and functions relating to supervision, etc., ofFederal assistance with the approval of President. See section 7106 of Title 31.
+Section 4256, Pub. L. 93–510, §7, Dec. 5, 1974, 88 Stat. 1606, related to delegation by Federal agency heads of powers and functions relating to supervision, etc., of Federal assistance with the approval of President. See section 7106 of Title 31.
 
 Section 4257, Pub. L. 93–510, §8, Dec. 5, 1974, 88 Stat. 1606, provided for a joint management fund for financing of projects under this chapter. See section 7107 of Title 31.
 

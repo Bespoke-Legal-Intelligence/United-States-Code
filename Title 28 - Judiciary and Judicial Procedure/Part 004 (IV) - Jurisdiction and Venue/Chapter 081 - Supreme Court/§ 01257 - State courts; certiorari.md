@@ -24,17 +24,17 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–352 struck out “appeal;” before “certiorari” in section catchline and amended text generally. Prior to amendment, text read as follows: “Final judgments or decrees rendered by the highest court of a State in which a decision could be had, may be reviewed by the Supreme Court as follows:
+1988—Pub. L. 100–352 struck out “appeal;” before “certiorari” in section catchline and amended text generally. Prior to amendment, text read as follows: “Final judgments or decrees rendered by the highest court of a State in which a decision could be had, may be reviewed by the Supreme Court as follows:
 
 &emsp;“(1) By appeal, where is drawn in question the validity of a treaty or statute of the United States and the decision is against its validity.
 
 &emsp;“(2) By appeal, where is drawn in question the validity of a statute of any state on the ground of its being repugnant to the Constitution, treaties or laws of the United States, and the decision is in favor of its validity.
 
-&emsp;“(3) By writ of certiorari, where the validity of a treaty or statute of the United States is drawn in question or where the validity of a State statute isdrawn in question on the ground of its being repugnant to the Constitution, treaties or laws of the United States, or where any title, right, privilege or immunity is specially set up or claimed under the Constitution, treaties or statutes of, or commission held or authority exercised under, the United States.
+&emsp;“(3) By writ of certiorari, where the validity of a treaty or statute of the United States is drawn in question or where the validity of a State statute is drawn in question on the ground of its being repugnant to the Constitution, treaties or laws of the United States, or where any title, right, privilege or immunity is specially set up or claimed under the Constitution, treaties or statutes of, or commission held or authority exercised under, the United States.
 
 “For the purposes of this section, the term ‘highest court of a State’ includes the District of Columbia Court of Appeals.”
 
-<b>1970</b>—Pub. L. 91–358 provided that for the purposes of this section, the term “highest court of a State” includes the District of Columbia Court of Appeals.
+1970—Pub. L. 91–358 provided that for the purposes of this section, the term “highest court of a State” includes the District of Columbia Court of Appeals.
 
 #### Effective Date of 1988 Amendment
 

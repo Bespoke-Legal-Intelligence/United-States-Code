@@ -2,7 +2,7 @@
 
 Whoever tears, cuts, or otherwise injures any mail bag, pouch, or other thing used or designed for use in the conveyance of the mail, or draws or breaks any staple or loosens any part of any lock, chain, or strap attached thereto, with intent to rob or steal any such mail, or to render the same insecure, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 779; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 779; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

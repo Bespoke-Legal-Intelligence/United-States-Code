@@ -12,7 +12,7 @@ Non-Federal contributions required in subsection (a) of this section may be in c
 
 The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that the State will not require the entities to which grants are provided pursuant to section 290cc–22(a) of this title to provide non-Federal contributions in excess of the non-Federal contributions described in subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title V, §523, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 517; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4728.)
+(July 1, 1944, ch. 373, title V, §523, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 517; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4728.)
 
 #### Prior Provisions
 

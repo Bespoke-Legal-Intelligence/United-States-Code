@@ -8,6 +8,7 @@
 | [30102\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030102%20-%20Definitions.md) | Definitions. |
 | [30103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030103%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | [30104\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030104%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [30105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030105%20-%20Restriction%20on%20lobbying%20activities.md) | Restriction on lobbying activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,6 +65,10 @@
 | [30169\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030169%20-%20Annual%20reports.md) | Annual reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1998—Pub. L. 105–178, title VII, §7104(b), June 9, 1998, 112 Stat. 467, added item 30105.
 
 #### Chapter Referred to in Other Sections
 

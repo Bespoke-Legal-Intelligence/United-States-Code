@@ -1,6 +1,6 @@
 ### §1162. State jurisdiction over offenses committed by or against Indians in the Indian country
 
-(a) Each of the States or Territories listed in the following table shall have jurisdiction over offenses committed by or against Indians in theareas of Indian country listed opposite the name of the State or Territory to the same extent that such State or Territory has jurisdiction over offenses committed elsewhere within the State or Territory, and the criminal laws of such State or Territory shall have the same force and effect within such Indian country as they have elsewhere within the State or Territory:
+(a) Each of the States or Territories listed in the following table shall have jurisdiction over offenses committed by or against Indians in the areas of Indian country listed opposite the name of the State or Territory to the same extent that such State or Territory has jurisdiction over offenses committed elsewhere within the State or Territory, and the criminal laws of such State or Territory shall have the same force and effect within such Indian country as they have elsewhere within the State or Territory:
 
 &nbsp;
 
@@ -17,7 +17,7 @@
 
 (c) The provisions of sections 1152 and 1153 of this chapter shall not be applicable within the areas of Indian country listed in subsection (a) of this section as areas over which the several States have exclusive jurisdiction.
 
-(Added Aug. 15, 1953, ch. 505, §2, 67 Stat. 588; amended Aug. 24, 1954, ch. 910, §1, 68 Stat. 795; Aug. 8, 1958, Pub. L. 85–615, §1, 72 Stat. 545; Nov. 25, 1970, Pub. L. 91–523, §§1, 2, 84 Stat. 1358.)
+(Added Aug. 15, 1953, ch. 505, §2, 67 Stat. 588; amended Aug. 24, 1954, ch. 910, §1, 68 Stat. 795; Pub. L. 85–615, §1, Aug. 8, 1958, 72 Stat. 545; Pub. L. 91–523, §§1, 2, Nov. 25, 1970, 84 Stat. 1358.)
 
 #### Amendments
 

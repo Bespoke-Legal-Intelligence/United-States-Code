@@ -12,7 +12,7 @@
 
 (3) The Secretary of Defense may waive the requirement described in paragraph (1) if the Secretary determines that such waiver is critical to the national security of the United States. The Secretary shall immediately notify the Congress of any such waiver and the reasons for such waiver.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Nov. 30, 1993, Pub. L. 103–160, div. A, title III, §315(a), 107 Stat. 1619.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 103–160, div. A, title III, §315(a), Nov. 30, 1993, 107 Stat. 1619.)
 
 Historical and Revision Notes
 

@@ -4,7 +4,7 @@
 
 (b) When a vessel is not in compliance with its certificate or fails to meet a standard prescribed by this part or a regulation prescribed under this part—
 
-&emsp;(1) the owner, charterer, managing operator, agent, master, or individual in charge shall beordered in writing to correct the noted deficiencies promptly;
+&emsp;(1) the owner, charterer, managing operator, agent, master, or individual in charge shall be ordered in writing to correct the noted deficiencies promptly;
 
 &emsp;(2) the Secretary may permit any repairs to be made at a place most convenient to the owner, charterer, or managing operator when the Secretary decides the repairs can be made with safety to those on board and the vessel;
 

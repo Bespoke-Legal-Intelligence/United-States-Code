@@ -52,7 +52,7 @@
 
 #### (2) Penalty
 
-&emsp;For each willful violation of paragraph (1), the institution involved shall be subject to a penalty of not more than $100 for each dayduring which the violation continues, which the Corporation may recover for its use.
+&emsp;For each willful violation of paragraph (1), the institution involved shall be subject to a penalty of not more than $100 for each day during which the violation continues, which the Corporation may recover for its use.
 
 (Pub. L. 92–181, title V, §5.65, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1619; amended Pub. L. 101–624, title XVIII, §1837, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 102–237, title V, §502(k), Dec. 13, 1991, 105 Stat. 1869.)
 

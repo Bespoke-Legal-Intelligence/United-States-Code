@@ -2,7 +2,7 @@
 
 (a) Under joint regulations to be prescribed by the administering Secretaries, a member of a uniformed service who is on active duty is entitled to medical and dental care in any facility of any uniformed service.
 
-(b) Under joint regulations to be prescribed by the administering Secretaries, a member orformer member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
+(b) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
 (c)(1) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
@@ -52,7 +52,7 @@ June 7, 1956, ch. 374, §§102(a)(3) (as applicable to §301(b)), 301(a), (b), 7
 
 In subsection (a), words of entitlement are substituted for the correlative words of obligation.
 
-In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of Title 50” to reflect section 101(22) of this title. The words “and dental” are inserted before the word “staff” for clarity. The words “retirement” and “retirement pay” are omitted as surplusage.
+In subsection (b), the words “active duty (other than for training)” are substituted for the words “active duty as defined in section 901(b) of Title 50” to reflect section 101(22) of this title. The words “and dental” are inserted before the word “staff” for clarity. The words“retirement” and “retirement pay” are omitted as surplusage.
 
 #### Prior Provisions
 
@@ -256,7 +256,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Establishment of Program.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall establish a program of cooperative clinical trials at multiple sites to assess the effectiveness of protocols for treating Persian Gulf veterans who suffer from ill-defined or undiagnosed conditions. Such protocols shall include a multidisciplinary treatment model, of which cognitive behavioral therapy is a component.
+Establishment of Program.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall establish a program of cooperative clinical trials at multiple sites to assess the effectiveness ofprotocols for treating Persian Gulf veterans who suffer from ill-defined or undiagnosed conditions. Such protocols shall include a multidisciplinary treatment model, of which cognitive behavioral therapy is a component.
 
 “(c)
 
@@ -286,7 +286,7 @@ Outreach Program to Persian Gulf Veterans and Families.—The Secretary of Defen
 
 “(b)
 
-Incentives to Persian Gulf Veterans To Register.—In order to encourage Persian Gulf veterans toregister any symptoms they may have in one of the existing health registries, the Secretary of Defense shall provide the following:
+Incentives to Persian Gulf Veterans To Register.—In order to encourage Persian Gulf veterans to register any symptoms they may have in one of the existing health registries, the Secretary of Defense shall provide the following:
 
 &emsp;“(1) For any Persian Gulf veteran who is on active duty and who registers with the Department of Defense's Persian Gulf War Veterans Health Surveillance System, a full medical evaluation and any required medical care.
 
@@ -324,17 +324,17 @@ Revision of the Physical Evaluation Board Criteria.—(1) The Secretary of Defen
 
 “(f)
 
-Review of Records and Rerating of Previously Discharged Gulf War Veterans.—(1) The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall ensure that a review is made of the health and personnel records of each Persian Gulf veteran who before the date of the enactment of this Act \[Oct. 5, 1994\] was discharged from active duty, or was medically retired, as a result of a Physical Evaluation Board process.
+Review of Records and Rerating of Previously Discharged Gulf War Veterans.—(1) The Secretary of Defense, in consultation with the Secretary of VeteransAffairs, shall ensure that a review is made of the health and personnel records of each Persian Gulf veteran who before the date of the enactment of this Act \[Oct. 5, 1994\] was discharged from active duty, or was medically retired, as a result of a Physical Evaluation Board process.
 
 “(2) The review under paragraph (1) shall be carried out to ensure that former Persian Gulf veterans who may have been suffering from a Persian Gulf-related illness at the time of discharge or retirement from active duty as a result of the Physical Evaluation Board process are reevaluated in accordance with the criteria established under subsection (e)(1) and, if appropriate, are rerated.
 
 “(g)
 
-Persian Gulf Illness Medical Referral Centers.—The Secretary of Defense shall evaluate the feasibility of establishing one or more medical referral centers to provide uniform, coordinated medical care for Persian Gulf veterans on active duty who are or may be suffering from a Persian Gulf-related illness. The Secretary shall submit a report on such feasibility to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] not later than six months after the date of the enactment of this Act \[Oct. 5, 1994\].
+Persian Gulf Illness Medical Referral Centers.—The Secretary of Defense shall evaluate the feasibility of establishing one or more medical referral centers to provide uniform, coordinated medical care for Persian Gulf veterans on active duty who are or may be suffering from a Persian Gulf-related illness. The Secretary shall submit a report on such feasibility to the Committees on Armed Services of the Senate and House of Representatives not later than six months after the date of the enactment of this Act \[Oct. 5, 1994\].
 
 “(h)
 
-Annual Report to Congress.—(1) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] an annual report on—
+Annual Report to Congress.—(1) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report on—
 
 &emsp;“(A) efforts taken and results achieved in notifying members of the Armed Forces and their families as part of the outreach program required by subsection (a);
 
@@ -346,7 +346,7 @@ Annual Report to Congress.—(1) The Secretary of Defense shall submit to the Co
 
 “(i)
 
-Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is an individual whoserved on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf Conflict.
+Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf Conflict.
 
 #### “SEC. 722. STUDIES OF HEALTH CONSEQUENCES OF MILITARY SERVICE OR EMPLOYMENT IN SOUTHWEST ASIA DURING THE PERSIAN GULF WAR.
 
@@ -564,5 +564,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1078a, 1086, 1087, 1095, 1095a, 1097 of this title; title 38 section 8111.
+This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1078a, 1086, 1087, 1095, 1095a, 1097, 1097a, 1108 of this title; title 38 section 8111; title 42 section 1395ggg.
 

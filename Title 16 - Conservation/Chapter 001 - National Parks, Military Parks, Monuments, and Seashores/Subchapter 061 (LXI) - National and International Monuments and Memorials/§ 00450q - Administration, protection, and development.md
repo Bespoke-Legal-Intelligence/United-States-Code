@@ -2,7 +2,7 @@
 
 The administration, protection, and development of the aforesaid national historic site shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 
-(Aug. 29, 1935, ch. 801, §3, 49 Stat. 958; Dec. 11, 1963, Pub. L. 88–197, §1, 77 Stat. 349.)
+(Aug. 29, 1935, ch. 801, §3, 49 Stat. 958; Pub. L. 88–197, §1, Dec. 11, 1963, 77 Stat. 349.)
 
 #### Change of Name
 

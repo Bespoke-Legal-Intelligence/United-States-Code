@@ -40,7 +40,7 @@ For purposes of review under section 1516a of this title or review under section
 
 Section 1677f of this title shall apply to investigations under this section, to the extent specified by the Trade Representative, after consultation with the administering authority and the Commission.
 
-(June 17, 1930, ch. 497, title VII, §783, as added Dec. 8, 1994, Pub. L. 103–465, title II, §232(a), 108 Stat. 4897; amended Oct. 11, 1996, Pub. L. 104–295, §20(b)(17), 110 Stat. 3528.)
+(June 17, 1930, ch. 497, title VII, §783, as added Pub. L. 103–465, title II, §232(a), Dec. 8, 1994, 108 Stat. 4897; amended Pub. L. 104–295, §20(b)(17), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### Amendments
 

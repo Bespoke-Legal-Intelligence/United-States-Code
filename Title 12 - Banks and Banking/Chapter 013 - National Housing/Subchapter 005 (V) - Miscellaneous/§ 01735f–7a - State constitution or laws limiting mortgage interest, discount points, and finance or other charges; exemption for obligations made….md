@@ -100,7 +100,7 @@ The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 
 
 #### Codification
 
-Section was enacted as part of the Depository Institutions Deregulation and Monetary Control Act of 1980,and not as part of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Depository Institutions Deregulation and Monetary Control Act of 1980, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
 

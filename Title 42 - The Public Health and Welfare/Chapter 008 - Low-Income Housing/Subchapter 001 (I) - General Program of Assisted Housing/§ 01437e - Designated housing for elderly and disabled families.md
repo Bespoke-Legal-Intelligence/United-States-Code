@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) of this section is in effect may provide public housing projects (or portions of projects) designated for occupancy by\(A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
+&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) of this section is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
 
 #### (2) Priority for occupancy
 
@@ -16,7 +16,7 @@
 
 #### (b) Standards regarding evictions
 
-Except as provided in section 1437n(e)(1)(B) of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
+Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
 
 #### (c) Relocation assistance
 
@@ -78,7 +78,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (1) 5-year effectiveness of original plan
 
-&emsp;A plan under subsection (d) of this section shall be in effect for purposes of this sectionduring the 5-year period that begins upon notification under subsection (e)(1) of this section of the public housing agency that the plan complies with the requirements under subsection (d) of this section.
+&emsp;A plan under subsection (d) of this section shall be in effect for purposes of this section during the 5-year period that begins upon notification under subsection (e)(1) of this section of the public housing agency that the plan complies with the requirements under subsection (d) of this section.
 
 #### (2) Renewal of plan
 
@@ -92,13 +92,11 @@ A plan under this subsection for designating a project (or portion of a project)
 
 No tenant of a public housing project shall be considered to be displaced for purposes of the Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970 \[42 U.S.C. 4601 et seq.\] because of the designation of any existing project or building, or portion thereof, for occupancy as provided under subsection (a) of this section.
 
-#### (h) Inapplicability to Indian housing
-
-The provisions of this section shall not apply with respect to low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.
-
-(Sept. 1, 1937, ch. 896, title I, §7, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 662; amended Oct. 31, 1978, Pub. L. 95–557, title IV, §412, 92 Stat. 2110; Feb. 5, 1988, Pub. L. 100–242, title I, §112(b)(3), 101 Stat. 1824; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; amended Oct. 28, 1992, Pub. L. 102–550, title VI, §622(a), 106 Stat. 3813; Jan. 26, 1996, Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), 110 Stat. 42; Mar. 28, 1996, Pub. L. 104–120, §10(a), 110 Stat. 838; Oct. 26, 1996, Pub. L. 104–330, title V, §501(b)(4), 110 Stat. 4042.)
+(Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31,1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
 
 #### References in Text
+
+Section 1437n(e)(1)(B) of this title, referred to in subsec. (b), was repealed by Pub. L. 105–276, title V, §576(d)(2), Oct. 21, 1998, 112 Stat. 2640.
 
 Section 1701q of title 12, referred to in subsec. (d)(2)(D), was amended generally by Pub. L. 101–625, title VIII, §801(a), Nov. 28, 1990, 104 Stat. 4297, and, as so amended, does not contain a subsec. (d)(8) or a definition of the term “related facilities”.
 
@@ -109,6 +107,8 @@ The Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1
 A prior section 7 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, required publication of information and submission of annual report by the Authority and was classified to section 1407 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
+
+1998—Subsec. (h). Pub. L. 105–276 struck out heading and text of subsec. (h). Text read as follows: “The provisions of this section shall not apply with respect to low-income housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
 1996—Pub. L. 104–330, §501(b)(4), which directed amendment of “subsection 7” of the United States Housing Act of 1937, probably meaning this section, by striking subsec. (<i>l</i>), could not be executed because this section does not contain a subsec. (<i>l</i>).
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 102–550 not applicable with respect to lower income housi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437c, 8013 of this title.
+This section is referred to in sections 1437c–1, 8013 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

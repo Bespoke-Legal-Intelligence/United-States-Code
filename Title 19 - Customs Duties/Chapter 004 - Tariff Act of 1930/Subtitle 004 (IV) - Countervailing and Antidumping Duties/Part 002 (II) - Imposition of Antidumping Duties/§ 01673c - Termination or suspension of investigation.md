@@ -228,7 +228,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 &emsp;If an agreement described in paragraph (1) is accepted after the antidumping duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1673b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to antidumping duties.
 
-(June 17, 1930, ch. 497, title VII, §734, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 165; amended Oct. 30, 1984, Pub. L. 98–573, title VI, §§604(b), 612(b)(2), 98 Stat. 3026, 3034; Aug. 23, 1988, Pub. L. 100–418, title I, §§1316(c), 1326(d)(2), 102 Stat. 1187, 1204; Dec. 8, 1994, Pub. L. 103–465, title II, §§216(b), 217(b), 218(a)(2), 219(c)(2)–(5), 233(a)(1)(B), (2)(A)(ii), (5)(S)–(U), 108 Stat. 4853, 4854, 4857, 4898, 4900.)
+(June 17, 1930, ch. 497, title VII, §734, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 165; amended Pub. L. 98–573, title VI, §§604(b), 612(b)(2), Oct. 30, 1984, 98 Stat. 3026, 3034; Pub. L. 100–418, title I, §§1316(c), 1326(d)(2), Aug. 23, 1988, 102 Stat. 1187, 1204; Pub. L. 103–465, title II, §§216(b), 217(b), 218(a)(2), 219(c)(2)–(5), 233(a)(1)(B), (2)(A)(ii), (5)(S)–(U), Dec. 8, 1994, 108 Stat. 4853, 4854, 4857, 4898, 4900.)
 
 #### Amendments
 

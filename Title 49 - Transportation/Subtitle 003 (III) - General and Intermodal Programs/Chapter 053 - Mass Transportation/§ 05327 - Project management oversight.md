@@ -36,9 +36,9 @@ Plan Approval.—(1) The Secretary shall approve a plan not later than 60 days a
 
 (c)
 
-Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscal year to carry out a major project under section 5309 to make a contract to oversee the construction of the project.
+Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) <sup>1</sup> of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Actof 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) <sup>1</sup> or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscal year to carry out a major project under section 5309 to make a contract to oversee the construction of the project.
 
-(2) The Secretary may use amounts available under paragraph (1) of this subsection to make contracts for safety, procurement, management, and financial compliance reviews and audits of arecipient of amounts under paragraph (1). Subsections (a), (b), and (e) of this section do not apply to contracts under this paragraph.
+(2) The Secretary may use amounts available under paragraph (1) of this subsection to enter into contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1) and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section. Subsections (a), (b), and (e) of this section do not apply to contracts under this paragraph.
 
 (3) The Government shall pay the entire cost of carrying out a contract under this subsection.
 
@@ -54,7 +54,11 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 &emsp;(2) a requirement that oversight begin during the preliminary engineering stage of a project, unless the Secretary finds it more appropriate to begin the oversight during another stage of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(17), Oct. 11, 1996, 110 Stat. 3390.)
+(f)
+
+Financial Plan.—A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(17), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3024, June 9, 1998, 112 Stat. 364.)
 
 Historical and Revision Notes
 
@@ -122,7 +126,13 @@ This amends 49:5327(c) to correct an erroneous cross-reference.
 
 The National Capital Transportation Act of 1969, referred to in subsecs. (a), (c)(1), and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683 of Title 40 and provisions set out as notes under section 651 of Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
+Section 103 of title 23, referred to in subsec. (c)(1), was amended generally by Pub. L. 105–178, title I, §1106(b), June 9, 1998, 112 Stat. 131, and, as so amended, no longer contains a subsec. (e)(4).
+
 #### Amendments
+
+1998—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
+
+Subsec. (f). Pub. L. 105–178, §3024(b), added subsec. (f).
 
 1996—Subsec. (c)(1). Pub. L. 104–287 substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
 
@@ -136,7 +146,5 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5338 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

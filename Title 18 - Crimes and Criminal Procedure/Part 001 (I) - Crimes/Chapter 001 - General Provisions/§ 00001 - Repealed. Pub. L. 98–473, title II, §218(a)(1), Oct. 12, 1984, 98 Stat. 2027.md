@@ -6,6 +6,12 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–314, §1(a), Oct. 30, 1998, 112 Stat. 2974, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Protection of Children From Sexual Predators Act of 1998’.”
+
+Pub. L. 105–184, §1, June 23, 1998, 112 Stat. 520, provided that: “This Act \[amending sections 709, 982, 2326, 2327, and 2703 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Telemarketing Fraud Prevention Act of 1998’.”
+
 #### Short Title of 1996 Amendments
 
 Pub. L. 104–294, §1, Oct. 11, 1996, 110 Stat. 3488, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Espionage Act of 1996’.”

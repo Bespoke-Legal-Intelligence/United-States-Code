@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A homeownership program under this subchapter shall provide for acquisition by eligiblefamilies of ownership interests in, or shares representing, at least one-half of the units in a public housing project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership), for occupancy by the eligible families.
+A homeownership program under this subchapter shall provide for acquisition by eligible families of ownership interests in, or shares representing, at least one-half of the units in a public housing project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership), for occupancy by the eligible families.
 
 #### (b) Affordability
 
@@ -42,7 +42,7 @@ Acquisition or rehabilitation of public housing projects under a homeownership p
 
 &emsp;&emsp;(C) any debt obligation can be serviced from project income, including operating assistance; and
 
-&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
+&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines tobe consistent with the purposes of this subchapter.
 
 #### (3) Opportunity to cure
 
@@ -56,7 +56,7 @@ The application shall include a plan ensuring that the unit—
 
 &emsp;(2) will, not later than 2 years after the transfer to an eligible family, meet minimum housing standards established by the Secretary for the purposes of this subchapter.
 
-#### (g) Repealed. Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236
+#### (g) Repealed. Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573
 
 #### (h) Protection of non-purchasing families
 
@@ -76,7 +76,7 @@ The application shall include a plan ensuring that the unit—
 
 &emsp;Tenants renting a unit in a project transferred under this subchapter shall have all rights provided to tenants of public housing under this chapter.
 
-(Sept. 1, 1937, ch. 896, title III, §304, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4153; amended Oct. 28, 1992, Pub. L. 102–550, title I, §181(g)(1)(A), 106 Stat. 3736; July 27, 1995, Pub. L. 104–19, title I, §1002(b), 109 Stat. 236.)
+(Sept. 1, 1937, ch. 896, title III, §304, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4153; amended Pub. L. 102–550, title I, §181(g)(1)(A), Oct. 28, 1992, 106 Stat. 3736; Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236; Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573.)
 
 #### References in Text
 
@@ -86,13 +86,31 @@ This subchapter, referred to in subsec. (e)(3), was in the original “this subt
 
 #### Amendments
 
+1998—Subsec. (g). Pub. L. 105–276 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing. See 1995 Amendment note below.
+
 1995—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing.
 
 1992—Subsec. (d). Pub. L. 102–550 struck out “(not including scattered site single family housing of a public housing agency)” after “housing project”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 531(b)(1) of Pub. L. 105–276 effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by Secretary after Sept. 30, 1995, see section 531(b)(2) of Pub. L. 105–276, set out as a note below.
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995, and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
+
+#### Homeownership Replacement Plan
+
+Pub. L. 105–276, title V, §531(b), Oct. 21, 1998, 112 Stat. 2573, provided that:
+
+“(1)
+
+In general.—Notwithstanding subsections (b) and (c) of section 1002 of the Emergency Supplemental Appropriations for Additional Disaster Assistance, for Anti-terrorism Initiatives, for Assistance in the Recovery from the Tragedy that Occurred At Oklahoma City, and Rescissions Act, 1995 \[amending this section and enacting provision set out as a note under section 1437c of this title\] (Public Law 104–19; 109 Stat. 236), subsection (g) of section 304 of the United States Housing Act of 1937 (42 U.S.C. 1437aaa–3(g)) is repealed.
+
+“(2)
+
+Effective date.—The amendment made by paragraph (1) shall be effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by the Secretary after September 30, 1995.”
 
 #### Section Referred to in Other Sections
 

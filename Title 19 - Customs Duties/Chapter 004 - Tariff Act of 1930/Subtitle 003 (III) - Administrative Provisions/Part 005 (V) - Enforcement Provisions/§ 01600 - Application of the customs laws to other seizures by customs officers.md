@@ -2,7 +2,7 @@
 
 The procedures set forth in sections 1602 through 1619 of this title shall apply to seizures of any property effected by customs officers under any law enforced or administered by the Customs Service unless such law specifies different procedures.
 
-(June 17, 1930, ch. 497, title IV, §600, as added Oct. 12, 1984, Pub. L. 98–473, title II, §323, 98 Stat. 2057.)
+(June 17, 1930, ch. 497, title IV, §600, as added Pub. L. 98–473, title II, §323, Oct. 12, 1984, 98 Stat. 2057.)
 
 #### Prior Provisions
 

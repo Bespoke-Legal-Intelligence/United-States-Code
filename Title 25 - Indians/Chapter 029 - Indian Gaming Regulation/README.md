@@ -78,7 +78,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 941<i>l</i>, 1708, 1775b of this title; title 31 section 5312.
+This chapter is referred to in sections 712e, 941<i>l</i>, 1708, 1775b of this title; title 31 section 5312.
 
 
 ---

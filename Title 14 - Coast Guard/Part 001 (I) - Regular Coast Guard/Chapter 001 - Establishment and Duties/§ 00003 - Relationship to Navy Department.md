@@ -2,7 +2,7 @@
 
 Upon the declaration of war or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Transportation. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy who may order changes in Coast Guard operations to render them uniform, to the extent he deems advisable, with Navy operations.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 496; Oct. 18, 1976, Pub. L. 94–546, §1(2), 90 Stat. 2519.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(2), Oct. 18, 1976, 90 Stat. 2519.)
 
 #### Historical and Revision Notes
 

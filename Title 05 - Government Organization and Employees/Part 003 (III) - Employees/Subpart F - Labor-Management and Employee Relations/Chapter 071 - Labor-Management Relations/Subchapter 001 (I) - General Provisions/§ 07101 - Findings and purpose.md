@@ -172,7 +172,7 @@ Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive reco
 
 (b) A labor organization seeking recognition shall submit to the agency a roster of its officers and representatives, a copy of its constitution and by-laws, and a statement of its objectives.
 
-(c) When recognition of a labor organization has been accorded, the recognition continues as long as the organization continues to meet the requirements of this Order applicable to that recognition, except that this section does not require an election to determine whether an organization should become, or continue to be recognized as, exclusive representative of the employees in any unit or subdivision thereof within 12months after a prior valid election with respect to such unit.
+(c) When recognition of a labor organization has been accorded, the recognition continues as long as the organization continues to meet the requirements of this Order applicable to that recognition, except that this section does not require an election to determine whether an organization should become, or continue to be recognized as, exclusive representative of the employees in any unit or subdivision thereof within 12 months after a prior valid election with respect to such unit.
 
 (d) Recognition of a labor organization does not—
 
@@ -224,11 +224,11 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
-(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internalsecurity practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
+(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
 (c) If, in connection with negotiations, an issue develops as to whether a proposal is contrary to law, regulation, controlling agreement, or this order and therefore not negotiable, it shall be resolved as follows:
 
-(1) An issue which involves interpretation of a controlling agreement at a higher agency level is resolved under the procedures of the controlling agreement, or, if none, under agency regulations;
+(1) An issue which involves interpretation of a controlling agreement at a higher agency level is resolvedunder the procedures of the controlling agreement, or, if none, under agency regulations;
 
 (2) An issue other than as described in subparagraph (1) of this paragraph which arises at a local level may be referred by either party to the head of the agency for determination;
 
@@ -424,7 +424,7 @@ Members shall have 2-year terms on the Council, which may be extended by the Pre
 
 (c) <i>Administration</i>. (1) The President shall designate a member of the Council who is a full-time Federal employee to serve as Chairperson. The responsibilities of the Chairperson shall include scheduling meetings of the Council.
 
-(2) The Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It also may, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments. Federal employees, and customers of Federal services, as needed.
+(2) The Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It alsomay, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments. Federal employees, and customers of Federal services, as needed.
 
 (3) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
 

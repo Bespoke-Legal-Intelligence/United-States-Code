@@ -1,5 +1,5 @@
 
-17 U.S.C.<br>United States Code, 1997 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+17 U.S.C.<br>United States Code, 1998 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 17—COPYRIGHTS
 
@@ -18,10 +18,14 @@
 | [<b>9.</b>](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md) | <b>Protection of Semiconductor Chip Products</b> | <b>901</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md) | <b>Digital Audio Recording Devices and Media</b> | <b>1001</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md) | <b>Sound Recordings and Music Videos</b> | <b>1101</b> |
+| [<b>12.</b>](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/README.md) | <b>Copyright Protection and Management Systems</b> | <b>1201</b> |
+| [<b>13.</b>](Chapter%20013%20-%20Protection%20of%20Original%20Designs/README.md) | <b>Protection of Original Designs</b> | <b>1301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–304, title I, §103(b), title V, §503(a), Oct. 28, 1998, 112 Stat. 2876, 2916, added items relating to chapters 12 and 13.
 
 1997—Pub. L. 105–80, §12(a)(1), Nov. 13, 1997, 111 Stat. 1534, substituted “Requirements” for “Requirement” in item relating to chapter 6, “Arbitration Royalty Panels” for “Royalty Tribunal” in item relating to chapter 8, and “Semiconductor Chip Products” for “semiconductor chip products” in item relating to chapter 9, and added item relating to chapter 10.
 
@@ -611,3 +615,5 @@ This title is referred to in title 2 section 179p; title 11 section 101; title 1
 - [Chapter 009 - Protection of Semiconductor Chip Products](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md)
 - [Chapter 010 - Digital Audio Recording Devices and Media](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md)
 - [Chapter 011 - Sound Recordings and Music Videos](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md)
+- [Chapter 012 - Copyright Protection and Management Systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/README.md)
+- [Chapter 013 - Protection of Original Designs](Chapter%20013%20-%20Protection%20of%20Original%20Designs/README.md)

@@ -6,7 +6,7 @@ Whoever, lawfully or unlawfully, having possession of, access to, control over, 
 
 &emsp;(b) communicates, transmits, or discloses the same to any individual or person, or attempts or conspires to do any of the foregoing, with reason to believe such data will be utilized to injure the United States or to secure an advantage to any foreign nation, shall, upon conviction, be punished by a fine of not more than $10,000 or imprisonment for not more than ten years, or both.
 
-(Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Dec. 24, 1969, Pub. L. 91–161, §3(b), 83 Stat. 444; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Amendments
 

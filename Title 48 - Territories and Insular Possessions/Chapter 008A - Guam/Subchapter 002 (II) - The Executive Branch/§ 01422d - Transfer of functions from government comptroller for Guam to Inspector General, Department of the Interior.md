@@ -26,3 +26,7 @@ The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–4
 
 A prior section 1422d, act Aug. 1, 1950, ch. 512, §9–A, as added Sept. 11, 1968, Pub. L. 90–497, §5, 82 Stat. 845; amended Oct. 15, 1977, Pub. L. 95–134, title II, §203(a), 91 Stat. 1161, related to the creation, auditing function, and reporting duty of the office of a government comptroller for Guam, prior to repeal by Pub. L. 97–357, §104(b).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1421g of this title.
+

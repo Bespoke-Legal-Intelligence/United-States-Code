@@ -44,7 +44,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### (ii) Regional standards
 
-&emsp;&emsp;&emsp;In developing standards, a Federal agency may, but is not required to, take intoconsideration any international standard promulgated by an international standards organization the membership of which is described in section 2571(6)(A)(ii) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;In developing standards, a Federal agency may, but is not required to, take into consideration any international standard promulgated by an international standards organization the membership of which is described in section 2571(6)(A)(ii) <sup>1</sup> of this title.
 
 #### (3) Performance criteria
 

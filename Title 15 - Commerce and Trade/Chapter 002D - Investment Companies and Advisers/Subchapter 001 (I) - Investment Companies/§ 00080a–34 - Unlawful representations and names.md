@@ -16,7 +16,7 @@ No provision of subsection (a) or (b) of this section shall be construed to proh
 
 It shall be unlawful for any registered investment company to adopt as a part of the name or title of such company, or of any securities of which it is the issuer, any word or words that the Commission finds are materially deceptive or misleading. The Commission is authorized, by rule, regulation, or order, to define such names or titles as are materially deceptive or misleading.
 
-(Aug. 22, 1940, ch. 686, title I, §35, 54 Stat. 840; Oct. 11, 1996, Pub. L. 104–290, title II, §208, 110 Stat. 3432.)
+(Aug. 22, 1940, ch. 686, title I, §35, 54 Stat. 840; Pub. L. 104–290, title II, §208, Oct. 11, 1996, 110 Stat. 3432.)
 
 #### References in Text
 

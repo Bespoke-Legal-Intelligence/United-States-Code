@@ -44,7 +44,7 @@ Condition on Eligibility; Limitation on Number of Bonuses.—(1) To be eligible 
 
 (d)
 
-Repayment of Bonus.—(1) A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Selected Reserve of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount that bears the same relation to the amount of the bonus paid to such person as the period that such person failed to serve satisfactorily bears to the total period for which the bonus was paid.
+Repayment of Bonus.—(1) A person who receives a bonus payment under this section and who fails during the period for which the bonuswas paid to serve satisfactorily in the element of the Selected Reserve of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount that bears the same relation to the amount of the bonus paid to such person as the period that such person failed to serve satisfactorily bears to the total period for which the bonus was paid.
 
 (2) An obligation to reimburse the United States imposed under paragraph (1) is, for all purposes, a debt owed to the United States.
 
@@ -58,11 +58,13 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (f)
 
-Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after September 30, 1999.
+Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 1999.
 
-(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791.)
+(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038.)
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
 
 1997—Subsec. (a). Pub. L. 105–85, §622(e)(1), inserted heading.
 

@@ -2,7 +2,7 @@
 
 #### (a) Covered programs; statement of purposes
 
-A unique partnership arrangement exists in food and agricultural research, extension, and teaching between the Federal Government and the governments of the several States whereby the States have accepted and have supported, through legislation and appropriations—
+A unique partnership arrangement exists in food and agricultural research, extension, andteaching between the Federal Government and the governments of the several States whereby the States have accepted and have supported, through legislation and appropriations—
 
 &emsp;(1) research programs under—
 
@@ -72,13 +72,13 @@ To address more effectively the critical need for reducing farm input costs, imp
 
 &emsp;&emsp;&emsp;&emsp;(II) a public college or university or other postsecondary institution.
 
-(Pub. L. 95–113, title XIV, §1409A, as added Pub. L. 97–98, title XIV, §1410(a), Dec. 22, 1981, 95 Stat. 1301; amended Pub. L. 99–198, title XIV, §1407, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, titleXVI, §1601(f)(1)(B), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §803, Apr. 4, 1996, 110 Stat. 1159.)
+(Pub. L. 95–113, title XIV, §1409A, as added Pub. L. 97–98, title XIV, §1410(a), Dec. 22, 1981, 95 Stat. 1301; amended Pub. L. 99–198, title XIV, §1407, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1601(f)(1)(B), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §803, Apr. 4, 1996, 110 Stat. 1159.)
 
 #### References in Text
 
 Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Act of October 10, 1962, referred to in subsec. (a)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+Act of October 10, 1962, referred to in subsec. (a)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) ofchapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 Act of May 8, 1914, referred to in subsec. (a)(2), is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 

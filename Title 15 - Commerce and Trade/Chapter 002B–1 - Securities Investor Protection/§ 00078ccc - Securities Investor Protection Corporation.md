@@ -54,7 +54,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;(C) the exercise of all other rights and powers granted to it by this chapter;
 
-&emsp;(5) to conduct its business (including the carrying on of operations and the maintenanceof offices) and to exercise all other rights and powers granted to it by this chapter in any State or other jurisdiction without regard to any qualification, licensing, or other statute in such State or other jurisdiction;
+&emsp;(5) to conduct its business (including the carrying on of operations and the maintenance of offices) and to exercise all other rights and powers granted to it by this chapter in any State or other jurisdiction without regard to any qualification, licensing, or other statute in such State or other jurisdiction;
 
 &emsp;(6) to lease, purchase, accept gifts or donations of or otherwise acquire, to own, hold, improve, use, or otherwise deal in or with, and to sell, convey, mortgage, pledge, lease, exchange or otherwise dispose of, any property, real, personal or mixed, or any interest therein, wherever situated;
 
@@ -164,13 +164,13 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6,1962, 76 Stat. 265, as amended, which appears in chapter 5 (§29–501 et seq.) of Title 29, Corporations, of the District of Columbia Code.
 
 #### Amendments
 
 1978—Subsec. (a). Pub. L. 95–283, §2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
 
-Subsec. (b). Pub. L. 95–283, §3, in par. (1) substituted “State, Federal, or other court” for “court, State, orFederal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+Subsec. (b). Pub. L. 95–283, §3, in par. (1) substituted “State, Federal, or other court” for “court, State, or Federal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
 Subsec. (c)(2)(C)(ii). Pub. L. 95–283, §4(a), substituted “a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group,” for “any broker or dealer, within the meaning of paragraph (18) of section 78c(a) of this title, or similarly associated with a national securities exchange or other securities industry group”.
 

@@ -16,7 +16,7 @@ Any individual receiving a fellowship or receiving training under subsection (a)
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
 
-(July 1, 1944, ch. 373, title XXIII, §2341, as added Nov. 4, 1988, Pub. L. 100–607, title II, §201(4), 102 Stat. 3076; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2617(e), 102 Stat. 4240; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(21), 106 Stat. 3505; June 10, 1993, Pub. L. 103–43, title XVIII, §1811(7), 107 Stat. 200.)
+(July 1, 1944, ch. 373, title XXIII, §2341, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3076; amended Pub. L. 100–690, title II, §2617(e), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, §312(d)(21), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XVIII, §1811(7), June 10, 1993, 107 Stat. 200.)
 
 #### Amendments
 

@@ -42,7 +42,7 @@ I74“delivery and retention of certain presidential materials
 
 “
 
-Sec. 101. (a) Notwithstanding any other law or any agreement or understanding made pursuant to section 2111 of title 44, United States Code any Federal employee in possession shall deliver, and the Archivist of the United States (hereinafter referred to as the ‘Archivist’) shall receive, obtain, or retain, complete possession and control of all original tape recordings of conversations which were recorded or caused to be recorded by any officer or employee of the Federal Government and which—
+Sec. 101. (a) Notwithstanding any other law or any agreement or understanding made pursuant to section2111 of title 44, United States Code any Federal employee in possession shall deliver, and the Archivist of the United States (hereinafter referred to as the ‘Archivist’) shall receive, obtain, or retain, complete possession and control of all original tape recordings of conversations which were recorded or caused to be recorded by any officer or employee of the Federal Government and which—
 
 &emsp;“(1) involve former President Richard M. Nixon or other individuals who, at the time of the conversation, were employed by the Federal Government;
 

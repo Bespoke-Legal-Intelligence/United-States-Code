@@ -12,11 +12,11 @@ Notwithstanding the provisions of any other law, the President, upon the request
 
 #### (b) Reimbursement from United Nations; waiver of reimbursement
 
-Whenever personnel or assistance is made available pursuant to the authority contained in subsection (a)(1) and (2) of this section, the President shall require reimbursement from the United Nations for the expense thereby incurred by the United States: <i>Provided</i>, That in exceptional circumstances, or when the President finds it to be in the national interest, he may waive, in whole or in part, the requirement of such reimbursement: <i>Provided further</i>, That when any such reimbursement is made, it shall be credited, at the option of the appropriate department of the Department of Defense, either to the appropriation, fund, or account utilized in incurring the obligation, or to an appropriate appropriation, fund, or account currently available for the purposes for which expenditures were made.
+Whenever personnel or assistance is made available pursuant to the authority contained in subsection (a)(1) and (2) of this section, the President shall require reimbursement from theUnited Nations for the expense thereby incurred by the United States: <i>Provided</i>, That in exceptional circumstances, or when the President finds it to be in the national interest, he may waive, in whole or in part, the requirement of such reimbursement: <i>Provided further</i>, That when any such reimbursement is made, it shall be credited, at the option of the appropriate department of the Department of Defense, either to the appropriation, fund, or account utilized in incurring the obligation, or to an appropriate appropriation, fund, or account currently available for the purposes for which expenditures were made.
 
 #### (c) Additional appropriation authorizations
 
-In addition to the authorization of appropriations to the Department of State contained insection 287e of this title, there is hereby authorized to be appropriated to the Department of Defense, or any department therein, such sums as may be necessary to reimburse such departments in the event that reimbursement from the United Nations is waived in whole or in part pursuant to authority contained in subsection (b) of this section.
+In addition to the authorization of appropriations to the Department of State contained in section 287e of this title, there is hereby authorized to be appropriated to the Department of Defense, or any department therein, such sums as may be necessary to reimburse such departments in the event that reimbursement from the United Nations is waived in whole or in part pursuant to authority contained in subsection (b) of this section.
 
 #### (d) Disclosure of information
 

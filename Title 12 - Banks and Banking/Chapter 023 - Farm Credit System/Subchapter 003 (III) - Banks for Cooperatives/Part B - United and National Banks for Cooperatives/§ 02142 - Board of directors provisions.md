@@ -2,7 +2,7 @@
 
 #### (a) Initial board of directors
 
-The initial board of directors of a consolidated bank shall include the members of the boards of directors of the farm credit districts who were elected by voting stockholders of the constituent district banks for cooperatives (as such banks existed on January 6, 1988) and who shall serve out the terms for which they were elected.
+The initial board of directors of a consolidated bank shall include the members of the boards ofdirectors of the farm credit districts who were elected by voting stockholders of the constituent district banks for cooperatives (as such banks existed on January 6, 1988) and who shall serve out the terms for which they were elected.
 
 #### (b) Permanent board of directors
 

@@ -2,7 +2,7 @@
 
 Loans made by eligible lenders in accordance with this subpart shall be insurable by the Secretary whether made from funds fully owned by the lender or from funds held by the lender in a trust or similar capacity and available for such loans.
 
-(July 1, 1944, ch. 373, title VII, §704, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 1996.)
+(July 1, 1944, ch. 373, title VII, §704, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1996.)
 
 #### Prior Provisions
 

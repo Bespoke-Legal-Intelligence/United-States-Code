@@ -48,7 +48,7 @@ The court shall hear and determine the appeal upon the record before it in the m
 
 #### (h) Remand
 
-In the event that the court shall render a decision and enter an order reversing the order of the Commission, it shall remand the case to the Commission to carry out the judgment of the court and it shall be the duty of the Commission, in the absence of the proceedings to review such judgment, to forthwith give effect thereto, and unless otherwise ordered by the court, to do so upon the basis of the proceedings already had and the record upon which said appeal was heard and determined.
+In the event that the court shall render a decision and enter an order reversing the order of the Commission, it shall remand the case to the Commission to carry out the judgment of the court and it shall be the duty of the Commission, in the absence of the proceedings to review such judgment, to forthwith give effect thereto, and unless otherwise ordered by the court, to doso upon the basis of the proceedings already had and the record upon which said appeal was heard and determined.
 
 #### (i) Judgment for costs
 
@@ -56,7 +56,7 @@ The court may, in its discretion, enter judgment for costs in favor of or agains
 
 #### (j) Finality of decision; review by Supreme Court
 
-The court's judgment shall be final, subject, however, to review by the Supreme Court of theUnited States upon writ of certiorari on petition therefor under section 1254 of title 28, by the appellant, by the Commission, or by any interested party intervening in the appeal, or by certification by the court pursuant to the provisions of that section.
+The court's judgment shall be final, subject, however, to review by the Supreme Court of the United States upon writ of certiorari on petition therefor under section 1254 of title 28, by the appellant, by the Commission, or by any interested party intervening in the appeal, or by certification by the court pursuant to the provisions of that section.
 
 (June 19, 1934, ch. 652, title IV, §402, 48 Stat. 1093; May 20, 1937, ch. 229, §§11–13, 50 Stat. 197; May 24, 1949, ch. 139, §132, 63 Stat. 108; July 16, 1952, ch. 879, §14, 66 Stat. 718; Pub. L. 85–791, §12, Aug. 28, 1958, 72 Stat. 945; Pub. L. 97–259, title I, §§121, 127(b), Sept. 13, 1982, 96 Stat. 1097, 1099; Pub. L. 98–620, title IV, §402(50), Nov. 8, 1984, 98 Stat. 3361; Pub. L. 104–104, title I, §151(b), Feb. 8, 1996, 110 Stat. 107.)
 

@@ -204,7 +204,7 @@ The Administrator shall conduct an assessment of water system capital improvemen
 
 #### (3) Alaska Native villages
 
-&emsp;In the case of a grant for a project under this subsection in an Alaska Native village, the Administrator is also authorized to makegrants to the State of Alaska for the benefit of Native villages. An amount not to exceed 4 percent of the grant amount may be used by the State of Alaska for project management.
+&emsp;In the case of a grant for a project under this subsection in an Alaska Native village, the Administrator is also authorized to make grants to the State of Alaska for the benefit of Native villages. An amount not to exceed 4 percent of the grant amount may be used by the State of Alaska for project management.
 
 #### (4) Needs assessment
 
@@ -262,7 +262,7 @@ There are authorized to be appropriated to carry out the purposes of this sectio
 
 #### (n) Health effects studies
 
-From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studieson drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
+From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
 
 #### (<i>o</i>) Monitoring for unregulated contaminants
 
@@ -280,11 +280,15 @@ The Administrator may reserve up to 2 percent of the total funds appropriated pu
 
 The Administrator shall conduct an evaluation of the effectiveness of the State loan funds through fiscal year 2001. The evaluation shall be submitted to the Congress at the same time as the President submits to the Congress, pursuant to section 1108 of title 31, an appropriations request for fiscal year 2003 relating to the budget of the Environmental Protection Agency.
 
-(July 1, 1944, ch. 373, title XIV, §1452, as added Aug. 6, 1996, Pub. L. 104–182, title I, §130, 110 Stat. 1662.)
+(July 1, 1944, ch. 373, title XIV, §1452, as added Pub. L. 104–182, title I, §130, Aug. 6, 1996, 110 Stat. 1662.)
 
 #### References in Text
 
 The Safe Drinking Water Act Amendments of 1996, referred to in subsec. (n), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 201 of this title and Tables.
+
+#### Combining Fund Assets for Enhancement of Lending Capacity
+
+Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2498, provided in part: “That, consistent with section 1452(g) of the Safe Drinking Water Act (42 U.S.C. 300j–12(g)), section 302 of the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) \[set out as a note below\] and the accompanying joint explanatory statement of the committee of conference (H. Rept. No. 104–741 to accompany S. 1316, the Safe Drinking Water Act Amendments of 1996), and notwithstanding any other provision of law, beginning in fiscal year 1999 and thereafter, States may combine the assets of State Revolving Funds (SRFs) established under section 1452 of the Safe Drinking Water Act, as amended, and title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as amended, as security for bond issues to enhance the lending capacity of one or both SRFs, but not to acquire the state match for either program, provided that revenues from the bonds are allocated to the purposes of the Safe Drinking Water Act \[this subchapter\] and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] in the same portion as the funds are used as security for the bonds”.
 
 #### Transfer of Funds
 
@@ -292,7 +296,7 @@ Section 302 of Pub. L. 104–182 provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, at any time after the date 1 year after a State establishes a State loan fund pursuant to section 1452 of the Safe Drinking Water Act \[this section\] but prior to fiscal year 2002, a Governor of the State may—
+In General.—Notwithstanding any other provision of law, at any time after the date 1 year after aState establishes a State loan fund pursuant to section 1452 of the Safe Drinking Water Act \[this section\] but prior to fiscal year 2002, a Governor of the State may—
 
 &emsp;“(1) reserve up to 33 percent of a capitalization grant made pursuant to such section 1452 and add the funds reserved to any funds provided to the State pursuant to section 601 of the Federal Water Pollution Control Act (33 U.S.C. 1381); and
 

@@ -8,7 +8,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) which, to any significant extent, is distributed in commerce for personal use or consumption by individuals;
 
-> &emsp;without regard to whether such article of such type is in fact distributed in commerce for personal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption..<sup>1</sup>
+> &emsp;without regard to whether such article of such type is in fact distributed in commerce for personal use or consumption by an individual, except that such term includes fluorescent lamp ballasts, general service fluorescent lamps, incandescent reflector lamps, showerheads, faucets, water closets, and urinals distributed in commerce for personal or commercial use or consumption.
 
 &emsp;(2) The term “covered product” means a consumer product of a type specified in section 6292 of this title.
 
@@ -16,7 +16,7 @@ For purposes of this part:
 
 &emsp;(4) The term “energy use” means the quantity of energy directly consumed by a consumer product at point of use, determined in accordance with test procedures under section 6293 of this title.
 
-&emsp;(5) The term “energy efficiency” means the ratio of the useful output of services from aconsumer product to the energy use of such product, determined in accordance with test procedures under section 6293 of this title.
+&emsp;(5) The term “energy efficiency” means the ratio of the useful output of services from a consumer product to the energy use of such product, determined in accordance with test procedures under section 6293 of this title.
 
 &emsp;(6) The term “energy conservation standard” means—
 
@@ -46,7 +46,7 @@ For purposes of this part:
 
 &emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark such product (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
-&emsp;(16) The terms “to distribute in commerce” and “distribution in commerce” mean to sell in commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
+&emsp;(16) The terms “to distribute in commerce” and “distribution in commerce” mean to sellin commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
 
 &emsp;(17) The term “commerce” means trade, traffic, commerce, or transportation—
 
@@ -94,7 +94,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) is designed to be the principal heating source for the living space of a residence;
 
-&emsp;&emsp;(B) is not contained within the same cabinet with a central air conditioner whoserated cooling capacity is above 65,000 Btu per hour;
+&emsp;&emsp;(B) is not contained within the same cabinet with a central air conditioner whose rated cooling capacity is above 65,000 Btu per hour;
 
 &emsp;&emsp;(C) is an electric central furnace, electric boiler, forced-air central furnace, gravity central furnace, or low pressure steam or hot water boiler; and
 
@@ -124,7 +124,7 @@ For purposes of this part:
 
 &emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy from one temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
 
-&emsp;(28) The term “weatherized warm air furnace or boiler” means a furnace or boiler designed for installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
+&emsp;(28) The term “weatherized warm air furnace or boiler” means a furnace or boiler designedfor installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
 
 &emsp;(29)(A) The term “fluorescent lamp ballast” means a device which is used to start and operate fluorescent lamps by providing a starting voltage and current and limiting the current during normal operation.
 
@@ -152,7 +152,7 @@ For purposes of this part:
 
 &emsp;(K) The term “relative light output” means the light output delivered through the use of a ballast divided by the light output delivered through the use of a reference ballast, expressed as a percent, as determined in accordance with the test procedures specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
-&emsp;(L) The term “residential building” means a structure or portion of a structure which provides facilities or shelter for human residency, except that such term does not include anymultifamily residential structure of more than three stories above grade.
+&emsp;(L) The term “residential building” means a structure or portion of a structure which provides facilities or shelter for human residency, except that such term does not include any multifamily residential structure of more than three stories above grade.
 
 &emsp;(30)(A) Except as provided in subparagraph (E), the term “fluorescent lamp” means a low pressure mercury electric-discharge source in which a fluorescing coating transforms some of the ultraviolet energy generated by the mercury discharge into light, including only the following:
 
@@ -186,7 +186,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
-&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, or similar bulb shapes (excluding ER or BR) with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.75 inches, and is either—
+&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, or similar bulb shapes (excludingER or BR) with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.75 inches, and is either—
 
 &emsp;&emsp;&emsp;(I) a low(er) wattage reflector lamp which has a rated wattage between 40 and 205 watts; or
 
@@ -276,17 +276,15 @@ For purposes of this part:
 
 &emsp;(H) The terms “blowout”, “flushometer tank”, “low consumption”, and “flushometer valve” have the meaning given such terms in ASME A112.19.2M–1990.
 
-(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817.)
+(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(3), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-#### Codification
-
-In par. (1), “section 32901(a)(3) of title 49” substituted for “section 501(1) of the Motor Vehicle Information and Cost Savings Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
-
 #### Amendments
+
+1998—Par. (1). Pub. L. 105–388 substituted “section 32901(a)(3) of title 49” for “section 501(1) of the Motor Vehicle Information and Cost Savings Act” and struck out second period at end.
 
 1992—Pub. L. 102–486, §123(b)(1), in introductory provisions, struck out “(a)” before “For purposes”.
 
@@ -323,6 +321,4 @@ Subsec. (a)(19) to (28). Pub. L. 100–12, §2(b), added pars. (19) to (28).
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6311 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

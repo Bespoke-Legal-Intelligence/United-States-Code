@@ -18,3 +18,7 @@ A grant recipient shall provide non-Federal funds in an amount not less than 10 
 
 (Pub. L. 97–300, title IV, §496, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1091.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+

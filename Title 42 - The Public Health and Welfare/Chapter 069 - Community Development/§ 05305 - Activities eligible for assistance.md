@@ -18,7 +18,7 @@ Activities assisted under this chapter may include only—
 
 &emsp;(7) disposition (through sale, lease, donation, or otherwise) of any real property acquired pursuant to this chapter or its retention for public purposes;
 
-&emsp;(8) provision of public services, including but not limited to those concerned with employment, crime prevention, child care, health, drug abuse, education, energy conservation, welfare or recreation needs, if such services have not been provided by the unit of general local government (through funds raised by such unit, or received by such unit from the State in which it is located) during any part of the twelve-month period immediately preceding the date of submission of the statement with respect to which funds are to be made available under this chapter, and which are to be used for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the unit of general local government, except that not more than 15 per centum of the amount of any assistance to a unit of general local government (or in the case of nonentitled communities not more than 15 per centum statewide) under this chapter including program income may be used for activities under this paragraph unless such unit of general local government used more than 15 percent of the assistance received under this chapter for fiscal year 1982 or fiscal year 1983 for such activities (excluding any assistance received pursuant to Public Law 98–8), in which case such unit of general local government may use not more than the percentage or amount of such assistance used for such activities for such fiscal year, whichever method of calculation yields the higher amount, except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1993 through 1998 to the City of Los Angeles and County of Los Angeles, each such unit of general government may use not more than 25 percent in each such fiscal year for activities under this paragraph, and except that of any amount of assistance under this chapter (including program income) in fiscal year 1994 to the City of Pittsburgh, Pennsylvania, such city may use not more than 20 percent in each such fiscal year for activities under this paragraph;
+&emsp;(8) provision of public services, including but not limited to those concerned with employment, crime prevention, child care, health, drug abuse, education, energy conservation, welfare or recreation needs, if such services have not been provided by the unit of general local government (through funds raised by such unit, or received by such unit from the State in which it is located) during any part of the twelve-month period immediately preceding the date of submission of the statement with respect to which funds are to be made available under this chapter, and which are to be used for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the unit of general local government, except that not more than 15 per centum of the amount of any assistance to a unit of general local government (or in the case of nonentitled communities not more than 15 per centum statewide) under this chapter including program income may be used for activities under this paragraph unless such unit of general local government used more than 15 percent of the assistance received under this chapter for fiscal year 1982 or fiscal year 1983 for such activities (excluding any assistance received pursuant to Public Law 98–8), in which case such unit of general local government may use not more than the percentage or amount of such assistance used for such activities for such fiscal year, whichever method of calculation yields the higher amount, except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1993 through 2000 to the City of Los Angeles and County of Los Angeles, each such unit of general government may use not more than 25 percent in each such fiscal year for activities under this paragraph, and except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1999, 2000, and 2001, to the City of Miami, such city may use not more than 25 percent in each fiscal year for activities under this paragraph;
 
 &emsp;(9) payment of the non-Federal share required in connection with a Federal grant-in-aid program undertaken as part of activities assisted under this chapter;
 
@@ -100,7 +100,7 @@ Upon the request of the recipient of assistance under this chapter, the Secretar
 
 &emsp;(C) involve employment of persons, a majority of whom are persons of low and moderate income.
 
-(2)(A) In any case in which an assisted activity described in subsection (a) of this section is designed to serve an area generally and is clearly designed to meet identified needs of persons of low and moderate income in such area, such activity shall be considered to principally benefit persons of low and moderate income if (i) not less than 51 percent of the residents of such area are persons of low and moderate income; (ii) in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction of such city or county in terms of the degree of concentration of persons of low and moderate income; or (iii) the assistance for such activity is limited to paying assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
+(2)(A) In any case in which an assisted activity described in subsection (a) of this section is designed to serve an area generally and is clearly designed to meet identified needs of persons of low and moderate income in such area, such activity shall be considered to principally benefit persons of low and moderate income if (i) not less than 51 percent of the residents of such area are persons of low and moderate income; (ii) in any metropolitan city or urban county, the area served by such activity is within the highest quartile of all areas within the jurisdiction ofsuch city or county in terms of the degree of concentration of persons of low and moderate income; or (iii) the assistance for such activity is limited to paying assessments (including any charge made as a condition of obtaining access) levied against properties owned and occupied by persons of low and moderate income to recover the capital cost for a public improvement.
 
 (B) The requirements of subparagraph (A) do not prevent the use of assistance under this chapter for the development, establishment, and operation for not to exceed 2 years after its establishment of a uniform emergency telephone number system if the Secretary determines that—
 
@@ -162,13 +162,17 @@ In developing program requirements and providing assistance pursuant to paragrap
 
 &emsp;(2) not consider training, technical assistance, or other support services costs provided to small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) of this section or an administrative cost pursuant to subsection (a)(13) of this section.
 
-(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I, §105(a), (b)(1), (c)–(e), title III, §302(a), Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906.)
+#### (h) Prohibition on use of assistance for employment relocation activities
+
+Notwithstanding any other provision of law, no amount from a grant under section 5306 of this title made in fiscal year 1999 or any succeeding fiscal year may be used to assist directly in the relocation of any industrial or commercial plant, facility, or operation, from 1 area to another area, if the relocation is likely to result in a significant loss of employment in the labor market area from which the relocation occurs.
+
+(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I, §105(a), (b)(1), (c)–(e), title III, §302(a), Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–276, title II, §§218, 232, title V, §§588, 596(a), Oct. 21, 1998, 112 Stat. 2487, 2492, 2651, 2659.)
 
 #### References in Text
 
 Public Law 98–8, referred to in subsec. (a)(8), is Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 13. Provisions of that Act relating to assistance under this chapter are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Housing Act of 1949, referred to in subsec. (a)(10), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants and loans under such title I after Jan. 1, 1975. For complete classification of this Act to theCode, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsec. (a)(10), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants and loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(13)(A), (20), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
@@ -183,6 +187,14 @@ Section 1437<i>o</i> of this title, referred to in subsec. (a)(18), was repealed
 In subsec. (a)(13), “August 12, 1981” substituted for “the date prior to the date of enactment of the Housing and Community Development Amendments of 1981”.
 
 #### Amendments
+
+1998—Subsec. (a)(8). Pub. L. 105–276, §596(a), which directed the substitution of “2000” for “1998”, was executed by substituting “2000” for “1999”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–276, §218, see below.
+
+Pub. L. 105–276, §232, substituted “each of fiscal years 1999, 2000, and 2001, to the City of Miami, such city may use not more than 25 percent in each fiscal year for activities under this paragraph;” for “fiscal year 1994 to the City of Pittsburgh, Pennsylvania, such city may use not more than 20 percent in each such fiscal year for activities under this paragraph;”.
+
+Pub. L. 105–276, §218, substituted “1999” for “1998”.
+
+Subsec. (h). Pub. L. 105–276, §588, added subsec. (h).
 
 1996—Subsec. (a)(4). Pub. L. 104–134, §101\[(e)\] \[title II, §225(1)\], inserted “reconstruction,” after “removal,” and substituted “acquisition for reconstruction or rehabilitation, and reconstruction or rehabilitation” for “acquisition for rehabilitation, and rehabilitation”.
 
@@ -292,7 +304,7 @@ Subsec. (a)(13). Pub. L. 97–35, §303(a)(2), inserted reference to the carryin
 
 Subsec. (a)(14). Pub. L. 97–35, §309(f)(5), substituted “which are carried out by public or private non-profit entities” for “(as specifically described in the application submitted pursuant to section 5304 of this title) which are carried out by public or private non-profit entities when such activities are necessary or appropriate to meeting the needs and objectives of the community development plan described in section 5304(a)(1) of this title”.
 
-Subsec. (a)(15). Pub. L. 97–35, §309(f)(6), struck out “(as specifically described in the application submitted pursuant to section 5304 of this title)” after “conservation project”.
+Subsec. (a)(15). Pub. L. 97–35, §309(f)(6), struck out “(as specifically described in the application submittedpursuant to section 5304 of this title)” after “conservation project”.
 
 Subsec. (a)(17). Pub. L. 97–35, §303(a)(5), added par. (17).
 
@@ -321,6 +333,12 @@ Subsec. (a)(8). Pub. L. 95–128, §105(c), struck out from cl. (A) “economic 
 Subsec. (a)(14), (15). Pub. L. 95–128, §105(d), added pars. (14) and (15).
 
 1976—Subsec. (a)(2). Pub. L. 94–375 inserted “centers for the handicapped,” after “neighborhood facilities,”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+
+Pub. L. 105–276, title V, §596(b), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -355,6 +373,18 @@ Amendment by Pub. L. 95–557 effective Oct. 1, 1978, see section 104 of Pub. L.
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L. 95–128, set out as a note under section 5301 of this title.
+
+#### Non-Federal Cost Sharing of Army Corps of Engineers Projects
+
+Pub. L. 105–276, title II, Oct. 21, 1998, 112 Stat. 2478, provided in part that: “For any fiscal year, of theamounts made available as emergency funds under the heading ‘Community Development Block Grants Fund’ and notwithstanding any other provision of law, not more than $250,000 may be used for the non-Federal cost-share of any project funded by the Secretary of the Army through the Corps of Engineers.”
+
+#### Brownfields Projects as Eligible CDBG Activity
+
+Pub. L. 105–276, title II, §205, Oct. 21, 1998, 112 Stat. 2484, provided that: “For fiscal years 1998, 1999, and all fiscal years thereafter, States and entitlement communities may use funds allocated under the community development block grants program under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] for environmental cleanup and economic development activities related to Brownfields projects in conjunction with the appropriate environmental regulatory agencies, as if such activities were eligible under section 105(a) of such Act \[42 U.S.C. 5305(a)\].”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 105–65, title II, §209, Oct. 27, 1997, 111 Stat. 1366.
 
 #### GAO Study of Use of Grants for Economic Development Projects
 

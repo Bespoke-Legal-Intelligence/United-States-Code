@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 &emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of section 300bb–8(3) of this title shall be deemed to include an election of continuation coverage on behalf of any other qualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
 
-(July 1, 1944, ch. 373, title XXII, §2205, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 235; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(d)(5)(C), 100 Stat. 2939.)
+(July 1, 1944, ch. 373, title XXII, §2205, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(C), Oct. 22, 1986, 100 Stat. 2939.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ In any case in which the Bureau of Justice Assistance (hereinafter in this subch
 
 #### (b) Benefits for permanent and total disability
 
-In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled asthe direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a) of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer: <i>Provided</i>, That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary: <i>Provided further</i>, That these benefit payments are subject to the availability of appropriations and that each beneficiary's payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated.
+In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled as the direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a) of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer: <i>Provided</i>, That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary: <i>Provided further</i>, That these benefit payments are subject to the availability of appropriations and that each beneficiary's payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated.
 
 #### (c) Interim benefit payment
 
@@ -54,7 +54,7 @@ The amount payable under subsection (a) of this section with respect to the deat
 
 (2) No benefit is payable under this subchapter with respect to the disability of a public safety officer if a benefit is payable under this subchapter with respect to the death of such public safety officer.
 
-(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138.)
+(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098;amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138.)
 
 #### Prior Provisions
 
@@ -90,7 +90,7 @@ Subsecs. (g), (h). Pub. L. 100–690, §6105(b), added subsecs. (g) and (h).
 
 #### Effective Date of 1992 Amendment
 
-Section 2 of Pub. L. 102–520 provided that: “The amendments made by section 1 of this Act \[amendingthis section\] shall apply with respect to injuries occurring on or after November 29, 1990, using the calculation method used to determine benefits under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[subsec. (a) of this section\].”
+Section 2 of Pub. L. 102–520 provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply with respect to injuries occurring on or after November 29, 1990, using the calculation method used to determine benefits under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[subsec. (a) of this section\].”
 
 #### Effective Date of 1990 Amendment
 

@@ -1,8 +1,8 @@
 ### §48103. Airport planning and development and noise compatibility planning and programs
 
-The total amounts which shall be available after September 30, 1996, to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to make grants for airport planning and airport development under section 47104 of this title, airport noise compatibility planning under section 47505(a)(2) of this title, and carrying out noise compatibility programs under section 47504(c) of this title shall be $2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.
+The total amounts which shall be available after September 30, 1998, to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to make grants for airport planning and airport development under section 47104 of this title, airport noise compatibility planning under section 47505(a)(2) of this title, and carrying out noise compatibility programs under section 47504(c) of this title shall be $1,205,000,000 for the six-month period beginning October 1, 1998 <sup>1</sup>
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587.)
 
 Historical and Revision Notes
 
@@ -30,6 +30,8 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 
 #### Amendments
 
+1998—Pub. L. 105–277 substituted “September 30, 1998” for “September 30, 1996” and “$1,205,000,000 for the six-month period beginning October 1, 1998” for “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.”
+
 1996—Pub. L. 104–264 substituted “September 30, 1996” for “September 30, 1981” and “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.” for “$17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996.”
 
 1994—Pub. L. 103–305 substituted “The total amounts which shall be available after September 30, 1981, to the Secretary of Transportation” for “Not more than a total of $15,966,700,000 is available to the Secretary of Transportation for the fiscal years ending September 30, 1982–1993,” and inserted before period at end “shall be $17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996”.
@@ -41,4 +43,6 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 47102, 47104, 47107, 47110, 47113, 47114, 47115, 47116, 47117, 47504, 47505, 48104, 48108 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

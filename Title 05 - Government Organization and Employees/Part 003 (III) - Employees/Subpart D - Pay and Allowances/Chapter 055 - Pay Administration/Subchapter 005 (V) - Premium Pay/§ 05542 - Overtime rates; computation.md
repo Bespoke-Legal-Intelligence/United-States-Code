@@ -46,9 +46,15 @@
 
 &emsp;(2) such investigator shall be compensated for all other overtime work under section 5545a.
 
-(e) Notwithstanding subsection (d)(1) of this section, all hours of overtime work scheduled in advance of the administrative workweek shall be compensated under subsection (a) if that work involves duties as authorized by section 3056(a) of title 18, United States Code, and if the investigator performs, on that same day, at least 2 hours of overtime work not scheduled in advance of the administrative workweek.
+(e) Notwithstanding subsection (d)(1) of this section, all hours of overtime work scheduled in advance of the administrative workweek shall be compensated under subsection (a) if that work involves duties as authorized by section 3056(a) of title 18 or section 37(a)(3) of the State Department Basic Authorities Act of 1956, and if the investigator performs, on that same day, at least 2 hours of overtime work not scheduled in advance of the administrative workweek.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496.)
+(f) In applying subsection (a) of this section with respect to a firefighter who is subject to section 5545b—
+
+&emsp;(1) such subsection shall be deemed to apply to hours of work officially ordered or approved in excess of 106 hours in a biweekly pay period, or, if the agency establishes a weekly basis for overtime pay computation, in excess of 53 hours in an administrative workweek; and
+
+&emsp;(2) the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay under section 5545b(b)(1)(A) or (c)(1)(B), as applicable, and such overtime hourly rate of pay may not be less than such hourly rate of basic pay in applying the limitation on the overtime rate provided in paragraph (2) of such subsection (a).
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829.)
 
 Historical and Revision Notes<br>1966
 
@@ -108,7 +114,13 @@ GS–10 and GS–14, referred to in subsec. (a), are contained in the General Sc
 
 Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), is classified to section 207 of Title 29, Labor.
 
+Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred to in subsec. (e), is classified to section 2709(a)(3) of Title 22, Foreign Relations and Intercourse.
+
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–277, §101(b) \[title IV, §407(c)(2)\] and §2316(c)(2), amended subsec. (e) identically, substituting “title 18 or section 37(a)(3) of the State Department Basic Authorities Act of 1956,” for “title 18, United States Code,”.
+
+Subsec. (f). Pub. L. 105–277, §101(h) \[title VI, §628(a)(1)\], added subsec. (f).
 
 1995—Subsec. (e). Pub. L. 104–52 added subsec. (e).
 
@@ -118,7 +130,7 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), i
 
 Subsec. (c). Pub. L. 102–378, §2(41)(B), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work.”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
+1990—Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted “(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rateof pay under section 5305 or similar provision of law)” after “GS–10” wherever appearing.
 
 Subsec. (a)(4). Pub. L. 101–509, §529 \[title IV, §410(a)\], added par. (4).
 
@@ -132,6 +144,16 @@ Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
 1967—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. A, title I, §101(b) \[title IV, §407(d)\], div. G, title XXIII, §2316(d), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–829, provided that: “The amendments made by this section \[amending this section and section 5545a of this title\] shall take effect on the first day of the first applicable pay period—
+
+&emsp;“(1) which begins on or after the 90th day following the date of the enactment of this Act \[Oct. 21, 1998\]; and
+
+&emsp;“(2) on which date all regulations necessary to carry out such amendments are (in the judgment of the Director of the Office of Personnel Management and the Secretary of State) in effect.” \[Jan. 29, 1999, see 64 F.R. 4517.\]
+
+Amendment by section 101(h) \[title VI, §628(a)(1)\] of Pub. L. 105–277 effective on first day of first applicable pay period which begins on or after Oct. 1, 1998, see section 101(h) \[title VI, §628(e)\] of Pub. L. 105–277, set out as a note under section 4109 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
@@ -142,7 +164,7 @@ Amendment by Pub. L. 102–378 effective as of first day of first applicable pay
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 529 \[title I, §101(b)(3)(E), title II, §210(1)\] of Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, seesection 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by section 529 \[title I, §101(b)(3)(E), title II, §210(1)\] of Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -154,7 +176,7 @@ Section 220(a)(4) of title II of Pub. L. 90–206 provided that, except as other
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5543, 5545, 5545a, 5546, 5547, 6123, 6128 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
+This section is referred to in sections 5543, 5545, 5545a, 5545b, 5546, 5547, 6123, 6128 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -6,7 +6,7 @@ Any officer of the customs may at any time go on board of any vessel or vehicle 
 
 #### (b) Officers of Department of the Treasury
 
-Officers of the Department of the Treasury and other persons authorized by such department may go on board of any vessel at any place in the United States or within the customs waters and hail, stop, and board such vessel in the enforcement of the navigation laws and arrest or, in case of escape or attempted escape, pursue and arrest any person engaged in the breach or violation of the navigation laws.
+Officers of the Department of the Treasury and other persons authorized by such department may go on board of any vessel at any place in the United States or within the customs waters and hail, stop, and board such vessel in theenforcement of the navigation laws and arrest or, in case of escape or attempted escape, pursue and arrest any person engaged in the breach or violation of the navigation laws.
 
 #### (c) Penalty for presenting forged, altered, or false documents
 
@@ -30,7 +30,7 @@ Any vessel, within or without the customs waters, from which any merchandise is 
 
 #### (h) Application of section to treaties of United States
 
-The provisions of this section shall not be construed to authorize or require any officer of the United States to enforce any law of the United States upon the high seas upon a foreign vessel in contravention of any treaty with a foreign government enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon saidvessel upon the high seas the laws of the United States except as such authorities are or may otherwise be enabled or permitted under special arrangement with such foreign government.
+The provisions of this section shall not be construed to authorize or require any officer of the United States to enforce any law of the United States upon the high seas upon a foreign vessel in contravention of any treaty with a foreign government enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon said vessel upon the high seas the laws of the United States except as such authorities are or may otherwise be enabled or permitted under special arrangement with such foreign government.
 
 (June 17, 1930, ch. 497, title IV, §581, 46 Stat. 747; Aug. 5, 1935, ch. 438, title II, §203, 49 Stat. 521; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Sept. 1, 1954, ch. 1213, title V, §504, 68 Stat. 1141.)
 

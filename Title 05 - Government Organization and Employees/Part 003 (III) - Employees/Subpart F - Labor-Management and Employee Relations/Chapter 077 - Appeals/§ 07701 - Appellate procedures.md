@@ -46,7 +46,7 @@
 
 > the Director may as a matter of right intervene or otherwise participate in that proceeding before the Board. If the Director exercises his right to participate in a proceeding before the Board, he shall do so as early in the proceeding as practicable. Nothing in this title shall be construed to permit the Office to interfere with the independent decisionmaking of the Merit Systems Protection Board.
 
-(2) The Board shall promptly notify the Director whenever the interpretation of any civilservice law, rule, or regulation under the jurisdiction of the Office is at issue in any proceeding under this section.
+(2) The Board shall promptly notify the Director whenever the interpretation of any civil service law, rule, or regulation under the jurisdiction of the Office is at issue in any proceeding under this section.
 
 (e)(1) Except as provided in section 7702 of this title, any decision under subsection (b) of this section shall be final unless—
 
@@ -80,7 +80,7 @@
 
 (4) It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 
-(j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
+(j) In determining the appealability under this section of any case involving a removal from theservice (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
 
 (k) The Board may prescribe regulations to carry out the purpose of this section.
 
@@ -106,7 +106,7 @@ Aug. 4, 1947, ch. 447, 61 Stat. 723.
 
 June 22, 1948, ch. 604, 62 Stat. 575.
 
-The application of the section is established by the words “A preference eligible employee as defined bysection 7511 of this title”. Specific mention of the actions appealable are covered by the reference to “an adverse decision under section 7512 of this title”. The words “administrative authority” are substituted for “administrative officer” to avoid conflict with the definitions of “employee” and “officer” in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an “administrative officer” under former section 863. The words “the date of” in the phrase “after the date of receipt of notice” are omitted as unnecessary. The words “reasonable rules and” in the phrase “reasonable rules and regulations” are omitted as unnecessary. The word “proper” in the phrase “proper administrative officer” is omitted as unnecessary. The word “designated” in the phrase “designated representative” is omitted as unnecessary.
+The application of the section is established by the words “A preference eligible employee as defined by section 7511 of this title”. Specific mention of the actions appealable are covered by the reference to “an adverse decision under section 7512 of this title”. The words “administrative authority” are substituted for “administrative officer” to avoid conflict with the definitions of “employee” and “officer” in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an “administrative officer” under former section 863. The words “the date of” in the phrase “after the date of receipt of notice” are omitted as unnecessary. The words “reasonable rules and” in the phrase “reasonable rules and regulations” are omitted as unnecessary. The word “proper” in the phrase “proper administrative officer” is omitted as unnecessary. The word “designated” in the phrase “designated representative” is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title outlined in preface to the report.
 
@@ -166,5 +166,5 @@ Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1212, 2105, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 10 sections 1599c, 1610; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753.
+This section is referred to in sections 1212, 2105, 2302, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 10 section 1610; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753.
 

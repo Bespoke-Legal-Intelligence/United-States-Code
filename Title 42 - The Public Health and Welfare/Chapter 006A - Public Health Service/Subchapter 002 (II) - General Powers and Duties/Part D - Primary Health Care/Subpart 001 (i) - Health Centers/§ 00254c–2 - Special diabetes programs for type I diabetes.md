@@ -8,7 +8,7 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 Notwithstanding section 1397dd(a) of this title, from the amounts appropriated in such section for each of fiscal years 1998 through 2002, $30,000,000 is hereby transferred and made available in such fiscal year for grants under this section.
 
-(July 1, 1944, ch. 373, title III, §330B, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4921, 111 Stat. 574; amended Aug. 5, 1997, Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), 111 Stat. 1098.)
+(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ The regulations promulgated by the Secretary of Agriculture to implement subsect
 
 &emsp;(4) if the nursery stock is found to be infested with plant pests or insect pests or infected with plant diseases, be subject to remedial measures the Secretary of Agriculture determines to be necessary to prevent the spread of plant pests, insect pests, or plant diseases.
 
-(Aug. 20, 1912, ch. 308, §1, 37 Stat. 315; July 31, 1947, ch. 405, 61 Stat. 680; Sept. 28, 1988, Pub. L. 100–449, title III, §301(f)(3)(A), 102 Stat. 1869; Dec. 8, 1994, Pub. L. 103–465, title IV, §431(d)(1), 108 Stat. 4967.)
+(Aug. 20, 1912, ch. 308, §1, 37 Stat. 315; July 31, 1947, ch. 405, 61 Stat. 680; Pub. L. 100–449, title III, §301(f)(3)(A), Sept. 28, 1988, 102 Stat. 1869; Pub. L. 103–465, title IV, §431(d)(1), Dec. 8, 1994, 108 Stat. 4967.)
 
 #### Amendments
 

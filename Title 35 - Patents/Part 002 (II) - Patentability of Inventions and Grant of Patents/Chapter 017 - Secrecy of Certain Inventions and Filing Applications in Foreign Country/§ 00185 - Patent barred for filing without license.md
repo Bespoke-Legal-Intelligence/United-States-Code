@@ -16,7 +16,7 @@ Language is changed.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable, subject to certain qualifications and exceptions, to all United States patents, and to all licenses under section 184 ofthis title, regardless of the date such patents or licenses are granted, and to all applications for such patents pending on or filed after Aug. 23, 1988, see section 9101(d) of Pub. L. 100–418, set out as a note under section 184 of this title.
+Amendment by Pub. L. 100–418 applicable, subject to certain qualifications and exceptions, to all United States patents, and to all licenses under section 184 of this title, regardless of the date such patents or licenses are granted, and to all applications for such patents pending on or filed after Aug. 23, 1988, see section 9101(d) of Pub. L. 100–418, set out as a note under section 184 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -52,11 +52,11 @@
 
 #### (A) FEHBP
 
-&emsp;&emsp;An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is not eligible to enroll in an MSA plan until suchtime as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
+&emsp;&emsp;An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is not eligible to enroll in an MSA plan until such time as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
 
 #### (B) VA and DOD
 
-&emsp;&emsp;The Secretary may apply rules similar to the rules described in subparagraph (A) in the case of individuals who are eligible for health care benefits under chapter 55 of title 10 or under chapter 17 of title 38.
+&emsp;&emsp;The Secretary may apply rules similar to the rules described in subparagraph (A) inthe case of individuals who are eligible for health care benefits under chapter 55 of title 10 or under chapter 17 of title 38.
 
 #### (3) Limitation on eligibility of qualified medicare beneficiaries and other medicaid beneficiaries to enroll in an MSA plan
 
@@ -122,7 +122,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (andprospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
+&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
 
 #### (2) Provision of notice
 
@@ -212,7 +212,7 @@
 
 #### (B) Premiums
 
-&emsp;&emsp;The Medicare+Choice monthly basic beneficiary premium and Medicare+Choicemonthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium.
+&emsp;&emsp;The Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium.
 
 #### (C) Service area
 
@@ -222,7 +222,7 @@
 
 &emsp;&emsp;To the extent available, plan quality and performance indicators for the benefits under the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B of this subchapter in the area involved), including—
 
-&emsp;&emsp;&emsp;(i) disenrollment rates for medicare enrollees electing to receive benefits through the plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan's service area),
+&emsp;&emsp;&emsp;(i) disenrollment rates for medicare enrollees electing to receive benefits throughthe plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan's service area),
 
 &emsp;&emsp;&emsp;(ii) information on medicare enrollee satisfaction,
 
@@ -296,7 +296,7 @@
 
 #### (D) Special information campaign in 1998
 
-&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
+&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicitycampaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
 
 #### (4) Special election periods
 
@@ -356,7 +356,7 @@
 
 #### (4) Other periods
 
-&emsp;An election or change of coverage made during any other period under subsection (e)(4) ofthis section shall take effect in such manner as the Secretary provides in a manner consistent (to the extent practicable) with protecting continuity of health benefit coverage.
+&emsp;An election or change of coverage made during any other period under subsection (e)(4) of this section shall take effect in such manner as the Secretary provides in a manner consistent (to the extent practicable) with protecting continuity of health benefit coverage.
 
 #### (g) Guaranteed issue and renewal
 
@@ -366,7 +366,7 @@
 
 #### (2) Priority
 
-&emsp;If the Secretary determines that a Medicare+Choice organization, in relation to a Medicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals of the plan under this section but only if priority in election is provided—
+&emsp;If the Secretary determines that a Medicare+Choice organization, in relation to aMedicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals of the plan under this section but only if priority in election is provided—
 
 &emsp;&emsp;(A) first to such individuals as have elected the plan at the time of the determination, and
 
@@ -440,7 +440,7 @@
 
 &emsp;Subject to sections 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), and <sup>1</sup> 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4001, 111 Stat. 275.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275.)
 
 #### References in Text
 

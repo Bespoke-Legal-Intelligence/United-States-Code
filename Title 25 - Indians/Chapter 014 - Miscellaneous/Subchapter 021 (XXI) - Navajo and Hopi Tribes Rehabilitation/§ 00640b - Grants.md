@@ -10,7 +10,7 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13d–2, 640a, 640c–1, 640c–2, 640c–3, 1812, 1832, 1851 of this title; title 20 sections 1085, 2471, 3489.
+This section is referred to in sections 13d–2, 640a, 640c–1, 640c–2, 640c–3, 1812, 1832, 1851 of this title; title 20 sections 1085, 3489.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

@@ -2,7 +2,7 @@
 
 Whoever, being a postmaster or other person authorized to receive the postage of mail matter, fraudulently demands or receives any rate of postage or gratuity or reward other than is provided by law for the postage of such mail matter, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 784; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

@@ -26,7 +26,7 @@ A prior section 3101, Pub. L. 95–113, title XIV, §1402, Sept. 29, 1977, 91 St
 
 #### Amendments
 
-1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which setout six purposes of federally funded agricultural research and extension programs.
+1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which set out six purposes of federally funded agricultural research and extension programs.
 
 #### Short Title of 1985 Amendment
 
@@ -42,5 +42,5 @@ Section 1401 of title XIV of Pub. L. 95–113 provided that: “This title \[ena
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 390a, 2204f, 3123 of this title.
+This section is referred to in sections 390a, 2204f, 3123, 7612 of this title.
 

@@ -38,7 +38,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 &emsp;(2) a unit subject to subsection (b)(2) of this section cannot meet the applicable rate using the technology on which the Administrator based the applicable emission limitation.
 
-> The permitting authority shall base such determination upon a showing satisfactory to the permitting authority, in accordance with regulations established by the Administrator not later than eighteen months after November 15, 1990, that the owner or operator—
+> The permitting authority shall base such determination upon a showing satisfactory to thepermitting authority, in accordance with regulations established by the Administrator not later than eighteen months after November 15, 1990, that the owner or operator—
 
 &emsp;(1) has properly installed appropriate control equipment designed to meet the applicable emission rate;
 
@@ -60,7 +60,7 @@ In lieu of complying with the applicable emission limitations under subsection (
 
 If the permitting authority determines, in accordance with regulations issued by the Administrator not later than eighteen months after November 15, 1990; <sup>3</sup> that the conditions in the paragraph above can be met, the permitting authority shall issue operating permits for such units, in accordance with section 7651g of this title and part B <sup>2</sup> of title III, that allow alternative contemporaneous annual emission limitations. Such emission limitations shall only remain in effect while both units continue operation under the conditions specified in their respective operating permits.
 
-(July 14, 1955, ch. 360, title IV, §407, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2613.)
+(July 14, 1955, ch. 360, title IV, §407, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2613.)
 
 #### References in Text
 

@@ -1,8 +1,8 @@
 ### §1912. Unauthorized fees for inspection of vessels
 
-Whoever, being an officer, employee, or agent of the United States or any agency thereof, engaged in inspection of vessels, upon any pretense, receives any fee or reward for his services, except what is allowed to him by law, shall be fined under this title or imprisoned not more than six months, or both; and shall forfeit his office.
+Whoever, being an officer, employee, or agent of the United States or any agency thereof, engaged in inspection of vessels, upon any pretense, receives any fee or reward for his services, except what is allowed to him by law, shall be fined under this title or imprisoned not morethan six months, or both; and shall forfeit his office.
 
-(June 25, 1948, ch. 645, 62 Stat. 792; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

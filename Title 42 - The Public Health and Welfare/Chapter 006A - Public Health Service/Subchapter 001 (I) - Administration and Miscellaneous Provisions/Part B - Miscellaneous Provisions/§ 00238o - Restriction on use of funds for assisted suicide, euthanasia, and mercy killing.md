@@ -2,7 +2,7 @@
 
 Appropriations for carrying out the purposes of this chapter shall not be used in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
-(July 1, 1944, ch. 373, title II, §246, as added Apr. 30, 1997, Pub. L. 105–12, §9(e), 111 Stat. 27.)
+(July 1, 1944, ch. 373, title II, §246, as added Pub. L. 105–12, §9(e), Apr. 30, 1997, 111 Stat. 27.)
 
 #### References in Text
 

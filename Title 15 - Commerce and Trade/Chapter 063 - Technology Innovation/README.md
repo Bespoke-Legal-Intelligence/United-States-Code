@@ -10,6 +10,8 @@
 | (b) | Under Secretary and Assistant Secretary. |
 | (c) | Duties. |
 | (d) | Japanese technical literature. |
+| (e) | Omitted. |
+| (f) | Experimental Program to Stimulate Competitive Technology. |
 | [3704a.](%C2%A7%2003704a%20-%20Clearinghouse%20for%20State%20and%20Local%20Initiatives%20on%20Productivity%2C%20Technology%2C%20and%20Innovation.md) | Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation. |
 | (a) | Establishment. |
 | (b) | Responsibilities. |
@@ -115,7 +117,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 5203 of this title; title 10 section 2902; title 22 section 2656d; title 23 sections 307, 403; title 30 section 1805; title 33 section 2313; title 35 section 210; title 42 section 13541; title 43 section 390h–3; title 49 section 309.
+This chapter is referred to in section 5203 of this title; title 7 section 7624; title 10 section 2902; title 22 section 2656d; title 23 sections 307, 403; title 30 section 1805; title 33 section 2313; title 35 section 210; title 42 section 13541; title 43 section 390h–3; title 49 section 309.
 
 
 ---

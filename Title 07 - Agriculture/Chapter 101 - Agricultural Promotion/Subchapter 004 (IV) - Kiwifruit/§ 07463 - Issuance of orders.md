@@ -20,9 +20,13 @@ To effectuate the purposes of this subchapter specified in section 7461(b) of th
 
 #### (c) Amendments
 
-The Secretary may amend any order issued under this section. The provisions of this subchapter applicable to an order shall be applicable to an amendment to an order.
+The Secretary may amend any order issued under this section. The provisions of this subchapter applicable to an order shall be applicable to an amendment to an order, except that an amendment to an order shall not require a referendum to become effective.
 
-(Pub. L. 104–127, title V, §554, Apr. 4, 1996, 110 Stat. 1065.)
+(Pub. L. 104–127, title V, §554, Apr. 4, 1996, 110 Stat. 1065; Pub. L. 105–185, title VI, §603(a), June 23, 1998, 112 Stat. 585.)
+
+#### Amendments
+
+1998—Subsec. (c). Pub. L. 105–185 inserted “, except that an amendment to an order shall not require a referendum to become effective” before period at end.
 
 #### Section Referred to in Other Sections
 

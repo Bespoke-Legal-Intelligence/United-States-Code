@@ -164,6 +164,18 @@ The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignat
 
 All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and both coinage funds to cease to exist as separate funds as their activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 
+#### Award of Congressional Gold Medal to Little Rock Nine
+
+Pub. L. 105–277, div. C, title I, §139(a), Oct. 21, 1998, 112 Stat. 2681–597, authorized President to present, on behalf of Congress, gold medals to Jean Brown Trickey, Carlotta Walls LaNier, Melba Patillo Beals, Terrence Roberts, Gloria Ray Karlmark, Thelma Mothershed Wair, Ernest Green, Elizabeth Eckford, and Jefferson Thomas, commonly referred to as the “Little Rock Nine”, in recognition of the selfless heroism such individuals exhibited and the pain they suffered in the cause of civil rights by integrating Central High School in Little Rock, Arkansas, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
+
+#### Award of Congressional Gold Medal to Gerald R. and Betty Ford
+
+Pub. L. 105–277, div. C, title I, §139(b), Oct. 21, 1998, 112 Stat. 2681–598, authorized President to present, on behalf of Congress, a gold medal to Gerald R. and Betty Ford in recognition of their dedicated public service and outstanding humanitarian contributions to the people of the United States and in commemoration of specific anniversary events in 1988, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
+
+#### Award of Gold Medal to Nelson Mandela
+
+Pub. L. 105–215, July 29, 1998, 112 Stat. 895, authorized President to present, on behalf of Congress, a gold medal to Nelson Rolihlahla Mandela in recognition of his lifelong dedication to abolition of apartheid and promotion of reconciliation among the people of the Republic of South Africa, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
+
 #### Award of Gold Medal to Ecumenical Patriarch Bartholomew
 
 Pub. L. 105–51, Oct. 6, 1997, 111 Stat. 1170, authorized President to present, on behalf of Congress, a gold medal to Ecumenical Patriarch Bartholomew in recognition of his outstanding and enduring contributions to religious understanding and peace, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions, authorized Secretary to have bronze duplicates of the medal coined and sold as prescribed by regulation, and provided that the medals are national medals for purposes of chapter 51 of this title.
@@ -190,7 +202,7 @@ Pub. L. 103–457, Nov. 2, 1994, 108 Stat. 4799, authorized President to present
 
 #### Thomas Jefferson Medals
 
-Pub. L. 102–479, Oct. 23, 1992, 106 Stat. 2308, authorized President to present, on behalf of Congress, to a representative of the American Philosophical Society a gold Thomas Jefferson Medal to commemorate the 250th anniversary of the founding of the American Philosophical Society and of the birth of Thomas Jefferson, directed Secretary of the Treasury to strike the gold medal and 50 bronze duplicate medals to be presented by the American Philosophical Society to persons of scholarly achievement, provided for payment for the medals and general waiver of procurement regulations,and provided that the medals are national medals for purposes of chapter 51 of this title.
+Pub. L. 102–479, Oct. 23, 1992, 106 Stat. 2308, authorized President to present, on behalf of Congress, to a representative of the American Philosophical Society a gold Thomas Jefferson Medal to commemorate the 250th anniversary of the founding of the American Philosophical Society and of the birth of Thomas Jefferson, directed Secretary of the Treasury to strike the gold medal and 50 bronze duplicate medals to be presented by the American Philosophical Society to persons of scholarly achievement, provided for payment for the medals and general waiver of procurement regulations, and provided that the medals are national medals for purposes of chapter 51 of this title.
 
 #### Benjamin Franklin National Memorial Commemorative Medal and Fire Service Bill of Rights
 
@@ -234,7 +246,7 @@ Pub. L. 101–260, Mar. 30, 1990, 104 Stat. 122, known as the “United States C
 
 #### Award of Gold Medal to Andrew Wyeth
 
-Pub. L. 100–639, Nov. 9, 1988, 102 Stat. 3331, authorized President to present, on behalf of Congress, a gold medal to Andrew Wyeth in recognition of his outstanding and invaluable contributions to American art and culture, directed Secretary of the Treasury to strike agold medal with suitable emblems, devices, and inscriptions for purposes of presentation by President, provided that Secretary could have bronze duplicates of the medals coined and sold as prescribed by regulation, and provided that the gold and bronze medals are national medals for purposes of chapter 51 of this title.
+Pub. L. 100–639, Nov. 9, 1988, 102 Stat. 3331, authorized President to present, on behalf of Congress, a gold medal to Andrew Wyeth in recognition of his outstanding and invaluable contributions to American art and culture, directed Secretary of the Treasury to strike a gold medal with suitable emblems, devices, and inscriptions for purposes of presentation by President, provided that Secretary could have bronze duplicates of the medals coined and sold as prescribed by regulation, and provided that the gold and bronze medals are national medals for purposes of chapter 51 of this title.
 
 #### Award of Gold Medal to Mrs. Jesse Owens
 

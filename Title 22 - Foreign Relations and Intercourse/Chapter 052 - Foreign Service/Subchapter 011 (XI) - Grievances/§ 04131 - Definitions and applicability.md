@@ -1,6 +1,6 @@
 ### §4131. Definitions and applicability
 
-(a)(1) Except as provided in subsection (b) of this section, for purposes of this subchapter, the term “grievance” means any act, omission, or condition subject to the control of the Secretary which is alleged to deprive a member of the Service who is a citizen of the United States\(other than a United States citizen employed under section 3951 of this title who is not a family member) of a right or benefit authorized by law or regulation or which is otherwise a source of concern or dissatisfaction to the member, including—
+(a)(1) Except as provided in subsection (b) of this section, for purposes of this subchapter, the term “grievance” means any act, omission, or condition subject to the control of the Secretary which is alleged to deprive a member of the Service who is a citizen of the United States (other than a United States citizen employed under section 3951 of this title who is not a family member) of a right or benefit authorized by law or regulation or which is otherwise a source of concern or dissatisfaction to the member, including—
 
 &emsp;(A) separation of the member allegedly contrary to laws or regulations, or predicated upon alleged inaccuracy, omission, error, or falsely prejudicial character of information in any part of the official personnel record of the member;
 
@@ -42,11 +42,15 @@
 
 > Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) of this section from such term.
 
-(c) This subchapter applies only with respect to the Department of State, the United States Information Agency, the United States International Development Cooperation Agency, the Department of Agriculture, and the Department of Commerce.
+(c) This subchapter applies only with respect to the Department of State, Broadcasting <sup>1</sup> Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 
-(Pub. L. 96–465, title I, §1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, §153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L. 103–236, title I, §§180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417.)
+(Pub. L. 96–465, title I, §1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, §153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L. 103–236, title I, §§180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(4), title XIV, §1422(b)(4)(D), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–277, §1422(b)(4)(D), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+
+Pub. L. 105–277, §1335(k)(4), substituted “Broadcasting Board of Governors,” for “the United States Information Agency,”.
 
 1994—Subsec. (a)(1). Pub. L. 103–236, §180(a)(10), inserted “(other than a United States citizen employed under section 3951 of this title who is not a family member)” after “citizen of the United States” in introductory provisions.
 
@@ -60,6 +64,12 @@ Subsec. (b). Pub. L. 102–138, §153(a)(2), in par. (4), substituted “section
 
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1335(k)(4) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+Amendment by section 1422(b)(4)(D) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of this section, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
@@ -67,4 +77,6 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4102, 4113, 4132, 4134, 4137, 4139, 4140 of this title; title 5 section 5596.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “the Broadcasting”.</i>
 

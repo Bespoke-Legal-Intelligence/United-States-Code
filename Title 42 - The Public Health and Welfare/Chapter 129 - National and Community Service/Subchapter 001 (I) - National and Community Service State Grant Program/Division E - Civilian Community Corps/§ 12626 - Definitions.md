@@ -24,7 +24,7 @@ In this division:
 
 #### (6) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given that term in section 1141(a) of title 20.
+&emsp;The term “institution of higher education” has the meaning given that term in section 1001 of title 20.
 
 #### (7) Program
 
@@ -50,7 +50,7 @@ In this division:
 
 &emsp;The term “unit” means a unit of the Corps referred to in section 12615(c) of this title.
 
-(Pub. L. 101–610, title I, §166, formerly §195O, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §166 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(H), title IV, §§402(b)(2), 403(a)(4), Sept. 21, 1993, 107 Stat. 840, 847, 919.)
+(Pub. L. 101–610, title I, §166, formerly §195O, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §166 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(H), title IV, §§402(b)(2), 403(a)(4), Sept. 21, 1993, 107 Stat. 840, 847, 919; Pub. L. 105–244, title I, §102(a)(13)(L), Oct. 7, 1998, 112 Stat. 1621.)
 
 #### Codification
 
@@ -61,6 +61,8 @@ Section was formerly classified to section 12653<i>o</i> of this title prior to 
 A prior section 166 of Pub. L. 101–610 was classified to section 12622 of this title prior to repeal by Pub. L. 103–82, §104(a).
 
 #### Amendments
+
+1998—Par. (6). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 1993—Par. (1). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
 
@@ -83,6 +85,10 @@ Pub. L. 103–82, §104(e)(2)(H)(iii), substituted “section 12615(d)” for �
 Par. (11). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress.
 
 Pub. L. 103–82, §104(e)(2)(H)(iv), substituted “section 12615(c)” for “section 12653d(c)”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
 #### Effective Date of 1993 Amendment
 

@@ -12,9 +12,9 @@
 
 &emsp;(4) tobacco produced in a quota area that is represented to be nonquota tobacco and that is readily and distinguishably different from all kinds of quota tobacco, as determined through the application of the standards issued by the Secretary for the inspection and identification of tobacco; and
 
-&emsp;(5) tobacco when it is nonquota tobacco and produced in a quota area in which the total of the acreage allotments for quota tobacco established for farms is less than twenty acres. Notwithstanding the provisions of section 1312(c) of this title, producers of such nonquota tobacco shall not be eligible to vote in the first referendum for such nonquota tobacco conducted by the Secretary under such section after July 20, 1982.
+&emsp;(5) tobacco when it is nonquota tobacco and produced in a quota area in which the total of the acreage allotments for quota tobacco established for farms is less than twenty acres. Notwithstanding the provisions of section 1312(c) of this title, producers of such nonquota tobacco shall not be eligible to vote inthe first referendum for such nonquota tobacco conducted by the Secretary under such section after July 20, 1982.
 
-(Feb. 16, 1938, ch. 30, title III, §320, as added Sept. 3, 1974, Pub. L. 93–411, 88 Stat. 1089; amended Nov. 4, 1978, Pub. L. 95–592, §17, 92 Stat. 2534; Dec. 22, 1981, Pub. L. 97–98, title XI, §1108, 95 Stat. 1266; July 20, 1982, Pub. L. 97–218, title II, §204, 96 Stat. 206.)
+(Feb. 16, 1938, ch. 30, title III, §320, as added Pub. L. 93–411, Sept. 3, 1974, 88 Stat. 1089; amended Pub. L. 95–592, §17, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 97–98, title XI, §1108, Dec. 22, 1981, 95 Stat. 1266; Pub. L. 97–218, title II, §204, July 20, 1982, 96 Stat. 206.)
 
 #### References in Text
 

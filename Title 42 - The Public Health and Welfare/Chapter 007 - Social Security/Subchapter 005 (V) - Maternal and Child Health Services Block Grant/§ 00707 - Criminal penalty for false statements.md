@@ -10,7 +10,7 @@
 
 (b) For civil monetary penalties for certain submissions of false claims, see section 1320a–7a of this title.
 
-(Aug. 14, 1935, ch. 531, title V, §507, as added Aug. 13, 1981, Pub. L. 97–35, title XXI, §2192(a), 95 Stat. 824.)
+(Aug. 14, 1935, ch. 531, title V, §507, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 824.)
 
 #### Prior Provisions
 

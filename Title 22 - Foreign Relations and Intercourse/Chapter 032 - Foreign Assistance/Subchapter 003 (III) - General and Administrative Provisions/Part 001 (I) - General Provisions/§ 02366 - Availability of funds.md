@@ -6,11 +6,7 @@ Except as otherwise provided in this chapter, funds shall be available to carry 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
-
-#### Allocation of Funds
-
-Funds available to President for carrying out this chapter, with specified exceptions, allocated to Director of United States International Development Cooperation Agency by section 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Administration of Funds
 

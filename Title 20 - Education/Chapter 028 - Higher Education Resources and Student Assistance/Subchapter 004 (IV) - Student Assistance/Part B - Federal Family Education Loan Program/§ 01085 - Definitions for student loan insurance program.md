@@ -6,17 +6,19 @@ As used in this part:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the term “eligible institution” means an institution of higher education, as defined in section 1088 of this title, except that, for the purposes of sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title, an eligible institution includes any institution that is within this definition without regard to whether such institution is participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and includes any institution ineligible for participation in any program under this part pursuant to paragraph (2) of this subsection.
+&emsp;Except as provided in paragraph (2), the term “eligible institution” means an institution of higher education, as defined in section 1002 of this title, except that, for the purposes of sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title, an eligible institution includes any institution that is within this definition without regard to whether such institution is participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and includes any institution ineligible for participation in any program under this part pursuant to paragraph (2) of this subsection.
 
 #### (2) Ineligibility based on high default rates
 
 &emsp;(A) An institution whose cohort default rate is equal to or greater than the threshold percentage specified in subparagraph (B) for each of the three most recent fiscal years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and for the two succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of its eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after its submission. Such decision may permit the institution to continue to participate in a program under this part if—
 
-&emsp;&emsp;(i) the institution demonstrates to the satisfaction of the Secretary that the Secretary's calculation of its cohort defaultrate is not accurate, and that recalculation would reduce its cohort default rate for any of the three fiscal years below the threshold percentage specified in subparagraph (B); or
+&emsp;&emsp;(i) the institution demonstrates to the satisfaction of the Secretary that the Secretary's calculation of its cohort default rate is not accurate, and that recalculation would reduce its cohort default rate for any of the three fiscal years below the threshold percentage specified in subparagraph (B);
 
-&emsp;&emsp;(ii) there are, in the judgment of the Secretary, exceptional mitigating circumstances that would make the application of this paragraph inequitable.
+&emsp;&emsp;(ii) there are exceptional mitigating circumstances within the meaning of paragraph (4); or
 
-> &emsp;During such appeal, the Secretary may permit the institution to continue to participate in a program under this part.
+&emsp;&emsp;(iii) there are, in the judgment of the Secretary, other exceptional mitigating circumstances that would make the application of this paragraph inequitable.
+
+> &emsp;During such appeal, the Secretary may permit the institution to continue to participate in a program under this part. If an institution continues to participate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.
 
 &emsp;(B) For purposes of determinations under subparagraph (A), the threshold percentage is—
 
@@ -26,11 +28,11 @@ As used in this part:
 
 &emsp;&emsp;(iii) 25 percent for any succeeding fiscal year.
 
-&emsp;(C) Until July 1, 1998, this paragraph shall not apply to any institution that is—
+&emsp;(C) Until July 1, 1999, this paragraph shall not apply to any institution that is—
 
 &emsp;&emsp;(i) a part B institution within the meaning of section 1061(2) of this title;
 
-&emsp;&emsp;(ii) a tribally controlled community college within the meaning of section 1801(a)(4) of title 25; or
+&emsp;&emsp;(ii) a tribally controlled community college within the meaning of section 1801(a)(4) <sup>1</sup> of title 25; or
 
 &emsp;&emsp;(iii) a Navajo Community College under the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
 
@@ -44,7 +46,83 @@ As used in this part:
 
 &emsp;&emsp;(C) is an institution whose cohort default rate equals or exceeds 20 percent for the most recent year for which data are available;
 
-> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (in addition to other defenses). In any such appeal, the Secretary shall take whatever steps are necessary to ensure that such institution has access to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records of the affected guaranty agencies and loan servicers for a reasonable period of time, not to exceed 30 days. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
+> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (in addition to other defenses). In any such appeal, the Secretary shall take whatever stepsare necessary to ensure that such institution has access for a reasonable period of time, not to exceed 30 days, to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
+
+#### (4) Definition of mitigating circumstances
+
+&emsp;(A) For purposes of paragraph (2)(A)(ii), an institution of higher education shall be treated as having exceptional mitigating circumstances that make application of that paragraph inequitable if such institution, in the opinion of an independent auditor, meets the following criteria:
+
+&emsp;&emsp;(i) For a 12-month period that ended during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined, at least two-thirds of the students enrolled on at least a half-time basis at the institution—
+
+&emsp;&emsp;&emsp;(I) are eligible to receive a Federal Pell Grant award that is at least equal to one-half the maximum Federal Pell Grant award for which a student would be eligible based on the student's enrollment status; or
+
+&emsp;&emsp;&emsp;(II) have an adjusted gross income that when added with the adjusted gross income of the student's parents (unless the student is an independent student), of less than the poverty level, as determined by the Department of Health and Human Services.
+
+&emsp;&emsp;(ii) In the case of an institution of higher education that offers an associate, baccalaureate, graduate or professional degree, 70 percent or more of the institution's regular students who were initially enrolled on a full-time basis and were scheduled to complete their programs during the same 12-month period described in clause (i)—
+
+&emsp;&emsp;&emsp;(I) completed the educational programs in which the students were enrolled;
+
+&emsp;&emsp;&emsp;(II) transferred from the institution to a higher level educational program;
+
+&emsp;&emsp;&emsp;(III) at the end of the 12-month period, remained enrolled and making satisfactory progress toward completion of the student's educational programs; or
+
+&emsp;&emsp;&emsp;(IV) entered active duty in the Armed Forces of the United States.
+
+&emsp;&emsp;(iii)(I) In the case of an institution of higher education that does not award a degree described in clause (ii), had a placement rate of 44 percent or more with respect to the institution's former regular students who—
+
+&emsp;&emsp;&emsp;(aa) remained in the program beyond the point the students would have received a 100 percent tuition refund from the institution;
+
+&emsp;&emsp;&emsp;(bb) were initially enrolled on at least a half-time basis; and
+
+&emsp;&emsp;&emsp;(cc) were originally scheduled, at the time of enrollment, to complete their educational programs during the same 12-month period described in clause (i).
+
+&emsp;&emsp;(II) The placement rate shall not include students who are still enrolled and making satisfactory progress in the educational programs in which the students were originally enrolled on the date following 12 months after the date of the student's last date of attendance at the institution.
+
+&emsp;&emsp;(III) The placement rate is calculated by determining the percentage of all those former regular students who—
+
+&emsp;&emsp;&emsp;(aa) are employed, in an occupation for which the institution provided training, on the date following 12 months after the date of their last day of attendance at the institution;
+
+&emsp;&emsp;&emsp;(bb) were employed, in an occupation for which the institution provided training, for at least 13 weeks before the date following 12 months after the date of their last day of attendance at the institution; or
+
+&emsp;&emsp;&emsp;(cc) entered active duty in the Armed Forces of the United States.
+
+&emsp;&emsp;(IV) The placement rate shall not include as placements a student or former student for whom the institution is the employer.
+
+&emsp;(B) For purposes of determining a rate of completion and a placement rate under this paragraph, a student is originally scheduled, at the time of enrollment, to complete the educational program on the date when the student will have been enrolled in the program for the amount of time normally required to complete the program. The amount of time normally required to complete the program for a student who is initially enrolled full-time is the period of time specified in the institution's enrollment contract, catalog, or other materials, for completion of the program by a full-time student. For a student who is initially enrolled less than full-time, the period is the amount of time it would take the student to complete the program if the student remained enrolled at that level of enrollment throughout the program.
+
+#### (5) Reduction of default rates at certain minority institutions
+
+#### (A) Beneficiaries of exception required to establish management plan
+
+&emsp;&emsp;After July 1, 1999, any institution that has a cohort default rate that equals or exceeds 25 percent for each of the three most recent fiscal years for which data are available and that relies on the exception in subparagraph (B) to continue to be an eligible institution shall—
+
+&emsp;&emsp;&emsp;(i) submit to the Secretary a default management plan which the Secretary, in the Secretary's discretion, after consideration of the institution's history, resources, dollars in default, and targets for default reduction, determines is acceptable and provides reasonable assurance that theinstitution will, by July 1, 2002, have a cohort default rate that is less than 25 percent;
+
+&emsp;&emsp;&emsp;(ii) engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III of this chapter) to provide technical assistance in implementing such default management plan; and
+
+&emsp;&emsp;&emsp;(iii) provide to the Secretary, on an annual basis or at such other intervals as the Secretary may require, evidence of cohort default rate improvement and successful implementation of such default management plan.
+
+#### (B) Discretionary eligibility conditioned on improvement
+
+&emsp;&emsp;Notwithstanding the expiration of the exception in paragraph (2)(C), the Secretary may, in the Secretary's discretion, continue to treat an institution described in subparagraph (A) of this paragraph as an eligible institution for each of the 1-year periods beginning on July 1 of 1999, 2000, and 2001, only if the institution submits by the beginning of such period evidence satisfactory to the Secretary that—
+
+&emsp;&emsp;&emsp;(i) such institution has complied and is continuing to comply with the requirements of subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) such institution has made substantial improvement, during each of the preceding 1-year periods, in the institution's cohort default rate.
+
+#### (6) Participation rate index
+
+#### (A) In general
+
+&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0375 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution's cohort default rate for loans under this part or part C of this subchapter, or weighted average cohort default rate for loans under this part and part C of this subchapter, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part C of this subchapter for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
+
+#### (B) Data
+
+&emsp;&emsp;An institution shall provide the Secretary with sufficient data to determine the institution's participation rate index within 30 days after receiving an initial notification of the institution's draft cohort default rate.
+
+#### (C) Notification
+
+&emsp;&emsp;Prior to publication of a final cohort default rate for an institution that provides the data described in subparagraph (B), the Secretary shall notify the institution of the institution's compliance or noncompliance with subparagraph (A).
 
 #### (b), (c) Repealed. Pub. L. 102–325, title IV, §427(b)(1), (c), July 23, 1992, 106 Stat. 549
 
@@ -58,7 +136,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(i) is subject to examination and supervision by an agency of the United States or of the State in which its principal place of operation is established, and
 
-&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, or (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part;
+&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, or (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(1) of such title, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000;
 
 &emsp;&emsp;(B) a pension fund as defined in the Employee Retirement Income Security Act \[29 U.S.C. 1001 et seq.\];
 
@@ -74,15 +152,17 @@ As used in this part:
 
 &emsp;&emsp;(H) for purposes of making loans under sections 1078(h) and 1078(j) of this title, a guaranty agency;
 
-&emsp;&emsp;(I) a Rural Rehabilitation Corporation, or its successor agency, which has received Federal funds under Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)); and
+&emsp;&emsp;(I) a Rural Rehabilitation Corporation, or its successor agency, which has received Federal funds under Public Law 499, Eighty-first Congress (64 Stat. 98 (1950));
 
-&emsp;&emsp;(J) for purpose of making loans under section 1078–3 of this title, any nonprofit private agency functioning in any State as a secondary market.
+&emsp;&emsp;(J) for purpose of making loans under section 1078–3 of this title, any nonprofit private agency functioning in any State as a secondary market; and
+
+&emsp;&emsp;(K) a consumer finance company subsidiary of a national bank which, as of October 7, 1998, through one or more subsidiaries: (i) acts as a small business lending company, as determined under regulations of the Small Business Administration under section 120.470 of title 13, Code of Federal Regulations (as such section is in effect on October 7, 1998); and (ii) participates in the program authorized by this part pursuant to subparagraph (C), provided the national bank and all of the bank's direct and indirect subsidiaries taken together as a whole, do not have, as their primary consumer credit function, the making or holding of loans made to students under this part.
 
 #### (2) Additional requirements of eligible institutions
 
 &emsp;To be an eligible lender under this part, an eligible institution—
 
-&emsp;&emsp;(A) shall employ at least one person whose full-time responsibilities are limited to theadministration of programs of financial aid for students attending such institution;
+&emsp;&emsp;(A) shall employ at least one person whose full-time responsibilities are limited to the administration of programs of financial aid for students attending such institution;
 
 &emsp;&emsp;(B) shall not be a home study school;
 
@@ -122,6 +202,8 @@ As used in this part:
 
 &emsp;&emsp;(D) engaged in fraudulent or misleading advertising.
 
+> &emsp;It shall not be a violation of this paragraph for a lender to provide assistance to institutions of higher education comparable to the kinds of assistance provided to institutions of higher education by the Department of Education.
+
 #### (6) Rebate fee requirement
 
 &emsp;To be an eligible lender under this part, an eligible lender shall pay rebate fees in accordance with section 1078–3(f) of this title.
@@ -150,7 +232,7 @@ The term “insurance beneficiary” means the insured or its authorized represe
 
 #### (<i>l</i>) Default
 
-Except as provided in subsection (m) of this section, the term “default” includes only such defaults as have existed for (1) 180 days in the case of a loan which is repayable in monthly installments, or (2) 240 days in the case of a loan which is repayable in less frequent installments.
+Except as provided in subsection (m) of this section, the term “default” includes only such defaults as have existed for (1) 270 days in the case of a loan which is repayable in monthly installments, or (2) 330 days in the case of a loan which is repayable in less frequent installments.
 
 #### (m) Cohort default rate
 
@@ -158,7 +240,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(A) Except as provided in paragraph (2), the term “cohort default rate” means, for any fiscal year in which 30 or more current and former students at the institution enter repayment on loans under section 1078, 1078–1,<sup>2</sup> or 1078–8 of this title received for attendance at the institution, the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at that institution in that fiscal year who default before the end of the following fiscal year. The Secretary shall require that each guaranty agency that has insured loans for current or former students of the institution afford such institution a reasonable opportunity (as specified by the Secretary) to review and correct errors in the information required to be provided to the Secretary by the guaranty agency for the purposes of calculating a cohort default rate for such institution, prior to the calculation of such rate.
 
-&emsp;(B) In determining the number of students who default before the end of such fiscal year, the Secretary shall include only loans for which the Secretary or a guaranty agency has paid claims for insurance, and, in considering appeals with respect to cohort default rates pursuant to subsection (a)(3) of this section, exclude any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution's timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.
+&emsp;(B) In determining the number of students who default before the end of such fiscal year, the Secretary shall include only loans for which the Secretary or a guaranty agency has paid claims for insurance. In considering appeals with respect to cohort default rates pursuant to subsection (a)(3) of this section, the Secretary shall exclude, from the calculation of the number of students who entered repayment and from the calculation of the number of students who default, any loans which, due to improper servicing or collection, would, as demonstrated by the evidence submitted in support of the institution's timely appeal to the Secretary, result in an inaccurate or incomplete calculation of such cohort default rate.
 
 &emsp;(C) For any fiscal year in which fewer than 30 of the institution's current and former students enter repayment, the term “cohort default rate” means the percentage of such current and former students who entered repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) in any of the three most recent fiscal years, who default before the end of the fiscal year immediately following the year in which they entered repayment.
 
@@ -168,7 +250,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(B) A loan on which a payment is made by the school, such school's owner, agent, contractor, employee, or any other entity or individual affiliated with such school, in order to avoid default by the borrower, is considered as in default for purposes of this subsection.
 
-&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection.
+&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
 
 &emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
 
@@ -183,6 +265,8 @@ Except as provided in subsection (m) of this section, the term “default” inc
 &emsp;(B) The Secretary may designate such additional subcategories within the categories specified in subparagraph (A) as the Secretary deems appropriate.
 
 &emsp;(C) The Secretary shall publish not less often than once every fiscal year a report showing default data for each institution for which a cohort default rate is calculated under this subsection.
+
+&emsp;(D) The Secretary shall publish the report described in subparagraph (C) by September 30 of each year.
 
 #### (n) Repealed. Pub. L. 102–325, title IV, §427(f), July 23, 1992, 106 Stat. 550
 
@@ -210,23 +294,55 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;In establishing criteria for purposes of paragraph (1)(C), the Secretary shall consider the borrower's income and debt-to-income ratio as primary factors.
 
-(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283.)
+(Pub. L. 89–329, title IV, §435, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1408; amended Pub. L. 100–50, §10(aa), June 3, 1987, 101 Stat. 347; Pub. L. 101–239, title II, §§2003(a)(2), 2007(a), Dec. 19, 1989, 103 Stat. 2113, 2120; Pub. L. 101–508, title III, §3004(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 101–542, title III, §301, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(a)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §§416(e)(2), 427(a), (b)(1), (c)–(g), July 23, 1992, 106 Stat. 519, 549, 550; Pub. L. 103–66, title IV, §§4046(b)(1), 4106(b), Aug. 10, 1993, 107 Stat. 362, 368; Pub. L. 103–208, §2(c)(55)–(62), Dec. 20, 1993, 107 Stat. 2468, 2469; Pub. L. 103–235, §1, Apr. 28, 1994, 108 Stat. 381; Pub. L. 103–382, title III, §357, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–244, title I, §102(b)(2), title IV, §429(a)–(c)(1), (d), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1622, 1704–1709, 1828.)
 
 #### References in Text
+
+Section 1801(a)(4) of title 25, referred to in subsec. (a)(2)(C)(ii), was amended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, and, as so amended, no longer defines the term “tribally controlled community college”.
 
 The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
 The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
+Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)), referred to in subsec. (d)(1)(I), is act May 3, 1950, ch. 152, 64 Stat. 98, known as the Rural Rehabilitation Corporation Trust Liquidation Act, which was classified to sections 440 to 444 of Title 40, Public Buildings, Property, and Works and as notes set out under section 1001 of Title 7, Agriculture, and section 440 of Title 40, and was omitted from the Code.
 
+Title IV, referred to in subsec. (m)(2)(C), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
+
 #### Prior Provisions
 
-A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3,1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–244, §102(b)(2), substituted “section 1002” for “section 1088”.
+
+Subsec. (a)(2)(A). Pub. L. 105–244, §429(a)(1)(A)(i), (ii), struck out “or” at end of cl. (i), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “there are, in the judgment of the Secretary, exceptional mitigating circumstances that would make the application of this paragraph inequitable.”
+
+Pub. L. 105–244, §429(a)(1)(A)(iii), inserted at end of concluding provisions “If an institution continues to participate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.”
+
+Subsec. (a)(2)(C). Pub. L. 105–244, §429(a)(1)(B), substituted “July 1, 1999,” for “July 1, 1998,” in introductory provisions.
+
+Subsec. (a)(2)(C)(ii). Pub. L. 105–244, §901(d), made technical amendment to reference in original act which appears in text as reference to section 1801(a)(4) of title 25.
+
+Subsec. (a)(3). Pub. L. 105–244, §429(a)(2), in concluding provisions, inserted “for a reasonable period of time, not to exceed 30 days,” after “access” and substituted “used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter” for “of the affected guaranty agencies and loan servicers for a reasonable period of time, not to exceed 30 days”.
+
+Subsec. (a)(4) to (6). Pub. L. 105–244, §429(a)(3), added pars. (4) to (6).
+
+Subsec. (d)(1)(A)(ii)(III). Pub. L. 105–244, §429(b)(1)(A), added subcl. (III).
+
+Subsec. (d)(1)(K). Pub. L. 105–244, §429(b)(1)(B)–(D), added subpar. (K).
+
+Subsec. (d)(5). Pub. L. 105–244, §429(b)(2), inserted concluding provisions.
+
+Subsec. (<i>l</i>). Pub. L. 105–244, §429(c)(1), substituted “270 days” for “180 days” and “330 days” for “240 days”.
+
+Subsec. (m)(1)(B). Pub. L. 105–244, §429(d)(1), substituted “insurance. In considering appeals with respect to cohort default rates pursuant to subsection (a)(3) of this section, the Secretary shall exclude, from the calculation of the number of students who entered repayment and from the calculation of the number of students who default,” for “insurance, and, in considering appeals with respect to cohort default rates pursuant to subsection (a)(3) of this section, exclude”.
+
+Subsec. (m)(2)(C). Pub. L. 105–244, §429(d)(2), inserted at end “The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.”
+
+Subsec. (m)(4)(D). Pub. L. 105–244, §429(d)(3), added subpar. (D).
 
 1996—Subsec. (d)(1)(F). Pub. L. 104–208, §101(e) \[title VI, §602(b)(1)(A)(i)\], inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title,” after “Student Loan Marketing Association”.
 
@@ -282,7 +398,7 @@ Pub. L. 102–325, §427(a)(1), (2), redesignated par. (3) as (2) and struck out
 
 Subsec. (a)(3). Pub. L. 102–325, §427(a)(2), redesignated par. (3) as (2).
 
-Subsec. (b). Pub. L. 102–325, §427(b)(1), struck out subsec. (b) which defined “institution of higher education”. See section 1088(a) of this title.
+Subsec. (b). Pub. L. 102–325, §427(b)(1), struck out subsec. (b) which defined “institution of higher education”.
 
 Subsec. (c). Pub. L. 102–325, §427(c), struck out subsec. (c) which defined “vocational school”.
 
@@ -324,13 +440,19 @@ Subsec. (g)(2). Pub. L. 100–50, §10(aa)(4), added par. (2) and struck out for
 
 Subsec. (h). Pub. L. 100–50, §10(aa)(5), struck out “Definition of” before “Parental” in heading.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by sections 102(b)(2) and 429(a), (b), (d) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+Pub. L. 105–244, title IV, §429(c)(2), Oct. 7, 1998, 112 Stat. 1708, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to loans for which the first day of delinquency occurs on or after the date of enactment of this Act \[Oct. 7, 1998\].”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) of this title, see section 101(e) \[title VI, §602(b)(1)(B)\] of Pub. L. 104–208, set out as a note under section 1078–3 of this title.
 
 #### Effective Date of 1993 Amendments
 
-Amendments by section 2(c)(55), (60)(B) of Pub. L. 103–208 applicable with respect to determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year, amendments by section 2(c)(56)–(58), (61) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, amendment by section 2(c)(59) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, amendment by section 2(c)(60)(A) of Pub. L. 103–208 effective on and after Oct. 1, 1994, and amendment by section 2(c)(62) effective on and after Dec. 20, 1993, see section 5(a), (b)(2), (3), (7), (8) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendments by section 2(c)(55), (60)(B) of Pub. L. 103–208 applicable with respect to determination (and appeals from determinations) of cohort default rates for fiscal year 1989 and any succeeding fiscal year, amendments by section 2(c)(56)–(58), (61) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, amendment by section 2(c)(59) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, amendment by section 2(c)(60)(A) of Pub. L. 103–208 effective on and after Oct. 1, 1994, and amendment by section 2(c)(62) effective on and after Dec. 20, 1993, see section 5(a), (b)(2), (3), (7), (8) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by section 4046(b)(1) of Pub. L. 103–66 effective July 1, 1994, see section 4046(c) of Pub. L. 103–66, set out as a note under section 1078–3 of this title.
 
@@ -340,7 +462,7 @@ Section 2(d)(1) of Pub. L. 102–26 provided that: “The amendments made by thi
 
 #### Effective Date of 1990 Amendment
 
-Section 3004(d) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section, section 1078 of this title, and provisions set out asa note under section 1078–1 of this title\] shall be effective July 1, 1991, except that the amendment made by subsection (b) \[amending section 1078 of this title\] shall be effective upon enactment.”
+Section 3004(d) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section, section 1078 of this title, and provisions set out as a note under section 1078–1 of this title\] shall be effective July 1, 1991, except that the amendment made bysubsection (b) \[amending section 1078 of this title\] shall be effective upon enactment.”
 
 #### Effective Date of 1987 Amendment
 
@@ -352,11 +474,11 @@ Section effective Oct. 17, 1986, with subsec. (d)(5) of this section effective 3
 
 #### Definition of Institution of Higher Education
 
-Section 427(b)(2) of Pub. L. 102–325 provided that: “With respect to reference in any other provision of law to the definition of institution of higher education contained in section 435(b) of the Act \[former 20 U.S.C. 1085(b)\], such provision shall be deemed to refer to section 481(a) of the Act \[20 U.S.C. 1088(a)\].”
+Section 427(b)(2) of Pub. L. 102–325 provided that: “With respect to reference in any other provision of law to the definition of institution of higher education contained in section 435(b) of the Act \[former 20 U.S.C. 1085(b)\], such provision shall be deemed to refer to section 481(a) of the Act \[former 20 U.S.C. 1088(a)\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1011a, 1071, 1074, 1075, 1077, 1078, 1078–3, 1078–10, 1080, 1082, 1087–2, 1087c, 1087e, 1087dd, 1099a–3, 2341a, 2394a, 2404 of this title; title 2 section 1602; title 11 section 362; title 25 section 3324.
+This section is referred to in sections 1071, 1074, 1075, 1077, 1078, 1078–3, 1078–7, 1080, 1082, 1087–2, 1087c, 1087e, 1087dd, 2341a, 2373 of this title; title 2 section 1602; title 11 section 362; title 25 section 3324.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

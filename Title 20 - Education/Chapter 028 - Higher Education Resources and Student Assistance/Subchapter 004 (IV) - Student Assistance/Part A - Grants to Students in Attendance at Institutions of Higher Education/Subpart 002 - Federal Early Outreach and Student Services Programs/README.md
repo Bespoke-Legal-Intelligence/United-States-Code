@@ -6,16 +6,16 @@ Pub. L. 102–325, title IV, §402(a)(2), (4), July 23, 1992, 106 Stat. 482, add
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in section 1087<i>oo</i> of this title.
+This subpart is referred to in sections 1087kk, 1087mm, 1087<i>oo</i>, 1087pp, 1087qq of this title.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Division 001 - Federal Trio Programs](Division%20001%20-%20Federal%20Trio%20Programs/README.md)
-- [Division 002 - National Early Intervention Scholarship and Partnership Program](Division%20002%20-%20National%20Early%20Intervention%20Scholarship%20and%20Partnership%20Program/README.md)
-- [Division 003 - Presidential Access Scholarships](Division%20003%20-%20Presidential%20Access%20Scholarships/README.md)
+- [Division 001 - Federal TRIO Programs](Division%20001%20-%20Federal%20TRIO%20Programs/README.md)
+- [Division 002 - Gaining Early Awareness and Readiness for Undergraduate Programs](Division%20002%20-%20Gaining%20Early%20Awareness%20and%20Readiness%20for%20Undergraduate%20Programs/README.md)
+- [Division 003 - Academic Achievement Incentive Scholarships](Division%20003%20-%20Academic%20Achievement%20Incentive%20Scholarships/README.md)
 - [Division 004 - Model Program Community Partnership and Counseling Grants](Division%20004%20-%20Model%20Program%20Community%20Partnership%20and%20Counseling%20Grants/README.md)
 - [Division 005 - Public Information](Division%20005%20-%20Public%20Information/README.md)
 - [Division 006 - National Student Savings Demonstration Program](Division%20006%20-%20National%20Student%20Savings%20Demonstration%20Program/README.md)

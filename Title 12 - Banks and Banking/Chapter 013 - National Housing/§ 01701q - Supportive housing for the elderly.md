@@ -20,11 +20,11 @@ The Secretary is authorized to provide assistance to private nonprofit organizat
 
 #### (2) Project rental assistance
 
-&emsp;Contracts for project rental assistance shall obligate the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income elderly persons that is not met from project income. The annual contract amount for any project shall not exceed the sum of the initial annual project rentals for all units so occupied and any initial utility allowances for such units, as approved by the Secretary. Any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract. The Secretary may adjust the annual contract amount if the sum of the project income and the amount of assistance payments available under this paragraph are inadequate to provide for reasonable project costs.
+&emsp;Contracts for project rental assistance shall obligate the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income elderly persons that is not met from project income. The annual contract amount for any project shall not exceed the sum of the initial annual project rentals for all units so occupied and any initial utility allowances for such units, as approved by the Secretary. Any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract. The Secretary may adjust the annual contract amount if the sum of the project income and theamount of assistance payments available under this paragraph are inadequate to provide for reasonable project costs.
 
 #### (3) Tenant rent contribution
 
-&emsp;A very low-income person shall pay as rent for a dwelling unit assisted under this section the highest of the following amounts, roundedto the nearest dollar: (A) 30 percent of the person's adjusted monthly income, (B) 10 percent of the person's monthly income, or (C) if the person is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the person's actual housing costs, is specifically designated by such agency to meet the person's housing costs, the portion of such payments which is so designated.
+&emsp;A very low-income person shall pay as rent for a dwelling unit assisted under this section the highest of the following amounts, rounded to the nearest dollar: (A) 30 percent of the person's adjusted monthly income, (B) 10 percent of the person's monthly income, or (C) if the person is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the person's actual housing costs, is specifically designated by such agency to meet the person's housing costs, the portion of such payments which is so designated.
 
 #### (d) Term of commitment
 
@@ -160,7 +160,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (1) In general
 
-&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to theSecretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (2) Information regarding housing under this section
 
@@ -218,7 +218,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (k) Definitions
 
-(1) The term “elderly person” means a household composed of one or more persons at least one of whom is 62 years of age or more at the time of initial occupancy.
+(1) The term “elderly person” means a household composed of one or more persons at leastone of whom is 62 years of age or more at the time of initial occupancy.
 
 (2) The term “frail elderly” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
 
@@ -274,7 +274,7 @@ Section was enacted as part of the Housing Act of 1959, and not as part of the N
 
 #### Amendments
 
-1992—Subsec. (e)(5) to (7). Pub. L. 102–550, §602(b), redesignated pars. (6) and (7) as (5) and (6), respectively,and struck out former par. (5) which read as follows: “a certification from the appropriate State or local agency (as determined by the Secretary) that the provision of services identified in paragraph (4) is well designed to serve the special needs of the category or categories of elderly persons the housing is intended to serve;”.
+1992—Subsec. (e)(5) to (7). Pub. L. 102–550, §602(b), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: “a certification from the appropriate State or local agency (as determined by the Secretary) that the provision of services identified in paragraph (4) is well designed to serve the special needs of the category or categories of elderly persons the housing is intended to serve;”.
 
 Subsec. (f)(2). Pub. L. 102–550, §602(c), which directed insertion of “, taking into consideration the availability of public housing for the elderly and vacancy rates in such facilities” at end, was executed by making insertion before semicolon at end.
 
@@ -344,7 +344,7 @@ Subsec. (p). Pub. L. 101–625, §805, added subsec. (p).
 
 Subsec. (a)(4)(B)(i). Pub. L. 100–242, §161(a), inserted provisions relating to such sums as may be approved for fiscal years 1988 and 1989, and substituted “October 1, 1983, to such sum” for “October 1, 1983, and to such sum”.
 
-Pub. L. 100–242, §161(d), substituted “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which theloan is made, on the most recently issued 30-year marketable obligations of the United States.” for “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made.”
+Pub. L. 100–242, §161(d), substituted “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury taking into consideration the average yield, during the 3-month period immediately preceding the fiscal year in which the loan is made, on the most recently issued 30-year marketable obligations of the United States.” for “Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made.”
 
 Subsec. (a)(4)(C). Pub. L. 100–242, §161(b), inserted provisions relating to loan authority for fiscal years 1988 and 1989.
 
@@ -422,7 +422,7 @@ Subsec. (g). Pub. L. 95–128, §202(b), added subsec. (g).
 
 Subsec. (a)(4)(B)(i). Pub. L. 94–375, §11(a), (c)(2), substituted “$1,475,000,000, which amount shall be increased to $2,387,500,000 on October 1, 1977, and to $3,300,000,000 on October 1, 1978” for “$800,000,000” and “the average interest rate on all interest bearing obligations of the United States then forming a part of the public debt, computed at the end of the fiscal year next preceding the date on which the loan is made” for “the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations”, and inserted provision restricting the amount of notes or obligations issued to the Secretary of the Treasury to not more than $800,000,000.
 
-Subsec. (d)(4). Pub. L. 94–375, §11(b), included in definition of “elderly or handicapped families” two or more elderly or handicapped persons living together, one such person and another providing care for thefirst, or a surviving member of the family who was living in the unit at the time another member died.
+Subsec. (d)(4). Pub. L. 94–375, §11(b), included in definition of “elderly or handicapped families” two or more elderly or handicapped persons living together, one such person and another providing care for the first, or a surviving member of the family who was living in the unit at the time another member died.
 
 1974—Subsec. (a)(3). Pub. L. 93–383, §210(a), substituted provisions authorizing the Secretary of the Treasury to determine the interest rate, for provisions authorizing the Secretary of Housing and Urban Development to determine the interest rate.
 
@@ -502,7 +502,7 @@ Section 801(c) of Pub. L. 101–625 provided that: “The amendments made by thi
 
 Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
 
-Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that sections 801, 802, and 811 of Pub. L. 101–625 \[enacting sections 8011 and 8013 of Title 42, amendingthis section and sections 1437g and 1439 of Title 42, and enacting provisions set out as notes under this section\] are deemed enacted as of the date of enactment of Pub. L. 101–507, which was approved Nov. 5, 1990.
+Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that sections 801, 802, and 811 of Pub. L. 101–625 \[enacting sections 8011 and 8013 of Title 42, amending this section and sections 1437g and 1439 of Title 42, and enacting provisions set out as notes under this section\] are deemed enacted as of the date of enactment of Pub. L. 101–507, which was approved Nov. 5, 1990.
 
 #### Effective Date of 1988 Amendment
 
@@ -578,7 +578,7 @@ Section 806(b) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VI, 
 
 “(1)
 
-In general.—The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the cost of purchasing and installing elder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings. In conducting the demonstration, the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
+In general.—The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the cost of purchasing and installing elder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings. In conducting the demonstration,the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
 
 “(2)
 
@@ -652,7 +652,7 @@ Pub. L. 98–45, title I, as added Pub. L. 98–181, title I, Nov. 30, 1983, 97 
 
 #### Reports Respecting Elderly and Handicapped Housing Programs in Rural Areas, Etc.
 
-Section 306(e), (f) of Pub. L. 96–153 required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
+Section 306(e), (f) of Pub. L. 96–153 required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areasand recommend to Congress on means to reduce costs of program carried out under this section.
 
 #### Feasibility and Marketability of Projects; Assistance for Projects Servicing Low- and Moderate-Income Families
 
@@ -664,5 +664,5 @@ Section 210(g) of Pub. L. 93–383 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1441a, 1701q–1, 1701r–1, 1701s, 1701z–11, 1701z–13, 1715<i>l</i>, 1715v, 1715z–1, 1715z–1a, 1715z–1b, 1715z–4a, 1715z–19, 1831q, 3702, 3705 of this title; title 42 sections 1382a, 1436b, 1437e, 1437f, 1437g, 1438, 1439, 3013, 3026, 3030d, 3535, 8002, 8008, 8009, 8011, 8012, 8013, 8231, 13641.
+This section is referred to in sections 1441a, 1701q–1, 1701r–1, 1701s, 1701z–11, 1701z–13, 1715<i>l</i>, 1715v, 1715z–1, 1715z–1a, 1715z–1b, 1715z–4a, 1715z–19, 1831q, 3702, 3705 of this title; title 42 sections 1382a, 1436b, 1437e, 1437f, 1438, 1439, 3013, 3026, 3030d, 3535, 8002, 8008, 8009, 8011, 8012, 8013, 8231, 13641.
 

@@ -4,7 +4,7 @@
 
 (b) \[1., 2. Repealed\] 3. Federal Housing Administration; 4. Federal Surplus Commodities Corporation; 5. Export-Import Bank of the United States; 6. Second Export-Import Bank of Washington, District of Columbia; 7. Reconstruction Finance Corporation; 8. Electric Home and Farm Authority; 9. Commodity Credit Corporation; 10. Federal Emergency Administration of Public Works; \[11. Repealed\] 12. Reconstruction Finance Mortgage Company.
 
-(June 22, 1936, ch. 689, §7, 49 Stat. 1647; Oct. 4, 1961, Pub. L. 87–353, §3(<i>l</i>), 75 Stat. 774; Mar. 13, 1968, Pub. L. 90–267, §1(a), 82 Stat. 47; Aug. 9, 1989, Pub. L. 101–73, title VII, §741, 103 Stat. 436.)
+(June 22, 1936, ch. 689, §7, 49 Stat. 1647; Pub. L. 87–353, §3(<i>l</i>), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 101–73, title VII, §741, Aug. 9, 1989, 103 Stat. 436.)
 
 #### Amendments
 

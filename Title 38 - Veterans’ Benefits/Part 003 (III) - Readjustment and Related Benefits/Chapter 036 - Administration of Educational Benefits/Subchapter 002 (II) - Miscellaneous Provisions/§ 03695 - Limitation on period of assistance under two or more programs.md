@@ -24,7 +24,7 @@
 
 #### References in Text
 
-Parts VII and VIII, Veterans Regulation numbered 1(a), referred to in subsec. (a)(1), are Parts VII and VIIIas added by acts Mar. 24, 1943, ch. 22, §2, 57 Stat. 43 and June 22, 1944, ch. 268, title II, §400(b), 58 Stat. 287 to Veterans Regulation numbered 1(a) promulgated by Ex. Ord. No. 6156, June 6, 1933, which had been classified as parts VII and VIII of chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed by Pub. L. 85–857, §14(67), Sept. 2, 1958, 72 Stat. 1272.
+Parts VII and VIII, Veterans Regulation numbered 1(a), referred to in subsec. (a)(1), are Parts VII and VIII as added by acts Mar. 24, 1943, ch. 22, §2, 57 Stat. 43 and June 22, 1944, ch. 268, title II, §400(b), 58 Stat. 287 to Veterans Regulation numbered 1(a) promulgated by Ex. Ord. No. 6156, June 6, 1933, which had been classified as parts VII and VIII of chapter 12A of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed by Pub. L. 85–857, §14(67), Sept. 2, 1958, 72 Stat. 1272.
 
 The Veterans’ Readjustment Assistance Act of 1952, referred to in subsec. (a)(2), is act July 16, 1952, ch. 875, 66 Stat. 663, as amended. Title II of the Veterans’ Readjustment Assistance Act of 1952 was classified generally to subchapter II (§911 et seq.) of chapter 14 of former Title 38, which was repealed and the provisions thereof reenacted as chapter 33 (§1601 et seq.) of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. Chapter 33 of this title was repealed by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23. See chapter 32 (§3201 et seq.) of this title.
 

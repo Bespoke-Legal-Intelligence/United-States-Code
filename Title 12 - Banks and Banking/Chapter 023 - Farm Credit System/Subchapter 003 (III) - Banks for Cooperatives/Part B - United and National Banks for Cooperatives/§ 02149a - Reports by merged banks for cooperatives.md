@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-When two or more banks for cooperatives merge, the resulting bank shall, not later than December 31 of each year of the succeeding 5 years following the date of the merger, file an annual report with the Farm Credit Administration that—
+When two or more banks for cooperatives merge, the resulting bank shall, not later than December 31 of each year of the succeeding 5 years following the date of the merger, file anannual report with the Farm Credit Administration that—
 
 &emsp;(1) analyzes the effect of the merger;
 

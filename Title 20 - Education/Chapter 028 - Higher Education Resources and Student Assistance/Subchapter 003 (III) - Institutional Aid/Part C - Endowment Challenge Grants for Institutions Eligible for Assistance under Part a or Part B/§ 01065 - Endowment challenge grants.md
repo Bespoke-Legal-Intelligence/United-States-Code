@@ -24,29 +24,17 @@
 
 #### (b) Grants authorized
 
-(1) From sums available for this section under section 1069f of this title, the Secretary is authorized to award endowment challenge grants to eligible institutions to establish or increase an endowment fund at such institution. Such grants shall be made only to eligible institutions described in paragraph (4) whose applications have been approved pursuant to subsection (g) of this section.
+(1) From sums available for this section under section 1068h of this title, the Secretary is authorized to award endowment challenge grants to eligible institutions to establish or increase an endowment fund at such institution. Such grants shall be made only to eligible institutions described in paragraph (4) whose applications have been approved pursuant to subsection (g) of this section.
 
 (2)(A) Except as provided in subparagraph (B), no institution shall receive a grant under this section, unless such institution has deposited in its endowment fund established under this section an amount equal to the amount of such grant. The source of funds for this institutional match shall not include Federal funds or funds from an existing endowment fund.
 
-(B) The Secretary may make a grant under this part to an eligible institution under the following circumstances:
+(B) The Secretary may make a grant under this part to an eligible institution in any fiscal year if the institution—
 
-&emsp;(i) In any fiscal year in which the amount appropriated to carry out this part is less than $15,000,000, the institution—
+&emsp;(i) applies for a grant in an amount not exceeding $500,000; and
 
-&emsp;&emsp;(I) may apply for a grant in an amount not exceeding $500,000; and
+&emsp;(ii) has deposited in the eligible institution's endowment fund established under this section an amount which is equal to 1/2 of the amount of such grant.
 
-&emsp;&emsp;(II) shall have deposited in its endowment fund established under this section an amount which is equal to one-half of the amount of such grant.
-
-&emsp;(ii) In any fiscal year in which the amount appropriated to carry out this part is equal to or greater than $15,000,000 but less than $25,000,000, the institution—
-
-&emsp;&emsp;(I) may apply for a grant in an amount not exceeding $1,000,000; and
-
-&emsp;&emsp;(II) shall have deposited in its endowment fund established under this section an amount which is equal to one-half of the amount of such grant.
-
-&emsp;(iii) In any fiscal year in which the amount appropriated to carry out this part is equal to or greater than $25,000,000, the institution may apply for a grant in an amount not to exceed $1,500,000 if such institution has deposited in its endowment fund established under this section an amount which is equal to one-half of the amount of such grant.
-
-(C)(i) Except as provided in clause (ii), if the appropriation for this part in a fiscal year is $20,000,000 or less, an eligible institution of higher education that is awarded a grant under subsection (b)(2)(B) of this section shall not be eligible to reapply for a grant under subsection (b)(2)(B) of this section during the 10 years immediately following the period that such institution received such a grant.
-
-(ii) If the appropriation for this part in any fiscal year is greater than $20,000,000, an eligible institution of higher education that is awarded a grant under subsection (b)(2)(B) of this section shall not be eligible to reapply for a grant under subsection (b)(2)(B) of this section during the 5 years immediately following the period that such institution received such a grant. This provision shall apply for the fiscal year in which the appropriation is greater than $20,000,000 and subsequent fiscal years, regardless of the appropriation in those fiscal years.
+(C) An eligible institution of higher education that is awarded a grant under subparagraph (B) shall not be eligible to receive an additional grant under subparagraph (B) until 10 years after the date on which the grant period terminates.
 
 (3) The period of a grant under this section shall be not more than 20 years. During the grant period, an institution may not withdraw or expend any of the endowment fund corpus. After the termination of the grant period, an institution may use the endowment fund corpus plus any endowment fund income for any educational purpose.
 
@@ -68,7 +56,7 @@
 
 #### (c) Grant agreement; endowment fund provisions
 
-(1) An institution awarded a grant under this section shall enter into an agreement with the Secretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus,and (D) meet the other requirements of this section.
+(1) An institution awarded a grant under this section shall enter into an agreement with the Secretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
 
 (2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
@@ -120,11 +108,11 @@ Any institution which is eligible for assistance under this section may submit t
 
 (2) If the Secretary terminates a grant under paragraph (1), the grantee shall return to the Secretary an amount equal to the sum of each original grant under this section plus income earned thereon. The Secretary may use such repaid funds to make additional endowment grants, or to increase existing challenge grants, to other eligible institutions under this part.
 
-(Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458.)
+(Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458; Pub. L. 105–244, title III, §305, Oct. 7, 1998, 112 Stat. 1646.)
 
 #### Prior Provisions
 
-A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat.1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102–325, §304(a)(2).
+A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102–325, §304(a)(2).
 
 A prior section 1065, Pub. L. 89–329, title III, §332, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for challenge grants, prior to the general revision of this subchapter by Pub. L. 99–498.
 
@@ -133,6 +121,10 @@ Another prior section 1065, Pub. L. 89–329, title IV, §405, Nov. 8, 1965, 79 
 A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98–95, §2, Sept. 26, 1983, 97 Stat. 708, established program of matching grants to increase endowments at eligible institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted “section 1068h” for “section 1069f”.
+
+Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which authorized Secretary to make grants under this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
 
 1993—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
 
@@ -168,9 +160,13 @@ Subsec. (g). Pub. L. 102–325, §304(b)(8), inserted “, including a descript
 
 1987—Subsec. (f)(1). Pub. L. 100–50 inserted “(or section 1069a of this title)”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -182,5 +178,5 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1057, 1063b, 1069f, 4425 of this title; title 25 section 1832.
+This section is referred to in sections 1057, 1063b, 4425 of this title; title 25 section 1832.
 

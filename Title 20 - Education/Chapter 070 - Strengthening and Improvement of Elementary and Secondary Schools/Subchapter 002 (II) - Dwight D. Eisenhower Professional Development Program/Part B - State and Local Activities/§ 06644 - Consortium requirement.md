@@ -6,7 +6,7 @@ A local educational agency receiving a grant under this part of less than $10,00
 
 #### (b) Waiver
 
-The State educational agency may waive the application of paragraph (1) in the case of anylocal educational agency that demonstrates that the amount of its allocation under this part is sufficient to provide a program of sufficient size, scope, and quality to be effective. In granting waivers under the preceding sentence, the State educational agency shall—
+The State educational agency may waive the application of paragraph (1) in the case of any local educational agency that demonstrates that the amount of its allocation under this part is sufficient to provide a program of sufficient size, scope, and quality to be effective. In granting waivers under the preceding sentence, the State educational agency shall—
 
 &emsp;(1) give special consideration to local educational agencies serving rural areas if distances or traveling time between schools make formation of the consortium more costly or less effective; and
 

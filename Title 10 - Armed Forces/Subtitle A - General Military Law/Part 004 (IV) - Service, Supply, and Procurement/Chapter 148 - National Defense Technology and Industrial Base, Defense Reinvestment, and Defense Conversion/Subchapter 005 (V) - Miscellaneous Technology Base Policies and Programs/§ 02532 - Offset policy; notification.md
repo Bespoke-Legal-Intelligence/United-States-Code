@@ -20,7 +20,7 @@ Technology Transfer.—(1) No official of the United States may enter into a mem
 
 (c)
 
-Notification Regarding Offsets.—If at any time a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset arrangement exceeding $50,000,000 in value, such firm shall notify the Secretary of Defense of the proposed sale. Notification shall be made underthis subsection in accordance with regulations prescribed by the Secretary of Defense in consultation with the Secretary of Commerce.
+Notification Regarding Offsets.—If at any time a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset arrangement exceeding $50,000,000 in value, such firm shall notify the Secretary of Defense of the proposed sale. Notification shall be made under this subsection in accordance with regulations prescribed by the Secretary of Defense in consultation with the Secretary of Commerce.
 
 (d)
 

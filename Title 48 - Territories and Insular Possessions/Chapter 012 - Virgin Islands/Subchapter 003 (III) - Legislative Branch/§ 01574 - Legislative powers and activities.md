@@ -2,7 +2,7 @@
 
 #### (a) Scope of authority; limitation on enactments and taxation
 
-The legislative authority and power of the Virgin Islands shall extend to all rightful subjects of legislation not inconsistent with this chapter or the laws of the United States made applicable to the Virgin Islands, but no law shall be enacted which would impair rights existing or arising by virtue of any treaty or international agreement entered into by the United States, nor shall the lands or other property of nonresidents be taxed at a higher rate than the lands or other property of residents.
+The legislative authority and power of the Virgin Islands shall extend to all rightful subjects of legislation not inconsistent with this chapter or the laws of the United States made applicable to the Virgin Islands, but no law shall be enacted which would impair rights existing or arising by virtue of any treaty or international agreement entered into by the United States, nor shall the lands or other property ofnonresidents be taxed at a higher rate than the lands or other property of residents.
 
 #### (b) Government bonds; maximum amount; sale, interest, etc.
 
@@ -30,7 +30,7 @@ The legislative authority and power of the Virgin Islands shall extend to all ri
 
 #### (c) Applicability of laws and ordinances; amendment or repeal
 
-The laws of the United States applicable to the Virgin Islands on July 22, 1954, including laws made applicable to the Virgin Islands by or pursuant to the provisions of the Act of June 22, 1936 (49 Stat. 1807), and all local laws and ordinances in force in the Virgin Islands, or any part thereof, on July 22, 1954 shall, to the extent they are not inconsistent with this chapter, continue in force and effect until otherwise provided by the Congress: <i>Provided</i>, That the legislature shall have power, when within its jurisdiction and not inconsistent with the other provisions of this chapter, to amend, alter, modify, or repeal any local law or ordinance, public or private, civil or criminal, continued in force and effect by this chapter, except as herein otherwise provided, and to enact new laws not inconsistent with any law of the United States applicable to the Virgin Islands, subject to the power of Congress to annul any such Act of the legislature.
+The laws of the United States applicable to the Virgin Islands on July 22, 1954, including laws made applicable to the Virgin Islands by or pursuant to the provisions of the Act of June 22, 1936 (49 Stat. 1807), and all local laws and ordinances in force in the Virgin Islands, or any part thereof, on July 22, 1954 shall, to the extent they are not inconsistent with this chapter, continue in force and effect until otherwise provided by the Congress: <i>Provided</i>, That the legislature shall have power, when within its jurisdictionand not inconsistent with the other provisions of this chapter, to amend, alter, modify, or repeal any local law or ordinance, public or private, civil or criminal, continued in force and effect by this chapter, except as herein otherwise provided, and to enact new laws not inconsistent with any law of the United States applicable to the Virgin Islands, subject to the power of Congress to annul any such Act of the legislature.
 
 #### (d), (e) Repealed. Pub. L. 97–357, title III, §305, Oct. 19, 1982, 96 Stat. 1709
 
@@ -44,7 +44,7 @@ The laws of the United States applicable to the Virgin Islands on July 22, 1954,
 
 (2) Nothing in this subsection shall prohibit the Legislature of the Virgin Islands from permitting the duty-free importation of any article.
 
-(3) Nothing in this subsection shall be construed as empowering the Legislature of the Virgin Islands to repeal or amend any provision in law in effect on the day before October 15, 1977,which pertains to the customs valuation or customs classification of articles imported into the Virgin Islands.
+(3) Nothing in this subsection shall be construed as empowering the Legislature of the Virgin Islands to repeal or amend any provision in law in effect on the day before October 15, 1977, which pertains to the customs valuation or customs classification of articles imported into the Virgin Islands.
 
 (July 22, 1954, ch. 558, §8, 68 Stat. 500; Pub. L. 85–851, §§2, 3, 10, Aug. 28, 1958, 72 Stat. 1094, 1095; Pub. L. 88–180, Nov. 19, 1963, 77 Stat. 335; Pub. L. 89–643, Oct. 13, 1966, 80 Stat. 890; Pub. L. 90–496, §15, Aug. 23, 1968, 82 Stat. 842; Pub. L. 95–134, title III, §301(c), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 97–357, title III, §305, Oct. 19, 1982, 96 Stat. 1709; Pub. L. 98–454, title II, §201, Oct. 5, 1984, 98 Stat. 1732; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

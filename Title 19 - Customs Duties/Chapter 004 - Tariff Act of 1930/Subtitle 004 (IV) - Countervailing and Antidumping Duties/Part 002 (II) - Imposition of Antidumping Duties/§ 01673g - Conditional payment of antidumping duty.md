@@ -16,7 +16,7 @@ In order to meet the requirements of this subsection, a person shall—
 
 &emsp;(4) pay, or agree to pay on demand, to the customs officer the amount of antidumping duty imposed under section 1673 of this title on that merchandise.
 
-(June 17, 1930, ch. 497, title VII, §738, as added July 26, 1979, Pub. L. 96–39, title I, §101, 93 Stat. 174; amended Dec. 8, 1994, Pub. L. 103–465, title II, §233(a)(2)(A)(iv), (B), 108 Stat. 4898.)
+(June 17, 1930, ch. 497, title VII, §738, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 174; amended Pub. L. 103–465, title II, §233(a)(2)(A)(iv), (B), Dec. 8, 1994, 108 Stat. 4898.)
 
 #### Amendments
 

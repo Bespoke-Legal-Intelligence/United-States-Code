@@ -10,11 +10,11 @@ In order to promote the establishment and maintenance of a national system of pu
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which is classified to section 1591(i) of this title.
+Amendment by Pub. L. 97–300 effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of amendment, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 
 #### Short Title
 
-Act June 6, 1933, ch. 49, §15, as added by Pub. L. 97–300, title VI, §601(h), formerly title V, §501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, §601(h), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wagner-Peyser Act’.”
+Act June 6, 1933, ch. 49, §16, formerly §15, as added by Pub. L. 97–300, title VI, §601(h), formerly title V, §501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, §601(h), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; renumbered §16, Pub. L. 105–220, title III, §309(1), Aug. 7, 1998, 112 Stat. 1082, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wagner-Peyser Act’.”
 
 #### Transfer of Functions
 
@@ -42,7 +42,7 @@ Pub. L. 93–198, title II, §204(a), Dec. 24, 1973, 87 Stat. 783, provided that
 
 #### Recruitment and Distribution of Farm Labor
 
-Act July 3, 1948, ch. 823, §1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
+Act July 3, 1948, ch. 823, §1, 62 Stat. 1238, authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment inthe continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
 
 Section 2 of act July 3, 1948, appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
 
@@ -52,9 +52,9 @@ Act Apr. 28, 1947, ch. 43, §2, 61 Stat. 55, provided:
 
 “(a) The provisions of the Farm Labor Supply Appropriation Act, 1944 (Public Law 229, Seventy-eighth Congress, second session, title I \[sections 1351 to 1355 of Appendix to Title 50, War and National Defense\]), as amended and supplemented, and as extended by this Act, shall not be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under the Act of June 6, 1933 (48 Stat. 113) \[this chapter\].
 
-“(b) The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary toassure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
+“(b) The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 39 section 3202.
+This section is referred to in title 39 section 3202; title 42 section 655a.
 

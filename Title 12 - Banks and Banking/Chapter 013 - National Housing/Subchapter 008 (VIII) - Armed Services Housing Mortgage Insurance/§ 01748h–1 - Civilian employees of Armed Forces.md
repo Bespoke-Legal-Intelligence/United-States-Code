@@ -2,7 +2,7 @@
 
 #### (a) Requirements; certificate of need for housing and employment status
 
-Notwithstanding any other provisions of this subchapter and in addition to mortgages insured under section 1748b of this title, the Secretary may insure any mortgage under this section which meets the eligibility requirements set forth in section 1709(b) of this title: <i>Provided</i>, That a mortgage insured under this section shall have been executed by a mortgagor who at the time of insurance is the owner of the property and either occupies the property or certifies that his failure to do so is the result of a change in his employment by the Armed Forces or a contractor thereof and to whom the Secretary of Defense or his designee has issued a certificate indicating that such person requires housing and is at the date of the certificate a civilian employee at a research or development installation of one of the military departments of the United States or a contractor thereof and is considered by such military department to be an essential, nontemporary employee at such date. Such certificate shall be conclusive evidence to the Secretary of the employment status of the mortgagor and of the mortgagor's need for housing.
+Notwithstanding any other provisions of this subchapter and in addition to mortgages insured under section 1748b of this title, the Secretary may insure any mortgage under this section which meets the eligibility requirements set forth in section 1709(b) of this title: <i>Provided</i>, That a mortgage insured under this section shall have been executed by a mortgagor who at the time of insurance is the owner of the property and either occupies the property or certifies that his failure to do so is the result of a changein his employment by the Armed Forces or a contractor thereof and to whom the Secretary of Defense or his designee has issued a certificate indicating that such person requires housing and is at the date of the certificate a civilian employee at a research or development installation of one of the military departments of the United States or a contractor thereof and is considered by such military department to be an essential, nontemporary employee at such date. Such certificate shall be conclusive evidence to the Secretary of the employment status of the mortgagor and of the mortgagor's need for housing.
 
 #### (b) Certification of housing need to Secretary; guaranty from loss; authorization of appropriations
 
@@ -18,11 +18,11 @@ Any mortgagee under a mortgage insured under this section is entitled to the ben
 
 #### (e) Payment of insurance; meaning of terms
 
-The provisions of subsections (b), (c), (d), (e), (f), (g), (h), (j), and (k) of section 1710 of this title shall apply to mortgages insured under this section except that as applicable to those mortgages: (1) all references to the “Fund” or “Mutual Mortgage Insurance Fund” shall refer to the “General Insurance Fund” and (2) all references to section 1709 of this title shall refer to this section.
+The provisions of subsections (b), (c), (d), (e), (f), (g), (h),<sup>1</sup> (j), and (k) <sup>1</sup> of section 1710 of this title shall apply to mortgages insured under this section except that as applicable to those mortgages: (1) all references to the “Fund” or “Mutual Mortgage Insurance Fund” shall refer to the “General Insurance Fund” and (2) all references to section 1709 of this title shall refer to this section.
 
 #### (f) Provisions of subchapter applicable; termination date
 
-The provisions of sections 1748, 1748a, 1748b(c), 1748b(i), 1748b(j), 1748c(a), 1748c(b), and 1748f of this title and the provisions of section 1748b(a) of this title relating to the aggregate amount of all mortgages insured under this subchapter, shall be applicable to mortgages insured under this section.
+The provisions of sections 1748, 1748a,<sup>1</sup> 1748b(c), 1748b(i), 1748b(j), 1748c(a),<sup>1</sup> 1748c(b),<sup>1</sup> and 1748f of this title and the provisions of section 1748b(a) of this title relating to the aggregate amount of all mortgages insured under this subchapter, shall be applicable to mortgages insured under this section.
 
 #### (g) Housing for persons employed by National Aeronautics and Space Administration or Atomic Energy Commission; guaranty from loss; definitions
 
@@ -43,6 +43,10 @@ The provisions of sections 1748, 1748a, 1748b(c), 1748b(i), 1748b(j), 1748c(a), 
 #### References in Text
 
 The General Insurance Fund, referred to in text, was established by section 1735c of this title.
+
+Subsection (h) of section 1710 of this title, referred to in subsec. (e), was redesignated subsec. (i) by Pub. L. 105–276, title VI, §602(1), Oct. 21, 1998, 112 Stat. 2674.
+
+Subsection (k) of section 1710 of this title, referred to in subsec. (e), was repealed by Pub. L. 105–276, title VI, §601(c), Oct. 21, 1998, 112 Stat. 2673.
 
 Sections 1748a and 1748c of this title, referred to in subsec. (f), were repealed by Pub. L. 89–117, title XI, §1108(aa), Aug. 10, 1965, 79 Stat. 507.
 
@@ -170,9 +174,11 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, ThePublic Health and Welfare. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See also Transfer of Functions notes set out under those sections.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1748h–3 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

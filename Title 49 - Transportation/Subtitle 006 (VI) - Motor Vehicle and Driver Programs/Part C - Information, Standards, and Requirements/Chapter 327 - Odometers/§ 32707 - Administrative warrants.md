@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “probable cause” means a valid public interest in the effective enforcement of this chapter or a regulation prescribed under this chapter sufficient to justify the inspection or impoundment in the circumstances stated in an application for a warrant under this section.
+Definition.—In this section, “probable cause” means a valid public interest in the effective enforcement of this chapter or a regulation prescribed under this chapter sufficient tojustify the inspection or impoundment in the circumstances stated in an application for a warrant under this section.
 
 (b)
 
@@ -100,7 +100,7 @@ In subsection (a), the words “inspection or impoundment” are substituted for
 
 In subsection (b)(1), the words “Except as provided in paragraph (4) of this subsection” are added for clarity. The words “an inspection or impoundment” are substituted for “any entry or administrative inspection (including impoundment of motor vehicles or motor vehicle equipment)” to eliminate unnecessary words.
 
-In subsection (b)(2), before clause (A), the words “inspection or impoundment” are substituted for “the purpose of conducting administrative inspections authorized by section 1990d of this title and impoundment of motor vehicles or motor vehicle equipment appropriate to such inspections” for consistency in this section. The words “of the court or magistrate” are substituted for “his” for clarity. The words “and uponproper oath or affirmation” are omitted as surplus because of clause (B). Clause (A) is substituted for “showing probable cause” and “and establishing the grounds for issuing the warrant” to eliminate unnecessary words.
+In subsection (b)(2), before clause (A), the words “inspection or impoundment” are substituted for “the purpose of conducting administrative inspections authorized by section 1990d of this title and impoundment of motor vehicles or motor vehicle equipment appropriate to such inspections” for consistency in this section. The words “of the court or magistrate” are substituted for “his” for clarity. The words “and upon proper oath or affirmation” are omitted as surplus because of clause (B). Clause (A) is substituted for “showing probable cause” and “and establishing the grounds for issuing the warrant” to eliminate unnecessary words.
 
 In subsection (b)(3), before clause (A), the words “when the judge or magistrate decides there is a reasonable basis for believing that probable cause exists to issue the warrant” are substituted for “If the judge or magistrate is satisfied that grounds for the application exist or that there is a reasonable basis for believing they exist” for consistency in this section and to eliminate unnecessary words. In clauses (A) and (C), the words “area, factory, warehouse, establishment” are omitted as being included in “premises”. In clause (A), the word “property” is substituted for “and, where appropriate, the type of property to be inspected, if any” to eliminate unnecessary words. In clause (B), the words “the name of the affiant” are substituted for “the name of the person or persons whose affidavit has been taken in support thereof” to eliminate unnecessary words. In clause (C), the words “command the person to whom it is directed” are omitted as surplus. The word “property” is added for consistency with the source provisions restated in clause (A) of this paragraph. In clause (E), the words “proof of service is to be filed” are substituted for “it shall be returned” for clarity.
 

@@ -30,7 +30,7 @@ Interference delay or secrecy orders.—If the issue of an original patent is de
 
 &emsp;(2)
 
-Extension for appellate review.—If the issue of a patent is delayed due to appellate review by the Board of Patent Appeals and Interferences or by a Federal court and the patent is issued pursuant to a decision in the review reversing an adverse determination of patentability, the term of the patent shall be extended for a period of time but in no case more than 5 years. A patent shall not be eligible for extension under this paragraph if it is subject to a terminal disclaimer due to the issue of another patent claiming subject matter that is not patentably distinct from that under appellate review.
+Extension for appellate review.—If the issue of a patent is delayed due to appellatereview by the Board of Patent Appeals and Interferences or by a Federal court and the patent is issued pursuant to a decision in the review reversing an adverse determination of patentability, the term of the patent shall be extended for a period of time but in no case more than 5 years. A patent shall not be eligible for extension under this paragraph if it is subject to a terminal disclaimer due to the issue of another patent claiming subject matter that is not patentably distinct from that under appellate review.
 
 &emsp;(3)
 

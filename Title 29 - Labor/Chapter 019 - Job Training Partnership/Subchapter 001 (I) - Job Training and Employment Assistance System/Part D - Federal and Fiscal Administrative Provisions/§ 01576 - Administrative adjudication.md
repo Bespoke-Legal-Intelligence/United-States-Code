@@ -18,6 +18,10 @@ The provisions of section 1578 of this title shall apply to any final action of 
 
 (Pub. L. 97–300, title I, §166, Oct. 13, 1982, 96 Stat. 1351; Pub. L. 102–367, title I, §134(b), Sept. 7, 1992, 106 Stat. 1046.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–367 inserted “section 1551(c) of this title, subsections (d) and (e) of section 1554 of this title, or” after “Except to the extent provided for in”.

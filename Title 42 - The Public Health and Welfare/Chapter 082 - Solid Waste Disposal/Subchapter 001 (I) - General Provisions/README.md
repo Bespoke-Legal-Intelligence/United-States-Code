@@ -14,3 +14,4 @@
 - [&sect; 06906 - Financial disclosure](%C2%A7%2006906%20-%20Financial%20disclosure.md)
 - [&sect; 06907 - Solid waste management information and guidelines](%C2%A7%2006907%20-%20Solid%20waste%20management%20information%20and%20guidelines.md)
 - [&sect; 06908 - Small town environmental planning](%C2%A7%2006908%20-%20Small%20town%20environmental%20planning.md)
+- [&sect; 06908a - Agreements with Indian tribes](%C2%A7%2006908a%20-%20Agreements%20with%20Indian%20tribes.md)

@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 &emsp;(8) the term “funded debt” means all debt created, assumed, or guaranteed, directly or indirectly, by the Corporation and its subsidiaries which matures by its terms, or is renewable at the option of the Corporation or any such subsidiary to a date, more than 1 year after the date of the original creation, assumption, or guarantee of such debt by the Corporation or such subsidiary;
 
-&emsp;(9) the term “liabilities” means all items of indebtedness or liability which, in accordance with generally accepted accounting principles, would be included in determining total liabilities as shown on the liabilities side of a balance sheet as at the date as of which liabilities are to be determined;
+&emsp;(9) the term “liabilities” means all items of indebtedness or liability which, in accordance with generally accepted accounting principles,would be included in determining total liabilities as shown on the liabilities side of a balance sheet as at the date as of which liabilities are to be determined;
 
 &emsp;(10) the term “person” means an individual, corporation, partnership, association, trust, or other entity or organization, including a government or political subdivision thereof or a governmental body;
 

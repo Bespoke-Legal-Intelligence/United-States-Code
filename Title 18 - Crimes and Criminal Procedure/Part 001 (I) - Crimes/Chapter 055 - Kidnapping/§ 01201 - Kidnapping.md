@@ -2,7 +2,7 @@
 
 (a) Whoever unlawfully seizes, confines, inveigles, decoys, kidnaps, abducts, or carries away and holds for ransom or reward or otherwise any person, except in the case of a minor by the parent thereof, when—
 
-&emsp;(1) the person is willfully transported in interstate or foreign commerce;
+&emsp;(1) the person is willfully transported in interstate or foreign commerce, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began;
 
 &emsp;(2) any such act against the person is done within the special maritime and territorial jurisdiction of the United States;
 
@@ -10,11 +10,11 @@
 
 &emsp;(4) the person is a foreign official, an internationally protected person, or an official guest as those terms are defined in section 1116(b) of this title; or
 
-&emsp;(5) the person is among those officers and employees designated in section 1114 of this title and any such act against the person is done while the person is engaged in, or on account of, the performance of official duties,
+&emsp;(5) the person is among those officers and employees described in section 1114 of this title and any such act against the person is done while the person is engaged in, or on account of, the performance of official duties,
 
 > shall be punished by imprisonment for any term of years or for life and, if the death of any person results, shall be punished by death or life imprisonment.
 
-(b) With respect to subsection (a)(1), above, the failure to release the victim within twenty-four hours after he shall have been unlawfully seized, confined, inveigled, decoyed, kidnapped, abducted, or carried away shall create a rebuttable presumption that such person has been transported to interstate or foreign commerce.
+(b) With respect to subsection (a)(1), above, the failure to release the victim within twenty-four hours after he shall have been unlawfully seized, confined, inveigled, decoyed, kidnapped, abducted, or carried away shall create a rebuttable presumption that such person has been transported to interstate or foreign commerce. Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.
 
 (c) If two or more persons conspire to violate this section and one or more of such persons do any overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
 
@@ -62,7 +62,7 @@ Guidelines.—The United States Sentencing Commission is directed to amend the e
 
 (h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Oct. 24, 1972, Pub. L. 92–539, title II, §201, 86 Stat. 1072; Oct. 8, 1976, Pub. L. 94–467, §4, 90 Stat. 1998; Nov. 9, 1977, Pub. L. 95–163, §17(b)(1), 91 Stat. 1286; Oct. 24, 1978, Pub. L. 95–504, §2(b), 92 Stat. 1705; Oct. 12, 1984, Pub. L. 98–473, title II, §1007, 98 Stat. 2139; Nov. 10, 1986, Pub. L. 99–646, §§36, 37(b), 100 Stat. 3599; Nov. 29, 1990, Pub. L. 101–647, title IV, §401, title XXXV, §3538, 104 Stat. 4819, 4925; July 5, 1994, Pub. L. 103–272, §5(e)(2), (8), 108 Stat. 1373, 1374; Sept. 13, 1994, Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, 108 Stat. 1969, 2124, 2131, 2150; Apr. 24, 1996, Pub. L. 104–132, title VII, §721(f), 110 Stat. 1299.)
+(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987.)
 
 #### Historical and Revision Notes
 
@@ -81,6 +81,12 @@ The phrase “for any term of years or for life” was substituted for the words
 Minor changes were made in phraseology.
 
 #### Amendments
+
+1998—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
+
+Subsec. (a)(5). Pub. L. 105–314, §702(b), substituted “described” for “designated”.
+
+Subsec. (b). Pub. L. 105–314, §702(c), inserted at end “Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.”
 
 1996—Subsec. (e). Pub. L. 104–132 substituted “If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States.” for “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.” and inserted at end “For purposes of this subsection, the term ‘national of the United States’ has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).”
 
@@ -138,5 +144,5 @@ Section 2001 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 11, 115, 878, 1202, 1956, 2333, 3592, 4042 of this title.
+This section is referred to in sections 11, 115, 878, 1202, 1956, 2333, 3486A, 3592, 4042 of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) the cost of restoration and repair of the resource and the archaeological site involved.
 
-> Such regulations shall provide that, in the case of a second or subsequent violation by any person, the amount of such civil penalty may be double the amount which would have been assessed if such violation were the first violation by such person. The amount of any penalty assessed under this subsection for any violation shall not exceed an amount equal to double the cost of restoration and repair of resources and archaeological sites damaged and double the fair market value of resources destroyed or not recovered.
+> Such regulations shall provide that, in the case of a second or subsequent violation by any person, the amount of such civil penalty may be double the amount which would have been assessed if such violation were the first violation by such person. The amount of any penalty assessed under this subsection for any violation shall not exceed an amount equal to double the cost of restoration and repair of resources andarchaeological sites damaged and double the fair market value of resources destroyed or not recovered.
 
 (3) No penalty shall be assessed under this section for the removal of arrowheads located on the surface of the ground.
 

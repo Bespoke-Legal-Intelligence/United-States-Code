@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(4) higher operating costs incurred for public transit in the national capital area cannot be offset by increasing costs to patrons, since this often discourages ridership and thus undermines the public interest in promoting the use of public transit;
 
-&emsp;(5) spiraling labor costs cannot be offset by the governmental entities that are responsiblefor subsidy payments for public transit services since local governments generally, and the District of Columbia government in particular, are operating under severe fiscal constraints;
+&emsp;(5) spiraling labor costs cannot be offset by the governmental entities that are responsible for subsidy payments for public transit services since local governments generally, and the District of Columbia government in particular, are operating under severe fiscal constraints;
 
 &emsp;(6) imposition of mandatory standards applicable to arbitrators resolving arbitration disputes involving interstate compact agencies operating in the national capital area will ensure that wage increases are justified and do not exceed the ability of transit patrons and taxpayers to fund the increase; and
 

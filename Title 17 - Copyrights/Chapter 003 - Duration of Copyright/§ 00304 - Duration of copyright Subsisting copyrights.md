@@ -10,7 +10,7 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 &emsp;(ii) any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire,
 
-> the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of 47 years.
+> the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of 67 years.
 
 (C) In the case of any other copyrighted work, including a contribution by an individual author to a periodical or to a cyclopedic or other composite work—
 
@@ -22,15 +22,15 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 &emsp;(iv) the author's next of kin, in the absence of a will of the author,
 
-> shall be entitled to a renewal and extension of the copyright in such work for a further term of 47 years.
+> shall be entitled to a renewal and extension of the copyright in such work for a further term of 67 years.
 
-(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure for a renewed and extended further term of 47 years, which—
+(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure for a renewed and extended further term of 67 years, which—
 
 &emsp;(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expiration of the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in the proprietor of the copyright who is entitled to claim the renewal of copyright at the time the application is made; or
 
 &emsp;(ii) if no such application is made or the claim pursuant to such application is not registered, shall vest, upon the beginning of such further term, in the person or entity that was the proprietor of the copyright as of the last day of the original term of copyright.
 
-(B) At the expiration of the original term of copyright in a work specified in paragraph (1)(C) of this subsection, the copyright shall endure for a renewed and extended further term of 47 years, which—
+(B) At the expiration of the original term of copyright in a work specified in paragraph (1)(C) of this subsection, the copyright shall endure for a renewed and extended further term of 67 years, which—
 
 &emsp;(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expiration of the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in any person who is entitled under paragraph (1)(C) to the renewal and extension of the copyright at the time the application is made; or
 
@@ -38,11 +38,11 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 (3)(A) An application to register a claim to the renewed and extended term of copyright in a work may be made to the Copyright Office—
 
-&emsp;(i) within 1 year before the expiration of the original term of copyright by any person entitled under paragraph (1)(B) or (C) to such further term of 47 years; and
+&emsp;(i) within 1 year before the expiration of the original term of copyright by any person entitled under paragraph (1)(B) or (C) to such further term of 67 years; and
 
 &emsp;(ii) at any time during the renewed and extended term by any person in whom such further term vested, under paragraph (2)(A) or (B), or by any successor or assign of such person, if the application is made in the name of such person.
 
-(B) Such an application is not a condition of the renewal and extension of the copyright in a work for a further term of 47 years.
+(B) Such an application is not a condition of the renewal and extension of the copyright in a work for a further term of 67 years.
 
 (4)(A) If an application to register a claim to the renewed and extended term of copyright in a work is not made within 1 year before the expiration of the original term of copyright in a work, or if the claim pursuant to such application is not registered, then a derivative work prepared under authority of a grant of a transfer or license of the copyright that is made before the expiration of the original term of copyright may continue to be used under the terms of the grant during the renewed and extended term of copyright without infringing the copyright, except that such use does not extend to the preparation during such renewed and extended term of other derivative works based upon the copyrighted work covered by such grant.
 
@@ -50,7 +50,7 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 (b)
 
-Copyrights in Their Renewal Term or Registered for Renewal Before January 1, 1978.—The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.
+Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act.—Any copyright still in its renewal term at the time that the Sonny Bono Copyright Term Extension Act becomes effective shall have a copyright term of 95 years from the date copyright was originally secured.
 
 (c)
 
@@ -58,19 +58,21 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 &emsp;(1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it. In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest.
 
-&emsp;(2) Where an author is dead, his or her termination interest is owned, and may be exercised, by his widow or her widower and his or her children or grandchildren as follows:
+&emsp;(2) Where an author is dead, his or her termination interest is owned, and may be exercised, as follows:
 
 &emsp;&emsp;(A) the widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest;
 
 &emsp;&emsp;(B) the author's surviving children, and the surviving children of any dead child of the author, own the author's entire termination interest unless there is a widow or widower, in which case the ownership of one-half of the author's interest is divided among them;
 
-&emsp;&emsp;(C) the rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them.
+&emsp;&emsp;(C) the rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them.<sup>1</sup>
+
+&emsp;&emsp;(D) In <sup>2</sup> the event that the author's widow or widower, children, and grandchildren are not living, the author's executor, administrator, personal representative, or trustee shall own the author's entire termination interest.
 
 &emsp;(3) Termination of the grant may be effected at any time during a period of five years beginning at the end of fifty-six years from the date copyright was originally secured, or beginning on January 1, 1978, whichever is later.
 
 &emsp;(4) The termination shall be effected by serving an advance notice in writing upon the grantee or the grantee's successor in title. In the case of a grant executed by a person or persons other than the author, the notice shall be signed by all of those entitled to terminate the grant under clause (1) of this subsection, or by their duly authorized agents. In the case of a grant executed by one or more of the authors of the work, the notice as to any one author's share shall be signed by that author or his or her duly authorized agent or, if that author is dead, by the number and proportion of the owners of his or her termination interest required under clauses (1) and (2) of this subsection, or by their duly authorized agents.
 
-&emsp;&emsp;(A) The notice shall state the effective date of the termination, which shall fall within the five-year period specified by clause (3) of this subsection, and the notice shall be served not less than two or more than ten years before that date. A copy of the notice shall be recorded in the Copyright Office before the effective date of termination, as a condition to its taking effect.
+&emsp;&emsp;(A) The notice shall state the effective date of the termination, which shall fall within the five-year period specified by clause (3) of this subsection, or, in the case of a termination under subsection (d), within the five-year period specified by subsection (d)(2), and the notice shall be served not less than two or more than ten years before that date. A copy of the notice shall be recorded in the Copyright Office before the effective date of termination, as a condition to its taking effect.
 
 &emsp;&emsp;(B) The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation.
 
@@ -80,7 +82,7 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 &emsp;&emsp;(A) A derivative work prepared under authority of the grant before its termination may continue to be utilized under the terms of the grant after its termination, but this privilege does not extend to the preparation after the termination of other derivative works based upon the copyrighted work covered by the terminated grant.
 
-&emsp;&emsp;(B) The future rights that will revert upon termination of the grant become vested onthe date the notice of termination has been served as provided by clause (4) of this subsection.
+&emsp;&emsp;(B) The future rights that will revert upon termination of the grant become vested on the date the notice of termination has been served as provided by clause (4) of this subsection.
 
 &emsp;&emsp;(C) Where the author's rights revert to two or more persons under clause (2) of this subsection, they shall vest in those persons in the proportionate shares provided by that clause. In such a case, and subject to the provisions of subclause (D) of this clause, a further grant, or agreement to make a further grant, of a particular author's share with respect to any right covered by a terminated grant is valid only if it is signed by the same number and proportion of the owners, in whom the right has vested under this clause, as are required to terminate the grant under clause (2) of this subsection. Such further grant or agreement is effective with respect to all of the persons in whom the right it covers has vested under this subclause, including those who did not join in signing it. If any person dies after rights under a terminated grant have vested in him or her, that person's legal representatives, legatees, or heirs at law represent him or her for purposes of this subclause.
 
@@ -90,7 +92,17 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 &emsp;&emsp;(F) Unless and until termination is effected under this subsection, the grant, if it does not provide otherwise, continues in effect for the remainder of the extended renewal term.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, §102(a), (d), June 26, 1992, 106 Stat. 264, 266; Pub. L. 105–80, §12(a)(9), Nov. 13, 1997, 111 Stat. 1535.)
+(d)
+
+Termination Rights Provided in Subsection (c)
+
+Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
+
+&emsp;(1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
+
+&emsp;(2) Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, §102(a), (d), June 26, 1992, 106 Stat. 264, 266; Pub. L. 105–80, §12(a)(9), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title I, §§102(d)(1), 103, Oct. 27, 1998, 112 Stat. 2827, 2829.)
 
 #### Historical and Revision Notes
 
@@ -112,7 +124,7 @@ Subsection (c) of section 304 is a close but not exact counterpart of section 20
 
 The bill distinguishes between the persons who can terminate a grant under section 203 and those entitled to terminate a grant covering an extended term under section 304. Instead of being limited to transfers and licenses executed by the author, the right of termination under section 304(c) also extends to grants executed by those beneficiaries of the author who can claim renewal under the present law: his or her widow or widower, children, executors, or next of kin.
 
-There is good reason for this difference. Under section 203, an author's widow or widower and children aregiven rights of termination if the author is dead, but these rights apply only to grants by the author, and any effort by a widow, widower, or child to transfer contingent future interests under a termination would be ineffective. In contrast, under the present renewal provisions, any statutory beneficiary of the author can make a valid transfer or license of future renewal rights, which is completely binding if the author is dead and the person who executed the grant turns out to be the proper renewal claimant. Because of this, a great many contingent transfers of future renewal rights have been obtained from widows, widowers, children, and next of kin, and a substantial number of these will be binding. After the present 28-year renewal period has ended, a statutory beneficiary who has signed a disadvantageous grant of this sort should have the opportunity to reclaim the extended term.
+There is good reason for this difference. Under section 203, an author's widow or widower and children are given rights of termination if the author is dead, but these rights apply only to grants by the author, and any effort by a widow, widower, or child to transfer contingent future interests under a termination would be ineffective. In contrast, under the present renewal provisions, any statutory beneficiary of the author can make a valid transfer or license of future renewal rights, which is completely binding if the author is dead and the person who executed the grant turns out to be the proper renewal claimant. Because of this, a great many contingent transfers of future renewal rights have been obtained from widows, widowers, children, and next of kin, and a substantial number of these will be binding. After the present 28-year renewal period has ended, a statutory beneficiary who has signed a disadvantageous grant of this sort should have the opportunity to reclaim the extended term.
 
 As explained above in connection with section 203, the bill adopts the principle that, where a transfer or license by the author is involved, termination may be effected by a per stirpes majority of those entitled to terminate, and this principle also applies to the ownership of rights under a termination and to the making of further grants of reverted rights. In general, this principle has also been adopted with respect to the termination of rights under an extended renewal copyright in section 304, but with several differences made necessary by the differences between the legal status of transfers and licenses made after the effective date of the new law \[Jan. 1, 1978\] (governed by section 203) and that of grants of renewal rights made earlier and governed by section 304(c). The following are the most important distinctions between the termination rights under the two sections:
 
@@ -122,11 +134,31 @@ As explained above in connection with section 203, the bill adopts the principle
 
 &emsp;<i>3. Further Grants</i>.—The reason against adopting a principle of majority action with respect to the right to terminate grants by joint authors and grants not executed by the author apply equally with respect to the right to make further grants under section 304(c). The requirement for majority action in clause (6)(C) is therefore confined to cases where the rights under a grant by the author have reverted to his or her widow or widower, or children, or both. Where the extended term reverts to joint authors or to a class of renewal beneficiaries who have joined in executing a grant, their rights would be governed by the general rules of tenancy in common; each coowner would have an independent right to sell his share, or to use or license the work subject to an accounting.
 
-Nothing contained in this section or elsewhere in this legislation is intended to extend the duration of any license, transfer, or assignment made for a period of less than fifty-six years. If, for example, an agreement provides an earlier termination date or lesser duration, or if it allows the author the right of cancelling or terminating the agreement under certain circumstances, the duration is governed by the agreement. Likewise, nothing in this section or legislation is intended to change the existing state of the law of contracts concerning the circumstances in which an author may terminate a license, transfer or assignment.
+Nothing contained in this section or elsewhere in this legislation is intended to extend the duration of any license, transfer, or assignment made for a period of less than fifty-six years. If, for example, an agreement provides an earlier termination date or lesser duration, or if it allows the author the right of cancelling or terminating the agreement under certain circumstances, the duration is governed by the agreement. Likewise, nothing in this section or legislation is intended to change the existing state of the law of contracts concerningthe circumstances in which an author may terminate a license, transfer or assignment.
 
 Section 304(c)(6)(E) provides that, unless and until termination is effected under this section, the grant, “if it does not provide otherwise,” continues for the term of copyright. This section means that, if the agreement does not contain provisions specifying its term or duration, and the author has not terminated the agreement under this section, the agreement continues for the term of the copyright, subject to any right of termination under circumstances which may be specified therein. If, however, an agreement does contain provisions governing its duration—for example, a term of sixty years—and the author has not exercised his or her right of termination under the statute, the agreement will continue according to its terms—in this example, for only sixty years. The quoted language is not to be construed as requiring agreements to reserve the right of termination.
 
+#### References in Text
+
+The Sonny Bono Copyright Term Extension Act, referred to in subsecs. (b) and (d), is title I of Pub. L. 105–298, Oct. 27, 1998, 112 Stat. 2827. The effective date of the Act is the date of enactment of Pub. L. 105–298, which was approved Oct. 27, 1998. For complete classification of this Act to the Code, see Short Title of 1998 Amendments note set out under section 101 of this title and Tables.
+
 #### Amendments
+
+1998—Subsec. (a)(1)(B), (C). Pub. L. 105–298, §102(d)(1)(A)(i), substituted “67” for “47” in concluding provisions.
+
+Subsec. (a)(2)(A), (B). Pub. L. 105–298, §102(d)(1)(A)(ii), substituted “67” for “47” in introductory provisions.
+
+Subsec. (a)(3)(A)(i), (B). Pub. L. 105–298, §102(d)(1)(A)(iii), substituted “67” for “47”.
+
+Subsec. (b). Pub. L. 105–298, §102(d)(1)(B), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.”
+
+Subsec. (c)(2). Pub. L. 105–298, §103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
+
+Subsec. (c)(2)(D). Pub. L. 105–298, §103(2), added subpar. (D).
+
+Subsec. (c)(4)(A). Pub. L. 105–298, §102(d)(1)(C), inserted “or, in the case of a termination under subsection (d), within the five-year period specified by subsection (d)(2),” before “and the notice”.
+
+Subsec. (d). Pub. L. 105–298, §102(d)(1)(D), added subsec. (d).
 
 1997—Subsec. (c). Pub. L. 105–80 substituted “subsection (a)(1)(C)” for “the subsection (a)(1)(C)” in introductory provisions.
 
@@ -138,7 +170,7 @@ Subsec. (c). Pub. L. 102–307, §102(d), substituted “subsection (a)(1)(C)”
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, see section 102(g) of Pub. L. 102–307, set out as a note under section 101 of this title.
+Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
 
 #### Effective Date
 
@@ -146,7 +178,7 @@ Subsec. (b) of this section effective Oct. 19, 1976, see section 102 of Pub. L. 
 
 #### Legal Effect of Renewal of Copyright Unchanged
 
-Section 102(c) of Pub. L. 102–307 provided that: “The renewal and extension of a copyright for a further term of 47 years provided for under paragraphs (1) and (2) of section 304(a) of title 17, United States Code (as amended by subsection (a) of this section) shall have the same effect with respect to any grant, before the effective date of this section \[June 26, 1992\], of a transfer or license of the further term as did the renewal of a copyright before the effective date of this section under the law in effect at the time of such grant.”
+Section 102(c) of Pub. L. 102–307, as amended by Pub. L. 105–298, title I, §102(d)(2)(A), Oct. 27, 1998, 112 Stat. 2828, provided that: “The renewal and extension of a copyright for a further term of 67 years provided for under paragraphs (1) and (2) of section 304(a) of title 17, United States Code\[,\] shall have the same effect with respect to any grant, before the effective date of the Sonny Bono Copyright Term Extension Act \[Oct. 27, 1998\], of a transfer or license of the further term as did the renewal of a copyright before the effective date of the Sonny Bono Copyright Term Extension Act under the law in effect at the time of such grant.”
 
 #### Ad Interim Copyrights Subsisting or Capable of Being Secured Under Predecessor Provisions
 
@@ -154,7 +186,7 @@ Section 107 of Pub. L. 94–553 provided that: “In the case of any work in whi
 
 #### Copyright Granted to “Science and Health with Key to the Scriptures” for Term of 75 Years
 
-Private Law 92–60, Dec. 15, 1971, 85 Stat. 857, provided: “That, any provision of law to the contrary notwithstanding, copyright is hereby granted to the trustees under the will of Mary Baker Eddy, their successors, and assigns, in the work ‘Science and Health with Key to the Scriptures’ (entitled also in some editions ‘Science and Health’ or ‘Science and Health; with a Key to the Scriptures’), by Mary Baker Eddy, including all editions thereof in English and translation heretofore published, or hereafter published by or on behalf of said trustees, their successors or assigns, for a term of seventy-five years from the effective date of this Act \[Dec. 15, 1971\] or from the date of first publication, whichever is later. All copies of the protected work hereafter published are to bear notice of copyright, and all new editions hereafter published are to be registered in the Copyright Office, in accordance with the provisions of title 17 of the United States Code or any revision or recodification thereof. The copyright owner shall be entitled to all rights and remedies provided to copyright owners generally by law: <i>Provided, however</i>, That no liability shall attach under this Act for lawful uses made or acts done prior to the effective date of this Act in connection with said work, or in respect to the continuance for one year subsequent to such date of any business undertaking or enterprise lawfully undertaken prior to such date involving expenditure or contractual obligation in connection with the exploitation, production, reproduction or circulation of said work. This Act shall be effective upon enactment.”
+Private Law 92–60, Dec. 15, 1971, 85 Stat. 857, provided: “That, any provision of law to the contrary notwithstanding, copyright is hereby granted to the trustees under the will of Mary Baker Eddy, their successors, and assigns, in the work ‘Science and Health with Key to the Scriptures’ (entitled also in some editions ‘Science and Health’ or ‘Science and Health; with a Key to the Scriptures’), by Mary Baker Eddy, including all editions thereof in English and translation heretofore published, or hereafter published by or on behalf of saidtrustees, their successors or assigns, for a term of seventy-five years from the effective date of this Act \[Dec. 15, 1971\] or from the date of first publication, whichever is later. All copies of the protected work hereafter published are to bear notice of copyright, and all new editions hereafter published are to be registered in the Copyright Office, in accordance with the provisions of title 17 of the United States Code or any revision or recodification thereof. The copyright owner shall be entitled to all rights and remedies provided to copyright owners generally by law: <i>Provided, however</i>, That no liability shall attach under this Act for lawful uses made or acts done prior to the effective date of this Act in connection with said work, or in respect to the continuance for one year subsequent to such date of any business undertaking or enterprise lawfully undertaken prior to such date involving expenditure or contractual obligation in connection with the exploitation, production, reproduction or circulation of said work. This Act shall be effective upon enactment.”
 
 #### Extension of Renewal Terms Under Prior Law
 
@@ -180,7 +212,7 @@ Pub. L. 87–668, Sept. 19, 1962, 76 Stat. 555, provided that in any case in whi
 
 Alternative to separate renewal registrations for group works by single author, see section 408 of this title.
 
-Duration and renewal of registration of trade-marks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
+Duration and renewal of registration of trademarks, see sections 1058 and 1059 of Title 15, Commerce and Trade.
 
 Duration of term of patents, see section 154 of Title 35, Patents.
 
@@ -189,4 +221,8 @@ Fee for registration of claim to renewal of subsisting copyright in first term, 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 305, 408, 409, 708 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

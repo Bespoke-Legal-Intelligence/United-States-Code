@@ -32,7 +32,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(D) study the relationship between atmospheric pollution and other climatological, chemical, physical, and biological factors that may affect the health and productivity of domestic forest ecosystems;
 
-&emsp;(E) develop recommendations for solving or mitigating problems related to the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems;
+&emsp;(E) develop recommendations for solving or mitigating problems related to the effects ofatmospheric pollution on the health and productivity of domestic forest ecosystems;
 
 &emsp;(F) foster cooperation among Federal, State, and private researchers and encourage the exchange of scientific information on the effects of atmospheric pollutants on forest ecosystems among the United States, Canada, European nations, and other nations;
 
@@ -74,23 +74,113 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(iii) making final recommendations for solving or mitigating problems stemming from the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems.
 
-#### (d) Studies relative to problems associated with urban forests; effects of Federal revenue codes on private forests; development of improved delivery systems for information and technical assistance provided to private landowners
+#### (d) High priority forestry and rangeland research and education
 
-The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
+#### (1) In general
 
-&emsp;(1) evaluate renewable resource management problems associated with urban-forest interface;
+&emsp;The Secretary may conduct, support, and cooperate in forestry and rangeland research and education that is of the highest priority to the United States and to users of public and private forest land and rangeland in the United States.
 
-&emsp;(2) assess effects of changes in Federal revenue codes on private forest management and investment; and
+#### (2) Priorities
 
-&emsp;(3) develop improved delivery systems for information and technical assistance provided to private landowners.
+&emsp;The research and education priorities include the following:
 
-(Pub. L. 95–307, §3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, §254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, §3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, §1241(a), Nov. 28, 1990, 104 Stat. 3544.)
+&emsp;&emsp;(A) The biology of forest organisms and rangeland organisms.
+
+&emsp;&emsp;(B) Functional characteristics and cost-effective management of forest and rangeland ecosystems.
+
+&emsp;&emsp;(C) Interactions between humans and forests and rangeland.
+
+&emsp;&emsp;(D) Wood and forage as a raw material.
+
+&emsp;&emsp;(E) International trade, competition, and cooperation.
+
+#### (3) Northeastern States research cooperative
+
+&emsp;At the request of the Governor of the State of Maine, New Hampshire, New York, or Vermont, the Secretary may cooperate with the northeastern States of New Hampshire, New York, Maine, and Vermont, land-grant colleges and universities of those States, natural resources and forestry schools of those States, other Federal agencies, and other interested persons in those States to coordinate and improve ecological and economic research relating to agricultural research, extension, and education, including—
+
+&emsp;&emsp;(A) research on ecosystem health, forest management, product development, economics, and related fields;
+
+&emsp;&emsp;(B) research to assist those States and landowners in those States to achieve sustainable forest management;
+
+&emsp;&emsp;(C) technology transfer to the wood products industry of technologies that promote efficient processing, pollution prevention, and energy conservation;
+
+&emsp;&emsp;(D) dissemination of existing and new information to landowners, public and private resource managers, State forest citizen advisory committees, and the general public through professional associations, publications, and other information clearinghouse activities; and
+
+&emsp;&emsp;(E) analysis of strategies for the protection of areas of outstanding ecological significance or high biological diversity, and strategies for the provision of important recreational opportunities and traditional uses, including strategies for areas identified through State land conservation planning processes.
+
+#### (e) Forest inventory and analysis
+
+#### (1) Program required
+
+&emsp;In compliance with other applicable provisions of law, the Secretary shall establish a program to inventory and analyze, in a timely manner, public and private forests and their resources in the United States.
+
+#### (2) Annual State inventory
+
+#### (A) In general
+
+&emsp;&emsp;Not later than the end of each full fiscal year beginning after June 23, 1998, the Secretary shall prepare for each State, in cooperation with the State forester for the State, an inventory of forests and their resources in the State.
+
+#### (B) Sample plots
+
+&emsp;&emsp;For purposes of preparing the inventory for a State, the Secretary shall measure annually 20 percent of all sample plots that are included in the inventory program for that State.
+
+#### (C) Compilation of inventory
+
+&emsp;&emsp;On completion of the inventory for a year, the Secretary shall make available to the public a compilation of all data collected for that year from measurements of sample plots as well as any analysis made of the samples.
+
+#### (3) 5-year reports
+
+&emsp;Not more often than every 5 full fiscal years after June 23, 1998, the Secretary shall prepare, publish, and make available to the public a report, prepared in cooperation with State foresters, that—
+
+&emsp;&emsp;(A) contains a description of each State inventory of forests and their resources, incorporating all sample plot measurements conducted during the 5 years covered by the report;
+
+&emsp;&emsp;(B) displays and analyzes on a nationwide basis the results of the annual reports required by paragraph (2); and
+
+&emsp;&emsp;(C) contains an analysis of forest health conditions and trends over the previous 2 decades, with an emphasis on such conditions and trends during the period subsequent to the immediately preceding report under this paragraph.
+
+#### (4) National standards and definitions
+
+&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation with State foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
+
+#### (5) Protection for private property rights
+
+&emsp;The Secretary shall obtain authorization from property owners prior to collecting data from sample plots located on private property pursuant to paragraphs (2) and (3).
+
+#### (6) Strategic plan
+
+&emsp;Not later than 180 days after June 23, 1998, the Secretary shall prepare and submit to Congress a strategic plan to implement and carry out this subsection, including the annual updates required by paragraph (2) and the reports required by paragraph (3), that shall describe in detail—
+
+&emsp;&emsp;(A) the financial resources required to implement and carry out this subsection, including the identification of any resources required in excess of the amounts provided for forest inventorying and analysis in recent appropriations Acts;
+
+&emsp;&emsp;(B) the personnel necessary to implement and carry out this subsection, including any personnel in addition to personnel currently performing inventorying and analysis functions;
+
+&emsp;&emsp;(C) the organization and procedures necessary to implement and carry out this subsection, including proposed coordination with Federal land management agencies and State foresters;
+
+&emsp;&emsp;(D) the schedules for annual sample plot measurements in each State inventory required by paragraph (2) within the first 5-year interval after June 23, 1998;
+
+&emsp;&emsp;(E) the core set of variables to be measured in each sample plot under paragraph (2) and the standard set of tables to be used in each State and national report under paragraph (3); and
+
+&emsp;&emsp;(F) the process for employing, in coordination with the Secretary of Energy and the Administrator of the National Aeronautics and Space Administration, remote sensing, global positioning systems, and other advanced technologies to carry out this subsection, and the subsequent use of the technologies.
+
+(Pub. L. 95–307, §3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, §254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, §3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, §1241(a), Nov. 28, 1990, 104 Stat. 3544; Pub. L. 105–185, title II, §253(b), (c), June 23, 1998, 112 Stat. 559; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
 #### References in Text
 
 The Federal revenue codes, referred to in subsec. (d)(2), are classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–185, §253(b), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary is authorized to conduct, support, and cooperate in studies and other activities the Secretary deems necessary to—
+
+&emsp;“(1) evaluate renewable resource management problems associated with urban-forest interface;
+
+&emsp;“(2) assess effects of changes in Federal revenue codes on private forest management and investment; and
+
+&emsp;“(3) develop improved delivery systems for information and technical assistance provided to private landowners.”
+
+Subsec. (d)(3). Pub. L. 105–277 substituted “At the request of the Governor of the State of Maine, New Hampshire, New York, or Vermont, the Secretary” for “The Secretary”.
+
+Subsec. (e). Pub. L. 105–185, §253(c), added subsec. (e).
 
 1990—Subsec. (a)(1). Pub. L. 101–624, §1241(a)(1), inserted “, including activities for encouraging improved reforestation of forest lands from which timber has been harvested” after “purposes”.
 
@@ -103,6 +193,26 @@ Subsec. (d). Pub. L. 101–624, §1241(a)(3), added subsec. (d).
 1980—Subsec. (a)(1). Pub. L. 96–294, §254(1), inserted applicability to energy production and energy conservation activities.
 
 Subsec. (a)(4). Pub. L. 96–294, §254(2), inserted applicability to producing and conserving energy.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of Title 7, Agriculture.
+
+#### Hardwood Technology Transfer and Applied Research
+
+Pub. L. 105–277, div. A, §101(e) \[title III, §343\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–297, provided that:
+
+“(a) The Secretary of Agriculture (hereinafter the ‘Secretary’) is hereby authorized to conduct technology transfer and development, training, dissemination of information and applied research in the management, processing and utilization of the hardwood forest resource. This authority is in addition to any other authorities which may be available to the Secretary including, but not limited to, the Cooperative Forestry Assistance Act of 1978, as amended (16 U.S.C. 2101 et. seq.), and the Forest and Rangeland Renewable Resources Act of 1978, as amended (16 U.S.C. 1600–1614).
+
+“(b) In carrying out this authority, the Secretary may enter into grants, contracts, and cooperative agreements with public and private agencies, organizations, corporations, institutions and individuals. The Secretary may accept gifts and donations pursuant to the Act of October 10, 1978 (7 U.S.C. 2269) including gifts and donations from a donor that conducts business with any agency of the Department of Agriculture or is regulated by the Secretary of Agriculture.
+
+“(c) The Secretary is authorized, on such terms and conditions as the Secretary may prescribe, to assume all rights, title, and interest, including all outstanding assets, of the Robert C. Byrd Hardwood Technology Center, Inc. (hereinafter the ‘Center’), a non-profit corporation existing under the laws of the State of West Virginia: <i>Provided</i>, That the Board of Directors of the Center requests such an action and dissolves the corporation consistent with the Articles of Incorporation and the laws of the State of West Virginia.
+
+“(d) The Secretary is authorized to operate and utilize the assets of the Center as part of a newly formed ‘Institute of Hardwood Technology Transfer and Applied Research’ (hereinafter the ‘Institute’). The Institute, in addition to the Center, will consist of a Director, technology transfer specialists from State and Private Forestry, the Forestry Sciences Laboratory in Princeton, West Virginia, and any other organizational unit of the Department of Agriculture as the Secretary deems appropriate. The overall management of the Institute will be the responsibility of the USDA Forest Service, State and Private Forestry.
+
+“(e) The Secretary is authorized to generate revenue using the authorities provided herein. Any revenue received as part of the operation of the Institute shall be deposited into a special fund in the Treasury of the United States, known as the ‘Hardwood Technology Transfer and Applied Research Fund’, which shall be available to the Secretary until expended, without further appropriation, in furtherance of the purposes of this section, including upkeep, management, and operation of the Institute and the payment of salaries and expenses.
+
+“(f) There are hereby authorized to be appropriated such sums as necessary to carry out the provisions of this section.”
 
 #### Southern Forest Regeneration Program
 
@@ -194,5 +304,5 @@ Section 2 of Pub. L. 100–521 provided that: “Congress finds that—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1648 of this title; title 42 section 8852.
+This section is referred to in sections 1644, 1648 of this title; title 42 section 8852.
 

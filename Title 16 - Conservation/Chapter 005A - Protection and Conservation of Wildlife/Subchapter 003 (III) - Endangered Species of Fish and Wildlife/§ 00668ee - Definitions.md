@@ -50,11 +50,11 @@ The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 
 
 “(a) The term ‘person’ as used in this Act means any individual, partnership, corporation, or association.
 
-“(b) The terms ‘take’ or ‘taking’ or ‘taken’ as used in this Act mean to pursue, hunt, shoot, capture, collect,kill, or attempt to pursue, hunt, shoot, capture, collect, or kill.
+“(b) The terms ‘take’ or ‘taking’ or ‘taken’ as used in this Act mean to pursue, hunt, shoot, capture, collect, kill, or attempt to pursue, hunt, shoot, capture, collect, or kill.
 
 “(c) The terms ‘State’ and the ‘United States’ as used in this Act mean the several States of the United States, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, and Guam.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 459j–4, 3125, 3212 of this title.
+This section is referred to in sections 459j–4, 742f, 3125, 3212 of this title.
 

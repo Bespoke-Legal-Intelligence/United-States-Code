@@ -34,61 +34,61 @@
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8017\], 98 Stat. 1904, 1926.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8017\], Oct. 12, 1984, 98 Stat. 1904, 1926.
 
-Dec. 8, 1983, Pub. L. 98–212, title VII, §720, 97 Stat. 1441.
+Pub. L. 98–212, title VII, §720, Dec. 8, 1983, 97 Stat. 1441.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, §101(c) \[title VII, §721\], 96 Stat. 1833, 1854.
+Pub. L. 97–377, title I, §101(c) \[title VII, §721\], Dec. 21, 1982, 96 Stat. 1833, 1854.
 
-Dec. 29, 1981, Pub. L. 97–114, title VII, §721, 95 Stat. 1582.
+Pub. L. 97–114, title VII, §721, Dec. 29, 1981, 95 Stat. 1582.
 
-Dec. 15, 1980, Pub. L. 96–527, title VII, §722, 94 Stat. 3084.
+Pub. L. 96–527, title VII, §722, Dec. 15, 1980, 94 Stat. 3084.
 
-Dec. 21, 1979, Pub. L. 96–154, title VII, §722, 93 Stat. 1156.
+Pub. L. 96–154, title VII, §722, Dec. 21, 1979, 93 Stat. 1156.
 
-Oct. 13, 1978, Pub. L. 95–457, title VIII, §822, 92 Stat. 1247.
+Pub. L. 95–457, title VIII, §822, Oct. 13, 1978, 92 Stat. 1247.
 
-Sept. 21, 1977, Pub. L. 95–111, title VIII, §821, 91 Stat. 903.
+Pub. L. 95–111, title VIII, §821, Sept. 21, 1977, 91 Stat. 903.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, §721, 90 Stat. 1295.
+Pub. L. 94–419, title VII, §721, Sept. 22, 1976, 90 Stat. 1295.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, §721, 90 Stat. 172.
+Pub. L. 94–212, title VII, §721, Feb. 9, 1976, 90 Stat. 172.
 
-Oct. 8, 1974, Pub. L. 93–437, title VIII, §821, 88 Stat. 1228.
+Pub. L. 93–437, title VIII, §821, Oct. 8, 1974, 88 Stat. 1228.
 
-Jan. 2, 1974, Pub. L. 93–238, title VII, §722, 87 Stat. 1042.
+Pub. L. 93–238, title VII, §722, Jan. 2, 1974, 87 Stat. 1042.
 
-Oct. 26, 1972, Pub. L. 92–570, title VII, §722, 86 Stat. 1200.
+Pub. L. 92–570, title VII, §722, Oct. 26, 1972, 86 Stat. 1200.
 
-Dec. 18, 1971, Pub. L. 92–204, title VII, §722, 85 Stat. 731.
+Pub. L. 92–204, title VII, §722, Dec. 18, 1971, 85 Stat. 731.
 
-Jan. 11, 1971, Pub. L. 91–668, title VIII, §822, 84 Stat. 2034.
+Pub. L. 91–668, title VIII, §822, Jan. 11, 1971, 84 Stat. 2034.
 
-Dec. 29, 1969, Pub. L. 91–171, title VI, §622, 83 Stat. 483.
+Pub. L. 91–171, title VI, §622, Dec. 29, 1969, 83 Stat. 483.
 
-Oct. 17, 1968, Pub. L. 90–580, title V, §521, 82 Stat. 1133.
+Pub. L. 90–580, title V, §521, Oct. 17, 1968, 82 Stat. 1133.
 
-Sept. 29, 1967, Pub. L. 90–96, title VI, §621, 81 Stat. 246.
+Pub. L. 90–96, title VI, §621, Sept. 29, 1967, 81 Stat. 246.
 
-Oct. 15, 1966, Pub. L. 89–687, title VI, §621, 80 Stat. 995.
+Pub. L. 89–687, title VI, §621, Oct. 15, 1966, 80 Stat. 995.
 
-Sept. 29, 1965, Pub. L. 89–213, title VI, §621, 79 Stat. 877.
+Pub. L. 89–213, title VI, §621, Sept. 29, 1965, 79 Stat. 877.
 
-Aug. 19, 1964, Pub. L. 88–446, title V, §521, 78 Stat. 478.
+Pub. L. 88–446, title V, §521, Aug. 19, 1964, 78 Stat. 478.
 
-Oct. 17, 1963, Pub. L. 88–149, title V, §521, 77 Stat. 267.
+Pub. L. 88–149, title V, §521, Oct. 17, 1963, 77 Stat. 267.
 
-Aug. 9, 1962, Pub. L. 87–577, title V, §521, 76 Stat. 332.
+Pub. L. 87–577, title V, §521, Aug. 9, 1962, 76 Stat. 332.
 
-Aug. 17, 1961, Pub. L. 87–144, title VI, §621, 75 Stat. 379.
+Pub. L. 87–144, title VI, §621, Aug. 17, 1961, 75 Stat. 379.
 
-July 7, 1960, Pub. L. 86–601, title V, §521, 74 Stat. 353.
+Pub. L. 86–601, title V, §521, July 7, 1960, 74 Stat. 353.
 
-Aug. 18, 1959, Pub. L. 86–166, title V, §621, 73 Stat. 382.
+Pub. L. 86–166, title V, §621, Aug. 18, 1959, 73 Stat. 382.
 
-Aug. 22, 1958, Pub. L. 85–724, title VI, §623, 72 Stat. 727.
+Pub. L. 85–724, title VI, §623, Aug. 22, 1958, 72 Stat. 727.
 
-Aug. 2, 1957, Pub. L. 85–117, title VI, §624, 71 Stat. 327.
+Pub. L. 85–117, title VI, §624, Aug. 2, 1957, 71 Stat. 327.
 
 July 2, 1956, ch. 488, title VI, §624, 70 Stat. 471.
 
@@ -110,7 +110,7 @@ Subsec. (c). Pub. L. 99–661, §651(a)(2), as amended by Pub. L. 100–26, adde
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986,see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Effective Date of 1986 Amendment
 

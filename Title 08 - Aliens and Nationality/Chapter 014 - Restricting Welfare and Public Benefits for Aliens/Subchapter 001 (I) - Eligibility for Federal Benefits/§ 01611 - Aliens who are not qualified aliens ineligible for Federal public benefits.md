@@ -12,7 +12,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(B) Short-term, non-cash, in-kind emergency disaster relief.
 
-&emsp;(C) Public health assistance (not including any assistance under title XIX of the SocialSecurity Act \[42 U.S.C. 1396 et seq.\]) for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+&emsp;(C) Public health assistance (not including any assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]) for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
 &emsp;(D) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (iii) are necessary for the protection of life or safety.
 
@@ -24,21 +24,25 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 (4) Subsection (a) of this section shall not apply to any benefit payable under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\] or the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General or to an alien residing outside the United States.
 
+(5) Subsection (a) of this section shall not apply to eligibility for benefits for the program defined in section 1612(a)(3)(A) of this title (relating to the supplemental security income program), or to eligibility for benefits under any other program that is based on eligibility for benefits under the program so defined, for an alien who was receiving such benefits on August 22, 1996.
+
 #### (c) “Federal public benefit” defined
 
 (1) Except as provided in paragraph (2), for purposes of this chapter the term “Federal public benefit” means—
 
 &emsp;(A) any grant, contract, loan, professional license, or commercial license provided by an agency of the United States or by appropriated funds of the United States; and
 
-&emsp;(B) any retirement, welfare, health, disability, public or assisted housing, postsecondary education, food assistance, unemployment benefit, or any other similar benefit for which payments or assistance are provided to an individual, household, or family eligibility unit by an agency of the United States or by appropriated funds of the United States.
+&emsp;(B) any retirement, welfare, health, disability, public or assisted housing, postsecondary education, food assistance, unemployment benefit, or any other similar benefit for whichpayments or assistance are provided to an individual, household, or family eligibility unit by an agency of the United States or by appropriated funds of the United States.
 
 (2) Such term shall not apply—
 
-&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect; or
+&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
 
-&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State.
+&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
 
-(Pub. L. 104–193, title IV, §401, Aug. 22, 1996, 110 Stat. 2261; Pub. L. 105–33, title V, §§5561, 5565, Aug. 5, 1997, 111 Stat. 638, 639.)
+&emsp;(C) to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
+
+(Pub. L. 104–193, title IV, §401, Aug. 22, 1996, 110 Stat. 2261; Pub. L. 105–33, title V, §§5561, 5565, Aug. 5, 1997, 111 Stat. 638, 639; Pub. L. 105–306, §§2, 5(a), Oct. 28, 1998, 112 Stat. 2926, 2927.)
 
 #### References in Text
 
@@ -57,6 +61,10 @@ Section 141 of the applicable compact of free association approved in Public Law
 The Immigration and Nationality Act, referred to in subsec. (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(5). Pub. L. 105–306, §2, added par. (5).
+
+Subsec. (c)(2)(C). Pub. L. 105–306, §5(a), added subpar. (C).
 
 1997—Subsec. (b)(3). Pub. L. 105–33, §5561(a), added par. (3).
 

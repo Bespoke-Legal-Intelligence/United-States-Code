@@ -1,6 +1,6 @@
 ### §431. Benefits for certain members assigned to the Defense Intelligence Agency
 
-(a) The Secretary of Defense may provide to members of the armed forces described in subsection (e) allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (2), (3), (4), (6), (7), (8), and (13) of section 901 and sections 705 and 903 of the Foreign Service Act of 1980 (22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title 5.
+(a) The Secretary of Defense may provide to members of the armed forces described in subsection (e) allowances and benefits comparable to those provided by the Secretary of State toofficers and employees of the Foreign Service under paragraphs (2), (3), (4), (6), (7), (8), and (13) of section 901 and sections 705 and 903 of the Foreign Service Act of 1980 (22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title 5.
 
 (b) The authority of the Secretary of Defense to make payments under subsection (a) is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
@@ -35,6 +35,10 @@ Another section 431 was renumbered section 432 of this title.
 Subsecs. (d), (e). Pub. L. 104–93, §502(b)(2), (3), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “Regulations prescribed pursuant to subsection (a) shall be submitted to the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate before such regulations take effect.”
 
 1991—Subsecs. (b) to (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Delegation of Authority of Secretary of Defense
 

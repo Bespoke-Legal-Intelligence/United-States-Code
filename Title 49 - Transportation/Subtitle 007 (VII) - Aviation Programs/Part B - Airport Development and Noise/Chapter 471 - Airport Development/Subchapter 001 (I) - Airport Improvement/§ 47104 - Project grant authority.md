@@ -10,13 +10,13 @@ Incurring Obligations.—The Secretary may incur obligations to make grants from
 
 (c)
 
-Expiration of Authority.—After September 30, 1998, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
+Expiration of Authority.—After March 31, 1999, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
 &emsp;(1) remaining available after that date under section 47117(b) of this title; or
 
 &emsp;(2) recovered by the United States Government from grants made under this chapter if the amounts are obligated only for increases under section 47108(b)(2) and (3) of this title in the maximum amount of obligations of the Government for any other grant made under this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587.)
 
 Historical and Revision Notes
 
@@ -79,6 +79,8 @@ Sept. 3, 1982, Pub. L. 97–248, §505(b)(1) (last sentence), as amended May 26,
 In subsection (c), the text of section 109(b) of the Airport Improvement Program Temporary Extension Act of 1994 (Public Law 103–260, 108 Stat. 700) is omitted as executed.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–277 substituted “March 31, 1999” for “September 30, 1998” in introductory provisions.
 
 1996—Subsec. (c). Pub. L. 104–264 substituted “1998” for “1996” in introductory provisions.
 

@@ -138,25 +138,7 @@ Section 603(e) of Pub. L. 105–85 provided that: “This section \[amending thi
 
 #### Accounting for Civilian Employees and Contractors of United States
 
-Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, provided that:
-
-“(1) The Secretary of State shall carry out a comprehensive study of the provisions of subchapter VII of chapter 55 of title 5, United States Code (commonly referred to as the ‘Missing Persons Act of 1942’) (5 U.S.C. 5561 et seq.) and any other law or regulation establishing procedures for the accounting for of \[sic\] civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field. The purpose of the study shall be to determine the means, if any, by which those procedures may be improved.
-
-“(2) The Secretary of State shall carry out the study required under paragraph (1) in consultation with the Secretary of Defense, the Secretary of Transportation, the Director of Central Intelligence, and the heads of such other departments and agencies of the United States as the President designates for that purpose.
-
-“(3) In carrying out the study, the Secretary of State shall examine the procedures undertaken when a civilian employee referred to in paragraph (1) becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for, including procedures for—
-
-&emsp;“(A) search and rescue for the employee;
-
-&emsp;“(B) determining the status of the employee;
-
-&emsp;“(C) reviewing and changing the status of the employee;
-
-&emsp;“(D) determining the rights and benefits accorded to the family of the employee; and
-
-&emsp;“(E) maintaining and providing appropriate access to the records of the employee and the investigation into the status of the employee.
-
-“(4) Not later than one year after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary of State shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the study carried out by the Secretary under this subsection. The report shall include the recommendations, if any, of the Secretary for legislation to improve the procedures covered by the study.”
+Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, directed Secretary of State to carry out comprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
 
 #### Benefits for United States Hostages in Iraq and Kuwait and United States Hostages Captured in Lebanon
 
@@ -172,7 +154,7 @@ Ex. Ord. No. 12268, Jan. 15, 1981, 46 F.R. 4671, provided for the implementation
 
 #### Executive Order No. 12313
 
-Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens and resident aliens of the United States who had beenplaced in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
+Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens and resident aliens of the United States who had been placed in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
 
 #### Cross References
 

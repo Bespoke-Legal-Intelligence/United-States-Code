@@ -112,7 +112,7 @@
 
 (k)(1) Notwithstanding subsection (f)(1)(B), an individual who has filed an election under subsection (f) to receive an annuity may revoke such election at any time before the first day on which such annuity would (but for such revocation) begin to accrue with respect to such individual.
 
-(2) Any revocation under this subsection shall be made by filing a notice thereof in writing with the Director of <sup>1</sup> Administrative Office of the United States Courts.
+(2) Any revocation under this subsection shall be made by filing a notice thereof in writingwith the Director of <sup>1</sup> Administrative Office of the United States Courts.
 
 (3) In the case of any revocation under this subsection—
 
@@ -126,7 +126,7 @@
 
 &emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as the case may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
-&emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to suchFund but for the election under subsection (f), and
+&emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (f), and
 
 &emsp;(E) if subparagraph (D) is complied with, service on the Court of Federal Claims or as a commissioner of the United States Court of Claims shall be treated as service with respect to which deductions and contributions had been made during the period of service.
 
@@ -148,9 +148,9 @@ Section 7447 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
 
-<b>1991</b>—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
+1991—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
 
 Subsec. (f)(2)(D). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 

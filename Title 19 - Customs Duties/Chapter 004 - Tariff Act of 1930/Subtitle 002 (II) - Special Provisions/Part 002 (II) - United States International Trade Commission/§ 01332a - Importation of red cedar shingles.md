@@ -12,7 +12,7 @@ If the Commission finds, on the basis of an investigation under subdivision (a) 
 
 The quantity of red cedar shingles entitled to exemption from any duty imposed pursuant to this section shall be ascertained for each quota period by the Commission and reported to the Secretary of the Treasury.
 
-(July 1, 1940, ch. 499, 54 Stat. 708; Jan. 3, 1975, Pub. L. 93–618, title I, §171(b), 88 Stat. 2009.)
+(July 1, 1940, ch. 499, 54 Stat. 708; Pub. L. 93–618, title I, §171(b), Jan. 3, 1975, 88 Stat. 2009.)
 
 #### References in Text
 

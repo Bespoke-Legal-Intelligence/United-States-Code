@@ -30,5 +30,5 @@ The Secretary may accept and use donations to provide assistance under section 4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4263 of this title.
+This section is referred to in sections 4246, 4263 of this title.
 

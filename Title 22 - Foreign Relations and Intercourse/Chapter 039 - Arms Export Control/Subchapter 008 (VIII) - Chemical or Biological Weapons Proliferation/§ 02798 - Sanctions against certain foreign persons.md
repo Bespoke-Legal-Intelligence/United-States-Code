@@ -46,7 +46,7 @@
 
 #### (1) Consultations
 
-&emsp;If the President makes the determinations described in subsection (a)(1) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
+&emsp;If the President makes the determinations described in subsection (a)(1) of this section with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign personwith respect to the imposition of sanctions pursuant to this section.
 
 #### (2) Actions by government of jurisdiction
 
@@ -108,7 +108,7 @@ The sanctions imposed pursuant to this section shall apply for a period of at le
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), thePresident shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
 #### (f) “Foreign person” defined
 
@@ -122,7 +122,7 @@ For the purposes of this section, the term “foreign person” means—
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (a)(1)(C), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(1)(C), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat.503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
 
 #### Prior Provisions
 

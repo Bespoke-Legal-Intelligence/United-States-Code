@@ -4,7 +4,7 @@ Four citizens of the United States of prominence and distinction, appointed by t
 
 Any person chosen to fill a vacancy shall be appointed only for the unexpired term of the citizen whom he shall succeed.
 
-(June 25, 1948, ch. 645, 62 Stat. 856; Oct. 12, 1984, Pub. L. 98–473, title II, §223(n), 98 Stat. 2030.)
+(June 25, 1948, ch. 645, 62 Stat. 856; Pub. L. 98–473, title II, §223(n), Oct. 12, 1984, 98 Stat. 2030.)
 
 #### Historical and Revision Notes
 

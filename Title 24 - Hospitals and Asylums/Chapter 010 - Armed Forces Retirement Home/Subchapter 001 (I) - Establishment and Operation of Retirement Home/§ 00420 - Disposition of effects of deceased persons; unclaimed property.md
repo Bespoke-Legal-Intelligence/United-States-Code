@@ -24,7 +24,7 @@ The Director of each facility that is maintained as a separate establishment of 
 
 (B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Retirement Home Trust Fund.
 
-(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. The heirs or legatees of the deceased resident may file a claim made with the Secretary of Defense to reclaim such proceeds. A determination of the claim by the Secretary shall be subject to judicial review exclusively by the United States Court of Federal Claims.
+(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. The heirs orlegatees of the deceased resident may file a claim made with the Secretary of Defense to reclaim such proceeds. A determination of the claim by the Secretary shall be subject to judicial review exclusively by the United States Court of Federal Claims.
 
 (2)(A) The Director of a facility maintained as a separate establishment of the Retirement Home may designate an attorney to serve as attorney or agent for the facility in any probate proceeding in which the Retirement Home may have a legal interest as nominated fiduciary, testamentary legatee, escheat legatee, or in any other capacity.
 
@@ -56,7 +56,7 @@ The net proceeds received by the Directors from the sale of effects under subsec
 
 In the case of property delivered to the Retirement Home under section 2575 of title 10, the Directors shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Directors within two years after the delivery.
 
-(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, titleIII, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843.)
+(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843.)
 
 #### Amendments
 

@@ -86,7 +86,7 @@ For purposes of this section, the term “national capital area” means the met
 
 Of the amounts appropriated for each of the fiscal years 1993 and 1994 for the programs of the Department of Health and Human Services, the Secretary shall make available $10,000,000 for carrying out this section. Of the amounts appropriated for fiscal year 1995 for the programs of such Department, the Secretary shall make available $5,000,000 for carrying out this section.
 
-(July 1, 1944, ch. 373, title V, §571, as added July 10, 1992, Pub. L. 102–321, title III, §301, 106 Stat. 417.)
+(July 1, 1944, ch. 373, title V, §571, as added Pub. L. 102–321, title III, §301, July 10, 1992, 106 Stat. 417.)
 
 #### Effective Date
 

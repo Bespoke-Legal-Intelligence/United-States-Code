@@ -6,7 +6,7 @@ The management of a Federal credit union shall be by a board of directors, a sup
 
 #### (b) Membership on supervisory committee; names and addresses of officers and committee members
 
-The supervisory committee shall be appointed by the board of directors and shall consist of not less than three members nor more than five members, one of whom may be a director other than the compensated officer of the board. A record of the names and addresses of the executive officers, members of the supervisory committee, credit committee, and loan officers, shall be filed with the Administration within ten days after their election or appointment.
+The supervisory committee shall be appointed by the board of directors and shall consist of not less than three members nor more than fivemembers, one of whom may be a director other than the compensated officer of the board. A record of the names and addresses of the executive officers, members of the supervisory committee, credit committee, and loan officers, shall be filed with the Administration within ten days after their election or appointment.
 
 #### (c) Compensation
 
@@ -26,7 +26,7 @@ No member of the board or of any other committee shall, as such, be compensated,
 
 1964—Pub. L. 88–353 increased size of supervisory committee from three members to not less than three members nor more than five members.
 
-1959—Pub. L. 86–354 provided for appointment instead of election of members of supervisory committee andfor filling of vacancies in such committee, and struck out former subsecs. (b) to (e) relating to officers, directors, credit committee and supervisory committee. See sections 1761a to 1761d of this title, respectively.
+1959—Pub. L. 86–354 provided for appointment instead of election of members of supervisory committee and for filling of vacancies in such committee, and struck out former subsecs. (b) to (e) relating to officers, directors, credit committee and supervisory committee. See sections 1761a to 1761d of this title, respectively.
 
 1954—Subsecs. (b), (c). Act Aug. 24, 1954, provided express authority for the Director of the Bureau of Federal Credit Unions to regulate the minimum amount and character of surety bonds for officers and employees.
 

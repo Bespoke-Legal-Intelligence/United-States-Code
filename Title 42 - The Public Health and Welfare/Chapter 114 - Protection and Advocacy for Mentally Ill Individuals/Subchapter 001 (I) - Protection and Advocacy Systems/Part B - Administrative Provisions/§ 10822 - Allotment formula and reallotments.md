@@ -38,7 +38,7 @@
 
 > bears to the total amount appropriated under section 10827 of this title for such preceding fiscal year.
 
-(b)(1) To the extent that all the amounts appropriated under section 10827 of this title for a fiscal year are not allotted to eligible systems because—
+(b)(1) To the extent that all the amounts appropriated under section 10827 of this title for afiscal year are not allotted to eligible systems because—
 
 &emsp;(A) one or more eligible systems have not submitted an application for an allotment for such fiscal year; or
 
@@ -48,7 +48,7 @@
 
 (2) The amount of an allotment to an eligible system for a fiscal year which the Secretary determines will not be required by the system during the period for which it is available shall be available for reallotment by the Secretary to other eligible systems with respect to which such a determination has not been made.
 
-(3) The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made in proportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able touse during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) of this section for such fiscal year.
+(3) The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made in proportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able to use during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) of this section for such fiscal year.
 
 (Pub. L. 99–319, title I, §112, May 23, 1986, 100 Stat. 483; Pub. L. 100–509, §7(e), Oct. 20, 1988, 102 Stat. 2545.)
 

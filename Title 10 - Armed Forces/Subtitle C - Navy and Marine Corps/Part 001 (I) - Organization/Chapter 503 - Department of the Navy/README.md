@@ -18,10 +18,13 @@
 | [5023\.](%C2%A7%2005023%20-%20Office%20of%20Naval%20Research%20appropriations%3B%20time%20limit.md) | Office of Naval Research: appropriations; time limit. |
 | [5024\.](%C2%A7%2005024%20-%20Naval%20Research%20Advisory%20Committee.md) | Naval Research Advisory Committee. |
 | [5025\.](%C2%A7%2005025%20-%20Financial%20management.md) | Financial management. |
+| [5026\.](%C2%A7%2005026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md) | Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title IX, §935(b), Oct. 17, 1998, 112 Stat. 2110, added item 5026.
 
 1990—Pub. L. 101–510, div. A, title IX, §910(b)(2), Nov. 5, 1990, 104 Stat. 1625, struck out item 5021 “Office of Naval Research: Chief; appointment, term, emoluments; Assistant Chief; succession to duties”.
 
@@ -54,3 +57,4 @@
 - [&sect; 05023 - Office of Naval Research appropriations; time limit](%C2%A7%2005023%20-%20Office%20of%20Naval%20Research%20appropriations%3B%20time%20limit.md)
 - [&sect; 05024 - Naval Research Advisory Committee](%C2%A7%2005024%20-%20Naval%20Research%20Advisory%20Committee.md)
 - [&sect; 05025 - Financial management](%C2%A7%2005025%20-%20Financial%20management.md)
+- [&sect; 05026 - Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation](%C2%A7%2005026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md)

@@ -66,9 +66,11 @@ Amendment by act Jan. 19, 1949, effective noon, Jan. 20, 1949, see section 3 of 
 
 #### Salary Increases
 
-1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1998.
+1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1999.
 
-1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for the adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5.
+1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for the adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5.
+
+1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for the adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
 
 1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for the adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of Title 5.
 
@@ -122,9 +124,9 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated 
 
 Pub. L. 95–66, §1(1), July 11, 1977, 91 Stat. 270, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that the first adjustment which, but for the enactment of Pub. L. 95–66, would have been made in the annual rate of pay for the Vice President under the second sentence of this section after July 11, 1977, would not take effect.
 
-1976—Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, which provided for the adjustment of pay rates effective Oct. 1, 1976, was superseded by Ex. Ord. No. 12010, Sept. 28, 1977, 42 F.R. 52365, formerly set out as a note under section 5332 of Title 5.
+1976—Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, which provided for the adjustment of pay rates effective Oct. 1, 1976, was superseded by Ex. Ord. No.12010, Sept. 28, 1977, 42 F.R. 52365, formerly set out as a note under section 5332 of Title 5.
 
-1975—Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, which provided for the adjustment of pay rates effective Oct. 1, 1975, was superseded by Ex. Ord. No. 11941,Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, formerly set out as a note under section 5332 of Title 5.
+1975—Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, which provided for the adjustment of pay rates effective Oct. 1, 1975, was superseded by Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, formerly set out as a note under section 5332 of Title 5.
 
 #### Long-Distance Telephone Calls
 
@@ -133,4 +135,8 @@ Section 58 of Title 2, The Congress, relating to long-distance telephone calls f
 #### Cross References
 
 Claims for overpayment of pay or allowances to the Vice President, see section 130c of Title 2, The Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 sections 9502, 9503, 9505.
 

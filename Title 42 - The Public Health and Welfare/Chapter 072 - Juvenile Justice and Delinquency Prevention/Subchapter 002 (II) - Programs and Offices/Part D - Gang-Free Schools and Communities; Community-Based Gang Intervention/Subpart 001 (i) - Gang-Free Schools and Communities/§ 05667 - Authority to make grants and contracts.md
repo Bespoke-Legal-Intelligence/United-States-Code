@@ -46,7 +46,7 @@
 
 #### Prior Provisions
 
-A prior section 5667, Pub. L. 93–415, title II, §281, as added Pub. L. 100–690, title VII, §7267, Nov. 18, 1988, 102 Stat. 4451, authorized Administrator to make grantsand contracts for prevention and treatment programs relating to juvenile gangs, drug abuse, and drug trafficking, prior to the general amendment of this part by Pub. L. 102–586.
+A prior section 5667, Pub. L. 93–415, title II, §281, as added Pub. L. 100–690, title VII, §7267, Nov. 18, 1988, 102 Stat. 4451, authorized Administrator to make grants and contracts for prevention and treatment programs relating to juvenile gangs, drug abuse, and drug trafficking, prior to the general amendment of this part by Pub. L. 102–586.
 
 #### Section Referred to in Other Sections
 

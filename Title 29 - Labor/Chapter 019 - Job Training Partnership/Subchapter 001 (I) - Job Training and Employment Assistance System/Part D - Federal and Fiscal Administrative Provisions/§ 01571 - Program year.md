@@ -12,6 +12,10 @@ Beginning with fiscal year 1985 and thereafter, appropriations for any fiscal ye
 
 (Pub. L. 97–300, title I, §161, Oct. 13, 1982, 96 Stat. 1347; Pub. L. 100–495, §1, Oct. 17, 1988, 102 Stat. 2454; Pub. L. 102–367, title VII, §702(a)(7), (8), Sept. 7, 1992, 106 Stat. 1112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Subsec. (b)(2). Pub. L. 102–367, §702(a)(7), substituted “section 1732” for “sections 1732 through 1735”.

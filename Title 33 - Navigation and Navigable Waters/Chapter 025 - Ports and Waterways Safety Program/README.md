@@ -28,6 +28,7 @@
 | (a) | Transmittal of regulations. |
 | (b) | Agreements. |
 | (c) | Operations. |
+| (d) | Ship reporting systems. |
 | [1231\.](%C2%A7%2001231%20-%20Regulations.md) | Regulations. |
 | (a) | In general. |
 | (b) | Procedures. |

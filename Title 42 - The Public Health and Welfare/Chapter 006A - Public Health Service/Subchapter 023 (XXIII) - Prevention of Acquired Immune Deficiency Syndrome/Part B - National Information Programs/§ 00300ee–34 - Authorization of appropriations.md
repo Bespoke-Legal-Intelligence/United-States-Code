@@ -10,7 +10,7 @@ For the purpose of carrying out sections 300ee–31 through 300ee–33 of this t
 
 (2) After consultation with the Director of the Office of Minority Health and with the Indian Health Service, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, not later than 90 days after November 4, 1988, publish guidelines to provide procedures for applications for funding pursuant to paragraph (1) and for public comment.
 
-(July 1, 1944, ch. 373, title XXV, formerly title XV, §2524, as added Nov. 4, 1988, Pub. L. 100–607, title II, §221, 102 Stat. 3103; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2619(i) \[(j)\], 102 Stat. 4244; renumbered title XXV, Aug. 16, 1989, Pub. L. 101–93, §5(e)(1), 103 Stat. 612; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(24), 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXV, formerly title XV, §2524, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3103; amended Pub. L. 100–690, title II, §2619(i) \[(j)\], Nov. 18, 1988, 102 Stat. 4244; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612; Pub. L. 102–531, title III, §312(d)(24), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Amendments
 

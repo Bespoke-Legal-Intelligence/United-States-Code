@@ -22,17 +22,11 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 (2) The provisions of section 8336(j) of title 5 shall not apply to any individual who has accepted a waiver with respect to a personnel action pursuant to paragraph (1) of this subsection or to section 2011(f) <sup>1</sup> of this title.
 
-#### (d) Annual report respecting Indians qualifying for preference positions
+#### (d) Placement of non-Indian employees in other Federal positions; assistance of Office of Personnel Management; cooperation of other Federal agencies
 
-The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.
+The Office of Personnel Management shall provide all appropriate assistance to the Bureau of Indian Affairs and the Indian Health Service in placing non-Indian employees of such agencies in other Federal positions. All other Federal agencies shall cooperate to the fullest extent possible in such placement efforts.
 
-#### (e) Placement of non-Indian employees in other Federal positions; assistance of Office of Personnel Management; cooperation of other Federal agencies; reporting requirements
-
-(1) The Office of Personnel Management shall provide all appropriate assistance to the Bureau of Indian Affairs and the Indian Health Service in placing non-Indian employees of such agencies in other Federal positions. All other Federal agencies shall cooperate to the fullest extent possible in such placement efforts.
-
-(2) The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions.
-
-#### (f) Definitions
+#### (e) Definitions
 
 For purposes of this section—
 
@@ -46,7 +40,7 @@ For purposes of this section—
 
 &emsp;(3) The term “Bureau of Indian Affairs” means (A) the Bureau of Indian Affairs and (B) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
 
-(Pub. L. 96–135, §2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, §205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454.)
+(Pub. L. 96–135, §2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, §205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, §801(e), title XIII, §1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
 
 #### References in Text
 
@@ -54,13 +48,23 @@ Section 2011(f) of this title, referred to in subsec. (c)(2), was in the origina
 
 #### Amendments
 
+1998—Subsec. (d). Pub. L. 105–362, §801(e)(3), struck out par. (1) designation and struck out par. (2) which read as follows: “The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions.”
+
+Pub. L. 105–362, §801(e)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.”
+
+Subsec. (e). Pub. L. 105–362, §1302(d), which directed the amendment of subsec. (e) by striking out par. (1) designation after “(e)” and striking out par. (2), could not be executed because par. (1) designation did not immediately follow “(e)” subsequent to amendment by Pub. L. 105–362, §801(e)(2). See above.
+
+Pub. L. 105–362, §801(e)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 105–362, §801(e)(2), redesignated subsec. (f) as (e).
+
 1990—Subsec. (b)(2). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary” before “or Assistant Secretary”.
 
 1988—Subsec. (c)(1). Pub. L. 100–581 substituted “an applicant or employee” for “an employee”.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b)(2) and “Health and Human Services” substituted for “Health, Education, and Welfare” in subsecs. (d) and (e)(2), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b)(2) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1990 Amendment
 

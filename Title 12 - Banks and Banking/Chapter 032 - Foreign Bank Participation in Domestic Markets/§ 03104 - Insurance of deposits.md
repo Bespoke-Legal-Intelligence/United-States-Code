@@ -48,7 +48,7 @@ Subsec. (d)(3). Pub. L. 103–328, §107(d), added par. (3).
 
 1992—Subsec. (c). Pub. L. 102–550, §1604(a)(10), struck out the subsec. (c) which was in effect before the subsec. (c) added by Pub. L. 102–242, §214(a)(3), and which amended various other sections of this title.
 
-Subsec. (c)(1). Pub. L. 102–558, §302(a)(1), inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. Pub. L. 102–550, §1604(a)(11)(A), which made an identical amendment,was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Subsec. (c)(1). Pub. L. 102–558, §302(a)(1), inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. Pub. L. 102–550, §1604(a)(11)(A), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Subsec. (c)(2). Pub. L. 102–558, §302(a)(2), substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. Pub. L. 102–550, §1604(a)(11)(B), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
@@ -106,7 +106,7 @@ Reduction in regulatory de minimis exemption.—In carrying out paragraph (1), e
 
 “(4)
 
-Additional relevant considerations.—In carrying out paragraph (1), each Federal banking agency shall also consider the importance of maintaining and improving the availability of credit to all sectors of the United States economy, including the international trade finance sector of the United State economy.
+Additional relevant considerations.—In carrying out paragraph (1), each Federal banking agencyshall also consider the importance of maintaining and improving the availability of credit to all sectors of the United States economy, including the international trade finance sector of the United State economy.
 
 “(5)
 

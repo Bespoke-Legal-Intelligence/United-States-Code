@@ -128,7 +128,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (F) Initial payment
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the initial payment made to each payee under subparagraph (A) shall be in such amountdetermined by the Corporation to be equal to the sum of—
+&emsp;&emsp;Notwithstanding subparagraph (A), the initial payment made to each payee under subparagraph (A) shall be in such amount determined by the Corporation to be equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) the total of the amounts that would have been paid if payments under subparagraph (A) had been authorized to begin, under the same terms and conditions, in the first calendar year beginning more than 5 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, and to continue through the 2 immediately subsequent years;
 

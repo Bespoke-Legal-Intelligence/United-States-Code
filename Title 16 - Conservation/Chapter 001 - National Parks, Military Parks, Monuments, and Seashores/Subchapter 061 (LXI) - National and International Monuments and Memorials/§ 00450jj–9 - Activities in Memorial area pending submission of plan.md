@@ -8,7 +8,7 @@ Pending submission of the Commission's plan, any Federal entity conducting or su
 
 &emsp;(3) to the maximum extent practicable, conduct or support such activities in a manner which the Secretary determines will not have an adverse effect on the Memorial.
 
-(May 17, 1954, ch. 204, §10, as added Aug. 24, 1984, Pub. L. 98–398, title II, §201(a), 98 Stat. 1471.)
+(May 17, 1954, ch. 204, §10, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1471.)
 
 #### Section Referred to in Other Sections
 

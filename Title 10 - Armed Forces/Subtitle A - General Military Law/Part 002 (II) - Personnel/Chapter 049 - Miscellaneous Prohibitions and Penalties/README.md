@@ -5,8 +5,7 @@
 | [971\.](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md) | Service credit: officers may not count service performed while serving as cadet or midshipman. |
 | [972\.](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md) | Members: effect of time lost. |
 | [973\.](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md) | Duties: officers on active duty; performance of civil functions restricted. |
-| [974\.](%C2%A7%2000974%20-%20Civilian%20employment%20enlisted%20members.md) | Civilian employment: enlisted members. |
-| \[975. | Renumbered.\] |
+| \[974, 975. | Repealed or Renumbered.\] |
 | [976\.](%C2%A7%2000976%20-%20Membership%20in%20military%20unions%2C%20organizing%20of%20military%20unions%2C%20and%20recognition%20of%20military%20unions%20prohibited.md) | Membership in military unions, organizing of military unions, and recognition of military unions prohibited. |
 | [977\.](%C2%A7%2000977%20-%20Operation%20of%20commissary%20stores%20assignment%20of%20active%20duty%20members%20generally%20prohibited.md) | Operation of commissary stores: assignment of active duty members generally prohibited. |
 | [978\.](%C2%A7%2000978%20-%20Drug%20and%20alcohol%20abuse%20and%20dependency%20testing%20of%20new%20entrants.md) | Drug and alcohol abuse and dependency: testing of new entrants. |
@@ -20,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title V, §569(b), Oct. 17, 1998, 112 Stat. 2032, struck out item 974 “Civilian employment: enlisted members”.
 
 1997—Pub. L. 105–85, div. A, title X, §1077(a)(2), Nov. 18, 1997, 111 Stat. 1915, added item 985.
 
@@ -65,7 +66,7 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00971 - Service credit officers may not count service performed while serving as cadet or midshipman](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md)
 - [&sect; 00972 - Members effect of time lost](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md)
 - [&sect; 00973 - Duties officers on active duty; performance of civil functions restricted](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md)
-- [&sect; 00974 - Civilian employment enlisted members](%C2%A7%2000974%20-%20Civilian%20employment%20enlisted%20members.md)
+- [&sect; 00974 - Repealed. Pub. L. 105&#8211;261, div. A, title V, &sect;569(a), Oct. 17, 1998, 112 Stat. 2032](%C2%A7%2000974%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7569%28a%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202032.md)
 - [&sect; 00975 - Renumbered &sect;2390](%C2%A7%2000975%20-%20Renumbered%20%C2%A72390.md)
 - [&sect; 00976 - Membership in military unions, organizing of military unions, and recognition of military unions prohibited](%C2%A7%2000976%20-%20Membership%20in%20military%20unions%2C%20organizing%20of%20military%20unions%2C%20and%20recognition%20of%20military%20unions%20prohibited.md)
 - [&sect; 00977 - Operation of commissary stores assignment of active duty members generally prohibited](%C2%A7%2000977%20-%20Operation%20of%20commissary%20stores%20assignment%20of%20active%20duty%20members%20generally%20prohibited.md)

@@ -84,7 +84,7 @@ The Chief Executive Officer shall—
 
 #### References in Text
 
-Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c)(2)(D), is section 4403 of Pub. L. 102–484 which is set out as a note under section 1293 of Title 10, Armed Forces.
+Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c)(2)(D),is section 4403 of Pub. L. 102–484 which is set out as a note under section 1293 of Title 10, Armed Forces.
 
 Section 4464 of that Act, referred to in subsec. (c)(2)(D), is section 4464 of Pub. L. 102–484 which is set out as a note under section 1143a of Title 10.
 

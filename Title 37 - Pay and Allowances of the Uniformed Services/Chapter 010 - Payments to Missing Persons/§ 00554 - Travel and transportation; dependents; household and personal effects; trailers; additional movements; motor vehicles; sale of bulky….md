@@ -34,9 +34,11 @@
 
 (g) The Secretary concerned may, when he determines that there is an emergency and a sale would be in the best interests of the United States, provide for the public or private sale of motor vehicles and other bulky items of household and personal effects of a member described in subsection (b). Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of the interested persons. The net proceeds received from the sale shall, under regulations prescribed by the Secretary concerned, be sent to the owner or other persons. If there are no such persons, or if they or their addresses are not known within one year from the date of sale, the net proceeds may be covered into the Treasury as miscellaneous receipts.
 
-(h) Claims for net proceeds that are covered into the Treasury under subsection (g) may be filed with the Secretary of Defense by the rightful owners, their heirs or next of kin, or their legal representatives at any time before the endof a 5-year period from the date the proceeds are covered into the Treasury. When a claim is filed, the Secretary of Defense shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of the 5-year period from the date the proceeds are covered into the Treasury, it is barred from being acted on by the courts or the Secretary of Defense.
+(h) Claims for net proceeds that are covered into the Treasury under subsection (g) may be filed with the Secretary of Defense by the rightful owners, their heirs or next of kin, or their legal representatives at any time before the end of a 5-year period from the date the proceeds are covered into the Treasury. When a claim is filed, the Secretary of Defense shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of the 5-year period from the date the proceeds are covered into the Treasury, it is barred from being acted on by the courts or the Secretary of Defense.
 
-(i) This section does not amend or repeal—
+(i) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the dependent for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
+
+(j) This section does not amend or repeal—
 
 &emsp;(1) section 2575, 2733, 4712, 6522, or 9712 of title 10;
 
@@ -44,7 +46,7 @@
 
 &emsp;(3) chapter 171 of title 28.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 627; amended Pub. L. 90–83, §5(2), Sept. 11, 1967, 81 Stat. 221; Pub. L. 90–236, Jan. 2, 1968, 81 Stat. 764; Pub. L. 90–623, §3(7), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 92–477, §1, Oct. 9, 1972, 86 Stat. 793; Pub. L. 93–548, §3, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(s), Oct. 19, 1996, 110 Stat. 3845.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 627; amended Pub. L. 90–83, §5(2), Sept. 11, 1967, 81 Stat. 221; Pub. L. 90–236, Jan. 2, 1968, 81 Stat. 764; Pub. L. 90–623, §3(7), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 92–477, §1, Oct. 9, 1972, 86 Stat. 793; Pub. L. 93–548, §3, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(s), Oct. 19, 1996, 110 Stat. 3845; Pub. L. 105–261, div. A, title VI, §653(d), Oct. 17, 1998, 112 Stat. 2052.)
 
 Historical and Revision Notes
 
@@ -102,7 +104,7 @@ Mar. 7, 1942, ch. 166, §14 (as applicable to §12 (1st sentence)), 56 Stat. 147
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
-In subsection (a), the words “Beginning June 25, 1950, and” are omitted as executed. The words “In this section” are substituted for “for the purposes of this section only, the terms”. The words “not to exceed” are omitted as unnecessary. The words “outside the United States, or in Alaska or Hawaii” are substituted for “outside the continental limits of the United States or in Alaska” to conform to the definition in 37 U.S.C. 101(1).
+In subsection (a), the words “Beginning June 25, 1950, and” are omitted as executed. The words “In this section” are substituted for “for the purposes of this section only, the terms”. The words “not to exceed” are omitted as unnecessary. The words “outside the United States, or in Alaska or Hawaii” are substituted for“outside the continental limits of the United States or in Alaska” to conform to the definition in 37 U.S.C. 101(1).
 
 In subsection (b), the words “Transportation . . . may be provided” are substituted for “may be moved”. The words “a member of a uniformed service on active duty . . . or absent for a period of more than 29 days in a missing status” are substituted for “any person in active service . . . absent for a period of thirty days or more in any status listed in section 2 of this Act”, for clarity and to conform to the definitions in 37 U.S.C. 101(20) and (23) and revised section 551(2) of this chapter. In clause (1), the words “the member's” are substituted for “for any such person”. In clause (2), the words “under . . . prescribed . . . Secretary concerned” are substituted for “in accordance with . . . issued . . . head of the department concerned”. In clause (3), the words “on request of the member” are substituted for “upon the person's application”. The words “other person described in clause (2)” are substituted for “such . . . other person”. The words “Secretary concerned, or his designee” are substituted for “head of the department concerned or by such person as he may designate”.
 
@@ -121,6 +123,8 @@ In subsection (h), the words “under subsection (g) of this section” are subs
 In subsection (i), the words “the provisions of” are omitted as unnecessary. Clause (3) is substituted for “the Federal Tort Claims Act (60 Stat. 842–847), as amended,” to reflect the correct citation of that Act.
 
 #### Amendments
+
+1998—Subsecs. (i), (j). Pub. L. 105–261 added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1996—Subsec. (h). Pub. L. 104–316 substituted “Secretary of Defense” for “General Accounting Office” wherever appearing.
 
@@ -147,6 +151,10 @@ Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and tr
 Pub. L. 90–236 inserted provision authorizing nontemporary storage of household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status.
 
 1967—Subsec. (a). Pub. L. 90–83 struck out “when it is located outside the United States, or in Alaska or Hawaii” after “shipped at United States expense”.
+
+#### Effective Date of 1998 Amendment
+
+For provisions relating to the applicability of amendment by Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under section 2634 of Title 10, Armed Forces.
 
 #### Effective Date of 1974 Amendment
 

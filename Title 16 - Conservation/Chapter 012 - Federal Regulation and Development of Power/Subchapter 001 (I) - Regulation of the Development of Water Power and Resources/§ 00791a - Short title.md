@@ -2,7 +2,7 @@
 
 This chapter may be cited as the “Federal Power Act”.
 
-(June 10, 1920, ch. 285, pt. III, §321, formerly §320, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 863; renumbered Nov. 9, 1978, Pub. L. 95–617, title II, §212, 92 Stat. 3148.)
+(June 10, 1920, ch. 285, pt. III, §321, formerly §320, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 863; renumbered Pub. L. 95–617, title II, §212, Nov. 9, 1978, 92 Stat. 3148.)
 
 #### Codification
 

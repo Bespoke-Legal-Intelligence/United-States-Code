@@ -10,7 +10,7 @@
 
 (b) Subsection (a) of this section applies to the export or transfer of more than 2 kilograms of plutonium or more than 5 kilograms of uranium enriched to more than 20 percent in the isotope 233 or the isotope 235.
 
-(Aug. 1, 1946, ch. 724, title I, §133, as added Aug. 27, 1986, Pub. L. 99–399, title VI, §603, 100 Stat. 875; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944; amended Apr. 30, 1994, Pub. L. 103–236, title VIII, §829, 108 Stat. 521.)
+(Aug. 1, 1946, ch. 724, title I, §133, as added Pub. L. 99–399, title VI, §603, Aug. 27, 1986, 100 Stat. 875; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–236, title VIII, §829, Apr. 30, 1994, 108 Stat. 521.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@
 
 #### (3) Effect of court order
 
-&emsp;The actions authorized by this subsection are intended to ensure the timely publication and implementation of new and amended Federal milk marketing orders. In the event that the Secretary is enjoined or otherwise restrained by a court order from publishing or implementing the consolidation and related reforms under subsection (a) of this section, the length of time for which that injunction or other restraining order is effective shall be added to the time limitations specified in paragraph (2) thereby extending those time limitations by a period of time equal to the period of time for which the injunction or other restraining order is effective.
+&emsp;The actions authorized by this subsection are intended to ensure the timely publication and implementation of new and amended Federal milk marketing orders. In the event that the Secretary is enjoined or otherwise restrained by a court order from publishing or implementing the consolidation and related reforms under subsection (a) of this section,the length of time for which that injunction or other restraining order is effective shall be added to the time limitations specified in paragraph (2) thereby extending those time limitations by a period of time equal to the period of time for which the injunction or other restraining order is effective.
 
 #### (c) Failure to timely consolidate orders
 

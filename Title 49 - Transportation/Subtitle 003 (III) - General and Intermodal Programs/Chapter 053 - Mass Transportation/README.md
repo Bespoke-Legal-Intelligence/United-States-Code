@@ -8,17 +8,21 @@
 | [5304\.](%C2%A7%2005304%20-%20Transportation%20improvement%20program.md) | Transportation improvement program. |
 | [5305\.](%C2%A7%2005305%20-%20Transportation%20management%20areas.md) | Transportation management areas. |
 | [5306\.](%C2%A7%2005306%20-%20Private%20enterprise%20participation%20in%20metropolitan%20planning%20and%20transportation%20improvement%20programs%20and%20relationship%20to%20other%20limitations.md) | Private enterprise participation in metropolitan planning and transportation improvement programs and relationship to other limitations. |
-| [5307\.](%C2%A7%2005307%20-%20Block%20grants.md) | Block grants. |
-| [5308\.](%C2%A7%2005308%20-%20Mass%20Transit%20Account%20block%20grants.md) | Mass Transit Account block grants. |
-| [5309\.](%C2%A7%2005309%20-%20Discretionary%20grants%20and%20loans.md) | Discretionary grants and loans. |
-| [5310\.](%C2%A7%2005310%20-%20Grants%20and%20loans%20for%20special%20needs%20of%20elderly%20individuals%20and%20individuals%20with%20disabilities.md) | Grants and loans for special needs of elderly individuals and individuals with disabilities. |
-| [5311\.](%C2%A7%2005311%20-%20Financial%20assistance%20for%20other%20than%20urbanized%20areas.md) | Financial assistance for other than urbanized areas. |
+| [5307\.](%C2%A7%2005307%20-%20Urbanized%20area%20formula%20grants.md) | Urbanized area formula grants. |
+| [5308\.](%C2%A7%2005308%20-%20Clean%20fuels%20formula%20grant%20program.md) | Clean fuels formula grant program. |
+| [5309\.](%C2%A7%2005309%20-%20Capital%20investment%20grants%20and%20loans.md) | Capital investment grants and loans. |
+| [5310\.](%C2%A7%2005310%20-%20Formula%20grants%20and%20loans%20for%20special%20needs%20of%20elderly%20individuals%20and%20individuals%20with%20disabilities.md) | Formula grants and loans for special needs of elderly individuals and individuals with disabilities. |
+| [5311\.](%C2%A7%2005311%20-%20Formula%20grants%20for%20other%20than%20urbanized%20areas.md) | Formula grant for other than urbanized areas.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [5312\.](%C2%A7%2005312%20-%20Research%2C%20development%2C%20demonstration%2C%20and%20training%20projects.md) | Research, development, demonstration, and training projects. |
 | [5313\.](%C2%A7%2005313%20-%20State%20planning%20and%20research%20programs.md) | State planning and research programs. |
 | [5314\.](%C2%A7%2005314%20-%20National%20planning%20and%20research%20programs.md) | National planning and research programs. |
-| [5315\.](%C2%A7%2005315%20-%20National%20mass%20transportation%20institute.md) | National mass transportation institute. |
-| [5316\.](%C2%A7%2005316%20-%20University%20research%20institutes.md) | University research institutes. |
-| [5317\.](%C2%A7%2005317%20-%20Transportation%20centers.md) | Transportation centers. |
+| [5315\.](%C2%A7%2005315%20-%20National%20transit%20institute.md) | National transit institute. |
+| \[5316, 5317. Repealed.\] |  |
 | [5318\.](%C2%A7%2005318%20-%20Bus%20testing%20facility.md) | Bus testing facility. |
 | [5319\.](%C2%A7%2005319%20-%20Bicycle%20facilities.md) | Bicycle facilities. |
 | [5320\.](%C2%A7%2005320%20-%20Suspended%20light%20rail%20system%20technology%20pilot%20project.md) | Suspended light rail system technology pilot project. |
@@ -35,17 +39,27 @@
 | [5331\.](%C2%A7%2005331%20-%20Alcohol%20and%20controlled%20substances%20testing.md) | Alcohol and controlled substances testing. |
 | [5332\.](%C2%A7%2005332%20-%20Nondiscrimination.md) | Nondiscrimination. |
 | [5333\.](%C2%A7%2005333%20-%20Labor%20standards.md) | Labor standards. |
-| [5334\.](%C2%A7%2005334%20-%20Administrative.md) | Administrative. |
+| [5334\.](%C2%A7%2005334%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [5335\.](%C2%A7%2005335%20-%20Reports%20and%20audits.md) | Reports and audits. |
-| [5336\.](%C2%A7%2005336%20-%20Apportionment%20of%20appropriations%20for%20block%20grants.md) | Apportionment of appropriations for block grants. |
+| [5336\.](%C2%A7%2005336%20-%20Apportionment%20of%20appropriations%20for%20formula%20grants.md) | Apportionment of appropriations for formula grants. |
 | [5337\.](%C2%A7%2005337%20-%20Apportionment%20of%20appropriations%20for%20fixed%20guideway%20modernization.md) | Apportionment of appropriations for fixed guideway modernization. |
 | [5338\.](%C2%A7%2005338%20-%20Authorizations.md) | Authorizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1998—Pub. L. 105–178, title III, §§3007(a)(2), 3008(b), 3009(b), 3014(b), 3017(b), 3025(b)(2), title V, §5110(c), June 9, 1998, 112 Stat. 347, 352, 359, 361, 365, 444, substituted “Urbanized area formula grants” for “Block grants” in item 5307, “Clean fuels formula grant program” for “Mass Transit Account block grants” in item 5308, “Capital investment” for “Discretionary” in item 5309, “Formula grant” for “Financial assistance” in item 5311, and “transit” for “mass transportation” in item 5315, struck out items 5316 “University research institutes” and 5317 “Transportation centers”, and inserted “provisions” after “Administrative” in item 5334.
+
+Pub. L. 105–178, title III, §3013(b), June 9, 1998, 112 Stat. 359, which directed insertion of “formula” before “grants” in item 5310, was executed by substituting “Formula grants” for “Grants” to reflect the probable intent of Congress.
+
+Pub. L. 105–178, title III, §3027(d), as added by Pub. L. 105–206, title IX, §9009(<i>o</i>)(2), July 22, 1998, 112 Stat. 858, substituted “formula grants” for “block grants” in item 5336.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 23 sections 103, 133, 134, 135, 142; title 40 section 819; title 42 section 7506.
+This chapter is referred to in title 23 sections 103, 104, 120, 133, 134, 142, 181, 182, 183; title 40 section 819; title 42 section 7506.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -58,17 +72,16 @@ This chapter is referred to in title 23 sections 103, 133, 134, 135, 142; title 
 - [&sect; 05304 - Transportation improvement program](%C2%A7%2005304%20-%20Transportation%20improvement%20program.md)
 - [&sect; 05305 - Transportation management areas](%C2%A7%2005305%20-%20Transportation%20management%20areas.md)
 - [&sect; 05306 - Private enterprise participation in metropolitan planning and transportation improvement programs and relationship to other limitations](%C2%A7%2005306%20-%20Private%20enterprise%20participation%20in%20metropolitan%20planning%20and%20transportation%20improvement%20programs%20and%20relationship%20to%20other%20limitations.md)
-- [&sect; 05307 - Block grants](%C2%A7%2005307%20-%20Block%20grants.md)
-- [&sect; 05308 - Mass Transit Account block grants](%C2%A7%2005308%20-%20Mass%20Transit%20Account%20block%20grants.md)
-- [&sect; 05309 - Discretionary grants and loans](%C2%A7%2005309%20-%20Discretionary%20grants%20and%20loans.md)
-- [&sect; 05310 - Grants and loans for special needs of elderly individuals and individuals with disabilities](%C2%A7%2005310%20-%20Grants%20and%20loans%20for%20special%20needs%20of%20elderly%20individuals%20and%20individuals%20with%20disabilities.md)
-- [&sect; 05311 - Financial assistance for other than urbanized areas](%C2%A7%2005311%20-%20Financial%20assistance%20for%20other%20than%20urbanized%20areas.md)
+- [&sect; 05307 - Urbanized area formula grants](%C2%A7%2005307%20-%20Urbanized%20area%20formula%20grants.md)
+- [&sect; 05308 - Clean fuels formula grant program](%C2%A7%2005308%20-%20Clean%20fuels%20formula%20grant%20program.md)
+- [&sect; 05309 - Capital investment grants and loans](%C2%A7%2005309%20-%20Capital%20investment%20grants%20and%20loans.md)
+- [&sect; 05310 - Formula grants and loans for special needs of elderly individuals and individuals with disabilities](%C2%A7%2005310%20-%20Formula%20grants%20and%20loans%20for%20special%20needs%20of%20elderly%20individuals%20and%20individuals%20with%20disabilities.md)
+- [&sect; 05311 - Formula grants for other than urbanized areas](%C2%A7%2005311%20-%20Formula%20grants%20for%20other%20than%20urbanized%20areas.md)
 - [&sect; 05312 - Research, development, demonstration, and training projects](%C2%A7%2005312%20-%20Research%2C%20development%2C%20demonstration%2C%20and%20training%20projects.md)
 - [&sect; 05313 - State planning and research programs](%C2%A7%2005313%20-%20State%20planning%20and%20research%20programs.md)
 - [&sect; 05314 - National planning and research programs](%C2%A7%2005314%20-%20National%20planning%20and%20research%20programs.md)
-- [&sect; 05315 - National mass transportation institute](%C2%A7%2005315%20-%20National%20mass%20transportation%20institute.md)
-- [&sect; 05316 - University research institutes](%C2%A7%2005316%20-%20University%20research%20institutes.md)
-- [&sect; 05317 - Transportation centers](%C2%A7%2005317%20-%20Transportation%20centers.md)
+- [&sect; 05315 - National transit institute](%C2%A7%2005315%20-%20National%20transit%20institute.md)
+- [&sect; 05316, 5317 - Repealed. Pub. L. 105&#8211;178, title V, &sect;5110(c), June 9, 1998, 112 Stat. 444](%C2%A7%2005316%2C%205317%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93178%2C%20title%20V%2C%20%C2%A75110%28c%29%2C%20June%209%2C%201998%2C%20112%20Stat.%20444.md)
 - [&sect; 05318 - Bus testing facility](%C2%A7%2005318%20-%20Bus%20testing%20facility.md)
 - [&sect; 05319 - Bicycle facilities](%C2%A7%2005319%20-%20Bicycle%20facilities.md)
 - [&sect; 05320 - Suspended light rail system technology pilot project](%C2%A7%2005320%20-%20Suspended%20light%20rail%20system%20technology%20pilot%20project.md)
@@ -85,8 +98,8 @@ This chapter is referred to in title 23 sections 103, 133, 134, 135, 142; title 
 - [&sect; 05331 - Alcohol and controlled substances testing](%C2%A7%2005331%20-%20Alcohol%20and%20controlled%20substances%20testing.md)
 - [&sect; 05332 - Nondiscrimination](%C2%A7%2005332%20-%20Nondiscrimination.md)
 - [&sect; 05333 - Labor standards](%C2%A7%2005333%20-%20Labor%20standards.md)
-- [&sect; 05334 - Administrative](%C2%A7%2005334%20-%20Administrative.md)
+- [&sect; 05334 - Administrative provisions](%C2%A7%2005334%20-%20Administrative%20provisions.md)
 - [&sect; 05335 - Reports and audits](%C2%A7%2005335%20-%20Reports%20and%20audits.md)
-- [&sect; 05336 - Apportionment of appropriations for block grants](%C2%A7%2005336%20-%20Apportionment%20of%20appropriations%20for%20block%20grants.md)
+- [&sect; 05336 - Apportionment of appropriations for formula grants](%C2%A7%2005336%20-%20Apportionment%20of%20appropriations%20for%20formula%20grants.md)
 - [&sect; 05337 - Apportionment of appropriations for fixed guideway modernization](%C2%A7%2005337%20-%20Apportionment%20of%20appropriations%20for%20fixed%20guideway%20modernization.md)
 - [&sect; 05338 - Authorizations](%C2%A7%2005338%20-%20Authorizations.md)

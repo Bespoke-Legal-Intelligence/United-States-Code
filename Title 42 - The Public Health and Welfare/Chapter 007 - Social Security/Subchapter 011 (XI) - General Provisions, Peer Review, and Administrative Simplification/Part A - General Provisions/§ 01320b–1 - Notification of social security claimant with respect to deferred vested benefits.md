@@ -22,7 +22,7 @@
 
 (2) There are hereby authorized to be appropriated to the Federal Old-Age and Survivors Insurance Trust Fund for each fiscal year (commencing with the fiscal year ending June 30, 1974) such sums as the Commissioner of Social Security deems necessary on account of additional administrative expenses resulting from the enactment of the provisions of subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1131, as added Sept. 2, 1974, Pub. L. 93–406, title II, §1032, 88 Stat. 947; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(e)(7), 98 Stat. 1168; Aug. 15, 1994, Pub. L. 103–296, title I, §108(b)(11), 108 Stat. 1484.)
+(Aug. 14, 1935, ch. 531, title XI, §1131, as added Pub. L. 93–406, title II, §1032, Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 98–369, div. B, title VI, §2663(e)(7), July 18, 1984, 98 Stat. 1168; Pub. L. 103–296, title I, §108(b)(11), Aug. 15, 1994, 108 Stat. 1484.)
 
 #### References in Text
 

@@ -10,6 +10,10 @@ An individual on probation, parole, or supervised release may be selected only i
 
 (Pub. L. 97–300, title IV, §425, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–473, title II, §231, Oct. 12, 1984, 98 Stat. 2031.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1984—Subsec. (b). Pub. L. 98–473 substituted “, parole, or supervised release” for first reference to “or parole”.

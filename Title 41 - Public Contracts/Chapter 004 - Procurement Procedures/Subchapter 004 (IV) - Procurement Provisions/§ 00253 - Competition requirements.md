@@ -90,7 +90,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;&emsp;(i) in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii); and
 
-&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a positionin grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
+&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
 
 &emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of this title (without further delegation); and
 
@@ -304,7 +304,7 @@ Armed services—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 15 section 637; title 22 section 2669; title 38 section 8153; title 40 section 618; title 49 section 40110; title 50 App. section 2077.
+This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 15 section 637; title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 618; title 49 section 40110; title 50 App. section 2077.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

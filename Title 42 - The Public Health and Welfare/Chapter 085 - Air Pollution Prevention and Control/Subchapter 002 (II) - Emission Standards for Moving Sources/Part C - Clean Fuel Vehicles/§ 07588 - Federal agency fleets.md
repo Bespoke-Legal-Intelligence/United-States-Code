@@ -34,5 +34,5 @@ Federal agencies, to the extent practicable, shall obtain clean-fuel vehicles fr
 
 There are authorized to be appropriated such sums as may be required to carry out the provisions of this section: <i>Provided</i>, That such sums as are appropriated for the Administrator of General Services pursuant to the authorization under this section shall be added to the General Supply Fund established in section 756 of title 40.
 
-(July 14, 1955, ch. 360, title II, §248, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2524.)
+(July 14, 1955, ch. 360, title II, §248, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2524.)
 

@@ -30,7 +30,7 @@ The purpose of this section is to provide a means for creating effective and fle
 
 &emsp;&emsp;&emsp;&emsp;(I) that have one year or less remaining until maturity; or
 
-&emsp;&emsp;&emsp;&emsp;(II) that are subject to an agreement (including a repurchase agreement, put option, right of redemption, or takeout commitment) that requires another person to purchase the securities within a period that does not exceed one year, and that person is an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) that is in compliance with applicable capital standards, a primary dealer in United States Government securities, or a broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]; and
+&emsp;&emsp;&emsp;&emsp;(II) that are subject to an agreement (including a repurchase agreement, putoption, right of redemption, or takeout commitment) that requires another person to purchase the securities within a period that does not exceed one year, and that person is an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) that is in compliance with applicable capital standards, a primary dealer in United States Government securities, or a broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]; and
 
 &emsp;&emsp;&emsp;(vii) mortgage loans on the security of a first lien on residential real property, if the mortgage loans qualify as backing for mortgage-backed securities issued by the Federal National Mortgage Association or the Federal Home Loan Mortgage Association or guaranteed by the Government National Mortgage Association, and either—
 
@@ -58,7 +58,7 @@ Whenever the Director deems it advisable in order to enable a savings associatio
 
 The Director is authorized to issue such regulations, including definitions of terms used in this section, to make such examinations, and to conduct such investigations as the Director deems necessary or appropriate to effectuate the purposes of this section. The reasonable cost of any such examination or investigation, as determined by the Director, shall be paid by the association.
 
-(June 13, 1933, ch. 64, §6, 48 Stat. 134; Apr. 27, 1934, ch. 168, §11, 48 Stat. 647; May 28, 1935, ch.150, §19, 49 Stat. 297; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 313.)
+(June 13, 1933, ch. 64, §6, 48 Stat. 134; Apr. 27, 1934, ch. 168, §11, 48 Stat. 647; May 28, 1935, ch. 150, §19, 49 Stat. 297; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 313.)
 
 #### References in Text
 

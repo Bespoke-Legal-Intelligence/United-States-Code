@@ -4,7 +4,7 @@
 
 The Administrator may make grants to any person for the purposes of—
 
-&emsp;(1) assisting in the development and demonstration (including construction) of any project which will demonstrate a new or improved method, approach, or technology, for providing a dependably safe supply of drinking water to the public; and
+&emsp;(1) assisting in the development and demonstration (including construction) of anyproject which will demonstrate a new or improved method, approach, or technology, for providing a dependably safe supply of drinking water to the public; and
 
 &emsp;(2) assisting in the development and demonstration (including construction) of any project which will investigate and demonstrate health implications involved in the reclamation, recycling, and reuse of waste waters for drinking and the processes and methods for the preparation of safe and acceptable drinking water.
 
@@ -28,7 +28,7 @@ For the purposes of making grants under subsections (a) and (b) of this section 
 
 The Administrator during the fiscal years ending June 30, 1975, and June 30, 1976, shall carry out a program of guaranteeing loans made by private lenders to small public water systems for the purpose of enabling such systems to meet national primary drinking water regulations prescribed under section 300g–1 of this title. No such guarantee may be made with respect to a system unless (1) such system cannot reasonably obtain financial assistance necessary to comply with such regulations from any other source, and (2) the Administrator determines that any facilities constructed with a loan guaranteed under this subsection is not likely to be made obsolete by subsequent changes in primary regulations. The aggregate amount of indebtedness guaranteed with respect to any system may not exceed $50,000. The aggregate amount of indebtedness guaranteed under this subsection may not exceed $50,000,000. The Administrator shall prescribe regulations to carry out this subsection.
 
-(July 1, 1944, ch. 373, title XIV, §1444, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1685; amended June 19, 1986, Pub. L. 99–339, title I, §101(c)(3), 100 Stat. 646.)
+(July 1, 1944, ch. 373, title XIV, §1444, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1685; amended Pub. L. 99–339, title I, §101(c)(3), June 19, 1986, 100 Stat. 646.)
 
 #### Amendments
 

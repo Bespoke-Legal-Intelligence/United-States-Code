@@ -16,3 +16,7 @@
 
 (Pub. L. 104–197, title III, §308, Sept. 16, 1996, 110 Stat. 2413.)
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

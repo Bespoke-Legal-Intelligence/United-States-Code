@@ -18,7 +18,7 @@ Section 1 of Pub. L. 95–395 provided: “That this Act \[enacting this subchap
 
 For short title of Pub. L. 96–420, which enacted subchapter II of this chapter as the “Maine Indian Claims Settlement Act of 1980”, see section 1 of Pub. L. 96–420, set out as a Short Title note under section 1721 of this title.
 
-For short title of Pub. L. 97–399, which enacted subchapter III of this chapter as the “Florida Indian Land Claims Settlement Act of 1982”, see section 1 of Pub. L. 97–399, set out as a note under section 1741 of this title.
+For short title of Pub. L. 97–399, which enacted subchapter III of this chapter as the “Florida Indian LandClaims Settlement Act of 1982”, see section 1 of Pub. L. 97–399, set out as a note under section 1741 of this title.
 
 For short title of Pub. L. 98–134, which enacted subchapter IV of this chapter as the “Mashantucket Pequot Indian Claims Settlement Act”, see section 1 of Pub. L. 98–134, set out as a note under section 1751 of this title.
 

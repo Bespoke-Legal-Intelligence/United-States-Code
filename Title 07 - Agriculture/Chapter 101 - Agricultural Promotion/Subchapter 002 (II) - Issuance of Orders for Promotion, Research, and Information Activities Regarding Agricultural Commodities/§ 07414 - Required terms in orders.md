@@ -44,7 +44,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (B) Meetings
 
-&emsp;&emsp;Each board shall provide the Secretary with prior notice of meetings of the board to permit the Secretary, or a designated representative of the Secretary, to attend the meetings.
+&emsp;&emsp;Each board shall provide the Secretary with prior notice of meetings of the board topermit the Secretary, or a designated representative of the Secretary, to attend the meetings.
 
 #### (5) Term of office
 
@@ -92,7 +92,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(7) to borrow funds necessary for the startup expenses of the order;
 
-&emsp;(8) subject to subsection (f) of this section, to enter into contracts or agreements to develop and carry out generic promotion, research, and information activities relating tothe agricultural commodity covered by the order;
+&emsp;(8) subject to subsection (f) of this section, to enter into contracts or agreements to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
 
 &emsp;(9) to pay the cost of the activities with assessments collected under section 7416 of this title, earnings from invested assessments, and other funds;
 

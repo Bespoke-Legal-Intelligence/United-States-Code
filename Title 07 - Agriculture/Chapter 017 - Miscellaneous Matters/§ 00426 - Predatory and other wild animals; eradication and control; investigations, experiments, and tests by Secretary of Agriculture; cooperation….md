@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture is authorized and directed to conduct such investigations, experiments, and tests as he may deem necessary in order to determine, demonstrate, and promulgate the best methods of eradication, suppression, or bringing under control on national forests and other areas of the public domain as well as on State, Territory, or privately owned lands of mountain lions, wolves, coyotes, bobcats, prairie dogs, gophers, ground squirrels, jack rabbits, brown tree snakes, and other animals injurious to agriculture, horticulture, forestry, animal husbandry, wild game animals, fur-bearing animals, and birds, and for the protection of stock and other domestic animals through the suppression of rabies and tularemia in predatory or other wild animals; and to conduct campaigns for the destruction or control of such animals: <i>Provided</i>, That in carrying out the provisions of this section the Secretary of Agriculture may cooperate with States, individuals, and public and private agencies, organizations, and institutions.
 
-(Mar. 2, 1931, ch. 370, §1, 46 Stat. 1468; Dec. 13, 1991, Pub. L. 102–237, title X, §1013(d), 105 Stat. 1901.)
+(Mar. 2, 1931, ch. 370, §1, 46 Stat. 1468; Pub. L. 102–237, title X, §1013(d), Dec. 13, 1991, 105 Stat. 1901.)
 
 #### Amendments
 
@@ -16,15 +16,15 @@ Pub. L. 99–190, §101(a) \[H.R. 3037, title I, §101\], Dec. 19, 1985, 99 Stat
 
 #### Prevention of Introduction of Brown Tree Snakes to Hawaii From Guam
 
-Section 1013(a)–(c) of Pub. L. 102–237 provided that:
+Section 1013(a)–(c) of Pub. L. 102–237, as amended by Pub. L. 105–277, div. A, title I, §101(a) \[title VII, §743\], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
 
 “(a)
 
-In General.—The Secretary of Agriculture shall, to the extent practicable, take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes into other areas of the United States from Guam.
+In General.—The Secretary of Agriculture shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes into other areas of the United States from Guam.
 
 “(b)
 
-Introduction Into Hawaii.—The Secretary shall initiate a program to prevent, to the extent practicable, the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
+Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
 
 “(c)
 

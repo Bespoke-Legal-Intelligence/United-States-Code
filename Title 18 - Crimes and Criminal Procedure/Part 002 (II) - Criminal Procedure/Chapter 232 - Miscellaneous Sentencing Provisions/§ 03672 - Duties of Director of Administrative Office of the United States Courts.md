@@ -18,7 +18,7 @@ He shall pay for presentence studies and reports by qualified consultants and pr
 
 Whenever the court finds that funds are available for payment by or on behalf of a person furnished such services, training, or guidance, the court may direct that such funds be paid to the Director. Any moneys collected under this paragraph shall be used to reimburse the appropriations obligated and disbursed in payment for such services, training, or guidance.
 
-(June 25, 1948, ch. 645, 62 Stat. 843, §3656; May 24, 1949, ch. 139, §57, 63 Stat. 97; renumbered §3672, Oct. 12, 1984, Pub. L. 98–473, title II, §212(a)(1), 98 Stat. 1987; Oct. 27, 1986, Pub. L. 99–570, title I, §1861(b)(1), 100 Stat. 3207–53; Nov. 10, 1986, Pub. L. 99–646, §18(a), 100 Stat. 3595; Dec. 7, 1987, Pub. L. 100–182, §20, 101 Stat. 1270.)
+(June 25, 1948, ch. 645, 62 Stat. 843, §3656; May 24, 1949, ch. 139, §57, 63 Stat. 97; renumbered §3672, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987; Pub. L. 99–570, title I, §1861(b)(1), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 99–646, §18(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 100–182, §20, Dec. 7, 1987, 101 Stat. 1270.)
 
 #### Historical and Revision Notes
 

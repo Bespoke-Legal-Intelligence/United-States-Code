@@ -18,7 +18,7 @@ The Attorney General is authorized to direct the advance of funds by the Treasur
 
 (2) There are hereby appropriated to the Fund amounts equivalent to the fines imposed under section 841(b)(6) of this title.
 
-(3) Amounts in the Fund shall be available, as provided in appropriations Acts, for the purpose of making payments in accordance with paragraph (4) for the clean up of certain pollution resulting from the actions referred to in section 841(b)(6) of this title.
+(3) Amounts in the Fund shall be available, as provided in appropriations Acts, for the purposeof making payments in accordance with paragraph (4) for the clean up of certain pollution resulting from the actions referred to in section 841(b)(6) of this title.
 
 (4)(A) The Secretary of the Treasury, after consultation with the Attorney General, shall make payments under paragraph (3), in such amounts as the Secretary determines appropriate, to the heads of executive agencies or departments that meet the requirements of subparagraph (B).
 

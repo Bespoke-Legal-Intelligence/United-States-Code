@@ -18,5 +18,5 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Effective Date
 
-Section 2 of Pub. L. 87–850 provided that: “The amendment made by this Act \[enacting this section\] shall apply only with respect to the repair or replacement of artificial limbs, trusses, braces, hearing aids,spectacles, and similar devices damaged or destroyed after the date of enactment of this Act \[Oct. 23, 1962\].”
+Section 2 of Pub. L. 87–850 provided that: “The amendment made by this Act \[enacting this section\] shall apply only with respect to the repair or replacement of artificial limbs, trusses, braces, hearing aids, spectacles, and similar devices damaged or destroyed after the date of enactment of this Act \[Oct. 23, 1962\].”
 

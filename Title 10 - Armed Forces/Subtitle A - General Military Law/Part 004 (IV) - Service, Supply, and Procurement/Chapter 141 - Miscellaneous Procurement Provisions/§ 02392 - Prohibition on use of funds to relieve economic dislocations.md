@@ -8,7 +8,7 @@
 
 #### Contracts Made by Defense Logistics Agency; Payments of Price Differentials To Relieve Economic Dislocations; Test Program; Interim Reports
 
-Pub. L. 97–252, title XI, §1109, Sept. 8, 1982, 96 Stat. 746, as amended by Pub. L. 98–94, title XII, §1205, Sept.24, 1983, 97 Stat. 683; Pub. L. 98–525, title XII, §1254, Oct. 19, 1984, 98 Stat. 2611, provided that:
+Pub. L. 97–252, title XI, §1109, Sept. 8, 1982, 96 Stat. 746, as amended by Pub. L. 98–94, title XII, §1205, Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title XII, §1254, Oct. 19, 1984, 98 Stat. 2611, provided that:
 
 “(a) The Secretary of Defense should conduct a test program during fiscal years 1983, 1984, and 1985 in accordance with this subsection to test the effect of exempting certain contracts of the Department of Defense from the provisions of section 2392 of title 10, United States Code, and paying a price differential under such contracts for the purpose of relieving economic dislocations. Under such test program, the Secretary of Defense may exempt from the provisions of such section any contract (other than a contract for the purchase of fuel) made by the Defense Logistics Agency during fiscal years 1983, 1984, and 1985 if the contract is to be awarded to an individual or firm located in a Labor Surplus Area (as defined and identified by the Department of Labor) and if the Secretary determines—
 

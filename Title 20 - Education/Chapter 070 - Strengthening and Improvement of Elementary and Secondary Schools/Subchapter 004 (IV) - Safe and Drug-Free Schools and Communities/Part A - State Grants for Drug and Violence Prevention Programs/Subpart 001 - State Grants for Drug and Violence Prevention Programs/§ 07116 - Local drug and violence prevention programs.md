@@ -2,7 +2,7 @@
 
 #### (a) Program requirements
 
-A local educational agency shall use funds received under this subpart to adopt and carry outa comprehensive drug and violence prevention program which shall—
+A local educational agency shall use funds received under this subpart to adopt and carry out a comprehensive drug and violence prevention program which shall—
 
 &emsp;(1) be designed, for all students and employees, to—
 
@@ -20,7 +20,7 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 &emsp;(1) age-appropriate, developmentally based drug prevention and education programs for all students, from the preschool level through grade 12, that address the legal, social, personal and health consequences of the use of illegal drugs, promote a sense of individual responsibility, and provide information about effective techniques for resisting peer pressure to use illegal drugs;
 
-&emsp;(2) programs of drug prevention, comprehensive health education, early intervention, pupil services, mentoring, or rehabilitation referral, which emphasize students’ sense of individual responsibility and which may include—
+&emsp;(2) programs of drug prevention, comprehensive health education, early intervention,pupil services, mentoring, or rehabilitation referral, which emphasize students’ sense of individual responsibility and which may include—
 
 &emsp;&emsp;(A) the dissemination of information about drug prevention;
 
@@ -68,7 +68,7 @@ A comprehensive drug and violence prevention program carried out under this subp
 
 #### (2) Special rule
 
-&emsp;A local educational agency shall only be able to use funds received under this subpart for activities described in paragraphs (5) and\(6) of subsection (b) of this section if funding for such activities is not received from other Federal agencies.
+&emsp;A local educational agency shall only be able to use funds received under this subpart for activities described in paragraphs (5) and (6) of subsection (b) of this section if funding for such activities is not received from other Federal agencies.
 
 #### (d) Administrative provisions
 

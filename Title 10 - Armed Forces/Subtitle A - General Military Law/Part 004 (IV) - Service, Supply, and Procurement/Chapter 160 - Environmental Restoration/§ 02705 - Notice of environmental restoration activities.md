@@ -44,7 +44,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 (2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that theFederal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
 &emsp;(B) the technical assistance—
 
@@ -88,7 +88,7 @@ Definition.—In this section, the term “base closure law” means the followi
 
 #### Amendments
 
-1996—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
+1996—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
 
 Subsec. (d)(3). Pub. L. 104–106, §324(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may provide for the payment of routine administrative expenses of a restoration advisory board from funds available for the operation and maintenance of the installation (or installations) for which the board is established or from the funds available under subsection (e)(3).”
 
@@ -116,11 +116,7 @@ Section 326(d) of Pub. L. 103–337 provided that: “Not later than 180 days af
 
 #### Report on Restoration Advisory Boards and Assistance for Citizen Participation on Committees and Boards
 
-Section 326(e) of Pub. L. 103–337 provided that: “Not later than May 1, 1996, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report regarding—
-
-&emsp;“(1) the establishment of restoration advisory boards under subsection (d) of section 2705 of title 10, United States Code, as added by subsection (a); and
-
-&emsp;“(2) the expenditure of funds for assistance for citizen participation on technical review committees and restoration advisory boards under subsection (e) of such section, as added by subsection (b).”
+Section 326(e) of Pub. L. 103–337 directed Secretary of Defense to submit, not later than May 1, 1996, report regarding establishment of restoration advisory boards under subsections (d) and (e) of this section and the expenditure of funds for assistance for citizen participation on technical review committees under subsection (e) of this section.
 
 #### Restrictions on Administrative and Technical Assistance Funding
 

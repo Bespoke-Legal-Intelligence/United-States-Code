@@ -8,7 +8,7 @@ Where the numerical clean-fuel vehicle standards applicable under this part to v
 
 > unless the Administrator determines (in promulgating the rules establishing the clean fuel vehicle program under this section) that any such administration and enforcement would not meet the criteria for a waiver under section 7543 of this title. Nothing in this section shall apply in the case of standards under section 7585 of this title for heavy-duty vehicles.
 
-(July 14, 1955, ch. 360, title II, §244, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2519.)
+(July 14, 1955, ch. 360, title II, §244, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2519.)
 
 #### Section Referred to in Other Sections
 

@@ -8,17 +8,23 @@ Each participating jurisdiction shall invest funds made available under this par
 
 &emsp;&emsp;(B) the remainder of (i) the families receiving such rental assistance are households that qualify as low-income families (other than families described in subparagraph (A)) at the time of occupancy or at the time funds are invested, whichever is later, or (ii) the dwelling units assisted with such funds are occupied by such households;
 
-&emsp;(2) with respect to homeownership assistance, 100 percent of such funds are invested with respect to dwelling units that are occupied by households that qualify as low-income families at the time of occupancy or at the time funds are invested, whichever is later; and
+&emsp;(2) with respect to homeownership assistance, 100 percent of such funds are invested with respect to dwelling units that are occupied by households that qualify as low-income families; and
 
 &emsp;(3) all such funds are invested with respect to housing that qualifies as affordable housing under section 12745 of this title.
 
-(Pub. L. 101–625, title II, §214, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 103–233, title II, §202, Apr. 11, 1994, 108 Stat. 364.)
+(Pub. L. 101–625, title II, §214, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 103–233, title II, §202, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(a), Oct. 21, 1998, 112 Stat. 2660.)
 
 #### Amendments
+
+1998—Par. (2). Pub. L. 105–276 struck out “at the time of occupancy or at the time funds are invested, whichever is later” before “; and”.
 
 1994—Par. (1)(A). Pub. L. 103–233, §202(1), substituted “(i) the families receiving such rental assistance are” for “such funds are invested with respect to dwelling units that are occupied by”, “, or” for “, and” before cl. (ii), and added cl. (ii).
 
 Par. (1)(B). Pub. L. 103–233, §202(2), substituted “(i) the families receiving such rental assistance are” for “such funds are invested with respect to dwelling units that are occupied by” and added cl. (ii).
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title V, §599B(c), Oct. 21, 1998, 112 Stat. 2660, provided that: “The amendments made by this section \[amending this section and section 12745 of this title\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

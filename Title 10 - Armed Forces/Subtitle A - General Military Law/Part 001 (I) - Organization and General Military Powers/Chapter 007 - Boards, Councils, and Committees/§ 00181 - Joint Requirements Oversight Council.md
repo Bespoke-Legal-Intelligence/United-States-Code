@@ -52,6 +52,10 @@ Availability of Oversight Information to Congressional Defense Committees.—(1)
 
 1996—Subsec. (d). Pub. L. 104–201 added subsec. (d).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date
 
 Section 905(b) of Pub. L. 104–106 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 31, 1997.”

@@ -10,7 +10,7 @@ Whenever the Secretary determines that a State that has received a payment under
 
 #### (c) Maintenance of civil actions
 
-When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that the State is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
+When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever he has reason to believe that the State is engaged in a pattern or practice inviolation of the provisions of this section, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including injunctive relief.
 
 (Pub. L. 97–35, title XXVI, §2606, Aug. 13, 1981, 95 Stat. 900.)
 

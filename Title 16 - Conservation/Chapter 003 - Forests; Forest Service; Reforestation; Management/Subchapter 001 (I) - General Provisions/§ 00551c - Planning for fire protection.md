@@ -16,7 +16,7 @@ Not later than one year after May 9, 1990—
 
 &emsp;(2) the Secretary of the Interior shall submit to the Congress information with respect to the Bureau of Land Management public lands on a State-by-State basis and each region of the National Park System
 
-> that documents mobilization plans that provide for the use of firefighting equipment in cases of fire emergencies that may occur in each such area that may be highly prone to disastrous forest fires.
+> that documents mobilization plans that provide for the use of firefighting equipment in cases of fire emergencies that may occur in each sucharea that may be highly prone to disastrous forest fires.
 
 #### (d) Presuppression needs
 
@@ -26,7 +26,7 @@ Not later than one year after May 9, 1990, information from the Secretary of Agr
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (b), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularlyknown as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+Act of July 2, 1862, referred to in subsec. (b), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
 Act of August 30, 1890, referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 

@@ -124,7 +124,7 @@ Each State improvement plan shall—
 
 #### (f) Reporting procedures
 
-Each State educational agency that receives a grant under this part shall submit performance reports to the Secretary pursuant to a schedule to be determined by the Secretary, but not more frequently than annually. The reports shall describe the progress of the State in meeting the performance goals established under section 1412(a)(16) of this title, analyze the effectiveness of the State's strategies in meeting those goals, and identify any changes in the strategies needed to improve its performance.
+Each State educational agency that receives a grant under this part shall submit performance reports to the Secretary pursuant to a schedule to be determined by the Secretary, but not more frequently than annually. The reports shall describe the progress of the State in meeting the performance goals established under section 1412(a)(16) of this title, analyze the effectivenessof the State's strategies in meeting those goals, and identify any changes in the strategies needed to improve its performance.
 
 (Pub. L. 91–230, title VI, §653, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 125.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Research and pilot project program
 
-Notwithstanding any other provision of law, during the period beginning October 1, 1986, and ending September 30, 1997, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
+Notwithstanding any other provision of law, during the period beginning October 1, 1986, and ending September 30, 2002, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
 
 #### (b) Importance to producers
 
@@ -42,13 +42,17 @@ The development of supplemental and alternative crops is of critical importance 
 
 The Secretary shall use the expertise and resources of the Agricultural Research Service, the Cooperative State Research Service, the Extension Service, and the land-grant colleges and universities for the purpose of carrying out this section.
 
-(Pub. L. 95–113, title XIV, §1473D, as added Pub. L. 99–198, title XIV, §1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, §1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §819, Apr. 4, 1996, 110 Stat. 1167.)
+(Pub. L. 95–113, title XIV, §1473D, as added Pub. L. 99–198, title XIV, §1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, §1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §819, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, §301(a)(14), title VI, §606(a), June 23, 1998, 112 Stat. 562, 603.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsec. (a), see note set out under section 3102 of this title.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–185, §301(a)(14), substituted “2002” for “1997”.
+
+Subsec. (c)(3). Pub. L. 105–185, §606(a), made technical amendment to directory language of Pub. L. 104–127, §819(b)(5). See 1996 Amendment note below.
 
 1996—Subsec. (a). Pub. L. 104–127, §819(a), (b)(1), substituted “1997” for “1995” and struck out “and pilot” after “research”.
 
@@ -58,9 +62,13 @@ Subsec. (c)(2)(C). Pub. L. 104–127, §819(b)(3), struck out “from pilot site
 
 Subsec. (c)(2)(D). Pub. L. 104–127, §819(b)(4), struck out “near such pilot sites” after “facilities” and “pilot” after “successful”.
 
-Subsec. (c)(3). Pub. L. 104–127, §819(b)(5), which directed the striking of “pilot” in paragraph (3) without specifying the subsection affected, was executed to the introductory provisions of subsec. (c)(3) to reflect the probable intent of Congress.
+Subsec. (c)(3). Pub. L. 104–127, §819(b)(5), as amended by Pub. L. 105–185, §606(a), struck out “pilot” before “program” in introductory provisions.
 
 Subsec. (c)(3)(E), (F). Pub. L. 104–127, §819(c), added subpars. (E) and (F).
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “1995” for “1990”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–185, title VI, §606(a), June 23, 1998, 112 Stat. 603, provided that the amendment made by section 606(a) is effective Apr. 6, 1996.
 

@@ -40,7 +40,7 @@ The Commission shall, in each of the first 5 annual reports (under section 78w(b
 
 &emsp;(2) a review of the activities of registered securities associations and national securities exchanges in the development of the system.
 
-(June 6, 1934, ch. 404, title I, §17B, as added Oct. 15, 1990, Pub. L. 101–429, title V, §506, 104 Stat. 955.)
+(June 6, 1934, ch. 404, title I, §17B, as added Pub. L. 101–429, title V, §506, Oct. 15, 1990, 104 Stat. 955.)
 
 #### Effective Date
 

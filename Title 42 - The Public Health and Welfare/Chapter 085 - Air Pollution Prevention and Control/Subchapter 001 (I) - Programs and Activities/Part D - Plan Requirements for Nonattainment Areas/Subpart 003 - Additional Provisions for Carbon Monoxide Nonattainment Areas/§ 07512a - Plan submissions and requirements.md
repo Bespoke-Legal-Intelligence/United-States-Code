@@ -2,7 +2,7 @@
 
 #### (a) Moderate Areas
 
-Each State in which all or part of a Moderate Area is located shall, with respect to the Moderate Area (or portion thereof, to the extent specified in guidance of the Administrator issued before November 15, 1990), submit to the Administrator the State implementation plan revisions (including the plan items) described under this subsection, within such periods as are prescribed under this subsection, except to the extent the State has made such submissions as of November 15, 1990:
+Each State in which all or part of a Moderate Area is located shall, with respect to the Moderate Area (or portion thereof, to the extent specified in guidance of the Administrator issued before November 15, 1990), submit to the Administrator the State implementation plan revisions (including the plan items) describedunder this subsection, within such periods as are prescribed under this subsection, except to the extent the State has made such submissions as of November 15, 1990:
 
 #### (1) Inventory
 
@@ -42,7 +42,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) In general
 
-&emsp;Each State in which all or part of a Serious Area is located shall, with respect to the Serious Area, make the submissions (other than those required under subsection (a)(1)(B) <sup>1</sup> of this section) applicable under subsection (a) of this section to Moderate Areas with a design value of 12.7 ppm or greater at the time of classification, and shall also submit the revision and other items described under this subsection.
+&emsp;Each State in which all or part of a Serious Area is located shall, with respect to the Serious Area, make the submissions (other than those required under subsection (a)(1)(B) <sup>1</sup> of this section) applicable under subsection (a) of this section to Moderate Areas with a design value of 12.7 ppm or greater at the time ofclassification, and shall also submit the revision and other items described under this subsection.
 
 #### (2) Vehicle miles traveled
 
@@ -92,7 +92,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Coordination among States
 
-&emsp;Each State in which there is located a portion of a single nonattainment area for carbon monoxide which covers more than one State (“multi-State nonattainment area”) shall take all reasonable steps to coordinate, substantively and procedurally, the revisions and implementation of State implementation plans applicable to the nonattainment area concerned. The Administrator may not approve any revision of a State implementation plan submitted under this part for a State in which part of a multi-State nonattainment area is located if the plan revision for that State fails to comply with the requirements of this subsection.
+&emsp;Each State in which there is located a portion of a single nonattainment area for carbon monoxide which covers more than one State (“multi-State nonattainment area”) shall take all reasonable steps to coordinate, substantively and procedurally, the revisions andimplementation of State implementation plans applicable to the nonattainment area concerned. The Administrator may not approve any revision of a State implementation plan submitted under this part for a State in which part of a multi-State nonattainment area is located if the plan revision for that State fails to comply with the requirements of this subsection.
 
 #### (2) Failure to demonstrate attainment
 
@@ -106,7 +106,7 @@ Each State containing a carbon monoxide nonattainment area reclassified under se
 
 If the Administrator determines under section 7512(b)(2) of this title that the national primary ambient air quality standard for carbon monoxide has not been attained in a Serious Area by the applicable attainment date, the State shall submit a plan revision for the area within 9 months after the date of such determination. The plan revision shall provide that a program of incentives and requirements as described in section 7511a(g)(4) of this title shall be applicable in the area, and such program, in combination with other elements of the revised plan, shall be adequate to reduce the total tonnage of emissions of carbon monoxide in the area by at least 5 percent per year in each year after approval of the plan revision and before attainment of the national primary ambient air quality standard for carbon monoxide.
 
-(July 14, 1955, ch. 360, title I, §187, as added Nov. 15, 1990, Pub. L. 101–549, title I, §104, 104 Stat. 2454.)
+(July 14, 1955, ch. 360, title I, §187, as added Pub. L. 101–549, title I, §104, Nov. 15, 1990, 104 Stat. 2454.)
 
 #### Moratorium on Certain Emissions Testing Requirements
 

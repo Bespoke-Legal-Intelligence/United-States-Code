@@ -32,7 +32,7 @@
 
 &emsp;(B) subject to paragraph (4), the Secretary shall immediately exclude the individual from the program under this subchapter, until such time as the entire past-due obligation has been repaid.
 
-(4) The Secretary shall not exclude an individual pursuant to paragraph (2)(C)(ii) or paragraph (3)(B) if such individual is a sole community practitioner or sole source of essential specialized services in a community if a State requests that the individual not be excluded.
+(4) The Secretary shall not exclude an individual pursuant to paragraph (2)(C)(ii) or paragraph\(3)(B) if such individual is a sole community practitioner or sole source of essential specialized services in a community if a State requests that the individual not be excluded.
 
 #### (b) Past-due obligation
 
@@ -64,7 +64,7 @@ This section shall not preclude the United States from applying other provisions
 
 Amounts equal to the amounts deducted pursuant to this section shall be transferred from the Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4052(a), 101 Stat. 1330–95; amended July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), 102 Stat. 780; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), 102 Stat. 2420.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Pub. L. 100–203, title IV, §4052(a), Dec. 22, 1987, 101 Stat. 1330–95; amended Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), July 1, 1988, 102 Stat. 780; Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), Oct. 13, 1988, 102 Stat. 2420.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Pub. L. 100–360, §411(f)(10)(A)(iii), as amended by Pub. L. 100–360, §608(
 
 Pub. L. 100–360, §411(f)(10)(A)(ii), substituted “exclude” for “bar”.
 
-Subsec. (b). Pub. L. 100–360, §411(f)(10)(C)(i)(V), as amended by Pub. L. 100–485, §608(d)(21)(F)(i), substituted “or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and whichhas not been paid by the deadline established by the Secretary pursuant to such respective section” for “, and (2) which has not been paid by the deadline established by the Secretary pursuant to section 338E of the Public Health Service Act”.
+Subsec. (b). Pub. L. 100–360, §411(f)(10)(C)(i)(V), as amended by Pub. L. 100–485, §608(d)(21)(F)(i), substituted “or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and which has not been paid by the deadline established by the Secretary pursuant to such respective section” for “, and (2) which has not been paid by the deadline established by the Secretary pursuant to section 338E of the Public Health Service Act”.
 
 Subsec. (b)(1). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “an individual” for “a physician”.
 

@@ -30,5 +30,5 @@ A prior section 508, acts June 25, 1948, ch. 646, 62 Stat. 910; Mar. 2, 1955, ch
 
 #### Amendments
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–139 substituted “the Associate Attorney General shall act as Attorney General. The Attorney General may designate the Solicitor General and the Assistant Attorneys General, in further order of succession, to act as Attorney General” for “the Assistant Attorneys General and the Solicitor General, in such order of succession as the Attorney General may from time to time prescribe, shall act as Attorney General”.
+1977—Subsec. (b). Pub. L. 95–139 substituted “the Associate Attorney General shall act as Attorney General. The Attorney General may designate the Solicitor General and the Assistant Attorneys General, in further order of succession, to act as Attorney General” for “the Assistant Attorneys General and the Solicitor General, in such order of succession as the Attorney General may from time to time prescribe, shall act as Attorney General”.
 

@@ -62,5 +62,5 @@ For purposes of this section, the term “traumatic brain injury” means an acq
 
 For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1997 through 1999.
 
-(July 1, 1944, ch. 373, title XII, §1252, as added July 29, 1996, Pub. L. 104–166, §3, 110 Stat. 1446.)
+(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446.)
 

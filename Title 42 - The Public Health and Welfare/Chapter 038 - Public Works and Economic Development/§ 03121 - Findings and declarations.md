@@ -1,0 +1,348 @@
+### §3121. Findings and declarations
+
+#### (a) Findings
+
+Congress finds that—
+
+&emsp;(1) while the economy of the United States is undergoing a sustained period of economic growth resulting in low unemployment and increasing incomes, there continue to be areas suffering economic distress in the form of high unemployment, low incomes, underemployment, and outmigration as well as areas facing sudden economic dislocations due to industrial restructuring and relocation, defense base closures and procurement cutbacks, certain Federal actions (including environmental requirements that result in the removal of economic activities from a locality), and natural disasters;
+
+&emsp;(2) as the economy of the United States continues to grow, those distressed areas contain significant human and infrastructure resources that are underused;
+
+&emsp;(3) expanding international trade and the increasing pace of technological innovation offer both a challenge and an opportunity to the distressed communities of the United States;
+
+&emsp;(4) while economic development is an inherently local process, the Federal Government should work in partnership with public and private local, regional, and State organizations to ensure that existing resources are not wasted and all Americans have an opportunity to participate in the economic growth of the United States;
+
+&emsp;(5) in order to avoid wasteful duplication of effort and to limit the burden on distressed communities, Federal, State, and local economic development activities should be better planned and coordinated and Federal program requirements should be simplified and made more consistent;
+
+&emsp;(6) the goal of Federal economic development activities should be to work in partnership with local, regional, and State public and private organizations to support the development of private sector businesses and jobs in distressed communities;
+
+&emsp;(7) Federal economic development efforts will be more effective if they are coordinated with, and build upon, the trade and technology programs of the United States; and
+
+&emsp;(8) under this chapter, new employment opportunities should be created by developing and expanding new and existing public works and other facilities and resources rather than by merely transferring jobs from one area of the United States to another.
+
+#### (b) Declarations
+
+Congress declares that, in order to promote a strong and growing economy throughout the United States—
+
+&emsp;(1) assistance under this chapter should be made available to both rural and urban distressed communities;
+
+&emsp;(2) local communities should work in partnership with neighboring communities, the States, and the Federal Government to increase their capacity to develop and implement comprehensive economic development strategies to address existing, or deter impending, economic distress; and
+
+&emsp;(3) whether suffering from long-term distress or a sudden dislocation, distressed communities should be encouraged to take advantage of the development opportunities afforded by technological innovation and expanding and newly opened global markets.
+
+(Pub. L. 89–136, §2, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3598.)
+
+#### Prior Provisions
+
+A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L. 94–487, title I, §102, Oct. 12, 1976, 90 Stat. 2331, set forth congressional findings and statement of purpose of chapter, prior to repeal by Pub. L. 105–393, §102(a).
+
+#### Effective Date
+
+Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that: “This title \[see Short Title of 1998 Amendment note set out below\] and the amendments made by this title shall take effect on a date determined by the Secretary of Commerce, but not later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\].” \[Effective Feb. 11, 1999, see 64 F.R. 9222.\]
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–393, §1(a), Nov. 13, 1998, 112 Stat. 3596, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Development Administration and Appalachian Regional Development Reform Act of 1998’.”
+
+Pub. L. 105–393, title I, §101, Nov. 13, 1998, 112 Stat. 3597, provided that: “This title \[enacting subchapters I to VII of this chapter, transferring section 3222 of this title to section 3212 of this title, amending section 5316 of Title 5, Government Organization and Employees, repealing former subchapters I to X of this chapter, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] may be cited as the ‘Economic Development Administration Reform Act of 1998’.”
+
+#### Short Title of 1976 Amendment
+
+Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the ‘Public Works and Economic Development Act Amendments of 1976’.”
+
+#### Short Title of 1975 Amendments
+
+Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: “That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of Title 40\] may be cited as the ‘Regional Development Act of 1975’.”
+
+Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: “This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the ‘Regional Action Planning Commission Improvement Act of 1975’.”
+
+#### Short Title of 1974 Amendment
+
+Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: “That this Act \[enacting sections 3246 to 3246g of this title and sections 961 to 966 of Title 29, Labor, amending section 1244 of Title 20, Education, and sections 841, 842, 844, 845, 849 to 851, 981, and 983 of Title 29, and enacting provisions set out as notes under sections 3304 of Title 26, Internal Revenue Code, and 4102 of Title 38, Veterans’ Benefits\] may be cited as the ‘Emergency Jobs and Unemployment Assistance Act of 1974’.”
+
+#### Short Title of 1971 Amendment
+
+Pub. L. 92–65, title I, §101, Aug. 5, 1971, 85 Stat. 166, provided that: “This title \[enacting section 3123 of this title and amending this section, sections 3135, 3141, 3152, 3161, 3162, 3171, 3188a, and 3191 of this title, and provisions set out as a note under section 3162 of this title\] may be cited as the ‘Public Works and Economic Development Act Amendments of 1971’.”
+
+#### Short Title of 1969 Amendment
+
+Pub. L. 91–123, title II, §201, Nov. 25, 1969, 83 Stat. 216, provided that: “This title \[enacting sections 3190, 3191, and 3192 of this title and amending this section and sections 3185, 3186, and 3188a of this title\] may be cited as the ‘Regional Action Planning Commission Amendments of 1969’.”
+
+#### Short Title
+
+Pub. L. 89–136, §1(a), as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Public Works and Economic Development Act of 1965’.”
+
+A prior section 1 of Pub. L. 89–136, which provided that Pub. L. 89–136 could be cited as the “Public Works and Economic Development Act of 1965”, was repealed by Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
+
+#### Transition Provisions
+
+Pub. L. 105–393, title I, §104, Nov. 13, 1998, 112 Stat. 3617, provided that:
+
+“(a)
+
+Existing Rights, Duties, and Obligations.—This title \[see Short Title of 1998 Amendment note set out above\], including the amendments made by this title, does not affect the validity of any right, duty, or obligation of the United States or any other person arising under any contract, loan, or other instrument or agreement that was in effect on the day before the effective date of this title \[see Effective Date note set out above\].
+
+“(b)
+
+Continuation of Suits.—No action or other proceeding commenced by or against any officer or employee of the Economic Development Administration shall abate by reason of the enactment of this title.
+
+“(c)
+
+Liquidating Account.—The Economic Development Revolving Fund established under section 203 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3143) (as in effect on the day before the effective date of this title) shall continue to be available to the Secretary of Commerce as a liquidating account (as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) for payment of obligations and expenses in connection with financial assistance provided under—
+
+&emsp;“(1) the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.);
+
+&emsp;“(2) the Area Redevelopment Act (42 U.S.C. 2501 et seq.); and
+
+&emsp;“(3) the Trade Act of 1974 (19 U.S.C. 2101 et seq.).
+
+“(d)
+
+Administration.—The Secretary of Commerce shall take such actions authorized before the effective date of this title as are appropriate to administer and liquidate grants, contracts, agreements, loans, obligations, debentures, or guarantees made by the Secretary under law in effect before the effective date of this title.”
+
+#### Denali Commission
+
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, provided that:
+
+#### “SEC. 301. SHORT TITLE.
+
+“This title may be cited as the ‘Denali Commission Act of 1998’.
+
+#### “SEC. 302. PURPOSES.
+
+“The purposes of this title are as follows:
+
+&emsp;“(1) To deliver the services of the Federal Government in the most cost-effective manner practicable by reducing administrative and overhead costs.
+
+&emsp;“(2) To provide job training and other economic development services in rural communities particularly distressed communities (many of which have a rate of unemployment that exceeds 50 percent).
+
+&emsp;“(3) To promote rural development, provide power generation and transmission facilities, modern communication systems, water and sewer systems and other infrastructure needs.
+
+#### “SEC. 303. ESTABLISHMENT OF COMMISSION.
+
+“(a)
+
+Establishment.—There is established a commission to be known as the Denali Commission (referred to in this title as the ‘Commission’).
+
+“(b)
+
+Membership.—
+
+&emsp;“(1)
+
+Composition.—The Commission shall be composed of 7 members, who shall be appointed by the Secretary of Commerce (referred to in this title as the ‘Secretary’), of whom—
+
+&emsp;&emsp;“(A) one shall be the Governor of the State of Alaska, or an individual selected from nominations submitted by the Governor, who shall serve as the State Cochairperson;
+
+&emsp;&emsp;“(B) one shall be the President of the University of Alaska, or an individual selected from nominations submitted by the President of the University of Alaska;
+
+&emsp;&emsp;“(C) one shall be the President of the Alaska Municipal League or an individual selected from nominations submitted by the President of the Alaska Municipal League;
+
+&emsp;&emsp;“(D) one shall be the President of the Alaska Federation or Natives or an individual selected from nominations submitted by the President of the Alaska Federation or Natives;
+
+&emsp;&emsp;“(E) one shall be the Executive President of the Alaska State AFL–CIO or an individual selected from nominations submitted by the Executive President;
+
+&emsp;&emsp;“(F) one shall be the President of the Associated General Contractors of Alaska or an individual selected from nominations submitted by the President of the Associated General Contractors of Alaska; and
+
+&emsp;&emsp;“(G) one shall be the Federal Cochairperson, who shall be selected in accordance with the requirements of paragraph (2).
+
+&emsp;“(2)
+
+Federal cochairperson.—
+
+&emsp;&emsp;“(A)
+
+In general.—The President pro temporare of the Senate and the Speaker of the House of Representatives shall each submit a list of nominations for the position of the Federal Cochairperson under paragraph (1)(G), including pertinent biographical information, to the Secretary.
+
+&emsp;&emsp;“(B)
+
+Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
+
+&emsp;&emsp;“(C)
+
+Federal cochairperson vote.—The Federal Cochairperson appointed under this paragraph shall break any tie in the voting of the Commission.
+
+&emsp;“(4)
+
+Date.—The appointments of the members of the Commission shall be made no later than January 1, 1999.
+
+“(c)
+
+Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+
+“(d)
+
+Meetings.—
+
+&emsp;“(1)
+
+In general.—The Commission shall meet at the call of the Federal Cochairperson not less frequently than 2 times each year, and may, as appropriate, conduct business by telephone or other electronic means.
+
+&emsp;“(2)
+
+Notification.—Not later than 2 weeks before calling a meeting under this subsection, the Federal Cochairperson shall—
+
+&emsp;&emsp;“(A) notify each member of the Commission of the time, date and location of that meeting; and
+
+&emsp;&emsp;“(B) provide each member of the Commission with a written agenda for the meeting, including any proposals for discussion and consideration, and any appropriate background materials.
+
+“(e)
+
+Quorum.—A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
+
+#### “SEC. 304. DUTIES OF THE COMMISSION.
+
+“(a)
+
+Work Plan.—
+
+&emsp;“(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 21, 1998\] and annually thereafter, the Commission shall develop a proposed work plan for Alaska that meets the requirements of paragraph (2) and submit that plan to the Federal Cochairperson for review in accordance with the requirements of subsection (b).
+
+&emsp;“(2)
+
+Work plan.—In developing the work plan, the Commission shall—
+
+&emsp;&emsp;“(A) solicit project proposals from local governments and other entities and organizations; and
+
+&emsp;&emsp;“(B) provide for a comprehensive work plan for rural and infrastructure development and necessary job training in the area covered under the work plan.
+
+&emsp;“(3)
+
+Report.—Upon completion of a work plan under this subsection, the Commission shall prepare, and submit to the Secretary, the Federal Cochairperson, and the Director of the Office of Management and Budget, a report that outlines the work plan and contains recommendations for funding priorities.
+
+“(b)
+
+Review by Federal Cochairperson.—
+
+&emsp;“(1)
+
+In general.—Upon receiving a work plan under this section, the Secretary, acting through the Federal Cochairperson, shall publish the work plan in the Federal Register, with notice and an opportunity for public comment. The period for public review and comment shall be the 30-day period beginning on the date of publication of that notice.
+
+&emsp;“(2)
+
+Criteria for review.—In conducting a review under paragraph (1), the Secretary, acting through the Federal Cochairperson, shall—
+
+&emsp;&emsp;“(A) take into consideration the information, views, and comments received from interested parties through the public review and comment process specified in paragraph (1); and
+
+&emsp;&emsp;“(B) consult with appropriate Federal officials in Alaska including but not limited to Bureau of Indian Affairs, Economic Development Administration, and Rural Development Administration.
+
+&emsp;“(3)
+
+Approval.—Not later than 30 days after the end of the period specified in paragraph (1), the Secretary acting through the Federal Cochairperson, shall—
+
+&emsp;&emsp;“(A) approve, disapprove, or partially approve the work plan that is the subject of the review; and
+
+&emsp;&emsp;“(B) issue to the Commission a notice of the approval, disapproval, or partial approval that—
+
+&emsp;&emsp;&emsp;“(i) specifies the reasons for disapproving any portion of the work plan; and
+
+&emsp;&emsp;&emsp;“(ii) if applicable, includes recommendations for revisions to the work plan to make the plan subject to approval.
+
+&emsp;“(4)
+
+Review of disapproval or partial approval.—If the Secretary, acting through the Federal Cochairperson, disapproves or partially approves a work plan, the Federal Cochairperson shall submit that work plan to the Commission for review and revision.
+
+#### “SEC. 305. POWERS OF THE COMMISSION.
+
+“(a)
+
+Information From Federal Agencies.—The Commission may secure directly from any Federal department or agency such information as it considers necessary to carry out the provisions of this Act \[title\]. Upon request of the Federal Cochairperson of the Commission, the head of such department or agency shall furnish such information to the Commission. Agencies must provide the Commission with the requested information in a timely manner. Agencies are not required to provide the Commission any information that is exempt from disclosure by the Freedom of Information Act \[5 U.S.C. 552\]. Agenices \[sic\] may, upon request by the Commission, make services and personnel available to the Commission to carry out the duties of the Commission. To the maximum extent practicable, the Commission shall contract for completion of necesssary \[sic\] work utilizing local firms and labor to minimize costs.
+
+“(b)
+
+Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+“(c)
+
+Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property.
+
+#### “SEC. 306. COMMISSION PERSONNEL MATTERS.
+
+“(a)
+
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
+
+“(b)
+
+Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+
+“(c)
+
+Staff.—
+
+&emsp;“(1)
+
+In general.—The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
+
+&emsp;“(2)
+
+Compensation.—The Chairman of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+
+“(d)
+
+Detail of Government Employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+“(e)
+
+Procurement of Temporary and Intermittent Services.—The Federal Cochairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+
+“(f)
+
+Offices.—The principal office of the Commission shall be located in Alaska, at a location that the Commission shall select.
+
+#### “SEC. 307. SPECIAL FUNCTIONS.
+
+“(a)
+
+Rural Utilities.—In carrying out its functions under this title, the Commission shall as appropriate, provide assistance, seek to avoid duplicating services and assistance, and complement the water and sewer wastewater programs under section 306D of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926d) and section 303 of the Safe Drinking Water Act Amendments of 1996 (33 U.S.C. 1263a).
+
+“(b)
+
+Bulk Fuels.—The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
+
+&emsp;“(1) Federal law, including the Oil Pollution Act of 1990 (104 Stat. 484) \[33 U.S.C. 2701 et seq.\]; or
+
+&emsp;“(2) State law.
+
+#### “SEC. 308. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
+
+“The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Commission.
+
+#### “SEC. 309. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 4 \[304\] under this Act, $20,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003\[.\]
+
+“(b)
+
+Availability.—Any sums appropriated under the authorization contained in this section shall remain available until expended.”
+
+#### Lower Mississippi Delta Development Commission
+
+Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, incorporated by reference and made a part of that public law the provisions of H.R. 5378 and S. 2836, the Lower Mississippi Delta Development Act, as introduced in the House of Representatives on Sept. 26, 1988, and in the Senate on Sept. 27, 1988, known as the “Delta Development Act”, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
+
+Pub. L. 101–161, title II, Nov. 21, 1989, 103 Stat. 969, extended date for submission of the Commission's interim report to Oct. 16, 1989.
+
+#### Public Works Improvement
+
+Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the “Public Works Improvement Act of 1984”, established the National Council on Public Works Improvement, to prepare and submit to the President and Congress reports in 1986, 1987, and 1988 on the state of the Nation's infrastructure. Pursuant to section 109 of Pub. L. 98–501, the Council ceased to exist on Apr. 15, 1988.
+
+#### White House Conference on Balanced National Growth and Economic Development
+
+Title II of Pub. L. 94–487, as amended by Pub. L. 95–31, title II, §§201, 202, May 23, 1977, 91 Stat. 170, provided forcalling of a White House Conference on Balanced National Growth and Economic Development within 18 months of Oct. 12, 1976, set forth powers, functions, membership, etc., of Conference, and required submission to President of a final report within 180 days after calling of Conference, with President to forward recommendations to Congress within 90 days after submission of report.
+
+#### Executive Order No. 11386
+
+Ex. Ord. No. 11386, Dec. 28, 1967, 33 F.R. 5, which related to coordination of activities of regional commissions and Federal Government relating to regional economic development and which established Federal Advisory Council on Regional Economic Development, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Executive Order No. 11422
+
+Ex. Ord. No. 11422, Aug. 15, 1968, 33 F.R. 11739, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which related to Cooperative Area Manpower Planning System, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Executive Order No. 11493
+
+Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
+

@@ -2,7 +2,7 @@
 
 A liquidation made in accordance with section 1500 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by the Customs Service, notwithstanding the filing of a protest, within ninety days from the date on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent. Notice of such reliquidation shall be given or transmitted in the manner prescribed with respect to original liquidations under section 1500(e) of this title.
 
-(June 17, 1930, ch. 497, title IV, §501, 46 Stat. 730; June 25, 1938, ch. 679, §16(b), 52 Stat. 1084; June 25, 1948, ch. 646, §§25, 39, 62 Stat. 990, 992; Aug. 8, 1953, ch. 397, §18(c), 67 Stat. 517; June 2, 1970, Pub. L. 91–271, title II, §205, 84 Stat. 283; Dec. 8, 1993, Pub. L. 103–182, title VI, §639, 107 Stat. 2203.)
+(June 17, 1930, ch. 497, title IV, §501, 46 Stat. 730; June 25, 1938, ch. 679, §16(b), 52 Stat. 1084; June 25, 1948, ch. 646, §§25, 39, 62 Stat. 990, 992; Aug. 8, 1953, ch. 397, §18(c), 67 Stat. 517; Pub. L. 91–271, title II, §205, June 2, 1970, 84 Stat. 283; Pub. L. 103–182, title VI, §639, Dec. 8, 1993, 107 Stat. 2203.)
 
 #### Prior Provisions
 
@@ -48,7 +48,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

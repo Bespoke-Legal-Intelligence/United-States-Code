@@ -2,7 +2,7 @@
 
 Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than five years, or both. If the violation affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(Added July 16, 1952, ch. 879, §18(a), 66 Stat. 722; amended July 11, 1956, ch. 561, 70 Stat. 523; Aug. 9, 1989, Pub. L. 101–73, title IX, §961(j), 103 Stat. 500; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2504(i), 104 Stat. 4861; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(Added July 16, 1952, ch. 879, §18(a), 66 Stat. 722; amended July 11, 1956, ch. 561, 70 Stat. 523; Pub. L. 101–73, title IX, §961(j), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, §2504(i), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 

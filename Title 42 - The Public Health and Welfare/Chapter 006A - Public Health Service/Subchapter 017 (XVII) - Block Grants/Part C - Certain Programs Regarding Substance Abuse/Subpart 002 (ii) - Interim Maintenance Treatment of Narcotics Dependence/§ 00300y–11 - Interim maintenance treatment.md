@@ -32,7 +32,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 #### (1) In general
 
-&emsp;In carrying out the requirement established in subsection (a) of this section, the Secretary shall, after consultation with the National Commission on Acquired Immune Deficiency Syndrome, by regulation issue such conditions for treatment programs to obtain authorization from the Secretary to provide interim maintenance treatment as may be necessary to carry out the purpose described in such subsection. Such conditions shall include conditions for preventing the unauthorized use of methadone.
+&emsp;In carrying out the requirement established in subsection (a) of this section, the Secretaryshall, after consultation with the National Commission on Acquired Immune Deficiency Syndrome, by regulation issue such conditions for treatment programs to obtain authorization from the Secretary to provide interim maintenance treatment as may be necessary to carry out the purpose described in such subsection. Such conditions shall include conditions for preventing the unauthorized use of methadone.
 
 #### (2) Counseling on HIV disease
 
@@ -60,7 +60,7 @@ For purposes of this section:
 
 &emsp;(3) The term “treatment program” means a public or nonprofit private program of treatment for dependence on heroin or other morphine-like drugs.
 
-(July 1, 1944, ch. 373, title XIX, §1976, as added July 10, 1992, Pub. L. 102–321, title II, §204, 106 Stat. 412.)
+(July 1, 1944, ch. 373, title XIX, §1976, as added Pub. L. 102–321, title II, §204, July 10, 1992, 106 Stat. 412.)
 
 #### Prior Provisions
 

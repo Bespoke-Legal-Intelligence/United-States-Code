@@ -2,7 +2,7 @@
 
 #### (a) Utilization of services or facilities of State and local governments
 
-In carrying out the purposes of this chapter, any Federal agency is authorized to accept and utilize the services or facilities of any State or local government, or of any agency, office, or employee thereof, with the consent of such government.
+In carrying out the purposes of this chapter, any Federal agency is authorized to accept andutilize the services or facilities of any State or local government, or of any agency, office, or employee thereof, with the consent of such government.
 
 #### (b) Appointment of temporary personnel, experts, and consultants; acquisition, rental, or hire of equipment, services, materials and supplies
 

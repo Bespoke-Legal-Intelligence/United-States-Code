@@ -8,7 +8,7 @@
 
 (b) A judge or magistrate recalled under this section may exercise all of the powers and duties of the office of judge or magistrate held at the time of retirement, including the ability to serve in any other judicial district to the extent applicable, but may not engage in the practice of law or engage in any other business, occupation, or employment inconsistent with the expeditious, proper, and impartial performance of duties as a judicial officer.
 
-(c) During the 5-year period in which a certification under subsection (a) is in effect, the judge or magistrate involved shall receive, in addition to the annuity provided under the provisions of section 377 of this title or under the applicable provisions of title 5, an amount equal to the difference between that annuity and the current salary of the office to which the judge or magistrate is recalled. The annuity of a bankruptcyjudge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under section 377 of this title shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired.
+(c) During the 5-year period in which a certification under subsection (a) is in effect, the judge or magistrate involved shall receive, in addition to the annuity provided under the provisions of section 377 of this title or under the applicable provisions of title 5, an amount equal to the difference between that annuity and the current salary of the office to which the judge or magistrate is recalled. The annuity of a bankruptcy judge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under section 377 of this title shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired.
 
 (d) A certification under subsection (a) may be terminated in accordance with section 372(c) of this title, and such a certification shall be terminated upon the death of the recalled judge or magistrate involved.
 
@@ -28,7 +28,7 @@ A prior section 375, added Aug. 28, 1954, ch. 1053, §1, 68 Stat. 918; amended A
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–572, §904(a)(1), struck out “, a judge of the Claims Court,” after “A bankruptcy judge” and “, judge of the Claims Court,” after “a bankruptcy judge”.
+1992—Subsec. (a)(1). Pub. L. 102–572, §904(a)(1), struck out “, a judge of the Claims Court,” after “A bankruptcy judge” and “, judge of the Claims Court,” after “a bankruptcy judge”.
 
 Subsec. (a)(2). Pub. L. 102–572, §904(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1) of this subsection, a certification may be made—
 
@@ -44,9 +44,9 @@ Subsec. (a)(3). Pub. L. 102–572, §904(a)(3), amended par. (3) generally. Prio
 
 Subsec. (f). Pub. L. 102–572, §904(a)(4), struck out “, a judge of the Claims Court,” after “bankruptcy judge” and “, a commissioner of the Court of Claims,” after “referee in bankruptcy”.
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–650 substituted “section 377 of this title” for “section 377 of title”.
+1990—Subsec. (a)(1). Pub. L. 101–650 substituted “section 377 of this title” for “section 377 of title”.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–659, §4(b)(1), inserted “under the provisions of section 377 of title or” after “has retired”.
+1988—Subsec. (a)(1). Pub. L. 100–659, §4(b)(1), inserted “under the provisions of section 377 of title or” after “has retired”.
 
 Subsec. (c). Pub. L. 100–659, §4(b)(2), inserted “under the provisions of section 377 of this title or” after “annuity provided” and inserted at end “The annuity of a bankruptcy judge or magistrate who completes that 5-year period of service, whose certification is not renewed, and who retired under section 377 of this title shall be equal to the salary in effect, at the end of that 5-year period, for the office from which he or she retired.”
 

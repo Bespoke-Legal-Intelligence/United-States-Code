@@ -98,7 +98,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;(B) submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report containing—
 
-&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity ofany recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
+&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity of any recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
 
 &emsp;&emsp;&emsp;(ii) a description of the munitions items involved in the proposed transaction (including their market value) and the actual sale price at each step in the transaction (or if the items are transferred by other than sale, the manner in which they will be provided);
 

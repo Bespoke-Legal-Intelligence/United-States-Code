@@ -2,7 +2,7 @@
 
 (a) There is in the Department a Board of Veterans’ Appeals (hereafter in this chapter referred to as the “Board”). The Board is under the administrative control and supervision of a chairman directly responsible to the Secretary. The Board shall consist of a Chairman, a Vice Chairman, and such number of members as may be found necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have such other professional, administrative, clerical, and stenographic personnel as are necessary in conducting hearings and considering and disposing of appeals properly before the Board. The Board shall have sufficient personnel under the preceding sentence to enable the Board to conduct hearings and consider and dispose of appeals properly before the Board in a timely manner.
 
-(b)(1) The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, for a term of six years. The Chairman shall be subject to the same ethical and legal limitations and restrictions concerning involvement in political activities as apply to judges of the United States Court of Veterans Appeals.
+(b)(1) The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, for a term of six years. The Chairman shall be subject to the same ethical and legal limitations and restrictions concerning involvement in political activities as apply to judges of the United States Court of Appeals for Veterans Claims.
 
 (2) The Chairman may be removed by the President for misconduct, inefficiency, neglect of duty, or engaging in the practice of law or for physical or mental disability which, in the opinion of the President, prevents the proper execution of the Chairman's duties. The Chairman may not be removed from office by the President on any other grounds. Any such removal may only be made after notice and opportunity for hearing.
 
@@ -12,7 +12,7 @@
 
 (c)(1)(A) The Chairman may from time to time designate one or more employees of the Department to serve as acting members of the Board. Except as provided in subparagraph (B), any such designation shall be for a period not to exceed 90 days, as determined by the Chairman.
 
-(B) An individual designated as an acting member of the Board may continue to serve as an acting member of the Board in the making of any determination on a proceeding for which the individual was designated as an acting member of the Board, notwithstanding the terminationof the period of designation of the individual as an acting member of the Board under subparagraph (A) or (C).
+(B) An individual designated as an acting member of the Board may continue to serve as an acting member of the Board in the making of any determination on a proceeding for which the individual was designated as an acting member of the Board, notwithstanding the termination of the period of designation of the individual as an acting member of the Board under subparagraph (A) or (C).
 
 (C) An individual may not serve as an acting member of the Board for more than 270 days during any one-year period.
 
@@ -44,9 +44,11 @@
 
 (e) A performance incentive that is authorized by law for officers and employees of the Federal Government may be awarded to a member of the Board (including an acting member) by reason of that member's service on the Board only if the Chairman of the Board determines that such member should be awarded that incentive. A determination by the Chairman for such purpose shall be made taking into consideration the quality of performance of the Board member.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1240, §4001; Pub. L. 98–223, title II, §208(a)–(c), Mar. 2, 1984, 98 Stat. 43, 44; Pub. L. 100–687, div. A, title II, §§201(a), 202(b), 208, 209, Nov. 18, 1988, 102 Stat. 4109, 4110, 4112; renumbered §7101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 402, 404, 405; Pub. L. 103–271, §§2–5, July 1, 1994, 108 Stat. 740, 741; Pub. L. 103–446, title II, §§201(d), 203, Nov. 2, 1994, 108 Stat. 4657.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1240, §4001; Pub. L. 98–223, title II, §208(a)–(c), Mar. 2, 1984, 98 Stat. 43, 44; Pub. L. 100–687, div. A, title II, §§201(a), 202(b), 208, 209, Nov. 18, 1988, 102 Stat. 4109, 4110, 4112; renumbered §7101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 402, 404, 405; Pub. L. 103–271, §§2–5, July 1, 1994, 108 Stat. 740, 741; Pub. L. 103–446, title II, §§201(d), 203, Nov. 2, 1994, 108 Stat. 4657; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
 1994—Subsec. (a). Pub. L. 103–271, §2, struck out “(not more than 65)” after “such number”.
 
@@ -62,7 +64,7 @@ Subsec. (b)(3). Pub. L. 103–446, §§201(d)(3), 203, substituted “The Chairm
 
 Subsec. (c)(1). Pub. L. 103–271, §4(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (2) of this subsection, the Chairman may from time to time designate employees of the Department to serve as temporary members of the Board. Any such designation shall be for a period of not to exceed one year, as determined by the Chairman. An individual may not serve as a temporary member of the Board for more than 24 months during any 48-month period.”
 
-Subsec. (c)(2), (3). Pub. L. 103–271, §4(a)(2)–(4), redesignated par. (3) as (2), substituted “the number of acting members of the Board designated under such paragraph (1) during the year for which the report is made.” for “the number of temporary Board members designated under this subsection and the number of acting Boardmembers designated under section 7102(a)(2)(A)(ii) of this title during the year for which the report is made.”, and struck out former par. (2) which read as follows: “Designation under paragraph (1) of this subsection of an individual as a temporary member of the Board may not be made when there are fewer than 65 members of the Board.”
+Subsec. (c)(2), (3). Pub. L. 103–271, §4(a)(2)–(4), redesignated par. (3) as (2), substituted “the number of acting members of the Board designated under such paragraph (1) during the year for which the report is made.” for “the number of temporary Board members designated under this subsection and the number of acting Board members designated under section 7102(a)(2)(A)(ii) of this title during the year for which the report is made.”, and struck out former par. (2) which read as follows: “Designation under paragraph (1) of this subsection of an individual as a temporary member of the Board may not be made when there are fewer than 65 members of the Board.”
 
 Subsec. (d)(2)(F). Pub. L. 103–271, §5, added subpar. (F).
 
@@ -105,6 +107,10 @@ Subsec. (e). Pub. L. 100–687, §209, added subsec. (e).
 1984—Subsec. (a). Pub. L. 98–223, §208(a), (c), substituted “65” for “fifty” and struck out “associate” before “members”.
 
 Subsec. (c). Pub. L. 98–223, §208(b), added subsec. (c).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
 #### Effective Date of 1988 Amendment
 

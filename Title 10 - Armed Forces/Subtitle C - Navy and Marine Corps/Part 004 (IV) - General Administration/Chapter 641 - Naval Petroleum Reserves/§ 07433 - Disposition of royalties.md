@@ -4,7 +4,7 @@
 
 (b) All money accruing to the United States from lands in the naval petroleum reserves shall be covered into the Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Oct. 11, 1962, Pub. L. 87–796, §1(9), 76 Stat. 905; Apr. 5, 1976, Pub. L. 94–258, title II, §201(14), (15), 90 Stat. 313.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461; Pub. L. 87–796, §1(9), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(14), (15), Apr. 5, 1976, 90 Stat. 313.)
 
 Historical and Revision Notes
 

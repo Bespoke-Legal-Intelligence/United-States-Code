@@ -2,17 +2,17 @@
 
 (a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Transportation, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
 
-(b)(1) Except as provided in paragraph (2) and subsections (d) through (f), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
+(b)(1) Except as provided <sup>1</sup> subsections (d) through (f), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
 
-&emsp;(A) $190 per month for each month of full-time pursuit of a program of education;
+&emsp;(A) $251 (as increased from time to time under paragraph (2)) per month for each month of full-time pursuit of a program of education;
 
-&emsp;(B) $143 per month for each month of three-quarter-time pursuit of a program of education;
+&emsp;(B) $188 (as increased from time to time under paragraph (2)) per month for each month of three-quarter-time pursuit of a program of education;
 
-&emsp;(C) $95 per month for each month of half-time pursuit of a program of education; and
+&emsp;(C) $125 (as increased from time to time under paragraph (2)) per month for each month of half-time pursuit of a program of education; and
 
 &emsp;(D) an appropriately reduced rate, as determined under regulations which the Secretary of Veterans Affairs shall prescribe, for each month of less than half-time pursuit of a program of education, except that no payment may be made to a person for less than half-time pursuit if tuition assistance is otherwise available to the person for such pursuit from the military department concerned.
 
-(2) With respect to any fiscal year beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
+(2) With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which—
 
 &emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
@@ -84,7 +84,7 @@
 
 (B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
 
-(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
+(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall bein addition to the amount of educational assistance allowance payable to a person under this chapter.
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
@@ -106,9 +106,19 @@
 
 (3) The authority provided by paragraphs (1) and (2) shall be exercised by the Secretaries concerned under regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494.)
 
 #### Amendments
+
+1998—Subsec. (b)(1). Pub. L. 105–178, §8203(b)(3), struck out “in paragraph (2) and” after “Except as provided” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 105–178, §8203(b)(1)(A), substituted “$251 (as increased from time to time under paragraph (2))” for “$190”.
+
+Subsec. (b)(1)(B). Pub. L. 105–178, §8203(b)(1)(B), substituted “$188 (as increased from time to time under paragraph (2))” for “$143”.
+
+Subsec. (b)(1)(C). Pub. L. 105–178, §8203(b)(1)(C), substituted “$125 (as increased from time to time under paragraph (2))” for “$95”.
+
+Subsec. (b)(2). Pub. L. 105–178, §8203(b)(2), in introductory provisions, substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
 
 1997—Subsec. (c)(3)(B)(i). Pub. L. 105–85 struck out “, in connection with the Persian Gulf War,” after “being ordered”.
 
@@ -190,6 +200,10 @@ Subsec. (d). Pub. L. 96–513, §511(68)(C), substituted “Secretary of Educati
 
 1979—Subsec. (b)(1). Pub. L. 96–107 substituted “100 percent” for “50 percent”.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–178, title VIII, §8203(b)(4), June 9, 1998, 112 Stat. 494, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998. However, no adjustment in rates of educational assistance shall be made under paragraph (2) of section 16131(b) of title 10, United States Code, as amended by paragraph (2), for fiscal year 1999.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -231,4 +245,6 @@ Section 12009(c) of Pub. L. 103–66 provided that: “The fiscal year 1995 cost
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2131, 16132, 16135 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “provided in”.</i>
 

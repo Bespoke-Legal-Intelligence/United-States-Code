@@ -16,7 +16,7 @@
 
 (d) Subject to section 1743 of this title, the payment of per diem for care furnished in a State home facility shall commence on the date of the completion of the inspection for recognition of the facility under section 1742(a) of this title if the Secretary determines, as a result of that inspection, that the State home meets the standards described in such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196;Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(<i>o</i>), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, §1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, §3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, §1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, §1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, §403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, §1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, §202(<i>o</i>), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, §101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, §105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, §134(a), May 20, 1988, 102 Stat. 507; renumbered §1741 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, §406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, §1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, §342(a), Oct. 9, 1996, 110 Stat. 3206.)
 
 #### Prior Provisions
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 98–160, §105(a)(2), added subsec. (c).
 
 1976—Pub. L. 94–581 struck out “of any war or of service after January 31, 1955” after “for each veteran” in provisions following par. (3).
 
-Pub. L. 94–417 designated existing provisions as subsec. (a), increased from $4.50 to $5.50 the per diem rate for domiciliary care, from $6 to $10.50 the per diem rate for nursing home care, and from $10 to $11.50 the per diem rate for hospital care, struck out “of any war or of service after January 31, 1955” after “for each veteran”, “, in the case of such a veteran receiving domiciliary or hospital care,” after “if”, and provisions relating to the case of a veteran receiving nursing home care, and added subsec. (b).
+Pub. L. 94–417 designated existing provisions as subsec. (a), increased from $4.50 to $5.50 the per diem ratefor domiciliary care, from $6 to $10.50 the per diem rate for nursing home care, and from $10 to $11.50 the per diem rate for hospital care, struck out “of any war or of service after January 31, 1955” after “for each veteran”, “, in the case of such a veteran receiving domiciliary or hospital care,” after “if”, and provisions relating to the case of a veteran receiving nursing home care, and added subsec. (b).
 
 1973—Pub. L. 93–82 increased from $3.50 to $4.50 the per diem rate for domiciliary care, from $5 to $6 the per diem rate for nursing home care, and from $7.50 to $10 the per diem rate for hospital care, and substituted “veteran of any war or of service after January 31, 1955” for “veteran of any war”.
 
@@ -104,7 +104,7 @@ Section 1(c) of Pub. L. 94–417 provided that:
 
 “(1) The amendments made by subsection (a) of this section \[amending this section\] shall be effective on October 1, 1976.
 
-“(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, as amended by subsection (a) of this section, the Administrator of Veterans’ Affairs shall pay such State, in alump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection (a) of this section had been effective on January 1, 1976.”
+“(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, as amended by subsection (a) of this section, the Administrator of Veterans’ Affairs shall pay such State, in a lump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection (a) of this section had been effective on January 1, 1976.”
 
 #### Effective Date of 1973 Amendment
 
@@ -120,5 +120,5 @@ Section 3(b) of Pub. L. 88–450 provided that: “No payment shall be made to a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2303, 5503, 8122, 8126 of this title; title 42 section 1396r–8.
+This section is referred to in sections 2303, 5503, 8122, 8126 of this title; title 42 sections 1396a, 1396r–8.
 

@@ -20,7 +20,7 @@ Benefits payable under this section shall be paid on a monthly basis and, except
 
 No payment of benefits shall be required under this section:
 
-&emsp;(1) except pursuant to a claim filed therefor in such manner, in such form, and containing such information, as the Secretary shall by regulation prescribe; or
+&emsp;(1) except pursuant to a claim filed therefor in such manner, in such form, and containingsuch information, as the Secretary shall by regulation prescribe; or
 
 &emsp;(2) for any period prior to January 1, 1974.
 
@@ -80,7 +80,7 @@ In no case shall the eligible survivors of a miner who was determined to be elig
 
 Section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, referred to in subsec. (a), is section 28(h)(1) of Pub. L. 98–426, which is set out as a note under section 907 of Title 33, Navigation and Navigable Waters.
 
-Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended,popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-554, §8(a), Sept. 6, 1966, 80 Stat. 647.
 

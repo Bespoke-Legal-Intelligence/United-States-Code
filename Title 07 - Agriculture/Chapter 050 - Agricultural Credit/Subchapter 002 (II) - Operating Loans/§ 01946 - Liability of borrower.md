@@ -30,11 +30,11 @@ Loans made under this subchapter shall be payable in not to exceed seven years. 
 
 #### (3) Eligibility
 
-&emsp;For purposes of determining eligibility for a farm operating loan under this subchapter, each year during which a farmer or rancher takes an advance or draws on a line-of-credit loan the farmer or rancher shall be considered to have received an operating loan for 1 year.
+&emsp;For purposes of determining eligibility for a farm operating loan under this subchapter,each year during which a farmer or rancher takes an advance or draws on a line-of-credit loan the farmer or rancher shall be considered to have received an operating loan for 1 year.
 
 #### (4) Termination of delinquent loans
 
-&emsp;If a borrower does not pay an installment on a line-of-credit loan on schedule, the borrowermay not take an advance or draw on the line-of-credit, unless the Secretary determines that—
+&emsp;If a borrower does not pay an installment on a line-of-credit loan on schedule, the borrower may not take an advance or draw on the line-of-credit, unless the Secretary determines that—
 
 &emsp;&emsp;(A) the borrower's failure to pay on schedule was due to unusual conditions that the borrower could not control; and
 

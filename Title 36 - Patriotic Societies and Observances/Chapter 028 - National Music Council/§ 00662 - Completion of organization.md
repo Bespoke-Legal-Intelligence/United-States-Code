@@ -1,6 +1,0 @@
-### §662. Completion of organization
-
-A majority of the persons named in section 661 of this title, or their successors, are hereby authorized to meet to complete the organization of the Corporation by the adoption of a constitution and bylaws, by the election of officers, and by doing all things necessary to carry into effect the provisions of this chapter.
-
-(Aug. 1, 1956, ch. 824, §2, 70 Stat. 795.)
-

@@ -52,7 +52,7 @@ The Democracy Corps shall be required to—
 
 #### (g) Prohibition on campaign financing
 
-Funds made available to the Democracy Corps under this section may not be expended by the Democracy Corps, or any recipient of a grant from the Democracy Corps, to finance the campaigns of candidates for public office.
+Funds made available to the Democracy Corps under this section may not be expended by theDemocracy Corps, or any recipient of a grant from the Democracy Corps, to finance the campaigns of candidates for public office.
 
 #### (h) Freedom of information
 

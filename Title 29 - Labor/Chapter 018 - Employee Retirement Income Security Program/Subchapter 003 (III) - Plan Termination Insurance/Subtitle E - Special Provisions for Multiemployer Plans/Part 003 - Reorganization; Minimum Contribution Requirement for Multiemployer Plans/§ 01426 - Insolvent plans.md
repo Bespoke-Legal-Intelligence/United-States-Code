@@ -28,7 +28,7 @@ For purposes of this section, for a plan year—
 
 (B) For purposes of this paragraph, the term “excess resources” means available resources above the amount necessary to support the resource benefit level, but no greater than the amount necessary to pay benefits for the plan year at the benefit levels under the plan.
 
-(5) If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary of the Treasury, to the extent possible taking into account the plan's total available resources in that insolvency year.
+(5) If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to theparticipants and beneficiaries, in accordance with regulations prescribed by the Secretary of the Treasury, to the extent possible taking into account the plan's total available resources in that insolvency year.
 
 (6) Except as provided in paragraph (4) or (5), a plan is not required to make retroactive benefit payments with respect to that portion of a benefit which was suspended under this section.
 

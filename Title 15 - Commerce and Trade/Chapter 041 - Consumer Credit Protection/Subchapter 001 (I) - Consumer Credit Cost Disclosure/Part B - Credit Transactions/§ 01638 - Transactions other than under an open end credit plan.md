@@ -26,7 +26,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(3) The “finance charge”, not itemized, using that term.
 
-&emsp;(4) The finance charge expressed as an “annual percentage rate”, using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financed exceeds $75 and the finance charge does not exceed $7.50.
+&emsp;(4) The finance charge expressed as an “annual percentage rate”, using that term. This shall not be required if the amount financeddoes not exceed $75 and the finance charge does not exceed $5, or if the amount financed exceeds $75 and the finance charge does not exceed $7.50.
 
 &emsp;(5) The sum of the amount financed and the finance charge, which shall be termed the “total of payments”.
 
@@ -46,7 +46,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(13) In any residential mortgage transaction, a statement indicating whether a subsequent purchaser or assignee of the consumer may assume the debt obligation on its original terms and conditions.
 
-&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Board for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determinedby the Board, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
+&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Board for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Board, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
 
 #### (b) Form and timing of disclosures; residential mortgage transaction requirements
 
@@ -62,7 +62,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 #### (d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance
 
-If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
+If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no securityinterest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
 (Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402.)
 

@@ -22,7 +22,7 @@ The functions of each United States Agricultural Trade Office shall be to—
 
 &emsp;(10) perform such other functions as the Secretary of Agriculture, in consultation with the Secretary of State, determines to be necessary and proper for achieving the purposes of this subchapter.
 
-(Aug. 28, 1954, ch. 1041, title VI, §605B, as added Oct. 21, 1978, Pub. L. 95–501, title IV, §401(1), 92 Stat. 1689.)
+(Aug. 28, 1954, ch. 1041, title VI, §605B, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1689.)
 
 #### References in Text
 

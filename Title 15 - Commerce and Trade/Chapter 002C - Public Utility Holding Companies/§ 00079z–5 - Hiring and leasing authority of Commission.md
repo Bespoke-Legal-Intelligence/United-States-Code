@@ -6,7 +6,7 @@ The provisions of section 78d(b) of this title shall be applicable with respect 
 
 &emsp;(2) to lease and allocate such real property as may be necessary for carrying out its functions under this chapter.
 
-(Aug. 26, 1935, ch. 687, title I, §31, 49 Stat. 837; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Nov. 15, 1990, Pub. L. 101–550, title I, §104(a), 104 Stat. 2713.)
+(Aug. 26, 1935, ch. 687, title I, §31, 49 Stat. 837; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 101–550, title I, §104(a), Nov. 15, 1990, 104 Stat. 2713.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) the consumption of mineral fuels, nonmineral energy resources, and electricity by such classes, sectors, and regions as may be appropriate for the purposes of this chapter;
 
-&emsp;(3) the sensitivity of energy resource reserves, exploration, development, production, transportation, and consumption to economic factors, environmental constraints, technological improvements, and substitutability of alternate energy sources;
+&emsp;(3) the sensitivity of energy resource reserves, exploration, development, production, transportation, and consumption to economicfactors, environmental constraints, technological improvements, and substitutability of alternate energy sources;
 
 &emsp;(4) the comparability of energy information and statistics that are supplied by different sources;
 

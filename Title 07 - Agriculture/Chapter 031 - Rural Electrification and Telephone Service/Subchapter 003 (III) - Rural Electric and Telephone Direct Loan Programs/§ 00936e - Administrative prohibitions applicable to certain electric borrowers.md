@@ -16,7 +16,7 @@ In issuing regulations implementing this section, the Secretary may establish re
 
 Nothing in this section limits the authority of the Secretary to establish terms and conditions with respect to the use by borrowers of the proceeds of loans made or guaranteed under this chapter or to take any other action specifically authorized by law.
 
-(May 20, 1936, ch. 432, title III, §306E, as added Nov. 1, 1993, Pub. L. 103–129, §2(c)(7), 107 Stat. 1365; amended Dec. 17, 1993, Pub. L. 103–201, §1, 107 Stat. 2342; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(8), (13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §306E, as added Pub. L. 103–129, §2(c)(7), Nov. 1, 1993, 107 Stat. 1365; amended Pub. L. 103–201, §1, Dec. 17, 1993, 107 Stat. 2342; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

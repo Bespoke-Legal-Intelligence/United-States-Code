@@ -14,7 +14,7 @@ The Secretary of the Interior is authorized subject to the following conditions 
 
 (f) Notice of the establishment of the park as authorized and prescribed by this section and section 398 of this title shall be published in the Federal Register.
 
-(Aug. 2, 1956, ch. 885, §2, 70 Stat. 940; Aug. 18, 1978, Pub. L. 95–348, §7(b)(6), 92 Stat. 495.)
+(Aug. 2, 1956, ch. 885, §2, 70 Stat. 940; Pub. L. 95–348, §7(b)(6), Aug. 18, 1978, 92 Stat. 495.)
 
 #### Amendments
 

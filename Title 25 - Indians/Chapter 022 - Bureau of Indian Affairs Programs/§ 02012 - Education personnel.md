@@ -80,7 +80,7 @@ Not later than the effective date of subsection (a)(2) of this section, the Secr
 
 &emsp;(C) educators employed in Bureau schools shall be notified 60 days prior to the end of the school year whether their employment contract will be renewed for the following year.
 
-(2) The supervisor of a Bureau school may discharge (subject to procedures established under paragraph (1)(B)) for cause (as determined under regulations prescribed by the Secretary) any educator employed in such school. Upon giving notice of proposed discharge to an educator, the supervisor involved shall immediately notify the local school board for the school of such action. A determination by the local school board that such educator shall not be discharged shall be followed by the supervisor. The supervisor shall have the right to appeal such action to the education line officer of the appropriate agency office of the Bureau. Upon such an appeal, the agency education line officer may, for good cause and in writing to the local school board, overturn the determination of the local school board with respect to the employment of such individual.
+(2) The supervisor of a Bureau school may discharge (subject to procedures established under paragraph (1)(B)) for cause (as determined under regulations prescribed by the Secretary) any educator employed in such school. Upon giving notice of proposed discharge to an educator, the supervisor involved shall immediately notify the local school board for the school of such action. A determination by the local school board that such educator shall not be discharged shall befollowed by the supervisor. The supervisor shall have the right to appeal such action to the education line officer of the appropriate agency office of the Bureau. Upon such an appeal, the agency education line officer may, for good cause and in writing to the local school board, overturn the determination of the local school board with respect to the employment of such individual.
 
 (3) Each local school board for a Bureau school shall have the right—
 
@@ -122,7 +122,7 @@ Subject to the authority of the Office of Personnel Management to determine fina
 
 (ii) Any individual described in clause (i) may, during the 5-year period beginning on the date on which the Secretary establishes rates of basic compensation and annual salary rates under subparagraph (B), make an irrevocable election to have the basic compensation rate or annual salary rate of such individual determined in accordance with this paragraph.
 
-(iii) If an individual makes the election described in clause (ii), such election shall not affect the application to the individual of the same retirement system and leave system that applies to the individual during the fiscal year preceding the fiscal year in which such election is made, except that the individual must use leave accrued during a contract period by the end of that contract period.
+(iii) If an individual makes the election described in clause (ii), such election shall not affect the application to the individual of the same retirement system and leave system that applies to the individual during the fiscal year preceding the fiscal year in which such electionis made, except that the individual must use leave accrued during a contract period by the end of that contract period.
 
 (F) The President shall include with the budget submitted under section 1105 of title 31 for each of the fiscal years 1990, 1991, and 1992 a written statement by the Secretary which specifies—
 
@@ -148,8 +148,6 @@ Subject to the authority of the Office of Personnel Management to determine fina
 
 &emsp;(II) the Secretary or the supervisor determines for clear and convincing reasons (and advises the board in writing of those reasons) that there is no disparity of compensation that would affect the recruitment or retention of employees at the school after the differential is discontinued or decreased.
 
-(iv) On or before February 1 of each year, the Secretary shall submit to Congress a report describing the requests and grants of authority under this subparagraph during the previous fiscal year and listing the positions contracted under those grants of authority.
-
 #### (i) Annual and sick leave
 
 Any individual—
@@ -166,7 +164,7 @@ Upon termination of employment with the Bureau, any annual leave remaining to th
 
 #### (k) Transfer of remaining leave upon transfer, promotion, or reemployment
 
-In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Governmentunder a different leave system, any remaining leave to the credit of such person earned or credited under the regulations prescribed pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be prescribed by the Office of Personnel Management.
+In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations prescribed pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be prescribed by the Office of Personnel Management.
 
 #### (<i>l</i>) Ineligibility for employment of voluntarily terminated educators
 
@@ -220,9 +218,9 @@ For the purpose of this section—
 
 &emsp;&emsp;(ii) such educators are selected based upon such educator's qualifications, after public notice of the minimum qualifications reasonably necessary and without discrimination as to supervisory, nonsupervisory, or other status of the educators who apply.
 
-(2) The supervisor of a Bureau school may appeal to the appropriate agency education line officer any refusal by the local school board to approve any determination of the supervisor that is described in paragraph (1)(A) by filing a written statement describing the determination and the reasons the supervisor believes such determination should be approved. A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal. After reviewing such written appeal and response, the education line officer may, for good cause, approve the determination of the supervisor. The educational line officer shall transmit the determination of such appeal in the form ofa written opinion to such local school board and to the supervisor identifying the reasons for approving such determination.
+(2) The supervisor of a Bureau school may appeal to the appropriate agency education line officer any refusal by the local school board to approve any determination of the supervisor that is described in paragraph (1)(A) by filing a written statement describing the determination and the reasons the supervisor believes such determination should be approved. A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal. After reviewing such written appeal and response, the education line officer may, for good cause, approve the determination of the supervisor. The educational line officer shall transmit the determination of such appeal in the form of a written opinion to such local school board and to the supervisor identifying the reasons for approving such determination.
 
-(Pub. L. 95–561, title XI, §1132, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4002.)
+(Pub. L. 95–561, title XI, §1132, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4002; amended Pub. L. 105–362, title VIII, §801(c)(3), Nov. 10, 1998, 112 Stat. 3288.)
 
 #### References in Text
 
@@ -246,6 +244,10 @@ In subsecs. (a)(2) and (i)(1), “November 1, 1978” substituted for “the dat
 
 A prior section 2012, Pub. L. 95–561, title XI, §1132, Nov. 1, 1978, 92 Stat. 2326; Pub. L. 96–46, §2(b)(9), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, §508, Oct. 19, 1984, 98 Stat. 2397, related to establishment of a computerized management information system, prior to the general amendment of this chapter by Pub. L. 103–382.
 
+#### Amendments
+
+1998—Subsec. (h)(3)(B)(iv). Pub. L. 105–362 struck out cl. (iv) which read as follows: “On or before February 1 of each year, the Secretary shall submit to Congress a report describing the requests and grants of authority under this subparagraph during the previous fiscal year and listing the positions contracted under those grants of authority.”
+
 #### Adjustments to Rates of Basic Compensation or Annual Salary Rates for Education Positions
 
 Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–193, provided in part: “That in fiscal year 1997 and thereafter, notwithstanding the provisions of 25 U.S.C. 2012(h)(1)(A) and (B), upon the recommendation of either (i) a local school board and school supervisor for an education position in a Bureau of Indian Affairs operated school, or (ii) an Agency school board and education line officer for an Agency education position, the Secretary shall establish adjustments to the rates of basic compensation or annual salary rates established under 25 U.S.C. 2012(h)(1)(A) and (B) for education positions at the school or the Agency, at a level not less than that for comparable positions in the nearest public school district, and the adjustment shall be deemed to be a change to basic pay and shall not be subject to collective bargaining: <i>Provided further</i>, That any reduction to rates of basic compensation or annual salary rates below the rates established under 25 U.S.C. 2012(h)(1)(A) and (B) shall apply only to educators appointed after June 30, 1997, and shall not affect the right of an individual employed on June 30, 1997, in an education position, to receive the compensation attached to such position under 25 U.S.C. 2012(h)(1)(A) and (B) so long as the individual remains in the same position at the same school”.
@@ -262,7 +264,7 @@ Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 St
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2019, 2021, 2022 of this title.
+This section is referred to in sections 2021, 2022 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

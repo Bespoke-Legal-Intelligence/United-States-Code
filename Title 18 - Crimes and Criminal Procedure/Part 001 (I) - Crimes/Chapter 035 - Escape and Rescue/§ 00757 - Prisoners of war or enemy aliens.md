@@ -1,10 +1,10 @@
 ### §757. Prisoners of war or enemy aliens
 
-Whoever procures the escape of any prisoner of war held by the United States or any of its allies, or the escape of any person apprehended or interned as an enemy alien by the United States or any of its allies, or advises, connives at, aids, or assists in such escape, or aids, relieves, transports, harbors, conceals, shelters, protects, holds correspondence with, gives intelligence to, or otherwise assists any such prisoner of war or enemy alien, after his escape from custody,knowing him to be such prisoner of war or enemy alien, or attempts to commit or conspires to commit any of the above acts, shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever procures the escape of any prisoner of war held by the United States or any of its allies, or the escape of any person apprehended or interned as an enemy alien by the United States or any of its allies, or advises, connives at, aids, or assists in such escape, or aids, relieves, transports, harbors, conceals, shelters, protects, holds correspondence with, gives intelligence to, or otherwise assists any such prisoner of war or enemy alien, after his escape from custody, knowing him to be such prisoner of war or enemy alien, or attempts to commit or conspires to commit any of the above acts, shall be fined under this title or imprisoned not more than ten years, or both.
 
 The provisions of this section shall be in addition to and not in substitution for any other provision of law.
 
-(June 25, 1948, ch. 645, 62 Stat. 735; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 735; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

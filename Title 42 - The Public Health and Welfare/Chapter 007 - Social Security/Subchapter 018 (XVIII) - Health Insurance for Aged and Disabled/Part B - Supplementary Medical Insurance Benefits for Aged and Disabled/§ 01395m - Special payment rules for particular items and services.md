@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(ii) the national limited payment amount for an item or device for a year is equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) for 1991, the local payment amount determined under clause (i) for such item or device for that year, except that the national limited payment amount may not exceed 100 percent of the weighted average of all local payment amounts determined under such clause for such item for that year and may not be less than 85 percent of the weighted average of all local payment amounts determined under such clause for such item,
+&emsp;&emsp;&emsp;&emsp;(I) for 1991, the local payment amount determined under clause (i) for such item or device for that year, except that the national limited payment amount may not exceed 100 percent of the weighted average of all local payment amounts determined under such clause for such item for that year and may not be less than 85 percent of the weighted average of alllocal payment amounts determined under such clause for such item,
 
 &emsp;&emsp;&emsp;&emsp;(II) for 1992 and 1993, the amount determined under this clause for the preceding year increased by the covered item update for such subsequent year,
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;Each carrier under this section shall compute a base local payment rate for each item as follows:
 
-&emsp;&emsp;&emsp;(i) The carrier shall compute a base local average monthly payment rate per beneficiary as an amount equal to (I) the totalreasonable charges for the item during the 12-month period ending with December 1986, divided by (II) the total number of months for all beneficiaries receiving the item in the area during the 12-month period for which the carrier made payment for the item under this subchapter.
+&emsp;&emsp;&emsp;(i) The carrier shall compute a base local average monthly payment rate per beneficiary as an amount equal to (I) the total reasonable charges for the item during the 12-month period ending with December 1986, divided by (II) the total number of months for all beneficiaries receiving the item in the area during the 12-month period for which the carrier made payment for the item under this subchapter.
 
 &emsp;&emsp;&emsp;(ii) The carrier shall compute a local average monthly payment rate for the item applicable—
 
@@ -314,7 +314,7 @@
 
 #### (A) Improper billing for certain rental items
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter, a supplier of a covered itemfor which payment is made under this subsection and which is furnished on a rental basis shall continue to supply the item without charge (other than a charge provided under this subsection for the maintenance and servicing of the item) after rental payments may no longer be made under this subsection. If a supplier knowingly and willfully violates the previous sentence, the Secretary may apply sanctions against the supplier under section 1395u(j)(2) of this title in the same manner such sanctions may apply with respect to a physician.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter, a supplier of a covered item for which payment is made under this subsection and which is furnished on a rental basis shall continue to supply the item without charge (other than a charge provided under this subsection for the maintenance and servicing of the item) after rental payments may no longer be made under this subsection. If a supplier knowingly and willfully violates the previous sentence, the Secretary may apply sanctions against the supplier under section 1395u(j)(2) of this title in the same manner such sanctions may apply with respect to a physician.
 
 #### (B) Requirement of physician order
 
@@ -326,7 +326,7 @@
 
 #### (13) “Covered item” defined
 
-&emsp;In this subsection, the term “covered item” means durable medical equipment (as defined in section 1395x(n) of this title), including such equipment described in section 1395x(m)(5) of this title).<sup>2</sup>
+&emsp;In this subsection, the term “covered item” means durable medical equipment (as definedin section 1395x(n) of this title), including such equipment described in section 1395x(m)(5) of this title).<sup>2</sup>
 
 #### (14) Covered item update
 
@@ -376,7 +376,7 @@
 
 &emsp;&emsp;(B) with a surety bond in a form specified by the Secretary and in an amount that is not less than $50,000.
 
-> &emsp;The Secretary may waive the requirement of a bond under subparagraph (B) in the case of a supplier that provides a comparable surety bond under State law. The Secretary, at the Secretary's discretion, may impose the requirements of the first sentence with respectto some or all providers of items or services under part A of this subchapter or some or all suppliers or other persons (other than physicians or other practitioners, as defined in section 1395u(b)(18)(C) of this title) who furnish items or services under this part.
+> &emsp;The Secretary may waive the requirement of a bond under subparagraph (B) in the case of a supplier that provides a comparable surety bond under State law. The Secretary, at the Secretary's discretion, may impose the requirements of the first sentence with respect to some or all providers of items or services under part A of this subchapter or some or all suppliers or other persons (other than physicians or other practitioners, as defined in section 1395u(b)(18)(C) of this title) who furnish items or services under this part.
 
 #### (17) <sup>3</sup> Certain upgraded items
 
@@ -450,7 +450,7 @@
 
 &emsp;&emsp;A refund under subparagraph (A) is considered to be on a timely basis only if—
 
-&emsp;&emsp;&emsp;(i) in the case of a supplier who does not request reconsideration or seek appeal ona timely basis, the refund is made within 30 days after the date the supplier receives a denial notice under subparagraph (C), or
+&emsp;&emsp;&emsp;(i) in the case of a supplier who does not request reconsideration or seek appeal on a timely basis, the refund is made within 30 days after the date the supplier receives a denial notice under subparagraph (C), or
 
 &emsp;&emsp;&emsp;(ii) in the case in which such a reconsideration or appeal is taken, the refund is made within 15 days after the date the supplier receives notice of an adverse determination on reconsideration or appeal.
 
@@ -520,7 +520,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the product of (a) the portion of the reduced national weighted average conversion factor computed under clause (ii) which is attributable to physician work and (b) the geographic work index value for the locality (specified in Addendum C to the Model Fee Schedule for Physician Services (published on September 4, 1990, 55 Federal Register pp. 36238–36243)); and
 
-&emsp;&emsp;&emsp;&emsp;(II) the product of (a) the remaining portion of the reduced national weighted average conversion factor computed under clause (ii), and (b) the geographicpractice cost index value specified in section 1395u(b)(14)(C)(iv) of this title for the locality.
+&emsp;&emsp;&emsp;&emsp;(II) the product of (a) the remaining portion of the reduced national weighted average conversion factor computed under clause (ii), and (b) the geographic practice cost index value specified in section 1395u(b)(14)(C)(iv) of this title for the locality.
 
 &emsp;&emsp;&nbsp;In applying this clause with respect to the professional component of a service, 80 percent of the conversion factor shall be considered to be attributable to physician work and with respect to the technical component of the service, 0 percent shall be considered to be attributable to physician work.
 
@@ -616,7 +616,7 @@
 
 &emsp;&emsp;&emsp;(i) for screening mammography performed in 1991, is $55, and
 
-&emsp;&emsp;&emsp;(ii) for screening mammography performed in a subsequent year is the limit established under this paragraph for the preceding year increased by the percentage increase in the MEI for that subsequent year.
+&emsp;&emsp;&emsp;(ii) for screening mammography performed in a subsequent year is the limitestablished under this paragraph for the preceding year increased by the percentage increase in the MEI for that subsequent year.
 
 #### (B) Reduction of limit
 
@@ -676,7 +676,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding subsections (i)(2)(A) and (t) of section 1395<i>l</i> of this title, in thecase of screening flexible sigmoidoscopy services furnished on or after January 1, 1999, that—
+&emsp;&emsp;&emsp;Notwithstanding subsections (i)(2)(A) and (t) of section 1395<i>l</i> of this title, in the case of screening flexible sigmoidoscopy services furnished on or after January 1, 1999, that—
 
 &emsp;&emsp;&emsp;&emsp;(I) in accordance with regulations, may be performed in an ambulatory surgical center and for which the Secretary permits ambulatory surgical center payments under this part, and
 
@@ -690,7 +690,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in computing the amount of any applicable deductible or copayment, the computation of such deductible or coinsurance shall be based upon the fee schedule under which payment is made for the services, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount of such coinsurance is equal to 25 percent of the payment amount under the fee schedule described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) the amount of such coinsurance is equal to 25 percent of the paymentamount under the fee schedule described in subclause (I).
 
 #### (D) Special rule for detected lesions
 
@@ -758,7 +758,7 @@ The amount of payment under this part for outpatient critical access hospital se
 
 #### (A) In general
 
-&emsp;&emsp;Payment under this subsection for prosthetic devices and orthotics and prosthetics shall be made in a lump-sum amount for the purchase of the item in an amount equal to 80 percent of the payment basis described in subparagraph (B).
+&emsp;&emsp;Payment under this subsection for prosthetic devices and orthotics and prosthetics shall be made in a lump-sum amount for the purchase of the item in an amount equal to80 percent of the payment basis described in subparagraph (B).
 
 #### (B) Payment basis
 
@@ -978,7 +978,7 @@ The amount of payment under this part for outpatient critical access hospital se
 
 #### (1) In general
 
-&emsp;With respect to services described in section 1395<i>l</i>(a)(8) or 1395<i>l</i>(a)(9) of this title for whichpayment is determined under this subsection, the payment basis shall be—
+&emsp;With respect to services described in section 1395<i>l</i>(a)(8) or 1395<i>l</i>(a)(9) of this title for which payment is determined under this subsection, the payment basis shall be—
 
 &emsp;&emsp;(A) for services furnished during 1998, the amount determined under paragraph (2); or
 
@@ -1014,7 +1014,7 @@ The amount of payment under this part for outpatient critical access hospital se
 
 &emsp;The provisions of subparagraphs (A) and (B) of section 1395u(b)(18) of this title shall apply to therapy services for which payment is made under this subsection in the same manner as they apply to services provided by a practitioner described in section 1395u(b)(18)(C) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Dec. 22, 1987, Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), 101 Stat. 1330–91, 1330–100; July 1, 1988, Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), 102 Stat. 704, 722, 726, 768, 779, 781; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), 102 Stat. 2420; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), 103 Stat. 1981, 1985; Dec. 19, 1989, Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, 107 Stat. 587, 589, 590; Oct. 31, 1994, Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459.)
 
 #### Enactment of Subsection (<i>l</i>)
 
@@ -1058,7 +1058,7 @@ The amount of payment under this part for outpatient critical access hospital se
 
 #### (6) Restraint on billing
 
-&emsp;The provisions of subparagraphs (A) and (B) of section 1395u(b)(18) of this title shall apply to ambulance services for which payment is made under this subsection in the same manner as they apply to services provided by a practitioner described in section 1395u(b)(18)(C) of this title.
+&emsp;The provisions of subparagraphs (A) and (B) of section 1395u(b)(18) of this title shall apply to ambulance services for which payment is made under this subsection in the same manner as they applyto services provided by a practitioner described in section 1395u(b)(18)(C) of this title.
 
 #### (7) Coding system
 
@@ -1116,7 +1116,7 @@ Subsec. (c)(2)(A)(iv), (v). Pub. L. 105–33, §4101(a)(2), struck out cls. (iv)
 
 Subsec. (d). Pub. L. 105–33, §4104(b)(1), added subsec. (d).
 
-Subsec. (g). Pub. L. 105–33, §4201(c)(5), amended heading and text of subsec. (g) generally. Prior to amendment, text related to payment for outpatient rural primary care hospital services as determined, in par. (1), by either the cost-based facility fee plus professionalcharges method or the all-inclusive rate method and, in par. (2), by the prospective payment system.
+Subsec. (g). Pub. L. 105–33, §4201(c)(5), amended heading and text of subsec. (g) generally. Prior to amendment, text related to payment for outpatient rural primary care hospital services as determined, in par. (1), by either the cost-based facility fee plus professional charges method or the all-inclusive rate method and, in par. (2), by the prospective payment system.
 
 Subsec. (h)(4)(A)(iv). Pub. L. 105–33, §4551(a)(2)(B), substituted “1996 and 1997” for “a subsequent year”.
 
@@ -1134,7 +1134,7 @@ Subsec. (a)(7)(A)(iii)(II). Pub. L. 103–432, §135(e)(3), substituted “claus
 
 Subsec. (a)(7)(C)(i). Pub. L. 103–432, §135(e)(4), substituted “this paragraph” for “this paragraph or paragraph (3)”.
 
-Subsec. (a)(10)(B). Pub. L. 103–432, §134(a)(1), inserted at end “In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.”
+Subsec. (a)(10)(B). Pub. L. 103–432, §134(a)(1), inserted at end “In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis ofprices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable.”
 
 Pub. L. 103–432, §126(g)(10)(B), substituted “would otherwise apply to physicians’ services” for “apply to physicians’ services” and inserted before period at end “but for the application of section 1395w–4(i)(3) of this title”.
 
@@ -1376,7 +1376,7 @@ Subsec. (b)(4)(A). Pub. L. 101–234, §301(b)(1), (c)(1), amended subpar. (A) i
 
 Subsec. (b)(4)(C) to (E). Pub. L. 101–239, §6105(a), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-Subsecs. (c) to (e). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§202(b)(4), 203(c)(1)(F), 204(b)(2), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+Subsecs. (c) to (e). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §§202(b)(4), 203(c)(1)(F), 204(b)(2), andprovided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
 
 Subsec. (f). Pub. L. 101–239, §6102(f)(1), added subsec. (f).
 
@@ -1450,7 +1450,7 @@ Subsec. (e). Pub. L. 100–360, §204(b)(2), added subsec. (e) relating to payme
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4101(a), (c) of Pub. L. 105–33 applicable to items and services furnished on or afterJan. 1, 1998, see section 4101(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 4101(a), (c) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 1998, see section 4101(d) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
 Amendment by section 4104(b)(1) of Pub. L. 105–33 applicable to items and services furnished on or after Jan. 1, 1998, see section 4104(e) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
@@ -1544,7 +1544,7 @@ Section 4152(f)(2) of Pub. L. 101–508 provided that: “The amendment made by 
 
 Section 4152(g)(2) of Pub. L. 101–508 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to patients who first receive home oxygen therapy services on or after January 1, 1991.”
 
-Section 4152(i) of Pub. L. 101–508 provided that: “Except as otherwise provided, the amendments made by this section \[amending this section, section 1395x of this title, and provisions set out as a note under section 1395f of this title\] shall apply to items furnished on or after January 1, 1991.”
+Section 4152(i) of Pub. L. 101–508 provided that: “Except as otherwise provided, the amendments made by this section \[amending this section, section 1395x ofthis title, and provisions set out as a note under section 1395f of this title\] shall apply to items furnished on or after January 1, 1991.”
 
 Amendment by section 4153(a)(1), (2)(D) of Pub. L. 101–508 applicable to items furnished on or after Jan. 1, 1991, see section 4153(a)(3) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
@@ -1624,7 +1624,7 @@ Capitated payment rate defined.—In this subsection, the ‘capitated payment r
 
 “(c)
 
-Other Terms of Contract.—The Secretary and the unit of local government may include in a contract under this section such other terms as the parties consider appropriate, including—
+Other Terms of Contract.—The Secretary and the unit of local government may include in a contractunder this section such other terms as the parties consider appropriate, including—
 
 &emsp;“(1) covering individuals residing in additional units of local government (under arrangements entered into between such units and the unit of local government involved);
 
@@ -1690,7 +1690,7 @@ Section 134(b) of Pub. L. 103–432 provided that:
 
 “(1)
 
-In general.—In accordance with section 1834(a)(10)(B) of the Social Security Act \[subsec. (a)(10)(B) of this section\] (as amended by subsection (a)), the Secretary of Health and Human Services shall determine whether the payment amounts for the itemsdescribed in paragraph (2) are not inherently reasonable, and shall adjust such amounts in accordance with such section if the amounts are not inherently reasonable.
+In general.—In accordance with section 1834(a)(10)(B) of the Social Security Act \[subsec. (a)(10)(B) of this section\] (as amended by subsection (a)), the Secretary of Health and Human Services shall determine whether the payment amounts for the items described in paragraph (2) are not inherently reasonable, and shall adjust such amounts in accordance with such section if the amounts are not inherently reasonable.
 
 “(2)
 
@@ -1712,7 +1712,7 @@ Exception.—Paragraph (1) shall not apply to nuclear medicine services.”
 
 Section 4102(e) of Pub. L. 101–508 provided that: “For radiologist services furnished during 1991 for which payment is made under section 1834(b) of the Social Security Act \[subsec. (b) of this section\]—
 
-&emsp;“(1) a carrier may not make any adjustment, under section 1842(b)(3)(B) of such Act \[section 1395u(b)(3)(B) of this title\], in the payment amount for the service under section 1834(b) on the basis that the payment amount is higher than the charge applicable, for a comparable service and under comparable circumstances, to the policyholders and subscribers of the carrier,
+&emsp;“(1) a carrier may not make any adjustment, under section 1842(b)(3)(B) of such Act \[section 1395u(b)(3)(B) of this title\], in the payment amount for the service under section 1834(b) on the basis that the paymentamount is higher than the charge applicable, for a comparable service and under comparable circumstances, to the policyholders and subscribers of the carrier,
 
 &emsp;“(2) no payment adjustment may be made under section 1842(b)(8) of such Act, and
 

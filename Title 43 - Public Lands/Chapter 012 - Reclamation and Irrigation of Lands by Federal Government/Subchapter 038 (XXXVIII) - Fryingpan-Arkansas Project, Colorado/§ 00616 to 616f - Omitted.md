@@ -10,7 +10,7 @@ Section 616b, Pub. L. 87–590, §3, Aug. 16, 1962, 76 Stat. 391, related to ope
 
 Section 616c, Pub. L. 87–590, §4, Aug. 16, 1962, 76 Stat. 391; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, related to construction, operation, and maintenance of public recreation facilities on lands within this project and conservation and development of fish and wildlife.
 
-Section 616d, Pub. L. 87–590, §5, Aug. 16, 1962, 76 Stat. 392, provided use of water through works constructed pursuant to sections 616 to 616f of this title be subject to Colorado River compact, Upper Colorado River Basin compact, Boulder Canyon Project Act (43 U.S.C. 617 et seq.), Boulder Canton Project Adjustment Act (43 U.S.C. 618 et seq.), Colorado River Storage Project Act (43 U.S.C. 620 et seq.), and Mexican Water Treaty (Treaty Series 994) and for enforcement of compliance with these compacts, statutes and treaty.
+Section 616d, Pub. L. 87–590, §5, Aug. 16, 1962, 76 Stat. 392, provided use of water through works constructed pursuant to sections 616 to 616f of this title be subject to Colorado River compact, Upper Colorado River Basin compact, Boulder Canyon Project Act (43 U.S.C. 617 et seq.), Boulder Canton Project Adjustment Act (43U.S.C. 618 et seq.), Colorado River Storage Project Act (43 U.S.C. 620 et seq.), and Mexican Water Treaty (Treaty Series 994) and for enforcement of compliance with these compacts, statutes and treaty.
 
 Section 616e, Pub. L. 87–590, §6, Aug. 16, 1962, 76 Stat. 393, related to studies of quality of waters of Colorado River system and reports to Congress on results of these studies.
 

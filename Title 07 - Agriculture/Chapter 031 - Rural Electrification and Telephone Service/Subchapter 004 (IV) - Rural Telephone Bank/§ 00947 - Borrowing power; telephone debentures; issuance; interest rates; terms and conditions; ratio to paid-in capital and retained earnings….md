@@ -6,7 +6,7 @@
 
 (c) Purchases and resales by the Secretary of the Treasury as authorized in subsection (b) of this section shall not be included in the totals of the budget of the United States Government and shall be exempt from any general limitation imposed by statute on expenditures and net lending (budget outlays) of the United States.
 
-(May 20, 1936, ch. 432, title IV, §407, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 34; amended June 30, 1972, Pub. L. 92–324, §2, 86 Stat. 390; May 11, 1973, Pub. L. 93–32, §§6, 7, 87 Stat. 70.)
+(May 20, 1936, ch. 432, title IV, §407, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 34; amended Pub. L. 92–324, §2, June 30, 1972, 86 Stat. 390; Pub. L. 93–32, §§6, 7, May 11, 1973, 87 Stat. 70.)
 
 #### Codification
 

@@ -6,7 +6,7 @@ It shall be unlawful for a manufacturer to sell any shipment of fasteners covere
 
 &emsp;(1) have been manufactured according to the requirements of the applicable standards and specifications and have been inspected and tested by a laboratory accredited in accordance with the procedures and conditions specified by the Secretary under section 5405 of this title; and
 
-&emsp;(2) an original laboratory testing report described in section 5404(c) of this title and a manufacturer's certificate of conformance are on file with the manufacturer, or under such custody as may be prescribed by the Secretary, and available for inspection.
+&emsp;(2) an original laboratory testing report described in section 5404(c) of this title and amanufacturer's certificate of conformance are on file with the manufacturer, or under such custody as may be prescribed by the Secretary, and available for inspection.
 
 #### (b) Fasteners of foreign origin
 
@@ -46,7 +46,7 @@ It shall be unlawful for any manufacturer, importer, or private label distributo
 
 #### (f) Subsequent purchaser
 
-If a person who purchases fasteners for any purpose so requests either prior to the sale or atthe time of sale, the seller shall conspicuously mark the container of the fasteners with the lot number from which such fasteners were taken.
+If a person who purchases fasteners for any purpose so requests either prior to the sale or at the time of sale, the seller shall conspicuously mark the container of the fasteners with the lot number from which such fasteners were taken.
 
 (Pub. L. 101–592, §7, Nov. 16, 1990, 104 Stat. 2948; Pub. L. 104–113, §11(f), Mar. 7, 1996, 110 Stat. 781.)
 

@@ -22,7 +22,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification
 
-Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which is classified principally to this chapter.
+Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 #### Section Referred to in Other Sections
 

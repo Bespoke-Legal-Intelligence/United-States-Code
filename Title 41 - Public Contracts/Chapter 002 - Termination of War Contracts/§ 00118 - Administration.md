@@ -24,7 +24,7 @@ Whenever any contracting agency or the Administrator of General Services believe
 
 1996—Subsec. (a). Pub. L. 104–316, in second sentence, struck out “(1)” after “he shall prescribe” and struck out “; and (2) the records in connection therewith to be transmitted to the General Accounting Office” before period at end.
 
-1951—Subsec. (b). Act Oct. 31, 1951, struck out provisions which related to preparation of information andreports regarding termination of war contracts, settlements of termination claims, interim financing, etc.
+1951—Subsec. (b). Act Oct. 31, 1951, struck out provisions which related to preparation of information and reports regarding termination of war contracts, settlements of termination claims, interim financing, etc.
 
 #### Transfer of Functions
 

@@ -30,7 +30,7 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 &emsp;&emsp;(B) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Nov. 8, 1985, Pub. L. 99–145, title V, §513(a)(1)(A), 99 Stat. 627; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §604(d)(1), (2)(A), 100 Stat. 3876; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 23, 1992, Pub. L. 102–484, div. A, title V, §516(a), 106 Stat. 2407; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §534, 110 Stat. 2521; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §513(c)(1), (d)(1), 111 Stat. 1730, 1731.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, §604(d)(1), (2)(A), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, §534, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–85, div. A, title V, §513(c)(1), (d)(1), Nov. 18, 1997, 111 Stat. 1730, 1731.)
 
 Historical and Revision Notes
 
@@ -80,7 +80,7 @@ Par. (2). Pub. L. 105–85, §513(c)(1), amended par. (2) generally. Prior to am
 
 1989—Par. (4)(B). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and “resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
+1986—Pub. L. 99–661 struck out “; disability from injury” after “30 days or less” in section catchline and“resulting from an injury” after “because of physical disability” in provisions preceding par. (1).
 
 1985—Par. (1). Pub. L. 99–145 inserted “and stable” after “permanent nature”.
 

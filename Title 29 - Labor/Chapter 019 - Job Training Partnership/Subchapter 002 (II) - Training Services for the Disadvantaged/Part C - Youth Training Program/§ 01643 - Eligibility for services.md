@@ -76,7 +76,7 @@ Not more than 10 percent of participants in a program assisted under this part i
 
 #### (1) In general
 
-&emsp;In addition to the individuals described in subsection (e) of this section, an individual who does not meet the requirements of subsection (a)(2) of this section may participate in the programs assisted under this part if such individual is enrolled in a public school—
+&emsp;In addition to the individuals described in subsection (e) of this section, an individual who does not meet the requirements of subsection (a)(2) of this section may participatein the programs assisted under this part if such individual is enrolled in a public school—
 
 &emsp;&emsp;(A) that is located in a poverty area;
 
@@ -105,6 +105,10 @@ A service delivery area conducting a program assisted under this part may add on
 &emsp;(3) the Governor approves the request submitted under paragraph (1) and transmits a description of the approved request to the Secretary, as part of the Governor's coordination and special services plan under section 1531 of this title.
 
 (Pub. L. 97–300, title II, §263, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1066; amended Pub. L. 103–382, title III, §391(n)(2), (3), Oct. 20, 1994, 108 Stat. 4024.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### References in Text
 

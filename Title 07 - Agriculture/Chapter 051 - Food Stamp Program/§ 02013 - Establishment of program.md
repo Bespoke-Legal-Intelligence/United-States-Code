@@ -18,7 +18,7 @@ The Secretary shall issue such regulations consistent with this chapter as the S
 
 1985—Subsec. (a). Pub. L. 99–198, §1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
 
-Subsec. (b). Pub. L. 99–198, §1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
+Subsec. (b). Pub. L. 99–198, §1506, struck out first sentence which directed that in jurisdictions where thefood stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
 
 1977—Subsec. (a). Pub. L. 95–113 made establishment of food stamp program subject to availability of funds appropriated under section 2027 of this title.
 

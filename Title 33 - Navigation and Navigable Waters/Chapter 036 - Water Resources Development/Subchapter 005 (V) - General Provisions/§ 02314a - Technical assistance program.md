@@ -18,7 +18,7 @@ As to an invention made or conceived by a Federal employee while providing assis
 
 #### (c) Protection of confidential information
 
-Information of a confidential nature, such as proprietary or classified information, provided to a United States firm pursuant to this section shall be protected. Such information may be released by a United States firm only after written approval by the Secretary.
+Information of a confidential nature, such as proprietary or classified information, providedto a United States firm pursuant to this section shall be protected. Such information may be released by a United States firm only after written approval by the Secretary.
 
 #### (d) Definitions
 

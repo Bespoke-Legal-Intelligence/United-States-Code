@@ -172,10 +172,6 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 &emsp;The Federal share of the cost of assisting a State in carrying out groundwater protection activities in any fiscal year under this subsection shall be 50 percent of the costs incurred by the State in carrying out such activities, except that the maximum amount of Federal assistance which any State may receive under this subsection in any fiscal year shall not exceed $150,000.
 
-#### (4) Report
-
-&emsp;The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.
-
 #### (j) Authorization of appropriations
 
 There is authorized to be appropriated to carry out subsections (h) and (i) of this section not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i) of this section. Sums appropriated pursuant to this subsection shall remain available until expended.
@@ -188,35 +184,11 @@ The Administrator shall transmit to the Office of Management and Budget and the 
 
 The Administrator shall collect and make available, through publications and other appropriate means, information pertaining to management practices and implementation methods, including, but not limited to, (1) information concerning the costs and relative efficiencies of best management practices for reducing nonpoint source pollution; and (2) available data concerning the relationship between water quality and implementation of various management practices to control nonpoint sources of pollution.
 
-#### (m) Reports of Administrator
-
-#### (1) Annual reports
-
-&emsp;Not later than January 1, 1988, and each January 1 thereafter, the Administrator shall transmit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate, a report for the preceding fiscal year on the activities and programs implemented under this section and the progress made in reducing pollution in the navigable waters resulting from nonpoint sources and improving the quality of such waters.
-
-#### (2) Final report
-
-&emsp;Not later than January 1, 1990, the Administrator shall transmit to Congress a final report on the activities carried out under this section. Such report, at a minimum, shall—
-
-&emsp;&emsp;(A) describe the management programs being implemented by the States by types and amount of affected navigable waters, categories and subcategories of nonpoint sources, and types of best management practices being implemented;
-
-&emsp;&emsp;(B) describe the experiences of the States in adhering to schedules and implementing best management practices;
-
-&emsp;&emsp;(C) describe the amount and purpose of grants awarded pursuant to subsections (h) and (i) of this section;
-
-&emsp;&emsp;(D) identify, to the extent that information is available, the progress made in reducing pollutant loads and improving water quality in the navigable waters;
-
-&emsp;&emsp;(E) indicate what further actions need to be taken to attain and maintain in those navigable waters (i) applicable water quality standards, and (ii) the goals and requirements of this chapter;
-
-&emsp;&emsp;(F) include recommendations of the Administrator concerning future programs (including enforcement programs) for controlling pollution from nonpoint sources; and
-
-&emsp;&emsp;(G) identify the activities and programs of departments, agencies, and instrumentalities of the United States which are inconsistent with the management programs submitted by the States and recommend modifications so that such activities and programs are consistent with and assist the States in implementation of such management programs.
-
-#### (n) Set aside for administrative personnel
+#### (m) Set aside for administrative personnel
 
 Not less than 5 percent of the funds appropriated pursuant to subsection (j) of this section for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
-(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52.)
+(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283.)
 
 #### References in Text
 
@@ -224,9 +196,11 @@ Executive Order 12372, referred to in subsecs. (b)(2)(F) and (k), is Ex. Ord. No
 
 The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is Pub. L. 93–320, June 24, 1974, 88 Stat. 266, as amended, which is classified principally to chapter 32A (§1571 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1571 of Title 43 and Tables.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), struck out heading and text of par. (4). Text read as follows: “The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.”
+
+Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), redesignated subsec. (n) as (m) and struck out heading and text of former subsec. (m) which related to reports of Administrator.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,0 @@
-### §440. Nonpolitical nature of corporation
-
-The corporation, and its members, officers, and directors, as such, shall not contribute to or otherwise support or assist any political party or candidate for elective public office, nor advocate, sponsor, or promote legislation in the Congress of the United States or in the legislatures of the several States.
-
-(Aug. 13, 1953, ch. 427, §10, 67 Stat. 564.)
-

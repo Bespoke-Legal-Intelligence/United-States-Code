@@ -36,7 +36,7 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 #### (d) Reason for adverse action; procedure applicable; “adverse action” defined
 
-(1) Within thirty days (or such longer reasonable time as specified in regulations of the Board for any class of credit transaction) after receipt of a completed application for credit, acreditor shall notify the applicant of its action on the application.
+(1) Within thirty days (or such longer reasonable time as specified in regulations of the Board for any class of credit transaction) after receipt of a completed application for credit, a creditor shall notify the applicant of its action on the application.
 
 (2) Each applicant against whom adverse action is taken shall be entitled to a statement of reasons for such action from the creditor. A creditor satisfies this obligation by—
 

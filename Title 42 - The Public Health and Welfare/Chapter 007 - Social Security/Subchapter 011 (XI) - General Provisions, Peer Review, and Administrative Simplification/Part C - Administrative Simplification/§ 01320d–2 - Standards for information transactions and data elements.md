@@ -58,7 +58,7 @@
 
 #### (2) Distribution
 
-&emsp;The Secretary shall establish efficient and low-cost procedures for distribution (including electronic distribution) of code sets and modifications made to such code sets under section 1320d–3(b) of this title.
+&emsp;The Secretary shall establish efficient and low-cost procedures for distribution (includingelectronic distribution) of code sets and modifications made to such code sets under section 1320d–3(b) of this title.
 
 #### (d) Security standards for health information
 
@@ -108,7 +108,7 @@
 
 The Secretary shall adopt standards for transferring among health plans appropriate standard data elements needed for the coordination of benefits, the sequential processing of claims, and other data elements for individuals who have more than one health plan.
 
-(Aug. 14, 1935, ch. 531, title XI, §1173, as added Aug. 21, 1996, Pub. L. 104–191, title II, §262(a), 110 Stat. 2024.)
+(Aug. 14, 1935, ch. 531, title XI, §1173, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2024.)
 
 #### Prior Provisions
 

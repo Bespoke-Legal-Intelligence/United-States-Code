@@ -4,7 +4,7 @@
 
 The President shall transmit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate not more than sixty days after the end of each quarter an unclassified report (except that any material which was transmitted in classified form under subsection (b)(1) or (c)(1) of this section may be contained in a classified addendum to such report, and any letter of offer referred to in paragraph (1) of this subsection may be listed in such addendum unless such letter of offer has been the subject of an unclassified certification pursuant to subsection (b)(1) of this section, and any information provided under paragraph (11) of this subsection may also be provided in a classified addendum) containing—
 
-&emsp;(1) a listing of all letters of offer to sell any major defense equipment for $1,000,000 or more under this chapter to each foreign country and international organization, by category, if such letters of offer have not been accepted or canceled;
+&emsp;(1) a listing of all letters of offer to sell any major defense equipment for $1,000,000 or moreunder this chapter to each foreign country and international organization, by category, if such letters of offer have not been accepted or canceled;
 
 &emsp;(2) a listing of all such letters of offer that have been accepted during the fiscal year in which such report is submitted, together with the total value of all defense articles and defense services sold to each foreign country and international organization during such fiscal year;
 
@@ -66,7 +66,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 &emsp;(C) the name of each contractor expected to provide the defense article, defense service, or design and construction service proposed to be sold and a description from such contractor of any offset agreements proposed to be entered into in connection with such sale (if known on the date of transmittal of such statement);
 
-&emsp;(D) an evaluation, prepared by the Director of the Arms Control and Disarmament Agency in consultation with the Secretary of State and the Secretary of Defense, of the manner, if any, in which the proposed sale would—
+&emsp;(D) an evaluation, prepared by the Secretary of State in consultation with the Secretary of Defense and the Director of Central Intelligence, of the manner, if any, in which the proposed sale would—
 
 &emsp;&emsp;(i) contribute to an arms race;
 
@@ -88,13 +88,13 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 &emsp;(I) an analysis by the President of how the proposed sale would affect the relative military strengths of countries in the region to which the defense articles, defense services, or design and construction services which are the subject of such sale would be delivered and whether other countries in the region have comparable kinds and amounts of defense articles, defense services, or design and construction services;
 
-&emsp;(J) an estimate of the levels of trained personnel and maintenance facilities of the foreign country or international organization to which the sale would be made which are needed and available to utilize effectively the defense articles, defense services, or design and construction services proposed to be sold;
+&emsp;(J) an estimate of the levels of trained personnel and maintenance facilities of the foreign country or international organization towhich the sale would be made which are needed and available to utilize effectively the defense articles, defense services, or design and construction services proposed to be sold;
 
 &emsp;(K) an analysis of the extent to which comparable kinds and amounts of defense articles, defense services, or design and construction services are available from other countries;
 
 &emsp;(L) an analysis of the impact of the proposed sale on United States relations with the countries in the region to which the defense articles, defense services, or design and construction services which are the subject of such sale would be delivered;
 
-&emsp;(M) a detailed description of any agreement proposed to be entered into by the United States for the purchase or acquisition by the United States of defense articles, defense services, design and construction services, or defense equipment, or other articles, services, or equipment of the foreign country or international organization in connection with, oras consideration for, such letter of offer, including an analysis of the impact of such proposed agreement upon United States business concerns which might otherwise have provided such articles, services, or equipment to the United States, an estimate of the costs to be incurred by the United States in connection with such agreement compared with costs which would otherwise have been incurred, an estimate of the economic impact and unemployment which would result from entering into such proposed agreement, and an analysis of whether such costs and such domestic economic impact justify entering into such proposed agreement;
+&emsp;(M) a detailed description of any agreement proposed to be entered into by the United States for the purchase or acquisition by the United States of defense articles, defense services, design and construction services, or defense equipment, or other articles, services, or equipment of the foreign country or international organization in connection with, or as consideration for, such letter of offer, including an analysis of the impact of such proposed agreement upon United States business concerns which might otherwise have provided such articles, services, or equipment to the United States, an estimate of the costs to be incurred by the United States in connection with such agreement compared with costs which would otherwise have been incurred, an estimate of the economic impact and unemployment which would result from entering into such proposed agreement, and an analysis of whether such costs and such domestic economic impact justify entering into such proposed agreement;
 
 &emsp;(N) the projected delivery dates of the defense articles, defense services, or design and construction services to be offered;
 
@@ -118,7 +118,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (B) The provisions of subparagraph (A) apply to an article or equipment delivered, or a service furnished, within ten years after the transmittal to the Congress of a numbered certification with respect to the sale of such article, equipment, or service.
 
-(C) If the enhancement or upgrade in the sensitivity of technology or the capability of major defense equipment, defense articles, defense services, or design and construction services described in a numbered certification submitted under this subsection costs $14,000,000 or more in the case of any major defense equipment, $50,000,000 or more in the case of defense articles or defense services, or $200,000,000 or more in the case of design or construction services, then the President shall submit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a new numbered certification which relates to such enhancement or upgrade and which shall be considered for purposes of this subsection as if it were a separate letter of offer to sell defense equipment, articles, or services, subject to all of the requirements, restrictions, and conditions set forth in this subsection. For purposes of this subparagraph, references in this subsection to sales shall be deemed to be references to enhancements or upgrades in the sensitivity of technology or the capability of major defense equipment, articles, or services, as the case may be.
+(C) If the enhancement or upgrade in the sensitivity of technology or the capability of majordefense equipment, defense articles, defense services, or design and construction services described in a numbered certification submitted under this subsection costs $14,000,000 or more in the case of any major defense equipment, $50,000,000 or more in the case of defense articles or defense services, or $200,000,000 or more in the case of design or construction services, then the President shall submit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a new numbered certification which relates to such enhancement or upgrade and which shall be considered for purposes of this subsection as if it were a separate letter of offer to sell defense equipment, articles, or services, subject to all of the requirements, restrictions, and conditions set forth in this subsection. For purposes of this subparagraph, references in this subsection to sales shall be deemed to be references to enhancements or upgrades in the sensitivity of technology or the capability of major defense equipment, articles, or services, as the case may be.
 
 (D) For the purposes of subparagraph (A), the term “major defense article” shall be construed to include electronic devices, which if upgraded, would enhance the mission capability of a weapons system.
 
@@ -140,7 +140,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 #### (d) Commercial technical assistance or manufacturing licensing agreements with non-North Atlantic Treaty Organization member countries; submission of Presidential certification; contents
 
-(1) In the case of an approval under section 2778 of this title of a United States commercial technical assistance or manufacturing licensing agreement which involves the manufacture abroad of any item of significant combat equipment on the United States Munitions List, before such approval is given, the President shall submit a certification with respect to such proposed commercial agreement in a manner similar to the certification required under subsection (c)(1) of this section containing comparable information, except that the last sentence of such subsection shall not apply to certifications submitted pursuant to this subsection.
+(1) In the case of an approval under section 2778 of this title of a United States commercial technical assistance or manufacturing licensingagreement which involves the manufacture abroad of any item of significant combat equipment on the United States Munitions List, before such approval is given, the President shall submit a certification with respect to such proposed commercial agreement in a manner similar to the certification required under subsection (c)(1) of this section containing comparable information, except that the last sentence of such subsection shall not apply to certifications submitted pursuant to this subsection.
 
 (2) A certification under this subsection shall be submitted—
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 The President shall cause to be published in the Federal Register, upon transmittal to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate, the full unclassified text of each numbered certification submitted pursuant to subsection (b) of this section and each notification of a proposed commercial sale submitted under subsection (c) of this section.
 
-(Pub. L. 90–629, ch. 3, §36, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, §25(10), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, §45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 94–329, title II, §211(a), title VI, §604(a), June 30, 1976, 90 Stat. 740, 766; Pub. L. 95–384, §21, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §§16(b), 19(a), (c), 20(b), Oct. 29, 1979, 93 Stat. 708–710; Pub. L. 96–533, title I, §§105(c), (d), 107(b), 109(f), Dec. 16, 1980, 94 Stat. 3134, 3136, 3138; Pub. L. 97–113, title I, §§101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, 95 Stat. 1520, 1526; Pub. L. 99–83, title I, §§117, 118, title XII, §1209(c), Aug. 8, 1985, 99 Stat. 202, 203, 279; Pub. L. 99–247, §1(b), (c), Feb. 12, 1986, 100 Stat. 9; Pub. L. 101–222, §§3(b), 7, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §§732, 735(a), (b), Apr. 30, 1994, 108 Stat. 503, 505, 506; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–164, title I, §§141(c), (d), 155, July 21, 1996, 110 Stat. 1431, 1432, 1440; Pub. L. 104–201, div. A, title X, §1045(a), Sept. 23, 1996, 110 Stat. 2644.)
+(Pub. L. 90–629, ch. 3, §36, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, §25(10), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, §45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 94–329, title II, §211(a), title VI, §604(a), June 30, 1976, 90 Stat. 740, 766; Pub. L. 95–384, §21, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §§16(b), 19(a), (c), 20(b), Oct. 29, 1979, 93 Stat. 708–710; Pub. L. 96–533, title I, §§105(c), (d), 107(b), 109(f), Dec. 16, 1980, 94 Stat. 3134, 3136, 3138; Pub. L. 97–113, title I, §§101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, 95 Stat. 1520, 1526; Pub. L. 99–83, title I, §§117, 118, title XII, §1209(c), Aug. 8, 1985, 99 Stat. 202, 203, 279; Pub. L. 99–247, §1(b), (c), Feb. 12, 1986, 100 Stat. 9; Pub. L. 101–222, §§3(b), 7, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §§732, 735(a), (b), Apr. 30, 1994, 108 Stat. 503, 505, 506; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–164, title I, §§141(c), (d), 155, July 21, 1996, 110 Stat. 1431, 1432, 1440; Pub. L. 104–201, div. A, title X, §1045(a), Sept. 23, 1996, 110 Stat. 2644; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(1), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### References in Text
 
@@ -193,6 +193,8 @@ Section 2768 of this title, referred to in subsec. (b)(4), was repealed by Pub. 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(5)(A), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and is not classified to the Code.
 
 #### Amendments
+
+1998—Subsec. (b)(1)(D). Pub. L. 105–277, in introductory provisions, substituted “Secretary of State in consultation with the Secretary of Defense and the Director of Central Intelligence” for “Director of the Arms Control and Disarmament Agency in consultation with the Secretary of State and the Secretary of Defense”.
 
 1996—Subsec. (a)(12). Pub. L. 104–201 added par. (12).
 
@@ -290,6 +292,10 @@ Subsec. (d). Pub. L. 94–329, §211(a), added subsec. (d).
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
 #### Effective Date of 1996 Amendments
 
 Section 1045(b) of Pub. L. 104–201 provided that: “Paragraph (12) of section 36(a) of the Arms Export Control Act \[22 U.S.C. 2776(a)(12)\], as added by subsection (a)(3), does not apply with respect to an agreement described in such paragraph entered into before the date of the enactment of this Act \[Sept. 23, 1996\].”
@@ -310,7 +316,7 @@ Section 604(c) of Pub. L. 94–329 provided that: “The amendments made by this
 
 Functions of President under subsecs. (a) and (b)(1) of this section, except with respect to certification of an emergency under subsec. (b)(1), delegated to Secretary of Defense, with Secretary of Defense required to consult with other specific agencies in implementing certain delegated functions, by section 1(j) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
-Functions of President under subsecs. (c) and (d) of this section delegated to Secretary of State by section 1(k) of Ex. Ord. No. 11958.
+Functions of President under subsecs. (c) and (d) of this section delegated to Secretary of State, and functions of President under subsec. (e) of this section with respect to transmittals pursuant to subsec. (b) of this section delegated to Secretary of Defense and with respect to transmittals pursuant to subsec. (c) of this section delegated to Secretary of State, by section 1(k) of Ex. Ord. No. 11958.
 
 #### National Disclosure Policy for Sensitive Weapons Technology; Report to Congress
 

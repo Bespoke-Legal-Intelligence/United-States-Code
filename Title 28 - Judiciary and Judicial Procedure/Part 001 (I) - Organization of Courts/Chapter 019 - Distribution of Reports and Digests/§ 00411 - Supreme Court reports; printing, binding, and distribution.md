@@ -48,11 +48,11 @@ Subsection (b) of this section redesignates, in section 411(b) of title 28, U.S.
 
 #### Amendments
 
-<b>1952</b>—Act July 10, 1952, amended section generally to provide for flexibility in the printing and distribution of the reports under congressional control.
+1952—Act July 10, 1952, amended section generally to provide for flexibility in the printing and distribution of the reports under congressional control.
 
-<b>1951</b>—Subsec. (c). Act Oct. 31, 1951, in second par., substituted “Secretary of the Army” for “Secretary of War”.
+1951—Subsec. (c). Act Oct. 31, 1951, in second par., substituted “Secretary of the Army” for “Secretary of War”.
 
-<b>1949</b>—Subsec. (a). Act May 24, 1949, §68(a), inserted “Secretary of Defense”, “Secretary of the Air Force”, and “Judge Advocate General of the Air Force” where appearing, and substituted “Secretary of the Army” for “Secretary of War”, “Department of the Army” for “War Department”, “Director of the Bureau of Land Management” for “Commissioner of the General Land Office”, “Commissioner of Customs, Commandant of the Coast Guard” for “Chief of the Bureau of Marine Inspection”, and “Chief of Forest Service, Department of Agriculture” for “Chief Forester, National Park Service, Department of the Interior”.
+1949—Subsec. (a). Act May 24, 1949, §68(a), inserted “Secretary of Defense”, “Secretary of the Air Force”, and “Judge Advocate General of the Air Force” where appearing, and substituted “Secretary of the Army” for “Secretary of War”, “Department of the Army” for “War Department”, “Director of the Bureau of Land Management” for “Commissioner of the General Land Office”, “Commissioner of Customs, Commandant of the Coast Guard” for “Chief of the Bureau of Marine Inspection”, and “Chief of Forest Service, Department of Agriculture” for “Chief Forester, National Park Service, Department of the Interior”.
 
 Subsec. (b). Act May 24, 1949, §68(b), substituted “Secretary of the Army” for “Secretary of War” and “Court-martial” for “courtmartial”.
 

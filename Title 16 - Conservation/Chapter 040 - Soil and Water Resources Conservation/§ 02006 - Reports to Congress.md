@@ -16,7 +16,7 @@ The Secretary, during budget preparation for fiscal year 1982 and annually there
 
 1985—Subsec. (a). Pub. L. 99–198, §1252(c)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “On the first day Congress convenes in 1980 and at each five-year interval thereafter during the period this chapter is in effect the President shall transmit to the Speaker of the House of Representatives and the President of the Senate, the appraisal and the program as required by sections 2004 and 2005 of this title, together with a detailed statement of policy regarding soil and water conservation activities of the United States Department of Agriculture.”
 
-Subsecs. (b), (c). Pub. L. 99–198, §1252(c)(2), (3), struck out subsec. (b) which provided for an annual report of program and policy achievement, and redesignated subsec. (c) as (b).
+Subsecs. (b), (c). Pub. L. 99–198, §1252(c)(2), (3), struck out subsec. (b) which provided for an annual report ofprogram and policy achievement, and redesignated subsec. (c) as (b).
 
 #### Section Referred to in Other Sections
 

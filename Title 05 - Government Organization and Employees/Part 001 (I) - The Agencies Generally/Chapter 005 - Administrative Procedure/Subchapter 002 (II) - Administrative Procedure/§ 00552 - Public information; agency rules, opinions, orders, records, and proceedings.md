@@ -344,6 +344,10 @@ Subsec. (b). Pub. L. 90–23 added subsec. (b) which superseded provisions excep
 
 Subsec. (c). Pub. L. 90–23 added subsec. (c).
 
+#### Change of Name
+
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1996 Amendment
 
 Section 12 of Pub. L. 104–231 provided that:
@@ -388,15 +392,161 @@ Section 4 of Pub. L. 90–23 provided that: “This Act \[amending this section\
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–231 provided that: “This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
+Section 1 of Pub. L. 104–231 provided that: “This Act \[amending this section and enacting provisions set outas notes under this section\] may be cited as the ‘Electronic Freedom of Information Act Amendments of 1996’.”
 
 #### Short Title of 1986 Amendment
 
-Section 1801 of Pub. L. 99–570 provided that: “This subtitle \[subtitle N (§§1801–1804) of title I of Pub. L.99–570, amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Freedom of Information Reform Act of 1986’.”
+Section 1801 of Pub. L. 99–570 provided that: “This subtitle \[subtitle N (§§1801–1804) of title I of Pub. L. 99–570, amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘Freedom of Information Reform Act of 1986’.”
 
 #### Short Title
 
 This section is popularly known as the “Freedom of Information Act”.
+
+#### Nazi War Crimes Disclosure
+
+Pub. L. 105–246, Oct. 8, 1998, 112 Stat. 1859, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Nazi War Crimes Disclosure Act’.
+
+#### “SEC. 2. ESTABLISHMENT OF NAZI WAR CRIMINAL RECORDS INTERAGENCY WORKING GROUP.
+
+“(a)
+
+Definitions.—In this section the term—
+
+&emsp;“(1) ‘agency’ has the meaning given such term under section 551 of title 5, United States Code;
+
+&emsp;“(2) ‘Interagency Group’ means the Nazi War Criminal Records Interagency Working Group established under subsection (b);
+
+&emsp;“(3) ‘Nazi war criminal records’ has the meaning given such term under section 3 of this Act; and
+
+&emsp;“(4) ‘record’ means a Nazi war criminal record.
+
+“(b)
+
+Establishment of Interagency Group.—
+
+&emsp;“(1)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Oct. 8, 1998\], the President shall establish the Nazi War Criminal Records Interagency Working Group, which shall remain in existence for 3 years after the date the Interagency Group is established.
+
+&emsp;“(2)
+
+Membership.—The President shall appoint to the Interagency Group individuals whom the President determines will most completely and effectively carry out the functions of the Interagency Group within the time limitations provided in this section, including the Director of the Holocaust Museum, the Historian of the Department of State, the Archivist of the United States, the head of any other agency the President considers appropriate, and no more than 3 other persons. The head of an agency appointed by the President may designate an appropriate officer to serve on the Interagency Group in lieu of the head of such agency.
+
+&emsp;“(3)
+
+Initial meeting.—Not later than 90 days after the date of enactment of this Act, the Interagency Group shall hold an initial meeting and begin the functions required under this section.
+
+“(c)
+
+Functions.—Not later than 1 year after the date of enactment of this Act \[Oct. 8, 1998\], the Interagency Group shall, to the greatest extent possible consistent with section 3 of this Act—
+
+&emsp;“(1) locate, identify, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration, all classified Nazi war criminal records of the United States;
+
+&emsp;“(2) coordinate with agencies and take such actions as necessary to expedite the release of such records to the public; and
+
+&emsp;“(3) submit a report to Congress, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
+
+“(d)
+
+Funding.—There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act.
+
+#### “SEC. 3. REQUIREMENT OF DISCLOSURE OF RECORDS REGARDING PERSONS WHO COMMITTED NAZI WAR CRIMES.
+
+“(a)
+
+Nazi War Criminal Records.—For purposes of this Act, the term ‘Nazi war criminal records’ means classified records or portions of records that—
+
+&emsp;“(1) pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the persecution of any person because of race, religion, national origin, or political opinion, during the period beginning on March 23, 1933, and ending on May 8, 1945, under the direction of, or in association with—
+
+&emsp;&emsp;“(A) the Nazi government of Germany;
+
+&emsp;&emsp;“(B) any government in any area occupied by the military forces of the Nazi government of Germany;
+
+&emsp;&emsp;“(C) any government established with the assistance or cooperation of the Nazi government of Germany; or
+
+&emsp;&emsp;“(D) any government which was an ally of the Nazi government of Germany; or
+
+&emsp;“(2) pertain to any transaction as to which the United States Government, in its sole discretion, has grounds to believe—
+
+&emsp;&emsp;“(A) involved assets taken from persecuted persons during the period beginning on March 23, 1933, and ending on May 8, 1945, by, under the direction of, on behalf of, or under authority granted by the Nazi government of Germany or any nation then allied with that government; and
+
+&emsp;&emsp;“(B) such transaction was completed without the assent of the owners of those assets or their heirs or assigns or other legitimate representatives.
+
+“(b)
+
+Release of Records.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraphs (2), (3), and (4), the Nazi War Criminal Records Interagency Working Group shall release in their entirety Nazi war criminal records that are described in subsection (a).
+
+&emsp;“(2)
+
+Exception for privacy, etc.—An agency head may exempt from release under paragraph (1) specific information, that would—
+
+&emsp;&emsp;“(A) constitute a clearly unwarranted invasion of personal privacy;
+
+&emsp;&emsp;“(B) reveal the identity of a confidential human source, or reveal information about the application of an intelligence source or method, or reveal the identity of a human intelligence source when the unauthorized disclosure of that source would clearly and demonstrably damage the national security interests of the United States;
+
+&emsp;&emsp;“(C) reveal information that would assist in the development or use of weapons of mass destruction;
+
+&emsp;&emsp;“(D) reveal information that would impair United States cryptologic systems or activities;
+
+&emsp;&emsp;“(E) reveal information that would impair the application of state-of-the-art technology within a United States weapon system;
+
+&emsp;&emsp;“(F) reveal actual United States military war plans that remain in effect;
+
+&emsp;&emsp;“(G) reveal information that would seriously and demonstrably impair relations between the United States and a foreign government, or seriously and demonstrably undermine ongoing diplomatic activities of the United States;
+
+&emsp;&emsp;“(H) reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services, in the interest of national security, are authorized;
+
+&emsp;&emsp;“(I) reveal information that would seriously and demonstrably impair current national security emergency preparedness plans; or
+
+&emsp;&emsp;“(J) violate a treaty or international agreement.
+
+&emsp;“(3)
+
+Application of exemptions.—
+
+&emsp;&emsp;“(A)
+
+In general.—In applying the exemptions listed in subparagraphs (B) through (J) of paragraph (2), there shall be a presumption that thepublic interest in the release of Nazi war criminal records will be served by disclosure and release of the records. Assertion of such exemption may only be made when the agency head determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary of the Senate and the Committee on Government Reform and Oversight \[now Committee on Government Reform\] of the House of Representatives. The exemptions set forth in paragraph (2) shall constitute the only authority pursuant to which an agency head may exempt records otherwise subject to release under paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
+
+&emsp;“(4)
+
+Limitation on application.—This subsection shall not apply to records—
+
+&emsp;&emsp;“(A) related to or supporting any active or inactive investigation, inquiry, or prosecution by the Office of Special Investigations of the Department of Justice; or
+
+&emsp;&emsp;“(B) solely in the possession, custody, or control of that office.
+
+“(c)
+
+Inapplicability of National Security Act of 1947
+
+Exemption.—Section 701(a) of the National Security Act of 1947 (50 U.S.C. 431\[(a)\]) shall not apply to any operational file, or any portion of any operational file, that constitutes a Nazi war criminal record under section 3 of this Act.
+
+#### “SEC. 4. EXPEDITED PROCESSING OF FOIA REQUESTS FOR NAZI WAR CRIMINAL RECORDS.
+
+“(a)
+
+Expedited Processing.—For purposes of expedited processing under section 552(a)(6)(E) of title 5, United States Code, any requester of a Nazi war criminal record shall be deemed to have a compelling need for such record.
+
+“(b)
+
+Requester.—For purposes of this section, the term ‘requester’ means any person who was persecuted in the manner described under section 3(a)(1) of this Act who requests a Nazi war criminal record.
+
+#### “SEC. 5. EFFECTIVE DATE.
+
+“This Act and the amendments made by this Act shall take effect on the date that is 90 days after the date of enactment of this Act \[Oct. 8, 1998\].”
 
 #### Congressional Statement of Findings and Purpose; Public Access to Information in Electronic Format
 
@@ -470,7 +620,7 @@ Ex. Ord. No. 12600, June 23, 1987, 52 F.R. 23781, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to provide predisclosure notification procedures under the Freedom of Information Act \[5 U.S.C. 552\] concerning confidential commercial information, and to make existing agency notification provisions more uniform, it is hereby ordered as follows:
 
-Section 1. The head of each Executive department and agency subject to the Freedom of Information Act \[5 U.S.C. 552\] shall, to the extent permitted by law, establish procedures to notify submitters of records containing confidential commercial information as described in section 3 of this Order, when those records are requested under the Freedom of Information Act \[FOIA\], 5 U.S.C. 552, as amended, if after reviewing the request, the responsive records, and any appeal by the requester, the department or agency determines that it may be required to disclose the records. Such notice requires that an agency use good-faith efforts to advise submitters of confidential commercial information of the procedures established under this Order. Further, where notification of a voluminous number of submitters is required, such notification may be accomplished by posting or publishing the notice in a place reasonably calculated to accomplish notification.
+Section 1. The head of each Executive department and agency subject to the Freedom of Information Act \[5 U.S.C. 552\] shall, to the extent permitted by law, establish procedures to notify submitters of records containing confidential commercial information as described in section 3 of this Order, when those records are requested under the Freedom of Information Act \[FOIA\], 5 U.S.C. 552, as amended, if after reviewing therequest, the responsive records, and any appeal by the requester, the department or agency determines that it may be required to disclose the records. Such notice requires that an agency use good-faith efforts to advise submitters of confidential commercial information of the procedures established under this Order. Further, where notification of a voluminous number of submitters is required, such notification may be accomplished by posting or publishing the notice in a place reasonably calculated to accomplish notification.
 
 Sec. 2. For purposes of this Order, the following definitions apply:
 
@@ -484,7 +634,7 @@ Sec. 3. (a) For confidential commercial information submitted prior to January 1
 
 (ii) the department or agency has reason to believe that disclosure of the information could reasonably be expected to cause substantial competitive harm.
 
-(b) For confidential commercial information submitted on or after January 1, 1988, the head of each Executive department or agency shall, to the extent permitted by law, establish procedures to permit submitters of confidential commercial information to designate, at the time the information is submitted to the Federal government or a reasonable time thereafter, any information the disclosure of which the submitter claims could reasonably be expected to cause substantial competitive harm. Such agency procedures may provide for the expiration, after a specified period oftime or changes in circumstances, of designations of competitive harm made by submitters. Additionally, such procedures may permit the agency to designate specific classes of information that will be treated by the agency as if the information had been so designated by the submitter. The head of each Executive department or agency shall, to the extent permitted by law, provide the submitter notice in accordance with section 1 of this Order whenever the department or agency determines that it may be required to disclose records:
+(b) For confidential commercial information submitted on or after January 1, 1988, the head of each Executive department or agency shall, to the extent permitted by law, establish procedures to permit submitters of confidential commercial information to designate, at the time the information is submitted to the Federal government or a reasonable time thereafter, any information the disclosure of which the submitter claims could reasonably be expected to cause substantial competitive harm. Such agency procedures may provide for the expiration, after a specified period of time or changes in circumstances, of designations of competitive harm made by submitters. Additionally, such procedures may permit the agency to designate specific classes of information that will be treated by the agency as if the information had been so designated by the submitter. The head of each Executive department or agency shall, to the extent permitted by law, provide the submitter notice in accordance with section 1 of this Order whenever the department or agency determines that it may be required to disclose records:
 
 (i) designated pursuant to this subsection; or
 
@@ -518,6 +668,42 @@ Sec. 10. This Order is intended only to improve the internal management of the F
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13110. Nazi War Criminal Records Interagency Working Group
+
+Ex. Ord. No. 13110, Jan. 11, 1999, 64 F.R. 2419, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Nazi War Crimes Disclosure Act (Public Law 105–246) (the “Act”) \[5 U.S.C. 552 note\], it is hereby ordered as follows:
+
+Section 1. <i>Establishment of Working Group</i>. There is hereby established the Nazi War Criminal Records Interagency Working Group (Working Group). The function of the Group shall be to locate, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration all classified Nazi war criminal records of the United States, subject to certain designated exceptions as provided in the Act. The Working Group shall coordinate with agencies and take such actions as necessary to expedite the release of such records to the public.
+
+Sec. 2. <i>Schedule</i>. The Working Group should complete its work to the greatest extent possible and report to the Congress within 1 year.
+
+Sec. 3. <i>Membership</i>. (a) The Working Group shall be composed of the following members:
+
+(1) Archivist of the United States (who shall serve as Chair of the Working Group);
+
+(2) Secretary of Defense;
+
+(3) Attorney General;
+
+(4) Director of Central Intelligence;
+
+(5) Director of the Federal Bureau of Investigation;
+
+(6) Director of the United States Holocaust Memorial Museum;
+
+(7) Historian of the Department of State; and
+
+(8) Three other persons appointed by the President.
+
+(b) The Senior Director for Records and Access Management of the National Security Council will serve as the liaison to and attend the meetings of the Working Group. Members of the Working Group who are full-time Federal officials may serve on the Working Group through designees.
+
+Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the National Archives and Records Administration shall provide the Working Group with funding, administrative services, facilities, staff, and other support services necessary for the performance of the functions of the Working Group.
+
+(b) The Working Group shall terminate 3 years from the date of this Executive order.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Cross References
 
 Federal Register Act, see section 1502 et seq. of Title 44, Public Printing and Documents.
@@ -526,5 +712,5 @@ Section applicable to functions exercised under International Wheat Agreement Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 499f, 608d, 948, 1314g, 1314i, 1508, 1642, 2279b, 5651, 5662, 5906; title 10 sections 128, 1034, 1102, 2304, 2305, 2306a, 2328, 2371; title 12 sections 1786, 1818, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308; title 16 sections 973j, 1402, 4304; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 2422, 6512; title 21 sections 360j, 379, 379f, 830; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 section 410; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2297b–13, 2454, 2996d, 3027, 4332, 5916, 5919, 6272–6274, 7135, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 706, 10706, 10709, 11162, 14123; title 50 section 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
+This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 450i, 499f, 608d, 948, 1314g, 1314i, 1508, 1642, 2279b, 5651, 5662, 5906; title 8 section 1182; title 10 sections 128, 1034, 1102, 2304, 2305, 2306a, 2328, 2371; title 12 sections 1786, 1818, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308; title 16 sections 973j, 1402, 4304; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 2422, 6512; title 21 sections 360c, 360j, 379, 379f, 830; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 section 410; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2297b–13, 2454, 2996d, 3027, 4332, 5916, 5919, 6272–6274, 7135, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 706, 10706, 10709, 11162, 14123; title 50 section 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
 

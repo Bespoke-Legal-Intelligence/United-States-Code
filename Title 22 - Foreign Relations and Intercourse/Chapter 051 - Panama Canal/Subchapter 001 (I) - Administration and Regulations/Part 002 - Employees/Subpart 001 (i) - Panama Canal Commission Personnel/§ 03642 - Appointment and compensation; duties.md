@@ -10,7 +10,7 @@ Individuals serving in any Executive agency (other than the Commission) or the S
 
 #### (c) Salary protection
 
-In the case of an individual who is an officer or employee of the Commission on the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997 and who has not had a break in service with the Commission since that date, the rate of basic pay for that officer or employee on or after that date may not be less than the rate in effect for that officer or employee on the day before that date of enactment except—
+In the case of an individual who is an officer or employee of the Commission on November 17, 1997, and who has not had a break in service with the Commission since that date, the rate of basic pay for that officer or employee may not be less than the rate in effect for that officer or employee on that date except—
 
 &emsp;(1) as provided in a collective bargaining agreement;
 
@@ -18,13 +18,13 @@ In the case of an individual who is an officer or employee of the Commission on 
 
 &emsp;(3) pursuant to a voluntary demotion.
 
-(Pub. L. 96–70, title I, §1202, Sept. 27, 1979, 93 Stat. 461; Pub. L. 104–201, div. C, title XXXV, §3526, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3523(b), Nov. 18, 1997, 111 Stat. 2065.)
-
-#### References in Text
-
-The date of the enactment of the Panama Canal Transition Facilitation Act of 1997, referred to in subsec. (c), is the date of enactment of Pub. L. 105–85 which was approved Nov. 18, 1997.
+(Pub. L. 96–70, title I, §1202, Sept. 27, 1979, 93 Stat. 461; Pub. L. 104–201, div. C, title XXXV, §3526, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3523(b), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, §3512(a)(1), Oct. 17, 1998, 112 Stat. 2271.)
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–261, §3512(a)(1)(C), which directed substitution of “that date” for “the day before the date of enactment”, was executed by making the substitution for “the day before that date of enactment” before “except” in introductory provisions to reflect the probable intent of Congress.
+
+Pub. L. 105–261, §3512(a)(1)(A), (B), in introductory provisions, substituted “November 17, 1997,” for “the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997” and struck out “on or after that date” after “pay for that officer or employee”.
 
 1997—Subsec. (c). Pub. L. 105–85 added subsec. (c).
 

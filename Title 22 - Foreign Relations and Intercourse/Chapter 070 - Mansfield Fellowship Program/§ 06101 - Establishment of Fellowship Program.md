@@ -32,3 +32,7 @@ The National Foreign Affairs Training Center is authorized and encouraged to ass
 
 Section 251 of Pub. L. 103–236 provided that: “This part \[part C (§§251–257) of title II of Pub. L. 103–236, enacting this chapter\] may be cited as the ‘Mike Mansfield Fellowship Act’.”
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+

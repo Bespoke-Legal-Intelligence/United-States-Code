@@ -28,7 +28,7 @@ In approving applications for grants for demonstration projects for services und
 
 (1) The amount of a grant for a demonstration project for services under this subchapter shall be determined by the Secretary, based on factors such as the incidence of adolescent pregnancy in the geographic area to be served, and the adequacy of pregnancy prevention services and programs of care for pregnant adolescents and adolescent parents in such area.
 
-(2) In making grants for demonstration projects for services under this subchapter, theSecretary shall consider the special needs of rural areas and, to the maximum extent practicable, shall distribute funds taking into consideration the relative number of adolescents in such areas in need of such services.
+(2) In making grants for demonstration projects for services under this subchapter, the Secretary shall consider the special needs of rural areas and, to the maximum extent practicable, shall distribute funds taking into consideration the relative number of adolescents in such areas in need of such services.
 
 #### (c) Duration; Federal share
 
@@ -48,5 +48,5 @@ In approving applications for grants for demonstration projects for services und
 
 (3) The Secretary may waive the limitation specified in paragraph (2)(A) for any year in accordance with criteria established by regulation.
 
-(July 1, 1944, ch. 373, title XX, §2005, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §955(a), 95 Stat. 584.)
+(July 1, 1944, ch. 373, title XX, §2005, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 584.)
 

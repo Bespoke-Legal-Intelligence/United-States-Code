@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture is authorized to reimburse owners of private property for damage or destruction thereof caused by employees of the United States in connection with the protection, administration, or improvement of the national forests, payment to be made from any funds appropriated for the protection, administration, and improvement of the national forests: <i>Provided</i>, That no payment in excess of $2,500 shall be made on any such claim.
 
-(May 27, 1930, ch. 337, §2, 46 Stat. 387; Oct. 23, 1962, Pub. L. 87–869, §8, 76 Stat. 1157.)
+(May 27, 1930, ch. 337, §2, 46 Stat. 387; Pub. L. 87–869, §8, Oct. 23, 1962, 76 Stat. 1157.)
 
 #### Amendments
 

@@ -64,5 +64,5 @@ July 2, 1954, ch. 456, title IV, 68 Stat. 432.
 
 #### Transfer of Functions
 
-“United States Information Agency” substituted in text for “International Communication Agency” pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
+“United States Information Agency” substituted in text for “International Communication Agency” pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 

@@ -56,7 +56,7 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 
 &emsp;Any number of Farm Credit System institutions (other than the Corporation) may enter into an agreement with any certified facility (including an affiliate established under paragraph (1)) to sell the qualified loans of such institutions exclusively to or through the facility.
 
-(Pub. L. 92–181, title VIII, §8.5, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1694; amended Pub. L. 104–105, title I, §106, Feb. 10, 1996, 110 Stat. 164.)
+(Pub. L. 92–181, title VIII, §8.5, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1694;amended Pub. L. 104–105, title I, §106, Feb. 10, 1996, 110 Stat. 164.)
 
 #### Amendments
 

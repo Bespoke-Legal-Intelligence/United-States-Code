@@ -1,9 +1,0 @@
-Part D—College Construction Loan Insurance Association
-
-
----
-
-**In this folder** (links to each part and section; generated, not part of GPO's text)
-
-- [&sect; 01132f to 1132f&#8211;9 - Repealed. Pub. L. 104&#8211;208, div. A, title I, &sect;101(e) \[title VI, &sect;603(d)\], Sept. 30, 1996, 110 Stat. 3009&#8211;233, 3009&#8211;293](%C2%A7%2001132f%20to%201132f%E2%80%939%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28e%29%20%5Btitle%20VI%2C%20%C2%A7603%28d%29%5D%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93233%2C%203009%E2%80%93293.md)
-- [&sect; 01132f&#8211;10 - Connie Lee privatization](%C2%A7%2001132f%E2%80%9310%20-%20Connie%20Lee%20privatization.md)

@@ -4,11 +4,11 @@ The Secretary of the Interior, under such regulations as shall be prescribed by 
 
 Grazing of livestock within the memorial area to the extent now permitted within the said area when such grazing will not interfere with recreational development authorized by sections 450y to 450y–4 of this title.
 
-(Aug. 18, 1941, ch. 365, §3, 55 Stat. 631; Sept. 28, 1976, Pub. L. 94–429, §3(f), 90 Stat. 1342.)
+(Aug. 18, 1941, ch. 365, §3, 55 Stat. 631; Pub. L. 94–429, §3(f), Sept. 28, 1976, 90 Stat. 1342.)
 
 #### Amendments
 
-1976—Pub. L. 94–429 struck out designation “(a)” before “grazing of livestock” and struck out subsec. (b) which related to the surface use of the land within the memorial area for prospecting and mining.
+1976—Pub. L. 94–429 struck out designation “(a)” before “grazing of livestock” and struck out subsec. (b)which related to the surface use of the land within the memorial area for prospecting and mining.
 
 #### Mining Rights Existing Prior to 1976 Amendment
 

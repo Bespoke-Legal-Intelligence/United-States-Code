@@ -18,13 +18,13 @@ The Director of the Prevention Center shall—
 
 &emsp;(5) support clinical training programs for substance abuse counselors and other health professionals involved in drug abuse education, prevention,; <sup>2</sup>
 
-&emsp;(6) in cooperation with the Director of the Centers for Disease Control and Prevention,develop educational materials to reduce the risks of acquired immune deficiency syndrome among intravenous drug abusers;
+&emsp;(6) in cooperation with the Director of the Centers for Disease Control and Prevention, develop educational materials to reduce the risks of acquired immune deficiency syndrome among intravenous drug abusers;
 
 &emsp;(7) conduct training, technical assistance, data collection, and evaluation activities of programs supported under the Drug Free Schools and Communities Act of 1986;
 
 &emsp;(8) support the development of model, innovative, community-based programs to discourage alcohol and drug abuse among young people;
 
-&emsp;(9) prepare for distribution documentary films and public service announcements for television and radio to educate the public concerning the dangers to health resulting from the consumption of alcohol and drugs and, to the extent feasible, use appropriate private organizations and business concerns in the preparation of such announcements; and
+&emsp;(9) prepare for distribution documentary films and public service announcements for television and radio to educate the public concerning the dangers to health resulting from the consumption of alcohol and drugs and, tothe extent feasible, use appropriate private organizations and business concerns in the preparation of such announcements; and
 
 &emsp;(10) develop and support innovative demonstration programs designed to identify and deter the improper use or abuse of anabolic steroids by students, especially students in secondary schools.
 
@@ -36,7 +36,7 @@ The Director may make grants and enter into contracts and cooperative agreements
 
 The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entities and information appropriate for use by nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(a), 100 Stat. 3207–111; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2051(a)–(c), 102 Stat. 4206; Aug. 16, 1989, Pub. L. 101–93, §3(a), 103 Stat. 609; Nov. 29, 1990, Pub. L. 101–647, title XIX, §1906, 104 Stat. 4854; renumbered §515 and amended July 10, 1992, Pub. L. 102–321, title I, §113(b)–(e), 106 Stat. 345; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(10), 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### References in Text
 

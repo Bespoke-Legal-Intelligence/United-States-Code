@@ -32,7 +32,7 @@
 
 (3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) from the Special Counsel and—
 
-&emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that aninvestigation concerning such employee, former employee, or applicant has been terminated; and
+&emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that an investigation concerning such employee, former employee, or applicant has been terminated; and
 
 &emsp;(ii) no more than 60 days have elapsed since notification was provided to such employee, former employee, or applicant for employment that such investigation was terminated; or
 
@@ -42,7 +42,7 @@
 
 (5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
-(b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
+(b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems ProtectionBoard to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
 
 (ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
 
@@ -80,7 +80,7 @@
 
 (B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure described under section 2302(b)(8) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
-(ii) Corrective action under clause (i) may not be ordered if the agency demonstrates by clearand convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
+(ii) Corrective action under clause (i) may not be ordered if the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 
 (c)(1) Judicial review of any final order or decision of the Board under this section may be obtained by any employee, former employee, or applicant for employment adversely affected by such order or decision.
 

@@ -34,6 +34,7 @@
 | (<i>o</i>) | Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders. |
 | (p) | Federal-State conflict of laws. |
 | (q) | Business management group; investment services contracts. |
+| (r) | Benefits for shareholders or immediate families. |
 | [1607\.](%C2%A7%2001607%20-%20Village%20Corporations.md) | Village Corporations. |
 | (a) | Organization of Corporation prerequisite to receipt of patent to lands or benefits under chapter. |
 | (b) | Regional Corporation: approval of initial articles; review and approval of amendments to articles and annual budgets; assistance in preparation of articles and other documents. |
@@ -184,12 +185,18 @@
 | (b) | Authority and limitations of a Settlement Trust. |
 | (c) | Savings. |
 | [1629f.](%C2%A7%2001629f%20-%20Claims%20arising%20from%20contamination%20of%20transferred%20lands.md) | Claims arising from contamination of transferred lands. |
+| [1629g.](%C2%A7%2001629g%20-%20Open%20season%20for%20certain%20Alaska%20Native%20veterans%20for%20allotments.md) | Open season for certain Alaska Native veterans for allotments. |
+| (a) | In general. |
+| (b) | Eligible person. |
+| (c) | Study and report. |
+| (d) | Definitions. |
+| (e) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1641, 1642 of this title; title 2 section 658; title 5 section 3371; title 12 sections 1715z–13, 1715z–13a, 4702; title 15 section 637; title 16 sections 410hh, 410hh–3, 470bb, 1279, 1722, 1855, 3102, 3111, 3120, 3141, 3164, 3215, 4302, 4702; title 18 section 208; title 20 sections 1087uu–1, 1401, 4402, 6103, 7404, 7713, 9122; title 25 sections 450b, 1452, 1603, 1801, 2026, 2403, 2511, 3001, 3002, 3112, 3202, 3501, 3703, 3802, 3902, 4001, 4103; title 26 section 45A; title 29 sections 706, 750, 1671; title 30 section 1306; title 31 section 7501; title 33 sections 1263, 1377; title 38 section 3115; title 42 sections 280d, 1996a, 2991b, 2992c, 3002, 3796dd–8, 3796gg–2, 4368b, 4762, 5061, 6502, 8011, 8802, 9832, 10101, 11472, 12584, 13743, 13791, 13801, 13868, 13911, 13971, 14151; title 45 section 1212.
+This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637, 1638, 1639, 1641, 1642 of this title; title 2 section 658; title 5 section 3371; title 12 sections 1715z–13, 1715z–13a, 4702; title 15 section 637; title 16 sections 410hh, 410hh–3, 470bb, 1279, 1722, 1855, 3102, 3111, 3120, 3141, 3164, 3215, 4302, 4702; title 18 section 208; title 20 sections 1087uu–1, 1401, 4402, 6103, 7404, 7713, 9122; title 25 sections 450b, 1452, 1603, 1801, 2026, 2403, 2511, 3001, 3002, 3112, 3202, 3501, 3703, 3802, 3902, 4001, 4103; title 26 section 45A; title 29 sections 705, 741, 1671; title 30 section 1306; title 31 section 7501; title 33 sections 1263, 1377; title 38 section 3115; title 42 sections 280d, 1996a, 2991b, 2992c, 3002, 3122, 3796dd–8, 3796gg–2, 4368b, 4762, 5061, 6502, 8011, 8802, 9832, 10101, 12584, 13743, 13791, 13801, 13868, 13911, 13971, 14151; title 45 section 1212.
 
 
 ---
@@ -231,3 +238,4 @@ This chapter is referred to in sections 1631, 1632, 1633, 1634, 1635, 1636, 1637
 - [&sect; 01629d - Dissenters rights](%C2%A7%2001629d%20-%20Dissenters%20rights.md)
 - [&sect; 01629e - Settlement Trust option](%C2%A7%2001629e%20-%20Settlement%20Trust%20option.md)
 - [&sect; 01629f - Claims arising from contamination of transferred lands](%C2%A7%2001629f%20-%20Claims%20arising%20from%20contamination%20of%20transferred%20lands.md)
+- [&sect; 01629g - Open season for certain Alaska Native veterans for allotments](%C2%A7%2001629g%20-%20Open%20season%20for%20certain%20Alaska%20Native%20veterans%20for%20allotments.md)

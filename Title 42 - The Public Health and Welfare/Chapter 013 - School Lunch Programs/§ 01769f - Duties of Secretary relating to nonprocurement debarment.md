@@ -22,13 +22,11 @@ As used in this section:
 
 &emsp;&emsp;(C) the child and adult care food program established under section 1766 of this title;
 
-&emsp;&emsp;(D) the homeless children nutrition program established under section 1766b of this title;
+&emsp;&emsp;(D) the special milk program established under section 1772 of this title;
 
-&emsp;&emsp;(E) the special milk program established under section 1772 of this title;
+&emsp;&emsp;(E) the school breakfast program established under section 1773 of this title; and
 
-&emsp;&emsp;(F) the school breakfast program established under section 1773 of this title; and
-
-&emsp;&emsp;(G) the special supplemental nutrition program for women, infants, and children authorized under section 1786 of this title.
+&emsp;&emsp;(F) the special supplemental nutrition program for women, infants, and children authorized under section 1786 of this title.
 
 #### (2) Contractor
 
@@ -76,7 +74,7 @@ The Secretary shall—
 
 #### (3) Exception
 
-&emsp;If the Secretary determines that a decision on initiating nonprocurement debarment proceedings cannot be made within 180 days after notification of the occurrence of a cause for debarment described in paragraph (2) because of the need to further investigate matters relating to the possible debarment, the Secretary may have such additional time as theSecretary considers necessary to make a decision, but not to exceed an additional 180 days.
+&emsp;If the Secretary determines that a decision on initiating nonprocurement debarment proceedings cannot be made within 180 days after notification of the occurrence of a cause for debarment described in paragraph (2) because of the need to further investigate matters relating to the possible debarment, the Secretary may have such additional time as the Secretary considers necessary to make a decision, but not to exceed an additional 180 days.
 
 #### (4) Mandatory child nutrition program debarment periods
 
@@ -146,11 +144,19 @@ Prior to seeking judicial review in a court of competent jurisdiction, a contrac
 
 On request, the Secretary shall present to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information regarding the activities of the Secretary relating to anticompetitive activities, fraud, nonprocurement debarment, and any waiver granted by the Secretary under this section.
 
-(June 4, 1946, ch. 281, §25, as added Nov. 2, 1994, Pub. L. 103–448, title I, §122(a), 108 Stat. 4727.)
+(June 4, 1946, ch. 281, §25, as added Pub. L. 103–448, title I, §122(a), Nov. 2, 1994, 108 Stat. 4727; amended Pub. L. 105–336, title I, §107(j)(2)(C)(ii), Oct. 31, 1998, 112 Stat. 3153.)
+
+#### Amendments
+
+1998—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “the homeless children nutrition program established under section 1766b of this title;”.
 
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of Pub. L. 105–336, set out as a note under section 1761 of this title.
 
 #### Effective Date
 

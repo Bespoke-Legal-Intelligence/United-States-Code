@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(A) is 55 years of age or older;
 
-&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) ofthis section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
+&emsp;&emsp;(B) subject to subsection (c)(4) of this section, is determined under subsection (c) of this section to require the level of care required under the State medicaid plan for coverage of nursing facility services;
 
 &emsp;&emsp;(C) resides in the service area of the PACE program; and
 
@@ -132,7 +132,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to thehealth status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential PACE program eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential PACE program eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -180,7 +180,7 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contractyear shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
 
 #### (e) PACE program agreement
 
@@ -340,7 +340,7 @@
 
 #### (B) Flexibility
 
-&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service delivery model to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to usenonstaff physicians according to State licensing law requirements) under this section and section 1396u–4 of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
+&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service delivery model to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to use nonstaff physicians according to State licensing law requirements) under this section and section 1396u–4 of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
 
 &emsp;&emsp;&emsp;(i) The focus on frail elderly qualifying individuals who require the level of care provided in a nursing facility.
 
@@ -404,9 +404,9 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (i) Miscellaneous provisions
 
-Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
+Nothing in this section or section 1396u–4 of this title shall be construed as preventing aPACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4801, 111 Stat. 528.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528.)
 
 #### References in Text
 
@@ -500,11 +500,11 @@ Delay in application to current waivers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACE program before the initial effective date of regulations described in subsection (a), the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 24 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
+In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACEprogram before the initial effective date of regulations described in subsection (a), the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 24 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
 &emsp;&emsp;“(B)
 
-State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 3 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue tooperate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs.”
+State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 3 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs.”
 
 #### PACE Programs; Study and Reports
 

@@ -25,7 +25,7 @@
 
 For extension of time for award of decorations, or devices in lieu of decorations, for acts or services performed in direct support of military operations in Southeast Asia between July 1, 1958, and Mar. 28, 1973, see Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, set out as a note preceding section 3741 of this title.
 
-For extension of time for award of decoration, or device in lieu of decoration, for an act or service performed while on active duty in military or naval forces, or while serving with such forces, between June 27, 1950,and July 27, 1953, see act Aug. 2, 1956, ch. 877, 70 Stat. 933, set out as a note preceding section 3741 of this title.
+For extension of time for award of decoration, or device in lieu of decoration, for an act or service performed while on active duty in military or naval forces, or while serving with such forces, between June 27, 1950, and July 27, 1953, see act Aug. 2, 1956, ch. 877, 70 Stat. 933, set out as a note preceding section 3741 of this title.
 
 #### Meritorious Service Medal
 

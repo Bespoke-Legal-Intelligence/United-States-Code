@@ -6,7 +6,7 @@ The Administrator is authorized, subject to the civil-service and classification
 
 #### (b) Temporary employment of experts or consultants; stenographic reporting services
 
-To such extent as he finds necessary to carry out the provisions of titles I, II, III, V, and VI of this Act, the Administrator is authorized to procure the temporary (not in excess of one year) or intermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract or appointment, and in such cases such service shall be without regard to the civil-service and classification laws, and except in the case of stenographic reporting services by organizations, without regard to section 5 of title 41.
+To such extent as he finds necessary to carry out the provisions of titles I, II, III, V, and VI of this Act, the Administrator is authorized to procure the temporary (not in excess of one year) orintermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract or appointment, and in such cases such service shall be without regard to the civil-service and classification laws, and except in the case of stenographic reporting services by organizations, without regard to section 5 of title 41.
 
 #### (c) Utilization of personnel of other Federal agencies
 
@@ -36,7 +36,7 @@ Section was also formerly classified to section 238 of Title 41, Public Contract
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Office of Audits and Office of Investigations in General Services Administration transferred to Office of Inspector General in General Services Administration by section 9(a)(1)(K) of the Inspector General Act of 1978, Pub. L. 95–452, setout in the Appendix to Title 5, Government Organization and Employees, section 2 of which established such Office of Inspector General.
+Functions, powers, and duties of Office of Audits and Office of Investigations in General Services Administration transferred to Office of Inspector General in General Services Administration by section 9(a)(1)(K) of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, section 2 of which established such Office of Inspector General.
 
 #### Definitions
 

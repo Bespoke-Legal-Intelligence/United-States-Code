@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) 100 or more employees who in the aggregate work at least 4,000 hours per week (exclusive of hours of overtime);
 
-&emsp;(2) the term “plant closing” means the permanent or temporary shutdown of a single siteof employment, or one or more facilities or operating units within a single site of employment, if the shutdown results in an employment loss at the single site of employment during any 30-day period for 50 or more employees excluding any part-time employees;
+&emsp;(2) the term “plant closing” means the permanent or temporary shutdown of a single site of employment, or one or more facilities or operating units within a single site of employment, if the shutdown results in an employment loss at the single site of employment during any 30-day period for 50 or more employees excluding any part-time employees;
 
 &emsp;(3) the term “mass layoff” means a reduction in force which—
 

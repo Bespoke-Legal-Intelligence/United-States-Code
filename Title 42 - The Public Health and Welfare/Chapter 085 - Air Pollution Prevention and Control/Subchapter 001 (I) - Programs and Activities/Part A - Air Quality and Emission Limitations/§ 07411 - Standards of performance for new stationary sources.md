@@ -84,9 +84,9 @@ After the effective date of standards of performance promulgated under this sect
 
 #### (g) Revision of regulations
 
-(1) Upon application by the Governor of a State showing that the Administrator has failed to specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
+(1) Upon application by the Governor of a State showing that the Administrator has failedto specify in regulations under subsection (f)(1) of this section any category of major stationary sources required to be specified under such regulations, the Administrator shall revise such regulations to specify any such category.
 
-(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributessignificantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
+(2) Upon application of the Governor of a State, showing that any category of stationary sources which is not included in the list under subsection (b)(1)(A) of this section contributes significantly to air pollution which may reasonably be anticipated to endanger public health or welfare (notwithstanding that such category is not a category of major stationary sources), the Administrator shall revise such regulations to specify such category of stationary sources.
 
 (3) Upon application of the Governor of a State showing that the Administrator has failed to apply properly the criteria required to be considered under subsection (f)(2) of this section, the Administrator shall revise the list under subsection (b)(1)(A) of this section to apply properly such criteria.
 
@@ -128,7 +128,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 &emsp;(i) the proposed system or systems have not been adequately demonstrated,
 
-&emsp;(ii) the proposed system or systems will operate effectively and there is a substantial likelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
+&emsp;(ii) the proposed system or systems will operate effectively and there is a substantiallikelihood that such system or systems will achieve greater continuous emission reduction than that required to be achieved under the standards of performance which would otherwise apply, or achieve at least an equivalent reduction at lower cost in terms of energy, economic, or nonair quality environmental impact,
 
 &emsp;(iii) the owner or operator of the proposed source has demonstrated to the satisfaction of the Administrator that the proposed system will not cause or contribute to an unreasonable risk to public health, welfare, or safety in its operation, function, or malfunction, and
 
@@ -172,13 +172,13 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 (B) An extension granted under this paragraph shall set forth emission limits and a compliance schedule containing increments of progress which require compliance with the applicable standards of performance as expeditiously as practicable and include such measures as are necessary and practicable in the interim to minimize emissions. Such schedule shall be treated as a standard of performance for purposes of subsection (e) of this section and section 7413 of this title.
 
-(July 14, 1955, ch. 360, title I, §111, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1683; amended Nov. 18, 1971, Pub. L. 92–157, title III, §302(f), 85 Stat. 464; Aug. 7, 1977, Pub. L. 95–95, title I, §109(a)–(d)(1), (e), (f), title IV, §401(b), 91 Stat. 697–703, 791; Nov. 16, 1977, Pub. L. 95–190, §14(a)(7)–(9), 91 Stat. 1399; Nov. 9, 1978, Pub. L. 95–623, §13(a), 92 Stat. 3457; Nov. 15, 1990, Pub. L. 101–549, title I, §108(e)–(g), title III, §302(a), (b), title IV, §403(a), 104 Stat. 2467, 2574, 2631.)
+(July 14, 1955, ch. 360, title I, §111, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1683; amended Pub. L. 92–157, title III, §302(f), Nov. 18, 1971, 85 Stat. 464; Pub. L. 95–95, title I, §109(a)–(d)(1), (e), (f), title IV, §401(b), Aug. 7, 1977, 91 Stat. 697–703, 791; Pub. L. 95–190, §14(a)(7)–(9), Nov. 16, 1977, 91 Stat. 1399; Pub. L. 95–623, §13(a), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 101–549, title I, §108(e)–(g), title III, §302(a), (b), title IV, §403(a), Nov. 15, 1990, 104 Stat. 2467, 2574, 2631.)
 
 #### References in Text
 
 Such Act, referred to in subsec. (a)(8), means Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, known as the Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 
-Section 7413 of this title, referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
+Section 7413 of this title, referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII,§701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
 
 Subsection (a)(1) of this section, referred to in subsec. (b)(6), was amended generally by Pub. L. 101–549, title VII, §403(a), Nov. 15, 1990, 104 Stat. 2631, and, as so amended, no longer contains subpars.
 
@@ -246,7 +246,7 @@ Pub. L. 95–95, §109(e), added subsec. (k).
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Regulations
 
@@ -254,7 +254,7 @@ Section 403(b), (c) of Pub. L. 101–549 provided that:
 
 “(b)
 
-Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator shall promulgate revised regulations for standards ofperformance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
+Revised Regulations.—Not later than three years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Administrator shall promulgate revised regulations for standards of performance for new fossil fuel fired electric utility units commencing construction after the date on which such regulations are proposed that, at a minimum, require any source subject to such revised standards to emit sulfur dioxide at a rate not greater than would have resulted from compliance by such source with the applicable standards of performance under this section \[amending sections 7411 and 7479 of this title\] prior to such revision.
 
 “(c)
 

@@ -24,7 +24,7 @@
 
 (D) The Attorney General shall prepare and submit annually to the Congress statements of financial condition of the Immigration Enforcement Account, including beginning account balance, revenues, withdrawals, and ending account balance and projection for the ensuing fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §280, 66 Stat. 230; Nov. 29, 1990, Pub. L. 101–649, title V, §542(a), 104 Stat. 5057; Oct. 25, 1994, Pub. L. 103–416, title II, §219(s), 108 Stat. 4317; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(g)(4)(C), 382(a), 110 Stat. 3009–623, 3009–651.)
+(June 27, 1952, ch. 477, title II, ch. 8, §280, 66 Stat. 230; Pub. L. 101–649, title V, §542(a), Nov. 29, 1990, 104 Stat. 5057; Pub. L. 103–416, title II, §219(s), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title III, §§308(g)(4)(C), 382(a), Sept. 30, 1996, 110 Stat. 3009–623, 3009–651.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(4)(C) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(4)(C) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Section 382(c) of div. C of Pub. L. 104–208 provided that: “The amendments made by this section \[amending this section and section 1356 of this title\] shall apply to fines and penalties collected on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 

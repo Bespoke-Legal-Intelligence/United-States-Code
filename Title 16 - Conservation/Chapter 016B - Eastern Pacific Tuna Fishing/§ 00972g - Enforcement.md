@@ -6,7 +6,7 @@ The judges of the United States district courts and United States magistrate jud
 
 #### (b) Joint responsibility for enforcement
 
-The enforcement of this chapter and the regulations issued under section 972e of this title shall be the joint responsibility of the department in which the Coast Guard is operating, the Department of Commerce, and the United States Customs Service. In addition, the Secretary of Commerce may designate officers and employees of the States of the United States, of the Commonwealth of Puerto Rico, and of American Samoa to carry out enforcement activities under this section. When so designated, such officers and employees may function as Federal law enforcement agents for these purposes.
+The enforcement of this chapter and the regulations issued under section 972e of this title shall be the joint responsibility of the department in which the Coast Guard is operating, the Department of Commerce, and the United States Customs Service. In addition, the Secretary of Commerce may designate officers and employeesof the States of the United States, of the Commonwealth of Puerto Rico, and of American Samoa to carry out enforcement activities under this section. When so designated, such officers and employees may function as Federal law enforcement agents for these purposes.
 
 #### (c) Execution of warrants and process
 
@@ -32,5 +32,5 @@ Notwithstanding the provisions of section 2464 of title 28, when a warrant of ar
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

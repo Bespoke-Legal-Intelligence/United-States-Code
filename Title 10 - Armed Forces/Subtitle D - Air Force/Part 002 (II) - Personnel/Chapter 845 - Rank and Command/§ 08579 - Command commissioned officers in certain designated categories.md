@@ -2,7 +2,7 @@
 
 An officer designated as a medical, dental, veterinary, medical service, or biomedical sciences officer or as a nurse is not entitled to exercise command because of rank, except within the categories prescribed in subsection (a), (b), (c), (d), (e), (f), or (i) of section 8067 of this title, or over persons placed under his charge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 531; Sept. 2, 1958, Pub. L. 85–861, §1(156), (185), 72 Stat. 1513, 1533; Dec. 12, 1980, Pub. L. 96–513, title II, §212(b), 94 Stat. 2885.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 531; Pub. L. 85–861, §1(156), (185), Sept. 2, 1958, 72 Stat. 1513, 1533; Pub. L. 96–513, title II, §212(b), Dec. 12, 1980, 94 Stat. 2885.)
 
 Historical and Revision Notes<br>1956
 

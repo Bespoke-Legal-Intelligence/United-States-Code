@@ -12,7 +12,7 @@
 
 &emsp;(C) for a workweek longer than forty hours after the expiration of the second year from such date,
 
-> unless such employee receives compensation for his employment in excess of the hours above specified at a rate not less than one and one-half times the regular rate at which he is employed.
+> unless such employee receives compensation for his employment in excess of the hours abovespecified at a rate not less than one and one-half times the regular rate at which he is employed.
 
 #### (b) Employment pursuant to collective bargaining agreement; employment by independently owned and controlled local enterprise engaged in distribution of petroleum products
 
@@ -20,7 +20,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(1) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that no employee shall be employed more than one thousand and forty hours during any period of twenty-six consecutive weeks; or
 
-&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours workedper week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximum workweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
+&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours worked per week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximum workweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
 
 &emsp;(3) by an independently owned and controlled local enterprise (including an enterprise with more than one bulk storage establishment) engaged in the wholesale or bulk distribution of petroleum products if—
 
@@ -50,7 +50,7 @@ As used in this section the “regular rate” at which an employee is employed 
 
 &emsp;(5) extra compensation provided by a premium rate paid for certain hours worked by the employee in any day of workweek because such hours are hours worked in excess of eight in a day or in excess of the maximum workweek applicable to such employee under subsection (a) of this section or in excess of the employee's normal working hours or regular working hours, as the case may be;
 
-&emsp;(6) extra compensation provided by a premium rate paid for work by the employee on Saturdays, Sundays, holidays, or regular days of rest, or on the sixth or seventh day of the workweek, where such premium rate is not less than one and one-half times the rate established in good faith for like work performed in nonovertime hours on other days; or
+&emsp;(6) extra compensation provided by a premium rate paid for work by the employee on Saturdays, Sundays, holidays, or regular daysof rest, or on the sixth or seventh day of the workweek, where such premium rate is not less than one and one-half times the rate established in good faith for like work performed in nonovertime hours on other days; or
 
 &emsp;(7) extra compensation provided by a premium rate paid to the employee, in pursuance of an applicable employment contract or collective-bargaining agreement, for work outside of the hours established in good faith by the contract or agreement as the basic, normal, or regular workday (not exceeding eight hours) or workweek (not exceeding the maximum workweek applicable to such employee under subsection (a) of this section,<sup>2</sup> where such premium rate is not less than one and one-half times the rate established in good faith by the contract or agreement for like work performed during such workday or workweek.
 
@@ -94,7 +94,7 @@ No public agency shall be deemed to have violated subsection (a) of this section
 
 #### (<i>l</i>) Employment in domestic service in one or more households
 
-No employer shall employ any employee in domestic service in one or more households for a workweek longer than forty hours unless suchemployee receives compensation for such employment in accordance with subsection (a) of this section.
+No employer shall employ any employee in domestic service in one or more households for a workweek longer than forty hours unless such employee receives compensation for such employment in accordance with subsection (a) of this section.
 
 #### (m) Employment in tobacco industry
 
@@ -138,7 +138,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 > In the case of employees described in clause (A)(ii) hired prior to April 15, 1986, the regular practice in effect on April 15, 1986, with respect to compensatory time off for such employees in lieu of the receipt of overtime compensation, shall constitute an agreement or understanding under such clause (A)(ii). Except as provided in the previous sentence, the provision of compensatory time off to such employees for hours worked after April 14, 1986, shall be in accordance with this subsection.
 
-(3)(A) If the work of an employee for which compensatory time may be provided included work in a public safety activity, an emergency response activity, or a seasonal activity, the employee engaged in such work may accrue not more than 480 hours of compensatory time for hours worked after April 15, 1986. If such work was any other work, the employee engaged in such work may accrue not more than 240 hours of compensatory time for hours worked after April 15, 1986. Any such employee who, after April 15, 1986, has accrued 480 or 240 hours, as the case may be, of compensatory time off shall, for additional overtime hours of work, be paid overtime compensation.
+(3)(A) If the work of an employee for which compensatory time may be provided included work in a public safety activity, an emergencyresponse activity, or a seasonal activity, the employee engaged in such work may accrue not more than 480 hours of compensatory time for hours worked after April 15, 1986. If such work was any other work, the employee engaged in such work may accrue not more than 240 hours of compensatory time for hours worked after April 15, 1986. Any such employee who, after April 15, 1986, has accrued 480 or 240 hours, as the case may be, of compensatory time off shall, for additional overtime hours of work, be paid overtime compensation.
 
 (B) If compensation is paid to an employee for accrued compensatory time off, such compensation shall be paid at the regular rate earned by the employee at the time the employee receives such payment.
 
@@ -356,7 +356,7 @@ Action by employee to recover unpaid overtime compensation and liquidated damage
 
 American Samoa employees not subject to provisions of this section, see section 213 of this title.
 
-Employees performing services within foreign country or certain territory under jurisdiction of UnitedStates as not subject to provisions of this section, see section 213 of this title.
+Employees performing services within foreign country or certain territory under jurisdiction of United States as not subject to provisions of this section, see section 213 of this title.
 
 Forty-hour workweek for employees covered by Walsh-Healey Act, see section 35 of Title 41, Public Contracts.
 
@@ -374,7 +374,7 @@ Walsh-Healey Act inapplicable to employees entering into agreements with employe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 203, 211, 213, 214, 215, 216, 216b, 218, 2611, 2617 of this title; title 2 section 1313; title 3 section 413; title 5 sections 5542, 5543, 5544, 6123, 6128; title 41 sections 35, 355.
+This section is referred to in sections 203, 211, 213, 214, 215, 216, 216b, 218, 2611, 2617 of this title; title 2 section 1313; title 3 section 413; title 5 sections 5542, 5543, 5544, 5545b, 6123, 6128; title 41 sections 35, 355.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

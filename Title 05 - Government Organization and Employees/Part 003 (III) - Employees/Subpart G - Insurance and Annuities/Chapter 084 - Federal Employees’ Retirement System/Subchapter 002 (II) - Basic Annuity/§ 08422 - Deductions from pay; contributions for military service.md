@@ -1,6 +1,6 @@
 ### §8422. Deductions from pay; contributions for military service
 
-(a)(1) The employing agency shall deduct and withhold from basic pay of each employee andMember a percentage of basic pay determined in accordance with paragraph (2).
+(a)(1) The employing agency shall deduct and withhold from basic pay of each employee and Member a percentage of basic pay determined in accordance with paragraph (2).
 
 (2) The percentage to be deducted and withheld from basic pay for any pay period shall be equal to—
 
@@ -30,6 +30,12 @@
 | &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
 | &nbsp; | 7\.5 | After December 31, 2002. |
 | Law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller | 7\.5 7.75 7.9 8 7.5 | January 1, 1987, to December 31, 1998.January 1, 1999, to December 31, 1999.January 1, 2000, to December 31, 2000.January 1, 2001, to December 31, 2002.After December 31, 2002. |
+| Nuclear materials courier | 7 | January 1, 1987 to the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999. |
+| &nbsp; | 7\.5 | The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 to December 31, 1998. |
+| &nbsp; | 7\.75 | January 1, 1999 to December 31, 1999. |
+| &nbsp; | 7\.9 | January 1, 2000 to December 31, 2000. |
+| &nbsp; | 8 | January 1, 2001 to December 31, 2001. |
+| &nbsp; | 7\.5 | After December 31, 2002. |
 
 (b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
@@ -85,19 +91,23 @@
 
 (g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255.)
 
 #### References in Text
 
 Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified to section 3101(a) of Title 26, Internal Revenue Code.
 
+The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in the table in subsec. (a)(3), is the date of enactment of Pub. L. 105–261, which was approved Oct. 17, 1998.
+
 The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
 
-The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, seeShort Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–261 inserted table for nuclear materials courier.
 
 1997—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The applicable percentage under this subsection for any pay period shall be—
 
@@ -137,6 +147,10 @@ Subsec. (e)(2)(B). Pub. L. 103–353, §5(d)(2), inserted before comma at end �
 
 1988—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+
 #### Effective Date of 1997 Amendments
 
 Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
@@ -152,6 +166,8 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respect to any individual entitled to an annuity on the basis of a separation from service occurring before, on, or after Oct. 1, 1993, subject to rule relating to annuities based on earlier separations, see sections 371(c) and 392 of Pub. L. 103–82, set out as notes under section 8332 of this title and section 4951 of Title 42, The Public Health and Welfare, respectively.
 
 #### No Reduction in Agency Contributions
+
+Pub. L. 105–261, div. C, title XXXI, §3154(i)(2), Oct. 17, 1998, 112 Stat. 2256, provided that: “Contributions under subsections (a) and (b) of section 8423 of title 5, United States Code, shall not be reduced as a result of that portion of the amendment made by paragraph (1) \[amending this section\] requiring employee deductions at a rate in excess of 7.5 percent for the period beginning on January 1, 1999, and ending on December 31, 2002.”
 
 Section 7001(b)(2) of Pub. L. 105–33 provided that: “Contributions under section 8423(a) and (b) of title 5, United States Code, shall not be reduced as a result of the amendments made under paragraph (1) \[amending this section\] of this subsection.”
 

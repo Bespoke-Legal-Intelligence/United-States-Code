@@ -18,11 +18,11 @@
 
 &emsp;&emsp;(iii) a supervisor or a management official;
 
-&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in the Department of State, the International Communication Agency, the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce; or
+&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in the Department of State, the International Communication Agency, the Agency for International Development, the Department of Agriculture, or the Department of Commerce; or
 
 &emsp;&emsp;(v) any person who participates in a strike in violation of section 7311 of this title;
 
-&emsp;(3) “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, and the Government Printing Office, but does not include—
+&emsp;(3) “agency” means an Executive agency (including a nonappropriated fund instrumentality described in section 2105(c) of this title and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Printing Office, and the Smithsonian Institution <sup>1</sup> but does not include—
 
 &emsp;&emsp;(A) the General Accounting Office;
 
@@ -122,9 +122,13 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792.)
 
 #### Amendments
+
+1998—Subsec. (a)(2)(B)(iv). Pub. L. 105–277 substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+
+Subsec. (a)(3). Pub. L. 105–220, in introductory provisions, struck out “and” after “Library of Congress,” and inserted “and the Smithsonian Institution” after “Government Printing Office,”.
 
 1996—Subsec. (a)(3)(F) to (H). Pub. L. 104–201 inserted “or” at end of subpar. (F), substituted a period for “; or” at end of subpar. (G), and struck out subpar. (H) which read as follows: “the Central Imagery Office;”.
 
@@ -136,7 +140,11 @@
 
 #### Change of Name
 
-International Communication Agency, referred to in subsec. (a)(2)(B)(iv), redesignated United States Information Agency and Director or any other official of International Communication Agency redesignated as Director or other official, as appropriate, of United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse.
+International Communication Agency, referred to in subsec. (a)(2)(B)(iv), redesignated United States Information Agency and Director or any other official of International Communication Agency redesignated as Director or other official, as appropriate, of United States Information Agency by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State by sections 6531 and 6532 of Title 22.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of Title 22.
 
 #### Effective Date of 1996 Amendment
 
@@ -154,13 +162,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certainagencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
 #### 1–1.
 
 Determinations
 
-1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to thoseagencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
+1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to those agencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
 1–102. Having determined that it is necessary in the interest of national security, the provisions of Chapter 71 of Title 5 of the United States Code are suspended with respect to any agency, installation, or activity listed in Section 1–3 of this Order. However, such suspension shall be applicable only to that portion of the agency, installation, or activity which is located outside the 50 States and the District of Columbia.
 
@@ -426,7 +434,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
-Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
+Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court tobe incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
 
 Sec. 3. <i>Amendment of Executive Order No. 12171</i>. Executive Order No. 12171 is amended by deleting Section 1–209 and inserting in its place:
 
@@ -439,4 +447,6 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4703, 5596, 6121, 7323, 8473 of this title; title 2 section 1351; title 7 section 7011; title 10 section 1614; title 22 section 3701; title 38 section 711.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

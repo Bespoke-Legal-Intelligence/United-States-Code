@@ -1,0 +1,182 @@
+### §1396. Empowerment zone employment credit
+
+#### (a) Amount of credit
+
+For purposes of section 38, the amount of the empowerment zone employment credit determined under this section with respect to any employer for any taxable year is the applicable percentage of the qualified zone wages paid or incurred during the calendar year which ends with or within such taxable year.
+
+#### (b) Applicable percentage
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the term “applicable percentage” means the percentage determined in accordance with the following table:
+
+<b> In the case of wages paid or</b>
+
+<b>The applicable</b>
+
+<b>  incurred during calendar year:</b>
+
+<b>percentage is:</b>
+
+&emsp;&emsp;1994 through 2001
+
+20&nbsp;&nbsp;
+
+&emsp;&emsp;2002
+
+15&nbsp;&nbsp;
+
+&emsp;&emsp;2003
+
+10&nbsp;&nbsp;
+
+&emsp;&emsp;2004
+
+5&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (2) Special rule
+
+&emsp;With respect to each empowerment zone designated pursuant to the amendments made by the Taxpayer Relief Act of 1997 to section 1391(b)(2), the following table shall apply in lieu of the table in paragraph (1):
+
+<b> In the case of wages paid or</b>
+
+<b>The applicable</b>
+
+<b>  incurred during calendar year—</b>
+
+<b>percentage is—</b>
+
+&emsp;&emsp;2000 through 2004
+
+20&nbsp;&nbsp;
+
+&emsp;&emsp;2005
+
+15&nbsp;&nbsp;
+
+&emsp;&emsp;2006
+
+10&nbsp;&nbsp;
+
+&emsp;&emsp;2007
+
+5\.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (c) Qualified zone wages
+
+#### (1) In general
+
+&emsp;For purposes of this section, the term “qualified zone wages” means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified zone employee.
+
+#### (2) Only first $15,000 of wages per year taken into account
+
+&emsp;With respect to each qualified zone employee, the amount of qualified zone wages which may be taken into account for a calendar year shall not exceed $15,000.
+
+#### (3) Coordination with work opportunity credit
+
+#### (A) In general
+
+&emsp;&emsp;The term “qualified zone wages” shall not include wages taken into account in determining the credit under section 51.
+
+#### (B) Coordination with paragraph (2)
+
+&emsp;&emsp;The $15,000 amount in paragraph (2) shall be reduced for any calendar year by theamount of wages paid or incurred during such year which are taken into account in determining the credit under section 51.
+
+#### (d) Qualified zone employee
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;Except as otherwise provided in this subsection, the term “qualified zone employee” means, with respect to any period, any employee of an employer if—
+
+&emsp;&emsp;(A) substantially all of the services performed during such period by such employee for such employer are performed within an empowerment zone in a trade or business of the employer, and
+
+&emsp;&emsp;(B) the principal place of abode of such employee while performing such services is within such empowerment zone.
+
+#### (2) Certain individuals not eligible
+
+&emsp;The term “qualified zone employee” shall not include—
+
+&emsp;&emsp;(A) any individual described in subparagraph (A), (B), or (C) of section 51(i)(1),
+
+&emsp;&emsp;(B) any 5-percent owner (as defined in section 416(i)(1)(B)),
+
+&emsp;&emsp;(C) any individual employed by the employer for less than 90 days,
+
+&emsp;&emsp;(D) any individual employed by the employer at any facility described in section 144(c)(6)(B), and
+
+&emsp;&emsp;(E) any individual employed by the employer in a trade or business the principal activity of which is farming (within the meaning of subparagraph (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
+
+&emsp;&emsp;&emsp;(i) the aggregate unadjusted bases (or, if greater, the fair market value) of the assets owned by the employer which are used in such a trade or business, and
+
+&emsp;&emsp;&emsp;(ii) the aggregate value of assets leased by the employer which are used in such a trade or business (as determined under regulations prescribed by the Secretary),
+
+> &emsp;&emsp;exceeds $500,000.
+
+#### (3) Special rules related to termination of employment
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (2)(C) shall not apply to—
+
+&emsp;&emsp;&emsp;(i) a termination of employment of an individual who before the close of the period referred to in paragraph (2)(C) becomes disabled to perform the services of such employment unless such disability is removed before the close of such period and the taxpayer fails to offer reemployment to such individual, or
+
+&emsp;&emsp;&emsp;(ii) a termination of employment of an individual if it is determined under the applicable State unemployment compensation law that the termination was due to the misconduct of such individual.
+
+#### (B) Changes in form of business
+
+&emsp;&emsp;For purposes of paragraph (2)(C), the employment relationship between the taxpayer and an employee shall not be treated as terminated—
+
+&emsp;&emsp;&emsp;(i) by a transaction to which section 381(a) applies if the employee continues to be employed by the acquiring corporation, or
+
+&emsp;&emsp;&emsp;(ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
+
+#### (e) Credit not to apply to empowerment zones designated under section 1391(g)
+
+This section shall be applied without regard to any empowerment zone designated under section 1391(g).
+
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 549; amended Pub. L. 104–188, title I, §1201(e)(4), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–34, title IX, §§951(b), 952(b), Aug. 5, 1997, 111 Stat. 885, 887.)
+
+#### References in Text
+
+The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788.
+
+Reference in subsec. (c)(3) to section 51 of this title treated as including reference to section 51A of this title, see section 51A(d)(2) of this title.
+
+#### Prior Provisions
+
+A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, §3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
+
+#### Amendments
+
+1997—Subsec. (b). Pub. L. 105–34 substituted “For purposes of this section—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the term ‘applicable percentage’ means the percentage determined in accordance with the following table:”
+
+> for “For purposes of this section, the term ‘applicable percentage’ means the percentage determined in accordance with the following table:” and added par. (2).
+
+Subsec. (e). Pub. L. 105–34, §952(b), added subsec. (e).
+
+1996—Subsec. (c)(3). Pub. L. 104–188 substituted “work opportunity credit” for “targeted jobs credit” in heading.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 951(b) of Pub. L. 105–34 effective Aug. 5, 1997, except that designations of new empowerment zones made pursuant to amendments by section 951 of Pub. L. 105–34 to be made during 180-day period beginning Aug. 5, 1997, and no designation pursuant to such amendments to take effect before Jan. 1, 2000, see section 951(c) of Pub. L. 105–34, set out as a note under section 1391 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 38, 39, 51A, 196, 280C, 1397, 1400 of this title.
+

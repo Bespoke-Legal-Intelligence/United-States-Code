@@ -4,7 +4,7 @@
 
 (b) The existing office of General Counsel of the Department of Health and Human Services shall be abolished effective upon the appointment and qualification of the General Counsel provided for by subsection (a) of this section or April 1, 1957, whichever is earlier.
 
-(July 31, 1956, ch. 804, title III, §301, 70 Stat. 742; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(July 31, 1956, ch. 804, title III, §301, 70 Stat. 742; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section was formerly classified to section 623c of former Title 5, Executive Dep
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+“Department of Health and Human Services” substituted in text for “Department of Health, Education,and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Cross References
 

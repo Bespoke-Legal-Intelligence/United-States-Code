@@ -4,7 +4,7 @@ Whoever, being a Postal Service officer or employee, loans, uses, pledges, hypot
 
 This section shall not prohibit any Postal Service officer or employee from depositing, under the direction of the Postal Service, in a national bank designated by the Secretary of the Treasury for that purpose, to his own credit as Postal Service officer or employee any funds in his charge, nor prevent his negotiating drafts or other evidences of debt through such bank, or through United States disbursing officers, or otherwise, when instructed or required so to do by the Postal Service, for the purpose of remitting surplus funds from one post office to another.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Aug. 12, 1970, Pub. L. 91–375, §6(j)(21), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), 108 Stat. 2147, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, §6(j)(21), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, §330016(1)(H), (2)(G), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

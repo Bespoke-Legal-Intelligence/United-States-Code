@@ -84,9 +84,5 @@ A special access program may not be initiated until—
 
 In this section, the term “congressional defense committees” means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.
 
-(Aug. 1, 1946, ch. 724, title I, §93, as added Nov. 30, 1993, Pub. L. 103–160, div. C, title XXXI, §3156(a), 107 Stat. 1953.)
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+(Aug. 1, 1946, ch. 724, title I, §93, as added Pub. L. 103–160, div. C, title XXXI, §3156(a), Nov. 30, 1993, 107 Stat. 1953.)
 

@@ -70,7 +70,7 @@ The Secretary shall ensure the effective implementation of the rural development
 
 &emsp;(5) correct administrative problems in Federal programs that delay or hinder the effective delivery of services, assistance, or benefits to rural areas; and
 
-&emsp;(6) simplify, standardize, and reduce the complexity of applications, reports, and otherforms required under Federal rural development programs.
+&emsp;(6) simplify, standardize, and reduce the complexity of applications, reports, and other forms required under Federal rural development programs.
 
 (Pub. L. 92–419, title VI, §607, as added Pub. L. 96–355, §2, Sept. 24, 1980, 94 Stat. 1171; amended Pub. L. 104–127, title VII, §759A, Apr. 4, 1996, 110 Stat. 1138.)
 
@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2663, and 2667 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Transfer of Functions
 

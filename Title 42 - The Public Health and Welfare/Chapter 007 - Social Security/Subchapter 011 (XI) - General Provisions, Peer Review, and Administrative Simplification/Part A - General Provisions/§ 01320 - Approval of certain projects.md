@@ -2,7 +2,7 @@
 
 No payment shall be made under this chapter with respect to any experimental, pilot, demonstration, or other project all or any part of which is wholly financed with Federal funds made available under this chapter (without any State, local, or other non-Federal financial participation) unless such project shall have been personally approved by the Secretary or Deputy Secretary of Health and Human Services.
 
-(Aug. 14, 1935, ch. 531, title XI, §1120, as added Jan. 2, 1968, Pub. L. 90–248, title II, §249, 81 Stat. 919; amended Jan. 2, 1975, Pub. L. 93–608, §2(5), 88 Stat. 1971; Dec. 21, 1982, Pub. L. 97–375, title I, §107(a), 96 Stat. 1820; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(v), 98 Stat. 1170; Nov. 5, 1990, Pub. L. 101–509, title V, §529 \[title I, §112(c)\], 104 Stat. 1427, 1454.)
+(Aug. 14, 1935, ch. 531, title XI, §1120, as added Pub. L. 90–248, title II, §249, Jan. 2, 1968, 81 Stat. 919; amended Pub. L. 93–608, §2(5), Jan. 2, 1975, 88 Stat. 1971; Pub. L. 97–375, title I, §107(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(v), July 18, 1984, 98 Stat. 1170; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(II) has not been expressly deleted from such list by such a report subsequently submitted to Congress by the President; or
 
-&emsp;&emsp;&emsp;(ii)(I) appears on the list of critical technologies contained in an annual defense critical technologies plan submitted to Congress by the Secretary of Defense pursuant to section 2506 <sup>1</sup> of title 10; and
+&emsp;&emsp;&emsp;(ii)(I) appears on the list of critical technologies contained in an annual defensecritical technologies plan submitted to Congress by the Secretary of Defense pursuant to section 2506 <sup>1</sup> of title 10; and
 
 &emsp;&emsp;&emsp;(II) has not been expressly deleted from such list by such a plan subsequently submitted to Congress by the Secretary.
 

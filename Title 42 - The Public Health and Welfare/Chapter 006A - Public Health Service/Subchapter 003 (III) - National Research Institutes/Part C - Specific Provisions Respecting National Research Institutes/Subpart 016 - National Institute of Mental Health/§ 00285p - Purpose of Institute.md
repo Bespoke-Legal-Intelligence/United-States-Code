@@ -56,7 +56,7 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Director shall obligate not less than 15 percent to carry out health services research relating to mental health.
 
-(July 1, 1944, ch. 373, title IV, §464R, as added July 10, 1992, Pub. L. 102–321, title I, §124(a), 106 Stat. 364; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(5), 106 Stat. 938.)
+(July 1, 1944, ch. 373, title IV, §464R, as added Pub. L. 102–321, title I, §124(a), July 10, 1992, 106 Stat. 364; amended Pub. L. 102–352, §2(a)(5), Aug. 26, 1992, 106 Stat. 938.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
 
-(June 30, 1953, ch. 164, §17, as added Aug. 13, 1981, Pub. L. 97–35, title XII, §1207(d), 95 Stat. 719.)
+(June 30, 1953, ch. 164, §17, as added Pub. L. 97–35, title XII, §1207(d), Aug. 13, 1981, 95 Stat. 719.)
 
 #### References in Text
 

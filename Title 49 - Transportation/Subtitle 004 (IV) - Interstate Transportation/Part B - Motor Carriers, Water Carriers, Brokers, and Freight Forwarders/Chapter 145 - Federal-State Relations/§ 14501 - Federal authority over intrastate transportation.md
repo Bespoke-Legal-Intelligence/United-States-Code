@@ -2,7 +2,23 @@
 
 (a)
 
-Motor Carriers of Passengers.—No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route or relating to the implementation of any change in the rates for such transportation or for any charter transportation except to the extent that notice, not in excess of 30 days, of changes in schedules may be required. This subsection shall not apply to intrastate commuter bus operations.
+Motor Carriers of Passengers.—
+
+&emsp;(1)
+
+Limitation on state law.—No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to—
+
+&emsp;&emsp;(A) scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by a motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route;
+
+&emsp;&emsp;(B) the implementation of any change in the rates for such transportation or for any charter transportation except to the extent that notice, not in excess of 30 days, of changes in schedules may be required; or
+
+&emsp;&emsp;(C) the authority to provide intrastate or interstate charter bus transportation.
+
+> &emsp;This paragraph shall not apply to intrastate commuter bus operations, or to intrastate bus transportation of any nature in the State of Hawaii.
+
+&emsp;(2)
+
+Matters not covered.—Paragraph (1) shall not restrict the safety regulatory authority of a State with respect to motor vehicles, the authority of a State to impose highway route controls or limitations based on the size or weight of the motor vehicle, or the authority of a State to regulate carriers with regard to minimum amounts of financial responsibility relating to insurance requirements and self-insurance authorization.
 
 (b)
 
@@ -32,7 +48,7 @@ Matters not covered.—Paragraph (1)—
 
 &emsp;&emsp;(B) does not apply to the transportation of household goods; and
 
-&emsp;&emsp;(C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorizationof the owner or operator of the motor vehicle.
+&emsp;&emsp;(C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorization of the owner or operator of the motor vehicle.
 
 &emsp;(3)
 
@@ -70,7 +86,7 @@ Election.—Notwithstanding any other provision of law, a carrier affiliated wit
 
 Nonapplicability to hawaii.—This subsection shall not apply with respect to the State of Hawaii.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277, div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586.)
 
 #### References in Text
 
@@ -79,6 +95,12 @@ The Surface Freight Forwarder Deregulation Act of 1986, referred to in subsec. (
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11501 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–178 reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route or relating to the implementation of any change in the rates for such transportation or for any charter transportation except to the extent that notice, not in excess of 30 days, of changes in schedules may be required. This subsection shall not apply to intrastate commuter bus operations.”
+
+Subsec. (a)(1). Pub. L. 105–277 substituted “operations, or to intrastate bus transportation of any nature in the State of Hawaii” for “operations” in concluding provisions.
 
 #### Effective Date
 

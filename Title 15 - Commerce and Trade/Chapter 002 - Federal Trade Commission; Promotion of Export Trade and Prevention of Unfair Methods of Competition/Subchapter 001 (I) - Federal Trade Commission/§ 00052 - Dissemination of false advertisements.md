@@ -12,7 +12,7 @@ It shall be unlawful for any person, partnership, or corporation to disseminate,
 
 The dissemination or the causing to be disseminated of any false advertisement within the provisions of subsection (a) of this section shall be an unfair or deceptive act or practice in or affecting commerce within the meaning of section 45 of this title.
 
-(Sept. 26, 1914, ch. 311, §12, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Jan. 4, 1975, Pub. L. 93–637, title II, §201(c), 88 Stat. 2193; Aug. 16, 1994, Pub. L. 103–297, §8, 108 Stat. 1550.)
+(Sept. 26, 1914, ch. 311, §12, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Pub. L. 93–637, title II, §201(c), Jan. 4, 1975, 88 Stat. 2193; Pub. L. 103–297, §8, Aug. 16, 1994, 108 Stat. 1550.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 Reasonable variations shall be permitted and tolerance shall be established by rules and regulations made by the Director of the National Institute of Standards and Technology and approved by the Secretary of Commerce. Prosecutions for offenses under this section or sections 234 or 235 of this title may be begun upon complaint of local sealers of weights and measures or other officers of the several States and Territories appointed to enforce the laws of the said States or Territories, respectively, relating to weights and measures: <i>Provided, however</i>, That nothing in this section or sections 234 and 235 of this title shall apply to barrels used in packing or shipping commodities sold exclusively by weight or numerical count.
 
-(Mar. 4, 1915, ch. 158, §3, 38 Stat. 1187; Aug. 23, 1988, Pub. L. 100–418, title V, §5115(c), 102 Stat. 1433.)
+(Mar. 4, 1915, ch. 158, §3, 38 Stat. 1187; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@ The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, ti
 
 The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in text, is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
+The Public Utility Holding Company Act of 1935, referred to in text, is act Aug. 26, 1935, ch. 687, title I, 49Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
 
 The Trust Indenture Act of 1939, referred to in text, is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, and amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 

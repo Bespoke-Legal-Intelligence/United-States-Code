@@ -4,6 +4,10 @@ There shall be not to exceed twelve delegates from the House of Representatives 
 
 (June 28, 1935, ch. 322, §3, as added Pub. L. 94–141, title II, §204(b), Nov. 29, 1975, 89 Stat. 762; amended Pub. L. 95–45, §4(d)(2), June 15, 1977, 91 Stat. 223; Pub. L. 103–437, §9(a)(1), Nov. 2, 1994, 108 Stat. 4588.)
 
+#### Conditional Repeal of Section
+
+<i>For repeal of section effective Oct. 1, 1999, unless Congress receives before that date a specific certification by Secretary of State regarding contribution of United States to Bureau of Interparliamentary Union during fiscal year 1999, see section 2503(d) of Pub. L. 105–277, set out as a Conditional Termination of Authority note under section 276 of this title.</i>
+
 #### Amendments
 
 1994—Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in two places.

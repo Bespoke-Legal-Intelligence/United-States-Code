@@ -116,11 +116,7 @@ Except as provided in subsection (c)(2)(E) of this section, a grant provided und
 
 (2) The Secretary shall reconsider any amended application submitted under this chapter within 60 days after the amended application is submitted to the Secretary.
 
-#### (g) Report
-
-The Bureau shall submit an annual report to the Congress on all applications received, and actions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to the Congress the budget under section 1105 of title 31.
-
-(Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9, 1988, 102 Stat. 1608.)
+(Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, §801(d), Nov. 10, 1998, 112 Stat. 3288.)
 
 #### References in Text
 
@@ -131,6 +127,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 The title, referred to in subsec. (c)(2)(D), probably should be “this part”, meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (g). Pub. L. 105–362 struck out heading and text of subsec. (g). Text read as follows: “The Bureau shall submit an annual report to the Congress on all applications received, and actions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to the Congress the budget under section 1105 of title 31.”
 
 1988—Subsec. (a)(1)(A), (B). Pub. L. 100–427, §11(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 

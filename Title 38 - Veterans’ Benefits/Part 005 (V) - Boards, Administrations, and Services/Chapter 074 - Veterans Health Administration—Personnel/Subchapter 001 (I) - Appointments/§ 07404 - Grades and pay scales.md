@@ -74,11 +74,11 @@ Subsec. (d)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary f
 
 Section 308 of Pub. L. 102–585 provided that: “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
 
-#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 1998
+#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 1999
 
-Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1998. See Schedule set out below:
+Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1999. See Schedule set out below:
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1998)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 1999)
 
 &nbsp;
 
@@ -90,15 +90,15 @@ Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) <sup
 
 Deputy Under Secretary for Health
 
-<sup>2</sup> $123,168
+<sup>2</sup> $126,986
 
 Associate Deputy Under Secretary for Health
 
-<sup>3</sup> 117,971
+<sup>3</sup> 121,628
 
 Assistant Under Secretaries for Health
 
-<sup>3</sup> 114,494
+<sup>3</sup> 118,043
 
 &nbsp;
 
@@ -108,147 +108,147 @@ Maximum
 
 Medical Directors
 
-$97,687
+$100,715
 
-<sup>3</sup> $110,714
+<sup>3</sup> $114,146
 
 Service Directors
 
-85,059
+87,696
 
-105,636
+108,911
 
 Director, National Center for Preventive Health
 
-72,525
+74,773
 
-105,636
+108,911
 
 Physician and Dentist Schedule
 
 Director Grade
 
-$85,059
+$87,696
 
-$105,636
+$108,911
 
 Executive Grade
 
-78,543
+80,978
 
-100,100
+103,203
 
 Chief Grade
 
-72,525
+74,773
 
-94,287
+97,201
 
 Senior Grade
 
-61,656
+63,567
 
-80,151
+82,638
 
 Intermediate Grade
 
-52,176
+53,793
 
-67,827
+69,930
 
 Full Grade
 
-43,876
+45,236
 
-57,043
+58,808
 
 Associate Grade
 
-36,609
+37,744
 
-47,589
+49,066
 
 Clinical Podiatrist and Optometrist Schedule
 
 Chief Grade
 
-$72,525
+$74,773
 
-$94,287
+$97,201
 
 Senior Grade
 
-61,656
+63,567
 
-80,151
+82,638
 
 Intermediate Grade
 
-52,176
+53,793
 
-67,827
+69,930
 
 Full Grade
 
-43,876
+45,236
 
-57,043
+58,808
 
 Associate Grade
 
-36,609
+37,744
 
-47,589
+49,066
 
 Physician Assistant and Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$72,525
+$74,773
 
-$94,287
+$97,201
 
 Assistant Director Grade
 
-61,656
+63,567
 
-80,151
+82,638
 
 Chief Grade
 
-52,176
+53,793
 
-67,827
+69,930
 
 Senior Grade
 
-43,876
+45,236
 
-57,043
+58,808
 
 Intermediate Grade
 
-36,609
+37,744
 
-47,589
+49,066
 
 Full Grade
 
-30,257
+31,195
 
-39,338
+40,555
 
 Associate Grade
 
-26,037
+26,844
 
-33,849
+34,899
 
 Junior Grade
 
-22,258
+22,948
 
-28,936
+29,833
 
 <sup>1</sup> This schedule does not apply to the Assistant Under Secretary for Nursing Programs or the Director of Nursing Services. Pay for these positions is set by the Under Secretary for Health under 38 U.S.C. 7451.
 
@@ -276,7 +276,7 @@ Ex. Ord. No. 11576, Jan. 8, 1971, 36 F.R. 347, which provided for adjustment of 
 
 #### Executive Order No. 11637
 
-Ex. Ord. No. 11637, Dec. 22, 1971, 36 F.R. 24911, which provided for adjustment of pay rates effective Jan. 1,1972, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 11637, Dec. 22, 1971, 36 F.R. 24911, which provided for adjustment of pay rates effective Jan. 1, 1972, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out as a note under section 5332 of Title 5.
 
 #### Executive Order No. 11691
 
@@ -372,7 +372,11 @@ Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for adjustment of
 
 #### Executive Order No. 13033
 
-Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 13071
+
+Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

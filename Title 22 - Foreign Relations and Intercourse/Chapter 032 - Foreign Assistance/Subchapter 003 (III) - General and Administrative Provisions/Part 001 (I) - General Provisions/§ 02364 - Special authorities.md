@@ -4,7 +4,7 @@
 
 (1) The President may authorize the furnishing of assistance under this chapter without regard to any provision of this chapter, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under this chapter, in furtherance of any of the purposes of this chapter, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is important to the security interests of the United States.
 
-(2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export Control Act, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, thatto do so is vital to the national security interests of the United States.
+(2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export Control Act, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is vital to the national security interests of the United States.
 
 (3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
@@ -24,7 +24,7 @@
 
 #### (b) United States obligations in West Germany
 
-Whenever the President determines it to be important to the national interest, he may use funds available for the purposes of part IV of subchapter I of this chapter in order to meet the responsibilities or objectives of the United States in Germany, including West Berlin, and without regard to such provisions of law as he determines should be disregarded to achieve this purpose.
+Whenever the President determines it to be important to the national interest, he may use funds available for the purposes of part IV of subchapter I of this chapter in order to meet the responsibilities or objectives of the United States in Germany, including West Berlin, andwithout regard to such provisions of law as he determines should be disregarded to achieve this purpose.
 
 #### (c) Certification by President of inadvisability to specify nature of use of funds; reports to Congress
 

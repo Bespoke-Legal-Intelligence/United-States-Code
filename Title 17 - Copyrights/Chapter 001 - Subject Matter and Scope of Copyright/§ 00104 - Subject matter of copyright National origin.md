@@ -8,21 +8,29 @@ Unpublished Works.—The works specified by sections 102 and 103, while unpublis
 
 Published Works.—The works specified by sections 102 and 103, when published, are subject to protection under this title if—
 
-&emsp;(1) on the date of first publication, one or more of the authors is a national or domiciliary of the United States, or is a national, domiciliary, or sovereign authority of a foreign nation that is a party to a copyright treaty to which the United States is also a party, or is a stateless person, wherever that person may be domiciled; or
+&emsp;(1) on the date of first publication, one or more of the authors is a national or domiciliary of the United States, or is a national, domiciliary, or sovereign authority of a treaty party, or is a stateless person, wherever that person may be domiciled; or
 
-&emsp;(2) the work is first published in the United States or in a foreign nation that, on the date of first publication, is a party to the Universal Copyright Convention; or
+&emsp;(2) the work is first published in the United States or in a foreign nation that, on the date of first publication, is a treaty party; or
 
-&emsp;(3) the work is first published by the United Nations or any of its specialized agencies, or by the Organization of American States; or
+&emsp;(3) the work is a sound recording that was first fixed in a treaty party; or
 
-&emsp;(4) the work is a Berne Convention work; or
+&emsp;(4) the work is a pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in the United States or a treaty party; or
 
-&emsp;(5) the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
+&emsp;(5) the work is first published by the United Nations or any of its specialized agencies, or by the Organization of American States; or
+
+&emsp;(6) the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
+
+> For purposes of paragraph (2), a work that is published in the United States or a treaty party within 30 days after publication in a foreign nation that is not a treaty party shall be considered to be first published in the United States or such treaty party, as the case may be.
 
 (c)
 
 Effect of Berne Convention.—No right or interest in a work eligible for protection under this title may be claimed by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto. Any rights in a work eligible for protection under this title that derive from this title, other Federal or State statutes, or the common law, shall not be expanded or reduced by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2545; Pub. L. 100–568, §4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2855.)
+(d)
+
+Effect of Phonograms Treaties.—Notwithstanding the provisions of subsection (b), no works other than sound recordings shall be eligible for protection under this title solely by virtue of the adherence of the United States to the Geneva Phonograms Convention or the WIPO Performances and Phonograms Treaty.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2545; Pub. L. 100–568, §4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2855; Pub. L. 105–304, title I, §102(b), Oct. 28, 1998, 112 Stat. 2862.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +38,7 @@ I74house report no. 94–1476
 
 Section 104 of the bill \[this section\], which sets forth the basic criteria under which works of foreign origin can be protected under the U.S. copyright law, divides all works coming within the scope of sections 102 and 103 into two categories: unpublished and published. Subsection (a) imposes no qualifications of nationality and domicile with respect to unpublished works. Subsection (b) would make published works subject to protection under any one of four conditions:
 
-&emsp;(1) The author is a national or domiciliary of the United States or of a country with which the UnitedStates has copyright relations under a treaty, or is a stateless person;
+&emsp;(1) The author is a national or domiciliary of the United States or of a country with which the United States has copyright relations under a treaty, or is a stateless person;
 
 &emsp;(2) The work is first published in the United States or in a country that is a party to the Universal Copyright Convention;
 
@@ -40,15 +48,29 @@ Section 104 of the bill \[this section\], which sets forth the basic criteria un
 
 The third of these conditions represents a treaty obligation of the United States. Under the Second Protocol of the Universal Copyright Convention, protection under U.S. Copyright law is expressly required for works published by the United Nations, by U.N. specialized agencies and by the Organization of American States.
 
-#### References in Text
-
-The Universal Copyright Convention, referred to in subsec. (b)(2), probably means the Universal Copyright Convention as revised at Paris on July 24, 1971, effective July 10, 1974, set out below.
-
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–304, §102(b)(1)(G), inserted concluding provisions.
+
+Subsec. (b)(1). Pub. L. 105–304, §102(b)(1)(A), substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
+
+Subsec. (b)(2). Pub. L. 105–304, §102(b)(1)(B), substituted “treaty party” for “party to the Universal Copyright Convention”.
+
+Subsec. (b)(3). Pub. L. 105–304, §102(b)(1)(E), added par. (3). Former par. (3) redesignated (5).
+
+Subsec. (b)(4). Pub. L. 105–304, §102(b)(1)(F), substituted “pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in the United States or a treaty party” for “Berne Convention work”.
+
+Subsec. (b)(5), (6). Pub. L. 105–304, §102(b)(1)(C), (D), redesignated par. (3) as (5) and transferred it to appear after par. (4) and redesignated former par. (5) as (6).
+
+Subsec. (d). Pub. L. 105–304, §102(b)(2), added subsec. (d).
 
 1988—Subsec. (b)(4), (5). Pub. L. 100–568, §4(a)(2), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (c). Pub. L. 100–568, §4(a)(3), added subsec. (c).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 102(b)(1) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, and amendment by section 102(b)(2) of Pub. L. 105–304 effective upon entry into force of WIPO Performances and Phonograms Treaty with respect to United States, see section 105(a), (b)(2)(C) of Pub. L. 105–304, set out as a note under section 101 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -102,7 +124,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 2\. (a) The term of protection for works protected under this Convention shall not be less than the life of the author and twenty-five years after his death. However, any Contracting State which, on the effective date of this Convention in that State, has limited this term for certain classes of works to a period computed from the first publication of the work, shall be entitled to maintain these exceptions and to extend them to other classes of works. For all these classes the term of protection shall not be less than twenty-five years from the date of first publication.
 
-(b) Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not beless than twenty-five years from the date of first publication or from its registration prior to publication, as the case may be.
+(b) Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not be less than twenty-five years from the date of first publication or from its registration prior to publication, as the case may be.
 
 (c) If the legislation of a Contracting State grants two or more successive terms of protection, the duration of the first term shall not be less than one of the minimum periods specified in subparagraphs (a) and (b).
 
@@ -148,7 +170,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 3\. Notwithstanding the provisions of paragraph 2, a Contracting State that has ceased to be regarded as a developing country as referred to in paragraph 1 shall no longer be entitled to renew its notification made under the provisions of paragraph 1 or 2, and whether or not it formally withdraws the notification such State shall be precluded from availing itself of the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> at the end of the current ten-year period, or at the end of three years after it has ceased to be regarded as a developing country, whichever period expires later.
 
-4\. Any copies of a work already made under the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> maycontinue to be distributed after the expiration of the period for which notifications under this Article were effective until their stock is exhausted.
+4\. Any copies of a work already made under the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> may continue to be distributed after the expiration of the period for which notifications under this Article were effective until their stock is exhausted.
 
 5\. Any Contracting State that has deposited a notification in accordance with Article XIII with respect to the application of this Convention to a particular country or territory, the situation of which can be regarded as analogous to that of the States referred to in paragraph 1 of this Article, may also deposit notifications and renew them in accordance with the provisions of this Article with respect to any such country or territory. During the effective period of such notifications, the provisions of Articles V<i>ter</i> and V<i>quater</i> may be applied with respect to such country or territory. The sending of copies from the country or territory to the Contracting State shall be considered as export within the meaning of Articles V<i>ter</i> and V<i>quater.</i>
 
@@ -344,7 +366,7 @@ A dispute between two or more Contracting States concerning the interpretation o
 
 1\. This Convention shall not in any way affect the provisions of the Berne Convention for the Protection of Literary and Artistic Works or membership in the Union created by that Convention.
 
-2\. In application of the foregoing paragraph, a declaration has been annexed to the present Article. Thisdeclaration is an integral part of this Convention for the States bound by the Berne Convention on 1 January 1951, or which have or may become bound to it at a later date. The signature of this Convention by such States shall also constitute signature of the said declaration, and ratification, acceptance or accession by such States shall include the declaration, as well as this Convention.
+2\. In application of the foregoing paragraph, a declaration has been annexed to the present Article. This declaration is an integral part of this Convention for the States bound by the Berne Convention on 1 January 1951, or which have or may become bound to it at a later date. The signature of this Convention by such States shall also constitute signature of the said declaration, and ratification, acceptance or accession by such States shall include the declaration, as well as this Convention.
 
 #### Article XVIII
 
@@ -446,7 +468,7 @@ Have accepted the following provisions:
 
 In faith whereof the undersigned, being duly authorized thereto, have signed this Protocol.
 
-Done at Paris, this twenty-fourth day of July 1971, in the English, French and Spanish languages, the three texts being equally authoritative, in a single copy which shall be deposited with the Director-General of the United Nations Educational, Scientific and Cultural Organization. The Director-General shall send certified copies to the signatory States, and to the Secretary-General of the United Nations for registration.
+Done at Paris, this twenty-fourth day of July 1971, in the English, French and Spanish languages, the threetexts being equally authoritative, in a single copy which shall be deposited with the Director-General of the United Nations Educational, Scientific and Cultural Organization. The Director-General shall send certified copies to the signatory States, and to the Secretary-General of the United Nations for registration.
 
 #### Universal Copyright Convention
 
@@ -490,7 +512,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 #### Article IV
 
-1\. The duration of protection of a work shall be governed, in accordance with the provisions of article IIand this article, by the law of the Contracting State in which protection is claimed.
+1\. The duration of protection of a work shall be governed, in accordance with the provisions of article II and this article, by the law of the Contracting State in which protection is claimed.
 
 2\. The term of protection for works protected under this Convention shall not be less than the life of the author and 25 years after his death.
 
@@ -508,7 +530,7 @@ For the purposes of the application of the preceding provision, if the law of an
 
 5\. For the purposes of the application of paragraph 4 of this article, the work of a national of a Contracting State, first published in a non-Contracting State, shall be treated as though first published in the Contracting State of which the author is a national.
 
-6\. For the purposes of the application of paragraph 4 of this article, in case of simultaneous publication in two or more Contracting States, the work shall be treated as though first published in the State which affords the shortest term; any work published in two or more Contracting States within thirty days of its first publication shall be considered as having been published simultaneously in said Contracting States.
+6\. For the purposes of the application of paragraph 4 of this article, in case of simultaneous publication intwo or more Contracting States, the work shall be treated as though first published in the State which affords the shortest term; any work published in two or more Contracting States within thirty days of its first publication shall be considered as having been published simultaneously in said Contracting States.
 
 #### Article V
 
@@ -544,7 +566,7 @@ This Convention shall not apply to works or rights in works which, at the effect
 
 #### Article IX
 
-1\. This Convention shall come into force three months after the deposit of twelve instruments of ratification, acceptance or accession, among which thereshall be those of four States which are not members of the International Union for the Protection of Literary and Artistic Works.
+1\. This Convention shall come into force three months after the deposit of twelve instruments of ratification, acceptance or accession, among which there shall be those of four States which are not members of the International Union for the Protection of Literary and Artistic Works.
 
 2\. Subsequently, this Convention shall come into force in respect of each State three months after that State has deposited its instrument of ratification, acceptance or accession.
 
@@ -576,7 +598,7 @@ The Intergovernmental Committee shall convene a conference for revision of this 
 
 #### Article XIII
 
-Any Contracting State may, at the time of deposit of its instrument of ratification, acceptance or accession, or at any time thereafter, declare by notification addressed to the Director-General of the United Nations Educational, Scientific and Cultural Organization that this Convention shall apply to all or any of the countries or territories for the international relations of which it is responsible and this Convention shall thereupon apply to the countries or territories named in such notification after the expiration of the term of three months provided for in article IX. In the absence of such notification, this Convention shall not apply to any such country or territory.
+Any Contracting State may, at the time of deposit of its instrument of ratification, acceptance or accession,or at any time thereafter, declare by notification addressed to the Director-General of the United Nations Educational, Scientific and Cultural Organization that this Convention shall apply to all or any of the countries or territories for the international relations of which it is responsible and this Convention shall thereupon apply to the countries or territories named in such notification after the expiration of the term of three months provided for in article IX. In the absence of such notification, this Convention shall not apply to any such country or territory.
 
 #### Article XIV
 
@@ -618,7 +640,7 @@ Reservations to this Convention shall not be permitted.
 
 #### Article XXI
 
-The Director-General of the United Nations Educational, Scientific and Cultural Organization shallsend duly certified copies of this Convention to the States interested, to the Swiss Federal Council and to the Secretary-General of the United Nations for registration by him.
+The Director-General of the United Nations Educational, Scientific and Cultural Organization shall send duly certified copies of this Convention to the States interested, to the Swiss Federal Council and to the Secretary-General of the United Nations for registration by him.
 
 He shall also inform all interested States of the ratifications, acceptances and accessions which have been deposited, the date on which this Convention comes into force, the notifications under Article XIII of this Convention, and denunciations under Article XIV.
 
@@ -724,9 +746,9 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 The following is based on <i>Treaties in Force</i>, as of January 1, 1998, published by the Department of State:
 
-By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This appendix is an attempt to present a complete and annotated list of those countries. Treaties and conventions on the subject of copyright relations are also included in the preceding pages under appropriate country or subject headings.
+By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This note is an attempt to present a complete and annotated list of those countries.
 
-Proclamations by the President of the United States extending copyright protection upon compliance with the provisions of the United States copyright law, to the works of foreign authors prior to July 1, 1909, were issued pursuant to the Act of March 3, 1891 (26 Stat. 1106) and those issued subsequent to July 1, 1909, were issued under the provisions of the Act of March 4, 1909 (35 Stat. 1075), as amended by the Act of December 18, 1919 (41 Stat. 368) and the Act of September 25, 1941 (55 Stat. 732). The Act of March 4, 1909, as amended, became Title 17 of the United States Code when it was codified and enacted into positive law by the Act of July 30, 1947 (61 Stat. 652). Title 17 of the United States Code was completely revised by the Act of October 19, 1976, (Public Law 94–553, 90 Stat. 2541), which became fully effective on January 1, 1978. A number of the proclamations were preceded or accompanied by exchanges of diplomatic notes which served as the basis for their issuance. Such exchanges of notes, if printed in the official pamphlet series, may be included in the preceding pages under appropriate country and subject heading.
+Proclamations by the President of the United States extending copyright protection upon compliance with the provisions of the United States copyright law, to the works of foreign authors prior to July 1, 1909, were issued pursuant to the Act of March 3, 1891 (26 Stat. 1106) and those issued subsequent to July 1, 1909, were issued under the provisions of the Act of March 4, 1909 (35 Stat. 1075), as amended by the Act of December 18, 1919 (41 Stat. 368) and the Act of September 25, 1941 (55 Stat. 732). The Act of March 4, 1909, as amended, became Title 17 of the United States Code when it was codified and enacted into positive law by the Act of July 30, 1947 (61 Stat. 652). Title 17 of the United StatesCode was completely revised by the Act of October 19, 1976, (Public Law 94–553, 90 Stat. 2541), which became fully effective on January 1, 1978. A number of the proclamations were preceded or accompanied by exchanges of diplomatic notes which served as the basis for their issuance. Such exchanges of notes, if printed in the official pamphlet series, may be included in the preceding pages under appropriate country and subject heading.
 
 The period for compliance with the conditions and formalities prescribed by the copyright law was extended by proclamation with respect to certain works in the case of a number of countries because of the disruption or suspension of facilities essential for such compliance during World War I and World War II. In the case of World War I, this period for compliance was extended by proclamations issued under the Act of December 18, 1919 (41 Stat. 368) to fifteen months after the proclamation, as to works published after August 1, 1914, and before the proclamation of peace. In the case of World War II, this period was extended by proclamations issued under the Act of September 25, 1941 (55 Stat. 732) until such time as terminated or suspended, either by the terms of the proclamation itself or by the issuance of a subsequent proclamation. A number of the proclamations issued under the 1919 Act and all of the proclamations issued under the 1941 Act refer to rights previously granted.
 
@@ -814,17 +836,17 @@ Member of the World Trade Organization, established pursuant to the Marrakesh Ag
 
 Proclamations, Treaties, and Conventions Establishing Copyright Relations Between the United States and Other Countries
 
-Country
+<i>Country</i>
 
-Document
+<i>Document</i>
 
-Date of
+<i>Date of</i>
 
-Document
+<i>Document</i>
 
-Effective Date for Party <sup>28</sup>
+<i>Effective Date for Party </i><i><sup>28</sup></i>
 
-Reference
+<i>Reference</i>
 
 Albania
 
@@ -2038,15 +2060,7 @@ Feb. 20, 1997
 
 T. Doc. 99–27.
 
-Cyprus
-
-Berne (Paris)
-
-July 24, 1971
-
-July 27, 1983
-
-T. Doc. 99–27.
+Cyprus DBerne (Paris) DJuly 24, 1971 DJuly 27, 1983 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -5942,7 +5956,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>14</sup> Treaty of Peace with Italy (Annex XV A) dated at Paris, January 10, 1947 (TIAS 1648).
 
-<sup>15</sup> Copyright convention, signed at Tokyo, November 10, 1905 (TS 450). This convention is considered as having been abrogatedon April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace which Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
+<sup>15</sup> Copyright convention, signed at Tokyo, November 10, 1905 (TS 450). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace which Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
 <sup>16</sup> Convention between the United States and Japan for reciprocal protection of inventions, designs, trademarks, and copyrights in China and other countries where either contracting party may exercise extraterritorial jurisdiction, signed at Washington, May 19, 1908 (TS 507). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
@@ -5954,7 +5968,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>20</sup> Belize notified the Director-General of UNESCO on December 1, 1982, of its decision to apply “provisionally, and on the basis of reciprocity” the Universal Copyright Convention as adopted at Geneva on September 6, 1952, the application of which had been extended to its territory before the attainment of independence from the United Kingdom on September 21, 1981.
 
-<sup>21</sup> An instrument of accession was deposited by the Philippine Government August 19, 1955. In a communication received by the State Department January 17, 1956, UNESCO stated that by a note dated November 14, 1955, the Philippine Government informed the Director-General of UNESCO that “the President of the \* \* \* Philippines has directed the withdrawal of the \* \* \* accession \* \* \* to the Universal Copyright Convention prior to the date of November 19, 1955, at which time the Convention would become effective” for the Philippines. The Director-General notified the Philippine Government that he “proposed to submit their communication to the States concerned, upon whom it is incumbent to declare what legal inference they intend to draw from it.”
+<sup>21</sup> An instrument of accession was deposited by the Philippine Government August 19, 1955. In a communication received by the State Department January 17, 1956, UNESCO stated that by anote dated November 14, 1955, the Philippine Government informed the Director-General of UNESCO that “the President of the \* \* \* Philippines has directed the withdrawal of the \* \* \* accession \* \* \* to the Universal Copyright Convention prior to the date of November 19, 1955, at which time the Convention would become effective” for the Philippines. The Director-General notified the Philippine Government that he “proposed to submit their communication to the States concerned, upon whom it is incumbent to declare what legal inference they intend to draw from it.”
 
 <sup>22</sup> In a note delivered February 26, 1948, to the Romanian Minister for Foreign Affairs by the American Minister at Bucharest with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 10 of the Treaty of Peace with Romania, the following statement was made regarding the proclamation of May 14, 1928, and the exchange of notes on which it is based: “It shall be understood that the reciprocal copyright arrangement between the United States and Rumania effected pursuant to the exchanges of notes signed at Bucharest May 13 and October 21, 1927 and at Washington May 12 and 19, 1928 and the proclamation issued May 14, 1928 by the President of the United States of America will continue in force.” (Department of State Bulletin, March 14, 1948, p. 356). See also footnote 9.
 
@@ -6004,7 +6018,7 @@ WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic pr
 
 WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25, 1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
 
-WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to the Chairman of the Allied High Commission for Germany established the mutual understanding that reciprocal copyright relations continued in effect between the Federal Republic of Germany and the United States of America:
+WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to the Chairman of the Allied High Commission for Germany established the mutual understanding that reciprocalcopyright relations continued in effect between the Federal Republic of Germany and the United States of America:
 
 NOW, THEREFORE, I, LYNDON B. JOHNSON, President of the United States of America, by virtue of the authority vested in me by Section 9 of Title 17 of the United States Code \[section 9 of former Title 17\], do declare and proclaim:
 

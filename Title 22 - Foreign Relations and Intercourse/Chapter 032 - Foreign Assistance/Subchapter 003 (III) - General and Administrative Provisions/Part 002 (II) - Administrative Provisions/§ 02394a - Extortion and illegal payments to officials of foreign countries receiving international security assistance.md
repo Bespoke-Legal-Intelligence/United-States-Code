@@ -10,5 +10,5 @@ Section was not enacted as part of Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State by section 1–201(a)(20) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
+Functions of President under this section delegated to Secretary of State by section 1–201(a)(21) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56674, as amended, set out as a note under section 2381 of this title.
 

@@ -22,21 +22,25 @@
 
 (b)(1) The Postal Service, prior to making a determination under subsection (a)(3) of this section as to the necessity for the closing or consolidation of any post office, shall provide adequate notice of its intention to close or consolidate such post office at least 60 days prior to the proposed date of such closing or consolidation to persons served by such post office to ensure that such persons will have an opportunity to present their views.
 
-(2) The Postal Service, in making a determination whether or not to close or consolidate a post office, shall consider—
+(2) The Postal Service, in making a determination whether or not to close or consolidate a post office—
 
-&emsp;(A) the effect of such closing or consolidation on the community served by such post office;
+&emsp;(A) shall consider—
 
-&emsp;(B) the effect of such closing or consolidation on employees of the Postal Service employed at such office;
+&emsp;&emsp;(i) the effect of such closing or consolidation on the community served by such post office;
 
-&emsp;(C) whether such closing or consolidation is consistent with the policy of the Government, as stated in section 101(b) of this title, that the Postal Service shall provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining;
+&emsp;&emsp;(ii) the effect of such closing or consolidation on employees of the Postal Service employed at such office;
 
-&emsp;(D) the economic savings to the Postal Service resulting from such closing or consolidation; and
+&emsp;&emsp;(iii) whether such closing or consolidation is consistent with the policy of the Government, as stated in section 101(b) of this title, that the Postal Service shall provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining;
 
-&emsp;(E) such other factors as the Postal Service determines are necessary.
+&emsp;&emsp;(iv) the economic savings to the Postal Service resulting from such closing or consolidation; and
+
+&emsp;&emsp;(v) such other factors as the Postal Service determines are necessary; and
+
+&emsp;(B) may not consider compliance with any provision of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.).
 
 (3) Any determination of the Postal Service to close or consolidate a post office shall be in writing and shall include the findings of the Postal Service with respect to the considerations required to be made under paragraph (2) of this subsection. Such determination and findings shall be made available to persons served by such post office.
 
-(4) The Postal Service shall take no action to close or consolidate a post office until 60 days after its written determination is made available to persons served by such post office.
+(4) The Postal Service shall take no action to close or consolidate a post office until 60 daysafter its written determination is made available to persons served by such post office.
 
 (5) A determination of the Postal Service to close or consolidate any post office may be appealed by any person served by such office to the Postal Rate Commission within 30 days after such determination is made available to such person under paragraph (3). The Commission shall review such determination on the basis of the record before the Postal Service in the making of such determination. The Commission shall make a determination based upon such review no later than 120 days after receiving any appeal under this paragraph. The Commission shall set aside any determination, findings, and conclusions found to be—
 
@@ -48,9 +52,25 @@
 
 > The Commission may affirm the determination of the Postal Service or order that the entire matter be returned for further consideration, but the Commission may not modify the determination of the Postal Service. The Commission may suspend the effectiveness of the determination of the Postal Service until the final disposition of the appeal. The provisions of section 556, section 557, and chapter 7 of title 5 shall not apply to any review carried out by the Commission under this paragraph.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 94–421, §9(a), Sept. 24, 1976, 90 Stat. 1310.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 94–421, §9(a), Sept. 24, 1976, 90 Stat. 1310; Pub. L. 105–241, §3, Sept. 28, 1998, 112 Stat. 1572.)
+
+#### References in Text
+
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–241 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Postal Service, in making a determination whether or not to close or consolidate a post office, shall consider—
+
+&emsp;“(A) the effect of such closing or consolidation on the community served by such post office;
+
+&emsp;“(B) the effect of such closing or consolidation on employees of the Postal Service employed at such office;
+
+&emsp;“(C) whether such closing or consolidation is consistent with the policy of the Government, as stated in section 101(b) of this title, that the Postal Service shall provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining;
+
+&emsp;“(D) the economic savings to the Postal Service resulting from such closing or consolidation; and
+
+&emsp;“(E) such other factors as the Postal Service determines are necessary.”
 
 1976—Pub. L. 94–421 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -28,7 +28,7 @@ Officers Not Allowed Service Credit for Time Lost.—In the case of an officer o
 
 > the period of such desertion, absence, confinement, or inability to perform duties may not be counted in computing, for any purpose other than basic pay under section 205 of title 37, the officer's length of service.
 
-(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1443; amended Pub. L. 104–106, div. A, titleV, §561(a)–(c)(1), Feb. 10, 1996, 110 Stat. 321, 322; Pub. L. 105–85, div. A, title X, §1073(a)(14), Nov. 18, 1997, 111 Stat. 1900.)
+(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1443; amended Pub. L. 104–106, div. A, title V, §561(a)–(c)(1), Feb. 10, 1996, 110 Stat. 321, 322; Pub. L. 105–85, div. A, title X, §1073(a)(14), Nov. 18, 1997, 111 Stat. 1900.)
 
 Historical and Revision Notes
 

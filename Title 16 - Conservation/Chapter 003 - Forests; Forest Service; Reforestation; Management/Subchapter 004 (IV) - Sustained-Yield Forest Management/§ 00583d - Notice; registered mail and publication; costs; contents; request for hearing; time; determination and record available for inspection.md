@@ -6,7 +6,7 @@ Before any sale agreement made without competition and involving more than $500 
 
 The determination made by the Secretary having jurisdiction upon the proposals considered at any such hearing, which determination may include the modification of the terms of such proposals, together with the minutes or other record of the hearing, shall be available for public inspection during the life of any coordinated plan of management or agreement entered into in consequence of such determination.
 
-(Mar. 29, 1944, ch. 146, §5, 58 Stat. 133; June 11, 1960, Pub. L. 86–507, §1(17), 74 Stat. 201.)
+(Mar. 29, 1944, ch. 146, §5, 58 Stat. 133; Pub. L. 86–507, §1(17), June 11, 1960, 74 Stat. 201.)
 
 #### Amendments
 

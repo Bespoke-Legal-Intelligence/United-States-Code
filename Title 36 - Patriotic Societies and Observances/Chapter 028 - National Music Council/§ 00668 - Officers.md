@@ -1,6 +1,0 @@
-### §668. Officers
-
-The officers of the Corporation shall consist of a chairman of the board, a president, one or more vice presidents, a secretary, a treasurer, and such assistant officers as the board of directors shall designate. The officers shall perform such duties and have such powers as the by-laws and the board of directors may from time to time prescribe.
-
-(Aug. 1, 1956, ch. 824, §8, 70 Stat. 796.)
-

@@ -17,7 +17,7 @@
 | [9707\.](%C2%A7%2009707%20-%20Comprehensive%20program%20management%20plan.md) | Comprehensive program management plan. |
 | (a) | Preparation; scope; consultative requirements. |
 | (b) | Transmission to Congressional committees; revisions. |
-| 9708\. | Authorization of appropriations. |
+| [9708\.](%C2%A7%2009708%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,3 +33,4 @@
 - [&sect; 09705 - Federal Nuclear Operations Corps&#8217; study](%C2%A7%2009705%20-%20Federal%20Nuclear%20Operations%20Corps%E2%80%99%20study.md)
 - [&sect; 09706 - Dissemination of information](%C2%A7%2009706%20-%20Dissemination%20of%20information.md)
 - [&sect; 09707 - Comprehensive program management plan](%C2%A7%2009707%20-%20Comprehensive%20program%20management%20plan.md)
+- [&sect; 09708 - Authorization of appropriations](%C2%A7%2009708%20-%20Authorization%20of%20appropriations.md)

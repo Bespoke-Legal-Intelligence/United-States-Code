@@ -8,7 +8,7 @@ The Secretary may enter into cooperative lease arrangements with States, localit
 
 &emsp;(2) the applicant is able to demonstrate the program expertise required to operate such center in compliance with this subchapter, whether or not the applicant is receiving a grant under this part; and
 
-&emsp;(3) the applicant has consulted with and obtained the approval of the chief executive officer of the unit of general local government in which the facility is located.
+&emsp;(3) the applicant has consulted with and obtained the approval of the chief executive officer of the unit of local government in which the facility is located.
 
 #### (b) Period of availability; rent-free use; structural changes: Federal ownership and consent
 
@@ -16,9 +16,11 @@ The Secretary may enter into cooperative lease arrangements with States, localit
 
 (2) Any structural modifications or additions to facilities made available under this section shall become the property of the United States. All such modifications or additions may be made only after receiving the prior written consent of the Secretary or other appropriate officer of the Department of Health and Human Services.
 
-(Pub. L. 93–415, title III, §372, formerly §316, as added Pub. L. 98–473, title II, §655(2), Oct. 12, 1984, 98 Stat. 2124; renumbered §342 and amended Pub. L. 100–690, title VII, §7273(b), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered §372, Pub. L. 102–586, §3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022.)
+(Pub. L. 93–415, title III, §372, formerly §316, as added Pub. L. 98–473, title II, §655(2), Oct. 12, 1984, 98 Stat. 2124; renumbered §342 and amended Pub. L. 100–690, title VII, §7273(b), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered §372, Pub. L. 102–586, §3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(E)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–277 substituted “unit of local government” for “unit of general local government”.
 
 1988—Pub. L. 100–690, §7273(b)(1), inserted “or as transitional living youth shelter facilities” at end of section catchline.
 

@@ -184,12 +184,6 @@
 
 &emsp;(91) Violent Crime Reduction Trust Fund.
 
-&emsp;(92) Fisher House Trust Fund, Department of the Army.
-
-&emsp;(93) Fisher House Trust Fund, Department of the Air Force.
-
-&emsp;(94) Fisher House Trust Fund, Department of the Navy.
-
 (b)(1) Amounts (except amounts received by the Comptroller of the Currency and the Federal Deposit Insurance Corporation) that are analogous to the funds named in subsection (a) of this section and are received by the United States Government as trustee shall be deposited in an appropriate trust fund account in the Treasury. Except as provided in paragraph (2), amounts accruing to these funds are appropriated to be disbursed in compliance with the terms of the trust.
 
 (2) Expenditures from the following trust funds may be made only under annual appropriations and only if the appropriations are specifically authorized by law:
@@ -202,7 +196,7 @@
 
 &emsp;(D) Fisher House Trust Fund, Department of the Navy.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(<i>l</i>)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, §914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, §1008(c), Sept. 23, 1996, 110 Stat. 2633.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 101–189, div. A, title III, §341(a), Nov. 29, 1989, 103 Stat. 1419; Pub. L. 101–510, div. A, title XV, §1533(c)(1), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–54, §13(<i>l</i>)(1), June 13, 1991, 105 Stat. 277; Pub. L. 103–322, title XXXI, §310001(d), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 104–106, div. A, title IX, §914(c), Feb. 10, 1996, 110 Stat. 413; Pub. L. 104–201, div. A, title X, §1008(c), Sept. 23, 1996, 110 Stat. 2633; Pub. L. 105–261, div. A, title IX, §906(f)(2), Oct. 17, 1998, 112 Stat. 2096.)
 
 Historical and Revision Notes
 
@@ -242,6 +236,14 @@ The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(
 
 #### Amendments
 
+1998—Subsec. (a)(92) to (94). Pub. L. 105–261 struck out pars. (92) to (94) which read as follows:
+
+“(92) Fisher House Trust Fund, Department of the Army.
+
+“(93) Fisher House Trust Fund, Department of the Air Force.
+
+“(94) Fisher House Trust Fund, Department of the Navy.”
+
 1996—Subsec. (a)(92), (93). Pub. L. 104–106, §914(c)(1), added pars. (92) and (93).
 
 Subsec. (a)(94). Pub. L. 104–201, §1008(c)(1), added par. (94).
@@ -264,6 +266,10 @@ Subsec. (b). Pub. L. 101–510, §1533(c)(1)(B), substituted “Armed Forces Ret
 
 1984—Subsec. (a)(12). Pub. L. 98–426 substituted “Longshore” for “Longshoremen's”.
 
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–261, div. A, title IX, §906(f)(3), Oct. 17, 1998, 112 Stat. 2096, provided that: “The amendments made by this subsection \[amending this section and repealing section 2221 of Title 10, Armed Forces\] shall take effect 90 days after the date of the enactment of this Act \[Oct. 17, 1998\].”
+
 #### Effective Date of 1989 Amendment
 
 Section 341(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen's Home made for fiscal years after fiscal year 1990.”
@@ -278,5 +284,5 @@ Section 725s of former Title 31 (now this section) was modified by act June 25, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1322 of this title; title 10 section 2221; title 20 section 225; title 24 section 431; title 25 section 385a; title 33 section 770; title 38 sections 8502, 8520.
+This section is referred to in section 1322 of this title; title 20 section 225; title 24 section 431; title 25 section 385a; title 33 section 770; title 38 sections 8502, 8520.
 

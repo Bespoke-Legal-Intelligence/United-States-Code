@@ -16,7 +16,7 @@ As used in subsection (a) of this section, the term “qualified telephone borro
 
 &emsp;(2) whose net worth is at least 20 percent of the total assets of such person.
 
-(May 20, 1936, ch. 432, title II, §205, as added Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2356, 104 Stat. 4039; amended Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title II, §205, as added Pub. L. 101–624, title XXIII, §2356, Nov. 28, 1990, 104 Stat. 4039; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Amendments
 

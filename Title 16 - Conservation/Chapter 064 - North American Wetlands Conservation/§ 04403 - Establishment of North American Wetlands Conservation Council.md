@@ -22,7 +22,7 @@
 
 #### (b) Appointment and terms
 
-(1) Except as provided in paragraphs (2) and (3), the term of office of a member of the Councilappointed under subsections (a)(1)(C) and (a)(1)(D) of this section is three years.
+(1) Except as provided in paragraphs (2) and (3), the term of office of a member of the Council appointed under subsections (a)(1)(C) and (a)(1)(D) of this section is three years.
 
 (2) Of the Council members first appointed under subsection (a)(1)(C) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and two shall be appointed for a term of three years.
 
@@ -50,7 +50,7 @@ A majority of the current membership of the Council shall constitute a quorum fo
 
 #### (f) Meetings
 
-The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4) of this section.
+The Council shall meet at the call of the Chairman at least once a year. Council meetingsshall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4) of this section.
 
 #### (g) Coordinator
 
@@ -77,6 +77,22 @@ Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6,
 Subsec. (a)(1)(A). Pub. L. 101–593, §112(1), which directed that “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)” be inserted after “Service” and before the period, was executed by making the insertion after “Service” and before the semicolon as the probable intent of Congress.
 
 Subsec. (f). Pub. L. 101–593, §112(3), inserted before period at end of first sentence “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings”.
+
+#### Membership of North American Wetlands Conservation Council
+
+Pub. L. 105–312, title III, §304, Oct. 30, 1998, 112 Stat. 2958, provided that:
+
+“(a)
+
+In General.—Notwithstanding section 4(a)(1)(D) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)(D)), during the period of 1999 through 2002, the membership of the North American Wetlands Conservation Council under section 4(a)(1)(D) of that Act shall consist of—
+
+&emsp;“(1) 1 individual who shall be the Group Manager for Conservation Programs of Ducks Unlimited, Inc. and who shall serve for 1 term of 3 years beginning in 1999; and
+
+&emsp;“(2) 2 individuals who shall be appointed by the Secretary of the Interior in accordance with section 4 of that Act and who shall each represent a different organization described in section 4(a)(1)(D) of that Act.
+
+“(b)
+
+Publication of Policy.—Not later than June 30, 1999, the Secretary of the Interior shall publish in the Federal Register, after notice and opportunity for public comment, a policy for making appointments under section 4(a)(1)(D) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)(D)).”
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “3702(g)(2)(B)”.</i>
 

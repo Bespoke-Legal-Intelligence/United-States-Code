@@ -16,7 +16,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 6958(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Sept. 24, 1983, Pub. L. 98–94, title X, §1004(b)(1), 97 Stat. 658; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §§541(b), 543(b), 111 Stat. 1740, 1743.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, §1004(b)(1), Sept. 24, 1983, 97 Stat. 658; Pub. L. 105–85, div. A, title V, §§541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743.)
 
 Historical and Revision Notes
 

@@ -42,7 +42,7 @@ Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a dru
 
 &emsp;&emsp;&emsp;(iii) that are accompanied by valid certificates of analysis for each bulk drug substance;
 
-&emsp;&emsp;(B) compounds the drug product using ingredients (other than bulk drug substances) that comply with the standards of an applicable United States Pharmacopoeia or National Formulary monograph, if a monograph exists, and the United States Pharmacopoeia chapter on pharmacy compounding;
+&emsp;&emsp;(B) compounds the drug product using ingredients (other than bulk drug substances)that comply with the standards of an applicable United States Pharmacopoeia or National Formulary monograph, if a monograph exists, and the United States Pharmacopoeia chapter on pharmacy compounding;
 
 &emsp;&emsp;(C) does not compound a drug product that appears on a list published by the Secretary in the Federal Register of drug products that have been withdrawn or removed from the market because such drug products or components of such drug products have been found to be unsafe or not effective; and
 
@@ -68,7 +68,7 @@ Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a dru
 
 #### (c) Advertising and promotion
 
-A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. Thepharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.
+A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.
 
 #### (d) Regulations
 

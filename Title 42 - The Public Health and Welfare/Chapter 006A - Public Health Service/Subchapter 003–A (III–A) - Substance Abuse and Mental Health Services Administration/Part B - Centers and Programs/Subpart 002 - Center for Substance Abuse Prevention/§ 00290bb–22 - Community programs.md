@@ -10,13 +10,13 @@ The Secretary, acting through the Director of the Prevention Center, shall—
 
 #### (b) Strategies for reducing use
 
-The Director of the Prevention Center shall ensure that strategies developed under subsection (a)(1) of this section include strategies for reducing the use of alcoholic beverages and tobacco products by individuals to whom it is unlawful to sell or distribute such beverages or products.
+The Director of the Prevention Center shall ensure that strategies developed under subsection (a)(1) of this section include strategiesfor reducing the use of alcoholic beverages and tobacco products by individuals to whom it is unlawful to sell or distribute such beverages or products.
 
 #### (c) Authorization of appropriations
 
 For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated $120,000,000 for fiscal year 1993, such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §516, formerly §509, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(a), 100 Stat. 3207–112; renumbered §516 and amended July 10, 1992, Pub. L. 102–321, title I, §113(f), 106 Stat. 345.)
+(July 1, 1944, ch. 373, title V, §516, formerly §509, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–112; renumbered §516 and amended Pub. L. 102–321, title I, §113(f), July 10, 1992, 106 Stat. 345.)
 
 #### Codification
 

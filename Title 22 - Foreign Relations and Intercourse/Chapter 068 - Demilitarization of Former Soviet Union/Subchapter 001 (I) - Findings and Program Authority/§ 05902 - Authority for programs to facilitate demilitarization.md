@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the President is authorized, in accordance with this chapter, to establish and conduct programsdescribed in subsection (b) of this section to assist the demilitarization of the independent states of the former Soviet Union.
+Notwithstanding any other provision of law, the President is authorized, in accordance with this chapter, to establish and conduct programs described in subsection (b) of this section to assist the demilitarization of the independent states of the former Soviet Union.
 
 #### (b) Types of programs
 

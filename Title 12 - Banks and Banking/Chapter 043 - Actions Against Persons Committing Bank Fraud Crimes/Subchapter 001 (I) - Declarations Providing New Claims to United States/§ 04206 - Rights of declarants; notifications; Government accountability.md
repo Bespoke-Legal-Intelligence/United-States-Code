@@ -10,7 +10,7 @@ If, after review, the Attorney General concludes that the information contained 
 
 #### (c) Judgment, order, or settlement
 
-(1) When the United States obtains a judgment, order, or settlement based in whole or in part on a valid declaration filed under section 4201 of this title, the Attorney General shall notify the declarant in writing of such fact.
+(1) When the United States obtains a judgment, order, or settlement based in whole or inpart on a valid declaration filed under section 4201 of this title, the Attorney General shall notify the declarant in writing of such fact.
 
 (2) A notice described in paragraph (1) shall contain—
 
@@ -42,5 +42,5 @@ All notices provided to a declarant under this section shall be kept confidentia
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4203, 4204, 4207, 4208, 4211 of this title.
+This section is referred to in sections 4203, 4204, 4207, 4208 of this title.
 

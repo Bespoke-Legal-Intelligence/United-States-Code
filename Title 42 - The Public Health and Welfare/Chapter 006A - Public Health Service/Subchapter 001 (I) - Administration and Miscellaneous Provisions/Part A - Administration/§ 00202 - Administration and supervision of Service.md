@@ -2,7 +2,7 @@
 
 The Public Health Service in the Department of Health and Human Services shall be administered by the Assistant Secretary for Health under the supervision and direction of the Secretary.
 
-(July 1, 1944, ch. 373, title II, §201, 58 Stat. 683; 1953 Reorg. Plan No. 1, §§5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; June 10, 1993, Pub. L. 103–43, title XX, §2008(f), 107 Stat. 212.)
+(July 1, 1944, ch. 373, title II, §201, 58 Stat. 683; 1953 Reorg. Plan No. 1, §§5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 103–43, title XX, §2008(f), June 10, 1993, 107 Stat. 212.)
 
 #### Amendments
 
@@ -106,7 +106,7 @@ But if we merely take the step of integrating the four agencies within the Publi
 
 #### III
 
-The Department of Health, Education, and Welfare performs major health or health-related functionswhich are not carried out through the Public Health Service, although they are closely related to its functions. Among these are:
+The Department of Health, Education, and Welfare performs major health or health-related functions which are not carried out through the Public Health Service, although they are closely related to its functions. Among these are:
 
 &emsp;Health insurance for the aged, administered through the Social Security Administration;
 
@@ -190,7 +190,7 @@ Sec. 2. The Surgeon General is hereby authorized and empowered, without the appr
 
 Sec. 3. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to exercise the authority vested in the President by Section 704 of Title 37 of the United States Code to prescribe regulations.
 
-Sec. 4. The Secretary of Health and Human Services is hereby authorized to redelegate all or any part of the functions set forth under (a), (b), (c), and (d) of Section1 hereof to the Surgeon General of the Public Health Service or other official of that Service who is required to be appointed by and with the advice and consent of the Senate.
+Sec. 4. The Secretary of Health and Human Services is hereby authorized to redelegate all or any part of the functions set forth under (a), (b), (c), and (d) of Section 1 hereof to the Surgeon General of the Public Health Service or other official of that Service who is required to be appointed by and with the advice and consent of the Senate.
 
 Sec. 5. All actions heretofore taken by appropriate authority with respect to the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 

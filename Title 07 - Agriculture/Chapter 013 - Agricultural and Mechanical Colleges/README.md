@@ -46,12 +46,16 @@
 | :--- | ---: |
 | [341\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000341%20-%20Cooperative%20extension%20work%20by%20colleges.md) | Cooperative extension work by colleges. |
 | [342\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000342%20-%20Cooperative%20agricultural%20extension%20work%3B%20cooperation%20with%20Secretary%20of%20Agriculture.md) | Cooperative agricultural extension work; cooperation with Secretary of Agriculture. |
-| [343\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000343%20-%20Appropriations%3B%20distribution%3B%20allotment%20and%20apportionment%3B%20Federal%20Extension%20Service.md) | Appropriations; distribution; allotment and apportionment; Federal Extension Service. |
+| [343\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000343%20-%20Appropriations%3B%20distribution%3B%20allotment%20and%20apportionment%3B%20Secretary%20of%20Agriculture%3B%20matching%20funds%3B%20cooperative%20extension%20activities.md) | Appropriations; distribution; allotment and apportionment; Secretary of Agriculture; matching funds; cooperative extension activities. |
 | 343a to 343g. Repealed or Transferred. |  |
-| [344\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000344%20-%20Ascertainment%20of%20entitlement%3B%20guidelines%20concerning%20conflicts%20of%20interest%20among%20employees%3B%20time%20and%20manner%20of%20payment%3B%20reports%20of%20receipts%E2%80%A6.md) | Ascertainment of entitlement; guidelines concerning conflicts of interest among employees; time and manner of payment; reports of receipts and disbursements. |
+| [344\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000344%20-%20Ascertainment%20of%20entitlement%20of%20State%20to%20funds%3B%20time%20and%20manner%20of%20payment%3B%20State%20reporting%20requirements%3B%20plans%20of%20work.md) | Ascertainment of entitlement of State to funds; time and manner of payment; State reporting requirements; plans of work. |
+| (a) | Ascertainment of entitlement. |
+| (b) | Time and manner of payment; related reports. |
+| (c) | Requirements related to plan of work. |
+| (d) | Extension protocols. |
+| (e) | Treatment of plans of work for other purposes. |
 | [345\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000345%20-%20Replacement%20of%20diminished%2C%20lost%20or%20misapplied%20funds%3B%20restrictions%20on%20use%3B%20reports%20of%20colleges.md) | Replacement of diminished, lost or misapplied funds; restrictions on use; reports of colleges. |
-| [346\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000346%20-%20Report%20of%20nonentitlement%20to%20President%3B%20retention%20in%20Treasury%3B%20appeal%20and%20disposition.md) | Report of nonentitlement to President; retention in Treasury; appeal and disposition. |
-| [347\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000347%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93533%2C%20%C2%A71%2821%29%2C%20June%2029%2C%201960%2C%2074%20Stat.%20249.md) | Repealed. |
+| 346, 347. | Repealed. |
 | [347a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000347a%20-%20Disadvantaged%20agricultural%20areas.md) | Disadvantaged agricultural areas. |
 | (a) | Congressional findings. |
 | (b) | Appropriation. |

@@ -26,7 +26,7 @@ The policy of the United States is as follows:
 
 &emsp;(9) To ensure that appropriate assistance is rapidly provided and distributed to the people of Cuba upon the institution of a transition government in Cuba.
 
-&emsp;(10) Not to provide favorable treatment or influence on behalf of any individual or entity in the selection by the Cuban people of their future government.
+&emsp;(10) Not to provide favorable treatment or influence on behalf of any individual or entityin the selection by the Cuban people of their future government.
 
 &emsp;(11) To assist a transition government in Cuba and a democratically elected government in Cuba to prepare the Cuban military forces for an appropriate role in a democracy.
 

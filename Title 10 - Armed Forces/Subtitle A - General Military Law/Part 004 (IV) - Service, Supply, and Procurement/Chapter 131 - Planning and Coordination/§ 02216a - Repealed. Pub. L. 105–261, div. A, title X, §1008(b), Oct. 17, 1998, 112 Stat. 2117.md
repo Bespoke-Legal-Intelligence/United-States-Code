@@ -1,0 +1,4 @@
+### \[§2216a. Repealed. Pub. L. 105–261, div. A, title X, §1008(b), Oct. 17, 1998, 112 Stat. 2117\]
+
+Section, added Pub. L. 104–106, div. A, title III, §371(a)(1), Feb. 10, 1996, 110 Stat. 277, §2216; renumbered §2216a and amended Pub. L. 104–201, div. A, title III, §§363(c), 364, title X, §1074(a)(10), Sept. 23, 1996, 110 Stat. 2493, 2494, 2659, related to Defense Business Operations Fund.
+

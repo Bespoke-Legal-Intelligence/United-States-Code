@@ -6,7 +6,7 @@ Application.—This section applies only to aircraft not used to provide air tra
 
 (b)
 
-General Authority and Maximum Fees.—The Administrator of the Federal Aviation Administration may impose fees to pay for the costs of issuing airman certificates to pilots and certificates of registration of aircraft and processing forms for major repairs and alterations of fuel tanks and fuel systems of aircraft. The following fees may not be more than the amounts specified:
+General Authority and Maximum Fees.—The Administrator of the Federal Aviation Administration may impose fees to pay for the costs of issuing airman certificates to pilots and certificates of registration of aircraft and processing forms for major repairs and alterations offuel tanks and fuel systems of aircraft. The following fees may not be more than the amounts specified:
 
 &emsp;(1) $12 for issuing an airman's certificate to a pilot.
 

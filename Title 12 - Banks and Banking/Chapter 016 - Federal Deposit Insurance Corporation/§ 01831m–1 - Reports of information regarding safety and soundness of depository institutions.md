@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General, the Secretary of the Treasury, and the head of any other agency or instrumentality of the United States shall, unless otherwise prohibited by law, disclose to the appropriate Federal banking agency any information that the Attorney General, the Secretary of the Treasury, or such agency head believes raises significant concerns regarding the safety or soundness of any depository institution doing business in the United States.
+&emsp;The Attorney General, the Secretary of the Treasury, and the head of any other agency or instrumentality of the United States shall, unless otherwise prohibited by law, disclose to the appropriate Federal banking agency any information that the Attorney General, theSecretary of the Treasury, or such agency head believes raises significant concerns regarding the safety or soundness of any depository institution doing business in the United States.
 
 #### (2) Exceptions
 
@@ -16,7 +16,7 @@
 
 #### (ii) Procedures for receipt of intelligence information
 
-&emsp;&emsp;&emsp;Each appropriate Federal banking agency, in consultation with the Director ofCentral Intelligence, shall establish procedures for receipt of intelligence information that are adequate to protect the intelligence information.
+&emsp;&emsp;&emsp;Each appropriate Federal banking agency, in consultation with the Director of Central Intelligence, shall establish procedures for receipt of intelligence information that are adequate to protect the intelligence information.
 
 #### (B) Criminal investigations, safety of Government investigators, informants, and witnesses
 
@@ -56,11 +56,7 @@ This section does not impose an affirmative duty on the Attorney General, the Se
 
 For purposes of this section, the terms “appropriate Federal banking agency” and “depository institution” have the same meanings as in section 1818 of this title.
 
-#### (e) Report
-
-The Attorney General and the Secretary of the Treasury shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section.
-
-(Pub. L. 102–550, title XV, §1542, Oct. 28, 1992, 106 Stat. 4067.)
+(Pub. L. 102–550, title XV, §1542, Oct. 28, 1992, 106 Stat. 4067; Pub. L. 105–362, title X, §1001(f), Nov. 10, 1998, 112 Stat. 3292.)
 
 #### References in Text
 
@@ -70,7 +66,7 @@ Rule 6 of the Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)
 
 Section was enacted as part of the Annunzio-Wylie Anti-Money Laundering Act and also as part of the Housing and Community Development Act of 1992, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
-#### Change of Name
+#### Amendments
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1998—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: “The Attorney General and the Secretary of the Treasury shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section.”
 

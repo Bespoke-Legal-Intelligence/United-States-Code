@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-Assistance under any rural development program administered by the Secretary or any agency of the Department of Agriculture shall not be conditioned on any requirement that the recipient of the assistance accept or receive electric service from any particular utility, supplier, or cooperative.
+Assistance under any rural development program administered by the Secretary or anyagency of the Department of Agriculture shall not be conditioned on any requirement that the recipient of the assistance accept or receive electric service from any particular utility, supplier, or cooperative.
 
 #### (b) Ensuring compliance
 
@@ -28,7 +28,7 @@ In this section, the term “rural development program” means the following:
 
 Not later than 60 days after April 4, 1996, the Secretary shall issue final regulations to ensure compliance with subsection (a) of this section.
 
-(May 20, 1936, ch. 432, title I, §17, as added Apr. 4, 1996, Pub. L. 104–127, title VII, §778, 110 Stat. 1150.)
+(May 20, 1936, ch. 432, title I, §17, as added Pub. L. 104–127, title VII, §778, Apr. 4, 1996, 110 Stat. 1150.)
 
 #### References in Text
 

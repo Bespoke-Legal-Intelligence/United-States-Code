@@ -20,11 +20,11 @@ In accordance with the provisions of sections 2112 and 2191 of this title, the C
 
 &emsp;&emsp;(A) has accepted the obligations of the agreement with respect to the United States, and
 
-&emsp;&emsp;(B) should not otherwise be denied the benefits of the agreement with respect to the United States because such country has not accorded adequate benefits, including substantially equal competitive opportunities for the commerce of the United States to the extent required under section 2136(c) of this title, to the United States.
+&emsp;&emsp;(B) should not otherwise be denied the benefits of the agreement with respect to the United States because such country has not accorded adequate benefits, including substantially equal competitive opportunities for the commerce of the United States to the extent required under section 2136(c) <sup>1</sup> of this title, to the United States.
 
 #### (3) Limitation on acceptance concerning major industrial countries
 
-&emsp;The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c) of this section, unless he determines that each major industrial country (as defined in section 2136(d) of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
+&emsp;The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c) of this section, unless he determines that each major industrial country (as defined in section 2136(d) <sup>1</sup> of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
 
 &emsp;&emsp;(A) that country is not a major factor in trade in the products covered by that agreement,
 
@@ -75,6 +75,8 @@ The trade agreements to which subsection (a) of this section applies are the fol
 (Pub. L. 96–39, §2, July 26, 1979, 93 Stat. 147.)
 
 #### References in Text
+
+Section 2136(c) of this title, referred to in subsec. (b)(2)(B), was repealed, and section 2136(d) of this title, referred to in subsec. (b)(3), which defined the term “major industrial country” was redesignated section 2136(c), by Pub. L. 105–362, title XIV, §1401(b)(1), Nov. 10, 1998, 112 Stat. 3294.
 
 This Act, referred to in subsec. (c), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
@@ -221,4 +223,6 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2504, 2513, 3555 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 (b) The Coast Guard, with the consent of the head of the agency concerned, may avail itself of such officers and employees, advice, information, and facilities of any Federal agency, State, Territory, possession, or political subdivision thereof, or the District of Columbia as may be helpful in the performance of its duties. In connection with the utilization of personal services of employees of state or local governments, the Coast Guard may make payments for necessary traveling and per diem expenses as prescribed for Federal employees by the standardized Government travel regulations.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 505; Oct. 19, 1996, Pub. L. 104–324, title IV, §405(a), 110 Stat. 3924.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 505; Pub. L. 104–324, title IV, §405(a), Oct. 19, 1996, 110 Stat. 3924.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,7 @@ This section is based in part on title 33, U.S.C., 1946 ed., §756 (Mar. 3, 1915
 
 1996—Pub. L. 104–324, §405(a)(1), amended section catchline generally, substituting “Cooperation with other agencies, States, territories, and political subdivisions” for “General”.
 
-Subsec. (a). Pub. L. 104–324, §405(a)(2), (3), inserted “(including members of the Auxiliary and facilitiesgoverned under chapter 23)” after “personnel and facilities” and “The Commandant may prescribe conditions, including reimbursement, under which personnel and facilities may be provided under this subsection.” at end.
+Subsec. (a). Pub. L. 104–324, §405(a)(2), (3), inserted “(including members of the Auxiliary and facilities governed under chapter 23)” after “personnel and facilities” and “The Commandant may prescribe conditions, including reimbursement, under which personnel and facilities may be provided under this subsection.” at end.
 
 #### Medical Emergency Helicopter Transportation Services to Civilians; Authorization to Coast Guard Commandant
 

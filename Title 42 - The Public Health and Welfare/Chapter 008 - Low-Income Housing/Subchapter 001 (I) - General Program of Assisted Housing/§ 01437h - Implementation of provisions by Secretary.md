@@ -16,7 +16,7 @@ All receipts and assets of the Secretary under this chapter shall be available f
 
 The Federal Reserve banks are authorized and directed to act as depositories, custodians, and fiscal agents for the Secretary in the general exercise of his powers under this chapter, and the Secretary may reimburse any such bank for its services in such manner as may be agreed upon.
 
-(Sept. 1, 1937, ch. 896, title I, §10, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 666; amended Oct. 17, 1984, Pub. L. 98–479, title II, §203(b)(2), 98 Stat. 2229; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Oct. 19, 1996, Pub. L. 104–316, title I, §122(k), 110 Stat. 3837.)
+(Sept. 1, 1937, ch. 896, title I, §10, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 98–479, title II, §203(b)(2), Oct. 17, 1984, 98 Stat. 2229; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 104–316, title I, §122(k), Oct. 19, 1996, 110 Stat. 3837.)
 
 #### Prior Provisions
 

@@ -1,10 +1,12 @@
 ### §1146. Commissary and exchange benefits
 
-The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the nine-year period beginning on October 1, 1990, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary of Transportation shall implement this provision for Coast Guard members involuntarily separated during the five-year period beginning October 1, 1994.
+The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on September 30, 2001, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary of Transportation shall implement this provision for Coast Guard members involuntarily separated during the period beginning on October 1, 1994, and ending on September 30, 2001.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(5), Oct. 5, 1994, 108 Stat. 2768.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(i), Oct. 17, 1998, 112 Stat. 2026.)
 
 #### Amendments
+
+1998—Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990” and “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 
 1994—Pub. L. 103–337 inserted at end “The Secretary of Transportation shall implement this provision for Coast Guard members involuntarily separated during the five-year period beginning October 1, 1994.”
 

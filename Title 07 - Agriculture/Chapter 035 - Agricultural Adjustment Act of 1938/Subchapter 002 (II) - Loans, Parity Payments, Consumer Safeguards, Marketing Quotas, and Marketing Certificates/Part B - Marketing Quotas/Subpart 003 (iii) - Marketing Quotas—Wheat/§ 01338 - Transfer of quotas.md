@@ -2,7 +2,7 @@
 
 Farm marketing quotas for wheat shall not be transferable, but, in accordance with regulations prescribed by the Secretary for such purpose, any farm marketing quota in excess of the supply of wheat for such farm for any marketing year may be allocated to other farms on which the acreage allotment has not been exceeded.
 
-(Feb. 16, 1938, ch. 30, title III, §338, 52 Stat. 55; Dec. 23, 1985, Pub. L. 99–198, title III, §307, 99 Stat. 1382.)
+(Feb. 16, 1938, ch. 30, title III, §338, 52 Stat. 55; Pub. L. 99–198, title III, §307, Dec. 23, 1985, 99 Stat. 1382.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Beginning with the fiscal year 1942, each appropriation to enable the Secretary 
 
 #### Codification
 
-Section was formerly classified to section 566 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 566 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 

@@ -22,5 +22,5 @@ The amounts referred to in subsection (a) of this section are any amounts that�
 
 &emsp;(4) in the case of the program established in section 300x–21 of this title, are available as a result of reductions in allotments under such section pursuant to section 300x–26 or 300x–30 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1944, as added July 10, 1992, Pub. L. 102–321, title II, §203(a), 106 Stat. 404.)
+(July 1, 1944, ch. 373, title XIX, §1944, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 404.)
 

@@ -18,7 +18,7 @@ A hearing officer may dismiss any claim that the hearing officer finds to be fri
 
 #### (1) Appointment
 
-&emsp;Upon the filing of a complaint, the Executive Director shall appoint an independenthearing officer to consider the complaint and render a decision. No Member of the House of Representatives, Senator, officer of either the House of Representatives or the Senate, head of an employing office, member of the Board, or covered employee may be appointed to be a hearing officer. The Executive Director shall select hearing officers on a rotational or random basis from the lists developed under paragraph (2). Nothing in this section shall prevent the appointment of hearing officers as full-time employees of the Office or the selection of hearing officers on the basis of specialized expertise needed for particular matters.
+&emsp;Upon the filing of a complaint, the Executive Director shall appoint an independent hearing officer to consider the complaint and render a decision. No Member of the House of Representatives, Senator, officer of either the House of Representatives or the Senate, head of an employing office, member of the Board, or covered employee may be appointed to be a hearing officer. The Executive Director shall select hearing officers on a rotational or random basis from the lists developed under paragraph (2). Nothing in this section shall prevent the appointment of hearing officers as full-time employees of the Office or the selection of hearing officers on the basis of specialized expertise needed for particular matters.
 
 #### (2) Lists
 
@@ -76,11 +76,11 @@ A hearing officer who conducts a hearing under this section shall be guided by j
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2)(A), (d)(3), and (h), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2)(A), (d)(3), and (h), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 Rule 45(b) of the Federal Rules of Civil Procedure, referred to in subsec. (f)(1), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Subchapter II of this chapter, referred to in subsec. (g), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which enacted subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of title II to the Code, see Tables.
+Subchapter II of this chapter, referred to in subsec. (g), was in the original “title II”, meaning title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, as amended, which enacted subchapter II of this chapter and amended section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare. For complete classification of title II to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

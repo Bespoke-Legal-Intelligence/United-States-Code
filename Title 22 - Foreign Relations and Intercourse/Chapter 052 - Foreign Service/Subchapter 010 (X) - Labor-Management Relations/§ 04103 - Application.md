@@ -2,7 +2,7 @@
 
 #### (a) Departments and agencies affected
 
-This subchapter applies only with respect to the Department of State, the United States Information Agency, the United States International Development Cooperation Agency, the Department of Agriculture, and the Department of Commerce.
+This subchapter applies only with respect to the Department of State, the Broadcasting Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 
 #### (b) Exclusion of subdivisions
 
@@ -16,13 +16,25 @@ The President may by Executive order exclude any subdivision of the Department f
 
 The President may by Executive order suspend any provision of this subchapter with respect to any post, bureau, office, or activity of the Department, if the President determines in writing that the suspension is necessary in the interest of national security because of an emergency.
 
-(Pub. L. 96–465, title I, §1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 96–465, title I, §1003, Oct. 17, 1980, 94 Stat. 2130; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(3), title XIV, §1422(b)(4)(C), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §1422(b)(4)(C), substituted “Agency for International Development” for “United States International Development Cooperation Agency”.
+
+Pub. L. 105–277, §1335(k)(3), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 #### Change of Name
 
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (a), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by section 1335(k)(3) of Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of this title, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States International Development Cooperation Agency pursuant to reorganization plan described in section 6601 of this title, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4173 of this title.
+This section is referred to in sections 4117, 4173 of this title.
 

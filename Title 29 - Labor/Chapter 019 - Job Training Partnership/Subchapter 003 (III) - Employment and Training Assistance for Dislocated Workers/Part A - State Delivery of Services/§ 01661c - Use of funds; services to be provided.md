@@ -44,7 +44,7 @@ Funds allotted under section 1652 of this title may be used—
 
 &emsp;(D) to provide or obtain appropriate financial and technical advice and liaison with economic development agencies and other organizations to assist in efforts to avert worker dislocations;
 
-&emsp;(E) to disseminate information throughout the State on the availability of services and activities carried out by the dislocated worker unit or office; and
+&emsp;(E) to disseminate information throughout the State on the availability of services andactivities carried out by the dislocated worker unit or office; and
 
 &emsp;(F) to assist the local community in developing its own coordinated response and in obtaining access to State economic development assistance.
 
@@ -164,9 +164,13 @@ Funds allotted under section 1652 of this title may be used to provide basic rea
 
 (Pub. L. 97–300, title III, §314, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1532; amended Pub. L. 101–392, §5(a)(3), Sept. 25, 1990, 104 Stat. 759; Pub. L. 102–367, title III, §301, Sept. 7, 1992, 106 Stat. 1073; Pub. L. 102–484, div. D, title XLIV, §4467(b)–(d), Oct. 23, 1992, 106 Stat. 2750.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (g)(2)(A), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (g)(2)(A), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Wagner-Peyser Act, referred to in subsec. (g)(2)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified principally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 

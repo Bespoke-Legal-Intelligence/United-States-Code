@@ -2,7 +2,7 @@
 
 In this title, the term “Army” means the Army or Armies referred to in the Constitution of the United States, less that part established by law as the Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 157; Apr. 21, 1987, Pub. L. 100–26, §7(k)(8), 101 Stat. 284.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 157; Pub. L. 100–26, §7(k)(8), Apr. 21, 1987, 101 Stat. 284.)
 
 Historical and Revision Notes
 

@@ -54,9 +54,9 @@ Pars. (3), (4)(B). Pub. L. 104–186, §204(63)(B), substituted “House Oversig
 
 Pars. (2) to (4). Pub. L. 101–163, §103(a)(3), added pars. (2) to (4).
 
-#### Prior Provisions
+#### Change of Name
 
-Provisions similar to those in par. (1) of this section relating to disposition of receipts from sales of copies of transcripts were contained in former section 84b of this title.
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1989 Amendment
 
@@ -69,4 +69,8 @@ Pub. L. 100–71 provided that the amendment made by Pub. L. 100–71 is effecti
 #### Effective Date
 
 Section 104(c) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), as incorporated by reference in section 101(j) of Pub. L. 99–500 and 99–591, as amended by Pub. L. 100–71, to be effective as if enacted into law, provided that: “This section and the amendment made by this section \[enacting section 117e of this title and amending section 84b of this title\] shall take effect on October 1, 1986.”
+
+#### Similar Provisions
+
+Provisions similar to those in par. (1) of this section relating to disposition of receipts from sales of copies of transcripts were contained in former section 84b of this title.
 

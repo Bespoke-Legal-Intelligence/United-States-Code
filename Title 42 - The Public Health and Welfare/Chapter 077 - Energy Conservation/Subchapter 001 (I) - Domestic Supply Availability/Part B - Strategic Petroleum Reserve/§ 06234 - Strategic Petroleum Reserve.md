@@ -86,9 +86,17 @@ The Strategic Petroleum Reserve Plan shall include:
 
 &emsp;(12) a Distribution Plan setting forth the method of drawdown and distribution of the Reserve.
 
-(Pub. L. 94–163, title I, §154, Dec. 22, 1975, 89 Stat. 882; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 102–486, title XIV, §1402, Oct. 24, 1992, 106 Stat. 2994.)
+#### (f) Purpose of drawdown and distribution; requests for funds for storage
+
+(1) The drawdown and distribution of petroleum products from the Strategic Petroleum Reserve is authorized only under section 6241 ofthis title, and drawdown and distribution of petroleum products for purposes other than those described in section 6241 of this title shall be prohibited.
+
+(2) In the Secretary's annual budget submission, the Secretary shall request funds for acquisition, transportation, and injection of petroleum products for storage in the Reserve. If no requests for funds are made, the Secretary shall provide a written explanation of the reason therefore.
+
+(Pub. L. 94–163, title I, §154, Dec. 22, 1975, 89 Stat. 882; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 102–486, title XIV, §1402, Oct. 24, 1992, 106 Stat. 2994; Pub. L. 105–177, §1(6), June 1, 1998, 112 Stat. 106.)
 
 #### Amendments
+
+1998—Subsec. (f). Pub. L. 105–177 added subsec. (f).
 
 1992—Subsec. (a). Pub. L. 102–486 designated existing provisions as par. (1) and added par. (2).
 

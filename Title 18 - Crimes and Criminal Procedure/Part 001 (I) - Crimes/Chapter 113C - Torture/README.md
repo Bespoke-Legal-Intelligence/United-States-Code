@@ -10,7 +10,7 @@
 
 #### Amendments
 
-Pub. L. 104–132, title III, §303(c)(1), Apr. 24, 1996, 110 Stat. 1253, and Pub. L. 104–294, title VI, §601(j)(1), Oct. 11, 1996, 110 Stat. 3501, made identical amendments, redesignating chapter 113B as 113C.
+1996—Pub. L. 104–132, title III, §303(c)(1), Apr. 24, 1996, 110 Stat. 1253, and Pub. L. 104–294, title VI, §601(j)(1), Oct. 11, 1996, 110 Stat. 3501, made identical amendments, redesignating chapter 113B as 113C.
 
 
 ---

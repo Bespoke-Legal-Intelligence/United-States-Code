@@ -4,7 +4,7 @@
 
 (b) The work of the Nautical Almanac Office shall be so conducted that in an emergency the part of the work intended for the use of navigators may be computed by the force of the office without foreign cooperation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 457; Sept. 8, 1978, Pub. L. 95–357, 92 Stat. 591.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 457; Pub. L. 95–357, Sept. 8, 1978, 92 Stat. 591.)
 
 Historical and Revision Notes
 

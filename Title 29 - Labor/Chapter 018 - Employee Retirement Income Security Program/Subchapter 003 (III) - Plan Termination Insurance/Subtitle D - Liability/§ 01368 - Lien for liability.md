@@ -12,7 +12,7 @@ The lien imposed by subsection (a) of this section arises on the date of termina
 
 (1) Except as otherwise provided under this section, the priority of a lien imposed under subsection (a) of this section shall be determined in the same manner as under section 6323 of title 26 (as in effect on April 7, 1986). Such section 6323 shall be applied for purposes of this section by disregarding subsection (g)(4) and by substituting—
 
-&emsp;(A) “lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1368\]” for “lien imposed by section 6321” each place it appears in subsections (a), (b), (c)(1), (c)(4)(B), (d), (e), and (h)(5);
+&emsp;(A) “lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974\[29 U.S.C. 1368\]” for “lien imposed by section 6321” each place it appears in subsections (a), (b), (c)(1), (c)(4)(B), (d), (e), and (h)(5);
 
 &emsp;(B) “the corporation” for “the Secretary” in subsections (a) and (b)(9)(C);
 
@@ -36,7 +36,7 @@ The lien imposed by subsection (a) of this section arises on the date of termina
 
 #### (d) Civil action; limitation period
 
-(1) In any case where there has been a refusal or neglect to pay the liability imposed under section 1362, 1363, or 1364 of this title, the corporation may bring civil action in a district court of the United States to enforce the lien of the corporation under this section with respect to such liability or to subject any property, of whatever nature, of the liable person, or inwhich he has any right, title, or interest to the payment of such liability.
+(1) In any case where there has been a refusal or neglect to pay the liability imposed under section 1362, 1363, or 1364 of this title, the corporation may bring civil action in a district court of the United States to enforce the lien of the corporation under this section with respect to such liability or to subject any property, of whatever nature, of the liable person, or in which he has any right, title, or interest to the payment of such liability.
 
 (2) The liability imposed by section 1362, 1363, or 1364 of this title may be collected by a proceeding in court if the proceeding is commenced within 6 years after the date upon which the plan was terminated or prior to the expiration of any period for collection agreed upon in writing by the corporation and the liable person before the expiration of such 6-year period. The period of limitations provided under this paragraph shall be suspended for the period the assets of the liable person are in the control or custody of any court of the United States, or of any State, or of the District of Columbia, and for 6 months thereafter, and for any period during which the liable person is outside the United States if such period of absence is for a continuous period of at least 6 months.
 

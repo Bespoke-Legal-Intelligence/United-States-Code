@@ -58,7 +58,7 @@
 
 #### (F) Unexpended funds
 
-&emsp;&emsp;The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjust the grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shallbe determined using the financial status report of the grantee.
+&emsp;&emsp;The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjust the grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee.
 
 #### (G) Limitation
 
@@ -94,9 +94,9 @@
 
 &emsp;As used in this subsection—
 
-&emsp;&emsp;(A) the term “State” means each of the 50 States, the District of Columbia and the Commonwealth of Puerto Rico; and
+&emsp;&emsp;(A) the term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam; and
 
-&emsp;&emsp;(B) the term “territory of the United States” means the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of the Marshall Islands.
+&emsp;&emsp;(B) the term “territory of the United States” means,<sup>2</sup> American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of the Marshall Islands.
 
 #### (c) Allocation of assistance by States
 
@@ -160,9 +160,13 @@
 
 Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) of this section shall be repaid to the Secretary and reallotted to other States in proportion to the original grants made to such States.
 
-(July 1, 1944, ch. 373, title XXVI, §2618, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 595; amended Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(30), 106 Stat. 3506; May 20, 1996, Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), 110 Stat. 1355, 1363, 1365, 1368.)
+(July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591.)
 
 #### Amendments
+
+1998—Subsec. (b)(3)(A). Pub. L. 105–392, §417(1), substituted “, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam” for “and the Commonwealth of Puerto Rico”.
+
+Subsec. (b)(3)(B). Pub. L. 105–392, §417(2), struck out “the Virgin Islands, Guam” after “means”.
 
 1996—Subsec. (a). Pub. L. 104–146, §3(g)(2), struck out subsec. (a) which related to special projects of national significance.
 
@@ -203,4 +207,6 @@ Subsec. (c)(5) to (7). Pub. L. 104–146, §3(c)(5)(C), (D), added pars. (5) and
 Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘non-EMA”.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

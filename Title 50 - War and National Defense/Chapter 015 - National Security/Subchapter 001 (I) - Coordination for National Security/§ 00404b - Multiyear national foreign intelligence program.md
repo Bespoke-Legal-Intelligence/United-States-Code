@@ -36,5 +36,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(B)(ii), added subsec. (d).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a) There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years, but may be sooner terminated or extended by the President. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.
 
-(b) The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of thebar of a Federal court or the highest court of a State or Territory, and who have had at least eight years of experience in legal duties as commissioned officers.
+(b) The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State or Territory, and who have had at least eight years of experience in legal duties as commissioned officers.
 
 (c) The Judge Advocate General shall, in addition to other duties prescribed by law—
 
@@ -18,7 +18,7 @@
 
 (e) Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Sept. 8, 1980, Pub. L. 96–343, §12(a), (b)(1), 94 Stat. 1130, 1131; renumbered §8037, Oct. 1, 1986, Pub. L. 99–433, title V, §522(f), 100 Stat. 1063; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(c), 108 Stat. 2751; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §507(a), 110 Stat. 296.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Pub. L. 96–343, §12(a), (b)(1), Sept. 8, 1980, 94 Stat. 1130, 1131; renumbered §8037, Pub. L. 99–433, title V, §522(f), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title V, §504(c), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 104–106, div. A, title V, §507(a), Feb. 10, 1996, 110 Stat. 296.)
 
 Historical and Revision Notes
 

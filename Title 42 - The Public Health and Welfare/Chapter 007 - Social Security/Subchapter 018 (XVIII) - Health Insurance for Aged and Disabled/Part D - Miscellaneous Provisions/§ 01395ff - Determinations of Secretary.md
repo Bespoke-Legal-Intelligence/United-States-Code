@@ -22,7 +22,7 @@ The determination of whether an individual is entitled to benefits under part A 
 
 &emsp;(A) under part A of this subchapter, a hearing shall not be available to an individual under paragraph (1)(C) and (1)(D) if the amount in controversy is less than $100 and judicial review shall not be available to the individual under that paragraph if the amount in controversy is less than $1,000; or
 
-&emsp;(B) under part B of this subchapter, a hearing shall not be available to an individual under paragraph (1)(C) and (1)(D) if the amount in controversy is less than $500 (or $100 in the case of home health services) andjudicial review shall not be available to the individual under that paragraph if the aggregate amount in controversy is less than $1,000.
+&emsp;(B) under part B of this subchapter, a hearing shall not be available to an individual under paragraph (1)(C) and (1)(D) if the amount in controversy is less than $500 (or $100 in the case of home health services) and judicial review shall not be available to the individual under that paragraph if the aggregate amount in controversy is less than $1,000.
 
 > In determining the amount in controversy, the Secretary, under regulations, shall allow two or more claims to be aggregated if the claims involve the delivery of similar or related services to the same individual or involve common issues of law and fact arising from services furnished to two or more individuals.
 
@@ -38,7 +38,7 @@ The determination of whether an individual is entitled to benefits under part A 
 
 (5) In an administrative hearing pursuant to paragraph (1), where the moving party alleges that there are no material issues of fact in dispute, the administrative law judge shall make an expedited determination as to whether any such facts are in dispute and, if not, shall determine the case expeditiously.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 330; amended Oct. 30, 1972, Pub. L. 92–603, title II, §299O(a), 86 Stat. 1464; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(b)(35), 98 Stat. 1102; Oct. 21, 1986, Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), 100 Stat. 2002, 2037; Aug. 18, 1987, Pub. L. 100–93, §8(e), 101 Stat. 694; Dec. 22, 1987, Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), 101 Stat. 1330–128, 1330–133; Aug. 15, 1994, Pub. L. 103–296, title I, §108(c)(5), 108 Stat. 1485; Aug. 5, 1997, Pub. L. 105–33, title IV, §4611(c), 111 Stat. 473.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473.)
 
 #### References in Text
 

@@ -80,7 +80,7 @@ Prohibition of attorneys’ fees paid from commission disgorgement funds.—Exce
 
 #### (e) Mandamus
 
-Upon application of the Commission the district courts of the United States and the United States courts of any territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, (2) any national securities exchange or registered securities association to enforce compliance by its members and persons associated with its members with the provisions of this chapter, the rules, regulations, and orders thereunder, and the rules of such exchange or association, or (3) any registered clearing agency to enforce compliance by its participants with the provisions of the rules of such clearing agency.
+Upon application of the Commission the district courts of the United States and the UnitedStates courts of any territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78<i>o</i> of this title, (2) any national securities exchange or registered securities association to enforce compliance by its members and persons associated with its members with the provisions of this chapter, the rules, regulations, and orders thereunder, and the rules of such exchange or association, or (3) any registered clearing agency to enforce compliance by its participants with the provisions of the rules of such clearing agency.
 
 #### (f) Rules of self-regulatory organizations
 
@@ -130,7 +130,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (C) Upon expiration of the period of delay of notification ordered under subparagraph (A) or (B), the customer shall be served with or mailed a copy of the subpena insofar as it applies to the customer together with the following notice which shall describe with reasonable specificity the nature of the investigation for which the Commission sought the financial records:
 
-“Records or information concerning your transactions which are held by the financial institution named in the attached subpena were supplied to the Securities and Exchange Commission on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under section 21(h) of the Securities Exchange Act of 1934 that (state reason). The purpose of the investigation or official proceeding was (state purpose).”
+“Records or information concerning your transactions which are held by the financial institution named in the attached subpena were supplied to the Securities and Exchange Commission on (date). Notification was withheldpursuant to a determination by the (title of court so ordering) under section 21(h) of the Securities Exchange Act of 1934 that (state reason). The purpose of the investigation or official proceeding was (state purpose).”
 
 (5) Upon application by the Commission, all proceedings pursuant to paragraphs (2) and (4) shall be held in camera and the records thereof sealed until expiration of the period of delay or such other date as the presiding judge or magistrate judge may permit.
 
@@ -162,7 +162,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (13) Unless the context otherwise requires, all terms defined in the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] which are common to this subsection shall have the same meaning as in such Act.
 
-(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Oct. 15, 1970, Pub. L. 91–452, title II, §212, 84 Stat. 929; June 4, 1975, Pub. L. 94–29, §17, 89 Stat. 154; Oct. 10, 1980, Pub. L. 96–433, §§3, 4, 94 Stat. 1855, 1858; Aug. 10, 1984, Pub. L. 98–376, §2, 98 Stat. 1264; Dec. 4, 1987, Pub. L. 100–181, title III, §323, 101 Stat. 1259; Nov. 19, 1988, Pub. L. 100–704, §§3(a)(1), 6(b), 102 Stat. 4677, 4681; Oct. 15, 1990, Pub. L. 101–429, title II, §201, 104 Stat. 935; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117; Dec. 22, 1995, Pub. L. 104–67, title I, §103(b)(2), 109 Stat. 756.)
+(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756.)
 
 #### References in Text
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
+Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, seesection 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -253,6 +253,24 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Promotion of Reciprocal Subpoena Enforcement
+
+Pub. L. 105–353, title I, §102, Nov. 3, 1998, 112 Stat. 3233, provided that:
+
+“(a)
+
+Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigation by a State securities commission of an alleged violation of State securities laws.
+
+“(b)
+
+Report.—Not later than 24 months after the date of enactment of this Act \[Nov. 3, 1998\], the Securities and Exchange Commission (hereafter in this section referred to as the ‘Commission’) shall submit a report to the Congress—
+
+&emsp;“(1) identifying the States that have adopted laws described in subsection (a);
+
+&emsp;“(2) describing the actions undertaken by the Commission and State securities commissions to promote the adoption of such laws; and
+
+&emsp;“(3) identifying any further actions that the Commission recommends for such purposes.”
 
 #### Federal Rules of Civil Procedure
 

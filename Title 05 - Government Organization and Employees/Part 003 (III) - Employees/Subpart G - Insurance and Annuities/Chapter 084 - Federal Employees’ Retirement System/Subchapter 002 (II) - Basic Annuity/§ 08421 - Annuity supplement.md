@@ -40,7 +40,7 @@
 
 &emsp;(A) the term “benefit computation year” has the meaning provided in section 215(b)(2)(B)(i) of the Social Security Act;
 
-&emsp;(B) the term “average total wages of all workers”, for a year, means the average of the total wages, as defined and computed undersection 215(b)(3)(A)(ii)(I) of the Social Security Act for such year; and
+&emsp;(B) the term “average total wages of all workers”, for a year, means the average of the total wages, as defined and computed under section 215(b)(3)(A)(ii)(I) of the Social Security Act for such year; and
 
 &emsp;(C) the term “service” does not include military service.
 

@@ -22,11 +22,11 @@ Complaints.—
 
 &emsp;(1)
 
-Filing.—A person may file a complaint with the Board under 15901(b) <sup>1</sup> or bring a civil action under subsection (b) to enforce liability against a pipeline carrier providing transportation subject to this part.
+Filing.—A person may file a complaint with the Board under section 15901(b) or bring a civil action under subsection (b) to enforceliability against a pipeline carrier providing transportation subject to this part.
 
 &emsp;(2)
 
-Payment deadline.—When the Board makes an award under subsection (b), theBoard shall order the carrier to pay the amount awarded by a specific date. The Board may order a carrier providing transportation subject to this part to pay damages only when the proceeding is on complaint. The person for whose benefit an order of the Board requiring the payment of money is made may bring a civil action to enforce that order under this paragraph if the carrier does not pay the amount awarded by the date payment was ordered to be made.
+Payment deadline.—When the Board makes an award under subsection (b), the Board shall order the carrier to pay the amount awarded by a specific date. The Board may order a carrier providing transportation subject to this part to pay damages only when the proceeding is on complaint. The person for whose benefit an order of the Board requiring the payment of money is made may bring a civil action to enforce that order under this paragraph if the carrier does not pay the amount awarded by the date payment was ordered to be made.
 
 (d)
 
@@ -40,7 +40,7 @@ Complaint.—When a person begins a civil action under subsection (b) to enforce
 
 Attorney's fees.—The district court shall award a reasonable attorney's fee as a part of the damages for which a carrier is found liable under this subsection. The district court shall tax and collect that fee as a part of the costs of the action.
 
-(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 927; amended Pub. L. 105–102, §2(15), Nov. 20, 1997, 111 Stat. 2205.)
+(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 927; amended Pub. L. 105–102, §2(15), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–225, §7(b)(2), Aug. 12, 1998, 112 Stat. 1511.)
 
 #### Historical and Revision Notes
 
@@ -54,11 +54,11 @@ Provisions similar to those in this section were contained in section 11705 of t
 
 #### Amendments
 
+1998—Subsec. (c)(1). Pub. L. 105–225 inserted “section” before “15901(b)”.
+
 1997—Subsec. (c)(1). Pub. L. 105–102 substituted “15901(b)” for “section 11501(b)”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 15905 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “section 15901(b)”.</i>
 

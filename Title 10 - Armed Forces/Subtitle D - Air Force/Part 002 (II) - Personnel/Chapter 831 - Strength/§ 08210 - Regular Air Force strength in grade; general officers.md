@@ -6,7 +6,7 @@
 
 (c) General officers on the active-duty list of the Regular Air Force who are specifically authorized by law to hold a civil office under the United States, or an instrumentality thereof, are not counted in determining authorized strength under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 500; Sept. 2, 1958, Pub. L. 85–861, §1(161), 72 Stat. 1514; Dec. 12, 1980, Pub. L. 96–513, title V, §504(7), 94 Stat. 2916; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, §1061(a)(23)(A), 105 Stat. 1473.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 500; Pub. L. 85–861, §1(161), Sept. 2, 1958, 72 Stat. 1514; Pub. L. 96–513, title V, §504(7), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 102–190, div. A, title X, §1061(a)(23)(A), Dec. 5, 1991, 105 Stat. 1473.)
 
 Historical and Revision Notes<br>1956
 
@@ -72,7 +72,7 @@ After the enactment of the Officer Personnel Act of 1947, section 308 of the Arm
 
 The revised section reflects the authorized strength of the Regular Air Force in general officers on the active list resulting from the mentioned allocation to the Air Force.
 
-That allocation, and those mentioned in the explanation of subsection (c) below, have had the force oflaw since July 26, 1950, when the period for transfers, including the administrative authority to change these allocations, expired.
+That allocation, and those mentioned in the explanation of subsection (c) below, have had the force of law since July 26, 1950, when the period for transfers, including the administrative authority to change these allocations, expired.
 
 The word “regular” is substituted for the word “permanent” throughout the revised subsection.
 

@@ -2,7 +2,7 @@
 
 #### (a) Development
 
-Not later than two years after November 28, 1990, the Secretary shall develop and make available handbooks and technical guides, and any other educational materials that are appropriate for describing sustainable agriculture production systems and practices, as researched and developed under this subchapter, chapter 86 of this title, and other appropriate research programs of the Department.
+Not later than two years after November 28, 1990, the Secretary shall develop and make available handbooks and technical guides, and any other educational materials that are appropriate for describing sustainable agriculture production systems and practices, as researched and developed under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 
 #### (b) Consultation and coordination
 
@@ -14,7 +14,7 @@ The handbooks and guides, and other educational materials, shall include detaile
 
 #### (d) Organization and contents
 
-The handbooks and guides, and other educational materials, shall provide practical instructions and be organized in such a manner as to enable agricultural producers desiring to implement the practices and systems developed under this subchapter, chapter 86 of this title, and other appropriate research programs of the Department to address site-specific, environmental and resource management problems and to sustain farm profitability, including—
+The handbooks and guides, and other educational materials, shall provide practical instructions and be organized in such a manner as to enable agricultural producers desiring to implement the practices and systems developed under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department to address site-specific, environmental and resource management problems and to sustain farm profitability, including—
 
 &emsp;(1) enhancing and maintaining the fertility, productivity, and conservation of farmland and ranch soils, ranges, pastures, and wildlife;
 
@@ -26,7 +26,7 @@ The handbooks and guides, and other educational materials, shall provide practic
 
 #### (e) Availability
 
-The Secretary shall ensure that handbooks and technical guides, and other educational materials are made available to the agricultural community and the public through colleges anduniversities, the State Cooperative Extension Service, the Soil Conservation Service, other State and Federal agencies, and any other appropriate entities.
+The Secretary shall ensure that handbooks and technical guides, and other educational materials are made available to the agricultural community and the public through colleges and universities, the State Cooperative Extension Service, the Soil Conservation Service, other State and Federal agencies, and any other appropriate entities.
 
 #### (f) Authorization of appropriations
 
@@ -37,6 +37,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 #### References in Text
 
 This subchapter, referred to in subsecs. (a), (c), and (d), was in the original “this subtitle”, meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
+
+Chapter 86 of this title, referred to in subsecs. (a) and (d), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 
 #### Amendments
 
@@ -51,4 +53,6 @@ Subsec. (d). Pub. L. 104–127, §862(b)(3), struck out “section 5881 of this 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 16 section 3862.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

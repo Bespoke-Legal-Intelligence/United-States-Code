@@ -226,7 +226,7 @@ Subsec. (e). Pub. L. 101–73, §307(d), added subsec. (e).
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491,set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Use of Aircraft in Emergency Law Enforcement Support
 

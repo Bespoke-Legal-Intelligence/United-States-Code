@@ -102,7 +102,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(28) “payment” means satisfaction, in whole or in part, of an obligation;
 
-&emsp;(29) “penalty” means a statutorily authorized civil fine levied or imposed for a violation of this chapter, any mineral leasing law, or a term or provision of a lease administered by the Secretary;
+&emsp;(29) “penalty” means a statutorily authorized civil fine levied or imposed for a violation of this chapter, any mineral leasing law, or aterm or provision of a lease administered by the Secretary;
 
 &emsp;(30) “refund” means the return of an overpayment;
 

@@ -20,7 +20,7 @@ The Director of the Institute shall establish and support demonstration, educati
 
 &emsp;(3) the demonstration of new methods for the dissemination of information to the general public concerning the prevention, early detection, diagnosis, and treatment and control of cancer and information concerning unapproved and ineffective methods, drugs, and devices for the diagnosis, prevention, treatment, and control of cancer.
 
-(July 1, 1944, ch. 373, title IV, §412, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 832.)
+(July 1, 1944, ch. 373, title IV, §412, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 832.)
 
 #### Section Referred to in Other Sections
 

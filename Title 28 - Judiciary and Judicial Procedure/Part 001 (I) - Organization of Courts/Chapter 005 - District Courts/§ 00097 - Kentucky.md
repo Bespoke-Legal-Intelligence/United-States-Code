@@ -34,7 +34,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
+1978—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

@@ -6,7 +6,7 @@
 
 (c) This chapter does not apply to any person who was a civilian member after September 30, 1956.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 438; Sept. 2, 1958, Pub. L. 85–861, §1(149), 72 Stat. 1513; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1622(e)(8), 103 Stat. 1605.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 438; Pub. L. 85–861, §1(149), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 101–189, div. A, title XVI, §1622(e)(8), Nov. 29, 1989, 103 Stat. 1605.)
 
 Historical and Revision Notes<br>1956
 

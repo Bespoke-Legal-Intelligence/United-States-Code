@@ -2,7 +2,7 @@
 
 Whoever enlists or is engaged within the United States or in any place subject to the jurisdiction thereof, with intent to serve in armed hostility against the United States, shall be fined under this title <sup>1</sup> or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(B), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 103–322, title XXXIII, §330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 

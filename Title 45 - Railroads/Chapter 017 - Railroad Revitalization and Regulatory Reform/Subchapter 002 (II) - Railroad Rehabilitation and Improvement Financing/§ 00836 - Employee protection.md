@@ -20,11 +20,15 @@ The arrangements required by subsection (a) of this section shall apply to each 
 
 The arrangements which are required to be negotiated by the parties or prescribed by the Secretary of Labor, pursuant to subsections (a) and (b) of this section, shall include provisions regulating subcontracting by the railroads of work which is financed by funds provided pursuant to this subchapter.
 
-(Pub. L. 94–210, title V, §516, Feb. 5, 1976, 90 Stat. 82.)
+(Pub. L. 94–210, title V, §504, formerly §516, Feb. 5, 1976, 90 Stat. 82; renumbered §504, Pub. L. 105–178, title VII, §7203(a)(5), June 9, 1998, 112 Stat. 477.)
 
 #### References in Text
 
 The Regional Rail Reorganization Act of 1973, referred to in subsec. (a), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended. Title V of the Regional Rail Reorganization Act of 1973, which was classified generally to subchapter V (§771 et seq.) of chapter 16 of this title, was repealed by Pub. L. 97–35, title XI, §1144(a)(1), Aug. 13, 1981, 95 Stat. 669. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 504 of Pub. L. 94–210 was classified to section 824 of this title prior to repeal by Pub. L. 105–178.
 
 #### Section Referred to in Other Sections
 

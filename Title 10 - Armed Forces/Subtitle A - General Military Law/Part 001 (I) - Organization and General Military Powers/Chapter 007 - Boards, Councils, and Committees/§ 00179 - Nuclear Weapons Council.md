@@ -44,7 +44,7 @@
 
 > &emsp;and transmitting such guidance and comments to the Secretary of Defense before the preparation of the annual budget request of the Department of Defense.
 
-(e) In addition to the responsibilities set forth in subsection (d), the Council shall also submitto Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
+(e) In addition to the responsibilities set forth in subsection (d), the Council shall also submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
 
 (f) Each fiscal year, at the same time the President submits the budget pursuant to section 1105 of title 31, the Chairman of the Council, through the Secretary of Energy, shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a report, in classified form, on the following:
 
@@ -84,11 +84,15 @@ Subsec. (e). Pub. L. 103–337, §3152(b), added subsec. (e).
 
 1987—Subsec. (e). Pub. L. 100–180 realigned margins of subsec. (e).
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Chairman of JCS To Serve on Council If There Is No Vice Chairman of JCS
 
 Section 3137(b) of Pub. L. 99–661 provided that: “If on the date of the enactment of this section \[Nov. 14, 1986\] the position of Vice Chairman of the Joint Chiefs of Staff, or comparable position, has not been established by law, the Chairman of the Joint Chiefs of Staff shall be a member of the Nuclear Weapons Council established by section 179 of title 10, United States Code, as added by subsection (a). If the position of Vice Chairman of the Joint Chiefs of Staff (or comparable position) is established by law after the date of the enactment of this section, the Chairman of the Joint Chiefs of Staff shall remain a member of such Council only until an individual has been appointed Vice Chairman of the Joint Chiefs of Staff.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 142 of this title.
+This section is referred to in section 142 of this title; title 42 section 7274p.
 

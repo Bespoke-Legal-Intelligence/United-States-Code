@@ -40,7 +40,7 @@ For the purposes of this section:
 
 &emsp;(3) The term “neighborhood development funding organization” means—
 
-&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
+&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the FederalDeposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
 
 &emsp;&emsp;(B) a depository institution holding company and any subsidiary thereof (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]); or
 
@@ -118,19 +118,15 @@ The Secretary shall consult with an informal working group representative of eli
 
 &emsp;(D) may use not more than 5 per centum of the funds appropriated for administrative or other expenses in connection with the program.
 
-#### (f) Report to Congress
-
-The Secretary shall submit a report to the Congress, not later than 3 months after the end of each fiscal year in which payments are made under this section, regarding the program under this section. The report shall contain a summary of the activities carried out under this section during such fiscal year and any findings, conclusions, and recommendations for legislation regarding the program.
-
-#### (g) Authorization
+#### (f) Authorization
 
 Of the amounts made available for assistance under section 5303 of this title, $1,000,000 for fiscal year 1993 (in addition to other amounts provided for such fiscal year) and $3,000,000 for fiscal year 1994 shall be available to carry out this section.
 
-#### (h) Short title
+#### (g) Short title
 
 This section may be cited as the “John Heinz Neighborhood Development Act”.
 
-(Pub. L. 98–181, title I, §123, Nov. 30, 1983, 97 Stat. 1172; Pub. L. 98–479, title I, §101(b)(2), (3), Oct. 17,1984, 98 Stat. 2220; Pub. L. 100–242, title V, §§521, 525, Feb. 5, 1988, 101 Stat. 1938, 1939; Pub. L. 101–625, title IX, §915, Nov. 28, 1990, 104 Stat. 4395; Pub. L. 102–550, title VIII, §832, Oct. 28, 1992, 106 Stat. 3852.)
+(Pub. L. 98–181, title I, §123, Nov. 30, 1983, 97 Stat. 1172; Pub. L. 98–479, title I, §101(b)(2), (3), Oct. 17, 1984, 98 Stat. 2220; Pub. L. 100–242, title V, §§521, 525, Feb. 5, 1988, 101 Stat. 1938, 1939; Pub. L. 101–625, title IX, §915, Nov. 28, 1990, 104 Stat. 4395; Pub. L. 102–550, title VIII, §832, Oct. 28, 1992, 106 Stat. 3852; Pub. L. 105–362, title VII, §701(d), Nov. 10, 1998, 112 Stat. 3287.)
 
 #### References in Text
 
@@ -147,6 +143,8 @@ Section was enacted as the John Heinz Neighborhood Development Act and also as p
 Section was formerly set out as a note under section 5318 of this title.
 
 #### Amendments
+
+1998—Subsecs. (f) to (h). Pub. L. 105–362 redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which read as follows: “The Secretary shall submit a report to the Congress, not later than 3 months after the end of each fiscal year in which payments are made under this section, regarding the program under this section. The report shall contain a summary of the activities carried out under this section during such fiscal year and any findings, conclusions, and recommendations for legislation regarding the program.”
 
 1992—Pub. L. 102–550, §832(b)(1), substituted “John Heinz Neighborhood Development Program” for “Neighborhood Development Demonstration” as section catchline.
 

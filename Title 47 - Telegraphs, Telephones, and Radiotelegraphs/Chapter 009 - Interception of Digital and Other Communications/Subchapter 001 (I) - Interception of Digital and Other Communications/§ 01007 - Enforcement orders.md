@@ -10,7 +10,7 @@ A court shall issue an order enforcing this subchapter under section 2522 of tit
 
 #### (b) Time for compliance
 
-Upon issuing an order enforcing this subchapter, the court shall specify a reasonable time and conditions for complying with its order, considering the good faith efforts to comply in a timely manner, any effect on the carrier's, manufacturer's, or service provider's ability to continue to do business, the degree of culpability or delay in undertaking efforts to comply, and such other matters as justice may require.
+Upon issuing an order enforcing this subchapter, the court shall specify a reasonable time and conditions for complying with itsorder, considering the good faith efforts to comply in a timely manner, any effect on the carrier's, manufacturer's, or service provider's ability to continue to do business, the degree of culpability or delay in undertaking efforts to comply, and such other matters as justice may require.
 
 #### (c) Limitations
 

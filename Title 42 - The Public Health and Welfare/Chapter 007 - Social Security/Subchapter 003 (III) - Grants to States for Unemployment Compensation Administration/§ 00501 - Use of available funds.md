@@ -2,7 +2,7 @@
 
 The amounts made available pursuant to section 1101(c)(1)(A) of this title for the purpose of assisting the States in the administration of their unemployment compensation laws shall be used as hereinafter provided.
 
-(Aug. 14, 1935, ch. 531, title III, §301, 49 Stat. 626; Apr. 19, 1939, ch. 73, 53 Stat. 581; Sept. 13, 1960, Pub. L. 86–778, title V, §524(a), 74 Stat. 982.)
+(Aug. 14, 1935, ch. 531, title III, §301, 49 Stat. 626; Apr. 19, 1939, ch. 73, 53 Stat. 581; Pub. L. 86–778, title V, §524(a), Sept. 13, 1960, 74 Stat. 982.)
 
 #### Amendments
 

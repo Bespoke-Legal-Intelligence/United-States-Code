@@ -1,11 +1,6 @@
 ## PART I—ORGANIZATION
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>301.</b>](Chapter%20301%20-%20Definitions/README.md) | <b>Definitions</b> | <b>3001</b> |
 | [<b>303.</b>](Chapter%20303%20-%20Department%20of%20the%20Army/README.md) | <b>Department of the Army</b> | <b>3011</b> |

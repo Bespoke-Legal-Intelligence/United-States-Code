@@ -2,7 +2,7 @@
 
 The Director of the Institute shall conduct and support research into spinal cord regeneration.
 
-(July 1, 1944, ch. 373, title IV, §458, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 857.)
+(July 1, 1944, ch. 373, title IV, §458, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 857.)
 
 #### Interagency Committee on Spinal Cord Injury
 

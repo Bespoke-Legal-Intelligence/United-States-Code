@@ -36,7 +36,7 @@ The Commissioner or the Secretary (as applicable) may, pursuant to regulations, 
 
 The preceding provisions of this section may be enforced through the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate).
 
-(Aug. 14, 1935, ch. 531, title XI, §1140, as added July 1, 1988, Pub. L. 100–360, title IV, §428(a), 102 Stat. 815; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(30)(A), 102 Stat. 2424; Aug. 15, 1994, Pub. L. 103–296, title I, §108(b)(12), title III, §§304(b), 312(a)–(j), 108 Stat. 1484, 1520, 1526, 1527.)
+(Aug. 14, 1935, ch. 531, title XI, §1140, as added Pub. L. 100–360, title IV, §428(a), July 1, 1988, 102 Stat. 815; amended Pub. L. 100–485, title VI, §608(d)(30)(A), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 103–296, title I, §108(b)(12), title III, §§304(b), 312(a)–(j), Aug. 15, 1994, 108 Stat. 1484, 1520, 1526, 1527.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Subsec. (a)(2)(A), (B). Pub. L. 103–296, §108(b)(12)(A), in par. (2) as added
 
 Subsec. (a)(3). Pub. L. 103–296, §312(e), added par. (3).
 
-Subsec. (b). Pub. L. 103–296, §312(g), substituted “The” for “(1) Subject to paragraph (2), the”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “The total amount of penalties which may be imposed under paragraph (1) with respect tomultiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000.”
+Subsec. (b). Pub. L. 103–296, §312(g), substituted “The” for “(1) Subject to paragraph (2), the”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “The total amount of penalties whichmay be imposed under paragraph (1) with respect to multiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000.”
 
 Subsec. (b)(1). Pub. L. 103–296, §312(f) inserted at end “In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.”
 

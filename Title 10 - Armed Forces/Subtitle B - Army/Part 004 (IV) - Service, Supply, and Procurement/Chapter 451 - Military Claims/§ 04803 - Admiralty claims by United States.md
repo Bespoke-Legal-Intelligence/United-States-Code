@@ -14,7 +14,7 @@
 
 (c) In any case where the amount to be received by the United States is not more than $100,000, the Secretary of the Army may delegate his authority under subsections (a) and (b) to any person in the Department of the Army designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 271; July 7, 1965, Pub. L. 89–67, 79 Stat. 212; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1633, 103 Stat. 1608.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 271; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
 
 Historical and Revision Notes
 
@@ -44,7 +44,7 @@ Oct. 20, 1951, ch. 524, §§2 (less last 32 words of 2d sentence), 6 (less appli
 
 10:1866 less applicability to 10:1861).
 
-In subsection (a), the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 4801 of this title. The words “receive payment” are substituted for 10:1862 (2d sentence, less last 32 words). The words “of a kind that is within the admiralty jurisdiction” are substituted for the words “cognizable in admiralty”. Clause (2) is substituted for 10:1862 (last proviso of last sentence). 10:1862 (1st proviso of last sentence) is omitted as unnecessary, since other applicable claims laws are restated in this title. The words “by contract or otherwise” are omitted as surplusage.
+In subsection (a), the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 4801 of this title. The words “receive payment” are substituted for 10:1862 (2d sentence, less last 32 words). The words “of a kind thatis within the admiralty jurisdiction” are substituted for the words “cognizable in admiralty”. Clause (2) is substituted for 10:1862 (last proviso of last sentence). 10:1862 (1st proviso of last sentence) is omitted as unnecessary, since other applicable claims laws are restated in this title. The words “by contract or otherwise” are omitted as surplusage.
 
 In subsection (b), the words “of the United States as miscellaneous receipts” and “to deliver” are omitted as surplusage.
 

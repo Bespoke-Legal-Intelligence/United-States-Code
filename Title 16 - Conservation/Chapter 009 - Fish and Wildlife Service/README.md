@@ -26,6 +26,9 @@
 | (a) | Policies, procedures, and recommendations. |
 | (b) | Gifts, devises, or bequests for performance of activities and services of United States Fish and Wildlife Service; restrictive or affirmative covenants or conditions of servitude; separate account in Treasury; disbursement orders; gifts or bequests to United States for Federal tax purposes. |
 | (c) | Volunteer services; incidental expenses; Federal employee status; authorization of appropriations. |
+| (d) | Community partnership enhancement. |
+| (e) | Refuge education program enhancement. |
+| (f) | Authorization of appropriations. |
 | [742g.](%C2%A7%2000742g%20-%20Cooperation%20with%20State%20Department.md) | Cooperation with State Department. |
 | (a) | Representation at international meetings. |
 | (b) | Consultation with officials responsible for technical and economic aid. |
@@ -59,6 +62,7 @@
 | [744\.](%C2%A7%2000744%20-%20Investigations%3B%20fish%20propagation%3B%20investigations%20of%20damages%20by%20predacious%20fishes%3B%20executive%20assistance.md) | Investigations; fish propagation; investigations of damages by predacious fishes; executive assistance. |
 | [745\.](%C2%A7%2000745%20-%20Powers%20of%20Secretary.md) | Powers of Secretary. |
 | [746\.](%C2%A7%2000746%20-%20Vessels%20of%20Fish%20and%20Wildlife%20Service.md) | Vessels of Fish and Wildlife Service. |
+| [746a.](%C2%A7%2000746a%20-%20Operation%20and%20maintenance%20fees%20for%20the%20M-V%20Tiglax%20and%20other%20vessels.md) | Operation and maintenance fees for the M/V Tiglax and other vessels. |
 | [747\.](%C2%A7%2000747%20-%20Omitted.md) | Omitted. |
 | [748\.](%C2%A7%2000748%20-%20Expenditure%20of%20appropriations%20for%20propagation%20of%20food%20fishes.md) | Expenditure of appropriations for propagation of food fishes. |
 | [749\.](%C2%A7%2000749%20-%20Omitted.md) | Omitted. |
@@ -106,6 +110,7 @@ National Fish and Wildlife Foundation, activities relating to gifts of property 
 - [&sect; 00744 - Investigations; fish propagation; investigations of damages by predacious fishes; executive assistance](%C2%A7%2000744%20-%20Investigations%3B%20fish%20propagation%3B%20investigations%20of%20damages%20by%20predacious%20fishes%3B%20executive%20assistance.md)
 - [&sect; 00745 - Powers of Secretary](%C2%A7%2000745%20-%20Powers%20of%20Secretary.md)
 - [&sect; 00746 - Vessels of Fish and Wildlife Service](%C2%A7%2000746%20-%20Vessels%20of%20Fish%20and%20Wildlife%20Service.md)
+- [&sect; 00746a - Operation and maintenance fees for the M-V Tiglax and other vessels](%C2%A7%2000746a%20-%20Operation%20and%20maintenance%20fees%20for%20the%20M-V%20Tiglax%20and%20other%20vessels.md)
 - [&sect; 00747 - Omitted](%C2%A7%2000747%20-%20Omitted.md)
 - [&sect; 00748 - Expenditure of appropriations for propagation of food fishes](%C2%A7%2000748%20-%20Expenditure%20of%20appropriations%20for%20propagation%20of%20food%20fishes.md)
 - [&sect; 00749 - Omitted](%C2%A7%2000749%20-%20Omitted.md)

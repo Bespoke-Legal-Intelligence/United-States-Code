@@ -28,7 +28,7 @@ The Commission, in performing its duties and functions under this subchapter, ma
 
 The Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
-(July 1, 1944, ch. 373, title XVIII, §1803, as added Nov. 9, 1978, Pub. L. 95–622, title III, §301, 92 Stat. 3440.)
+(July 1, 1944, ch. 373, title XVIII, §1803, as added Pub. L. 95–622, title III, §301, Nov. 9, 1978, 92 Stat. 3440.)
 
 #### References in Text
 

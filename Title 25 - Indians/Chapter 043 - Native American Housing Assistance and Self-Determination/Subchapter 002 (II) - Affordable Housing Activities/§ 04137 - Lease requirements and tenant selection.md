@@ -22,9 +22,9 @@ Except to the extent otherwise provided by or inconsistent with tribal law, in r
 
 &emsp;&emsp;(C) is criminal activity (including drug-related criminal activity) on or off the premises.
 
-#### (b) Tenant selection
+#### (b) Tenant and homebuyer selection
 
-The owner or manager of affordable rental housing assisted with grant amounts provided under this chapter shall adopt and utilize written tenant selection policies and criteria that—
+The owner or manager of affordable rental housing assisted with grant amounts provided under this chapter shall adopt and utilize written tenant and homebuyer selection policies and criteria that—
 
 &emsp;(1) are consistent with the purpose of providing housing for low-income families;
 
@@ -32,11 +32,19 @@ The owner or manager of affordable rental housing assisted with grant amounts pr
 
 &emsp;(3) provide for—
 
-&emsp;&emsp;(A) the selection of tenants from a written waiting list in accordance with the policies and goals set forth in the Indian housing plan for the tribe that is the grant beneficiary of such grant amounts; and
+&emsp;&emsp;(A) the selection of tenants and homebuyers from a written waiting list in accordance with the policies and goals set forth in the Indian housing plan for the tribe that is the grant beneficiary of such grant amounts; and
 
-&emsp;&emsp;(B) the prompt notification in writing of any rejected applicant of the grounds for any rejection.
+&emsp;&emsp;(B) the prompt notification in writing to any rejected applicant of that rejection and the grounds for that rejection.
 
-(Pub. L. 104–330, title II, §207, Oct. 26, 1996, 110 Stat. 4034.)
+(Pub. L. 104–330, title II, §207, Oct. 26, 1996, 110 Stat. 4034; Pub. L. 105–276, title V, §595(b), (e)(9), Oct. 21, 1998, 112 Stat. 2656, 2658.)
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–276, §595(b)(1), (2), in heading substituted “Tenant and homebuyer selection” for “Tenant selection” and, in introductory provisions, inserted “and homebuyer” after “tenant”.
+
+Subsec. (b)(3)(A). Pub. L. 105–276, §595(b)(3), inserted “and homebuyers” after “tenants”.
+
+Subsec. (b)(3)(B). Pub. L. 105–276, §595(e)(9), substituted “to any rejected applicant of that rejection and the grounds for that rejection” for “of any rejected applicant of the grounds for any rejection”.
 
 #### Effective Date
 

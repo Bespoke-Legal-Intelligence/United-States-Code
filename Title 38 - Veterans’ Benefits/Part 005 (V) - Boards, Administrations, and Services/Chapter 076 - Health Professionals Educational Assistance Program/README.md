@@ -63,7 +63,33 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [7671\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007671%20-%20Authority%20for%20program.md) | Authority for program. |
+| [7672\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007672%20-%20Eligibility%3B%20agreement.md) | Eligibility; agreement. |
+| [7673\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007673%20-%20Scholarship.md) | Scholarship. |
+| [7674\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007674%20-%20Obligated%20service.md) | Obligated service. |
+| [7675\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007675%20-%20Breach%20of%20agreement%20liability.md) | Breach of agreement: liability. |
+| [7676\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007676%20-%20Expiration%20of%20program.md) | Expiration of program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [7681\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007681%20-%20Authority%20for%20program.md) | Authority for program. |
+| [7682\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007682%20-%20Eligibility.md) | Eligibility. |
+| [7683\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007683%20-%20Education%20debt%20reduction.md) | Education debt reduction. |
+| [7684\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007684%20-%20Expiration%20of%20program.md) | Expiration of program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+1998—Pub. L. 105–368, title VIII, §§802(b), 803(b), Nov. 11, 1998, 112 Stat. 3356, 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
 
 1991—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4301 to 4355 as 7601 to 7655, respectively.
 
@@ -83,3 +109,5 @@ This chapter is referred to in section 7431 of this title.
 - [Subchapter 003 (III) - Tuition Reimbursement Program](Subchapter%20003%20%28III%29%20-%20Tuition%20Reimbursement%20Program/README.md)
 - [Subchapter 004 (IV) - Administrative Matters](Subchapter%20004%20%28IV%29%20-%20Administrative%20Matters/README.md)
 - [Subchapter 005 (V) - Stipend Program for Members of the Selected Reserve](Subchapter%20005%20%28V%29%20-%20Stipend%20Program%20for%20Members%20of%20the%20Selected%20Reserve/README.md)
+- [Subchapter 006 (VI) - Employee Incentive Scholarship Program](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/README.md)
+- [Subchapter 007 (VII) - Education Debt Reduction Program](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/README.md)

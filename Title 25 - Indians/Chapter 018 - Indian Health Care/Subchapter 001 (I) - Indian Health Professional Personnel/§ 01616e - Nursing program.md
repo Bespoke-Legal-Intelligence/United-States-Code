@@ -6,7 +6,7 @@ The Secretary, acting through the Service, shall provide grants to—
 
 &emsp;(1) public or private schools of nursing,
 
-&emsp;(2) tribally controlled community colleges and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) of title 20), and
+&emsp;(2) tribally controlled community colleges and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) <sup>1</sup> of title 20), and
 
 &emsp;(3) nurse midwife programs, and nurse practitioner programs, that are provided by any public or private institution,
 
@@ -44,7 +44,7 @@ In providing grants under subsection (a) of this section, the Secretary shall ex
 
 #### (e) Quentin N. Burdick American Indians Into Nursing Program
 
-The Secretary shall provide one of the grants authorized under subsection (a) of this sectionto establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title.
+The Secretary shall provide one of the grants authorized under subsection (a) of this section to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under section 1616g(b) of this title and the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title.
 
 #### (f) Service obligation
 
@@ -65,6 +65,8 @@ Beginning with fiscal year 1993, of the amounts appropriated under the authority
 (Pub. L. 94–437, title I, §112, as added Pub. L. 100–713, title I, §108, Nov. 23, 1988, 102 Stat. 4795; amended Pub. L. 102–573, title I, §§104(b), (c), 114(a), Oct. 29, 1992, 106 Stat. 4533, 4543.)
 
 #### References in Text
+
+Section 2397h of title 20, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 44\(§2301 et seq.) of Title 20, Education, by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 Section 2624 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976. See section 7834 of Title 20, Education.
 

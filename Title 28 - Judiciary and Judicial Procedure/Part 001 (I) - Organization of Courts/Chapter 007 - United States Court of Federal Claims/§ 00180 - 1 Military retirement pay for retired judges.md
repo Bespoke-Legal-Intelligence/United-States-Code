@@ -8,5 +8,3 @@ Section 371(e) of this title applies to judges of the United States Court of Fed
 
 Section effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as an Effective Date of 1992 Amendment note under section 171 of this title.
 
-<i><sup>1</sup></i><i> So in original. No section 179 has been enacted.</i>
-

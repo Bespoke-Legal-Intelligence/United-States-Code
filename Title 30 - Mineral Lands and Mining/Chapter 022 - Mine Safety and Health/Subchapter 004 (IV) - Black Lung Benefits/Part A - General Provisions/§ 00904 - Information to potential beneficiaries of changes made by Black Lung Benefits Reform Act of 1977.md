@@ -10,11 +10,11 @@ This Act, referred to in text, means Pub. L. 95–239, Mar. 1, 1978, 92 Stat. 95
 
 #### Codification
 
-Section was enacted as part of the Black Lung Benefits Reform Act of 1977, and not as part of the FederalMine Safety and Health Act of 1977 which comprises this chapter or the Black Lung Benefits Act which comprises this subchapter.
+Section was enacted as part of the Black Lung Benefits Reform Act of 1977, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter or the Black Lung Benefits Act which comprises this subchapter.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education,and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ Provisions of section 527 of title 28, U.S.C., 1940 ed., relating to ineligibili
 
 The general language of the revised section was substituted for the provisions of section 527 of title 28, U.S.C., 1940 ed., enumerating certain officers and employees.
 
-The exception of Alaska by reference to “section 591 of this title” in section 527 of title 28, U.S.C., 1940 ed., was omitted as surplusage. Alaska is excluded by reason of the words “any court of the United States” which are limited by definitive section 451 of this title.
+The exception of Alaska by reference to “section 591 of this title” in section 527 of title 28, U.S.C., 1940 ed.,was omitted as surplusage. Alaska is excluded by reason of the words “any court of the United States” which are limited by definitive section 451 of this title.
 
 Changes in phraseology were made.
 

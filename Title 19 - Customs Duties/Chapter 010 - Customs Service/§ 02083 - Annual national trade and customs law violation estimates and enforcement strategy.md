@@ -40,7 +40,7 @@ The contents of any report submitted to the Committees under subsection (a) or (
 
 &emsp;(2) the chairman of each of the Committees; and
 
-&emsp;(3) those members of each of the Committees and staff persons of each of the Committees who are authorized by the chairman thereof to have access to the contents.
+&emsp;(3) those members of each of the Committees and staff persons of each of the Committeeswho are authorized by the chairman thereof to have access to the contents.
 
 (Pub. L. 101–382, title I, §123, Aug. 20, 1990, 104 Stat. 642; Pub. L. 103–182, title VI, §691(c), Dec. 8, 1993, 107 Stat. 2224.)
 

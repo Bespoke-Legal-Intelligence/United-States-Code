@@ -6,7 +6,7 @@ Not later than March 1, 1995, and March 1, 1997, the Secretary shall prepare and
 
 #### (b) Purposes
 
-The technical and policy analysis prepared under this section shall be based on the best available data and information obtainable by the Secretary under section 13253 of this title, or otherwise, and on experience under this subchapter and other provisions of law in the development and use of replacement fuels and alternative fueled vehicles, and shall evaluate—
+The technical and policy analysis prepared under this section shall be based on the best available data and information obtainable bythe Secretary under section 13253 of this title, or otherwise, and on experience under this subchapter and other provisions of law in the development and use of replacement fuels and alternative fueled vehicles, and shall evaluate—
 
 &emsp;(1) progress made in achieving the goals described in section 13252(b)(2) of this title, as modified under section 13254 of this title;
 

@@ -16,7 +16,7 @@ As used in this subchapter—
 
 &emsp;(7) the term “special attorney” means an attorney who is on the panel established under section 1532(e) of this title.
 
-(June 27, 1952, ch. 477, title V, §501, as added Apr. 24, 1996, Pub. L. 104–132, title IV, §401(a), 110 Stat. 1258; amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(g)(1), 354(a)(5), 110 Stat. 3009–622, 3009–643.)
+(June 27, 1952, ch. 477, title V, §501, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1258; amended Pub. L. 104–208, div. C, title III, §§308(g)(1), 354(a)(5), Sept. 30, 1996, 110 Stat. 3009–622, 3009–643.)
 
 #### References in Text
 

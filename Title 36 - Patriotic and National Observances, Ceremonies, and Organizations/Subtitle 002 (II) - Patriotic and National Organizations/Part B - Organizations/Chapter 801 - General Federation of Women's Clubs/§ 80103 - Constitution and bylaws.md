@@ -1,0 +1,24 @@
+### §80103. Constitution and bylaws
+
+The corporation shall have a constitution and may adopt bylaws for the admission and qualifications of members, the management of its property, and the regulation of its affairs. The corporation may amend its constitution and bylaws.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1360.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+80103
+
+36:3503 (1st sentence).
+
+Mar. 3, 1901, ch. 860, §3 (1st sentence), 31 Stat. 1439.
+
+The words “at pleasure” are omitted as unnecessary.
+

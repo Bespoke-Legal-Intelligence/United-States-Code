@@ -78,7 +78,7 @@
 
 #### (i) Quota peanuts
 
-&emsp;&emsp;&emsp;For quota peanuts, the net gains over and above the loan indebtedness and othercosts or losses incurred on peanuts placed in the pool.
+&emsp;&emsp;&emsp;For quota peanuts, the net gains over and above the loan indebtedness and other costs or losses incurred on peanuts placed in the pool.
 
 #### (ii) Additional peanuts
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, no loan for quota peanuts may be mad
 
 #### (5) Penalties
 
-&emsp;If any person fails to collect or remit the reduction required by this subsection or fails to comply with the requirements for recordkeeping or otherwise as are required by the Secretary to carry out this subsection, the person shall be liable to the Secretary for a civil penalty up to an amount determined by multiplying—
+&emsp;If any person fails to collect or remit the reduction required by this subsection or fails tocomply with the requirements for recordkeeping or otherwise as are required by the Secretary to carry out this subsection, the person shall be liable to the Secretary for a civil penalty up to an amount determined by multiplying—
 
 &emsp;&emsp;(A) the quantity of peanuts involved in the violation; by
 

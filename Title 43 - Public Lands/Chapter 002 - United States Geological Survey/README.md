@@ -21,7 +21,7 @@
 | [31f.](%C2%A7%2000031f%20-%20National%20geologic-map%20data%20base.md) | National geologic-map data base. |
 | (a) | Establishment. |
 | (b) | Standardization. |
-| [31g.](%C2%A7%2000031g%20-%20Annual%20report.md) | Annual report. |
+| [31g.](%C2%A7%2000031g%20-%20Biennial%20report.md) | Biennial report. |
 | [31h.](%C2%A7%2000031h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [31i.](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md) | Report on resource research activities. |
 | [31j.](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md) | Biological research activity of Survey; review and report by National Academy of Sciences. |
@@ -64,7 +64,7 @@
 - [&sect; 00031d - Advisory committee](%C2%A7%2000031d%20-%20Advisory%20committee.md)
 - [&sect; 00031e - Geologic mapping program implementation plan](%C2%A7%2000031e%20-%20Geologic%20mapping%20program%20implementation%20plan.md)
 - [&sect; 00031f - National geologic-map data base](%C2%A7%2000031f%20-%20National%20geologic-map%20data%20base.md)
-- [&sect; 00031g - Annual report](%C2%A7%2000031g%20-%20Annual%20report.md)
+- [&sect; 00031g - Biennial report](%C2%A7%2000031g%20-%20Biennial%20report.md)
 - [&sect; 00031h - Authorization of appropriations](%C2%A7%2000031h%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00031i - Report on resource research activities](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md)
 - [&sect; 00031j - Biological research activity of Survey; review and report by National Academy of Sciences](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md)

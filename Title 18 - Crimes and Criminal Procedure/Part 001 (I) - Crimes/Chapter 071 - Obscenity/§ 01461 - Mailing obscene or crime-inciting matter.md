@@ -18,7 +18,7 @@ Whoever knowingly uses the mails for the mailing, carriage in the mails, or deli
 
 The term “indecent”, as used in this section includes matter of a character tending to incite arson, murder, or assassination.
 
-(June 25, 1948, ch. 645, 62 Stat. 768; June 28, 1955, ch. 190, §§1, 2, 69 Stat. 183; Aug. 28, 1958, Pub. L. 85–796, §1, 72 Stat. 962; Jan. 8, 1971, Pub. L. 91–662, §§3, 5(b), 6(3), 84 Stat. 1973, 1974; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 768; June 28, 1955, ch. 190, §§1, 2, 69 Stat. 183; Pub. L. 85–796, §1, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, §§3, 5(b), 6(3), Jan. 8, 1971, 84 Stat. 1973, 1974; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -48,7 +48,7 @@ Pub. L. 91–662, §6(3), in eighth par., inserted “or section 3001(e) of titl
 
 1958—Pub. L. 85–796 provided in eighth par. for continuing offenses by use of the mails instead of by deposits for mailing and for punishment for subsequent offenses.
 
-1955—Act June 28, 1955, §1, in first par., substituted “indecent, filthy or vile article, matter, thing, device or substance” for “or filthy book, pamphlet, picturepaper, letter, writing, print, or other publication of an indecent character”.
+1955—Act June 28, 1955, §1, in first par., substituted “indecent, filthy or vile article, matter, thing, device or substance” for “or filthy book, pamphlet, picture paper, letter, writing, print, or other publication of an indecent character”.
 
 Act June 28, 1955, §2, struck out fifth par., which read as follows: “Every letter, packet, or package, or other mail matter containing any filthy, vile, or indecent thing, device or substance; and”.
 

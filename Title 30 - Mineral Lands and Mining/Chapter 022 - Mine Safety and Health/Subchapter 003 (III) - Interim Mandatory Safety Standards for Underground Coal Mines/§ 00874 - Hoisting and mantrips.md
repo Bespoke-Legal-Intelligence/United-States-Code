@@ -14,7 +14,7 @@ Hoists shall have rated capacities consistent with the loads handled and the rec
 
 #### (d) Methods for signaling between shaft stations and hoist rooms
 
-There shall be at least two effective methods approved by the Secretary of signaling betweeneach of the shaft stations and the hoist room, one of which shall be a telephone or speaking tube.
+There shall be at least two effective methods approved by the Secretary of signaling between each of the shaft stations and the hoist room, one of which shall be a telephone or speaking tube.
 
 #### (e) Braking equipment for haulage cars used in underground mines
 
@@ -22,7 +22,7 @@ Each locomotive and haulage car used in an underground coal mine shall be equipp
 
 #### (f) Automatic couplers for haulage equipment
 
-All haulage equipment acquired by an operator of a coal mine on or after one year after the operative date of this subchapter shall be equipped with automatic couplers which couple by impact and uncouple without the necessity of persons going between the ends of such equipment. All haulage equipment without automatic couplers in use in a mine on the operative date of this subchapter shall also be so equipped within four years after the operative date of this subchapter.
+All haulage equipment acquired by an operator of a coal mine on or after one year after theoperative date of this subchapter shall be equipped with automatic couplers which couple by impact and uncouple without the necessity of persons going between the ends of such equipment. All haulage equipment without automatic couplers in use in a mine on the operative date of this subchapter shall also be so equipped within four years after the operative date of this subchapter.
 
 (Pub. L. 91–173, title III, §314, Dec. 30, 1969, 83 Stat. 786.)
 

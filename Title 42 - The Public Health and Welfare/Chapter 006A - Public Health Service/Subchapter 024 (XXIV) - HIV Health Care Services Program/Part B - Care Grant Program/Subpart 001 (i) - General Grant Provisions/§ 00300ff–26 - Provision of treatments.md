@@ -30,7 +30,7 @@ In carrying out this section the State shall—
 
 In carrying out this section, the Secretary shall review the current status of State drug reimbursement programs established under section 300ff–22(2) of this title and assess barriers to the expanded availability of the treatments described in subsection (a) of this section. The Secretary shall also examine the extent to which States coordinate with other grantees under this subchapter to reduce barriers to the expanded availability of the treatments described in subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2616, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 590; amended May 20, 1996, Pub. L. 104–146, §3(c)(3), 110 Stat. 1355.)
+(July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355.)
 
 #### Amendments
 

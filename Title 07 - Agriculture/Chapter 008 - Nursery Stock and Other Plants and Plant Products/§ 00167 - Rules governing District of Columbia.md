@@ -14,7 +14,7 @@ Search warrants.—The Superior Court of the District of Columbia shall have pow
 
 Rules and regulations.—It shall be the duty of the Secretary of Agriculture, and he is required, from time to time, to make and promulgate such rules and regulations as shall be necessary to carry out the purposes of this section, and any person who shall move or allow to be moved, or shall ship, transport, or carry, by any means whatever, any plant or plant products from or into the District of Columbia, except in compliance with the rules and regulations prescribed under this section, shall be punished, as is provided in section 163 of this title.
 
-(Aug. 20, 1912, ch. 308, §15, as added May 31, 1920, ch. 217, 41 Stat. 726; amended May 16, 1928, ch. 572, 45 Stat. 565; July 7, 1932, ch. 443, 47 Stat. 640; Mar. 26, 1934, ch. 89, 48 Stat. 486; Apr. 1, 1942, ch. 207, §§1, 4, 56 Stat. 190, 192; July 8, 1963, Pub. L. 88–60, §§1, 7, 77 Stat. 77, 78; July 29, 1970, Pub. L. 91–358, title I, §155(a), 84 Stat. 570.)
+(Aug. 20, 1912, ch. 308, §15, as added May 31, 1920, ch. 217, 41 Stat. 726; amended May 16, 1928, ch. 572, 45 Stat. 565; July 7, 1932, ch. 443, 47 Stat. 640; Mar. 26, 1934, ch. 89, 48 Stat. 486; Apr. 1, 1942, ch. 207, §§1, 4, 56 Stat. 190, 192; Pub. L. 88–60, §§1, 7, July 8, 1963, 77 Stat. 77, 78; Pub. L. 91–358, title I, §155(a), July 29, 1970, 84 Stat. 570.)
 
 #### Codification
 
@@ -22,7 +22,7 @@ Section is also set out in D.C. Code, §6–1104.
 
 #### Change of Name
 
-In penultimate par., “Superior Court of the District of Columbia” substituted for “District of Columbia Court of General Sessions” on authority of Pub. L. 91–358.
+In penultimate par., “Superior Court of the District of Columbia” substituted for “District of ColumbiaCourt of General Sessions” on authority of Pub. L. 91–358.
 
 “District of Columbia Court of General Sessions” was the designation given to the “Municipal Court for the District of Columbia” by Pub. L. 88–60, §§1, 7, July 8, 1963, 77 Stat. 77, 78, which provided that, eff. Jan. 1, 1963, whenever reference is made in any Act of Congress to the “Municipal Court for the District of Columbia”, such reference shall be held to be a reference to the “District of Columbia Court of General Sessions.”
 
@@ -34,7 +34,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 Functions of Bureau of Entomology and Plant Quarantine transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, set out in the Appendix to Title 5, Government Organization and Employees.
 
-“Bureau of Entomology and Plant Quarantine” substituted in text for “Federal Horticultural Board” byacts May 16, 1928, July 7, 1932, and Mar. 26, 1934. See note under section 165a of this title.
+“Bureau of Entomology and Plant Quarantine” substituted in text for “Federal Horticultural Board” by acts May 16, 1928, July 7, 1932, and Mar. 26, 1934. See note under section 165a of this title.
 
 #### Federal Rules of Civil Procedure
 

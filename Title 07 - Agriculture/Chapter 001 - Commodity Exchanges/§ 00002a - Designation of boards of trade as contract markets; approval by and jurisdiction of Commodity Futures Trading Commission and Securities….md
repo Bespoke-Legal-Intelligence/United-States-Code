@@ -30,7 +30,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(V) Any action taken by the Board, or by the Commission acting under the delegation of authority under subclause III,<sup>2</sup> under this clause directing a contract market to alter or supplement a contract market rule shall be subject to review only in the Court of Appeals where the party seeking review resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit. The review shall be based on the examination of all information before the Board or the Commission, as the case may be, at the time the determination was made. The court reviewing the action of the Board or the Commission shall not enter a stay or order of mandamus unless the court has determined, after notice and a hearing before a panel of the court, that the agency action complained of was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
-(Sept. 21, 1922, ch. 369, §2(a)(1)(B), as added Jan. 11, 1983, Pub. L. 97–444, title I, §101(a)(3), 96 Stat. 2294; amended Nov. 10, 1986, Pub. L. 99–641, title I, §110(1), 100 Stat. 3561; Oct. 28, 1992, Pub. L. 102–546, title II, §209(b)(1), title V, §501, 106 Stat. 3606, 3628.)
+(Sept. 21, 1922, ch. 369, §2(a)(1)(B), as added Pub. L. 97–444, title I, §101(a)(3), Jan. 11, 1983, 96 Stat. 2294; amended Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §209(b)(1), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3628.)
 
 #### References in Text
 

@@ -38,7 +38,7 @@ Definitions.—As used in this section, the following terms mean the following:
 
 &emsp;&emsp;(A) owns a coin-operated phonorecord player;
 
-&emsp;&emsp;(B) has the power to make a coin-operated phonorecord player available for placementin an establishment for purposes of public performance; or
+&emsp;&emsp;(B) has the power to make a coin-operated phonorecord player available for placement in an establishment for purposes of public performance; or
 
 &emsp;&emsp;(C) has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player.
 

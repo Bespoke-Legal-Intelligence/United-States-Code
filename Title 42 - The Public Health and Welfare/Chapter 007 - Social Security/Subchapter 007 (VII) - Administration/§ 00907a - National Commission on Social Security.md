@@ -14,7 +14,7 @@
 
 (B) At no time shall more than three of the members appointed by the President, one of the members appointed by the Speaker of the House of Representatives, or one of the members appointed by the President pro tempore of the Senate be members of the same political party.
 
-(C) The membership of the Commission shall consist of individuals who are of recognized standing and distinction and who possess thedemonstrated capacity to discharge the duties imposed on the Commission, and shall include representatives of the private insurance industry and of recipients and potential recipients of benefits under the programs involved as well as individuals whose capacity is based on a special knowledge or expertise in those programs. No individual who is otherwise an officer or full-time employee of the United States shall serve as a member of the Commission.
+(C) The membership of the Commission shall consist of individuals who are of recognized standing and distinction and who possess the demonstrated capacity to discharge the duties imposed on the Commission, and shall include representatives of the private insurance industry and of recipients and potential recipients of benefits under the programs involved as well as individuals whose capacity is based on a special knowledge or expertise in those programs. No individual who is otherwise an officer or full-time employee of the United States shall serve as a member of the Commission.
 
 (D) The Chairman of the Commission shall designate a member of the Commission to act as Vice Chairman of the Commission.
 
@@ -58,7 +58,7 @@
 
 (1) No later than four months after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress a special report describing the Commission's plans for conducting the study, investigation, and review under subsection (b) of this section, with particular reference to the scope of such study, investigation, and review and the methods proposed to be used in conducting it.
 
-(2) At or before the close of each of the first two years after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress an annual report on the study, investigation, and review under subsection (b) of this section, together with its recommendations with respect to the programs involved. The second such report shall constitute the final report of the Commission on such study, investigation, and review, and shallinclude its final recommendations; and the Commission shall cease to exist on April 1, 1981.
+(2) At or before the close of each of the first two years after the date on which a majority of the authorized membership of the Commission is initially appointed, the Commission shall submit to the President and the Congress an annual report on the study, investigation, and review under subsection (b) of this section, together with its recommendations with respect to the programs involved. The second such report shall constitute the final report of the Commission on such study, investigation, and review, and shall include its final recommendations; and the Commission shall cease to exist on April 1, 1981.
 
 #### (d) Executive Director and additional personnel; appointment and compensation
 

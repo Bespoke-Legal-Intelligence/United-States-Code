@@ -40,9 +40,11 @@ This chapter shall apply—
 
 &emsp;(ii) Metal and glass that have been shredded and bagged so as to ensure negative buoyancy.
 
+&emsp;(iii) With regard to a submersible, nonplastic garbage that has been compacted and weighted to ensure negative buoyancy.
+
 (B)(i) Garbage described in subparagraph (A)(i) may not be discharged within 3 nautical miles of land.
 
-(ii) Garbage described in subparagraph (A)(ii) may not be discharged within 12 nautical miles of land.
+(ii) Garbage described in clauses (ii) and (iii) of subparagraph (A) may not be discharged within 12 nautical miles of land.
 
 (C) This paragraph applies to any ship that is owned or operated by the Department of the Navy that, as determined by the Secretary of the Navy—
 
@@ -62,13 +64,13 @@ The Secretary shall prescribe regulations applicable to the ships of a country n
 
 #### (e) Compliance by excluded vessels
 
-(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologiesand practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
+(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
 
 (2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
 
 (3) Except when necessary for the purpose of securing the safety of the ship, the health of the ship's personnel, or saving life at sea, it shall be a violation of this chapter for a ship referred to in subsection (b)(1)(A) of this section that is owned or operated by the Department of the Navy:
 
-&emsp;(A) With regard to a submersible, to discharge buoyant garbage or garbage that contains more than the minimum amount practicable of plastic.
+&emsp;(A) With regard to a submersible, to discharge buoyant garbage or plastic.
 
 &emsp;(B) With regard to a surface ship, to discharge plastic contaminated by food during the last 3 days before the ship enters port.
 
@@ -88,13 +90,19 @@ The President may waive the effective dates of the requirements set forth in sub
 
 The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
-(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042.)
+(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965.)
 
 #### References in Text
 
 Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (e)(4)(B) and (f), is section 1003(e) of Pub. L. 103–160, which is set out below.
 
 #### Amendments
+
+1998—Subsec. (c)(2)(A)(iii). Pub. L. 105–261, §326(a)(1), added cl. (iii).
+
+Subsec. (c)(2)(B)(ii). Pub. L. 105–261, §326(a)(2), substituted “clauses (ii) and (iii) of subparagraph (A)” for “subparagraph (A)(ii)”.
+
+Subsec. (e)(3)(A). Pub. L. 105–261, §326(b), struck out “garbage that contains more than the minimum amount practicable of” after “buoyant garbage or”.
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–227 inserted “or the Antarctic Protocol” after “MARPOL Protocol”.
 
@@ -144,7 +152,7 @@ Section 1003(e) of Pub. L. 103–160 provided that:
 
 “(2) Not later than July 1, 1996, the Secretary shall install the first production unit of the plastics processor on board a ship owned or operated by the Navy.
 
-“(3) Not later than March 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 25 percent of the ships owned or operated by the Navy that require plastics processors to comply with section 3 of the Act to Prevent Pollution from Ships \[33 U.S.C. 1902\], as amended by subsections (a), (b), and (c) of this section.
+“(3) Not later than March 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 25 percent of the ships owned or operated by the Navy that require plastics processors tocomply with section 3 of the Act to Prevent Pollution from Ships \[33 U.S.C. 1902\], as amended by subsections (a), (b), and (c) of this section.
 
 “(4) Not later than July 1, 1997, the Secretary shall complete the installation of plastics processors on board not less than 50 percent of the ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.
 

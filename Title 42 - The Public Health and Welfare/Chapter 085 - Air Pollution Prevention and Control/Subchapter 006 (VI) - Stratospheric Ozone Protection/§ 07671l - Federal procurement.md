@@ -2,7 +2,7 @@
 
 Not later than 18 months after November 15, 1990, the Administrator, in consultation with the Administrator of the General Services Administration and the Secretary of Defense, shall promulgate regulations requiring each department, agency, and instrumentality of the United States to conform its procurement regulations to the policies and requirements of this subchapter and to maximize the substitution of safe alternatives identified under section 7671k of this title for class I and class II substances. Not later than 30 months after November 15, 1990, each department, agency, and instrumentality of the United States shall so conform its procurement regulations and certify to the President that its regulations have been modified in accordance with this section.
 
-(July 14, 1955, ch. 360, title VI, §613, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2668.)
+(July 14, 1955, ch. 360, title VI, §613, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2668.)
 
 #### Ex. Ord. No. 12843. Procurement Requirements and Policies for Federal Agencies for Ozone-Depleting Substances
 
@@ -52,7 +52,7 @@ Sec. 3. <i>Policy</i>. It is the policy of the Federal Government that Federal a
 
 (b) amending existing contracts, to the extent permitted by law and where practicable, to be consistent with the phaseout schedules for Class I substances. In awarding contracts, agencies should be aware of the phaseout schedule for Class II substances in awarding contracts;
 
-(c) implementing policies and practices that recognize the increasingly limited availability of Class I substances as production levels capped by the MontrealProtocol decline until final phaseout. Such practices shall include, but are not limited to:
+(c) implementing policies and practices that recognize the increasingly limited availability of Class I substances as production levels capped by the Montreal Protocol decline until final phaseout. Such practices shall include, but are not limited to:
 
 &emsp;(i) reducing emissions and recycling ozone-depleting substances;
 

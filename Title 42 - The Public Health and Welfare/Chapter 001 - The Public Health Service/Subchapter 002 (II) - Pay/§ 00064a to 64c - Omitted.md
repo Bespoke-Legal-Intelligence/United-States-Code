@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 64a, act Feb. 21, 1929, ch. 288, 45 Stat. 1254, defined child and children as used in section 64 of thistitle, and was superseded by section 401 of Title 37, Pay and Allowances of the Uniformed Services.
+Section 64a, act Feb. 21, 1929, ch. 288, 45 Stat. 1254, defined child and children as used in section 64 of this title, and was superseded by section 401 of Title 37, Pay and Allowances of the Uniformed Services.
 
 Section 64b, act June 24, 1935, ch. 291, §3, 49 Stat. 421, defined permanent change in station as used in section 64 of this title and was superseded by section 411 of Title 37.
 

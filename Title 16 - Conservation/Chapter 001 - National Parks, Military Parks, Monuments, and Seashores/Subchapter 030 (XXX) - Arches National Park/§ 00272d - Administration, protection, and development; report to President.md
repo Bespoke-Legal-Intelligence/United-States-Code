@@ -1,12 +1,30 @@
 ### §272d. Administration, protection, and development; report to President
 
-(a) The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.
+#### (a) In general
 
-(b) Within three years from November 12, 1971, the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act \[16 U.S.C. 1132(c) and (d)\], his recommendations as the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act \[16 U.S.C. 1131 et seq.\].
+The Secretary shall administer, protect and develop the park in accordance with the provisions of the law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title.
 
-(Pub. L. 92–155, §5, Nov. 12, 1971, 85 Stat. 422.)
+#### (b) Lost Spring Canyon Addition
+
+#### (1) Withdrawal
+
+&emsp;Subject to valid existing rights, all Federal land in the Lost Spring Canyon Addition is appropriated and withdrawn from entry, location, selection, leasing, or other disposition under the public land laws (including the mineral leasing laws).
+
+#### (2) Effect
+
+&emsp;The inclusion of the Lost Spring Canyon Addition in the park shall not affect the operation or maintenance by the Northwest Pipeline Corporation (or its successors or assigns) of the natural gas pipeline and related facilities located in the Lost Spring Canyon Addition on October 30, 1998.
+
+(Pub. L. 92–155, §5, Nov. 12, 1971, 85 Stat. 422; Pub. L. 105–329, §2(d), Oct. 30, 1998, 112 Stat. 3061.)
 
 #### References in Text
 
-The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The public land laws, referred to in subsec. (b)(1), are classified generally to Title 43, Public Lands.
+
+Mineral leasing laws, referred to in subsec. (b)(1), have been defined in sections 351, 505, 530, and 541e of Title 30, Mineral Lands and Mining, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–329, §2(d)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.”
+
+Subsec. (b). Pub. L. 105–329, §2(d)(2), inserted heading and amended text generally. Prior to amendment, text read as follows: “Within three years from November 12, 1971, the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act, his recommendations as the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act.”
 

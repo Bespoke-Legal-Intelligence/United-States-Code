@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 &emsp;(7) the term “public member” means a member of the Council, other than a representative of producers or retail marketers, representing significant users of propane, public safety officials, academia, the propane research community, or other groups knowledgeable about propane;
 
-&emsp;(8) the term “qualified industry organization” means the National Propane Gas Association, the Gas Processors Association, a successor association of such associations, or agroup of retail marketers or producers who collectively represent at least 25 percent of the volume of propane sold or produced in the United States;
+&emsp;(8) the term “qualified industry organization” means the National Propane Gas Association, the Gas Processors Association, a successor association of such associations, or a group of retail marketers or producers who collectively represent at least 25 percent of the volume of propane sold or produced in the United States;
 
 &emsp;(9) the term “retail marketer” means a person engaged primarily in the sale of odorized propane to the ultimate consumer or to retail propane dispensers;
 

@@ -1,6 +1,6 @@
 ### §283f. Requirements regarding surveys of sexual behavior
 
-With respect to any survey of human sexual behavior proposed to be conducted or supportedthrough the National Institutes of Health, the survey may not be carried out unless—
+With respect to any survey of human sexual behavior proposed to be conducted or supported through the National Institutes of Health, the survey may not be carried out unless—
 
 &emsp;(1) the proposal has undergone review in accordance with any applicable requirements of sections 289 and 289a of this title; and
 
@@ -10,7 +10,7 @@ With respect to any survey of human sexual behavior proposed to be conducted or 
 
 &emsp;&emsp;(B) in improving reproductive health or other conditions of health.
 
-(July 1, 1944, ch. 373, title IV, §404D, as added June 10, 1993, Pub. L. 103–43, title II, §207, 107 Stat. 148.)
+(July 1, 1944, ch. 373, title IV, §404D, as added Pub. L. 103–43, title II, §207, June 10, 1993, 107 Stat. 148.)
 
 #### Prohibition Against SHARP Adult Sex Survey and American Teenage Sex Survey
 

@@ -1,8 +1,6 @@
 ### §121b. Senate Beauty Shop
 
-#### (a) Employment and compensation of personnel
-
-The Sergeant at Arms and Doorkeeper of the Senate is authorized to employ, and fix the compensation of such employees as he determines necessary to operate the Senate Beauty Shop.
+#### (a) Repealed. Pub. L. 105–275, title I, §6(h)(2), Oct. 21, 1998, 112 Stat. 2434
 
 #### (b) Omitted
 
@@ -28,11 +26,19 @@ The Office of Personnel Management shall accept the certification of the Secreta
 
 The foregoing provisions of this section shall take effect on October 1, 1988.
 
-(Pub. L. 100–458, title I, §10, Oct. 1, 1988, 102 Stat. 2162.)
+(Pub. L. 100–458, title I, §10, Oct. 1, 1988, 102 Stat. 2162; Pub. L. 105–275, title I, §6(h)(2), Oct. 21, 1998, 112 Stat. 2434.)
 
 #### Codification
 
-Section is comprised of section 10 of Pub. L. 100–458. Subsec. (b) of section 10 amended section 121a of this title.
+Section is comprised of section 10 of Pub. L. 100–458. Subsec. (b) of section 10 amended former section 121a of this title.
 
 Section is from the Congressional Operations Appropriations Act, 1989, which is title I of the Legislative Branch Appropriations Act, 1989.
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–275 struck out subsec. (a) which read as follows: “The Sergeant at Arms and Doorkeeper of the Senate is authorized to employ, and fix the compensation of such employees as he determines necessary to operate the Senate Beauty Shop.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–275 effective 30 days after Oct. 21, 1998, see section 121b–1(i) of this title.
 

@@ -1,0 +1,34 @@
+### §190303. Purposes
+
+The purposes of the corporation are as provided in its articles of incorporation and bylaws and include—
+
+&emsp;(1) upholding and defending the Constitution of the United States;
+
+&emsp;(2) promoting health, prosperity, and scholarship among its members and their dependents and survivors through benevolent programs;
+
+&emsp;(3) assisting veterans and their dependents and survivors through a service program established for that purpose;
+
+&emsp;(4) improving conditions for retired enlisted service members, veterans, and their dependents and survivors; and
+
+&emsp;(5) fostering fraternal and social activities among its members in recognition that cooperative action is required for the furtherance of their common interests.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1449.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+190303
+
+36:5103.
+
+Oct. 23, 1992, Pub. L. 102–484, title XVIII, §1823, 106 Stat. 2584.
+
+The word “objects” is omitted as included in “purposes”.
+

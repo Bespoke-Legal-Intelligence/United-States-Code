@@ -20,7 +20,7 @@ An alien who is a native, citizen, subject, or denizen of any country, state, or
 
 Nothing contained herein shall be taken or construed to interfere with or prevent the apprehension and removal, consistent with law, of any alien enemy at any time prior to the actual naturalization of such alien.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §331, 66 Stat. 252; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(c)(13), (d)(9), (e)(2), 104 Stat. 5041, 5042, 5046.)
+(June 27, 1952, ch. 477, title III, ch. 2, §331, 66 Stat. 252; Pub. L. 101–649, title IV, §407(c)(13), (d)(9), (e)(2), Nov. 29, 1990, 104 Stat. 5041, 5042, 5046.)
 
 #### Amendments
 

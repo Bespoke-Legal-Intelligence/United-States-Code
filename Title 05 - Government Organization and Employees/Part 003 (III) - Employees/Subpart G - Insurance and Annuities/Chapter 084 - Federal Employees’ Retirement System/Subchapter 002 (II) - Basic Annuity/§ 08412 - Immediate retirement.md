@@ -4,13 +4,13 @@
 
 (b) An employee or Member who is separated from the service after becoming 60 years of age and completing 20 years of service is entitled to an annuity.
 
-(c) An employee or Member who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
+(c) An employee or Member who is separated from the service after becoming 62 years of ageand completing 5 years of service is entitled to an annuity.
 
 (d) An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
 
-&emsp;(1) after completing 25 years of service as a law enforcement officer, member of the Capitol Police, or firefighter, or any combination of such service totaling at least 25 years, or
+&emsp;(1) after completing 25 years of service as a law enforcement officer, member of the Capitol Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 25 years, or
 
-&emsp;(2) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police, or firefighter, or any combination of such service totaling at least 20 years,
+&emsp;(2) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police, firefighter, or nuclear materials courier, or any combination of such service totaling at least 20 years,
 
 > is entitled to an annuity.
 
@@ -52,13 +52,19 @@
 
 (B) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, §105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, §3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, §3154(g), Oct. 17, 1998, 112 Stat. 2255.)
 
 #### Amendments
+
+1998—Subsec. (d)(1), (2). Pub. L. 105–261 substituted “firefighter, or nuclear materials courier” for “or firefighter”.
 
 1990—Subsec. (d)(1), (2). Pub. L. 101–428 substituted “officer, member of the Capitol Police,” for “officer”.
 
 1986—Subsec. (g). Pub. L. 99–556 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Section Referred to in Other Sections
 

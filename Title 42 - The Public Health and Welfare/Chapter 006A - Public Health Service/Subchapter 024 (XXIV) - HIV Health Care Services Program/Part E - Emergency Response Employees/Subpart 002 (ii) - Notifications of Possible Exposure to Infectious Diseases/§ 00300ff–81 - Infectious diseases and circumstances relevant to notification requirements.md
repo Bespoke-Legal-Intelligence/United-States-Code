@@ -22,7 +22,7 @@ The Secretary shall—
 
 &emsp;(2) make such copies available to the public.
 
-(July 1, 1944, ch. 373, title XXVI, §2681, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §411(a), 104 Stat. 623.)
+(July 1, 1944, ch. 373, title XXVI, §2681, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 623.)
 
 #### Section Referred to in Other Sections
 

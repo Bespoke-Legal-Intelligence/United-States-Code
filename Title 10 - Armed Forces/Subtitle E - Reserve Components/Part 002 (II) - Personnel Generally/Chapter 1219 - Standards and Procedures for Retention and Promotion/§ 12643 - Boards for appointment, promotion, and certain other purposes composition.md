@@ -4,7 +4,7 @@
 
 (b) Each member of a board convened for the selection for promotion, or for the demotion or discharge, of Reserves must be senior in rank to the persons under consideration by that board. However, a member serving in a legal advisory capacity may be junior in rank to any person, other than a judge advocate or law specialist, being considered by that board; and a member serving in a medical advisory capacity may be junior in rank to any person, other than a medical officer, being considered by that board.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 11, §266; Dec. 12, 1980, Pub. L. 96–513, title V, §501(4), 94 Stat. 2907; July 10, 1981, Pub. L. 97–22, §2(c), 95 Stat. 124; renumbered §12643, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(h)(2), 108 Stat. 2996.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 11, §266; Pub. L. 96–513, title V, §501(4), Dec. 12, 1980, 94 Stat. 2907; Pub. L. 97–22, §2(c), July 10, 1981, 95 Stat. 124; renumbered §12643, Pub. L. 103–337, div. A, title XVI, §1662(h)(2), Oct. 5, 1994, 108 Stat. 2996.)
 
 Historical and Revision Notes
 

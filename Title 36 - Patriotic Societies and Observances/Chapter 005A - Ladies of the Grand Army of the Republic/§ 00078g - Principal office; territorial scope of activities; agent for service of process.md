@@ -1,8 +1,0 @@
-### §78g. Principal office; territorial scope of activities; agent for service of process
-
-(a) The principal office of the corporation shall be located in Washington, District of Columbia, or in such other place as may later be determined by the corporation, but the activities of the corporation shall not be confined to that place and may be conducted throughout the various States, Territories, and possessions of the United States.
-
-(b) The corporation shall have in the District of Columbia at all times a designated agent authorized to accept service of process for the corporation; and notice to or service upon such agent, or mailed to the business address of such agent, shall be deemed notice to or service upon the corporation.
-
-(Pub. L. 86–47, §8, June 17, 1959, 73 Stat. 78.)
-

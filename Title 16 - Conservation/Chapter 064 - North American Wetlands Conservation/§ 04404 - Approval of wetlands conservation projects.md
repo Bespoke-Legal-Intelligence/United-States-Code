@@ -24,7 +24,7 @@ The Council shall submit to the Migratory Bird Conservation Commission by Januar
 
 #### (c) Council procedures
 
-The Council shall establish practices and procedures for the carrying out of its functions under subsections (a) and (b) of this section. The procedures shall include requirements that—
+The Council shall establish practices and procedures for the carrying out of its functionsunder subsections (a) and (b) of this section. The procedures shall include requirements that—
 
 &emsp;(1) a quorum of the Council must be present before any business may be transacted; and
 

@@ -38,11 +38,35 @@
 
 &emsp;(i) shall be fined under this title, imprisoned not more than 1 year, or both; and
 
-&emsp;(ii) if the person sold, delivered, or otherwise transferred a handgun or ammunition to a juvenile knowing or having reasonable cause to know that the juvenile intended to carry or otherwise possess or discharge or otherwise use the handgun or ammunition in the commission of a crime of violence, shall be fined under this title, imprisoned not more than 10 years, or both.
+&emsp;(ii) if the person sold, delivered, or otherwise transferred a handgun or ammunition to a juvenile knowing or having reasonable cause to know that the juvenile intended to carry or otherwise possess or discharge or otherwiseuse the handgun or ammunition in the commission of a crime of violence, shall be fined under this title, imprisoned not more than 10 years, or both.
 
 (b) Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
 
-(c)(1) Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release.<sup>1</sup> Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.
+(c)(1)(A) Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime—
+
+&emsp;(i) be sentenced to a term of imprisonment of not less than 5 years;
+
+&emsp;(ii) if the firearm is brandished, be sentenced to a term of imprisonment of not less than 7 years; and
+
+&emsp;(iii) if the firearm is discharged, be sentenced to a term of imprisonment of not less than 10 years.
+
+(B) If the firearm possessed by a person convicted of a violation of this subsection—
+
+&emsp;(i) is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, the person shall be sentenced to a term of imprisonment of not less than 10 years; or
+
+&emsp;(ii) is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, the person shall be sentenced to a term of imprisonment of not less than 30 years.
+
+(C) In the case of a second or subsequent conviction under this subsection, the person shall—
+
+&emsp;(i) be sentenced to a term of imprisonment of not less than 25 years; and
+
+&emsp;(ii) if the firearm involved is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, be sentenced to imprisonment for life.
+
+(D) Notwithstanding any other provision of law—
+
+&emsp;(i) a court shall not place on probation any person convicted of a violation of this subsection; and
+
+&emsp;(ii) no term of imprisonment imposed on a person under this subsection shall run concurrently with any other term of imprisonment imposed on the person, including any term of imprisonment imposed for the crime of violence or drug trafficking crime during which the firearm was used, carried, or possessed.
 
 (2) For purposes of this subsection, the term “drug trafficking crime” means any felony punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.).
 
@@ -51,6 +75,8 @@
 &emsp;(A) has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or
 
 &emsp;(B) that by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
+
+(4) For purposes of this subsection, the term “brandish” means, with respect to a firearm, to display all or part of the firearm, or otherwise make the presence of the firearm known to another person, in order to intimidate that person, regardless of whether the firearm is directly visible to that person.
 
 (d)(1) Any firearm or ammunition involved in or used in any knowing violation of subsection (a)(4), (a)(6), (f), (g), (h), (i), (j), or (k) of section 922, or knowing importation or bringing into the United States or any possession thereof any firearm or ammunition in violation of section 922(<i>l</i>), or knowing violation of section 924, or willful violation of any other provision of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, or any firearm or ammunition intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter: <i>Provided</i>, That upon acquittal of the owner or possessor, or dismissal of the charges against him other than upon motion of the Government prior to trial, or lapse of or court termination of the restraining order to which he is subject, the seized or relinquished firearms or ammunition shall be returned forthwith to the owner or possessor or to a person delegated by the owner or possessor unless the return of the firearms or ammunition would place the owner or possessor or his delegate in violation of law. Any action or proceeding for the forfeiture of firearms or ammunition shall be commenced within one hundred and twenty days of such seizure.
 
@@ -84,7 +110,7 @@
 
 &emsp;&emsp;(i) an offense under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.) for which a maximum term of imprisonment of ten years or more is prescribed by law; or
 
-&emsp;&emsp;(ii) an offense under State law, involving manufacturing, distributing, or possessingwith intent to manufacture or distribute, a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), for which a maximum term of imprisonment of ten years or more is prescribed by law;
+&emsp;&emsp;(ii) an offense under State law, involving manufacturing, distributing, or possessing with intent to manufacture or distribute, a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), for which a maximum term of imprisonment of ten years or more is prescribed by law;
 
 &emsp;(B) the term “violent felony” means any crime punishable by imprisonment for a term exceeding one year, or any act of juvenile delinquency involving the use or carrying of a firearm, knife, or destructive device that would be punishable by imprisonment for such term if committed by an adult, that—
 
@@ -138,11 +164,11 @@
 
 (<i>o</i>) A person who conspires to commit an offense under subsection (c) shall be imprisoned for not more than 20 years, fined under this title, or both; and if the firearm is a machinegun or destructive device, or is equipped with a firearm silencer or muffler, shall be imprisoned for any term of years or life.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j),330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998, 1999, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998, 1999, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469.)
 
 #### Amendment of Section
 
-<i>Pub. L. 100–649, §2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924, provided that, effective 10 years after the 30th day beginning after Nov. 10, 1988, subsection (a)(1) of this section is amended by striking “, (c), or (f)” and inserting in lieu thereof “or (c)”, subsection (f) of this section is repealed, and subsections (g) and (h) of this section are redesignated as subsections (f) and (g), respectively, of this section.</i>
+<i>Pub. L. 100–649, §2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that, effective 15 years after the 30th day beginning after Nov. 10, 1988, subsection (a)(1) of this section is amended by striking “, (c), or (f)” and inserting in lieu thereof “or (c)”, subsection (f) of this section is repealed, and subsections (g) and (h) of this section are redesignated as subsections (f) and (g), respectively, of this section.</i>
 
 <i>For repeal of amendment by section 110105(2) of Pub. L. 103–322, see Effective and Termination Dates of 1994 Amendment note below.</i>
 
@@ -159,6 +185,10 @@ The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2),
 The Maritime Drug Law Enforcement Act, referred to in subsecs. (c)(2), (e)(2)(A)(i), (g)(2), and (k)(1), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–386, §1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
+
+Subsec. (c)(4). Pub. L. 105–386, §1(a)(2), added par. (4).
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–294, §603(n), repealed Pub. L. 103–322, §330002(h). See 1994 Amendment note below.
 
@@ -224,7 +254,7 @@ Subsec. (e)(2)(A)(i). Pub. L. 103–322, §330003(f)(2), substituted “the Mari
 
 Subsec. (i). Pub. L. 103–322, §60013, added subsec. (i) relating to death penalty for gun murders.
 
-Subsec. (i)(1). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not morethan $10,000” in par. (1) of subsec. (i) relating to knowing violations of section 922(u).
+Subsec. (i)(1). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in par. (1) of subsec. (i) relating to knowing violations of section 922(u).
 
 Subsec. (j). Pub. L. 103–322, §110503, added subsec. (j).
 
@@ -336,7 +366,7 @@ Section 2203(d) of Pub. L. 101–647 provided that the amendment by that section
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 
-Amendment by section 2(b) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(B), (D) effective 10 years after such effective date, see section 2(f) of Pub. L. 100–649, set out as a note under section 922 of this title.
+Amendment by section 2(b) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(B), (D) effective 15 years after such effective date, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under section 922 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -352,7 +382,5 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 844, 2516, 3142, 3559, 3592, 4042, 5032 of this title; title 8 section 1101; title 31 section 9703.
-
-<i><sup>1</sup></i><i> See 1988 Amendment note below.</i>
+This section is referred to in sections 844, 1028, 2516, 3142, 3559, 3592, 4042, 5032 of this title; title 8 section 1101; title 31 section 9703.
 

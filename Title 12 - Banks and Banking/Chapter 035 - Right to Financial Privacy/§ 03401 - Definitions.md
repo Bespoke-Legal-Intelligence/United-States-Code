@@ -2,7 +2,7 @@
 
 For the purpose of this chapter, the term—
 
-&emsp;(1) “financial institution” means any office of a bank, savings bank, card issuer as defined in section 1602(n) of title 15, industrial loan company, trust company, savings association,building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
+&emsp;(1) “financial institution” means any office of a bank, savings bank, card issuer as defined in section 1602(n) of title 15, industrial loan company, trust company, savings association, building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
 
 &emsp;(2) “financial record” means an original of, a copy of, or information known to have been derived from, any record held by a financial institution pertaining to a customer's relationship with the financial institution;
 

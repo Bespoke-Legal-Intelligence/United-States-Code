@@ -56,5 +56,5 @@ For the purpose of this section, an error consists of—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1693c, 1693m of this title.
+This section is referred to in sections 1693c, 1693m of this title; title 26 section 6311.
 

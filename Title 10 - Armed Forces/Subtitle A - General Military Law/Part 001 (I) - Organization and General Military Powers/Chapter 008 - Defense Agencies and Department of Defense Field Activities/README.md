@@ -1,11 +1,6 @@
 ### <b>CHAPTER 8—DEFENSE AGENCIES AND DEPARTMENT OF DEFENSE FIELD ACTIVITIES</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Common%20Supply%20and%20Service%20Activities/README.md) | <b>Common Supply and Service Activities</b> | <b>191</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Defense%20Agency%20Matters/README.md) | <b>Miscellaneous Defense Agency Matters</b> | <b>201</b> |

@@ -34,7 +34,7 @@ As used in this subchapter the term:
 
 #### References in Text
 
-Section 1811 of this title, referred to in subsec. (c), which established the fishery conservation zone, wasamended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
+Section 1811 of this title, referred to in subsec. (c), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
 Proclamation Numbered 5030, referred to in subsec. (c), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of this title.
 
@@ -52,7 +52,7 @@ Section 308 of title III of Pub. L. 102–251 provided that:
 
 “(a)
 
-In General.—The amendment made by section 301(e)(3) \[amending section 1822 of this title\] takes effect on the date of enactment of this Act \[Mar. 9, 1992\], and the amendments made by the other provisions of this title \[amending this section and sections 773e, 1151, 1362, 1801, 1802, 1811, 1821, 1822, 1824, 1853, 1857, 1861, 3631, and 3636 of this title and sections 1122 and 1124a of Title 33, Navigation and Navigable Waters\], except as provided in subsection (b), shall be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
+In General.—The amendment made by section 301(e)(3) \[amending section 1822 of this title\] takes effect on the date of enactment of this Act \[Mar. 9, 1992\], and the amendments made by the other provisions of this title \[amending this section and sections 773e, 1151, 1362, 1801, 1802, 1811, 1821, 1822, 1824, 1853, 1857, 1861, 3631,and 3636 of this title and sections 1122 and 1124a of Title 33, Navigation and Navigable Waters\], except as provided in subsection (b), shall be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
 “(b)
 

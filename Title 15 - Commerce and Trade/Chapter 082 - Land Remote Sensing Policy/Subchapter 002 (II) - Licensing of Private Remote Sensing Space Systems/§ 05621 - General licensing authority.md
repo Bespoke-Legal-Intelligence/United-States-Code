@@ -8,7 +8,9 @@
 
 #### (b) Compliance with law, regulations, international obligations, and national security
 
-No license shall be granted by the Secretary unless the Secretary determines in writing that the applicant will comply with the requirements of this chapter, any regulations issued pursuant to this chapter, and any applicable international obligations and national security concerns of the United States.
+(1) No license shall be granted by the Secretary unless the Secretary determines in writing that the applicant will comply with the requirements of this chapter, any regulations issued pursuant to this chapter, and any applicable international obligations and national security concerns of the United States.
+
+(2) The Secretary, within 6 months after October 28, 1998, shall publish in the Federal Register a complete and specific list of all information required to comprise a complete application for a license under this subchapter. An application shall be considered complete when the applicant has provided all information required by the list most recently published in the Federal Register before the date the application was first submitted. Unless the Secretary has, within 30 days after receipt of an application, notified the applicant of information necessary to complete an application, the Secretary may not deny the application on the basis of the absence of any such information.
 
 #### (c) Deadline for action on application
 
@@ -30,7 +32,11 @@ The Secretary shall not deny such license in order to protect any existing licen
 
 (3) A designation made by the Secretary under paragraph (1) shall not be inconsistent with any contract or other arrangement entered into between a United States Government agency and the licensee.
 
-(Pub. L. 102–555, title II, §201, Oct. 28, 1992, 106 Stat. 4171.)
+(Pub. L. 102–555, title II, §201, Oct. 28, 1992, 106 Stat. 4171; Pub. L. 105–303, title I, §107(f)(1), Oct. 28, 1998, 112 Stat. 2854.)
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–303 designated existing provisions as par. (1) and added par. (2).
 
 #### Prohibition on Collection and Release of Detailed Satellite Imagery Relating to Israel
 

@@ -34,5 +34,5 @@ Authority of President under subsec. (e) of this section delegated to Office of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5307 of this title; title 38 section 7410.
+This section is referred to in sections 5307, 9504 of this title; title 38 section 7410.
 

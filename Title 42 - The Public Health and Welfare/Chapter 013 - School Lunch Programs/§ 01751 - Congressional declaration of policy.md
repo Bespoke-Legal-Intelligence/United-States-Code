@@ -2,7 +2,7 @@
 
 It is declared to be the policy of Congress, as a measure of national security, to safeguard the health and well-being of the Nation's children and to encourage the domestic consumption of nutritious agricultural commodities and other food, by assisting the States, through grants-in-aid and other means, in providing an adequate supply of foods and other facilities for the establishment, maintenance, operation, and expansion of nonprofit school lunch programs.
 
-(June 4, 1946, ch. 281, §2, 60 Stat. 230; Nov. 10, 1989, Pub. L. 101–147, title III, §312(1), 103 Stat. 916.)
+(June 4, 1946, ch. 281, §2, 60 Stat. 230; Pub. L. 101–147, title III, §312(1), Nov. 10, 1989, 103 Stat. 916.)
 
 #### Amendments
 
@@ -11,6 +11,10 @@ It is declared to be the policy of Congress, as a measure of national security, 
 #### Effective Date of 1989 Amendment
 
 Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–336, §1(a), Oct. 31, 1998, 112 Stat. 3143, provided that: “This Act \[amending sections 1755, 1758, 1759a to 1761, 1762a, 1765 to 1766a, 1769, 1769b–1, 1769c, 1769f to 1769h, 1773, 1776, 1784, 1786, and 1788 of this title, repealing section 1766b of this title, enacting provisions set out as notes under sections 1755, 1761, and 1786 of this title, and amending provisions set out as notes under section 1769 of this title and section 612c of Title 7, Agriculture\] may be cited as the ‘William F. Goodling Child Nutrition Reauthorization Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
@@ -44,7 +48,7 @@ Pub. L. 95–166, §1, Nov. 10, 1977, 91 Stat. 1325, provided: “That this Act 
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–105, §1, Oct. 7, 1975, 89 Stat. 511, provided: “That this Act \[enacting sections 1765, 1766, 1767, 1768, and 1787 of this title, amending sections 1752, 1755, 1756, 1758, 1759, 1759a, 1760, 1761, 1762a, 1772, 1773, 1774, 1784, and 1786 of this title, repealing section 1764 of this title, and enacting provisions set out as notes under sections 1758, 1760, 1761, and 1786 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Act of 1966 Amendments of 1975’.”
+Pub. L. 94–105, §1, Oct. 7, 1975, 89 Stat. 511, provided: “That this Act \[enacting sections 1765, 1766, 1767, 1768,and 1787 of this title, amending sections 1752, 1755, 1756, 1758, 1759, 1759a, 1760, 1761, 1762a, 1772, 1773, 1774, 1784, and 1786 of this title, repealing section 1764 of this title, and enacting provisions set out as notes under sections 1758, 1760, 1761, and 1786 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Act of 1966 Amendments of 1975’.”
 
 #### Short Title of 1974 Amendment
 

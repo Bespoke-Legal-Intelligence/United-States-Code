@@ -30,15 +30,27 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 #### (h) Maintenance of security
 
-(1) <sup>1</sup>
+#### (1) In general
 
-In general.—With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department of Energy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of an adequate number of security guards carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by a private entity under a contract or lease with a Federal agency).
+&emsp;With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department of Energy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of all security police officers carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by a private entity under a contract or lease with a Federal agency).
 
-(Pub. L. 104–134, title III, §3107, Apr. 26, 1996, 110 Stat. 1321–338; Pub. L. 105–62, title V, §511, Oct. 13, 1997, 111 Stat. 1341.)
+#### (2) Funding
+
+&emsp;(A) The costs of arming and providing arrest authority to the security police officers required under paragraph (1) shall be paid as follows:
+
+&emsp;&emsp;(i) the Department of Energy (the “Department”) shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of the Department (including employees of a contractor or subcontractor of the private entity); and
+
+&emsp;&emsp;(ii) the private entity leasing the gaseous diffusion plant shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are employees of the private entity (including employees of a contractor or subcontractor) other than those employees who perform work for the Department.
+
+&emsp;(B) Neither the private entity leasing the gaseous diffusion plant nor the Department shall reduce its payments under any contract or lease or take other action to offset its share of the costs referred to in subparagraph (A), and the Department shall not reimburse the private entity for the entity's share of these costs.
+
+&emsp;(C) Nothing in this subsection shall alter the Department's responsibilities to pay the safety, safeguards and security costs associated with the Department's highly enriched uranium activities.
+
+(Pub. L. 104–134, title III, §3107, Apr. 26, 1996, 110 Stat. 1321–338; Pub. L. 105–62, title V, §511, Oct. 13, 1997, 111 Stat. 1341; Pub. L. 105–245, title III, §310, Oct. 7, 1998, 112 Stat. 1853.)
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to this chapter (§2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to this chapter (§2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Codification
 
@@ -46,11 +58,11 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
+1998—Subsec. (h). Pub. L. 105–245 substituted “all security police officers” for “an adequate number of security guards” in par. (1) and added par. (2).
+
 1997—Subsec. (h). Pub. L. 105–62 added subsec. (h).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2297h–4 of this title.
-
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

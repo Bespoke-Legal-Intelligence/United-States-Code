@@ -4,7 +4,7 @@
 
 (1) Except as may be necessary to comply with the provisions of sections 1335 and 1336 of this title, all royalties or net profit shares, or both, accruing to the United States under any oil and gas lease issued or maintained in accordance with this subchapter, shall, on demand of the Secretary, be paid in oil or gas.
 
-(2) The United States shall have the right to purchase not to exceed 162/3 per centum by volume of the oil and gas produced pursuant to a lease issued or maintained in accordance with this subchapter, at the regulated price, or, if no regulated price applies, at the fair market value at the well head of the oil and gas saved, removed, or sold, except that any oil or gas obtained by the United States as royalty or net profit share shall be credited against the amount that may be purchased under this subsection.
+(2) The United States shall have the right to purchase not to exceed 162/3 per centum by volume of the oil and gas produced pursuant to a lease issued or maintained in accordance withthis subchapter, at the regulated price, or, if no regulated price applies, at the fair market value at the well head of the oil and gas saved, removed, or sold, except that any oil or gas obtained by the United States as royalty or net profit share shall be credited against the amount that may be purchased under this subsection.
 
 (3) Title to any royalty, net profit share, or purchased oil or gas may be transferred, upon request, by the Secretary to the Secretary of Defense, to the Administrator of the General Services Administration, or to the Secretary of Energy, for disposal within the Federal Government.
 
@@ -48,7 +48,7 @@ Nothing in this section shall prohibit the right of the United States to purchas
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e)(1)(A), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e)(1)(A), is Pub. L. 93–159, Nov. 27,1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 The Natural Gas Act, referred to in subsec. (e)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15. For complete classification of that Act to the Code, see section 717w of Title 15 and Tables.
 

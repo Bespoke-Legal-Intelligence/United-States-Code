@@ -32,7 +32,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;(C) the Committee on Agriculture of the House of Representatives;
 
-&emsp;&emsp;(D) the Committee on Energy and Commerce of the House of Representatives;
+&emsp;&emsp;(D) the Committee on Commerce of the House of Representatives;
 
 &emsp;&emsp;(E) the Committee on Finance of the Senate;
 
@@ -116,13 +116,13 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (4) Submission
 
-&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, and annually thereafter, to the committees specified in subsection (b)(3)(C) of this section. Each such report shall be transmitted during the first 60 days of each regular session of Congress.
+&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, and annually thereafter, to the committees specified in subsection (b)(3) of this section. Each such report shall be transmitted during the first 60 days of each regular session of Congress.
 
 #### (e) Short title
 
 This section may be cited as the “Welfare Indicators Act of 1994”.
 
-(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462.)
+(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674.)
 
 #### References in Text
 
@@ -134,7 +134,13 @@ The Food Stamp Act of 1977, referred to in subsec. (d)(2), is Pub. L. 88–525, 
 
 Section was enacted as part of the Social Security Act Amendments of 1994, and not as part of the Social Security Act which comprises this chapter.
 
+#### Amendments
+
+1998—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out “Energy and” before “Commerce”.
+
+Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted “subsection (b)(3) of this section” for “subsection (b)(3)(C) of this section”.
+
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives and Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 

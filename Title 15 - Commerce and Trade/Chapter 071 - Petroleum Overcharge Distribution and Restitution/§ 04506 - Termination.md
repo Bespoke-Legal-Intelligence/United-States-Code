@@ -12,7 +12,13 @@
 
 #### (b) Exception
 
-The requirements of section 4502(d) of this title shall continue to be applicable to the use of restitutionary amounts received under this chapter as long as such funds remain available.
+The requirements of section 4502(d) <sup>1</sup> of this title shall continue to be applicable to the use of restitutionary amounts received under this chapter as long as such funds remain available.
 
 (Pub. L. 99–509, title III, §3007, Oct. 21, 1986, 100 Stat. 1887.)
+
+#### References in Text
+
+Section 4502(d) of this title, referred to in subsec. (b), was repealed by section 4502(e) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

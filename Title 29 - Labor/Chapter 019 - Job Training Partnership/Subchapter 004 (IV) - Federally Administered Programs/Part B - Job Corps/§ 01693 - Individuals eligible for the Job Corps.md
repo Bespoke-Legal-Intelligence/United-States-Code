@@ -14,6 +14,10 @@ To become an enrollee in the Job Corps, a young man or woman must be an eligible
 
 (Pub. L. 97–300, title IV, §423, Oct. 13, 1982, 96 Stat. 1370; Pub. L. 102–367, title I, §103(b)(4), title IV, §402(a), Sept. 7, 1992, 106 Stat. 1026, 1076.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### Amendments
 
 1992—Par. (1). Pub. L. 102–367 inserted “not more than 20 percent of the individuals enrolled may be age 22 through 24, and that either” after “except that” and substituted “individual with a disability” for “handicapped individual”.

@@ -4,7 +4,7 @@ Persons convicted of offenses against the United States or by courts-martial pun
 
 A sentence for an offense punishable by imprisonment for one year or less shall not be served in a penitentiary without the consent of the defendant.
 
-(June 25, 1948, ch. 645, 62 Stat. 850; Sept. 14, 1959, Pub. L. 86–256, 73 Stat. 518.)
+(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 86–256, Sept. 14, 1959, 73 Stat. 518.)
 
 #### Historical and Revision Notes
 

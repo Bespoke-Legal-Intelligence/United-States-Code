@@ -104,7 +104,7 @@ Any funds expended under this section for medical assistance shall be in additio
 
 The amount of funds that may be expended as medical assistance to carry out the purposes of this section shall be for fiscal year 1991, $5,000,000, for fiscal year 1992, $10,000,000, for fiscal year 1993, $20,000,000, for fiscal year 1994, $30,000,000, for fiscal year 1995, $35,000,000, and for fiscal years thereafter such sums as provided by Congress.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1930, as added Nov. 5, 1990, Pub. L. 101–508, title IV, §4712(b), 104 Stat. 1388–187.)
+(Aug. 14, 1935, ch. 531, title XIX, §1930, as added Pub. L. 101–508, title IV, §4712(b), Nov. 5, 1990, 104 Stat. 1388–187.)
 
 #### Codification
 

@@ -17,10 +17,6 @@
 
 1996—Pub. L. 104–291, title II, §§208(b), 209(b), Oct. 11, 1996, 110 Stat. 3457, 3458, substituted “Effective date” for “Regulations and effective date” in item 5907 and added item 5908.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 521 of this title.
-
 
 ---
 

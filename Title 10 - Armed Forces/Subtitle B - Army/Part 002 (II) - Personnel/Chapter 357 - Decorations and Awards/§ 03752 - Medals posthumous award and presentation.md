@@ -4,7 +4,7 @@
 
 (b) If a person dies before an authorized service medal or device prescribed as a part thereof is presented to him under section 3751 of this title, it shall be presented to his family.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 217; Sept. 2, 1958, Pub. L. 85–861, §33(a)(23), 72 Stat. 1565.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 217; Pub. L. 85–861, §33(a)(23), Sept. 2, 1958, 72 Stat. 1565.)
 
 Historical and Revision Notes<br>1956
 

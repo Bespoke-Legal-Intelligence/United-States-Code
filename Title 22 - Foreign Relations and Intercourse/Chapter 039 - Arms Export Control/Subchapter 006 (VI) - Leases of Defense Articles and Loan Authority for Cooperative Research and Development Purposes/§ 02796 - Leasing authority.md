@@ -20,7 +20,7 @@ The President may lease defense articles in the stocks of the Department of Defe
 
 &emsp;(A) may be exercised only if the President submits to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, in accordance with the regular notification procedures of those Committees, a detailed notification for each lease with respect to which the authority is exercised; and
 
-&emsp;(B) may be exercised only during the fiscal year 1998 and only with respect to one country, unless the Congress hereafter provides otherwise.
+&emsp;(B) may be exercised only during the fiscal year <sup>1</sup> the current fiscal year and only with respect to one country, unless the Congress hereafter provides otherwise.
 
 > The preceding sentence does not constitute authorization of appropriations for payments by the United States for leased articles.
 
@@ -32,7 +32,7 @@ Each lease agreement under this section shall be for a fixed duration of not to 
 
 Defense articles in the stocks of the Department of Defense may be leased or loaned to a foreign country or international organization only under the authority of this subchapter or chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], and may not be leased to a foreign country or international organization under the authority of section 2667 of title 10.
 
-(Pub. L. 90–629, ch. 6, §61, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, §147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, §147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, §101(e) \[title V, §556\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, §552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, §550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, §546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, §524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, §731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, §524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, §524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §524\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149; Pub. L. 105–118, title V, §524, Nov. 26, 1997, 111 Stat. 2412.)
+(Pub. L. 90–629, ch. 6, §61, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, §147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, §147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, §101(e) \[title V, §556\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, §552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, §550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, §546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, §524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, §731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, §524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, §524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §524\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149; Pub. L. 105–118, title V, §524, Nov. 26, 1997, 111 Stat. 2412; Pub. L. 105–277, div. A, §101(d) \[title V, §524\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–177.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277 substituted “the current fiscal year” for “1998” in par. (B).
 
 1997—Subsec. (a). Pub. L. 105–118 substituted “1998” for “1997” in par. (B).
 
@@ -62,7 +64,7 @@ Subsec. (a)(4). Pub. L. 104–164, §146, substituted “and, if the articles ar
 
 1994—Subsec. (a). Pub. L. 103–306 substituted “1995” for “1994” in par. (B).
 
-Pub. L. 103–236 struck out “and” at end of par. (2), added par. (3), redesignated former par. (3) as (4), and substituted “paragraph (4)” for “paragraph (3)” in two places in provisions following par. (4).
+Pub. L. 103–236 struck out “and” at end of par. (2), added par. (3), redesignated former par. (3) as (4), andsubstituted “paragraph (4)” for “paragraph (3)” in two places in provisions following par. (4).
 
 1993—Subsec. (a). Pub. L. 103–87 substituted “1994” for “1993” in par. (B).
 
@@ -92,9 +94,11 @@ Section 153(b) of Pub. L. 104–164 provided that: “The third sentence of sect
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1(q) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section delegated to Secretary of Defense by section 1(r) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2291c of this title.
+
+<i><sup>1</sup></i><i> So in original. The words “the fiscal year” probably should not appear.</i>
 

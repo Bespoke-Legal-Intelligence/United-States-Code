@@ -42,7 +42,7 @@ Subsec. (c)(3). Pub. L. 105–85, §2801(b)(2), added par. (3).
 
 1996—Subsec. (a)(1). Pub. L. 104–106, §2812, in second sentence, struck out “(1) that is for a single undertaking at a military installation, and (2)” after “is a military construction project”.
 
-Pub. L. 104–106, §2811(a)(1), inserted at end “However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, a minor military construction project may have an approved cost equal to or less than $3,000,000.”
+Pub. L. 104–106, §2811(a)(1), inserted at end “However, if the military construction project is intended solelyto correct a deficiency that is life-threatening, health-threatening, or safety-threatening, a minor military construction project may have an approved cost equal to or less than $3,000,000.”
 
 Subsec. (c)(1). Pub. L. 104–106, §2811(a)(2), substituted “not more than—” for “not more than $300,000.” and added subpars. (A) and (B).
 
@@ -76,7 +76,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Department of Defense Laboratory Revitalization Demonstration Program
 
-Section 2892 of Pub. L. 104–106 provided that:
+Section 2892 of Pub. L. 104–106, as amended by Pub. L. 105–261, div. B, title XXVIII, §2871, Oct. 17, 1998, 112 Stat. 2225, provided that:
 
 “(a)
 
@@ -94,19 +94,13 @@ Increased Maximum Amounts Applicable to Minor Construction Projects.—For purpo
 
 “(c)
 
-Program Requirements.—(1) Not later than 30 days before commencing the program, the Secretary shall—
+Program Requirements.—(1) Not later than 30 days before commencing the program, the Secretary shall establish procedures for the review and approval of requests from Department of Defense laboratories for construction under the program.
 
-&emsp;“(A) designate the Department of Defense laboratories at which construction may be carried out under the program; and
-
-&emsp;“(B) establish procedures for the review and approval of requests from such laboratories to carry out such construction.
-
-“(2) The laboratories designated under paragraph (1)(A) may not include Department of Defense laboratories that are contractor owned.
-
-“(3) The Secretary shall notify Congress of the laboratories designated under paragraph (1)(A).
+“(2) The laboratories at which construction may be carried out under the program may not include Department of Defense laboratories that are contractor-owned.
 
 “(d)
 
-Report.—Not later than February 1, 1998, the Secretary shall submit to Congress a report on the program. The report shall include the Secretary's conclusions and recommendations regarding the desirability of extending the authority set forth in subsection (b) to cover all Department of Defense laboratories.
+Report.—Not later than February 1, 2003, the Secretary shall submit to Congress a report on the program. The report shall include the Secretary's conclusions and recommendation regarding the desirability of making the authority set forth under subsection (b) permanent.
 
 “(e)
 
@@ -128,13 +122,13 @@ Definitions.—In this section:
 
 “(g)
 
-Expiration of Authority.—The Secretary may not commence a construction project under the program after September 30, 1998.”
+Expiration of Authority.—The Secretary may not commence a construction project under the program after September 30, 2003.”
 
 #### Initial Establishment of Certain Amounts Required To Be Specified by Law
 
-Maximum amount of $1,000,000 for unspecified minor military construction project under this section duringthe period beginning Oct. 1, 1982, and ending on the date of the enactment of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(1) of Pub. L. 97–214, set out as a note under section 2828 of this title.
+Maximum amount of $1,000,000 for unspecified minor military construction project under this section during the period beginning Oct. 1, 1982, and ending on the date of the enactment of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(1) of Pub. L. 97–214, set out as a note under section 2828 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2208, 2216a, 2806, 2853, 2861, 2867, 18233a of this title.
+This section is referred to in sections 2208, 2806, 2853, 2861, 2867, 18233a of this title.
 

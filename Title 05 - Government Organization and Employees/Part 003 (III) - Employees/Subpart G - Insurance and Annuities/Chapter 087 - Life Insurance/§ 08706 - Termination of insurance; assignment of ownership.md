@@ -30,11 +30,15 @@
 
 (d) If the insurance of an employee stops because of separation from the service or suspension without pay, and the separation or suspension is thereafter officially found to have been erroneous, the employee is deemed to have been insured during the period of erroneous separation or suspension. Deductions otherwise required by section 8707 of this chapter shall not be withheld from any backpay awarded for the period of separation or suspension unless death or accidental dismemberment of the employee occurs during such period.
 
-(e) Under regulations prescribed by the Office, each policy purchased under this chapter shall provide that an insured employee or former employee may make an irrevocable assignment of the employee's or former employee's incidents of ownership in the policy.
+(e)(1) Under regulations prescribed by the Office, each policy purchased under this chapter shall provide that an insured employee or former employee may make an irrevocable assignment of the employee's or former employee's incidents of ownership in the policy.
+
+(2) A court decree of divorce, annulment, or legal separation, or the terms of a court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation, may direct that an insured employee or former employee make an irrevocable assignment of the employee's or former employee's incidents of ownership in insurance under this chapter (if there is no previous assignment) to the person specified in the court order or court-approved property settlement agreement.
 
 (f) If the insurance of a former employee receiving a disability annuity under section 8337 of this title stops because of the termination of such annuity, and such annuity is thereafter restored under the second or third sentence of subsection (e) of such section, such former employee may, under regulations prescribed by the Office, elect to resume the insurance coverage which was so stopped.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–83, §1(92), Sept. 11, 1967, 81 Stat. 219; Pub. L. 92–529, Oct. 21, 1972, 86 Stat. 1050; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(a), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §3(a), Oct. 10, 1980, 94 Stat. 1832; Pub. L. 98–353, title II, §§206, 208, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–53, §3(b), June 17, 1985, 99 Stat. 95; Pub. L. 99–335, title II, §207(k)(2), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 102–378, §2(74), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–336, §4, Oct. 3, 1994, 108 Stat. 2662.)
+(g) The insurance of an employee under a policy purchased under section 8709 shall not be invalidated based on a finding that the employee erroneously became insured, or erroneously continued insurance upon retirement or entitlement to compensation under subchapter I of chapter 81 of this title, if such finding occurs after the erroneous insurance and applicable withholdings have been in force for 2 years during the employee's lifetime.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–83, §1(92), Sept. 11, 1967, 81 Stat. 219; Pub. L. 92–529, Oct. 21, 1972, 86 Stat. 1050; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(a), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §3(a), Oct. 10, 1980, 94 Stat. 1832; Pub. L. 98–353, title II, §§206, 208, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–53, §3(b), June 17, 1985, 99 Stat. 95; Pub. L. 99–335, title II, §207(k)(2), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 102–378, §2(74), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–336, §4, Oct. 3, 1994, 108 Stat. 2662; Pub. L. 105–205, §2, July 22, 1998, 112 Stat. 683; Pub. L. 105–311, §5, Oct. 30, 1998, 112 Stat. 2951.)
 
 Historical and Revision Notes<br>1966
 
@@ -70,7 +74,7 @@ Sept. 23, 1959, Pub. L. 86–377, §4(c), 73 Stat. 701.
 
 Aug. 1, 1956, ch. 837, §501(c)(1) (less applicability to §2(b)), 70 Stat. 882.
 
-In subsection (b), the words “armed forces” are coextensive with and substituted for “Army, Navy, AirForce, and Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101.
+In subsection (b), the words “armed forces” are coextensive with and substituted for “Army, Navy, Air Force, and Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101.
 
 In subsection (c), the word “only” is supplied for clarity and for consistency with subsection (b). The words “under conditions determined by the Commission, without cost to him” are coextensive with and substituted for “as provided in subsection (b) of this section”.
 
@@ -97,6 +101,10 @@ July 18, 1966, Pub. L. 89–504, §406(a), 80 Stat. 298.
 The words “subsections (a)–(c) of this section” are substituted for “the foregoing” to reflect the codification of former 5 U.S.C. 2095. The word “officer” is omitted as included in “employee.” The words “as defined by section 8701(a) of this title” are substituted for “as defined in section 2 of the Act” to reflect the codification of that section in 5 U.S.C. 8701(a). The words “Employees’ Life Insurance Fund” and “Fund” are substituted for “fund” and “fund established by section 5 of this Act”, respectively.
 
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–205 designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (g). Pub. L. 105–311 added subsec. (g).
 
 1994—Subsec. (e). Pub. L. 103–336 substituted “employee or former employee” for “Federal judge”, “employee's or former employee's” for “judge's”, and “purchased” for “purchase”.
 
@@ -152,6 +160,10 @@ Subsecs. (e), (f). Pub. L. 95–583, §1(a)(2), redesignated subsecs. (e) and (f
 
 1972—Subsec. (f). Pub. L. 92–529 added subsec. (f).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–311 effective in any case in which a finding of erroneous insurance coverage is made on or after Oct. 30, 1998, see section 11(c) of Pub. L. 105–311, set out as a note under section 8701 of this title.
+
 #### Effective Date of 1986 Amendments
 
 Section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, §7(2), provided that: “The amendments to chapter 87 of title 5, United States Code, made by section 206 of this Act \[which, as amended generally by Pub. L. 99–336, §7(1), amended this section and sections 8714a to 8714c of this title\] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982.”
@@ -202,5 +214,5 @@ Pub. L. 89–504, title IV, §406(c), July 18, 1966, 80 Stat. 298, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8701, 8705, 8707, 8708, 8714a, 8714b, 8714d of this title.
+This section is referred to in sections 8705, 8707, 8708, 8714a, 8714b, 8714d of this title.
 

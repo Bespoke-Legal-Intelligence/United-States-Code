@@ -12,7 +12,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 There shall be at the head of the Agency an official to be known as the Administrator for Health Care Policy and Research. The Administrator shall be appointed by the Secretary. The Secretary, acting through the Administrator, shall carry out the authorities and duties established in this subchapter.
 
-(July 1, 1944, ch. 373, title IX, §901, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(a), 103 Stat. 2189; amended Oct. 13, 1992, Pub. L. 102–410, §2(a), 106 Stat. 2094.)
+(July 1, 1944, ch. 373, title IX, §901, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2189; amended Pub. L. 102–410, §2(a), Oct. 13, 1992, 106 Stat. 2094.)
 
 #### Prior Provisions
 

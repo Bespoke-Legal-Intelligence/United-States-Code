@@ -6,5 +6,5 @@ Witnesses residing in the District of Columbia and not in the service of the gov
 
 #### House Rule on Pay of Witnesses
 
-Rule XXXV, Rules of the House of Representatives, provides that: “The rule for paying witnesses to appearbefore the House or any of its committees shall be as follows: For each day a witness shall attend, the same per diem rate as established, authorized, and regulated by the Committee on House Oversight for Members and employees of the House, and actual expenses of travel in coming to or going from the place of examination; but no per diem shall be paid when a witness has been summoned at the place of examination.”
+Rule XI, clause 5, Rules of the House of Representatives, provides that: “Witnesses appearing before the House or any of its committees shall be paid the same per diem rate as established, authorized, and regulated by the Committee on House Administration for Members, Delegates, the Resident Commissioner, and employees of the House, plus actual expenses of travel to or from the place of examination. Such per diem may not be paid when a witness has been summoned at the place of examination.”
 

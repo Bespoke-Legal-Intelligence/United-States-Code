@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 1997, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall be used: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
+There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 2002, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall be used: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
 
 #### (b) Apportionment of appropriated funds
 
@@ -12,7 +12,7 @@ Funds appropriated under subsection (a) of this section for any fiscal year shal
 
 &emsp;(2) Forty-eight per centum shall be distributed among the several States in the proportion that the value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in each State bears to the total value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in all the States. The Secretary shall determine the total value of and income from domestic livestock, poultry, and commercial aquaculture species in all the States and the proportionate value of and income from domestic livestock, poultry, and commercial aquaculture species for each State, based on the most current inventory of all cattle, sheep, swine, horses, poultry, and commercial aquaculture species published by the Department of Agriculture.
 
-&emsp;(3) Forty-eight per centum shall be distributed among the several States in the proportion that the animal health research capacity of the eligible institutions in each State bears to the total animal health research capacity in all the States. The Secretary shall determine the animal health research capacity of the eligible institutions with the advice, when available, of the Board.
+&emsp;(3) Forty-eight per centum shall be distributed among the several States in the proportion that the animal health research capacity of the eligible institutions in each State bears to the total animal health research capacity in all the States. The Secretary shall determine the animal health research capacity of the eligible institutions.
 
 #### (c) Development of program for each State
 
@@ -30,9 +30,13 @@ Whenever a new college of veterinary medicine is established in a State and is a
 
 Whenever two or more States jointly establish an accredited regional college of veterinary medicine or jointly support an accredited college of veterinary medicine serving the States involved, the Secretary is authorized to make funds which are available to such States pursuant to subsection (b)(2) of this section available for such college in such amount that reflects the combined relative value of and income from domestic livestock, poultry, and commercial aquaculture species in the cooperating States, such amount to be adjusted, as necessary, pursuant to the provisions of subsections (c) and (e) of this section.
 
-(Pub. L. 95–113, title XIV, §1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, §1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §811, Apr. 4, 1996, 110 Stat. 1165.)
+(Pub. L. 95–113, title XIV, §1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, §1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, §301(a)(7), title VI, §606(d)(2), June 23, 1998, 112 Stat. 562, 604.)
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–185, §301(a)(7), substituted “2002” for “1997” in first sentence.
+
+Subsec. (b)(3). Pub. L. 105–185, §606(d)(2), struck out “with the advice, when available, of the Board” before period at end of second sentence.
 
 1996—Subsec. (a). Pub. L. 104–127, §811(1), substituted “1997” for “1995” in first sentence.
 

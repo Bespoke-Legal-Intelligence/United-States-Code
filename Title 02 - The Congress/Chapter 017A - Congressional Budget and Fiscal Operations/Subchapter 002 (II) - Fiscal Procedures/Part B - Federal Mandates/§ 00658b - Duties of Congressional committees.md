@@ -20,7 +20,7 @@ Each report described under subsection (a) of this section shall contain—
 
 #### (d) Intergovernmental mandates
 
-If any of the Federal mandates in the bill or joint resolution are Federal intergovernmentalmandates, the report required under subsection (a) of this section shall also contain—
+If any of the Federal mandates in the bill or joint resolution are Federal intergovernmental mandates, the report required under subsection (a) of this section shall also contain—
 
 &emsp;(1)(A) a statement of the amount, if any, of increase or decrease in authorization of appropriations under existing Federal financial assistance programs, or of authorization of appropriations for new Federal financial assistance, provided by the bill or joint resolution and usable for activities of State, local, or tribal governments subject to the Federal intergovernmental mandates;
 

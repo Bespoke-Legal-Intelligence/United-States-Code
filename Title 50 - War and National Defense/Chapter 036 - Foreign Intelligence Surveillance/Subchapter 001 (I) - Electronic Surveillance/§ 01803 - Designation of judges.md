@@ -24,5 +24,5 @@ This chapter, referred to in subsecs. (a), (b), and (c), was in the original “
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1802, 1804, 1805, 1821, 1822, 1824 of this title; title 8 section 1532.
+This section is referred to in sections 1802, 1804, 1805, 1821, 1822, 1824, 1842, 1862 of this title; title 8 section 1532.
 

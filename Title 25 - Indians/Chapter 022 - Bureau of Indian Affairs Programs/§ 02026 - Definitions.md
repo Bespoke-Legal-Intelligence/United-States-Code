@@ -46,5 +46,5 @@ The Alaska Native Claims Settlement Act, referred to in par. (14), is Pub. L. 92
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2012 of this title.
+This section is referred to in section 2012 of this title; title 20 sections 2326, 6235.
 

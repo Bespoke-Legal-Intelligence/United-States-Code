@@ -58,7 +58,7 @@ A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–573, §602(c), inserted at end “Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service ofthe Director shall be 4 years. A Director may serve more than 1 term.”
+1992—Subsec. (a). Pub. L. 102–573, §602(c), inserted at end “Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.”
 
 Pub. L. 102–573, §602(a)(1), substituted “President, by and with the advice and consent of the Senate” for “Secretary” in second sentence.
 

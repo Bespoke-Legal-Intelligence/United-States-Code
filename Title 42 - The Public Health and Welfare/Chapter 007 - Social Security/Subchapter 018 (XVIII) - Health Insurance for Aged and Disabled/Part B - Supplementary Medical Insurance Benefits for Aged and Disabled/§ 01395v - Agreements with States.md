@@ -2,7 +2,7 @@
 
 #### (a) Duty of Secretary; enrollment of eligible individuals
 
-The Secretary shall, at the request of a State made before January 1, 1970, or during 1981 or after 1988, enter into an agreement with such State pursuant to which all eligible individualsin either of the coverage groups described in subsection (b) of this section (as specified in the agreement) will be enrolled under the program established by this part.
+The Secretary shall, at the request of a State made before January 1, 1970, or during 1981 or after 1988, enter into an agreement with such State pursuant to which all eligible individuals in either of the coverage groups described in subsection (b) of this section (as specified in the agreement) will be enrolled under the program established by this part.
 
 #### (b) Coverage of groups to which applicable
 
@@ -52,7 +52,7 @@ With respect to eligible individuals receiving money payments under the plan of 
 
 (1) The Secretary shall, at the request of a State made before January 1, 1970, or during 1981 or after 1988, enter into a modification of an agreement entered into with such State pursuant to subsection (a) of this section under which the second sentence of subsection (b) of this section shall not apply with respect to such agreement.
 
-(2) In the case of any individual who would (but for this subsection) be excluded from the applicable coverage group described in subsection (b) of this section by the second sentence of such subsection—
+(2) In the case of any individual who would (but for this subsection) be excluded from theapplicable coverage group described in subsection (b) of this section by the second sentence of such subsection—
 
 &emsp;(A) subsections (c) and (d)(2) of this section shall be applied as if such subsections referred to the modification under this subsection (in lieu of the agreement under subsection (a) of this section), and
 
@@ -70,7 +70,7 @@ With respect to eligible individuals receiving money payments under the plan of 
 
 For provisions relating to enrollment of qualified medicare beneficiaries under part A of this subchapter, see section 1395i–2(g) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1843, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 312; amended Apr. 8, 1966, Pub. L. 89–384, §4(a), (b), 80 Stat. 105; Jan. 2, 1968, Pub. L. 90–248, title II, §§222(a), (b), (e), 241(e), 81 Stat. 900, 901, 917; Dec. 31, 1973, Pub. L. 93–233, §18(<i>l</i>), 87 Stat. 970; Oct. 16, 1974, Pub. L. 93–445, title III, §308, 88 Stat. 1358; Dec. 5, 1980, Pub. L. 96–499, title IX, §§945(e), 947(a), (c), 94 Stat. 2642, 2643; Apr. 20, 1983, Pub. L. 98–21, title VI, §606(a)(3)(E), 97 Stat. 171; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(b)(15), 98 Stat. 1101; July 1, 1988, Pub. L. 100–360, title III, §301(e)(1), 102 Stat. 749; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(14)(H), 102 Stat. 2416; Dec. 19, 1989, Pub. L. 101–239, title VI, §6013(b), 103 Stat. 2164; Nov. 5, 1990, Pub. L. 101–508, title IV, §4501(d), 104 Stat. 1388–165.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1843, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 312; amended Pub. L. 89–384, §4(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title II, §§222(a), (b), (e), 241(e), Jan. 2, 1968, 81 Stat. 900, 901, 917; Pub. L. 93–233, §18(<i>l</i>), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–445, title III, §308, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §§945(e), 947(a), (c), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 98–21, title VI, §606(a)(3)(E), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(15), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title III, §301(e)(1), July 1, 1988, 102 Stat. 749; Pub. L. 100–485, title VI, §608(d)(14)(H), Oct. 13, 1988, 102 Stat. 2416; Pub. L. 101–239, title VI, §6013(b), Dec. 19, 1989, 103 Stat. 2164; Pub. L. 101–508, title IV, §4501(d), Nov. 5, 1990, 104 Stat. 1388–165.)
 
 #### References in Text
 

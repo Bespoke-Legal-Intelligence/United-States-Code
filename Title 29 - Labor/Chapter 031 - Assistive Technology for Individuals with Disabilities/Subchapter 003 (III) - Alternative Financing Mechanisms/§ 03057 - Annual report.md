@@ -1,0 +1,14 @@
+### §3057. Annual report
+
+Not later than December 31 of each year, the Secretary shall submit a report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate describing the progress of each alternative financing program funded under this subchapter toward achieving the objectives of this subchapter. The report shall include information on—
+
+&emsp;(1) the number of grant applications received and approved by the Secretary under this subchapter, and the amount of each grant awarded under this subchapter;
+
+&emsp;(2) the ratio of funds provided by each State for the alternative financing program of the State to funds provided by the Federal Government for the program;
+
+&emsp;(3) the type of alternative financing mechanisms used by each State and the community-based organization with which each State entered into a contract, under the program; and
+
+&emsp;(4) the amount of assistance given to consumers through the program (who shall be classified by age, type of disability, type of assistive technology device or assistive technology service financed through the program, geographic distribution within the State, gender, and whether the consumers are part of an underrepresented population or rural population).
+
+(Pub. L. 105–394, title III, §307, Nov. 13, 1998, 112 Stat. 3660.)
+

@@ -1,0 +1,22 @@
+### §130512. Liability for acts of officers and agents
+
+The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1379.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+130512
+
+36:1081.
+
+July 16, 1964, Pub. L. 88–378, §11, 78 Stat. 327.
+

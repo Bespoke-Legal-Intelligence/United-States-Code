@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) does not provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than temporary purposes with the intention of becoming a citizen of, or lawfully admitted for permanent residence in, the United States; and
 
-&emsp;&emsp;(C) is not lawfully admitted for permanent residence in American Samoa, Guam, Palau (but only until the Compact of Free Association with Palau takes effect), the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, or the Virgin Islands.
+&emsp;&emsp;(C) is not lawfully admitted for permanent residence in American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, or the Virgin Islands.
 
 &emsp;(2) The term “construction” includes construction and initial equipment of new buildings, and expansion, remodeling, and alteration of existing buildings and equipment therein, including architect's services, but excluding off-site improvements.
 
@@ -16,17 +16,13 @@ As used in this chapter—
 
 &emsp;(4) The term “Secretary” means the Secretary of Education.
 
-&emsp;(5) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).
+&emsp;(5) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 &emsp;(6) The term “NTID” means the National Technical Institute for the Deaf.
 
 &emsp;(7) The term “University” means Gallaudet University.
 
-(Pub. L. 99–371, title II, §201, formerly title IV, §401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, §201, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §204(a), Aug. 11, 1993, 107 Stat. 734.)
-
-#### References in Text
-
-For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in pars. (1)(C) and (5), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+(Pub. L. 99–371, title II, §201, formerly title IV, §401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, §201, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §204(a), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, §915, Oct. 7, 1998, 112 Stat. 1830.)
 
 #### Codification
 
@@ -39,6 +35,10 @@ A prior section 201 of Pub. L. 99–371 was renumbered section 111 and is classi
 Provisions similar to this section were contained in sections 682, 693a, and 695a of this title prior to repeal by Pub. L. 99–371.
 
 #### Amendments
+
+1998—Par. (1)(C). Pub. L. 105–244, §915(1), struck out “Palau (but only until the Compact of Free Association with Palau takes effect),” after “Guam,”.
+
+Par. (5). Pub. L. 105–244, §915(2), inserted “and” after “Virgin Islands,” and struck out “, and Palau (but only until the Compact of Free Association with Palau takes effect)” after “Mariana Islands”.
 
 1993—Pub. L. 103–73 substituted “and” for “or” at end of par. (1)(B), redesignated pars. (4) and (6) to (9) as (3) to (7), respectively, and struck out former pars. (3) and (5) which defined “elementary school” and “secondary school”, respectively.
 
@@ -57,6 +57,10 @@ Pars. (5), (6). Pub. L. 102–421, §131(2)(B), redesignated pars. (6) and (7) a
 Par. (7). Pub. L. 102–421, §131(2)(B), (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
 
 Pars. (8), (9). Pub. L. 102–421, §131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1992 Amendment
 

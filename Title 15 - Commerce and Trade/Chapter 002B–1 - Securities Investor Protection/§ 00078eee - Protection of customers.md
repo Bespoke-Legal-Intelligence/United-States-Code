@@ -32,7 +32,7 @@
 
 #### (1) Issuance of protective decree
 
-&emsp;Upon receipt of an application by SIPC under subsection (a)(3) of this section, thecourt shall forthwith issue a protective decree if the debtor consents thereto, if the debtor fails to contest such application, or if the court finds that such debtor—
+&emsp;Upon receipt of an application by SIPC under subsection (a)(3) of this section, the court shall forthwith issue a protective decree if the debtor consents thereto, if the debtor fails to contest such application, or if the court finds that such debtor—
 
 &emsp;&emsp;(A) is insolvent within the meaning of section 101 of title 11, or is unable to meet its obligations as they mature;
 
@@ -80,7 +80,7 @@
 
 #### (A) Allowances in general
 
-&emsp;&emsp;The court shall grant reasonable compensation for services rendered and reimbursement for proper costs and expenses incurred (hereinafter in this paragraph referred to as “allowances”) by a trustee, and by the attorney for such a trustee, in connection with a liquidation proceeding. No allowances (other than reimbursement forproper costs and expenses incurred) shall be granted to SIPC or any employee of SIPC for serving as trustee. Allowances may be granted on an interim basis during the course of the liquidation proceeding at such times and in such amounts as the court considers appropriate.
+&emsp;&emsp;The court shall grant reasonable compensation for services rendered and reimbursement for proper costs and expenses incurred (hereinafter in this paragraph referred to as “allowances”) by a trustee, and by the attorney for such a trustee, in connection with a liquidation proceeding. No allowances (other than reimbursement for proper costs and expenses incurred) shall be granted to SIPC or any employee of SIPC for serving as trustee. Allowances may be granted on an interim basis during the course of the liquidation proceeding at such times and in such amounts as the court considers appropriate.
 
 #### (B) Application for allowances
 

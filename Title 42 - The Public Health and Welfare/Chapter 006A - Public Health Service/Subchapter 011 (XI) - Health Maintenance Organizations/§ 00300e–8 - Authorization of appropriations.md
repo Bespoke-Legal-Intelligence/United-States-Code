@@ -4,7 +4,7 @@
 
 (b) To meet the obligations of the loan fund established under section 300e–7(e) of this title resulting from defaults on loans made from the fund and to meet the other obligations of the fund, there is authorized to be appropriated to the loan fund for fiscal years 1987, 1988, and 1989, such sums as may be necessary.
 
-(July 1, 1944, ch. 373, title XIII, §1309, as added Dec. 29, 1973, Pub. L. 93–222, §2, 87 Stat. 930;amended Oct. 8, 1976, Pub. L. 94–460, title I, §113(c), 90 Stat. 1954; Aug. 1, 1977, Pub. L. 95–83, title I, §105(b), 91 Stat. 384; Nov. 1, 1978, Pub. L. 95–559, §§2(c), 7(b), 92 Stat. 2131, 2135; Aug. 13, 1981, Pub. L. 97–35, title IX, §941(a), (b), 95 Stat. 572; Nov. 14, 1986, Pub. L. 99–660, title VIII, §§803(b)(3), 811, 100 Stat. 3800, 3801.)
+(July 1, 1944, ch. 373, title XIII, §1309, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 930; amended Pub. L. 94–460, title I, §113(c), Oct. 8, 1976, 90 Stat. 1954; Pub. L. 95–83, title I, §105(b), Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–559, §§2(c), 7(b), Nov. 1, 1978, 92 Stat. 2131, 2135; Pub. L. 97–35, title IX, §941(a), (b), Aug. 13, 1981, 95 Stat. 572; Pub. L. 99–660, title VIII, §§803(b)(3), 811, Nov. 14, 1986, 100 Stat. 3800, 3801.)
 
 #### Amendments
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A) technical assistance to States, landowners, and small-sized to medium-sized forest products firms on ways to improve domestic and foreign markets for forest products; and
 
-&emsp;&emsp;(B) grants of financial assistance with matching requirements to the States to assist in State and regional forest products marketing efforts targeted to aid small-sized to medium-sized forest products firms and private, nonindustrial forest landowners.
+&emsp;&emsp;(B) grants of financial assistance with matching requirements to the States to assist in State and regional forest products marketing efforts targeted to aid small-sizedto medium-sized forest products firms and private, nonindustrial forest landowners.
 
 #### (2) Interstate cooperative agreements
 

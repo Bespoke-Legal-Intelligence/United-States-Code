@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) in the case of an advertisement which offers a prize or award or a service or product at no cost or for a reduced cost, clearly and conspicuously disclose the odds of being able to receive such prize, award, service, or product at no cost or reduced cost, or, if such odds are not calculable in advance, disclose the factors determining such odds;
 
-&emsp;&emsp;(C) in the case of an advertisement that promotes a service that is not operated or expressly authorized by a Federal agency but that provides information on a Federal program, include at the beginning of such advertisement a clear disclosure that the service is not authorized, endorsed, or approved by any Federal agency;
+&emsp;&emsp;(C) in the case of an advertisement that promotes a service that is not operated orexpressly authorized by a Federal agency but that provides information on a Federal program, include at the beginning of such advertisement a clear disclosure that the service is not authorized, endorsed, or approved by any Federal agency;
 
 &emsp;&emsp;(D) shall not direct such advertisement at children under the age of 12, unless such service is a bona fide educational service;
 

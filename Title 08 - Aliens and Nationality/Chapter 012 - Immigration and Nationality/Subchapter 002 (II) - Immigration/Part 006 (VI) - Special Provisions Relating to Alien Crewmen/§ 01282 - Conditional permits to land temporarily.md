@@ -16,7 +16,7 @@ Pursuant to regulations prescribed by the Attorney General, any immigration offi
 
 Any alien crewman who willfully remains in the United States in excess of the number of days allowed in any conditional permit issued under subsection (a) of this section shall be fined under title 18 or imprisoned not more than 6 months, or both.
 
-(June 27, 1952, ch. 477, title II, ch. 6, §252, 66 Stat. 220; Nov. 29, 1990, Pub. L. 101–649, title V, §543(b)(1), 104 Stat. 5059; Dec. 12, 1991, Pub. L. 102–232, title III, §306(c)(3), 105 Stat. 1752; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(2)(E), (g)(5)(A)(i), 110 Stat. 3009–620, 3009–623.)
+(June 27, 1952, ch. 477, title II, ch. 6, §252, 66 Stat. 220; Pub. L. 101–649, title V, §543(b)(1), Nov. 29, 1990, 104 Stat. 5059; Pub. L. 102–232, title III, §306(c)(3), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title III, §308(e)(2)(E), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–620, 3009–623.)
 
 #### Amendments
 

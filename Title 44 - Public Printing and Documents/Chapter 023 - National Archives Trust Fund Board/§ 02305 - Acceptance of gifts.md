@@ -1,6 +1,6 @@
 ### §2305. Acceptance of gifts
 
-The Board may solicit and accept gifts or bequests of money, securities, or other personal property, for the benefit of or in connection with the national archival and records activities administered by the National Archives and Records Administration. Moneys that are for deposit into the trust fund shall be deposited within 10 working days of the receipt thereof.
+The Board may solicit and accept gifts or bequests of money, securities, or other personalproperty, for the benefit of or in connection with the national archival and records activities administered by the National Archives and Records Administration. Moneys that are for deposit into the trust fund shall be deposited within 10 working days of the receipt thereof.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1292; Pub. L. 98–497, title II, §202(a), Oct. 19, 1984, 98 Stat. 2293.)
 

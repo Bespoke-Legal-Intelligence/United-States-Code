@@ -6,7 +6,7 @@ Notwithstanding any provision of law identified in section 441c of this title, t
 
 #### Termination of Subchapter
 
-<i>Subchapter to cease to be effective Jan. 6, 1999, see section 441d of this title.</i>
+<i>Subchapter to cease to be effective Jan. 6, 2000, see section 441d of this title.</i>
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@
 
 #### (1) Required area loss
 
-&emsp;A producer of an eligible crop shall not receive noninsured crop disaster assistance unless the average yield for that crop, or an equivalent measure in the event yield data are not available, in an area falls below 65 percent of the expected area yield, as established by the Secretary.
+&emsp;A producer of an eligible crop shall not receive noninsured crop disaster assistance unless the average yield for that crop, or an equivalent measure in the event yield data are not available, in an area falls below 65 percentof the expected area yield, as established by the Secretary.
 
 #### (2) Prevented planting
 
@@ -116,7 +116,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (6) Yield variations due to different farming practices
 
-&emsp;The Secretary shall ensure that noninsured crop disaster assistance accurately reflects significant yield variations due to different farming practices, such as between irrigated and nonirrigated acreage.
+&emsp;The Secretary shall ensure that noninsured crop disaster assistance accurately reflectssignificant yield variations due to different farming practices, such as between irrigated and nonirrigated acreage.
 
 #### (f) Contract payments
 
@@ -160,7 +160,13 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (3) Limitation on multiple benefits for same loss
 
-&emsp;If a producer who is eligible to receive benefits under this section is also eligible to receive assistance for the same loss under any other program administered by the Secretary, the producer shall be required to elect whether to receive benefits under this section or under the other program, but not both.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), if a producer who is eligible to receive benefits under this section is also eligible to receive assistance for the same loss under any other program administered by the Secretary, the producer shall be required to elect whether to receive benefits under this section or under the other program, but not both.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to emergency loans under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.).
 
 #### (4) Income limitation
 
@@ -170,13 +176,19 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, title I, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38.)
 
 #### References in Text
+
+The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (i)(4), is section 2266(a) of Pub. L. 101–624, which was set out in a note under section 1421 of this title, prior to repeal by Pub. L. 103–354, title I, §119(c), Oct. 13, 1994, 108 Stat. 3208.
 
 #### Codification
 
 Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section 196 of Pub. L. 104–127 repealed section 1519 of this title.
+
+#### Amendments
+
+1998–Subsec. (i)(3). Pub. L. 105–277 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), if a producer” for “If a producer”, and added subpar. (B).
 

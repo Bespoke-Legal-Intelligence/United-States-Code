@@ -8,7 +8,7 @@ Whenever the Secretary of the Army considers that it can be done without injury 
 
 &emsp;(3) the driving of livestock across a military reservation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270; Dec. 12, 1980, Pub. L. 96–513, title V, §512(23), 94 Stat. 2930.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270; Pub. L. 96–513, title V, §512(23), Dec. 12, 1980, 94 Stat. 2930.)
 
 Historical and Revision Notes
 

@@ -30,7 +30,7 @@ For purposes of this subchapter—
 
 &emsp;The term “plan administrator” has the meaning given the term “administrator” by section 1002(16)(A) of title 29.
 
-(July 1, 1944, ch. 373, title XXII, §2208, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 236; amended Nov. 10, 1988, Pub. L. 100–647, title III, §3011(b)(7), 102 Stat. 3625; Dec. 19, 1989, Pub. L. 101–239, title VI, §6801(c)(1), 103 Stat. 2297; Aug. 21, 1996, Pub. L. 104–191, title I, §102(d), title III, §321(d)(3), title IV, §421(a)(3), 110 Stat. 1978, 2059, 2088.)
+(July 1, 1944, ch. 373, title XXII, §2208, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 236; amended Pub. L. 100–647, title III, §3011(b)(7), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VI, §6801(c)(1), Dec. 19, 1989, 103 Stat. 2297; Pub. L. 104–191, title I, §102(d), title III, §321(d)(3), title IV, §421(a)(3), Aug. 21, 1996, 110 Stat. 1978, 2059, 2088.)
 
 #### Amendments
 

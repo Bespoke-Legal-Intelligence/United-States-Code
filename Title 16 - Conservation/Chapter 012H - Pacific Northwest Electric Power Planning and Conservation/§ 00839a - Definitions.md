@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(i) to be reliable and available within the time it is needed, and
 
-&emsp;&emsp;(ii) to meet or reduce the electric power demand, as determined by the Council or the Administrator, as appropriate, of the Consumers of the customers at an estimated incremental system cost no greater than that of the least-cost similarly reliable and available alternative measure or resource, or any combination thereof.
+&emsp;&emsp;(ii) to meet or reduce the electric power demand, as determined by the Council or theAdministrator, as appropriate, of the Consumers of the customers at an estimated incremental system cost no greater than that of the least-cost similarly reliable and available alternative measure or resource, or any combination thereof.
 
 &emsp;(B) For purposes of this paragraph, the term “system cost” means an estimate of all direct costs of a measure or resource over its effective life, including, if applicable, the cost of distribution and transmission to the consumer and, among other factors, waste disposal costs, end-of-cycle costs, and fuel costs (including projected increases), and such quantifiable environmental costs and benefits as the Administrator determines, on the basis of a methodology developed by the Council as part of the plan, or in the absence of the plan by the Administrator, are directly attributable to such measure or resource.
 

@@ -22,7 +22,7 @@ For purposes of section 300x of this title, an application for a grant under suc
 
 In the case of any territory of the United States whose allotment under section 300x of this title for the fiscal year is the amount specified in section 300x–7(c)(2)(B) of this title, the Secretary may waive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–5 of this title.
 
-(July 1, 1944, ch. 373, title XIX, §1917, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 384.)
+(July 1, 1944, ch. 373, title XIX, §1917, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 384.)
 
 #### Prior Provisions
 

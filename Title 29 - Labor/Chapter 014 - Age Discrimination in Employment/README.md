@@ -17,6 +17,7 @@
 | (j) | Employment as firefighter or law enforcement officer. |
 | (k) | Seniority system or employee benefit plan; compliance. |
 | (<i>l</i>) | Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits. |
+| (m) | Voluntary retirement incentive plans. |
 | [624\.](%C2%A7%2000624%20-%20Study%20by%20Secretary%20of%20Labor%3B%20reports%20to%20President%20and%20Congress%3B%20scope%20of%20study%3B%20implementation%20of%20study%3B%20transmittal%20date%20of%20reports.md) | Study by Secretary of Labor; reports to President and Congress; scope of study; implementation of study; transmittal date of reports. |
 | [625\.](%C2%A7%2000625%20-%20Administration.md) | Administration. |
 | (a) | Delegation of functions; appointment of personnel; technical assistance. |

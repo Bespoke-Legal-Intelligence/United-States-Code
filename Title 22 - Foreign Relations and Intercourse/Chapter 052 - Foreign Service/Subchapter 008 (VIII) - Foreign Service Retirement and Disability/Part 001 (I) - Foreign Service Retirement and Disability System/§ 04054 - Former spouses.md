@@ -22,7 +22,7 @@
 
 (5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or section 4046(b)(3) of this title.
 
-(B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
+(B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated orreappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
 (6) Notwithstanding paragraph (3), in the case of any former spouse of a disability annuitant—
 
@@ -78,7 +78,7 @@
 
 (B) The present value of the total amount to accrue to the Fund under subparagraph (A) to provide any annuity under this subsection shall be actuarially equivalent in value to such annuity, as calculated upon such tables of mortality as may from time to time be prescribed for this purpose by the Secretary of State.
 
-(C) If a former spouse predeceases the participant or remarries before attaining age 60 (or, in the case of a spouse, the spouse does not qualify as a former spouse upon dissolution of the marriage)—
+(C) If a former spouse predeceases the participant or remarries before attaining age 60 (or, inthe case of a spouse, the spouse does not qualify as a former spouse upon dissolution of the marriage)—
 
 &emsp;(i) if an annuity reduction or salary allotment under subparagraph (A) is in effect for that spouse or former spouse, the annuity shall be recomputed and paid as if it had not been reduced or the salary allotment terminated, as the case may be, and
 
@@ -86,7 +86,7 @@
 
 (D) Under regulations prescribed by the Secretary of State, an annuity shall be recomputed (or salary allotment terminated or adjusted), and a refund provided (if appropriate), in a manner comparable to that provided under subparagraph (C), in order to reflect a termination or reduction of future benefits under this subsection for a spouse in the event a former spouse of the participant dies or remarries before attaining age 60 and an increased annuity is provided for that spouse in accordance with this part.
 
-(4) An annuity payable under this subsection to a spouse or former spouse shall commence onthe day after the participant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60.
+(4) An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60.
 
 (5) Section 4066 of this title shall not apply to any annuity under this subsection, unless authorized under regulations prescribed by the Secretary of State.
 

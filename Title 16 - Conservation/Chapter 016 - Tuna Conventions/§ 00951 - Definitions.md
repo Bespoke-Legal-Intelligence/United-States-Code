@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(a) “convention” includes (1) the Convention for the Establishment of an International Commission for the Scientific Investigation of Tuna, signed at Mexico City, January 25, 1949, by the United States of America and the United Mexican States, (2) the Convention for the Establishment of an Inter-American Tropical Tuna Commission, signed at Washington, May 31, 1949, by the United States of Americaand the Republic of Costa Rica, or both such conventions, as the context requires;
+&emsp;(a) “convention” includes (1) the Convention for the Establishment of an International Commission for the Scientific Investigation of Tuna, signed at Mexico City, January 25, 1949, by the United States of America and the United Mexican States, (2) the Convention for the Establishment of an Inter-American Tropical Tuna Commission, signed at Washington, May 31, 1949, by the United States of America and the Republic of Costa Rica, or both such conventions, as the context requires;
 
 &emsp;(b) “commission” includes (1) the International Commission for the Scientific Investigation of Tuna, (2) the Inter-American Tropical Tuna Commission provided for by the conventions referred to in subsection (a) of this section, or both such commissions, as the context requires;
 
@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(e) “United States” shall include all areas under the sovereignty of the United States, the Trust Territory of the Pacific Islands, and the Canal Zone.
 
-(Sept. 7, 1950, ch. 907, §2, 64 Stat. 777; Oct. 15, 1962, Pub. L. 87–814, §1, 76 Stat. 923.)
+(Sept. 7, 1950, ch. 907, §2, 64 Stat. 777; Pub. L. 87–814, §1, Oct. 15, 1962, 76 Stat. 923.)
 
 #### References in Text
 

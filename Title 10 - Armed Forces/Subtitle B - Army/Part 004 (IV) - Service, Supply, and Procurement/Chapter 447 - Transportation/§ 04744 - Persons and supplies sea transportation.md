@@ -20,7 +20,7 @@ Whenever the Secretary of the Army considers that space is available, the follow
 
 > However, a person described in clause (7) or (8) may be so transported only if the transportation is without expense to the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 266; July 12, 1960, Pub. L. 86–624, §4(d), 74 Stat. 411.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 266; Pub. L. 86–624, §4(d), July 12, 1960, 74 Stat. 411.)
 
 Historical and Revision Notes
 

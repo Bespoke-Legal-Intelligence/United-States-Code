@@ -8,3 +8,7 @@ Appropriations for committee employees shall be available in such amounts and un
 
 1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

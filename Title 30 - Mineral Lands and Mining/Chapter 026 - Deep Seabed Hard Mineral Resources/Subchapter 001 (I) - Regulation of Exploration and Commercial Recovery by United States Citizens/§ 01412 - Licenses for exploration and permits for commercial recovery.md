@@ -12,7 +12,7 @@ Subject to the provisions of this chapter, the Administrator shall issue to appl
 
 (3) A valid existing license shall entitle the holder, if otherwise eligible under the provisions of this chapter and regulations issued under this chapter, to a permit for commercial recovery. Such a permit recognizes the right of the holder to recover hard mineral resources, and to own, transport, use, and sell hard mineral resources recovered, under the permit and in accordance with the requirements of this chapter.
 
-(4) In the event of interference with the exploration or commercial recovery activities of a licensee or permittee by nationals of other states, the Secretary of State shall use all peaceful means to resolve the controversy by negotiation, conciliation, arbitration, or resort to agreed tribunals.
+(4) In the event of interference with the exploration or commercial recovery activities of a licensee or permittee by nationals of other states, the Secretary of State shall use all peacefulmeans to resolve the controversy by negotiation, conciliation, arbitration, or resort to agreed tribunals.
 
 #### (c) Restrictions
 

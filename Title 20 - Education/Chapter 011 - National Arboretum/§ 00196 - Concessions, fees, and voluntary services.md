@@ -14,21 +14,25 @@ Notwithstanding the Federal Property and Administrative Services Act of 1949 (40
 
 &emsp;(5) charge such fees as the Secretary of Agriculture considers reasonable for the use of the National Arboretum for commercial photography or cinematography;
 
-&emsp;(6) publish, in print and electronically and without regard to laws relating to printing by the Federal Government, informational brochures, books, and other publications concerning the National Arboretum or the collections of the Arboretum; and
+&emsp;(6) publish, in print and electronically and without regard to laws relating to printing bythe Federal Government, informational brochures, books, and other publications concerning the National Arboretum or the collections of the Arboretum; and
 
 &emsp;(7) license use of the National Arboretum name and logo for public service or commercial uses.
 
 #### (b) Use of funds
 
-Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) of this section shall be retained in a special fund in the Treasury for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
+Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) of this section shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
 
 #### (c) Acceptance of voluntary services
 
 The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1) of this section, and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 
-(Mar. 4, 1927, ch. 505, §6, as added Apr. 4, 1996, Pub. L. 104–127, title VIII, §890(b), 110 Stat. 1181.)
+(Mar. 4, 1927, ch. 505, §6, as added Pub. L. 104–127, title VIII, §890(b), Apr. 4, 1996, 110 Stat. 1181; amended Pub. L. 105–185, title VI, §601(b), June 23, 1998, 112 Stat. 585.)
 
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+
+#### Amendments
+
+1998—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
 

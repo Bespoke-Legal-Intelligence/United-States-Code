@@ -8,7 +8,7 @@ Whoever—
 
 > is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both. This section is applicable whether the statement or subscription is made within or without the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Oct. 3, 1964, Pub. L. 88–619, §1, 78 Stat. 995; Oct. 18, 1976, Pub. L. 94–550, §2, 90 Stat. 2534; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(I), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 88–619, §1, Oct. 3, 1964, 78 Stat. 995; Pub. L. 94–550, §2, Oct. 18, 1976, 90 Stat. 2534; Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

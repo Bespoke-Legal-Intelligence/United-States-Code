@@ -6,7 +6,7 @@ The Atomic Energy Commission is hereby abolished. Sections 2031 and 2032 of this
 
 #### (b) Transfer or lapse of functions of Atomic Energy Commission
 
-All other functions of the Commission, the Chairman and members of the Commission, and the officers and components of the Commission are hereby transferred or allowed to lapse pursuant to the provisions of this chapter.
+All other functions of the Commission, the Chairman and members of the Commission, andthe officers and components of the Commission are hereby transferred or allowed to lapse pursuant to the provisions of this chapter.
 
 #### (c) Functions of Atomic Energy Commission transferred to Administrator
 
@@ -22,7 +22,7 @@ There are hereby transferred to and vested in the Administrator such functions o
 
 &emsp;(1) as relate to or are utilized by the Office of Coal Research established pursuant to the Act of July 1, 1960 (74 Stat. 336; 30 U.S.C. 661–669);
 
-&emsp;(2) as relate to or are utilized in connection with fossil fuel energy research and development programs and related activities conducted by the United States Bureau of Mines“energy centers” and synthane plant to provide greater efficiency in the extraction, processing, and utilization of energy resources for the purpose of conserving those resources, developing alternative energy resources, such as oil and gas secondary and tertiary recovery, oil shale and synthetic fuels, improving methods of managing energy-related wastes and pollutants, and providing technical guidance needed to establish and administer national energy policies; and
+&emsp;(2) as relate to or are utilized in connection with fossil fuel energy research and development programs and related activities conducted by the United States Bureau of Mines “energy centers” and synthane plant to provide greater efficiency in the extraction, processing, and utilization of energy resources for the purpose of conserving those resources, developing alternative energy resources, such as oil and gas secondary and tertiary recovery, oil shale and synthetic fuels, improving methods of managing energy-related wastes and pollutants, and providing technical guidance needed to establish and administer national energy policies; and
 
 &emsp;(3) as relate to or are utilized for underground electric power transmission research.
 
@@ -204,7 +204,7 @@ Section 57 \[42 U.S.C. 2077\] (“Prohibition”).
 
 Section 61 \[42 U.S.C. 2091\] (“Source Material”); provided, that the respective determinations shall be made as indicated in Chapter 2 above).
 
-Subsection 63a. (source material) \[42 U.S.C. 2093(a)\]; provided, that the authority to distribute shall applyonly to ERDA and the authority to license shall apply only to NSLC.
+Subsection 63a. (source material) \[42 U.S.C. 2093(a)\]; provided, that the authority to distribute shall apply only to ERDA and the authority to license shall apply only to NSLC.
 
 Section 65 \[42 U.S.C. 2095\] (“Reporting”).
 
@@ -292,7 +292,7 @@ Section 281 \[42 U.S.C. 2011 note\] (“Separability”) and Section 291 \[42 U.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee establishedby the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

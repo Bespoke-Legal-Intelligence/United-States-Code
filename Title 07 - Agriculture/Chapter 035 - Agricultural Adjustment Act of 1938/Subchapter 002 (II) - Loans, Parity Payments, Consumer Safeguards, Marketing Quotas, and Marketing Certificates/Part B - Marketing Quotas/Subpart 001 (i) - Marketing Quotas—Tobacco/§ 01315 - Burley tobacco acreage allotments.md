@@ -18,7 +18,7 @@ Act Mar. 31, 1955, provided that the amendment made by that act is effective for
 
 #### Acreage Allotment Basis of Quota; Amendment of Clause (1) and Proviso
 
-Part of section 317(h) of act Feb. 16, 1938, ch. 30, title III, as added by Pub. L. 89–12, §1, Apr. 16, 1965, 79 Stat.72, and classified as part of section 1314c(h) of this title, provided that: “Whenever the Secretary proclaims a quota on an acreage allotment basis (in lieu of on an acreage poundage basis)—
+Part of section 317(h) of act Feb. 16, 1938, ch. 30, title III, as added by Pub. L. 89–12, §1, Apr. 16, 1965, 79 Stat. 72, and classified as part of section 1314c(h) of this title, provided that: “Whenever the Secretary proclaims a quota on an acreage allotment basis (in lieu of on an acreage poundage basis)—
 
 &emsp;“(A) the minimum acreage allotment for Burley tobacco for any farm shall be determined under the provisions of the Act of July 12, 1952, as amended (7 U.S.C. 1315) instead of under the preceding provisions of this subsection \[section 1314c(h) of this title\];
 

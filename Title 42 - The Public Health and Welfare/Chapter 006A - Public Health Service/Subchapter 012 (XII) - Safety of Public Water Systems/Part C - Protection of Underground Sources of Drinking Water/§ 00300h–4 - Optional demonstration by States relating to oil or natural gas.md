@@ -12,7 +12,7 @@ For purposes of the Administrator's approval or disapproval under section 300h�
 
 #### (b) Revision or amendment of requirements of regulation; showing of effectiveness of program by State
 
-If the Administrator revises or amends any requirement of a regulation under section 300h of this title relating to any aspect of the underground injection referred to in subsection (a) of this section, in the case of that portion of a State underground injection control program for which the demonstration referred to in subsection (a) of this section has been made, in lieu of the showing required under section 300h–1(b)(1)(B) of this title the State may demonstrate that, with respect to that aspect ofsuch underground injection, the State program meets the requirements of subparagraphs (A) through (D) of section 300h(b)(1) of this title and represents an effective program (including adequate recordkeeping and reporting) to prevent underground injection which endangers drinking water sources.
+If the Administrator revises or amends any requirement of a regulation under section 300h of this title relating to any aspect of the underground injection referred to in subsection (a) of this section, in the case of that portion of a State underground injection control program for which the demonstration referred to in subsection (a) of this section has been made, in lieu of the showing required under section 300h–1(b)(1)(B) of this title the State may demonstrate that, with respect to that aspect of such underground injection, the State program meets the requirements of subparagraphs (A) through (D) of section 300h(b)(1) of this title and represents an effective program (including adequate recordkeeping and reporting) to prevent underground injection which endangers drinking water sources.
 
 #### (c) Primary enforcement responsibility of State; voiding by Administrator under duly promulgated rule
 
@@ -22,7 +22,7 @@ If the Administrator revises or amends any requirement of a regulation under sec
 
 (3) Before promulgating any rule under paragraph (2), the Administrator shall provide opportunity for public hearing respecting such rule.
 
-(July 1, 1944, ch. 373, title XIV, §1425, as added Dec. 5, 1980, Pub. L. 96–502, §2(a), 94 Stat. 2737; amended June 19, 1986, Pub. L. 99–339, title II, §201(a), 100 Stat. 653.)
+(July 1, 1944, ch. 373, title XIV, §1425, as added Pub. L. 96–502, §2(a), Dec. 5, 1980, 94 Stat. 2737; amended Pub. L. 99–339, title II, §201(a), June 19, 1986, 100 Stat. 653.)
 
 #### Amendments
 

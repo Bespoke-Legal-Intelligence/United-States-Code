@@ -24,7 +24,7 @@ The reports required under subsection (a) of this section shall contain—
 
 &emsp;(4) an analysis of public and private patterns of ownership of wetlands;
 
-&emsp;(5) an analysis of the environmental and economic impact of eliminating or restricting future Federal expenditures and financial assistance, whether direct or indirect, which have the effect of encouraging the destruction, degradation, protection or enhancement of wetlands, including—
+&emsp;(5) an analysis of the environmental and economic impact of eliminating or restricting future Federal expenditures and financial assistance, whether direct or indirect, which havethe effect of encouraging the destruction, degradation, protection or enhancement of wetlands, including—
 
 &emsp;&emsp;(A) public works expenditures;
 

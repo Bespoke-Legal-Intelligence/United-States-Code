@@ -1,0 +1,88 @@
+### §295. General provisions
+
+#### (a) In general
+
+The Secretary may award grants or contracts to eligible entities to increase the number of individuals in the public health workforce, to enhance the quality of such workforce, and to enhance the ability of the workforce to meet national, State, and local health care needs.
+
+#### (b) Eligibility
+
+To be eligible to receive a grant or contract under subsection (a) of this section an entity shall—
+
+&emsp;(1) be—
+
+&emsp;&emsp;(A) a health professions school, including an accredited school or program of public health, health administration, preventive medicine, or dental public health or a school providing health management programs;
+
+&emsp;&emsp;(B) an academic health center;
+
+&emsp;&emsp;(C) a State or local government; or
+
+&emsp;&emsp;(D) any other appropriate public or private nonprofit entity; and
+
+&emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (c) Preference
+
+In awarding grants or contracts under this section the Secretary may grant a preference to entities—
+
+&emsp;(1) serving individuals who are from disadvantaged backgrounds (including underrepresented racial and ethnic minorities); and
+
+&emsp;(2) graduating large proportions of individuals who serve in underserved communities.
+
+#### (d) Activities
+
+Amounts provided under a grant or contract awarded under this section may be used for—
+
+&emsp;(1) the costs of planning, developing, or operating demonstration training programs;
+
+&emsp;(2) faculty development;
+
+&emsp;(3) trainee support;
+
+&emsp;(4) technical assistance;
+
+&emsp;(5) to meet the costs of projects—
+
+&emsp;&emsp;(A) to plan and develop new residency training programs and to maintain or improve existing residency training programs in preventive medicine and dental public health, that have available full-time faculty members with training and experience in the fields of preventive medicine and dental public health; and
+
+&emsp;&emsp;(B) to provide financial assistance to residency trainees enrolled in such programs;
+
+&emsp;(6) the retraining of existing public health workers as well as for increasing the supply of new practitioners to address priority public health, preventive medicine, public health dentistry, and health administration needs;
+
+&emsp;(7) preparing public health professionals for employment at the State and community levels; or
+
+&emsp;(8) other activities that may produce outcomes that are consistent with the purposes of this section.
+
+#### (e) Traineeships
+
+#### (1) In general
+
+&emsp;With respect to amounts used under this section for the training of health professionals, such training programs shall be designed to—
+
+&emsp;&emsp;(A) make public health education more accessible to the public and private health workforce;
+
+&emsp;&emsp;(B) increase the relevance of public health academic preparation to public health practice in the future;
+
+&emsp;&emsp;(C) provide education or training for students from traditional on-campus programs in practice-based sites; or
+
+&emsp;&emsp;(D) develop educational methods and distance-based approaches or technology that address adult learning requirements and increase knowledge and skills related to community-based cultural diversity in public health education.
+
+#### (2) Severe shortage disciplines
+
+&emsp;Amounts provided under grants or contracts under this section may be used for the operation of programs designed to award traineeships to students in accredited schools of public health who enter educational programs in fields where there is a severe shortage of public health professionals, including epidemiology, biostatistics, environmental health, toxicology, public health nursing, nutrition, preventive medicine, maternal and child health, and behavioral and mental health professions.
+
+(July 1, 1944, ch. 373, title VII, §765, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3553.)
+
+#### Prior Provisions
+
+A prior section 295, act July 1, 1944, ch. 373, title VII, §781, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2055; amended Pub. L. 105–12, §12(b), Apr. 30, 1997, 111 Stat. 29, authorized grants and contracts for research on certain health professions issues, prior to repeal by Pub. L. 105–392, title I, §106(a)(1), Nov. 13, 1998, 112 Stat. 3557.
+
+Another prior section 295, act July 1, 1944, ch. 373, title VII, §761, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–1; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, provided Congressional declaration of purpose for former part D of this subchapter, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
+
+Another prior section 295, act July 1, 1944, ch. 373, title VII, §761, as added Oct. 31, 1963, Pub. L. 88–164, title I, §101, 77 Stat. 282, related to authorization of appropriations respecting grants for construction of mental retardation facilities, prior to the general amendment of former part D of this subchapter by section 101 of Pub. L. 91–696.
+
+A prior section 765 of act July 1, 1944, was classified to section 294c of this title prior to the general amendment of part D of this subchapter by Pub. L. 105–392.
+
+Another prior section 765 of act July 1, 1944, was classified to section 295d of this title prior to repeal by Pub. L. 99–129.
+
+Another prior section 765 of act July 1, 1944, was classified to section 295d of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
+

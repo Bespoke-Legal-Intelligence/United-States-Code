@@ -14,9 +14,9 @@ It shall be unlawful for any packer with respect to livestock, meats, meat food 
 
 (f) Conspire, combine, agree, or arrange with any other person (1) to apportion territory for carrying on business, or (2) to apportion purchases or sales of any article, or (3) to manipulate or control prices; or
 
-(g) Conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by subdivisions (a), (b), (c), (d), or (e) of this section.
+(g) Conspire, combine, agree, or arrange with any other person to do, or aid or abet the doingof, any act made unlawful by subdivisions (a), (b), (c), (d), or (e) of this section.
 
-(Aug. 15, 1921, ch. 64, title II, §202, 42 Stat. 161; Aug. 15, 1921, ch. 64, title V, §503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; Sept. 2, 1958, Pub. L. 85–909, §1(1), 72 Stat. 1749; Sept. 13, 1976, Pub. L. 94–410, §3(a), 90 Stat. 1249; Nov. 23, 1987, Pub. L. 100–173, §3, 101 Stat. 917; Dec. 13, 1991, Pub. L. 102–237, title X, §1008(1), 105 Stat. 1898.)
+(Aug. 15, 1921, ch. 64, title II, §202, 42 Stat. 161; Aug. 15, 1921, ch. 64, title V, §503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; Pub. L. 85–909, §1(1), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 94–410, §3(a), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §3, Nov. 23, 1987, 101 Stat. 917; Pub. L. 102–237, title X, §1008(1), Dec. 13, 1991, 105 Stat. 1898.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@
 
 (c) No law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States applies to members of the Committee solely by reason of their membership on the Committee.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5153; Oct. 14, 1981, Pub. L. 97–60, title II, §205, 95 Stat. 1007; renumbered §5024 and amended Oct. 1, 1986, Pub. L. 99–433, title V, §§511(d), 514(d)(2), 100 Stat. 1048, 1055.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5153; Pub. L. 97–60, title II, §205, Oct. 14, 1981, 95 Stat. 1007; renumbered §5024 and amended Pub. L. 99–433, title V, §§511(d), 514(d)(2), Oct. 1, 1986, 100 Stat. 1048, 1055.)
 
 Historical and Revision Notes
 

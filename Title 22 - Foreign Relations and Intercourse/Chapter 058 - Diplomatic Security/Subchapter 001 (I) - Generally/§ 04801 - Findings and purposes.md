@@ -16,7 +16,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to set forth the responsibility of the Secretary of State with respect to the security of diplomatic operations in the United States and abroad;
 
-&emsp;(2) to maximize coordination by the Department of State with Federal, State, and local agencies and agencies of foreign governments in order to enhance security programs;
+&emsp;(2) to maximize coordination by the Department of State with Federal, State, and localagencies and agencies of foreign governments in order to enhance security programs;
 
 &emsp;(3) to promote strengthened security measures and to provide for the accountability of United States Government personnel with security-related responsibilities;
 

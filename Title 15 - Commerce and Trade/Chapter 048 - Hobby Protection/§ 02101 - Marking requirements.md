@@ -10,7 +10,7 @@ The manufacture in the United States, or the importation into the United States,
 
 #### (c) Rules and regulations
 
-The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) of this section shall be permanently marked.
+The Federal Trade Commission shall prescribe rules for determining the manner and form inwhich items described in subsection (a) or (b) of this section shall be permanently marked.
 
 #### (d) Exemption
 

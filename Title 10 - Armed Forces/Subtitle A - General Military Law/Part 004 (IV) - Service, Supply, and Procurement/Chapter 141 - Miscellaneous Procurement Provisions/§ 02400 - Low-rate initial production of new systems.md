@@ -28,7 +28,7 @@ Low-Rate Initial Production of Weapon Systems.—Except as provided in subsectio
 
 (c)
 
-Low-Rate Initial Production of Naval Vessel and Satellite Programs.—With respectto naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
+Low-Rate Initial Production of Naval Vessel and Satellite Programs.—With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
 
 (Added Pub. L. 101–189, div. A, title VIII, §803(a), Nov. 29, 1989, 103 Stat. 1487; amended Pub. L. 103–355, title III, §3015, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title X, §1062(d), div. D, title XLIII, §4321(b)(13), Feb. 10, 1996, 110 Stat. 444, 673.)
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 104–106, §1062(d), struck out “(1)” before “With r
 
 Subsec. (a)(4). Pub. L. 103–355, §3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (a)(5). Pub. L. 103–355, §3015(2), redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
+Subsec. (a)(5). Pub. L. 103–355, §3015(2), redesignated par. (4) as (5) and inserted after first sentence “If thequantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
 
 #### Effective Date of 1996 Amendment
 

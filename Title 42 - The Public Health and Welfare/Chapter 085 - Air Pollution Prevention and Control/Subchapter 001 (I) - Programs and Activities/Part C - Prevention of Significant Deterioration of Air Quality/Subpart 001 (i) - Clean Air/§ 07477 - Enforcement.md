@@ -2,7 +2,7 @@
 
 The Administrator shall, and a State may, take such measures, including issuance of an order, or seeking injunctive relief, as necessary to prevent the construction or modification of a major emitting facility which does not conform to the requirements of this part, or which is proposed to be constructed in any area designated pursuant to section 7407(d) of this title as attainment or unclassifiable and which is not subject to an implementation plan which meets the requirements of this part.
 
-(July 14, 1955, ch. 360, title I, §167, as added Aug. 7, 1977, Pub. L. 95–95, title I, §127(a), 91 Stat. 740, and amended Nov. 15, 1990, Pub. L. 101–549, title I, §110(3), title VII, §708, 104 Stat. 2470, 2684.)
+(July 14, 1955, ch. 360, title I, §167, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 740; amended Pub. L. 101–549, title I, §110(3), title VII, §708, Nov. 15, 1990, 104 Stat. 2470, 2684.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ No expenditures or contribution may be made for a facility under section 18233 o
 
 &emsp;(2) the plan under which the facility is to be provided makes provision for the greatest practicable use of the facility jointly by units of two or more of those components.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2234; renumbered §18234 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (6), 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2234; renumbered §18234 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (6), Oct. 5, 1994, 108 Stat. 3010.)
 
 Historical and Revision Notes
 

@@ -43,7 +43,7 @@ Pub. L. 96–343, §11(b), Sept. 8, 1980, 94 Stat. 1130, substituted “Chaplain
 
 1967—Pub. L. 90–179, §2(3), Dec. 8, 1967, 81 Stat. 547, inserted reference to Judge Advocate General's Corps in item 5148 and inserted reference to Deputy Judge Advocate General and substituted “Advocates General” for “Advocate General; succession to duties” after “Assistant Judge” in item 5149.
 
-1966—Pub. L. 89–718, §§35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items 5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Headsthereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
+1966—Pub. L. 89–718, §§35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items 5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Heads thereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
 
 1959—Pub. L. 86–174, §§1(3), 2(4), Aug. 18, 1959, 73 Stat. 395, 396, added item 5154 and eliminated items 5136 and 5144.
 

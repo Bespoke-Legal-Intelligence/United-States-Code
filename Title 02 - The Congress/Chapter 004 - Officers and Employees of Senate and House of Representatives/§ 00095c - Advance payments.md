@@ -18,3 +18,7 @@ The authority granted by subsection (a) of this section shall not take effect un
 
 Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

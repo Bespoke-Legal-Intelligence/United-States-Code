@@ -76,6 +76,10 @@ Subsec. (d)(2). Pub. L. 104–186, §221(5)(C), substituted “With respect” f
 
 Salaries and Expenses’, not more than $45,000 may be expended to carry out this section, subject to approval of the Committee on Appropriations of the House of Representatives. Any amount under this paragraph shall be in addition to any amount made available under paragraph (1).”
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Effective Date of 1992 Amendment
 
 Section 319(b) of Pub. L. 102–392 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1992.”

@@ -18,7 +18,7 @@ Except as provided in subsection (c) of this section, any one or more contributi
 
 &emsp;(2) the denominator of which is the total amount required to be contributed to the plan by all contributing sponsors for such last 5 years.
 
-> In addition to and in lieu of the manner prescribed in the preceding sentence, the corporation may also determine such liability on any other equitable basis prescribed by the corporation in regulations. Any amount collected by the corporation under this subsection shall beheld in escrow subject to disposition in accordance with the provisions of paragraphs (2) and (3) of subsection (c) of this section.
+> In addition to and in lieu of the manner prescribed in the preceding sentence, the corporation may also determine such liability on any other equitable basis prescribed by the corporation in regulations. Any amount collected by the corporation under this subsection shall be held in escrow subject to disposition in accordance with the provisions of paragraphs (2) and (3) of subsection (c) of this section.
 
 #### (c) Bond in lieu of payment of liability; 5-year termination period
 

@@ -1,0 +1,36 @@
+### §2391. Fiscal requirements
+
+#### (a) Supplement not supplant
+
+Funds made available under this chapter for vocational and technical education activities shall supplement, and shall not supplant, non-Federal funds expended to carry out vocational and technical education activities and tech-prep activities.
+
+#### (b) Maintenance of effort
+
+#### (1) Determination
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), no payments shall be made under this chapter for any fiscal year to a State for vocational and technical education programs or tech-prep programs unless the Secretary determines that the fiscal effort per student or the aggregate expenditures of such State for vocational and technical education programs for the fiscal year preceding the fiscal year for which the determination is made, equaled or exceeded such effort or expenditures for vocational and technical education programs, for the second fiscal year preceding the fiscal year for which the determination is made.
+
+#### (B) Computation
+
+&emsp;&emsp;In computing the fiscal effort or aggregate expenditures pursuant to subparagraph (A),the Secretary shall exclude capital expenditures, special one-time project costs, and the cost of pilot programs.
+
+#### (C) Decrease in Federal support
+
+&emsp;&emsp;If the amount made available for vocational and technical education programs under this chapter for a fiscal year is less than the amount made available for vocational and technical education programs under this chapter for the preceding fiscal year, then the fiscal effort per student or the aggregate expenditures of a State required by subparagraph (B) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
+
+#### (2) Waiver
+
+&emsp;The Secretary may waive the requirements of this section, with respect to not more than 5 percent of expenditures by any eligible agency for 1 fiscal year only, on making a determination that such waiver would be equitable due to exceptional or uncontrollable circumstances affecting the ability of the eligible agency to meet such requirements, such as a natural disaster or an unforeseen and precipitous decline in financial resources. No level of funding permitted under such a waiver may be used as the basis for computing the fiscal effort or aggregate expenditures required under this section for years subsequent to the year covered by such waiver. The fiscal effort or aggregate expenditures for the subsequent years shall be computed on the basis of the level of funding that would, but for such waiver, have been required.
+
+(Pub. L. 88–210, title III, §311, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3121.)
+
+#### Prior Provisions
+
+Provisions similar to this section were contained in section 2463 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+A prior section 2391, Pub. L. 88–210, title III, §331, formerly §341, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2463; renumbered §331 and amended Pub. L. 101–392, title III, §307(a)(2), (c), Sept. 25, 1990, 104 Stat. 787, stated findings of Congress, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+A prior section 311 of Pub. L. 88–210 was classified to section 2361 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
+

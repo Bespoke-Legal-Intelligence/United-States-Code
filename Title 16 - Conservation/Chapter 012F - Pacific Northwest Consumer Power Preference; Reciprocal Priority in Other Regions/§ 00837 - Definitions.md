@@ -6,7 +6,7 @@ As used in this chapter—
 
 (b) “Pacific Northwest” means (1) the region consisting of the States of Oregon and Washington, the State of Montana west of the Continental Divide, and such portions of the States of Nevada, Utah, and Wyoming within the Columbia drainage basin and of the State of Idaho as the Secretary may determine to be within the marketing area of the Federal Columbia River power system, and (2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region.
 
-(c) “Surplus energy” means electric energy generated at Federal hydroelectric plants in thePacific Northwest which would otherwise be wasted because of the lack of a market therefor in the Pacific Northwest at any established rate.
+(c) “Surplus energy” means electric energy generated at Federal hydroelectric plants in the Pacific Northwest which would otherwise be wasted because of the lack of a market therefor in the Pacific Northwest at any established rate.
 
 (d) “Surplus peaking capacity” means electric peaking capacity at Federal hydroelectric plants in the Pacific Northwest for which there is no demand in the Pacific Northwest at any established rate.
 

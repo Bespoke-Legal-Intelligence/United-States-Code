@@ -1,6 +1,6 @@
 ### §81. Contracts with Indian tribes or Indians
 
-No agreement shall be made by any person with any tribe of Indians, or individual Indians not citizens of the United States, for the payment or delivery of any money or other thing of value, in present or in prospective, or for the granting or procuring any privilege to him, or any other person in consideration of services for said Indians relative to their lands, or to any claims growing out of, or in reference to, annuities, installments, or other moneys, claims, demands, or thing, under laws or treaties with the United States, or official acts of any officers thereof, or in any way connected with or due from the United States, unless such contract or agreement be executed and approved as follows:
+No agreement shall be made by any person with any tribe of Indians, or individual Indians not citizens of the United States, for the payment or delivery of any money or other thing of value, in present or in prospective, or for the granting or procuring any privilege to him, or any other person in consideration of services for said Indians relative to their lands, or to any claims growing out of, or in reference to, annuities, installments, or other moneys, claims, demands, or thing, under laws or treaties with theUnited States, or official acts of any officers thereof, or in any way connected with or due from the United States, unless such contract or agreement be executed and approved as follows:
 
 First. Such agreement shall be in writing, and a duplicate of it delivered to each party.
 

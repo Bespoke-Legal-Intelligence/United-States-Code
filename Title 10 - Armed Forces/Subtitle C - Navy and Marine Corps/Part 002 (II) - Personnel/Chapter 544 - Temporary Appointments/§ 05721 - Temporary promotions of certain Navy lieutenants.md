@@ -96,7 +96,7 @@ Section 512(b) of Pub. L. 101–189 provided that:
 
 “(1) The Secretary of the Navy shall provide, in the case of an officer appointed to the grade of lieutenant commander on or after the date of the enactment of this Act \[Nov. 29, 1989\] under an appointment described in paragraph (2), that the date of rank of such officer under that appointment shall be the date of rank that would have applied to the appointment had the authority referred to in that paragraph not lapsed.
 
-“(2) An appointment referred to in paragraph (1) is an appointment under 5721 of title 10, United States Code,that (as determined by the Secretary of the Navy) would have been made during the period beginning on October 1, 1989, and ending on the date of the enactment of this Act had the authority to make appointments under that section not lapsed during such period.”
+“(2) An appointment referred to in paragraph (1) is an appointment under 5721 of title 10, United States Code, that (as determined by the Secretary of the Navy) would have been made during the period beginning on October 1, 1989, and ending on the date of the enactment of this Act had the authority to make appointments under that section not lapsed during such period.”
 
 Similar provisions were contained in the following prior authorization act:
 

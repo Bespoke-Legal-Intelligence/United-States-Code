@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-The Secretary shall prepare a plan for and carry out a program of research, development, demonstration, and commercial application with respect to technologies for the nonfuel use of coal, including—
+The Secretary shall prepare a plan for and carry out a program of research, development,demonstration, and commercial application with respect to technologies for the nonfuel use of coal, including—
 
 &emsp;(1) production of coke and other carbon products derived from coal;
 

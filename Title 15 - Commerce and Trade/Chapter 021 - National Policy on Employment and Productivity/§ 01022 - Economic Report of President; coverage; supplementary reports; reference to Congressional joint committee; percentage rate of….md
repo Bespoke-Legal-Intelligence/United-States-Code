@@ -30,7 +30,7 @@ For the purposes of the Full Employment and Balanced Growth Act of 1978 \[15 U.S
 
 For the purpose of the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\], the terms “inflation”, “prices”, and “reasonable price stability” refer to the rate of change or level of the consumer price index as set forth by the Bureau of Labor Statistics, United States Department of Labor.
 
-(Feb. 20, 1946, ch. 33, §3, 60 Stat. 24; Aug. 2, 1946, ch. 753, title II, §226, 60 Stat. 838; June 18, 1956, ch. 399, §1, 70 Stat. 289; Oct. 27, 1978, Pub. L. 95–523, title I, §103, 92 Stat. 1892; May 10, 1979, Pub. L. 96–10, §6(d), 93 Stat. 24; Nov. 5, 1990, Pub. L. 101–508, title XIII, §13112(e), 104 Stat. 1388–609.)
+(Feb. 20, 1946, ch. 33, §3, 60 Stat. 24; Aug. 2, 1946, ch. 753, title II, §226, 60 Stat. 838; June 18, 1956, ch. 399, §1, 70 Stat. 289; Pub. L. 95–523, title I, §103, Oct. 27, 1978, 92 Stat. 1892; Pub. L. 96–10, §6(d), May 10, 1979, 93 Stat. 24; Pub. L. 101–508, title XIII, §13112(e), Nov. 5, 1990, 104 Stat. 1388–609.)
 
 #### References in Text
 

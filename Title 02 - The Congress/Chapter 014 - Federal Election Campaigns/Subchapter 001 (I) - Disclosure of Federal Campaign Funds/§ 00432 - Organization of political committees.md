@@ -62,7 +62,7 @@ The treasurer shall preserve all records required to be kept by this section and
 
 (1) Designations, statements, and reports required to be filed under this Act by a candidate for the office of Senator, by the principal campaign committee of such candidate, and by the Republican and Democratic Senatorial Campaign Committees shall be filed with the Secretary of the Senate, who shall receive such designations, statements, and reports, as custodian for the Commission.
 
-(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
+(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no laterthan 2 working days) after receiving such designation, statement, or report.
 
 (3) All designations, statements, and reports required to be filed under this Act, except designations, statements, and reports filed in accordance with paragraph (1), shall be filed with the Commission.
 

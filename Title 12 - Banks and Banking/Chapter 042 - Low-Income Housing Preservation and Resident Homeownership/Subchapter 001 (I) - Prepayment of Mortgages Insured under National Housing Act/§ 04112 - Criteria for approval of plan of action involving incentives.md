@@ -14,7 +14,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(C) current tenants will not be involuntarily displaced (except for good cause);
 
-&emsp;&emsp;(D) any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying the housing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receiving section 8 \[42 U.S.C. 1437f\] assistance in accordance with subparagraph (E)(ii) of this paragraph);
+&emsp;&emsp;(D) any increase in rent contributions for current tenants will be to a level that does not exceed 30 percent of the adjusted income of the tenant or the published existing fair market rent for comparable housing established under section 1437f(c) of title 42, whichever is lower, except that the rent contributions of any tenants occupying the housing at the time of any increase may not be reduced by reason of this subparagraph (except with respect to tenants receivingsection 8 \[42 U.S.C. 1437f\] assistance in accordance with subparagraph (E)(ii) of this paragraph);
 
 &emsp;&emsp;(E)(i) any resulting increase in rents for current tenants (except for increases made necessary by increased operating costs)—
 
@@ -58,7 +58,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (4) Tenant and community comment and appeal
 
-&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. The Secretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
+&emsp;In making a determination regarding the useful life of any housing pursuant to a petition submitted under paragraph (3), the Secretary shall provide for comment by tenants of the housing and interested persons and organizations with respect to the petition. TheSecretary shall also provide the tenants and interested persons and organizations with an opportunity to appeal a determination under this subsection.
 
 #### (d) Housing standards
 
@@ -86,7 +86,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;&emsp;(i) Subject to availability of amounts provided in appropriations Acts, provide assistance under sections 1437f(b) and 1437f(<i>o</i>) of title 42 (other than project-based assistance attached to the housing) for any tenant eligible for such assistance who desires to terminate occupancy in the housing. For each unit in the housing vacated pursuant to the provision of assistance under this clause, the Secretary may, notwithstanding any other law or contract for assistance, cancel the provision of project-based assistance attached to the housing for 1 dwelling unit, if the housing is receiving such assistance.
 
-&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>4</sup> of this title, declaresuch loan to be in default and accelerate the maturity date of the loan.
+&emsp;&emsp;&emsp;(ii) In the case of housing for which an equity take-out loan has been made under section 1715z–6(f) <sup>4</sup> of this title, declare such loan to be in default and accelerate the maturity date of the loan.
 
 &emsp;&emsp;&emsp;(iii) Declare any rehabilitation loan insured or provided by the Secretary (with respect to the housing) to be in default and accelerate the maturity date of the loan.
 
@@ -144,7 +144,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 102–550, §317(a)(4)(D), substituted “in defa
 
 Subsec. (e). Pub. L. 102–550, §308(a), struck out subsec. (e) which read as follows: “(e)
 
-Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply ofdecent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
+Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter.”
 
 #### Effective and Termination Dates of 1994 Amendment
 

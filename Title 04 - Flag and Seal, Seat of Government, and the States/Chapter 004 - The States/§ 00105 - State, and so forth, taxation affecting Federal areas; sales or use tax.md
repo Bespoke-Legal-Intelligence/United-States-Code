@@ -14,7 +14,7 @@ Pub. L. 100–202, §101(i) \[title III, §307\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(b) As used in this section—
 
-&emsp;“(1) the term ‘essential support activity or function’ means a support activity or function so designated by the Committee on House Oversight of the House of Representatives or the Committee on Rules and Administration of the Senate, acting jointly or separately, as appropriate;
+&emsp;“(1) the term ‘essential support activity or function’ means a support activity or function so designated by the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives or the Committee on Rules and Administration of the Senate, acting jointly or separately, as appropriate;
 
 &emsp;“(2) the term ‘personal property tax’ means a tax of a State, a subdivision of a State, or any other authority of a State, that is levied on, levied with respect to, or measured by, the value of personal property;
 
@@ -30,5 +30,5 @@ Imposition of net income taxes by State on income derived from interstate commer
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 107, 108, 109, 110 of this title; title 36 section 1219.
+This section is referred to in sections 107, 108, 109, 110 of this title; title 36 section 220307.
 

@@ -8,19 +8,23 @@
 
 &emsp;&emsp;(A) identify and analyze acts, policies, or practices of each foreign country which constitute significant barriers to, or distortions of—
 
-&emsp;&emsp;&emsp;(i) United States exports of goods or services (including agricultural commodities; and property protected by trademarks, patents, and copyrights exported or licensed by United States persons), and
+&emsp;&emsp;&emsp;(i) United States exports of goods or services (including agricultural commodities; and property protected by trademarks, patents, and copyrights exported or licensed by United States persons),
 
-&emsp;&emsp;&emsp;(ii) foreign direct investment by United States persons, especially if such investment has implications for trade in goods or services;
+&emsp;&emsp;&emsp;(ii) foreign direct investment by United States persons, especially if such investment has implications for trade in goods or services; <sup>1</sup> and
+
+&emsp;&emsp;&emsp;(iii) United States electronic commerce,<sup>2</sup>
 
 &emsp;&emsp;(B) make an estimate of the trade-distorting impact on United States commerce of any act, policy, or practice identified under subparagraph (A); and
 
 &emsp;&emsp;(C) make an estimate, if feasible, of—
 
-&emsp;&emsp;&emsp;(i) the value of additional goods and services of the United States, and
+&emsp;&emsp;&emsp;(i) the value of additional goods and services of the United States,
 
-&emsp;&emsp;&emsp;(ii) the value of additional foreign direct investment by United States persons,
+&emsp;&emsp;&emsp;(ii) the value of additional foreign direct investment by United States persons, and
 
-> &emsp;&emsp;that would have been exported to, or invested in, each foreign country during such calendar year if each of such acts, policies, and practices of such country did not exist.
+&emsp;&emsp;&emsp;(iii) the value of additional United States electronic commerce,
+
+> &emsp;&emsp;that would have been exported to, or invested in or transacted with,,<sup>3</sup> each foreign country during such calendar year if each of such acts, policies, and practices of such country did not exist.
 
 #### (2) Certain factors taken into account in making analysis and estimate
 
@@ -36,9 +40,11 @@
 
 &emsp;&emsp;(E) the actual increase in—
 
-&emsp;&emsp;&emsp;(i) the value of goods and services of the United States exported to, and
+&emsp;&emsp;&emsp;(i) the value of goods and services of the United States exported to,
 
-&emsp;&emsp;&emsp;(ii) the value of foreign direct investment made in,
+&emsp;&emsp;&emsp;(ii) the value of foreign direct investment made in, and
+
+&emsp;&emsp;&emsp;(iii) the value of electronic commerce transacted with,
 
 > &emsp;&emsp;the foreign country during the calendar year for which the estimate under paragraph (1)(C) is made.
 
@@ -78,11 +84,27 @@
 
 #### (3) Personnel and services
 
-&emsp;The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Trade Representative may request to assist in carrying out his functions.
+&emsp;The head of any department, agency, or instrumentality of the United States may detailsuch personnel and may furnish such services, with or without reimbursement, as the Trade Representative may request to assist in carrying out his functions.
 
-(Pub. L. 93–618, title I, §181, as added Pub. L. 98–573, title III, §303(a), Oct. 30, 1984, 98 Stat. 3001; amended Pub. L. 100–418, title I, §1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§311(a), 312, Dec. 8, 1994, 108 Stat. 4938.)
+#### (d) Electronic commerce
+
+For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) of the Internet Tax Freedom Act.
+
+(Pub. L. 93–618, title I, §181, as added Pub. L. 98–573, title III, §303(a), Oct. 30, 1984, 98 Stat. 3001; amended Pub. L. 100–418, title I, §1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§311(a), 312, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 105–277, div. C, title XII, §1202, Oct. 21, 1998, 112 Stat. 2681–726.)
+
+#### References in Text
+
+Section 1104(3) of the Internet Tax Freedom Act, referred to in subsec. (d), is set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
+
+1998—Subsec. (a)(1)(A)(iii). Pub. L. 105–277, §1202(1)(A), added cl. (iii).
+
+Subsec. (a)(1)(C). Pub. L. 105–277, §1202(1)(B), added cl. (iii) and inserted “or transacted with,” after “or invested in” in concluding provisions.
+
+Subsec. (a)(2)(E)(iii). Pub. L. 105–277, §1202(2), added cl. (iii).
+
+Subsec. (d). Pub. L. 105–277, §1202(3), added subsec. (d).
 
 1994—Subsec. (b)(2)(C). Pub. L. 103–465, §311(a)(1), added subpar. (C).
 
@@ -108,7 +130,57 @@ Subsec. (b)(1). Pub. L. 100–418, §1304(b), amended par. (1) generally. Prior 
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 316 of Pub. L. 103–465, set out as an Effective Date note under section 3581 of this title.
 
+#### Severability
+
+Pub. L. 105–277, div. C, title XII, §1206, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “If any provision of this title \[amending this section and enacting provisions set out under this section\], or any amendment made by this title, or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that title, and the application of that provision to other persons and circumstances, shall not be affected.”
+
+#### Construction of 1998 Amendments
+
+Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
+
+Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] or the amendments made by such Act.”
+
+#### Declaration That the Internet Should Be Free of Foreign Tariffs, Trade Barriers, and Other Restrictions
+
+Pub. L. 105–277, div. C, title XII, §1203, Oct. 21, 1998, 112 Stat. 2681–727, provided that:
+
+“(a)
+
+In General.—It is the sense of Congress that the President should seek bilateral, regional, and multilateral agreements to remove barriers to global electronic commerce through the World Trade Organization, the Organization for Economic Cooperation and Development, the Trans-Atlantic Economic Partnership, the Asia Pacific Economic Cooperation forum, the Free Trade Area of the America, the North American Free Trade Agreement, and other appropriate venues.
+
+“(b)
+
+Negotiating Objectives.—The negotiating objectives of the United States shall be—
+
+&emsp;“(1) to assure that electronic commerce is free from—
+
+&emsp;&emsp;“(A) tariff and nontariff barriers;
+
+&emsp;&emsp;“(B) burdensome and discriminatory regulation and standards; and
+
+&emsp;&emsp;“(C) discriminatory taxation; and
+
+&emsp;“(2) to accelerate the growth of electronic commerce by expanding market access opportunities for—
+
+&emsp;&emsp;“(A) the development of telecommunications infrastructure;
+
+&emsp;&emsp;“(B) the procurement of telecommunications equipment;
+
+&emsp;&emsp;“(C) the provision of Internet access and telecommunications services; and
+
+&emsp;&emsp;“(D) the exchange of goods, services, and digitalized information.
+
+“(c)
+
+Electronic Commerce.—For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) \[probably means Pub. L. 105–277, div. C, title XI, §1104(3), set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2114a, 2171, 2242, 2420, 2901, 3106 of this title; title 15 section 4711; title 22 sections 2200b, 5732; title 49 section 50104.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

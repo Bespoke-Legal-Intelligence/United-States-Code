@@ -2,7 +2,7 @@
 
 #### (a) Prohibition and penalties for possession, manufacture, sale, or importation
 
-Whoever in or affecting interstate commerce, within any Territory or possession of the UnitedStates, within Indian country (as defined in section 1151 of title 18), or within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18), knowingly possesses, manufactures, sells, or imports a ballistic knife shall be fined as provided in title 18, or imprisoned not more than ten years, or both.
+Whoever in or affecting interstate commerce, within any Territory or possession of the United States, within Indian country (as defined in section 1151 of title 18), or within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18), knowingly possesses, manufactures, sells, or imports a ballistic knife shall be fined as provided in title 18, or imprisoned not more than ten years, or both.
 
 #### (b) Prohibition and penalties for possession or use during commission of Federal crime of violence
 
@@ -20,7 +20,7 @@ As used in this section, the term “ballistic knife” means a knife with a det
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–690, §6472(1), substituted “in or affecting interstate commerce, within any Territory or possession of the United States, within Indian country (as defined in section 1151 of title 18), or within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18), knowingly possesses, manufactures, sells, or imports” for “knowingly possesses, manufactures, sells, or imports”.
+1988—Subsec. (a). Pub. L. 100–690, §6472(1), substituted “in or affecting interstate commerce, within any Territory or possession of the United States, within Indian country (as defined in section 1151 of title 18), or within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18), knowingly possesses, manufactures, sells, or imports” for“knowingly possesses, manufactures, sells, or imports”.
 
 Subsec. (b). Pub. L. 100–690, §6472(2), struck out “or State” after “Federal”.
 

@@ -1,6 +1,6 @@
 ### §3307. Competitive service; maximum-age entrance requirements; exceptions
 
-(a) Except as provided in subsections (b), (c), and (d) of this section appropriated funds may not be used to pay an employee who establishes a maximum-age requirement for entrance into the competitive service.
+(a) Except as provided in subsections (b), (c), (d), (e), and (f) of this section appropriated funds may not be used to pay an employee who establishes a maximum-age requirement for entrance into the competitive service.
 
 (b) The Secretary may, with the concurrence of such agent as the President may designate, determine and fix the maximum limit of age within which an original appointment to a position as an air traffic controller may be made.
 
@@ -10,7 +10,9 @@
 
 (e) The head of an agency may determine and fix the maximum age limit for an original appointment to a position as a firefighter or law enforcement officer, as defined by section 8401(14) or (17), respectively, of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744.)
+(f) The Secretary of Energy may determine and fix the maximum age limit for an original appointment to a position as a nuclear materials courier, as defined by section 8331(27) or 8401(33).
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744; Pub. L. 105–261, div. C, title XXXI, §3154(a), Oct. 17, 1998, 112 Stat. 2254.)
 
 Historical and Revision Notes
 
@@ -35,6 +37,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 For definition of Secretary, referred to in subsec. (b), see section 2109 of this title.
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–261, §3154(a)(1), substituted “(d), (e), and (f)” for “and (d)”.
+
+Subsec. (f). Pub. L. 105–261, §3154(a)(2), added subsec. (f).
 
 1988—Subsec. (d). Pub. L. 100–238, §103(a)(1)(A), substituted “may” for “may, with the concurrence of such agent as the President may designate,”.
 

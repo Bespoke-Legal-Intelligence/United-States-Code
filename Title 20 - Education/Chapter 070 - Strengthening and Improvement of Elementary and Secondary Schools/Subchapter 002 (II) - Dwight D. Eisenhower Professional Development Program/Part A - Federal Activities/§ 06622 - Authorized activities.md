@@ -8,7 +8,7 @@ The Secretary shall use funds available to carry out this part for—
 
 &emsp;(2) awarding a grant or contract, in consultation with the Director of the National Science Foundation, to establish an Eisenhower National Clearinghouse for Mathematics and Science Education (hereafter in this section referred to as the “Clearinghouse”); and
 
-&emsp;(3) evaluating programs assisted under this part and parts B and C of this subchapter, in accordance with section 8941 of this title.
+&emsp;(3) evaluating programs assisted under this part and parts B and C <sup>1</sup> of this subchapter, in accordance with section 8941 of this title.
 
 #### (b) Clearinghouse
 
@@ -50,7 +50,7 @@ The Secretary shall use funds available to carry out this part for—
 
 #### (7) Application of copyright laws
 
-&emsp;Nothing in this subsection shall be construed to allow the use or copying, in any media, of any material collected by the Clearinghouse that is protected under the copyright laws of the United States unless the permission of the owner of the copyright is obtained. The Clearinghouse, in carrying out the provisions of this subsection, shall ensure compliance with title 17.
+&emsp;Nothing in this subsection shall be construed to allow the use or copying, in any media, of any material collected by the Clearinghouse that is protected under the copyrightlaws of the United States unless the permission of the owner of the copyright is obtained. The Clearinghouse, in carrying out the provisions of this subsection, shall ensure compliance with title 17.
 
 #### (8) Dissemination of information
 
@@ -64,7 +64,7 @@ The Secretary may use funds available to carry out this part for—
 
 &emsp;(2) professional development institutes that provide teachers or teams of teachers, and, where appropriate, administrators, pupil services personnel and other staff, from individual schools, with professional development that contains strong and integrated disciplinary and pedagogical components;
 
-&emsp;(3) encouraging the development of local and national professional networks, such as the Teacher Research Dissemination Demonstration Program under section 6041(j) of this title, that provide a forum for interaction among teachers of the core academic subjects and that allow the exchange of information on advances in content and pedagogy;
+&emsp;(3) encouraging the development of local and national professional networks, such as the Teacher Research Dissemination Demonstration Program under section 6041(j) <sup>2</sup> of this title, that provide a forum for interaction among teachers of the core academic subjects and that allow the exchange of information on advances in content and pedagogy;
 
 &emsp;(4) efforts to train teachers in the innovative uses and applications of technology to enhance student learning;
 
@@ -72,7 +72,7 @@ The Secretary may use funds available to carry out this part for—
 
 &emsp;(6) disseminating standards in the core academic subjects, including information on voluntary national content standards and voluntary national student performance standards and related models of high-quality professional development;
 
-&emsp;(7) the dissemination of information about voluntary national content standards, Statecontent standards, voluntary national student performance standards and State student performance standards, and related models of high-quality professional development;
+&emsp;(7) the dissemination of information about voluntary national content standards, State content standards, voluntary national student performance standards and State student performance standards, and related models of high-quality professional development;
 
 &emsp;(8) efforts to train teachers in innovative instructional methodologies designed to meet the diverse learning needs of individual students, including methodologies which integrate academic and vocational learning and applied learning, interactive, interdisciplinary team teaching, and other alternative teaching strategies, such as service learning, experiential learning, career-related education, and environmental education, that integrate real world applications into the core academic subjects;
 
@@ -90,7 +90,17 @@ The Secretary may use funds available to carry out this part for—
 
 (Pub. L. 89–10, title II, §2102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3615.)
 
+#### References in Text
+
+Part C of this subchapter, referred to in subsec. (a)(3), was redesignated part D of this subchapter and a new part C added by Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391.
+
+Section 6041(j) of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 8672 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

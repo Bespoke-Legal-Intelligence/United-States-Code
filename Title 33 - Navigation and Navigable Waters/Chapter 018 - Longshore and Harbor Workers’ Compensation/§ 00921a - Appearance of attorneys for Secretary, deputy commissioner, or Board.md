@@ -14,7 +14,7 @@ Section was not enacted as part of the Longshore and Harbor Workers’ Compensat
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney of theUnited States”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision note thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney of the United States”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision note thereunder.
 
 #### Effective Date of 1972 Amendment
 

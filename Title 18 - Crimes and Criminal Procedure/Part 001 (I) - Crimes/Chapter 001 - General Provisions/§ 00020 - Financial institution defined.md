@@ -20,7 +20,7 @@ As used in this title, the term “financial institution” means—
 
 &emsp;(9) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978).
 
-(Added Oct. 12, 1984, Pub. L. 98–473, title II, §1107(a), 98 Stat. 2145, §215(b); amended Aug. 4, 1986, Pub. L. 99–370, §2, 100 Stat. 779; renumbered §20 and amended Aug. 9, 1989, Pub. L. 101–73, title IX, §962(e)(1), (2), 103 Stat. 503; Nov. 29, 1990, Pub. L. 101–647, title XXV, §2597(a), 104 Stat. 4908.)
+(Added Pub. L. 98–473, title II, §1107(a), Oct. 12, 1984, 98 Stat. 2145, §215(b); amended Pub. L. 99–370, §2, Aug. 4, 1986, 100 Stat. 779; renumbered §20 and amended Pub. L. 101–73, title IX, §962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, §2597(a), Nov. 29, 1990, 104 Stat. 4908.)
 
 #### References in Text
 

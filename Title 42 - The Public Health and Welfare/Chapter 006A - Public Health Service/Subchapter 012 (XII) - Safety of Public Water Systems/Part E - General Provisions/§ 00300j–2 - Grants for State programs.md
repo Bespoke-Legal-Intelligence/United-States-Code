@@ -24,7 +24,7 @@
 
 &emsp;(C) there is reason to believe the State will assume such primary enforcement responsibility by October 1, 1979.
 
-> The amount of any grant awarded for the fiscal years 1978 and 1979 pursuant to a waiver under this paragraph may not exceed 75 per centum of the allotment which the State would have received for such fiscal year if it had assumed and maintained such primary enforcement responsibility. The remaining 25 per centum of the amount allotted to such State for such fiscal year shall be retained by the Administrator, and the Administrator may award such amount to such State at such time as the State assumes such responsibility before the beginning of fiscal year 1980. At the beginning of each fiscal years 1979 and 1980 the amounts retained by the Administrator for any preceding fiscal year and not awarded by the beginning of fiscal year 1979 or 1980 to the States to which such amounts were originally allotted may be removed from the original allotment and reallotted for fiscal year 1979 or 1980 (as the case may be) to States which have assumed primary enforcement responsibility by the beginning of such fiscal year.
+> The amount of any grant awarded for the fiscal years 1978 and 1979 pursuant to a waiver underthis paragraph may not exceed 75 per centum of the allotment which the State would have received for such fiscal year if it had assumed and maintained such primary enforcement responsibility. The remaining 25 per centum of the amount allotted to such State for such fiscal year shall be retained by the Administrator, and the Administrator may award such amount to such State at such time as the State assumes such responsibility before the beginning of fiscal year 1980. At the beginning of each fiscal years 1979 and 1980 the amounts retained by the Administrator for any preceding fiscal year and not awarded by the beginning of fiscal year 1979 or 1980 to the States to which such amounts were originally allotted may be removed from the original allotment and reallotted for fiscal year 1979 or 1980 (as the case may be) to States which have assumed primary enforcement responsibility by the beginning of such fiscal year.
 
 (6) The Administrator shall notify the State of the approval or disapproval of any application for a grant under this section—
 
@@ -83,7 +83,7 @@ For purposes of this section:
 
 &emsp;(1) The term “public water system supervision program” means a program for the adoption and enforcement of drinking water regulations (with such variances and exemptions from such regulations under conditions and in a manner which is not less stringent than the conditions under, and the manner in, which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title) which are no less stringent than the national primary drinking water regulations under section 300g–1 of this title, and for keeping records and making reports required by section 300g–2(a)(3) of this title.
 
-&emsp;(2) The term “underground water source protection program” means a program for the adoption and enforcement of a program which meets the requirements of regulations under section 300h of this title, and for keeping records and making reports required by section 300h–1(b)(1)(A)(ii) of this title. Such term includes, where applicable, a program which meets the requirements of section 300h–4 of this title.
+&emsp;(2) The term “underground water source protection program” means a program for the adoption and enforcement of a program which meets the requirements of regulations undersection 300h of this title, and for keeping records and making reports required by section 300h–1(b)(1)(A)(ii) of this title. Such term includes, where applicable, a program which meets the requirements of section 300h–4 of this title.
 
 #### (d) New York City watershed protection program
 
@@ -103,7 +103,7 @@ For purposes of this section:
 
 &emsp;There are authorized to be appropriated to the Administrator to carry out this subsection for each of fiscal years 1997 through 2003, $15,000,000 for the purpose of providing assistance to the State of New York to carry out paragraph (1).
 
-(July 1, 1944, ch. 373, title XIV, §1443, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1684; amended Nov. 16, 1977, Pub. L. 95–190, §§2(b), (c), 5(a), 91 Stat. 1393, 1395; Sept. 6, 1979, Pub. L. 96–63, §2, 93 Stat. 411; Dec. 5, 1980, Pub. L. 96–502, §§2(c), 4(d), 94 Stat. 2738; June 19, 1986, Pub. L. 99–339, title III, §§301(b), (c), 302(d), 100 Stat. 664, 666; Aug. 6, 1996, Pub. L. 104–182, title I, §§120(c), 124, 128, 110 Stat. 1651, 1653, 1659.)
+(July 1, 1944, ch. 373, title XIV, §1443, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1684; amended Pub. L. 95–190, §§2(b), (c), 5(a), Nov. 16, 1977, 91 Stat. 1393, 1395; Pub. L. 96–63, §2, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §§2(c), 4(d), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title III, §§301(b), (c), 302(d), June 19, 1986, 100 Stat. 664, 666; Pub. L. 104–182, title I, §§120(c), 124, 128, Aug. 6, 1996, 110 Stat. 1651, 1653, 1659.)
 
 #### Amendments
 

@@ -10,19 +10,21 @@ In this chapter—
 
 &emsp;&emsp;(C) dedicated to the use of the Government for water resource development projects;
 
-&emsp;&emsp;(D) on which are located semi-active or inactive installations (except industrial installations) that the Secretary of the Armykeeps for mobilization and for reserve component training;
+&emsp;&emsp;(D) on which are located semi-active or inactive installations (except industrial installations) that the Secretary of the Army keeps for mobilization and for reserve component training;
 
 &emsp;&emsp;(E) that is a dredge disposal area under the jurisdiction of the Secretary of the Army;
 
-&emsp;&emsp;(F) that is located in the vicinity of Purgatory River Canyon and Pinon Canyon, Colorado, and acquired after December 23, 1981, by the United States Government to expand the Fort Carson military installation; or
+&emsp;&emsp;(F) that is located in the vicinity of Purgatory River Canyon and Pinon Canyon, Colorado, and acquired after December 23, 1981, by the United States Government to expand the Fort Carson military installation;
 
-&emsp;&emsp;(G) that is a reserve area (as defined in section 401(g)(3) of the Act of June 15, 1935 (16 U.S.C. 715s(g)(3))).
+&emsp;&emsp;(G) that is a reserve area (as defined in section 401(g)(3) of the Act of June 15, 1935 (16 U.S.C. 715s(g)(3))); or
+
+&emsp;&emsp;(H) acquired by the Secretary of the Interior or the Secretary of Agriculture under section 5 of the Southern Nevada Public Land Management Act of 1998 that is not otherwise described in subparagraphs (A) through (G).
 
 &emsp;(2)(A) “unit of general local government” means—
 
 &emsp;&emsp;(i) a county (or parish), township, borough, or city (other than in Alaska) where the city is independent of any other unit of general local government, that—
 
-&emsp;&emsp;&emsp;(I) is within the class or classes of such political subdivision in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and
+&emsp;&emsp;&emsp;(I) is within the class or classes of such political subdivision in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider orproviders of governmental services within the State; and
 
 &emsp;&emsp;&emsp;(II) is a unit of general government, as determined by the Secretary of the Interior on the basis of the same principles as were used by the Secretary of Commerce on January 1, 1983, for general statistical purposes;
 
@@ -38,7 +40,7 @@ In this chapter—
 
 &emsp;(B) the term “governmental services” includes, but is not limited to, those services that relate to public safety, the environment, housing, social services, transportation, and governmental administration.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, §101(1), July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, §1033(a), Nov. 12, 1996, 110 Stat. 4239; Pub. L. 105–83, title III, §350, Nov. 14, 1997, 111 Stat. 1607.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, §101(1), July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, §1033(a), Nov. 12, 1996, 110 Stat. 4239; Pub. L. 105–83, title III, §350, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–263, §5(d), Oct. 19, 1998, 112 Stat. 2348.)
 
 Historical and Revision Notes
 
@@ -80,7 +82,13 @@ In clause (1), before subclause (A), the text of 31:1606(b) is omitted as unnece
 
 In clause (2), before subclause (A), the word “general” is added for consistency in the title. In subclause (A), the word “parish” is omitted as unnecessary because of 1:2. The word “city” is substituted for “municipality” for consistency in the subtitle. The words “State of” are omitted as surplus. The words “political subdivision of a State” are substituted for “unit of government below the State” for consistency. The words “the basis of” are omitted as surplus. The word “basis” is substituted for “principle” for consistency in the subtitle. The words “Secretary of Commerce” are substituted for “Bureau of the Census”, and the words “general purpose political subdivision of a State” are substituted for “unit of general government”, for consistency. In subclause (B), the words “Such term also includes” are omitted as unnecessary. Subclause (D) is added because of section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America.
 
+#### References in Text
+
+Section 5 of the Southern Nevada Public Land Management Act of 1998, referred to in par. (1)(H), is section 5 of Pub. L. 105–263, Oct. 19, 1998, 112 Stat. 2347, subsec. (d) of which amended this section. Subsecs. (a) to (c) of section 5, which related to acquisition of certain environmentally sensitive land, are not classified to the Code.
+
 #### Amendments
+
+1998—Par. (1)(H). Pub. L. 105–263 added subpar. (H).
 
 1997—Par. (2)(A)(i). Pub. L. 105–83 inserted “(other than in Alaska)” after “borough, or city”.
 
@@ -100,11 +108,15 @@ In clause (2), before subclause (A), the word “general” is added for consist
 
 1988—Par. (2)(A). Pub. L. 100–446, as amended by Pub. L. 103–272, struck out “existing in Alaska on October 20, 1976” after “township, borough”.
 
-1983—Par. (2). Pub. L. 98–63 amended par. (2) generally, substituting in subpar. (A) “a county (or parish), township, borough existing in Alaska on October 20, 1976, or city where the city is independent of any other unit of general local government, that: (i) is within theclass or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration” for “a county, city, township, borough existing in Alaska on October 20, 1976, or other political subdivision of a State that the Secretary of the Interior, on the same basis that the Secretary of Commerce uses for general statistical purposes, decides is a general purpose political subdivision of a State”; including the District of Columbia in definition; and excluding the Commonwealth of the Northern Mariana Islands from definition.
+1983—Par. (2). Pub. L. 98–63 amended par. (2) generally, substituting in subpar. (A) “a county (or parish), township, borough existing in Alaska on October 20, 1976, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration” for “a county, city, township, borough existing in Alaska on October 20, 1976, or other political subdivision of a State that the Secretary of the Interior, on the same basis that the Secretary of Commerce uses for general statistical purposes, decides is a general purpose political subdivision of a State”; including the District of Columbia in definition; and excluding the Commonwealth of the Northern Mariana Islands from definition.
 
 #### Effective Date of 1994 Amendment
 
 Section 4(f)(3) of Pub. L. 103–272 provided that the amendment made by that section is effective Sept. 27, 1988.
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–263, §1, Oct. 19, 1998, 112 Stat. 2343, provided that: “This Act \[amending this section and section 460ccc–1 of Title 16, Conservation\] may be cited as the ‘Southern Nevada Public Land Management Act of 1998’.”
 
 #### Short Title of 1994 Amendment
 

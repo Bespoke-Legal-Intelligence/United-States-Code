@@ -28,7 +28,7 @@ If, in any case in which—
 
 > any person, partnership, or corporation submits a request to the Board of Governors for the issuance of any statement of interpretation or statement of approval relating to any conduct or practice of such person, partnership, or corporation which may be subject to the requirements of such Federal law, then the Board of Governors shall dispose of such request as soon as practicable after the receipt of such.
 
-(Sept. 26, 1914, ch. 311, §23, as added May 28, 1980, Pub. L. 96–252, §16, 94 Stat. 390.)
+(Sept. 26, 1914, ch. 311, §23, as added Pub. L. 96–252, §16, May 28, 1980, 94 Stat. 390.)
 
 #### Effective Date
 

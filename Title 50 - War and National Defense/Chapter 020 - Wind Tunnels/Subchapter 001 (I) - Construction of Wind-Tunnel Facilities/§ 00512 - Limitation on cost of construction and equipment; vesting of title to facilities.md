@@ -8,10 +8,6 @@ The Administrator is authorized, in implementation of the unitary plan, to const
 
 1958—Pub. L. 85–568 substituted “Administrator” for “Committee” in three places, and “his” for “its”.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under section 2302 of Title 10, Armed Forces.

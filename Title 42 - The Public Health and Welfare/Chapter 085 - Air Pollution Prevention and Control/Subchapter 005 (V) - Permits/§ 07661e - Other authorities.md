@@ -8,5 +8,5 @@ Nothing in this subchapter shall prevent a State, or interstate permitting autho
 
 The provisions of this subchapter, including provisions regarding schedules for submission and approval or disapproval of permit applications, shall apply to permits implementing the requirements of subchapter IV–A of this chapter except as modified by that subchapter.
 
-(July 14, 1955, ch. 360, title V, §506, as added Nov. 15, 1990, Pub. L. 101–549, title V, §501, 104 Stat. 2645.)
+(July 14, 1955, ch. 360, title V, §506, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2645.)
 

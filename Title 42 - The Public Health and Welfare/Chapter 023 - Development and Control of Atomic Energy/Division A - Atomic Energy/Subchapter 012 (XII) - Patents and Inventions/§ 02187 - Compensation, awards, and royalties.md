@@ -8,7 +8,7 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 (1) Any owner of a patent licensed under section 2188 or 2183(b) or 2183(e) of this title, or any patent licensee thereunder may make application to the Commission for the determination of a reasonable royalty fee in accordance with such procedures as the Commission by regulation may establish.
 
-(2) Any person seeking to obtain the just compensation provided in section 2181 of this title shall make application therefor to the Commission in accordance with such procedures as the Commission may by regulation establish.
+(2) Any person seeking to obtain the just compensation provided in section 2181 of this titleshall make application therefor to the Commission in accordance with such procedures as the Commission may by regulation establish.
 
 (3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, an award. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
 
@@ -22,7 +22,7 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 Every application under this section shall be barred unless filed within six years after the date on which first accrues the right to such reasonable royalty fee, just compensation, or award for which such application is filed.
 
-(Aug. 1, 1946, ch. 724, title I, §157, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Sept. 6, 1961, Pub. L. 87–206, §11, 75 Stat. 478; May 10, 1974, Pub. L. 93–276, title II, §201, 88 Stat. 119; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §157, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 947; amended Pub. L. 87–206, §11, Sept. 6, 1961, 75 Stat. 478; Pub. L. 93–276, title II, §201, May 10, 1974, 88 Stat. 119; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Ex. Ord. No. 11477, Aug. 7, 1969, 34 F.R. 12937, set out as a note above, when r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2183, 2184, 2239, 2297e–1, 2297h–12, 5814 of this title.
+This section is referred to in sections 2183, 2184, 2239, 2297h–12, 5814 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -54,7 +54,7 @@ For purposes of this section, the term—
 
 #### References in Text
 
-Public Law 92–203, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. The term “Alaska Native Villages” is defined in section 3 of Pub. L. 92–203 which is classified to section 1602 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+Public Law 92–203, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known asthe Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. The term “Alaska Native Villages” is defined in section 3 of Pub. L. 92–203 which is classified to section 1602 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 

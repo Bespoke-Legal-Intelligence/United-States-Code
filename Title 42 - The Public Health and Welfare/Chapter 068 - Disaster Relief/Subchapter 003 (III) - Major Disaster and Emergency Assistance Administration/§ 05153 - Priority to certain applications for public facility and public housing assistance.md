@@ -34,7 +34,7 @@ The Public Works and Economic Development Act of 1965, as amended, referred to i
 
 The Appalachian Regional Development Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89–4, Mar. 9, 1965, 79 Stat. 5, as amended, which is set out in the Appendix to Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(7), is act June 30, 1948, ch. 758, as amendedgenerally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(7), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 #### Prior Provisions
 

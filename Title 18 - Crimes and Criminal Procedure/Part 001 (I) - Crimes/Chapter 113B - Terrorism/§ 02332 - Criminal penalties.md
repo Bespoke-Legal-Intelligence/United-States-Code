@@ -16,7 +16,7 @@ Attempt or Conspiracy With Respect to Homicide.—Whoever outside the United Sta
 
 &emsp;(1) in the case of an attempt to commit a killing that is a murder as defined in this chapter, be fined under this title or imprisoned not more than 20 years, or both; and
 
-&emsp;(2) in the case of a conspiracy by two or more persons to commit a killing that is a murder as defined in section 1111(a) of this title, if one or more of such persons do any overt act to effect the object of the conspiracy, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned.
+&emsp;(2) in the case of a conspiracy by two or more persons to commit a killing that is amurder as defined in section 1111(a) of this title, if one or more of such persons do any overt act to effect the object of the conspiracy, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned.
 
 (c)
 
@@ -32,7 +32,7 @@ Other Conduct.—Whoever outside the United States engages in physical violence�
 
 Limitation on Prosecution.—No prosecution for any offense described in this section shall be undertaken by the United States except on written certification of the Attorney General or the highest ranking subordinate of the Attorney General with responsibility for criminal prosecutions that, in the judgment of the certifying official, such offense was intended to coerce, intimidate, or retaliate against a government or a civilian population.
 
-(Added Pub. L. 99–399, title XII, §1202(a), Aug. 27, 1986, 100 Stat. 896, §2331; amended Pub. L.101–519, §132(b), Nov. 5, 1990, 104 Stat. 2250; Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155; Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643; renumbered §2332 and amended Pub. L. 102–572, title X, §1003(a)(1), (2), Oct. 29, 1992, 106 Stat. 4521; Pub. L. 103–322, title VI, §60022, Sept. 13, 1994, 108 Stat. 1980; Pub. L. 104–132, title VII, §705(a)(6), Apr. 24, 1996, 110 Stat. 1295.)
+(Added Pub. L. 99–399, title XII, §1202(a), Aug. 27, 1986, 100 Stat. 896, §2331; amended Pub. L. 101–519, §132(b), Nov. 5, 1990, 104 Stat. 2250; Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155; Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643; renumbered §2332 and amended Pub. L. 102–572, title X, §1003(a)(1), (2), Oct. 29, 1992, 106 Stat. 4521; Pub. L. 103–322, title VI, §60022, Sept. 13, 1994, 108 Stat. 1980; Pub. L. 104–132, title VII, §705(a)(6), Apr. 24, 1996, 110 Stat. 1295.)
 
 #### Amendments
 

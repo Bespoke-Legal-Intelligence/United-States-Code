@@ -4,11 +4,11 @@
 
 Schedule.—(1) When the Secretary of Transportation allows a new fixed guideway project to advance into the alternatives analysis stage of project review, the Secretary shall cooperate with the applicant in alternatives analysis and in preparing a draft environmental impact statement and shall approve the draft for circulation not later than 45 days after the applicant submits the draft to the Secretary.
 
-(2) After the draft is circulated and not later than 30 days after the applicant selects a locally preferred alternative, the Secretary shall allow the project to advance to the preliminary engineering stage if the Secretary finds the project is consistent with section 5309(e)(1)–(6) of this title.
+(2) After the draft is circulated and not later than 30 days after the applicant selects a locally preferred alternative, the Secretary shall allow the project to advance to the preliminary engineering stage if the Secretary finds the project is consistent with section 5309(e).
 
 (3) The Secretary shall issue a record of decision and allow a project to advance to the final design stage of construction not later than 120 days after the final environmental impact statement for the project is completed.
 
-(4) The Secretary shall make a full financing grant agreement under section 5309 of this title for a project not later than 120 days after the project enters the final design stage of construction. The agreement shall provide for a United States Government share of the construction cost at least equal to the Government share estimated in the Secretary's most recent report required under section 5309(m)(2) of this title or an update of the report unless the applicant requests otherwise.
+(4) The Secretary shall make a full funding grant agreement under section 5309 of this title for a project not later than 120 days after the project enters the final design stage of construction. The agreement shall provide for a United States Government share of the construction cost at least equal to the Government share estimated in the Secretary's most recent report required under 5309(<i>o</i>)(1) <sup>1</sup> or an update of the report unless the applicant requests otherwise.
 
 (b)
 
@@ -44,7 +44,7 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 &emsp;(F) the Queens Local/Express Connector Program, consisting of the locally preferred alternative for the connection of the 63d Street tunnel extension to the Queens Boulevard lines, the bell-mouth part of the connector that will allow for future access by commuter rail trains and other subway lines to the 63d Street tunnel extension, planning elements for connecting the upper and lower levels to commuter and subway lines in Long Island City, and planning elements for providing a connector for commuter rail transportation to the East side of Manhattan and subway lines to the proposed Second Avenue subway.
 
-&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternative for the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
+&emsp;(G) the Dallas Area Rapid Transit Authority light rail elements of the New System Plan, consisting of the locally preferred alternativefor the South Oak Cliff corridor, the South Oak Cliff corridor extension-Camp Wisdom, the West Oak Cliff corridor-Westmoreland, the North Central corridor-Park Lane, the North Central corridor-Richardson, Plano, and Garland extensions, the Pleasant Grove corridor-Buckner, and the Carrollton corridors-Farmers Branch and Las Colinas terminal.
 
 &emsp;(H) other programs designated by law or the Secretary.
 
@@ -54,7 +54,7 @@ Program of Interrelated Projects.—(1) In this subsection, a program of interre
 
 (4) Including a program element not financed by the Government in a program of interrelated projects does not impose Government requirements that otherwise would not apply to the element.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 828; Pub. L. 104–205, title III, §336, Sept. 30, 1996, 110Stat. 2974; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 828; Pub. L. 104–205, title III, §336, Sept. 30, 1996, 110 Stat. 2974; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3009(h)(2), (3)(B), (C), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(2), (3), July 22, 1998, 112 Stat. 856.)
 
 Historical and Revision Notes
 
@@ -110,11 +110,23 @@ The Department of Transportation and Related Agencies Appropriations Act, 1991, 
 
 #### Amendments
 
+1998—Subsec. (a)(2). Pub. L. 105–178, §3009(h)(2), substituted “5309(e)” for “5309(e)(1)–(6) of this title”.
+
+Subsec. (a)(4). Pub. L. 105–178, §3009(h)(3)(C), as added by Pub. L. 105–206, §9009(h)(3), substituted “5309(<i>o</i>)(1)” for “section 5309(m)(2) of this title”.
+
+Pub. L. 105–178, §3009(h)(3)(B), as amended by Pub. L. 105–206, §9009(h)(2), substituted “full funding” for “full financing”.
+
 1996—Subsec. (b)(3). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 Subsec. (c)(1)(E). Pub. L. 104–205 struck out “Westside” after “District of Oregon” and “and” after “House Report 101–584,” and inserted before period at end “, and the locally preferred alternative for the South/North Corridor Project”.
 
+#### Effective Date of 1998 Amendment
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5333 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section 5309(o)(1)”.</i>
 

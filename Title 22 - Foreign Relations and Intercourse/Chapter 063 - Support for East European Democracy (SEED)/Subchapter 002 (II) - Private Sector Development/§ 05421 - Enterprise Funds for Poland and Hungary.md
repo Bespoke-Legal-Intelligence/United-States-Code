@@ -40,7 +40,7 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 &emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the “Advisory Councils”), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
 
-&emsp;(C) A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
+&emsp;(C) A host country citizen who is not committed to respect for democracy and a freemarket economy may not serve as a member of the Board of Directors of an Enterprise Fund.
 
 #### (4) Eligibility of Enterprise Funds for grants
 

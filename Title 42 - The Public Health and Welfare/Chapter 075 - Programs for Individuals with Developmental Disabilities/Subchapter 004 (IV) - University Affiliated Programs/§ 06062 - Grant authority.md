@@ -132,7 +132,7 @@ From amounts appropriated under section 6066(a) of this title, the Secretary may
 
 Section 6064(a) of this title, referred to in subsec. (a), was amended generally by Pub. L. 103–230, title IV, §405, Apr. 6, 1994, 108 Stat. 326, and, as so amended, no longer contains provisions authorizing appropriations for this section. See section 6066(a) of this title.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 Section 1425 of title 20, referred to in subsec. (b)(3)(G), was repealed by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157.
 

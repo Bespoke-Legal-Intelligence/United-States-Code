@@ -4,11 +4,11 @@
 
 (b) Obligations may, without regard to fiscal year limitations, be incurred against anticipated reimbursement to the Coast Guard Supply Fund in such amount and for such period, as the Secretary, with approval of the Director of the Office of Management and Budget, may determine to be necessary to maintain stock levels consistently with planned operations for the next year.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 550; Aug. 7, 1956, ch. 1023, §1(a), 70 Stat. 1077; June 12, 1970, Pub. L. 91–278, §1(13), 84 Stat. 306; Oct. 18, 1976, Pub. L. 94–546, §1(35), 90 Stat. 2521; Oct. 3, 1980, Pub. L. 96–376, §5, 94 Stat. 1509.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 550; Aug. 7, 1956, ch. 1023, §1(a), 70 Stat. 1077; Pub. L. 91–278, §1(13), June 12, 1970, 84 Stat. 306; Pub. L. 94–546, §1(35), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 96–376, §5, Oct. 3, 1980, 94 Stat. 1509.)
 
 #### Historical and Revision Notes
 
-A Coast Guard supply fund was established by the Naval Appropriation Act for fiscal year 1943 approved February 7, 1942, 56 Stat. 73. Experience has clearly shown that it is advantageous to the Government tohave permanent authorization for such a fund. 81st Congress, House Report No. 557.
+A Coast Guard supply fund was established by the Naval Appropriation Act for fiscal year 1943 approved February 7, 1942, 56 Stat. 73. Experience has clearly shown that it is advantageous to the Government to have permanent authorization for such a fund. 81st Congress, House Report No. 557.
 
 #### Amendments
 

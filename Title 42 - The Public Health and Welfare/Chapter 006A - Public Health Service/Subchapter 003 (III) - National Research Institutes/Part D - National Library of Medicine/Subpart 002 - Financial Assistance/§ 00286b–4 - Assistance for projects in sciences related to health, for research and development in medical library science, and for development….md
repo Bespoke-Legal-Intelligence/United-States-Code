@@ -28,7 +28,7 @@ The Secretary shall make grants to appropriate public or private nonprofit insti
 
 &emsp;(B) enhancing and improving the capabilities of health professionals regarding research and teaching.
 
-(July 1, 1944, ch. 373, title IV, §473, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 861; amended June 10, 1993, Pub. L. 103–43, title XIV, §1411, 107 Stat. 171.)
+(July 1, 1944, ch. 373, title IV, §473, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 861; amended Pub. L. 103–43, title XIV, §1411, June 10, 1993, 107 Stat. 171.)
 
 #### Amendments
 

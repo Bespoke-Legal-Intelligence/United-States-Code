@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Administrator is authorized to make grants pursuant to this section to any State,municipal, or interstate or intermunicipal agency for the demonstration of resource recovery systems or for the construction of new or improved solid waste disposal facilities.
+The Administrator is authorized to make grants pursuant to this section to any State, municipal, or interstate or intermunicipal agency for the demonstration of resource recovery systems or for the construction of new or improved solid waste disposal facilities.
 
 #### (b) Conditions
 

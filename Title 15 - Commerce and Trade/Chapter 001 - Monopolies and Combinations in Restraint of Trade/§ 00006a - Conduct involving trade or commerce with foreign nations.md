@@ -12,7 +12,7 @@ Sections 1 to 7 of this title shall not apply to conduct involving trade or comm
 
 > If sections 1 to 7 of this title apply to such conduct only because of the operation of paragraph (1)(B), then sections 1 to 7 of this title shall apply to such conduct only for injury to export business in the United States.
 
-(July 2, 1890, ch. 647, §7, as added Oct. 8, 1982, Pub. L. 97–290, title IV, §402, 96 Stat. 1246.)
+(July 2, 1890, ch. 647, §7, as added Pub. L. 97–290, title IV, §402, Oct. 8, 1982, 96 Stat. 1246.)
 
 #### Prior Provisions
 

@@ -102,11 +102,9 @@
 
 #### (b) Minimum allotments for States
 
-For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x of this title for a State for the fiscal year involved shall be the greater of—
+(1) <sup>1</sup>
 
-&emsp;(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
-
-&emsp;(2) an amount equal to 20.6 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act).
+In general.—With respect to fiscal year 1999, the amount of the allotment of a State under section 300x of this title shall not be less than the amount the State received under section 300x of this title for fiscal year 1998.
 
 #### (c) Territories
 
@@ -138,17 +136,17 @@ For each of the fiscal years 1993 and 1994, the amount of the allotment required
 
 #### (4) Availability of data on population
 
-&emsp;With respect to data on the civilian population of the territories of the United States, if the Secretary determines for a fiscal year that recent such data for purposes of paragraph (1)(B) do not exist regarding a territory,the Secretary shall for such purposes estimate the civilian population of the territory by modifying the data on the territory to reflect the average extent of change occurring during the ensuing period in the population of all territories with respect to which recent such data do exist.
+&emsp;With respect to data on the civilian population of the territories of the United States, if the Secretary determines for a fiscal year that recent such data for purposes of paragraph (1)(B) do not exist regarding a territory, the Secretary shall for such purposes estimate the civilian population of the territory by modifying the data on the territory to reflect the average extent of change occurring during the ensuing period in the population of all territories with respect to which recent such data do exist.
 
 #### (5) Applicability of certain provisions
 
 &emsp;For purposes of subsection (a) of this section, the term “State” does not include the territories of the United States.
 
-(July 1, 1944, ch. 373, title XIX, §1918, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 385; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(8), (9), 106 Stat. 938.)
+(July 1, 1944, ch. 373, title XIX, §1918, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 385; amended Pub. L. 102–352, §2(a)(8), (9), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362.)
 
-#### References in Text
+#### Amendment of Subsection (b)
 
-Section 205(a) of the ADAMHA Reorganization Act, referred to in subsec. (b)(2), is section 205(a) of Pub. L. 102–321, which is set out as a note under section 300x of this title.
+<i>For termination of amendment by section 101(f) \[title II, §218(c)\] of Pub. L. 105–277, see Effective and Termination Dates of 1998 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -158,9 +156,29 @@ A prior section 1918 of act July 1, 1944, was classified to section 300x–6 of 
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–277, temporarily amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x of this title for a State for the fiscal year involved shall be the greater of—
+
+&emsp;“(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
+
+&emsp;“(2) an amount equal to 20.6 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act).”
+
+> See Effective and Termination Dates of 1998 Amendment note below.
+
 1992—Subsec. (a)(5)(A)(iii). Pub. L. 102–352, §2(a)(8), substituted “45” for “25”.
 
 Subsec. (c)(2)(C). Pub. L. 102–352, §2(a)(9), added subpar. (C).
+
+#### Effective and Termination Dates of 1998 Amendment
+
+Pub. L. 105–277, div. A, §101(f) \[title II, §218(c)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–363, provided that:
+
+“(1)
+
+In general.—The amendments made by subsections (a) and (b) \[amending this section and section 300x–33 of this title\] shall become effective as if enacted on October 1, 1998 and shall only apply during fiscal year 1999.
+
+“(2)
+
+Application.—Upon the expiration of the fiscal year described in paragraph (1), the provisions of sections 1918(b) and 1933(b) of the Public Health Service Act (42 U.S.C. 300x–7(b) and 300x–33(b)), as in effect on September 30, 1998, shall be applied as if the amendments made by this section had not been enacted.”
 
 #### Effective Date of 1992 Amendments
 
@@ -169,4 +187,6 @@ Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendm
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300x, 300x–1, 300x–6, 300x–33, 300x–64 of this title.
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

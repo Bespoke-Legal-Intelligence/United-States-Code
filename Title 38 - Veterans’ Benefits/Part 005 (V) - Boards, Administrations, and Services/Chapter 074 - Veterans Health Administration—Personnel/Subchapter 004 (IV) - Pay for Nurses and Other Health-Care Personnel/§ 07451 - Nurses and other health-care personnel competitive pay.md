@@ -20,7 +20,7 @@
 
 (b) The Secretary shall maintain the five grade levels for nurses employed by the Department under section 7401(1) of this title as specified in the Nurse Schedule in section 7404(b) of this title. The Secretary shall, pursuant to regulations prescribed to carry out this subchapter, establish grades for other covered positions as the Secretary considers appropriate.
 
-(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g), provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
+(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g), provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
 (2) The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level V of the Executive Schedule under section 5316 of title 5.
 
@@ -44,7 +44,7 @@
 
 &emsp;(II) has used all available administrative authority with regard to collection of survey data; and
 
-&emsp;(III) makes a determination (under regulations prescribed by the Secretary) that suchsurvey methods are insufficient to permit the adjustments referred to in subparagraph (B) for such nurse anesthetists employed by the facility.
+&emsp;(III) makes a determination (under regulations prescribed by the Secretary) that such survey methods are insufficient to permit the adjustments referred to in subparagraph (B) for such nurse anesthetists employed by the facility.
 
 (ii) For the purposes of this subparagraph, certified registered nurse anesthetists who are so employed by such entities shall be deemed to be corresponding health-care professionals to the certified registered nurse anesthetists employed by the facility.
 
@@ -177,6 +177,32 @@ New Pay Rates.—The rates of basic pay established pursuant to section 4141 \[n
 #### Savings Provision
 
 Section 301(a) of Pub. L. 102–40 provided that: “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in section 4107(b) of title 38 \[former section 4107(b) of this title\], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”
+
+#### Report on Nurse Locality Pay
+
+Pub. L. 105–368, title IX, §905, Nov. 11, 1998, 112 Stat. 3361, provided that:
+
+“(a)
+
+Report Required.—(1) Not later than February 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report assessing the system of locality-based pay for nurses established under the Department of Veterans Affairs Nurse Pay Act of 1990 (Public Law 101–366) and now set forth in section 7451 of title 38, United States Code.
+
+“(2) The Secretary shall submit with the report under paragraph (1) a copy of the report on the locality pay system prepared by the contractor pursuant to a contract with Systems Flow, Inc., that was entered into on May 22, 1998.
+
+“(b)
+
+Matters To Be Included.—The report of the Secretary under subsection (a)(1) shall include the following:
+
+&emsp;“(1) An assessment of the effects of the locality-based pay system, including information, shown by facility and grade level, regarding the frequency and percentage increases, if any, in the rate of basic pay under that system of nurses employed in the Veterans Health Administration.
+
+&emsp;“(2) An assessment of the manner in which that system is being applied.
+
+&emsp;“(3) Plans and recommendations of the Secretary for administrative and legislative improvements or revisions to the locality pay system.
+
+&emsp;“(4) An explanation of the reasons for any decision not to adopt any recommendation in the report referred to in subsection (a)(2).
+
+“(c)
+
+Updated Report.—Not later than February 1, 2000, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report updating the report submitted under subsection (a)(1).”
 
 #### Ratification of Actions During Period of Expired Authority
 

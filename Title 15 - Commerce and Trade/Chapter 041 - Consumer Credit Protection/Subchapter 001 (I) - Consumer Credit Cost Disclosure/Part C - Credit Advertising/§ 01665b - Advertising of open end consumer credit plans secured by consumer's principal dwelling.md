@@ -22,7 +22,7 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (b) Tax deductibility
 
-If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to theplan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
+If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
 
 #### (c) Certain terms prohibited
 

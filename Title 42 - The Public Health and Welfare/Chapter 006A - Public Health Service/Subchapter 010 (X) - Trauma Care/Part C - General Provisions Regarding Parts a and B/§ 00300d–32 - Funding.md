@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $6,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $6,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2002.
 
 #### (b) Allocation of funds by Secretary
 
@@ -38,7 +38,7 @@ For the purpose of carrying out parts A and B of this subchapter, there are auth
 
 &emsp;Paragraph (1) may not be construed to require the Secretary to make a grant under such paragraph to each State.
 
-(July 1, 1944, ch. 373, title XII, §1232, as added Nov. 16, 1990, Pub. L. 101–590, §3, 104 Stat. 2927; amended July 10, 1992, Pub. L. 102–321, title VI, §602(3), 106 Stat. 436; Dec. 14, 1993, Pub. L. 103–183, title VI, §602, 107 Stat. 2239.)
+(July 1, 1944, ch. 373, title XII, §1232, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2927;amended Pub. L. 102–321, title VI, §602(3), July 10, 1992, 106 Stat. 436; Pub. L. 103–183, title VI, §602, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §§401(a)(2), 413, Nov. 13, 1998, 112 Stat. 3587, 3590.)
 
 #### References in Text
 
@@ -46,9 +46,17 @@ Section 300d–3 of this title, referred to in subsec. (b)(2), was in the origin
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–183, which directed the amendment of subsec. (a) by substituting “For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $6,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996” for “ ‘for the purpose’ and all that follows”, was executed by making the substitution for “For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $60,000,000 for fiscal year 1991 and such sums as may be necessary for each of the fiscal years 1992 and 1993” to reflect the probable intent of Congress because “for the purpose” did not appear in text.
+1998—Subsec. (a). Pub. L. 105–392, §413, substituted “through 2002” for “and 1996”.
+
+Pub. L. 105–392, §401(a)(2), amended directory language of Pub. L. 103–183. See 1993 Amendment note below.
+
+1993—Subsec. (a). Pub. L. 103–183, as amended by Pub. L. 105–392, §401(a)(2), substituted “For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $6,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996” for “For the purpose of carrying out parts A and B of this subchapter, there are authorized to be appropriated $60,000,000 for fiscal year 1991 and such sums as may be necessary for each of the fiscal years 1992 and 1993”.
 
 1992—Subsec. (a). Pub. L. 102–321 substituted “parts A and B of this subchapter” for “this subchapter”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 401(a)(2) of Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 #### Effective Date of 1992 Amendment
 

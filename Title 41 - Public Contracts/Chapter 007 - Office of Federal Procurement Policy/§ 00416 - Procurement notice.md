@@ -68,7 +68,7 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 &emsp;&emsp;(i) using widespread electronic public notice of the solicitation in a form that allows convenient and universal user access through a single, Government-wide point of entry; and
 
-&emsp;&emsp;(ii) permitting the public to respond to the solicitation electronically.
+&emsp;&emsp;(ii) permitting the public to respond to the solicitation electronically;
 
 &emsp;(B) the notice would disclose the executive agency's needs and the disclosure of such needs would compromise the national security;
 
@@ -94,13 +94,15 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 
-(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, div. A, title VIII, §850(e)(2), Nov. 18, 1997, 111 Stat. 1849.)
+(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, div. A, title VIII, §850(e)(2), Nov. 18, 1997, 111 Stat. 1849; Pub. L. 105–261, div. A, title X, §1069(d)(1), Oct. 17, 1998, 112 Stat. 2136.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1998—Subsec. (c)(1)(A)(ii). Pub. L. 105–261 substituted a semicolon for period at end.
 
 1997—Subsec. (c)(1). Pub. L. 105–85 added subpar. (A), redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpars. (A) and (B) which read as follows:
 
@@ -204,5 +206,5 @@ Section 303(c) of Pub. L. 98–577 provided that: “The provisions of the amend
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253, 253i, 253j, 427 of this title; title 10 sections 2304, 2304b, 2304c.
+This section is referred to in sections 253, 253i, 253j, 427 of this title; title 10 sections 2304, 2304b, 2304c; title 20 section 1018a.
 

@@ -32,7 +32,7 @@
 
 #### (1) Recommendations
 
-&emsp;The general management plan for the Recreation Area shall include the recommendations of the Bureau of Land Management as to the suitability or nonsuitability for preservation as wilderness those lands within the Recreation Area identified as the Mt. Stirling, La Madre Mountains, and Pine Creek Wilderness Study Areas on the Bureau of Land Management Wilderness Status Map, dated March 1990.
+&emsp;The general management plan for the Recreation Area shall include the recommendationsof the Bureau of Land Management as to the suitability or nonsuitability for preservation as wilderness those lands within the Recreation Area identified as the Mt. Stirling, La Madre Mountains, and Pine Creek Wilderness Study Areas on the Bureau of Land Management Wilderness Status Map, dated March 1990.
 
 #### (2) Management
 

@@ -58,11 +58,11 @@ Nothing in this part shall be construed as limiting the rights of a child with a
 
 &emsp;Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b) of this section.
 
-(July 1, 1944, ch. 373, title V, §565, as added July 10, 1992, Pub. L. 102–321, title I, §119, 106 Stat.356; amended June 10, 1993, Pub. L. 103–43, title XX, §2017(2), 107 Stat. 218.)
+(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr.13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 The Commissioner of Customs shall direct customs officers to conduct at random inspections of automobiles, and of shipping containers that may contain automobiles that are being exported, for purposes of determining whether such automobiles were stolen.
 
-(June 17, 1930, ch. 497, title IV, §646A, as added Oct. 25, 1992, Pub. L. 102–519, title IV, §401, 106 Stat. 3400.)
+(June 17, 1930, ch. 497, title IV, §646A, as added Pub. L. 102–519, title IV, §401, Oct. 25, 1992, 106 Stat. 3400.)
 
 #### Pilot Study Authorizing Utility of Nondestructive Examination System
 

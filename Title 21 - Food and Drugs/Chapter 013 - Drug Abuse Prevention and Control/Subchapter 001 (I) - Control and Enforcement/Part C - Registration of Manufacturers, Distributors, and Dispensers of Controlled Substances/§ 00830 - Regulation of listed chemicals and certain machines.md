@@ -22,7 +22,7 @@
 
 > Each report under subparagraph (A) shall be made at the earliest practicable opportunity after the regulated person becomes aware of the circumstance involved. A regulated person may not complete a transaction with a person whose description or identifying characteristic is furnished to the regulated person under subparagraph (B) unless the transaction is approved by the Attorney General. The Attorney General shall make available to regulated persons guidance documents describing transactions and circumstances for which reports are required under subparagraph (A) and subparagraph (C).
 
-(2) A regulated person that manufactures a listed chemical shall report annually to the Attorney General, in such form and manner and containing such specific data as the Attorney General shall prescribe by regulation, information concerning listed chemicals manufactured by the person. The requirement of the preceding sentence shall not apply to the manufacture of a drug product that is exempted under section 802(39)(A)(iv) of this title.
+(2) A regulated person that manufactures a listed chemical shall report annually to the Attorney General, in such form and manner andcontaining such specific data as the Attorney General shall prescribe by regulation, information concerning listed chemicals manufactured by the person. The requirement of the preceding sentence shall not apply to the manufacture of a drug product that is exempted under section 802(39)(A)(iv) of this title.
 
 (3)
 

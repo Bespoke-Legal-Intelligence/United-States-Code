@@ -8,7 +8,7 @@
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–372, Sept. 18, 1978, 92 Stat. 629, as amended, known as the Outer Continental Shelf Lands Act Amendments of 1978, which enacted this chapter, sections 1344 to 1356 of this title, and section 237 of Title 30, Mineral Lands and Mining, amended sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 1348 and 1811 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–372, Sept. 18, 1978, 92Stat. 629, as amended, known as the Outer Continental Shelf Lands Act Amendments of 1978, which enacted this chapter, sections 1344 to 1356 of this title, and section 237 of Title 30, Mineral Lands and Mining, amended sections 1331 to 1334, 1337, 1340, and 1343 of this title, sections 1456, 1456a, and 1464 of Title 16, Conservation, and section 6213 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 1348 and 1811 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (a), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
@@ -18,7 +18,7 @@ The Mining and Mineral Policy Act of 1970, referred to in subsec. (a), is Pub. L
 
 This Act, referred to in subsec. (b), is Pub. L. 95–372, Sept. 18, 1978, 92 Stat. 629, as amended. See note above.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III\(§1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of this title and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of this title and Tables.
 
 The Department of Energy Organization Act, referred to in subsec. (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
 

@@ -56,7 +56,7 @@ Report to Congress.—Not later than three years after the date of the enactment
 
 #### Expedited Treatment of Remanded Claims
 
-Pub. L. 103–446, title III, §302, Nov. 2, 1994, 108 Stat. 4658, provided that: “The Secretary of Veterans Affairsshall take such actions as may be necessary to provide for the expeditious treatment, by the Board of Veterans’ Appeals and by the regional offices of the Veterans Benefits Administration, of any claim that has been remanded by the Board of Veterans’ Appeals or by the United States Court of Veterans Appeals for additional development or other appropriate action.”
+Pub. L. 103–446, title III, §302, Nov. 2, 1994, 108 Stat. 4658, as amended by Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “The Secretary of Veterans Affairs shall take such actions as may be necessary to provide for the expeditious treatment, by the Board of Veterans’ Appeals and by the regional offices of the Veterans Benefits Administration, of any claim that has been remanded by the Board of Veterans’ Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action.”
 
 #### Veterans’ Claims Adjudication Commission
 

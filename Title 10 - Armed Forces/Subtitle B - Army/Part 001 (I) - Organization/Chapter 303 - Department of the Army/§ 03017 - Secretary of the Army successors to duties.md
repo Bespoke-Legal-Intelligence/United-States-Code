@@ -1,6 +1,6 @@
 ### §3017. Secretary of the Army: successors to duties
 
-If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 of title 5, directs another person to perform those duties or until the absence or disability ceases:
+If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 <sup>1</sup> of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
 &emsp;(1) The Under Secretary of the Army.
 
@@ -10,7 +10,7 @@ If the Secretary of the Army dies, resigns, is removed from office, is absent, o
 
 &emsp;(4) The Chief of Staff.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 159; Nov. 2, 1966, Pub. L. 89–718, §23, 80 Stat. 1118; Jan. 2, 1968, Pub. L. 90–235, §4(a)(7), 81 Stat. 759; Oct. 1, 1986, Pub. L. 99–433, title V, §501(a)(6), 100 Stat. 1038; Oct. 5, 1994, Pub. L. 103–337, div. A, title IX, §902(a), 108 Stat. 2823.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 159; Pub. L. 89–718, §23, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 90–235, §4(a)(7), Jan. 2, 1968, 81 Stat. 759; Pub. L. 99–433, title V, §501(a)(6), Oct. 1, 1986, 100 Stat. 1038; Pub. L. 103–337, div. A, title IX, §902(a), Oct. 5, 1994, 108 Stat. 2823.)
 
 Historical and Revision Notes
 
@@ -34,6 +34,10 @@ In subsection (a), the word “person” is substituted for the words “officer
 
 Subsection (b) is substituted for 5:181–5(c) and states the effect of section 3544(b) of this title.
 
+#### References in Text
+
+Section 3347 of title 5, referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See section 3345 of Title 5, Government Organization and Employees.
+
 #### Amendments
 
 1994—Pars. (3), (4). Pub. L. 103–337 added par. (3) and redesignated former par. (3) as (4).
@@ -46,7 +50,9 @@ Subsection (b) is substituted for 5:181–5(c) and states the effect of section 
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3347 of Title 5.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

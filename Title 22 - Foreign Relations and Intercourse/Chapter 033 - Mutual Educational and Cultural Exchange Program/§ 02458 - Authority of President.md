@@ -34,9 +34,11 @@ The United States Information and Educational Exchange Act of 1948, as amended, 
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as an Effective Date note under section 1469 of this title.
+Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 96–60, set out as a note under section 1471 of this title.
 
 #### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a)(2), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title.
 

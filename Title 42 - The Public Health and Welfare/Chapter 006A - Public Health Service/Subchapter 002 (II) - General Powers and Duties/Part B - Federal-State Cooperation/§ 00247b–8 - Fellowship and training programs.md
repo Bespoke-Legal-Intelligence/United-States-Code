@@ -2,7 +2,7 @@
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish fellowship and training programs to be conducted by such Centers to train individuals to develop skills in epidemiology, surveillance, laboratory analysis, and other disease detection and prevention methods. Such programs shall be designed to enable health professionals and health personnel trained under such programs to work, after receiving such training, in local, State, national, and international efforts toward the prevention and control of diseases, injuries, and disabilities. Such fellowships and training may be administered through the use of either appointment or nonappointment procedures.
 
-(July 1, 1944, ch. 373, title III, §317G, as added Nov. 21, 1997, Pub. L. 105–115, title IV, §408(b)(1), 111 Stat. 2371.)
+(July 1, 1944, ch. 373, title III, §317G, as added Pub. L. 105–115, title IV, §408(b)(1), Nov. 21, 1997, 111 Stat. 2371.)
 
 #### Effective Date
 

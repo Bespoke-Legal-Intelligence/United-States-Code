@@ -14,7 +14,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (d) Collection of fees
 
-The Administration shall not collect any fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
+The Administration shall not collect any fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent ofthe Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
 
 #### (e) Subrogation rights; ownership rights in debentures
 

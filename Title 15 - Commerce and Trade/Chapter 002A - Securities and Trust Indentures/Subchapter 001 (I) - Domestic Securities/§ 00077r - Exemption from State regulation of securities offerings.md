@@ -26,11 +26,11 @@ For purposes of this section, the following are covered securities:
 
 &emsp;A security is a covered security if such security is—
 
-&emsp;&emsp;(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
+&emsp;&emsp;(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
 
 &emsp;&emsp;(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
 
-&emsp;&emsp;(C) is a security of the same issuer that is equal in seniority or that is a senior securityto a security described in subparagraph (A) or (B).
+&emsp;&emsp;(C) is a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
 
 #### (2) Exclusive Federal registration of investment companies
 
@@ -48,7 +48,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;&emsp;(B) section 77d(4) of this title;
 
-&emsp;&emsp;(C) section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4) or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
+&emsp;&emsp;(C) section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
 
 &emsp;&emsp;(D) Commission rules or regulations issued under section 77d(2) of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) of this title that are in effect on September 1, 1996.
 
@@ -72,7 +72,7 @@ For purposes of this section, the following are covered securities:
 
 #### (ii) Schedule
 
-&emsp;&emsp;&emsp;The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
+&emsp;&emsp;&emsp;The fees required by this subparagraph shall be paid, and all necessary supportingdata on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
 
 #### (C) Availability of preemption contingent on payment of fees
 
@@ -100,13 +100,13 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “offering document”—
 
-&emsp;&emsp;(A) has the meaning given the term “prospectus” in section 77b(10) of this title,<sup>1</sup> but without regard to the provisions of subparagraphs (A) and (B) of that section; and
+&emsp;&emsp;(A) has the meaning given the term “prospectus” in section 77b(a)(10) of this title, but without regard to the provisions of subparagraphs (a) and (b) of that section; and
 
 &emsp;&emsp;(B) includes a communication that is not deemed to offer a security pursuant to a rule of the Commission.
 
 #### (2) Prepared by or on behalf of the issuer
 
-&emsp;Not later than 6 months after October 11, 1996,<sup>1</sup> the Commission shall, by rule, define the term “prepared by or on behalf of the issuer” for purposes of this section.
+&emsp;Not later than 6 months after October 11, 1996, the Commission shall, by rule, define the term “prepared by or on behalf of the issuer” for purposes of this section.
 
 #### (3) State
 
@@ -114,19 +114,27 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Senior security
 
-&emsp;For purposes of this paragraph, the term “senior security” means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
+&emsp;The term “senior security” means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
-(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Oct. 11, 1996, Pub. L. 104–290, title I, §102(a), 110 Stat. 3417.)
+(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237.)
 
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-Section 77b(10) of this title, referred to in subsec. (d)(1)(A), was redesignated section 77b(a)(10) of this title by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
-
-October 11, 1996, referred to in subsec. (d)(2), was in the original “the date of enactment of the Securities Amendments Act of 1996”, and was translated as meaning the date of enactment of the National Securities Markets Improvement Act of 1996 which amended this section generally, to reflect the probable intent of Congress.
-
 #### Amendments
+
+1998—Subsec. (b)(1)(A). Pub. L. 105–353, §301(a)(4)(A), inserted “, or authorized for listing,” after “Exchange, or listed”.
+
+Subsec. (b)(4)(C). Pub. L. 105–353, §302, substituted “paragraph (4), (10), or (11)” for “paragraph (4) or (11)”.
+
+Subsec. (c)(2)(B)(i), (C)(i). Pub. L. 105–353, §301(a)(4)(B), (C), made technical amendments to references in original act which appear in text as references to October 11, 1996.
+
+Subsec. (d)(1)(A). Pub. L. 105–353, §301(a)(4)(D), substituted “section 77b(a)(10)” for “section 77b(10)” and “subparagraphs (a) and (b)” for “subparagraphs (A) and (B)”.
+
+Subsec. (d)(2). Pub. L. 105–353, §301(a)(4)(E), made technical amendment to reference in original act which appears in text as reference to October 11, 1996.
+
+Subsec. (d)(4). Pub. L. 105–353, §301(a)(4)(F), substituted “The term” for “For purposes of this paragraph, the term”.
 
 1996—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
 
@@ -150,5 +158,7 @@ Jurisdiction of other tribunals unaffected insofar as not in conflict with—
 
 &emsp;&emsp;Trust Indenture Act of 1939, see section 77zzz of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 77p, 78bb of this title.
 

@@ -1,0 +1,6 @@
+### §6471. Use of Annual Report
+
+The Annual Report, together with other relevant documentation, shall serve as a resource for immigration judges and consular, refugee, and asylum officers in cases involving claims of persecution on the grounds of religion. Absence of reference by the Annual Report to conditions described by the alien shall not constitute the sole grounds for a denial of the alien's claim.
+
+(Pub. L. 105–292, title VI, §601, Oct. 27, 1998, 112 Stat. 2812.)
+

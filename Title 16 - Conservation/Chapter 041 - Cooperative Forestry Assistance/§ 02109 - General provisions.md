@@ -68,7 +68,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2103 of this title.
+This section is referred to in sections 2103, 2106b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

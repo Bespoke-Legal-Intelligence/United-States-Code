@@ -2,7 +2,7 @@
 
 Upon a report by a customs officer, United States attorney, or any special attorney, having charge of any claim arising under the customs laws, showing the facts upon which such claim is based, the probabilities of a recovery and the terms upon which the same may be compromised, the Secretary of the Treasury is authorized to compromise such claim, if such action shall be recommended by the General Counsel for the Department of the Treasury.
 
-(June 17, 1930, ch. 497, title IV, §617, 46 Stat. 757; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; June 25, 1948, ch. 646, §1, 62 Stat. 869; June 2, 1970, Pub. L. 91–271, title III, §301(gg), 84 Stat. 291.)
+(June 17, 1930, ch. 497, title IV, §617, 46 Stat. 757; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; June 25, 1948, ch. 646, §1, 62 Stat. 869; Pub. L. 91–271, title III, §301(gg), June 2, 1970, 84 Stat. 291.)
 
 #### References in Text
 

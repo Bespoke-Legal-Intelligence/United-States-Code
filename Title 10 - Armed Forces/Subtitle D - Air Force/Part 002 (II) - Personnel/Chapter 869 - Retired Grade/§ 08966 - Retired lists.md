@@ -12,7 +12,7 @@
 
 (d) The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 556; Sept. 2, 1958, Pub. L. 85–861, §1(199), 72 Stat. 1541; Dec. 4, 1987, Pub. L. 100–180, div. A, title V, §512(d)(3), 101 Stat. 1090.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 556; Pub. L. 85–861, §1(199), Sept. 2, 1958, 72 Stat. 1541; Pub. L. 100–180, div. A, title V, §512(d)(3), Dec. 4, 1987, 101 Stat. 1090.)
 
 Historical and Revision Notes<br>1956
 

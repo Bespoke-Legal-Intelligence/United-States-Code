@@ -1,6 +1,6 @@
 ### §191. Geographic scope of censuses
 
-(a) Each of the censuses authorized by this chapter shall include each State, the District ofColumbia, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Commonwealth of Puerto Rico, and as may be determined by the Secretary, such other possessions and areas over which the United States exercises jurisdiction, control, or sovereignty. Inclusion of other areas over which the United States exercises jurisdiction or control shall be subject to the concurrence of the Secretary of State.
+(a) Each of the censuses authorized by this chapter shall include each State, the District of Columbia, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Commonwealth of Puerto Rico, and as may be determined by the Secretary, such other possessions and areas over which the United States exercises jurisdiction, control, or sovereignty. Inclusion of other areas over which the United States exercises jurisdiction or control shall be subject to the concurrence of the Secretary of State.
 
 (b) For censuses taken in the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or any possession or area not specifically designated in subsection (a) of this section, the Secretary may use census information collected by the Governor or highest ranking Federal official, if such information was obtained in accordance with plans prescribed or approved by the Secretary.
 

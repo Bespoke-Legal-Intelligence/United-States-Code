@@ -7,8 +7,6 @@
 | [4401\.](Subchapter%20001%20%28I%29%20-%20The%20Asia%20Foundation/%C2%A7%2004401%20-%20Findings.md) | Findings. |
 | [4402\.](Subchapter%20001%20%28I%29%20-%20The%20Asia%20Foundation/%C2%A7%2004402%20-%20Grants%3B%20authorization%3B%20purposes%3B%20terms%20and%20conditions%3B%20deposit%20of%20interest.md) | Grants; authorization; purposes; terms and conditions; deposit of interest. |
 | [4403\.](Subchapter%20001%20%28I%29%20-%20The%20Asia%20Foundation/%C2%A7%2004403%20-%20Funding.md) | Funding. |
-| (a) | Authorization of appropriations. |
-| (b) | Allocation of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +40,7 @@
 | (a) | Compliance with Freedom of Information Act. |
 | (b) | Publication in Federal Register. |
 | (c) | Review by United States Information Agency. |
+| [4416\.](Subchapter%20002%20%28II%29%20-%20National%20Endowment%20for%20Democracy/%C2%A7%2004416%20-%20Retention%20of%20interest.md) | Retention of interest. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

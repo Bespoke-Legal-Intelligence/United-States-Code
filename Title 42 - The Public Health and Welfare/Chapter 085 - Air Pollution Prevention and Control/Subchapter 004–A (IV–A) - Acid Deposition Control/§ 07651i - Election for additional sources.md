@@ -18,7 +18,7 @@ Not later than 18 months after November 15, 1990, the Administrator shall establ
 
 #### (e) Allowances and permits
 
-The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d) of this section, in accordance with section 7651b of this title. Suchallowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651<i>l</i>, and 7651m of this title.
+The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d) of this section, in accordance with section 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651<i>l</i>, and 7651m of this title.
 
 #### (f) Limitation
 
@@ -60,7 +60,7 @@ The Administrator shall issue allowances to owners or operators of small diesel 
 
 &emsp;The Administrator shall not allocate any allowances pursuant to this subsection unless the owner or operator of a small diesel refinery shall have certified, at a time and in a manner prescribed by the Administrator, that all motor diesel fuel produced by the refinery for which allowances are claimed, including motor diesel fuel for off-highway use, shall have met the requirements of subsection <sup>1</sup> 1545(i) of this title.
 
-(July 14, 1955, ch. 360, title IV, §410, as added Nov. 15, 1990, Pub. L. 101–549, title IV, §401, 104 Stat. 2621.)
+(July 14, 1955, ch. 360, title IV, §410, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2621.)
 
 #### Section Referred to in Other Sections
 

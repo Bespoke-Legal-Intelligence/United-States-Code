@@ -36,7 +36,7 @@ An employee of the Capitol Guide Service shall not charge or accept any fee, or 
 
 #### (f) Personnel detail
 
-The Capitol Guide Board may detail personnel of the Capitol Guide Service to assist the United States Capitol Police by providing ushering and informational services, and other services not directly involving law enforcement, in connection with the inauguration of the President and Vice President of the United States, the official reception of representatives of foreign nations and other persons by the Senate or House of Representatives, and other special or ceremonial occasions in the United States Capitol Buildingor on the United States Capitol Grounds which require the presence of additional Government personnel and which cause the temporary suspension of the performance of the regular duties of the Capitol Guide Service.
+The Capitol Guide Board may detail personnel of the Capitol Guide Service to assist the United States Capitol Police by providing ushering and informational services, and other services not directly involving law enforcement, in connection with the inauguration of the President and Vice President of the United States, the official reception of representatives of foreign nations and other persons by the Senate or House of Representatives, and other special or ceremonial occasions in the United States Capitol Building or on the United States Capitol Grounds which require the presence of additional Government personnel and which cause the temporary suspension of the performance of the regular duties of the Capitol Guide Service.
 
 #### (g) Historical and educational information
 
@@ -78,7 +78,7 @@ Pub. L. 104–186, §221(17)(B), struck out subsec. (j) which read as follows: �
 
 #### Change of Name
 
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1977 Amendment
 
@@ -104,7 +104,7 @@ Section 443 of Pub. L. 91–510 provided that:
 
 “(b) The United States Capitol Police Board shall transfer, on the effective date of this section, to the Capitol Guide Board, all personnel records, financial records, assets, and other property of the United States Capitol Guides, which exist immediately prior to such effective date.
 
-“(c) As soon as practicable after the effective date of this section but not later than the close of the sixtiethday after such effective date, the Capitol Guide Board shall, out of the assets and property transferred under subsection (b) of this section, on the basis of a special audit which shall be conducted by the General Accounting Office—
+“(c) As soon as practicable after the effective date of this section but not later than the close of the sixtieth day after such effective date, the Capitol Guide Board shall, out of the assets and property transferred under subsection (b) of this section, on the basis of a special audit which shall be conducted by the General Accounting Office—
 
 &emsp;“(1) settle and pay any outstanding accounts payable of the United States Capitol Guides,
 

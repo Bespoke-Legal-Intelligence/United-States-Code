@@ -44,9 +44,9 @@ For purposes of this section, the term “academic health center” means a scho
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1998.
+For the purpose of carrying out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2003.
 
-(July 1, 1944, ch. 373, title XVII, §1706, as added Oct. 30, 1984, Pub. L. 98–551, §2(d), 98 Stat. 2816; amended Nov. 4, 1988, Pub. L. 100–607, title III, §312(a)(2), 102 Stat. 3113; Nov. 26, 1991, Pub. L. 102–168, title I, §102, 105 Stat. 1102; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(12), 106 Stat. 3505; Dec. 14, 1993, Pub. L. 103–183, title VII, §705(d), 107 Stat. 2241.)
+(July 1, 1944, ch. 373, title XVII, §1706, as added Pub. L. 98–551, §2(d), Oct. 30, 1984, 98 Stat. 2816; amended Pub. L. 100–607, title III, §312(a)(2), Nov. 4, 1988, 102 Stat. 3113; Pub. L. 102–168, title I, §102, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §312(d)(12), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–183, title VII, §705(d), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–340, title II, §204, Oct. 31, 1998, 112 Stat. 3195.)
 
 #### References in Text
 
@@ -57,6 +57,8 @@ Section 292a of this title, referred to in subsec. (d), was in the original a re
 A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 700; amended Nov. 10, 1978, Pub. L. 95–626, title V, §501, 92 Stat. 3592; Jan. 4, 1983, Pub. L. 97–414, §8(r), 96 Stat. 2062, related to establishment of the Office of Health Promotion, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Amendments
+
+1998—Subsec. (e). Pub. L. 105–340 substituted “2003” for “1998”.
 
 1993—Subsec. (e). Pub. L. 103–183 substituted “through 1998” for “through 1996”.
 
@@ -138,7 +140,7 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No.12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

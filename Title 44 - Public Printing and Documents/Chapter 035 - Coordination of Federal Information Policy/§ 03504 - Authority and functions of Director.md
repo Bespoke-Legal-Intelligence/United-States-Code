@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(v) privacy, confidentiality, security, disclosure, and sharing of information; and
 
-&emsp;&emsp;(vi) the acquisition and use of information technology.
+&emsp;&emsp;(vi) the acquisition and use of information technology, including alternative information technologies that provide for electronic submission, maintenance, or disclosure of information as a substitute for paper and for the use and acceptance of electronic signatures.
 
 (2) The authority of the Director under this chapter shall be exercised consistent with applicable law.
 
@@ -140,7 +140,7 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749.)
 
 #### References in Text
 
@@ -155,6 +155,8 @@ A prior section 3504, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a central collection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
 
 #### Amendments
+
+1998—Subsec. (a)(1)(B)(vi). Pub. L. 105–277 amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “the acquisition and use of information technology.”
 
 1997—Subsecs. (g)(2), (3), (h)(1)(B). Pub. L. 105–85, §1073(h)(5)(C), substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
 
@@ -171,6 +173,100 @@ Subsec. (h)(2). Pub. L. 104–106, §5605(c), substituted “the Information Tec
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+
+#### Government Paperwork Elimination
+
+Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, provided that:
+
+#### “SEC. 1701. SHORT TITLE.
+
+“This title may be cited as the ‘Government Paperwork Elimination Act’.
+
+#### “SEC. 1702. AUTHORITY OF OMB TO PROVIDE FOR ACQUISITION AND USE OF ALTERNATIVE INFORMATION TECHNOLOGIES BY EXECUTIVE AGENCIES.
+
+“\[Amended this section.\]
+
+#### “SEC. 1703. PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES BY EXECUTIVE AGENCIES.
+
+“(a)
+
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment notes set out under 40 U.S.C. 1401 and 41 U.S.C. 251\] (divisions D and E of Public Law 104–106) and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+
+“(b)
+
+Requirements for Procedures.—(1) The procedures developed under subsection (a)—
+
+&emsp;“(A) shall be compatible with standards and technology for electronic signatures that are generally used in commerce and industry and by State governments;
+
+&emsp;“(B) may not inappropriately favor one industry or technology;
+
+&emsp;“(C) shall ensure that electronic signatures are as reliable as is appropriate for the purpose in question and keep intact the information submitted;
+
+&emsp;“(D) shall provide for the electronic acknowledgment of electronic forms that are successfully submitted; and
+
+&emsp;“(E) shall, to the extent feasible and appropriate, require an Executive agency that anticipates receipt by electronic means of 50,000 or more submittals of a particular form to take all steps necessary to ensure that multiple methods of electronic signatures are available for the submittal of such form.
+
+“(2) The Director shall ensure the compatibility of the procedures under paragraph (1)(A) in consultation with appropriate private bodies and State government entities that set standards for the use and acceptance of electronic signatures.
+
+#### “SEC. 1704. DEADLINE FOR IMPLEMENTATION BY EXECUTIVE AGENCIES OF PROCEDURES FOR USE AND ACCEPTANCE OF ELECTRONIC SIGNATURES.
+
+“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment notes set out under 40 U.S.C. 1401 and 41 U.S.C. 251\] (divisions D and E of Public Law 104–106) and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall ensure that, commencing not later than five years after the date of enactment of this Act \[Oct. 21, 1998\], Executive agencies provide—
+
+&emsp;“(1) for the option of the electronic maintenance, submission, or disclosure of information, when practicable as a substitute for paper; and
+
+&emsp;“(2) for the use and acceptance of electronic signatures, when practicable.
+
+#### “SEC. 1705. ELECTRONIC STORAGE AND FILING OF EMPLOYMENT FORMS.
+
+“In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment notes set out under 40 U.S.C. 1401 and 41 U.S.C. 251\] (divisions D and E of Public Law 104–106) and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures to permit private employers to store and file electronically with Executive agencies forms containing information pertaining to the employees of such employers.
+
+#### “SEC. 1706. STUDY ON USE OF ELECTRONIC SIGNATURES.
+
+“(a)
+
+Ongoing Study Required.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment notes set out under 40 U.S.C. 1401 and 41 U.S.C. 251\] (divisions D and E of Public Law 104–106) and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—
+
+&emsp;“(1) paperwork reduction and electronic commerce;
+
+&emsp;“(2) individual privacy; and
+
+&emsp;“(3) the security and authenticity of transactions.
+
+“(b)
+
+Reports.—The Director shall submit to Congress on a periodic basis a report describing the results of the study carried out under subsection (a).
+
+#### “SEC. 1707. ENFORCEABILITY AND LEGAL EFFECT OF ELECTRONIC RECORDS.
+
+“Electronic records submitted or maintained in accordance with procedures developed under this title, or electronic signatures or other forms of electronic authentication used in accordance with such procedures, shall not be denied legal effect, validity, or enforceability because such records are in electronic form.
+
+#### “SEC. 1708. DISCLOSURE OF INFORMATION.
+
+“Except as provided by law, information collected in the provision of electronic signature services for communications with an executive agency, as provided by this title, shall only be used or disclosed by persons who obtain, collect, or maintain such information as a business or government practice, for the purpose of facilitating such communications, or with the prior affirmative consent of the person about whom the information pertains.
+
+#### “SEC. 1709. APPLICATION WITH INTERNAL REVENUE LAWS.
+
+“No provision of this title shall apply to the Department of the Treasury or the Internal Revenue Service to the extent that such provision—
+
+&emsp;“(1) involves the administration of the internal revenue laws; or
+
+&emsp;“(2) conflicts with any provision of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206, see Tables for classification\] or the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\].
+
+#### “SEC. 1710. DEFINITIONS.
+
+“For purposes of this title:
+
+&emsp;“(1)
+
+Electronic signature.—The term ‘electronic signature’ means a method of signing an electronic message that—
+
+&emsp;&emsp;“(A) identifies and authenticates a particular person as the source of the electronic message; and
+
+&emsp;&emsp;“(B) indicates such person's approval of the information contained in the electronic message.
+
+&emsp;“(2)
+
+Executive agency.—The term ‘Executive agency’ has the meaning given that term in section 105 of title 5, United States Code.”
 
 #### Section Referred to in Other Sections
 

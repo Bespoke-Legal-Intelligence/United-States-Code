@@ -74,5 +74,5 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1718 of this title.
+This section is referred to in section 1718 of this title; title 10 section 1076c.
 

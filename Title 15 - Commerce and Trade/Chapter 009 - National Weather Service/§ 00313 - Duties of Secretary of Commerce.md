@@ -82,7 +82,7 @@ Pub. L. 102–567, title VII, Oct. 29, 1992, 106 Stat. 4303, provided that:
 
 &emsp;“(1) ‘automate’ means to replace employees with automated weather service equipment;
 
-&emsp;“(2) ‘change operations at a field office’ means transfer service responsibility, commission weather observation systems, decommission a NationalWeather Service radar, change staffing levels significantly, or move a field office to a new location inside the local commuting and service area;
+&emsp;“(2) ‘change operations at a field office’ means transfer service responsibility, commission weather observation systems, decommission a National Weather Service radar, change staffing levels significantly, or move a field office to a new location inside the local commuting and service area;
 
 &emsp;“(3) ‘Committee’ means the Modernization Transition Committee established by section 707;
 
@@ -318,7 +318,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 “Since our Nation's economy—its agriculture, aviation, ocean shipping and construction—is heavily affected by weather and our ability to forecast and disseminate vital information about its behavior: Now, therefore,
 
-“It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
+“It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can workclosely with the private sector, other Federal and State government agencies, and the weather services of other nations.
 
 “Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval.”
 
@@ -328,7 +328,7 @@ Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96�
 
 “
 
-Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expendituresfor the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[section 5 of Title 41, Public Contracts\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
+Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[section 5 of Title 41, Public Contracts\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
 
 “
 

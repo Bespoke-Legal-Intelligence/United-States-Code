@@ -40,7 +40,7 @@ The Organization may not adopt or use any existing symbol, emblem, trademark, or
 
 #### Contingent Repeal
 
-<i>Section repealed if within 2 years after Oct. 11, 1996, United States National Tourism Orga</i><i>nization Board has not developed and implemented comprehensive plan for long-term financing of United States National Tourism Organization, see section 2141e(a) of this title.</i>
+<i>Section repealed if within 2 years after Oct. 11, 1996, United States National Tourism Organization Board has not developed and implemented comprehensive plan for long-term financing of United States National Tourism Organization, see section 2141e(a) of this title.</i>
 
 #### References in Text
 

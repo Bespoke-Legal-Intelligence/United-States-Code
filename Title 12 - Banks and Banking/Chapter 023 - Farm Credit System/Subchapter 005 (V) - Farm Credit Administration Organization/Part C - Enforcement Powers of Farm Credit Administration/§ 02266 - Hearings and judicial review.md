@@ -12,7 +12,7 @@ Any party to the proceeding, or any person required by an order issued under thi
 
 The commencement of proceedings for judicial review under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Farm Credit Administration.
 
-(Pub. L. 92–181, title V, §5.30, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1699; amended Pub. L. 100–233, title VIII, §805(cc), Jan. 6, 1988, 101 Stat. 1717.)
+(Pub. L. 92–181, title V, §5.30, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1699;amended Pub. L. 100–233, title VIII, §805(cc), Jan. 6, 1988, 101 Stat. 1717.)
 
 #### Prior Provisions
 

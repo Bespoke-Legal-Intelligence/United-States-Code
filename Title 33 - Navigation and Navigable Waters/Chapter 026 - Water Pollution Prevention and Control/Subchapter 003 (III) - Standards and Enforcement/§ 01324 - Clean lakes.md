@@ -22,11 +22,7 @@
 
 &emsp;The information required under paragraph (1) shall be included in the report required under section 1315(b)(1) of this title, beginning with the report required under such section by April 1, 1988.
 
-#### (3) Report of Administrator
-
-&emsp;Not later than 180 days after receipt from the States of the biennial information required under paragraph (1), the Administrator shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the status of water quality in lakes in the United States, including the effectiveness of the methods and procedures described in paragraph (1)(D).
-
-#### (4) Eligibility requirement
+#### (3) Eligibility requirement
 
 &emsp;Beginning after April 1, 1988, a State must have submitted the information required under paragraph (1) in order to receive grant assistance under this section.
 
@@ -54,7 +50,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 &emsp;&emsp;(D) demonstrate environmentally preferred techniques for the removal and disposal of contaminated lake sediments;
 
-&emsp;&emsp;(E) develop improved methods for the removal of silt, stumps, aquatic growth, andother obstructions which impair the quality of lakes;
+&emsp;&emsp;(E) develop improved methods for the removal of silt, stumps, aquatic growth, and other obstructions which impair the quality of lakes;
 
 &emsp;&emsp;(F) construct and evaluate silt traps and other devices or equipment to prevent or abate the deposit of sediment in lakes; and
 
@@ -88,9 +84,11 @@ The Administrator shall provide financial assistance to States in order to carry
 
 &emsp;&emsp;&emsp;The amount of any grant to a State under this subparagraph shall be in addition to, and not in lieu of, any other Federal financial assistance.
 
-(June 30, 1948, ch. 758, title III, §314, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, §1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, §302, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, §2021(c), Dec. 21, 1995, 109 Stat. 727.)
+(June 30, 1948, ch. 758, title III, §314, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§4(f), 62(a), Dec. 27, 1977, 91 Stat. 1567, 1598; Pub. L. 96–483, §1(f), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(g), title III, §315(a), (b), (d), Feb. 4, 1987, 101 Stat. 9, 49, 50, 52; Pub. L. 101–596, title III, §302, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 104–66, title II, §2021(c), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, §501(b), Nov. 10, 1998, 112 Stat. 3283.)
 
 #### Amendments
+
+1998—Subsec. (a)(3), (4). Pub. L. 105–362 redesignated par. (4) as (3) and struck out heading and text of par. (3). Text read as follows: “Not later than 180 days after receipt from the States of the biennial information required under paragraph (1), the Administrator shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the status of water quality in lakes in the United States, including the effectiveness of the methods and procedures described in paragraph (1)(D).”
 
 1995—Subsec. (d)(3). Pub. L. 104–66 substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure” for “The Administrator shall report annually to the Committee on Public Works and Transportation”.
 
@@ -117,10 +115,6 @@ Subsec. (d). Pub. L. 100–4, §315(b), added subsec. (d).
 1977—Subsec. (b). Pub. L. 95–217, §62(a), inserted provision directing the Administrator to provide financial assistance to States to prepare the identification and classification surveys required in subsec. (a)(1) of this section.
 
 Subsec. (c)(2). Pub. L. 95–217, §4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
-
-#### Change of Name
-
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

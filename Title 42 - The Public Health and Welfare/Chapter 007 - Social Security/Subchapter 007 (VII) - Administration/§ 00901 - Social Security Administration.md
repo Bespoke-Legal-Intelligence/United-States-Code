@@ -4,7 +4,7 @@
 
 (b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter.
 
-(Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat. 558; Aug. 15, 1994, Pub. L. 103–296, title I, §101, 108 Stat. 1465.)
+(Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat. 558; Pub. L. 103–296, title I, §101, Aug. 15, 1994, 108 Stat. 1465.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ In general.—Subject to subparagraph (B), the Social Security Administration sh
 
 &emsp;&emsp;“(B)
 
-Rules governing continuation of functions in the administration.—The Social Security Administration shall perform, on behalf of the Secretary of Health and Human Services (or the head of any other agency, as applicable), the functions described in subparagraph (A) in accordance with the same financial and other terms in effect on the day before the date of the enactment of this Act, except to the extent that the Commissioner and the Secretary (or other agency head, as applicable) agree to alter such terms pertaining to any such function or to terminate the performance by the Social Security Administration of any such function.
+Rules governing continuation of functions in the administration.—The Social Security Administration shall perform, on behalf of the Secretary of Health and Human Services (or the head of any other agency, as applicable), the functions described in subparagraph (A) in accordance withthe same financial and other terms in effect on the day before the date of the enactment of this Act, except to the extent that the Commissioner and the Secretary (or other agency head, as applicable) agree to alter such terms pertaining to any such function or to terminate the performance by the Social Security Administration of any such function.
 
 “(b)
 
@@ -76,7 +76,7 @@ In general.—During the 1-year period beginning March 31, 1995—
 
 Special rules.—
 
-&emsp;&emsp;&emsp;“(i) In the case of personnel whose duty station is in the Washington, District of Columbia, commuting area immediately before March 31, 1995, subparagraph (A)(ii) shall not apply with respectto directed reassignment to a duty station in the Baltimore, Maryland, commuting area after September 30, 1995.
+&emsp;&emsp;&emsp;“(i) In the case of personnel whose duty station is in the Washington, District of Columbia, commuting area immediately before March 31, 1995, subparagraph (A)(ii) shall not apply with respect to directed reassignment to a duty station in the Baltimore, Maryland, commuting area after September 30, 1995.
 
 &emsp;&emsp;&emsp;“(ii) In the case of personnel whose duty station is in the Baltimore, Maryland, commuting area immediately before March 31, 1995, subparagraph (A)(ii) shall not apply with respect to directed reassignment to a duty station in the Washington, District of Columbia, commuting area after September 30, 1995.
 
@@ -176,7 +176,7 @@ Section 109 of title I of Pub. L. 103–296 provided that:
 
 “(a)
 
-References to the Department of Health and Human Services.—Whenever any reference is made in any provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[subchapter II of this chapter\] or the supplemental security income program under title XVI of such Act \[subchapter XVI of this chapter\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
+References to the Department of Health and Human Services.—Whenever any reference is made in any provision of law (other than this title \[see Tables for classification\] or a provision of law amended by this title), regulation, rule, record, or document to the Department of Health and Human Services with respect to such Department's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act \[subchapter II of this chapter\] or the supplemental security income programunder title XVI of such Act \[subchapter XVI of this chapter\] or other functions performed by the Social Security Administration pursuant to section 105(a)(2) of this Act \[set out above\], such reference shall be considered a reference to the Social Security Administration.
 
 “(b)
 

@@ -36,7 +36,7 @@ Purpose.—The purpose of this Act is to improve the management of the lands loc
 
 “(a)
 
-Conveyance.—Subject to valid existing rights and the provisions of this Act, the Secretary of Agriculture (hereinafter in this Act referred to as the ‘Secretary’) is authorized and directed to convey all right,title, and interest of the United States in and to lands and interests therein within the Calaveras Big Trees National Forest, as generally depicted on a map numbered 20435 and dated June 5, 1989, prepared by the California Department of Parks and Recreation, to the State of California for inclusion within the Calaveras Big Trees State Park.
+Conveyance.—Subject to valid existing rights and the provisions of this Act, the Secretary of Agriculture (hereinafter in this Act referred to as the ‘Secretary’) is authorized and directed to convey all right, title, and interest of the United States in and to lands and interests therein within the Calaveras Big Trees National Forest, as generally depicted on a map numbered 20435 and dated June 5, 1989, prepared by the California Department of Parks and Recreation, to the State of California for inclusion within the Calaveras Big Trees State Park.
 
 “(b)
 

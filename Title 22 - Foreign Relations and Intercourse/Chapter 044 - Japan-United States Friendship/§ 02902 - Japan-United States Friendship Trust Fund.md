@@ -22,7 +22,7 @@ Amounts in the Fund shall be used for the promotion of scholarly, cultural, and 
 
 #### (c) Use of amounts in Fund for administrative expenses of Japan-United States Friendship Commission
 
-Amounts in the Fund may also be used to pay administrative expenses of the Japan-United States Friendship Commission, established by section 2903 of this title, as directed by that Commission.
+Amounts in the Fund may also be used to pay administrative expenses of the Japan-UnitedStates Friendship Commission, established by section 2903 of this title, as directed by that Commission.
 
 #### (d) Authorization of appropriations; source of amounts
 
@@ -44,5 +44,5 @@ There is authorized to be appropriated to the Fund, for fiscal year 1976, an amo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2904 to 2906 of this title.
+This section is referred to in sections 2904, 2906 of this title.
 

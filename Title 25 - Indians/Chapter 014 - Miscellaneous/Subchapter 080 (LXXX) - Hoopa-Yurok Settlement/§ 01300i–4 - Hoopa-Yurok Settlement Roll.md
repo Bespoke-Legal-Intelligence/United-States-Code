@@ -10,7 +10,7 @@
 
 &emsp;(C) who were not, on August 8, 1988, enrolled members of the Hoopa Valley Tribe.
 
-(2) The Secretary's determination of eligibility under this subsection shall be final except that any Short plaintiff determined by the United States Court of Federal Claims to be an Indian of the Reservation shall be included on the Settlement Roll if they meet the other requirements of this subsection and any Short plaintiff determined by the United States Court of Federal Claims not to be an Indian of the Reservation shall not be eligible for inclusion on such roll. Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this section except they lack 10 years of Reservation residence, shall be included on the Settlement Roll.
+(2) The Secretary's determination of eligibility under this subsection shall be final except that any Short plaintiff determined by the United States Court of Federal Claims to be an Indian of the Reservation shall be included on the Settlement Roll if they meet the other requirements of this subsection and any Short plaintiff determined by the United States Court of Federal Claims not to be an Indian of the Reservation shall not be eligible for inclusion on such roll. Children under age 10 on the date they applied for the Settlement Roll who have lived all their lives on the Joint Reservation or the Hoopa Valley or Yurok Reservations, and who otherwise meet the requirements of this sectionexcept they lack 10 years of Reservation residence, shall be included on the Settlement Roll.
 
 #### (b) Right to apply; notice
 

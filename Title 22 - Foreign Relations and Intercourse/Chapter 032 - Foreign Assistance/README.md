@@ -423,7 +423,7 @@ Funds for private and voluntary organizations.
 
 (g)
 
-Additional and future funding for private and voluntary organizations.
+Repealed.
 
 (h)
 
@@ -520,6 +520,70 @@ Determination of target populations and strengthening United States assistance.
 (b)
 
 Ultimate beneficiaries of activities.
+
+|  |  |
+| :--- | ---: |
+| [2151aa.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151aa%20-%20Program%20to%20provide%20technical%20assistance%20to%20foreign%20governments%20and%20foreign%20central%20banks%20of%20developing%20or%20transitional%20countries.md) | Program to provide technical assistance to foreign governments and foreign central banks of developing or transitional countries. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of program.
+
+(b)
+
+Conduct of program.
+
+(c)
+
+Administrative requirements.
+
+(d)
+
+Administrative authorities.
+
+(e)
+
+Issuance of regulations.
+
+(f)
+
+Rule of construction.
+
+(g)
+
+Termination of assistance.
+
+(h)
+
+Report.
+
+(i)
+
+Definitions.
+
+(j)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [2152\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152%20-%20Assistance%20for%20victims%20of%20torture.md) | Assistance for victims of torture. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligibility for grants.
+
+(c)
+
+Use of funds.
 
 #### Part II—Other Programs
 
@@ -727,7 +791,7 @@ Repealed.
 
 (j)
 
-Guaranties for housing projects; percentage requirement for families with income below median income; face value and average face value fiscal year limitations; face amount for Israel and Egypt.
+Guaranties for housing projects; percentage requirement for families with income below median income.
 
 |  |  |
 | :--- | ---: |
@@ -1279,7 +1343,7 @@ Universities.
 
 (e)
 
-Director.
+Administrator.
 
 |  |  |
 | :--- | ---: |
@@ -1301,7 +1365,7 @@ Activity objectives.
 
 (d)
 
-Function of Director.
+Function of Administrator.
 
 |  |  |
 | :--- | ---: |
@@ -1349,7 +1413,7 @@ Other authorizations.
 
 (d)
 
-Disclosure of funds to Director; annual report.
+Disclosure of funds to Administrator; annual report.
 
 |  |  |
 | :--- | ---: |
@@ -1433,19 +1497,6 @@ Authorization of appropriations for multilateral and regional drug abuse control
 | [2224\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20003%20%28III%29%20-%20International%20Organizations%20and%20Programs/%C2%A7%2002224%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93424%2C%20title%20VI%2C%20%C2%A7604%2C%20Oct.%206%2C%201978%2C%2092%20Stat.%20961.md) | Repealed. |
 | [2225\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20003%20%28III%29%20-%20International%20Organizations%20and%20Programs/%C2%A7%2002225%20-%20Integration%20of%20women.md) | Integration of women. |
 | [2226\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20003%20%28III%29%20-%20International%20Organizations%20and%20Programs/%C2%A7%2002226%20-%20Reports%20on%20international%20organizations.md) | Reports on international organizations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Annual reports to Congress; time of submission.
-
-(b)
-
-Semiannual reports to Congress; time of submission; agency and organization lists; prompt reports of agency heads to Director of Office of Management and Budget; “contribution” defined.
-
-|  |  |
-| :--- | ---: |
 | [2227\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20003%20%28III%29%20-%20International%20Organizations%20and%20Programs/%C2%A7%2002227%20-%20Withholding%20of%20United%20States%20proportionate%20share%20for%20certain%20programs%20of%20international%20organizations.md) | Withholding of United States proportionate share for certain programs of international organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1460,7 +1511,7 @@ Review and report by Secretary of State.
 
 (c)
 
-Exceptions for International Atomic Energy Agency and United Nations Children's Fund.
+Exceptions.
 
 #### Part IV—Supporting Assistance
 
@@ -1648,6 +1699,28 @@ Employees and agents of United States.
 (c)
 
 Definitions.
+
+|  |  |
+| :--- | ---: |
+| 2291–5. | Provision of nonlethal equipment to foreign law enforcement organizations for cooperative illicit narcotics control activities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Additional requirement.
+
+(c)
+
+Notification requirement.
+
+(d)
+
+Sense of Congress.
 
 |  |  |
 | :--- | ---: |
@@ -2487,7 +2560,7 @@ Detailed justification for uses and purposes of funds.
 
 (d)
 
-Funds for commodity import programs or other program assistance.
+Repealed.
 
 (e)
 
@@ -2754,7 +2827,7 @@ Action by President to facilitate participation to maximum extent.
 
 (c)
 
-International Private Investment Advisory Council on Foreign Aid; establishment; composition; selection of members by Director; duration of service; Chairman; duties of Council; compensation; travel and other expenses; funds for payment of expenses of Council.
+International Private Investment Advisory Council on Foreign Aid; establishment; composition; selection of members by Administrator; duration of service; Chairman; duties of Council; compensation; travel and other expenses; funds for payment of expenses of Council.
 
 (d)
 
@@ -2895,20 +2968,7 @@ Transfer of domestic excess property.
 
 |  |  |
 | :--- | ---: |
-| [2359\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002359%20-%20Special%20accounts.md) | Special accounts. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Establishment by recipient countries; deposits; availability and utilization.
-
-(b)
-
-Disposition of unencumbered balances.
-
-|  |  |
-| :--- | ---: |
+| [2359\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002359%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28d%29%20%5Btitle%20V%2C%20%C2%A7533%28a%29%285%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93150%2C%202681%E2%80%93180.md) | Repealed. |
 | [2360\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002360%20-%20Transfer%20of%20funds%20between%20accounts.md) | Transfer of funds between accounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3102,6 +3162,14 @@ Diplomatic relations; severance, resumption, and negotiation of agreements.
 (u)
 
 Status of country with respect to obligations to the United Nations; report to Congress.
+
+(v)
+
+to (x) Repealed or Omitted.
+
+(y)
+
+Limitation on assistance to countries aiding Cuba nuclear development.
 
 |  |  |
 | :--- | ---: |
@@ -4209,13 +4277,168 @@ Eligibility criteria.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IV—INDOCHINA POSTWAR RECONSTRUCTION
+#### SUBCHAPTER IV—DEBT REDUCTION FOR DEVELOPING COUNTRIES WITH TROPICAL FORESTS
 
 |  |  |
 | :--- | ---: |
-| 2431 to 2435. | Repealed. |
+| [2431\.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings.
+
+(b)
+
+Purposes.
+
+|  |  |
+| :--- | ---: |
+| [2431a.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431a%20-%20Definitions.md) | Definitions. |
+| [2431b.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431b%20-%20Establishment%20of%20Facility.md) | Establishment of Facility. |
+| [2431c.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431c%20-%20Eligibility%20for%20benefits.md) | Eligibility for benefits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligibility determinations.
+
+|  |  |
+| :--- | ---: |
+| [2431d.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431d%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20concessional%20loans%20under%20this%20chapter.md) | Reduction of debt owed to United States as result of concessional loans under chapter. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority to reduce debt.
+
+(b)
+
+Implementation of debt reduction.
+
+(c)
+
+Additional terms and conditions.
+
+|  |  |
+| :--- | ---: |
+| [2431e.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431e%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20credits%20extended%20under%20title%20I%20of%20Agricultural%20Trade%20Development%20and%20Assistance%20Act%E2%80%A6.md) | Reduction of debt owed to United States as result of credits extended under title I of Agricultural Trade Development and Assistance Act of 1954. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority to reduce debt.
+
+(b)
+
+Implementation of debt reduction.
+
+(c)
+
+Additional terms and conditions.
+
+|  |  |
+| :--- | ---: |
+| [2431f.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431f%20-%20Authority%20to%20engage%20in%20debt-for-nature%20swaps%20and%20debt%20buybacks.md) | Authority to engage in debt-for-nature swaps and debt buybacks. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Loans and credits eligible for sale, reduction, or cancellation.
+
+(b)
+
+Deposit of proceeds.
+
+|  |  |
+| :--- | ---: |
+| [2431g.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431g%20-%20Tropical%20Forest%20Agreement.md) | Tropical Forest Agreement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Contents of Agreement.
+
+(c)
+
+Administering body.
+
+(d)
+
+Eligible activities.
+
+(e)
+
+Grant recipients.
+
+(f)
+
+Review of larger grants.
+
+(g)
+
+Eligibility criteria.
+
+|  |  |
+| :--- | ---: |
+| [2431h.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431h%20-%20Tropical%20Forest%20Fund.md) | Tropical Forest Fund. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Requirements relating to operation of Fund.
+
+|  |  |
+| :--- | ---: |
+| [2431i.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431i%20-%20Board.md) | Board. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Enterprise for the Americas Board.
+
+(b)
+
+Additional membership.
+
+(c)
+
+Duties.
+
+|  |  |
+| :--- | ---: |
+| [2431j.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431j%20-%20Consultations%20with%20Congress.md) | Consultations with Congress. |
+| [2431k.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431k%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Supplemental views in annual report.
 
 #### SUBCHAPTER V—MIDDLE EAST ASSISTANCE
 
@@ -4227,7 +4450,7 @@ Eligibility criteria.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1975, 2370a, 2428b, 2429a–2, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476,5605, 5813, 6003, 6006, 6021, 6041 of this title; title 13 section 301; title 16 section 973r; title 40 section 483; title 48 section 1904; title 49 section 44908.
+This chapter is referred to in sections 1975, 2370a, 2428b, 2429a–2, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713 of this title; title 13 section 301; title 16 section 973r; title 40 section 483; title 48 section 1904; title 49 section 44908.
 
 
 ---
@@ -4238,5 +4461,5 @@ This chapter is referred to in sections 1975, 2370a, 2428b, 2429a–2, 2601, 275
 - [Subchapter 002 (II) - Military Assistance and Sales](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/README.md)
 - [Subchapter 003 (III) - General and Administrative Provisions](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/README.md)
 - [Subchapter 003&#8211;A (III&#8211;A) - Enterprise for the Americas Initiative](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/README.md)
-- [Subchapter 004 (IV) - Indochina Postwar Reconstruction](Subchapter%20004%20%28IV%29%20-%20Indochina%20Postwar%20Reconstruction/README.md)
+- [Subchapter 004 (IV) - Debt Reduction for Developing Countries with Tropical Forests](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/README.md)
 - [Subchapter 005 (V) - Middle East Assistance](Subchapter%20005%20%28V%29%20-%20Middle%20East%20Assistance/README.md)

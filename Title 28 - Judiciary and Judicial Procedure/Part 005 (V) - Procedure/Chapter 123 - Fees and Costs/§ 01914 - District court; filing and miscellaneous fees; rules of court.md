@@ -30,13 +30,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–317 substituted “$150” for “$120”.
+1996—Subsec. (a). Pub. L. 104–317 substituted “$150” for “$120”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 substituted “$120” for “$60”.
+1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 substituted “$120” for “$60”.
 
 Subsec. (d). Pub. L. 99–336 struck out subsec. (d) which provided that section was not applicable to District of Columbia.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–598 substituted “$60” for “$15”.
+1978—Subsec. (a). Pub. L. 95–598 substituted “$60” for “$15”.
 
 #### Effective Date of 1996 Amendment
 
@@ -66,7 +66,7 @@ Following are fees to be charged for services to be performed by clerks of the d
 
 (3) For certification of any document or paper, whether the certification is made directly on the document or by separate instrument, $5. For exemplification of any document or paper, twice the amount of the fee for certification.
 
-(4) For reproducing any record or paper, 50 cents per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records. This fee shall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
+(4) For reproducing any record or paper, 50 cents per page. This fee shall apply to paper copies made from either: (1) original documents; or (2) microfiche or microfilm reproductions of the original records. This feeshall apply to services rendered on behalf of the United States if the record or paper requested is available through electronic access.
 
 (5) For reproduction of magnetic tape recordings, either cassette or reel-to-reel, $15 including the cost of materials.
 
@@ -86,7 +86,7 @@ Following are fees to be charged for services to be performed by clerks of the d
 
 (13) The clerk shall assess a charge for the handling of registry funds deposited with the court, to be assessed from interest earnings and in accordance with the detailed fee schedule issued by the Director of the Administrative Office of the United States Courts.
 
-(14) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, forgood cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
+(14) For usage of electronic access to court data, 60 cents per minute of usage \[provided the court may, for good cause, exempt persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information\]. All such fees collected shall be deposited to the Judiciary Automation Fund. This fee shall apply to the United States. (The Judicial Conference has approved an advisory note clarifying the judiciary's policy with respect to exemptions from this fee.)
 
 (15) For filing an action brought under Title III of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, P.L. 104–114, 110 Stat. 785 (1996), $4180. (This fee is in addition to the filing fee prescribed in 28 U.S.C. 1914(a) for instituting any civil action other than a writ of habeas corpus.)
 

@@ -6,7 +6,7 @@
 
 (c) The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 168; Aug. 21, 1957, Pub. L. 85–155, title I, §101(1), 71 Stat. 375; Sept. 7, 1962, Pub. L. 87–649, §6(b)(1), 76 Stat. 494; Sept. 30, 1966, Pub. L. 89–609, §1(1), 80 Stat. 852; Nov. 8, 1967, Pub. L. 90–130, §1(8)(A), 81 Stat. 374; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §502(a), 110 Stat. 2511.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 168; Pub. L. 85–155, title I, §101(1), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(1), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(A), Nov. 8, 1967, 81 Stat. 374; Pub. L. 104–201, div. A, title V, §502(a), Sept. 23, 1996, 110 Stat. 2511.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Section 4(a) of Pub. L. 90–130 authorized the Secretary of the Army to suspend
 
 #### Authority of Military Department Secretaries To Convene Boards To Recommend Deferment of Retirement or Separation of Nurses
 
-Section 4(f) of Pub. L. 90–130. Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 1972, when the needs of the service required, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force to convene annually boards of officers to consider officers of the Army Nurse Corps, officers of the Navy Nurse Corps, or Air Force nurses, respectively, who otherwise would be required to be retired or separated under this Act within the calendar or fiscal year in which the board is convened. Upon the recommendation of such a board, the Secretary concerned could defer the separation or retirement of such an officer for aterm of not more than five years, unless recommended for further deferment by a subsequent board of officers, and in any case not beyond the month following her attaining age sixty or July 1, 1976, whichever was earlier.
+Section 4(f) of Pub. L. 90–130. Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 1972, when the needs of the service required, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force to convene annually boards of officers to consider officers of the Army Nurse Corps, officers of the Navy Nurse Corps, or Air Force nurses, respectively, who otherwise would be required to be retired or separated under this Act within the calendar or fiscal year in which the board is convened. Upon the recommendation of such a board, the Secretary concerned could defer the separation or retirement of such an officer for a term of not more than five years, unless recommended for further deferment by a subsequent board of officers, and in any case not beyond the month following her attaining age sixty or July 1, 1976, whichever was earlier.
 
 #### Cross References
 

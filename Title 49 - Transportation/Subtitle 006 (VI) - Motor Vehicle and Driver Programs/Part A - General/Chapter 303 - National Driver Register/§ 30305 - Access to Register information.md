@@ -10,15 +10,23 @@ Referrals of Information Requests.—(1) To carry out duties related to driver l
 
 Requests To Obtain Information.—(1) The Chairman of the National Transportation Safety Board and the Administrator of the Federal Highway Administration may request the chief driver licensing official of a State to obtain information under subsection (a) of this section about an individual who is the subject of an accident investigation conducted by the Board or the Administrator. The Chairman and the Administrator may receive the information.
 
-(2) An individual who is employed, or is seeking employment, as a driver of a motor vehicle may request the chief driver licensing official of the State in which the individual is employed or seeks employment to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer. An employer or prospective employer may receive the information and shall make the information available to the individual. Information may not be obtained from the National Driver Register under this paragraph if the information was entered in the Register more than 3 years before the request.
+(2) An individual who is employed, or is seeking employment, as a driver of a motor vehicle may request the chief driver licensing official of the State in which the individual is employed or seeks employment to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer. An employer or prospective employer may receive the information and shall make the information available to the individual. Information may not be obtained from the National Driver Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
 (3) An individual who has received, or is applying for, an airman's certificate may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Administrator of the Federal Aviation Administration. The Administrator may receive the information and shall make the information available to the individual for review and written comment. The Administrator may use the information to verify information required to be reported to the Administrator by an airman applying for an airman medical certificate and to evaluate whether the airman meets the minimum standards prescribed by the Administrator to be issued an airman medical certificate. The Administrator may not otherwise divulge or use the information. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
 (4) An individual who is employed, or is seeking employment, by a rail carrier as an operator of a locomotive may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer or to the Secretary of Transportation. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(5) An individual who holds, or is applying for, a license or certificate of registry under section 7101 of title 46, or a merchant mariner's document under section 7302 of title 46, may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Secretary of the department in which the Coast Guard is operating. The Secretary may receive the information and shall make the information available to the individual for review and written comment before denying, suspending, or revoking the license, certificate, or document of the individual based on the information and before using the information in an action taken under chapter 77 of title 46. The Secretary may not otherwise divulge or use the information, except for purposes of section 7101, 7302, or 7703 of title 46. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+(5) An individual who holds, or is applying for, a license or certificate of registry under section 7101 of title 46, or a merchant mariner's document under section 7302 of title 46, may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Secretary of the department in which the Coast Guard is operating. The Secretary may receive the information and shall make the information available to the individual for review and written comment before denying, suspending, or revoking the license, certificate, or document of the individual based on the information and before using the information in an action taken under chapter 77 of title 46. The Secretary may not otherwise divulge or use the information, except for purposes of section 7101, 7302, or 7703 of title 46. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 yearsbefore the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(6) An individual may request the chief driver licensing official of a State to obtain information about the individual under subsection (a) of this section—
+(6) The head of a Federal department or agency that issues motor vehicle operator's licenses may request the chief driver licensing official of a State to obtain information under subsection (a) of this section about an individual applicant for a motor vehicle operator's license from such department or agency. The department or agency may receive the information, provided it transmits to the Secretary a report regarding any individual who is denied a motor vehicle operator's license by that department or agency for cause; whose motor vehicle operator's license is revoked, suspended, or canceled by that department or agency for cause; or about whom the department or agency has been notified of a conviction of any of the motor vehicle-related offenses or comparable offenses listed in section 30304(a)(3) and over whom the department or agency has licensing authority. The report shall contain the information specified in section 30304(b).
+
+(7) An individual who is an officer, chief warrant officer, or enlisted member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+
+(8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
+
+(9) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
+
+(10) An individual may request the chief driver licensing official of a State to obtain information about the individual under subsection (a) of this section—
 
 &emsp;(A) to learn whether information about the individual is being provided;
 
@@ -26,11 +34,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 &emsp;(C) to obtain a certified copy of the information.
 
-(7) An individual who is an officer, chief warrant officer, or enlisted member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
-
-(8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
-
-(9) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
+(11) The head of a Federal department or agency authorized to receive information regarding an individual from the Register under this section may request and receive such information from the Secretary.
 
 (c)
 
@@ -46,7 +50,7 @@ Relationship to Other Laws.—A request for, or receipt of, information from the
 
 Availability of Information Provided Under Prior Law.—Information provided by a State under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–178, title II, §2006(b), June 9, 1998, 112 Stat. 335.)
 
 Historical and Revision Notes
 
@@ -85,6 +89,22 @@ This amends 49:30305(b) to redesignate paragraph (8), as redesignated by section
 Act of July 14, 1960, referred to in subsec. (d), is set out as a note under section 30302 of this title.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–178, §2006(b)(1)(A), inserted before period at end “, unless the information is about a revocation or suspension still in effect on the date of the request”.
+
+Subsec. (b)(6). Pub. L. 105–178, §2006(b)(2)(B), added par. (6). Former par. (6) redesignated (10).
+
+Subsec. (b)(8). Pub. L. 105–178, §2006(b)(1)(C), directed amendment identical to that made by Pub. L. 105–102, §2(18)(B). See 1997 Amendment note below.
+
+Pub. L. 105–178, §2006(b)(1)(B)(ii), realigned margins.
+
+Pub. L. 105–178, §2006(b)(1)(B)(i), directed amendment identical to that made by Pub. L. 105–102, §2(18)(A). See 1997 Amendment note below.
+
+Subsec. (b)(9). Pub. L. 105–178, §2006(b)(1)(C), directed amendment identical to that made by Pub. L. 105–102, §2(18)(B). See 1997 Amendment note below.
+
+Subsec. (b)(10). Pub. L. 105–178, §2006(b)(2)(A), redesignated par. (6) as (10) and transferred it to appear after par. (9).
+
+Subsec. (b)(11). Pub. L. 105–178, §2006(b)(2)(C), added par. (11).
 
 1997—Subsec. (b)(8). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
 

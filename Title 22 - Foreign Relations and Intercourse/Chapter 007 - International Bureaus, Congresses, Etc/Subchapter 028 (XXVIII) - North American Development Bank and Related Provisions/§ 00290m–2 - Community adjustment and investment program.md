@@ -72,7 +72,7 @@
 
 #### (E) Staff and facilities
 
-&emsp;&emsp;The Advisory Committee may utilize the facilities and services of employees of anyFederal agency without cost to the Advisory Committee, and any such agency is authorized to provide services as requested by the Committee.
+&emsp;&emsp;The Advisory Committee may utilize the facilities and services of employees of any Federal agency without cost to the Advisory Committee, and any such agency is authorized to provide services as requested by the Committee.
 
 #### (c) Ombudsman
 

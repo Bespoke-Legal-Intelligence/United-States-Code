@@ -42,6 +42,10 @@ In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) i
 
 In subsection (b), before clause (1), the words “(and the Board is authorized to permit the banks notwithstanding another law)” are substituted for “notwithstanding any provisions of law or rules and regulations to the contrary” for clarity. In clause (1), the words “pursuant to existing law” are omitted as surplus. The words “through each entire” are substituted for “throughout” for clarity. In clause (2), the words “in portfolio”, “or periods of time Treasury bills or other” and “in an aggregate sum of” are omitted as surplus.
 
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–310, §1, Oct. 30, 1998, 112 Stat. 2941, provided that: “This Act \[enacting subchapter III of this chapter and provisions set out as a note under section 5342 of this title\] may be cited as the ‘Money Laundering and Financial Crimes Strategy Act of 1998’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–325, title IV, §401, Sept. 23, 1994, 108 Stat. 2243, provided that: “This title \[enacting section 5330 of this title, amending sections 5312, 5313, 5318, 5321, 5322, and 5324 of this title, sections 93, 1464, 1772d, 1786, 1818, and 1821 of Title 12, Banks and Banking, and sections 984, 986, 1956, 1957, and 1960 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 5311, 5313, 5318, and 5330 of this title\] may be cited as the ‘Money Laundering Suppression Act of 1994’.”

@@ -26,7 +26,7 @@ For the purpose of carrying out this part—
 
 &emsp;(2) there are authorized to be appropriated, for payments under section 1078 of this title with respect to interest on student loans and for payments under section 1087 of this title, such sums for the fiscal year ending June 30, 1966, and succeeding fiscal years, as may be required therefor,
 
-&emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reservefunds of State and nonprofit private student loan insurance programs,
+&emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reserve funds of State and nonprofit private student loan insurance programs,
 
 &emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant to section 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs, and
 
@@ -38,23 +38,23 @@ For the purpose of carrying out this part—
 
 The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
 
-#### (d) Limitation on authorization to guarantee new loans under this part
-
-Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations.
-
-(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511.)
+(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673.)
 
 #### References in Text
 
 The Higher Education Amendments of 1986, referred to in subsec. (b), is Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1268. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Higher Education Amendments of 1992, referred to in subsec. (d), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note under section 1001 of this title and Tables.
+#### Codification
+
+Another section 411 of Pub. L. 105–244 enacted subpart 8 (§1070f et seq.) of part A of this subchapter.
 
 #### Prior Provisions
 
 A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 90–460, §§2(b)(3), 3(a), Aug. 3, 1968, 82 Stat. 635, 636; Pub. L. 90–575, title I, §§113(b)(1), 114(a), 119(b), Oct. 16, 1968, 82 Stat. 1021, 1027; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2099; Pub. L. 95–43, §1(a)(8)–(10), June 15, 1977, 91 Stat. 213; Pub. L. 96–374, title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 98–79, §6, Aug. 15, 1983, 97 Stat. 482, related to statement of purpose of, appropriations for, and implementation of programs to provide low-interest insured loans to students in institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: “Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations.”
 
 1992—Subsec. (c). Pub. L. 102–325, §411(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The program established under this part shall be referred to as the ‘Robert T. Stafford Student Loan Program’. Loans made under this part shall be known as ‘Stafford Loans’.”
 
@@ -64,13 +64,49 @@ Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
 Pub. L. 100–297 added subsec. (c).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective July 23, 1992, with changes in the designation or names of loans or programs under this part effective with respect to applications or other documents (used in making such loans) that are printed after July 23, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1988 Amendment
 
-For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as an Effective Date note under section 1201 of this title.
+Pub. L. 100–297, title VI, §6303, Apr. 28, 1988, 102 Stat. 431, as amended by Pub. L. 100–351, June 27, 1988, 102 Stat. 661, provided that:
+
+“(a)
+
+General Rule.—Except as otherwise provided, this Act and the amendments made by this Act \[see Tables for classification\] shall take effect July 1, 1988.
+
+“(b)
+
+Special Rules.—(1) Any provision of this Act or any amendment made by this Act which authorizes appropriations for fiscal year 1988 shall take effect on the date of the enactment of this Act \[Apr. 28, 1988\].
+
+“(2) The provisions of section 2402, relating to the National Center for Vocational Research, shall take effect on April 10, 1988.
+
+“(3) The amendments made by section 3403 \[amending sections 1221e and 1221e–1 of this title\] shall take effect for assessments made after September 30, 1989, with respect to State data.
+
+“(4) Allotments to States made under chapters 1 and 2 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2701 et seq., 2911 et seq.\] and under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\] from amounts appropriated by the joint resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 (Public Law 100–202), shall be computed in accordance with the provisions of law applicable to allotments to States under chapters 1 and 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3801 et seq., 3811 et seq.\] and under the Adult Education Act, respectively, as such Acts were in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\].
+
+“(5) Amounts appropriated by the joint resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 (Public Law 100–202), for the following programs shall be awarded in accordance with the applicable provisions of law in effect on the day before the date of the enactment of this Act \[Apr. 28, 1988\]:
+
+&emsp;“(A) Programs under subchapter D of chapter 2 of the Education Consolidation and Improvement Act of 1981 \[formerly 20 U.S.C. 3851 et seq.\], except that projects under section 583(c) \[formerly 20 U.S.C. 3851(c)\] may not be reviewed by a program significance panel.
+
+&emsp;“(B) National programs under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\].
+
+&emsp;“(C) Programs under the Indian Education Act \[Pub. L. 92–318, title IV, see Short Title note set out under former section 241aa of this title\].
+
+&emsp;“(D) Programs under title II of the Education for Economic Security Act \[formerly 20 U.S.C. 3961 et seq.\].
+
+&emsp;“(E) The program under section 702 of the Stewart B. McKinney Homeless Assistance Act \[formerly 42 U.S.C. 11421\].
+
+“(6) The provisions of part A of title II of this Act \[§§2001 to 2034 of Pub. L. 100–297, amending sections 236 et seq. and 631 et seq. of this title\], excluding sections 2014(e) and 2018 \[amending section 238 of this title and enacting provisions set out as a note under section 238 of this title\], shall apply only with respect to amounts appropriated for fiscal years beginning after September 30, 1988.
+
+“(7) The amendments made by section 6001 \[amending section 11421 of Title 42, The Public Health and Welfare\], relating to literacy training of homeless adults, shall take effect on October 1, 1988.
+
+“(8) Any election under section 5209(b)(1) \[25 U.S.C. 2508(b)(1)\] conveyed to the Secretary prior to August 1, 1988, shall take effect for the fiscal year beginning on October 1, 1988, and thereafter.”
 
 #### Effective Date
 
@@ -96,7 +132,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 “(c)
 
-Changes Effective Without Regard to Regulations; Republication of Regulations.—The changesmade in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
+Changes Effective Without Regard to Regulations; Republication of Regulations.—The changes made in part B of title IV of the Act \[20 U.S.C. 1071 et seq.\] by the amendment made by subsection (a) of this section shall be effective in accordance with subsection (b) of this section without regard to whether such changes are reflected in the regulations prescribed by the Secretary of Education for the purpose of such part.
 
 “(d)
 
@@ -104,11 +140,11 @@ New Borrowers.—For the purpose of this section, the term ‘new borrower’ me
 
 #### Study of Role of Guaranty Agencies
 
-Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review.
+Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### General Accounting Office Reports
 
-Sections 1311 to 1314 of Pub. L. 99–498, as amended by Pub. L. 100–50, §23(6), June 3, 1987, 101 Stat. 362, directed Comptroller General to conduct studies on practices of State guaranty agencies and multistate guarantors under the student loan program, on the feasibility and efficiency of permitting students to establish multiple year lines of credit with eligible lenders, on the impact of the multiple disbursement system on the ability of students and institutions of higher education to meet expenses, and on the cost, efficiency, and impact of the consolidation loan program established by Pub. L. 99–498, and directed Comptroller General to make and submit a report to Congress on each study not later than two years after Oct. 17, 1986.
+Sections 1311 to 1314 of Pub. L. 99–498, as amended by Pub. L. 100–50, §23(6), June 3, 1987, 101 Stat. 362, directed Comptroller General to conduct studies on practices of State guaranty agencies and multistate guarantors under the student loan program, on the feasibility and efficiency of permitting students to establish multiple year lines of credit with eligible lenders, on the impact of the multiple disbursement system on the ability of students and institutions of higher education to meet expenses, and on the cost, efficiency, and impact of the consolidation loan program established by Pub. L. 99–498, and directed Comptroller General to make and submit a report to Congress on each study not later than two years after Oct. 17, 1986, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Section Referred to in Other Sections
 

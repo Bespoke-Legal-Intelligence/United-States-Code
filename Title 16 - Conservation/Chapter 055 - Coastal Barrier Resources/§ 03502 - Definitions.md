@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 > &emsp;Effective October 1, 1983, such term includes flood insurance described in section 4028 of title 42.
 
-&emsp;(4) The term “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair, Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
+&emsp;(4) The term “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron, Lake St. Clair,Lake Michigan, and Lake Superior, to the extent that those lakes are subject to the jurisdiction of the United States.
 
 &emsp;(5) The term “Secretary” means the Secretary of the Interior.
 

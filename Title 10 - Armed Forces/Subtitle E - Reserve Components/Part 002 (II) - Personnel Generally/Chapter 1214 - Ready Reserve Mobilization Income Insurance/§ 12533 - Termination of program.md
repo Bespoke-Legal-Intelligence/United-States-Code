@@ -6,11 +6,11 @@ In General.—The Secretary shall terminate the insurance program in accordance 
 
 (b)
 
-Termination of New Enrollments.—The Secretary may not enroll a member of the Ready Reserve for coverage under the insurance program after the date of the enactment of this section.
+Termination of New Enrollments.—The Secretary may not enroll a member of theReady Reserve for coverage under the insurance program after the date of the enactment of this section.
 
 (c)
 
-Termination of Coverage.—(1) The enrollment under the insurance program of insuredmembers other than insured members described in paragraph (2) is terminated as of the date of the enactment of this section. The enrollment of an insured member described in paragraph (2) is terminated as of the date of the termination of the period of covered service of that member described in that paragraph.
+Termination of Coverage.—(1) The enrollment under the insurance program of insured members other than insured members described in paragraph (2) is terminated as of the date of the enactment of this section. The enrollment of an insured member described in paragraph (2) is terminated as of the date of the termination of the period of covered service of that member described in that paragraph.
 
 (2) An insured member described in this paragraph is an insured member who on the date of the enactment of this section is serving on covered service for a period of service, or has been issued an order directing the performance of covered service, that satisfies or would satisfy the entitlement-to-benefits provisions of this chapter.
 

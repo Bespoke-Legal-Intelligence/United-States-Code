@@ -8,5 +8,5 @@ The President should actively encourage other official creditors of an eligible 
 
 The President shall make every effort to insure that programs established through Environmental Funds are able to receive donations from private and public entities, and private creditors of the eligible country.
 
-(July 10, 1954, ch. 469, title VI, §613, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3662.)
+(July 10, 1954, ch. 469, title VI, §613, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3662.)
 

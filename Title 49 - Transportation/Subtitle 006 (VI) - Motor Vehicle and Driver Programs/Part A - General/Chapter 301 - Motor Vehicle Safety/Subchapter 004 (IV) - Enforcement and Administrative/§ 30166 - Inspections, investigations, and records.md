@@ -48,7 +48,7 @@ Providing Copies of Communications About Defects and Noncompliance.—A manufact
 
 Administrative Authority on Reports, Answers, and Hearings.—(1) In carrying out this chapter, the Secretary of Transportation may—
 
-&emsp;(A) require, by general or special order, any person to file reports or answers to specificquestions, including reports or answers under oath; and
+&emsp;(A) require, by general or special order, any person to file reports or answers to specific questions, including reports or answers under oath; and
 
 &emsp;(B) conduct hearings, administer oaths, take testimony, and require (by subpena or otherwise) the appearance and testimony of witnesses and the production of records the Secretary considers advisable.
 

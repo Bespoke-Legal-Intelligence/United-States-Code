@@ -38,5 +38,5 @@ If the Attorney General approves such a request to grant a person posthumous cit
 
 Nothing in this section or section 1430(d) of this title shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §329A, as added Mar. 6, 1990, Pub. L. 101–249, §2(a), 104 Stat. 94.)
+(June 27, 1952, ch. 477, title III, ch. 2, §329A, as added Pub. L. 101–249, §2(a), Mar. 6, 1990, 104 Stat. 94.)
 

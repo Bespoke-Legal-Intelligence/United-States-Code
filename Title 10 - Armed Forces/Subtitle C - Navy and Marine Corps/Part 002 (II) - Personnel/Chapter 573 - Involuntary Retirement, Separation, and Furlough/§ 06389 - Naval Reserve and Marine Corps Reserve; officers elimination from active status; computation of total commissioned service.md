@@ -11,7 +11,7 @@
 | <i>Grade</i> | <i>Total commissioned service</i> |  |
 | --- | --- | ---: |
 | <i>Navy</i> | <i>Marine Corps</i> |  |
-| CommanderDLieutenant colonelD28 years. |  |  |
+| Commander DLieutenant colonel D28 years. |  |  |
 | Lieutenant commander | Major | 20 years. |
 
 (2) Notwithstanding the first sentence of paragraph (1), the Secretary may defer the retirement or discharge of such number of officers serving in the grade of lieutenant commander as are necessary to maintain the authorized officer strength of the Ready Reserve, but the duration of such deferment for any individual officer may not be in excess of five years.
@@ -20,7 +20,7 @@
 
 (4) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of such number of officers serving in the permanent grade of commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve as are necessary to provide for mobilization requirements.
 
-(d) For the purposes of subsection (c), the total commissioned service of an officer who has served continuously in the Naval Reserve or the Marine Corps Reserve following appointment therein in the permanent grade of ensign or second lieutenant, as the case may be, shall be computed from June 30 of the fiscal year in which he accepted the appointment. Each other officer is considered to have for this purpose as much total commissioned service as the years of active commissioned service of any regular officer on the active-duty list of the Navy not restricted in the performance of duty, or any regular officer on the active-duty list of the Marine Corps not restricted in the performance of duty, as appropriate, who has served continuously since original appointment as an ensign on the active-duty list of the Navy or as a second lieutenant on the active-duty list of the Marine Corps, has not lost numbers or precedence, and is, or has been after September 6, 1947, junior to that other officer. However, the total commissioned service that the other officer is considered to have may not be less than the actual number of years he has served as a commissioned officer in a grade above chief warrant officer, W–5.
+(d) For the purposes of subsection (c), the total commissioned service of an officer who has served continuously in the Naval Reserve or the Marine Corps Reserve following appointment therein in the permanent grade of ensign or second lieutenant, as the case may be, shall be computed from June 30 of the fiscal year in which he accepted the appointment. Each otherofficer is considered to have for this purpose as much total commissioned service as the years of active commissioned service of any regular officer on the active-duty list of the Navy not restricted in the performance of duty, or any regular officer on the active-duty list of the Marine Corps not restricted in the performance of duty, as appropriate, who has served continuously since original appointment as an ensign on the active-duty list of the Navy or as a second lieutenant on the active-duty list of the Marine Corps, has not lost numbers or precedence, and is, or has been after September 6, 1947, junior to that other officer. However, the total commissioned service that the other officer is considered to have may not be less than the actual number of years he has served as a commissioned officer in a grade above chief warrant officer, W–5.
 
 (Added Pub. L. 85–861, §1(144)(A), Sept. 2, 1958, 72 Stat. 1509; amended Pub. L. 86–559, §1(46), June 30, 1960, 74 Stat. 274; Pub. L. 96–513, title III, §337(a), Dec. 12, 1980, 94 Stat. 2900; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §528(c), Oct. 19, 1984, 98 Stat. 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §§1628, 1673(c)(1), Oct. 5, 1994, 108 Stat. 2962, 3016; Pub. L. 104–106, div. A, title XV, §1501(c)(25), Feb. 10, 1996, 110 Stat. 499.)
 
@@ -110,7 +110,7 @@ Subsec. (g). Pub. L. 103–337, §1628(4), struck out subsec. (g) which read as 
 
 1980—Subsec. (b). Pub. L. 96–513, §337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 96–513, §337(a)(2), substituted “as the years of active commissioned service of any regularofficer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
+Subsec. (d). Pub. L. 96–513, §337(a)(2), substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
 
 Subsec. (e). Pub. L. 96–513, §337(a)(3), substituted “does not apply to” for “applies to women officers appointed under section 5581 of this title, but not to other”.
 

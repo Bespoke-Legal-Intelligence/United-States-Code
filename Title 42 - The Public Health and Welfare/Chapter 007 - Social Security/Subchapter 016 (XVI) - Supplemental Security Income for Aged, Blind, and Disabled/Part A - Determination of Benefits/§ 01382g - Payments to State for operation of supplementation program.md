@@ -32,7 +32,7 @@ The Commissioner of Social Security shall not find that a State has failed to me
 
 (1) For any particular month after March 1983, a State which is not treated as meeting the requirements imposed by paragraph (4) of subsection (a) of this section by reason of subsection (b) of this section shall be treated as meeting such requirements if and only if—
 
-&emsp;(A) the combined level of its supplementary payments (to recipients of the type involved) and the amounts payable (to or on behalf of such recipients) under section 1382(b) of this title and section 211(a)(1)(A) of Public Law 93–66, for that particular month,
+&emsp;(A) the combined level of its supplementary payments (to recipients of the type involved) and the amounts payable (to or on behalf of such recipients) under section 1382(b) of thistitle and section 211(a)(1)(A) of Public Law 93–66, for that particular month,
 
 > is not less than—
 
@@ -68,7 +68,7 @@ In order for any State which makes supplementary payments of the type described 
 
 &emsp;&emsp;&emsp;(ii) in a case to which clause (iii) of such section 1382(e)(1)(B) of this title applies, by $10.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1618, as added Oct. 21, 1976, Pub. L. 94–585, §2(a), 90 Stat. 2901; amended Sept. 3, 1982, Pub. L. 97–248, title I, §186, 96 Stat. 407; Dec. 21, 1982, Pub. L. 97–377, title I, §147, 96 Stat. 1917; Apr. 20, 1983, Pub. L. 98–21, title IV, §402, 97 Stat. 139; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(g)(9), 98 Stat. 1169; Apr. 7, 1986, Pub. L. 99–272, title XII, §12201(a), 100 Stat. 289; Dec. 22, 1987, Pub. L. 100–203, title IX, §9119(b), 101 Stat. 1330–309; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), title II, §209(a), 108 Stat. 1478, 1517.)
+(Aug. 14, 1935, ch. 531, title XVI, §1618, as added Pub. L. 94–585, §2(a), Oct. 21, 1976, 90 Stat. 2901; amended Pub. L. 97–248, title I, §186, Sept. 3, 1982, 96 Stat. 407; Pub. L. 97–377, title I, §147, Dec. 21, 1982, 96 Stat. 1917; Pub. L. 98–21, title IV, §402, Apr. 20, 1983, 97 Stat. 139; Pub. L. 98–369, div. B, title VI, §2663(g)(9), July 18, 1984, 98 Stat. 1169; Pub. L. 99–272, title XII, §12201(a), Apr. 7, 1986, 100 Stat. 289; Pub. L. 100–203, title IX, §9119(b), Dec. 22, 1987, 101 Stat. 1330–309; Pub. L. 103–296, title I, §107(a)(4), title II, §209(a), Aug. 15, 1994, 108 Stat. 1478, 1517.)
 
 #### References in Text
 

@@ -48,7 +48,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 (3) The Secretary may provide, to health professional shortage areas to which no Corps member has been assigned, (A) technical assistance to assist in the recruitment of health manpower for such areas, and (B) current information on public and private programs which provide assistance in the securing of health manpower.
 
-(4)(A) The Secretary shall undertake to demonstrate the improvements that can be made in the assignment of members of the Corps tohealth professional shortage areas and in the delivery of health care by Corps members in such areas through coordination with States, political subdivisions of States, agencies of States and political subdivisions, and other public and nonprofit private entities which have expertise in the planning, development, and operation of centers for the delivery of primary health care. In carrying out this subparagraph, the Secretary shall enter into agreements with qualified entities which provide that if—
+(4)(A) The Secretary shall undertake to demonstrate the improvements that can be made in the assignment of members of the Corps to health professional shortage areas and in the delivery of health care by Corps members in such areas through coordination with States, political subdivisions of States, agencies of States and political subdivisions, and other public and nonprofit private entities which have expertise in the planning, development, and operation of centers for the delivery of primary health care. In carrying out this subparagraph, the Secretary shall enter into agreements with qualified entities which provide that if—
 
 &emsp;(i) the entity places in effect a program for the planning, development, and operation of centers for the delivery of primary health care in health professional shortage areas which reasonably addresses the need for such care in such areas, and
 
@@ -76,7 +76,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
 
-(July 1, 1944, ch. 373, title III, §333, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2272; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2703, 95 Stat. 904; Dec. 1, 1987, Pub. L. 100–177, title III, §§303, 304, 101 Stat. 1004; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 16, 1990, Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], 104 Stat. 3015, 3035.)
+(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035.)
 
 #### Amendments
 
@@ -130,5 +130,5 @@ Section 2703(d) of Pub. L. 97–35 provided that the amendment made by that sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254f–1, 254g, 254h, 254h–1, 254i, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 256<i>o</i>–1, 254q–1, 1396s of this title.
+This section is referred to in sections 254d, 254f–1, 254g, 254h, 254h–1, 254i, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 256<i>o</i>–1, 254q–1, 1396s, 11709 of this title.
 

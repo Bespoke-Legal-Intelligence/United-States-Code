@@ -2,7 +2,7 @@
 
 The Secretary of the Interior (hereinafter called the “Secretary”) is authorized to plan, acquire, establish, construct, enlarge, improve, maintain, equip, operate, regulate, and protect airports in the continental United States in, or in close proximity to, national parks, national monuments, and national recreation areas, when such airports are determined by him to be necessary to the proper performance of the functions of the Department of the Interior: <i>Provided</i>, That no such airport shall be acquired, established, or constructed by the Secretary unless such airport is included in the then current revision of the national airport plan formulated by the Secretary of Transportation pursuant to the provisions of the Federal Airport Act: <i>Provided further</i>, That the operation and maintenance of such airports shall be in accordance with the standards, rules, or regulations prescribed by the Secretary of Transportation.
 
-(Mar. 18, 1950, ch. 72, §1, 64 Stat. 27; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1402(e), 72 Stat. 807; May 21, 1970, Pub. L. 91–258, title I, §52(b)(1), 84 Stat. 235.)
+(Mar. 18, 1950, ch. 72, §1, 64 Stat. 27; Pub. L. 85–726, title XIV, §1402(e), Aug. 23, 1958, 72 Stat. 807; Pub. L. 91–258, title I, §52(b)(1), May 21, 1970, 84 Stat. 235.)
 
 #### References in Text
 

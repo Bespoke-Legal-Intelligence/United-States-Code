@@ -6,7 +6,7 @@ The Secretary shall provide a public comment period of at least 90 days on any r
 
 #### (b) Protections provided to children
 
-The Secretary may not implement, or publish in final form, any regulation prescribed pursuant to this chapter that would procedurally or substantively lessen the protections provided to children with disabilities under this chapter, asembodied in regulations in effect on July 20, 1983 (particularly as such protections relate to parental consent to initial evaluation or initial placement in special education, least restrictive environment, related services, timelines, attendance of evaluation personnel at individualized education program meetings, or qualifications of personnel), except to the extent that such regulation reflects the clear and unequivocal intent of the Congress in legislation.
+The Secretary may not implement, or publish in final form, any regulation prescribed pursuant to this chapter that would procedurally or substantively lessen the protections provided to children with disabilities under this chapter, as embodied in regulations in effect on July 20, 1983 (particularly as such protections relate to parental consent to initial evaluation or initial placement in special education, least restrictive environment, related services, timelines, attendance of evaluation personnel at individualized education program meetings, or qualifications of personnel), except to the extent that such regulation reflects the clear and unequivocal intent of the Congress in legislation.
 
 #### (c) Policy letters and statements
 

@@ -2,7 +2,7 @@
 
 Any individual who is aggrieved by the failure of a State, political subdivision, or agency or instrumentality thereof, to comply with the requirements of this subchapter may bring an action for appropriate equitable relief.
 
-(July 1, 1944, ch. 373, title XXII, §2207, as added Apr. 7, 1986, Pub. L. 99–272, title X, §10003(a), 100 Stat. 236.)
+(July 1, 1944, ch. 373, title XXII, §2207, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 236.)
 
 #### Continued Coverage of Costs of Pediatric Vaccine Under Certain Group Health Plans
 

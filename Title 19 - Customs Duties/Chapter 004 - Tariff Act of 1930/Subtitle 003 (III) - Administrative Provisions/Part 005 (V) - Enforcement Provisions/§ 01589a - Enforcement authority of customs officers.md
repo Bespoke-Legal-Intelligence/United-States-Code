@@ -10,7 +10,7 @@ Subject to the direction of the Secretary of the Treasury, an officer of the cus
 
 &emsp;(4) perform any other law enforcement duty that the Secretary of the Treasury may designate.
 
-(June 17, 1930, ch. 497, title IV, §589, as added Oct. 30, 1984, Pub. L. 98–573, title II, §213(a)(17), 98 Stat. 2988.)
+(June 17, 1930, ch. 497, title IV, §589, as added Pub. L. 98–573, title II, §213(a)(17), Oct. 30, 1984, 98 Stat. 2988.)
 
 #### Codification
 

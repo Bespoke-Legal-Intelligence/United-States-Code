@@ -142,7 +142,7 @@ Sponges
 
 &emsp;(19) The term “high seas” means all waters beyond the territorial sea of the United States and beyond any foreign nation's territorial sea, to the extent that such sea is recognized by the United States.
 
-&emsp;(20) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp.and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
+&emsp;(20) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
 
 &emsp;(21) The term “individual fishing quota” means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
 
@@ -152,7 +152,7 @@ Sponges
 
 &emsp;(24) <sup>1</sup> The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
 
-&emsp;(25) The term “migratory range” means the maximum area at a given time of the year within which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term does not include any part of such area which is in the waters of a foreign nation.
+&emsp;(25) The term “migratory range” means the maximum area at a given time of the year within which fish of an anadromous species or stock thereof can be expected to be found, as determined on the basis of scale pattern analysis, tagging studies, or other reliable scientific information, except that the term doesnot include any part of such area which is in the waters of a foreign nation.
 
 &emsp;(26) The term “national standards” means the national standards for fishery conservation and management set forth in section 1851 of this title.
 
@@ -304,7 +304,7 @@ Par. (28). Pub. L. 104–297, §102(7), added par. (28) and struck out former pa
 
 &emsp;“(A) which will provide the greatest overall benefit to the Nation, with particular reference to food production and recreational opportunities; and
 
-&emsp;“(B) which is prescribed as such on the basis of the maximum sustainable yield from such fishery, asmodified by any relevant economic, social, or ecological factor.”
+&emsp;“(B) which is prescribed as such on the basis of the maximum sustainable yield from such fishery, as modified by any relevant economic, social, or ecological factor.”
 
 Pub. L. 104–297, §102(5), redesignated par. (27) as (28). Former par. (28) redesignated (29).
 
@@ -466,7 +466,7 @@ Pars. (6) to (8). Pub. L. 99–659, §101(a), added par. (6), redesignated forme
 
 #### Effective Date of 1992 Amendment
 
-Section 405(a) of Pub. L. 104–297 provided that: “Notwithstanding section 308 of the Act entitled ‘An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992 (Public Law 102–251; 106 Stat. 66) \[set out as a note under section 773 of this title\] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act \[amending this section, see Codification note above\] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act \[Oct. 11, 1996\].”
+Section 405(a) of Pub. L. 104–297 provided that: “Notwithstanding section 308 of the Act entitled ‘An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992\(Public Law 102–251; 106 Stat. 66) \[set out as a note under section 773 of this title\] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act \[amending this section, see Codification note above\] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act \[Oct. 11, 1996\].”
 
 #### Redesignation of Pacific Marine Fisheries Commission as Pacific States Marine Fisheries Commission
 

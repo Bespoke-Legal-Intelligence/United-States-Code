@@ -1,16 +1,16 @@
 ### §2778. Control of arms exports and imports
 
-#### (a) Presidential control of exports and imports of defense articles and services, guidance of policy, etc.; designation of United States Munitions List; issuance of export licenses; condition for export; negotiations information
+#### (a) Presidential control of exports and imports of defense articles and services, guidance of policy, etc.; designation of United States Munitions List; issuance of export licenses; negotiations information
 
 (1) In furtherance of world peace and the security and foreign policy of the United States, the President is authorized to control the import and the export of defense articles and defense services and to provide foreign policy guidance to persons of the United States involved in the export and import of such articles and services. The President is authorized to designate those items which shall be considered as defense articles and defense services for the purposes of this section and to promulgate regulations for the import and export of such articles and services. The items so designated shall constitute the United States Munitions List.
 
-(2) Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to whether the export of an article would contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.
+(2) Decisions on issuing export licenses under this section shall take into account whether the export of an article would contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements.
 
 (3) In exercising the authorities conferred by this section, the President may require that any defense article or defense service be sold under this chapter as a condition of its eligibility for export, and may require that persons engaged in the negotiation for the export of defense articles and services keep the President fully and currently informed of the progress and future prospects of such negotiations.
 
 #### (b) Registration and licensing requirements for manufacturers, exporters, or importers of designated defense articles and defense services
 
-(1)(A)(i) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) of this section shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
+(1)(A)(i) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) of this section shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreigngovernments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
 
 (ii)(I) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1) of this section, or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
 
@@ -50,7 +50,7 @@ Any person who willfully violates any provision of this section or section 2779 
 
 #### (e) Enforcement powers of President
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 App. U.S.C. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50 App. U.S.C. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 App. U.S.C. 2401 et seq.\], except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
+In carrying out functions under this section with respect to the export of defense articles and defense services, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979 \[50 App. U.S.C. 2410(c), (d), (e), and (g)\], and by subsections (a) and (c) of section 12 of such Act \[50App. U.S.C. 2411(a) and (c)\], subject to the same terms and conditions as are applicable to such powers under such Act \[50 App. U.S.C. 2401 et seq.\], except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
 
 #### (f) Periodic review of items on Munitions List
 
@@ -120,7 +120,7 @@ The President shall periodically review the items on the United States Munitions
 
 (6) The President may require a license (or other form of authorization) before any item on the United States Munitions List is sold or otherwise transferred to the control or possession of a foreign person or a person acting on behalf of a foreign person.
 
-(7) The President shall, in coordination with law enforcement and national security agencies, develop standards for identifying high-risk exports for regular end-use verification. These standards shall be published in the Federal Register and the initial standards shall be published not later than October 1, 1988.
+(7) The President shall, in coordination with law enforcement and national security agencies, develop standards for identifying high-risk exports for regular end-use verification. Thesestandards shall be published in the Federal Register and the initial standards shall be published not later than October 1, 1988.
 
 (8) Upon request of the Secretary of State, the Secretary of Defense and the Secretary of the Treasury shall detail to the office primarily responsible for export licensing functions under this section, on a nonreimbursable basis, personnel with appropriate expertise to assist in the initial screening of applications for export licenses under this section in order to determine the need for further review of those applications for foreign policy, national security, and law enforcement concerns.
 
@@ -146,7 +146,7 @@ The President shall periodically review the items on the United States Munitions
 
 The designation by the President (or by an official to whom the President's functions under subsection (a) of this section have been duly delegated), in regulations issued under this section, of items as defense articles or defense services for purposes of this section shall not be subject to judicial review.
 
-(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440.)
+(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### References in Text
 
@@ -161,6 +161,8 @@ The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act Ju
 Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to such section \[section 1934 of this title\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–277 substituted “take into account” for “be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to” and struck out at end “The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.”
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–164, §151(a), designated existing provisions of subpar. (A) as cl. (i) and added cl. (ii).
 
@@ -202,6 +204,10 @@ Subsec. (e). Pub. L. 96–72 substituted “subsections (c), (d), (e), and (f) o
 
 1977—Subsec. (b)(3). Pub. L. 95–92 inserted provisions relating to exceptions to prohibitions against issuance of licenses under this section and procedures applicable for implementation of such exceptions.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of this title, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Section 151(b) of Pub. L. 104–164 provided that: “Section 38(b)(1)(A)(ii) of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2778(b)(1)(A)(ii)\], shall apply with respect to brokering activities engaged in beginning on or after 120 days after the enactment of this Act \[July 21, 1996\].”
@@ -236,6 +242,194 @@ Functions of President under this section relating to the control of import of d
 
 Functions of President which involve subsec. (e) of this section and are agreed to by Secretary of State and Secretary of Commerce delegated to Secretary of Commerce to be carried out on behalf of Secretary of State by section 1(<i>l</i>)(3) of Ex. Ord. No. 11958.
 
+#### Satellite Export Controls
+
+Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, as amended by Pub. L. 105–277, div.C, title I, §146(a), Oct. 21, 1998, 112 Stat. 2681–610, provided that:
+
+#### “SEC. 1511. SENSE OF CONGRESS.
+
+“It is the sense of Congress that—
+
+&emsp;“(1) United States business interests must not be placed above United States national security interests;
+
+&emsp;“(2) United States foreign policy and the policies of the United States regarding commercial relations with other countries should affirm the importance of observing and adhering to the Missile Technology Control Regime (MTCR);
+
+&emsp;“(3) the United States should encourage universal observance of the Guidelines to the Missile Technology Control Regime;
+
+&emsp;“(4) the exportation or transfer of advanced communication satellites and related technologies from United States sources to foreign recipients should not increase the risks to the national security of the United States;
+
+&emsp;“(5) due to the military sensitivity of the technologies involved, it is in the national security interests of the United States that United States satellites and related items be subject to the same export controls that apply under United States law and practices to munitions;
+
+&emsp;“(6) the United States should not issue any blanket waiver of the suspensions contained in section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) \[22 U.S.C. 2151 note\], regarding the export of satellites of United States origin intended for launch from a launch vehicle owned by the People's Republic of China;
+
+&emsp;“(7) the United States should pursue policies that protect and enhance the United States space launch industry; and
+
+&emsp;“(8) the United States should not export to the People's Republic of China missile equipment or technology that would improve the missile or space launch capabilities of the People's Republic of China.
+
+#### “SEC. 1512. CERTIFICATION OF EXPORTS OF MISSILE EQUIPMENT OR TECHNOLOGY TO CHINA.
+
+“(a)
+
+Certification.—The President shall certify to the Congress at least 15 days in advance of any export to the People's Republic of China of missile equipment or technology (as defined in section 74 of the Arms Export Control Act (22 U.S.C. 2797c)) that—
+
+&emsp;“(1) such export is not detrimental to the United States space launch industry; and
+
+&emsp;“(2) the missile equipment or technology, including any indirect technical benefit that could be derived from such export, will not measurably improve the missile or space launch capabilities of the People's Republic of China.
+
+“(b)
+
+Exception.—The certification requirement contained in subsection (a) shall not apply to the export of inertial reference units and components in manned civilian aircraft or supplied as spare or replacement parts for such aircraft.
+
+#### “SEC. 1513. SATELLITE CONTROLS UNDER THE UNITED STATES MUNITIONS LIST.
+
+“(a)
+
+Control of Satellites on the United States Munitions List.—Notwithstanding any other provision of law, all satellites and related items that are on the Commerce Control List of dual-use items in the Export Administration Regulations (15 CFR part 730 et seq.) on the date of the enactment of this Act \[Oct. 17, 1998\] shall be transferred to the United States Munitions List and controlled under section 38 of the Arms Export Control Act (22 U.S.C. 2778).
+
+“(b)
+
+Defense Trade Controls Registration Fees.—\[Amended section 2717 of this title.\]
+
+“(c)
+
+Effective Date.—(1) Subsection (a) shall take effect on March 15, 1999, and shall not apply to any export license issued before such effective date or to any export license application made under the Export Administration Regulations before such effective date.
+
+“(2) The amendments made by subsection (b) \[amending section 2717 of this title\] shall be effective as of October 1, 1998.
+
+“(d)
+
+Report.—Not later than January 1, 1999, the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Commerce, shall submit to Congress a report containing—
+
+&emsp;“(1) a detailed description of the plans of the Department of State to implement the requirements of this section, including any organizational changes that are required and any Executive orders or regulations that may be required;
+
+&emsp;“(2) an identification and explanation of any steps that should be taken to improve the license review process for exports of the satellites and related items described in subsection (a), including measures to shorten the timelines for license application reviews, and any measures relating to the transparency of the license review process and dispute resolution procedures;
+
+&emsp;“(3) an evaluation of the adequacy of resources available to the Department of State, including fiscal and personnel resources, to carry out the additional activities required by this section; and
+
+&emsp;“(4) any recommendations for additional actions, including possible legislation, to improve the export licensing process under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] for the satellites and related items described in subsection (a).
+
+#### “SEC. 1514. NATIONAL SECURITY CONTROLS ON SATELLITE EXPORT LICENSING.
+
+“(a)
+
+Actions by the President.—Notwithstanding any other provision of law, the President shall take such actions as are necessary to implement the following requirements for improving national security controls in the export licensing of satellites and related items:
+
+&emsp;“(1)
+
+Mandatory technology control plans.—All export licenses shall require a technology transfer control plan approved by the Secretary of Defense and an encryption technology transfer control plan approved by the Director of the National Security Agency.
+
+&emsp;“(2)
+
+Mandatory monitors and reimbursement.—
+
+&emsp;&emsp;“(A)
+
+Monitoring of proposed foreign launch of satellites.—In any case in which a license is approved for the export of a satellite or related items for launch in a foreign country, the Secretary of Defense shall monitor all aspects of the launch in order to ensure that no unauthorized transfer of technology occurs, including technical assistance and technical data. The costs of such monitoring services shall be fully reimbursed to the Department of Defense by the person or entity receiving such services. All reimbursements received under this subparagraph shall be credited to current appropriations available for the payment of the costs incurred in providing such services.
+
+&emsp;&emsp;“(B)
+
+Contents of monitoring.—The monitoring under subparagraph (A) shall cover, but not be limited to—
+
+&emsp;&emsp;&emsp;“(i) technical discussions and activities, including the design, development, operation, maintenance, modification, and repair of satellites, satellite components, missiles, other equipment, launch facilities, and launch vehicles;
+
+&emsp;&emsp;&emsp;“(ii) satellite processing and launch activities, including launch preparation, satellite transportation, integration of the satellite with the launch vehicle, testing and checkout prior to launch, satellite launch, and return of equipment to the United States;
+
+&emsp;&emsp;&emsp;“(iii) activities relating to launch failure, delay, or cancellation, including post-launch failure investigations; and
+
+&emsp;&emsp;&emsp;“(iv) all other aspects of the launch.
+
+&emsp;“(3)
+
+Mandatory licenses for crash-investigations.—In the event of the failure of a launch from a foreign country of a satellite of United States origin—
+
+&emsp;&emsp;“(A) the activities of United States persons or entities in connection with any subsequent investigation of the failure are subject to the controls established under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\], including requirements for licenses issued by the Secretary of State for participation in that investigation;
+
+&emsp;&emsp;“(B) officials of the Department of Defense shall monitor all activities associated with the investigation to insure against unauthorized transfer of technical data or services; and
+
+&emsp;&emsp;“(C) the Secretary of Defense shall establish and implement a technology transfer control plan for the conduct of the investigation to prevent the transfer of information that could be used by the foreign country to improve its missile or space launch capabilities.
+
+&emsp;“(4)
+
+Mandatory notification and certification.—All technology transfer control plans for satellites or related items shall require any United States person or entity involved in the export of a satellite of United States origin or related items to notify the Department of Defense in advance of all meetings and interactions with any foreign person or entity providing launch services and require the United States person or entity to certify after the launch that it has complied with this notification requirement.
+
+&emsp;“(5)
+
+Mandatory intelligence community review.—The Secretary of Commerce and the Secretary of State shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connection with launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
+
+&emsp;“(6)
+
+Mandatory sharing of approved licenses and agreements.—The Secretary of State shall provide copies of all approved export licenses and technical assistance agreements associated with launches in foreign countries of satellites to the Secretaries of Defense and Energy, the Director of Central Intelligence, and the Director of the Arms Control and Disarmament Agency.
+
+&emsp;“(7)
+
+Mandatory notification to congress on licenses.—Upon issuing a license for the export of a satellite or related items for launch in a foreign country, the head of the department or agency issuing the license shall so notify Congress.
+
+&emsp;“(8)
+
+Mandatory reporting on monitoring activities.—The Secretary of Defense shall provide to Congress an annual report on the monitoring of all launches in foreign countries of satellites of United States origin.
+
+&emsp;“(9)
+
+Establishing safeguards program.—The Secretary of Defense shall establish a program for recruiting, training, and maintaining a staff dedicated to monitoring launches in foreign countries of satellites and related items of United States origin.
+
+“(b)
+
+Exception.—This section shall not apply to the export of a satellite or related items for launch in, or by nationals of, a country that is a member of the North Atlantic Treaty Organization or that is a major non-NATO ally of the United States.
+
+“(c)
+
+Effective Date.—The President shall take the actions required by subsection (a) not later than 45 days after the date of the enactment of this Act \[Oct. 17, 1998\].
+
+#### “SEC. 1515. REPORT ON EXPORT OF SATELLITES FOR LAUNCH BY PEOPLE'S REPUBLIC OF CHINA.
+
+“(a)
+
+Requirement for Report.—Each report to Congress submitted pursuant to subsection (b) of section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (22 U.S.C. 2151 note; Public Law 101–246) to waive the restrictions contained in subsection (a) of that section on the export to the People's Republic of China of any satellite of United States origin or related items shall be accompanied by a detailed justification setting forth the following:
+
+&emsp;“(1) A detailed description of all militarily sensitive characteristics integrated within, or associated with, the satellite.
+
+&emsp;“(2) An estimate of the number of United States civilian contract personnel expected to be needed in country to carry out the proposed satellite launch.
+
+&emsp;“(3)(A) A detailed description of the United States Government's plan to monitor the proposed satellite launch to ensure that no unauthorized transfer of technology occurs, together with an estimate of the number of officers and employees of the United States that are expected to be needed in country to carry out monitoring of the proposed satellite launch; and
+
+&emsp;“(B) the estimated cost to the Department of Defense of monitoring the proposed satellite launch and the amount of such cost that is to be reimbursed to the department.
+
+&emsp;“(4) The reasons why the proposed satellite launch is in the national security interest of the United States.
+
+&emsp;“(5) The impact of the proposed export on employment in the United States, including the number of new jobs created in the United States, on a State-by-State basis, as a direct result of the proposed export.
+
+&emsp;“(6) The number of existing jobs in the United States that would be lost, on a State-by-State basis, as a direct result of the proposed export not being licensed.
+
+&emsp;“(7) The impact of the proposed export on the balance of trade between the United States and the People's Republic of China and on reducing the current United States trade deficit with the People's Republic of China.
+
+&emsp;“(8) The impact of the proposed export on the transition of the People's Republic of China from a nonmarket economy to a market economy and the long-term economic benefit to the United States.
+
+&emsp;“(9) The impact of the proposed export on opening new markets to United States-made products through the purchase by the People's Republic of China of United States-made goods and services not directly related to the proposed export.
+
+&emsp;“(10) The impact of the proposed export on reducing acts, policies, and practices that constitute significant trade barriers to United States exports or foreign direct investment in the People's Republic of China by United States nationals.
+
+&emsp;“(11) The increase that will result from the proposed export in the overall market share of the United States for goods and services in comparison to Japan, France, Germany, the United Kingdom, and Russia.
+
+&emsp;“(12) The impact of the proposed export on the willingness of the People's Republic of China to modify its commercial and trade laws, practices, and regulations to make United States-made goods and services more accessible to that market.
+
+&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties, and other fees on United States-made goods and services entering that country.
+
+“(b)
+
+Militarily Sensitive Characteristics Defined.—In this section, the term ‘militarily sensitive characteristics’ includes antijamming capability, antennas, crosslinks, baseband processing, encryption devices, radiation-hardened devices, propulsion systems, pointing accuracy, kick motors, and other such characteristics as are specified by the Secretary of Defense.
+
+#### “SEC. 1516. RELATED ITEMS DEFINED.
+
+“In this subtitle, the term ‘related items’ means the satellite fuel, ground support equipment, test equipment, payload adapter or interface hardware, replacement parts, and non-embedded solid propellant orbit transfer engines described in the report submitted to Congress by the Department of State on February 6, 1998, pursuant to section 38(f) of the Arms Export Control Act (22 U.S.C. 2778(f)).”
+
+\[Pub. L. 105–277, div. C, title I, §146(b), Oct. 21, 1998, 112 Stat. 2681–610, provided that: “The amendments made by this section \[amending Pub. L. 105–261, §1512, set out above\] shall take effect on the later of—
+
+&emsp;\[“(1) the enactment of this Act \[Oct. 21, 1998\]; or
+
+&emsp;\[“(2) the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261; Oct. 17, 1998\].”\]
+
+\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
 #### Landmine Export Moratorium
 
 Pub. L. 102–484, div. A, title XIII, §1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, §1182(c)(3), title XIV, §1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, §558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §556\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161, provided that:
@@ -260,7 +454,7 @@ Findings.—The Congress makes the following findings:
 
 “(b)
 
-Statement of Policy.—(1) It shall be the policy of the United States to seek verifiable internationalagreements prohibiting the sale, transfer, or export, and further limiting the use, production, possession, and deployment of anti-personnel landmines.
+Statement of Policy.—(1) It shall be the policy of the United States to seek verifiable international agreements prohibiting the sale, transfer, or export, and further limiting the use, production, possession, and deployment of anti-personnel landmines.
 
 “(2) It is the sense of the Congress that the President should actively seek to negotiate under United Nations auspices or other auspices an international agreement, or a modification of the Convention, to prohibit the sale, transfer, or export of anti-personnel landmines.
 
@@ -410,7 +604,7 @@ Major Military Equipment.—As used in this title, the term ‘major military eq
 
 #### “SEC. 403. LIMITATION ON UNITED STATES ARMS SALES TO THE REGION.
 
-“Beginning 60 days after the date of enactment of the International Cooperation Act of 1991 \[probably means H.R. 2508, which had not been enacted into law by the end of the first session of the 102d Congress\] or the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 \[Oct. 28, 1991\], whichever is enacted first, no sale of any defense article or defense service may be made to any nation in the Middle East and Persian Gulf region, and no license may be issued for the export of any defense article or defense service to any nation in the Middle East and Persian Gulf region, unless the President—
+“Beginning 60 days after the date of enactment of the International Cooperation Act of 1991 \[probably meansH.R. 2508, which had not been enacted into law by the end of the first session of the 102d Congress\] or the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 \[Oct. 28, 1991\], whichever is enacted first, no sale of any defense article or defense service may be made to any nation in the Middle East and Persian Gulf region, and no license may be issued for the export of any defense article or defense service to any nation in the Middle East and Persian Gulf region, unless the President—
 
 &emsp;“(1) certifies in writing to the relevant congressional committees that the President has undertaken good faith efforts to convene a conference for the establishment of an arms suppliers regime having elements described in section 402; and
 
@@ -450,7 +644,7 @@ Annual Reports on Transfers and Regional Military Balance.—Beginning July 15, 
 
 &emsp;“(3) describing the progress in implementing the purposes of the multilateral arms transfer and control regime as described in section 402(b); and
 
-&emsp;“(4) identifying supplier nations that have refused to participate in such a regime or that have engagedin conduct that violates or undermines such a regime.
+&emsp;“(4) identifying supplier nations that have refused to participate in such a regime or that have engaged in conduct that violates or undermines such a regime.
 
 #### “SEC. 405. RELEVANT CONGRESSIONAL COMMITTEES DEFINED.
 
@@ -482,7 +676,7 @@ Ex. Ord. No. 12444, §3, Oct. 14, 1983, 48 F.R. 48215, formerly set out as a not
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304, 2373, 2415, 2751, 2753, 2767, 2770, 2776, 2779, 2780, 2785, 2791, 2794, 2797a of this title; title 10 sections 2350, 2553, 4543, 4687; title 12 section 635; title 18 sections 1956, 2516; title 26 section 5847; title 29 sections 1662d, 1662d–1; title 50 sections 415, 2332; title 50 App. sections 2410, 2410b, 2416.
+This section is referred to in sections 2291–5, 2304, 2373, 2415, 2751, 2753, 2767, 2770, 2776, 2779, 2780, 2785, 2791, 2794, 2797a of this title; title 10 sections 2350, 2553, 4543, 4687; title 12 section 635; title 18 sections 1956, 2516; title 26 section 5847; title 29 sections 1662d, 1662d–1; title 50 sections 415, 2332; title 50 App. sections 2410, 2410b, 2416.
 
 <i><sup>1</sup></i><i> So in original. There are two subpars. designated “(B)”.</i>
 

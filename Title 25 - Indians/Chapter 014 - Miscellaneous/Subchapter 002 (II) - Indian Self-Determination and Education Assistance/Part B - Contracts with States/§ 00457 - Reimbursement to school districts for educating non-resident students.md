@@ -10,5 +10,5 @@ Section 203 of Pub. L. 93–638 provided for a report to be prepared and submitt
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 453, 454, 456 of this title; title 20 section 2313.
+This section is referred to in sections 453, 454, 456 of this title; title 20 section 2326.
 

@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury is authorized to refund duties or other receipts in the following cases:
 
-&emsp;(1) <i>Excess deposits.—</i>Whenever it is ascertained on liquidation or reliquidation of anentry or reconciliation that more money has been deposited or paid as duties than was required by law to be so deposited or paid;
+&emsp;(1) <i>Excess deposits.—</i>Whenever it is ascertained on liquidation or reliquidation of an entry or reconciliation that more money has been deposited or paid as duties than was required by law to be so deposited or paid;
 
 &emsp;(2) <i>Fees, charges, and exactions.—</i>Whenever it is determined in the manner required by law that any fees, charges, or exactions, other than duties and taxes, have been erroneously or excessively collected; and
 
@@ -34,7 +34,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 &emsp;(3) such other documentation relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; June 2, 1970, Pub. L. 91–271, title II, §210, 84 Stat. 287; Oct. 3, 1978, Pub. L. 95–410, title II, §210, 92 Stat. 903; Oct. 30, 1984, Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), 98 Stat. 2977, 2984, renumbered Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1889(3), 100 Stat. 2925; Dec. 8, 1993, Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, 107 Stat. 2095, 2205, 2207.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207.)
 
 #### Codification
 

@@ -8,11 +8,9 @@
 
 &emsp;&emsp;(i) in the case of a student at an eligible institution who has not successfully completed the first year of a program of undergraduate education—
 
-&emsp;&emsp;&emsp;(I) $2,625, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title);
+&emsp;&emsp;&emsp;(I) $2,625, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this title); and
 
-&emsp;&emsp;&emsp;(II) $1,750, if such student is enrolled in a program whose length is less than one academic year, but at least 2/3 of such an academic year; and
-
-&emsp;&emsp;&emsp;(III) $875, if such student is enrolled in a program whose length is less than 2/3, but at least 1/3, of such an academic year;
+&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
 &emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate education—
 
@@ -24,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(I) $5,500; or
 
-&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year; and
 
 &emsp;&emsp;(iv) in the case of a graduate or professional student (as defined in regulations of the Secretary) at an eligible institution, $8,500.
 
@@ -60,7 +58,7 @@
 
 &emsp;&emsp;(i) the 90th day after the adjournment of the next regular session of the appropriate State legislature which convenes after October 12, 1976, or
 
-&emsp;&emsp;(ii) if the primary source of lending capital for such lender is derived from the sale of bonds, and the constitution of the appropriate State prohibits a pledge of such State's credit as security against suchbonds, the day which is one year after such 90th day.
+&emsp;&emsp;(ii) if the primary source of lending capital for such lender is derived from the sale of bonds, and the constitution of the appropriate State prohibits a pledge of such State's credit as security against such bonds, the day which is one year after such 90th day.
 
 #### (2) Computation of amounts in repayment
 
@@ -82,17 +80,27 @@
 
 &emsp;The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under the provisions of section 1080 or 1087 of this title.
 
-(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461.)
+(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679.)
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
+Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Prior Provisions
 
 A prior section 1075, Pub. L. 89–329, title IV, §425, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 90–575, title I, §§116(b)(1), 120(a)(2), Oct. 16, 1968, 82 Stat. 1023, 1027; Pub. L. 92–318, title I, §§132A(a), 132B(a), June 23, 1972, 86 Stat. 261, 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2104; Pub. L. 95–43, §1(a)(15)–(17), June 15, 1977, 91 Stat. 214; Pub. L. 95–566, §5(b)(2), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §412(a), (b), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(a), (b), Aug. 13, 1981, 95 Stat. 455; Pub. L. 99–272, title XVI, §16013(e)(1), Apr. 7, 1986, 100 Stat. 341, limited Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+1998—Subsec. (a)(1)(A)(i)(I). Pub. L. 105–244, §415(1)(A), inserted “and” after semicolon.
+
+Subsec. (a)(1)(A)(i)(II), (III). Pub. L. 105–244, §415(1)(B), added subcl. (II) and struck out former subcls. (II) and (III) which read as follows:
+
+“(II) $1,750, if such student is enrolled in a program whose length is less than one academic year, but at least 2/3 of such an academic year; and
+
+“(III) $875, if such student is enrolled in a program whose length is less than 2/3, but at least 1/3, of such an academic year;”.
+
+Subsec. (a)(1)(A)(iii)(II). Pub. L. 105–244, §415(2), inserted “and” after semicolon at end.
 
 1993—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 103–208, §2(c)(2)(A), added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
 
@@ -134,13 +142,17 @@ Subsec. (a)(2)(A). Pub. L. 102–325, §413(2), added cls. (i) and (ii) and conc
 
 Subsec. (a)(2)(A)(ii). Pub. L. 100–50, §10(a)(2), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “graduate or professional student)”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by section 2(c)(2) of Pub. L. 103–208 effective on and after July 1, 1994 and amendment by section 2(c)(3) of Pub. L. 103–208 effective on and after Dec. 20, 1993, see section 5(b)(2), (6) of Pub. L. 103–208 set out as a note under section 1003 of this title.
+Amendment by section 2(c)(2) of Pub. L. 103–208 effective on and after July 1, 1994 and amendment by section 2(c)(3) of Pub. L. 103–208 effective on and after Dec. 20, 1993, see section 5(b)(2), (6) of Pub. L. 103–208 set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, with changes made in subsec. (a), relating to annual and aggregate loan limits, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, except that changes made in subsec. (a)(1)(A)(i) applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, and except that changes made in subsec. (a)(1)(A)(iv) applicable with respect to loans to cover costs of instruction for periods of enrollment beginning on or after Oct. 1,1993, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, with changes made in subsec. (a), relating to annual and aggregate loan limits, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, except that changes made in subsec. (a)(1)(A)(i) applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, and except that changes made in subsec. (a)(1)(A)(iv) applicable with respect to loans to cover costs of instruction for periods of enrollment beginning on or after Oct. 1, 1993, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -152,7 +164,7 @@ Section effective Oct. 17, 1986, except that subsec. (a) of this section applica
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078–3, 1080, 1094 of this title.
+This section is referred to in sections 1080, 1094 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

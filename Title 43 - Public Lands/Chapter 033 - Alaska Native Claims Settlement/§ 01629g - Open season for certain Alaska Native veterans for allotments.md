@@ -1,0 +1,106 @@
+### §1629g. Open season for certain Alaska Native veterans for allotments
+
+#### (a) In general
+
+(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal <sup>1</sup> land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect before December 18, 1971.
+
+(2) Allotments may be selected only from lands that were vacant, unappropriated, and unreserved on the date when the person eligible for the allotment first used and occupied those lands.
+
+(3) The Secretary may not convey allotments containing any of the following—
+
+&emsp;(A) lands upon which a native or non-native campsite is located, except for a campsite used primarily by the person selecting the allotment;
+
+&emsp;(B) lands selected by, but not conveyed to, the State of Alaska pursuant to the Alaska Statehood Act or any other provision of law;
+
+&emsp;(C) lands selected by, but not conveyed to, a Village or Regional Corporation;
+
+&emsp;(D) lands designated as wilderness by statute;
+
+&emsp;(E) acquired lands;
+
+&emsp;(F) lands containing a building, permanent structure, or other development owned or controlled by the United States, another unit of government, or a person other than the person selecting the allotment;
+
+&emsp;(G) lands withdrawn or reserved for national defense purposes other than National Petroleum Reserve-Alaska;
+
+&emsp;(H) National Forest Lands; and
+
+&emsp;(I) lands selected or claimed, but not conveyed, under a public land law, including but not limited to the following:
+
+&emsp;&emsp;(1) Lands within a recorded mining claim.
+
+&emsp;&emsp;(2) Home sites.
+
+&emsp;&emsp;(3) Trade and Manufacturing sites.
+
+&emsp;&emsp;(4) Reindeer sites and Reindeer headquarters sites.
+
+&emsp;&emsp;(5) Cemetery sites.
+
+(4) A person who qualifies for an allotment on lands prohibited from conveyance by a provision of subsection (a)(3) of this section may select an alternative allotment from the following lands located within the geographic boundaries of the same Regional Corporation as the excluded allotment—
+
+&emsp;(A) lands withdrawn pursuant to section 1610(a)(1) of this title which were not selected, or were relinquished after selection;
+
+&emsp;(B) lands contiguous to the outer boundary of lands withdrawn pursuant to section 1610(a)(1)(C) of this title, except lands excluded from selection by a provision of subsection (a)(3) of this section and lands within a National Park; and
+
+&emsp;(C) vacant, unappropriated and unreserved lands.
+
+(5) After consultation with a person entitled to an allotment within a Conservation System Unit, the Secretary may convey alternative lands of equal acreage, including lands within a Conservation System Unit, to that person if the Secretary determines that the allotment would be incompatible with a purpose for which the Conservation System Unit was established.
+
+(6) All conveyances under this section shall—
+
+&emsp;(A) be subject to valid existing rights, including any right of the United States to income derived, directly or indirectly, from a lease, license, permit, right-of-way or easement; and
+
+&emsp;(B) reserve to the United States deposits of oil, gas and coal, together with the right to explore, mine, and remove these minerals, on lands which the Secretary determines to be prospectively valuable for development.
+
+#### (b) Eligible person
+
+(1) A person is eligible to select an allotment under this section if that person—
+
+&emsp;(A) would have been eligible for an allotment under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as that Act was in effect before December 18, 1971; and
+
+&emsp;(B) is a veteran who served during the period between January 1, 1969 and December 31, 1971 and—
+
+&emsp;&emsp;(i) served at least 6 months between January 1, 1969 and June 2, 1971; or
+
+&emsp;&emsp;(ii) enlisted or was drafted into military service after June 2, 1971 but before December 3, 1971.
+
+(2) The personal representative of the estate of a decedent who was eligible under subsection (b)(1) of this section may, for the benefit of the heirs, select an allotment if, during the period specified in subsection (b)(1)(B) of this section, the decedent—
+
+&emsp;(A) was killed in action;
+
+&emsp;(B) was wounded in action and subsequently died as a direct consequence of that wound, as determined by the Department of Veterans Affairs; or
+
+&emsp;(C) died while a prisoner of war.
+
+(3) No person who received an allotment or has a pending allotment under the Act of May 17, 1906 may receive an allotment under this section.
+
+#### (c) Study and report
+
+(1) The Secretary of the Interior shall conduct a study to identify and assess the circumstances of veterans of the Vietnam era who—
+
+&emsp;(A) served during a period other than that specified in subsection (b)(1)(B) of this section;
+
+&emsp;(B) were eligible for an allotment under the Act of May 17, 1906; and
+
+&emsp;(C) did not apply for an allotment under that Act.
+
+(2) The Secretary shall, within one year of October 21, 1998, issue a written report on the study, including findings and recommendations, to the Committee on Appropriations and the Committee on Energy and Natural Resources in the Senate and the Committee on Appropriations and the Committee on Resources in the House of Representatives.
+
+#### (d) Definitions
+
+For the purposes of this section, the terms “veteran” and “Vietnam era” have the meanings given those terms by paragraphs (2) and (29), respectively, of section 101 of title 38.
+
+#### (e) Regulations
+
+No later than 18 months after October 21, 1998, the Secretary of the Interior shall promulgate, after consultation with Alaska Natives groups, rules to carry out this section.
+
+(Pub. L. 92–203, §41, as added Pub. L. 105–276, title IV, §432, Oct. 21, 1998, 112 Stat. 2516.)
+
+#### References in Text
+
+Act of May 17, 1906, referred to in subsecs. (a)(1), (b)(1)(A), (3) and (c)(1)(B), (C), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
+
+The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+
+Public land law, referred to in subsec. (a)(3)(I), is classified generally to this title.
+

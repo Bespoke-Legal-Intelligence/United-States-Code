@@ -16,7 +16,7 @@ The programs under this part shall be conducted on a year-round basis. Services 
 
 &emsp;&emsp;(C) a review of the progress of each participant in meeting the objectives of the service strategy; and
 
-&emsp;&emsp;(D) each of the following services, which shall be provided either directly or througharrangement with other programs to a participant where the assessment and the service strategy indicate such services are appropriate:
+&emsp;&emsp;(D) each of the following services, which shall be provided either directly or through arrangement with other programs to a participant where the assessment and the service strategy indicate such services are appropriate:
 
 &emsp;&emsp;&emsp;(i) Basic skills training.
 
@@ -32,7 +32,7 @@ The programs under this part shall be conducted on a year-round basis. Services 
 
 #### (A) Information and referrals
 
-&emsp;&emsp;Each service delivery area shall ensure that each participant or applicant who meets the minimum income eligibility criteria shall be provided—
+&emsp;&emsp;Each service delivery area shall ensure that each participant or applicant whomeets the minimum income eligibility criteria shall be provided—
 
 &emsp;&emsp;&emsp;(i) information on the full array of applicable or appropriate services that are available through the service delivery area or other service providers, including those receiving funds under this chapter; and
 
@@ -128,7 +128,7 @@ Subject to the limitations contained in subsection (d) of this section, services
 
 #### (B) Additional services
 
-&emsp;&emsp;Work experience, job search assistance, job search skills training, and job club activities provided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps.
+&emsp;&emsp;Work experience, job search assistance, job search skills training, and job club activitiesprovided under this part shall be accompanied by additional services designed to increase the basic education or occupational skills of a participant. The additional services may be provided, concurrently or sequentially, under other education and training programs, including the Job Corps.
 
 #### (C) On-the-job training
 
@@ -165,6 +165,10 @@ Subject to the limitations contained in subsection (d) of this section, services
 &emsp;The service delivery area shall make opportunities available for successful individuals who have previously participated in programs under this part to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
 (Pub. L. 97–300, title II, §264, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1068; amended Pub. L. 104–193, title I, §110(n)(9), Aug. 22, 1996, 110 Stat. 2174.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
 
 #### Amendments
 

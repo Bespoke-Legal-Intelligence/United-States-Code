@@ -36,7 +36,7 @@ If the authority of this section is used to waive payments otherwise required to
 
 The authority of this section applies with respect to credit sales agreements entered into before November 28, 1990.
 
-(July 10, 1954, ch. 469, title IV, §411, as added Nov. 30, 1970, Pub. L. 91–524, title VII, §704, as added Aug. 10, 1973, Pub. L. 93–86, §1(26), 87 Stat. 237; amended Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3654; Dec. 13, 1991, Pub. L. 102–237, title III, §§322, 326, 336, 105 Stat. 1857, 1859.)
+(July 10, 1954, ch. 469, title IV, §411, as added Pub. L. 91–524, title VII, §704, Nov. 30, 1970, as added Pub. L. 93–86, §1(26), Aug. 10, 1973, 87 Stat. 237; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3654; Pub. L. 102–237, title III, §§322, 326, 336, Dec. 13, 1991, 105 Stat. 1857, 1859.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Agriculture, in consultation with Food Assistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+Functions of President under this section delegated to Secretary of Agriculture, in consultation with FoodAssistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
 #### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
 

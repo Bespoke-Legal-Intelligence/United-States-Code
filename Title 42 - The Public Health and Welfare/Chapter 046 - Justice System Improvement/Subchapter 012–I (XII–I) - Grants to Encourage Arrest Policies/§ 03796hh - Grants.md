@@ -32,7 +32,7 @@ Eligible grantees are States, Indian tribal governments, or units of local gover
 
 &emsp;(2) demonstrate that their laws, policies, or practices and their training programs discourage dual arrests of offender and victim;
 
-&emsp;(3) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both spouses file a claim and the court makes detailed findings of fact indicating that bothspouses acted primarily as aggressors and that neither spouse acted primarily in self-defense; and
+&emsp;(3) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both spouses file a claim and the court makes detailed findings of fact indicating that both spouses acted primarily as aggressors and that neither spouse acted primarily in self-defense; and
 
 &emsp;(4) certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena.
 
@@ -40,7 +40,7 @@ Eligible grantees are States, Indian tribal governments, or units of local gover
 
 #### Prior Provisions
 
-A prior section 2101 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Section Referred to in Other Sections
 

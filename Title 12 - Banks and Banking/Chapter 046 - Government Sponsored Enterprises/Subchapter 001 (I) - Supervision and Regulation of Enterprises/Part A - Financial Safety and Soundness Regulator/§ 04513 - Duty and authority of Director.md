@@ -42,11 +42,19 @@ The Director may delegate to officers and employees of the Office any of the fun
 
 The Director shall not be required to obtain the prior approval, comment, or review of any officer or agency of the United States before submitting to the Congress, or any committee or subcommittee thereof, any reports, recommendations, testimony, or comments if such submissions include a statement indicating that the views expressed therein are those of the Director and do not necessarily represent the views of the Secretary or the President.
 
-(Pub. L. 102–550, title XIII, §1313, Oct. 28, 1992, 106 Stat. 3945.)
+(Pub. L. 102–550, title XIII, §1313, Oct. 28, 1992, 106 Stat. 3945; Pub. L. 105–276, title II, §202(b), Oct. 21, 1998, 112 Stat. 2483; Pub. L. 105–277, div. A, §122, Oct. 21, 1998, 112 Stat. 2681–546.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b)(11), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+
+#### Amendments
+
+1998—Subsec. (b)(9) to (12). Pub. L. 105–276, which directed the amendment of subsec. (b) by redesignating pars. (9) to (11) as (10) to (12), respectively, and adding a new par. (9) which read “default loss protection levels under section 1454(a)(2)(D) of this title;” was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–277, div. A, §122, Oct. 21, 1998, 112 Stat. 2681–546, provided that the amendment made by section 122 is effective upon enactment of Pub. L. 105–276 (Oct. 21, 1998).
 
 #### Section Referred to in Other Sections
 

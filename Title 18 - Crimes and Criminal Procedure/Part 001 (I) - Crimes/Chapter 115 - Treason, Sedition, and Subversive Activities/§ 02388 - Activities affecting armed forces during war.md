@@ -1,6 +1,6 @@
 ### §2388. Activities affecting armed forces during war
 
-(a) Whoever, when the United States is at war, willfully makes or conveys false reports or false statements with intent to interfere with the operation or success of the military or naval forcesof the United States or to promote the success of its enemies; or
+(a) Whoever, when the United States is at war, willfully makes or conveys false reports or false statements with intent to interfere with the operation or success of the military or naval forces of the United States or to promote the success of its enemies; or
 
 Whoever, when the United States is at war, willfully causes or attempts to cause insubordination, disloyalty, mutiny, or refusal of duty, in the military or naval forces of the United States, or willfully obstructs the recruiting or enlistment service of the United States, to the injury of the service or the United States, or attempts to do so—
 
@@ -12,7 +12,7 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 (d) This section shall apply within the admiralty and maritime jurisdiction of the United States, and on the high seas, as well as within the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 811; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 811; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

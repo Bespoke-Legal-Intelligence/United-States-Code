@@ -12,3 +12,21 @@ In order to preserve and protect for the education, inspiration, recreation, and
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Dante Fascell Biscayne National Park Visitor Center
+
+Pub. L. 105–307, Oct. 29, 1998, 112 Stat. 2931, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Dante Fascell Biscayne National Park Visitor Center Designation Act’.
+
+#### “SEC. 2. DESIGNATION OF THE DANTE FASCELL VISITOR CENTER AT BISCAYNE NATIONAL PARK.
+
+“(a)
+
+Designation.—The Biscayne National Park visitor center, located on the shore of Biscayne Bay on Convoy Point, Florida, is designated as the ‘Dante Fascell Visitor Center’.
+
+“(b)
+
+References.—Any reference in a law, map, regulation, document, paper, or other document of the United States to the Biscayne National Park visitor center shall be deemed to be a reference to the ‘Dante Fascell Visitor Center’.”
+

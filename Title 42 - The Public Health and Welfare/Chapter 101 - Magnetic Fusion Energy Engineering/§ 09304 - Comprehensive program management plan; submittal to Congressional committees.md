@@ -1,6 +1,6 @@
 ### §9304. Comprehensive program management plan; submittal to Congressional committees
 
-(a) The Secretary shall prepare a comprehensive program management plan for the conductof the research, development, and demonstration activities under this chapter. Such plan shall include at a minimum—
+(a) The Secretary shall prepare a comprehensive program management plan for the conduct of the research, development, and demonstration activities under this chapter. Such plan shall include at a minimum—
 
 &emsp;(1) a presentation of the program strategy which will be used to achieve the purposes of this chapter;
 

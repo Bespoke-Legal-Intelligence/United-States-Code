@@ -112,7 +112,7 @@ The Secretary shall also consult with the Secretary of Health and Human Services
 
 The Secretary shall establish schedules and deadlines for the processing and approval (or provision of notice of disapproval) of applications for mortgage insurance under this section. The Secretary shall submit a report to the Congress annually describing such schedules and deadlines and the extent of compliance by the Department with the schedules and deadlines during the year.
 
-(June 27, 1934, ch. 847, title II, §232, as added Pub. L. 86–372, title I, §115, Sept. 23, 1959, 73 Stat. 663; amended Pub. L. 87–70, title VI, §610, June 30, 1961, 75 Stat. 180; Pub. L. 88–560, title I, §117, Sept. 2, 1964, 78 Stat. 779; Pub. L. 89–117, title XI, §1108(m), Aug. 10, 1965, 79 Stat. 505; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title III, §314, Aug. 1, 1968, 82 Stat. 511; Pub. L. 91–152, title I, §111, Dec. 24, 1969, 83 Stat. 382; Pub. L. 93–204, Dec. 28, 1973, 87 Stat. 883; Pub. L. 93–383, title III, §304(g), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308(a), Oct. 12, 1977, 91 Stat. 1135; Pub. L. 95–557, title III, §312, Oct. 31, 1978, 92 Stat. 2099; Pub. L. 96–399, title III, §310(f), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 98–181, title IV, §§404(b)(10), 437, Nov. 30, 1983, 97 Stat. 1209, 1222, 1223; Pub. L. 98–479, title I, §104(a)(1), Oct. 17, 1984, 98 Stat. 2224; Pub. L. 100–242, title IV, §§410(a), (b), 429(e), Feb. 5, 1988, 101 Stat. 1904, 1918; Pub. L. 102–550, title V, §511(a)–(e), Oct. 28, 1992, 106 Stat. 3784–3786; Pub. L. 105–65, title II, §216, Oct. 27, 1997, 111 Stat. 1367.)
+(June 27, 1934, ch. 847, title II, §232, as added Pub. L. 86–372, title I, §115, Sept. 23, 1959, 73 Stat. 663; amended Pub. L. 87–70, title VI, §610, June 30, 1961, 75 Stat. 180; Pub. L. 88–560, title I, §117, Sept. 2, 1964, 78 Stat. 779; Pub. L. 89–117, title XI, §1108(m), Aug. 10, 1965, 79 Stat. 505; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title III, §314, Aug. 1, 1968, 82 Stat. 511; Pub. L. 91–152, title I, §111, Dec. 24, 1969, 83 Stat. 382; Pub. L. 93–204, Dec. 28, 1973, 87 Stat. 883; Pub. L. 93–383, title III, §304(g), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308(a), Oct. 12, 1977, 91 Stat. 1135; Pub. L. 95–557, title III, §312, Oct. 31, 1978, 92 Stat. 2099; Pub. L. 96–399, title III, §310(f), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 98–181, title IV, §§404(b)(10), 437, Nov. 30, 1983, 97 Stat. 1209, 1222, 1223; Pub. L. 98–479, title I, §104(a)(1), Oct. 17, 1984, 98 Stat. 2224; Pub. L. 100–242, title IV, §§410(a), (b), 429(e), Feb. 5, 1988, 101 Stat. 1904, 1918; Pub. L. 102–550, title V, §511(a)–(e), Oct. 28, 1992, 106 Stat. 3784–3786; Pub. L. 105–65, title II, §216, Oct. 27, 1997, 111 Stat. 1367; Pub. L. 105–276, title II, §214(a), Oct. 21, 1998, 112 Stat. 2486.)
 
 #### References in Text
 
@@ -126,7 +126,9 @@ The Social Security Act, referred to in subsec. (i)(1), is act Aug. 13, 1935, ch
 
 #### Amendments
 
-1997—Subsec. (b)(4)(B). Pub. L. 105–65, which directed substitution of “ten years to run beyond the maturity date of the mortgage” for “fifty years from the date the mortgage was executed”, was executed by making the substitution for “fifty years to run from the date the mortgage was executed” to reflect the probable intent of Congress.
+1998—Subsec. (b)(4)(B). Pub. L. 105–276 made technical correction to directory language of Pub. L. 105–65. See 1997 Amendment note below.
+
+1997—Subsec. (b)(4)(B). Pub. L. 105–65, as amended by Pub. L. 105–276, substituted “ten years to run beyond the maturity date of the mortgage” for “fifty years to run from the date the mortgage was executed”.
 
 1992—Subsec. (a). Pub. L. 102–550, §511(a)(1), substituted “any” for “either” in introductory provisions.
 
@@ -134,7 +136,7 @@ Subsec. (a)(3). Pub. L. 102–550, §511(a)(2), added par. (3).
 
 Subsec. (b)(6), (7). Pub. L. 102–550, §511(b), added pars. (6) and (7).
 
-Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated,” after first reference to “intermediate care facility”.
+Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home orfacility is being rehabilitated,” after first reference to “intermediate care facility”.
 
 Subsec. (d)(2). Pub. L. 102–550, §511(c)(2), inserted “or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715<i>l</i>(d)(3) of this title),” before “including” in introductory provisions.
 
@@ -198,7 +200,7 @@ Subsecs. (g), (h). Pub. L. 91–152, §111(7), added subsecs. (g) and (h).
 
 1968—Subsec. (b)(2). Pub. L. 90–448, §314(1), redefined term “mortgage” to mean a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof under a lease for not less than ninety-nine years which is renewable, or under a lease having a period of not less than fifty years to run from the date the mortgage was executed, and inserted definition of “first mortgage”.
 
-Subsec. (d). Pub. L. 90–448, §314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home, and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
+Subsec. (d). Pub. L. 90–448, §314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home,and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
 
 1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 
@@ -209,6 +211,10 @@ Subsec. (f). Pub. L. 89–117, §1108(m)(2), struck out references to subsecs. (
 1964—Subsec. (b)(1). Pub. L. 88–560 inserted “or facility of a private nonprofit corporation or association” after “proprietary facility”.
 
 1961—Subsec. (d)(2). Pub. L. 87–70 substituted “90 per centum” for “75 per centum”.
+
+#### Effective Date of 1998 Amendment
+
+Pub. L. 105–276, title II, §214(b), Oct. 21, 1998, 112 Stat. 2486, provided that: “The amendment made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 27, 1997.”
 
 #### Regulations
 

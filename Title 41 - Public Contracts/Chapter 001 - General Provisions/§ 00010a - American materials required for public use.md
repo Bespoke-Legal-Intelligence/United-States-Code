@@ -56,7 +56,7 @@ For applicability of Buy American Act to procurements covered by agreement with 
 
 #### Act Referred to in Other Sections
 
-The Buy American Act is referred to in sections 10b–3, 42, 428 of this title; title 10 section 2533; title 15 sections 2507, 5528; title 19 sections 2512, 2513, 3105; title 20 section 6067; title 24 section 225h; title 25 section 1638b.
+The Buy American Act is referred to in sections 10b–3, 42, 428 of this title; title 10 section 2533; title 15 sections 2507, 5528; title 19 sections 2512, 2513, 3105; title 20 sections 6067, 9275; title 24 section 225h; title 25 section 1638b.
 
 #### Section Referred to in Other Sections
 

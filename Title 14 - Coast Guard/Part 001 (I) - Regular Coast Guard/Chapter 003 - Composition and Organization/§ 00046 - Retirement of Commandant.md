@@ -6,7 +6,7 @@
 
 (c) An officer who is retired prior to the expiration of his term, while serving as Commandant, may, in the discretion of the President, be retired with the grade of admiral.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 499; May 14, 1960, Pub. L. 86–474, §1(5), 74 Stat. 144; Sept. 24, 1963, Pub. L. 88–130, §1(4), 77 Stat. 175; June 9, 1966, Pub. L. 89–444, §1(4), (5), 80 Stat. 195; Oct. 12, 1982, Pub. L. 97–295, §2(1), 96 Stat. 1301; July 1, 1986, Pub. L. 99–348, title II, §205(b)(1), 100 Stat. 699; Dec. 20, 1993, Pub. L. 103–206, title II, §204(a), 107 Stat. 2421.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 499; Pub. L. 86–474, §1(5), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(4), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, §1(4), (5), June 9, 1966, 80 Stat. 195; Pub. L. 97–295, §2(1), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, §205(b)(1), July 1, 1986, 100 Stat. 699; Pub. L. 103–206, title II, §204(a), Dec. 20, 1993, 107 Stat. 2421.)
 
 #### Historical and Revision Notes
 

@@ -30,5 +30,5 @@ The regulations under subsection (a) of this section shall establish standards a
 
 (2) Effective 5 years after November 15, 1990, paragraph (1) shall also apply to the venting, release, or disposal of any substitute substance for a class I or class II substance by any person maintaining, servicing, repairing, or disposing of an appliance or industrial process refrigeration which contains and uses as a refrigerant any such substance, unless the Administrator determines that venting, releasing, or disposing of such substance does not pose a threat to the environment. For purposes of this paragraph, the term “appliance” includes any device which contains and uses as a refrigerant a substitute substance and which is used for household or commercial purposes, including any air conditioner, refrigerator, chiller, or freezer.
 
-(July 14, 1955, ch. 360, title VI, §608, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2661.)
+(July 14, 1955, ch. 360, title VI, §608, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2661.)
 

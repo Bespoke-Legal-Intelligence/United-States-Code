@@ -8,5 +8,5 @@ Counseling programs carried out under this part—
 
 &emsp;(3) shall provide information on the health risks of promiscuous sexual activity and intravenous drug abuse.
 
-(July 1, 1944, ch. 373, title XXVI, §2667, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 614.)
+(July 1, 1944, ch. 373, title XXVI, §2667, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 614.)
 

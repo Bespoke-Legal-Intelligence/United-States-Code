@@ -22,7 +22,7 @@ A person described in subsection (a) of this section shall—
 
 &emsp;(3) if the offense is committed with intent to sell, transfer, or use individually identifiable health information for commercial advantage, personal gain, or malicious harm, be fined not more than $250,000, imprisoned not more than 10 years, or both.
 
-(Aug. 14, 1935, ch. 531, title XI, §1177, as added Aug. 21, 1996, Pub. L. 104–191, title II, §262(a), 110 Stat. 2029.)
+(Aug. 14, 1935, ch. 531, title XI, §1177, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2029.)
 
 #### Section Referred to in Other Sections
 

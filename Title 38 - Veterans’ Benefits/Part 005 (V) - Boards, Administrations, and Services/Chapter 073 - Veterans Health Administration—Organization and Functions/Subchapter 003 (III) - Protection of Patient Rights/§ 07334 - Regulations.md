@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “A
 
 #### Termination of Commission
 
-For provisions as to termination of the National Commission for the Protection of Human Subjects ofBiochemical and Behavioral Research, see section 204(d) and (e) set out as a note under section 289<i>l</i>–1 of Title 42, The Public Health and Welfare.
+For provisions as to termination of the National Commission for the Protection of Human Subjects of Biochemical and Behavioral Research, see section 204(d) and (e) set out as a note under section 289<i>l</i>–1 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

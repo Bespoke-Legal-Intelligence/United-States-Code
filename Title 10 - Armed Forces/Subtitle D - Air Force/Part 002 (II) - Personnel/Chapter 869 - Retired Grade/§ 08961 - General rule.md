@@ -4,7 +4,7 @@
 
 (b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Air Force not covered by subsection (a) who retires other than for physicaldisability retires in the regular or reserve grade that he holds on the date of his retirement.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 554; Dec. 12, 1980, Pub. L. 96–513, title V, §504(19), 94 Stat. 2917; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1674(c)(2), 108 Stat. 3016.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 554; Pub. L. 96–513, title V, §504(19), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 103–337, div. A, title XVI, §1674(c)(2), Oct. 5, 1994, 108 Stat. 3016.)
 
 Historical and Revision Notes
 

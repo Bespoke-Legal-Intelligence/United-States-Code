@@ -30,6 +30,10 @@ The scholarship program under this chapter shall be carried out in accordance wi
 
 Section 2460(b) of this title, referred to in par. (1), was redesignated section 2460(c) of this title by Pub. L. 101–246, title II, §204(a)(2)(A), Feb. 16, 1990, 104 Stat. 50.
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4703, 4706, 4708, 4710 of this title.

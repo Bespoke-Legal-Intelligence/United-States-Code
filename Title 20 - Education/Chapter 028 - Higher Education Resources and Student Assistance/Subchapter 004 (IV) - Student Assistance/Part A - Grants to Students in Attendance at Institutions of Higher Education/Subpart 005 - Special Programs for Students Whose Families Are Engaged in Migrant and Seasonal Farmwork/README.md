@@ -2,7 +2,7 @@ subpart 5—special programs for students whose families are engaged in migrant 
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 1070, 1070a–71, 3414 of this title.
+This subpart is referred to in sections 1070, 3414 of this title.
 
 
 ---

@@ -16,17 +16,17 @@
 
 &emsp;(1) performs satisfactory service as an officer in the Selected Reserve of an armed force; and
 
-&emsp;(2) possesses professional qualifications in a health profession that the Secretary of Defense has determined to be needed critically in order to meet identified wartime combat medical skill shortages.
+&emsp;(2) possesses professional qualifications, or is enrolled in a program of education leading to professional qualifications, in a health profession that the Secretary of Defense has determined to be needed critically in order to meet identified wartime combat medical skill shortages.
 
 (c)(1) The amount of any repayment of a loan made under this section on behalf of any person shall be determined on the basis of each complete year of service that is described in subsection (b)(1) and performed by the person after the date on which the loan was made.
 
-(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section on behalf of any person may not exceed $3,000 for each year of service described in paragraph (1).
+(2) Subject to paragraph (3), the amount of a loan that may be repaid under this section on behalf of any person may not exceed $20,000 for each year of service described in paragraph (1).
 
-(3) The total amount that may be repaid on behalf of any person under this section may not exceed $20,000.
+(3) The total amount that may be repaid on behalf of any person under this section may not exceed $50,000.
 
-(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before October 1, 1999.
+(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before January 1, 2000.
 
-(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub.L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, §613(h), title X, §1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, §613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §611(h), Nov. 18, 1997, 111 Stat. 1785.)
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, §613(h), title X, §1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, §613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §611(h), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §§611(h), 654, Oct. 17, 1998, 112 Stat. 2039, 2052.)
 
 #### References in Text
 
@@ -35,6 +35,14 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. 
 The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–261, §654(a), inserted “, or is enrolled in a program of education leading to professional qualifications,” after “possesses professional qualifications”.
+
+Subsec. (c)(2). Pub. L. 105–261, §654(b)(1), substituted “$20,000” for “$3,000”.
+
+Subsec. (c)(3). Pub. L. 105–261, §654(b)(2), substituted “$50,000” for “$20,000”.
+
+Subsec. (d). Pub. L. 105–261, §611(h), substituted “January 1, 2000” for “October 1, 1999”.
 
 1997—Subsec. (d). Pub. L. 105–85 substituted “October 1, 1999” for “October 1, 1998”.
 

@@ -8,7 +8,7 @@ The Secretary, in determining the amount of the payments which may be made under
 
 &emsp;(2) With respect to freestanding skilled nursing facilities located in rural areas, the limit shall be equal to 112 percent of the mean per diem routine service costs for freestanding skilled nursing facilities located in rural areas.
 
-&emsp;(3) With respect to hospital-based skilled nursing facilities located in urban areas, thelimit shall be equal to the sum of the limit for freestanding skilled nursing facilities located in urban areas, plus 50 percent of the amount by which 112 percent of the mean per diem routine service costs for hospital-based skilled nursing facilities located in urban areas exceeds the limit for freestanding skilled nursing facilities located in urban areas.
+&emsp;(3) With respect to hospital-based skilled nursing facilities located in urban areas, the limit shall be equal to the sum of the limit for freestanding skilled nursing facilities located in urban areas, plus 50 percent of the amount by which 112 percent of the mean per diem routine service costs for hospital-based skilled nursing facilities located in urban areas exceeds the limit for freestanding skilled nursing facilities located in urban areas.
 
 &emsp;(4) With respect to hospital-based skilled nursing facilities located in rural areas, the limit shall be equal to the sum of the limit for freestanding skilled nursing facilities located in rural areas, plus 50 percent of the amount by which 112 percent of the mean per diem routine service costs for hospital-based skilled nursing facilities located in rural areas exceeds the limit for freestanding skilled nursing facilities located in rural areas.
 
@@ -36,7 +36,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 (C) The per diem amounts determined under subparagraph (B) shall not exceed the limit on routine service costs determined under subsection (a) of this section with respect to the facility, adjusted to take into account average capital-related costs with respect to the type and location of the facility.
 
-(3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a) of this section, and the term “region” shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
+(3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a) of this section, and the term “region” shall have thesame meaning as under section 1395ww(d)(2)(D) of this title.
 
 (4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
 
@@ -104,7 +104,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Treatment of new skilled nursing facilities
 
-&emsp;&emsp;&emsp;In the case of a skilled nursing facility that first received payment for services under this subchapter on or after October 1, 1995, payment for such services shall be made under this subsection as if all services were furnished after the transition period.
+&emsp;&emsp;&emsp;In the case of a skilled nursing facility that first received payment for services under this subchapter on or after October 1, 1995, payment for such services shall bemade under this subsection as if all services were furnished after the transition period.
 
 #### (3) Determination of facility specific per diem rates
 
@@ -182,7 +182,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (i) Initial period
 
-&emsp;&emsp;&emsp;For the initial period beginning on July 1, 1998, and ending on September 30, 1999, the Secretary shall compute for skilled nursing facilities an unadjusted federal <sup>1</sup> per diem rate equal to the average of the weighted average per diem rates computedunder clauses (i) and (ii) of subparagraph (D), increased by skilled nursing facility market basket percentage change for such period minus 1 percentage point.
+&emsp;&emsp;&emsp;For the initial period beginning on July 1, 1998, and ending on September 30, 1999, the Secretary shall compute for skilled nursing facilities an unadjusted federal <sup>1</sup> per diem rate equal to the average of the weighted average per diem rates computed under clauses (i) and (ii) of subparagraph (D), increased by skilled nursing facility market basket percentage change for such period minus 1 percentage point.
 
 #### (ii) Subsequent fiscal years
 
@@ -230,7 +230,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (B) Skilled nursing facility market basket percentage
 
-&emsp;&emsp;The term “skilled nursing facility market basket percentage” means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
+&emsp;&emsp;The term “skilled nursing facility market basket percentage” means, for a fiscal yearor other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
 
 #### (6) Submission of resident assessment data
 
@@ -264,7 +264,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;No payment may be made under part B of this subchapter for items and services (other than services described in paragraph (2)(A)(ii)) furnished to an individual who is a resident of a skilled nursing facility or of a part of a facility that includes a skilled nursing facility (as determined under regulations), unless the claim for such payment includes a code (or codes) under a uniform coding system specified by the Secretary that identifies the items or services furnished.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added July 18, 1984, Pub. L. 98–369, div. B, title III, §2319(b), 98 Stat. 1082; amended Apr. 7, 1986, Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), 100 Stat. 168, 170, 182; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), 100 Stat. 2933; Dec. 22, 1987, Pub. L. 100–203, title IV, §4201(b)(2), 101 Stat. 1330–174; Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), 104 Stat. 1388–45, 1388–48; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), 107 Stat. 578; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), 111 Stat. 414, 421, 422, 442.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442.)
 
 #### References in Text
 
@@ -360,7 +360,7 @@ Section 4008(k) of Pub. L. 101–508 provided that:
 
 “(1)
 
-Development of proposal.—The Secretary of Health and Human Services shall develop a proposal to modify the current system under which skilled nursing facilities receive payment for extended care services under part A \[part A of this subchapter\] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
+Development of proposal.—The Secretary of Health and Human Services shall develop a proposal to modify the current system under which skilled nursing facilities receive payment for extended care servicesunder part A \[part A of this subchapter\] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
 
 &emsp;“(A) take into consideration the need to provide for appropriate limits on increases in expenditures under the medicare program without jeopardizing access to extended care services for individuals unable to care for themselves;
 

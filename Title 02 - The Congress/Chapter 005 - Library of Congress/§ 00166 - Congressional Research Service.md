@@ -162,7 +162,7 @@ The civil service laws, referred to in subsec. (c)(3), are set forth in Title 5,
 
 1970—Subsec. (a). Pub. L. 91–510 substituted provision for continuation of Legislative Reference Service, redesignated “Congressional Research Service”, for prior authorization for establishment of Legislative Reference Service and deleted second sentence, cls. (1) to (3), prescribing as duties of such Service for the Congress and its committees, the giving of advice and assistance, making data available, and preparing summaries and digests of public hearings before committees and of bills and resolutions of public nature, which was incorporated in subsec. (d)(1), (d)(4), and (d)(6), respectively, of this section.
 
-Subsec. (b). Pub. L. 91–510 added subsec. (b). Former subsec. (b)(1) provided for appointment of director, assistant director, and other necessary personnel of Legislative Reference Service, without regard to civil-service laws, without reference to political affiliations, on ground of fitness to perform duties of the office, forcompensation in accordance with Classification Act of 1949, with a prescribed minimum for senior specialists in the various fields, and made all employees of the Service subject to civil-service retirement laws, now incorporated in subsec. (c)(1), (2)(A), and (3) of this section and sections 8331(1)(viii) and 8347(j) of Title 5, Government Organization and Employees. Former subsec. (b)(2) provided for appointment of senior specialists in certain enumerated fields and was covered in subsec. (e) of this section.
+Subsec. (b). Pub. L. 91–510 added subsec. (b). Former subsec. (b)(1) provided for appointment of director, assistant director, and other necessary personnel of Legislative Reference Service, without regard to civil-service laws, without reference to political affiliations, on ground of fitness to perform duties of the office, for compensation in accordance with Classification Act of 1949, with a prescribed minimum for senior specialists in the various fields, and made all employees of the Service subject to civil-service retirement laws, now incorporated in subsec. (c)(1), (2)(A), and (3) of this section and sections 8331(1)(viii) and 8347(j) of Title 5, Government Organization and Employees. Former subsec. (b)(2) provided for appointment of senior specialists in certain enumerated fields and was covered in subsec. (e) of this section.
 
 Subsec. (c). Pub. L. 91–510 incorporated in provisions added as subsec. (c) provisions of former subsec. (b) (1), and in revising them, provided in par. (1) for consultation with Joint Committee on the Library before appointment of Director and for basic pay rate of Director equal to level V of Executive Schedule, provided in par. (2) for appointment, upon recommendation of the Director, of a Deputy Director and made references to classification and General Schedule pay rate provisions of revised Title 5, reenacted as subpar. (A) proviso of second sentence of former subsec. (b)(1), and added subpar. (B), and in par. (3) reenacted part of first sentence of former subsec. (b)(1).
 
@@ -194,9 +194,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Compensation of Director of Congressional Research Service
 
-Pub. L. 105–55, title I, Oct. 7, 1997, 111 Stat. 1190, provided in part: “That, notwithstanding any other provision of law, the compensation of the Director of the Congressional Research Service, Library of Congress, shall be at an annual rate which is equal to the annual rate of basic pay for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.”
+Pub. L. 105–275, title I, Oct. 21, 1998, 112 Stat. 2444, provided in part: “That, notwithstanding any other provision of law, the compensation of the Director of the Congressional Research Service, Library of Congress, shall be at an annual rate which is equal to the annual rate of basic pay for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 105–55, title I, Oct. 7, 1997, 111 Stat. 1190.
 
 Pub. L. 104–197, title I, Sept. 16, 1996, 110 Stat. 2406.
 

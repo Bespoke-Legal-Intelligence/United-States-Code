@@ -6,13 +6,15 @@ Conditions for Termination.—In the case of any work other than a work made for
 
 &emsp;(1) In the case of a grant executed by one author, termination of the grant may be effected by that author or, if the author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest. In the case of a grant executed by two or more authors of a joint work, termination of the grant may be effected by a majority of the authors who executed it; if any of such authors is dead, the termination interest of any such author may be exercised as a unit by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's interest.
 
-&emsp;(2) Where an author is dead, his or her termination interest is owned, and may be exercised, by his widow or her widower and his or her children or grandchildren as follows:
+&emsp;(2) Where an author is dead, his or her termination interest is owned, and may be exercised, as follows:
 
 &emsp;&emsp;(A) the widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest;
 
 &emsp;&emsp;(B) the author's surviving children, and the surviving children of any dead child of the author, own the author's entire termination interest unless there is a widow or widower, in which case the ownership of one-half of the author's interest is divided among them;
 
-&emsp;&emsp;(C) the rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them.
+&emsp;&emsp;(C) the rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them.<sup>1</sup>
+
+&emsp;&emsp;(D) In <sup>2</sup> the event that the author's widow or widower, children, and grandchildren are not living, the author's executor, administrator, personal representative, or trustee shall own the author's entire termination interest.
 
 &emsp;(3) Termination of the grant may be effected at any time during a period of five years beginning at the end of thirty-five years from the date of execution of the grant; or, if the grant covers the right of publication of the work, the period begins at the end of thirty-five years from the date of publication of the work under the grant or at the end of forty years from the date of execution of the grant, whichever term ends earlier.
 
@@ -32,7 +34,7 @@ Effect of Termination.—Upon the effective date of termination, all rights unde
 
 &emsp;(2) The future rights that will revert upon termination of the grant become vested on the date the notice of termination has been served as provided by clause (4) of subsection (a). The rights vest in the author, authors, and other persons named in, and in the proportionate shares provided by, clauses (1) and (2) of subsection (a).
 
-&emsp;(3) Subject to the provisions of clause (4) of this subsection, a further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is signed by the same number and proportion ofthe owners, in whom the right has vested under clause (2) of this subsection, as are required to terminate the grant under clauses (1) and (2) of subsection (a). Such further grant or agreement is effective with respect to all of the persons in whom the right it covers has vested under clause (2) of this subsection, including those who did not join in signing it. If any person dies after rights under a terminated grant have vested in him or her, that person's legal representatives, legatees, or heirs at law represent him or her for purposes of this clause.
+&emsp;(3) Subject to the provisions of clause (4) of this subsection, a further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is signed by the same number and proportion of the owners, in whom the right has vested under clause (2) of this subsection, as are required to terminate the grant under clauses (1) and (2) of subsection (a). Such further grant or agreement is effective with respect to all of the persons in whom the right it covers has vested under clause (2) of this subsection, including those who did not join in signing it. If any person dies after rights under a terminated grant have vested in him or her, that person's legal representatives, legatees, or heirs at law represent him or her for purposes of this clause.
 
 &emsp;(4) A further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is made after the effective date of the termination. As an exception, however, an agreement for such a further grant may be made between the persons provided by clause (3) of this subsection and the original grantee or such grantee's successor in title, after the notice of termination has been served as provided by clause (4) of subsection (a).
 
@@ -40,7 +42,7 @@ Effect of Termination.—Upon the effective date of termination, all rights unde
 
 &emsp;(6) Unless and until termination is effected under this section, the grant, if it does not provide otherwise, continues in effect for the term of copyright provided by this title.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2569.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2569; Pub. L. 105–298, title I, §103, Oct. 27, 1998, 112 Stat. 2829.)
 
 #### Historical and Revision Notes
 
@@ -62,7 +64,7 @@ The right of termination would be confined to inter vivos transfers or licenses 
 
 <b>When a Grant Can be Terminated.</b> Section 203 draws a distinction between the date when a termination becomes effective and the earlier date when the advance notice of termination is served. With respect to the ultimate effective date, section 203(a)(3) provides, as a general rule, that a grant may be terminated during the 5 years following the expiration of a period of 35 years from the execution of the grant. As an exception to this basic 35-year rule, the bill also provides that “if the grant covers the right of publication of the work, the period begins at the end of 35 years from the date of publication of the work under the grant or at the end of 40 years from the date of execution of the grant, whichever term ends earlier.” This alternative method of computation is intended to cover cases where years elapse between the signing of a publication contract and the eventual publication of the work.
 
-The effective date of termination, which must be stated in the advance notice, is required to fall within the 5 years following the end of the applicable 35- or 40-year period, but the advance notice itself must be served earlier. Under section 203(a)(4)(A), the notice must be served “not less than two or more than ten years” before the effective date stated in it.
+The effective date of termination, which must be stated in the advance notice, is required to fall withinthe 5 years following the end of the applicable 35- or 40-year period, but the advance notice itself must be served earlier. Under section 203(a)(4)(A), the notice must be served “not less than two or more than ten years” before the effective date stated in it.
 
 As an example of how these time-limit requirements would operate in practice, we suggest two typical contract situations:
 
@@ -83,4 +85,14 @@ Section 203 would not prevent the parties to a transfer or license from voluntar
 Nothing contained in this section or elsewhere in this legislation is intended to extend the duration of any license, transfer or assignment made for a period of less than thirty-five years. If, for example, an agreement provides an earlier termination date or lesser duration, or if it allows the author the right of cancelling or terminating the agreement under certain circumstances, the duration is governed by the agreement. Likewise, nothing in this section or legislation is intended to change the existing state of the law of contracts concerning the circumstances in which an author may cancel or terminate a license, transfer, or assignment.
 
 Section 203(b)(6) provides that, unless and until termination is effected under this section, the grant, “if it does not provide otherwise,” continues for the term of copyright. This section means that, if the agreement does not contain provisions specifying its term or duration, and the author has not terminated the agreement under this section, the agreement continues for the term of the copyright, subject to any right of termination under circumstances which may be specified therein. If, however, an agreement does contain provisions governing its duration—for example, a term of fifty years—and the author has not exercised his or her right of termination under the statute, the agreement will continue according to its terms—in this example, for only fifty years. The quoted language is not to be construed as requiring agreements to reserve the right of termination.
+
+#### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–298, §103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
+
+Subsec. (a)(2)(D). Pub. L. 105–298, §103(2), added subpar. (D).
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

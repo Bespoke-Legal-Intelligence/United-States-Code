@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (d), whoever knowingly possesses or causes to be present a firearm or other dangerous weapon in a Federal facility (other than a Federal court facility), or attempts to do so, shall be fined under this title or imprisoned not more than 1 year, or both.
 
-(b) Whoever, with intent that a firearm or other dangerous weapon be used in the commission of a crime, knowingly possesses or causes to be present such firearm or dangerous weapon in a Federal facility, or attempts to do so, shallbe fined under this title or imprisoned not more than 5 years, or both.
+(b) Whoever, with intent that a firearm or other dangerous weapon be used in the commission of a crime, knowingly possesses or causes to be present such firearm or dangerous weapon in a Federal facility, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (c) A person who kills or attempts to kill any person in the course of a violation of subsection (a) or (b), or in the course of an attack on a Federal facility involving the use of a firearm or other dangerous weapon, shall be punished as provided in sections 1111, 1112, and 1113.
 
@@ -22,7 +22,7 @@
 
 (g) As used in this section:
 
-&emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employees are regularly present for the purpose of performing their official duties.
+&emsp;(1) The term “Federal facility” means a building or part thereof owned or leased by the Federal Government, where Federal employeesare regularly present for the purpose of performing their official duties.
 
 &emsp;(2) The term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, except that such term does not include a pocket knife with a blade of less than 21/2 inches in length.
 
@@ -64,5 +64,5 @@ Section 2205(b) of Pub. L. 101–647 provided that: “The amendments made by su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2332b, 2339A of this title.
+This section is referred to in sections 2332b, 2339A of this title; title 20 section 1415.
 

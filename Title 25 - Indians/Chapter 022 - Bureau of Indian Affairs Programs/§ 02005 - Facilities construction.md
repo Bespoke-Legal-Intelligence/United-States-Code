@@ -28,7 +28,7 @@ Within six months of November 1, 1978,<sup>1</sup> the Secretary shall submit to
 
 (ii) The inspection required under clause (i) shall be conducted by a health and safety officer designated jointly by the Secretary and the tribes affected by the action described in paragraph (1). If the Secretary and such tribes are unable to agree on the designation of the health and safety officer, the Secretary shall designate the health and safety officer and shall provide notice of such designation to each of such tribes before the inspection is conducted by such officer.
 
-(iii) If the health and safety officer conducting an inspection of a plant required under clause (i) determines that conditions at the plant do not constitute an immediate hazard to health andsafety, any consolidation or curtailment that was made by reason of conditions at the plant shall immediately cease and any school closed by reason of conditions at the plant shall be reopened immediately.
+(iii) If the health and safety officer conducting an inspection of a plant required under clause (i) determines that conditions at the plant do not constitute an immediate hazard to health and safety, any consolidation or curtailment that was made by reason of conditions at the plant shall immediately cease and any school closed by reason of conditions at the plant shall be reopened immediately.
 
 (3) If—
 
@@ -55,6 +55,10 @@ In subsec. (c), “November 1, 1978” was substituted for “the date of enactm
 #### Prior Provisions
 
 A prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, §5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Use of Tribal Priority Allocations Funds for School Facilities
+
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with 25 U.S.C. 2005(a), so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
 
 #### Section Referred to in Other Sections
 

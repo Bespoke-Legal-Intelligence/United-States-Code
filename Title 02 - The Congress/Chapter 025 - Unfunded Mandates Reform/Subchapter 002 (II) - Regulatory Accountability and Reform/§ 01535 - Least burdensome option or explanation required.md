@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, before promulgating any ru
 
 The provisions of subsection (a) of this section shall apply unless—
 
-&emsp;(1) the head of the affected agency publishes with the final rule an explanation of why the least costly, most cost-effective or least burdensome method of achieving the objectives of the rule was not adopted; or
+&emsp;(1) the head of the affected agency publishes with the final rule an explanation of why theleast costly, most cost-effective or least burdensome method of achieving the objectives of the rule was not adopted; or
 
 &emsp;(2) the provisions are inconsistent with law.
 

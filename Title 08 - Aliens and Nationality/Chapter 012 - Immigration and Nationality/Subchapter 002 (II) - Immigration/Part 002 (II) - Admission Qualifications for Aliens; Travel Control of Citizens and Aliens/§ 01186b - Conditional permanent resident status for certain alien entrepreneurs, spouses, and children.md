@@ -124,7 +124,7 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence andto be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Definitions
 
@@ -134,7 +134,7 @@ In this section:
 
 &emsp;(2) The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien entrepreneur.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Nov. 29, 1990, Pub. L. 101–649, title I, §121(b)(1), 104 Stat. 4990; amended Dec. 12, 1991, Pub. L. 102–232, title III, §302(b)(3), 105 Stat. 1743; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(8), 110 Stat. 3009–620.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29, 1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620.)
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Another section 1601 of Pub. L. 90–351, title XI, June 19, 1968, 82 Stat. 239,
 
 #### Prior Provisions
 
-A prior section 1601 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 1601 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Section Referred to in Other Sections
 

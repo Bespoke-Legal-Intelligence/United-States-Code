@@ -66,7 +66,7 @@ The Administrator may authorize the abandonment, destruction, or donation to pub
 
 Such Act, referred to in subsec. (d)(2)(A), is the Foreign Assistance Act of 1961, Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification ofthis Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-Act of May 8, 1914 (7 U.S.C. 341 et seq.), referred to in subsec. (d)(2)(E), is act May 18, 1914, ch. 79, 38 Stat. 372, as amended, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 341 of Title 7 and Tables.
+Act of May 8, 1914 (7 U.S.C. 341 et seq.), referred to in subsec. (d)(2)(E), is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 341 of Title 7 and Tables.
 
 Act of March 2, 1887 (7 U.S.C. 361a et seq.), referred to in subsec. (d)(2)(E), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
 
@@ -116,7 +116,7 @@ All functions with respect to acquiring space in buildings by lease, all functio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 475, 481, 483c, 483d, 512 of this title; title 25 section 1812; title 36 section 493; title 38 section 8162; title 42 section 11411.
+This section is referred to in sections 475, 481, 483c, 483d, 512 of this title; title 25 section 1812; title 38 section 8162; title 42 section 11411.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “at”.</i>
 

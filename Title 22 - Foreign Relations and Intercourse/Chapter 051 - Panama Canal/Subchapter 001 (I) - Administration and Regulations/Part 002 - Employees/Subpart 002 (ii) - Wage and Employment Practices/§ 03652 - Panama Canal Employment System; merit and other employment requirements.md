@@ -20,13 +20,13 @@ The Commission shall establish a Panama Canal Employment System and prescribe th
 
 (2) Any Executive agency (other than the Commission) and the Smithsonian Institution, to the extent of any election under paragraph (1), shall conduct its employment and pay practices relating to employees in accordance with the Panama Canal Employment System.
 
-(3) Notwithstanding any other provision of this chapter, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997, this subpart, as in effect on September 22, 1996, shall continue to apply to an Executive agency or the Smithsonian Institution to the extent of an election under paragraph (1) by the head of <sup>1</sup> agency or the Institution, respectively.
+(3) Notwithstanding any other provision of this chapter, the Panama Canal Act Amendments of 1996 (subtitle B of title XXXV of Public Law 104–201; 110 Stat. 2860), or the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 <sup>1</sup> Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999, this subpart, as in effect on September 22, 1996, shall continue to apply to an Executive agency or the Smithsonian Institution to the extent of an election under paragraph (1) by the head of the agency or the Institution, respectively.
 
 #### (c) Exclusion of employees or positions from coverage
 
 The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4) of this section.
 
-(Pub. L. 96–70, title I, §1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, §3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074.)
+(Pub. L. 96–70, title I, §1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, §3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074; Pub. L. 105–261, div. A, title XXXV, §§3507(c), 3512(a)(2), Oct. 17, 1998, 112 Stat. 2269, 2271.)
 
 #### References in Text
 
@@ -36,7 +36,13 @@ The Panama Canal Act Amendments of 1996, referred to in subsec. (b)(3), is subti
 
 The Panama Canal Transition Facilitation Act of 1997, referred to in subsec. (b)(3), is subtitle B of title XXXV of div. C of Pub. L. 105–85, Nov. 18, 1997, 111 Stat. 2062. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 3601 of this title and Tables.
 
+The Panama Canal Commission Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3), is title XXXV of div. C of Pub. L. 105–261, Oct. 17, 1998, 112 Stat. 2267, which amended this section and sections 3612, 3612b, 3620, 3642, 3657, 3664, 3671, 3723, 3731, 3751, 3771, 3772, 3776, 3779, and 3862 of this title, repealed sections 3646, 3647, and 3663 of this title, and enacted provisions set out as notes under section 3657 of this title. For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
+
+1998—Subsec. (b)(3). Pub. L. 105–261, §3512(a)(2), inserted “the” after “by the head of”.
+
+Pub. L. 105–261, §3507(c), substituted “the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999” for “the Panama Canal Transition Facilitation Act of 1997”.
 
 1997—Subsec. (b)(3). Pub. L. 105–85, §3550(d)(5), substituted “as in effect on September 22, 1996” for “as last in effect before September 23, 1996”.
 
@@ -56,5 +62,5 @@ For provisions requiring consultations with the Secretary of Defense for agencie
 
 This section is referred to in sections 3651, 3657a of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “111”.</i>
 

@@ -62,7 +62,7 @@ At the time of coverage renewal, a health insurance issuer may modify the health
 
 In applying this section in the case of health insurance coverage that is made available by a health insurance issuer in the individual market to individuals only through one or more associations, a reference to an “individual” is deemed to include a reference to such an association (of which the individual is a member).
 
-(July 1, 1944, ch. 373, title XXVII, §2742, as added Aug. 21, 1996, Pub. L. 104–191, title I, §111(a), 110 Stat. 1982.)
+(July 1, 1944, ch. 373, title XXVII, §2742, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1982.)
 
 #### Effective Date
 

@@ -1,6 +1,0 @@
-### §3805. Membership
-
-Except as provided in section 3808 of this title, eligibility for membership in the corporation and the rights and privileges of members shall be as provided in the constitution and bylaws of the corporation.
-
-(Pub. L. 99–318, §5, May 23, 1986, 100 Stat. 475.)
-

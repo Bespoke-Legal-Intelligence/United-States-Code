@@ -86,7 +86,7 @@ Section 5103(g) of Pub. L. 99–509 provided that: “The Secretary of Transport
 
 &emsp;&emsp;“(B) a recommendation of the levels to which the tonnage thresholds in laws of the United States whose application is based on tonnage should be raised if a complete conversion to the International Convention measurement system under chapter 143 is made;
 
-&emsp;“(2) in conducting the study under clause (1) of this subsection, consult with representatives of the private sector having experience with the operation ofvessels likely to be affected by laws of the United States whose application is based on tonnage; and
+&emsp;“(2) in conducting the study under clause (1) of this subsection, consult with representatives of the private sector having experience with the operation of vessels likely to be affected by laws of the United States whose application is based on tonnage; and
 
 &emsp;“(3) before July 19, 1988, submit to Congress an interim progress report on the study conducted under clause (1) of this subsection.”
 

@@ -1,6 +1,6 @@
 ### §2350f. Procurement of communications support and related supplies and services
 
-(a) As an alternative means of obtaining communications support and related supplies and services, the Secretary of Defense, subject to the approval of the Secretary of State, may enter into a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations, under which, in return for being provided communications support and related supplies and services, the United States would agree to provide to the allied country or countries or allied international organization or allied international organizations, as the case may be, an equivalent value of communications support and related supplies and services. Theterm of an arrangement entered into under this subsection may not exceed five years.
+(a) As an alternative means of obtaining communications support and related supplies and services, the Secretary of Defense, subject to the approval of the Secretary of State, may enter into a bilateral arrangement with any allied country or allied international organization or may enter into a multilateral arrangement with allied countries and allied international organizations, under which, in return for being provided communications support and related supplies and services, the United States would agree to provide to the allied country or countries or allied international organization or allied international organizations, as the case may be, an equivalent value of communications support and related supplies and services. The term of an arrangement entered into under this subsection may not exceed five years.
 
 (b)(1) Any arrangement entered into under this section shall require that any accrued credits and liabilities resulting from an unequal exchange of communications support and related supplies and services during the term of such arrangement would be liquidated by direct payment to the party having provided the greater amount of communications support and related supplies and services. Liquidations may be made at such times as the parties in an arrangement may agree upon, but in no case may final liquidation in the case of an arrangement be made later than 30 days after the end of the term for which the arrangement was entered into.
 
@@ -45,4 +45,8 @@ Subsec. (d)(1)(B). Pub. L. 101–189, §933(d)(4), substituted “; or” for p
 Subsec. (d)(1)(C), (2). Pub. L. 101–189, §933(d)(5), added cl. (C) and par. (2).
 
 1987—Subsec. (d). Pub. L. 100–26 inserted “the term” after “In this section,”.
+
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

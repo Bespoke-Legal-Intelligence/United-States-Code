@@ -2,7 +2,7 @@
 
 #### (a) Investigation and adjustment to maintain normal supply
 
-If at any time the Secretary has reason to believe that in the case of cotton, rice, peanuts, or tobacco the operation of farm marketing quotas in effect will cause the amount of such commodity which is free of marketing restrictions to be less than the normal supply for the marketing year for the commodity then current, he shall cause an immediate investigation to be made with respect thereto. In the course of such investigation due notice and opportunity for hearingshall be given to interested persons. If upon the basis of such investigation the Secretary finds the existence of such fact, he shall proclaim the same forthwith. He shall also in such proclamation specify such increase in, or termination of, existing quotas as he finds, on the basis of such investigation, is necessary to make the amount of such commodity which is free of marketing restrictions equal the normal supply.
+If at any time the Secretary has reason to believe that in the case of cotton, rice, peanuts, or tobacco the operation of farm marketing quotas in effect will cause the amount of such commodity which is free of marketing restrictions to be less than the normal supply for the marketing year for the commodity then current, he shall cause an immediate investigation to be made with respect thereto. In the course of such investigation due notice and opportunity for hearing shall be given to interested persons. If upon the basis of such investigation the Secretary finds the existence of such fact, he shall proclaim the same forthwith. He shall also in such proclamation specify such increase in, or termination of, existing quotas as he finds, on the basis of such investigation, is necessary to make the amount of such commodity which is free of marketing restrictions equal the normal supply.
 
 #### (b) Adjustment because of emergency or export demand
 
@@ -12,7 +12,7 @@ If the Secretary has reason to believe that, because of a national emergency or 
 
 In case any national marketing quota or acreage allotment for any commodity is increased under this section, each farm marketing quota for the commodity shall be increased in the same ratio.
 
-(Feb. 16, 1938, ch. 30, title III, §371, 52 Stat. 64; Apr. 3, 1941, ch. 39, §5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, §312, 68 Stat. 904; Sept. 27, 1962, Pub. L. 87–703, title III, §321, 76 Stat. 626.)
+(Feb. 16, 1938, ch. 30, title III, §371, 52 Stat. 64; Apr. 3, 1941, ch. 39, §5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, §312, 68 Stat. 904; Pub. L. 87–703, title III, §321, Sept. 27, 1962, 76 Stat. 626.)
 
 #### Amendments
 

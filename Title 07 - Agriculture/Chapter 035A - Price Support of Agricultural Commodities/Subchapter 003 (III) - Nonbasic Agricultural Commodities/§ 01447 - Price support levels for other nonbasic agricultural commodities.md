@@ -2,7 +2,7 @@
 
 The Secretary is authorized to make available through loans, purchases, or other operations price support to producers for any nonbasic agricultural commodity not designated in sections 1446, 1446a, and 1446d <sup>1</sup> of this title at a level not in excess of 90 per centum of the parity price for the commodity.
 
-(Oct. 31, 1949, ch. 792, title III, §301, 63 Stat. 1053; Sept. 29, 1977, Pub. L. 95–113, title X, §1003(a), 91 Stat. 950.)
+(Oct. 31, 1949, ch. 792, title III, §301, 63 Stat. 1053; Pub. L. 95–113, title X, §1003(a), Sept. 29, 1977, 91 Stat. 950.)
 
 #### References in Text
 

@@ -52,7 +52,7 @@ Amendment by Pub. L. 95–202 effective first day of first month beginning 60 da
 
 #### Effective Date of 1976 Amendment
 
-Amendment by sections 206 and 211(8) of Pub. L. 94–502 effective Dec. 1, 1976, and Oct. 15, 1976, respectively, see section 703(b), (c) of Pub. L. 94–502, set outas an Effective Date note under section 3693 of this title.
+Amendment by sections 206 and 211(8) of Pub. L. 94–502 effective Dec. 1, 1976, and Oct. 15, 1976, respectively, see section 703(b), (c) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
 #### Study of Methods To Improve Process Under Which Postsecondary Educational Institutions and Courses Are Approved; Report by September 30, 1979; Suspension of Implementation of 1976 Amendment
 

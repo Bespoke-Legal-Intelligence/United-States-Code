@@ -1,6 +1,0 @@
-### §1030. Omitted
-
-#### Codification
-
-Section, Pub. L. 89–329, title II, §213, as added Pub. L. 99–498, title II, §203, Oct. 17, 1986, 100 Stat. 1289, whichdefined “full-time equivalent students”, was omitted in the general amendment of this subchapter by Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467.
-

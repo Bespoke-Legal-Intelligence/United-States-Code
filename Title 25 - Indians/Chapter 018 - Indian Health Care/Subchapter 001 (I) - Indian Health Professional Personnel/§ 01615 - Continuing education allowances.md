@@ -2,7 +2,7 @@
 
 #### (a) Discretionary authority; scope of activities
 
-In order to encourage physicians, dentists, nurses, and other health professionals to join or continue in the Service and to provide their services in the rural and remote areas where asignificant portion of the Indian people resides, the Secretary, acting through the Service, may provide allowances to health professionals employed in the Service to enable them for a period of time each year prescribed by regulation of the Secretary to take leave of their duty stations for professional consultation and refresher training courses.
+In order to encourage physicians, dentists, nurses, and other health professionals to join or continue in the Service and to provide their services in the rural and remote areas where a significant portion of the Indian people resides, the Secretary, acting through the Service, may provide allowances to health professionals employed in the Service to enable them for a period of time each year prescribed by regulation of the Secretary to take leave of their duty stations for professional consultation and refresher training courses.
 
 #### (b) Limitation
 

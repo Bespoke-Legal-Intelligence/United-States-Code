@@ -8,5 +8,5 @@ The principal amount owed under each new obligation issued under section 1738c o
 
 Principal repayments on new obligations issued under section 1738c of this title shall be deposited in Commodity Credit Corporation accounts.
 
-(July 10, 1954, ch. 469, title VI, §605, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3659.)
+(July 10, 1954, ch. 469, title VI, §605, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3659.)
 

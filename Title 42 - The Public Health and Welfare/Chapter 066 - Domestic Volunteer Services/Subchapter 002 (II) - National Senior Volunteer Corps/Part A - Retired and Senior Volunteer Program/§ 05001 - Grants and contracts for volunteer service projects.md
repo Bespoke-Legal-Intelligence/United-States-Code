@@ -18,11 +18,11 @@ In no event shall the required proportion of the local contribution (including i
 
 #### (c) Conditions upon award of grant or contract
 
-The Director shall not award any grant or contract under this part for a project in any State to any agency or organization unless, if such State has a State agency established or designated pursuant to section 3025(a)(1) of this title, such agency itself is the recipient of the award or such agency has been afforded at least forty-five days in which to review the projectapplication and make recommendations thereon.
+The Director shall not award any grant or contract under this part for a project in any State to any agency or organization unless, if such State has a State agency established or designated pursuant to section 3025(a)(1) of this title, such agency itself is the recipient of the award or such agency has been afforded at least forty-five days in which to review the project application and make recommendations thereon.
 
 #### (d) Volunteer service as employment
 
-Notwithstanding any other provision of law, volunteer service under this part shall not be deemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
+Notwithstanding any other provision of law, volunteer service under this part shall not bedeemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
 
 (Pub. L. 93–113, title II, §201, Oct. 1, 1973, 87 Stat. 401; Pub. L. 93–351, §4, July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title IV, §402(a), Oct. 18, 1978, 92 Stat. 1556; Pub. L. 98–288, §14(a), (b), May 21, 1984, 98 Stat. 192; Pub. L. 101–204, title IX, §902(2), Dec. 7, 1989, 103 Stat. 1826; Pub. L. 103–82, title III, §343, Sept. 21, 1993, 107 Stat. 904.)
 

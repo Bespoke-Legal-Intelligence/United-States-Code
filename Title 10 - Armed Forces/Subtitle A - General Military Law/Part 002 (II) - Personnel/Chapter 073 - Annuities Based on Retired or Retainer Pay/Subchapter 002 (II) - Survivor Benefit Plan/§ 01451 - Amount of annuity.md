@@ -6,7 +6,7 @@ Computation of Annuity for a Spouse, Former Spouse, or Child.—
 
 &emsp;(1)
 
-Standard annuity.—In the case of a standard annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuitypayable to the beneficiary shall be determined as follows:
+Standard annuity.—In the case of a standard annuity provided to a beneficiary under section 1450(a) of this title (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
 
 &emsp;&emsp;(A)
 
@@ -102,7 +102,7 @@ General rule.—If the person receiving the annuity (other than a dependent chil
 
 &emsp;&emsp;&emsp;(ii)
 
-Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary than computationunder clause (i), the annuity shall be computed under that subsection rather than under clause (i).
+Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
 &emsp;(2)
 
@@ -328,7 +328,7 @@ Subsec. (g)(1). Pub. L. 99–348, §301(b), struck out “by the same total perc
 
 Subsecs. (h), (i). Pub. L. 99–348, §301(a)(2), (c), added subsecs. (h) and (i).
 
-1985—Pub. L. 99–145, §711(a), amended section generally, eliminating the social security offset to the Plan and establishing a two-tier system under which the beneficiary would receive 55 percent of retired pay before age 62 and 35 percent thereafter in recognition of the entitlement to social security based on military service, and providing benefits to certain beneficiaries under either the old social security offset system or the new two-tier system, whichever is higher.
+1985—Pub. L. 99–145, §711(a), amended section generally, eliminating the social security offset to the Planand establishing a two-tier system under which the beneficiary would receive 55 percent of retired pay before age 62 and 35 percent thereafter in recognition of the entitlement to social security based on military service, and providing benefits to certain beneficiaries under either the old social security offset system or the new two-tier system, whichever is higher.
 
 Subsec. (a)(3). Pub. L. 99–145, §711(b), repealed Pub. L. 98–525, §641(a), effective Sept. 1, 1985. See 1984 Amendment note below.
 
@@ -344,7 +344,7 @@ Subsec. (c). Pub. L. 96–402, §3(b), substituted in first sentence “this sec
 
 Subsec. (d). Pub. L. 96–402, §3(c), substituted reference to “subsection (a)(1)(B)” for “subsection (a)(2)”.
 
-1978—Subsec. (a). Pub. L. 95–397, §204(a), (b), substituted “The monthly annuity payable to a widow, widower, or dependent child who is entitled under section 1450(a) of this title to an annuity shall be—” for “If the widow or widower is under age 62 or there is a dependent child, the monthly annuity payable to the widow, widower, or dependent child, under section 1450 of this title shall be equal to 55 percent of the base amount.”, and added pars. (1) and (2), and substituted “For the purpose of the preceding sentence, a widow or widower shall not be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 to the extentthat such benefit has been offset by deductions under section 403 of title 42 on account of work” for “For the purpose of the preceding sentence, a widow or widower shall be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 even though that benefit has been offset by deductions under section 403 of title 42 on account of work”.
+1978—Subsec. (a). Pub. L. 95–397, §204(a), (b), substituted “The monthly annuity payable to a widow, widower, or dependent child who is entitled under section 1450(a) of this title to an annuity shall be—” for “If the widow or widower is under age 62 or there is a dependent child, the monthly annuity payable to the widow, widower, or dependent child, under section 1450 of this title shall be equal to 55 percent of the base amount.”, and added pars. (1) and (2), and substituted “For the purpose of the preceding sentence, a widow or widower shall not be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 to the extent that such benefit has been offset by deductions under section 403 of title 42 on account of work” for “For the purpose of the preceding sentence, a widow or widower shall be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 even though that benefit has been offset by deductions under section 403 of title 42 on account of work”.
 
 Subsec. (b). Pub. L. 95–397, §204(c), substituted “The monthly annuity payable under section 1450(a)(4) of this title shall be—” for “The monthly annuity payable under section 1450(a)(4) of this title shall be 55 percent of the retired or retainer pay of the person who elected to provide that annuity after the reduction in that retired or retainer pay in accordance with section 1452(c) of this title.”, added pars. (1) and (2) and provision following par. (2) relating to the entitlement to retirement pay, and computation thereof, by a person who provided an annuity and who dies before becoming 60 years of age.
 
@@ -404,7 +404,7 @@ Recomputation.—The Secretary concerned shall recompute the annuity of any pers
 
 &emsp;“(2)
 
-Amount of recomputed annuities.—The amount of the annuity as so recomputed shall be the amount that would be in effect for that annuity on the effective date specified in subsection (d) if the annuity had originally been computed subject to the provisions of paragraph (3) of section 1451(c) of title 10, United States Code, as amended by subsection (a).
+Amount of recomputed annuities.—The amount of the annuity as so recomputed shall be theamount that would be in effect for that annuity on the effective date specified in subsection (d) if the annuity had originally been computed subject to the provisions of paragraph (3) of section 1451(c) of title 10, United States Code, as amended by subsection (a).
 
 “(c)
 

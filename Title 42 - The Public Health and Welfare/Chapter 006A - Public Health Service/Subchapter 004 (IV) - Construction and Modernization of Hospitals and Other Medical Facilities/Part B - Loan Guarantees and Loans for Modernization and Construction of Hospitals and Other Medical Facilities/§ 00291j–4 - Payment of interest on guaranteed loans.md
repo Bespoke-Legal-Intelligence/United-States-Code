@@ -4,5 +4,5 @@
 
 (b) Contracts to make the payments provided for in this section shall not carry an aggregate amount greater than such amount as may be provided in appropriations Acts.
 
-(July 1, 1944, ch. 373, title VI, §624, as added June 30, 1970, Pub. L. 91–296, title II, §201, 84 Stat. 347.)
+(July 1, 1944, ch. 373, title VI, §624, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 347.)
 

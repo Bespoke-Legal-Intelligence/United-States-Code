@@ -24,7 +24,7 @@
 
 (3) The Secretary shall develop and implement specific procedures with respect to when and how each of the intermediate sanctions developed under paragraph (1) is to be applied, the amounts of any penalties, and the severity of each of these penalties. Such procedures shall be designed so as to minimize the time between identification of violations and imposition of these sanctions and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1846, as added Dec. 22, 1987, Pub. L. 100–203, title IV, §4064(d)(1), 101 Stat. 1330–111; amended July 1, 1988, Pub. L. 100–360, title II, §203(e)(4), title IV, §411(g)(3)(G), 102 Stat. 725, 784; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(22)(C), 102 Stat. 2421; Dec. 13, 1989, Pub. L. 101–234, title II, §201(a), 103 Stat. 1981; Nov. 5, 1990, Pub. L. 101–508, title IV, §4154(e)(2), 104 Stat. 1388–86.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1846, as added Pub. L. 100–203, title IV, §4064(d)(1), Dec. 22, 1987, 101 Stat. 1330–111; amended Pub. L. 100–360, title II, §203(e)(4), title IV, §411(g)(3)(G), July 1, 1988, 102 Stat. 725, 784; Pub. L. 100–485, title VI, §608(d)(22)(C), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title IV, §4154(e)(2), Nov. 5, 1990, 104 Stat. 1388–86.)
 
 #### Amendments
 

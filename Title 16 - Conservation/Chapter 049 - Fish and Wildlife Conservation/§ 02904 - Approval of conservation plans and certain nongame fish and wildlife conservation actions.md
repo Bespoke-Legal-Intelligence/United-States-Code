@@ -4,7 +4,7 @@
 
 (1) Any State may apply to the Secretary for approval of a conservation plan.
 
-(2) Applications for the approval of conservation plans shall be made and reviewed by theSecretary in such manner as the Secretary shall by regulation prescribe.
+(2) Applications for the approval of conservation plans shall be made and reviewed by the Secretary in such manner as the Secretary shall by regulation prescribe.
 
 (3) As soon as practicable, but no later than 180 days, after the date on which a State submits (or resubmits in the case of prior disapproval) an application for the approval of a conservation plan the Secretary shall—
 

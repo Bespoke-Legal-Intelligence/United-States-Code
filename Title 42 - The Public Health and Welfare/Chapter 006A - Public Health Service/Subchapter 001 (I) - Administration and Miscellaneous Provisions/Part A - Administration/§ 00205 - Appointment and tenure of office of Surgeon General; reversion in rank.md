@@ -2,7 +2,7 @@
 
 The Surgeon General shall be appointed from the Regular Corps for a four-year term by the President by and with the advice and consent of the Senate. The Surgeon General shall be appointed from individuals who (1) are members of the Regular Corps, and (2) have specialized training or significant experience in public health programs. Upon the expiration of such term the Surgeon General, unless reappointed, shall revert to the grade and number in the Regular or Reserve Corps that he would have occupied had he not served as Surgeon General.
 
-(July 1, 1944, ch. 373, title II, §204, 58 Stat. 684; July 27, 1981, Pub. L. 97–25, title III, §303(a), 95 Stat. 145; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2765(b), 95 Stat. 932.)
+(July 1, 1944, ch. 373, title II, §204, 58 Stat. 684; Pub. L. 97–25, title III, §303(a), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(b), Aug. 13, 1981, 95 Stat. 932.)
 
 #### Amendments
 
@@ -12,7 +12,7 @@ Pub. L. 97–25 inserted provision that the President may appoint to office of S
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

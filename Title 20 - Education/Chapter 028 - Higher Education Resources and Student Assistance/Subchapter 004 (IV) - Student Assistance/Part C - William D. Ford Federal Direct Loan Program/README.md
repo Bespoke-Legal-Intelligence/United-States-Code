@@ -6,7 +6,7 @@ This part was, in the original, part D of title IV of Pub. L. 89–329, the High
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1072, 1078, 1078–3, 1090, 1091, 1091a, 1092, 1092b, 1106d of this title; title 2 section 906; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 section 6103.
+This part is referred to in sections 1070a, 1078, 1078–3, 1078–11, 1082, 1085, 1087tt, 1090, 1091, 1091a, 1091b, 1092, 1092b, 1094, 1098c, 1099c of this title; title 2 section 906; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 section 6103.
 
 
 ---
@@ -21,3 +21,5 @@ This part is referred to in sections 1072, 1078, 1078–3, 1090, 1091, 1091a, 10
 - [&sect; 01087f - Contracts](%C2%A7%2001087f%20-%20Contracts.md)
 - [&sect; 01087g - Regulatory activities](%C2%A7%2001087g%20-%20Regulatory%20activities.md)
 - [&sect; 01087h - Funds for administrative expenses](%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md)
+- [&sect; 01087i - Authority to sell loans](%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md)
+- [&sect; 01087j - Loan cancellation for teachers](%C2%A7%2001087j%20-%20Loan%20cancellation%20for%20teachers.md)

@@ -22,7 +22,7 @@ Appropriations for the National Park Service are authorized for—
 
 (j) Provide transportation for children in nearby communities to and from any unit of the National Park System used in connection with organized recreation and interpretive programs of the National Park Service.
 
-(Aug. 7, 1946, ch. 788, 60 Stat. 885; Sept. 2, 1960, Pub. L. 86–689, §3, 74 Stat. 737; Dec. 10, 1991, Pub. L. 102–201, title I, §101, 105 Stat. 1631; Nov. 12, 1996, Pub. L. 104–333, div. I, title VIII, §802, 110 Stat. 4186.)
+(Aug. 7, 1946, ch. 788, 60 Stat. 885; Pub. L. 86–689, §3, Sept. 2, 1960, 74 Stat. 737; Pub. L. 102–201, title I, §101, Dec. 10, 1991, 105 Stat. 1631; Pub. L. 104–333, div. I, title VIII, §802, Nov. 12, 1996, 110 Stat. 4186.)
 
 #### Amendments
 

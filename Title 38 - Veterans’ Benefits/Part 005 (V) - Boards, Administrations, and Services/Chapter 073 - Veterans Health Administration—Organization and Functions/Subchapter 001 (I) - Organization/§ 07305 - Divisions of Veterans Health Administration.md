@@ -22,7 +22,3 @@ The Veterans Health Administration shall include the following:
 
 1992—Par. (1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8107 of this title.
-

@@ -24,7 +24,7 @@ June 30, 1906, ch. 3938, 34 Stat. 817.
 
 50:62a (last par., less proviso).
 
-In subsection (a), the words “at his discretion” and “as may be available” are omitted as surplusage. The word “lend” is substituted for the word “issue” to reflect the intent of the section. 50:62a (1st 13 words of proviso) is omitted as surplusage. The words “and which is still in effect” are inserted for clarity.
+In subsection (a), the words “at his discretion” and “as may be available” are omitted as surplusage. The word “lend” is substituted for the word “issue” to reflect the intent of the section. 50:62a (1st 13 words ofproviso) is omitted as surplusage. The words “and which is still in effect” are inserted for clarity.
 
 In subsection (b), the words “to the United States” are omitted as surplusage. The words “except property properly expended” are inserted for clarity.
 

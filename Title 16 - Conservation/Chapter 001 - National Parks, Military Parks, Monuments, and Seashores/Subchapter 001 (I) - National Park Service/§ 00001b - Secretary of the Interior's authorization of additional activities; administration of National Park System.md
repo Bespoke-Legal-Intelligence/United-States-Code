@@ -4,7 +4,7 @@ In order to facilitate the administration of the National Park System, the Secre
 
 #### (1) Emergency assistance
 
-&emsp;Rendering of emergency rescue, fire fighting, and cooperative assistance to nearby lawenforcement and fire prevention agencies and for related purposes outside of the National Park System.
+&emsp;Rendering of emergency rescue, fire fighting, and cooperative assistance to nearby law enforcement and fire prevention agencies and for related purposes outside of the National Park System.
 
 #### (2) Utility facilities; erection and maintenance
 
@@ -32,9 +32,9 @@ In order to facilitate the administration of the National Park System, the Secre
 
 #### (8) Operation and maintenance of motor and other equipment; rent of equipment; reimbursement
 
-&emsp;The operation, repair, maintenance, and replacement of motor and other equipment on a reimbursable basis when such equipment is used on Federal projects of the said National Park System, chargeable to other appropriations, or on work of other Federal agencies, when requested by such agencies. Reimbursement shall be made from appropriations applicable to the work on which the equipment is used at rental rates established by the Secretary, based on actual or estimated cost of operation, repair, maintenance, depreciation, and equipment management control and credited to appropriations currently available at the time adjustment is effected, and the Secretary may also rent equipment for fire control purposes to State, county, private, or other non-Federal agencies that cooperate with the Secretary in the administration of the said National Park System and other areas in fire control, such rental to be under the terms of written cooperative agreements, the amount collected for such rentals to be credited to appropriations currently available at the time payment is received.
+&emsp;The operation, repair, maintenance, and replacement of motor and other equipment on a reimbursable basis when such equipment is used on Federal projects of the said National Park System, chargeable to other appropriations, or on work of other Federal agencies, when requested by such agencies. Reimbursement shall be made from appropriations applicable to the work on which the equipment is used at rental rates established by the Secretary, based on actual or estimated cost of operation, repair, maintenance, depreciation, and equipment management control and credited to appropriations currently available at the time adjustment is effected, and the Secretary may also rent equipment for fire control purposes to State, county, private, or other non-Federal agencies that cooperate with the Secretary in the administration of the said National Park System and otherareas in fire control, such rental to be under the terms of written cooperative agreements, the amount collected for such rentals to be credited to appropriations currently available at the time payment is received.
 
-(Aug. 8, 1953, ch. 384, §1, 67 Stat. 495; Aug. 18, 1970, Pub. L. 91–383, §2(a), 84 Stat. 826.)
+(Aug. 8, 1953, ch. 384, §1, 67 Stat. 495; Pub. L. 91–383, §2(a), Aug. 18, 1970, 84 Stat. 826.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ Property subject to criminal forfeiture under this section includes—
 
 #### (c) Third party transfers
 
-All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
+All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant maybe the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
 #### (d) Rebuttable presumption
 
@@ -46,7 +46,7 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 > <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary ordershall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -60,7 +60,7 @@ Upon entry of an order of forfeiture under this section, the court shall authori
 
 #### (h) Disposition of property
 
-Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
+Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case givingrise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
 
 #### (i) Authority of the Attorney General
 
@@ -166,7 +166,7 @@ Subsec. (f). Pub. L. 99–570, §1864(2), substituted “subsection (e)” for �
 
 Subsec. (i)(1). Pub. L. 99–570, §1864(3), substituted “this subchapter” for “this chapter”.
 
-Subsec. (k). Pub. L. 99–570, §1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (<i>o</i>)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)”as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
+Subsec. (k). Pub. L. 99–570, §1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (<i>o</i>)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
 
 Subsec. (p). Pub. L. 99–570, §1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (<i>o</i>) by Pub. L. 98–473, §2301(e)(2). See 1984 Amendment note below.
 
@@ -180,5 +180,5 @@ Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 333, 848, 970 of this title; title 18 sections 793, 794, 798, 982, 1834, 3554; title 33 section 1415; title 50 section 783.
+This section is referred to in sections 333, 848, 970 of this title; title 18 sections 229B, 793, 794, 798, 982, 1028, 1029, 1834, 3554; title 33 section 1415; title 50 section 783.
 

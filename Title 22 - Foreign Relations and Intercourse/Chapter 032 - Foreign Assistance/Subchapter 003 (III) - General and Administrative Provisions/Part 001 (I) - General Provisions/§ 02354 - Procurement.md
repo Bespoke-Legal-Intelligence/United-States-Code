@@ -86,9 +86,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of United States International Development Cooperation Agency, with exceptions specified below and certain other exceptions, by section 1–102(a)(1), (e) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under subsec. (a), insofar as they related to procurement under part I of subchapter I and part IV of subchapter II of this chapter, delegated to Secretary of State by section 1–201(a)(10) of Ex. Ord. No. 12163.
+Functions of President under subsec. (a), insofar as they related to procurement under part I of subchapter I and part IV of subchapter II of this chapter, delegated to Secretary of State by section 1–201(a)(10) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, set out as a note under section 2381 of this title.
 
 Functions of President under subsec. (a), except insofar as they related to procurement under part I of subchapter I and part IV of subchapter II of this chapter, excluded from foregoing delegations of functions by section 1–701(d) of Ex. Ord. No. 12163.
 

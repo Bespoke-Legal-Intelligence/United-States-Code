@@ -41,6 +41,8 @@
 | [5412\.](%C2%A7%2005412%20-%20Regulations.md) | Regulations. |
 | [5413\.](%C2%A7%2005413%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93113%2C%20%C2%A711%28j%29%2C%20Mar.%207%2C%201996%2C%20110%20Stat.%20782.md) | Repealed. |
 | [5414\.](%C2%A7%2005414%20-%20Applicability.md) | Applicability. |
+| (a) | Transitional rule. |
+| (b) | Aircraft exemption. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -8,9 +8,15 @@ For each independent student without dependents other than a spouse, the expecte
 
 &emsp;&emsp;(A) the family's contribution from available income (determined in accordance with subsection (b) of this section); and
 
-&emsp;&emsp;(B) the family's contribution from assets (determined in accordance with subsection (c) of this section); and
+&emsp;&emsp;(B) the family's contribution from assets (determined in accordance with subsection (c) of this section);
 
-&emsp;(2) dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+&emsp;(2) dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested; and
+
+&emsp;(3) for periods of enrollment of less than 9 months, for purposes other than subpart 2 of part A of this subchapter—
+
+&emsp;&emsp;(A) dividing the quotient resulting under paragraph (2) by 9; and
+
+&emsp;&emsp;(B) multiplying the result by the number of months in the period of enrollment;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -28,13 +34,13 @@ For each independent student without dependents other than a spouse, the expecte
 
 &emsp;&emsp;&emsp;(iii) an allowance for social security taxes, determined in accordance with paragraph (3);
 
-&emsp;&emsp;&emsp;(iv) an income protection allowance of—
+&emsp;&emsp;&emsp;(iv) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
 
-&emsp;&emsp;&emsp;&emsp;(I) $3,000 for single students;
+&emsp;&emsp;&emsp;&emsp;(I) $5,000 for single students;
 
-&emsp;&emsp;&emsp;&emsp;(II) $3,000 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
+&emsp;&emsp;&emsp;&emsp;(II) $5,000 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
 
-&emsp;&emsp;&emsp;&emsp;(III) $6,000 for married students where one is enrolled pursuant to subsection (a)(2) of this section;
+&emsp;&emsp;&emsp;&emsp;(III) $8,000 for married students where one is enrolled pursuant to subsection (a)(2) of this section;
 
 &emsp;&emsp;&emsp;(v) in the case where a spouse is present, an employment expense allowance, as determined in accordance with paragraph (4); and
 
@@ -173,9 +179,17 @@ Asset Protection Allowances for Families and Students
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's contribution from income or assets.
 
-(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524.)
+(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §474, Oct. 7, 1998, 112 Stat. 1730.)
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–244, §474(a), added par. (3).
+
+Subsec. (b)(1)(A)(iv). Pub. L. 105–244, §474(b)(1), in introductory provisions, substituted “allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—” for “allowance of—”.
+
+Subsec. (b)(1)(A)(iv)(I), (II). Pub. L. 105–244, §474(b)(2), substituted “$5,000” for “$3,000”.
+
+Subsec. (b)(1)(A)(iv)(III). Pub. L. 105–244, §474(b)(3), substituted “$8,000” for “$6,000”.
 
 1997—Subsec. (b)(1)(A)(vi). Pub. L. 105–78 added cl. (vi).
 
@@ -215,9 +229,13 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former 
 
 Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of needunder this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -225,7 +243,7 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ The persons appointed as members of the Committee—
 
 #### (c) Terms of office; eligibility
 
-(1) The term of office of each member of the Committee, other than the original members, shall be 3 years; except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. Any person who has completed two consecutive full terms of service on the Committee shall thereafter be ineligible for appointment during the one-year period following the expiration of the second such term.
+(1) The term of office of each member of the Committee, other than the original members, shall be 3 years; except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessorwas appointed shall be appointed for the remainder of such term. Any person who has completed two consecutive full terms of service on the Committee shall thereafter be ineligible for appointment during the one-year period following the expiration of the second such term.
 
 (2) The original members of the Committee shall be elected to three classes of three members each; one class shall have a term of one year, one a term of two years, and the other a term of three years.
 
@@ -46,7 +46,7 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 (2) The Committee shall render to the Secretary and the Congress such additional reports on specific policy matters as it deems appropriate.
 
-(Mar. 3, 1901, ch. 872, §10, 31 Stat. 1450; Aug. 23, 1988, Pub. L. 100–418, title V, §§5115(a)(1), 5131(b), 102 Stat. 1433, 1441; Mar. 7, 1996, Pub. L. 104–113, §8(1), 110 Stat. 779.)
+(Mar. 3, 1901, ch. 872, §10, 31 Stat. 1450; Pub. L. 100–418, title V, §§5115(a)(1), 5131(b), Aug. 23, 1988, 102 Stat. 1433, 1441; Pub. L. 104–113, §8(1), Mar. 7, 1996, 110 Stat. 779.)
 
 #### References in Text
 

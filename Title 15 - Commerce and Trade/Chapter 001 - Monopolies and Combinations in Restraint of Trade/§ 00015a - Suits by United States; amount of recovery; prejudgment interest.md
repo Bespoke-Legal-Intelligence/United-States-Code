@@ -10,7 +10,7 @@ Whenever the United States is hereafter injured in its business or property by r
 
 &emsp;(4) whether the award of such interest is necessary to compensate the United States adequately for the injury sustained by the United States.
 
-(Oct. 15, 1914, ch. 323, §4A, as added July 7, 1955, ch. 283, §1, 69 Stat. 282; amended Sept. 12, 1980, Pub. L. 96–349, §4(a)(2), 94 Stat. 1156; Nov. 16, 1990, Pub. L. 101–588, §5, 104 Stat. 2880.)
+(Oct. 15, 1914, ch. 323, §4A, as added July 7, 1955, ch. 283, §1, 69 Stat. 282; amended Pub. L. 96–349, §4(a)(2), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 101–588, §5, Nov. 16, 1990, 104 Stat. 2880.)
 
 #### References in Text
 

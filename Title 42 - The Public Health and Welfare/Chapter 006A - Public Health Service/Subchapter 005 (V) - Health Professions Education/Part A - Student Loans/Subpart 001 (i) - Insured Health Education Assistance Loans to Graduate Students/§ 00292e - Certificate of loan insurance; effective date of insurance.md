@@ -26,7 +26,7 @@
 
 #### (2) Lines of credit beyond cutoff date
 
-&emsp;If the holder of a certificate of comprehensive insurance coverage issued under this subsection grants to a borrower a line of credit extending beyond the cutoff date specified in that certificate, loans or payments thereon made by the holder after that date pursuant to the line of credit shall not be deemed to be included in the coverage of that certificate except as may be specifically provided therein; but, subject to the limitations of section 292a of this title, the Secretary may, in accordance with regulations, make commitments to insure such future loans or payments, and such commitments may be honored either as provided in subsection (a) of this section or by inclusion of such insurance in comprehensive coverage under this subsection for the period or periods in which such future loans or payments are made.
+&emsp;If the holder of a certificate of comprehensive insurance coverage issued under this subsection grants to a borrower a line of creditextending beyond the cutoff date specified in that certificate, loans or payments thereon made by the holder after that date pursuant to the line of credit shall not be deemed to be included in the coverage of that certificate except as may be specifically provided therein; but, subject to the limitations of section 292a of this title, the Secretary may, in accordance with regulations, make commitments to insure such future loans or payments, and such commitments may be honored either as provided in subsection (a) of this section or by inclusion of such insurance in comprehensive coverage under this subsection for the period or periods in which such future loans or payments are made.
 
 #### (c) Assignment of insurance rights
 
@@ -36,25 +36,31 @@ The rights of an eligible lender arising under insurance evidenced by a certific
 
 &emsp;(2) the Student Loan Marketing Association.
 
-#### (d) Effect of consolidation of obligations
+#### (d) Effect of refinancing or consolidation of obligations
 
-The consolidation of the obligations of two or more federally insured loans obtained by a borrower in any fiscal year into a single obligation evidenced by a single instrument of indebtedness shall not affect the insurance by the United States. If the loans thus consolidated are covered by separate certificates of insurance issued under subsection (a) of this section, the Secretary may upon surrender of the original certificates issue a new certificate of insurance in accordance with that subsection upon the consolidated obligation. If the loans thus consolidated are covered by a single comprehensive certificate issued under subsection (b) of this section, the Secretary may amend that certificate accordingly.
+The consolidation of the obligations of two or more federally insured loans obtained by a borrower in any fiscal year into a single obligation evidenced by a single instrument of indebtedness or the refinancing of a single loan shall not affect the insurance by the United States. If the loans thus consolidated are covered by separate certificates of insurance issued under subsection (a) of this section, the Secretary may upon surrender of the original certificates issue a new certificate of insurance in accordance with that subsection upon the consolidated obligation. If the loans thus consolidated are covered by a single comprehensive certificate issued under subsection (b) of this section, the Secretary may amend that certificate accordingly.
 
-#### (e) Rule of construction regarding consolidation of debts
+#### (e) Rule of construction regarding consolidation of debts and refinancing
 
-Nothing in this section shall be construed to preclude the lender and the borrower, by mutual agreement, from consolidating all of the borrower's debts into a single instrument under the terms applicable to an insured loan made at the same time as the consolidation. The lender or loan holder should provide full information to the borrower concerning the advantages and disadvantages of loan consolidation. Nothing in this section shall be construed to preclude the consolidation of the borrower's loans insured under this subpart under section 1078–3 of title 20. Any loans insured pursuant to this subpart that are consolidated under section 1078–3 of title 20 shall not be eligible for special allowance payments under section 1087–1 of title 20.
+Nothing in this section shall be construed to preclude the lender and the borrower, by mutual agreement, from consolidating all of the borrower's loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time) under the terms applicable to an insured loan made at the same time as the consolidation. The lender or loan holder should provide full information to the borrower concerning the advantages and disadvantages of loan consolidation or refinancing. Nothing in this section shall be construed to preclude the consolidation of the borrower's loans insured under this subpart under section 1078–3 of title 20. Any loans insured pursuant to this subpart that are consolidated under section 1078–3 of title 20 shall not be eligible for special allowance payments under section 1087–1 of title 20.
 
-(July 1, 1944, ch. 373, title VII, §706, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2000.)
+(July 1, 1944, ch. 373, title VII, §706, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2000; amended Pub. L. 105–392, title I, §145, Nov. 13, 1998, 112 Stat. 3581.)
 
 #### Prior Provisions
 
-A prior section 292e, act July 1, 1944, ch. 373, title VII, §705, as added Oct. 12, 1976, Pub. L. 94–484, title II, §204, 90 Stat. 2248; amended Nov. 9, 1978, Pub. L. 95–623, §11(f), 92 Stat. 3456; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2718, 95 Stat. 914, related to establishment and maintenance of records and annual financial reports and audits, prior to the general revision of this subchapter by Pub. L. 102–408. See section 295<i>o</i>(e) of this title.
+A prior section 292e, act July 1, 1944, ch. 373, title VII, §705, as added Oct. 12, 1976, Pub. L. 94–484, title II, §204, 90 Stat. 2248; amended Nov. 9, 1978, Pub. L. 95–623, §11(f), 92 Stat. 3456; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2718, 95 Stat. 914, related to establishment and maintenance of records and annual financial reports and audits, prior to the general revision of this subchapter by Pub. L. 102–408.
 
 Another prior section 292e, act July 1, 1944, ch. 373, title VII, §706, as added July 30, 1956, 779, §2, 70 Stat. 719; amended Oct. 5, 1961, Pub. L. 87–395, §8(c), (d), 75 Stat. 827; Sept. 24, 1963, Pub. L. 88–129, §2(a), 77 Stat. 164; Aug. 16, 1968, Pub. L. 90–490, title IV, §402, 82 Stat. 789; Nov. 18, 1971, Pub. L. 92–157, title I, §102(k)(2)(A), (B), 85 Stat. 437, limited amount of grant available for construction of health research facilities, including provisions relating to its maximum, reservation of amount, manner of payment, and exclusion of amounts granted by certain other funds, prior to repeal by Pub. L. 94–484, title II, §201(a), Oct. 12, 1976, 90 Stat. 2246.
 
 A prior section 706 of act July 1, 1944, was classified to section 292f of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
 Another prior section 706 of act July 1, 1944, was classified to section 230 of this title prior to repeal by act Apr. 27, 1956, ch. 211, §5(e), 70 Stat. 117.
+
+#### Amendments
+
+1998—Subsec. (d). Pub. L. 105–392, §145(1), in heading, substituted “refinancing or consolidation” for “consolidation” and, in first sentence, substituted “indebtedness or the refinancing of a single loan” for “indebtedness”.
+
+Subsec. (e). Pub. L. 105–392, §145(2), in heading, substituted “debts and refinancing” for “debts”, in first sentence, substituted “all of the borrower's loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time)” for “all of the borrower's debts into a single instrument”, and in second sentence, substituted “consolidation or refinancing” for “consolidation”.
 
 #### Section Referred to in Other Sections
 

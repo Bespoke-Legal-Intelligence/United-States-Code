@@ -1,6 +1,6 @@
 ### §4310. Repair and replacement of defects
 
-(a) In this section, “associated equipment” includes only items or classes of associated equipment that the Secretary shall prescribe by regulation after deciding that the application of the requirements of this section to those items or classes of associated equipment is reasonable and in furtherance of this chapter.
+(a) In this section, “associated equipment” includes only items or classes of associated equipment that the Secretary shall prescribe by regulation after deciding that the application of therequirements of this section to those items or classes of associated equipment is reasonable and in furtherance of this chapter.
 
 (b) If a recreational vessel or associated equipment has left the place of manufacture and the recreational vessel manufacturer discovers or acquires information that the manufacturer decides, in the exercise of reasonable and prudent judgment, indicates that a recreational vessel or associated equipment subject to an applicable regulation prescribed under section 4302 of this title either fails to comply with the regulation, or contains a defect that creates a substantial risk of personal injury to the public, the manufacturer shall provide notification of the defect or failure of compliance as provided by subsections (c) and (d) of this section within a reasonable time after the manufacturer has discovered the defect.
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) by certified mail to subsequent purchasers if known to the manufacturer.
 
-&emsp;(C) by certified mail or other more expeditious means to the dealers and distributors ofthe recreational vessels or associated equipment.
+&emsp;(C) by certified mail or other more expeditious means to the dealers and distributors of the recreational vessels or associated equipment.
 
 (2) The notification required by subsection (b) of this section is required to be given only for a defect or failure of compliance discovered by the recreational vessel manufacturer within a reasonable time after the manufacturer has discovered the defect or failure, except that the manufacturer's duty of notification under paragraph (1)(A) and (B) of this subsection applies only to a defect or failure of compliance discovered by the manufacturer within one of the following appropriate periods:
 

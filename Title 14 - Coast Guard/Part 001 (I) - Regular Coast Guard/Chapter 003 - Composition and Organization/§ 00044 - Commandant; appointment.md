@@ -2,7 +2,7 @@
 
 The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 498; May 14, 1960, Pub. L. 86–474, §1(3), 74 Stat. 144; Sept. 24, 1963, Pub. L. 88–130, §1(3), 77 Stat. 175; June 9, 1966, Pub. L. 89–444, §1(3), 80 Stat. 195; Oct. 2, 1972, Pub. L. 92–451, §1(3), 86 Stat. 755.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 498; Pub. L. 86–474, §1(3), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(3), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, §1(3), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, §1(3), Oct. 2, 1972, 86 Stat. 755.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) Retroactive eligibility
 
-Notwithstanding any other provision of law, each dependent of a Federal law enforcement officer killed in the line of duty on or after May 1, 1992, shall be eligible for assistance under this part, subject to the other limitations of this part.
+Notwithstanding any other provision of law, each dependent of a Federal law enforcement officer killed in the line of duty on or after May 1, 1992, and each dependent of a public safety officer killed in the line of duty on or after October 1, 1997, shall be eligible for assistance under this part, subject to the other limitations of this part.
 
 #### (b) Retroactive assistance
 
@@ -12,5 +12,9 @@ The Attorney General may provide retroactive assistance to dependents eligible u
 
 The Attorney General may provide prospective assistance to dependents eligible under this section on the same basis as assistance to dependents otherwise eligible. In applying the limitations on assistance under this part, the Attorney General shall include assistance provided retroactively. A dependent eligible under this section may waive retroactive assistance and apply only for prospective assistance on the same basis as dependents otherwise eligible.
 
-(Pub. L. 90–351, title I, §1216, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3115.)
+(Pub. L. 90–351, title I, §1216, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 105–390, §2(5), Nov. 13, 1998, 112 Stat. 3496.)
+
+#### Amendments
+
+1998—Subsec. (a). Pub. L. 105–390 inserted “and each dependent of a public safety officer killed in the line of duty on or after October 1, 1997,” after “1992,”.
 

@@ -2,7 +2,7 @@
 
 Whoever, being an officer of the United States concerned in the collection or the disbursement of the revenues thereof, carries on any trade or business in the funds or debts of the United States, or of any State, or in any public property of either, shall be fined under this title or imprisoned not more than one year, or both; and shall be removed from office, and be incapable of holding any office under the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 790; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(J), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 790; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

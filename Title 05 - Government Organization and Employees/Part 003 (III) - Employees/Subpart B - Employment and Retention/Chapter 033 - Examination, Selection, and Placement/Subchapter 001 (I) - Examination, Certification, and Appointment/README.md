@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 10 section 1744; title 16 section 3198; title 38 section 7403.
+This subchapter is referred to in section 9510 of this title; title 10 section 1744; title 16 section 3198; title 38 section 7403.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -43,3 +43,6 @@ This subchapter is referred to in title 10 section 1744; title 16 section 3198; 
 - [&sect; 03328 - Selective Service registration](%C2%A7%2003328%20-%20Selective%20Service%20registration.md)
 - [&sect; 03329 - Appointments of military reserve technicians to positions in the competitive service](%C2%A7%2003329%20-%20Appointments%20of%20military%20reserve%20technicians%20to%20positions%20in%20the%20competitive%20service.md)
 - [&sect; 03330 - Government-wide list of vacant positions](%C2%A7%2003330%20-%20Government-wide%20list%20of%20vacant%20positions.md)
+- [&sect; 03330a - Preference eligibles; administrative redress](%C2%A7%2003330a%20-%20Preference%20eligibles%3B%20administrative%20redress.md)
+- [&sect; 03330b - Preference eligibles; judicial redress](%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md)
+- [&sect; 03330c - Preference eligibles; remedy](%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md)

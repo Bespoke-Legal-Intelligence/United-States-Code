@@ -14,3 +14,7 @@ Section is based on section 2 of House Resolution No. 10, Ninety-fourth Congress
 
 1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
 
+#### Change of Name
+
+Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+

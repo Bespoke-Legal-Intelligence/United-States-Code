@@ -4,7 +4,7 @@
 
 &emsp;(1) shall try to collect a claim of the United States Government for money or property arising out of the activities of, or referred to, the agency;
 
-&emsp;(2) may compromise a claim of the Government of not more than $100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe that has not been referred to another executive or legislative agency for further collection action, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official; and
+&emsp;(2) may compromise a claim of the Government of not more than $100,000 (excluding interest) or such higher amount as the Attorney General may from time to time prescribe that has not been referred to another executive orlegislative agency for further collection action, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official; and
 
 &emsp;(3) may suspend or end collection action on a claim referred to in clause (2) of this subsection when it appears that no person liable on the claim has the present or prospective ability to pay a significant amount of the claim or the cost of collecting the claim is likely to be more than the amount recovered.
 
@@ -12,7 +12,7 @@
 
 (2) The Secretary of Transportation may not compromise for less than $500 a penalty under section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
 
-(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or valueis not recovered because of a compromise under this section.
+(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
 
 (d) The head of an executive, judicial, or legislative agency acts under—
 
@@ -66,7 +66,7 @@
 
 (5) The head of each executive agency may provide to a consumer reporting agency or commercial reporting agency information from a system of records that a person is responsible for a claim which is current, if notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency or commercial reporting agency, respectively.
 
-(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estateof a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (2) The Secretary of Transportation may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
@@ -290,7 +290,7 @@ Subsec. (c). Pub. L. 104–316, §115(g)(1)(C), redesignated subsec. (d) as (c).
 
 Subsec. (c)(1). Pub. L. 104–134, §31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 104–316, §115(g)(1)(C), (D), redesignated subsec. (e) as (d) and in par. (2) struck out “and the Comptroller General” before “may prescribe” and “jointly” after “prescribe”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 104–316, §115(g)(1)(C), (D), redesignated subsec. (e) as (d) and in par. (2) struck out “andthe Comptroller General” before “may prescribe” and “jointly” after “prescribe”. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 104–316, §115(g)(1)(C), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -374,7 +374,7 @@ Waiver of claims for overpayment of pay and allowances of employees of Executive
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3701, 3712, 3716, 3720C of this title; title 5 sections 552a, 5514, 5569; title 10 section 2780; title 22 section 2671; title 26 section 6103; title 37 section 559; title 38 section 5301; title 42 section 404; title 49 sections 21302, 21303.
+This section is referred to in sections 3701, 3712, 3716, 3720C of this title; title 5 sections 552a, 5514, 5569; title 10 sections 2739, 2780; title 22 section 2671; title 26 section 6103; title 37 section 559; title 38 section 5301; title 42 section 404; title 49 sections 21302, 21303.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Attorney General and the Secretary of the Treasury may prescribe jointly.”</i>
 

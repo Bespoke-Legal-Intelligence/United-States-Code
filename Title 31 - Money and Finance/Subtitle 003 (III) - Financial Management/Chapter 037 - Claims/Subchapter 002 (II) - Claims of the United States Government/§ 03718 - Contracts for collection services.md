@@ -58,7 +58,7 @@
 
 (f) This section does not apply to the collection of debts under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
-(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the General Accounting Office, maintain and make available to the Inspector General ofthe Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
+(g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the General Accounting Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
 (Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633.)
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1992 Amendment
 
-Section 7 of Pub. L. 102–589 provided that: “The provisions of this Act \[amending this section and section 3720A of this title, enacting provisions set out as notesunder this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title\] and amendments made by this Act shall take effect on the date of enactment of this Act \[Nov. 10, 1992\], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
+Section 7 of Pub. L. 102–589 provided that: “The provisions of this Act \[amending this section and section 3720A of this title, enacting provisions set out as notes under this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title\] and amendments made by this Act shall take effect on the date of enactment of this Act \[Nov. 10, 1992\], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
 
 #### Effective and Termination Dates of 1986 Amendment
 
@@ -202,7 +202,7 @@ Report to Congress.—After completing the audit under subsection (a), the Compt
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3302, 3701 of this title; title 5 section 5514; title 10 section 2780; title 22 sections 1475f, 2671, 2716; title 25 section 1616a; title 26 section 6103; title 28 section 3002; title 38 section 1729; title 42 sections 254<i>o</i>, 404.
+This section is referred to in sections 3302, 3701 of this title; title 5 section 5514; title 10 section 2780; title 22 sections 2671, 2716; title 25 section 1616a; title 26 sections 6103, 6311; title 28 section 3002; title 38 section 1729; title 42 sections 254<i>o</i>, 404.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
 

@@ -12,7 +12,7 @@ In general.—The Secretary is authorized to use funds appropriated to carry out
 
 Additional authority.—In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for—
 
-&emsp;&emsp;(A) training or education of highway safety personnel,
+&emsp;&emsp;(A) training or education of highway safety personnel, including training in work zone safety management,
 
 &emsp;&emsp;(B) research fellowships in highway safety,
 
@@ -36,9 +36,13 @@ Drugs and Driver Behavior.—In addition to the research authorized by subsectio
 
 &emsp;(2) Driver behavior research, including the characteristics of driver performance, the relationships of mental and physical abilities or disabilities to the driving task, and the relationship of frequency of driver crash involvement to highway safety.
 
+&emsp;(3) Measures that may deter drugged driving.
+
+&emsp;(4) Programs to train law enforcement officers on motor vehicle pursuits conducted by the officers.
+
 (c) The research authorized by subsections (a) and (b) of this section may be conducted by the Secretary through grants and contracts with public and private agencies, institutions, and individuals.
 
-(d) The Secretary may, where he deems it to be in furtherance of the purposes of section 402 of this title, vest in State or local agencies, on such terms and conditions as he deems appropriate, title to equipment purchased for demonstration projects with funds authorized by this section.
+(d) The Secretary may, where he deems it to be in furtherance of the purposes of section 402 of this title, vest in State or local agencies, onsuch terms and conditions as he deems appropriate, title to equipment purchased for demonstration projects with funds authorized by this section.
 
 (e) In addition to the research authorized by subsection (a) of this section, the Secretary shall, either independently or in cooperation with other Federal departments or agencies, conduct research into, and make grants to or contracts with State or local agencies, institutions, and individuals for projects to demonstrate the administrative adjudication of traffic infractions. Such administrative adjudication demonstration projects shall be designed to improve highway safety by developing fair, efficient, and effective processes and procedures for traffic infraction adjudication, utilizing appropriate punishment, training, and rehabilitative measures for traffic offenders. The Secretary shall report to Congress by July 1,1975, and each year thereafter during the continuance of the program, on the research and demonstration projects authorized by this subsection, and shall include in such report a comparison of the fairness, efficiency, and effectiveness of administrative adjudication of traffic infractions with other methods of handling such infractions.
 
@@ -62,13 +66,17 @@ Project selection.—In selecting projects to be conducted under this subsection
 
 Applicability of stevenson-wydler technology innovation act.—The research, development, or utilization of any technology pursuant to an agreement under the provisions of this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325.)
 
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+1998—Subsec. (a)(2)(A). Pub. L. 105–178, §2002(a), inserted “, including training in work zone safety management” after “personnel”.
+
+Subsec. (b)(3), (4). Pub. L. 105–178, §2002(b)(1), added pars. (3) and (4).
 
 1991—Subsec. (a). Pub. L. 102–240, §2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
 
@@ -80,7 +88,7 @@ Subsec. (b). Pub. L. 102–240, §2003(a), added subsec. (b) and struck out form
 
 Subsec. (c). Pub. L. 102–240, §2003(c), substituted “subsections (a) and (b)” for “subsection (b)”.
 
-Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
+Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents anddeaths, injuries, and property damage resulting therefrom.”
 
 1973—Subsec. (a). Pub. L. 93–87, §§208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attendant thereto or other activities relating to training and education of highway safety personnel.
 
@@ -91,6 +99,74 @@ Subsecs. (d) to (f). Pub. L. 93–87, §§221, 222, 226(a), added subsecs. (d) t
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and not applicable to funds appropriated or made available on or before Dec. 18, 1991, see section 2008 of Pub. L. 102–240, set out as a note under section 402 of this title.
+
+#### Safety Studies
+
+Pub. L. 105–178, title II, §2007, June 9, 1998, 112 Stat. 336, provided that:
+
+“(a)
+
+Blowout Resistant Tires Study.—The Secretary shall conduct a study on the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and the potential to decrease the incidence of accidents and fatalities from accidents occurring as a result of blown out tires.
+
+“(b)
+
+School Bus Occupant Safety Study.—The Secretary shall conduct a study to assess occupant safety in school buses. The study shall examine available information about occupant safety and analyze options for improving occupant safety.
+
+“(c)
+
+Reports.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of each study conducted under this section.
+
+“(d)
+
+Limitation on Funding.—The Secretary may not expend more than $200,000 from funds made available by section 403 of title 23, United States Code, for conducting each study under this section.”
+
+#### School Transportation Safety
+
+Pub. L. 105–178, title IV, §4030, June 9, 1998, 112 Stat. 418, provided that:
+
+“(a)
+
+Study.—Not later than 3 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall offer to enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct, subject to the availability of appropriations, a study of the safety issues attendant to the transportation of school children to and from school and school-related activities by various transportation modes.
+
+“(b)
+
+Terms of Agreement.—The agreement under subsection (a) shall provide that—
+
+&emsp;“(1) the Transportation Research Board, in conducting the study, shall consider—
+
+&emsp;&emsp;“(A) in consultation with the National Transportation Safety Board, the Bureau of Transportation Statistics, and other relevant entities, available crash injury data;
+
+&emsp;&emsp;“(B) vehicle design and driver training requirements, routing, and operational factors that affect safety; and
+
+&emsp;&emsp;“(C) other factors that the Secretary considers to be appropriate;
+
+&emsp;“(2) if the data referred to in paragraph (1)(A) is unavailable or insufficient, the Transportation Research Board shall recommend a new data collection regimen and implementation guidelines; and
+
+&emsp;“(3) a panel shall conduct the study and shall include—
+
+&emsp;&emsp;“(A) representatives of—
+
+&emsp;&emsp;&emsp;“(i) highway safety organizations;
+
+&emsp;&emsp;&emsp;“(ii) school transportation;
+
+&emsp;&emsp;&emsp;“(iii) mass transportation operators;
+
+&emsp;&emsp;&emsp;“(iv) employee organizations; and
+
+&emsp;&emsp;&emsp;“(v) bicycling organizations;
+
+&emsp;&emsp;“(B) academic and policy analysts; and
+
+&emsp;&emsp;“(C) other interested parties.
+
+“(c)
+
+Report.—Not later than 12 months after the Secretary enters into an agreement under subsection (a), the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that contains the results of the study.
+
+“(d)
+
+Authorization.—There are authorized to be appropriated to the Department of Transportation to carry out this section $200,000 for fiscal year 2000 and $200,000 for fiscal year 2001. Such sums shall remain available until expended.”
 
 #### Drug Recognition Expert Training Program
 
@@ -122,7 +198,7 @@ Establishment.—The Secretary of Transportation, acting through the National Hi
 
 “(b)
 
-Report.—Not later than 1 year after the completion of the pilot program under this section, the Secretary of Transportation shall transmit to Congress a report on the effectiveness of such pilot program together with any recommendations.
+Report.—Not later than 1 year after the completion of the pilot program under this section, the Secretary of Transportation shall transmit to Congress areport on the effectiveness of such pilot program together with any recommendations.
 
 “(c)
 
@@ -226,7 +302,7 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Section 106 of Pub. L. 89–564 provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under sections 307 and 403 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completedreports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 #### Appropriations Authorizations
 

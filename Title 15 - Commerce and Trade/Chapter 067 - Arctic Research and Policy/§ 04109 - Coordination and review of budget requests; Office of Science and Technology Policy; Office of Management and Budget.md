@@ -2,7 +2,7 @@
 
 (a) The Office of Science and Technology Policy shall—
 
-&emsp;(1) review all agency and department budget requests related to the Arctic transmitted pursuant to section 4107(a)(5) of this title, in accordance with the national Arctic research policy and the 5-year program under section 4107(a)(2) and section 4108 of this title, respectively; and
+&emsp;(1) review all agency and department budget requests related to the Arctic transmitted pursuant to section 4107(a)(5) of this title, inaccordance with the national Arctic research policy and the 5-year program under section 4107(a)(2) and section 4108 of this title, respectively; and
 
 &emsp;(2) consult closely with the Interagency Committee and the Commission to guide the Office of Science and Technology Policy's efforts.
 

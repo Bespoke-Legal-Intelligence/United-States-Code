@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture shall make provisions for the protection against destruction by fire and depredations upon the public forests and national forests which may have been set aside or which may be hereafter set aside under the provisions of section 471 <sup>1</sup> of this title, and which may be continued; and he may make such rules and regulations and establish such service as will insure the objects of such reservations, namely, to regulate their occupancy and use and to preserve the forests thereon from destruction; and any violation of the provisions of this section, sections 473 to 478 and 479 to 482 of this title or such rules and regulations shall be punished by a fine of not more than $500 or imprisonment for not more than six months, or both. Any person charged with the violation of such rules and regulations may be tried and sentenced by any United States magistrate judge specially designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401(b) to (e) of title 18.
 
-(June 4, 1897, ch. 2, §1, 30 Stat. 35; Feb. 1, 1905, ch. 288, §1, 33 Stat. 628; Oct. 23, 1962, Pub. L. 87–869, §6, 76 Stat. 1157; Aug. 31, 1964, Pub. L. 88–537, 78 Stat. 745; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117.)
+(June 4, 1897, ch. 2, §1, 30 Stat. 35; Feb. 1, 1905, ch. 288, §1, 33 Stat. 628; Pub. L. 87–869, §6, Oct. 23, 1962, 76 Stat. 1157; Pub. L. 88–537, Aug. 31, 1964, 78 Stat. 745; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Repeals
 
@@ -50,7 +50,7 @@ Provisions of section 706(a) of Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2793, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 478, 482, 544m of this title.
+This section is referred to in sections 460<i>lll</i>–12, 478, 482, 544m of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

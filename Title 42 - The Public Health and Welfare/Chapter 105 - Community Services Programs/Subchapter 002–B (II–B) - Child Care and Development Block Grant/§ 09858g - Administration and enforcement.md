@@ -40,7 +40,7 @@ The Secretary shall—
 
 &emsp;The Secretary shall establish by rule procedures for—
 
-&emsp;&emsp;(A) receiving, processing, and determining the validity of complaints concerning any failure of a State to comply with the State plan or any requirement of this subchapter; and
+&emsp;&emsp;(A) receiving, processing, and determining the validity of complaints concerning anyfailure of a State to comply with the State plan or any requirement of this subchapter; and
 
 &emsp;&emsp;(B) imposing sanctions under this section.
 

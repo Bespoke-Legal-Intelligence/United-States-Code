@@ -20,7 +20,7 @@ Within 180 days after the effective date of this subchapter, the Executive Commi
 
 #### (d) Election of tribal officers
 
-Within 120 days after the Tribe ratifies and adopts a constitution and bylaws, the Executive Committee shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in the constitution and bylaws. Subsequent elections shall be held in accordance with the Tribe's constitution and bylaws.
+Within 120 days after the Tribe ratifies and adopts a constitution and bylaws, the ExecutiveCommittee shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in the constitution and bylaws. Subsequent elections shall be held in accordance with the Tribe's constitution and bylaws.
 
 #### (e) Extension of time
 
@@ -30,7 +30,7 @@ Any time periods prescribed in subsections (b) and (c) of this section may be al
 
 #### References in Text
 
-The Indian Reorganization Act, referred to in subsec. (a), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended,which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+The Indian Reorganization Act, referred to in subsec. (a), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (b), see Effective Date note set out under section 941 of this title.
 

@@ -1,6 +1,0 @@
-### §677. Agents for service of process
-
-As a condition precedent to the exercise of any power or privilege granted to the Corporation under this chapter, the Corporation shall file in the office of the Secretary of State, or in the office of another appropriate officer, in each State and in each Territory or possession of the United States in which the Corporation is doing business, the name and post office address of an authorized agent in such State, Territory, or possession upon whom legal process or demand against the Corporation may be served.
-
-(Aug. 1, 1956, ch. 824, §17, 70 Stat. 797.)
-

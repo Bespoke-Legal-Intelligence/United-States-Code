@@ -36,6 +36,9 @@
 | [3328\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003328%20-%20Selective%20Service%20registration.md) | Selective Service registration. |
 | [3329\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003329%20-%20Appointments%20of%20military%20reserve%20technicians%20to%20positions%20in%20the%20competitive%20service.md) | Appointments of military reserve technicians to positions in the competitive service. |
 | [3330\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330%20-%20Government-wide%20list%20of%20vacant%20positions.md) | Government-wide list of vacant positions. |
+| [3330a.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330a%20-%20Preference%20eligibles%3B%20administrative%20redress.md) | Preference eligibles; administrative redress. |
+| [3330b.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md) | Preference eligibles; judicial redress. |
+| [3330c.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md) | Preference eligibles; remedy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,19 +52,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—DETAILS
+#### SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS
 
 |  |  |
 | :--- | ---: |
-| [3341\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003341%20-%20Details%3B%20within%20Executive%20or%20military%20departments.md) | Details; within Executive or military departments. |
+| [3341\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003341%20-%20Details%3B%20within%20Executive%20or%20military%20departments.md) | Details; within Executive or military departments. |
 | \[3342. | Repealed.\] |
-| [3343\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003343%20-%20Details%3B%20to%20international%20organizations.md) | Details; to international organizations. |
-| [3344\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003344%20-%20Details%3B%20administrative%20law%20judges.md) | Details; administrative law judges. |
-| [3345\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003345%20-%20Details%3B%20to%20office%20of%20head%20of%20Executive%20agency%20or%20military%20department.md) | Details; to office of head of Executive agency or military department. |
-| [3346\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003346%20-%20Details%3B%20to%20subordinate%20offices.md) | Details; to subordinate offices. |
-| [3347\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003347%20-%20Details%3B%20Presidential%20authority.md) | Details; Presidential authority. |
-| [3348\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003348%20-%20Details%3B%20limited%20in%20time.md) | Details; limited in time. |
-| [3349\.](Subchapter%20003%20%28III%29%20-%20Details/%C2%A7%2003349%20-%20Details%3B%20to%20fill%20vacancies%3B%20restrictions.md) | Details; to fill vacancies; restrictions. |
+| [3343\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003343%20-%20Details%3B%20to%20international%20organizations.md) | Details; to international organizations. |
+| [3344\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003344%20-%20Details%3B%20administrative%20law%20judges.md) | Details; administrative law judges. |
+| [3345\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003345%20-%20Acting%20officer.md) | Acting officer. |
+| [3346\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003346%20-%20Time%20limitation.md) | Time limitation. |
+| [3347\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003347%20-%20Exclusivity.md) | Exclusivity. |
+| [3348\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003348%20-%20Vacant%20office.md) | Vacant office. |
+| [3349\.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349%20-%20Reporting%20of%20vacancies.md) | Reporting of vacancies. |
+| [3349a.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349a%20-%20Presidential%20inaugural%20transitions.md) | Presidential inaugural transitions. |
+| [3349b.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349b%20-%20Holdover%20provisions.md) | Holdover provisions relating to certain independent establishments.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [3349c.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349c%20-%20Exclusion%20of%20certain%20officers.md) | Exclusion of certain officers. |
+| [3349d.](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/%C2%A7%2003349d%20-%20Notification%20of%20intent%20to%20nominate%20during%20certain%20recesses%20or%20adjournments.md) | Notification of intent to nominate during certain recesses or adjournments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -92,11 +104,6 @@
 | [3371\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003371%20-%20Definitions.md) | Definitions. |
 | [3372\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003372%20-%20General%20provisions.md) | General provisions. |
 | [3373\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003373%20-%20Assignment%20of%20employees%20to%20State%20or%20local%20governments.md) | Assignments of employees to State or local governments.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
 | [3374\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003374%20-%20Assignments%20of%20employees%20from%20State%20or%20local%20governments.md) | Assignments of employees from State or local governments. |
 | [3375\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003375%20-%20Travel%20expenses.md) | Travel expenses. |
 | [3376\.](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/%C2%A7%2003376%20-%20Regulations.md) | Regulations. |
@@ -131,6 +138,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–339, §3(b), Oct. 31, 1998, 112 Stat. 3184, added items 3330a to 3330c.
+
+Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted “DETAILS, VACANCIES, AND APPOINTMENTS” for “DETAILS” in heading for subchapter III, “Acting officer” for “Details; to office of head of Executive agency or military department” in item 3345, “Time limitation” for “Details; to subordinate offices” in item 3346, “Exclusivity” for “Details; Presidential authority” in item 3347, “Vacant office” for “Details; limited in time” in item 3348, and “Reporting of vacancies” for “Details; to fill vacancies; restrictions” in item 3349 and added items 3349a to 3349d.
 
 1996—Pub. L. 104–197, title III, §315(b)(1), Sept. 16, 1996, 110 Stat. 2416, substituted “Competitive service; recommendations of Senators or Representatives” for “Political recommendations” in item 3303.
 
@@ -193,7 +204,7 @@ This chapter is referred to in title 31 section 3801; title 42 sections 290aa, 2
 
 - [Subchapter 001 (I) - Examination, Certification, and Appointment](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/README.md)
 - [Subchapter 002 (II) - Oath of Office](Subchapter%20002%20%28II%29%20-%20Oath%20of%20Office/README.md)
-- [Subchapter 003 (III) - Details](Subchapter%20003%20%28III%29%20-%20Details/README.md)
+- [Subchapter 003 (III) - Details, Vacancies, and Appointments](Subchapter%20003%20%28III%29%20-%20Details%2C%20Vacancies%2C%20and%20Appointments/README.md)
 - [Subchapter 004 (IV) - Transfers](Subchapter%20004%20%28IV%29%20-%20Transfers/README.md)
 - [Subchapter 005 (V) - Promotion](Subchapter%20005%20%28V%29%20-%20Promotion/README.md)
 - [Subchapter 006 (VI) - Assignments to and from States](Subchapter%20006%20%28VI%29%20-%20Assignments%20to%20and%20from%20States/README.md)

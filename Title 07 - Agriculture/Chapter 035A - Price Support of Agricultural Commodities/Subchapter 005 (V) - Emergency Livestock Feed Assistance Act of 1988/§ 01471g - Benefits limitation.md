@@ -22,11 +22,11 @@ No person may receive benefits under this subchapter attributable to lost produc
 
 Each person otherwise eligible for a livestock emergency benefit under this subchapter in 1988 shall be subject to the combined payment and benefits limitation established under section 211(c) of the Disaster Assistance Act of 1988.
 
-(Oct. 31, 1949, ch. 792, title VI, §609, as added Aug. 11, 1988, Pub. L. 100–387, title I, §101(a), 102 Stat. 930.)
+(Oct. 31, 1949, ch. 792, title VI, §609, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 930.)
 
 #### References in Text
 
-The Disaster Assistance Act of 1988, referred to in subsecs. (c) and (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Section 211(c) of that act is set out as a note under section 1421 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1421 of this title and Tables.
+The Disaster Assistance Act of 1988, referred to in subsecs. (c) and (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Section 211(c) of that act is set out as a noteunder section 1421 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1421 of this title and Tables.
 
 #### Effective Date
 

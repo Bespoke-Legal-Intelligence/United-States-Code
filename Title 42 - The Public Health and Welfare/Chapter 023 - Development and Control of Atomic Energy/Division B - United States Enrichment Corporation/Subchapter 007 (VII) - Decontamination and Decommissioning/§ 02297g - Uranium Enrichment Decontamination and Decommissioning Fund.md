@@ -18,7 +18,7 @@ There is established in the Treasury of the United States an account to be known
 
 &emsp;&emsp;(B) bearing interest at rates determined to be appropriate by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to these obligations.
 
-(Aug. 1, 1946, ch. 724, title II, §1801, as added Oct. 24, 1992, Pub. L. 102–486, title XI, §1101, 106 Stat. 2953.)
+(Aug. 1, 1946, ch. 724, title II, §1801, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2953.)
 
 #### Section Referred to in Other Sections
 

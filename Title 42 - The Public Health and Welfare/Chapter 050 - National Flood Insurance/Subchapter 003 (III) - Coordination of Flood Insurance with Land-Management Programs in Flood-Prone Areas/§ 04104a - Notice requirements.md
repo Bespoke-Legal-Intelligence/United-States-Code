@@ -14,7 +14,7 @@
 
 &emsp;Written notification required under this subsection shall include—
 
-&emsp;&emsp;(A) a warning, in a form to be established by the Director, stating that the building on the improved real estate securing the loan is located, or the mobile home securing the loan is or is to be located, in an area having special flood hazards;
+&emsp;&emsp;(A) a warning, in a form to be established by the Director, stating that the building on the improved real estate securing the loan is located, or the mobile home securing theloan is or is to be located, in an area having special flood hazards;
 
 &emsp;&emsp;(B) a description of the flood insurance purchase requirements under section 102(b) of the Flood Disaster Protection Act of 1973 \[42 U.S.C. 4012a(b)\];
 
@@ -26,7 +26,7 @@
 
 #### (1) Lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Director (or the designee of the Director) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify theDirector (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Director (or the designee of the Director) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Director (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
 
 #### (2) Federal agency lenders
 

@@ -134,7 +134,7 @@ Pub. L. 103–355, title X, §10002, Oct. 13, 1994, 108 Stat. 3404, provided tha
 
 “(a)
 
-Proposed Revisions.—Proposed revisions to the Federal Acquisition Regulation and such other proposed regulations (or revisions to existing regulations) as may be necessary to implement this Act \[see Short Title of 1994 Amendment note above\] shall be published in the Federal Register not later than 210 days after the date of the enactment of this Act \[Oct. 13, 1994\].
+Proposed Revisions.—Proposed revisions to the Federal Acquisition Regulation and such other proposed regulations (or revisions to existing regulations)as may be necessary to implement this Act \[see Short Title of 1994 Amendment note above\] shall be published in the Federal Register not later than 210 days after the date of the enactment of this Act \[Oct. 13, 1994\].
 
 “(b)
 
@@ -182,7 +182,7 @@ Committees Designated To Receive the Reports.—The Comptroller General shall su
 
 &emsp;“(1) the Committees on Governmental Affairs, on Armed Services, and on Small Business of the Senate; and
 
-&emsp;“(2) the Committees on Government Operations \[now Committee on Government Reform and Oversight\], on Armed Services \[now Committee on National Security\], and on Small Business of the House of Representatives.”
+&emsp;“(2) the Committees on Government Operations \[now Committee on Government Reform\], on Armed Services, and on Small Business of the House of Representatives.”
 
 #### Congressional Statement of Purpose
 

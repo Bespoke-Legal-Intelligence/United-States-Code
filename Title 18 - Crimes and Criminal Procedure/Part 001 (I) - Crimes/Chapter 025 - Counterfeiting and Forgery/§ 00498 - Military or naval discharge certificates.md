@@ -2,7 +2,7 @@
 
 Whoever forges, counterfeits, or falsely alters any certificate of discharge from the military or naval service of the United States, or uses, unlawfully possesses or exhibits any such certificate, knowing the same to be forged, counterfeited, or falsely altered, shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 712; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

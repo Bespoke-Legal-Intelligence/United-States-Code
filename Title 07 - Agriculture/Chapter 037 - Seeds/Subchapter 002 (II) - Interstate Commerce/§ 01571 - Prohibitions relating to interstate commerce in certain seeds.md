@@ -54,7 +54,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;&emsp;&emsp;(i) the person who transports, or delivers for transportation, said seed in interstate commerce; or
 
-&emsp;&emsp;&emsp;(ii) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports ordelivers for transportation said seed in interstate commerce.
+&emsp;&emsp;&emsp;(ii) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce.
 
 &emsp;(3) For containers of more than one pound of seed—
 
@@ -98,7 +98,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(4) A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
-(Aug. 9, 1939, ch. 615, title II, §201, 53 Stat. 1279; Aug. 1, 1958, Pub. L. 85–581, §§5–8, 72 Stat. 476; Oct. 15, 1966, Pub. L. 89–686, §§4–10, 80 Stat. 975–977; Jan. 8, 1983, Pub. L. 97–439, §§2–4, 96 Stat. 2287.)
+(Aug. 9, 1939, ch. 615, title II, §201, 53 Stat. 1279; Pub. L. 85–581, §§5–8, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§4–10, Oct. 15, 1966, 80 Stat. 975–977; Pub. L. 97–439, §§2–4, Jan. 8, 1983, 96 Stat. 2287.)
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Subsec. (c)(2)(A). Pub. L. 97–439, §4(3), inserted “(A)” after “vegetab
 
 Subsec. (c)(2)(B). Pub. L. 97–439, §4(4), added cl. (B).
 
-Subsec. (j). Pub. L. 97–439, §2(c), struck out subsec. (j) which directed that seed mixtures intended for lawnand turf purposes be transported or delivered for transport in interstate commerce in containers of fifty pounds or less, and specified the information to be placed on the label.
+Subsec. (j). Pub. L. 97–439, §2(c), struck out subsec. (j) which directed that seed mixtures intended for lawn and turf purposes be transported or delivered for transport in interstate commerce in containers of fifty pounds or less, and specified the information to be placed on the label.
 
 1966—Subsec. (a). Pub. L. 89–686, §4, inserted in introductory text, “, except as provided in subsection (j) of this section for seed mixtures intended for lawn and turf purposes,”.
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 89–686, §7, substituted provisions respecting labeling r
 
 (B) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce.
 
-Subsec. (c). Pub. L. 89–686, §8, substituted in cl. (b) “a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling” for “a longer period not to exceed nine months, exclusive of the calendar month in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance”.
+Subsec. (c). Pub. L. 89–686, §8, substituted in cl. (b) “a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling” for “a longer period not to exceed nine months, exclusive of the calendarmonth in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance”.
 
 Subsec. (i)(4). Pub. L. 89–686, §9, transposed “of any process used in such treatment” which followed “description” to end of sentence, inserting a comma preceding such phrase.
 

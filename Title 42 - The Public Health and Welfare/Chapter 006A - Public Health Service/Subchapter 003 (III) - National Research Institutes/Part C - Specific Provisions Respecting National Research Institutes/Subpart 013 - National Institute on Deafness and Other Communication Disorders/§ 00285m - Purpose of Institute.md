@@ -1,8 +1,8 @@
 ### §285m. Purpose of Institute
 
-The general purpose of the National Institute on Deafness and Other Communication Disorders (hereafter referred to in this subpart as the “Institute”) is the conduct and support of research and training, the dissemination of health information, and other programs with respect to disorders of hearing and other communication processes, including diseases affecting hearing, balance, voice, speech, language, taste, and smell.
+The general purpose of the National Institute on Deafness and Other Communication Disorders (hereafter referred to in this subpart as the “Institute”) is the conduct and support of research and training, the dissemination of health information, and other programs with respect to disorders of hearing and other communication processes, including diseases affectinghearing, balance, voice, speech, language, taste, and smell.
 
-(July 1, 1944, ch. 373, title IV, §464, as added Oct. 28, 1988, Pub. L. 100–553, §2(4), 102 Stat. 2769, and Nov. 4, 1988, Pub. L. 100–607, title I, §101(4), 102 Stat. 3049; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2613(b)(2), 102 Stat. 4238.)
+(July 1, 1944, ch. 373, title IV, §464, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2769, and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3049; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
 
 #### Codification
 

@@ -6,7 +6,7 @@ Any adversely affected worker covered by a certification under subpart A of this
 
 &emsp;(1) such reimbursement may not exceed $800 for any worker, and
 
-&emsp;(2) reimbursement may not be made for subsistence and transportation expenses at levelsexceeding those allowable under section 2296(b)(1) and (2) of this title.
+&emsp;(2) reimbursement may not be made for subsistence and transportation expenses at levels exceeding those allowable under section 2296(b)(1) and (2) of this title.
 
 #### (b) Conditions
 

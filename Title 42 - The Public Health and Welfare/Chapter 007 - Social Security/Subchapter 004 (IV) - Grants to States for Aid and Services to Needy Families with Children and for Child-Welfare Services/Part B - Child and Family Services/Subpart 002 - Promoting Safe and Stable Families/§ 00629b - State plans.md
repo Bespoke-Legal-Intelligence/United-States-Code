@@ -42,7 +42,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(B) provides that the State will furnish reports to the Secretary, at such times, in such format, and containing such information as the Secretary may require, that demonstrate the State's compliance with the prohibition contained in subparagraph (A);
 
-&emsp;(8) provides that the State agency will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require <sup>1</sup>
+&emsp;(8) provides that the State agency will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require; and
 
 &emsp;(9) contains assurances that in administering and conducting service programs under the plan, the safety of the children to be served shall be of paramount concern.
 
@@ -62,13 +62,15 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;&emsp;Notwithstanding subparagraph (A) of this paragraph, the Secretary may not approve a plan of an Indian tribe under this subpart to which (but for this subparagraph) an allotment of less than $10,000 would be made under section 629c(a) of this title if allotments were made under section 629c(a) of this title to all Indian tribes with plans approved under this subpart with the same or larger numbers of children.
 
-(Aug. 14, 1935, ch. 531, title IV, §432, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(a)(2), 107 Stat. 651; amended Nov. 19, 1997, Pub. L. 105–89, title III, §305(b)(1), (c)(1), 111 Stat. 2130, 2131.)
+(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673.)
 
 #### Prior Provisions
 
 A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+1998—Subsec. (a)(8). Pub. L. 105–200 inserted “; and” at end.
 
 1997—Subsec. (a)(4). Pub. L. 105–89, §305(b)(1)(A)(i), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services,” for “and community-based family support services”.
 
@@ -85,6 +87,4 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 #### Section Referred to in Other Sections
 
 This section is referred to in section 629d of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “; and”.</i>
 

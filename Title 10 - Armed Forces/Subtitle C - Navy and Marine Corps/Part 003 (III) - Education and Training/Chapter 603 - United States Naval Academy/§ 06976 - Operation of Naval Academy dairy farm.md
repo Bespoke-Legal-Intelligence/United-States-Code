@@ -4,7 +4,7 @@
 
 Discretion Regarding Continued Operation.—(1) Subject to paragraph (2), the Secretary of the Navy may terminate or reduce the dairy or other operations conducted at the Naval Academy dairy farm located in Gambrills, Maryland.
 
-(2) Notwithstanding the termination or reduction of operations at the Naval Academy dairyfarm under paragraph (1), the real property containing the dairy farm (consisting of approximately 875 acres)—
+(2) Notwithstanding the termination or reduction of operations at the Naval Academy dairy farm under paragraph (1), the real property containing the dairy farm (consisting of approximately 875 acres)—
 
 &emsp;(A) may not be declared to be excess real property to the needs of the Navy or transferred or otherwise disposed of by the Navy or any Federal agency; and
 
@@ -14,7 +14,7 @@ Discretion Regarding Continued Operation.—(1) Subject to paragraph (2), the Se
 
 Lease Authority.—(1) Subject to paragraph (2), to the extent that the termination or reduction of operations at the Naval Academy dairy farm permit, the Secretary of the Navy may lease the real property containing the dairy farm, and any improvements and personal property thereon, to such persons and under such terms as the Secretary considers appropriate. In leasing any of the property, the Secretary may give a preference to persons who will continue dairy operations on the property.
 
-(2) Any lease of property at the Naval Academy dairy farm shall be subject to a condition that the lessee maintain the rural and agricultural nature of the leased property.
+(2) Any lease of property at the Naval Academy dairy farm shall be subject to a conditionthat the lessee maintain the rural and agricultural nature of the leased property.
 
 (c)
 

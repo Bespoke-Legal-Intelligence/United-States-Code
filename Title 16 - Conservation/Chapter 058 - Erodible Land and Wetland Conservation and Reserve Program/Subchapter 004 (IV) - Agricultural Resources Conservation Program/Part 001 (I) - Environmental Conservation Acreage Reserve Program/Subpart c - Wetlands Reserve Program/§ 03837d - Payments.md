@@ -16,7 +16,7 @@ If an owner who is entitled to a payment under this subpart dies, becomes incomp
 
 #### (1) In general
 
-&emsp;The total amount of easement payments made to a person under this subpart for any year may not exceed $50,000, except such limitation shall not apply with respect to payments for perpetual easements.
+&emsp;The total amount of easement payments made to a person under this subpart for any year may not exceed $50,000, except such limitation shall not apply with respect to payments for perpetual or 30-year easements.
 
 #### (2) Regulations
 
@@ -34,7 +34,7 @@ If an owner who is entitled to a payment under this subpart dies, becomes incomp
 
 Notwithstanding any other provision of law, no order issued under section 902 of title 2 shall affect any payment under this subpart.
 
-(Pub. L. 99–198, title XII, §1237D, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3588.)
+(Pub. L. 99–198, title XII, §1237D, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3588; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §751\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
 #### References in Text
 
@@ -45,4 +45,8 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 The Agricultural Act of 1949, referred to in subsec. (c)(3), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 Section 1305(d) of the Agricultural Reconciliation Act of 1987, referred to in subsec. (c)(4), is section 1305(d) of Pub. L. 100–203, which is set out as a note under section 1308 of Title 7.
+
+#### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–277 inserted “or 30-year” after “perpetual”.
 

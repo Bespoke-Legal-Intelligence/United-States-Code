@@ -30,7 +30,7 @@ Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the S
 
 Owner Manual Requirements.—In amending Standard 208, the Secretary of Transportation shall require, to be effective as soon as possible after the amendment is prescribed, that owner manuals for passenger cars, buses, multipurpose passenger vehicles, and trucks equipped with an inflatable restraint include a statement in an easily understandable format stating that—
 
-&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped withan inflatable restraint referred to as an “airbag” and a lap and shoulder belt;
+&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped with an inflatable restraint referred to as an “airbag” and a lap and shoulder belt;
 
 &emsp;(2) the “airbag” is a supplemental restraint and is not a substitute for lap and shoulder belts;
 
@@ -68,7 +68,7 @@ Application.—(1) This section revises, but does not replace, Standard 208 as i
 
 (g)
 
-Report.—(1) On October 1, 1992, and every 6 months after that date through October 1, 2000, the Secretary of Transportation shall submit reports on the effectiveness of occupant restraint systems expressed as a percentage reduction in fatalities or injuries of restrained occupants compared to unrestrained occupants for—
+Report.—(1) On October 1, 1992, and annually after that date through October 1, 2000, the Secretary of Transportation shall submit reports on the effectiveness of occupant restraint systems expressed as a percentage reduction in fatalities or injuries of restrained occupants compared to unrestrained occupants for—
 
 &emsp;(A) a combination of inflated restraints and lap and shoulder belts;
 
@@ -94,7 +94,7 @@ Airbags for Government Cars.—In cooperation with the Administrator of General 
 
 &emsp;(2) after September 30, 1996, for use by the Government be equipped, to the maximum extent practicable, with inflatable restraints for both front outboard seating positions.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 958.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 958; Pub. L. 105–178, title VII, §7106(c), June 9, 1998, 112 Stat. 467.)
 
 Historical and Revision Notes
 
@@ -177,6 +177,46 @@ In subsection (h)(2), the words “for both front outboard seating positions” 
 #### References in Text
 
 The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+
+#### Amendments
+
+1998—Subsec. (g)(1). Pub. L. 105–178 substituted “annually” for “every 6 months” in introductory provisions.
+
+#### Improving Air Bag Safety
+
+Pub. L. 105–178, title VII, §7103, June 9, 1998, 112 Stat. 465, provided that:
+
+“(a)
+
+Rulemaking To Improve Air Bags.—
+
+&emsp;“(1)
+
+Notice of proposed rulemaking.—Not later than September 1, 1998, the Secretary of Transportation shall issue a notice of proposed rulemaking to improve occupant protection for occupants of different sizes, belted and unbelted, under Federal Motor Vehicle Safety Standard No. 208, while minimizing the risk to infants, children, and other occupants from injuries and deaths caused by air bags, by means that include advanced air bags.
+
+&emsp;“(2)
+
+Final rule.—Notwithstanding any other provision of law, the Secretary shall complete the rulemaking required by this subsection by issuing, not later than September 1, 1999, a final rule with any provision the Secretary deems appropriate, consistent with paragraph (1) and the requirements of section 30111, title 49, United States Code. If the Secretary determines that the final rule cannot be completed by that date to meet the purposes of paragraph (1), the Secretary may extend the date for issuing the final rule to not later than March 1, 2000.
+
+&emsp;“(3)
+
+Effective date.—The final rule issued under this subsection shall become effective in phases as rapidly as practicable, beginning not earlier than September 1, 2002, and no sooner than 30 months after the date of the issuance of the final rule, but not later than September 1, 2003. The final rule shall become fully effective for all vehicles identified in section 30127(b), title 49, United States Code, that are manufactured on and after September 1, 2005. Should the phase-in of the final rule required by this paragraph commence on September 1, 2003, then in that event, and only in that event, the Secretary is authorized to make the final rule fully effective on September 1, 2006, for all vehicles that are manufactured on and after that date.
+
+&emsp;“(4)
+
+Coordination of effective dates.—The requirements of S13 of Standard No. 208 shall remain in effect unless and until changed by the rule required by this subsection.
+
+&emsp;“(5)
+
+Credit for early compliance.—To encourage early compliance, the Secretary is directed to include in the notice of proposed rulemaking required by paragraph (1) means by which manufacturers may earn credits for future compliance. Credits, on a one-vehicle for one-vehicle basis, may be earned for vehicles certified as being in full compliance under section 30115 of title 49, United States Code, with the rule required by paragraph (2) which are either—
+
+&emsp;&emsp;“(A) so certified in advance of the phase-in period; or
+
+&emsp;&emsp;“(B) in excess of the percentage requirements during the phase-in period.
+
+“(b)
+
+Advisory Committees.—Any government advisory committee, task force, or other entity involving air bags shall include representatives of consumer and safety organizations, insurers, manufacturers, and suppliers.”
 
 #### Section Referred to in Other Sections
 

@@ -22,5 +22,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Order of Succession
 
-For order of succession in case of absence, disability, or vacancy in office of both Secretary and Deputy Secretary of Commerce, see Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in case of absence, disability, or vacancy in office of both Secretary and Deputy Secretary of Commerce, see Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 

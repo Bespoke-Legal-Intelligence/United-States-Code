@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary may enter into a contract with any organization or any individual (who is not an employee of the Department) with relevant expertise, to review and evaluate, for the purpose of making recommendations to the Secretary on, part or all of any application or submission (including a petition, notification, and any other similar form of request) made under this chapter for the approval or classification of an article or made under section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) with respect to a biological product. Any such contract shall be subject to the requirements of section 379 of this title relating to the confidentiality of information.
+&emsp;The Secretary may enter into a contract with any organization or any individual (who is not an employee of the Department) with relevant expertise, to review and evaluate, for the purpose of making recommendations tothe Secretary on, part or all of any application or submission (including a petition, notification, and any other similar form of request) made under this chapter for the approval or classification of an article or made under section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) with respect to a biological product. Any such contract shall be subject to the requirements of section 379 of this title relating to the confidentiality of information.
 
 #### (2) Increased efficiency and expertise through contracts
 
@@ -18,7 +18,7 @@
 
 #### (2) Limitation
 
-&emsp;A final decision by the Secretary on any such application or submission shall be made within the applicable prescribed time period for review of the matter as set forth in thischapter or in the Public Health Service Act (42 U.S.C. 201 et seq.).
+&emsp;A final decision by the Secretary on any such application or submission shall be made within the applicable prescribed time period for review of the matter as set forth in this chapter or in the Public Health Service Act (42 U.S.C. 201 et seq.).
 
 (June 25, 1938, ch. 675, §907, as added Pub. L. 105–115, title IV, §415, Nov. 21, 1997, 111 Stat. 2377.)
 

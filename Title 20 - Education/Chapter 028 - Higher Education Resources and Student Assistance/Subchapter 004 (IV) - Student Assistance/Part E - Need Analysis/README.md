@@ -6,7 +6,7 @@ This part was added as part F of title IV of Pub. L. 89–329 by Pub. L. 99–49
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1070b, 1070b–1, 1070b–3, 1078, 1087d, 1087bb, 1087dd, 1092, 1098 of this title; title 42 sections 2752, 2753, 2756b.
+This part is referred to in sections 1070b, 1070b–1, 1070b–3, 1078, 1087d, 1087bb, 1087dd, 1092, 1093, 1098, 1134b, 1135b, 1135c of this title; title 42 sections 2752, 2753, 2756b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

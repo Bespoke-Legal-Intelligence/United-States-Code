@@ -24,7 +24,7 @@ No trustee under an indenture which has been qualified under this subchapter sha
 
 Nothing in this subchapter shall be construed as empowering the Commission to conduct an investigation or other proceeding for the purpose of determining whether the provisions of an indenture which has been qualified under this subchapter are being complied with, or to enforce such provisions.
 
-(May 27, 1933, ch. 38, title III, §309, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Nov. 15, 1990, Pub. L. 101–550, title IV, §405, 104 Stat. 2723.)
+(May 27, 1933, ch. 38, title III, §309, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, §405, Nov. 15, 1990, 104 Stat. 2723.)
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 (b) The compensation, allowances, and expenses of the personnel detailed under this section may be paid from applicable appropriations of the Public Health Service in accordance with the law and regulations governing the personnel of the Public Health Service, such appropriations to be reimbursed from applicable appropriations of the Department of Justice; or the Attorney General may make allotments of funds and transfer of credit to the Public Health Service in such amounts as are available and necessary, for payment of compensation, allowances, and expenses of personnel so detailed, in accordance with the law and regulations governing the personnel of the Public Health Service.
 
-(June 25, 1948, ch. 645, 62 Stat. 848; Apr. 30, 1997, Pub. L. 105–12, §9(k), 111 Stat. 28.)
+(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 105–12, §9(k), Apr. 30, 1997, 111 Stat. 28.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +22,7 @@ Minor changes of phraseology were made.
 
 #### References in Text
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42, The Public Health and Welfare, and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 #### Amendments
 
@@ -42,5 +42,5 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 250.
+This section is referred to in title 42 sections 250, 14402, 14405.
 

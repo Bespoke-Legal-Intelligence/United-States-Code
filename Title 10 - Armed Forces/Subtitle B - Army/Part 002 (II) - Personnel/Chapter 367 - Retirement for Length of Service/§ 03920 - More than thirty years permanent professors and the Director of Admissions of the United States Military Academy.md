@@ -8,7 +8,7 @@
 
 &emsp;(2) The Director of Admissions of the United States Military Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 226; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §509(a)(1), 110 Stat. 297.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 226; Pub. L. 104–106, div. A, title V, §509(a)(1), Feb. 10, 1996, 110 Stat. 297.)
 
 Historical and Revision Notes
 

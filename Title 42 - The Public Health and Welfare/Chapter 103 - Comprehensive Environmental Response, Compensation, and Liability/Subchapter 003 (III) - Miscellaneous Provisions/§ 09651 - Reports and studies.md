@@ -54,7 +54,7 @@ The Administrator of the Environmental Protection Agency shall, in consultation 
 
 #### (e) Adequacy of existing common law and statutory remedies
 
-(1) In order to determine the adequacy of existing common law and statutory remedies in providing legal redress for harm to man and the environment caused by the release of hazardous substances into the environment, there shall be submitted to the Congress a study within twelve months of December 11, 1980.
+(1) In order to determine the adequacy of existing common law and statutory remedies in providing legal redress for harm to man and theenvironment caused by the release of hazardous substances into the environment, there shall be submitted to the Congress a study within twelve months of December 11, 1980.
 
 (2) This study shall be conducted with the assistance of the American Bar Association, the American Law Institute, the Association of American Trial Lawyers, and the National Association of State Attorneys General with the President of each entity selecting three members from each organization to conduct the study. The study chairman and one reporter shall be elected from among the twelve members of the study group.
 
@@ -166,7 +166,7 @@ The President, acting through the Administrator of the Environmental Protection 
 
 #### (3) Congressional oversight
 
-&emsp;After receiving the reports under paragraphs (1) and (2) of this subsection in any calendar year, the appropriate authorizing committees of Congress shall conduct oversight hearingsto ensure that this chapter is being implemented according to the purposes of this chapter and congressional intent in enacting this chapter.
+&emsp;After receiving the reports under paragraphs (1) and (2) of this subsection in any calendar year, the appropriate authorizing committees of Congress shall conduct oversight hearings to ensure that this chapter is being implemented according to the purposes of this chapter and congressional intent in enacting this chapter.
 
 (Pub. L. 96–510, title III, §301, Dec. 11, 1980, 94 Stat. 2805; Pub. L. 99–499, title I, §107(d)(3), title II, §§208, 212, Oct. 17, 1986, 100 Stat. 1630, 1707, 1726; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

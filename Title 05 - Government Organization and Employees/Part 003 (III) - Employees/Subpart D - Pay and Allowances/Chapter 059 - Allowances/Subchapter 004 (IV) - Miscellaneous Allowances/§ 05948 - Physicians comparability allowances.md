@@ -4,7 +4,7 @@
 
 &emsp;(1) $14,000 per annum if, at the time the agreement is entered into, the Government physician has served as a Government physician for twenty-four months or less, or
 
-&emsp;(2) $20,000 per annum if the Government physician has served as a Government physician for more than twenty-four months.
+&emsp;(2) $30,000 per annum if the Government physician has served as a Government physician for more than twenty-four months.
 
 > For the purpose of determining length of service as a Government physician, service as a physician under section 4104 or 4114 <sup>1</sup> of title 38 or active service as a medical officer in the commissioned corps of the Public Health Service under Title II of the Public Health Service Act (42 U.S.C. ch. 6A) shall be deemed service as a Government physician.
 
@@ -22,7 +22,7 @@
 
 (d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service. No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.
 
-(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
+(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuantto such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
 (f) Any agreement under this section shall specify, subject to such regulations as the President or his designee may prescribe, the terms under which the head of the agency and the physician may elect to terminate such agreement, and the amounts, if any, required to be refunded by the physician for each reason for termination.
 
@@ -56,7 +56,7 @@
 
 (h)(1) Any allowance paid under this section shall not be considered as basic pay for the purposes of subchapter VI and section 5595 of chapter 55, chapter 81, 83, or 87 of this title, or other benefits related to basic pay.
 
-(2) Any allowance under this section for a Government physician shall be paid in the samemanner and at the same time as the physician's basic pay is paid.
+(2) Any allowance under this section for a Government physician shall be paid in the same manner and at the same time as the physician's basic pay is paid.
 
 (i) Any regulations, criteria, or conditions that may be prescribed under this section by the President or his designee shall not be applicable to the Tennessee Valley Authority, and the Tennessee Valley Authority shall have sole responsibility for administering the provisions of this section with respect to Government physicians employed by the Authority.
 
@@ -78,7 +78,7 @@
 
 &emsp;(B) the reasons for those recommendations.
 
-(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307.)
+(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, §7(a), Oct. 19, 1998, 112 Stat. 2369.)
 
 #### Repeal of Section
 
@@ -97,6 +97,8 @@ Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), 
 Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), referred to in subsec. (g)(1)(H), was repealed by Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.
 
 #### Amendments
+
+1998—Subsec. (a)(2). Pub. L. 105–266 substituted “$30,000” for “$20,000”.
 
 1997—Subsec. (d). Pub. L. 105–61, §517(a)(1), substituted “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.” for “No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.”
 
@@ -130,7 +132,7 @@ Subsec. (d). Pub. L. 100–140, §1(b), substituted “September 30, 1990” for
 
 1981—Subsec. (d). Pub. L. 97–141, §2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
 
-Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and insubpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
+Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
 
 1979—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
 
@@ -170,11 +172,15 @@ Section 1 of Pub. L. 97–141 provided: “That this Act \[amending this section
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–166 provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
+Section 1 of Pub. L. 96–166 provided: “That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the‘Federal Physicians Comparability Allowance Amendments of 1979’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 95–603 provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Federal Physicians Comparability Allowance Act of 1978’.”
+
+#### Construction of 1998 Amendment
+
+Pub. L. 105–266, §7(c), Oct. 19, 1998, 112 Stat. 2370, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note below\] shall be considered to authorize additional or supplemental appropriations for the fiscal year in which occurs the date of the enactment of this Act \[Oct. 19, 1998\].”
 
 #### Construction of 1993 Amendment
 
@@ -185,6 +191,18 @@ Section 1(c) of Pub. L. 103–114 provided that: “For purposes of applying the
 &emsp;“(1) the provisions of subsection (b)(1) \[enacting and amending provisions set out as notes above\] shall be treated as having been enacted immediately before the provisions of subsection (b)(2) \[enacting and amending provisions set out as notes above\]; and
 
 &emsp;“(2) the provisions of subsection (b)(2) shall be treated as having been enacted immediately before the provisions of subsection (a) \[amending this section and enacting and amending provisions set out as notes above\].”
+
+#### Modification of Service Agreements in Effect on October 19, 1998; Limitation
+
+Pub. L. 105–266, §7(b), Oct. 19, 1998, 112 Stat. 2369, provided that:
+
+“(1)
+
+In general.—Any service agreement under section 5948 of title 5, United States Code, which is in effect on the date of the enactment of this Act \[Oct. 19, 1998\] may, with respect to any period of service remaining in such agreement, be modified based on the amendment made by subsection (a) \[amending this section\].
+
+“(2)
+
+Limitation.—A modification taking effect under this subsection in any year shall not cause an allowance to be increased to a rate which, if applied throughout such year, would cause the limitation under section 5948(a)(2) of such title (as amended by this section), or any other applicable limitation, to be exceeded.”
 
 #### Effectiveness of Service Agreements Limited by Appropriation Acts
 
@@ -200,7 +218,7 @@ Section 103 of Pub. L. 98–168 provided that any individual whose aggregate pay
 
 #### Service Agreements Entered Into On or After December 29, 1981; Advance Authorization; Fiscal Year 1982
 
-Section 4 of Pub. L. 97–141 provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriationActs, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
+Section 4 of Pub. L. 97–141 provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
 
 #### Service Agreements Entered Into On or After December 29, 1979; Advance Authorization
 
@@ -224,5 +242,5 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5307 of this title; title 24 section 225e; title 42 section 1395ww.
+This section is referred to in section 5307 of this title; title 24 section 225e; title 42 section 1395b–6.
 

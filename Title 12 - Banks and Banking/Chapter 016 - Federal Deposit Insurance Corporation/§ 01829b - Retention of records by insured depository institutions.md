@@ -38,7 +38,7 @@
 
 #### (C) Availability of records
 
-&emsp;&emsp;Any records required to be maintained pursuant to the regulations prescribed undersubparagraph (A) shall be submitted or made available to the Secretary or the Board upon request.
+&emsp;&emsp;Any records required to be maintained pursuant to the regulations prescribed under subparagraph (A) shall be submitted or made available to the Secretary or the Board upon request.
 
 #### (c) Identity of persons having accounts and persons authorized to act with respect to such accounts; exemptions
 

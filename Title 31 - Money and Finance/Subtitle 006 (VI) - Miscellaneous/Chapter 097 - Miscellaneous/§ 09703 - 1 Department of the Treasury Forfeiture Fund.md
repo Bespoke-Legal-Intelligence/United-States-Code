@@ -202,11 +202,11 @@ Appropriations.—
 
 &emsp;&emsp;(B) $50,000,000 for each fiscal year after fiscal year 1993.
 
-&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
+&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995,1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
 
 &emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
-&emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>7</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at theend of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) <sup>8</sup> shall also be carried forward.
+&emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>7</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) <sup>8</sup> shall also be carried forward.
 
 &emsp;(4)(A) After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993, shall be deposited into the general fund of the Treasury of the United States.
 
@@ -256,7 +256,7 @@ Customs Forfeiture Fund.—Notwithstanding any other provision of law—
 
 (k)
 
-Limitation of Liability.—The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a) if such action is based on an act or omission occurring after the transfer.
+Limitation of Liability.—The United States shall not be liable in any action relatingto property transferred under this section or under section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a) if such action is based on an act or omission occurring after the transfer.
 
 (<i>l</i>)
 
@@ -274,7 +274,7 @@ Forfeited Property.—For purposes of this section and notwithstanding section 5
 
 &emsp;(2) after fiscal year 1993, property and currency shall be deemed to be forfeited pursuant to a law enforced or administered by a Department of the Treasury law enforcement organization if it is forfeited pursuant to—
 
-&emsp;&emsp;(A) a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Department of the Treasury law enforcement organization or the property wasmaintained by a Department of the Treasury law enforcement organization; or
+&emsp;&emsp;(A) a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Department of the Treasury law enforcement organization or the property was maintained by a Department of the Treasury law enforcement organization; or
 
 &emsp;&emsp;(B) a civil administrative forfeiture proceeding conducted by a Department of the Treasury law enforcement organization.
 
@@ -324,7 +324,7 @@ The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(3), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(3), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, seeShort Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (f), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of this title and Tables.
 
@@ -346,7 +346,7 @@ Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated sec
 
 Subsec. (g)(4)(B). Pub. L. 105–61, §122(c), struck out “, subject to subparagraph (C),” after “shall”.
 
-1996—Subsec. (g)(3)(C). Pub. L. 104–208 substituted “1994, 1995, and 1996” for “and at the end of each fiscal year thereafter” and inserted at end “At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that arerequired to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a).”
+1996—Subsec. (g)(3)(C). Pub. L. 104–208 substituted “1994, 1995, and 1996” for “and at the end of each fiscal year thereafter” and inserted at end “At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a).”
 
 1994—Subsec. (a). Pub. L. 103–329 redesignated subpars. (G) and (J) of par. (2) as (I) and (J) of par. (1), respectively, and subpars. (H) and (I) of par. (2) as (G) and (H) of par. (2), respectively.
 

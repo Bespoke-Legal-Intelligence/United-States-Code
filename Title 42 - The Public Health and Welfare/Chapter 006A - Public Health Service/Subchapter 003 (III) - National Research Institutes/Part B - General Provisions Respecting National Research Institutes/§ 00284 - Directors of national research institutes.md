@@ -20,7 +20,7 @@ The Director of the National Cancer Institute shall be appointed by the Presiden
 
 &emsp;(B) may, subject to the peer review prescribed under section 289a(b) of this title and any advisory council review under section 284a(a)(3)(A)(i) of this title, conduct the research, investigations, experiments, demonstrations, and studies referred to in subparagraph (A);
 
-&emsp;(C) may conduct and support research training (i) for which fellowship support is not provided under section 288 of this title, and (ii)which is not residency training of physicians or other health professionals;
+&emsp;(C) may conduct and support research training (i) for which fellowship support is not provided under section 288 of this title, and (ii) which is not residency training of physicians or other health professionals;
 
 &emsp;(D) may develop, implement, and support demonstrations and programs for the application of the results of the activities of the institute to clinical practice and disease prevention activities;
 
@@ -72,7 +72,7 @@ In carrying out subsection (b) of this section, each Director of a national rese
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (3).
 
-(July 1, 1944, ch. 373, title IV, §405, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 826; amended Nov. 4, 1988, Pub. L. 100–607, title I, §116, 102 Stat. 3053; Nov. 18, 1988, Pub. L. 100–690, title II, §2613(c), 102 Stat. 4239; June 10, 1993, Pub. L. 103–43, title III, §301(a)(1), (b), 107 Stat. 150.)
+(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 Whoever, having charge or control of any conveyance operating by land, air, or water, which regularly performs trips at stated periods on any post route, or from one place to another between which the mail is regularly carried, carries, otherwise than in the mail, any letters or packets, except such as relate to some part of the cargo of such conveyance, or to the current business of the carrier, or to some article carried at the same time by the same conveyance, shall, except as otherwise provided by law, be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 776; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(A), 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 776; Pub. L. 103–322, title XXXIII, §330016(1)(A), Sept. 13, 1994, 108 Stat. 2146.)
 
 #### Historical and Revision Notes
 
@@ -18,5 +18,5 @@ Enumeration of persons having charge was omitted as unnecessary.
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 
-Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375,set out as a note under section 601 of Title 39, Postal Service.
+Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375, set out as a note under section 601 of Title 39, Postal Service.
 

@@ -22,7 +22,7 @@
 
 (f) The Board shall visit the Academy annually on the date chosen by the Secretary. Each Member of the Board shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a Member of the Board.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 510; Nov. 16, 1990, Pub. L. 101–595, title III, §304, 104 Stat. 2984.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 510; Pub. L. 101–595, title III, §304, Nov. 16, 1990, 104 Stat. 2984.)
 
 #### Historical and Revision Notes
 

@@ -10,11 +10,15 @@
 
 &emsp;The interval between the first and second such installments shall be not less than one-half of such period of enrollment, except as necessary to permit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
+#### (3) Special rule
+
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months.
+
 #### (b) Disbursement and endorsement requirements
 
 #### (1) First year students
 
-&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period.
+&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period. An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph.
 
 #### (2) Other students
 
@@ -24,7 +28,7 @@
 
 Disbursements under subsection (a) of this section—
 
-&emsp;(1) shall be made in accordance with a schedule provided by the institution (under section 1078(a)(2)(A)(i)(III) of this title) that complies with the requirements of this section;
+&emsp;(1) shall be made in accordance with a schedule provided by the institution (under section 1078(a)(2)(A)(i)(III) <sup>1</sup> of this title) that complies with the requirements of this section;
 
 &emsp;(2) may be made directly by the lender or, in the case of a loan under sections 1078 and 1078–1 <sup>1</sup> of this title, may be disbursed pursuant to the escrow provisions of section 1078(i) of this title; and
 
@@ -38,11 +42,11 @@ Disbursements under subsection (a) of this section—
 
 #### (2) Students receiving over-awards
 
-&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance for which the student is eligible under this subchapter and part C of subchapter I of chapter 34 of title 42, the institution such student is attending shall withhold and return to the lender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
+&emsp;If the sum of a disbursement for any student and the other financial aid obtained by such student exceeds the amount of assistance for which the student is eligible under this subchapter and part C of subchapter I of chapter 34 of title 42, the institution such student is attending shall withhold and return to thelender or escrow agent the portion (or all) of such installment that exceeds such eligible amount, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph. Any portion (or all) of a disbursement installment which is so returned shall be credited to the borrower's loan and treated as a prepayment thereon.
 
 #### (e) Exclusion of consolidation and foreign study loans
 
-The provisions of this section shall not apply in the case of a loan made under section 1078–3 of this title or made to a student to cover the cost of attendance at an eligible institution outside the United States.
+The provisions of this section shall not apply in the case of a loan made under section 1078–3 of this title, made to a student to cover the cost of attendance at an eligible institution outside the United States, or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort default rate (as calculated under section 1085(m) of this title) of less than 5 percent.
 
 #### (f) Beginning of period of enrollment
 
@@ -56,13 +60,25 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 &emsp;(2) the first disbursement of such loan has been made.
 
-(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466.)
+(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 422(d) of Pub. L. 105–244, see Effective and Termination Dates of 1998 Amendment note below.</i>
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993.
+Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
+
+Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Amendments
+
+1998—Subsec. (a)(3). Pub. L. 105–244, §422(a), (d), temporarily added par. (3). See Effective and Termination Dates of 1998 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 105–244, §422(b), (d), temporarily inserted at end “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph.” See Effective and Termination Dates of 1998 Amendment note below.
+
+Subsec. (e). Pub. L. 105–244, §422(c), substituted “, made to a student” for “or made to a student” and inserted before the period at end “, or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort default rate (as calculated under section 1085(m) of this title) of less than 5 percent”.
 
 1993—Subsec. (c)(3). Pub. L. 103–208 directed the substitution of “disbursed by the lender” for “disbursed” and was executed by making the substitution the first place “disbursed” appeared, to reflect the probable intent of Congress.
 
@@ -82,9 +98,15 @@ Subsec. (g). Pub. L. 102–325, §421(c), added subsec. (g).
 
 > but may be disbursed to the eligible institution prior to the end of such 30-day period.”
 
+#### Effective and Termination Dates of 1998 Amendment
+
+Amendment by section 422(c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+Pub. L. 105–244, title IV, §422(d), Oct. 7, 1998, 112 Stat. 1696, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be effective during the period beginning on October 1, 1998, and ending on September 30, 2002.”
+
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–66 effective with respect to loans for which the first disbursement is made on or after Oct. 1, 1993, see section 4109(c) of Pub. L. 103–66, set out as a note under section 1078–2 of this title.
 
@@ -98,7 +120,7 @@ Section applicable with respect to loans made to cover cost of instruction for p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1077, 1078, 1078–2, 1087d of this title.
+This section is referred to in sections 1077, 1078, 1078–2, 1078–8, 1087d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

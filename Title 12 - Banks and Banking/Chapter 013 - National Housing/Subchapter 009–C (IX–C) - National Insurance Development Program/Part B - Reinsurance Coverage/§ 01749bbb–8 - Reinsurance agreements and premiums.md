@@ -14,7 +14,7 @@ Such contracts, agreements, treaties, or other arrangements may be made without 
 
 #### (d) Expiration date of contracts, etc.
 
-Any contract, agreement, treaty, or other arrangement for reinsurance under this section shall be for a term expiring on April 30, 1969, and on April 30 each year thereafter, except thatsuch term shall expire on September 30, beginning in either calendar year 1977 or 1978, as determined by the Director.
+Any contract, agreement, treaty, or other arrangement for reinsurance under this section shall be for a term expiring on April 30, 1969, and on April 30 each year thereafter, except that such term shall expire on September 30, beginning in either calendar year 1977 or 1978, as determined by the Director.
 
 (June 27, 1934, ch. 847, title XII, §1222, as added Pub. L. 90–448, title XI, §1103, Aug. 1, 1968, 82 Stat. 561; amended Pub. L. 91–152, title IV, §405, Dec. 24, 1969, 83 Stat. 396; Pub. L. 91–609, title VI, §602(e), Dec. 31, 1970, 84 Stat. 1790; Pub. L. 95–24, title I, §104(b), Apr. 30, 1977, 91 Stat. 56; Pub. L. 98–181, title IV, §452(b)(1), Nov. 30, 1983, 97 Stat. 1230; Pub. L. 98–479, title II, §203(i)(1), Oct. 17, 1984, 98 Stat. 2230; Pub. L. 100–242, title V, §545(b), Feb. 5, 1988, 101 Stat. 1942.)
 

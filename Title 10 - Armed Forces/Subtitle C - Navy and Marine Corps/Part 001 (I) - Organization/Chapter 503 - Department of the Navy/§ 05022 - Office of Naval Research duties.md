@@ -16,7 +16,7 @@
 
 (d) The Office of Naval Research shall perform its duties under the authority of the Secretary, and its orders are considered as coming from the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Oct. 1, 1986, Pub. L. 99–433, title V, §511(d), 100 Stat. 1048; amended Nov. 5, 1990, Pub. L. 101–510, div. A, title IX, §910(b)(1), 104Stat. 1625; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §501(a), 110 Stat. 2510.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Pub. L. 99–433, title V, §511(d), Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, §910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, §501(a), Sept. 23, 1996, 110 Stat. 2510.)
 
 Historical and Revision Notes
 

@@ -6,7 +6,7 @@
 
 (c) The Attorney General may, in his discretion and on the basis of reciprocity pursuant to such regulations as he may prescribe, waive the requirement of fingerprinting specified in subsections (a) and (b) of this section in the case of any nonimmigrant.
 
-(June 27, 1952, ch. 477, title II, ch. 7, §262, 66 Stat. 224; Nov. 14, 1986, Pub. L. 99–653, §9, 100 Stat. 3657; Oct. 24, 1988, Pub. L. 100–525, §8(h), 102 Stat. 2617; Oct. 25, 1994, Pub. L. 103–416, title II, §219(n), 108 Stat. 4317.)
+(June 27, 1952, ch. 477, title II, ch. 7, §262, 66 Stat. 224; Pub. L. 99–653, §9, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(h), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 103–416, title II, §219(n), Oct. 25, 1994, 108 Stat. 4317.)
 
 #### References in Text
 

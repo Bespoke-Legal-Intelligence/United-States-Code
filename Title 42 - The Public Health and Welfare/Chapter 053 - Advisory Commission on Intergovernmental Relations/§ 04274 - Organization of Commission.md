@@ -2,7 +2,7 @@
 
 #### (a) Initial meeting
 
-The President shall convene the Commission within ninety days following September 24, 1959at such time and place as he may designate for the Commission's initial meeting.
+The President shall convene the Commission within ninety days following September 24, 1959 at such time and place as he may designate for the Commission's initial meeting.
 
 #### (b) Chairman and Vice Chairman
 

@@ -30,11 +30,11 @@ For the purposes of subsection (d) of this section—
 
 &emsp;(2) the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
 
-(Aug. 15, 1921, ch. 64, title IV, §407, 42 Stat. 169; Sept. 2, 1958, Pub. L. 85–909, §4, 72 Stat. 1750; July 8, 1963, Pub. L. 88–61, 77 Stat. 79; Sept. 13, 1976, Pub. L. 94–410, §11, 90 Stat. 1252; Oct. 13, 1994, Pub. L. 103–354, title II, §293(b), 108 Stat. 3237; Nov. 2, 1994, Pub. L. 103–437, §4(a)(2), 108 Stat. 4581.)
+(Aug. 15, 1921, ch. 64, title IV, §407, 42 Stat. 169; Pub. L. 85–909, §4, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 88–61, July 8, 1963, 77 Stat. 79; Pub. L. 94–410, §11, Sept. 13, 1976, 90 Stat. 1252; Pub. L. 103–354, title II, §293(b), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 103–437, §4(a)(2), Nov. 2, 1994, 108 Stat. 4581.)
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–354, §293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
+1994—Subsec. (b). Pub. L. 103–354, §293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec.\(b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
 
 Subsec. (c). Pub. L. 103–437, which directed the amendment of subsec. (d) by substituting “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”, was executed by making the amendment to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by Pub. L. 103–354. See below.
 

@@ -2,7 +2,7 @@
 
 The Secretary shall establish an administrative appeal procedure that provides for an administrative review of determinations made with respect to crop acreage bases and farm program payment yields.
 
-(Oct. 31, 1949, ch. 792, title V, §508, as added Dec. 23, 1985, Pub. L. 99–198, title X, §1031, 99 Stat. 1464; amended Nov. 28, 1990, Pub. L. 101–624, title XI, §1101, 104 Stat. 3497.)
+(Oct. 31, 1949, ch. 792, title V, §508, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1464; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3497.)
 
 #### Prior Provisions
 

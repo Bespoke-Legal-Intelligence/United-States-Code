@@ -6,5 +6,5 @@ The Secretary of Agriculture shall administer, protect, and regulate use of the 
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 96–550, Dec. 19, 1980, 94 Stat. 3221, which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions set out as notes under sections 431 and 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 96–550, Dec. 19, 1980, 94 Stat. 3221, which enacted sections 410ii to 410ii–7 and 542 to 542d of this title and enacted provisions setout as notes under sections 431 and 1132 of this title. For complete classification of this Act to the Code, see Tables.
 

@@ -4,7 +4,7 @@
 
 (b) Any warrant officer who is retired under any provision of section 580, 1263, 1293, or 1305 of title 10, shall be retired from active service with the highest commissioned grade above chief warrant officer, W–4, held by him for not less than six months on active duty in which, as determined by the Secretary, his performance of duty was satisfactory.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 190; amended Pub. L. 89–444, §1(19), June 9, 1966, 80 Stat. 196; Pub. L. 99–348, title II, §205(b)(7), July 1, 1986, 100 Stat. 700; Pub. L. 102–190, div. A, title XI, §1125(b)(2), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(3), Oct. 5, 1994, 108 Stat. 2766.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 190; amended Pub. L. 89–444, §1(19), June 9,1966, 80 Stat. 196; Pub. L. 99–348, title II, §205(b)(7), July 1, 1986, 100 Stat. 700; Pub. L. 102–190, div. A, title XI, §1125(b)(2), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(3), Oct. 5, 1994, 108 Stat. 2766.)
 
 #### Amendments
 

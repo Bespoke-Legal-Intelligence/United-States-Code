@@ -62,5 +62,5 @@ A prior section 5 of Pub. L. 95–313 was renumbered section 8 and is classified
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2103b, 3835a of this title.
+This section is referred to in sections 2103b, 2106b, 3835a of this title.
 

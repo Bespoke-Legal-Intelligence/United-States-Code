@@ -38,7 +38,7 @@
 
 #### (b) Confidentiality
 
-A Board shall adopt for administrative proceedings under this subchapter such procedures with respect to confidentiality as may be deemed necessary, including procedures relatingto the conduct of closed proceedings or the submission and use of evidence in camera, to ensure in particular the protection of classified information relating to national defense, foreign policy, or intelligence matters. The Director of Central Intelligence shall establish the level of protection required for intelligence information and for information relating to intelligence personnel, including standards for secure storage.
+A Board shall adopt for administrative proceedings under this subchapter such procedures with respect to confidentiality as may be deemed necessary, including procedures relating to the conduct of closed proceedings or the submission and use of evidence in camera, to ensure in particular the protection of classified information relating to national defense, foreign policy, or intelligence matters. The Director of Central Intelligence shall establish the level of protection required for intelligence information and for information relating to intelligence personnel, including standards for secure storage.
 
 #### (c) Records
 

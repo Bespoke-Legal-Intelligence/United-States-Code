@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;(6) Nothing in this part changes the responsibility of the Bureau to meet the purposes for which Federal Reclamation projects were initially authorized and constructed.
 
-&emsp;(7) It is therefore in the best interest of the people of this Nation to amend the Federal Water Project Recreation Act \[16 U.S.C. 460<i>l</i>–12 et seq.\] to remove outdated restrictions andauthorize the Secretary of the Interior to undertake specific measures for the management of Reclamation lands.
+&emsp;(7) It is therefore in the best interest of the people of this Nation to amend the Federal Water Project Recreation Act \[16 U.S.C. 460<i>l</i>–12 et seq.\] to remove outdated restrictions and authorize the Secretary of the Interior to undertake specific measures for the management of Reclamation lands.
 
 (Pub. L. 102–575, title XXVIII, §2802, Oct. 30, 1992, 106 Stat. 4690.)
 

@@ -34,7 +34,7 @@ The foundation <sup>2</sup> shall submit to the President and to the Congress a
 
 On request of the Chairman of the Foundation, the head of a Federal agency may detail personnel of the agency to the Foundation to assist the Foundation in carrying out this chapter.<sup>1</sup> Details under this subsection shall be without reimbursement by the Foundation to the agency from which personnel are detailed.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §814\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591,§101(b) \[title VIII, §814\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, §3, Dec. 7, 1989, 103 Stat. 1837.)
+(Pub. L. 99–500, §101(b) \[title VIII, §814\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, §101(b) \[title VIII, §814\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, §3, Dec. 7, 1989, 103 Stat. 1837.)
 
 #### References in Text
 

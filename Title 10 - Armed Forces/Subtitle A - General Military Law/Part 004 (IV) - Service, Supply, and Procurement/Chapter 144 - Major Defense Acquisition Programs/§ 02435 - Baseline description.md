@@ -84,11 +84,11 @@ Amendment by Pub. L. 100–456 applicable as if included in the enactment of Pub
 
 #### Effective Date
 
-Section 101(c) \[title IX, §904(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 904(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2435 of title 10, United States Code (as added by subsection (a)(1)), shall apply to major defense acquisition programs that enter full-scale engineering development or full-rate production after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title IX, §904(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 904(b) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2435 of title 10, United States Code (as added by subsection (a)(1)), shall apply to major defense acquisition programs that enter full-scale engineering development or full-rate production after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Review of Acquisition Program Cycle
 
-Section 5002(a) of Pub. L. 103–355 provided that: “The Secretary of Defense shall review the regulations of theDepartment of Defense to ensure that acquisition program cycle procedures are focused on achieving the goals that are consistent with the program baseline description established pursuant to section 2435 of title 10, United States Code.”
+Section 5002(a) of Pub. L. 103–355 provided that: “The Secretary of Defense shall review the regulations of the Department of Defense to ensure that acquisition program cycle procedures are focused on achieving the goals that are consistent with the program baseline description established pursuant to section 2435 of title 10, United States Code.”
 
 #### Section Referred to in Other Sections
 

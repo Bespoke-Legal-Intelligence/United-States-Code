@@ -26,5 +26,5 @@ A prior section 706 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, en
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2430f, 2430g of this title.
+This section is referred to in sections 2430f, 2430g, 2431d of this title.
 

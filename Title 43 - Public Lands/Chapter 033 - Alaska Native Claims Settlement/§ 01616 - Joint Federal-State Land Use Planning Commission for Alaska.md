@@ -44,5 +44,5 @@ Subsecs. (a) and (b) of this section, which related to the establishment, member
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1610, 1611, 1613, 1621, 1631, 1633, 1635, 1641 of this title; title 16 section 410hh–3.
+This section is referred to in sections 1602, 1610, 1611, 1613, 1621, 1633, 1635, 1641 of this title; title 16 section 410hh–3.
 

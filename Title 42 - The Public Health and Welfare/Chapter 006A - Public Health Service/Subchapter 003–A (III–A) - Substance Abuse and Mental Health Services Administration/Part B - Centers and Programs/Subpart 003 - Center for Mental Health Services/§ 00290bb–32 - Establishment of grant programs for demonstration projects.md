@@ -54,7 +54,7 @@ The Secretary may not make a grant under subsection (a) or (b) of this section t
 
 (2) Of the amounts appropriated pursuant to paragraph (1), the Secretary shall make available 15 percent for demonstration projects to carry out the purpose of this section in rural areas.
 
-(July 1, 1944, ch. 373, title V, §520A, as added Nov. 18, 1988, Pub. L. 100–690, title II, §2057(3), 102 Stat. 4212; renumbered §520 and amended Aug. 16, 1989, Pub. L. 101–93, §3(e), (g), 103 Stat. 610, 611; Nov. 28, 1990, Pub. L. 101–639, §2, 104 Stat. 4600; renumbered §520A and amended July 10, 1992, Pub. L. 102–321, title I, §116, 106 Stat. 348.)
+(July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348.)
 
 #### Codification
 

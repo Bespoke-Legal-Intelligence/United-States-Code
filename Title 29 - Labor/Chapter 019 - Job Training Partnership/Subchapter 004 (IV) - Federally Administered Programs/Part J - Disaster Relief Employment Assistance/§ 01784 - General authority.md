@@ -18,9 +18,13 @@ Funds made available under this part to Governors and units of general local gov
 
 (Pub. L. 97–300, title IV, §499A, as added Pub. L. 102–367, title IV, §408, Sept. 7, 1992, 106 Stat. 1094.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Disaster Relief Act of 1974, referred to in subsecs. (a) and (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. The 1974 Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and wassubstantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. For complete classification of this Act to the Code, see Short title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief Act of 1974, referred to in subsecs. (a) and (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. The 1974 Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. For complete classification of this Act to the Code, see Short title note set out under section 5121 of Title 42 and Tables.
 
 #### Effective Date
 

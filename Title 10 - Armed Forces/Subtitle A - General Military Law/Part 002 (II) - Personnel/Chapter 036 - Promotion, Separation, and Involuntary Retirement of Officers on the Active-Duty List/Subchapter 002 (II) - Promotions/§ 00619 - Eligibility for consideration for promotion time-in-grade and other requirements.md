@@ -6,7 +6,7 @@
 
 &emsp;(B) Two years, in the case of an officer holding a permanent appointment in the grade of first lieutenant or lieutenant (junior grade).
 
-(2) Subject to paragraph (4), an officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in a grade above first lieutenant or is onthe active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
+(2) Subject to paragraph (4), an officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
 
 &emsp;(A) Three years, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of captain, major, or lieutenant colonel or of an officer of the Navy holding a permanent appointment in the grade of lieutenant, lieutenant commander, or commander.
 
@@ -48,7 +48,7 @@
 
 &emsp;(iv) A requirement that the Secretary convening such a preselection board shall provide general guidance to the board in accordance with standards and procedures prescribed by the Secretary of Defense in those regulations.
 
-&emsp;(v) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary of the military department concerned, information in the officer's official military personnel records that hasbeen described in the notice provided the officer as required pursuant to clause (iii), and any communication to the board received from that officer before the board convenes.
+&emsp;(v) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary of the military department concerned, information in the officer's official military personnel records that has been described in the notice provided the officer as required pursuant to clause (iii), and any communication to the board received from that officer before the board convenes.
 
 (d) A selection board convened under section 611(a) of this title may not consider for promotion to the next higher grade any of the following officers:
 
@@ -132,7 +132,7 @@ Section 1070(b) of Pub. L. 103–337 provided that the amendment made by that se
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title after end of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
+Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title afterend of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
 
 #### Effective Date of 1981 Amendment
 

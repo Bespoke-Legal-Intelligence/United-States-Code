@@ -24,7 +24,7 @@ Such agreements may include one or more of the following incentives:
 
 &emsp;(6) In the case of housing defined in section 4119(1)(A)(iii) of this title, redirection of the Interest Reduction Payment subsidies to a second mortgage.
 
-&emsp;(7) Access by the owner to a portion of the preservation equity in the housing through provision of insurance for a second mortgage loan insured under section 1715z–6(f) <sup>2</sup> of this title or a non-insured mortgage loan approved by the Secretary and the mortgagee.
+&emsp;(7) Access by the owner to a portion of the preservation equity in the housing throughprovision of insurance for a second mortgage loan insured under section 1715z–6(f) <sup>2</sup> of this title or a non-insured mortgage loan approved by the Secretary and the mortgagee.
 
 &emsp;(8) Other incentives authorized in law.
 

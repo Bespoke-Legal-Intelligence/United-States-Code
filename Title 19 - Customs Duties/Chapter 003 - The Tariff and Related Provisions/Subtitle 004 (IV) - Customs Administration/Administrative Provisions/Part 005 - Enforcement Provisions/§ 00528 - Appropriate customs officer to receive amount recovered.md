@@ -2,7 +2,7 @@
 
 The appropriate customs officer within whose district any seizure shall be made or forfeiture incurred for any violation of the duty laws is authorized to receive from the court within which trial is had, or from the proper officer thereof, the sum recovered, after deducting all proper charges to be allowed by the court; and on receipt thereof he shall pay and distribute the same without delay, according to law.
 
-(R.S. §3087; June 17, 1930, ch. 497, title IV, §604, 46 Stat. 754; June 2, 1970, Pub. L. 91–271, title III, §319, 84 Stat. 293.)
+(R.S. §3087; June 17, 1930, ch. 497, title IV, §604, 46 Stat. 754; Pub. L. 91–271, title III, §319, June 2, 1970, 84 Stat. 293.)
 
 #### Codification
 

@@ -92,7 +92,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 (4) The members of the Advisory Board shall, from among the members appointed under paragraph (3)(A), designate an individual to serve as the chair of the Advisory Board.
 
-(July 1, 1944, ch. 373, title IV, §452, as added Nov. 16, 1990, Pub. L. 101–613, §3(a), 104 Stat. 3227; amended Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985.)
+(July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985.)
 
 #### References in Text
 

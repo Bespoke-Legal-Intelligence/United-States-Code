@@ -20,7 +20,7 @@ In the case of small businesses being assisted under subsection (a) of this sect
 
 For the purpose of carrying out this section, there are authorized to be appropriated $3,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
-(July 1, 1944, ch. 373, title V, §518, as added July 10, 1992, Pub. L. 102–321, title I, §171, 106 Stat. 377.)
+(July 1, 1944, ch. 373, title V, §518, as added Pub. L. 102–321, title I, §171, July 10, 1992, 106 Stat. 377.)
 
 #### References in Text
 

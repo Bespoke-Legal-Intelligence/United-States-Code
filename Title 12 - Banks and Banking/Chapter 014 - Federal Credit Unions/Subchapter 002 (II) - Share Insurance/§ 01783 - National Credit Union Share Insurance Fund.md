@@ -18,7 +18,7 @@ The Board may authorize the Secretary of the Treasury to invest and reinvest suc
 
 (2) Interest shall accrue to the Treasury on the amount of any outstanding loans made to the fund pursuant to paragraph (1) of this subsection on the basis of the average daily amount of such outstanding loans determined at the close of each fiscal year with respect to such year, and the Board shall pay the interest so accruing into the Treasury as miscellaneous receipts annually from the fund. The Secretary of the Treasury shall determine the applicable interest rate in advance by calculating the average yield to maturity (on the basis of daily closing market bid quotations during the month of September of the preceding fiscal year) on outstanding marketable public debt obligations of the United States having a maturity date of five or less years from the first day of such month of September and by adjusting such yield to the nearest one-eighth of 1 per centum.
 
-(3) For the purpose of making loans under paragraph (1) of this subsection, the Secretaryof the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are hereby extended to include such loans. All loans and repayments under this section shall be treated as public debt transactions of the United States.
+(3) For the purpose of making loans under paragraph (1) of this subsection, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are hereby extended to include such loans. All loans and repayments under this section shall be treated as public debt transactions of the United States.
 
 #### (e) Excess funds credited against loans
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1781 of this title.
+This section is referred to in sections 1781, 1782 of this title.
 

@@ -4,7 +4,7 @@
 
 (b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Air Force has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Aug. 6, 1958, Pub. L. 85–600, §1(22), 72 Stat. 524; Sept. 2, 1958, Pub. L. 85–861, §33(a)(46)(B), 72 Stat. 1567; Dec. 12, 1980, Pub. L. 96–513, title II, §218(b), title V, §504(24), 94 Stat. 2886, 2917; Oct. 19, 1984, Pub. L. 98–525, title V, §533(d)(2), 98 Stat. 2528; Nov. 29, 1989, Pub. L. 101–189, div. A, title V, §515(a)(4), (b)(1), 103 Stat. 1441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–600, §1(22), Aug. 6, 1958, 72 Stat. 524; Pub. L. 85–861, §33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–513, title II, §218(b), title V, §504(24), Dec. 12, 1980, 94 Stat. 2886, 2917; Pub. L. 98–525, title V, §533(d)(2), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 101–189, div. A, title V, §515(a)(4), (b)(1), Nov. 29, 1989, 103 Stat. 1441.)
 
 Historical and Revision Notes<br>1956
 

@@ -22,7 +22,7 @@ Clean-fuel vehicles of up to 8,500 gvwr subject to standards set forth in this p
 
 &emsp;(B) a period of 11 years or 120,000 miles (or the equivalent) whichever first occurs in the case of standards applicable for purposes of certification at 120,000 miles, except that in-use testing shall not be done for a period beyond 7 years or 90,000 miles (or the equivalent) whichever first occurs.
 
-(July 14, 1955, ch. 360, title II, §242, as added Nov. 15, 1990, Pub. L. 101–549, title II, §229(a), 104 Stat. 2513.)
+(July 14, 1955, ch. 360, title II, §242, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2513.)
 
 #### Section Referred to in Other Sections
 

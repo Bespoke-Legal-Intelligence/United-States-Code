@@ -34,7 +34,7 @@
 
 (2) Each such agreement shall identify the health-care resources to be shared.
 
-(3) Each such agreement shall provide, and shall specify procedures designed to ensure, that the availability of direct health care to individuals who are not primary beneficiaries of the providing agency (A) is on a referral basis from the facility of the other agency, and (B) does not (as determined by the head of the facility of theproviding agency) adversely affect the range of services, the quality of care, or the established priorities for care provided to the primary beneficiaries of the providing agency.
+(3) Each such agreement shall provide, and shall specify procedures designed to ensure, that the availability of direct health care to individuals who are not primary beneficiaries of the providing agency (A) is on a referral basis from the facility of the other agency, and (B) does not (as determined by the head of the facility of the providing agency) adversely affect the range of services, the quality of care, or the established priorities for care provided to the primary beneficiaries of the providing agency.
 
 (4) Each such agreement shall provide that a providing agency shall be reimbursed for the cost of the health-care resources provided under the agreement and that the rate for such reimbursement shall be determined in accordance with the methodology agreed to pursuant to subsection (e) of this section.
 

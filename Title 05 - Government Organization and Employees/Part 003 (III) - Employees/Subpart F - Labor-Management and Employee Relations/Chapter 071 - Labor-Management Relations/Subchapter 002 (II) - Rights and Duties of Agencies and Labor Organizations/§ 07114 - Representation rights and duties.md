@@ -1,6 +1,6 @@
 ### §7114. Representation rights and duties
 
-(a)(1) A labor organization which has been accorded exclusive recognition is the exclusive representative of the employees in the unit it represents and is entitled to act for, and negotiate collective bargaining agreements covering, all employees in the unit. An exclusive representative is responsible for representing the interests of all employees in the unit it represents without discrimination and without regard to labor organization membership.
+(a)(1) A labor organization which has been accorded exclusive recognition is the exclusiverepresentative of the employees in the unit it represents and is entitled to act for, and negotiate collective bargaining agreements covering, all employees in the unit. An exclusive representative is responsible for representing the interests of all employees in the unit it represents without discrimination and without regard to labor organization membership.
 
 (2) An exclusive representative of an appropriate unit in an agency shall be given the opportunity to be represented at—
 

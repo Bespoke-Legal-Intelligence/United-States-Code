@@ -6,11 +6,11 @@
 
 (c) The director of admissions of the Academy shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Army.
 
-(d) Any officer of the Regular Army in a grade above captain may be detailed to perform the duties of director of admissions without being appointed as director of admissions. Such a detail does not affect his position on the active-duty list.
+(d) Any officer of the Regular Army in a grade above captain may be detailed to perform the duties of director of admissions without beingappointed as director of admissions. Such a detail does not affect his position on the active-duty list.
 
 (e) No graduate of the Academy may be appointed or detailed to serve at the Academy as a professor or instructor, or as an assistant to a professor or instructor, within two years after his graduation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238; Aug. 6, 1958, Pub. L. 85–600, §1(9), 72 Stat. 522; Oct. 30, 1978, Pub. L. 95–551, §2, 92 Stat. 2069; Dec. 12, 1980, Pub. L. 96–513, title V, §502(24), 94 Stat. 2910.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238; Pub. L. 85–600, §1(9), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §502(24), Dec. 12, 1980, 94 Stat. 2910.)
 
 Historical and Revision Notes
 

@@ -18,7 +18,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 &emsp;(7) The kind of currency, whether gold, silver, or paper;
 
-&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases, containers, coverings, and cost of packing) included in the invoice prices when the amountsfor such charges are unknown to the seller or shipper;
+&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases, containers, coverings, and cost of packing) included in the invoice prices when the amounts for such charges are unknown to the seller or shipper;
 
 &emsp;(9) All rebates, drawbacks, and bounties, separately itemized, allowed upon the exportation of the merchandise; and
 
@@ -36,7 +36,7 @@ Any information required to be set forth on an invoice may alternatively be prov
 
 The Secretary of the Treasury may by regulations provide for such exceptions from the requirements of this section as he deems advisable and may allow for the submission or electronic transmission of partial invoices, electronic equivalents of invoices, bills, or other documents or parts thereof, required under this section.
 
-(June 17, 1930, ch. 497, title IV, §481, 46 Stat. 719; Dec. 8, 1993, Pub. L. 103–182, title VI, §636, 107 Stat. 2200.)
+(June 17, 1930, ch. 497, title IV, §481, 46 Stat. 719; Pub. L. 103–182, title VI, §636, Dec. 8, 1993, 107 Stat. 2200.)
 
 #### Prior Provisions
 

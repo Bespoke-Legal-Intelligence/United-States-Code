@@ -6,14 +6,14 @@ Subchapter is based on subchapter B of chapter 8 of subtitle A of title VI of Pu
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 280d, 290bb–23, 1396r–1a, 1758, 1766, 4953, 5011, 9855, 9855d, 9904, 12653, 12653c of this title; title 8 section 1613; title 20 sections 1087ee, 6493, 7472, 8102; title 29 section 1605; title 31 section 6703.
+This subchapter is referred to in sections 280d, 290bb–23, 1396r–1a, 1758, 1766, 4953, 5011, 12653, 12653c of this title; title 8 section 1613; title 20 sections 1087ee, 6362, 6661g, 7472, 8102, 9252; title 29 section 1605; title 31 section 6703.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 09831 - Statement of purpose and policy](%C2%A7%2009831%20-%20Statement%20of%20purpose%20and%20policy.md)
+- [&sect; 09831 - Statement of purpose](%C2%A7%2009831%20-%20Statement%20of%20purpose.md)
 - [&sect; 09832 - Definitions](%C2%A7%2009832%20-%20Definitions.md)
 - [&sect; 09833 - Financial assistance for Head Start programs](%C2%A7%2009833%20-%20Financial%20assistance%20for%20Head%20Start%20programs.md)
 - [&sect; 09834 - Authorization of appropriations](%C2%A7%2009834%20-%20Authorization%20of%20appropriations.md)
@@ -22,10 +22,11 @@ This subchapter is referred to in sections 280d, 290bb–23, 1396r–1a, 1758, 1
 - [&sect; 09836 - Designation of Head Start agencies](%C2%A7%2009836%20-%20Designation%20of%20Head%20Start%20agencies.md)
 - [&sect; 09836a - Quality standards; monitoring of Head Start agencies and programs](%C2%A7%2009836a%20-%20Quality%20standards%3B%20monitoring%20of%20Head%20Start%20agencies%20and%20programs.md)
 - [&sect; 09837 - Powers and functions of Head Start agencies](%C2%A7%2009837%20-%20Powers%20and%20functions%20of%20Head%20Start%20agencies.md)
+- [&sect; 09837a - Head Start transition](%C2%A7%2009837a%20-%20Head%20Start%20transition.md)
 - [&sect; 09838 - Submission of plans to chief executive officer](%C2%A7%2009838%20-%20Submission%20of%20plans%20to%20chief%20executive%20officer.md)
 - [&sect; 09839 - Administrative requirements and standards](%C2%A7%2009839%20-%20Administrative%20requirements%20and%20standards.md)
 - [&sect; 09840 - Participation in Head Start programs](%C2%A7%2009840%20-%20Participation%20in%20Head%20Start%20programs.md)
-- [&sect; 09840a - Programs for families with infants and toddlers](%C2%A7%2009840a%20-%20Programs%20for%20families%20with%20infants%20and%20toddlers.md)
+- [&sect; 09840a - Early Head Start programs for families with infants and toddlers](%C2%A7%2009840a%20-%20Early%20Head%20Start%20programs%20for%20families%20with%20infants%20and%20toddlers.md)
 - [&sect; 09841 - Appeals, notice, hearing, and mediation; alternative agency for Indian tribe](%C2%A7%2009841%20-%20Appeals%2C%20notice%2C%20hearing%2C%20and%20mediation%3B%20alternative%20agency%20for%20Indian%20tribe.md)
 - [&sect; 09842 - Records and audits](%C2%A7%2009842%20-%20Records%20and%20audits.md)
 - [&sect; 09843 - Technical assistance and training](%C2%A7%2009843%20-%20Technical%20assistance%20and%20training.md)
@@ -39,4 +40,4 @@ This subchapter is referred to in sections 280d, 290bb–23, 1396r–1a, 1758, 1
 - [&sect; 09850 - Limitation with respect to certain unlawful activities](%C2%A7%2009850%20-%20Limitation%20with%20respect%20to%20certain%20unlawful%20activities.md)
 - [&sect; 09851 - Political activities](%C2%A7%2009851%20-%20Political%20activities.md)
 - [&sect; 09852 - Advance funding](%C2%A7%2009852%20-%20Advance%20funding.md)
-- [&sect; 09852a - Consultation with Corporation for National and Community Service](%C2%A7%2009852a%20-%20Consultation%20with%20Corporation%20for%20National%20and%20Community%20Service.md)
+- [&sect; 09852a - Repealed. Pub. L. 105&#8211;285, title I, &sect;118, Oct. 27, 1998, 112 Stat. 2727](%C2%A7%2009852a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93285%2C%20title%20I%2C%20%C2%A7118%2C%20Oct.%2027%2C%201998%2C%20112%20Stat.%202727.md)

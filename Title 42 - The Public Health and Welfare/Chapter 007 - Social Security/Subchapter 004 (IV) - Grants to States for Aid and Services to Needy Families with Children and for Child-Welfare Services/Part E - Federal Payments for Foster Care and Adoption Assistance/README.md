@@ -2,7 +2,7 @@ Part E—Federal Payments for Foster Care and Adoption Assistance
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 300z–5, 602, 622, 625, 629e, 652, 653, 654, 657, 666, 673b, 679b, 1308, 1320a–2a,1320a–9, 1396a, 1396n, 1396u–2, 5106a of this title; title 2 section 906; title 8 sections 1255a, 1613; title 20 section 1087vv.
+This part is referred to in sections 300z–5, 602, 622, 625, 629e, 652, 653, 654, 657, 658a, 666, 669, 673b, 679b, 1308, 1320a–2a, 1320a–9, 1396a, 1396n, 1396u–2, 5106a of this title; title 2 section 906; title 8 sections 1255a, 1613; title 20 section 1087vv.
 
 
 ---

@@ -1,0 +1,74 @@
+### §4903. Disclosure requirements
+
+#### (a) Disclosures for new mortgages at time of transaction
+
+#### (1) Disclosures for non-exempted transactions
+
+&emsp;In any case in which private mortgage insurance is required in connection with a residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title), at the time at which the transaction is consummated, the mortgagee shall provide to the mortgagor—
+
+&emsp;&emsp;(A) if the transaction relates to a fixed rate mortgage—
+
+&emsp;&emsp;&emsp;(i) a written initial amortization schedule; and
+
+&emsp;&emsp;&emsp;(ii) written notice—
+
+&emsp;&emsp;&emsp;&emsp;(I) that the mortgagor may cancel the requirement in accordance with section 4902(a) of this title indicating the date on which the mortgagor may request cancellation, based solely on the initial amortization schedule;
+
+&emsp;&emsp;&emsp;&emsp;(II) that the mortgagor may request cancellation in accordance with section 4902(a) of this title earlier than provided for in the initial amortization schedule, based on actual payments;
+
+&emsp;&emsp;&emsp;&emsp;(III) that the requirement for private mortgage insurance will automatically terminate on the termination date in accordance with section 4902(b) of this title, and what that termination date is with respect to that mortgage; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) that there are exemptions to the right to cancellation and automatic termination of a requirement for private mortgage insurance in accordance with section 4902(f) of this title, and whether such an exemption applies at that time to that transaction; and
+
+&emsp;&emsp;(B) if the transaction relates to an adjustable rate mortgage, a written notice that—
+
+&emsp;&emsp;&emsp;(i) the mortgagor may cancel the requirement in accordance with section 4902(a) of this title on the cancellation date, and that the servicer will notify the mortgagor when the cancellation date is reached;
+
+&emsp;&emsp;&emsp;(ii) the requirement for private mortgage insurance will automatically terminate on the termination date, and that on the termination date, the mortgagor will be notified of the termination or that the requirement will be terminated as soon as the mortgagor is current on loan payments; and
+
+&emsp;&emsp;&emsp;(iii) there are exemptions to the right of cancellation and automatic termination of a requirement for private mortgage insurance in accordance with section 4902(f) of this title, and whether such an exemption applies at that time to that transaction.
+
+#### (2) Disclosures for excepted transactions
+
+&emsp;In the case of a mortgage or mortgage transaction described in section 4902(f)(1) of this title, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.
+
+#### (3) Annual disclosures
+
+&emsp;If private mortgage insurance is required in connection with a residential mortgage transaction, the servicer shall disclose to the mortgagor in each such transaction in an annual written statement—
+
+&emsp;&emsp;(A) the rights of the mortgagor under this chapter to cancellation or termination of the private mortgage insurance requirement; and
+
+&emsp;&emsp;(B) an address and telephone number that the mortgagor may use to contact the servicer to determine whether the mortgagor may cancel the private mortgage insurance.
+
+#### (4) Applicability
+
+&emsp;Paragraphs (1) through (3) shall apply with respect to each residential mortgage transaction consummated on or after the date that is 1 year after July 29, 1998.
+
+#### (b) Disclosures for existing mortgages
+
+If private mortgage insurance was required in connection with a residential mortgage entered into at any time before the effective date of this chapter, the servicer shall disclose to the mortgagor in each such transaction in an annual written statement—
+
+&emsp;(1) that the private mortgage insurance may, under certain circumstances, be canceled by the mortgagor (with the consent of the mortgagee or in accordance with applicable State law); and
+
+&emsp;(2) an address and telephone number that the mortgagor may use to contact the servicer to determine whether the mortgagor may cancel the private mortgage insurance.
+
+#### (c) Inclusion in other annual notices
+
+The information and disclosures required under subsection (b) of this section and paragraphs (1)(B) and (3) of subsection (a) of this section may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.
+
+#### (d) Standardized forms
+
+The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section.
+
+(Pub. L. 105–216, §4, July 29, 1998, 112 Stat. 902.)
+
+#### References in Text
+
+The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under section 4901 of this title.
+
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4905 of this title.
+

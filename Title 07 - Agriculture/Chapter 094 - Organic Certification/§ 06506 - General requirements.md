@@ -38,7 +38,7 @@ An organic certification program established under this chapter may—
 
 &emsp;&emsp;(A) in the case of a farm or field, the area to be certified has distinct, defined boundaries and buffer zones separating the land being operated through the use of organic methods from land that is not being operated through the use of such methods;
 
-&emsp;&emsp;(B) the operators of such farm or handling operation maintain records of all organic operations separate from records relating to other operations and make such records available at all times for inspection by the Secretary, the certifying agent, and the governing State official; and
+&emsp;&emsp;(B) the operators of such farm or handling operation maintain records of all organic operations separate from records relating to other operations and make such records available at all times for inspection by theSecretary, the certifying agent, and the governing State official; and
 
 &emsp;&emsp;(C) appropriate physical facilities, machinery, and management practices are established to prevent the possibility of a mixing of organic and nonorganic products or a penetration of prohibited chemicals or other substances on the certified area; and
 
@@ -48,7 +48,21 @@ An organic certification program established under this chapter may—
 
 A State organic certification program approved under this chapter may contain additional guidelines governing the production or handling of products sold or labeled as organically produced in such State as required in section 6507 of this title.
 
-(Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938.)
+#### (d) Availability of fees
+
+#### (1) Account
+
+&emsp;Fees collected under subsection (a)(10) of this section (including late payment penalties and interest earned from investment of the fees) shall be credited to the account that incurs the cost of the services provided under this chapter.
+
+#### (2) Use
+
+&emsp;The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
+
+(Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, §601(a), June 23, 1998, 112 Stat. 585.)
+
+#### Amendments
+
+1998—Subsec. (d). Pub. L. 105–185 added subsec. (d).
 
 #### Section Referred to in Other Sections
 

@@ -12,10 +12,13 @@
 | [1467\.](%C2%A7%2001467%20-%20Criminal%20forfeiture.md) | Criminal forfeiture. |
 | [1468\.](%C2%A7%2001468%20-%20Distributing%20obscene%20material%20by%20cable%20or%20subscription%20television.md) | Distributing obscene material by cable or subscription television. |
 | [1469\.](%C2%A7%2001469%20-%20Presumptions.md) | Presumptions. |
+| [1470\.](%C2%A7%2001470%20-%20Transfer%20of%20obscene%20material%20to%20minors.md) | Transfer of obscene material to minors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–314, title IV, §401(b), Oct. 30, 1998, 112 Stat. 2979, added item 1470.
 
 1988—Pub. L. 100–690, title VII, §§7521(b), (f)\[(e)\], 7523(b), 7526(b), Nov. 18, 1988, 102 Stat. 4489, 4490, 4502, 4503, added items 1460 and 1466 to 1469.
 
@@ -42,3 +45,4 @@ This chapter is referred to in section 2516 of this title; title 39 section 3001
 - [&sect; 01467 - Criminal forfeiture](%C2%A7%2001467%20-%20Criminal%20forfeiture.md)
 - [&sect; 01468 - Distributing obscene material by cable or subscription television](%C2%A7%2001468%20-%20Distributing%20obscene%20material%20by%20cable%20or%20subscription%20television.md)
 - [&sect; 01469 - Presumptions](%C2%A7%2001469%20-%20Presumptions.md)
+- [&sect; 01470 - Transfer of obscene material to minors](%C2%A7%2001470%20-%20Transfer%20of%20obscene%20material%20to%20minors.md)

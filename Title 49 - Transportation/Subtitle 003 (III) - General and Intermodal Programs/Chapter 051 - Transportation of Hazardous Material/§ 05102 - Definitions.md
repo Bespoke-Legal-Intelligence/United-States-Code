@@ -82,7 +82,7 @@ In this chapter—
 
 &emsp;(13) “United States” means all of the States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 103–311, title I, §117(a)(1), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 104–88, title III, §308(d), Dec. 29, 1996, 109 Stat. 947.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 103–311, title I, §117(a)(1), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 104–88, title III, §308(d), Dec. 29, 1995, 109 Stat. 947.)
 
 Historical and Revision Notes
 

@@ -21,7 +21,7 @@
 | [303a.](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md) | Special pay: health professionals; general provisions. |
 | [303b.](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md) | Waiver of board certification requirements. |
 | [304\.](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md) | Special pay: diving duty. |
-| [305\.](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20location%20pay.md) | Special pay: hardship duty location pay. |
+| [305\.](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20pay.md) | Special pay: hardship duty pay. |
 | [305a.](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md) | Special pay: career sea pay. |
 | [306\.](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md) | Special pay: officers holding positions of unusual responsibility and of critical nature. |
 | [306a.](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md) | Special pay: members assigned to international military headquarters. |
@@ -53,6 +53,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title VI, §617(c)(2), Oct. 17, 1998, 112 Stat. 2041, struck out “location” after “hardship duty” in item 305.
 
 1997—Pub. L. 105–85, div. A, title VI, §§617(b), 619(c)(2), 625(a)(2), Nov. 18, 1997, 111 Stat. 1789, 1790, 1795, added item 301e and substituted “hardship duty location pay” for “while on duty at certain places” in item 305 and “Special pay or bonus:” for “Special pay:” in item 314.
 
@@ -142,7 +144,7 @@ This chapter is referred to in sections 907, 1003 of this title; title 42 sectio
 - [&sect; 00303a - Special pay health professionals; general provisions](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md)
 - [&sect; 00303b - Waiver of board certification requirements](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md)
 - [&sect; 00304 - Special pay diving duty](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md)
-- [&sect; 00305 - Special pay hardship duty location pay](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20location%20pay.md)
+- [&sect; 00305 - Special pay hardship duty pay](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20pay.md)
 - [&sect; 00305a - Special pay career sea pay](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md)
 - [&sect; 00306 - Special pay officers holding positions of unusual responsibility and of critical nature](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md)
 - [&sect; 00306a - Special pay members assigned to international military headquarters](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md)

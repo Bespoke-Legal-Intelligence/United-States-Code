@@ -18,7 +18,7 @@ Upon November 15, 1990, the President shall—
 
 &emsp;(3) direct that no agency of the government provide bilateral or multilateral subsidies, aids, credits, guarantees, or insurance programs, for the purpose of producing any class I substance.
 
-(July 14, 1955, ch. 360, title VI, §614, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2668.)
+(July 14, 1955, ch. 360, title VI, §614, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2668.)
 
 #### References in Text
 

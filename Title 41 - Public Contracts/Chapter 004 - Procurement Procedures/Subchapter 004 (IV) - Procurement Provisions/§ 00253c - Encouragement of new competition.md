@@ -24,7 +24,7 @@ Except as provided in subsection (c) of this section, the head of the agency sha
 
 (1) Subsection (b) of this section does not apply with respect to a qualification requirement established by statute prior to October 30, 1984.
 
-(2) Except as provided in paragraph (3), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effectshall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering any comments of the advocate for competition reviewing such determination, the head of the procuring activity may waive the requirements of paragraphs (2) through (5) of subsection (b) of this section for up to two years with respect to the item subject to the qualification requirement.
+(2) Except as provided in paragraph (3), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effect shall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering any comments of the advocate for competition reviewing such determination, the head of the procuring activity may waive the requirements of paragraphs (2) through (5) of subsection (b) of this section for up to two years with respect to the item subject to the qualification requirement.
 
 (3) The waiver authority contained in paragraph (2) shall not apply with respect to any qualified products list.
 

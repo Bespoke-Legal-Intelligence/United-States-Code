@@ -28,7 +28,6 @@
 | (d) | Applications and reports. |
 | (e) | Effective date for approved applications. |
 | (f) | Denial of applications. |
-| (g) | Report. |
 | [2506\.](%C2%A7%2002506%20-%20Duration%20of%20eligibility%20determination.md) | Duration of eligibility determination. |
 | (a) | In general. |
 | (b) | Annual reports. |

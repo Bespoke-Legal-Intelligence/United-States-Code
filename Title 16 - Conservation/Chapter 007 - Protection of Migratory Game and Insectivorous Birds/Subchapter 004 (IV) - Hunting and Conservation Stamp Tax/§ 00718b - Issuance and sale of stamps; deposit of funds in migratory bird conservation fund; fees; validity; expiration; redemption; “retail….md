@@ -12,9 +12,9 @@ The Postal Service shall collect $10.00 for each stamp sold under the provisions
 
 &emsp;(2) the sale of stamps under this section during such fiscal year
 
-> have been obligated for expenditure. For purposes of this section, the term “hunting year”means the 12-month period beginning on July 1 of any such year.
+> have been obligated for expenditure. For purposes of this section, the term “hunting year” means the 12-month period beginning on July 1 of any such year.
 
-(Mar. 16, 1934, ch. 71, §2, 48 Stat. 451; June 15, 1935, ch. 261, title I, §2, 49 Stat. 379; Aug. 12, 1949, ch. 421, §1, 63 Stat. 599; July 30, 1956, ch. 782, §§2, 3(b), 70 Stat. 722; Aug. 1, 1958, Pub. L. 85–585, §1, 72 Stat. 486; Dec. 22, 1971, Pub. L. 92–214, §§1, 2, 85 Stat. 777; Feb. 17, 1976, Pub. L. 94–215, §3(b), (c), 90 Stat. 189; Apr. 21, 1976, Pub. L. 94–273, §34, 90 Stat. 380; Oct. 30, 1978, Pub. L. 95–552, §1, 92 Stat. 2071; Nov. 8, 1978, Pub. L. 95–616, §7(a), 92 Stat. 3114; Nov. 7, 1986, Pub. L. 99–625, §3, 100 Stat. 3502; Nov. 10, 1986, Pub. L. 99–645, title II, §202, 100 Stat. 3586.)
+(Mar. 16, 1934, ch. 71, §2, 48 Stat. 451; June 15, 1935, ch. 261, title I, §2, 49 Stat. 379; Aug. 12, 1949, ch. 421, §1, 63 Stat. 599; July 30, 1956, ch. 782, §§2, 3(b), 70 Stat. 722; Pub. L. 85–585, §1, Aug. 1, 1958, 72 Stat. 486; Pub. L. 92–214, §§1, 2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, §3(b), (c), Feb. 17, 1976, 90 Stat. 189; Pub. L. 94–273, §34, Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–552, §1, Oct. 30, 1978, 92 Stat. 2071; Pub. L. 95–616, §7(a), Nov. 8, 1978, 92 Stat. 3114; Pub. L. 99–625, §3, Nov. 7, 1986, 100 Stat. 3502; Pub. L. 99–645, title II, §202, Nov. 10, 1986, 100 Stat. 3586.)
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 (b) Each State may use the funds apportioned to it under section 669c(b) of this title to pay up to 75 per centum of the costs of a hunter safety program and the construction, operation, and maintenance of public target ranges, as a part of such program. The non-Federal share of such costs may be derived from license fees paid by hunters, but not from other Federal grant programs. The Secretary shall issue not later than the 120th day after the effective date of this subsection such regulations as he deems advisable relative to the criteria for the establishment of hunter safety programs and public target ranges under this subsection.
 
-(Sept. 2, 1937, ch. 899, §8, 50 Stat. 919; July 24, 1946, ch. 605, §2, 60 Stat. 656; Aug. 12, 1955, ch. 861, §2, 69 Stat. 698; Oct. 23, 1970, Pub. L. 91–503, title I, §102, 84 Stat. 1100; Oct. 25, 1972, Pub. L. 92–558, title I, §102(a), 86 Stat. 1173.)
+(Sept. 2, 1937, ch. 899, §8, 50 Stat. 919; July 24, 1946, ch. 605, §2, 60 Stat. 656; Aug. 12, 1955, ch. 861, §2, 69 Stat. 698; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1100; Pub. L. 92–558, title I, §102(a), Oct. 25, 1972, 86 Stat. 1173.)
 
 #### References in Text
 

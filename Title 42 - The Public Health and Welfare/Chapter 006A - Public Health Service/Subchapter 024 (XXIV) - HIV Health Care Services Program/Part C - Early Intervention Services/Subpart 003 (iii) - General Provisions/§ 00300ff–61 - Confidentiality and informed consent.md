@@ -16,11 +16,11 @@ The Secretary may not make a grant under this part unless—
 
 #### (2) Provisions regarding anonymous testing
 
-&emsp;(A) If, pursuant to section 300ff–64(b) of this title, an individual will undergo testing pursuant to this part through the use of a pseudonym, a grantee under such section shall beconsidered to be in compliance with the agreement made under paragraph (1) if the individual signs the statement described in such subsection using the pseudonym.
+&emsp;(A) If, pursuant to section 300ff–64(b) of this title, an individual will undergo testing pursuant to this part through the use of a pseudonym, a grantee under such section shall be considered to be in compliance with the agreement made under paragraph (1) if the individual signs the statement described in such subsection using the pseudonym.
 
 &emsp;(B) If, pursuant to section 300ff–64(b) of this title, an individual will undergo testing pursuant to this part without providing any information relating to the identity of the individual, a grantee under such section shall be considered to be in compliance with the agreement made under paragraph (1) if the individual orally provides the declaration described in such paragraph.
 
-(July 1, 1944, ch. 373, title XXVI, §2661, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 609.)
+(July 1, 1944, ch. 373, title XXVI, §2661, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 609.)
 
 #### Section Referred to in Other Sections
 

@@ -64,6 +64,7 @@
 | [4243\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004243%20-%20Effectiveness%20of%20CITES.md) | Effectiveness of CITES. |
 | [4244\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004244%20-%20Definitions.md) | Definitions. |
 | [4245\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004245%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [4246\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004246%20-%20Multinational%20Species%20Conservation%20Fund.md) | Multinational Species Conservation Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

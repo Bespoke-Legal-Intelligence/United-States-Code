@@ -100,7 +100,7 @@ Section 1 of Pub. L. 96–478 provided: “That this Act \[enacting this chapter
 
 #### Savings Provision: Regulations in Effect Until Superseded
 
-Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date ofthis Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
+Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date of this Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
 
 #### Preemption; Additional State Requirements
 

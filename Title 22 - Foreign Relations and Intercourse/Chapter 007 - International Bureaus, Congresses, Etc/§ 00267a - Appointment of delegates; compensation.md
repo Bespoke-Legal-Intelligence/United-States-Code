@@ -1,6 +1,6 @@
 ### §267a. Appointment of delegates; compensation
 
-The President is authorized to appoint delegates, who shall be officers of the National Ocean Survey, to attend the meetings of the International Geodetic Association wheneverand wheresoever the same shall be held; but no extra salary or additional compensation shall be paid to such officers by reason of such attendance.
+The President is authorized to appoint delegates, who shall be officers of the National Ocean Survey, to attend the meetings of the International Geodetic Association whenever and wheresoever the same shall be held; but no extra salary or additional compensation shall be paid to such officers by reason of such attendance.
 
 (July 23, 1894, No. 37, 28 Stat. 587.)
 

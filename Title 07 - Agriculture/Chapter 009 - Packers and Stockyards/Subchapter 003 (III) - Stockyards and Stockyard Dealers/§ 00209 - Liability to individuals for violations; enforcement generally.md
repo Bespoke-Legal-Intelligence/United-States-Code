@@ -4,7 +4,7 @@
 
 (b) Such liability may be enforced either (1) by complaint to the Secretary as provided in section 210 of this title, or (2) by suit in any district court of the United States of competent jurisdiction; but this section shall not in any way abridge or alter the remedies now existing at common law or by statute, but the provisions of this chapter are in addition to such remedies.
 
-(Aug. 15, 1921, ch. 64, title III, §308, 42 Stat. 165; Sept. 13, 1976, Pub. L. 94–410, §6, 90 Stat. 1250; Nov. 23, 1987, Pub. L. 100–173, §5, 101 Stat. 918.)
+(Aug. 15, 1921, ch. 64, title III, §308, 42 Stat. 165; Pub. L. 94–410, §6, Sept. 13, 1976, 90 Stat. 1250; Pub. L. 100–173, §5, Nov. 23, 1987, 101 Stat. 918.)
 
 #### Amendments
 

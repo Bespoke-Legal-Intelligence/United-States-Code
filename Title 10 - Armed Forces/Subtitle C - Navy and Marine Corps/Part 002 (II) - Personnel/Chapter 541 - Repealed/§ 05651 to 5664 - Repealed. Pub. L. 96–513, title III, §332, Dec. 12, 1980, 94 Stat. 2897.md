@@ -20,7 +20,7 @@ Section 5656, act Aug. 10, 1956, ch. 1041, 70A Stat. 334, related to reassignmen
 
 Section 5657, act Aug. 10, 1956, ch. 1041, 70A Stat. 334, related to reassignment of a running mate to a staff corps officer on active duty where such staff corps officer was promoted after selection.
 
-Section 5658, act Aug. 10, 1956, ch. 1041, 70A Stat. 334, related to reassignment of a running mate to a staffcorps officer on active duty where running mate of staff corps officer was promoted to a higher grade without staff corps officer being so promoted.
+Section 5658, act Aug. 10, 1956, ch. 1041, 70A Stat. 334, related to reassignment of a running mate to a staff corps officer on active duty where running mate of staff corps officer was promoted to a higher grade without staff corps officer being so promoted.
 
 Section 5659, act Aug. 10, 1956, ch. 1041, 70A Stat. 334, related to reassignment of a running mate to a staff corps officer where such staff corps officer was not restricted in performance of duty and was serving on active duty in grade of lieutenant (junior grade) or above and lost numbers in grade.
 

@@ -2,17 +2,17 @@
 
 #### (a) Authority
 
-In carrying out the provisions of this subchapter, the Director may utilize his authority under the provisions of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1431 et seq.\].
+In carrying out the provisions of this subchapter, the Secretary may utilize his authority under the provisions of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1431 et seq.\].
 
 #### (b) Gifts, bequests, and devises
 
-The Director may, in administering the provisions of this subchapter, accept from public and private sources money and property to be utilized in carrying out the purposes and functions of the Center. In utilizing any gifts, bequests, or devises accepted there shall be available to the Director the same authorities as are available to him in accepting and utilizing gifts, bequests, and devises to the Foreign Service Institute under the provisions of section 2697 of this title. For the purposes of Federal income, estate, and gift taxes, any gift, devise, or bequest accepted by the Director under the authority of this subchapter shall be deemed to be a gift, devise, or bequest to or for the use of the United States.
+The Secretary may, in administering the provisions of this subchapter, accept from public and private sources money and property to be utilized in carrying out the purposes and functions of the Center. In utilizing any gifts, bequests, or devises accepted there shall be available to the Secretary the same authorities as are available to him in accepting and utilizing gifts, bequests, and devises to the Foreign Service Institute under the provisions of section 2697 of this title. For the purposes of Federal income, estate, and gift taxes, any gift, devise, or bequest accepted by the Secretary under the authority of this subchapter shall be deemed to be a gift, devise, or bequest to or for the use of the United States.
 
 #### (c) Report to Congress
 
 The Director of the United States Information Agency shall make periodic reports, as he deems necessary, to the Congress with respect to his activities under the provisions of this subchapter, and such reports shall include any recommendations for needed revisions in this subchapter.
 
-(Pub. L. 86–472, ch. VII, §704, May 14, 1960, 74 Stat. 141; 1977 Reorg. Plan No. 2, §7(a)(7), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–465, title II, §2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, §212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 86–472, ch. VII, §704, May 14, 1960, 74 Stat. 141; Pub. L. 96–465, title II, §2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, §212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 #### References in Text
 
@@ -30,7 +30,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Transfer of Functions
 
-“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and Director thereof. Previously, “Director” substituted for “Secretary” in subsecs. (a) and (b) pursuant to Reorg. Plan No. 2 of 1977, §7(a)(7), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, or Director thereof, under this chapter, to Director of International Communication Agency.
+“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and Director thereof. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Authority of Secretary of State
 

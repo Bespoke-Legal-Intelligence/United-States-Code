@@ -4,7 +4,7 @@
 
 (b) The Director of the Institute shall establish a National Deafness and Other Communication Disorders Information Clearinghouse to facilitate and enhance, through the effective dissemination of information, knowledge and understanding of disorders of hearing and other communication processes by health professionals, patients, industry, and the public.
 
-(July 1, 1944, ch. 373, title IV, §464B, as added Oct. 28, 1988, Pub. L. 100–553, §2(4), 102 Stat. 2770, and Nov. 4, 1988, Pub. L. 100–607, title I, §101(4), 102 Stat. 3050; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2613(b)(2), 102 Stat. 4238.)
+(July 1, 1944, ch. 373, title IV, §464B, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2770, and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3050; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
 
 #### Codification
 

@@ -8,7 +8,7 @@ In an antidumping proceeding under this subtitle, the administering authority sh
 
 In an investigation under part II of this subtitle, if there is a sustained movement in the value of the foreign currency relative to the United States dollar, the administering authority shall allow exporters at least 60 days to adjust their export prices to reflect such sustained movement.
 
-(June 17, 1930, ch. 497, title VII, §773A, as added Dec. 8, 1994, Pub. L. 103–465, title II, §225(a), 108 Stat. 4886.)
+(June 17, 1930, ch. 497, title VII, §773A, as added Pub. L. 103–465, title II, §225(a), Dec. 8, 1994, 108 Stat. 4886.)
 
 #### Effective Date
 

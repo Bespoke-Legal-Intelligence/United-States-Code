@@ -6,7 +6,7 @@ The President may retain on active duty a disabled officer until—
 
 &emsp;(2) the officer is processed for physical disability benefits provided by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 522; Sept. 2, 1958, Pub. L. 85–861, §1(180)(C), 72 Stat. 1532; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(10), 103 Stat. 1603; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(j)(6), 105 Stat. 116.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 522; Pub. L. 85–861, §1(180)(C), Sept. 2, 1958, 72 Stat. 1532; Pub. L. 101–189, div. A, title XVI, §1621(a)(10), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 102–25, title VII, §701(j)(6), Apr. 6, 1991, 105 Stat. 116.)
 
 Historical and Revision Notes<br>1956
 

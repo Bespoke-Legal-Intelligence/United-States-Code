@@ -10,5 +10,9 @@ Any funds appropriated to the United States Information Agency for fiscal year 1
 
 (Pub. L. 99–93, title VI, §612, Aug. 16, 1985, 99 Stat. 443.)
 
+#### Transfer of Functions
+
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

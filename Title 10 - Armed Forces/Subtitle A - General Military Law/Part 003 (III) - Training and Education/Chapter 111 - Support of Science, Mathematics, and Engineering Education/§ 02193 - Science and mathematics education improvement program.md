@@ -14,9 +14,21 @@
 
 (c) In this section:
 
-&emsp;(1) The term “institution of higher education” has the meaning given such term in section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)).
+&emsp;(1) The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965.
 
 &emsp;(2) The term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>).
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 105–244, title I, §102(a)(2)(A), Oct. 7, 1998, 112 Stat. 1617.)
+
+#### References in Text
+
+Section 101 of the Higher Education Act of 1965, referred to in subsec. (c)(1), is classified to section 1001 of Title 20, Education.
+
+#### Amendments
+
+1998—Subsec. (c)(1). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 

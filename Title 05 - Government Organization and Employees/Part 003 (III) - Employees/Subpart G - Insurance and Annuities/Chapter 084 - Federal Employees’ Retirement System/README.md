@@ -54,7 +54,7 @@
 | [8440a.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440a%20-%20Justices%20and%20judges.md) | Justices and judges. |
 | [8440b.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440b%20-%20Bankruptcy%20judges%20and%20magistrates.md) | Bankruptcy judges and magistrates. |
 | [8440c.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440c%20-%20Court%20of%20Federal%20Claims%20judges.md) | Court of Federal Claims judges. |
-| [8440d.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440d%20-%20Judges%20of%20the%20United%20States%20Court%20of%20Veterans%20Appeals.md) | Judges of the United States Court of Veterans Appeals. |
+| [8440d.](Subchapter%20003%20%28III%29%20-%20Thrift%20Savings%20Plan/%C2%A7%2008440d%20-%20Judges%20of%20the%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims.md) | Judges of the United States Court of Appeals for Veterans Claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -120,6 +120,8 @@
 
 #### Amendments
 
+1998—Pub. L. 105–368, title V, §512(b)(2)(B), Nov. 11, 1998, 112 Stat. 3342, substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in item 8440d.
+
 1996—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378, struck out item 8431 “Definition”.
 
 1994—Pub. L. 103–353, §4(a)(2), Oct. 13, 1994, 108 Stat. 3172, added item 8432b.
@@ -148,7 +150,7 @@ Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, a
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3951, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
+This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 49 section 49107; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
 
 
 ---

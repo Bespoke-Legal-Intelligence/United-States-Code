@@ -2,7 +2,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “adult education” has the same meaning given such term by section 1201a of this title;
+&emsp;(1) the term “adult education” has the same meaning given such term by section 9202 of this title;
 
 &emsp;(2) the term “all students” means students from a broad range of backgrounds and circumstances, including disadvantaged students, students with diverse racial, ethnic, and cultural backgrounds, students with disabilities, students with limited English proficiency, students who have dropped out of school, and academically talented students;
 
@@ -24,9 +24,11 @@ For purposes of this subchapter—
 
 &emsp;(11) the term “technology” means state-of-the-art technology products and services, such as closed circuit television systems, educational television and radio programs and services, cable television, satellite, copper and fiber optic transmission, computer hardware and software, video and audio laser and CD-ROM discs, and video and audio tapes.
 
-(Pub. L. 89–10, title III, §3113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3639; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(1), (3)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.)
+(Pub. L. 89–10, title III, §3113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3639; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(1), (3)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 105–220, title II, §251(b)(2)(D), Aug. 7, 1998, 112 Stat. 1080.)
 
 #### Amendments
+
+1998—Par. (1). Pub. L. 105–220 substituted “section 9202” for “section 1201a”.
 
 1996—Par. (10). Pub. L. 104–208, §101(e) \[title VII, §709(a)(1), (3)\], amended par. (10) identically, substituting “section 9122 of this title” for “section 351a of this title”.
 

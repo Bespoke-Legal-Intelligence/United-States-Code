@@ -8,9 +8,9 @@ Notwithstanding any other provision of law, the Secretary shall establish minimu
 
 The Commodity Credit Corporation shall utilize Federal Grain Inspection Service approved procedures to inspect and evaluate the condition of the grain it acquires from producers. In no case shall this section require the use of an official inspection unless the producer so requests.
 
-(Oct. 31, 1949, ch. 792, title IV, §407A, as added Nov. 28, 1990, Pub. L. 101–624, title XX, §2012, 104 Stat. 3933.)
+(Oct. 31, 1949, ch. 792, title IV, §407A, as added Pub. L. 101–624, title XX, §2012, Nov. 28, 1990, 104 Stat. 3933.)
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 

@@ -8,7 +8,7 @@ Whoever—
 
 > shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
-(July 1, 1944, ch. 373, title XIX, §1909, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 542.)
+(July 1, 1944, ch. 373, title XIX, §1909, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 542.)
 
 #### Section Referred to in Other Sections
 

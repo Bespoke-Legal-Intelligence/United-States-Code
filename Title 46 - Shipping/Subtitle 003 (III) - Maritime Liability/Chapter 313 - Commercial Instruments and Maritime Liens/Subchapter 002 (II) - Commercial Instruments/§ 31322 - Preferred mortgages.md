@@ -10,7 +10,7 @@
 
 &emsp;(B) covers a vessel for which an application for documentation is filed that is in substantial compliance with the requirements of chapter 121 of this title and the regulations prescribed under that chapter.
 
-(b) A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.
+(b) Any indebtedness secured by a preferred mortgage that is filed or recorded under this chapter, or that is subject to a mortgage, security agreement, or instruments granting a security interest that is deemed to be a preferred mortgage under subsection (d) of this section, may have any rate of interest to which the parties agree.
 
 (c)(1) If a preferred mortgage includes more than one vessel or property that is not a vessel, the mortgage may provide for the separate discharge of each vessel and all property not a vessel by the payment of a part of the mortgage indebtedness.
 
@@ -20,19 +20,19 @@
 
 &emsp;(B) an allocation of mortgage indebtedness for purposes of separate discharge may not be made among the vessel and other property covered by the mortgage.
 
-(d)(1) A mortgage or instrument granting a security interest perfected under State law covering the whole of a vessel titled in a State is deemed to be a preferred mortgage if—
+(d)(1) A mortgage, security agreement, or instrument granting a security interest perfected under State law covering the whole of a vessel titled in a State is deemed to be a preferred mortgage if—
 
 &emsp;(A) the Secretary certifies that the State titling system complies with the Secretary's guidelines for a titling system under section 13106(b)(8) of this title; and
 
-&emsp;(B) information on the vessel covered by the mortgage or instrument is made available to the Secretary under chapter 125 of this title.
+&emsp;(B) information on the vessel covered by the mortgage, security agreement, or instrument is made available to the Secretary under chapter 125 of this title.
 
-(2) This subsection applies to mortgages or instruments covering vessels titled in a State after—
+(2) This subsection applies to mortgages, security agreements, or instruments covering vessels titled in a State after—
 
 &emsp;(A) the Secretary's certification under paragraph (1)(A) of this subsection; and
 
 &emsp;(B) the State begins making information available to the Secretary under chapter 125 of this title.
 
-(3) A preferred mortgage under this subsection continues to be a preferred mortgage if the vessel is no longer titled in the State where the mortgage was made.
+(3) A preferred mortgage under this subsection continues to be a preferred mortgage even if the vessel is no longer titled in the State where the mortgage, security agreement, or instrument granting a security interest became a preferred mortgage under this subsection.
 
 (e) If a vessel is already covered by a preferred mortgage when an application for titling or documentation is filed—
 
@@ -40,7 +40,25 @@
 
 &emsp;(2) the status of the preferred mortgage covering the vessel to be documented under chapter 121 is determined by subsection (a) of this section.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4743; Pub. L. 101–225, title III, §303(3), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1113(a), Oct. 19, 1996, 110 Stat. 3970.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4743; Pub. L. 101–225, title III, §303(3), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1113(a), Oct. 19, 1996, 110 Stat. 3970; Pub. L. 105–277, div. C, title II, §202(b), Oct. 21, 1998, 112 Stat. 2681–618; Pub. L. 105–383, title IV, §401(c)(1)–(4), Nov. 13, 1998, 112 Stat. 3425.)
+
+#### Enactment of Subsection (a)(4)
+
+<i>Pub. L. 105–277, div. C, title II, §§202(b), 203(a), Oct. 21, 1998, 112 Stat. 2681–618, 2681–619, provided that, effective Oct. 21, 2001, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) by striking “and” at the end of paragraph (2);</i>
+
+<i>(2) by striking the period at the end of paragraph (3)(B) and inserting in lieu thereof a semicolon and “and”; and</i>
+
+<i>(3) by inserting at the end the following new paragraph:</i>
+
+(4) with respect to a vessel with a fishery endorsement that is 100 feet or greater in registered length, has as the mortgagee—
+
+&emsp;(A) a person eligible to own a vessel with a fishery endorsement under section 12102(c) of this title;
+
+&emsp;(B) a state or federally chartered financial institution that satisfies the controlling interest criteria of section 2(b) of the Shipping Act, 1916 (46 U.S.C. 802(b)); <sup>1</sup> or
+
+&emsp;(C) a person that complies with the provisions of section 12102(c)(4) of this title.
 
 Historical and Revision Notes
 
@@ -106,6 +124,14 @@ Information on vessels with preferred mortgages made under State law will be ava
 
 #### Amendments
 
+1998—Subsec. (b). Pub. L. 105–383, §401(c)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.”
+
+Subsec. (d)(1). Pub. L. 105–383, §401(c)(2), substituted “mortgage, security agreement, or instrument” for “mortgage or instrument” in introductory provisions and subpar. (B).
+
+Subsec. (d)(2). Pub. L. 105–383, §401(c)(4), substituted “mortgages, security agreements, or instruments” for “mortgages or instruments” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 105–383, §401(c)(3), added par. (3) and struck out former par. (3) which read as follows: “A preferred mortgage under this subsection continues to be a preferred mortgage if the vessel is no longer titled in the State where the mortgage was made.”
+
 1996—Subsec. (a). Pub. L. 104–324 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of 2 pars. with substantially similar provisions defining a preferred mortgage except that it included a mortgage with a State, the United States Government, a federally insured depository institution, or specified individual as mortgagee.
 
 1989—Subsec. (a)(2). Pub. L. 101–225, §303(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1)(D) of this subsection does not apply to a vessel operated only as a fishing vessel, fish processing vessel, or a fish tender vessel (as defined in section 2101 of this title) or to a vessel operated only for pleasure.”
@@ -114,11 +140,17 @@ Subsec. (d)(1). Pub. L. 101–225, §303(3)(B), substituted “granting a securi
 
 Subsec. (e). Pub. L. 101–225, §303(3)(C), substituted “the status of the preferred mortgage” for “the validity of the preferred mortgage” in pars. (1) and (2).
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–277 effective Oct. 1, 2001, see section 203(a) of Pub. L. 105–277, set out as a note under section 12102 of this title.
+
 #### Effective Date
 
 Section effective Jan. 1, 1989, not to affect any civil action filed before that date, and, insofar as applicable to vessels for which an application for documentation has been filed, effective Jan. 1, 1990, with other exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as a note under section 30101 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12503, 31301, 31321, 31327, 31343 of this title; section 808 of Appendix to this title.
+This section is referred to in sections 12102, 12124, 12503, 31301, 31321, 31327, 31343 of this title; section 808 of Appendix to this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(46 App. U.S.C. 802(b));”.</i>
 

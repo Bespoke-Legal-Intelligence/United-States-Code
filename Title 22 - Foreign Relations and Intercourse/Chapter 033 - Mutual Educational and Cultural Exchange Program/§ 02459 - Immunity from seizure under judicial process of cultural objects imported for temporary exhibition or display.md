@@ -10,7 +10,7 @@ If in any judicial proceeding in any such court any such process, judgment, decr
 
 #### (c) Enforcement of agreements and obligations of carriers under transportation contracts
 
-Nothing contained in this section shall preclude (1) any judicial action for or in aid of the enforcement of the terms of any such agreement or the enforcement of the obligation of any carrier under any contract for the transportation of any such object of cultural significance; or (2) the institution or prosecution by or on behalf of any such institution or the United States of any action for or in aid of the fulfillment of any obligation assumed by such institution or the United States pursuant to any such agreement.
+Nothing contained in this section shall preclude (1) any judicial action for or in aid of the enforcement of the terms of any such agreement or the enforcement of the obligation of any carrier under any contract for the transportation of any such object of cultural significance; or (2) the institution or prosecution by or on behalf of any such institution or the United States of anyaction for or in aid of the fulfillment of any obligation assumed by such institution or the United States pursuant to any such agreement.
 
 (Pub. L. 89–259, Oct. 19, 1965, 79 Stat. 985.)
 
@@ -39,6 +39,8 @@ Sec. 4. Executive Order No. 11312 of October 14, 1966 is revoked.
 Sec. 5. Any order, regulation, determination or other action which was in effect pursuant to the provisions of Executive Order No. 11312 shall remain in effect until changed pursuant to the authority provided in this Order.
 
 Sec. 6. This Order shall be effective on April 1, 1978.
+
+\[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 
 #### Section Referred to in Other Sections
 

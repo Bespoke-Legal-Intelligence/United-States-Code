@@ -24,7 +24,7 @@
 
 (c) To meet local needs the Secretary concerned may make minor expansions and extensions of any distributing system or facility within an activity through which a utility or service is furnished under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2481; Aug. 14, 1959, Pub. L. 86–156, 73 Stat. 338; renumbered §2686, Nov. 18, 1997, Pub. L. 105–85, div. A, title III, §371(b)(1), 111 Stat. 1705.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2481; Pub. L. 86–156, Aug. 14, 1959, 73 Stat. 338; renumbered §2686, Pub. L. 105–85, div. A, title III, §371(b)(1), Nov. 18, 1997, 111 Stat. 1705.)
 
 Historical and Revision Notes
 

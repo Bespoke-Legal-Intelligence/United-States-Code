@@ -46,7 +46,7 @@ The provisions of this section shall not apply to any senior securities issued o
 
 &emsp;(1) for the purpose of refunding through payment, purchase, redemption, retirement, or exchange, any senior security of such registered investment company except that no senior security representing indebtedness shall be so issued or sold for the purpose of refunding any senior security which is a stock; or
 
-&emsp;(2) pursuant to any plan of reorganization (other than for refunding as referred to in subsection (e)(2) <sup>1</sup> of this section), provided—
+&emsp;(2) pursuant to any plan of reorganization (other than for refunding as referred to in paragraph (1) of this subsection), provided—
 
 &emsp;&emsp;(A) that such senior securities are issued or sold for the purpose of substituting or exchanging such senior securities for outstanding senior securities, and if such senior securities represent indebtedness they are issued or sold for the purpose of substituting or exchanging such senior securities for outstanding senior securities representing indebtedness, of any registered investment company which is a party to such plan of reorganization; or
 
@@ -54,7 +54,7 @@ The provisions of this section shall not apply to any senior securities issued o
 
 #### (f) Senior securities securing loans from bank; securities not included in “senior security”
 
-(1) It shall be unlawful for any registered open-end company to issue any class of senior security or to sell any senior security of which it is the issuer, except that any such registered company shall be permitted to borrow from any bank: <i>Provided</i>, That immediately after any such borrowing there is an asset coverage of at least 300 per centum for all borrowings of such registered company: <i>And provided further</i>, That in the event that such asset coverage shall at any time fall below 300 per centum such registered company shall, within three days thereafter (not including Sundays and holidays) or such longer period as the Commission may prescribe by rules and regulations, reduce the amount of its borrowings to an extent that the asset coverage of such borrowings shall be at least 300 per centum.
+(1) It shall be unlawful for any registered open-end company to issue any class of senior security or to sell any senior security of which it is the issuer, except that any such registered company shall be permitted to borrow from any bank: <i>Provided</i>, That immediately after any such borrowing there is an asset coverage of at least 300 per centum for all borrowings of such registered company: <i>And provided further</i>, That in the event that such asset coverage shall at any time fall below 300 per centum such registered company shall, within three days thereafter (not including Sundays and holidays) or such longer period as the Commission may prescribe by rules and regulations, reduce the amount of itsborrowings to an extent that the asset coverage of such borrowings shall be at least 300 per centum.
 
 (2) “Senior security” shall not, in the case of a registered open-end company, include a class or classes or a number of series of preferred or special stock each of which is preferred over all other classes or series in respect of assets specifically allocated to that class or series: <i>Provided</i>, That (A) such company has outstanding no class or series of stock which is not so preferred over all other classes or series, or (B) the only other outstanding class of the issuer's stock consists of a common stock upon which no dividend (other than a liquidating dividend) is permitted to be paid and which in the aggregate represents not more than one-half of 1 per centum of the issuer's outstanding voting securities. For the purpose of insuring fair and equitable treatment of the holders of the outstanding voting securities of each class or series of stock of such company, the Commission may by rule, regulation, or order direct that any matter required to be submitted to the holders of the outstanding voting securities of such company shall not be deemed to have been effectively acted upon unless approved by the holders of such percentage (not exceeding a majority) of the outstanding voting securities of each class or series of stock affected by such matter as shall be prescribed in such rule, regulation, or order.
 
@@ -86,13 +86,15 @@ Notwithstanding any provision of this subchapter, it shall be unlawful, after Au
 
 The provisions of subparagraphs (A) and (B) of paragraph (1) of subsection (a) of this section shall not apply to investment companies operating under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\], and the provisions of paragraph (2) of said subsection shall not apply to such companies so long as such class of senior security shall be held or guaranteed by the Small Business Administration.
 
-(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Aug. 21, 1958, Pub. L. 85–699, title III, §307(c), 72 Stat. 694; Dec. 14, 1970, Pub. L. 91–547, §10, 84 Stat. 1421; Aug. 21, 1958, Pub. L. 85–699, title III, §317, formerly §319, as added Oct. 27, 1972, Pub. L. 92–595, §2(g), 86 Stat. 1316, renumbered §317,Sept. 30, 1996, Pub. L. 104–208, div. D, title II, §208(h)(1)(E), 110 Stat. 3009–747; June 4, 1975, Pub. L. 94–29, §28(4), 89 Stat. 165; Dec. 4, 1987, Pub. L. 100–181, title VI, §613, 101 Stat. 1261.)
+(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Pub. L. 85–699, title III, §307(c), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–547, §10, Dec. 14, 1970, 84 Stat. 1421; Pub. L. 85–699, title III, §317, formerly §319, Aug. 21, 1958, as added Pub. L. 92–595, §2(g), Oct. 27, 1972, 86 Stat. 1316, renumbered §317, Pub. L. 104–208, div. D, title II, §208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 94–29, §28(4), June 4, 1975, 89 Stat. 165; Pub. L. 100–181, title VI, §613, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 105–353, title III, §301(c)(4), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
 
 The Small Business Investment Act of 1958, referred to in subsec. (k), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (e)(2). Pub. L. 105–353 substituted “paragraph (1) of this subsection” for “subsection (e)(2) of this section” in introductory provisions.
 
 1987—Subsec. (e). Pub. L. 100–181 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “pursuant to any firm contract to purchase or sell entered into prior to March 15, 1940;”.
 
@@ -123,6 +125,4 @@ Sale by closed-end company of common stock upon warrant, see section 80a–23 of
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 80a–6, 80a–23, 80a–60 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(e)(1)”.</i>
 

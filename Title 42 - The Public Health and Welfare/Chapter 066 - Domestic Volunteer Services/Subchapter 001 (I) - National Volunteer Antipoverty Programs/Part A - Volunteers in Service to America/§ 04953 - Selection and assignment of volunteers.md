@@ -34,7 +34,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),<sup>1</sup> the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with this subsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
 
-(4) The Director shall ensure that applications for service as a volunteer under this part are available to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
+(4) The Director shall ensure that applications for service as a volunteer under this part areavailable to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
 
 (5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) and the needs and preferences of projects or programs approved for the assignment of such volunteers.
 
@@ -50,7 +50,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 #### (c) Public awareness and recruit activities; dissemination of information; reimbursement of costs; coordination; obligation of funds
 
-(1) The Director, in conjunction with the personnel described in subsection (b)(2)(C) of thissection, shall engage in public awareness and recruitment activities. Such activities may include—
+(1) The Director, in conjunction with the personnel described in subsection (b)(2)(C) of this section, shall engage in public awareness and recruitment activities. Such activities may include—
 
 &emsp;(A) public service announcements through radio, television, and the print media;
 
@@ -74,9 +74,9 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (4) Beginning in fiscal year 1991 and for each fiscal year thereafter, for the purpose of carrying out this subsection, the Director shall obligate not less than 1.5 percent of the amounts appropriated for each fiscal year under section 5081(a) of this title.
 
-#### (d) Provision of plans to volunteers for job advancement; coordination with private industry councils under Job Training Partnership Act
+#### (d) Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards
 
-The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
+The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act\[29 U.S.C. 1501 et seq.\] or local workforce investment board established under section 2832 of title 29.
 
 #### (e) Educational and vocational counseling for volunteers; Director to provide
 
@@ -94,11 +94,15 @@ Volunteers under this part shall not be assigned to work in a program or project
 
 The Director is encouraged to enter into agreements with other Federal agencies to use VISTA volunteers in furtherance of program objectives that are consistent with the purposes described in section 4951 of this title.
 
-(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074;Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568.)
+(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(f)(28)(A), (g)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, 2681–435, provided that, effective July 1, 2000, the second sentence of subsection (d) of this section is amended to read as follows: “private industry council established under the Job Training Partnership Act or”.</i>
 
 #### References in Text
 
-The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(6), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.), respectively, of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -113,6 +117,8 @@ The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 8
 The Job Training Partnership Act, referred to in subsec. (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 #### Amendments
+
+1998—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29.” for “Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act.”
 
 1994—Subsec. (b)(5), (6). Pub. L. 103–304, §3(b)(7), redesignated par. (6) as (5).
 
@@ -199,6 +205,10 @@ Subsec. (f). Pub. L. 98–288, §4(c)(1)(A), (d), redesignated subsec. (d) as (f
 1979—Subsec. (b). Pub. L. 96–143, §2(a), substituted “Not later than 30 days after” for “Prior to” and inserted provisions that the Director offer to provide each volunteer enrolled for a period of full-time service of not less than one year under this subchapter, and, upon the request of such volunteer, provide such volunteer with an individual and updated plan as described in the preceding two sentences.
 
 Subsec. (d). Pub. L. 96–143, §2(b), inserted “in a program or project” after “work” and “or project” after “program” and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(36)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(28)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 

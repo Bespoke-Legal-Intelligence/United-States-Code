@@ -2,7 +2,7 @@
 
 The revision of boundaries of the national park, as authorized in section 441f of this title, shall be accomplished by the issuance, by the Secretary of the Interior, of an appropriate order, or orders, such order or orders to be effective upon publication in the Federal Register: <i>Provided</i>, That federally owned land under the administrative jurisdiction of any other department or agency of the Federal Government shall be included within the park only with the approval of the head of such department or agency.
 
-(May 7, 1952, ch. 244, §2, 66 Stat. 65; Nov. 10, 1978, Pub. L. 95–625, title VI, §611, 92 Stat. 3521.)
+(May 7, 1952, ch. 244, §2, 66 Stat. 65; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
 #### References in Text
 

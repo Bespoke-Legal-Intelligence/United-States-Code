@@ -20,7 +20,7 @@ There are authorized to be appropriated to carry out this section, such sums as 
 
 The Secretary shall carry out this section with amounts available under section 238j of this title. Such amounts are in addition to any other amounts that are available to the Secretary for such purpose.
 
-(July 1, 1944, ch. 373, title XXVI, §2674, as added Aug. 18, 1990, Pub. L. 101–381, title IV, §401, 104 Stat. 620; amended May 20, 1996, Pub. L. 104–146, §3(f), 110 Stat. 1362.)
+(July 1, 1944, ch. 373, title XXVI, §2674, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 104–146, §3(f), May 20, 1996, 110 Stat. 1362.)
 
 #### Amendments
 

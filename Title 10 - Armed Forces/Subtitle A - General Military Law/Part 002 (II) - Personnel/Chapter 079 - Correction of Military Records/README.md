@@ -6,10 +6,15 @@
 | [1552\.](%C2%A7%2001552%20-%20Correction%20of%20military%20records%20claims%20incident%20thereto.md) | Correction of military records: claims incident thereto. |
 | [1553\.](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md) | Review of discharge or dismissal. |
 | [1554\.](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md) | Review of retirement or separation without pay for physical disability. |
+| [1555\.](%C2%A7%2001555%20-%20Professional%20staff.md) | Professional staff. |
+| [1556\.](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md) | Ex parte communications prohibited. |
+| [1557\.](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md) | Timeliness standards for disposition of applications before Corrections Boards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1998—Pub. L. 105–261, div. A, title V, §§542(a)(2), 543(a)(2), 544(b), Oct. 17, 1998, 112 Stat. 2020–2022, added items 1555 to 1557.
 
 1962—Pub. L. 87–651, title I, §110(b), Sept. 7, 1962, 76 Stat. 510, substituted “discharge or dismissal” for “discharges or dismissals” in item 1553, and “retirement or separation without pay for physical disability” for “decisions of retiring boards and similar boards” in item 1554.
 
@@ -24,3 +29,6 @@
 - [&sect; 01552 - Correction of military records claims incident thereto](%C2%A7%2001552%20-%20Correction%20of%20military%20records%20claims%20incident%20thereto.md)
 - [&sect; 01553 - Review of discharge or dismissal](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md)
 - [&sect; 01554 - Review of retirement or separation without pay for physical disability](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md)
+- [&sect; 01555 - Professional staff](%C2%A7%2001555%20-%20Professional%20staff.md)
+- [&sect; 01556 - Ex parte communications prohibited](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md)
+- [&sect; 01557 - Timeliness standards for disposition of applications before Corrections Boards](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md)

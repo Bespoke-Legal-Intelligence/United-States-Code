@@ -88,7 +88,7 @@ Regulations for transfer of proceedings.—The Director may prescribe regulation
 
 “(c)
 
-Standards and Guidelines for Federal Computer Systems.—Standards and guidelines that are in effect for Federal computer systems under section 111(d) of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759(d)) on the day before the effective date of this division shall remain in effect until modified, terminated, superseded, revoked, or disapproved under the authority of section 5131 of this Act \[40 U.S.C. 1441\].”
+Standards and Guidelines for Federal Computer Systems.—Standards and guidelines that are in effect for Federal computer systems under section111(d) of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759(d)) on the day before the effective date of this division shall remain in effect until modified, terminated, superseded, revoked, or disapproved under the authority of section 5131 of this Act \[40 U.S.C. 1441\].”
 
 #### Rules of Construction
 
@@ -126,7 +126,7 @@ Sec. 2. <i>Responsibilities of Agency Heads</i>. The head of each executive agen
 
 (b) strengthen the quality of decisions about the employment of information resources to meet mission needs through integrated analysis, planning, budgeting, and evaluation processes, including:
 
-(1) determining, before making investments in new information systems, whether the Government shouldbe performing the function, if the private sector or another agency should support the function, and if the function needs to be or has been appropriately redesigned to improve its efficiency;
+(1) determining, before making investments in new information systems, whether the Government should be performing the function, if the private sector or another agency should support the function, and if the function needs to be or has been appropriately redesigned to improve its efficiency;
 
 (2) establishing mission-based performance measures for information systems investments, aligned with agency performance plans prepared pursuant to the Government Performance and Results Act of 1993 (Public Law 103–62);
 
@@ -230,7 +230,7 @@ Sec. 4. <i>Government Information Technology Services Board.</i>
 
 (4) developing with the National Institute of Standards and Technology and with established standards bodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act.
 
-(b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIOCouncil may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
+(b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIO Council may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
 
 Sec. 5. <i>Information Technology Resources Board.</i>
 
@@ -298,7 +298,55 @@ Sec. 12. <i>Judicial Review</i>. Nothing in this Executive order shall affect an
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13103. Computer Software Piracy
+
+Ex. Ord. No. 13103, Sept. 30, 1998, 63 F.R. 53273, provided:
+
+The United States Government is the world's largest purchaser of computer-related services and equipment, purchasing more than $20 billion annually. At a time when a critical component in discussions with our international trading partners concerns their efforts to combat piracy of computer software and other intellectual property, it is incumbent on the United States to ensure that its own practices as a purchaser and user of computer software are beyond reproach. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It shall be the policy of the United States Government that each executive agency shall work diligently to prevent and combat computer software piracy in order to give effect to copyrights associated with computer software by observing the relevant provisions of international agreements in effect in the United States, including applicable provisions of the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights, the Berne Convention for the Protection of Literary and Artistic Works, and relevant provisions of Federal law, including the Copyright Act.
+
+(a) Each agency shall adopt procedures to ensure that the agency does not acquire, reproduce, distribute, or transmit computer software in violation of applicable copyright laws.
+
+(b) Each agency shall establish procedures to ensure that the agency has present on its computers and uses only computer software not in violation of applicable copyright laws. These procedures may include:
+
+(1) preparing agency inventories of the software present on its computers;
+
+(2) determining what computer software the agency has the authorization to use; and
+
+(3) developing and maintaining adequate recordkeeping systems.
+
+(c) Contractors and recipients of Federal financial assistance, including recipients of grants and loan guarantee assistance, should have appropriate systems and controls in place to ensure that Federal funds are not used to acquire, operate, or maintain computer software in violation of applicable copyright laws. If agencies become aware that contractors or recipients are using Federal funds to acquire, operate, or maintain computer software in violation of copyright laws anddetermine that such actions of the contractors or recipients may affect the integrity of the agency's contracting and Federal financial assistance processes, agencies shall take such measures, including the use of certifications or written assurances, as the agency head deems appropriate and consistent with the requirements of law.
+
+(d) Executive agencies shall cooperate fully in implementing this order and shall share information as appropriate that may be useful in combating the use of computer software in violation of applicable copyright laws.
+
+Sec. 2. <i>Responsibilities of Agency Heads</i>. In connection with the acquisition and use of computer software, the head of each executive agency shall:
+
+(a) ensure agency compliance with copyright laws protecting computer software and with the provisions of this order to ensure that only authorized computer software is acquired for and used on the agency's computers;
+
+(b) utilize performance measures as recommended by the Chief Information Officers Council pursuant to section 3 of this order to assess the agency's compliance with this order;
+
+(c) educate appropriate agency personnel regarding copyrights protecting computer software and the policies and procedures adopted by the agency to honor them; and
+
+(d) ensure that the policies, procedures, and practices of the agency related to copyrights protecting computer software are adequate and fully implement the policies set forth in this order.
+
+Sec. 3. <i>Chief Information Officers Council</i>. The Chief Information Officers Council (“Council”) established by section 3 of Executive Order No. 13011 of July 16, 1996 \[set out above\], shall be the principal interagency forum to improve executive agency practices regarding the acquisition and use of computer software, and monitoring and combating the use of unauthorized computer software. The Council shall provide advice and make recommendations to executive agencies and to the Office of Management and Budget regarding appropriate government-wide measures to carry out this order. The Council shall issue its initial recommendations within 6 months of the date of this order.
+
+Sec. 4. <i>Office of Management and Budget</i>. The Director of the Office of Management and Budget, in carrying out responsibilities under the Clinger-Cohen Act \[probably means the Clinger-Cohen Act of 1996, see Short Title note above\], shall utilize appropriate oversight mechanisms to foster agency compliance with the policies set forth in this order. In carrying out these responsibilities, the Director shall consider any recommendations made by the Council under section 3 of this order regarding practices and policies to be instituted on a government-wide basis to carry out this order.
+
+Sec. 5. <i>Definition</i>. “Executive agency” and “agency” have the meaning given to that term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).
+
+Sec. 6. <i>National Security</i>. In the interest of national security, nothing in this order shall be construed to require the disclosure of intelligence sources or methods or to otherwise impair the authority of those agencies listed at 50 U.S.\[C.\] 401a(4) to carry out intelligence activities.
+
+Sec. 7. <i>Law Enforcement Activities</i>. Nothing in this order shall be construed to require the disclosure of law enforcement investigative sources or methods or to prohibit or otherwise impair any lawful investigative or protective activity undertaken for or by any officer, agent, or employee of the United States or any person acting pursuant to a contract or other agreement with such entities.
+
+Sec. 8. <i>Scope</i>. Nothing in this order shall be construed to limit or otherwise affect the interpretation, application, or operation of 28 U.S.C. 1498.
+
+Sec. 9. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 44 section 3502.
+This section is referred to in title 10 section 2223; title 29 section 794d; title 44 section 3502.
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) to revert to the grade and status he held at the time of his designation as director or assistant director.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Sept. 2, 1958, Pub. L. 85–861, §1(140), 72 Stat. 1508; Sept. 7, 1962, Pub. L. 87–649, §14c(45), 76 Stat. 501; Feb. 24,1970, Pub. L. 91–197, 84 Stat. 15; Dec. 12, 1980, Pub. L. 96–513, title V, §513(18), 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 85–861, §1(140), Sept. 2, 1958, 72 Stat. 1508; Pub. L. 87–649, §14c(45), Sept. 7, 1962, 76 Stat. 501; Pub. L. 91–197, Feb. 24, 1970, 84 Stat. 15; Pub. L. 96–513, title V, §513(18), Dec. 12, 1980, 94 Stat. 2932.)
 
 Historical and Revision Notes<br>1956
 

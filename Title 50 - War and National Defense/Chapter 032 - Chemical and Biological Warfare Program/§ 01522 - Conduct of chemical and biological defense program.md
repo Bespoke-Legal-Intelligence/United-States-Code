@@ -56,7 +56,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as partof Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
 
@@ -67,6 +67,58 @@ Subsec. (d)(1). Pub. L. 104–201, §228(b)(1), substituted “program for the D
 Subsec. (d)(2). Pub. L. 104–201, §228(b)(2), in first sentence, inserted “(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section)” after “requests for the program”.
 
 Subsec. (d)(3), (4). Pub. L. 104–201, §228(b)(3), (4), added par. (3) and redesignated former par. (3) as (4).
+
+#### Chemical Warfare Defense
+
+Pub. L. 105–261, div. A, title II, §247, Oct. 17, 1998, 112 Stat. 1956, provided that:
+
+“(a)
+
+Review and Modification of Policies and Doctrines.—The Secretary of Defense shall review the policies and doctrines of the Department of Defense on chemical warfare defense and modify the policies and doctrine as appropriate to achieve the objectives set forth in subsection (b).
+
+“(b)
+
+Objectives.—The objectives for the modification of policies and doctrines of the Department of Defense on chemical warfare defense are as follows:
+
+&emsp;“(1) To provide for adequate protection of personnel from any exposure to a chemical warfare agent (including chronic and low-level exposure to a chemical warfare agent) that would endanger the health of exposed personnel because of the deleterious effects of—
+
+&emsp;&emsp;“(A) a single exposure to the agent;
+
+&emsp;&emsp;“(B) exposure to the agent concurrently with other dangerous exposures, such as exposures to—
+
+&emsp;&emsp;&emsp;“(i) other potentially toxic substances in the environment, including pesticides, other insect and vermin control agents, and environmental pollutants;
+
+&emsp;&emsp;&emsp;“(ii) low-grade nuclear and electromagnetic radiation present in the environment;
+
+&emsp;&emsp;&emsp;“(iii) preventive medications (that are dangerous when taken concurrently with other dangerous exposures referred to in this paragraph);
+
+&emsp;&emsp;&emsp;“(iv) diesel fuel, jet fuel, and other hydrocarbon-based fuels; and
+
+&emsp;&emsp;&emsp;“(v) occupational hazards, including battlefield hazards; and
+
+&emsp;&emsp;“(C) repeated exposures to the agent, or some combination of one or more exposures to the agent and other dangerous exposures referred to in subparagraph (B), over time.
+
+&emsp;“(2) To provide for—
+
+&emsp;&emsp;“(A) the prevention of and protection against, and the detection (including confirmation) of, exposures to a chemical warfare agent (whether intentional or inadvertent) at levels that, even if not sufficient to endanger health immediately, are greater than the level that is recognized under Department of Defense policies as being the maximum safe level of exposure to that agent for the general population; and
+
+&emsp;&emsp;“(B) the recording, reporting, coordinating, and retaining of information on possible exposures described in subparagraph (A), including the monitoring of the health effects of exposures on humans and animals, environmental effects, and ecological effects, and the documenting and reporting of those effects specifically by location.
+
+&emsp;“(3) To provide solutions for the concerns and mission requirements that are specifically applicable for one or more of the Armed Forces in a protracted conflict when exposures to chemical agents could be complex, dynamic, and occurring over an extended period.
+
+“(c)
+
+Research Program.—The Secretary of Defense shall develop and carry out a plan to establish a research program for determining the effects of exposures to chemical warfare agents of the type described in subsection (b). The research shall be designed to yield results that can guide the Secretary in the evolution of policy and doctrine on exposures to chemical warfare agents and to develop new risk assessment methods and instruments with respect to such exposures. The plan shall state the objectives and scope of the program and include a 5-year funding plan.
+
+“(d)
+
+Report.—Not later than May 1, 1999, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the results of the review under subsection (a) and on the research program developed under subsection (c). The report shall include the following:
+
+&emsp;“(1) Each modification of chemical warfare defense policy and doctrine resulting from the review.
+
+&emsp;“(2) Any recommended legislation regarding chemical warfare defense.
+
+&emsp;“(3) The plan for the research program.”
 
 #### Study of Facility for Training and Evaluation of Chemical or Biological Weapons Response Personnel
 

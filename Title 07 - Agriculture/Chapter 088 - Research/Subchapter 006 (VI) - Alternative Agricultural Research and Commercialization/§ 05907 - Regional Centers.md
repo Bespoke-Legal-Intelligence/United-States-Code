@@ -76,7 +76,7 @@ Each Regional Center shall—
 
 #### (3) Recommendation
 
-&emsp;The Regional Director, based on the comments of the reviewers, shall make and submita recommendation to the Board, which shall not be binding on the Board.
+&emsp;The Regional Director, based on the comments of the reviewers, shall make and submit a recommendation to the Board, which shall not be binding on the Board.
 
 (Pub. L. 101–624, title XVI, §1663, Nov. 28, 1990, 104 Stat. 3765; Pub. L. 102–237, title IV, §405(b), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VII, §727, Apr. 4, 1996, 110 Stat. 1119.)
 

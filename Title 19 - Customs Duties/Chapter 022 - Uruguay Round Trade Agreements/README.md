@@ -190,7 +190,7 @@
 | [3621\.](Subchapter%20004%20%28IV%29%20-%20Agriculture-Related%20Provisions/Part%20C%20-%20Other%20Provisions/%C2%A7%2003621%20-%20Tobacco%20proclamation%20authority.md) | Tobacco proclamation authority. |
 | (a) | In general. |
 | (b) | Effective date. |
-| [3622\.](Subchapter%20004%20%28IV%29%20-%20Agriculture-Related%20Provisions/Part%20C%20-%20Other%20Provisions/%C2%A7%2003622%20-%20Report%20to%20Congress%20on%20access%20to%20Canadian%20dairy%20and%20poultry%20markets.md) | Report to Congress on access to Canadian dairy and poultry markets. |
+| [3622\.](Subchapter%20004%20%28IV%29%20-%20Agriculture-Related%20Provisions/Part%20C%20-%20Other%20Provisions/%C2%A7%2003622%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20XIV%2C%20%C2%A71401%28c%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203294.md) | Repealed. |
 | [3623\.](Subchapter%20004%20%28IV%29%20-%20Agriculture-Related%20Provisions/Part%20C%20-%20Other%20Provisions/%C2%A7%2003623%20-%20Study%20of%20milk%20marketing%20order%20system.md) | Study of milk marketing order system. |
 | [3624\.](Subchapter%20004%20%28IV%29%20-%20Agriculture-Related%20Provisions/Part%20C%20-%20Other%20Provisions/%C2%A7%2003624%20-%20Additional%20program%20funding.md) | Additional program funding. |
 | (a) | Use of additional funds. |

@@ -1,11 +1,6 @@
 ### <b>CHAPTER 83—CIVILIAN DEFENSE INTELLIGENCE EMPLOYEES</b>
 
-| Subchapter | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Subchapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Defense-Wide%20Intelligence%20Personnel%20Policy/README.md) | <b>Defense-Wide Intelligence Personnel Policy</b> | <b>1601</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Defense%20Intelligence%20Agency%20Personnel/README.md) | <b>Defense Intelligence Agency Personnel</b> | <b>1621</b> |
@@ -19,6 +14,10 @@ A prior chapter 85 of this title was repealed by Pub. L. 102–190, div. A, titl
 #### Amendments
 
 1996—Pub. L. 104–201, div. A, title XVI, §1632(a)(3), Sept. 23, 1996, 110 Stat. 2745, substituted “CIVILIAN DEFENSE INTELLIGENCE EMPLOYEES” for “DEFENSE INTELLIGENCE AGENCY AND CENTRAL IMAGERY OFFICE CIVILIAN PERSONNEL” as chapter heading and added subchapter analysis.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 1552 of this title.
 
 
 ---

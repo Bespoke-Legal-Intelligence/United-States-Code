@@ -4,7 +4,7 @@
 
 (b) Time spent after retirement (without pay) for failure to conform to standards and qualifications prescribed under section 12641 of this title may not be credited in a computation of years of service under this chapter.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1334; Sept. 7, 1962, Pub. L. 87–651, title I, §108, 76 Stat. 509; renumbered §12734 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3003.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 104, §1334; Pub. L. 87–651, title I, §108, Sept. 7, 1962, 76 Stat. 509; renumbered §12734 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
 
 Historical and Revision Notes<br>1956
 
@@ -42,7 +42,7 @@ July 9, 1952, ch. 608, §211(b) (less 1st 16 words), 66 Stat. 485.
 
 34:440k (last sentence, less applicability to inactive status).
 
-Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as applicable to inactive status),10:1036g (last 41 words of 2d sentence), 34:440k (last 17 words of last sentence, as applicable to inactive status), and 34:440<i>o</i> (last 41 words of 2d sentence). 10:1036c (proviso of last sentence, as applicable to inactive status) and 34:440k (proviso of last sentence, as applicable to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) are omitted as surplusage.
+Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as applicable to inactive status), 10:1036g (last 41 words of 2d sentence), 34:440k (last 17 words of last sentence, as applicable to inactive status), and 34:440<i>o</i> (last 41 words of 2d sentence). 10:1036c (proviso of last sentence, as applicable to inactive status) and 34:440k (proviso of last sentence, as applicable to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) are omitted as surplusage.
 
 In subsection (b), 10:1036c (proviso of last sentence, less applicability to inactive status) and 34:440k (proviso of last sentence, less applicability to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) are omitted as surplusage.
 

@@ -20,5 +20,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) of this section delegated to Secretary of Defense by section 1(p) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under subsec. (b) of this section delegated to Secretary of Defense by section 1(q) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 

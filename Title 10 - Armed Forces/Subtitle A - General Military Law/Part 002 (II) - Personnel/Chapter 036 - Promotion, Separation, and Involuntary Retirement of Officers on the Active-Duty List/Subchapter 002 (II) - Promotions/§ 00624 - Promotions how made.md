@@ -40,7 +40,7 @@
 
 Subsec. (a)(2). Pub. L. 97–22, §4(d)(1)(B), inserted provision that officers to be promoted to grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary concerned.
 
-Subsec. (c). Pub. L. 97–22, §4(d)(2), substituted “under this section in the grade of first lieutenant or captain or lieutenant (junior grade) or lieutenant” for “in thegrade of first lieutenant or lieutenant (junior grade) under this section”.
+Subsec. (c). Pub. L. 97–22, §4(d)(2), substituted “under this section in the grade of first lieutenant or captain or lieutenant (junior grade) or lieutenant” for “in the grade of first lieutenant or lieutenant (junior grade) under this section”.
 
 Subsec. (d)(1). Pub. L. 97–22, §4(d)(3)(A), (B), substituted “Under regulations prescribed by the Secretary concerned, the appointment of an officer under this section may be delayed” for “The Secretary concerned may delay the appointment of an officer under this section” in provisions preceding subpar. (A) and, in provisions following subpar. (D), inserted “then unless action to delay an appointment has also been taken under subsection (d)(2)” after “as the case may be,”.
 

@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In this paragraph, the term “adjusted historical payment basis” means, with respect to a physicians’ service furnished in a fee schedule area, the weighted average prevailing charge applied in the area for the service in 1991 (as determined by the Secretary without regard to physician specialty and as adjusted to reflect paymentsfor services with customary charges below the prevailing charge or other payment limitations imposed by law or regulation) adjusted by the update established under subsection (d)(3) of this section for 1992.
+&emsp;&emsp;&emsp;In this paragraph, the term “adjusted historical payment basis” means, with respect to a physicians’ service furnished in a fee schedule area, the weighted average prevailing charge applied in the area for the service in 1991 (as determined by the Secretary without regard to physician specialty and as adjusted to reflect payments for services with customary charges below the prevailing charge or other payment limitations imposed by law or regulation) adjusted by the update established under subsection (d)(3) of this section for 1992.
 
 #### (ii) Application to radiology services
 
@@ -190,11 +190,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the practice expense percentage for the service (as determined under paragraph (3)(C)(ii)),
 
-&emsp;&emsp;&nbsp;and for years beginning with 1999 based on the relative practice expense resources involved in furnishing the service. For 1999, such number of units shall be determined based 75 percent on such product and based 25 percent on the relative practice expense resources involved in furnishing the service. For 2000, such number of units shall be determined based 50 percent on such product and based 50 percent on such relative practice expense resources. For 2001, such number of units shall be determined based 25 percent on such product and based 75 percent on such relative practice expenseresources. For a subsequent year, such number of units shall be determined based entirely on such relative practice expense resources.
+&emsp;&emsp;&nbsp;and for years beginning with 1999 based on the relative practice expense resources involved in furnishing the service. For 1999, such number of units shall be determined based 75 percent on such product and based 25 percent on the relative practice expense resources involved in furnishing the service. For 2000, such number of units shall be determined based 50 percent on such product and based 50 percent on such relative practice expense resources. For 2001, such number of units shall be determined based 25 percent on such product and based 75 percent on such relative practice expense resources. For a subsequent year, such number of units shall be determined based entirely on such relative practice expense resources.
 
 #### (iii) Malpractice relative value units
 
-&emsp;&emsp;&emsp;The Secretary shall determine a number of malpractice relative value units for the service for years before 2000 equal to the product of—
+&emsp;&emsp;&emsp;The Secretary shall determine a number of malpractice relative value units for theservice for years before 2000 equal to the product of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the base allowed charges (as defined in subparagraph (D)) for the service, and
 
@@ -266,11 +266,11 @@
 
 #### (iv) Limitation on aggregate reallocation
 
-&emsp;&emsp;&emsp;If the application of clause (i)(I) would result in an aggregate amount of reductions under such clause in excess of$390,000,000, such clause shall be applied by substituting for 110 percent such greater percentage as the Secretary estimates will result in the aggregate amount of such reductions equaling $390,000,000.
+&emsp;&emsp;&emsp;If the application of clause (i)(I) would result in an aggregate amount of reductions under such clause in excess of $390,000,000, such clause shall be applied by substituting for 110 percent such greater percentage as the Secretary estimates will result in the aggregate amount of such reductions equaling $390,000,000.
 
 #### (v) No reduction for certain services
 
-&emsp;&emsp;&emsp;Practice expense relative value units for a procedure performed in an office or in a setting out of an office shall not be reduced under clause (i) if the in-office or out-of-office practice expense relative value, respectively, for the procedure would increase under the proposed rule on resource-based practice expenses issued by the Secretary on June 18, 1997 (62 Federal Register 33158 et seq.).
+&emsp;&emsp;&emsp;Practice expense relative value units for a procedure performed in an office or in asetting out of an office shall not be reduced under clause (i) if the in-office or out-of-office practice expense relative value, respectively, for the procedure would increase under the proposed rule on resource-based practice expenses issued by the Secretary on June 18, 1997 (62 Federal Register 33158 et seq.).
 
 #### (3) Component percentages
 
@@ -340,7 +340,7 @@
 
 #### (C) Special rules for 1998
 
-&emsp;&emsp;Except as provided in subparagraph (D), the single conversion factor for 1998 underthis subsection shall be the conversion factor for primary care services for 1997, increased by the Secretary's estimate of the weighted average of the three separate updates that would otherwise occur were it not for the enactment of chapter 1 of subtitle F of title IV of the Balanced Budget Act of 1997.
+&emsp;&emsp;Except as provided in subparagraph (D), the single conversion factor for 1998 under this subsection shall be the conversion factor for primary care services for 1997, increased by the Secretary's estimate of the weighted average of the three separate updates that would otherwise occur were it not for the enactment of chapter 1 of subtitle F of title IV of the Balanced Budget Act of 1997.
 
 #### (D) Special rules for anesthesia services
 
@@ -414,7 +414,7 @@
 
 #### (C) Periodic review and adjustments in geographic adjustment factors
 
-&emsp;&emsp;The Secretary, not less often than every 3 years, shall, in consultation with appropriate representatives of physicians, review the indices established under subparagraph (A) and the geographic index values applied under this subsection for all fee schedule areas. Based on such review, the Secretary may revise such index and adjust such index values, except that, if more than 1 year has elasped <sup>1</sup> since the date of the last previous adjustment, the adjustment to be applied in the first year of the next adjustment shall be 1/2 of the adjustment that otherwise would be made.
+&emsp;&emsp;The Secretary, not less often than every 3 years, shall, in consultation with appropriate representatives of physicians, review the indices established under subparagraph (A) and the geographic index values applied under this subsection for all fee schedule areas. Based on such review, the Secretary may revise such index and adjust such indexvalues, except that, if more than 1 year has elasped <sup>1</sup> since the date of the last previous adjustment, the adjustment to be applied in the first year of the next adjustment shall be 1/2 of the adjustment that otherwise would be made.
 
 #### (D) Use of recent data
 
@@ -486,7 +486,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a nonparticipating physician or nonparticipating supplier or other person (as defined in section 1395u(i)(2) of this title) who does not accept payment on an assignment-related basis for a physician's service furnished with respect to an individual enrolled under this part, the following rules apply:
+&emsp;&emsp;In the case of a nonparticipating physician or nonparticipating supplier or other person\(as defined in section 1395u(i)(2) of this title) who does not accept payment on an assignment-related basis for a physician's service furnished with respect to an individual enrolled under this part, the following rules apply:
 
 #### (i) Application of limiting charge
 
@@ -550,7 +550,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment for physicians’ services furnished on or after April 1, 1990, to an individual who is enrolled under this part and eligible for any medical assistance (including as a qualified medicare beneficiary, as defined in section 1396d(p)(1) of this title) with respect to such services under a State plan approved under subchapter XIX of this chapter may only be made on an assignment-related basis and the provisions of section 1396a(n)(3)(A) of this title apply to further limit permissible charges under this section.
+&emsp;&emsp;Payment for physicians’ services furnished on or after April 1, 1990, to an individual who is enrolled under this part and eligible for any medical assistance (including as a qualified medicare beneficiary, as defined in section 1396d(p)(1) of this title) with respect to such services under a State plan approvedunder subchapter XIX of this chapter may only be made on an assignment-related basis and the provisions of section 1396a(n)(3)(A) of this title apply to further limit permissible charges under this section.
 
 #### (B) Penalty
 
@@ -608,7 +608,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall by not later than April 15,<sup>2</sup> of each year (beginning with 1991)report to the Congress on the changes described in subparagraph (A)(i) and shall include in the report an examination of the factors (including factors relating to different services and specific categories and groups of services and geographic and demographic variations in utilization) which may contribute to such changes.
+&emsp;&emsp;The Secretary shall by not later than April 15,<sup>2</sup> of each year (beginning with 1991) report to the Congress on the changes described in subparagraph (A)(i) and shall include in the report an examination of the factors (including factors relating to different services and specific categories and groups of services and geographic and demographic variations in utilization) which may contribute to such changes.
 
 #### (C) Recommendations
 
@@ -680,13 +680,13 @@ In this section:
 
 #### (3) Physicians’ services
 
-&emsp;The term “physicians’ services” includes items and services described in paragraphs (1),\(2)(A), (2)(D), (2)(G), (2)(R) (with respect to services described in subparagraphs (B), (C), and (D) of section 1395x(pp)(1) of this title), (2)(S), (3), (4), (14) (with respect to services described in section 1395x(nn)(2) of this title) <sup>4</sup> and (15) of section 1395x(s) of this title (other than clinical diagnostic laboratory tests and, except for purposes of subsections (a)(3), (g), and (h) of this section <sup>4</sup> such other items and services as the Secretary may specify).
+&emsp;The term “physicians’ services” includes items and services described in paragraphs (1), (2)(A), (2)(D), (2)(G), (2)(R) (with respect to services described in subparagraphs (B), (C), and (D) of section 1395x(pp)(1) of this title), (2)(S), (3), (4), (14) (with respect to services described in section 1395x(nn)(2) of this title) <sup>4</sup> and (15) of section 1395x(s) of this title (other than clinical diagnostic laboratory tests and, except for purposes of subsections (a)(3), (g), and (h) of this section <sup>4</sup> such other items and services as the Secretary may specify).
 
 #### (4) Practice expenses
 
-&emsp;The term “practice expenses” includes all expenses for furnishing physicians’ services, excluding malpractice expenses, physician compensation, and other physician fringe benefits.
+&emsp;The term “practice expenses” includes all expenses for furnishing physicians’ services,excluding malpractice expenses, physician compensation, and other physician fringe benefits.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Dec. 19, 1989, Pub. L. 101–239, title VI, §6102(a), 103 Stat. 2169; amended Nov. 5, 1990, Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), 107 Stat. 580–583, 585, 586; Oct. 31, 1994, Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), 108 Stat. 4409, 4410, 4412, 4415, 4416; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), 111 Stat. 354, 355, 361, 362, 365, 366, 368, 432–437, 488, 510.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1848, as added Pub. L. 101–239, title VI, §6102(a), Dec. 19, 1989, 103 Stat. 2169; amended Pub. L. 101–508, title IV, §§4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, 104 Stat. 1388–56, 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; Pub. L. 103–66, title XIII, §§13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, 107 Stat. 580–583, 585, 586; Pub. L. 103–432, title I, §§121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, 108 Stat. 4409, 4410, 4412, 4415, 4416; Pub. L. 105–33, title IV, §§4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, 111 Stat. 354, 355, 361, 362, 365, 366, 368, 432–437, 488, 510.)
 
 #### Amendment of Subsection (j)(3)
 
@@ -750,7 +750,7 @@ Subsec. (f). Pub. L. 105–33, §4503(b), amended subsec. heading and heading an
 
 Subsec. (f)(1)(B). Pub. L. 105–33, §4022(b)(2)(B)(ii), struck out heading and text of subpar. (B). Text read as follows: “The Physician Payment Review Commission shall review the recommendation transmitted during a year under subparagraph (A) and shall make its recommendation to Congress, by not later than May 15 of the year, respecting the performance standard rates of increase for the fiscal year beginning in that year.”
 
-Subsec. (f)(2). Pub. L. 105–33, §4503(a), added par. (2) and struck out heading and text of former par. (2) which related to specification of performance standard rates of increase for physician services for fiscal years beginning in 1991.
+Subsec. (f)(2). Pub. L. 105–33, §4503(a), added par. (2) and struck out heading and text of former par. (2)which related to specification of performance standard rates of increase for physician services for fiscal years beginning in 1991.
 
 Subsec. (f)(3). Pub. L. 105–33, §4503(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall establish procedures for providing, on a quarterly basis to the the Congressional Budget Office, the Congressional Research Service, the Committees on Ways and Means and Energy and Commerce of the House of Representatives, and the Committee on Finance of the Senate, information on compliance with performance standard rates of increase established under this subsection.”
 
@@ -806,7 +806,7 @@ Subsec. (a)(4). Pub. L. 103–66, §13516(a)(1), added par. (4).
 
 Pub. L. 103–66, §13515(a)(1), struck out heading and text of par. (4). Text read as follows: “In the case of physicians’ services furnished by a physician before the end of the physician's first full calendar year of furnishing services for which payment may be made under this part, and during each of the 3 succeeding years, the fee schedule amount to be applied shall be 80 percent, 85 percent, 90 percent, and 95 percent, respectively, of the fee schedule amount applicable to physicians who are not subject to this paragraph. The preceding sentence shall not apply to primary care services or services furnished in a rural area (as defined in section 1395ww(d)(2) of this title) that is designated under section 249(a)(1)(A) of this title as a health manpower shortage area.”
 
-Subsec. (b)(3). Pub. L. 103–66, §13514(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “If payment is made under this part for a visit to a physician or consultation with aphysician and, as part of or in conjunction with the visit or consultation there is an electrocardiogram performed or ordered to be performed, no payment may be made under this part with respect to the interpretation of the electrocardiogram and no physician may bill an individual enrolled under this part separately for such an interpretation. If a physician knowingly and willfully bills one or more individuals in violation of the previous sentence, the Secretary may apply sanctions against the physician or entity in accordance with section 1395u(j)(2) of this title.”
+Subsec. (b)(3). Pub. L. 103–66, §13514(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “If payment is made under this part for a visit to a physician or consultation with a physician and, as part of or in conjunction with the visit or consultation there is an electrocardiogram performed or ordered to be performed, no payment may be made under this part with respect to the interpretation of the electrocardiogram and no physician may bill an individual enrolled under this part separately for such an interpretation. If a physician knowingly and willfully bills one or more individuals in violation of the previous sentence, the Secretary may apply sanctions against the physician or entity in accordance with section 1395u(j)(2) of this title.”
 
 Subsec. (c)(2)(A)(i). Pub. L. 103–66, §13515(c)(2), inserted before period at end “and section 13515(b) of the Omnibus Budget Reconciliation Act of 1993”.
 
@@ -1064,7 +1064,7 @@ Report.—The Secretary shall transmit a report by June 30, 1996, on the methodo
 
 #### Application of Subsection (c)(2)(B)(ii)(II), (iii)
 
-Section 121(b)(3) of Pub. L. 103–432 provided that: “In implementing the amendment made by paragraph (1)(C) \[amending this section\], the provisions of clauses (ii)(II) and (iii) of section 1848(c)(2)(B) of the Social Security Act \[subsec. (c)(2)(B)(ii)(II), (iii) of this section\] shall apply in the same manner as they apply to adjustments under clause (ii)(I) of such section.”
+Section 121(b)(3) of Pub. L. 103–432 provided that: “In implementing the amendment made by paragraph (1)(C)\[amending this section\], the provisions of clauses (ii)(II) and (iii) of section 1848(c)(2)(B) of the Social Security Act \[subsec. (c)(2)(B)(ii)(II), (iii) of this section\] shall apply in the same manner as they apply to adjustments under clause (ii)(I) of such section.”
 
 #### Report on Review Process
 
@@ -1120,7 +1120,7 @@ Study.—The Secretary of Health and Human Services shall conduct a study of—
 
 &emsp;“(2) the extent to which the geographic practice cost indices applied under the fee schedule established under section 1848 of the Social Security Act \[this section\] accurately reflect variations in practice costs and malpractice costs (and alternative sources of information upon which to base such indices);
 
-&emsp;“(3) the impact of the transition to a national, resource-based fee schedule for physicians’ servicesunder Medicare on access to physicians’ services in areas that experience a disproportionately large reduction in payments for physicians’ services under the fee schedule by reason of such variations; and
+&emsp;“(3) the impact of the transition to a national, resource-based fee schedule for physicians’ services under Medicare on access to physicians’ services in areas that experience a disproportionately large reduction in payments for physicians’ services under the fee schedule by reason of such variations; and
 
 &emsp;“(4) appropriate adjustments or modifications in the transition to, or manner of determining payments under, the fee schedule established under section 1848 of the Social Security Act, to compensate for such variations and ensure continued access to physicians’ services for Medicare beneficiaries in such areas.
 
@@ -1140,7 +1140,7 @@ Section 4117 of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §1
 
 #### Studies
 
-Section 6102(d) of Pub. L. 101–239, as amended by Pub. L. 103–432, title I, §126(h)(1), Oct. 31, 1994, 108 Stat. 4416, provided that:
+Pub. L. 101–239, title VI, §6102(d), Dec. 19, 1989, 103 Stat. 2185, as amended by Pub. L. 103–432, title I, §126(h)(1), Oct. 31, 1994, 108 Stat. 4416; Pub. L. 105–362, title VI, §601(b)(5), Nov. 10, 1998, 112 Stat. 3286, provided that:
 
 “(1)
 
@@ -1168,9 +1168,7 @@ Study of volume performance standard rates of increase by geography, specialty, 
 
 > Such study shall also include the scope of services included within, or excluded from, the rate of increase in expenditure system. By not later than July 1, 1990, the Secretary shall submit a report to Congress on such study and shall include in the report such recommendations respecting the feasibility of establishing separate performance standard rates of increase in expenditures as the Secretary deems appropriate.
 
-“(4)
-
-HHS visit code modification study.—The Secretary shall conduct a study of the desirability of including time as a factor in establishing visit codes.
+“\[(4) Repealed. Pub. L. 105–362, title VI, §601(b)(5), Nov. 10, 1998, 112 Stat. 3286.\]
 
 “(5)
 
@@ -1200,11 +1198,11 @@ Commission study of payment for non-physician providers of medicare services.—
 
 “(8)
 
-Commission study of physician fees under medicaid.—The Physician Payment Review Commission shall conduct a study on physician fees under Statemedicaid programs established under title XIX of the Social Security Act \[subchapter XIX of this chapter\]. The Commission shall specifically examine in such study the adequacy of physician reimbursement under such programs, physician participation in such programs, and access to care by medicaid beneficiaries. By no later than July 1, 1991, the Commission shall submit a report to Congress on such study and shall include such recommendations as the Commission deems appropriate.
+Commission study of physician fees under medicaid.—The Physician Payment Review Commission shall conduct a study on physician fees under State medicaid programs established under title XIX of the Social Security Act \[subchapter XIX of this chapter\]. The Commission shall specifically examine in such study the adequacy of physician reimbursement under such programs, physician participation in such programs, and access to care by medicaid beneficiaries. By no later than July 1, 1991, the Commission shall submit a report to Congress on such study and shall include such recommendations as the Commission deems appropriate.
 
 “(9)
 
-GAO study on physician anti-trust issues.—The Comptroller General shall conduct a study of the effect of anti-trust laws on the ability of physicians to act in groups to educate and discipline peers of such physicians in order to reduce and eliminate ineffective practice patterns and inappropriate utilization. The study shall further address anti-trust issues as they relate to the adoption of practice guidelines by third-party payers and the role that practice guidelines might play as a defense in malpractice cases. By no later than July 1, 1991, the Comptroller General shall submit a report to Congress on such study and shall make such recommendations as the Comptroller General deems appropriate.”
+GAO study on physician anti-trust issues.—The Comptroller General shall conduct a study of the effect of anti-trust laws on the ability of physicians toact in groups to educate and discipline peers of such physicians in order to reduce and eliminate ineffective practice patterns and inappropriate utilization. The study shall further address anti-trust issues as they relate to the adoption of practice guidelines by third-party payers and the role that practice guidelines might play as a defense in malpractice cases. By no later than July 1, 1991, the Comptroller General shall submit a report to Congress on such study and shall make such recommendations as the Comptroller General deems appropriate.”
 
 \[Section 126(h)(1) of Pub. L. 103–432 provided that the amendment made by that section to section 6102(d) of Pub. L. 101–239, set out above, is effective Oct. 31, 1994.\]
 

@@ -16,7 +16,7 @@ The Center shall make such deductions and withholdings from the pay of an indivi
 
 The Center shall—
 
-&emsp;(1) maintain records on all employees covered under this section in such manner as theSecretary of the Senate may require for administrative purposes; and
+&emsp;(1) maintain records on all employees covered under this section in such manner as the Secretary of the Senate may require for administrative purposes; and
 
 &emsp;(2) after consultation with the Secretary of the Senate—
 

@@ -38,7 +38,7 @@ As used in this chapter—
 
 &emsp;&emsp;(ii) the conversion of any facility to a biomass energy project; or
 
-&emsp;&emsp;(iii) the expansion or improvement of any biomass energy project which increases thecapacity or efficiency of that facility to produce biomass energy.
+&emsp;&emsp;(iii) the expansion or improvement of any biomass energy project which increases the capacity or efficiency of that facility to produce biomass energy.
 
 &emsp;(B) Such term includes—
 

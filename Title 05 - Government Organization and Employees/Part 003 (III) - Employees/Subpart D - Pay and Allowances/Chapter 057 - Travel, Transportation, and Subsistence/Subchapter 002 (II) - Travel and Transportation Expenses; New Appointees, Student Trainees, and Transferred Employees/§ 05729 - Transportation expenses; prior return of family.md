@@ -1,12 +1,12 @@
 ### §5729. Transportation expenses; prior return of family
 
-(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations, not more than once before the return to the United States or its territories or possessions of an employee whose post of duty is outside the continental United States, the expenses of transporting his immediate family and of shipping his household goods and personal effects from his post of duty to his actual place of residence when—
+(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations, not more than once before the return to the United States of an employee whose post of duty is outside the continental United States, the expenses of transporting his immediate family and of shipping his household goods and personal effects from his post of duty to his actual place of residence when—
 
 &emsp;(1) he has acquired eligibility for that transportation; or
 
 &emsp;(2) the public interest requires the return of the immediate family for compelling personal reasons of a humanitarian or compassionate nature, such as may involve physical or mental health, death of a member of the immediate family, or obligation imposed by authority or circumstances over which the individual has no control.
 
-(b) Under regulations prescribed under section 5738 of this title, an agency shall reimburse from its appropriations an employee whose post of duty is outside the continental United States for the proper transportation expenses of returning his immediate family and his household goods and personal effects to the United States or its territories or possessions, when—
+(b) Under regulations prescribed under section 5738 of this title, an agency shall reimburse from its appropriations an employee whose post of duty is outside the continental United States for the proper transportation expenses of returning his immediate family and his household goods and personal effects to the United States, when—
 
 &emsp;(1) their return was made at the expense of the employee before his return and for other than reasons of public interest; and
 
@@ -14,7 +14,7 @@
 
 (c) This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), Sept. 23, 1996, 110 Stat. 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, §6(9), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,8 @@ The first 14 words of subsections (a) and (b), and subsection (c), are added on 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1998—Subsecs. (a), (b). Pub. L. 105–264 struck out “or its territories or possessions” after “to the United States”.
 
 1996—Subsecs. (a), (b). Pub. L. 104–201 substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 

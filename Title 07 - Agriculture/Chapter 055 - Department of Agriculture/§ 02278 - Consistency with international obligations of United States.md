@@ -6,7 +6,7 @@ Prior to the promulgation of, or amendment to, any order or plan under a researc
 
 #### (b) Compliance with U.S. international obligations
 
-The Secretary of Agriculture shall take all steps necessary and appropriate to ensure that any order or plan or amendment to such order or plan, and the implementation and enforcement of any order or plan or amendment to such order or plan, or program as it relates to imports is nondiscriminatory and in compliance with the international obligations of the United States, as interpreted by the United States Trade Representative.
+The Secretary of Agriculture shall take all steps necessary and appropriate to ensure that any order or plan or amendment to such order or plan, and the implementation and enforcement of any order or plan or amendment to such orderor plan, or program as it relates to imports is nondiscriminatory and in compliance with the international obligations of the United States, as interpreted by the United States Trade Representative.
 
 #### (c) Construction
 

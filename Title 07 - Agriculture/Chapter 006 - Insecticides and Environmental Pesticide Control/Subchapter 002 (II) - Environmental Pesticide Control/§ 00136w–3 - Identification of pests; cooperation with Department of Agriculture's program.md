@@ -34,7 +34,7 @@ The Administrator, in cooperation with the Secretary of Agriculture, shall devel
 
 The Administrator, in coordination with the Secretary of Agriculture and the Secretary of Health and Human Services, shall identify pests of significant public health importance and, in coordination with the Public Health Service, develop and implement programs to improve and facilitate the safe and necessary use of chemical, biological, and other methods to combat and control such pests of public health importance.
 
-(June 25, 1947, ch. 125, §28, as added Sept. 30, 1978, Pub. L. 95–396, §24(2), 92 Stat. 838; amended Nov. 28, 1990, Pub. L. 101–624, title XIV, §1495, 104 Stat. 3629; Apr. 4, 1996, Pub. L. 104–127, title VIII, §862(b)(1), 110 Stat. 1174; Aug. 3, 1996, Pub. L. 104–170, title II, §236, 110 Stat. 1509.)
+(June 25, 1947, ch. 125, §28, as added Pub. L. 95–396, §24(2), Sept. 30, 1978, 92 Stat. 838; amended Pub. L. 101–624, title XIV, §1495, Nov. 28, 1990, 104 Stat. 3629; Pub. L. 104–127, title VIII, §862(b)(1), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 104–170, title II, §236, Aug. 3, 1996, 110 Stat. 1509.)
 
 #### Amendments
 

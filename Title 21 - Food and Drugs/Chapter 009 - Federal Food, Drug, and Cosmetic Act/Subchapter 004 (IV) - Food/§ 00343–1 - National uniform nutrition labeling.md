@@ -6,7 +6,7 @@
 
 &emsp;(2) any requirement for the labeling of food of the type required by section 343(c), 343(e), or 343(i)(2) of this title that is not identical to the requirement of such section, except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(c) of this title and that is applicable to maple syrup,
 
-&emsp;(3) any requirement for the labeling of food of the type required by section 343(b), 343(d), 343(f), 343(h), 343(i)(1), or 343(k) of this title that is not identical to the requirement of such section, except that this paragraph doesnot apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(h)(1) of this title and that is applicable to maple syrup,
+&emsp;(3) any requirement for the labeling of food of the type required by section 343(b), 343(d), 343(f), 343(h), 343(i)(1), or 343(k) of this title that is not identical to the requirement of such section, except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(h)(1) of this title and that is applicable to maple syrup,
 
 &emsp;(4) any requirement for nutrition labeling of food that is not identical to the requirement of section 343(q) of this title, except a requirement for nutrition labeling of food which is exempt under subclause (i) or (ii) of section 343(q)(5)(A) of this title, or
 

@@ -1,6 +1,6 @@
 ### §1826. Recalcitrant witnesses
 
-(a) Whenever a witness in any proceeding before or ancillary to any court or grand jury of the United States refuses without just cause shown to comply with an order of the court to testify or provide other information, including any book, paper, document, record, recording or other material, the court, upon such refusal, orwhen such refusal is duly brought to its attention, may summarily order his confinement at a suitable place until such time as the witness is willing to give such testimony or provide such information. No period of such confinement shall exceed the life of—
+(a) Whenever a witness in any proceeding before or ancillary to any court or grand jury of the United States refuses without just cause shown to comply with an order of the court to testify or provide other information, including any book, paper, document, record, recording or other material, the court, upon such refusal, or when such refusal is duly brought to its attention, may summarily order his confinement at a suitable place until such time as the witness is willing to give such testimony or provide such information. No period of such confinement shall exceed the life of—
 
 &emsp;(1) the court proceeding, or
 
@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–473 added subsec. (c).
+1984—Subsec. (c). Pub. L. 98–473 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

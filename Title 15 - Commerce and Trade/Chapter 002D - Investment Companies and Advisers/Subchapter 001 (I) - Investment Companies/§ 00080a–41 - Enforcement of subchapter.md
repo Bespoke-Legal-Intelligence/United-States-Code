@@ -6,7 +6,7 @@ The Commission may make such investigations as it deems necessary to determine w
 
 #### (b) Administration of oaths and affirmations, subpena of witnesses, etc.
 
-For the purpose of any investigation or any other proceeding under this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which are relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in any State or in any Territory or other place subject to the jurisdiction of the United States at any designated place of hearing.
+For the purpose of any investigation or any other proceeding under this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administeroaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which are relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in any State or in any Territory or other place subject to the jurisdiction of the United States at any designated place of hearing.
 
 #### (c) Jurisdiction of courts of United States
 
@@ -60,9 +60,9 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (4) Special provisions relating to a violation of a cease-and-desist order
 
-&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant tosection 80a–9(f) of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
+&emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 
-(Aug. 22, 1940, ch. 686, title I, §42, 54 Stat. 842; Oct. 15, 1970, Pub. L. 91–452, title II, §215, 84 Stat. 929; Dec. 4, 1987, Pub. L. 100–181, title VI, §623, 101 Stat. 1262; Oct. 15, 1990, Pub. L. 101–429, title III, §302, 104 Stat. 945.)
+(Aug. 22, 1940, ch. 686, title I, §42, 54 Stat. 842; Pub. L. 91–452, title II, §215, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VI, §623, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 101–429, title III, §302, Oct. 15, 1990, 104 Stat. 945.)
 
 #### Amendments
 

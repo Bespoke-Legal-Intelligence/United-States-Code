@@ -1,0 +1,24 @@
+### §220309. Duty to maintain corporate status
+
+The corporation shall maintain its status as a corporation incorporated under the laws of the District of Columbia or a State.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1465.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+220309
+
+36:1216 (last sentence).
+
+Oct. 20, 1978, Pub. L. 95–493, §16 (last sentence), 92 Stat. 1647.
+
+The word “retain” is omitted as unnecessary.
+

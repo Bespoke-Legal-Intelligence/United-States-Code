@@ -32,9 +32,9 @@
 
 (D) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a State regulation which has been granted a waiver by the Secretary. The Secretary may grant a waiver pursuant to the terms, conditions, criteria, procedures, and other requirements specified in section 6297(d) of this title.
 
-(c) With respect to any electric motor to which standards are applicable under section 6313(b) of this title, the Secretary shall require manufacturers to certify, through an independent testing or certification program nationally recognized in the United States, that such motor meets the applicable.<sup>2</sup>
+(c) With respect to any electric motor to which standards are applicable under section 6313(b) of this title, the Secretary shall require manufacturers to certify, through an independent testing or certification program nationally recognized in the United States, that such motor meets the applicable standard.
 
-(Pub. L. 94–163, title III, §345, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §122(e), Oct. 24, 1992, 106 Stat. 2815.)
+(Pub. L. 94–163, title III, §345, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §122(e), Oct. 24, 1992, 106 Stat. 2815; Pub. L. 105–388, §5(a)(7), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ The Energy Policy Act of 1992, referred to in subsec. (a)(5), (6), is Pub. L. 10
 The National Appliance Energy Conservation Amendments of 1988, referred to in subsec. (a)(6), is Pub. L. 100–357, June 28, 1988, 102 Stat. 671. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (c). Pub. L. 105–388 inserted “standard” after “meets the applicable”.
 
 1992—Pub. L. 102–486, §122(e)(3), substituted “enforcement, and preemption” for “and enforcement” in section catchline.
 
@@ -57,6 +59,4 @@ Subsec. (a)(5) to (8). Pub. L. 102–486, §122(e)(1)(C)–(E), added pars. (5) 
 Subsecs. (b), (c). Pub. L. 102–486, §122(e)(2), added subsecs. (b) and (c).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

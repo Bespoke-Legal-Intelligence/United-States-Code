@@ -8,15 +8,79 @@ The Congress finds the following:
 
 &emsp;(3) Further research and development, expanded educational programs, improved computer research networks, and more effective technology transfer from government to industry are necessary for the United States to reap fully the benefits of high-performance computing.
 
-&emsp;(4) A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.
+&emsp;(4) A high-capacity, flexible, high-speed national research and education computer network is needed to provide researchers and educators with access to computational and information resources, act as a test bed for further research and development for high-capacity and high-speed computer networks, and provide researchers the necessary vehicle for continued network technology improvement through research.
 
 &emsp;(5) Several Federal agencies have ongoing high-performance computing programs, but improved long-term interagency coordination, cooperation, and planning would enhance the effectiveness of these programs.
 
 &emsp;(6) A 1991 report entitled “Grand Challenges: High-Performance Computing and Communications” by the Office of Science and Technology Policy, outlining a research and development strategy for high-performance computing, provides a framework for a multiagency high-performance computing program. Such a program would provide American researchers and educators with the computer and information resources they need, and demonstrate how advanced computers, high-capacity and high-speed networks, and electronic data bases can improve the national information infrastructure for use by all Americans.
 
-(Pub. L. 102–194, §2, Dec. 9, 1991, 105 Stat. 1594.)
+&emsp;(7) Additional research must be undertaken to lay the foundation for the development of new applications that can result in economic growth, improved health care, and improved educational opportunities.
+
+&emsp;(8) Research in new networking technologies holds the promise of easing the economic burdens of information access disproportionately borne by rural users of the Internet.
+
+&emsp;(9) Information security is an important part of computing, information, and communications systems and applications, and research into security architectures is a critical aspect of computing, information, and communications research programs.
+
+(Pub. L. 102–194, §2, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, §2(b), Oct. 28, 1998, 112 Stat. 2919.)
+
+#### Amendments
+
+1998—Par. (4). Pub. L. 105–305, §2(b)(1), added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
+
+Pars. (7) to (9). Pub. L. 105–305, §2(b)(2), added pars. (7) to (9).
+
+#### Short Title of 1998 Amendment
+
+Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act \[enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 102–194 provided that: “This Act \[enacting this chapter\] may be cited as the ‘High-Performance Computing Act of 1991’.”
+
+#### Congressional Findings
+
+Pub. L. 105–305, §2(a), Oct. 28, 1998, 112 Stat. 2919, provided that: “The Congress finds that—
+
+&emsp;“(1) United States leadership in science and technology has been vital to the Nation's prosperity, national and economic security, and international competitiveness, and there is every reason to believe that maintaining this tradition will lead to long-term continuation of United States strategic advantages in information technology;
+
+&emsp;“(2) the United States investment in science and technology has yielded a scientific and engineering enterprise without peer, and that Federal investment in research is critical to the maintenance of United States leadership;
+
+&emsp;“(3) previous Federal investment in computer networking technology and related fields has resulted in the creation of new industries and new jobs in the United States;
+
+&emsp;“(4) the Internet is playing an increasingly important role in keeping citizens informed of the actions of their government; and
+
+&emsp;“(5) continued inter-agency cooperation is necessary to avoid wasteful duplication in Federal networking research and development programs.”
+
+#### Purposes
+
+Pub. L. 105–305, §3(a), Oct. 28, 1998, 112 Stat. 2920, provided that: “The purposes of this Act \[see Short Title of 1998 Amendment note above\] are—
+
+&emsp;“(1) to authorize, through the High-Performance Computing Act of 1991 (15 U.S.C. 5501 et seq.), research programs related to—
+
+&emsp;&emsp;“(A) high-end computing and computation;
+
+&emsp;&emsp;“(B) human-centered systems;
+
+&emsp;&emsp;“(C) high confidence systems; and
+
+&emsp;&emsp;“(D) education, training, and human resources; and
+
+&emsp;“(2) to provide, through the High-Performance Computing Act of 1991 (15 U.S.C. 5501 et seq.), for the development and coordination of a comprehensive and integrated United States research program which will—
+
+&emsp;&emsp;“(A) focus on the research and development of a coordinated set of technologies that seeks to create a network infrastructure that can support greater speed, robustness, and flexibility than is currently available and promote connectivity and interoperability among advanced computer networks of Federal agencies and departments;
+
+&emsp;&emsp;“(B) focus on research in technology that may result in high-speed data access for users that is both economically viable and does not impose a geographic penalty; and
+
+&emsp;&emsp;“(C) encourage researchers to pursue approaches to networking technology that lead to maximally flexible and extensible solutions wherever feasible.”
+
+#### Definitions
+
+Pub. L. 105–305, §7(a), Oct. 28, 1998, 112 Stat. 2924, provided that: “For purposes of this Act \[see Short Title of 1998 Amendment note above\]—
+
+&emsp;“(1)
+
+Geographic penalty.—The term ‘geographic penalty’ means the imposition of costs on users of the Internet in rural or other locations, attributable to the distance of the user from network facilities, the low population density of the area in which the user is located, or other factors, that are disproportionately greater than the costs imposed on users in locations closer to such facilities or on users in locations with significantly greater population density.
+
+&emsp;“(2)
+
+Internet.—The term ‘Internet’ means the international computer network of both Federal and non-Federal interoperable packet switched data networks.”
 

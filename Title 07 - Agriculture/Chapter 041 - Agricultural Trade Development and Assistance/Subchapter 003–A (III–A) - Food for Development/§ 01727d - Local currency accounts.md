@@ -2,7 +2,7 @@
 
 #### (a) Retention of proceeds
 
-To the extent determined to be appropriate by the Administrator, revenues generated from the sale, under section 1727c(2) of this title, of agricultural commodities provided under this subchapter shall be deposited into a separate account (that may be interest bearing) in the recipient country to be disbursed for the benefit of such country in accordance with local currency agreements entered into between the recipient country and the Administrator. The Administrator may determine not to deposit such revenues in a separate account if—
+To the extent determined to be appropriate by the Administrator, revenues generated from thesale, under section 1727c(2) of this title, of agricultural commodities provided under this subchapter shall be deposited into a separate account (that may be interest bearing) in the recipient country to be disbursed for the benefit of such country in accordance with local currency agreements entered into between the recipient country and the Administrator. The Administrator may determine not to deposit such revenues in a separate account if—
 
 &emsp;(1) local currencies are to be programmed for specific economic development purposes listed in section 1727e(a) of this title; and
 
@@ -16,7 +16,7 @@ The proceeds of sales pursuant to section 1727c(2) of this title shall be the pr
 
 The Administrator shall consider the local currency proceeds as an integral part of the overall development strategy of the Agency for International Development and the recipient country.
 
-(July 10, 1954, ch. 469, title III, §305, as added Aug. 3, 1977, Pub. L. 95–88, title II, §211(a)(2), 91 Stat. 550; amended Oct. 6, 1978, Pub. L. 95–424, title II, §203, 92 Stat. 955; Aug. 14, 1979 Pub. L. 96–53, title II, §§204(b), 206, 93 Stat. 369; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3643.)
+(July 10, 1954, ch. 469, title III, §305, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 95–424, title II, §203, Oct. 6, 1978, 92 Stat. 955; Pub. L. 96–53, title II, §§204(b), 206, Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3643.)
 
 #### Prior Provisions
 
@@ -24,7 +24,7 @@ A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enac
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursementsshall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
 
 1979—Subsec. (a). Pub. L. 96–53, §206, inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under section 1727c(a) of this title.
 

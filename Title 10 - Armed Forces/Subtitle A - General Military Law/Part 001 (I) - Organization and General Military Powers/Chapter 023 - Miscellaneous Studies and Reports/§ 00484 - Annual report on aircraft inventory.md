@@ -38,7 +38,7 @@ Content.—The report shall set forth, in accordance with subsection (c), the fo
 
 (c)
 
-Display of Information.—The report shall specify the information required by subsection (b) separately for the active component of each armed force and for each reserve component of each armed force and, within the informationset forth for each such component, shall specify the information separately for each type, model, and series of aircraft provided for in the future-years defense program submitted to Congress.
+Display of Information.—The report shall specify the information required by subsection (b) separately for the active component of each armed force and for each reserve component of each armed force and, within the information set forth for each such component, shall specify the information separately for each type, model, and series of aircraft provided for in the future-years defense program submitted to Congress.
 
 (Added Pub. L. 105–85, div. A, title III, §324(a)(1), Nov. 18, 1997, 111 Stat. 1677.)
 

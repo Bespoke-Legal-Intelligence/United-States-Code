@@ -1,0 +1,34 @@
+### §4904. Notification upon cancellation or termination
+
+#### (a) In general
+
+Not later than 30 days after the date of cancellation or termination of a private mortgage insurance requirement in accordance with this chapter, the servicer shall notify the mortgagor in writing—
+
+&emsp;(1) that the private mortgage insurance has terminated and that the mortgagor no longer has private mortgage insurance; and
+
+&emsp;(2) that no further premiums, payments, or other fees shall be due or payable by the mortgagor in connection with the private mortgage insurance.
+
+#### (b) Notice of grounds
+
+#### (1) In general
+
+&emsp;If a servicer determines that a mortgage did not meet the requirements for termination or cancellation of private mortgage insurance under subsection (a) or (b) of section 4902 of this title, the servicer shall provide written notice to the mortgagor of the grounds relied on to make the determination (including the results of any appraisal used to make the determination).
+
+#### (2) Timing
+
+&emsp;Notice required by paragraph (1) shall be provided—
+
+&emsp;&emsp;(A) with respect to cancellation of private mortgage insurance under section 4902(a) of this title, not later than 30 days after the later of—
+
+&emsp;&emsp;&emsp;(i) the date on which a request is received under section 4902(a)(1) of this title; or
+
+&emsp;&emsp;&emsp;(ii) the date on which the mortgagor satisfies any evidence and certification requirements under section 4902(a)(3) of this title; and
+
+&emsp;&emsp;(B) with respect to termination of private mortgage insurance under section 4902(b) of this title, not later than 30 days after the scheduled termination date.
+
+(Pub. L. 105–216, §5, July 29, 1998, 112 Stat. 903.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 4905 of this title.
+

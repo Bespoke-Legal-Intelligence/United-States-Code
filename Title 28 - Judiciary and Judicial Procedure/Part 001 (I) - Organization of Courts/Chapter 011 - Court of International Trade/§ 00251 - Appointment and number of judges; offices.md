@@ -24,15 +24,15 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court.”
+1996—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court.”
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted “appointed” before “shall be”.
+1980—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted “appointed” before “shall be”.
 
 Subsec. (b). Pub. L. 96–417 added subsec. (b) and struck out a second paragraph requiring the President to designate from time to time one of the judges to act as chief judge.
 
 Subsec. (c). Pub. L. 96–417 designated third par. as subsec. (c) and substituted “Court of International Trade” for “court” and “located in New York, New York” for “located at the port of New York”.
 
-<b>1956</b>—Act July 14, 1956, declared the Customs Court to be a court established under article III of the Constitution of the United States.
+1956—Act July 14, 1956, declared the Customs Court to be a court established under article III of the Constitution of the United States.
 
 #### Effective Date of 1980 Amendment
 

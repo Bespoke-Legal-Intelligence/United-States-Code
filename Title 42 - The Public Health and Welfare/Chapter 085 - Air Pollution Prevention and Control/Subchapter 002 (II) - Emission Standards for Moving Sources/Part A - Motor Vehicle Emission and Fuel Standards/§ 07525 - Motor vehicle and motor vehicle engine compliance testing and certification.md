@@ -24,7 +24,7 @@
 
 (B)(i) At the request of any manufacturer the Administrator shall grant such manufacturer a hearing as to whether the tests have been properly conducted or any sampling methods have been properly applied, and make a determination on the record with respect to any suspension or revocation under subparagraph (A); but suspension or revocation under subparagraph (A) shall not be stayed by reason of such hearing.
 
-(ii) In any case of actual controversy as to the validity of any determination under clause (i), the manufacturer may at any time prior to the 60th day after such determination is made file a petition with the United States court of appeals for the circuit wherein such manufacturer resides or has his principal place of business for a judicial review of such determination. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Administrator or other officer designated by him for that purpose. The Administrator thereupon shall file in the court the record of the proceedings on which the Administrator based his determination, as provided in section 2112 of title 28.
+(ii) In any case of actual controversy as to the validity of any determination under clause (i), the manufacturer may at any time prior to the 60th day after such determination is made file a petition with the United States court of appealsfor the circuit wherein such manufacturer resides or has his principal place of business for a judicial review of such determination. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Administrator or other officer designated by him for that purpose. The Administrator thereupon shall file in the court the record of the proceedings on which the Administrator based his determination, as provided in section 2112 of title 28.
 
 (iii) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Administrator, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Administrator, in such manner and upon such terms and conditions as the court may deem proper. The Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken and he shall file such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original determination, with the return of such additional evidence.
 
@@ -48,7 +48,7 @@ All light duty <sup>1</sup> vehicles and engines manufactured during or after m
 
 #### (g) Nonconformance penalty
 
-(1) In the case of any class or category of heavy-duty vehicles or engines to which a standard promulgated under section 7521(a) of this title applies, except as provided in paragraph (2), a certificate of conformity shall be issued under subsection (a) of this section and shall not be suspended or revoked under subsection (b) of this section for such vehicles or engines manufactured by a manufacturer notwithstanding the failure of such vehicles or engines to meet such standard if such manufacturer pays a nonconformance penalty as provided under regulations promulgated by the Administrator afternotice and opportunity for public hearing. In the case of motorcycles to which such a standard applies, such a certificate may be issued notwithstanding such failure if the manufacturer pays such a penalty.
+(1) In the case of any class or category of heavy-duty vehicles or engines to which a standard promulgated under section 7521(a) of this title applies, except as provided in paragraph (2), a certificate of conformity shall be issued under subsection (a) of this section and shall not be suspended or revoked under subsection (b) of this section for such vehicles or engines manufactured by a manufacturer notwithstanding the failure of such vehicles or engines to meet such standard if such manufacturer pays a nonconformance penalty as provided under regulations promulgated by the Administrator after notice and opportunity for public hearing. In the case of motorcycles to which such a standard applies, such a certificate may be issued notwithstanding such failure if the manufacturer pays such a penalty.
 
 (2) No certificate of conformity may be issued under paragraph (1) with respect to any class or category of vehicle or engine if the degree by which the manufacturer fails to meet any standard promulgated under section 7521(a) of this title with respect to such class or category exceeds the percentage determined under regulations promulgated by the Administrator to be practicable. Such regulations shall require such testing of vehicles or engines being produced as may be necessary to determine the percentage of the classes or categories of vehicles or engines which are not in compliance with the regulations with respect to which a certificate of conformity was issued and shall be promulgated not later than one year after August 7, 1977.
 
@@ -64,7 +64,7 @@ All light duty <sup>1</sup> vehicles and engines manufactured during or after m
 
 &emsp;(E) shall remove any competitive disadvantage to manufacturers whose engines or vehicles achieve the required degree of emission reduction (including any such disadvantage arising from the application of paragraph (4)).
 
-(4) In any case in which a certificate of conformity has been issued under this subsection, any warranty required under section 7541(b)(2) of this title and any action under section 7541(c) of this title shall be required to be effective only for the emission levels which the Administrator determines that such certificate was issued and not for the emission levels required under the applicable standard.
+(4) In any case in which a certificate of conformity has been issued under this subsection,any warranty required under section 7541(b)(2) of this title and any action under section 7541(c) of this title shall be required to be effective only for the emission levels which the Administrator determines that such certificate was issued and not for the emission levels required under the applicable standard.
 
 (5) The authorities of section 7542(a) of this title shall apply, subject to the conditions of section 7542(b) <sup>2</sup> of this title, for purposes of this subsection.
 
@@ -72,7 +72,7 @@ All light duty <sup>1</sup> vehicles and engines manufactured during or after m
 
 Within 18 months after November 15, 1990, the Administrator shall review and revise as necessary the regulations under subsection <sup>3</sup> (a) and (b) of this section regarding the testing of motor vehicles and motor vehicle engines to insure that vehicles are tested under circumstances which reflect the actual current driving conditions under which motor vehicles are used, including conditions relating to fuel, temperature, acceleration, and altitude.
 
-(July 14, 1955, ch. 360, title II, §206, as added Dec. 31, 1970, Pub. L. 91–604, §8(a), 84 Stat. 1694; amended Aug. 7, 1977, Pub. L. 95–95, title II, §§213(a), 214(b), (c), 220, 224(e), 91 Stat. 758–760, 762, 768; Nov. 16, 1977, Pub. L. 95–190, §14(a)(69), 91 Stat. 1403; Nov. 15, 1990, Pub. L. 101–549, title II, §§208, 230(7), (8), 104 Stat. 2483, 2529.)
+(July 14, 1955, ch. 360, title II, §206, as added Pub. L. 91–604, §8(a), Dec. 31, 1970, 84 Stat. 1694; amended Pub. L. 95–95, title II, §§213(a), 214(b), (c), 220, 224(e), Aug. 7, 1977, 91 Stat. 758–760, 762, 768; Pub. L. 95–190, §14(a)(69), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title II, §§208, 230(7), (8), Nov. 15, 1990, 104 Stat. 2483, 2529.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Subsec. (g)(3)(D). Pub. L. 95–190 inserted “shall” before “be”.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Effective Date
 

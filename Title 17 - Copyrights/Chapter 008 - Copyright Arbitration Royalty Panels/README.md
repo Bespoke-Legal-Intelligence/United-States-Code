@@ -48,7 +48,7 @@ The Committee expects that the President shall appoint members of the Commission
 
 <b>Adjustment of Cable Television Royalty Rates.</b> Section 801(b)(2) authorizes the Commission to make determinations concerning the adjustment of the copyright royalty rates contained in Section 111. Such determinations are to be made solely in accordance with the provisions contained in Section 801(b)(2)(A), (B), (C), and (D). The time periods when such adjustments may be made are set forth in Section 804.
 
-Under Section 801(b)(2)(A), the Commission may adjust the rates established in Section 111(d)(2)(B) \[section 111(d)(2)(B) of this title\] to reflect (1) national monetary inflation or deflation, or (2) changes in the average rates charged cable subscribers for the basicservice of providing secondary transmission to maintain the real constant dollar level of the royalty fee per subscriber which existed as of the date of enactment of this legislation. The purpose of this provision is to assure that the value of the royalty fees paid by cable systems is not eroded by changes in the value of the dollar or changes in average rates charged cable subscribers. The Committee recognizes, however, that no royalty fees will be paid by cable systems until the legislation is effective on January 1, 1978, and accordingly that the royalty fee per subscriber base calculated at the time of enactment must necessarily constitute an estimated value. In the Committee's view, and based on projections supplied by the interested parties, the total royalties produced under the fee schedule at the time of enactment should approximate $8.7 million.
+Under Section 801(b)(2)(A), the Commission may adjust the rates established in Section 111(d)(2)(B) \[section 111(d)(2)(B) of this title\] to reflect (1) national monetary inflation or deflation, or (2) changes in the average rates charged cable subscribers for the basic service of providing secondary transmission to maintain the real constant dollar level of the royalty fee per subscriber which existed as of the date of enactment of this legislation. The purpose of this provision is to assure that the value of the royalty fees paid by cable systems is not eroded by changes in the value of the dollar or changes in average rates charged cable subscribers. The Committee recognizes, however, that no royalty fees will be paid by cable systems until the legislation is effective on January 1, 1978, and accordingly that the royalty fee per subscriber base calculated at the time of enactment must necessarily constitute an estimated value. In the Committee's view, and based on projections supplied by the interested parties, the total royalties produced under the fee schedule at the time of enactment should approximate $8.7 million.
 
 In adjusting the fee the Copyright Royalty Commission is limited to changes reflecting national monetary inflation or deflation or changes in the average rates charged cable subscribers for the basic service of providing secondary transmissions. Concern was expressed during the hearings on the revision legislation that cable systems may reduce the basic charge for the retransmission of broadcast signals as an inducement for individuals to become subscribers to additional services (e.g., pay-cable). Such a shift of revenue sources would have the effect of understating basic subscriber revenues and would deny copyright owners the level of royalty fees for secondary transmission contemplated by this legislation. Accordingly, such shifts of revenue sources, if they do occur, should be taken into account by the Commission in adjusting the basic rates.
 
@@ -74,7 +74,7 @@ The purpose of this subclause is similar to that of Section 801(b)(2)(B). The sy
 
 <b>Institution and Conclusion of Proceedings.</b> Section 804 establishes the time periods during which the Commission shall institute and conclude proceedings for the adjustment or distribution of royalty fees.
 
-<b>Periodic Adjustment of Certain Rates.</b> Under Section 804(a) proceedings to adjust the royalty rates specified in Sections 115 (mechanical royalty) and 116 (juke-box)and proceedings under Section 801(b)(2)(A) and (D) (cable television rates for certain purposes), are instituted in the following periodic time intervals:
+<b>Periodic Adjustment of Certain Rates.</b> Under Section 804(a) proceedings to adjust the royalty rates specified in Sections 115 (mechanical royalty) and 116 (juke-box) and proceedings under Section 801(b)(2)(A) and (D) (cable television rates for certain purposes), are instituted in the following periodic time intervals:
 
 &emsp;(1) On January 1, 1980, the Chairman of the Commission is required to publish in the Federal Register notice of the commencement of proceedings to adjust all the rates referred to in Section 804(a).
 
@@ -116,7 +116,7 @@ Chapter effective Oct. 19, 1976, see section 102 of Pub. L. 94–533, set out as
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 111, 114, 115, 116, 118, 119, 912 of this title.
+This chapter is referred to in sections 111, 112, 114, 115, 116, 118, 119, 912 of this title.
 
 
 ---

@@ -12,7 +12,7 @@ The Administrator shall, within ten months of November 16, 1979, complete a stud
 
 #### (b) Recommendations by Administrator
 
-If the Administrator determines, as a result of the study conducted pursuant to subsection (a)of this section, that smoke detectors, heat detectors, sprinkler suppression systems or other similar systems or devices either have been or may be of assistance in the detection and control of fire, the Administrator shall include, as part of the report conducted pursuant to this section, recommendations regarding what should be the Federal role, if any, with respect to creating incentives for the use of such devices or systems by the public, by business concerns, and by Federal, State, and local governments. In making such recommendations, the Administrator shall consider—
+If the Administrator determines, as a result of the study conducted pursuant to subsection (a) of this section, that smoke detectors, heat detectors, sprinkler suppression systems or other similar systems or devices either have been or may be of assistance in the detection and control of fire, the Administrator shall include, as part of the report conducted pursuant to this section, recommendations regarding what should be the Federal role, if any, with respect to creating incentives for the use of such devices or systems by the public, by business concerns, and by Federal, State, and local governments. In making such recommendations, the Administrator shall consider—
 
 &emsp;(1) the incentives, including financial incentives, which might be developed to require or facilitate installation within new or existing buildings of smoke detectors, heat detectors, sprinkler suppression systems, or any combination of such systems, or other similar systems and devices; and
 
@@ -27,6 +27,10 @@ As part of its report submitted pursuant to this section, the Administrator shal
 Upon request of the Administrator, each Federal department and agency shall furnish to the Administrator such information, data, estimates, and statistics, and allow the Administrator access to all information in its possession, as the Administrator may reasonably determine to be necessary for the conduct of the study required by this section.
 
 (Pub. L. 93–498, §26, as added Pub. L. 96–121, §4, Nov. 16, 1979, 93 Stat. 864.)
+
+#### Smoke Detectors in High Risk Residential Areas; Pilot Project and Report
+
+Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2501, provided in part: “That the United States Fire Administration shall conduct a 12-month pilot project to promote the installation and maintenance of smoke detectors in the localities of highest risk for residential fires: <i>Provided further</i>, That the United States Fire Administration shall transmit the results of its pilot project to the Consumer Product Safety Commission and the Congress.”
 
 #### Section Referred to in Other Sections
 

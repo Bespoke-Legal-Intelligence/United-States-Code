@@ -30,7 +30,7 @@ As used in this chapter:
 
 (11) The term “long-term contract” means, when used in relation to solid waste supply, a contract of sufficient duration to assure the viability of a resource recovery facility (to the extent that such viability depends upon solid waste supply).
 
-(12) The term “manifest” means the form used for identifying the quantity, composition, and the origin, routing, and destination of hazardous waste during its transportation from the point of generation to the point of disposal, treatment, or storage.
+(12) The term “manifest” means the form used for identifying the quantity, composition, andthe origin, routing, and destination of hazardous waste during its transportation from the point of generation to the point of disposal, treatment, or storage.
 
 (13) The term “municipality” (A) means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law, with responsibility for the planning or administration of solid waste management, or an Indian tribe or authorized tribal organization or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.
 
@@ -100,7 +100,7 @@ As used in this chapter:
 
 (39) The term “re-refined oil” means used oil from which the physical and chemical contaminants acquired through previous use have been removed through a refining process.
 
-(40) Except as otherwise provided in this paragraph, the term “medical waste” means anysolid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III of this chapter or any household waste as defined in regulations under subchapter III of this chapter.
+(40) Except as otherwise provided in this paragraph, the term “medical waste” means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III of this chapter or any household waste as defined in regulations under subchapter III of this chapter.
 
 (41) The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
@@ -108,7 +108,7 @@ As used in this chapter:
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in pars. (27) and (41), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in pars. (27) and (41), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of this title, or (ii) a rent that does not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
 
-&emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greater than the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
+&emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greaterthan the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
 
 &emsp;&emsp;(C) is occupied only by households that qualify as low-income families;
 
@@ -40,7 +40,13 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 &emsp;(1) has an initial purchase price that does not exceed 95 percent of the median purchase price for the area, as determined by the Secretary with such adjustments for differences in structure, including whether the housing is single-family or multifamily, and for new and old housing as the Secretary determines to be appropriate;
 
-&emsp;(2) is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;
+&emsp;(2) is the principal residence of an owner whose family qualifies as a low-income family—
+
+&emsp;&emsp;(A) in the case of a contract to purchase existing housing, at the time of purchase;
+
+&emsp;&emsp;(B) in the case of a lease-purchase agreement for existing housing or for housing to be constructed, at the time the agreement is signed; or
+
+&emsp;&emsp;(C) in the case of a contract to purchase housing to be constructed, at the time the contract is signed;
 
 &emsp;(3) is subject to resale restrictions that are established by the participating jurisdiction and determined by the Secretary to be appropriate to—
 
@@ -54,13 +60,15 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 &emsp;(4) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
 
-(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364.)
+(Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Amendments
+
+1998—Subsec. (b)(2). Pub. L. 105–276 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“is the principal residence of an owner whose family qualifies as a low-income family at the time of purchase;”.
 
 1994—Subsec. (b)(3). Pub. L. 103–233, §203(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “is made available for initial purchase only to first-time homebuyers;”.
 
@@ -83,6 +91,10 @@ Subsec. (b)(4). Pub. L. 102–550, §209, added par. (4) and struck out former p
 &emsp;&emsp;“(i) to provide the owner with a fair return on investment, including any improvements, and
 
 &emsp;&emsp;“(ii) to ensure that the housing will remain affordable to a reasonable range of low income homebuyers; and”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–276 made on, and applicable beginning upon, Oct. 21, 1998, see section 599B(c) of Pub. L. 105–276, set out as a note under section 12744 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -1,6 +1,6 @@
 ### §6106. Time clocks; restrictions
 
-A recording clock may not be used to record time of an employee of an Executive departmentin the District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks.
+A recording clock may not be used to record time of an employee of an Executive department in the District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 516; Pub. L. 97–221, §6(a), July 23, 1982, 96 Stat. 234.)
 

@@ -2,19 +2,23 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Department of Labor, for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998, such sums as may be necessary to carry out the purposes of this part, other than subpart D.
+There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 1998, and ending June 30, 1999, such sums as may be necessary to carry out the purposes of this part, other than subpart D.
 
 #### (b) Subpart D
 
-There are authorized to be appropriated to the Department of Labor, for each of fiscal years 1994, 1995, 1996, 1997, and 1998, such sums as may be necessary to carry out the purposes of subpart D of this part.
+There are authorized to be appropriated to the Department of Labor, for the period beginning October 1, 1998, and ending June 30, 1999, such sums as may be necessary to carry out the purposes of subpart D of this part.
 
-(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151.)
+(Pub. L. 93–618, title II, §245, Jan. 3, 1975, 88 Stat. 2026; Pub. L. 97–35, title XXV, §2510, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13008(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(1), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §504, Dec. 8, 1993, 107 Stat. 2151; Pub. L. 105–277, div. J, title I, §1012(a), Oct. 21, 1998, 112 Stat. 2681–900.)
 
 #### Termination of Section
 
 <i>For termination of section by section 285 of Pub. L. 93–618, see Termination Date note set out preceding section 2271 of this title.</i>
 
 #### Amendments
+
+1998—Subsec. (a). Pub. L. 105–277, §1012(a)(1), substituted “for the period beginning October 1, 1998, and ending June 30, 1999,” for “for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998,”.
+
+Subsec. (b). Pub. L. 105–277, §1012(a)(2), substituted “for the period beginning October 1, 1998, and ending June 30, 1999,” for “for each of fiscal years 1994, 1995, 1996, 1997, and 1998,”.
 
 1993—Pub. L. 103–182 designated existing provisions as subsec. (a), inserted heading and “, other than subpart D” after “this part”, and added subsec. (b).
 

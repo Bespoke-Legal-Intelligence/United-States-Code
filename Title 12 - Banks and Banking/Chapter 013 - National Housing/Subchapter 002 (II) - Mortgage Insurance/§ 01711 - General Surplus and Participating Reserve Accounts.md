@@ -26,7 +26,7 @@ In determining whether there is a surplus for distribution to mortgagors under t
 
 (2) The Secretary shall endeavor to ensure that the Mutual Mortgage Insurance Fund attains a capital ratio of not less than 2.0 percent within 10 years after November 5, 1990, and shall ensure that the Fund maintains at least such capital ratio at all times thereafter.
 
-(3) Upon the expiration of the 24-month period beginning on November 5, 1990, the Secretary shall submit to the Congress a report describing the actions the Secretary will take to ensure that the Mutual Mortgage Insurance Fund attains the capital ratio required under paragraph (2).
+(3) Upon the expiration of the 24-month period beginning on November 5, 1990, the Secretary shall submit to the Congress a report describing the actions the Secretary will take to ensurethat the Mutual Mortgage Insurance Fund attains the capital ratio required under paragraph (2).
 
 (4) For purposes of this subsection:
 
@@ -64,7 +64,7 @@ Section 2103(b) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101�
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–550 inserted at end “The Secretary shall not distribute any share to an eligiblemortgagor under this subsection beginning on the date which is 6 years after the date the Secretary first transmitted written notification of eligibility to the last known address of the mortgagor, unless the mortgagor has applied in accordance with procedures prescribed by the Secretary for payment of the share within the 6-year period. The Secretary shall transfer any amounts no longer eligible for distribution under the previous sentence from the Participating Reserve Account to the General Surplus Account.”
+1992—Subsec. (c). Pub. L. 102–550 inserted at end “The Secretary shall not distribute any share to an eligible mortgagor under this subsection beginning on the date which is 6 years after the date the Secretary first transmitted written notification of eligibility to the last known address of the mortgagor, unless the mortgagor has applied in accordance with procedures prescribed by the Secretary for payment of the share within the 6-year period. The Secretary shall transfer any amounts no longer eligible for distribution under the previous sentence from the Participating Reserve Account to the General Surplus Account.”
 
 1990—Subsec. (e). Pub. L. 101–508, §2104, added subsec. (e).
 

@@ -56,7 +56,7 @@ The regulations referred to in subsection (a) of this section shall—
 
 &emsp;(3) afford the State an opportunity to obtain judicial review of an adverse decision of the Board, within 60 days after the State receives notice of the decision of the Board, by appeal to the district court of the United States for the judicial district in which the principal or headquarters office of the agency responsible for administering the program is located.
 
-(Aug. 14, 1935, ch. 531, title XI, §1123A, formerly §1123, as added Oct. 31, 1994, Pub. L. 103–432, title II, §203(a), 108 Stat. 4454; renumbered §1123A, Aug. 22, 1996, Pub. L. 104–193, title V, §504, 110 Stat. 2278.)
+(Aug. 14, 1935, ch. 531, title XI, §1123A, formerly §1123, as added Pub. L. 103–432, title II, §203(a), Oct. 31, 1994, 108 Stat. 4454; renumbered §1123A, Pub. L. 104–193, title V, §504, Aug. 22, 1996, 110 Stat. 2278.)
 
 #### References in Text
 

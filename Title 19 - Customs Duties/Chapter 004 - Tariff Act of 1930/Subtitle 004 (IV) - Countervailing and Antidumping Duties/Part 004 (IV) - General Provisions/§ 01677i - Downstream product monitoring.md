@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) into which is incorporated any component part.
 
-(June 17, 1930, ch. 497, title VII, §780, as added Aug. 23, 1988, Pub. L. 100–418, title I, §1320(a), 102 Stat. 1189; amended Dec. 8, 1994, Pub. L. 103–465, title II, §§233(a)(1)(E), (2)(A)(vi), 261(d)(1)(B)(iv), 270(a)(1)(M), 108 Stat. 4898, 4910, 4917.)
+(June 17, 1930, ch. 497, title VII, §780, as added Pub. L. 100–418, title I, §1320(a), Aug. 23, 1988, 102 Stat. 1189; amended Pub. L. 103–465, title II, §§233(a)(1)(E), (2)(A)(vi), 261(d)(1)(B)(iv), 270(a)(1)(M), Dec. 8, 1994, 108 Stat. 4898, 4910, 4917.)
 
 #### References in Text
 

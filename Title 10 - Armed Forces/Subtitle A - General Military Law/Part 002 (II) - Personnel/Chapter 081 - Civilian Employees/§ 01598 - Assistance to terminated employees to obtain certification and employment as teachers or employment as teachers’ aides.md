@@ -38,7 +38,7 @@ Selection of Participants.—(1) Selection of civilian employees to participate 
 
 (2) In selecting participants to receive assistance for placement as elementary or secondary school teachers, the Secretary of Defense shall give priority to civilian employees who—
 
-&emsp;(A) have educational, military, or employment experience in science, mathematics, or engineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
+&emsp;(A) have educational, military, or employment experience in science, mathematics, orengineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
 
 &emsp;(B) have educational, military, or employment experience in another subject area identified by the Secretary, in consultation with the Secretary of Education, as important for national educational objectives and agree to seek employment in that subject area in elementary or secondary schools.
 
@@ -76,7 +76,7 @@ Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) t
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. TitleI of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

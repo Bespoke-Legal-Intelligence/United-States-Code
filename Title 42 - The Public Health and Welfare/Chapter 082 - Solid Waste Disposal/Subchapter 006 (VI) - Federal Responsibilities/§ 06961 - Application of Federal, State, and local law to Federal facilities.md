@@ -60,29 +60,25 @@ Agreement or order.—Except as provided in paragraph (4), nothing in this Act \
 
 #### Executive Order No. 12780
 
-Ex. Ord. No. 12780, Oct. 31, 1991, 56 F.R. 56289, which required Federal agencies to promote cost-effective waste reduction and recycling of reusable materials and established a Council on Federal Recycling and Procurement Policy, was revoked by Ex. Ord. No. 12873, §901, Oct. 20, 1993, 58 F.R. 54911, set out below.
+Ex. Ord. No. 12780, Oct. 31, 1991, 56 F.R. 56289, which required Federal agencies to promote cost-effective waste reduction and recycling of reusable materials and established a Council on Federal Recycling and Procurement Policy, was revoked by Ex. Ord. No. 12873, §901, Oct. 20, 1993, 58 F.R. 54911, formerly set out below.
 
-#### Ex. Ord. No. 12873. Federal Acquisition, Recycling, and Waste Prevention
+#### Executive Order No. 12873
 
-Ex. Ord. No. 12873, Oct. 20, 1993, 58 F.R. 54911, as amended by Ex. Ord. No. 12995, Mar. 25, 1996, 61 F.R. 13645, provided:
+Ex. Ord. No. 12873, Oct. 20, 1993, 58 F.R. 54911, as amended by Ex. Ord. No. 12995, Mar. 25, 1996, 61 F.R. 13645, which directed Executive agencies to incorporate waste prevention and recycling in daily operations and work and to acquire and use environmentally preferable products and services and which created a Federal Environmental Executive and established high-level Environmental Executive positions within each agency, was revoked by Ex. Ord. No. 13101, §901, Sept. 14, 1998, 63 F.R. 49651, set out below.
 
-WHEREAS, the Nation's interest is served when the Federal Government can make more efficient use of natural resources by maximizing recycling and preventing waste wherever possible;
+#### Ex. Ord. No. 13101. Greening the Government Through Waste Prevention, Recycling, and Federal Acquisition
 
-WHEREAS, this Administration is determined to strengthen the role of the Federal Government as an enlightened, environmentally conscious and concerned consumer;
+Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, provided:
 
-WHEREAS, the Federal Government should—through cost-effective waste prevention and recycling activities—work to conserve disposal capacity, and serve as a model in this regard for private and other public institutions; and
-
-WHEREAS, the use of recycled and environmentally preferable products and services by the Federal Government can spur private sector development of new technologies and use of such products, thereby creating business and employment opportunities and enhancing regional and local economies and the national economy;
-
-NOW, THEREFORE, I, WILLIAM J. CLINTON, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Solid Waste Disposal Act, Public Law 89–272, 79 Stat. 997, as amended by the Resource Conservation and Recovery Act (“RCRA”), Public Law 94–580, 90 Stat. 2795 as amended (42 U.S.C. 6901–6907), and section 301 of title 3, United States Code, hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Solid Waste Disposal Act, Public Law 89–272, 79 Stat. 997, as amended by the Resource Conservation and Recovery Act (RCRA), Public Law 94–580, 90 Stat. 2795, as amended (42 U.S.C. 6901–6907), section 301 of title 3, United States Code, and in order to improve the Federal Government's use of recycled products and environmentally preferable products and services, it is hereby ordered as follows:
 
 #### PART 1—PREAMBLE
 
-Section 101. Consistent with the demands of efficiency and cost effectiveness, the head of each Executive agency shall incorporate waste prevention and recycling in the agency's daily operations and work to increase and expand markets for recovered materials through greater Federal Government preference and demand for such products.
+Section 101. Consistent with the demands of efficiency and cost effectiveness, the head of each executive agency shall incorporate waste prevention and recycling in the agency's daily operations and work to increase and expand markets for recovered materials through greater Federal Government preference and demand for such products. It is the national policy to prefer pollution prevention, whenever feasible. Pollution that cannot be prevented should be recycled; pollution that cannot be prevented or recycled should be treated in an environmentally safe manner. Disposal should be employed only as a last resort.
 
-Sec. 102. Consistent with policies established by Office of Federal Procurement Policy (“OFPP”) Policy Letter 92–4, agencies shall comply with executive branch policies for the acquisition and use of environmentally preferable products and services and implement cost-effective procurement preference programs favoring the purchase of these products and services.
+Sec. 102. Consistent with policies established by the Office of Federal Procurement Policy (OFPP) Policy Letter 92–4, agencies shall comply with executive branch policies for the acquisition and use of environmentally preferable products and services and implement cost-effective procurement preference programs favoring the purchase of these products and services.
 
-Sec. 103. This order creates a Federal Environmental Executive and establishes high-level Environmental Executive positions within each agency to be responsible for expediting the implementation of this order and statutes that pertain to this order.
+Sec. 103. This order creates a Steering Committee, a Federal Environmental Executive (FEE), and a Task Force, and establishes Agency Environmental Executive (AEE) positions within each agency, to be responsible for ensuring the implementation of this order. The FEE, AEEs, and members of the Steering Committee and Task Force shall be full-time Federal Government employees.
 
 #### PART 2—DEFINITIONS
 
@@ -90,175 +86,193 @@ For purposes of this order:
 
 Sec. 201. “Environmentally preferable” means products or services that have a lesser or reduced effect on human health and the environment when compared with competing products or services that serve the same purpose. This comparison may consider raw materials acquisition, production, manufacturing, packaging, distribution, reuse, operation, maintenance, or disposal of the product or service.
 
-Sec. 202. “Executive agency” or “agency” means an Executive agency as defined in 5 U.S.C. 105. For the purpose of this order, military departments, as defined in 5 U.S.C. 102, are covered under the auspices of the Department of Defense.
+Sec. 202. “Executive agency” or “agency” means an executive agency as defined in 5 U.S.C. 105. For the purpose of this order, military departments, as defined in 5 U.S.C. 102, are covered under the auspices of the Department of Defense.
 
-Sec. 203. “Postconsumer material” means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. “Postconsumer material” is a part of the broader category of “recovered material”.
+Sec. 203. “Postconsumer material” means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. “Postconsumer material” is a part of the broader category of “recovered material.”
 
-Sec. 204. “Acquisition” means the acquiring by contract with appropriated funds for supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration and those technical and management functions directly related to the process of fulfilling agency needs by contract.
+Sec. 204. “Acquisition” means the acquiring by contract with appropriated funds for supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated, and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract.
 
-Sec. 205. “Recovered materials” means waste materials and by-products which have been recovered or diverted from solid waste, but such term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process (42 U.S.C. 6903(19)).
+Sec. 205. “Recovered materials” means waste materials and by-products that have been recovered or diverted from solid waste, but such term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process (42 U.S.C. 6903(19)).
 
 Sec. 206. “Recyclability” means the ability of a product or material to be recovered from, or otherwise diverted from, the solid waste stream for the purpose of recycling.
 
 Sec. 207. “Recycling” means the series of activities, including collection, separation, and processing, by which products or other materials are recovered from the solid waste stream for use in the form of raw materials in the manufacture of new products other than fuel for producing heat or power by combustion.
 
-Sec. 208. “Waste prevention,” also known as “source reduction,” means any change in the design, manufacturing, purchase or use of materials or products (including packaging) to reduce their amount or toxicity before they become municipal solid waste. Waste prevention also refers to the reuse of products or materials.
+Sec. 208. “Waste prevention” means any change in the design, manufacturing, purchase, or use of materials or products (including packaging) to reduce their amount or toxicity before they are discarded. Waste prevention also refers to the reuse of products or materials.
 
 Sec. 209. “Waste reduction” means preventing or decreasing the amount of waste being generated through waste prevention, recycling, or purchasing recycled and environmentally preferable products.
 
-Sec. 210. “Life Cycle Cost” means the amortized annual cost of a product, including capital costs, installation costs, operating costs, maintenance costs and disposal costs discounted over the lifetime of the product.
+Sec. 210. “Life cycle cost” means the amortized annual cost of a product, including capital costs, installation costs, operating costs, maintenance costs, and disposal costs discounted over the lifetime of the product.
 
-Sec. 211. “Life Cycle Analysis” means the comprehensive examination of a product's environmental and economic effects throughout its lifetime including new material extraction, transportation, manufacturing, use, and disposal.
+Sec. 211. “Life cycle assessment” means the comprehensive examination of a product's environmental and economic aspects and potential impacts throughout its lifetime, including raw material extraction, transportation, manufacturing, use, and disposal.
 
-#### PART 3—THE ROLE OF THE FEDERAL ENVIRONMENTAL EXECUTIVE AND AGENCY ENVIRONMENTAL EXECUTIVES
+Sec. 212. “Pollution prevention” means “source reduction” as defined in the Pollution Prevention Act of 1990 (42 U.S.C. 13102), and other practices that reduce or eliminate the creation of pollutants through: (a) increased efficiency in the use of raw materials, energy, water, or other resources; or (b) protection of natural resources by conservation.
 
-Sec. 301. <i>Federal Environmental Executive</i>. (a) A Federal Environmental Executive shall be designated by the President and shall be located within the Environmental Protection Agency (“EPA”). The Federal Environmental Executive shall take all actions necessary to ensure that the agencies comply with the requirements of this order and shall generate an annual report to the Office of Management and Budget (“OMB”), at the time of agency budget submissions, on the actions taken by the agencies to comply with the requirements of this order. In carrying out his or her functions, the Federal Environmental Executive shall consult with the Chairman of the Council on Environmental Quality.
+Sec. 213. “Biobased product” means a commercial or industrial product (other than food or feed) that utilizes biological products or renewable domestic agricultural (plant, animal, and marine) or forestry materials.
 
-(b) <i>Staffing</i>. A minimum of four (4) full time staff persons are to be provided by the agencies listed below to assist the Federal Environmental Executive, one of whom shall have experience in specification review and program requirements, one of whom shall have experience in procurement practices, and one of whom shall have experience in solid waste prevention and recycling. These four staff persons shall be appointed and replaced as follows:
+Sec. 214. “Major procuring agencies” shall include any executive agency that procures over $50 million per year of goods and services.
 
-(1) a representative from the Department of Defense shall be detailed for not less than one year and no more than two years;
+#### PART 3—THE ROLES AND DUTIES OF THE STEERING COMMITTEE, FEDERAL ENVIRONMENTAL EXECUTIVE, TASK FORCE, AND AGENCY ENVIRONMENTAL EXECUTIVES
 
-(2) a representative from the General Services Administration (“GSA”) shall be detailed for not less than one year and no more than two years;
+Sec. 301. Committees, Executives, and Task Force. (a) Steering Committee. There is hereby established a Steering Committee on Greening the Government through Waste Prevention and Recycling (“Steering Committee”). The Steering Committee shall be composed of the Chair of the Council on Environmental Quality (CEQ), the Federal Environmental Executive (FEE), and the Administrator for Federal Procurement Policy (OFPP). The Steering Committee, which shall be chaired by the Chair of the CEQ, is directed to charter a Task Force to facilitate implementation of this order, and shall provide the Task Force with policy direction in such implementation.
 
-(3) a representative from EPA shall be detailed for not less than one year and no more than two years; and
+(b) Federal Environmental Executive. A Federal Environmental Executive, Environmental Protection Agency, shall be designated by the President. The FEE shall chair the Task Force described in subsection (c), take all actions necessary to ensure that the agencies comply with the requirements of this order, and generate a biennial report to the President.
 
-(4) a representative from one other agency determined by the Federal Environmental Executive shall be detailed on a rotational basis for not more than one year.
+(c) Task Force. The Steering Committee shall charter a Task Force on Greening the Government through Waste Prevention and Recycling (“Task Force”), which shall be chaired by the FEE and composed of staff from the major procuring agencies. The Steering Committee, in consultation with the agencies, shall determine the necessary staffing and resources for the Task Force. The major procuring agencies shall provide, to the extent practicable and permitted by law, resources and support to the Task Force and the FEE, upon request from the Steering Committee. The Task Force shall have the duty of assisting the FEE and the agencies in implementing this order, subject to policy direction provided by the Steering Committee. The Task Force shall report through the FEE to the Chair of the Steering Committee.
 
-(c) <i>Administration</i>. Agencies are requested to make their services, personnel and facilities available to the Federal Environmental Executive to the maximum extent practicable for the performance of functions under this order.
+(d) Agency Environmental Executives (AEEs). Within 90 days after the date of this order, the head of each major procuring agency shall designate an AEE from among his or her staff, who serves at a level no lower than the Assistant Secretary level or equivalent, and shall notify the Chair of CEQ and the FEE of such designation.
 
-(d) <i>Committees and Work Groups</i>. The Federal Environmental Executive shall establish committees and work groups to identify, assess, and recommend actions to be taken to fulfill the goals, responsibilities, and initiatives of the Federal Environmental Executive. As these committees and work groups are created, agencies are requested to designate appropriate personnel in the areas of procurement and acquisition, standards and specifications, electronic commerce, facilities management, waste prevention, and recycling, and others as needed to staff and work on the initiatives of the Executive.
+Sec. 302. Duties. (a) The Federal Environmental Executive. The FEE, working through the Task Force, and in consultation with the AEEs, shall:
 
-(e) <i>Duties</i>. The Federal Environmental Executive, in consultation with the Agency Environmental Executives, shall:
+(1) Develop a Government-wide Waste Prevention and Recycling Strategic Plan (“Strategic Plan”) to further implement this order. The Strategic Plan should be initially developed within 180 days of the date of this order and revised as necessary thereafter. The Strategic Plan should include, but is not limited to, the following elements:
 
-(1) identify and recommend initiatives for government-wide implementation that will promote the purposes of this order, including:
+(a) direction and initiatives for acquisition of recycled and recyclable products and environmentally preferable products and services;
 
-&emsp;(A) the development of a federal plan for agency implementation of this order and appropriate incentives to encourage the acquisition of recycled and environmentally preferable products by the Federal Government;
+(b) development of affirmative procurement programs;
 
-&emsp;(B) the development of a federal implementation plan and guidance for instituting economically efficient federal waste prevention, energy and water efficiency programs, and recycling programs within each agency; and
+(c) review and revision of standards and product specifications;
 
-&emsp;(C) the development of a plan for making maximum use of available funding assistance programs;
+(d) assessment and evaluation of compliance;
 
-(2) collect and disseminate information electronically concerning methods to reduce waste, materials that can be recycled, costs and savings associated with waste prevention and recycling, and current marketsources of products that are environmentally preferable or produced with recovered materials;
+(e) reporting requirements;
 
-(3) provide guidance and assistance to the agencies in setting up and reporting on agency programs and monitoring their effectiveness; and
+(f) outreach programs to promote adoption of practices endorsed in this order; and
 
-(4) coordinate appropriate government-wide education and training programs for agencies.
+(g) development and implementation of new technologies that are of environmental significance.
 
-Sec. 302. <i>Agency Environmental Executives</i>. Within 90 days after the effective date of this order, the head of each Executive department and major procuring agency shall designate an Agency Environmental Executive from among his or her staff, who serves at a level no lower than at the Deputy Assistant Secretary level or equivalent. The Agency Environmental Executive will be responsible for:
+(2) Prepare a biennial report to the President on the actions taken by the agencies to comply with this order. The report also may incorporate information from existing agency reports regarding Government-wide progress in implementing the following Executive Orders: 12843, Procurement Requirements and Policies for Federal Agencies for Ozone Depleting Substances \[42 U.S.C. 7671<i>l</i> note\]; 13031, Federal Alternative Fueled Vehicle Leadership \[42 U.S.C. 13212 note\]; 12845, Requiring Agencies to Purchase Energy Efficient Computer Equipment \[42 U.S.C. 8262g note\]; 12856, Federal Compliance with Right-to-Know Laws and Pollution Prevention Requirements \[42 U.S.C. 11001 note\]; 12902, Energy Efficiency and Water Conservation at Federal Facilities \[42 U.S.C. 6201 note\]; and 12969, Federal Acquisition and Community Right-to-Know \[41 U.S.C. 401 note\].
 
-(a) coordinating all environmental programs in the areas of procurement and acquisition, standards and specification review, facilities management, waste prevention and recycling, and logistics;
+(3) In coordination with the Office of Federal Procurement Policy, the Environmental Protection Agency (EPA), the General Services Administration (GSA), and the Department of Agriculture (USDA), convene a group of acquisition/procurement managers and environmental State, and local government managers to work with State and local governments to improve the Federal, State, and local governments’ use of recycled products and environmentally preferable products and services.
 
-(b) participating in the interagency development of a Federal plan to:
+(4) Coordinate appropriate Government-wide education and training programs for agencies.
 
-(1) create an awareness and outreach program for the private sector to facilitate markets for environmentally preferable and recycled products and services, promote new technologies, improve awareness about federal efforts in this area, and expedite agency efforts to procure new products identified under this order;
+(5) Establish committees and work groups, as needed, to identify, assess, and recommend actions to be taken to fulfill the goals, responsibilities, and initiatives of the FEE. As these committees and work groups are created, agencies are requested to designate appropriate personnel in the areas of procurement and acquisition, standards and specifications, electronic commerce, facilities management, pollution prevention, waste prevention, recycling, and others as needed to staff and work on these initiatives. An initial group shall be established to develop recommendations for tracking and reporting requirements, taking into account the costs and benefits of such tracking and reporting. The Steering Committee shall consult with the AEEs before approving these recommendations.
 
-(2) establish incentives, provide guidance and coordinate appropriate educational programs for agency employees; and
+(b) Agency Environmental Executives. The AEEs shall:
 
-(3) coordinate the development of standard agency reports required by this order;
+(1) translate the Government-wide Strategic Plan into specific agency and service plans;
 
-(c) reviewing agency programs and acquisitions to ensure compliance with this order.
+(2) implement the specific agency and service plans;
 
-#### PART 4—ACQUISITION PLANNING AND AFFIRMATIVE PROCUREMENT PROGRAMS
+(3) report to the FEE on the progress of plan implementation;
 
-Sec. 401. <i>Acquisition Planning</i>. In developing plans, drawings, work statements, specifications, or other product descriptions, agencies shall consider the following factors: elimination of virgin material requirements; use of recovered materials; reuse of product; life cycle cost; recyclability; use of environmentally preferable products; waste prevention (including toxicity reduction or elimination); and ultimate disposal, as appropriate. These factors should be considered in acquisition planning for all procurements and in the evaluation and award of contracts, as appropriate. Program and acquisition managers should take an active role in these activities.
+(4) work with the FEE and the Task Force in furthering implementation of this order; and
 
-Sec. 402. <i>Affirmative Procurement Programs</i>. The head of each Executive agency shall develop and implement affirmative procurement programs in accordance with RCRA section 6002 (42 U.S.C. 6962) and this order. Agencies shall ensure that responsibilities for preparation, implementation and monitoring of affirmative procurement programs are shared between the program personnel and procurement personnel. For the purposes of all purchases made pursuant to this order, EPA, in consultation with such other Federal agencies as appropriate, shall endeavor to maximize environmental benefits, consistent with price, performance and availability considerations, and shall adjust bid solicitation guidelines as necessary in order to accomplish this goal.
+(5) track agencies’ purchases of EPA-designated guideline items and report agencies’ purchases of such guideline items to the FEE per the recommendations developed in subsection 302(a)(5) of this order. Agency acquisition and procurement personnel shall justify in writing to the file and to the AEE the rationale for not purchasing such items, above the micropurchase threshold (as set out in the Office of Federal Procurement Policy Act at 41 U.S.C. 428), and submit a plan and timetable for increasing agency purchases of the designated item(s).
 
-(a) Agencies shall establish affirmative procurement programs for all designated EPA guideline items purchased by their agency. For newly designated items, agencies shall revise their internal programs within one year from the date EPA designated the new items.
+(6) one year after a product is placed on the USDA Biobased Products List, estimate agencies’ purchases of products on the list and report agencies’ estimated purchases of such products to the Secretary of Agriculture.
 
-(b) For the currently designated EPA guideline items, which are: (i) concrete and cement containing fly ash; (ii) recycled paper products; (iii) re-refined lubricating oil; (iv) retread tires; and (v) insulation containing recovered materials; and for all future guideline items, agencies shall ensure that their affirmative procurement programs require that 100 percent of their purchases of products meet or exceed the EPA guideline standards unless written justification is provided that a product is not available competitively within a reasonable time frame, does not meet appropriate performance standards, or is only available at an unreasonable price.
+#### PART 4—ACQUISITION PLANNING, AFFIRMATIVE PROCUREMENT PROGRAMS, AND FEDERAL FACILITY COMPLIANCE
 
-(c) The Agency Environmental Executives will track agencies’ purchases of designated EPA guideline items and report agencies’ purchases of such guideline items to the Federal Environmental Executive. Agency Environmental Executives will be required to justify to the Federal Environmental Executive as to why the item(s) have not been purchased or submit a plan for how the agencies intend to increase their purchases of the designated item(s).
+Sec. 401. Acquisition Planning. In developing plans, drawings, work statements, specifications, or other product descriptions, agencies shall consider, as appropriate, a broad range of factors including: elimination of virgin material requirements; use of biobased products; use of recovered materials; reuse of product; life cycle cost; recyclability; use of environmentally preferable products; waste prevention (including toxicity reduction or elimination); and ultimate disposal. These factors should be considered in acquisition planning for all procurement and in the evaluation and award of contracts, as appropriate. Program and acquisition managers should take an active role in these activities.
 
-(d) Agency affirmative procurement programs, to the maximum extent practicable, shall encourage that:
+Sec. 402. Affirmative Procurement Programs. (a) The head of each executive agency shall develop and implement affirmative procurement programs in accordance with section 6002 of RCRA (42 U.S.C. 6962) and this order and consider use of the procurement tools and methods described in 7 U.S.C. 5909. Agencies shall ensure that responsibilities for preparation, implementation, and monitoring of affirmative procurement programs are shared between the program personnel and acquisition and procurement personnel. For the purposes of all purchases made pursuant to this order, EPA, in consultation with such other executive agencies as appropriate, shall endeavor to maximize environmental benefits, consistent with price, performance, and availability considerations, and constraints imposed by law, and shall adjust solicitation guidelines as necessary in order to accomplish this goal.
 
-(1) documents be transferred electronically,
+(b) Agencies shall establish affirmative procurement programs for all EPA-designated guideline items purchased by their agency. For newly designated items, agencies shall revise their internal programs within 1 year from the date the EPA designated the new items.
 
-(2) all government documents printed internally be printed double-sided, and
+(c) Exclusive of the biobased products described in section 504, for the EPA-designated guideline items, which are contained in 40 CFR part 247, and for all future designated guideline items, agencies shall ensure that their affirmative procurement programs require 100 percent of their purchases of products to meet or exceed the EPA guideline unless written justification is provided that a product is not available competitively within a reasonable time frame, does not meet appropriate performance standards, or is only available at an unreasonable price. Written justification is not required for purchases below the micropurchase threshold. For micropurchases, agencies shall provide guidance regarding purchase of EPA-designated guideline items. This guidance should encourage consideration of aggregating purchases when this method would promote economy and efficiency.
 
-(3) contracts, grants, and cooperative agreements issued after the effective date of this order include provisions that require documents to be printed double-sided on recycled paper meeting or exceeding the standards established in this order or in future EPA guidelines.
+(d) Within 90 days after the date of this order, the head of each executive agency that has not implemented an affirmative procurement program shall ensure that the affirmative procurement program has been established and is being implemented to the maximum extent practicable.
 
-Sec. 403. <i>Procurement of Existing Guideline Items</i>. Within 90 days after the effective date of this order, the head of each Executive agency that has not implemented an affirmative procurement program shall ensure that the affirmative procurement program has been established and is being implemented to the maximum extent practicable.
+Sec. 403. Federal Facility Compliance. (a) Within 6 months of the date of this order, the Administrator of the EPA shall, in consultation with the Federal Environmental Executive, prepare guidance for use in determining Federal facility compliance with section 6002 of RCRA \[42 U.S.C. 6962\] and the related requirements of this order.
 
-Sec. 404. <i>Electronic Acquisition System</i>. To reduce waste by eliminating unnecessary paper transactions in the acquisition process and to foster accurate data collection and reporting of agencies’ purchases of recycled content and environmentally preferred products, the executive branch will implement an electronic commerce system consistent with the recommendations adopted as a result of the National Performance Review.
+(b) EPA inspections of Federal facilities conducted pursuant to RCRA and the Federal Facility Compliance Act \[of 1992\] \[see Short Title of 1992 Amendment note set out under section 6901 of this title\] and EPA “multi-media” inspections carried out at Federal facilities will include, where appropriate, evaluation of facility compliance with section 6002 of RCRA and any implementing guidance.
 
-#### PART 5—STANDARDS, SPECIFICATIONS AND DESIGNATION OF ITEMS
+(c) Where inspections of Federal facilities are carried out by authorized States pursuant to RCRA and the Federal Facility Compliance Act, the Administrator of the EPA will encourage those States to include evaluation of facility compliance with section 6002 of RCRA in light of EPA guidance prepared pursuant to subsection (a), where appropriate, similar to inspections performed by the EPA. The EPA may provide information and technical assistance to the States to enable them to include such considerations in their inspection.
 
-Sec. 501. <i>Specifications, Product Descriptions and Standards</i>. Where applicable, Executive agencies shall review and revise federal and military specifications, product descriptions and standards to enhance Federal procurement of products made from recovered materials or that are environmentally preferable. When converting to a Commercial Item Description (CID), agencies shall ensure that environmental factors have been considered and that the CID meets or exceeds the environmentally preferable criteria of the government specification or product description. Agencies shall report annually on their compliance with this section to the Federal Environmental Executive for incorporation into the annual report to OMB referred to in section 301 of this order.
+(d) The EPA shall report annually to the Federal Environmental Executive on the results of inspections performed by the EPA to determine Federal facility compliance with section 6002 of RCRA not later than February 1st for those inspections conducted during the previous fiscal year.
 
-(a) If an inconsistency with RCRA Section 6002 \[42 U.S.C. 6962\] or this order is identified in a specification, standard, or product description, the Federal Environmental Executive shall request that the Environmental Executive of the pertinent agency advise the Federal Environmental Executive as to why the specification cannot be revised or submit a plan for revising it within 60 days.
+#### PART 5—STANDARDS, SPECIFICATIONS, AND DESIGNATION OF ITEMS
 
-(b) If an agency is able to revise an inconsistent specification but cannot do so within 60 days, it is the responsibility of that agency's Environmental Executive to monitor and implement the plan for revising it.
+Sec. 501. Specifications, Product Descriptions, and Standards. When developing, reviewing, or revising Federal and military specifications, product descriptions (including commercial item descriptions), and standards, executive agencies shall consider recovered materials and any environmentally preferable purchasing criteria developed by the EPA, and ensure the criteria are complied with in developing or revising standards. Agencies shall report annually to the FEE on their compliance with this section for incorporation into the biennial report to the President referred to in section 302(a)(2) of this order. (a) If an inconsistency with section 6002 of RCRA \[42 U.S.C. 6962\] or this order is identified in a specification, standard, or product description, the FEE shall request that the Environmental Executive of the pertinent agency advise the FEE as to why the specification cannot be revised or submit a plan for revising it within 60 days.
 
-Sec. 502. <i>Designation of Items that Contain Recovered Materials</i>. In order to expedite the process of designating items that are or can be made with recovered materials, EPA shall institute a new process for designating these items in accordance with RCRA section 6002(e) \[42 U.S.C. 6962(e)\] as follows. (a) EPA shall issue a Comprehensive Procurement Guideline containing designated items that are or can be made with recovered materials.
+(b) If an agency is able to revise an inconsistent specification but cannot do so within 60 days, it is the responsibility of that AEE to monitor and implement the plan for revising it.
 
-(1) The proposed guideline shall be published for public comment in the Federal Register within 180 days after the effective date of this order and shall be updated annually after publication for comment to include additional items.
+Sec. 502. Designation of Items that Contain Recovered Materials. In order to expedite the process of designating items that are or can be made with recovered materials, the EPA shall use the following process for designating these items in accordance with section 6002(e) of RCRA. (a) The EPA shall designate items that are or can be made with recovered material, by promulgating amendments to the Comprehensive Procurement Guideline (CPG). The CPG shall be updated every 2 years or as appropriate after an opportunity for public comment.
 
-(2) Once items containing recovered materials have been designated by EPA through the new process established pursuant to this section and in compliance with RCRA section 6002, agencies shall modify their affirmative procurement programs to require that, to the maximum extent practicable, their purchases of products meet or exceed the EPA guideline standards unless written justification is provided that a product is not available competitively, not available within a reasonable time frame, does not meet appropriate performance standards, or is only available at an unreasonable price.
+(b) Concurrent with the issuance of the CPG, the EPA shall publish for comment in the Federal Register Recovered Materials Advisory Notices that present the range of recovered materials content levels within which the designated items are currently available. These levels shall be updated periodically, after opportunity for public comment, to reflect changes in market conditions.
 
-(b) Concurrent with the issuance of the Comprehensive Procurement Guideline required by section 502(a) of this order, EPA shall publish for public comment in the Federal Register Recovered Material Advisory Notice(s) that present the range of recovered material content levels within which the designated recycled items are currently available. These levels shall be updated periodically after publication for comment to reflect changes in market conditions.
+(c) Once items containing recovered materials have been designated by the EPA in the CPG, agencies shall modify their affirmative procurement programs to require that, to the maximum extent practicable, their purchases of products meet or exceed the EPA guidelines unless written justification is provided that a product is not available competitively, not available within a reasonable time frame, does not meet appropriate performance standards, or is only available at an unreasonable price.
 
-Sec. 503. <i>Guidance for Environmentally Preferable Products</i>. In accordance with this order, EPA shall issue guidance that recommends principles that Executive agencies should use in making determinations for the preference and purchase of environmentally preferable products.
+Sec. 503. Guidance on Acquisition of Environmentally Preferable Products and Services. (a) The EPA shall develop guidance within 90 days from the date of this order to address environmentally preferable purchasing. The guidance may be based on the EPA's September 1995 Proposed Guidance on the Acquisition of Environmentally Preferable Products and Services and comments received thereon. The guidance should be designed for Government-wide use and targeted towards products and services that have the most effect. The guidance may also address the issues of use of the technical expertise of nongovernmental entities and tools such as life cycle assessment in decisions on environmentally preferable purchasing. The EPA shall update this guidance every 2 years, or as appropriate.
 
-(a) Proposed guidance shall be published for public comment in the Federal Register within 180 days after the effective date of this order, and may be updated after public comment, as necessary, thereafter. To the extent necessary, EPA may issue additional guidance for public comment on how the principles can be applied to specific product categories.
+(b) Agencies are encouraged to immediately test and evaluate the principles and concepts contained in the EPA's Guidance on the Acquisition of Environmentally Preferable Products and Services through pilot projects to provide practical information to the EPA for further updating of the guidance. Specifically:
 
-(b) Once final guidance for environmentally preferable products has been issued by EPA, Executive agencies shall use these principles, to the maximum extent practicable, in identifying and purchasing environmentally preferable products and shall modify their procurement programs by reviewing and revising specifications, solicitation procedures, and policies as appropriate.
+(1) These pilot projects shall be focused around those product and service categories, including printing, that have wide use within the Federal Government. Priorities regarding which product and service categories to pilot shall be developed by the individual agencies and the EPA, in consultation with the OFPP, the FEE, and the appropriate agency procurement executives. Any policy disagreements shall be resolved by the Steering Committee.
 
-Sec. 504. <i>Minimum Content Standard for Printing and Writing Paper</i>. Executive agency heads shall ensure that agencies shall meet or exceed the following minimum materials content standards when purchasing or causing the purchase of printing and writing paper:
+(2) Agencies are encouraged to use all of the options available to them to determine the environmentallypreferable attributes of products and services in their pilot and demonstration projects, including the use of technical expertise of nongovernmental entities such as labeling, certification, or standards-developing organizations, as well as using the expertise of the National Institute of Standards and Technology.
 
-(a) For high speed copier paper, offset paper, forms bond, computer printout paper, carbonless paper, file folders, white woven envelopes and for other uncoated printing and writing paper, such as writing and office paper, book paper, cotton fiber paper, and cover stock, the minimum content standard shall be no less than 20 percent postconsumer materials beginning December 31, 1994. This minimum content standard shall be increased to 30 percent beginning on December 31, 1998.
+(3) Upon request and to the extent practicable, the EPA shall assist executive agencies in designing, implementing, and documenting the results of these pilot and demonstration projects.
 
-(b) As an alternative to meeting the standards in section 504(a), for all printing and writing papers, the minimum content standard shall be no less than 50 percent recovered materials that are a waste material byproduct of a finished product other than a paper or textile product which would otherwise be disposed of in a landfill, as determined by the State in which the facility is located.
+(4) The EPA, in coordination with other executive agencies, shall develop a database of information about these projects, including, but not limited to, the number and status of pilot projects, examples of agencies’ policy directives, revisions to specifications, solicitation procedures, and grant/contract policies that facilitate adoption of environmentally preferable purchasing practices, to be integrated on a commonly available electronic medium (e.g., Internet Web site). These data are to be reported to the FEE.
 
-Sec. 505. <i>Revision of Brightness Specifications and Standards</i>. The General Services Administration and other Federal agencies are directed to identify, evaluate and revise or eliminate any standards or specifications unrelated to performance that present barriers to the purchase of paper or paper products made by production processes that minimize emissions of harmful byproducts. This evaluation shall include a review of unnecessary brightness and stock clause provisions, such as lignin content and chemical pulp requirements. The GSA shall complete the review and revision of such specifications within six months after the effective date of this order, and shall consult closely with the Joint Committee on Printing during such process. The GSA shall also compile any information or market studies that may be necessary to accomplish the objectives of this provision.
+(c) Executive agencies shall use the principles and concepts in the EPA Guidance on Acquisition of Environmentally Preferable Products and Services, in addition to the lessons from the pilot and demonstration projects, to the maximum extent practicable, in identifying and purchasing environmentally preferable products and services and shall modify their procurement programs as appropriate.
 
-Sec. 506. <i>Procurement of Re-refined Lubricating Oil and Retread Tires</i>. Within 180 days after the effective date of this order, agencies shall implement the EPA procurement guidelines for re-refined lubricating oil and retread tires.
+Sec. 504. Designation of Biobased Items by the USDA. The USDA Biobased Products Coordination Council shall, in consultation with the FEE, issue a Biobased Products List. (a) The Biobased Products List shall be published in the Federal Register by the USDA within 180 days after the date of this order and shall be updated biannually after publication to include additional items.
 
-(a) Commodity managers shall finalize revisions to specifications for re-refined oil and retread tires, and develop and issue specifications for tire retreading services, as commodity managers shall take affirmative steps to procure these items in accordance with RCRA section 6002 \[42 U.S.C. 6962\].
+(b) Once the Biobased Products List has been published, agencies are encouraged to modify their affirmative procurement program to give consideration to those products.
 
-(b) Once these items become available, fleet managers shall take affirmative steps to procure these items in accordance with RCRA section 6002.
+Sec. 505. Minimum Content Standard for Printing and Writing Paper. Executive agency heads shall ensure that their agencies meet or exceed the following minimum materials content standards when purchasing or causing the purchase of printing and writing paper: (a) For high speed copier paper, offset paper, forms bond, computer printout paper, carbonless paper, file folders, white wove envelopes, writing and office paper, book paper, cotton fiber paper, and cover stock, the minimum content standard shall be no less than 30 percent postconsumer materials beginning December 31, 1998. If paper containing 30 percent postconsumer material is not reasonably available, does not meet reasonable performance requirements, or is only available at an unreasonable price, then the agency shall purchase paper containing no less than 20 percent postconsumer material. The Steering Committee, in consultation with the AEEs, may revise these levels if necessary.
 
-Sec. 507. <i>Product Testing</i>. The Secretary of Commerce, through the National Institute of Standards and Technology (“NIST”), shall establish a program for testing the performance of products containing recovered materials or deemed to be environmentally preferable. NIST shall work with EPA, GSA and other public and private sector organizations that conduct appropriate life cycle analyses to gather information that will assist agencies in making selections of products and services that are environmentally preferable.
+(b) As an alternative to meeting the standards in sections \[sic\] 505(a), for all printing and writing papers, the minimum content standard shall be no less than 50 percent recovered materials that are a waste material byproduct of a finished product other than a paper or textile product that would otherwise be disposed of in a landfill, as determined by the State in which the facility is located.
 
-(a) NIST shall publish appropriate reports describing testing programs, their results, and recommendations for testing methods and related specifications for use by Executive agencies and other interested parties.
+(c) Effective January 1, 1999, no executive branch agency shall purchase, sell, or arrange for the purchase of, printing and writing paper that fails to meet the minimum requirements of this section.
 
-(b) NIST shall coordinate with other Executive and State agencies to avoid duplication with existing testing programs.
+Sec. 506. Revision of Brightness Specifications and Standards. The GSA and other executive agencies are directed to identify, evaluate, and revise or eliminate any standards or specifications unrelated to performance that present barriers to the purchase of paper or paper products made by production processes that minimize emissions of harmful byproducts. This evaluation shall include a review of unnecessary brightness and stock clause provisions, such as lignin content and chemical pulp requirements. The GSA shall complete the review and revision of such specifications within 6 months after the date of this order, and shall consult closely with the Joint Committee on Printing during such process. The GSA shall also compile any information or market studies that may be necessary to accomplish the objectives of this provision.
+
+Sec. 507. Procurement of Re-refined Lubricating Oil and Retread Tires. (a) Agencies shall implement the EPA procurement guidelines for re-refined lubricating oil and retread tires. Fleet and commodity managers shall take immediate steps, as appropriate, to procure these items in accordance with section 6002 of RCRA \[42 U.S.C. 6962\]. This provision does not preclude the acquisition of biobased (e.g., vegetable) oils.
+
+(b) The FEE shall work to educate executive agencies about the new Department of Defense Cooperative Tire Qualification Program, including the Cooperative Approval Tire List and Cooperative Plant Qualification Program, as they apply to retread tires.
 
 #### PART 6—AGENCY GOALS AND REPORTING REQUIREMENTS
 
-Sec. 601. <i>Goals for Waste Reduction</i>. Each agency shall establish a goal for solid waste prevention and a goal for recycling to be achieved by the year 1995. These goals shall be submitted to the Federal Environmental Executive within 180 days after the effective date of this order. Progress on attaining these goals shall be reported by the agencies to the Federal Environmental Executive for the annual report specified in section 301 of this order.
+Sec. 601. Agency Goals. (a)(1) Each agency shall establish either a goal for solid waste prevention and a goal for recycling or a goal for solid waste diversion to be achieved by January 1, 2000. Each agency shall further ensure that the established goals include long-range goals to be achieved by the years 2005 and 2010. These goals shall be submitted to the FEE within 180 days after the date of this order. (2) In addition to white paper, mixed paper/cardboard, aluminum, plastic, and glass, agencies should incorporate into their recycling programs efforts to recycle, reuse, or refurbish pallets and collect toner cartridges for remanufacturing. Agencies should also include programs to reduce or recycle, as appropriate, batteries, scrap metal, and fluorescent lamps and ballasts.
 
-Sec. 602. <i>Goal for Increasing the Procurement of Recycled and Other Environmentally Preferable Products</i>. Agencies shall strive to increase the procurement of products that are environmentally preferable or that are made with recovered materials and set annual goals to maximize the number of recycled products purchased, relative to non-recycled alternatives.
+(b) Agencies shall set goals to increase the procurement of products that are made with recovered materials, in order to maximize the number of recycled products purchased, relative to non-recycled alternatives.
 
-Sec. 603. <i>Review of Implementation</i>. The President's Council on Integrity and Efficiency (“PCIE”) will request that the Inspectors General periodically review agencies’ affirmative procurement programs and reporting procedures to ensure their compliance with this order.
+(c) Each agency shall set a goal for increasing the use of environmentally preferable products and services for those products and services for which the agency has completed a pilot program.
+
+(d) Agencies are encouraged to incorporate into their Government Performance \[and\] Results Act \[of 1993\] \[see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\] annual performance plans the goals listed in subsections (a), (b), and (c) above, starting with the submittal to the Office of Management and Budget of the plan accompanying the FY 2001 budget.
+
+(e) Progress on attaining these goals should be reported by the agencies to the FEE for the biennial report specified in section 302(a)(2) of this order.
 
 #### PART 7—APPLICABILITY AND OTHER REQUIREMENTS
 
-Sec. 701. <i>Contractor Operated Facilities</i>. Contracts that provide for contractor operation of a government-owned or leased facility, awarded after the effective date of this order, shall include provisions that obligate the contractor to comply with the requirements of this order within the scope of its operations. In addition, to the extent permitted by law and where economically feasible, existing contracts should be modified.
+Sec. 701. Contractor Applicability. Contracts that provide for contractor operation of a Government-owned or -leased facility and/or contracts that provide for contractor or other support services at Government-owned or -operated facilities awarded by executive agencies after the date of this order, shall include provisions that obligate the contractor to comply with the requirements of this order within the scope of its operations.
 
-Sec. 702. <i>Real Property Acquisition and Management</i>. Within 90 days after the effective date of this order, and to the extent permitted by law and where economically feasible, Executive agencies shall ensure compliance with the provisions of this order in the acquisition and management of federally owned and leased space. GSA and other Executive agencies shall also include environmental and recycling provisions in the acquisition of all leased space and in the construction of new federal buildings.
+Sec. 702. Real Property Acquisition and Management. Within 90 days after the date of this order, and to the extent permitted by law and where economically feasible, executive agencies shall ensure compliance with the provisions of this order in the acquisition and management of Federally owned and leased space. The GSA and other executive agencies shall also include environmental and recycling provisions in the acquisition and management of all leased space and in the construction of new Federal buildings.
 
-Sec. 703. <i>Retention of Funds</i>. Within 90 days after the effective date of this order, the Administrator of GSA shall develop a legislative proposal providing authority for Executive agencies to retain a share of the proceeds from the sale of materials recovered through recycling or waste prevention programs and specifying the eligibility requirements for the materials being recycled.
+Sec. 703. Retention of Funds. (a) The Administrator of General Services shall continue with the program that retains for the agencies the proceeds from the sale of materials recovered through recycling or waste prevention programs and specifying the eligibility requirements for the materials being recycled.
 
-Sec. 704. <i>Model Facility Programs</i>. Each Executive department and major procuring agency shall establish model facility demonstration programs that include comprehensive waste prevention and recycling programs and emphasize the procurement of recycled and environmentally preferable products and services using an electronic data interchange (EDI) system.
+(b) Agencies in non-GSA managed facilities, to the extent permitted by law, should develop a plan to retain the proceeds from the sale of materials recovered through recycling or waste prevention programs.
 
-Sec. 705. <i>Recycling Programs</i>. Each Executive agency that has not already done so shall initiate a program to promote cost effective waste prevention and recycling of reusable materials in all of its facilities. The recycling programs implemented pursuant to this section must be compatible with applicable State and local recycling requirements. Federal agencies shall also consider cooperative ventures with State and local governments to promote recycling and waste reduction in the community.
+Sec. 704. Model Facility Programs. Each executive agency shall establish a model demonstration program incorporating some or all of the following elements as appropriate. Agencies are encouraged to demonstrate and test new and innovative approaches such as incorporating environmentally preferable and bio-based products; increasing the quantity and types of products containing recovered materials; expanding collection programs; implementing source reduction programs; composting organic materials when feasible; and exploring public/private partnerships to develop markets for recovered materials.
+
+Sec. 705. Recycling Programs. (a)(1) Each executive agency that has not already done so shall initiate a program to promote cost-effective waste prevention and recycling of reusable materials in all of its facilities. The recycling programs implemented pursuant to this section must be compatible with applicable State and local recycling requirements.
+
+(2) Agencies shall designate a recycling coordinator for each facility or installation. The recycling coordinator shall implement or maintain waste prevention and recycling programs in the agencies’ action plans.
+
+(b) Executive agencies shall also consider cooperative ventures with State and local governments to promote recycling and waste reduction in the community.
+
+Sec. 706. Review of Implementation. The President's Council on Integrity and Efficiency shall request that the Inspectors General periodically review agencies’ implementation of this order.
 
 #### PART 8—AWARENESS
 
-Sec. 801. <i>Agency Awards Program</i>. A government-wide award will be presented annually by the White House to the best, most innovative program implementing the objectives of this order to give greater visibility to these efforts so that they can be incorporated government-wide.
+Sec. 801. Training. (a) Within 180 days of the date of this order, the FEE and OFPP should evaluate the training courses provided by the Federal Acquisition Institute and the Defense Acquisition University and recommend any appropriate curriculum changes to ensure that procurement officials are aware of the requirements of this order.
 
-Sec. 802. <i>Internal Agency Awards Programs</i>. Each agency shall develop an internal agency-wide awards program, as appropriate, to reward its most innovative environmental programs. Winners of agency-wide awards will be eligible for the White House award program.
+(b) Executive agencies shall provide training to program management and requesting activities as needed to ensure awareness of the requirements of this order.
 
-#### PART 9—REVOCATION, LIMITATION AND IMPLEMENTATION
+Sec. 802. Internal Agency Awards Programs. Each agency shall develop an internal agency-wide awards program, as appropriate, to reward its most innovative environmental programs. Among others, winners of agency-wide awards will be eligible for the White House Awards Program.
 
-Sec. 901. Executive Order No. 12780, dated October 31, 1991, is hereby revoked.
+Sec. 803. White House Awards Program. A Government-wide award will be presented annually by the White House to the best, most innovative programs implementing the objectives of this order to give greater visibility to these efforts so that they can be incorporated Government-wide. The White House Awards Program will be administered jointly by the FEE and the CEQ.
 
-Sec. 902. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any other person.
+#### PART 9—REVOCATION, LIMITATION, AND IMPLEMENTATION
 
-Sec. 903. The policies expressed in this order, including the requirements and elements for effective agency affirmative procurement programs, shall be implemented and incorporated in the Federal Acquisition Regulation (FAR) within 180 days after the effective date of this order. The implementation language shall consist of providing specific direction and guidance on agency programs for preference, promotion, estimation, certification, reviewing and monitoring.
+Sec. 901. Executive Order 12873 of October 20, 1993, is hereby revoked.
 
-Sec. 904. This order shall be effective immediately.
+Sec. 902. This order is intended only to improve the internal management of the executive branch and is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any other person.
+
+Sec. 903. The policies and direction expressed in the EPA guidance to be developed pursuant to section 503 of this order shall be implemented and incorporated in the Federal Acquisition Regulation within 180 days after issuance of the guidance.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

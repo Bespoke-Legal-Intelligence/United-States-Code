@@ -100,7 +100,7 @@ The provisions of this section shall apply notwithstanding any other provision o
 
 In this section, the term “welfare reform effective date” means the effective date, with respect to a State, of title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (as specified in section 116 of such Act).
 
-(Aug. 14, 1935, ch. 531, title XIX, §1931, as added Aug. 22, 1996, Pub. L. 104–193, title I, §114(a)(2), 110 Stat. 2177.)
+(Aug. 14, 1935, ch. 531, title XIX, §1931, as added Pub. L. 104–193, title I, §114(a)(2), Aug. 22, 1996, 110 Stat. 2177.)
 
 #### References in Text
 

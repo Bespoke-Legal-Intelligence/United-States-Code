@@ -74,7 +74,7 @@ Except as specifically provided under this section, nothing in this subchapter s
 
 For each fiscal year, the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the appropriate account in the Treasury that provides for payments under section 1396b(a) of this title with respect to medical assistance provided under this section, of an amount equivalent to the total of the amount of payments made under such section that is attributable to this section and such transfer shall be treated as an expenditure from such Trust Fund for purposes of section 1395r of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Aug. 5, 1997, Pub. L. 105–33, title IV, §4732(c), 111 Stat. 520.)
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520.)
 
 #### Prior Provisions
 

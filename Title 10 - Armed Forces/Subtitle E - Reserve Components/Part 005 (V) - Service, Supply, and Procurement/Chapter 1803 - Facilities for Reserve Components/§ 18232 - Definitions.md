@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;(3) The term “armory” means a structure that houses one or more units of a reserve component and is used for training and administering those units. It includes a structure that is appurtenant to such a structure and houses equipment used for that training and administration.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2232; Sept. 2, 1958, Pub. L. 85–861, §1 (36), 72 Stat. 1456; July 12, 1982, Pub. L. 97–214, §3(d)(1), 96 Stat. 170; Apr. 21, 1987, Pub. L. 100–26, §7(k)(2), 101 Stat. 284; renumbered §18232, Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), 108 Stat. 3010.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2232; Pub. L. 85–861, §1(36), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 97–214, §3(d)(1), July 12, 1982, 96 Stat. 170; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; renumbered §18232, Pub. L. 103–337, div. A, title XVI, §1664(b)(2), Oct. 5, 1994, 108 Stat. 3010.)
 
 Historical and Revision Notes<br>1956
 

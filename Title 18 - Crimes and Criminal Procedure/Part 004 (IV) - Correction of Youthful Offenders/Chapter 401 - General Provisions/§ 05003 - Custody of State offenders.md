@@ -18,7 +18,7 @@
 
 (d) The term “State” as used in this section includes any State, territory, or possession of the United States, and the Canal Zone.
 
-(Added May 9, 1952, ch. 253, §1, 66 Stat. 68; amended Oct. 19, 1965, Pub. L. 89–267, §1, 79 Stat. 990; Nov. 10, 1986, Pub. L. 99–646, §66, 100 Stat. 3615.)
+(Added May 9, 1952, ch. 253, §1, 66 Stat. 68; amended Pub. L. 89–267, §1, Oct. 19, 1965, 79 Stat. 990; Pub. L. 99–646, §66, Nov. 10, 1986, 100 Stat. 3615.)
 
 #### References in Text
 

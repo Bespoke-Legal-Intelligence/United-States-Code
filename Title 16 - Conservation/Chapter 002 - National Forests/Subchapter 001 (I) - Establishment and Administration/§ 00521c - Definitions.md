@@ -4,7 +4,7 @@ For purposes of sections 521c to 521i of this title—
 
 &emsp;(1) the term “person” includes any State or any political subdivision or entity thereof;
 
-&emsp;(2) the term “interchange” means a land transfer in which the Secretary and another person exchange titles to lands or interests in lands of approximately equal value where the Secretary finds that such a value determination can be made without a formal appraisal and under such regulations as the Secretary may prescribe; and
+&emsp;(2) the term “interchange” means a land transfer in which the Secretary and another person exchange titles to lands or interests in lands of approximately equal value where theSecretary finds that such a value determination can be made without a formal appraisal and under such regulations as the Secretary may prescribe; and
 
 &emsp;(3) the term “Secretary” means the Secretary of Agriculture of the United States.
 

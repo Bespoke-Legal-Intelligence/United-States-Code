@@ -30,6 +30,10 @@ Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and 
 
 1997—Subsec. (a)(2). Pub. L. 105–85 substituted “procurement for the system is estimated to be” for “procurement of”.
 
+#### Change of Name
+
+Committee on National Security of House of Representatives changed to Committee on Armed Services of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2302 of this title.

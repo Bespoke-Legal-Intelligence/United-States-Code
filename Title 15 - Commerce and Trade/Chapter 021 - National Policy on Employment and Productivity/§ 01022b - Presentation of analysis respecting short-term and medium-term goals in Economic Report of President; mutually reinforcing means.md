@@ -8,7 +8,7 @@ To aid in determining the short-term and medium-term goals for employment, produ
 
 In choosing means to achieve the goal for the reduction of unemployment and choosing means to achieve the goal of reasonable price stability, those means which are mutually reinforcing shall be used to the extent practicable.
 
-(Feb. 20, 1946, ch. 33, §5, as added Oct. 27, 1978, Pub. L. 95–523, title I, §105, 92 Stat. 1895.)
+(Feb. 20, 1946, ch. 33, §5, as added Pub. L. 95–523, title I, §105, Oct. 27, 1978, 92 Stat. 1895.)
 
 #### References in Text
 

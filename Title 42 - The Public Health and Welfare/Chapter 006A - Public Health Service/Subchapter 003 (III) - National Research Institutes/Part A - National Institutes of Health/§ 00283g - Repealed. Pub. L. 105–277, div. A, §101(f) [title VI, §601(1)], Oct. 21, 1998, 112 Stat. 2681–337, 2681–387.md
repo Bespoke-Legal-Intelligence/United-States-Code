@@ -1,0 +1,4 @@
+### §283g. Repealed. Pub. L. 105–277, div. A, §101(f) \[title VI, §601(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–387
+
+Section, act July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 103–43, title II, §209, June 10, 1993, 107 Stat. 149, related to Office of Alternative Medicine.
+

@@ -46,7 +46,7 @@ Funds disbursed from the Environmental Fund in an eligible country shall be admi
 
 &emsp;(7) have any grant over $100,000 be subject to veto by the United States and the government of the eligible country.
 
-(July 10, 1954, ch. 469, title VI, §607, as added Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3659; amended Dec. 13, 1991, Pub. L. 102–237, title III, §305, 105 Stat. 1855.)
+(July 10, 1954, ch. 469, title VI, §607, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3659; amended Pub. L. 102–237, title III, §305, Dec. 13, 1991, 105 Stat. 1855.)
 
 #### Amendments
 

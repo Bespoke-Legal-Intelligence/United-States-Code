@@ -8,6 +8,12 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 This chapter, referred to in text, was in the original “This Act”. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I, which title is set out as sections 78a to 78d, 78e to 78<i>l</i>, 78m to 78<i>o</i>, and 78<i>o</i>–3 to 78hh of this title. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. Although these latter provisions were set out as a separate title, they were part of the act; hence, they are technically a part of the “Securities Exchange Act of 1934”.
 
+#### Short Title of 1998 Amendments
+
+Pub. L. 105–366, §1, Nov. 10, 1998, 112 Stat. 3302, provided that: “This Act \[enacting section 78dd–3 of this title, amending sections 78dd–1, 78dd–2, and 78ff of this title, and enacting provisions set out as notes under section 78dd–1 of this title\] may be cited as the ‘International Anti-Bribery and Fair Competition Act of 1998’.”
+
+Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act \[amending sections 77b, 77k, 77m, 77p, 77r, 77v, 77z–1 to 77z–3, 77aa, 77ccc, 77ddd, 77mmm, 77sss, 78c, 78d, 78g, 78n, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78s, 78t, 78u–4, 78z, 78bb, 78ee, 78kk, 78<i>ll</i>, 80a–2, 80a–3, 80a–12, 80a–18, 80a–29, 80a–30, 80b–3, and 80b–18a of this title and enacting provisions set out as notes under this section and sections 77p and 78u of this title\] may be cited as the ‘Securities Litigation Uniform Standards Act of 1998’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
@@ -50,7 +56,7 @@ Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1,and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
+Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions setout as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
 
 Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: “This part \[part I (§§5001–5003) of subtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the ‘Foreign Corrupt Practices Act Amendments of 1988’.”
 
@@ -92,7 +98,21 @@ Act May 27, 1936, ch. 462, 49 Stat. 1375, enacting sections 78<i>l</i>–1, 78<i
 
 Pub. L. 104–290, §3, Oct. 11, 1996, 110 Stat. 3417, provided: “If any provision of this Act \[see Short Title of 1996 Amendment note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
-#### Purposes
+#### Congressional Findings of 1998 Amendment
+
+Pub. L. 105–353, §2, Nov. 3, 1998, 112 Stat. 3227, provided that: “The Congress finds that—
+
+&emsp;“(1) the Private Securities Litigation Reform Act of 1995 \[see Short Title of 1995 Amendment note above\] sought to prevent abuses in private securities fraud lawsuits;
+
+&emsp;“(2) since enactment of that legislation, considerable evidence has been presented to Congress that a number of securities class action lawsuits have shifted from Federal to State courts;
+
+&emsp;“(3) this shift has prevented that Act from fully achieving its objectives;
+
+&emsp;“(4) State securities regulation is of continuing importance, together with Federal regulation of securities, to protect investors and promote strong financial markets; and
+
+&emsp;“(5) in order to prevent certain State private securities class action lawsuits alleging fraud from being used to frustrate the objectives of the Private Securities Litigation Reform Act of 1995, it is appropriate to enact national standards for securities class action lawsuits involving nationally traded securities, while preserving the appropriate enforcement powers of State securities regulators and not changing the current treatment of individual lawsuits.”
+
+#### Purposes of 1996 Amendment
 
 Pub. L. 104–290, title IV, §402, Oct. 11, 1996, 110 Stat. 3441, provided: “The purposes of this title \[see Short Title of 1996 Amendment note above\] are—
 

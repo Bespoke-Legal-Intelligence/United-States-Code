@@ -2,7 +2,7 @@
 
 If in an emergency the President considers it urgent, a temporary air base or fortification may be built on private land if the owner consents in writing.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Sept. 1, 1970, Pub. L. 91–393, §5, 84 Stat. 835.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 91–393, §5, Sept. 1, 1970, 84 Stat. 835.)
 
 Historical and Revision Notes
 

@@ -4,7 +4,7 @@
 
 Subject to subsection (d) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
 
-&emsp;(1) such exclusion relates to a condition (whether physical or mental), regardless of thecause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
+&emsp;(1) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
 
 &emsp;(2) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date; and
 
@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (4) Waiting period
 
-&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual iseligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage
 
@@ -90,7 +90,7 @@ For purposes of this part—
 
 #### (C) Plan notice
 
-&emsp;&emsp;In the case of an election with respect to a group health plan under subparagraph (B) (whether or not health insurance coverage isprovided in connection with such plan), the plan shall—
+&emsp;&emsp;In the case of an election with respect to a group health plan under subparagraph (B) (whether or not health insurance coverage is provided in connection with such plan), the plan shall—
 
 &emsp;&emsp;&emsp;(i) prominently state in any disclosure statements concerning the plan, and state to each enrollee at the time of enrollment under the plan, that the plan has made such election, and
 
@@ -164,7 +164,7 @@ For purposes of this part—
 
 #### (3) Regulations
 
-&emsp;The Secretary shall establish rules to prevent an entity's failure to provide informationunder paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
+&emsp;The Secretary shall establish rules to prevent an entity's failure to provide information under paragraph (1) or (2) with respect to previous coverage of an individual from adversely affecting any subsequent coverage of the individual under another group health plan or health insurance coverage.
 
 #### (f) Special enrollment periods
 
@@ -192,7 +192,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) a group health plan makes coverage available with respect to a dependent of an individual,
 
-&emsp;&emsp;&emsp;(ii) the individual is a participant under the plan (or has met any waiting period applicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period), and
+&emsp;&emsp;&emsp;(ii) the individual is a participant under the plan (or has met any waiting periodapplicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period), and
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 
@@ -244,7 +244,7 @@ For purposes of this part—
 
 &emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of this part for the State involved with respect to such issuer.
 
-(July 1, 1944, ch. 373, title XXVII, §2701, as added Aug. 21, 1996, Pub. L. 104–191, title I, §102(a), 110 Stat. 1955.)
+(July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955.)
 
 #### References in Text
 

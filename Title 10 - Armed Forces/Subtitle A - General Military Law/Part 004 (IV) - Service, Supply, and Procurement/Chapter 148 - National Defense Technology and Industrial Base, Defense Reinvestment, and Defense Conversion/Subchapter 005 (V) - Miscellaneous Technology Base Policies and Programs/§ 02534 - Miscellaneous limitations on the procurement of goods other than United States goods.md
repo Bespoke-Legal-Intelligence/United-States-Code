@@ -180,7 +180,7 @@ Historical and Revision Notes
 
 Sept. 20, 1968, Pub. L. 90–500, §404, 82 Stat. 851.
 
-The words “of the United States under the provisions of this Act or the provisions of any other law” areomitted as surplus. The word “acquisition” is substituted for “purchase, lease, rental, or other acquisition” because it is inclusive. The words “this section” are substituted for “this prohibition” because of the restatement.
+The words “of the United States under the provisions of this Act or the provisions of any other law” are omitted as surplus. The word “acquisition” is substituted for “purchase, lease, rental, or other acquisition” because it is inclusive. The words “this section” are substituted for “this prohibition” because of the restatement.
 
 #### Amendments
 

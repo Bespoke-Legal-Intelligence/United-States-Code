@@ -10,13 +10,13 @@ There are authorized to be appropriated such sums as may be necessary to establi
 
 &emsp;(A) The total sum of $6,000,000 shall be allotted to the States for the fiscal year ending September 30, 1982 (which for purposes of this section shall include the month of September 1981).
 
-&emsp;(B) The total sum of $6,000,000, plus any amount remaining available (after the application of paragraph (4)) from the allotment made under subparagraph (A), shall be allottedto the States for the fiscal year ending September 30, 1983.
+&emsp;(B) The total sum of $6,000,000, plus any amount remaining available (after the application of paragraph (4)) from the allotment made under subparagraph (A), shall be allotted to the States for the fiscal year ending September 30, 1983.
 
 &emsp;(C) The total sum of $6,000,000, plus any amount remaining available (after the application of paragraph (4)) from the allotments made under subparagraphs (A) and (B), shall be allotted to the States for the fiscal year ending September 30, 1984.
 
 (2) The allotment to each State from the total sum allotted under paragraph (1) for any fiscal year shall bear the same ratio to such total sum as the number of individuals in such State who are over age 17 and under age 65 and are receiving supplemental security income benefits as disabled individuals in such year (as determined by the Commissioner of Social Security on the basis of the most recent data available) bears to the total number of such individuals in all the States. For purposes of the preceding sentence, the term “supplemental security income benefits” includes payments made pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66.
 
-(3) At the beginning of each fiscal year in which the pilot program under this section is in effect, each State that does not intend to use the allotment to which it is entitled for such year (or any allotment which was made to it for a prior fiscal year), or that does not intend to use the full amount of any such allotment, shall certify to the Commissioner of Social Security the amount of such allotment which it does not intend to use, and the State's allotment for the fiscal year (or years) involved shall thereupon be reduced by the amount so certified.
+(3) At the beginning of each fiscal year in which the pilot program under this section is in effect, each State that does not intend to use the allotment to which it is entitled for such year (or any allotment which was made to it for a prior fiscal year), or that does not intend to use the full amount of any such allotment, shall certify to the Commissioner of Social Securitythe amount of such allotment which it does not intend to use, and the State's allotment for the fiscal year (or years) involved shall thereupon be reduced by the amount so certified.
 
 (4) The portion of the total amount available for allotment for any particular fiscal year under paragraph (1) which is not allotted to States for that year by reason of paragraph (3) (plus the amount of any reductions made at the beginning of such year in the allotments of States for prior fiscal years under paragraph (3)) shall be reallocated in such manner as the Commissioner of Social Security may determine to be appropriate to States which need, and will use, additional assistance in providing services to severely handicapped individuals in that particular year under their approved plans. Any amount reallocated to a State under this paragraph for use in a particular fiscal year shall be treated for purposes of this section as increasing such State's allotment for that year by an equivalent amount.
 
@@ -46,7 +46,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 &emsp;(A) The Commissioner of Social Security shall, prior to each period for which a payment is to be made to a State, estimate the amount to be paid to the State for such period under the provisions of this section.
 
-&emsp;(B) From the allotment available therefor, the Commissioner of Social Security shall pay the amount so estimated, reduced or increased, as the case may be, by any sum (notpreviously adjusted under this subsection) by which the Commissioner finds that the Commissioner's estimate of the amount to be paid the State for any prior period under this section was greater or less than the amount which should have been paid to the State for such period under this section.
+&emsp;(B) From the allotment available therefor, the Commissioner of Social Security shall pay the amount so estimated, reduced or increased, as the case may be, by any sum (not previously adjusted under this subsection) by which the Commissioner finds that the Commissioner's estimate of the amount to be paid the State for any prior period under this section was greater or less than the amount which should have been paid to the State for such period under this section.
 
 #### (e) Rules and regulations
 
@@ -56,7 +56,7 @@ Within nine months after June 9, 1980, the Commissioner of Social Security shall
 
 Each State participating in the pilot program under this section shall from time to time report to the Commissioner of Social Security on the operation and results of such program in that State, with particular emphasis upon the work incentive effects of the program. On or before October 1, 1983, the Commissioner of Social Security shall submit to the Congress a report on the program, incorporating the information contained in the State reports along with the Commissioner's findings and recommendations.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1620, as added June 9, 1980, Pub. L. 96–265, title II, §201(c), 94 Stat. 446; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2353(p), 95 Stat. 874; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
+(Aug. 14, 1935, ch. 531, title XVI, §1620, as added Pub. L. 96–265, title II, §201(c), June 9, 1980, 94 Stat. 446; amended Pub. L. 97–35, title XXIII, §2353(p), Aug. 13, 1981, 95 Stat. 874; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@ To ensure that new technology is introduced, new information is integrated into 
 
 &emsp;&emsp;(D) test, evaluate, and seek registration of chemicals for use in implementing the programs and activities authorized under this chapter;
 
-&emsp;&emsp;(E) conduct other activities, including training of State forestry personnel whom the Secretary deems necessary to ensure that the programs and activities authorized under this chapter are responsive to special problems, unique situations, and changing conditions.
+&emsp;&emsp;(E) conduct other activities, including training of State forestry personnel whom the Secretary deems necessary to ensurethat the programs and activities authorized under this chapter are responsive to special problems, unique situations, and changing conditions.
 
 &emsp;(2) The Secretary may make funds available to cooperators under this chapter without regard to the provisions of section 3324(a) and (b) of title 31, which prohibits advances of public money.
 
@@ -41,4 +41,8 @@ In subsec. (c)(2), “section 3324(a) and (b) of title 31” substituted for “
 #### Prior Provisions
 
 A prior section 11 of Pub. L. 95–313 was renumbered section 14 and is classified to section 2110 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2106b of this title.
 

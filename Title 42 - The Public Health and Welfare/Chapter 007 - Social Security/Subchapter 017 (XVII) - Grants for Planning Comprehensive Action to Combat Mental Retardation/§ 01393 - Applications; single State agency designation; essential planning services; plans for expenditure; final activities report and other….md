@@ -12,5 +12,5 @@ In order to be eligible for a grant under section 1392 of this title, a State mu
 
 &emsp;(5) provides for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for funds paid to the State under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVII, §1703, as added Oct. 24, 1963, Pub. L. 88–156, §5, 77 Stat. 275.)
+(Aug. 14, 1935, ch. 531, title XVII, §1703, as added Pub. L. 88–156, §5, Oct. 24, 1963, 77 Stat. 275.)
 

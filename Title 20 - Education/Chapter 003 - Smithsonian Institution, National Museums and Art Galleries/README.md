@@ -123,9 +123,8 @@
 | (a) | Adoption of seal; Board function notwithstanding vacancies; quorum. |
 | (b) | Powers and obligations of Board in respect of trust funds. |
 | (c) | Annual report of operations and finances. |
-| (d) | Audit of accounts. |
-| (e) | Inspector General. |
-| (f) | Property and personnel compensation. |
+| (d) | Inspector General. |
+| (e) | Property and personnel compensation. |
 | 76m, 76n. | Repealed. |
 | 76<i>o.</i> | Borrowing authority to finance parking facilities. |
 | (a) | Revenue bonds. |

@@ -12,5 +12,5 @@ The Secretary shall annually submit to the Congress a report setting forth—
 
 &emsp;(5) the recommendations of the Secretary for statutory and regulatory improvements to the program.
 
-(Sept. 1, 1937, ch. 896, title III, §309, as added Nov. 28, 1990, Pub. L. 101–625, title IV, §411, 104 Stat. 4159.)
+(Sept. 1, 1937, ch. 896, title III, §309, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4159.)
 

@@ -4,11 +4,7 @@
 
 (b) For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated $50,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998. Such authorization is in addition to any other authorization of appropriations that is available for such purpose.
 
-(July 1, 1944, ch. 373, title IV, §447, as added Dec. 14, 1993, Pub. L. 103–183, title III, §302(a), 107 Stat. 2235.)
-
-#### Codification
-
-Another section 447 of act July 1, 1944, is classified to section 285f–1 of this title.
+(July 1, 1944, ch. 373, title IV, §447A, formerly §447, as added Pub. L. 103–183, title III, §302(a), Dec. 14, 1993, 107 Stat. 2235; renumbered §447A, Pub. L. 105–392, title IV, §401(b)(3), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Research Through Food and Drug Administration
 

@@ -60,7 +60,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 &emsp;make such rules and regulations as he deems necessary to carry out the purposes of this subchapter.
 
-(July 15, 1949, ch. 338, title V, §510, 63 Stat. 437; Aug. 3, 1976, Pub. L. 94–375, §25(c), 90 Stat. 1078; Oct. 31, 1978, Pub. L. 95–557, title V, §503, 92 Stat. 2112; Dec. 21, 1979, Pub. L. 96–153, title V, §507, 93 Stat. 1136; Oct. 8, 1980, Pub. L. 96–399, title V, §§508, 510, 94 Stat. 1670, 1671; Nov. 30, 1983, Pub. L. 98–181, title V, §507, 97 Stat. 1243; Oct. 17, 1984, Pub. L. 98–479, title I, §105(c), 98 Stat. 2227; Feb. 5, 1988, Pub. L. 100–242, title III, §313, 101 Stat. 1897; Nov. 7, 1988, Pub. L. 100–628, title X, §1045, 102 Stat. 3273; Nov. 28, 1990, Pub. L. 101–625, title VII, §§710, 711, 104 Stat. 4291.)
+(July 15, 1949, ch. 338, title V, §510, 63 Stat. 437; Pub. L. 94–375, §25(c), Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–557, title V, §503, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §507, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §§508, 510, Oct. 8, 1980, 94 Stat. 1670, 1671; Pub. L. 98–181, title V, §507, Nov. 30, 1983, 97 Stat. 1243; Pub. L. 98–479, title I, §105(c), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 100–242, title III, §313, Feb. 5, 1988, 101 Stat. 1897; Pub. L. 100–628, title X, §1045, Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §§710, 711, Nov. 28, 1990, 104 Stat. 4291.)
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 100–628 inserted before semicolon at end “; except tha
 
 1984—Subsec. (e). Pub. L. 98–479 substituted “; such” and “; where” for “. Such” and “. Where”, respectively.
 
-1983—Subsec. (e). Pub. L. 98–181, §507(a), inserted provisions relating to the authority of the Secretary to transfer section 1472 inventory property to private nonprofit organizations or public bodies.
+1983—Subsec. (e). Pub. L. 98–181, §507(a), inserted provisions relating to the authority of the Secretary totransfer section 1472 inventory property to private nonprofit organizations or public bodies.
 
 Subsecs. (j), (k). Pub. L. 98–181, §507(b), added subsec. (j) and redesignated former subsec. (j) as (k).
 

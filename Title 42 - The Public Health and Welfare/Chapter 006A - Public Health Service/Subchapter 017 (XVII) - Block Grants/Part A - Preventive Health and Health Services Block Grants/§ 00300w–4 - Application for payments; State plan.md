@@ -64,7 +64,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;&emsp;(i) the State will collect and report data in accordance with section 300w–5(a) of this title; and
 
-&emsp;&emsp;(ii) for purposes of subparagraph (A), progress will be measured through use of each of the applicable uniform data items developed by the Secretary under paragraph (2) of such section, or if no such items areapplicable, through use of the uniform criteria developed by the Secretary under paragraph (3) of such section.
+&emsp;&emsp;(ii) for purposes of subparagraph (A), progress will be measured through use of each of the applicable uniform data items developed by the Secretary under paragraph (2) of such section, or if no such items are applicable, through use of the uniform criteria developed by the Secretary under paragraph (3) of such section.
 
 &emsp;(6) With respect to the activities authorized in section 300w–3 of this title, the State agrees to maintain State expenditures for such activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying to receive payments under section 300w–2 of this title.
 
@@ -114,7 +114,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;A condition under paragraph (1) for a State is that the State public health officer serves as the chair of the Committee, and that the Committee meets not less than twice each fiscal year.
 
-(July 1, 1944, ch. 373, title XIX, §1905, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 538; amended Oct. 30, 1984, Pub. L. 98–555, §5(a), (d), 98 Stat. 2855, 2856; Nov. 10, 1986, Pub. L. 99–646, §87(d)(1)(B), 100 Stat. 3624; Nov. 14, 1986, Pub. L. 99–654, §3(b)(1)(B), 100 Stat. 3663; Nov. 4, 1988, Pub. L. 100–607, title III, §301(c), 102 Stat. 3112; Nov. 16, 1990, Pub. L. 101–590, §4, 104 Stat. 2928; Oct. 27, 1992, Pub. L. 102–531, title I, §103(a), 106 Stat. 3470.)
+(July 1, 1944, ch. 373, title XIX, §1905, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 538; amended Pub. L. 98–555, §5(a), (d), Oct. 30, 1984, 98 Stat. 2855, 2856; Pub. L. 99–646, §87(d)(1)(B), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(1)(B), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(c), Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §4, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–531, title I, §103(a), Oct. 27, 1992, 106 Stat. 3470.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, other than by committing a violation subject to a penalty pursuant to section 78u–1 of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, other than by committing a violation subject to a penalty pursuant to section 78u–1 of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penaltyto be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 
@@ -66,7 +66,7 @@ In any proceeding under subsection (b) of this section, the court may prohibit, 
 
 Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
 
-(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Dec. 4, 1987, Pub. L. 100–181, title II, §208, 101 Stat. 1253; Oct. 15, 1990, Pub. L. 101–429, title I, §101, 104 Stat. 932; Dec. 22, 1995, Pub. L. 104–67, title I, §103(b)(1), 109 Stat. 756.)
+(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Federal Rules of Civil Procedure
 

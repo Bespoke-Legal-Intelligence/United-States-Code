@@ -16,7 +16,21 @@ For the purpose of this section, the population ages 5 through 17 in a State and
 
 Notwithstanding section 1469a of title 48,<sup>1</sup> funds allocated under this part to an Insular Area described in that section shall be deemed to be direct payments to classes of individuals, and the Insular Area may not consolidate such funds with other funds received by the Insular Area from any department or agency of the United States Government.
 
-(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2459.)
+#### (e) FAS eligibility
+
+#### (1) Fiscal years 2000 through 2004
+
+&emsp;Notwithstanding any other provision of this subpart, in the case of students from the Freely Associated States who may be selected to receive a scholarship under this subpart for the first time for any of the fiscal years 2000 through 2004—
+
+&emsp;&emsp;(A) there shall be 10 scholarships in the aggregate awarded to such students for each of the fiscal years 2000 through 2004; and
+
+&emsp;&emsp;(B) the Pacific Regional Educational Laboratory shall administer the program under this subpart in the case of scholarships for students in the Freely Associated States.
+
+#### (2) Termination of eligibility
+
+&emsp;A student from the Freely Associated States shall not be eligible to receive a scholarship under this subpart after September 30, 2004.
+
+(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2459; Pub. L.105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668.)
 
 #### References in Text
 
@@ -28,6 +42,8 @@ A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L.
 
 #### Amendments
 
+1998—Subsec. (e). Pub. L. 105–244 added subsec. (e).
+
 1993—Subsec. (d). Pub. L. 103–208 added subsec. (d).
 
 1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “From the sums appropriated pursuant to section 1070d–41 of this title for any fiscal year, the Secretary shall allocate to each State having an agreement under section 1070d–35 of this title—
@@ -36,9 +52,13 @@ A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L.
 
 &emsp;“(2) $10,000, plus 5 percent of the amount to which a State is eligible under paragraph (1) of this section.”
 
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective on and after Oct. 1, 1993, see section 5(b)(1) of Pub. L. 103–208, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 103–208 effective on and after Oct. 1, 1993, see section 5(b)(1) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Section Referred to in Other Sections
 

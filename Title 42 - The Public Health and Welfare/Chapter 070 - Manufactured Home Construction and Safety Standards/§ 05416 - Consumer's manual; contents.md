@@ -2,7 +2,7 @@
 
 The Secretary shall develop guidelines for a consumer's manual to be provided to manufactured home purchasers by the manufacturer. These manuals should identify and explain the purchasers’ responsibilities for operation, maintenance, and repair of their manufactured homes.
 
-(Pub. L. 93–383, title VI, §617, Aug. 22, 1974, 88 Stat. 711; Pub. L. 96–399, title III, §308(c)(4), Oct.8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417.)
+(Pub. L. 93–383, title VI, §617, Aug. 22, 1974, 88 Stat. 711; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417.)
 
 #### Codification
 

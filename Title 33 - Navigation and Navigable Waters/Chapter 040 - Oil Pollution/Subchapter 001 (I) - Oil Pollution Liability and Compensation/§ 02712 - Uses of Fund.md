@@ -16,7 +16,7 @@ The Fund shall be available to the President for—
 
 &emsp;(4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
 
-&emsp;(5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (<i>l</i>) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
+&emsp;(5) the payment of Federal administrative, operational, and personnel costs and expensesreasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (<i>l</i>) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
 
 &emsp;&emsp;(A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
 
@@ -96,7 +96,7 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), amounts may be obligated from the Fund for the restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under section 2706(c) of this title.
+&emsp;Except as provided in paragraph (2), amounts may be obligated from the Fund forthe restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under section 2706(c) of this title.
 
 #### (2) Exception
 
@@ -116,7 +116,7 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the OilPollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as notes under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of Title 46, Appendix. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as notes under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of Title 46, Appendix. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Delegation of Functions
 

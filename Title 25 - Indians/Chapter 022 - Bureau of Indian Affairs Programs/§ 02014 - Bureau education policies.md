@@ -12,7 +12,3 @@ Within 180 days of November 1, 1978, the Secretary shall develop, publish in the
 
 A prior section 2014, Pub. L. 95–561, title XI, §1134, Nov. 1, 1978, 92 Stat. 2327, related to uniform education procedures and practices by Bureau divisions, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2019 of this title.
-

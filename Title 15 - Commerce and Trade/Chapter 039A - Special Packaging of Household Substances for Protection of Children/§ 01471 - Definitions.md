@@ -18,7 +18,7 @@ For the purpose of this Act—
 
 &emsp;(B) any shipping container or outer wrapping used by retailers to ship or deliver any household substance to consumers unless it is the only such container or wrapping.
 
-(4) The term “special packaging” means packaging that is designed or constructed to be significantly difficult for children under five years of age to open or obtain a toxic or harmful amount of the substance contained therein within a reasonable time and not difficult for normal adults to use properly, but does not mean packaging which all such children cannot open or obtain a toxic or harmful amount within a reasonable time.
+(4) The term “special packaging” means packaging that is designed or constructed to be significantly difficult for children under five years of age to open or obtain a toxic or harmful amount of the substance contained therein within a reasonable time and not difficult for normaladults to use properly, but does not mean packaging which all such children cannot open or obtain a toxic or harmful amount within a reasonable time.
 
 (5) The term “labeling” means all labels and other written, printed, or graphic matter (A) upon any household substance or its package, or (B) accompanying such substance.
 

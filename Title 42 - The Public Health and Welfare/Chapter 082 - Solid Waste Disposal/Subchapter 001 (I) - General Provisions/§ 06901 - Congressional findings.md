@@ -100,7 +100,7 @@ Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[ena
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–580 provided that: “This Act \[enacting this chapter and provisions set out as notesunder this section and section 6981 of this title\] may be cited as the ‘Resource Conservation and Recovery Act of 1976’.”
+Section 1 of Pub. L. 94–580 provided that: “This Act \[enacting this chapter and provisions set out as notes under this section and section 6981 of this title\] may be cited as the ‘Resource Conservation and Recovery Act of 1976’.”
 
 #### Short Title
 

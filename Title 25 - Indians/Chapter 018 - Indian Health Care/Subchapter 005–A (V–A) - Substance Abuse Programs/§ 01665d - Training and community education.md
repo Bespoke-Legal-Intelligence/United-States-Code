@@ -2,11 +2,11 @@
 
 #### (a) Community education
 
-The Secretary, in cooperation with the Secretary of the Interior, shall develop and implement within each service unit a program of community education and involvement which shall be designed to provide concise and timely information to the community leadership of each tribal community. Such program shall includeeducation in alcohol and substance abuse to political leaders, tribal judges, law enforcement personnel, members of tribal health and education boards, and other critical members of each tribal community.
+The Secretary, in cooperation with the Secretary of the Interior, shall develop and implement within each service unit a program of community education and involvement which shall be designed to provide concise and timely information to the community leadership of each tribal community. Such program shall include education in alcohol and substance abuse to political leaders, tribal judges, law enforcement personnel, members of tribal health and education boards, and other critical members of each tribal community.
 
 #### (b) Training
 
-The Secretary shall, either directly or by contract, provide instruction in the area of alcohol and substance abuse, including instruction in crisis intervention and family relations in the context of alcohol and substance abuse, youth alcohol and substance abuse, and the causes and effects of fetal alcohol syndrome to appropriate employees of the Bureau of Indian Affairs and the Service, and to personnel in schools or programs operated under any contract with the Bureau of Indian Affairs or the Service, including supervisors of emergency shelters and halfway houses described in section 2433 of this title.
+The Secretary shall, either directly or by contract, provide instruction in the area of alcohol and substance abuse, including instruction in crisis intervention and family relations in the context of alcohol and substance abuse, youthalcohol and substance abuse, and the causes and effects of fetal alcohol syndrome to appropriate employees of the Bureau of Indian Affairs and the Service, and to personnel in schools or programs operated under any contract with the Bureau of Indian Affairs or the Service, including supervisors of emergency shelters and halfway houses described in section 2433 of this title.
 
 #### (c) Community-based training models
 

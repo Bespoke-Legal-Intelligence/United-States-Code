@@ -4,7 +4,7 @@
 
 #### (1) Fiscal year 1995
 
-&emsp;For fiscal year 1995, appropriations for this part shall be allocated according to the provisions of sections 1005, except subsection (a)(3), and 1006, part A of chapter 1 of title I, Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, except that the State minimum for section 1005 shall be the lesser of 0.25 percent of total appropriations or the average of 0.25 percent of total appropriations and 150 percent of the national average grant per child counted for grants under section 1005 multiplied by the State's number of children counted for such grants, and for grants under section 1006, the State minimum shall be the lesser of—
+&emsp;For fiscal year 1995, appropriations for this part shall be allocated according to the provisions of sections 1005, except subsection (a)(3), and 1006, part A of chapter 1 of title I, Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, except that theState minimum for section 1005 shall be the lesser of 0.25 percent of total appropriations or the average of 0.25 percent of total appropriations and 150 percent of the national average grant per child counted for grants under section 1005 multiplied by the State's number of children counted for such grants, and for grants under section 1006, the State minimum shall be the lesser of—
 
 &emsp;&emsp;(A) 0.25 percent of total appropriations; and
 
@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;For fiscal year 1995, notwithstanding subsection (b) of this section and without regardto amounts available for delinquent children under subpart 2 of part D of this subchapter, the amount made available to each local educational agency under such section 1005 shall be at least 85 percent of the amount such local educational agency received for the preceding year under such section 1005.
+&emsp;For fiscal year 1995, notwithstanding subsection (b) of this section and without regard to amounts available for delinquent children under subpart 2 of part D of this subchapter, the amount made available to each local educational agency under such section 1005 shall be at least 85 percent of the amount such local educational agency received for the preceding year under such section 1005.
 
 #### (2) Fiscal year 1996
 
@@ -60,7 +60,7 @@ For the purpose of this section and sections 6333 and 6335 of this title, the te
 
 #### References in Text
 
-Sections 1005 and 1006 of part A of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, referred to in subsecs. (a) and (c)(1), mean sections 1005 and 1006 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Sections 1005 and 1006 of part A of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, referred to in subsecs. (a) and (c)(1), mean sections 1005 and 1006 ofPub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 

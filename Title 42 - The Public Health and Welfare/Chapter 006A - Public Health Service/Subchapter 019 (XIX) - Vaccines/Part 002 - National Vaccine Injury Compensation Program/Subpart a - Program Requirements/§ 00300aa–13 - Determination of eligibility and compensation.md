@@ -32,7 +32,7 @@
 
 For purposes of this section, the term “record” means the record established by the special masters of the United States Court of Federal Claims in a proceeding on a petition filed under section 300aa–11 of this title.
 
-(July 1, 1944, ch. 373, title XXI, §2113, as added Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3763; amended Dec. 22, 1987, Pub. L. 100–203, title IV, §4307(4), 101 Stat. 1330–224; Dec. 19, 1989, Pub. L. 101–239, title VI, §6601(j), 103 Stat. 2290; Nov. 3, 1990, Pub. L. 101–502, §5(c), 104 Stat. 1287; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(July 1, 1944, ch. 373, title XXI, §2113, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3763; amended Pub. L. 100–203, title IV, §4307(4), Dec. 22, 1987, 101 Stat. 1330–224; Pub. L. 101–239, title VI, §6601(j), Dec. 19, 1989, 103 Stat. 2290; Pub. L. 101–502, §5(c), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Prior Provisions
 

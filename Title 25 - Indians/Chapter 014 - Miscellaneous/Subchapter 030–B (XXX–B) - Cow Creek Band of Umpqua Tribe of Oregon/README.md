@@ -10,3 +10,4 @@
 - [&sect; 00712b - Organization of tribe](%C2%A7%2000712b%20-%20Organization%20of%20tribe.md)
 - [&sect; 00712c - Tribal membership](%C2%A7%2000712c%20-%20Tribal%20membership.md)
 - [&sect; 00712d - Rules](%C2%A7%2000712d%20-%20Rules.md)
+- [&sect; 00712e - Certain property taken into trust](%C2%A7%2000712e%20-%20Certain%20property%20taken%20into%20trust.md)

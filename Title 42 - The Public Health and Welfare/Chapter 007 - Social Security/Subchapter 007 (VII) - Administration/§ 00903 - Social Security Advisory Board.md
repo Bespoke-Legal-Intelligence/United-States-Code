@@ -92,7 +92,7 @@ The Board shall, without regard to the provisions of title 5 relating to the com
 
 There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.
 
-(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171; Aug. 15, 1994, Pub. L. 103–296, title I, §103, 108 Stat. 1467; Mar. 29, 1996, Pub. L. 104–121, title I, §108, 110 Stat. 857; Aug. 5, 1997, Pub. L. 105–33, title V, §5526, 111 Stat. 625.)
+(Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §103, Aug. 15, 1994, 108 Stat. 1467; Pub. L. 104–121, title I, §108, Mar. 29, 1996, 110 Stat. 857; Pub. L. 105–33, title V, §5526, Aug. 5, 1997, 111 Stat. 625.)
 
 #### References In Text
 

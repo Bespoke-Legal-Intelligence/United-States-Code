@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;(4) The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, or production activities.
 
-&emsp;(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term“laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
+&emsp;(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term “laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
 
 &emsp;(6) The term “critical technology” means a technology that is—
 
@@ -92,7 +92,7 @@ Pars. (13) to (15). Pub. L. 103–160, §1315(f), added pars. (13) to (15).
 
 #### Short Title of 1994 Amendment
 
-Section 1101 of title XI of div. A of Pub. L. 103–337 provided that: “This title \[enacting sections 2519 and 2520of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
+Section 1101 of title XI of div. A of Pub. L. 103–337 provided that: “This title \[enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
 
 #### Short Title of 1993 Amendment
 

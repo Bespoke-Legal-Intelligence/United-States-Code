@@ -2,7 +2,7 @@
 
 #### (a) Enforcement by Federal Trade Commission
 
-(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
+(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective ofwhether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
 
 (2)(A) In the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
 
@@ -14,7 +14,7 @@
 
 #### (b) Enforcement by other agencies
 
-Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—
+Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) of section 1681m of this title shall be enforced under—
 
 &emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], in the case of—
 
@@ -52,7 +52,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;&emsp;&emsp;(iii) damages of not more than $1,000 for each willful or negligent violation; and
 
-&emsp;&emsp;(C) in the case of any successful action under subparagraph (A) or (B), shall be awarded the costs of the action and reasonable attorney fees as determined by the court.
+&emsp;&emsp;(C) in the case of any successful action under subparagraph (A) or (B), shall beawarded the costs of the action and reasonable attorney fees as determined by the court.
 
 #### (2) Rights of Federal regulators
 
@@ -96,7 +96,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph <sup>2</sup> (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.
 
-(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(<i>l</i>), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452.)
+(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(<i>l</i>), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211.)
 
 #### References in Text
 
@@ -115,6 +115,8 @@ In subsec. (b)(4), “subtitle IV of title 49” substituted for “the Acts to 
 In subsec. (b)(5), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
+
+1998—Subsec. (b). Pub. L. 105–347 struck out “or (e)” after “subject to subsection (d)” in introductory provisions.
 
 1996—Subsec. (a). Pub. L. 104–208, §2416(b)(1), which directed the amendment of subsec. (a) by inserting heading “Enforcement by Federal Trade Commission” before “Compliance with the requirements”, was executed by making the insertion after “(a)”, to reflect the probable intent of Congress and the amendment by Pub. L. 104–208, §2416(a). See below.
 
@@ -147,6 +149,10 @@ Pub. L. 102–242, §212(c)(1), added par. (1) and struck out former par. (1) wh
 1989—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
 
 1984—Subsec. (b)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+
+#### Effective Date of 1998 Amendment
+
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1996 Amendment
 

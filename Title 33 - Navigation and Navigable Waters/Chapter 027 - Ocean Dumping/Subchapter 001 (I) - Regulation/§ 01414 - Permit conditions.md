@@ -10,7 +10,7 @@ The Administrator or the Secretary, as the case may be, may prescribe such proce
 
 #### (c) General permits
 
-Consistent with the requirements of sections 1412 and 1413 of this title, but in lieu of a requirement for specific permits in such case, the Administrator or the Secretary, as the case maybe, may issue general permits for the transportation for dumping, or dumping, or both, of specified materials or classes of materials for which he may issue permits, which he determines will have a minimal adverse environmental impact.
+Consistent with the requirements of sections 1412 and 1413 of this title, but in lieu of a requirement for specific permits in such case, the Administrator or the Secretary, as the case may be, may issue general permits for the transportation for dumping, or dumping, or both, of specified materials or classes of materials for which he may issue permits, which he determines will have a minimal adverse environmental impact.
 
 #### (d) Review
 
@@ -68,7 +68,7 @@ Notwithstanding any provision of this subchapter to the contrary, during the two
 
 &emsp;(I) comments and results of consultation with State officials and public hearings held in the coastal States that are nearest to the affected areas;
 
-&emsp;(J) a comprehensive monitoring plan to be carried out by the applicant to determine the full effect of the disposal on the marine environment, living resources, or human health, which plan shall include, but not be limitedto, the monitoring of exterior container radiation samples, the taking of water and sediment samples, and fish and benthic animal samples, adjacent to the containers, and the acquisition of such other information as the Administrator may require; and
+&emsp;(J) a comprehensive monitoring plan to be carried out by the applicant to determine the full effect of the disposal on the marine environment, living resources, or human health, which plan shall include, but not be limited to, the monitoring of exterior container radiation samples, the taking of water and sediment samples, and fish and benthic animal samples, adjacent to the containers, and the acquisition of such other information as the Administrator may require; and
 
 &emsp;(K) such other information which the Administrator may require in order to determine the full effects of such disposal.
 

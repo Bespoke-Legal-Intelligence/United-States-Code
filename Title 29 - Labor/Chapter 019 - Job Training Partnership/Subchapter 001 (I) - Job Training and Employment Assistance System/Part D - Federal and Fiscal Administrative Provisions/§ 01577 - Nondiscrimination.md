@@ -10,7 +10,7 @@
 
 (4) With respect to terms and conditions affecting, or rights provided to, individuals who are participants in activities supported by funds provided under this chapter, such individuals shall not be discriminated against solely because of their status as such participants.
 
-(5) Participation in programs and activities financially assisted in whole or in part under this chapter shall be open to citizens and nationals of the United States, lawfully admitted permanent resident aliens, lawfully admitted refugees and parolees, and other individuals authorized by the Attorney General to work in the United States.
+(5) Participation in programs and activities financially assisted in whole or in part under thischapter shall be open to citizens and nationals of the United States, lawfully admitted permanent resident aliens, lawfully admitted refugees and parolees, and other individuals authorized by the Attorney General to work in the United States.
 
 #### (b) Recipient noncompliance and Secretary's action
 
@@ -72,9 +72,13 @@ The Secretary shall issue final regulations implementing this section not later 
 
 (Pub. L. 97–300, title I, §167, Oct. 13, 1982, 96 Stat. 1352; Pub. L. 102–367, title I, §§103(b)(2), 144, Sept. 7, 1992, 106 Stat. 1026, 1051.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that this section is repealed effective July 1, 2000.</i>
+
 #### References in Text
 
-The Age Discrimination Act of 1975, referred to in subsecs. (a)(1), (b)(2), and (e)(2)(I)(ii), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act of 1975, referred to in subsecs. (a)(1), (b)(2), and (e)(2)(I)(ii), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Education Amendments of 1972 is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
 

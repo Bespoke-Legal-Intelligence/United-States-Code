@@ -46,11 +46,15 @@ For the purpose of executing the duties and functions of the Coast Guard the Com
 
 &emsp;&emsp;(2) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
 
-&emsp;(u) enter into cooperative agreements with other Government agencies and the National Academy of Sciences; and
+&emsp;(u) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
 
-&emsp;(v) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available to the Commandant under section 30305(a) of title 49, may receive that information, and upon receipt, shall make the information available to the individual.
+&emsp;(v) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available to the Commandant under section 30305(a) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Oct. 18, 1976, Pub. L. 94–546, §1(9), 90 Stat. 2519; Dec. 29, 1981, Pub. L. 97–136, §6(d), 95 Stat. 1706; Oct. 2, 1982, Pub. L. 97–276, §143, 96 Stat. 1199; Oct. 12, 1982, Pub. L. 97–295, §2(4), 96 Stat. 1301; Oct. 15, 1982, Pub. L. 97–322, title I, §115(c), 96 Stat. 1586; Dec. 19, 1991, Pub. L. 102–241, §7, 105 Stat. 2212; Dec. 20, 1993, Pub. L. 103–206, title II, §202, title III, §316, 107 Stat. 2420, 2426; Oct. 19, 1996, Pub. L. 104–324, title II, §207(a), 110 Stat. 3908.)
+&emsp;(w) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation); and
+
+&emsp;(x) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415.)
 
 #### Historical and Revision Notes
 
@@ -100,6 +104,10 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
+1998—Subsec. (w). Pub. L. 105–383, §202, added subsec. (w).
+
+Subsec. (x). Pub. L. 105–383, §203, added subsec. (x).
+
 1996—Subsec. (v). Pub. L. 104–324 added subsec. (v).
 
 1993—Subsec. (t). Pub. L. 103–206, §202, added subsec. (t).
@@ -125,6 +133,14 @@ Subsec. (k). Act Oct. 31, 1951, §1(33), repealed subsec. (k) which empowered th
 1950—Subsec. (<i>o</i>). Act Aug. 3, 1950, struck out “and” after the semicolon.
 
 Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
+
+#### Conveyance of Lighthouses; Notification
+
+Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: “Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard.”
+
+#### Small Waterplane Area Twin Hull (SWATH) Technology
+
+Pub. L. 105–383, title IV, §425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Commandant of theCoast Guard shall, within 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels.”
 
 #### Cross References
 

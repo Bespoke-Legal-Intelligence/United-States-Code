@@ -10,7 +10,7 @@ Subject to subsection (b) of this section, nothing in this part (or part C of th
 
 (2) Nothing in this part (other than section 300gg–51 of this title) shall be construed as requiring health insurance coverage offered in the individual market to provide specific benefits under the terms of such coverage.
 
-(July 1, 1944, ch. 373, title XXVII, §2762, formerly §2746, as added Aug. 21, 1996, Pub. L. 104–191, title I, §111(a), 110 Stat. 1987; renumbered §2762 and amended, Sept. 26, 1996, Pub. L. 104–204, title VI, §605(a)(2), (b)(3), 110 Stat. 2941, 2942.)
+(July 1, 1944, ch. 373, title XXVII, §2762, formerly §2746, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1987; renumbered §2762 and amended, Pub. L. 104–204, title VI, §605(a)(2), (b)(3), Sept. 26, 1996, 110 Stat. 2941, 2942.)
 
 #### Amendments
 

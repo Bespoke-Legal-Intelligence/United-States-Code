@@ -26,8 +26,6 @@ Section 2748, Pub. L. 88–452, title I, §131, as added Pub. L. 90–222, title
 
 Section 2749, Pub. L. 88–452, title I, §132, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 688; amended Pub. L. 92–424, §27(b)(1), (3), Sept. 19, 1972, 86 Stat. 705, provided for development and implementation of program data.
 
-See section 1501 et seq. of Title 29, Labor.
-
 #### Effective Date of Repeal
 
 Section 614 of Pub. L. 93–203 provided that the repeal by that section is effective with respect to fiscal years after June 30, 1974.

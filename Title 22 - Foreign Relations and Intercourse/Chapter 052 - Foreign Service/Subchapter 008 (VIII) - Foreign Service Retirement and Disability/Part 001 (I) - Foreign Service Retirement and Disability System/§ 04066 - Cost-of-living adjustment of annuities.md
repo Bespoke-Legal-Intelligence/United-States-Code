@@ -22,7 +22,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;&emsp;&emsp;(ii) in the case of a surviving spouse or former spouse of a deceased annuitant whose annuity has not been so increased, since the annuity was first payable to the deceased annuitant.
 
-&emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title,shall be increased by the total percentage increase the annuitant was receiving under this section at death.
+&emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
 &emsp;(3) For purposes of computing or recomputing an annuity to a child under section 4046(c) or (d) of this title or section 4049(c) or (d) of this title, the items $900, $1,080, $2,700, and $3,240 appearing in section 4046(c) of this title shall be increased by the total percentage increases by which corresponding amounts are being increased under section 8340 of title 5 on the date the annuity of the child becomes effective.
 
@@ -92,7 +92,7 @@ Amendment by Ex. Ord. No. 12289 effective Feb. 15, 1981, see section 3 of Ex. Or
 
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 
-Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under this section delayed until first day of third calendar month afterdate such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of Title 5, Government Organization and Employees.
+Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

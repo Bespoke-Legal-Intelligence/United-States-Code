@@ -24,7 +24,7 @@ Moneys in the special fund referred to in subsection (b) of this section shall n
 
 Nothing in this subsection shall be construed to limit the Administrator's authority to require manufacturer or confirmatory testing as provided in this part.
 
-(July 14, 1955, ch. 360, title II, §217, as added Nov. 15, 1990, Pub. L. 101–549, title II, §225, 104 Stat. 2504.)
+(July 14, 1955, ch. 360, title II, §217, as added Pub. L. 101–549, title II, §225, Nov. 15, 1990, 104 Stat. 2504.)
 
 #### Section Referred to in Other Sections
 

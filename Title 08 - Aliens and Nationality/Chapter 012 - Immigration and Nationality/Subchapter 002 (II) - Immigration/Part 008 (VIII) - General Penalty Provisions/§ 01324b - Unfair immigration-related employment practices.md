@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;It is an unfair immigration-related employment practice for a person or other entity todiscriminate against any individual (other than an unauthorized alien, as defined in section 1324a(h)(3) of this title) with respect to the hiring, or recruitment or referral for a fee, of the individual for employment or the discharging of the individual from employment—
+&emsp;It is an unfair immigration-related employment practice for a person or other entity to discriminate against any individual (other than an unauthorized alien, as defined in section 1324a(h)(3) of this title) with respect to the hiring, or recruitment or referral for a fee, of the individual for employment or the discharging of the individual from employment—
 
 &emsp;&emsp;(A) because of such individual's national origin, or
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel (appointed under subsection (c) of this section). Charges shall be in writing under oath or affirmation and shall contain such information as the Attorney General requires. The Special Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
+&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel (appointed under subsection (c) of this section). Charges shall be in writing under oathor affirmation and shall contain such information as the Attorney General requires. The Special Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
 
 #### (2) No overlap with EEOC complaints
 
@@ -104,7 +104,7 @@
 
 #### (2) Authority of administrative law judges
 
-&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issuedunder this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (g) Determinations
 
@@ -150,7 +150,7 @@
 
 #### (D) Treatment of distinct entities
 
-&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
+&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivisionshall be considered a separate person or entity.
 
 #### (3) Orders not finding violations
 
@@ -216,7 +216,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 (3) There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year (beginning with fiscal year 1991).
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Nov. 6, 1986, Pub. L. 99–603, title I, §102(a), 100 Stat. 3374; amended Oct. 24, 1988, Pub. L. 100–525, §2(b), 102 Stat. 2610; Nov. 29, 1990, Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), 104 Stat. 5054–5056; Dec. 12, 1991, Pub. L. 102–232, title III, §306(b)(1), (3), (c)(1), 105 Stat. 1752; Oct. 25, 1994, Pub. L. 103–416, title II, §219(q), 108 Stat. 4317; Sept. 30, 1996, Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), 110 Stat. 3009–670, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274B, as added Pub. L. 99–603, title I, §102(a), Nov. 6, 1986, 100 Stat. 3374; amended Pub. L. 100–525, §2(b), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–649, title V, §§531, 532(a), 533(a), 534(a), 535(a), 536(a), 537(a), 539(a), Nov. 29, 1990, 104 Stat. 5054–5056; Pub. L. 102–232, title III, §306(b)(1), (3), (c)(1), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(q), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title IV, §421(a), title VI, §671(d)(1)(B), Sept. 30, 1996, 110 Stat. 3009–670, 3009–723.)
 
 #### References in Text
 
@@ -324,11 +324,15 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### No Effect on EEOC Authority
 
 Section 102(b) of Pub. L. 99–603 provided that: “Except as may be specifically provided in this section, nothing in this section shall be construed to restrict the authority of the Equal Employment Opportunity Commission to investigate allegations, in writing and under oath or affirmation, of unlawful employment practices, as provided in section 706 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5), or any other authority provided therein.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1182 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

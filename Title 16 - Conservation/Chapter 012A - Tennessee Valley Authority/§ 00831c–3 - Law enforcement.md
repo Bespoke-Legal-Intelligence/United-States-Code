@@ -64,7 +64,11 @@ A law enforcement agent designated under subsection (a) of this section shall no
 
 #### (h) Relationship with Attorney General
 
-The duties and powers of law enforcement agents designated under subsection (a) of this section that are described in subsection (b) of this section shall be exercised in accordancewith guidelines approved by the Attorney General.
+The duties and powers of law enforcement agents designated under subsection (a) of this section that are described in subsection (b) of this section shall be exercised in accordance with guidelines approved by the Attorney General.
 
-(May 18, 1933, ch. 32, §4A, as added Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320929, 108 Stat. 2133.)
+(May 18, 1933, ch. 32, §4A, as added Pub. L. 103–322, title XXXII, §320929, Sept. 13, 1994, 108 Stat. 2133.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 460<i>lll</i> of this title.
 

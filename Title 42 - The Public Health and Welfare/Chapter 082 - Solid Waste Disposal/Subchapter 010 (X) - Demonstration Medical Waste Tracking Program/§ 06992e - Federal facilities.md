@@ -10,7 +10,3 @@ For purposes of this chapter, the term “person” shall be treated as includin
 
 (Pub. L. 89–272, title II, §11006, as added Pub. L. 100–582, §2(a), Nov. 1, 1988, 102 Stat. 2954.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6992g of this title.
-
